@@ -1,0 +1,37 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tabriz|IR||7o|2xs|3kl|azq|Tauris;Täbris;Tebriz;Tewrêz;Tebrizas;Tebrīza;Töwriz;Tabrezē;Tabrezion;Tawrēž
+Nay Pyi Taw|MM||7y|1iv|7f1|74y|Naypyidaw;Naypyitaw;Naipidau;Nepjido;Ne Pyi Daw
+Tawau|MY||6w|bs|93h|2vi|Tawao
+Dawukou|CN||7i|30g|87k|10n|Ta-wu-k’ou
+Tahara|JP||7q|2ob|alb|gq|Tawara
+Tavda|RU||7z|4h8|51b|az|Tawda
+Tozeur|TN||1e|2m8|ml|ae|Thusuros;Tauzaras;Tuzer;Tauzar;Tawzar
+Tokār|SD||r|1f7|2wt|ab|Taukar;Ţawkar
+Tewulike|CN||7t|39e|6pa|91|Hoxut;Xoshut;Tëwilgha;Tawilga;Tawilgha;Tavilgha;Hoxud;Tewilga
+Tawaramoto|JP||7q|2nz|ah7|8y|Taharamoto
+Tawakule|CN||7t|2ww|66u|7i
+Távros|GR||8p|2xh|1tt|46|Tawros
+Tawang Town|IN||6t|24l|730|34
+Tarboro|US||48|2rq|-5ze|34|Tawboro
+Tawa|NZ||ak|-36d|dhn|2p
+Taw Pyar|MM|Tanintharyi Region|7y|xy|7lh|2g|Tawbyagyi
+Taneytown|US||48|326|-5yd|1v|Tawneytown;Taney Town
+Tawara|CI||0|qu|-fp|1q
+Taw Taik|MM||7y|1b4|7f0|1j
+Dawangtai|CN||7i|314|92d|1g|Ta-wang-t’ai
+Taw Kha Yan Lay|MM||7y|19m|7eg|17
+Taw Kha Yan Ah Nauk|MM||7y|19l|7es|16
+Tawan tawan|PH||71|jx|9o9|10
+Taoudenni|ML||5|1r0|-b2|u|Taoudeni;Taŭdenio;Taudenis;Tawudeni;Taoudénit;Taudeni;Taodéni
+Tawagan|PH||71|ls|9iz|s
+Taw Kha Yan Ah Shey|MM||7y|19l|7et|r
+Tawala|PH||71|qj|9jt|r|Tauala;Taiwala
+Tawern|DE||8r|3tz|i4|n
+Taw Ku Ah Shey|MM||7y|19o|7f0|m
+Taw Ku Ah Nauk|MM||7y|19n|7ez|m
+Taw Lan|MM||7y|19p|7fc|m|Tawlan
+Tawa|CA||2s|44i|-8r2|k
+Taw Kha Lu|MM||7y|19t|7fg|j|Tawgalu;Tawkalu
+Tawas City|US||2q|3ez|-6fz|i
+Taw Pyar|MM|Yangon|7y|19t|7fa|8|Tawpya
+Tawonga|AU||8j|-2tx|bcq|5

@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+San Daniele del Friuli|IT||9o|3k8|105|1v|San Daniele;Sant Denêl;San Denel
+Saint-Donan|FR||9k|3qn|-81|e|Sant-Donan
+Saint-Derrien|FR||9k|3qv|-bm|6|Sant-Derc'hen;Sant-Derchen

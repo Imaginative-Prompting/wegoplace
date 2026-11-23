@@ -1,0 +1,1068 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Ningbo|CN||7i|2b0|9dn|ssg|Nèn-pô-sṳ;Ninh Ba;Lêng-pho-chhī;Ninbo;Nìng-pŏ̤;Ningpo
+Niamey|NE||18|11j|5v|a7p|Niamėjus;Niameja;Niamei;Niameo;Niamè
+Nizhniy Novgorod|RU||9i|4ch|3e8|9pq|Nizjnij Novgorod;Nizhny Novgorod;Nischni Nowgorod;Nijni Novgorod;Gorkij;Nižni Novgorod;Nyizsnyij Novgorod;Nizhni Nóvgorod;Nizhni Novqorod;Nishni-Nowgorod;Gorkii;Nižnij Nowgorod;Gor'kiy;Nishnii Nowgorod;Gorki;Nizhnii Novgorod;Nishnij Nowgorod;Nijnii Novgorod
+Yichun|CN|Jiangxi|7i|25b|8ts|82k|I-čchun;Nghi Xuân;Ngì-chŭng;Nî-chhûn-sṳ;Gî-chhun-chhī;I-ch’un
+Niigata|JP||7q|2xc|aq8|65k
+Rizhao|CN||7i|2qd|981|53v|Nĭk-ciéu;Ž’-čao;Nhật Chiếu;Ji̍t-chiàu-chhī
+Nha Trang|VN||6h|y1|8fb|4gu|Ņačana;Ngà-tsông-sṳ;Niačangas;INhatrang
+Nyala|SD||r|xh|1x4|4d5|Njalo;Njala;Nijala;Niala;Niyālā
+Nilüfer|TR||94|33p|28c|450
+Nuremberg|DE||8r|3td|us|3z7|Nürnberg;Norymberga;Norimberk;Nurenbergo;Norimberga;Niurnbergas;Nirnberga;Nürnbarg;Neurenberg;Norimberg;Nyrëmberg;Nyurnbérg;Niamberg;Nürnberq;Neurenberch;Nuremburg;Nurenberg;Nurenburg;Nuernberg
+Niterói|BR||4w|-1rk|-3bq|3z5|Nictheroi
+Newcastle|AU||8l|-2jh|bpm|3x8|Novkastelo;Niukaslas;Niukasel;Nyukasl
+Nishinomiya|JP||7q|2og|afx|3qw
+Mykolayiv|UA|Mykolaiv|98|3mi|2gv|3mk|Vernoleninsk;Mykolaïv;Mikołajów;Mikolajiv;Nicolopoli
+Ningde|CN||7i|222|980|3b9|Ningteh;Ning-te
+San Nicolás de los Garza|MX||44|1zi|-7qm|36i|San Nicolás de los Garsas
+Nizhny Tagil|RU||7z|4gw|4ml|2xv|Nizjnij Tagil;Nižnji Tagil;Nizhni Tagil;Nizhnii Tagil;Nizhniy Tagil
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+Nice|FR||9k|3de|k7|2n7|Nizza;Niza;Niça;Nico;Nicaea;Nisa;Nis;Nissa;Nissa Marìtima;Nicc;Nitza
+Hoa Lư|VN||62|1ka|86e|2gn|Thành Phố Ninh Bình;Ninh Binh;Nin Bin;Ninbinh
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+Nizāmābād|IN|Telangana|6t|1fv|60y|2eg
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Bắc Ninh|VN||62|1mv|86o|27x|Bak Ninh;Bacht Ninh;Bak Nin
+Newark|US|New Jersey|48|356|-5q1|26b|Ņuarka;Niuarkas;Novarcum
+Villa Nicolás Romero|MX||41|1ij|-7nw|26a|Ciudad Nicolás Romero
+Nianbo|CN||7i|2tc|7wi|20a|Haidong;Nyan’bo
+Niš|RS||8q|3cc|1ou|1xg|Nix
+Nizhnevartovsk|RU||7z|4p9|5wn|1w1|Nischnewartowsk;Niĵnevartovsk;Nižnevartovsk;Niżniewartowsk;Nizjnevartovsk;Ņižņevartovska;Nižnevartovskas;Nižnjevartovsk
+Nizhnekamsk|RU||9i|4ak|3zy|1t3|Nischnekamsk;Niĵnekamsk;Nižnekamsk;Tübän Kama;Niżniekamsk;Nizjnekamsk;Tübenkama;Ņižņekamska;Nižnekamskas;Nižnjekamsk
+Ninh Hòa|VN||6h|yp|8f4|1s2
+NIA Valencia|PH||71|lz|9nh|1q4|Valencia City;Kota Valencia;Valencia Lakanbalen;Dakbayan sa Valencia;Lungsod ng Valencia
+Neyshābūr|IR||7o|2sl|4jc|1pd|Nichapur;Nishapur;Nischapur;Nejŝaburo;Nişabur;Nīshābūr
+Trondheim|NO||9j|4w7|sw|1o5|troneim;Þrándheimur;Nidaros;Nidrosia;Troandin;Tronheima;Truondhėims;Trondhjem;Drontheim
+Kostanay|KZ||7c|43t|4wq|1mc|Qostanay;Kustanay;Nikolayevsk;Qostanai;Kostanái;Kostanajus;Kostanaj;Qoʻstanay;Kustanaj;Qostanaj;Kustanai
+Nishi-Tokyo-shi|JP||7q|2r9|arm|1lm|Nishitokyo-shi
+Nicosia|CY||73|2pp|2kn|1jp|Lefkosía;Nikozio;Nikosia;Nicosie;Nikozija;Nikozja;Nikózia;Lefkoşa;Nikosija;Nikósie;An Leafcóis;Nikosiya;Nikozi;Nikosii;Nicoséa;Nėkosėjė;Nicusìa;Niqusya;Leucosia
+Nyingchi|CN||7i|2ad|7a4|1jk|Linzhi;Nyingtri;Ňingthri;Nyingcsi;Njingči;Nying khri
+İzmit|TR||94|358|2b5|1im|Nicomédie;Nikomedia;Nicomedia;Nikomedeia;Ismit;Izmid
+Dinapur Nizamat|IN||6t|1z8|6k9|1eo
+Nijmegen|NL||8m|400|g9|1da|Nimwegen;Nimega;Nimègue;Nymwegen;Nimwege;Ulpia Noviomagus Batavorum;Gemeen Nimwaege;Neimegenas;Neimegena;Nymegen;Nijmeyen
+Nishio|JP||7q|2ov|akp|1b8|Niŝio;Nisyio;Nisio-chhī
+Niiza|JP||7q|2ri|aro|1a4|Niisa
+Ning’er|CN||7i|1s0|7so|197|Ning-erh
+Newport|GB|Wales|9b|3zb|-8c|18v|Casnewydd;Novus Burgus;Niuportas;Nyuport;Trefdraeth;Ņūporta
+Nilópolis|BR||4w|-1rd|-3cl|177
+Amsterdam Nieuw-West|NL||8m|41g|dd|165|New West
+Nîmes|FR||9k|3ds|c4|156|Nimo;Nemausus;Nîme;Nīma;Nimas;Nismes
+Nigel|ZA||o|-21f|274|132
+Tây Ninh|VN||6h|vf|86q|11l
+Nevinnomyssk|RU||9i|3fz|38i|11b|Newinnomyssk;Nevinnomissk;Niewinnomyssk;Nevinnomõssk;Nevinomyskas;Nevinomısk;Njewinnomyssk;Nevinnomisk;Nevinnonyssk;Nevinomysk
+San Nicolás de los Arroyos|AR||1l|-2kl|-4n9|11a|San Nikolas de los Arojosas;San Nicolás;San Nikolas de los Aroyos
+New Haven|US|Connecticut|48|36r|-5ml|107|Novus Portus;Ņūheivena;Nyu-Heyven;Niu Heivenas
+Nimach|IN||6t|1vy|5rz|zq
+Neftekamsk|RU||7z|4bt|46q|z8|Neftekama;Nyeftyekamszk;Nieftiekamsk;Njeftekamsk
+Niihama|JP||7q|2mc|aab|y7|Nijihama
+Nyíregyháza|HU||8v|3p8|1oc|wp|Nyredhaza;Níreďháza;Njiredhaz;Njiređhaza
+Nippes|DE||8r|3xl|jb|vj
+Nikopol|UA|Dnipropetrovsk|98|3o5|2nj|t8|Mykytyn Rih;Nicopoli;Mykytynska Sich;Mykopil;Nyikopol;Slov'yansk;Slov'iansk;Nykopil
+Niagara Falls|CA||59|3bq|-63n|rq|Chutes Niagara;Niagara Akvofalo;Niagara Folsas;Cataratas del Niágara;Rhaeadr Niagara
+Nisshin|JP||7q|2pm|akp|pi|Nissyin;Nissin-chhī
+Niğde|TR||94|2xh|2oc|pa|Niide
+New Plymouth|NZ||ak|-30j|dfk|p1|Nueva Plymouth;Aberplymm Nowydh;Naujasis Plimutas;Nieu-Plymouth;Ngāmotu
+Níkaia|GR|Attica|8p|2xh|1tp|ou
+Nusaybin|TR||94|2uz|36h|oq|Nisibis;Nisibin;Nuseybin
+Nirmal|IN||6t|1h2|61m|ok
+Nitra|SK||8s|3q7|1e8|nz|Neutra;Nyitra;Njitra
+Ningyang|CN||7i|2rc|90f|n2|Ninyan
+Nizip|TR||94|2ut|2wz|mv|Nezip
+Nianzhuang|CN||7i|2na|935|me
+Neumünster|DE||8r|467|rq|ma|Niemünster;Novum Monasterium;Naimünster
+Nikkō|JP||7q|2u3|aru|ll|Niko
+Nahāvand|IR||7o|2mz|3qd|l7|Nehāvend;Nīhāvand
+Nizwá|OM||72|1rp|4ft|k1|Nizva
+Vaasa|FI||92|4va|1o2|je|Nikolainkaupunki;Wasa;Nikolaistad;Vasa;Vas
+Satpayev|KZ||5s|3p2|57m|je|Sätbayev;Nikol’skiy;Sätbaev
+Ninghai|CN|Zhejiang|7i|29d|9da|iz
+Nizhyn|UA||98|3xt|2gl|im|Nischyn;Nieżyn;Niĵino;Nižõn;Nijyn;Nizjyn;Nijın;Nižyn;Nižynas;Nižin;Nizhin
+Nikki|BJ||1b|rm|8x|id
+Niitsu-honchō|JP||7q|2x0|aqg|ib|Niitsu;Niitu
+Nioko I|BF||1a|yg|-40|i5
+Nipāni|IN||6t|19k|5qm|hh|Nimpani
+Caltanissetta|IT||9o|2w5|132|hg|Nissa;Caltanisetta
+Nioki|CD||t|-7k|1d5|ha
+Nianzishan|CN||7i|3nz|9hd|h9
+Nīmbāhera|IN||6t|1we|5rg|h7
+Nieuwegein|NL||8m|40j|e4|h3|Nieuwegen
+Nekā|IR||7o|2tt|442|gy|Nīkā
+Nikšić|ME||9l|3at|1gm|g6|Nikshiqi
+Ninghai|CN|Shandong|7i|2vu|9dt|ft|Ning-hai
+Niort|FR||9k|3ko|-1a|f7|Njoras
+Nirgua|VE||2c|s7|-5ag|f1
+Nihommatsu|JP||7q|2we|au3|ew|Nihonmatsu
+Niono|ML||5|13l|-gn|em
+Nioro|ML||5|16b|-qn|ef
+Nichinan|JP||7q|2fs|a4x|e8|Nitinan-chhī
+Nithari|IN||6t|27q|5y1|e1
+Nikol’skoye|RU|Moscow|9i|4ao|2w4|dw|Nikolskiy
+Niksar|TR||94|34r|2un|dv
+Niagara Falls|US||48|3bp|-63m|dl|Niagara Akvofalo
+Niah|MY||6w|aq|8rw|dl
+Ningdong|CN||7i|2y0|883|di
+Nihtaur|IN||6t|29g|61r|dg|Nehtaur
+Nihammatsu|JP||7q|2q9|ar7|df
+Nichelino|IT||9o|3h0|l9|da|Ël Niclin
+Nysa|PL||a5|3w7|1c5|d5|Neisse;Nisa;Neisse-Neuland;Neisze
+Nilambūr|IN|Kerala|6t|vb|5vr|cw
+Neath|GB||9b|3zi|-ak|ct|Castell Nedd;Nitas;Castell-nedd
+Neustadt am Rübenberge|DE||8r|41u|qa|cf|Niestadt;Neustadt am Rbge;Neustadt
+Nefas Mewch’a|ET||2|wl|2yv|ca|Nefas Mucha;Nefas Moicha;Ne Fas Macha;Nifas Mewch’a
+Nidadavole|IN||6t|1az|6av|ca|Nidadavol
+Nevers|FR||9k|3mj|8s|c8|Nivernum;Neveras;Nivèrns;Never
+Nilithi|IN||6t|27l|5y2|c2|Nilothi
+Nishifukuma|JP||7q|2lt|a2f|c0
+Niakoul Rab|SN||g|152|-1bz|bk|Niakoul Rap;Niakoulrab;Niacoulrab
+Niendorf|DE||8r|44y|rn|bd
+Nibong Tebal|MY||6v|ed|7r4|b5|Nibongtebala;Nibong Tebai;Nibon Tebal;Nibong Tepal;Nibung Tebal
+Nicastro|IT||9o|309|19b|b4
+Nõmme|EE||9x|4ky|1wl|ay|Nimme;Nymme
+Mikołów|PL||a5|3vd|1gi|as|Nicolai;Nikolaus;Miklós;Nicolaas;Mikuláš;Mikolova;Mikołůw;Nikolai;Mikoluvas
+Nyköping|SE||9w|4j7|1b9|as|Nišiopingas
+Nizhneudinsk|RU||6k|48j|7n3|ar|Nizjneudinsk;Nischneudinsk;Nijneoudinsk;Nižneudinsk;Nijneudinsk;Nyizsnyeugyinszk;Niżnieudinsk
+Nishiwaki|JP||7q|2p6|aex|ar
+Nijkerk|NL||8m|412|f9|an
+Nildoh|IN||6t|1mn|63f|am
+Niwai|IN||6t|218|5uw|ai|Newai
+Niederkassel|DE||8r|3x6|jk|a5|Neddekaaßel
+Nilanga|IN||6t|1ec|5x7|a2
+Nishishinminato|JP||7q|2u6|aks|a0
+Nishihara|JP||7q|20x|9uu|9q|Nishibara;Nishibaru
+Niquelândia|BR||4w|-147|-3qm|9q
+Ninove|BE||8t|3x7|b7|9o|Outer
+Niangoloko|BF||1a|sk|-do|99
+Newbury|GB||9b|3ys|-3o|97|Niuberis;Neubiria;Ulfretūn
+Nienburg|DE||8r|428|pm|92|Nīnburga pie Vēzeres;Nienborg
+Niederschönhausen|DE||8r|422|118|8w
+Nísia Floresta|BR||2w|-gx|-2pt|8v
+Nieuw-Vennep|NL||8m|416|cv|8u
+Niagara|CA||59|3d8|-64l|8o
+Niimi|JP||7q|2p6|aar|8i
+Nīlī|AF||6o|2lo|53p|8d
+Nikulino|RU||9i|4an|2w3|8c
+Niles|US|Illinois|2f|38q|-6rw|8b
+Nicholasville|US||48|2x8|-6ix|8a
+Nirasaki|JP||7q|2r6|aol|87|Nirazaki
+Newtownards|GB||9b|47n|-ft|86|Baile Nua na hArda;Niutonardsas
+Newry|GB||9b|46i|-hm|7q|Iúir Cinn Trá;Iúr Cinn Trá;Iuorus;Niūris;Yn Euar
+Neftekumsk|RU||9i|3gc|3gz|7p|Neftekoumsk;Nieftiekumsk;Neftekoemsk;Njeftekumsk
+Ninomiya|JP||7q|2q2|aqu|7o
+Nikolayevsk-on-Amure|RU||7w|43n|auw|7k|Nikołajewsk nad Amurem;Nikolayevsk-on-Amur;Nikolajevsk-na-Amure;Nikolaevsk-na-Amur;Nikolajevsk aan de Amoer;Nikolaïevsk-sur-l'Amour;Nikolaevsk-on-Amur
+Nové Město|CZ||9m|3v4|142|7j|Prager Neustadt;New Town;Città Nuova;Nieuwe Stad;Újváros;Pragako Hiri Berria;Nova Urbo;Nowe Miasto
+Niederrad|DE||8r|3v4|nz|7i
+Niscemi|IT||9o|2v7|13z|7h
+Níjar|ES||9d|2up|-65|7d
+Nizza Millefonti|IT||9o|3h3|lb|7d|Nissa Milafont
+Ninohe|JP||7q|33x|awj|73
+Nīlēshwar|IN||6t|y2|5sq|72
+Nerekhta|RU||9i|4fm|34p|72|Nerechta;Nereĥta;Nieriechta;Njerjechta;Nyerehta
+Nelidovo|RU||9i|4c7|2j1|71|Nielidowo;Njelidowo;Nelidowo
+Coudekerque-Branche|FR||9k|3xq|6n|70|Nieuw-Koudekerke;Nieuw-Koukerke;Couderkerque-Branche
+Nijverdal|NL||8m|41g|hz|6y
+Niellé|CI||0|sc|-fm|6w|Niélé
+Nieder-Ingelheim|DE||8r|3uu|mf|6u
+Nishinippori|JP||7q|2r9|as9|6r|Nishi-nippori
+Nikol’sk|RU|Penza Oblast|9i|458|3jz|6r|Nikolsk
+Newport|US|Rhode Island|48|379|-5i3|6q|Niuportas;Ņūporta;New Port;Niew-Port
+Nivelles|BE||8t|3wk|c1|6p|Nijvel;Nivele
+Ntcheu|MW||9|-156|2o8|6o|Ncheu;Nitcheu
+Nizhniy Lomov|RU||9i|44p|3dc|6m|Nizhni Lamov
+Nivāri|IN||6t|1yf|62w|6l|Niwari
+Nikaho|JP||7q|313|asq|6i
+Niamtougou|TG||w|r5|33|6h|Niamtugu;Njamtūu;Nyamtouhou;Niamtuu
+Nizhnyaya Tura|RU||7z|4iu|4m9|6a|Nizjnjaja Tura;Nischnjaja Tura;Nízhniaya Turá;Nijniaïa Toura;Nižnjaja Tura;Nizjnjaja Toera;Nijnyaya Tura;Niĵnjaja Tura;Niżniaja Tura;Nizhnaya Tura
+Near South Side|US||2f|38a|-6re|68|Nir Saut Sajd
+Nuku‘alofa|TO||bi|-1mq|-dio|68|Nukualofa;Nucualofa;Nukualofo;Niukalofa;Nuku‘aloia;Nukalofa
+Neustrelitz|DE||8r|448|10b|67|Nieg Strelitz;Neištrēlica;Nojštrelic
+İznik|TR||94|34b|2ak|66|Nicée;Nicea;Nikaia;Nicaea;Nicäa;Nikäa;Nizäa;Isnik
+Nilakottai|IN||6t|s8|609|66|Nilakkottai
+Nishiarai|JP||7q|2re|asa|63
+Niakaramandougou|CI||0|o2|-ep|62|Niankaramandougou;Niankaramadougou
+Nyamata|RW||s|-64|2bq|5z|Niamata
+Nixa|US||2f|2uw|-775|5u
+Nijlen|BE||8t|3y4|cz|5s
+Nioro du Rip|SN||g|127|-17w|5s|Nioro-du Pup
+Nytva|RU||7z|4gy|49q|5p|Nytwa;Nıtva;Nitv
+Nīmāj|IN||6t|20n|5pk|5o|Nimbāj
+Niablé|CI||0|ii|-93|5o
+Nirmāli|IN||6t|213|6oj|5m
+Nidderau|DE||8r|3vk|on|5l
+Nykøbing Falster|DK||8y|485|wz|5k|Niukiobingas
+Blackwall|GB||9b|3z3|0|5f|Nigramuro
+Nishitawara|JP||7q|2p4|aed|5e|Nishi-tawara
+Nimāparha|IN||6t|1jq|6mw|5d|Nimapāra
+Nikol’skoye|RU|Leningradskaya Oblast'|9i|4lu|2di|5d|Nikolskoje;Lomkka
+Niu Valley|US||ax|1n4|-c66|5d|Niu
+Niquero|CU||36|1jp|-5zi|58|Niguero
+Niles|US|Ohio|48|36e|-68d|57
+Niapidou|CI||0|ev|-gu|53|Niapadou
+Nidda|DE||8r|3w1|p1|52
+Nigrán|ES||9d|392|-oh|50
+Nīlokheri|IN||6t|2aw|5xp|4z|Nilokhera;Nilokeri;Nīlū Kheri
+Nishinoomote|JP||7q|2dd|a3w|4y|Nišinoomote;Nisinoomote-chhī
+Nima|CN||7i|2mg|7vj|4y
+Nichlaul|IN||6t|23v|6gl|4w
+Niagara-on-the-Lake|CA||59|3c6|-63p|4v
+Nizhnyaya Salda|RU||7z|4hc|4oo|4v|Nizjnjaja Salda
+Nīsang|IN||6t|2ah|5x7|4u
+Nicetown-Tioga|US||48|335|-5ss|4u
+Nilagiri|IN||6t|1nm|6p1|4t|Nīlgiri
+Nīkshahr|IR||7o|20v|4n9|4q
+Nipomo|US||3p|2pc|-9ao|4n|Nipoma;Nimpomo
+Nieuw-Vennep - Getsewoud|NL||8m|417|ct|4l
+Nigg|GB||9b|4eo|-5t|4k
+Nikolayevsk|RU||a4|3uz|3ia|4g|Nikolajevsk;Nikolajewskaja;Nikolayevka;Nikolaevski;Nikolajevska;Nikolaevsk
+Neustadt in Holstein|DE||8r|46b|u1|4f|Neustadt en Holstein;Neustadt;Niestadt in Holsteen
+Nesvizh|BY||9g|43u|224|4f|Nyasvizh;Nieśwież;Njaswisch;Njasviž;Nyaszvizs;Nesvyžius;Niasviž;Nes’vezh
+Nymburk|CZ||9m|3vf|15s|4e|Neuenberg;Nimburg
+Nikel|RU||9i|5ct|2by|4c|Nikkeli
+Nisko|PL||a5|3wc|1pi|4c
+Niederkrüchten|DE||8r|3y8|ha|4b
+Nicoya|CR||2i|s7|-6ld|49|Nikoja
+Nizahon II|CI||0|hp|-kk|49
+Nizhnesortymskiy|RU||7z|4tg|5jc|48
+Niz-Hajo|IN||6t|20x|728|48
+Niño Jesús|ES||9d|349|-a7|47
+Nirsā|IN||6t|1u2|6ov|44
+Nidzica|PL||a5|448|1kr|43|Neidenburg;Neidenbursch;Neidenburch
+Niceville|US||2f|2cs|-6o8|43
+Nilaiyūr|IN||6t|re|60u|43
+Nynäshamn|SE||9w|4jm|1dv|41|Nineshamnas;Nynäshamm
+Niedernhausen|DE||8r|3vc|n3|41
+Niederzier|DE||8r|3xc|hz|40
+Nyzhnya Krynka|UA||98|3pn|2y0|3z|Nyzhnia Krynka;Nyschnja Krynka;Nižņa Krinka;Nõžnja Krõnka;Nyžňa Krynka;Nıjnâ Krınka;Nyżnia Krynka;Nizjnja Krinka
+Mykolaivka|UA|Donetsk|98|3rq|2wx|3y|Nikolayevka;Mykolaiv;Nikolayev;Mykolayivka
+Nina Rodrigues|BR||2w|-9n|-3dy|3y
+Nilo Peçanha|BR||20|-11s|-30n|3x
+Nizāmābād|IN|Uttar Pradesh|6t|20d|6eq|3v
+Nishimonai|JP||7q|30w|au1|3u
+Negril|JM||3i|1er|-61n|3u|Nigril;Neqril
+Nibaliw Central|PH||71|18t|9ag|3s|Nibalio;Nibaliw
+Nishida|JP||7q|2sk|aab|3q
+Niyang|CN||7i|2ly|85y|3p
+Nioaque|BR||2a|-1mq|-4b3|3o
+Ningthoukhong|IN||6t|1w9|78g|3n
+Nybro|SE||9w|4dm|187|3m|Nibru
+Niederschöneweide|DE||8r|41q|11k|3m
+Nieuw Nickerie|SR||4h|gh|-4e9|3k|Yeni Nickerie;Nueva Nicaría;Yeni Nikeri;Neu-Nickerie;Sabuwar Nickerie;Nova Nickerie;New Nickerie
+Neuenrade|DE||8r|3yg|lm|3i|Niggenroe
+Neman|RU||96|48v|1p7|3h|Ragnit;Nieman;Ragainė;Njeman
+Niefern-Öschelbronn|DE||8r|3rw|oe|3f
+Nizhniye Sergi|RU||7z|4de|4kq|3d|Nizjnije Sergi;Nischnije Sergi;Nijnie Sergui;Nižnie Sergi;Nizjnieje Sergi;Nijniye Serqi;Niĵnije Sergi;Nižnije Sergi
+Nishiya|JP||7q|2pp|abw|3d
+Nizhneye Kazanishche|RU||9i|3as|3n0|3a|Nizjneje-Kazanisjtsje;Nizhniye Kazanishche;Nizhniye Kazanishchi
+Nisporeni|MD||8x|3ms|269|39|Nisiporeni;Nisporeny
+Nemyriv|UA|Vinnytsia|98|3s1|284|39|Niemirów
+Nikolassee|DE||8r|41m|10n|38|Nicolassee
+Newtown|GB||9b|41w|-96|36|Y Drenewydd;Neapolis;Niutaunas;Tre-Newydd
+Niakoblonyoa|CI||0|fw|-gl|36
+Niles|US|Michigan|2q|387|-6nl|35
+Nizhniy Odes|RU||9i|4ws|48e|34
+Niesky|DE||8r|3yh|156|33|Niska;Nīski
+Niedobczyce|PL||a5|3v3|1fe|30
+Nieuwpoort|BE||8t|3y1|7n|30|Nieuport
+Necoclí|CO||27|nf|-5xb|30|Nicoclí
+Nizhnyaya Ala-Archa|KG||65|3b8|5r5|30
+Nideggen|DE||8r|3wt|i0|2z
+Nizhnyaya Maktama|RU||9i|48e|41n|2y|Nizjnjaja Maktama;Nischnjaja Maktama;Nijnâya Maktama;Niżniaja Maktama
+Ninheira|BR||4w|-16k|-37z|2y
+Nishon Tumani|UZ||7g|2zh|52g|2y|Nishon District
+Nilo|CO||27|bz|-5ra|2y
+Nivala|FI||92|4xk|1xd|2w
+Nijoní|TJ||6d|330|5bg|2w
+Niwāri|IN||6t|288|5ze|2v
+Nicosia|IT||9o|2wv|13z|2u|Nicusia
+Nicolae Bălcescu|RO|Bacău County|8u|3l3|22s|2t
+Nieuwerkerk aan den IJssel|NL||8m|40d|ct|2s|Nieuwerkerk aan de IJssel;Nieuwerkerk aan de Yssel;Nieuwerkerk aan den Yssel
+Nieuwmarkt/Lastage|NL||8m|41h|dm|2s
+Nenagh|IE||8z|42u|-ms|2r|An tAonach;Nina;Aonach Urmhumhan
+Nyu-York|UA||98|3q9|2x4|2p|Novhorodske;Niu-York;Nju Jork;Novhorodcke;Nju-Jork;Nowhorodske;Nyu York;Niou-Iork;Niu York;Ņujorka;Njoe-Jork;New York;Novgorods’ke;N’yu-York;N’yu-Iork
+Nizhnyaya Poyma|RU||6u|4c0|7i1|2o|Nizjnjaja Pojma;Nischnjaja Poima;Nijnâya Poyma;Nyizsnyaja Pojma
+Nieuw-Lekkerland|NL||8m|405|d1|2n
+Nikël|AL||9y|374|1iv|2n
+Nianba|CN||7i|2kj|84z|2m
+Niepołomice|PL||a5|3v0|1k6|2m|Ņepolomice
+Needamangalam|IN||6t|tx|64m|2l|Nīdāmāngalam
+Nittendorf|DE||8r|3s6|x8|2k
+Niittykumpu|FI||92|4n5|1ws|2h|Ängskulla;Niittari
+Niebüll|DE||8r|487|oj|2g|Naibel;Nibøl
+Nizhnegorskiy|UA||9t|3i9|2oi|2f
+Niel|BE||8t|3xz|c1|2f
+Nizza Monferrato|IT||9o|3gd|n8|2e|Nissa
+Nieves|PH||71|16l|9bz|2e
+Nieder-Olm|DE||8r|3un|mt|2d
+Nikol’sk|RU|Vologda Oblast|9i|4le|3ia|2d
+Nittenau|DE||8r|3sn|y3|2d
+Nizhniy Ingash|RU||6u|4c4|7g6|2d
+Nīlpur|IN||6t|2cn|5wq|2c
+Nīlambūr|IN|Tamil Nadu|6t|uq|5y4|2c|Neelambur
+Nizhniye Vyazovyye|RU||9i|4b0|3qs|2b|Nizjnije Vjazovye;Nizhneye Vyazov’ye;Nizhne-Vyazovyye
+Knin|HR||a6|3ec|190|2b|Tininum;Tinin;Tininon;Tenin;Ninia;Tinien;Tinia;Ticinium;Tinum;Tininium
+Nishino|JP||7q|2mx|afz|2b
+Niwas|IN||6t|1s1|67g|2a
+Neusiedl am See|AT||a2|3p7|1as|2a|Nezsider;Neisiedl am See;Niuzalj
+New Ross|IE||8z|41k|-ja|28|Ros Mhic Thriúin;Niu Rosas
+Nivå|DK||8y|4bd|yq|28
+Niederwerrn|DE||8r|3v2|sa|28
+Nidanpur Pt-II|IN||6t|20a|6yu|28
+Nikol's’ke|UA||98|3n5|2vo|26|Kal’chik;Voladarskoye;Volodars’ke;Nikolśke;Wołodarśke
+Niquinohomo|NI||3s|x3|-6n5|25|Niquinomo
+Nierstein|DE||8r|3uj|n6|25
+Nizāmpur|IN||6t|1mn|5qh|25
+Podgornoye|RU|Voronezh Oblast|9i|3zq|30r|25|Podgornoje;Niderberg
+Nieppe|FR||9k|3wu|7w|24|Niepkerke
+Nilombot|PH||71|18j|9ak|24
+Nambézaria|CI||0|fp|-fz|24|Niambézaria
+Mikulov|CZ||9m|3rl|1a8|24|Nikolsburg;Mėkoluovs;Nickolsburg
+Nīmvar|IR||7o|2m5|3wh|23|Nīmwar;Nīmeh Var
+Nimbhora Budrukh|IN||6t|1mh|5uo|23
+Nisa|PT||99|31r|-l9|23|Niza
+Nizhniy Dzhengutay|RU||9i|3am|3n8|23|Nizjnij Dzjengutaj
+Guénange|FR||9k|3sy|h9|22|Niederginingen
+Nyons|FR||9k|3f8|ea|21|Niom
+Nyrob|RU||7z|4op|4dk|21|Nırob
+Nidrou|CI||0|j6|-jy|21
+New Dorp|US||48|34p|-5pw|21|Newdorp;Niew Dorp
+Nyzhnia Apsha|UA||98|3pc|1u7|20|Nyzhnya Apsha;Nizhna Apsha
+Niuwan|CN||7i|1qq|8s9|20
+Nederweert|NL||8m|3yh|fz|20|Ni-jwieërt
+Niedergörsdorf|DE||8r|40e|103|20
+Neemrana|IN||6t|25r|5w7|1z|Nīmrāna
+Nienstedten|DE||8r|44s|rc|1z
+Nishina|JP||7q|2om|api|1z
+Nindirí|NI||3s|xc|-6n8|1z
+Nicolosi|IT||9o|2wi|15r|1z|Niculosi
+Nikolina Gora|RU||9i|4at|2uw|1y
+Nieheim|DE||8r|3zw|pb|1y
+Niorouhio|CI||0|g1|-h0|1x
+Nicholls|AU||8l|-2pr|bi6|1x
+Niafunké|ML||5|189|-b3|1x|Niafounké
+Nizhniy Kuranakh|RU||7x|4je|9oo|1w|Nizjnij Kuranakh
+Nitro|US||48|2yp|-6bc|1w
+Nizhnyaya Tavda|RU||7z|4g7|53u|1v|Nizjnjaja Tavda
+Minante Segundo|PH||71|1ay|9e8|1v|Minante II;Minante;Ninante
+Nidau|CH||a7|3mx|k4|1v
+Newcastle West|IE||8z|41p|-p6|1u|An Caisleán Nua;An Caisleán Nua Thiar;Niukasl Vestas
+Nizao|DO||4v|1ep|-5f1|1t|Hizao
+Nilsiä|FI||92|4vl|260|1t
+Nieuwerkerken|BE|Flanders|8t|3xa|ef|1t
+Nishimagome|JP||7q|2qv|as2|1t
+Nibley|US||2p|37r|-8mn|1t
+Nikolayevka|RU|Ulyanovsk|9z|43l|3n5|1s|Nikolajevka;Nikolajewka;Nikolaïevka;Nyikolajevka
+Vieille Ville|FR||9k|3de|k8|1s|Nizza Vecchia;Città Vecchia;Vieux Nice
+Mimoň|CZ||9m|3wq|14w|1r|Niemes
+Nizhnedevitsk|RU||9i|3z6|2yk|1r|Nizjnedevitsk;Nizhnedevitsic
+Niemodlin|PL||a5|3wo|1cy|1r|Ņemodlina;Ńymodlin
+Nikologory|RU||9i|4by|38n|1q
+Nikolayevka|RU|Jewish Autonomous Oblast|7w|3qw|aee|1q|Nikolajevka;Nikolayevsk
+Nieuwerkerken|BE|Flanders|8t|3xg|b4|1q
+Nicoreşti|RO|Galați County|8u|3jl|23v|1p
+Niyor|MY||6v|5t|7yw|1p
+Nistelrode|NL||8m|3zm|fg|1p
+Nieuwkerken-Waas|BE||8t|3y7|bm|1p|Nieuwkerken-Waes
+Ningchegu|CN||7i|30s|92u|1p|Ning-ch’e-ku
+Nieul-sur-Mer|FR||9k|3kc|-39|1p
+Niedereschach|DE||8r|3pp|np|1o
+Nikolo-Berëzovka|RU||7z|4bw|46g|1o
+Nieuw-Loosdrecht|NL||8m|410|ea|1o
+Niz - Mankata|IN||6t|24a|7bo|1n
+Niddrie|AU||8j|-2wu|b6h|1n
+Nīr|IR||7o|2xn|3pc|1n
+Nibe|DK||8y|4ea|qs|1l
+Niedenstein|DE||8r|3yb|pv|1l|Niederstein
+Niikappu|JP||7q|39n|azc|1l
+Niz Katigorah Pt III|IN||6t|1x4|755|1l
+Nishitokorozawa|JP||7q|2rf|are|1l
+Nicolet|CA||59|3kf|-5lp|1l
+Nieves|MX||41|1un|-7y6|1l|Francisco R. Murguia
+Niederaula|DE||8r|3x4|qo|1j
+Nīramārgar|IN||6t|zt|5s4|1j
+Niederstetten|DE||8r|3t8|rk|1j
+Koyulhisar|TR||94|33y|2x2|1j|Nicopolis;Nicopolis in Armenia;Koyunhisar
+Nizhneangarsk|RU||6k|4az|8ge|1j|Nizjneangarsk;Nischneangarsk;Nižneangarsk;Nižneangarskas;Nijneangarsk;Nyizsnyeangarszk;Niżnieangarsk
+Nikfer|TR||94|2vx|28y|1j
+Nimigea de Sus|RO||8u|3nc|1vk|1j
+Nienberge|DE||8r|40g|l0|1j
+Nilvange|FR||9k|3t2|gt|1i
+Nieuw-Bergen|NL||8m|3zc|gt|1h
+Ninhue|CL||4u|-2t3|-5l4|1h
+Niba|CN||7i|2nq|7yc|1h
+Nizhniye Achaluki|RU||9i|3ck|3gc|1g|Nizjnije Atsjaluki
+Nizhnyaya Omka|RU||76|49z|5s6|1g
+Niederwiesa|DE||8r|3xb|106|1g
+Niederwenigern|DE||8r|3ys|ju|1g
+Niz-Bahjani|IN||6t|21a|71y|1g
+Nikolayevka|RU|Mordoviya Republic|9i|46f|3he|1f|Nikolajevka
+Niseko|JP||7q|3ax|aut|1f
+Nesterov|RU||96|47r|1qp|1f|Ebenrode;Stallupönen;Nesterow;Niestierow;Stalupėnai;Njesterow;Stallupenen;Shtallupënen
+Ningchang|CN||7i|2fg|8gk|1f|Ta-ning-ch’ang
+Niederfischbach|DE||8r|3x9|lv|1e
+Nine|PT||99|376|-nr|1e
+Nienstädt|DE||8r|419|pg|1e
+Nigríta|GR||8p|35n|1ta|1d
+Nieuw Amsterdam|SR||4h|gd|-491|1d|Nieuw-Amsterdam;Yeni Amsterdam;Nueva Ámsterdam;Neu-Amsterdam;Sabuwar Amsterdam;Nova Amsterdã
+Niederstotzingen|DE||8r|3qu|sg|1d|Niderştotsingen
+Niny|RU||9i|3fl|3e3|1d
+Niskayuna|US||48|3ax|-5p9|1d
+Nicotera|IT||9o|2z3|18a|1c
+Nicolae Bălcescu|RO|Constanța County|8u|3fa|26u|1c
+Niedernberg|DE||8r|3un|pe|1c
+Niamanzra|CI||0|gd|-cu|1c
+Nizhniy Chir|RU||a4|3qc|3bp|1c
+Nīmbelūk|IR||7o|2m7|4jp|1c
+Nipoã|BR||4w|-1m3|-3ua|1c
+Niambli|CI||0|iq|-k9|1b|Niambly
+Nieuw-Amsterdam|NL||8m|42f|j2|1b|Nij-Amsterdam;Niuv Amsterdamas
+Nimy|BE||8t|3w8|b0|1b
+Nikolo-Pavlovskoye|RU||7z|4gi|4mu|1b|Nikolo-Pavlovskoje
+Nekhayevskaya|RU||a4|3w1|37z|1b|Nekhayevskiy;Nekhajevskij;Nekhajevskaja;Nechaevskaja;Nyehajevszkaja;Nehayevskaya;Niechajewskaja
+Nieuw-Buinen|NL||8m|434|jb|1b
+Nyzhni Sirohozy|UA||98|3m5|2nh|1b|Nyjni Sirohozy;Nyschni Sirohosy;Nyžni Sirohozy;Nijni Sirogozi;Nižņi Sirohozi;Nizhni Sirogozi;Nîjni Sirohozî
+Nieuw-Lotbroek|NL||8m|3xf|gh|1b
+Niculiţel|RO||8u|3hi|274|1b|Nicoliţel
+Niseko Town|JP||7q|3au|aur|1b
+Nickol|AU||8k|-1ln|90g|1b
+Deutsch-Wagram|AT||a2|3q6|1a1|1a|Německý Ogruň;Nimški Ogrun;Nemecký Ogrú
+Niederbronn-les-Bains|FR||9k|3rz|l8|1a|Niederbronn;Níderbrunn
+Ningi|AU||8c|-236|bt8|1a
+Nienburg/Saale|DE||8r|400|wp|19
+Ni‘līn|PS||6g|2gr|2pa|19
+Nikiski|US||1h|4ol|-bo9|19|Nikishka
+Yanino-1|RU||9i|4mj|2cw|19|Nikol’skoye;Koloniya Yanino;Koloniya Yanina;Yanino Pervoye;Jaanila;Saksan Jaanila;Janino-1
+Niouldé|CI||0|i7|-ld|18
+Nowy Staw|PL||a5|46e|1gt|18|Nitëch;Novi Stava
+Nipawin|CA||4q|449|-80w|18
+Nizhniy Kislyay|RU||9i|3x9|33l|18|Nizjnij Kisljaj
+Niederau|DE||8r|3y6|11n|17
+Nikinmäki|FI||92|4nm|1xu|17|Nissbacka
+Niabably Pk|CI||0|e3|-gw|17
+Niederndodeleben|DE||8r|40t|vy|17|Nedderndo'lä
+Numansdorp|NL||8m|3zp|cc|17|Numansdurp;Niemansdorp
+Nicolás Ruiz|MX||3z|19o|-756|17
+Niederbachem|DE||8r|3wp|jy|17
+Niedernhall|DE||8r|3sy|qq|15
+Lipnica Wielka|PL|Lesser Poland|a5|3tf|1ik|15|Alsólipnica;Dolná Lipnica;Nižná Lipnica
+Niverville|CA||5d|3tt|-7hk|15
+Appelscha|NL||8m|434|hn|14|Nieuw Appelsga;Appelsga;Appelsche;Appelskea;Apelscha
+Niederlenz|CH||a7|3no|mq|14
+Nicolae Bălcescu|RO|Botoșani County|8u|3o5|22q|14|Nicole Bălcescu
+Niugan|PH|Central Luzon|71|15j|9c1|14|Niogan
+Nicolás Bravo|MX|Quintana Roo|2b|1fa|-6v1|14
+Niwot|US||2p|33e|-845|14
+Niugan|PH|National Capital Region|71|14q|9c0|14|Niogan;Niyugan
+Niebla|ES||9d|2vs|-ik|14
+Nižná|SK|Žilina Region|8s|3sz|1i8|13|Nižnia
+Nizhniy Mamon|RU||9i|3vf|34j|13|Nizjnij Mamon
+Niamienlessa|CI||0|f6|-7w|13
+Niedrzwica Duża|PL||a5|3xz|1q7|13
+Nieuwe Pekela|NL||8m|43g|jd|13
+Nichols Hills|US||2f|2qr|-7iz|13
+Niki|JP||7q|3bv|av1|13
+Nihālpur Simba|IN||6t|2im|5rq|13
+Niederbipp|CH||a7|3nb|le|13
+Nez̧āmābād|IR|Qazvin Province|7o|2st|3ui|13|Nizamabad
+Niéméné|CI||0|ni|-d1|13
+Niedergösgen|CH||a7|3nl|m7|12|Gösgen
+Ninotsminda|GE||7n|36n|3d3|12|Bogdanovka
+Nightcliff|AU||8e|-ye|a3h|12
+Nizhnetroitskiy|RU||7z|46y|454|12|Nizjnetroitskij
+Nizhnepavlovka|RU||7z|3zn|488|11
+Nicetown|US||48|335|-5ss|11
+Ninghe|CN||7i|31m|934|11|Ning-ho
+Nizhniy Kurkuzhin|RU||9i|3dj|3cf|11|Nizjnij Kurkuzjin
+Nieuwendijk|NL||8m|3zu|do|11|Nieuwedijk
+Niederurnen|CH||a7|3mx|p5|11
+Niederglatt|CH||a7|3nx|nm|10
+Nikopol|BG||9v|3df|1x6|10|Nicopoli;Nicòpol;Nikápoly;Nicopolis;Niğbolu;Nikopil
+Nizza di Sicilia|IT||9o|2xj|16t|10
+Nikolayevskaya|RU||9i|3o9|37a|10|Nikolajevskaja
+Niederaichbach|DE||8r|3r0|y8|10
+Nickenich|DE||8r|3w1|kd|10
+Nibbar|TN||1e|2st|od|10
+Nida|LT||a3|49n|1mc|z|Nėda
+Nieuw-Beijerland|NL||8m|3zx|c2|z|Nieuw-Beierland
+Niederorschel|DE||8r|3yp|sy|z
+Ninoy|PH||71|182|9a1|y
+Nīknāmdeh|IR||7o|2ri|3zp|y
+Nivillac|FR||9k|3o1|-6c|y|Nivilieg;Noviliacum
+Niamoué|CI|Lagunes District|0|gc|-de|y
+Nianda|CI||0|fe|-dl|y
+Niamayo|CI||0|ih|-h7|y
+Nivnice|CZ||9m|3s1|1d1|y
+Nieder-Florstadt|DE||8r|3vs|om|y
+Niemenranta|FI||92|4qw|1tt|x
+Nicholls|US||48|2fk|-6dj|x|Nichols
+Niedersachswerfen|DE||8r|3z7|tx|x
+Nissan-lez-Enserune|FR||9k|3c9|8p|x|Niça;Nissa dAusseruna
+Niltepec|MX||41|1a0|-7at|x|Miltepec
+Nizhniy Tsasuchey|RU||67|3wb|8vs|x|Nizjnij Tsasutsjej
+Níkaia|GR|Thessaly|8p|31x|1qf|x
+Nieuwe Niedorp|NL||8m|42i|dm|x
+Nieporęt|PL||a5|41n|1mf|w
+Niipperi|FI||92|4nh|1wq|w|Nipert
+Nizhniy Bestyakh|RU||7x|4s5|a0w|w|Nizjnij Bestjakh
+Nyoroningé|CI||0|rq|-ei|w|Nioroningué
+Niedercorn|LU||9c|3tm|gd|w|Nidderkuer;Niederkorn
+Niemce|PL||a5|3yo|1qw|w
+Nigui Saff|CI||0|el|-cu|w
+Nikolaevo|BG||9v|3af|1zo|w|Nikolaewo;Nikolajevo
+Nizhniy Baskunchak|RU||8o|3py|3m3|w|Nizhni Baskunchak
+Nitrianske Pravno|SK||8s|3rr|1fr|v
+Niantic|US|Connecticut|48|36t|-5kj|v|Nehantic
+Nīca|LV||9n|4cj|1mi|v
+Niemcza|PL||a5|3ww|1as|v|Ņemča;Nimptsch;Ńymcza;Niemcz
+Nizhniy Cherek|RU||9i|3cv|3dz|v|Nizjnij Tsjerek
+Nicolae Titulescu|RO||8u|3f2|1ww|v
+Nicholson|US|Mississippi|2f|2co|-6x5|v
+Niongonon|CI||0|mt|-ij|v
+Nío|MX||3x|1z7|-8d4|u
+Nissoria|IT||9o|2wl|145|u|Casale
+Nicolás Bravo|MX|Puebla|41|1gu|-7jq|t
+Niederdorfelden|DE||8r|3vf|og|t
+Nijkerkerveen|NL||8m|410|f7|t
+Nicşeni|RO||8u|3oz|21z|t
+Niederhasli|CH||a7|3nw|nl|s|Hasila
+Niahirio|CI||0|ge|-gj|s
+Nyampleu|CI||0|ju|-mm|s|Niempleu
+Nyzy|UA|Sumy|98|3x2|2om|s|Nysy;Nizi;Nizy
+Nizhniy Ufaley|RU||7z|4bc|4mm|s|Nizjnij Ufalej
+Nikolayevka|UA||9t|3gw|2ld|s
+Nieuwrode|BE||8t|3xj|df|s|Nieuwrhode
+Niederzissen|DE||8r|3w6|k2|s
+Niederrohrdorf|CH||a7|3nq|n2|s
+Nigré|CI||0|fm|-kg|s
+Niouboua|CI||0|im|-hw|s
+Ngandana|CI||0|sg|-gi|s|Nganndana;Ngandanna;Niantana
+Nyzhnii Verbizh|UA||98|3qr|1xg|s|Nyzhniy Verbizh;Nizhniy Verbizh
+Nionlé Gouépleu|CI||0|jw|-ln|r
+Niédiékaha|CI||0|ot|-ee|r|Nyédyékaha
+Niederndorf|AT||a2|3od|xy|r
+Nice|US||3p|30o|-9h9|r
+Niagara Park|AU||8l|-2kq|bof|r
+Níkiti|GR||8p|33q|1tr|r
+Niambrun|CI||0|l6|-fh|r
+Nioumachoua|KM||ac|-yc|3dg|r|Nioumachoi
+Nijenheim|NL||8m|40p|ei|r
+Niederhelfenschwil|CH||a7|3nv|pj|r
+Nimabalia|IN||6t|1qx|6sr|r
+Niokosso|CI||0|o5|-lb|q|Nyokoso
+Niechobrz|PL||a5|3uv|1os|q
+Niẕẕan|IL||6n|2g6|2o7|q|Doẖan
+Nuanangonfla|CI||0|js|-hj|q|Nianangofla;Nianangonfla
+Nibbixwoud|NL||8m|42d|e2|q|Nibbikswoud
+Niel-bij-As|BE||8t|3xq|fl|p
+Niederfrohna|DE||8r|3xe|zc|p
+Niklasdorf|AT||a2|3nn|163|p
+Niebieszczany|PL||a5|3ti|1pk|p
+Nienadowa|PL||a5|3uf|1qb|p
+Ninguno [Centro de Readaptación Social de Atlacholoaya]|MX||41|1g4|-7nn|p
+El Níspero|HN||56|151|-6td|p|Nispero
+Nicoma Park|US||2f|2ql|-7ic|p
+Niedźwiada|PL|Subcarpathia|a5|3uv|1ns|p
+Nixon|US|Texas|2f|29b|-7jk|p
+Niazaroko|CI||0|g3|-fg|p
+Niegowonice|PL||a5|3vz|1hy|p|Niegowinice
+Nieuwdorp|NL||8m|3xk|g1|o
+Niederviehbach|DE||8r|3r2|ye|o
+Nimpleu I|CI||0|kr|-mh|o|Nimpleu
+Nikinci|RS||8q|3gl|1j2|o
+Nikitinskiy|RU||74|47m|6mx|o|Nikitinskij
+Nitrianske Hrnčiarovce|SK||8s|3q9|1ed|o
+Nigui Assoko|CI||0|en|-cr|o
+Niculești|RO|Dâmbovița County|8u|3g4|202|o|Niculescu
+Niederkirchen bei Deidesheim|DE||8r|3ta|mt|o
+Mikulášovice|CZ||9m|3xl|13w|o|Nixdorf
+Nyzhnia Duvanka|UA||98|3tr|2y1|o|Nyzhnya Duvanka;Nyschnja Duwanka;Nižņa Duvanka;Nyjnia Douvanka;Nizhnia Duvanka;Nıjnâ Duvanka;Nyżnia Duwanka;Nîjnea Duvanka
+Nyzhnye|UA||98|3ri|2za|n|Nyzhnie;Nizhneye
+Nistoreşti|RO|Vrancea|8u|3jb|229|n
+Niemegk|DE||8r|40n|z9|n
+Nicolás Bravo|MX|Tabasco|3z|1eg|-76k|n
+Neyāsar|IR||7o|2md|3y3|n|Nīyā Sar
+Niechanowo|PL||a5|41r|1d4|n
+Nil-Saint-Vincent-Saint-Martin|BE||8t|3wo|d0|n
+Niatiahio|CI||0|hq|-hg|n|Niatiayo
+Nionlé Kpampleu|CI||0|jv|-lm|n
+Nieuwerkerk|NL||8m|3zh|b4|n
+Nili|IL||6n|2gs|2pd|n
+Nikita|UA||9t|3fn|2n4|n|Nikito
+Niederwinkling|DE||8r|3rs|zk|n
+Niniféroua|CI||0|g2|-hw|m
+Niederbiel|DE||8r|3wg|nc|m
+Nikísiani|GR||8p|35r|1v2|m
+Nijrees|NL||8m|41e|ii|m
+Nizhneivkino|RU||97|4hn|3tk|m|Nizjneivkino;Nižneivkino;Nijneivkino;Niżnieiwkino;Nizhneye Ivkino
+Nimbiasso|CI||0|rp|-hv|m|Ninbiasso
+Nimis|IT||9o|3kd|10v|m
+Nebolchi|RU||9i|4k8|2kn|m|Neboltsji;Neboltschi;Neboltši;Nebolči;Niebołczi
+Ni’ao|CN||7i|2mc|7zn|m
+Nioupinbéniékro|CI||0|h1|-9a|l
+Nieuwkuijk|NL||8m|3zl|ee|l|Nieuwkuik
+Nižbor|CZ||9m|3uw|12w|l
+Nigui Nanon|CI||0|eo|-ct|l
+Ninguié|CI||0|f9|-8q|l
+Nigbaoa|CI||0|gv|-hl|l|Nigbahoa
+Nicolás Bravo|MX|Tabasco|41|1et|-76p|l|Primera Seccion
+Niederschöna|DE||8r|3xl|11a|l
+Niudaokou|CN||7i|32j|91p|l
+Nisiporești|RO||8u|3ms|22a|l|Nistoreşti
+Niakio|CI||0|i5|-hk|l|Niakia
+Nioboguhé|CI||0|ia|-id|l|Nobogüé
+Niederkirchen|DE||8r|3tq|le|l
+Niepars|DE||8r|46v|zw|l
+Niedernwöhren|DE||8r|41f|pf|l
+Nicola Town|KN||51|1ca|-4ub|l|Nichola Town
+Nyatibo|CI||0|mt|-fy|l|Niatibo
+Ninety Six|US||48|2my|-6bu|k|Ninety-Six;Ninetysix
+Niaprahio|CI||0|ha|-h3|k|Niaprayo
+Niapoyo|CI||0|gc|-hi|k
+Nisswa|US||2f|3l8|-79x|k
+Ninguno [CERESO]|MX|Chihuahua|2g|27h|-86a|k
+Ińsko|PL||a5|44g|177|k|Nierbarg
+Nieszawa|PL||a5|42r|1gi|k|Ņešava
+Niederroth|DE||8r|3q8|vn|k
+Nizhniy Arkhyz|RU||9i|3dc|376|k|Nizjnij Arkhyz
+Nieul-le-Dolent|FR||9k|3ld|-47|k
+Niandian|CI||0|ic|-by|k
+Nieuw-Vossemeer|NL||8m|3zb|bq|k|Nieuw-Vosmeer
+Nivolas-Vermelle|FR||9k|3ik|er|k
+Nemyriv|UA|Lviv|98|3v6|1t4|k|Niemirów;Nemirov
+Nicolau Vergueiro|BR||4w|-27a|-41q|j
+Niedomice|PL||a5|3v7|1m2|j
+Niempurgué|CI||0|pm|-i7|j
+Nittel|DE||8r|3tx|hx|j|Nëttel
+Nihonbashi-bakurochō|JP||7q|2r5|asa|j|Nihombashi-bakurochō
+Niégrouboué|CI||0|f1|-ge|j|Niougrouboué
+Nikolinci|RS||8q|3h5|1mj|j|Nikolince;Nikolincze
+Niederalteich|DE||8r|3rh|106|j|Niadaoida;Altaha inferior;Niederaltaich
+Nyangourala|CI||0|mm|-fx|j|Niangourala
+Nīāraq|IR||7o|2yb|3r3|j|Niara;Nīyāraq
+Nicolás Bravo|MX|Chihuahua|2g|29j|-8bt|j
+Nieu-Bethesda|ZA||o|-2gj|1w7|i|New Bethesda
+Nieuwenrode|BE||8t|3xm|c3|i
+Nienhagen|DE||8r|46f|xt|i
+Nikolo|CI||0|ms|-e3|i
+Nismes|BE||8t|3v4|cn|i
+Niederlauer|DE||8r|3vp|sa|i
+Nieuwerbrug aan den Rijn|NL||8m|40o|dd|i
+Nickelsdorf|AT||a2|3p6|1bf|i|Miklóshalma
+Nissequogue|US||48|35m|-5nc|i|Nissequoque;Nissequogne
+Niedercunnersdorf|DE||8r|3xt|14q|i|Neider Cunnersdorf
+Nieder-Gründau|DE||8r|3vh|pb|h|Niedergründau
+Nioro|GM||7|113|-17r|h
+Nyzhankovychi|UA||98|3u0|1rd|h|Niżankowice;Nyzhankovychy;Nizhankovice;Nizhankovichi
+Nichols Point|AU||8j|-2n1|az1|h
+Nicholson|US|Georgia|48|2mr|-6fr|h
+Nicolae Bălcescu|RO|Călărași County|8u|3fh|22d|h
+Niedernissa|DE||8r|3xj|uu|h
+Mykolayivka|UA|Odesa|98|3kt|29p|h|Mykolaïvka;Nicolăeni;Nikolaevka
+Nisipari|RO||8u|3ey|26w|h
+Nicolás Bravo|MX|Tlaxcala|41|1hy|-7k5|h
+Niederfüllbach|DE||8r|3vi|uj|h
+Niverville|US||48|39w|-5om|h
+Niamoué|CI|Zanzan District|0|qp|-9k|h
+Niederklein|DE||8r|3x3|p0|h
+Nij Beets|NL||8m|43f|go|g
+Niederelbert|DE||8r|3w1|lp|g
+Nikol’skoye-na-Cheremshane|RU||9z|465|3sr|g|Nikolskoje Na Tsjeremsjane
+Niederwangen|DE||8r|3of|r8|g
+Niherne|FR||9k|3m3|4c|g
+Niangourala-Tiéné|CI||0|mz|-g6|g
+Ninakiri|CI||0|mq|-g4|g|Ninakini
+Niedzica|PL||a5|3t9|1ke|g
+Nizhniy Sayantuy|RU||6k|3zq|8an|g|Nizjnij Sajantuj
+Niamkey|CI||0|i6|-ej|g
+Niujiapai|CN||7i|31s|91t|g
+Niangourougbono|CI||0|o3|-cy|g
+Niagara|US||2f|3j5|-6sf|g
+Niederalm|AT||a2|3ol|10a|g
+Nieuwmarktbuurt|NL||8m|41h|dm|g
+Niederdresselndorf|DE||8r|3ww|mm|g
+Niţchidorf|RO||8u|3im|1nt|g|Nitzkidorf
+Niwiska|PL|Subcarpathia|a5|3vi|1o3|g
+Nimbin|AU||8l|-27g|btm|f
+Niviano|IT||9o|3gu|qr|f
+Ninguno [CERESO]|MX|Querétaro|41|1lf|-7qs|f
+Nerkin Bazmaberd|AM||80|342|3e9|f|Nizhnyaya Agjakala;Nerkin Agjakala
+Niamana|CI||0|qn|-lx|f
+Niedermohr|DE||8r|3te|kr|f
+Mykolayivka|UA|Odesa|98|3jj|2by|f|Nicolaenii-Noui;Nicolăeni;Mykolaïvka;Nikolaevka;Mihăileni;Balabanka;Balabanca-Mică
+Nimigea de Jos|RO||8u|3n9|1vi|f
+Niederanven|LU||9c|3tx|he|f|Nidderanven;Gemeng Nidderaanwen
+Nikolayevskiy|RU||6k|3zi|8bg|f|Nikolajevskij
+Nikol’sk|RU|Buryatiya Republic|6k|3y7|8cx|f|Nikolsk
+Annicco|IT||9o|3ho|rg|f|Anigum;Nich
+Niemberg|DE||8r|3z7|xl|f
+Nyangbo|CI||0|oh|-ec|f|Niangbo
+Nieuwehorne|NL||8m|433|gu|f|Nijhoarne;Nijehorne
+Niebocko|PL||a5|3u0|1pe|f|Niebocka
+Niévroz|FR||9k|3jb|e2|f|Nevro
+Nõo|EE||9x|4hw|21q|f|Nüggen;Neo;Niggen’;Nyo
+Nieuwkerke|BE||8t|3wz|7v|f|Neuve-Église
+Nipigon|CA||59|3s6|-6t7|f
+Nisí|GR||8p|34w|1q7|f
+Niederdorla|DE||8r|3y4|t1|f
+Niederneisen|DE||8r|3vt|md|f
+Niederbreitbach|DE||8r|3wd|km|f
+Niederhausbergen|FR||9k|3r2|le|f
+Nicolae Bălcescu|RO|Călărași County|8u|3f1|238|e|Nicolae Bălceseu
+Nishiawakura|JP||7q|2pq|ad7|e
+Niederschönenfeld|DE||8r|3rc|ud|e
+Niederbüren|CH||a7|3nv|pl|e
+Nieuwkoop|NL||8m|40v|da|e
+Nijnsel|NL||8m|3z7|f8|e|Nijrsel
+Nidhríon|GR||8p|2zj|1lj|e|Nydri;Nidrí;Nidhrí
+Niedźwiedź|PL|Lesser Poland|a5|3tu|1js|e
+Nieuwland|NL||8m|406|dx|e
+Nigtevecht|NL||8m|417|dz|e|Nichtevecht
+Niederwerth|DE||8r|3w0|l6|e
+Niekerk|NL||8m|43v|hn|e
+Nieuwpoort|NL||8m|40a|dj|e
+Villabassa|IT||9o|3lu|xt|e|Niederdorf;Villa Ima
+Nieul|FR||9k|3jl|39|e|Nuèlh
+Nigoline-Bonomelli|IT||9o|3ir|rr|e
+Niederdorf|DE||8r|3wx|zj|e
+Niamabo|CI||0|eo|-cr|e
+Nixon|US|Pennsylvania|48|35a|-661|e
+Nieuw-Dordrecht|NL||8m|42j|jd|e|Niuv Dordrechtas
+Neubrück|DE|Lower Saxony|8r|41h|sy|e|Nienbrigge;Nieenbrügge
+Niederstraß|AT||a2|3pd|125|e
+Niplou|CI||0|dc|-kj|e
+Niedermurach|DE||8r|3td|ye|e
+Niemenmäki|FI||92|4n8|1x4|d
+Niederschaeffolsheim|FR||9k|3rh|li|d|Niederschäffolsheim
+Niederrieden|DE||8r|3pi|sa|d
+Nidek|PL||a5|3um|1ho|d
+Niendélé-Ségbéré|CI||0|nw|-cq|d
+Niedertaufkirchen|DE||8r|3q9|yv|d
+Nizami|AM||80|33d|3fd|d
+Nijemci|HR||a6|3he|1gw|d
+El Nihuil|AR||1q|-2pb|-5ar|d|Nihuil
+Nieuwveen|NL||8m|410|d8|d
+Niederstriegis|DE||8r|3xw|10j|d
+Nialépa|CI||0|hg|-gi|d|Nialiépa;Nialapa
+Niedernai|FR||9k|3ql|kw|d|Niederehnheim;Nídernahn
+Ninfield|GB||9b|3xd|17|d
+Nihonbashi-Kayabachō|JP||7q|2r4|asa|d|Nihombashi-Kayabachō
+Nieuw-Roden|NL||8m|43l|hs|d|Nij-Roan
+Nieuw-Wehl|NL||8m|40d|h5|d
+Burnhaupt-le-Bas|FR||9k|3ok|jw|d|Niederburnhaupt
+Nicolás Bravo 5ta. Sección (Punta Brava)|MX||41|1es|-76p|d
+Nitsane ‘Oz|IL||6n|2hr|2p8|d|Niẕẕané ‘Oz;Nitsané Oz
+Nir Tsvi|IL||6n|2gr|2ou|d
+Niougoni|CI||0|ta|-hu|d
+Niamotou|CI||0|oj|-kx|d
+Nez̧āmābād|IR|Fars|7o|2db|423|d|Nizāmābād
+Niardo|IT||9o|3jq|sp|d
+Nieuwoord|NL||8m|41r|i7|d
+Nicolás Bravo|MX|Durango|44|1vr|-82y|d
+Niederroßla|DE||8r|3xr|vw|d
+Nir Gallim|IL||6n|2gf|2oc|d|Nir Galim
+Niederhaslach|FR||9k|3qu|ke|c|Íngerhosle
+Nispen|NL||8m|3z0|ce|c
+Niederschöckl|AT||a2|3mz|172|c
+Niamandougou|CI||0|on|-li|c
+Nireș|RO||8u|3mv|1um|c|Szásznyíres;Nyíres
+Niederbergkirchen|DE||8r|3q8|yq|c
+Fioletovo|AM||80|354|3g8|c|Nikitino;Fialetovo;Nikitin;Nikitinka
+Mykolayivka-Novorosiyska|UA||98|3k5|2b2|c|Mykolajiwka-Noworossijska;Nikolaevka-Novorossiysk;Bairamcea;Mykolaïvka-Novorossiïska;Nicolaenil Noui;Bairamcza
+Niplé|CI||0|qd|-ga|c
+Niemi|FI||92|4qx|1tt|c
+Nimé|CI||0|is|-j5|c|Nyimé
+Niederlangen|DE||8r|42u|k8|c
+Nikola-Lenivets|RU||9i|483|2qw|c|Nikola Lenivets;Nikola-Lennvets
+Nizhnyaya Irga|RU||7z|4dz|4fi|c|Nizhneigrinskoye;Nizjneirginskoje;Nizhnyaya Irta
+Nyzhnii Bystryi|UA||98|3qc|1td|c|Nyzhniy Bystryy;Nizhniy Bystryy
+Nivavaara|FI||92|54t|1zr|c
+Nicolás Bravo|MX|Chiapas|41|19v|-76b|c
+Niangomani|CI||0|n0|-8j|c
+Niznyaya Poltavka|RU||7x|3u3|9w8|c
+Nibionno|IT||9o|3j3|pr|c
+Nicolás Bravo|MX|Tamaulipas|44|1uo|-7ky|c|Palo Alto
+Ninioro|CI||0|ry|-i5|c
+Niton|GB||9b|3wj|-3k|c
+Nishor|XK||8q|39u|1ls|c|Nišor
+Niederglatt / Niederglatt (Dorfkern)|CH||a7|3nx|nm|b
+Nistru|RO||8u|3ok|1t5|b
+Nindorf|DE|Schleswig-Holstein|8r|469|pc|b
+Nicolae Bălcescu|RO|Tulcea County|8u|3h0|27f|b
+Nigromante|MX||41|1m8|-7ry|b
+Nicolești|RO|Harghita County|8u|3l0|1zs|b|Csikszentmiklós
+Nieuw- en Sint Joosland|NL||8m|3z0|a6|b|Nieuw-en Sint Joosland
+Nicollet|US||2f|3f0|-79n|b
+Niederbreitenbach|AT||a2|3o1|xk|b
+Nieuwenhoorn|NL||8m|401|bi|b
+Niederfeulen|LU||9c|3ui|gt|b|Neiderfeulen
+Niofoin|CI||0|qq|-gw|b|Niofouin
+Nyzhnii Dubovets|UA||98|3ps|1ue|b|Nyzhniy Dubovets’;Nizhniy Dubovets
+Nishiokoppe|JP||7q|3f5|b13|b|Setoushi;Nishi-okoppe
+Niderviller|FR||9k|3rb|jr|b
+Nieuwolda|NL||8m|43w|je|b
+Nin|HR||a6|3ew|166|b|Nona;Aenana
+Nikolayevka|RU|Altai Krai|63|409|64m|b
+Nicolás Bravo|MX|Puebla|41|1fq|-7ib|b
+Nicolás Blanco (San Pancho)|MX||41|1hr|-7fm|b
+Niederfell|DE||8r|3vo|kr|b
+Niani|CI||0|du|-gv|b|Naâni;Niana;Nani
+Niederneukirchen|AT||a2|3ps|13u|b
+Niederzimmern|DE||8r|3xo|v3|b
+Nioumamilima|KM||ac|-wx|3cp|b
+Nicolae Bălcescu|RO|Mehedinți County|8u|3f9|1ri|b
+Nianoufla|CI||0|kf|-h6|b
+Niños Héroes|MX|Veracruz|41|1cf|-7ai|b
+Nieuw-Namen|NL||8m|3yh|bk|b|Nij-Namen;Nieuw-Naomen;Nieuw Naman
+Niederdürenbach|DE||8r|3w5|jy|b
+Nieul-lès-Saintes|FR||9k|3j4|-21|b
+Ninderry|AU||8c|-21q|bsy|a
+Ruchyi|UA||9t|3j7|2li|a|Nemse Köp Qarı;Kopkary Nimetski;Nyemsye-K'op-Kary;Niemsie-K'op-Kary
+Nicholson|AU||8j|-2x2|bed|a
+Niederau|AT||a2|3nt|xk|a
+Nickerson|US||2f|2xz|-7kg|a
+Ninnekah|US||2f|2p3|-7k0|a|Minnekah
+Niagalilié|CI||0|g4|-fd|a
+Niella Tanaro|IT||9o|3fd|m1|a
+Niedererbach|DE||8r|3w3|m5|a
+Nister|DE||8r|3ws|ls|a
+Niedermerz|DE||8r|3xc|hf|a
+Nīvān Nār|IR||7o|2ky|3vy|a|Nīvān Tār;Nīvān-e Nār
+Niederdorf|AT||a2|3li|140|a
+Niland|US||3p|2kc|-8ww|a|Tábąąh Hasáanii
+Niederdreisbach|DE||8r|3wz|m0|a
+Niulanwo|CN||7i|1qv|8sj|a
+Nicolás Bravo|MX|Tabasco|41|1d8|-75a|a
+Nigadoo|CA||43|3om|-52j|a
+Niederwörresbach|DE||8r|3u9|kd|a
+Seppois-le-Bas|FR||9k|3o2|jx|a|Niedersept
+Gniénésso|CI||0|q0|-l5|a|Niénesso
+Nikola-Kozlevo|BG||9v|3d1|23n|a|Nikola Koslewo;Nikola Kozlovo
+Nir ‘Etsyon|IL||6n|2iu|2p7|a|Nir-’Esyon;Nir ‘Eẕyon;Nir Etsyon;Nir Etzion
+Niaourayo|CI||0|i1|-hq|a
+Zasheyek|RU||9i|578|2if|a|Zasjejek;Nivanniska
+Nievern|DE||8r|3vt|lc|a
+Niucheng|CN||7i|1qu|8sh|a
+Nissumby|DK||8y|4d4|nc|a
+Neuve-Chapelle|FR||9k|3wj|7q|a|Nieuwkapelle
+Niederhergheim|FR||9k|3pb|kk|a
+Nizhnyaya Kutuzovka|UA||9t|3g7|2ni|a
+Niarana|CI||0|ps|-da|a
+Niederkreuzstetten|AT||a2|3qo|19s|a
+Nieurlet|FR||9k|3x3|6c|a
+Nijland|NL||8m|43d|fi|a
+Nistorești|RO|Prahova|8u|3hk|1zb|a
+Nimăiești|RO||8u|3lo|1q7|a
+Himesháza|HU||8v|3k1|1fl|a|Nimmersch;Imeš;Imešaz;Nemišaz;Nimeš;Nimmesch
+Nicolești|RO|Buzău County|8u|3i4|23n|a|Niculeşti
+Niambré|CI||0|gc|-fm|9
+Niederbuchsiten|CH||a7|3ne|ll|9
+Nieuil|FR||9k|3jg|1e|9|Nuelh
+Niechorze|PL||a5|46a|15w|9
+Nirit|IL||6n|2hb|2p7|9
+Nianrangba|CI||0|th|-ib|9
+Nigüelas|ES||9d|2uq|-9u|9
+Nielisz|PL||a5|3x4|1s0|9
+Nīvān Sūq|IR||7o|2kz|3vx|9|Nīvān-e Sūq
+Nicorești|RO|Bacău County|8u|3kg|221|9
+Nieborów|PL||a5|40o|1jr|9
+Nilchí|MX||3z|1j5|-6yr|9
+Niegosławice|PL||a5|3zb|17n|9
+Nisipeni|RO||8u|3p2|1rm|9
+Niederland|AT||a2|3of|zd|9
+Breitenbach-Haut-Rhin|FR||9k|3pe|jq|9|Niederbreitenbach
+Nyzhni Remety|UA||98|3q2|1rf|9|Nizhni Remety
+Niederglatt / Nöschikon|CH||a7|3ny|nl|9
+Ninilchik|US||1h|4mt|-bpb|9|Munina;Nilchick;Ninilchick
+Nížkov|CZ||9m|3tl|17x|9
+Nir Yisra’el|IL||6n|2g1|2o8|9|Nir Yisral
+Nietap|NL||8m|43o|hs|9|Nijtap
+Niederahr|DE||8r|3w9|lu|9
+Niechlów|PL||a5|3zl|19h|9|Nechlau
+Nișcov|RO||8u|3hn|225|9
+Nicolae Bălcescu|RO|Teleorman County|8u|3e4|1wz|9
+Niamina|CI||0|rz|-lc|9
+Nicholas Denys|CA||43|3oi|-530|9
+Nicolás Hidalgo|MX||41|1de|-7km|8
+Niederroßbach|DE||8r|3wo|mb|8
+Niel-bij-Sint-Truiden|BE||8t|3wy|ea|8
+Niederrußbach|AT||a2|3ql|18j|8
+Nieuw-Dijk|NL||8m|409|h4|8
+Nicolás Bravo|MX|Chiapas|41|197|-78w|8
+Niaga|BF||1a|wi|-8r|8
+Niedernsill|AT||a2|3nc|z5|8
+Nerkin Karmiraghbyur|AM||80|35q|3i8|8|Nizhniy Karmragbyur;Nerkin Karmir aghbyur;Nerkin Kamiraxpyur;Gergin Karmiraxpür;Nerkin Karmiraxpür;Kesala;Nerkin Karmirakhpyur
+Nyzhnii Bulatets|UA||98|3uy|2ji|8|Nyzhniy Bulatets’;Nizhniy Bulatets;Nizhiy Bulatets
+Nieuwe Kerk en omgeving|NL||8m|41h|dl|8
+Nyamantougoula|CI||0|ps|-li|8|Niamantougoula
+Nyzhnii Koropets|UA||98|3qc|1qz|8|Nyzhniy Koropets’;Nizhni Koropets;Nizhniy Koropets
+Nížkovice|CZ||9m|3sf|1ay|8
+Niederheimbach|DE||8r|3uz|lo|8
+Nielles-lès-Bléquin|FR||9k|3wr|5n|8|Nielles-le-Bléquin
+Niayo Dégoué|CI||0|h4|-gk|8
+Niños Héroes|MX|Chiapas|41|18r|-75a|8
+Nisipoasa|RO||8u|3h2|20o|8
+Nibelle|FR||9k|3pe|6h|8
+Nikolayevka|RU|Altai Krai|63|40z|6hp|8|Nikolajevka
+Niwiska|PL|Lubusz|a5|3zy|16r|8|Niebusch
+Niedergebra|DE||8r|3yu|tg|8
+Niamienkro|CI||0|k2|-eu|8|Niamékro
+Niséli|GR||8p|34r|1qe|8|Nisélli
+Ninguno|MX||41|1b0|-7gn|8
+Nieuw-Schoonebeek|NL||8m|429|jf|8
+Nikolčice|CZ||9m|3s3|1aj|8
+Niegowa|PL||a5|3wo|1i4|8
+Nizagoche|MX||41|19m|-7fm|8
+Nīkūyeh|IR||7o|2st|3to|8
+Niquivil|MX||41|16e|-745|8|Niquibil
+Nima|RO||8u|3ms|1ub|8
+Nibas|FR||9k|3v6|4f|8|Nibo
+Nieuw-Balinge|NL||8m|42l|id|8
+Nibbiola|IT||9o|3i1|o2|8
+Niémélilié|CI||0|gc|-fk|8
+Nicolás Romero|MX||44|1u3|-829|8
+Niedźwiada|PL|Lublin|a5|3z6|1r1|8
+Nitscha|AT||a2|3mx|17r|8
+Nicholson|US|Pennsylvania|48|37n|-5ui|7
+Nikókleia|GR||8p|35p|1t3|7|Nikóklia
+Nijswiller|NL||8m|3x5|gk|7|Niswiller;Nijswiler
+Nielepice|PL||a5|3v7|1iq|7
+Niederweningen|CH||a7|3nz|na|7
+Nisipuri|RO||8u|3e5|1v1|7|Nisipul
+Niedermodern|FR||9k|3rp|l7|7
+Nizhniy|RU||9i|3fg|37f|7
+Nieulle-sur-Seudre|FR||9k|3j3|-2s|7
+Nir David|IL||6n|2ia|2qi|7|Nir Dawid;Nir-David
+Nieciecza|PL||a5|3vb|1lx|7
+Nir Banim|IL||6n|2fz|2oj|7
+Nikiána|GR||8p|2zo|1lk|7
+Nir Yafe|IL||6n|2ih|2px|7
+Niamien|CI||0|kv|-8e|7
+Niota|US||48|2qn|-6iv|7
+Nianélékaha|CI||0|q6|-fl|7
+Nicanor Espejo|MX||41|1gy|-7hl|7
+Niutoua|TO||bi|-1mp|-di9|7
+Niamassou|CI||0|iq|-cx|7
+Nimnica|SK||8s|3si|1f0|7
+Nizov’ye|RU||96|47y|1lm|7|Nizovje;Nizov’e
+Nigavan|AM||80|34u|3f2|7
+Nimbo-Sama|CI||0|lg|-kx|7
+Niederburg|DE||8r|3v8|le|7
+Niagbaméko|CI||0|gx|-ft|7|Niagbanéko
+Nyzhni Byriuky|UA||98|3oz|2xr|7|Nizhnyy Byryuky;Nizhnyi Byriuky
+Nioumassi|CI||0|ky|-89|7
+Niffer|FR||9k|3oj|kv|7
+Nibbiaia|IT||9o|3cq|sy|7
+Nenahnezad|US||2p|2u2|-8d6|7|Niinahnízaad
+Ixpantepec Nieves|MX||41|1cn|-7kc|7|Nieves Ixpantepec
+Nikitsch|AT||a2|3o2|1aa|7|Filež;Füles
+Nir ‘Aqiva|IL||6n|2ff|2o9|7|Nir Akiva
+Niersbach|DE||8r|3uq|iq|7
+Nindorf|DE|Schleswig-Holstein|8r|46d|qy|7
+Niederpöllnitz|DE||8r|3x0|x8|7
+Nicolás Bravo Dos Anexo Emiliano Zapata|MX||41|16l|-75x|7|Nicolás Bravo
+Nizhneyansk|RU||7w|5ig|ai6|7|Nizjnejansk;Nischnejansk;Nižnejansk;Nižnejanskas;Nizhneiansk;Nijneyansk;Niżniejansk
+Niza Conejo|MX||41|1ap|-7c3|7|Nizaconejo
+Niantic|US|Illinois|2f|32p|-6vp|7
+Niederwaldkirchen|AT||a2|3ql|135|7
+Nicolás Bravo (Zanja del Teniente)|MX||41|1ar|-7p3|7
+Nicolás Bravo|MX|Veracruz|41|1j9|-7i6|7
+Nittany|US||48|35w|-5zg|7
+Nívar|ES||9d|2vi|-9y|7
+Nianoufra|CI||0|hp|-f1|7|Nianoufla
+Nieder-Wiesen|DE||8r|3u5|m6|7
+Niakpalilié|CI||0|gh|-fs|7
+Niederfinow|DE||8r|42r|12p|7
+Niedźwiedź|PL|Lower Silesia|a5|3we|1b8|6
+Nikenbah|AU||8c|-1yc|bsg|6
+Niedźwiedź|PL|Lesser Poland|a5|3vi|1jt|6
+Niederhollabrunn|AT||a2|3ql|19a|6
+Niepos|PE||3o|-j9|-63t|6
+Nemāgerd|IR||7o|2jk|3vx|6|Nimagird;Namājerd
+Nieblum|DE||8r|47x|nl|6|Niblum;Njiblem
+Nikolayev|RU||9i|3pe|37y|6|Nikolajev
+Nir Yitsẖaq|IL||6n|2es|2ng|6|Nir Yits-ḥaq;Nir Itzhaq;Nir Yizhaq;Nir Yitshak
+Nieder-Hilbersheim|DE||8r|3un|mc|6
+Nienborstel|DE||8r|46e|qq|6
+San Francisco Ixpantepec|MX||41|198|-7i5|6|Ixpantepec;Nieves Ixpantepec
+Niederaigen|AT||a2|3o5|172|6
+Niederleis|AT||a2|3qv|19k|6
+Niedergesteln|CH||a7|3kn|lm|6|Castillio Inferior;Niedergestelen
+Niederhausen|DE||8r|3uc|lm|6
+Nieuwe Wetering|NL||8m|411|cu|6
+Niederthan|AT||a2|3pu|12w|6|Nieder Thann
+Nikol’skoye|RU|Kamchatka|6p|49c|ct4|6|Nikolskoje;Nikolskie;Nikolskoe
+Niforeika|GR||8p|2xy|1ns|6
+Nir‘am|IL||6n|2fk|2o2|6|Nir ‘Am
+Nymfópetra|GR||8p|351|1st|6|Nimfópetra
+Nimaima|CO||27|e9|-5qm|6
+Nichén|MX||41|1ao|-75g|6
+Nieul-le-Virouil|FR||9k|3i5|-1h|6
+Niesgrau|DE||8r|482|r9|6
+Nigotești|RO||8u|3nm|21g|6
+Niedźwiedza|PL||a5|3um|1lk|6
+Nikolsdorf|AT||a2|3lz|zv|6
+Nyanzongo|CI||0|pq|-jo|6|Nianzongo;Nianzango
+Niederwölz|AT||a2|3mz|13x|6
+Niro|CI||0|cw|-kp|6
+Nizhnyaya Sinyachikha|RU||7z|4gz|4rl|6|Niĵnjaja Sinjaĉiĥa
+Nīg|IR||7o|2l6|4k6|6|Nīk;Naik
+Niebylec|PL||a5|3ui|1ou|6
+Nir Moshe|IL||6n|2fg|2o7|6|Nir Moše;Nir Mosze
+Niva|UA||9t|3im|2kf|6
+Nikopol|UA|Kharkiv|98|3rt|2v4|6
+Nimet|TR||94|2u5|2zl|6
+Nichiteni|RO||8u|3pm|22m|6
+Niandagui|CI||0|pq|-82|6|Niendégui
+Niedermoschel|DE||8r|3u5|lo|6
+Niederabsdorf|AT||a2|3qx|1at|6
+Niesułowice|PL||a5|3vi|1ic|6
+Nizhniye Oreshniki|UA||9t|3h4|2na|6
+Nyzy|UA|Poltava|98|3s9|2la|6|Tereshchenky;Nizi;Nyzhni Plavni;Nizsni Plavni;Nischni Plawni;Nysy;Tereshchenki;Nizy
+Platerówka|PL||a5|3xu|165|6|Nieder Linde;Platerowo;Lipy Dolne;Zalipie Dolne;Nieder Linda
+Nisqually Indian Community|US||3p|3mn|-9gt|6
+Nikol’skoye|RU|Sverdlovsk Oblast|7z|4dx|4uu|6|Nikolskoje;Nikoljskoje
+Nibbia|IT||9o|3id|ns|6
+Nikelsdorf|AT||a2|3lr|11x|6|Nihelsdorf
+Nibok|NR||b5|-1g|cvo|6
+Niedermorschwihr|FR||9k|3pm|k7|6|Niedermorschweier
+Niederwald|US||2f|2bd|-7jh|6
+Nitiadougou|CI||0|qi|-hc|6
+Nijemirdum|NL||8m|42u|fh|6|Nijemardum
+Niona|CI||0|rd|-9e|6
+Nūrā’ī-ye Now|IR||7o|240|43k|6|Nīrā’ī;Nūrā’ī
+Nir Eliyahu|IL||6n|2hg|2p3|6|Nir Elijahu;Nir Eliyyahu
+Ninguno [Granja]|MX||41|1ot|-7un|6
+Nizas|FR||9k|3cv|9h|6
+Nyondjyé|CI||0|ol|-i0|5|Niondjié
+Nir H̱en|IL||6n|2ft|2of|5|Nir Chen
+Nieuw Moscou|NL||8m|42b|i6|5
+Niños Héroes|MX|Morelos|41|1g5|-7mw|5
+Niamiébo|CI||0|ko|-el|5|Niamébo
+Nicula|RO||8u|3ml|1ui|5
+Nižný Tvarožec|SK||8s|3t4|1mv|5
+Nitting|FR||9k|3r7|jj|5
+Nimetska Mokra|UA||98|3qd|1u9|5|Komsomolsk;Komsomol’sk
+Nicani|RO||8u|3oz|20v|5
+Amrakits|AM||80|35v|3fg|5|Nikolayevka;Kirov;Amrakic;Kirovo;Novonikolayevka
+Nižná|SK|Trnava Region|8s|3qt|1d1|5
+Niculești|RO|Buzău County|8u|3i8|22a|5|Nicoleşti
+Nikhaloy|RU||9i|3b0|3iu|5|Nixala;Nihaloj
+Niederglatt / Grafschaft|CH||a7|3nx|nm|5
+Niederwambach|DE||8r|3wn|l4|5
+Nives|BE||8t|3un|fk|5
+Nieuwebrug|NL||8m|41h|d0|5
+Niedergrunstedt|DE||8r|3xk|vc|5
+Nieboczowy|PL||a5|3v0|1eq|5
+Niederhorbach|DE||8r|3sg|mb|5
+Niederbrombach|DE||8r|3u0|k5|5
+Nípsa|GR||8p|35p|20a|5
+Niando|CI||0|r1|-9i|5
+Niebert|NL||8m|43o|hl|5|Nieberd
+Kimlychka|UA||98|3wt|2m3|5|Kymlychka;Nimlichka;Kimlichka
+Nicolești|RO|Ialomița County|8u|3gc|23l|5
+Nikomidinó|GR||8p|34w|1so|5|Vorénos
+Niergnies|FR||9k|3vb|92|5
+Nieuwaal|NL||8m|3zx|ee|5
+Nyzhnii Turiv|UA||98|3sd|1rq|5|Nyzhniy Turiv;Nizhniy Turov
+Nižepole|MK||9u|35x|1n1|5|Džindžopole;Nižepolje;Nižopole;Nižo Polje
+Niederottensheim|AT||a2|3qa|13f|5

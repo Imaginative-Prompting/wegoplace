@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wilmington|US|Delaware|48|32f|-5tv|jp|Vilmingtonas;Vilmingtonia;Vilmingtona;Vilmingtono;Willington;Walmington;Willingtown
+Wilmslow|GB||9b|445|-67|75|Vilmslo
+Vilminore di Scalve|IT||9o|3js|s1|f
+Vilminore|IT||9o|3js|s2|6

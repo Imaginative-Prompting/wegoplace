@@ -1,0 +1,128 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+Windhoek|NA||1f|-1qo|1bg|2za|Windhuk;Vindhukas;Vindhuko;Vindhuk;Windoèk;Wynhoeke;Vindhuka;Vindxuk;Vinduque
+High Wycombe|GB||9b|3zf|-23|110|Magna Wycombe
+Vyborg|RU||9i|4on|27v|lu|Wyborg;Víborg;Viiburi;Viipuri;Viborgas;Viburgum;Viborga;Víobórg;Vipuri;Wiborg
+Wyoming|US|Michigan|2q|3b7|-6m3|kx
+Vyksa|RU||9i|49o|395|h5|Wyksa;Vıksa
+Vyshniy Volochëk|RU||9i|4fz|2o1|ey|Vysjnij Volotsjek;Vyshny Volochyok;Wyschni Wolotschok;Wyschni-Wolotschek
+Wylie|US||2f|2jq|-7g6|cz
+Wismar|DE||8r|45p|vu|cl|Wyszomierz;Wismer;Vismāra;Wysmar;Vismaras
+Vyshneve|UA|Kyiv Oblast|98|3vz|2cd|by|Wyschnewe;Vychneve;Vışneve;Vyšneve;Vysjneve;Wysznewe
+Vyshhorod|UA||98|3wi|2cp|97|Vychhorod;Višhorod;Wyschhorod;Vyshgorod
+Wyszków|PL||a5|423|1nm|7d|Vişkuv;Viškuvas;Viškova
+Vynohradiv|UA||98|3pq|1s0|71|Wynohradiw;Vınogradiv;Vinohradiv;Nagyszőlős;Vinohradiva;Seleușu Mare
+Wyandotte|US||2q|399|-6ez|70
+Wyndham Vale|AU||8j|-2x9|b5q|5p
+Winschoten|NL||8m|43m|jj|55|Wynskoat
+Vysočany|CZ|Prague|9m|3v7|14c|4v|Wysočan;Vysočan
+Wijk bij Duurstede|NL||8m|40d|eu|4v|Wyk by Duerstede
+Wyckoff|US||48|35x|-5q1|4r
+Wychwood|CA||59|3dc|-64m|3z
+Wykagyl|US||48|35q|-5p0|3x
+Windham|US|New Hampshire|48|3aw|-5i2|3n|Wyndham
+Wingene|BE||8t|3xu|93|3l|Wynghene
+Wynnum|AU||8c|-249|btg|3j
+Winnetka|US|Illinois|2f|38z|-6rq|3h|Wynetka;Winetka
+Wynnum West|AU||8c|-24a|btf|3c
+Wyandanch|US||48|357|-5ns|38|Wylandanch;Wyandance
+Vyritsa|RU||9i|4l1|2cb|33|Wyriza;Vyrica;Võritsa;Viiritsa;Viiričča
+Vytegra|RU||9i|4ph|2t9|33|Võtegra;Vitegr;Wytiegra;Vitegra;Wytegra
+Vysokovsk|RU||9i|4cg|2tj|30|Wyssokowsk;Vyssokovsk;Vısokovsk;Wysokowsk
+Wyomissing|US||48|341|-5v1|2x
+Wyoming|AU||8l|-2ks|bog|2r
+Wyndham|US||48|2wq|-5zl|2q
+Wivenhoe|GB||9b|402|2o|2o|Wyvenhoe;Winehoe
+Vilkaviskis|LT||a3|47t|1rz|2m|Wyłkowyszki;Vilkavišķi;Vilkaviškio;Wiłkowyszki;Vilkavishkis
+Wysokie Mazowieckie|PL||a5|430|1qk|2k|Visoke Mazovecke;Mazovijos Vysokis
+Wyoming|US|Ohio|48|30z|-6in|2c
+Wynne|US||2f|2pu|-707|2a
+Wytheville|US||48|2un|-698|29
+Wyoming|US|Minnesota|2f|3hy|-76c|26
+Vylkove|UA||98|3i4|2a7|25|Vâlcov;Wylkowe;Vılkove;Wilkowo;Vilkovo
+Vypasne|UA||98|3kb|2c2|25|Wypasne;Podul de Piatr;Turlaki
+Wynn Vale|AU||8b|-2oo|ap9|24
+Wynnefield Heights|US||48|334|-5sw|24
+Wynyard|AU||8g|-35v|b8t|1m
+Wyndmoor|US||48|33c|-5sv|1j
+Wyrzysk|PL||a5|43n|1bz|1h|Wërzëskò;Vižiskas;Vižiska
+Stara Vyzhivka|UA||98|3yw|1vw|1f|Stara Wyschiwka;Stara Vijivka;Stara Vyživka;Stara Viživka;Stara Vyjivka;Wyżwa Stara;Stara Vyzhva
+Wyk auf Föhr|DE||8r|47x|nt|18|Wyck;Wik;Vyk;A Wik;Wyk op Feer;De Wyk;Wyk
+Vynohradove|UA|Kherson|98|3kt|2ji|18|Wynohradowe;Vinohradove;Vinogradovo
+Wyong|AU||8l|-2kg|bom|17
+Vyzhnytsya|UA||98|3q0|1xy|14|Vijniţa;Wischnitza;Wiznitz;Wyżnica;Vyjnytsia;Vișnița
+Vynohradivka|UA|Odesa|98|3iw|27e|13|Curciu;Kurçu;Wynohradiwka
+Wyhl|DE||8r|3pt|l9|10
+Vynohradivka|UA|Odesa|98|3jb|29m|x|Burgugi;Wynohradiwka
+Wyry|PL||a5|3v9|1gi|x
+Wynantskill|US||48|3am|-5ok|x|Wyantskill
+Wyspa Sobieszewska|PL||a5|46x|1gh|x
+Wyncote|US||48|33d|-5sr|u
+Wyoming|US|Pennsylvania|48|36r|-5uo|u
+Wilamowice|PL||a5|3uo|1h7|s|Vilamovice;Wilamowicy;Wymysoü;Wilmesau
+Thursday Island|AU||8c|-te|az2|s|Île Thursday;Thursday;Wyspa Thursday;Ilha Thursday;Torsdagsön
+Wyszogród|PL||a5|41j|1k3|s|Višogroda
+Wysoka|PL|Greater Poland|a5|43q|1bg|r|Wësokô;Visoka
+Wyomissing Hills|US||48|342|-5v2|q
+Wyldwood|US||2f|2bp|-7ir|p
+Wydminy|PL||a5|45y|1p7|o
+Wysoka|PL|Subcarpathia|a5|3v0|1pu|o
+Wyee|AU||8l|-2k6|bot|o
+Wyoming|CA||59|3bb|-6c4|n
+Vyshneve|UA|Dnipropetrovsk|98|3qk|2m7|n|Erastivka;Vychnévé;Vishnyëvoye;Wyschnewe;Vysjneve;Višneve;Vyšneve;Wysznewe
+Vyderta|UA||98|3zp|1xi|n|Wyderta
+Vyhoda|UA|Ivano-Frankivsk|98|3rx|1uf|n|Wygoda;Vıgoda;Wyhoda;Vihoda
+Wynnewood|US||2f|2o8|-7hw|m
+Wysoka Głogowska|PL||a5|3vc|1p6|m
+Wysoka Strzyżowska|PL||a5|3uf|1oe|m
+Vynohradne|UA|Odesa|98|3j9|28j|l|Hasan Batar;Vinogradne;Wynohradne;Hasan-Batâr
+Wynigen|CH||a7|3mv|lb|l
+Wijnjewoude|NL||8m|43e|h8|l|Wynjewâld;Veinevoudė
+Wyongah|AU||8l|-2kf|bot|k
+Wye|GB||9b|3y6|2m|j
+Vysotsk|RU||9i|4of|27d|j|Uuras;Wyssozk;Vyssotsk;Vysock;Vısotsk;Visock;Võssotsk;Wysock;Visocka;Trångsund;Uuraa;Uras;Trongsund;Tranzund;Transund
+Visegrád|HU||8v|3or|1gp|i|Wyszehrad;Plintenburg;Vyšehrad;Vyšegrad;Vixegrad
+Witmarsum|NL||8m|43i|f7|i|Wytmarsum;Witmarsun
+Wyreema|AU||8c|-24u|bpu|i
+Wynyard|CA||4q|3zt|-81e|h
+Wijshagen|BE||8t|3xy|fg|h|Wyshagen
+Wynau|CH||a7|3na|lq|g
+Wy Yung|AU||8j|-2x0|bdy|g
+Wysoka|PL|Lesser Poland|a5|3un|1ig|f
+Wyoming|US|Delaware|48|30o|-5tw|f
+Wymore|US||2f|33g|-7gi|e
+Wylam|GB||9b|48q|-52|e
+Wyoming|US|Illinois|2f|362|-6xd|e
+Wychbold|GB||9b|419|-5w|e
+Wymiarki|PL||a5|3z3|15w|d
+Wymeswold|GB||9b|42p|-33|d|Wimeswould
+Wyssachen|CH||a7|3ms|lr|d
+Vynohrad|UA||98|3ss|2cv|c|Vinograd;Wynohrad;Vînohrad
+Wysoka|PL|Silesia|a5|3w3|1hr|c
+Wyee Point|AU||8l|-2k3|bov|b
+Wyanet|US||2f|36x|-6wu|a
+Wyndham|AU||8k|-171|9vw|9
+Vysoká|CZ||9m|3w1|14e|9|Wysoka
+Vysochanske|UA||98|3l5|28o|9|Lak;Lac;Vysochans’ke;Wyssotschanske;Vysochanskoye
+Wynndel|CA||2j|3sm|-8zr|9
+Wyśmierzyce|PL||a5|3ze|1lt|9|Vismežice
+Wybunbury|GB||9b|43d|-6t|9
+Wylewa|PL||a5|3vf|1qu|8
+Wysoka|PL|Lesser Poland|a5|3tu|1j5|8
+Wyocena|US||2f|3cu|-6w3|7
+Wysoka Lelowska|PL||a5|3wo|1hq|7
+Wysokie|PL|Lesser Poland|a5|3tx|1l2|7
+Wysokie|PL|Lublin|a5|3wz|1si|7
+Wysoka|PL|Opole Voivodeship|a5|3uy|1di|7
+Wyalong|AU||8l|-2m9|bd0|6
+Wycheproof|AU||8j|-2s8|b1v|6
+Wysokie|PL|Lublin|a5|3xf|1qz|6
+Wysoka|PL|Lubusz|a5|42m|15s|6
+Wyalusing|US||48|37r|-5vu|6
+Wymysłów|PL|Silesia|a5|3w1|1gr|6
+Vysoke|UA|Donetsk|98|3p7|2xq|6|Wyssoke;Vısoke;Vyssoke;Vysokoye
+Wyndham|NZ||ak|-3kp|d11|6
+Wye|US||2p|3mf|-8t0|5
+Wyoming|US|Iowa|2f|38u|-70t|5
+Wymysłów|PL|Świętokrzyskie|a5|3xl|1na|5
+Wymondham|GB||9b|42k|-22|5

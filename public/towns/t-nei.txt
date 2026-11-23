@@ -1,0 +1,57 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Neijiang|CN||7i|2a6|83u|9nj|Nô̤i-gĕ̤ng;Nej-ťiang;Nejĝjan;Nui-kông-sṳ;Nội Giang;Lāi-kang-chhī;Neikiang;Nei-chiang
+Neiva|CO||27|85|-5t4|2ra
+Neihu|TW||7l|1xo|9dr|249|Nui-fù-khî;Nội Hồ;Lāi-ô͘-khu;Nei-hu
+Neyveli|IN||6t|w9|64u|1ds|Neiveli
+Nijmegen|NL||8m|400|g9|1da|Nimwegen;Nimega;Nimègue;Nymwegen;Nimwege;Ulpia Noviomagus Batavorum;Gemeen Nimwaege;Neimegenas;Neimegena;Nymegen;Nijmeyen
+Neili|TW||7l|1xd|9cu|vc|Nei-li
+Neubrandenburg|DE||8r|44s|10u|ix|Neubrandenbourg;Nuevo Brandeburgo;Noibrandenburgas;Neibrandenburga
+Napier|NZ||ak|-31p|dnf|ig|Ahuriri;Neipiras
+Neuilly-sur-Seine|FR||9k|3rs|6b|h1|Neijī pie Sēnas;Noviliacum ad Sequanam;Neuilly sur Seine;Nöyi-sür-Sen
+Neu-Ulm|DE||8r|3qf|rt|ea|Nuevo Ulm;Nuova Ulma;Neu Ulm;Nöa Ulma;Nei-Ulm;Nova Ulma
+Nysa|PL||a5|3w7|1c5|d5|Neisse;Nisa;Neisse-Neuland;Neisze
+Neuburg an der Donau|DE||8r|3rd|v3|7w|Neubourg-sur-le-Danube;Neuburg a.d.Donau;Neiburg an da Donau;Neuburgo do Danúbio;Neuburg-Donau
+Neietsu|KR||7h|2va|9wv|72|Yŏngwŏl
+Nesher|IL||6n|2j1|2pc|6d|Neszer;Nescher;Neixer;Nešer;Nešeras
+Neustrelitz|DE||8r|448|10b|67|Nieg Strelitz;Neištrēlica;Nojštrelic
+Naas|IE||8z|43u|-ij|5r|An Nás;Nás na Ríogh;Neisas
+Neira|CO||27|ed|-5ts|5p
+Neiba|DO||4v|1fd|-5ie|57|Neyba
+Neustadt an der Donau|DE||8r|3rl|wp|44|Neustadt a.d.Donau;Neistod an da Doana
+Nidzica|PL||a5|448|1kr|43|Neidenburg;Neidenbursch;Neidenburch
+Neubiberg|DE||8r|3pk|we|3j|Neibiberg
+Neustadt in Sachsen|DE||8r|3xr|13i|3a|Neustadt i. Sa.;Neustadt en Saksio;Neištate Saksijā;Neustadt i Sachsen
+Neykkārappatti|IN|Tamil Nadu|6t|t1|5z6|3a|Neikkarapatti
+Neuötting|DE||8r|3q0|z9|2f|Neiäding;Neu Oetting
+Neusiedl am See|AT||a2|3p7|1as|2a|Nezsider;Neisiedl am See;Niuzalj
+Neudorf-Weimershof|LU||9c|3tv|h5|1y|Neiduerf-Weimeschhaff
+Neustadt-Glewe|DE||8r|44a|w7|1y|Neištate-Glēve
+Neilston|GB||9b|4az|-cb|1h|Neilstoun;Baile Nèill
+Neumarkt am Wallersee|AT||a2|3p7|10r|19|Neimorkt am Woiersee
+Schliemannstadt Neubukow|DE||8r|463|wf|17|Neibūkova
+Neukloster|DE||8r|45n|wh|16|Neiklostere
+Neiafu|TO||bi|-1ft|-dfa|12|Nei-afo;Neafu
+Neyland|GB||9b|3zn|-dr|11|Neilandas
+Neufeld an der Leitha|AT||a2|3oz|19i|y|Lajtaújfalu;Novo Selo;Neiföd an da Leitha
+Neusalza-Spremberg|DE||8r|3xs|14e|p|Nowosólc-Hródk;Neizalca-Špremberga
+Neillsville|US||2f|3fs|-6zo|o
+Neiral|PT||99|36b|-nu|n
+Neukalen|DE||8r|45i|zj|m|Neikālene
+Kenmare|IE||8z|404|-qm|m|Neidin;An Neidín;Kevmare
+Nayn|IL||6n|2in|2q7|k|Na‘im;Nein;Naïn;Naim;Najn;Neim
+Neinstedt|DE||8r|3zr|ut|k
+Neidlingen|DE||8r|3qy|qk|j
+Neive-Borgonovo|IT||9o|3g8|mk|i
+Neidenstein|DE||8r|3t0|oo|i
+Niedercunnersdorf|DE||8r|3xt|14q|i|Neider Cunnersdorf
+Naizin|FR||9k|3pb|-7v|g|Neizin
+Neikeng|CN||7i|1wv|952|g
+Neuwiller-lès-Saverne|FR||9k|3rn|kl|b|Neuweiler bei Zabern;Neiwiller;Neuwiller
+Niederfeulen|LU||9c|3ui|gt|b|Neiderfeulen
+Neidenfels|DE||8r|3t7|md|a
+Neidenbach|DE||8r|3v6|i7|9
+Neitersen|DE||8r|3wr|l3|9
+Neicu|RO||8u|3jk|238|6
+Néoi Póroi|GR||8p|332|1qx|6|Nei Pori
+Neigem|BE||8t|3x4|ba|6

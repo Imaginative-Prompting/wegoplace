@@ -1,0 +1,90 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Delhi|IN||6t|27l|5yj|2d56|Delis;Deli;Dillí;Dellium;Šáhdžahanabád;Déhli;Dilhi;Dähli
+Shah Alam|MY||6v|8l|7u1|5ps|Šach Alamas;Šahalama
+Sahiwal|PK|Punjab|6q|2gt|5kx|45j|Sōhiwāl
+Sahiwal|PK|Punjab|6q|2d7|5n2|45j|Montgomery;Sahivalas
+Sahāranpur|IN||6t|2b9|5zf|3qp
+Shakhty|RU||9i|3ok|33q|1ph|Schachty;Szachty;Ŝaĥti;Šahtõ;Sjachty;Shajty;Chakhty;Šachty;Şaxtı;Sjakhty;Šahty;Šachtos;Shakhti
+Saharsa|IN||6t|1zv|6ok|17h
+Shahrisabz|UZ||7g|30i|55n|13n|Chakhrisabz;Sachrisabz;Xahrisabz;Šachrizabz;Ŝahrisabz;Šahrisabzas;Şehr-i-Sebz;Sjachrisabz;Shakhrisabzs;Shakhrisabz;Shakhrisyabz;Shahri-i-Sabz
+Şaḩam|OM||72|1v5|4e1|12w|Şaḩm
+Nankana Sahib|PK||6q|2fd|5or|104|Nankana Sachibas;Nanakana Sahib
+Sohar|OM||72|1vn|4dj|u3|Aş Şuḩār;Şuḩār;Sahar
+Shāhzādpur|BD||6a|1v6|6ww|sg|Sahzadpur
+Sāhibganj|IN|Jharkhand|6t|1y4|6rf|qn
+Shahdol|IN||6t|1sp|6a0|ot|Sahdol
+Sambava|MG||a8|-13n|3vd|oq|Sambaha;Sahambava
+Sahand|IR||7o|2xf|3k3|mx
+Zahlé|LB||64|2m1|2rq|lp|Zahla;Sahla;Zaḩlah
+Sahuayo de Morelos|MX||41|1jq|-7xc|hw
+Sahaswān|IN||6t|25z|62r|gy
+Sahagún|CO||27|ov|-5tk|gg
+Sāhibābād Daulotpur|IN||6t|27v|5y7|f8
+Shāhīn Dezh|IR||7o|2tw|3ld|bi|Sahin Dazh;Şā’īn Dezh
+Saḩāb|JO||5t|2gj|2s0|b6|Sehab
+Şaḩneh|IR||7o|2ns|3oh|9v|Sehneh
+Shāhābād|IN|Uttar Pradesh|6t|27d|63h|9q|Sāhābād
+Saḩar|YE||5r|16k|3f3|8v
+Şaḩnāyā|SY||69|2kv|2sn|8h|Sahnaiya
+Sahavato|MG||a8|-1l8|3q9|7s
+Shakhtarske|UA||98|3qb|2t4|7o|Perchotravensk;Peršotravensk;Perschotravensk;Perschotrawensk;Schachtarske;Šahtarske;Chakhtarske;Szachtarśke;Šachtarske
+Sahuarita|US||4i|2gs|-8k8|75|Saurita;Sahuarito
+Sahaspur|IN||6t|28w|62e|6t
+Sāhibganj|IN|Bihar|6t|213|6jx|6g|Sahebganj
+Sānehwāl|IN||6t|2do|5v3|69|Sahnewal
+Sahāwar|IN||6t|258|62z|66
+Sahline|TN||1e|2rb|tr|5z|Sahaline
+Sahoua|CI|Bas-Sassandra District|0|e2|-he|5s|Saoua;Sakoua
+Shahrak|AF||6o|2mr|4yn|4g|Şahrak;Shakhrak;Sharak;Shāhrag
+Şahindere|TR||94|33i|3bs|4b
+Sahlkamp|DE||8r|41m|r5|3y
+Sahali|CA||5b|3wp|-9a9|3r
+Sahatavy|MG||a8|-1ch|3s4|2s
+Sāha|IN||6t|2c7|5xu|29
+Sāhāpur|IN||6t|1qk|6sx|27
+Sakhnovshchyna|UA||98|3sj|2rn|1y|Sachnowschtschyna;Sakhnovchtchyna;Sajnóvshchina;Sachnovščyna;Sahnovşçına;Sachnowszczyna;Sakhnovsxina;Sakhnovshchina
+Šahy|SK||8s|3pj|1gn|1y|Ság;Ipolyság;Ipoly Ságh;Šahi
+Sahuyé|CI||0|fx|-cl|1w
+Sahnidih|IN||6t|1u2|6nl|1w
+Saḩam al Kaffārāt|JO||5t|2iu|2rd|1q|Saḩm al Kaffārāt
+Mariyenburg|RU||9i|4lh|2bi|1o|Sahanmylly
+Shohimardon|UZ||65|332|5jh|1f|Shaymardan;Chakhimardan;Şahimerdan;Shakhimardan;Shakimardan;Shahimardan
+Shahbuz|AZ||61|31h|3il|1a|Şahbuz;Sahnuz;Shakhbuz
+Sakharna Holovka|UA||9t|3fu|2lg|15|Saharnaya Golovka
+Sāhur|IN||6t|1n7|61a|14
+Sahuaripa|MX||37|28p|-8ff|14
+Zahvizdia|UA||98|3rw|1wi|z|Zahvizdja;Sahwisdja;Zahvizdya;Zagwóźdź;Zahvizdea
+Săhăteni|RO||8u|3h3|21o|x
+Şāḩeb|IR||7o|2sk|3l2|v|Sāhib
+Sahabo|CI||0|iz|-ez|u
+Echínos|GR||8p|36o|1xd|s|Şahin Köyü;Ekhínos
+Sahuaral|MX||37|22t|-8gn|r
+Sahagún|ES||9d|39p|-dz|p|Sant Fagund;Safagún
+Sahhouman|CI||0|f0|-8q|p
+Saharna|MD||8x|3oh|28h|o|Sakharna;Sukharna
+Sahispur|IN||6t|1s3|6u5|m
+Şahinbey|TR||94|2uj|2vc|m
+Sahalahti|FI||92|4qr|1vl|l
+Sahoua|CI|Lagunes District|0|hk|-ed|j|Saoua
+Sahcaba|MX||3z|1lr|-6vq|j|Sahacaba
+San Antonio Sahcabchén|MX||3z|1kf|-6ye|j|Sahcabchén
+Şahman|TM||5x|2yp|47a|e|Shakhman
+Sahurs|FR||9k|3t4|2m|b
+Shāhānpur|BD||6a|1tz|6vj|b|Shāhāpur;Sahapur
+Sahaydak|UA||98|3u5|2me|b|Sahaidak;Sagaydak
+Sahuaral de Otero|MX||37|22o|-8gt|b|Sahuaral de Abajo
+Shakhtne|UA||98|3pa|2yc|a|Schachtne;Şahtne;Shakhtnoye
+Sahilköy|TR|Istanbul|94|36g|29p|a|Domalı
+Şāḩebī|IR||7o|2tw|43m|9
+Sahirou|CI||0|k8|-kr|9
+Sohran|IR||7o|2mj|3qo|9|Sahran
+Şahintepe|TR||94|2wa|2vo|8
+Sähra|TM||5x|2x9|4jg|8
+Sahilköy|TR|Samsun|94|36v|2u1|8
+Sahlāvar|IR||7o|25e|4g5|8|Sarlāvar
+Sahandābād-e Soflá|IR||7o|2u6|3o2|7
+Şahnalı|TR||94|2wz|25m|6|Şahinali
+Şāḩeb Dīvān|IR||7o|2yz|3o1|6
+Bahçe|TR|Diyarbakır Province|94|2xx|366|6|Sahti;Sahte;Sihti
+Şahne|TR||94|37l|2hm|6|Şahme
+Sahé|MX||3z|1m4|-6wi|5

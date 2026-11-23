@@ -1,0 +1,72 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+Al Khuşūş|EG||c|2br|2f0|3rt|El-Khuṣûṣ
+Elk Grove|US||3p|2yp|-9d5|1ad|Elkgrove
+Hebron|PS||6g|2fl|2ph|18l|Hebrom;El Halil;Al-Khalil;Hevron;Al Khalīl;El Khulil;El Khalil
+El Kelaa des Srarhna|MA||d|2h1|-kl|sw|Kelaa Des Srarhna;El Kelaa des Srharna;El Kelaa des Sraghna
+El Cajon|US||3p|2j3|-90w|st|Elkachona;Elkahona;Tsétah Tééh;Elcajon
+El Khroub|DZ||3|2sq|il|p1|El-Kroub;Le Khroub
+Al Khānkah|EG||c|2bx|2f5|mo|El-Khânkâh;El-Khânka
+Al Qā’im|IQ||5z|2nj|35v|kl|Al-Káim;Al-Qa'im;Al-Qaïm;Al Kaim;El Kaim;El Qa’im
+Ełk|PL||a5|45j|1q4|fi|Lyck;Lukas
+El Kef|TN||1e|2sh|o6|ew|Le Kef
+Elkhart|US|Indiana|38|37s|-6mu|ej
+Al Qunayţirah|SY||69|2k1|2ri|a1|Quneitra;Kunejtra;Kuneitra;Kuneytire;Qinêtra;Qouneitra;Cuneitre;Qnaïtra;El Quneitra;El Kuneitra;Qunayţirah
+El Kala|DZ||3|2ui|ng|9u|La Calle;Port de la Calle
+El Ksar|TN||1e|2nk|og|9d
+Elk Grove Village|US||2f|38o|-6sd|98
+Al Qanţarah|EG||c|2dq|2hr|8u|Kantara;El Qanṭara;El Kantara
+El Kseur|DZ||3|2tw|di|79|El-Kseur;Leqṣer
+Elk River|US||2f|3hu|-77x|6o
+El Calafate|AR||1r|-3vu|-5ks|6c|Calafate;El Kalafatė
+El Ksiba|MA||d|2ih|-gq|62
+Elko|US|Nevada|3p|35f|-8xk|5n
+Elkton|US|Maryland|48|321|-5un|4e|Elk Town;Elktown
+Elkridge|US||48|30x|-5x3|4c|Elk Ridge
+Elk Plain|US||3p|3mp|-9g0|3y
+Elk City|US||2f|2qd|-7o4|3j
+Elhovo|BG||9v|395|21t|2w|Elchovo;Elkhovo
+Al Kawa|SD||r|127|2ia|2u|El Kawa
+Elkhorn|US|Wisconsin|2f|3aj|-6ty|2r
+Al Karāmah|JO||5t|2gr|2qu|2m|El Karāma;El Karamah;El Karameh
+Al Khaḑir|PS||6g|2g1|2pp|2i|Al Khadr;El Khader;El Khadr;Al Khiḑr
+Beytüşşebap|TR||94|2wc|3bx|2c|El’ki;Beytüşşebab;Elki;Beytisebap;Beytüşebap
+Elkhorn|US|Nebraska|2f|36v|-7fe|2b
+Elkins|US|West Virginia|48|305|-65t|20
+Elkins Park|US||48|33c|-5sp|1x
+Al Kittah|JO||5t|2ho|2rk|1k|El Kitta;Al Kittā
+El Ksour|TN||1e|2rq|oo|1k
+El Cobre|CU||36|1jp|-5uz|1c|El Kobre
+Elko New Market|US||2f|3fs|-779|1b
+Elkin|US||48|2so|-68l|15
+Elqana|PS||6n|2h7|2pb|12|Elkana
+Elk Ridge|US||2p|335|-8m8|w
+Elkins|US|Arkansas|2f|2s0|-795|t
+Elkton|US|Virginia|48|2yp|-62e|s
+Elkford|CA||2s|3uy|-8v8|q
+Elkton|US|Kentucky|2f|2u9|-6q3|m|Elk Town
+Elk Point|US||2f|3ak|-7gk|l|Elkpoint
+Elkhart|US|Kansas|2f|2ut|-7v1|k
+Elkenroth|DE||8r|3wx|lw|j
+Elkland|US||48|38n|-5yr|i
+Elk Rapids|US||2q|3gq|-6la|g
+Elkhorn|US|California|3p|2ua|-9e6|g
+Elk Creek|US||48|2xu|-6l5|f
+Elkfork|US||48|2xg|-6ex|f|Elk Fork
+Elk Point|CA||2s|45q|-8k2|e
+Elkhart|US|Texas|2f|2fv|-7di|d|Elkheart
+Elkview|US||48|2ys|-6ac|c|Elk View
+Elkader|US||2f|3b1|-71x|c
+Elk Run Heights|US||2f|39z|-74a|b
+Elkhart Lake|US||2f|3dr|-6si|a|Elkart Lake;Elkheart Lake
+Elkhorn City|US||48|2vm|-6cr|9
+Elkville|US||2f|2xb|-6vw|9
+Elk Mound|US||2f|3gn|-72p|9|Elkmound
+Elkesley|GB||9b|43z|-2p|8|Elksley
+Elkton|US|Michigan|2q|3dq|-6f2|8
+Elkhart|US|Iowa|2f|383|-77s|7
+Elkton|US|South Dakota|2f|3ew|-7g0|7
+Aire Libre|MX|Veracruz|41|1lu|-7ic|7|Kilómetro 15;Kilómetro Quince;El Kilómetro Quince
+Elk Horn|US||2f|37j|-7c2|6
+Elkton|US|Tennessee|2f|2pd|-6pd|6
+Elko|US|Minnesota|2f|3fs|-779|5

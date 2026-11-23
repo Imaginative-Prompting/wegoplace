@@ -1,0 +1,22 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tegucigalpa|HN||56|134|-6q9|6kc|Tegucigalpo;Teguzigalpa;Tegusigalpa;Tequsiqalpa;Tegousigoualpa;Teuctzincalpan;Tegusigalp
+Los Teques|VE||2c|sr|-568|1y2|Los Tekesas;Los-Tekes
+Tequisquiapan|MX|Querétaro|41|1l0|-7ph|8a|Tekiskiapano;Tequixquiāpan;Tequisquiapam
+Tequila|MX|Jalisco|41|1m0|-80g|84|Tequillan
+Tequixquiac|MX||41|1jb|-7ne|6b|Tequisquiac
+Villa de El Carmen Tequexquitla|MX||41|1ho|-7j9|3y|El Carmen Tequesquitla;Tequexquitla;Tequixquitla
+Ejido de Tequisistlán Primero|MX||41|1ig|-7mw|2o|Tequisistlán Primero
+Tequisistlán|MX||41|1ig|-7mu|1t|Tequisistián
+Tequesta|US||48|22w|-66h|1k
+Tequexquináhuac|MX||41|1i4|-7mi|1h
+Tequila|MX|Veracruz|41|1g1|-7hn|13
+Tequesquitengo|MX||41|1fp|-7nq|z
+Tequesquitlán|MX||41|1hv|-82c|k
+Tequisquiapan|MX|Guanajuato|41|1mk|-7s2|e|Tequixquiapan
+Tequila 1ra. Sección (La Aurora)|MX||41|1do|-75k|c
+Tequesquite|MX||41|1jr|-84i|c
+Tequepexpan|MX||3x|1mx|-82h|b
+Tequicuilco|MX||41|1ea|-7nk|a
+Tequimila|MX||41|1j2|-7ii|8
+Tequma|IL||6n|2fd|2o2|7|Tekuma
+Tequilita|MX||3x|1ml|-834|6

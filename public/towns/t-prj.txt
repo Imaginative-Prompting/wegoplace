@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Prievidza|SK||8s|3rh|1fr|c4|Privigye;Prjevidza
+Veliki Preslav|BG||9v|3bx|22i|2m|Weliki Presław;Preslav;Prieslav;Prjeslav;Preslaw
+Pryamitsyno|RU||9i|3zi|2ru|1f|Prjamitsyno;Pryamitsino
+Pryazha|RU||9i|4re|2lf|16|Prjazja;Prääsä;Teru;Priäžy;Prjascha;Prjaža;Priaża

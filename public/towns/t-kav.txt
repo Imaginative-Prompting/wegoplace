@@ -1,0 +1,72 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kawasaki|JP|Kanagawa|7q|2qo|as4|bvb|Kaŭasaki;Kavasakis;Kavaszaki;Kavasaki
+Kawaguchi|JP|Saitama|7q|2rh|as3|4oq|Kavaquçi;Kavagučis;Kavaguchi;Kawagutsi;Kawaguti-chhī
+Kawagoe|JP||7q|2rr|arh|2qi|Kavagoe
+Kawanishi|JP||7q|2oq|ag6|174|Kavanishi;Kawanisi-chhī
+Gonbad-e Kāvūs|IR||7o|2vh|499|167|Gonbad-e Qābūs
+Cavite City|PH||71|148|9bu|w7|Cavite;Dakbayan sa Cavite;Bandar Cavite;Ciudad ti Cavite;Cavite Lakanbalen;Lungsod ng Kabite;Syudad han Cavite;Siyudad na Cavite;Kavite
+Kāvali|IN||6t|15g|667|p1
+Kavanur|IN||6t|104|66g|fa
+Kavála|GR||8p|35q|1vt|f0|Kawala;Cavala;Cavalla;Kaválla
+Kavaklı|TR||94|365|26p|e1
+Kavadarci|MK||9u|373|1p5|as|Kavadartsi;Kavadari;Kawadarci;Kavadarchi;Kavadar
+Kavār|IR||7o|295|42d|8t|Kaval
+Kavajë|AL||9y|36f|1ic|8c|Kawaja;Kavaja;Kavaya;Kavalye;Kavaïa;Cavaja;Kavaj
+Kavisuryanagar|IN||6t|1ie|6jg|4u
+Kavalerovo|RU||7w|3ez|af5|4p|Kawalerowo;Kavaletovo;Kovalerovo
+Kāveripatnam|IN||6t|yi|61a|46|Kaveripattinam
+Kāveripāk|IN||6t|zv|64q|42
+Kavieng|PG||bd|-75|bmw|41|Kaewieng;Käwieng
+Ágios Athanásios|GR|Central Macedonia|8p|354|1r5|3m|Kavaklí;Áyios Athanásios
+Kābūl|IL||6n|2jb|2pt|3i|Kaboel;Kavul
+Cavan|IE||8z|45z|-kg|39|An Cabhán;Kavanas
+Kavkazskaya|RU||9i|3i8|34z|39|Kavkazskaja;Kawkaskaja
+Kavaratti|IN||6t|td|5ls|34|Kavaratis
+Kavarna|BG||9v|3co|26q|34|Kawarna;Cavarna
+Kavani|YT||ah|-zi|3hm|2p
+Kawānt|IN||6t|1pd|5pp|2o|Kavant
+Kävlinge|SE||9w|4az|10f|2l
+Kavundanpālaiyam|IN||6t|v0|5ym|2k
+Kavak|TR||94|364|2s4|2i
+Kavundaneri|IN||6t|w5|60m|2d
+Kavaklıdere|TR|Ankara|94|32v|2ja|1q
+Kavaklıdere|TR|Muğla|94|2w0|26s|z|Kavakdere
+Chavagne|FR||9k|3ph|-4z|y|Kavan;Cavana
+Kavaklıdere|TR|İzmir Province|94|2yt|23v|w
+Kavkazskiy|RU||9i|3ez|39b|v|Kavkazskij;Karkazskiy
+Kavati|KE||16|-3f|2xc|o|Kabati
+Cave City|US|Kentucky|2f|2v6|-6ms|o|Kavernurbo
+Kavani|KM||ac|-xv|3ez|m
+Kaviessou|CI||0|ja|-fo|l
+Kavagouma|CI||0|lt|-gz|k|Kavagbouma
+Chevaigné|FR||9k|3px|-4j|i|Kavaneg;Chavegneium
+Kavaka|CI||0|l4|-gx|g|Kavala;Kavvaka
+Kavallári|GR||8p|354|1s1|g|Kavalári
+Kāvīān|IR||7o|2i7|3z3|g
+Kapūr Chāl|IR||7o|2wb|3sr|f|Kavarchal;Kopūr Chāl;Kapūrchāl
+Kanavayén|VE||2c|fn|-4ro|f|Kavanayén
+Kavečany|SK||8s|3ri|1mx|d|Kavečani;Kavocsán
+Kavásila|GR|West Greece|8p|2x8|1n2|c
+Kavelstorf|DE||8r|461|xv|c|Kavelsdorf
+Cavaillon|HT||4j|1eu|-5ol|a|Kavayon;Cauaillon;Cavailon
+Kāyetkhāli|BD||6a|1sh|6vx|a|Kavetkhali
+Kavalūr|IN||6t|16h|5uy|a
+Kavuştuk|TR||94|2zt|3bm|a|Arınçküs;Arinöküs
+Kavásila|GR|Central Macedonia|8p|34r|1q1|8
+Kavarskas|LT||a3|49z|1x9|8|Kovarskas
+Kavallı|TR||94|2vd|39u|7
+Kavakdibi|TR||94|2y1|36w|7
+Kavala|CI||0|lm|-hy|7
+Kavakbıçkı|TR||94|357|2ei|7
+Kávos|GR||8p|31f|1jv|7|Cavos
+Kavakköy|TR||94|2sy|2c2|6
+Kāveh Kālī|IR||7o|2ky|3q6|6
+Kavaklıbağ|TR||94|2xz|34d|6
+Kāvand|IR||7o|2tp|3pr|6|Kavyand;Kāwand
+Kavimba|BW||m|-1e7|1wa|6
+Kavoúsi|GR||8p|2pk|1zu|6
+Kavaközü|TR||94|2ve|39m|5|Kavakönü
+Kavýli|GR||8p|37g|21n|5|Kavíli
+Kavvadádes|GR||8p|32f|1io|5|Kavvadhádhes
+Kavrochóri|GR||8p|2q3|1xl|5|Kavrokhóri
+Kavşıt|TR||94|2wm|264|5|Karşit

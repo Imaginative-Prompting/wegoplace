@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pô|BF||1a|v1|-36|7t
+Durban|ZA||o|-2ay|2e7|pr8|ITheku;Thekong;EThekwini;Port Natal
+Pune|IN||6t|1fg|5p6|o3x|Puna;poona;Pun
+Baoding|CN|Hebei|7i|2zz|8wq|l53|Bawding shehiri;Bảo Định;Baodin;Bō̤-dêng;Baodina;Pó-tēng-chhī
+Port Harcourt|NG||u|da|jh|gcw|Port Harkortas;Ugwu Ọcha;Port Xarcourt;Port Harkurt
+Porto Alegre|BR||4w|-2bf|-3yb|bhf|Puerto Alegre;Porto-Alegro;Portus Alacer;Portualegri;Portu-Alegri
+Bozhou|CN|Anhui|7i|2m4|8xl|avi|Po-čou;Bạc Châu;Bŏk-ciŭ;Po̍k-chiu-chhī
+Port-au-Prince|HT||4j|1fi|-5ky|9iz|Puerto Príncipe;Pòtoprens;Port o Prensas;Porto Príncipe;Portoprensa;Port au Prince;Port-o-Prins;Portoprinco;Portus Principis;Port-o-Prens
+Gqeberha|ZA||o|-2mc|1z5|83p|Port Elizabeth;Puerto Elizabeth;die Baai;Porto Elizabeth;Port Elizabetas;Portus Elisabethae;Portelizabeta;Ibhayi;Port Elisabeth;Port Elizabet
+Pointe-Noire|CG||a|-da|wy|7yo|Puent Nuaras
+Baoshan|CN|Yunnan|7i|1xs|7ng|77w|Bō̤-săng;Pao-šan;Bảo Sơn;Pó-san-chhī;Pao-shan
+Port Said|EG||c|2ev|2hq|60t|Puerto Saíd;Port-Saïd;Porto Said;Bursaid;Būr Sa‘īd;Bor Sa‘īd
+San Luis Potosí|MX|San Luis Potosí|44|1pj|-7sh|5ks|San-Luis-Potosi
+Pontianak|ID||79|-3|8fp|5ak|Pontijanak
+Puducherry|IN||6t|x5|65r|52k|Territoire de Pondichéry;Pondichéry;Pondicherry;Pondiĉero;Pondicherri;Pondichéri;Puducherri;Poudhucherry;Ponducherry
+Boston|US|Massachusetts|48|39o|-5he|51m|Bostún;Pokekona;Pô-sṳ-tun;Bostan;Baston
+Portland|US|Oregon|3p|3ig|-9gs|519|Portlenda;Portlend
+Pokhara|NP||6r|26j|6h9|4mp|Pokara;Pokhar;Pokhra
+Porto Velho|BR||4l|-oc|-4xi|48i|Porto Veljas;Porto Velyo
+Poznań|PL||a5|41l|1b1|44y|Posen;Posnania;Pòznóń;Pô-tsṳ-nàm;Poßen
+Liverpool|GB||9b|44d|-8a|3u0|Lerpwl;Liverpulo;Liverpulis;Liverpūle;Learpholl;Liwérpol;Poll a' Ghrùthain;Liverpul;Lerphoyll;Liverpuil;Liverpolium
+Pohang|KR||7h|2s3|9zc|3so|P’ohang
+Port Sudan|SD||r|1ii|2ve|3s1|Bur Sudan;Puerto Sudán;Port-Soudan;Porto Sudan;Sudanhavenurbo;Port Szudán;Pòrt Sodan;Port-sudan;Porto Sudão;Bar'uut;Būrt Sūdān
+Bratislava|SK||8s|3pr|1bj|39p|Prešporok;Bratislavo;Pozsony;Posonium;Preßburg;Bratysława;An Bhratasláiv;Bratisława;Bratisllava;Bratislav;Baratislawa;Presbourg;Presburg;Prešpurk;Preszburg
+Jayapura|ID||6m|-71|auw|365|Hollandia;Port Numbay;Djajapoera;Džajapura;Jaya Pura;Noordwijk;Djajapura
+Bandar Abbas|IR||7o|23j|4cc|2pu|Cambarão;Port Comorão;Gombroon;Gumrun;Bandar-e Abbas;Bandar Abas;Bandar-Abbász;Bender Ebbas;Bandare Abasas;Bender Abbas;Bandar-Abbas;Bandar-e ‘Abbās;Bandar ‘Abbāsī;Bandar ‘Abbās
+Nantes|FR||9k|3n6|-4b|2ib|Naoned;Nanto;Portus Namnetus;Nante
+Portoviejo|EC||33|-2y|-67h|2he|Portovjechas
+Popayán|CO||27|6s|-5wt|2gd|Popajanas
+Coatzacoalcos|MX||41|1ef|-7ac|2eb|Puerto Mexico;Koacakoalkosas;Port of Mexico
+Port-de-Paix|HT||4j|1je|-5mb|2d2|Pòdepè;Pòdpè;Porto-da-Paz;Port Paix
+Posadas|AR||1n|-243|-4bc|2cz
+Ponta Grossa|BR||4w|-1xp|-3vc|296|Ponta Grosa
+Port Moresby|PG||bd|-qc|bcr|26t|Puerto Moresby;Port Morsbis;Pot Mosbi;Port Morsbi;Port-Moresbo;Pò Moresbi;Portus Moresbiensis;Portmorsbi
+Poltava|UA||98|3tr|2nz|25o|Poltawa;Pultava;Poltavo;Ltava;Baltavár
+Polokwane|ZA||o|-1ue|29v|23p|Pietersburg;Polokvanė;Petriburgum;Pietrsburg
+Porto-Novo|BJ||1b|i2|78|21f|Porto Novo;Porto Novas;Pòto-Novo;Portus Novus;Pòrto Neuvo;Portonovo;Borto-Novo
+Porto|PT||99|36b|-nx|1y7|Portu;Portus Cale
+Puerto Montt|CL||4u|-377|-5mm|1wb|Port Montt;Portus Monttii;Puerto Montas;Puertomonta;Puertu Montt;Puerta Muonts;Puertomonto
+Puente de Vallecas|ES||9d|347|-a6|1vu|Ponto de Valjeko
+Podgorica|ME||9l|39w|1hi|1tt|Podgorytsa;Podgorika;Birziminium;Podgoritsa;Podgorico;Podqoritsa;Podgairítse;Podgoritza

@@ -1,0 +1,56 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Yantai|CN|Shandong|7i|2w4|9dc|1ist|Chefoo;Jen-tchaj;Jantaj;Yên Đài;Iĕng-dài;Jantai;Ian-tâi-chhī;Yen-t’ai
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Yerevan|AM||80|33m|3fn|8tz|Jerewan;Ereván;Jerevan;Erevano;Iereván;Êrîvan;Erywań;Jerevanas;Yiriwan;Jerjewan;Jerevani;Eireaván;Erevāna;Erevanum;Eriwan;Djerevan;Revan;Iravan;Erewan
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Yelets|RU||9i|425|2yz|w5|Jelez;Jelec;Ielets;Elec;Jelets;Elecum;Jelecas;Eleț
+Jena|DE||8r|3xh|w7|t3|Iéna
+Yeysk|RU||9i|3lp|2yc|oe|Jeisk;Jejsko;Jejsk;Ieïsk;Ejsk;Eisk;Yeisk
+Hyères|FR||9k|3bs|h1|e1|Ieras
+Etterbeek|BE||8t|3x7|c7|df|Ietrebecca
+Vagharshapat|AM||80|33l|3f1|dc|Eczmiadzyn;Echmiadzin;Etschmiadsin;Etchmiadzin;Vagaršapat;Etjmiadzin;Echmiatsin;Ejmiatsin;Vaharšapatas;Ečmijadzin;Vagaršapata;Ecsmiadzin;Eĉmiadzin;Vagharšapat;Vagharsjapat;Wagaršapat;Ecimiadzin;Edzjmiatsin;Edjmiatsín;Iejmiatsin
+Yefremov|RU||9i|43m|2xw|cn|Jefremov;Iefremov;Efremov;Jefriemow;Jefremow
+Eisenach|DE||8r|3xm|so|bb|Iesenack;Ysenacum;Wartburgstadt
+Jesi|IT||9o|3cw|10s|aa|Iesi;Aesis;Džezis
+Ieper|BE||8t|3x9|81|9r|Ypres;Ypern;Ipro;Iper;Yper;Ypry;Ypra;Ypras;Ipra
+Yecla|ES||9d|2z9|-33|9q|Iecla
+Esik|KZ||5s|3cg|5z5|96|Jessik;Iessik;Issyk;Jesyk;Isık;Issök
+Eisenhüttenstadt|DE||8r|40v|14p|8x|Iesenhüttenstadt;Eizenhiutenštatas
+Sint-Pieters-Leeuw|BE||8t|3x2|bs|8g|Leeuw-Saint-Pierre;Ieus
+Yemanzhelinsk|RU||7z|483|4qc|8a|Jemanschelinsk;Iemanjelinsk;Emanželinsk;Jemanželinsk;Jemanĵelinsk;Yemanjelinsk;Jemanzjelinsk;Yemanzhelinka
+Yershov|RU||9s|3yo|3q3|6l|Jersjov;Ierchov;Eršov;Yerşov;Ierxov;Jerŝov;Jeršow;Jerschow
+Nova Zagora|BG||9v|3a0|20a|6k|Yeni Zağra;Nowa Zagora;Eni Zagra;Ienizagra;Nowa Sagora;Jeni Zagra;Yeni Sagra
+Yafran|LY||1d|2h2|yt|6b|Yefren;Jefren;Iefren;Yafrin
+Jericho|PS||6g|2gj|2qh|5i|Arīḩā;Jericó;Jerihon;Jeriko;Gerico;Jerichas;Jerycho;Jērika;Chericó;Jeriĥo;Jeeriko;Ireachó;Xericó;Yerikho;Iericho;Ierihon;Yeriko;Eriha;Arihon;Arişa;Arihoon;Arihoo;Yerīhō
+Ierápetra|GR||8p|2p9|1zi|3g|Yerapetra;Yirápetra;Ierapitna
+Ielmo Marinho|BR||2w|-g6|-2qr|38
+Giesen|DE||8r|410|ri|2r|Iesen;Joisen
+Iernut|RO||8u|3l1|1vd|2l
+Jefferson City|US|Tennessee|48|2sc|-6fx|2d|Jefferson Ceety;Ieffersonia
+Iesolo|IT||9o|3ih|z4|27|Jesolo
+Iepê|BR||4w|-1qy|-3xw|24|Yepé
+Yerseke|NL||8m|3z1|b9|1t|Yrseke;Iese;Iersekė;Iersake;IJerseka
+Yemilchyne|UA||98|3xb|258|1q|Emilchin;Jemiltschyne;Yemilçıne;Iemiltchyne;Emilczyn;Emil’chino;Yemil’chyne;Yemil’chino
+Ie|JP||7q|227|9v1|16
+Ieud|RO||8u|3og|1vb|15|Jód;Jeud
+Iecava|LV||9n|4d8|1v9|14|Eckau
+Iedera de Jos|RO||8u|3h3|1z7|13
+Ierissós|GR||8p|348|1uc|x|Erissos;Ierisós
+Jerzu|IT||9o|32j|qg|t|Ierzu
+Yezupil|UA||98|3s8|1wu|s|Yézoupil;Jezupol;Jesupil;Jezupil;Iezupil
+Iepureşti|RO||8u|3ey|1zw|n|Epureşti
+Iecea Mare|RO||8u|3jd|1m1|n|Iecia-Mare;Jecia-Mare
+Gesualdo|IT||9o|35x|15v|k|Iesualdum;Gesualdu
+IJzendijke|NL||8m|3yk|a2|i|Ysendyck;Iezendieke
+Jelsa|HR||a6|3bw|1ad|i|Gelsa;Ielsa
+Iernuțeni|RO||8u|3lw|1wo|e
+Iedera de Sus|RO||8u|3h4|1z7|d
+Yelyzavethradka|UA||98|3rk|2i0|c|Jelysawethradka;Yelezavetgradka;Jelizavethradka;Yelızavetgradka;Jełyzawethradka;Ielîzavethradka
+Iezeru|RO||8u|3f1|24q|b
+Iecea Mică|RO||8u|3ja|1m4|b|Iecia-Mică;Jecia-Mică
+Iepureni|RO||8u|3ne|248|7|Epureni
+Iermata Neagră|RO||8u|3lk|1nq|7
+Eemnes|NL||8m|415|em|6|Iemnes
+Iegheriște|RO||8u|3oe|1sm|6|Jegherişte
+Iezureni|RO||8u|3h9|1ss|5|Ezureni
+Iezer|RO||8u|3pa|215|5

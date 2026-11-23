@@ -1,0 +1,23 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mixco|GT||32|14n|-6zp|3le
+Michalovce|SK||8s|3rf|1ow|9z|Nagymihály;Großmichel;Mixalovtse;Mihalovce
+Mixia|CN||7t|2yt|5yl|90
+Mixquiahuala de Juárez|MX||41|1k7|-7nl|73
+Mixin|CN||7i|2ce|85t|3v
+Sernovodsk|RU|Chechnya|9i|3cb|3hg|2r|Aslambekovskoe;Aslanbek;Ena-Xişka;Mixaylovskaya;Aslambekovskoye;Mikhaylovskaya;Sernowodsk
+Ignacio de la Llave|MX||41|1g1|-7en|1a|Mixtequilla
+Magdalena Tequisistlán|MX||41|19k|-7dk|12|Mixtequilla;Magdalena Tequistlán
+Santa María Mixtequilla|MX||41|19i|-7cm|10|Mixtequilla
+San Gabriel Mixtepec|MX||41|18q|-7ho|z|Mixtepec
+Mixquiapan|MX|Veracruz|41|1iq|-7i8|o|Mixquiapam
+Mixtlán|MX||41|1ks|-821|f
+Mixcum|MX||41|15r|-73y|f|Mixcun;Mixaum
+Mixtla|MX||41|1gj|-7jy|e
+Mixtlalcingo|MX||41|1g8|-7mq|d
+Mixdorf|DE||8r|410|140|a
+Mixquitepec|MX||41|1e8|-7km|9
+Mixistlán|MX||41|1bm|-7ey|8
+Mixtecapa|MX||41|1bw|-7lz|7
+Mixquiapan|MX|Hidalgo|41|1jy|-7lk|7
+Mixquitlixco|MX||41|1ee|-7kg|6
+Mixtán|MX||41|1dr|-7ea|5|Mixtlán;Mixton

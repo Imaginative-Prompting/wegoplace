@@ -1,0 +1,264 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Warsaw|PL||a5|413|1md|d4t|Warszawa;Varsovie;Warschau;Varsovia;Varsovio;Varšava;Varssavi;Varsova;Vársá;Varsó;Varsjá;Varsavia;Varšuva;Varsavja;Varshava;Barsobia;Warskou;Warszaw
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Warri|NG||u|fc|fz|70s
+Oran|DZ||3|2r6|-1s|675|Orà;Waradinne;Wehran;Wahrān
+Warangal|IN||6t|1e0|652|5fq|Varangal;Varangalas
+Warder|ET||2|jd|3hy|3h4|Werdēr
+Varna|BG||9v|3c2|25j|2gj|Warna;Odessos;Odessus
+Oradea|RO||8u|3mp|1ow|1ev|Velký Varadín;Nagyvárad;Varadinum;Oradä;Großwardein;Oradia;Oradja;Veliki Varadin;Wardein;Várad;Varadija;Varat;Gran Varadino;Groysvardeyn
+Warrington|GB||9b|44b|-76|1bv|Varingtono
+Ouargla|DZ||3|2gr|et|1b7|Warkala;Uargla;Varcla;Quargla
+Warren|US|Michigan|2q|3a1|-6el|119|Vorenas;Vorena
+Huaraz|PE||3o|-qh|-5zd|x0|Varas;Waras;Huarasas;Huaras
+Wardha|IN||6t|1lm|62c|vm|Vardhá
+Warīsān|AE||6c|1xx|49x|u8|Warsan
+Warwick|US|Rhode Island|48|37u|-5ie|mp
+Ouarzazate|MA||d|2dw|-j5|lk|Warzazat;Uarzazatas;Ouorzazate;Ouarzazte;Ouarzazat
+Warabi|JP||7q|2ri|as1|l0
+Warner Robins|US||48|2im|-6gb|kf
+Huaral|PE||3o|-vx|-5yh|ha|Waral
+Wāri|IN||6t|1mr|63h|f0|Wadi
+Warud|IN||6t|1nn|61f|da
+Warora|IN||6t|1k7|63g|cx
+Warin Chamrap|TH||62|167|83a|bz|Warim Chamrap
+Varash|UA||98|3ym|1zu|bo|Kuznetsovs’k;Varaš;Warasch;Kuznetsovsk
+Eisenach|DE||8r|3xm|so|bb|Iesenack;Ysenacum;Wartburgstadt
+Warren|US|Ohio|48|36k|-68i|b6
+Warendorf|DE||8r|40b|m7|ar|Warnduorp;Warendorp
+Warwick|GB||9b|418|-4e|ad|Vorikas;Warwicum
+Varaždin|HR||a6|3km|19e|a2|Varasd;Varasdino;Warasdin;Varasdinum;Varasdin;Varazhdin;Waraschdin
+Waregem|BE||8t|3xd|9j|9z|Woaregem;Varegemas;Waereghem
+Wāris Alīganj|IN||6t|1xi|6lw|9s|Wāris Arīganj
+Warrnambool|AU||8j|-2ym|azt|95|Varnambulas;Varnambula;Warnambool
+Warstein|DE||8r|3yw|n7|7x
+Wārāseonī|IN||6t|1og|66c|7n
+Warburg|DE||8r|3z1|pf|6r|Varburgum Vestphalorum;Waberich
+Guaranda|EC||33|-4f|-63g|66|Waranta
+Warnes|BO||3n|-1co|-4vh|64
+Waren|DE||8r|44o|z8|5z|Vārene pie Mīrica
+Were Īlu|ET||2|tf|31k|5q|Wereyilu;Ware Ilu;Woreyilu
+Warrensburg|US|Missouri|2f|2zo|-78e|5j
+Warragul|AU||8j|-2y0|b9d|5j
+Warah|PK||6q|249|58c|57
+Warrenton|ZA||o|-263|1x1|4z
+Ware|GB||9b|3zx|-3|4w
+Warminster|GB||9b|3y8|-62|4v
+Wardenburg|DE||8r|43e|ms|4g
+Warichaphum|TH||62|1c1|7zw|4e|Waritchaphum
+Warwick|AU|Queensland|8c|-26e|bqb|4a
+Warren Township|US||48|34t|-5r0|49|Warren
+Varnsdorf|CZ||9m|3xf|14m|42|Warnsdorf;Warnoćicy
+Warrington|US||2f|2ce|-6qf|41
+Warsaw|US|Indiana|38|36k|-6mh|41
+Varenikovskaya|RU||9i|3hc|2wk|40|Varenikovskaja;Warenikowskaja
+Waremme|BE||8t|3wu|em|3t|Wareme;Wèrm
+Warrensville Heights|US||48|374|-6ai|3r
+Warrenville|US|Illinois|2f|386|-6sx|3p
+Warden|ZA||o|-25d|28h|3o
+Worthi|IN||6t|1n0|658|3n|Warthi
+Wawarsing|US||48|380|-5qk|3l|Wawasink;Warwasing
+Vardenis|AM|Gegharkunik|80|33m|3j1|3j|Basargech’ar;Wardenis;Vasakashen;Geghamabak
+Warren|US|Rhode Island|48|37x|-5i0|35
+Warner|AU||8c|-23v|bsv|34
+Varshava|UA||98|3ro|2wh|34|Varshavskyi;Warszawa
+Wardāmah|LY||1d|2j4|1oj|33
+Warka|PL||a5|3zu|1mv|32|Varka
+Warman|CA||4q|41c|-881|32
+Warnbro|AU||8k|-2hu|8xj|30
+Warr Acres|US||2f|2qo|-7j6|2w
+Warrenton|US|Virginia|48|2zj|-604|2r
+Warsop|GB||9b|43t|-37|2q
+War Net Kone|MM||7y|1bl|7ff|2p|Wanetkon
+Ward 1|MM||7y|1az|7f7|2m
+Warren|US|Pennsylvania|48|388|-63v|2l
+Warnsveld|NL||8m|40u|hb|2k
+Warwick Parish|BM||82|2hn|-501|2e
+Warnemünde|DE||8r|46i|xk|2c|Warnemünn
+Ward 5|MM||7y|1ax|7f8|2a
+Warrenton|US|Missouri|2f|2zt|-716|29
+Warlingham|GB||9b|3yj|-6|28
+Warrenpoint|GB||9b|46a|-he|25|An Phointe
+Wareham|GB||9b|3wt|-5v|24
+Warners Bay|AU||8l|-2jl|bp9|23
+Barczewo|PL||a5|45j|1lh|21|Wartenburg;Barčevo;Wartenbork
+Warriewood|AU||8l|-2ll|boa|21
+Wardle|GB||9b|451|-5x|21
+Warkworth|NZ||ak|-2t4|dh7|1y|Mahurangi
+Warwick|US|New York|48|36m|-5qk|1w
+Warmbad|NA||1f|-271|1g2|1v
+Warmenhuizen|NL||8m|42g|d6|1t
+Warilla|AU||8l|-2nz|bn2|1s
+Waranyéné|CI||0|q6|-fr|1r|Waraniéné
+Ware|US||48|39e|-5ko|1q|Equivalent Lands
+Wardhāmna|IN||6t|1mp|63b|1p|Waddhamana
+Warwick Farm|AU||8l|-2m7|bna|1n
+Warren|US|Arkansas|2f|2ld|-73q|1m
+Warrandyte|AU||8j|-2wv|b7f|1i
+Warrenton|US|Oregon|3p|3k9|-9k8|1h
+Warradale|AU||8b|-2p8|aot|1f
+Warm Mineral Springs|US||48|236|-6ci|1f
+Warthausen|DE||8r|3pp|r8|1c
+Warwick|CA||59|3jn|-5jy|1c
+Warrawong|AU||8l|-2ns|bn5|1c
+Ward|US||2f|2pb|-73f|1b
+Warranwood|AU||8j|-2wx|b7h|1b
+Workum|NL||8m|436|f5|1b|Warkum;Vorkumas
+Waratah|AU||8l|-2jf|bph|1b
+Varāvī|IR||7o|24b|43d|1a|Vorāvī;Waravi
+Wartenberg|DE|Bavaria|8r|3qh|xb|19|Wartenburg
+Warmond|NL||8m|410|ci|17
+Wargrave|GB||9b|3z2|-2f|16|Wagrave
+Warminster Heights|US||48|33n|-5sk|15
+Vara|SE||9w|4hu|zz|15|Wara
+War Ba Lauk Thauk|MM||7y|19w|7f5|14|Wabalaukthauk
+Warren|US|Maine|48|3ek|-5cc|13
+Ward Village|US||ax|1n5|-c6h|13
+Ward 3|MM||7y|1ay|7f8|13
+Vorukh|TJ||6d|32p|5g2|12|Wārōx;Varukh
+Warboys|GB||9b|41k|-8|12
+Stráž pod Ralskem|CZ||9m|3wu|154|12|Wartenberg am Rollberg;Vartenberk;Vartemberk;Warttenberg am Rollberg
+Ward 4|MM||7y|1ay|7f8|11
+Warwick|AU|Western Australia|8k|-2gg|8xp|11
+Warana|AU||8c|-228|btd|10
+Warngau|DE||8r|3ov|wk|10
+Warmsen|DE||8r|41q|ol|10
+Warang|SN||g|13x|-1b2|z
+Warin|DE||8r|45g|wj|z|Vārīne
+Warburton|ZA||o|-20v|2co|y
+Warta|PL||a5|3zn|1fq|y
+Warsaw|US|New York|48|3aq|-611|y
+Ward 2|MM||7y|1ax|7f9|y
+Warrior|US||2f|2lx|-6p5|w
+Warsaw|US|North Carolina|48|2p8|-60x|w
+Warrensburg|US|New York|48|3cu|-5oy|v
+Warneton|BE||8t|3wz|87|u
+Warm Springs|US|Montana|2p|3ka|-8pa|u|Warmsprings
+Vary|UA||98|3po|1r3|u|Mezővári;Wary;Vari
+Warm Springs|US|Oregon|3p|3gc|-9cv|t|Varmaj Fontoj;Warmsprings;Warm Spring;Warmspring
+Warrawee|AU||8l|-2lp|bns|t
+Waratah West|AU||8l|-2je|bpf|t
+Wareham Center|US||48|381|-5gh|t
+Warga|CI||0|sw|-fi|t
+Waroona|AU||8k|-2j8|8y0|t
+Waringstown|GB||9b|477|-hi|t
+Warden|US||3p|3mh|-96o|r
+Warrane|AU||8g|-3b2|bde|r
+Wartenberg|DE|State of Berlin|8r|422|11k|q
+Wardin|BE||8t|3uv|g3|p
+Waramanga|AU||8l|-2q7|bi2|p
+Warm Beach|US||3p|3pt|-9fw|o
+Warrimoo|AU||8l|-2lo|bmc|o
+Warmensteinach|DE||8r|3uv|wq|o
+Warracknabeal|AU||8j|-2sp|azj|o
+Wa Thin Kha|MM||7y|19u|7ee|n|War Thein Kha
+War Yon Sun|MM||7y|1bg|7fm|n
+Wartmannsroth|DE||8r|3vd|r6|n
+Warmbad-Judendorf|AT||a2|3lg|12e|n
+Warton|GB|England|9b|46f|-7o|n
+Ware Shoals|US||48|2nk|-6ch|m
+Warmeriville|FR||9k|3t3|bq|l
+Warsaw|US|Missouri|2f|2y8|-77e|l
+Warlubie|PL||a5|44v|1fr|k
+Warburton|AU|Victoria|8j|-2wv|b8p|k
+Warson Woods|US||2f|2z9|-6z2|k
+Wartberg|AT||a2|3o1|170|k|St. Barbara
+Warffum|NL||8m|44b|i8|k|Warfum
+Warabrook|AU||8l|-2jd|bpf|j
+Warhem|FR||9k|3xm|6x|j
+Warton|GB|England|9b|45b|-81|i
+Warrenton|US|Georgia|48|2kt|-6dm|i
+Warroad|US||2f|3rv|-7cr|i
+Warren|US|Oregon|3p|3ja|-9h9|i
+Warsage|BE||8t|3wy|g1|i
+Warfield|CA||5b|3se|-933|i
+Wa Gauk Taw|MM||7y|19n|7ej|h|War Kauk Taw
+Warsaw|US|Kentucky|48|2zq|-6ju|h
+Warner|US||2f|2ql|-7cr|g
+Varakļāni|LV||9n|4d9|22b|g|Warkland;Warklany;Varaklyany
+Warialda|AU||8l|-2a2|bma|g
+Waretown|US||48|32j|-5q4|g|Waer Town;Waertown;Wiretown
+Warren|US|Minnesota|2f|3pw|-7gt|g
+Warga|NL||8m|43n|g8|g|Wergea;Vergea
+Warken|LU||9c|3ui|gw|g|Waarken
+Warsaw|US|Illinois|2f|344|-71z|g
+Wardsville|US||2f|2yx|-741|f
+Wareemba|AU||8l|-2m2|bnt|f
+Warren Park|US||38|32i|-6n1|f
+Watford|CA||59|3bb|-6bg|f|Warwick
+Warsaw|US|Virginia|48|2xg|-5x8|f
+Warchin|BE||8t|3wl|9i|f
+Warcq|FR||9k|3ua|d0|f
+Warren|US|Massachusetts|48|399|-5kj|e
+Wartberg an der Krems|AT||a2|3pb|138|e
+Warren|US|Illinois|2f|3a2|-6xz|e
+Warren|AU||8l|-2g2|ben|d
+Warkworth|GB||9b|49r|-4i|d
+Warrenville|US|South Carolina|48|2l7|-6b8|c
+Cuciulata|RO||8u|3jm|1y8|c|Warmwasser;Hévíz;Olthévíz
+Warluis|FR||9k|3t7|5y|c
+Warragamba|AU||8l|-2m5|bmc|c
+Warren|US|Indiana|38|350|-6lb|c
+Wartberg ob der Aist|AT||a2|3qb|14b|c
+Otyń|PL||a5|401|17n|c|Ochla;Wartenberg
+Warnham|GB||9b|3xx|-z|c
+Waret-la-Chaussée|BE||8t|3we|do|c
+Warrensburg|US|Illinois|2f|32x|-6ve|c
+Warcoing|BE||8t|3wu|9b|b
+Wardow|DE||8r|45t|yh|b
+Wardrecques|FR||9k|3wv|6i|b|Wérdrecque
+Wargnies-le-Grand|FR||9k|3vr|a6|b
+Warnow|DE||8r|45f|x0|b
+Waret-l'Évêque|BE||8t|3wg|e3|b
+Warmley|GB||9b|3yy|-6w|a
+Warborough|GB||9b|3zg|-36|a
+Warberg|DE||8r|40y|uc|a
+Warquignies|BE||8t|3w0|am|a
+Warnant|BE||8t|3vs|dg|9
+Warren|US|New Hampshire|48|3e0|-5jp|9
+Wartburg|US||48|2sa|-6j0|9
+Warnant-Dreye|BE||8t|3wk|ej|9
+Variazh|UA||98|3wb|1ux|9|Waręż;Varjazj;Warjasch;Varyazh;Vareaj;Variaj
+Warrenton|US|North Carolina|48|2t4|-614|9
+Wartenburg|DE||8r|3zx|zi|9
+East Warburton|AU||8j|-2wu|b8u|9|Warburton East
+Wardell|AU||8l|-28f|bua|8
+Warren|CA||5d|3v9|-7iz|8
+Warpe|DE||8r|42i|pb|8
+War|US||48|2vm|-6ax|8
+Warder|NL||8m|421|dz|8|Warden
+Warta Bolesławiecka|PL||a5|3yb|17j|8
+Warten|NL||8m|43n|ge|8
+Waiouru|NZ||ak|-31o|djz|8|Warouru
+Warwick|US|Massachusetts|48|3ak|-5ky|8
+Wargnies-le-Petit|FR||9k|3vp|a7|8
+Warren|US|Texas|2f|2d1|-7a9|8
+Warza|DE||8r|3xo|to|8
+Warns|NL||8m|42w|f0|8
+Varcheh|IR||7o|2lu|3up|8|Warcheh
+Warisoulx|BE||8t|3we|dj|7
+Warloy-Baillon|FR||9k|3ux|70|7|Varloé-Baillon
+Warsow|DE||8r|45l|zl|7
+Warken|NL||8m|40u|hf|7
+Warnice|PL||a5|43x|15n|7
+Wartkowice|PL||a5|40e|1gs|7
+Warrenheip|AU||8j|-2wd|b3t|7
+Warsaw|US|Ohio|48|342|-6bt|7
+Wartrace|US||2f|2qp|-6nt|7
+Warrandyte South|AU||8j|-2ww|b7h|6
+Warrenup|AU||8k|-2p6|93d|6
+Warsaw|US|Minnesota|2f|3ex|-77f|6
+Warzée|BE||8t|3w5|f3|6
+Warnervale|AU||8l|-2kd|bop|6
+Warder|DE||8r|46l|rg|6
+Warburton|AU|Western Australia|8k|-20l|9rm|6
+Wardington|GB||9b|40r|-3l|6
+Warrior Run|US|Pennsylvania|48|366|-5xd|6
+Warrior Run|US|Pennsylvania|48|36f|-5uz|6
+Wormsdorf|DE||8r|40t|v3|6|Warmonestorp
+Wartmannstetten|AT||a2|3oh|18o|6
+Wartenberg-Rohrbach|DE||8r|3tl|lt|6
+Warth|AT||a2|3od|18s|6
+Worminghall|GB||9b|3zt|-2z|5|Warminghall
+Warlow|DE||8r|446|vp|5
+Warneet|AU||8j|-2y6|b7n|5

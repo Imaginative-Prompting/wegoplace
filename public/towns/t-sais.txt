@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Xai-Xai|MZ||11|-1xl|2lg|16w|Xai Xai;Šai Šajus;Xay-Xay
+Zaysan|KZ||5s|3nv|6jr|4w|Saissan;Zaisanas;Zaïssan;Žajsan;Zaisan
+Saissac|FR||9k|3cg|61|a

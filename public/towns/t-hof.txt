@@ -1,0 +1,52 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hefei|CN||7i|2gi|91s|211f|Che-fej;Hefėjus;Hợp Phì;Hefejo;Ha̍p-pûi-chhī;Hăk-bùi;Hofej;Hozfeiz;Hefej;Hefey;Ho-fei
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Al Hufūf|SA||7e|1yg|3tr|29g|Hofuf;Al Hofuf;Hufuf
+Hōfu|JP||7q|2ml|a5h|wh|Bōfu
+Hoffman Estates|US||2f|38s|-6so|eh
+Hof|DE|Bavaria|8r|3vr|x3|do|Dwórc;Curia Variscorum
+Hofheim am Taunus|DE||8r|3v5|nh|ai|Hofheim in Taunus
+Hofgeismar|DE||8r|3z2|q3|4k
+Hofbieber|DE||8r|3wj|rc|1s
+Hofors|SE||9w|4o7|199|1p
+Hofstade|BE|Flanders|8t|3xk|b7|1n
+Hofheim in Unterfranken|DE||8r|3va|t8|1g
+Hofstade|BE|Flanders|8t|3xn|ch|1d
+Hofmeyr|ZA||o|-2fx|1zo|18
+Hofterup|SE||9w|4b0|102|12
+Hofkirchen|DE||8r|3r8|10g|11
+Hof bei Salzburg|AT||a2|3ou|10p|10
+Hoffenheim|DE||8r|3sv|ok|x|Hoffe
+Bad Hofgastein|AT||a2|3n1|10e|u|Hofgoschdei
+Tsebrykove|UA||98|3mz|2bn|s|Hoffnungstal;Zebrykowed;Tsebrikovo
+Hofstetten|DE|Bavaria|8r|3pd|uh|i
+Höfen an der Enz|DE||8r|3rk|nu|h
+Höfn|IS||87|4yh|-169|h|Hafnar;Hafnar í Hornafirði;Sveitarfélagið Hornafjörður
+Hofstetten|DE|Baden-Wurttemberg|8r|3q2|mf|h
+Hof am Leithaberge|AT||a2|3p7|1a2|f
+Hofgeest|NL||8m|41o|cy|e
+Hōfoa|TO||bi|-1mp|-dir|e
+Hof|AT|Salzburg|a2|3nj|110|d
+Hof|DE|Rheinland-Pfalz|8r|3wr|ma|d
+Hofkirchen im Traunkreis|AT||a2|3pq|13y|d
+Hova|SE||9w|4jh|13i|d|Hofva
+Höflein|AT||a2|3pj|1am|c
+Höfen|AT|Tyrol|a2|3nv|to|c
+Hof|AT|Upper Austria|a2|3oz|110|c
+Hofstetten|AT||a2|3pm|173|b
+Hofstetten|CH||a7|3nw|nn|b
+Höf|AT|Styria|a2|3mx|171|a
+Höfer|DE||8r|42c|sh|a
+Hof|NO||9j|4o7|xe|8
+Höflein an der Donau|AT||a2|3qb|197|8
+H̱ofit|IL||6n|2hz|2ov|8
+Hofkirchen an der Trattnach|AT||a2|3py|126|8
+Hofmarkt|AT||a2|3nf|10y|8
+Hofkirchen im Mühlkreis|AT||a2|3qo|12d|7
+Nadezhdivka|UA||98|3j8|29s|7|Hoffnungsfeld;Nadejdivka;Gofnungsfeld
+Lambrivka|UA||98|3kp|29d|7|Hofman;Hofmana;Fil'varok Hofmana;Hoffmann;Lambriwka;Lambrovka;Gofmana;Lambrovca;Gofman
+Hoffman|US|Minnesota|2f|3jb|-7e3|7
+Hofkirchen|AT||a2|3n9|185|7
+Hofstätten an der Raab|AT||a2|3ms|17r|6
+Hoffman|US|North Carolina|48|2pb|-64z|6
+Höfen|AT|Upper Austria|a2|3pr|10h|6

@@ -1,0 +1,77 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pogradec|AL||9y|35m|1ld|ct|Pogradets
+Sambir|UA||98|3tk|1sg|9i|Sambor;Szambir;Nowy Sambor;Sombor;Szambor;Pohonych;Pogonycz;Pogonicz
+Podil|UA|Kyiv City|98|3w7|2cs|77|Padół;Pogyil;Pogyilszkij kerület
+Poggioreale|IT||9o|35j|13p|6l
+Poggibonsi|IT||9o|3cr|uz|61
+Poggiomarino|IT||9o|35c|14e|5f
+Pogranichnyy|RU||7w|3fd|a4y|3b|Pogranitsjnyj
+Pogar|RU||9i|41z|2ke|34
+Buchs|CH|Saint Gallen|a7|3n1|qc|2w|Pogius
+Pogo|CI||0|t0|-fn|2t|Poho
+Pogliano Milanese|IT||9o|3ii|oz|29
+Opicina|IT||9o|3ix|12b|28|Opčine;Poggioreale del Carso
+Poggio A Caiano|IT||9o|3dp|up|27
+Pogoanele|RO||8u|3gs|230|26
+Poggiardo|IT||9o|339|1f2|1n
+Poggio Rusco|IT||9o|3gx|uu|1m
+Poggio Renatico|IT||9o|3gd|vx|1h|Póggio Rerático
+Pogwizdów|PL||a5|3uc|1fo|y
+Pogana|RO||8u|3ko|24l|y
+Poggio Mirteto|IT||9o|39f|z9|x
+Poggio Imperiale|IT||9o|387|16p|s
+Pogórska Wola|PL||a5|3uy|1ms|r
+Poggio dei Pini|IT||9o|30r|ox|o
+Poggio Moiano|IT||9o|398|zs|n
+Pogonsili|PH||71|17y|9a2|m|Pagonisili
+Pohreby|UA|Kyiv Oblast|98|3wf|2d4|l|Pogreby
+Pogorzela|PL|Greater Poland|a5|3zy|1bv|k|Pogožela
+Pohreby|UA|Poltava|98|3st|2kk|k|Pogreby
+Pogăceaua|RO||8u|3lo|1vi|k|Pogăceana
+Poguié|CI||0|gu|-bd|j|Boguié
+Pogórze|PL|Silesia|a5|3uc|1gc|j
+Poggetto|IT||9o|3dr|uo|g
+Pagėgiai|LT||a3|496|1ov|g|Pogegen;Pagiegē;Paģēģi;Pagegyay
+Pogonele|RO||8u|3h9|22m|f|Pogoanele
+Nuovo Centro Urbano Poggioreale|IT||9o|2ww|108|f|Poggioreale
+Pognano|IT||9o|3in|qs|f
+Pogăneşti|MD||8x|3lp|26f|f
+Pogno|IT||9o|3j4|nb|e
+Pogorzyce|PL||a5|3v6|1hy|e
+Poggiorsini|IT||9o|35n|196|e
+Pogrzebień|PL||a5|3v3|1eu|c
+Pogonești|RO||8u|3k7|24h|c
+Poggiridenti Piano|IT||9o|3k9|rl|b
+Pogănești|RO||8u|3lp|269|b
+Pogórze|PL|Pomerania|a5|47k|1fc|b
+Pohranice|SK||8s|3q9|1ei|b|Pogranice
+Pohreby|UA|Cherkasy|98|3v5|2hf|b|Pogreby
+Poggio Ellera|IT||9o|38z|yd|b
+Poggio Picenze|IT||9o|39k|11m|a|Podium Picentiae;Poggiu Picenzi
+Poggio di Roio|IT||9o|39l|116|a
+Poggio di Chiesanuova|SM||9q|3dy|yi|a|Poggio Chiesanuova;Chiesanuova;Ecclesia Nova;Kjezanuova;Puggiu Crèsianova;Ciesanova
+Pöggstall|AT||a2|3q8|168|9
+Poggio Bustone|IT||9o|3a2|zt|8
+Poggersdorf|AT||a2|3ll|145|8|Pokrče
+Poggio Mirteto Scalo|IT||9o|39d|z4|8
+Poharshchyna|UA||98|3w5|2la|8|Pogarshchina
+Poganu|RO||8u|3g2|1vk|8
+Poggio Nativo|IT||9o|39a|zk|8
+Podgorač|HR||a6|3ia|1em|8|Pogorács
+Pognana Lario|IT||9o|3jg|pg|8
+Poggi Inferiore Poggi Superiore|IT||9o|3dv|m6|7
+Pohrebniaky|UA||98|3tq|2j4|7|Pogrebnyaki;Pohrebnyaky
+Pahost|BY||9g|45l|28z|7|Pogost
+Poggio-di-Venaco|FR||9k|39e|pj|7|Venaco;Poggio di Venaco;U Poghju di Vènacu
+Poggiofiorito|IT||9o|39d|13s|7
+Povljana|HR||a6|3f7|160|7|Poljana;Povljan;Polyana;Pogliana
+Pogny|FR||9k|3rq|cg|7
+Poggiana|IT||9o|3j0|x0|6
+Pogorzela|PL|Opole Voivodeship|a5|3x3|1cl|6
+Poggio Terzarmata|IT||9o|3jh|11k|6
+Poggio Catino|IT||9o|39h|za|6
+Poggiridenti Alto|IT||9o|3k9|rl|6|Poggiridenti
+Poggio Favaro-San Bernardo|IT||9o|3fa|p8|6
+Pogorzel|PL||a5|40r|1nz|6
+Poljane|HR||a6|3hw|13n|5|Pogliane
+Poggio Sannita|IT||9o|382|141|5

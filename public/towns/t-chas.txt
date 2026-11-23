@@ -1,0 +1,60 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chas|IN||6t|1to|6nd|13c
+Khasavyurt|RU||9i|3c5|3lf|z8|Khasavjurt;Xasavyurt;Hasavjurt;Chassawjurt;Chassaw-Jurt
+Haskovo|BG||9v|38h|1z0|hy|Chaskovas;Chaskowo
+Khashm al Qirbah|SD||r|15l|2rs|bx|Hašm el Kirba;Khashm El Girba;Chaszm al-Kirba;Khashim al Qirba;Khasha al Qirbah;Khash al Qirbah;Khasm el Gerba;Khasm el Qirba;Kashm el Girba
+Chascomús|AR||1l|-2qu|-4h5|b3|Chaskomus
+Chaska|US||2f|3gf|-780|70
+Khashuri|GE||7n|38o|3d4|6n|Khachuri;Jashuri;Khachouri;Chasjoeri;Chašuri;Hašuri;Khašuri;Chašuris;Haxuri;Chaszuri;Chasjuri;Chaschuri
+Khasab|OM||72|20q|4c9|4z|al-Chasab;Chasab;Chasabas;Hasab;Xasab;Al Khasal
+Chasŏng|KP||7a|376|9rs|3j|Tscha-söng
+Chasiv Yar|UA||98|3qz|2x3|3f|Chasov Yar
+Chassieu|FR||9k|3j3|dt|2m
+Chasetown|GB||9b|42b|-5d|2i
+Chazuta|PE||3o|-i9|-5vi|28|Chasuta
+Chashniki|BY||9g|48d|291|24|Čašniki
+Chastre-Villeroux-Blanmont|BE||8t|3wl|cw|1q
+Chasse-sur-Rhône|FR||9k|3im|dd|1g|Chasse sobre Rodano
+Chastyye|RU||7z|4f5|48p|1d|Tsjastye
+Chasseneuil-du-Poitou|FR||9k|3ll|11|17
+Chashnikovo|RU||9i|4bn|2v9|x|Tsjasjnikovo
+Chasseneuil-sur-Bonnieure|FR||9k|3ja|19|w|Chassanuelh
+Châteaugay|FR||9k|3jd|8k|v|Chasteugai
+Chase River|CA||5b|3sh|-9k8|t
+Čaška|MK||9u|37p|1o6|t|Chaska
+Chasselay|FR||9k|3jf|d9|r
+Chase|CA||5b|3x6|-98h|p
+Châteauponsac|FR||9k|3k5|3j|o|Chastel;Chastelponçac
+Chase City|US||48|2u8|-61y|n
+Châteauneuf-du-Rhône|FR||9k|3fl|d4|n|Chastelnòu de Ròse;Chastelnòu del Ròse
+Châteaumeillant|FR||9k|3lc|64|l|Chastèlmelhan
+Châlus|FR||9k|3it|2q|j|Chasluç;Caluca
+Châteauneuf-la-Forêt|FR||9k|3iz|4h|h|Chasteunuòu;Chasteu Nuòu
+Chīshīn|IR||7o|2oj|3qv|e|Cheshīn;Chashīn
+La Bégude-de-Mazenc|FR||9k|3fq|dp|d|Chastelnòu de Masenc;La Beguda de Masenc;Bégude-de-Mazenc
+Cheshmīdar|IR||7o|2pp|3la|d|Chashmīdar;Chashmīdor
+Chasné-sur-Illet|FR||9k|3q0|-4c|c|Kadeneg
+Chassagny|FR||9k|3ip|d5|b
+Chassors|FR||9k|3iy|-l|b
+Chassiers|FR||9k|3fr|by|a
+Châteauroux-les-Alpes|FR||9k|3fx|i4|a|Chasteu-ros;Chasteurós;Châteauroux
+Chase|US||48|36o|-5v0|a
+Chassenon|FR||9k|3jd|24|9|Chassanom
+Chassenard|FR||9k|3l0|b2|9
+Chaslivtsi|UA||98|3qu|1pz|8|Chaslovtsy
+Chassemy|FR||9k|3t6|9r|8
+Châteldon|FR||9k|3jq|9s|8|Chasteladon
+Chastrès|BE||8t|3vn|cd|8
+Château-Chervix|FR||9k|3ip|3r|7|Chasteuchervic;Chasteu Chervic
+Chāsht Khowreh|IR||7o|2nq|3q3|7|Chāshtkhūreh;Chāshtkhoreh;Chāshtkhvoreh;Chāsht Khvoreh
+Pedinó|GR|Central Macedonia|8p|35n|1rj|7|Chasan Ompasi;Pedhinón
+Chastel-Nouvel|FR||9k|3fs|9q|7
+Chasseneuil|FR||9k|3ll|46|6
+Chaspinhac|FR||9k|3h9|ay|6
+Chassigny-sous-Dun|FR||9k|3kg|bx|6
+Chaspuzac|FR||9k|3h7|af|5
+Chassignolles|FR||9k|3la|5e|5|Chassignoles
+Chassal|FR||9k|3ks|g2|5
+Chasnais|FR||9k|3l2|-3f|5
+Châteauneuf-de-Randon|FR||9k|3g0|a8|5|Chastèlnòu de Randon
+Chasteaux|FR||9k|3h9|43|5

@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lu|IT||9o|3h0|nl|9
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Dalian|CN||7i|303|9ds|1lho|Lüda;Luta;Lü-ta
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Los Angeles|US||3p|2ml|-94g|thd|L.A.;Los-Anĝeleso;Angelopolis;Los Andželas;Los Anxhelos;Los Anxheles;Os Ánxeles;Losandželosa;Los Anjélés;Lo̍k-chhám-kî;Los-Anceles;Los-Anjeles;Luos Andžels;Los Andželes
+Lüliang|CN||7i|2w8|8kq|ptl
+Quezon City|PH||71|14p|9c9|nsr|Quezon;Kezonurbo;Lungsod Quezon;Quezon-Stadt;Ciudad Quezon
+Luanda|AO||x|-ok|10r|lf6|Loanda;Luand;Lwanda;Luando;Louanda
+Lucknow|IN||6t|22k|68s|j2o|Laknaŭo;Lakhnau;Laknau;Luknow;Laknava
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Lubumbashi|CD||y|-we|24c|h57|Élisabethville;Elizabethstad;Lubumbašis;Lubumbaši;Lumumbashi;Elizabethville
+Lusaka|ZM||z|-16t|26l|h2j|Lusako;Lusaca;Louzaka;Lusak
+Paris|FR||9k|3rp|6j|gi2|Lutèce;Ville-Lumière;Parizo;Parys;Paříž;Baris;Pariis;Pariisi;Páras;Párizs;Parigi;Paräis;Paries;Paryžius;Parīze;Parijs;Paryż;Pariggi;Pari;Paname;Pantruche;Paarys;Pa-ri;Parij;Parixe;Palika;Parighji;Baariis;Lutetia;Parigge;Bahliz;Pariižu
+Davao|PH||71|jn|9ox|e9l|Lungsod ng Dabaw
+Lu’an|CN||7i|2g6|8zo|cor|Liu-an
+Ludhiana|IN||6t|2dv|5up|chp|Ludhijana;Ludijana
+Manila|PH||71|14k|9c2|ccg|Manilo;Manille;Manilla;Maynila;Menila;Manyl;Manillah;Mainile;Lungsod ng Maynila
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Munich|DE||8r|3pq|w6|bm2|Muenchen;München;Minhen;Munic;Mnichov;Munkeno;Monaco di Baviera;Munîh;Monachium;Miunchenas;Minhene;Monaco e Baviera;Munique;Monacum;Lungsod ng München;Myunxén;Minga;Mynihu;Munike;Monacu di Baviera;Munhen;Mnichow;Munix;Minche;Mònacu;Münegh;Monaco de Baviera;Minca
+Kuala Lumpur|MY||6v|8q|7uh|b7w|Kualalumpūra;Kvala Lumpūras;Kuala-Lumpuro;Gizlungzpoh;Kouala Loumpou;Kuala-Lumpur;Kuala Lumpor
+Luoyang|CN|Henan|7i|2ob|8oc|aqa|Lạc Dương;Luo-jang;Luojangas;Lŭojango;Lŏk-iòng;Lojang;Lo̍k-iông-chhī;Lo-yang
+Liupanshui|CN||7i|21v|837|a6w|Lĕ̤k-buàng-cūi;Liou-pchan-šuej;Lục Bàn Thủy
+Luohe|CN||7i|2l9|8sr|9zq|Ták-ò̤;Luo-che;Tháp Hà;Lúi-hô-chhī;T’a-ho;Lo-he
+Luohu District|CN||7i|1qn|8t1|8tq
+Longyan|CN||7i|1xn|912|7wr|Lṳ̀ng-ngàng;Lung-jen;Liùng-ngâm-sṳ;Longyen shehiri;Long Nham;Lêng-nâ-chhī;Lung-yen
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Luzhou|CN||7i|289|84v|7ph|Lutsjou;Lu-čou;Lô Châu;Lù-ciŭ;Lô͘-chiu-chhī;Lu-chou
+São Luís|BR||2w|-71|-3f2|72s|San Luisas;Saun Luís;Maranham;San Luis;Maranhão;São Luiz
+San Luis Potosí|MX|San Luis Potosí|44|1pj|-7sh|5ks|San-Luis-Potosi
+Oklahoma City|US||2f|2qj|-7iw|597|Oklahomaurbo;Kota Oklahoma;Oklahoma Sitis;Maxepónoe;Oklahoma Ceety;Oklaxoma Shehiri;Lungsod ng Oklahoma;Oklahomasitija;Dinas Oklahoma;Oklahoma llaqta;Cathair Oklahoma;Oklahoma Siti;Oklahoma Sitės;Caayr Oklahoma;Kutha Oklahoma;Okla city;Oklahoma Shehri
+Athens|GR||8p|2xi|1tx|54g|Athínai;Athenae;Atenas;Ateno;Atenoj;Athen;Afina;Aten;Atina;Atenes;Athény;Ateena;Athènes;Atene;An Aithin;Atena;Athena;Athina;Atėnai;Athene;Ateny;Ateni;Lungsod ng Athína;Kota Athena;Afini;Athinia;Athenai
+Łódź|PL||a5|3zt|1i3|4xr|Litzmannstadt;Luc;Łůdź;Lò-tsṳ
+Louisville|US|Kentucky|3k|2y9|-6m8|4tg|Ludovicopolis;Lūivila;Luisvilis;Luisvill
+Lubango|AO||x|-15g|11h|4mw|Sá da Bandeira;Lubangas
+Luancheng|CN||7i|2x8|8uh|4lv|Luan’chen
+Tucson|US||4i|2hi|-8k5|46q|Tuksonas;Tūsona;Takson;Tuson;Tugson;Tuison;Lucson;Teuson;Fucson;Tuczon
+Lyon|FR||9k|3j3|dh|40o|León do Roine;Lió;Liono;Lión;Lione;Lugdunum;Liona;Lionas;Lioni;Liyon;Liun
+Kansas City|US|Missouri|2f|30m|-7aq|3o2|Kansasurbo;Kota Kansas;Kanzas Shehiri;Ìlú Kansas;Dinas Kansas;Lungsod ng Kansas;Kansas Lakanbalen;Kanzas Sitis;Kanzassitija;Kanzas Siti;Caasimada Kansas

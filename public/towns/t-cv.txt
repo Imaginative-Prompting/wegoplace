@@ -1,0 +1,12 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zwickau|DE||8r|3wx|yp|rg|Cygnea;Šwikawa;Cvikau;Cvikava
+Zwönitz|DE||8r|3wn|zl|37|Cvēnica
+Zwenkau|DE||8r|3ya|y9|2h|Cvenkava
+Cvikov|CZ||9m|3x2|14n|19
+Tsvitkove|UA|Cherkasy|98|3sj|2fl|c|Zwitkowe;Cvitkove;Cwitkowe;Țvitkove
+Jvari|GE||7n|3ao|38t|b|Dschwari;Džvaris;Džvari;Dzsvari;Dźwari;Cvari;Dzhvari
+Cven|SI||9a|3lb|192|6
+Cvetovo|MK||9u|38a|1nh|6
+Cvrčovice|CZ|Central Bohemia|9m|3ve|13b|6
+Cvrčovice|CZ|South Moravian|9m|3s3|19v|6
+Cvetković|HR||a6|3it|17h|5

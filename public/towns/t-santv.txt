@@ -1,0 +1,17 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+San Vicent del Raspeig|ES||9d|2yo|-1h|fr|San Vicente del Raspeig;Sant Vicent del Raspeig;San Vicente;Sanvi
+Sant Vicenç dels Horts|ES||9d|36z|5l|7r
+Sant Vicenç de Castellet|ES||9d|37r|57|29|San Vicente de Castellet
+Saint-Victoret|FR||9k|3cm|ej|1z|Sant Vitoret;Sant Victoret
+Sant Vicenç de Montalt|ES||9d|37i|6z|1o|San Vicente de Mont-Alt
+Saint-Brandan|FR||9k|3qf|-7z|m|Sant-Vedan
+Saint-Vincent-des-Landes|FR||9k|3oe|-46|e|Sant-Visant-al-Lann
+Saint-Martin-sur-Oust|FR||9k|3on|-69|e|Sant-Varzhin-an-Oud
+Saint-Vincent-sur-Oust|FR||9k|3oi|-5z|c|Sant-Visant-an-Oust;Sant-Visant-an-Oud
+San Vito al Torre|IT||9o|3ji|116|b|Sant Vît de Tor;San Vit de Tor
+San Vito di Fagagna|IT||9o|3k1|10b|a|Sant Vît di Feagne;San Vit di Feagne
+Saint-Nic|FR||9k|3pw|-bw|7|Sant-Vig
+Saint-Victor-Malescours|FR||9k|3ht|bz|7|Sant Victor de Malascorts
+Saint-Vran|FR||9k|3q0|-6s|7|Sant-Vran
+Saint-Vincent-de-Barrès|FR||9k|3g2|d3|6|Sant Vincenç de Barrés;Sant Vincent de Barrès
+Saint-Mayeux|FR||9k|3q2|-8d|5|Sant-Vaeg

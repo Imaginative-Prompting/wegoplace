@@ -1,0 +1,66 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kyzylorda|KZ||7d|3gl|51z|2qk|Qızılorda;Perovsk;Kzyl-Orda;Ak-Mechet;Fort Perovsky;Qysylorda;Qyzylorda;Khizilordà;Kõzõlorda;Kizilorda;Qiziloʻrda
+Petropavl|KZ||5s|48f|5c3|1jt|Petropawl;Pietropawłowsk;Kızılyar;Petropawlowsk
+Kızıltepe|TR||94|2vb|34q|15q|Tell Ermen;Kyzyltepe
+Kisarazu|JP||7q|2qa|asp|11u|Kizarazu;Kisaradu
+Kyzyl|RU||6u|3zn|7ac|wi|Kysyl;Kizil;Kõzõl;Kizila;Këzëlli;Qizil
+Kiselëvsk|RU||74|45z|6oq|sw|Kiselyovsk;Kiseljovsk;Kisseljowsk;Kizelovsk
+Kizugawa|JP||7q|2oi|ahc|ln
+Kizlyar|RU|Dagestan|9i|3dt|3lr|e2|Kisljar;Kizlar;Kizljar;Kizilyar
+Kizhake Chālakudi|IN||6t|sm|5w2|dr
+Kizilyurt|RU||9i|3c0|3m7|9a|Kiziljurt;Kizyl-Yurt
+Kyzyl-Kyya|KG||65|33u|5kd|8w|Kzyl-Kiya;Qizilqiya;Kizyl-Kiya;Kyzyl-Kiya
+Kizhuvalam-Koonthalloor|IN||6t|o2|5xd|8k
+Kizhuparamba|IN||6t|v9|5v6|65
+Kizel|RU||7z|4k1|4g5|62|Kisel;Kizieł
+Kiziba|UG||q|1f|2hv|5x
+Kızılcahamam|TR||94|34f|2ip|50|Kızıcahamam
+Kizhariyūr|IN||6t|vy|5u8|47|Keezhariyur
+Cherven Bryag|BG||9v|3c8|1uw|3m|Kızıl Çay;Qızıl Çay;Cherven-Breg;Cherven-Bryeg;Cherveni Bryag
+Qiziltepa|UZ||7g|337|505|3e|Kyzyltepa;Kızıltepe;Kyzyl Tepe;Kizil-Tepe
+Kizhakkumbāgam|IN||6t|s5|5wc|30
+Kizner|RU||9p|4cb|3z3|2q
+Kızılcaşar|TR||94|32m|2ix|2e
+Kizlyar|RU|North Ossetia–Alania|9i|3de|3fv|2d|Kizljar
+Kizhinga|RU||6k|401|8hb|1t|Kizjinga
+Kislyakovskaya|RU||9i|3l0|327|1j|Kisljakovskaja;Kizlyakovskaya;Kishakovskaya
+Kizhuppillikkara|IN||6t|sw|5vi|1h
+Kizhaba|AZ||61|2z1|3rl|1a|Kijoba;Kijäba
+Kizema|RU||9i|4pr|3gj|10|Kizima
+Kızılcabölük|TR|Denizli|94|2wh|28m|y
+Kızılırmak|TR||94|343|2mf|x
+Kızılören|TR||94|2ya|2br|o
+Akyaka|TR||94|356|3d5|k|Kızılçakçak
+Kızılcasöğüt|TR||94|2zd|2af|k
+Kızılkaya|TR||94|2vm|2ck|j
+Kizomys|UA||98|3lc|2hv|i|Kozomys;Kizomis
+Kızkalesi|TR||94|2ta|2mu|h|Corycus;Korykos
+Kızıklı|TR||94|31q|233|h
+Kızılca|TR|Denizli|94|2w5|28y|g
+Kızılkaş|TR||94|2v3|2qi|f
+Kızılsu|TR||94|2w1|398|f
+Kızılağaç|TR||94|2u1|2fl|e
+Yalçınkaya|TR||94|30u|3b1|e|Kızılkaya
+Kızıllı|TR||94|2v3|2db|e
+Kızılay|TR||94|32w|2j9|d
+Krasnokamyanka|UA|Crimea|9t|3gs|2pg|c|Krasnokamianka;Qızıltaş;Kiziltash;Feodosiya-13;Feodosia-13;Kyzyltash
+Kızılcaşehir|TR||94|2tl|2h5|b
+Kızılca|TR|Niğde Province|94|2x4|2nf|b
+Kızıkhamurkesen|TR||94|2vi|2vs|a
+Kızılcaköy|TR||94|2xg|263|a
+Gyzylgaýa|TM||5x|34u|4a3|a|Kızılkaya;Kizyl-Kaya
+Kızılaliler|TR||94|2s6|2j1|9
+Kızık|TR|Ankara|94|346|2i3|9
+Kizlivka|UA||98|3vm|2jg|8|Kizlevka;Kizlovka;Kizilovka
+Kızılbel|TR||94|36z|2hi|8
+Kızılca|TR|Amasya|94|34k|2rc|8
+Kızık|TR|Afyonkarahisar Province|94|2z0|2c4|8|Kızıl
+Kızılca|TR|Aydın|94|2wo|276|7
+Kizilovoye|UA||9t|3gi|2mk|7
+Kızılin|TR||94|2vz|2xx|7
+Kizirli|TR||94|2wa|2w4|7
+Kızılcabölük|TR|Aydın|94|2wd|24v|6
+Kızıldere|TR||94|2un|2r4|6
+Kızseki|TR||94|356|2rx|6
+Kızılkışlacık|TR||94|358|2rw|5
+Kızıldam|TR||94|2w9|2qk|5

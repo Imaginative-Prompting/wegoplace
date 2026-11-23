@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+El Jadida|MA||d|2ke|-nn|1n5|Mazagão;El-Jadida;El-Yadida;Al-Djadida;Al-Džadída;Džadida;Mazaghan;Castilho Real;Mazagan;Al Yadida;El Jadid;Al Jadida
+El Jem|TN||1e|2q2|ts|5z|El Djem
+El Jobo|MX|Chiapas|41|1ae|-76n|1a
+Al Jīb|PS||6g|2gh|2pq|19|El Jīb
+El Jícaro|GT||32|15f|-6xq|16|Jicaro
+Elyakhin|IL||6n|2i1|2p0|13|Eljachin
+El Jebel|US||2p|31f|-89h|12|Dził
+Al Jafr|JO||5t|2c8|2si|10|El Jafr
+El Jiadi|MX||41|1k9|-7mt|n
+El Jabalí|MX|San Luis Potosí|41|1os|-7px|k|Jabalí
+El Jobo|MX|Veracruz|41|1jm|-7hw|j
+El Jacal|MX||41|1hx|-7q1|j
+El Jicote|MX||3x|1od|-83u|j
+El Jaral|MX|Querétaro|41|1kp|-7r2|i|El Jaray
+El Jazmín|MX|Querétaro|41|1ki|-7px|h
+El Jardín|MX|Chiapas|41|1bp|-758|g|Jardín
+El Jaguey|MX|Guanajuato|41|1m3|-7ub|g
+El Jicaral|NI||3s|zd|-6ny|e|Jicaral;La Jicaral
+El Jagüey|MX|Hidalgo|41|1k8|-7op|d|Jaguey
+El Juncal|HN||56|172|-6o3|d|Juncal
+El Juile|MX||41|1da|-7bv|c
+Al Jāniyah|PS||6g|2gq|2pk|b|El Jāniya;Al Janiya;Jāniyah
+Eljas|ES||9d|33q|-j1|b|As Ellas;Elijas
+El Jicaral|MX||41|1bl|-7ks|b
+El Jaralito|MX|San Luis Potosí|41|1p8|-7s2|b|Jaralito
+El Jazmín|MX|Jalisco|41|1il|-803|b
+El Jaralito|MX|San Luis Potosí|41|1po|-7sp|8
+El Jagüey Grande|MX||41|1ll|-7pj|8|El Jagüey;Jagüey Grande
+El Jagüey|MX|Guerrero|41|1cl|-7nf|8
+El Jagüey|MX|Veracruz|41|1dx|-7ap|8
+El Jaral|MX|México|41|1i8|-7or|8|Tierra Montón
+El Jardín|MX|Chiapas|41|1b5|-729|7
+Elyashiv|IL||6n|2hy|2oz|7|Eljašiv;Eliashiv;Elyaşiv
+El Jabalí|MX|San Luis Potosí|41|1ot|-7no|6
+El Jobo|MX|Veracruz|41|1h5|-7go|6|Jobo Viejo
+El Jobo Aquiche|MX||41|1nf|-7l2|6
+El Jícaro|MX||41|1fi|-7fd|6|Jícaro
+El Jazmín|MX|Michoacán|41|1ih|-7r6|5|Jazmín
+El Jobo|MX|Veracruz|41|1g1|-7gu|5
+El Jericó|MX||41|1kj|-7k8|5

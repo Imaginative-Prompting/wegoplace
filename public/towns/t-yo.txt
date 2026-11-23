@@ -1,0 +1,301 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Johannesburg|ZA||o|-20s|25w|20o6|Johanesburgo;Jóhannesarborg;Joanesburgo;Jo'anna;Johanesburgas;Yohannésburg;EGoli;IGoli;Xohanesburgo;Johannesbourg;Yohannesburq;Ioannesburgum;Yok-hon-nì-sṳ̂-páu;Yoxannesburg
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Yokohama|JP|Kanagawa|7q|2qf|arx|t5b|Jokohama;Jokohamo
+Wenzhou|CN||7i|25s|9b7|kg4|Wen-čou;Venĝou;Wénju shehiri;Wentsjou;Vûn-chû-sṳ;Ôn Châu;Un-chiu-chhī;Ŭng-ciŭ;Vencsou;Vendžou;Yongjia;Wen-chou
+Yangjiang|CN||7i|1oq|8n0|9z6|Iòng-gŏng;Jang-ťiang;Yòng-kông-sṳ;Dương Giang;Iông-kang-chhī;Yang-chiang
+Yulin|CN|Guangxi|7i|1qv|8hz|85j|Ngṳ̆k-lìng;Jü-lin;Ngiu̍k-lìm-sṳ;Ngọc Lâm;Yoglinz;Gio̍k-lîm-chhī
+Yongzhou|CN||7i|21e|8m1|7vj|Lingling;Langlin;Yung-chou
+Naberezhnyye Chelny|RU||9i|4au|41m|3xn|Brezhnev;Nabereschnyje Tschelny;Naberezhnye Chelny;Naberežnyje Čelny;Nabereĵnije Ĉelni;Naberežnõje Tšelnõ;Naberežnyje Tšelny;Naberežnije Čelni;Naberežnye Čelny;Naberezjnye Tsjelny;Naberejnye Chelny;Yar Çallı;Yorcholli
+Yola|NG||u|pl|yo|3js
+Yongji|CN||7i|2ov|8is|3hk
+Yokosuka|JP||7q|2q0|arz|35r|Jokosuka
+Yogyakarta|ID||6l|-lo|8ik|2wd|Jogjakarta;Jogjakarto;Džogjakarta;Djokjakarta;Jogyakarta;Jokyakarta;Djogjakarta;Jokjakarta
+Yokkaichi|JP|Mie|7q|2p5|aji|2cu|Jokkaichi;Yokkaitsi;Yokkaiti-chhī;Yokkaiti
+Yeosu|KR||7h|2ok|9um|22o|Josu;Yŏsu
+Yoshkar-Ola|RU||9i|4dc|3p1|22j|Joschkar-Ola;Joszkar-Oła;Iochkar-Ola;Joškar-Ola;Josjkar-Ola;Ioshkar Ola
+Yongkang|TW||7l|1ry|9a2|1sx|Yún-không-khî;Vĩnh Khang;Éng-khong-khu;Yung-k’ang
+Yonkers|US||48|35p|-5pa|1jv|Jonkersas;Yonckers
+Yongchuan|CN||7i|29j|865|1hm|Yung-ch’uan;Yungchwan;Yongchang
+East New York|US||48|34z|-5p8|1c4
+Yopal|CO||27|eu|-5l3|1as|Jopalis;Juopalės
+York|GB||9b|45w|-30|17d|Efrog;Jorko;Eboracum;Évèroui;Jórvík;Jorkas;Jorka;Eoforwic;Evrek;Eabhraig;Eabhrac
+Yonago|JP||7q|2qf|aad|15b|Jonagas;Jonago
+Yong’an|CN|Chongqing|7i|2e6|8g2|143|Kweichow;Fengjie;Feng-Chieh;K’uei-chou;Fengkieh;Kwei-chow-fu;Feng-chien
+Youkaichi|JP||7q|2pk|aic|vc|Yōkaichi-shi;Yokkaichi;Yōkaichichō
+Yeoju|KR||7h|2vm|9uj|v3|Yŏju
+Yono|JP|Saitama|7q|2ro|arv|sg
+Yotsukaidō|JP||7q|2r1|atd|qh
+Yonezawa|JP||7q|2xb|at8|q9|Yonesawa
+Yoff|SN||g|14z|-1cl|ou|Yof
+Yozgat|TR||94|32m|2oo|of|Yozqat;Jozgatas;Yozgad;Yuzgat
+Santa Fe|US|New Mexico|2p|2r5|-86a|ob|Yootó;Sanctae Fidei fanum;Santafē;Yoo'to
+Yokote|JP||7q|318|auf|ns|Jokote
+Yeongju|KR||7h|2ua|9xb|ni|Yŏngju
+Youhao|CN||7i|3ox|9xw|ls|Yu-hao
+Joensuu|FI||92|4tw|2ao|ls|Joensū;Ostia Carelorum;Jogensu;Jovensuu;Yoensu
+Yotsuya|JP||7q|2r5|as4|ks
+Youssoufia|MA||d|2hl|-np|ki
+Yoshikawa|JP||7q|2rp|asg|kd
+Yongfeng|CN||7i|249|8nl|jo|Yung-feng
+Yokota|JP||7q|2rb|ar6|jc
+Yorba Linda|US||3p|2m5|-939|iw|Jorbalinda;Jorba Linda
+Youngstown|US|Ohio|48|366|-681|hy|Jangstauna;Youngs Town
+Youxi|CN||7i|295|86u|hm
+Yongning|CN|Guangxi|7i|1r8|8dc|h5|Yung-ning
+Yongbei|CN||7i|221|7ry|gp
+Yongqing|CN||7i|2oj|86t|fg
+Yongjian|CN||7i|1yn|7qd|f0
+Yousuo|CN||7i|20b|7pz|es
+Yokkaichi|JP|Oita|7q|2l6|a4t|eo
+Yeonggwang|KR||7h|2q0|9rf|ed|Yŏnggwang
+Yongxin|CN||7i|28h|87x|dw
+Yŏch’im-dong|KP||7a|344|9ru|d7|Yeochimdong
+Youting|CN||7i|29r|85q|cc
+York|US|Pennsylvania|48|330|-5x5|c8|Yarrick
+Yeongdong|KR||7h|2sh|9uy|c5|Yŏng-dong
+Yomitan|JP||7q|21c|9uv|bg
+Yesan|KR||7h|2tw|9sc|ay|Jesan;Yŏsan
+Yoshinogawa|JP||7q|2mk|ad1|as
+Pivdennoukrainsk|UA||98|3ov|2em|aq|Youjno'oukraïnsk;Yuzhnoukrainsk;Juschnoukrajinsk;Južnoukrajinsk;Pivdenoukrajinsk;Piwdennoukrajinsk;Pivdennoukraiinsk
+Yŏnsa-ŭp|KP||7a|38f|9yd|aj
+Yolöten|TM||5x|2vm|4t8|ah|Yolotan
+Yongjing|TW||7l|1ug|9av|9u
+Yeonil|KR||7h|2s0|9z8|9m|Yŏnil
+Yokadouma|CM||j|9s|15t|95|Youkadouma
+Yorii|JP|Saitama|7q|2sc|aqn|95
+Pivdenne|UA|Odesa|98|3li|2ee|93|Youjné;Yuzhne;Južne;Juschne;Piwdenne;Pivdene
+Yōkaichiba|JP||7q|2r6|auf|93
+Yongxing|CN|Chongqing|7i|28j|86y|91
+Youri Kourtéré|NE||18|111|69|8s
+Yoshioka|JP||7q|2ys|avc|80
+York University Heights|CA||59|3dl|-64t|7o
+Yong Peng|MY||6v|5l|7yb|7j|Sri Bertam;Yǒngpíng
+Jonava|LT||a3|490|1vg|7c|Juonava;Yonawa;Yonava;Ionava
+Yong’an|CN|Chongqing|7i|2cb|8an|7c
+Yoshii|JP||7q|2sp|aq2|75
+Yoshida-kasugachō|JP||7q|2wo|aps|73
+Neietsu|KR||7h|2va|9wv|72|Yŏngwŏl
+Yŏnmu|KR||7h|2sd|9t2|6y
+Yoqne‘am ‘Illit|IL||6n|2ip|2ph|6x|Yokne‘am ‘Illit;Yokneam Illit;Jokneam Illit;Yoqne'am Illit
+Yoyogi|JP||7q|2r4|as1|6p
+Yŏnan-ŭp|KP||7a|2xb|9qg|6b
+Yongle|CN||7i|2e5|8g6|68
+Yongjia|CN||7i|2a5|86g|68
+Yongxing|CN|Gansu|7i|2n1|84l|65
+Yokoshiba|JP||7q|2r1|au8|65
+Yŏnggwang-ŭp|KP||7a|336|9u1|63
+Yongning|CN|Yunnan|7i|25b|7rn|5t|Yung-ning
+Yotsutsuji|JP||7q|2qp|afa|5l
+Yorito|HN||56|15v|-6qg|5i
+Yomra|TR||94|35r|32q|5i
+Yonabaru|JP||7q|20s|9uv|5h|Yunabaru;Yonahara
+Yoichi|JP||7q|3c0|av1|5a
+Yorkville|US|Illinois|2f|37o|-6tp|55
+Yongping|CN|Gansu|7i|2n9|84f|53
+Yono|JP|Osaka|7q|2p0|age|53
+Youchou|CN||7i|28g|8f6|4y
+Yongcheng|CN||7i|28m|88q|4w
+Yondó|CO||27|jh|-5pb|4w
+Yovon|TJ||6d|2yf|5bs|4v|Yovan
+Yorosso|ML||5|yc|-da|4u
+Young|UY||45|-2iu|-4g3|4o|Jangas;Janga
+Yorkton|CA||4q|3ya|-7wn|4j|Jorktonas;Jorktona
+Yōga|JP||7q|2qz|arw|4e
+Yoro|HN||56|162|-6q1|4e
+Yongxi|CN|Chongqing|7i|2am|86e|48
+Yorkdale-Glen Park|CA||59|3df|-64q|44
+Yongrong|CN||7i|29i|85i|3z
+Yongcong|CN||7i|20c|8f5|3t
+Ryonggang-ŭp|KP||7a|2zy|9oe|3q|Yonggang-ŭp
+York Beach|US||48|3bx|-5g5|3l
+Yokine|AU||8k|-2gm|8xt|3j
+Yongsan-dong|KR||7h|2wa|9sq|3i
+Yonge-St.Clair|CA||59|3dd|-64k|3h
+Yocón|HN||56|15q|-6ou|3e
+Yol Cantonment|IN||6t|2he|5w6|3c
+Youngsville|US|Louisiana|2f|2bm|-73j|3c
+Yonge-Eglinton|CA||59|3de|-64k|3a
+Yol|IN||6t|2hc|5vo|35
+Yorktown|US|Indiana|38|33l|-6lh|34
+Joniškis|LT||a3|4c8|1tm|33|Janiszki;Jonišķi;Yonishkis;Jonischki;Yanishki;Ionishkis;Joniškio
+Yongping|CN|Chongqing|7i|2br|8af|2v
+Young|AU||8l|-2nb|bfy|2u
+Yongning|CN|Gansu|7i|2m0|86z|2s
+Yŏngbyŏn|KP||7a|32l|9pg|2o
+Yŏmju|KP||7a|32t|9m4|2m|Yeomju
+Yoshino-chō|JP||7q|2nk|ahe|2g
+Yokokawa|JP||7q|2r6|ase|2f
+Yomou|GN||f|l1|-pq|2f
+Yongning|CN|Fujian|7i|1wk|95p|2d|Yung-ning
+Yotoco|CO||27|aq|-5w6|2c
+York|US|South Carolina|48|2p7|-69o|28
+Yokoze|JP||7q|2ry|aqd|28
+Youghal|IE||8z|40b|-lt|28|Eochaill;Yoal;Joulas;Iogalia
+Youkounkoun|GN||f|yt|-10g|28
+York|US|Nebraska|2f|35j|-7j3|27
+Yongdong|CN||7i|27h|8f4|24
+Yorkshire|US|Virginia|48|2zr|-5z5|23
+Yoshitomi|JP||7q|2lc|a4e|1x
+Youngtown|US||4i|2lb|-8ny|1u|Youngstown
+Yorketown|US||48|33z|-5qi|1t
+Yokoboué|CI||0|en|-e7|1t|Yocoboué
+Yona Village|GU||aw|119|b66|1t|Yo’ ña;Yo`na
+Jõgeva|EE||9x|4j7|21b|1s|Jegeva;Yıgeva;Yogeva;Yygeva
+Yolombó|CO||27|ic|-5sd|1o
+Yoakum|US||2f|29d|-7hv|1o
+Yakoruda|BG||9v|38r|1ts|1o|Jokoruda;Yokoruda;Jakoruda
+Yoshino|JP||7q|2kk|a9t|1o
+Yonedacho Sendo|JP||7q|2om|aej|1o
+Yougu|PK||6q|2pq|5vk|1o|Yugu
+Yorodougou|CI||0|lm|-lw|1o|Diorodougou
+Yorktown|US|Pennsylvania|48|331|-5sr|1n
+Yorobodi|CI||0|mk|-a8|1m|Yoroboudi;Yérébodi
+Yomala|AX||9f|4n5|1jd|1m
+Yolbaşı|TR|Mardin|94|2vv|36s|1i
+Yoko|CM||j|fd|y8|1h|Joko
+Yopohua|CI||0|hs|-g7|1g|Yopahua
+Yosemite Lakes|US||3p|2vb|-98p|1e
+Yokose|JP||7q|2m9|adk|1c
+Ostrovnoy|RU||9i|591|31r|1b|Iokanga;Ostrovnoj;Ostrovnoi;Ostrownoj;Osztrovnoj;Ostrovnojus;Yukansk;Yukanski;Iokanka;Yokan’ga
+Youndouo|CI||0|oj|-88|1b
+Yorii|JP|Tokushima|7q|2md|ad7|1a
+Youorédoula|CI||0|kc|-in|18|Yaourédoula
+Yokohama|JP|Aomori|7q|364|awd|18
+Youngstown|US|Florida|2f|2cc|-6lc|17
+Alei Zahav|PS||6n|2h3|2pe|17|Yo’ezer
+Yolmeh Sālīān|IR||7o|2va|481|15|Yolmeh Sālīyān;Yulmeh Sālīān
+Youngtown|AU||8g|-378|bct|13
+Youhoulil|CI||0|f2|-ch|13|Youboulil
+York|CA||2s|44w|-8r3|12
+Yogonon|CI||0|lb|-hv|11
+Yoshib|MX||41|1at|-74t|11
+Yokoréa II|CI||0|im|-ih|11|Yokoria II
+Yonibana|SL||l|ng|-y0|10
+Yoloxóchitl|MX||41|1aq|-7m5|w|Yoloxóchil
+Yokuts Valley|US||3p|2u2|-979|w
+Yoboki|DJ||i|vz|38z|v
+York Harbor|US||48|3bu|-5g9|u|York Harbour
+Yountville|US||3p|2yo|-9fw|u
+Yobouessou|CI||0|j9|-b9|u
+Yowie Bay|AU||8l|-2ml|bnq|u
+Youngwood|US||48|33s|-652|u
+Superior|US|Arizona|4i|2kh|-8km|t|Yoołgai
+Yoya|CI||0|ia|-mc|t
+Yorkeys Knob|AU||8c|-1ao|b8s|t
+Tototepec|MX||41|1cf|-7lv|s|Yozononi
+Yook|PH||71|10r|9es|s|Yooc
+Yomidji|CI||0|fe|-cl|s
+Yomogita|JP||7q|35u|aup|r
+Yorkville|US|New York|48|3br|-5t3|q
+Yolağzı|TR||94|2w8|36v|q
+Yaouda|CI||0|i1|-ff|p|Yoouda
+Yolotepec|MX||41|1kn|-7n8|p
+York|AU||8k|-2gl|90d|p|Jorko
+York|US|Alabama|2f|2i9|-6ta|o
+Youwasso|CI||0|d2|-jd|n
+Yonango|CI||0|ko|-8i|n
+Yoho|CI||0|j8|-fi|n
+Yotholin|MX||3z|1kh|-6wh|n
+Yordaneshty|UA||98|3pm|1zp|n|Iordănești;Ardănești;Iordaneshte
+Youampleu|CI||0|iw|-n0|m
+Yuryivka|UA|Dnipropetrovsk|98|3re|2s2|m|Yourïvka
+Yorktown|US|Texas|2f|28i|-7iu|l
+Yoleu|CI||0|k0|-mq|l
+Youkou|CI||0|en|-kb|k
+Youngstown|US|New York|48|3c5|-63l|j
+Yorklyn|US||48|333|-5wx|j
+Yo Creek|BZ||24|1e9|-6u9|j
+Yomian Kouadiokro|CI||0|lr|-ec|j|Yomien Kouadiokro
+Yurkivtsi|UA||98|3qq|201|i|Iurcăuți;Yourkivtsi
+Yobain|MX||3z|1mz|-6vj|i
+Yorktown Heights|US||48|36n|-5oy|i
+Yobouéagui|CI||0|eq|-ih|h
+Youngsville|US|Pennsylvania|48|35a|-5to|h
+Yonakuni|JP||7q|1vz|9ho|h|Yonaguni
+Youngsville|US|Pennsylvania|48|389|-64c|h
+Yosypivka|UA|Kirovohrad|98|3qc|2bx|g|Iosipovka;Yuzefivka;Yuzefovka
+Yoxall|GB||9b|42l|-4z|g
+Young America (historical)|US||2f|3ge|-78v|f
+Youngs Crossing|CA||43|3jp|-550|f
+Youguzhuang|CN||7i|32v|91p|f
+Yosypivka|UA|Odesa|98|3kx|2ck|e
+Yomya|CI||0|lq|-85|e
+Yoqneam|IL||6n|2ip|2pj|e|Yokneam
+Yodolo|CI||0|oq|-bs|e|Yondolo
+Yosphí|MX||41|1k1|-7pn|e
+Yoboué-N'Zué|CI||0|l3|-f8|d
+Young Harris|US||48|2p1|-6gx|d
+Yolmeh Khandān|IR||7o|2uu|47e|d|Yūlmeh Khandān
+Youbou|CA||5b|3rr|-9l0|d
+Yonghe|CN||7i|30k|92c|d
+Yogana|MX||41|19q|-7gv|d
+Yoogali|AU||8l|-2na|b9s|c
+Yomakrou|CI||0|kw|-9s|c
+Youngsville|US|North Carolina|48|2s2|-61z|c
+Yorkshire|US|New York|48|3a5|-61z|c
+Yoman Kouahipla|CI||0|m0|-g2|c|Yomakouaipla
+Yoténéré|CI||0|qj|-99|b
+Yuzhynets|UA||98|3qu|1za|b|Youjynets;Iujineț
+Youyupu|CN||7i|24j|8f6|b|Yu-yü-p’u
+Yoncalla|US||3p|3d4|-9ig|b
+Yopi|MX||41|1j3|-7ii|a
+Yorkville|US|Ohio|48|33j|-687|a
+Youx|FR||9k|3k6|7s|a
+Yosemite Valley|US||3p|2wu|-986|a
+Youlgreave|GB||9b|43p|-4p|a
+Yoe Gwa|MM||7y|1b4|7ek|a|Yogwa
+Yoe|US||48|32v|-5ww|a
+Yotsueda|JP||7q|2gx|a36|a
+Yotta|CI||0|jv|-mq|a
+Yoricostio (La Villita)|MX||41|1hq|-7tp|a
+Yosypivka|UA|Odesa|98|3nh|2a8|9|Yosipovka
+Yorketown|AU||8b|-2pa|am8|9
+Yobouékro|CI||0|i4|-e7|9
+Yongxi|CN|Guizhou|7i|231|8cx|9
+Santo Domingo Yojovi|MX||41|1c2|-7f9|9|Yojovi;Santa Domingo Yojoví
+Yuryivka|UA|Mykolaiv|98|3mn|2j8|8|Yourïvka
+York Springs|US||48|335|-5y8|8
+Yontukyazı|TR||94|2x8|36t|8
+Yoquivo|MX||2g|232|-8aq|8
+Yolindi|TR||94|33i|241|8
+Yosobee|MX||41|1bw|-7jd|8
+Yokdzonot|MX||3z|1lj|-6uh|8
+Yoğunbilek|TR||94|2yz|33n|8
+Yönlü|TR||94|2uq|2ym|8|Yonlyu
+Cumhuriyet|TR|Kars Province|94|34n|3bk|7|Komasor;Yolaçan;Kamasor
+Yoxford|GB||9b|417|47|7
+Yonthe Chico|MX||41|1kp|-7nx|7
+Yotvata|IL||6n|2b2|2pe|7|Jotvata
+Yorkville|CA||2s|3xb|-8sw|7
+Yomipleu|CI||0|il|-nc|7
+Yocwitz|MX||41|1b7|-74n|7
+York Haven|US||48|33f|-5x4|7
+Yok Pokitiok|MX||41|1by|-74s|7
+Young|US||4i|2mq|-8k8|7
+Yolbaşı|TR|Gaziantep|94|2ud|2tt|7
+Yolbulan|TR||94|2y7|323|7|Xidiran
+Yöre|TR||94|2xd|279|7
+Yohaltún|MX||3z|1gt|-6yv|7|Yahaltún
+Yolgeçen|TR||94|375|2hb|6
+San Miguel Yogovana|MX||41|198|-7gf|6|Yogovana
+Yosypivka|UA|Odesa|98|3pg|2b4|6|Yossypivka
+Yolbaşı|TR|Şanlıurfa|94|2uk|31o|6
+Yosypivka|UA|Kirovohrad|98|3q1|2dk|6|Iosipovka
+Yoboua-Allanikro|CI||0|jc|-dg|6
+Yoboué Ndolikro|CI||0|k3|-cz|6|Yéboue Ndolikro;Yeboué-Ndolikro I
+Yorogoué|CI||0|ks|-kj|6
+Yojuela|MX||41|197|-7ft|6
+Yolbilen|TR||94|2v1|36u|6|Erbet;Arbet
+Yohualichan|MX||41|1jq|-7iu|6
+Yoloxóchitl (Santiago Yoloxóchitl)|MX||41|1b9|-7ku|6
+Yolaltı|TR||94|2xa|2zb|6
+York|US|Arizona|4i|2jf|-8fb|6
+Yoloxóchitl 2da. Sección (San Severo)|MX||41|1e7|-771|6
+York Hamlet|US||48|3b3|-60d|5
+Yolboyu|TR||94|2wj|25v|5|Yolboy
+Youngs|AU||8k|-2pa|92g|5
+Yolonan|MX||41|1ar|-75a|5
+Yoldüzü|TR||94|2wf|2xb|5
+Yoldöndü|TR||94|2yn|3aw|5
+Yonah|US||48|2o8|-6gn|5

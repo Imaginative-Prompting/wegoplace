@@ -1,0 +1,63 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Kuala Lumpur|MY||6v|8q|7uh|b7w|Kualalumpūra;Kvala Lumpūras;Kuala-Lumpuro;Gizlungzpoh;Kouala Loumpou;Kuala-Lumpur;Kuala Lumpor
+Gwangju|KR|Gwangju|7h|2pn|9sk|at8|Kwangju;Kwangdžu;Kŭangĵuo;Gouanjou;Quansua;Kvandžu;Kvanju;Kvangdzsu;Kuangju
+Guang’an|CN||7i|2cn|888|6me|Kuang-an
+Kuantan|MY||6v|al|7z1|488|Kôan-tan-sṳ
+Kota Kuala Muda|MY||6v|fj|7qt|47e
+Guangyuan|CN||7i|2i4|85y|3zg|Kuang-jüan;Quảng Nguyên;Guōng-nguòng;Kóng-goân-chhī;Kwangyüan;Kuan-yüan;Kuang-yüan
+Kuala Terengganu|MY||6v|et|7yi|3ah|Kvala Terenganu;Kuala Trengganu
+Kuala Kubu Baharu|MY||6v|9w|7ue|1i0|Kuala Kubu;Kuala Kubu Bharu;Kuala Kubu Baru;Kuala Kubu Bahru
+Guangshui|CN||7i|2fu|8so|170|Kuang-shui;Kwangshui
+Kuala Krai|MY||6v|fd|7vw|t6|Kuala Kerai
+Guanhu|CN||7i|2nn|93s|r5|Kuan-hu
+Kuala Nerus|MY||6v|ex|7y6|pz
+Kuacjok|SS||p|n2|25q|lo|Kuajok;Kwacjok
+Kuandian|CN||7i|355|9mm|jp|K’uan-tien
+Kuala Selangor|MY||6v|9b|7t9|fj
+Guanzhuang|CN|Shandong|7i|2sq|973|e4|Kuan-chuang
+Lomonosov|RU||9i|4mf|2ap|bt|Lomonossow;Lomonossov;Kaarosta;Lomonoszov;Łomonosow;Kuarašta
+Kuala Kangsar|MY||6v|d9|7sd|ax|Kualakangsara;Kuala Kangsa
+Kouango|CF||6|dv|1jg|a6|Kuango
+Kualakapuas|ID||6l|-8d|8tr|9w
+Kuala Tungkal|ID||6l|-2a|7ze|9d|Kualatungkal
+Kuala Belait|BN||66|cq|8tb|8o|Kvala Belaitas;Kwala Belait
+Kuala Kurau|MY||6v|dy|7qz|8n|Kuala Kura
+Kuah|MY||6v|hl|7pc|8e|Kwah;Kuan
+Kuangshi|CN||7i|2xr|8st|7q
+Kuanchuan|CN||7i|2mx|856|7m
+Kuala Penyu|MY||6w|fh|8x4|6q|Kwala Penyu;Kuala Peyu
+Quaraí|BR||4w|-2cf|-4ct|6a|Kuarajus
+Kuang|MY||6v|92|7u3|5w
+Kuala Pilah|MY||6v|7m|7w1|5f
+Kuala Kedah|MY||6v|gy|7qm|5c
+Kuala Ketil|MY||6v|fk|7rl|5c
+Kuala Lipis|MY||6v|bm|7vh|4a
+Kuala Perlis|MY||6v|hs|7q5|3v|Perlis Port
+Kuala Pahang|MY||6v|9t|7ze|3h
+Kuala Sungai Baru|MY||6v|6k|7vg|3f|Kuala Sungai Baharu
+Kola|RU||9i|5bc|2jq|2y|Kuola;Kuâlõk;Guoládat;Cola;Kol
+Kuala Rompin|MY||6v|7u|7zg|2w
+Kampung Kuala Balah|MY||6v|f2|7v4|2u|Kuala Balah
+Guanting|CN||7i|2ly|82d|2t|Kuan-t’ing
+Kuanda|RU||67|4ch|8yh|2o
+Kumārmunda|IN||6t|1py|6ji|2i|Kuānrmunda
+Guanshan|TW||7l|1s1|9ck|2a|Kuan-shan
+Kuala Nerang|MY||6v|he|7rh|26
+Kuala Cenaku|ID||6l|-1b|7x8|1y|Kuala Cenake;Kualatjenaku;Kualacenako;Kualacenaku
+Guantou|CN||7i|20m|984|1m|Kuan-t’ou
+Kampung Kuala Muda|MY||6v|fh|7qq|1a|Kuala Muda
+Kuakini|US||ax|1n8|-c6i|15
+Kuala Klawang|MY||6v|86|7vj|x|Kuala Kelawang
+Kuai’an|CN||7i|20b|97q|u
+Kuala Teriang|MY||6v|ho|7p0|u|Kuala Periang
+Kouakouamékrou|CI||0|k6|-8h|s|Kua-kuamé-krou
+Kampung Kuala Linggi|MY||6v|6n|7v9|r|Kuala Linggi
+Kuala Baram|MY||6w|cr|8sn|q
+Kuala Pegang|MY||6v|fo|7s1|p
+Kuala Besut|MY||6v|g7|7ww|o|Besut
+Kuanos|PH||71|sk|9ju|m|Cuanos
+Kualapu‘u|US||ax|1mr|-c48|k|Kualapuu
+Kuala Geris|MY||6v|ey|7vj|k|Kuala Gris
+Kuala Sanglang|MY||6v|he|7qc|j
+Guangping|CN||7i|22f|8gi|9|Kuang-p’ing;Guanpin

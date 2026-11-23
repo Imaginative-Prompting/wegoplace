@@ -1,0 +1,8 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Riyadh|SA||7e|1wl|3ls|wgc|Riad;Al-Riyad;Rijád;Ar-Riyāḑ;Riyad;Rijadas;Riade;Riadi;Rijāda;Ar-Riyod;Riaad;Rihad;Riadum;Riado;Ar-Riaad;Er-riyad
+Kryvyy Rih|UA||98|3p3|2kr|4nr|Kryvyj Rih;Kryvyi Rih;Krywyj Rih;Kryvy Rih;Krivoy Roq;Kriví Rih;Krıvıy Rig;Krivoj Rog;Krivij Rih;Krõvõi Rig;Kryvyj Rihas;Krîvîi Rih;Krüvüy Rih;Krzywy Róg;Krivijriha;Kryvy Rig
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+Rehab|JO||5t|2hs|2s9|2s|Riḩāb;Rahāb
+Rychwał|PL||a5|40n|1eh|o|Rihvala
+Richtenberg|DE||8r|46k|zt|e|Richbarg;Rihtenberga
+Riẖaniya|IL||6n|2jt|2ql|c|Reiḥanīye;Rihaniyé;Rihaniyyah

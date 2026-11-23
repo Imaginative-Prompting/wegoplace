@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Riyadh|SA||7e|1wl|3ls|wgc|Riad;Al-Riyad;Rijád;Ar-Riyāḑ;Riyad;Rijadas;Riade;Riadi;Rijāda;Ar-Riyod;Riaad;Rihad;Riadum;Riado;Ar-Riaad;Er-riyad
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Erbil|IQ||5z|2sj|3e9|cfz|Hewlêr;Arbil;Irbil;Hawler
+Harare|ZW||n|-1dj|2e9|bwk|Arare
+Arequipa|PE||3o|-19k|-5iq|985|Arikipa;Arekipo;Arecipa;Arekipa;Ariqipa;Arekip
+Fort Worth|US||2f|2ix|-7ic|7s1|Fortvērta;Fortvortas;Arx Vorthensis;Fort Vort;Fort Uert;Fortvorto;Ft Worth
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Arifwala|PK||6q|2c5|5mz|6ld
+Erzurum|TR||94|32v|36o|5xa|Erzîrom;Arzirum;Erzéroum;Erzerum;Erzirum
+Aracaju|BR||3r|-ub|-2uz|54p|Arakažu
+Arusha|TZ||h|-9d|2tw|4rk|Aruŝo;Aruşa;Aruscha
+Ar Raqqah|SY||69|2rv|30d|43s|Raqqa;Ar-Raqqah;Rakka;Raka;Reqa;Callinicum;Raqqah
+Arāk|IR||7o|2mp|3u2|3vw
+Ardabīl|IR||7o|2y9|3q5|364|Ardebil;Erdebil
+Arlington|US|Texas|2f|2iy|-7hr|2zt|Arlinqton
+Arkhangel’sk|RU||9i|4zb|34n|2p5|Arkhangelsk;Arkangeli;Arhankeli;Arhangeljsk;Archangelsk;Arcángel;Arxanqelsk;Arcangelo;Archangel
+Hamburg-Nord|DE||8r|44v|rq|2fn|Hamburgo-Norte;Hamburgum Septentrionale;Arrondissement de Hambourg-Nord;Hamborg-Noord
+Armenia|CO|Quindío Department|27|cm|-5u7|2cj|Ermenistan;Armeniya;Arménie;Armenien;Arminia
+Rosetta|EG||c|2f8|2ci|2bu|Rosette;Rasyid;Roseta;Raŝido;Rashīd;Rašid;Ar-Rašíd;Reşid;Rozeta;Er-Rashid
+Hamburg-Mitte|DE||8r|44r|ru|2bo|Hamburgo-Centro;Hamburgum Media Urbs;Hamborg-Mitt;Hamburg-Centru;Arrondissement de Hambourg-Mitte
+Århus|DK||8y|4c0|sd|279|Arhuzo;Orhūsa;Árósar
+Artux|CN||7t|32b|5vm|276|Atush;Atux;Atushi
+Strasbourg|FR||9k|3qy|lj|24c|Straßburg;Estrasburgo;Strasburgo;Argentoratum;Strasburg;Straatsburg;Estrasburg;Strasburgu;Štrasburk;Strasbwrg;Strassborg;Strasbūras;Strasbūra;Strazburg;Strasbôrg;Stroossbuerg;Strasburq;Estrasborg;Stroosburi;Estrasbou;Strǣtburg;Strasborgh;Strossburg;Straasbuurich;Estrasburgu;Straasburch;Strażburgu;Sjtraasburg;Stroatsburg;Strassbourg;Straszburg
+Ar Rayyān|QA||7b|1y9|3yu|23p|ar-Rayyan;Al Rayyan;Al Raiyan
+Russeifa|JO||5t|2gy|2s5|22i|Ruseifa;Russiefa;Rusaifa;Rusajfa;Rwseiffa;Ar-Rusajfa;Ruseyfa;Rusayfa;ar-Rusayfa
+Arrah|IN||6t|1z0|6j6|20m
+Fort Wayne|US||38|369|-6kh|20b|Arx Vainensis;Fort Veinas;Fort Veyn;Fortveina
+Embu das Artes|BR||4w|-1tp|-3m5|206|Embu Arte
+Arapiraca|BR||3r|-r3|-2tu|1vr
+Arica|CL||4u|-1fc|-5fa|1v5|Arika;Arėka
+Arakawa|JP||7q|2ra|asa|1o9
+Archway|GB||9b|3z9|-d|1nx
+Arroyo Naranjo|CU||36|1s0|-6cu|1md
+Araçatuba|BR||4w|-1mx|-3w3|1lw|Arasatuba
+Arlington|US|Virginia|48|300|-5y6|1lo
+Arba Minch|ET||2|gr|2wb|1ju|Arbbaa Mincce;Arba Mintch;Arba Mench
+Armavir|RU||9i|3h0|367|1jf|Armawir
+Arīsh|EG||c|2eh|2lw|1jc|City of Cut Noses;Al-Arisch;El-Arich;Al-Arix;Aríš;El Ariŝ;Arišas;Al-Arisz;Alarixe
+Arnavutköy|TR|Istanbul|94|36e|27u|1j2

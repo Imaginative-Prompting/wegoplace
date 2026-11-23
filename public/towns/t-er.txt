@@ -1,0 +1,406 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Riyadh|SA||7e|1wl|3ls|wgc|Riad;Al-Riyad;Rijád;Ar-Riyāḑ;Riyad;Rijadas;Riade;Riadi;Rijāda;Ar-Riyod;Riaad;Rihad;Riadum;Riado;Ar-Riaad;Er-riyad
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Ordos|CN||7i|321|8gy|gm8|Erdos
+Erbil|IQ||5z|2sj|3e9|cfz|Hewlêr;Arbil;Irbil;Hawler
+Yerevan|AM||80|33m|3fn|8tz|Jerewan;Ereván;Jerevan;Erevano;Iereván;Êrîvan;Erywań;Jerevanas;Yiriwan;Jerjewan;Jerevani;Eireaván;Erevāna;Erevanum;Eriwan;Djerevan;Revan;Iravan;Erewan
+Erzurum|TR||94|32v|36o|5xa|Erzîrom;Arzirum;Erzéroum;Erzerum;Erzirum
+Kochi|IN||6t|rm|5vu|4w0|Koczin;Cochim;Cochín;Ernakulam
+Erode|IN||6t|vi|5zx|40z|Irodu
+Ardabīl|IR||7o|2y9|3q5|364|Ardebil;Erdebil
+Armenia|CO|Quindío Department|27|cm|-5u7|2cj|Ermenistan;Armeniya;Arménie;Armenien;Arminia
+Rosetta|EG||c|2f8|2ci|2bu|Rosette;Rasyid;Roseta;Raŝido;Rashīd;Rašid;Ar-Rašíd;Reşid;Rozeta;Er-Rashid
+Hulan Ergi|CN||7i|3n4|9jf|21p
+Rivne|UA|Rivne Oblast|98|3wm|20w|1vr|Riwne;Równe;Rivno;Eractum;Rovno;Ruvne
+Erfurt|DE||8r|3xm|uo|1os|Erfordia;Jarobrod;Erpisfurt
+Ereğli|TR|Konya|94|2w7|2ml|17f|Heraclea;Heraclea Minoa;Heracleia Minoa;Herakleia
+Örebro|SE||9w|4kn|169|17c|Erebru
+Ar Ramthā|JO||5t|2ig|2s1|179|Ramtha;Er Remtha;Alramtha;Al ramtha
+Erzincan|TR||94|32e|31p|15v|Erzindjan;Ezirgan;Erzincam;Erzıngan;Erzindžanas;Erzinjan;Erzincã;Arzanjan;Ersingan;Ersingjan;Ersindjan
+Irákleion|GR||8p|2q5|1xu|124|Iraklio;Heraklion;Heraclión;Herákleion;Iraklion;Iráclio;Kandiye;Iraklija;Heraclião;Càndia;Candie;Iraclion;Irákleio;Ērakleion
+Erebuni|AM||80|33h|3fp|101|Erebouni;Erebuno
+Rouen|FR||9k|3tc|32|wb|Ruan;Rueno;Erruan;Rothomagus;Ruão;Rúðuborg;Rovan;Roeaan;Roan;Rouan;Roðem;Ruanas;Ruāna;Ruano
+Ar Rifā‘|BH||60|20l|3wg|w3|Riffa;Rifa;Ar-Rifā‘;Ar-Rifa;Al-Riffa;Er Rifaa;Ar Rifa
+Ermelino Matarazzo|BR||4w|-1t9|-3l3|v7
+Erlangen|DE||8r|3tr|ul|sj|Erlanga
+Errachidia|MA||d|2gp|-cb|s1|Ksar es-Souk;Er-Rachidía;Al-Rashidiyya;Rachidia;Rašidija;Er Rachidia;Ar-Raszidijja;ar-Rachīdīya
+Ermelo|ZA||o|-21p|2ba|rv
+Erie|US|Pennsylvania|48|391|-66h|rn|Eri
+Erdenet|MN||7s|3s7|814|r6
+Erechim|BR||4w|-24r|-418|qp
+Erciş|TR||94|30f|3cg|pj|Arcis
+Ereğli|TR|Zonguldak Province|94|36o|2fa|oo|Heraclea;Erekli;Heraklea
+Ar Rass|SA||7e|1zv|3cu|mp|Ar-Rass;Ar Rasas;Ar Rasa;Rass;Er Ras
+Alba Iulia|RO||8u|3jz|1ti|hu|Karlsburg;Apulon;Vojvodov Bjalgrad;Ciudadela Blanca;Karlovský Bělehrad;Erdeljski Biograd;Weyssenburg;Dsulafehervaru;Gyulafehérvár;Belgrad-i Erdel;Belgrada;Alba-Julia;Weißenburg;Bălgrad;Alba Julija;Alba Júlia;Àobā Yóulìyà;Erdel Belgradı;Karlov Belehrad;Fehervaru
+Érd|HU||8v|3nn|1gj|hc|Hamzsabég;Andzabeg
+Erzsébetváros|HU||8v|3ny|1gz|h8|Quận VII;Elisabethstadt;VII. Budapester Bezirk;Budapest VII. kerület
+Erdaojiang|CN||7i|382|9q3|gw
+Er Roseires|SD||r|wz|2nj|gb|Ar Ruseris;Ar-Rusajris;Ar Roseris;Ar Ruşayriş
+Eger|HU||8v|3p2|1kl|ez|Erlau;Eğri;Egra;Jáger;Agria;Jegra
+Ercolano|IT||9o|35d|13v|ew
+Ar Rastan|SY||69|2p1|2u1|es|Er Rastan;Al-Rastan;Rastan
+Ergani|TR||94|2yb|32f|en
+Erbaa|TR||94|34z|2tl|ei
+Erftstadt|DE||8r|3x5|iv|e8
+Erkrath|DE||8r|3ya|j7|da
+Erdemli|TR||94|2to|2nb|cy
+Ayr|GB||9b|4a2|-cv|cv|Eras;Inbhir Áir;Eyr
+Erkelenz|DE||8r|3xw|hk|cf|Erkelens
+Ar Raḩmānīyah|EG||c|2ee|2d4|cd|Er-Rahmânîyeh;Ar Rahmaniyyah;Er-Raḥmânîya;Al Rahmaniyah
+Erlin|TW||7l|1ue|9ad|c5|Erh-lin;Erhlin
+E’erguna|CN||7i|3vi|99t|bs|Ergun
+Ermesinde|PT||99|36i|-nr|ay|Ermezinde
+Errenteria|ES||9d|3cb|-5a|as|Rentería;Orereta
+Nové Zámky|SK||8s|3pb|1eg|a8|Neuhäusel;Érsekújvár;Neuhaus;Neuhaeusel
+Ar Rahad|SD||r|zc|2d5|a5|Er Rahad;Ar-Rahad
+Airdrie|GB||9b|4b7|-b2|a4|Erdris;An Àrd Ruigh;An t-Árd Ruigh
+Erāttupetta|IN||6t|qx|5xa|9o|Eratupeta
+Eruwa|NG||u|ky|9i|9o
+Erāmala|IN||6t|wh|5tz|9n
+Ceerigaabo|SO||14|ti|3nl|9f|Erigavo;Cerigaabo;Erigabo
+Erding|DE||8r|3q7|x3|9b|Arrdeng
+Erraguntla|IN||6t|14o|626|92
+Örnsköldsvik|SE||9w|4vt|1g0|91|Övik;Ernšioldsvikas;Ērnšeldsvīka
+Arfoud|MA||d|2fc|-br|8w|Erfoud
+Erandol|IN||6t|1m4|5t9|8n
+Dēra|ET||2|nc|2zx|8j|Era
+Ermont|FR||9k|3s3|6a|7t
+Freeport|BS||47|21p|-62m|7h|Erkin Port;Pelabuhan Bebas;Puerto Libre;Azad Limanı;Pelabuhan Mardika;Porto Franco
+Armentières|FR||9k|3wt|80|7e|Armentiers;Ermentiers;Armintîre;Armantjeras
+Erzin|TR||94|2un|2sk|7b
+Erannoli|IN||6t|wp|5ts|76
+Erlun|TW||7l|1u1|9ah|70|Erh-lun
+Budaörs|HU||8v|3nu|1go|6z|Wudersch;Jerša;Erša;Vundeš;Vicus Teuto
+Armyansk|UA||9t|3k3|2ll|6s|Ermeni Bazar;Armiansk
+Erandio|ES||9d|3ca|-89|6r
+Yershov|RU||9s|3yo|3q3|6l|Jersjov;Ierchov;Eršov;Yerşov;Ierxov;Jerŝov;Jeršow;Jerschow
+Eravur Town|LK||68|lm|6ao|6e
+Ardahan|TR||94|367|3am|6d|Erdêxan;Ardaã;Ardakhan;Ardagan
+Erdek|TR||94|348|257|6b
+Marsberg|DE||8r|3yy|ol|63|Eresburg
+Erie|US|Colorado|2p|339|-83t|5y
+Edewecht|DE||8r|43l|m6|5r|Erwech
+Ervália|BR||4w|-1lw|-3ai|5n
+Jericho|PS||6g|2gj|2qh|5i|Arīḩā;Jericó;Jerihon;Jeriko;Gerico;Jerichas;Jerycho;Jērika;Chericó;Jeriĥo;Jeeriko;Ireachó;Xericó;Yerikho;Iericho;Ierihon;Yeriko;Eriha;Arihon;Arişa;Arihoon;Arihoo;Yerīhō
+Herceg Novi|ME||9l|39x|1fi|5f|Castelnuovo di Cattaro;Herceg-Novi;Ercegnovi
+Erlanger|US||48|30e|-6j0|58
+Eringate-Centennial-West Deane|CA||59|3da|-652|56
+Erémankono|CI|Goh-Djiboua|0|gh|-dy|54|Hermankono
+Erong|CN||7i|27d|8fl|53
+Eruvādi|IN||6t|ng|5zk|51
+Erlang|CN|Chongqing|7i|2cc|86f|4t
+Ermitagaña|ES||9d|3ax|-4m|4s
+Eravattūr|IN||6t|w6|5ue|4q
+Ermenek|TR||94|2ts|2jd|4q|Ermenak
+Eruvatti|IN||6t|wt|5tt|4p
+Ersheng|CN||7i|29v|88l|4l
+Erba|IT||9o|3j9|pn|4k
+Erenhot|CN||7i|3d9|8n2|4k
+Ermua|ES||9d|3bz|-6y|4j
+Erwitte|DE||8r|3zd|n6|4h|Arwitti;Ėritonon
+Erandique|HN||56|13k|-6tq|4c
+Erskine|GB||9b|4ba|-cd|4b|Arascain;Erskin
+Éragny|FR||9k|3s6|5u|4a
+Râşnov|RO||8u|3im|1yp|49|Rosenau;Cumidava;Rosnovia;Barcarozsnyó;Rîşnov;Komidava;Comidava;Rosnou;Erdenburg;Rozsnyó
+Erawan|TH||62|1c2|7v7|47
+Erriadh|TN||1e|2ly|u5|40
+Yereymentau|KZ||5s|3ze|5n2|3y|Ereymentaū;Yermentau;Ermentaū
+Ershui|TW||7l|1u5|9b2|3x|Ershuei;Erh-shui
+Erbach|DE|Hesse|8r|3ty|oz|3u
+Erbach|DE|Baden-Wurttemberg|8r|3q9|rh|3p
+Erlensee|DE||8r|3vc|oy|3j|Äälänsee
+Ertil’|RU||9i|400|35c|3i|Ertil
+Erembodegem|BE||8t|3xg|b9|3e
+Erumaippatti|IN||6t|uz|61h|3d
+Erin|CA||59|3dl|-66e|3c
+Erkner|DE||8r|41m|127|39
+Ergolding|DE||8r|3qy|xt|36
+Er Regueb|TN||1e|2ou|r7|36|Regueb;El Regueb
+Ermoúpolis|GR||8p|2w0|1xa|36|Ermoupoli;Syra;Hermupolis
+Marmara Ereğlisi|TR||94|35t|25o|32|Erekli;Ereğli
+Ertvelde|BE||8t|3y6|af|2z
+Érico Cardoso|BR||20|-11a|-392|2y
+Ermington|AU||8l|-2lx|bnl|2y
+Eraniel|IN||6t|mt|5ys|2w
+Ermelo|NL||8m|41a|fm|2v
+Valea lui Mihai|RO||8u|3o0|1pj|2u|Érmihályfalva
+Erumāpālaiyam|IN||6t|wb|615|2u
+Erith|GB||9b|3z0|h|2q
+Erlenbach am Main|DE||8r|3uc|pg|2p
+Erstein|FR||9k|3qi|la|2o|Eerstain
+Eral|IN||6t|nz|60q|2n
+Erquelinnes|BE||8t|3vr|bf|2m
+Irtyshsk|KZ||5s|445|5tm|2k|Ertis;Irtysh
+Eriyodu|IN||6t|t8|60u|2h|Eriyodi;Eriodu
+Alkhan-Yurt|RU||9i|3c3|3il|2h|Alkhan-Jurt;Ayvazovskoe;Ermolovskaya;Walxan-Yurt;Ayvazovskoye;Alhan-Jurt
+Eranāpuram|IN||6t|w4|60n|2h
+Erchie|IT||9o|34c|1da|2d
+Ercilla|CL||4u|-2xq|-5l1|2d
+Ercsi|HU||8v|3n9|1gi|2c|Ercs
+Dumbrăveni|RO|Sibiu County|8u|3kf|1w9|2a|Elisabethstadt;Erzsébetváros;Ebesfalva
+Erei|IN||6t|1ml|6od|27
+Ersekë|AL||9y|342|1lg|27|Erseka;Ersek
+Eruh|TR||94|2wu|395|27|Erukh
+Erskineville|AU||8l|-2m6|bnz|27
+Erping|CN||7i|2b2|86w|26
+Erndtebrück|DE||8r|3xn|mx|25|Ernatebruck
+Ericeira|PT||99|308|-q6|23
+Ergoldsbach|DE||8r|3r9|xw|23|Erweschbo
+Ergué-Gabéric|FR||9k|3pc|-b6|21|An Erge-Vras
+Erzhausen|DE||8r|3us|o1|21
+Eernegem|BE||8t|3y1|8f|1y|Eerneghem;Erneghem
+Erin Woods|CA||2s|3xq|-8sl|1w
+Erval Seco|BR||4w|-24j|-44m|1w
+Ereré|BR||2w|-gr|-2yj|1t
+Erskine Park|AU||8l|-2lx|bmw|1s
+Ardud|RO||8u|3ob|1rk|1s|Erdeed;Erdőd;Arded
+Erps-Kwerps|BE||8t|3xe|co|1q
+Herval|BR||4w|-2gy|-44c|1q|Erval
+Ernée|FR||9k|3q6|-2l|1p
+Erdőkertes|HU||8v|3of|1hn|1o
+Erwin|US|Tennessee|48|2sf|-6cy|1o|Ervin
+Erbiceni|RO||8u|3nb|23n|1l
+Erdweg|DE||8r|3q9|ve|1k
+Ertingen|DE||8r|3pm|qb|1j
+Yerofey Pavlovich|RU||7x|45w|9es|1i|Jerofej Pavlovitsj;Jerofei Pawlowitsch;Jerofej Pavlovitj;Erofej Pavlovič;Jerofej Pavlovič;Yerofey Pavloviç;Jerofiej Pawłowicz;Yerofei Pavlovich;Erofei Pavlovich
+Erbendorf|DE||8r|3ug|xh|1i|Ermdoaf
+Ehrenfriedersdorf|DE||8r|3wp|101|1i|Ērenfrīdersdorfa
+Eraan|PH||71|p6|92y|1h|Iraan;Eran
+Eremo|IT||9o|3hd|tu|1g
+Ernei|RO||8u|3lh|1wg|1f
+Arnemuiden|NL||8m|3z2|a8|1f|Erremu;Arnemeidenas
+Erpe|BE||8t|3xi|b1|1f
+Ermineskin|CA||2s|44i|-8ra|1e
+Erlang|CN|Gansu|7i|2m0|85b|1e
+Erval Grande|BR||4w|-243|-421|1d
+Erval Velho|BR||4w|-23s|-3yw|1d
+Erlenbach|DE|Baden-Wurttemberg|8r|3sl|pr|1d
+Erdmannhausen|DE||8r|3ry|pu|1c
+Herbignac|FR||9k|3nt|-6g|1b|Erbigneg
+São Bento Abade|BR||4w|-1ny|-3h7|1b|Eremita
+Erfelden|DE||8r|3ug|nj|1b
+Erwin|US|North Carolina|48|2q5|-62k|1b
+Erina|AU||8l|-2kv|boj|1b
+Erda|US||2p|34t|-8ny|1a
+Erquinghem-Lys|FR||9k|3ws|7x|1a
+Erlenbach|CH||a7|3ne|nw|19
+Eravu|IN||6t|t5|5vh|18
+Erindale|CA||4q|40u|-881|18
+Erskine|AU||8k|-2ig|8xf|18
+Erimo|JP||7q|38q|b1n|18
+Ery-Makouguié II|CI||0|ge|-bl|17|Eri Makoguié II
+Erzsébettelep|HU||8v|3nu|1ha|17
+Eriskirch|DE||8r|3oa|qi|17
+Utkonosivka|UA||98|3ie|28g|17|Ion Gheorghe Duca;Erdec-Burnu;Outkonossivka;Utkonossiwka
+Ar Rabbah|JO||5t|2ev|2ra|16|Rabba;Rabbat-Moab;Ar-Rabba;Er Rabba;Ar Rabba
+Erétria|GR||8p|2yo|1u4|16|Érétrie
+Eraclea|IT||9o|3im|z7|15|Heraclia
+Ermióni|GR||8p|2vu|1sl|13|Kastrí
+Erstfeld|CH||a7|3m2|o1|13|Protocampus
+Yertsevo|RU||9i|4ow|33d|13|Jertsevo;Jerzewo;Jercewo;Ercevo;Jercevo;Ertsevo
+Hervás|ES||9d|33v|-gb|12|Ervás
+Eremitu|RO||8u|3ln|1x9|12
+Feleacu|RO||8u|3ls|1tm|12|Erdöfelek;Feleac
+Érsekvadkert|HU||8v|3pc|1hc|12
+Erquy|FR||9k|3r3|-6v|11|Erge-ar-Mor;Erqueium
+Ariogala|LT||a3|49i|1t8|11|Arjogala;Ariuogala;Eragola;Ejragoła;Arëgala;Eiragola;Ariogalos
+Erlau|DE||8r|3xp|zz|10
+Erpeli|RU||9i|3ax|3mi|10
+Erp|NL||8m|3zc|fl|10
+Erfelek|TR||94|38c|2p0|10
+Arţās|PS||6g|2g1|2pr|10|Ertas
+Olite-Erriberri|ES||9d|3a0|-4l|y|Oligitum;Olit;Erriberri;Oligicus;Olite
+Ar Rīḩīyah|PS||6g|2ff|2pg|y|Er Rīhīya;Ar Rihiya
+Ierissós|GR||8p|348|1uc|x|Erissos;Ierisós
+Erdőtelek|HU||8v|3og|1kg|w
+Eriksberg|SE||9w|4kk|1di|w
+Erolzheim|DE||8r|3pl|rz|v
+Erwetegem|BE||8t|3xa|al|v
+Erlen|CH||a7|3o3|pn|v
+Erebango|BR||4w|-25e|-41a|v
+Erkheim|DE||8r|3pg|sq|u
+Ernestina|BR||4w|-276|-421|u
+Erzin|RU||6u|3vm|7cc|u
+Erlands Point-Kitsap Lake|US||3p|3o8|-9gu|t
+Érezée|BE||8t|3vp|fg|t|Erezêye
+Érsekcsanád|HU||8v|3kh|1gq|t
+Erbusco|IT||9o|3io|rp|t
+Ergel|MN||7s|3bv|8f5|t
+Erpent|BE||8t|3w5|dn|s
+Erdevik|RS||8q|3hc|1hx|r
+Erdeven|FR||9k|3oc|-8s|r|An Ardeven
+Erligheim|DE||8r|3s6|pa|r
+Băiuţ|RO||8u|3oa|1uo|r|Erzsébetbánya
+Bad Erlach|AT||a2|3ol|191|r|Erlach
+Erpel|DE||8r|3wi|k3|q
+Erbray|FR||9k|3oe|-3o|q|Ervoreg;Arbraiacum
+Erongarícuaro|MX||41|1if|-7uk|q
+Erythrés|GR||8p|2y6|1ss|q
+Eriksbo|SE||9w|4gh|xg|q
+Căuaş|RO||8u|3o5|1qn|p|Érkávás
+La Ermita|HN||56|147|-6pv|p|Hermita;Ermita
+Ermatingen|CH||a7|3of|p9|p
+Erlenbach|DE|Bavaria|8r|3uu|qs|o
+Ermita de Guadalupe|MX||41|1qr|-7y7|o
+Vyshneve|UA|Dnipropetrovsk|98|3qk|2m7|n|Erastivka;Vychnévé;Vishnyëvoye;Wyschnewe;Vysjneve;Višneve;Vyšneve;Wysznewe
+Ermita|PH||71|ua|9gw|n
+Ermo|BR||4w|-28i|-3tw|n
+Erlinsbach|CH||a7|3no|m9|n
+Erenas|PH||71|yi|9lc|m
+Ernsthofen|AT||a2|3pp|148|m
+Eric Coy|CA||5d|3uh|-7i8|m
+Erdőskert|HU||8v|3no|1hd|m
+Erwinville|US||2f|2ct|-71x|m
+Ērgļi|LV||9n|4e2|1z8|m
+Hérébo|CI||0|m3|-8i|m|Erébo
+Erkenbrechtsweiler|DE||8r|3qw|q7|l
+Ribemont|FR||9k|3uc|9m|l|Ercuriacum
+Erma|US||48|30b|-5s2|l
+Erfde|DE||8r|46v|pw|l
+Erath|US||2f|2b8|-73o|l
+Ermidas|PT||99|2xk|-na|k
+Yerbogachen|RU||6k|4q8|8c2|k|Jerbogatsjen;Erbogachen
+Aardenburg|NL||8m|3yf|9l|k|Erreburg;Eirdnburg
+Erbisoeul|BE||8t|3wc|au|k
+Erlbach|DE|Saxony|8r|3vs|yd|j
+Ering|DE||8r|3q6|10j|j|Fring
+Ernolsheim-Bruche|FR||9k|3qx|l1|i|Arelse
+Yeraskhahun|AM||80|33b|3eu|i|Eraskhahun;Erasxahun;Yerasxahun;Yeraskhaun
+Erondegem|BE||8t|3xi|b0|h
+Erlenbach im Simmental|CH||a7|3lm|kz|h|Erlenbach en Simme-Valo
+Ergenekon|TR||94|331|3eq|h
+Eresing|DE||8r|3pl|um|h
+Erlenbach / links des Dorfbachs oberhalb Bahnlinie|CH||a7|3ne|nw|h
+Erikli|TR|Adıyaman Province|94|2x7|2zs|h
+Ergátes|CY||73|2pd|2kc|h|Argates;Argátaes;Argatœs
+Erbrée|FR||9k|3pm|-34|h|Ervored;Erbreia
+Erlenmoos|DE||8r|3pj|rq|h
+Ersmark|SE|Västerbotten|9w|4xg|1kg|h
+Erlabrunn|DE|Bavaria|8r|3ui|rc|g
+Erie|US|Illinois|2f|37q|-6y8|g
+Erémankono|CI|Woroba|0|p8|-iq|g|Erémakono
+Erbè|IT||9o|3ho|uh|f
+Ernstbrunn|AT||a2|3qt|19f|f
+Erpersdorf|AT||a2|3qa|188|f
+Ersigen|CH||a7|3mt|l4|f
+Ercé-près-Liffré|FR||9k|3q2|-48|f|Herzieg-Liverieg;Herceium prope Gahardum;Ercée-près Liffré
+Erving|US||48|3ac|-5l4|f
+Erími|CY||73|2oc|2jg|f
+Ercuis|FR||9k|3sr|6e|f
+Erlenbach / rechts des Dorfbachs oberhalb Bahnlinie|CH||a7|3nf|nw|f
+Ermlitz|DE||8r|3yr|xs|f
+Ernsgaden|DE||8r|3rd|w6|e|Ernsgodn
+Eriswil|CH||a7|3ms|lt|e
+Errol|GB||9b|4cn|-8x|e
+Erbes-Büdesheim|DE||8r|3u7|mb|e
+Erre|FR||9k|3vw|98|e
+Eresós|GR||8p|30t|201|d|Eressós
+Erxleben|DE|Saxony-Anhalt|8r|412|v8|d
+Erdoğmuş|TR||94|307|29p|d
+Săcăşeni|RO||8u|3nw|1r0|d|Érszakácsi
+Erin|US||2f|2sw|-6rl|d
+Ervedosa do Douro|PT||99|36d|-kr|d
+Erwangzhuang|CN||7i|31f|91z|d
+Erlton|CA||2s|3xr|-8su|d
+Ercé-en-Lamée|FR||9k|3ov|-4c|d|Herzieg-Mez
+Ertl|AT||a2|3pa|14n|d
+Erfweiler|DE||8r|3sk|lp|d
+Labarthe-Rivière|FR||9k|3bo|1v|c|Era Barta dArribèra
+Era|IN||6t|1xi|5r6|c
+Erlbach|DE|Bavaria|8r|3q6|zi|c
+Agarak|AM|Lori|80|35x|3fj|c|Agrag;Agrak;Akrak;Egrak;Egrek;Ekrek;Erkek
+Erpolzheim|DE||8r|3th|mu|c|Ääbelsm
+Ersingen|DE||8r|3q5|re|c
+Ervy-le-Châtel|FR||9k|3pg|av|c
+Ernage|BE||8t|3wj|d0|c
+Arette|FR||9k|3bq|-20|c|Areta;Ereta
+Ergersheim|DE||8r|3tk|sp|c
+Erindale|AU||8b|-2p1|ap6|c
+Erpfendorf|AT||a2|3o6|yn|b
+Erikli|TR|Gaziantep|94|2vc|2vk|b
+Erdeborn|DE||8r|3z0|wb|b
+Erlach|CH||a7|3mo|jq|b|Cerlier;Erilachus
+Erie|US|Kansas|2f|2wd|-7ck|b
+Erköklü|TR||94|2x6|36a|b
+Ergeçli|TR||94|30f|3ay|b|Erkeçli
+Erick|US||2f|2pu|-7pf|b
+Erbeyli|TR||94|2x7|24w|b
+Erkerode|DE||8r|410|tr|b
+Ernstroda|DE||8r|3xa|ti|a
+Ernestinovo|HR||a6|3i9|1fu|a
+Ergersheim|FR||9k|3qx|kx|a
+Yeraskh|AM||80|32e|3gj|a|Yerasx;Erasx
+Erandiogoikoa|ES||9d|3cb|-87|a
+Erlabrunn|DE|Saxony|8r|3w7|zb|a
+La Bastide-de-Sérou|FR||9k|3bh|3z|a|La Bastida de Seron;Era Bastida deth Salat
+Kaplna|SK||8s|3q5|1ci|a|Erzsébetkápolna
+Ermita de los Correas|MX||41|1rn|-7y6|a|Ermita de los Correos
+Eryeri|TR||94|2vl|357|9
+Erharting|DE||8r|3q4|yy|9
+Erschwil|CH||a7|3nl|ky|9
+Erler|TR||94|2yw|37x|9
+Erdurağı|TR||94|2xa|37i|9
+Era|IT||9o|3kg|q4|9
+Erakro|CI||0|kn|-c2|9
+Ersmark|SE|Västerbotten|9w|505|1m2|9
+Ersī|IR||7o|2yv|3ig|9
+Ermenonville|FR||9k|3sh|7i|9
+Erpeldange|LU|Diekirch|9c|3ui|gz|8
+Erla|AT||a2|3pw|14h|8
+Ergatikés Katoikíes Attikís|GR||8p|2ws|1us|8
+Hrpelje|SI||9a|3ip|12q|8|Erpelle;Herpelje
+Brzyskorzystewko|PL||a5|42x|1d5|8|Erlhof
+Erateiní|GR||8p|2yk|1pr|8|Eratiní
+Artabuynk|AM||80|32r|3hx|8|Erdapin;Yeghegis;Artaboyn
+Ergözü|TR||94|32e|3av|8|Tavo
+Errouville|FR||9k|3ta|ge|7
+Erroibar|ES||9d|3bb|-41|7|Erro
+Erve|IT||9o|3ja|q9|7
+Erzenhausen|DE||8r|3ti|l6|7
+Erátyra|GR||8p|342|1nr|7|Erátira
+Érôme|FR||9k|3hc|de|7
+Erchin|FR||9k|3vs|8t|7
+Erlenbach|DE|Rheinland-Pfalz|8r|3sf|mr|7
+Erlenbach / links des Dorfbachs unterhalb Bahnlinie|CH||a7|3ne|nv|7
+Erenler|TR||94|342|3ab|7
+Ercheu|FR||9k|3u2|86|7
+Erlauf|AT||a2|3pu|166|7
+Erpeldange|LU|Remich|9c|3tm|hl|7
+Erleks|RU||9i|4ag|347|7|Erliks
+Eréndira|MX||41|1h7|-7jl|7
+Günçalı|TR||94|2ta|2b0|7|Ernez;Gunchali
+Erekovci|MK||9u|36h|1no|7
+Yervandashat|AM||80|33g|3db|7|Ervandashat;Eruandashat
+Értény|HU||8v|3lh|1ed|7
+Erdesbach|DE||8r|3tp|ko|7
+Erez|IL||6n|2fo|2o1|7|Eres
+Eriu-Sâncrai|RO||8u|3o6|1qz|7|Érszentkirály;Eriu-Sîncrai
+Ermeton-sur-Biert|BE||8t|3vq|d4|7
+Erateinó|GR||8p|35r|1wg|6|Eratinón
+Erquery|FR||9k|3t9|6u|6
+Erentepe|TR||94|2t6|2cc|6
+Ernolsheim-lès-Saverne|FR||9k|3rj|ki|6
+Erbenhausen|DE||8r|3wh|s7|6
+Ernst|DE||8r|3vb|k3|6
+Ermershausen|DE||8r|3vh|tj|6
+Éréac|FR||9k|3q3|-6j|6|Erieg
+Erlenbach / rechts des Dorfbachs unterhalb Bahnlinie|CH||a7|3nf|nv|6
+Err|FR||9k|39w|5n|6
+Erenkaya|TR||94|2wk|38u|6
+Erowal Bay|AU||8l|-2pi|bmh|6
+Ernsee|DE||8r|3xc|xg|6
+Yolbilen|TR||94|2v1|36u|6|Erbet;Arbet
+Erice|IT||9o|2xo|yz|6|Mont Éryx;Èrici
+Erdut|HR||a6|3ih|1gy|6
+Éragny-sur-Epte|FR||9k|3t0|4y|6
+Erts|AD||8n|3a8|46|6|Ercs
+Erakala|AU||8c|-1mp|bi8|5
+Yernjatap|AM||80|34e|3fj|5|Ernjatap;Yerinjatap
+Ercé|FR||9k|3b1|3l|5
+Ar Rās|PS||6g|2hl|2pe|5|Er Rās;Ar Ra’s
+Ernestviller|FR||9k|3sb|jd|5|Ernestwiller
+Érsekhalma|HU||8v|3kr|1h4|5|Érsekhalom
+Erl|AT||a2|3og|xu|5
+Erxleben|DE|Saxony-Anhalt|8r|42j|wo|5
+Erula|IT||9o|35b|ou|5
+Eriz|CH||a7|3lz|ll|5

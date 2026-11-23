@@ -1,0 +1,45 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pskov|RU||9i|4gm|26p|1mh|Pleskau;Pskow;Pihkva;Pihkova;Pscovia;Pskof;Pleskava;Pszkov
+Psie Pole|PL||a5|3y3|1bc|qk
+Przemyśl|PL||a5|3ua|1r9|im|Peremyšlis;Premislia;Pšemisla;Přemyšl;Peremyshl’;Pshemys’l’
+Piskent|UZ||7m|35m|5cn|9p|Pskentas;Pskent
+Psie Pole Zawidawie|PL||a5|3y3|1bj|88|Psie Pole-Zawidawie
+Pszczyna|PL||a5|3uu|1gn|71|Pless;Pščina;Pščyna;Pszczyn
+Przasnysz|PL||a5|43a|1m0|4n|Pšasniša;Pšasnyšas
+Przeworsk|PL||a5|3v2|1qh|4e|Pševorska;Převorsk
+Pszów|PL||a5|3v0|1f3|3w|Pschow;Pšova;Pszůw
+Psebay|RU||9i|3ek|35d|2z|Psebaj;Isebay
+Psychikó|GR|Attica|8p|2xl|1u1|2n|Psykiko;Psichiko;Psikhikó;Psychico
+Psedakh|RU||9i|3cr|3ft|1y
+Psygansu|RU||9i|3cl|3dn|1x|Psygasu
+Psyzh|RU||9i|3ev|38q|1w|Psyzj
+Przemków|PL||a5|3z5|17v|1t|Pšemkova
+Przysucha|PL||a5|3yo|1lb|1q|Pšisuha
+Psachná|GR||8p|2z6|1to|1m|Psakhná
+Psie Pole Południe-Kiełczów|PL||a5|3y3|1bl|1h
+Pshekhskaya|RU||9i|3g6|32k|1e|Psjekhskaja
+Psáry|CZ||9m|3uq|14b|17|Psar
+Pszczółki|PL||a5|46h|1fy|15
+Pshada|RU||9i|3fj|2yo|t|Psjada
+Psary|PL|Silesia|a5|3vy|1h4|r
+Pshatavan|AM||80|338|3ef|n|P’shatavan
+Pesagot|PS||6n|2gm|2pu|j|Psagot
+Pszczew|PL||a5|41s|17u|i|Paczew
+Przedecz|PL||a5|41d|1gi|i|Pšedečas;Pšedeča
+Psimolofou|CY||73|2pe|2ke|h
+Pskhu|GE||7n|3cj|35d|h|P'skhu;Pschu;Psju;Psxu;Pschoe;Pshu Köyü;Pshu
+Przecław|PL|Subcarpathia|a5|3vf|1no|g|Pšeclava
+Pos’yet|RU||7w|3ah|a3d|f|Posiet;Poset;Pss’yet;Posjet
+Psary|PL|Lesser Poland|a5|3vd|1i9|e
+Psary|PL|Silesia|a5|3wl|1gp|d
+Psevdás|CY||73|2p2|2ky|b|Psevda;Psevdhas
+Pstruží|CZ||9m|3to|1ez|b
+Psary|PL|Lower Silesia|a5|3y7|1bb|a
+Pshenichnoye|UA||9t|3it|2os|9
+Psychikó|GR|Central Macedonia|8p|35w|1tn|9|Psikhikó
+Psary|PL|Greater Poland|a5|3zi|1e1|9
+Psathópyrgos|GR||8p|2yh|1or|7|Psathópirgos
+Pšov|CZ||9m|3v1|10l|6
+Psie Pole Północ|PL||a5|3y3|1bj|6
+Psary|PL|Świętokrzyskie|a5|3wx|1j2|5
+Psary|PL|Mazovia|a5|42f|1mv|5

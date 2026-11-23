@@ -1,0 +1,97 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Barranquilla|CO||27|uh|-5rq|9b3|Barankilija;Barranquilha;Barrankilya;Killa;Quilla;La Arenosa;Barankilijo
+Laayoune|EH||k|23e|-10n|1ij|Aaiún;El Aaiún;Al-Aaiun;Ajuno;O Aaiún;Al-Ajoen;Al-Ujun;El-Aaiún;Al-Ayun;El Ayun;Al Ayoun;La’Youn;El Aiún;Aiun;Aaium
+Laascaanood|SO||14|nk|3nk|gp|Las Anod;Laascanood
+Laatzen|DE||8r|41c|r8|bm
+Lalibela|ET||2|xf|30h|av|Lalibelo;Lalibäla;Laalibalaa;Labibela
+Lasoano|ET||2|he|3i3|ak|Laasacaano;Laasocaanood;Laso Ano;Laso Anod;Laasacaanood;Laasocaano
+La Asunción|VE||2c|un|-4xe|9r
+Laâttaouia|MA||d|2gg|-kb|97
+Laajasalo|FI||92|4n6|1xj|68|Degerö;Degerögard
+La Azulita|VE||2c|o7|-5ig|4r
+La Algaba|ES||9d|2w2|-gp|4j|Algaba
+Laarne|BE||8t|3xr|ap|38|Laerne
+Laaksolahti|FI||92|4nc|1ws|35|Dalsvik;Lasari
+Łobez|PL||a5|450|17e|2y|Luobezos;Lobesia;Laabs;Labes
+La Agustina|DO||4v|1fe|-5e9|2x
+Laakirchen|AT||a2|3pa|12e|2r|Laakircha
+La Alameda|MX|Jalisco|41|1ky|-7yt|2i
+Laage|DE||8r|45t|yb|2a|Lāge
+La Almunia de Doña Godina|ES||9d|378|-3t|26|Almunia de Doña Godina
+La Aguada|VE||2c|vc|-57e|21
+La Arena|PA||4g|m5|-67i|20
+Las Khorey|SO||14|v0|3pw|1x|Laasqoray;Laasqorey;Lās Qóray;Las Khoreh
+La Alianza|HN||56|11j|-6ro|1x|Alianza
+Laa an der Thaya|AT||a2|3rc|19i|1q
+Isla Aguada|MX||3z|1g7|-725|1q|La Aguada;Isla de Aguada
+La Aldea|MX|Michoacán|41|1iu|-7sx|1q
+La Aldea|MX|Guanajuato|41|1m2|-7tw|1k
+Laagri|EE||9x|4kv|1wd|1g
+Laahen|AT||a2|3pt|12x|1c
+La Argentina|CO||27|64|-5v2|1c|Argentina
+La Aljorra|ES||9d|2wp|-2z|1b|Aljorra
+La Asunción|CR||2i|rq|-6ht|18|Asunción
+Laajalahti|FI||92|4n8|1ww|10|Bredviken;Breda;Bredvik;Laajis;Laajuski;Lajuski
+La Antilla|ES||9d|2vd|-k1|z|Antilla
+Laab|AT||a2|3q2|109|w
+La Güera|EH||k|1lv|-1bh|v|La Aguerra;La Agüera;La Aquera;Laguira;Lagouira
+La Alameda de la Sagra|ES||9d|335|-aj|v|Alameda de la Sagra
+La Ascención|MX||44|1vk|-7pj|s|La Ascensión;Ascensión;Ascencion
+La Aurora|MX|Guanajuato|41|1lb|-7rw|q
+La Adela|AR||1s|-30a|-4y0|o
+La Adrada|ES||9d|33y|-cw|n
+Laar|DE||8r|41g|mx|m
+Laakso|FI||92|4n7|1x7|m|Dal
+La Alianza|PR||4m|1f4|-550|l
+José María Morelos y Pavón|MX|Sonora|37|262|-8jh|l|La Atravesada
+Låsby|DK||8y|4bz|r9|l|Laasby
+Lasa|IT||9o|3li|tq|k|Laas
+La Albuera|ES||9d|2zk|-iy|k|Albuera
+Staraya Ladoga|RU||9i|4mo|2hp|k|Stara Ładoga;Staraja Ladoga;Laatokankaupunki;Ladoga
+La Azozuca|MX||41|1aq|-7n4|j
+La Alberca de Záncara|ES||9d|31r|-6x|i
+José María Morelos y Pavón|MX|Zacatecas|41|1ua|-7yi|h|La Almoloya
+Las Ánimas|MX|Guerrero|41|1b5|-7nw|g|La Ánimas
+Laanila|FI||92|50m|1yv|f
+Ladelund|DE||8r|48c|p2|f|Låålönj
+La Angostura|MX|Michoacán|41|1k4|-7wk|f
+La Angostura|MX|Guanajuato|41|1kc|-7sv|e
+La Amistad|MX||41|1jl|-7nw|e
+Laax|CH||a7|3m0|pq|d
+La Aurora|MX|Tlaxcala|41|1hi|-7ku|c
+Laab im Walde|AT||a2|3pr|18x|b
+La Albarrada (San Francisco la Albarrada)|MX||41|1gz|-7q0|b
+La Alberca|ES||9d|34h|-gz|b|Alberca;Las Alberca
+La Arquería|MX||41|1pv|-7uu|a|La Alquería
+La Antigua|MX||41|1ho|-7fk|a|Antigua
+La Humada|AR||1s|-2sz|-58x|a|La Ahumada
+Laag-Soeren|NL||8m|40o|gw|a
+La Aurora|MX|Durango|44|1zj|-7zs|9
+La Atarjea|MX||41|1kf|-7uc|9|Atarjea de Crucitas
+La Arcina|MX||41|1m6|-7u9|9
+La Angostura|MX|Guerrero|41|1aw|-7n3|9
+La Ascensión|MX||41|1gc|-7ol|9
+La Ameca|MX||41|1n1|-7mt|9|La Meca
+Laasan|DE||8r|3xj|we|8
+La Alianza|MX||41|16p|-75z|8
+La Atalaya|MX||41|1f4|-7fj|8
+La Arena|MX|Chiapas|41|1bj|-728|8
+La Arrocera|MX||3x|1zq|-8ee|7
+La Alameda del Rincón|MX||41|1kc|-7qe|7
+Laar|NL||8m|3yg|fv|7
+La Arena|MX|Hidalgo|41|1n3|-7mv|7|Arena
+La Almolda|ES||9d|37f|-l|7
+La Almita|MX||37|2db|-8ob|6
+La Alameda|MX|México|41|1i7|-7pq|6
+La Aurora|MX|Chiapas|41|1cb|-73e|6
+La Arbolada Plus|MX||41|1l2|-7z4|6
+Venustiano Carranza|MX|Tabasco|41|1de|-748|6|La Alianza
+La Almarcha|ES||9d|329|-6m|6|Almarcha
+Laasdorf|DE||8r|3xb|wf|6
+Las Milpas|MX||37|22g|-8gx|6|La Arenita
+Laa|AT||a2|3mf|16u|6
+La Alameda (Cortázar)|MX||37|2dd|-8pb|5
+La Antigua|ES||9d|396|-ft|5
+Arena 5ta. Sección|MX||41|1eh|-77i|5|La Arena Quinta Sección
+La Alicia|MX||41|1d1|-7ep|5

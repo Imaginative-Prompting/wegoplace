@@ -1,0 +1,664 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Xi’an|CN||7i|2n6|8el|2ry1|Hsi-an;Xian;Ŝiano;Sianas;Tây An;Siaņa;Ŝingano;Šjan;Singan;Sian
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Johannesburg|ZA||o|-20s|25w|20o6|Johanesburgo;Jóhannesarborg;Joanesburgo;Jo'anna;Johanesburgas;Yohannésburg;EGoli;IGoli;Xohanesburgo;Johannesbourg;Yohannesburq;Ioannesburgum;Yok-hon-nì-sṳ̂-páu;Yoxannesburg
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Haikou|CN|Hainan|7i|1jn|8ij|n5s|Xeyko shehir;Hải Khẩu;Hajkou;Hajkoŭo;Chaj-kchou;Hái-kháu-chhī;Hāi-kāu;Haijgouj;Haykou;Haikow
+Huizhou|CN||7i|1s7|8tu|mdl|Huệ Châu;Xuyjo shehiri;Chuej-čou;Fi-chû-sṳ;Huitsjou;Hūi-chiu-chhī;Hiê-ciŭ;Hujdžov;Hui-chou
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Aleppo|SY||69|2sk|2v8|g6u|Alepo;Alep;Heleb;Alepas;Halep;Ḩalab;Xalab;Aleppu;Haleba;Ḥaleb;Halapia;Aleppe
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Khulna|BD||6a|1rd|6ws|bkv|Kulno;Xulna;Hulna
+Xinyang|CN||7i|2h8|8sv|axk|Sinyang;Hsin-yang
+Xiangyang|CN||7i|2h0|8ni|9zn|Xiangfan;Siang-jang;Hsziangjang;Šjangjang;Tương Dương;Hsiang-fan;Siangyang;Hsiang-yang;Siangfan
+Xuchang|CN||7i|2mj|8sa|9rj|Hsü-ch’ang
+Xuzhou|CN||7i|2n0|91s|9oc|Pengcheng
+Shiraz|IR|Fars|7o|2a9|41x|9n7|Chiraz;Sjiraz;Şiraz;Xiraz;Ŝirazo;Širazas;Šīrāza;Sziraz;Schiras;Chimaz
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Xuhui|CN||7i|2eo|9dd|8ka
+Hengyang|CN||7i|22p|8ou|8ar|Cheng-jang;Hengjang;Fên-yòng-sṳ;Hengjangas;Xéngyang shehiri;Hành Dương;Hèng-iòng;Hêng-iông-chhī;Heng-nan
+Xinxiang|CN|Henan|7i|2pr|8s4|82v
+Xianyang|CN||7i|2ne|8dy|7z9|Sien-jang;Ŝjanjango;Sianjangas;Hàm Dương;Hàng-iòng;Hszienjang;Hâm-iông-chhī;Hsien-yang
+Xinyi|CN|Guangdong|7i|1q5|8k7|7tu
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Xiangtan|CN||7i|25d|8pm|7eh|Siang-tchan;Sjantan;Siong-thâm-sṳ;Tương Đàm;Siong-thâm-chhī;Siŏng-tàng;Siangtan;Hsiang-tan
+Xiaogan|CN||7i|2dx|8sg|70b|Háu-gāng;Siao-kan;Hiếu Cảm;Hàu-kám-chhī;Siaokan;Hsiao-kan
+Xinyu|CN||7i|258|8v9|6h7|Sĭng-ṳ̀;Sin-jü;Sîn-yì-sṳ;Tân Dư;Sin-û-chhī
+Xingtai|CN||7i|2uy|8u1|65w|Sing-tchaj;Sintaj;Hình Đài;Hìng-dài;Hêng-tâi-chhī;Hsing-t’ai;Singtai
+Xuancheng|CN||7i|2dz|95w|5z3|Hsüan-ch’eng;Süancheng
+Helsinki|FI||92|4n5|1xa|531|Khel'sinki;Helsingfors;Helsinko;Helsinky;Helsingi;Heilsincí;Helsinqui;Helsingia;Helsínquia;Helsset;Xélsinki;Èlzinki;Hel'sinki;Helsėnkis;Elsinki;Stadi
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Khabarovsk|RU||7w|3qm|afa|4rq|Chabarowsk;Jabárovsk;Chabarovsk;Ĥabarovsk;Habarovszk;Chabarofsk;Habarovska;Chabarovskas;Xabarovsk;Khbarovsk;Khabarovka
+Genoa|IT||9o|3fc|ou|4h5|Genova;Genua;Janov;Ĝenovo;Gênes;Genuja;Cenova;Dženova;Zena;Xénova
+Xinmin|CN|Liaoning|7i|38n|9h7|4d4|Sinmin
+Xinzhou|CN|Shanxi|7i|2yp|8p5|47b|Sin-čou;Hãn Châu;Hṳ̆ng-ciŭ;Hian-chiu-chhī
+Xianning|CN||7i|2aw|8tk|3yd
+Xichang|CN|Sichuan|7i|25i|7w2|3pu|Sichang;Hsi-ch’ang
+Hsinchu|TW||7l|1ww|9c1|3hz|Sin-ču;Sîn-chuk-sṳ;Tân Trúc;Sinhcuz;Sin-tek-chhī;Xinzhu;Hsin-chu;Hsin-Chung
+Xochimilco|MX|Mexico City|41|1hh|-7na|3eu
+Xalapa de Enríquez|MX||41|1i9|-7h8|3a0|Jalapa Enríquez;Xalapa;Jalapa Enriques;Jalapa;Xalapa-Enríquez
+Gaza|PS||6f|2fi|2nr|35w|Gazze;Gàsa;Gaesa;Gaz;Xeze;Gaaza;Ghazze
+Gujangbagh|CN||7t|2v3|661|35l|Ciudad de Jotán;Khotan;Hoten;Hotan;Xoten;Xotan;Chotan;Hotanas;Ho-t’ien;Gujiangbage
+Xico|MX|México|41|1hk|-7mu|2yr
+Xuanhua|CN||7i|34t|8vm|2vq|Hsüan-hua
+Xilinhot|CN||7i|3e2|8yf|2p8|Xilin Hot
+Chifeng|CN||7i|39f|96g|2ob|Tschiföng;Xích Phong;Chiáh-hŭng;Čch’-feng;Chhak-fûng-sṳ;Chhek-hong-chhī;Ch’ih-feng
+Tongshan|CN||7i|2my|91g|2jl|Xuzhou;T’ung-shan
+Xingyi|CN|Guizhou|7i|1xq|83f|2hp|Hing-yi
+Xinyi|CN|Jiangsu|7i|2ni|94r|2bh
+Thanh Xuân|VN||62|1mb|85w|29h
+Xiuying|CN||7i|1jk|8id|28k|Hsiu-ying
+Long Xuyên|VN||6h|sv|84w|27h|Long-Shuyen
+Xinyuan|CN||7t|3cn|6f9|26j|Hsin-yüan
+Xingning|CN||7i|1v3|8xg|249
+Gijón|ES||9d|3cy|-fq|23i|Xixón;Ĥiĥono;Kixoi;Gigia;Chichonas
+Xuân Lộc|VN|Dong Nai|6h|ud|89v|1yb
+Xiulin|CN||7i|2ak|8o8|1up
+Khimki|RU||9i|4ba|2vz|1uo|Chimki;Himki;Jimki;Ximki;Chimkai
+Xiantao|CN||7i|2cd|8r4|1ui|Sientaochen;Hsien-t’ao-chen
+Xiangxiang|CN||7i|251|8ol|1ta|Tương Hương;Siong-hiông-sṳ;Siangsiang
+Xintai|CN||7i|2rq|933|1pt|Sintai
+Jiutepec|MX||41|1gg|-7ni|1nu|Xiutepec
+Xilin Hot|CN||7i|3e5|8yb|1n6|Silinghot;Xilinhot
+Jerez de la Frontera|ES||9d|2tx|-h2|1n5|Jerez;Ĥerezo;Xérès;Cheres de la Frontera;Xeresium;Xerez de la Frontera;Jarez de la Frontera
+Xizhi|TW||7l|1xn|9dy|1ku|Hsichih;Sip-chṳ-khî;Sidži;Tịch Chỉ;Se̍k-chí-khu;Hszicse;Hsi-chih
+Geneva|CH||a7|3kc|h3|1k1|Genf;Ginebra;Genève;Ženeva;Ĝenevo;Xenebra;Jenewa;Ginevra;Genava;Genewa;Genebra;Genevra;Cenevre;Jenwe;Janeva
+Khirdalan|AZ||61|34d|3u8|1ii|Xirdalan;Hırdalan;Khurdalan;Khyrdalan
+Khujand|TJ||6d|33w|5de|1h2|Chudschand;Hudžand;Khodjent;Choedzjand;Chudzjand;Xoʻjand;Chudžandas;Hucand;Khodyent;Hodjent;Khojend;Khudzhand;Khodzhent
+Getafe|ES||9d|33z|-ad|1g3|Xetafe;Chetafė;Tituacia
+Xindi|CN||7i|2au|8r7|1cu
+Khānaqīn|IQ||5z|2nf|3i3|1cm|Xaneqîn;Khanikin;Kanaqin;Khaniqin;Khanaqeen;Khāneqīn
+Đồng Xoài|VN||6h|w1|88w|1ao|Gjong Xoai;Cong Xoai;Dong Xoa;Dong Xoi
+Xinqiao|CN||7i|2eb|9cz|17b
+Xai-Xai|MZ||11|-1xl|2lg|16w|Xai Xai;Šai Šajus;Xay-Xay
+Xebat|IQ||5z|2ss|3db|154|Kelek;Kellek
+Xinji|CN||7i|2xd|8w2|14j
+Shahrisabz|UZ||7g|30i|55n|13n|Chakhrisabz;Sachrisabz;Xahrisabz;Šachrizabz;Ŝahrisabz;Šahrisabzas;Şehr-i-Sebz;Sjachrisabz;Shakhrisabzs;Shakhrisabz;Shakhrisyabz;Shahri-i-Sabz
+Siem Reap|KH||78|114|80i|12r|Ciudad de Siem Riep;Khett Siem Reab;Xiêm Riệp;Siĕm Réab;Siĕmréab;Siemreabas;Sziemreap;Siemrãp
+Xiayang|CN||7i|2ej|9cg|125
+São Félix do Xingu|BR||23|-ig|-40f|10p
+Khenifra|MA||d|2jh|-fq|zn|Jenifra;Chenifra;Chunajfira;Xnifra
+Khasavyurt|RU||9i|3c5|3lf|z8|Khasavjurt;Xasavyurt;Hasavjurt;Chassawjurt;Chassaw-Jurt
+Xiazhen|CN||7i|2oo|91b|yx
+Xiangcheng|CN|Yunnan|7i|1yr|7rc|xw
+Xunchang|CN||7i|271|82v|wz
+Xiva|UZ||7g|36z|4no|vy|Chiwa;Khiva;Ĥiva;Hiiva;Chiva;Jiva;Khiwa
+Khenchela|DZ||3|2qg|ju|vt|Jenchela;Xençela;Krenchela
+Budapest XIII. kerület|HU||8v|3o1|1h0|vj
+Jaén|ES||9d|2wx|-aj|vj|Ĥaeno;Xaén
+Xigang|CN||7i|2z3|87f|v5
+Xuyong|CN||7i|269|84v|u4
+Xinghua|CN|Jiangsu|7i|2ji|98v|tf|Hsing-hua
+Xincheng|CN|Xinjiang|7t|37v|6ed|sk|Koutcha;Kuqa;Kucha;Yëngisheher;Kuchar;Kuchi;Kocha;Kuchu;K’u-ch’e;Kuga;Kuche
+Khanty-Mansiysk|RU||7z|4pg|5br|s7|Chanty-Mansyjsk;Khanty-Mansiïsk;Chanty-Mansijsk;Ĥanti-Mansijsk;Hantõ-Mansiisk;Hanty-Mansijsk;Chanty-Mansiejsk;Khanty-Mansijsk;Janty-Mansisk;Hanti-Manszijszk;Hantî-Mansiisk;Hantimansijska;Khanti-Mansisk;Xanti-Mansi;Chanty Mansijskas;Chanti-Mansiisk;Khanty-Mansisk;Hantı-Mansiysk;Xanti-mansiysk;Khanty Mansisk
+Xinzhai|CN|Shandong|7i|2t4|95i|ru
+Xixiang|CN|Shaanxi|7i|2jn|8bc|rr
+Xinle|CN|Hebei|7i|2yj|8ul|rl
+Xingcheng|CN||7i|34u|9bc|ri|Hsing-ch’eng;Hingcheng
+Xinshi|CN|Hubei|7i|2e9|8qa|rc
+Xishan|CN|Hunan|7i|24v|8ra|ra
+Xinxing|CN|Gansu|7i|2om|84k|r3
+Khōst|AF||6o|2km|5e8|qp|Houst;Xost;Khowst
+Xiaoshan|CN||7i|2bt|9a2|qg|Siaoshan;Hsiao-shan
+Xingguo|CN||7i|2ou|85j|qg
+Ximeicun|CN||7i|1xf|94v|q7
+Xingren|CN||7i|1yn|84b|pg
+Xihe|CN|Hubei|7i|2g1|8r7|p4
+Xiazhuang|CN|Shandong|7i|2t9|98w|on
+Heroica Ciudad de Juchitán de Zaragoza|MX||41|19n|-7by|oj|Juchitán de Zaragoza;Juchitán;Xochitlan Zaragoza
+Xujiang|CN||7i|22k|8z4|ob
+Xiannü|CN||7i|2i3|984|nb
+Xucheng|CN||7i|1kh|8i1|n5
+Xindian|CN|Shandong|7i|2u8|94l|my
+Xiugu|CN||7i|25j|90e|mk
+Xichang|CN|Guangxi|7i|1o3|8en|m9|Hsi-ch’ang
+Xigazê|CN||7i|299|6uw|m8|Shigatse;Samdruptse;Žikace;Šigatse;Sigace;Zhikatse;Sh’i-ka-tse;Shigatze
+Xiongzhou|CN||7i|1xs|8ti|lz
+Xinzhou|CN|Hubei|7i|2dr|8uw|lw
+Xixiang|CN|Guangdong|7i|1qr|8sd|lo
+Xinying|TW||7l|1sr|9a7|ku|Sin-jing;Sîn-yàng-khî;Tân Doanh;Sinying;Hsin-ying
+Xianshuigu|CN||7i|30b|922|kk
+Wusu|CN||7t|3ff|6j8|k6|Xihu;Shixu;Wu-su;Usu
+Xinzhi|CN||7i|2te|8ma|k3
+Xiuyan|CN||7i|33x|9if|jw
+Xinhe|CN|Shandong|7i|2uk|987|jf
+Xininglu|CN||7t|3f6|6ju|ja|Maytagh;Maytag
+Xuantan|CN||7i|295|859|j9|Hsüan-t’an
+Xiaoshi|CN||7i|36q|9ks|j6
+Xunyang|CN||7i|2j6|8ft|iv|Hsün-yang
+Xo‘jayli Shahri|UZ||7g|39t|4l5|iu|Khŭjayli Shahri
+Xaçmaz|AZ||61|376|3rl|is|Hacimaz;Haçmaz;Xachmaz;Khachmaz
+Xinzhou|CN|Hainan|7i|1ir|8fn|ip
+Santa Cruz Xoxocotlán|MX||41|1bb|-7gq|in|Xoxocotlan;Santa Cruz
+Xiaolingwei|CN||7i|2gz|965|ic|Hsiao-ling-wei
+Kherson|UA||98|3lk|2il|ic|Cherson;Ĥersono;Herson;H’erson;Chersonas;Jersón;Herszon;Hersona;Xerson;Chersone;Chersonia
+Xiangcheng|CN|Henan|7i|2m1|8r9|ia|Hsiang-ch’eng
+Dancheng|CN||7i|2lg|8vy|i6|Tan-ch’eng;Xincheng
+West Bloomfield Township|US||2q|3a9|-6fm|hz|West Bloomfield;Municipio de West Bloomfield;Xã West Bloomfield
+Shendi|SD||r|1ad|2kv|hp|Schandi;Šendis;Šendi;Chendi;Xendi;Szandi;Shandi;Shindî
+Xiazhuang|CN|Shandong|7i|2p0|95k|hl
+Xiangzhou|CN||7i|2sg|97q|h5
+Xinye|CN||7i|2id|8o5|h4
+Xianju|CN||7i|285|9bd|h3
+Xifeng|CN||7i|3aq|9mg|gz|Sifeng
+Xiema|CN||7i|2ap|87h|gx
+Xixiang|CN|Henan|7i|2po|8pj|gv
+Shuya|RU|Ivanovo Oblast|9i|4dx|36z|gv|Schuja;Ŝuja;Chouïa;Şuya;Xúia;Sjuja;Șuia;Szuja
+Xiaoweizhai|CN||7i|20r|8an|gd
+Xinglongshan|CN||7i|3e4|9oj|g8
+Wenxing|CN||7i|27o|8pk|fv|Siang Tin;Siangtin;Siangyin;Xiangyin;Hsiang-yin;Siang-Yin
+Xam Nua|LA||7v|1kq|811|ft|Sầm Nưa;Samnua;Sam Neua;Xam Neua
+Xuzhuang|CN||7i|2na|92a|fl
+Xinqing|CN||7i|3q5|9zs|fe
+Xóm Cái Nước|VN||6h|r8|83y|f4
+Xihu|TW||7l|1uk|9ao|f0|Sihu
+Xiazhuang|CN|Yunnan|7i|1yk|7s3|f0
+Xingqiao|CN||7i|2cg|9a1|ek
+Xanxerê|BR||4w|-22o|-41k|ec|Xaneré
+Xinglou|CN||7i|2o1|93b|dt
+Xinhe|CN|Jiangsu|7i|2mz|93r|dj
+Xianfeng|CN||7i|295|87a|di
+Xánthi|GR||8p|369|1x5|de|Xanthē
+Chefchaouen|MA||d|2pp|-em|cz|Ville de Chechaouèn;Xauen;Chechaouèn;Chechaouene
+Hejing|CN||7t|39j|6nz|cy|Xéjing
+Xinguara|BR||23|-jq|-3uq|cj
+Xique-Xique|BR||20|-u2|-3ap|cg
+Xindian|CN|Jiangsu|7i|2mu|94q|cc
+Xonobod|UZ||7m|35c|5mp|c8|Khonobod
+Sharypovo|RU||6u|4aa|6vs|bw|Sjarypovo;Scharypowo;Šarypovo;Charypovo;Ŝaripovo;Szarypowo;Xarípovo
+Gutao|CN||7i|2vc|8nm|bo|Pingyao;Pingyao County;Xian de Pingyao;Pin’yao
+Urus-Martan|RU||9i|3bt|3ii|bj|Ourous-Martan;Oeroes-Martan;Ẋalxa-Marta;Urus Martan
+Xinglong|CN|Chongqing|7i|2d6|8g1|bi
+Xunsi|CN||7i|262|82g|bf
+Xili|CN||7i|1qr|8sj|bb
+Sciacca|IT||9o|2w7|10c|ba|Xaca;Sciacea
+Chrzanów|PL|Lesser Poland|a5|3va|1hw|b4|Xşanov;Chrzanovia;Chšanuvas;Hšanova
+Xicotepec de Juárez|MX||41|1kc|-7k4|b2
+Xilinji|CN||7i|437|9ic|ax
+Xihu|CN|Chongqing|7i|28u|87k|ao
+Xinxing|CN|Shandong|7i|2s5|982|am
+Xiluo|TW||7l|1u4|9am|ac|Siluo
+Xianlong|CN|Chongqing|7i|28z|85u|a6
+Xalisco|MX||3x|1nk|-83e|9x|Jalisco
+Hınıs|TR||94|31c|37t|9v|Xinûs
+Shumerlya|RU||9i|4a6|3kx|9s|Schumerlja;Ŝumerla;Šumerlja;Sjumerlja;Choumerlia;Sjoemerlja;Xúmerlia;Xumerlya;Šumerl;Szumerla
+Xã Long Hải|VN||6h|sv|89w|9s|Long Hai;Ap Long Hai
+Xangongo|AO||x|-1ai|15l|9q
+Xinmiao|CN||7i|2ae|89d|9j
+Xintian|CN|Chongqing|7i|2da|8d4|9h
+Xiongjia|CN||7i|2du|8d7|98
+Tewulike|CN||7t|39e|6pa|91|Hoxut;Xoshut;Tëwilgha;Tawilga;Tawilgha;Tavilgha;Hoxud;Tewilga
+Xiasi|CN|Sichuan|7i|2hp|853|90
+Xóm Mỹ Xuân|VN||6h|ti|89f|8z
+Helena|US|Montana|2p|3lf|-8n8|8x|Helenopolis;Helina;Xelena
+Xaxim|BR||4w|-22w|-41x|8v
+Xiagezhuang|CN||7i|2tx|9aj|8j
+Xingyi|CN|Chongqing|7i|2b8|8bi|8i
+Xingang|TW||7l|1tg|9ab|8h|Singang
+Khorugh|TJ||6d|2w5|5ir|8h|Khorog;Xorog
+Xirivella|ES||9d|31n|-17|8c
+Xihu|CN|Shandong|7i|2qh|978|8c
+Khovd|MN||6j|3pd|72k|8a|Xovd
+Xichuan|CN||7i|2pb|86m|86
+Xàtiva|ES||9d|30b|-1g|86|Játiva
+Xindian|CN|Yunnan|7i|1y8|7u4|85
+Xizhou|TW||7l|1vg|9b9|7y
+Xinmin|CN|Chongqing|7i|2cg|8ab|7s
+Javea|ES||9d|2zq|h|7s|Xàbia
+Xinsheng|CN|Chongqing|7i|2do|8b8|7p
+Xiaodu|CN||7i|2b8|865|7n
+Xiaomian|CN||7i|2bo|87x|7k
+Chinguar|AO||x|-yw|19e|7g|Xinguar;Chingwari
+Gibraltar|GI||90|2se|-ev|7d|Xibraltar;Gibilterra;Calpe;Kamaka;Gibbilterra;Cebelitarık;Djibraltar
+Xialu|CN||7i|2b6|8c8|7b
+Haqqulobod|UZ||7m|35o|5kc|7b|Xaqqulobod
+Xenia|US||48|328|-6h5|78
+Xituo|CN||7i|2ch|8cm|74
+Xiasi|CN|Guizhou|7i|21o|8be|73
+Xuân Mai|VN||6h|1m2|85a|6z
+Xianglong|CN||7i|2c2|882|6y
+Shali|RU||9i|3bv|3ji|6y|Sjali;Chali;Šali;Xalí;Şela;Szali;Schali
+Whitehall Township|US||48|34z|-5tq|6x|Municipio de Whitehall;Xã Whitehall;Whitehall
+Xiyu|CN||7i|2ml|84i|6t
+Xingdaohu|CN||7i|1ob|8f5|6o
+Chios|GR||8p|2yl|20m|6o|Scio;Sakız;Chóra;Quíos;el Xiu;Khíos;Kástro;Hios;Chio;Xíos;Khóra;Kastron;Castro
+Xingfeng|CN||7i|2ou|860|6n
+Xilembene|MZ||11|-1wl|2ke|6l
+Xinlin|CN||7i|3zj|9lk|6j
+Harappa|PK||6q|2d3|5mf|6j|Harapa;Harapo;Xarappa
+Xiaying|CN||7i|2uw|97w|6i
+Xiejiawan|CN||7i|2op|845|65
+Xinmin|CN|Chongqing|7i|2du|8g3|63
+Khadyzhensk|RU||9i|3ff|31u|61|Khadyzjensk;Chadyschensk;Jadyzhensk;Khadyjensk;Chadyžensk;Xadıjensk;Khadíjensk;Ĥadiĵensk;Hadyžensk;Hadižensk
+Xanten|DE||8r|3zi|hx|60|Santen;Xantum;Ksanten;Sante;Castra Vetera
+Xinshi|CN|Chongqing|7i|2b8|89i|60
+Shimanovsk|RU||7x|40g|9uo|5z|Sjimanovsk;Schimanowsk;Chimanovsk;Šimanovsk;Ximanovsk
+Xoxocotla|MX|Morelos|41|1fx|-7np|5v
+Xinyingpan|CN||7i|23h|7sc|5u
+Xonacatlán|MX|México|41|1hw|-7oh|5r|Xonacaxtlán
+Xincheng|CN|Gansu|7i|2ob|7zr|5p|Hsin-ch’eng
+Xinglong|CN|Chongqing|7i|291|899|5p
+Xinglong|CN|Chongqing|7i|2b1|88f|5n
+Xo‘jaobod|UZ||7m|34z|5lk|5m|Khŭjaobod;Kojo-Abad;Khoji-Abad
+Sekong|LA||7v|16n|88g|5l|Xekong
+Xinglong|CN|Gansu|7i|2mk|84m|5i
+Goygol|AZ||61|34r|3ko|5i|Xanlar;Khanlar;Helenendorf;Elenendorf;Yelenendorf
+Xambabazar|CN||7t|2uh|6af|5i|Shenbebazar
+Jericho|PS||6g|2gj|2qh|5i|Arīḩā;Jericó;Jerihon;Jeriko;Gerico;Jerichas;Jerycho;Jērika;Chericó;Jeriĥo;Jeeriko;Ireachó;Xericó;Yerikho;Iericho;Ierihon;Yeriko;Eriha;Arihon;Arişa;Arihoon;Arihoo;Yerīhō
+Xitole|GW||8|wl|-156|5e
+Chalatenango|SV||2u|130|-6v2|5e|Čalatenangas;Xalatenanco;Chalatenanga
+Xochitepec|MX|Morelos|41|1g6|-7nn|5c|Xochiltepec
+Shushenskoye|RU||6u|444|73e|58|Sjusjenskoje;Schuschenskoje;Šušenskoje;Sosenskis;Susenszkoje;Şuşenskoye;Sjoesjenskoje;Ŝuŝenskoe;Xuxenskoie;Szuszenskoje;Sjoesjenskoe;Shushinskoe
+Xico|MX|Veracruz|41|1hy|-7hh|57|Jico
+Xintian|CN|Chongqing|7i|294|8cr|52
+Xapuri|BR||4s|-tl|-5aa|52|Xapury
+Xiaochuan|CN||7i|2lk|858|51|Hsiao-ch’uan
+Khasab|OM||72|20q|4c9|4z|al-Chasab;Chasab;Chasabas;Hasab;Xasab;Al Khasal
+Tebela|ET||2|in|2wx|4v|Humbbo Xabala;Tabala;Xabala
+Kholmskiy|RU||9i|3gl|2yn|4v|Cholmskaja;Xolmskaya;Jolmskaya;Kholmskaia;Holmskaja;Kholmskaya
+Xiaba|CN||7i|28w|87v|4v
+Xiulin|TW||7l|1v0|9dv|4r
+Xiangshui|CN||7i|2d6|8cj|4p
+Xigaoshan|CN||7i|2lp|84r|4m
+Xangri-lá|BR||4w|-2as|-3v0|4l
+Xiaojia|CN||7i|2c5|87r|4k
+Xinhua|CN|Yunnan|7i|1wr|7lk|4j
+Xiaochangshan|CN||7i|310|9gw|4h
+Xinsheng|CN|Chongqing|7i|2b8|85r|4d
+Charqueada|BR||4w|-1qj|-3oq|4b|Xarqueada;Chargeada
+Xiping|CN||7i|2o5|840|48
+Xalatlaco|MX|México|41|1ha|-7o5|46|Jalatiaco;Jalatlaco
+Xiabao|CN||7i|2fp|8g8|41
+Chiva|ES||9d|31n|-20|3y|Xiva de Bunyol
+Xuelin|CN||7i|1ry|7ok|3y
+Xiuqi|CN||7i|2gk|8e6|3v
+Xinsheng|CN|Chongqing|7i|28u|887|3v
+Xiannüshan|CN||7i|29q|8bc|3u|Xiannvshan
+Xudat|AZ||61|37n|3r8|3s|Khudat;Hudat;Khudaf
+Sainyabuli|LA||7v|1hi|7uj|3r|Sayaboury;Xaignabouli;Xayaburi;Xayaboury;Xayabury
+Xujia|CN||7i|2fw|8gn|3r
+Khvalynsk|RU||9s|41t|3pn|3q|Chwalynsk;Jvalynsk;Chvalynsk;Xvalınsk;Khvalinsk;Ĥvalinsk;Hvalynsk
+Xikhusese|ZA||o|-1wc|2eh|3p
+Xihai|CN||7i|2ug|7sg|3o
+Xikou|CN|Chongqing|7i|27g|8ek|3n
+Xihe|CN|Chongqing|7i|2a5|868|3i
+Xuddur|SO||14|bg|3dx|3h|Oddur;Huddur;Hudur;Xudur
+Xhafzotaj|AL||9y|36u|1ib|3g|Xhafë Zotaj;Xhaftozaj;Xhavzotaj
+Xicohtzinco|MX||41|1h9|-7kv|3f|Santo Toribio Xicotzinco;Santo Toribio Xicohtzingo;Xicohtzingo;Xicotzingo
+Aydarken|KG||65|32y|5i6|3b|Khaydarkan;Xaydarkon;Aidarken;Khaidarkan
+Xexéu|BR||4p|-og|-2qz|39
+Xinglong|CN|Chongqing|7i|29a|8ew|37
+Xinavane|MZ||11|-1xw|2j4|37
+Xambioá|BR||1k|-ht|-3qu|37
+Xuân Trùng|VN||6h|1mi|84g|37
+Xumingsi|CN||7i|2bs|8au|36
+San Miguel Xoxtla|MX||41|1h9|-7l3|35|Xoxtla
+Xinzhai|CN|Gansu|7i|2lg|82s|34
+Jaltenco|MX||41|1iv|-7n9|33|Xaltenco;Jaltengo
+Xiaohe|CN||7i|27m|8ds|33
+Xincheng|CN|Gansu|7i|2ou|872|2w
+Xinghua|CN|Gansu|7i|2mo|82i|2v
+Xaloztoc|MX||41|1hx|-7kd|2u|Xaloxtoc;Xalostoc
+Xinzo de Limia|ES||9d|38u|-lg|2u
+Xuyên Mộc|VN||6h|td|8ae|2q
+Xã Bình Giả|VN||6h|tl|89z|2q|Binh Gia
+Shyroke|UA|Dnipropetrovsk|98|3oh|2ke|2o|Chyroké;Schyroke;Sjyroke;Široke;Shiroke;Šyroke;Szyroke;Xiroke
+Xicoténcatl|MX|Tamaulipas|44|1rw|-7mu|2o|Xicohténcatl;Xicotencate
+Xiaoxi|CN||7i|26u|8ej|2m
+Xiaozhou|CN||7i|2dv|8df|2j
+Ấp Xuân Sơn|VN||6h|tl|8a7|2j|Xuan Son
+Xaltepec|MX|Puebla|41|1gg|-7j5|2h|Xultepec
+Kennedy Township|US||48|34g|-66i|2f|Kennedy;Municipio de Kennedy;Xã Kennedy
+Xiabaishi|CN||7i|22i|98g|2b
+Xindian|CN|Fujian|7i|1wd|94g|29
+Khankala|RU||9i|3ca|3j4|27|Xanġala;Hankala
+Khoni|GE||7n|39l|39u|25|Choni;Chonis;Honi;Joni;Xoni;Koni
+Santa María Xadani|MX|Oaxaca|41|19g|-7by|24|Xadani;Xandani;Santa María Xandani
+Xeldem|IN||6t|16d|5ps|22
+Xuân Lộc|VN|Hà Tĩnh Province|62|1f6|85s|22
+Cheste|ES||9d|31o|-1w|21|Xest
+Xianyi|CN||7i|2g1|8dt|20
+Xinwucun|CN||7i|1qp|8sl|20
+Xiaoliang|CN||7i|2ls|83x|20|Shaoliang
+Xocotla|MX||41|1gt|-7hq|20
+Xihai Town|CN||7i|2un|7sa|1z
+Shevchenkove|UA|Kharkiv|98|3u2|2va|1z|Schewtschenkowe;Ševtšenkove;Chevtchenkove;Şevçenkove;Xevtxénkove;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Xinhua|CN|Chongqing|7i|29g|8do|1z
+Xaltianguis|MX||41|1bi|-7oz|1y|Jaltianguis
+Xiaochang|CN||7i|29i|8df|1x
+Xixona|ES||9d|2z2|-1e|1x|Jijona
+Xinchengzi|CN||7i|2mi|824|1x
+Xiaolin|CN||7i|2ar|861|1w
+Xinxiang|CN|Chongqing|7i|2cq|8cr|1v
+Xiaonanhai|CN||7i|2ae|8e4|1v
+Xilitla|MX|San Luis Potosí|41|1nf|-7mz|1u|Xililla
+Khalmion|KG||65|33p|5iz|1r|Halmion;Xalmion;Kalmion
+Jaltocán|MX|Hidalgo|41|1mp|-7lq|1q|Xaltocan
+Xylofágou|CY||73|2p6|2m1|1o|Xylophagou
+Hazratishoh|UZ||7m|36z|5jf|1n|Xazratishoh;Xazratisho
+Khojaly|AZ||61|32v|3lz|1m|Xocalı;Ivanyan;Khodjaly;Xocalı rayonu;Ĥoĝali;Xocalın piirikunta;Khojali;Daerah Khojali;Khojali Rayon;Rayon Khojali;Distrito ng Khojali;Hocalı Rayonu;Rejon Xocalı;Hojali;Joyalí;Khodzhaly;Khozhali
+Xuân Sơn|VN||62|1cy|87c|1m
+Xambrê|BR||4w|-1ty|-44l|1m
+Xiasha|CN|Guangdong|7i|1qx|8s6|1m
+San José Xicohténcatl|MX||41|1hr|-7jr|1m|San José Xicoténcatl;Xicohténcatl;San José
+Xã An Ngãi|VN||6h|t4|89v|1l|An Ngai
+Xikou|CN|Chongqing|7i|2d1|8cy|1l
+Xitangtuo|CN||7i|318|92d|1l
+Shevchenkove|UA|Odesa|98|3ij|29h|1k|Schewtschenkowe;Sjevtsjenkove;Ševtšenkove;Ševčenkovė;Chevtchenkove;Sevcsenkove;Xevtxènkove;Ševčenkovo;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Xylókastro|GR||8p|2xs|1qv|1j|Xilókastron
+Xiditou|CN||7i|311|91z|1i
+San Dieguito Xochimanca|MX||41|1i5|-7mj|1g|Xochimanca;Xochimancan
+X-Cán|MX||3z|1ly|-6rj|1g
+Xinzhuang|CN||7i|30e|91y|1g
+Xóm Bến Củi|VN||6h|vb|87f|1g
+Xochitlan Todos Santos|MX||41|1fy|-7jm|1f|Xochitlán
+Xiaodian|CN||7i|311|91n|1f
+Hoshcha|UA||98|3wk|224|1f|Hoschtscha;Hoszcza;Xoshcha;Hochtcha;Hošča;Goşça;Hoșcea;Hoscha;Goshcha
+Xocotlán|MX||41|1i8|-7ml|1f
+Xipo|CN||7i|2m1|87n|1f
+Xiahu|CN||7i|21x|997|1f
+Xibing|CN||7i|22y|98k|1f
+Shkurinskaya|RU||9i|3lf|31c|1e|Sjkurinskaja;Schkurinskaja;Xkurinskaia
+Jaltepec|MX|México|41|1it|-7lz|1e|Xaltepec
+Xeraco|ES||9d|30f|-m|1e|Jaraco
+Xochihuehuetlán|MX||41|1dr|-7ll|1d
+La Concepción|MX|México|41|1ik|-7mo|19|Xometla;Xametla
+Khorosheve|UA||98|3uh|2sn|18|Choroschewe;Xorosheve;Ĥoroŝeve;Khorocheve;Choroševe;Khoroshevo
+Jacala|MX||41|1md|-7nj|18|Xacala
+Xalacapan de Lucke|MX||41|1ja|-7j3|18
+Xiwule|CN||7t|2uq|6a0|17
+Xarrë|AL||9y|32d|1jp|17|Xarë;Xarra
+Xalpatláhuac|MX|Guerrero|41|1cj|-7lx|17
+Xochistlahuaca|MX||41|1an|-7kw|16
+Kholm|RU|Novgorod Oblast|9i|4er|2em|14|Jolm;Xolm;Ĥolm;Chołm
+Xujiaba|CN||7i|25g|8cb|14
+Xpujil|MX||3z|1fe|-6wc|14
+Yayladere|TR||94|30z|33b|13|Holhol;Xorxol
+Xintian|CN|Guangdong|7i|1qo|8si|13
+Xıllı|AZ||61|31j|3se|13
+Xiaodongzhuang|CN||7i|30i|926|12
+Xuân Lạc|VN||6h|1gs|84g|12
+Xaltepuxtla|MX||41|1k2|-7k5|12|Xaltepaxtla
+San Miguel Jaltocan|MX||41|1is|-7n5|11|Xaltocan;Jaltocán
+Xagħra|MT||9e|2s5|13m|11|Caccia
+Xinan|CN||7i|228|98y|11
+Xalpatláhuac|MX|Guerrero|41|1ba|-7nx|11
+Xavantina|BR||4w|-237|-41e|11
+Xocoyucan|MX||41|1hn|-7l9|10|San Diego
+Xochipala|MX||41|1dh|-7os|10|Xochilapa
+Xanthia|ZA||o|-1wz|2ej|10
+Xylotymbou|CY||73|2pa|2lq|10|Xylotymvou;Xylotymbo
+Jaloxtoc|MX||41|1g0|-7mq|10|Santa María;Xaloxtoc;Xalostoc
+Xiacang|CN||7i|32j|926|z
+Xixin|CN||7i|2b4|8d4|z
+Xamït Erğalïyev awılı|KZ||5y|3nj|3y8|z|Novobogatīnskoe;Xamït Erğalïyev;Novobogatinskoye;Novobogatinsk;Novobogatinskiy
+Xianlong|CN|Gansu|7i|2lx|874|x
+Xewkija|MT||9e|2s3|13m|x|Šeukidža
+Xinle|CN|Chongqing|7i|2b5|8db|x
+Xin’an|CN||7i|1qp|8sg|w
+Xocchel|MX||3z|1lv|-6vq|w|Xochel
+Xitlama|MX||41|1eu|-7hi|w
+Kholmy|UA||98|403|2ik|v|Cholmy;H’olmy;Xolmi;Holmı
+Khambi-Irze|RU||9i|3c4|3i9|v|Xambi-Irzi;Xämbin-Irze;Hambi-Irze
+Xiling|CN||7i|22h|96p|v
+Xiyan|CN||7i|21y|8iv|v
+Xoloateno|MX||41|1j3|-7ih|u
+Khoronk|AM||80|33i|3ex|u|Xoronq
+Xicang|CN||7i|2o1|7ww|t
+Xianxi|CN||7i|215|8gk|t
+Xindian|CN|Fujian|7i|20k|97e|t
+Xóm Mười Lăm|VN||62|1he|85i|t|Xóm 15
+Xertigny|FR||9k|3pg|ht|s
+Xolotla|MX||41|1ka|-7kl|s
+Jalón|ES||9d|2zm|-1|r|Xaló
+Xiropótamos|GR||8p|36f|1uy|r
+Xonocuautla|MX||41|1iz|-7iw|q
+Chella|ES||9d|30g|-1u|q|Xella
+Chilches|ES||9d|32i|-j|q|Xilxes
+Xochitlán|MX|Morelos|41|1gg|-7mi|q
+Xaltepec|MX|Puebla|41|1k0|-7k8|q
+Xochimilco|MX|Puebla|41|1gc|-7jh|q
+Xikou Village|TW||7l|1vw|94g|q
+Xochiltepec|MX|Chiapas|41|161|-74r|q
+Xhimójay|MX||41|1jb|-7os|p|Ximojay
+Xocen|MX||3z|1l8|-6sw|o
+Xinzhan|CN||7i|26v|88u|o
+Altınüzüm|TR||94|2ul|2tl|o|Aydınoğlu;Xolto
+Hay|AU||8l|-2nv|b6c|o|Xey;Hey
+Xochinanacatlán|MX||41|1k3|-7jy|o|Xochinacatlan;Xochinamacatlan
+Xoxocotla|MX|Veracruz|41|1ft|-7hv|o
+Ghukasavan|AM||80|33g|3fe|n|Xukasavan;Gukasavan
+Xiasha|CN|Guangdong|7i|1ql|8sq|n
+Xiniás|GR||8p|30g|1pz|n|Xyniada;Xinía;Ksyniada
+La Concepción Xochicuautla|MX||41|1hu|-7o8|m|Xochicuautla
+Xalitzintla|MX||41|1h0|-7lo|m|Xolitzintla;Xalintzintla
+Xhixhata|MX||41|1jh|-7oj|m
+Xixi|CN||7i|24x|8k7|m
+Xiaoshajiang|CN||7i|24g|8jn|m
+Xiancun|CN||7i|22u|97k|m
+Xinli|CN||7i|30k|91y|m
+Xinghua|CN|Gansu|7i|2m2|87g|l
+Xinkaikou|CN||7i|328|91j|l
+Khankendi|AZ||61|32m|3lv|l|Chankändi;Hankendi;Stepanakert;Xankendi;Khankendy
+Xonalpu|MX||41|1jx|-7j5|l
+Xalatzala|MX||41|1cj|-7lt|k
+Xiquila|MX|Hidalgo|41|1mk|-7lg|k
+Xul-Ha|MX||2b|1fj|-6tq|k|Xula
+Xoteapan|MX||41|1f7|-7cn|k|Xoteapo
+Xarardheere|SO||14|cx|3oy|k
+Xoxonacatla|MX||41|1jl|-7k2|k
+Chelva|ES||9d|32f|-2s|k|Xelva
+Xeresa|ES||9d|30e|-m|k|Jeresa
+Jiquipilco|MX||41|1ic|-7op|j|Xiquipilco
+Xinzhou|CN|Guangdong|7i|1qk|8st|j
+Khndzoresk|AM||80|31r|3kz|j|Xnzoresk;Khinzirak
+Xochitlán|MX|Hidalgo|41|1ke|-7nj|j
+Khanjyan|AM||80|33n|3e6|j|Xanjyan
+Xopilapa|MX||41|1fe|-7ho|i
+Xgħajra|MT||9e|2rp|14f|i|Xghaira
+Xaya|MX||3z|1ke|-6vr|i|Xaja
+Khashtarak|AM||80|35q|3hi|i|Khashdirak;Xashtarak;Khach gyugh;Khachdarak;Khachtaragh;Khachtaraki;Sarhatlu;Sarhatu
+Xiangyun|CN||7i|1xd|948|i
+Xaibe|BZ||24|1f3|-6tn|i
+Shatoy|RU||9i|3b3|3ix|i|Šatoj;Sovetskoe;Şüyta-Ġala;Xatoi;Șatoi;Şüyta;Sovetskoye;Shatoi
+Sindihui|MX||41|1b8|-7if|i|Xindihui
+Xhendelesse|BE||8t|3wk|g2|h
+Jacarilla|ES||9d|2xq|-2f|h|Xacarella
+Xiawuqi|CN||7i|321|915|h
+Xumo|BW||m|-1mt|1wa|h|Xhumo
+Xocotepéc|MX||41|1ht|-7hx|h
+Xhendremael|BE||8t|3wu|f8|h
+Xbacab|MX||3z|1gm|-700|g
+Xhoris|BE||8t|3w5|fk|g
+Khizi|AZ||61|35n|3sb|g|Xızı;Hızı;Khizy
+Xichú|MX||41|1n6|-7py|g|Puerto de Palmas
+Xocoyolzintla|MX||41|1d7|-7my|g
+Xochapa|MX||41|1ca|-7lh|g
+Xiliguantun|CN||7i|2v0|8y2|g
+Jérica|ES||9d|32w|-1l|f|Xerica;Exerica
+Xonrupt-Longemer|FR||9k|3pk|j9|f
+Xochiatipan|MX||41|1lw|-7l1|f|Xochiatip
+Zothé|MX||41|1kl|-7p0|f|Xothé
+Xialiang|CN||7i|2h4|88l|f
+Xiaohenglong|CN||7i|24p|8j0|f
+Xcanatún|MX||3z|1mk|-6wz|f
+Xicoténcatl|MX|Tabasco|3z|1co|-75i|f
+Xaagá|MX||41|1ay|-7fl|f
+Xochicuautla|MX||41|1jp|-7jx|f
+Xishan|CN|Guizhou|7i|1zd|8eo|f
+Xylaganí|GR||8p|35t|1ym|e|Xilaganí
+Xanabá|MX||3z|1lw|-6v9|e
+X-Hazil Sur|MX||2b|1hv|-6sn|e
+Xochitlaxco (San Baltazar)|MX||41|1je|-7ju|e
+Xohuayan|MX||3z|1k3|-6wa|e|Xohuapan
+Jicayán de Tovar|MX||41|1bl|-7kw|e|Xicayan de Tovar
+Xilocuautla|MX||41|1jy|-7ka|e
+Xochiltepec|MX|Puebla|41|1ft|-7l6|e
+Khāşābād|IR||7o|2xb|3jm|e|Xasabad;Khāşebān
+Xochicalco (Cirenio Longares)|MX||41|1g7|-7nu|e
+Xochitepec|MX|Guerrero|41|1bq|-7nn|e
+Xalitla|MX||41|1e0|-7oi|e|Xolitla
+Xochitonalco|MX||41|1e9|-7h1|d
+X-pichil|MX||2b|1iq|-6ti|d|Xpichil
+Xochimilco|MX|Veracruz|41|1ly|-7kf|d
+Haymā’|OM||72|1jg|4cc|d|Hayma;Xaymo;Haima
+Xuchapa|MX||41|1fh|-7li|d
+Shorapani|GE||7n|38y|3bo|d|Shorap’ani;Szorapani;Sjorapani;Xoropan;Şorapani;Schorapani;Shorapan’;Schorpani;Shorpani
+Xochicoatlán|MX||41|1lq|-7m4|d
+Khachaghbyur|AM||80|33l|3ix|c|Khach’aghbyur;Xachaxbyur;Khachagbyur
+Jalpa|MX|Hidalgo|41|1mn|-7m7|c|Xalpa
+Xalatlaco|MX|Veracruz|41|1gx|-7hk|c
+Xmabén|MX||3z|1hg|-6w3|c
+Xalticpac|MX||41|1j4|-7j4|c
+Xiajiang|CN||7i|1zk|8dx|c|Hiakiang
+Xoxolpa|MX||41|1m0|-7le|c
+El Xhitey|MX||41|1ji|-7oh|c|Xhitey
+Xolostitla de Morelos (Xolostitla)|MX||41|1jr|-7m0|c
+Xayacatlán de Bravo|MX||41|1eo|-7k6|c|Zayacatlán de Bravo
+Xochitepec|MX|Puebla|41|1en|-7mo|b|Xochiltepec
+Xiloxochico de Rafael Ávila Camacho|MX||41|1jp|-7it|b
+Xul|MX||3z|1ju|-6wi|b|Xal
+Xococapa|MX||41|1lt|-7l7|b
+Xiantan|CN||7i|282|86z|b
+Zaliznychne|UA|Zaporizhzhia|98|3od|2sh|b|Zaliznytchné;XX-richia Zhovtnia;Salisnytschne;Zaliznytjne;Zaļiznične;Zaliznichne;Zaliznyčne;Zaliznyczne;Zaliznîcine
+X Cabil|MX||2b|1k1|-6tq|b|X-Cabil
+Zilacayotitlán|MX||41|1c2|-7lr|b|Xilacayotitlán
+Xiaolongmen|CN||7i|258|8i0|b
+Xochiapulco|MX||41|1j2|-7ja|b
+Hojeýpil|TM||5x|2xf|554|a|Khodzhapil’;Xo‘jaypil;Hojapil
+Santo Domingo Xagacía|MX||41|1bo|-7ff|a|Xagacía;Yagacia
+Xianrenwan|CN||7i|253|8ih|a
+Xacaxomulco|MX||41|1hb|-7hv|a|Zacaxomulco;Zacaxumulco
+Xoconoxtle el Grande|MX||41|1m6|-7si|a|Joconoxtle Grande;El Pueblito
+Xoampolco|MX||41|1iw|-7i3|a
+Xiteje de Zapata|MX||41|1ju|-7o2|a|Xitejé de Zapote
+Xhinte de Lagos|MX||41|1j2|-7oy|a
+Xiuxi|CN||7i|25q|8id|a
+Khachik|AM||80|322|3hl|a|Khach’ik;Chaczik;Xaçik
+Xirokámbion|GR||8p|2uo|1qd|a|Xirokámbi
+Xkeulil|MX||3z|1ij|-6zr|a|Xkeutil
+San Francisco Xochiteopan|MX||41|1g8|-7ly|a|San Francisco Xochitiopan;Xochiteopan;Xochitiopan
+Jalance|ES||9d|30w|-2z|a|Xalans
+Xalpitzáhuac|MX||41|1cf|-7mo|a|Xalpizauatl
+Xixingo de los Reyes|MX||41|1dp|-7ld|a|Xixingo
+Xolapa|MX||41|1bo|-7op|a|Solapa
+Xmuquel|MX||3z|1m2|-6s0|a|Mucel
+X-yatil|MX||2b|1im|-6to|9|Xiatil
+Gharibjanyan|AM||80|356|3do|9|Gharibjanian;Aleksandrovka;Xaribjanyan;Nor Karakilisa
+Xaltepec|MX|Veracruz|41|1ig|-7h9|9
+Xuchiles|MX||41|1g4|-7gy|9
+Xaltepec|MX|Veracruz|41|1hu|-7ig|9
+Xonotla|MX|Veracruz|41|1g2|-7hv|9
+Shamir|IL||6n|2k5|2r2|9|Šamir;Xamir
+Khot|AM||80|31k|3kq|9|Xot;Khovt
+Xcunyá|MX||3z|1mp|-6wx|9
+Xinó Neró|GR||8p|351|1o2|9|Ksino Nero;Xinón Nerón
+Xochimilco|MX|Puebla|41|1hd|-7hq|9
+Xochitepec|MX|Puebla|41|1jc|-7j0|9
+Xilita|MX||41|1jc|-7j3|9
+Chert/Xert|ES||9d|34k|g|9|Chert;Xert;Cheri
+Xala|MX||41|1iw|-7m1|9
+Xilotepec (Jilotepec Chiquito)|MX||41|1cd|-7lr|9
+Xaltianquisco|MX||41|1ht|-7kg|9
+Xcupil|MX||3z|1in|-6xm|9
+Xirókampos|GR||8p|2v3|22n|9|Xirókambos
+Ksyróvrisi|GR||8p|2yu|1th|9|Xirovrysi
+Xochitempa|MX||41|1cp|-7nh|9
+Xingongcun|CN||7i|1yi|8yo|9
+Xocotitla|MX|Hidalgo|41|1mp|-7ll|9
+Jarafuel|ES||9d|30q|-2z|9|Xarafull
+Xilokériza|GR||8p|2x8|1rq|8|Ksylokeriza;Xylokeriza;Ksilokeriza
+Xoyatla|MX||41|1g3|-7lb|8|Zoyatla
+Xuchitlán|MX|Hidalgo|41|1kn|-7nf|8
+Xitopontla|MX||41|1d7|-7mk|8
+Xochicuatla|MX||41|1nc|-7m9|8
+Xoconoxtle|MX|Guanajuato|41|1k8|-7td|8|Joconoxtle
+Xochimilco|MX|Puebla|41|1kf|-7kn|8
+Xechasméni|GR||8p|34p|1q2|8|Xekhasméni
+Xilocintla|MX||41|1eh|-7o2|8
+Xonotzintla|MX||41|1gs|-7hk|8
+Ayvalı|TR||94|357|38c|8|Xosor
+Xomotla|MX||41|1io|-7go|8
+Xcalak Dzonot|MX||3z|1ks|-6u1|8|Xkalakdzonot
+Xoconoxtle|MX|San Luis Potosí|41|1pe|-7rr|8
+Xochihuacán|MX||41|1jj|-7m7|8
+Xopanapa|MX||41|1hc|-7hr|8
+Zhepë|AL||9y|350|1kd|8|Zhepa;Xhepë
+Xalcuatla|MX||41|1mu|-7mc|8
+Xochimilco|MX|Hidalgo|41|1lr|-7ln|8
+Xcopteil|MX||3z|1kz|-6u2|8
+Xeuilley|FR||9k|3qx|gy|8
+Chulilla|ES||9d|325|-2g|8|Xulella
+Xiaojiangkou|CN||7i|25g|8it|8
+Xilitla|MX|Hidalgo|41|1mj|-7mh|8|Jilitla
+Xifianí|GR||8p|35p|1pc|8
+Xuchitlán|MX|Hidalgo|41|1mi|-7ma|8|Xuchutlán
+Xonotla|MX|Puebla|41|1jc|-7jy|8
+Ghazanchi|AM||80|363|3ds|8|Kazanchi;Xazanchi;Ghayghuli
+Xiquila|MX|Veracruz|41|1fz|-7hz|7
+Xonotipan de Juárez|MX||41|1fd|-7h6|7
+Khnatsakh|AM||80|321|3kv|7|Xnatsax
+Xitzo|MX||41|1kl|-7mv|7
+Xonotla|MX|Veracruz|41|1g0|-7gy|7
+Xonacatlán|MX|Guerrero|41|1cm|-7ld|7
+Geldo|ES||9d|32n|-1b|7|Xeldo
+Xaltipan|MX||41|1jt|-7ix|7
+Xaltipan (Sección Décima)|MX||41|1iw|-7ie|7
+Xiujtempa|MX||41|1fg|-7hm|7
+Xin’anzhen|CN||7i|32f|92h|7
+Xiloxuchicán|MX||41|1cj|-7ng|7
+Xometla|MX||41|1gp|-7hz|7|Xomitla
+Xilomichi|MX||41|1h5|-7hu|7
+Gestalgar|ES||9d|320|-2b|7|Xestalgar
+Xoy|MX||3z|1jw|-6v5|7
+Ginestra|IT||9o|35p|17p|7|Xhinestra;Genestrum;Zhura
+Xicotlán|MX||41|1e6|-7lo|7
+Xaltocan|MX||41|1hy|-7kt|7
+Xanton-Chassenon|FR||9k|3l1|-1y|7
+Xaltipanapa|MX||41|1id|-7iu|7
+Bellitaş|TR||94|2wp|33l|7|Xirbê Sitîl
+Xinglong|CN|Guizhou|7i|22r|8g1|7
+Xiaoping|CN||7i|240|8gr|7|Hsiao-p’ing
+Xochiojca|MX||41|1fr|-7h8|7
+Xaltipa|MX||41|1n1|-7mm|7
+Bulgurlu|TR||94|33m|39e|7|Xadîk;Hadik
+Xiteje de la Reforma|MX||41|1jy|-7od|7|Reforma
+Xochimilco (Reymundo Enríquez)|MX||41|1cb|-776|7
+Xalcuahuta|MX||41|1jt|-7iv|7
+Yolbulan|TR||94|2y7|323|7|Xidiran
+Xoloco|MX||41|1nn|-7mq|7
+Xuedong|CN||7i|231|8ed|7
+Xochitzinga|MX||41|1f9|-7ht|6
+Xiquila|MX|Veracruz|41|1gn|-7hz|6
+Xambao (Colonia Revolución)|MX||41|1b5|-7en|6
+Xocempich|MX||3z|1lp|-6u1|6|Xcompich;Xocenpich
+Xalpantzingo|MX||41|1jm|-7ir|6
+Xilópolis|GR||8p|35p|1se|6
+Xocotitla|MX|Hidalgo|41|1lt|-7l2|6
+Santa María Xoxoteco|MX||41|1l0|-7ly|6|Xoxoteco;Santa María;Xocoteco;Santa María Xoxoteca
+Xinonéri|GR||8p|318|1oq|6|Xironéri
+Xironomí|GR||8p|2y9|1s3|6
+Xibtla|MX||41|1fw|-7hn|6
+Xiloxúchitl|MX||41|1nb|-7kz|6
+Xochititla|MX||41|1n7|-7mh|6
+Xirochóri|GR||8p|35c|1ra|6|Xirokhóri
+Xaltitla|MX||41|1hy|-7jl|6
+Xuchiatipa|MX||41|1me|-7mv|6|Chotipa;Xochiatipa;Xochiatipan
+Xonacayojca|MX||41|1ff|-7hp|6
+Kemolar|TR||94|2wx|2xk|5|Öğütlü;Xazîkan;Gazikân
+Xalacahuantla|MX||41|1lr|-7ll|5
+Xaltatempa de Lucas|MX||41|1j8|-7jt|5
+Xaltepec|MX|Veracruz|41|1fg|-7hl|5
+Xtepén|MX||3z|1lu|-6xa|5|Xteppen
+Xmatkuil|MX||3z|1ly|-6wy|5|Xmatcuil
+Chera|ES||9d|320|-2p|5|Xera
+Xoconoxtlito del Llanito|MX||41|1mp|-7sg|5
+Xbonil|MX||3z|1fs|-6yh|5|X-Bonil
+Xirókambos|GR||8p|2pt|1ze|5|Xirokampos
+Khndzorut|AM||80|31v|3i5|5|Elmalu;Almalu;Chyndzorut;Almalı;Xndzorud
+Xaxajatic|MX||41|1bn|-740|5

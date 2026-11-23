@@ -1,0 +1,160 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Helsinki|FI||92|4n5|1xa|531|Khel'sinki;Helsingfors;Helsinko;Helsinky;Helsingi;Heilsincí;Helsinqui;Helsingia;Helsínquia;Helsset;Xélsinki;Èlzinki;Hel'sinki;Helsėnkis;Elsinki;Stadi
+Haifa|IL||6n|2j5|2p8|279|Hajfo;Hajfa;Ḥeyfa;Hayfa;Lungsod ng Ḥefa;Aifa;Hepha;H̱efa;Heifā
+Heihe|CN||7i|3vk|9u5|1q6|Chej-che;Hắc Hà;Háik-ò̤;Hek-hô-chhī;Hei-ho
+Hayward|US|California|3p|2wn|-9f4|17z|Heivordas;Hejvordo;Hejvorda;Heyvard
+Washington Heights|US|New York|48|35h|-5pe|16e
+Heidelberg|DE||8r|3t9|o5|13t|Hajdelbergo;Hejdelbergo;Heidlberg;Heidlbeag;Hajdelberg;Heidelberch;Haidlbärsch;Héydélbérg;Heydelberq;Heidelbarg;Edelberga;Heidelburg
+Sterling Heights|US||2q|3aa|-6en|10p
+Heilbronn|DE||8r|3si|pm|xj|Hajlbrono;Heilbronas;Hailprunna
+Hastings|GB||9b|3xa|1m|pt|Heistingsas
+Heidelberg|ZA|Gauteng|o|-21m|26s|nv|Heidelburg
+Heishan|CN|Liaoning|7i|37t|9f7|j2|He Shan
+Halesowen|GB||9b|41p|-5p|gp|Heilsovenas
+Heidenheim an der Brenz|DE||8r|3r8|s7|dx|Hoana;Heidenheim;Haidenhaim Brencal
+Heinsberg|DE||8r|3xu|gy|bj|Heinsburg
+Heist-op-den-Berg|BE||8t|3xw|d5|aj|Heyst-op-den-Berg
+Heilbron|ZA||o|-23s|25p|94
+Heiligenhaus|DE||8r|3yl|jd|7p|Hayligenhaus;Hillijehoes
+Eibar|ES||9d|3by|-6v|7m|Villanueva de San Andrés de Heybar;Villanueva de San Andrés;Ehibar;Heybar;Eybar;Heivar
+Heiloo|NL||8m|424|d1|6p|Heilo
+Heide|DE||8r|46k|pa|5q|Heid
+Heiligensee|DE||8r|425|10t|51
+Heinola|FI||92|4q1|20c|4x|Kheynola
+Heilbad Heiligenstadt|DE||8r|3yq|s6|4s|Hagiopolis in Eichsfeldia
+Heishui|CN||7i|28q|8e8|4s
+Heidenau|DE|Saxony|8r|3xl|12j|4n
+Lidzbark Warmiński|PL||a5|46d|1l6|4l|Heilsberg;Lidzbarka Varmiņska;Varmės Lidzbarkas;Kheyl'sberg;Heilsburg
+Hettstedt|DE||8r|3zh|vz|4f|Heiksteten;Hekstede;Hezstede
+Silute|LT||a3|49r|1no|46|Heydekrug;Szyłokarczma;Shilute;Heidekrug
+Heixi|CN||7i|2aa|8di|44
+Heiwadai|JP||7q|2rc|ary|3u
+Heist|BE||8t|3ym|90|3m|Eist;Heyst
+Heitai|CN||7i|3i5|a5n|3g
+Heidelberg|ZA|Western Cape|o|-2mp|1m8|2r
+Hayes|JM||3i|1do|-5yk|2p|Heisas
+Czersk|PL|Pomerania|a5|45g|1dy|2m|Čerska;Heiderode
+Heilsbronn|DE||8r|3t2|tz|2m
+Heiligenhafen|DE||8r|471|ui|2l
+Heishan|CN|Chongqing|7i|28c|898|2e
+Heiden|DE||8r|3zz|j9|29
+Heikendorf|DE||8r|471|sc|29
+Heinersdorf|DE||8r|421|11c|26
+Heidberg|DE||8r|413|t9|25
+Heidelberg|AU||8j|-2wv|b6z|22
+Mamonovo|RU||96|47a|1je|21|Heiligenbeil;Mamonowo;Šventapilė;Mamonova;Mamonovas
+Heidesheim|DE||8r|3tq|ms|1y
+Heino|NL||8m|41o|hb|1t
+Heythuysen|NL||8m|3yd|ge|1s|Heitse;Heythuizen
+Heighington|GB|England|9b|43t|-1a|1s
+Heillecourt|FR||9k|3r5|h8|1r
+Heingang|IN||6t|1x2|78z|1p
+Heidelberg Heights|AU||8j|-2wu|b6y|1o
+Heitersheim|DE||8r|3oz|la|1l
+Heiningen|DE|Baden-Wurttemberg|8r|3r6|qt|1j
+Heimberg|CH||a7|3lz|l4|1j
+Heidelberg West|AU||8j|-2wu|b6w|1j
+Heinsch|BE||8t|3u2|fz|1j
+Slavsk|RU||96|48w|1o8|1g|Heinrichswalde;Gastos;Sławsk
+Heimsheim|DE||8r|3rl|on|1g
+Heideck|DE||8r|3sh|ux|1e|Heydeck
+Heideviertel|DE||8r|41i|ra|1d
+Heimbach|DE|North Rhine-Westphalia|8r|3wo|hz|1b|Heimisch
+Heiligengrabe|DE||8r|43m|yc|1a
+Heidstock|DE||8r|3su|j4|1a
+Heiligenrode|DE||8r|3yj|qm|17
+Heiden|CH||a7|3ns|qh|14
+Heimenkirch|DE||8r|3ob|ri|11
+Bad Heilbrunn|DE||8r|3on|vu|11|Heilbrunn
+Heiligenstadt|DE||8r|3ui|v1|11
+Hei Hei|NZ||ak|-3cx|db8|z
+Heitoraí|BR||4w|-17o|-3uf|y
+Veshchevo|RU||9i|4op|292|x|Heinjoki;Vesjtsjevo;Heinijoki
+Heiligkreuzsteinach|DE||8r|3tg|og|w
+Heian|JP||7q|2pr|akd|v
+Heikinlaakso|FI||92|4nf|1xn|u|Henriksdal
+Heirok|IN||6t|1wb|79b|u
+Heiligenberg|DE||8r|3ou|pv|t
+Heinävesi|FI||92|4tf|27g|t|Heinnvesi
+Heist|DE||8r|451|qu|r
+Heidenreichstein|AT||a2|3rr|160|q
+Heidenheim|DE||8r|3s6|tu|q
+Heigenbrücken|DE||8r|3uz|q1|o
+Sainte-Croix-en-Plaine|FR||9k|3pd|kj|o|Heilig-Kreuz
+Heidelberg|NZ||ak|-3kz|czp|o
+Heidgraben|DE||8r|457|qw|m
+Heimbuchenthal|DE||8r|3ul|pu|m
+Heidenau|DE|Lower Saxony|8r|443|qt|l
+Heisterbacherrott|DE||8r|3wu|k3|j
+Heimertingen|DE||8r|3pf|s7|i
+Heidelberg|US|Texas|2f|20s|-7jw|h
+Heiligenstedten|DE||8r|45t|qb|h
+Hegykő|HU||8v|3oa|1ao|h|Hiećka;Hečkon;Hečkur;Heiligenstein
+Heijen|NL||8m|3zk|gm|g|Heien
+Heisdorf|LU||9c|3tz|h2|g|Heeschdrëf
+Heimiswil|CH||a7|3mr|lb|g
+Heinbockel|DE||8r|44t|px|g
+Heiligenkreuz am Waasen|AT||a2|3mg|17b|f
+Heiligenroth|DE||8r|3w5|lv|e
+Heikkilänkangas|FI||92|50h|1z5|e
+Heighington|GB|England|9b|47o|-4i|e
+Heijplaat|NL||8m|405|ca|e|Heiplaat
+Heiligerlee|NL||8m|43o|jh|e
+Heilangkou|CN||7i|321|924|e
+Heinrichs|DE||8r|3wk|tm|d
+Heimsbrunn|FR||9k|3ol|k3|d
+Ainaži|LV||9n|4gq|1vo|d|Heinaste;Ainažē
+Heimbach|DE|Rheinland-Pfalz|8r|3w5|kx|c
+Heidelberg|US|Pennsylvania|48|347|-66h|c
+Heistenbach|DE||8r|3vy|m7|b
+Heitenried|CH||a7|3m3|ka|b
+Heiligenblut|AT||a2|3mo|zo|b|Sveta Kri
+Heiligeneich|AT||a2|3q6|185|b
+Heide|NL|Limburg|8m|3xv|gb|a
+Heidelberg|CA||59|3cw|-67y|a
+Heimschuh|AT||a2|3lw|171|a
+Heinade|DE||8r|3zz|qr|a
+Heinsen|DE||8r|40m|qu|a
+Hei- en Boeicop|NL||8m|40a|e4|a
+Heimburg|DE||8r|3zy|ub|a
+Heihoek|NL||8m|3zs|fa|a
+Heidersdorf|DE||8r|3ws|119|a
+Heinrichsthal|DE||8r|3v3|py|9
+Heiligenstein|FR||9k|3qi|kp|9|Heljestain;Heiligentein
+Heiligenthal|DE||8r|3zd|wb|8
+Heiligenhagen|DE||8r|461|x6|8
+Heiteren|FR||9k|3p9|ky|8
+Heiligenkreuz im Lafnitztal|AT||a2|3mj|196|8|Rábakeresztúr
+Heikruis|BE||8t|3wy|bf|8
+Heiligenstedtenerkamp|DE||8r|45q|qb|8
+Heiningen|DE|Lower Saxony|8r|40n|tc|7
+Heindonk|BE||8t|3xv|c9|7|Heyndonck
+Heidenburg|DE||8r|3uc|j8|7
+Heinrichsbrunn|AT||a2|3q0|14d|7
+Heissingfelding|AT||a2|3n0|10f|7
+Heilwood|US||48|34u|-638|7
+Heidlersburg|US||48|32z|-5yb|7
+Heilig Landstichting|NL||8m|3zy|gc|7
+Heinersbrück|DE||8r|3zy|14b|7|Móst
+Heiderscheid|LU||9c|3ul|gm|7|Heischent
+Heilberscheid|DE||8r|3w2|lw|7
+Heidelberg|US|Mississippi|2f|2gl|-6v6|7
+Heinerscheid|LU||9c|3v6|gx|7|Hengescht
+Heiligenschwendi|CH||a7|3lv|lc|7
+Heidmühlen|DE||8r|45x|s0|7
+Heiligenmoschel|DE||8r|3tn|ll|7
+Heimersdorf|FR||9k|3o5|k4|7
+Heiås|NO||9j|4lu|ve|7|Båstad;Heiaas
+Heidwiller|FR||9k|3oe|k4|6
+Jindřichovice pod Smrkem|CZ||9m|3xk|16d|6|Heinersdorf an der Tafelfichte
+Heinenoord|NL||8m|3zz|cg|6
+Heiligenberg|FR||9k|3qu|kj|6
+Heilles|FR||9k|3t1|6b|6
+Heilshoop|DE||8r|45p|ta|6
+Heide|NL|Limburg|8m|3yc|gs|6
+Heinrichswalde|DE||8r|44x|12a|6
+Heiligkreuz|AT||a2|3nd|vx|6
+Heiterwang|AT||a2|3nt|tv|5
+Heining-lès-Bouzonville|FR||9k|3sz|ib|5
+Heijningen|NL||8m|3zi|c9|5|Heiningen
+Heiligenkreuz|AT||a2|3pi|18s|5

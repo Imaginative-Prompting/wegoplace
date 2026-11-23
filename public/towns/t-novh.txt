@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Novhorod-Siverskyi|UA||98|40h|2ke|48|Nowhorod-Siwerskyj;Nóvgorod-Síverski;Siverų Naugardas;Severų Naugardas;Severianų Naugardas;Novhoroda-Siverska;Novogardia Severiae;Neapolis Scytharum;Novhorod-Sivers'kyj;Novogardia di Severia;Novgorod-Seversk;Novgorodul de Nord;Novgorod-Siverskıy;Novhorod-Siverskõi;Novhorod-Sziverszki;Nowogród Siewierski;Novhorod;Noŭharad-Sievierski;Novy Horod;Novyy Horod;Novyi Horod;Novhorodok;Novogorod-Severskiy;Novgorod-Severskiy;Novhorod-Sivers’kyy
+Nyu-York|UA||98|3q9|2x4|2p|Novhorodske;Niu-York;Nju Jork;Novhorodcke;Nju-Jork;Nowhorodske;Nyu York;Niou-Iork;Niu York;Ņujorka;Njoe-Jork;New York;Novgorods’ke;N’yu-York;N’yu-Iork
+Kamyanets|UA||98|3qc|2ip|1l|Novhorodka;Kam'yanets';Kamianets
+Chekhohrad|UA||98|3m3|2pk|c|Czechohrad;Čechohrad;Nowhorodkiwka;Novhorodkivka

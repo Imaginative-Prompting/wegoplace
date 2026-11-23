@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Xi’an|CN||7i|2n6|8el|2ry1|Hsi-an;Xian;Ŝiano;Sianas;Tây An;Siaņa;Ŝingano;Šjan;Singan;Sian
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Harbin|CN||7i|3j3|9rt|258j|Cáp Nhĩ Tân;Ha’erbin
+Hefei|CN||7i|2gi|91s|211f|Che-fej;Hefėjus;Hợp Phì;Hefejo;Ha̍p-pûi-chhī;Hăk-bùi;Hofej;Hozfeiz;Hefej;Hefey;Ho-fei
+Foshan|CN||7i|1rz|8q9|1xrt|Phật Sơn;Fo-šan;Fu̍t-sân-sṳ;Fošanas;Fosjan;Foŝan;Hu̍t-san-chhī;Hŭk-săng;Hotokeyama;Fak San;Fuk Shan;Fut Shan;Fatshan
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Hong Kong|HK||6i|1pw|8t5|1l2h|Hongkong;Victoria;Gon Kong;Hiŏng-gē̤ng;Honkongo;Heung Gong
+Hyderabad|IN||6t|1ca|61y|1hyl|Hajdarábád;Haidarabadas;Haiderabad;Hajderabad
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Huai'an|CN||7i|2lb|96m|z5m|Huaiyin;Chuaj-an;Hwaiyin;Huai-yin
+Fuzhou|CN|Fujian|7i|20e|97f|vld|Fucheu;Phúc Châu;Hók-ciŭ;Fudžou;Fu-čou;Fuk-chû-sṳ;Futsjou;Fuĝoŭo;Hok-chiu-chhī;Fucsou;Focheum;Fuzcouh;Fuçjou;Fužov;Fu-chou;Fuchau;Fouzhou
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Huainan|CN||7i|2in|910|nen
+Haikou|CN|Hainan|7i|1jn|8ij|n5s|Xeyko shehir;Hải Khẩu;Hajkou;Hajkoŭo;Chaj-kchou;Hái-kháu-chhī;Hāi-kāu;Haijgouj;Haykou;Haikow
+Huizhou|CN||7i|1s7|8tu|mdl|Huệ Châu;Xuyjo shehiri;Chuej-čou;Fi-chû-sṳ;Huitsjou;Hūi-chiu-chhī;Hiê-ciŭ;Hujdžov;Hui-chou
+Belo Horizonte|BR||4w|-1jc|-3e2|l00|Bel-Horizonto;Bhte;Belo Hte;B.H.;Urbs Pulchri Horizontis;Belu Orizonti;Belu-Orizonti;Bello Horizonte
+Haiphong|VN||62|1ly|88c|k98|Hải Phòng;Hajfong;Hajfongo;Hayfon
+Yunfu|CN||7i|1rp|8n8|k5s|Hùng-pù;Jün-fu;Vân Phù;Hûn-phû-chhī;Yün-fou
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Ouagadougou|BF||1a|yd|-49|imx|Wàadúu;Uagaduguo;Uagadugú;Vagadugu;Wagadugu;Huagadugu;Uaqaduqu;Ougadougou;Ouagadouga;Uagadougou
+Houston|US|Texas|2f|2ao|-7cw|huu|Hustono;Hustonia;Hyuston;Hiustonas;Hjūstona;Hiû-sṳ̂-tûn;Hjuston
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Port Harcourt|NG||u|da|jh|gcw|Port Harkortas;Ugwu Ọcha;Port Xarcourt;Port Harkurt
+Aleppo|SY||69|2sk|2v8|g6u|Alepo;Alep;Heleb;Alepas;Halep;Ḩalab;Xalab;Aleppu;Haleba;Ḥaleb;Halapia;Aleppe
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Hamburg|DE||8r|44r|rr|f8b|Hamburk;Hamborg;Hanburgo;Hampuri;Hambourg;Amburgo;Amborg;Augusta Gambriviorum;Hambuurich;Hamburch;Amburgu;Hambörj;Hamboarch;Hamepuka;Hamburq;Gamburg
+Hyderabad|PK||6q|1yk|59y|etp|Hajdarabad;Hajderabado;Haidarabadas;Haydarabad;Hiderábád;Haydarobod;Hajderabad;Haidarabad
+Fuyang|CN|Anhui|7i|2je|8xq|dnd|Fu-jang;Phụ Dương;Pâiu-iòng;Hū-iông-chhī;Fuyan;Fou-yang
+Phoenix|US|Arizona|4i|2kx|-8nb|cqd|Fenikso;Pēniki;Féniks;Fīniksa;Finiksas;Hoozdoh;Phoeniks;Finiks;Finiksos;Phenix
+Erbil|IQ||5z|2sj|3e9|cfz|Hewlêr;Arbil;Irbil;Hawler
+Fukuoka|JP||7q|2lc|a2a|cfw|Fukuoko;Fucuoca;Hukuoka
+Harare|ZW||n|-1dj|2e9|bwk|Arare
+Stockholm|SE||9w|4kt|1e7|bou|Estocolmo;Stokholmo;Štokholm;Estocolm;Sztokhòlm;Estokolmo;Tukholma;Stokkhólmur;Stoccolma;Holmia;Stokholmas;Stokholma;Stokholmi;Stokgolm;Stócólm;Estocòlme;Stokolm;Stockholbma;Stoccholm;Stocólma;Stokkolma;Stuculma;Estocolmu;Stuokhuolms;Estokolma;Stockolm
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Khulna|BD||6a|1rd|6ws|bkv|Kulno;Xulna;Hulna

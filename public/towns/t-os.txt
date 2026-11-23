@@ -1,0 +1,506 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Los Angeles|US||3p|2ml|-94g|thd|L.A.;Los-Anĝeleso;Angelopolis;Los Andželas;Los Anxhelos;Los Anxheles;Os Ánxeles;Losandželosa;Los Anjélés;Lo̍k-chhám-kî;Los-Anceles;Los-Anjeles;Luos Andžels;Los Andželes
+Osaka|JP||7q|2od|age|l8z|Osako;Osaca;Oszaka;Osaacke
+Oslo|NO||9j|4mf|tv|8cq|Oslas;Oslu;Asloa;Ōhoro
+Austin|US|Texas|2f|2c3|-7ji|7io|Ostin;Ostina;Ostinas;Ostins
+Osasco|BR||4w|-1td|-3lz|5me
+Osogbo|NG||u|ll|co|4z6|Oshogbo;Eshogbo
+Higashiosaka|JP||7q|2ob|agm|3t7|Higaŝiosaka;Osaca Orientalis;Higashi-ōsaka
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Osh|KG||65|34l|5m8|2hi|Osch;Osj;Osz;Oʻsh;Och;Oix;Ošas;Oša
+Ust-Kamenogorsk|KZ||5s|3ut|6dh|2gn|Öskemen;Ust-Kamienogorsk
+Ostrava|CZ||9m|3uf|1es|261|Ostrawa;Mährisch-Ostrau
+Osan|KR||7h|2v7|9sz|1uc|Vû-sân-sṳ
+Staryy Oskol|RU||9i|3yi|2x5|1r2|Stary Oskol;Starij Oskol;Staryi Oskol;Stari Oskol
+Vasyl'evsky Ostrov|RU||9i|4mi|2c1|1kf|Vasilinsaari
+Osmaniye|TR||94|2uz|2sp|1kc|Kinikan;Osmanijė
+Oshawa|CA||59|3dy|-631|1cq|Ošava
+Oshodi|NG||u|i8|9a|1bh
+East Helsinki|FI||92|4n9|1xo|1be|Itä-Helsinki;Östra Helsingfors
+Rio das Ostras|BR||4w|-1ql|-38i|1ap
+Osnabrück|DE||8r|417|md|1a9|Osnabruko;Ossenbrügge;Osnabrugensis;Osnabruga;Osnabriukas;Osnabrika;Osnabrueck
+Osorno|CL||4u|-34p|-5n5|11q
+Acilia-Castel Fusano-Ostia Antica|IT||9o|380|y9|zy
+Ōsaki|JP|Miyagi|7q|2z7|avl|zs
+Ōshū|JP||7q|30q|aw5|vd|Óšú;Ošiū;Ôsyû-chhī
+Dharashiv|IN||6t|1ei|5v8|v5|Osmanabad;Usmanabad
+Berdyansk|UA||98|3lw|2u7|tj|Osipenko;Berdiansk;Novo-Nogaisk;Kutur-Ogly;Berdjansk;Berdiansca;Berdjans'k
+Osnovyanskyi|UA||98|3uq|2so|pu|Osnovianskyi;Osnovianskyi raion
+Ozersk|RU|Chelyabinsk|7z|4aw|4om|mi|Chelyabinsk-65;Chelyabinsk-40;Ozyorsk;Ozjorsk;Osjorsk
+Joensuu|FI||92|4tw|2ao|ls|Joensū;Ostia Carelorum;Jogensu;Jovensuu;Yoensu
+Oss|NL||8m|3zt|fc|l8
+Osijek|HR||a6|3ij|1fx|kz|Colonia Aelia Mursa;Mursa;Eszék;Mursia;Essek
+Ostrowiec Świętokrzyski|PL||a5|3xh|1nf|kk|Ostroveca Sventokšiska;Švento Kryžiaus Ostrovecas;Ostrowiec Kielecki;Ostrowiec nad Kamienną
+Ostrów Wielkopolski|PL||a5|3zi|1dh|k9|Ostrovo;Ostrovia;Ostrova Velkopolska;Didžiosios Lenkijos Ostruvas;Wjelgopolski Uostrůw;Ostrowo;Astrava;Ostrów;Ostrov
+Ostend|BE||8t|3ya|85|j6|Oostenn
+Seinäjoki|FI||92|4uf|1rf|ik|Östermyra;Seinejokis;Seinjogi
+Oshkosh|US|Wisconsin|2f|3ea|-6ty|ii|Oskosh
+Ostankinskiy|RU||9i|4b3|2wi|go
+Invercargill|NZ||ak|-3kw|czn|g4|Waihopai;Inverkargilas;Ostium Cargillense;Inbhir Chargaill
+Euskirchen|DE||8r|3wq|iv|f9|Öskerche
+Huesca|ES||9d|392|-15|f0|Uesca;Osca;Oska;Hueska;Güesca
+Ostrołęka|PL||a5|43h|1ny|ex|Ostrolenka
+Ostuncalco|GT||32|15b|-72i|ee
+Oshnavīyeh|IR||7o|2uw|3ha|e3|Oshnovīyeh;Oshnovīeh
+Östersund|SE||9w|4vi|14o|du|Estešundas;Estešunda
+Uzgen|KG||65|359|5nm|dq|Özgön;Ösgön;Özçent;Oʻzgan
+Osinniki|RU||74|44w|6ql|dl|Ossinniki
+Osório|BR||4w|-2b1|-3vn|d6
+Osu|GH||1|fg|-j|c8
+Oshakati|NA||1f|-1df|17m|c1|Ošakatis
+Auxerre|FR||9k|3os|9x|bj|Aussèrra;Antissiodorum;Oseras;Oser;Oksēra
+Ōzu|JP|Ehime|7q|2l2|a87|ba|Osu
+Netishyn|UA||98|3vt|221|a5|Nétichyn;Netischyn;Netišin;Atomodar;Korchahinsk;Ostrovsk
+Osmancık|TR||94|35u|2oo|a4
+Östermalm|SE||9w|4ku|1e8|a4|Stockholm kerületei
+Ostrogozhsk|RU||9i|3xb|30k|9k|Ostrogozjsk;Ostrogoschsk;Ostrogojsk;Ostrogožsk;Ostrogoshsk
+Osdorp|NL||8m|41g|dc|9j
+Oświęcim|PL||a5|3uz|1hd|9i|Auschwitz;Osvencima;Osvienčim;Osvencimas;Osvecimia
+Oswego|US|Illinois|2f|37s|-6tf|9g
+Ostfildern|DE||8r|3rd|pp|9c
+Ospino|VE||2c|pu|-5cx|9b
+Ostróda|PL||a5|456|1jg|9b|Osterode;Ostruda
+Osterholz-Scharmbeck|DE||8r|43v|of|8q|Oosterholt-Scharmbeek
+Osvaldo Cruz|BR||4w|-1ok|-3xc|8p
+Esztergom|HU||8v|3or|1g2|80|Gran;Ostrzyhom;Ostřihom;Salvio;Esterqom;Strigonio;Ostrogon;Strigoniu;Ostrigon;Strigonia;Strigonium;Salvio Mansio;Strigonie;Estergom;Strigoni;Estergon;Solva
+Osipovichi|BY||9g|443|27j|7z|Asipovichy;Sipovichi;Ospipovichi
+Osdorf|DE|Hamburg|8r|44u|re|7c
+Ossining|US||48|36c|-5p6|72
+Ostrov|RU||9i|4fa|26r|6t|Ostrow
+Osiedle Powstańców Śląskich|PL||a5|3xx|1ba|6r
+Ostuni|IT||9o|355|1cu|6q
+Osa|RU|Perm Krai|7z|4f4|4a2|6h|Ossa;Osza
+Ostrów Mazowiecka|PL||a5|42o|1ou|6b|Ostrova Mazovecka;Mazovijos Ostruva;Ostrów Mazowiecki
+Ossett|GB||9b|454|-4e|63
+Ostashkov|RU||9i|4er|2jz|5g|Ostachkov;Ostaškov;Ostasjkov;Ostaxkov;Ostaszków;Ostaschkow
+Osiedle Kosmonautów|PL||a5|3y1|1b4|5a
+Oschersleben|DE||8r|40j|v7|59|Oskersleva;Oscherslewwe
+Oswestry|GB||9b|42u|-8h|57|Croesoswallt;Osvestris
+Oshima|JP|Ishikawa|7q|2ur|ajx|56
+Oskū|IR||7o|2xc|3k4|55
+Oskarshamn|SE||9w|4f2|19p|53|Döderhultsvik
+Osuna|ES||9d|2vg|-e6|4z
+Oswego|US|New York|48|3cq|-5wj|4y
+Oshmyany|BY||9g|476|202|4o|Ašmena;Ashmyany;Aschmjany;Ashmiany;Achmiany;Ašmjany;Ašmiany;Ašmjani;Asjmjany;Oshmyana
+Osimo|IT||9o|3ct|11g|4m
+Osny|FR||9k|3sb|5q|4l
+Osowa|PL||a5|477|1fb|4g|Espenkrug;Òsowô
+Oschatz|DE||8r|3yi|10f|4g|Woseč;Ossitium;Ošaca
+Osmaneli|TR||94|344|2bd|4d
+Ostrov|CZ|Carlsbad Region|9m|3vr|zy|4c|Schlackenwerth
+Astraviec|BY||9g|47p|204|49|Astravyets;Astravas;Astraviets;Astravets;Astravjeca;Ostrovets
+Ostroh|UA||98|3vt|21o|45|Osztroh;Ostróg;Ostrug
+Ōshima|JP|Yamaguchi|7q|2ma|a77|44
+Ostrzeszów|PL||a5|3yv|1dt|40|Ostšešova
+Oststadt|DE||8r|41i|r3|3w
+Ozurgeti|GE||7n|38g|38p|3v|Ozurget'i;Osurgeti;Ozurgueti;Ozourguéti;Ozoergeti;Ozurgethi;Ozurgety
+Arvika|SE||9w|4lq|yz|3v|Oscarsstad
+Ōsaki|JP|Kagoshima|7q|2fb|a3y|3r
+Ospitaletto|IT||9o|3ij|s0|3r
+Osterley|GB||9b|3z0|-z|3m
+Östringen|DE||8r|3sq|o7|3l
+Osterhofen|DE||8r|3ra|106|3b
+Ostheim|DE|North Rhine-Westphalia|8r|3xh|jk|39
+Oskaloosa|US|Iowa|2f|36q|-75c|38
+Ostwald|FR||9k|3qu|lf|35
+Osio Sotto|IT||9o|3iq|qn|34
+Ō-zanuki|JP||7q|2sk|ark|31|Ō-sanuki
+Oshie|CM||j|h1|rf|30
+Ostrhauderfehn|DE||8r|43m|l6|2z|Aastrauderfeen
+Ostbevern|DE||8r|40k|ls|2y|Ostbiärm
+Ossendorf|DE||8r|3xl|j7|2y
+Oshiage|JP||7q|2r7|ase|2x
+Staryye Ozinki|RU||9s|3y6|3u0|2p|Ozinki;Osinki;Ozinkhi
+Oshino|JP||7q|2qi|apq|2p
+Ostercappeln|DE||8r|41f|mv|2o
+Osternienburger Land|DE||8r|3zw|xe|2j
+Stary Sącz|PL||a5|3to|1lb|2i|Stari Sonča;Ószandec
+Osthofen|DE||8r|3u2|n4|2g
+Oostduinkerke|BE||8t|3y0|7g|2d|Ostdünkirchen;Ostdunkerque;Ostdunkerca;Ôostduunkerke;Oost-Dunkerke
+Osiek|PL|Lesser Poland|a5|3ur|1hi|28
+Oststeinbek|DE||8r|44q|s9|27
+Osinovo|RU||9i|4b8|3rs|26
+Osby|SE||9w|4cm|12v|24
+Ostseebad Kühlungsborn|DE||8r|46f|wm|23|Kühlungsborn
+Huéscar|ES||9d|2x1|-72|22|Osca
+Osakarovka|KZ||5s|3wg|5ll|21|Oskarovka
+Osceola|US|Arkansas|2f|2r7|-6xx|20
+Osterburg|DE||8r|42n|wn|20
+Ōshima|JP|Tokyo|7q|2oj|ar4|1z
+Ostrach|DE||8r|3p7|q2|1w
+Osmania University|IN||6t|1cd|625|1w
+Aschheim|DE||8r|3pt|wk|1t|Oscham
+Osterburken|DE||8r|3tb|q6|1s
+Osprey|US||48|23k|-6d5|1p
+Osire|NA||1f|-1mj|1c9|1n
+Ozerne|UA|Zhytomyr Oblast|98|3ve|27t|1m|Oserne;Ozërnoye
+Oščadnica|SK||8s|3tc|1gg|1l
+Ostroveni|RO||8u|3do|1ue|1l
+Ossi|IT||9o|34z|nv|1l
+Oshamambe|JP||7q|3a3|aty|1l|Osyamanbe
+Ostiglia|IT||9o|3h7|ux|1k
+Staryi Sambir|UA||98|3tc|1rw|1k|Stary Sambor;Staremiasto;Staryy Sambir;Ószambor;Sztarij Szambir;Staryy Sambor
+Oster|UA||98|3xj|2ds|1k
+Osoyoos|CA||5b|3s7|-97v|1k
+Ostseebad Binz|DE||8r|474|11t|1j
+Ostricourt|FR||9k|3w5|8f|1j
+Oshtorīnān|IR||7o|2mi|3r4|1j|Ūshtarinān
+Ostrov|RO|Constanța County|8u|3ek|241|1j
+Ospedaletto Euganeo|IT||9o|3hm|w8|1j
+Ostrožac|BA||9r|3gr|18a|1j|Ostražac
+Osiedle Henrykowskie|PL||a5|3xx|1bd|1i
+Ozerne|UA|Odesa|98|3i5|27n|1i|General Al. Averescu;Babele;Oserne
+Osica de Sus|RO||8u|3ex|1vk|1i
+Oshakan|AM||80|33u|3f4|1g|Oschakan;Ochakan;Osjakan;Oşakan;Oszakan
+Osterrönfeld|DE||8r|46t|qy|1g
+Ostrovskoye|RU||9i|4gl|39c|1f|Ostrovskoje
+Osceola|US|Iowa|2f|35z|-78h|1e
+Osio Sopra|IT||9o|3ir|qm|1d
+Oslavany|CZ||9m|3sg|19e|1d|Oslavani;Oslawan
+Osmeña|PH|Mimaropa|71|t8|995|1d
+Ostrovnoy|RU||9i|591|31r|1b|Iokanga;Ostrovnoj;Ostrovnoi;Ostrownoj;Osztrovnoj;Ostrovnojus;Yukansk;Yukanski;Iokanka;Yokan’ga
+Itäkeskus|FI||92|4n9|1xo|1b|Östra Centrum;Itis
+Östhammar|SE||9w|4ne|1f1|1b
+Osypenko|UA||98|3mb|2ua|1b|Ossypenko;Osipenko;Ossipenko;Oszipenko
+Ossipee|US|New Hampshire|48|3dd|-5hk|1b
+Teuva|FI||92|4tk|1oe|1a|Östermark
+Osek|CZ|Ústí nad Labem Region|9m|3wm|121|19
+Osnago|IT||9o|3iw|q3|19
+Osa|RU|Irkutsk Oblast|6k|44b|80j|19
+Osage Beach|US||2f|2xx|-75d|18
+Boykivske|UA||98|3np|2xm|18|Tel’manovo;Tel'manove;Bojkiwske;Telmanowe;Boïkivske;Ostheim
+Ostrau|DE|Saxony|8r|3y9|zs|18
+Bili Oslavy|UA||98|3qo|1wm|18|Osław Biały;Osławy Białe;Oslav Byaly
+Osawatomie|US||2f|2yy|-7br|17|Osawattamie;Ossawatamie
+Ostseebad Zinnowitz|DE||8r|468|12n|16
+Oskarström|SE||9w|4ds|101|16|Oskarsström
+Oshima-shiriuchi|JP||7q|37k|au2|16
+Ossona|IT||9o|3if|op|15
+Osteria Grande|IT||9o|3ff|w0|15
+Ostružnica|RS||8q|3g9|1kg|15
+Osiek nad Notecią|PL||a5|43k|1c1|14|Netzthal
+Ostrytsya|UA|Chernivtsi|98|3q2|20d|14|Ostrytsia;Ostrița
+Osborne Park|AU||8k|-2gm|8xp|14
+Ossendrecht|NL||8m|3yr|c1|14
+Osielsko|PL||a5|43r|1e8|13
+Oštra Luka|BA||9r|3h0|1fm|13
+Ösmo|SE||9w|4ju|1dq|13
+Osterwieck|DE||8r|40d|tr|12
+Ośno Lubuskie|PL||a5|41p|15c|11|Ośno;Drossen;Osno Lubuske
+Ostheim|DE|Bavaria|8r|3w6|sf|11
+Oslob|PH||71|qg|9iv|11
+Ostrovtsy|RU||9i|4af|2xl|11
+Itäranta|FI||92|4nw|1ps|11|V kaupunginosa;V stadsdel;Öststranden;V District
+Itä-Pasila|FI||92|4n8|1xa|11|Östra Böle
+Osage|US||2f|3c8|-75t|11
+Ravno Selo|RS||8q|3i9|1ii|10|Sóvé;Ósóvé
+Osii|UA||98|3qc|1s7|10|Osiy
+Osobnica|PL||a5|3u3|1ng|z
+Ostrovu Mare|RO||8u|3fa|1qk|z|Ostrovul-Mare
+Osečina|RS||8q|3f9|1ig|y
+Ostojićevo|RS||8q|3jh|1k1|y|Sankt Nikolaus an der Theiss;Tiszaszentmiklós;Ostrojćevo;Ostojćevo;Tisa Sent Mikloš
+Ostrožská Nová Ves|CZ||9m|3s4|1cg|y
+Ossian|US|Indiana|38|35k|-6kl|x
+Oschiri|IT||9o|354|pa|x|Oscheri;Oscari
+Oshikuku|NA||1f|-1d0|170|x
+Osias|PH||71|l4|9mq|w
+Oskil|UA||98|3sm|2vy|w
+Oșorhei|RO||8u|3mn|1p9|w|Fugyivásárhely
+Oşeşti|RO||8u|3lx|24b|v
+Ostra|RO||8u|3no|1zl|v
+Osinki|RU||9p|42s|3tj|v
+Aasiaat|GL||4e|5av|-42u|u|Egedesminde;Uosiuots;Osiotas
+Ochsenwerder|DE||8r|44k|s2|u|Ossenwarder;Ochsenwärder
+Osielec|PL||a5|3u0|1iy|u
+Ostritz|DE||8r|3xp|15h|u|Wostrowc;Ostrica
+Ostuacán|MX||41|1cd|-77a|u|Oxtuacan
+Santa Ana|MX|Chihuahua|2g|28n|-8aj|u|Oscar Soto Maynez
+Osobowice-Rędzin|PL||a5|3y5|1b6|u
+Osina|PL||a5|44w|15p|u
+Ostra|IT||9o|3d6|10k|t
+Itäharju|FI||92|4nx|1pz|t|Österås;Oesteraas
+Osmeña|PH|Bicol Region|71|zd|9il|t
+Osterville|US||48|37n|-5fj|t
+Osięciny|PL||a5|427|1g0|s
+Osage City|US||2f|2zb|-7e7|s|Thành phố Osage
+Ossa de Montiel|ES||9d|308|-7n|s|Osa de Montiel
+Ostiano|IT||9o|3hm|sh|s
+Ospedaletti|IT||9o|3do|lg|s|Spiareti
+Osseo|US|Minnesota|2f|3hc|-77g|r
+Ospina|CO||27|2y|-5zh|r
+Ostashëvo|RU||9i|4b6|2rm|r|Ostasjevo;Ostashovo
+Osilo|IT||9o|356|o3|r
+Osiao|PH||71|10d|9ke|r
+Itä-Hakkila|FI||92|4nh|1xr|r|Östra Haxböle
+Oshikango|NA||1f|-1cc|185|r|Ošikangas
+Østbirk|DK||8y|4bg|r4|q
+Oßling|DE||8r|3yo|13d|q|Wóslink
+Elsbethen|AT||a2|3oo|10c|q|Ösbethen
+Osgoode|CA||59|3hf|-5u0|q
+Ostseebad Boltenhagen|DE||8r|45z|v4|q|Boltenhagen
+Osigo|IT|Lombardy|9o|3jg|pu|q
+Ōshio|JP||7q|2wn|asu|q
+Ostelsheim|DE||8r|3rd|ol|p
+Osychky|UA||98|3pp|2bf|p|Ossytchky
+Osie|PL||a5|44w|1ey|p
+Osceola|US|Wisconsin|2f|3hw|-75i|p
+Ospel|NL||8m|3yi|g2|p
+Osoppo|IT||9o|3ki|10c|p|Osof
+Osiedle-Nowiny|PL||a5|3x6|1l2|p
+Osceola|US|Indiana|38|37r|-6n4|p
+Oscar Bressane|BR||4w|-1q0|-3vo|p
+Oshidomari|JP||7q|3ho|aw9|p|Ositomari;Oshitomari
+Ossora|RU||6p|4kl|ckz|o|Osszora;Osora
+Osdorf|DE|Schleswig-Holstein|8r|477|ru|o
+Astrashytski Haradok|BY||9g|467|24y|o|Ostroshitskiy Gorodok;Ostroshitski Gorodok
+Osteel|DE||8r|44q|k5|o
+Ostrytsya|UA|Chernivtsi|98|3q4|20d|o|Ostrytsia;Cotul Ostriței
+Ostūh|IR||7o|2nd|3ss|o|Estūh
+Ostoros|HU||8v|3oz|1kr|o
+Osted|DK||8y|4ac|x8|n|Ousted
+Osteria Nuova|IT|Emilia-Romagna|9o|3fu|v8|n
+Österbybruk|SE||9w|4n8|1dq|n
+Osburg|DE||8r|3u4|iu|n
+Ostravice|CZ||9m|3tm|1f3|n|Ostrawica
+Oshivelo|NA||1f|-1fq|1bp|n
+Ossun|FR||9k|3by|-3|n|Aussun;Aussun de Tarba
+Ospedaletto|IT|Veneto|9o|3iu|xk|n
+Ostrov|RO|Tulcea County|8u|3gt|267|m
+Ostrów Lubelski|PL||a5|3z1|1rh|m
+Osternienburg|DE||8r|3zv|xf|m
+Ostermiething|AT||a2|3ph|zn|m
+Ősi|HU||8v|3mz|1ej|l
+Ossun|US||2f|2c4|-73v|l
+Osieczna|PL|Greater Poland|a5|406|1ac|l|Osečna;Oßieczna;Storchnest
+Oxtotitlán|MX|Guerrero|41|1ej|-7pl|l|Ostotitlán
+Oshykhliby|UA||98|3qi|1ze|l|Ochykhliby;Oșehlib
+Osmonmäki|FI||92|4qv|1u2|l
+Osebiți|RO||8u|3la|22k|k
+Osiek|PL|Świętokrzyskie|a5|3wc|1nk|k|Osiel
+Osten|DE||8r|456|pj|k
+Osumacinta|MX||41|1b2|-76l|k|Usumacinta
+Osokorky|UA||98|3vy|2d0|k
+Osloß|DE||8r|41r|to|k
+Ostroróg|PL||a5|427|19p|k|Oßtrorok
+Ostend|NZ||ak|-2u8|di8|k
+Ostrowy nad Okszą|PL||a5|3xm|1gx|j
+Osborne|AU||8b|-2oo|aoq|j
+Ostra Vetere|IT||9o|3d4|10a|j|Ostra Vetus
+Oster|RU||9i|462|2j4|j
+Ostellato|IT||9o|3gb|x6|i|Ustullatum;Ostełato
+O'Sullivan Beach|AU||8b|-2pk|aon|i
+Ospedaletto Lodigiano|IT||9o|3hh|qm|i
+Ostrów|PL|Subcarpathia|a5|3ut|1rb|i
+Ostrówek|PL|Mazovia|a5|41j|1nd|i
+Oswego|US|Kansas|2f|2v9|-7c7|i
+Ostopovice|CZ||9m|3sk|19z|i
+Osel’ki|RU||9i|4n9|2cq|h|Osselki
+Östra Ljungby|SE||9w|4c4|10d|h
+Ostseebad Prerow|DE||8r|478|yy|h
+Osakis|US||2f|3jf|-7cb|h
+Osseo|US|Wisconsin|2f|3ft|-71f|h
+Ostrówek|PL|Mazovia|a5|41z|1og|h
+Östervåla|SE||9w|4n6|1bq|h
+Ostseebad Dierhagen|DE||8r|46t|yc|h
+Osséja|FR||9k|39t|5i|h|Oceja
+Osann-Monzel|DE||8r|3uo|jb|h
+Osoi|RO|Iași County|8u|3mt|258|g
+Osgood|US||38|30p|-6kx|g
+Osieczany|PL||a5|3ug|1ji|g|Osiczany
+Ūşarīn|PS||6g|2h8|2q3|g|Osarīn
+Ostryna|BY||9g|459|1w5|f|Ostrina;Astryna
+Ostenfeld|DE|Schleswig-Holstein|8r|47a|pn|f
+Osburn|US||3p|3nz|-8y8|f
+Ostrów|PL|Subcarpathia|a5|3v6|1nz|f
+Ostrožská Lhota|CZ||9m|3s2|1cj|f
+Osek|CZ|Plzeň Region|9m|3ua|11r|e
+Ostheim|FR||9k|3ps|kh|e
+Osica de Jos|RO||8u|3ew|1vg|e
+Osječenik|RS||8q|3bv|1j6|e
+Osteria del Gatto|IT||9o|3c9|zf|e
+Osiek|PL|Lesser Poland|a5|3vk|1ig|e
+Ospedalicchio|IT||9o|3bo|yq|e
+Izvin|RO||8u|3j8|1nm|e|Őszény
+Österfeld|DE|Baden-Wurttemberg|8r|3re|pc|e
+Osborne|US|Kansas|2f|31k|-7m6|e
+Ostroměř|CZ||9m|3vx|177|e
+Osterfeld|DE|Saxony-Anhalt|8r|3xw|x5|e
+Osek nad Bečvou|CZ||9m|3tj|1cp|e
+Osterspai|DE||8r|3vk|l5|e
+Oßmannstedt|DE||8r|3xq|vr|d|Oßmanstedt
+Ostanino|UA||9t|3hx|2rr|d
+Ostrivne|UA||98|3j4|28z|d
+Ostroszowice|PL||a5|3wp|1a8|d
+Asvieja|BY||9g|4bl|263|d|Asveja;Oświeja
+Ospedaletto d'Alpinolo|IT||9o|35q|14z|d
+Ostrowite|PL|Kujawsko-Pomorskie|a5|43f|1hl|d
+Oštarije|HR||a6|3hm|16f|d
+Ossago Lodigiano|IT||9o|3ho|qi|d
+Oscano|IT||9o|3bw|ya|d
+Oskava|CZ||9m|3um|1bl|d
+Ostseebad Göhren|DE||8r|46y|126|d|Göhren
+Āshān|IR||7o|2w6|3km|d|Oshān;Āsān
+Ostrowsko|PL||a5|3tg|1ju|d
+Oxtotitlán|MX|Guerrero|41|1d3|-7n3|d|Oztotitlán;Ostotitlán
+Osinja|BA||9r|3gl|1dn|d
+Oslip|AT||a2|3ov|1a6|c|Uzlop;Oszlop
+Osjaków|PL||a5|3yh|1g7|c|Oszjaków
+Ostrov|SK||8s|3r3|1dd|c
+Osteria Nuova|IT|Lazio|9o|38s|y7|c
+Ostrowy|PL||a5|41a|1h9|c
+Osečná|CZ||9m|3wt|15g|c
+Osivtsi|UA||98|3zk|1x6|c
+Asnyezhytsy|BY||9g|40z|20l|c|Osneĵicy
+Osteria|IT||9o|3cz|106|b
+Osoblaha|CZ||9m|3vo|1d8|b|Osobłoga;Osobłaga
+Ostrovskoye|UA||9t|3j2|2mn|b
+Osiek|PL|Lower Silesia|a5|3yp|193|b|Ossig
+Osceola Mills|US||48|35h|-61f|b
+Ostrov u Macochy|CZ||9m|3t6|1ak|b
+Osterhausen|DE||8r|3yx|vy|b
+Oskaloosa|US|Kansas|2f|30y|-7cr|b
+Ostrovu|RO||8u|3hk|1zy|b
+Osiek|PL|Kujawsko-Pomorskie|a5|431|1g9|b
+Osík|CZ||9m|3ug|198|b
+Ostrężnica|PL||a5|3vf|1id|b
+Ospedaletto|IT|Emilia-Romagna|9o|3e6|yx|a
+Ospedaletto|IT|Veneto|9o|3ie|u4|a
+Ostapie|UA||98|3tn|2ls|a|Ostap'ye
+Ostaszewo|PL||a5|46l|1gn|a
+Ossé|FR||9k|3pi|-41|a|Oc'heg;Ocheg
+Osiek|PL|Pomerania|a5|458|1fd|a
+Osiecznica|PL|Lower Silesia|a5|3yl|16u|a|Wehrau
+Ostrożnica|PL||a5|3vk|1e8|a
+Osmanbükü|TR||94|2x2|254|a
+Oslon|FR||9k|3ly|do|a
+Ostereistedt|DE||8r|442|ph|a|Oostereis
+Osthouse|FR||9k|3qg|l8|a|Osthausen;Ohscht
+Osogna|CH||a7|3kn|oz|a|Usonia
+Ostrau|DE|Saxony-Anhalt|8r|3yj|xi|a
+Osikov|SK||8s|3sl|1n2|a
+Osiek|PL|Kujawsko-Pomorskie|a5|43p|1hv|a
+Oselivka|UA||98|3qk|21y|a|Chișla-Nedjimeni;Ossélivka
+Osiek|PL|Łódź Voivodeship|a5|3yp|1ek|a
+Osoi|RO|Iași County|8u|3mt|23j|a
+Ostrohe|DE||8r|46m|pd|a
+Ossuccio|IT||9o|3jp|pi|a|Ausacium;Ossusc
+Osiecznica|PL|Lubusz|a5|40o|15t|a
+Ossingen|CH||a7|3o9|o9|a
+Ostřetín|CZ||9m|3v0|18j|a
+Osieck|PL||a5|40d|1ni|a
+Ossineke|US||2q|3gq|-6fs|9
+Ostrowy Tuszowskie|PL||a5|3vs|1o5|9|Ostrowy Tunowskie
+Oșlobeni|RO||8u|3mp|21c|9
+Osceola|US|Missouri|2f|2xp|-78a|9
+Osterby|DE||8r|479|r3|9
+Oscoda|US||2q|3fe|-6fh|9
+Ostřešany|CZ||9m|3uv|17x|9
+Österbymo|SE||9w|4gm|16f|9
+Ostrov nad Oslavou|CZ||9m|3th|18f|9
+Ostapivka|UA||98|3vk|2lj|9|Ostapovka
+Osenbach|FR||9k|3pb|k2|9
+Osterberg|DE||8r|3pr|s9|9
+Ošupe|LV||9n|4dx|22a|9
+Östansjö|SE|Örebro|9w|4k1|15m|9
+Östra Husby|SE||9w|4iq|19z|9
+Aucaleuc|FR||9k|3qm|-5x|9|Oskaleg
+Osvětimany|CZ||9m|3sa|1bx|9|Oswetiman
+Ostumán|HN||56|157|-6vp|9
+Östansjö|SE|Norrbotten|9w|53l|1co|9
+Ostrowiec|PL||a5|46s|1ab|9
+Osasio|IT||9o|3gn|l5|9
+Oosterhuizen|NL||8m|40w|gp|9|Osterhuzen
+Osceola|US|Nebraska|2f|36e|-7iz|9
+Ostseebad Baabe|DE||8r|470|122|8
+Osieczna|PL|Pomerania|a5|45d|1ek|8|Osieczno
+Oshkosh|US|Nebraska|2p|370|-7wa|8
+Ossian|US|Iowa|2f|3bv|-72w|8
+Hostun|FR||9k|3h3|eg|8|Ostun
+Osteria di Ramazzano|IT||9o|3bx|ym|8
+Ossimo Inferiore|IT||9o|3jm|sg|8
+Øster Vedsted|DK||8y|49n|oa|8
+Hostens|FR||9k|3fl|-1s|8|Ostens
+Os de Balaguer|ES||9d|38b|20|8|Os de Ballaguer
+Östra Karup|SE||9w|4cr|zy|8
+Osová Bítýška|CZ||9m|3t1|18x|8
+Ostseebad Ahrenshoop|DE||8r|472|yi|8
+Ossarn|AT||a2|3q3|17o|8
+Osini|IT||9o|32m|qe|8
+Osmate|IT||9o|3j7|o2|8
+Osso de Cinca|ES||9d|37r|j|8|Osso
+Osmond|US||2f|39o|-7j4|8
+Östra Grevie|SE||9w|4a3|10h|8
+Ostrovy|BY||9g|459|26v|7
+Osek|CZ|Central Bohemia|9m|3ue|12i|7
+Ossès|FR||9k|3c4|-3k|7|Orzaize;Ortzaize;Osés
+Oskar-Fredriksborg|SE||9w|4l0|1f7|7|Oscar Fredriksborg
+Osthoffen|FR||9k|3qz|l0|7
+Owsa|IR||7o|2ti|43y|7|Osā;Osās
+Osino|US||3p|35p|-8xa|7
+Osekovo|HR||a6|3ig|1a6|7|Oszekovo
+Ostrowite|PL|Kujawsko-Pomorskie|a5|43m|1gq|7
+Oster-Ohrstedt|DE||8r|47g|pm|7
+Ostocapa|MX||41|1ch|-7nm|7
+Ospedaletto|IT|Trentino-Alto Adige|9o|3jw|w3|7
+Ostoyahualco|MX||41|1d8|-7mx|7
+Osterzell|DE||8r|3p0|tv|7
+Ostrander|US||48|33v|-6f5|7
+Osmanköy|TR||94|30d|2c5|7
+Osa de la Vega|ES||9d|326|-7o|7
+Osiek Jasielski|PL||a5|3tw|1np|7
+Ostojićevo|BA||9r|3gm|1hf|7
+Os|NO||9j|4tm|v6|7
+Osiek|PL|Lower Silesia|a5|3xd|1c1|7|Hennersdorf
+Osmotherley|GB||9b|471|-3m|7
+Osterstedt|DE||8r|46b|ql|7
+Ospital Monacale|IT||9o|3g3|wi|7
+Soldano|IT||9o|3dr|la|7|O Saudan
+Ostrowy Baranowskie|PL||a5|3vu|1o6|7|Ostrowy Baranoskie
+Óssa|GR||8p|32f|1qq|7
+Ostiches|BE||8t|3ws|ag|7
+Osasco|IT||9o|3gl|ke|6
+Oslávia|IT||9o|3jp|11t|6|Oslavje
+Sibișel|RO||8u|3j3|1sl|6|Ósebeshely
+Ozawkie|US||2f|30z|-7d7|6|Osawkie
+Hospital|IE||8z|41r|-nf|6|An tOspidéal;Ospidéal Ghleann Áine
+Osiek Mały|PL||a5|418|1fo|6
+Ostenfeld|DE|Schleswig-Holstein|8r|46v|r6|6
+Augsdorf|DE||8r|3zc|w5|6|Ostdagesdorp;Ostagisdorff
+Osek|CZ|South Bohemian Region|9m|3t0|12s|6
+Ostrowo|PL||a5|48b|1eo|6
+Oslavice|CZ||9m|3t2|18f|6
+Osmancea|RO||8u|3e9|26o|6
+Oseredek|PL||a5|3w3|1sc|6
+Ossimo Superiore|IT||9o|3jn|sf|6
+Ostrov|CZ|Pardubice Region|9m|3up|19y|6
+Osuské|SK||8s|3r2|1cg|6
+Ostrovačice|CZ||9m|3sp|19l|6
+Osterbruch|DE||8r|45e|ou|6
+Ostrowite|PL|Greater Poland|a5|41i|1e4|6
+Ostramondra|DE||8r|3y8|vh|6
+Osthausen-Wülfershausen|DE||8r|3x9|us|6
+Osigo|IT|Veneto|9o|3jt|yb|6
+Oshnūzang|IR||7o|2u4|3ho|6|Oshnuzeng;Oshnūrang
+Ossipee|US|North Carolina|48|2sh|-64v|6
+Osteno|IT||9o|3jt|p8|6
+Ostrowite|PL|Warmia-Masuria|a5|44e|1hj|6
+Osynivka|UA||98|3ni|2by|5|Ossynivka;Osinovka
+Osvračín|CZ||9m|3tj|109|5|Wostračin
+Osborne|US|Pennsylvania|48|34l|-66p|5|Osborn
+Östersundom|FI||92|4ne|1xz|5
+Archángelos|GR|Central Macedonia|8p|364|1pw|5|Oșani;Ossiani;Arkhángelos
+Osmanville|FR||9k|3t1|-30|5
+Ostvik|SE||9w|508|1mj|5
+Oskořínek|CZ||9m|3vk|15w|5
+Österby|SE||9w|4gc|1g8|5
+Ostrowite|PL|Pomerania|a5|44z|1d3|5
+Östnor|SE||9w|4pj|148|5
+Osterwohle|DE||8r|42s|ul|5
+Osteria della Fontana|IT||9o|37x|10i|5
+Ostrówek|PL|Łódź Voivodeship|a5|3ym|1fq|5
+Ossey-les-Trois-Maisons|FR||9k|3qk|ae|5
+Osternberg|AT||a2|3q1|107|5
+Osteria Nuova|IT|Tuscany|9o|3dh|vi|5
+Borris in Ossory|IE||8z|432|-l8|5|Buiríos Mór Osraí;Borris-in-Ossory;Osorio Borisas
+Ostelucum|MX||41|1c7|-758|5
+Osteno-Claino|IT||9o|3js|p9|5

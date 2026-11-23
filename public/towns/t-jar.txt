@@ -1,0 +1,189 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Kharkiv|UA||98|3uu|2sp|ayr|Charkiw;Charkiv;Ĥarkov;Harkiv;Harkova;Charcovia;Charkovas;Harkiva;Charkov;Charków;Carcóvia;Kharkov;Jarkov;Ĥarkivo;Khar’kov
+Jamshedpur|IN||6t|1rc|6nf|ac2|Ĝamŝedpur;Dzsamsedpur;Cemşidpur;Džamšedpuras;Džamšedpura;Jamshidpur;Džamšedpur;Jarnshedpur
+Khartoum North|SD||r|17h|2id|7t6|Bahri;Khartum Nord;Sjeverni Kartum;Khartoum Nord;Jartum Norte
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Yaroslavl|RU||9i|4g3|32r|4p3|Jaroslawl;Iaroslavl;Jaroslavl';Jaroslavlj;Jaroszlavl;Iaroslavia;Jaroslavlis;Jaroslavļa;Jaroslavľ;Jaroslavelj;Jarosław
+Jardim Presidente Dutra|BR||4w|-1t3|-3kz|3lb
+Jardim Angela|BR||4w|-1tw|-3lx|2ei
+Jardim Sao Luis|BR||4w|-1ts|-3lu|202
+Erfurt|DE||8r|3xm|uo|1os|Erfordia;Jarobrod;Erpisfurt
+Jerez de la Frontera|ES||9d|2tx|-h2|1n5|Jerez;Ĥerezo;Xérès;Cheres de la Frontera;Xeresium;Xerez de la Frontera;Jarez de la Frontera
+Jaraguá|BR|São Paulo|4w|-1t4|-3lu|1ms|Jaraauá
+Jaraguá do Sul|BR||4w|-21l|-3sb|1jf
+Jaranwala|PK||6q|2f1|5ny|15s|Jaranvala;Džaranvala;Ĝaranvala;Jarnawala
+Jardim Helena|BR||4w|-1t8|-3kx|zy
+Jaramānā|SY||69|2l1|2sz|rs|Džaramáná;Dscharamana;Ceramana;Jéramâna;Jurmānā
+al-Yarmūk|SY||69|2kz|2su|rs|Yarmouk;Yarmouk Camp;Jarmúk;Al Yarmūk
+Jardim Paulista|BR||4w|-1th|-3lm|n9
+Jardim Botânico|BR||4w|-183|-3ot|lm
+Jardines de la Silla|MX||44|1z7|-7qb|ex
+Yartsevo|RU||9i|48y|2iu|en|Jartsevo;Yartseva
+Jaru|BR||4l|-t0|-4tj|e2|Juru
+Jerada|MA||d|2nb|-60|d7|Jarada
+Järvenpää|FI||92|4nz|1xp|d1|Träskända;Jervenpe
+Jardinópolis|BR|São Paulo|4w|-1me|-3oo|cl
+Jaraguá|BR|Goiás|4w|-17s|-3t1|ck
+Jarinu|BR||4w|-1s6|-3lt|af
+Jarosław|PL||a5|3uy|1r0|9v|Jaroslau;Jaroslavas;Jaroslava;Yaroslav
+Zharkent|KZ||5s|3ep|669|9k|Scharkent;Djarkent;Jarkent
+Jāridih|IN||6t|1u1|6mq|8v
+Yaring|TH||62|j3|7tl|8n|Jaring
+Jarabacoa|DO||4v|1h4|-5g8|8c
+Jarrow|GB||9b|48q|-44|87|Gyruum
+Jardim|BR|Ceará|2w|-l2|-314|7m
+Jarash|JO||5t|2ho|2rq|7i|Jerash;Gerasa;Jerasa;Djerash
+Jarocin|PL|Greater Poland|a5|40d|1cm|74
+Jarābulus|SY||69|2ua|2xl|6y|Carablus;Jerablus;Jirāblus;Jarablos;Jarablus
+Jardín América|AR||1n|-234|-49f|6x|Chardin Amerika
+Jardim|BR|Mato Grosso do Sul|2a|-1no|-4by|6o|Vườn
+Jurm|AF||6o|2ue|5gr|6f|Jurn;Jorm;Jarm
+Yarovoye|RU||63|431|62a|5w|Yarovoy;Jarovoje
+Jaral del Progreso|MX||41|1kl|-7sq|5p
+Jarājūs|EG||c|1zv|2j0|5o
+Jaruco|CU||36|1s0|-6bt|5m
+Yaransk|RU||97|4f6|3oz|5g|Jaransk
+Kharabali|RU||8o|3np|3n9|52|Jarabali;Ĥarabali;Charabali
+Jarwal|IN||6t|23g|6ai|4w
+Jardine's Lookout|HK||6i|1pv|8t7|41|Jardines Lookout
+Jardim de Piranhas|BR||2w|-hq|-2vr|3w
+Jaroměř|CZ||9m|3vw|188|3h
+Jardim do Seridó|BR||2w|-ia|-2u5|39
+Lexington Park|US|Maryland|48|2yb|-5wd|38|Jarboesville;Centerville;Lexingtonia Saeptum
+Jardim Alegre|BR||4w|-1v6|-3zl|34
+Jarville-la-Malgrange|FR||9k|3r7|h8|2u
+Yaroslavskiy|RU|Primorye|7w|3er|a7b|2s|Jaroslavskij
+Yarula|HN||56|138|-6so|2k|Jarula
+Jarny|FR||9k|3sk|gc|2f
+Yaremche|UA||98|3ql|1w7|29|Jaremcze;Yaremtché;Jaremcse;Jaremcsa
+Yarega|RU||9i|4w8|44u|29|Jarega
+Jaro|PH||71|v2|9mm|27
+Jardín|CO||27|fk|-5um|25
+Yarmolyntsi|UA||98|3sn|22j|22|Jarmolińce
+Jarovnice|SK||8s|3sa|1mi|20
+Jarhi|IN||6t|1sw|6eo|20
+Jarod|IN||6t|1qc|5np|20
+Jardim|BR|Ceará|2w|-9m|-30i|20
+Yardville|US||48|33m|-5re|20|Jardville
+Jaraguari|BR||2a|-1jy|-474|1z|Jarquarí;Jaraguary
+Yar|RU||9p|4ht|40r|1z|Jar
+Yarkovo|RU|Tyumen Oblast|7z|4fg|56b|1x|Jarkovo
+Jardas al ‘Abīd|LY||1d|2hq|1mb|1v
+Jaraíz de la Vera|ES||9d|33a|-fz|1v
+Järna|SE|Stockholm|9w|4k5|1ct|1o
+Jarikaba|SR||4h|g5|-49p|1o
+Jarjapupeta|IN||6t|1ei|6fs|1m
+Iargara|MD||8x|3kz|26z|1k|Jargara;Iagara;Yargara
+Yaroslavskaya|RU||9i|3fx|34e|1j|Jaroslavskaja;Yaroslavskoye
+Isen|DE||8r|3px|xi|1g|Jarna
+Yarkovo|RU|Novosibirsk Oblast|75|489|6dg|1f|Jarkovo;Yarkova
+Jargalant|MN|Bayan-Ölgii Province|6j|3md|711|1f
+Jardin Exotique|MC||9h|3dh|kl|1f
+Jaramataia|BR||3r|-qu|-2us|1f|Jarametais
+Xeraco|ES||9d|30f|-m|1e|Jaraco
+Yar-Sale|RU||7z|55r|5gs|1d|Jar-Sale
+Jaren|NO||9j|4nr|tc|1c
+Järvenperä|FI||92|4nc|1wn|1b|Träskända;J-perä;Jäbä;Jäke;Jäpikkä;Järtsi;Järvis
+Jarnac|FR||9k|3iw|-h|19|Iarnacum
+Jarplund-Weding|DE||8r|482|q6|18
+Jargeau|FR||9k|3oy|5x|16|Jargolium
+Jardim do Mulato|BR||2w|-gy|-3af|16
+Jariştea|RO||8u|3j6|237|15
+Jaroměřice nad Rokytnou|CZ||9m|3sd|185|15|Jaromeržice pie Rokitnas
+Yarensk|RU||9i|4sp|3se|13|Jarensk
+Jarrie|FR||9k|3hc|g0|13
+Haghartsin|AM||80|35a|3gx|10|Kuybyshev;Haxarcin;Jarkhech;Kuybishev;Haghardzin
+Jardines de San Sebastián|MX||41|1l0|-7za|z
+Jargalant|MN|Orhon|7s|3sa|820|y
+Jari|BR||4w|-29d|-46m|x|Jary
+Jarmen|DE||8r|45s|112|w|Jeromino
+Jarovce|SK||8s|3pi|1bj|v|Horvathjarfalu;Horbátjárfalu;Kroatisch Jahrndorf;Hrvatski Jandrof;Horvátjárfalu
+Jarandilla de la Vera|ES||9d|33h|-fq|v
+Jar|IN||6t|252|67w|v
+Jarrettsville|US||48|320|-5wg|t
+Jardínes del Grijalva|MX||41|1ah|-76f|t
+Järveküla|EE||9x|4ky|1wx|t
+Novyi Yarychiv|UA||98|3um|1vi|s|Jaryczów;Nowyj Jarytschiw;Novyy Yarychiv;Nowyj Jarycziw;Noviy Yarychiv;Novyï Iarytchiv;Novyj Jaryčiv;Novıy Yarıçiv;Novîi Iarîciv;Novyy Yarychev;Jarychow
+Jarácuaro|MX||41|1ic|-7ug|s
+Jarreng|GM||7|11u|-166|r
+Jarales|US||2p|2o5|-88k|p
+Jardim de Angicos|BR||2w|-fp|-2rx|o
+Jard-sur-Mer|FR||9k|3ky|-4e|o
+Jīrandeh|IR||7o|2ty|3ub|n|Jarindeh;Jārandeh
+Jarkovac|RS||8q|3hr|1lo|n
+Jarigue|PH||71|wz|9dc|l|Harigue
+Jarak|RS||8q|3gs|1iv|l
+Jarok|SK||8s|3q4|1dw|k
+Jardin|FR||9k|3ie|dn|k
+Jarmina|HR||a6|3hw|1g1|k
+Jardines del Edén|MX||41|1l1|-7z4|i
+Järbo|SE||9w|4oo|1a4|i
+Jardinópolis|BR|Santa Catarina|4w|-228|-42u|i
+Järna|SE|Dalarna|9w|4o5|13x|h
+Jaroszowice|PL||a5|3ui|1i8|h
+Jaroszowiec|PL||a5|3vu|1ig|h
+Járdánháza|HU||8v|3pr|1k9|h
+El Jardín|MX|Chiapas|41|1bp|-758|g|Jardín
+Järvsö|SE||9w|4rg|18x|g|Järvarebyjne;Järfsö
+Jarebice|RS||8q|3fq|1hy|f
+Jaresqān|IR||7o|29z|41z|f
+Järpen|SE||9w|4vz|11f|f
+Järvakandi|EE||9x|4ja|1wz|f
+Jarzé|FR||9k|3o4|-n|f
+Jaqué|PA||4g|kw|-614|f|Jagué;Jarque
+Jaraczewo|PL||a5|40d|1c2|e|Jaraczew
+Yaroslavka|UA||98|3k0|2az|e|Jaroslava;Iaroslava
+Järvensivu|FI||92|4qt|1u4|e
+Jarnołtów-Jerzmanowo|PL||a5|3y0|1av|e
+Jardim Olinda|BR||4w|-1qn|-40k|d
+Jaripeo|MX||41|1io|-7ss|d
+Jarocin|PL|Subcarpathia|a5|3wg|1q0|d
+Jaroslavice|CZ||9m|3rg|193|d
+Yaropolets|RU||9i|4bx|2rj|c|Jaropolets
+Yarẖiv|IL||6n|2hb|2p5|c|Jarchiv
+Jaroměřice|CZ||9m|3tv|1aj|c|Jaroměřitz
+San Juan Jaripeo|MX||41|1jl|-7rw|c|Jaripéo
+Jarrahdale|AU||8k|-2hu|8ye|c
+Jarrell|US||2f|2dm|-7j4|c
+Yaren|NR||b5|-1j|cvp|b|Jareno;Jarenas;Jarena
+Jarošov nad Nežárkou|CZ||9m|3sn|15v|b
+El Jaralito|MX|San Luis Potosí|41|1p8|-7s2|b|Jaralito
+Järva-Jaani|EE||9x|4k0|1zx|b|Järvi-Jaani
+Jarillas|MX|Aguascalientes|41|1py|-7vi|a
+Jarvis|CA||59|3b5|-66j|a
+Jardres|FR||9k|3ld|1k|a
+Jardines|HN||56|14u|-6se|a
+Jarcieu|FR||9k|3hx|dq|9
+Jarczów|PL||a5|3w2|1tj|9
+Jarafuel|ES||9d|30q|-2z|9|Xarafull
+Jargulica|MK||9u|37j|1qo|8
+Järpås|SE||9w|4i6|101|8
+Jarrol|GM||7|10s|-181|8
+Jarnac-Champagne|FR||9k|3ik|-14|8
+Jārū|IR||7o|2r5|3we|8
+Jaralillo|MX||41|1lf|-7si|8
+Jarcová|CZ||9m|3tc|1dx|7
+Jaral del Refugio|MX||41|1jw|-7rs|7
+Jareros|MX||41|1i1|-7fz|7
+Jarillas|MX|Zacatecas|41|1qn|-7vw|7
+Järve|EE||9x|4l1|23v|7|Yarve
+Losevo|RU|Leningradskaya Oblast'|9i|4po|28i|6|Järvenkylä
+Jaraicejo|ES||9d|327|-g5|6
+Jarratt|US||48|2u9|-5z7|6|Jarretts
+Jardoeira|PT||99|327|-oj|6
+Jardín del Nuevo Edén|MX||41|1a3|-74z|6
+Jardín Viejo|MX||41|1m3|-7j9|6
+Jardines de Azucenas (La Floresta)|MX||41|1lb|-7r4|6
+Jarchau|DE||8r|42a|x2|6
+Jarnioux|FR||9k|3jo|cv|6
+Jaritzberg|AT||a2|3ms|16e|6
+Jarque|ES||9d|37g|-4o|6
+Jaripo|MX||41|1ex|-7rv|5
+Jaruge|HR||a6|3hc|1f6|5
+Jarnages|FR||9k|3ka|5s|5
+Jarosławiec|PL||a5|3xf|1tu|5
+Järlåsa|SE||9w|4mc|1bs|5
+Jars|FR||9k|3no|7g|5
+Järnforsen|SE||9w|4fi|17e|5
+Jaripito (Jaripitio)|MX||41|1ic|-7qv|5

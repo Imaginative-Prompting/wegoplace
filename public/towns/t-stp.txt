@@ -1,0 +1,28 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Saint Paul|US|Minnesota|2f|3gu|-76l|2c8|St. Paul;Urbs Sancti Pauli de Minnesota;Sent Polas;San Pablo;Sentpola;Sint-Paul;Sent Pol;Sent Pols;Sint Pol
+St. Petersburg|US||48|255|-6do|1zf|Saint Petersburg;Saint Pete
+San Pawl il-Baħar|MT||9e|2rv|142|8w|St Paul's Bay
+Sankt Pölten|AT||a2|3px|17g|63|St. Pölten;St. Pötn;Pölten;Sanktpeltene;Sankt Peltenas;Sveti Hipolit;Sankt-Pyolten;Cetium;Saint Pölten;Sankt Pölton
+St. Pauli|DE||8r|44s|ro|63
+Saint Peter Port|GG||91|3te|-72|4l|Saint-Pierre-Port;St Peter Port;Saint Pierre Port;St. Peter Port;Sent Piter Port;Sanktapetrurbo;Sent Piter Portas;Sentpīterporta
+Saint Peter|US|Minnesota|2f|3f4|-790|34|St. Peter
+Saint Pete Beach|US||48|251|-6du|2l|St. Pete Beach
+St. Paul Parish|AG||1j|1ba|-4rl|29|St. Paul Kilisesi;St. Paul Priorati;Paroki St. Paul;Parroquia de San Pablo;Paroisse St. Paul;St. Paul Gemeinde;Paróquia de São Paulo
+Kodiak|US||1h|4gj|-brd|1r|Saint Paul Harbor;Saint Paul;St. Paul Harbor;St. Paul;Kadiak
+Saint-Pierre|PM||42|3ly|-4c2|1q|Saint Pierre;St Pierre
+St. Paul|CA||2s|45y|-8l5|1l
+St. Peter Parish|AG||1j|1bg|-4rf|1h
+Saint Paul Park|US||2f|3gk|-76b|1h|St. Paul Park
+St. Philip Parish|AG||1j|1bd|-4rh|x
+St Peters|AU||8b|-2oy|ap2|v|St. Peters
+Saint-Paul-de-Vence|FR||9k|3de|js|u|Saint-Paul i Alpes-Maritimes;St Paul de Vence;Sant Pau;Saint-Paul de Vence;Oppidum Sancti Pauli
+St. Peter's|CA||35|3iu|-4p3|q|St Peters;Saint Peter's
+Saint Paris|US||48|33h|-6h8|l|St. Paris
+San Paolo|IT|Trentino-Alto Adige|9o|3l3|va|f|St. Pauls
+Sankt Peterzell|CH||a7|3ng|pi|c|St. Peterzell
+Saint Paul|US|Indiana|38|31j|-6lv|a|St. Paul
+Saint Paul|US|Virginia|48|2uj|-6cn|a|St. Paul
+St. Paul's|SH||89|-18a|-fw|9
+Sankt Peter am Kammersberg|AT||a2|3n3|13e|7|St. Peter am Kammersberg
+Saint Paul|US|Kansas|2f|2w8|-7cd|6|St. Paul

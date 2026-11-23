@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Delhi|IN||6t|27l|5yj|2d56|Delis;Deli;Dillí;Dellium;Šáhdžahanabád;Déhli;Dilhi;Dähli
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Sydney|AU||8l|-2m3|bo1|17ic|Sidnejo;Sidney;Sidnėjus;Sydneium;Sidneja;Sanctus Dionysius;Syd;Sidni;Sėdniejos;Sit-nì;Sék-nà̤;Sidnei
+Dar es Salaam|TZ||h|-iy|313|15jh|Daressalam;Dar es-Salam;Dar es-Salaam;Dar-es-Salaam;Dar es Salamas;Dar es Salam;Daresalamo;Daressalaam;Dar es Salams;Dárasalám;Dāresalāma;Darüsselam
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Santiago|CL||4u|-2ky|-5g9|11bp|Sanctiacobi;Čilės Santjagas;Santjago
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Salvador|BR||20|-102|-2yx|kxa|Soteropolis
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Mashhad|IR||7o|2su|4ll|hsw|Mashad;Maŝhado;Meszhed;Mexed;Maschhad;Masyhad;Meşhed;Mešheda;Meixad;Mešhedas;Maxhad;Maşat;Sanaabad;Alexandria
+Shaoxing|CN||7i|2bc|9ay|hqw|Shawshin shehiri;Ŝaosing;Šao-sing;Thiệu Hưng;Sjaoxing;Siāu-heng-chhī;Siêu-hĭng;Shao-hsing;Shaohing
+Santo Domingo|DO||4v|1fb|-5e5|gzn|Saint Domingue;Ciudad Trujillo;Santo-Dominqo
+Sapporo|JP||7q|3bn|awn|f8a|Sapporum;Saporas;Saporo;Szapporo
+Sanaa|YE||5r|16n|3et|ey7|Sana'a;Şana‘ā';Sana;Sanao;San'a;Şan‘ā’;San’ah
+Santa Cruz de la Sierra|BO||3n|-1df|-4vi|e4q|Santa Cruz;Santa Cruz da Serra;Santa-Kruzo
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Semarang|ID||6l|-jf|8iq|d2r|Semaranq;Samarang
+Santiago de Querétaro|MX||41|1l7|-7qv|cau|Santjago de Keretaras;Santiago Tlachco;Santiagu di Querétaro;Queretarum;Querétaro City;Keretaro;Querétaro
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+San Antonio|US|Texas|2f|29q|-7ll|bs3|Sanctus Antonius;Sanantonio;San Antonijus;San-Antonio;San Antoniyo
+Zapopan|MX||41|1lk|-7z7|be5|Sapopanas;Sapopano
+San Diego|US|California|3p|2iw|-91g|au5|San-Diego;Didacopolis;San Diegas;San-Dieqo;Sandjego;San Diegu;San Diyégo
+Saitama|JP||7q|2rr|ary|a81
+Sadr City|IQ||5z|2kr|3fi|9cm
+Santiago de los Caballeros|DO||4v|1i1|-5gd|99c|Santjago de los Kabaljerosas;Santiago
+Samara|RU||9p|43t|3va|8z6|Kuibyshev;Kuybyshev;Kuibyschew;Samaro;Szamara;Samar
+Shangrao|CN||7i|271|93m|8m5|Šang-žao;Thượng Nhiêu;Sjangrao;Siông-ngièu;Song-ngièu-sṳ;Siōng-jiâu-chhī;Shang-jao
+Sanya|CN||7i|1ep|8g7|7yi|San-ja;Senya shehiri;Tam Á;Sam-a-chhī;Săng-ā;Sanj;Sama
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Changwon|KR||7h|2pv|9xg|7wx|Ch'angwŏn;Čangvonas;Cshangvon;Ĉangvono;Sangwon
+San Jose|US|California|3p|2vq|-9el|7p2|San-Joseo;San Chozė;Iosephopolis;San Xosé;Sanhosē;San-Xose
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Sargodha|PK||6q|2h5|5lv|7j3|Sargoda

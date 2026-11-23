@@ -1,0 +1,151 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Perth|AU|Western Australia|8k|-2gr|8xu|iec|Pertas;Peairt;Perto;Pērta;Pirth;Pet;Pert
+Pretoria|ZA||o|-1zi|26b|gav|Pretorio;Pretorija;Prétoriye;IPitoli;Pretoriya;Praetoria;Pretorii;E-Pitoli;Priturya;Pretourii;Pitori;Pretorie;Piritōria;Pretooriyaa
+Jalalpur Pirwala|PK||6q|29z|5hu|3uw|Dźalalpur Pirwala
+Piracicaba|BR||4w|-1r5|-3od|3eg|Pirasykava;Pirasikaba
+Pirituba|BR||4w|-1t9|-3lt|1dx
+Piranshahr|IR||7o|2ty|3he|1as|Khaneh;Piranschahr;Piransjahr;Piranxahr;Piranšaher;Pîranşar;Piranšāra;Okrug Peronšahr;Piranšahr;Piranşehr;Piranszahr;Pīrān Shahr
+Piraeus|GR||8p|2xe|1tp|19h|Piräus;El Pireo;El Pireu;Le Pirée;Pireus;Pireu;Pireja;Pireo;Pirėjas;Peiraiás;Pireusz;Pire;Peiraiéfs;Pireas;Pirej;Lo Pirèu;Il Pireo;O Pireo;Peiraiá;Peiraieus;Piraiévs;Peiraievs;Peiraeus
+Piraquara|BR||4w|-1yo|-3sb|wz|Piraguara
+Ribeirão Pires|BR||4w|-1tv|-3kx|w4
+Barra do Piraí|BR||4w|-1qf|-3dr|s0|Bara do Pirajus;Barra do Pirahy;Barra do Parai
+Pirassununga|BR||4w|-1p4|-3nr|ld|Pirassinunga
+Prilep|MK||9u|36v|1nv|ki|pirlepe;Perlepé;Perlepes
+Piripiri|BR||2w|-bv|-382|hq|Periperí
+Pirapora|BR||4w|-1c6|-3gu|fq
+Pirojpur|BD||6a|1qq|6xy|f4|Perijpur
+Pir Jo Goth|PK||6q|24n|5am|f3|Pir Goth
+Pir Mahal|PK||6q|2dh|5l7|el
+Píritu|VE||2c|q1|-5c9|c5
+Pirmasens|DE||8r|3so|l5|c4|Pirminisensna;Bärmesens
+Pirāyiri|IN||6t|tx|5wv|bi
+Pirot|RS||8q|3bv|1qr|bb
+Pirna|DE||8r|3xk|12q|b7|Pěrno
+Pīrmām|IQ||5z|2t3|3es|ar|Selahedîn
+Pīrgaaj|BD||6a|1zu|6tg|9m|Pīrganj
+Piro|IN||6t|1yd|6ig|9e
+Pīrzādagūda|IN||6t|1cb|62b|92
+Pires do Rio|BR||4w|-1c2|-3q4|90
+Piraju|BR||4w|-1sf|-3t6|86
+Piraí|BR||4w|-1qv|-3dy|83
+Piracuruca|BR||2w|-ax|-37v|81
+Piravam|IN||6t|rf|5wi|7v|Piravom
+Pirthīpur|IN||6t|1y1|62r|7h
+Piri|AO||x|-np|144|7b
+Piracaia|BR||4w|-1s1|-3ks|78
+Piraí do Sul|BR||4w|-1w5|-3ur|74
+Pirapozinho|BR||4w|-1pw|-3z2|71
+Piranhas|BR|Alagoas|3r|-qq|-2ww|70
+Pirenópolis|BR||4w|-181|-3s0|6z|Pyrenopolis
+Piritiba|BR||20|-wl|-34o|6y
+Piracanjuba|BR||4w|-1c2|-3s6|6x
+Pirajuí|BR||4w|-1p4|-3te|68|Pirajuhy
+Pýrgos|GR|West Greece|8p|2wo|1nk|68|Pírgos
+Pirkkala|FI||92|4qq|1tn|5w|Birkala
+Pirané|AR||1n|-1zh|-4k7|5b
+Pirapora do Bom Jesus|BR||4w|-1t0|-3mk|54
+Pirita|EE||9x|4l7|1x0|53|Piritta;Piirita
+Piranvādi|IN||6t|17w|5qw|4z
+Pirapemas|BR||2w|-ad|-3eu|4x
+Piratini|BR||4w|-2fd|-43i|4v|Piratiny
+Piranga|BR||4w|-1lg|-3ca|4q
+Piriyāpatna|IN||6t|y9|5ve|4n
+Piratininga|BR||4w|-1q9|-3sh|47
+Pirae|PF||bg|-1cp|-bjf|41
+Pirangut|IN||6t|1ff|5op|3y
+Piraera|HN||56|133|-6tr|3x
+Pierre|US||2f|3f9|-7qr|3x|Piras;Pīra;Pirs;Pyer
+Pīr Bakrān|IR||7o|2i7|3z8|3r|Pīr Bāqerān
+Pirallahı|AZ||61|34f|3vs|3q|Artyom
+Pirāwa|IN||6t|1v4|5v7|3k
+Piranhas|BR|Goiás|4w|-19n|-3zy|39
+Piraúba|BR||4w|-1n4|-3bj|38
+Pirapetinga|BR||3t|-jj|-4un|33|Pirapiringa;Pirapitinga
+Pires Ferreira|BR||2w|-bt|-34x|32|Pires Ferreiva
+Pirangi|BR||4w|-1ml|-3r6|31|Piranji;Pirangy
+Piribebuy|PY||1y|-1yq|-4eg|2v
+Piraí do Norte|BR||20|-128|-31e|2s
+Piraziz|TR||94|35o|2xw|2s
+Prikro|CI|Lacs District|0|l9|-b4|2q|Pirikrou;Priko
+Pirpirituba|BR||2w|-iu|-2qm|2l
+Piripá|BR||20|-15i|-37w|2k|Peripá
+Piranguinho|BR||4w|-1q8|-3ih|2j
+Pirdop|BG||9v|3am|1v6|29
+Piriápolis|UY||45|-2ou|-49j|28|Pirlápolis
+Pirambu|BR||3r|-tu|-2ue|27
+Paraí|BR||4w|-27g|-3zv|20|Piraí
+Piracema|BR||4w|-1kz|-3fk|1v
+Pârjol|RO||8u|3le|21w|1v|Pîrjol
+Pirogovskiy|RU||9i|4bi|2wt|1q|Pirogovskij
+Piranguçu|BR||4w|-1ql|-3ie|1o|Pirangussu
+Pârscov|RO||8u|3hs|21r|1o|Pîrscov
+Piratuba|BR||4w|-246|-3zt|1m
+Pirajuba|BR||4w|-1jb|-3ra|1j
+Pīr Bāzār|IR||7o|2vq|3tn|1i|Pir-i-Bazar
+Piriāpāra|IN||6t|1rt|6dq|1e
+Pârgăreşti|RO||8u|3kh|221|1c|Pîrgăreşti
+Pir Sultan Abdal Mahallesi|TR||94|32y|3ee|1b
+Rumenka|RS||8q|3ht|1iu|18|Piros;Piross
+Piran|SI||9a|3ih|11p|16
+Pīr Yūsefīān|IR||7o|2sg|3uz|15|Pīr Yūsefīyān
+Pirayú|PY||1y|-1ys|-4f0|14
+Brtnice|CZ||9m|3sz|17k|13|Pirnitz
+Pirok|MK||9u|38f|1m3|12
+Pirbright|GB||9b|3yh|-1t|11
+Pirogovo|RU|Udmurtiya Republic|9p|4dq|43n|y
+Pirovskoye|RU||6u|4g3|74a|w|Pirovskoje
+Pârcovaci|RO||8u|3ns|22l|w|Parcovici;Pîrcovaci
+Pirada|GW||8|z6|-13b|u
+P’irveli Ot’obaia|GE||7n|3a1|37m|s|Pirveli Otobaia;Pirveli Otobaiya;Pirveli Otoboya;Pirveli Otobaya
+Pirinçli|TR|Mardin|94|2w2|332|o
+Piraquê|BR||1k|-it|-3q6|n
+Pirapó|BR||4w|-25w|-49c|n
+Pirka|AT||a2|3mk|16r|m
+Pirque|CL||4u|-2lg|-5g1|m
+Piré-sur-Seiche|FR||9k|3pd|-3z|l|Pereg;Piriacus
+Piru|US||3p|2nm|-95z|l
+Piriac-sur-Mer|FR||9k|3nm|-73|k|Penc'herieg;Pencherieg
+Pironchamps|BE||8t|3w3|ck|k
+Pirk|DE||8r|3tv|xt|k|Purk
+Pīr Balūţ|IR||7o|2i1|3wv|j|Pīrbalūt;Pīr Ballūţ
+Pīr Saqqā|IR||7o|2sx|3s5|j|Pīrsaqā;Pirsaka;Bīr Saqqā
+Pirapó|PY||1y|-22m|-4aa|i
+Pâraie|RO||8u|3nu|20f|h|Pâraeie;Pârae;Pîraie
+Pirtleville|US||4i|2f4|-8gc|h
+Pir|RO||8u|3nv|1q5|h
+Pirava|MK||9u|36s|1ql|g
+Pirey|FR||9k|3na|gk|f
+Pirovac|HR||a6|3dq|17j|e|Piravac
+Pyrgetós|GR|Thessaly|8p|32w|1qr|e|Piryetós
+Pirongia|NZ||ak|-2xk|dio|e
+Pirou|FR||9k|3sm|-4d|e
+Pirton|GB||9b|40d|-x|d
+Pīr Kandī|IR||7o|2zk|3ha|c
+Pyrgetós|GR|Thessaly|8p|31v|1of|c|Piryetós
+Pýrgos|GR|Crete|8p|2p9|1xv|b|Pírgos
+Pīr Sohrāb|IR||7o|1zh|4p4|b|Pīr Sorād;Pīr Sūrab
+Pyrgíon|GR||8p|2y7|208|b|Piryi;Pirgi;Pirghi;Pyrgi
+Pirlibey|TR||94|2x6|26z|a
+Perai|GM||7|116|-12z|a|Pirai
+Pirtó|HU||8v|3l7|1hz|a
+Piragineti|IT||9o|321|1a1|a
+Piringen|BE||8t|3x3|f2|9|Pirange
+Pârâu Negru|RO||8u|3p8|20q|9|Pîrîu Negru
+Piringsdorf|AT||a2|3nt|19m|8|Répcebónya;Piringštof
+Pyrohy|UA||98|3t3|2k5|8|Pirogi
+Pīrūz|IR||7o|2mu|3s9|8
+Pyrizhky|UA||98|3x7|295|7|Pirozhki;Piruzhki
+Pareh Vānlū|IR||7o|322|3or|7|Pīrāyūvātlū
+Pirky|UA||98|3vn|2nm|7|Komsomol’s’ke;Komsomolske;Pirki;Komsomol’skoye
+Pârvova|RO||8u|3h2|1pp|7|Pîrvova
+Pârvulești|RO||8u|3k7|228|7|Pîrvuleşti
+Pírgos|GR||8p|2uz|1o9|7
+Pârvu Roșu|RO||8u|3g9|1x6|6|Pârvul Rosu;Pîrîu Roşu
+Perca|IT||9o|3lz|xa|6|Percha;Pircha
+Pirogovo|RU|Moscow Oblast|9i|4bi|2wt|6
+Pirinçli|TR|Şırnak|94|2w8|3bk|6
+Pirching am Traubenberg|AT||a2|3mf|17c|6
+Piray Kilómetro 18|AR||1n|-21o|-47n|6
+Pârlagele|RO||8u|3gd|1r1|6|Pîrlagele
+Pirow|DE||8r|43u|x2|5
+Pira|PE||3o|-qm|-5zv|5

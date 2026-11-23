@@ -1,0 +1,9 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Santa Helena|BR|Maranhão|2w|-67|-3hu|bt
+Santa Helena de Goiás|BR||4w|-1dh|-3wk|ap
+Santa Helena|BR|Paraná|4w|-1x2|-46x|7g|Santa Elena
+Santa Helena de Minas|BR||4w|-1b2|-350|1n|Balbinópolis
+Santa Helena|BR|Paraíba|2w|-io|-2zc|1n
+Saint Helena|US||3p|2yz|-9g7|1m|St. Helena;Santa Helena
+Santa Helena|BR|Santa Catarina|4w|-22u|-44y|o
+Santa Helena|CO||27|hi|-5oe|9|Santa Elena

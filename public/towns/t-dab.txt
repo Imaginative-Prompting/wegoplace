@@ -1,0 +1,76 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Dublin|IE||8z|445|-hd|7wg|Dulyn;Baile Átha Cliath;Dyflinn;Dulenn;Eblana;Diblin;Difelin;Divlyn;Dablin
+Debre Birhan|ET||2|qw|31t|14t|Debre Berhan;Debre Byrhan;Debra Birhan;Debra Berhan;Dabra-Berhān;Debra Berham
+Debre Mark’os|ET||2|sr|2wt|133|Debre Marcos;Debra Markos;Debra Marcos;Dabra Mārko’s
+Dabou|CI||0|et|-c6|12d|Dabu
+Debre Tabor|ET||2|wx|2xm|yt|Debra Tabor;Dabra-Tābor
+Dąbrowa Górnicza|PL||a5|3vt|1hc|wi|Dombrova Gurņiča;Důmbrowa;Dombrowa
+Dabwāli|IN||6t|2b7|5rm|h9
+Dabra|IN|Madhya Pradesh|6t|1zx|61l|h1
+Dabhoi|IN||6t|1pm|5nz|fn
+Dabhel|IN||6t|1kp|5mg|em|Dabel;Dadhel
+Debark’|ET||2|10k|2xa|d0|Dibark;Dabārk’;Debarek;Devark
+Dubbo|AU||8l|-2hk|bgs|c3|Dabo;Dabbo
+Dabola|GN||f|tu|-uv|86
+Dabat|ET||2|102|2wx|7v|Dahat
+Dabajuro|VE||2c|um|-5gc|7t
+Dibba Al-Hisn|AE||6c|1z6|4cb|7c|Dabā al-Ḥiṣn;Dībā al Ḩişn;Dibbā Al Ḩişn
+Dabeiba|CO||27|jg|-5vv|6b|Dabelba
+Duba|SA||7e|23z|2r5|64|Diba;Ḑabā
+Dabakala|CI||0|n8|-cb|53|Dabakla
+Daboh|IN||6t|208|634|53
+Dabas|HU||8v|3n3|1hn|4m
+Dabīrān|IR||7o|26x|46j|3u
+Dăbuleni|RO||8u|3do|1uw|3s
+Dąbie|PL|West Pomerania|a5|44c|14s|3p
+Ad Dabbah|SD||r|1e5|2dz|38|Ad-Dabba;Al Dabbah;Al Dabachas;Aldabaha;Al Daddah;Dabbah;Ad Dabba
+Dąbrowa Tarnowska|PL||a5|3vd|1mb|35|Dombrowa Tarnowska
+Dabo|ID||6l|-1d|82g|2w
+Dabao|CN||7i|2kz|85a|2o
+Dābhol|IN||6t|1cv|5na|2j
+Dabbūrīya|IL||6n|2it|2q9|2b|Daburiyya;Daburija;Daburiye;Dabburye;Daburiyah
+Dabra|IN|Chhattisgarh|6t|1oi|6es|27|Dabhra
+Dabolim|IN||6t|16s|5p6|1v
+Dabo|SN||g|zs|-148|1p
+Dąbrowa Białostocka|PL||a5|451|1sv|1o|Dambrava;Dombrova Bjalostocka
+Dabai|NG||u|vw|eh|1o
+Dabizhuang|CN||7i|30v|91q|1m
+Debdou|MA||d|2me|-8g|1i|Debdú;Dubdu;Dabdou;Debdau
+Débélé|CI||0|th|-ic|16|Dabélé;Débété;Diébélé
+Taboitien|CI||0|gi|-dg|14|Daboitié;Tabatien
+Dabégo|CI||0|dw|-gl|14
+Dębnica Kaszubska|PL||a5|472|1bo|w|Dãbnica Kaszëbskô
+Dabong|MY||6v|ey|7vd|v|Dabung
+Dabo|FR||9k|3r5|k4|t|Dagsburg;Dagsbourg;Dagesburg;Dockschbuerj;Dagisburgum
+Dabori|CI||0|g8|-f4|r
+Dabao’anzhen|CN||7i|32u|92c|q
+Daoungbeu|CI||0|it|-j1|m|Daoungbé;Daboungbeu
+Dąbie|PL|Greater Poland|a5|40p|1ga|k
+Dăbâca|RO||8u|3mi|1tr|i|Dobâca
+Dabudasht|IR||7o|2tc|41p|i
+Dabaozi|CN||7i|226|8g1|e
+Dabel|DE||8r|452|x2|e
+Dąbrowa Chełmińska|PL||a5|43q|1ev|e|Dąbrowka Chełmińska
+Dąbrówno|PL|Warmia-Masuria|a5|44f|1jo|e
+Daba Kunda|GM||7|110|-13q|d|Dula Kunda;Doba Kunda
+Dąbrowice|PL||a5|41b|1h0|d
+Dabaizhuang|CN||7i|31k|922|d
+Dąbie|PL|Lower Silesia|a5|3xz|1bg|c
+Dąbrowa|PL|Kujawsko-Pomorskie|a5|42j|1du|b
+Dąbrowa|PL|Opole Voivodeship|a5|3ws|1db|b
+Dabachang|CN||7i|252|8cy|b|Ta-pa-ch’ang
+Dabouzra|CI||0|ja|-gn|b
+Dąbrowa Biskupia|PL||a5|42m|1fi|a
+Dąbrowa|PL|Lesser Poland|a5|3ux|1k9|a
+Dabakaratou|CI||0|mi|-fw|a
+Dąbrowa Zielona|PL||a5|3x8|1ic|9
+Dabokréla|CI||0|l5|-a6|8
+Dabé|CI||0|oc|-j8|7
+Daboukro|CI||0|kz|-9r|7
+Dabrun|DE||8r|3zz|zb|7
+Daba|CN||7i|25u|87n|6
+Dabergotz|DE||8r|42y|zc|6
+Tuczępy|PL||a5|3wc|1mb|6|Dąbrowa
+Dabokria|CI||0|lr|-c4|6|Dabokrira
+Dąbrówka|PL||a5|41s|1n6|5
+Dąbrowno|PL|Silesia|a5|3wr|1ia|5

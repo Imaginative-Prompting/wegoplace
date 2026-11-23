@@ -1,0 +1,651 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ahmedabad|IN||6t|1rz|5ln|1d21|Ahmadabado;Ahmadabad;Amedebatum;Ahmadabadas;Amdāvāda;Exmetabad;Ahmadobod;Amedabato;Amadavad
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Hamburg|DE||8r|44r|rr|f8b|Hamburk;Hamborg;Hanburgo;Hampuri;Hambourg;Amburgo;Amborg;Augusta Gambriviorum;Hambuurich;Hamburch;Amburgu;Hambörj;Hamboarch;Hamepuka;Hamburq;Gamburg
+Diyarbakır|TR||94|2xb|33q|e5d|Dijarbakiro;Amed;Amida;Diyarbekır;Dijarbakyras;Dijarbakira;Diyarbekr;Diyarıbekir;Diyarıbakır;Diari-Békir;Diarbekir;Diarbekr
+Makkah|SA||7e|1nj|32n|c6j|La Mecque;La Meca;Mekko;Mekao;Mekka;Mecca;A Meca;Meka;Meice;Mekkah;La Mecca;Meke;Meca;Mecka;Mekke;Mäkkä
+Amman|JO||5t|2gs|2rv|9uf|Amano;Aman;Amanas;Amã;Amans;Philadelphia;Amani
+Amritsar|IN||6t|2fu|5s0|8y0|Amritszár
+Amsterdam|NL||8m|41h|dl|5q0|Amsŭt'erŭdam;Amsteladamum;Amesterdã;Amestelledamme;Aemsterdam;Amseutereudam;Amsterodam;Ámsterdan;Amszterdam;Amusuterudamu;Amstelodamum;Mokum Aleph;Mokum;Amesterdão;Amstyerdam;Amsterdã;Aemstelredamme;Amstelodhámon;Damsko;Amstèdam;Amistardam;Amstardam;Amstadem;Âmesterdâm
+Amravati|IN||6t|1m5|5zz|4zr
+Antwerp|BE||8t|3ya|c8|430|Amberes;Antverpy;Antverpeno;Anvers;Antuairp;Antuerpen;Anversa;Antverpia;Antverpenas;Antverpene;Antuérpia;Anberes;Antverpen;Amberis;Anverse;Antwarp;Antverpens;Ôn-thi̍t-ví-phú;Antwyrpijo
+Ambattur|IN||6t|10e|66o|3li
+Amagasaki|JP||7q|2og|ag6|3jo
+Samsun|TR||94|36o|2sy|31h|Amisos;Amisus;Samsoun
+Ambato|EC||33|-3h|-62e|2zl|Ambatas;Ampatu llaqta
+Ambon|ID||6m|-aa|9w2|2oh|Ambun
+Al ‘Amārah|IQ||5z|2gg|3my|2ht|Amara;Amarah;Amaré
+Komsomolsk-on-Amur|RU||7w|3wf|akl|24n|Komsomolsk-na-Amure;Komsomolsk-sur-l'Amour;Komsomolsk del Amur;Komsomolsk am Amur;Komsomoljsk-na-Amuru
+Ambarnath|IN||6t|1hc|5n9|1yf|Amarnāth
+Americana|BR||4w|-1r6|-3nh|1wj|Amerikana
+Amarapura|MM||7y|1ov|7et|1u0
+Āmol|IR||7o|2tb|41f|1tz|Amul
+Amarillo|US||2f|2pu|-7uv|1j6|Amarilas;Amarilyo
+Ambāla|IN||6t|2cc|5xc|1i8|Ambata
+Amadora|PT||99|2zn|-pn|1dp
+Amroha|IN||6t|28a|61z|1cz
+Amsterdam Nieuw-West|NL||8m|41g|dd|165|New West
+Umarkot|PK||6q|1yg|5dq|146|Umerkot;Amarkot
+Amsterdam-Zuid|NL||8m|41f|dk|144
+Amsterdam-West|NL||8m|41i|dj|13y|Amsterdam West
+Amiens|FR||9k|3um|6e|13r|Amjenso;Samarobriva;Amians;Amjenas;Amjēna;Anmyin
+Amersfoort|NL||8m|40w|ez|12v|Amersforto
+Amsterdam-Oost|NL||8m|41f|dp|11q|Amsterdam East
+Amaigbo|NG||u|g3|ls|zd
+Ampang|MY||6v|8r|7up|z3
+Amherst|US|New York|48|3be|-62w|y0
+Ambikāpur|IN||6t|1s8|6f4|xn
+Amanfrom|GH||1|fe|-14|x7|Amanfro
+Amreli|IN||6t|1o0|5ht|ws
+São Gonçalo do Amarante|BR|Rio Grande do Norte|2w|-g3|-2q5|w6
+Amasya|TR||94|34x|2rj|vx|Amàsia;Amasea;Amasija;Amasiyah
+Ambur|IN||6t|zj|62o|vu
+Ambala Sadar|IN||6t|2ca|5xi|t6
+Amaravati|IN|Andhra Pradesh|6t|19v|67o|sm
+Amalner|IN||6t|1mg|5si|r2
+Amozoc de Mota|MX||41|1gx|-7kc|qh|Amozoc;Ahmozoc
+Porto Amboim|AO||x|-tt|129|pg|Benguella Velha;Porto Hmboim;Amboim;Port Amboim;Benguela Velha;Benguela-a-Velha;Old Benguela;Ambonim;Ambouim
+‘Amrān|YE||5r|17i|3e2|p8|Amran;Amron;Amrão;Camraan;Amrani
+Amsterdam-Zuidoost|NL||8m|41b|dt|of
+Amsterdam-Centrum|NL||8m|41h|dm|o0|Amsterdam City Centre;Amsterdam-Centre;Amsterdam Centro;Amsterdam Stadtzentrum
+Ama|JP|Aichi|7q|2pq|ak0|nx
+Essaouira|MA||d|2fj|-r5|nn|Mogador;Esauira;As-Shawirah;As-Sawíra;Medino de Esaŭiro;Essauira;Szavíra;Amegdul;Savira;Suvayr;Es Suira;Mogadar;Magador
+Amakusa|JP||7q|2i6|a1n|n3
+Ambalantota|LK||68|h0|692|md
+Amstelveen|NL||8m|41a|di|m4
+Shrewsbury|GB||9b|42f|-7n|lc|Amwythig
+Am Timan|TD||17|uo|1kc|kr|Am-Timan;Am Timmane
+Ambājogāi|IN||6t|1g1|5w7|kl|Ambejogai
+Amatitlán|GT||32|148|-6zr|jy
+Ambovombe|MG||a8|-1xy|3k1|j9
+Amparo|BR|São Paulo|4w|-1r2|-3lw|iw
+Ambilobe|MG||a8|-10o|3s9|ic
+Ambarawa|ID||6l|-k6|8io|i3|Ambarava
+Ames|US|Iowa|2f|38r|-782|i3|Ejmso
+Āmūr|IN||6t|1g7|61g|hs|Ārmūr
+Ambanja|MG||a8|-11z|3ql|hr
+Ambalangoda|LK||68|hc|66d|fs|Ambalangoddi
+Amuntai|ID||70|-6q|8w5|fg|Amoentai
+Amalāpuram|IN||6t|1a2|6bt|es
+Amora|PT||99|2zb|-pc|em
+Amahai|ID||6m|-9a|9y4|e1|Amahei
+Ambatondrazaka|MG||a8|-1dj|3qi|e1
+Amboasary|MG||a8|-1xj|3ku|dj
+Ami|JP||7q|2s3|atg|di
+Ambāh|IN||6t|226|61b|d4
+Amursk|RU||7w|3vj|aka|d2|Amoursk
+Ambalavao|MG||a8|-1on|3md|cq|Ambalava
+Amberg|DE|Bavaria|8r|3tc|wy|cf|Anberg
+Amadeo|PH||71|13d|9bw|ca
+Amontada|BR||2w|-9c|-32n|c6
+Ampara|LK||68|ka|6aw|c5|Ampari
+Ambositra|MG||a8|-1l1|3n8|c3
+Famagusta|CY||6e|2pk|2ma|bt|Ammóchostos;Famagouste;Famagosta;Gazimağusa;Mağusa;Ammókhostos;Fama Augusta;Magosa;Gazi Magosa;Ammochostus
+Amagi|JP|Fukuoka|7q|2ku|a2x|br|Amaki
+Amangarh|PK||6q|2mh|5jt|bp|Aman Garh
+Amarante do Maranhão|BR||2w|-fh|-3lu|bl
+Amancio|CU||36|1lv|-5zi|bj
+Amami|JP||7q|26u|9zp|bi
+Ampanihy|MG||a8|-1wl|3gb|b6
+Amherst|US|Massachusetts|48|39p|-5lg|b2
+Amudālavalasa|IN||6t|1f5|6h2|b2
+Ambatofinandrahana|MG||a8|-1l3|3m0|b0
+Amambai|BR||2a|-1s6|-49f|ax
+Amargosa|BR||20|-107|-320|a5
+Amīnpur|IN||6t|1co|61k|a5
+Ameca|MX||41|1l3|-811|a2
+Ambasamudram|IN||6t|o7|5z5|9w|Ambassamudram
+Ambato Boeny|MG||a8|-19r|3ls|9u|Ambato Boeni;Ambatoboeny
+Amparafaravola|MG||a8|-1cv|3py|9t|Amparafarovola;Amparofaravola
+Amnat Charoen|TH||62|182|82n|9o|Amanat Charoem
+Ambatolampy|MG||a8|-1hu|3nq|9i
+Américo Brasiliense|BR||4w|-1oc|-3pm|9e
+Āmli|IN||6t|1kc|5mu|9a
+Ambodimanga II|MG||a8|-1bz|3sl|96|Ambodimanga
+Amlapura|ID||70|-nh|8x6|8v
+Amlapura city|ID||70|-nh|8x5|8v|Amlapura
+Amecameca|MX||41|1h4|-7md|8t|Amaquemecan
+Ambad|IN||6t|1ih|5uj|8s
+Amīr Kolā|IR||7o|2to|42b|8h|Amīr Kalā
+Amlai|IN||6t|1sg|6am|8g
+Amla|IN||6t|1ow|611|8e
+Amin’yevo|RU||9i|4aq|2w3|8c|Aminjevo
+Amdjarass|TD||17|18n|1rg|8a|Am Djarass
+Amballūr|IN||6t|sz|5vu|85
+N'zeto|AO||x|-k3|zr|80|Ambrizette;Ambrisette;Ambrizete;Nzeto
+Amphoe Sikhiu|TH||62|15e|7uj|7z
+Ambikāpuram|IN||6t|tz|5wx|7y
+Ambodifotatra|MG||a8|-1b6|3uh|7w|Ambodifototra
+American Fork|US||2p|346|-8mk|7v
+Amirdzhan|AZ||61|34b|3uu|7u|Amiradzhan;Amirabdzhan;Amiradzhany
+Ammi Moussa|DZ||3|2rn|33|7n
+Amba Giorgis|ET||2|zh|2wi|7l|Āmba Gīyorgīs;Amba Ghiorghis;Amba Georgis
+‘Āmūdā|SY||69|2v2|35p|7g|Amude;Amouda
+Amizour|DZ||3|2ts|dm|76
+Amandelbult|ZA||o|-1wy|23u|74
+Lamu|KE||16|-6b|35m|72|Amu
+Amarpur|IN|Bihar|6t|1xk|6pe|71
+Ambohidratrimo|MG||a8|-1ga|3nr|70|Ambohidratimo
+Ambam|CM||j|6m|vc|6z
+Ampahana|MG||a8|-14z|3vi|6y|Ampaha
+Amélia Rodrigues|BR||20|-yg|-2zo|6p
+Ammanford|GB||9b|3zv|-b3|6l|Rhydaman;Amanfordas
+Hamme|BE|Flanders|8t|3xy|bi|6d|Hamė;Ama
+Amersham|GB||9b|3zj|-1q|61
+Amposta|ES|Catalonia|9d|353|1m|5w
+Ampasimanolotra|MG||a8|-1ga|3sb|5u|Brickaville;Vohibinany
+American Canyon|US||3p|2y1|-9fm|5q
+Aranyaprathet|TH||62|121|7wq|5m|Amphoe Aranya Prathet;Aran Prathet
+Ampthill|GB||9b|40j|-1e|5k
+Ampére|BR||4w|-1zz|-44j|5g
+Amarpātan|IN||6t|1vj|68y|5e
+Ammainaickanur|IN||6t|s9|60f|5d
+Amherst Center|US||48|39q|-5lg|5b
+Āmlāgora|IN||6t|1rh|6qm|5a
+Amargaḍhi̇̄|NP||6r|29e|67u|5a|Ḍaḍeldhurā;Dandelhura;Dandeldhura
+Embi|KZ||5w|3rn|4hj|58|Emba;Jemby;Amba
+Amod|IN||6t|1p3|5mf|57
+Andéranboukan|ML||5|16v|8e|57|Anderabukani;Anderanbukani;Amderamboukan;Anderamboukan;Andéramboukane
+Amaraji|BR||4p|-na|-2qh|53|Amaragi
+Amesbury|US||48|3b2|-5h1|53|Almsbury
+‘Anbarābād|IR||7o|274|4gp|52|Ambārābād
+Amsterdam|US|New York|48|3ba|-5q3|50
+Amvrosiyivka|UA||98|3or|2yw|50|Amvrosiivka;Amvrosiyevka
+Amos|CA||59|3qx|-610|4z
+Amorebieta|ES||9d|3c2|-7l|4y|Zornotza
+Ambaji|IN||6t|1vl|5md|4y
+Amersham on the Hill|GB||9b|3zj|-1p|4x
+Amet|IN||6t|1yb|5pd|4u
+Amarante|BR||2w|-hc|-3b1|4s
+Amroli|IN||6t|1n1|5mc|4r
+Amboanjo|MG||a8|-1p4|3ox|4q
+Ambohitrolomahitsy|MG||a8|-1fy|3og|4q
+Amaliáda|GR||8p|2x0|1nb|4o|Amaliás
+Āmta|IN||6t|1qq|6sh|4o
+Āmbāsa|IN||6t|1ui|735|4j|Ambassa
+Ampliación San Mateo|MX||41|1ii|-7nf|4j
+Ambarakaraka|MG||a8|-11i|3rr|4h
+Americus|US|Georgia|48|2h3|-6hz|4g
+Amizmiz|MA||d|2eq|-mv|4d|Amismiz;Amimiz
+Amstetten|AT||a2|3po|15b|4c|Aumstettn;Amšteta
+Amlash|IR||7o|2v2|3vf|4a|Amlesh;Amlish
+América Dourada|BR||20|-vu|-374|47
+Amīngarh|IN||6t|18m|5uz|47|Amingad
+Amudat|UG||q|5f|2p3|46|Amdat
+Ammon|US||28|3cr|-8n1|46
+Amersfoort|ZA||o|-231|2az|44
+Amloh|IN||6t|2d1|5vr|43
+Ammāpettai|IN|Tamil Nadu|6t|tz|64c|42
+Ambahta|IN||6t|2ay|5yu|3z
+Ambikapur Part-X|IN||6t|1ww|75r|3z
+Amarwāra|IN||6t|1py|63x|3x
+Amajari|BR||26|a5|-4qh|3v
+Amherstburg|CA||59|38y|-6eu|3v|Fort Malden
+Amānganj|IN||6t|1vv|66c|3v
+eManzimtoti|ZA||o|-2bh|2dt|3u|Amanzimtoti
+Amethī|IN|Uttar Pradesh|6t|20o|6b9|3t
+América|AR||1l|-2qm|-4ux|3s
+Amondara|TJ||6d|31r|58d|3q|Amandara
+Amay|BE||8t|3wf|er|3p|Ama
+Ambérieu-en-Bugey|FR||9k|3jo|ev|3p|Ambèriœx;Ambérieu
+Amilly|FR|Centre-Val de Loire|9k|3p9|7p|3n
+Ambarès-et-Lagrave|FR||9k|3gt|-1d|3m|Ambarés e la Grava;Ambarès-et-La Grave
+Ampil Pram Daeum|KH||78|10u|7xh|3k|Ampil Pram Dem
+Amapala|HN||56|10x|-6rh|3j
+Amboise|FR||9k|3np|2q|3j|Ambuazas;Ambacia;Ambosa
+Amuquhu|CN||7i|2op|7x9|3i|Amu Quhu
+Am Hagenring|DE||8r|417|ta|3i
+Ammūr|IN||6t|102|64g|3h
+Amuñgan|PH||71|16p|998|3g|Amungen
+Ambohimahasoa|MG||a8|-1mo|3n6|3f
+Amper|NG||u|q0|qy|3e
+Amethi|IN|Uttar Pradesh|6t|25u|695|3e
+Amagá|CO||27|gs|-5ua|3e
+Amherst|US|Ohio|48|370|-6ce|3d|Amhurst
+Ambleside|CA|British Columbia|5b|3t1|-9i2|3c
+Amarpur|IN|Tripura|6t|1td|72m|3b
+Ambicapur Pt VIII|IN||6t|1wy|75q|39
+Ambriz|AO||x|-lt|10f|38|Ambris
+Amaturá|BR||3t|-9d|-59g|36|Maturá;Amataurá
+Amriswil|CH||a7|3o3|pu|36
+Amaji|JP||7q|2p7|aec|34
+Amélékia|CI||0|iz|-9y|34|Améléya
+Amatitán|MX||41|1lv|-805|32
+Amgaon|IN||6t|1nd|67a|32
+Amu’er Jingtao Shequ|CN||7i|42u|9i3|30
+Ammavarikuppam|IN||6t|10m|64l|30
+Amha|IN||6t|20d|6ot|2w
+Amānpur|IN||6t|24z|62q|2w
+Amurrio|ES||9d|3bl|-8c|2v
+Amady Ounaré|SN||g|16n|-106|2u|Amadi Ounaré
+Amnéville|FR||9k|3su|h1|2u
+Amesbury|GB||9b|3y6|-4y|2t
+Ambodivoara|MG||a8|-13t|3uu|2s
+Ambāgarh Chauki|IN||6t|1lq|68b|2r|Ambagarh-Chowki
+Amlamé|TG||w|kr|2i|2r
+Ameal|PT||99|36d|-nw|2q
+Amalfi|CO||27|j7|-5sk|2p
+Amagunze|NG||u|hl|l9|2o
+Amityville|US||48|350|-5ny|2n
+Amherst|CA|Nova Scotia|35|3jb|-4yc|2m
+Åmål|SE||9w|4k1|za|2m
+Amoriakro|CI||0|jq|-9t|2k|Améliakro
+Amposta|ES|Madrid|9d|34b|-a2|2j
+Amatlán de los Reyes|MX||41|1gd|-7h8|2j
+Amaxac de Guerrero|MX||41|1hr|-7kp|2j
+Ambulong|PH|Calabarzon|71|135|9ca|2j
+Amian|CI||0|hz|-a4|2i
+Amkhera|IN||6t|1sh|661|2i
+Amantea|IT||9o|30p|18o|2h
+Amingaon|IN||6t|20q|72o|2h
+Ammāpettai|IN|Tamil Nadu|6t|wa|5zy|2e
+Amguri|IN||6t|22h|7al|2d
+Amarkantak|IN||6t|1qz|6b4|2c
+Portlethen|GB||9b|4ej|-5x|2a|Am Port Leathann;Port Leathain
+Amiret Hajjaj|TN||1e|2qm|u2|29
+Ambohitrandriamanitra|MG||a8|-1h0|3oq|28|Ambohitrandrimanitra;Ambohiandriamanitra
+Ambicapur Pt VI|IN||6t|1wu|75r|28
+Amherstview|CA||59|3eu|-5wx|28
+Amapá|BR||23|5p|-3x3|27
+Ambert|FR||9k|3ij|ae|27|Embèrt
+Amini|IN||6t|uv|5m0|26
+Ammanūr|IN||6t|10b|659|25
+Am Dam|TD||17|zh|1kw|25
+Amealco de Bonfil|MX||41|1k3|-7q6|25|Amealco
+Ametista do Sul|BR||4w|-240|-43q|25
+Amara|RO|Ialomița County|8u|3fy|23w|24
+Ampov Prey|KH||78|vn|83c|23|Ampou Prey
+Amargarh|IN||6t|2cm|5v5|21
+Ambarvale|AU||8l|-2mp|bmw|21
+Ampelóna|GR||8p|32e|1q5|21|Ambelón
+Amapá do Maranhão|BR||2w|-4o|-3jt|20
+Ambaliyasan|IN||6t|1t5|5l6|1z
+Embrun|FR||9k|3fs|i2|1z|Ambrun;Eburodunum;Aebura
+Amory|US||2f|2me|-6tt|1z
+Ampelákia|GR||8p|2xf|1td|1y|Ambelákia;Ambeláki
+Amassoma|NG||u|dt|gz|1y|Amassama;Amasama
+Amani|CI||0|fu|-d4|1y
+Ambo|PE||3o|-s5|-5vo|1x
+Ambridge|US||48|34r|-66v|1x
+Ámfissa|GR||8p|2z1|1q6|1x
+Amarante|PT||99|36n|-mg|1w
+Ambalema|CO||27|da|-5ro|1v
+Ammāpattinam|IN||6t|ru|643|1v|Ammāpatnam
+Amalia|ZA||o|-23p|1xl|1u
+Amby|NL||8m|3xa|fx|1t|Amie
+Ambler|US||48|33j|-5sy|1t
+Ambivali T. Tungartan|IN||6t|1gi|5n9|1t
+Amoriki|CI||0|jp|-bk|1s
+Amagi|JP|Kagoshima|7q|25a|9y2|1s
+Ambara|IN||6t|1pn|62j|1r|Ambada
+Amiret Touazra|TN||1e|2ql|tw|1r
+Amqui|CA||59|3qm|-57b|1r
+Amas|PH||71|jm|9n6|1q
+Ampfing|DE||8r|3q1|yi|1q
+Amasra|TR||94|37z|2hz|1q|Amastra;Amassera
+Ambleside|CA|Alberta|2s|44f|-8rk|1q
+Amga|RU||7x|4p6|a6m|1q|Amia
+Amboli|IN||6t|1n5|5mn|1p
+Amárynthos|GR||8p|2yn|1uc|1p|Amarinto;Amarynthus;Amárinthos
+Amble|GB||9b|49p|-4e|1o
+Ambohitseheno|MG||a8|-1g6|3os|1o
+Amanalco de Becerra|MX|México|41|1ho|-7pu|1o
+Américo de Campos|BR||4w|-1ke|-3u5|1o
+Amardad|IN||6t|1oa|5do|1n
+Amărăştii de Jos|RO||8u|3e3|1v5|1n|Amăraşti-de-Jos
+Amras|AT||a2|3n9|vq|1m|Ambras
+Amazcala|MX||41|1li|-7qi|1m|Amascala
+Amaroo|AU||8l|-2pp|bi9|1k
+Amangbo|CI||0|gq|-c5|1k
+Amelia|IT||9o|3a7|yi|1j|Ameria
+Amourj|MR||19|18r|-k1|1j
+Amöneburg|DE||8r|3x4|os|1i
+Amacuzac|MX||41|1fo|-7o1|1i|Āmacōzāc
+Amuri|FI||92|4qu|1ty|1i
+Amaral Ferrador|BR||4w|-2ds|-416|1h
+Amayuca|MX||41|1g0|-7mg|1h
+Amplepuis|FR||9k|3jp|c1|1h
+Americano do Brasil|BR||4w|-195|-3uu|1h
+Amiret El Fhoul|TN||1e|2qg|u3|1h
+Amblève|BE||8t|3vv|h5|1g|Amel
+Amīrābād|IR|Tehran|7o|2r4|3x4|1g
+Amurzet|RU||7w|3oh|a46|1g
+Amaragui|CI||0|g5|-io|1g
+Amerongen|NL||8m|40g|f6|1f
+Ambar|TR||94|2x5|34l|1f|Anbar
+Ambepur|IN||6t|1fx|5mr|1e
+Faifley|GB||9b|4bd|-c7|1e|Am Fionn-Bhealach
+Ambazac|FR||9k|3jo|3w|1e|Embasac
+Ām Ālṭamīr|IR||7o|2et|3qw|1e
+Ambatolaona|MG||a8|-1gl|3p2|1e
+Amalfi|IT||9o|34v|14k|1d
+Amelia|US|Ohio|48|30f|-6hy|1d
+Amor|PT||99|32k|-om|1d
+Amzya|RU||7z|4c7|473|1c
+Amaporã|BR||4w|-1s6|-42n|1c
+Maybole|GB||9b|49s|-d0|1c|Am Magh Baoghail
+Amathur|IN||6t|qk|60a|1b
+Amatenango del Valle|MX||41|19x|-74r|1b
+Amite|US||2f|2dd|-6zf|1a
+Amlabad|IN||6t|1tt|6ny|1a
+Aman Salékro|CI||0|k5|-fi|1a
+Amparo do Serra|BR||4w|-1kz|-3aw|19|Amparro da Serra
+Amgala|EH||k|211|-uy|18
+American Falls|US||28|3av|-8ph|17
+Amagoru|KE||16|1r|2nd|16|Amagoro
+Amfilochía|GR||8p|2zy|1mt|14|Amfilokhía
+Ambalasoa|MG||a8|-1s8|3js|14
+Amstetten|DE||8r|3qy|rf|14
+Ampatuan|PH||71|j3|9lr|14|Ampuan
+San Juan Amecac|MX||41|1gb|-7m2|14|Amecac
+Amatán|MX|Chiapas|3z|1c9|-75u|13
+Amelinghausen|DE||8r|43k|sd|13
+Amărăştii de Sus|RO||8u|3e6|1v3|13
+els Banys d'Arles|FR||9k|39z|7f|12|Amélie-les Bains;Amélie-les-Bains;els Banys
+Amendingen|DE||8r|3pc|sa|11
+Ampuero|ES||9d|3ce|-9i|11
+Amýntaio|GR||8p|351|1o8|11|Amyndeo
+Amberley|US||48|30w|-6ij|10
+Ampsin|BE||8t|3we|eo|10
+Amerang|DE||8r|3pb|y7|10
+Amīrīyeh|IR||7o|2s3|46e|10
+Ambikanagar|IN||6t|161|5re|10
+Amtzell|DE||8r|3oi|r3|z
+Amilcingo|MX||41|1g2|-7md|z
+Ameide|NL||8m|40c|ds|z
+Amesti|US||3p|2uo|-9ea|z
+Âmleăng|KH||78|ws|81u|z
+Amity Gardens|US||48|33v|-5ue|y
+Amatillo|MX||41|1aq|-7ov|x
+Amaralina|BR||4w|-12p|-3sy|x
+Amrāla|IN||6t|27y|5zl|x
+Amethyst Harbour|CA||59|3qu|-6uv|w
+Amlwch|GB||9b|44d|-c3|w
+Amatlán de Cañas|MX||3x|1lt|-821|w
+Amuri A|FI||92|4qu|1ty|v
+Ambès|FR||9k|3h1|-1h|v
+Ammerzoden|NL||8m|3zr|ei|u
+Amorinópolis|BR||4w|-1a6|-3xx|u
+Amirabad|PK||6q|2mz|5n1|u
+Amfíkleia|GR||8p|2zc|1qr|u|Amphicleia;Amfiklia
+Amfreville-la-Mi-Voie|FR||9k|3t9|36|t
+Amaury|MU||ag|-1jx|4g6|t
+Amacueca|MX||41|1jl|-7zs|t|Ainacueca
+Amexhe|MX||41|1l3|-7re|t|Ameche
+Amorim|PT||99|371|-ob|t
+Amery|US||2f|3hv|-74k|s
+Amoukoukro|CI||0|js|-a3|s
+Ambuclao|PH||71|19s|9bf|s|Ambuklao
+Ambrières-les-Vallées|FR||9k|3qg|-1r|s|Ambrières-le-Grand;Ambrières-le Grand
+Amberley|NZ||ak|-3bw|dbt|s|Kōwai
+Amaru|RO||8u|3gt|21u|r
+Amygdaleónas|GR||8p|35s|1vo|r|Amygdaleón;Amigdhaleónas;Amigdhaleón
+Amuco de la Reforma|MX||41|1et|-7rk|r
+Amacalan|PH||71|17a|9b1|r|Amacaran
+Amurskoye|UA||9t|3hs|2mt|r
+Amzacea|RO||8u|3e3|26w|q
+Amaravati|IN|Karnataka|6t|14c|5um|q|Amaravathi
+Ameglia|IT||9o|3ef|rp|q|Amegia
+‘Āmerī|IR||7o|277|3xy|q|Omari;Amiri
+Moffat|GB||9b|49q|-9k|q|Am Magh Fada
+Ambleside|GB||9b|477|-88|p
+Amazar|RU||67|45m|9br|p
+Amixtlán|MX||41|1jp|-7jo|p
+Metsovo|GR||8p|32h|1mu|p|Mezzovo;Mecovo;Metsowo;Aminciu
+Amangouakro|CI||0|j3|-ah|p
+Amucao|PH||71|16y|9b9|p
+Amelia|US|Louisiana|2f|2af|-712|p
+Amagbagan|PH||71|18p|9as|o
+L'Ampolla|ES||9d|35d|1z|o|Ampolla
+Amlimay|PH||71|1ad|9bo|o
+Poblado Dos|MX||41|1ew|-7es|o|Ampliación Piedras Negras
+Amboy|US|Illinois|2f|37v|-6w5|o
+Amoeiro|ES||9d|39u|-m3|o
+Amulung|PH||71|1dk|9e4|o|Amulong
+Amio|PH||71|q0|9hi|n
+Amanikro|CI|Lagunes District|0|h6|-cw|n
+Amacuitlapilco|MX||41|1fy|-7mh|n
+Ampuis|FR||9k|3id|dd|n
+Ama|JP|Shimane|7q|2s9|a9p|n
+Amuri B|FI||92|4qu|1tz|n
+Amdos|PH||71|rg|9hy|m|Amdus
+Ambronay|FR||9k|3js|ew|m|Ambronê;Ambroniacum
+Amparo|BR|Paraíba|2w|-l1|-2uy|m
+Amaga|PH||71|np|9q7|m
+Amapa|MX||3x|1oi|-84d|m
+Amīrābād|IR|Māzandarān|7o|2u7|447|m
+Amorosi|IT||9o|36g|147|m
+Amherst|US|Virginia|48|2wf|-63l|m
+Amarete|BO||3n|-16c|-5bn|m|Amariti
+Ambulong|PH|Western Visayas|71|w6|9ga|m|Ambolong
+Amatepec|MX|México|41|1fw|-7qb|m
+Amparo do São Francisco|BR||3r|-s5|-2ul|m
+Amānābād|IR||7o|2mh|3un|l
+Ommatlar|IR||7o|2qg|3s1|l|Ammatlar;Amatlar
+Amărăşti|RO|Vâlcea County|8u|3gd|1v3|l
+Ammerndorf|DE||8r|3ta|u5|l
+Ambelókipoi|GR||8p|2ww|1lz|l|Ampelokipoi
+Ampusungan|PH||71|1am|9bc|l|Amposungan
+Ambunti|PG||bd|-bq|b0q|l
+Amodio-Massariola|IT||9o|35l|135|k
+Ambleteuse|FR||9k|3x5|4h|k|Imbelteuse
+Ammerthal|DE||8r|3tc|wo|k
+Ammerschwihr|FR||9k|3pp|k8|k|Ammerschweier;Ammerschweir
+Ambarita|ID||6l|7g|7mj|k
+Amanvillers|FR||9k|3sl|gs|k|Amanviller
+Ambrolauri|GE||7n|3a4|3bv|k|Ambrolaoeri;Ambralauri
+Amancy|FR||9k|3jz|hl|j
+Amilly|FR|Centre-Val de Loire|9k|3qk|3v|j
+Amatlán|MX||41|1n9|-7jk|j
+Amina|DO||4v|1ib|-5h8|j
+Amanvi|CI||0|m5|-8q|j
+Ambía|ES||9d|399|-li|j
+Ambivere|IT||9o|3j0|qj|j
+Middleton|CA|Nova Scotia|35|3gu|-50r|j|Am Baile Meadhanach
+Amandola|IT||9o|3be|113|j
+Amiães de Baixo|PT||99|31k|-o9|j|Amiãis de Baixo
+Ampliación la Hincada|MX||41|1pq|-7no|j
+Burghead|GB||9b|4ga|-9p|i|Am Broch;Burgheid;The Broch;Burg Head
+Ampass|AT||a2|3na|vu|i
+Amoragui|CI||0|f0|-ih|i
+Ambierle|FR||9k|3k3|at|i|Embièrle
+Amīrābād|IR|Qazvin Province|7o|2ra|3uv|i
+Amblainville|FR||9k|3so|5w|i
+Balloch|GB|Scotland|9b|4bk|-cq|h|Am Bealach
+Amstenrade|NL||8m|3xi|gg|h
+Amara|RO|Buzău County|8u|3hp|23t|h
+Amaroni|IT||9o|2zr|19p|h
+Ambo Village|KI||bh|3r|dco|h
+Ambrosden|GB||9b|403|-34|h
+Amonkro|CI|Lacs District|0|jo|-dz|h|Tarafa ya Lomokankro;Lomokankro
+Amasia|AM|Shirak|80|35s|3dm|h|Nerkin Ghukasyan;Amasiya
+Amatitlán de Azueta|MX||41|1ei|-7kg|g
+Amberd|AM||80|33s|3ez|g|Gmbet’
+Amity|US|Oregon|3p|3hc|-9i9|g
+Bovec|SI||9a|3kq|11n|g|Plezzo;Flitsch;Ampletium
+Amaseno|IT||9o|377|111|g
+Amorofikroum|CI||0|l4|-8r|g
+Amboy|US|Washington|3p|3jj|-9g5|g
+Amou|FR||9k|3d3|-23|g
+Ammerstol|NL||8m|409|dd|g
+Amanlis|FR||9k|3pd|-44|g|Amanliz;Amanlix
+Amherst|CA|Quebec|59|3jx|-5rp|g
+Amden|CH||a7|3mz|pe|g|Andimus
+Amigo Beach|CA||59|3g5|-64j|f
+Ambérieux-en-Dombes|FR||9k|3js|dm|f
+Amstelveldbuurt|NL||8m|41g|dm|f
+Amani-N'Guessankro|CI||0|h5|-ca|f
+Ames Lake|US||3p|3ob|-9et|f
+Santa María Amajac|MX|Hidalgo|41|1kg|-7ma|f|Amajac
+Amica|IT||9o|320|1ab|e|Mica
+Groß Ammensleben|DE||8r|413|w0|e|Ammenesleve
+Amado Nervo|MX|Chiapas|41|1bv|-749|e
+Beauly|GB||9b|4fo|-ce|e|A Mhanachainn
+Ambillou|FR||9k|3nt|19|e
+Amanalco de Becerra|MX|México|41|1hh|-7pu|d
+Åmotfors|SE||9w|4m0|yc|d|Åmotsfors
+Amīnābād|IR|Razavi Khorasan|7o|2t7|4l9|d
+Ambon|FR||9k|3o3|-74|d
+Amodi|CI||0|ml|-8j|d
+Amberg|DE|Bavaria|8r|3pj|to|d
+Ama|US||2f|2b7|-6yu|d
+Annékrou|CI||0|ir|-bf|d|Amékrou
+Amendolara|IT||9o|32z|1a2|d
+Santiago Amoltepec|MX||41|1a8|-7iu|d|Amoltepec
+Anbī|IR||7o|2w8|3gd|d|Ambi
+Amatitlán|MX||41|1f7|-7dx|d|Amatlan
+Ambra|IT||9o|3cl|w8|c
+Ampil|KH||78|131|7zn|c
+Amdalai|GM||7|11b|-1ag|c|Amdulai
+Amado Gómez|MX||3z|1ef|-77c|c
+Ambleny|FR||9k|3t6|8u|c
+Amfreville|FR||9k|3st|-n|c
+Ampflwang|AT||a2|3pk|11p|c|Ampfelwang
+America|NL||8m|3yw|gm|c|Amerika
+Ames|US|Texas|2f|2fk|-7jm|c
+Amagansett|US||48|35t|-5ke|c|Amogonsett
+Amonkro|CI|Yamoussoukro|0|jd|-f3|c
+Amīr Rūd|IR||7o|2tr|3z9|c|Amirud
+Amougies|BE||8t|3wy|9r|b
+Ameluca|MX||41|1l4|-7jr|b
+Amankro|CI||0|km|-b4|b
+Ampliación Tezoyuca|MX||41|1ie|-7mt|b|Amplicación Tezoyuca
+Amelia Court House|US||48|2vq|-60m|b
+Amato|IT|Calabria|9o|2ym|18t|b
+Amato|IT|Calabria|9o|2yl|18c|b
+Ammochóri|GR||8p|35a|1no|b|Pesonitsa;Pesosnitsa
+América Libre|MX||41|1a5|-76b|b
+Ampeleíes|GR||8p|35f|1q7|b|Ambeliés;Ampeleíai
+Amasia|AM|Armavir|80|33c|3e5|b|Amasiya
+Ames|US|Texas|2f|2bh|-7b6|b
+Amatrice|IT||9o|3af|10y|a
+Amherst|US|Wisconsin|2f|3fh|-6w0|a
+Amatlán de Quetzalcóatl|MX||41|1gq|-7n4|a
+Ambud|RO||8u|3op|1rq|a
+Ammoudhiá|GR||8p|36a|1su|a|Ammoudia
+Amanikro|CI|Vallée du Bandama District|0|l2|-dy|a
+Amojileca|MX||41|1ct|-7ol|a
+Amstelhoek|NL||8m|413|df|a
+Ambrogio|IT||9o|3gr|x3|a
+Amenia|US||48|389|-5oc|a
+Ameyaltepec|MX||41|1dx|-7of|a
+‘Amminadav|IL||6n|2g7|2pn|9|Amminadav
+Ambonnay|FR||9k|3sc|bl|9
+Amberloup|BE||8t|3uz|fd|9
+Amisianá|GR||8p|35p|1vm|9
+Amīr Kīāsar|IR||7o|2vx|3uw|9|Amīr Keyāsar;Amīr Kīyasar;Amīr Kīā Sar
+Amfreville-la-Campagne|FR||9k|3sp|2l|9
+Amate Amarillo|MX||41|1cv|-7nk|9
+Ambillou-Château|FR||9k|3na|-y|9
+Am Feuersang|AT||a2|3nl|118|9|Feuersang
+Amați|RO||8u|3om|1ro|9|Amaţ
+Ambarnyy|RU||9i|532|2ln|9|Aittaniemi;Aittuniemi;Ambarny
+Amanikro|CI|Lacs District|0|kh|-ba|9
+Amatiopa|MX||41|1h3|-7ha|9|Mesa Limón
+Americus|US|Kansas|2f|2yz|-7fe|9
+Amieva|ES||9d|3c4|-e3|9
+Amerdingen|DE||8r|3rd|t5|9
+Ambria-Spino|IT||9o|3j9|qw|8
+Ampliación Nicolás Bravo|MX||41|1fq|-7nl|8
+Arnatepec|MX||41|1lr|-7ld|8|Amatepec
+Amanakro|CI||0|je|-cy|8
+Amaro|IT||9o|3kt|10d|8|Damar
+Amomolulco|MX||41|1hl|-7od|8
+Ampus|FR||9k|3d5|hq|8|Empús
+Amíklai|GR||8p|2uv|1qc|8
+Ambasing|PH||71|1bf|9bu|8|Aimbasin;Ambassing
+Amaxac|MX|San Luis Potosí|41|1nq|-7mq|8
+Amesdorf|DE||8r|3zu|w8|8
+Ampezzo|IT||9o|3kx|zk|8|Dimpeç
+Amatitla Tamán|MX||41|1mz|-7mm|8
+Amoikro|CI||0|ht|-cy|8
+Amato|IT|Calabria|9o|306|19q|8|Amatum;Amatu
+Amance|FR||9k|3os|gu|8
+Amatenango de la Frontera|MX||41|16v|-73w|8|Atenango de la Frontera
+Amsteleind|NL||8m|3zt|fa|8
+Amsoldingen|CH||a7|3lt|l2|8
+Ambres|FR||9k|3dh|51|8
+Emiliano Zapata (Ampliación San Germán)|MX||44|1xp|-7kd|8|Ampliación San Germán
+Amparo Agua Tinta|MX||41|18u|-725|8|Amparo Aguatinta
+Amfreville-sur-Iton|FR||9k|3sj|37|8
+Murisengo|IT||9o|3h8|mm|8|Ambrusengh
+Amillis|FR||9k|3re|8p|8
+Amanda|US||48|325|-6du|7
+Amailloux|FR||9k|3lv|-w|7
+San Luis Amatlán|MX||41|19j|-7g2|7|Amatlán;Amatán
+Ampliación 6 de Junio|MX||41|1hq|-7mt|7
+Amaliendorf|AT||a2|3rn|15w|7
+Ampliación el Tejocote|MX||41|1i5|-7nt|7
+Amashca|PE||3o|-po|-5zp|7
+Amayé-sur-Orne|FR||9k|3sd|-18|7
+Ambresin|BE||8t|3wn|dz|7
+Ambrault|FR||9k|3ly|5g|7
+Amagne|FR||9k|3tk|ci|7
+Amapo|CI||0|lg|-ac|7
+Amado Nervo|MX|Durango|44|1u9|-81f|7
+Ampleforth|GB||9b|46k|-33|7
+Amagney|FR||9k|3nf|h3|7
+Amity|US|Arkansas|2f|2n6|-77m|7
+Ampoița|RO||8u|3k4|1t5|7
+Ampliación Ejido Lázaro Cárdenas|MX||58|2i3|-90z|7|Lázaro Cárdenas
+Amherst|US|Texas|2f|2mh|-7wi|7
+Amola de Ocampo|MX||41|1mj|-7mq|7
+‘Amir|IL||6n|2k6|2qy|7|Amir
+Amianou|CI||0|l4|-e0|7
+Amatetel|MX||41|1jg|-7ia|7
+Ampudia|ES||9d|38g|-da|7
+Amaquil (Patio Amplio)|MX||41|1b0|-74t|7
+Amendola|IT||9o|31a|18u|7
+Ampelókipoi|GR||8p|34f|1n7|7|Ambelókipoi
+Amīr Zakarīā|IR||7o|2y4|3jd|7|Amīr Z̄akaryā;Amīr Zakarīyā
+Ampliación Barrio Grande y la Asunción|MX||41|193|-7i9|7
+Amīrābād-e Kohneh|IR||7o|2rn|3v1|7
+Amancey|FR||9k|3mo|gv|6
+Amatán|MX|Veracruz|41|1c0|-788|6
+Amatlipac (San Agustín Amatlipac)|MX||41|1gq|-7mx|6
+Ambutrix|FR||9k|3jm|eu|6|Ambutriacum
+Whiting Bay|GB||9b|4a5|-e6|6|Am Bàgh
+Ampney Crucis|GB||9b|3zn|-5a|6
+Amigny-Rouy|FR||9k|3tt|96|6
+San Pedro Amatlán|MX||41|19d|-7fx|6|Amatlán
+Ambleside|AU||8g|-36g|bal|6
+Ampliación los Potros (Tres Piedras)|MX||41|1it|-7no|6
+Ambato|PE||3o|-zf|-5ru|6
+Amonkro|CI|Lacs District|0|ic|-br|6
+Amamoor|AU||8c|-217|bs4|6
+Ami'ad|IL||6n|2jh|2qq|6|Ammi’ad;Amiad
+Ammótopos|GR||8p|313|1m6|6
+Amherst|US|New Hampshire|48|3b2|-5iz|6
+Amderma|RU||9i|5ds|4rb|6|Amdierma;Anderma
+Ámaxac|MX|Hidalgo|41|1my|-7lk|6|Amaxal
+Amozoquillo Piletas|MX||41|1gb|-7ik|6
+Amīnābād|IR|Gilan Province|7o|2w0|3ud|6
+Amărăști|RO|Dolj|8u|3fv|1tx|6
+Amamaloya|MX||41|1ef|-7bd|6
+Amfithéa|GR||8p|329|1lz|6
+Åmot|NO||9j|4ln|n9|6
+Amberley|GB||9b|3xf|-1i|6
+Amatepec|MX|Guerrero|41|1b6|-7of|6
+Amatitla Santiago|MX||41|1my|-7mm|6
+Amarelo Pintado|CV||84|1a1|-1vn|6
+Amzabegovo|MK||9u|385|1p3|6
+Ampliación Río Bravo|MX||44|202|-7kl|6
+Åmli|NO||9j|4j9|nk|6
+Ammenäs|SE||9w|4hz|wv|6
+La Palma|MX|Veracruz|41|1kp|-7jj|6|Amixtlán
+Amsterdam|US|Ohio|48|330|-6cu|5
+Amapoloa|MX||41|1k8|-7ku|5|Amapola
+Amatal|MX||41|1a8|-76c|5
+Amador Hernández|MX||41|19y|-71p|5|Amadon Hernández
+Amrakits|AM||80|35v|3fg|5|Nikolayevka;Kirov;Amrakic;Kirovo;Novonikolayevka
+Amsdorf|DE||8r|3yy|wl|5
+Ames|FR||9k|3we|6q|5
+Amboy|US|Minnesota|2f|3dx|-79k|5
+Aman-Pokoukro|CI||0|ja|-d9|5
+Ammoulianí|GR||8p|341|1ug|5|Amolianí
+Ampliación las Fuentes|MX||41|1gg|-7ng|5
+Ambariv|UA||98|3nn|2dc|5|Ambarov
+Amalga|US||2p|38a|-8mu|5
+Ambrózfalva|HU||8v|3kr|1ll|5
+Amatlicha|MX||41|1dj|-7mg|5
+Ammerbach|DE||8r|3xe|w4|5

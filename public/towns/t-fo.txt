@@ -1,0 +1,966 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Foshan|CN||7i|1rz|8q9|1xrt|Phật Sơn;Fo-šan;Fu̍t-sân-sṳ;Fošanas;Fosjan;Foŝan;Hu̍t-san-chhī;Hŭk-săng;Hotokeyama;Fak San;Fuk Shan;Fut Shan;Fatshan
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Fuzhou|CN|Fujian|7i|20e|97f|vld|Fucheu;Phúc Châu;Hók-ciŭ;Fudžou;Fu-čou;Fuk-chû-sṳ;Futsjou;Fuĝoŭo;Hok-chiu-chhī;Fucsou;Focheum;Fuzcouh;Fuçjou;Fužov;Fu-chou;Fuchau;Fouzhou
+Fortaleza|BR||2w|-ac|-2z2|iio|Fortalezo;Fortalaetia
+Fuyang|CN|Anhui|7i|2je|8xq|dnd|Fu-jang;Phụ Dương;Pâiu-iòng;Hū-iông-chhī;Fuyan;Fou-yang
+Fort Worth|US||2f|2ix|-7ic|7s1|Fortvērta;Fortvortas;Arx Vorthensis;Fort Vort;Fort Uert;Fortvorto;Ft Worth
+Hezhou|CN||7i|1vs|8lx|7rb|Hô̤-ciŭ;Che-čou;Fo-chû-sṳ;Hạ Châu;Hohcouh;Hō-chiu-chhī
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Juiz de Fora|BR||4w|-1og|-3cf|468|Žuis de Fora
+Colorado Springs|US||2p|2zv|-836|3iu|Kolorado Springsas;Kolorādospringsa;Fontes Coloratenses;Kolorado Sprinqs;Colorado Spgs
+Fengshan|TW||7l|1qv|9ac|2r1|Fongshan District;Feng-šan;Fung-sân-khî;Fengšanas;Phượng Sơn;Feng-shan;Fongshan
+Kyzylorda|KZ||7d|3gl|51z|2qk|Qızılorda;Perovsk;Kzyl-Orda;Ak-Mechet;Fort Perovsky;Qysylorda;Qyzylorda;Khizilordà;Kõzõlorda;Kizilorda;Qiziloʻrda
+Foz do Iguaçu|BR||4w|-1yz|-47n|2am|Foz de Iguazu;Foz do Iguasu;Foz do Iguassú;Foz de Iguassu
+Fuling|CN||7i|2aj|8ab|22n|Fuchow;Fou-ling;Fuchou
+Fort Wayne|US||38|369|-6kh|20b|Arx Vainensis;Fort Veinas;Fort Veyn;Fortveina
+Formosa|AR||1n|-20q|-4hl|1pq
+Fontana|US|California|3p|2mp|-928|1n3
+Fuenlabrada|ES||9d|33w|-aj|1gx|Fons Laborata
+Fort Lauderdale|US||48|20k|-66m|1ev|Fort Loderdeilas;Fortloderdeila;Fort Loderdeil
+Fontanar|CU||36|1ry|-6cx|1dm
+Fort Collins|US||2p|34r|-83w|1bh|Fort Kolinsas;Ft Collins
+Fortechnyi|UA||98|3qq|2hl|1aj
+Foggia|IT||9o|376|177|122|Fovea
+El Geneina Fort|SD||r|11f|1qe|11b|Geneina Fort
+Foumban|CM||j|fx|ua|107|Fumban;Foumbam
+Manolo Fortich|PH||71|n9|9mu|wt|Maluko
+Forlì|IT||9o|3eu|xg|wf|Forum Livii
+Formosa|BR||4w|-176|-3nh|w7
+Sainte-Foy|CA||59|3ly|-5i1|ux
+Sainte-Foy–Sillery–Cap-Rouge|CA||59|3lw|-5i7|ux
+Fort Garry|CA||5d|3ud|-7hy|rp
+Fordham|US||48|35i|-5pa|qb
+Fuwwah|EG||c|2eo|2cv|py|Fuwah;Fuvva;Fouah;Fuwwa;Fuwa;Fawwah
+Fort-de-France|MQ||3v|14k|-4pn|p0|Fort Royal;For de Fransas;Fordefransa;For-de-Frans;Fòd Fwans;Arx Gallica;Fort Royale;Fort de France
+Fort Smith|US||2f|2qb|-7a8|oi
+Fort Abbas|PK||6q|293|5me|n4
+Fuorigrotta|IT||9o|35f|13g|l9|Forerotta
+Folsom|US|California|3p|2zg|-9cm|l8
+Foumbot|CM||j|fb|tj|kn|Foumbat
+Fort Myers|US||48|21y|-6bc|kk
+Silver Spring|US||48|30b|-5xz|jv|Fons Argenteus
+Tôlanaro|MG||a8|-1xj|3mi|jt|Fort-Dauphin;Taolanaro;Tôlagnaro
+Fordon|PL||a5|43n|1eh|jg|Striesau
+Imola|IT||9o|3f8|wj|jg|Forum Cornelii;Iommla
+Formiga|BR||4w|-1ku|-3i7|iy
+Forest Hills|US|New York|48|354|-5p5|it|Forest Hill
+Focșani|RO||8u|3iy|23i|ii|Foksány;Fokschan
+Fort McMurray|CA||2s|4dl|-8le|ii|Fort-MakMerrey
+Folkestone|GB||9b|3xw|39|ig
+Fochville|ZA||o|-21l|24d|hc
+Fort Portal|UG||q|1u|2c3|gw
+Fountainebleau|US||48|1zl|-677|gm|Fountainbleau
+Fort Beaufort|ZA||o|-2j1|21z|g8
+Fountain Valley|US||3p|2ln|-93n|fu|Fontano slėnis;Fonteinvalli;Fontana Valo;Faunten-Velli;Tóháálíní Bitééh
+Foligno|IT||9o|3bb|za|ft
+Forest|BE||8t|3x6|c1|fn|Vorst
+Fréjus|FR||9k|3cn|iq|er|Forum Iulii
+Fontenay-sous-Bois|FR||9k|3rp|6w|eh|Fontenė su Bua
+Forbesganj|IN||6t|212|6qf|e1
+Ouidah|BJ||1b|ho|5t|d8|São João Baptista de Ajudá;Fortaleza de São João Baptista de Ajudá
+Fouchana|TN||1e|2ty|s9|cj
+Fort Pierce|US||48|249|-675|cd|Ft. Pierce
+Fellbach|DE||8r|3rl|ps|c7|Föübåch
+Fond du Lac|US||2f|3dm|-6to|bx
+Fontem|CM||j|f7|rg|bv
+Fondi|IT||9o|36w|11b|b2|Fundi;Phoundoi;Phondai;Fundia
+Furmanov|RU||9i|4f1|367|ao|Furmanow;Fourmanov
+Voorburg|NL||8m|40n|c4|ak|Vorbiurgas;Vorburga;Forum Hadriani
+Fort Lee|US|New Jersey|48|35h|-5ph|a7
+Folweni|ZA||o|-2bc|2dl|a4
+Falkirk|GB||9b|4bk|-aj|9t|Folkerkas;An Eaglais Bhreac;Fawkirk;Folkirk
+Formigine|IT||9o|3ft|u5|9j|Furmèżen
+Foster City|US||3p|2wc|-9fn|9b|Foster Sitis;Foster-Siti;Thành phố Foster
+Foothill Farms|US||3p|2zg|-9d3|97
+Fonseca|CO||27|u9|-5md|8y
+Fort Pienc|ES||9d|36z|62|8t
+Folie Méricourt|FR||9k|3rr|6l|8p
+Foya Kamara|LR||15|n8|-sd|8n
+Făgăraș|RO||8u|3jd|1xd|8j|Fogarasch;Fogaras;Fegerašas;Fogarasz
+Fort Erie|CA||59|3b6|-639|8j
+Forchheim|DE|Bavaria|8r|3u4|uq|8g
+Fort Cavazos|US||2f|2eh|-7jm|88
+Fort Bragg|US|North Carolina|48|2pm|-63h|84|Fort Liberty;Fuorto Bragg;Pháo đài Bragg;Fort-Bragg
+Fort Hamilton|US||48|34u|-5pn|82
+Foça|TR||94|2zf|22c|7y|Foujes;Phogia;Fouges;Focha;Foja
+Formia|IT||9o|36m|11t|7x
+Fountain|US||2p|2zg|-82u|7q
+Forquilhinha|BR||4w|-27v|-3tf|7k|Forquilinho
+Fontana|AR||1n|-246|-4k0|7f
+Fortuna Foothills|US||4i|2iq|-8tt|7b|Atsį́įdi Kin
+Four Corners|US|Florida|48|26p|-6at|79
+Forest Hills|US|Michigan|2q|3bc|-6lh|77
+Formosa do Rio Preto|BR||20|-up|-3hj|77
+Fokino|RU||7w|3bd|a7t|76
+Varel|DE||8r|44c|mm|70|Foarel
+Fontenay-aux-Roses|FR||9k|3rj|6d|6v
+Fort Dodge|US||2f|3a2|-79l|6u
+Fontaine|FR|Auvergne-Rhône-Alpes|9k|3hj|ft|6u
+Forest Grove|US||3p|3ig|-9hz|6t
+Forquilha|BR||2w|-ak|-33u|6q
+Fountain Hills|US||4i|2ld|-8mc|6n
+Fougères|FR||9k|3qb|-3c|6l|Felger;Filiceriae
+Fort Washington|US|Maryland|48|2zj|-5xy|6l|Ft. Washington
+Forécariah|GN||f|q7|-10d|6i|Forecaria
+Formby|GB||9b|44s|-8j|6h
+Forst|DE|Brandenburg|8r|3zq|14o|6c
+Forest Lake|AU||8c|-24r|bsx|6a
+Foggy Bottom|US||48|302|-5y1|65|Froggy Bottom
+Fo Tan|HK||6i|1q8|8t7|65
+Fort Walton Beach|US||2f|2ci|-6om|62|Ft Walton Beach
+Fort St. John|CA||2o|4c9|-9bp|5z|Fort St John
+Fortín de las Flores|MX||41|1gj|-7hg|5y
+Forbach|FR||9k|3sn|j5|5y
+Follonica|IT||9o|3b9|tw|5w
+Foso|GH||1|fu|-3l|5l
+Fomento|CU||36|1pe|-65g|5k
+Fox Chase|US|Pennsylvania|48|33c|-5sk|5h
+Fontainebleau|FR||9k|3qh|7i|5h|Fontenblo;Fons Bleaudi
+Forest Lake|US|Minnesota|2f|3hs|-76b|5g
+Forest Park|US|Georgia|48|2le|-6id|5e|Forrest Park
+Fossano|IT||9o|3fr|lg|58|Fossan
+Forest Park|US|Ohio|48|315|-6iq|57
+Forney|US||2f|2iz|-7fz|54
+Formoso do Araguaia|BR||1k|-ws|-3tl|54
+Fort Gloster|IN||6t|1qi|6sy|54
+Fond Parisien|HT||4j|1ff|-5jy|53
+Formosa da Serra Negra|BR||2w|-hw|-3kb|4x
+Flórina|GR||8p|35a|1nh|4x|Follorina;Plorina
+Fontarrón|ES||9d|348|-a5|4t
+Fos-sur-Mer|FR||9k|3co|dq|4t|Fòs;Pajūrio Fosas
+Fomboni|KM||ac|-y5|3di|4t|Fumboni
+Fornacelle|IT||9o|3e0|uo|4t
+Foley|US|Alabama|2f|2ch|-6rk|4s
+Footscray|AU||8j|-2x0|b6i|4r
+Fót|HU||8v|3oa|1hb|4o
+Fortim|BR||2w|-cd|-2x0|4m
+Hondarribia|ES||9d|3ch|-50|4l|Hondarribi;Fontarabie;Fuenterrabía
+Fort Thomas|US||48|30k|-6il|4k
+Forssa|FI||92|4ox|1tm|4k|Forss
+Fontenay-le-Comte|FR||9k|3l3|-29|4j
+Fonte Boa|BR||3t|-6z|-53l|4h
+Fort Hunt|US||48|2zl|-5y2|4g
+Forio|IT||9o|356|12i|4g
+Four Corners|US|Oregon|3p|3gt|-9hm|4f
+Fort William|GB||9b|4du|-e7|4e|An Gearasdan;Fort Viljamas
+Forest Heights|CA|Ontario|59|3cm|-67o|4c
+Fortuna|BR||2w|-fx|-3eo|4c
+Fouriesburg|ZA||o|-27i|26d|4b
+Fortress Hill|HK||6i|1px|8t7|4b
+Fords|US||48|34l|-5qg|48
+Fort Leonard Wood|US||2f|2wr|-740|47
+Fort Saskatchewan|CA||2s|456|-8qh|46|Fort Saskačevanas;Ft Saskatchewan
+Forest Hill|GB||9b|3yx|-4|45
+Forrest City|US||2f|2p9|-707|43|Forest City
+Foča|BA||9r|3cv|1g6|42
+Fourmies|FR||9k|3uy|b9|3y
+Fort Payne|US||2f|2no|-6m4|3y
+Forest Park|US|Illinois|2f|38c|-6rx|3x
+Forfar|GB||9b|4dc|-81|3w|Baile Fharfair;Farfar
+Amherstburg|CA||59|38y|-6eu|3v|Fort Malden
+Forest City|US|Florida|48|27n|-6a8|3v
+Fort Carson|US||2p|2zm|-833|3u|Ft Carson
+Federación|AR||1n|-2e3|-4gw|3u|Federasyon;Federasi;Federation;Föderationen;Federashun;Federação;Federesheni
+Fort Campbell North|US||2f|2tt|-6qy|3t|Ft Campbell
+Fort Mill|US||48|2p9|-68v|3t
+Forster|AU||8l|-2he|bro|3t
+Phôngsali|LA||7v|1o8|7vm|3r|Fong Sali;Phong Saly
+Forrestfield|AU||8k|-2gu|8y9|3o
+Fostoria|US|Ohio|48|36c|-6fq|3o
+Lavello|IT||9o|361|17v|3n|Lavelo;Forentum;Labellum;Lavellu
+Fontanafredda|IT||9o|3jq|yx|3m|Fontanefrede
+Fort Drum|US||48|3ee|-5ug|3m
+Forest Hill|US|Texas|2f|2ir|-7i7|3l
+Foxrock|IE||8z|43z|-h5|3l|Carraig an tSionnaigh
+Forest Hill North|CA||59|3de|-64n|3k
+Fortaleza dos Nogueiras|BR||2w|-jc|-3ka|3i|Fortaleza dos Nogueira
+Fontenay-le-Fleury|FR||9k|3rl|5p|3i
+Fort Atkinson|US||2f|3b9|-6us|3g
+Four Corners|US|Texas|2f|2af|-7dq|3g
+Forestville|US|Maryland|48|2zx|-5xj|3g|Forrestville
+Fort Richmond|CA||5d|3ub|-7hu|3f
+Foya|CN||7i|2kw|84f|3e
+Fortuna|US||3p|34s|-9kw|3c|Fortune
+Foothill Ranch|US||3p|2ll|-92u|39
+Fort Liberté|HT||4j|1im|-5jk|37|Fòlibète
+Fort Morgan|US||2p|33t|-80c|35
+Joint Base Lewis McChord|US||3p|3mv|-9gi|32|Base de la Fuerza Aérea McChord;McChord Air Force Base;Fuorto Lewis;Fort Lewis;Joint Base Lewis-McChord
+Foz do Douro|PT||99|36b|-o3|32|Foz de Douro
+Forest Hill|AU|Victoria|8j|-2x3|b7a|30
+Forrest Hill|NZ||ak|-2u4|dhf|30
+Forest Hill South|CA||59|3dd|-64l|2z
+Fort Madison|US||2f|34v|-71o|2z
+Forest Acres|US||48|2mi|-68z|2y
+Lintuvaara|FI||92|4nb|1wx|2y|Fågelberga;Fogeli;Lindari;Lintis;Linttis
+Fosses|FR||9k|3se|6z|2x
+Forestville|US|Ohio|48|30k|-6ia|2x
+Fox Lake|US|Illinois|2f|39s|-6sy|2x
+Førde|NO||9j|4qp|ga|2v|Fords
+Forestdale|US|Alabama|2f|2l9|-6pe|2u
+Fort Knox|US||48|2x9|-6ms|2t
+Fort Salonga|US||48|35n|-5nm|2s
+Fürstenau|DE||8r|41w|lc|2r|Försnau
+Forres|GB||9b|4g1|-a2|2r|Farrais
+Fort Lee|US|Virginia|48|2vh|-5yt|2r
+Foix|FR||9k|3bd|4h|2r|Fois;Fuxium;Fuā
+Foum Zguid|MA||d|2bl|-j3|2q
+Fort Oglethorpe|US||48|2p3|-6ku|2q
+Fortitude Valley|AU||8c|-24a|bt3|2p
+Fondettes|FR||9k|3no|1o|2p
+Foz|ES||9d|3d1|-k5|2o
+Fontoura Xavier|BR||4w|-28i|-41f|2o
+Fort George G Mead Junction|US||48|30p|-5xb|2n
+Forlimpopoli|IT||9o|3er|xp|2m
+Fort Meade|US|Maryland|48|30n|-5x6|2l|Fort George Meade
+Fontaine-lès-Dijon|FR||9k|3ni|dy|2k
+Fīrūraq|IR||7o|2z6|3gk|2k|Farūraq;Forūraq
+Forest|US|Virginia|48|2vs|-649|2j
+Fosses-la-Ville|BE||8t|3w0|d2|2j|Fosse-la-Ville;Fosse-li-Veye
+Fort Polk South|US||2f|2e9|-76y|2i
+Fort Irwin|US||3p|2py|-904|2g
+Forest Hills|CA|Nova Scotia|35|3g4|-4wd|2g
+Fontaine-l'Évêque|BE||8t|3w1|c0|2f
+Fouesnant|FR||9k|3p1|-b5|2f|Fouen;Fouenant
+Fort Stockton|US||2f|2dt|-7xs|2e
+Fougamou|GA||v|-3e|te|2e
+Fort Valley|US||48|2if|-6h1|2e|Fox Valley
+Fort Bliss|US||2p|2gd|-87l|2e
+Fondé Elimane|MR||19|19c|-12o|2d|Fondé Diéri
+Forbes|AU||8l|-2kq|bf5|2d
+Folsom|US|Pennsylvania|48|32t|-5t9|2b
+Fountain Inn|US||48|2od|-6cc|2b
+Fort Mitchell|US||48|30i|-6iv|2b
+Fojnica|BA||9r|3e4|1dq|2a
+Forestville|AU|New South Wales|8l|-2lt|bo1|2a
+Formoso|BR|Minas Gerais|4w|-15j|-3kf|27
+Four Corners|US|Maryland|48|30e|-5xx|27
+Fortuna|ES||9d|2y2|-35|27
+Feurs|FR||9k|3j1|br|27|Forum Segusiavorum
+Fort Scott|US||2f|2x4|-7b3|26
+Fort Lupton|US||2p|33c|-835|26
+Fort Riley North|US||2f|30n|-7gx|26
+Fonsorbes|FR||9k|3cy|3f|25
+Fort Frances|CA||5d|3r2|-77g|25
+Fort Dix|US||48|337|-5ra|25
+Forte dei Marmi|IT||9o|3e4|s9|25
+Ford Island|US||ax|1nb|-c6s|25
+Formosa do Oeste|BR||4w|-1vh|-443|24
+Forst|DE|Baden-Wurttemberg|8r|3sk|nu|23
+Fort Lee|US|Virginia|48|2w6|-5yu|23
+Fort Bragg|US|California|3p|31l|-9jx|21
+Forest City|US|North Carolina|48|2q5|-6bf|21
+Forest Lawn|CA||2s|3xs|-8sl|20
+Fontaines-sur-Saône|FR||9k|3jc|dg|1z
+Fort Belvoir|US||48|2zj|-5yb|1z
+Fouquières-lès-Lens|FR||9k|3w3|83|1y|Fouquières-lez-Lens;Foukère-lez-Linse
+Fort Myers Beach|US||48|21h|-6bn|1y
+Foundiougne|SN||g|138|-19r|1w|Poundiougne;Foundjougne
+Faaborg|DK||8y|492|sg|1w|Foborga;Fåborg
+Fossombrone|IT||9o|3dd|zl|1w
+Fox Point|US||2f|3bw|-6s6|1w|Foxs Point
+Fouillard|FR||9k|3ps|-4e|1v
+Folha Fede|ST||1c|s|ik|1v
+Fonavi|PE||3o|-12z|-5ue|1v
+Folcroft|US||48|32t|-5t4|1u
+Forest Glen|US||48|30d|-5y1|1u
+Fort Pierce North|US||48|24b|-678|1t
+Forest Hills|US|Pennsylvania|48|34a|-65t|1s
+Formigueiro|BR||4w|-2bc|-44m|1s
+Fockbek|DE||8r|46v|qo|1s
+Fort Lincoln|US||48|304|-5xs|1s
+Forshaga|SE||9w|4ld|11g|1s
+Foum Jam’a|MA||d|2gs|-je|1s|Foum Jem‘a
+Fürstenfeld|AT||a2|3mp|18o|1r|Fölöstöm
+Funafuti|TV||as|-no|dtr|1r|Fongafale
+Foz do Sousa|PT||99|366|-nm|1r
+Feldioara|RO|Brașov County|8u|3ja|1z4|1r|Marienburg;Földvár
+Fowler|US|California|3p|2tr|-98g|1r
+Fontanka|UA||98|3ld|2dq|1r
+Forest Hills|CA|Ontario|59|3cn|-67n|1q
+Foiano della Chiana|IT||9o|3c5|wu|1q|Fojano della Chiana;Foiana della Chiana
+Forest Village Lakhipathar|IN||6t|249|7di|1p
+Fontaniva|IT||9o|3is|wn|1p
+Fordingbridge|GB||9b|3xh|-4z|1p
+Foios|ES||9d|31t|-z|1o|Foyos
+Focuri|RO||8u|3nj|23m|1o
+Fontanelas|PT||99|2zx|-q8|1o
+Forest Heights|CA|Alberta|2s|3xt|-8sl|1o
+Fort Meade|US|Florida|48|253|-6b8|1o
+Forest Grove|CA||4q|40u|-883|1o
+Foindu|SL||l|kl|-w2|1n
+Fornacette|IT||9o|3db|tf|1n
+Fond du Sac|MU||ag|-1jp|4fy|1m
+Fort Wright|US||48|30h|-6it|1m
+Bačko Gradište|RS||8q|3ih|1jn|1m|Földvár;Tisza-Földvár;Bácsföldvár
+Forest|US|Mississippi|2f|2hw|-6wj|1l
+Four Marks|GB||9b|3xz|-2x|1l
+Fountainhead-Orchard Hills|US||48|329|-5zw|1l
+Forchies-la-Marche|BE||8t|3w4|c0|1k
+Fonte Inês|CV||84|1ax|-1xe|1k
+Foxborough|US||48|38v|-5hx|1k|Foxboro
+Fort Myers Shores|US||48|227|-6b3|1j
+Forbach|DE||8r|3r8|n7|1j
+Fort Washington|US|Pennsylvania|48|33i|-5sx|1i
+Fómeque|CO||27|ch|-5pa|1i
+Fox Chapel|US||48|34j|-65w|1i
+Folkston|US||48|2dn|-6bt|1g
+Forked River|US||48|32o|-5q3|1g
+Forêt|BE||8t|3wi|fu|1g
+Fort-Shevchenko|KZ||5v|3fn|3vm|1g
+Fonyód|HU||8v|3lu|1cs|1g
+Formello|IT||9o|38u|yf|1f
+Forchtenberg|DE||8r|3sx|qk|1f
+Fort Pierce South|US||48|245|-677|1f
+Foulayronnes|FR||9k|3ew|1t|1f|Folaironas
+Fontenay-Trésigny|FR||9k|3rb|7z|1e
+Forest Hills|US|Tennessee|2f|2s7|-6p8|1e
+Fossò|IT||9o|3i3|xh|1e
+Fonsagrada|ES||9d|3bs|-jn|1e
+Forest Lodge|AU||8l|-2m4|bny|1e
+Foz do Jordão|BR||4w|-1zi|-40s|1d
+Fort Stewart|US||48|2gj|-6ap|1d|Fort Stüart
+Forăşti|RO|Suceava|8u|3nj|21j|1d
+Fourchambault|FR||9k|3mm|8k|1d|Fourchambau
+Slovenske Konjice|SI||9a|3kq|16u|1d|Slovenske Konice;folketske Konjice
+Fornosovo|RU||9i|4lh|2cv|1c|Vornasuo;Fornossowo;Fornosowo
+Fontane-Zurane-Gresine|IT||9o|3ir|rx|1c
+Foxton|NZ||ak|-34f|dix|1c
+Folschviller|FR||9k|3sc|ik|1c|Folschweiler;Folschwiller
+Forcalquier|FR||9k|3e4|g2|1b|Forcauquier;Folcalquer;Forkalkjė;Forncauquièr;Forum Calcorium
+Fox River Grove|US||2f|398|-6t1|1b
+Formoso|BR|Goiás|4w|-11x|-3rs|1b
+Fort Novosel|US||2f|2f2|-6m4|1a
+Fountain Hill|US||48|34s|-5tg|1a
+Forestbrook|US||48|2lo|-63c|1a
+Fortul|CO||27|iv|-5je|1a|Fortoul
+Foster|US||48|389|-5jc|1a
+Fortune Estate|HK||6i|1q2|8t3|1a
+Foglaş|RO||8u|3n9|1ql|19
+Fortaleza dos Valos|BR||4w|-280|-43u|19
+Fourqueux|FR||9k|3rt|5q|18
+Földes|HU||8v|3ne|1nd|17
+Ford City|US|California|3p|2pn|-97u|17
+Fougerolles|FR||9k|3p1|hs|16
+Sint-Pieters-Voeren|BE||8t|3wy|g6|16|Fouron-Saint-Pierre
+Forde|AU||8l|-2pp|bib|16
+Fosforitnyy|RU||9i|49p|302|16|Fosforitnyj;Fosforitny
+Foumbolo|CI||0|o0|-cx|15|Founbolo
+Fouras|FR||9k|3jr|-31|15
+Forty Fort|US||48|36o|-5us|15
+Saint-Pierre|MQ||3v|14y|-4py|15|Sen Pjeras;Fort Saint Pierre;Senpiè
+Forestdale|US|Massachusetts|48|37t|-5fu|15
+Fohorem|TL||6b|-ps|9nh|15
+Fort Gibson|US||2f|2rg|-7cl|15
+Fontanella|IT||9o|3ib|r8|14
+Fordyce|US||2f|2lx|-74p|14
+Forest City|US|Iowa|2f|3c6|-784|14
+Forsyth|US|Georgia|48|2jr|-6h6|14
+Fonni|IT||9o|33g|pp|14|Fonne;Onne
+Forest City|MY||6v|3q|7zr|14
+Fort McKinley|US||48|32k|-6i1|14
+Fortville|US||38|32x|-6mh|14
+Vollenhove|NL||8m|42c|gj|14|Veno;Volenhovė;Follenhove
+Forest Heights|CA|Alberta|2s|44r|-8r5|13
+Fontanellato|IT||9o|3go|sa|13
+Forest Oaks|US||48|2rz|-65f|13
+Fortress Garden|HK||6i|1px|8t7|13
+Fort-Mardyck|FR||9k|3xr|6f|12|Fort-Mardijk;Fort-Mardyk
+Fossalta di Piave|IT||9o|3is|yr|12
+Fort Langley|CA||5b|3sl|-9gi|12|Fort-Langley
+Foki|RU||7z|4dh|46z|12
+Forges-les-Eaux|FR||9k|3tt|4a|12
+Forks|US||3p|3p7|-9lj|11
+Fort Shawnee|US||48|351|-6hq|11
+Fossignano|IT||9o|37j|yw|11
+Forjadores de Pachuca|MX||41|1jq|-7mc|11
+Forest Row|GB||9b|3xy|3|11
+Forges-les-Bains|FR||9k|3r3|5u|11
+Föritz|DE||8r|3vu|v7|11
+Fortaleza do Tabocão|BR||1k|-p6|-3qs|11|Tabocão
+Fox Farm-College|US||2p|367|-833|10
+Fossacesia|IT||9o|39c|148|10
+Forino|MK||9u|386|1m8|10
+Fox Island|US||3p|3n9|-9gn|10
+Fort Defiance|US||2p|2ra|-8f0|10|Tséhootsooí
+Fontvieille|MC||9h|3dh|km|10|Fòntvielha;Fonvjėjus
+Forsyth|US|Illinois|2f|32x|-6v3|10
+Fossoli|IT||9o|3gi|u9|10
+Fengpu|CN||7i|224|95w|10|Fong-pu
+Fouanga|CI||0|lk|-gx|z|Foanga;Founga
+Fortaleza de Minas|BR||4w|-1lx|-3ls|z
+Forstinning|DE||8r|3pt|x3|z
+Forno Canavese|IT||9o|3hy|l3|y|Forn
+Forino|IT||9o|35i|14x|y
+Foumbouni|KM||ac|-wz|3cu|y|Fomboni
+Fortuneswell|GB||9b|3wg|-6s|y
+Koskela|FI|Uusimaa|92|4na|1xd|y|Forsby
+Fontvieille|FR||9k|3dh|d3|x
+Fonte Francês|CV||84|1aw|-1xe|x
+Fontaine-le-Comte|FR||9k|3l9|q|x
+Folteşti|RO||8u|3j3|25x|x
+Forestville|US|California|3p|2yv|-9hd|x|Forrestville
+Le Folgoët|FR||9k|3qw|-c2|x|Ar Folgoad;Folgoët
+Fox Run|US||48|352|-66g|x
+Fort Edward|US||48|3c7|-5oe|x
+Fontenilles|FR||9k|3cz|3b|x
+Földeák|HU||8v|3ko|1ky|x
+Fontoy|FR||9k|3t4|gn|x|Fensch
+Fort Hall|US||28|3bj|-8oc|w
+Four Corners|US|Montana|2p|3iu|-8ku|v
+Focene|IT||9o|385|xx|v
+Fortuna de Minas|BR||4w|-1ic|-3fh|v|Fortuna
+Foxtrap|CA||50|3nz|-436|v
+Forest Hills|CA|New Brunswick|43|3hv|-53d|v
+Fort Macleod|CA||2s|3u4|-8r2|v|Fort Makleodas
+Fornovo di Taro|IT||9o|3g5|s2|u|Fornoue;Fornova Di Taro;Fornova de Taro;Furnovo-Ditaro
+La Fortuna|CR|Alajuela Province|2i|t3|-6j5|u|Fortuna
+La Forêt-Fouesnant|FR||9k|3p3|-b2|u|Ar Forest-Fouenant;Forêt-Fouesnant
+Fornovo San Giovanni|IT||9o|3ie|qw|u|Fornovo di San Giovanni
+Fohnsdorf|AT||a2|3n5|14s|t
+Fonbeauzard|FR||9k|3dc|3z|t|Fombeauzard
+Fort-Coulonge|CA||59|3jc|-5x6|t
+Fowlerville|US||2q|3ai|-6hj|t
+Follansbee|US||48|341|-67w|t
+Ford City|US|Pennsylvania|48|359|-64x|t
+Fontaines-Saint-Martin|FR||9k|3jc|dh|t
+Fort Polk North|US||2f|2ee|-76u|t
+Fornaci|IT|Veneto|9o|3it|yk|t
+Foresto Sparso|IT||9o|3ix|rk|s
+Fonondara|CI||0|qb|-hf|s|Fononlara
+Fort Branch|US||2f|2y9|-6ra|s
+Foug|FR||9k|3r8|g3|s
+Forchtenstein|AT||a2|3oj|19f|s|Fraknóváralja;Fraknó;Fortnava;Forchtenau
+Forresters Beach|AU||8l|-2kt|bos|s
+Fourques|FR|Occitanie|9k|3dd|ct|s
+Fonds Verrettes|HT||4j|1f4|-5jm|s|Fon Vèrèt;Fonds Verettes;Fond Verrettes
+Piano di Follo|IT||9o|3eo|re|s|Follo;Folo
+Fossalta di Portogruaro|IT||9o|3j7|zv|s|Fossalte;Fossalta
+Folly Beach|US||48|2iq|-662|s
+Ford Heights|US||2f|37b|-6rb|s
+Formentera de Segura|ES||9d|2xt|-23|s|Formentera del Segura
+Fordham|GB||9b|41b|13|r
+Formosa do Sul|BR||4w|-221|-42n|r
+Fontany|UA||9t|3gq|2mn|r
+Foley|US|Minnesota|2f|3iu|-78v|r
+Fond des Blancs|HT||4j|1es|-5n5|r|Fond-des-Blancs;Fondèblan
+Föhren|DE||8r|3ui|is|q
+Fontanil-Cornillon|FR||9k|3hp|fq|q
+Fontaine-la-Mallet|FR||9k|3tm|f|q
+Fort Nelson|CA||2v|4jd|-9gu|q
+Fogliano|IT|Emilia-Romagna|9o|3g1|tl|q
+Fox Lake Hills|US||2f|39t|-6st|q
+Foglianise|IT||9o|36c|14r|q|Figlianese
+Forest Heights|US||48|2zt|-5xw|q
+Folonfokaha|CI||0|nu|-eh|q
+Fort Smith|CA||2s|4mo|-8mt|p
+Foungouésso|CI||0|m3|-lc|p|Foungesso;Foungouéso;Foungbésso
+Fonte Filipe|CV||84|1ax|-1xe|p
+Fornaci|IT|Piedmont|9o|3h3|l4|p
+Forestdale|AU||8c|-24u|bt0|p
+Fort Kent|US||48|3na|-5aj|p
+Forest Hill|AU|New South Wales|8l|-2pn|bdn|p
+Hondón de las Nieves|ES||9d|2yf|-2d|p|Fondó de les Neus
+Forrópuszta|HU||8v|3nu|1im|p
+Fox Creek|CA||2s|474|-90g|p
+Forsyth|US|Missouri|2f|2tx|-76o|o
+Forest|CA||59|3bq|-6bs|o
+Fobes Hill|US||3p|3p7|-9f8|o
+Forquetinha|BR||4w|-29m|-40p|o
+Förslöv|SE||9w|4cj|zm|o
+Wrangell|US||4y|4cv|-a7q|o|Wrangel;Fort Wrangel;Wrangle
+Fornaci di Barga|IT||9o|3ed|t3|o
+Forestville|CA||59|3re|-5bw|n
+La Forêt-sur-Sèvre|FR||9k|3lx|-1t|n|Forêt-sur-Sèvre
+Folói|GR||8p|2wz|1oc|n|Polóï
+Forráskút|HU||8v|3kt|1jb|n
+Foglizzo|IT||9o|3hr|lq|n|Fojiss
+Fowler|US|Indiana|38|34u|-6qk|n
+Formerie|FR||9k|3tx|4t|n
+Founex|CH||a7|3kp|h7|n
+Fort Plain|US||48|3b9|-5ra|m
+Forth|GB||9b|4ax|-a9|m
+Four Seasons|US||2f|2y4|-75j|m
+Fossbergom|NO||9j|4rs|nt|m|Lom;Loms kommun
+Formica|IT||9o|3fj|ul|m
+Foxton Beach|NZ||ak|-34e|dir|m
+Folignano|IT||9o|3ay|11v|m
+Fontaines|FR|Bourgogne-Franche-Comté|9k|3m5|d9|m
+Fowey|GB||9b|3vu|-cw|l|Fowy;Fowydh
+Fogo Island|CA||50|3u4|-46h|l
+Fort Pierre|US||2f|3f7|-7qt|l
+Fontcouverte|FR||9k|3j5|-1n|l
+Forserum|SE||9w|4ga|147|l
+Fornelos de Montes|ES||9d|39m|-nh|l
+Forlev|DK||8y|49t|va|l
+Foëcy|FR||9k|3n2|60|l
+Four Oaks|US||48|2qg|-61v|l
+Förderstedt|DE||8r|406|wb|k
+Forūd|IR||7o|297|42i|k
+Perdasdefogu|IT||9o|328|q8|k|Foghesu;Petrae Igneae
+Follainville-Dennemont|FR||9k|3s6|4r|k
+Fontanarosa|IT||9o|35y|15q|k
+Fossambault-sur-le-Lac|CA||59|3m8|-5iy|k
+Fournes-en-Weppes|FR||9k|3wi|81|k
+Fornase|IT||9o|3ic|xs|k
+Follina|IT||9o|3jn|xo|k
+Formignana|IT||9o|3gk|wy|k|Formignano
+Fort Qu'Appelle|CA||4q|3x1|-80c|k
+Fords Prairie|US||3p|3lu|-9hn|k
+Fonzaso|IT||9o|3ju|ws|j|Fonzasum;Fonsaxo
+Fontwell|GB||9b|3xa|-1t|j
+Forsyth|US|Montana|2p|3kj|-88c|j|Tšêškemâhoévehoéno
+Font-Romeu-Odeillo-Via|FR||9k|3a3|5o|j|Font-Romeu;Font Romeu
+Forotic|RO||8u|3hn|1nz|j|Forotik
+Folsom|US|New Jersey|48|320|-5rw|j
+Foros|UA||9t|3fb|2lv|i|Phoros
+Fotolívos|GR||8p|362|1ut|i|Chotolibos;Fotolívi
+Foum el Oued|EH||k|23h|-118|i
+Foieni|RO||8u|3oi|1q6|i|Mezőfény;Fienen;Foeni
+Forenza|IT||9o|35i|181|i
+Forrest|AU||8l|-2q3|bi9|i
+Foucherans|FR||9k|3ms|f6|i
+Fort Fairfield|US||48|3lx|-58f|i
+Fornells de la Selva|ES||9d|38h|7t|i
+Forest City|US|Pennsylvania|48|37p|-5tn|i
+Fontenay-en-Parisis|FR||9k|3s9|6t|i
+Forcalqueiret|FR||9k|3ce|gw|i
+Fontenay-lès-Briis|FR||9k|3r2|5z|i
+Forcoli|IT||9o|3d4|tr|i
+La Fortuna|CR|Guanacaste Province|2i|tn|-6ko|i|Fortuna
+Fonadhoo|MV||af|53|5o6|i
+Fontanelle|IT|Veneto|9o|3jb|yn|i
+Fontaine-Étoupefour|FR||9k|3sj|-1a|i
+Fort Washakie|US||2p|3bh|-8eg|i
+Forsbacka|SE|Gävleborg|9w|4oe|1aw|i
+Fort Hancock|US||2p|2ey|-861|i|Fort Handcock
+Forsbacka|SE|Västerbotten|9w|4zx|1ky|h
+Fonte Umano-San Martino Alta|IT||9o|3a4|137|h
+Foster|AU||8j|-2zd|ba4|h
+Fontana|US|Wisconsin|2f|3a7|-6u2|h
+Fogliano|IT|Friuli Venezia Giulia|9o|3jf|11g|h|Foian
+Foissiat|FR||9k|3kt|ee|h
+Foeni|RO||8u|3ie|1m0|h
+Fontaine-Notre-Dame|FR||9k|3vd|8s|h
+Fochabers|GB||9b|4g1|-8m|h|Fachabair
+La Forest-Landerneau|FR||9k|3qj|-c0|h|Ar Forest-Landerne;Forest-Landerneau
+Fort Wadsworth|US||48|34s|-5pq|h
+Forest Lake|US|Illinois|2f|399|-6sm|h
+Fodonition|CI||0|qe|-fo|h
+Fontainemelon|CH||a7|3mp|j5|g
+Fougerolles-du-Plessis|FR||9k|3qn|-2p|g
+Fodio|CI||0|qg|-ha|g|Fodyo
+Forest Parish|GG||91|3tb|-78|g
+Fox Chase|US|Pennsylvania|48|348|-5v0|g|Foxchase
+Fort William|CA||50|3o5|-42e|g
+Folgaria|IT||9o|3jk|v1|g
+Forest-sur-Marque|FR||9k|3wn|8v|g
+Foktő|HU||8v|3l9|1gk|g
+Fort Montgomery|US||48|36t|-5pj|g
+Fanzolo|IT||9o|3iz|xb|g|Fonzolo
+Forano|IT||9o|39i|yz|f|Furrianum;Foranu
+Fossalunga|IT||9o|3ix|xh|f
+Fontenay-le-Marmion|FR||9k|3sd|-z|f
+Folzano|IT||9o|3ie|sd|f
+Fontenay-sur-Loing|FR||9k|3pm|7q|f|Fontanetum ad Luvam
+Foula|CI||0|py|-ln|f|Foulla
+Forūtaqeh|IR||7o|2pt|4ij|f
+Forsheda|SE||9w|4es|12f|f
+Folembray|FR||9k|3tm|95|f
+Fosston|US||2f|3o6|-7dz|f
+Fontevraud-l'Abbaye|FR||9k|3n2|5|f|Fontevraud;Fontevrault-l'Abbaye;Fontevrault
+Fontaine-le-Bourg|FR||9k|3to|38|f
+Fort Loramie|US||48|343|-6id|f
+Forno di Zoldo|IT||9o|3kr|xu|f
+Foresthill|US||3p|30e|-9bm|f|Forest Hill
+Fox Lake|US|Wisconsin|2f|3d1|-6uz|f|Foxlake
+Fontaine-lès-Luxeuil|FR||9k|3oy|hl|f
+Furmanivka|UA||98|3is|297|f|Furmaniwka;Fourmanivka;Furmanca;Furmanovka;Furmanowka
+Fort Benton|US||2p|3ou|-8jf|f
+'s-Gravenvoeren|BE||8t|3x0|g0|f|Fouron-le-Comte
+Fornosh|UA||98|3qc|1r6|f|Fornos;Fornus
+Fosca|CO||27|c2|-5pe|f
+Forest|US|Ohio|48|35c|-6fz|e
+Folkling|FR||9k|3sj|j5|e|Folckling
+Four Crosses|GB||9b|42k|-8k|e
+Fourouna|CI||0|ml|-ie|e
+Port Gibson|US||2f|2gs|-70q|e|Fort Gibson
+Fort Recovery|US||48|349|-6ji|e|Ft Recovery;Recovery
+Forest Glen|AU||8c|-225|bt0|e
+Four Lanes|GB||9b|3vg|-ek|e
+Foro Foro|CI||0|m6|-e2|e
+Fors|FR||9k|3kg|-15|e
+Fort Dick|US||3p|38b|-9kv|e
+Fognano|IT|Emilia-Romagna|9o|3et|wm|e
+Fortrose|GB||9b|4fy|-bh|e|A' Chananaich;Chainry
+Fontanar|ES||9d|354|-8t|e
+Fort St. James|CA||5b|47a|-9l6|e
+Fortín Olavarría|AR||1l|-2r6|-4v2|e
+Fort Ashby|US||48|31q|-62t|e
+Forreston|US||2f|391|-6wu|e
+Forville|BE||8t|3wh|dw|e
+Foscoe|US||48|2sg|-6b5|e
+Fosse|BE||8t|3vu|g8|e
+Forestville|AU|South Australia|8b|-2p3|aoy|d
+Forrières|BE||8t|3v9|eo|d
+Fossa|IT|Emilia-Romagna|9o|3gs|um|d
+Foz do Arelho|PT||99|31k|-pl|d
+Forche|IT||9o|3g0|td|d
+Fosso Ghiaia|IT||9o|3f8|y1|d
+Foxford|IE||8z|45y|-pc|d|Béal Easa
+Foro|CI||0|q5|-fv|d
+Fontannes|FR||9k|3hu|ag|d|Fontanes
+Fornole|IT||9o|3a6|ym|d
+Fort Covington Hamlet|US||48|3gx|-5qz|d
+Fort Belknap Agency|US||2p|3qo|-8e5|d
+Fontenais|CH||a7|3no|jo|d
+Fortune|CA||50|3mr|-4b3|d
+Folgoso de la Ribera|ES||9d|3ah|-hk|d
+Foussais-Payré|FR||9k|3l9|-1w|d
+Fort Thompson|US||2f|3ef|-7o8|d
+Fonte Bastardo|PT||81|2zh|-238|d|Fonte do Bastardo
+Forchheim|DE|Baden-Wurttemberg|8r|3pt|le|d
+Forest Park|US|Maryland|48|319|-5x0|d
+Fontevivo|IT||9o|3gm|s9|d
+Fourques-sur-Garonne|FR||9k|3fh|g|d
+Palaiá Fókaia|GR||8p|2ws|1uj|d|Fókaia
+Foster Brook|US||48|38m|-62e|d
+Fochriw|GB||9b|3zq|-96|d
+Forest Meadows|US||3p|2y1|-9ah|c
+Foto-Kouamékro|CI||0|l1|-e9|c
+Fort Totten|US||2f|3pa|-7mz|c
+Fort Deposit|US||2f|2gu|-6oi|c
+Fonollosa|ES||9d|380|4n|c
+Fontezuelas|MX|Hidalgo|41|1kx|-7mn|c
+Fondachelli-Fantina|IT||9o|2xi|166|c
+Fort Clark Springs|US||2f|29f|-7qy|c
+Fombio|IT||9o|3he|qw|c
+Fowler|US|Michigan|2q|3bg|-6je|c
+Foresta|IT|Calabria|9o|30m|1ap|c
+Fontanelice|IT||9o|3ey|w4|c
+Fowlmere|GB||9b|40p|7|c|Foulmere
+Fontaneto D'Agogna|IT||9o|3is|nk|c
+Fort Davis|US||2f|2cz|-80l|c
+Fond Bassin Bleu|HT||4j|1iz|-5m8|c
+Forest Ranch|US||3p|32s|-9dz|c
+Fouquières-lès-Béthune|FR||9k|3wc|79|c|Foukère-lès-Bétheune
+Fontanetto Po|IT||9o|3hj|mr|c
+Forrest|US||2f|357|-6tl|c
+Foulridge|GB||9b|45o|-61|c
+Fonelas|ES||9d|2vx|-8t|c
+Fort-Mahon-Plage|FR||9k|3vu|4c|c
+Fowler|US|Colorado|2p|2xx|-80y|b
+Forges|BE||8t|3uz|c1|b
+Foam Lake|CA||4q|3zh|-7zl|b
+Fornace Zarattini|IT||9o|3fe|xp|b
+Fondo|IT||9o|3l0|uy|b
+Forău|RO||8u|3lr|1po|b
+Fontaine-au-Pire|FR||9k|3v9|9e|b
+Fort Gaines|US||48|2ft|-6k9|b
+Formicola|IT||9o|36h|13j|b
+Fontaine-la-Guyon|FR||9k|3qn|3n|b
+Fort Simpson|CA||2s|4ru|-9d3|b
+Fonteblanda|IT||9o|3a8|v1|b
+Fountain Green|US||2p|323|-8m4|b|Haltsooítah Háálį́
+Forest Park|US|Oklahoma|2f|2qm|-7ip|b
+Foucarmont|FR||9k|3uh|4d|b
+Fontaine-Valmont|BE||8t|3vs|bp|b
+Fontenay|FR||9k|3to|i|b
+Fornace|IT||9o|3k4|v5|b
+Forette|IT||9o|3hy|ue|b
+Fossato Ionico-Fossatello-San Luca Marcelluzzo|IT||9o|2xl|17s|b
+Fort Shafter|US||ax|1na|-c6l|b
+Hondón de los Frailes|ES||9d|2yb|-2l|b|Fondó dels Frares;El Fondó dels Frares
+Fonz|ES||9d|38p|q|b|Fonts
+La Fortuna|MX||3x|1nv|-83j|a|Fortuna
+Fouquereuil|FR||9k|3wc|78|a
+Forrestdale|AU||8k|-2hc|8y1|a
+Fonfría|ES||9d|37n|-h2|a
+Fontignano|IT||9o|3bi|xv|a
+Fontaine-le-Dun|FR||9k|3ud|2d|a
+Fozi'ao|CN||7i|1qx|8s7|a
+Foulsham|GB||9b|42m|2t|a|Foulham
+Forua|ES||9d|3cd|-7g|a
+Fortschwihr|FR||9k|3pl|kp|a|Fortschweier
+Föderlach I|AT||a2|3lg|12s|a
+Foiano di Val Fortore|IT||9o|36v|15m|a
+Fortaleny|ES||9d|30u|-u|a
+Fonteana|CV||84|160|-1ts|a
+Forestière|LC||52|12s|-4pc|a
+Forest Hill|AU|Queensland|8c|-24n|br8|a
+Fontanars dels Alforins|ES||9d|2zq|-27|a|Fontanares
+Fondaco-Margherito|IT||9o|2x6|155|a
+Fountainstown|IE||8z|3zu|-n2|a|Baile Mhóntáin;Ballymontane
+Forme di Suio-San Cataldo|IT||9o|36p|12i|a
+Forosna|UA||98|3q8|21g|a|Forostna
+Four|FR||9k|3in|ef|a
+Fontenay-le-Pesnel|FR||9k|3sl|-1m|a
+Forest Knolls|CA||5b|3sj|-9gi|a
+Fouénan|CI||0|mk|-la|a|Fouena
+Foncine-le-Haut|FR||9k|3lm|gv|a
+Fontenay-Saint-Père|FR||9k|3s6|4w|a
+Fontenailles|FR||9k|3qv|87|a
+Fosso di San Giuliano|IT||9o|38f|zb|a
+Foxfire|US||48|2pq|-651|a
+Forni di Sopra|IT||9o|3ky|yy|a|For Disore;Fors Disore
+Follebu|NO||9j|4q2|sk|a
+Forges|FR||9k|3k3|-2i|a
+Fourneaux|FR|Auvergne-Rhône-Alpes|9k|3hj|ih|a
+Foreman|US||2f|2lo|-7a8|a
+Fourques|FR|Occitanie|9k|3aa|7q|a|Forques
+Fondón|ES||9d|2uq|-7y|9
+Fontaines|FR|Pays de la Loire|9k|3ky|-2a|9
+Fort Chiswell|US||48|2un|-68u|9
+Forcé|FR||9k|3pf|-1y|9
+Fontaine-Française|FR||9k|3o0|ex|9
+Fontiveros|ES||9d|35p|-ds|9
+Fourougbankoro|CI||0|n5|-fz|9
+Fort Sumner|US||2p|2nr|-81l|9
+Fockendorf|DE||8r|3xt|yn|9
+Fontenay-le-Vicomte|FR||9k|3qv|6o|9
+Forcett|AU||8g|-3aw|be3|9
+Fontaine-lès-Vervins|FR||9k|3uh|au|9
+Fontana|MT||9e|2s4|13k|9
+Fonte Alto|IT||9o|3j8|wy|9
+Fodonzologo|CI||0|pz|-fs|9
+Fognano|IT|Tuscany|9o|3e3|uo|9
+Fontaine-le-Port|FR||9k|3qp|7p|9
+Fontaine-les-Grès|FR||9k|3qi|au|9
+Fort Calhoun|US||2f|376|-7er|9
+Fougeré|FR|Pays de la Loire|9k|3lm|-3f|9
+Fort Gates|US||2f|2f8|-7jf|9
+Fantan|AM||80|347|3g5|9|Fontan
+Fordongianus|IT||9o|333|oh|9
+Folaha|TO||bi|-1mt|-dim|9
+Fordoche|US||2f|2d0|-72i|9
+Feldkirchen an der Donau|AT||a2|3qb|131|9|Feldkirchen a. d. Donau;Föikirchn an da Doana
+Fort Albany|CA||59|411|-6aw|9
+Fossé|FR||9k|3ob|3k|9
+Fontane Bianche|IT||9o|2up|169|9
+Fort Loudon|US||48|32v|-60e|9
+Fontès|FR||9k|3cy|9e|9
+Foen|IT||9o|3jw|x3|9
+Folksworth|GB||9b|41u|-v|9
+Forcola|IT||9o|3k8|qu|9
+Fouke|US||2f|2ke|-78t|9
+Fontaine-Simon|FR||9k|3qq|2u|9
+Fort Lawn|US||48|2oe|-68p|9
+Alfondeguilla|ES||9d|32n|-r|9|Fondeguilla
+Fornillo|IT||9o|35c|14c|9
+Fontaine-Bellenger|FR||9k|3sn|3i|9
+Fonvouanou|CI||0|ks|-ep|9|Fonvonou
+Fountain City|US|Wisconsin|2f|3el|-72s|8
+Les Fougerêts|FR||9k|3om|-65|8|Felgerieg-al-Lann;Fougerêts
+Fors|SE|Västernorrland|9w|4w6|1fm|8
+Fossalta Maggiore|IT||9o|3j1|yv|8
+Fontaine-sous-Jouy|FR||9k|3sb|3l|8
+Fonte Lima|CV||84|15x|-1tq|8
+Forst|DE|Rheinland-Pfalz|8r|3tb|mr|8
+Foxhol|NL||8m|43p|io|8
+Fordū|IR||7o|2n6|3xe|8|Fardū
+Forholan|UA||98|3ph|1rs|8
+Fontain|FR||9k|3n4|gr|8
+Fourges|FR||9k|3sg|4k|8
+Sint-Martens-Voeren|BE||8t|3wz|g5|8|Fouron-Saint-Martin
+Fordland|US||2f|2v8|-766|8
+Fontellas|ES||9d|38r|-4e|8
+Fournès|FR||9k|3e1|cs|8
+Fourquevaux|FR||9k|3cv|4i|8
+Fontana Scurano|IT||9o|37x|115|8
+Fontana|IT|Lombardy|9o|3iq|s2|8
+Footville|US||2f|3aj|-6vt|8
+Foleştii de Jos|RO||8u|3h6|1uw|8
+Fornelos|PT||99|37c|-o4|8
+Folligny|FR||9k|3rm|-3x|8
+Fontanelle|IT|Abruzzo|9o|3ae|12p|8
+Fossanova San Marco|IT||9o|3gf|wb|8
+Foots Creek|US||3p|39s|-9i2|8
+Fort Chipewyan|CA||2s|4j4|-8ko|8
+Folkingham|GB||9b|42x|-15|8|Falkingham
+Forest Hill|US|Louisiana|2f|2e8|-751|8|Foresthill
+Fontet|FR||9k|3fs|-3|8|Hontet
+Folsom|US|Louisiana|2f|2d3|-6yj|8
+Fondi|CI||0|in|-ef|8
+Fosdondo|IT||9o|3gd|tt|8|Fosfondo
+Folx-les-Caves|BE||8t|3wq|dq|8
+Fonanvogo|CI||0|q0|-g2|8
+Fountain City|US|Indiana|38|330|-6jw|8
+Fours|FR||9k|3m2|ac|8
+Fownhope|GB||9b|40h|-7a|8
+Forgaria nel Friuli|IT||9o|3ke|101|8
+Forone|IT||9o|3du|ts|8
+Villandro|IT||9o|3lj|w2|8|Villanders;Foyandrum
+Fors|SE|Dalarna|9w|4n9|19b|8
+Fosseuse|FR||9k|3sp|63|8
+Foster Land|KY||2e|1iu|-65i|8
+Foleștii de Sus|RO||8u|3h9|1uu|8
+Fonda|US|New York|48|3bb|-5qm|8
+Fornaci|IT|Umbria|9o|3bi|yi|8
+Fondarella|ES||9d|37n|2f|8
+Fondó|MX||41|1jq|-7p4|8
+Foxfield|US||2p|31z|-833|8
+Fontaine-Guérin|FR||9k|3nx|-j|8
+Foundo|CI||0|ro|-gg|8
+Fort Vermilion|CA||2s|4i7|-8y9|8
+Fondachello|IT||9o|2y6|16o|8
+Formigara|IT||9o|3hm|r5|8
+Fougeré|FR|Pays de la Loire|9k|3ob|-f|8
+Fontes Almeida|CV||84|15o|-1tf|7
+Forden|GB||9b|426|-8o|7
+Forchtenau|AT||a2|3q2|11d|7
+Fontenay-sur-Eure|FR||9k|3qg|3x|7
+Fourná|GR||8p|30i|1os|7
+Fononkaha|CI||0|oe|-ef|7
+Foulain|FR||9k|3pg|eh|7
+Fornace-Torribina|IT||9o|3dk|u6|7
+Fontenoy-le-Château|FR||9k|3p9|h8|7
+Force|IT||9o|3bc|11h|7
+Kilmuckridge|IE||8z|41v|-hg|7|Cill Mhucraise;Ford
+Fontenoy|BE||8t|3wh|9n|7
+Fort Duchesne|US||2p|33x|-8h5|7
+Forno|IT||9o|3eg|sa|7
+Fougères-sur-Bièvre|FR||9k|3nt|3q|7
+Fontegreca|IT||9o|376|13e|7
+Forno Casale|IT||9o|38j|z4|7
+Fort McPherson|CA||2s|57c|-aep|7
+Fornalutx|ES||9d|32i|7m|7
+Ford|GB||9b|42g|-7z|7
+Fontanesi-Santa Lucia|IT||9o|316|18z|7
+Fornelli|IT||9o|37l|13a|7
+Fostoria|US|Michigan|2q|3c5|-6fl|7
+Forest View|US||2f|385|-6rv|7
+Fountaindale|AU||8l|-2kn|bok|7
+Les Fontenelles|FR||9k|3n4|iq|7|Fontenelles
+Fort Jones|US|California|3p|37l|-9h8|7
+Fortezza|IT||9o|3lz|w9|7|Francisci Oppidum
+Ford End|GB||9b|3zz|17|7
+Fox River|US||1h|4ma|-bnc|7
+Focșănei|RO||8u|3hi|22m|7|Focşenei
+Fort Gay|US||48|2xw|-6dg|7
+Forth|AU||8g|-36h|ba7|7
+Foot of Ten|US||48|34a|-61y|7
+Fontaine-au-Bois|FR||9k|3va|a5|7
+Fort Augustus|GB||9b|4eq|-d0|7|Cille Chuimein
+Forestville|US|New York|48|39z|-63y|7|Forrestville
+Fovant|GB||9b|3xu|-5j|7
+Le Fouilloux|FR||9k|3hj|-d|7|Fouilloux
+Folégandros|GR||8p|2tr|1x8|7|Folégandhros
+Fonteno|IT||9o|3j4|ru|7
+Folgensbourg|FR||9k|3o3|kp|7|Folgensburg
+Foresta|IT|Calabria|9o|31w|19u|7
+Fontyniasy|UA||98|3q0|1tz|7|Fontynyasy
+Fouquebrune|FR||9k|3ih|l|7
+Ford|IE||8z|41v|-hg|7
+Fooz|BE||8t|3ws|f4|7
+Fölz|AT||a2|3o1|16b|7
+Forsby|SE||9w|4oo|1bl|6
+Fontana|IT|Emilia-Romagna|9o|3fa|v8|6
+Fontaine-de-Vaucluse|FR||9k|3e0|e9|6|Vauclusa;Fonten de Vokliūzas;La Fònt de Vauclusa;Vaucluse
+Fort Jones|US|California|3p|2ya|-9ai|6
+Fontelo|PT||99|368|-lh|6
+Fontanelle|IT|Emilia-Romagna|9o|3gx|se|6
+Forset|NO||9j|4q0|s6|6|Fosset
+Fontanelle|US||2f|36p|-7ao|6
+La Feuillée|FR||9k|3qf|-aq|6|Ar Fouilhez;Folium
+Forst|DE|Rheinland-Pfalz|8r|3x4|lc|6
+Fondotoce|IT||9o|3jn|nl|6
+Fossoy|FR||9k|3s9|9o|6
+Föglö|AX||9f|4mp|1kp|6|Foegloe;Fögleö
+Fotö|SE||9w|4g7|we|6
+Faala|CI|Woroba|0|n6|-lk|6|Fala;Foala
+Fontes|PT||99|321|-mv|6
+Fort Cobb|US||2f|2pi|-7lg|6
+Fo‘ui|TO||bi|-1mn|-dj2|6
+Fononvogo|CI||0|qv|-fe|6|Fonovogo
+Fontana Pradosa|IT||9o|3h6|qa|6
+Foussemagne|FR||9k|3oc|jg|6
+Fossalta|IT||9o|3im|xc|6
+Fort Providence|CA||2s|4qf|-92t|6
+Forest Junction|US||2f|3et|-6su|6
+Forchia|IT||9o|35z|14e|6
+Fontaine-Heudebourg|FR||9k|3sh|3d|6
+Focșeașca|RO||8u|3md|24r|6|Focşasca
+Formigosa|IT||9o|3hd|u6|6
+Fötschach|AT||a2|3ln|171|6
+Fonda|US|Iowa|2f|3aa|-7bh|6
+Fouchy|FR||9k|3q9|k7|6
+Fornaci|IT|Lombardy|9o|3hk|qw|6
+Forheim|DE||8r|3rh|t1|6
+Fortino J. Pinacho|MX||41|1dz|-7f5|6|Fortino V. Pinacho
+Foxworth|US||2f|2es|-6xn|6
+Fontezuelas|MX|Michoacán|41|1ie|-7tt|6
+Forni di Sotto|IT||9o|3kv|z7|6|Fors Disot
+Forkland|US||2f|2ip|-6s4|6|Falkland
+Fossa|IT|Veneto|9o|3id|xq|6
+Fox Mountain|CA||5b|40u|-9f7|6
+Fongrave|FR||9k|3fp|14|6
+Forgandenny|GB||9b|4cj|-9o|6
+Fontanès|FR||9k|3ij|cc|6
+Fourmetot|FR||9k|3t6|1l|6
+Fontaine-Fourches|FR||9k|3qh|9f|6
+Foinikounta|GR|Peloponnese|8p|2u9|1ol|6|Finikounda
+Foinikoúnta|GR|Peloponnese|8p|2u9|1ol|6
+Forest Home|US||48|39x|-5wf|6
+Fouju|FR||9k|3qz|7q|6|Fonju
+Fontenille-Saint-Martin-d'Entraigues|FR||9k|3k4|-d|6|Fontenille-Saint-Martin-dEntraigues
+Fort Yukon|US||1h|54w|-b7j|6
+Foliá|GR||8p|35d|1v4|6|Foleá
+Fort White|US||48|2b4|-6dr|6
+Fornaci|IT|Lombardy|9o|3j1|po|6
+Foussignac|FR||9k|3iz|-c|6
+Fontaines-en-Sologne|FR||9k|3nz|4b|6|Fontaine-en-Sologne
+Faistenau|AT||a2|3oq|10r|6|Foastnau
+Fortià|ES||9d|39c|8g|6
+Fonsomme|FR||9k|3um|9g|6
+Fosser|NO||9j|4m6|vx|6
+Fowler|US|Kansas|2f|2vv|-7qc|6
+Fornaci|IT|Piedmont|9o|3io|nx|6
+Fossemagne|FR||9k|3hd|2q|6|Fòssamanha;Fòssa Manha
+Fourneaux|FR|Auvergne-Rhône-Alpes|9k|3jm|bv|6
+Foiana|IT||9o|3lf|uz|6
+Fadyushina|RU||7z|4dr|4u9|5|Fadjusjina;Fadjuŝina;Fadyushino;Fodyushina
+Fontaine|FR|Bourgogne-Franche-Comté|9k|3oe|jg|5
+Fontenoy|FR||9k|3t9|8w|5
+Fossa|IT|Abruzzo|9o|39h|11h|5
+Fontainhas|PT||99|326|-nn|5
+Fossarmato|IT||9o|3hj|pm|5
+Foúrka|GR||8p|335|1t2|5
+Fontana|IT|Emilia-Romagna|9o|3g4|u0|5
+Foynes|IE||8z|425|-pb|5|Faing
+Fontvannes|FR||9k|3q4|ar|5
+Forshom|IR||7o|2vr|3u8|5
+Forstau|AT||a2|3nm|11o|5
+Forstviertel|AT||a2|3mz|16n|5
+Fort Greely|US||1h|4xp|-b8u|5
+Fontana Vaglio|IT||9o|34a|171|5
+Fontcouverte-la Toussuire|FR||9k|3hp|hi|5|Fontcouverte-la-Toussuire
+Fontaine-Henry|FR||9k|3sw|-19|5
+Forstheim|FR||9k|3rt|lf|5
+Forcall|ES||9d|34x|-k|5
+Fordsville|US||2f|2wk|-6ow|5
+Fort Liard|CA||2s|4nc|-9iz|5
+Folles|FR||9k|3k4|42|5|Faulas
+Forgan|US||2f|2uj|-7ra|5
+Forlì del Sannio|IT||9o|37u|13e|5
+Forssjö|SE||9w|4jr|199|5
+Fournival|FR||9k|3tf|6m|5
+Forest-en-Cambrésis|FR||9k|3va|9x|5
+Foristell|US||2f|2zu|-70o|5|Foristeel
+Foria|IT||9o|33d|16k|5
+Fortogna|IT||9o|3kf|y5|5
+Fontona|CV||84|162|-1sh|5
+Forest Home|BZ||24|18u|-6ur|5
+Fougax-et-Barrineuf|FR||9k|3b4|59|5
+Four Bears Village|US||2f|3pa|-7wy|5
+Foreston|US||2f|3j1|-78b|5
+Fort Good Hope|CA||2s|542|-9xc|5
+Forza d'Agrò|IT||9o|2xc|16l|5
+Forăști|RO|Iași County|8u|3nj|23s|5
+Forman|US||2f|3k3|-7j8|5
+Forest Reefs|AU||8l|-2ky|bi4|5
+Four Lakes|US||3p|3o4|-92n|5
+Föllinge|SE||9w|4wv|14m|5
+Fournols|FR||9k|3ig|9z|5
+Fort Jesup|US||2f|2ft|-77g|5|Fort Jessup
+Fontaine-la-Gaillarde|FR||9k|3py|9e|5
+Fountain Lake|US||2f|2o1|-76b|5

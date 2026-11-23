@@ -1,0 +1,45 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sydney|AU||8l|-2m3|bo1|17ic|Sidnejo;Sidney;Sidnėjus;Sydneium;Sidneja;Sanctus Dionysius;Syd;Sidni;Sėdniejos;Sit-nì;Sék-nà̤;Sidnei
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Shekhupura|PK||6q|2g3|5pj|4ka|Sheikhu Pura;Śekhupura;Sheikhupura
+Sekondi|GH||1|dp|-4r|27b
+Xizhi|TW||7l|1xn|9dy|1ku|Hsichih;Sip-chṳ-khî;Sidži;Tịch Chỉ;Se̍k-chí-khu;Hszicse;Hsi-chih
+Skudai|MY||6v|4a|7zy|18d|Scudai;Sekudai
+Sekondi-Takoradi|GH||1|dp|-4w|12l|Sékondi;Sekondis-Takoradis;Sekondi Takoradi
+Székesfehérvár|HU||8v|3n3|1f5|s8|Stolni Biograd;Albareale;Stoličný Belehrad;Alba Regia;Stuhlweißenburg;Sēkešfehērvāra;Sėkešfehėrvaras;Alba Regalis;Sekešfehervar;Fehérvár
+Sekimachi|JP|Gifu|7q|2qk|akc|np
+Sheki|AZ||61|36f|3n1|j0|Şeki;Shaki
+Sek’ot’a|ET||2|z3|30f|dz|Sak’ot’ā;Sokota
+Szekszárd|HU||8v|3kr|1fz|9i|Seksar;Seksardas;Seksard;Sechsard;Sechshard
+Segezha|RU||9i|4x3|2nc|9a|Segezja;Sekee;Segeža;Segesha
+Sekong|LA||7v|16n|88g|5l|Xekong
+Sekimachi-minami|JP||7q|2r8|arq|4l
+Seka|TH||62|1dt|80s|4l
+Sekinchan|MY||6v|9r|7su|3o|Sekincan;Selinchan
+Skhira|TN||1e|2na|rz|3b|Sekhira;Skira;Skhrira
+Sekimachi|JP|Kumamoto|7q|2ju|a2m|2i
+Sokyryany|UA||98|3ql|245|2h|Secureni;Sokyriany;Sokiryany;Sekiryany;Sekuren’;Sekuryany
+Sekichō-furumaya|JP||7q|2ot|aiw|21
+Sekigahara|JP||7q|2q9|aj3|1z
+Šekovići|BA||9r|3f2|1ge|1r|Šejkovići;Šejković
+Sekimachi-higashi|JP||7q|2r9|arq|1f
+Sokyrnytsia|UA||98|3po|1t0|16|Sokyrnytsya;Sokyrnyzja;Sokirnicja;Szeklence;Sekernice;Seclenț;Sokirnitsa
+Cerca la Source|HT||4j|1h9|-5jf|s|Sèka Lasous
+Sekili|TR||94|2uq|2wn|q|Orol;Orul
+Sekake|LS||12|-2bc|26r|o|Sekoke
+Seh Gel|IR||7o|241|4et|m|Sekal;Sekol
+Dunaszekcső|HU||8v|3k1|1g4|m|Sekçöy;Seetschke;Florentia;Lugio;Sečuv;Sečuj;Sečuh;Sektsche;Retschingen;Seetsche
+Sekrepeng|ZA||o|-1xc|2ed|k
+Sekule|SK||8s|3r0|1b8|h
+Sękowa|PL||a5|3tu|1mw|f
+Sekretarka|UA||98|3ph|2ct|e
+Seki|JP||7q|2xj|au5|d
+Sekirnik|MK||9u|374|1rc|c
+Sékonkaha|CI||0|ri|-g6|b|Sakoun-Kaha
+Sekretarivka|UA||98|3lm|2c4|b|Georgental’;Sekretarëvka;Sekretariwka
+Seksenören|TR||94|2up|30j|b|Seksenveren
+Shekhanya|IL||6n|2j9|2px|8|Šechanja;Szechanija;Şekhanya
+Sékouaye|CI||0|mz|-7t|8
+Sékré-Bango|CI||0|m1|-94|7
+Seki|TR||94|2t8|2hc|6
+Sheqef|IL||6n|2fk|2p2|5|Šekef;Shekef

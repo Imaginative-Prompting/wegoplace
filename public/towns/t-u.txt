@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wuhan|CN||7i|2cy|8tf|2y0e|Vuhano;Uhaņa;Vũ Hán;uuxan;Uxan;Vú-hon-sṳ;Wu-chan;Uhanas;Vuhan;Vuhani;Vujhan;Bú-hàn-chhī;Ū-háng;Uhan
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Rio de Janeiro|BR||4w|-1rn|-3by|1g2e|Rio-de-Ĵanejro;Rio de Žaneiras;Urbs Fluminensis;Riodežaneiro;Rio-de-Janeyro;Rio de Janeiru;rios. dis. djaneiros;Riviéthe dé Janvyi;Rio dé Janéyro;Rio-de-Žaneýro;Rio de Zhaneiro;Riu de Janeiru;Rio-de-Žaneiro;Rio de Janêro;Rio dė Žaneiros;Riu de Janeiro;Rio-de-janeiro;Rio d Janeiro
+Wuxi|CN|Jiangsu|7i|2fp|9a5|xxc|Usis;Wu-si;Vô Tích;Vuŝio;Vuhszi;Bû-sek-chhī;Ù-sék;Vuzsiz;Vuši;Usi;Wu-hsi;Wusih
+Ürümqi|CN||7t|3do|6rc|va4|Urumchi;Urumtschi;Urumĉio;Urumczi;Urumči;Ürümcsi;Urumčis;Ürümchi-sṳ;Öremçe;Dihua;Oʻrumchi;Urunchi;Dikhua;Wurumch’ih;Urumptsi;Urumtsi;Urumutsi;Ti-hua
+Belo Horizonte|BR||4w|-1jc|-3e2|l00|Bel-Horizonto;Bhte;Belo Hte;B.H.;Urbs Pulchri Horizontis;Belu Orizonti;Belu-Orizonti;Bello Horizonte
+Wenzhou|CN||7i|25s|9b7|kg4|Wen-čou;Venĝou;Wénju shehiri;Wentsjou;Vûn-chû-sṳ;Ôn Châu;Un-chiu-chhī;Ŭng-ciŭ;Vencsou;Vendžou;Yongjia;Wen-chou
+Ouagadougou|BF||1a|yd|-49|imx|Wàadúu;Uagaduguo;Uagadugú;Vagadugu;Wagadugu;Huagadugu;Uaqaduqu;Ougadougou;Ouagadouga;Uagadougou
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Port Harcourt|NG||u|da|jh|gcw|Port Harkortas;Ugwu Ọcha;Port Xarcourt;Port Harkurt
+Omdurman|SD||r|17g|2i8|e9t|Omdourman;Umm Durmān;Omdoerman
+Wuhu|CN||7i|2f3|94z|cby|Wu-chu;Vuĥu;Ù-hù;Bû-hô͘-chhī;Vu Hồ;Ouhu
+Fushun|CN||7i|38d|9ka|at2|Fusjun;Fu-šun;Fuŝuno;Fušunas;Phủ Thuận;Ū-sông;Fusun;Bú-sūn-chhī;Fu-shan
+Montevideo|UY||45|-2oy|-4c3|9sz|Montevidėjas;Montevidéu;Muntividèu;Muntividëw;Urbs Montis Videi;Montevidiejos
+Weinan|CN||7i|2nu|8g7|995|Wej-nan;Vị Nam;Ôi-nàng;Veinan;Ūi-lâm-chhī;Veynan
+Sofia|BG||9v|3am|1ss|8w6|Ulpia Serdica;Sofio;Sofiya;Sofija;Sofie;Szófia;Serdica;Sofja;Sofya;Sofii;Sóifia;Suofėjė;Sofijo
+Ufa|RU||7z|482|4bh|8n9|Oefa;Uffa
+Ulsan|KR||7h|2qq|9z7|8h4
+Fuzhou|CN|Jiangxi|7i|25o|8z5|8er|Ū-ciŭ;Fu-čou;Vù-chû-sṳ;Phủ Châu;Bú-chiu-chhī;Fu-chou
+Odesa|UA||98|3l5|2de|7sp|Odessa;Odessus;Udessa;Odessza;Ades;Odess;Khadjibey
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Rosario|AR||1n|-2jj|-4og|7bf|Rosarijas;Rozarîyo;Urbs Rosariensis
+Ulan Bator|MN||7s|3p3|88w|6io|Ulaanbaatar;Oulan-Bator;Ulánbátar;Ulaanbaataro;Ulánbátor;Ulã Bator;Ulan Batur;Ulaan Baatar;Ulaanbaator;Ulaanbaatur;Uranbatoru
+Weihai|CN||7i|2w7|9f7|6ij|Uy Hải;Wej-chaj;Ŭi-hāi;Veihai;Ui-hái-chhī
+Freetown|SL||l|nl|-10s|66y|Fritaŭno;Fritaunas;Fritonn;Urbs Libera;Fritaun;Frītauna
+Bujumbura|BI||b|-9e|29k|5xp|Buyumbura;Buĵumburo;Bužumbūra;Boujoumboura;Usumbura
+Uberlândia|BR||4w|-1gk|-3q4|5tq|Uberlandija
+Huangshi|CN||7i|2c1|8vl|5b5|Huangsji;Chuang-š;Huangŝi;Hoàng Thạch;Uòng-siŏh;N̂g-chio̍h-chhī;Khuanshi;Huan-shih;Huang-shih;Huan-shi;Hwangshih
+Ulyanovsk|RU||9z|46x|3qf|4u1|Uljanowsk;Oulianovsk;Uliánovsk;Ul'janovsk;Oeljanovsk;Oeljanofsk;Uljanovsk;Uljanovsko;Uljanovszk;Uljanovskas;Uļjanovska;Ul’yanovsk
+Vladivostok|RU||7w|3br|a6b|4o1|Wladiwostok;Władywostok;Vlagyivosztok;Uładzivastok;Vladyvostok
+Orūmīyeh|IR||7o|2wb|3h8|4gd|Urmía;Urmiya;Ûrmiye;Ourmia;Urmija;Urūmiyeh;Orumieh
+Ümraniye|TR||94|35y|28w|4f9
+Ulanqab|CN||7i|35v|8q9|48u
+Selayang Baru Utara|MY||6v|91|7uf|46o|Selayang
+Oujda|MA||d|2oc|-5b|45x|Wadżda;Uĝda;Ujda;Udžda;Wejda;Ucda;Ouja;Oudjda
+San Salvador|SV||2u|121|-6vr|424|Salvador;San-Salvador;San Salwador;San-Salvadoro;Urbs Sancti Salvatoris;Sansalvadora;San Salvadò
+Üsküdar|TR||94|35y|28l|41p|Scutari;Skutari
+Utsunomiya|JP||7q|2tl|ask|404|Ucunomija
+Ulhasnagar|IN||6t|1he|5n7|3zi|Ulasnagaras;Ulasnagara
+Ujjain|IN||6t|1se|5ui|3z4|Udždžain;Uddzsaín;Udžainas;Udžaina;Ujjayn

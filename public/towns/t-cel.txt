@@ -1,0 +1,100 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chelyabinsk|RU||7z|498|4qn|9a0|Tscheljabinsk;Cheliábinsk;Čeljabinsk;Ĉeljabinsko;Tšeljabinsk;Tcheliabinsk;Čeļabinska;Tsjeljabinsk;Czelabińsk;Tjeljabinsk;Çelyabinsk;Čeliabinskas;Celiabinsc;Celeabinsk;Cseljabinszk;Čeläbinsk;Tsyelyabinsk;Txeliabinsk;Celiabinsca
+Celaya|MX|Guanajuato|41|1l0|-7s1|2mk|Selaja
+Jalālābād|AF||6o|2nn|5fp|23j|Dschalalabad;Dżalalabad;Celalabad;Jalolobod;Jelalabad;Dzhelalabad;Djelalabad
+Manas|KG||65|35q|5mr|y8|Dschalalabat;Jalal-Abad;Džalal-Abad;Žalal-Abad;Dzjalal-Abad;Dżalalabad;Djalalabad;Džalalabat;Žalalabad;Ĵalalabat;Žalalabat;Dzsalalabad;Džalal Abadas;Celal-Abad;Jalolobod;Džalalabada;Džalal Abad;Dzhalal-Abad
+Cheltenham|GB||9b|406|-5s|x0|Čeltnamas;Ĉeltnamo
+Chelmsford|GB||9b|3zq|1b|uz|Čelmsfordas;Čelmsfuords
+Klagenfurt am Wörthersee|AT||a2|3li|13r|rv|Klagenfurt;Clagenfurtum;Celovec;Klāgenfurte;Celovac;Celovec na Vrbskem jezeru
+Cela|AO||x|-vq|160|p0|Kela
+Celle|DE||8r|426|s0|jq|Celė;Cella
+Celina|US|Texas|2f|2kk|-7gu|hw
+Chelsea|GB||9b|3z1|-h|go|Çelsi
+Celje|SI||9a|3kf|16e|al|Celeia;Celė;Sele;Tsel'e
+Celbridge|IE||8z|446|-i6|5n|Cill Droichid;Selbridžas
+Celendín|PE||3o|-j3|-613|43
+Çelikhan|TR||94|2xn|2y8|3m|Celikan
+Čelákovice|CZ||9m|3vc|14z|3h|Cellakovice;Celakoyice
+Celldömölk|HU||8v|3na|1bn|36|Kiscell;Czelldömölk
+Celina|US|Ohio|48|34n|-6ix|2w
+Celano|IT||9o|38w|11k|2s
+Çeltik|TR||94|30e|2gb|2m
+Celâliye|TR||94|361|26y|26
+Celebration|US||48|26p|-6ah|22
+Celestún|MX||3z|1ly|-6z4|1w
+Cellino San Marco|IT||9o|34f|1dw|1v|Cellinu Santu Marcu
+Čelinac|BA||9r|3g8|1c4|1v
+Cellole|IT||9o|36g|12h|1m
+Celanova|ES||9d|393|-m4|1j
+Celica|EC||33|-be|-664|1j
+Celaru|RO||8u|3ed|1v1|1h
+Cellamare|IT||9o|35y|1b1|1g|Cellammare
+Chelsea|US|Michigan|2q|39k|-6he|1g|Çelsi;Chelsia
+Čelarevo|RS||8q|3hr|1i8|1e|Čelarevas;Dunacséb
+Čelopek|MK||9u|38h|1md|1b|Çallapek
+Celle Ligure|IT||9o|3f7|nr|19
+Celada|PR||4m|1er|-539|18
+Eflani|TR||94|372|2jk|18|Çelebiler
+Celestynów|PL||a5|40m|1nf|14
+Celles-sur-Belle|FR||9k|3ki|-l|10
+Le Cellier|FR||9k|3ng|-3r|10|Keller;Cellarium;Cellier
+Cellatica|IT||9o|3im|sa|z
+Celrà|ES||9d|38r|80|y
+Celestial Heights|HK||6i|1q0|8t7|x
+Cela|PT||99|31u|-p3|x
+Chelopechene|BG||9v|3ap|1t7|v|Čelopečene
+Cella|ES||9d|34d|-3l|s
+Celso Ramos|BR||4w|-24r|-3ym|s
+Çeltikçi|TR|Antalya|94|2u8|2fg|s
+Celio|IT||9o|38d|yq|o
+Seillans|FR||9k|3d8|ig|n|Celhan;Selhan
+Celico|IT||9o|317|19e|m
+Cellettes|FR||9k|3o1|3u|m
+Čeladná|CZ||9m|3tn|1ey|m
+Celles-sur-Durolle|FR||9k|3je|a4|k
+Çele|TR||94|359|2ex|i
+Chelopech|BG||9v|3am|1uw|i|Čelopeč
+Celenza Valfortore|IT||9o|37g|15m|h
+Cellieu|FR||9k|3ig|cm|f
+Celina|US|Tennessee|2f|2tj|-6lj|f
+Čelechovice na Hané|CZ||9m|3tk|1bh|d
+Celles|BE|Wallonia|8t|3wp|el|c
+Celerina|CH||a7|3l7|re|c|Schlarigna
+Çeltiksuyu|TR||94|2zy|34q|c
+La Celle-sur-Morin|FR||9k|3rl|89|c|Celle-sur-Morin
+Cellore|IT||9o|3id|v2|c
+Cellere|IT||9o|3a3|wp|c
+Celle-Lévescault|FR||9k|3ky|j|b
+La Celle-Saint-Avant|FR||9k|3mm|1o|b|Celle-Saint-Avant
+Celayita|MX||41|1k8|-7pe|b
+Tselafon|IL||6n|2gc|2p1|b|Kfar Uriyah Bet;Celafon;Tzelafon;Zelafon;Kefar Uriyah Bet
+Çelemli|TR||94|2ud|2r1|b|Çelimli
+Celle di Bulgheria|IT||9o|33e|16s|b|Celle Bulgheria
+Celmira|PA||4g|nr|-6e0|b
+Cély|FR||9k|3qm|71|b
+Celoron|US||48|38z|-648|b
+Čeľadice|SK||8s|3q9|1eo|b
+Zillingtal|AT||a2|3ot|19l|9|Celindof;Völgyfalva
+Celleno|IT||9o|3a8|xo|9
+Celenza sul Trigno|IT||9o|38b|14i|9
+Čeline|HR|Split-Dalmatia|a6|3d8|1a1|9
+Celine|HR|Zagreb County|a6|3jh|19k|9
+Celles-sur-Plaine|FR||9k|3ql|jb|9
+Celeste|US||2f|2kh|-7f7|8
+La Celle-sur-Loire|FR||9k|3nv|85|8|Celle-sur-Loire
+Celaya|MX|Tamaulipas|44|1qo|-7mt|8
+Celatica-Tolari|IT||9o|3iu|ri|8
+Celestino Gazca Villaseñor|MX||3x|1u6|-88w|7
+Celles|BE|Wallonia|8t|3vj|dx|7
+Çeltikçi|TR|Mersin|94|2t0|2me|7
+Celei|RO||8u|3h1|1rp|7
+Cellule|FR||9k|3jn|8q|7
+Céligny|CH||a7|3kr|h8|7|Siliniacum
+Celles|BE|Wallonia|8t|3wv|9m|7
+La Celle-Dunoise|FR||9k|3kn|4x|6|La Cela de Dun;Celle-Dunoise
+Cellino Attanasio|IT||9o|3ab|12i|6
+Celia González de Rovirosa|MX||41|1e6|-77d|6
+Celles|FR||9k|3hu|15|6
+Čelčice|CZ||9m|3t9|1br|5
+Çelebaşı|TR||94|31s|3ag|5
+Celorio|ES||9d|3cn|-dd|5

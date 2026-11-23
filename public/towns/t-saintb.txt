@@ -1,0 +1,89 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Brieuc|FR||9k|3qs|-7p|eo|Sant-Brieg;Fanum Sancti Brioci;Saint-Brieu
+Saint-Benoît|RE||ai|-1mg|4as|aa
+Saint-Bruno-de-Montarville|CA||59|3ih|-5nr|6s
+Saint-Barthélémy|FR|Provence-Alpes-Côte d'Azur|9k|3cd|f0|57
+Saint-Basile-le-Grand|CA||59|3ih|-5nk|4c
+Saint-Brice-sous-Forêt|FR||9k|3s4|6j|3s
+Saint-Barnabé|FR|Provence-Alpes-Côte d'Azur|9k|3ca|f2|3d
+Saint-Brevin-les-Pins|FR||9k|3n9|-61|2w|Sant-Brewenn;Sanctus Brevenus
+Saint-Benoît|FR|New Aquitaine|9k|3lb|y|24
+Saint-Berthevin|FR||9k|3pj|-2b|1x
+Saint Blazey|GB||9b|3vw|-d4|1u
+Saint-Bonnet-de-Mure|FR||9k|3ix|dz|1n
+Saint-Barthélemy|FR|Provence-Alpes-Côte d'Azur|9k|3dg|k5|1j
+Saint Bernard|US||48|30t|-6iq|18
+Sankt Blasien|DE||8r|3oo|ml|15|Saint Blasien;San Blasien;St. Blasien
+Saint-Brice-Courcelles|FR||9k|3sv|b2|10
+Saint-Baldoph|FR||9k|3ih|gj|v
+Saint-Blaise|CH||a7|3mm|jf|v
+Saint-Brès|FR||9k|3db|b7|s
+Saint-Bruno|CA||59|3qn|-5j1|q
+Saint-Brice-en-Coglès|FR||9k|3qh|-3t|q|Sant-Brizh-Gougleiz;Sanctus Bricius de Coglesio
+Saint-Benoît-de-Carmaux|FR||9k|3ed|5x|o|Sant Benesech de Carmauç
+Saint-Branchs|FR||9k|3n7|25|n
+Saint Bonifacius|US||2f|3gr|-78f|n|St. Bonifacius
+Saint-Brandan|FR||9k|3qf|-7z|m|Sant-Vedan
+Saint-Beauzire|FR||9k|3jd|8u|l
+Saint Bonaventure|US||48|38w|-620|k|St. Bonaventure
+Saint-Bon-Tarentaise|FR||9k|3i7|ig|k|Sent-Bon-Tarentèsa
+Saint-Benoît-sur-Loire|FR||9k|3ot|6f|k|Fanum Sancti Benedicti ad Ligerim
+Saint-Briac-sur-Mer|FR||9k|3r2|-5x|j|Sant-Briag;Sanctus Briacus;Saint-Briac
+Saint-Barthélemy-de-Vals|FR||9k|3hh|dj|h
+Saint-Bonnet-près-Riom|FR||9k|3jl|8n|h
+Saint Bees|GB||9b|47d|-9z|g|Saint Bega;St Bees;St. Bees
+Saint-Bonnet-le-Château|FR||9k|3i6|bb|g|Sant Bonet dau Chastèl
+Saint-Bonnet-en-Champsaur|FR||9k|3g4|gw|g|Sant Bonet;Sant Bonet de Champsaur
+Saint-Brice-sur-Vienne|FR||9k|3jg|2n|e
+Saint-Barnabé|FR|Brittany|9k|3pq|-7i|e|Sant-Barnev
+Saint Boswells|GB||9b|4ad|-7c|e
+Saint-Barnabé-Sud|CA||59|3j1|-5mk|e
+Saint-Béron|FR||9k|3ie|fx|d
+Saint-Bonnet-les-Oules|FR||9k|3ij|c1|d
+Saint-Bauzille-de-Putois|FR||9k|3dy|ae|d|Sent Bausèli de Pedoci;Sent Bausèli
+Saint-Benin-d'Azy|FR||9k|3mk|9f|d|Saint-Benin-dAzy
+Saint-Bruno-de-Guigues|CA||59|3nv|-64n|b
+Saint-Bris-le-Vineux|FR||9k|3om|a5|b
+Saint-Brisson-sur-Loire|FR||9k|3od|7g|b
+Saint-Baudelle|FR||9k|3q4|-1s|b|Saint-Beaudelle
+Saint-Boniface|CA||59|3l6|-5v2|a
+Saint-Berain-sous-Sanvignes|FR||9k|3lr|bx|a
+Saint-Brice|FR|New Aquitaine|9k|3ix|-s|a
+Saint-Broladre|FR||9k|3qz|-4m|a|Sant-Brewalaer
+Saint-Blimont|FR||9k|3v8|4d|a
+Saint-Bômer-les-Forges|FR||9k|3r4|-1r|a
+Saint-Blaise-du-Buis|FR||9k|3i2|fc|9
+Saint-Blaise|FR||9k|3dq|k4|9
+Saint-Barthélemy|FR|Bourgogne-Franche-Comté|9k|3on|ia|9
+Saint-Bénigne|FR||9k|3l0|dt|9
+Saint-Bonnet-sur-Gironde|FR||9k|3hz|-1u|9
+Saint-Barthélemy|FR|Auvergne-Rhône-Alpes|9k|3h0|fn|9
+Saint-Benoît-des-Ondes|FR||9k|3r2|-55|9|Lanwezoù
+Saint-Bonnet-de-Joux|FR||9k|3l4|cc|9
+Saint-Babel|FR||9k|3io|96|8
+Saint-Bauzille-de-Montmel|FR||9k|3dl|b0|8
+Saint-Bauzille-de-la-Sylve|FR||9k|3d6|9v|8|Saint-Beauzille-de-la-Sylve;Saint-Beauzille-de-la-Silve
+Saint-Benoît-la-Forêt|FR||9k|3n6|w|8
+Saint-Brice|FR|Île-de-France|9k|3qx|98|8
+Saint-Bonnet-Tronçais|FR||9k|3lm|7h|8
+Saint-Benoît-du-Sault|FR||9k|3l0|3v|8|Sent Benet de Saut
+Saint-Bonnet-le-Courreau|FR||9k|3iu|az|8
+Saint-Basile|CA||43|3nn|-59n|7
+Saint-Barthélemy-le-Plain|FR||9k|3h5|d7|7
+Saint-Bueil|FR||9k|3ic|ft|7
+Saint-Bonnet-de-Rochefort|FR||9k|3k7|8q|7|Sant Bonet de Ròchafòrt
+Saint Bernice|US||38|32b|-6r4|6|St. Bernice
+Saint-Benoît|FR|Auvergne-Rhône-Alpes|9k|3ix|fj|6
+Saint-Bonnet-du-Gard|FR||9k|3e1|cm|6
+Saint-Baudille-de-la-Tour|FR||9k|3j7|eu|6
+Saint-Barthélemy-Lestra|FR||9k|3j0|c2|6
+Saint-Brice-de-Landelles|FR||9k|3qt|-37|6
+Saint-Biez-en-Belin|FR||9k|3ou|o|6
+Saint-Bardoux|FR||9k|3h9|dt|6
+Saint-Bernard-de-l'Île-aux-Coudres|CA||59|3mr|-5fy|6
+Saint-Bonnet-de-Chavagne|FR||9k|3hd|ej|6
+Saint-Barthélemy-de-Séchilienne|FR||9k|3h5|g7|6
+Saint-Beauzély|FR||9k|3ep|88|6|Sent Bausèli
+Saint-Bonnet-de-Bellac|FR||9k|3k9|2n|5
+Saint-Bernard|FR||9k|3hx|ge|5
+Saint-Bonnet-Briance|FR||9k|3iz|44|5

@@ -1,0 +1,112 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Peshawar|PK||6q|2mh|5iu|10pw|Peschawar;Pesjawar;Peszawar;Pexauar;Pešavaras;Péšávar;Peŝavaro;Pešāvara;Peşaver;Peshovar
+Pest|HU||8v|3ny|1h0|7q9|Peszt
+João Pessoa|BR||2w|-jr|-2ou|6b3|Ĵoan-Pesoo;Žoan Pesoa
+Pescara|IT||9o|39y|13g|x8
+Pesaro|IT||9o|3dz|zw|lg|Pèsaru;Pisaurum
+Pesqueira|BR||4p|-n8|-2ty|hf
+Pestlőrinc|HU||8v|3nr|1he|gb
+Pessac|FR||9k|3gh|-1r|g3|Peçac;Peçac de Bordèu
+Pesterzsébet|HU||8v|3nr|1h4|a0
+Pisochyn|UA||98|3ur|2sa|6j|Pesochin
+Peshtera|BG||9v|38r|1vi|57|Peshchera;Pechtera;Peštera;Peščera;Peschtera
+Pestovo|RU||9i|4ir|2rg|4f|Piestowo;Pjestowo;Pestowo
+Peshkopi|AL||9y|37t|1kr|43|Peškopija;Peşkopi;Peshkepija;Peshkopla
+Pescantina|IT||9o|3id|u7|39
+Pescia|IT||9o|3dx|tp|38
+Peschanokopskoye|RU||9i|3kb|364|35|Pestsjanokopskoje;Peschanokopskaya
+Pestújhely|HU||8v|3o2|1h5|2y
+Pescaria Brava|BR||4w|-26t|-3rs|2u
+Pieszyce|PL||a5|3wv|1a2|2m|Pešice;Peterswaldau
+Pesthidegkút|HU||8v|3o4|1go|2j
+Pézenas|FR||9k|3cq|9i|2e|Pesenàs
+Pessano Con Bornago|IT||9o|3ij|q2|2d
+Pesochnyy|RU||9i|4n0|2bs|29|Pesotsjnyj;Hiekka;Ruavski;Pesochnoye;Pesochnaya
+Peschiera del Garda|IT||9o|3i8|tp|25
+Pestretsy|RU||9i|4av|3tx|21
+Piskivka|UA||98|3wt|2aa|1x|Peskovka
+Peskovka|RU||97|4k0|41g|1v
+Pestravka|RU||9p|41k|3us|1u
+Pisticci|IT||9o|347|1a0|1o|Pesticium
+Peseux|CH||a7|3mj|j5|1l
+Pesqueira|MX||37|29m|-8k2|1l
+Pesquería|MX||44|1zn|-7px|1j
+Pesca|CO||27|ff|-5mx|1f
+Peso da Régua|PT||99|36c|-ln|1e|Peso de la Régua
+Pishchane|UA|Poltava|98|3sg|2ks|1d|Peschanoye;Peschanskoye
+Peseggia-Gardigiano|IT||9o|3ik|xu|1c
+Pishchanka|UA|Dnipropetrovsk|98|3r1|2q5|16|Pishanka;Peschanka
+Peştişani|RO||8u|3h7|1rz|16
+Pestyaki|RU||9i|4dj|3aj|16|Pestjaki
+Pishchane|UA|Cherkasy|98|3u7|2gg|12|Peschanoye
+Peski|RU||9i|49e|2zo|11
+Peshkovo|RU||9i|3mm|31f|10|Pashkovo
+Pescador|BR||4w|-1f0|-37k|10
+Peştera|RO|Constanța County|8u|3eq|265|z
+Pescina|IT||9o|38q|11x|z
+Peshtigo|US||2f|3h5|-6rr|y
+Poschiavo|CH||a7|3ko|ry|y|Pesclavium;Puschlav;Puscciâf;Poschiavu
+Peschici|IT||9o|38j|18i|y
+Pespire|HN||56|11r|-6qo|w
+Pesochnoye|RU||9i|4h5|30u|u|Pesotsjnoje
+Pescarenico|IT||9o|3jc|q4|u|Pescarenech;Pescarenegh
+Pesé|PA||4g|lz|-67x|q
+Pisky-Radkivski|UA||98|3sv|2wh|p|Peski-Rad'kovskiye;Pisky-Rad’kivs’ki
+Pescasseroli|IT||9o|384|12b|m
+Pescate|IT||9o|3jb|q3|m|Pescatum;Pescaa
+Peșteana Jiu|RO||8u|3gl|1sq|m|Peşteana-de-Jiu
+Pescadería|DO||4v|1er|-5hp|l
+Peschadoires|FR||9k|3jb|9p|l|Peschadoire
+Pesceana|RO||8u|3gn|1v1|k
+Pesac|RO||8u|3js|1lw|k|Pesak
+Pesagot|PS||6n|2gm|2pu|j|Psagot
+Pescopagano|IT|Basilicate|9o|35f|16s|j
+Pesse|NL||8m|42l|hx|i|Pesė
+Pešca|ME||9l|3az|1j6|i
+Peștiș|RO||8u|3mr|1q9|f
+Pesche|IT||9o|37l|13o|e
+Pessione|IT||9o|3gx|ls|d
+Peștișu Mare|RO||8u|3j8|1rp|d|Pestişul-Mare
+Peştişu Mic|RO||8u|3j8|1rk|d|Pestişul-Mic
+Peșteana de Jos|RO||8u|3gj|1sn|c
+Pescarolo|IT||9o|3hj|sb|c
+Pesco Sannita|IT||9o|36j|155|b
+Pesmes|FR||9k|3nc|fh|b
+Ammochóri|GR||8p|35a|1no|b|Pesonitsa;Pesosnitsa
+Peshki|RU||9i|4bx|2uz|b|Pesjki
+Pescocostanzo|IT||9o|38d|133|b
+Pescia Romana|IT||9o|39s|vy|a
+Pesets|UA||98|3ri|23j|a
+Pesche|BE||8t|3v0|ce|9
+Nuevo Pescadito de Abajo|MX||41|1eo|-7fn|9|Pescadito de Abajo
+Pesnica|SI||9a|3lh|17k|9
+El Pescadero|HN||56|12p|-6of|9|Pescadero
+Pescadero|MX||3x|1pn|-84l|9
+Pescolanciano|IT||9o|37s|13u|9
+Peștere|RO||8u|3mn|1q6|8|Peştera
+Peschanoye|UA||9t|3gk|2ld|8
+Peščenica|HR||a6|3io|18x|8
+Pistrialovo|UA||98|3qd|1rc|8|Pestryalovo;Pistryalove;Pistryalovo
+Pesine Bisse|IT||9o|3io|tv|7
+Pessoux|BE||8t|3vo|ed|7
+Pessin|DE||8r|428|z7|7
+Pessines|FR||9k|3j1|-20|7
+Pesina Spezie|IT||9o|3io|tx|7
+Peștera|RO|Brașov County|8u|3if|1y8|7
+Pessan|FR||9k|3d6|1t|7
+Pestra|RO||8u|3ek|1w5|7
+Pescosolido|IT||9o|37z|11y|7
+Pescadero|US||3p|2vh|-9fy|6
+Pisky|UA|Poltava|98|3uy|2jx|6|Peski
+Pescorocchiano|IT||9o|399|10j|6
+Pesquería Rancho Salinas|MX||41|191|-79u|6|Salinas
+Pescopagano|IT|Campania|9o|362|12p|6
+Pessondougou|CI||0|nk|-cu|6
+Pesochenskiy|RU||9i|46h|2sb|5|Pesotsjenskij;Lesochenskiy
+Destro|IT||9o|31p|1ad|5|Pestro
+Peșteana|RO||8u|3ij|1re|5
+Pesotum|US||2f|32v|-6t7|5
+Peschanka|RU||a4|3r8|3fv|5|Peschany;Peschanyy
+El Pescadito|MX||41|1or|-7q1|5|Pescadito
+Pesquera de Duero|ES||9d|37o|-bk|5
+Pescărești|RO||8u|3fh|1ui|5

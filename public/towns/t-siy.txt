@@ -1,0 +1,16 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Seattle|US||3p|3o9|-9ft|60y|Seattlum;Sietlas;Sietla;Sietl;Séatl;Siyaatil;Seatlo
+General Santos|PH||71|gz|9np|5kl|Siyudad na Heneral Santos;Heneral Santos
+Cabanatuan City|PH||71|171|9c1|2nh|Cabanatúan;Ciudad ti Cabanatuan;Lungsod ng Cabanatuan;Siudad ti Cabanatuan;Lakanbalen ning Cabanatuan;Siyudad na Cabanatuan
+Cavite City|PH||71|148|9bu|w7|Cavite;Dakbayan sa Cavite;Bandar Cavite;Ciudad ti Cavite;Cavite Lakanbalen;Lungsod ng Kabite;Syudad han Cavite;Siyudad na Cavite;Kavite
+Siyabuswa|ZA||o|-1xr|28o|ca
+Siyazan|AZ||61|364|3sg|77|Siazan’
+Siyeke|CN||7t|2uh|6ag|63
+Sīāhkal|IR||7o|2v7|3uj|5j|Seyāh Kal;Sīyāh Kal;Sīāh Kal
+Seyah Cheshmeh|IR||7o|30j|3fa|4y|Sīāh Cheshmeh;Sīyah Cheshmeh
+Siyalédouo|CI||0|p4|-8c|16
+Seyélihouo|CI||0|qu|-gv|r|Siyéliouo
+Sīyah Banū’īyeh|IR||7o|29i|4e4|l|Sīāhbenū’īyeh
+Sīah Bāz|IR||7o|2zq|3he|k|Sīyāh Bāz
+Sīyāhū|IR||7o|254|4ch|a
+Sīāh Varz|IR||7o|2u3|3xb|9|Siyah Varz;Sīāvarz

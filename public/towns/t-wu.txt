@@ -1,0 +1,164 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wuhan|CN||7i|2cy|8tf|2y0e|Vuhano;Uhaņa;Vũ Hán;uuxan;Uxan;Vú-hon-sṳ;Wu-chan;Uhanas;Vuhan;Vuhani;Vujhan;Bú-hàn-chhī;Ū-háng;Uhan
+Bogotá|CO||27|ct|-5ps|1n7s|Bogoto;Boqota;Wukuta;Buoguota;Bogot
+Wuzhong|CN||7i|2xj|870|1jkr
+Wuxi|CN|Jiangsu|7i|2fp|9a5|xxc|Usis;Wu-si;Vô Tích;Vuŝio;Vuhszi;Bû-sek-chhī;Ù-sék;Vuzsiz;Vuši;Usi;Wu-hsi;Wusih
+Ürümqi|CN||7t|3do|6rc|va4|Urumchi;Urumtschi;Urumĉio;Urumczi;Urumči;Ürümcsi;Urumčis;Ürümchi-sṳ;Öremçe;Dihua;Oʻrumchi;Urunchi;Dikhua;Wurumch’ih;Urumptsi;Urumtsi;Urumutsi;Ti-hua
+Wuhu|CN||7i|2f3|94z|cby|Wu-chu;Vuĥu;Ù-hù;Bû-hô͘-chhī;Vu Hồ;Ouhu
+Wuchang|CN|Hubei|7i|2cu|8ti|8i6
+Wuwei|CN||7i|2xd|7x3|7sn
+Wuchuan|CN||7i|1nm|8jp|702
+Wuzhou|CN||7i|1t8|8l5|5vn|Wu-čou;Ǹg-chû-sṳ;Ngô Châu;Ngouzcouh;Ngù-ciŭ;Ngô͘-chiu-chhī;Wu-chou
+E’zhou|CN||7i|2cg|8v5|55r|Wuchang;Ezhou
+Wuppertal|DE||8r|3ye|jv|2s8|Vupertāle;Vuppertal;Wupperdaal;Vupertalis
+Wolverhampton|GB||9b|423|-5w|219|Vulverhemptona;Vulverhamptonas;Heantun;Wulfrunehantona;Vulverhempton
+Wuxue|CN||7i|2ax|8wz|1pb
+Wuhai|CN||7i|328|88q|1oo|Ŭ-hāi;Wu-chaj;Vuhajo;Vû-hói-sṳ;Uhajus;Ô Hải;O͘-hái-chhī
+Wujiaqu|CN||7t|3eo|6r4|16w
+Wūdān|CN||7i|3b9|96m|12j|Wu-tan
+Wuyishan|CN||7i|254|93v|123|Ū-ì-săng-chê;Vũ Di Sơn;Vú-yî-sân-sṳ
+Würzburg|DE||8r|3ub|rn|115|Wurtzbourg;Herbipolis;Wurtzburgo;Würzbörj;Wiazburg;Viurcburgas;Vircburga;Herbopolis;Virtibriga;Wirciburc
+Wugang|CN||7i|229|8jb|10t|Wu-kang
+Wolfsburg|DE||8r|41m|ty|y7|Wolfsbourg;Wolfsbörj;Wulfsborg;Volfsburgas;Wolfsbuurich
+Wuda|CN||7i|31q|88f|y3|Wu-ta
+Wushan|CN|Chongqing|7i|2ec|8h8|wr
+Wuzhishan|CN||7i|1g6|8g6|v7
+Wuchang|CN|Heilongjiang|7i|3gt|9t8|qc
+Wukari|NG||u|lv|r6|pt|Ukari
+Wilhelmshaven|DE||8r|44r|mi|ng|Willemshaven;Wülmshoawen;Willelmeshæfen;Vilhelmshafenas
+Wuyang|CN|Anhui|7i|2gv|8yx|lz
+Wulong|CN|Chongqing|7i|29g|8bc|lq
+Wusu|CN||7t|3ff|6j8|k6|Xihu;Shixu;Wu-su;Usu
+Wushan|CN|Gansu|7i|2og|83d|j2|Ushan
+Wuxi|CN|Hunan|7i|21u|8mq|ig
+Wufeng|TW||7l|1uu|9ba|i8|Vú-fûng-hiông;Vụ Phong;Bū-hong-khu;Wufong;Wu-feng
+Wik’ro|ET||2|12c|320|hs|Wukro;Uikro
+Wujing|CN||7i|2t9|94w|gr
+Wucheng|CN||7i|2a8|949|gq
+Wuzhen|CN||7i|2df|9ap|go|Wu-chen
+Wolfenbüttel|DE||8r|40w|ta|f7|Wulfenbüttel;Guelpherbytum;Volfembutel
+Wulingyuan|CN||7i|29j|8j2|en
+Wum|CM||j|hq|rz|bt
+Wuduan|CN||7i|2o1|91a|bm|Wu-tuan
+Wunstorf|DE||8r|41m|q8|bg
+Würselen|DE||8r|3x6|h1|ab|Wösjele;Wöschele
+Wujia|CN|Chongqing|7i|2ab|84r|9l
+Wuying|CN||7i|2p9|866|9l
+Wushan|CN|Shandong|7i|2sp|964|9f
+Wuhe|CN||7i|1x2|7m3|95
+Wundwin|MM||7y|1ml|7er|92
+Wudalike|CN||7t|2yk|5y9|8r|Wudaleke
+Wutan|CN||7i|29a|86m|84
+Wuma|CN|Chongqing|7i|2dp|8fu|77
+Budaörs|HU||8v|3nu|1go|6z|Wudersch;Jerša;Erša;Vundeš;Vicus Teuto
+Wuling|CN||7i|2cr|8cq|6u
+Wu Kai Sha|HK||6i|1qb|8tc|6j
+Wudil|NG||u|wt|ok|6f
+Vukovar|HR||a6|3hz|1gs|67|Wukowar;Cornacum
+Wülfrath|DE||8r|3yg|jk|5r|Wuelfrath;Viulfratas
+Wuqiao|CN||7i|2di|8da|5r
+Wutongshu|CN||7i|2y2|878|5p
+Wujian|CN||7i|292|85z|5j
+Wushan|CN|Chongqing|7i|2dy|8bv|5i
+Vura|SB||av|-q8|ccf|58|Wura;Ura
+Wushipai|CN||7i|1qk|8sf|54
+Großenhain|DE||8r|3yh|11l|52|Haganoa;Wulki Hojn;Grosenhaina
+Wudong|CN||7i|2bx|8a6|4s
+Wu'erqi|CN||7t|2vo|650|4k
+Uliastay|MN||6j|3om|7h0|4j|Uliastai;Uliyasutai;Oulia-Sontai;Javkhlant;Uliystoy;Uliasutay;Javhlant;Jawkhlant;Uliassutai;Uliyassutai;Uljasutai;Ulyasutay;Uriyasutai;Wu-li-ya-su-t’ai;Wu-lu-ya-su-t’ai
+Wujia|CN|Guangxi|7i|1oh|8ev|4b
+Wurzen|DE||8r|3yp|ze|48|Worcyn;Vurcene
+Wuustwezel|BE||8t|3yr|cs|46|Wuestwezel
+Wujiahe|CN||7i|2ob|84c|43
+Budakeszi|HU||8v|3nz|1gl|3z|Wudigess
+Vuktyl|RU||9i|4xd|4f7|3t|Wuktyl;Vouktyl;Voektyl;Vuktıl;Vuktõl
+Wurno|NG||u|10x|f2|3n
+Wu King|HK||6i|1q6|8sl|3n
+Wülflingen (Kreis 6)|CH||a7|3nz|o4|3i
+Wundanyi|KE||16|-9g|2yk|3h
+Wuku|CN||7i|2jr|83p|34
+Wuping|CN|Chongqing|7i|2as|8c9|30
+Wunsiedel|DE||8r|3v0|xc|2v
+Wuyo|NG||u|sv|wi|2k
+Wufu|CN||7i|28w|8f4|2c
+Wugui|CN||7i|2au|85s|2b
+Wuli|CN||7i|29k|8eg|28
+Wustermark|DE||8r|41z|zy|25
+Großröhrsdorf|DE||8r|3y3|12y|21|Wulke Rědorjecy;Grosrērsdorfa
+Wüstenrot|DE||8r|3sc|qa|1w
+Wuma|CN|Gansu|7i|2ju|84w|1v
+Wutöschingen|DE||8r|3oe|n9|1v
+Wusterhausen|DE||8r|42x|ym|1u
+Wulingshan|CN||7i|2a1|8as|1s|Wulongshan
+Wulai|TW||7l|1x2|9dn|1q|Vû-lòi-khî;Vulajus;Ô Lai;U-lai-khu;Olay;Wu-lai
+Wulong|CN|Chongqing|7i|2fx|8fz|1o
+Wurtulla|AU||8c|-22c|btd|1n
+Wuping|CN|Gansu|7i|2lf|81u|1l
+Wuwu|CN||7i|1qn|8sk|1k
+Wutong|CN||7i|2dt|8c6|1j
+Würenlos|CH||a7|3ns|n8|1j
+Großdubrau|DE||8r|3yd|146|1c|Wulka Dubrawa
+Wulguru|AU||8c|-1hp|bbu|1a
+Wülfel|DE||8r|41d|r6|18
+Wutamu|CN||7t|30e|6st|18
+Wülflingen (Kreis 6) / Oberfeld|CH||a7|3ny|o6|17
+Wurzbach|DE||8r|3w6|w2|13
+Wurmlingen|DE||8r|3pc|oe|12
+Wubao|CN||7i|1wc|95b|12
+Würenlingen|CH||a7|3o1|my|11|Würenling
+Wurmannsquick|DE||8r|3qb|zj|11
+Vordorf|DE||8r|41h|t8|x|Wurthorp
+Wünschendorf|DE||8r|3x4|xm|x
+Wusterwitz|DE||8r|41h|ye|w
+Wuyucun|CN||7i|1vm|946|v
+Wustrow|DE|Lower Saxony|8r|430|ux|v|Wôstrüw;Wåstrüw
+Wurmberg|DE||8r|3rr|oi|t
+Walim|PL||a5|3wu|19o|s|Wüstewaltersdorf;Wüstelwaltersdorf;Wüsterwaltersdorf
+Wülflingen (Kreis 6) / Härti|CH||a7|3nz|o4|q
+Wuyang|CN|Hunan|7i|22a|8ih|q
+Wülflingen (Kreis 6) / Lindenplatz|CH||a7|3nz|o5|q
+Wulagi|AU||8e|-ye|a3m|o
+Radków|PL|Lower Silesia|a5|3wa|19k|o|Wünschelburg;Radkuvas;Radkova
+Wulften|DE||8r|3zi|s9|l
+Wulsbüttel|DE||8r|444|o3|k|Gemeen Wolsbuddel
+Wulkaprodersdorf|AT||a2|3os|19u|j|Vulkaprodrštof;Vulkapordány
+Wülknitz|DE||8r|3yp|118|j
+Würgendorf|DE||8r|3x0|ml|g
+Wulfsen|DE||8r|442|s6|g
+Wulkenzin|DE||8r|44q|10l|g
+Wurrumiyanga|AU||8e|-wo|a2v|g
+Weißkeißel|DE||8r|3z1|14w|f|Wuskidź;Weiskeissel
+Wülfershausen|DE||8r|3vt|sq|f
+Pustá Polom|CZ||9m|3uh|1e0|e|Wüst Pohlom
+Wusterhusen|DE||8r|46b|11u|e
+Wurmsham|DE||8r|3qb|y9|e
+Wustrow|DE|Mecklenburg-Vorpommern|8r|44k|10k|d
+Wundowie|AU||8k|-2g8|8za|d
+Wülflingen (Kreis 6) / Niederfeld|CH||a7|3nz|o4|c
+Wulfen|DE||8r|3zy|x5|c
+Wulkuraka|AU||8c|-24p|bs8|c
+Wurtsboro|US||48|37i|-5qx|c|Wirtzboro
+Wimsbach|AT||a2|3pj|12m|c|Wunsbach
+Wurruk|AU||8j|-2xw|bcf|b
+Wurtland|US||48|2z3|-6dy|a
+Würflach|AT||a2|3oq|18l|a
+Wülferode|DE||8r|41d|rd|a|Wülferoe
+Wuppenau|CH||a7|3ny|pb|a
+Wülflingen (Kreis 6) / Weinberg|CH||a7|3nz|o6|a
+Würnitz|AT||a2|3qj|19m|9
+Wünschendorf|AT||a2|3mu|17o|9
+Wulferstedt|DE||8r|40i|ux|9
+Wuenheim|FR||9k|3oz|k1|9|Wünheim;Bunen
+Wust|DE||8r|41z|xo|9
+Wormeldange|LU||9c|3tt|ht|8|Wuermeldeng;Wormeldingen
+Wundschuh|AT||a2|3md|16x|8
+Wundersleben|DE||8r|3y3|uo|8
+Wuuluman|AU||8l|-2if|bi4|8
+Wudinna|AU||8b|-2jt|aga|7
+Wullersdorf|AT||a2|3r3|18q|7
+Wüstheuterode|DE||8r|3yk|ry|7
+Würmla|AT||a2|3q1|182|7
+Würchwitz|DE||8r|3xq|xz|6
+Wülperode|DE||8r|40e|tg|6|Wilperu’e
+Wurokang|GM||7|116|-17y|5
+Wulzeshofen|AT||a2|3rc|19a|5

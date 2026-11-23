@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Hong Kong|HK||6i|1pw|8t5|1l2h|Hongkong;Victoria;Gon Kong;Hiŏng-gē̤ng;Honkongo;Heung Gong
+Kunming|CN||7i|1xk|7xc|19wy|Côn Minh;Kchun-ming;Khun-bêng-chhī;Kŏng-mìng;Kuņmina;Gvwnhmingz;Kunminq
+Kolkata|IN||6t|1qo|6tg|zqi|Kalkutta;Calcuta;Calcutta;Kolkato;Kalkuta;Kalkata;Caligardamana;Kalkota;Kolkat;Kalikātā
+Kabul|AF||6o|2nx|5c5|y7u|Kaboul;Cabul;Kâbil;Kaboel;Caboul;Cabura;Kabol;Kobul;Caubul;Kabura;Cabool
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Kowloon|HK||6i|1q0|8t6|h83|Koulun;Kaulunas
+Coimbatore|IN||6t|ul|5xt|ghl|Koimbatur;Kojambuttúr;Koyambattūr;Koyamuttūr;Koimbatore
+Córdoba|AR||1n|-2f9|-4yb|g97|Kordobo;Kordoba;Córdova;Kordova;Corduba;Kuorduoba;Kordov
+Ganzhou|CN||7i|1zt|8v9|f99|Cám Châu;Kan-čou;Gantsjou;Gáng-ciŭ;Kàm-chû-sṳ;Kòng-chiu-chhī;Gandžov;Kan-chou
+Conakry|GN||f|qi|-120|evo|Konakrio;Konakris;Konakri;Konakry;Conacri
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Benin City|NG||u|hm|fn|dr0|Benin-Stadt;Benin;Benim;Beninas;Benin by;Benin-stad;Beninurbo;Thành phố Benin;Ìlú Benin;Ciudad de Benín;Kota Benin;Benínborg;Benin Siti;Magaalaa Benin;Magaalada Benin
+Kobe|JP||7q|2od|afi|bro
+Kuala Lumpur|MY||6v|8q|7uh|b7w|Kualalumpūra;Kvala Lumpūras;Kuala-Lumpuro;Gizlungzpoh;Kouala Loumpou;Kuala-Lumpur;Kuala Lumpor
+Konya|TR||94|2x7|2i8|b2b|Konjao;Iconium;Iconio;Qonya;Qonye;Konija;Konja;Koʻniya;Qonia;Konia
+Hong Kong Island|HK||6i|1pu|8t6|983|Hong Kong
+Copenhagen|DK||8y|4ao|yx|8wg|København;Köpenhamn;Kopenhago;Copenhague;Kopenhagen;Copenaguen;Copenhaguen;Kodaň;Kòpenhaga;Kopenhaagen;Kopenage;Kopenhage;Kööpenhamina;Keypmannahavn;Cóbanhávan;Koppenhága;Kaupmannahöfn;Copenaghen;Hafnia;Kopenhāgena;Copenhaga;Kobenhaven;Kopenhag;Copenaga;Kjøpenhamn;Københámman;Kjobenhavn
+Goyang-si|KR||7h|2wm|9sc|86y|Goyang;Kojango
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Brussels|BE||8t|3x9|c3|7v2|Bruxelles;Brussel;Bryssel;Brusela;Bruselas;Bruselo;Brukselo;Bruseles;Brusel;Brwsel;Bruiseal;Bruxelas;Brüsszel;Bruxel;Città di Bruxelles;Bruksel;Bruxellae;Bréissel;Briuselis;Brisele;Bruksela;Bruselj;Brussele;Brisel;Brukseli;An Bhruiséil;Kota Brusel;Brasels
+Kota|IN|Rajasthan|6t|1xy|5uo|7q9
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Columbus|US|Ohio|48|330|-6ek|71o|Kolumbas;Kolumbus;Kolumbusa;Kolumbu;Kolumbs;Columbopolis;Kolumbo
+Qom|IR||7o|2o8|3xc|6y0|Kom;Qûm;Kum;Ĥomo;Kumas;Gōymān
+Cochabamba|BO||3n|-1ca|-53s|6hp|Kuchawampa;Quchapampa;Kočabamba;Kočabamb
+Kolwezi|CD||y|-tr|1yr|63i|Kolvezi
+Oklahoma City|US||2f|2qj|-7iw|597|Oklahomaurbo;Kota Oklahoma;Oklahoma Sitis;Maxepónoe;Oklahoma Ceety;Oklaxoma Shehiri;Lungsod ng Oklahoma;Oklahomasitija;Dinas Oklahoma;Oklahoma llaqta;Cathair Oklahoma;Oklahoma Siti;Oklahoma Sitės;Caayr Oklahoma;Kutha Oklahoma;Okla city;Oklahoma Shehri
+Cotonou|BJ||1b|hp|6q|58m|Kotonu;Cotonú;Kútọnu;Kotonuo;Kotonou;Catonou
+Gorakhpur|IN|Uttar Pradesh|6t|22d|6fl|57a|Korakhpur
+Athens|GR||8p|2xi|1tx|54g|Athínai;Athenae;Atenas;Ateno;Atenoj;Athen;Afina;Aten;Atina;Atenes;Athény;Ateena;Athènes;Atene;An Aithin;Atena;Athena;Athina;Atėnai;Athene;Ateny;Ateni;Lungsod ng Athína;Kota Athena;Afini;Athinia;Athenai
+Colombo|LK||68|ja|65t|500|Kolombo;Kolombas;Kolonbo;Columbum;Columbo
+Comilla|BD||6a|1t6|71b|4wb|Kumilla;Komila
+Kochi|IN||6t|rm|5vu|4w0|Koczin;Cochim;Cochín;Ernakulam
+Kota Bharu|MY||6v|h0|7w0|4e1|Kota Bahru;Bharu;Kô-tá-ha̍p-lû-sṳ;Khota Bahru;Khota Baharu;Kota Baharu
+Kozhikode|IN||6t|v9|5ui|48w|Calicut;Calecute;Kóžikkót;Calicutium;Kožikodė;Kalikuto;Kozsíkóde;Kojikode;City of Spices;Kolikod;Kozhikkot;Kalicut

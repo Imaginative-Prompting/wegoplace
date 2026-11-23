@@ -1,0 +1,9 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kingisepp|RU||9i|4ky|27h|e2|Kingissepp;Jaama;Kinguissepp;Kingisepa;Kinghisepp;Juama
+Ivangorod|RU||9i|4kx|26e|33|Iwangorod;Jaanilinn;Iivananlinna
+Jääli|FI||92|50t|1zd|1e
+Yanino-1|RU||9i|4mj|2cw|19|Nikol’skoye;Koloniya Yanino;Koloniya Yanina;Yanino Pervoye;Jaanila;Saksan Jaanila;Janino-1
+Lesogorskiy|RU||9i|4pl|28d|w|Jääski;Lesogorskij
+Jaala|FI||92|4pl|21k|j
+Jolly Harbour|AG||1j|1bf|-4rx|9|Jaali Aaba
+Jaars|US||48|2ou|-68b|6

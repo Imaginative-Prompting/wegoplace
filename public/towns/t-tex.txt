@@ -1,0 +1,53 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+San Martin Texmelucan de Labastida|MX||41|1hk|-7lg|179|San Martin Texmelucan
+Texcoco de Mora|MX||41|1i7|-7mo|t8|Texcoco;Tezcoco
+Texas City|US||2f|29m|-7bm|d8|Teksasurbo
+Texarkana|US|Texas|2f|2kv|-799|ad|Texarcana
+Texarkana|US|Arkansas|2f|2kw|-798|8g|Texarcana
+Texistepec|MX||41|1dp|-7be|2p
+Texcalac|MX||41|1hy|-7kh|1r|Texcala
+Texan de Palomeque|MX||3z|1m6|-6xj|x
+Texcaltitlán|MX||41|1gl|-7pm|q|Tescatitlan
+Texistepeque|SV||2u|139|-6wm|o
+Tegh|AM||80|31w|3l4|n|Tex;Tekh
+Texanna|US||2f|2q7|-7d4|n
+Texcaltitán Xoteapan (Texcaltitán)|MX||41|1f9|-7cl|m
+Texalpan de Arriba|MX||41|1f7|-7ck|l
+Texca|MX||41|1b9|-7pa|l
+Buenos Aires|MX|Veracruz|41|1fa|-7cl|k|Texalpan
+Texhuacán|MX||41|1fq|-7hk|k
+Texalpan de Abajo|MX||41|1f6|-7cm|k
+Texcapa|MX||41|1ml|-7ml|j
+Texcaltepec|MX||41|1jn|-7l4|i
+Texcalapa de Juárez|MX||41|1e6|-7k7|i|Texcalapa
+Texcaltic|MX||3z|153|-743|h|Tescaltic
+Texcatepec|MX|Hidalgo|41|1kb|-7nq|h|Texcaltepec;Texcaltepac
+Texmola|MX||41|1gm|-7i4|g
+Texcapilla|MX||41|1gn|-7ph|f
+Texcala|MX|Morelos|41|1gl|-7mf|e
+Texcala|MX|Puebla|41|1f4|-7ip|d
+Texcaco|MX||41|1lw|-7lx|c
+Texico|US||2p|2nj|-7y9|b
+Texcatepec|MX|Veracruz|41|1l7|-7l9|b|Tezcatepec
+Santa María Texcatitlán|MX||41|1d7|-7hn|b|Texcatitlán
+Texin|MX||41|1ht|-7hg|a
+Texocoyohuac|MX||41|1iy|-7j3|a
+Texíguat|HN||56|11x|-6pq|a
+Texas|MX|Hidalgo|41|1jn|-7nk|a
+Texhoma|US||2f|2tf|-7uq|a
+Texoloc|MX||41|1m4|-7kx|a
+Texacaxco|MX||41|1ix|-7i6|8|Texacasco
+Teghut|AM|Lori|80|368|3gl|8|Texut;Telut;Tekhut
+Texquitote Primero|MX||41|1n6|-7mg|8
+Texocuixpan|MX||41|1ig|-7js|8
+Tezoantla|MX||41|1jx|-7m1|7|Texuantla;Tezuantla
+Texmalaca|MX||41|1gn|-7hy|7
+Texas|MX|San Luis Potosí|41|1oy|-7rv|7
+Texcochapan de Abajo|MX||41|1f6|-7cr|7
+Teximalpa|MX||41|1kp|-7lo|6|Texinalpa
+Texcal|MX||41|1if|-7ix|6
+Texcalame|MX||41|1ku|-813|6
+Texcalpa (Ex-Hacienda Texcalpa)|MX||41|1hi|-7oa|6
+Texcaltitla|MX||41|1fm|-7od|5
+Texline|US||2f|2t2|-7y6|5
+Teghenik|AM||80|34b|3fu|5|T’eghenik’;Texeniq

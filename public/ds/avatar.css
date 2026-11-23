@@ -1,0 +1,87 @@
+/* A person: their initials filled with their personal colour (or neutral gray), or the picture they drew on that same
+ * colour, in the same ink. Four sizes. The name is the mark's label either way (avatar.js writes it), so a screen
+ * reader hears who, not letters.
+ *
+ * A picture's ground and ink are --ds-pic-ground and --ds-pic-ink (drawing.js puts no colour in its markup): the
+ * face's own fill and the ink its initials wear, so a drawing takes its owner's colour and the theme as their initials
+ * do. */
+.ds-face {
+  position: relative;
+  display: inline-grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: var(--control-32);
+  height: var(--control-32);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+  background: var(--gray-3);
+  color: var(--ink-2);
+  font: 600 var(--size-12)/1 var(--type-ui);
+  letter-spacing: 0.01em;
+  user-select: none;
+  --ds-pic-ground: var(--gray-3);
+  --ds-pic-ink: var(--ink-1);
+}
+/* You, a step brighter, so your own rows find you. */
+.ds-face--me { background: var(--gray-5); color: var(--ink-1); --ds-pic-ground: var(--gray-5); }
+.ds-face--24 { width: var(--control-24); height: var(--control-24); font-size: 10px; }
+.ds-face--44 { width: var(--control-44); height: var(--control-44); font-size: var(--size-14); }
+.ds-face--96 { width: 96px; height: 96px; font: 500 var(--size-28)/1 var(--type-head); letter-spacing: var(--track-head); }
+
+/* Every mark has a hairline ring, so the darkest ground on the black app and the lightest on paper still have an edge.
+ * A drawing's ring is a step stronger. */
+.ds-face::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  box-shadow: inset 0 0 0 1px var(--hair);
+  pointer-events: none;
+}
+.ds-face[data-drawn]::after { box-shadow: inset 0 0 0 1px var(--edge); }
+
+.ds-face[data-person] {
+  background: var(--ds-person);
+  color: var(--ds-person-on);
+  --ds-pic-ground: var(--ds-person);
+  --ds-pic-ink: var(--ds-person-on);
+}
+.ds-face[data-person]::after { box-shadow: inset 0 0 0 1px var(--hair); }
+.ds-face--me[data-person]::after { box-shadow: inset 0 0 0 1.5px var(--canvas), inset 0 0 0 2.5px var(--ds-person); }
+
+/* A drawn picture is on its owner's colour (the face's own ground), with only a neutral hairline edge: never a coloured
+ * ring around it. */
+.ds-face[data-drawn],
+.ds-face--me[data-drawn],
+.ds-face[data-person][data-drawn],
+.ds-face--me[data-person][data-drawn],
+.ds-face:has(> .ds-face-pic[data-ready]),
+.ds-face--me:has(> .ds-face-pic[data-ready]),
+.ds-face[data-person]:has(> .ds-face-pic[data-ready]),
+.ds-face--me[data-person]:has(> .ds-face-pic[data-ready]) {
+  background: var(--ds-pic-ground);
+}
+.ds-face[data-drawn]::after,
+.ds-face--me[data-drawn]::after,
+.ds-face[data-person][data-drawn]::after,
+.ds-face--me[data-person][data-drawn]::after,
+.ds-face:has(> .ds-face-pic[data-ready])::after,
+.ds-face--me:has(> .ds-face-pic[data-ready])::after,
+.ds-face[data-person]:has(> .ds-face-pic[data-ready])::after,
+.ds-face--me[data-person]:has(> .ds-face-pic[data-ready])::after {
+  box-shadow: inset 0 0 0 1px var(--edge);
+}
+
+/* A picture fills the circle over the initials, which stay underneath until it has come and if it can't be had. */
+.ds-face-pic {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity var(--dur-200) var(--ease-standard);
+}
+.ds-face-pic[data-ready] { opacity: 1; }
+.ds-face-pic > svg { display: block; width: 100%; height: 100%; }
+
+/* A mark of a screen that hasn't moved onto the system yet (the chat's square, Photos' round) holding a picture: the
+ * picture fills it, clipped to its own shape. */
+.has-pic { position: relative; overflow: hidden; }

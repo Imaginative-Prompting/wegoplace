@@ -1,0 +1,193 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sankt Gallen|CH||a7|3nq|q1|l2|St. Gallen;Saint-Gall;San Galo;Sankt-Galo;San Gallo;Sanctogallum;San Gallu;Son Gagl;Saint Gallen;Sogn Gagl;Sanggale;Sankt Qallen
+Saint George|US|Utah|2p|2v2|-8ri|k9|St. George;St George
+Saint-Gilles|BE||8t|3x7|c2|dy|Sint-Gillis-Obbrussel;Sint-Gillis;Sint-Djîle-dilé-Brussele
+Saint-Germain-en-Laye|FR||9k|3ru|5t|bf|Sanctus Germanus in Laya;Saint Germain en Laye
+Saint-Georges|CA||59|3k3|-5gb|8o
+Saint-Ghislain|BE||8t|3w5|am|69
+Saint-Genis-Laval|FR||9k|3iy|db|5t
+Saint-Gratien|FR||9k|3s1|6d|5h
+Sint-Gillis-Waas|BE||8t|3ya|bg|4x|Saint-Gilles-Waes;Saint-Gillis-Waas
+Saint-Giniez|FR||9k|3c7|ez|3s
+Saint-Gilles|FR|Occitanie|9k|3dc|cb|3o
+Saint-Gaudens|FR||9k|3br|20|3e|Sent Gaudenç
+Saint-Germain-lès-Arpajon|FR||9k|3r0|6a|2f
+Saint-Gély-du-Fesc|FR||9k|3dd|al|2e
+Saint-Grégoire|FR||9k|3pr|-4p|29|Sant-Gregor
+Saint George's|GD||30|xh|-4rj|23|St. George's;Saint-Georges;St Georges;Sent Džordžas;Saint George.s;Saint George
+Saint-Germain-lès-Corbeil|FR||9k|3r2|6x|23
+Saint-Genis-Pouilly|FR||9k|3kg|gq|22
+Saint-Gilles-Croix-de-Vie|FR||9k|3lq|-5f|21
+Saint-Girons|FR||9k|3be|37|1y
+Saint-Georges-sur-Meuse|BE||8t|3wk|ew|1w|Sint-Djôr-so-Mouze
+Saint Gabriel|US||2f|2c2|-712|1v|St. Gabriel
+Saint-Gervais-les-Bains|FR||9k|3jh|io|1n|Fanum Sancti Gervasii ad Balnea
+Saint-Genest-Lerpt|FR||9k|3i8|c2|1m|Saint-Genet-Lerpt
+St George's Parish|BM||82|2hx|-4zq|1l|Saint George's Parish
+Saint-Galmier|FR||9k|3io|bz|1j
+Saint-Georges-de-Didonne|FR||9k|3ip|-2s|1i
+Saint-Germain-du-Puy|FR||9k|3mu|6w|1f
+Saint-Genis-les-Ollières|FR||9k|3j4|d5|1e
+Sainte Genevieve|US||2f|2xi|-6y4|18|St. Genevieve;Saint Genevieve
+Saint-Germain-du-Corbéis|FR||9k|3qi|6|16
+Saint-Georges-de-Reneins|FR||9k|3jy|d4|14
+Saint-Gilles|FR|Brittany|9k|3pr|-53|12|Sant-Jili-Roazhon
+Saint-Germain-des-Fossés|FR||9k|3kd|9j|12|Sant German daus Fossats;Saint-Germain-de-Salles
+Saint-Georges-de-Montaigu|FR||9k|3mf|-3l|10
+Saint-Gervais-la-Forêt|FR||9k|3o5|3r|z
+Saint-Germain-de-Grantham|CA||59|3jb|-5ll|z
+Saint-Georges-sur-Baulche|FR||9k|3os|9t|y
+Saint-Georges-lès-Baillargeaux|FR||9k|3ln|14|y
+Saint-Georges-des-Groseillers|FR||9k|3rh|-1l|y|Saint-Georges-des-Groseilliers
+Saint-Germain-Laprade|FR||9k|3h4|b1|x
+Saint-Gildas-des-Bois|FR||9k|3o0|-5o|w|Gweltaz-Lambrizig
+Saint-Georges-sur-Loire|FR||9k|3np|-24|w
+Saint-Germain-sur-Morin|FR||9k|3rs|7x|u
+Saint-Germain-Laval|FR|Île-de-France|9k|3qg|8c|u
+Saint-Genès-Champanelle|FR||9k|3j0|8e|t|Sant Genèst de Champanèla
+Saint-Genest-Malifaux|FR||9k|3hy|ca|t|Sant Genèis de Malifaus
+Saint-Gabriel|CA||59|3km|-5nu|t
+Saint-Georges|GF||2d|at|-3zw|r|San Jorge de Oyapoque;Saint Georges
+Saint-Géréon|FR||9k|3nl|-3c|r|Sant-Gerent
+Saint George|US|Florida|48|25y|-6dt|r
+Saint George|US|Maine|48|3ea|-5c8|r
+Saint-Gérard|BE||8t|3vv|d6|r
+Saint-Génis-des-Fontaines|FR||9k|3a6|84|q|Sant Genís de Fontanes
+Saint-Germain-sur-Moine|FR||9k|3mw|-34|q
+Saint-Georges-sur-Eure|FR||9k|3qi|3r|q
+Saint-Germain-la-Blanche-Herbe|FR||9k|3sm|-14|p
+Saint-Georges-de-Mons|FR||9k|3jm|7w|o
+Saint-Gobain|FR||9k|3ts|9e|n
+Saint-Germain|FR|Grand Est|9k|3q2|b7|n
+Saint-Georges-sur-Cher|FR||9k|3nh|35|m
+Saint-Georges-des-Coteaux|FR||9k|3j4|-1z|m
+Saint-Geoire-en-Valdaine|FR||9k|3ia|fo|m
+Saint-Germain-du-Puch|FR||9k|3gm|-w|l
+Saint George|US|South Carolina|48|2k7|-67u|l|St. George
+Saint-Geniez-d'Olt|FR||9k|3fj|89|l
+Saint-Geniès-de-Malgoirès|FR||9k|3e3|bq|k|Saint-Géniès
+Saint-Georges-de-Commiers|FR||9k|3h5|fv|k|Saint Gorges-de Commiers;Saint-Georges-de-Comners;Saint-Georges-de-Comiers
+Saint-Geniès-Bellevue|FR||9k|3dc|45|k
+Saint-Gaultier|FR||9k|3lk|3x|k
+Saint-Cosme-en-Vairais|FR||9k|3q3|1a|k|Saint-Cosme-de-Vair;Saint Cosme-de-Vair;Saint-Gosme-de-Vair
+Saint-Genix-sur-Guiers|FR||9k|3io|fo|k
+Saint-Germain-en-Coglès|FR||9k|3qh|-3i|k|Sant-Jermen-Gougleiz
+Saint-Geours-de-Maremne|FR||9k|3dd|-3f|j|Saint-Geours-de Maremme
+Saint George|BM||82|2hy|-4zo|j|Sankta Georgo;Sent Džordžas
+Saint-Gédéon|CA||59|3qq|-5jd|j
+Saint-Georges-du-Bois|FR|Pays de la Loire|9k|3p9|a|i
+Saint-Georges-de-Reintembault|FR||9k|3qr|-3g|i|Sant-Jord-Restembaod;Sanctus Georgius Renistembaldi
+Saint-Gervais-en-Belin|FR||9k|3p0|m|i
+Saint-Geniès-de-Comolas|FR||9k|3ee|d4|i|Sent Genièis de Comolaç;Sanctus Genesius de Comolacio
+Saint-Germer-de-Fly|FR||9k|3tc|4y|i
+Saint-Georges-les-Bains|FR||9k|3gm|dd|i
+Saint-Germain-de-la-Grange|FR||9k|3rn|5a|i
+Saint-Germain-du-Plain|FR||9k|3lq|dv|i
+Saint-Germain-des-Prés|FR|Centre-Val de Loire|9k|3p7|7x|i
+Saint-Germain-du-Bois|FR||9k|3lv|el|i
+Saint-Gervais|FR|Pays de la Loire|9k|3ma|-5k|i
+Saint-Germain-Lembron|FR||9k|3ia|90|h
+Saint-Geniès-des-Mourgues|FR||9k|3de|b8|h|Sant Ginièis de las Morgas
+Saint-Germain-Village|FR||9k|3t3|1e|g
+Saint-Germain-Laval|FR|Auvergne-Rhône-Alpes|9k|3jb|b5|g
+St. George|CA|New Brunswick|43|3hd|-55n|g|Saint-George
+Saint-Gervasy|FR||9k|3dw|cf|g
+Saint-Georges-du-Bois|FR|New Aquitaine|9k|3k6|-21|g
+Saint-Gence|FR||9k|3jk|36|f
+Saint-Gildas-de-Rhuys|FR||9k|3ny|-7w|f|Lokentaz;Sanctus Gildasius Ruiensis;Saint-Gildas-de Ruis;Saint-Gildas de Ruys
+Saint-Gelais|FR||9k|3ku|-13|f
+Saint-Gervais-d'Auvergne|FR||9k|3jv|7u|f
+Sankt Goarshausen|DE||8r|3vc|lf|f|Saint Goarshausen;St. Goarshausen
+Saint-Georges-Buttavent|FR||9k|3q7|-1x|f|Saint-Georges-Butavent
+Saint-Germain-de-Prinçay|FR||9k|3ls|-2u|e|Saint-Germain-le Prinçay
+Saint-Georges-de-Luzençon|FR||9k|3ee|8b|e|Saint-Georges-de-Luzançon
+Saint-Geniès-de-Fontedit|FR||9k|3cr|8u|e|Saint-Geniès-le-Bas
+Saint George|US|Missouri|2f|2z2|-6yv|d
+Saint-Gervais|FR|New Aquitaine|9k|3h2|-1a|d
+Saint-Germain-Nuelles|FR||9k|3jd|ct|d
+Saint-Gervais-les-Trois-Clochers|FR||9k|3ma|15|d
+Saint-Germain-de-Marencennes|FR||9k|3k0|-27|c
+Saint-Germain|FR|Bourgogne-Franche-Comté|9k|3ok|i5|c
+Saint-Gatien-des-Bois|FR||9k|3t3|i|c
+Saint-Georges-de-Pointindoux|FR||9k|3lk|-4i|c
+Saint-Germain-des-Prés|FR|Pays de la Loire|9k|3np|-2b|c
+Saint-Germain-sur-Avre|FR||9k|3rg|3j|c
+Saint-Germain-de-Lusignan|FR||9k|3i9|-1a|c
+Saint-Georges-Haute-Ville|FR||9k|3ik|be|c
+Saint-Germain-les-Belles|FR||9k|3iq|46|c
+Saint-Germain-Lespinasse|FR||9k|3k2|b1|b
+Sankt Gilgen|AT||a2|3op|115|b|St. Gilgen;Saint Gilgen
+Saint-Genis-de-Saintonge|FR||9k|3ic|-1l|b
+Saint-Gengoux-le-National|FR||9k|3lh|cy|b
+Saint-Gérand-le-Puy|FR||9k|3ki|9r|a|Sant Girand;Saint-Gérand
+Saint-Georges-sur-Allier|FR||9k|3iz|90|a
+Saint-Gonnery|FR||9k|3po|-7u|a|Sant-Goneri
+Saint-Georges-Motel|FR||9k|3rj|3t|a
+Saint-Geniès|FR||9k|3gz|3h|a
+Saint-Genouph|FR||9k|3nm|1o|a
+Saint-Genou|FR||9k|3md|3q|a
+Saint-Germain-le-Vasson|FR||9k|3s4|-u|a
+Saint-Gérand|FR||9k|3pn|-81|a|Sant-Jelan
+Saint-Gondon|FR||9k|3oi|72|a
+Saint-Gervais|FR|Île-de-France|9k|3sl|4x|9
+Saint-Germain|FR|New Aquitaine|9k|3lc|2f|9
+Saints-Geosmes|FR||9k|3ov|et|9|Saint-Géosmes
+Saint-Georges-Montcocq|FR||9k|3sh|-31|9|Saint-Georges-Montcoq
+Saint-Genis-l'Argentière|FR||9k|3iz|ch|9
+Saint-Gervais-sur-Mare|FR||9k|3d9|8g|9
+Saint-Genis-d'Hiersac|FR||9k|3j3|3|9
+Saint-Germain-sur-Ay|FR||9k|3ss|-4f|9
+Saint-Germain-les-Vergnes|FR||9k|3hr|4k|9
+Saint-Girons-d'Aiguevives|FR||9k|3he|-1i|9
+Saint-Guyomard|FR||9k|3oq|-6z|9|Sant-Gwioñvarc'h;Sant-Gwioñvarch
+Saint-Germain-du-Teil|FR||9k|3fk|8t|9
+Saint-Georges-sur-Fontaine|FR||9k|3tm|3a|8
+Sainte-Gemmes-le-Robert|FR||9k|3pw|-11|8|Saint-Gemmes-le-Robert
+Saint-Germain-de-la-Coudre|FR||9k|3q4|1o|8
+Saint-Gilles|FR|Normandy|9k|3se|-3a|8
+Saint-Géry|BE||8t|3wi|ct|8
+Saint-Germain-du-Crioult|FR||9k|3rq|-1o|8
+Saint-Guinoux|FR||9k|3qy|-58|8|Sant-Gwênoù
+Saint-Germainmont|FR||9k|3tj|bh|8
+Saint-Germain-du-Salembre|FR||9k|3he|19|8|Sent Gèrman de Salembre
+Saint-Germain-la-Campagne|FR||9k|3s9|15|8
+Saint-Germain-sur-Ille|FR||9k|3q1|-4m|8|Sant-Jermen-an-Il
+Saint-Goazec|FR||9k|3ps|-ai|8|Sant-Wazeg
+Saint-Gervais-sur-Roubion|FR||9k|3fu|dl|8
+Saint-Gervais|FR|Occitanie|9k|3eq|cp|7
+Saint-Gingolph|CH||a7|3kv|ix|7
+Saint-Germain-le-Fouilloux|FR||9k|3pq|-27|7
+Saint-Germain-du-Pinel|FR||9k|3pd|-39|7|Sant-Jermen-ar-Bineg
+Saint-Gravé|FR||9k|3ol|-6c|7|Sant-Gravez
+Saint-Georges-du-Vièvre|FR||9k|3ss|1m|7
+Saint-Georges-de-Noisné|FR||9k|3l5|-q|7
+Saint-Gouéno|FR||9k|3q3|-75|7|Sant-Gouenoù
+Saint-Georges-sur-Moulon|FR||9k|3n3|6q|7
+Saint-Gauzens|FR||9k|3dj|5a|7
+Saint-Gabriel-Lalemant|CA||59|3nm|-5e9|7
+Saint-Germain-le-Gaillard|FR||9k|3th|-4y|6
+Saint-Gingolph|FR||9k|3kv|iw|6
+Saint George|US|Kansas|2f|30v|-7fu|6|St. George
+Saint-Georges-sur-Layon|FR||9k|3n4|-11|6
+Saint-Germain-des-Prés|FR|Occitanie|9k|3d0|5q|6
+Saint-Genès-de-Fronsac|FR||9k|3h3|-10|6
+Saint-Germain|BE||8t|3wh|dg|6
+Saint-Germain-de-Livet|FR||9k|3sc|k|6
+Saint-Georges-sur-la-Prée|FR||9k|3n7|5e|6
+Saint-Georges-des-Sept-Voies|FR||9k|3nj|-s|6
+Saint-Georges|FR||9k|3fg|2l|6|Saint-George
+Saint-Germain-le-Châtelet|FR||9k|3oi|jc|6
+Saint-Germain-Laxis|FR||9k|3qy|7j|6
+Saint-Gilles-de-la-Neuville|FR||9k|3tp|12|6
+Saint-Georges-le-Gaultier|FR||9k|3q6|-b|6
+Saint-Germain-des-Bois|FR||9k|3mb|6t|6
+Saint-Germain-la-Ville|FR||9k|3rs|cd|5
+Saint-Glen|FR||9k|3qc|-70|5|Sant-Glenn
+Saint-Germain|FR|Auvergne-Rhône-Alpes|9k|3fr|cd|5
+Saint-Germain-du-Bel-Air|FR||9k|3g1|40|5
+Saint-Gengoux-de-Scissé|FR||9k|3l2|da|5
+Saint-Germain-lès-Arlay|FR||9k|3lw|fg|5
+Saint-Georges-de-Rouelley|FR||9k|3r0|-25|5|Saint-Georges-de-Ronelley
+Saint-Germain-de-Joux|FR||9k|3ka|fy|5
+Saint-Germain-l'Herm|FR||9k|3ia|9u|5|Saint-Germain-lHerm
+Saint-Gondran|FR||9k|3q3|-54|5|Sant-Gondran

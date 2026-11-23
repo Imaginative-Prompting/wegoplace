@@ -1,0 +1,116 @@
+/* The pad (pad.js): the circle you draw on, your face at its real colours (your color, and its one ink), then your
+ * color, your initials while nothing is drawn, the brushes, Undo, Clear and Save. The paper's colours are the face's
+ * own custom properties (avatar.css), from the tone pad.js sets on it; everything else here is the design system's. */
+
+.ds-pad { display: grid; }
+
+/* The circle. Square by its aspect, as wide as the sheet allows up to 264 px. */
+.ds-pad-paper {
+  position: relative;
+  width: min(264px, 100%);
+  aspect-ratio: 1;
+  margin: 0 auto 20px;
+  border-radius: var(--radius-full);
+  touch-action: none;
+  cursor: crosshair;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+.ds-pad-paper > canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: var(--radius-full);
+  touch-action: none;
+}
+.ds-pad-paper::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius-full);
+  box-shadow: inset 0 0 0 1px var(--edge);
+  pointer-events: none;
+}
+/* The paper's colours, as a face's: gray until a color is picked, then the tone's own (pad.js sets its variables). */
+.ds-pad-paper { --ds-pic-ground: var(--gray-5); --ds-pic-ink: var(--ink-1); }
+.ds-pad-paper[data-person] { --ds-pic-ground: var(--ds-person); --ds-pic-ink: var(--ds-person-on); }
+/* While nothing is drawn: your initials, as your face shows them, and where to draw. */
+.ds-pad-initials,
+.ds-pad-hint {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: var(--ds-pic-ink);
+  pointer-events: none;
+  transition: opacity var(--dur-150) var(--ease-standard);
+}
+.ds-pad-initials { top: 50%; transform: translateY(-50%); font: 500 72px/1 var(--type-head); letter-spacing: var(--track-head); }
+.ds-pad-hint { bottom: 18%; font: 500 var(--size-14)/1 var(--type-ui); opacity: 0.72; }
+.ds-pad-paper[data-used] .ds-pad-initials,
+.ds-pad-paper[data-used] .ds-pad-hint { opacity: 0; }
+
+/* Your color: its name in words, then the colors as discs, two rows of ten; the one you wear is ringed and ticked (a
+ * colour is never told by its hue alone). */
+.ds-pad-colorsay { margin: 0 0 10px; font: 500 var(--size-14)/1.3 var(--type-ui); color: var(--ink-2); }
+.ds-pad-colorsay > b { font-weight: 600; color: var(--ink-1); }
+.ds-pad-colors { display: grid; grid-template-columns: repeat(10, minmax(0, 1fr)); gap: 10px 0; justify-items: center; margin-bottom: 16px; }
+.ds-pad-color {
+  display: grid;
+  place-items: center;
+  width: min(32px, 100%);
+  aspect-ratio: 1;
+  padding: 0;
+  border: 0;
+  border-radius: var(--radius-full);
+  background: var(--ds-person);
+  box-shadow: inset 0 0 0 1px var(--hair);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: transform var(--dur-150) var(--ease-standard), box-shadow var(--dur-200) var(--ease-standard);
+}
+.ds-pad-color > svg { width: 55%; height: 55%; fill: none; stroke: var(--ds-person-on); stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; opacity: 0; }
+.ds-pad-color[aria-checked="true"] { box-shadow: 0 0 0 2px var(--chrome), 0 0 0 3.5px var(--ink-1); }
+.ds-pad-color[aria-checked="true"] > svg { opacity: 1; }
+@media (hover: hover) and (pointer: fine) {
+  .ds-pad-color:active { transform: scale(0.94); }
+}
+
+/* Your initials, while nothing is drawn. */
+.ds-pad-initrow { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; font: 500 var(--size-14)/1.3 var(--type-ui); color: var(--ink-2); }
+.ds-pad-initrow[hidden] { display: none; }
+/* Away while something is drawn, its space kept, so nothing above or below moves between strokes. */
+.ds-pad-initrow[data-away] { visibility: hidden; }
+.ds-pad-initinput { width: 96px; text-align: center; text-transform: uppercase; font-weight: 600; }
+
+/* The brushes. */
+.ds-pad-tools { display: flex; align-items: center; gap: 6px; margin-bottom: 10px; }
+.ds-pad-tool {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 0;
+  border-radius: var(--radius-12);
+  background: none;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: background var(--dur-150) var(--ease-standard), transform var(--dur-150) var(--ease-standard);
+}
+.ds-pad-tool[data-press="1"] { transform: scale(0.94); }
+@media (hover: hover) and (pointer: fine) {
+  .ds-pad-tool:active { transform: scale(0.94); }
+}
+.ds-pad-tool[aria-pressed="true"] { background: var(--ring-soft); box-shadow: inset 0 0 0 1px var(--edge); }
+.ds-pad-tool > i { display: block; border-radius: var(--radius-full); box-shadow: 0 0 0 1.5px var(--edge-strong); }
+/* A brush's dot says its size, not a colour: the sheet's ink-1. */
+.ds-pad-tool--size > i { background: var(--ink-1); box-shadow: none; }
+.ds-pad-grow { flex: 1; }
+
+/* Undo, Clear, Back to initials. */
+.ds-pad-acts { display: flex; align-items: center; margin: 0 -8px 14px; }
+
+.ds-pad-color:focus-visible, .ds-pad-tool:focus-visible { outline: 2px solid var(--ink-1); outline-offset: 2px; }

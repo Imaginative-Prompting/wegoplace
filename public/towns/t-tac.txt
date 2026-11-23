@@ -1,0 +1,79 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tashkent|UZ||7m|36m|5ca|f9g|Taschkent;Taskent;Tasjkent;Taŝkento;Toshkent;Tachkent;Taškentas;Taszkent;Toshkent shahri;Tochkent;Taixkent;Taxkent;Taškenta;Lithopolis;Daşkent;Tashkend
+Daqing|CN||7i|3le|9n8|cdk|Ta-čching;Dacin;Đại Khánh;Dâi-kéng;Tāi-khèng-chhī;Taching;Dačing
+Dazhou|CN|Sichuan|7i|2ep|8ai|c9i|Ta-čou;Đạt Châu;Dăk-ciŭ;Tha̍t-chû-sṳ;Ta̍t-chiu-chhī
+Dachang|CN|Shanghai|7i|2ez|9da|2vb|Ta-ch’ang
+Tacna|PE||3o|-1e1|-5f5|27i|Takno;Taqna;Takna
+Tacloban|PH||71|v8|9n8|202|Taklobanas;Taklobana;Takloban;Tocloban;Taclaban
+Tacoma|US||3p|3n9|-9g4|1px
+Tachikawa|JP|Tokyo|7q|2r7|ara|1f0
+Tacheng|CN||7t|3lv|6eg|18q|Chöchek;Tachen;Tancheng;Tahcheng
+Tacurong|PH||71|il|9mc|wh|Takurong;Takrong;Tacorong
+Dacheng|CN||7i|1i7|8fv|ni|Ta-ch’eng
+Tacarigua|VE||2c|s1|-58o|jc
+Tacuarembó|UY||45|-2g4|-4bi|gu|Takuarembo
+Tachilek|MM||7y|1kt|7pg|ec|Tachileik;Tha Chi Lek
+Dachang|CN|Chongqing|7i|2ev|8h0|a2|Ta-ch’ang
+Dachang Shandao|CN||7i|314|9gk|89|Ta-ch’ang-shan-tao
+Tacámbaro de Codallos|MX||41|1hg|-7tu|75
+Tacaratu|BR||4p|-pb|-2xz|6x
+Tacoronte|ES||83|274|-19l|6k
+Tacony|US||48|337|-5sg|4y
+Tachiarai|JP||7q|2ks|a2u|4c
+Tacaimbó|BR||4p|-n4|-2st|3z|Tacaimbé
+Tachov|CZ||9m|3uc|z3|3z|Tahova
+Tatsinskaya|RU||9i|3pv|36o|35|Tatsinskiy;Tazinskaja;Tacinskaja;Tacinszkaja;Tacynskaja
+Tacuru|BR||2a|-1tn|-48u|30
+Tacourably|CI||0|k6|-jy|2u
+Tyachiv|UA||98|3pd|1th|2i|Técső;Ťačiv;Tiacziw;Teceu Mare;Tiatchiv;Tjatschiw
+Tactic|GT||32|16k|-6yz|2i
+Tachikawa|JP|Kyoto|7q|2ot|ahg|2h
+Tacoaleche|MX||41|1re|-7wg|2e|Tlacoaleche;Tacualeche
+Taco Pozo|AR||1n|-1z6|-4vr|2d
+Tacotalpa|MX||41|1cw|-75v|29
+Tacima|BR||2w|-i1|-2r0|28
+Tashir|AM||80|368|3f1|26|Kalinino;Taschir;Taširas;Tachir;Tašir;Tasjir;Vorontsovka;Taszir;Kaliniko;Kalinin
+Tacaná|GT||32|16c|-73r|1s
+Taciba|BR||4w|-1q7|-3yg|1r
+Tichla|EH||k|1ny|-15l|1o|Tachla
+Tacherting|DE||8r|3pk|yx|1l
+Tacuba|SV||2u|12m|-6xt|1f
+Taclobo|PH||71|y7|9gj|1c
+Tacopan|MX||41|1j4|-7in|16
+Tachott Brana|MR||19|16v|-y3|11
+Tăcuta|RO||8u|3mc|24w|y
+Tacub|PH||71|mr|9kr|v|Takub
+Tacuarendí|AR||1n|-26x|-4km|v
+Tacligan|PH||71|118|9ca|q|Taclingan;Takligan
+Tacuatí|PY||1y|-1t6|-4dm|o|Tacuaty
+Tacadang|PH||71|1ah|9b4|o
+Takub|PH||71|j2|9oe|o|Tacub
+Tacátzcuaro|MX||41|1it|-7wv|o|Tacazcuaro
+Santa Cruz Tacache de Mina|MX||41|1dj|-7kn|l|Tacache;Santa Cruz Tacache Mina
+Tacuro (Santa María Tacuro)|MX||41|1j6|-7vh|l
+Taching am See|DE||8r|3p8|zd|j|Taching a. See
+Tacir|TR||94|34l|2am|j
+Tacubaya|MX|Coahuila|44|1zc|-7yb|e|Tacuboya
+Tacícuaro|MX||41|1in|-7tk|e
+Tlacuitapan|MX||41|1mw|-7vo|e|Tacuitapán;Tlacuitapa
+Tacuba Nueva|MX||41|1bh|-74l|c
+Tacoignières|FR||9k|3ro|4o|a
+Tachlovice|CZ||9m|3ux|13k|a
+Țăcău|RO||8u|3gt|25n|9
+Tackley|GB||9b|404|-3n|9
+Tacirli|TR||94|333|3ej|9|Tecirli
+Tacubaya|MX|Guanajuato|41|1ke|-7ur|9
+Tecacho|MX||41|1j5|-7tv|8|Tacacho
+Tacubaya|MX|Jalisco|41|1oi|-7v8|8
+Tacial|MX||41|1n2|-7mh|7
+Taconite|US||2f|3nf|-77e|6
+Tacupa|MX||41|1f5|-7ro|6
+Tacoma|AU||8l|-2kh|boq|6
+Tacna|US||4i|2iu|-8sj|6
+Tecomaluca|MX||41|1ig|-7ke|6|Tacamaluca
+Tacotlán|MX||41|1lu|-7yn|6
+Santa Cruz Tacahua|MX||41|1b0|-7it|6|Tacahua
+Tacuba|MX||2g|26r|-8aj|6
+Tacarpo|PE||3o|-f0|-64k|5
+Tacuapan|MX||41|1js|-7is|5
+Taceno|IT||9o|3ju|q0|5|Tacenum;Tasen

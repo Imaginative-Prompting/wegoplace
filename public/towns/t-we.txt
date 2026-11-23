@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wé|NC||b8|-1m4|cwm|2w
+Weifang|CN||7i|2tz|96u|20ff|Wej-fang;Vejfang;Duy Phường;Î-hng-chhī
+Wenzhou|CN||7i|25s|9b7|kg4|Wen-čou;Venĝou;Wénju shehiri;Wentsjou;Vûn-chû-sṳ;Ôn Châu;Un-chiu-chhī;Ŭng-ciŭ;Vencsou;Vendžou;Yongjia;Wen-chou
+Almaty|KZ||5s|3c5|5xn|f96|Alma-Ata;Almato;Almati;Almata;Werny
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Weinan|CN||7i|2nu|8g7|995|Wej-nan;Vị Nam;Ôi-nàng;Veinan;Ūi-lâm-chhī;Veynan
+Weihai|CN||7i|2w7|9f7|6ij|Uy Hải;Wej-chaj;Ŭi-hāi;Veihai;Ui-hái-chhī
+Oran|DZ||3|2r6|-1s|675|Orà;Waradinne;Wehran;Wahrān
+Wenchang|CN||7i|1ib|8js|4bt|Văn Xương;Bûn-chhiong-chhī;Wen-chiang;Wencheng
+Oujda|MA||d|2oc|-5b|45x|Wadżda;Uĝda;Ujda;Udžda;Wejda;Ucda;Ouja;Oudjda
+Warder|ET||2|jd|3hy|3h4|Werdēr
+Wenshan City|CN||7i|1sw|81l|3h0
+Welkom|ZA||o|-25q|22a|3bz|Velkomas
+West Jerusalem|IL||6n|2ga|2pu|334|Vest-Jerusalem;Vestjerusalem;Westjerusalem;Västra Jerusalem
+Wellington|NZ||ak|-36p|dhi|2y3|Welintòn;Whanga-nui-a-Tara;Vellinqton;Weolingtūn;Velingtono;Velingtonas;Velingtona;Vellingtonia;Ueligitone;Te Whanga-nui-a-Tara;Wellinton;Hiê-lìng-dóng;Vellington
+West Raleigh|US||48|2rf|-62i|2m4
+Verona|IT||9o|3i8|uj|1zo|Vérone;Werona
+Jurong West|SG||7j|3r|804|1yi
+City of Westminster|GB||9b|3z2|-e|1ws
+Upper West Side|US||48|35b|-5pi|1r2|Aukštutinis Vestsaidas
+Somerset West|ZA||o|-2mo|1ga|1ql|Somerset-Wes
+Velikiy Novgorod|RU||9i|4ik|2ev|1px|Novgorod;Weliki Nowgorod;Veliki Nóvgorod;Velikij Novgorod;Novogardia Magna;Naugard;Nowogród Wielki;Veliky Novgorod;Naugardas;Hólmgarður;Šuuri Novgorodi;Nowgorod
+Westonaria|ZA||o|-214|24t|17k
+Amsterdam Nieuw-West|NL||8m|41g|dd|165|New West
+Amsterdam-West|NL||8m|41i|dj|13y|Amsterdam West
+Weru|ID||6l|-in|8de|12m
+West Valley City|US||2p|351|-8n4|11u|West Valley;Wast Valley Ceety
+West Palm Beach|US||48|228|-66d|xl|Okcidenta Palm Beach;Litus Palmense Occidentale
+Bremerhaven|DE||8r|44r|nu|wy|Bremerhoben;Brėmerhafenas;Bremerhuuwen;Brēmerhāfene;Bremerhoawen;Wesermünde
+Westminster|US|Colorado|2p|32o|-83s|wb
+West Jordan|US||2p|34t|-8my|v3|Okcidenta Jordan
+West Covina|US||3p|2mn|-93m|u5|Okcidenta Covina
+Weldiya|ET||2|wv|31z|sw|Veldija;Ualdia;Woldia;Waldia;Weldia;Weldya
+Velikiye Luki|RU||9i|4ci|2cu|sn|Welikije Luki;Velikije Luki;Wielkie Łuki;Velikije Loeki;Velikie Luki
+West Bromwich|GB||9b|41w|-5j|sn|Vest Bromičas;Bromwich Thiar;Vest-Bromviĉo;Vestbromviča;Uest-Bromiç
+West Albany|US||48|3ak|-5oy|q2
+Westminster|US|California|3p|2ls|-93t|pl|Westminister
+Wembley|GB||9b|3z7|-u|p0
+West Town|US||2f|38d|-6rj|o0|Vest Taun
+Versailles|FR||9k|3rk|5x|nq|Versalles;Versajlo;Versalia;Wersal;Versalhes;Versaliae;Versalis
+Wedding|DE||8r|41z|114|np

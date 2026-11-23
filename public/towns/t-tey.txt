@@ -1,0 +1,15 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Taichung|TW||7l|1v3|9b8|lzr|Đài Trung;Teyjong shehiri;Taičungas;Tajĉungo;Thòi-chûng-sṳ;Tchaj-čung;Taizhong;Taychun;Tâi-tiong-chhī
+Tainan|TW||7l|1rv|99x|ebq|Teynen shehiri;Thòi-nàm-sṳ;Tchaj-nan;Tajnan;Đài Nam;Tajnano;Taynam;Tâi-lâm-chhī;Dài-nàng;T’ai-nan
+Taizhou|CN|Jiangsu|7i|2i9|993|cef|Taitsjou;Tchaj-čou;Tajĝou;Teyju shehiri;Thái Châu;Thài-chiu-chhī;Tái-ciŭ;T’ai-chou
+Deyang|CN||7i|2eh|81y|5o7|Dáik-iòng;Te-jang;Đức Dương;Tek-iông-chhī;Te-yang;Deyan
+Santiago Teyahualco|MX||41|1im|-7nc|ex|Teyahualco
+Teykovo|RU||9i|4dy|34m|a0|Tejkovo;Teïkovo;Tejkowo;Teikowo
+Teyateyaneng|LS||12|-28z|253|7l
+Teya|RU||6u|4np|75b|1u
+Teyran|FR||9k|3dd|ax|1c|Teiran
+Aléa|GR||8p|2w1|1qa|u|Tegea;Tegeia;Teyéa
+Teynham|GB||9b|3yl|29|r
+Teya|MX|Yucatán|3z|1mh|-6vf|k
+Teyahuala|MX||41|1mh|-7mk|6|Toyahuala
+Teya|MX|Yucatán|3z|1m6|-6wo|6|Toya

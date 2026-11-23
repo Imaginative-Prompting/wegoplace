@@ -1,0 +1,59 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lviv|UA||98|3ug|1uq|5j9|Lemberg;Lwów;Leópolis;Lvov;Lavov;Leopoli;Lvovas;Ļvova;Liov;Lwiw;Lwif;Lemburg;İlbav;Ljviv;Leopul;Lembärsch;Liòpuli;Lwůw;Leopolo;Ilyvó;L'vov
+Liaoyang|CN||7i|36n|9i5|5b3|Liao-jang;Ljaojan;Liaojangas;Liêu Dương;Lièu-iòng;Liâu-iông-chhī
+Ljubljana|SI||9a|3jx|14b|23m|Laibach;Liubliana;Lublaň;Lubiana;Ļubļana;Ljubljano;Lubjana;Aemona;Lubljana;Lyublyana;Lyoubyana;Liublianne;Jubaljana;Lubiann-a;Lubian-a;Lubiane;Liúibleána;Laiboch;Liublijana;Lubliano
+Liège|BE||8t|3wn|fh|1i9|Lüttich;Lieja;Lieĝo;Liegi;Léck;Luuk;Luik;Lidje;Liex;Ljēža;Leodicum;Lutych;Leodium;Lježas;Ljež;Sùguru;Lēodic;Lige
+Lyubertsy|RU||9i|4ao|2x9|16z|Ljuberzy;Luberci;Liúbertsy;Lioubertsy;Ljubercy;Ljoebertsy;Ljubertsy;Liuberțî;Lyubertsı;Liubercai;Ljubertsõ;Ljuberci;Lubiercy;Liubertsi;Lubertsi
+Leeuwarden|NL||8m|43s|g5|yl|Ljouwert;Liewarde;Liwwadden;Leewarden;Leuvardenas;Leyvarden;Leuvardena;Leuwarden;Lieuwarden
+Lüleburgaz|TR||94|370|240|p9|Arcadiopolis;Bergula;Berkulen;Bergoule;Ljuleburgas;Arkadioupolis;Lule Burgas
+Lyudinovo|RU||9i|45n|2np|bi|Ljudinovo
+Lyantor|RU||7z|4r6|5kg|am|Ljantor
+Hansestadt Salzwedel|DE||8r|42t|uz|5v|Salzwedel;Soltwedel;Ljaudit
+Pljevlja|ME||9l|3cg|1hs|5f|Plevlia;Ljevlja;Pljevlje;Plevlja;Plevlje
+Lezhë|AL||9y|382|1ik|57|Lezha;Alessio;Ležė;Leş;Lezh;Lješ;Lesh;Leshe
+Ljungby|SE||9w|4dv|12q|4e|Jungbis
+Lyangasovo|RU||97|4ik|3td|3i|Ljangasovo
+Lyubinskiy|RU||76|498|5lx|2x|Ljubinskij
+Lyuboml|UA||98|3yb|1ur|2v|Liuboml;Ljuboml;Lyubomi;Luboml
+Ljubuški|BA||9r|3c0|1cr|2s|Liubuškai
+Lüchow|DE||8r|435|v0|2p|Ljauchüw;Lgauchi;Lieuschü
+Lyambir’|RU||9i|46s|3hc|2b|Ljambir
+Lyubimets|BG||9v|388|20g|29|Lyubimetz;Ljubimetz
+Ljusdal|SE||9w|4rr|18p|21|Jusdal
+Ljungsbro|SE||9w|4ik|172|1w|Ljugsbro
+Lyubim|RU||9i|4i4|351|1p|Ljubim
+Lyubokhna|RU||9i|44m|2nj|1g|Ljubokhna;Ļubohna;Ljubochna;Lioubokhna;Lobohna;Lubochna
+Hitzacker|DE||8r|43n|uo|1g|Ljauci
+Lyamino|RU||7z|4hw|4gd|1e|Ljamino
+Lešnica|RS||8q|3g1|1hn|1b|Lješnica
+Lyuban’|RU||9i|4kv|2eq|19|Ljuban
+Ljubinje|BA||9r|3bb|1e9|16|Lyubinye
+Ljungskile|SE||9w|4hq|x4|11|Jungšilė
+Lyaskelya|RU||9i|4rk|2e5|10|Läskelä;Ljaskelja
+Lyubuchany|RU||9i|49h|2wb|z|Ljubutsjany
+Ljutomer|SI||9a|3l8|190|z|Ljubomer;Lyutomer
+Lyubytino|RU||9i|4jd|2kr|w|Ljubytino
+Ljig|RS||8q|3ev|1k8|u
+Ljubovija|RS||8q|3er|1hu|r
+Ljunghusen|SE||9w|49w|zw|o
+Ljungbyhed|SE||9w|4br|10s|l
+Liuta|UA||98|3ru|1r9|k|Ljutá;Lyuta
+Ljusne|SE||9w|4q1|1bl|j
+Ljungbyholm|SE||9w|4db|18x|h
+Lumbardhi|XK||8q|3a7|1kj|f|Lumbardh;Ljumbardh;Lumbardhë
+Lewiston|US|Michigan|2q|3go|-6i7|e|Ljuiston
+Lyubovsho|RU||9i|437|2fm|e|Ljubovsja;Lyubovsha;Lyubavsho
+Lyalichi|RU||7w|3ef|a7r|d|Ljalitsji;Lalichi
+Lëbushë|XK||8q|3a8|1kd|d|Ljubuša;Lpushë;Lubushë;Ljebuše;Lëbusha
+Ljubin|MK||9u|38o|1n7|c
+Ljubešćica|HR||a6|3k9|19j|c
+Ljukovo|RS||8q|3h3|1jn|c|Lyukovo
+Ljubno ob Savinji|SI||9a|3kq|157|b|Lyubno ob Savinji
+Ljubečna|SI||9a|3ki|16k|b
+Ljubojno|MK||9u|35l|1mq|a|Ljubojna
+Ljungaverk|SE||9w|4tl|18k|9
+Lyakhovo|RU||9i|4c7|3e6|9|Ljakhovo
+Ljupina|HR||a6|3hm|1ca|8
+Ljung|SE||9w|4h3|10a|7
+Ljunga|SE||9w|4ik|19f|7
+Ljušta|XK||8q|3b1|1lv|6|Ljustë;Lushtë

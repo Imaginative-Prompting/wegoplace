@@ -1,0 +1,359 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Shenyang|CN||7i|383|9iv|1xzh|Šenjangas;Thẩm Dương;Senjang;Ŝenjango;Šeņjana;Šen-jang;Sjenyang;Sím-iông-chhī;Sīng-iòng;Shenyan;Swnjyangh;Şenyanq
+Shekhupura|PK||6q|2g3|5pj|4ka|Sheikhu Pura;Śekhupura;Sheikhupura
+Sheffield|GB||9b|44a|-43|4al|Ŝefildo;Šefildas;Šefīlda;Şeffild
+Sengkang New Town|SG||7j|3v|80l|22c|Sengkang;Shèng Gǎng
+Shevchenkivskyi|UA|Kharkiv|98|3uy|2sm|1pb
+Shevchenkivskyi|UA|Kyiv City|98|3w6|2cn|1p5|Sevcsenkivszkij kerület
+Bet Shemesh|IL||6n|2g5|2p7|1d4|Bet Schemesch;Betxèmeix;Beit Şemeș;Bejt Šemeš;Beyt Şemeş;Beit-Shemesh
+'s-Hertogenbosch|NL||8m|3zm|eq|18o|Bois-le-Duc;Bolduque;Boscoducale;De Bosk;Oeteldonk;Hertogenbosch;Herzogenbusch;Den Bosch;Silva Ducis
+Shevchenko|UA|Poltava|98|3to|2ny|150|Shevchenkivskyi rayon
+Aktau|KZ|Mangystau|5v|3da|3y5|14y|Aqtaū;Aqtaw;Aktaou;Aktav;Shevchenko;Akhtau
+Shengavit|AM||80|33k|3fk|132
+Shenglilu|CN||7i|29j|864|11a
+Nablus|PS||6g|2hi|2px|107|Naplusa;Siquem;Sychem;Shechem;Sichem;Naplouse;Flavia Neapolis;Sihhem;Napouse;Schechem;Sykhem;Shekhem;Nabulus
+Sherbrooke|CA|Quebec|59|3i4|-5jq|zy|Šerbrukas
+Sheepshead Bay|US||48|34r|-5pe|y1
+Sherpur|BD||6a|1xi|6y2|tu
+Shenjiamen|CN||7i|2b8|9fq|qi|Shenkiamen;Shen-chia-men
+Shevchenkivskyi|UA|Luhansk|98|3qw|319|ob|Leninskyi;Leninskyi rayon
+Shirbīn|EG||c|2eo|2fk|l5|Scharbin;Sherbin;Szirbin;Sharbīn
+Shelby|US|Michigan|2q|3aj|-6en|kl
+Sheopur|IN||6t|1za|5x2|k0
+Shenzhen City Centre|CN||7i|1qm|8sw|jo
+Sherwood Park|CA||2s|44o|-8qs|jm|Šervudo Parkas;Šervudparka;Sherwoos Park
+Sheki|AZ||61|36f|3n1|j0|Şeki;Shaki
+Sheptytskyi|UA||98|3vz|1vc|hv|Krystynopol;Chervonohrad;Červonohrad;Tscherwonohrad;Czerwonogród;Kristinopol’;Chervonograd;Czerwonohrad;Krvstonopol;Sheptytskyy
+Shendi|SD||r|1ad|2kv|hp|Schandi;Šendis;Šendi;Chendi;Xendi;Szandi;Shandi;Shindî
+Sheikhpura|IN||6t|1xu|6mg|hh|Shaikhpura
+Shchëkino|RU||9i|461|2w7|gv|Shchyokino;Schekino;Shehekino
+Shegaon|IN||6t|1lr|5x2|gl
+Shenliu|CN||7i|29p|8nk|g2
+Sherkot|IN||6t|29h|629|fy
+Shibirghān|AF||6o|2tv|52n|fg|Şibircân;Shoburgon;Shibirgán;Chibirchan;Schibirgan;Shibarghān;Shibergan;Sheberghān
+Shella|IN||6t|1xy|72k|f0
+Sherman Oaks|US||3p|2mv|-951|en
+Shelādiz|IQ||5z|2uv|3dm|dw
+Sheboygan|US||2f|3dj|-6rn|dk|Šeboiganas;Sheboyegan
+Shelekhov|RU||6k|412|816|d7|Sjelekhov;Schelechow;Shélejov;Chelekhov;Šelechov;Şelexov;Ŝeleĥov;Sjelechov;Shelikhov
+Shertallai|IN||6t|qx|5w2|cn|Shertally;Shertalla
+Shebekino|RU||9i|3w1|2ul|ck|Sjebekino;Šebekino;Schebekino
+Shefar‘am|IL||6n|2j5|2pp|c7|Shefa-'Amr;Shfar’am;Shafa ‘Amr
+Shonē|ET||2|jt|2xf|bn|Shenē
+Shelton|US|Connecticut|48|36s|-5n1|bh
+Shepetivka|UA||98|3ve|237|bc|Schepetiwka;Chépétivka;Šepetivka;Szepetówka
+Sherman|US|Texas|2f|2lg|-7gd|bb
+Sherghāti|IN||6t|1w8|6jj|bb
+Shamakhi|AZ||61|34v|3r4|b7|Şamaxı;Şamahı;Shamakhy;Shemakha
+Shepherds Bush|GB||9b|3z3|-m|b1|Shephers Bush
+Sharm el-Sheikh|EG||c|25k|2nd|ap|Sharm el Sheikh;Sharm el-Sheij;Charm el-Cheikh;Scharm asch-Schaich;Šarm eš Šejh;Şarm eş-Şeyh;Sharm esh Sheikh;Sharm al Shaikh;Sherm el Sheikh;Sherm el Shekh;Sherm el Sheik
+Sderot|IL||6n|2fl|2o4|ac|Sederot;Shederot
+Shetou|TW||7l|1ue|9az|a6|She-t’ou
+Sheybān|IR||7o|2f9|3rj|a4
+Sheraro|ET||2|140|2xd|a1|Cheraro;Scheraro
+Cherchell|DZ||3|2to|63|9k|Sersell;Caesarea Iol;Szarszal;Cercal;Iol Caesarea;Şerşel;Shershel;Cherchez;Shershell;Cherche;Cherchel
+Shetan|CN||7i|2bb|8ay|9b
+Shaqlāwah|IQ||5z|2t4|3f5|92|Sheqławe;Shaglāwa;Shaklawa;Shaqlāwa;Shaqlwah
+Shepparton|AU||8j|-2t2|b7w|8x|Mooroopna;Šepartonas;Šepartona
+Shek Lei|HK||6i|1q5|8t2|8u
+Shambu|ET||2|ql|2v2|8n|Shambo;Shembu
+Sherwood|US|Arkansas|2f|2oq|-746|8h
+Sesheke|ZM||z|-1ck|1vi|8b|Shesheke;Sisheke
+Shelek|KZ||5s|3d4|61e|82|Schelek;Chilik;Chiliksk
+Sheohar|IN||6t|21n|6kx|7t
+Sheoganj|IN||6t|1xu|5mz|7t
+Shenkottai|IN||6t|oy|5yl|7g
+Shaykh Miskīn|SY||69|2j7|2sg|77|Sheikh Miskīn;Shaykh Maskīn
+Shek Kip Mei Estate|HK||6i|1q1|8t5|74
+Shelui|TZ||h|-c5|2n0|6w
+Shendi|ET||2|tk|2un|6n
+Sbeitla|TN||1e|2pv|pc|6m|Sbaytla;Subajtila;Sheitla;Subayţilah
+Sheno|ET||2|px|315|6d|Shano
+Shendurjana|IN||6t|1ns|61g|61|Sendurjana
+Shelbyville|US|Tennessee|2f|2qk|-6o6|5x
+Sheksna|RU||9i|4kh|2yz|5w|Sjeksna
+Shek O|HK||6i|1pr|8td|5r
+Sheung Shui|HK||6i|1qk|8t0|5p|Shangshui
+Shelby|US|North Carolina|48|2q1|-6ai|5m
+Shemonaikha|KZ||5s|3wn|6bj|5l
+Xambabazar|CN||7t|2uh|6af|5i|Shenbebazar
+Sherwood|US|Oregon|3p|3i0|-9h8|5d
+Shehera|IN||6t|1rr|5oj|5c
+Shelbyville|US|Indiana|38|31s|-6ma|5b
+Shekou|CN||7i|1qh|8sg|57
+Shenandoah|US|Louisiana|2f|2cg|-70s|54
+Sherrelwood|US||2p|32o|-83o|53
+Shek Kip Mei|HK||6i|1q1|8t5|51|Shep Kip Mei
+Sheridan|US|Wyoming|2p|3gg|-894|4z|Hoxómâhoévehoéno
+Shenzhenwan|CN||7i|1qh|8si|4p
+Shelbyville|US|Kentucky|48|2y5|-6kq|49
+Shek Pai Wan Estate|HK||6i|1pt|8t4|45
+Shelar|IN||6t|1ho|5mz|45
+Shijak|AL||9y|36v|1id|3x|Šijaku;Šijak;Shjak;Šjak;Shejak
+Shergarh|IN||6t|27l|64h|3x
+Shepshed|GB||9b|42l|-3l|3r|Sheepshed
+Sheerness|GB||9b|3yw|24|3o
+Shelbourne|CA||5b|3ql|-9il|3h
+Shek Wai Kok|HK||6i|1q6|8t0|3e
+Shepherdsville|US||48|2xj|-6m4|3c
+Shetpe|KZ||5v|3em|40v|3a
+Shellmont|CA||5b|3sh|-9hy|36
+Shepton Mallet|GB||9b|3y7|-73|2w|Simon Browne
+Shekhpura|IN||6t|20m|6l7|2u
+Sheregesh|RU||74|430|6sf|2t|Sjeregesj;Scheregesch;Šeregešas;Šeregeš;Cheregech;Szeriegiesz
+Shepperton|GB||9b|3ys|-19|2t
+Sherlovaya Gora|RU||67|3wd|8z4|2t|Sjerlovaja Gora;Shirlovaya Gora
+Shelton|US|Washington|3p|3n6|-9hy|2q
+Shelkovskaya|RU||9i|3cv|3kq|2o|Sjelkovskaja;Sarapan;Şelkovski;Šelkovskaja;Schelkowskaja
+Sherborne|GB||9b|3xj|-70|2n|Scireburna;Scīrburna;Sherbourne
+Sheffield|US|Alabama|2f|2ol|-6rm|2j
+Shelby|US|Ohio|48|35k|-6dm|2j
+Sheffield Lake|US||48|379|-6c2|2i
+San Marzano di San Giuseppe|IT||9o|34d|1cm|2h|Shen Marcani
+Shendābād|IR||7o|2xy|3ir|2d
+Shlomi|IL||6n|2jv|2pn|2a|Shelomi;Schelomi;Šlomi;Chelomi
+Shelburne|CA|Ontario|59|3eg|-66s|29
+Sheringham|GB||9b|432|3d|29
+Sheboygan Falls|US||2f|3dh|-6ry|26
+Shencang|CN||7i|2oh|7z6|26|Shenzang
+Shediac|CA||43|3ke|-4za|23
+Sherwood|CA|Prince Edward Island|35|3kj|-4vd|22
+Shengli|CN||7i|2fb|8g1|21
+Shefford|GB||9b|40k|-x|21
+Shefford|CA||59|3hz|-5ll|21
+Sherbakul’|RU||76|47r|5l4|21|Sjerbakul
+Shevchenkove|UA|Kharkiv|98|3u2|2va|1z|Schewtschenkowe;Ševtšenkove;Chevtchenkove;Şevçenkove;Xevtxénkove;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Shëngjin|AL||9y|385|1if|1y|Šenđin;Shen Ghen
+Shevchenka|UA|Kyiv City|98|3wc|2ck|1w|Shevchenko;Shevchenkovo
+Shentong|CN||7i|292|891|1w
+Shenzhen|TW||7l|1xc|9c5|1v|Shen-chün;Shenjhen;Shen-chen
+Sherburn in Elmet|GB||9b|45g|-3h|1v
+Sheragada|IN||6t|1i7|6j0|1v
+Shemysheyka|RU||9i|42x|3i3|1u|Sjemysjejka;Shemyshleyka
+Shentala|RU||9p|477|3yz|1u|Sjentala
+Sherwood|CA|Alberta|2s|3y4|-8t3|1t
+Sheidow Park|AU||8b|-2pg|aot|1t
+Sheremet’yevskiy|RU||9i|4bi|2w5|1t|Sjeremetjevskij
+Shekou Residential|CN||7i|1qh|8sh|1q
+Sheridan|US|Oregon|3p|3ha|-9ir|1p
+Sheridan|US|Colorado|2p|325|-83r|1o
+Shenkursk|RU||9i|4sj|3b6|1n|Sjenkursk;Schenkursk;Chenkoursk;Šenkursk;Sjenkoersk;Szenkursk
+Shemordan|RU||9i|4c3|3w0|1n|Sjemordan
+Sherpura|IN||6t|1ob|5mp|1l
+Sherwood-McCarthy|CA||4q|3w9|-82s|1l
+Shevchenkove|UA|Odesa|98|3ij|29h|1k|Schewtschenkowe;Sjevtsjenkove;Ševtšenkove;Ševčenkovė;Chevtchenkove;Sevcsenkove;Xevtxènkove;Ševčenkovo;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Shupenzë|AL||9y|37d|1kq|1j|Shupenza;Shupenz;Shtupenza;Shëpenzë
+Shell Cove|AU||8l|-2o3|bn2|1j
+Shenfield|GB||9b|3zf|x|1j|Scenfelda
+Shepley|GB||9b|44u|-4s|1i
+Sherwood Manor|US||48|38p|-5lk|1i
+Shelley|GB||9b|44w|-4o|1i
+Shevington|GB||9b|44t|-7h|1g
+Sheldon|US|Iowa|2f|3by|-7ea|1f
+Shenzhen|CN|Guangdong|7i|1pm|8ko|1e
+Shenandoah|US|Iowa|2f|359|-7cx|1e
+Shebalino|RU||63|3yi|6m0|1d|Sjebalino;Shebilano
+Shenandoah|US|Pennsylvania|48|35e|-5vo|1d
+Sheridan|US|Arkansas|2f|2nb|-74o|1c
+'s-Heerenberg|NL||8m|404|he|1b|Herenbergas
+Sherman|US|Illinois|2f|32t|-6ww|1a
+Shelbyville|US|Illinois|2f|31h|-6un|1a
+Shenton Park|AU||8k|-2gs|8xo|19
+Shelley|AU||8k|-2gz|8xx|18
+Shelley|US||28|3ci|-8ng|17
+Shelabolikha|RU||63|44e|6dh|17|Sjelabolikha
+Sherborn|US||48|39c|-5i9|17
+Sharafkhāneh|IR||7o|2y2|3id|16|Sharifkhane;Sheraf-Khane;Sharifkhaneh
+Sheshu|CN||7i|2k8|83i|16
+Shemëtovo|RU||9i|4d1|2xs|16
+Shenley|GB||9b|3zl|-s|15
+Sheffield|US|Ohio|48|372|-6c2|14
+Sherman|US|Connecticut|48|37i|-5o6|12
+Sherwood|US|Ohio|48|30k|-6ic|11
+Shemursha|RU||9i|48h|3o0|11|Sjemursja
+Sheerwater|GB||9b|3ym|-1h|10
+Shellharbour|AU||8l|-2o2|bn3|10
+Shchebetovka|UA||9t|3gu|2po|y|Ŝĉebetovko;Otuz;Șcebetovka;Otuzy;Shebetovka;Otus
+Shelopugino|RU||67|3zh|92k|y|Sjelopugino;Shelopushno;Shelapugino
+Sheffield|US|Massachusetts|48|38z|-5ns|y
+Šeduva|LT||a3|4av|1u0|x|Sheduva;Šedava
+Shelby|US|Montana|2p|3qr|-8mq|x
+Sheepmoor|ZA||o|-228|2c6|x
+Shepsi|RU||9i|3ec|30r|w|Sjepsi
+Shevchenkove|UA|Mykolaiv|98|3m6|2hg|w|Sjevtsjenkove;Schewtschenkowe;Sjevtjenkove;Ševčenkove;Shevchenkovo;Shevchenko
+Shedok|RU||9i|3eu|35h|v|Sjedok;Shchedok
+Sherburn|GB||9b|486|-46|v
+Sheshtamad|IR||7o|2rw|4gh|v|Sheshtomad
+Sherrill|US||48|3bn|-5u0|v
+Shenandoah Farms|US||48|30a|-60w|u
+Sheridan|US|Indiana|38|33i|-6ni|t
+Sherwood|US|Wisconsin|2f|3ep|-6t6|t
+Shelly Park|NZ||ak|-2uj|dhz|t
+Sefkerin|RS||8q|3h1|1kw|s|Sevkerin;Szeffkerin;Shefkerin;Szefkerin
+Shell Point|US|South Carolina|48|2j3|-66j|s
+Shevchenkove|UA|Cherkasy|98|3sn|2ed|s|Shevchenkovo
+Shenandoah|US|Texas|2f|2bu|-7d6|s
+Shnogh|AM||80|36b|3gk|s|Shnox;Shanikh;Shen;Shiniz;Shinikh;Shinogh;Shnoz;Shnokh
+Sheridan|US|Illinois|2f|37d|-6uc|r
+Sheykh Shabān|IR||7o|2ij|3wk|r
+Sherbrooke|CA|Alberta|2s|44u|-8rf|o
+Shepherd|US|Texas|2f|2cq|-7bw|o
+Sheragul|RU||6k|47a|7sb|o|Sjeragul;Sharagul
+Shenandoah|US|Virginia|48|2yx|-62f|n
+Shell Point|US|South Carolina|48|2hy|-68a|n
+San Demetrio Corone|IT||9o|31x|19g|n|Shen Mitri
+Shenstone|GB||9b|428|-54|m
+Shelby|US|Mississippi|2f|2mb|-705|l
+Shtulim|IL||6n|2g9|2oc|l|Bitaniya HaDromit;Bitaniya Haderomit;Bitaniyah Hadromit;Bitanya Ha-Deromit;Shetulim
+Shelburne|US|Massachusetts|48|3ab|-5lx|l
+Shepherdstown|US||48|31j|-604|l|Shepherds Town;Shepherd Town;Shepherd's Town
+Dniprovka|UA|Crimea|9t|3iz|2ng|l|Çoqraqlı Şeyh Eli;Vyselky;Chokrakly-Sheykh-Eli;Chokrakly-Sheikh-Eli;Sheikh-Eli;Sheykh-Eli
+Shelby|US|Michigan|2q|3d5|-6nw|k
+Sheldon|US|Texas|2f|2az|-7c9|k
+Sheshory|UA||98|3q8|1xd|k
+Zherebkove|UA||98|3ow|2az|k|Sherebkovo;Zherebkovo
+Shenavan|AM|Aragatsotn|80|34g|3fa|j
+Shenorock|US||48|36t|-5ou|j
+Shevīr|IR||7o|2so|3sd|j|Shavīr
+Shenqar|IR||7o|2st|3va|i|Shīnqar
+Shenavan|AM|Armavir|80|33a|3e1|i
+Shamsābād|IR|Sistan and Baluchestan|7o|23j|4np|i|Shemsābād
+Shelburne Falls|US||48|3ac|-5m2|h
+Shearwater|AU||8g|-36c|bb1|h
+Sheldon|AU||8c|-24m|btk|h
+Shevlyakovo|RU||9i|4co|2ue|h|Shevlyakova
+Shevchenko|UA|Donetsk|98|3py|2v6|h
+Shea Heights|CA||50|3o3|-42f|g
+Shelbina|US||2f|329|-73o|g
+Shepherdswell|GB||9b|3y7|3f|g
+Sharalday|RU||6k|3xq|8b0|g|Sjaraldaj;Sheralday
+Shelestove|UA||98|3qo|1r7|g|Szélestó;Szelesztó
+Shershentsi|UA||98|3pb|28l|g|Shershintsy;Shershentsy
+Shearwater|CA||35|3fz|-4wf|g
+Shefayim|IL||6n|2hi|2or|f|Schefajim;Šefajim;Szefajim;Şefayim;Shefayyim
+Shepherd|US|Michigan|2q|3cw|-6j9|f
+Sheberta|RU||6k|47s|7ph|f|Sjeberta;Shebreta
+Sherwood Content|JM||3i|1f3|-5zn|f
+Sheffield|AU||8g|-370|bai|f
+Chindini|KM||ac|-x4|3ct|f|Shendini;Chendini
+Shebutyntsi|UA||98|3qs|23h|f|Chéboutyntsi;Shebutintsi;Shebutintsy
+Sheynovo|BG||9v|3ak|1yc|f|Sheinovo;Seinovo
+Sherston|GB||9b|3z9|-65|e
+Shesh Bahreh-ye Bālā|IR||7o|2fi|3x5|e|Shesh Bahreh Bālā
+Shell Knob|US||2f|2tr|-783|e
+Sheliuhy|UA||98|3lc|2pw|e|Shelyuhy
+Sherkaly|RU||7z|4uc|51w|e|Sjerkaly;Sharkaly
+Shelkovichnoye|UA||9t|3hj|2ll|e
+Shelū Gerd|IR||7o|2tl|4kk|d|Solūgerd
+Shelter Island|US||48|363|-5ky|d
+Sherburne|US||48|3ak|-5tq|d
+Shelburne|CA|Nova Scotia|35|3dk|-51g|d
+Chéraute|FR||9k|3c3|-2f|d|Sohüta;Sherauta
+Vozdvyzhivka|UA||98|3on|2s8|d|Harnenke;Shelekhivka;Vozdvizhevka
+Shell Rock|US||2f|3an|-756|d|Shellrock
+Shemokmedi|GE||7n|38f|38v|d|Shemok'medi;Shimokmedi;Semokmedi
+Shell Lake|US||2f|3j2|-73d|d
+Shelly Beach|AU|New South Wales|8l|-2kp|bot|d
+Santa Sofia d'Epiro|IT||9o|31v|19d|d|Shen Sofia;Santa Sofia d'Epvo
+Sherwood|CA|Alberta|2s|44p|-8ri|d
+Sheridan|US|California|3p|30a|-9d6|c
+Shenandoah Heights|US||48|35f|-5vp|c
+Shevchenkove|UA|Mykolaiv|98|3o2|2id|c|Chevtchenkové
+Shelburn|US||38|30u|-6qr|c
+Sherburn Hill|GB||9b|485|-44|c
+Shell Valley|US||2f|3rk|-7pe|c
+Shellbrook|CA||4q|43u|-87k|c
+Sherwood Shores|US||2f|2m1|-7gy|c
+Sherborne St John|GB||9b|3yi|-33|c
+Shebunino|RU||7f|3kz|ay2|c|Sjebunino
+Shediac Bridge-Shediac River|CA||43|3kj|-4zg|c
+Sherpur|IN||6t|2e8|5tz|c
+Sheffield|US|Iowa|2f|3b5|-76y|b
+Sheffield|US|Pennsylvania|48|37u|-63k|b
+Shenik|AM||80|33p|3dl|b
+Gosh|AM||80|355|3h0|b|Getik;Nor Getik;Kosh;Ghoshavank;Shen Ghoshavank
+Shehyni|UA||98|3uc|1rt|b|Shekhyne;Shegyni
+Shepparton East|AU||8j|-2t4|b84|b
+Sherburn|US||2f|3d9|-7b5|b
+Shestakovo|RU||6k|4cx|80s|b|Shestakova
+Shelton|US|Nebraska|2f|35a|-7m9|b
+Sheshatshiu|CA||2y|44o|-4n3|a|Sheshatshit
+Shelter Island Heights|US||48|364|-5l0|a
+Sheffield Estates|CA||50|3o1|-42i|a
+Shelby|US|Alabama|2f|2jz|-6oi|a
+Seqānlīq|IR||7o|2pd|3vn|a|Soqānlīq;Sāqānlūq;Saqānlīq;Sheqānlīq
+Shenzhen Bay Park|CN||7i|1qi|8sj|a
+Sheldon|US|Illinois|2f|359|-6r8|a
+Sheriff Hutton|GB||9b|469|-2t|a
+Sheltozero|RU||9i|4qh|2q9|a|Sjeltozero;Soutjärvi
+Sherrills Ford|US||48|2qy|-68z|a|Sherrill Ford
+Shekou Wharf|CN||7i|1qe|8sd|a
+Shellman|US||48|2g8|-6j2|a|Schellman
+Sherman|US|Maine|48|3jf|-5a2|a
+Sherington|GB||9b|40r|-1y|a
+Shellsburg|US||2f|38x|-737|a
+Shevchenkovo|UA||9t|3gm|2ls|9
+Šėta|LT||a3|49k|1vd|9|Sheta
+Shenandoah Shores|US||48|308|-612|9
+Shevchenka|UA|Kherson|98|3kc|2j9|9|Shevchenko
+San Nicola dell'Alto|IT||9o|315|1b5|9|Shen Kolli
+Sheffield|US|Illinois|2f|36w|-6xa|9
+Sheering|GB||9b|3zw|i|9
+Shenley|CA||59|3js|-5gr|9
+Sheykh Maḩalleh|IR||7o|2x8|3rv|9|Shaikh Mahalleh
+Shemgang|BT||7p|23m|6zu|9|Şemgang;Zhemgang
+Shelby|PE||3o|-u1|-5vq|9
+Shelomy|RU||9i|421|2gh|8|Sjelomy;Shelomi
+Shediac Cape|CA||43|3kf|-4zd|8
+Shelly Beach|AU|Queensland|8c|-22g|btf|8
+Shabtīn|PS||6g|2gt|2pd|8|Shebtin
+Sheykhān|IR||7o|2up|3h6|8
+Sherwood|US|Ohio|48|36p|-6iv|8
+Shekhanya|IL||6n|2j9|2px|8|Šechanja;Szechanija;Şekhanya
+Sheet Harbour|CA||35|3gs|-4tp|8
+Sherry|US||2f|3fu|-6xs|8
+Sheykh Valī|IR||7o|2y7|3i5|8|Sheikh Vali;Shikhvali
+Shenhury|UA||98|3sa|2mn|8|Shengury
+Shebbear|GB||9b|3xa|-bp|7
+Shenandoah Junction|US||48|31c|-608|7
+Sherman|US|New York|48|394|-654|7
+Shangolābād|IR||7o|2xy|3iu|7|Shingilabad;Shengelābād
+Shelekhove|UA||98|3og|2bq|7|Chélékhové;Shelekhovo
+Shelter Cove|US||3p|337|-9kn|7
+Sherando|US||48|2xi|-63b|7
+Shelby|US|Nebraska|2f|36f|-7in|7
+Shepit|UA||98|3os|1xu|7|Schepit;Schipot;Shepot
+Sheridan|US|Montana|2p|3ia|-8no|7
+Sherman|US|Mississippi|2f|2ng|-6us|7
+Sheatown|US||48|36f|-5v5|7
+Shere|GB||9b|3ya|-1b|7
+She’ar Yashuv|IL||6n|2kb|2r1|7
+Sheridan|US|Michigan|2q|3c1|-6kb|7
+Sherwood Heights|CA||35|3g4|-4wv|7
+Shelby|US|Iowa|2f|37c|-7d5|6
+Sherrard|US||2f|36s|-6zf|6
+Shershnivka|UA||98|3up|2jq|6|Shershnëvka
+Shestikhino|RU||9i|4gy|2y8|6|Sjestikhino
+Shevchenkove|UA|Mykolaiv|98|3mb|2hh|6|Chevtchenkové
+Shepreth|GB||9b|40r|3|6
+Shdema|IL||6n|2gf|2oi|6|Shedema
+Shelburne|US|Vermont|48|3fa|-5nf|6
+Shercock|IE||8z|460|-j6|6|Searcóg
+Shevchenkove|UA|Odesa|98|3mz|2dg|6|Shevchenkovo
+Shepylove|UA||98|3qd|2cs|6
+'s Herenelderen|BE||8t|3x5|fa|6
+Sharī Marī|IR||7o|2fq|3rs|6|Sherī Merī
+Shepelivka|UA||98|3t1|2kg|6|Shepelëvka
+Shevchenko|UA|Donetsk|98|3qe|2v3|6
+Shelby|US|Indiana|2f|36g|-6qn|5
+San Costantino Albanese|IT||9o|338|19a|5|Shen Kostadini
+Sheldon|US|Missouri|2f|2wm|-79x|5
+Shelbyville|US|Missouri|2f|32l|-73o|5
+Shelokhovskaya|RU||9i|4rz|30m|5|Sjelokhovskaja
+Shenandoah Retreat|US||48|30p|-60a|5
+Shepherd|US|Montana|2p|3jm|-8cy|5
+Shevchenka|UA|Zaporizhzhia|98|3lv|2os|5|Shevchenko
+Shekār Sarā|IR||7o|2vo|3u3|5
+Sheqef|IL||6n|2fk|2p2|5|Šekef;Shekef

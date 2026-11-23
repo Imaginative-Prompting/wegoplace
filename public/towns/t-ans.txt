@@ -1,0 +1,62 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Anshan|CN||7i|368|9hn|pnq|Ansjan;Anxan;An-šan;Anŝano;Anšanas;An Sơn;Ăng-săng;An-san-chhī
+Anshun|CN||7i|20x|869|5wl|An-šun;Anšunas;An Thuận;Ăng-sông;An-sūn-chhī
+Ansan-si|KR||7h|2vo|9sa|4t5|Ansan
+Anzhero-Sudzhensk|RU||74|4bs|6my|mx|Anschero-Sudschensk;Anĵero-Sudĵensk;Anžero-Sudžensk;Anshero-Sudshensk;Anzhero-Sudzhenka
+Anseong|KR||7h|2ut|9tj|j9|Anjŏ;Ansŏng
+Annecy|FR||9k|3jj|h1|do|Èneci;Ansī;Annecium;Anecí
+Anserma|CO||27|et|-5uj|97
+Ansbach|DE||8r|3sy|tf|8u|Onoldum
+Ans|BE||8t|3wq|fc|7l
+Anshing|IN||6t|1jo|5ys|5a|Ansing
+Ansonia|US|Connecticut|48|36v|-5n0|59|Ansonija
+Ansfelden|AT||a2|3px|13p|53|Aunsföin
+Strabane|GB||9b|48a|-kr|3y|An Srath Bán
+Anzegem|BE||8t|3x8|9o|3v|Anzehem;Anseghem
+Ansermanuevo|CO||27|dc|-5v3|3f|Ansermanueva
+Oldbawn|IE||8z|440|-hp|2q|An Seanbhábhún
+Ansheng|CN||7i|2d9|8b8|2f
+Anse à Galets|HT||4j|1gb|-5mf|20|Ansagalè;Anse Galets;Anse à Galet
+Asola|IT||9o|3hm|sx|1y|Ansula
+Anstey|GB||9b|42b|-3b|1t|Ansty
+Anse La Raye|MU||ag|-1jj|4g3|1p
+Ansalta|RU||9i|3al|3k4|1l
+Anse-Bertrand|GP||31|19r|-4qv|1f
+Anse|FR||9k|3jm|d4|1f
+Anse aux Pins|SC||ae|-d1|4a8|1b
+Anse Rouge|HT||4j|1ij|-5my|18|Answouj
+Anse Boileau|SC||ae|-d4|4a4|16
+Anse Royale|SC||ae|-d5|4a8|12|Anse Royal
+Anse-Vata|NC||b8|-1py|cuc|11|l'Anse Vata;Anse Vata
+Anstruther|GB||9b|4c6|-7i|y|Ánstruthair;Ànsruthair
+Handzame|BE||8t|3xr|8c|w|Hantsaeme;Ansoame;Handzaeme
+Ansongo|ML||5|17i|1e|u
+Kirchanschöring|DE||8r|3p7|zn|u|Anscharing
+Skibbereen|IE||8z|3z7|-pr|s|An Sciobairin
+Anson|US|Texas|2f|2j0|-7pi|n
+Anseremme|BE||8t|3vk|dm|n
+Ans|DK||8y|4cf|qn|j
+Coldstream|GB||9b|4al|-69|j|An Sruthan Fuar;Cauldstream
+Anse-à-Pitre|HT||4j|1e5|-5jb|h|Anses à Pitre;Anse Pitres;Anses-a-Pîtres
+Anse-à-Veau|HT||4j|1fe|-5nq|h
+Anstead|AU||8c|-24i|bsm|f
+Anse Ger|LC||52|12c|-4p8|f
+Ansted|US||48|2xy|-69a|e
+Anselfingen|DE||8r|3ow|oc|e
+Oldcastle|IE||8z|45d|-jw|e|An Seanchaisleán;Olcastle
+Ansião|PT||99|32v|-ng|e|Ancião
+Stradbally|IE||8z|43a|-jv|e|An Sráidbhaile;Stradbalis
+Anse La Raye|LC||52|12r|-4pk|d|Anse-La-Raye
+Anstaing|FR||9k|3wk|8v|c
+Ansihuacuaro|MX||41|1k4|-7ut|c|Anciguacaro;Ancihuacaro
+Ansonia|US|Ohio|48|33p|-6j4|c
+Ansouis|FR||9k|3di|f6|b|Ansoís
+Ansauvillers|FR||9k|3tp|6n|b|Ansovilé;Ansoville
+Anseroeul|BE||8t|3wx|9s|b
+Ansac-sur-Vienne|FR||9k|3jr|1t|9|Ançac;Ansac
+Scarriff|IE|Munster|8z|42z|-np|8|An Scairbh;Scariff
+Anson|US|Maine|48|3gg|-5e5|8
+Schull|IE||8z|3z4|-qj|7|Skull;An Scoil;Scoil Mhuire
+Ansonville|US||48|2pi|-66j|6
+Shanagarry|IE||8z|401|-mb|5|An Seangharraí
+Ansó|ES||9d|3as|-2b|5|Berari

@@ -1,0 +1,402 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Strasbourg|FR||9k|3qy|lj|24c|Straßburg;Estrasburgo;Strasburgo;Argentoratum;Strasburg;Straatsburg;Estrasburg;Strasburgu;Štrasburk;Strasbwrg;Strassborg;Strasbūras;Strasbūra;Strazburg;Strasbôrg;Stroossbuerg;Strasburq;Estrasborg;Stroosburi;Estrasbou;Strǣtburg;Strasborgh;Strossburg;Straasbuurich;Estrasburgu;Straasburch;Strażburgu;Sjtraasburg;Stroatsburg;Strassbourg;Straszburg
+Strogino|RU||9i|4b2|2vx|168
+Fordon|PL||a5|43n|1eh|jg|Striesau
+Stróvolos|CY||73|2pn|2kl|iv|Strovilo;Strovolo
+Stryi|UA||98|3su|1u9|h2|Stryj;Strij;Stria;Sztrij;Stry;Stryy
+Stroud|GB||9b|3zr|-64|gq|Straud
+Stralsund|DE||8r|46v|10c|ge|Strzałowò;Štrālzunde
+Streatham|GB||9b|3yv|-d|g5
+Stratford|US|Connecticut|48|36e|-5n5|ea
+Strezhevoy|RU||7r|4op|5zj|cg|Strezjevoj;Strazhevoy;Strezhevsy
+Strongsville|US||48|36r|-6bc|cf|Strongville
+Straubing|DE||8r|3rs|yx|ce
+Stretford|GB||9b|44h|-6g|bo
+Strawberry Hill|CA||5b|3sh|-9hc|be
+Streamwood|US||2f|38r|-6sy|ba
+Sremska Mitrovica|RS||8q|3gy|1ih|av|Srem. Mitrovica;Mitraja;Strema Mitrovica;Srijemska Mitrovica
+Stirling|GB||9b|4bw|-ay|aj|Sruighle;Sruighlea;Stirlin;Striuelin;Stirlinq
+Struga|MK||9u|36e|1lg|ae|Ustrugha
+Stratford|GB||9b|3z5|0|a7
+Strumica|MK||9u|374|1qw|9e|Strumitza;Strumitsa
+Strood|GB||9b|3yr|1c|9a
+Stratford|CA|Ontario|59|3ch|-68v|8r
+Stratford-upon-Avon|GB||9b|40z|-4r|8h|Stratfordia super Avonam;Stratford on Avon
+Esztergom|HU||8v|3or|1g2|80|Gran;Ostrzyhom;Ostřihom;Salvio;Esterqom;Strigonio;Ostrogon;Strigoniu;Ostrigon;Strigonia;Strigonium;Salvio Mansio;Strigonie;Estergom;Strigoni;Estergon;Solva
+Aiud|RO||8u|3kn|1tw|7v|Strassburg;Nagyenyed;Ajuds;Egidiopolis;Ajudas;Ajud;Straßburg am Mieresch
+Strausberg|DE||8r|422|12l|7e
+Strathfield|AU||8l|-2m4|bno|76
+Strathroy|CA||59|3bc|-6aq|6n
+Strakonice|CZ||9m|3su|12m|67|Strakonitz
+Strzelce Opolskie|PL||a5|3wb|1eu|5m|Opolės Stšelcės;Stšelce Opolske;Groß Strehlitz;Uopolske Strzelce;Gross Strohlitz
+Strășeni|MD||8x|3my|27h|5c|Strasheni
+Stroitel|RU||9i|3x3|2tc|56
+Streetsboro|US||48|36k|-69z|4j
+Straßgang|AT||a2|3mn|16s|4j
+Strzegom|PL||a5|3xk|19f|4h|Stšegoma
+Strawberry Mansion|US||48|332|-5su|4e
+Střížkov|CZ||9m|3v9|149|4d
+Strunino|RU||9i|4cl|2z6|4b|Strounino
+Straelen|DE||8r|3yw|hf|49|Straele
+Hayvoron|UA|Kirovohrad|98|3qa|2az|41|Haïvoron;Gayvoron;Hajworon;Hajvoron;Hajvoronas;Haivoronske poselennia;Strunkiv;Strunkivskyi Tashlyk;Strunkivskyy Tashlyk
+Strabane|GB||9b|48a|-kr|3y|An Srath Bán
+Strombeek-Bever|BE||8t|3xf|c4|3t|Strombeek
+Strängnäs|SE||9w|4ky|1bb|3t|Stregnesia;Strengnesas
+Strathmore|CA||2s|3xt|-8qz|3s
+Strand|NO|Rogaland|9j|4k1|gh|3r
+Streetly|GB||9b|422|-58|3p
+Whitby|GB||9b|47d|-1p|3o|Vitbis;Strēoneshalh
+Streator|US||2f|368|-6us|3o
+Street|GB||9b|3y0|-7m|3l
+Strel'na|RU||9i|4m9|2bg|3k|Strelna;Nuolijoki;Stryelna
+Strathcona|CA|British Columbia|5b|3sw|-9hx|3i
+Strzelin|PL||a5|3x2|1be|3g
+Stroud Green|GB||9b|3za|-b|3a
+Strehaia|RO||8u|3fy|1sg|38
+Strømmen|NO||9j|4mj|ul|36|Striomenas
+Struer|DK||8y|4cx|nv|35
+Stratford|CA|Prince Edward Island|35|3ke|-4v8|31
+Stradella|IT|Lombardy|9o|3h7|pu|30|Stratella;Stradéla
+Stranraer|GB||9b|48i|-dz|2x|Stranrawer;An t-Sròn Reamhar;Stanraer
+Struthers|US||48|361|-67x|2w|Struther
+Strasshof an der Nordbahn|AT||a2|3q8|1ab|2s
+Strzelce Krajeńskie|PL||a5|42w|175|2s|Strzelcé;Stšelce Krajeņske;Feriedebergk;Strzelce Kraińskie;Friedeberg
+Stropkov|SK||8s|3so|1o5|2q|Sztropkó
+Strijen|NL||8m|3zr|cn|2m
+Strathpine|AU||8c|-23u|bsz|2m
+Stryzhavka|UA||98|3sz|273|2k|Stryjavka
+Strathcona|CA|Alberta|2s|44o|-8r8|2i
+Środa Śląska|PL||a5|3y4|1a4|2h|Stradau;Sroda Slonska;Noviforum
+Strépy-Bracquegnies|BE||8t|3w7|bg|2h
+Strzyżów|PL||a5|3uj|1oj|2f|Stšižova;Strziżůw;Stzyżów
+Strugi-Krasnyye|RU||9i|4hv|28v|2d|Strugi Krasnye;Strugi-Krasnye
+Strathmore|AU||8j|-2wu|b6k|2a
+Saint Rose|US||2f|2b7|-6yw|29|St. Rose
+Strullendorf|DE||8r|3ug|uh|27
+Stříbro|CZ||9m|3u8|104|25|Mies
+Striano|IT||9o|35e|14i|24
+Strathaven|GB||9b|4ao|-bb|23|Strath Aibhne;Srath Abhainn
+Strathmore|US|New Jersey|48|348|-5q5|21
+Stryn|NO||9j|4ry|io|20
+Strömstad|SE||9w|4jq|v1|20
+Stratford|US|New Jersey|48|32n|-5se|1y
+Stratham Station|US||48|3bl|-5gy|1x
+Štrpce|XK||8q|39c|1mf|1x|Shtërpcë;Štrice
+Stratmoor|US||2p|2zp|-832|1x
+Stromyn’|RU||9i|4bo|2yw|1u|Stromyn
+Střešovice|CZ||9m|3v6|13y|1u
+Strasburg|US|Virginia|48|30b|-61o|1u
+Stratford|NZ||ak|-31a|dg4|1s|Whakaahurangi
+Strathalbyn|AU|South Australia|8b|-2py|apt|1r
+Strasburg|DE||8r|44n|126|1r
+Stra|IT||9o|3i5|xd|1q
+Stronie Śląskie|PL||a5|3vq|1av|1q|Stroņe Slonske
+Strellc i Epërm|XK||8q|3aa|1kd|1p|Strallc i Epërm
+Strensall|GB||9b|464|-2w|1o
+Stride Hill|CA||5b|3sp|-9hk|1o
+Strassen|LU||9c|3tu|gv|1o
+Strzelno|PL|Kujawsko-Pomorskie|a5|427|1eh|1o|Stšelno;Strelno
+Straldzha|BG||9v|3ac|224|1m|Straldža;Straldsha
+Strazhitsa|BG||9v|3c3|205|1l|Strajitsa
+Strelka|RU|Krasnoyarsk Krai|6u|4hb|76f|1l|Striełka
+Strathdale|AU||8j|-2u5|b4w|1k
+Juankoski|FI||92|4v6|26p|1j|Strömsdal
+Stroudsburg|US||48|35v|-5sv|1i
+Strelka|RU|Krasnodar Krai|9i|3hl|2vl|1i
+Strawberry|US|California|3p|2xa|-9gb|1i
+Saintry-sur-Seine|FR||9k|3r0|6y|1h|Stry-sur-Seine
+Straja|RO|Suceava|8u|3p4|1yz|1h
+Struisbaai|ZA||o|-2oo|1jp|1h|Struis Bay
+Strib|DK||8y|4aa|r5|1h
+Strathfieldsaye|AU||8j|-2u9|b4z|1h
+Strážnice|CZ||9m|3ru|1c4|1h|Straßnitz
+Stryszawa|PL||a5|3u3|1i8|1h
+Strzałkowo|PL||a5|41b|1di|1f
+Strzyża|PL||a5|473|1fn|1f
+Strejnicu|RO||8u|3gs|203|1e|Strejnic
+Strachocin-Wojnów|PL||a5|3xy|1bn|1d
+Strelitsa|RU||9i|3zd|303|1c
+Strambino|IT||9o|3i2|lx|1b|Strambin
+Strelcha|BG||9v|3a2|1vk|19|Strelča;Streltscha;Stryelcha;Strjelča
+Strà-Montanara-Pieve|IT||9o|3i6|v0|19
+Stramproy|NL||8m|3y7|fw|19|Stramproij;Stamproy
+Strunga|RO||8u|3n1|22y|19
+Strátos|GR||8p|2zf|1n8|18|Yanica;Stratus;Sorovigli
+Strengelbach|CH||a7|3nc|m1|17
+Strijpen|BE||8t|3xb|aj|17|Strypen
+Stretton|AU||8c|-24q|bt7|17
+Strmec|HR|Zagreb County|a6|3ja|17v|17
+Strehla|DE||8r|3yn|10r|16|Štrēla;Strjela
+Strážske|SK||8s|3rr|1oo|16|Őrmező;Straške
+Strathern|NZ||ak|-3kz|czo|16
+Strâmtura|RO|Maramureş|8u|3oq|1v1|16|Szurdok;Strîmtura
+Străoane|RO||8u|3jl|235|14
+Stresa|IT||9o|3jg|nq|14|Strixia
+Strijp|NL||8m|40j|by|14
+Strzebiń|PL||a5|3wm|1gi|14
+Strathmore Park|NZ||ak|-36t|dhm|13
+Strizhi|RU||97|4if|3su|13|Strizji;Stryzhi
+Strafford|US|New Hampshire|48|3cd|-5hq|13
+Strongoli|IT||9o|313|1bd|13
+Strání|CZ||9m|3ru|1d7|12
+Stráž pod Ralskem|CZ||9m|3wu|154|12|Wartenberg am Rollberg;Vartenberk;Vartemberk;Warttenberg am Rollberg
+Strasswalchen|AT||a2|3pa|10u|12|Strasz Walchen
+Hegyeshalom|HU||8v|3p3|1bn|12|Straßsommerein;Straß-Sommerein;Štruos;Smierna
+Stratfield Mortimer|GB||9b|3yp|-2v|11
+Strömsund|SE||9w|4xd|178|11|Straejmie
+Strowan|NZ||ak|-3cv|dbh|10
+Štrba|SK||8s|3sa|1js|10
+Staropesterevo|RU||74|47e|6o1|10|Stropesterovo
+Strathfield South|AU||8l|-2m5|bno|z
+Stromberg|DE|Rheinland-Pfalz|8r|3uq|ll|z
+Štramberk|CZ||9m|3tr|1ec|z|Stramberg
+Strumień|PL||a5|3uo|1g5|y
+Strejeşti|RO||8u|3fp|1vf|y
+Straßkirchen|DE||8r|3rn|zc|x
+Strogonovka|UA||9t|3gv|2my|x
+Straconka|PL||a5|3uc|1h1|x
+Stryków|PL||a5|406|1ih|x|Strikova
+Střelice|CZ||9m|3sj|19u|x|Střelitz
+Stratton|AU||8k|-2gj|8yc|x
+Strabychovo|UA||98|3qf|1qn|x|Strabichovo;Strabichëvo;Strabychove
+Stromberg|DE|Rheinland-Pfalz|8r|3w6|l4|w
+Strathcona Park|CA|Ontario|59|3ey|-5wk|v
+Stroeşti|RO|Vâlcea County|8u|3h8|1ue|v
+Stranda|NO||9j|4t3|ja|u|Stranden
+Straszyn|PL||a5|46r|1fm|u
+Strasburg|US|Pennsylvania|48|332|-5vm|t
+Stróża|PL||a5|3uc|1jc|t
+Strančice|CZ||9m|3ur|14s|t
+Straßlach-Dingharting|DE||8r|3pc|vz|t
+Strellc i Ulët|XK||8q|3aa|1kg|t
+Ruotsinpyhtää|FI||92|4o5|21i|s|Strömfors
+Strassengel|AT||a2|3mw|16l|s
+Strathmore|US|California|3p|2sf|-96q|s|Adzoogai Hóteel
+Stroud|US||2f|2rb|-7gi|s
+Stremţ|RO||8u|3ke|1tn|s
+Straßberg|DE|Baden-Wurttemberg|8r|3pu|p9|s
+Struppen|DE||8r|3xh|12y|r
+Stroine|UA||98|3qs|1s0|r|Stroyne
+Strettoia|IT||9o|3e7|sb|r|Strettoja
+Strøby Egede|DK||8y|49x|y1|r
+Strasburg|US|Ohio|48|34r|-6ah|r|Strassburgh
+Stanghella|IT||9o|3he|wo|r|Stranghella
+Strugari|RO||8u|3l9|228|q
+Strathearn|CA||2s|44p|-8r6|q
+Strahoninec|HR||a6|3kt|19m|q
+Stratton|GB||9b|3zp|-5i|q
+Strymonikó|GR||8p|360|1sr|p|Strimonikón
+Strandby|DK||8y|4fp|t6|p
+Stratford|AU||8j|-2xg|bck|p
+Stromness|GB||9b|4js|-96|p|Stromnæs;Sróimnis;Strømnes
+Strömma|SE|Stockholm|9w|4ko|1fh|p
+Strasburg|US|Colorado|2p|32e|-81s|o
+Strašice|CZ||9m|3u6|128|o
+Stráž nad Nisou|CZ||9m|3x3|15r|o
+Stravaj|AL||9y|35x|1kq|o|Stravan;Stravani
+Stroiești|RO|Suceava|8u|3oa|20l|o
+Étrelles|FR||9k|3pi|-3b|o|Stredell;Straellae
+Strafford|US|Missouri|2f|2vj|-76o|o|Stafford;Stratford
+Stroncone|IT||9o|3a3|z5|n|Castrum Hugonis;Struncuni
+Strömsnäsbruk|SE||9w|4d3|124|m
+Strada in Chianti|IT||9o|3da|ve|l
+Stroeder|AR||1l|-33n|-4ty|l
+Stryszów|PL||a5|3uf|1ii|l
+Strilecha|UA||98|3vq|2t4|l|Strelech'ye;Strelech’ya
+Strait Shores|CA||43|3k1|-4y0|l
+Straszydle|PL||a5|3um|1p2|l
+Stratford|US|Texas|2f|2sy|-7vj|l
+Striletskyy Kut|UA||98|3q9|1zq|l|Striletskyï Kout;Cotul-Vânători
+Striukove|UA||98|3nl|2cy|l|Stryukove;Stryukovo
+Strizivojna|HR||a6|3hn|1f6|k
+Strzegowo|PL||a5|42x|1kd|k
+Straža|SI||9a|3j6|15w|k
+Strathcona Park|CA|Alberta|2s|3xt|-8t5|k
+Straußfurt|DE||8r|3y5|ui|k
+Strathblane|GB||9b|4bj|-bz|k|Strath Bhláthain
+Strekov|SK||8s|3p2|1f6|j
+Strejeștii de Sus|RO||8u|3fq|1vb|j|Străjeştii-de-Sus
+Strumok|UA||98|3j0|29s|j|Cișmele;Stroumok
+Strassham|AT||a2|3q4|13b|j
+Stretham|GB||9b|41f|m|i
+Strimnica|MK||9u|38l|1mg|i
+Strzyżowice|PL|Silesia|a5|3vz|1h0|i
+Strandhill|IE||8z|46r|-nv|i|An Leathros
+Strzeleczki|PL||a5|3w6|1dm|h|Klein Strehlitz
+Strožanac - Donji|HR||a6|3cu|19y|h|Podstrana - Strožanac Donji
+Strass|AT||a2|3qn|17p|h
+Straumen|NO|Trøndelag|9j|4xf|ve|h|Strömmen
+Strudà|IT||9o|340|1es|g
+Serooskerke|NL||8m|3z7|9z|g|Stroôskerke
+Stratford|US|Wisconsin|2f|3gg|-6y8|g
+Strelci|MK||9u|37e|1md|g
+Strande|DE||8r|478|s9|g
+Straß in Steiermark|AT||a2|3lt|17e|g
+Strée|BE||8t|3vo|bx|f
+Strada|IT||9o|3ck|10q|f
+Stroyntsi|UA||98|3q1|20y|f|Stroești;Stroïntsi
+Stralendorf|DE||8r|44t|ve|f
+Stratford|US|Oklahoma|2f|2oo|-7hc|f
+Strevi|IT||9o|3g6|no|f
+Streaky Bay|AU||8b|-2j4|act|e
+Strée-lez-Huy|BE||8t|3w9|es|e
+Strilkove|UA||98|3ji|2ow|e
+Strmilov|CZ||9m|3sk|168|e|Strmelov
+Strobl|AT||a2|3ok|11g|e
+Strigno|IT||9o|3jz|w0|e
+Stradbally|IE||8z|43a|-jv|e|An Sráidbhaile;Stradbalis
+Strymba|UA||98|3pg|1ug|d
+Strážov|CZ||9m|3sy|10t|d
+Straja|RO|Bacău County|8u|3l0|218|d
+Strong|US|Maine|48|3gh|-5f2|d
+Stryker|US||48|37a|-6ih|d
+Středokluky|CZ||9m|3v9|13j|d|Stredokluk
+Stratford|US|California|3p|2sj|-98u|d
+Strai|NO||9j|4hn|m1|d
+Strâmbeni|RO||8u|3fj|1xd|d|Strîmbeni
+Straßburg-Stadt|AT||a2|3m9|13t|d
+Stroppiana|IT||9o|3hn|nh|c
+Strawberry Point|US||2f|3ak|-729|c|Strawberry Pt
+Strunkovice nad Blanicí|CZ||9m|3sc|132|c
+Strengen|AT||a2|3mx|t2|c
+Strövelstorp|SE||9w|4c1|zo|c
+Stronie|PL||a5|3uf|1in|c
+Strathalbyn|AU|Western Australia|8k|-27v|8uh|c
+Stroești|RO|Arges|8u|3hd|1wv|c
+Ströbeck|DE||8r|407|ue|c
+Strâmtura|RO|Suceava|8u|3o6|1zc|b|Strîmtura
+Stromsburg|US||2f|367|-7j4|b|Stromburgh
+Strum|US||2f|3fr|-71v|b
+Straškov-Vodochody|CZ||9m|3vw|13l|b
+Strachocina|PL||a5|3tt|1pd|b
+Strzelce Wielkie|PL|Łódź Voivodeship|a5|3y2|1h7|b|Strzelce Wielki
+Straupitz|DE||8r|407|138|b|Tšupc
+Stradbroke|GB||9b|41c|3j|b
+Streženice|SK||8s|3sf|1ev|b
+Strathpeffer|GB||9b|4fz|-cm|b
+Stradella|IT|Lombardy|9o|3hh|u7|b
+Strzelno|PL|Pomerania|a5|487|1ex|b
+Struvenhütten|DE||8r|45n|ry|b
+Streatley|GB|England|9b|3z4|-37|b|Stradleia
+Strumyani|BG||9v|37n|1sg|b
+Stráž|CZ||9m|3tz|zi|b
+Strathmerton|AU||8j|-2rt|b84|a
+Strada in Casentino|IT||9o|3di|wj|a
+Stratford|CA|Quebec|59|3j7|-5i6|a
+Stravignino|IT||9o|3j5|sg|a
+Străteni|RO||8u|3p6|212|a
+Stroiești|RO|Botoșani County|8u|3o9|22x|a
+Stratford|US|New Hampshire|48|3g2|-5is|a
+Strawczyn|PL||a5|3xi|1kq|a
+Strathmore Heights|AU||8j|-2wr|b6i|a
+Stratton-on-the-Fosse|GB||9b|3yd|-6x|a
+Stratónion|GR||8p|34j|1u6|a|Stratoni
+Střítež|CZ||9m|3u0|1fl|a
+Stretti|IT||9o|3is|z9|a
+Strachotice|CZ||9m|3rk|18x|a
+Strenči|LV||9n|4g3|1zd|a|Strenchi
+Strendur|FO||85|4sj|-is|a|Strænder;Strender
+Struckum|DE||8r|47m|p0|a|Strükem
+Strawberry|US|Arizona|4i|2nl|-8lp|a|Dah Woozh Bikooh
+Strichen|GB||9b|4fz|-5t|9
+Stříbrná Skalice|CZ||9m|3um|159|9
+Straach|DE||8r|40b|z0|9
+Strahlungen|DE||8r|3vo|sf|9
+Strážek|CZ||9m|3tc|18z|9
+Stroud|AU||8l|-2i0|bq5|9
+Strallegg|AT||a2|3np|17p|9
+Stromiec|PL||a5|3zh|1ml|9
+Strathmiglo|GB||9b|4cc|-93|9
+Střítež nad Bečvou|CZ||9m|3te|1e5|9
+Strahovice|CZ||9m|3uw|1e9|9
+Straumen|NO|Nordland|9j|573|17c|9
+Střelské Hoštice|CZ||9m|3sy|128|9|Střelská Hoštice
+Strzelce|PL|Opole Voivodeship|a5|3xv|1dm|9
+Stružnice|CZ||9m|3wu|145|9
+Strathdickie|AU||8c|-1kh|bgu|9
+Střítež nad Ludinou|CZ||9m|3tt|1da|9|Ohrnsdorf
+Strachotín|CZ||9m|3rv|1a9|8
+Stronghurst|US||2f|357|-70i|8
+Strass im Zillertal|AT||a2|3no|wu|8
+Strzelce Wielkie|PL|Lesser Poland|a5|3v5|1l6|8
+Straßberg|DE|Saxony-Anhalt|8r|3ze|up|8
+Strahwalde|DE||8r|3xr|14w|8
+Stratzing|AT||a2|3ql|17c|8
+Strokestown|IE||8z|45e|-mi|8|Béal na mBuillí
+Stráž nad Nežárkou|CZ||9m|3sb|15f|8
+Strassen|AT||a2|3lv|yo|8
+Strmec Stubički|HR||a6|3jp|188|8
+Stražica|HR||a6|3cf|1bj|8
+Strelníky|SK||8s|3rc|1hv|8|Sebő
+Novi Strilyshcha|UA||98|3tk|1vs|8|Strzeliska Nowe;Strilyshcha;Novi Strllyshcha
+Straßgräbchen|DE||8r|3yn|132|8|Nadrózna Hrabowka
+Streminoasa|RO||8u|3g4|1v6|8|Stireminoasa
+Strahinj|SI||9a|3kk|13s|8
+Strodes Mills|US||48|34n|-5zr|8|Strodes Mill
+Strozza|IT||9o|3j5|qm|8
+Strzelce|PL|Łódź Voivodeship|a5|41b|1hx|7
+Strahan|AU||8g|-393|b7p|7
+Stratford|US|Iowa|2f|39f|-78x|7
+Strakholissya|UA||98|3xv|2cg|7|Strakholissia
+Strassoldo|IT||9o|3je|110|7
+Stružinec|CZ||9m|3wf|16o|7
+Strazeele|FR||9k|3wx|7b|7|Strazele;Stroazele
+Stroe|NL||8m|40z|ft|7
+Strachowice-Osiniec|PL||a5|3xz|1ax|7
+Straja|RO|Neamț County|8u|3ma|20p|7
+Struxdorf|DE||8r|47r|qs|7
+Stratham|AU||8k|-2ky|8x3|7
+Strömsholm|SE||9w|4ld|194|7
+Stronsdorf|AT||a2|3r5|19a|7
+Strathmoor Village|US||3k|2y6|-6m0|7
+Stratton|US|Colorado|2p|316|-7x0|7
+Stráža|SK||8s|3sr|1gj|7
+Struhařov|CZ||9m|3u9|150|7
+Strzyżowice|PL|Lublin|a5|3xt|1qc|6
+Strykersville|US||48|3an|-61x|6
+Stratton|US|Colorado|2p|2zn|-843|6
+Strawn|US||2f|2if|-7lm|6
+Strienzing|AT||a2|3pa|136|6
+Stromboli|IT||9o|2zs|16c|6
+Strupčice|CZ||9m|3w7|11l|6
+Straffan|IE||8z|443|-id|6|Teach Srafáin
+Stružná|CZ||9m|3ve|105|6
+Střelná|CZ||9m|3sm|1ea|6
+Strâmtu|RO||8u|3ge|1s7|6|Strâmptu;Strîmtu
+Strathkinness|GB||9b|4ci|-80|6
+Streisângeorgiu|RO||8u|3j1|1ry|6|Strei-Sângeorgiu;Streisângiorgiu;Streisîngeorgiu
+Střílky|CZ||9m|3si|1bu|6
+Střížovice|CZ||9m|3si|164|6
+Streithausen|DE||8r|3wt|lq|6
+Strezeni|RO||8u|3hf|21k|6|Strejeni
+Strzegocice|PL||a5|3ur|1n8|6
+Strem|AT||a2|3mo|19l|6
+Strohanivka|UA||98|3lo|2rm|6|Stroganovka
+Guojkkasuoluoj|SE||9w|52d|1ea|6|Strømsholm;Strömholm
+Strmec|HR|Zagreb|a6|3iz|188|6
+Stránecká Zhoř|CZ||9m|3t6|189|6|Stranetzka Zhor
+San Cosmo Albanese|IT||9o|31y|19l|6|Strighari
+Strakhovo|RU||9i|482|2vj|6
+Strunjan|SI||9a|3ih|11t|6|Strugnano
+Stráž nad Ohří|CZ||9m|3vu|109|6
+Strand|NO|Nordland|9j|5au|16x|6
+Strmec Podravski|HR||a6|3ks|18y|6
+Strangolagalli|IT||9o|37k|11h|6
+Stratoníki|GR||8p|34l|1u0|6
+Streatley|GB|England|9b|40b|-18|6
+Strong|US|Arkansas|2f|2jz|-74h|6
+Stružec|HR||a6|3ih|19z|6|Stružek
+Strážovice|CZ||9m|3s5|1bd|6
+Strajane|MK||9u|37w|1mc|5|Strayané;Sztrajane;Strajani
+Stroumpí|CY||73|2ox|2i8|5|Strumbi;Stroumbi
+Střeň|CZ||9m|3u1|1bn|5
+Strugovo|MK||9u|36g|1mu|5
+Straky|CZ||9m|3vj|15k|5|Strak
+Strattanville|US||48|36g|-64d|5|Strattonville
+Strömsfors|SE||9w|4j0|19d|5
+Strembo|IT||9o|3k4|tv|5
+Strijtem|BE||8t|3x8|bg|5
+Strengberg|AT||a2|3pq|14p|5
+Strömma|SE|Stockholm|9w|4lv|1gs|5
+Stryhalnia|UA||98|3qx|1ti|5|Stryhal’nya;Strigal’nya
+Strone|GB||9b|4bj|-dn|5|An t-Sròn

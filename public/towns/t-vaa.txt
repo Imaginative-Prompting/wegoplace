@@ -1,0 +1,20 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vaasa|FI||92|4va|1o2|je|Nikolainkaupunki;Wasa;Nikolaistad;Vasa;Vas
+Kudrovo|RU||9i|4me|2cr|8c|Väärämäki
+Vaalwater|ZA||o|-1vi|263|5h
+Vaalbank|ZA||o|-1xv|286|5f
+Vaassen|NL||8m|419|gl|3j
+Vaafla|CI||0|km|-ih|2f
+Vaals|NL||8m|3x1|gq|1y|Vols
+Vaartbroek|NL||8m|3z0|fa|1g
+Vaarala|FI||92|4ne|1xp|v|Fagersta
+Vaara|FI||92|50l|1ys|u
+Vazhiny|RU||9i|4pc|2mi|t|Vazjiny;Vaaseni;Waschiny;Važiny;Vajinı;Ważyny;Vazjini;Vazhina
+Vaala|FI|Kainuu|92|4zd|22j|q
+Vaas|FR||9k|3of|v|h
+Vaadhoo|MV||af|n|5nj|f
+Vaale|DE||8r|460|q2|d
+Våler|NO||9j|4oj|wv|b|Vålbyen;Vaaler
+Vahagni|AM||80|35n|3fx|b|Shagali;Shahali;Vaagni
+Vaala|FI|Southwest Finland|92|4nv|1q4|a|Svalas
+Väätsa|EE||9x|4jl|1yp|7|Vyatsa

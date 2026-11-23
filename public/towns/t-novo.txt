@@ -1,0 +1,425 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Novosibirsk|RU||75|48u|6ed|cg0|Novo-Nikolaevsk;Novonikolayevsk;Nowosibirsk;Novossibirsk;Nowosybirsk;Novoszibirszk;Novosibirscum;Nowosibirski;Novo-Nikolaïevsk
+Dnipro|UA||98|3qn|2pc|7h1|Dnjepropetrovsk;Dněpropetrovsk;Dniepropetrovskas;Dnjipropetrovsk;Dniepr;Dnyipro;Dnepr;Novyy Kodak;Katerynoslav;Novorosiynsk;Sicheslav;Dnjipro;Catherinoslav;Caterinoslavia
+Novokuznetsk|RU||74|45c|6q2|45w|Nowokusnezk;Novokuzněck;Novokuznjeck;Novokoeznetsk;Nowokuźnieck;Novokouznetsk;Novokuzneckas;Cusnezia;Novokuznețk;Nowokoeznetsk;Novokuzņecka;Novokusnetsk;Novokuznyeck
+Nuevo Laredo|MX||3w|24c|-7og|37l|Nuevo Laredas;Novum Laredum;Novo Laredo
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+Porto-Novo|BJ||1b|i2|78|21f|Porto Novo;Porto Novas;Pòto-Novo;Portus Novus;Pòrto Neuvo;Portonovo;Borto-Novo
+Novo Hamburgo|BR||4w|-2ag|-3y1|1yi|Novo Hamburg
+Novorossiysk|RU||9i|3g9|2ww|1v7|Noworossijsk;Novorossijsk;Noworosyjsk;Novorossiisk;Novorossiejsk;Novorosijsk;Noworossiisk;Novorossisk
+Velikiy Novgorod|RU||9i|4ik|2ev|1px|Novgorod;Weliki Nowgorod;Veliki Nóvgorod;Velikij Novgorod;Novogardia Magna;Naugard;Nowogród Wielki;Veliky Novgorod;Naugardas;Hólmgarður;Šuuri Novgorodi;Nowgorod
+Novozavodskyi|UA||98|3z1|2eu|1dw
+Novocherkassk|RU||9i|3nq|33d|1ae|Nowotscherkassk;Novoĉerkassk;Novotcherkassk;Nowoczerkask;Novotšerkassk;Novotjerkassk;Novotsjerkassk;Nowotsjerkassk;Novočerkaskas;Novočerkaska;Novocserkasszk;Novocherkask;Nowotscherkask
+Melitopol|UA||98|3m5|2qa|15d|Kyzyl-Yar;Novoalexandrovka;Qız Yar
+Novomoskovsk|RU||9i|461|2yd|10e|Nowomoskowsk
+Novocheboksarsk|RU||9i|4bv|3nw|zp|Nowotscheboksarsk;Novoĉeboksarsk;Novotšeboksarsk;Novotsjeboksarsk
+Novo-Peredelkino|RU||9i|4al|2vq|w3
+Novokuybyshevsk|RU||9p|43i|3uq|v2|Novokujbysjevsk;Nowokuibyschewsk;Novokúibyshevsk;Novokouïbychevsk;Novokujbyševsk;Novokoejbysjevsk;Novokujbiŝevsk;Novokuibõševsk;Novokuibyševsk;Novokuibyševskas;Novokuibîșevsk;Nowokujbyszewsk;Nowokujbyšewsk;Novokujbisevszk;Novo-Kuybyshevskiy
+Novobavarskyi|UA||98|3ur|2sg|u1
+Novo Gama|BR||4w|-18m|-3pg|tx
+Berdyansk|UA||98|3lw|2u7|tj|Osipenko;Berdiansk;Novo-Nogaisk;Kutur-Ogly;Berdjansk;Berdiansca;Berdjans'k
+Novotroitsk|RU||7z|3y8|4hz|ti|Nowotroick;Nowotroizk;Novotroick;Novotroickas;Novotroițc;Novotroytsk;Novo-Troitskiy
+Novoshakhtinsk|RU||9i|3oo|32x|rn|Nowoszachtyńsk;Nowoschachtinsk;Novoŝaĥtinsk
+Novopolotsk|BY||9g|4a9|27f|qi|Nawapolazk;Navapolatsk;Nowopołock;Navapolack;Navapolackas;Novopolocka
+Novogireyevo|RU||9i|4av|2x2|qe
+Novoural’sk|RU||7z|4f1|4mx|q2|Verkh-Nejvinskij;Novouraljsk;Nowouralsk
+Samar|UA||98|3r3|2py|jm|Novomoskovsk;Nowomoskowsk
+Novoaltaysk|RU||63|44d|6h6|gz|Novoaltajsk;Nowoaltaisk
+Novo Repartimento|BR||23|-c1|-3uc|gs
+Zvyahel|UA||98|3wj|24p|fj|Nowogród Wołyński;Novohrad-Volynskyi;Nowohrad-Wolynskyj;Novohrad-Volinski;Swjahel;Zvjahelj;Zviahel;Zwiahel;Zvâgel;Zvjahel;Zwiahl;Zvyagel’;Novograd Volynski;Nowograd Wolynsk;Novohrad-Volyns’kyy
+Novokhovrino|RU||9i|4b7|2w6|dw|Novoye Khovrino
+Novokuz’minki|RU||9i|4as|2wy|dw
+Novovladykino|RU||9i|4b5|2we|dw
+Novovolynsk|UA||98|3wx|1v4|du|Novovolinsk;Nowowolynsk;Novovolyns’k
+Myrnohrad|UA||98|3q7|2vj|ct|Dimitrovo;Dimitrova;Dimitrov;Dymytrov;Dymytrow;Mîrnohrad;Mırnograd;Mirnohrada;Novoekonomične;Hrodivka
+Novodvinsk|RU||9i|4yy|35e|bx|Nowodwinsk
+Novozybkov|RU||9i|41y|2gq|bu|Nowosybkow;Novozõbkov;Novozibkova;Nowozybkow;Nowosybkoff;Novozibkov
+Novo Horizonte|BR|São Paulo|4w|-1nn|-3sq|an
+Novovoronezh|RU||9i|3yk|30y|ae|Novovoronezj
+Novokubansk|RU||9i|3hb|360|a4|Nowokubansk;Novokoubansk
+Novokazalinsk|KZ||7d|3jd|4sn|9z|Äyteke Bī;Äiteke Bi;Eitekebija;Äjteke Bi
+Novoyavorivs'k|UA||98|3up|1th|8q|Novoiavorivsk;Novojavorivsk;Nowojaworiwsk
+Novobilychi|UA||98|3w8|2cb|7x
+Novogrudok|BY||9g|44v|1zq|7o|Navahrudak;Nowogródek;Nawahradak;Navahradak;Naugardukas;Navahroudak;Navahroedak;Novogrodek;Navahrudaka;Novogrudek;Novogroudok
+Novoaleksandrovsk|RU||9i|3ie|36j|7o|Nowoalexandrowsk;Novoalexandrovsk;Nowoaleksandrowsk
+Novo Oriente|BR||2w|-fd|-359|7n
+Novo Cruzeiro|BR||4w|-1cj|-38c|7i
+Balakliya|UA||98|3te|2uc|7b|Balakliia;Balaklija;Bałakleja;Balaklijo;Novo-Serpukhiv;Balakleya;Novo-Serpukhov
+Novo Aripuanã|BR||3t|-e8|-4nq|78
+Novo Progresso|BR||4t|-jv|-49u|76
+Novo Mesto|SI||9a|3j8|165|6s|Rudolfswerth;Nova Urbs;Rudolfswert;Novo Mestas;Nova Mesta
+Novopavlovsk|RU||9i|3e4|3d7|6s|Nowopawlowsk
+Novotitarovskaya|RU||9i|3ho|30a|6a|Novotitarovskaja;Nowo-titarowskaja
+Novy Oskol|RU||9i|3x0|2x6|5u|Novyj Oskol;Novi Oskol;Nowy Oskol;Novo Oskol;Novyy Oskol
+Novomichurinsk|RU||9i|464|32f|5s|Novomitsjurinsk;Novomikhurinsk
+Novo Airão|BR||3t|-7a|-4pa|5j
+Nova Granada|BR||4w|-1l1|-3sz|5e|Novo Granaoa
+Novopokrovskaya|RU||9i|3jo|352|5d|Novopokrovskaja;Nowopokrowskaja;Novopokróvskaia
+Novoanninskiy|RU||a4|3wd|3aj|5c|Novoanninskij;Novo-Annenskiy
+Avtury|RU||9i|3bw|3js|54|Evtara;Novosadovoe;Novosadovoye;Avturi
+Novoul’yanovsk|RU||9z|46f|3qf|4r|Novouljanovsk
+Novouzensk|RU||9s|3w6|3pq|4p|Nowousensk;Novoouzensk;Nowouzensk;Nowouziensk
+Achkhoy-Martan|RU||9i|3bz|3hs|4o|Atsjkhoj-Martan;Ačhoj-Martan;Theẋa-Marta;Waşxoyn-Marta;Novosel’skoe;Açxoy-Martan;Atschchoi-Martan;Atchkhoï-Martan;Aczchoj-Martan;Novosel’skoye;Achkhoi-Martan
+Nowogard|PL||a5|453|160|4n|Novogarda
+Novoukrayinka|UA||98|3q8|2fk|4l|Novo'oukraïnka
+Nova Timboteua|BR||23|-3d|-3nn|4b|Novo Timboteua
+Novosilikatnyy|RU||63|443|6ga|48|Novosilikatnyj
+Novhorod-Siverskyi|UA||98|40h|2ke|48|Nowhorod-Siwerskyj;Nóvgorod-Síverski;Siverų Naugardas;Severų Naugardas;Severianų Naugardas;Novhoroda-Siverska;Novogardia Severiae;Neapolis Scytharum;Novhorod-Sivers'kyj;Novogardia di Severia;Novgorod-Seversk;Novgorodul de Nord;Novgorod-Siverskıy;Novhorod-Siverskõi;Novhorod-Sziverszki;Nowogród Siewierski;Novhorod;Noŭharad-Sievierski;Novy Horod;Novyy Horod;Novyi Horod;Novhorodok;Novogorod-Severskiy;Novgorod-Severskiy;Novhorod-Sivers’kyy
+Novosineglazovskiy|RU||7z|48w|4qi|42|Novosineglazovskij
+Novohrodivka|UA||98|3pw|2vq|3w|Novogrodovka
+Novosergiyevka|RU||7z|40p|451|3o|Novosergijevka;Novosergeyevka
+Oyskhara|RU||9i|3c6|3kh|3k|Ojskhara;Novogroznenskii;Oysxar;Oischara;Ojschara;Oysxara;Oyschara;Oiskhara;Novogroznenskiy;Ojshara
+Novo Horizonte|BR|Bahia|20|-zl|-395|3h
+Novominskaya|RU||9i|3ko|308|3c|Novominskaja;Nowominskaja;Novominskoye
+Novo Selo|MK|Novo Selo|9u|372|1rk|3a|Yeniköy;Yenikoj
+Novolukoml’|BY||9g|47u|28z|38
+Novoorsk|RU||7z|3yq|4jv|34|Nowoorsk;Novoorszk
+Novoazovs'k|UA||98|3mv|2xt|33
+Novoye Devyatkino|RU||9i|4mu|2co|32|Novoje Devjatkino;Uusi-Miina;Uuši Miina;Uz' Devätkino;Nowoje Dewjatkino;Nowoje Diewiatkino
+Navoloki|RU||9i|4fn|38k|32|Novoloki
+Novospasskoye|RU||9z|43n|3on|31|Novospasskoje;Nowospasskoje;Novoszpasszkoje
+Novomyrhorod|UA||98|3rj|2fx|2z|Nowomyrhorod;Novomırgorod;Novomîrhorod
+Novo Triunfo|BR||20|-sq|-2yq|2z
+Novotroyitske|UA||98|3kr|2nd|2y|Novotroïtské
+Novodnistrovsk|UA||98|3qy|248|2y|Novodnestrovsk
+Novomikhaylovskiy|RU|Krasnodar Krai|9i|3ey|2zy|2w|Novomikhajlovskij;Novomikhaylovskoye;Novo-Mikhaylovskaya
+Novo Lino|BR||3r|-or|-2r1|2v
+Novo Oriente de Minas|BR||4w|-1ce|-36i|2v
+Novopodrezkovo|RU||9i|4be|2vq|2v
+Novonikolayevskiy|RU||a4|3xl|39o|2v|Novonikolajevskij;Novo-Nikolayevskaya
+Novooleksiyivka|UA||98|3kf|2o9|2u|Novooleksiïvka
+Novomyshastovskaya|RU||9i|3hk|2z6|2r|Novomysjastovskaja
+Novoagansk|RU||7z|4s2|5wy|2r|Nowoagansk
+Novosemeykino|RU||9p|449|3vv|2o|Novosemejkino;Nowosemeikino;Nowosiemiejkino;Novoye Semeykino
+Novokruchininskiy|RU||67|3zt|8s4|2m|Novokrutsjininskij
+Novosel’ye|RU||9i|4m5|2bj|2j|Somerokangas
+Novosokol’niki|RU||9i|4cj|2bs|2i|Novosokolniki;Nowo Sokolniki
+Novovelichkovskaya|RU||9i|3hs|2zw|2g|Novovelitsjkovskaja
+Novoselitskoye|RU||9i|3gb|3co|2f|Novoselitskoje;Novoseletskoye
+Novo-Talitsy|RU||9i|4ec|35i|2e
+Novobureyskiy|RU||7x|3uc|a0s|2e|Novoburejskij
+Novoselë|AL||9y|34v|1i3|2a|Novosel;Novosela;Novoselj;Novosella
+Novogornyy|RU||7z|4aj|4ov|29|Novogornyj
+Novoshakhtinskiy|RU||7w|3eb|a75|29|Novosjakhtinskij
+Novosin’kovo|RU||9i|4cm|2vp|29|Novosinkovo
+Novotroitskaya|RU||9i|3hx|37d|27|Novotroitskaja;Novotroitskoye
+Novoli|IT||9o|346|1e5|27
+Novo Miloševo|RS||8q|3j0|1ke|26
+Novoaidar|UA||98|3s0|30c|26|Novoaydar
+Novo Horizonte do Oeste|BR||4l|-wj|-4s8|25|Novo Horizonte
+Novozavidovskiy|RU||9i|4d3|2t7|24|Novozavidovskij
+Novoselytsya|UA|Chernivtsi|98|3py|20z|24|Noua Suliță;Novossélytsia;Sulița-Târg;Nowosielica;Nowosielitza;Novoselitsa
+Novoozerne|UA||9t|3i2|2k0|22|Nowooserne;Novoozörnoye;Novoozerno;Novoozernoye
+Novo São Joaquim|BR||2k|-15f|-43a|20
+Novokhopërsk|RU||9i|3xy|37n|1y|Nowochopersk;Novokhopyorsk;Novokhoperk
+Novoleushkovskaya|RU||9i|3js|333|1x|Novoleusjkovskaja;Novo-Leushkovskoye
+Novorozhdestvenskaya|RU||9i|3je|32z|1w|Novorozjdestvenskaja
+Novo Brdo|XK||8q|3ae|1nj|1v|Artanë;Artana;Novobërdë;Novobërda;Novaberd
+Novoderevyankovskaya|RU||9i|3ko|2zn|1v|Novoderevjankovskaja
+Novodruzhesk|UA||98|3s0|2yj|1v|Novodruzhes’k;Novo-Druzhenka
+Novovarshavka|RU||76|46h|5ri|1t|Novovarsjavka;Nowowarschawka;Novovarşavka;Nowowarszawka
+Novo Mundo|BR||2k|-rn|-49c|1s
+Novoshcherbinovskaya|RU||9i|3l4|2zd|1s|Novosjtsjerbinovskaja
+Novovorontsovka|UA||98|3ny|2m8|1q|Nowoworonzowka;Novovoroncovka;Nowoworoncowka;Novovoronțovka
+Novoarkhanhelsk|UA||98|3r6|2dl|1p
+Novo Oriente do Piauí|BR||2w|-hx|-38h|1p
+Novoishimskiy|KZ||5s|43s|55h|1p
+Novokayakent|RU||9i|39r|3pb|1o|Novokajakent
+Novoukrainskoye|RU||9i|3i2|34l|1n|Novoukrainskoje;Novoukrainskiy
+Novobelokatay|RU||7z|4ar|4js|1n|Novobelokataj;Novyy Belokatay
+Novodonetske|UA||98|3r4|2uq|1n|Novodonetskoye;Novodonets’ke
+Novoivanovskoye|RU||9i|4aq|2vt|1n|Novoivanovskoe
+Novomalorossiyskaya|RU||9i|3ir|32t|1n|Novomalorossijskaja;Novomalorossiskaya
+Novofedorovka|UA||9t|3h9|2l9|1l
+Novofedorivka|UA|Kherson|98|3k9|2hs|1k|Novofedorovka
+Novovyazniki|RU||9i|4c4|395|1k|Novovjazniki
+Novallas|PH||71|qf|9i0|1j|Novollas
+Novoutkinsk|RU||7z|4eb|4lg|1j
+Novodzhereliyevskaya|RU||9i|3j5|2zf|1i|Novodzjerelijevskaja;Novodzherelievskaya;Novozhareliyevskaya
+Novobod|TJ||6d|30d|5ev|1i
+Novozavedennoye|RU||9i|3ey|3d8|1h|Novozavedennoje;Novozavedenskoye
+Novosilky|UA|Kyiv Oblast|98|3vr|2bk|1h|Novosëlki
+Aviamistechko|UA||98|3w6|2ce|1h|Novosvyatoshyn;Novosviatoshyn
+Novohuivynske|UA||98|3vh|27p|1g|Novohuyvyns’ke
+Novomykolayivka|UA|Zaporizhzhia|98|3p9|2rq|1g|Novomykolaïvka
+Novodmitriyevskaya|RU||9i|3gj|300|1g|Novodmitrijevskaja
+Novopetrovskoye|RU||9i|4bj|2tb|1g|Novopetrovskoje
+Novodolinskiy|KZ||5s|3u3|5lz|1g
+Novokorsunskaya|RU||9i|3is|30r|1f|Novokorsunskaja
+Novosmolinskiy|RU||9i|4cc|3bl|1f|Novosmolinskij
+Novobataysk|RU||9i|3ma|32i|1f|Novobatajsk
+Novosysoyevka|RU||7w|3ev|aah|1d|Novosysojevka
+Novaya Bryan’|RU||6k|3zn|8cq|1d|Novaja Brjan;Novoy Bryan
+Novobiryusinskiy|RU||6k|4e8|7jf|1d|Novobirjusinskij;Novobiryusinskaya
+Novopokrovka|UA|Kharkiv|98|3ug|2tj|1c|Nowopokrowka
+Novyi Starodub|UA||98|3qr|2k5|1c|Novyy Starodub;Novo-Starodub;Novy Starodub
+Novo Horizonte do Sul|BR||2a|-1qz|-45m|1b
+Novogagatli|RU||9i|3cq|3l4|1a
+Novosheshminsk|RU||9i|48z|3yc|1a|Novosjesjminsk
+Novorizonte|BR||4w|-18i|-39t|1a
+Novoomskiy|RU||76|48c|5nm|19|Novoomskij
+Novolakskoye|RU||9i|3bs|3l4|19|Novolakskoje;Boni-Evla
+Novonikol’sk|RU||7w|3du|a6a|18|Novonikolsk
+Novobirilyussy|RU||6u|4e7|6zx|17|Novobiriljussy
+Novo Barreiro|BR||4w|-25j|-43j|17
+Novaya Zaimka|RU||7z|4cx|55w|16|Novozaimka
+Novo Acordo|BR||1k|-ro|-3og|15
+Novopavlovka|RU||67|3ya|8fe|15
+Nowogrodziec|PL||a5|3y8|16s|14|Naumburgum ad Quisum;Novogrodzeca
+Novomykolayivka|UA|Dnipropetrovsk|98|3qw|2ni|14|Novomykolaïvka
+Novopavlivka|UA|Dnipropetrovsk|98|3o6|2nn|14|Novo-Pavlovka
+Novosil’|RU||9i|435|2uw|14|Novosil
+Novoplatnirovskaya|RU||9i|3k3|31i|14|Novoplatnirovskaja;Novoplatnikovskaya
+Novorzhev|RU||9i|4ef|29h|14|Novorzjev;Noworschew;Novorjev;Novoržev;Noworżew;Noworshew
+Novopokrovka|RU|Primorye|7w|3jd|adm|13
+Novodugino|RU||9i|4aj|2na|13
+Nove Davydkovo|UA||98|3qk|1qu|13|Nowe Dawydkowo;Nove Davidkovo;Újdávidháza;Nove Davydkove;Novoye Davidkovo;Novoye Davydkovo
+Novoluhanske|UA||98|3qj|2y2|12|Novoluhans’ke
+Nova Karakuba|UA||98|3o4|2uz|12|Krasna Polyana;Krasna Poliana;Novaya Karakuba;Novo-Karakuba;Krasnaya Polyana
+Novolabinskaya|RU||9i|3hb|32t|11|Novolabinskaja
+Novochernorechenskiy|RU||6u|4cb|711|11|Novotsjernoretsjenskij;Novochernorechenskoye
+Novo Planalto|BR||4w|-10s|-3ti|11
+Novogurovskiy|RU||9i|47b|2vq|11|Novogurovskij
+Novoť|SK||8s|3tb|1hj|11
+Vyshchetarasivka|UA||98|3o5|2ow|11|Novoanastas’yevka;Vyshchevtarasivka
+Novosvitlivka|UA|Luhansk|98|3qp|31r|10|Novosvetlovka;Nowoswitliwka
+Novobeysugskaya|RU||9i|3ib|32t|10|Novobejsugskaja
+Novomykolaivka|UA|Kherson|98|3kf|2ix|10|Novomykolayivka
+Novoalekseyevskaya|RU||9i|3gi|35p|10|Novoaleksejevskaja
+Novosilske|UA||98|3hx|27d|10|Satu-Nou;Novossilské
+Novoukrainskiy|RU||9i|3gp|2xp|10
+Novo Cabrais|BR||4w|-2am|-433|10
+Novo Brasil|BR||4w|-18j|-3wv|z
+Atlashevo|RU||9i|4bl|3o4|z|Novoje Atlasjevo
+Novobohdanivka|UA|Zaporizhzhia|98|3ms|2q4|z|Novobogdanovka
+Xamït Erğalïyev awılı|KZ||5y|3nj|3y8|z|Novobogatīnskoe;Xamït Erğalïyev;Novobogatinskoye;Novobogatinsk;Novobogatinskiy
+Novobessergenovka|RU||9i|3n3|2zx|y|Novobessergenevka
+Novopavlivka|UA|Dnipropetrovsk|98|3pq|2u7|y|Novopavlovka
+Neufeld an der Leitha|AT||a2|3oz|19i|y|Lajtaújfalu;Novo Selo;Neiföd an da Leitha
+Novoseleznëvo|RU||7z|4ao|5c9|y
+Vladislavovka|UA|Crimea|9t|3hh|2q9|x|Novo-Vladivoslovka;Oy Quyu
+Novolugovoye|RU||75|48q|6ev|x|Novolugovoje;Novolugovskoye
+Novo Horizonte do Norte|BR||2k|-vp|-4fb|x
+Novocheremshansk|RU||9z|470|3vd|x|Novotsjeremsjansk;Salawan
+Novo Machado|BR||4w|-24l|-47f|w
+Novoselytsia|UA|Khmelnytskyi|98|3v3|24g|w|Novoselitsa;Novoselytsya
+Novoselovskoye|UA||9t|3i8|2lc|w
+Novoblagodarnoye|RU||9i|3em|3b4|v|Novoblagodarnoje
+Novo Itacolomi|BR||4w|-1u0|-3z3|v
+Novonukutskiy|RU||6k|456|7xb|v|Novonukutskij
+Novoselytsia|UA|Zakarpattia|98|3pt|1u0|v|Novoselitsa;Novoselytsya
+Lazurne|UA||98|3k0|2id|v|Novooleksiyivka;Lazourné;Lasurne
+Novopistsovo|RU||9i|4f8|389|v
+Novoselivka|UA|Odesa|98|3js|2a9|u|Guraczeligider;Satu-Nou;Novossélivka
+Novoorlovsk|RU||67|3xw|8up|u
+Novoraychikhinsk|RU||7x|3ub|9zz|s|Novorajtsjikhinsk;Noworaitschichinsk;Novorajčichinsk;Novorayçihinsk;Noworajczichinsk;Novoraitxíkhinsk
+Novo Santo Antônio|BR|Piauí|2w|-ep|-38h|s
+Novoandreyevka|UA||9t|3hk|2mp|s
+Novo Horizonte|BR|Santa Catarina|4w|-21g|-42r|q
+Novoamvrosiivske|UA||98|3ov|2yy|q|Novoamvrosiyivs'ke
+Novoselytsya|UA|Chernivtsi|98|3qj|22z|p|Novossélytsia;Noua Suliță;Noua Sulitsa;Novosel’tsy
+Novoye|RU|Moscow Oblast|9i|4aj|304|p
+Nuevo Berlín|UY||45|-2jm|-4ha|p|Nova Berlino;Novo Berlim
+Novosel’skoye|UA||9t|3ie|2iw|o
+Novohryhorivka|UA|Kherson|98|3kx|2p6|o
+Novoasbest|RU||7z|4ge|4nh|o|Novoazbest
+Novopetrivske|UA||98|3n5|2gd|o
+Novosaratovka|AZ||61|34s|3io|n
+Novoborysivka|UA||98|3mu|2bb|n|Novoborisovka
+Novo Jardim|BR||1k|-wu|-3lj|n
+Novovasylivka|UA|Zaporizhzhia|98|3m3|2rc|n|Novovassylivka;Nowowassyliwka;Novovasiļivka;Nowowasyliwka
+Novokizhinginsk|RU||6k|3ze|8gg|m|Novokizjinginsk
+Novopokrovka|RU|Tambov Oblast|9i|40t|35k|m
+Novomykolaivka|UA|Zaporizhzhia|98|3mw|2py|m|Novomykolayivka
+Novomykolaivka|UA|Zaporizhzhia|98|3m9|2pt|m|Novomykolayivka
+Novo Tiradentes|BR||4w|-24k|-43q|l
+Novotoshkivske|UA||98|3rc|2zb|l|Novotoshkivs’ke
+Novosedlice|CZ||9m|3wq|12e|l|Weißkirchlitz
+Novopetrivka|UA|Odesa|98|3mn|2b1|l|Novopetrovka
+Nowogród|PL||a5|43v|1os|l|Novogrudas;Novogroda
+Novodanylivka|UA|Zaporizhzhia|98|3ll|2pa|l|Novodanilovka
+Huziyivka|UA||98|3sh|2z9|l|Nova Astrakhan;Novo-Astrakhan’;Novaya Astrakhan’;Nova Astrakhan’
+Novo Santo Antônio|BR|Mato Grosso|2k|-y5|-3xl|k|Santo Antônio do Rio das Mortes
+Novobarovo|UA||98|3pm|1ta|k|Újbárd;Novobarove
+Zhabagly|KZ||5s|39w|5fs|k|Novonikolayevka
+Susuz|TR|Kars Province|94|35a|3bt|k|Novodubovka;Nevodobovka
+Novozhivotinnoye|RU||9i|405|30u|k
+Novovodyane|UA|Zaporizhzhia|98|3nr|2od|j|Novovodiane;Novovodyanoye
+Novorudnyy|RU||7z|3z2|4hn|j|Novorudnyj
+Novoterskiy|RU||9i|3en|3bp|j
+Novohradkivka|UA||98|3ks|2co|j|Novogradkovka
+Novo Alegre|BR||1k|-zx|-3ld|i
+Znob Novhorodske|UA||98|416|2lc|i|Znob-Novhorods'ke;Znob’-Novgorodskoye;Znob’-Novgorodskaya;Ziob’-Novgorodskoye;Novogorodskoye
+Novokyivka|UA||98|3ks|2kc|i|Novokiyevka;Novokyyivka
+Novotyryshkino|RU||63|40o|6jv|i|Novotyrysjkino;Novoye Tyryshkino
+Novopokrovka|UA|Dnipropetrovsk|98|3pi|2o5|i|Nowopokrowka
+Novobudova|UA||98|3ts|2o5|i
+Novoorzhytske|UA||98|3uz|2ix|i|Novoorjytské
+Nove Selo|UA|Zakarpattia|98|3po|1rl|h|Tiszaújhely;Novoye Selo
+Novopetrivka|UA|Mykolaiv|98|3mq|2ir|h|Dar’yevo-Aleksandrovka;Novopetrovka
+Novokrasne|UA|Mykolaiv|98|3pe|2f4|h
+Novozhilovka|UA||9t|3hg|2n3|h
+Novoorikhivka|UA||98|3ur|2kg|h
+Novoselivka|UA|Odesa|98|3iw|29b|g|Enichioi;Yeniküü;Novossélivka
+Novo Xingu|BR||4w|-253|-43e|g
+Novodniprovka|UA||98|3np|2ol|g|Novodneprovka
+Novoselivka|UA|Odesa|98|3od|2a9|g|Novosëlovka
+Novooleksandrivka|UA|Luhansk|98|3q2|324|g|Novoaleksandrovka
+Novo Selo|BG||9v|3eo|1ra|g|Nowo-Selo
+Novoye Leushino|RU||9i|4dt|34j|g
+Novostepnoye|UA||9t|3iu|2nj|f
+Novoyelizavetivka|UA||98|3mz|2cg|f|Novoïélizavétivka
+Novyy Izborsk|RU||9i|4gh|25p|f|Novoizborsk;Novyj Izborsk
+Novohannivka|UA||98|3qk|31t|f|Novoannovka
+Novoyehorivka|UA|Mykolaiv|98|3ng|2i9|f|Novoïéhorivka
+Novo Selo|RS||8q|3g3|1hq|f
+Novoselytsia|UA|Zakarpattia|98|3pp|1sj|e|Novoselitsa;Novoselytsya
+Novosyolovka|UA||9t|3gz|2m0|e|Nowosseliwka;Novosölovka;Nowosjolowka;Novoselivka
+Novosvitlivka|UA|Mykolaiv|98|3n4|2em|e|Novosvetlovka
+Novoselivka|UA|Donetsk|98|3sb|2wq|e|Novoselovka
+Novopokrovka|UA|Crimea|9t|3hg|2px|e
+Novo Selo Rok|HR||a6|3kz|19q|d
+Novooleksandrivka|UA|Kherson|98|3kj|2kt|d|Novoaleksandrovka
+Novohorivka|UA||98|3nl|2qr|d|Novogorovka
+Novosel’ye|BY||9g|45s|23k|d
+Novoselivka|UA|Odesa|98|3n0|2dn|d|Novossélivka;Novosëlovka
+Novosofiivka|UA|Kherson|98|3k8|2ib|c|Novosofiyivka;Novosofiyevka
+Novopokrovka|UA|Crimea|9t|3i6|2np|c
+Novoselec|HR||a6|3it|19y|c
+Novoivanivka|UA|Poltava|98|3se|2ku|c
+Novonikolayevka|UA||9t|3hv|2s6|c
+Novosedly|CZ||9m|3ro|19t|c
+Novomykolaivka|UA|Mykolaiv|98|3mh|2hw|c|Novomykolayivka
+Novofastiv|UA||98|3tq|29t|c|Novyy Fastiv;Nowochwastów;Hołochwastów;Hołochwasty
+Novoselytsya|UA|Kirovohrad|98|3q7|2c5|c|Novoselytsia
+Novokairy|UA||98|3ml|2lc|b|Novokayiry;Novo-Kairy
+Novo Čiče|HR||a6|3iy|18s|b
+Novodmytrivka|UA|Kherson|98|3kd|2nw|b|Novodmitrovka
+Novoselytsia|UA|Zakarpattia|98|3ra|1t8|b|Novoselytsya;Novoselitsa
+Novoledo|IT||9o|3it|vz|b
+Novopoltavka|UA||98|3o3|2ia|b|Nowopoltawka
+Novoselivka|UA|Donetsk|98|3r8|2wi|b|Vasylivka
+Novokrymskoye|UA||9t|3j6|2mw|b|Burlaq
+Novodmytrivka|UA|Kherson|98|3nk|2kn|b|Novodmitrovka
+Novotavriyske|UA||98|3ou|2qi|b|Novotavryches’ke;Novotavrycheske;Novotavriiske;Novotavriis’ke;Novotavriys’ke
+Novoavramivka|UA||98|3ub|2ku|b|Novoavramovka
+Novopesterevo|RU||74|478|6m6|b|Novopesterovo
+Novo-Nikol’skoye|RU||9i|4d5|2w9|a
+Novovolodymyrivka|UA|Kherson|98|3kh|2i0|a
+Novohryhorivka|UA|Mykolaiv|98|3ny|2fb|a
+Novoheorhiivka|UA||98|3op|2bb|a|Novo-Heorhivka;Novoheorhiyivka
+Novoestoniya|UA||9t|3ie|2n4|a|Novoestoniia;Novoestoniă
+Novo Virje|HR||a6|3k1|1bn|a
+Novofedorivka|UA|Mykolaiv|98|3lx|2ez|a
+Novouspenivka|UA||98|3mp|2pb|a|Novo-Uspenovka
+Novospaske|UA|Donetsk|98|3qf|2wy|a|Petrivka;Nowospaśke;Petrovka
+Novodanylivka|UA|Zaporizhzhia|98|3o1|2ri|a|Novodanilovka
+Novozlatopil|UA|Zaporizhzhia|98|3oe|2tl|a|Novozlatopol’
+Novosamarka|UA||98|3nz|2a1|a
+Novopokrovka|UA|Kherson|98|3kj|2mn|a
+Novogrigoryevka|UA||9t|3i9|2o4|a|Novohryhorivka
+Novopidhorodnye|UA||98|3q1|2ui|a|Novopidhorodne;Novopidhorodnie
+Novokharitonovo|RU||9i|4ag|2z0|a
+Novoukrainka|UA|Odesa|98|3m2|2c5|a|Novoukrayinka
+Novoivankivtsi|UA||98|3py|21l|a|Novo'ivankivtsi;Vancicăuții Mici
+Novosvetlovsky|RU||9i|3oc|33m|a
+Novooleksandrivka|UA|Mykolaiv|98|3n1|2i5|a|Novoaleksandrovka
+Novosilky|UA|Kyiv Oblast|98|3vw|2cm|9
+Novobohdanivka|UA|Mykolaiv|98|3m7|2gs|9
+Novokrasnivka|UA||98|3nf|2v8|9|Novokrasnovka
+Novomikhaylovskiy|RU|Bashkortostan Republic|7z|45q|46d|9|Novomikhajlovskij
+Novodmytrivka Druha|UA||98|3lg|2nc|9
+Novokaterynivka|UA||98|3nd|2fe|9
+Novopavlivka|UA|Mykolaiv|98|3oe|2cv|9|Novopavlovka
+Novopeschanoye|RU||63|44d|624|9|Novopestsjanoje
+Novokonstyantynivka|UA||98|3ot|2g9|9|Novokostiantynivka
+Novobakhmutivka|UA||98|3pz|2wi|9
+Novoukrainka|UA|Mykolaiv|98|3nt|2j9|9|Novoukrayinka
+Nove Misto|UA|Lviv|98|3tu|1ri|9|Nove Myasto;Novoye Misto
+Novoivanovka|UA|Crimea|9t|3i9|2jy|9
+Novopavlovka|UA|Crimea|9t|3jf|2m5|9
+Malynivka|UA|Zaporizhzhia|98|3og|2tc|9|Turkenovka;Malinovka;Novosëlovka;Turkenivka;Novoselivka;Malyniwka;Maliņivka
+Novoselivka|UA|Donetsk|98|3rm|2w3|9|Krasnoarmeysk;Krasnoarmeyskoye;Krasnoarmyis’ke;Nowosseliwka;Nowoseliwka;Novosselivka
+Novoshchapovo|RU||9i|4cl|2u8|9|Novosjtsjapovo;Novoye Shchapovo
+Novoukrainka|UA|Cherkasy|98|3tr|2i7|8|Novoukrayinka
+Novosvitivka|UA||98|3n4|2bz|8
+Nove Selo|UA|Khmelnytskyi|98|3sm|22g|8|Novoye Sëlo
+Novokrasne|UA|Odesa|98|3lz|2b9|8|Novokrasnoye
+Novoklyonovo|UA||9t|3h1|2nu|8
+Novovasylivka|UA|Mykolaiv|98|3mk|2j5|8
+Nove Zaporizhzhya|UA||98|3ov|2p1|8|Novoye Zaporozh’ye;Nove Zaporizhzhia;Novo-Zaporozh’ye
+Novomykolayivka|UA|Odesa|98|3mg|2dm|8|Novomykolaïvka
+Novoselivka|UA|Poltava|98|3s6|2kk|8
+Novodanylivka|UA|Mykolaiv|98|3pa|2j3|7
+Novomaryivka|UA||98|3pd|2fi|7|Novomarïvka
+Siabry|UA||98|3k3|2in|7|Novorosiys’ke;Novorosiiske;Syabry;Novorossiysk
+Novopavlivka|UA|Kherson|98|3ko|2ks|7|Novopavlovka
+Novovasylivka|UA|Mykolaiv|98|3oh|2d5|7|Novovassylivka
+Novopavlivka|UA|Mykolaiv|98|3nr|2ik|7|Novopavlovka
+Novokostiantynivka|UA||98|3lg|2r5|7|Novokostyantynivka
+Neudorf bei Parndorf|AT||a2|3pe|1b1|7|Neudorf;Novo Selo;Mosonújfalu
+Novochervone|UA||98|3tv|2ye|7|Novochervonoye
+Novosilka|UA||98|3nu|2en|7|Novossilka
+Novopylypivka|UA||98|3mf|2ql|7
+Novoinhulka|UA||98|3n8|2gy|7|Novo'inhoulka
+Novolazarivka|UA||98|3oq|2jm|7|Novolazarevka
+Novopetrivka|UA|Odesa|98|3nv|2dc|7
+Novopokrovka|RU|Altai Krai|63|412|6ik|7|Novopokrovskoje;Novopokrovskoye
+Novoye Selo|RU||9i|4ac|2y4|7
+Novovolodymyrivka|UA|Mykolaiv|98|3ns|2ix|7
+Novomikhaylovka|RU||63|447|6fw|7|Novomikhajlovka
+Novopavlovka|UA|Crimea|9t|3gi|2mc|7
+Novoselivka|UA|Poltava|98|3tv|2od|7|Novosëlovka
+Novoselivka|UA|Poltava|98|3v0|2n5|7|Novoselovka
+Novoye Pashkovo|BY||9g|45w|2c1|7|Novo-Pashkovo
+Novooleksandrivka|UA|Zaporizhzhia|98|3mv|2oz|7|Novo-Aleksandrovka
+Novosedly nad Nežárkou|CZ||9m|3sc|156|6|Novosedlí nad Nežárkou
+Novoivanivka|UA|Donetsk|98|3og|2yn|6|Novoivanovka
+Novomykhaylivske|UA||98|3os|2de|6|Novomykhaïlivske
+Novoselivka|UA|Kirovohrad|98|3r9|2jk|6|Komintern
+Novovasilyevka|UA||9t|3gl|2m8|6
+Novoalekseyevka|UA||9t|3ht|2mr|6
+Novovodyane|UA|Luhansk|98|3sv|2xm|6|Novovodiane;Novovodyanoye
+Novoivanivka|UA|Mykolaiv|98|3nl|2ij|6|Novo'ivanivka;Novoivanovka
+Novospaske|UA|Zaporizhzhia|98|3md|2rz|6|Novospas’ke
+Novoyelyzavetivka|UA||98|3pq|2uw|6|Novoielyzavetivka;Novoyelizavetovka
+Novoyurivka|UA||98|3ob|2is|6|Novoïourivka;Novoyuryivka;Nowojurjiwka
+Novomykolayivka|UA|Mykolaiv|98|3oe|2hh|6|Novomykolaïvka
+Novooleksandrivka|UA|Mykolaiv|98|3ox|2g0|6|Novoaleksandrovka
+Novosavytske|UA||98|3mi|2ao|6|Novosavyts’ke
+Novokyyivka|UA||98|3m6|2ia|6|Novokyïvka
+Novoseljani|HR||a6|3jh|1av|6
+Novosretenka|RU||6k|3ww|8b4|6
+Novozhukiv|UA||98|3wq|203|6|Iskra
+Novolabun|UA||98|3ux|23z|6|Łabuń;Novo-Labun’
+Novomykolaivka|UA|Odesa|98|3ip|29y|6|Novomykolayivka;Regele-Ferdinand I;Friedrichsdorf
+Novoivanivka|UA|Zaporizhzhia|98|3mq|2pf|6|Novo-Ivanovka
+Novotymofiivka|UA||98|3m5|2j3|6|Novotymofiyivka
+Novokhrystoforivka|UA||98|3o4|2j2|6|Novokhristoforovka
+Novozlatopil|UA|Zaporizhzhia|98|3nz|2ub|6|Proletarske;Proletarskiy
+Novoselivka|UA|Odesa|98|3ot|2bv|6|Novossélivka
+Novoivanovka|UA|Crimea|9t|3ia|2oo|6
+Novosofiivka|UA|Mykolaiv|98|3m9|2j6|6|Novosofiyivka;Novo-Sofiyevka
+Novo Selo na Dravi|HR||a6|3kp|19n|6|Novo Selo
+Novosevastopol|UA||98|3np|2iz|6|Novossévastopol
+Novo Selo|MK|Zhelino|9u|38k|1ms|6
+Novooleksandrivka|UA|Odesa|98|3o1|2bh|6|Novo-Aleksandrovka
+Amrakits|AM||80|35v|3fg|5|Nikolayevka;Kirov;Amrakic;Kirovo;Novonikolayevka
+Novoivanivka|UA|Poltava|98|3u5|2ky|5|Novoivanovka
+Nova Kochubeyivka|UA||98|3u8|2p3|5|Nova Kochubeivka;Novo-Kochubeyevka
+Novo Selo|HR||a6|3i6|19i|5
+Novosimeikyne|UA||98|3qa|322|5|Novosimeykyne
+Novoyehorivka|UA|Kharkiv|98|3ug|2xh|5|Novoiehorivka;Novoyegorovka
+Novokondakove|UA||98|3mk|2j8|5
+Novolisikha|RU||6k|413|825|5
+Novi Shompoly|UA||98|3m5|2dd|5|Novo-Shampoly
+Nova Kuban|UA||98|3mv|2kn|5|Novo-Kuban’;Novaya Kuban’
+Novomlynivka|UA||98|3nq|2uq|5|Novomlinovka;Novomlynovka
+Novoye|RU|Yaroslavl Oblast|9i|4d8|2zb|5|Novoje
+Novokalcheve|UA||98|3n4|2e7|5|Chervonoarmiiske
+Novosëlki|BY||9g|45h|2ce|5
+Novoivanovka|UA|Crimea|9t|3jc|2mk|5
+Novoselivka|UA|Dnipropetrovsk|98|3ql|2nq|5|Novosëlovka
+Novoselivka|UA|Odesa|98|3jn|298|5|Ferşampenuaz Mic;Novosëlovka;Fère-Champenoise II
+Novoyehorivka|UA|Kirovohrad|98|3pw|2fq|5|Novoiehorivka;Novoyegorovka
+Novozuyevka|UA||9t|3ho|2mv|5

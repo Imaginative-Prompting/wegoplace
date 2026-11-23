@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Los Angeles|US||3p|2ml|-94g|thd|L.A.;Los-Anĝeleso;Angelopolis;Los Andželas;Los Anxhelos;Los Anxheles;Os Ánxeles;Losandželosa;Los Anjélés;Lo̍k-chhám-kî;Los-Anceles;Los-Anjeles;Luos Andžels;Los Andželes
+Lagos|NG||u|hx|9f|3aqg|Lacupolis;Laqos;Èkó;Laguosos;Logos
+Lahore|PK||6q|2fo|5qj|2sc9|Lahor;Lahaur;Lahoras;Lahora;Lahorium;Lohur;Lahoro
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+Nanning|CN||7i|1re|8cw|1a4c|Nam Ninh;Nan-ning;Naningas;Naningo;Nàm-nèn-sṳ;Namzningz;Lâm-lêng-chhī;Nàng-nìng;Naņnina;Nannin;Nanninq;Yung-ning
+Lanzhou|CN||7i|2s6|80g|xmy|Lanĝoŭo;Lan Châu;Lan-čou;Lantsjou;Landžou;Lân-chiu-chhī;Làng-ciŭ;Lancsou;Lanchjou;Lanzcouh;Lançjou;Landžov;Lanchow;Lan-chou
+Linyi|CN||7i|2pe|94q|l66|Lâm Nghi;Lìng-gì;Lîm-kî-chhī;Lin-i
+Lucknow|IN||6t|22k|68s|j2o|Laknaŭo;Lakhnau;Laknau;Luknow;Laknava
+Nanchang|CN||7i|27o|8xt|i6y|Nam Xương;Nančangas;Nan-čchang;Nanĉano;Lâm-chhiong-chhī;Nàng-chiŏng;Nàm-chhông-sṳ;Nancsang;Nancianga;Naņčana;Nanzcangh;Nançan;Nančang
+Nantong|CN|Jiangsu|7i|2gz|9br|hjh|Nentung shehiri;Nan-tchung;Nam Thông;Lâm-thong-chhī;Nàng-tŭng;Nan-t’ung
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+La Paz|BO||3n|-19u|-59b|fgv|Chukiyawu;La-Pazo;A Paz;Pax;La Pasas;Chuqiyapu;La Pas;Chuqi Yapu;Lapasa;La-Pas
+Nanchong|CN||7i|2dk|86o|ecd|Nan-čchung;Nam Sung;Lâm-chhiong-chhī;Nàng-chṳ̆ng;Nan’chun;Nan-ch’ung
+Nanyang|CN|Henan|7i|2jp|8on|dza|Nam Dương;Nan-jang;Nenyang shehiri;Nanyan;Nàng-iòng;Lâm-iông-chhī
+Barcelona|ES||9d|36z|60|d0e|Barcino;Bartzelona;Barzelona;Barcelono;Barcelone;Barselóna;Barcellona;Barcillona;la Ciudad Condal;Barcelůna;Barçellonn-a;Barseloana;Bartzellona;Barseluona;Barseluna;Barslon-a;Barselon;Baselona
+Makkah|SA||7e|1nj|32n|c6j|La Mecque;La Meca;Mekko;Mekao;Mekka;Mecca;A Meca;Meka;Meice;Mekkah;La Mecca;Meke;Meca;Mecka;Mekke;Mäkkä
+Luoyang|CN|Henan|7i|2ob|8oc|aqa|Lạc Dương;Luo-jang;Luojangas;Lŭojango;Lŏk-iòng;Lojang;Lo̍k-iông-chhī;Lo-yang
+Neijiang|CN||7i|2a6|83u|9nj|Nô̤i-gĕ̤ng;Nej-ťiang;Nejĝjan;Nui-kông-sṳ;Nội Giang;Lāi-kang-chhī;Neikiang;Nei-chiang
+Barranquilla|CO||27|uh|-5rq|9b3|Barankilija;Barranquilha;Barrankilya;Killa;Quilla;La Arenosa;Barankilijo
+Bandar Lampung|ID||6l|-f3|84e|8ea|Bandarlampung
+Yongzhou|CN||7i|21e|8m1|7vj|Lingling;Langlin;Yung-chou
+Laiwu|CN||7i|2sj|92u|7mv|Laj-wu;Lai Vu;Lâi-bû-chhī
+Linfen|CN||7i|2s9|8ls|7eg|Lâm Phần;Lin-fen;Lìng-hŭng;Lîm-hun-chhī
+Laibin|CN||7i|1tz|8fe|70v|Lài-bĭng;Laj-pin;Lòi-pîn-sṳ;Lai Tân;Leizbingz;Lâi-pin-chhī;Lai-pin-chen;Laiping;Lai-pin
+Laiyang|CN||7i|2uq|9bb|6q8|Lai-yank
+Langfang|CN||7i|31s|907|6p5
+Lhasa|CN||7i|2ad|712|6p3|Lhassa;Lassa;Lhásza;Lasao;Lása;Lhas
+Lviv|UA||98|3ug|1uq|5j9|Lemberg;Lwów;Leópolis;Lvov;Lavov;Leopoli;Lvovas;Ļvova;Liov;Lwiw;Lwif;Lemburg;İlbav;Ljviv;Leopul;Lembärsch;Liòpuli;Lwůw;Leopolo;Ilyvó;L'vov
+Latakia|SY||69|2qp|2rf|5gy|Laodicea ad Mare;Laodicea;Latakio;Lattaquié;Lattakia;Lazkiye;Latakija;Lataquia;Lázikíja;Latakiya;Lādikīja;Lataqiä;Laziqiye;Ladhiqiye;Laodicée;Laodikeia;Ladikis;Ladikiya;Latakieh
+Leshan|CN||7i|2a4|808|544|Le-šan;Lạc Sơn;Lŏk-săng;Lo̍k-san-chhī;Lo-shan
+Las Vegas|US|Nevada|3p|2sh|-8vu|4yb|Lasvegaso;Campi;Lasvegasa;Las-Veqas;Vegas;Los Vegas
+Las Piñas|PH||71|145|9c2|4qz
+Toulouse|FR||9k|3d4|40|3y5|Tolosa de Llenguadoc;Tolosa;Tuluzo;Tolosa Okzitania;Tulūza;Tolosa de Francia;Toloza;Lapangan Terbang Blagnac;Tołoxa;Toulouz;Tuluz
+Leipzig|DE||8r|3ym|yd|3wa|Lipsko;Lipcse;Lipsia;Leipcigas;Leipciga;Lipsk;Lipsca;Lajpcigu;Leypsiq;Lajpcik;Léypzig;Läipcig;Lipekika
+Kampung Larkin Lama|MY||6v|46|806|3uw
+Lapu-Lapu City|PH||71|sn|9kb|3ua|Lapu-Lapu;Dakbayan sa Lapu-Lapu;Siudad ti Lapu-Lapu
+Loudi|CN||7i|251|8n3|3u4|Lâu Để;Lèu-dī;Lô͘-té-chhī;Lou-ti
+The Hague|NL||8m|40o|by|3nr|Den Haag;La Haye;La Haya;Hago;Haag;La Haia;De Haach;An Háig;A Haia;L'Aia;Haga;D'n Haog;Hag;Lahey;Hague
+Nanping|CN|Fujian|7i|221|949|3lz|Nàng-bìng;Nan-pching;Nàm-phìn-sṳ;Nenping shehiri;Nam Bình;Lâm-pêng-chhī
+Longshan|CN|Jilin|7i|3b5|9nm|3l8|Lièu-nguòng;Liao-jüan;Liaojuanas;Läojuan;Liêu Nguyên;Liâu-goân-chhī;Liaoyuan

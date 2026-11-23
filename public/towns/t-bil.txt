@@ -1,0 +1,239 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bhilai|IN||6t|1mx|6a7|4ud|Bilaj;Bhilaj Nagar;Bhilajus
+Bilimora|IN||6t|1lp|5mo|3xx|Bilimor
+Bilāspur|IN|Chhattisgarh|6t|1pc|6c8|2tk
+Bilbao|ES||9d|3c6|-85|2oh|Bilbo;El Bocho;Bilbau;Bilbaw;Bilbaum
+Belgorod|RU||9i|3wk|2tm|2nx|Bilhorod-Dnistrovskyi;Biełgorod;Bielogroda;Belqorod;Bjelgorod;Bilhorod
+Bielefeld|DE||8r|40j|np|2k7|Builefeld;Bīlefelde;Bīlifeld;Bylefeldas;Bilivelda
+Blida|DZ||3|2tb|7v|2k6|Al-Bulajda;Buleyde;El Bouleida;Bilda
+Bila Tserkva|UA|Kyiv Oblast|98|3uc|2bo|1ll|Bila Zerkwa;Biała Cerkiew;Bila Cerkva;Bila Cerkwa;Bila Țerkva;Belaya serkov;Belaya Tserkov’
+Bilbeis|EG||c|2ci|2fo|1fg|Bilbays;Bilbejs;Bilbajs;Bilbeys;Belbeis;Bilbês
+Bielsko-Biala|PL||a5|3ue|1gx|1d1|Bielitz-Biala;Bílsko-Bělá;Belsko-Bjala;Belsko-Biala;Bjylsko-Bjoło
+Bilqās|EG||c|2ep|2f4|123|Balqās
+Billings|US|Montana|2p|3j6|-8de|wj|Belinum
+Boulogne-Billancourt|FR||9k|3ro|68|u8|Bulonė-Bijankūras;Bononia ad Sequanam;Buloņa-Bijankūra;Boulogne e Billancourt
+Bilecik|TR||94|33i|2ba|kp|Bilejik
+Billstedt|DE||8r|44r|s5|jr
+Baljurashi|SA||7e|1j6|37g|ee|Biljurshī;Beljurashi;Baljurshī;Baljarshī
+Belleville|CA||59|3ep|-5yy|e3|Bilivailas
+Bilhorod-Dnistrovskyi|UA||98|3kb|2cb|d9|Aqkermen;Cetatea Albă;Białogród nad Dniestrem;Bílhorod-Dnistrovski;Bilhorod-Dnistrovskyj;Bilhorod-Dnistrovskij;Bilhorod-Dnistrovsky;Bilhorod-Dnyisztrovszkij;Bilhorod-Dnistrovs'kyj;Moncastro;Dniestro Bilhorodas;Bilhoroda-Dņistrovska;Belgorod-Dnestrovskiy;Bilhorod-Dnjistrovski;Bilhorod-Dnistrowskyj;Nyeszterfehérvár;Dnyeszterfehérvár;Nyisztrafehérvár
+Böblingen|DE||8r|3r8|p1|cv|Bilbonium;Boeblingen
+Biloxi|US||2f|2cg|-6ux|co
+Bellinzona|CH||a7|3kb|p2|c0|Bellinzone;Bilitio;Belinzona
+Bilajari|AZ||61|34c|3ud|bq|Baladjary;Baladzhary
+Bilāra|IN||6t|20q|5or|bl
+Bilychi|UA||98|3w7|2cb|b6|Biliychi;Belichi
+Billerica|US||48|3a8|-5hz|b3|Billerika
+Bīlāspur|IN|Uttar Pradesh|6t|289|647|b3
+Bilāsipāra|IN||6t|20v|6yn|ah
+Billericay|GB||9b|3zf|16|a3
+Billingham|GB||9b|47n|-3l|9x
+Bla|ML||5|zz|-g0|9e|Bila
+Puerto Cabezas|NI||3s|130|-6fn|9c|Bilwi;Puerto Kabezas
+Biltine|TD||17|14d|1m5|9b
+Bilāri|IN||6t|27i|62w|89
+Bilzen|BE||8t|3xb|fc|88|Bilze;Bilsen
+Bilgrām|IN||6t|23i|66b|7k
+Biłgoraj|PL||a5|3we|1r4|7i|Bilgoraia;Bilgoray;Biłgora
+Villarrobledo|ES||9d|313|-78|7e|Billarrobledo;Villa Robletum
+Bilsi|IN||6t|265|637|7b
+Bilthoven|NL||8m|40t|eg|6g
+Bilohorodka|UA|Kyiv Oblast|98|3vz|2bz|5y|Bilhorod-Kyyivskyi;Bilhorod-Kyivskyi;Belogorodka
+Bilhaur|IN||6t|22k|66e|5d
+Bilgi|IN||6t|19f|5u2|4y|Bilg
+Bilthra|IN||6t|20l|6h1|4s|Belthara
+Vila Real|PT||99|36q|-li|4q|Bila Rial
+Bilohirsk|UA||9t|3h6|2o4|4k|Qarasuvbazar;Biełogorsk;Bilohirs'k;Karasubazar;Bilogirsk;Qarasuv Bazar;Karassu Basar;Belogorsk;Karassubazar;Karasubozar
+Biliri|NG||u|rf|v7|4g|Billiri
+Bilopillia|UA||98|3y3|2nb|4c|Bilopillya
+Bilsanda|IN||6t|26g|663|4b
+Bilicenii Vechi|MD||8x|3oe|25x|4b
+Bilderstöckchen|DE||8r|3xl|j9|4a
+Biloli|IN||6t|1g5|5zw|45
+Billère|FR||9k|3ca|-14|45|Vilhèra
+Billdal|SE||9w|4fx|x5|45
+Bilozerske|UA||98|3qt|2uy|42|Biloserske;Bilozers'ke
+Bilkha|IN||6t|1nk|5g4|40
+Bílina|CZ||9m|3wf|12a|40|Bilin
+Bilpura|IN||6t|1si|667|3z
+Bilaspur|IN|Himachal Pradesh|6t|2f1|5x8|3w
+Bīleh Savār|IR||7o|31e|3qb|3w
+Bileća|BA||9r|3b4|1f7|3p|Bileće
+Bilariāganj|IN||6t|20s|6f7|3o
+Bilaua|IN||6t|20d|61g|3l
+Bilyayivka|UA|Odesa|98|3l4|2bx|3h|Bielajewka;Biliaïvka;Bileaiivka;Biliajivka;Bilâyivka;Biljajivka;Biljajiwka;Biljaïvka
+Bilāspur|IN|Haryana|6t|2c6|5yq|39
+Billerbeck|DE||8r|40e|k9|39|Billurbėki;Billerbiëk
+Bilog-Bilog|PH||71|137|9cd|35
+Bilha|IN||6t|1oz|6bx|32
+Bilga|IN||6t|2e9|5u5|2t
+Bilozerka|UA||98|3lj|2i4|2o
+Bilenke|UA|Donetsk|98|3rh|2wj|2m|Bilen’ke
+Bilene|MZ||11|-1y7|2kc|2k
+Bilajer|AZ||61|34o|3v0|2i|Bil’gyakh;Bil’gya;Bil’gykh
+Bilovods'k|UA||98|3sp|31z|2e|Belovodsk
+Billy-Montigny|FR||9k|3w2|82|2d|Bili-Montini
+Bilozirya|UA||98|3sy|2gl|2d|Biloziria;Bilozirija
+Bilky|UA|Zakarpattia|98|3q7|1s9|29|Bilke;Bil’ki;Bilki
+Bīlāspur|IN|Uttar Pradesh|6t|26v|5zm|28
+Bilytske|UA||98|3qh|2va|26|Belitskoye;Bilyts’ke
+Bilokurakyne|UA||98|3tl|2zl|25
+Bilyche Pole|UA||98|3w9|2ck|25
+Billund|DK||8y|4at|pb|22|Bilundas
+Bílovec|CZ||9m|3u8|1e2|21|Wagstadt
+Bilac|BR||4w|-1ng|-3w7|21
+Bilisht|AL||9y|34v|1mb|21|Bilišta;Bilištis;Billisht;Bilisthi;Biglista;Biclishta;Biklishta;Biklista
+Billingshurst|GB||9b|3xq|-19|1x
+Bilmak|UA||98|3nk|2tt|1w|Kouïbychévé;Kuybysheve
+Bile|UA||98|3qq|30h|1w|Beloye;Beloe
+Biled|RO||8u|3jh|1m8|1q|Billéd
+Biloela|AU||8c|-1vs|bm4|1p
+Bilgaard|NL||8m|43u|g4|1p|Bilgaerd
+Billigheim|DE||8r|3t3|pp|1n
+Billinge|GB||9b|44m|-7j|1n
+Bilimbay|RU||7z|4e9|4m5|1n|Bilimbaj
+Bilao|PH||71|vx|9gg|1m
+Bilibino|RU||5u|591|cuc|1m|Bilibinas
+Bilaigarh|IN||6t|1o4|6ds|1j
+Bilma|NE||18|1fx|zw|1i
+Bilohirya|UA||98|3uw|21d|1g|Bilohiria
+Billahio|CI||0|h9|-h3|1g
+Bīland|IR||7o|2nj|4j2|1e|Bīlvand
+Bilston|GB|England|9b|421|-5r|1e
+Bilaur|IN||6t|2il|5u0|1e
+Bilenke|UA|Zaporizhzhia|98|3ob|2pc|1e|Bilen’ke
+Bilyky|UA|Poltava|98|3st|2n7|1d
+Biliran|PH||71|vv|9lr|1b
+Bilaran|PH||71|130|9bb|1a
+Billom|FR||9k|3j0|9a|19|Bilhom
+Bila|BA||9r|3dm|1b1|18
+Bili Oslavy|UA||98|3qo|1wm|18|Osław Biały;Osławy Białe;Oslav Byaly
+Billy-Berclau|FR||9k|3wc|7z|17|Bili-Bérclo
+Billigheim-Ingenheim|DE||8r|3si|mh|14
+Bilimono|CI||0|os|-bj|12|Bilémona
+Bílovice nad Svitavou|CZ||9m|3st|1ab|11
+Bilyi Kolodiaz|UA||98|3vg|2v3|11|Bilyy Kolodyaz'
+Bilolutsk|UA||98|3u2|30e|11|Biloluts'k;Belolutsk
+Bilsthorpe|GB||9b|43m|-2v|z
+Bilca|RO||8u|3p4|1zj|z
+Bilgola Plateau|AU||8l|-2lh|bob|y
+Bila|UA|Ternopil|98|3tr|1z2|x
+Bilambil Heights|AU||8l|-26e|buc|x
+Bilorichenskyi|UA||98|3ql|30m|w|Bilorichens’kyy
+Bilje|HR||a6|3ip|1g2|w|Belje
+Bilousivka|UA|Chernivtsi|98|3qu|23y|v|Bilo'oussivka;Belousovka
+Bila Tserkva|UA|Zakarpattia|98|3p7|1ue|u|Belaya Tserkov’
+Billwerder|DE||8r|44m|s6|u|Billwärder
+Bilek|TR||94|2v5|2wa|t
+Bilbor|RO||8u|3mp|1yw|s|Bèlbòr
+Bilwang|PH||71|u8|9lr|s
+Billesholm|SE||9w|4bp|104|s
+Bilad|PH||71|17q|9aj|s
+Villány|HU||8v|3jf|1f9|r|Wieland;Viljan;Biljan;Vilanje;Willand
+Bilice|HR||a6|3dn|183|p
+Bilokorovychi|UA||98|3xz|25u|p|Belokorovichi
+Bâlteni|RO|Gorj County|8u|3gn|1sn|p|Bîlteni
+Bilshausen|DE||8r|3zf|s8|o
+Biljača|RS||8q|39n|1oe|n|Biljače;Bilaçë
+Billingstad|NO||9j|4mc|t4|n
+Bilolissya|UA||98|3jh|2ai|n|Achmanghit;Bilolissia
+Biliești|RO||8u|3j0|23z|n
+Binatlı|TR|Batman|94|2x5|36i|n|Bileyder
+Bil-Loca|PH||71|1e9|9ax|m
+Bilyarsk|RU||9i|48q|3vz|m|Biljarsk
+Belorado|ES||9d|39u|-8v|l|Bilforato;Belfuratus
+Bilyne|UA||98|3oz|2ab|l
+Billinghay|GB||9b|43g|-s|k
+Bilten|CH||a7|3mz|p3|k
+Bilche-Zolote|UA||98|3ri|1zw|k|Bil’che-Zolotoye;Bil’che-Zolote
+Bâldana|RO||8u|3fw|1zm|k|Bîldana
+Bilshivtsi|UA||98|3sm|1wq|j|Bołszowce;Bilchivtsi;Bołszowiec;Bilschiwzi;Bil'šivci;Bilšivci;Bilşivtsi;Bilșivți
+Biletskivka|UA||98|3s3|2kn|j|Bilets’kivka;Beletskovka
+Bilinga|AU||8c|-269|bug|j
+Bilsdale|GB||9b|471|-34|i
+Billingborough|GB||9b|42x|-y|i
+Bilciureşti|RO||8u|3g9|1zo|i|Bilcireşti
+Bilohorodka|UA|Khmelnytskyi|98|3uw|220|i|Biełogródka;Białogródka;Białohorodka;Białogród;Belogorodka
+Bilozirka|UA||98|3mt|2i5|i|Barmashovo
+Bilyn|UA||98|3pn|1ve|h|Bilin
+Bilska Volya|UA||98|3yy|1zp|h|Bil’s’ka Volya;Bel’skaya Volya;Bilska Volia;Bel’ska Volya
+Billington Heights|US||48|3au|-62f|h
+Bil‘īn|PS||6g|2gp|2pf|h
+Bilaodi|CI||0|mn|-8q|h
+Bilousivka|UA|Cherkasy|98|3uq|2hy|h|Belousovka
+Billbrook|DE||8r|44p|s1|g
+Bílovice|CZ||9m|3se|1cr|g
+Biloiarivka|UA||98|3os|2z8|f|Biloyarivka;Beloyarovka
+Billington|GB||9b|45i|-6q|f
+Bilstain|BE||8t|3wm|gg|f
+Biltmore Forest|US||48|2qp|-6d9|e
+Bilingurr|AU||8k|-1dr|9fj|e
+Bílá Třemešná|CZ||9m|3w4|17q|d
+Bilousivka|UA|Mykolaiv|98|3nq|2fl|d|Belousovka
+Bilenke|UA|Odesa|98|3jx|2ce|d|Achembet;Bilen'ke;Akembet
+Bâlta|RO|Gorj County|8u|3hc|1s6|d|Bîlta
+Bila Krynytsya|UA||98|3nj|2k8|c|Bila Krynytsia
+Bīlverdī|IR||7o|2ya|3m7|c|Bilberdi;Belvīrdī;Bil’verdy;Bīlvīrdī;Bīleh Verdī
+Bilston|GB|Scotland|9b|4b7|-8u|c
+Billy-sur-Aisne|FR||9k|3t4|9e|c
+Bâlta|RO|Dolj|8u|3fq|1t7|c|Bîlta
+Dnipro Quarter|UA||98|3z5|2dg|c|Dniprovskyi kvartal;Byelhorodskyi kvartal;Bielhorodskyi kvartal;Bilhorodskyi kvartal
+Bilje|SI||9a|3jh|11v|c
+Bilohorivka|UA||98|3rx|2y9|b|Belogorovka;Bilohoriwka;Bilogorivka
+Bīlevār|IR||7o|2zf|3hc|b|Bīl Vār;Bīleh Vār
+Bâlvăneşti|RO||8u|3gg|1r0|b|Bîlvăneşti
+Bilivtsi|UA||98|3qb|21k|b|Belăuți
+Billingsfors|SE||9w|4ju|y1|b
+Bilgi|TR||94|2xu|3c6|b
+Bílá Lhota|CZ||9m|3u3|1b6|b
+Billings|US|Missouri|2f|2uz|-77v|b
+Bilikéhi|CI||0|mz|-8y|b
+Bilieu|FR||9k|3i9|fe|b|Billieu
+Billy White|BZ||24|1bt|-6vd|b
+Bildeston|GB||9b|40r|2j|b
+Billeberga|SE||9w|4b8|104|b
+Bila Krynytsia|UA||98|3wo|29v|a|Bila Krynytsya
+Bilovod|UA||98|3wr|2ky|a|Belovod
+Bilukhivka|UA||98|3tr|2q1|a|Belukhovka
+Bilovartsi|UA||98|3pf|1tt|a|Belovartsy
+Billy|FR|Auvergne-Rhône-Alpes|9k|3kg|9j|9
+Bilka|UA||98|3m9|2ci|9|Belka
+Billé|FR||9k|3q5|-3h|9|Bilieg
+Billesdon|GB||9b|426|-2m|9
+Bilosarayska Kosa|UA||98|3ma|2vr|9|Bilosarays'ka Kosa;Bilosaraiska Kosa
+Biliaky|UA||98|3tq|2kv|9|Belyaki;Bilyaki
+Bilçë|AL||9y|350|1ji|9|Bilça
+Bilyky|UA|Poltava|98|3uv|2lj|8
+Billy|FR|Centre-Val de Loire|9k|3nf|4a|8
+Bilsk|UA||98|3v5|2o8|8|Bil’s’k;Hlynsk;Bilszk;Gelonus;Gelono;Bel’sk
+Bâlca|RO||8u|3k6|22y|8|Bîlca
+Bílá|CZ||9m|3wq|15s|8
+Bílý Kostel nad Nisou|CZ||9m|3x6|15g|8
+Bilenke Pershe|UA||98|3ob|2pf|8|Bilen’ke Pershe
+Viodos|FR||9k|3c4|-2g|8|Bildoze;Bildoze-Onizepea;Biudòs-Avensa de Baish
+Bilzingsleben|DE||8r|3yg|ur|8
+Bilenchenkivka|UA||98|3vw|2m9|8|Bilenchenkovka
+Billiers|FR||9k|3o1|-6x|8|Beler
+Bildstein|AT||a2|3nt|r5|8
+Bilsen|DE||8r|45d|rg|7
+Bila Nawāb|IN||6t|2ej|5tj|7
+Bilotserkivka|UA||98|3tz|2lv|7|Belotserkovka
+Bílý Potok|CZ||9m|3xb|16a|7
+Bilokuzmynivka|UA||98|3r5|2wo|7
+Bila|UA|Chernivtsi|98|3q8|1zw|7
+Bilpin|AU||8l|-2l2|bm5|7
+Mykolayivka|UA|Donetsk|98|3qy|2x0|6|Mykolaiivka;Mykolaivka;Bilohiria Hruzka;Bilohirya Hruzka
+Bilyayivka|UA|Kharkiv|98|3sv|2sv|6|Biliaivka;Belyayevka
+Bila|RO||8u|3ep|1zt|6
+Bílov|CZ||9m|3u5|1e0|6
+Bílý Újezd|CZ||9m|3vk|193|6
+Bílé Podolí|CZ||9m|3us|171|6
+Mala Mykhailivka|UA||98|3ma|2ou|6|Bilorits’ke;Mala Mikhailivka;Biloritske
+Bilbul|AU||8l|-2n7|b9y|5
+Bilky|UA|Vinnytsia|98|3rz|29e|5|Bilki
+Bilohorilka|UA||98|3wc|2kd|5|Belogorilka
+Bilasovytsia|UA||98|3rn|1s1|5|Bilasovytsya
+Bilginler|TR||94|2us|2ef|5
+Bílovice-Lutotín|CZ||9m|3tj|1bc|5
+Billings|US|Oklahoma|2f|2th|-7io|5
+Billroda|DE||8r|3y8|vu|5

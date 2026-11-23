@@ -1,0 +1,170 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Dhaka|BD||6a|1tv|6z5|27wt|Daca;Dacca;Dako;Daka;Dakka;Dakk;Deka;Dakah
+Abu Dhabi|AE||6c|1vx|474|dxy|Abu Dabi;Abú Zabí;Abu-Dabio;Abou Dabi;Abu Dabis;Äbu Saby;Aboe Dhabi;Abû Daby;Abu-Dzabi;Abú Daibí;Ebu Dhabi;Abu-Dabi;Ebu Dabi;Â-pu-tha̍t-pí;Abū Z̧aby;Abū Z̧abyo;Abū Z̧abye
+Dhanbad|IN||6t|1u4|6o3|98a|Dhanbaid;Dhanabad
+Dhārāvi|IN||6t|1gx|5mf|5eg
+Dhule|IN||6t|1m2|5rq|2wc
+Thika|KE||16|-2v|2uz|1xu|Dhika
+Dhangaḍhi̇̄|NP||6r|27q|67v|1kw|Dhantardhi;Dhangarhi
+Dhirkot|PK||6q|2mk|5oe|1i6
+Dharān|NP||6r|22h|6qg|1c3
+Dhamār|YE||5r|14e|3fd|18h|Damar;Damari
+Dhaulpur|IN||6t|225|60c|10z|Dholpur
+Dharmavaram|IN||6t|141|5zw|xv
+Thon Buri|TH||62|125|7r5|x9|Thonhuri;Dhonhuri;Dhonburi
+Dharashiv|IN||6t|1ei|5v8|v5|Osmanabad;Usmanabad
+Dhamtari|IN||6t|1lj|6aj|s9
+Dhahran|SA||7e|211|3v7|rn|Dharaan;Zhahran;Dahran;Zahran;Dahahron;Dhahram
+Dhār|IN||6t|1qr|5t6|q3
+Dhoraji|IN||6t|1od|5fp|nh
+Derry|GB||9b|48s|-kb|n9|Doire;Ker Dherow;Londonderis;Derae;Dhoire
+Dholka|IN||6t|1r5|5l8|mh
+Dhuliān|IN||6t|1wk|6sb|lf
+Dhrāngadhra|IN||6t|1rv|5ij|l0|Dhrāngadra
+Dharapuram|IN||6t|tu|5zd|k3
+Dharmapuri|IN||6t|xp|614|j2
+Dhenkānāl|IN||6t|1le|6ls|iq
+Dhubri|IN||6t|20a|6xz|hm|Dubri;Dhuburi
+Dhone|IN||6t|16s|60b|gh
+Dhūri|IN||6t|2cd|5ur|fc
+Dhanmondi|BD||6a|1ty|6z3|f2
+Dhāmpur|IN||6t|29f|623|dw
+Degeh Bur|ET||2|mu|3d0|d4|Dhagaxbuur;Dejahabur;Degehabur;Degh Bur;Degahabur;Degabur;Dagahabur;Deghabour;Degahbur;Degekh Bur
+Dhanpuri|IN||6t|1sf|6ak|ck
+Dráma|GR||8p|36b|1v3|cg|Dhráma
+Dhāka|IN||6t|223|6kl|bp
+Dhupgāri|IN||6t|21v|6v9|bg|Dhupguri
+Dharmanagar|IN||6t|1vp|741|ba
+Dhī as Sufāl|YE||5r|12f|3ej|ak|Dhī Sufāl;Dhī es-Sifāl
+Dhabad|SO||14|hv|3l2|a0|Dhabbad;Dhabat
+Dharangaon|IN||6t|1md|5t3|9u|Darangaon
+Dharmābād|IN||6t|1gh|609|9d
+Dhandhuka|IN||6t|1q6|5jz|91
+Dhāmnod|IN||6t|1pp|5tn|8x
+Dharmadam|IN||6t|wq|5tm|8k
+Dharamsala|IN||6t|2hi|5w0|8k|Dharmshala;Dharamshala;Bhagsu;Daramsala;Dharmasála;Dharmsāla
+Dhāruhera|IN||6t|26d|5xc|8f
+Dhanera|IN||6t|1w3|5k2|88
+Dhāri|IN||6t|1n9|5hb|85
+Dhanaura|IN||6t|28g|61e|7v
+Thung Song|TH||62|mo|7ow|7u|Dhūng Song;Tungsong
+Dhamas|SO||14|8r|36u|7i
+Dhrol|IN||6t|1qp|5fm|7d
+Dharampur|IN|Gujarat|6t|1l2|5n9|6q|Dharampore;Dilarampur
+Dhamanagar|IN||6t|1m4|6o5|6d
+Dhafní|GR||8p|2xf|1tx|6d|Dafni
+Dhankutā|NP||6r|22y|6ql|65|Dhankutta
+Dhekiajuli|IN||6t|226|74w|60
+Dhulagari|IN||6t|1qq|6sx|5v
+Dhing|IN||6t|21j|74v|5s
+Dhāriwāl|IN||6t|2gs|5t8|5q
+Dhārūr|IN||6t|1ga|5vf|5o
+Adh Dhayd|AE||6c|1y9|4b8|5m|Dhaid;adh-Dhayd;Az-Zajd;Zeyd;Adh Dhaid;Dhayd;Al-Dhayd;Ihaid;Adh Dhēd
+Dhaurahra|IN||6t|25s|699|5l
+Diinsoor|SO||14|6p|3be|5k|Dinsor;Dinsoor;Dhiinsoor
+Dhanaula|IN||6t|2c4|5tx|5j
+Dhoro Naro|PK||6q|1yu|5d9|5j
+Dhaunkal|PK||6q|2i1|5py|5j|Dhaonkal
+Dharmkot|IN||6t|2dz|5sz|5b
+Dārchulā|NP||6r|2av|67r|53|Dhārchulā;Dhārchul
+Dharmapuram|IN||6t|mk|5yz|4v
+Thap Than|TH||62|16y|7ph|4m|Dhapdhan
+Dharampuri|IN||6t|1pj|5ta|4k
+Dhulikhel|NP||6r|24q|6lm|4j|Dulikhel
+Dhārni|IN||6t|1nv|5xl|4e
+Dhanot|PK||6q|2a6|5jb|4d
+Dārāsuram|IN||6t|uf|64g|49|Dharasuram
+Aḑ Ḑāli‘|YE||5r|122|3g9|44|Dhale;Ed Dali;Ad Doli;Ad Dali;Addoli;Dhala;Dhalie
+Dhasa|IN|Gujarat|6t|1ok|5io|40
+Dharamjaigarh|IN||6t|1qe|6f5|40
+Dhakuākhanā|IN||6t|23k|7ae|3r|Dnakuākhana
+Dhemāji|IN||6t|24c|7aq|3n
+Dáli|CY||73|2pa|2ku|3g|Dhali
+Diavatá|GR||8p|351|1ri|3b|Dhiavatá
+Dharmaram|IN||6t|1eu|64t|37
+Dhuwaran|IN||6t|1ps|5m4|37|Dhuvaran
+Dariāwad|IN||6t|1uy|5qs|36|Dhariawad
+Dhāna|IN||6t|1tz|632|2y
+Dhekelia|GB||73|2p6|2lp|2s
+Dhamda|IN||6t|1nl|69w|2s|Dhamdha
+Dhanegaon|IN||6t|1h5|5yu|2q
+Dhahabān|SA||7e|1ea|37m|2m
+Dhuusamarreeb|SO||14|fe|3kv|2i|Dusa Marreb;Dhuusa Mareeb;Dusa Mareb;Dhusamareb;Dusamareb
+Dhanwār|IN||6t|1vt|6mu|2g
+Dharmaragar|IN||6t|1vn|73x|2g|Dharmanagar
+Dhilwan|IN||6t|2fj|5tb|2c|Dhilvan
+Dhola|IN||6t|1os|5jd|2a
+Dhannābah|PS||6g|2hr|2pc|2a|Dannāba;Dannābah
+Dharapur|IN||6t|20n|72k|29
+Dahab|EG||c|274|2nu|28|Dhahab
+Drosiá|GR||8p|2xw|1ua|26|Dhrosiá
+Dhārchula|IN||6t|2ax|67o|21
+Tha Khanon|TH||62|p3|7mv|21|Dhā Khanōhn;Tha Khanaun
+Dodóni|GR||8p|31u|1lp|20|Dodone;Dhodhóni
+Dhanāid|BD||6a|1uj|6yv|20
+Dhromolaxia|CY||73|2ow|2lb|1x|Dromolaxia;Dromolaksia
+Dhorīmanna|IN||6t|1y0|5ig|1t|Dhorimana
+Dhali|IN||6t|t7|5yf|1t
+Dhānal|IN||6t|1mr|64y|1r
+Dhin|IN||6t|2ev|5u1|1o
+Dhodra Mohār|IN||6t|1pv|60d|1o|Dhodaramohar
+Dhar Souk|MA||d|2o9|-bw|1l|Tahar Souk
+Diónysos|GR||8p|2xu|1uc|1l|Dhiónisos
+Diakoptó|GR||8p|2y4|1po|1k|Dhiakoftó;Dhiakoptón
+Dharampur|IN|Bihar|6t|1zw|6m9|1h
+Dhatau|IN||6t|1f7|5n7|1f
+Dhrosiá|GR||8p|2yw|1tf|1e|Drosia;Drossiá
+Dhobley|SO||14|15|35x|1e
+Doptāla|IN||6t|1j0|64e|1d|Dhopatala
+Dhīnde|IN||6t|2in|5rq|1d
+Darátsos|GR||8p|2qm|1ul|1b|Karátsos;Dharátsos
+Dhekorgorha|IN||6t|22f|79l|1b
+Dhāki|IN||6t|2hm|5u3|16
+Deskáti|GR||8p|32w|1ol|13|Dheskáti
+Dhesiān Kāhna|IN||6t|2ej|5u9|x
+Dhasa|IN|West Bengal|6t|1qw|6sp|v
+Dhāliwāl|IN||6t|2el|5u0|v
+Dhihdhoo|MV||af|j5|5n3|u|Dhidhdhoo
+Dhuleta|IN||6t|2eg|5un|u|Dholeta
+Dhráfi|GR||8p|2xm|1uf|u|Drafi;Ntrafi
+Dharruk|AU||8l|-2lr|bmy|s
+Delphi|GR||8p|2yw|1qh|o|Delfos;Delfy;Delfi;Delfoi;Delphes;Delphoi;Dhelfoí
+Dílesi|GR||8p|2yi|1tr|k|Dhílesi
+Dervíziana|GR||8p|31g|1lq|j|Dhervíziana;Dervitsiana
+Dhërmi|AL||9y|33j|1ik|i|Dhërm
+Desfína|GR||8p|2yq|1ql|h|Desphina;Dhesfína
+Dhokímion|GR||8p|2z9|1ne|h|Dokimio
+Dhanda|IN||6t|2eg|5uf|g
+Domokós|GR||8p|30p|1py|f|Dhomokós
+Dravískos|GR||8p|35o|1ub|f|Dhravískos
+Dhuy|BE||8t|3wg|di|e
+Dhuizon|FR||9k|3o7|4m|d|Dhuison
+Diavatós|GR||8p|34n|1pv|d|Dhiavatós
+Drépanon|GR||8p|2wa|1rl|d|Dhrépanon;Khaïdhárion;Khaidari;Drepano;Drepanou
+Domvraína|GR||8p|2y9|1ru|b|Dhomvraína;Domvrena
+Dídyma|GR||8p|2w2|1sd|a|Dhídhima;Dhídhimoi
+Doïráni|GR||8p|36e|1r8|a|Dhoïráni
+Dáfia|GR||8p|310|20s|a|Dháfia
+Dimitrítsi|GR||8p|35v|1t1|a|Dhimitrítsion
+Dhummay|SO||14|n5|3mq|a
+Dispilió|GR||8p|34g|1n5|9|Dhispílion
+Dhalamanára|GR||8p|2wi|1r9|9|Dalamanara
+D'Hanis|US||2f|29h|-7ns|8|DHanis
+Dasochóri|GR|Central Macedonia|8p|36c|1sn|8|Dhasokhóri
+Dialektó|GR||8p|31z|1o5|8|Dhialektón
+Dhervéni|GR||8p|2xx|1qa|8|Derveni
+Diáva|GR||8p|329|1ny|8|Dhiáva
+Dimitsána|GR||8p|2wg|1p8|7|Dhimitsána
+Díkaia|GR||8p|37v|211|7|Dhíkaia
+Dáfni|GR||8p|2ul|1qm|7|Dháfni
+Dilináta|GR||8p|2y6|1l0|7|Dhilianáta;Dhilináta
+Dhok Awan|PK||6q|2j8|5lg|7
+Dounaíika|GR||8p|2wu|1n9|7|Dounéïka;Dhounaíika
+Drosáto|GR||8p|36d|1rc|6|Potaros;Dhrosáton
+Dhamatria|GR||8p|2t2|260|6
+Doukádes|GR||8p|329|1iu|6|Dhoukádhes
+Dasochóri|GR|Thessaly|8p|329|1qa|6|Dhasokhóri
+Drakótrypa|GR||8p|31g|1o0|6|Dhrakótripa
+Dorothéa|GR||8p|35v|1pa|6|Dhorothéa
+Droseró|GR|Thessaly|8p|31r|1oe|5|Dhroserón
+Droseró|GR|Central Macedonia|8p|35e|1pt|5|Dhoserón;Dhroserón

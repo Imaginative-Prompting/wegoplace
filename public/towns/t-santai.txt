@@ -1,0 +1,40 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Malabo|GQ||10|ag|oe|17c|Santa Isabel;Malabas;Malaba
+Santa Inês|BR|Maranhão|2w|-a7|-3i2|nm
+Santa Isabel do Pará|BR||23|-3m|-3ps|jy
+Santa Isabel|BR|São Paulo|4w|-1ss|-3ke|es|Santa Izabel
+Santa Isabel|MX|Baja California|58|2in|-8x1|85
+Santa Isabel do Rio Negro|BR||3t|-15|-50m|77|Santa Isabel Rio Negro;Tapuruquára;Tapuracuara;Tapurucuara;Tapuruquá
+Santa Iria da Azóia|PT||99|2zw|-pa|56|Santa Iria de Azoia
+Santa Izabel do Oeste|BR||4w|-1zq|-44k|3x
+Santa Ignacia|PH||71|17e|9ak|37
+Santa Inês|BR|Bahia|20|-10x|-32m|2v|Santa Ignez
+Santa Isabel do Ivaí|BR||4w|-1rw|-43s|2h|Santa Isabel do Avaí
+Santa Isabel|PR||4m|1dx|-54g|21
+Santa Isabel|CO|Tolima Department|27|9b|-5sa|1s
+Santa Ines West|PH||71|178|9am|1m
+Santa Isabel|CO|San Andres y Providencia|27|116|-6a1|1d
+Santa Isabel Xiloxoxtla|MX||41|1hj|-7kt|18
+Santa Isabel Ixtapan|MX||41|1if|-7mv|18
+Tetlatlahuca|MX||41|1hf|-7l2|16|Santa Isabel Tetlatlauhca;Tetlatlahuaca
+Santa Isabel|BR|Goiás|4w|-16i|-3tb|z
+Santa Inês|BR|Paraíba|2w|-l6|-2z3|w
+Santa Isabel|AR||1s|-2sn|-55y|p|Santa Izabel
+Santa Isabel Chalma|MX||41|1h8|-7mc|m
+Santa Isabel Cholula|MX||41|1gs|-7la|j
+Santa Inês|BR|Paraná|4w|-1qw|-406|h
+Santa Isabel|MX|Chihuahua|2g|26q|-87h|e
+Santa Isabel|MX|Nayarit|3x|1ms|-82m|c
+Santa Isabel|MX|Veracruz|41|1k3|-7ix|c
+Santa Inés Varela la Luz|MX||41|1h7|-7ij|b|Santa Inés
+Santa Isabel [Fraccionamiento]|MX||41|1pc|-7w3|b
+Santa Isabel|PE||3o|-i0|-664|a
+Santa Inés Yatzeche|MX||41|1ap|-7gs|9|Santa Inés Tarzeche
+Santa Inés Uno (El Capitán)|MX||37|28s|-8lr|8
+Santa Inés|MX|Zacatecas|41|1qm|-7wp|7
+Santa Inés del Monte|MX||41|1b1|-7h2|6
+Santa Isabel|MX|Campeche|3z|1ex|-73t|6
+Santa Isabel|MX|México|41|1i9|-7oq|5
+Santa Isabel y Dolores|MX||44|1yy|-7p6|5
+Santa Inés|MX|Hidalgo|41|1ku|-7kh|5
+Santa Inés|MX|Michoacán|41|1ir|-7wv|5

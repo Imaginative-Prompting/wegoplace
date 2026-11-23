@@ -1,0 +1,938 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Kayseri|TR||94|2zl|2ql|b7h|Cesarea in Cappadocia;Kajseri;Cesarea;Cesarea de Capadocia;Kaiseris;Caesarea in Cappadocia;Qayseri;Kaiseri;Caesarea;Casarea;Césarée;Kaisaria;Kaisarie
+Kazan|RU||9i|4az|3sg|9lf|Qazan;Kaasan;Qozon;Casanum;Cazã;Kasã;Kasan
+Srinagar|IN|Jammu and Kashmir|6t|2mp|5rt|9b4|Caspira;Szrinagar;Srinigar
+Kassala|SD||r|16x|2t4|33j|Kaszala;Kasala;Cassala
+Tallinn|EE||9x|4l4|1wr|31g|Rääveli;Talino;Tallin;Taillinn;Talín;Castrum Danorum;Talinas;Tallina;Revel;Talini;Reval;Talins;Lindanäs;Tallidn;Revel';Kallinn
+Cascavel|BR|Paraná|4w|-1xc|-44i|2ua|Naer-ourouler;Ular derik;Serpentes tintinnabulati;Kaskavelas
+Cluj-Napoca|RO||8u|3lx|1tk|27m|Klausenburg;Clausemburgo;Kolosvaru;Clūsenburg;Clus;Kluž;Kluĵo;Kolozsvár;Claudiopolis;Kluż-Napoka;Kloiznburg;Cloizânburg;Napoca;Kluža-Napoka;Castrum Clus;Municipium Aelium Hadrianum Napoca;Clausenburg;Klužas-Napoka;Cluj;Kaloşvar;Kluž Napok;Kluzh;Kluzh-Napoka;Kluža;Klužas;Koloszvár
+Košice|SK||8s|3rb|1n2|1qi|Kaschau;Kassa;Koszyce;Cassovia;Koşitse
+San Cristóbal de las Casas|MX||3z|1ah|-75c|1nz|San Cristóbal;San Cristóbal las Casas
+El Jadida|MA||d|2ke|-nn|1n5|Mazagão;El-Jadida;El-Yadida;Al-Djadida;Al-Džadída;Džadida;Mazaghan;Castilho Real;Mazagan;Al Yadida;El Jadid;Al Jadida
+Kassel|DE||8r|3yk|qe|1is|Cassel;Kaselo;Castellum;Kaseli;Cassala;Kasele;Kaselis
+Castanhal|BR||23|-3l|-3p5|1hf
+Castelló de la Plana|ES||9d|333|-5|1f1|Castellón de la Plana;Castellón;Castelló
+Chlef|DZ||3|2sh|3p|1dm|Ech Cheliff;Castellum Tingitanum;Šelifas;Szalif;asch-Schalif;al-Asnām;ash-Shalif;Hlef;El Asnam;aš-Šalif
+Newport|GB|Wales|9b|3zb|-8c|18v|Casnewydd;Novus Burgus;Niuportas;Nyuport;Trefdraeth;Ņūporta
+Cagliari|IT||9o|30z|pc|15h|Càller;Kaljaro;Caralis;Casteddu;Castèl;Kalyari;Kagliari;Kaljaris;Kaljāri;Càliari;Cajari
+Isidro Casanova|AR||1l|-2oe|-4ir|10o|Isidro Kazanova;Isidrokasanova
+Acilia-Castel Fusano-Ostia Antica|IT||9o|380|y9|zy
+Kastamonu|TR||94|36y|2lu|yw|Castamena;Qestamonu;Castamonu;Castamuni;Kastamuni;Castamoni;Castamon;Kastamouni
+Castelar|AR||1l|-2o9|-4iw|ty|Kastelaras;Kastelara
+Casa Verde|BR||4w|-1ta|-3lm|md
+Castrop-Rauxel|DE||8r|3z8|kb|ln
+Casoria|IT||9o|35n|13p|kj
+Caserta|IT||9o|363|13t|k8|Caserte
+Cascavel|BR|Ceará|2w|-bh|-2y8|k2
+Casa Nova|BR||20|-ph|-35u|k1
+Castro|BR||4w|-1wv|-3ux|jy
+Casas Adobes|US||4i|2hs|-8kc|ik
+Castelldefels|ES||9d|36o|5h|ig
+Castellammare di Stabia|IT||9o|352|149|ie|Estàbia;Stabie;Stabiae;Castellammare
+Castro Valley|US||3p|2wp|-9f5|h2
+Casper|US||2p|3b3|-87b|gr
+Castlereagh|GB||9b|47l|-gc|fr|An Caisleán Riabhach
+Castle Rock|US|Colorado|2p|31d|-83a|fg
+Châteauroux|FR||9k|3m1|4p|et|Šatoru;Castrum Radulphi
+Casa Grande|US||4i|2jc|-8mg|eb|Casagrande
+Castres|FR||9k|3d5|68|d5|Castras;Castra Albigensium
+Neath|GB||9b|3zi|-ak|ct|Castell Nedd;Nitas;Castell-nedd
+Casimiro de Abreu|BR||4w|-1qg|-398|ct|Casemiro de Abreu
+Casalnuovo di Napoli|IT||9o|35n|13u|cq
+Castleford|GB||9b|459|-3s|cj
+Castro|CL||4u|-39z|-5ox|bl|Kastro;Kastras
+Cascina|IT||9o|3dc|tb|b9
+Casco Histórico de Vallecas|ES||9d|343|-a2|b8
+Castle Hill|AU|New South Wales|8l|-2lp|bng|ax
+Châtellerault|FR||9k|3m2|1j|ac|Castrum Heraldi
+Castelo|BR||4w|-1l8|-36e|a9|Kastelo;Castello
+Cascais|PT||99|2zi|-q6|a4|Kaškaišas;Cascaes
+Casco Histórico de Vicálvaro|ES||9d|347|-9x|9v
+Kasimov|RU||9i|48m|370|9u|Kassimow;Kassimov;Cassim;Kasimow
+Châtelet|BE||8t|3w0|cl|9s|Castellarium;Tcheslet
+Casalecchio di Reno|IT||9o|3fk|vb|9e|Casalàcc’
+Castelo Branco|PT|Castelo Branco|99|32m|-kt|9b
+Casale Monferrato|IT||9o|3hd|nh|98|Casal;Casale
+Casal Palocco|IT||9o|37z|yb|93
+Casilda|AR||1n|-2js|-4pw|8w|Kasilda
+Castro-Urdiales|ES||9d|3ci|-8y|8w|Castro Urdiales;Urdialaitz
+Castelvetrano|IT||9o|2wo|zj|8t|Castelvetranu;Castedduvitranu;Castrum Veteranum;Kastelvetranas
+Casa Branca|BR||4w|-1oh|-3mt|7t
+Castillejos|PH||71|15h|99w|7l|Caslillejos
+Casal de' Pazzi|IT||9o|38h|yx|7k
+Casselberry|US||48|27o|-69x|7j
+Castelfranco Veneto|IT||9o|3iv|x5|73
+Castlewood|US|Colorado|2p|31y|-83e|71
+Castro Alves|BR||20|-zh|-31j|6v
+Casigua El Cubo|VE||2c|ob|-5lg|6u|Casigua-El Cubo
+Casablanca|CL||4u|-2kk|-5ic|6t
+Castellar del Vallès|ES||9d|37m|5s|6o
+Chios|GR||8p|2yl|20m|6o|Scio;Sakız;Chóra;Quíos;el Xiu;Khíos;Kástro;Hios;Chio;Xíos;Khóra;Kastron;Castro
+Casa Santa|IT||9o|2xn|yv|6n
+Castricum|NL||8m|41z|cz|6m|Kastrikum
+Castaños|MX||44|22f|-7tr|6k
+Enna|IT||9o|2wd|13n|6e|Castrugiuvanni
+Magenta|IT||9o|3ia|oo|6a|Castra Maxentia
+Castel Volturno|IT||9o|35z|12q|63
+Xanten|DE||8r|3zi|hx|60|Santen;Xantum;Ksanten;Sante;Castra Vetera
+Cassano Magnago|IT||9o|3iv|oj|5w
+Cassino|IT||9o|379|12f|5v
+Cassilândia|BR||2a|-1h3|-3zp|5u
+Casanay|VE||2c|t6|-4w6|5q
+Casal di Principe|IT||9o|35x|139|5q
+Castillejos|ES||9d|34e|-a9|5q
+Castrovillari|IT||9o|32m|190|5n
+Cassanguidi|AO||x|-ks|1n6|5k|Cassinguidi;Cassanguide
+Castries|LC||52|12w|-4ph|5k|Kastrizo;Kastris;Kastrys;Kastri
+Castilho|BR||4w|-1lz|-3z1|5k
+Castelo do Piauí|BR||2w|-es|-37f|5h
+Herceg Novi|ME||9l|39x|1fi|5f|Castelnuovo di Cattaro;Herceg-Novi;Ercegnovi
+Casarano|IT||9o|335|1eg|5e|Casaranu
+Castaic|US||3p|2nt|-95i|5a|Castac
+Casa de Oro-Mount Helix|US||3p|2j0|-90x|58
+Casavatore|IT||9o|35m|13o|57
+Castiglione delle Stiviere|IT||9o|3i3|t5|55
+Casamassima|IT||9o|35s|1b0|54|Cassamassima
+Castelnau-le-Lez|FR||9k|3d8|au|50|Castèlnòu de Les
+Kasterlee|BE||8t|3yc|dt|4y|Casterle
+Castelfranco Emilia|IT||9o|3fv|up|4t|Castelfranco d'Emilia
+Cassano d'Adda|IT||9o|3ih|qg|4t
+Casa Blanca|MX|Puebla|41|1gw|-7kk|4t
+Cássia|BR||4w|-1l6|-3mc|4s
+Castilleja de la Cuesta|ES||9d|2vv|-gt|4s
+Castilla|ES||9d|34f|-a8|4q
+Castellana|ES||9d|34b|-a8|4p
+Bouguenais|FR||9k|3n2|-4i|4o|Kervegon;Castrum Bogenis;Bougenais
+Casal Bertone|IT||9o|38e|yt|4j
+Castel Maggiore|IT||9o|3fu|vk|4h
+Châteaudun|FR||9k|3pj|3q|4g|Castrodunum
+Château-Thierry|FR||9k|3s9|9g|4f|Castrum Theodorici
+Casula|AU||8l|-2mb|bn6|4d
+Çaşgyn|TM||5x|2x0|4qz|4b
+Castelfidardo|IT||9o|3cq|11n|45
+Beaucaire|FR||9k|3dp|cw|44|Bèucaire;Castrum Bellicadri;Bellcaire
+Castletroy|IE||8z|42b|-nr|43|Caladh an Treoigh
+Castellana|IT|Apulia|9o|35l|1bp|41
+Castellaneta|IT||9o|34v|1b1|3z
+Castellanza|IT||9o|3ip|oq|3y
+Châteaurenard|FR||9k|3dw|dh|3y|Castèu-rainard;Castèurainard
+Casisang|PH||71|mm|9nl|3t
+Casagiove|IT||9o|363|13r|3t
+Casinhas|BR||4p|-li|-2r8|3r|Casinha
+Kastoria|GR||8p|34k|1n2|3q|Kesriye;Kostur;Kosturi;Castória;Kastorija;Kesrie
+Castelsarrasin|FR||9k|3ec|33|3p|Los Sarrasins;Castellum Sarracenum
+Casandrino|IT||9o|35p|13l|3o
+Castellammare del Golfo|IT||9o|2xn|zs|3n|Casteddammari
+Castlebar|IE||8z|45l|-pu|3n|Caisleán an Bharraigh;Kaslbaras
+Châteaubriant|FR||9k|3ok|-3u|3m|Kastell-Briant;Castrum Brientii;Béré
+Casa de Campo|ES||9d|34a|-af|3k
+Casalpusterlengo|IT||9o|3hi|qt|3j|Casalis Pistorum
+Castelfiorentino|IT||9o|3d5|uh|3j
+Castillo Grande|PE||3o|-ps|-5v5|3g
+Castelnaudary|FR||9k|3cc|5f|3g|Castellnou dArri;Castèl Nòu d'Arri;Castèlnòu dArri;Castellum Novum Arri
+Cassano delle Murge|IT||9o|35l|1al|3f
+Château-Gontier|FR||9k|3ov|-1z|3f|Castrum Gontherii
+Castelló d'Empúries|ES||9d|39e|8j|3d
+Castellbisbal|ES||9d|378|5i|3c|Castelbisbal
+Castelo dos Sonhos|BR||4t|-n4|-492|3c
+Chepstow|GB||9b|3zg|-7g|3b|Cas-gwent
+Castelo Viegas|PT||99|33k|-nd|3b
+Caselle Torinese|IT||9o|3hh|l8|3a|Caseli
+Castanet-Tolosan|FR||9k|3cw|46|38|Castanet Tolosan;Castanet-Tolozan
+Cassano All'Ionio|IT||9o|32i|19d|38|Cassano al Jonio
+Châteauneuf-les-Martigues|FR||9k|3ci|ec|37|Castèunòu dau Martegue;Châteneuf les Martiques
+Castel San Giovanni|IT||9o|3h6|q8|35
+Castel San Pietro Terme|IT||9o|3fc|w7|33
+Cassina de' Pecchi|IT||9o|3ig|q0|32|Cassina de'Pecchi
+Casa Loma|CA||59|3dc|-64l|32
+Casino|AU||8l|-286|bt5|31
+Castel Mella|IT||9o|3ie|s7|2z
+Castano Primo|IT||9o|3ij|oe|2x
+Casalmaggiore|IT||9o|3gz|sy|2w|Casalis Maior
+Castell-Platja d'Aro|ES||9d|386|8j|2w|Castillo de Aro
+Castle Pines North|US||2p|31n|-83d|2w
+Castalla|ES||9d|2z8|-1v|2v
+Casteldaccia|IT||9o|2xp|11l|2t|Castiddaccia;Castellatium
+Castelnovo ne'Monti|IT||9o|3fg|sw|2s|Castelnovo ne' Monti;Castelnovo né Monti;Castelnuovo ne' Monti
+Čáslav|CZ||9m|3un|16r|2s|Tschaslau;Czaslau;Časlau
+Castle Vale|GB||9b|41w|-50|2s
+Orzinuovi|IT||9o|3i4|rk|2s|Castrum Urceorum Novorum
+Casaluce|IT||9o|35w|13g|2s
+Castel Goffredo|IT||9o|3ht|t3|2r
+Casca|BR||4w|-27c|-40e|2n
+Castelli Calepio|IT||9o|3ip|rh|2n
+Cittanova|IT||9o|2yj|18o|2m|Casale Novum
+Castellarano|IT||9o|3fo|tu|2l
+Castelletto Sopra Ticino|IT||9o|3j0|nz|2k
+Castañas|PH||71|12j|9dn|2i
+Castenaso|IT||9o|3fn|vv|2i
+Queensferry|GB||9b|4bj|-9g|2i|Cas Chaolas;Cas Chaolais
+Castelginest|FR||9k|3dd|3z|2f
+Schellerten|DE||8r|40z|s2|2f|Castra Scelerata
+Casiguran|PH||71|zr|9kh|2e
+Cassà de la Selva|ES||9d|38d|80|2d
+Casorate Primo|IT||9o|3hv|p2|2c|Casoratum;Casuraa
+Cassis|FR||9k|3c2|fe|2c
+Castlegar|CA||5b|3t0|-92u|2b
+Castelões de Cepeda|PT||99|36g|-n6|2b
+Casarsa della Delizia|IT||9o|3jn|zo|2b|Cjasarse;Casarsa
+Castiglion Fiorentino|IT||9o|3ce|x4|2b|Castiglione Fiorentino
+Castleknock|IE||8z|449|-ho|2b|Caisleán Cnucha
+Castelfranco di Sotto|IT||9o|3de|tv|2b
+Castenedolo|IT||9o|3ib|sl|2b
+Castle Shannon|US||48|344|-66a|2a
+Castelleone|IT||9o|3hu|r4|2a
+Casapulla|IT||9o|364|13p|29
+Castro del Río|ES||9d|2wp|-cg|29
+Castelnuovo Rangone|IT||9o|3fr|ud|29
+Caspe|ES||9d|36j|-4|29|Casp
+Casamicciola Terme|IT||9o|357|12n|28
+Casale sul Sile|IT||9o|3io|y9|28
+Castelli|AR||1l|-2s9|-4gl|27|Kastelli
+Castelu|RO||8u|3ey|26q|26
+Castellet|ES||9d|36m|4j|25
+Casillas|GT||32|142|-6yo|25
+Castegnato|IT||9o|3ik|s3|25
+Castanheira do Ribatejo|PT||99|30b|-ox|25
+Chashniki|BY||9g|48d|291|24|Čašniki
+Castillos|UY||45|-2n0|-45m|23
+Castel Bolognese|IT||9o|3f4|ws|23
+Castlemaine|AU||8j|-2uz|b4m|23
+Castanheira|BR||2k|-ux|-4is|23
+Castelbuono|IT||9o|2xd|135|23|Castiddubbuonu
+Casalgrande|IT||9o|3fu|tu|23
+Cascade Heights|CA||5b|3st|-9hq|22
+Castelnovo di Sotto|IT||9o|3gh|td|22|Castelnuovo di sotto
+Casco Histórico de Barajas|ES||9d|34f|-9y|22
+Casteltermini|IT||9o|2wa|11x|22
+Cascade|SC||ae|-cz|4a6|21|Kaskad
+Castel di Lama|IT||9o|3b2|124|20
+Castellamonte|IT||9o|3i2|lf|20|Castlamont
+Castello di Cisterna|IT||9o|35o|141|20
+Castellane|FR|Provence-Alpes-Côte d'Azur|9k|3c9|ey|20
+Castiglione Olona|IT||9o|3j3|on|1z
+Villanueva de Castellón|ES||9d|30k|-1f|1z|Castelló de la Ribera;Villanueva de Castellán
+Castel San Giorgio|IT||9o|35a|14u|1y
+Cashmere|NZ||ak|-3d1|dbj|1x
+Châtillon-sur-Seine|FR||9k|3oy|cp|1x|Castillonum ad Sequanam
+Casserengue|BR||2w|-iu|-2ri|1x
+Casano-Dogana-Isola|IT||9o|3eg|rv|1v
+Cassolnovo|IT||9o|3i0|oh|1v
+Casatenovo|IT||9o|3iy|pv|1v|Casatenaovo;Casatenuovo
+Casabianca|CO||27|e4|-5so|1u|Casablanca
+Castrezzato|IT||9o|3if|rq|1t
+Castroville|US|California|3p|2u5|-9e8|1t
+Castle Donington|GB||9b|42s|-3q|1s|Kasel-Doningtono;Castle Donnington
+Casteggio|IT||9o|3h1|pd|1r
+Castillo|DO||4v|1hd|-5ej|1r
+Casapesenna|IT||9o|35v|13a|1r
+Castelcovati|IT||9o|3ie|rn|1q
+Luqa|MT||9e|2rm|149|1q|Casal Luca;Luca
+Castleridge|CA||2s|3xz|-8sk|1p
+Castel Madama|IT||9o|38l|zr|1o
+Castelsardo|IT||9o|35n|o7|1o|Caltheddu;Castrum Sardum;Casteddu Sardu;Kastelsardo
+Castuera|ES||9d|2zl|-fe|1n
+Castel di Sangro|IT||9o|382|137|1n
+Castro|ES||9d|3at|-l2|1m
+Castries|FR||9k|3dc|b2|1m|Càstias
+Caselle|IT|Veneto|9o|3i5|wu|1l
+Ca' Savio|IT||9o|3i9|ym|1l
+Casorate Sempione|IT||9o|3iv|ob|1l
+Castro de Rei|ES||9d|3c1|-kk|1l
+Casey|AU||8l|-2pp|bi5|1l
+Château-du-Loir|FR||9k|3oh|16|1k|Castrum ad Iaedum
+Castrocaro Terme e Terra del Sole|IT||9o|3er|x8|1k
+Casarza Ligure|IT||9o|3ez|q9|1i
+Casariche|ES||9d|2vl|-d8|1i
+Châteaulin|FR||9k|3pw|-bd|1i|Kastellin;Castrolinum
+Castiglione del Lago|IT||9o|3bs|xg|1h
+Castelnuovo del Garda|IT||9o|3i8|tw|1h|Castelnuovo di Garda
+Casebrook|NZ||ak|-3cs|dbf|1h
+Casas Grandes|MX||2g|2ce|-8bv|1h
+Castro Pretorio|IT||9o|38f|yq|1g
+Casorezzo|IT||9o|3ig|oq|1g
+Scarperia|IT||9o|3e7|vj|1g|Castrum Sancti Barnabae
+Castiglione Torinese|IT||9o|3hc|lp|1f
+Castro Marim|PT||99|2ve|-ko|1f
+Casteljaloux|FR||9k|3f3|9|1f|Castèlgelós
+Castillo de Locubín|ES||9d|2w9|-ay|1f
+Casalbordino-Miracoli|IT||9o|393|14k|1e|Casalbordino
+Caseara|BR||1k|-ps|-3us|1e
+Castelnuovo di Garfagnana|IT||9o|3ej|sx|1e
+Casaleone|IT||9o|3hh|v3|1d
+Le Quesnoy|FR||9k|3vl|a4|1d|Cassanetum
+Castleside|GB||9b|48b|-58|1d
+Għaxaq|MT||9e|2rl|14c|1d|Hal Ghaxiak;Ghashiak;Casal Asciak;Axiak;Ashiak
+Castro Verde|PT||99|2wq|-mh|1d
+Cashmere|AU||8c|-23u|bsr|1c
+Caselle|IT|Veneto|9o|3i5|ua|1c
+Căşeiu|RO||8u|3n2|1ub|1c|Căşei
+Castelnuovo Scrivia|IT||9o|3gy|oo|1c
+Castro Daire|PT||99|35m|-m1|1b
+Castilblanco de los Arroyos|ES||9d|2wo|-gn|1b
+Casale di Scodosia|IT||9o|3hj|vv|1b
+Cacique Doble|BR||4w|-255|-3zi|1a|Cassique Dóble
+Castiglione d'Adda|IT||9o|3hm|qx|1a
+Casnate Con Bernate|IT||9o|3j4|p7|1a
+Cassibile|IT||9o|2uq|168|1a|Cassìbbili
+Casar de Cáceres|ES||9d|31w|-hu|19|Casal de Caçris
+Castle Hills|US||2f|2a0|-7lo|18
+Cashel|IE||8z|41w|-lx|18|Caiseal
+Casas Ibáñez|ES||9d|314|-43|18
+Casino Vecchiarello|IT||9o|31s|1ar|17
+Castro Barros|AR||1p|-2cy|-52l|17
+Cassago Brianza|IT||9o|3j2|pt|17|Cassiciacum;Cassagh
+Cascas|PE||3o|-ks|-62y|17
+Castillo de Teayo|MX||41|1ln|-7j7|17
+Castelvetro Piacentino|IT||9o|3ha|rr|17
+Castañuelas|DO||4v|1ir|-5im|16|Castañuela
+Castillo|PH||71|125|9i0|16|Casillo
+Castelgomberto|IT||9o|3im|vn|16
+Castejón|ES||9d|395|-4p|15
+Casarrubios del Monte|ES||9d|33n|-b8|15
+Castellazzo Bormida|IT||9o|3gk|nu|15|Ël Castlass
+Castle Douglas|GB||9b|48m|-ax|15|Caisteal Dhúghlais
+Castrignano De' Greci|IT||9o|33l|1eu|15|Castrignano de'Greci
+Castelraimondo|IT||9o|3c1|109|14
+Caseyville|US||2f|2zc|-6y3|14
+Casares|ES||9d|2t9|-ep|14
+Casazza|IT||9o|3j3|rj|14|Cassazza
+Castel Morrone|IT||9o|368|13v|14
+Castronno|IT||9o|3j3|oh|14
+Castle Point|US||2f|2zo|-6yp|14
+Castromediano|IT||9o|341|1ei|13
+Castel d'Ario|IT||9o|3hj|uh|13
+Casalserugo|IT||9o|3hw|x3|13|Casalis Domini Hugonis
+Custonaci|IT||9o|2xs|z9|13|Custunaci;Castonaci
+Castletown|AU||8k|-2lz|9eo|13
+Castiglione della Pescaia|IT||9o|3at|u8|13
+Castelnuovo Vomano|IT||9o|3af|12h|12
+Cassola|IT||9o|3j1|ws|12
+Casciago|IT||9o|3jb|oe|12
+Casarile|IT||9o|3hw|pa|12
+Serra Azul de Minas|BR||4w|-1f0|-3bx|12|Casa de Telha
+Castions|IT||9o|3jp|zk|12
+Castelo de Vide|PT||99|31i|-kq|12|Castello de Vide
+Castello d'Argile|IT||9o|3g4|ve|12|Castel d'Argile
+Cazères|FR||9k|3c1|31|12|Casèras
+Castelnuovo di Porto|IT||9o|390|yr|12
+Caşin|RO||8u|3kc|22b|11
+Casola di Napoli|IT||9o|352|14d|11|Casola 'e Napule
+Castel Gandolfo|IT||9o|37z|z5|11
+Caslano|CH||a7|3jp|oo|11|Caslan
+Casalbuttano|IT||9o|3hp|ro|11
+Castelvetro di Modena|IT||9o|3fm|uf|10
+Castions di Strada|IT||9o|3jj|10m|10|Cjasteons di Stradalte
+Casay|PH|Central Visayas|71|ra|9j7|10|Kasay
+Castle Pines|US||2p|31m|-83e|10
+Caswell Hill|CA||4q|40u|-88c|10
+Castleblayney|IE||8z|46c|-ip|10|Baile na Lorgan;Castleblaney;Kaslbleinis
+Casay|PH|Calabarzon|71|10u|9gc|10|Oasay
+Casirate d'Adda|IT||9o|3ie|ql|z
+Casier|IT||9o|3is|y5|z
+Castel del Piano|IT||9o|3b5|w2|z
+Monte San Biagio|IT||9o|36v|113|z|Castrum Monticelli;Munti San Biaggiu
+Castelnau-de-Médoc|FR||9k|3h3|-28|z
+Cassanayan|PH||71|w0|9ht|z|Casanayan
+Casablanca|CU||36|1sa|-6cq|y
+Castelmassa|IT||9o|3h2|vg|y
+Casselman|CA|Alberta|2s|44x|-8r2|y
+Castellar de Santisteban|ES||9d|2y9|-8p|y|Castillar de Santisteban
+San Gemini|IT||9o|3ad|yv|y|Casventum
+Castrignano del Capo|IT||9o|32n|1ez|y|Castignano del Capo
+Castanheira de Pera|PT||99|335|-mt|x
+Castellucchio|IT||9o|3hf|tl|x
+Castello di Godego|IT||9o|3ix|x0|x
+Cassville|US|Missouri|2f|2tw|-78r|x
+Cascine-La Croce|IT||9o|3dh|th|x
+Casette d'Ete|IT||9o|3c5|120|x
+Casambalangan|PH||71|1f2|9f9|x
+Casabermeja|ES||9d|2uh|-cb|x
+Castione della Presolana|IT||9o|3jj|ry|x
+Castelmaurou|FR||9k|3dc|49|x|Castèlmauron
+Casa Conejo|US||3p|2my|-96e|w
+Castanheiras|BR||4l|-vq|-4s2|w
+Castle Cary|GB||9b|3xx|-6z|w
+Castelnovo|IT||9o|3iq|vu|w
+Castel Frentano|IT||9o|398|13w|w
+Castroverde|ES||9d|3bj|-kc|w
+Castillon-la-Bataille|FR||9k|3gl|-5|w|Castilhon de la Batalha;Castellio;Castilhon de Dordonha
+Lija|MT||9e|2rq|145|w|Lidža;Lia;Casal Lia
+Castellana Sicula|IT||9o|2wz|130|w|Castiddana
+Lastro|BR||2w|-i4|-2y2|w|Castro
+Cashmere|US||3p|3o0|-9an|w
+Castelnau-d'Estrétefonds|FR||9k|3dm|3s|w
+Châteauneuf-Grasse|FR||9k|3db|je|v|Chateauneuf de Grasse;Castèunòu de Grassa
+Castletown|IM||93|467|-cx|v|Kasltaunas;Balley Chashtal;Baile Chaistil;Castletoun
+Casselman|CA|Ontario|59|3hw|-5sk|v
+Castandiello|ES||9d|3c8|-gd|v|Castandiella
+Casasimarro|ES||9d|31d|-5n|v
+Casnigo|IT||9o|3j9|rf|u
+Casa Quemada|HN|Cortés Department|56|160|-6so|u
+Châteauneuf-de-Gadagne|FR||9k|3e1|dq|u|Gadanha;Castèunòu de Gadanha
+Castellar de la Frontera|ES||9d|2sw|-f5|u
+Caseiros|BR||4w|-26j|-3zl|u
+Casamarciano|IT||9o|35p|14f|u
+Casteau|BE||8t|3wb|b5|u
+Castelândia|BR||4w|-1e9|-3vi|u
+Castagnole|IT||9o|3ix|xu|u
+Kyslytsya|UA||98|3i5|28o|u|Câșlița-Dunăre;Kyslyzja;Kyslytsia
+Nissoria|IT||9o|2wl|145|u|Casale
+Caselle|IT|Veneto|9o|3id|xd|u
+Castell de Ferro|ES||9d|2u1|-9b|u
+Castroville|US|Texas|2f|29k|-7mo|t
+Castelverde|IT||9o|3hj|rs|t
+Castri di Lecce|IT||9o|33v|1eq|t
+Castrofilippo|IT||9o|2vr|127|t|Castrufilippu
+Castlecrag|AU||8l|-2lw|bo2|t
+Čaška|MK||9u|37p|1o6|t|Chaska
+Casala-an|PH||71|pc|9ht|t
+Caselette|IT||9o|3hb|kt|t|Caslëtte;Casellette
+Castel San Niccolò|IT||9o|3di|wj|t|Castrum Sancti Nicolai
+Castel Rozzone|IT||9o|3ij|qq|s
+Castlederg|GB||9b|47z|-l3|s|Caisleán na Deirge
+Cassacco|IT||9o|3k9|10n|s|Cjassa
+Castronovo di Sicilia|IT||9o|2wo|11s|s|Castrunovu
+Cássia dos Coqueiros|BR||4w|-1n4|-3n1|s
+Castilla|PH||71|zz|9k4|s
+Castagnaro|IT||9o|3hc|vp|s
+Casali-San Potito|IT||9o|358|14s|s
+Castiglione dei Pepoli|IT||9o|3em|v0|s|Castiglione de 'Pépoli
+Cascalho Rico|BR||4w|-1fm|-3p0|r
+Casey|US||2f|316|-6sf|r
+Casuarina|AU|New South Wales|8l|-26m|bul|r
+Casian|PH||71|uo|98j|r
+Castelforte|IT||9o|36p|12f|r|Castrum Forte;Castelforti
+Casella|IT||9o|3fq|p0|r
+Bozcaada|TR||94|32o|20f|q|Tenedos;Distretto di Tenedo;Bozkada;Bozca;Tenedo;Castro;Boğçaada
+Cascavelle|MU||ag|-1kd|4fh|q
+Cassina Rizzardi|IT||9o|3j3|p2|q
+Casimcea|RO||8u|3g8|26u|q
+Casarea|IT||9o|35l|13w|p
+Castril|ES||9d|2x0|-7q|p
+Castelminio|IT||9o|3is|xb|p
+Casselton|US||2f|3ma|-7i1|p
+Castel Guelfo di Bologna|IT||9o|3ff|wg|p
+Castelbelforte|IT||9o|3hl|u9|p
+Casoni|IT||9o|3j4|wt|p
+Castle Cove|AU||8l|-2lv|bo1|p
+Castlewellan|GB||9b|46q|-gi|p|Caisleán Uidhilín
+Casarabonela|ES||9d|2u7|-dg|p
+Castleisland|IE||8z|413|-qb|p|Oileán Ciarraí
+Casciana Terme|IT||9o|3cx|ti|p|Castrum ad Aquas;Casciana Termi
+Casseneuil|FR||9k|3fg|1q|p
+Casabona|IT||9o|311|1b3|p
+Casoli|IT|Abruzzo|9o|38z|13p|p
+Cassel|FR||9k|3x4|6x|o|Kassel
+Castellina Scalo|IT||9o|3ck|v5|o
+Castagnole delle Lanze|IT||9o|3gb|mn|o
+Castilleja de Guzmán|ES||9d|2vx|-gu|o
+Casole Bruzio|IT||9o|314|19d|o
+Casupá|UY||45|-2mq|-4al|o
+Častá|SK||8s|3qg|1c8|o|Cseszte
+Kirkop|MT||9e|2rk|149|o|Casal Chircop
+Castell'Arquato|IT||9o|3gl|rf|o
+Casekow|DE||8r|43t|13h|o|Kasekow
+Casinos|ES||9d|32a|-1y|o
+Cass City|US||2q|3d4|-6f1|o
+Castion|IT||9o|3k4|y0|o
+Stroncone|IT||9o|3a3|z5|n|Castrum Hugonis;Struncuni
+Castelbello-Ciardes - Kastelbell-Tschars|IT||9o|3lj|ub|n
+Caselle Lurani|IT||9o|3hs|q0|n
+Caselle|IT|Veneto|9o|3j3|xa|n
+Castelló de Rugat|ES||9d|300|-11|n|Castellón de Rugat
+Castelliri|IT||9o|37s|11m|n
+Casalmaiocco|IT||9o|3hz|q1|n
+Cascade|US|Iowa|2f|39i|-70t|n
+Casuguran|PH||71|14w|9fx|n|Casiguran
+Castledawson|GB||9b|486|-i8|n
+Cascade Valley|US||3p|3mx|-97h|m
+Casitas|MX||41|1k9|-7gw|m
+Casa Grande|BR||4w|-1lr|-3e1|m
+Châteauneuf-du-Pape|FR||9k|3ee|df|m|Castèunòu dau Papa;Castèunòu de Papa
+El Castillo|MX|Sinaloa|3x|1sf|-87e|m|Castillo
+Căscioarele|RO|Giurgiu County|8u|3fm|1z8|m
+Castello di Brianza|IT||9o|3j4|pz|m|Castrum Brigantiae;Castell de Brianza
+Castro Urdiales|MX||41|1l8|-80e|m
+Castle Rock|US|Washington|3p|3kk|-9hf|m|Castlerock
+Castellar de Santiago|ES||9d|2z2|-94|m
+Casei|IT||9o|3h1|ot|m
+Casarrubuelos|ES||9d|33l|-an|m
+Boisseron|FR||9k|3dk|bc|m|Castrum de Boisedono
+Castel San Pietro|CH||a7|3je|p1|m|Castel San Pedru;Castello San Pietro
+Căscioarele|RO|Călărași County|8u|3el|21j|l
+Castelletto|IT|Emilia-Romagna|9o|3fg|uq|l
+Châteauneuf-le-Rouge|FR||9k|3ct|fh|l|Castèunòu lo Roge
+Caseros|AR||1n|-2i7|-4ig|l
+Castleconnell|IE||8z|42f|-nm|l|Caisleáñ Ui Chonaill
+Castel Sant'Elia|IT||9o|39d|yd|l
+Campo de Caso|ES||9d|3by|-eu|l|Caso;Casu
+San José Casas Caídas|MX||41|1kq|-7wk|l|Casas Caídas;San José de Casas Caidas
+Castelfranco di Sopra|IT||9o|3d6|w4|l|Castrum Francum Superius;Castelfrancu di Supra;Castelfranco de Sora
+Castlewood|US|Virginia|48|2uh|-6ck|k|Castles Woods;Castle's Woods
+Casacalenda|IT||9o|37y|159|k
+Castrelo de Miño|ES||9d|39g|-mj|k
+Casaloldo|IT||9o|3hp|t4|k
+Castelnuovo Don Bosco|IT||9o|3h4|m4|k|Castelneuv Don Bòsch;Castrum Novum Astensium
+Castel San Lorenzo|IT||9o|34a|16b|k
+Castiglione in Teverina|IT||9o|3ah|xw|k
+Castlerea|IE||8z|45d|-nm|k|An Caisleán Riabhach
+Castets|FR||9k|3dw|-37|k
+Casco|IT||9o|3iz|ra|k
+Cassine|IT||9o|3gb|np|k
+Castelveccana|IT||9o|3jn|o3|k|Castrum Veccana
+Casalmoro|IT||9o|3hq|sx|k
+Castranova|RO||8u|3ek|1uq|j
+Castelluccio Inferiore|IT||9o|334|18e|j
+Castelluccio dei Sauri|IT||9o|36q|170|j
+Castanea delle Furie|IT||9o|2ya|174|j
+Castello|IT|Lombardy|9o|3jn|o4|j
+Casina|IT||9o|3fn|t6|j
+Newcastle Emlyn|GB||9b|40k|-cf|j|Castellnewydd Emlyn;Castell Newydd Emlyn
+Castelnau-Montratier|FR||9k|3ez|3r|j|Castelnau-de-Montratier;Castelnau-le-Montratier
+Casalfiumanese|IT||9o|3f2|wa|j|Casale Fiumanese
+Castiglion Fibocchi|IT||9o|3cx|wo|j|Castiglione Fibocchi
+Castagnole Piemonte|IT||9o|3gq|l1|i
+Caserío de Cortés|MX||41|1hc|-7mv|i
+Castlebridge|IE||8z|41j|-hx|i|Droichead an Chaisleáin;Kaslbridžas
+Cassinetta di Lugagnano|IT||9o|3i6|or|i
+Castropodame|ES||9d|3aa|-hz|i
+Castiglione di Sicilia|IT||9o|2x8|160|i|Castigghiuni di Sicilia
+Casola Valsenio|IT||9o|3eu|wa|i
+Castro|IT|Apulia|9o|335|1f7|i
+Castelculier|FR||9k|3eq|1x|i|Castèlculhèr
+Castelmoron-sur-Lot|FR||9k|3fc|1d|i|Castèlmoron;Castèl Moron dÒlt
+Castel di Judica|IT||9o|2w5|14p|i|Castel di Iudica
+Casaletto Vaprio|IT||9o|3i5|qr|h
+Cassopolis|US||2q|38f|-6mx|h
+Casuarina|AU|Western Australia|8k|-2hk|8xv|h
+Castlepoint|NZ||ak|-35m|dli|h|Rangiwhakaoma
+Casahuatlán|MX||41|1fl|-7o3|h|Cazahuatlán
+Castelvetere sul Calore|IT||9o|35p|15n|h
+Castelcucco|IT||9o|3jb|x0|h
+Casette Verdini|IT||9o|3c5|118|h
+Casalincontrada|IT||9o|39i|13a|h
+Casas de Don Pedro|ES||9d|30n|-et|h
+Cascade-Chipita Park|US||2p|306|-83o|h
+Castel Chiodato|IT||9o|38u|za|h
+Castelnuovo Berardenga|IT||9o|3cf|vy|h
+Castel Giorgio|IT||9o|3an|xa|h
+Castiglione Messer Marino|IT||9o|38b|145|h
+Casola|IT||9o|366|13y|g
+Cassano Spinola|IT||9o|3gd|om|g
+Castres-Gironde|FR||9k|3g6|-18|g
+Castiraga Vidardo|IT||9o|3hq|q4|g
+Cazaubon|FR||9k|3e1|-7|g|Casaubon
+Casalvecchio di Puglia|IT||9o|37j|15z|g
+Castel Fusano|IT||9o|37z|y7|g|Castel Fusana
+Case Campoli-Panetta|IT||9o|37r|11f|g
+Caselle in Pittari|IT||9o|33l|176|g
+Castelceriolo|IT||9o|3gs|o5|g
+Častolovice|CZ||9m|3v9|18y|g
+Castellane|FR|Provence-Alpes-Côte d'Azur|9k|3dt|i3|g|Castelana;Kastelanas
+Casalmorano|IT||9o|3ht|ri|g|Casale Maurani;Casalmuran
+Casterton|AU||8j|-2we|aws|g
+Castelmauro|IT||9o|387|14v|g
+Castilléjar|ES||9d|2ws|-7c|g
+Caslino d'Erba|IT||9o|3jc|pn|g
+Casa Nueva|MX||41|1j3|-7nl|g
+Cascia|IT||9o|3ao|106|g|Cássia;Castrum Cassiae
+Castione Andevenno|IT||9o|3k9|r8|g|Castrum Sthiliconis;Castiun
+Castelletto|IT|Lombardy|9o|3hx|sf|g
+Castle Dale|US||2p|30x|-8ke|g|Castledale
+Castelrotto|IT|Trentino-Alto Adige|9o|3ld|w4|f|Kastelruth;Castrum Ruptum
+Castilla La Nueva|CO||27|an|-5op|f
+Casanova|IT|Campania|9o|36f|12s|f
+Castelnuovo di Val di Cecina|IT||9o|3c1|ua|f|Castelnuovo Val di Cecina
+Castillonnès|FR||9k|3g1|1n|f|Castilhonés
+Castlecomer|IE||8z|42p|-k1|f|Caisleán an Chomair;Kaslkomeris
+Casalazzara|IT||9o|37m|yy|f
+Castelnau-de-Lévis|FR||9k|3e2|5s|f|Castelnau-de-Bonnafous
+Castleton|US||48|3d5|-5na|f
+Sgurgola|IT||9o|37r|10j|f|Castrum Sculculae
+Castlerock|GB||9b|497|-iu|f
+Castledermot|IE||8z|42z|-j0|f|Díseart Diarmada;Kasldermotas;Diseart Diarmad
+Castleton-on-Hudson|US||48|3a4|-5ov|f
+Cast|FR||9k|3ps|-bi|f|Kast
+Cascinette d'Ivrea|IT||9o|3ic|lz|f
+Casavieja|ES||9d|33w|-d9|f
+Cusuna|HN||56|181|-6kr|e|Casuna;Cusuma
+Hrvatska Kostajnica|HR||a6|3hn|19y|e|Castanopolis
+Castelnuovo Bocca d'Adda|IT||9o|3hb|re|e
+Casson|FR||9k|3nn|-4c|e|Kazon
+Cash|MX||41|196|-73u|e|Caxh
+Castelvenere|IT||9o|36j|14f|e
+Casa Blanca|MX|Sinaloa|3x|1yn|-8d7|e
+Castelnuovo della Daunia|IT||9o|37i|160|e
+Casalnuovo Monterotaro|IT||9o|37m|15y|e
+Castagniers|FR||9k|3dn|k3|e
+Castor|GB||9b|421|-z|e
+Casa Blanca|US||4i|2k0|-8mt|e
+Castle Bruce|DM||2r|16w|-4q6|e
+Casatejada|ES||9d|32t|-fs|e
+Caspoggio|IT||9o|3ki|re|e
+Castelmassimo|IT||9o|37q|116|e
+Castellina in Chianti|IT||9o|3cq|vd|e
+Casale|IT|Campania|9o|36i|12w|e
+Castello del Matese|IT||9o|36x|13y|e
+Castro|IT|Lombardy|9o|3j8|rz|d
+Casalarreina|ES||9d|3a7|-83|d|Nafarruri;Casalareina
+Casa del Diavolo|IT||9o|3bz|yl|d
+Casale Cremasco|IT||9o|3i7|qz|d
+Casa Blanca|MX|Querétaro|41|1kn|-7pu|d
+Casas de Juan Núñez|ES||9d|30m|-4c|d
+Castellví de Rosanes|ES||9d|375|5a|d
+Cazes-Mondenard|FR||9k|3ev|3c|d|Cases e Montdenard
+Casas de Fernando Alonso|ES||9d|31b|-6g|d
+Castelo Branco|PT|Azores|81|2z0|-27r|d|Castello Branco
+Casine|IT||9o|3d7|10i|d
+Castel di Lucio|IT||9o|2x9|13r|d|Castel di Luciu
+Castell'Umberto|IT||9o|2xt|155|d|Castania;Castello Umberto
+Berre-les-Alpes|FR||9k|3dr|kd|d|Berre-les Alpes;Bèrra;Castrum Berrae;Berre-des-Alpes;Berre
+Castelluccio Valmaggiore|IT||9o|36u|168|d
+Cassville|US|New York|48|3bb|-5t1|d
+Castlemartyr|IE||8z|407|-md|d|Baile na Martra
+Casar de Palomero|ES||9d|33x|-he|d
+Castignano|IT||9o|3ba|11v|d
+Castrele Traiane|RO||8u|3ev|1sa|d
+Casalgrasso|IT||9o|3gi|l6|d|Casalgrass
+Castelseprio|IT||9o|3iz|om|d
+Castelletto d'Orba|IT||9o|3g4|o6|d
+Casalbore|IT||9o|36j|15p|c
+Castelsaraceno|IT||9o|33k|18f|c
+Castelnuovo dei Sabbioni|IT||9o|3cy|vt|c|Castelnuovo de'Sabbioni
+Castelnovo Bariano|IT||9o|3h3|vd|c
+Cascade|JM||3i|1f4|-60y|c
+Castiglione|IT||9o|332|1ez|c
+Casone|IT||9o|3ie|oo|c
+Castro Caldelas|ES||9d|39p|-kn|c
+Castrocalbón|ES||9d|398|-gm|c
+Castets-en-Dorthe|FR||9k|3fs|-f|c|Castèths dAndòrta;Castèths Andòrta
+Castiglione del Genovesi|IT||9o|354|159|c
+Castello|IT|Lombardy|9o|3il|t7|c
+Castle Hayne|US||48|2ng|-60e|c
+Căstău|RO||8u|3j9|1sh|c
+Castel di Sasso|IT||9o|36f|13o|c
+Castletown|IE||8z|42g|-h7|c|Baile an Chaisleáin
+Casale Corte Cerro|IT||9o|3jk|nd|c
+Casalzuigno|IT||9o|3jj|o7|c
+Castelleone di Suasa|IT||9o|3d5|102|c
+Castilblanco|ES||9d|314|-e5|c
+Castlepollard|IE||8z|454|-ka|c|Baile na gCros;Castelpollard
+Castagneto Carducci|IT||9o|3bw|th|c
+Cascade Locks|US||3p|3iv|-9el|c
+Casate|IT||9o|3id|oj|c
+Casinina|IT||9o|3dq|yy|c
+Castlereagh|AU||8l|-2ll|bmk|b
+Casa de Cerros|MX||41|1rk|-7ws|b
+Castelbaldo|IT||9o|3hc|vu|b
+Castlebellingham|IE||8z|45q|-hr|b|Baile an Ghearlánaigh;Castle Bellingham;Kaslbelinheimas
+Castanea|US||48|368|-5z3|b
+Casacorba|IT||9o|3iu|xg|b
+Castellserà|ES||9d|37z|2s|b
+Castello Molina di Fiemme|IT||9o|3kk|vr|b|Castello-Molina di Fiemme;Castello di Fiemme;Castello di Fiemmo
+Châtillon-sur-Cluses|FR||9k|3k1|ia|b|Castellio Fulciniacorum
+Cîşliţa-Prut|MD||8x|3ii|269|b|Kislitsa Prut;Câşliţa-Prut
+Castillo de Bayuela|ES||9d|33e|-d1|b
+Cascano|IT||9o|36j|12t|b
+Castelfranci|IT||9o|35p|15s|b|Castrum de Francis
+Le Castella|IT||9o|303|1ba|b|Castella
+Castamay|MX||3z|1j4|-6z7|b
+Cashton|US||2f|3di|-706|b
+Castello Tesino|IT||9o|3jy|wb|b
+Casteltodino|IT||9o|3aj|yq|b
+Cașoca|RO||8u|3id|20z|b
+Cascinare|IT||9o|3c6|123|b
+Casoli|IT|Abruzzo|9o|3ae|12u|b
+Castel Viscardo|IT||9o|3ar|xc|b
+Casaletto Ceredano|IT||9o|3hw|qq|b
+Castillon-du-Gard|FR||9k|3e5|cn|b
+Castello d'Agogna|IT||9o|3hn|o5|b
+Castrocontrigo|ES||9d|396|-h7|b|Castrocontigo
+Castle Hedingham|GB||9b|40f|1o|b
+Castello di Annone|IT||9o|3go|n4|b|Castel d'Anon;Castello Annone;Castello d'Annone
+Castellafiume|IT||9o|38n|111|b
+Casas de Benítez|ES||9d|31d|-5x|b
+Castronuño|ES||9d|36z|-em|b
+Casalini|IT||9o|356|1cj|b
+Casalromano|IT||9o|3hk|st|b
+Castañar de Ibor|ES||9d|323|-f2|b
+Cassino d'Alberi|IT||9o|3i3|q3|a
+Castelluzzo|IT||9o|2xu|ze|a
+Cascina Elisa|IT||9o|3io|og|a
+Castell'Alfero|IT||9o|3gz|mu|a|Castel Alfè
+Cassagnes-Bégonhès|FR||9k|3ep|71|a|Cassanhas de Begonhés;Cassagnes-Bégonnès
+Casa Quemada|HN|Santa Bárbara Department|56|16f|-6tz|a
+Castine|US||48|3fb|-5b4|a
+Cáseda|ES||9d|3a4|-3t|a
+Caselle Landi|IT||9o|3ha|r8|a
+Casalbuono|IT||9o|33p|17l|a
+Casole d'Elsa|IT||9o|3ce|up|a|Casole d' Elsa
+Castelletto di Branduzzo|IT||9o|3h7|pa|a
+Casamassella|IT||9o|33f|1f9|a
+Castelpoto|IT||9o|36a|14u|a
+Castiglione Cosentino|IT||9o|31b|199|a
+Castelnau-de-Guers|FR||9k|3co|9k|a
+Castelcivita|IT||9o|34h|16b|a
+Casas Viejas|MX|México|41|1h7|-7q3|a
+Case Nuove|IT|Lombardy|9o|3ip|sv|a
+Castelnuovo|IT|Lombardy|9o|3hp|t2|a
+Case Cibba-Sciascia-Crocifisso-Tondarella-Virano|IT||9o|37v|11b|a
+Castellnovo|ES||9d|32r|-19|a|Castellnou de Sogorb
+Gagnières|FR||9k|3f3|bh|a|Castilhon de Ganhièira
+Cassidy|CA||5b|3s9|-9k5|a
+Castelsilano|IT||9o|313|1al|a
+Casteren|NL||8m|3ys|ek|a|Kasteren
+Castile|US||48|3af|-60t|a|Castle
+Castell'Azzara|IT||9o|3at|wi|a|Castell'Azzaru
+San Venanzo|IT||9o|3b3|y3|a|Castrum Sancti Venantii;San Venanzu
+Châteauneuf-Villevieille|FR||9k|3dp|ka|a|Châteauneuf;Castèunòu de Còntes;Castrum Novum Nicaeensium;Castèunòu e Vilavièlha;Châteauneuf-de-Contes;Châteauneuf-Contes
+Case Nuove Russo|IT||9o|2xy|15n|a
+Castions delle Mura|IT||9o|3jd|10y|a
+Case Badioli|IT||9o|3e3|zh|a
+Castelmarte|IT||9o|3jb|pn|a
+Castelnuovo di Conza|IT||9o|35e|16k|a
+Casale|IT|Emilia-Romagna|9o|3gs|sz|a
+Castellfollit de la Roca|ES||9d|39a|73|a
+Castelvecchio Subequo|IT||9o|391|125|a|Castelvécchio in Subéquo
+Casalbeltrame|IT||9o|3i8|nj|a
+Castelnau-de-Montmiral|FR||9k|3e5|52|a|Castelnau-de Montmirail
+Caselle|IT|The Marches|9o|3b0|11z|a
+Castelldans|ES||9d|37a|25|a
+Casalbagliano|IT||9o|3gq|nt|9
+Castagneto Po|IT||9o|3hg|lx|9|Castagné
+Casa Blanca (Cuyotliapa)|MX||41|1fn|-7ln|9
+Cascade|US|Idaho|28|3fo|-8yc|9
+Casale Litta|IT||9o|3j5|oa|9
+Casanova del Morbasco|IT||9o|3hg|ro|9
+Castrogeriz|ES||9d|39h|-bi|9|Castrojeriz
+Cassville|US|Wisconsin|2f|3an|-70r|9
+Casciano|IT||9o|3bw|vh|9
+Casalborgone|IT||9o|3hd|m2|9|Casalborgon
+Cascine San Pietro|IT||9o|3if|qh|9
+Casteldarne|IT||9o|3m0|ww|9|Ehrenburg
+Casaleggio Novara|IT||9o|3id|nl|9
+Castelbello|IT||9o|3lj|ub|9
+Casa Blanca|MX|Zacatecas|41|1rk|-7w7|9
+Cascina Nuova|IT||9o|3it|p6|9
+Castelletto Stura|IT||9o|3fg|l8|9
+Casalbellotto|IT||9o|3gw|t4|9
+Castle Hill|AU|Queensland|8c|-1hi|bbs|9
+Case Bruciate|IT||9o|3dy|zn|9
+Caserana|IT||9o|3du|ul|9
+Casinu Nou|RO||8u|3kc|20d|9|Caşinul Nou
+Casas Coloradas|MX||41|1i3|-7px|9
+Casa Blanqueada|PE||3o|-ae|-67h|9
+Casas del Monte|ES||9d|33o|-gk|9
+Cascina Restelli|IT||9o|3iw|oz|9
+Castelvetere in Val Fortore|IT||9o|374|15i|9
+Casas Viejas|MX|Veracruz|41|1dz|-7cm|9
+Casa Veche|RO||8u|3gn|1vk|9
+Castelnuovo Parano|IT||9o|36y|128|9
+Casterno|IT||9o|3i7|on|9
+Casa Blanca|MX|Querétaro|41|1ln|-7r6|9
+Castellano|IT|The Marches|9o|3c6|124|9
+Castelmayran|FR||9k|3eb|2w|9
+Castrocielo|IT||9o|37d|122|9
+Caspian|US||3y|3jy|-6u7|9
+Castelnuovo Bozzente|IT||9o|3j4|ou|9
+Castéra-Verduzan|FR||9k|3dp|17|9
+Castel Baronia|IT||9o|361|167|9
+Castellar|FR||9k|3do|ku|9
+Castletownbere|IE||8z|3zh|-rj|9|Castletown Bearhaven;Baile Chaisleáin Bhéarra;Castletown Berehaven
+Castel del Bosco|IT||9o|3db|tq|9
+Castiglione d'Intelvi|IT||9o|3jo|p9|9
+Castelletto Monferrato|IT||9o|3gy|ns|9
+Castel di Tusa|IT||9o|2xl|13m|9
+Castelvecchio|IT||9o|3de|10a|9
+Castle Acre|GB||9b|42e|1x|8
+Cashion|US||2f|2rg|-7jc|8
+Castelnau-de-Brassac|FR||9k|3d9|6z|8
+Casavitola|IT||9o|37p|11c|8
+Castletown|GB||9b|4ir|-9f|8
+Casillas|ES||9d|341|-cp|8
+Casas de Haro|ES||9d|319|-6b|8
+Castelnuovo Misericordia|IT||9o|3co|t1|8
+Casini|IT||9o|3du|uk|8
+Castelguglielmo|IT||9o|3h3|w2|8
+Cascine Maggio|IT||9o|3j4|oh|8
+Castalia|US||48|370|-6e1|8|Cestalia
+Casacancha|PE|Huancavelica|3o|-zj|-5rb|8
+Castell|DE||8r|3u6|sr|8
+Castellina Marittima|IT||9o|3cl|te|8
+Casalvolone|IT||9o|3i4|ni|8
+Castellaneta Marina|IT||9o|34f|1b2|8
+Casanova di Torre|IT||9o|3c9|z6|8
+Castelserás|ES||9d|35u|-f|8
+Casalborsetti|IT||9o|3fr|y4|8
+Casas de Ves|ES||9d|311|-3p|8
+Castellazzo|IT||9o|3ib|ou|8
+Casa Nueva (Casa Nueva Yebuciví)|MX||41|1i5|-7pk|8
+Castelnuovo|IT|Umbria|9o|3bj|yy|8
+Castelnau-Magnoac|FR||9k|3c9|1f|8|Castelnac-Magnoac
+Castle Comfort|DM||2r|16g|-4qh|8
+Casacanditella|IT||9o|39d|13g|8
+Casali|IT||9o|399|zk|8
+Castlefin|IE||8z|488|-l4|8|Caisleán na Finne
+Castellote|ES||9d|35c|-w|8|Castellot
+Castelnau-sur-Gupie|FR||9k|3fs|d|8|Castelnaud-sur-Gupie
+Cassaro|IT||9o|2v3|15j|8|Cassaru
+Castelnuovo|IT|Trentino-Alto Adige|9o|3jx|vx|8|Castelnovo
+Castejón de Sos|ES||9d|3a3|1d|8|Castilló de Sos
+Casa Blanca|MX|Michoacán|41|1j6|-7r1|8
+Casalnoceto|IT||9o|3gr|oy|8
+Castenray|NL||8m|3z1|gr|8|Castenraai;Castenraij
+Kaster|BE||8t|3x5|9q|8|Caster
+Cascapedia-Saint-Jules|CA||59|3q1|-533|8
+Castellana|IT|Abruzzo|9o|39s|137|8
+Castorano|IT||9o|3b6|125|8
+Castione|IT||9o|3k9|r8|8
+Cassington|GB||9b|3zv|-3r|8
+Cass Lake|US||2f|3nm|-7as|7
+Caseville|US||2q|3e2|-6fb|7
+Castellazzo de' Barzi|IT||9o|3i8|oq|7
+Case del Molino|IT||9o|3e7|z1|7
+Castegnero|IT||9o|3i8|w6|7
+Castelgrande|IT||9o|35b|16v|7
+Castelnuovo|IT|Abruzzo|9o|3ap|122|7
+Castelmezzano|IT||9o|34l|18l|7
+Casto|IT||9o|3ix|so|7
+Castel del Rio|IT||9o|3et|vy|7
+Castelfranco in Miscano|IT||9o|36q|15x|7
+Casatisma|IT||9o|3h5|pd|7
+Castellabate|IT||9o|33w|15k|7|Castiellabbate
+Castétis|FR||9k|3cr|-1z|7|Castethins
+Castellnou de Seana|ES||9d|37p|2p|7
+Casape|IT||9o|38f|zt|7
+Casal Cermelli|IT||9o|3gj|ny|7
+Castellinaldo|IT||9o|3gd|mb|7
+Castelrotto|IT|Piedmont|9o|3g9|m9|7
+Casas de Millán|ES||9d|32m|-hl|7
+Casaletto Spartano|IT||9o|33j|17e|7
+Cascade|US|Wisconsin|2f|3da|-6sh|7
+Cassville|US|West Virginia|48|327|-66e|7
+Casa Blanca|MX|México|41|1hs|-7q9|7
+Casa Blanca|MX|Tlaxcala|41|1im|-7kw|7
+Cascade|US|Montana|2p|3nb|-8ma|7
+Castagnole Monferrato|IT||9o|3gw|n3|7
+Lajatico|IT||9o|3cr|tt|7|Castrum Aiatici;Lajaticu
+Castiglione Mantovano|IT||9o|3hq|u1|7
+Castelnau-Rivière-Basse|FR||9k|3d2|-3|7|Castèthnau de Ribèra Baisha;Castèthnau dArribèra
+Casa Rocco d'Amato|IT||9o|350|157|7
+Novi Kaplany|UA||98|3ka|29r|7|Cașpalat
+Herriko Plaza|ES||9d|3bt|-7q|7|Castillo-Elejabeitia;Plaza de Castillo-Elejabeitia
+Castle Camps|GB||9b|40m|12|7|Castle Camp
+Castelluccio Superiore|IT||9o|335|18d|7
+Castelnuovo Belbo|IT||9o|3gg|nd|7
+Casas|MX||44|1tx|-7ma|7
+Casa Blanca|MX|Hidalgo|41|1k8|-7mz|7
+Castronuovo di Sant'Andrea|IT||9o|33n|18z|7
+Castejón de Monegros|ES||9d|37m|-o|7
+Casale della Madonna|IT||9o|3j6|10l|7
+Cascina Valle-Stazione di Carimate|IT||9o|3ix|pb|7
+Arconciel|CH||a7|3lv|js|7|Castrum Arconciacum
+Casa Blanca|MX|Querétaro|41|1m5|-7pp|7
+Cașolț|RO||8u|3j6|1vg|7
+Castroreale|IT||9o|2xu|169|7|Castruriali
+Casas del Castañar|ES||9d|33f|-gf|7
+Castelletto Po|IT||9o|3h7|pa|7
+Castaways Beach|AU||8c|-21f|bta|7
+Casal Velino|IT||9o|33n|15z|7
+Casale Marittimo|IT||9o|3ca|ti|7
+Casargo|IT||9o|3jw|q3|6
+Case Dosa|IT||9o|3ie|xw|6
+Castillo de Villaseñor|MX||41|1kc|-7uw|6
+Cașva|RO||8u|3ly|1x4|6|Kaşva
+Castilleja del Campo|ES||9d|2vv|-hl|6
+Casa Blanca|PE||3o|-107|-5we|6
+Castlewood|US|South Dakota|2f|3g8|-7hj|6
+Casette|IT|Tuscany|9o|3eg|s9|6
+Case Nuove|IT|Umbria|9o|3bj|z4|6
+Casello dei Morti|IT||9o|320|18s|6
+Cascinazza|IT||9o|3i6|oo|6
+Castionetto|IT||9o|3ka|rs|6
+Casacastalda|IT||9o|3c0|z5|6
+Caselle|IT|Veneto|9o|3hr|vk|6
+Castiglione d'Orcia|IT||9o|3bg|w9|6
+Casorzo|IT||9o|3h2|n6|6
+Niedergesteln|CH||a7|3kn|lm|6|Castillio Inferior;Niedergestelen
+Casperia|IT||9o|39m|z7|6
+Cassagne|FR||9k|3bs|2r|6
+Case Manzoni-Pascolo-Coroldo|IT||9o|3j7|pv|6
+Castelnuovo di Farfa|IT||9o|39b|ze|6
+Cassadaga|US||48|39m|-64b|6
+Cases-de-Pène|FR||9k|3au|7r|6|Les Cases de Pena
+Casaburi|IT||9o|338|16i|6
+Castel Campagnano|IT||9o|36e|145|6|Castrum Campanianum;Castel Campagnanu
+Castrillo de la Vega|ES||9d|37p|-ai|6
+Casette|IT|Friuli Venezia Giulia|9o|3jd|zs|6
+Castellano|IT|Trentino-Alto Adige|9o|3jk|ul|6
+Cassina Fra Martino|IT||9o|3j0|q7|6
+Casares de las Hurdes|ES||9d|34b|-hg|6
+Casas Viejas|MX|Sinaloa|3x|1us|-88p|6
+Castelvecchio Pascoli|IT||9o|3eg|t2|6
+Casco|US|Maine|48|3e9|-5fw|6|Casko
+Castel d'Aiano|IT||9o|3f0|uk|6
+Castello Lavazzo|IT||9o|3kk|y7|6|Castellavazzo
+Casco|US|Wisconsin|2f|3fs|-6re|6
+Castellino del Biferno|IT||9o|37u|14x|6
+Castellanos de Villiquera|ES||9d|361|-ft|6
+Castel di Leva|IT||9o|382|yv|6
+Casateia|IT||9o|3m8|vp|6
+Castel Ritaldi|IT||9o|3ay|z7|6
+Casa Quemada|MX||41|1hp|-7hi|6
+Castleberry|US||2f|2ey|-6pq|6
+Casottole|IT||9o|3hn|p7|6
+Castelnuovo Bormida|IT||9o|3ga|nr|6
+Castrejón de la Peña|ES||9d|3ax|-cs|6
+Ca' Sabbioni|IT||9o|3ia|xu|6
+Casi|IT||9o|36m|130|6
+Castelnau-de-Mandailles|FR||9k|3fq|81|6
+Castellare-di-Casinca|FR||9k|39z|qb|6|Castellare di Casinca;U Castellà di Casinca
+Čáslavice|CZ||9m|3sj|17t|6
+Castalian Springs|US||2f|2t3|-6nr|6
+Castelsagrat|FR||9k|3eq|2n|6
+Casette|IT|Lazio|9o|39q|zv|6
+Častkov|SK||8s|3rf|1c7|6
+Cassano|IT||9o|35z|14v|5
+Castellcir|ES||9d|380|60|5
+Castelnaud-de-Gratecambe|FR||9k|3fm|1v|5
+Castelnuovo d'Elsa|IT||9o|3d8|ue|5
+Castelnovetto|IT||9o|3hp|nx|5
+Casalanguida|IT||9o|38s|14a|5
+Castagna|IT||9o|30i|19o|5
+Castelferrato|IT||9o|39q|13i|5
+Monte Castello di Vibio|IT||9o|3b0|yb|5|Castrum Vibiense;Munti Casteddu di Vibiu
+Casabianca|IT||9o|3hm|m3|5
+Castrogonzalo|ES||9d|38n|-fk|5
+Casteldidone|IT||9o|3h7|sx|5
+Castello Monteleone|IT||9o|35m|138|5
+Častrov|CZ||9m|3sz|166|5|Častrow
+Castagnito|IT||9o|3gb|mb|5
+Casas de los Pinos|ES||9d|319|-6l|5
+Casacancha|PE|Junin|3o|-x3|-5t2|5
+Castelluccio|IT||9o|3cw|wv|5
+Castiglione della Valle|IT||9o|3bi|y1|5
+Castelnau-Chalosse|FR||9k|3da|-2c|5
+Casaglia|IT||9o|3gq|w2|5
+Casanova|IT|Friuli Venezia Giulia|9o|3k0|10m|5
+Cassaniouze|FR||9k|3g5|6m|5|Cassaniouse
+Castel dell'Aquila|IT||9o|3ag|yh|5
+Casignana|IT||9o|2xu|18p|5
+Castelnuovo Fogliani|IT||9o|3go|rp|5
+Case Nuove|IT|Tuscany|9o|3d2|uh|5
+Castello Cabiaglio|IT||9o|3jh|oc|5
+Castelromano|IT||9o|37m|13g|5
+Case Cocconi|IT||9o|3gf|t8|5
+Castrillo del Val|ES||9d|39j|-9z|5
+Casa del Campesino|MX||44|1sm|-7mk|5
+Casalduni|IT||9o|36m|14u|5
+Casimiro Leco (El Cerecito)|MX||41|1ix|-7v9|5
+Casteldelci|IT||9o|3dn|xs|5
+Castagnolo Minore|IT||9o|3fx|vm|5
+Caspar|US||3p|31c|-9jy|5
+Castellace|IT||9o|2yg|18a|5
+Castello di Pratofontana|IT||9o|3ga|tn|5
+Cascine Calderari|IT||9o|3hn|pd|5

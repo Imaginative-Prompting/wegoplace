@@ -1,0 +1,931 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Karachi|PK||6q|1x2|565|2hoy|pechs;Karatschi;Karaĉio;Karačis;Karāči;Karaczi;Carachi;Karatxi;Keraçî;Karacsi;Karatsji;Karaaji;Karačės;Karochi;Karanchi;Karasi;Kurrachi
+Caracas|VE||2c|t5|-55s|n5c|Karakaso;Caracae;Karakasas;Karakas;Karakasa;Caraques
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Kharkiv|UA||98|3uu|2sp|ayr|Charkiw;Charkiv;Ĥarkov;Harkiv;Harkova;Charcovia;Charkovas;Harkiva;Charkov;Charków;Carcóvia;Kharkov;Jarkov;Ĥarkivo;Khar’kov
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Cartagena|CO||27|sw|-5tp|722|Carthagène des Indes;Kartageno;Cartaxena de Indias;Kartachena;Caratagena de Indias;Carthagène
+Charlotte|US|North Carolina|48|2pv|-68k|715|Sharlot;Carolinum;Šarlotė;Šarlota;Şarlott;Ŝarloto
+Kraków|PL||a5|3v2|1je|6au|Krakau;Cracovia;Krakov;Krakovo;Krakovia;Krakova;Cracovie;Krakkó;Krokuva;Cracaû;Kraká;Krakovja;Krakůw;Krakovi;Carcovia;Cracow;Krakoo
+Zaragoza|ES||9d|37q|-2g|5au|Saragossa;Salduie;Saragoso;Saragosse;Saragozza;Caesarea Augusta;Saragosa;Saragoça;Zaragosa;Çaragoça;Saragoza;Saraqosa;Caesaraugusta;Zargoza
+Carrefour|HT||4j|1fh|-5l4|3y1|Kafou
+Venustiano Carranza|MX|Mexico City|41|1i0|-7na|3bq
+Caruaru|BR||4p|-n0|-2ry|33r
+Carapicuíba|BR||4w|-1tc|-3m3|2zi
+Cariacica|BR||4w|-1ka|-34a|2wi
+Cardiff|GB||9b|3z0|-8u|2vd|Caerdydd;Kerdiz;Kardydh;Kardifas;Kadif;Kārdifa;Kardip;Kardiff;Cayr Deeth;Cairdiff
+Córdoba|ES||9d|2x9|-d9|2ih|Còrdova;Kordovo;Cordoue;Corduba;Kordova;Kordoba;Kordowa;Còrdoa;Cardoue
+Karlsruhe|DE||8r|3s5|nc|26u|Carolsruha;Karlsrūe;Karlsrūjė;Kallsruh;Carlsruhe
+São Carlos|BR|São Paulo|4w|-1p6|-3p1|220|Urbs Carlopolitana;San Karlosas
+Carabanchel|ES||9d|347|-ac|1yh|Karabanĉelo
+Cartagena|ES||9d|2wg|-2q|1nf|Carthago Nova;Carthagène;Kartagena;Cartachena;Kartaĥeno;Kartachena;Kartagjena;Cartaxena;Kartahena
+Charleroi|BE||8t|3w1|cc|1jl|Ŝarlero;Tchålerwè;Šarlruā;Šarlerua;Carleroé;Caroloregium
+Ciudad Lázaro Cárdenas|MX||41|1dw|-7vw|1ig|Lázaro Cárdenas
+Ciudad del Carmen|MX||3z|1ft|-733|1h4|Carmen;Cd Carmen;Cd. Carmen;Cd del Carmen;Cd. del Carmen;Altepetl Carmen
+Carletonville|ZA||o|-218|244|1en
+Carolina|PR||4m|1f2|-538|1bc|Caroline;Karolina
+Carúpano|VE||2c|tn|-4vp|1ag|Karupanas
+Cary|US|North Carolina|48|2rf|-62u|18e|Keris
+Playa del Carmen|MX||2b|1lb|-6pw|15n|Plaja del Karmen;Plaja del Karmena
+Cagliari|IT||9o|30z|pc|15h|Càller;Kaljaro;Caralis;Casteddu;Castèl;Kalyari;Kagliari;Kaljaris;Kaljāri;Càliari;Cajari
+Ahuntsic-Cartierville|CA||59|3il|-5on|11l
+Cartago|CO|Valle del Cauca Department|27|d7|-5uv|11i
+Carrollton|US|Texas|2f|2jj|-7h5|110|Karoltonas
+Charleston|US|South Carolina|48|2j2|-661|10u|Carolopolis;Ĉarlstono;Charlstown;Charles Town;Charles Towne;Charlestowne;Charlstoun
+Carnot|CF||6|dq|184|zu
+San Carlos del Zulia|VE||2c|p0|-5jt|z4
+Caraguatatuba|BR||4w|-1tm|-3i5|ya|Caragua
+Carora|VE||2c|s9|-5eo|xt
+San Carlos|VE||2c|qu|-5aj|xg|San Karlosas;San-Karlos
+Carlsbad|US|California|3p|2k4|-91z|vv
+Punta Cardón|VE||2c|we|-5f1|vo
+Carmona|PH||71|13r|9ca|v5
+Cárdenas|CU||36|1s0|-69l|rd|Kardenasas
+Kars|TR||94|34s|3bp|qx|Qers;Qars;Cars
+Carson|US|California|3p|2lz|-94k|px
+Caringin|ID||6l|-in|88q|pi|Tjaringin
+Cárdenas|MX|Tabasco|41|1e0|-77e|pg
+Caratinga|BR||4w|-1iz|-392|p7
+Cáceres|BR||2k|-18n|-4g8|ox|Cárceres;Kaseresas
+Carmel|US|Indiana|38|332|-6n8|on
+Carrao|BR||4w|-1tf|-3la|ng
+Carpina|BR||4p|-lt|-2px|n4
+Carlisle|GB||9b|48i|-86|lt|Caerliwelydd;Cathair Luail;Carliolum;Karlailas;Luel
+Carpi|IT|Emilia-Romagna|9o|3ge|u8|jr|Chèrp
+Karlskrona|SE||9w|4c0|17b|ij|Caroli Corona;Karlskruna
+Carol City|US||48|202|-66x|hi
+Carazinho|BR||4w|-26k|-42n|hb|Carasinho
+Carmichael|US||3p|2za|-9d1|h6
+Karlstad|SE||9w|4ky|11i|h3|Carolostadium
+Carrara|IT||9o|3eg|s2|gb|Carrare;Carara
+Carson City|US|Nevada|3p|30s|-98p|ga|Carsonurbo;Kota Carson;Karson Sitis;Thành phố Carson;Lungsod ng Carson;Kārsonsitija;Altepetl Carson;Karson-Siti
+Charikar|AF||6o|2p9|5c5|ex|Ĉarikar;Čarikaras;Czarikar;Čahārikār;Charekar;Chāirkār;Chahārīkār
+Charleville-Mézières|FR||9k|3u9|d4|ek|Charleville;Caroli Villa;Šarlevilis-Mezjeras;Şarlevil Mezyer
+Cardona|PH|Calabarzon|71|149|9cr|eb
+Çarşamba|TR||94|36g|2u0|e1|Çarşanba;Carsampa
+Carmen de Viboral|CO||27|gw|-5ta|ds|Carmen Viboral
+Carcassonne|FR||9k|3c2|6j|ds|Carcassona;Carcasona;Karkasuno;Karkasona;Carcaso;Karkasonas;Carcasonne
+Kokkola|FI||92|4xc|1s9|dg|Gamlakarleby;Carolina Vetus;Karleby;Kokola;Kokkol;Gamla-Karlabyu
+Karmi’el|IL||6n|2jf|2q2|db|Carmiel;Qiryat Karmiel;Karmiel
+Charleston|US|West Virginia|48|2yj|-6ar|d0|Čārlstona;Čarlstonas;Carolopolis;Čarlstons;Charlston;Çarlston;Charlestown;Charles Town
+Caranavi|BO||3n|-17z|-57p|cp|Karanavis;Qarañawi
+Carshalton|GB||9b|3yp|-h|cn
+Karlovy Vary|CZ||9m|3vj|zr|cn|Karlsbad;Karlovi Varai;Karlowe Wary;Karlove Vary;Karlovı Varı;Thermae Carolinae;Karlowé Warë;Carlsbad
+Chartres|FR||9k|3ql|45|c6|Chartrez;Carnotes;Šartras;Şartr;Šartra
+Caripito|VE||2c|s3|-4va|c2|Carapito
+Karlovac|HR||a6|3id|177|bn|Károlyváros;Karlstadt;Carolostadium;Karlovec;Carlovizza
+Carmen De La Legua Reynoso|PE||3o|-xh|-5y6|bn
+Cariaco|VE||2c|t6|-4wj|bk
+Carrollwood Village|US||48|25z|-6d8|bd
+Carcar|PH||71|s3|9jg|bb
+Carrizal|VE||2c|sr|-563|ba
+Carol Stream|US||2f|38f|-6st|b8
+Charlottetown|CA||35|3kf|-4vd|as|Carolinapolis;Šarlotetaunas;Şarlottaun;Ĉarlotaŭno;Baile Sheàrlot
+Carpentersville|US||2f|390|-6t6|ap
+Caraballeda|VE||2c|th|-55p|ai
+Chieri|IT||9o|3h1|lq|a7|Cher;Carrea Potentia;Quiers
+Carini|IT||9o|2xx|10m|9r
+Cartierville|CA||59|3ih|-5oq|9n
+Caracal|RO||8u|3ek|1vn|9e|Karakalis
+Carrollwood|US||48|25x|-6d5|9a
+Careiro|BR||3t|-ah|-4np|90
+Carballo|ES||9d|3c1|-o5|8p
+Carangola|BR||4w|-1ll|-38r|8o
+Charenton-le-Pont|FR||9k|3rm|6p|8l|Carentonium
+Careiro da Várzea|BR||3t|-8w|-4m7|8k
+Carlos Barbosa|BR||4w|-29e|-3z2|8g
+Carney|US|Maryland|48|31f|-5wk|8b|Carny
+Carpentras|FR||9k|3ee|e1|89|Carpentoracte
+Carrickfergus|GB||9b|480|-g5|84|Carraig Fhearghais;Karikfergusas
+Carmo do Paranaíba|BR||4w|-1gs|-3ko|82|Carmo do Paranahyba
+Carlsbad|US|New Mexico|2p|2i2|-81j|82
+Carinhanha|BR||20|-13q|-3dk|81
+Carmona|ES||9d|2w3|-fp|7y
+Carauari|BR||3t|-dk|-55u|7x|Carauary;Caravari
+Charata|AR||1n|-23m|-4pz|7q|Çarata
+Cabrero|CL||4u|-2uv|-5l4|7o|Carrero
+Caransebeş|RO||8u|3i6|1pq|7n|Karánsebes;Karansebesch;Carensebes
+Carlow|IE||8z|42s|-j9|7m|Ceatharlach
+Caririaçu|BR||2w|-jk|-314|7i
+Cartago|CR||2i|re|-6h4|7e|Kartagas;Kartago
+Caravaca|ES||9d|2xv|-56|7c
+Carbondale|US|Illinois|2f|2wt|-6vu|7c
+Carrollton|US|Georgia|48|2la|-6kc|7a
+Craíbas|BR||3r|-qq|-2u5|79|Caraíbas
+Carmen de Patagones|AR||1l|-35c|-4uy|78|Karmen de Patagones
+Daliyat al Karmel|IL||6n|2it|2pd|6y|Daliyat at Karmil;Daliyat ad-Druz;Daliyat al-Karmil;Daliyah;Carmel City;Dāliyat el Karmil;Dalyat el Karmel;Daliat al karmel;Ir haKarmel;Cidade de Carmel;Ir ha-Karmel;Ciudad Carmel;Sivdad Karmel;Ir Karmel;Karmel;Kurmul City
+Jarābulus|SY||69|2ua|2xl|6y|Carablus;Jerablus;Jirāblus;Jarablos;Jarablus
+Caroline Springs|AU||8j|-2wu|b62|6t
+Carahue|CL||4u|-2zj|-5n8|6s|Carahuo
+Carutapera|BR||2w|-3d|-3ju|6q
+Carthage|TN||1e|2ue|sp|6q
+Carteret|US||48|34q|-5q7|6q
+Carolina|BR||2w|-ke|-3nu|6q
+Carlingford|AU||8l|-2lu|bnl|6p
+Carambeí|BR||4w|-1xb|-3v8|6m|Carambehy
+Carandaí|BR||4w|-1m7|-3dp|6m|Carandahy
+Carnaxide|PT||99|2zl|-pp|6l
+Karatina|KE||16|-1c|2v5|6k|Caratina
+Carmo do Cajuru|BR||4w|-1k2|-3gd|6j|Carmo de Cajurú
+Carmagnola|IT||9o|3gl|lg|6e|Carmagnole
+Cariboo|CA||5b|3st|-9hc|6c
+Carbonara di Bari|IT||9o|363|1av|6a
+Carira|BR||3r|-ss|-2wq|66
+Charentsavan|AM||80|348|3g0|65|Ch’arents’avan;Tscharenzawan;Tšarentsavan;Čarencavanas;Tjarentsavan;Ĉarencavan;Tšharentshavan;Čarencawan;Çarentsavan;Charentsawan;Charencavan;Ch’arants’avan;Choentsavan
+Carrizal|ES||83|25j|-16t|64
+Carrum Downs|AU||8j|-2xu|b79|64
+Carcaixent|ES||9d|30o|-19|61|Carcagente;Carcaixén
+Carbonia|IT||9o|30s|no|61|Karbonija
+Cardito|IT||9o|35r|13q|5z
+Garston|GB|England|9b|445|-82|5y|Carston
+Cártama|ES||9d|2tz|-cv|5x
+Carrboro|US||48|2rr|-63o|5w
+Caracaraí|BR||26|52|-4pt|5u|Caracarahy
+Carmo do Rio Claro|BR||4w|-1m9|-3k4|5u
+Carei|RO||8u|3og|1qf|5s|Nagykároly;Groß-Karol;Großkarol;Nagy Károly
+Carepa|CO||27|lk|-5wx|5q
+Charlestown|US|Massachusetts|48|39q|-5he|5o|Carolopolis;Charleston;Charles Towne
+Carcavelos|PT||99|2zh|-pw|5o
+Cartersville|US||48|2mx|-6jk|5n
+Carolina|ZA||o|-20f|2bn|5m
+Charlotte Amalie|VI||53|1ey|-50d|5k|Carlota Amalia;Şarlotta Amaliya;Ĉarlotamalio;Šarlotė Amalija;Charlotte Amalia
+Caraúbas|BR|Rio Grande do Norte|2w|-g3|-2wc|5h|Carahubas;Caraúba
+Caraí|BR||4w|-1br|-37t|5f
+Carnaíba|BR|Pernambuco|4p|-lp|-2wz|5f|Carnahyba
+Carlos Casares|AR||1l|-2qy|-4qh|5e|Karlos Kasares
+Carouge|CH||a7|3ka|h2|5d|Carroge;Quadruvium;Karužas
+Carlisle|US|Pennsylvania|48|33o|-5yf|5b|Luguvalium
+Cariús|BR||2w|-i6|-31q|57|Carios
+Carlos Chagas|BR||4w|-1d6|-359|56
+Carvin|FR||9k|3w9|88|56
+Quaregnon|BE||8t|3w4|ar|55|Couargnon;Cargnon
+Carey|CA||5b|3qn|-9ir|54
+Carrigaline|IE||8z|3zx|-nc|52|Carraig Uí Leighin;Karigalinas
+Carquefou|FR||9k|3ne|-45|51|Kerc'hfaou;Kerchfaou;Carcafagus
+Carmelo|UY||45|-2mg|-4hw|50|Karmelas;Karmelo
+Carnide|PT||99|2zp|-pi|50
+Carmópolis de Minas|BR||4w|-1l2|-3fz|50
+Carlos A. Carrillo|MX||41|1f1|-7dz|50
+Cartagena|CL||4u|-2l7|-5ix|50|Carthagène;Cartajena
+Cary|US|Illinois|2f|399|-6t4|50
+Carnegie|AU||8j|-2x9|b6y|4z
+Cartaya|ES||9d|2vk|-jv|4z
+Cármenes|ES||9d|348|-ae|4z
+Carmo|BR||4w|-1ox|-3ad|4x
+Cariré|BR||2w|-az|-34f|4w
+Carigara|PH||71|ve|9mc|4v|Garigara
+Carnaubal|BR|Ceará|2w|-bl|-35q|4s|Carnauba
+Carmópolis|BR||3r|-tl|-2ur|4p
+Cariamanga|EC||33|-c1|-650|4p
+Cardedeu|ES||9d|37o|6k|4m
+Caridade|BR||2w|-br|-30v|4k
+Caronno Pertusella|IT||9o|3io|p5|4k
+Carlton|AU|Victoria|8j|-2x0|b6p|4h
+Carmen de Areco|AR||1l|-2ni|-4m6|4f|Karmen de Areko
+Cerveteri|IT||9o|38n|xl|4f|Chisra;Caere;Care;Agylla;Cisra;Cerveleri
+Carmarthen|GB||9b|402|-bz|4f|Caerfyrddin;Karmardenas;Karvyrdhin;Caermarthen
+Carterton|GB||9b|3zs|-4f|4d
+Carcarañá|AR||1n|-2ja|-4pv|4c
+Canapi|BR||3r|-pc|-2wg|4c|Carapi
+Carlet|ES||9d|30z|-1g|4b
+Cárdenas|MX|San Luis Potosí|41|1p4|-7os|4b
+Carrières-sous-Poissy|FR||9k|3rz|5o|4b|Carrieres sur Poissy
+Carindale|AU||8c|-24f|bta|4a
+Carate Brianza|IT||9o|3iw|po|4a
+Carugate|IT||9o|3ij|py|4a
+Carlentini|IT||9o|2vk|15p|45|Carlintini;Carruntini
+Carlópolis|BR||4w|-1t2|-3u4|40
+Carapebus|BR||4w|-1pn|-37q|3z
+Carthage|US|Missouri|2f|2va|-79z|3z
+Cardano al Campo|IT||9o|3it|od|3x
+Carovigno|IT||9o|353|1d2|3w|Carvignu
+Carluke|GB||9b|4au|-an|3u|Cathair MoLuaig
+Carmo de Minas|BR||4w|-1pg|-3hd|3u
+Carpinteria|US||3p|2nk|-980|3t|Carpenteria
+Carabalan|PH||71|s2|9hj|3s
+Cardoso Moreira|BR||4w|-1np|-37m|3q|Cardoso Moreiro
+Caravaggio|IT||9o|3ie|qs|3p|Karavaĝo;Carraca;Careàs
+Carriere|US||2f|2d2|-6x1|3o
+El Carril|AR||1s|-1xn|-51x|3n|Carril
+Foxrock|IE||8z|43z|-h5|3l|Carraig an tSionnaigh
+Carrières-sur-Seine|FR||9k|3rv|62|3k
+Carnaubeira da Penha|BR||4p|-n4|-2zm|3j|Carnaubeira
+Francofonte|IT||9o|2ve|15b|3i|Carlintini;Francufonti
+Cervignano del Friuli|IT||9o|3ja|112|3f|Çarvignan;Cervenianum;Cervignan Sarvignan;Cervignano
+Caringbah South|AU||8l|-2mm|bns|3c
+El Carmen|CO|Norte de Santander Department|27|nn|-5o1|3c|Carmen
+Carrara|AU||8c|-25u|bu1|3c
+Carleton Place|CA||59|3hd|-5vj|3b
+Caringbah|AU||8l|-2mk|bns|3a
+Carroll Park|US||48|331|-5t0|3a
+Carver|US|Massachusetts|48|38c|-5gk|39
+Carpenedolo|IT||9o|3i0|sz|38
+Czarnków|PL||a5|42y|1a0|38|Czôrnkòwò;Čarnkova;Czarnikau
+Carmo da Cachoeira|BR||4w|-1nm|-3hm|37
+Carnot-Moon|US||48|34k|-66u|36
+Cardoso|BR||4w|-1js|-3un|35
+Carnoustie|GB||9b|4cy|-7j|35|Càrn Fheusda;Cárn Fheusta
+Carnisse|NL||8m|405|cg|34|Garnisse;Karnisse
+Carmo da Mata|BR||4w|-1l4|-3gn|32|Carmo da Matta;Carmo do Mata
+Carranglan|PH||71|18c|9ca|32|Carraglan
+Caraz|PE||3o|-p5|-605|31|Carás;Karasas;Qaras;Cavás
+Carros|FR||9k|3dn|jz|31|Carròç
+Caroebe|BR||26|2g|-4lu|2z
+Carlton|AU|New South Wales|8l|-2md|bns|2y
+Cartaxo|PT||99|30s|-of|2x
+Carregado|PT||99|30e|-oy|2x
+Carmaux|FR||9k|3ed|60|2w|Carmauç
+Carlinda|BR||2k|-ro|-4b3|2v
+Caracol|BR|Piauí|2w|-ps|-3cd|2v
+Carterton|NZ||ak|-35y|djl|2v|Taratahi
+Carmen|PH|Ilocos|71|185|9b0|2v
+Carvoeiro|PT|Faro|99|2v2|-nj|2t
+Carabacel|FR||9k|3df|k8|2s
+Carroll|US|Iowa|2f|38v|-7bj|2s
+Caraíbas|BR||20|-14x|-36m|2r
+Carmen|PH|Davao Region|71|kg|9p7|2q
+Caernarfon|GB||9b|43m|-bv|2p|Kernarvonas;Karnarvon;Carnarvon
+Carnaubais|BR||2w|-eu|-2ub|2p
+Carmo do Rio Verde|BR||4w|-16n|-3u3|2p
+Czarna Białostocka|PL||a5|443|1so|2o|Čarna Bialostocka;Čarna Bjalostocka
+Carmen|MX||44|202|-7qs|2o
+Carmiano|IT||9o|342|1e4|2n|Carmianu
+Carneirinho|BR||4w|-1iq|-3wt|2m
+Carseldine|AU||8c|-23z|bt2|2m
+Carneiros|BR||3r|-qc|-2vu|2k
+Carqueiranne|FR||9k|3bp|gv|2k|Carqueirana;Carcairana;Carquieranne
+Carleton North|CA||43|3l6|-57o|2k
+Carhuamayo|PE||3o|-uc|-5v7|2j
+Cardonal|MX|Hidalgo|41|1jq|-7nn|2j
+Carousel View|ZA||o|-1yc|26l|2h
+Sremski Karlovci|RS||8q|3hk|1jd|2g|Karlofça;Carloviț;Carolovicia;Srijemski Karlovci;Karloca;Karlócza;Karlovci
+Blackrock|IE|Leinster|8z|442|-h6|2g|Carraig Dubh;An Charraig Dhubh;Blakrokas
+Carmen|PH|Soccsksargen|71|k0|9mn|2g
+Lázaro Cárdenas|MX|Chihuahua|2g|26v|-85e|2f|Cárdenas
+Köýtendag|TM||5x|2w8|53d|2f|Çarşaňňy;Charshanga;Charshangu;Charshangy
+Carcroft|GB||9b|44u|-3a|2e
+Carencro|US||2f|2c8|-73p|2e
+Carbondale|US|Pennsylvania|48|37h|-5tq|2e
+Carbonita|BR||4w|-1cp|-3bi|2d
+Cardeal da Silva|BR||20|-x6|-2xf|2c
+Carhaix-Plouguer|FR||9k|3q4|-9x|2b|Karaez;Karaez-Plougêr;Carophesium
+Cariati|IT||9o|31q|1b3|2b
+Carmen|PH|Central Visayas|71|ra|9l0|2a
+Carrara San Giorgio|IT||9o|3ht|wu|29
+Carnières|BE||8t|3w4|bu|29
+Carnaúba dos Dantas|BR||2w|-i8|-2tn|28
+Carnegie|US|Pennsylvania|48|349|-66g|27
+Carnforth|GB||9b|46d|-7p|27
+Caribou|US||48|3m6|-58x|26
+Carryduff|GB||9b|47g|-gd|26|Ceathrú Aodha Dhuibh
+Carl Junction|US||2f|2va|-7ap|25
+Cartagena del Chairá|CO||27|3p|-5rw|24
+Kara K’orē|ET||2|sy|32y|23|Caracore;Karakorie;Karakore
+Nykarleby|FI||92|4wg|1ql|23|Uusikaarlepyy;Carolina Nova;Nyukarlebyu
+Valguarnera Caropepe|IT||9o|2w6|13z|23|Carrapipi
+Carignan|CA||59|3i9|-5nm|22
+Caraá|BR||4w|-2ar|-3w3|22
+Carneys Point|US||48|32b|-5tn|22|Carney's Point
+Carignano|IT|Piedmont|9o|3gr|lb|21|Carignan
+Caranan|PH||71|11k|9hq|21|Carinan
+Carboneras|ES||9d|2us|-5a|20
+Carnate|IT||9o|3it|q2|20
+Carusucan|PH||71|18d|9b4|1z|Carosucan
+Chartres-de-Bretagne|FR||9k|3pg|-4r|1z|Karnod;Carceres
+Cărpiniş|RO|Timiș County|8u|3j7|1m2|1z|Cărpinş
+Carnoux-en-Provence|FR||9k|3c6|fg|1y|Carnós de Provença
+Carramar|AU|Western Australia|8k|-2g1|8xl|1y
+Carpenders Park|GB||9b|3zf|-12|1y
+Carentan|FR||9k|3sy|-3h|1y|Carantan;Carenton
+Carinaro|IT||9o|35u|13i|1x
+Carthage|US|Texas|2f|2hc|-7a2|1w
+Carmel Hamlet|US||48|371|-5op|1w
+Careaçu|BR||4w|-1p8|-3iy|1w|Cariaçu;Caré-Assú
+Carbon-Blanc|FR||9k|3gq|-1e|1w|Lo Carbon Blanc;Carbon Blanc
+Carosino|IT||9o|34f|1cc|1v
+Carina Heights|AU||8c|-24f|bt9|1v
+Carlos Tejedor|AR||1l|-2qb|-4te|1v|Karlos Tejedor
+Carbondale|US|Colorado|2p|31g|-89t|1v
+Schwarzheide|DE||8r|3z0|12i|1u|Carny Gózd
+Carrollton|US|Michigan|2q|3cq|-6h5|1u
+Caramutan|PH||71|188|9b1|1t
+Carapelle|IT||9o|36w|17l|1t
+Carry-le-Rouet|FR||9k|3cd|eb|1s|Carri lo Roet
+Carapan|MX||41|1j6|-7vg|1s|Garapan
+Carrazeda de Anciães|PT||99|36k|-kb|1s
+Carine|AU||8k|-2gh|8xm|1r
+Carlisle|AU||8k|-2gu|8y0|1r
+Carmignano di Brenta|IT||9o|3ir|wj|1r
+Carlstadt|US||48|35g|-5pt|1r
+Carlton North|AU||8j|-2wz|b6p|1q
+Carolina Beach|US||48|2mk|-60d|1p
+Czarne|PL||a5|454|1b2|1o|Czôrné;Čarne
+Carnaíba|BR|Pernambuco|4p|-o6|-2wn|1o
+Sultan Naga Dimaporo|PH||71|lo|9jn|1o|Caromatan;Karomatan
+Caruthersville|US||2f|2sj|-6x2|1n
+Carrizo Springs|US||2f|278|-7pe|1n
+Carterville|US|Illinois|2f|2ww|-6vg|1m
+Carnarvon|ZA||o|-2e1|1ph|1m
+Carapeguá|PY||1y|-1zk|-4f1|1m
+Carrick-on-Suir|IE||8z|41f|-kl|1m|Carraig na Siúire
+Carlinville|US||2f|314|-6xo|1l
+Carmen de Apicalá|CO||27|bj|-5rk|1k|Carmen Apicalá
+Caraúbas do Piauí|BR||2w|-9o|-388|1k
+Carregal do Sal|PT||99|34b|-m8|1k
+Coraopolis|US||48|34k|-66p|1k|Corapolis;Carapolis
+Carapur|IN||6t|179|5pj|1k
+Carloforte|IT||9o|30q|n2|1k
+Carcare|IT||9o|3f7|n1|1j|Cancre
+Carral|ES||9d|3c3|-n8|1j
+Carugo|IT||9o|3iz|pk|1j
+Cârţa|RO|Harghita County|8u|3l9|1zj|1i|Cîrţa
+Carnago|IT||9o|3j0|oj|1i
+Carpenter Hill|PH||71|hw|9mw|1h|Carpenter
+Cardigan|GB||9b|40o|-cy|1h|Aberteifi;Ceretica
+Carpenter|US||48|339|-5sw|1h
+Carlisle|US|Ohio|48|31y|-6i8|1h
+Caranguejeira|PT||99|32f|-o7|1g
+Cardona|ES||9d|38f|4o|1g
+Carnota|ES||9d|3ay|-p9|1g
+Carmi|US||2f|2xt|-6sw|1f
+Carrigtwohill|IE||8z|407|-my|1f|Carrigtohill;Carraig Thuathail;Karigtohilis
+Carhuaz|PE||3o|-ps|-5zo|1e
+Caracol|BR|Mato Grosso do Sul|2a|-1p5|-4ee|1e
+Carrickmacross|IE||8z|45x|-io|1e|Carraig Mhachaire Rois;Carraig Mhacaire Rois;Karikmakrosas
+Carey Park|AU||8k|-2kn|8x9|1e
+Carle Place|US||48|357|-5oh|1e
+Carmen Grande|PH||71|su|9hg|1d
+Cardenden|GB||9b|4by|-92|1d
+Carthage|US|Mississippi|2f|2ix|-6wq|1d
+Carnarvon|AU||8k|-1x4|8rq|1d|Karnarvon
+Caronno Varesino|IT||9o|3j2|oj|1d
+Carmen|PH|Caraga|71|oz|9o1|1c
+Carbonear|CA||50|3om|-43v|1c
+Eğil|TR||94|2ya|33b|1c|Carcathiocerta
+Carpaneto Piacentino|IT||9o|3gr|r7|1c
+Carmel|US|New York|48|373|-5oo|1c
+Carlisle|US|Massachusetts|48|3a5|-5i7|1c
+Caramoran|PH||71|12u|9kt|1c|Caramoan
+Cariño|ES||9d|3di|-lv|1c
+Carnac|FR||9k|3o6|-8k|1c|Karnag
+Carrick-on-Shannon|IE||8z|45v|-mh|1b|Carrick on Shannon;Cora Droma Rúisc;Karikas prie Šanono
+Carlyss|US||2f|2bt|-77e|1b
+Carvico|IT||9o|3iy|qd|1a
+Cardona|UY||45|-2m3|-4fd|1a
+Carisbrooke|CA||5b|3t2|-9hv|1a
+Carrollton|US|Virginia|48|2un|-5wo|1a|Carrolton
+Carbó|MX||37|2ag|-8k8|19
+Carvalhosa|PT||99|36q|-n8|19
+Carpineto Romano|IT||9o|37k|10c|19
+Carvalhos|BR||4w|-1p4|-3fi|18
+Caraga|PH||71|kd|9rl|18
+Carmel Valley Village|US||3p|2tf|-9e9|18
+Carver Ranches|US||48|207|-66r|18
+Carmelo Peralta|PY||1y|-1o8|-4gv|18
+Carrascal|PH||71|q1|9pv|18
+Carver|US|Minnesota|2f|3gc|-783|17
+Caraquet|CA||43|3or|-50e|17
+Carbonera|IT||9o|3ix|y4|17
+Caraglio|IT||9o|3fe|kn|17|Caraj
+Carobbio|IT||9o|3iu|rb|17
+Carrillos|CR||2i|rv|-6i3|17
+Carrum|AU||8j|-2xs|b75|16
+Carbonne|FR||9k|3ca|3e|16|Carbona
+Carmen del Paraná|PY||1y|-23m|-4bz|16
+Carlisle|US|Iowa|2f|37a|-77p|16
+Cariri do Tocantins|BR||1k|-x1|-3sk|15
+Caruray|PH||71|sn|96l|15
+Caro|US||2q|3ct|-6fo|15
+Carleton-sur-Mer|CA||59|3pn|-53p|15
+Carstairs|CA||2s|3z9|-8sy|15
+Del Carmen|PH||71|15p|9at|15|Carmen;Carman
+Carrancas|BR||4w|-1np|-3g0|14
+Careva Ćuprija|BA||9r|3ez|1f7|14
+Caraúbas|BR|Paraíba|2w|-lg|-2td|13|Carahubas
+Carroll Valley|US||48|32f|-5yy|13
+Caridad|HN||56|12f|-6rl|13
+Carmel-by-the-Sea|US||3p|2tk|-9eo|13|Carmel by the Sea;Carmel;Karmelo-ĉe-la-Maro
+Carrollton|US|Kentucky|48|2zg|-6km|13
+Carling|FR||9k|3sl|io|13
+Carlisle|CA||2s|44w|-8rc|13
+Cartojani|RO||8u|3ff|1yt|12
+Carpino|IT||9o|388|182|12
+Carter Lake|US||2f|36p|-7eg|12
+Cartes|ES||9d|3cd|-bb|12
+Carolina Shores|US||48|2m6|-62a|12
+Carianos|BR||4w|-24u|-3qu|11
+Caridad|PH|Eastern Visayas|71|u3|9mj|11
+Carácuaro de Morelos|MX||41|1gu|-7sx|11
+Carrollton|US|Missouri|2f|31c|-77q|10
+Carsoli|IT||9o|38y|10d|10|Carsolum;Carsioli;Carseoli
+Carefree|US||4i|2ly|-8mw|10
+Cariñena|ES||9d|36u|-3e|10
+Carthage|US|New York|48|3e6|-5u1|10
+Carey|US|Ohio|48|35r|-6fm|10|Cary
+Cardston|CA||2s|3so|-8qq|10
+Carramar|AU|New South Wales|8l|-2m4|bnc|10
+Carlsberg|DE||8r|3ti|mc|z
+Kobyletska Polyana|UA||98|3pi|1uv|z|Gyertyánliget;Kobyletska Poliana;Cărpiniș;Kobylezka Poljana;Kobyletska Poljana;Kobilecka Poljana;Kobylecka Poljana;Kobıletska Polâna;Kobyłecka Polana
+Carracedelo|ES||9d|3a8|-ip|z
+Caramoan|PH||71|129|9k2|z
+Carbajosa de la Sagrada|ES||9d|35p|-fp|z
+Carcaliu|RO||8u|3hi|267|y
+Cartagena|PH||71|ra|9g0|y
+Carrasco Bonito|BR||1k|-es|-3pf|y
+Carpiano|IT||9o|3hy|pr|y
+Carignan-de-Bordeaux|FR||9k|3gg|-1c|x|Carinhan;Carinhan de Bordèu
+Carvalhópolis|BR||4w|-1oi|-3jc|x|Cana do Reino
+Carobbio degli Angeli|IT||9o|3iv|rb|x
+Caromb|FR||9k|3ej|e7|x
+Caraguatay|AR||1n|-21x|-486|x
+Caridad|PH|Western Visayas|71|t6|9he|x|Caridao
+Carignan|FR||9k|3tv|ed|w
+Carlyle|US||2f|2z9|-6w9|w|Carlisle
+Cartigliano|IT||9o|3iz|wi|w
+Caraycaray|PH||71|w4|9lm|w|Caraycary
+Carrubazza-Motta|IT||9o|2wb|15z|w
+Carolina|CO||27|io|-5t4|w
+Caraşova|RO||8u|3hk|1or|w|Craşova
+Carrollton|US|Ohio|48|34p|-699|v|Carrolton;Carolton
+Carrù|IT||9o|3fk|lv|v|Carù
+Caracolí|CO||27|ht|-5ro|v
+El Carrizal Grande|MX||41|1lj|-7tf|v|Carrizal Grande
+Carrè|IT||9o|3j3|vu|v
+Karlshagen|DE||8r|46b|12f|v|Carlshagen
+Orlivka|UA|Odesa|98|3hw|270|u|Cartal;Orliwka;Aliobrix
+Caramanta|CO||27|ff|-5u4|u
+Carronshore|GB||9b|4bn|-ai|u
+Carman|CA||5d|3ti|-7k8|u
+Caraycayon|PH||71|11u|9j0|u
+Carvoeira|BR||4w|-24o|-3qt|u
+Carpen|RO||8u|3f5|1sl|u
+Cârligele|RO||8u|3iw|23a|t|Cârlige;Cîrligele
+Carot|PH||71|19e|99a|t
+Caranaíba|BR||4w|-1m0|-3di|t|Caranahyba
+Carig|PH||71|1d2|9e6|t
+Carantec|FR||9k|3r7|-av|t|Karanteg
+Carapinheira|PT||99|33p|-o1|t
+Cárdenas|MX|Guanajuato|41|1lb|-7t6|t
+Cardiff|AU||8l|-2ji|bp9|t
+Carlazzo|IT||9o|3jw|pg|t|Carlazium;Carlasc
+Carcabuey|ES||9d|2w0|-bv|t
+Cârlogani|RO||8u|3fo|1v3|t|Cîrlogani
+Carmen|PH|Central Luzon|71|16x|9bn|s
+Carrillo Puerto|MX|Campeche|3z|1h1|-6zg|s
+Carbonate|IT||9o|3ix|ou|s
+Carnoules|FR||9k|3ca|h7|s|Carnolas
+Carmen|PH|Caraga|71|pn|9q2|s
+Çarşı Mahallesi|TR||94|34e|3av|s
+Cardiff South|AU||8l|-2jj|bpa|s
+Carnmoney|GB||9b|47w|-gj|s|Carn Monaidh;Carmoney
+Carcès|FR||9k|3cs|h6|s|Carcers
+Carentoir|FR||9k|3ou|-5x|s|Karantoer;Plebs Carentorensis
+Carrington|CA||2s|3y6|-8sx|s
+Carlton|CA||2s|44y|-8rg|r
+Carrabelle|US||48|2ax|-6j6|r
+Karakurt|UA||98|3is|27r|r|Caracurt;Karakourt
+Carles|PH||71|w5|9i1|r
+Carboneras|MX|Tamaulipas|44|1wf|-7jg|r
+Carmelo|PH|Western Visayas|71|um|9h6|r
+Angels Camp|US||3p|2xr|-9au|r|City of Angels;Angel's Camp;Angels;Angels City;Carson's Creek;Clearlake
+Carmen|PH|Mimaropa|71|z2|9f8|r|Carman
+Carrillo Puerto|MX|Chiapas|41|15p|-744|r
+Carrión de Calatrava|ES||9d|30e|-am|r
+Carcastillo|ES||9d|39q|-40|r
+Cartelle|ES||9d|39d|-mf|q
+Caraula|RO||8u|3eq|1sl|q
+Caracal|PH||71|ml|9h9|q
+Nahirne|UA||98|3i7|271|q|Caragacii-Vechi
+Carmésia|BR||4w|-1h1|-3bu|q
+Cardona|PH|Central Luzon|71|179|9az|q
+Caronoan West|PH||71|196|9al|q|Carunoan;Caronuan
+Carrizo de la Ribera|ES||9d|3aa|-g7|q
+Caravelas|BR||20|-1d7|-311|q|Caravellas
+Carmen Zacatal|MX||41|1bg|-75s|q
+Carpignano Sesia|IT||9o|3ih|ne|q
+Karligan|PH||71|15m|9f0|q|Carlagan
+Carrizales|PR||4m|1fc|-55j|q
+Carthage|US|Illinois|2f|34a|-716|p|Carthago
+Çarıklar|TR||94|2sb|2jc|p
+Charadai|AR||1n|-24u|-4ma|p|Çaradai;Charaday
+Caravate|IT||9o|3jg|o1|p
+Carron|GB||9b|4bn|-aj|p
+Caramay|PH||71|sa|978|p
+Carriedo|PH|Ilocos|71|18j|9bf|p
+Carmel|US|Maine|48|3gg|-5bt|p
+Carfin|GB||9b|4b1|-b0|p
+Carnaubinha|BR||2w|-eh|-2qg|p
+Carthage|US|Illinois|2f|38g|-6w3|p
+Caruthers|US||3p|2ti|-98v|p
+Cartagena [Fraccionamiento]|MX||41|1p0|-7w4|p
+Carbonero el Mayor|ES||9d|368|-bu|p|Carbonero el Mavor
+Carranque|ES||9d|33l|-au|p
+Carayaó|PY||1y|-1y0|-4co|p
+Carndonagh|IE||8z|49h|-k7|p|Carn Domhnach;Cardonagh
+Caramagna Piemonte|IT||9o|3ge|li|p
+Carrollton|US|Illinois|2f|316|-6z5|o
+Carthage|US|North Carolina|48|2q7|-64m|o
+Carrillo Puerto|MX|Tamaulipas|44|1qb|-7k4|o
+Cartwright|AU||8l|-2m8|bn5|o
+Carrión de los Condes|ES||9d|39m|-cs|o
+Carleton|US||2q|38u|-6fn|n
+Carrollton Ridge|US||48|314|-5wx|n
+Carrapateira|BR||2w|-jk|-2yi|n
+Carlin|US||3p|353|-8yi|n|Óola Haagééd
+Carpignano Salentino|IT||9o|33o|1ey|n
+Carrión de los Céspedes|ES||9d|2vt|-hl|n
+Barneville-Carteret|FR||9k|3t6|-4v|n|Carteret
+Carson|US|Washington|3p|3j1|-9ee|n
+Carthage|US|Tennessee|2f|2sp|-6mr|n
+Carreña|ES||9d|3cc|-dh|n
+El Carmen|CO|Chocó|27|gd|-5ss|n|Carmen
+Carchitti|IT||9o|383|zn|n
+Carmolândia|BR||1k|-jj|-3qg|m
+Carrara-Pontenuovo|IT||9o|37e|zz|m
+Cărpinet|RO||8u|3l1|1qg|m
+Caryville|US||48|2su|-6hy|m|Careyville
+Caraman|FR||9k|3cx|4w|m
+Carlisle|US|Arkansas|2f|2om|-72v|m
+Carmelo|PH|Central Visayas|71|tr|9jv|m
+Caravonica|AU||8c|-1av|b8o|m
+El Carretón|MX||41|1o3|-7si|m|Carretón
+Carlisle-Rockledge|US||2f|2mr|-6n8|l
+Kardámaina|GR||8p|2u6|23e|l|Kardamena;Cardamena;Kardhámaina
+Cardross|GB||9b|4bg|-cx|l
+Carice|HT||4j|1hu|-5jj|l|Karis
+Cartura|IT||9o|3hr|wy|l
+Carriedo|PH|Bicol Region|71|zx|9kr|l
+Carrington|US||2f|3nt|-7nd|l
+Carlton|US|Oregon|3p|3ht|-9i6|l
+Karsdorf|DE||8r|3yf|we|l|Carsdorf
+Cardington|US||48|34i|-6e9|k
+Carnes Hill|AU||8l|-2ma|bn1|k
+Carpiquet|FR||9k|3sn|-19|k
+Carbon Cliff|US||2f|379|-6z3|k
+Carimate|IT||9o|3iz|pb|k
+Càrcer|ES||9d|30j|-1l|k
+Carrizal|MX||41|1l8|-7i6|k
+Carlisle|US|Kentucky|48|2yf|-6hf|k
+Carlosama|CO||27|2e|-5zx|k
+Carbon Hill|US||2f|2m5|-6r5|k|Carbonhill
+Cârlibaba|RO||8u|3o6|1xt|k|Cîrlibaba
+Carbonara di Nola|IT||9o|35j|14i|k
+Carmelita|BZ||24|1e1|-6ty|j
+Carbognano|IT||9o|39l|y2|j
+Carmen de Carupa|CO||27|ev|-5pa|j
+Carranco|MX||41|1om|-7su|j|Barranco
+Cărbuneşti|RO||8u|3hn|20s|j
+Cardinale|IT||9o|2zd|19j|j
+Carnation|US||3p|3od|-9en|j
+Carrington|AU||8l|-2jg|bpk|j
+Carmignano|IT|Tuscany|9o|3dp|ul|j
+Cârjoaia|RO||8u|3ni|22r|j|Cîrjoaia
+Carterville|US|Missouri|2f|2v7|-7ac|j
+Carlos A. Madrazo|MX|Quintana Roo|2b|1fe|-6tx|i|Canos A. Madrazo
+Caronia|IT||9o|2xm|144|i|Carunìa
+Çärjew|TM||5x|30l|4wd|i|Guşçular
+Charlotte|US|Texas|2f|286|-7m7|i|Ĉarloto
+Karlshus|NO||9j|4kv|u7|i|Råde;Carlshuus
+Siedlisko|PL|Lubusz|a5|3zt|17x|i|Carolat;Karolat;Carolath
+Cardeña|ES||9d|2yb|-c0|i
+Carspach|FR||9k|3oa|k1|i|Karspach
+Carano|IT|Campania|9o|36h|12n|i
+Carberry|CA||5d|3uj|-7o0|h
+Cârna|RO||8u|3dx|1tk|h|Cîrna
+El Carrizo|MX|Oaxaca|41|195|-7kb|h|Carrizo
+Ca' Rainati|IT||9o|3j4|wx|h
+Carter Crest|CA||2s|44i|-8ri|h
+Çardaklı|TR|Diyarbakır Province|94|2yi|345|h
+Carcans|FR||9k|3h8|-2w|h|Carcan
+Carnegie|US|Oklahoma|2f|2pi|-7lw|h
+Aquilonia|IT||9o|35v|170|h|Carbonaria
+Carani|RO||8u|3jj|1ms|h
+Carrillo Puerto|MX|Veracruz|41|1kq|-7hy|h
+Carichí|MX||2g|25k|-89e|h
+Carboneras|MX|Hidalgo|41|1jt|-7m7|h
+Caraguatay|PY||1y|-1y4|-4dv|g
+Carrier Mills|US||2f|2wo|-6u7|g|Carrier's Mills;Carriers Mills
+Cadegliano-Viconago|IT||9o|3jo|ok|g|Cadegliano Viconago;Cadelianum Viconagum;Carian Viconagh
+Caristay|MX||41|1ld|-7ib|g
+Carasi|PH||71|1ek|9br|g|Carazi
+Cardwell|AU||8c|-1er|b9n|g
+Carnerillo|AR||1n|-2jf|-4xu|g
+Carbonville|US||2p|322|-8jv|g
+El Carmen|MX|Jalisco|41|1ld|-80n|g|El Capulín;Carmen
+Carrizosa|ES||9d|2zw|-8b|g
+Cariló|AR||1l|-2v9|-4e1|g
+Caracol|HT||4j|1ip|-5k2|f|Karakòl
+Crécy-en-Ponthieu|FR||9k|3vl|58|f|Kresčak;Creciacum;Carcy-in-Pontiu;Crécy-en-Ponthie
+Myrne|UA|Odesa|98|3im|29u|f|Caracica
+Carifi-Torello-Priscoli|IT||9o|35b|14x|f
+Cartago|CO|Nariño|27|4b|-5y8|f
+Carrilobo|AR||1n|-2gj|-4vc|f
+Carlyle|CA||4q|3tv|-7w3|f
+Carlos Antonio López|PY||1y|-21c|-484|f
+Carabaña|ES||9d|33t|-90|f
+Carp|CA||59|3hz|-5v7|f
+Caraffa di Catanzaro|IT||9o|300|19t|f
+Carsac-Aillac|FR||9k|3gk|3k|f|Carsac e Alhac
+Carlingford|IE||8z|464|-h7|e|Cairlinn
+Carpegna|IT||9o|3dm|ya|e
+Carasco|IT||9o|3f7|pz|e
+Carlepont|FR||9k|3tj|8e|e
+Carnwath|GB||9b|4aq|-a3|e
+Carnlough|GB||9b|48r|-gn|e
+Cardiff Heights|AU||8l|-2ji|bpb|e
+Carwoola|AU||8l|-2qa|bis|e
+Carbondale|US|Kansas|2f|2zu|-7dt|e
+Carrozziere|IT||9o|2uw|16f|e
+Carpinteros|MX|Hidalgo|41|1l7|-7lq|e|Carpintero
+Carenno|IT||9o|3j8|qa|e
+Corona|MX|Michoacán|41|1i9|-7wl|e|Carona
+Carlos Gomes|BR||4w|-250|-407|e
+Carlino|IT||9o|3j8|10n|d|Cjarlins
+Carbonara al Ticino|IT||9o|3hg|p6|d
+Carolei|IT||9o|311|192|d
+Cardedu|IT||9o|32k|qr|d
+Carballeda de Avia|ES||9d|39k|-mo|d
+Carpineti|IT||9o|3fi|t8|d
+Carmensa|AR||1q|-2pn|-57x|d
+Cars|FR||9k|3hd|-1q|d
+Cărand|RO||8u|3l1|1pc|d|Káránd
+Cardal|UY||45|-2n9|-4cn|d
+La Carbonera|MX|Querétaro|41|1lt|-7q9|d|Carbonera;Carboneras
+Čáry|SK||8s|3r6|1bh|d
+Caraway|US||2f|2rc|-6yw|d
+Carlow|DE||8r|45c|ue|d
+Carboneras|MX|Aguascalientes|41|1pm|-7w1|d|Carbonera
+Carss Park|AU||8l|-2mf|bns|d
+Carmunnock|GB||9b|4az|-bs|d|Cathair Mhanach
+Cârniceni|RO||8u|3ni|24f|c|Cîrniceni
+Carroll-South Hilton|US||48|315|-5wz|c
+Cărbunari|RO|Caraș-Severin County|8u|3gj|1oe|c
+Carmen Serdán|MX||41|1gw|-7jp|c
+Carnuel|US||2p|2pe|-87q|c|Carnue
+Carboneras|MX|Hidalgo|41|1k5|-7m6|c
+Caraclău|RO||8u|3kn|228|c
+Carate Urio|IT||9o|3jf|pc|c|Caràa e Üri
+Carife|IT||9o|35z|169|c
+Cărășeu|RO||8u|3om|1s6|c
+Cárdenas|NI||3s|v4|-6lj|c
+Carraia|IT||9o|3dy|v2|c
+Carrizalillo|MX|Guerrero|41|1dl|-7oz|c
+Carinola|IT||9o|36f|12u|c
+Carbrook|AU||8c|-24w|btp|c
+Çardaklı|TR|Şırnak|94|2vf|3aa|c
+Cartignies|FR||9k|3v5|ao|c
+Caro|FR||9k|3oy|-6g|c|Karozh
+Cârja|RO||8u|3k7|263|c|Cîrja
+Carreira|PT||99|32r|-ol|c
+Carzago Riviera|IT||9o|3ig|t2|c
+C.A. Rosetti|RO|Tulcea County|8u|3hu|2a5|c
+Carpesica|IT||9o|3jn|y5|c
+Cârligi|RO||8u|3lx|22l|c|Cîrligi
+Cartiera-Stazione|IT||9o|37q|10s|b
+Calizzano|IT||9o|3ew|mk|b|Carizan
+Carastelec|RO||8u|3ne|1r2|b
+Cârţişoara|RO||8u|3j0|1wa|b|Kercisóra;Cîrţişoara
+Carpinone|IT||9o|37j|13s|b
+Carmen Yalchuch|MX||41|1a8|-74k|b
+Caresanablot|IT||9o|3i0|nb|b
+Carville|US||2f|2by|-712|b
+Carbajales|HN||56|174|-6nv|b
+Carisbrook|AU||8j|-2ux|b3i|b
+Carleton|CA||59|3pm|-53o|b
+Garrafe de Torío|ES||9d|3ap|-fc|b|Carrafe de Torio
+Carruba|IT||9o|2wp|167|b
+Carriage Club|US||2p|31t|-83e|b
+Carson City|US|Michigan|2q|3by|-6jp|b
+Carrillo|MX||41|1sh|-7y2|b
+Cărpiniș|RO|Gorj County|8u|3hi|1ti|b
+El Carrizal|MX|San Luis Potosí|41|1q2|-7t1|b|Carrizal
+Cardup|AU||8k|-2hm|8y7|b
+Garidech|FR||9k|3df|4c|b|Garidèit;Caridech
+Cartigny|CH||a7|3k9|gq|b|Cartiniacum;Cartygny
+Cárcar|ES||9d|39r|-5i|b
+Carnew|IE||8z|42f|-i1|b|Carn an Bhua
+Cartí Sugtupu|PA||4g|qb|-63c|b|Cartí Sugdup;Cartí Sutupo;Cartí Suitupo
+Carlton|US|Minnesota|2f|3lm|-74q|a
+Caramanico Terme|IT||9o|394|12w|a
+El Carricito|MX||3x|206|-8el|a|Carricitos
+Cargèse|FR||9k|392|nw|a|Carghjese
+Carpin|DE||8r|448|10s|a
+Karme Ẕur|PS||6n|2ft|2pi|a|Karmei Zur;Karmei Tzur;Carmei Tzur
+Carlantino|IT||9o|37j|15m|a|Carlandìnë
+Carcaboso|ES||9d|339|-h9|a
+Carlopoli|IT||9o|30h|19p|a
+Carolinensiel|DE||8r|455|lo|a|Karolinensiel
+Carlton|AU|Tasmania|8g|-3b2|be6|a
+Carlsborg|US||3p|3pl|-9i5|a
+Carnin|FR||9k|3wc|88|a
+Carrollton|US|Alabama|2f|2ke|-6sq|a
+Carmen Xhán|MX||41|18k|-72w|a
+Carpeneda|IT||9o|3it|t3|a
+Carlos Reyles|UY||45|-2ju|-4cw|a
+Caresana|IT||9o|3hm|nm|a
+Caronport|CA||4q|3w5|-85y|a
+Carolina|US||48|376|-5j2|a
+Carlisle Road|CA||43|3jr|-55g|a
+Cartelègue|FR||9k|3hj|-1m|a
+Caragele|RO||8u|3gy|233|a
+C.a. Rosetti|RO|Buzău County|8u|3h5|23h|a|C.A. Roseti
+Carpacco|IT||9o|3k4|100|a|Carpaccio
+Carpena|IT||9o|3er|xi|a
+Carbonero Jacales|MX||41|1kq|-7lj|a
+Carnduff|CA||4q|3sl|-7us|a
+Carrot River|CA||4q|440|-7zq|a
+Carovilli|IT||9o|37v|13p|9
+Carlentini Nord|IT||9o|2vl|15p|9
+Çardakköy|TR||94|2up|2ex|9|Çardak
+Carrizozo|US||2p|2lg|-864|9
+Carisolo|IT||9o|3k9|tw|9
+Carignano|IT|Emilia-Romagna|9o|3g9|sj|9
+Carbonara di Po|IT||9o|3h4|v7|9
+Carpendale|US||48|323|-62u|9
+Coroteni|RO||8u|3ic|233|9|Caroteni
+Carlsbourg|BE||8t|3ul|e4|9
+Cârligei|RO||8u|3hb|1tt|9|Cîrligei
+Caracha|MX||41|1hz|-7v4|9
+Cârţa|RO|Sibiu County|8u|3j6|1w9|9|Kerc;Cîrţa
+Carnières|FR||9k|3vd|9b|9
+Carampa|PE||3o|-11x|-5q8|9
+Carumas|PE||3o|-1ap|-5gd|9|Caromas
+Carboneras de Guadazaón|ES||9d|32s|-50|9
+Carpi|IT|Veneto|9o|3he|vn|9
+Caravino|IT||9o|3i4|m4|9|Caravin
+Carrizal de Bravo|MX||41|1cy|-7pc|9
+Cârceni|RO||8u|3g2|1sm|9|Cîrceni
+Canet lo Roig|ES||9d|34n|o|9|Carnet lo Roig
+Cargnacco|IT||9o|3js|10s|9
+Carvajal|MX||44|1w3|-7ji|9|Carbajal
+Carstairs|GB||9b|4aq|-a9|9|Caisteal Tarrais
+Carthage|US|Indiana|38|32e|-6lp|9
+Carragh|IE||8z|43w|-ip|9|Ceárach
+Carlton|GB|England|9b|40z|-1p|9
+Cărbunești-Sat|RO||8u|3gv|1tf|9
+Carey Bay|AU||8l|-2jr|bp5|9
+Carboneras|MX|Sinaloa|3x|1zf|-8d1|9
+Carcasí|CO||27|if|-5lr|9
+Carpinteros|MX|Michoacán|41|1i6|-7qp|9
+Carmena|ES||9d|330|-c8|9
+Carratraca|ES||9d|2ud|-de|8
+Cardross|AU||8j|-2nb|ayt|8
+Carlos Alberto Wilson Gómez|MX||41|1e1|-779|8
+Carlisle|AG||1j|1bl|-4ro|8|Kyaalail
+Carhuacallanga|PE||3o|-yb|-5sw|8|Carhuacallanca
+Cărpenișu|RO||8u|3fp|1z7|8
+Carano|IT|Trentino-Alto Adige|9o|3kl|vs|8
+Cârstieni|RO||8u|3go|1xj|8|Cîrstieni
+Carrolltown|US||48|34s|-62n|8|Carrollton
+Carson|US|Iowa|2f|36k|-7d2|8
+Carraroe|IE||8z|43y|-qo|8|An Cheathrú Rua;Carrowroe
+Cardrona Mains|GB||9b|4ak|-8n|8
+Cărăsău|RO||8u|3lr|1p9|8
+Cardrona|NZ||ak|-3go|d1g|8
+Carvide|PT||99|32q|-op|8
+Carvoeiro|PT|Santarém|99|322|-m0|8
+Cârjari|RO||8u|3hb|203|8|Cîrjari
+Cârjiţi|RO||8u|3jd|1rf|8
+Cardè|IT||9o|3ga|ks|8
+Carmanville|CA||50|3t8|-46u|8
+Caracoto|PE||3o|-179|-5eq|8
+Carstairs Junction|GB||9b|4ap|-a6|8
+La Cardona|MX|San Luis Potosí|41|1og|-7ru|8|Cardona
+Carandía|ES||9d|3ce|-b2|8
+La Carbonera|MX|Oaxaca|41|1f9|-7fv|8|Carbonera
+Cardigan|AU||8j|-2w9|b3b|8
+Carnock|GB||9b|4bs|-9u|8
+Carrouges|FR||9k|3qx|-f|8
+Carnoët|FR||9k|3qd|-9s|8|Karnoed
+Carceri|IT||9o|3hk|wa|7
+Carfizzi|IT||9o|317|1b5|7|Karfici
+Carla-Bayle|FR||9k|3bv|3v|7
+Cardenete|ES||9d|32h|-4o|7
+Carmel|AU||8k|-2gy|8yi|7
+Carno|GB||9b|420|-9u|7
+Carvoeira|PT||99|32c|-nq|7
+Carlton|GB|England|9b|47n|-3v|7
+Carme|ES||9d|37d|4i|7
+Carlsbad|US|Texas|2f|2ft|-7rk|7
+Carrozas|MX||41|1kx|-7xd|7|Carrosas
+Carnello|IT||9o|37s|11t|7
+El Carmen|MX|Guanajuato|41|1n0|-7qo|7|Carmen
+Cărăpcești|RO||8u|3jp|24u|7
+Caracucho|PE||3o|-i0|-663|7
+Carency|FR||9k|3vy|7i|7
+Carroll|US|New Hampshire|48|3f2|-5iq|7|Caroll
+Carasa|RO||8u|3p6|21o|7
+Carboneros|ES||9d|2y7|-a3|7
+Cardet|FR||9k|3eb|bc|7
+Cara|RO||8u|3lw|1u2|7
+Carema|IT||9o|3im|lp|7
+Carlton|US|Montana|2p|3lo|-8sw|7
+Carmignano|IT|Veneto|9o|3hf|wd|7
+Carlisle|US|Indiana|38|309|-6qt|7
+Carbajales de Alba|ES||9d|37p|-go|7
+Carrubbo|IT||9o|2w5|14n|7|Carrubo
+Cardwell|US||2f|2s5|-6yt|7
+Carhampton|GB||9b|3y5|-9i|7
+Cardeñadijo|ES||9d|39i|-a7|7
+Careri|IT||9o|2y2|18s|7
+Carbone|IT||9o|33i|18p|7
+Carrizalillo|MX|Guerrero|41|1a5|-7mc|7
+Cârlomănești|RO||8u|3jq|24m|7|Cîrlomăneşti
+Carlos Rovirosa 1ra. Sección|MX||41|1fl|-75c|7
+Carolino Anaya (Espina Blanca)|MX||41|1ic|-7hd|7
+Carway|GB||9b|3zq|-br|7
+Carcelén|ES||9d|30m|-3n|7
+Caredia-Lacco|IT||9o|2xg|17w|7
+El Carrizal|MX|San Luis Potosí|41|1o0|-7mb|7|Carrizal
+Çarıklı|TR||94|2xp|36h|7
+Carlux|FR||9k|3go|3r|7|Carluç
+Carney|US|Oklahoma|2f|2rh|-7hh|7
+Cardonal|MX|Hidalgo|41|1l9|-7nc|7
+Caroleen|US||48|2q0|-6b8|7
+Cardigan Village|AU||8j|-2w8|b37|7
+Caria|IT||9o|2zd|186|7
+Cardeñajimeno|ES||9d|39l|-a2|7
+Carmignanello|IT||9o|3e8|uy|6
+Cartigny|FR||9k|3un|8d|6
+Carlos A. Madrazo|MX|Tabasco|41|1f7|-76a|6
+Carucedo|ES||9d|3a1|-it|6
+Carsan|FR||9k|3ew|cr|6
+Carlanstown|IE||8z|45c|-j0|6|Droichead Chearbhallain
+Carlus|FR||9k|3dx|5v|6
+Caraybamba|PE||3o|-13y|-5n8|6|Caraibamba
+Caronti|IT||9o|37o|yu|6
+Caral|PE||3o|-u9|-5za|6|Cacal
+Carmona y Valle|MX||41|1nc|-7jo|6
+Carbonado|US||3p|3ms|-9f1|6
+Cresciano|CH||a7|3kk|p0|6|Carscèi
+Carcen-Ponson|FR||9k|3dw|-29|6
+Carmonita|ES||9d|30r|-hm|6
+Carunchio|IT||9o|38g|14d|6
+Les Cars|FR||9k|3iw|2z|6|Los Cars;Cars
+El Carrizal|MX|Baja California Sur|3x|1u2|-8if|6|Carrizal
+Cărbunari|RO|Maramureş|8u|3o6|1to|6|Cărbunar
+Cargenbridge|GB||9b|48y|-a4|6
+Cartwright|US||2f|2m1|-7g8|6
+Carlisle|US|Oklahoma|2f|2qm|-7bz|6|Carlile
+Carpinello|IT||9o|3ew|xo|6
+Cargeghe|IT||9o|34z|ny|6|Gargheghe
+Carey|US|Idaho|28|3cb|-8si|6
+Carnaubal|BR|Rio Grande do Norte|2w|-el|-2qr|6
+La Cardona|MX|Nuevo León|44|1t0|-7pq|6|Cardona
+Cărpeniș|RO||8u|3hn|1w3|6|Cărpinis
+Cârjelari|RO||8u|3gw|26q|6|Cîrjelari
+Čara|HR||a6|3ba|1b1|6
+El Carrizal|MX|Oaxaca|41|19x|-7io|6|Carrizal
+Carmacks|CA||5c|4sh|-ail|6
+Carassai|IT||9o|3bj|121|6
+Carrizo Hill|US||2f|276|-7pb|6
+Cargo|AU||8l|-2ku|bhd|6
+Carbonara|IT||9o|3i1|wc|6
+Carnesville|US||48|2nh|-6f8|6
+Carlos Greene 1ra. Sección Tres (Colonia el Limón)|MX||41|1em|-77m|6
+Carbajal|MX||41|1mh|-7qj|6
+Carbrooke|GB||9b|422|2g|6|Carbooke
+Carrascal de Barregas|ES||9d|35u|-g0|6
+Carlton le Moorland|GB||9b|43j|-1s|6
+Carboneras|MX|Sinaloa|3x|1wu|-89x|6|Carbonera
+Carapo|PE||3o|-12g|-5qg|6
+Cardaillac|FR||9k|3g4|5k|6
+Carrocera|ES||9d|3aw|-fy|6
+Carolles|FR||9k|3rf|-4c|6
+Carmen Rusia|MX||41|1a2|-734|6
+Carlock|US||2f|34q|-6vl|6
+Carrera Larga|MX||41|1bc|-7q2|6
+Cardile|IT||9o|33v|16c|6
+Carter Springs|US||3p|2zy|-98c|6
+El Carmen de Sánchez|MX||41|1lr|-7u5|6|Carmen de Sánchez
+Carpeneto|IT||9o|3js|10m|6
+Carisio|IT||9o|3i5|ms|5
+Carrodano|IT||9o|3ew|qu|5
+Carrick|AU||8g|-37d|bcd|5
+Carbonara Scrivia|IT||9o|3gl|on|5
+Carlby|GB||9b|42f|-19|5
+Carseland|CA||2s|3x9|-8r7|5
+Carthage|US|Maine|48|3fy|-5fr|5
+Carantilly|FR||9k|3sb|-3g|5
+Caritamaya|PE||3o|-18h|-5ds|5
+Carly|FR||9k|3wp|4q|5
+Cardeñosa|ES||9d|356|-d7|5
+Carpineto Sinello|IT||9o|38p|14a|5
+Carnelian Bay|US||3p|30z|-99k|5
+Cartiu|RO||8u|3hc|1ss|5
+Carvăn|RO||8u|3ec|24l|5
+La Carbonera|MX|Querétaro|41|1lt|-7r6|5|Carbonera
+Carroll|US|Ohio|48|32k|-6dq|5|Carrol
+Caravaneți|RO||8u|3e4|1x4|5
+Carrignavar|IE||8z|40f|-nk|5|Carraig na bhFear
+Caroga Lake|US||48|3bu|-5qw|5|Garoga Lake
+Caraffa del Bianco|IT||9o|2xt|18p|5|Carapha
+Carsonville|US||2q|3cn|-6dn|5
+Cârlomanu|RO||8u|3e0|1xc|5|Cârloman;Cîrlomanu
+Caridad San Antonio|MX||41|1b0|-75e|5
+Carpenedo|IT||9o|3iw|xi|5
+Carhuacatac|PE||3o|-vt|-5u9|5|Carhuacatao
+Carresse-Cassaber|FR||9k|3cs|-2s|5|Carressa;Carressa e Cassabè;Caresse
+Čaradice|SK||8s|3qc|1ff|5
+Carhuanca|PE||3o|-126|-5oz|5

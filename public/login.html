@@ -1,0 +1,679 @@
+<!doctype html>
+<html lang="en" data-app="wegoplace-app" class="ds">
+<head>
+<meta charset="utf-8">
+  <meta name="wgp-build" content="v170">
+<!-- First, at a www. address: the same page without www., unless this phone keeps the app here (public/js/www.js). -->
+<script src="/js/www.js"></script>
+<!-- What breaks on this page reaches the site's owner, cleaned of anything personal (js/error-report.js). -->
+<script type="module" src="/js/error-report.js"></script>
+<!-- The same head as index.html: viewport-fit=cover is what makes env(safe-area-inset-*) answer
+     anything but 0, and this is the first page an installed app shows once its session has
+     ended, so it has to clear the notch too. -->
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<!-- One theme-color, not a light/dark pair: a pair follows the system, and this page follows
+     the theme chosen in the app (data-theme, below). The script repaints it from the same
+     table the stylesheet's themes use. -->
+<meta name="theme-color" content="#fdfdfc">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<!-- The app's name, not a trip's: this page knows nothing about any trip. -->
+<meta name="apple-mobile-web-app-title" content="We Go Place">
+<!-- No apple-mobile-web-app-status-bar-style: see index.html (the installed app's top blur, 21 Nov). -->
+<meta name="robots" content="noindex">
+<title>Sign in · WeGoPlace</title>
+
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/icons/favicon.1ad16064.ico" sizes="16x16 32x32 48x48">
+<link rel="apple-touch-icon" href="/icons/icon-180.b5a4a30b.png" sizes="180x180">
+
+<link rel="preload" href="/vendor/fonts/instrument-sans-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/vendor/fonts/bricolage-grotesque-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+<!-- On the design system whole (the page carries .ds): its tokens, base, controls and the shell's own pieces
+     ("Updating the app…", js/fresh-app.js), then the page's own (css/signin.css). Nothing of styles.css. -->
+<link rel="stylesheet" href="/ds/tokens.css">
+<link rel="stylesheet" href="/ds/base.css">
+<link rel="stylesheet" href="/ds/controls.css">
+<link rel="stylesheet" href="/ds/shell.css">
+<link rel="stylesheet" href="/css/signin.css">
+
+<script>
+// The theme, before first paint. Classic and inline on purpose: a module script runs after the
+// first paint, which would flash the wrong theme between the app and this page. It only reads
+// the app's "wgp.theme" key.
+(function () {
+  var root = document.documentElement;
+
+  // The same table index.html and account.html carry. Each page is its own document and must
+  // not depend on the app shell loading, so keep the three in step.
+  var THEMES = {
+    light: { lm: "light", bar: "#fdfdfc" },
+    void:  { lm: "dark",  bar: "#000000" }
+  };
+  // Appearance is System, Light or Dark (Void). A phone that kept a retired look reads as the nearest (Night and
+  // Slate as Dark, Linen as Light); what it stored is left alone until the person picks again.
+  var RETIRED = { dark: "void", slate: "void", linen: "light" };
+
+  var t = null;
+  try { t = localStorage.getItem("wgp.theme"); } catch (e) { /* private mode throws; the system theme is a fine default */ }
+  if (RETIRED[t]) t = RETIRED[t];
+  if (!THEMES[t]) t = null;
+  if (t) root.setAttribute("data-theme", t);
+
+  var m = document.querySelector('meta[name="theme-color"]');
+  var mq = matchMedia("(prefers-color-scheme: dark)");
+  function paint() {
+    var forced = root.getAttribute("data-theme");
+    var th = THEMES[forced] || (mq.matches ? THEMES.void : THEMES.light);   // see index.html
+    root.setAttribute("data-lum", th.lm);      // the family, for any rule keyed on it
+    if (m) m.setAttribute("content", th.bar);
+  }
+  paint();
+  // With no theme chosen the system can change underneath an open page (dark at sunset).
+  mq.addEventListener("change", paint);
+})();
+
+// The keyboard. The body is 100dvh (css/signin.css), and dvh doesn't shrink for a keyboard: the
+// focused field can sit under the keys. So while the keys are up, data-kb trims the page's foot,
+// and the page's own scroller (never the document) moves the field, and its form's button, into
+// the band above them. The body's height doesn't follow the keys: a column centred in a body that
+// changed a moment after the viewport jumped under the finger after every resize (19 Nov).
+// Inline for the same reason as the theme: a deferred import would apply a frame late.
+(function () {
+  var vv = window.visualViewport;
+  if (!vv) return;
+  var focused = false;
+
+  var vvBase = 0;
+  function kbHeight() {
+    // The keyboard's height is the drop in the visual viewport from its size with the keys
+    // down. (innerHeight shrinks with the keyboard on iOS, so a formula built on it reads 0.)
+    // The baseline is learned again whenever no field is focused, so a collapsing address bar
+    // or a rotation isn't taken for a keyboard.
+    if (!focused && vv.height > vvBase) vvBase = vv.height;
+    if (!vvBase) vvBase = vv.height;
+    return Math.max(0, Math.round(vvBase - vv.height));
+  }
+  function paintKeys() {
+    // 120px: taller than an iOS accessory bar, far shorter than a keyboard.
+    var open = focused || kbHeight() > 120;
+    // document.body doesn't exist yet on the first call (this runs in <head>).
+    if (document.body) document.body.dataset.kb = open ? "1" : "0";
+    if (open && (window.scrollY || window.scrollX)) window.scrollTo(0, 0);
+  }
+  function isField(el) {
+    if (!el) return false;
+    if (el.tagName === "INPUT") return !/^(checkbox|radio|button|submit|reset)$/i.test(el.type || "text");
+    return el.tagName === "TEXTAREA" || el.isContentEditable === true;
+  }
+  // Keeping the page still isn't enough: the button that finishes the form has to be reachable
+  // too. After the page has shrunk, its own scroller (never the document) moves the focused
+  // field and, where both fit, the form's button into the band above the keys.
+  function reveal() {
+    var el = document.activeElement;
+    if (!isField(el)) return;
+    var port = el.closest(".lg-page");
+    if (!port) return;
+    var form = el.closest("form");
+    var submit = form && form.querySelector('[type="submit"]');
+    var pr = port.getBoundingClientRect();
+    var er = el.getBoundingClientRect();
+    var pad = 12;
+    var wantBottom = submit ? submit.getBoundingClientRect().bottom : er.bottom;
+    var delta;
+    if (wantBottom - er.top <= pr.height - pad * 2) {
+      // Field and button both fit: pull the button just inside the bottom edge, then give way if
+      // that would push the field itself off the top — the field you are typing in always wins.
+      delta = Math.max(wantBottom - (pr.bottom - pad), 0);
+      if (er.top - delta < pr.top + pad) delta = er.top - (pr.top + pad);
+    } else {
+      // Too tall to show both. Sit the field high in the band so what follows it is readable.
+      delta = er.top - (pr.top + pr.height * 0.18);
+    }
+    if (Math.abs(delta) > 1) port.scrollTop += delta;
+  }
+
+  addEventListener("focusin", function (e) {
+    if (!isField(e.target)) return;
+    focused = true;
+    paintKeys();
+    // Twice: now, for when the keys are already up (moving between two fields), and again once
+    // the keyboard has finished coming in, because the band it leaves isn't known until then.
+    reveal();
+    setTimeout(reveal, 350);
+  });
+  addEventListener("focusout", function (e) {
+    if (!isField(e.target)) return;
+    // Deferred: moving between two fields fires focusout before focusin, and reacting to the
+    // gap makes the page jump between them.
+    setTimeout(function () { focused = isField(document.activeElement); paintKeys(); }, 0);
+  });
+  // Only when the keyboard's own height changes: iOS also fires this while someone scrolls by
+  // hand, and moving the page under their finger would be its own fault.
+  var lastKb = 0;
+  vv.addEventListener("resize", function () {
+    paintKeys();
+    var kb = kbHeight();
+    if (Math.abs(kb - lastKb) > 40) { lastKb = kb; if (kb > 120) reveal(); }
+  });
+  vv.addEventListener("scroll", paintKeys);
+  paintKeys();
+})();
+</script>
+
+</head>
+
+<body data-login-page>
+
+<!-- data-wait: nothing is drawn until js/auth.js knows what this page is (the wordmark, what
+     the site offers, whether someone is already signed in), so it appears once, where it
+     stays. The script takes the attribute off. The wait has an end that doesn't need the
+     script: css/signin.css shows the page after four seconds whatever has happened. With
+     scripts off only the note at the bottom shows; if the script can't be fetched, the note
+     above that one does. -->
+<main class="lg-page" id="page" data-wait>
+
+  <!-- Filled by paintWordmark() in js/auth.js, and by nothing else. -->
+  <div class="lg-brand" id="brand"></div>
+
+  <div class="lg-wrap">
+
+    <div class="banner" id="unsupported" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4.5 2.8 20h18.4L12 4.5Z"/><path d="M12 10v4M12 17v.4"/></svg>
+      <span id="unsupported-text"></span>
+    </div>
+
+    <!-- What just happened, said once, above whichever screen is showing: under the wordmark,
+         where it is seen whichever button was pressed. -->
+    <p class="lg-msg" id="msg" role="status" aria-live="polite" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true"></svg>
+      <span></span>
+    </p>
+    <pre class="err-detail" id="detail" hidden></pre>
+
+    <!-- ── sign in, or make an account (/login) ──────────────────────────────────────────
+         Laid out as Lexicommons' sign-in page is: one line saying what this is, then the ways
+         in, one under another and all alike (Google and GitHub only where this site has them
+         set up, js/auth.js asks /api/auth/config; then a passkey, which signs in or,
+         back without one, makes the account by a name), then one row, "Trouble signing in?", holding the other ways. The two marks are the providers' own and are
+         drawn as each asks: Google's G is its file, unchanged
+         (developers.google.com/identity/branding-guidelines: the standard color G, on white or
+         #131314); GitHub's is the mark from its Octicons set (MIT), in black or white. -->
+    <section class="lg-panel" id="p-signin" aria-labelledby="signin-title">
+      <!-- A guest (js/guest.js) signing in to another account leaves their place on the trips
+           behind: said before they choose a way. -->
+      <p class="lg-msg" id="guest-warn" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4.5 2.8 20h18.4L12 4.5Z"/><path d="M12 10v4M12 17v.4"/></svg>
+        <span id="guest-warn-text"></span>
+      </p>
+
+      <!-- What this is, for someone who has never seen it: the first screen of a signed-out visit. -->
+      <p class="lg-what" id="signin-what"><b>Plan a trip together:</b> the days, the places, who paid and the photos, on everyone's phone.</p>
+      <!-- At the foot of the screen, as the mock-up lays them out: one white button (Google's, in its own colors; with no
+           Google here, the first way shown), the others gray, never hidden. -->
+      <div class="lg-ways lg-ways-block">
+        <h1 class="lg-ways-title" id="signin-title">Sign in or create an account</h1>
+        <!-- Google and GitHub, only where this site has them set up (js/auth.js shows each, and
+             the group when either is). -->
+        <div class="lg-ways" id="providers" hidden>
+          <form method="post" action="/login/google" data-provider="google" hidden>
+            <input type="hidden" name="next" value="/">
+            <button class="ds-button ds-button--lg ds-button--block lg-way lg-google" data-act type="submit"><img class="lg-mark" src="/img/marks/google-g.png" width="200" height="204" alt=""><span data-words>Continue with Google</span></button>
+          </form>
+          <form method="post" action="/login/github" data-provider="github" hidden>
+            <input type="hidden" name="next" value="/">
+            <button class="ds-button ds-button--gray ds-button--lg ds-button--block lg-way" data-act type="submit"><svg class="lg-mark lg-mark-github" viewBox="0 0 16 16" aria-hidden="true"><path d="M6.766 11.328c-2.063-.25-3.516-1.734-3.516-3.656 0-.781.281-1.625.75-2.188-.203-.515-.172-1.609.063-2.062.625-.078 1.468.25 1.968.703.594-.187 1.219-.281 1.985-.281.765 0 1.39.094 1.953.265.484-.437 1.344-.765 1.969-.687.218.422.25 1.515.046 2.047.5.593.766 1.39.766 2.203 0 1.922-1.453 3.375-3.547 3.64.531.344.89 1.094.89 1.954v1.625c0 .468.391.734.86.547C13.781 14.359 16 11.53 16 8.03 16 3.61 12.406 0 7.984 0 3.563 0 0 3.61 0 8.031a7.88 7.88 0 0 0 5.172 7.422c.422.156.828-.125.828-.547v-1.25c-.219.094-.5.156-.75.156-1.031 0-1.64-.562-2.078-1.609-.172-.422-.36-.672-.719-.719-.187-.015-.25-.093-.25-.187 0-.188.313-.328.625-.328.453 0 .844.281 1.25.86.313.452.64.655 1.031.655s.641-.14 1-.5c.266-.265.47-.5.657-.656"/></svg><span data-words>Continue with GitHub</span></button>
+          </form>
+        </div>
+        <!-- One flex child for the words, not two: .btn has a gap, so a bare text node beside a
+             <span> would be spaced apart from it. -->
+        <button class="ds-button ds-button--gray ds-button--lg ds-button--block lg-way" id="btn-signin" data-act type="button"><svg class="lg-mark lg-mark-key" viewBox="0 0 24 24" aria-hidden="true"><circle cx="7.4" cy="12" r="4.2"/><path d="M11.6 12h9.8"/><path d="M17.2 12v3.4M20.4 12v2.6"/></svg><span>Continue with a passkey</span></button>
+
+        <!-- After a passkey sign-in that came back without one (none for this site on this device, or the prompt closed:
+             the browser deliberately won't say which), the account is made here: by a typed name and Create, never by
+             the failed sign-in itself. Or try again. -->
+        <div class="lg-make" id="signin-make" hidden>
+          <p class="lg-make-what" id="make-what">No passkey here yet? Make your account.</p>
+          <form class="lg-form" id="form-join" novalidate>
+            <div class="ds-field">
+              <label class="ds-label" for="join-name">Your name</label>
+              <input class="ds-input ds-input--lg" id="join-name" name="name" type="text"
+                     autocomplete="name" autocapitalize="words" autocorrect="off"
+                     spellcheck="false" maxlength="40" enterkeyhint="go" placeholder="what the people on your trips will see">
+            </div>
+            <button class="ds-button ds-button--white ds-button--lg ds-button--block lg-go" id="btn-join" data-act type="submit">Create account</button>
+            <p class="meta">It makes a passkey on this device: Face ID, Touch ID or its screen lock. There is no password.</p>
+          </form>
+          <button class="ds-button ds-button--fade ds-button--block" id="btn-signin-again" data-act type="button">Try again</button>
+        </div>
+      </div>
+
+      <!-- The other ways in, folded into one row: an account from before open sign-up signs in by its username (a device
+           that can't find its passkey by itself), and someone who lost every passkey gets back in by email. -->
+      <details class="lg-new" id="trouble">
+        <summary>Trouble signing in?<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9.5 6 6 6-6 6"/></svg></summary>
+        <form class="lg-form" id="form-signin-name" novalidate>
+          <div class="ds-field">
+            <label class="ds-label" for="signin-name">Signed up with a username</label>
+            <input class="ds-input ds-input--lg" id="signin-name" name="username" type="text"
+                   autocomplete="username webauthn" autocapitalize="none" autocorrect="off"
+                   spellcheck="false" maxlength="64" enterkeyhint="go" placeholder="the name you signed up with, lowercase">
+          </div>
+          <button class="ds-button ds-button--gray ds-button--lg ds-button--block" id="btn-signin-name" data-act type="submit">Sign in with my username</button>
+        </form>
+        <button class="ds-button ds-button--fade ds-button--block" id="btn-recover" data-act type="button" hidden>Lost your passkey? Get back in by email</button>
+      </details>
+      <div class="banner" id="paused" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4.5 2.8 20h18.4L12 4.5Z"/><path d="M12 10v4M12 17v.4"/></svg>
+        <span>New accounts are paused for now. If you already have one, you can still sign in.</span>
+      </div>
+    </section>
+
+    <!-- ── back from Google or GitHub with a sign-in nobody here has used (/login/new) ────
+         Nothing is made until someone says so: either a new account with this sign-in, or the
+         account they already have, signed in to another way, with this added to it. -->
+    <section class="lg-panel" id="p-new" aria-labelledby="new-title" hidden>
+      <h1 class="h2" id="new-title">One more step</h1>
+      <p class="lead" id="new-what">Nobody here signs in with that account yet.</p>
+
+      <form class="lg-form" id="form-new" novalidate>
+        <div class="ds-field">
+          <label class="ds-label" for="new-name">Your name</label>
+          <input class="ds-input ds-input--lg" id="new-name" name="name" type="text"
+                 autocomplete="name" autocapitalize="words" autocorrect="off"
+                 spellcheck="false" maxlength="40" enterkeyhint="go" placeholder="what the people on your trips will see">
+        </div>
+        <button class="ds-button ds-button--white ds-button--lg ds-button--block" id="btn-new" data-act type="submit">Create an account</button>
+      </form>
+
+      <div class="lg-sep">already have an account</div>
+
+      <p class="meta">Sign in to it the way you usually do, and <span class="strong" id="new-add">this sign-in</span> is added to it as another way in.</p>
+      <button class="ds-button ds-button--gray ds-button--lg ds-button--block" id="btn-new-passkey" data-act type="button"><span>Sign in with <span data-pk-short>a passkey</span></span></button>
+      <form method="post" action="/login/google" data-provider="google" hidden>
+        <input type="hidden" name="intent" value="attach">
+        <input type="hidden" name="next" value="/">
+        <button class="ds-button ds-button--gray ds-button--lg ds-button--block lg-google" data-act type="submit"><img class="lg-mark" src="/img/marks/google-g.png" width="200" height="204" alt=""><span data-words>Sign in with Google</span></button>
+      </form>
+      <form method="post" action="/login/github" data-provider="github" hidden>
+        <input type="hidden" name="intent" value="attach">
+        <input type="hidden" name="next" value="/">
+        <button class="ds-button ds-button--gray ds-button--lg ds-button--block" data-act type="submit"><svg class="lg-mark lg-mark-github" viewBox="0 0 16 16" aria-hidden="true"><path d="M6.766 11.328c-2.063-.25-3.516-1.734-3.516-3.656 0-.781.281-1.625.75-2.188-.203-.515-.172-1.609.063-2.062.625-.078 1.468.25 1.968.703.594-.187 1.219-.281 1.985-.281.765 0 1.39.094 1.953.265.484-.437 1.344-.765 1.969-.687.218.422.25 1.515.046 2.047.5.593.766 1.39.766 2.203 0 1.922-1.453 3.375-3.547 3.64.531.344.89 1.094.89 1.954v1.625c0 .468.391.734.86.547C13.781 14.359 16 11.53 16 8.03 16 3.61 12.406 0 7.984 0 3.563 0 0 3.61 0 8.031a7.88 7.88 0 0 0 5.172 7.422c.422.156.828-.125.828-.547v-1.25c-.219.094-.5.156-.75.156-1.031 0-1.64-.562-2.078-1.609-.172-.422-.36-.672-.719-.719-.187-.015-.25-.093-.25-.187 0-.188.313-.328.625-.328.453 0 .844.281 1.25.86.313.452.64.655 1.031.655s.641-.14 1-.5c.266-.265.47-.5.657-.656"/></svg><span data-words>Sign in with GitHub</span></button>
+      </form>
+
+      <button class="ds-button ds-button--fade ds-button--block" id="btn-new-cancel" data-act type="button">Start over</button>
+    </section>
+
+    <!-- ── a one-use link from the site's operator (/login/link/<token>) ─────────────────
+         Opening the address uses nothing (a mail scanner or a link preview opens addresses
+         too). The button does. -->
+    <section class="lg-panel" id="p-link" aria-labelledby="link-title" hidden>
+      <h1 class="h2" id="link-title">Sign in with this link</h1>
+      <p class="lead">This link signs you in once, on this device. After that, add a passkey here so you don't need another.</p>
+      <!-- Someone already signed in on this phone (js/auth.js): who, and what signing in with the link
+           ends for them. The button then asks before it does. -->
+      <p class="lg-msg lg-msg-err" id="link-current" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4.5 2.8 20h18.4L12 4.5Z"/><path d="M12 10v4M12 17v.4"/></svg>
+        <span></span>
+      </p>
+      <button class="ds-button ds-button--white ds-button--lg ds-button--block" id="btn-link" data-act type="button">Sign in</button>
+    </section>
+
+    <!-- ── getting back in with the email on the account ─────────────────────────────── -->
+    <section class="lg-panel" id="p-recover" aria-labelledby="recover-title" hidden>
+      <h1 class="h2" id="recover-title">Get back in by email</h1>
+      <form class="lg-form" id="form-recover-email" novalidate>
+        <div class="ds-field">
+          <label class="ds-label" for="recover-email">The email on your account</label>
+          <input class="ds-input ds-input--lg" id="recover-email" name="email" type="email"
+                 autocomplete="email" autocapitalize="none" autocorrect="off"
+                 spellcheck="false" maxlength="254" enterkeyhint="send" inputmode="email">
+        </div>
+        <button class="ds-button ds-button--white ds-button--lg ds-button--block" id="btn-recover-send" data-act type="submit">Send me a code</button>
+      </form>
+      <form class="lg-form" id="form-recover-code" novalidate hidden>
+        <div class="ds-field">
+          <label class="ds-label" for="recover-code">6-digit code</label>
+          <input class="ds-input ds-input--lg lg-code" id="recover-code" name="code" type="text"
+                 autocomplete="one-time-code" inputmode="numeric" pattern="[0-9 ]*"
+                 maxlength="8" enterkeyhint="go">
+        </div>
+        <button class="ds-button ds-button--white ds-button--lg ds-button--block" id="btn-recover-code" data-act type="submit">Sign in</button>
+      </form>
+      <button class="ds-button ds-button--fade ds-button--block" id="btn-recover-back" data-act type="button">Back to sign in</button>
+    </section>
+
+    <!-- ── already signed in ─────────────────────────────────────────────────────────── -->
+    <section class="lg-panel" id="p-account" aria-labelledby="account-title" hidden>
+      <div class="lg-explain lg-card">
+        <h1 class="h3" id="account-title">Signed in as <span class="strong" id="account-name">…</span></h1>
+        <!-- A guest (js/guest.js): what that means, and where to keep their place. -->
+        <p class="meta" id="account-guest" hidden></p>
+      </div>
+      <button class="ds-button ds-button--white ds-button--lg ds-button--block" id="btn-continue" data-act type="button">Continue</button>
+      <a class="ds-button ds-button--gray ds-button--lg ds-button--block" href="/account" id="go-account">Your account</a>
+      <button class="ds-button ds-button--fade ds-button--block" id="btn-signin-other" data-act type="button" hidden>Sign in to an account you have</button>
+      <button class="ds-button ds-button--fade ds-button--block" id="btn-signout" data-act type="button">Sign out</button>
+    </section>
+
+    <!-- Only on a device that can't hold a passkey by itself: a button that will never work
+         needs its reason beside it. -->
+    <p class="meta" id="no-platform" hidden>This device has no Face ID, Touch ID, fingerprint or
+      screen lock set up, so it can't hold a passkey by itself. Set one up, or use a hardware
+      security key.</p>
+
+    <!-- Shown by the script tag at the bottom when js/auth.js (or a file it needs) can't be
+         fetched: no button on this page can work without it. -->
+    <div class="lg-failed" id="no-script" hidden>
+      <p class="meta">This page didn't finish loading, so signing in can't work yet. Check your connection, then try again.</p>
+      <a class="ds-button ds-button--gray ds-button--lg ds-button--block" href="">Try again</a>
+    </div>
+
+    <noscript>
+      <p class="meta">This page needs JavaScript: signing in with a passkey is something the browser does through it.</p>
+    </noscript>
+
+    <p class="lg-fine"><a href="/privacy">Privacy</a><a href="/terms">Terms</a><a href="/report">Report a bug</a></p>
+  </div>
+</main>
+
+<!-- The page's own script is started by the guard below and by nothing else, once this page and the worker in
+     charge are one build (public/js/fresh-app.js, carried inline as every page does: a worker keeps its own copy of the
+     file and would answer with that). -->
+<script>
+// THE ONE LOAD ON AN OLDER WORKER'S SCRIPTS. public/js/fresh-app.js, and the same text inline
+// in index.html, word for word (scripts/old_queue_check.mjs holds them equal, and that no
+// line here spells a script tag, which would end the inline copy). Classic, so it runs before
+// a page's module does anything.
+//
+// A phone that had the app before a trip had an address (service worker v54 and older) is
+// still controlled by that worker the first time it comes back. That worker fetches a page
+// from the network first and serves scripts from its own cache first: so the phone gets the
+// NEW page with the OLD store.js, auth.js, router.js and the rest, until the new worker has
+// installed and taken over. Run like that, the old store sent its unsent changes to addresses
+// that no longer exist, and the old auth.js left the sign-in page with no button that worked.
+//
+// THE RULE: NO ROAD RUNS THIS APP ON THAT WORKER'S SCRIPTS. This asks the worker in control
+// which build it is, and for one from before v60 (the first with a trip at its own address)
+// the page's module never starts on this load. The page says "Updating the app…", registers
+// the new worker, and loads again when it takes over: a second or two on a good connection.
+// Meanwhile, every TICK_MS:
+//   - No connection (a request to /api/, which the old worker passes straight to the network,
+//     fails): the page loads again. The old worker can't reach the network either, so it
+//     serves the page it kept, which is its own (see APP_MARKER in sw.js for why it never
+//     keeps a page of this app's): the OLD app opens, whole, as it always did with no signal.
+//     Only if that load lands back here with still no connection (a worker that kept this
+//     page after all) does the page say the update needs one, with a button to try again.
+//   - A connection, and the new worker is still downloading its shell: keep waiting, up to
+//     SLOW_MS. The old worker is worth keeping while there is hope: it is the only thing that
+//     opens the trip with no signal until the new one is in.
+//   - A connection, and no new worker on its way after WAIT_MS (its install failed, or
+//     stalled past SLOW_MS): the old worker is unregistered and the page loads again. Nothing
+//     controls that load, so everything comes from the network, and the page registers the
+//     new worker itself like a first visit.
+// What the phone had not sent is untouched all the while: it is in the old databases, which
+// only the app's own code reads, and that is not running.
+//
+// Asked until a worker in control has answered as a new one: that is remembered in
+// "wgp.shell". A load nobody controls (a first visit, the load after an unregister, a reload
+// that skips the worker) has nothing old to be handed and is not asked, but it remembers
+// nothing either: an old worker may still be registered behind it, and control the next load.
+//
+// ONE BUILD PER PAGE (21 Nov: "personTone is not a function" on an installed iPhone, a page of
+// one build running on another build's modules). The rule above refused only workers from
+// before v60 and then stopped asking; any newer worker passed, and the first load after every
+// deploy ran the new page on the old worker's modules. Now every page names its build
+// (<meta name="wgp-build">, held equal to sw.js VERSION by sw_version_check), and:
+//   - A worker that ANSWERS another build than the page's: the app doesn't start on this load.
+//     The new worker is asked to take over (it waits until asked: sw.js) and the page loads
+//     again: once per build per tab (sessionStorage). If the pair still differs after that one
+//     reload, the page runs as it is and says so once (an error report), never a second reload.
+//     Offline, nothing is asked and nothing reloads (the worker answers with its own page then).
+//   - A worker that says NOTHING is old, exactly as before (the road above, unchanged): the
+//     workers from before the question never answer it, and the Peru trip's phones may carry
+//     exactly those. That road tells no signal from a slow one, and unregisters a worker whose
+//     update never comes before loading with nothing in control, so it can't loop.
+//   - A page with no meta (its build unknown) is never a mismatch: it runs, as before.
+//   - Once running, a page tells its worker its build (the worker answers its modules from that
+//     build's cache even after a newer worker takes over for another tab), and takes a waiting
+//     update when it is hidden with nothing unsent (later(), at the end); a takeover that didn't
+//     follow is asked for again on a later hide.
+//
+// HOW A PAGE USES IT. Its module is never a module script with a src and never an `import`
+// statement (both run the old worker's copy whatever this does): it is import()ed after
+// window.__shellReady, which is undefined when there is nothing to wait for.
+//   - EVERY PAGE carries this text INLINE (scripts/old_queue_check.mjs holds each copy equal
+//     to this file). Inline, never by its src: a worker keeps its own copy of this file, and a
+//     new page loading it by its src ran the OLD guard, which let any v60+ worker through (21 Nov,
+//     shell_build_check A). And a file can fail to arrive, so a page would start with nothing asked.
+//   - index.html awaits window.__shellReady itself; every other page then calls, inline,
+//     freshApp with a function that import()s the page's own module.
+window.freshApp = function (start) { return Promise.resolve(window.__shellReady).then(start); };
+(function () {
+  var sw = navigator.serviceWorker;
+  var TICK_MS = 5000, WAIT_MS = 20000, SLOW_MS = 90000, PING_MS = 8000, AGAIN_MS = 15000;
+  var known = null;
+  try { known = localStorage.getItem("wgp.shell"); } catch (e) { /* private mode: ask each time */ }
+  // This page's build; "" for a page without the meta: unknown, never a mismatch.
+  var metaEl = document.querySelector('meta[name="wgp-build"]');
+  var page = (metaEl && metaEl.getAttribute("content")) || "";
+  // What a worker in control answered, for this page's build ("1" from before builds were named, which a page that has
+  // a build asks again).
+  var mark = function () { try { localStorage.setItem("wgp.shell", page || "1"); } catch (e) { /* asked again next time */ } };
+  if (!sw) return;
+  later(sw, page);
+  if (!sw.controller) return;
+  if (known && (!page || known === page)) { tell(sw.controller, page); return; }
+  window.__shellReady = new Promise(function (go) {
+    var settled = false, waiting = false, leaving = false, began = 0;
+    var view = function () { return document.getElementById("view"); };
+    var reload = function () { if (leaving) return; leaving = true; location.reload(); };
+    // Where it is said: the app's own view, or on a page that has none, over the whole page.
+    var cover = function () {
+      var c = document.querySelector("[data-shell-cover]");
+      if (c) return c;
+      c = document.createElement("div");
+      c.setAttribute("data-shell-cover", "");
+      c.setAttribute("role", "status");
+      c.style.cssText = "position:fixed;inset:0;z-index:2147483647;overflow:auto;display:flex;flex-direction:column;" +
+        "justify-content:center;background:var(--ground, Canvas);color:var(--ink, CanvasText)";
+      (document.body || document.documentElement).appendChild(c);
+      return c;
+    };
+    // While it says so, the page around the words takes no tap: the old app's tab bar is still
+    // drawn under them, and a tab tapped there would move the address to a section that isn't
+    // running (the walk on an iPhone's Home Screen app, 15 Nov). Inert, and dimmed to say so.
+    var still = function () {
+      var bars = document.querySelectorAll(".tabbar");
+      for (var i = 0; i < bars.length; i++) { bars[i].setAttribute("inert", ""); bars[i].style.opacity = "0.45"; }
+    };
+    var say = function (html) { (view() || cover()).innerHTML = html; still(); };
+    var updating = function () {
+      say('<div class="ds ds-updating" data-shell="updating"><img class="ds-updating-icon" src="/icons/icon-192.e2026552.png" alt=""><p>Updating the app…</p></div>');
+    };
+    var needsSignal = function () {
+      if (document.querySelector('[data-shell="waiting"]')) return;
+      say('<div class="empty" data-shell="waiting"><p class="lead">Still updating the app</p>' +
+        '<p>This needs a connection. What you changed on this phone is safe, and is sent after the update.</p>' +
+        '<p><button class="btn btn-primary" type="button" data-shell-retry>Try again</button></p></div>');
+      var b = document.querySelector("[data-shell-retry]");
+      if (b) b.addEventListener("click", reload);
+    };
+    // Is there a connection? "yes": anything answered. "no": the request failed, which with
+    // no signal it does at once. "slow": nothing either way in PING_MS, which is a connection
+    // too busy or too poor to tell (the new worker's own download may be all of it).
+    var ping = function () {
+      return new Promise(function (answer) {
+        var done = false, end = function (what) { if (!done) { done = true; answer(what); } };
+        var ctl = typeof AbortController === "function" ? new AbortController() : null;
+        setTimeout(function () { end("slow"); if (ctl) ctl.abort(); }, PING_MS);
+        fetch("/api/me", { cache: "no-store", credentials: "same-origin", signal: ctl ? ctl.signal : undefined })
+          .then(function () { end("yes"); }, function () { end("no"); });
+      });
+    };
+    var triedAt = function () { try { return +sessionStorage.getItem("wgp.shell.offline") || 0; } catch (e) { return 0; } };
+    var tick = function () {
+      if (settled || leaving) return;
+      var again = function () { setTimeout(tick, TICK_MS); };
+      ping().then(function (net) {
+        if (settled || leaving) return;
+        var waited = Date.now() - began;
+        if (net === "slow" && waited < SLOW_MS) return again();
+        if (net !== "yes") {
+          // The old app, from the old worker's own page: unless that was just tried and led here.
+          if (Date.now() - triedAt() < AGAIN_MS) { needsSignal(); return again(); }
+          try { sessionStorage.setItem("wgp.shell.offline", String(Date.now())); } catch (e) { needsSignal(); return again(); }
+          return reload();
+        }
+        if (document.querySelector('[data-shell="waiting"]')) return reload();   // the signal is back
+        return sw.getRegistration().then(function (reg) {
+          var coming = !!(reg && (reg.installing || reg.waiting));
+          if (waited < WAIT_MS || (coming && waited < SLOW_MS)) return again();
+          return sw.getRegistrations()
+            .then(function (regs) { return Promise.all(regs.map(function (r) { return r.unregister(); })); })
+            .then(reload);
+        }).catch(again);
+      });
+    };
+    var wait = function () {
+      if (settled || waiting) return;
+      waiting = true;
+      began = Date.now();
+      updating();
+      sw.addEventListener("controllerchange", function () { mark(); reload(); });
+      sw.register("/sw.js", { updateViaCache: "none" })
+        .then(function (reg) { if (reg) return reg.update(); })
+        .catch(function () { /* no signal now: the ticks below find out */ });
+      setTimeout(tick, TICK_MS);
+    };
+    // The new worker, asked to take over: the one waiting, or the one installing once it has, or one the update finds.
+    var takeOver = function () {
+      sw.getRegistration().then(function (reg) {
+        if (!reg) return;
+        var ask = function (w) { try { w.postMessage({ type: "app/skip-waiting" }); } catch (e) { /* the reload below still comes */ } };
+        var follow = function (w) {
+          if (!w) return;
+          if (w.state === "installed") return ask(w);
+          w.addEventListener("statechange", function () { if (w.state === "installed") ask(w); });
+        };
+        if (reg.waiting) return ask(reg.waiting);
+        if (reg.installing) return follow(reg.installing);
+        reg.addEventListener("updatefound", function () { follow(reg.installing); });
+        return reg.update();
+      }).catch(function () { /* the reload below still comes */ });
+    };
+    // Said once, when a reload didn't make the pair one build: the page then runs as it is.
+    var report = function (v) {
+      try {
+        fetch("/api/errors", { method: "POST", headers: { "Content-Type": "application/json" }, keepalive: true, cache: "no-store",
+          credentials: "same-origin", body: JSON.stringify({ kind: "error", name: "ShellMismatch",
+            message: "shell mismatch after reload: the page is " + page + ", its worker " + v,
+            file: location.origin + "/js/fresh-app.js", line: 1, col: 1, place: location.pathname + location.hash, version: page }) })
+          .catch(function () { /* a report must never be the next error */ });
+      } catch (e) { /* a report must never be the next error */ }
+    };
+    // A worker of another build: one reload per build per tab, the new worker asked to take over first.
+    var mismatch = function (v) {
+      var key = "wgp.shell.reload", done = "";
+      try { done = sessionStorage.getItem(key) || ""; } catch (e) { done = page; }
+      settled = true;
+      if (done === page || navigator.onLine === false) {
+        if (done === page) report(v);
+        tell(sw.controller, page);
+        go();
+        return;
+      }
+      try { sessionStorage.setItem(key, page); } catch (e) { tell(sw.controller, page); go(); return; }
+      updating();
+      sw.addEventListener("controllerchange", reload);
+      takeOver();
+      setTimeout(reload, WAIT_MS);   // the one reload, taken over or not
+    };
+    var ch = new MessageChannel();
+    ch.port1.onmessage = function (e) {
+      var v = String((e.data && e.data.version) || "");
+      var n = +v.replace(/^v/, "");
+      // (An answer that comes after the wait began still starts the app: it was only slow.)
+      if (settled) return;
+      if (!(n >= 60)) { wait(); return; }
+      if (!page || v === page) { settled = true; mark(); tell(sw.controller, page); go(); return; }
+      mismatch(v);
+    };
+    try { sw.controller.postMessage({ type: "app/version" }, [ch.port2]); } catch (e) { wait(); }
+    // A worker that says nothing (one older than the question) is an old one.
+    setTimeout(function () { if (!settled) wait(); }, 1500);
+  });
+
+  // The worker answers a page's modules from the page's own build's cache (sw.js shellFor()), once the page has said
+  // which build it is. Said as it starts, and again to a worker that takes over while it is open.
+  function tell(worker, build) {
+    try { if (worker && build) worker.postMessage({ type: "app/page-build", build: build }); } catch (e) { /* its modules then come from the current build, as before */ }
+  }
+
+  // THE TAKEOVER WHEN HIDDEN. A new worker waits until it is asked (sw.js). A running page asks it at the one moment
+  // nobody is using it: hidden (the app switched away, the screen locked), online, with nothing unsent (no sheet open, no
+  // field focused or holding typed words), and then loads again, on the new build. A page that ANOTHER tab's takeover
+  // moved to a worker of another build loads again the same way. Once per build per tab (sessionStorage): no loop.
+  function later(sw, page) {
+    var due = "";
+    var busy = function () {
+      if (document.querySelector('[role="dialog"][aria-modal="true"]')) return true;
+      var a = document.activeElement;
+      if (a && (a.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(a.tagName))) return true;
+      var fields = document.querySelectorAll("input, textarea");
+      for (var i = 0; i < fields.length; i++) {
+        if (/^(hidden|checkbox|radio|button|submit|reset|file|range|color|image)$/i.test(fields[i].type || "")) continue;
+        if (fields[i].value !== fields[i].defaultValue) return true;
+      }
+      return false;
+    };
+    var once = function (build) {
+      try {
+        if (sessionStorage.getItem("wgp.shell.hidden") === build) return false;
+        sessionStorage.setItem("wgp.shell.hidden", build);
+        return true;
+      } catch (e) { return false; }
+    };
+    var buildOf = function (w) {
+      return new Promise(function (answer) {
+        if (!w) return answer("");
+        var ch = new MessageChannel(), t = setTimeout(function () { answer(""); }, 1500);
+        ch.port1.onmessage = function (e) { clearTimeout(t); answer(String((e.data && e.data.version) || "")); };
+        try { w.postMessage({ type: "app/version" }, [ch.port2]); } catch (e) { clearTimeout(t); answer(""); }
+      });
+    };
+    sw.addEventListener("controllerchange", function () {
+      tell(sw.controller, page);
+      buildOf(sw.controller).then(function (v) { if (v && page && v !== page) due = v; });
+    });
+    // A takeover asked for on a hide is only counted once it is seen (the controller changes, and the page loads again):
+    // until then, and for 10 s at most, a hide doesn't ask twice; after that, the next hide asks again. (Recorded at the
+    // asking, as it was, a takeover that didn't follow was never asked for again in that tab: the update then waited
+    // for the next launch.)
+    var asked = "", armed = false;
+    document.addEventListener("visibilitychange", function () {
+      if (document.visibilityState !== "hidden" || navigator.onLine === false || busy()) return;
+      if (due) { if (once(due)) location.reload(); return; }
+      sw.getRegistration().then(function (reg) {
+        var next = reg && reg.waiting;
+        if (!next) return;
+        return buildOf(next).then(function (v) {
+          if (!v || busy() || asked === v) return;
+          asked = v;
+          setTimeout(function () { if (asked === v) asked = ""; }, 10000);
+          // The takeover asked for here loads the page again only while it is still hidden with nothing unsent. A takeover
+          // that comes late (the old worker kept running by another tab's request in the instant it was stopped, and
+          // taken over only once it went idle) can come after the person is back: never under their hands then. The
+          // controllerchange listener above has set `due`, so the next hide loads it again, once (or the next launch).
+          if (!armed) { armed = true; sw.addEventListener("controllerchange", function () { if (document.visibilityState === "hidden" && !busy()) location.reload(); }); }
+          next.postMessage({ type: "app/skip-waiting" });
+        });
+      }).catch(function () { /* asked again the next time it is hidden */ });
+    });
+  }
+})();
+</script>
+<script>if (window.freshApp) freshApp(function () { return import("/js/auth.js"); }).catch(function () { const page = document.getElementById('page'); page.setAttribute('data-failed', ''); page.removeAttribute('data-wait'); document.getElementById('no-script').hidden = false; });</script>
+</body>
+</html>

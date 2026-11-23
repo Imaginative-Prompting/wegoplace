@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bû|FR||9k|3rk|46|i
+Wuhan|CN||7i|2cy|8tf|2y0e|Vuhano;Uhaņa;Vũ Hán;uuxan;Uxan;Vú-hon-sṳ;Wu-chan;Uhanas;Vuhan;Vuhani;Vujhan;Bú-hàn-chhī;Ū-háng;Uhan
+Mumbai|IN||6t|1gz|5mg|2pxi|Moembaai;Bombaj;Mumbajo;Bombaya;Bombay;Bombėjus;Mumbaja;Mumbay;Mumbaj;Bombaim;Mumbajus;Bombai;Dakbayan sa Bombay;Bůmbaj;mymbais;Numbai
+Bogotá|CO||27|ct|-5ps|1n7s|Bogoto;Boqota;Wukuta;Buoguota;Bogot
+Wuxi|CN|Jiangsu|7i|2fp|9a5|xxc|Usis;Wu-si;Vô Tích;Vuŝio;Vuhszi;Bû-sek-chhī;Ù-sék;Vuzsiz;Vuši;Usi;Wu-hsi;Wusih
+Busan|KR||7h|2pi|9yf|pcj|Pusano;Pusan;Phủ San;Pusana;Fusan
+Bursa|TR||94|33o|28q|nxm|Burs;Burso;Prusa;Prusa ad Olympum;Boursa;Prousa;Brusa
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Bucharest|RO||8u|3ff|20j|ehg|București;Bucarest;Bukareŝto;Bukarest;Bukurešť;Bucaresta;Bukareštas;Bukareste;Boekarest;Bukareszt;Bucareste;Bukureshta;Bükreş;Bukureshti;Buxarest;Bukarešta
+Budapest|HU||8v|3ny|1gw|dfm|Budimpešta;Boedapest;Budapescht;Budapeszt;Budapésht;Búdaipeist;Boedapes;Boudapès;Ofen-Pest
+Wuhu|CN||7i|2f3|94z|cby|Wu-chu;Vuĥu;Ù-hù;Bû-hô͘-chhī;Vu Hồ;Ouhu
+Putian|CN||7i|1yo|96l|bvm|Buò-dièng;Pchu-tchien;Phù-thièn-sṳ;Putyen shehiri;Phủ Điền;Phô͘-chhân-chhī;P’u-t’ien
+Fushun|CN||7i|38d|9ka|at2|Fusjun;Fu-šun;Fuŝuno;Fušunas;Phủ Thuận;Ū-sông;Fusun;Bú-sūn-chhī;Fu-shan
+Basrah|IQ||5z|2cr|3oq|a8i|Basra;Basora;Bassorah;Bàssora;Al-Basra;Baçorá;Besre;Busra;Bussora;Busrah;Bassra
+Budta|PH||71|k0|9lo|9tt
+Fuzhou|CN|Jiangxi|7i|25o|8z5|8er|Ū-ciŭ;Fu-čou;Vù-chû-sṳ;Phủ Châu;Bú-chiu-chhī;Fu-chou
+Bucheon-si|KR||7h|2w6|9s6|6kb|Bucheon
+Bouaké|CI||0|ld|-dz|6f8|Bvakė;Buake;Bwake
+Bukavu|CD||y|-6x|284|6aw|Costermansville;Costermansstad
+Port Said|EG||c|2ev|2hq|60t|Puerto Saíd;Port-Saïd;Porto Said;Bursaid;Būr Sa‘īd;Bor Sa‘īd
+Bujumbura|BI||b|-9e|29k|5xp|Buyumbura;Buĵumburo;Bužumbūra;Boujoumboura;Usumbura
+Buraydah|SA||7e|215|3e5|5r2|Burajda;Buraidah;Buräydä;Buraida
+Bulawayo|ZW||n|-1jz|27e|550|Bulavajas
+Puyang|CN|Henan|7i|2rc|8vk|525|Bŭk-iòng;Pchu-jang;Pujang;Bộc Dương;Phok-iông-chhī
+Bukit Rahman Putra|MY||6v|8y|7u4|4om
+Bucaramanga|CO||27|jt|-5n4|4hf|Bukaramanga;Bucaramango
+Wenchang|CN||7i|1ib|8js|4bt|Văn Xương;Bûn-chhiong-chhī;Wen-chiang;Wencheng
+Buda|HU||8v|3ny|1gv|3xp|Ofen;Altofen;Boeda;Budin;Budim;Akouinkon
+Port Sudan|SD||r|1ii|2ve|3s1|Bur Sudan;Puerto Sudán;Port-Soudan;Porto Sudan;Sudanhavenurbo;Port Szudán;Pòrt Sodan;Port-sudan;Porto Sudão;Bar'uut;Būrt Sūdān
+East London|ZA||o|-2jq|25j|3oz|KuGompo City;Yst Londonas;Buffalo City;Orient-Londono;Londinium Orientale;Tûng Lùn-tûn;EMonti
+Bornova|TR||94|2yw|23o|3hp|Burnova
+Buôn Ma Thuột|VN||6h|z7|8c4|3cn|Metuotas;Buôn Mê Thuột
+Buenaventura|CO|Valle del Cauca Department|27|9y|-5xw|3c4
+Bunamwaya|UG||q|p|2ig|36u
+Bunia|CD||y|4c|2c1|32x|Búnya
+Bologna|IT||9o|3fl|vi|31o|Bolonia;Bononia;Bolonya;Bolonjo;Bologne;Bolonha;Bulogna;Bolonija;Bulåggna;Boloņa
+Burewala|PK||6q|2bt|5lt|2sh
+Bielefeld|DE||8r|40j|np|2k7|Builefeld;Bīlefelde;Bīlifeld;Bylefeldas;Bilivelda
+Blida|DZ||3|2tb|7v|2k6|Al-Bulajda;Buleyde;El Bouleida;Bilda
+Butuan|PH||71|ov|9oq|2e1
+Barddhamān|IN||6t|1sm|6s2|2bt|Bordhoman;Bardhaman;Burdwan

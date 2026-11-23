@@ -1,0 +1,17 @@
+/* The privacy page and the terms (public/privacy.html, public/terms.html): a column of plain text, on the app's own
+   tokens (styles.css), light and dark. */
+/* An ordinary document that scrolls. styles.css makes the app's body one fixed screen with its own scroller inside
+   (overflow: hidden, 100dvh tall); here there is no scroller inside, so with that body nothing past the first screen
+   could be reached. */
+body { display: block; height: auto; min-height: 100dvh; overflow: visible; }
+.lg-legal { max-width: 44rem; margin: 0 auto; padding: max(24px, env(safe-area-inset-top)) 16px max(48px, env(safe-area-inset-bottom)); line-height: 1.55; }
+.lg-legal h1 { margin: 8px 0 4px; }
+.lg-legal h2 { margin: 32px 0 8px; font-size: 1.2rem; }
+.lg-legal h3 { margin: 20px 0 6px; font-size: 1.02rem; }
+.lg-legal ul { padding-left: 1.2rem; }
+.lg-legal li { margin: 6px 0; }
+.lg-legal code { font-size: .92em; }
+.lg-legal .meta { opacity: .75; }
+.lg-legal-summary { padding: 12px 16px 12px 2rem; border-radius: 12px; background: var(--surface-2, rgba(127, 127, 127, .1)); }
+/* The other page, named at the foot in a sentence (a line above the title read as a breadcrumb). */
+.lg-legal-foot { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); }

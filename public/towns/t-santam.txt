@@ -1,0 +1,361 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Santa Marta|CO||27|v8|-5q3|3uo
+Santa Maria|BR|Rio Grande do Sul|4w|-2ag|-45h|23h|Santa Marija
+Santa Maria|BR|Federal District|4w|-18j|-3pf|we
+Santa Maria|US|California|3p|2p3|-9ak|t7|Santa Marija;Santa-Mariya
+Santa Monica|US||3p|2mi|-955|pw|Sancta Monica;Santa Monika;Santamonika;Santa-Monika
+Santa María Chimalhuacán|MX||41|1hy|-7mv|jl
+Santa Maria da Boa Vista|BR||20|-oh|-32n|bw|Santa Maria Boa Vista
+Santa Maria de Jetibá|BR||4w|-1jn|-356|bk
+Santa Maria da Vitória|BR||20|-117|-3es|b2
+Santa Maria Capua Vetere|IT||9o|364|13l|8t|Villa Sanctae Mariae Maioris;Santa Maria Capua Vetiri
+Barberà del Vallès|ES||9d|37c|5w|8n|Santa María de Barberà
+Santa Maria|PH|Ilocos|71|1b3|9ak|7s
+Santa Maria do Pará|BR||23|-3r|-3o6|6y
+Santa Maria das Barreiras|BR||23|-on|-3u3|63|Santa Maria da Barreira
+Santa María de Jesús|GT||32|149|-6zz|62
+Santa María Atzompa|MX||41|1bi|-7gu|62|Santa María Azompa
+Santa María Totoltepec|MX||41|1hm|-7on|58|San María Totoltepec
+Santa María Ajoloapan|MX|México|41|1iw|-7mw|4y
+Santa Maria|PH|Davao Region|71|i7|9oj|4o
+Santa María|AR|Catamarca|1m|-225|-53h|4l|Santa Mariya
+Santa Margarida|BR||4w|-1km|-39d|4k
+Santa María Tulantongo|MX||41|1i9|-7mo|4c
+Santa María|PE||3o|-xd|-5xl|45
+Santa Marta de Tormes|ES||9d|35r|-fn|42
+Santa Maria A Vico|IT||9o|35z|147|3x
+Santa Marinella|IT||9o|38r|wx|3w
+Santa Maria do Cambucá|BR||4p|-lr|-2ro|3w
+Santa María Atarasquillo|MX||41|1hp|-7oa|3u|Santa María Tarasquilo
+Santa María Xonacatepec|MX||41|1h1|-7ki|3t
+Sainte-Maxime|FR||9k|3cb|ig|3s|Santa Maxima;Saint-Maxine
+Santa María del Río|MX||41|1ok|-7ru|3n
+Santa Maria do Suaçuí|BR||4w|-1ej|-39t|3k|Santa Maria do Suassuí
+Santa María Zacatepec|MX||41|1h4|-7l9|3h
+Santa María Huexoculco|MX||41|1hi|-7mi|3h|Santa María Huxoculco
+Saint-Amand-Montrond|FR||9k|3ls|6y|3c|Sant Amand Montrond;Mons Rotundus;Saint-Amand-Mont-Rond
+Santa Maria Maior|PT||86|2ip|-1ax|3a
+Santa Mariana|BR||4w|-1sb|-3wc|38
+Santa Margalida|ES||9d|32a|8m|37|Santa Margarita
+Santa Maria La Carità|IT||9o|354|14b|34
+Santa María del Real|HN||56|151|-6mr|30|Santa María de El Real
+Santa María Zolotepec|MX||41|1hy|-7od|2z
+Santa Maria Madalena|BR||4w|-1p0|-38p|2y|Santa Maria Madaelna;Santa Maria Magdalena
+Santa Maria de Itabira|BR||4w|-1i1|-3br|2x|Santa-Maria-do-Itabira
+Sant'Ambrogio di Valpolicella|IT||9o|3ig|u4|2w|San Ambrogio di Valpolicella
+Santa Maria do Oeste|BR||4w|-1xa|-403|2r
+Santa María Ajoloapan|MX|México|41|1ji|-7n4|2k|Santa María Āxōlōāpan
+Santa María Magdalena|MX|Querétaro|41|1l8|-7r1|2j
+Santa María Jalapa del Marqués|MX||41|19o|-7d4|2i
+Santa María Rayón|MX||41|1h7|-7om|2e
+Santa Maria de Belém|PT||99|2zi|-pk|2d
+Santa Margherita Ligure|IT||9o|3f5|pl|2c|Santa Margaita
+Santa Maria|CV||84|1a4|-1rn|2c|Santa Marija
+Santa Maria Maddalena|IT||9o|3gq|w9|2a
+Santa Maria de Palautordera|ES||9d|37t|6t|25
+Santa Maria degli Angeli|IT||9o|3bm|yx|25
+Santa Marta de Ortigueira|ES||9d|3dc|-lt|25
+Santa María del Tule|MX||41|1bd|-7gg|24
+Santa María Xadani|MX|Oaxaca|41|19g|-7by|24|Xadani;Xandani;Santa María Xandani
+Santa María|CL||4u|-2iz|-5ga|24
+Santa María Huatulco|MX||41|17z|-7fk|22|Huatulco;Santa María;Bahías de Huatulco
+Santa María Ixtiyucán|MX||41|1hb|-7jp|21
+Actipan de Morelos|MX||41|1go|-7jo|1z|Santa María Actipan
+Santa María Chiquimula|GT||32|15r|-71p|1y
+Santa Maria di Licodia|IT||9o|2wi|15d|1w|Santa Maria di Licuddia
+Santa María Tonanitla|MX||41|1ip|-7n5|1w|Tonanitla;Santa María Tonatitla
+Santa María Jajalpa|MX||41|1h3|-7oi|1w
+Santa María de Cayón|ES||9d|3cb|-ao|1v
+Santa María la Alta|MX||41|1fo|-7ja|1u|Santa María
+Santa Maria|PH|Calabarzon|71|147|9db|1u
+Santa María Magdalena Ocotitlán|MX||41|1hg|-7oq|1t
+Santa Margherita di Belice|IT||9o|2wp|106|1t|Santa Margarita;Santa Margherita Belice
+Santa Maria a Monte|IT||9o|3df|tp|1s
+Santa Maria do Herval|BR||4w|-29y|-3xn|1r
+Santa María Nativitas|MX|México|41|1hd|-7or|1r
+Santa María Citendeje|MX||41|1iy|-7pl|1p
+Santa Maria del Camí|ES||9d|325|7p|1o|Santa Maria
+Santa María del Oro|MX|Durango|44|203|-84o|1n
+Santa Maria Coatepec|MX||41|1h3|-7j3|1j
+Santa Maria de Avioso|PT||99|36n|-nx|1j
+Santa Monica|PH|Central Luzon|71|16o|9bc|1j|San Monica
+Santa María Ixtulco|MX||41|1hp|-7kt|1h
+Santa María Magdalena Cahuacán|MX||41|1ik|-7o5|1h
+Santa Maria da Serra|BR||4w|-1qp|-3ps|1g
+Santa Monica|BR|Santa Catarina|4w|-24n|-3qr|1f
+Santa Rita|PH|Central Luzon|71|15o|9b1|1e|Santa Maria
+San Tammaro|IT||9o|364|13j|1d
+Santa Margherita|IT|Lombardy|9o|3ir|pn|1d
+Santa Maria|BR|Rio Grande do Norte|2w|-g8|-2r6|1c
+Santa Margarita|PH||71|xg|9ma|1c
+Santa María Huazolotitlán|MX||41|19a|-7jz|1c
+Santa Maria do Salto|BR||4w|-195|-33j|1c
+Sant'Ambrogio di Torino|IT||9o|3ha|kh|1b|Sant’Ambreus ëd Turin;San Ambrogio di Torino
+Santa María del Oro|MX|Nayarit|3x|1n9|-82j|19
+Santa Maria la Stella|IT||9o|2wi|160|19
+Santa María de Guadalupe|MX||41|1j2|-7nd|16
+Santa María la Asunción|MX|México|41|1hj|-7oj|16
+Santa Marta|ES||9d|2z9|-if|16
+Santa María del Valle|MX||41|1m0|-7we|15
+Santa María del Llano|MX||41|1ij|-7p0|15
+Santa María Nenetzintla|MX||41|1gx|-7k5|14
+Santa María del Monte|MX|México|41|1hl|-7pa|13|SantaMaría;Santa Maria
+Santa Magdalena|PH||71|z5|9kr|13
+Santa María Malacatepec|MX||41|1gm|-7l2|13|Malacatepec
+Santa Maria|IT|Campania|9o|33y|15j|12
+Santa María Texmelucan|MX||41|1hl|-7lq|12
+Santa Maria|PH|Central Luzon|71|174|9bj|12
+Santa María Apaxco|MX||41|1jf|-7nj|11
+Santa Maria|PH|Cagayan Valley|71|1cj|9e7|11
+Santa Maria|PH|Ilocos|71|1c9|9ao|11
+Santa María Mixtequilla|MX||41|19i|-7cm|10|Mixtequilla
+Santa María Ixhuatán|GT||32|13f|-6yr|10
+Santa María Actipac|MX||41|1j6|-7mb|10|Santa María Aticpac
+Jaloxtoc|MX||41|1g0|-7mq|10|Santa María;Xaloxtoc;Xalostoc
+Santa Maria Nuova|IT|The Marches|9o|3ct|110|z
+Santa María Ilucan|MX||41|1jj|-7ny|z
+Santa María Tlahuitoltepec|MX||41|1bi|-7eu|z|Santa María;Tlahuitoltepec;Tlahuilotepec;Tlacuilotepec
+Santa María Cuevas|MX||41|1j7|-7na|y
+Santa Mônica|BR|Paraná|4w|-1s7|-43j|y
+Santa María Huecatitla|MX||41|1it|-7nh|x
+Santa María Mazatla|MX||41|1i8|-7o3|w
+Santa María Nepopualco|MX||41|1h7|-7ll|w|Nepopualco
+Santa María del Páramo|ES||9d|39o|-fz|v
+Santa María Asunción|MX|Hidalgo|41|1k0|-7kz|u
+Santa María del Refugio|MX||41|1ks|-7s0|u
+Santa Maria Apparente|IT||9o|3ca|121|u
+Santa María Atexcac|MX||41|1h6|-7lm|u
+Santa Mercedes|BR||4w|-1nb|-3zs|u
+Santa Maria|PH|Mimaropa|71|yy|9de|t
+Santa María del Monte|MX|Puebla|41|1fi|-7i0|t
+Santa María Nativitas|MX|Hidalgo|41|1jo|-7l2|t
+Santa Mónica|MX|México|41|1gr|-7o6|t
+Santa María Tecuanulco|MX||41|1i6|-7mc|s
+Santa María|CO|Huila Department|27|87|-5u5|s
+Santa Maria do Tocantins|BR||1k|-og|-3or|r
+Santa María Atlihuetzian|MX||41|1hu|-7kq|r
+Santa María Aranzazú (Santa María)|MX||41|1gr|-7ot|q
+Santa María Tlalmimilolpan|MX||41|1hv|-7ob|q|Santa María Tlamimilolpan
+Santa Maria|PH|Cagayan Valley|71|1ee|9dy|q
+Santa Margarida do Sul|BR||4w|-2ca|-468|q
+Santa María Huiramangaro (San Juan Tumbio)|MX||41|1i7|-7up|q
+Santa Monica|PH|Western Visayas|71|tu|9g5|q
+Santa Maria|PH|Caraga|71|mb|9qg|q
+Santa María Chimalapa|MX||41|1az|-7b0|p
+Santa Maria|PH|Central Luzon|71|17g|9aj|o
+Santa Maria|PH|Central Luzon|71|15x|9bh|o
+Santa Maria di Sala|IT||9o|3if|xg|o
+Santa Maria la Fossa|IT||9o|365|139|o
+Santa Martha|MX|San Luis Potosí|41|1q2|-7m7|o
+Santa Maria di Non|IT||9o|3if|wx|o
+Santa Maria|PH|Caraga|71|m7|9r9|o
+Santa María Petapa|MX||41|1aq|-7c8|n
+Santa Martha|MX|México|41|1hz|-7ms|n
+Santa Monica|PH|Caraga|71|ru|9q4|n
+Santa María Coyotepec|MX||41|1b5|-7gn|n
+Santa Marina del Rey|ES||9d|3a3|-ga|n
+Santa María|CO|Boyacá|27|di|-5ni|m
+Santa María|MX|Guerrero|41|1al|-7lb|m
+Santa María Macua|MX||41|1jy|-7oc|m
+Santa Maria Nuova|IT|Emilia-Romagna|9o|3es|xv|m
+L'Esquirol|ES||9d|38r|6l|m|Santa Maria de Corcó
+Santa María Tiltepec|MX|Oaxaca|41|18m|-7hx|m
+Acxotla del Monte|MX||41|1hh|-7kp|l|Santa María;Axotla del Monte
+Santa María Quelites|MX||41|1j5|-7nz|l
+Santa María Magdalena|MX|Hidalgo|41|1jh|-7o1|l
+Santa María|PY||1y|-22e|-4e6|l
+Santa Monica-Cella|IT||9o|3e4|z9|l
+Santa María Begoña|MX||41|1ln|-7qo|k|Santa María de la Begonia
+Santa-Maria-di-Lota|FR||9k|3ar|q7|k|Santa Maria di Lota
+Santa Maria Centro|CV||84|1a4|-1rm|k
+Santa María Amealco|MX||41|1k8|-7oj|k
+Santa Marta|PA||4g|no|-6dq|k
+Santa María Nativitas|MX|México|41|1ie|-7op|j
+Santa Maria Hoè|IT||9o|3j2|q1|j
+Santa María Batha|MX||41|1k7|-7np|j
+Santa María Tonameca|MX||41|17r|-7g7|j
+Santa María Palapa|MX||41|1iu|-7ml|i
+Saint-Amans-Soult|FR||9k|3cs|6x|i|La Bastida de Sant Amanç;Sant Amanç de Solt
+Santa María Jicaltepec|MX||41|19i|-7kc|i
+Santa Maria Codifiume|IT||9o|3g2|wd|i
+Santa María Pipioltepec (Pipioltepec)|MX||41|1hg|-7q2|i
+Santa María de los Baños|MX||41|1lr|-7qn|i
+Santa Margarida da Coutada|PT||99|31l|-n4|i
+Santa María Tatetla|MX||41|1hj|-7gn|i
+Santa María Canchesdá|MX||41|1j6|-7px|i|Santa María Conchesda
+Santa María la Asunción|MX|Oaxaca|41|1eb|-7gy|h
+Santa María Endare|MX||41|1it|-7pa|h
+Santa María de los Ángeles|MX|Michoacán|41|1iz|-7qc|h
+Santa María|AR|Misiones|1n|-25l|-49x|h
+Santa María Chilapa de Díaz|MX||41|1co|-7jc|h
+Santa María Zoquitlán|MX||41|1a0|-7fn|h
+Santa María de la Paz|MX|Zacatecas|41|1nr|-7z9|h
+Santa María|PA|Herrera Province|4g|mj|-682|h
+Santa Martha Hidalgo|MX||41|1gr|-7l4|g
+Santa Martha|MX|México|41|1gy|-7o2|g
+Santa María Pápalo|MX||41|1de|-7gw|g
+Santa María Camotlán|MX||41|1dq|-7jd|g
+Santa Maria Navarrese|IT||9o|333|qw|g
+Santa Matilde|MX|Querétaro|41|1kr|-7pv|f
+Santa Maria della Versa|IT||9o|3gz|pu|f
+Santa Mónica|MX|Hidalgo|41|1ji|-7ly|f
+Santa Maria del Cedro|IT||9o|32f|180|f
+Santa María Yucunicoco|MX||41|1bw|-7k0|f|Yacunicoco;Santa María
+Santa María la Calera|MX||41|1jn|-7m8|f
+Santa María Amajac|MX|Hidalgo|41|1k7|-7n0|f
+Santa María Guenagati|MX||41|1ai|-7cv|f|Santa María Guienagati
+Santa María Visitación|GT||32|14w|-71n|f
+Santa María Chicometepec|MX||41|18x|-7k4|f|Santa María Chico Ometepec
+Santa María|AR|Salta|1s|-1pj|-4uh|f
+Santa María Nativitas|MX|México|41|1jt|-7p8|f
+Santa María de Guaymas|MX||37|266|-8jh|f
+Santa María Amajac|MX|Hidalgo|41|1kg|-7ma|f|Amajac
+Santa María Acú|MX||3z|1l3|-6yg|e
+Santa Martha Chichihualtepec|MX||41|1a9|-7gt|e|Santa Marta Chichihualtepec
+Santa María Guadalupe Tecola|MX||41|1gj|-7ks|e|Tecola
+Santa Margherita d'Adige|IT||9o|3hl|w4|e
+Santa María Transpontina|MX||41|1nh|-7w2|e|Santa María Traspontina;Santa María de Abajo
+Aputzio de Juárez|MX||41|1hq|-7qr|e|Santa María
+Santa María Puxmetacán|MX||41|1bz|-7dm|e
+Santa María|MX|Oaxaca|41|18f|-7du|e
+Santa María Colotepec|MX||41|186|-7ha|e
+Santa María de los Ángeles|MX|Zacatecas|41|1pw|-7uz|d
+Santa María|MX|Chiapas|41|1c7|-73s|d
+Santa María la Real de Nieva|ES||9d|363|-c9|d
+Santa Maria Imbaro|IT||9o|39a|145|d
+Santa María Jacatepec|MX||41|1dm|-7f9|d|Jacatepec
+Santa Maria Maggiore|IT||9o|3k6|ni|d
+Santa Maria di Leuca|IT||9o|32k|1f0|d|Santa María de Leuca;Leuca
+Santa Margarita|US||3p|2qb|-9b1|d
+Santa Maria Coghinas|IT||9o|35m|om|c
+Santa Mónica|MX|Hidalgo|41|1kf|-7ku|c
+Santa Maria la Longa|IT||9o|3jl|10x|c|Sante Marie la Lungje
+Santa María Velato|MX||41|19u|-7gh|c
+Santa María Acatepec|MX||41|18v|-7iv|c
+Santa María|MX|México|41|1j6|-7oj|b
+Santa María Texcatitlán|MX||41|1d7|-7hn|b|Texcatitlán
+Santa María Xigui|MX||41|1ku|-7ny|b
+Santa María Zapotitlán|MX||41|18t|-7e9|b
+Santa María Tepantlali|MX||41|1b8|-7ep|b
+Santa María Lachixío|MX||41|1ah|-7hi|b|San Vicente Lachixlo
+Santa María Cortijo|MX||41|19p|-7l1|b
+Santa Mónica|MX|Zacatecas|41|1r8|-7wi|b
+Santa María Alotepec|MX||41|1bh|-7ea|b
+Santa Mare|RO||8u|3o9|23z|a
+Santa Maria d'Oló|ES||9d|38b|5n|a
+Santa María del Buaraje|MX||37|23u|-8h0|a
+Santa María Xadani|MX|Oaxaca|41|18b|-7ev|a|Santa María Xabani
+Santa María de la Paz|MX|Aguascalientes|41|1q7|-7w2|a
+Santa María de Enmedio|MX||41|1ni|-7vy|a
+Santa Maria|IT|Friuli Venezia Giulia|9o|3jp|10k|a
+Santa María de la Alameda|ES||9d|34r|-bu|a
+Santa María del Zapote|MX||41|1ld|-7ra|a|Santa María de Zapote
+Santa María Picula|MX||41|1mw|-7ma|a|Picula
+Santa Margarita|AR||1n|-26n|-4qz|a
+Sântămăria-Orlea|RO||8u|3in|1rt|a|Sântămăria Orlea;Sîntămăria-Orlea
+Santa María de Ostula|MX||41|1fe|-7zg|a
+Santa María Tecajete|MX||41|1je|-7lv|a
+Santa María Temaxcalapa|MX|Oaxaca|41|1ca|-7f4|a|Santa Maria Temaycalapan
+Santa María de Gallardo|MX||41|1p9|-7vo|a|Santa María Gallardo
+Santas Marías|MX|Guanajuato|41|1m0|-7ra|a|Santa María
+Santa Maria del Piano|IT||9o|3g1|so|a
+Santas Martas|ES||9d|39v|-ex|a|Santa Martas
+Santa María de los Ángeles|MX|Jalisco|41|1pl|-7yq|a
+Santa María Obispo|MX||41|1e0|-7er|a
+Santa Mónica|MX|Hidalgo|41|1ll|-7m2|a
+Santa María|MX|Coahuila|3w|298|-7s6|9
+Santa María|MX|Michoacán|41|1ix|-7t5|9
+Santa Maria In Stelle|IT||9o|3id|un|9
+Santa María Totolapilla|MX||41|1a4|-7dn|9
+Santa María|MX|Hidalgo|41|1lx|-7mo|9
+Santa María|MX|México|41|1fo|-7q3|9
+Santa María de las Delicias|MX||41|1hw|-7q8|9|Santa María
+Santa María las Cuevas|MX||41|1hv|-7ji|9
+Santa María Tlalixtac|MX||41|1dv|-7gq|9|Tlalixtac
+Santa María Nutío|MX||41|19t|-7jy|8|Nutio
+Santa María I y II|MX||41|1j2|-7na|8
+Santa Maria|IT|Lombardy|9o|3lb|s5|8
+Santa María Xoyatla|MX||41|1g3|-7lb|8
+Santa Magdalena de Pulpis|ES||9d|344|u|8
+Santa María Vigallo|MX||41|1au|-7gy|8
+Santa María Quiegolani|MX||41|198|-7et|8|Quiegolani;Santa Marí Quiegolani
+Sant'Ambrogio|IT||9o|3ip|xk|8
+Santa María|PA|Chiriquí Province|4g|nh|-6e4|8
+Santa María Yosocani|MX||41|19n|-7jv|8
+Sant'Amato-Nasuti|IT||9o|39c|13w|8
+Venustiano Carranza|MX|Baja California|58|2cg|-8xx|8|Santa Maria
+Saint-Amans-des-Cots|FR||9k|3g5|7e|8|Sent Amanç;Sant Amanç;Saint-Amans;Saint-Amans-des-Cotz
+Santa Martha|MX|San Luis Potosí|41|1o5|-7mb|8
+Santa María Ocotlán|MX||41|1b4|-7jh|8
+Santa Martha Etla|MX||41|1bx|-7gx|8|Santa Marta
+Santa María de los Llanos|ES||9d|31o|-7z|8
+Santa María Lovani|MX||41|1co|-7ew|8
+Santa María del Campo Rus|ES||9d|31w|-6q|8
+Santa María del Mar|MX||41|192|-7bi|8
+Santa María Teopoxco|MX||41|1eh|-7hb|8
+Santa Maria del Monte|IT||9o|3dx|z8|8
+Santa María Poniente|MX||2b|1ht|-6tl|8
+Santa Margherita|IT|Trentino-Alto Adige|9o|3j8|un|7
+Santa María Guelacé|MX||41|1b8|-7gc|7|Santa María Guelaxé
+Santa Maria|US|Texas|2f|20g|-7jt|7
+Santa Maria in Duno|IT||9o|3fz|vo|7
+Santa María el Chico|MX||41|1jv|-7lc|7
+Santa María|NI||3s|127|-6ov|7
+Santa Martha|BZ||24|1dx|-6ti|7|Santa Marta
+Santa María Limón|MX||41|17w|-7fp|7
+Santa María Tianguistenco|MX||41|1h8|-7lg|7
+Santa María Acapulco|MX||41|1nn|-7o8|7
+Santa María|MX|Coahuila|44|25q|-7tr|7
+Santa María|MX|Puebla|41|1kg|-7kd|7
+Santa-Maria-Poggio|FR||9k|39m|qe|7|Sainte Maria-Poggio
+Santa María del Campo|ES||9d|391|-b1|7|Santo Maria del Campo
+Santa María|MX|Veracruz|41|1kw|-7j0|7
+Santa Maria di Campagna|IT||9o|3iy|z0|7
+Santa Matilde|MX|San Luis Potosí|41|1st|-7uv|7
+Santa Maria a Valle|IT||9o|3ab|134|6
+Santa María Peñoles|MX||41|1bg|-7hg|6
+Santa Maria|IT|Sardinia|9o|31k|qn|6
+Santa Marina Salina|IT||9o|2z4|15b|6
+Santa María Petatengo|MX||41|18d|-7eq|6
+Santa Mónica|MX|Coahuila|44|1zi|-7yo|6
+Santa María de la Isla|ES||9d|39o|-gh|6
+Sant'Ambrogio sul Garigliano|IT||9o|36z|12j|6
+Santa Maria de Chicmo|PE||3o|-11y|-5o5|6
+Santa Margherita di Staffora|IT||9o|3gd|po|6
+Santa Maria in Valle|IT||9o|3b5|zf|6
+Santa María|MX|Coahuila|44|1zv|-7ys|6
+Santa María Yaviche|MX||41|1cc|-7fh|6
+Santa Maria di Settimo|IT||9o|31e|190|6
+Santa María Asunción|MX|Oaxaca|41|1bw|-7k8|6|Asunción
+Santa María|MX|Chihuahua|2g|232|-83p|6
+Santa María Albarradas|MX||41|1b4|-7f7|6
+Santa María Xoxoteco|MX||41|1l0|-7ly|6|Xoxoteco;Santa María;Xocoteco;Santa María Xoxoteca
+Santa María Tiltepec|MX|Oaxaca|41|1bv|-7ey|6|Santa Marí Tiltepec
+Santa María|MX|Jalisco|41|1ko|-80h|6
+Santa María Nativitas Coatlán|MX||41|1au|-7dd|6
+Santa María|MX|Guerrero|41|1bv|-7rd|6
+Santa Maria Infante|IT||9o|36p|126|6
+Santa Maria|IT|Umbria|9o|3b5|xg|6
+Santa María Tonaya|MX||41|1c9|-7lo|6
+Santa Maria in Pietrafitta|IT||9o|3e1|zc|6
+Santa María Jaltianguis|MX||41|1c8|-7g5|6
+Santa Martina|MX||41|1gk|-7he|6
+Santa María el Aserradero (Peones Acasillados)|MX||41|1gz|-7ii|6
+Santa Maria del Focallo|IT||9o|2tz|15j|5
+Santa María Tepejipana|MX||41|187|-7g5|5
+Santa María Sola|MX||41|1a1|-7hh|5
+Santa María Ticomán|MX||41|1lf|-7qi|5
+Santa María de Ocotán|MX||44|1ro|-82k|5
+Santa María Aquiáhuac|MX||41|1ho|-7kl|5
+Santa Maria le Grotte|IT||9o|31o|18u|5
+Santa María Ecatepec|MX||41|199|-7ec|5
+Santa María Roaló|MX||41|1b0|-7gt|5
+Santa María Zoogochi|MX||41|1cf|-7fm|5
+Santa María del Berrocal|ES||9d|34j|-f0|5
+Santa Maria|IT|Veneto|9o|3ji|y0|5
+Santa María de Álamos|MX||41|1mq|-7mx|5
+Santa María de Ojeal|PE||3o|-a0|-5n9|5
+Santa María Temaxcalapa|MX|Hidalgo|41|1km|-7ks|5|Santa Maria Temascalapa
+Santa Mónica Autempa|MX||41|1ku|-7m8|5|Santa Mónica
+Santa Mónica|MX|Puebla|41|1el|-7mg|5

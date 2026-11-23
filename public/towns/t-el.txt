@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Lubumbashi|CD||y|-we|24c|h57|Élisabethville;Elizabethstad;Lubumbašis;Lubumbaši;Lumumbashi;Elizabethville
+Madinah|SA||7e|1vz|321|a14|Medina;Medino;Mediina;Médine;Medyna;Mädinä;Medin;El Medina;Al Medina;Al Madina
+Al Ain City|AE||6c|1v7|4aw|6j7|Al Ain;Al-Ain;Al-Ajn;Al-Ayn;Ainas;Al Ajn;Al Ayn;El-Ajn;El Ain;Al ‘Ayn
+Al Ḩudaydah|YE||5r|154|3bb|5o3|El Hudeyda;Al Xudayda;Elhudayda;Al Hudaidha;Ḩudaydah
+El Paso|US|Texas|2p|2g8|-87t|58k|El Pasas;El-Paso;Elpaso;Passus
+Helsinki|FI||92|4n5|1xa|531|Khel'sinki;Helsingfors;Helsinko;Helsinky;Helsingi;Heilsincí;Helsinqui;Helsingia;Helsínquia;Helsset;Xélsinki;Èlzinki;Hel'sinki;Helsėnkis;Elsinki;Stadi
+Al Aḩmadī|KW||6x|28s|3pk|4x2|El Ahmedi;Ahmadi;Ahmedi
+Al Mansurah|EG||c|2e8|2f6|4ss|El Mansura;Mansourah;Mansura;Al-Mansurah;Al-Mansura;El-Manṣûra;Manoura;El-Masûra;Mansoura;Mansurah
+Al Fayyum|EG||c|29f|2do|406|Fajum;Fayoum;El-Fayum;Al-Fayyum;Faium;Madinat al-Fayyum;Fayyum;Faijum;Fayún;Fayyoum;El Faiyûm;Fayum;Fayoom
+Al Khuşūş|EG||c|2br|2f0|3rt|El-Khuṣûṣ
+Eldoret|KE||16|1g|2pz|3o5
+Al Hillah|IQ||5z|2i6|3fe|3il|Hilla;Al Hilla;Hillah;Hila;El-Hille;Hille;al-Ḥillah
+Batman|TR||94|2x9|369|3hm|Êlih
+Elazığ|TR||94|2zf|30y|3f6|Elezîz;Elazıı;Eliazihas;Elâzız
+Ismailia|EG||c|2d0|2hn|3bb|Ismáílíja;Al-Ismā’īlīyah;İsmailiye;Iszmáilija;Ismoiliya;Ismalia;El Ismalia;Al Ismā‘īlīyah;Ismailieh;Al Ismā‘īlīya;Ismailiyah;Ismailîya
+Al Kharj|SA||7e|1v4|3nh|3a5|El-Harc;Al Khardj
+Al Ḩasakah|SY||69|2te|357|39c|Hasaka;Al-Hasakah;Hasakah;Heseke;Hesîçe;Al-Hasaka;Hassaké;Haseke;Hasakeh;El Haseke;Al-Hasakeh
+Luxor|EG||c|1ze|2io|39c|Luksoro;Louxor;Luksor;Luksoras;El-Uksur;Loxòr;Lucsar;Luksora;Al Uqsur;Luqsor;Louksor;El-Aksur
+El Obeid|SD||r|10m|2by|319|Al-Ubayyid;Al Obayyid;Al Ubayd;Al Ubayyiḑ
+Al Qadarif|SD||r|12z|2qa|2t3|Al-Qadarif;Gedaref;Gadarif;Gadaref;El-Gadarif;Al-Kadarif;Al Kadarif;El Gedaref
+Bilbao|ES||9d|3c6|-85|2oh|Bilbo;El Bocho;Bilbau;Bilbaw;Bilbaum
+Blida|DZ||3|2tb|7v|2k6|Al-Bulajda;Buleyde;El Bouleida;Bilda
+Eloy Alfaro|EC||33|-61|-65s|2fp|Durán
+El Daein|SD||r|vu|20l|21j|Ed Daein;Ad Du'ayn;Ad-Du’ain;Ad Duajn;Ad-Duajn
+El Fasher|SD||r|11v|1yf|1y6|Al-Fashir;Al-Faschir;Al-Fašir;Al Fāshir
+Al Jubayl|SA|Eastern Province|7e|232|3tu|1tx|Jubail;Al-Dschubail;Al-Jubayl;Džubail;Al-Dżubajl;El-Cübeyl;Al Jubail;Jubayl
+Elche|ES||9d|2ya|-1y|1t8|Elx;Illici;Elig;Elch;Elčė
+El Tigre|VE||2c|op|-4yh|1pt
+Kropyvnytskyi|UA||98|3qr|2hn|1p1|Kirowohrad;Kirovohrad;Kirowograd;Kirovograd;Kirovoqrad;Kirovohrado;Kirovohradas;Kirovogrado;Kirovohrada;Yelisavetgrad;Jelizawietgrad;Zinowjewsk;Kropywnycki;Jelisawetgrad;Kropywnyzkyj;Kirovo;Zinovievsk;Zinovyevsk;Elisavetgrad;Elizabethgrad;Kirivograd;Kropivnicki
+Eluru|IN||6t|1af|69a|1ok|Eluras
+El Jadida|MA||d|2ke|-nn|1n5|Mazagão;El-Jadida;El-Yadida;Al-Djadida;Al-Džadída;Džadida;Mazaghan;Castilho Real;Mazagan;Al Yadida;El Jadid;Al Jadida
+Al Khums|LY||1d|2ip|13m|1k3|Al-Chums;Al Ĥums;Khums;Humsas;Kums;Al-Khums;El Hums;Al Jums;El Xums;Khoms
+El Dibir|SO||14|wp|3ya|1jk
+Arīsh|EG||c|2eh|2lw|1jc|City of Cut Noses;Al-Arisch;El-Arich;Al-Arix;Aríš;El Ariŝ;Arišas;Al-Arisz;Alarixe
+Laayoune|EH||k|23e|-10n|1ij|Aaiún;El Aaiún;Al-Aaiun;Ajuno;O Aaiún;Al-Ajoen;Al-Ujun;El-Aaiún;Al-Ayun;El Ayun;Al Ayoun;La’Youn;El Aiún;Aiun;Aaium
+El Oued|DZ||3|2ko|j2|1ft|Oued Souf;Uedas;Al-Wadi;El Qued
+Le Havre|FR||9k|3th|b|1fo|El Havre;Havro;La Havro;Hawr;Havre;Franciscopolis;An Havr Nevez;Le port de Grâce;An Havr-Nevez;O Havre;Havras;Havra;Havr

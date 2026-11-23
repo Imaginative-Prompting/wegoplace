@@ -1,0 +1,211 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wuxi|CN|Jiangsu|7i|2fp|9a5|xxc|Usis;Wu-si;Vô Tích;Vuŝio;Vuhszi;Bû-sek-chhī;Ù-sék;Vuzsiz;Vuši;Usi;Wu-hsi;Wusih
+Fushun|CN||7i|38d|9ka|at2|Fusjun;Fu-šun;Fuŝuno;Fušunas;Phủ Thuận;Ū-sông;Fusun;Bú-sūn-chhī;Fu-shan
+Bujumbura|BI||b|-9e|29k|5xp|Buyumbura;Buĵumburo;Bužumbūra;Boujoumboura;Usumbura
+Üsküdar|TR||94|35y|28l|41p|Scutari;Skutari
+Skopje|MK||9u|38o|1nj|3nx|Skopjo;Skoplje;Szkopje;Scupi;Escópia;Skopiye;Shkupi;Üsküp;Skopye;Scopia;Skopia;Skopie;Skoplie;Shkup;Skopeia;Usküb
+Uşak|TR||94|2zf|29p|2um|Ushak
+Ust-Kamenogorsk|KZ||5s|3ut|6dh|2gn|Öskemen;Ust-Kamienogorsk
+Ussuriysk|RU||7w|3do|a6k|17n|Ussuryjsk;Ussurijsk;Usszurijszk;Lungsod ng Ussurijsk;Ussuriisk;Oessoeriejsk
+Usera|ES||9d|347|-aa|138
+Uzhhorod|UA||98|3r2|1px|w2|Ungwar;Uschgorod;Užgorod;Oujhorod;Ungvár;Użhorod;Úzhgorod;Oezjhorod;Ujhorod;Uzjhorod;Uzhorodum;Ujqorod;Ujgorod;Užhorodas;Uĵhorodo;Uschhorod
+Dharashiv|IN||6t|1ei|5v8|v5|Osmanabad;Usmanabad
+Solikamsk|RU||7z|4lr|4dm|s0|Szolikamszk;Usol’ye Kamskoye;Sol’ Kamskaya
+Ust’-Ilimsk|RU||6k|4h4|7x6|rv|Ust-Ilimsk;Ust-Iljimsk
+Ushirombo|TZ||h|-9p|2gs|qf
+Ústí nad Labem|CZ||9m|3wq|12z|p4|Aussig;Aussig an der Elbe;Ústina Labe;Auszig
+Usol’ye-Sibirskoye|RU||6k|42j|7zx|nv|Usolje-Sibirskoje;Usolye-Sibirskoye;Ussolje-Sibirskoje;Isol’ye-Sibirskoye;Usole Sibirskoe;Usel’ye-Sibirskoye
+Ushiku|JP||7q|2rx|at9|nj|Usiku-chhī
+Wusu|CN||7t|3ff|6j8|k6|Xihu;Shixu;Wu-su;Usu
+Wushan|CN|Gansu|7i|2og|83d|j2|Ushan
+Usta Muhammad|PK||6q|26a|590|hy
+Užice|RS||8q|3du|1j5|ho|Ussitza
+Uzlovaya|RU||9i|45y|2y0|g9|Uzlovaja;Uslowaja;Ouzlovaïa;Uzłowaja;Uzlovaia
+Ushuaia|AR||1w|-489|-59s|fs|Ušuaja;Uşuaya;Ušvaja
+Usulután|SV||2u|112|-6to|ef|Ocelotlan
+Ust’-Kut|RU||6k|4ds|85v|de|Ust-Kut;Ust Kutsk
+Ust’-Labinsk|RU||9i|3hl|329|c9|Ust-Labinsk
+Usinsk|RU||9i|53d|4ft|c9|Ussinsk;Oussinsk;Oesinsk;Uszinszk
+Struga|MK||9u|36e|1lg|ae|Ustrugha
+Usuki|JP||7q|2k0|a64|a2
+Usilampatti|IN||6t|rp|603|9s
+Uster|CH||a7|3nj|o8|9n
+Ust’-Dzheguta|RU||9i|3eg|38m|9g|Ust-Dzjeguta;Ust’-Dzhegutinskaya;Ust-Džekuta;Uste Dzhegutinskaya
+Argun|RU||9i|3c9|3jf|7t|Kolxoznoe;Orga;Argoun;Argoen;Ustrada-Ġala;Arqun
+Ust’-Katav|RU||7z|48m|4hm|6y|Ust-Katav
+Usa River|TZ||h|-9d|2ud|5u
+Usangi|TZ||h|-aa|2wn|5u
+Ushtobe|KZ||5s|3hp|60m|5p|Ush-Tyube
+Usman’|RU||9i|40k|32d|5j|Usman
+Usevia|TZ||h|-jq|2er|4x|Usevya
+Ushibukamachi|JP||7q|2hg|a16|4n|Ushibuka-shi
+Ustka|PL||a5|47m|1au|4j|Stolpmünde;Ùskô
+Uslar|DE||8r|3zi|qs|4g|Üsseler
+Ushitsu|JP||7q|2vn|akz|4d
+Ustroń|PL||a5|3u4|1g8|4c|Ustrůńe
+Uzhur|RU||6u|49o|6xj|4c|Uzjur;Uschur;Oujour;Užur;Uĵur
+Usagara|TZ||h|-7g|2jo|4b
+Usehat|IN||6t|258|644|47
+Uusikaupunki|FI||92|4ow|1nh|44|Nystad;Neostadium;Ūsikaupunki;Nyustad
+Ust’-Abakan|RU||6u|45k|71v|43|Ust-Abakan
+Ust’-Ordynskiy|RU||6k|42p|82z|41|Ust-Ordynskij
+Ústí nad Orlicí|CZ||9m|3ut|19j|3w|Wildenschwert;Ūsti pie Orlices;Uście nad Orlicą
+Usingen|DE||8r|3vu|nq|3r
+Usgao|IN||6t|16v|5pr|3g
+Uspenskoye|RU||9i|3gj|36z|3a|Uspenskaya
+Ussel|FR||9k|3ij|6f|36
+Ust’-Donetskiy|RU||9i|3oc|35j|36|Ust-Donetskij
+Cusseta|US||48|2hr|-6jh|35|Usseta
+Ust’-Kinel’skiy|RU||9p|43z|3wi|2y
+Ustyuzhna|RU||9i|4jg|2t7|2y|Ustjuzjna;Ustjuschna;Ustiuzhna;Oustioujna;Ustjužna;Ustjuĵna;Ustüžn;Ustiużna;Ustjushna
+Uster / Kirch-Uster|CH||a7|3nj|o8|2w
+Ushigome|JP||7q|2qi|atz|2v
+Uskumruköy|TR||94|36i|28m|2r
+Serafimovich|RU||a4|3tq|3ap|2q|Serafimovitsj;Ust’-Medveditskaya;Serafimowitsch;Serafimovitch;Serafimovič;Serafimóvitx;Serafimovitš;Serafimowič
+Ustrzyki Dolne|PL||a5|3tb|1qr|2o|Ustšiki Dolne;Ustshiki-Dol'ne
+Usiacurí|CO||27|tu|-5sa|2n
+Ust-Nera|RU||6z|4zd|b1w|2j|Oest-Nera;Ust Nera
+Usakos|NA||1f|-1p4|17b|2j
+Usmate-Velate|IT||9o|3it|q0|2j|Usmate Velate
+Uspenka|UA|Luhansk|98|3qf|30s|2e
+Usatove|UA|Odesa|98|3l9|2d5|2d|Oussatové;Usatowe;Ussatowe
+Usuppūr|IN||6t|vm|65e|2a
+Usenge|KE||16|-7|2mm|28|Usengi
+Uzès|FR||9k|3e9|ca|26|Usès;Ucetia
+Usui|JP||7q|2r9|ate|22
+Ushaw Moor|GB||9b|486|-4l|22
+Usoke|TZ||h|-ed|2hv|21
+Usmajac|MX||41|1j7|-7zm|21
+Ust’-Barguzin|RU||6k|44d|8ev|20|Ust-Barguzin;Ust-Bargusin;Ust Barguzinas;Oust-Bargouzine;Oest-Bargoezin;Ust Batguzin
+Uspantán|GT||32|16n|-70f|1v
+Ust’-Kalmanka|RU||63|40s|6ff|1v|Ust-Kalmanka
+Ūst’-Talovka|KZ||5s|3wf|6bd|1p
+Ushachi|BY||9g|49a|27i|1m|Ushachy;Ušačy;Ušatšy;Uszacz;Usjatjy;Ushach’
+Ustaritz|FR||9k|3ck|-42|1l|Uztaritze;Ustàrits;Ustáriz
+Ust’-Charyshskaya Pristan’|RU||63|41j|6ge|1k|Ust-Tsjarysjskaja Pristan
+Usurbil|ES||9d|3c7|-5p|1k
+Oshtorīnān|IR||7o|2mi|3r4|1j|Ūshtarinān
+Usol’ye|RU||7z|4l2|4dg|1i|Usolje
+Usogorsk|RU||9i|4w5|3r9|1h|Uzogorsk
+Ust’-Kulom|RU||9i|4rd|455|1g|Ust-Kulom
+Ust’-Uda|RU||6k|46h|7y7|1g|Ust-Uda;Uszty-Uda
+Ust-Tsilma|RU||9i|51s|40v|1f|Ust’-Tsil’ma;Ust-Zilma;Ust-Cilma;Uszty-Cilma
+Uster / Ober-Uster|CH||a7|3nj|o9|1f
+Ust’-Ishim|RU||76|4g9|5hp|1e|Ust-Isjim
+Usumatlán|GT||32|15j|-6xe|1e|Uzumatlán
+Ust’-Kamchatsk Staryy|RU||6p|4c7|cjc|1d
+San Felipe Usila|MX||41|1dp|-7g5|1c|San Felipe;Usila
+Uspenskaya|RU||9i|3j4|363|1b|Uspenskaja
+Ust’-Omchug|RU||6z|4pu|bjn|19|Ust-Omtsjug;Ust’-Omchuk
+Ustikolina|BA||9r|3d2|1g7|18
+Usisha|RU||9i|39d|3nn|18|Usisja
+Ust’-Kishert’|RU||7z|4fd|4f1|18|Ust-Kisjert;Ust’-Kishertskoye
+Uson|PH||71|xz|9ju|18
+Ust’-Tarka|RU||75|4ad|5ub|17|Ust-Tarka
+Ussana|IT||9o|31f|p7|16
+Ust’-Kachka|RU||7z|4h4|4an|16|Ust-Katsjka
+Usini|IT||9o|34y|nq|16
+Ust’ye|RU||9i|4ln|32e|16|Ustje
+Uster / Nieder-Uster|CH||a7|3nj|o6|15
+Ust’-Koksa|RU||63|3vn|6lv|14|Ust-Koksa
+Uzdin|RS||8q|3hl|1la|13|Usdin
+Ujście|PL||a5|43d|1ah|13|Ùscé;Ujsce;Ußcie;Ush;Uscz
+Ust’-Kan|RU||63|3xh|6jh|z|Ust-Kan
+Ustynivka|UA||98|3p8|2ie|y
+Scilla|IT||9o|2y9|17o|y|Scylleum;U Scigghiu
+Ust’-Bagaryak|RU||7z|4bx|4rt|y|Ust-Bagarjak
+Ussac|FR||9k|3hj|47|y
+Ustia|MD||8x|3na|28w|x|Ustya
+Uspenka|RU||7z|4ds|5cb|w
+Uzerche|FR||9k|3i6|4c|v|Usèrcha;Userca
+Ust-Maya|RU||7w|4nu|adq|v|Ust-Maja;Ust Maja;Ust'-Maja;Uszty-Maja
+Usvyaty|RU||9i|4au|2df|v|Usvjaty;Usvyat
+Usk|GB||9b|3zm|-82|s|Brynbuga
+Ushumun|RU||7x|42n|9ri|s|Usjumun;Uschumun;Ušumun;Uixumun
+Úštěk|CZ||9m|3wi|13u|r
+Ustupo|PA||4g|pd|-60h|p|Ustupu
+Usab|PH||71|y9|9ja|o
+Üsküp|TR||94|37y|245|n
+Ust’-Shonosha|RU||9i|4pv|36u|n|Ust-Sjonosja;Ust’-Shenosha
+Uspenivka|UA|Odesa|98|3kb|2ay|m|Uspenea
+Uscio|IT||9o|3fd|pg|m|Aosci
+Ustyvytsia|UA||98|3ui|2lw|m|Ustivitsa;Ustyvytsya;Ustinitsa
+Usher|AU||8k|-2kq|8x7|l
+Ustronie Morskie|PL||a5|46m|17s|l|Henkenhagen
+Ustyluh|UA||98|3xa|1v3|l|Uściług;Us’tsilug;Ustilug
+Osumacinta|MX||41|1b2|-76l|k|Usumacinta
+Ust’-Luga|RU||9i|4lr|26l|k|Ust-Luga;Laukaansuu
+Gulmaç|TM||5x|30i|4be|k|Uşak;Ushak
+Usagre|ES||9d|2yj|-h5|k
+Usukhchay|RU||9i|372|3p3|k|Usukhtsjaj
+Ust’-Karsk|RU||67|42e|960|j|Ust-Karsk;Ust-Kara
+Usedom|DE||8r|45o|12o|j
+Ostellato|IT||9o|3gb|x6|i|Ustullatum;Ostełato
+Ushi|AM||80|343|3fa|i
+Uster / Gschwader|CH||a7|3nk|o7|i
+Ūşarīn|PS||6g|2h8|2q3|g|Osarīn
+Ust-Chorna|UA||98|3q8|1uh|f|Königsföüd;Usť-Čorna;Ust-Ciorna;Királymező;Oust-Tchorna;Ust-Tschorna;Ustj-Ĉorna;Ust-Czorna
+Ust-Kuyga|RU||7w|5eg|agj|f|Ust-Kujga;Ust-Kuiga;Ust Kujga;Ust'-Kujga;Oest-Koeyga
+Usiazh|BY||9g|468|25t|f
+Uspenka|UA|Donetsk|98|3ol|2zj|f
+Usson-du-Poitou|FR||9k|3kk|1h|f
+Usipa|MX||41|1cm|-74s|f
+Uster / Nossikon|CH||a7|3ni|o9|e
+Uspenivka|UA|Zaporizhzhia|98|3oq|2t5|e|Uspenovka
+Usyatskoye|RU||63|421|6m8|e|Usiatskoje
+Ust’-Isha|RU||63|40y|6mt|e|Ust-Isja
+Ust’-Izhora|RU||9i|4m5|2cy|e|Ust-Izjora;Inkereensuu;Inkerehenšuu
+Ushomyr|UA||98|3xa|273|d|Ushesk;Ušomyr;Uschomyr;Uszomierz;Uşomır;Ushomir
+Usquert|NL||8m|44c|id|d|Uskwert;Uskwerd
+Usson-en-Forez|FR||9k|3i3|ay|d|Uçon
+Us|FR||9k|3se|5h|c
+Usovo-Tupik|RU||9i|4at|2ve|c
+Uspenivka|UA|Zaporizhzhia|98|3mq|2tp|c|Uspenovka
+Ustersbach|DE||8r|3q8|tl|c|Ustasboch
+Usatove|UA|Odesa|98|3l8|2d1|c|Oussatové;Usatowe
+Uzein|FR||9k|3ck|-17|c|Usenh
+Úsov|CZ||9m|3uc|1b9|c
+Uście Gorlickie|PL||a5|3tk|1mq|c
+Ust’yanka|RU||63|44h|62q|b|Ustjanka
+Uspero|MX||41|1gt|-7w3|b
+Usje|MK||9u|38k|1nm|b|Usije
+Uszód|HU||8v|3ld|1gi|a
+Osogna|CH||a7|3kn|oz|a|Usonia
+Useras|ES||9d|33k|-h|a|Useres
+Usquil|PE||3o|-lq|-61u|a
+Uspenka|UA|Kirovohrad|98|3rx|2lh|9
+Ussy-sur-Marne|FR||9k|3s0|8j|9
+Uspibil|MX||3z|1lp|-6sg|9
+Uście Solne|PL||a5|3v8|1kz|9
+Usatova Balka|RU||9i|3gp|2vz|9
+Ussy|FR||9k|3rz|-s|8
+Ustica|IT||9o|2zj|10n|8
+Usumacinta|MX||41|1cr|-725|8
+Userin|DE||8r|446|102|8
+Ust’-Vym’|RU||9i|4sv|3vz|8|Ust-Vym
+Venaco|FR||9k|39b|ph|8|U Serraghju
+Ușurei|RO||8u|3fz|1ux|7
+Ustymivka|UA|Poltava|98|3sy|2kb|7|Ustimovka;Ustinovka
+Uskedalen|NO||9j|4mh|ga|7|Uskedal
+Uspí|MX||41|1ep|-76o|7
+Usseau|FR|New Aquitaine|9k|3k9|-1m|7
+Úsobí|CZ||9m|3tj|172|7
+Ustymivka|UA|Poltava|98|3tk|2k7|7|Ustimovka
+Useldange|LU||9c|3u9|gm|7|Useldeng
+Usellus|IT||9o|32l|ol|6
+Ust-Putila|UA||98|3pl|1xr|6|Oust Poutyla;Gura Putilei
+Uścimów Nowy|PL||a5|3yy|1ro|6
+Ushkovo|RU||9i|4n8|2ab|6|Tyrisevä;Usjkovo;Tyurisevya
+Usseau|FR|New Aquitaine|9k|3m8|1f|6
+Vselyub|BY||9g|458|1zo|6|Usyelyub
+Ussassai|IT||9o|32l|q4|6
+Ústí|CZ|Zlín|9m|3sz|1e0|6
+Ustya-Zelene|UA||98|3s7|1xd|6|Uście Zielone;Ustia-Zelene;Uście Różane;Horożane;Us’tse Zelene;Ust’ye Zelene
+Ústí|CZ|Olomouc Region|9m|3tk|1dd|6
+Ushkovychi|UA||98|3tw|1w7|6|Ushkovichi
+Ussaramanna|IT||9o|329|or|6
+Usha|IL||6n|2j4|2pk|5|Uša
+Ususău|RO||8u|3jz|1ol|5
+Usago|IT||9o|3ka|zs|5
+Uspenivka|UA|Donetsk|98|3pw|2uu|5|Uspenovka
+Rigny-Ussé|FR||9k|3n9|u|5|Ussé

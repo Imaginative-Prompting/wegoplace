@@ -1,0 +1,35 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zaozhuang|CN||7i|2ou|92j|tr0|Cō̤-cŏng;Cao-čuang;Tảo Trang;Chó-chng-chhī
+Kaohsiung|TW||7l|1qu|9a7|l4h|Takao;Gaoxiong;Cao Hùng;Kao-hsiung
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Zhaotong|CN||7i|23w|804|62u|Čao-tchung;Chiêu Thông;Ciĕu-tŭng;Chiau-thong-chhī;Chao-t’ung
+Cao Lãnh|VN||6h|t2|85f|1mv|Kao Lanh
+Caen|FR||9k|3sn|-10|uq|Kāna;Kanas;Can;Caðum;Cadomum;Quaam;Kadunum;Cham;Chaem;Chaam;Catomum;Cathim;Caon;Canz;Cahem;Caem;Cadumum;Caam
+Caotun|TW||7l|1um|9b9|qw
+Cao Bằng|VN||62|1qz|876|kf|Kao Bang;Cao Pang;Kao banh
+Caohe|CN||7i|2bz|8wn|iq
+Caoqiao|CN||7i|2ne|943|i4
+Caojie|CN||7i|2bc|87j|ca
+Caotang|CN||7i|2ed|8gi|88
+Cahors|FR||9k|3fh|40|6h|Cadurcum;Caors
+Caohui|CN||7i|2cg|8aj|5u
+Cahokia|US||2f|2z5|-6yj|40|Canokia;Kahokia;Caokia;Kahokias
+Caochuanpu|CN||7i|2o9|86n|2i
+Caowei|CN||7i|1qu|8s8|2h
+Caoping|CN||7i|2lk|835|26
+Caorle|IT||9o|3io|zs|23|Cjaurlis;Caprulae
+Cao Thượng|VN||62|1nf|86t|1p
+Caoayan|PH||71|1cs|9ag|y|Cavayan
+Caorso|IT||9o|3h5|rf|y
+Caol|GB||9b|4dw|-e6|w
+Cao Ký|VN||6h|1p2|861|s
+Caobas|MX||2b|1f8|-6vi|e
+Caobanal 1ra. Sección (Mezcalapa)|MX||41|1d1|-77f|a
+Ca' Onorai|IT||9o|3iv|ws|8
+Caouënnec-Lanvézéac|FR||9k|3ra|-9d|7
+Caopas|MX||41|1wu|-7vt|7|Caopa
+Kyle of Lochalsh|GB||9b|4f4|-fv|7|Caol Loch Aillse;Kyle of Lochash
+Caours|FR||9k|3v9|59|6|Cœu
+Caorches-Saint-Nicolas|FR||9k|3sc|1j|6
+Keenagh|IE||8z|44y|-lp|6|Caonach;Kenagh

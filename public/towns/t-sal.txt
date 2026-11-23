@@ -1,0 +1,639 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Dar es Salaam|TZ||h|-iy|313|15jh|Daressalam;Dar es-Salam;Dar es-Salaam;Dar-es-Salaam;Dar es Salamas;Dar es Salam;Daresalamo;Daressalaam;Dar es Salams;Dárasalám;Dāresalāma;Darüsselam
+Salvador|BR||20|-102|-2yx|kxa|Soteropolis
+Salé|MA||d|2ml|-iw|7i3|Sala;Sla;Sali
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Salem|IN||6t|wd|614|72u|Selam;Szálem
+Saltillo|MX|Coahuila|44|1yn|-7si|5h5|Saltilo
+Zaragoza|ES||9d|37q|-2g|5au|Saragossa;Salduie;Saragoso;Saragosse;Saragozza;Caesarea Augusta;Saragosa;Saragoça;Zaragosa;Çaragoça;Saragoza;Saraqosa;Caesaraugusta;Zargoza
+San Salvador|SV||2u|121|-6vr|424|Salvador;San-Salvador;San Salwador;San-Salvadoro;Urbs Sancti Salvatoris;Sansalvadora;San Salvadò
+Salta|AR||1s|-1wx|-51q|40n
+Saltivka|UA||98|3uy|2sz|35p|Saltivskyi masyv;Saltovka
+Thessaloníki|GR||8p|34w|1rp|2ga|Salónica;Săruna;Selânik;Thessalonica;Ftohomána;I Protévoussa ton Prosfígon;Salonik;Tesalónica;Þessalóníka;Thessalonique;Saloniki;Solun;Tessalònica;Salonicco;Tesalonîkî;Salonikai;Salonic;Saluniccu;Thessaloníkē;Salonika
+Saltivskyi|UA||98|3uw|2sw|2c2
+San Salvador de Jujuy|AR||1o|-1v7|-51d|1zo|San Salvador de Chuchujus;Sanctus Salvator Soteriae
+Winston-Salem|US||48|2sa|-66w|1v0|Winston Salem;Vinstonas-Seilemas
+Salt Lake City|US||2p|358|-8mt|1nv|Sallaga Urbo;Kota Salt Lake;Solt Leik Sitis;Thành phố Salt Lake;Civitas Lacus Salsi;Soltleiksitija;Salt Lake Ceety;Sol Lek Siti;Solt Leyk Siti;Lungsod ng Salt Lake;Solt Leik Sitės;Salt Lake;Cathair Salt Lake;Salt-Lejk-Siti;Solt Lejk Siti
+Salé Al Jadida|MA||d|2mg|-iq|1jk
+Salatiga|ID||6l|-kd|8ix|1ja
+Salem|US|Oregon|3p|3gu|-9hs|1cr|Seilema
+Şalālah|OM||72|1ba|469|19b|Salala;Salola;As Salala
+Salamanca|MX|Guanajuato|41|1l5|-7t4|18n
+Salavat|RU||7z|44a|4bb|18f|Salawat;Salauat;Szalavat
+Salinas|US||3p|2tw|-9dy|17q|Salinae
+Salzburg|AT||a2|3os|108|17o|Salzbourg;Salisburgo;Salisburgium;Salisburgu;Salzbursko;Salcburk;Zalcburgas;Zalcburga;Salzborg;Såizburg;Salisburgum;Saltzburg;Salisburgh;Zaltsburq
+San Pablo de las Salinas|MX||41|1in|-7n9|17e
+Salamanca|ES|Madrid|9d|34b|-a8|151|Salamanko
+As Sālimīyah|KW||6x|29h|3pk|150|Salimiyah;As-Sālimiyah
+Salamanca|ES|Castille and León|9d|35t|-fq|148|Helmantica;Salmantica;Salamanko;Salamanka;Salamanque
+Salto|BR||4w|-1sg|-3nd|137
+Şabāḩ as Sālim|KW||6x|29a|3pi|12o|Sabah Al Salem
+Salford|GB||9b|44l|-6d|102
+Salerno|IT||9o|350|153|yy|Salèrne;Salèrn;Salierno;Irna;Salernus;Salernum;Salernas;Salernu
+Salvaleón de Higüey|DO||4v|1fq|-5av|ye|Higüey;Salvaleon de Higueey
+Salihli|TR|Manisa|94|2yw|267|x5
+Salto|UY||45|-2f7|-4h0|vp|Saltas;Salta
+As Salţ|JO||5t|2h0|2r9|tz|Salt;Es Salt;Al-Salt
+Salzgitter|DE||8r|40w|sy|t6|Zalcgiteris
+Salaqi|CN||7i|34m|8iz|sx
+Soligorsk|BY||9g|42n|24i|qs|Salyhorsk;Salihorsk;Salihorskas;Saligorsk;Szalihorszk;Saļihorska
+As Salamīyah|SY||69|2p9|2ux|qd|Salamiyah;Salamiyeh;Salamias
+Salina Cruz|MX||41|18y|-7cf|ng|Salina Krusas
+Salmās|IR||7o|2y4|3gd|mo
+Saldanha|ZA||o|-2jp|1du|iz
+Salgueiro|BR||4p|-mf|-30o|ib|Salqueiro
+Salamá|GT||32|15y|-6yw|i5
+Sale|GB||9b|44f|-6g|he
+Sal’sk|RU||9i|3l3|37e|gy|Salsk;Ssalsk
+Ṣāleḥīeh|IR||7o|2qn|3y7|gb
+Salo|FI||92|4nq|1s9|e4|Sala
+Sālūr|IN||6t|1fg|6f5|dy
+Salekhard|RU||7z|54t|551|do|Salechard;Saleĥardo;Salehard;Salechardas;Salejard;Szalehard;Saleharda;Salechardum
+Salina|US|Kansas|2f|2zw|-7j5|da|Saline;Saliena
+Salcedo|DO||4v|1hu|-5fm|cl
+Salinópolis|BR||23|-1q|-3nj|cg
+Salisbury|GB||9b|3xv|-50|cf|New Sarum;Caersallog;Searoburg;Sarisberia;Solsberis;Solsberi
+Salinas|EC||33|-65|-68v|c7
+Salto de Pirapora|BR||4w|-1tp|-3o5|c5
+Salem|US|Massachusetts|48|3a4|-5gy|bx
+Salaberry-de-Valleyfield|CA||59|3hp|-5px|bw
+Sali|SN||g|144|-1ba|bm|Saly
+Salima|MW||9|-12a|2nq|bj
+Salon-de-Provence|FR||9k|3d8|e5|bi|Selon de Provença;Selon;Salon
+Salwá|KW||6x|29e|3pk|bd
+Salinas|BR||4w|-18x|-39h|b6
+Aliamanu / Salt Lakes / Foster Village|US||ax|1nc|-c6o|as|Salt Lake;Āliamanu
+Salvatierra|MX||41|1k6|-7s8|ac|Salvatiera
+Salyan|AZ||61|320|3s2|a6|Salian;Sal’yany
+Salgótarján|HU||8v|3pm|1j0|9m|Schalgau;Schalgotarjan;Šalgov-Tarjany;Shalgo Tar'yan
+Salto|AR||1l|-2n9|-4nd|9g
+Salisbury|US|North Carolina|48|2r3|-67j|9g
+Salāya|IN||6t|1pz|5dc|98
+Saumur|FR||9k|3na|-8|98|Salmurium
+Salisbury|US|Maryland|48|2yk|-5u0|95|Sarisberia;Salsbury
+Salqīn|SY||69|2se|2t9|8s
+Salt|ES||9d|38l|7r|8i
+Saladillo|AR||1l|-2r0|-4m2|8g
+Salem|US|New Hampshire|48|3av|-5hs|87
+Esztergom|HU||8v|3or|1g2|80|Gran;Ostrzyhom;Ostřihom;Salvio;Esterqom;Strigonio;Ostrogon;Strigoniu;Ostrigon;Strigonia;Strigonium;Salvio Mansio;Strigonie;Estergom;Strigoni;Estergon;Solva
+Salou|ES||9d|364|36|7g
+Salor|UZ||7m|36y|5cn|7d|Salar
+Salaga|GH||1|nr|-1g|73
+Salem|US|Virginia|48|2vl|-66d|72
+Salamína|GR||8p|2xg|1ta|72|Salamís
+Profesor Salvador Mazza|AR||1s|-1p9|-4wx|71|Salvador Mazza;Pocitos;Salvador Maza
+Shali|RU||9i|3bv|3ji|6y|Sjali;Chali;Šali;Xalí;Şela;Szali;Schali
+Saltpond|GH||1|eh|-2y|6v
+Salzkotten|DE||8r|3zj|nw|6u
+Salvaterra|BR||23|-23|-3qs|6p
+Salah Bey|DZ||3|2rl|ep|6h
+Bandar Baru Salak Tinggi|MY||6v|7t|7um|5z|Salak Tinggi;New Salak Tinggi City
+Sulmona|IT||9o|38t|12p|5v|Sulmo;Salmona
+Hansestadt Salzwedel|DE||8r|42t|uz|5v|Salzwedel;Soltwedel;Ljaudit
+Solin|HR||a6|3cy|19t|5u|Salona
+Sālamedu|IN||6t|x3|64t|5t
+Šaľa|SK||8s|3pr|1do|5m|Sellye;Vágsellye
+Salgado|BR||3r|-un|-2w3|5k
+Salmon Creek|US||3p|3iz|-9gp|5h
+Salcajá|GT||32|15c|-722|5e
+Salmon Arm|CA||5b|3wu|-97b|5e
+Mátészalka|HU||8v|3p8|1q0|57|Salka
+Saladas|AR||1n|-26i|-4iu|53
+Salamina|CO|Caldas Department|27|f1|-5tp|51
+Salaspils|LV||9n|4dy|1vp|4y|Kircholm;Salaspilis;Kirkholm;Salaspėlės;Kirchholm
+Salpêtrière|FR||9k|3ro|6k|4x
+Salonta|RO||8u|3m0|1o5|4w|Nagyszalonta;Großsalontha
+Salinas de Hidalgo|MX||41|1qv|-7uj|4o
+Saalfelden am Steinernen Meer|AT||a2|3nr|zp|4o|Saafelden;Salfelden;Saalfelden
+Sallanches|FR||9k|3jm|if|4n|Salenches
+Salitre|BR||2w|-k8|-34e|4m
+Sālūmbar|IN||6t|1v2|5po|4m
+As Sallūm|EG||c|2fn|1xw|4l|Sollum;Al-Salum;El Sollum;Es Sollūm;Solum;Es Sallum;Sallum;Sellum
+Saluzzo|IT||9o|3g1|kt|4l|Saluces
+Salgar|CO||27|gl|-5v1|4e
+Salsomaggiore Terme|IT||9o|3gi|rr|4e|Salsomaggiore
+Salangaippālaiyam|IN||6t|vr|5zh|4c
+Saltash|GB||9b|3w1|-br|4c|Essa
+Salto do Lontra|BR||4w|-1zm|-443|48
+Salesópolis|BR||4w|-1td|-3jd|48|Sallesopolis
+Saligram|IN||6t|11i|5rj|47
+Salinas da Margarida|BR||20|-zr|-2zo|46
+Salon|IN||6t|20b|6a9|3z
+Sale|AU||8j|-2xv|bcj|3z
+Salinera Colán|PE||3o|-dz|-697|3y
+Saloá|BR||4p|-oy|-2tx|3x
+Salida|US|California|3p|2wr|-9cc|3t
+Hall in Tirol|AT||a2|3nc|w0|3p|Hall en Tyrol;Salina in Aeni Valle
+Salamanca|CL||4u|-2ga|-5h4|3p|Salamanka;Salmantica
+Sala|SE||9w|4mg|1a5|3n
+Şalākhid|SY||69|2jb|2tl|3k|Salâkhed
+Salobreña|ES||9d|2u2|-9z|3j
+Shalateen|EG||c|1s9|2qv|3g|Asch-Schalatin;Šalatynas;Šalatina;Shalatin;Bir Szalatin
+Saltcoats|GB||9b|4ak|-db|3f|Baile an t-Salainn
+Salgado de São Félix|BR||2w|-kg|-2qg|3d
+Salisbury|US|New York|48|357|-5oc|3d
+Salem|US|Ohio|48|35m|-68m|3c
+Sala Consilina|IT||9o|348|17b|39|Sala Cosilina
+Salpara Molandubi Pt.-I|IN||6t|20b|6zv|39
+Salsipuedes|DO||4v|1hx|-5fi|39
+Salem|US|Wisconsin|2f|3a7|-6sr|36
+Sales Oliveira|BR||4w|-1lp|-3ow|36
+Salvador|ES||9d|34d|-a3|34
+Salem|DE|Baden-Wurttemberg|8r|3oo|pt|34|Baden
+Salfīt|PS||6g|2h4|2pq|32
+Sal Rei|CV||84|18y|-1ro|31|Sal-Rel
+San Miguel|EC||33|-2x|-62b|30|Salcedo
+Sallaumines|FR||9k|3w2|7y|2y|Sallaumine;Sallaumones
+Salzhemmendorf|DE||8r|40n|qn|2y
+Salò|IT||9o|3ip|t8|2y
+Şalpazarı|TR||94|35q|30v|2v
+Islāmpur|IN|Rajasthan|6t|267|5tu|2u|Salāmpur
+Akbez|TR||94|2ue|2tg|2u|Salmanuşağı;Akbaz
+Salto do Jacuí|BR||4w|-28t|-43t|2u
+Saladoblanco|CO||27|5j|-5v8|2t
+Salaverry|PE||3o|-mu|-63e|2t
+Salisbury North|AU||8b|-2oj|ap2|2p
+Salmānshahr|IR||7o|2ty|3y8|2p|Salmān Shahr
+Salvatierra de Miño|ES||9d|38w|-nm|2o
+Saldus|LV||9n|4de|1qh|2o|Saldos
+Salacak|TR||94|35y|28l|2n|Salacık
+Saltsjöbaden|SE||9w|4ko|1eu|2n
+Saldaña|CO||27|ax|-5se|2k
+Şalkhad|SY||69|2i9|2tz|2k|Salâkhed;Şalākhad
+Saline|US||2q|395|-6gq|2j
+Salair|RU||74|46n|6mc|2j
+Salto Grande|BR||4w|-1rl|-3uv|2j
+Saltaire|GB||9b|45j|-4y|2i
+Salinas Victoria|MX||44|204|-7ql|2i
+Salisbury East|AU||8b|-2on|ap5|2g
+Salcea|RO||8u|3od|219|2f
+Salinas|UY||45|-2om|-4b4|2e
+Sallisaw|US||2f|2qi|-7bb|2e|Salisaw
+Salice Salentino|IT||9o|346|1dw|2d
+Salliqueló|AR||1l|-2u3|-4uw|2d
+Saltinho|BR|São Paulo|4w|-1rh|-3og|2a
+Salisbury|AU|South Australia|8b|-2ol|ap3|29
+Salinungan Proper|PH||71|1av|9dt|29|Salinungan;Salinongan
+Saladan|TH||62|l5|7n4|27
+Şāleḩābād|IR|Hamadan Province|7o|2p0|3qa|27|Sālīhābād
+Salemi|IT||9o|2x2|zl|26
+Salach|DE||8r|3r9|r2|26
+Salazie|RE||ai|-1mf|4aa|25
+Salzbergen|DE||8r|41c|kf|24|Saoltbiärgen
+Salāmī|IR||7o|2oi|4mm|24
+Salem|US|Utah|2p|339|-8m7|23|Shį́į́háálį́
+Salzano|IT||9o|3ig|xm|23
+Salahonda|CO||27|5o|-62i|22
+Sautron|FR||9k|3na|-4n|22|Saotron;Salterona
+Salto del Guairá|PY||1y|-1uu|-46v|22|Salto del Gvaira;Saltos de Guairá
+Ṣāleḥ Shahr|IR||7o|2hh|3r7|21
+Salem|US|Illinois|2f|2zb|-6v3|21
+Hallein|AT||a2|3og|10e|20|Salinae
+Salal|TD||17|158|1bv|1z
+Sallent|ES||9d|387|5a|1z
+Sallynoggin|IE||8z|440|-h2|1x
+Sāl|JO||5t|2ih|2rr|1x
+Šalčininkai|LT||a3|46v|1yj|1x
+Salvador do Sul|BR||4w|-29s|-3z3|1x
+Salzweg|DE||8r|3r2|11g|1w
+Salug|PH||71|mj|9h2|1w|Salum;Salog
+Salat|TR||94|2x4|35l|1v
+Salawagan|PH||71|lf|9nk|1t
+Sales|BR||4w|-1na|-3ti|1s
+Salay|PH||71|om|9mn|1s
+Salsipuedes|AR||1n|-2ei|-4yl|1s
+Salinas|PR||4m|1dy|-546|1s
+Salvador do Mundo|IN||6t|175|5p4|1s
+Salas|ES||9d|3cl|-he|1s
+Saligao|IN||6t|177|5oz|1r
+Sala|IT|Campania|9o|35i|15b|1q
+Salitrillo|MX|México|41|1j3|-7nl|1q
+Salem|US|Indiana|38|2z9|-6n6|1q
+Salisbury|AU|Queensland|8c|-24j|bt3|1q
+Salamina|CO|Magdalena Department|27|t5|-5rr|1q
+Salto da Divisa|BR||4w|-18g|-32z|1p
+Salvacion|PH|Caraga|71|m8|9qc|1p
+Saltburn-by-the-Sea|GB||9b|47m|-2p|1o
+Salisbury Downs|AU||8b|-2ol|ap2|1n
+Salapungan|PH||71|161|9bx|1n
+Salbris|FR||9k|3nq|5p|1m
+Salitrillos|CR||2i|rd|-6hl|1l
+Selkirk|GB||9b|4ab|-7w|1l|Salcraig
+Salamba|IN||6t|263|5y1|1l
+Salgadinho|BR|Pernambuco|4p|-m2|-2qz|1l
+Saldarriaga|MX||41|1lb|-7ql|1l
+Sălişte|RO||8u|3j8|1ud|1l|Szelistye
+Salym|RU||7z|4mu|5ik|1k
+Salamanca|US||48|394|-62o|1k
+Salgareda|IT||9o|3iz|yp|1k
+Salvacion|PH|Western Visayas|71|to|9gm|1k
+Salavan|LA||7v|17o|87m|1j|Saravane;Saravan
+Salvav|IN||6t|1kp|5mk|1j
+Salida|US|Colorado|2p|2z1|-86g|1j
+Salitral|PE||3o|-di|-684|1i
+Sallins|IE||8z|43x|-ij|1h|Na Solláin
+Salies-de-Béarn|FR||9k|3cr|-2k|1g|Salias;Saliese;Salies
+Velyka Novosilka|UA||98|3ow|2uc|1g|Salgir Yanı Sala;Velyka Yanysol';Salhir-Yenisal;Velyka Yeni-sala;Salhyr Yeni Sala;Velykyy Yanysol';Velykyi Yanysol';Velyky Yanysol;Welyka Nowosilka;Velika Novosilka;Velyka Novossilka;Velika Novoszilka;Wełykyj Janisol;Vełyka Navasiłka;Vialikaja Navasiołka;Velyka Novosilkos;Salgir-Yenisal
+Salto de Agua|MX||41|1cr|-74i|1g
+Salto do Itararé|BR||4w|-1tk|-3tv|1g
+Salvaterra de Magos|PT||99|30f|-of|1g
+Săliştea de Sus|RO||8u|3od|1vn|1f|Felsőszelistye;Sălişte-de-Sus
+Salisbury Heights|AU||8b|-2ok|ap8|1f
+Saltillo|US|Mississippi|2f|2ni|-6uc|1e
+Salamanca|PH||71|tv|9j5|1e
+Salem|US|Missouri|2f|2wl|-72a|1e
+Agurain / Salvatierra|ES||9d|3b1|-6n|1e|Salvatierra;Agurain
+Sālim|PS||6g|2hh|2q5|1d|Sālem
+Salvacion|PH|Caraga|71|o4|9p6|1d
+Salem|US|New Jersey|48|31x|-5tn|1d|Salam
+Salles|FR||9k|3fr|-2f|1d
+Salisbury|US|Massachusetts|48|3b0|-5gu|1d
+Salakati|IN||6t|21g|6z0|1d
+Salitrillo|MX|México|41|1hz|-7pd|1c
+Salmourão|BR||4w|-1o2|-3xa|1c|Salmorão
+Salamander Bay|AU||8l|-2iw|bqg|1c
+Salémata|SN||g|z3|-zm|1c
+Salcedo|PH|Mimaropa|71|zl|9df|1a
+Salaza|PH||71|16x|998|1a|Salasa
+Saltykovka|RU||9i|4ax|2xe|1a
+Salfords|GB||9b|3y8|-h|19
+Sala Baganza|IT||9o|3g8|sf|19
+Salto de las Rosas|AR||1q|-2og|-59j|19
+Saloh|IN||6t|2ef|5vh|19
+Salto Encantado|AR||1n|-239|-48b|19
+Salzhausen|DE||8r|43u|s9|18
+Salto Veloso|BR||4w|-22r|-3yt|18
+Salva|RO||8u|3ne|1vn|18
+Salimbao|PH||71|k2|9l5|17
+Salvador|PH||71|ly|9k0|17
+Satama-Sokoro|CI||0|ly|-cl|17|Satama Sokoura;Salama-Sokoro
+Saleilles|FR||9k|3ah|87|17|Salelles
+Sålanda|SE||9w|4h2|xy|16
+Salouël|FR||9k|3uj|68|16|Saloué
+Salem|US|Connecticut|48|379|-5ks|16
+Salreu|PT||99|356|-ns|15
+Salento|CO||27|cw|-5tx|15
+Sălcioara|RO|Dâmbovița County|8u|3g8|1z2|15
+Sălard|RO||8u|3n6|1p9|15
+Salgado Filho|BR||4w|-20p|-448|15
+Saltford|GB||9b|3ys|-6u|15
+El Salto de Eyipantla|MX||41|1f3|-7cg|14|Salto de Eyipantla
+Sala Kechik|MY||6v|gm|7qr|14|Kampung Sala Kechil;Kampong Sala Kechil
+Salaise-sur-Sanne|FR||9k|3hz|dd|14
+Sali|DZ||3|22x|-4|13
+Salama|IL||6n|2jd|2q9|13|Salláma
+Salem Heights|US||48|30j|-6ie|12
+Sale’imoa|WS||aj|-12c|-d9h|12
+Salteras|ES||9d|2vy|-gz|12
+Salmi|RU||9i|4qh|2gh|12
+Salve|IT||9o|32q|1et|12
+Salton City|US||3p|2ki|-8y4|12|Áshįįh Bibąąh
+Salvacion I|PH||71|180|9bw|11|Salvacion Primera;Salvacion
+Salto do Céu|BR||2k|-161|-4hh|11
+Salernes|FR||9k|3d0|hb|11|Salernas;Salèrna
+Salitral de Carrera|MX||41|1rj|-7vk|11
+Salvaterra|IT||9o|3fw|tx|10
+Saltinho|BR|Santa Catarina|4w|-21x|-43e|10
+Salcedo|PH|Eastern Visayas|71|uz|9p3|10
+Saluda|US|South Carolina|48|2mg|-6b5|10
+Saloya 2da. Sección|MX||41|1e5|-766|10|Saloya Tercera Sección
+Salins-les-Bains|FR||9k|3mf|gc|z
+Zaliznychne|UA|Odesa|98|3j3|27h|z|Bulgărica;Salisnytschne;Zaliznytchné
+Salakta|TN||1e|2qb|uo|z|Salaqţah
+Salikene|GM||7|11g|-18d|y|Salikeni;Selikene
+Salgadinho|BR|Paraíba|2w|-jq|-2ud|y
+Salindres|FR||9k|3ep|bk|y
+Salcia|RO|Mehedinți County|8u|3em|1rp|x
+Novocheremshansk|RU||9z|470|3vd|x|Novotsjeremsjansk;Salawan
+Avlónas|GR||8p|2y9|1tu|w|Salesi;Avlon;Avlona
+Salcia|RO|Teleorman County|8u|3e3|1x8|w
+Salderes|NL||8m|3z4|ez|w
+Salla|FI||92|55n|27n|w
+Saltabarranca|MX||41|1fn|-7dd|w
+Solyanka|RU||8o|3kv|3pe|w|Saljanka
+Shalanky|UA||98|3pz|1rk|w|Sjalanky;Shalanki;Ŝalanki;Salánk;Šalankõ;Šalanky
+Sale Marasino|IT||9o|3iz|s3|v
+Sălacea|RO||8u|3nv|1q0|v
+Sălsig|RO||8u|3o1|1sq|v
+Sălăţig|RO||8u|3nl|1s9|v
+Sale|IT||9o|3gy|oh|v
+Salmon|US||28|3hi|-8se|u
+Sulangan|PH|Eastern Visayas|71|ue|9pj|u|Salanga;Salangan
+Shalyhyne|UA||98|3z9|2mt|u|Schalyhyne;Shalgino;Chalyhyne;Šalyhyne;Şalıgıne;Szałyhyne;Șalîhîne;Shalygino;Shul’gino
+Salcia Tudor|RO||8u|3i1|24g|u
+Saldaña|ES||9d|3a4|-d6|u|Saldanya
+Saluggia|IT||9o|3ho|m9|u
+Salomé|FR||9k|3wd|7x|u
+Salvador das Missões|BR||4w|-265|-48c|t
+Château-Salins|FR||9k|3rm|i3|t|Salzburgen
+Saltrio|IT||9o|3jf|os|t
+Sale Creek|US||48|2qa|-6kf|s|Salecreek
+Salvacion|PH|Bicol Region|71|10b|9je|s
+Salitral|CR||2i|rj|-6hu|s
+Salamá|HN|Olancho Department|56|157|-6oi|s
+Salter Point|AU||8k|-2gy|8xv|s
+Salorno|IT||9o|3kg|v5|s|Salurn
+Salar|ES||9d|2v7|-bb|s
+Salunayan|PH||71|jv|9lu|s
+Sălaşu de Sus|RO||8u|3ig|1rr|r|Sălaşul-de-Sus
+Salimbalan|PH||71|mz|9mg|r|Salimbalon
+Salses-le-Château|FR||9k|3az|84|r
+Salunga|US||48|33e|-5wa|r
+Salem|US|Arkansas|2f|2o7|-754|q
+Salerano sul Lambro|IT||9o|3hu|q3|q
+Salandra|IT||9o|34l|19c|q
+Sălcioara|RO|Ialomița County|8u|3fp|22o|q
+Salir de Matos|PT||99|31j|-p9|q|Salir dos Matos
+Saldanha Marinho|BR||4w|-26v|-43h|q
+Salvador Urbina|MX|Chiapas|41|15s|-745|q
+Salvacion|PH|Western Visayas|71|t0|9gd|q
+Saliña|CW||2l|xm|-5be|p
+Salzmünde|DE||8r|3z5|wv|p
+Salching|DE||8r|3rl|yx|p
+Salina|US|Utah|2p|308|-8mq|p|Áshįįh
+Salvacion|PH|Eastern Visayas|71|z2|9nc|p
+Sălcuţa|RO|Dolj|8u|3ex|1t3|p
+Salinas|PH||71|19h|9c6|p
+Salvacion|PH|Bicol Region|71|11s|9iz|p
+Salacgrīva|LV||9n|4gf|1vo|p|Salatsi;Salacgryva;Salatsgriva
+Salzert|DE||8r|3o8|lc|p
+Saline Ioniche|IT||9o|2xe|17o|p
+Saleux|FR||9k|3ui|68|o
+Sallertaine|FR||9k|3m6|-5g|o
+Salisbury|CA||43|3jw|-50p|o
+Salvacion|PH|Mimaropa|71|xp|995|o
+Salingogan|PH||71|11b|9i7|n|Salingogon
+Săliştea-Deal|RO||8u|3ji|1t0|n
+Salmon Brook|US||48|38k|-5m8|n
+Salmtal|DE||8r|3up|j1|n
+Salz|DE|Bavaria|8r|3vr|sd|n
+Sălciile|RO||8u|3gi|21k|n
+Salbert|FR||9k|3of|ix|n
+Salies-du-Salat|FR||9k|3bq|2o|n
+Sălătrucu|RO||8u|3hx|1w4|n
+Salogon|PH||71|11y|9j4|m|Salongon
+Salem|US|North Carolina|48|2r6|-6ay|m
+Sălătrucel|RO||8u|3hp|1vq|m|Sălătruc
+El Salado|MX|Sinaloa|3x|1w3|-89o|m|Salado
+Sallustiano|IT||9o|38f|yq|m
+Salcedo|PH|Central Luzon|71|182|9b0|m
+Sály|HU||8v|3p7|1lf|m
+Salvaleón|ES||9d|2yz|-iv|m
+Sala|IT|Emilia-Romagna|9o|3eo|ye|m
+Zalamea|MX||41|1kf|-7wr|l|Salaméa
+Salisbury Park|AU||8b|-2ok|ap7|l
+Salado|US||2f|2dz|-7iy|l
+Salé-Balékro|CI||0|js|-cb|l|Salebeliekro
+Salvacion|PH|Bicol Region|71|11e|9iq|l
+Saldán|AR||1n|-2ez|-4yn|l
+Salvacion|PH|Caraga|71|o7|9ql|l
+Salas de los Infantes|ES||9d|38q|-95|l
+Saltair|CA||5b|3rz|-9jt|l
+Saldenburg|DE||8r|3rh|114|k
+Saltville|US||48|2ug|-6b4|k
+Salvatronda|IT||9o|3iv|xa|k
+Salles-sur-Mer|FR||9k|3k2|-2y|k
+Salles-la-Source|FR||9k|3fg|6z|j|Las Salas del Comtal;Salas Comtals
+Sallebœuf|FR||9k|3gj|-14|j
+Salcombe|GB||9b|3vk|-ah|j
+Salvatierra de los Barros|ES||9d|2yx|-ik|j
+Salaš Noćajski|RS||8q|3gv|1if|j|Salaŝ Nocjajski
+Sala al Barro|IT||9o|3ja|q0|j
+Soly|BY||9g|47f|20r|i|Salos
+Salto de Tepuxtepec|MX||41|1jj|-7qf|i|Tepuxtepec
+El Refugio|MX|Hidalgo|41|1jk|-7nj|i|Salitrera;Refugio
+Salantai|LT||a3|4bq|1nx|i|Salanti;Salontā;Sałanty;Salantų;Salantay
+Sallgast|DE||8r|3zb|12h|i|Załhozdź
+Saleu|CI||0|k3|-n5|i
+Salyersville|US||48|2wv|-6er|i
+Saloghlu|AZ||61|36o|3hz|i|Saloghly;Salogly;Saloğlu
+Salassa|IT||9o|3i0|lc|i
+Şāleḩābād|IR|Ilam Province|7o|2kz|3kb|i
+Sălciua de Sus|RO||8u|3kw|1t2|h
+Salamá|HN|Colón Department|56|17r|-6mt|h
+Sala Bolognese|IT||9o|3fx|va|h
+Salajwe|BW||m|-1tu|1wo|h
+Salaparuta|IT||9o|2ww|105|h
+Sales|FR||9k|3jf|gk|h
+Saltvik|AX||9f|4ng|1jp|h
+Salice Terme|IT||9o|3gs|p3|h
+Salimani|KM||ac|-wt|3c7|h|Selimani
+Salizzole|IT||9o|3ho|uu|h
+Salvador Urbina|MX|Chiapas|41|1a8|-76c|h
+Salkove|UA||98|3q2|2ba|h
+Salem|US|Arkansas|2f|2t1|-732|g
+Sālī Kandeh|IR||7o|2u5|468|g|Sālīkandeh
+Saletto|IT|Veneto|9o|3ib|wy|g
+Salinas|CV||84|161|-1td|g
+Saletto|IT|Veneto|9o|3hn|w2|g
+Salisbury|US|Missouri|2f|31i|-75s|g
+Salitto-Valle|IT||9o|34z|15q|g
+Salem|US|West Virginia|48|314|-67s|g
+Sauveterre-de-Béarn|FR||9k|3ck|-2m|f|Salbaterra Bearno;Sauvatèrra;Sauvatèrra de Biarn;Sauveterre
+Salsburgh|GB||9b|4b4|-ar|f
+Salaš Crnobarski|RS||8q|3gj|1hv|f
+Salome|US||4i|2lu|-8rl|f
+Salvador Rosas Magallón|MX||58|2gm|-8zr|f
+Salazar|MX||41|1hn|-7o3|f
+Salkımbağı|TR||94|2x3|2z5|f
+Sălcuța|RO|Dâmbovița County|8u|3g0|1z2|f
+Salgen|DE||8r|3pp|t4|f
+Solomonovo|UA||98|3qj|1pk|f|Tiszasalamon;Solomonowo;Šalamúnová;Solomonove
+Salcia|RO|Dolj|8u|3fk|1t5|e
+Salinas|ES||9d|2z0|-2j|e
+Salisbury|DM||2r|16w|-4qo|e|Solsberis;Barroui;Baroui
+Salafchegān|IR||7o|2ns|3w6|e|Salafchakān;Sarafchekān;Salafchagan
+Salina|US|Oklahoma|2f|2st|-7cb|e|Saline
+Sālehpur Kasāra|IN||6t|1yz|6ku|e
+Salvada|PT||99|2xe|-ll|e
+Salguero|MX||41|1f5|-7rj|d
+Sâles|CH||a7|3lj|jd|d
+Salem|US|South Dakota|2f|3dg|-7ij|d
+Le Grand-Bourg|FR||9k|3k8|4k|d|Salanhac;Le Borg;Grand Bourg
+Saletto-San Bartolomeo|IT||9o|3j1|yg|d
+Salmsach|CH||a7|3o3|q1|d
+Salionze|IT||9o|3i4|ts|d
+Sallent de Gállego|ES||9d|3at|-x|d|Sallén de Galligo;Sallent de Galligo
+Sălcioara|RO|Buzău County|8u|3hv|23i|d
+Salineville|US||48|34u|-68k|d|Salinesville
+Săliștea|RO||8u|3jj|1t0|d|Alsócsóra
+La Salvetat-sur-Agout|FR||9k|3d4|7i|d|La Salvetat;Salvetat-sur-Agout
+Sedlarevo|MK||9u|38c|1mp|d|Salarevo
+Saligny|FR|Pays de la Loire|9k|3m1|-3z|d
+Salignac|FR||9k|3h2|-12|d
+Salgesch|CH||a7|3kn|l1|c|Salquenen
+El Salero|MX||41|1q7|-7w8|c|Salero
+Saltillo|MX|Chiapas|41|19j|-73f|c
+Zoutkamp|NL||8m|446|hi|c|Sâltkamp
+Salisbury|US|New Hampshire|48|3ci|-5j8|c
+Salsacate|AR||1n|-2f0|-50t|c
+Salavatlı|TR||94|2x9|262|c
+Salisbury Plain|AU||8b|-2ol|ap6|c
+Sal‘it|PS||6n|2hk|2pd|c
+Salcia|RO|Prahova|8u|3hi|215|c
+Salhany|UA||98|3k7|2ca|c|Salhanî;Salgany
+Salambigar|BN||66|du|8vf|c
+Salamansa|CV||84|1ay|-1xa|c|Salamanza
+Salles-Curan|FR||9k|3eq|7r|c|Las Salas de Curanh;Las Salas
+Salviac|FR||9k|3g4|3i|c
+Salix|US||48|33y|-62t|b
+Saltillo|MX|Veracruz|41|1eg|-7bh|b
+Saladero|MX||41|1ni|-7iz|b
+Saline|IT||9o|3cg|u1|b
+Salignac-Eyvigues|FR||9k|3gx|3o|b|Salanhac e Aivigas
+Salmo|CA||5b|3so|-91s|b
+El Salitrillo|MX||41|1mg|-7tu|b|Salitrillo
+Salisbury|US|Vermont|48|3dy|-5n2|b
+Salvan|CH||a7|3k4|ji|b
+Salagnon|FR||9k|3iv|ew|b
+Salvirola|IT||9o|3i0|r6|b
+Saltangará|FO||85|4sk|-io|b|Saltangeraa;Saltangerå
+Salino|IT||9o|3av|12n|b
+Saline|GB||9b|4bv|-9x|b
+Salt Ash|AU||8l|-2j2|bq0|b
+Zaliznychne|UA|Zaporizhzhia|98|3od|2sh|b|Zaliznytchné;XX-richia Zhovtnia;Salisnytschne;Zaliznytjne;Zaļiznične;Zaliznichne;Zaliznyčne;Zaliznyczne;Zaliznîcine
+Salcha|US||1h|4z8|-bc2|b
+Sălcioara|RO|Tulcea County|8u|3gd|288|b
+Salda|TR||94|2w9|2ab|b
+Salomonsborn|DE||8r|3xo|uf|b
+Salluit|CA||59|4ss|-5u4|b
+Elaçmaz|TR||94|2yv|3e7|b|Salahane;Salhane
+Sasaltitla|MX||41|1m5|-7ks|a|Salsaltitla
+Salvador Díaz Mirón|MX|Veracruz|41|1iz|-7h3|a
+Sălcuța|RO|Dolj|8u|3eo|1tu|a
+Salins-les-Thermes|FR||9k|3ib|i5|a
+Salineiro|CV||84|15i|-1tk|a
+Salinas|MX||41|1gh|-7ei|a
+Salins|FR||9k|3qi|8e|a
+Salābah|YE||5r|13s|3ls|a
+Salopleu|CI||0|jx|-mt|a
+Old Sarum|GB||9b|3xy|-4z|a|Salisberie;Sarum
+Salhouse|GB||9b|42b|3x|a
+Salmān|IR||7o|2on|4m9|a
+Salamanca|PA||4g|py|-654|a
+Salamatof|US||1h|4oe|-boc|a
+Sālārī|IR||7o|2rn|4ji|a
+Salzfurtkapelle|DE||8r|3zl|xu|a
+Salvagnac|FR||9k|3dz|4p|a
+Salamanca|MX|Quintana Roo|2b|1fv|-6tr|a
+Salto de Peña|MX||41|1kf|-7rh|a
+Salz|DE|Rheinland-Pfalz|8r|3wb|m4|a
+Salice|IT||9o|2y9|172|a
+Salagnac|FR||9k|3hv|3c|9|Salanhac
+Salékro|CI||0|kk|-dc|9
+Salicuneta|IT||9o|33o|165|9
+Salem|US|New Mexico|2p|2iv|-89t|9
+Salinagrande|IT||9o|2xg|yr|9
+Salvador Díaz Mirón|MX|Veracruz|41|1k2|-7hl|9
+Salem|US|New York|48|3bx|-5np|9
+Salcia|RO|Galați County|8u|3iy|248|9
+Salivka|UA||98|3s4|2lu|9|Salovka
+Salinas Roca Partida|MX||41|1fy|-7ck|9
+El Salitre de Aguilares|MX||41|1kg|-7ts|9|Salitre de Aguilares
+Salency|FR||9k|3tr|8h|9
+Saillagouse|FR||9k|39y|5o|9|Sallagosa
+Sala’ilua|WS||aj|-124|-dbg|9|Salealua
+Salerni|IT||9o|31f|193|9
+Sālak Deh|IR||7o|2vu|3uw|9|Salkadeh;Sālek Deh
+Sallique|PE||3o|-fq|-64c|9
+Sălcud|RO||8u|3kx|1v5|9
+Salamanca|PE|La Libertad|3o|-lq|-647|9
+Salvano|IT||9o|3bw|12b|9
+Salara|IT||9o|3gz|vr|9
+Sălceni|RO||8u|3jy|24l|9
+Salihli|TR|Diyarbakır Province|94|2y8|326|9|Salihî
+Salkım|TR||94|2v7|2wp|9
+La Salle|IT||9o|3j2|jn|8|Sala
+Saltsburg|US||48|34h|-64p|8|Saltzburg
+Salsadella|ES||9d|34a|i|8|La Salzadella
+Saligny-sur-Roudon|FR||9k|3l3|af|8
+Salitrillo|MX|San Luis Potosí|41|1qx|-7rt|8
+Sallacconi|PE||3o|-13a|-5ef|8
+Salir do Porto|PT||99|31q|-pg|8
+Salorino|ES||9d|31o|-jh|8
+Saleye|CI||0|mw|-8a|8
+Saliceto|IT||9o|3fd|mp|8
+Salepou‘a‘e|WS||aj|-12c|-d9h|8
+El Salitre|MX|Zacatecas|41|1q8|-7uq|8|Salitre
+Saluda|US|Virginia|48|2wh|-5wr|8
+Sälen|SE||9w|4pv|10v|8
+Salmiech|FR||9k|3eq|75|8
+Salmānābād|IR||7o|2pw|3zt|8
+Salmon Cove|CA||50|3oq|-43o|8
+Saltara|IT||9o|3dj|zu|8
+Saltillo|MX|Puebla|41|1hm|-7ia|8
+Salento|IT||9o|33t|167|8
+Šalka Vas|SI||9a|3it|15c|8
+Salitrillo|MX|San Luis Potosí|41|1qz|-7up|8
+El Salitre|MX|Sinaloa|3x|1yo|-8cd|8|Salitre
+Salmoral|MX||41|1hq|-7fn|8
+Salīmābād|IR||7o|2u6|3x3|7
+Salem|US|Kentucky|2f|2uz|-6k3|7
+Salem|US|Kentucky|2f|2vi|-6t4|7
+Salon-la-Tour|FR||9k|3ie|4a|7
+Salvador Gonzalo García|MX||41|1fr|-7fu|7|Salvador González García
+Saligny|RO||8u|3f0|261|7
+Salitrosa|PA||4g|mt|-680|7
+Salur|TR||94|2u5|2ar|7|Salır
+Saldaña|MX||41|1q8|-7to|7
+Sali|HR||a6|3e2|164|7|Sale
+Salala|PE||3o|-e7|-64r|7
+Salornay-sur-Guye|FR||9k|3l8|cs|7
+Salpo|PE||3o|-m9|-62d|7
+Saluda|US|North Carolina|48|2pw|-6cr|7
+Sala|IT|Veneto|9o|3iy|xm|7
+Salisbury|US|Pennsylvania|48|32f|-63o|7
+Serbannes|FR||9k|3k2|9c|7|Serbana;Salbannes
+Salmān Dāvūd|IR||7o|2gl|3qj|7
+Sălciua de Jos|RO||8u|3kw|1t2|7|Alsószolcsva
+Săldăbagiu Mic|RO||8u|3lu|1pj|7|Săldăbagiul-Mic
+Saliès|FR||9k|3dx|5x|7
+Salamanca|MX|Durango|44|1yw|-802|7
+Salza Irpina|IT||9o|35o|15d|7
+Salón de Actos (Ampliación Cuarenta y Siete)|MX||2g|276|-857|7
+Salvador Esquer Apodaca [Unidad Habitacional]|MX||41|1go|-7go|6
+Stari Slankamen|RS||8q|3he|1ka|6|Salankamen;Zalánkemén;Szalánkemén
+Santa Gertrudis Salitrillo|MX||41|1e2|-7jy|6|Salitrillo
+Salobre|ES||9d|2z7|-73|6
+Salussola|IT||9o|3i9|mj|6
+Salaunes|FR||9k|3gu|-2b|6
+Sataya|MX||3x|1wf|-8b2|6|Salaya
+Sălăgeni|RO||8u|3og|21b|6
+Sala Comacina|IT||9o|3jo|ph|6
+Sallespisse|FR||9k|3cw|-1z|6|Salespissi;Salas
+Saligny|FR|Bourgogne-Franche-Comté|9k|3px|9b|6
+Sălăjeni|RO||8u|3ng|1rn|6
+Saludecio|IT||9o|3dw|z6|6
+Săldăbagiu de Barcău|RO||8u|3ne|1qe|6|Săldăbagiul-de-Barcău
+Salcia Nouă|RO||8u|3ia|23y|6
+Saleilua|WS||aj|-12z|-d8y|6
+Sale’aula|WS||aj|-11d|-daq|6
+Salles-sur-l'Hers|FR||9k|3c9|4y|6
+Pesquería Rancho Salinas|MX||41|191|-79u|6|Salinas
+Sălișca|RO||8u|3n6|1u6|6
+Salford Priors|GB||9b|40w|-59|6
+Săldăbagiu de Munte|RO||8u|3mt|1p2|6|Săldabagiul de Munte
+Salt Creek|US||2p|2y8|-82j|6|Áshįįh Bikooh
+Salta|BD||6a|1sl|6vt|6
+Salkımlı|TR||94|2yo|36c|6
+Salignac-sur-Charente|FR||9k|3iv|-17|6
+Salme|EE||9x|4hk|1pu|6
+Salem|DE|Schleswig-Holstein|8r|452|u3|6
+Salitrillo|MX|Tamaulipas|44|1sc|-7pb|6
+Salvador Urbina|MX|Chiapas|41|17u|-75u|6|Santo Niño
+Šalara|SI||9a|3ig|124|6
+Salamanca|PE|Arequipa|3o|-172|-5mb|5
+Sale’a’aumua|WS||aj|-12x|-d87|5|Saleaumua;Saleamua
+Saltfleet|GB||9b|44e|j|5
+Salavas|FR||9k|3fb|c6|5
+Salisbury Mills|US||48|373|-5pw|5
+Sallenôves|FR||9k|3jt|go|5
+Saland|CH||a7|3nn|ol|5
+Salani|WS||aj|-12w|-d8l|5
+Sálakos|GR||8p|2st|25m|5|Sálakhos
+Saltos de Cima|CV||84|162|-1to|5|Saltos Acima
+Saltillo|US|Tennessee|2f|2qa|-6t1|5
+Salin|TR||94|34w|2iu|5
+Salita-Riola|IT||9o|3g4|s2|5
+Shalva|IL||6n|2fo|2ol|5|Šalva;Shalwa
+Salperwick|FR||9k|3x1|67|5|Saubruit

@@ -1,0 +1,47 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Coyoacán|MX||41|1hr|-7ng|4qo
+Coyah|GN||f|qz|-116|lf|Coya;Koyah
+Choibalsan|MN||7s|3pj|8u5|cg|Choybalsan;Bayan Tümen;Bajan Tumen;Čojbalsan;Çoybalsan;Bain Tumen;Bayn-Tumen;Choibolsan;Choybolsan;Pa-yin-t’u-men
+Coity|GB||9b|3z4|-9w|bi|Coyty
+Coyotepec|MX||41|1iy|-7nl|9x
+Coyula|MX|Jalisco|41|1le|-7yr|89
+Coyuca de Benítez|MX||41|1b9|-7q1|3s
+Choyr|MN|Govĭ-Sumber|7s|3ks|8d0|2w|Çoyr
+Coyutla|MX||41|1k9|-7ja|2c
+Coyuca de Catalán|MX||41|1ew|-7rq|1x
+Coye-la-Forêt|FR||9k|3si|6v|13
+Coyaima|CO||27|ak|-5sv|13
+Ihuatzio|MX||41|1id|-7ua|10|Coyōhuahcān;Ihuantzio
+Coyotillos|MX|México|41|1jk|-7ng|v
+Coya|CL||4u|-2n1|-5fx|p
+Collantes|MX||41|18z|-7k5|m|Coyantes
+Coylton|GB||9b|4a1|-ck|m
+Coyotillos|MX|Querétaro|41|1l8|-7qd|i
+Coyotitán|MX||3x|1u3|-884|h
+Coyuquilla Norte|MX||41|1ca|-7sq|f|Coyuquila Norte
+Coyoles Central|HN||56|16s|-6or|b
+Coyahualco|MX||41|1da|-7lt|b
+Coyomeapan|MX||41|1es|-7hf|b|Coyomeapa
+Coyolito|MX||41|1hf|-7h3|b
+Coyoles|HN||56|16z|-6os|9
+La Barra|MX||41|1b3|-7q3|9|Coyuca
+Coyne Center|US||2f|370|-6zk|8
+Coyula|MX|Hidalgo|41|1m5|-7lk|8
+Coyul|MX||41|1bq|-7kr|8
+Coyay|MX||41|1js|-7jk|8
+El Coyote|MX|Sinaloa|3x|1zb|-8co|8|Coyote
+Santiago de Coyame|MX||2g|29u|-83x|7|Coyame del Sotol
+Coyametepec|MX||41|1jw|-7ks|7
+Coyoles|MX||41|1p8|-7nc|6|Coyotes
+Cuyuxquihui|MX||41|1kc|-7i5|6|Cuyusquihui;Coyoxquihui
+Coyecques|FR||9k|3wk|62|6
+El Coyote|MX|Guanajuato|41|1ly|-7t9|6|Coyote
+Coyolapa|MX||41|1f5|-7h4|6|Coyulapa
+Coyol (Vega Larga)|MX||41|1n3|-7ml|6
+Coyona|PE||3o|-eq|-656|6
+Coyuquilla Sur (Coyuquilla Viejo)|MX||41|1c8|-7sr|5
+Coyocala|MX||41|1m7|-7mq|5
+Coyamel (El Coyame)|MX||41|1i6|-82c|5
+Coyote Acres|US||2f|24z|-7kl|5
+Coyote|MX||41|1rm|-7rd|5
+Coyol Norte|MX||41|1lm|-7i3|5

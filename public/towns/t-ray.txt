@@ -1,0 +1,70 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Raipur|IN|Chhattisgarh|6t|1mz|6ar|7xd|Rajpuro;Rájpur;Rayapura
+Ar Rayyān|QA||7b|1y9|3yu|23p|ar-Rayyan;Al Rayyan;Al Raiyan
+Rāiganj|IN||6t|1z5|6ss|1bb|Rayganj
+Payakumbuh|ID||6l|-m|7rj|12s|Rayakumbuh;PajaKumbuh
+Rayon KhTZ|UA||98|3uq|2t1|10e|New Kharkiv;KhTZ District;KhTZ Settlement;Novyi Kharkiv;Novyy Kharkiv;Sotsmistechko Novyi Kharkiv;Sotsmistechko Novyy Kharkiv
+Rayong|TH||62|z8|7ta|tn|Rayohng
+Rayachoti|IN||6t|132|62r|pc
+Rāyagada|IN||6t|1h9|6fp|js
+Rāipur|BD||6a|1s0|705|hz|Raypur
+Rāyadrug|IN||6t|14u|5xh|h5|Rayadurg
+Rayleigh|GB||9b|3zb|1o|90
+Raytown|US||2f|30d|-7ae|86
+Rayduzhnyi Masyv|UA||98|3w9|2cz|7e|Raiduzhnyy Masyv;Raiduzhnyi Masyv;Rayduzhnyy Masyv
+Raychikhinsk|RU||7x|3uc|9zg|6l|Rajtsjikhinsk;Raitschichinsk;Raïtchikhinsk;Rajčichinsk;Raitxíkhinsk;Rajĉiĥinsk;Raičihinsk;Raychikhihsk
+Rheinstetten|DE||8r|3s1|n3|5o|Raynştetten
+Raymore|US||2f|2zs|-7ad|5o
+Rayevskiy|RU||7z|466|48l|5l|Rajevskij
+Rāya|IN|Uttar Pradesh|6t|24k|603|5k
+Raybag|IN||6t|19t|5rp|57
+Reinheim|DE||8r|3uf|ok|4y|Raynhaym
+Rye|US|New York|48|35u|-5oo|4g|Ray
+Rayside-Balfour|CA||59|3lh|-69l|42
+Rāya|IN|Punjab|6t|2fm|5t0|41|Rayya
+Raynham|US||48|38j|-5hf|3o|Rayham
+Raymond Terrace|AU||8l|-2j0|bpj|3i
+Rāyagiri|IN||6t|pu|5z5|34
+Raymondville|US||2f|21k|-7jm|33
+Rāyen|IR||7o|2a8|4fk|2v
+Roshchino|RU|Leningradskaya Oblast'|9i|4nd|2a9|2l|Raivola;Rosjtsjino;Rayvola
+Rayevskaya|RU||9i|3gk|2wc|2d|Rajevskaja
+Rayon AKZ|UA||98|3lz|2u2|29|Raion AKZ;Raion Azovskoho Kabelnoho Zavodu;Rayon Azovs'koho Kabel'noho Zavodu
+Rayne|US||2f|2bz|-74b|28
+Rāy|IN||6t|1ts|6k9|1y
+Raymūn|JO||5t|2ho|2rj|1p
+Rayón|MX|San Luis Potosí|41|1oo|-7os|1n
+Rayón|MX|Chiapas|41|1bs|-76d|1n
+Khojaly|AZ||61|32v|3lz|1m|Xocalı;Ivanyan;Khodjaly;Xocalı rayonu;Ĥoĝali;Xocalın piirikunta;Khojali;Daerah Khojali;Khojali Rayon;Rayon Khojali;Distrito ng Khojali;Hocalı Rayonu;Rejon Xocalı;Hojali;Joyalí;Khodzhaly;Khozhali
+Rayon RTS|UA||98|3lz|2u2|1l|Raion RTS;Raion remontno-tekhnichnoi stantsii;Rayon remontno-tekhnochnoyi stantsiyi
+Rayon Azmol|UA||98|3lx|2u5|1h|Raion Azmol
+Ryazanskaya|RU||9i|3gw|31z|1g|Rjazanskaja;Riazánskaya;Riazanskaia;Rayazanskaya;Ryazanskoye
+Rayton|ZA||o|-1zi|279|1c
+Raymond|US|Maine|48|3dy|-5fr|1a
+Raynham Center|US||48|38g|-5hd|15|Raynham Centre
+Raymond|CA||2s|3te|-8oy|11
+Rayville|US||2f|2i8|-72v|11
+Raihorodok|UA||98|3ru|2ws|w|Raygorodok;Rayhorodok;Raigorodok
+Raymundo Enríquez|MX||41|15b|-74f|u
+Raymond|US|New Hampshire|48|3bk|-5hq|t
+Raymond|US|Washington|3p|3lp|-9jp|s
+Raymond|US|Mississippi|2f|2hm|-6z6|m
+Rayne|GB||9b|403|1m|k
+Raikhenfeld|UA||98|3n1|2q3|g|Plodorodne;Reichenfeld;Raykhenfeld;Raykhenfel’d;Plodorodnoye
+La Raya Zaragoza|MX||3z|1cc|-75g|f|Raya Zaragoza
+Rayón|MX|Sonora|37|2aj|-8j5|e
+Rāynanda|BD||6a|1uy|6zm|d
+Ray City|US||48|2eb|-6f4|b
+Rayske|UA||98|3qx|2w2|a|Raiske;Rays'ke;Rayskoye
+Raymond|US|Illinois|2f|318|-6wt|a
+Villa de Guadalupe|MX|San Luis Potosí|41|1sx|-7rw|a|Raymundo Sánchez
+Raysemënovskoye|RU||9i|48t|2vq|9|Raisemenovskoe
+Raymond|US|Iowa|2f|39z|-746|8
+Raypole|UA||98|3q2|2uc|8|Raipole
+Raymond's Hill|GB||9b|3x0|-89|8
+Raymond|US|Minnesota|2f|3h2|-7ck|8
+Ray|US||2f|3qa|-7yl|7
+Ray|UA||98|3tb|1x7|7
+Raya Caracol|MX||41|1f2|-7gl|6|Playa Caracol
+Raiozero|UA||98|3um|2iz|6|Rayozero
+Raymore|CA||4q|3yt|-82d|5

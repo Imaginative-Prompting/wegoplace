@@ -1,0 +1,116 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kumasi|GH||1|il|-4i|jmt|Kumasy;Kumaso;Kumase;Kumassi
+Qom|IR||7o|2o8|3xc|6y0|Kom;Qûm;Kum;Ĥomo;Kumas;Gōymān
+Kumamoto|JP||7q|2j5|a31|5p9
+Comilla|BD||6a|1t6|71b|4wb|Kumilla;Komila
+Kimhae|KR||7h|2pv|9y0|43s|Gimhae;Kŭmhae;Gimhae-si
+Cumaná|VE||2c|t2|-4ya|34o|Kumana
+Hami|CN||7t|3az|77r|1wg|Kumul;Qumul;Komul;Kha-mi
+Kumba|CM||j|cw|q9|1qi
+Al Khums|LY||1d|2ip|13m|1k3|Al-Chums;Al Ĥums;Khums;Humsas;Kums;Al-Khums;El Hums;Al Jums;El Xums;Khoms
+Kumagaya|JP||7q|2sd|ar7|1i9|Kumagaja;Kumagai
+Kumarapalayam|IN||6t|vs|5zv|1i7|Komarapalayam
+Kumbakonam|IN||6t|ug|64j|1ag
+Bueng Kum|TH||62|12b|7rn|14i|Ban Cum
+Kumbo|CM||j|h8|tn|yr
+Gyumri|AM||80|35b|3dt|vv|Kumayri;Gjumri;Gumru;Gumri;Giumri;Gjoemri;Ghiumri;Leninakan;Gumry;Kyumayri;Gimri;Kyumri;Kümri
+Kumanovo|MK||9u|391|1oc|kv|Kumanovas;Kumanowo;Koumanovo;Kumanova;Kumanovë
+Kumertau|RU||7z|42k|4az|i5|Kumiertau;Koumertaou;Kumjertau
+Cwmbran|GB||9b|3zh|-8e|dh|Kumbranas;Cwm-brân
+Kimje|KR||7h|2rg|9sh|ch|Kŭmje
+Kumi|UG||q|42|2ma|c3
+Kumbalangy|IN||6t|rg|5vw|bs
+Kumhāri|IN||6t|1n3|6ag|an
+Kumta|IN||6t|143|5qq|a7|Kumpta
+Kumo|NG||u|rx|v5|9x
+Kumru|TR||94|35j|2vi|8y
+Gumdag|TM||5x|30w|47n|8l|Qumdogʻ shahri;Qumdağ;Kum-Dag
+Kumbalam|IN||6t|rj|5vz|84
+Kumārapuram|IN|Kerala|6t|pr|5wb|7h
+Komló|HU||8v|3kb|1eq|7h|Kumlau
+Kūmher|IN||6t|23w|5yx|6j
+Kumano|JP|Hiroshima|7q|2nd|a89|6c
+Kumakura|JP||7q|2v7|atd|5s|Kumagura
+Kumbhrāj|IN||6t|1vp|5y1|5h
+Kumla|SE||9w|4k9|162|4n
+Kumagunnam|NG||u|10j|tj|4m|Kumagunam
+Kumano|JP|Mie|7q|2m6|ai4|4i
+Kumārapālaiyam|IN||6t|vy|5ym|4d
+Begova|IQ||5z|2vg|3bw|46|Bê Guve;Beguva;Kumelgeha Bêguva
+Kumārapuram|IN|Tamil Nadu|6t|n1|5ys|43
+Kumagawa|JP||7q|2qg|ahi|3w|Kumakawa
+Kumaralingam|IN||6t|t5|5yv|3s|Komaralingam
+Kumaragiri|IN||6t|ob|60t|3p
+Kumarghat|IN||6t|1v4|73n|3n
+Kumburgaz|TR||94|35z|271|3b
+Kümmersbruck|DE||8r|3ta|x1|2w
+Kumbalgod|IN||6t|zs|5z5|2u|Kumbalagodu
+Kumbi|IN||6t|1vv|78l|2n
+Kumārmunda|IN||6t|1py|6ji|2i|Kuānrmunda
+Kumeu|NZ||ak|-2u5|dgx|2d
+Kumylzhenskaya|RU||a4|3uk|3ab|29|Kumylzjenskaja;Kumilzhenskaya
+Kumar Kaibarta Gaon|IN||6t|22b|79s|29
+Kumaranellūr|IN||6t|tn|5vt|24
+Kuma|JP||7q|2li|a96|22
+Kumejima|JP||7q|216|9s9|20
+Kumārpur|IN||6t|1wk|6s0|20
+Kumalarang|PH||71|lj|9i2|1x
+Kumakwane|BW||m|-1wi|1ze|1w
+Kými|GR||8p|2zb|1uy|1v|Kyme;Kumi;Kími
+Kokemäki|FI||92|4q6|1q4|1v|Kumo
+Kumbhkot|IN||6t|1we|5v4|1u
+Kumsi|IN||6t|131|5tg|1t
+Kūmeleh|IR||7o|2v7|3vd|1t
+Cunewalde|DE||8r|3xy|14c|1k|Kumwałd
+Kumana|ZA||o|-1wr|2eq|1g
+Cumadcad|PH||71|102|9jv|1g|Kumadkad;Kumadcad
+Kumëny|RU||97|4hf|3un|1f
+Kumçatı|TR||94|2w3|39k|1e|Dergyul’;Dergül
+Kumardubhi|IN||6t|1ty|6p2|1c|Kumhardubhi;Kumardhubi;Kumhardubi
+Kumhausen|DE||8r|3qr|xs|1c
+Comarapa|BO||3n|-1ds|-4z9|18|Komarapa;Kumarapa
+Kumane|RS||8q|3ii|1k7|17|Kumánd;Kumani;Kumán
+Kumysh|RU||9i|3dw|38d|17|Kumysj
+Kumpula|FI|Uusimaa|92|4n9|1xc|17|Gumtäkt
+Kumköy|TR|Istanbul|94|36l|28o|13
+Cadenberge|DE||8r|45d|p6|y|Kumbarg;Kadenberge
+Kummelnäs|SE||9w|4kv|1es|y
+Koumac|NC||b8|-1l5|coc|v|Kumac
+Kuminskiy|RU||7z|4iz|54x|t|Kuminskij
+Kumalisquis|PH||71|t7|9i8|s|Kumaliskis;Kumalisqui
+Kumtich|BE||8t|3x6|dl|s|Cumptich
+Kumukh|RU||9i|395|3mw|r
+Kumluca|TR|Bartın|94|375|2i7|p
+Kumbağ|TR||94|35k|24a|l|Kum Baghu
+Cetatea de Baltă|RO||8u|3kh|1v5|k|Kümelburg;Kokelburg;Küküllővár;Cuculia
+Kummerfeld|DE||8r|455|r7|k
+Komariv|UA||98|3qw|22z|i|Comarova;Gomarova;Kumarova;Komarova;Komarov
+Kunbaja|HU||8v|3k0|1hy|i|Kumbaj
+Kumbija|GM||7|10v|-13e|i|Kumbita
+Kumberg|AT||a2|3n0|175|h
+Kumluca|TR|Ağrı|94|31z|3co|f
+Kümbetli|TR||94|34m|3bg|d
+Kumlu|TR||94|2v9|356|d
+Gumböle|FI||92|4na|1we|c|Kumpyöli
+Kumari|UA|Mykolaiv|98|3p6|2d7|c|Koumari;Kumary
+Kumdanlı|TR||94|2yg|2e2|c
+Komuniga|BG||9v|384|1y3|c|Kumoniga
+Kumluca|TR|Düzce|94|35a|2f1|b|Withsandish
+Kumköy|TR|Antalya|94|2ug|2dz|b
+Kumy|UA||98|3t2|2px|a
+Kumkale|TR||94|332|20w|a|Kumkule
+Cumlosen|DE||8r|43b|we|9|Kumlosen
+Kumovo|UA||9t|3jc|2le|9
+Kümbet|TR||94|320|3bg|9
+Kumamachi|JP||7q|2vu|avp|8|Kumanomachi
+Kumdere|TR||94|35j|219|8
+Kumkadı|TR||94|33k|272|8
+Kummerow|DE||8r|45d|zn|7
+Kumgölü|TR||94|2y7|368|6
+Kuma Village|KI||bh|8t|dcg|6
+Kumla|TR||94|2un|2xj|6
+Kumpula|FI|Pirkanmaa|92|4qv|1uh|6
+Kumbijae|GM||7|11l|-16v|6|Kumbija
+Kumari|UA|Mykolaiv|98|3p3|2d5|6|Kumary
+Kummer|DE||8r|445|vn|6
+Kumral|TR||94|36m|2pm|6

@@ -1,0 +1,113 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Baoshan|CN|Yunnan|7i|1xs|7ng|77w|Bō̤-săng;Pao-šan;Bảo Sơn;Pó-san-chhī;Pao-shan
+Boston|US|Massachusetts|48|39o|-5he|51m|Bostún;Pokekona;Pô-sṳ-tun;Bostan;Baston
+Poznań|PL||a5|41l|1b1|44y|Posen;Posnania;Pòznóń;Pô-tsṳ-nàm;Poßen
+Bratislava|SK||8s|3pr|1bj|39p|Prešporok;Bratislavo;Pozsony;Posonium;Preßburg;Bratysława;An Bhratasláiv;Bratisława;Bratisllava;Bratislav;Baratislawa;Presbourg;Presburg;Prešpurk;Preszburg
+Posadas|AR||1n|-243|-4bc|2cz
+Poza Rica de Hidalgo|MX||41|1l1|-7iq|1fg|Poza Rica;Posa Rika
+Potsdam|DE||8r|41k|10b|1fc|Poczdam;Postupim;Podstupim;Poztupimi
+Boshan|CN||7i|2tc|93b|16o|Po-shan
+Sergiyev Posad|RU||9i|4cf|2xy|ud|Sergijew Possad;Sergijev Posad;Sergiev Posad;Siergijew Posad;Sergijev Possad
+Zepu|CN||7t|2y3|5yn|ed|Poskam;Posgam
+Poso|ID||70|-3w|9bf|d7|Posso
+Posse|BR||4w|-135|-3kt|ae
+La Possession|RE||ai|-1m5|49p|9s|Possession
+Porsgrunn|NO||9j|4ka|qu|9k|Pošgriūnas;Porsgrund
+Posorja|EC||33|-7j|-66x|8l
+Post Falls|US||3p|3ok|-90v|8h
+Postmasburg|ZA||o|-26p|1s3|8d
+Piešťany|SK||8s|3qz|1dj|7h|Pieszczany;Pöstyén;Pještjani
+Posillipo|IT||9o|35d|13g|6d
+Posto da Mata|BR||20|-1dp|-32q|66|Pasto da Mata
+Pastavy|BY||9g|494|22j|55|Pastovys;Pastawy;Pasztavi;Pastavi;Postawy;Postavy
+Svobody|RU||9i|3eb|3bl|4x|Swobody;Posölok Svobodı;Posjolok Svobodi
+Požega|HR||a6|3hy|1d5|4p|Pozsega;Incerum;Posega
+Pospelikha|RU||63|40b|6b5|3s
+Pößneck|DE||8r|3wt|w7|3c
+Imeni Morozova|RU||9i|4mm|2e8|2y|Pähkinän Ruuttehas;Possjolok imeni Morosowa;Imieni Morozowa
+Pyshma|RU||7z|4e7|4vp|2t|Pysjma;Pyschma;Pisma;Põšma;Pyszma;Pisjma
+Postojna|SI||9a|3j5|13i|2o|Adelsberg;Postumia
+Podstrana|HR||a6|3ct|19z|2j|Postrana
+Poste de Flacq|MU||ag|-1k0|4gd|2f
+Poshnjë|AL||9y|35a|1j4|22|Poshnja
+Posadas|ES||9d|2x0|-e7|22
+Postbauer-Heng|DE||8r|3sz|vk|22
+Poshekhon’ye|RU||9i|4ii|30q|1x|Posjekhonje;Poshekhonic;Poshekhone
+Posoltega|NI||3s|yu|-6pm|1s|Posoletega
+Poisy|FR||9k|3jk|gu|1s|Posiacum
+Posušje|BA||9r|3cr|1c5|1r
+Posen|US||2f|37n|-6rk|1o
+Poşta Câlnău|RO||8u|3hn|22l|1o|Poşta Cîlnău
+Post-Volynskyi|UA||98|3w2|2cj|1n|Post-Volynskyy
+Post|US||2f|2k7|-7tm|1h
+Pos Chiquito|AW||1x|ym|-5ec|1h|Pos Chikito;Pos Chikitu
+Postoloprty|CZ||9m|3vw|122|1d
+Posterholt|NL||8m|3y0|gr|z
+Poschiavo|CH||a7|3ko|ry|y|Pesclavium;Puschlav;Puscciâf;Poschiavu
+Jaunmārupe|LV||9n|4dz|1ui|y|Posëlok Marupe
+Poshtove|UA||9t|3gk|2mc|v|Pochtovoye;Bazarçıq;Bazartchyk;Poschtowe;Bazarchik;Bazartchik;Basartschyk;Bazarchyk
+Postrer Río|DO||4v|1fi|-5j0|v
+Poselki|RU||9i|43l|3l6|v
+Fëdorovskoye|RU||9i|4lq|2ct|u|Fedorovskoje;Possai;Fedorovskiy
+Poświętne|PL||a5|3y4|1bb|u
+Posof|TR||94|37b|3ap|t
+Postřelmov|CZ||9m|3un|1az|t
+Posio|FI||92|53n|269|t
+Postioma|IT||9o|3j0|xr|p
+Samakhvalavichy|BY||9g|45a|24e|p|Samokhvalovichi;Posëlok Samokhvalovichi
+Pustunich|MX|Yucatán|3z|1kl|-6wn|p|Postunich
+Postmünster|DE||8r|3qi|zu|o
+Positano|IT||9o|34v|148|n|Pusitano;Pozitano;Posidianum;Positanu
+Posht-e Pīān|IR||7o|2gt|3ua|n
+Posatora|IT||9o|3d4|11h|n
+Noramarg|AM||80|336|3ff|n|Posëlok Imeni Kalinina;Ablkend;Abilkend;Habilkend;Bulagli
+Postville|US||2f|3bo|-72d|l
+Possagno|IT||9o|3jd|x0|l
+Posada|IT||9o|34v|r0|k|Pasada;Pausada
+Posëlok Voskhod|BY||9g|45e|2cb|k
+Rozhdestveno|RU|Leningradskaya Oblast'|9i|4ks|2b7|k|Rozjdestveno;Possata
+Postau|DE||8r|3r5|y9|g
+Posada|ES||9d|3cm|-di|g
+Postal|IT||9o|3lh|v3|g|Burgstall
+Poselok Turisticheskogo pansionata "Klyazminskoe vodohranilische"|RU||9i|4bk|2wn|f|Poselok Turisticheskogo pansionata Klyazminskoe vodohranilische
+Posëlok Mar’ino|RU||9i|4ab|2vo|f
+Posada|RO||8u|3ht|1z6|f
+Pos’yet|RU||7w|3ah|a3d|f|Posiet;Poset;Pss’yet;Posjet
+Postira|HR||a6|3ci|1a7|e|Postire
+Postupice|CZ||9m|3u5|152|e|Postupitz
+Pasytsely|UA||98|3ov|2ag|e|Passytsély;Positsely
+Poşaga de Sus|RO||8u|3l3|1sy|e
+Posedarje|HR||a6|3et|170|d|Posedarija
+Poshteh|IR||7o|2x6|3ry|c
+Poses|FR||9k|3sz|3g|c
+Poseritz|DE||8r|46u|10v|c
+Pouzac|FR||9k|3bp|d|b|Posac
+Postřekov|CZ||9m|3te|zl|b
+Posëlok Zelënyy Gay|RU||9i|434|348|b
+Postiglione|IT||9o|34o|16b|b
+Postranje|HR||a6|3cr|1bm|b
+Poseyville|US||2f|2y1|-6ru|a
+Pasjane|XK||8q|39t|1nq|a|Pisjan;Pasjan;Posjane;Pasijane
+Pösing|DE||8r|3sr|yv|a
+Postârnacu|RO||8u|3gi|1zw|9
+Podgajci Posavski|HR||a6|3gv|1gb|9|Posavski Podgajci
+Poshot|IR||7o|1xp|4qg|9
+Posta Fibreno|IT||9o|37t|120|8
+Posol’skoye|RU||6k|40i|86y|8|Posolskoje
+Budsław|BY||9g|488|245|7|Posëlok Budslav;Budslaŭ
+Parkers Settlement|US||2f|2xp|-6ro|7|Poskers Settlement
+Posavski Bregi|HR||a6|3iw|19f|7
+Possidente|IT||9o|35a|17t|7
+Post Oak Bend City|US||2f|2in|-7fj|7
+Poșta|RO|Tulcea County|8u|3hc|27i|7
+Posmuș|RO||8u|3mi|1wa|7|Paszmos
+Postomino|PL||a5|47d|1af|6
+Poșta|RO|Ilfov|8u|3fa|213|6
+Balynivka|UA||98|3rv|21z|6|Posëlok Imeni Petrovskogo;Petrivske
+Poscante|IT||9o|3j6|qx|6
+Postăvari|RO||8u|3f5|210|6|Postovari
+Poșaga de Jos|RO||8u|3kz|1t4|5
+Posterstein|DE||8r|3xb|y3|5
+Postkabasakal|TR||94|2w5|2r3|5
+Posada de Valdeón|ES||9d|3bv|-do|5
+Postfeld|DE||8r|46l|sd|5

@@ -1,0 +1,101 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+West Jerusalem|IL||6n|2ga|2pu|334|Vest-Jerusalem;Vestjerusalem;Westjerusalem;Västra Jerusalem
+Vespasiano|BR||4w|-1ip|-3e0|12i
+Besançon|FR||9k|3n9|gq|zo|Bisanz;Besanzón;Bezanson;Bezansono;Chrysopolis;Besanzone;Bysantium;Vesontio;Vesanção;Bezansona;Besanção;Bisontion;Besontio;Vesuntio;Bezansonas
+Västerås|SE||9w|4lm|19z|zi|Arosia;Vesterosa;Vesterosas
+Veshnyaki|RU||9i|4as|2x2|xw
+West Bromwich|GB||9b|41w|-5j|sn|Vest Bromičas;Bromwich Thiar;Vest-Bromviĉo;Vestbromviča;Uest-Bromiç
+West Town|US||2f|38d|-6rj|o0|Vest Taun
+Veszprém|HU||8v|3mt|1dr|ft|Vesprimo;Vesprém;Veszprim;Vesprėmas;Vesprim;Vesprimia;Wesprim;Vessprém
+Weslaco|US||2f|20o|-7k7|az|Veslako
+West Hollywood|US|California|3p|2mp|-94s|a2|Vakarų Holivudas;Vestholivuda;Okcidenta Holivudo;Tây Hollywood
+Vestavia Hills|US||2f|2kx|-6p3|9i
+West Fargo|US||2f|3m7|-7h6|9c|Vakarų Fargas;Vestfargo;Tây Fargo
+Vestal|US||48|38x|-5v9|7s
+Westerlo|BE||8t|3xx|do|6a|Vesterlas;Westel
+Västervik|SE||9w|4gg|1a8|5w|Vestrovicum;Vestervikas
+Vesoul|FR||9k|3ob|h2|5j|Vesulum
+Westerland|DE||8r|48j|n2|3h|Wäästerlön';Vesterland;Weesterlön
+Veselí nad Moravou|CZ||9m|3rz|1ca|2y|Veseli pie Morāvas;Wessely an der March
+Vesele|UA|Zaporizhzhia|98|3ml|2p0|2p|Vessélé
+Vëshenskaya|RU||9i|3tv|37x|2l|Vesjenskaja
+Vesëlyy|RU||9i|3mt|356|2g|Veselyj;Vesely
+Ves’yegonsk|RU||9i|4iz|2vi|2a|Vesiegonsk
+West Kirby|GB||9b|449|-8u|25|Vest Kirbis
+Vesala|FI||92|4nc|1xq|23|Ärvings
+Vésztő|HU||8v|3mc|1n3|23
+Veshkayma|RU||9z|465|3mw|1z|Vesjkajma
+Veselí nad Lužnicí|CZ||9m|3sm|14u|1t
+Veselynove|UA||98|3nk|2er|1m|Vessélynové;Wesselynowe;Veselinove;Wesełynowe;Veselinovo
+Westende|BE||8t|3y4|7p|1j|Vestenda
+Vestby|NO||9j|4ll|tv|1h
+Veseloyarsk|RU||63|3yh|69b|1g|Veselojarsk
+Vadsø|NO||9j|5en|2an|1b|Vesisaari;Čáhcesuolu
+Vestmannaeyjar|IS||87|4w8|-1kb|1a|Vestmannaeyjum;Vestmannaeyja
+Westerbork|NL||8m|42t|id|1a|Vesterborkas
+Vesilahti|FI||92|4qc|1tm|1a
+Vestone|IT||9o|3iz|sw|17
+Vescovato|IT||9o|3hh|s8|12
+Westend|FI||92|4n4|1ww|x|Vessu
+Veshchevo|RU||9i|4op|292|x|Heinjoki;Vesjtsjevo;Heinijoki
+Vestec|CZ||9m|3uu|14a|x
+Wesselburen|DE||8r|46l|os|v|Veslingburen
+Vestbjerg|DK||8y|4ep|ro|v|Vestbjærg
+Vesele|UA|Donetsk|98|3rb|2wf|t|Vesely
+Vester Hassing|DK||8y|4ej|s5|q|Vester Hasing
+Vescovato|FR||9k|3a1|q8|q
+Wees|DE||8r|489|qg|m|Ves
+Vessem|NL||8m|3yu|ep|m
+Vestnes|NO||9j|4tz|jp|l
+Vespolate|IT||9o|3hz|o3|k
+Veseli Terny|UA||98|3pm|2l8|k
+Vesanto|FI||92|4ut|21e|i|Wesanto
+Vespasiano Corrêa|BR||4w|-28r|-402|i|Vespasiano Correia
+Veselyy Kut|UA||98|3jx|29d|i|Paris;Vessélyï Kout;Vesely Kut;Wesselyj Kut
+Veștem|RO||8u|3j0|1vc|h
+Vesele|UA|Crimea|9t|3gm|2ow|h|Koutlak;Veseloe;Qutlaq;Vesëloye;Kutlak
+Vestenbergsgreuth|DE||8r|3u1|tl|g
+Viesīte|LV||9n|4cj|1z0|f|Vesite;Viyesite
+Vestric-et-Candiac|FR||9k|3di|bu|e
+Veselynivka|UA||98|3vk|2ev|e|Veselinovka
+Vesnyane|UA||98|3mi|2gl|e|Vesniané
+Vezzano Ligure|IT||9o|3em|rh|e|Vessan Ligure
+Veselovka|UA||9t|3i2|2k9|e
+Vesela Tarasivka|UA|Luhansk|98|3qr|30k|e|Veselo-Tarasovka;Vesëlaya Tarasovka
+Vesela Tarasivka|UA|Luhansk|98|3qt|30l|e|Tarasovka
+Vesseaux|FR||9k|3g1|cc|e
+Vester-Skerninge|DK||8y|48z|t2|d
+Vestmanna|FO||85|4sn|-jx|d|Vestmanshavn;Vestmana;Vestnanhavn;Vestmanhavn
+Vestiaria|PT||99|31v|-p0|d
+Veselé|SK||8s|3qv|1d9|c
+Vesela Dolyna|UA|Odesa|98|3kf|29g|c|Vessela Dolõna;Vesséla Dolyna;Wessela Dolyna;Klöstitz;Cleaşniţa
+Vesela Hora|UA|Luhansk|98|3rb|312|c
+Veselyi Podil|UA||98|3ts|2ke|c|Vesëlyy Podol;Veselyy Podil;Vesely Podol
+Vestbygd|NO||9j|4he|ib|b
+Veseuș|RO||8u|3kj|1v2|a|Vesăus
+Veselianka|UA||98|3og|2q9|9|Veselyanka
+Vescovado|IT||9o|3bx|vn|8
+Veselíčko|CZ||9m|3tl|1cm|8
+Västanfjärd|FI||92|4mt|1r0|8|Vestanfjärd
+Vesela Dolyna|UA|Poltava|98|3t8|2l0|8|Vesëlaya Dolina
+Vessigebro|SE||9w|4ea|z5|8
+Vescemont|FR||9k|3om|j0|8
+Vesternychany|UA||98|3ok|2a2|8|Vesternytchany;Vesternichany
+Veselyi Khutir|UA||98|3ty|2i7|7|Veselyy Khutir
+Patreksfjörður|IS||87|528|-1uo|7|Patresfirði;Patreksfjörð;Patreksfjarðar;Vesturbyggð
+Veselá|CZ||9m|3ss|1de|7
+Vestenanova|IT||9o|3il|v7|7
+Vesela Hora|UA|Donetsk|98|3r2|2v4|7|Vesëlaya Gora
+Vesly|FR|Normandy|9k|3ss|4l|6
+Vescovana|IT||9o|3hd|wj|6|Vescovanum
+Vesdun|FR||9k|3la|6r|6
+Věšín|CZ||9m|3tu|12e|6
+Vesele|UA|Zaporizhzhia|98|3mi|2pj|6|Vesely;Veseloye
+Vesele|UA|Donetsk|98|3pi|2wt|6|Veseloye
+Vesper|US||2f|3fk|-6xw|6
+Vestervig|DK||8y|4do|n4|6
+Vesly|FR|Normandy|9k|3st|-46|5
+Vester Hornum|DK||8y|4dv|q0|5
+Vestignè|IT||9o|3i3|m3|5
+Veshkelitsa|RU||9i|4s0|2j5|5|Vesjkelitsa;Veskelys;Veshkelitsy;Veshkilitsy
+Vesqueville|BE||8t|3ux|f0|5

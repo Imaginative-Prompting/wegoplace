@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Siping|CN||7i|3bw|9li|4ug|Ssupingkai;Sé-bìng;S-pching;Tứ Bình;Sù-pêng-chhī;Szepingkai
+Sochi|RU||9i|3d4|32c|2j0|Sotschi;Soĉi;Sotši;Sotchi;Sotsji;Soczi;Sotji;Ssotschi
+San Sebastián de los Reyes|ES||9d|34o|-a3|l3|Sanse;S.S. de los Reyes;SS de los Reyes;Sanctus Sebastianus Regum;San Sebastian de los Rejesas
+Sal’sk|RU||9i|3l3|37e|gy|Salsk;Ssalsk
+Slavgorod|RU||63|438|62h|9h|Slawgorod;Sslawgorod
+Sirdaryo|UZ||7m|35g|5aq|80|Syrdarya;Sirderya;Syrdar’ya;Ssyr-Darja
+SS2|MY||6v|8o|7ua|73|Sungai Way-Subang 2
+Sevan|AM||80|34n|3gv|5h|Yelenovka;Sewan;Ssewan
+Semenivka|UA|Chernihiv Oblast|98|40y|2ii|1k|Ssemenowka;Semionovka;Seminovka;Semënovka;Semeniwka
+Sighnaghi|GE||7n|37m|3jk|e|Siğnaği;Signachis;Signachi;Signahi;Signakhi;Signakh;Ssignachi
+Sarabash|UA||98|3oo|2wz|a|Stalinskoye;Stalinskiy;Kommunarovka;Komunarivka;Sarabasch;Ssarabasch;Sarabaš
+Sofiyivka|UA|Donetsk|98|3qp|2vu|9|Artemivka;Artëmovka;Sofiivka;Sofijivka;Sofijiwka;Ssofijiwka

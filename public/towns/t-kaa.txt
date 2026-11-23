@@ -1,0 +1,34 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Kazan|RU||9i|4az|3sg|9lf|Qazan;Kaasan;Qozon;Casanum;Cazã;Kasã;Kasan
+Caála|AO||x|-zp|178|104|Cahala;Kaala
+Kaambooni|SO||14|-4k|37j|ly|Kiyambooni;Kiamboni;Kamboni
+Caacupé|PY||1y|-1yj|-4eq|ft|Kaakupe
+Lomonosov|RU||9i|4mf|2ap|bt|Lomonossow;Lomonossov;Kaarosta;Lomonoszov;Łomonosow;Kuarašta
+Kaarst|DE||8r|3yb|ie|bp|Kaasch;Kaasj
+Kaarina|FI||92|4nt|1q5|a6|St Karins
+Kaarela|FI||92|4nd|1x4|7c|Kårböle
+Caazapá|PY||1y|-20s|-4cl|6o|Kaasapa;Kaazapa
+Kadaň|CZ||9m|3vy|10v|51|Kaaden
+Kaa-Khem|RU||6u|3zl|7ap|2w|Kaa-Chem;Kaa-Hem;Kaa-Chiem;Ka-Khem
+Kaadé|CI||0|i9|-lf|2h
+Kaakkuri|FI||92|50g|1yx|1u
+Ka‘abiyya-Tabbash-H̱ajajra|IL||6n|2iz|2pq|1j|Ka‘abiyya;Ka'abiyye-Tabbash-Hajajre
+Kuznechnoye|RU||9i|4ps|2b0|1b|Kaarlahti;Kuznetsjnoje;Kusnetschnoje;Kuznečnoe;Kuzneçnoye;Kuzniecznoje;Karlakhti;Kaarlakhti
+Kahankro|CI||0|ia|-e4|v|Kaankro
+Kaakinmaa|FI||92|4qt|1tz|t
+Kaalheide|NL||8m|3xb|gs|s|Kaalhei
+Kaavi|FI||92|4uy|276|q
+Kås|DK||8y|4ew|qv|k|Kaas
+Kaanapali Landing|US||ax|1m5|-c39|j
+Kaala-Gomén|NC||b8|-1lf|coo|j
+Kandaklī|IR||7o|2tl|4pm|f|Kendikli;Kandkali;Kaandakali
+Kaarila|FI||92|4qu|1tq|f
+Ka‘a‘awa|US||ax|1nv|-c6h|e|Kaaawa
+Codrington|AG||1j|1d0|-4rq|d|Kodringtonas;Kaadringtin
+Kaartinkaupunki|FI||92|4n5|1xb|d|Gardesstaden
+Kaabo|CI||0|l5|-f4|b
+Kā‘anapali|US||ax|1m5|-c39|a|Kaanapali
+Qaanaaq|GL||57|5z7|-5cb|6|Thule;Kanakas;Kaanaak
+Kaako|CI||0|mt|-k6|6
+Käärdi|EE||9x|4hp|21d|6

@@ -1,0 +1,65 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Amsterdam|NL||8m|41h|dl|5q0|Amsŭt'erŭdam;Amsteladamum;Amesterdã;Amestelledamme;Aemsterdam;Amseutereudam;Amsterodam;Ámsterdan;Amszterdam;Amusuterudamu;Amstelodamum;Mokum Aleph;Mokum;Amesterdão;Amstyerdam;Amsterdã;Aemstelredamme;Amstelodhámon;Damsko;Amstèdam;Amistardam;Amstardam;Amstadem;Âmesterdâm
+Ljubljana|SI||9a|3jx|14b|23m|Laibach;Liubliana;Lublaň;Lubiana;Ļubļana;Ljubljano;Lubjana;Aemona;Lubljana;Lyublyana;Lyoubyana;Liublianne;Jubaljana;Lubiann-a;Lubian-a;Lubiane;Liúibleána;Laiboch;Liublijana;Lubliano
+Aix-en-Provence|FR||9k|3cx|f5|14s|Æx-in-Profentse;Ais de Provença;Aquae Sextiae;Aikso Provenca;Ēksanprovansa;Provanso Eksas
+Kecskemét|HU||8v|3mb|1ip|ui|Kečkemėtas;Kečkemet;Aegopolis
+Talavera de la Reina|ES||9d|330|-df|op|Aebura;Ebora;Caesarobriga;Elbora;Ebura
+Aylesbury|GB||9b|3zy|-29|kr|Ægelesburg;Aelesburia;Eilsberis
+Aigáleo|GR||8p|2xi|1ts|jf|Aegaleo
+Tulcea|RO||8u|3hi|281|i8|Tultscha;Tulca;Tulcsa;Tulcza;Aegyssos;Tulcha
+Abingdon|GB||9b|3zj|-3k|ar|Æbbandūn;Abindonia
+Jesi|IT||9o|3cw|10s|aa|Iesi;Aesis;Džezis
+Änew|TM||5x|2x9|4ik|7z|Anev;Aenew;Enev
+Aarschot|BE||8t|3xn|dg|7p|Arschotas;Aerschot
+A Estrada|ES||9d|3al|-nl|5r
+Aígio|GR||8p|2y9|1pc|5o|Aegium
+Anak|KP||7a|2yz|9ol|5k|Aenak
+Ardon|RU||9i|3by|3f1|53|Ærydon
+Yumurtalık|TR||94|2u5|2rf|4x|Ayas;Aegæ;Alexandropolis;Makrinopolis;Hadriana;Laiazzo;Lajazzo;Ajazzo;Ağkale;Aegoe
+Aartselaar|BE||8t|3y1|c7|3y|Aertselaer
+Aerzen|DE||8r|40l|pq|30|Arzen
+Aesch|CH|Basel-Landschaft|a7|3nv|l4|2t
+Haïré Lao|SN||g|19k|-13s|2n|Haéré Lao;Aéré Lao
+Aerodrom|UA||98|3mx|2wc|2j
+Elsloo|NL||8m|3xj|g1|20|Aelse;Elslo
+Embrun|FR||9k|3fs|i2|1z|Ambrun;Eburodunum;Aebura
+Aegina|GR||8p|2wv|1t3|1x|Egina;Aígina;Aíyina
+Troia|IT||9o|36w|16k|1u|Aecae
+Aitolikó|GR||8p|2ys|1nb|1q|Aetoliko
+Caluula|SO||14|x9|3x0|1p|Alula;Aeula;Calula
+Čitluk|BA||9r|3c3|1d6|1l|Aequum
+Äetsä|FI||92|4q9|1r2|1d
+Aerdenhout|NL||8m|41g|cs|1c|Aardenhout
+Aylesford|GB||9b|3yi|1c|19|Ægelesþrep
+Aérodrome|NC||b8|-1pt|cuf|14
+Aekakpheap|KH||78|13p|818|w
+Aarsele|BE||8t|3xo|9i|u|Aerseele
+Aalbeke|BE||8t|3x2|8z|t|Aelbeke
+Favignana|IT||9o|2xd|y9|o|Aegusa
+Novigrad|HR||a6|3hw|11o|n|Aemonia Nova
+Vergína|GR||8p|34h|1q0|k|Æges;Verghina;Veryína
+Aeschi b. Spiez|CH||a7|3lm|le|k|Äschi;Aeschi bei Spiez
+Aeropuerto|ES||9d|34g|-9w|j
+Haamstede|NL||8m|3zm|ae|j|Aemstie
+Aeroflotskyi|UA||9t|3h2|2mg|i|Aeroflots’kyy;Aeroflotskıy
+Aekapheap|KH||78|127|89i|i
+Aesch|CH|Zurich|a7|3nh|o1|h
+Aetós|GR|Peloponnese|8p|2vh|1on|f
+Cuerva|ES||9d|326|-bp|d|Libora;Aebura
+Aidipsós|GR||8p|300|1s1|c|Aedipsos;Edipsos;Edepso;Aidhipsoú;Aidhipsós
+Nin|HR||a6|3ew|166|b|Nona;Aenana
+Aire-la-Ville|CH||a7|3kb|gs|b|Aeria Villa
+Aeugst / Aeugst (Dorf)|CH||a7|3nb|nl|a
+Ærøskøbing|DK||8y|48h|sx|9|Æroskiobing;Æröskjöbing
+Aesch|CH|Lucerne|a7|3na|mw|9
+Aegviidu|EE||9x|4kp|1z5|9|Aegvidu;Aegviydu
+Aérokro|CI||0|jf|-cn|9
+Aesch|CH|Zurich|a7|3ni|ng|9
+Aetna Estates|US||2p|32e|-82r|8
+Aetós|GR|West Macedonia|8p|34y|1nv|8
+Aalst|BE|Flanders|8t|3x2|eh|7|Aelst
+Évora|PT|Leiria|99|31s|-ox|6|Aebura
+Aedermannsdorf|CH||a7|3ne|l5|5
+Aerdt|NL||8m|405|gw|5|Aardt
+Yebra|ES||9d|344|-89|5|Aebura

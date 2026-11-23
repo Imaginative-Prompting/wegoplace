@@ -1,0 +1,56 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Astana|KZ||5s|3y6|5ih|bwx|Tselinograd;Astano;Asztana;Nur-Sultan;Akmolinsk;Nour-Soultan;Nur-Sultano;Noer-Soeltan
+Nouakchott|MR||19|1e9|-18e|951|Nuakchot;Núaksjott;Nawakszut;Nävakjut;Nuakšotas;Nuakšott;Nuakxot;Nuakşot;Nawakshot;Nuakšota;Nuakŝoto;Nwaqcuṭ;Nuakshot;Nouakchot;Nouakchat
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+Nukus|UZ||7g|39y|4ll|2kd|Noukous;Nokis
+Nou Barris|ES||9d|374|62|1a7
+Nouadhibou|MR||19|1m6|-1bc|14k|Nuadibú;Nawazibu;Port-Étienne;Nouadibou;Port Ettienne;Port Etienne
+Nouméa|NC||b8|-1pv|cud|pv|Numea;Numėja;Numeo;Nomea
+New Rochelle|US||48|35n|-5oy|m6|Nouvelle-Rochelle;Nueva Rochelle
+Nurlat|RU||9i|477|3x5|9l|Nourlat;Noerlat
+Nouna|BF||1a|zd|-aq|90
+New Iberia|US||2f|2bc|-732|8k|Nueva Iberia;La Nouvelle-Ibérie;Nouvelle Iberie;Nuevo Iberia
+Novhorod-Siverskyi|UA||98|40h|2ke|48|Nowhorod-Siwerskyj;Nóvgorod-Síverski;Siverų Naugardas;Severų Naugardas;Severianų Naugardas;Novhoroda-Siverska;Novogardia Severiae;Neapolis Scytharum;Novhorod-Sivers'kyj;Novogardia di Severia;Novgorod-Seversk;Novgorodul de Nord;Novgorod-Siverskıy;Novhorod-Siverskõi;Novhorod-Sziverszki;Nowogród Siewierski;Novhorod;Noŭharad-Sievierski;Novy Horod;Novyy Horod;Novyi Horod;Novhorodok;Novogorod-Severskiy;Novgorod-Severskiy;Novhorod-Sivers’kyy
+Novoselytsya|UA|Chernivtsi|98|3py|20z|24|Noua Suliță;Novossélytsia;Sulița-Târg;Nowosielica;Nowosielitza;Novoselitsa
+Nouvelle Matmata|TN||1e|2lf|ry|23
+Nouvelle France|MU||ag|-1kl|4fw|20
+Nougoua|CI||0|eu|-7q|1y
+Nouvel-Ousrou|CI||0|f1|-cj|1y
+Nouzonville|FR||9k|3ud|d7|1w
+Noumousséria I|CI||0|in|-ii|1n|Noumouséria I
+Nousiainen|FI||92|4oc|1pc|1b|Nousis
+Nouâmghâr|MR||19|1hs|-19v|16|Nouamrhar
+Noupoort|ZA||o|-2en|1xb|13
+Nome|US|Alaska|49|4z6|-crh|12|Nom;Anvil City;Noumas;Siqnazuaq;Sitnasuaq
+Nouville|NC||b8|-1pu|cu8|z
+Nouvelle-Arcadie|CA||43|3lq|-51k|v
+Nouvoitou|FR||9k|3pg|-4b|s|Neveztell
+Nouamou|CI||0|ee|-82|s|Nuamou
+Nouaillé-Maupertuis|FR||9k|3l7|15|q
+Novoselytsya|UA|Chernivtsi|98|3qj|22z|p|Novossélytsia;Noua Suliță;Noua Sulitsa;Novosel’tsy
+Nouan-le-Fuzelier|FR||9k|3o2|5o|p
+Nouvion-sur-Meuse|FR||9k|3u2|dc|m
+Nou|RO||8u|3jb|1vg|g|Szászújfalu
+Vyshneve|UA|Odesa|98|3j9|2ap|e|Vychnévé;Noul-Caragaci
+Noufou|CI||0|iz|-d2|e|Nofou
+Nougoussi|CI||0|eq|-aa|e
+Nouvion|FR||9k|3vg|4y|d
+Nospelt|LU||9c|3u0|gp|c|Nouspelt
+Nouzilly|FR||9k|3o2|23|c
+Navur|AM||80|35j|3hy|b|Naur;Navar;Navor;Nour;Novur;Novchali;Novchalu
+Nousty|FR||9k|3c7|-l|a|Nostin
+Nousseviller-Saint-Nabor|FR||9k|3sg|jd|a|Nussweiler
+Nounoubayé|CI||0|hy|-l0|a
+Noufré|CI||0|ph|-g2|a|Noufiré
+Nouhounié|CI||0|cn|-k2|9
+Nouans-les-Fontaines|FR||9k|3my|3m|8
+Noyal|FR||9k|3ql|-6x|8|Noual-Pentevr
+Nouâtre|FR||9k|3mp|1j|8
+Nouffoukro|CI||0|km|-a5|7
+Noumofoukha|SN||g|yn|-vw|6|Noumoufoukha
+Noumouzou|CI||0|eb|-dn|6
+Nouainville|FR||9k|3tu|-4o|5
+Nouic|FR||9k|3jy|2k|5
+Nouvion-et-Catillon|FR||9k|3u2|9o|5

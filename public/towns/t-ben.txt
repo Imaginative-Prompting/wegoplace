@@ -1,0 +1,438 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bengaluru|IN||6t|101|5zj|1tjv|Bangalore;Bengaluro;Bengalour;Bengalūras;Bangaluri;Bangalúr
+Benin City|NG||u|hm|fn|dr0|Benin-Stadt;Benin;Benim;Beninas;Benin by;Benin-stad;Beninurbo;Thành phố Benin;Ìlú Benin;Ciudad de Benín;Kota Benin;Benínborg;Benin Siti;Magaalaa Benin;Magaalada Benin
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Bengbu|CN||7i|2ji|920|7i8|Bạng Phụ;Pâung-buô;Pāng-pō-chhī;Bangbu
+Benxi|CN||7i|36p|9jt|6oc|Pen-si;Bensi;Bản Khê;Pún-khe-chhī;Penki;Pen-hsi;Pen Shi
+Benghazi|LY||1d|2h7|1jr|5uf|Banghazi;Bengasi;Bengazi;Bengazis;Bängasi;Bingazi;Benqazi;Bengazy;Benghasi;Binghāzī
+Benoni|ZA||o|-20r|26o|4o5
+Benguela|AO||x|-yy|118|4a7|Benguella
+Bengkulu|ID||6l|-ak|7w3|32d|Benkulu;Benkulen
+Benito Juárez|MX|Mexico City|41|1ht|-7ng|2z2
+Bến Cát|VN||6h|uz|884|2ta
+Benito Juarez|MX|Mexico City|41|1hw|-7ng|2qm
+Bandar Abbas|IR||7o|23j|4cc|2pu|Cambarão;Port Comorão;Gombroon;Gumrun;Bandar-e Abbas;Bandar Abas;Bandar-Abbász;Bender Ebbas;Bandare Abasas;Bender Abbas;Bandar-Abbas;Bandar-e ‘Abbās;Bandar ‘Abbāsī;Bandar ‘Abbās
+Ciudad Benito Juárez|MX||44|1z9|-7q1|2dn
+Bnei Brak|IL||6n|2h4|2or|1rw|Benei Beraq;Beney Beraq;Benai Beraq;Bené Berak;Bné Beraq;Bené Beraq;Bnei Berak;Bene Berakas;Bein Berak;Bnej-Brak;Bnei-Brak;Bené-Berac;Bnej Brak;Bney Brak
+Beni Mellal|MA||d|2hu|-hn|1mg|Béni-Mellal;Beni Melal;Ayt Mellal;Beni Melalis;Bani Mallal
+Benfica|AO||x|-ou|10k|1ha|Bemfica
+Banhā|EG||c|2cm|2em|1en|Benha
+Beni|CD||y|1d|29v|133
+Bento Gonçalves|BR||4w|-291|-3z4|zk
+Bến Tre|VN||6h|sg|87i|yk
+Bern|CH||a7|3mf|kp|xs|Bundesstadt;Bann;Bèn;Beirn
+Banī Mazār|EG||c|275|2dl|w6|Beni Mazâr
+Al Fqih Ben Çalah|MA||d|2ia|-il|uy
+Bender|MD||8x|3m3|29w|um|Tighina;Tigina
+Bendigo|AU||8j|-2u4|b4s|sm
+South Bend|US|Indiana|38|37s|-6nl|s7|Flexuvium Australe;Saut Bendas
+Ben Guerir|MA||d|2hk|-m3|qw|Benguerir
+Beni Mered|DZ||3|2tg|7y|pr
+Porto Amboim|AO||x|-tt|129|pg|Benguella Velha;Porto Hmboim;Amboim;Port Amboim;Benguela Velha;Benguela-a-Velha;Old Benguela;Ambonim;Ambouim
+Ben Arous|TN||1e|2u3|se|oj|Ben Arus;Bin Arus;Ben Arusas;Bin ‘Arūs
+Ben Gardane|TN||1e|2k2|v6|oa|Benguerdene;Ben Gardan;Ben-Gardán;Bengardane
+Bend|US|Oregon|3p|3ee|-9d0|o6
+Bonāb|IR||7o|2vq|3jy|np|Bināb;Bunab;Benāb
+Bende|NG||u|fg|l7|m4
+Bandar-e Emam Khomeyni|IR||7o|2ck|3se|ls|Bandar Šâhpur;Bandar-e Imam Chomeini;Bandar Jomeiny;Bandar Imam Khomeini;Bandar Imam;Bandar-e Homeini;Bandare Chomeinis;Bender İmam Humeyni;Bandar-e Chomejni;Bandar-e Shahpur;Bandar Shahpur
+Benipur|IN||6t|20e|6nb|kx
+Benidorm|ES||9d|2z2|-d|jl
+Benevides|BR||23|-3s|-3q0|ho
+Benslimane|MA||d|2le|-js|hc|O Ben Slimane;Ben Slimán
+Beni Enzar|MA||d|2py|-85|h6|Beni Anzar;Beni Ensar
+Bensalem|US||48|33e|-5s7|gs
+Bensonhurst|US||48|34s|-5pj|go
+Benalmádena|ES||9d|2to|-cp|gd
+Benevento|IT||9o|369|152|g8|Benevent;Beneventum;Beneviento;Benewent
+Będzin|PL||a5|3vt|1h5|g6|Beņdzina;Bendzinas;Bendzin
+Ben Jerrar|MA||d|2c2|-qe|eq|Ben Jerra
+Venice|IT||9o|3i8|y9|e9|Venetia;Venedig;Venècia;Venecio;Venecija;Benátky;Venezia;Venetsia;Venise;Velence;Venesia;Venizia;Venedeg;Venies;Venetië;Wenecja;Veneza;Vinezzia;Benetke;Venediku;Venedik;Venezsia;Benezia;Vignesie;V'nise;Feneyjar;an Veinéis;Mleci;Venesiya
+Bentong Town|MY||6v|9s|7v3|do
+South Benfleet|GB||9b|3z7|1k|dk|Benfleet Theas
+Bani Walid|LY||1d|2g7|12u|cp|Beni Ulid;Beni Valid;Bani Valíd;Bani Validas;Beniulid
+Bentonville|US||2f|2t1|-79p|cd
+Benjamin Constant|BR||2t|-c6|-5ej|c7|Benjamim Constant
+Bensheim|DE||8r|3u0|ny|bf|Benshaimas
+Bentung|MY||6v|9t|7v2|b8|Bentong;Benton
+Beni Saf|DZ||3|2q2|-3u|b1|Bani Ṣāf;Beni Sat
+Benoa|ID||70|-ob|8w2|b0
+Bentota|LK||68|hv|668|aa
+Benfica|PT||99|2zn|-pk|aa
+Ben Ahmed|MA||d|2jv|-k4|a1|Benahmed
+Bentley|GB||9b|44p|-37|9o
+Benton|US|Arkansas|2f|2o0|-757|9i
+Beni Tamou|DZ||3|2ti|7u|9e
+Beni Douala|DZ||3|2tq|bc|9c|Beni Doula
+Bengkayang|ID||79|2b|8g0|9a|Bengkajang;Benkajang;Benkayan
+Bentleigh East|AU||8j|-2xc|b6x|8e
+Bendale|CA||59|3dl|-645|8c
+Ben Mehidi|DZ||3|2u5|lz|7w
+Benicia|US||3p|2xp|-9fc|7u|Benecia
+Gabriel Leyva Solano|MX||3x|1za|-8ds|7n|Leyva Solano;Benito Juárez
+Benicarló|ES||9d|34a|17|7f
+Benbrook|US||2f|2ir|-7iq|6a
+Beni Khiar|TN||1e|2tb|ty|60|Banī Khiyār;Beni Khaar;Beni Kriar
+Bensekrane|DZ||3|2pf|-3e|5x|Ben Sokrane
+Beni Mester|DZ||3|2ov|-3y|5i
+Beni Yakhlef|MA||d|2lk|-ke|5g
+Benavente|ES||9d|38o|-fs|5b
+Benthuizen|NL||8m|40o|cm|5a
+Bensenville|US||2f|38k|-6sa|54
+Beni Amrane|DZ||3|2tv|9z|54|Ait Bélaid;Beni Amran
+Benicàssim|ES||9d|339|7|51|Benicásim
+Bentleigh|AU||8j|-2xc|b6w|4z
+Bendorf|DE|Rheinland-Pfalz|8r|3w2|l2|4v
+Benoy|TD||17|oy|19c|4t
+Benešov|CZ|Central Bohemia|9m|3ua|14t|4q
+Bến Thủy|VN||62|1ft|85m|4q|Benhuy
+Penzberg|DE||8r|3on|vm|4h|Benschberg
+Benito Juárez|AR||1l|-2wn|-4m5|4e|Benito Xwares
+Ben Taieb|MA||d|2pc|-9l|4c|Ben-Tib;Ben Tieb
+Beni Khalled|TN||1e|2tt|tf|4a|Beni Kraled;Banī Khallād
+Benetússer|ES||9d|31i|-14|49
+Bennekom|NL||8m|40g|fs|48
+Benito Juárez|MX|Veracruz|41|1po|-7js|46
+Benito Juárez|MX|Tabasco|41|1dj|-751|41
+Bemban|MY||6v|6b|7wd|3z|Benbam
+Bennane Bodheur|TN||1e|2r4|u4|3z
+Bandarbeyla|SO||14|qd|3x5|3u|Bender Beyla
+Benissa|ES||9d|2zj|5|3o
+Ben|IR||7o|2ie|3wz|3m|Ban
+Benifaió|ES||9d|314|-17|3e|Benifayó;Banifaió
+Bni Drar|MA||d|2ou|-5j|3b|Beni Drar
+Bennsville|US||48|2z9|-5xx|3b|Benville;Bensville
+Benaulim|IN||6t|16e|5pd|3b
+Béni Abbès|DZ||3|2bp|-61|36|Beni Abbas
+Beniaján|ES||9d|2xh|-2z|34
+Bonaouin|CI||0|i8|-ag|33|Bénaouin
+Benaguasil|ES||9d|320|-1m|32|Benaguacil
+Benkanhalli|IN||6t|182|5qu|32|Benakanahalli
+Beniel|ES||9d|2xp|-2s|31
+Benggang|CN||7i|1r7|8s9|31
+Benedito Novo|BR||4w|-22e|-3t4|2x|Benedicto Novo
+Benīganj|IN||6t|23t|67g|2w
+Benning Road|US||48|301|-5xq|2v
+Benton Harbor|US||2q|390|-6o5|2s|Bemon Harbor
+Beneditinos|BR||2w|-f5|-39p|2r
+Benisheikh|NG||u|wt|yp|2q|Benisheik;Beni Sheik
+Borgentreich|DE||8r|3z9|po|2p|Bentreike
+Benalla|AU||8j|-2tj|b9i|2l
+Ben Aoun|TN||1e|2ot|pe|2l
+Bni Tajjit|MA||d|2hp|-9n|2l|Beni Tajjite;Beni Tadjit;Beni Tajit
+Bennington|US|Vermont|48|3b4|-5nc|2j
+Benowa|AU||8c|-25t|bu3|2i
+Benning|US||48|302|-5xr|2i
+Benavente|PT||99|30a|-oh|2h
+Beni Hassane|TN||1e|2qt|u1|2g|Beni Hassan;Banī Ḩassān
+Bennettsville|US||48|2o6|-65c|2e|Bennetville
+Benninghofen|DE||8r|3z0|kw|2e
+Benedita|PT||99|31i|-ox|2e|Benedito
+Bena|NG||u|vc|gh|2c
+Bentley|AU||8k|-2gw|8y0|2b
+Benátky nad Jizerou|CZ||9m|3vp|156|28
+Bentley Park|AU||8c|-1b8|b8u|27
+Benjamín Aceval|PY||1y|-1xg|-4fv|26
+Bentiu|SS||p|pq|2as|25
+Benemérito de las Américas|MX||41|19w|-6zt|21|Benemérito
+Benque Viejo el Carmen|BZ||24|1bg|-6vm|20|Benique Viejo del Carmen;Benque Viejo del Carmen
+Benton|US|Illinois|2f|2xk|-6v0|1y
+Ben Qarrich|MA||d|2qn|-f2|1y|Ben Karrich;Ben Carrich
+Benhuafla|CI||0|ic|-gc|1x
+Beneden-Leeuwen|NL||8m|404|fc|1x
+Benzra|CI||0|kd|-gp|1w|Binzra
+Benalup-Casas Viejas|ES||9d|2sy|-g5|1w
+Benito García (El Zorrillo)|MX||58|2fz|-8zn|1u
+Benwell|GB||9b|48p|-4n|1t
+Bégbessou|CI||0|jn|-fk|1t|Bingbessou;Bengbessou
+Ben Lomond|US||3p|2v1|-9f5|1q
+Benito Juárez|MX|Chihuahua|2g|2an|-8bu|1p
+Bennetts End|GB||9b|3zq|-19|1o
+Benigànim|ES||9d|307|-17|1n
+Bent|IR||7o|211|4lc|1m|Bint
+Bensley|US||48|2w1|-5z4|1m
+Bendigo city centre|AU||8j|-2u4|b4s|1m
+Benson|GB||9b|3ze|-33|1m
+Benacazón|ES||9d|2vr|-h8|1l
+Benito Juárez|MX|Tlaxcala|41|1if|-7lf|1l
+Benoy-Yurt|RU||9i|3dd|3h5|1k|Bena-Yurt;Ozërnoe;Ozërnoye;Beno-Yurt;Benoj-Jurt
+Benningen am Neckar|DE||8r|3rz|po|1j
+Benedito Leite|BR||2w|-k2|-3fs|1j|Benedicto Leite
+Bennebroek|NL||8m|41c|cs|1i
+Benejúzar|ES||9d|2xs|-2c|1h|Benejússer
+Bennett Springs|AU||8k|-2gi|8y3|1g
+Bennewitz|DE||8r|3yo|zb|1g
+Benfeld|FR||9k|3qd|l3|1g|Banfald
+Benjamín Hill|MX||37|2bt|-8kn|1f|Benjamin Hil
+Benito Soliven|PH||71|1b6|9es|1d
+Benamejí|ES||9d|2vj|-cm|1d
+Benson|US|Arizona|4i|2gt|-8id|1d
+Had Beni Chiker|MA||d|2q0|-8d|1d|Beni Chiker
+Bento Fernandes|BR||2w|-ft|-2ri|1c
+Benito Juárez|MX|Tlaxcala|41|1ht|-7jz|1c
+Bénéné|CI||0|jb|-b9|1b
+Benton|US|Kentucky|2f|2ue|-6tf|18
+Benab-e Marand|IR||7o|2yr|3jj|17
+Benito Juárez|MX|Baja California|58|2ih|-8vg|16|Ejido Tecolotes
+Benton Heights|US||2q|391|-6o1|15
+Bengbré|CI||0|kk|-eb|15
+Bénoufla|CI||0|l5|-hh|12
+Benito Juárez|MX|Puebla|41|1gt|-7ju|12
+Beniakré|CI||0|f5|-9j|11|Béniakro
+Ben-Ahin|BE||8t|3wa|ef|11
+Benito Juárez|MX|Michoacán|41|1hn|-7qz|10|Laureles
+Benitachell|ES||9d|2zl|e|10|El Poble Nou de Benitatxell;El Poble Nou de Benitatxel
+Benson|US|North Carolina|48|2qa|-627|10
+Benito Juárez|MX|Chiapas|41|19n|-778|10
+Benešov nad Ploučnicí|CZ||9m|3wy|13r|z
+Benet|FR||9k|3kt|-1o|z
+Benijofar|ES||9d|2xs|-22|z
+Benediktbeuern|DE||8r|3oj|vq|y|Benediktbeiern
+Bingassou|CI||0|iv|-ch|x|Bengassou
+Benson|US|Minnesota|2f|3hw|-7dk|w
+Benton City|US||3p|3ki|-97x|w
+Benalúa de Guadix|ES||9d|2vr|-8s|w
+Benemérito Juárez|MX||41|1ec|-7eo|v|Benito Juárez
+Benahadux|ES||9d|2uk|-6u|v|Benahadur
+Bengtsfors|SE||9w|4jz|xz|v
+Benito Juárez|MX|Michoacán|41|1hf|-7r3|v
+Bemfica|PT||99|30q|-o5|v|Benfica
+Bengshan Gongye|CN||7i|1qr|8sb|u
+Beni Kheddache|TN||1e|2kd|sc|u|Beni Kreddache
+Azatamut|AM||80|35v|3hl|t|Bentonit kombinati avan
+Benamocarra|ES||9d|2u7|-bk|t
+Bénodet|FR||9k|3p0|-bf|t|Benoded
+Benavides|ES||9d|3a2|-gd|t
+Benito Juárez|MX|Hidalgo|41|1j9|-7mh|s
+Benshausen|DE||8r|3wp|tg|r
+Benito Juárez|MX|Chiapas|41|18k|-75u|r
+Bendé Kouassikro|CI||0|lb|-eb|r
+Boeng Mealea|KH||78|11f|81j|r|Beng Melea;O Beng Mea Lea;Beng Mea Lea
+Benton|US|Maine|48|3fv|-5d7|r
+Bonaduz|CH||a7|3m1|q4|r|Panaduz;Beneduces
+Venerque|FR||9k|3cn|40|q|Venèrca;Benèrca
+Bento de Abreu|BR||4w|-1n3|-3x5|q
+Bentwisch|DE||8r|46c|xw|p
+Bentleyville|US|Pennsylvania|48|33g|-669|p|Bentleysville
+Benndorf|DE||8r|3z9|vx|p|Bennendhorp
+Benkovac|HR||a6|3eb|17d|p
+Bennett|US||2p|32g|-823|p|Bennet
+Bensville|AU||8l|-2l2|boi|p
+Benken|CH|Saint Gallen|a7|3n4|p1|o|Babinchova
+Bni Hadifa|MA||d|2pa|-bi|o|Beni Hadifa
+Benito Juárez|MX|México|41|1i0|-7pd|n
+Benou|CI||0|j8|-g7|n
+Benamaurel|ES||9d|2wh|-7i|n
+Benahavís|ES||9d|2tg|-e1|n
+Benneckenstein|DE||8r|3zj|ts|n
+Bendestorf|DE||8r|446|ro|n
+Bénanou|CI||0|jn|-b4|n
+Benllech|GB||9b|444|-br|m
+Benasque|ES||9d|3ad|1g|m|Benás;Benasc;Venasque
+Benito Juárez|MX|Tabasco|41|1f7|-75s|m
+Benoor|IN||6t|1im|6a7|l
+Benningen|DE||8r|3p9|se|l
+Benito Juárez (Vinatería)|MX||3x|205|-8ef|l
+Benjamin Constant do Sul|BR||4w|-24f|-424|l
+Benkro|CI||0|i0|-fg|l
+Benimodo|ES||9d|30x|-1h|k
+Benton|US|Louisiana|2f|2it|-78e|k
+Bensafrim|PT||99|2v8|-oa|k
+Benzú|ES||9d|2rs|-ex|k|Benzou
+Bene Vagienna|IT||9o|3fq|lr|k
+Benisanó|ES||9d|322|-1l|k|Benissanó
+Binguébougou|CI||0|qg|-g5|k|M’Bengue Bougou;Benguédougou;Benguébougou
+Benito Juárez|MX|Chihuahua|2g|290|-894|k
+Benetutti|IT||9o|34e|ph|k
+Beneixama|ES||9d|2zi|-25|k|Benejama
+Benglen|CH||a7|3nk|o0|j
+Bénesse-Maremne|FR||9k|3d7|-3s|j|Benesse-Marenne
+Benifairó de les Valls|ES||9d|32d|-r|j
+Bennecourt|FR||9k|3s8|4b|j
+Bénouville|FR||9k|3ss|-s|i
+Beniparrell|ES||9d|31e|-16|i
+Ben Avon|US||48|34j|-66g|i
+Benesat|RO||8u|3np|1sp|h
+Bénéjacq|FR||9k|3bz|-l|h|Benejac
+Béna|CI||0|m6|-ik|h
+Bennington|US|Nebraska|2f|36w|-7f4|h
+Bendern|LI||a0|3n5|qf|h
+Benaoján|ES||9d|2u0|-el|h
+Bendéfla|CI||0|io|-fa|h
+Benito Juárez II (San Martín)|MX||41|1ee|-7fy|g
+Benamargosa|ES||9d|2ub|-bn|f
+Beniarbeig|ES||9d|2zu|0|f
+Benito González|MX||41|1dn|-75j|f
+Béniasso|CI||0|t4|-ib|f|Bégniasso
+Ejido Benito Juárez|MX|Sinaloa|3x|1zl|-8ev|f|Benito Juárez
+Bennstedt|DE||8r|3z0|wv|f
+Banie Mazurskie|PL||a5|46p|1p8|f|Benkaimis
+Benferri|ES||9d|2xy|-2o|f
+Benito Juárez|MX|Chiapas|41|1aw|-76v|f
+Benld|US||2f|30l|-6xg|f
+Benson|US|Utah|2p|383|-8mx|f
+Benito Juárez|MX|Chiapas|41|15u|-743|f
+Benirredrà|ES||9d|308|-k|f
+Bengoro|CI||0|lr|-jj|e|Benkoro
+Benito Juárez (La Playita)|MX||41|1dt|-77c|e
+Bíňa|SK||8s|3p4|1fs|e|Bény;Kisbény
+Beniarjó|ES||9d|305|-j|e
+Benchu|CN||7i|22d|8fl|e|P’en-ch’u
+Bendressou|CI||0|i7|-dr|e|Bendéressou
+Bengești|RO||8u|3h7|1tk|e
+Bene|UA||98|3pt|1r8|e|Bena
+Benquet|FR||9k|3dr|-1e|e
+Benito Juárez|MX|Veracruz|41|1m1|-7kt|e|Santa Cruz
+Benalúa de las Villas|ES||9d|2vz|-a8|e
+Benwood|US||48|336|-689|e|Bens Woods
+Bne Re’em|IL||6n|2g9|2on|e|Bene Re’ém;Benei Reem;Bnei Re'em
+Bne Dror|IL||6n|2hm|2oy|d|Benei Dror;Bene Deror;Bnei Dror
+Bencoolen|SG||7j|3m|80h|d
+Beniarrés|ES||9d|2zu|-12|d
+Benito Juárez|MX|Puebla|41|1j2|-7jn|d
+Benitez|PR||4m|1er|-530|d
+Bensdorf|DE||8r|41l|yb|d
+Benassal|ES||9d|346|-e|d|Benasal
+Benavides|US||2f|24o|-7ld|d
+Bendzary|UA||98|3p5|2ag|d|Bendzari
+Benaraby|AU||8c|-1uo|bod|d
+Benito Juárez|MX|Oaxaca|41|184|-7fk|d
+Alcalalí|ES||9d|2zn|-4|d|benarossa gardens
+Benton|US|Tennessee|48|2pp|-6j5|d
+Bent Creek|US||48|2qn|-6dh|d
+Benito Juárez Uno|MX||3z|1es|-712|d|Benito Juárez
+Benešov nad Černou|CZ||9m|3rd|14n|d
+Bentivoglio|IT||9o|3g0|vq|c
+Béning-lès-Saint-Avold|FR||9k|3si|j0|c
+Benbecula|GB||9b|4fl|-ke|c
+Benito Juárez|MX|Hidalgo|41|1k0|-7mj|c
+Bennwihr|FR||9k|3pq|kc|c|Bennweier
+Benna|IT||9o|3ig|mk|c
+Benito Juárez|MX|Chiapas|41|1bm|-771|c
+Bne Tsiyon|IL||6n|2hi|2ov|c|Bené Ẕiyyon;Bené Tsiyyon;Bnei Zion;Benei Tsiyon;Benei Zion
+Benjamin|US||2p|33e|-8md|b
+Benecko|CZ||9m|3wr|177|b
+Belle-Isle-en-Terre|FR||9k|3qu|-9g|b|Benac'h;Benach;Bella Insula
+Benavarri / Benabarre|ES||9d|38z|1c|b|Benabarre;Benabarri;Benavarri
+Bne Darom|IL||6n|2ge|2od|b|Bené Darom;Bani Darom
+Beignon|FR||9k|3p9|-61|b|Benion;Bidainonum
+Ben Metir|TN||1e|2u3|ob|b|Bin Metir
+Bentzin|DE||8r|45v|10v|a
+Ben Zakkay|IL||6n|2gi|2oh|a|Ben Zakaj;Ben Zakai;Ben Zakkaj;Ben Zakki;Ben Zakay
+Bentley|CA||2s|41r|-8st|a
+Benidoleig|ES||9d|2zr|-3|a
+Bentveld|NL||8m|41h|cp|a
+Bennungen|DE||8r|3yy|uw|a
+Bendékro|CI||0|j1|-cr|a
+Bensersiel|DE||8r|453|l2|a
+Benito Juárez|MX|Chiapas|41|1by|-74a|a
+Bénifesso|CI||0|rs|-ed|a
+Bendé Tanoukro|CI||0|kk|-dd|a
+Bendals|AG||1j|1bf|-4rs|a|Bendal
+Benquerencia de la Serena|ES||9d|2zi|-fa|a
+Benton|US|Wisconsin|2f|3a9|-6z2|a
+Benedikt|SI||9a|3lh|185|a
+Benassay|FR||9k|3lc|5|9
+Bne ‘Atarot|IL||6n|2gy|2oz|9|Bené ‘Atarot;Bené Atarot;Benei ‘Atarot;Bnei Atarot
+Benito Juárez de Peña Colorada (El Poblado)|MX||41|1hs|-815|9
+Benito Juárez|MX|Veracruz|41|1f5|-7cn|9
+Benito Juárez|MX|Zacatecas|41|1ua|-7z7|9
+Benais|FR||9k|3ne|m|9
+Benito Juárez|MX|Tamaulipas|44|1u2|-7nd|9
+Benito Juárez|MX|Baja California Sur|3x|1xs|-8mn|9
+Bengel|DE||8r|3uy|jn|9
+Benilloba|ES||9d|2zi|-13|9
+Behdān|IR||7o|2v6|3tt|9|Beidan;Bendan
+Bendejun|FR||9k|3ds|k9|9
+Benton|US|Kansas|2f|2wz|-7hr|9
+Benns Church|US||48|2um|-5wr|9
+Bentu|RO||8u|3h7|22x|9
+Benton|US|Missouri|2f|2v2|-6ws|9
+Bentleyville|US|Ohio|48|371|-6a5|9
+Benestare|IT||9o|2y2|18u|9
+Ben Shemen|IL||6n|2gr|2p0|8|Ben Szemen;Ben-Shemen;Ben Šemen;Ben Shamen
+Bencecu de Sus|RO||8u|3jg|1nj|8|Bencecul-de-Sus
+Benito Juárez|MX|Chiapas|41|17y|-745|8
+Bénévent-l'Abbaye|FR||9k|3k4|4j|8
+Bennet|US||2f|350|-7g3|8
+Benlloch|ES||9d|33p|3|8|Bell-lloc del Pla;Benltoch;Bennloch
+Benkelman|US||2p|339|-7u1|8|Benkleman
+Benešov u Semil|CZ||9m|3wk|16p|8
+Benton|US|Pennsylvania|48|36g|-5w6|8
+Benifallet|ES||9d|35t|1g|8
+Benito Juárez|MX|Zacatecas|41|1r2|-7xe|8|San Cayetano
+Beneklitaş|TR||94|2wr|33a|8
+Benningbroek|NL||8m|42e|dz|8
+Benenden|GB||9b|3xv|1m|8|Beneden
+Benia|RO||8u|3oe|1y7|8
+Bensonville|LR||15|hx|-th|8
+Benicull de Xúquer|ES||9d|30u|-12|8|Benicull
+Bense|DM||2r|17b|-4qi|8
+Bendéoua|CI||0|lj|-ap|8
+Velykomaryanivka|UA||98|3jv|2bi|8|Marianca-Mare;Velykomar'yanivka;Vélykomarianivka;Benkendorf
+Benito Juárez|MX|Hidalgo|41|1kd|-7nf|8
+Ben ‘Ammi|IL||6n|2jp|2pl|8|Ben Aami;Ben ‘Ami;Ben Ammi
+Benito Juárez|MX|Tamaulipas|44|1qh|-7kb|8
+Benito Juárez|MX|Chiapas|41|16p|-74f|8
+Bendeleben|DE||8r|3yp|ul|8
+Benito Juárez|MX|Chiapas|41|14o|-74b|8|Cosalapa
+Bennettsbridge|IE||8z|423|-jy|7|Droichead Binéid
+Benton|US|Missouri|2f|2za|-6yu|7
+Bentelo|NL||8m|412|ik|7
+Benaocaz|ES||9d|2ty|-f2|7
+Benedykivtsi|UA||98|3qo|1qq|7
+Benuza|ES||9d|39s|-in|7
+Benīs|IR||7o|2y5|3j1|7|Benīz
+Benito Juárez|MX|Veracruz|41|1es|-7ed|7
+Banovshalar|AZ||61|33h|3ms|7|Benevshalar;Benevshelyar
+Benito Juárez|MX|Chiapas|41|19e|-6zi|7
+Beneh|IR||7o|30k|3pb|7
+Bény|FR||9k|3ko|ep|7
+Benešov|CZ|South Moravian|9m|3tj|1al|7
+Bengy-sur-Craon|FR||9k|3mk|7n|7
+Benito Juárez|MX|Hidalgo|41|1ln|-7o4|7|Detzani
+Benz|DE|Mecklenburg-Vorpommern|8r|45r|w7|7
+Benito Juárez 1ra. Sección|MX||41|1e8|-78s|7
+Bennington|US|Kansas|2f|30f|-7j3|7
+Beňov|CZ||9m|3ta|1cm|7
+Benavites|ES||9d|32d|-p|6
+Bendersville|US||48|332|-5yl|6
+Benito Juárez|MX|Jalisco|41|1kc|-7zs|6|Catarina Uno
+Benito Juárez|MX|Puebla|41|1fk|-7is|6
+Benvé|CI||0|mx|-ly|6
+Benítses|GR||8p|31u|1jb|6|Benitsa;Benítsai;Mpenitses
+Benito Juárez|MX|Tabasco|41|1f9|-75u|6
+Bend|US|California|3p|33u|-9fh|6
+Benkovačko Selo|HR||a6|3ec|17e|6
+Benliahmet|TR||94|34h|3b6|6
+Benito Juárez|MX|Tabasco|41|1d2|-78a|6
+Beneixida|ES||9d|30j|-1j|6|Benegida
+Benne|IT||9o|3ht|kz|6
+Benington|GB||9b|406|-b|6|Bennington
+Benz|DE|Mecklenburg-Vorpommern|8r|45u|133|6
+Bensbyn|SE||9w|52c|1ps|6
+Benken|CH|Zurich|a7|3od|o1|6
+Benzdorp (Monte Hermon)|SR||4h|a7|-46a|6
+Benito Juárez (La Monera)|MX||41|1g9|-7nr|6
+Benatae|ES||9d|2y3|-8q|6
+Benimuslem|ES||9d|30p|-1d|6
+Benito Juárez|MX|Chiapas|41|1af|-742|6
+Beniamin|AM||80|351|3dt|6|Chlokhan;Jlovkhan
+Benito Juárez|MX|Oaxaca|41|1ch|-7cg|6
+Bentworth|GB||9b|3y4|-2x|6
+Benichembla|ES||9d|2zn|-b|6|Benigembla
+Benarrabá|ES||9d|2tj|-eo|6
+Benon|FR||9k|3kc|-2a|5
+Benoîtville|FR||9k|3tl|-4y|5
+Bengtsheden|SE||9w|4on|183|5
+Benerville-sur-Mer|FR||9k|3t3|3|5
+Bénestroff|FR||9k|3ru|is|5
+Benney|FR||9k|3qr|ha|5
+Bentley|US||2f|2x9|-7iw|5
+Benicolet|ES||9d|304|-z|5
+Benești|RO||8u|3g2|1uf|5
+Benito Juárez Centro|MX||41|1cw|-72q|5|Benito Juárez
+Bénaménil|FR||9k|3qx|ij|5
+Benic|RO||8u|3kd|1tj|5
+Bénac|FR||9k|3bv|3|5
+Bendorf|DE|Schleswig-Holstein|8r|469|q2|5
+Benito Juárez|MX|Coahuila|44|1z3|-7yr|5

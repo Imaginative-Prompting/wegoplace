@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Kinshasa|CD||t|-c1|16j|3fgg|Kinsasa;Kinszasa;Quinxassa;Kinŝaso;Kinsjasa;Kinchasa;Kincasa;Kinxasa;Kinšas;Kinchassa
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Guiyang|CN||7i|21u|88g|yrp|Guijangas;Quý Dương;Kuej-jang;Gŭijango;Kùi-iông-chhī;Gói-iòng;Queiyanga;Guyyan;Gveiyangz;Guijang;Quyinq;Kuei-yang
+Quezon City|PH||71|14p|9c9|nsr|Quezon;Kezonurbo;Lungsod Quezon;Quezon-Stadt;Ciudad Quezon
+Quito|EC||33|-n|-624|lgo|Kito;Quitum;Kitas;Kitu;Quitu;Kuito
+Gujranwala|PK||6q|2hc|5q3|jdj|Qucranvala;Gudžranvala;Gudźranwala
+Queens|US||48|350|-5p4|hvk|Kvino
+Gaziantep|TR||94|2uy|2vu|h5c|Aintab;Dîlok;Qaziantep;Qazianteb
+Qingyang|CN|Gansu|7i|2r7|8b0|gee
+Qingyuan|CN|Guangdong|7i|1tu|8pz|dew|Chĭng-uōng;Čching-jüan;Chhîn-yén-sṳ;Thanh Viễn;Chheng-oán-chhī;Tsingyüan;Ch’ing-yüan
+Santiago de Querétaro|MX||41|1l7|-7qv|cau|Santjago de Keretaras;Santiago Tlachco;Santiagu di Querétaro;Queretarum;Querétaro City;Keretaro;Querétaro
+Guilin|CN||7i|1y8|8ie|c4r|Quế Lâm;Kui-lìm-sṳ;Gveilinz;Kuej-lin;Gujlin;Kuei-lin
+Quetta|PK||6q|2bu|564|c2v|Kweta;Kvéta;Kveto;Ketta;Kvetta
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Kyoto|JP||7q|2pa|ah3|bal|Kioto;Kjóto;Quioto;Kyotum;Kiotas;Kyotu;Kėjuots
+Kayseri|TR||94|2zl|2ql|b7h|Cesarea in Cappadocia;Kajseri;Cesarea;Cesarea de Capadocia;Kaiseris;Caesarea in Cappadocia;Qayseri;Kaiseri;Caesarea;Casarea;Césarée;Kaisaria;Kaisarie
+Konya|TR||94|2x7|2i8|b2b|Konjao;Iconium;Iconio;Qonya;Qonye;Konija;Konja;Koʻniya;Qonia;Konia
+Qujing|CN||7i|1ys|80a|av9|Čchü-ťing;Khúc Tĩnh;Kuóh-cêng;Khiok-chēng-chhī
+Gwangju|KR|Gwangju|7h|2pn|9sk|at8|Kwangju;Kwangdžu;Kŭangĵuo;Gouanjou;Quansua;Kvandžu;Kvanju;Kvangdzsu;Kuangju
+Guadalajara|MX||41|1lg|-7z3|aow|Gvadalaharo;Gvadalachara;Ātemaxac;Guadalaxara;Gvadalahara;Qvadalaxara
+Qinzhou|CN||7i|1p2|8dt|a03|Ginhcouh;Kĭng-ciŭ;Čchin-čou;Khîm-chû-sṳ;Khâm Châu;Khim-chiu-chhī;Ch’in-chou
+Qingpu|CN||7i|2ej|9cf|9t6
+Kazan|RU||9i|4az|3sg|9lf|Qazan;Kaasan;Qozon;Casanum;Cazã;Kasã;Kasan
+Karbala|IQ||5z|2im|3ea|9ej|Kerbala;Kerbela;Karbalo;Qerbelaja;Karbila
+Barranquilla|CO||27|uh|-5rq|9b3|Barankilija;Barranquilha;Barrankilya;Killa;Quilla;La Arenosa;Barankilijo
+Guigang|CN||7i|1s8|8gf|8dr|Gói-gē̤ng;Kuej-kang;Kui-kóng-sṳ;Quý Cảng;Gveigangj;Kùi-káng-chhī
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Quzhou|CN||7i|28g|967|6ys|Čchü-čou;Cù Châu;Kû-chiu-chhī;Gṳ̀-ciŭ
+Qom|IR||7o|2o8|3xc|6y0|Kom;Qûm;Kum;Ĥomo;Kumas;Gōymān
+Qiqihar|CN||7i|3ni|9kc|6t4|Cicikar;Tề Tề Cáp Nhĩ;Ĉiĉiharo;Qiqihaer;Čičiharas;Cà̤-cà̤-hăk-ī;Chhè-chhè-hâ-ngì-sṳ;Qiqiha’er;Jijihaer
+Cochabamba|BO||3n|-1ca|-53s|6hp|Kuchawampa;Quchapampa;Kočabamba;Kočabamb
+Qinhuangdao|CN||7i|32y|987|5v1|Chinxuangdaw shehiri;Tần Hoàng Đảo;Činhuangdao;Cjiņhuandao;Čchin-chuang-tao;Ĉinhŭangdaŭo;Cìng-huòng-dō̤;Chîn-hông-tó-chhī;Ch’in-huang-tao
+Kikolo|AO||x|-oe|111|5ma|Quicolo
+Qingshan|CN||7i|34y|8h8|5jt
+Glasgow|GB||9b|4b7|-bu|4u0|Glasgovo;Glaschú;Glasgua;Glazgas;Glāzgova;Glesga;Glázgua;Glascho;Qlazqo;Glazgos;Glazgo;Kak-là-sṳ̂-kô
+Kermanshah|IR||7o|2nb|3mr|4sj|Kermānschāh;Kermanŝaho;Provinco Kermanŝah;Kirmaşan;Kermaansjaah;Kirmanşah;Kermanšah;Ḳarmīsīn;Qirmisin
+Québec|CA||59|3m1|-5ht|43r|Kwébék Shehiri;Kvebeka;Kebeko;Kvebekas;Kebek;Tchubec;Kébéc Vile;Kebeku;Kvebek;Kwébék;Kévek táva;Kebekurbo
+Qionghai|CN||7i|1hg|8iu|42q
+Kandahār|AF||6o|2ft|52j|41d|Kandehar;Qandahor;Qanḏahāṟ;Candahar;Kandhar;Kandagar

@@ -1,0 +1,162 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Jinzhou|CN|Liaoning|7i|367|9ci|brg|Jintsjou;Ťin-čou;Ĝjinĝou;Dzindžou;Cẩm Châu;Gīng-ciŭ;Kím-chiu-chhī
+Jinhua|CN|Zhejiang|7i|28v|98c|bao|Ťin-chua;Kîm-fà-sṳ;Kim Hoa;Kim-hoâ-chhī;Gĭng-huà
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Jingzhou|CN||7i|2cb|8nn|84b|Jingtsjou;Ťing-čou;Kinh Châu;Gĭng-ciŭ;Keng-chiu-chhī
+Tangier|MA||d|2rd|-g4|7zj|Tánger;Tingis;Tanĝero;Tangeri;Tanca;Tanjer
+Tunis|TN||1e|2ua|s9|5ck|Tunez;Tunizo;Tunes;Túinis;Túnixi;Tinis;Tuniz;Tunus;Tiwnis
+Jingmen|CN||7i|2e7|8no|4vu|Gĭng-muòng;Ťing-men;Kinh Môn;Keng-bûn-chhī;Ching-men;King mönn;Kingmen
+Sha Tin|HK||6i|1q6|8t6|3tk|Shatin
+Tin Shui Wai|HK||6i|1qe|8so|27i|Tianshui Wei
+Hà Tĩnh|VN||62|1ey|867|21z|Ha Thin;Hò-tshin-sṳ;Thành Sen;Ha Tin
+Jinchang|CN||7i|2yy|7vv|1ri|Gĭng-chiŏng;Ťin-čchang;Kim Xương;Kim-chhiong-chhī;Jinchuan
+Hollywood|US|California|3p|2mq|-94p|1al|Holivudo;Holivudas;Holivuda;Ruscisilva;Hollivud;Huolėvods;Gollivud;Tinseltown
+Tịnh Biên|VN||6h|tg|83i|13r
+Tinsukia|IN||6t|24d|7cw|wb
+Tinaquillo|VE||2c|rk|-59q|w7
+Tindivanam|IN||6t|xz|65a|k8|Tindivangam
+Tiquipaya|BO||3n|-1c6|-53y|hf|Tikipaya;Taquipaya;Tinquipaya
+Tinongan|PH||71|se|9hs|h9|Tinungan
+Dingtao|CN||7i|2pf|8x1|g6|Ting-t’ao
+Tinley Park|US||2f|37h|-6ru|fv|Tinleypark
+Chino|JP||7q|2rz|anr|fo|Ĉino;Tino-chhī
+Tingo María|PE||3o|-pu|-5v4|es|Tinku Mariya
+Tengréla|CI||0|t4|-ht|ej|Tingréla
+Tinghir|MA||d|2fj|-fd|cr|Tinerhir;Tineghir;Tinrhir
+Tindouf|DZ||3|24v|-mn|co|Tinduf;Tindufas
+Tine Biougra|MA||d|2bx|-q2|bi
+Tinaco|VE||2c|qy|-5a3|am
+Tynda|RU||7x|497|9mi|ad|Tinda;Tind;Tõnda
+Tinnanūr|IN||6t|10f|66b|ab
+Tinde|TZ||h|-as|2k8|65
+Tinja|TN||1e|2v8|r4|5w|Tindja
+Finglas|IE||8z|44b|-hi|5i|Fionnghlas;Tinglas
+Tinton Falls|US||48|33y|-5pu|4y|Tintonfalls;Tintern Falls
+Tena|EC||33|-2s|-605|4s|Tina
+Ting Kau|HK||6i|1q5|8sw|4q|Ting Kaw;Tingkao
+Tin Wan|HK||6i|1pt|8t3|4o
+Tingi|TZ||h|-ve|2pb|4j
+Ṭinṭâne|MR||19|19j|-s9|4d
+Tindal|IN||6t|vg|5zr|4a|Thindal
+Tinogasta|AR||1m|-25z|-57o|3s
+Tingalāchi|IN||6t|ms|5yq|3s
+Tin Hau|HK||6i|1pw|8t7|3r
+Tinchlik|UZ||7m|34g|5ir|3r
+Tineo|ES||9d|3ce|-ht|33|Tinéu
+Tindwāri|IN||6t|1z6|67p|2w
+Tinambac|PH||71|12e|9il|2v
+Tinqueux|FR||9k|3st|b2|2u
+Tinajdad|MA||d|2fj|-dz|2q|Tinjdad;Tinejdad;Tindjad;Tinejad
+Tin Wan Estate|HK||6i|1pt|8t3|2d
+Knin|HR||a6|3ec|190|2b|Tininum;Tinin;Tininon;Tenin;Ninia;Tinien;Tinia;Ticinium;Tinum;Tininium
+Tingalpa|AU||8c|-24b|btd|29
+Tingambato|MX||41|1i6|-7ux|26
+Tinhou|CI||0|hw|-mo|1y
+Tingüindín|MX||41|1iu|-7wo|1x
+Tournus|FR||9k|3ld|dn|1p|Turniu;Tinortium
+Tinganga|KE||16|-35|2u9|1p
+Tin Ma Court|HK||6i|1q2|8t7|1o
+Tinaan|PH||71|vb|9jr|1o
+Tinerkouk|DZ||3|2ak|1z|1n
+Tintafor|SL||l|nz|-10p|1j|Tintfor
+Tinana|AU||8c|-1yz|bs3|1i
+Tinpahār|IN||6t|1xe|6rp|1h
+Tingjiang|CN||7i|20f|97z|1h
+Tinajo|ES||83|28q|-120|1g
+Tinyahuarco|PE||3o|-tx|-5vw|1f|Tinllahuarco
+Tinagacan|PH||71|h8|9nv|1c|Tinagaken;Tinagakan
+Tinasso|CI||0|rk|-ih|1b|Tinaso
+Tínos|GR||8p|2wa|1xw|1a|Tenos
+Tinambacan|PH||71|xl|9lu|1a
+Tinca|RO||8u|3ly|1ox|19
+Tinago|PH||71|10m|9jh|19
+Ţinteşti|RO||8u|3h7|22n|19
+Tignère|CM||j|kh|z5|18|Tinguéré
+Tinicum|US||48|34d|-5sn|18
+Tinang|PH||71|16q|9b5|16
+Tinskoy|RU||6u|4bz|7h8|15|Tinskiy;Tinskaya
+Tinwald|NZ||ak|-3e0|d90|14
+Tintina|AR||1n|-233|-4u7|13
+Tinoto|PH||71|gd|9nf|11|Tinto
+Tinajas|MX||41|1ja|-7o1|11
+Tindara|CI||0|rt|-i0|10
+Tintigny|BE||8t|3u0|fb|z
+Tinta|PE||3o|-13a|-5id|z
+Tindog|PH||71|uw|9kh|x|Tindug
+Tiniguiban|PH||71|vk|97y|x|Teneguiban
+Tinchebray|FR||9k|3rg|-21|v|Tenercebrai;Tenerchebraium
+Tingsryd|SE||9w|4d0|15m|v
+Țintea|RO||8u|3h3|1zy|u
+Tinnum|DE||8r|48i|n5|u
+Timbé|CI||0|mp|-dr|t|Tinbé
+Tinténiac|FR||9k|3q9|-54|t|Tintenieg
+Tinglev|DK||8y|48m|pq|s
+Tingloy|PH||71|11y|9br|q|Tinglay;Tingluy
+Tinawagan|PH||71|11x|9j0|q|Tinalwagan
+Tinampo|PH||71|10r|9j3|q
+Tinosu|RO||8u|3gi|20a|q
+Tânganu|RO||8u|3fd|213|p|Tînganu
+Tenneville|BE||8t|3v6|fd|p|Tiniveye
+Tindikan-Dioulasso|CI||0|n6|-c6|o
+Tignes|FR||9k|3ie|j8|o|Tiniae
+Tin Can Bay|AU||8c|-200|bt0|o
+Tinaogan|PH||71|r6|9i3|o|Tinoongan
+Tinutulan|PH||71|jq|9m9|n
+Tinky|UA||98|3sn|2in|n|Tin'ki;Tin’ky
+Ţânţăreni|RO||8u|3fw|1t8|m|Tăntarea;Ţînţăreni
+Tinlot|BE||8t|3w7|ey|m
+Tinalmud|PH||71|11r|9hc|m
+Tinogboc|PH||71|xd|9d9|m|Tinobog
+Tinubuan|PH||71|v3|9kh|l|Tinubdan
+Tinga|NL||8m|43a|fp|l
+Tinum|MX||3z|1lp|-6tj|l|Tinún
+Tinajitas|MX||41|1ii|-7fw|l
+Tingira Heights|AU||8l|-2jo|bpb|l
+Ting Kok|HK||6i|1qf|8ta|k
+Tindala|CI||0|qj|-d6|i|Tinndala
+Tindéné|CI||0|nj|-bs|i|Tendéné
+Tina|NC||b8|-1pr|cui|g
+Tingdong|CN||7i|1zq|8dp|g|T’ing-tung
+Tiniroto|NZ||ak|-2zp|dp9|f
+Tynaarlo|NL||8m|43g|ie|f|Tinaarloo;Tinaarlo
+Tingwick|CA||59|3jg|-5ju|f
+Tindu|NC||b8|-1pr|cua|e|Numbo-Koumourou
+Tântava|RO||8u|3fe|1zq|d|Tîntava
+Tinz|DE||8r|3xe|xj|c
+Tincontlán|MX||41|1lu|-7jd|c
+Tingewick|GB||9b|40f|-2x|b
+Tindikoro|CI||0|pl|-jy|b|Tendikoro
+Tinonee|AU||8l|-2gq|brd|b
+Tinajas 1ra. Sección|MX||41|14w|-74h|b
+Tintagel|GB||9b|3wq|-d7|a|Trevena;Dyntagell;Tre war Venydh
+Dingy-Saint-Clair|FR||9k|3jj|hb|a|Dingi;Tincia Anniciensium;Dingy
+Tingvoll|NO||9j|4ur|mt|a
+Tinún|MX||3z|1jg|-6yn|a|Tinum
+Tindal|AU||8e|-14d|a7q|a
+Tinbeerwah|AU||8c|-21c|bsy|a
+Timul|MX|Yucatán|3z|1mv|-6wb|9|Tinmul
+Tinahely|IE||8z|42o|-hy|9|Tigh na hÉille
+Tinaja de Pastores|MX||41|1k4|-7sq|9
+Tinajas|PA||4g|ns|-6d2|9
+Tintinhull|GB||9b|3xl|-7j|9
+Tincques|FR||9k|3vw|6x|8|Tinques
+Tingha|AU||8l|-2b8|bo1|8
+Tindérimé|CI||0|tb|-hy|8
+Tinăud|RO||8u|3mp|1qb|8
+Tintenbar|AU||8l|-280|bug|8
+Tiñosillos|ES||9d|35p|-d5|8
+Tintern|GB||9b|3zm|-7g|8|Tyndyrn
+Tinguédougou|CI||0|nj|-d2|7
+Tintay|PE|Apurímac Department|3o|-12s|-5nb|7
+Tinaja de Vargas|MX||41|1k5|-7w6|7
+Tingo de Saposoa|PE||3o|-jp|-5ww|7
+Tinajas 3ra. Sección|MX||41|151|-74k|6
+Tindrima|CI||0|p5|-l0|6
+La Tinaja|MX|Michoacán|41|1is|-7wg|6|Tinaja
+Tinco|PE||3o|-pr|-5zs|6
+Tintay|PE|Ayacucho|3o|-134|-5p6|6
+Tinj|HR||a6|3ea|16z|5
+Tibéguélé|CI||0|md|-cw|5|Tembeguele;Timbéguélé;Tinbéguélé
+Tintinara|AU||8b|-2rp|at2|5

@@ -1,0 +1,87 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vadodara|IN||6t|1py|5nd|e26|Vadodaro;Baroda
+Wad Medani|SD||r|140|2l4|2kf|Wad Madani;Vad Madani;Vad Medeni
+Watthana|TH||62|125|7rf|1bk|Vadhana
+Wajir|KE||16|4v|33a|p1|Vadžiras;Wajeer
+Badagara|IN||6t|w8|5ty|l9|Vatakara;Vadakara
+Vadgaon|IN||6t|1km|60z|bd
+Vadavalli|IN||6t|um|5xm|b3
+Vādāsinor|IN||6t|1rs|5nq|ax|Bālāsinor
+Wageningen|NL||8m|40d|fr|9u|Vada;Vageningenas
+Vadanappally|IN||6t|t3|5vc|8j
+Vadakku Valliyūr|IN||6t|na|5zl|86
+Vadnagar|IN||6t|1u3|5ls|7q
+Vadipatti|IN||6t|s0|60k|7g|Vādippatti
+Wadgaon|IN|Maharashtra|6t|1as|5qf|75|Vadgaon
+Vadakkanandal|IN||6t|wq|630|6e
+Vadakarai Kīl Pidāgai|IN||6t|p4|5yn|5s
+Vadāli|IN||6t|1ui|5mw|5q
+Vadakakarai|IN||6t|s9|5vo|5q
+Vadakku Viravanallur|IN||6t|o6|5zc|5h
+Wadowice|PL||a5|3uk|1i5|5c|Vadovice
+Vadamadurai|IN||6t|t0|60y|50|Vada-Madura
+Vadlapūdi|IN||6t|13r|65o|4z
+Vāda|IN||6t|1il|5n7|4o
+Vadakkēkkād|IN||6t|tm|5v4|4e
+Wadi Halfa|SD||r|1ok|2f5|4d|Ŭadi Halfa;Vadi Halfa;Vádi-Halfa;Ouadi-Halfa
+Vadakāncheri|IN||6t|tm|5vt|4d|Vadakkāncheri
+Wadgaon|IN|Maharashtra|6t|1g2|5ok|42|Vadgaon
+Vadnais Heights|US||2f|3h6|-76j|3p
+Vadugappatti|IN||6t|s2|5zh|3o
+Vaddu|IN||6t|167|5wv|3h
+Vadakkumbāgam|IN||6t|s6|5wa|39|Vadakkumbhagom
+Vadapādam|IN||6t|sj|5vv|38
+Vadakkumkara|IN||6t|sm|5vq|2w
+vadlamuru|IN||6t|1bi|6c9|2s
+Vadakkankulam|IN||6t|my|5zl|2k
+Vadu Paşii|RO||8u|3hh|22q|2i|Vadul-Paşii;Vadu Paşi
+Vado Ligure|IT||9o|3ez|nf|28|Voœ
+Vadghar|IN||6t|1gq|5n2|21
+Vadu Moldovei|RO||8u|3nm|219|21
+Vad|RU||9i|4a9|3et|1v|Wad
+Vaddeswaram|IN||6t|19p|67x|1r
+Vadstena|SE||9w|4id|15d|1l|Vadstenium
+Vadul lui Vodă|MD||8x|3mt|28s|1h|Vadul lui Vodė;Vadul luy Vode;Vady-Lui Voda;Vaduluy-Vody;Vadu-luy-Vode;Vadul-Luy-Vode
+Vado Centro|IT||9o|3ez|nf|1h
+Vaduz|LI||a0|3my|qg|1g|Vaducas
+Vadi|IN||6t|qb|60c|1d
+Vadinsk|RU||9i|455|3bm|1b
+Vadsø|NO||9j|5en|2an|1b|Vesisaari;Čáhcesuolu
+Vadu Crişului|RO||8u|3mi|1qk|17
+Vădeni|RO|Brăila County|8u|3i1|25l|16
+Valledolmo|IT||9o|2wv|12f|11|Vaddilurmu
+Vădăstriţa|RO||8u|3dt|1vl|11
+Vădastra|RO||8u|3dv|1vp|10
+Vallelunga Pratameno|IT||9o|2wo|12f|z|Vaddilonga
+Vada|IT||9o|3cf|t2|z
+Vado|US||2p|2h7|-88a|w
+Vadu Izei|RO|Maramureş|8u|3p5|1uc|s
+Vadu Izei|RO|Maramureş|8u|3p1|1uh|n|Farkasrév
+Vadu Părului|RO||8u|3gt|20t|m|Vadul-Părului
+Vad|RO|Cluj County|8u|3n4|1tz|l
+Vado|IT||9o|3f4|va|k
+Vadum|DK||8y|4eo|re|k
+Vadu Sorești|RO||8u|3hw|22o|f
+Vadu Moţilor|RO||8u|3kw|1rt|f
+Vadue|IT||9o|314|193|d
+Vādān|IR||7o|2qw|40v|d
+Vadu Roșca|RO||8u|3is|24a|d|Vadul-Roşca
+Vădurele|RO|Neamț County|8u|3lt|21t|b
+Vădurele|RO|Neamț County|8u|3md|20x|b
+Vado de San Pedro|MX||3x|1oz|-846|a
+Vvedenka|UA|Odesa|98|3k9|2a1|a|Tamur;Vădeni;Wedenskoje
+Vadanakallu|TD||17|13e|13e|a
+Vadu Săpat|RO||8u|3h4|21b|9|Vadul Sapat
+Vaduri|RO||8u|3md|20y|9
+Vadu Lat|RO||8u|3f6|1zc|9|Vadul-Lat
+Vădeni|RO|Galați County|8u|3jz|261|7
+Vad|RO|Neamț County|8u|3mn|21r|6
+Vadu|RO||8u|3fh|27u|6
+Vader|US||3p|3kw|-9hk|6
+Vadencourt|FR||9k|3up|9y|6
+Vadna|HU||8v|3q3|1l5|6
+Vadu Negrilesei|RO||8u|3nm|1zs|6|Vadul Negrilesei
+Vado del Cora (Estación Pani)|MX||3x|1oe|-83p|6
+Vad|RO|Brașov County|8u|3j7|1xv|6
+Väderstad|SE||9w|4i0|15g|6
+Vadu Stanchii|RO||8u|3fp|1yt|5|Vadul-Stanchii;Vadul-Stanchi

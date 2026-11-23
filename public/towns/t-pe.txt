@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Karachi|PK||6q|1x2|565|2hoy|pechs;Karatschi;Karaĉio;Karačis;Karāči;Karaczi;Carachi;Karatxi;Keraçî;Karacsi;Karatsji;Karaaji;Karačės;Karochi;Karanchi;Karasi;Kurrachi
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Peshawar|PK||6q|2mh|5iu|10pw|Peschawar;Pesjawar;Peszawar;Pexauar;Pešavaras;Péšávar;Peŝavaro;Pešāvara;Peşaver;Peshovar
+Perth|AU|Western Australia|8k|-2gr|8xu|iec|Pertas;Peairt;Perto;Pērta;Pirth;Pet;Pert
+Palembang|ID||6l|-84|82z|dwe|Palimbão;Palembanq;Pelémbang
+Phoenix|US|Arizona|4i|2kx|-8nb|cqd|Fenikso;Pēniki;Féniks;Fīniksa;Finiksas;Hoozdoh;Phoeniks;Finiks;Finiksos;Phenix
+Phnom Penh|KH||78|w4|83g|c53|Phnum Pénh;Nom Pen;Pnompenis;Phnom-Penh;Phnompenh;Pnom Penh;Pnom Pene;Phon Phen;Phnum Pény;Phnompen;Pnom Pen;Pnompeņa;Pnompeno;Pnompen;Phnom Pen
+Xuzhou|CN||7i|2n0|91s|9oc|Pengcheng
+Pekanbaru|ID||6l|1g|7ts|90c|Pakanbaru;Pekanbaroe;Pakanbahru;Pakanbaroe
+Pest|HU||8v|3ny|1h0|7q9|Peszt
+Perm|RU||7z|4h5|4c9|7kw|Molotov
+Pingdingshan|CN||7i|2lp|8qs|7jz|Pingdingsjan;Pching-ting-šan;Pingdingŝano;Tekshi choqqiliq tagh shehiri;Bình Đỉnh Sơn;Bìng-dīng-săng;Pêng-téng-san-chhī;Pindinshan’;P’ing-ting-shan
+Benxi|CN||7i|36p|9jt|6oc|Pen-si;Bensi;Bản Khê;Pún-khe-chhī;Penki;Pen-hsi;Pen Shi
+Pietermaritzburg|ZA||o|-2aa|2cf|6h5|Pitermaricburgas;Petromaritzburgum;Mokokotlofo;Pitermaricburg;Pietermaritsburg
+João Pessoa|BR||2w|-jr|-2ou|6b3|Ĵoan-Pesoo;Žoan Pesoa
+Petaling Jaya|MY||6v|8n|7u9|68f
+San Pedro Sula|HN||56|173|-6sj|66l|San Pedro Zōllān
+Pelentong|MY||6v|48|80e|4i4|Plintong;Plentong;Pelentung
+Sungai Petani|MY||6v|fp|7r5|47d|Sungai Patani;Sungei Patani
+Beihai|CN|Guangxi|7i|1no|8f4|41x|Pej-chaj;Pet-hói-sṳ;Bắc Hải;Baekhaij;Báe̤k-hāi;Beihajus;Pak-hái-chhī;Pei-hai
+Penza|RU||9i|43s|3h1|41g|Pensa;Penz
+Pingliang|CN||7i|2qq|88d|3w8|Bìng-liòng;Pching-liang;Bình Lương;Pêng-liâng-chhī
+Pereira|CO||27|dd|-5u9|3lt
+Bắc Giang|VN||62|1n3|86z|3h0|Pet-kông;Bakziangas
+Bei’an|CN||7i|3q3|9ro|3d8|Pei-an
+Taman Petaling|MY||6v|8w|7ud|39j
+Petrolina|BR||4p|-q4|-34i|388
+San-Pédro|CI||0|d7|-ig|30j|San Pedro;San Pedras
+Pétionville|HT||4j|1ff|-5kt|2wo|Petyon-Vil
+Petare|VE||2c|t4|-55l|2tb
+Kyzylorda|KZ||7d|3gl|51z|2qk|Qızılorda;Perovsk;Kzyl-Orda;Ak-Mechet;Fort Perovsky;Qysylorda;Qyzylorda;Khizilordà;Kõzõlorda;Kizilorda;Qiziloʻrda
+Pengze|CN||7i|2b2|8zr|2p8
+San Pedro|PH|Calabarzon|71|13w|9c9|2oy
+Pelotas|BR||4w|-2g9|-41e|2le
+Birkenhead|GB||9b|44b|-8d|2id|Penbedw;Berkenhedas;Kione Beih
+Pekalongan|ID||6l|-j5|8go|2i6
+Percut|ID||6l|a3|7mm|2ef
+Petrópolis|BR||4w|-1qi|-3by|29x
+Baiyin|CN||7i|2tj|81d|29s|Băh-ngṳ̀ng;Paj-jin;Bạch Ngân;Pe̍h-gîn-chhī;Pai-yin

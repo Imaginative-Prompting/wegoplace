@@ -1,0 +1,35 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Rubtsovsk|RU||63|3z3|69l|18r|Rubcovsk;Rubzowsk;Roubtsovsk;Roebtsovsk;Rubcovskas;Rubcovska;Rubcowsk;Rubțovsk;Rustovsk
+Ruse|BG||9v|3dt|203|xo|Russe;Rousse;Ruzo;Sexantaprista;Roese;Rusçuk;Rouse;Rusze;Rustcuk;Rusciuk;Rushchuk;Rustschuk;Ruschuk
+Rouen|FR||9k|3tc|32|wb|Ruan;Rueno;Erruan;Rothomagus;Ruão;Rúðuborg;Rovan;Roeaan;Roan;Rouan;Roðem;Ruanas;Ruāna;Ruano
+Roeselare|BE||8t|3xj|8o|fk|Roulers;Roeseloare;Ruselarė;rsl;Rouselare;Roeselave;Roselare
+Roermond|NL||8m|3y7|gn|ci|Ruremonde;Remunj;Reurmond;Rurmondas
+Roehampton|GB||9b|3yx|-o|4h
+Roncq|FR||9k|3wz|8o|3q|Ronk;Roenk;Ronq
+Roessleville|US||48|3am|-5p1|30
+Roetgen|DE||8r|3wp|h8|2a|Li Reutxhene;Ruutsje;Rötgen
+Roeland Park|US||2f|30g|-7av|1w|Roland Park
+Roè Volciano|IT||9o|3ip|t5|16
+Roè|IT||9o|3ir|t6|15
+Roebling|US||48|33g|-5rr|11
+Rœulx|FR||9k|3vq|99|z
+Ruskeala|RU||9i|4s1|2cz|u|Roeskeala
+Roelofarendsveen|NL||8m|410|cv|r
+Roézé-sur-Sarthe|FR||9k|3p2|7|q
+Roeşti|RO||8u|3gs|1uw|n
+Roebuck|US||48|2ow|-6bp|m
+Roeschwoog|FR||9k|3rn|mc|m|Röschwoog
+Rødbyhavn|DK||8y|47u|vk|e|Roedby-havn;Rodby Havn
+Rœux|FR||9k|3vq|82|e
+Roebuck|AU||8k|-1eh|9ga|e
+Roesbrugge-Haringe|BE||8t|3xg|7b|a|Rousbrügge-Haringhe
+Roe Alte|IT||9o|3k5|xo|a
+Roebourne|AU||8k|-1lp|91f|a
+Roelands|AU||8k|-2kg|8xq|8
+Roeser|LU||9c|3tm|h3|7|Gemeng Réiser;Réiser
+Roëllecourt|FR||9k|3vx|6n|6
+Roeville|US||2f|2d8|-6pn|6
+Roela|EE||9x|4kd|21w|6
+Roes|DE||8r|3vk|k6|6
+Rothenfelde|DE||8r|41n|tz|5|Roenfelle

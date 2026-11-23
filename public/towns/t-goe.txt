@@ -1,0 +1,31 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Gothenburg|SE||9w|4gb|x9|4p1|Göteborg;Gotemburgo;Gothembourg;Gothoburgum;Gēteborga;Gotenburg;Gautaborg;Göteborq;Gotnburg;Geteborgas;Geŭteborgo;Goeteborg;Goteburg;Gottenborg
+Göttingen|DE||8r|3z5|rl|xx|Gotinga;Gottinga;Chöttingen;Getynga;Getingenas;Getingene;Goettingen
+Görlitz|DE||8r|3y4|15n|g2|Zhořelec;Gorlicium Germaniae;Zhorjelc;Zgórjelc;Giorlicas;Gerlica;Goerlitz
+Koesan|KR||7h|2u9|9uz|cd|Goesan
+Göyçay|AZ||61|34x|3om|bt|Göychay;Goeycay;Geokchay
+Goes|NL||8m|3z2|at|a9|Gusas
+Gudermes|RU||9i|3cf|3k2|94|Goudermes;Goedermes;Belaya;Belka;Gums;Gümse;Gümsex;Qudermes
+Goleta|US||3p|2no|-98v|8l|Goélette;Szkuner;Schoner;Skonnert;Kuunari;Skonnorta;Schooner;Schoener;Škuna;Škuner;Skonert
+Gusev|RU||96|47n|1po|7z|Gumbinnen;Gussew;Gusiew;Goussev;Gussev;Gumbinė;Goesev;Qusev;Gusew;Gumbinen
+Gubakha|RU||7z|4jg|4fv|7e|Gubacha;Gubaja;Goubakha;Goebacha;Qubaxa;Gubaĥa;Gubah
+Goedereede|NL||8m|3zy|b2|38|Goederee
+Groesbeck|US|Ohio|48|30y|-6iz|1w|Goesbeck;Grosbeck
+Gouesnou|FR||9k|3ql|-ce|1s|Gouenoù;Goeznoveus
+Göllheim|DE||8r|3ts|md|12|Goellheim
+Goeferdinge|BE||8t|3x1|ao|v|Goefferdinge
+Goedverwag|ZA||o|-2jb|1fx|o
+Goézra|CI||0|k6|-hd|j
+Goetzenbruck|FR||9k|3s2|ki|i|Götzenbrück
+Goetsenhoven|BE||8t|3x1|dr|f
+Goénié|CI||0|jr|-kr|e
+Göhl|DE||8r|46s|ue|c|Goel
+Goétifla|CI||0|ki|-gr|c|Gouatifla
+Goești|RO||8u|3n0|23e|c
+Gœulzin|FR||9k|3vs|8m|b
+Gœrsdorf|FR||9k|3rz|ll|b
+Goé|BE||8t|3wl|gk|a
+Goeblange|LU||9c|3tz|gl|7|Giewel;Göblingen
+Goès|FR||9k|3c0|-1n|6|Güèrs
+Goetzingen|LU||9c|3ty|gm|6|Gëtzen;Götzingen;Goetzange;Götzange
+Goessel|US||2f|2y9|-7if|5

@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+Vyaz’ma|RU||9i|49d|2na|ff|Vjazma;Wjasma;Vyazma;Vyasma
+Viedma|AR||1s|-35e|-4v0|dl|Vjedma
+Vyatskiye Polyany|RU||97|4c7|3xu|az|Vjatskije Poljany
+Vyazniki|RU||9i|4c8|393|aw|Vjazniki;Vyaznika
+Vyazemskiy|RU||7w|3o1|aec|48|Vjazemskij;Vyazemskaya;Vyazemskoye
+Vyartsilya|RU||9i|4sq|2d9|v|Värtsilä;Vjartsilja
+Wiązów|PL||a5|3x5|1bs|n|Vjonzova;Wiezów
+Vyazovaya|RU||7z|48j|4i4|l|Vjazovaja
+Vyatskoye|RU||9i|4gr|33u|9|Vjatskoje
+Vyazëmka|RU||9i|44w|3ak|6|Vjazemka

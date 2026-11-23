@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saipan|MP||bf|169|b8v|de
+Saipipi|WS||aj|-11v|-dac|7
+Saipbeyli|TR||94|2xk|37b|6|Saibbeyli

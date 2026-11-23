@@ -1,0 +1,27 @@
+{
+  "generated": "2026-08-19T08:42:40+00:00",
+  "note": "Self-hosted copies of third-party photographs. Every entry is used under the licence named in its 'license' field; 'source' is the canonical page for the work. Re-hosting does not remove the attribution obligation - the app must render credit and licence wherever it renders the image.",
+  "card": {
+    "width": 640,
+    "quality": 70
+  },
+  "hero": {
+    "width": 792,
+    "quality": 70
+  },
+  "total_bytes": 154006,
+  "images": [
+    {
+      "id": "demo",
+      "name": "Demo",
+      "credit": "",
+      "license": "own",
+      "source": "",
+      "card": "/img/demo-card.webp",
+      "card_bytes": 64572,
+      "hero": "/img/demo-hero.webp",
+      "hero_bytes": 89434
+    }
+  ],
+  "failed": []
+}

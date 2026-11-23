@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Denis|RE||ai|-1m0|4a1|170|St. Denis
+Saint Davids|GB||9b|404|-en|i|Saint David’s;Tyddewi;St David's;St Davids;St. David’s;Sent Deividsas;Sentdeividsa;Sankta Davido;Menevia
+St. Day|GB||9b|3vk|-ef|7

@@ -1,0 +1,23 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nong Chok|TH||62|12i|7s6|17n|Hnongchok
+Gniezno|PL||a5|41x|1cu|jj|Gnesen;Gnesna;Gņezno;Hnězdno;Gnieznas
+Hnivan|UA||98|3sd|26q|3e
+Hnahthial|IN||6t|1rt|765|20
+Hnúšťa|SK||8s|3qx|1jf|1u|Nyustya;Hnūštja
+Hnidyn|UA||98|3vt|2db|1i|Hnidîn;Gnidyn
+Hnizdychiv|UA||98|3t2|1uz|14|Gnizdychuv
+Hnaberd|AM|Aragatsotn|80|34w|3em|l
+Hněvotín|CZ||9m|3tp|1bq|j
+Hnget Pyaw San|MM||7y|1a9|7ej|i
+Hnget Yawng|MM||7y|1p4|7me|h
+Hnget Aw San|MM||7y|1a0|7el|g
+Hnojník|CZ||9m|3u0|1fi|f
+Hnget Gyi Daung|MM||7y|19k|7f7|c|Hngetkyidaung
+Hnizdychne|UA||98|3ud|1z9|b|Hnizdychno;Gnizdychne;Gnezdychno
+Hněvošice|CZ||9m|3uw|1e1|a
+Hnátnice|CZ||9m|3uy|19o|8
+Hnutove|UA||98|3n5|2wv|8
+Hnaberd|AM|Ararat|80|335|3ft|6|Gnaberd
+Hnativka|UA||98|3q3|2en|6
+Hnojice|CZ||9m|3u4|1bu|6
+Hněvkovice|CZ||9m|3u0|168|6

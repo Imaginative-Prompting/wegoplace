@@ -1,0 +1,81 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Edinburgh|GB||9b|4bf|-8w|3z2|Edimburgo;Dinedin;Edimburg;Caeredin;Edinburgo;Édimbourg;Dún Éideann;Edinborg;Edimburgum;Edinburgas;Edynburg;Edinburrie;Idinburg;Edinburg;Edinburga;Edimborg;Edimburgu;Embra;Edinburq;Edimborgh;Edimbùrgh;Edinburc;Ebora;Edinbo;Doon Edin;Edinboarch
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Idkū|EG||c|2ez|2c6|1d8
+Idlib|SY||69|2rt|2tr|zs|İdlip;Idleb
+Iğdır|TR|Iğdır|94|32w|3ed|s9|Îdir;Iıdır;Igdyras
+Idiofa|CD||t|-dt|1if|of|Idiofo
+Idanre|NG||u|jr|e8|o1
+Idaiyarpālaiyam|IN||6t|uo|5xo|nb
+Edfu|EG||c|1xe|2jc|m3|Edfou;Idfu;Edfó;Apollonopolis Magna;Apollinopolis Magna
+Idah|NG||u|jr|iq|j3
+Idaho Falls|US||28|3cr|-8n7|gg
+Idappadi|IN||6t|w7|608|f8|Edappadi;Edapadi
+Ido-dong|KR||7h|2l2|9rh|di
+Idar|IN||6t|1u8|5ms|br
+Idangansālai|IN||6t|wb|60n|98
+Izu|JP||7q|2p5|apz|8j|Idzu;Isu
+Idar-Oberstein|DE||8r|3u3|kb|84|Idāra-Oberšteina
+Itako|JP||7q|2rt|auf|7o|Idako
+Idstein|DE||8r|3vi|mz|75|İdştayn
+Idaga Hamus|ET||2|13f|31w|72|Edaga Hamus;Idagaamus
+İdil|TR||94|2vp|38d|6e|Hezex;Hezek
+Iisalmi|FI||92|4wk|23j|5n|Iisalmo;Idensalmi;Isal'mi
+Ijevan|AM||80|35k|3hf|5f|Istibulagh;İcevan;Karvansara;Idschewan;Idjevan;Karvansaray;Iĝevano;Idževan;Idževanas;Iczewan;Idzhevan;Karavansarai;K’aravansaray;K’arvansara
+Idhnā|PS||6g|2fo|2p5|57|Idnā
+Idylwood|US||48|302|-5yh|4t|Idlywood;Idlewood
+Edd|ER||4|12p|37t|35|Iddi;Edi;Eid;Adi
+Idukki|IN||6t|rd|5xt|34|Idikki
+Idigarai|IN||6t|uw|5xt|2f
+I kaupunginosa|FI||92|4nx|1pw|29|I stadsdel;I District
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Iduvāy|IN||6t|us|5yp|28|Iduvai
+Ide|JP|Kyoto|7q|2oo|ah9|25
+Idiroko|NG||u|if|7n|23|Idi Iroko
+Idabel|US||2f|2m6|-7bf|1y
+Idrija|SI||9a|3js|12z|1o|Idria
+Idritsa|RU||9i|4ch|289|1k|Idrica;Idriza
+Idlewood|CA||59|3cp|-67f|1k
+Idrinskoye|RU||6u|471|73y|1j|Idrinskoje
+Idrī|LY||1d|249|109|1b|Adrī;Edri
+Idalia|AU||8c|-1hn|bbt|17
+Idmine|MA||d|2d1|-pz|17
+Idtig|PH||71|iw|9ml|14|Itig
+Idyllwild-Pine Cove|US||3p|2lq|-909|13|Aidilvaildas-Pain Kovas
+Ide|JP|Fukushima|7q|2vl|avm|11
+Idyllwild|US||3p|2lq|-908|10
+Idron|FR||9k|3c9|-v|y
+Idaiseval|IN||6t|p9|605|u
+Idogaya-kamimachi|JP||7q|2qf|ars|u
+Iddergem|BE||8t|3xc|b8|s
+Idlewood|US||48|31d|-5wr|p
+Iđoš|RS||8q|3jb|1kg|n|Idjoš
+Idalou|US||2f|2lj|-7ug|n
+Hidas|HU||8v|3ki|1fe|n|Idoš
+Idiazabal|ES||9d|3bh|-67|m
+Ida Grove|US||2f|39m|-7d7|l
+Idio|PH||71|wa|9f6|l
+Ideciu de Jos|RO||8u|3m0|1wr|k|Ideciul-de-Jos
+Idegem|BE||8t|3x4|ax|i
+Idylwylde|CA||2s|44o|-8r5|i
+Idaho Springs|US||2p|32e|-853|h|Fentynnyow Idaho
+Idro|IT||9o|3j2|t3|h
+Īdahlū|IR||7o|2q6|3qm|g|Īdalū;Īdehlū
+Idiazabal|AR||1n|-2j5|-4v3|g|Ideazabal
+Spodnja Idrija|SI||9a|3jv|12z|f|Idria di Sotto
+Idvor|RS||8q|3hj|1kz|e
+Idestrup|DK||8y|482|x8|b
+Iden|DE||8r|42m|x3|a
+Idioké|CI||0|cu|-kn|9
+Idstedt|DE||8r|47n|qf|8|Isted
+Idzikowice|PL||a5|3y3|1d5|8
+Yde|NL||8m|43k|ib|8|Ide
+Idala|SE||9w|4ai|11i|7
+Idrifaia|RO||8u|3kv|1vy|7
+Ider|US||2f|2of|-6m0|7
+Idre|SE||9w|4ru|zb|7|Eajra
+Ída|GR||8p|35x|1pm|6|Ídha
+Idamay|US||48|31q|-66y|6
+İdriskoru|TR||94|33t|23s|6
+Ideal de Arriba|MX||41|1f7|-7ey|6
+Idid Hamlet|PW||ba|ke|adk|5

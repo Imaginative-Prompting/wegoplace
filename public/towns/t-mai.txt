@@ -1,0 +1,225 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Madrid|ES||9d|34a|-aa|p4f|Madril;Madrit;Matritum;Madryt;Maidrid;Los Madriles;Makelika;Mairil;Mā-dáik-lī;Mâ-tet-lî
+Manila|PH||71|14k|9c2|ccg|Manilo;Manille;Manilla;Maynila;Menila;Manyl;Manillah;Mainile;Lungsod ng Maynila
+Milan|IT||9o|3ia|pj|akz|Mailand;Milaan;Milà;Mediolanum;Mediolan;Milão
+Maoming|CN||7i|1o7|8k3|a3a|Mao-ming;Meu-miàng-sṳ;Mậu Danh;Bō͘-bêng-chhī;Chaozhou;Mâiu-mìng
+Maiduguri|NG||u|wx|10k|8kc|Maidugari;Maidiguri
+Meizhou|CN||7i|1vh|8yk|7no|Mej-čou;Mòi-chiu-sṳ;Mai Châu;Mûi-chiu-chhī;Mùi-ciŭ
+Mysuru|IN||6t|y6|5ww|73q|Mysore;Májszúr;Majsur;Maisúr;Mahisūr;Maisūru
+Maianga|AO||x|-ol|10s|5m5
+Frankfurt am Main|DE||8r|3v8|o4|50k|Francoforte;Francfort;Fráncfort del Meno;Frankfurt;Frankfurt nad Menem;Frankfurt del Main;Frankfurt nad Mohanem;Frankfurto ĉe Majno;Francfort-sur-le-Main;Frankfurt na Majni;Frankfurtas prie Maino;Frankfurte pie Mainas;Frankfort an'n Main;Frankfurt nad Mohanom;Fráncfort d'o Meno;Francofurtum ad Moenum;Francfòrt sul Main;Francuforti suprô Menu;Francoforte sul Meno;Frankfet;Franckfurt;Frankfort
+Maipú|CL||4u|-2l3|-5gl|3vw
+Miami|US|Florida|48|1zl|-66r|3ra|Miamo;Majamis;Maiami;Mayami;Majami
+Mainz|DE||8r|3uu|n0|1px|Maguncia;Mohuč;Majenco;Mayence;Magonza;Moguntiacum;Moguncja;Mogúncia;Mogontiacum;Mainca;Magunza;Maiança;Mayns;Maincas;Maganza;Majnci;Meenz;Maguntzia;Määnz;Ments;Maiența;Meginsborg;Magontia;Mainc
+Sai Mai|TH||62|12o|7rl|1g9
+Maicao|CO||27|vm|-5ko|1aa
+Ramna Maidan|BD||6a|1tx|6z4|13x
+Mercier–Hochelaga-Maisonneuve|CA||59|3il|-5ob|13o
+Maykop|RU||9i|3fx|33e|13g|Maikop;Majkopo;Majkop;Maikopas
+Tương Mai|VN||62|1mb|862|11v
+Maijdi|BD||6a|1rj|712|10q|Makjdi
+Chiang Mai|TH||62|1g7|7my|zc|Cziang Maj;Chiangmai;Çian May;Kiangmai;Chiengmai
+Mailsi|PK||6q|2as|5kh|yu
+Hoàng Mai|VN||62|1hj|85o|vi
+Maidstone|GB||9b|3yf|1g|tw
+Mairiporã|BR||4w|-1ss|-3lf|sb
+Mainpuri|IN||6t|23n|63j|qa
+Maizuru|JP||7q|2qh|afx|pp|Maidzuru;Maiduru;Maidsuru
+Maitland|AU|New South Wales|8l|-2ix|bp0|ow|Meytlend
+Maymana|AF||6o|2rs|4zy|l3|Meymaneh;Maïmana;Majmana;Meimana;Meymene;Maimanah;Mimana
+Maidenhead|GB||9b|3z4|-20|jk
+Maison Blanche|FR||9k|3rn|6j|hv
+Maisons-Alfort|FR||9k|3rl|6s|f0
+Maiquetía|VE||2c|tf|-560|em
+Maych’ew|ET||2|zj|31u|ds|Maych’awu;Maichew;Maitchew
+Maizhokunggar|CN||7i|2aw|72t|dr
+Mairinque|BR||4w|-1tf|-3n2|d6
+Mairena del Aljarafe|ES||9d|2vq|-gu|cr|Aljarafe
+Mai Dịch|VN||62|1mf|85u|b9
+Maihar|IN||6t|1vf|68c|b6
+Maintal|DE||8r|3vb|oj|au
+Maibara|JP||7q|2q4|aik|an|Maihara
+Maia|PT|Porto|99|36k|-ny|a4
+Mairo Inya|KE||16|3|2t5|8h
+Maināguri|IN||6t|21s|6uq|87
+Maiurno|SD||r|11a|2lj|7z
+Maisí|CU||36|1k9|-5pz|7v|Maysi
+Maintirano|MG||a8|-1e6|3eb|6k
+Mairwa|IN||6t|20v|6hs|6k
+Maisons-Laffitte|FR||9k|3rz|5z|6c
+Meiningen|DE||8r|3wh|sy|60|Mainingia
+Maesteg|GB||9b|3zd|-a6|5u|Maisteigas
+Mai|KE||16|-2q|2tn|5s
+Mairena del Alcor|ES||9d|2vt|-fz|5p|Maireno del Alcor;Mairano del Alcor
+Maithon|IN||6t|1u2|6p5|58
+Mairi|BR||20|-wj|-33j|56
+Maïné Soroa|NE||18|10p|xe|4y|Maïné-Soroa
+Maitland|US||48|27j|-6a0|4v
+Maynooth|IE||8z|44b|-ib|4t|Maigh Nuad;Meinutas
+Maillardville|CA||5b|3ss|-9hb|4e
+Mairang|IN||6t|1z0|72k|40
+Mailāni|IN||6t|26l|676|3y
+Mainburg|DE||8r|3r4|wq|3w|Moaburg
+Maisach|DE||8r|3py|vb|3h
+Midleton|IE||8z|408|-mq|3h|Mainister na Corann;Mainistir na Corann;Midltonas;Middleton
+Maindargi|IN||6t|1ci|5vx|3g
+Mailāram|IN||6t|1cm|610|3a
+Maida Hill|GB||9b|3z5|-j|39|Maida Vale
+Mai Khet|TH||62|137|7th|35|Mai Ket
+Maidan Garhi|IN||6t|276|5yh|33
+Mainvilliers|FR||9k|3ql|42|2x
+Majdanpek|RS||8q|3ff|1oz|2t|Maidan
+Maiyama|NG||u|xk|c5|2s|Maiyema
+Maile|ZA||o|-1yo|23s|2s
+Maizières-lès-Metz|FR||9k|3sp|h4|2q
+Mā‘ili|US||ax|1ni|-c7e|2n|Maili
+Maidstone|AU||8j|-2wy|b6f|2m
+Maiquinique|BR||20|-17e|-33v|2f
+Maitum|PH||71|gs|9lu|2d
+Mainaschaff|DE||8r|3uu|p9|2c
+Maibong|IN||6t|1ya|76q|2c|Maibang
+Maidenbower|GB||9b|3xz|-f|29
+Mayna|RU|Ulyanovsk|9z|46c|3oa|27|Majna;Maina
+Maima|CN||7i|2lg|7vj|21
+Măieru|RO||8u|3no|1wr|21|Maier
+Maigo|PH||71|mo|9kc|20|Maibo
+Mairabari Town|IN||6t|21h|74q|20
+Mairehau|NZ||ak|-3cu|dbk|1z
+Mainleus|DE||8r|3v6|vm|1w
+Fermoy|IE||8z|40u|-n0|1u|Mainistir Fhear Maí;Mainistir Fhear Maigh;Mannishter 'er Maigh;Fermojus
+Mayaky|UA||98|3kx|2c3|1n|Maïaky;Maiakî;Majaky;Maiak-Karawul
+Maitengwe|BW||m|-1jx|23l|1n
+Mainhardt|DE||8r|3sc|qk|1l
+Main Beach|AU||8c|-25q|bu7|1k
+Mainit|PH|Caraga|71|qi|9oo|1j
+Mailag|PH||71|m5|9nm|1i|Mailig
+Măicăneşti|RO||8u|3ie|24e|1h
+Maiori|IT||9o|34x|14o|1h|Majure
+Luynes|FR||9k|3nm|1j|1e|Maillé
+Maiden Gully|AU||8j|-2u3|b4l|1d
+Meyreuil|FR||9k|3ct|fa|1a|Mairuelh
+Maintenon|FR||9k|3qz|4e|19
+Moyross|IE||8z|42c|-o0|18|Maigh Rois
+Maida Vale|AU||8k|-2gr|8yb|18
+Maize|US||2f|2wy|-7ir|18
+Mairana|BO||3n|-1ec|-4xo|17
+Monasterevin|IE||8z|43m|-jn|16|Mainistir Eimhín;Monasterevan
+Moira|GB|Northern Ireland|9b|47c|-hb|15|Maigh Rath
+Maikammer|DE||8r|3sz|ml|15
+Maygatasan|PH||71|o7|9p8|14|Maigatasan
+Maisières|BE||8t|3w9|b1|14
+Maing|FR||9k|3vr|9o|13|Naing
+Maîche|FR||9k|3n9|iw|13
+Maimbung|PH||71|gh|9c6|12|Maibun
+Macroom|IE||8z|407|-ox|12|Maigh Chromtha;Makrumas
+Mayrhofen|AT||a2|3n1|wz|11|Zillertal;Mairhofen
+Maihama|JP||7q|2qz|ask|10
+Maikkula|FI||92|50i|1z1|z
+Măerişte|RO||8u|3ng|1rc|y|Măierişte
+Meyrargues|FR||9k|3d8|fd|y|Mairarga
+Maizal|DO||4v|1ik|-5hb|y
+Maiden|US||48|2qu|-69l|y
+Maindang|PH||71|ib|9mt|w
+Meymac|FR||9k|3ii|5z|u|Maimac;Maismac
+Maisse|FR||9k|3qg|6m|s
+Maida|IT||9o|2zy|19g|s
+Mainqué|AR||1s|-30i|-56z|r
+Maignelay-Montigny|FR||9k|3tn|70|q
+Boyle|IE||8z|45x|-n2|q|Mainistir na Búille
+Maibu|PH||71|i9|9mn|q|Maibo
+Mairipotaba|BR||4w|-1c2|-3th|q
+Maniitsoq|GL||4e|51q|-42y|p|Sukkertoppen;Manitsoks;New Sukertop;New Sukkertoppen;Manitsoq;Maitsoq;Manitsok
+Măieruş|RO||8u|3ji|1yx|p
+Maimará|AR||1o|-1tm|-51p|p
+Mainit Norte|PH||71|13d|9eu|o
+Maienfeld|CH||a7|3mk|qh|o|Lupinum;Maiavilla
+Maine|US||2f|3h3|-6x5|o
+Mainit|PH|Central Visayas|71|q7|9io|n
+Mainit|PH|Mimaropa|71|ok|93a|n
+Mainbernheim|DE||8r|3u3|se|n
+Maisdon-sur-Sèvre|FR||9k|3mu|-3u|m|Maezon-ar-Gwini
+Mailly-le-Camp|FR||9k|3r7|bp|l
+Maydanetske|UA||98|3rm|2da|l|Maidanetske;Maydanets’ke;Majdanets;Majdanezke;Majdanec;Maydanets;Majdanetske;Majdanećke;Maidanețke
+Maitland city centre|AU||8l|-2ix|boz|l
+Maillane|FR||9k|3dr|da|k|Malhana;Maillanne
+Abbeyfeale|IE||8z|41i|-pu|k|Mainistir na Féile
+Mairano|IT|Lombardy|9o|3i9|s0|k
+Maia|RO||8u|3ga|21c|k
+Mairano|IT|Lombardy|9o|3hv|q0|k
+La Mailleraye-sur-Seine|FR||9k|3tg|25|j|Mailleraye-sur-Seine
+Maishofen|AT||a2|3nl|zk|j
+Maincy|FR||9k|3qv|7i|j
+Maia|PT|Azores|81|2x3|-1yj|j
+Maierato|IT||9o|2zj|18y|j|Maieratum;Majeratu
+Maitenbeth|DE||8r|3pr|xl|j|Moabeth
+Mainstockheim|DE||8r|3u9|s7|i
+Maidan|UA||98|3r0|1t7|i|Majdan;Maydan
+Abbeyleix|IE||8z|42z|-ke|i|Mainistir Laoise;Abileiksas
+Mahigbeu II|CI||0|is|-j7|i|Maigbé II
+Moycullen|IE||8z|446|-pi|h|Maigh Cuilinn
+Mountrath|IE||8z|438|-kr|h|Maighean Rátha;Mauntratas
+Maydanshakhr|AF||6o|2nk|5bb|g|Meydān Shahr;Maīdān Shahr
+Maierhöfen|DE||8r|3od|rx|g|Mayerhöfen
+Longwood|IE||8z|44h|-j8|g|Maigh Dearmhaí
+Maizières-la-Grande-Paroisse|FR||9k|3qr|aj|f
+Maiac|MD||8x|3n8|29m|f|Majakas;Majak;Maiak;Mayak
+Maiory|UA||98|3la|2c4|e|Mayory;Maiorî
+Maidières|FR||9k|3ru|gs|e
+Mainvault|BE||8t|3wp|ac|e
+Landsberied|DE||8r|3pt|v1|e|Landschbariad;Maisach
+Moroe|IE||8z|429|-nc|e|Maigh Rua
+Mayisyan|AM|Shirak|80|35h|3ds|d|Ortakilisa;Maisyan;Maisian
+Maiaky|UA|Donetsk|98|3rz|2wi|d|Mayaky;Mayaki
+Maiden Newton|GB||9b|3x2|-75|d
+Maihingen|DE||8r|3rx|t6|c
+Maisnil-lès-Ruitz|FR||9k|3w5|77|c|Maisnil-lès Ruitz
+Maitland|AU|South Australia|8b|-2nh|amf|c
+Maiak|UA||98|3p9|2xn|c|Mayak
+Maillot|FR||9k|3pu|97|c
+Mailat|RO||8u|3jw|1mn|b|Majlát
+Mainzweiler|DE||8r|3ta|js|b
+Maitinez|MX||41|1q5|-7nt|b
+Maillen|BE||8t|3vy|dt|b
+Maillezais|FR||9k|3kt|-22|a|Malleacum
+Maineville|US||48|318|-6hy|a|Mainesville;Mainville
+Maillebois|FR||9k|3r3|37|9
+Maisprach|CH||a7|3o0|lt|9
+Maissau|AT||a2|3qx|17z|9
+Maiorshchyna|UA||98|3vg|2i1|9|Mayorshchyna;Mayorshchina
+Mérinchal|FR||9k|3jk|6x|8|Mairinchal
+Maisonsgoutte|FR||9k|3qb|k6|8|Meisengott;Maisegott
+Maizières|FR||9k|3qy|gu|8
+Mairano|IT|Lombardy|9o|3i0|p7|8
+Măiag|RO||8u|3fx|1tm|8
+Maiachka|UA||98|3sf|2nw|8|Mayachka
+Maianço|ST||1c|z|ij|7
+Maisoncelles-en-Brie|FR||9k|3rr|8b|7
+Maillé|FR|Pays de la Loire|9k|3kq|-27|7
+Mailly-Champagne|FR||9k|3sk|bf|7
+Holycross|IE||8z|428|-lu|7|Mainistir na Croiche
+Maiborodivka|UA||98|3st|2kr|7|Mayborodivka;Mayborodovka
+Mairago|IT||9o|3hp|qm|7
+Maillé|FR|Centre-Val de Loire|9k|3mp|1m|7
+Manorcunningham|IE||8z|48n|-l6|7|Mainéar Uí Chuinneagáin
+Maiersdorf|AT||a2|3ou|18m|7
+Maycoba|MX||37|26v|-8du|6|Maicoba
+Mainsat|FR||9k|3jx|6n|6
+Maillat|FR||9k|3k5|fe|6
+Maiaky|UA|Odesa|98|3ns|2a4|6|Mayaky;Mayaki
+Mailly-le-Château|FR||9k|3o8|a4|6
+Maierhof|AT|Upper Austria|a2|3ps|11p|6
+Mailly-Maillet|FR||9k|3v4|78|6
+Mailly-la-Ville|FR||9k|3o8|a8|6
+Mailley-et-Chazelot|FR||9k|3o2|gt|6
+Mairy-sur-Marne|FR||9k|3rs|c9|6
+Maierhof|AT|Upper Austria|a2|3q0|11e|6
+Mainsdorf|AT||a2|3ly|168|6
+Mailberg|AT||a2|3r7|18y|6
+Maissin|BE||8t|3us|ee|6
+Mainxe|FR||9k|3is|-j|5
+Maisonnette|CA||43|3ou|-50k|5
+Maidens|GB||9b|49p|-de|5
+Maimola|PK||6q|2o8|5ix|5|Maimoola
+Maisnières|FR||9k|3ux|4i|5|Mainniére-in-Vimeu
+Mai|LA||7v|1fc|7x8|5
+Moylough|IE||8z|44k|-nt|5|Maigh Locha

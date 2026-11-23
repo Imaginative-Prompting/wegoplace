@@ -1,0 +1,10 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vilnius|LT||a3|47x|1y8|46o|Wilna;Vilno;Vilna;Wilno;Vilnüs;Vilnis;IVilnyusi;Wilñus;Vilnjûs;Vilnias;Wilnius;Vilniaus miestas;Vil'nyus;Vil'no;Vilnia
+Villeneuve-d'Ascq|FR||9k|3wm|8t|hc|Vilnēva d'Aska;Neuvile-Ask;Vilnev d'Askas;Villeneuve d'Ascq;Villenyev d'Ask
+Vilnohirsk|UA||98|3qo|2mi|65
+Vilnyansk|UA||98|3p7|2qg|46|Sofiyivka;Krasnoarmiyske;Chervonoarmiyske;Villniansk;Vilniansk;Wilnjansk;Viljnjansk
+Vilne|UA|Dnipropetrovsk|98|3oc|2oq|1i|Vil’ne;Vil’ny
+Vilnius Quarter|UA||98|3z5|2df|i|Vilniuskyi kvartal;Vilnyuskyi kvartal
+Vilne|UA|Odesa|98|3jq|28p|h|Vyp'ne;Iserlia
+Vilna Tereshkivka|UA||98|3sm|2ks|g|Vil’na Tereshkivka
+Vilne Zaporizhzhya|UA||98|3o5|2im|6|Vilné Zaporijjia

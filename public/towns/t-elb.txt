@@ -1,0 +1,119 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bilbao|ES||9d|3c6|-85|2oh|Bilbo;El Bocho;Bilbau;Bilbaw;Bilbaum
+Blida|DZ||3|2tb|7v|2k6|Al-Bulajda;Buleyde;El Bouleida;Bilda
+Al Bāb|SY||69|2t1|2w8|10b|El Bāb
+Al Bayḑā’|LY||1d|2j0|1og|zy|El Beyda;Al Bayda;El Beida;Al-Baida
+Elbląg|PL||a5|46f|1hx|zg|Elbing;Elbinga;Elblonga;Elwing;Ilfingburg;Elbingas;El’blëng;Elblong
+Elbasan|AL||9y|367|1js|s1|Elbassan
+Talavera de la Reina|ES||9d|330|-df|op|Aebura;Ebora;Caesarobriga;Elbora;Ebura
+Al Bahah|SA||7e|1jl|377|ok|El Baha;Baha
+El Bayadh|DZ||3|2lk|2u|ns|El-Bayadh
+Elbistan|TR||94|2y5|2vc|md
+Al Balyanā|EG||c|20w|2gw|j0|El Balyana;Balyana
+Al Badārī|EG||c|22z|2fa|fk|El Badâri
+El Banco|CO||27|p0|-5pi|f5
+El Bagre|CO||27|l4|-5rt|e8
+Al Bayda|YE||5r|12v|3il|ai|El Bayda;Elbeyda;Al Baydha;Al Beidha;Al-Baidā;Al-Baidhah
+Elburgon|KE||16|-u|2rh|7w
+el Baix Guinardó|ES||9d|371|61|74
+Ébano|MX||41|1pq|-7la|6r|Elbano
+Al Bayāḑīyah|EG||c|1za|2io|6k|El Bayâdîya;Al-Bayāḍiyyah
+el Besòs i el Maresme|ES||9d|371|66|6h
+El Bahay|ET||2|hn|3ic|6e|Ceel Baxay;El Bahai
+Sant Pere, Santa Caterina i La Ribera|ES||9d|36y|62|6d|Born;el Born;borne
+Elburg|NL||8m|41p|g8|62
+El Bolsón|AR||1s|-38k|-5ip|5x
+Al Brouj|MA||d|2ia|-jz|5u|El Borouj
+El Bauga|SD||r|1eq|2m7|5b|Al Bauga
+Elbeuf|FR||9k|3sx|2s|4s|Elbovium
+Al Bawīţī|EG||c|26r|287|4d|El Bawîti;Bawīti
+el Bon Pastor|ES||9d|374|64|3k
+El Bordo|CO||27|5w|-5xu|3d
+El Baúl|VE||2c|ow|-59q|30
+El’ban|RU||7w|3v6|aj6|2u
+El Bahira|TN||1e|2q5|uk|22
+El Bordo|AR||1s|-1wi|-50u|20
+San Jeronimito|MX||41|1ct|-7ti|1w|El Barrio;San Jerónimo;San Goronimito
+El Battan|TN||1e|2u8|rc|1t|Al Baţān;El Bathane;El Batane;El Bathan
+Elburn|US||2f|38d|-6tr|1l
+El Bosque|MX||41|1be|-75k|1g
+El Burgo de Osma|ES||9d|37j|-8j|1f|Burgo de Osma
+El Barril|MX||41|1s4|-7vr|1a|Barril
+Elberton|US||48|2mr|-6e7|19
+Elbingerode|DE||8r|3zt|u1|15|Elljeroe
+El Burrión|MX||3x|1yy|-8d5|13
+Elba|US|Alabama|2f|2f9|-6n3|13
+Le Barcarès|FR||9k|3av|8g|12|El Barcarès
+El’brus|RU||9i|3c6|3ag|x|Elbrus
+Elbow Park|CA||2s|3xq|-8sw|x
+El Borma|TN||1e|2g1|pl|x|Al Borma
+El Bonillo|ES||9d|307|-72|w|Bonillo
+El Blanco|MX|Querétaro|41|1l9|-7q2|v|Blanco
+El Boxtha|MX||41|1ka|-7mx|r
+Elbeyli|TR|Bursa Province|94|34h|2ak|q|İlbeyli
+El Burgo de Ebro|ES||9d|37h|-22|o|El Burgos de Ebro
+El Barrio de la Soledad|MX||41|1ao|-7c7|o|El Barrio
+El Barco de Ávila|ES||9d|344|-fc|o|El Barco dÁvila;Barco de Avila;El Barco de Ávile
+El Bejuco|MX|Guerrero|41|1aq|-7oz|n
+Elbeyli|TR|Kilis|94|2tv|2w3|m
+El Bosque|ES||9d|2u4|-fb|k
+El’-Bazhi|RU||6u|3z8|76p|j|Khajyrakan;Khayyrakan;Khayrakan
+Elbe|DE||8r|40o|sk|j
+Elboya|CA||2s|3xp|-8sv|i
+El Bálsamo|HN||56|15v|-6qz|h|Bálsamo
+Purechucho|MX||41|1fm|-7s9|h|El Brasil
+El Bajío|MX|Oaxaca|41|1ax|-7c0|h|El Bajo
+Elberta|US||2f|2ch|-6rc|h
+’Elb el Jmel|MR||19|1b9|-12t|f
+El Botadero|MX||3x|1of|-84h|e
+El Bajío|MX|Aguascalientes|41|1pt|-7w7|d
+El Barrido|MX||41|1kt|-7nj|b
+Elbow Lake|US||2f|3jr|-7em|b
+El Bajío|MX|Tabasco|41|1dy|-75q|b
+El Blanco|MX|Veracruz|41|1e7|-7co|b
+El Bellote (Miguel de la Madrid)|MX||41|1f7|-76r|b
+El Benque|HN||56|12z|-6o7|b
+El Bingú|MX||41|1l7|-7ne|b
+El Barrancón del Tío Blas (El Barrancón)|MX||44|1xi|-7jg|b|El Barrancón
+Elbridge|US||48|3bj|-5wd|a
+El Bajío (La Laguna)|MX||41|1ne|-7v7|a
+El Bajío|MX|Veracruz|41|1gt|-7h9|a
+El Bocja|MX||41|1k5|-7ms|a|El Boja
+El Baluarte|MX||41|1t0|-7y8|a|Baluarte
+El Buen Pastor|HN||56|15b|-6ru|9
+El Burgo Ranero|ES||9d|39u|-ei|9
+El Bismarck|MX||2h|2er|-8au|9
+El Bethí|MX||41|1kn|-7nm|8|Bethí
+El Balzamar|MX||41|1ct|-7p9|8
+Perevalovka|UA||9t|3gy|2p6|8|El Buzly
+El Bejuco|MX|Guerrero|41|1b5|-7q2|8
+El Bejucal|MX||41|1ls|-7ja|8
+El Barro|MX||44|1zr|-7z7|7
+El Berrueco|ES||9d|35l|-9w|7
+El Bondho|MX||41|1kd|-7n1|7
+El Bonxhí|MX||41|1js|-7p2|7|Bonxhi
+El Barrete|MX||41|1jh|-7oq|7
+El Bongo|PA||4g|m3|-695|7
+El Bule|MX||3x|1zw|-8fl|7
+El Bordonal|MX||41|1b5|-7pu|7|El Bardonal
+El Batallón|MX||3x|1ws|-8av|7|Batallón
+El Bebedero|MX||41|1cc|-75d|7
+Elba|US|New York|48|3bo|-617|7
+El Bayo 1ra. Sección (Granada)|MX||41|1dk|-74y|7
+El Buena|MX||41|1lc|-7ne|7
+El Buzón|MX||41|1h8|-7fn|6
+Elberfeld|US||2f|2y0|-6qx|6
+El Barranco Azul|MX||44|1vs|-7nc|6
+El Bolillo|MX||3x|1uq|-88q|6
+El Barrero|PA||4g|mo|-685|6
+El Bajío|MX|Sinaloa|3x|1sr|-872|6
+El Barí 1ra. Sección|MX||41|1el|-79c|6
+El Bascán (Lucha Bascán)|MX||41|1ca|-73t|6
+El Bayo 2da. Sección|MX||41|1dn|-74v|6
+El Banco|PA||4g|o5|-6d7|5
+El Bayo|MX||41|1gq|-7el|5
+Elbeyli|TR|Mardin|94|2va|34w|5|Tel’shiriras;Telşiriras
+El Buruato|MX||3x|1nh|-82f|5
+El Ballestero|ES||9d|2zw|-6u|5|Ballestero
+El Botho|MX||41|1jy|-7mp|5
+Elbeyli|TR|Mersin|94|2tp|2kw|5|İlbeyli

@@ -1,0 +1,58 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Chigasaki|JP||7q|2q6|ar8|1vg|Čigasakis;Tigasaki-chhī;Chigaraki
+El Tigre|VE||2c|op|-4yh|1pt
+Tigwav|HT||4j|1f7|-5mf|wn|Petit-Goâve;Petit Goâve
+Bender|MD||8x|3m3|29w|um|Tighina;Tigina
+Tigard|US||3p|3i7|-9h1|e9
+Tighri|IN||6t|277|5yk|d2|Tigri
+Tighenif|DZ||3|2qe|x|b3|Tighennif
+Tigre|AR||1l|-2nn|-4iq|8n
+Tigbauan|PH||71|tn|9fy|3j|Tigbuan
+Tigaon|PH||71|11v|9j2|3h
+Tirhassaline|MA||d|2j2|-fp|2o|Tighassaline
+Tījī|LY||1d|2gx|vj|1x|Tigi;Tidji
+Tiglauigan|PH||71|uf|9io|1w|Tiglawigan
+Tigpalay|PH||71|kt|9fu|1j
+Ţigăneşti|RO|Teleorman County|8u|3dy|1yh|1i
+Tignieu|FR||9k|3j3|ef|1g
+Tignère|CM||j|kh|z5|18|Tinguéré
+Ţigănaşi|RO||8u|3nh|24b|17|Tigănesti
+Tignoan|PH||71|14h|9du|16|Tignuan
+Jiquilillo|NI||3s|zf|-6qx|15|Tiguilillo
+Tignapalan|PH||71|my|9m1|15|Tignapoloan
+Tigveni|RO|Arges|8u|3hd|1wa|10
+Tigtabon|PH||71|j6|9fd|z|Tagtabon;Tabtabon
+Tigbaw|PH||71|xr|9jb|v|Tigbao
+Tiger Point|US||2f|2ce|-6pu|v
+Tiguion|PH||71|111|9ei|u
+Tiggiano|IT||9o|32u|1f1|s
+Tigbinan|PH||71|13f|9g7|s
+Tiguib|PH||71|r8|9i2|q
+Tigui|PH||71|10v|9f0|p|Tigwi;Tigiui
+Tiguisan|PH||71|zo|9de|p
+Tignes|FR||9k|3ie|j8|o|Tiniae
+Tigrinhos|BR||4w|-225|-43o|n
+Tigbao|PH|Bicol Region|71|yv|9im|n|Tigbaw
+Tigbao|PH|Zamboanga Peninsula|71|kn|9ft|m
+Tigum|PH||71|ty|9gh|m
+Tiguha|PH||71|le|9i9|l
+Tigao|PH||71|pl|9qi|l
+Tigy|FR||9k|3or|64|l
+Tigil’|RU||6p|4gg|c8s|k|Tigil
+Tighza|MA||d|2k7|-fm|k
+Tighes Hill|AU||8l|-2jf|bpj|g
+Tigery|FR||9k|3r4|6z|e
+Tigerville|US||48|2pf|-6ct|d|Tygerville
+Tinahely|IE||8z|42o|-hy|9|Tigh na hÉille
+Țigănești|RO|Galați County|8u|3ji|248|9|Ţigăneşcii
+Țigmandru|RO||8u|3ks|1wo|9|Ticmandru
+Tigné|FR||9k|3n4|-17|8
+Tignish|CA||35|3mf|-4xv|7
+Tigerton|US||2f|3ga|-6ve|7
+Tigrillos|MX||41|1ht|-7gl|7
+Tiglieto|IT||9o|3fo|ny|6|O Tilieto
+Timahoe|IE||8z|434|-k1|6|Tigh Mochua;Timaho
+Tigveni|RO|Arges|8u|3ga|1xv|6|Ticveni
+Tighnabruaich|GB||9b|4bb|-ej|5|Taigh na Bruaich
+Tignall|US||48|2m3|-6du|5|Tignal

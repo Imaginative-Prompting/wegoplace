@@ -1,0 +1,190 @@
+/* Base for everything inside a `.ds` root, from NeedWright's app/ds/base.css. Resets use :where() so they carry zero
+ * specificity. A phone app's measures, where they differ from NeedWright's desktop: what is read is 16 px (14 there),
+ * which is also the least a field may be before iOS zooms into it; a screen's heading is 28, a sheet's 20; the one
+ * big number on a screen has its own size. */
+
+.ds {
+  font-family: var(--type-ui);
+  font-size: var(--size-16);
+  line-height: 1.45;
+  color: var(--ink-1);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-optical-sizing: auto;
+}
+
+.ds ::selection {
+  background: var(--selection);
+}
+
+:where(.ds) :focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+:where(.ds) :where(h1, h2, h3, h4, p, ul, ol, dl, dd, figure, blockquote) {
+  margin: 0;
+}
+
+:where(.ds) :where(ul, ol)[role="list"] {
+  padding: 0;
+  list-style: none;
+}
+
+:where(.ds) :where(a) {
+  color: inherit;
+  text-decoration: none;
+}
+
+:where(.ds) :where(button, input, select, textarea) {
+  font: inherit;
+  color: inherit;
+}
+
+:where(.ds) :where(img, svg, video) {
+  display: block;
+  max-width: 100%;
+}
+
+/* ---------- type roles ---------- */
+
+/* A screen's heading. */
+.ds-h1 {
+  font-family: var(--type-head);
+  font-weight: 500;
+  font-size: var(--size-28);
+  line-height: 1.15;
+  letter-spacing: var(--track-head);
+  color: var(--ink-1);
+  text-wrap: balance;
+}
+
+/* A sheet's title, a section's heading, a place's or a plan's name on its own page. */
+.ds-h2 {
+  font-family: var(--type-head);
+  font-weight: 500;
+  font-size: var(--size-20);
+  line-height: 1.25;
+  letter-spacing: var(--track-head);
+  color: var(--ink-1);
+  text-wrap: balance;
+}
+
+/* A row's first line, a label that names a group. */
+.ds-h3 {
+  font-family: var(--type-ui);
+  font-weight: 600;
+  font-size: var(--size-16);
+  line-height: 22px;
+  color: var(--ink-1);
+}
+
+/* The one big number on a screen (what you owe, the amount being typed). Its decimals are quieter. */
+.ds-number {
+  font-family: var(--type-head);
+  font-weight: 500;
+  font-size: var(--size-number);
+  line-height: 1.05;
+  letter-spacing: var(--track-number);
+  color: var(--ink-1);
+  font-variant-numeric: tabular-nums;
+}
+.ds-number .ds-dec { color: var(--ink-3); }
+
+.ds-body {
+  font-size: var(--size-16);
+  line-height: 1.45;
+  color: var(--ink-2);
+  text-wrap: pretty;
+}
+
+/* Second lines, day headers, a hint that holds a fact. */
+/* Small words are ink-2: ink-3 on the canvas reads at 4.28 (light) and 4.37 (dark) to 1, under the 4.5 small text needs.
+ * ink-3 is for what isn't words to read (a number's decimals at 52 px, a disabled control, a symbol). */
+.ds-meta {
+  font-size: var(--size-14);
+  line-height: 20px;
+  color: var(--ink-2);
+}
+
+.ds-small {
+  font-size: var(--size-12);
+  line-height: 16px;
+  color: var(--ink-2);
+}
+
+/* Hidden means hidden: a control's own display (.ds-button's inline-flex) would otherwise beat the browser's [hidden]. */
+.ds [hidden], .ds[hidden] { display: none !important; }
+
+.ds-strong {
+  color: var(--ink-1);
+  font-weight: 600;
+}
+
+/* Money, times and codes: their digits line up. */
+.ds-mono {
+  font-family: var(--type-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+.ds-num {
+  font-variant-numeric: tabular-nums;
+}
+
+.ds-link {
+  color: var(--ink-1);
+  text-decoration: underline;
+  text-decoration-color: var(--edge-strong);
+  text-underline-offset: 3px;
+  transition: text-decoration-color var(--dur-150) var(--ease-standard);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .ds-link:hover {
+    text-decoration-color: var(--ink-2);
+  }
+}
+
+/* A link that acts in place (Undo, Show all) is a button that looks like one. */
+button.ds-link {
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  cursor: pointer;
+}
+
+button.ds-link:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.ds-visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Reduced motion: the same result, without the travel. Transitions get 0s and no delay, not a very short time, as the
+   app's own rule (styles.css): with any length at all, every style a script writes starts a transition, and a box
+   measured in the same task is still the old one (a list scrolled short, a strip placed by an old height). This rule
+   outweighs the app's inside .ds, so it must say the same. ds_theme_check holds it. */
+@media (prefers-reduced-motion: reduce) {
+  .ds *,
+  .ds *::before,
+  .ds *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0s !important;
+    transition-delay: 0s !important;
+  }
+}

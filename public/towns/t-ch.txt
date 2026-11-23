@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Hefei|CN||7i|2gi|91s|211f|Che-fej;Hefėjus;Hợp Phì;Hefejo;Ha̍p-pûi-chhī;Hăk-bùi;Hofej;Hozfeiz;Hefej;Hefey;Ho-fei
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Yantai|CN|Shandong|7i|2w4|9dc|1ist|Chefoo;Jen-tchaj;Jantaj;Yên Đài;Iĕng-dài;Jantai;Ian-tâi-chhī;Yen-t’ai
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Shijiazhuang|CN||7i|2xo|8u0|18fk|Thạch Gia Trang;Š’-ťia-čuang;Šidziadžuangas;Ŝiĝjaĝŭango;Siŏh-gă-cŏng;Sicsiacsuang;Šidzjadžuana;Swzgyahcuengh;Chio̍h-ka-chng-chhī;Šidžjadžuang;Shicziyajuan;Şiciyajuang;Shihjiazhuang
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Zibo|CN||7i|2u7|93y|10ap|Truy Bác;C-po;Cṳ̆-báuk;Chu-phok-chhī
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Chennai|IN||6t|10d|670|104b|Madrás;Ćennaj;Ĉenajo;Čennai;Csennai;Čenaj;Maderaspatanum;Čenajus;Çenay
+Huai'an|CN||7i|2lb|96m|z5m|Huaiyin;Chuaj-an;Hwaiyin;Huai-yin
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Zaozhuang|CN||7i|2ou|92j|tr0|Cō̤-cŏng;Cao-čuang;Tảo Trang;Chó-chng-chhī
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Changzhou|CN||7i|2g9|997|pe5|Changtsjou;Csangcsou;Thường Châu;Čangdžou;Čchang-čou;Ĉangĝoŭo;Siông-chiu-chhī;Siòng-ciŭ;Čangdžov;Changchow;Ch’ang-chou
+Changsha|CN|Hunan|7i|26c|8pt|nvg|Ĉangŝa;Trường Sa;Cangzsah;Čchang-ša;Chhòng-sâ-sṳ;Csangsa;Changsja;Tn̂g-soa-chhī;Diòng-să;Čanša;Chansha
+Incheon|KR||7h|2w2|9rz|n9n|Inch'ŏn;Inchon;Nhân Xuyên;Inčhona;Inčchon;Incshon;Inĉono;Inčonas;Chemulpo;Inčon;İnçxon
+Haikou|CN|Hainan|7i|1jn|8ij|n5s|Xeyko shehir;Hải Khẩu;Hajkou;Hajkoŭo;Chaj-kchou;Hái-kháu-chhī;Hāi-kāu;Haijgouj;Haykou;Haikow
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Huizhou|CN||7i|1s7|8tu|mdl|Huệ Châu;Xuyjo shehiri;Chuej-čou;Fi-chû-sṳ;Huitsjou;Hūi-chiu-chhī;Hiê-ciŭ;Hujdžov;Hui-chou
+Chicago|US||2f|389|-6rh|kk5|Ĉikago;Sicagum;Čikaga;Şikago;Chicagu;Chikago;Kikako;Tsikago;Çikaqo;Chi-kâ-kô;Čėkaga;Shikago
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Zunyi|CN||7i|24x|88z|fq2|Dzuni;Ĝunji;Tuân Nghĩa;Cun-i;Cŏng-ngiê;Chun-gī-chhī;Cunji;Zunji
+La Paz|BO||3n|-19u|-59b|fgv|Chukiyawu;La-Pazo;A Paz;Pax;La Pasas;Chuqiyapu;La Pas;Chuqi Yapu;Lapasa;La-Pas
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Jiangyin|CN||7i|2gn|9a2|dqb|Kiang Ying;Kiangyin;Chiang-yin
+Chengtangcun|CN||7i|2pg|91j|djv|Tengzhou
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Qingyuan|CN|Guangdong|7i|1tu|8pz|dew|Chĭng-uōng;Čching-jüan;Chhîn-yén-sṳ;Thanh Viễn;Chheng-oán-chhī;Tsingyüan;Ch’ing-yüan
+Pimpri-Chinchwad|IN||6t|1fq|5p0|dbx|Pimpri Chinchwad;Pimpri-Ĉinĉvad;Pimpris-Činčvadas;Pimpri-Csincsvád

@@ -1,0 +1,46 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Khabarovsk|RU||7w|3qm|afa|4rq|Chabarowsk;Jabárovsk;Chabarovsk;Ĥabarovsk;Habarovszk;Chabarofsk;Habarovska;Chabarovskas;Xabarovsk;Khbarovsk;Khabarovka
+Centro Habana|CU||36|1s9|-6ct|17y
+Hābra|IN||6t|1rg|6ua|12p
+Habikino|JP||7q|2nz|agn|uf
+Habboûch|LB||64|2kt|2qk|rc|Habboush;Ḩabbūsh
+Habiganj|BD||6a|1vq|71x|oo|Hobiganj
+Habirbāri|BD||6a|1vk|6z4|hz
+Habaswein|KE||16|2u|31p|ds
+Hafnarfjörður|IS||87|4xz|-1oy|8r|Hafnarfirdi;Hafnarfjarðar;Hafnarfjarðarkaupstaður;Habnarfjorduras;Halfnarfjorður
+Habhab|IQ||5z|2lu|3fn|5y
+Ḩabūnā|SA||7e|1dl|3ea|3j
+Habibpur|IN||6t|1y4|6pj|3d
+Bystrzyca Kłodzka|PL||a5|3vq|1a8|2w|Habelschwerdt;Bistšica Klodzka
+Ḩabībābād|IR||7o|2j7|3zu|2n
+Habo|SE||9w|4gv|133|25
+Habay-la-Vieille|BE||8t|3u4|fm|25
+Haboro|JP||7q|3f8|axm|21|Hahoro;Haporo
+Haberfield|AU||8l|-2m4|bnu|1t
+Ḩablah|PS||6g|2hd|2p6|1n|Habla
+Habartov|CZ||9m|3ve|yv|1h
+Habsheim|FR||9k|3ol|km|19|Hapsen
+Habay-la-Neuve|BE||8t|3u5|fp|x
+Noramarg|AM||80|336|3ff|n|Posëlok Imeni Kalinina;Ablkend;Abilkend;Habilkend;Bulagli
+Habanero 1ra. Sección (Venustiano Carranza)|MX||41|1dx|-779|g
+Hăbeni|RO||8u|3gm|1z7|f
+Habas|FR||9k|3d1|-2l|f
+Açıkdere|TR||94|2sm|2sq|e|Habestüylü
+Habibfaki|TR||94|36d|2pr|d
+Habry|CZ||9m|3u8|170|d
+Habach|DE||8r|3ol|vc|b
+Habach|AT||a2|3ou|10k|b
+Hobscheid|LU||9c|3u1|gf|b|Habscht
+Hăbud|RO||8u|3ge|201|9
+Habrovany|CZ||9m|3sr|1aw|9
+Habana|AU||8c|-1mf|bi4|9
+Ḩabashī|IR||7o|2y4|3go|8
+Habère-Poche|FR||9k|3kh|hz|8|Âbèro d’Amont;Haberium Perulae
+Habergy|BE||8t|3tt|g0|8
+Habère-Lullin|FR||9k|3kf|hy|7|Âbèro d’Avâl;Haberium Lulinorum
+Habkern|CH||a7|3lt|lu|7
+Habarcq|FR||9k|3vr|79|7
+Habrough|GB||9b|44x|-r|6
+Haby|DE||8r|474|ra|6
+Habscheid|DE||8r|3ve|hf|6

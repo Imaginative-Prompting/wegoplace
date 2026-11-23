@@ -1,0 +1,21 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Kampala|UG||q|w|2ii|cyu|Campala;Kampalo;Kanpala;Kambaala;Kaempaala;Kampal
+Kaesŏng|KP||7a|2xh|9rj|2ly|Kesongas;Kaisong;Gaeseong
+Kaech’ŏn|KP||7a|32a|9pp|2gs
+Khon Kaen|TH||62|19p|7xn|vt|Khonken;Khonkenas;Khohn Ken;Khon Kan;Khonkhaen;Khon Khen;Khonkean;Konkahen
+Kaédi|MR||19|18v|-11j|fn|Kajhajdi;Kayhaydī
+Hoeryŏng|KP||7a|39w|a0f|c6|Hoenyŏng;Kaeryŏng;Hoeryeong
+Ka'ersai|CN||7t|2w4|654|bd
+Kaélé|CM||j|s3|145|95
+Kaeng Khoi|TH||62|14j|7sk|8f
+Kaeng Khro|TH||62|18r|7w2|83|Kaeng Khlo
+Kavieng|PG||bd|-75|bmw|41|Kaewieng;Käwieng
+Ka'erqin|CN||7i|2o5|7z3|2v
+Ka'erdun|CN||7t|3dz|69y|2u
+Enchanted Lake|US||ax|1ne|-c66|1f|Ka‘elepulu
+Kaerla|FI||92|4o0|1pv|m
+Koerich|LU||9c|3tz|gj|b|Käerch;Gemeng Käerch;Körich
+Kaerepere|EE||9x|4jt|1x0|5
+Kaeo|NZ||ak|-2pi|deq|5

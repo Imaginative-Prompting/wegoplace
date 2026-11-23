@@ -1,0 +1,329 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mogadishu|SO||14|5o|3hy|jyo|Muqdisho;Mogadiŝo;Mogadisxo;Mogadischu;Mogadiscio;Mogadišas;Mogadiszu;Mogaidisiú;Mogadişu;Mogadixo;Moqadişo;Mogadiš;Mogadisjoe;Mogadisjû;Mugadiss;Mogadiss;Moukdicho;Mugadishu;Mugadiccu;Mogadixu;Mogadìsciu;Mogadiscium;Mogadisho;Mogandísio;Mogaadisiyo;Muqdishow;Mogadiisho;Muqdishu;Mogadish;Maqdishu;Magadiscio
+Benin City|NG||u|hm|fn|dr0|Benin-Stadt;Benin;Benim;Beninas;Benin by;Benin-stad;Beninurbo;Thành phố Benin;Ìlú Benin;Ciudad de Benín;Kota Benin;Benínborg;Benin Siti;Magaalaa Benin;Magaalada Benin
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Jeju City|KR||7h|2l3|9rg|3rs|Czedżu;Jeju;Cheju;Kota Jeju;Jeju Şehri;Jeju Shahri;Jeju Gida;Kutha Jeju;Magaalaa Jeju;Magaaladda Jeju;Jiji la Jeju
+Magnitogorsk|RU||7z|44c|4jx|36u|Magnetogorsk
+Mahilyow|BY||9g|45r|2ca|2q1|Mogilëv;Mahilioŭ;Mahiloŭ;Mogiliovas;Mogiļeva;Mohylew;Mahiljoŭ;Maguilov;Mahiljov;Mogiliavas;Mahiljow;Moguilev;Mahilëŭ;Mogiljow;Mogiljov;Mogilew
+Magdeburg|DE||8r|40t|wb|1vv|Magdebourg;Meideborg;Maagdenburg;Makekepuka;Magdebörj;Dźěwin;Magdebuag;Magdeburk;Magdeborgh;Magdeborg;Madeborch;Maqdeburq
+Magé|BR||4w|-1qx|-3bk|1vt
+Manisa|TR||94|2z9|247|1vs|Magnesia am Sipylos;Magnesia ad Sipylum;Manissa;Mahnisa
+Magdalena Contreras|MX||41|1hp|-7nl|1u8
+Magugpo Poblacion|PH||71|kp|9pg|1st|Tagum City;Tágum;Tagumas;Taguma
+Mainz|DE||8r|3uu|n0|1px|Maguncia;Mohuč;Majenco;Mayence;Magonza;Moguntiacum;Moguncja;Mogúncia;Mogontiacum;Mainca;Magunza;Maiança;Mayns;Maincas;Maganza;Majnci;Meenz;Maguntzia;Määnz;Ments;Maiența;Meginsborg;Magontia;Mainc
+High Wycombe|GB||9b|3zf|-23|110|Magna Wycombe
+Magelang|ID||6l|-kr|8i6|zr
+Magangué|CO||27|po|-5rn|yg|Magangė;Mangue;Manague
+Maghāghah|EG||c|27l|2do|wu|Magagha;Maghâgha
+Luis Eduardo Magalhães|BR||20|-xl|-3j7|tz
+Magway|MM||7y|1jz|7bp|qy|Magvay
+Magadan|RU||6z|4lg|bmw|ps|Maqadan
+Mogok|MM||7y|1ro|7g3|oz|Magok
+Maghnia|DZ||3|2ot|-4t|oa
+Essaouira|MA||d|2fj|-r5|nn|Mogador;Esauira;As-Shawirah;As-Sawíra;Medino de Esaŭiro;Essauira;Szavíra;Amegdul;Savira;Suvayr;Es Suira;Mogadar;Magador
+Magalang|PH||71|16a|9b6|j6|Magalan
+Macenta|GN||f|nq|-qb|iw|Magenta
+Magong|TW||7l|1th|987|hp|Makung;Mâ-kûng-sṳ
+Magsaysay|PH|Davao Region|71|it|9nq|g3
+Magdanly|TM||5x|2x1|53i|cd
+Famagusta|CY||6e|2pk|2ma|bt|Ammóchostos;Famagouste;Famagosta;Gazimağusa;Mağusa;Ammókhostos;Fama Augusta;Magosa;Gazi Magosa;Ammochostus
+Maquela do Zombo|AO||x|-gu|15z|bo|Maguela do Zombo
+Magaria|NE||18|104|or|9r
+Magu|TZ||h|-77|2kx|9q
+Magba|CM||j|gj|v6|8l
+Migdal Ha‘Emeq|IL||6n|2is|2pw|7w|Magidal;Migdal Haemeqck;Migdal Hameq;Migdal Ha‘Emek;Migdal HaEmek;Migdal HaEmeq;Migdal ha-Emek
+Māgadi|IN||6t|100|5yi|7o
+Maghull|GB||9b|44o|-86|7i
+Magdalena de Kino|MX||37|2d3|-8k8|7e
+Magna|US||2p|353|-8ne|7d
+La Magdalena Atlicpac|MX||41|1ht|-7mw|7c|Magdalena Atlicpac;La Magdalena Atlipac;Magdalena Atlicpan
+Magugu|TZ||h|-b6|2rd|79|Magagu
+Uherské Hradiště|CZ||9m|3sb|1ci|6x|Ungarisch Hradisch;Magyarhradis;Ungarisch-Hradisch
+Maga|CM||j|u4|15i|6t
+Maghār|IL||6n|2jd|2qd|6j|Mughar;Mghar
+Magenta|IT||9o|3ia|oo|6a|Castra Maxentia
+Maguan|CN||7i|2pf|86j|64
+Madalena|BR||2w|-di|-31y|5j|Magdalena
+Magamaga|UG||q|1g|2kn|5f
+Magumeri|NG||u|xn|zn|5e
+Magomeni|TZ|Dar es Salaam Region|h|-iw|311|5b
+Magole|TZ||h|-hq|2vt|58
+Maganja|MZ||11|-1c3|2w7|4z
+Maganoy|PH||71|j2|9lo|4u|Maganuy
+Maghar|IN||6t|22c|6ex|4q
+La Magdalena Tlaltelulco|MX||41|1hk|-7ks|4o|Magdalena Tlaltelulco
+Uherský Brod|CZ||9m|3s7|1d1|4j|Ungarisch Brod;Magyarbród;Uherski Broda;Vehersky Brod
+Magdalena|MX|Jalisco|41|1m3|-80u|4i
+Magog|CA||59|3hr|-5kf|4c
+Magṭa‘ Laḥjar|MR||19|1cn|-10d|4a|Magta-lahjar
+Magtymguly|TM|Balkan|5x|2ys|4cc|4a
+Magdalena|AR||1l|-2pg|-4fr|49|Madalena
+Magarao|PH||71|11y|9i7|48
+Magburaka|SL||l|o8|-x7|45|Magburuka
+Magadi|KE||16|-5a|2st|41
+Maglie|IT||9o|33g|1eu|40|Maddhie
+Maghama|MR||19|173|-zp|3v|Magama
+Magalhães de Almeida|BR||2w|-9g|-398|3u
+Magapit, Aguiguican|PH||71|1eb|9e0|3t|Magapit
+Magsaysay|PH|Mimaropa|71|q3|957|3i
+Magude|MZ||11|-1xi|2ip|3g
+Magdalena Chichicaspa|MX||41|1hy|-7nx|3e
+Magdalena Milpas Altas|GT||32|14f|-6zv|3b
+Magdagachi|RU||7x|44h|9ph|39|Magdagatsji;Magdagatschi;Magdagači;Magdagatxi;Magdagacsi;Magdagaczi;Magadagachi
+Magnolia|US|Arkansas|2f|2kf|-770|39
+Magalia|US||3p|32l|-9dq|35
+Magapit|PH||71|1ee|9dz|34
+Magdolnanegyed|HU||8v|3nx|1h0|2v|Magdolna negyed
+Kanjiža|RS||8q|3jz|1jp|2u|Magyarkanizsa;Alt-Kanischa;Ungarisch-Kanischa;Kanizsa;Kanjiĵa;Ungarische Kanischa
+Maglód|HU||8v|3ns|1hs|2t
+Magsaysay|PH|Mimaropa|71|y9|9cj|2m
+Măgurele|RO|Ilfov|8u|3f7|20b|2m
+Magdalena Cuayucatepec|MX||41|1fj|-7is|2k
+Magny-les-Hameaux|FR||9k|3re|5q|2k|Malliacum;Magneio
+Magtymguly|TM|Ahal|5x|2x8|4ik|2k
+Magherafelt|GB||9b|483|-id|2k|Machaire Fíolta
+Magstadt|DE||8r|3re|ox|2j
+Magomeni|TZ|Tanga|h|-ej|2xw|2h
+Mahala|UA||98|3q5|20c|2h|Makhala;Magala
+Magas|RU||9i|3c2|3gd|2g|Maqas
+Magnago|IT||9o|3im|og|2f
+Magill|AU||8b|-2oz|ap7|2f
+Magalhães Barata|BR||23|-27|-3o8|29
+Magnéry|CI||0|dq|-j8|26
+Magnaga|PH||71|jx|9pp|24
+Magistral’nyy|RU||6k|4c1|8ag|24|Magistralnyj
+Magaliesburg|ZA||o|-207|24k|24
+Maglaj|BA||9r|3fr|1ea|22
+Magogeni|ZA||o|-1zn|2ft|22
+Großalmerode|DE||8r|3ye|r6|22|Magna Almeroda
+Mehun-sur-Yèvre|FR||9k|3my|65|21|Magdunum
+Magenta|NC||b8|-1pv|cuf|20
+Velyki Komiaty|UA||98|3q0|1ru|1w|Magyarkomját
+Magaramkent|RU||9i|37m|3qb|1v
+Meung-sur-Loire|FR||9k|3ov|4q|1v|Magdunum ad Ligerim
+Magallanes|PH|Caraga|71|p2|9oo|1u
+Magnan Beaumettes|FR||9k|3de|k4|1u
+Măgureni|RO|Prahova|8u|3h7|1zh|1t
+Magione|IT||9o|3bu|xx|1s
+Ighiu|RO||8u|3k7|1tc|1r|Magyarigen;Igen
+Magarlor|IN||6t|1ln|6bd|1r|Magarlod
+Madalena|PT|Azores|81|2z2|-279|1p|Magdalena
+Magtaking|PH||71|18f|99u|1n|Magtaguing
+Magor|GB||9b|3za|-7v|1n
+Magabeni|ZA||o|-2bt|2dh|1n|Madadeni
+Magnitka|RU||7z|49r|4lu|1m
+Magatos|PH||71|l0|9p9|1m
+Maglavit|RO||8u|3eb|1s6|1m
+Magnanville|FR||9k|3s1|4o|1j
+Māgām|IN||6t|2mp|5r7|1j
+Magny-en-Vexin|FR||9k|3sk|4z|1i
+Maguyam|PH||71|13m|9c5|1i
+Magpet|PH||71|jq|9nk|1i|Magpit
+Magaluf|ES||9d|31r|72|1h|Magalluf
+Măgurele|RO|Prahova|8u|3ha|20b|1c
+Magoúla|GR|Attica|8p|2xs|1tc|1b
+Măgura|RO|Buzău County|8u|3hr|21u|1b
+Magsingal|PH||71|1d4|9ai|1a|Masingal
+Uherský Ostroh|CZ||9m|3s3|1cb|19|Magyarsárvár;Uherski Ostroha
+Măgireşti|RO||8u|3l8|21r|19
+Maquiling|PH||71|ty|9ir|18|Maguiling;Makiling
+Magnolia|US|New Jersey|48|32z|-5re|18
+Magee|US||2f|2gj|-6x9|18
+Magnolia|US|New Jersey|48|32p|-5sg|17
+Magdalena Teitipac|MX||41|1ay|-7g8|17|Magdalena Teitipal
+Maglajani|BA||9r|3gv|1c7|16
+Maghera|GB||9b|48c|-ij|15|Machaire Rátha
+Magny-le-Hongre|FR||9k|3rq|7u|15|Magny Le Hongre
+Magsaysay|PH|Davao Region|71|kk|9p0|14
+Măgura|RO|Bacău County|8u|3ld|22l|13
+Magdalena Tequisistlán|MX||41|19k|-7dk|12|Mixtequilla;Magdalena Tequistlán
+La Mézière|FR||9k|3py|-4v|12|Magoer;Maceria;Mézière
+Măgura Ilvei|RO||8u|3nm|1ww|12
+Maglizh|BG||9v|3ac|1yz|10|Meglizh;Măglish;Magliž;Mŭglizh
+Magallon Cadre|PH||71|sl|9hx|10
+Ma Gyi Kan|MM||7y|1a0|7eu|10|Magyigan
+Magena Marabu|KE||16|-2j|2oo|z
+Padej|RS||8q|3jb|1k0|z|Padé;Szerb-Padé;Magyarpadé
+Magden|CH||a7|3o1|lp|y
+Magallanes|PH|Calabarzon|71|13f|9bg|y
+Magreta|IT||9o|3fw|u0|x
+Magnetic Hill|CA||43|3k5|-509|x
+Magbay|PH||71|yh|9cd|w
+Maguiayo|CI||0|gx|-h1|w|Naguiéayo;Maguiahio
+Magdalena|PH|Calabarzon|71|13g|9db|w
+Magda|BR||4w|-1lc|-3vj|w
+Magliano De'Marsi|IT||9o|38x|114|v|Magliano de' Marsi
+Măgura|RO|Teleorman County|8u|3eb|1yk|v
+Pemzashen|AM||80|34r|3e2|v|Magmudjuk;Karmirkend;Magmudzhuk
+Maguinao|PH||71|15q|9bx|u
+Magné|FR|New Aquitaine|9k|3ko|-1j|u
+Magland|FR||9k|3ju|ie|u
+Magbéhigouépa|CI||0|hj|-g7|t
+Magnac-sur-Touvre|FR||9k|3iv|o|t
+Maguilling|PH||71|1dd|9di|t|Maguiling
+Magdalena Apasco|MX||41|1bw|-7gy|s
+Măgeşti|RO||8u|3mm|1qd|s
+Magrath Heights|CA||2s|44h|-8rg|s
+Magallanes|PH|Bicol Region|71|zn|9k0|r
+Nova Crnja|RS||8q|3iv|1l9|r|Magyarcsernye
+Maglić|RS||8q|3i0|1i9|r
+Magdiwang|PH||71|yo|9gb|r
+Măgherani|RO||8u|3ld|1x6|r
+Mágocs|HU||8v|3kr|1en|r
+Magyarbánhegyes|HU||8v|3l1|1m9|q
+Maglamin|PH||71|md|9ny|q|Miglamin
+Magalalag|PH||71|1cu|9e5|q|Magalalab
+Maununneva|FI||92|4nd|1x7|q|Magnuskärr
+Magsaysay|PH|Calabarzon|71|13u|9c7|q
+Magliman|PH||71|15s|9b6|p
+Magallanes|PH|Ilocos|71|18i|9be|p
+Magina|CI||0|nj|-h7|p|Madina;Maguina
+Magdalena|PH|Western Visayas|71|sy|9eu|o
+Magliano|IT||9o|342|1e6|o
+Magsalangi|PH||71|xu|9j9|o|Magsalanga
+Magugnano|IT||9o|3iy|tw|o
+Magnolia|US|Mississippi|2f|2ei|-6za|o
+Maguling|PH||71|gy|9lk|o
+Magdug|PH||71|i7|9qa|n
+Magay|PH||71|t3|9kh|n
+Magnac-Laval|FR||9k|3ke|39|m
+Magnassini-Nindri|KM||ac|-y4|3fe|m
+Mago|RU||7w|43y|ate|m
+Magtangol|PH||71|17s|9bw|m|Magtanggol
+Magisterio Digno|MX||41|1jq|-7md|m
+Magdalena|PH|Cagayan Valley|71|1b3|9dz|l
+Magula|RO||8u|3gt|212|l|Bagula
+Magnetic Island|AU||8c|-1h8|bbx|l
+Magrath|CA||2s|3ta|-8pj|l
+Ma‘agan Mikha’el|IL||6n|2ig|2p0|l|Ma‘gan Mikhael;Maagan Michael
+Magliano Sabina|IT||9o|39p|yp|l|Magliano Sabino
+Magalas|FR||9k|3cr|8y|l
+Ma‘galim|IL||6n|2f8|2o4|l
+Magdala|DE||8r|3xf|vt|k
+Luna de Sus|RO||8u|3lu|1t4|k|Magyarlóna
+Nagar|IN|Himachal Pradesh|6t|2ha|5yd|k|Magar;Naggar
+Migdal|IL||6n|2j8|2qm|k|Magdala
+Magenta|FR||9k|3s9|b1|j
+Magliano Alpi|IT||9o|3fi|lq|j
+Petreştii de Jos|RO||8u|3le|1tp|j|Magyarpeterd
+Záhorská Ves|SK||8s|3qe|1at|j|Uhorská Ves;Ungeraiden;Magyarfalu;Magyarfalva
+Maguey Blanco|MX|Hidalgo|41|1kq|-7nh|j
+Magdalena de Araceo|MX||41|1kf|-7t2|i
+Magnolia|US|Texas|2f|2bx|-7dz|i
+Magnano in Riviera|IT||9o|3ke|10n|i|Magnan;Magnano
+Magan|RU||7x|4sj|9zt|h
+Magherno|IT||9o|3hm|px|h
+Magán|ES||9d|330|-ax|h
+Magoudouboua|CI||0|i3|-hh|h
+Maggiora|IT||9o|3ix|ne|h
+Magjatë|AL||9y|35b|1jd|g|Magjat;Maj Gjatë;Majëgjatë
+Maghan|CI||0|nx|-hb|g|Mahan
+La Magdalena|MX|Puebla|41|1ka|-7l0|g|Magdalena
+Magoúla|GR|Peloponnese|8p|2v0|1q8|g
+Magadino|CH||a7|3k7|om|f|Magadign
+Magescq|FR||9k|3dm|-3e|f
+Magny-Cours|FR||9k|3m8|8r|f
+Magno|IT||9o|3iz|sc|e
+Maginsk|RU||7z|4aw|4e9|e
+Magnée|BE||8t|3wk|ft|e
+Magliano Romano|IT||9o|394|yk|e
+Magné|CI||0|df|-io|e
+Maggotty|JM||3i|1eg|-600|e
+Magny-le-Désert|FR||9k|3qx|-x|d
+Arini|RO|Bacău County|8u|3kr|23i|d|Magyarfalu
+Mağaralı|TR||94|2up|2xr|d|Magaraly
+Maggie Valley|US||48|2qo|-6eu|d
+Magdaleno Cedillo|MX||44|1rb|-7pm|c|El Coronel;Coronel
+Muff|IE||8z|48z|-k7|c|Magh
+Magdalena Tlacotepec|MX||41|19u|-7cg|c
+Manlio Fabio Altamirano|MX|Veracruz|41|1ln|-7ic|c|Magio Fario Altamirano;Kilómetro 25
+Magothla|BW||m|-1th|230|c
+Magheralin|GB||9b|47b|-he|c
+Magazinka|UA||9t|3je|2ml|c
+Magallón|ES||9d|387|-42|b
+Maggal|IL||6n|2hz|2pb|b|Magal
+Deleni|RO|Mureș County|8u|3ki|1vm|b|Magyarsáros;Kleinfarken
+Maguilla|ES||9d|2yl|-g7|b
+Magnacavallo|IT||9o|3h1|v2|b
+Magdalena Ocotlán|MX||41|1af|-7gn|b
+Magny-Vernois|FR||9k|3of|i0|b
+Magas Arriba|PR||4m|1e2|-55h|b
+Magoúla|GR|Central Greece|8p|2yp|1u6|b
+Magboébli|CI||0|kk|-kg|b
+Magoúla|GR|Thessaly|8p|31l|1ok|a
+Măguri|RO|Cluj County|8u|3lj|1s6|a
+Magrè sulla Strada del Vino|IT||9o|3kl|v5|a|Margreid an der Weinstrasse
+Magele|NL||8m|41r|i4|a
+Magiscatzin|MX||44|1rc|-7m6|a|Majizcatzin
+Magnolia|US|Ohio|48|34x|-69u|a
+Maguey Blanco|MX|Guanajuato|41|1n8|-7rb|a
+Magnor|NO||9j|4mj|xw|a
+Magdalena|HN||56|12j|-6ta|a
+Magnano|IT||9o|33a|18l|a
+Magnolia|US|North Carolina|48|2oy|-60t|9
+Magdalena Loxícha|MX||41|186|-7gl|9
+Vlaha|RO||8u|3lq|1t6|9|Magyarfenes
+Magdalena|US||2p|2ms|-89w|9
+Mézières-sur-Couesnon|FR||9k|3q5|-3z|9|Magoerioù-ar-C'houenon
+Măguri-Răcătău|RO||8u|3ll|1sg|9
+Magheru|RO||8u|3g1|1qv|9|Mageru
+Magdalena Yodocono de Porfirio Díaz|MX||41|1cb|-7ig|9
+Magdalena Alquizapán|MX||41|1fc|-7jk|9
+Magallanes|MX||41|1ku|-7ui|8
+Magliano in Toscana|IT||9o|3ac|vd|8|Magliano Toscana
+Măguri|RO|Timiș County|8u|3iu|1p4|8
+Magisano|IT||9o|30d|1a7|8
+Magazine|US||2f|2pn|-78l|8
+Magnac-Bourg|FR||9k|3iq|3z|8
+Maguarichi|MX||2g|25e|-8bz|8
+Magnuszew|PL||a5|3zs|1ne|8
+Magoulítsa|GR||8p|31k|1og|8
+Magnolia Springs|US||2f|2cg|-6ru|8
+Magaz|ES||9d|38m|-cb|8
+La Magdalena|MX|Michoacán|41|1k3|-7x6|8|Magdalena
+Măgheruș|RO||8u|3mc|1yf|8
+Maguey Largo|MX||41|1ac|-7gi|8
+Măgura|RO|Dâmbovița County|8u|3gj|1y4|7
+Magikó|GR||8p|362|1x6|7
+Maggio|IT|Lombardy|9o|3jl|qa|7
+Maggia|CH||a7|3kh|o7|7|Magia
+Măgura|RO|Olt|8u|3fb|1w8|7
+Magnet|FR||9k|3kd|9q|7
+Magdalena|PE||3o|-hp|-60e|7
+Magra|AU||8g|-3ar|bcj|7
+Măgura|RO|Brașov County|8u|3ig|1y9|7
+Magazia|RO||8u|3mu|20y|7
+Magdalena|MX|Veracruz|41|1g4|-7hl|7
+Magen Sha’ul|IL||6n|2ic|2q3|7
+Magacela|ES||9d|302|-fx|7
+Măgureni|RO|Brăila County|8u|3ge|25l|7
+Magny-sur-Tille|FR||9k|3nc|ed|7
+Magreglio|IT||9o|3jk|pq|6
+Măgina|RO||8u|3kq|1tp|6
+Magorno|IT||9o|33w|17q|6
+Măgura|RO|Dâmbovița County|8u|3hd|1yr|6
+Magozal|MX||41|1nx|-7k6|6|Magosal
+Magazzeno|IT||9o|34t|15a|6
+Magolà|IT||9o|30a|19d|6
+Magueyitos|MX||41|1il|-7i5|6
+Magné|FR|New Aquitaine|9k|3ks|13|6
+La Magdalena Soltepec|MX||41|1ie|-7l3|6|Magdalena Soltepec
+Magdalena Mixtepec|MX||41|1ay|-7h7|6
+Magglingen|CH||a7|3my|k1|6|Macolin
+Magliolo|IT||9o|3er|mx|6
+Magnicourt-en-Comte|FR||9k|3w0|6y|6
+Magueycitos|MX||41|1jf|-7or|5
+Juan Aldama|MX|Durango|44|1vz|-81b|5|Magueyes
+Măgura|RO|Vâlcea County|8u|3h0|1vd|5
+Măgura|RO|Caraș-Severin County|8u|3ie|1q9|5
+Magny-la-Campagne|FR||9k|3s9|-a|5
+Magherești|RO||8u|3h9|1tc|5
+Măgura|RO|Prahova|8u|3hf|20s|5
+Magallanes (Los Pinos)|MX||41|1ip|-7r7|5
+Magnolia|US|Kentucky|48|2w0|-6m6|5
+Magdaleno Aguilar|MX||44|1qb|-7m6|5
+Buenavista|MX|Veracruz|41|1pd|-7kn|5|Mahuaves;Maguabes
+Maggio|IT|Emilia-Romagna|9o|3fg|vy|5
+Magliano Alfieri|IT||9o|3gd|mf|5
+Bicălatu|RO||8u|3m8|1s1|5|Magyarbikal
+Mague|PA||4g|o3|-6cs|5

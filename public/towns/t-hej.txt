@@ -1,0 +1,10 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hayward|US|California|3p|2wn|-9f4|17z|Heivordas;Hejvordo;Hejvorda;Heyvard
+Heidelberg|DE||8r|3t9|o5|13t|Hajdelbergo;Hejdelbergo;Heidlberg;Heidlbeag;Hajdelberg;Heidelberch;Haidlbärsch;Héydélbérg;Heydelberq;Heidelbarg;Edelberga;Heidelburg
+Hejiang|CN||7i|281|85z|126
+Hejing|CN||7t|39j|6nz|cy|Xéjing
+Hejiabao|CN||7i|2mk|81s|1g
+Hejnice|CZ||9m|3xc|166|r|Haindorf
+Hejőbába|HU||8v|3p2|1m7|j
+Home Garden|US||3p|2su|-98c|i|Hejma Ĝardeno
+Hejtmánkovice|CZ||9m|3wk|19a|7|Hauptmannsdorf

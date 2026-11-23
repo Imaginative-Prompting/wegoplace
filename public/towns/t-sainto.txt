@@ -1,0 +1,29 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Ouen|FR|Île-de-France|9k|3rv|6h|ay
+Saint-Ouen-l'Aumône|FR||9k|3s8|5w|6e
+Saint-Omer|FR||9k|3wz|6a|53|Sint-Omaars
+Saint-Orens-de-Gameville|FR||9k|3cz|49|3i|Sent Orenç;Sant Orenç de Gamevila
+Saint-Ouen|FR|Centre-Val de Loire|9k|3ot|30|w
+Sainte-Ode|BE||8t|3uy|fc|n|Saint-Ode
+Saint-Ouen|FR|Hauts-de-France|9k|3v0|5w|m
+Saint Osyth|GB||9b|3zw|30|l
+Saint-Ouen-de-Thouberville|FR||9k|3t4|2h|i
+Saint-Ouën-des-Toits|FR||9k|3pq|-2i|f|Saint Ouen-des Toits
+Saint-Ouen-du-Tilleul|FR||9k|3sy|2n|f
+Saint-Ours|FR|Auvergne-Rhône-Alpes|9k|3jd|81|e
+Saint-Ouen-en-Belin|FR||9k|3ov|l|d
+Saint-Omer-en-Chaussée|FR||9k|3tl|5k|c
+Saint-Ouen-des-Alleux|FR||9k|3q9|-3z|a|Sant-Owen-an-Alloz
+Saint-Ouen-les-Vignes|FR||9k|3nv|2r|a
+Saint-Omer-Capelle|FR||9k|3xi|5u|9
+Saint-Onen-la-Chapelle|FR||9k|3pu|-61|9|Santez-Onenn;Saint-Ouen-la Chapelle
+Saint-Ouen-sur-Iton|FR||9k|3re|1y|9
+Saint-Ouen-de-Mimbré|FR||9k|3q5|5|8
+Saint-Ouen-en-Brie|FR||9k|3qw|84|8
+Saint-Ouen-du-Breuil|FR||9k|3tw|2t|7
+Sainte-Ouenne|FR||9k|3l0|-18|7|Saint-Ouenne
+Saint-Ouen-sur-Morin|FR||9k|3ru|8w|6
+Saint-Ondras|FR||9k|3ig|ff|5
+Saint-Offenge-dessous|FR||9k|3j1|go|5
+Saint-Onésime-d'Ixworth|CA||59|3nh|-5ee|5
+Saint-Ours|FR|Auvergne-Rhône-Alpes|9k|3j4|gn|5

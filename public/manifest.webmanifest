@@ -1,0 +1,46 @@
+{
+  "id": "/",
+  "name": "We Go Place",
+  "short_name": "We Go Place",
+  "description": "The group's itinerary, places and packing lists — works with no signal.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "categories": ["travel", "productivity"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.e2026552.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.6333653f.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Places",
+      "short_name": "Places",
+      "url": "/#/places"
+    },
+    {
+      "name": "Packing list",
+      "short_name": "Pack",
+      "url": "/#/pack"
+    },
+    {
+      "name": "Map",
+      "short_name": "Map",
+      "url": "/#/map"
+    }
+  ]
+}

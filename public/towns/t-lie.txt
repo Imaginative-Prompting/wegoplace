@@ -1,0 +1,113 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Liuzhou|CN||7i|1vk|8fx|b32|Liuchow;Liễu Châu;Liou-čou;Linzhou;Liuchowfu;Liu-chou
+Liaocheng|CN||7i|2t9|8y8|9hm|Liao-čcheng;Liêu Thành;Lièu-siàng;Liaoĉeng
+Liaoyang|CN||7i|36n|9i5|5b3|Liao-jang;Ljaojan;Liaojangas;Liêu Dương;Lièu-iòng;Liâu-iông-chhī
+Longshan|CN|Jilin|7i|3b5|9nm|3l8|Lièu-nguòng;Liao-jüan;Liaojuanas;Läojuan;Liêu Nguyên;Liâu-goân-chhī;Liaoyuan
+Bắc Từ Liêm|VN||6h|1mj|85r|2mm
+Lianshan|CN|Liaoning|7i|358|9bp|2f0|Lien-shan;Leinshan
+Liège|BE||8t|3wn|fh|1i9|Lüttich;Lieja;Lieĝo;Liegi;Léck;Luuk;Luik;Lidje;Liex;Ljēža;Leodicum;Lutych;Leodium;Lježas;Ljež;Sùguru;Lēodic;Lige
+Đưc Trọng|VN||6h|wm|8d1|18s|Liên Nghĩa
+Bạc Liêu|VN||6h|pt|85p|17d|Bak Lieu;Bac-Lien;Bach Lieu
+Leeuwarden|NL||8m|43s|g5|yl|Ljouwert;Liewarde;Liwwadden;Leewarden;Leuvardenas;Leyvarden;Leuvardena;Leuwarden;Lieuwarden
+Legnica|PL||a5|3y9|18w|tg|Liegnitz;Lehnice;Ligńica;Lignitium
+Lida|BY||9g|45o|1ya|sp|Lyda;Lieda
+Lianzhou|CN||7i|1wu|8o5|ps|Lien-chou
+Liepāja|LV||9n|4cy|1md|iq|Lipawa;Liepoja;Lietaja;Liyepaya;Liepaiya;Liepaya;Leepaja
+Lianyuan|CN||7i|24x|8m6|ih|Liên Nguyên;Lien-yüan
+Liancheng|CN||7i|1zg|90b|gt|Lien-ch’eng;Lianfeng
+Liévin|FR||9k|3w2|7q|9k|Lévin
+Leer|DE||8r|43v|kq|9f|Lier;Hleri;Leri
+Lier|BE||8t|3y1|cp|99|Lyras
+Lieto|FI||92|4o3|1qe|5r|Lundo
+Liễu Giai|VN||62|1mf|85y|5p
+Levanger|NO||9j|4x3|ve|5m|Lievenge;Levangken
+Lyepyel’|BY||9g|48g|27q|4u|Liepieĺ;Novy Liepieĺ
+Liebenau|AT||a2|3mn|16z|40
+Liestal|CH||a7|3nw|lh|3k|Laucostabulum;Listalis
+Liedekerke|BE||8t|3xb|bd|3c
+Lienz|AT||a2|3m3|zh|38|Lianz
+Lieşti|RO||8u|3iq|24g|32|Lieşte
+Lieksa|FI||92|4vw|2be|2s
+Liesveld|NL||8m|409|df|2q
+Lüchow|DE||8r|435|v0|2p|Ljauchüw;Lgauchi;Lieuschü
+Liebenburg|DE||8r|40i|sz|2n
+Liên Quan|VN||62|1mi|85a|2i
+Lienen|DE||8r|40v|m6|2g
+Liederbach|DE||8r|3v8|nl|2e
+Lieusaint|FR||9k|3r3|73|1y
+Liezen|AT||a2|3o5|13j|1u
+Sint-Maria-Lierde|BE||8t|3x6|ao|1s|Lierde-Sainte-Marie
+Lubawka|PL||a5|3wu|18g|1s|Liebau;Liebau in Schlesien;Lubavka
+Lielvārde|LV||9n|4dk|1wx|1n|Liyelvarde
+Liên Sơn|VN||6h|yh|8ci|1i|Lắk
+Liebenwalde|DE||8r|42v|117|1a
+Liempde|NL||8m|3z9|ex|16
+Leskolovo|RU||9i|4ne|2cl|14|Lieskula
+Liebenau|DE|Lower Saxony|8r|424|pa|14|Läiwenah
+Lieblos|DE||8r|3vh|pe|12
+Liebling|RO||8u|3im|1n8|11|Lieblig
+Liencres|ES||9d|3cq|-ax|11|Liengres
+Liebenau|DE|Hesse|8r|3z2|ps|10
+Lieshout|NL||8m|3z4|fj|z
+Lienden|NL||8m|40b|fc|z
+Lierneux|BE||8t|3vo|g3|x|Lierneu;Lieurneux
+Lieboch|AT||a2|3mh|16m|w
+Lievendaal|NL||8m|3yw|f3|w
+Liesek|SK||8s|3t4|1in|u
+Lincent|BE||8t|3wv|e0|t|Liessem;Lîssin
+Lieskau|DE||8r|3z2|wy|r
+Ledmozero|RU||9i|4yh|2gz|p|Liedmajärvi;Lietmajärvi;Ledmosero
+Lipsk|PL||a5|459|1t0|p|Liepinė
+Liessel|NL||8m|3yt|g6|o|Liesel
+Lierna|IT||9o|3jo|pv|m
+Sint-Martens-Lierde|BE||8t|3x4|an|j|Lierde-Saint-Martin
+Liers|BE||8t|3wt|fg|i
+Liesingtal|AT||a2|3nj|15p|i|Liesingthal
+Liezele|BE||8t|3xu|bw|i
+Lietava|SK||8s|3sl|1fw|h
+Lièpvre|FR||9k|3q3|k8|h
+Leens|NL||8m|448|hq|h|Liens;Lèns
+Lieberose|DE||8r|40e|13q|g|Luboraz;Līberoze
+Ließem|DE||8r|3wp|jw|g
+Liétor|ES||9d|2z2|-5f|g|Liéto
+Liesse-Notre-Dame|FR||9k|3tu|ak|f
+Liergues|FR||9k|3jp|cy|f
+Lierop|NL||8m|3yu|fs|f
+Liebstadt|DE||8r|3xa|12i|e|Lībštate
+Liebschwitz|DE||8r|3x7|xl|d
+Lieupleu|CI||0|jq|-mj|d|Liapleu
+Lieu-Saint-Amand|FR||9k|3vn|9b|d
+Lieurey|FR||9k|3sr|1e|d
+Liesberg|CH||a7|3no|kn|c
+Lieser|DE||8r|3uo|ji|c
+Lieuran-lès-Béziers|FR||9k|3cm|90|b
+Liezēre|LV||9n|4ee|20e|a|Liyezere
+Lianshan|CN|Hunan|7i|22g|8gq|a|Lyan’shan’;Lien-shan
+Lubrza|PL|Lubusz|a5|41a|16w|a|Liebenau bei Schwiebus;Liebenau
+Liernu|BE||8t|3wi|df|9
+Liedolo|IT||9o|3j7|wu|9
+Liebenscheid|DE||8r|3wu|mi|9
+Liepgarten|DE||8r|458|12z|9
+Liebensdorf|AT||a2|3mi|179|9
+Liepe|DE||8r|42u|12t|8
+Lieserbrücke|AT||a2|3m3|11g|8
+Liebsdorf|DE||8r|3x1|xf|8
+Lietzen|DE||8r|41r|13u|8
+Liebenfels|AT||a2|3lu|13p|8
+Lieblingshof|DE||8r|463|y9|7
+Vrouwenparochie|NL||8m|440|fu|7|Lieve Vrouwe Parochie;Froubuorren
+Liernais|FR||9k|3n5|bw|7
+Lielahti|FI||92|4qw|1tr|7|Lielax
+Liebistorf|CH||a7|3mb|k0|7
+Liesfeld|AT||a2|3nw|xc|6
+Lieuron|FR||9k|3ox|-5e|6|Luzron
+Liessow|DE||8r|45p|ya|6
+Lenin|BY||9g|41e|24d|6|Lyenin;Lienin
+Liesle|FR||9k|3mq|g5|6
+Lieren|NL||8m|40w|gn|6|Lirenas
+Liebres de Suárez|MX||41|1kp|-7vc|5
+Lieuvillers|FR||9k|3tf|6y|5
+Lei|IT||9o|33z|os|5|Lien
+Liebshausen|DE||8r|3uz|l7|5
+Lièvremont|FR||9k|3mh|hu|5
+Lierschied|DE||8r|3vd|lj|5|Lierscheid

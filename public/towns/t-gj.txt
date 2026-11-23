@@ -1,0 +1,31 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Jinzhou|CN|Liaoning|7i|367|9ci|brg|Jintsjou;Ťin-čou;Ĝjinĝou;Dzindžou;Cẩm Châu;Gīng-ciŭ;Kím-chiu-chhī
+Jiaozuo|CN||7i|2pw|8qk|6oe|Ťiao-cuo;Ĝjaoĝuo;Tiêu Tác;Ciĕu-cáuk;Chiau-chok-chhī
+Jiamusi|CN||7i|3m0|a1z|48n|Ťia-mu-s’;Gjamusi;Dziamusi;Giai Mộc Tư;Gă-mŭk-sṳ̆;Ka-bo̍k-su-chhī
+Đồng Xoài|VN||6h|w1|88w|1ao|Gjong Xoai;Cong Xoai;Dong Xoa;Dong Xoi
+Győr|HU||8v|3og|1d0|zx|Raab;Arrabona;Dėras;Jura;Ģēra;Gjur;Iaurinum;Djor;Đer;Javarin
+Gyumri|AM||80|35b|3dt|vv|Kumayri;Gjumri;Gumru;Gumri;Giumri;Gjoemri;Ghiumri;Leninakan;Gumry;Kyumayri;Gimri;Kyumri;Kümri
+Gjakovë|XK||8q|39q|1kr|q6|Gjakova;Đakovica
+Gjilan|XK||8q|39y|1nn|ef|Gnjilane;Gilan;Gniljane
+Gjorče Petro|MK||9u|38p|1nb|be|Gorče Petrov;Djorče Petrov
+Gjirokastër|AL||9y|33c|1jy|6i|Arghirocastru;Gjirokastra;Argirocastro;Đirokastra;Girokasteris;Argyrocastrum;Jirokaster;Cirokastra;Arghyrocastro;Gjinokastra;Gjinokastrer;Agirocastro;Gjinokastre;Gjinokastër;Argyrokastro;Gjirokastrë
+Gevgelija|MK||9u|36a|1qi|5r|Guevgueliya;Gjevgjelia;Gevgeliya;Gewgelija;Gyevgyelija;Gevgeli;Gevgelia
+Gjøvik|NO||9j|4ow|tp|4w|Jovikas
+Gjellerup|DK|Central Jutland|8y|4c0|s5|36|Gellerup
+Gjellerup|DK|Central Jutland|8y|4bz|p5|11|Gellerup
+Gjinkar|AL||9y|33o|1kp|w|Gjinakar
+Gedved|DK||8y|4bd|rd|p|Gjedved
+Gørlev|DK||8y|4aa|v7|o|Gjörlev
+Gjadër, Dajc|AL||9y|38c|1if|k
+Gevninge|DK||8y|4al|x8|g|Gjevninge
+Gjinoc|XK||8q|39k|1lu|g|Ðinovce;Gjinovc;Džinovce;Gjinofc
+Gjern|DK||8y|4c7|r2|g|Gern
+Gjoa Haven|CA||29|5an|-7ec|d|Uqsuqtuuq
+Gjøl|DK||8y|4ej|r0|9|Gøl;Giöl
+Gedsted|DK||8y|4dh|py|9|Giedsted;Gjedsted
+Gjerbës|AL||9y|34v|1k9|8
+Ðurmanec|HR||a6|3kc|180|8|Gjurmanec;Djurmanec
+Gedser|DK||8y|47m|x5|6|Gjedser
+Gjoroven|AL||9y|34y|1jd|5|Gjerovan;Gjiroven;Gjeroveni;Gjeroven
+Ǵavato|MK||9u|364|1mq|5|Đavato;Ðavat;Džavato;Djavato;Gjavato

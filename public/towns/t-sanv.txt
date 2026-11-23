@@ -1,0 +1,130 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanwei|CN||7i|1ra|8wf|3sm|Šan-wej;San-mî-sṳ;Sán Vĩ;Sáng-muōi
+São Vicente|BR|São Paulo|4w|-1uk|-3kv|2lz|San Visentė
+Chicoloapan de Juárez|MX||41|1hy|-7mq|1c1|San Vicente Chicoloapan;San Vicente Chiloloapan
+Barakaldo|ES||9d|3ca|-8b|rw|Baracaldo;Sanbi;San Bizente;Done Bikendi;San Vicente de Baracaldo
+San Vicente|AR|Buenos Aires|1l|-2pa|-4ia|p0
+San Vicent del Raspeig|ES||9d|2yo|-1h|fr|San Vicente del Raspeig;Sant Vicent del Raspeig;San Vicente;Sanvi
+San Vicente de Tagua Tagua|CL||4u|-2no|-5hg|c8|San Vicente de Taguatagua
+San Vicente|SV||2u|11w|-6um|bj|San Visente;São Vicente;San Vincente
+San Vicente|AR|Misiones|1n|-21y|-46d|am
+San Vicente|CR||2i|ro|-6hh|9k
+San Vicente de Moravia|CR||2i|ro|-6hh|9k
+San Vicente|AR|Misiones|1n|-230|-47c|84
+San Vicente de Cañete|PE||3o|-10c|-5w7|73
+San Vicente|CL||4u|-2nn|-5hg|6a
+San Vicente|CO||27|hh|-5t9|51
+San Vito dei Normanni|IT||9o|34y|1d7|4w|San Vito de' Normanni
+San Vicente|PH|Central Luzon|71|16h|9b5|4h
+San Vicente|MX|Nayarit|21|1ln|-84d|3z
+San Vicente|PA|Panamá|4g|pc|-654|3x
+San Vito al Tagliamento|IT||9o|3jk|zq|3i|San Vit dal Tiliment
+San Vicente de Chucurí|CO||27|j4|-5nx|35
+San Valentino Torio|IT||9o|35b|14k|2l
+San Vendemiano|IT||9o|3jh|yb|2g
+San Vittore Olona|IT||9o|3in|ou|2a
+Sant Vicenç de Castellet|ES||9d|37r|57|29|San Vicente de Castellet
+San Vicente Pacaya|GT||32|141|-6zs|20
+San Vicente|PH|Central Luzon|71|169|9bm|1w
+San Vicente|PH|Central Luzon|71|15j|9bf|1s
+San Vicente Tancuayalab|MX||41|1oc|-7lv|1s
+San Vincenzo|IT|Tuscany|9o|3bp|ta|1q
+San Vitaliano|IT||9o|35o|147|1p
+San Vendemiano-Fossamerlo|IT||9o|3jh|y9|1o
+Sant Vicenç de Montalt|ES||9d|37i|6z|1o|San Vicente de Mont-Alt
+San Víctor Arriba|DO||4v|1i4|-5fy|1k
+Sanvordem|IN||6t|16e|5pw|1f|Sanvarden
+San Vicente|MX|Nayarit|3x|1oz|-84i|1a
+San Vicente|PH|Mimaropa|71|t9|979|1a
+San Vicente|PH|Bicol Region|71|137|9hb|19
+San Vicente|MX|Baja California|58|2f1|-8yx|18
+Sanvignes-les-Mines|FR||9k|3lm|bx|18
+San Vicente|PH|Bicol Region|71|119|9iu|17
+San Vicente de la Barquera|ES||9d|3cj|-c8|16|San Vicente la Barquera
+San Vito|CR||2i|oi|-6eh|14
+San Vicente Coatlán|MX||41|19j|-7h0|10
+San Vicente Centenario|HN||56|15d|-6t9|10
+A Baña|ES||9d|3bc|-oc|z|San Vicenzo
+San Vito|IT|Sardinia|9o|31k|qi|y
+San Vicente|PH|Bicol Region|71|11d|9ip|y|San Vincente
+San Vigilio|IT|Lombardy|9o|3ip|sb|y
+San Vito Romano|IT||9o|38c|102|x
+San Valentino|IT||9o|3j7|119|x
+San Vicente|PH|Cagayan Valley|71|1ff|9fb|x|San Vincente;San Vincent
+San Vicente|PH|Soccsksargen|71|hx|9mm|w
+San Vito di Leguzzano|IT||9o|3iw|vn|w
+San Vicente|PH|Calabarzon|71|12m|9fg|w
+San Vicente la Mesilla|MX||41|18y|-74d|u
+San Vicente|PH|Bicol Region|71|11p|9ht|t
+San Vito Lo Capo|IT||9o|2y1|ze|r|San Vito lo Cape
+San Vincente|PH||71|119|9cm|r|San Vicente
+San Vicente|PH|Bicol Region|71|122|9i8|r
+San Vicente Boquerón|MX||41|1es|-7ke|r
+San Vicente Chimalhuacán|MX||41|1gu|-7mg|q
+San Vicente|PH|Eastern Visayas|71|y3|9kq|p
+San Vicente|PH|Bicol Region|71|10u|9iv|o
+San Vicente|PH|Northern Mindanao|71|l9|9nb|n
+San Vicente Ferrer|MX||41|1ll|-7qr|m
+San Vicente|PH|Eastern Visayas|71|uw|9m1|l
+San Vero Milis|IT||9o|335|nw|l
+San Vicente|PH|Bicol Region|71|102|9jy|k
+San Vito Chietino|IT||9o|39h|144|k
+San Vincenzo|IT|Emilia-Romagna|9o|3ga|vs|j
+San Vicente Zoyatlán|MX||41|1c4|-7l8|j
+San Vicente|MX|Guerrero|41|1cn|-7ow|j
+San Vicente de Bique|PA||4g|os|-65b|i
+San Vicente|MX|Guanajuato|41|1lv|-7ti|h
+San Vittore|IT|Lombardy|9o|3kn|q2|h
+San Venanzio|IT|Emilia-Romagna|9o|3gb|vs|g
+San Vito Sullo Ionio|IT||9o|2zj|19l|g|San Vito sull'Jonio;San Vito sul Ionio
+San Vito|IT|Veneto|9o|3l2|xx|f
+San Vito|IT|Veneto|9o|3j4|x4|f
+San Vigilio|IT|Trentino-Alto Adige|9o|3lq|x5|e|Sankt Vigil;St. Vigil in Enneberg
+San Vicente el Alto|MX||41|1l5|-7q8|e|San Vicente
+San Vito al Mantico|IT||9o|3ib|u9|e
+San Vicente de Juárez|MX||41|1fw|-7my|e|Las Piedras
+San Vito-Cerreto|IT||9o|3ea|s9|d
+San Vicente Coyotepec|MX||41|1f4|-7jr|d
+San Vicente Lachixío|MX||41|1ae|-7hi|d|San Vicente Lachixlo
+San Vicente de la Sonsierra|ES||9d|3a8|-7o|c|San Vincente de la Sonsierra
+San Vicente (Calpulalpan Tercera Manzana)|MX||41|1jo|-7os|c
+San Vicente Palapa|MX||41|1ew|-7o5|b
+San Victor|BZ||24|1eq|-6u2|b
+San Vito|IT|Emilia-Romagna|9o|3fs|uh|b
+Santa María Lachixío|MX||41|1ah|-7hi|b|San Vicente Lachixlo
+San Vito|IT|Veneto|9o|3i6|x8|b
+San Vicente|MX|Jalisco|41|1kr|-7x6|b
+San Vito al Torre|IT||9o|3ji|116|b|Sant Vît de Tor;San Vit de Tor
+San Valentino in Abruzzo Citeriore|IT||9o|39b|12v|a
+San Vicente|MX|Jalisco|41|1il|-7yt|a
+San Vicente Piñas|MX||41|1an|-7ke|a
+San Vicente de Flores|MX||41|1la|-7t9|a|San Vicente Flores
+San Venanzo|IT||9o|3b3|y3|a|Castrum Sancti Venantii;San Venanzu
+San Vicente de Paúl|PE||3o|-jg|-60g|a
+San Vito di Fagagna|IT||9o|3k1|10b|a|Sant Vît di Feagne;San Vit di Feagne
+San Vitale Grande|IT||9o|3fr|vd|a
+San Vittore del Lazio|IT||9o|376|12p|9
+San Vicente de Garma (Garma)|MX||41|1kr|-7t5|9
+San Vicente|MX|Guanajuato|41|1kv|-7ra|9
+San Vicente|MX|Michoacán|41|1hk|-7ux|8
+San Vito|IT|Lombardy|9o|3i6|p1|8
+San Valentín|PA||4g|n9|-6dy|8
+San Vicente de Chupaderos|MX||44|1v0|-82v|8|San Vicente Chupaderos
+San Vittore|CH||a7|3kg|pb|7|S. Vittore
+San Vincenzo la Costa|IT||9o|31d|18v|7
+San Vitero|ES||9d|382|-hn|7
+San Vicente|MX|San Luis Potosí|41|1p1|-7p4|7
+San Vicente|PA|Chiriquí Province|4g|nv|-6dk|7
+San Vincenzo a Torri|IT||9o|3de|uu|6
+San Vittore|IT|Veneto|9o|3i7|v6|6
+San Valentino alla Muta|IT||9o|3lw|t9|6|Sankt Valentin auf der Haide;San Valentino alla Mutta
+San Vicente Amole|MX||41|1c7|-7m7|6
+San Vitale|IT||9o|3bl|z4|6
+San Vicente Yogodoy|MX||41|18n|-7ge|6|San Vicente Yogondoy
+San Vincenzo Valle Roveto Superiore|IT||9o|387|11k|6
+San Vicente el Chico|MX||41|1iy|-7r4|6|Manzana de San Vicente
+San Vicente|MX|Chiapas|41|1b4|-764|5
+San Vicente de la Cabeza|ES||9d|385|-hd|5
+Sanvensa|FR||9k|3f1|5p|5
+San Vicente de Jesús|MX||41|1c0|-7qj|5
+San Venanzio|IT|Emilia-Romagna|9o|3fm|u6|5

@@ -1,0 +1,34 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Samara|RU||9p|43t|3va|8z6|Kuibyshev;Kuybyshev;Kuibyschew;Samaro;Szamara;Samar
+Cuiabá|BR||2k|-17c|-4bu|4rp|Kujaba;Kuyaba;Culaba;Cuyabá
+Guyuan|CN||7i|2s1|878|36f|Ku-yüan
+Smolyanskyi|UA||98|3pd|2wu|wg|Smolyanskyy rayon;Smolianskyy rayon;Smolianskyi rayon;Smolianskyi raion;Smolianskyy raion;Smolyanskyy raion;Smolianskyi;Smolianskyy;Smolyanskyy;Kuybyshevskyi rayon
+Kuybyshev|RU||75|4a1|61k|df|Kujbysjev;Kuibyschew;Kúibyshev;Kouïbychev;Kujbyšev;Kujbiŝev;Kuibõšev;Kujbyszew;Kujbyšew
+Koysinceq|IQ||5z|2s8|3fz|ci|Koysinjaq;Koye;Kou Senjaq;Koy Senjaq;Koi Sanjaq;Kūysinjaq;Koisnjaq
+Kuyera|ET||2|ka|2zd|5v
+Kuytun|RU||6k|46y|7tz|2y|Kujtun;Kuytuk;Kuitun
+Kuyeda|RU||7z|4cr|4af|2o|Kujeda;Kueda
+Bolgar|RU||9i|48p|3s7|2e|Kuybyshev;Bulgar
+Kuyucak|TR|Aydın|94|2xb|272|1y
+Bilmak|UA||98|3nk|2tt|1w|Kouïbychévé;Kuybysheve
+Kuybyshevo|RU||9i|3ot|303|1m|Kujbysjevo
+Cuijk|NL||8m|3zp|gc|10|Kuuk;Kuyc;Kuic;Kuk;Ceuclum;Kuyk
+Haghartsin|AM||80|35a|3gx|10|Kuybyshev;Haxarcin;Jarkhech;Kuybishev;Haghardzin
+Kuyular|TR||94|2yr|33w|u
+Kuybyshevskiy Zaton|RU||9i|498|3sl|t|Kujbysjevskij-Zaton
+Albat|UA||9t|3fz|2m3|p|Kuybysheve
+Kuyulusebil|TR||94|2zd|2id|k
+Kūy-e Montaz̧erī|IR||7o|2es|3r7|j
+Kuyulu|TR|Adıyaman Province|94|2w7|2y7|f
+Kuyalnyk|UA||98|3ol|2a4|f|Kouïalnyk;Kuyal’nik
+Kuyulu|TR|Aydın|94|2x4|257|e
+Vyshneve|UA|Poltava|98|3uw|2in|d|Kuybysheve;Kuibysheve;Kuybyshevo
+Kuyvozi|RU||9i|4nk|2ck|c|Kujvozi;Kuivaisi
+Kuyuköy|TR||94|2xz|31d|a
+Kuyucak|TR|Isparta|94|2y7|2er|7
+Kuytuca|TR||94|35a|3aq|7
+Kuyumcular|TR||94|2uv|2pn|6
+Kuytucak|TR||94|2wf|2r7|6
+Kuyulu|TR|Mardin|94|2v8|35b|5
+Pokrovske|UA|Poltava|98|3uu|2mk|5|Kuybysheve;Kuibysheve;Kuybyshevo

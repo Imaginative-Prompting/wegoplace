@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wezep|NL||8m|41q|go|3v|Vezepas
+Wezembeek-Oppem|BE||8t|3x8|ch|3o
+Wezemaal|BE||8t|3xj|d8|18|Wesemael
+Wez-Velvain|BE||8t|3wf|9f|a|Wez-Welvain

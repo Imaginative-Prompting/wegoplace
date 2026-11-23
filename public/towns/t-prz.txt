@@ -1,0 +1,67 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Przemyśl|PL||a5|3ua|1r9|im|Peremyšlis;Premislia;Pšemisla;Přemyšl;Peremyshl’;Pshemys’l’
+Přerov|CZ||9m|3te|1ch|b9|Przerów;Pršerova;Pršerovas
+Příbram|CZ||9m|3u1|12x|94|Przybram;Pršybramas
+Przymorze Wielkie|PL||a5|475|1fo|6s
+Przedmieście Oławskie|PL||a5|3xy|1bd|5n
+Przasnysz|PL||a5|43a|1m0|4n|Pšasniša;Pšasnyšas
+Przeworsk|PL||a5|3v2|1qh|4e|Pševorska;Převorsk
+Przymorze Małe|PL||a5|475|1fm|45
+Przedmieście Świdnickie|PL||a5|3xy|1bb|3v
+Peremyshliany|UA||98|3tz|1w8|21|Przemyślany;Przemyśiany;Przemysliane;Peremyshlyany
+Przemków|PL||a5|3z5|17v|1t|Pšemkova
+Przysucha|PL||a5|3yo|1lb|1q|Pšisuha
+Przeciszów|PL||a5|3ux|1hu|14
+Przysietnica|PL||a5|3u5|1p9|14
+Przedbórz|PL||a5|3xx|1j7|12|Comuna de Przedbór
+Przeróbka|PL||a5|471|1fw|10
+Przecław|PL|West Pomerania|a5|449|147|y
+Przyszowice|PL||a5|3vl|1g3|w
+Przygodzice|PL||a5|3zb|1di|u
+Przechlewo|PL||a5|45g|1bx|s
+Przytkowice|PL||a5|3uo|1ip|q
+Przytoczna|PL||a5|422|17k|o
+Przystajń|PL||a5|3xc|1fx|n
+Przeginia|PL||a5|3vk|1ip|l
+Przybyszówka|PL||a5|3v1|1ox|k
+Przędzel|PL||a5|3w9|1pq|i
+Przyborów|PL|Silesia|a5|3tu|1hv|i
+Przedecz|PL||a5|41d|1gi|i|Pšedečas;Pšedeča
+Przyborów|PL|Lesser Poland|a5|3uz|1le|i
+Przybiernów|PL||a5|45c|153|h
+Przywidz|PL||a5|46k|1ew|h|Gmina Przëwidz;Comuna de Przywid
+Przemęt|PL||a5|40h|19a|g|Przement;Priment
+Przecław|PL|Subcarpathia|a5|3vf|1no|g|Pšeclava
+Przodkowo|PL||a5|472|1et|d|Przedkòwò
+Przeworno|PL||a5|3wt|1bp|d
+Przyrów|PL||a5|3x4|1i9|c
+Przyborów|PL|Lubusz|a5|3zw|17t|c
+Przecieszyn|PL||a5|3uu|1h9|c
+Przedmieście Dubieckie|PL||a5|3ug|1q5|b
+Przytoczno|PL||a5|3ze|1pv|b
+Pržno|CZ|Moravian-Silesian Region|9m|3tt|1f0|b
+Przheval’skoye|RU||9i|4a7|2gh|a|Przjevalskoje
+Przybędza|PL||a5|3tv|1h5|a
+Przychojec|PL||a5|3vq|1q8|a
+Przytyk|PL||a5|3yz|1m3|a
+Przeginia Duchowna|PL||a5|3uy|1il|a
+Przybysławice|PL|Greater Poland|a5|3zn|1d7|a
+Przybysławice|PL|Lublin|a5|3yp|1pw|9
+Przewóz|PL||a5|3z0|15j|9|Přibuz
+Przerośl|PL||a5|46p|1qy|8|Prieraslis
+Jeziorzany|PL|Lublin|a5|3zc|1pw|8|Łysobyki;Przetoczno
+Przybyszew|PL||a5|3zi|1lx|8
+Przyłęk|PL|Lower Silesia|a5|3wc|1am|8
+Przelewice|PL||a5|43i|15w|8
+Przyborów|PL|Subcarpathia|a5|3uz|1na|7
+Przybynów|PL||a5|3wp|1ho|7
+Przesmyki|PL||a5|417|1qq|7
+Pržno|CZ|Zlín|9m|3t7|1du|7
+Przedmość|PL||a5|3xx|1f8|7
+Przejazdowo|PL||a5|46x|1g2|6
+Przyłęk|PL|Subcarpathia|a5|3vo|1o1|6
+Przyłęk|PL|Mazovia|a5|3yj|1of|6
+Przybysławice|PL|Lesser Poland|a5|3vc|1ls|6
+Przeginia Narodowa|PL||a5|3ux|1im|5
+Przecza|PL||a5|3wx|1d2|5
+Przykona|PL||a5|40e|1fp|5

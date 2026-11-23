@@ -1,0 +1,159 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Arkhangel’sk|RU||9i|4zb|34n|2p5|Arkhangelsk;Arkangeli;Arhankeli;Arhangeljsk;Archangelsk;Arcángel;Arxanqelsk;Arcangelo;Archangel
+Archway|GB||9b|3z9|-d|1nx
+Arcahaie|HT|Ouest|4j|1g5|-5lf|107|Akayè;Lakayè;Archaie
+Erciş|TR||94|30f|3cg|pj|Arcis
+Lüleburgaz|TR||94|370|240|p9|Arcadiopolis;Bergula;Berkulen;Bergoule;Ljuleburgas;Arkadioupolis;Lule Burgas
+Pori|FI||92|4qs|1oj|n4|Björneborg;Arctopolis;Bërneborg
+Arcoverde|BR||4p|-ne|-2ux|mx
+Arcadia|US|California|3p|2mu|-93w|g8|Arkadiya;Arkadija
+Arcot|IN||6t|zv|64c|fk
+Alcamo|IT||9o|2xi|100|cc|Àrcamu
+Arcella|IT||9o|3i6|x1|c8
+Arcos|BR||4w|-1kc|-3ii|c5
+Arshyntseve|UA||9t|3hu|2t7|9l|Arshintsevo;Komysh-Burun;Kamysch-Burun;Komysch-Burun;Kamych-Bouroun;Komych-Bouroun;Archyntseve;Archintsevo;Komish-Burun
+Asilah|MA||d|2qj|-gr|9g|Arcila;Colonia Augusti Iulia Constantia Zilil;Augusta Zilil;Assilah;Arzila;Assila;Asila;Arzīlah;Arcilas;Arsila
+Arcola East|CA||4q|3w3|-82e|9d
+Arcos de la Frontera|ES||9d|2u3|-g5|8o
+Arcos|ES||9d|34a|-a2|72
+Arcos de Valdevez|PT||99|389|-ne|6c|Arcos de Vale de Vez;Arcos de Valle de Vez
+Arcelia|MX||41|1ew|-7qk|57
+Archena|ES||9d|2xw|-3m|52
+Arcata|US||3p|35j|-9ko|4y
+Garching|DE||8r|3q1|wd|4x|Arching
+Arcueil|FR||9k|3rk|6h|4t
+Arsk|RU||9i|4bt|3uk|4s|Arça;Apça
+Arcore|IT||9o|3ir|pw|4n|Arculi
+Artsyz|UA||98|3jr|29r|40|Arciz;Alt-Arzis;Artsız;Arcyzas;Arcyz;Brienne
+Arcozelo|PT||99|362|-nz|40|Arcozello
+Arcachon|FR||9k|3g2|-39|3f|Arcaishon;Arkašonas
+L'Archet|FR||9k|3dd|k3|3e|Archet
+Arco|IT||9o|3jk|u9|3d
+Arcadas|BR||4w|-1r4|-3m5|38
+Archdale|US||48|2rr|-665|38
+Archaía Olympía|GR||8p|2wl|1o3|34|Olympia;Ancient Olympia;Olympie;Olymbía
+Arkadelphia|US||2f|2ms|-76h|2z|Archadelphia;Arcadelphia
+Arkhara|RU||7x|3ta|a1c|2w|Archara;Arhara;Arjara
+Arceburgo|BR||4w|-1nc|-3me|2k
+Arcen|NL||8m|3z0|h6|2g|Arsen;Árse
+Archidona|ES||9d|2v2|-c7|2d
+Arcadia|US|Florida|48|23m|-6be|27
+Archángelos|GR|South Aegean|8p|2sl|263|26|Arkhángelos
+Arcisate|IT||9o|3je|on|24
+Archidona|EC||33|-2j|-605|21
+Archbald|US||48|379|-5tu|1y
+Arcos|PT|Braga|99|37c|-ne|1w
+Arcos|PT|Aveiro|99|34d|-ng|1v
+Arconate|IT||9o|3ii|ol|1t
+Arçman|TM||5x|2z2|4es|1o|Archman
+Arcola|IT||9o|3ek|rj|1n|Arcòa
+Archer Lodge|US||48|2r5|-61q|1b|Archers Lodge
+Archers Post|KE||16|1s|2wn|1a
+Arcene|IT||9o|3im|qp|1a
+Archbold|US||48|37c|-6i7|17|Archibald;Archbald
+Arceto|IT||9o|3fy|ts|17
+Arcahaie|HT|Nord-Ouest|4j|1j2|-5mk|15
+Arcila|MX||41|1kp|-7q3|13
+Arcadia|CA||43|3j9|-53i|11
+Arcole|IT||9o|3i0|vd|11
+Arcangel|PH||71|w2|9fv|z
+Arcade|IT||9o|3j6|xy|y
+Arco da Calheta|PT||86|2iw|-1bn|w
+Artsvanist|AM||80|33j|3if|v|Arcvanist
+Arcadia|US|Wisconsin|2f|3ex|-726|u|Arkadio
+Arc-lès-Gray|FR||9k|3nu|fj|u
+Arcis-sur-Aube|FR||9k|3qt|bi|t|Artiaca
+Arcangues|FR||9k|3co|-48|t|Arrangoitze;Arcangós
+Arcola|US|Illinois|2f|328|-6tb|t
+Arcadia|US|Louisiana|2f|2if|-764|t
+Arce|ES||9d|3cl|-ay|t
+Artsvaberd|AM||80|35g|3ib|s|Arcvaberd;Karakala;Gharaghala;Gharaghaya;Gharaghoylu;Ghrghi
+Lékhaio|GR||8p|2xd|1rh|r|Lechaio;Lékheo;Lechaion;Archaío Limáni;Lehaja;Lecheo;Lequeo;Lechaeum;Lehaj;Lechajon;Lequeu
+Arcadia|US|South Carolina|48|2p4|-6br|q|Arkadia
+El Lucero|MX||44|1zw|-7z8|q|Arcinas;Lucero
+Arcugnano-Torri|IT||9o|3ie|w3|p|Arcugnano
+Arc-sur-Tille|FR||9k|3ni|ef|o
+Arçonnay|FR||9k|3qg|9|m
+Arce|IT||9o|37i|11r|m|Arx;Arci
+Arcanum|US||48|333|-6iv|l
+Arco-Íris|BR||4w|-1oh|-3w6|k
+Arcidosso|IT||9o|3b3|w2|k
+Arcade|US|New York|48|3a5|-61u|k
+Arkhaía Kórinthos|GR||8p|2xb|1rk|j|Old Corinth;Ancient Corinth;Archaia Korinthos
+Arcos de Jalón|ES||9d|36i|-6b|j|Arcos de Xalón
+Arcavacata|IT||9o|31c|191|i
+Arches|FR||9k|3po|i5|i
+Arcade|US|Georgia|48|2mo|-6g4|i
+Archer City|US||2f|2lc|-7lz|i
+Arcola|US|Texas|2f|29y|-7d7|h
+Archiş|RO||8u|3l4|1p9|h
+Arcadia|US|Indiana|38|33m|-6my|h
+Arcinas|MX||44|1zm|-7z9|g
+Arch|CH||a7|3n1|kn|g
+Archennes|BE||8t|3wz|cz|g
+Arcabuco|CO||27|fz|-5o0|g
+Arcani|RO||8u|3h8|1s9|e
+Arcelia del Progreso|MX||41|1ai|-7m0|e|Arcelia de Rodríguez
+Arc-et-Senans|FR||9k|3mn|g1|e
+Arcevia|IT||9o|3cu|zz|e
+Archamps|FR||9k|3k5|h1|e
+Arcadia|AU||8l|-2le|bnj|e
+Arcadia vale|AU||8l|-2ju|bp2|d
+Arcuș|RO||8u|3ji|1zm|c|Árkos
+Arcey|FR||9k|3o0|ii|c
+Archie|US||2f|2yw|-7a3|c
+Archontochóri|GR||8p|2zi|1mg|c
+Archer|US||48|2a1|-6d8|c
+Le Vieux-Marché|FR||9k|3r0|-9l|b|Ar C'houerc'had
+Irchonwelz|BE||8t|3wm|af|b|Archonwelz
+Arcinazzo Romano|IT||9o|38c|10f|b
+Archis|AM||80|36c|3go|b
+Arjut|AM||80|35i|3fa|b|Archut;Arjiti
+Arcadia|US|Maryland|48|319|-5wp|b
+Archigny|FR||9k|3ln|1t|b|Archinniacum
+Archettes|FR||9k|3po|i6|a
+Le Gâvre|FR||9k|3o0|-4v|a|Gavr;Ar Chavr;Gâvre
+Arci-Empolitana|IT||9o|38j|zn|a
+Archaío Limáni|GR||8p|2xd|1rl|a|Arkhaio Limani
+Archi|IT|Sicily|9o|2y3|16f|a
+Archlebov|CZ||9m|3s8|1b8|9|Archlebau
+Arc-en-Barrois|FR||9k|3p7|dx|9
+Arshytsya|UA||98|3pd|1zg|9|Archytsia;Arșița
+Arcadia Lakes|US||48|2ml|-68w|9
+Arco|US||28|3d8|-8qq|9
+Arcambal|FR||9k|3fi|47|8
+Arctic Bay|CA||4o|5mw|-6kj|8
+Arcos|PT|Porto|99|370|-o3|8
+Archiac|FR||9k|3ig|-u|8
+Gâvres|FR||9k|3oh|-9b|8|Ar C'havr;Gavr;Gâvre
+Archiud|RO||8u|3m9|1vw|8|Arhiud
+Arcești Cot|RO||8u|3fi|1vf|8|Arcestii-Cot;Arceşti-Cot
+Archángelos|GR|Epirus|8p|30l|1li|8|Arkhángelos
+Archita|RO||8u|3ka|1xp|8
+La Chapelle-Neuve|FR||9k|3oy|-86|8|Ar Chapel-Nevez
+Arçon|FR||9k|3mf|hq|7
+Le Croisty|FR||9k|3pj|-9c|7|Ar C'hroesti
+Arcalia|RO||8u|3ms|1vp|7
+Arconciel|CH||a7|3lv|js|7|Castrum Arconciacum
+Arconsat|FR||9k|3jh|ab|7
+Arcicóllar|ES||9d|33a|-bg|7
+Arçais|FR||9k|3km|-1x|6
+Arc-Ainières|BE||8t|3wu|9v|6
+ArchaÍes Kleonés|GR||8p|2x2|1r7|6
+Arces-Dilo|FR||9k|3pk|a0|6
+Le Cloître-Saint-Thégonnec|FR||9k|3qo|-aj|6|Ar C'hloastr-Plourin;Cloître-Saint-Thégonnec;Ar Chloastr-Plourin
+Arces|FR||9k|3ij|-2e|6
+Arceau|FR||9k|3nm|ef|6
+Arcadia|US|Ohio|48|367|-6g0|6
+Archi|IT|Abruzzo|9o|38x|13y|6
+Le Quillio|FR||9k|3q0|-80|6|Ar C'hillioù
+Arcadia|US|Missouri|2f|2wf|-6zr|6
+Le Cambout|FR||9k|3pi|-79|6|Ar C'hembod
+Archingeay|FR||9k|3jl|-1z|6
+Arc-sous-Cicon|FR||9k|3mp|hq|6
+Archángelos|GR|Central Macedonia|8p|364|1pw|5|Oșani;Ossiani;Arkhángelos
+La Chapelle-Gaceline|FR||9k|3oq|-5v|5|Ar Chapel-Wagelin
+Archid|RO||8u|3nj|1rx|5
+Arcești|RO||8u|3fj|1vb|5
+Archerfield|AU||8c|-24l|bt1|5

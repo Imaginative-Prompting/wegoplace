@@ -1,0 +1,9 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nagoya|JP||7q|2pq|akb|hzu|Nagoja;Nagojo;Nagoia;Naqoya
+Naqadeh|IR||7o|2uo|3i3|mo|Naghadeh;Naghdeh;Nagadeh
+Nagqu|CN||7i|2fg|73q|8c|Préfecture de Nagchu;Nagčhu;Nakchu;Nagchuka;Na-ch’ü;Naqu
+Naqādah|EG||c|1zy|2iw|7g|Naqāda
+En Nâqoûra|LB||64|2k0|2pm|6x|Naqoura;Naqura;An-Nakura;Nakura;An Nāqūrah;En-Naqourah;Enn Nâqoura;En Nakura;En Nāqūra
+Naqneh|IR||7o|2gp|3yl|2r
+Naque|BR||4w|-1hf|-39l|1r
+Náquera|ES||9d|325|-16|12

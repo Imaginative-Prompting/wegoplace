@@ -1,0 +1,136 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Victoria de Durango|MX||44|1uq|-82q|403|Durango;Durangas;Byen Durango
+Bielefeld|DE||8r|40j|np|2k7|Builefeld;Bīlefelde;Bīlifeld;Bylefeldas;Bilivelda
+Bydgoszcz|PL||a5|43k|1e1|2jo|Bydhošť;Bidgošča;Brombarg;Bydgoščius;Bydgostia;Bromberch;Bıdgoşç;Bëdgòszcza;Bıdqoş;Bromberg;Bydgoshch
+Białystok|PL||a5|43l|1sc|2a5|Bjalistoko;Belostoko;Balstogė;Bjalistoka;Bjołystok;Belostok;Bialastoq;Bjelostock;Byelostok
+Bytom|PL||a5|3vv|1gl|1gk|Beuthen;Bitoma;Bıtom;Bytůń;Bithomia
+Besançon|FR||9k|3n9|gq|zo|Bisanz;Besanzón;Bezanson;Bezansono;Chrysopolis;Besanzone;Bysantium;Vesontio;Vesanção;Bezansona;Besanção;Bisontion;Besontio;Vesuntio;Bezansonas
+Buchanan|LR||15|gc|-rx|l3|Fish Town;Grand Bassa;Byukenen;Biukenenas
+Ishim|RU||7z|4bv|5d1|iu|Ischim;Iŝim;Isjim;Ichim;Byen Isjim;Iszym;Ixim
+Byasanagar|IN||6t|1m8|6n9|ft
+Biel/Bienne|CH||a7|3my|k5|fb|Bienne;Biel-Bienne;Biel;Bienna;Bielo;Belna;Bylis
+Belaya Kalitva|RU||9i|3pu|35a|d7|Belaïa Kalitva;Belaja Kalitva;Bjelaja Kalitwa;Biełaja Kalitwa;Byelaya Kalitva;Belaja Kalitwa
+Pechora|RU||9i|50z|4ey|ct|Peczora;Petschora;Peĉora;Petšora;Petsjora;Petchora;Petxora;Byen Petsjora;Pečor;Petjora
+Byumba|RW||s|-4e|2bj|bz|Bjumba;Biumba
+Byādgi|IN||6t|14r|5tp|8c
+Byaroza|BY||9g|41x|1xe|7s|Berëza;Biaroza
+Bystrc|CZ||9m|3sr|19x|6v|Bystre
+Byblos|LB||64|2ms|2r1|5s|Biblos;Gebal;Gubla;Biblo;Jbeil;Büblosz;Dschubail;Bibl;Cübeyl;Jebeil;Byblus;Jebaïl;Jbaïl;Bīblūs
+Byndoor|IN||6t|12j|5rb|5n|Baindur;Baindūri
+Byford|AU||8k|-2hi|8y9|59
+Vyselki|RU||9i|3im|326|57|Byselki
+Bianouan|CI||0|gp|-8v|4w|Byanouan;Bianuan
+Bytów|PL||a5|46h|1cl|4n|Bëtowò;Bitova;Bütow
+Bykhov|BY||9g|44o|2bz|4j|Bykhaw;Bychau;Byh’au;Bychavas;Bychów
+Bebra|DE||8r|3xl|r8|44|Byvera
+Belomorsk|RU||9i|4z9|2ok|3e|Biełomorsk;Sorokka;Šuomua;Byelomorsk;Bjelomorsk;Sorokhan;Soroka
+Byureghavan|AM||80|33z|3fw|3a|Bjureghawan;Biurehavanas;Bjureghavan;Bjuregawan;Biureghawan;Byurexavan;Byuregavan
+Byarozawka|BY||9g|458|1yu|3a|Berëzovka
+Byram|US|Mississippi|2f|2he|-6yp|37
+Bytča|SK||8s|3sq|1fk|37|Nagybiccse;Bitča
+Bierazino|BY||9g|45k|28j|33|Byerazino;Berezyna;Berezino
+Byelaazyorsk|BY||9g|41r|1xy|32|Beloozersk
+Bykovo|RU|Moscow Oblast|9i|4ak|2xs|2z
+Bystrzyca Kłodzka|PL||a5|3vq|1a8|2w|Habelschwerdt;Bistšica Klodzka
+Byala Slatina|BG||9v|3cr|1uh|2v|Bjela Slatina;Byela-Slatina;Bela Slatina;Biela Slatina
+Belynichi|BY||9g|460|2aj|2o|Byalynichy;Byelinichi;Bialyničy
+Bystřice nad Pernštejnem|CZ||9m|3tk|196|2i|Bistršice pie Pernštejnas
+Bykovo|RU|Volgograd Oblast|a4|3u9|3i3|2b|Bykowo
+Bystřice pod Hostýnem|CZ||9m|3t8|1d3|27|Bistršice pie Hostīna
+Byakabanda|UG||q|-22|2f9|24|Kyakabanda
+Belene|BG||9v|3d9|1xt|23|Byelene;Beleke;Bjelene
+Beshenkovichi|BY||9g|48w|29u|1w|Byeshankovichy;Bieszenkowicze;Beshenkobichy;Beshenkovichy
+Byron Bay|AU||8l|-27l|bup|1r
+Byron Center|US||2q|3ax|-6m4|1m
+Bylbasivka|UA||98|3ro|2w6|1m|Belbasovka;Bylbasovka;Bylasovka
+Belogradchik|BG||9v|3d7|1r0|1l|Byelogradchik;Bělogradčik;Belogradtgchik;Bélogradtchik;Bjelogradčik
+Byron|US|Minnesota|2f|3eb|-75d|1h
+Bychawa|PL||a5|3xq|1ql|1h|Bihava
+Bystřice|CZ|Moravian-Silesian Region|9m|3tw|1g0|1h
+Byron|US|Georgia|48|2ip|-6go|1f
+Bykov|RU||7f|3ng|b01|1b
+Bystryy Istok|RU||63|41h|6if|19|Bystryj Istok;Bystry Istok;Bystryiy Istok
+Bytosh’|RU||9i|45i|2mp|18|Bytosj;Bytosch;Bitoša;Bytoš';Bytoch;Bıtoş;Bitosj
+Bytom Odrzański|PL||a5|3zp|17y|18|Beuthen an Oder;Beuthen an der Oder;Beuthen;Bitoma Odžaņska
+Bytkiv|UA||98|3r3|1vz|18|Bitków
+Byurakan|AM||80|342|3ez|17|Biurakan;Burakan;Bjurakan
+Bistra|RO|Maramureş|8u|3oz|1v8|17|Petrovabisztra;Bystryi
+Byram|US|Connecticut|48|35w|-5ol|15
+Bystrom|US||3p|2wi|-9c3|14
+Bystřice|CZ|Central Bohemia|9m|3u5|14r|14
+Bystra|PL|Silesia|a5|3u8|1gy|13
+Bystrogorskiy|RU||9i|3px|36a|13|Bystrogorskij
+Bystrany|SK||8s|3rz|1lo|11
+Byczyna|PL||a5|3xz|1el|11|Bičina
+Byron|US|Illinois|2f|391|-6vy|10
+Belitsa|BG||9v|38j|1tg|w|Belița;Belica;Byelitsa;Blitsa;Belitso;Bjelica;Belitza;Beliza
+ByWard Market|CA||59|3i7|-5u9|v
+Byala Cherkva|BG||9v|3c0|1ya|u|Byela Cherkva;Bela Cherkva;Byala Cherkova;Byela-Cherkova
+Bystra|PL|Lesser Poland|a5|3tx|1iy|t
+Byrnes Mill|US||2f|2ys|-6zm|t
+Bardo|PL||a5|3wb|1ai|s|Byrdo
+Bykivnia|UA||98|3w7|2d7|r|Bykivnya
+Byahoml’|BY||9g|481|25y|p|Begoml';Begomlya
+Byesville|US||48|331|-6ai|o|Byes Mill
+Byron|US|New York|48|3bo|-60u|o
+Byala|BG||9v|3b3|25h|n|Beyala;Byela;Bjala
+Bystrzyca|PL|Lower Silesia|a5|3xk|1cc|m|Peisterwitz
+Belogor’ye|RU|Voronezh Oblast|9i|3w9|335|m|Belogorje;Byelogore
+Bylym|RU||9i|3cq|3bk|l|Byllym
+Bylas|US||4i|2k1|-8hw|k
+Bykivka|UA||98|3vp|25q|j|Bykovka
+Bystřany|CZ||9m|3wn|12i|i
+Bystryanka|RU||63|419|6mf|i|Bystrjanka
+Bynum|US||2f|2ld|-6ms|i
+Byske|SE||9w|50f|1mx|i
+Byrlivka|UA||98|3v4|2h4|h|Birlovka;Byrlovka
+Bystričany|SK||8s|3r6|1fg|h
+Bykovo|RU|Moscow Oblast|9i|4ai|2xs|h
+Bystré|CZ||9m|3tv|19f|h|Bistre
+Byauk Yoe|MM||7y|1am|7et|h|Pyauk-yo
+Bystra|PL|Lesser Poland|a5|3ty|1ml|f
+Byšice|CZ||9m|3vr|14l|f
+Byram|GB||9b|458|-3i|e
+Bryn Athyn|US||48|33h|-5sj|e|Byrn Athyn
+Bestyakh|RU||7x|4qh|9y0|e|Byastyakh
+Byera Village|VC||54|10u|-4ps|e|Bjera Vilidžas
+Bywong|AU||8l|-2po|bit|d
+Byfield|GB||9b|40y|-3h|d
+Byron|US|California|3p|2x7|-9dw|d
+Byhalia|US||2f|2ov|-6x5|d
+Byuravan|AM||80|336|3fo|c
+Bytnica|PL||a5|40v|165|c
+Dnipro Quarter|UA||98|3z5|2dg|c|Dniprovskyi kvartal;Byelhorodskyi kvartal;Bielhorodskyi kvartal;Bilhorodskyi kvartal
+Byng|US||2f|2ou|-7gj|c
+Bykhiv|UA||98|3zr|1y8|c|Bykhuv;Bykhov
+Byers|US||2p|32b|-81j|c
+Býšť|CZ||9m|3v9|187|b
+Bystrytsia|UA|Zakarpattia|98|3qn|1rf|b|Repede;Bystrytsya;Bystritsa
+Bystřec|CZ||9m|3ux|1a6|b
+Bystrytsia|UA|Ivano-Frankivsk|98|3qm|1vd|a|Bystritsa;Bystrytsya
+Bykle|NO||9j|4kv|kg|a
+Bystřička|CZ||9m|3ta|1dx|a
+Bystra|PL|Silesia|a5|3tu|1hb|9
+Bystrzyca|PL|Subcarpathia|a5|3uu|1od|9
+Bystrzyca|PL|Lublin|a5|3xn|1q9|9
+Byers Green|GB||9b|47y|-4l|9
+Byrdstown|US||2f|2tl|-6kh|8
+Bystřice pod Lopeníkem|CZ||9m|3s1|1dc|8
+Betta|RU||9i|3f9|2yn|8|Byetta
+Fruktove|UA|Sevastopol City|9t|3g4|2lc|7|Bel’bek;Belbek;Byelbyek;Bielbiek;Fruktovoye
+Bystrovany|CZ||9m|3ts|1c4|7
+Byelagruda|BY||9g|45g|1xx|7|Byelahruda;Belogruda
+Byriuky|UA||98|3oy|2xs|7|Byryuky
+Byans-sur-Doubs|FR||9k|3mv|g9|7
+Byurakn|AM||80|35j|3dg|7|Gyullibulag
+Byron|US|Wyoming|2p|3gg|-8df|6
+Bystritsa|RU||97|4il|3sq|6|Bystrits
+Bystročice|CZ||9m|3tm|1br|6
+Bystre|PL||a5|3vy|1q8|6
+Bystriivka|UA||98|3ug|29b|6
+Bystrzyca|PL|Lublin|a5|3zt|1pz|6
+Byron|US|Michigan|2q|3ay|-6h6|6
+Byromville|US||48|2hg|-6h3|5
+Býchory|CZ||9m|3v3|16f|5
+Bygdeå|SE||9w|4xy|1ly|5

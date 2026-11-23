@@ -1,0 +1,595 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ecatepec de Morelos|MX||41|1ig|-7n5|cp2|Ecatepec;Ekatepeko;Ecatepec Morelos
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Morelia|MX||41|1iq|-7t2|5qh|Morelija
+Morādābād|IN||6t|284|62u|5kb|Murādābād
+Morogoro|TZ||h|-iy|2wm|3my|Morogoras;Murogoro;Mrogoro
+Morioka|JP||7q|32a|aw3|28r
+Port Moresby|PG||bd|-qc|bcr|26t|Puerto Moresby;Port Morsbis;Pot Mosbi;Port Morsbi;Port-Moresbo;Pò Moresbi;Portus Moresbiensis;Portmorsbi
+Morvi|IN||6t|1re|5gs|1mh|Morbi
+Moreno Valley|US||3p|2ma|-91n|1kq|Moreno Valli;Moreno slėnis;Morenovaleja;Tééh Hodiłhił
+Morena|IN||6t|21m|60o|1jp
+Moratuwa|LK||68|it|65w|1ar|Moratuva
+Francisco Morato|BR||4w|-1so|-3lv|19v
+San Juan de los Morros|VE||2c|rj|-573|18p|San-Juan-de-los-Morros;San Juan de los Moros
+Delegación Cuajimalpa de Morelos|MX||41|1ht|-7nt|18l|Cuajimalpa de Morelos
+Moreno|AR||1l|-2o7|-4jb|157
+Moriguchi|JP||7q|2oh|agl|13r|Moriguĉi;Morigutsi;Moriguti-chhī
+Moro|PK||6q|222|58w|13n
+Marand|IR||7o|2yr|3j5|yi|Morand
+Fernando de la Mora|PY||1y|-1ye|-4fs|xe|Fernando-de-la-Mor
+Texcoco de Mora|MX||41|1i7|-7mo|t8|Texcoco;Tezcoco
+Moratalaz|ES||9d|349|-a5|t5
+Moers|DE||8r|3yx|if|sr|Meurs;Mėrsas;Mörs
+Mormugao|IN||6t|16r|5p1|sf|Mermugao;Marmugao;Marmagao
+Morón|AR||1l|-2o9|-4iu|rj
+Moriyama|JP||7q|2pf|ahq|nr
+Moroni|KM||ac|-wi|3c6|kr|Morony;Muruni
+Moriya|JP||7q|2rt|asw|j4
+Morón|VE||2c|t5|-59g|ix
+Sagunto|ES||9d|328|-r|id|Sagunt;Sagonte;Saguntum;Morvedre
+Morón|CU||36|1pf|-62f|id
+Morada Nova|BR||2w|-e7|-2yl|h5
+Mora|CM||j|up|13a|h3
+Moramanga|MG||a8|-1gn|3pz|gt
+Moreno|BR||4p|-mk|-2ph|g1
+Morley|GB||9b|45a|-4g|fy
+Morondava|MG||a8|-1kd|3f4|fr
+Morningside Heights|US||48|35d|-5pg|fj
+Morumbi|BR||4w|-1tk|-3lr|ed
+Morecambe|GB||9b|467|-7y|ec|Morkamas
+Morrinhos|BR|Goiás|4w|-1d9|-3se|ea
+Morong|PH|Calabarzon|71|14c|9cs|ds
+Morār|IN||6t|20v|61a|dh
+Morden|GB||9b|3ys|-k|de
+Morowa|JP||7q|2pi|akr|c7
+Morshansk|RU||9i|44g|385|c1|Morsjansk;Morschansk
+Moroleón|MX||41|1jx|-7t3|c0
+Morgan Hill|US||3p|2v5|-9dx|bx|Morganhila;Morganhill
+Morris Heights|US||48|35h|-5pc|be
+Morohongō|JP||7q|2ru|aqy|b1
+Myrhorod|UA||98|3us|2ld|b0|Mırgorod;Mirhorodo;Mõrgorod;Mirhoroda;Mirhorod
+Mörön|MN||7s|3tv|7q8|ay|Murun;Muren
+Morsi|IN||6t|1na|60p|ad|Morshi
+Morro do Chapéu|BR||20|-w3|-36c|9c|Morro de Chapeo;Morro do Chapéo
+Mörfelden-Walldorf|DE||8r|3uv|nu|94
+Morrelgonj|BD||6a|1qe|6xm|8s|Morrelganj;Morrellganj
+Morgantown|US|West Virginia|48|323|-664|8j|Morganopolis;Morgans Town;Morgan Town;Morganstown;Morgans-Town
+Morales|CO|Cauca Department|27|7n|-5wv|89
+Morristown|US|Tennessee|48|2sl|-6fd|87
+Morozovsk|RU||9i|3qb|387|85|Morosowsk;Morozowsk;Mrozowsk;Morosowski;Morosowskij
+Morigaon|IN||6t|20x|74j|84|Marigaon
+Moriki|NG||u|zr|i1|7z
+Morro Agudo|BR||4w|-1ll|-3pi|7r
+Morón de la Frontera|ES||9d|2v4|-f5|7q
+Mornington|AU|Victoria|8j|-2y6|b6w|76
+Mortsel|BE||8t|3y5|cd|6t|Mortensella
+Moribabougou|ML||5|z9|-lu|6p|Moribabugu;Maribabougou
+Morrumbala|MZ||11|-1c5|2qu|6p|Marrumbala;Murrumbala
+Mórfou|CY||73|2ps|2jn|6p
+Morinda|IN||6t|2dj|5wi|6o|Mūrinda
+Morphett Vale|AU||8b|-2pl|aos|6o
+Morombe|MG||a8|-1oe|3cg|6o
+Morrisville|US|North Carolina|48|2ri|-62z|6m
+Morton Grove|US||2f|38s|-6ru|6i|Mortongrove
+Morrisania|US||48|35f|-5pb|6f
+La Mornaghia|TN||1e|2u4|ru|6f|La Mornarhia;Mornaghia
+Morgan Park|US||2f|37t|-6rj|6d
+Morrinhos|BR|Ceará|2w|-8z|-33g|6c|Marrinho;Morrinho
+Morley|AU||8k|-2gl|8xz|69
+Murādābād Pahāri|IN||6t|27c|5yb|5z|Moradabad Pahari
+Morayfield|AU||8c|-23b|bsv|5w
+Moreni|RO|Dâmbovița County|8u|3gy|1z8|5q
+Morteros|AR||1n|-2db|-4s9|5q
+Morwa|IN||6t|1rm|5p4|5m|Morva
+Morsang-sur-Orge|FR||9k|3r6|6j|5j
+Morales|GT||32|16z|-6us|5a
+Morales|CO|Bolívar|27|n0|-5p7|57
+Morristown|US|New Jersey|48|35c|-5qw|56|Morris Town
+Morros|BR|Maranhão|2w|-7y|-3ec|56
+Morro da Fumaça|BR||4w|-27l|-3sp|55
+Moram|IN||6t|1df|5wf|54
+Mori|JP||7q|2or|an5|53
+Morlanwelz-Mariemont|BE||8t|3w6|bt|52
+Moreton|GB||9b|44c|-8o|4x
+Morlaix|FR||9k|3qy|-an|4v|Montroulez;Mons Relaxus
+Morningside|CA||59|3dn|-641|4v
+Moraga|US||3p|2x3|-9f9|4t
+Morocelí|HN||56|138|-6pb|4s|Moroceh
+Moreh|IN||6t|1vd|79y|4o
+Morganton|US||48|2rb|-6aw|4n
+Morretes|BR||4w|-1ys|-3rn|4k
+Morton|US|Illinois|2f|34t|-6wi|4j
+Moroto|UG||q|71|2ob|4j|Maroto
+Morong|PH|Central Luzon|71|14s|9a3|4h|Moron
+Morges|CH||a7|3l7|i2|4d|Morgia
+Morteẕá Gerd|IR||7o|2qw|3yn|4b
+Morampudi|IN||6t|1b6|6bc|49
+Moritake|JP||7q|33e|at4|49|Moridake
+Morąg|PL||a5|45s|1jd|43|Mohrungen;Moronga;Morongas
+Mór|HU||8v|3nm|1ek|43|Moor
+Náfplio|GR||8p|2wd|1rd|42|Nauplie;Nauplion;Mora Yenişehri;Napoli di Romania;Návplion;Nauplia;Návplio
+Morpeth|GB||9b|499|-4p|40|Morpitium
+Morris|US|Illinois|2f|36w|-6tm|40
+Mortara|IT||9o|3hp|o9|3w
+Mora|IN||6t|1mu|5lu|3v
+Morungaba|BR||4w|-1rk|-3m0|3t|Murungaba
+Morwell|AU||8j|-2y7|ban|3s
+Morelos|MX|Michoacán|41|1il|-7t8|3s
+Moreira|PT|Porto|99|36l|-o1|3l
+Mora|SE|Dalarna|9w|4ph|14e|3i
+Morrumbene|MZ||11|-1tq|2q7|3h
+Morropón|PE||3o|-ef|-665|3f
+Moranbah|AU||8c|-1p4|bf9|3d
+Mortugaba|BR||20|-15q|-39p|3d
+Moreira Sales|BR||4w|-1ut|-439|3c
+Morgan City|US||2f|2ai|-71d|3a
+Morsbach|DE|North Rhine-Westphalia|8r|3xb|lh|38
+Moralzarzal|ES||9d|350|-b1|38
+Morangis|FR||9k|3ra|6i|36
+Moreira|PT|Porto|99|362|-nb|35
+Morbach|DE||8r|3ud|jt|33
+Morazán|HN||56|16k|-6rc|33|Morazón
+Mortlake|GB||9b|3yz|-r|31
+Morro Bay|US||3p|2q9|-9bp|2y|Morroflói;Mono Bay;Moro Bay
+Mörlenbach|DE||8r|3ts|o9|2y
+Mora|ES||9d|328|-ah|2y
+Moreilândia|BR||4p|-l7|-31v|2x
+Morbegno|IT||9o|3k6|ql|2x
+Morongial|IN||6t|215|75g|2v
+Mortdale|AU||8l|-2md|bnn|2v
+Morris Park|US||48|35h|-5p5|2v
+Moralillo|MX|Veracruz|41|1pr|-7jz|2u
+Morningside|AU||8c|-24a|bt8|2u
+Mørkhøj|DK||8y|4at|yn|2s
+Morinville|CA||2s|45g|-8rp|2q
+Moree|AU||8l|-29u|bk8|2q
+Morrinsville|NZ||ak|-2wl|djk|2p
+Morrell Park|US|Pennsylvania|48|33b|-5sb|2o
+Morki|RU||9i|4cr|3s4|2o
+Moravská Třebová|CZ||9m|3u8|1aa|2m|Moravska Tršebova
+Morant Bay|JM||3i|1do|-5w9|2m
+Moura|PT||99|2xy|-kp|2m|Mora
+Morehead City|US||48|2og|-5x5|2l
+Morak|IN||6t|1wp|5v0|2k|Modak
+Morgenzon|ZA||o|-22a|2aa|2k
+Morada Nova de Minas|BR||4w|-1fo|-3i0|2j
+Morden|CA||5d|3sn|-7ki|2f
+Morrisville|US|Pennsylvania|48|33p|-5rr|2e
+Antúnez|MX||41|1gu|-7vx|2e|Morelos;Atunez;Antunes
+Moratalla|ES||9d|2y3|-59|2d
+Moran Town|IN||6t|23j|7bn|2c
+Moraújo|BR||2w|-9n|-350|2b
+Mourenx|FR||9k|3ch|-1r|29|Morencs
+Moritzburg|DE||8r|3y4|120|29|Eisenberg
+Mordialloc|AU||8j|-2xk|b70|28
+Marstons Mills|US||48|37q|-5fm|28|Marston Mills;Marston's Mills;Morstons Mills
+Morpará|BR||20|-w4|-3c8|28
+Moraleja|ES||9d|33b|-ii|28
+Morococha|PE||3o|-w7|-5va|27
+Martuk|KZ||5w|3wz|4cz|26|Mortyq;Märtök;Martu
+Mori|IT||9o|3jd|ui|25
+Morehead|US|Kentucky|2f|2vj|-6q6|24
+Moringen|DE|Lower Saxony|8r|3zm|rf|23
+Morrow|US|Georgia|48|2la|-6ia|21|Marrow
+Morewadi|IN||6t|1aa|5q9|20
+Morānha|IN||6t|23j|7bo|1z
+Mordovo|RU||9i|40p|359|1z|Mordowo;Murdovo
+Moravské Budějovice|CZ||9m|3s9|17x|1z|Morawskie Budziejowice
+Morehead|US|Kentucky|48|2y2|-6fr|1y
+Morières-lès-Avignon|FR||9k|3e2|dm|1y|Morieras dAvinhon
+Morishita|JP||7q|2tp|aq9|1y
+Morelos|MX|Coahuila|44|26x|-7s9|1w
+Moragudi|IN||6t|15a|61q|1w
+Morjim|IN||6t|17f|5ou|1w
+Morrilton|US||2f|2pn|-75m|1v|Morrillton
+Mórrope|PE||3o|-i6|-669|1v
+Morelos|MX|Zacatecas|41|1ri|-7x1|1u
+Morez|FR||9k|3l9|gr|1t
+Mordelles|FR||9k|3pk|-55|1t|Morzhell;Mauricella
+Mortagne-sur-Sèvre|FR||9k|3mj|-2n|1s
+Morlupo|IT||9o|393|yq|1s
+Moraine|US||48|32b|-6hy|1s
+Morteau|FR||9k|3mq|id|1r
+Morton|US|Pennsylvania|48|338|-5su|1r
+Morciano di Romagna|IT||9o|3dz|z5|1r
+Morata de Tajuña|ES||9d|33r|-9j|1q
+Morcellement Saint André|MU||ag|-1jr|4fx|1q|Morcellemont Saint André
+Morokro|CI||0|gw|-d2|1p
+Morro Redondo|BR||4w|-2fr|-427|1o
+Morro Reuter|BR||4w|-2a2|-3xw|1o
+Moronou|CI||0|hk|-dt|1o
+Murten/Morat|CH||a7|3md|js|1m|Morato;Murten;Morat;Muratum
+Morattuppālaiyam|IN||6t|v0|5z1|1m
+Moravský Krumlov|CZ||9m|3s9|19b|1l|Moravski Krumlova
+Morghān|IR||7o|2a4|429|1l|Morghūn
+Morristown|US|Vermont|48|3fs|-5lq|1l
+Móra d'Ebre|ES||9d|364|1r|1k|Mora de Ebro
+Moroura|JP||7q|2kz|a0r|1k
+Moreira de Conegos|PT||99|36z|-n6|1k
+Morshyn|UA||98|3sk|1ub|1k|Morszyn;Morsztyn;Morsin;Morszyn-Zdrój;Morschyn;Morshin
+Morris Plains|US||48|35e|-5qw|1j
+Moraleja de Enmedio|ES||9d|33u|-aq|1j
+Morolica|HN||56|11p|-6pe|1j
+Le Morne-Rouge|MQ||3v|152|-4pu|1j|Morne-Rouge;Le Morne Rouge
+Mórahalom|HU||8v|3ke|1j9|1i
+Mordoğan|TR||94|2z0|21y|1i|Skala Murdovan;Scala Murdovan;Morduğan;Murdağan;Murdoğan;Mürduğan
+Morris|US|Minnesota|2f|3in|-7ef|1i
+Moral de Calatrava|ES||9d|2zv|-9y|1g
+Morija|LS||12|-2ab|24f|1g
+Mornant|FR||9k|3iq|cz|1f
+Moroeni|RO||8u|3hm|1yn|1e|Moroieni;Moreni
+Morganville|US||48|346|-5q8|1e
+Morro da Cruz|BR||4w|-24m|-3qu|1e
+Morcenx|FR||9k|3eb|-2k|1e|Morcens
+Morwa|BW||m|-1vw|20f|1e
+Morondo|CI||0|ov|-iv|1e
+Barão do Monte Alto|BR||4w|-1n0|-39c|1e|Morro Alto;Barão de Monte Alto
+Morroa|CO||27|px|-5t7|1d
+Mortagne-au-Perche|FR||9k|3qs|1j|1d
+Moret-sur-Loing|FR||9k|3qd|7u|1d
+Morros|BR|Maranhão|2w|-q9|-3km|1c
+Morley-Buckingham|CA||5b|3sr|-9hk|1c
+Mormant|FR||9k|3r1|81|1c
+Moryakovskiy Zaton|RU||7r|4dh|6j5|1b|Morjakovskij Zaton
+Morunyaneng|LS||12|-2av|24h|19
+Morro Cabeça no Tempo|BR||2w|-r1|-3dz|19|Morro Cabeçano no Tempo;Cabeça no Tempo;Cabeça-no-Tempo;Cabeçano Tempo
+Morbio Inferiore|CH||a7|3jd|p2|17|Morbius Inferior;Morbi da Sott
+Morhange|FR||9k|3rw|ig|17
+Moraña|ES||9d|3a7|-nu|17
+Morigny-Champigny|FR||9k|3ql|62|16
+Morgans Point Resort|US||2f|2ej|-7iq|16|Morgan's Point Resort
+Morazzone|IT||9o|3j4|oj|16
+Moreuil|FR||9k|3u9|6w|16|Moreul
+Morlaàs|FR||9k|3ce|-q|16
+Morrison|US|Illinois|2f|385|-6xx|15
+Morelos Cañada|MX||41|1g2|-7im|15
+Morningside|NZ|Auckland|ak|-2uf|dhd|15
+Morolaneng|ZA||o|-1ws|2e1|15
+Morgan|US|Utah|2p|360|-8m8|14
+Morrell Park|US|Maryland|48|312|-5wy|14
+Moruya|AU||8l|-2rr|bkw|13
+Morin-Heights|CA||59|3ji|-5q9|13
+Moretta|IT||9o|3gc|ky|13
+Mörrum|SE||9w|4c3|14z|13
+Morada|US||3p|2xo|-9ct|12
+Murighiol|RO||8u|3h3|291|12|Morughiol;Murughiol
+Mortka|RU||7z|4kt|53e|11
+Morganfield|US||2f|2wo|-6s8|10
+Moravany|CZ|South Moravian|9m|3sj|1a2|10
+Morongo Valley|US||3p|2ml|-8zu|10
+Mörschwil|CH||a7|3nv|q6|z
+Moreton in Marsh|GB||9b|40f|-4q|z
+Mortegliano|IT||9o|3jn|10l|z|Mortean
+Mora|US|Minnesota|2f|3jg|-775|z
+Morton|US|Mississippi|2f|2hv|-6x1|y
+Serhetçi|TM||5x|2q1|4tb|y|Mörgunow
+Morano Calabro|IT||9o|32o|18u|x
+Moreland Hills|US||48|375|-6a7|x
+Morestel|FR||9k|3iw|f6|x
+Morzine|FR||9k|3ka|in|x|Morzena;Murisinium
+Morelos|MX|Veracruz|41|1ei|-7br|x
+Mornington|NZ|Wellington Region|ak|-36s|dhh|x
+Morrison|AR||1n|-2ij|-4uj|w
+Morphettville|AU||8b|-2p7|aou|w
+Morisset|AU||8l|-2jz|bot|w|Morrisset
+Murrumbateman|AU||8l|-2p5|bhz|w|Morumbateman
+Morro do Pilar|BR||4w|-1he|-3ci|v
+Morib|MY||6v|7n|7ts|v
+Moréac|FR||9k|3p4|-7u|v|Mourieg
+Morteni|RO||8u|3g3|1y3|v
+Maugansville|US||48|329|-5zy|v|Morgansville
+Morrinhos do Sul|BR||4w|-29k|-3up|v
+Morvik|NO||9j|4nz|eo|v
+Muurala|FI||92|4n9|1wg|v|Morby;Muris
+Mornington|NZ|Otago|ak|-3jg|d5j|v
+Morrisburg|CA||59|3gq|-5su|u
+Morro Grande|BR||4w|-280|-3u4|u
+Morkovice-Slížany|CZ||9m|3st|1bt|u|Morkovice-Slīžani
+Morunglav|RO||8u|3fj|1v0|u
+Morgaushi|RU||9i|4bg|3lx|t|Morgausji
+Moriones|PH||71|16y|9an|t|Mariones
+Morsum|DE|Lower Saxony|8r|433|p8|t
+Mouriès|FR||9k|3dd|dj|t|Moriés
+Morbecque|FR||9k|3wt|70|t
+Morbeng|ZA||o|-1t9|2b6|s
+Moriches|US||48|35d|-5ma|s
+Morella|ES||9d|34u|-a|s
+Moravský Beroun|CZ||9m|3ub|1cg|s|Moravski Berouna
+Mormanno|IT||9o|32t|18f|s
+Mormaço|BR||4w|-27p|-42d|s
+Morschwiller-le-Bas|FR||9k|3om|k7|s|Morschweiler;Morschwiller
+Mornico al Serio|IT||9o|3in|r9|r
+Moraleda de Zafayona|ES||9d|2v9|-b1|r
+Morton|US|Pennsylvania|48|32v|-5t8|r
+Moravská Nová Ves|CZ||9m|3rk|1b9|r
+Morro de Mazatán|MX||41|18q|-7cy|q|El Morro;Morro Mazatán
+Morales|PH||71|w3|9fy|q
+Morningside|NZ|Northland|ak|-2r9|dg8|q
+Morazán|GT||32|15h|-6ye|q
+Morsbach|FR||9k|3sl|j3|p
+Moravské Lieskové|SK||8s|3rm|1dg|p
+Maureillas-las-Illas|FR||9k|3a1|7t|p|Morellàs;Maureillas;Morellàs i les Illes
+Morengo|IT||9o|3ih|qz|p
+Morgantown|US|Kentucky|2f|2vf|-6os|p
+Mortain|FR||9k|3r5|-2m|p|Moretoin
+Morro Agudo de Goiás|BR||4w|-16k|-3v2|p
+Morobuan|PH||71|tj|9gf|o|Morubuan
+Morovis|PR||4m|1ex|-54h|o
+Mořkov|CZ||9m|3tm|1e6|o|Murk
+Morro da Garça|BR||4w|-1fj|-3fw|o|Morro da Graça
+Morske|UA||9t|3gj|2oo|o
+Moricone|IT||9o|390|zh|o
+Mornas|FR||9k|3es|d5|o|Mornats
+Moraviţa|RO||8u|3hq|1n3|o|Temesmóra;Morawitz;Moravica;Moravicza;Morawitza
+Morainvilliers|FR||9k|3rx|5e|n
+Morciano di Leuca|IT||9o|32p|1ev|n
+Mornington|AU|Tasmania|8g|-3b2|bdg|n
+Mörbisch am See|AT||a2|3on|1ab|n|Fertőmeggyes
+Morelia|CO||27|45|-5ud|n|Moralia
+Morehead|PG||bd|-o7|axg|m
+Morbier|FR||9k|3la|gq|m
+Moravský Písek|CZ||9m|3s3|1c5|m
+Morăreşti|RO||8u|3h2|1w9|m
+Morenci|US|Michigan|2q|37w|-6hy|m
+Morales del Vino|ES||9d|375|-fx|m
+Moravský Svätý Ján|SK||8s|3qz|1b8|l
+Morelos Piedra 3ra. Sección|MX||41|1ee|-76y|l
+Morkhoven|BE||8t|3y0|de|l|Morckhoven
+Morningside|US||48|2zv|-5xl|l
+Mornac|FR||9k|3iw|r|l
+Morrisville|US|Vermont|48|3fs|-5lo|k
+Moron|IN||6t|2ed|5uw|k|Morran
+Mornington|AU|Queensland|8c|-1ll|ari|k
+Morud|DK||8y|4a1|sb|k
+Moresnet|BE||8t|3ww|gn|j
+Mörarp|SE||9w|4bq|zs|j
+Morris|US|Alabama|2f|2lr|-6p5|j
+Murter|HR||a6|3dq|17b|j|Morter
+Morris|CA||5d|3t3|-7ih|j
+Mordano|IT||9o|3fc|wt|j
+Moravian Falls|US||48|2sa|-69i|j
+Morton|US|Texas|2f|2lp|-7xg|j
+Mørkøv|DK||8y|4al|vy|j
+Mora|PR||4m|1fa|-567|j
+Morgan|US|Georgia|48|2fm|-6j0|i
+Moraira|ES||9d|2zh|d|i
+Mordy|PL||a5|411|1qk|i|Mordai;Mordi
+Moron|HT||4j|1fk|-5qa|i|Monwon
+Mörbylånga|SE||9w|4d0|19i|i
+Morrovalle|IT||9o|3cc|11s|i
+Moriarty|US||2p|2p7|-86l|i
+Moris|MX||2g|267|-8dh|i|Noris
+Morancé|FR||9k|3ji|d2|i
+Monok|HU||8v|3px|1mr|i|Morok
+Morrisville|US|New York|48|3b6|-5u4|i
+Moyako|CI||0|oq|-jt|i|Moroyako
+Morgex|IT||9o|3j4|jk|h
+Moravany|CZ|Pardubice Region|9m|3uw|18a|h|Morawan
+Myrskylä|FI||92|4oj|1zt|h|Mörskom
+Mornago|IT||9o|3j3|ob|h
+Morancez|FR||9k|3qg|45|h
+Mores|IT||9o|34n|oj|h
+Morannes|FR||9k|3om|-16|h
+Mormoiron|FR||9k|3ef|ee|h|Mormeiron
+Moretown|US||48|3ex|-5m4|h
+Mortagne-du-Nord|FR||9k|3wa|9l|g
+Moryń|PL||a5|42u|13z|g|Mòrzëno;Moriņa
+Morcone|IT||9o|36u|14r|g|Marcone
+Morialmé|BE||8t|3vo|cp|g
+Morgan State University|US||48|31b|-5wq|g
+Morro d'Alba|IT||9o|3d4|10p|g
+Morawica|PL|Świętokrzyskie|a5|3wz|1la|g
+Morrisonville|US|New York|48|3g5|-5oc|f
+Moromoro|CI||0|r2|-bs|f
+Morales|MX||41|1lq|-7s1|f
+Moravský Žižkov|CZ||9m|3rn|1b1|f
+Morenci|US|Arizona|4i|2jt|-8fp|f|Marenci
+Moreshet|IL||6n|2j7|2pv|f
+Morsano|IT||9o|3je|zx|f|Morsan dal Tiliment
+Mora de Rubielos|ES||9d|33t|-23|f
+Morris|US|Oklahoma|2f|2qx|-7ea|f
+Moravë|AL||9y|358|1ja|f|Morava
+Moroni|US||2p|31s|-8lz|f|Teełtah Deezlį́
+Moroncárit|MX||37|229|-8gi|e|Moroneari;Moroncari
+Morgongåva|SE||9w|4mh|1b4|e
+Mortcerf|FR||9k|3rj|84|e
+Morgantown|US|Mississippi|2f|2fp|-71r|e
+Morelos|MX|Puebla|41|1iv|-7j2|e
+Morpeth|AU||8l|-2ix|bp7|e
+Moroe|IE||8z|429|-nc|e|Maigh Rua
+Morata de Jalón|ES||9d|377|-44|e
+Morrito|NI||3s|wa|-6kc|e
+Morristown|US|Indiana|38|327|-6m2|e
+Moretonhampstead|GB||9b|3wq|-ag|d
+Mortlake|AU|Victoria|8j|-2xs|b0p|d
+Moraleja del Vino|ES||9d|376|-fq|d
+Mortier|BE||8t|3ws|fy|d
+Mordino|RU||9i|4qf|406|d
+Morávka|CZ||9m|3ts|1fg|d|Morawka
+Moriago della Battaglia|IT||9o|3jf|xm|d
+Morocoy|MX||2b|1fo|-6up|d
+Mörtnäs|SE||9w|4ks|1f8|d
+Moreland|US||28|3c2|-8oc|d
+Morrow|US|Ohio|48|31b|-6hp|d
+Morrisville|US|Pennsylvania|48|32t|-66o|d
+Morano sul Po|IT||9o|3hh|n9|c
+Moravia|US|New York|48|3an|-5wa|c
+Moras|MX||41|1kh|-7wz|c
+Morre|FR||9k|3n7|gw|c
+Morgandale|US||48|36n|-68e|c
+Morelita|MX||41|1er|-7rc|c
+Morokinkro|CI||0|iy|-dv|c
+Moravičany|CZ||9m|3u8|1b4|c
+Morne Doudon|LC||52|12x|-4pd|c
+Mória|GR||8p|30p|21o|c|Morea
+Morelia (Victórico Rodolfo Grajales)|MX||41|1ag|-73h|c
+Mornimont|BE||8t|3w6|d2|b
+Morozzo|IT||9o|3fe|lf|b
+Morīdān|IR||7o|2vr|3u8|b
+Morton|US|Washington|3p|3lc|-9fo|b
+Moore Town|JM||3i|1e8|-5wb|b|More Town
+Morocco|US||2f|35r|-6qx|b
+Mora Villalobos|MX||37|24f|-8hq|b|Campo Veintinueve;Campo Veinte Nueve
+Morosaglia|FR||9k|39w|pu|b|Merusaglia
+Morsum|DE|Schleswig-Holstein|8r|48f|ng|b
+Morani|MK||9u|38f|1nv|b|Morane
+Morales de Toro|ES||9d|37e|-er|b
+Morienval|FR||9k|3sy|84|b
+Mortrée|FR||9k|3r4|8|b
+Morchard Bishop|GB||9b|3x9|-af|b
+Morée|FR||9k|3p2|3f|a
+Mortagne-sur-Gironde|FR||9k|3ic|-27|a
+Morje|SI||9a|3l0|17e|a|Mauerbach
+Morrisonville|US|Illinois|2f|31i|-6wi|a
+Mortlake|AU|New South Wales|8l|-2m0|bnr|a
+Molochne|UA|Zaporizhzhia|98|3lv|2q9|a|Mordvynivka;Mordvinovka
+Morvillars|FR||9k|3o3|j9|a|Marvillars
+Morgins|CH||a7|3kg|j1|a
+Morhet|BE||8t|3us|fi|a
+Morristown|US|Minnesota|2f|3ev|-77k|a
+Morawica|PL|Lesser Poland|a5|3v4|1iv|a
+Morgantown|US|Indiana|38|31d|-6nm|a
+Moravia-Walther|US||48|31a|-5wo|a
+Mora|MX||3x|1nt|-835|a
+Morschach|CH||a7|3mi|ny|a
+Moreni|RO|Iași County|8u|3mu|25f|a
+Mörtelsdorf|AT||a2|3mx|12b|a
+Moravče|SI||9a|3k6|14z|a|Moravse
+Moral de Puerto de Nieto|MX||41|1m1|-7r7|9
+Mörstadt|DE||8r|3ty|mx|9
+Mortilla|IT||9o|306|191|9
+Morfontaine|FR||9k|3tc|g5|9
+Moruya Heads|AU||8l|-2rs|bl3|9
+Morehouse|US||2f|2ud|-6x5|9
+Moreton on Lugg|GB||9b|40r|-7k|9
+Morād Tappeh|IR||7o|2r9|3vp|9
+Morl|DE||8r|3z7|x4|9
+Morrill|US|Nebraska|2p|38k|-80p|9
+Morgny-la-Pommeraye|FR||9k|3tj|3i|9
+Mörschied|DE||8r|3ub|ka|9
+De Mortel|NL||8m|3z6|fv|9|Mortel
+Moreauville|US||2f|2e7|-73i|9
+Morrice|US||2q|3b0|-6hu|9
+Moravské Bránice|CZ||9m|3sc|19o|9
+Morgenröthe-Rautenkranz|DE||8r|3w5|yr|9|Morqenröte-Rautenkrants
+Borșa|RO|Iași County|8u|3nq|240|9|Morsa
+Morscheid|DE||8r|3u5|ir|9
+Morcillo|MX||44|1v5|-82u|9
+Murialdo|IT||9o|3f4|mp|9|Moriaodo
+Morgan|US|Minnesota|2f|3fe|-7bp|9
+Moruzzo|IT||9o|3k4|10g|9|Moruc
+Morifingso|CI||0|no|-k8|9
+Morzyczyn|PL||a5|447|15g|9
+Morfa Nefyn|GB||9b|431|-cn|9|Morfa Nevin
+Mörlunda|SE||9w|4f8|181|9
+Mortons Gap|US||2f|2vg|-6r0|9
+Morossankrou|CI||0|ky|-9r|9
+Morkoyun|TR||94|2y5|32u|8|Morqoyun;Dîwanevlerî
+Morgantown|US|Pennsylvania|48|33k|-5ut|8
+Mörigen|CH||a7|3mt|k1|8
+Moresby|AU||8k|-27u|8uj|8
+Morning Sun|US||2f|366|-71i|8
+Morelos|MX|Chihuahua|2g|223|-8b4|8
+Morofidougou|CI||0|lw|-bz|8
+Morrill|US|Maine|48|3fg|-5c3|8
+Moralillo|MX|Veracruz|41|1n5|-7kt|8
+Morse|US||2f|2bo|-74y|8
+Morieux|FR||9k|3qs|-79|8|Morieg
+Mora|SE|Dalarna|9w|4ns|17c|8
+Möringen|DE|Saxony-Anhalt|8r|423|wn|8
+Morelos Uno|MX||37|23s|-8hk|8
+Mörsil|SE||9w|4vv|11y|8
+Moriac|AU||8j|-2y8|b4h|8
+Moravské Knínice|CZ||9m|3sx|19u|8
+Morgantown|AU||8k|-1x4|8rq|8
+Morgongiori|IT||9o|32f|od|8
+Moreni|RO|Dolj|8u|3eh|1s4|8
+Moraro|IT||9o|3jl|11i|8|Morâr
+Mortefontaine-en-Thelle|FR||9k|3su|63|8
+Morschheim|DE||8r|3u2|mb|8
+Morados|MX||41|1r4|-7sw|8
+Morrisdale|US||48|35r|-61b|8
+Morangup|AU||8k|-2fz|8z1|7
+Moravany|CZ|South Moravian|9m|3s8|1bp|7|Morawan
+Morrison|US|Oklahoma|2f|2su|-7hh|7
+Moravske Toplice|SI||9a|3lo|192|7
+Morisset Park|AU||8l|-2k0|boy|7
+Morăreni|RO||8u|3ks|1y2|7
+Morašice|CZ|Pardubice Region|9m|3uj|193|7
+Mornico Losana|IT||9o|3h1|pl|7
+Yelizavetovo|UA||9t|3i9|2ko|7|Mor Qalpi
+Moroda|RO||8u|3kt|1og|7
+Morcote|CH||a7|3jl|os|7|Murcò
+Morbio Superiore|CH||a7|3je|p2|7
+Morey-Saint-Denis|FR||9k|3n4|ds|7
+Morrison|US|Tennessee|2f|2qw|-6mo|7
+Mörsdorf|DE||8r|3v6|kf|7
+Mornac-sur-Seudre|FR||9k|3iz|-2v|7
+Morley|US||2f|2uw|-6wx|7
+Morzeszczyn|PL||a5|45k|1fx|7
+Morādlū|IR|Ardabil Province|7o|2zn|3on|7|Mer’ātī
+Morville|BE||8t|3vj|d6|7
+Morelos|MX|Aguascalientes|41|1ps|-7wc|7
+Murillo el Cuende|ES||9d|39s|-4j|7|Moriello del Cuende
+Morter|IT||9o|3lh|u2|7
+Mora|US|New Mexico|2p|2rx|-84l|7
+Moras-en-Valloire|FR||9k|3ht|dw|7
+Morelli Catena Sottana|IT||9o|314|198|7
+Morelos|MX|Tabasco|41|1ds|-758|7
+Morning Glory|US||2p|2fp|-872|7
+Morningside|GB||9b|4ay|-ar|7
+Moralillo|MX|Puebla|41|1fj|-7k2|6|Morarillo
+Moravia|US|Iowa|2f|35l|-75u|6
+Morolo|IT||9o|37o|10o|6
+Morthomiers|FR||9k|3mo|6b|6
+Moravče|HR||a6|3jl|18x|6
+Morts Estate|AU||8l|-2kz|bl5|6
+Morawa|AU||8k|-295|8y9|6|Morowa
+Mortizza|IT||9o|3h8|r4|6
+Morganza|US||2f|2de|-72f|6|Morganzia;Marganza
+Morino|IT||9o|38a|11e|6
+Moravskoslezský Kočov|CZ||9m|3us|1cg|6
+Mořina|CZ||9m|3ur|13h|6
+Morcourt|FR||9k|3uj|98|6
+Moro|IT||9o|3jj|y4|6
+Moreton Island|AU||8c|-23m|bu3|6
+Mörlen|DE||8r|3wu|lw|6
+Morisquillas|MX||41|1ml|-7qr|6|Morisquilla;Morisguilla
+Morra de Sanctis|IT||9o|35p|16c|6
+Morozovy-Borki|RU||9i|45w|35o|6|Morozovy Borki
+Moravské Málkovice|CZ||9m|3su|1bh|6
+Mortí|PA|Darién|4g|ok|-60m|6
+Morris|US|New York|48|3a7|-5t1|6
+Morelos|MX|Michoacán|41|1iy|-7up|6
+Morelos|MX|Oaxaca|41|1an|-7jc|6
+Mœrnach|FR||9k|3ny|k5|6|Mörnach
+Mortroux|BE||8t|3wv|fz|6
+Morsbronn-les-Bains|FR||9k|3ru|li|6
+Moraḯtika|GR||8p|31o|1jc|6
+Morlhon-le-Haut|FR||9k|3f4|5q|6
+Morizès|FR||9k|3fx|-9|6|Morises
+Moravec|CZ||9m|3tc|18u|6
+Morlincourt|FR||9k|3tp|8g|6
+Moroges|FR||9k|3lv|d0|6
+Moraas|DE||8r|44e|ve|5
+Moremi|BW||m|-1qp|249|5|Moreme
+Morillon|FR||9k|3k0|ik|5
+Morašice|CZ|Pardubice Region|9m|3up|17n|5
+Morelos|MX|Puebla|41|1ka|-7k2|5
+Morteaux-Coulibœuf|FR||9k|3rx|-7|5
+Moravitsa|BG||9v|3bv|1tp|5|Muravitsa
+Mörsfeld|DE||8r|3u7|m1|5
+Morven|US||48|2dy|-6fy|5
+Moroziv|UA||98|3s1|237|5|Malyi Mukariv;Morozov
+Morkůvky|CZ||9m|3s1|1au|5
+Mořice|CZ||9m|3t1|1bs|5
+Mortí|PA|Darién|4g|ol|-60g|5
+Moros|ES||9d|370|-53|5
+Moran|US||2f|2xc|-7cd|5
+Mornese|IT||9o|3g0|oc|5
+Morcolla|PE||3o|-137|-5p7|5
+Moravice|HR||a6|3i6|15p|5
+Morādlū|IR|Ardabil Province|7o|314|3pq|5
+Morochata|BO||3n|-1bv|-54t|5|Muruchata
+Mörsbach|DE|Rheinland-Pfalz|8r|3wx|lm|5

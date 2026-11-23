@@ -1,0 +1,365 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Valencia|ES||9d|31n|-12|6cz|Valenza;Valentia;Valence;Walencja;Balenzia;Valencija;Valencie;Valencio;Valentzia;Valensia;Valensija;Valensiya;Walénsiye;Valantsa;Valensyaa;Valensėjė;Pâ-lùn-sî-â;Valensii
+Walsall|GB||9b|423|-5i|1bt|Volslas;Uolsoll;Walhshalh;Wallsall
+Arif Wala|PK||6q|214|546|17n
+Valsād|IN||6t|1l9|5ml|12u|Walsād
+Wałbrzych|PL||a5|3x1|198|ze|Waldenburg in Schlesien;Valbžiha;Valbžychas
+Walthamstow|GB||9b|3zb|-2|ue
+Weldiya|ET||2|wv|31z|sw|Veldija;Ualdia;Woldia;Waldia;Weldia;Weldya
+Waliso|ET||2|np|2xh|lu|Woliso;Walliso;Ualiso;Walso;Welīso
+Welk’īt’ē|ET||2|n0|2wy|lj|Wolkite;Walkite
+Walvis Bay|NA||1f|-1rs|14b|kg|Walfischbucht;Walvisbaai;Volvis Bėjus
+Wilmington|US|Delaware|48|32f|-5tv|jp|Vilmingtonas;Vilmingtonia;Vilmingtona;Vilmingtono;Willington;Walmington;Willingtown
+Walnut Creek|US|California|3p|2xb|-9f2|j5
+Waldorf|US||48|2za|-5xq|iu
+Waltham|US||48|39q|-5hw|hm
+Wallasey|GB||9b|44e|-8i|gc
+Walajapet|IN||6t|zx|64h|d7
+Wallsend|GB||9b|48r|-49|bv
+Valuyki|RU||9i|3vg|2xw|9z|Valujki;Waluiki
+Mount Pleasant|US|District of Columbia|48|305|-5y0|9y|Ingleside;Walbridge;Rosemont Park
+Walkden|GB||9b|44o|-6o|9w
+Walla Walla|US||3p|3jy|-94q|8y
+Walnut|US|California|3p|2mi|-93f|8e
+Waltrop|DE||8r|3ze|kk|8e
+Walwadi|IN||6t|1m4|5ro|88
+Wałcz|PL||a5|440|19r|78|Deutsch Krone;Valčas;Valča;Wôłcz
+Walnut Grove|CA||5b|3sk|-9go|75
+Waldkraiburg|DE||8r|3px|yg|6v|Woidkroaburg
+Walker|US|Michigan|2q|3bg|-6m9|6u
+Walsrode|DE||8r|42u|qn|6s|Gemeen Wasra
+Wallenhorst|DE||8r|41f|ma|6q
+Waal|ET||2|j5|3ke|6o|Wal
+Waltham Abbey|GB||9b|3zl|0|6d
+Walton-on-Thames|GB||9b|3yr|-15|6c|Walton on Thames
+Valašské Meziříčí|CZ||9m|3tf|1dx|6a|Wallachisch Meseritsch;Valašske Meziržyčiai;Valašske Meziržīči
+Waldshut-Tiengen|DE||8r|3oa|mu|68|Waldshut
+Wāliṅ|NP||6r|25q|6go|63
+Wallington|GB||9b|3yo|-f|5t
+Waluj Buzurg|IN||6t|1j0|5sz|5m
+Waldkirch|DE||8r|3pm|m4|5m
+Waldbröl|DE||8r|3xc|l6|5f
+Valday|RU||9i|4h2|2kd|55|Waldai;Valdai;Valdaj
+Wallingford Center|US||48|375|-5ma|52
+Wallingford|US|Connecticut|48|376|-5ma|4x
+Walcourt|BE||8t|3vl|cc|4v|Walcoû
+Walton-on-the-Naze|GB||9b|401|3j|4v
+Gualaceo|EC||33|-81|-62u|4r|Walasiyu;Gulaseo
+Walnut Park|US||3p|2md|-94f|4g
+Wallan|AU||8j|-2vy|b6q|46
+Walldorf|DE|Baden-Wurttemberg|8r|3sz|o0|44|Walldoaf
+Wālājābād|IN||6t|zj|65q|43|Wallajahbad
+Walébo|CI||0|fi|-iz|3v
+Złocieniec|PL||a5|44p|18h|3p|Zloceņeca;Walczembórg
+Walsh Acres-Lakeridge-Garden Ridge|CA||4q|3wa|-82q|3n
+North Walsham|GB||9b|42q|3v|3m|Walsham Thuaidh
+Wallsend|AU||8l|-2je|bpa|3f
+Walldürn|DE||8r|3tq|q1|3d
+Waltendorf|AT||a2|3mr|16z|3c
+Valga|EE||9x|4gi|20d|3a|Walk;Valqa;Valk;Walga;Valka
+Wald-Michelbach|DE||8r|3tp|oj|39|Wald-Mischlbach
+Wallington|US||48|35h|-5pv|39
+Wallisellen|CH||a7|3np|nw|39
+Wallingford|GB||9b|3zc|-34|38
+Waltershausen|DE||8r|3xe|tc|36
+Walker Mill|US||48|300|-5xl|35
+Wolmirstedt|DE||8r|415|wb|31|Walmirstidi
+Waldkirchen|DE|Bavaria|8r|3rd|11s|30
+Wallaceburg|CA||59|3ab|-6cv|2v
+Alkhan-Kala|RU||9i|3c6|3ii|2u|Meždugor’e;Walxan-Ġala;Mezhdugor’ye;Alhan-Kala
+Waldwick|US||48|35x|-5pw|2t
+Waltham Cross|GB||9b|3zl|-4|2s
+Walnut Grove|US|Washington|3p|3iv|-9gk|2q
+Wallerfangen|DE||8r|3t1|in|2p|Vaudrevange
+Walni|IN||6t|1n8|63p|2m|Walani
+Waldfeucht|DE||8r|3xv|gn|2l|Vuch
+Waltenhofen|DE||8r|3of|sn|2i
+Waldheim|DE|Saxony|8r|3xv|106|2i
+Alkhan-Yurt|RU||9i|3c3|3il|2h|Alkhan-Jurt;Ayvazovskoe;Ermolovskaya;Walxan-Yurt;Ayvazovskoye;Alhan-Jurt
+Waldenbuch|DE||8r|3r4|pd|2g|Valdenbux
+Walkerville|ZA||o|-21e|25n|28
+Waller|US|Washington|3p|3n4|-9fx|27
+Walferdange|LU||9c|3ty|h1|26|Walferdingen;Walfer
+Waldeck|DE||8r|3y9|p6|26
+Wali Djantang|MR||19|16l|-zr|25
+Walnut Village|US||3p|2ln|-938|25
+Walden|CA||2s|3xb|-8sr|25
+Walbersdorf|AT||a2|3om|19m|23|Vujbrštof;Borbolya
+Waldsassen|DE||8r|3uw|y6|23|Woidsassen
+Waldmünchen|DE||8r|3t6|zb|22
+Mattersburg|AT||a2|3ol|19k|21|Nagymarton;Mattasburg;Matersburgas;Walbersdorf
+Waldstetten|DE|Baden-Wurttemberg|8r|3rh|ra|21
+Walled Lake|US||2q|3a6|-6fw|1z
+Walden|US|New York|48|37g|-5q3|1w
+Walkinstown|IE||8z|445|-hm|1w|Baile Bhailcín
+Valletta|MT||9e|2rq|14b|1w|La Valeto;La Valette;Valetta;Valeta;La Valeta;Valleta;Vaileite;A Valeta;Waleta;La-Valeto;La Valëtta;Vallett;La Valèt
+Wallersdorf|DE||8r|3re|zf|1v
+Waltham|GB||9b|44o|-a|1u
+Walnut Hills|US||48|30p|-6io|1r|Walnut Hill
+Walker|US|Louisiana|2f|2cp|-70e|1r
+Waltherson|US||48|31b|-5wo|1q
+Walkersville|US||48|31p|-5yv|1o
+Walhain-Saint-Paul|BE||8t|3wn|d2|1o
+Wales|GB||9b|446|-3k|1o
+Walpole|US|Massachusetts|48|392|-5hx|1n
+Waldbrunn|DE|Hesse|8r|3wc|mj|1m
+Waldems|DE||8r|3vl|n5|1m
+Walluf|DE||8r|3v0|mo|1l
+Wallers|FR||9k|3vx|9f|1j
+Waldmohr|DE||8r|3t6|kd|1i
+Waldsee|DE||8r|3t8|ng|1i
+Waldon|US||3p|2xd|-9f2|1i
+Walheim - Hahn|DE||8r|3wv|h6|1h
+Walterboro|US||48|2jf|-683|1h|Waterboro
+Waldfischbach-Burgalben|DE||8r|3sw|lb|1f|Waldfischbach-Bojalwe
+Waldbüttelbrunn|DE||8r|3ub|rd|1f
+Wallisellen / Wallisellen-Ost|CH||a7|3np|nw|1e
+Waldkappel|DE||8r|3y2|rg|1e
+Walenstadt|CH||a7|3mw|pv|1e|Valenurbo;Wallendstadt;Wallenstadt
+Walkertown|US|North Carolina|48|2si|-66n|1e
+Walkerton|CA||59|3el|-69f|1b
+Walagan|CN||7i|422|9m1|1b|Wa-la-kan
+Walnut Ridge|US||2f|2s7|-70o|1b|Walnutridge
+Waldershof|DE||8r|3uu|xi|1a
+Valka|LV||9n|4gi|209|1a|Walk;Valk;Valga
+Waldenburg|DE|Saxony|8r|3xc|z0|1a
+Walkertown|US|North Carolina|48|2q1|-62x|17
+Waltham|NZ||ak|-3cz|dbl|17
+Walhalla|US|South Carolina|48|2ok|-6eq|17
+Walding|AT||a2|3qb|13c|15
+Wall Ferraz|BR||2w|-k3|-38f|15
+Waldaschaff|DE||8r|3uu|pu|15
+Walthourville|US||48|2g9|-6ar|14
+Wallace|US|North Carolina|48|2oi|-60o|14
+Walton|US|Kentucky|48|300|-6j1|13
+Valandovo|MK||9u|36s|1qo|12|Valandovas;Vallandova;Wałandowo;Valandova
+Volary|CZ||9m|3rv|12l|11|Wallern
+Waldalgesheim|DE||8r|3ur|lr|11
+Wallhausen|DE|Baden-Wurttemberg|8r|3sp|ry|10
+Wals|AT||a2|3oq|101|10
+Walsbets|BE||8t|3wy|e4|10|Walsbetz
+Wallaroo|AU|South Australia|8b|-2ma|amb|z
+Wallisellen / Wallisellen-West|CH||a7|3nq|nv|z
+Wallerstein|DE||8r|3rt|t4|z
+Walkley Heights|AU||8b|-2os|ap4|y
+Waldron|US|Arkansas|2f|2oy|-79d|y
+Walchwil|CH||a7|3mu|no|x
+Oualaldé|SN||g|19v|-13g|w|Walalde
+Walkerston|AU||8c|-1ms|bi2|w
+Waldkirch|CH||a7|3nv|pt|v
+Waldenburg|DE|Baden-Wurttemberg|8r|3sm|qs|v
+Walbridge|US||48|37j|-6fx|v
+Wallenfels|DE||8r|3vn|vv|v
+Wallburg|US||48|2s1|-66m|v
+Wald|CH||a7|3nc|or|v
+Walheim|DE||8r|3s5|pf|v
+Wallace Bay|MY||6w|bu|92v|u
+Wales|ZA||o|-1wm|2e2|t
+Walton|US|New York|48|395|-5sp|t
+Walkervale|AU||8c|-1x4|br8|t
+Waldburg|DE||8r|3on|r0|t
+Walsenburg|US||2p|2wi|-832|t
+Walworth|US||2f|3a5|-6u4|s
+Wald|DE|Bavaria|8r|3sj|yb|s
+Walim|PL||a5|3wu|19o|s|Wüstewaltersdorf;Wüstelwaltersdorf;Wüsterwaltersdorf
+Wallerstädten|DE||8r|3um|nh|r
+Wald|DE|Baden-Wurttemberg|8r|3p5|ph|r
+Walton Park|US||48|36r|-5q7|r
+Wallaceville|NZ||ak|-369|di9|q
+Waldbrunn|DE|Bavaria|8r|3u8|r8|q
+Wales|US|Wisconsin|2f|3bg|-6ti|q
+Walsdorf|DE|Bavaria|8r|3uj|ty|p
+Walcha|AU||8l|-2e2|bp3|p
+Waller|US|Texas|2f|2bi|-7eh|p
+Walters|US||2f|2ng|-7l3|p|Walter
+Walton|GB|England|9b|43u|-42|p
+Walkenried|DE||8r|3za|ti|p
+Walnut Hill|US||48|2tl|-6ci|o
+Waldböckelheim|DE||8r|3ue|lg|n
+Wallkill|US||48|37l|-5q2|n
+Walldorf|DE|Thuringia|8r|3wm|su|n
+Waldhausen|DE||8r|41f|r4|n
+Walkerton|US||38|377|-6o8|n
+Wallisellen / Rieden|CH||a7|3nq|nw|n
+Walton Hills|US||48|36x|-6ak|m
+Walbrook|US||48|317|-5wz|m
+Waltenschwil|CH||a7|3nh|n2|m
+Waldthurn|DE||8r|3tz|y9|m
+Wallhausen|DE|Saxony-Anhalt|8r|3yy|v5|m
+Valtimo|FI||92|4wv|280|l|Waltimo
+Waldport|US||3p|3ff|-9kn|l
+Walzenhausen|CH||a7|3nt|qo|l
+Walgett|AU||8l|-2be|bfg|l
+Walce|PL||a5|3vx|1e0|l
+Walderbach|DE||8r|3sm|ye|l
+Walincourt-Selvigny|FR||9k|3v3|99|l
+Walden|US|Tennessee|48|2po|-6ky|l
+Walnutport|US||48|357|-5u0|l
+Walker|CA||2s|44e|-8r3|k
+Waldrach|DE||8r|3u7|ir|k
+Wallsee|AT||a2|3pt|14w|k
+Walsden|GB||9b|455|-5u|k
+Walhur|IN||6t|1jq|5wg|k
+Walem|BE||8t|3xv|ce|k
+Wallern an der Trattnach|AT||a2|3pz|12r|k
+Walpertskirchen|DE||8r|3q2|xa|k
+Waldbreitbach|DE||8r|3wf|km|k
+Wallerawang|AU||8l|-2kt|bku|j
+Walschleben|DE||8r|3xv|ud|j
+Walton|GB|England|9b|44h|-89|j
+Walpole Island|CA||2q|3ae|-6d7|j
+Wallertheim|DE||8r|3ug|md|i
+Walkringen|CH||a7|3mf|l6|i
+Wallace|US|Florida|2f|2d8|-6q6|i
+Walberton|GB||9b|3x8|-1q|i
+Walkington|GB||9b|45i|-1d|i
+Wales|US|Massachusetts|48|38v|-5km|i
+Walhorn|BE||8t|3wr|gt|i
+Waldheim|DE|Lower Saxony|8r|41f|r6|h
+Waldstatt|CH||a7|3nk|ps|h
+Wallern im Burgenland|AT||a2|3ol|1b2|h|Wallern;Valla
+Walla Walla East|US||3p|3jx|-94m|h
+Walscheid|FR||9k|3r5|jv|h
+Walcott|US||2f|37i|-705|g
+Wallacia|AU||8l|-2m3|bmg|g
+Walnut Grove|US|Mississippi|2f|2ij|-6wi|g
+Wallhausen|DE|Rheinland-Pfalz|8r|3uk|ll|g
+Wallace Heights|CA||35|3g5|-4wp|g
+Walnut Grove|US|California|3p|2y8|-9dj|f|Walnutgrove
+Walkern|GB||9b|408|-d|f
+Walloon|AU||8c|-24p|bs2|f
+Waldprechting|AT||a2|3p2|10g|f
+Walford|US||2f|38c|-733|f
+Wallgau|DE||8r|3o0|vc|e|Valgava;Wollga
+Woudsend|NL||8m|432|fn|e|Wâldsein
+Walnut Cove|US||48|2su|-66m|e
+Wallerfing|DE||8r|3r8|zs|e
+Walnut Grove|US|Georgia|48|2lq|-6gx|e|Walnutgrove
+Wallington|AU||8j|-2y7|b5f|e
+Valff|FR||9k|3qi|kw|e|Walf;Falaba;Valf
+Walnut|US|Illinois|2f|37g|-6wv|e
+Wallmerod|DE||8r|3w8|m3|d
+Waldsieversdorf|DE||8r|41y|133|d
+Waldo|US|Arkansas|2f|2kn|-776|d
+Walchum|DE||8r|431|k8|d
+Wallis|US||2f|2ab|-7ev|d
+Wallenpaupack Lake Estates|US||48|370|-5t3|d
+Walls|US||2f|2p4|-6yf|d
+Waldstetten|DE|Bavaria|8r|3qb|sl|d
+Wallmenroth|DE||8r|3x4|lr|d
+Waltwilder|BE||8t|3xb|fe|c
+Waldighofen|FR||9k|3o3|kc|c|Waldighoffen
+Waldheim|CA||4q|426|-889|c
+Waldoboro|US||48|3ei|-5cq|c
+Waldkirchen|DE|Saxony|8r|3wk|ye|c
+Waldkirchen|DE|Saxony|8r|3x1|10f|c
+Walbourg|FR||9k|3rt|ln|c|Walburg
+Waldneukirchen|AT||a2|3pc|13m|c
+Wallhausen|DE|Baden-Wurttemberg|8r|3on|pd|b
+Wallwitz|DE||8r|3za|x5|b
+Walkertshofen|DE||8r|3pz|tf|b
+Walichnowy|PL||a5|3yi|1f2|b
+Waldenburg|CH||a7|3nm|lj|b
+Walserfeld|AT||a2|3or|102|b
+Waldo|US|Florida|48|2ar|-6c9|a
+Walton|US|Indiana|38|34y|-6nk|a
+Wald|DE|Bavaria|8r|3p9|sm|a
+Wallalong|AU||8l|-2iu|bp9|a
+Wallendorf|DE||8r|3yo|xk|a
+Walchen|AT||a2|3nd|z9|a
+Walbach|FR||9k|3pi|k2|a
+Walsberg|NL||8m|3yz|g4|a
+Wâlterswâld|NL||8m|442|gr|a|Wouterswoud;Wouterswoude
+Walbeck|DE|Saxony-Anhalt|8r|3zj|vv|a
+Wäldi|CH||a7|3ob|pa|a
+Walhalla|US|North Dakota|2f|3rw|-7k0|a|Valhalla
+Waldorf|DE||8r|3w8|k3|9
+Walker|US|Minnesota|2f|3mu|-7ar|9
+Waldweiler|DE||8r|3tu|iw|9
+Valīābād|IR|Qazvin Province|7o|2rh|3v0|9|Walīābāb
+Wallisellen / Hof|CH||a7|3np|nw|9
+Wallace|US|South Carolina|48|2og|-65s|9
+Wallsbüll|DE||8r|486|po|9
+Wala|NC||b8|-1ir|cml|9|Waala;Uala
+Walliston|AU||8k|-2gw|8yf|9
+Walserberg|AT||a2|3op|100|9
+Walnut Creek|US|Ohio|48|34m|-6b0|9|Walnutcreek
+Wall|US|South Dakota|2p|3e7|-7w0|9
+Walsdorf|DE|Rheinland-Pfalz|8r|3vo|io|9
+Wallhalben|DE||8r|3t0|kw|9
+Walton upon Trent|GB||9b|42k|-4n|9|Walton-on-Trent
+Walgrave|GB||9b|41e|-2b|9
+Walnut Grove|US|Tennessee|2f|2tc|-6ol|9
+Walla Walla|AU||8l|-2rc|bc2|9
+Walnut Creek|US|North Carolina|48|2q3|-60a|9
+Wallon-Cappel|FR||9k|3wx|6v|9
+Walker Valley|US||48|37n|-5qm|9
+Wallgraben-West|DE||8r|3rd|pc|9
+Waltham on the Wolds|GB||9b|42q|-29|8
+Wallingford|US|Vermont|48|3cr|-5mq|8
+Walnut Grove|US|Minnesota|2f|3eu|-7d7|8
+Walnut Springs|US||2f|2h2|-7jj|8
+Walbeck|DE|Saxony-Anhalt|8r|418|ur|8
+Waldlaubersheim|DE||8r|3up|lr|8
+Waldron|US|Indiana|38|31l|-6lz|8
+Walsleben|DE||8r|432|z6|8
+Waleska|US||48|2nc|-6iv|8|Walesca;Waluska
+Wall Lake|US||2f|39f|-7c5|8|Voll-Leyk
+Wallowa|US||3p|3il|-92h|8
+Walker|US|Iowa|2f|39h|-72y|8
+Włodowice|PL|Lower Silesia|a5|3wi|19s|8|Walditz
+Walheim|FR||9k|3oc|k7|8
+Walthill|US||2f|393|-7g1|8
+Walnut|US|Iowa|2f|378|-7ci|8
+Walnut Grove|US|Missouri|2f|2vx|-77v|8
+Walpersbach|AT||a2|3ok|193|8
+Walnut|US|Mississippi|2f|2p3|-6uy|8
+Waldo|US|Maine|48|3fn|-5bw|8
+Wallace|US|Idaho|3p|3nv|-8y1|8
+Walkerburn|GB||9b|4ai|-8d|8
+Wallersheim|DE||8r|3vg|i5|8
+Walnut|US|Mississippi|2f|2mv|-6z4|8
+Waldhambach|FR||9k|3rx|k2|7
+Waltenhausen|DE||8r|3pv|ss|7
+Walker|US|California|3p|2yz|-97w|7|Jádí Bitooh
+Walchsee|AT||a2|3od|y8|7
+Wallace Ridge|US||2f|2g3|-733|7
+Walkerville|US||2p|3jv|-8om|7|Walkersville
+Wallaroo|AU|New South Wales|8l|-2pn|bhx|7
+Waldwisse|FR||9k|3t9|i5|7|Waldwiese
+Waldzell|AT||a2|3pq|11b|7
+Walnut Grove|US|Alabama|2f|2mn|-6nr|7|Walnutgrove
+Wallabi Point|AU||8l|-2gw|brt|7
+Welaka|US||48|29w|-6av|7|Walaka
+Wallacestone|GB||9b|4bi|-ad|7
+Waltenheim-sur-Zorn|FR||9k|3rf|l7|7|Waltenheim an der Zorn;Wàltene
+Wallace|US|Louisiana|2f|2bg|-6zv|7
+Walkeringham|GB||9b|44f|-2c|7
+Walliba Kunda|GM||7|115|-12y|6|Waliba Kunda
+Walterswil|CH||a7|3mv|lm|6
+Wallacetown|NZ||ak|-3kp|czg|6
+Wald am Arlberg|AT||a2|3mx|rv|6
+Waldhausen im Strudengau|AT||a2|3q3|15j|6
+Walpole|US|New Hampshire|48|3bo|-5l7|6
+Walton|GB|England|9b|41s|-34|6
+Waldara|AU||8j|-2sw|bac|6
+Walden|US|Colorado|2p|355|-878|6
+Wallagrass|US||48|3mx|-5ak|6
+Wall|US|Pennsylvania|48|347|-65n|6
+Wald|AT||a2|3n4|tx|6
+Walcott|GB||9b|43h|-v|6
+Wald am Schoberpaß|AT||a2|3nt|14s|6
+Waldolwisheim|FR||9k|3rd|ko|6
+Walnut Creek|US|Arizona|4i|2pl|-8t1|6
+Walkamin|AU||8c|-1bm|b7y|6
+Walsheim|DE||8r|3ss|ml|6
+Walternienburg|DE||8r|40d|x6|5
+Walschbronn|FR||9k|3sj|ks|5
+Ualá|PA||4g|oz|-60u|5|Wala
+Waldron|US|Michigan|2q|37x|-6ii|5
+Waltenheim|FR||9k|3oe|kn|5
+Wallaga Lake|AU||8l|-2t3|bkv|5
+Walkendorf|DE||8r|45v|yv|5
+Waldau|DE||8r|3xu|x5|5
+Walsh|US||2p|2vv|-7w4|5
+Waltham St Lawrence|GB||9b|3z1|-29|5

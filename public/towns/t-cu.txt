@@ -1,0 +1,916 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Zibo|CN||7i|2u7|93y|10ap|Truy Bác;C-po;Cṳ̆-báuk;Chu-phok-chhī
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Zunyi|CN||7i|24x|88z|fq2|Dzuni;Ĝunji;Tuân Nghĩa;Cun-i;Cŏng-ngiê;Chun-gī-chhī;Cunji;Zunji
+Curitiba|BR||4w|-1yn|-3sv|f1a|Kurytyba;Kuritibo;Kuritiwa;Kuritiba;Kuriytýva;kuritcibas;Kuritiyba;Kuritib;Curityba;Curytiba;Corityba
+Puebla|MX|Puebla|41|1gx|-7kt|d22|Cuetlaxcoapan;Angelopolis;Puebl;Yucha Nchu'u;Pueblo
+Zhongwei|CN||7i|2w7|847|92a|Dṳ̆ng-ôi;Čung-wej;Trung Vệ;Tiong-oē-chhī;Chung-wei
+Jiujiang|CN||7i|2ai|8y8|8zf|Ciuciang;Ťiou-ťiang;Cửu Giang;Chiu-chiang;Kiukiang
+Zhuzhou|CN||7i|25b|8qb|8pt|Jianning;Zhutsjou;Ču-čou;Ĝuĝou;Chu-chû-sṳ;Chu Châu;Chu-chiu-chhī;Çyu Cou;Tṳ̆-ciŭ;Džudžou;Džudžov;Chu-chou
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Quzhou|CN||7i|28g|967|6ys|Čchü-čou;Cù Châu;Kû-chiu-chhī;Gṳ̀-ciŭ
+Culiacán|MX||3x|1ww|-8ab|68k|Kuljakanas;Cōlhuahcān Rosales;Kulyakan;Cuilacan
+Cúcuta|CO||27|lz|-5le|5zv|Kukuta
+Cuenca|EC||33|-82|-63g|4wy|Kuenka;Tumipampa
+Cuiabá|BR||2k|-17c|-4bu|4rp|Kujaba;Kuyaba;Culaba;Cuyabá
+Cuttack|IN||6t|1ku|6mk|4pi|Kataka;Kattak
+Santiago de Cuba|CU||36|1jm|-5um|4af|Santiago de Kubo;Santiago di Cuba;Kubos Santjagas;Santyago de Kuba;Santyaqo de Kuba
+Cuautitlán Izcalli|MX||41|1ik|-7nm|4a8|Izcalli
+Novokuznetsk|RU||74|45c|6q2|45w|Nowokusnezk;Novokuzněck;Novokuznjeck;Novokoeznetsk;Nowokuźnieck;Novokouznetsk;Novokuzneckas;Cusnezia;Novokuznețk;Nowokoeznetsk;Novokuzņecka;Novokusnetsk;Novokuznyeck
+Cuauhtémoc|MX|Mexico City|41|1i1|-7nf|43q
+Cusco|PE||3o|-11l|-5jx|3b1|Cuzco;Ciudad del Cuzco;Kusko;Qusqu;Kuskas;Cuschum;Cuscu;Cosco
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Cumaná|VE||2c|t2|-4ya|34o|Kumana
+Cuíto|AO||x|-ye|1b1|2qq|Kuito
+Villahermosa|MX|Tabasco|3z|1dz|-766|2q8|Villa Hermosa;Cualnezcaltepec;Viljahermosa
+Kadapa|IN||6t|148|62y|2nt|Cuddapah
+Cuernavaca|MX||41|1gl|-7nn|2m3|Cuauhnāhuac;Kuernavaka
+Kurgan|RU||7z|4a1|51i|2dx|Kourgan;Koergan;Kurqan;Curgan
+Chuncheon|KR||7h|2x8|9ut|275|Ch'unch'ŏn;Čchunčchon;Čunčonas;Ĉunĉon;Chhûn-chhôn-sṳ;Çunçeon
+Chula Vista|US||3p|2io|-918|21u|Čula Vista;Chulavista
+Cotia|BR||4w|-1tk|-3mc|1yg|Cutia
+Tsukuba|JP||7q|2s8|at8|1v5|Cukuba;Tukuba-chhī
+Cà Mau|VN||6h|pi|843|1qw|Ka Mau;Cu Mau;Kamao
+Zhubei|TW||7l|1x0|9c5|1n3|Trúc Bắc;Tsuk-pet-sṳ;Ču-pej;Jhubei
+Chungju|KR||7h|2uq|9vd|1m7|Čchungdžu;Chûng-chû-sṳ;Čungdžu;Çungcu;Ch’ungju
+Curug|ID||6l|-hf|880|1h6
+Cúa|VE||2c|s8|-55s|1eq
+Cuautitlán|MX|México|41|1in|-7ni|1do
+Rancho Cucamonga|US||3p|2mr|-92n|1co|Cucamonga
+Cuddalore|IN||6t|wo|65l|1c8|Gondelour
+Cuauhtémoc|MX|Chihuahua|2g|26x|-88v|1at|Cuahtemoc
+Delegación Cuajimalpa de Morelos|MX||41|1ht|-7nt|18l|Cuajimalpa de Morelos
+Cuautla|MX|Morelos|41|1g9|-7mw|17p
+Río Cuarto|AR||1n|-2k1|-4yr|17m|Rio Kuartas;Rio-Kuarto
+Cairns|AU||8c|-1b0|b8x|16j|Kērnsa;Kernsas;Cùirn;Kens
+Vila Curuca|BR||4w|-1tb|-3ky|133
+Hòa Cường|VN||6h|18k|8ci|x6|Bình Thuận
+Cubatão|BR||4w|-1ud|-3kz|vx|Ciwbao;Kuba
+Kufa|IQ||5z|2h1|3fg|uk|Koufa;Koefa;Kufe;Cufa
+Cursino|BR||4w|-1tn|-3li|so
+Curicó|CL||4u|-2p6|-5hw|sg|Kuriko
+Jounieh|LB||64|2me|2qy|qr|Džunije;Cünye;Joünié
+Cuamba|MZ||11|-154|2ti|pi|Guamba
+Cubal|AO||x|-108|13l|p4|Kubal
+Courbevoie|FR||9k|3ru|6a|no|Curbavia
+Cukai|MY||6v|bt|7za|mw|Chukai
+Curvelo|BR||4w|-1g4|-3ff|mf|Curvello
+Cung Kiệm|VN||6h|1mv|86w|m8
+Curepipe|MU||ag|-1kg|4ft|lu|Kiurpipas
+Củ Chi|VN||6h|uh|87t|ku
+Cumbum|IN|Tamil Nadu|6t|r2|5yo|ix
+Quartu Sant'Elena|IT||9o|30z|pp|ii|Cuartu Santa Alèni;Quarto Sant'Elena
+Crotone|IT||9o|30k|1bl|hy|Crotona;Croton;Krotona;Cutroni;Croto;Krotonė;Krotono
+Cosenza|IT||9o|316|195|hr|Cusenza
+Çubuk|TR||94|33s|2jr|he
+Cupertino|US||3p|2vo|-9ez|gu|Kupertino
+Cupang|PH||71|143|9c8|fz
+Coruripe|BR||3r|-s5|-2si|fx|Cururipe
+Cuneo|IT||9o|3fb|kz|fk
+Chumphon|TH||62|t6|7ni|fi|Chumpon;Čumphonas;Csumphon;Çumfon;Chumporn;Chumphaun
+Cuango-Luzamba|AO||x|-pf|1e4|fa|Cuango;Luzamba
+Cuenca|ES||9d|33b|-5x|f9|Conca;Kvenko;Kuenka
+Cửa Nam|VN||62|1me|861|eo
+Cuxhaven|DE||8r|45n|o6|en|Cuxhoben;Cuxhuuwen;Cux
+Huamantla|MX||41|1hn|-7k1|eg|Cuammantlah
+Cumbernauld|GB||9b|4bf|-b3|e1|Kambernoldas;Comar nan Allt;Cummernaud
+Chusovoy|RU||7z|4hx|4gl|dy|Tsjusovoj;Tschussowoi;Chusovói;Tchoussovoï;Čusovoj;Çusovoy;Tšusovoi;Ciusovoi;Čusovoi;Czusowoj;Tchussovoi;Tjusovoj;Tsjoesovoj;Čusowoj;Csuszovoj;Chusovaya
+Hof|DE|Bavaria|8r|3vr|x3|do|Dwórc;Curia Variscorum
+Cuyahoga Falls|US||48|369|-6ac|dn
+Cuijiaji|CN||7i|2tr|98j|d9
+Cutral-Có|AR||1s|-305|-5cb|d6|Cutrai-Có
+Curup|ID||6l|-9n|7ws|cu|Churup
+Çumra|TR||94|2wd|2j1|cp
+Cutler Bay|US||48|1z2|-676|cm|Cutler Ridge
+Currais Novos|BR||2w|-he|-2tg|ch|Curraes Novos
+Cuscatancingo|SV||2u|125|-6vq|cc
+Coburg|DE||8r|3vm|ug|bn|Cobourg;Koburq;Cuburgh
+Cuímba|AO||x|-h0|14m|bn|Cuimbo
+Cuilapa|GT||32|13o|-6yu|bi
+Curuçá|BR||23|-21|-3ox|bh
+Curitibanos|BR||4w|-23s|-3wi|b4|Curitybanos
+Culver City|US||3p|2mi|-94w|b1
+Custódia|BR||4p|-mh|-2wk|b0
+Cumanayagua|CU||36|1pj|-66s|ar
+Chuhuyiv|UA||98|3ug|2tx|a5|Chuhuiv;Čuhujiv;Tschuhujiw;Tchouhouïv;Tschugujew;Chuguyev
+Curuzú Cuatiá|AR||1n|-2ar|-4h9|a4|Kurusu Kuatia;Kurusu Kvatija;Kuruzu Kwatiya
+Al Qunayţirah|SY||69|2k1|2ri|a1|Quneitra;Kunejtra;Kuneitra;Kuneytire;Qinêtra;Qouneitra;Cuneitre;Qnaïtra;El Quneitra;El Kuneitra;Qunayţirah
+Chur|CH||a7|3m5|qh|9u|Coira;Koiro;Coire;Cuira;Cuera;Curia Raetorum;Couère;Kūra;Ciura;Kūras;Kur
+Curralinho|BR||23|-51|-3uc|9q
+Cumberland|US|Rhode Island|48|38l|-5if|9o
+Curumaní|CO||27|pk|-5oa|9o
+Cuatro Caminos|ES||9d|34d|-aa|9o
+Curridabat|CR||2i|rj|-6hg|9m
+Curaçá|BR||20|-oz|-32v|9i
+Cullinan|ZA||o|-1zb|278|9h
+Curtea de Argeş|RO||8u|3hd|1wj|8y|Argyasudvarhely;Curt de-Argeş
+Curanilahue|CL||4u|-2w4|-5nq|8w
+Cururupu|BR||2w|-53|-3gn|8s
+Juneau|US|Alaska|3j|4hy|-ade|8s|Džūno;Iunellum;Džunas;Cuno;Džuns;Tisaantikii Hiinii;Dzhunou
+’Aïn Benian|DZ||3|2u8|84|8n|Guyotville;Guyoville;Ain Berrian;Cuyotville
+Tsugaru|JP||7q|35c|au0|8l|Cugaru;Tugaru-chhī
+Culleredo|ES||9d|3c9|-nb|8e
+Courcelles|BE||8t|3w6|c5|87|Curticellae;Courcele
+Kulmbach|DE||8r|3v6|vt|7o|Culmbach
+Cutler Ridge|US||48|1z2|-677|7g
+Culemborg|NL||8m|40c|ej|7g|Culembourg
+Cuilo|AO||x|-mw|1i9|7e
+Cueto|CU||36|1ld|-5ux|7d
+Cumanacoa|VE||2c|sh|-4xk|77
+Coleraine|GB||9b|495|-ij|75|Cúil Raithin;Kolreinas
+Quart de Poblet|ES||9d|31o|-18|73|Cuart de Poblet
+Cuautlancingo|MX||41|1h1|-7kz|6z
+Cugir|RO||8u|3jc|1sx|6v|Kudzsir;Kudžiras
+Cudahy|US|California|3p|2mc|-94b|6r
+Cupira|BR||4p|-ny|-2rv|6r|Cupyra
+Cullera|ES||9d|30t|-p|6p
+Cumaribo|CO||27|cd|-5dw|6o
+Copertino|IT||9o|33v|1e5|6j|Cupertinu
+Culion|PH||71|x1|99e|6g
+Tsumeb|NA||1f|-1hh|1d7|6c|Cumebo
+Curchorem|IN||6t|16e|5pv|6b|Curchurem
+Cumbum|IN|Andhra Pradesh|6t|17a|63r|6b
+Cumaru do Norte|BR||23|-lq|-3x1|68
+Cunha|BR||4w|-1s3|-3gw|65
+Ucuma|AO||x|-100|15u|62|Cuma
+Guapiaçu|BR||4w|-1lr|-3sq|61|Cuapiaçu;Guapiassú
+Cuenca|PH||71|12m|9c9|60
+Byblos|LB||64|2ms|2r1|5s|Biblos;Gebal;Gubla;Biblo;Jbeil;Büblosz;Dschubail;Bibl;Cübeyl;Jebeil;Byblus;Jebaïl;Jbaïl;Bīblūs
+Çubuklu|TR||94|366|28s|5r
+Ćuprija|RS||8q|3e1|1nd|5q
+Yellowknife|CA||2s|4th|-8tp|5n|Cultellus Flavus;Yellounayf;Jelounaifas;Jelounaifa;Jelonajfo
+Cuité|BR||2w|-i0|-2sf|5n
+Cumberland|US|Maryland|48|325|-62s|5l|Cumbria
+Cuemba|AO||x|-xr|1e8|5k|Coemba
+Cunduacán|MX||41|1e7|-76t|5i|Conduacán
+Custoias|PT||99|367|-kc|5e
+Cusano|IT||9o|3ij|pi|59
+Cuautepec|MX|Hidalgo|41|1jo|-7l3|58
+Cuiyun|CN||7i|2ah|883|56
+Cubal do Lumbo|AO||x|-y7|139|55
+Curacaví|CL||4u|-2ks|-5hl|54
+Cudahy|US|Wisconsin|2f|3bc|-6s2|54
+Cutler|US|Florida|48|1z6|-673|51
+Curionópolis|BR||23|-gy|-3ts|4y
+Kostrzyn nad Odrą|PL||a5|423|14p|4y|Cüstrin;Küstrin an der Oder;Kòscérzëno;Kostrzyn ĉe Odro;Kostrin;Kostšina pie Odras;Kostšynas prie Odros
+Culpeper|US||48|2yv|-60o|4w
+Chudovo|RU||9i|4k8|2g0|4u|Tsjudovo;Tiutova;Tchoudovo;Čudovo;Tsjoedovo;Tšudovo;Czudowo;Tjudovo
+Cucuyagua|HN||56|14p|-6uv|4n
+Cuncolim|IN||6t|166|5pj|4m
+Curti|IN||6t|16u|5pm|4k
+Curundú|PA||4g|ox|-64z|4k
+Cumaru|BR||4p|-m9|-2r6|4j
+Kunda dya Baze|AO||x|-or|1bd|4g|Kunda-dia-Baze;Cunda diá Baze
+Cunco|CL||4u|-305|-5k3|4c
+Cugnaux|FR||9k|3cy|3q|4a|Cunhaus
+Cullman|US||2f|2mx|-6p8|4a
+Râşnov|RO||8u|3im|1yp|49|Rosenau;Cumidava;Rosnovia;Barcarozsnyó;Rîşnov;Komidava;Comidava;Rosnou;Erdenburg;Rozsnyó
+Cuchi|AO||x|-14p|1ay|46|Kuchi;Cuche
+Concorezzo|IT||9o|3in|px|45|Cuncurèss;Concorrezzo
+Cujubim|BR||4l|-q0|-4tv|45|Cajubim;Cojubim;Cujubina
+Cusset|FR||9k|3k5|9m|42|Cucet
+Cutlerville|US||2q|3b0|-6ly|40
+Kovin|RS||8q|3gb|1ma|3z|Temes-Kubin;Kevevára;Cuvin;Cubin;Temeschkubin
+Gurinhém|BR||2w|-js|-2qe|3x|Curinhãem
+Curuá|BR||4t|-59|-494|3x
+Cuerámaro|MX||41|1lb|-7uf|3v|Gueramaro
+Cubelles|ES||9d|36h|4n|3t
+Julfa|AZ||61|307|3ir|3t|Culfa;Jolfā
+Cuitláhuac|MX|Veracruz|41|1g9|-7go|3t
+Curiúva|BR||4w|-1ur|-3w6|3s
+Cuevas del Almanzora|ES||9d|2vm|-58|3m|Cuevas de Almanzora
+Curtorim|IN||6t|16g|5pm|3l
+Curacautín|CL||4u|-2ys|-5jp|3k
+Cuilápam de Guerrero|MX||41|1b8|-7gu|3g|Cuilapan de Guerrero
+Cunit|ES||9d|36g|4k|3f
+Cowdenbeath|GB||9b|4bv|-9a|3c|Cúl Dún Beithe
+Cudworth|GB||9b|44t|-3y|3b
+Cửa Lô|VN||6h|1ga|85o|3b
+Cunhinga|AO||x|-xz|1am|3a
+Curití|CO||27|id|-5mz|39|Curuti
+Küsnacht|CH||a7|3ng|nu|37|Cussenachus
+Curimatá|BR||2w|-rw|-3f3|35
+Cusseta|US||48|2hr|-6jh|35|Usseta
+Cumaral|CO||27|bv|-5o5|35
+Cucujães|PT||99|35j|-nn|33
+Cunha Porã|BR||4w|-22p|-43p|32
+Cuyotenango|GT||32|14e|-72d|30
+Cumayeri|TR||94|35j|2dz|2z
+Cubulco|GT||32|15y|-6zr|2z
+Cuatro Ciénegas de Carranza|MX||44|22z|-7vi|2v|Cuatrociénegas de Carranza
+Corleone|IT||9o|2x1|10y|2v|Korleonė;Curliuni
+Cuajinicuilapa|MX||41|19r|-7ld|2v|Cuajinicualapa;Cuajiniouilapan
+Cuitzeo del Porvenir|MX||41|1jh|-7sy|2u
+Kudowa-Zdrój|PL||a5|3w4|194|2u|Cudowa;Kudowa;Bad Kudowa;Kudowa-Zdrůj;Kudovazdroja
+Cuesmes|BE||8t|3w4|aw|2s|Cweme
+Cuango Calumbo|AO||x|-lc|15z|2s
+Cuencamé de Ceniceros|MX||44|1x3|-802|2q
+Cumpăna|RO||8u|3ek|27d|2p
+Znamenskoye|RU|Chechnya|9i|3dc|3hd|2o|Znamenskoje;Znamenka;Ç̇ulga-Yurt
+Curtici|RO||8u|3kr|1n6|2o|Kürtös
+Cuéllar|ES||9d|370|-bz|2o
+Cunday|CO||27|ba|-5rh|2n
+Curillo|CO||27|2v|-5uw|2n
+Cupar|GB||9b|4cg|-8d|2l|Cúbar
+Čurug|RS||8q|3ib|1jr|2k|Csurog
+Currumbin Waters|AU||8c|-267|bub|2i
+Cumnock|GB||9b|4a1|-bv|2h|Cumnag
+Cuers|FR||9k|3c4|gv|2h|Cuer
+Çukurca|TR||94|2vh|3d5|2g|Çokurca
+Julfa|IR||7o|306|3ir|2g|Culfa;Jolfā
+Chucher-Sandevo|MK||9u|38y|1ne|2e|Çuçer-Sandevo
+Cuauhtémoc|MX|Colima|41|1hp|-7zs|2e
+Cuyapo|PH||71|17u|9b6|2e
+Cuorgnè|IT||9o|3i3|l9|2e|Corgnè
+Cuacnopalan|MX||41|1ga|-7iv|2d|Cuagnopalan
+Cul de Sac|SX||3q|1e5|-4v7|2d
+Comacchio|IT||9o|3g5|xu|2c|Cumaculum
+Cunén|GT||32|16m|-70v|2c
+Cuapiaxtla|MX||41|1hm|-7jl|2c|Cuapixtla
+Cosolapa|MX||41|1fo|-7gk|2b|Cozolapa;Cusalapa
+Cutrofiano|IT||9o|33h|1ek|29|Cutrufianu;Kutrofiana
+Cudalbi|RO||8u|3j6|24y|29
+Cunningham|GB||9b|3zq|-v|28
+Cuggiono|IT||9o|3if|oi|28
+Cumhuriyet Mahallesi|TR|Iğdır|94|32w|3ed|28
+Cutro|IT||9o|30f|1b7|28
+Cumberland Hill|US||48|38l|-5ij|27
+Guardo|ES||9d|3av|-dh|27|Cuardo
+Cushing|US|Oklahoma|2f|2rz|-7gt|27
+Cullompton|GB||9b|3xa|-9f|26
+Portarlington|IE||8z|43o|-jz|26|Cúil an tSúdaire
+Ciudad Guerrero|MX||2g|27b|-8ak|26|Vicente Guerrero;Cuidad Guerrero
+Buharkent|TR||94|2xg|27u|25|Çubukdağı;Çubukdağ
+Cuichapa|MX|Veracruz|41|1du|-79w|25
+Colipapa|PH||71|qb|9gg|25|Kulipapa;Kalipapa;Culipapa;Calipapa
+Cubati|BR||2w|-j3|-2sz|24
+Curno|IT||9o|3ix|qp|24
+Culianin|PH||71|15g|9bu|24|Kulianin
+Cuautlapán|MX||41|1gg|-7hi|23
+Cuyo|PH||71|u5|9c5|23|Cugo
+Kuppenheim|DE||8r|3rn|mx|23|Cuppenheim
+Cumbal|CO||27|2j|-603|23
+Curral de Dentro|BR||4w|-18a|-388|22
+Cut-cut Primero|PH||71|170|9az|1z|Cutcut;Cutcut Primero
+Cuapiaxtla de Madero|MX||41|1gk|-7jq|1z|Santa Catarina Cuapiaxtla;Cuapixtla de Madero
+Cuero|US||2f|28t|-7i9|1z
+Curti|IT|Campania|9o|364|13o|1z
+Cuincy|FR||9k|3vy|8h|1y
+Coacotla|MX||41|1du|-7ay|1x|Cuacotlá;Chacotla;Coacatla
+Cumhuriyet|TR|İzmir Province|94|2yw|23a|1w
+Cubas|ES||9d|33n|-ao|1w
+Curuan|PH||71|k1|9fj|1w
+Currambine|AU||8k|-2g5|8xj|1w
+Cuitegi|BR||2w|-j5|-2qo|1v|Cuiteji
+Culcheth|GB||9b|44h|-70|1v
+Curarrehue|CL||4u|-31c|-5iv|1u
+Currimundi|AU||8c|-22d|btc|1u
+Kubey|UA||98|3j7|27u|1t|Kubéï;Kubej;Cubei;Chervonoarmiis'ke
+Currie|GB||9b|4ba|-97|1t|Currach
+Cumberland|CA|Alberta|2s|44x|-8rf|1s
+Cuambog|PH||71|kb|9pl|1s
+Cuité de Mamanguape|BR||2w|-j7|-2px|1r
+Culaba|PH||71|we|9ly|1q
+Cullowhee|US||48|2q3|-6f2|1q
+Cuatro Vientos|ES||9d|345|-ah|1p
+Cut Off|US||2f|2a2|-6yy|1o|Cut-Off;Cutoff
+Culianan|PH||71|je|9fb|1n|Culianon
+Cuetzalan|MX||41|1jm|-7iw|1m|Chetzalán;Coetzalan
+Cuanalá|MX||41|1h3|-7l5|1l|San Mateo
+Cumming|US||48|2n1|-6hq|1l
+Csurgó|HU||8v|3kh|1bi|1l|Čurguj;Čurgov;Čurgo
+Cuitzeo (La Estancia)|MX||41|1ki|-7xi|1k
+Cunewalde|DE||8r|3xy|14c|1k|Kumwałd
+Chumbicha|AR||1m|-285|-540|1k|Çumbiça
+Cuauhtémoc|MX|Tamaulipas|44|1qn|-7kn|1k
+Bad Kösen|DE||8r|3y1|wk|1j|Cusne
+Cumiana|IT||9o|3gy|ki|1j|Cumian-a
+Cúllar-Vega|ES||9d|2v7|-a7|1j
+Cumberland|US|Indiana|38|32i|-6ms|1j
+Cuntis|ES||9d|3af|-ns|1i
+Cumhuriyet|TR|Kars Province|94|34s|3bq|1i
+Cullinan West|HK||6i|1q1|8t3|1h
+Curral de Cima|BR||2w|-io|-2pz|1h
+Currans Hill|AU||8l|-2mk|bmt|1h
+Cumadcad|PH||71|102|9jv|1g|Kumadkad;Kumadcad
+Curcani|RO||8u|3es|21u|1g
+Curtin|AU||8l|-2q4|bi4|1g
+Chiri-Yurt|RU||9i|3bp|3j2|1f|Tsjiri-Jurt;Cemzavod;Čiri-Jurt;Çüyrin-Evl;Nadreč’e;Nadrech’ye;Chir-Yurt
+Çüngüş|TR||94|2y5|315|1f|Cüngüç;Çünküş
+Cumbitara|CO||27|4l|-5zi|1f
+Cudillero|ES||9d|3d0|-h3|1f|Cuideiru
+Cucq|FR||9k|3w8|4i|1f|Tchucq
+Cuyamel|HN||56|17j|-6sz|1e
+Cutler|US|California|3p|2tg|-97d|1e|Dził Ntsaa
+La Cuesta|ES||9d|364|-b0|1e|Cuesta
+Curvelândia|BR||2k|-17c|-4gw|1e
+Courpière|FR||9k|3j4|9u|1d|Corpèira;Curta Petra
+Cumbarjua|IN||6t|174|5pf|1d
+Cullalabo del Sur|PH||71|1bi|9e2|1d|Collalabo;Cullalabo
+Cutzamala de Pinzón|MX||41|1fb|-7re|1d
+Cuba|PT||99|2y1|-lx|1d
+Currais|BR||2w|-p1|-3fc|1d
+Cuanajo|MX||41|1i5|-7tz|1c
+Current River|CA||59|3qn|-6vr|1b
+Cuquío|MX||41|1m5|-7y6|1b
+Curtişoara|RO|Olt|8u|3fm|1vl|1a
+Peterculter|GB||9b|4em|-6b|1a|Cultair
+Cutias|BR||23|2r|-3x4|19
+Cumhuriyet|TR|Ağrı|94|32c|3bm|19
+Cuxton|GB||9b|3yp|1a|18
+Curralinhos|BR||2w|-fm|-3az|18
+Culasi|PH|Western Visayas|71|vr|9f2|18
+Cuihuangkou|CN||7i|31t|91i|17|Ts’ui-huang-k’ou
+Curteşti|RO||8u|3ok|221|17
+Culiacancito|MX||3x|1wy|-8ap|17
+Cuza Vodă|RO|Călărași County|8u|3ez|23r|17
+Cuffley|GB||9b|3zn|-b|17
+Culloden|GB||9b|4fp|-bi|16
+Cuto del Porvenir|MX||41|1j7|-7sy|15
+Culasi|PH|Western Visayas|71|us|9hm|15
+San Isidro|PH|Central Luzon|71|16w|9bd|15|Cululuan;Caluluan;Sitio
+Cucuyulapa|MX||41|1dz|-772|15|Primera Sección
+Cupra Marittima|IT||9o|3bi|12i|15
+Kulevcha|UA||98|3jv|2b6|14|Kulewtscha;Koulevtcha;Culevcea;Kułewcza
+Kuty|UA||98|3q2|1xy|14|Kouty;Kutai;Kutı;Cuturi
+Cursi|IT||9o|33j|1ew|14|Kurze
+Culverstone Green|GB||9b|3ym|z|14
+Cuparaque|BR||4w|-1gp|-366|14
+Cuevas de San Marcos|ES||9d|2vj|-c9|14
+Chupa|RU||9i|543|2jt|14|Tsjupa;Tšuuppa;Čuuppa;Tšuupa;Chup
+Cuesta Blanca|MX|Puebla|41|1gd|-7ir|13|Cuestablanca
+Culciu Mic|RO||8u|3oo|1rz|13|Culciul Mic
+Edolo|IT||9o|3ka|sp|13|Curtis Iduli
+Vynohradivka|UA|Odesa|98|3iw|27e|13|Curciu;Kurçu;Wynohradiwka
+Cuges-les-Pins|FR||9k|3c8|fu|13
+Custonaci|IT||9o|2xs|z9|13|Custunaci;Castonaci
+Cuicatlan|MX||41|1dg|-7hc|13
+Cumbe|BR||3r|-sr|-2va|12
+San Diego Alcalá|MX||41|1i1|-7oq|12|Cuarta Sección
+Curtis Bay|US||48|30z|-5wr|12|Freetown;South Baltimore
+Cumberland|CA|British Columbia|5b|3tu|-9nc|12
+Cujmir|RO||8u|3et|1rp|11
+Cupşeni|RO||8u|3o3|1uh|11
+Cuzama|MX||3z|1lm|-6w4|11|Guzama
+Cumhuriyet|TR|Artvin|94|378|37d|11
+Petropavlovskaya|RU|Chechnya|9i|3ci|3jb|11|Petropavlovskaja;Çur-Toġe;Çurttoġe;Çurttoġi;Ġoy-Ġala
+Cumhuriyet|TR|Ağrı|94|310|3b2|11
+Cupello|IT||9o|38v|14r|11
+Cuthbert|US||48|2g9|-6jj|11
+Cuisillos|MX||41|1l9|-80a|11|Cuisillo
+Culmore|GB||9b|48x|-k7|10|An Chúil Mhór
+Cupramontana|IT||9o|3cp|10f|10|Cupra Montana
+Cuijk|NL||8m|3zp|gc|10|Kuuk;Kuyc;Kuic;Kuk;Ceuclum;Kuyk
+Cullcuyre|PE||3o|-135|-5i5|10
+Cuautepec|MX|Guerrero|41|1aj|-7n0|10
+Culaman|PH||71|gk|9p2|z|Kulaman
+Cuartero|PH||71|vi|9gr|z|Cuariero
+Cuckfield|GB||9b|3xp|-e|z
+Cults|GB||9b|4eo|-61|z|Cuits
+Cuccurano|IT||9o|3dn|100|z
+Coaña|ES||9d|3cv|-is|y|Cuaña;Coaño;Cuiña
+Cuautlacingo|MX||41|1ip|-7me|y|Cuautlancingo;Cuautlazingo
+Cucciago|IT||9o|3j2|p9|y|Cutiacum;Cusciagh
+Cuba|US|Missouri|2f|2xq|-71w|y
+Cuentepec|MX||41|1ge|-7nx|y
+Urozhaynoye|UA|Crimea|9t|3h5|2mu|y|Čujunču
+Cutchogue|US||48|35x|-5ld|x
+Cumhuriyet|TR|Samsun|94|36g|2tx|x
+Cuesta Blanca|AR||1n|-2fh|-4zd|w
+Cugand|FR||9k|3mq|-3h|w|Kugant
+Cuichapa|MX|Veracruz|41|1g5|-7h3|w|Cinchapa
+Pryvitne|UA|Crimea|9t|3hc|2pe|v|Cuma Eli
+Cuanacaxtitlán|MX||41|1ao|-7m0|v|Cuanacastitlán
+Cutten|US||3p|359|-9ku|v
+Jiufen|TW||7l|1xr|9eg|v|Dziufenas;Chiufen;Cửu Phần;Jioufen;Chiu-fen
+Cuauhtémoc|MX|Chiapas|41|19b|-76x|v
+Culloden|US||48|2yq|-6by|v
+Custines|FR||9k|3rj|h2|v
+Cuacuila|MX||41|1k1|-7kb|v
+Cukalat|AL||9y|355|1iz|u|Cukala;Cukelat;Cukakat;Cukaljat;Cukelati
+Cuveglio|IT||9o|3jj|o9|u|Cuvelium;Cüéi
+Currumbin|AU||8c|-266|buc|u
+Corno di Rosazzo|IT||9o|3jr|11c|u|Cuar di Rosacis
+Cumpas|MX||37|2bb|-8gy|u
+Cut Bank|US||2p|3r3|-8o1|u|Cutbank
+Cuauhtémoc|MX|Durango|44|1vh|-80d|u
+Cuarta Brigada|MX||41|1la|-7tc|u
+Culacling|PH||71|12a|9hc|u|Colacling
+Chulumani|BO||3n|-19l|-57l|u|Çulumani
+Chulakivka|UA||98|3ks|2hv|t|Tsjulakivka;Tschulakiwka;Tjulakivka;Čulakivka;Tchoulakivka;Ciulakivka;Tsjoelakivka;Chulakovka;Chulokovka
+Cumari|BR||4w|-1eq|-3pr|t|Cumary
+Cura Carpignano|IT||9o|3hl|pq|t
+Cuarte de Huerva|ES||9d|37j|-2l|t
+Cuza Vodă|RO|Galați County|8u|3io|257|t
+Cuchicuato|MX||41|1le|-7tu|t
+Culoz|FR||9k|3jd|g3|t
+Cumuatillo|MX||41|1jz|-7x2|t
+Culit|PH||71|ov|9o8|t|Kulit
+Cugliate-Fabiasco|IT||9o|3jn|oi|t
+Curtuișeni|RO||8u|3o3|1po|s|Curtuiuşeni
+Kumtich|BE||8t|3x6|dl|s|Cumptich
+Kurów|PL|Lublin|a5|3yr|1pn|s|Kurov;Curóv;Curovia;Kuruvas;Kurova;Kuruw;Kuruvs;Kó-lū-hŭ;Kurou;Kuruv;kuruf;Khù-lû-fû
+Quiliano|IT||9o|3f1|nd|s|Cuggiœn
+Courmayeur|IT||9o|3j8|jd|s|Cort-Mayor;Curia Maior
+Culburra Beach|AU||8l|-2p1|bms|s
+Cuaxomulco|MX||41|1hr|-7ki|s|Cuaxolmulco;Cuajumulco;Cuajomulco;Coaxomulco
+Cuza Vodă|RO|Constanța County|8u|3f1|26n|r
+Coamiles|MX||3x|1ow|-84d|r|Cuamiles
+Cunzai|CN||7i|1ql|8sr|r
+Kupka|UA||98|3ph|1zm|r|Cupca
+Curăţele|RO||8u|3lq|1qa|r
+Korčula|HR||a6|3bc|1bm|r|Curzola;Isola di Curzola
+San Francisco Curungueo|MX||41|1i2|-7qq|r|Curungueo;Curungeo
+Cunardo|IT||9o|3jl|oh|r
+Currajong|AU||8c|-1hk|bbq|q
+Cuauhtémoc (Campo Cinco)|MX||37|247|-8hm|q
+Cuautitlán|MX|Jalisco|41|1i1|-81w|q
+Cullingworth|GB||9b|45i|-5a|q
+Curinga|IT||9o|2zv|19b|q
+Cuca|RO|Galați County|8u|3j1|25g|q
+Cungrea|RO||8u|3g3|1vq|p
+Quatretonda|ES||9d|307|-14|p|Cuatretonda
+Cumhuriyet Mahallesi|TR|Kars Province|94|34f|3au|p
+Cullybackey|GB||9b|48h|-hn|p|Coill na Baice;Cullybacky
+Cumberland Center|US||48|3do|-5f6|p|Cumberland Centre
+Cuise-la-Motte|FR||9k|3t7|8d|p
+Culasian|PH||71|vf|9m5|p|Gulasian;Colasian;Kulasian
+Curwensville|US||48|35u|-625|p
+Cuautinchán|MX||41|1gn|-7ka|p
+Kulmain|DE||8r|3um|x2|p|Culmain
+Cumberland Park|AU||8b|-2p5|aoz|o
+Curl Curl|AU||8l|-2lt|bo9|o
+Dillingham|US||1h|4k0|-c86|o|Curyuk
+San Francisco de Cuapa|NI||3s|y3|-6l6|o|Cuapa
+Cuauchichinola|MX||41|1fu|-7o2|o
+Cusago|IT||9o|3i9|p4|o
+Curry|PH||71|11s|9ii|o|Cury
+Comerio|IT||9o|3jc|oa|n|Gomera;Cumer
+Cut|RO|Neamț County|8u|3m8|21e|n
+Cuetzala del Progreso|MX||41|1ed|-7pb|n|Cuetzalá de Progreso
+Cuca|RO|Arges|8u|3gv|1w4|n
+Courrendlin|CH||a7|3ni|kh|n|Curtis Randelana
+Cucuieți|RO|Bacău County|8u|3kp|21s|n|Cucueţii;Cucueţi
+Kültür|TR||94|35h|2dy|n|Culture
+Curral Velho|BR||2w|-l2|-2y4|n
+Cubarral|CO||27|ak|-5p4|n
+Corquilleroy|FR||9k|3pg|7i|n|Curquilleroy
+Culubasa|PH||71|162|9b5|n
+Cuauhtémoc|MX|Oaxaca|41|1bi|-7bl|n
+Cualedro|ES||9d|38n|-l3|n
+Cuiyachapa|MX||41|1gx|-7hx|m
+Cuevas|PH||71|ma|9q9|m
+Cumhuriyet|TR|Kars Province|94|341|3aa|m
+Kuanos|PH||71|sk|9ju|m|Cuanos
+Cuamio|MX||41|1jn|-7sz|m
+Cuci|RO|Mureș County|8u|3l3|1v3|m
+Cumberland|US|Wisconsin|2f|3ih|-73m|l
+Cuglieri|IT||9o|33n|nt|l|Cullieri
+Cupilco|MX||3z|1eo|-76p|l
+Cumalı|TR||94|2uj|2eb|l
+Cumuapa 1ra. Sección|MX||41|1dz|-76q|l|Cumuapa
+Cuexcomatitlán|MX||41|1kr|-7z4|l
+Cuisiat|FR||9k|3km|ez|l
+Cumberland|US|Kentucky|48|2uq|-6ej|l
+Coajomulco|MX||41|1gw|-7nk|l|Cuajomulco
+Cubiri de Portelas|MX||3x|1zn|-8cq|l
+Cuzdrioara|RO||8u|3n1|1ug|l|Kozárvár
+Cupareo|MX||41|1k7|-7sm|l
+Cuba City|US||2f|3ad|-6z7|l
+Cundletown|AU||8l|-2gl|bro|l
+Cuevas del Campo|ES||9d|2wh|-85|k
+Cetatea de Baltă|RO||8u|3kh|1v5|k|Kümelburg;Kokelburg;Küküllővár;Cuculia
+Cumhuriyet|TR|Iğdır|94|338|3db|k
+Cuch Holoch|MX||3z|1ks|-6ya|k|Cuch-Holoch;Chuc-Holoch
+Culp Creek|US||3p|3de|-9h9|k
+Cuzăplac|RO||8u|3mh|1sg|k
+Cuijiamatou|CN||7i|30j|91u|k
+Cunhataí|BR||4w|-22x|-43h|k
+Custer|US||2p|3dl|-7zs|k
+Cucutilla|CO||27|ky|-5m5|k
+Cubzac-les-Ponts|FR||9k|3gx|-19|j|Cupçac;Cubzac daus Ponts
+Cucuron|FR||9k|3dl|f4|j
+Cuatzoquitengo|MX||41|1c1|-7ly|j
+Cuyoaco|MX||41|1ig|-7j6|j|Cuyuaco
+Comrie|GB|Scotland|9b|4cl|-b2|j|Cuimrigh;Comraigh
+Curra|AU||8c|-20f|bru|j
+Currumbin Valley|AU||8c|-26d|bu3|j
+Cuverville|FR||9k|3sn|-q|j
+Cuevas del Becerro|ES||9d|2ug|-e0|j
+Curry Rivel|GB||9b|3xq|-7z|i
+Acuamanala|MX||41|1he|-7ks|i|Cuamanola
+Cuevas de Vinromá|ES||9d|33z|c|i|Les Coves de Vinroma
+Calmont|FR|Occitanie|9k|3c9|4j|i|Culmont
+Cuadros|ES||9d|3an|-fo|i
+Cualác|MX||41|1da|-7m2|i
+Cully|CH||a7|3l5|ip|i
+Cuaxuxpa|MX||41|1fa|-7hk|i
+Cudjoe Key|US||48|1wj|-6ae|i
+Pidhirne|UA|Odesa|98|3kh|28o|i|Culmea
+Cuiseaux|FR||9k|3l5|ez|i
+Contessa Entellina|IT||9o|2wt|10m|i|Cuntissa
+Cuautotolapan (San José)|MX||41|1f7|-7hs|h
+Comano|CH||a7|3jw|ow|h|Comanum;Cuman
+Cuasso al Piano|IT||9o|3jh|oo|h
+Cuatolol|MX||41|1mo|-7mj|h|Coatolol;Cuatotol
+Cuilco|GT||32|16t|-73f|h
+Cucunubá|CO||27|el|-5ox|h
+Cuinchy|FR||9k|3wc|7n|h
+Cucerdea|RO||8u|3kw|1vf|h
+Curral das Freiras|PT||86|2iw|-1b5|h
+Cuffies|FR||9k|3t8|98|g
+Cuonetzingo|MX||41|1cp|-7nr|g
+Curtin|FR||9k|3is|f9|g
+Cuisery|FR||9k|3lc|dw|g
+Cureggio|IT||9o|3iv|ni|g
+Cumberland Head|US||48|3g8|-5nw|g
+Curahuara de Carangas|BO||3n|-1dk|-5a1|g|Karanka Kurawara;Curaguara de Carangas
+Cucharas|MX||41|1o2|-7ja|g
+Collooney|IE||8z|46i|-nl|g|Cúil Mhuine;Kolunis
+Cuaracurio|MX||41|1jq|-7sz|g|Cuarancurio;Cuaracuaro
+Cumpich|MX||3z|1k3|-6xx|g
+Çukuroba|TR||94|2u4|2v6|g|Chukurobakëy
+Cuvin|RO||8u|3k9|1nz|g|Kuvin
+Cuyalí|HN||56|12k|-6of|g
+Cuza Vodă|RO|Brăila County|8u|3gt|251|g
+Cumhuriyet|TR|Ağrı|94|323|3ci|f
+Cublac|FR||9k|3he|3n|f|Cubiac
+Cuttoli-Corticchiato|FR||9k|38m|os|f
+Cuba|US|New York|48|39a|-61g|f
+Curtice|US||48|37m|-6fl|f
+Cugy|CH||a7|3m1|j5|f
+Rivne|UA|Odesa|98|3ju|28y|f|Cuporani
+Venustiano Carranza|MX|Colima|41|1gt|-817|f|Cualata
+Cumbalum|AU||8l|-282|buh|f
+Culebra|PR||4m|1eu|-51e|f|Kulebra
+Cuyuxtlahuac|MX||41|1ck|-7l6|f
+Cuevas Bajas|ES||9d|2vg|-ch|f
+Cuendo|MX||41|1j0|-7pn|f
+Cussac-Fort-Médoc|FR||9k|3hc|-21|f
+Cuvio|IT||9o|3ji|o9|f
+Cussac-sur-Loire|FR||9k|3gz|as|f
+Cubará|CO||27|jh|-5kb|f
+Cucuteni|RO|Iași County|8u|3nc|22t|f
+Cullen|GB||9b|4g9|-7u|f|Inbhir Cuilinn
+Cucuruzu|RO||8u|3eg|1zh|e|Cucurezu
+Culver|US|Oregon|3p|3fp|-9cp|e
+Cusuna|HN||56|181|-6kr|e|Casuna;Cusuma
+Isle of Cumbrae|GB||9b|4ax|-do|e|Great Cumbrae;Cumbrae;Cumaradh Mòr
+Cubillos del Sil|ES||9d|3af|-i8|e
+Velykyy Kuchuriv|UA||98|3pv|1zy|e|Vélykyï Koutchouriv;Cuciurul Mare
+Cuaxoxpan|MX||41|1j1|-7if|e
+Culcairn|AU||8l|-2r3|bcg|e
+Cunlhat|FR||9k|3ir|9w|e|Cunlhac
+Cucaita|CO||27|fe|-5o1|e
+Cunettone-Villa|IT||9o|3in|t8|e
+Cuauhtamingo|MX||41|1iw|-7ib|e
+Cúlico 2da. Sección|MX||41|1ee|-76p|e|Calico Primera Sección
+Kusapín|PA||4g|pi|-6bh|e|Cusapín
+Cuzieu|FR||9k|3ip|bu|e
+Cusy|FR||9k|3j5|gr|e
+Culver|US|Indiana|38|36i|-6o2|e
+Quartell|ES||9d|32e|-q|e|Cuartell
+Cut|RO|Alba County|8u|3jm|1tr|e
+Cumhuriyet|TR|İzmir Province|94|2xr|22s|e
+Cuauhtémoc|MX|Puebla|41|1he|-7ie|e
+Cushing|US|Maine|48|3ea|-5cc|e
+Cuxpala|MX|Jalisco|41|1l4|-7zw|e
+Cucuieți|RO|Bacău County|8u|3lf|21p|e
+Cuba|US|Illinois|2f|396|-6sz|e
+Cuerva|ES||9d|326|-bp|d|Libora;Aebura
+Cumbres III|MX||41|1ow|-7w0|d
+Cuauhtempan (San Andrés Cuauhtempan)|MX||41|1gp|-7mv|d
+Cuncunul|MX||3z|1lc|-6ta|d|Kunkunul
+Curtea|RO||8u|3ja|1py|d
+Cuzap|RO||8u|3n4|1qa|d
+Cucuchucho|MX||41|1ie|-7ub|d
+Cuauhtémoc|MX|Chiapas|41|19z|-78c|d
+Cuejdiu|RO||8u|3mj|211|d
+San Pedro Cuayuca|MX||41|1fc|-7kq|d|Cuayuca;Coayuca
+Malyy Kuchuriv|UA||98|3qm|1zz|d|Cuciurul Mic;Malyï Koutchouriv
+Cuchulumtic|MX||41|1am|-75i|d
+Currie Barracks|CA||2s|3xq|-8t0|d|Currie
+Cuapinolito (Azulillo)|MX||41|17y|-7fk|d
+Cuautla|MX|Jalisco|41|1k4|-821|d
+Cumuato|MX||41|1ka|-7wz|d|Cunuato
+San Juan Cuautla|MX||41|1eo|-7hc|c|Cuautla
+Cuatro Caminos|MX|Puebla|41|1fd|-7ht|c
+Cunnamulla|AU||8c|-25z|b8o|c
+Cuadrilla de Dolores|MX||41|1h6|-7pz|c
+Cussac|FR||9k|3iz|2d|c
+Cuciulata|RO||8u|3jm|1y8|c|Warmwasser;Hévíz;Olthévíz
+Çukurbağ|TR|Ağrı|94|30n|3bi|c
+Cunac|FR||9k|3e1|66|c
+Cushendall|GB||9b|490|-gu|c
+Cuba|US|Illinois|2f|34h|-6yj|c
+Cumbre de Barranca Honda|MX||41|1ah|-7l6|c
+La Cuesta de Peñones|MX||41|1mk|-7qf|c|Cuesta de Peñones;La Cuesta de Piñones
+Curtarolo|IT||9o|3ig|ww|c
+Churwalden|CH||a7|3ly|qi|c|Curvalda;Silva Augeria
+Cutelinho|CV||84|162|-1td|c
+Cugnasco|CH||a7|3k9|os|c
+Cuesta de Laja|MX||41|1et|-7ci|c
+Cuatro Caminos|MX|Michoacán|41|1gr|-7vm|c
+Allonzier-la-Caille|FR||9k|3js|h0|c|Cura de Alonzie
+Curgies|FR||9k|3vt|a0|c
+Cuesta Amarilla|MX||41|1ez|-7cj|c
+Çukurköy|TR|Diyarbakır Province|94|2yt|342|c
+Cupuán del Río|MX||41|1g6|-7vv|c
+Cultus Lake|CA||5b|3sb|-9et|c
+Courtelary|CH||a7|3n2|jn|c|Curtis Alerici
+Cuexpala|MX||41|1fr|-7ls|c
+Curgy|FR||9k|3mj|c6|b
+Curimeo|MX||41|1jm|-7ui|b
+Cuapaxtitla|MX||41|1mp|-7lr|b
+Cullen|US||2f|2jl|-77l|b
+Curdworth|GB||9b|41x|-4u|b
+Cublize|FR||9k|3ju|c6|b
+Cuauhtamazaco|MX||41|1jm|-7it|b
+Cuffy|FR||9k|3mg|8h|b
+Quamila|MX||41|1k1|-7k0|b|Cuamila
+Cut and Shoot|US||2f|2c9|-7cw|b|Cut 'N Shoot
+Cul-des-Sarts|BE||8t|3us|cd|b
+Cuautempan|MX||41|1jb|-7jn|b|San Esteban;Cuatempan
+Cahuzac-sur-Vère|FR||9k|3e6|5b|b|Cuhuzac-sur-Vere;Cahusac-sur-Vère
+Cuza Vodă|RO|Brăila County|8u|3i3|249|b
+Kulishivka|UA||98|3qv|23k|b|Culișcăuți;Koulichivka
+Cusercoli|IT||9o|3ed|xd|b
+Cuauhtenango|MX||41|1cr|-7nl|b|Cuautenango
+Curtisville|US||48|34w|-65t|b
+Cubulcut|RO||8u|3ng|1pn|b
+Culmea|RO||8u|3ey|273|b
+Colonia Cuauhtémoc|MX|México|41|1iy|-7q5|b|Cuauhtémoc
+Chaykyne|UA||9t|3h8|2mp|b|Chaikyne;Çüyke
+Cuazáhuatl|MX||41|1me|-7mp|a|Cazahuatl
+Vynohradne|UA|Crimea|9t|3ht|2rk|a|Çuqul
+Cuparátaro|MX||41|1j5|-7st|a
+Curtina|UY||45|-2hb|-4bw|a
+Cuartel la Mesa (El Asoleadero)|MX||41|1id|-7ql|a
+Colturano|IT||9o|3i2|px|a|Culturanum;Colturan;Culturano
+Cuareim|UY||45|-2bz|-4fx|a
+Culhat|FR||9k|3je|9a|a
+Cuto de la Esperanza|MX||41|1it|-7ti|a
+Cuautotola|MX||41|1jr|-7jo|a
+Cuxac-Cabardès|FR||9k|3ch|6c|a|Cucçac de Cabardés
+Cuadrilla Vieja|MX||41|1i7|-7pr|a
+Cucueți|RO||8u|3eq|1xb|a
+Cusano Mutri|IT||9o|36u|14b|a|Cusano Mntri
+Cumbem|CV||84|15x|-1tr|a
+Cuyutlán|MX||41|1gk|-813|a
+Cultambo|PE||3o|-kd|-64n|a
+Cudrefin|CH||a7|3mg|ji|a
+Cummington|US||48|39y|-5mh|a
+Quart de les Valls|ES||9d|32d|-r|a|Cuart de les Valls
+Coolaney|IE||8z|46h|-nw|a|Cúil Áine
+Cunești|RO||8u|3eu|23i|a
+Sacún Cubwitz|MX||41|1bl|-73e|a|Cubhuitz
+Cumings|US||2f|2a6|-7e4|a
+Cuixapa (Coexapa)|MX||41|1h8|-7o4|a
+Cutzontipa|MX||41|1jv|-7jy|a
+Cuacos|ES||9d|33f|-fw|a
+Cuyamecalco Villa de Zaragoza|MX||41|1dx|-7gz|a|Cueyamecalco Villa de Zaragoza
+Cuatexmola (Xonacatitla)|MX||41|1i6|-7jr|a
+Cuceglio|IT||9o|3i0|lq|a|Cusele
+Cuautepec|MX|Puebla|41|1ki|-7kc|a|Cuantepec
+Curdridge|GB||9b|3xg|-3h|a|Curbridge
+Cuyacapan|MX||41|1jh|-7zk|9
+Cummins|AU||8b|-2n6|ah1|9
+Cuigy-en-Bray|FR||9k|3tb|53|9
+Quin|IE||8z|42q|-on|9|Cuinche
+Cutry|FR||9k|3tg|fy|9
+Kunrau|DE||8r|421|um|9|Cunrau
+Cuauhtémoc Barreal|MX||41|1cf|-75k|9
+Cuzorn|FR||9k|3fr|2n|9
+Cuarto Cantón|MX||41|15x|-74s|9
+Cumlosen|DE||8r|43b|we|9|Kumlosen
+Cuts|FR||9k|3tl|8m|9
+Quija|MX||41|197|-73z|9|Cuija
+Comitini|IT||9o|2vx|11x|9|Cumitini
+Cuillé|FR||9k|3p9|-34|9
+Curtis|US||2f|34v|-7r8|9
+Curcuraci|IT||9o|2ya|179|9
+Coatlaco|MX||41|1d6|-7m0|9|Cuatlaco
+Cunderdin|AU||8k|-2fx|91n|9
+Cuyamiapa|MX||41|15s|-74q|9
+Cuied|RO||8u|3kq|1p6|9
+Cuauhtémoc|MX|Chiapas|41|14k|-747|9
+Curteni|RO||8u|3lf|1wa|9
+Cutzato (Cuisato)|MX||41|1ht|-7vp|9
+Cumbres del Cimatario|MX||41|1l3|-7qr|9
+Curița|RO||8u|3kb|227|9
+Cuzalapa|MX||41|1i6|-81s|9
+Cumières|FR||9k|3sb|ax|9
+Cuauhlotitlán|MX||41|1ey|-7qp|9|Cuaulotitlan
+Cubiri de la Cuesta|MX||3x|1zj|-8cs|9
+Curazao|MX||41|1ea|-7dt|9
+Cuvat|FR||9k|3jq|h0|9|Cuval
+Çukurköy|TR|Yalova|94|34s|29p|9
+Cudgen|AU||8l|-26j|buj|9
+Cucuteni|RO|Botoșani County|8u|3oq|23e|9
+Santo Tomás|MX|Hidalgo|41|1mb|-7lh|8|Cuaxahual
+Cuddington|GB|England|9b|43w|-7a|8
+Chuprene|BG||9v|3cw|1qz|8|Tschuprenä;Chupreni;Čuprene;Čupren
+Culjković|RS||8q|3g3|1ib|8
+Küblis|CH||a7|3mb|r6|8|Cuvlignas
+Culan|FR||9k|3lb|6j|8
+Cuci|RO|Neamț County|8u|3m3|23k|8
+Culbertson|US|Montana|2p|3pq|-82c|8
+Cucorăni|RO||8u|3oq|21o|8|Cucoreni
+Curpen|RO||8u|3hg|1sm|8
+Cuautlita|MX||41|1k4|-7ka|8
+Cuervito Abajo|PA||4g|ni|-6e4|8
+Custoza|IT||9o|3i2|u0|8
+Cumbibirá|PE||3o|-ep|-689|8
+Cuastecomate|MX||3x|1mg|-82z|8
+Cuatro Milpas|MX||3x|1zx|-8eh|8
+Cuitláhuac|MX|Tabasco|41|1c8|-75l|8
+Cujuliapan|MX||41|1ek|-7dp|8
+Curciu|RO||8u|3kg|1vt|8
+Çomranlı|TR||94|378|2h3|8|Çumranlı;Çormanlı
+Cumby|US||2f|2k2|-7e8|8
+Cuabcapula|MX||41|1f5|-7hi|8
+Cuapancingo|MX||41|1j2|-7jt|8|Coapancingo
+Cuauhtémoc|MX|Chiapas|41|18r|-72i|8
+Cuctiepa|MX||41|1c3|-742|8
+Cuauhtémoc|MX|Veracruz|41|1gf|-7h6|8
+Cuadrilla Nueva|MX|Guerrero|41|1cu|-7nl|8
+Cuaxicala|MX||41|1k8|-7kb|8
+Culciu Mare|RO||8u|3oo|1s2|8|Culciul-Mare
+Cucho|PE||3o|-ri|-5v6|8
+Cubert|GB||9b|3vy|-e8|8
+Cuptoare|RO||8u|3h1|1pz|8
+Curtișoara|RO|Gorj County|8u|3ha|1sw|8
+Cuauhtemoczín|MX||3z|1ek|-79h|8
+Cursdorf|DE||8r|3wh|ux|8
+Cumbre Ventanas|MX||41|177|-74e|8
+Curlewis|AU||8l|-2eg|blf|8
+Curechiștea|RO||8u|3mx|21d|7|Curechiştia
+Cuesta del Mexicano|MX||41|1g8|-7hf|7
+Cuba|US|New Mexico|2p|2s2|-894|7
+Cuauhtenco|MX||41|1ge|-7pg|7
+Cuatro Bancos|MX||41|1ac|-7ni|7
+Cucova|RO||8u|3kh|234|7
+Cumhuriyet|TR|Kars Province|94|34n|3bk|7|Komasor;Yolaçan;Kamasor
+Cudos|FR||9k|3fb|-m|7
+Cuauhtémoc|MX|Chiapas|41|1d6|-73u|7
+Cuauhtémoc|MX|Veracruz|41|1i5|-7he|7
+Cuba Libre|MX||41|1ck|-7lm|7
+Cuxuljá|MX||41|1ap|-741|7
+Cuauneutla de la Paz|MX||41|1kf|-7ki|7
+Cuchumtón|MX||41|1av|-756|7
+Ejido Vega de San Marcos|MX||41|1k4|-7ha|7|El Cuerillal;Cuerillo
+Cuixcuatitla|MX||41|1n6|-7md|7
+Çukuryurt|TR||94|2wf|378|7
+Çukuröz|TR||94|35b|2mq|7
+Cuauhtémoc|MX|Chiapas|41|1al|-765|7
+San Antonio Cuajimoloyas|MX||41|1bk|-7fx|7|Cuajimoloyas
+Cullashpampa|PE||3o|-p1|-605|7
+Cuatotolapan Viejo|MX||41|1ef|-7cn|7|Pueblo Nuevo
+Curmătura|RO||8u|3e8|1to|7
+Cucuieți|RO|Călărași County|8u|3f5|21b|7
+Cuautieco|MX||41|1iy|-7k0|7
+Cuchumbaya|PE||3o|-1aj|-5gd|7|Cachambaya
+Cuevas de Morales|MX||41|1kd|-7uw|7
+El Cuarenteño|MX||3x|1nm|-83r|7|Cuarenteño
+Cuarta Sección|MX|Puebla|41|1jh|-7jd|7
+Cucuteni|RO|Dâmbovița County|8u|3hc|1yk|7
+Cuevas|MX||41|1m5|-7td|7
+Cupisa|PE||3o|-120|-5nk|7
+Culla|ES||9d|342|-h|7|Cuéllar
+Cubjac|FR||9k|3hm|2m|7|Cujac
+Cuesta Colorada|MX||41|1mf|-7nc|7
+Cușma|RO||8u|3mx|1wm|7|Kusma
+Cubiri de la Capilla|MX||3x|1zn|-8cu|7
+Çoğlu|TR||94|2vz|2ki|7|Çuğlu
+Coaxtlahuacán|MX||41|1cb|-7nz|7|Cuaxtlahuacán
+Cupasmí|MX||41|1ab|-76d|7
+Cutzaro|MX||41|1i1|-7th|7|Cuzaro
+Curienne|FR||9k|3il|gp|7
+Cuy|FR||9k|3q2|93|7
+Currie|AU||8g|-32x|b3l|7|Kerri
+Cueni|RO||8u|3gp|1uw|7
+Cuatlimax|MX||41|1mm|-7m2|7
+Cucco-Riviere|IT||9o|32a|17y|7
+Cumeré|GW||8|x2|-175|7
+Cuexcontlán|MX||41|1ev|-7o7|7
+Kulivtsi|UA||98|3r3|1zr|6|Koulivtsi;Culeuți
+Çukurasma|TR||94|2t2|2kt|6
+Curtafond|FR||9k|3kj|e5|6
+Cutler|US|Maine|48|3g2|-56o|6
+Cunha|PT||99|379|-nn|6
+Çukurbağ|TR|Antalya|94|2tk|2ab|6
+Cuajinicuil|MX||41|19u|-7ii|6
+Cumaalanı|TR||94|2v8|29n|6
+Cumhuriyet|TR|Ağrı|94|32n|39i|6
+Cuvry|FR||9k|3s8|h4|6
+Cutelo|CV||84|15z|-1ts|6
+Cuautlamingo|MX||41|1iw|-7iy|6
+Cuetzalingo|MX||41|1jr|-7k0|6
+Culcea|RO||8u|3o5|1tg|6
+Cútar|ES||9d|2ub|-br|6
+Cercivento|IT||9o|3l9|103|6|Çurçuvint
+Cuautelolulco|MX||41|1j9|-7km|6|Cuatelolulco
+Cubitán de Dolores|MX||41|19g|-7jx|6|Cobitán
+Curimarca|PE||3o|-w6|-5t9|6
+Cumbre del Español|MX||41|1gp|-7hv|6
+Gürümze|TR||94|2xj|2rg|6|Cürümze
+Cuixcoatitla (Chalco)|MX||41|1nc|-7mh|6
+Cuartel las Palmas|MX||41|1ie|-7qk|6
+Cuyahoga Heights|US||48|374|-6au|6
+Cuza Vodă|RO|Botoșani County|8u|3pv|226|6
+Curcubeu|RO||8u|3gc|20m|6
+Cuahuichotla|MX||41|1fa|-7hn|6
+Culmitzsch|DE||8r|3x1|xw|6
+Killygordon|IE||8z|488|-lc|6|Cúil na gCuirridín;Killygordan
+Culin|FR||9k|3ig|el|6
+Cushing|US|Texas|2f|2gd|-7bg|6
+Cueyatla|MX||41|1kd|-7kg|6
+Culqui|PE||3o|-cv|-668|6
+Cuauhtémoc|MX|Yucatán|3z|1m1|-6v8|6
+Cuyuxquihui|MX||41|1kc|-7i5|6|Cuyusquihui;Coyoxquihui
+Cuchilla Chica|MX||41|1ni|-7l2|6
+Cunța|RO||8u|3jl|1tw|6
+Gutinaș|RO||8u|3kd|22i|6|Cutinaş
+Culbertson|US|Nebraska|2f|33r|-7s4|6
+Cuaxtla|MX||41|1kl|-7kf|6
+Cucurpe|MX||37|2c9|-8jj|6
+Cuparu|RO||8u|3g8|1yk|6
+Cuve de Badeas|MX||41|1od|-7ld|6
+Cuadrilla Nueva|MX|Guerrero|41|1f7|-7rd|6
+Cussay|FR||9k|3mm|27|6
+Cubillas de Rueda|ES||9d|3ai|-ee|6
+Kildrum|IE||8z|48q|-kl|6|Cúl Droma
+Culmont|FR||9k|3ou|f4|6
+Cuxpala|MX|Zacatecas|41|1n5|-7yr|6
+Cuacuilco|MX||41|1j5|-7iy|6
+Cutca|RO||8u|3mn|1uw|6
+Cuinzier|FR||9k|3k5|bv|6
+Cubiri de la Máquina|MX||3x|1zq|-8cs|6
+Ćurilac|ME||9l|3a5|1h4|6
+Cuevas del Valle|ES||9d|33x|-dx|6
+Cuddington|GB|England|9b|3zv|-2l|6
+Cuixinipa|MX||41|1by|-7mu|6
+Cunevo|IT||9o|3kl|un|6
+Cuatro Caminos|MX|Chiapas|41|15a|-74p|6
+Cuxhuacan|MX||41|1m9|-7mi|6
+El Custodio|MX||41|1qx|-7pp|6|Custodio
+Camucuato|MX||41|1k2|-7wj|6|Cumucuato
+Cuautitlán del Parral|MX||41|1j4|-7gp|6
+Cullhuas|PE||3o|-xy|-5st|6
+Cujmiru Mic|RO||8u|3er|1rp|6|Cujmiral Mic
+Cuvilly|FR||9k|3tn|7h|6
+Cuauhtapanaloyan|MX||41|1jr|-7iq|6
+Cuchilla de Cachoana|MX||3x|1zw|-8f3|6
+Culmstock|GB||9b|3xf|-94|6
+Cuitzitán|MX||41|1hs|-7ud|6
+Cuq-Toulza|FR||9k|3cz|58|6
+Cuyucuenda|MX||41|1g6|-7ff|5
+Cuautitlán|MX|Jalisco|41|1oe|-7v9|5
+Cumberland|CA|Newfoundland and Labrador|50|3o4|-42k|5
+Çukurýurt|TM||5x|2y7|4e1|5|Chekur-Yurt;Chukur-Yurt
+Cuaxilotla|MX||41|1eh|-7pd|5
+Cuminestown|GB||9b|4fu|-6i|5
+Cuccaro Vetere|IT||9o|33k|16j|5
+Cuceu|RO||8u|3nb|1sg|5
+Cubiri del Amole|MX||3x|1yk|-8d8|5
+Cucunatí|PA||4g|nu|-61e|5
+Cuahuihuitzotitla|MX||41|1k4|-7kk|5
+Cuilonia Nuevo|MX||41|1ef|-7bn|5
+Cuștelnic|RO||8u|3kq|1vj|5
+Cudal|AU||8l|-2kh|bh6|5
+Cumayanı|TR||94|2xi|262|5
+Cuauyolotitla|MX||41|1fg|-7hm|5
+Coloma|US|California|3p|2zs|-9bt|5|Culoma
+Cullom|US||2f|35k|-6t7|5
+Cuyuchugo|PE||3o|-lr|-61r|5
+Cuauhtémoc|MX|Tabasco|41|1dj|-70y|5
+Cuauzapotitán|MX||41|1ja|-7hy|5|Cuauhzapotitan;Cuauzapotitlán
+Cuarta Sección|MX|Oaxaca|41|1b2|-7gm|5
+Cutuș|RO||8u|3jb|1yr|5
+Cuasso al Monte|IT||9o|3jj|oo|5
+Courtmacsherry|IE||8z|3zf|-o7|5|Cúirt Mhic Shéafraidh
+Cuauhtémoc|MX|Chiapas|41|1b1|-76y|5
+Cucarachas|MX||41|1kw|-7ww|5
+Curvalle|FR||9k|3e1|72|5
+Cuța|RO||8u|3o2|1rx|5
+Cuatode|MX||41|17p|-7g4|5
+Cumbre de Metlac|MX||41|1gl|-7hj|5
+Çukurören|TR||94|36w|2gv|5
+Cuaxinca|MX||41|1hg|-7ko|5
+Cuesta Blanca|MX|San Luis Potosí|41|1om|-7o8|5
+Curti|IT|Campania|9o|357|15g|5
+Cubiri de la Loma|MX||3x|1zk|-8cr|5
+Cuartillo Nuevo|MX||41|1nb|-7mu|5
+Cuddesdon|GB||9b|3zo|-35|5
+Cullinane|AU||8c|-1cn|b9m|5
+Cuntalapa|MX||41|15r|-74o|5
+Cugny|FR||9k|3u3|8r|5
+Cutelo Gomes|CV||84|164|-1tp|5
+Cuzion|FR||9k|3l4|4h|5
+Cuieșd|RO||8u|3mv|1px|5
+Cuatro de Octubre|MX||44|1yp|-7s9|5
+Cubleşu Someşan|RO||8u|3mp|1tn|5|Cubleşu-Someş;Cubleşul-Someşan
+Cuauhtzolco|MX||41|1i5|-7jc|5
+Tschurndorf|AT||a2|3o9|19l|5|Czundra;Csóronfalva;Čulindrof

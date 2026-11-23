@@ -1,0 +1,33 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Chetumal|MX||2b|1fg|-6ta|1ay|Četumalis
+Bilhorod-Dnistrovskyi|UA||98|3kb|2cb|d9|Aqkermen;Cetatea Albă;Białogród nad Dniestrem;Bílhorod-Dnistrovski;Bilhorod-Dnistrovskyj;Bilhorod-Dnistrovskij;Bilhorod-Dnistrovsky;Bilhorod-Dnyisztrovszkij;Bilhorod-Dnistrovs'kyj;Moncastro;Dniestro Bilhorodas;Bilhoroda-Dņistrovska;Belgorod-Dnestrovskiy;Bilhorod-Dnjistrovski;Bilhorod-Dnistrowskyj;Nyeszterfehérvár;Dnyeszterfehérvár;Nyisztrafehérvár
+Sankt Pölten|AT||a2|3px|17g|63|St. Pölten;St. Pötn;Pölten;Sanktpeltene;Sankt Peltenas;Sveti Hipolit;Sankt-Pyolten;Cetium;Saint Pölten;Sankt Pölton
+Cetinje|ME||9l|39r|1gj|47|Cetiña;Cetynia;Cettigne;Cetinė;Cetinjo;Cettinge
+Cetate|RO||8u|3ei|1s1|1n|Centatea
+Cetraro Marina|IT||9o|31s|189|14
+Mesopotamía|GR||8p|34i|1ms|13|Çetiroku
+Cetariu|RO||8u|3mx|1p6|12
+Cetăţeni|RO||8u|3hk|1xy|u
+Getaria|ES||9d|3ca|-64|p|Guetaria;Cetaria
+Cetronia|US||48|34r|-5tt|l
+Cetara|IT||9o|34x|14u|k
+Cetatea de Baltă|RO||8u|3kh|1v5|k|Kümelburg;Kokelburg;Küküllővár;Cuculia
+Ceton|FR||9k|3pz|23|k
+Cetraro|IT||9o|31s|18a|g
+Guéthary|FR||9k|3cm|-4h|e|Getaria;Guetaria;Cetaria
+Çetince|TR||94|2y2|2ep|d
+Cetona|IT||9o|3bd|x2|d|Citonia
+Cetatea|RO|Giurgiu County|8u|3e3|201|a
+Cetățuia|RO|Harghita County|8u|3kg|1zy|a
+Cetatea Veche|RO||8u|3el|22d|9
+Cetkovice|CZ||9m|3tq|1ag|8
+Ceatalchioi|RO||8u|3hs|27y|7|Cetalchioi
+Cetina|ES||9d|36p|-5g|7
+Cetățele|RO||8u|3o8|1ty|7
+Çetenli|TR||94|31k|3eb|7|Teperiz
+Cetlalpan|MX||41|1hs|-7hk|6
+Cetatea|RO|Teleorman County|8u|3em|1xx|6
+Cetea|RO||8u|3kg|1tj|6
+Cetan|RO||8u|3n3|1u4|6|Cetal
+Cetățuia|RO|Dâmbovița County|8u|3hg|1ya|5

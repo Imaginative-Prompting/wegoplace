@@ -1,0 +1,464 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mogadishu|SO||14|5o|3hy|jyo|Muqdisho;Mogadiŝo;Mogadisxo;Mogadischu;Mogadiscio;Mogadišas;Mogadiszu;Mogaidisiú;Mogadişu;Mogadixo;Moqadişo;Mogadiš;Mogadisjoe;Mogadisjû;Mugadiss;Mogadiss;Moukdicho;Mugadishu;Mugadiccu;Mogadixu;Mogadìsciu;Mogadiscium;Mogadisho;Mogandísio;Mogaadisiyo;Muqdishow;Mogadiisho;Muqdishu;Mogadish;Maqdishu;Magadiscio
+Mosul|IQ||5z|2sy|3bs|czi|Mossul;Mossoul;Mûsil;Mosoel;Musul;Moszul;Mausilium;Moussoul
+Mawlamyine|MM||7y|19t|7j7|3dx|Moulmein;Maulamiain;Molamjainas;Mulmejn;Mawlamyaing;Mulmain;Molamyaing
+Murmansk|RU||9i|5bl|2jy|2a2|Muurmanski;Mourmansk;Moermansk;Murmanszk;Semenova;Romanov-on-Murman;Romanov;Muurmanni
+Dehiwala-Mount Lavinia|LK||68|j0|65v|1p2|Dehivala-Maunt Lavinija;Mount Lavinia;Dehivala-Maunt Lavinia;Mount Laviniya;Mount Lavania;Mount Lavina
+Moundou|TD||17|nt|18o|1ih|Mundu;Mondu;Mondou;Moundu
+Murom|RU||9i|4ad|38q|z9|Moerom;Mourom
+El Mourouj|TN||1e|2tz|sd|xj
+Campo Mourão|BR||4w|-1us|-41i|sx
+Mukachevo|UA||98|3qk|1r4|ns|Moukatchévo;Mukačevo;Mukatschewe;Mukacheve;Munkács;Mukaczewo;Mukačeve;Munkatsch;Mukatschewo;Munkačevo
+Mount Pleasant|US|South Carolina|48|2j3|-65u|ml|Mt. Pleasant
+Mountain View|US|California|3p|2vv|-9f4|mc|Prospectus Montis;Mauntin Vyu;Mountainview
+Moanda|GA||v|-4d|10o|jr|Muanda;Mvanda;Mouanda;Moanga
+Mount Vernon|US|New York|48|35n|-5p4|j2
+Maulavi Bāzār|BD||6a|1w1|72x|fy|Moulvi Bazar;Maulvi Bāzār;Moulvibazar
+Mount Prospect|US||2f|38v|-6sa|f7
+Mouscron|BE||8t|3wy|8x|eh|Muskrono;Moeskroen;Mukronas;Moucron;Moeschroên;Musera
+Muyuka|CM||j|bx|q5|c5|Mouyouka
+Mouila|GA||v|-57|uq|c1
+Mount Laurel|US||48|32x|-5s1|bn
+Muravlenko|RU||7z|4x7|5r0|av|Murawlenko;Mouravlenko;Moeravlenko;Muravlenkas
+Mount Pleasant|US|District of Columbia|48|305|-5y0|9y|Ingleside;Walbridge;Rosemont Park
+Mount Waverley|AU||8j|-2x8|b75|9t
+Moussoro|TD||17|11w|19t|9r
+Mount Vernon|US|Washington|3p|3qi|-9ft|9h
+Mount Hagen|PG||bd|-ga|b4n|9c|Mt Hagen
+Mount Pleasant|CA|British Columbia|5b|3sv|-9hy|96|Mt. Pleasant
+Mount Olive-Silverstone-Jamestown|CA||59|3dj|-653|96
+Mount Lebanon|US||48|344|-66d|93
+Mount Juliet|US||2f|2sk|-6oc|8r
+Murzuk|LY||1d|200|12o|8h|Murzuq;Mursuk;Murzuuk;Mourzouk;Marzūq
+Mount Hampden|ZW||n|-1da|2dy|8c|Mount Hampton
+Mount Pleasant West|CA||59|3de|-64j|89
+Mouzaïa|DZ||3|2tb|7h|7y
+Moutsamoudou|KM||ac|-xt|3fc|7b|Mutsomodu;Mutsamudu
+Mount Pleasant|US|Wisconsin|2f|3am|-6s2|7b
+Mount Pleasant|US|Michigan|2q|3d4|-6jh|79|Mt Pleasant
+Mount Gambier|AU||8b|-2x3|av2|74|Mont Gambier;Mt Gambier;Mt. Gambier;Maunt Gambjeras;Mauntgambjera;Monto Gambier
+Moulay Ali Cherif|MA||d|2ew|-bv|6r
+Moulins|FR|Auvergne-Rhône-Alpes|9k|3lc|99|6f|Molins
+Mount Pearl|CA||50|3o0|-42m|69
+Mount Vernon Triangle|US||48|302|-5xy|63
+Mount Barker|AU|South Australia|8b|-2pf|apr|60|Mt Barker
+Moularès|TN||1e|2nt|mz|5y
+Moussadougou|CI||0|h3|-ft|5w
+Mountlake Terrace|US||3p|3or|-9fr|5u
+Mountain Brook|US||2f|2l2|-6oz|5r
+Mount Martha|AU||8j|-2yb|b6u|5i
+Mougins|FR||9k|3d4|jg|5a|Mogins;Muginis
+Mont-Royal|CA||59|3ig|-5ol|59|Mount Royal
+Mount Greenwood|US||2f|37u|-6rn|58
+Mount Eliza|AU||8j|-2y2|b70|57
+Mouyondzi|CG||a|-b3|12p|53|Mouionzi;Mouyondji;Muyonzi
+Mount Isa|AU||8c|-1ll|ari|53|Mont Isa;Mt Isa;Mt. Isa;Maunt Iza;Mount Iza
+Mountsorrel|GB||9b|42g|-37|4t
+Mount Pleasant East|CA||59|3de|-64i|4o
+Mount Vernon|US|Ohio|48|347|-6d5|4n
+Moussadou|GN||f|od|-ny|4n
+Mount Druitt|AU||8l|-2lt|bmy|4n|Mt Druitt;Mt. Druitt
+Mount Clemens|US||2q|3ac|-6e8|4k
+Mount Pleasant|US|Texas|2f|2k4|-7bt|4h|Mt Pleasant
+Mount Davis|HK||6i|1pw|8t0|4g
+Mount Eden|NZ||ak|-2ug|dhg|4d|Mt Eden
+Mount Vernon|US|Illinois|2f|2yg|-6uy|47|Mt. Vernon
+Mauda|IN||6t|1mr|64k|42|Maunda;Mouda
+Moultrie|US||48|2em|-6gr|40
+Mount Holly|US|North Carolina|48|2q2|-692|3y|Mt Holly
+Murmashi|RU||9i|5b6|2j5|3y|Murmasji;Murmaschi;Murmaši;Mourmachi;Murmaixí;Murmaszy;Moermasji;Murmaski
+Mount Washington|US|Kentucky|48|2xp|-6ln|3w
+Mountain Home|US|Idaho|28|3bt|-8xd|3t|Mtn Home
+Moulay Abdallah|MA||d|2k8|-nv|3s
+Mount Dennis|CA||59|3dd|-64t|3s
+Mount Dora|US||48|280|-6as|3r|Mt. Dora
+Mouvaux|FR||9k|3wu|8p|3p|Mouveaux
+Mounds View|US||2f|3ha|-76x|3l
+Moulay Driss Zerhoun|MA||d|2mm|-fc|3j
+Mount Vernon|US|Virginia|48|2zj|-5y6|3g
+Mount Parker|HK||6i|1pv|8ta|3f
+Mountain Home|US|Arkansas|2f|2sy|-74n|3f
+Mount Sinai|US||48|35r|-5mv|3d
+Mount Frere|ZA||o|-2du|28j|3a
+Mount Gravatt East|AU||8c|-24i|bt8|39
+Mount Annan|AU||8l|-2ml|bms|38
+Mountain Park|US|Georgia|48|2m0|-6hp|38
+Mount Lawley|AU||8k|-2gp|8xv|35|Mt Lawley
+Mountain Ash|GB||9b|3zk|-9e|34|Aberpennar
+Mount Kisco|US||48|36g|-5ot|33|Mt KISCO;Mount Kisko
+Mountain Creek|AU||8c|-226|bta|33
+Mountain Top|US||48|36d|-5us|32|Mountaintop
+Mount Holly|US|New Jersey|48|333|-5rr|30|Mt Holly;Mountholly;Mounthalli
+Mount Airy|US|North Carolina|48|2te|-67x|2w|Mountairy
+Mountain View Gardens|JM||3i|1dz|-5x9|2v
+Mount Pritchard|AU||8l|-2m6|bn6|2r
+Mountain House|US||3p|2wy|-9dm|2p
+Mount Evelyn|AU||8j|-2wy|b7u|2n
+Mount Airy|US|Maryland|48|31e|-5yb|2m|Mountairy
+Moura|PT||99|2xy|-kp|2m|Mora
+Mound|US||2f|3gu|-787|2l
+Mouans-Sartoux|FR||9k|3d6|jd|2l
+Mounana|GA||v|-3x|10k|2g
+Moundsville|US||48|32w|-68a|2f
+Mount Louisa|AU||8c|-1hj|bbn|2e
+Moussayo|CI||0|gn|-hw|2d
+Mount Rainier|US||48|306|-5xs|2d
+Mount Pleasant|US|Iowa|2f|35s|-72c|2c
+Mount Sheridan|AU||8c|-1b7|b8t|29
+Mourenx|FR||9k|3ch|-1r|29|Morencs
+Mount Joy|US||48|33f|-5wi|29|Mountjoy
+Moulay Bousselham|MA||d|2ow|-hh|29|Moulay Bou Selham
+Mount Vista|US||3p|3j1|-9gn|27
+Mount Merrion|IE||8z|442|-ha|26
+Moutier|CH||a7|3nc|kh|25|Monasterium Grandis Vallis
+Mount Cook|NZ||ak|-36q|dhh|23
+Mount Horeb|US||2f|3bh|-6xa|22
+Mount Hawthorn|AU||8k|-2go|8xs|22
+Mount Maunganui|NZ||ak|-2wk|dlf|21|Gunung Maunganui
+Mount Sterling|US|Kentucky|48|2xq|-6h6|20
+Mount Vernon|US|Indiana|38|34z|-6me|20
+Mount Carmel|US|Illinois|2f|2yp|-6rs|1y|Mont Carmel;Karmel;Karmelbjerget;Monto Karmel;Monte Carmelo;Karmelio kalnas;Karmelgebergte;Karmelberget
+Mount Moorosi|LS||12|-2c3|25f|1y|Mount Moroosi
+Mount Colah|AU||8l|-2lk|bns|1y
+Mountainside|US||48|34z|-5qk|1x
+Mount Ivy|US||48|36f|-5pn|1x
+Mougnini|CI||0|rt|-ij|1w
+Montoir-de-Bretagne|FR||9k|3nh|-5z|1w|Mouster-al-Loc'h;Mouster-al-Loch;Montorium
+Mount Olympus|US||2p|351|-8mj|1v
+Mount Cotton|AU||8c|-24r|btn|1v
+Mount Vernon|US|Indiana|2f|2xd|-6s6|1u
+Mount Pleasant|AU|Western Australia|8k|-2h0|8xt|1t
+Mount Ayliff|ZA||o|-2dl|29l|1s|Mount Alyff
+Mount Darwin|ZW||n|-1al|2fq|1r|Mount Fura;Darwin
+Mount Pleasant|CA|Alberta|2s|3xv|-8sw|1r
+Mount Cashel|CA||50|3o7|-42f|1o|Mt. Cashel
+Mount Healthy|US||48|30z|-6iv|1o
+Mount Zion|US|Illinois|2f|32h|-6uv|1n
+Murovani Kurylivtsi|UA||98|3rc|24h|1n|Mourovani Kourylivtsi
+Mourmelon-le-Grand|FR||9k|3sh|c4|1m
+Moulay Bou ’azza|MA||d|2kb|-h8|1m|Moulay Bou Azza
+Mount Carmel|US|Pennsylvania|48|35c|-5w9|1l
+Mount Warren Park|AU||8c|-251|btl|1l
+Mouy|FR||9k|3t0|6g|1k
+Mount Vernon|US|Maryland|48|316|-5wu|1j
+Mount Carmel|US|Tennessee|48|2tj|-6dm|1i
+Mourniés|GR||8p|2qk|1up|1h|Mournión;Mourniaí
+Mount Royal|CA||4q|40u|-88e|1h
+Mount Arlington|US||48|35p|-5rb|1h|Mt Arlington
+Mount Carmel|US|Tennessee|2f|2qm|-6sh|1h
+Mount Pleasant|US|Pennsylvania|48|33a|-5su|1g
+Mount Forest|CA||59|3e6|-688|1e
+Moulay Yacoub|MA||d|2mp|-ee|1e|Moulay Yakoub
+Moultonborough|US||48|3dj|-5ic|1e
+Mount Hope Huron Park|CA||59|3cq|-67m|1e
+Moûtiers|FR|Auvergne-Rhône-Alpes|9k|3ic|i5|1d|Motiérs
+Mount Albert|CA||59|3el|-64c|1d
+Mount Hood Village|US||3p|3i0|-9eu|1d|Villages at Mount Hood;Làng Núi Hood
+Aiánteio|GR||8p|2xc|1t6|1d|Aiándion;Moúlki;Aiántion
+Mount Victoria|NZ||ak|-36q|dhj|1c|Matairangi
+Mount Warrigal|AU||8l|-2nz|bn0|1c
+Mount Pleasant|US|Tennessee|2f|2qp|-6q9|1c|Mountpleasant
+Moulins-lès-Metz|FR||9k|3se|gz|1c
+Mount Carmel|US|Ohio|48|30n|-6i6|1b
+Mount Olive|US|North Carolina|48|2ps|-60v|1b
+Mountain Grove|US||2f|2v5|-74a|1b
+Mount Repose|US||48|30w|-6hy|1b
+Mount Ephraim|US||48|32s|-5sl|1a
+Mouroux|FR||9k|3rm|8g|1a
+Mount Low|AU||8c|-1hf|bbf|1a
+Mount Claremont|AU||8k|-2gs|8xm|19
+Mount Vernon|US|Missouri|2f|2v2|-78m|19
+Mount Pleasant|US|Pennsylvania|48|32d|-5y4|19
+Mount Vernon|US|Iowa|2f|38g|-71y|19
+Mouguerre|FR||9k|3cr|-3y|18|Mugerre;Moguerre
+Mount Pleasant|US|Pennsylvania|48|33j|-64y|18
+Moudon|CH||a7|3ln|iw|17
+Mountain Lakes|US||48|35l|-5qr|17
+Mount Pleasant|AU|Queensland|8c|-1mo|bic|17
+Mount Carmel|US|Ohio|48|36n|-6ee|16
+Mount Coolum|AU||8c|-21t|bt9|16|Mt Coolum
+Taman Mount Austin|MY||6v|4c|80a|15|Mount Austin
+Mount Washington|US|Maryland|48|31c|-5wz|15
+Mount Olive|US|Alabama|2f|2lj|-6pa|15
+Mount Pleasant|NZ||ak|-3d0|dbs|14
+Mount Plymouth|US||48|281|-6ah|14
+Mount Hermon|US|Virginia|48|2tw|-64m|14
+Mountain View|US|Hawaii|ax|1ic|-byv|13|Mountainview
+Mount Pleasant|KY||2e|1hu|-6a3|13
+Mount Austin|AU||8l|-2pm|bdb|13
+Mouilleron-le-Captif|FR||9k|3ls|-42|12
+Mount Lofty|AU||8c|-24j|bq5|11
+Mount Orab|US||48|30f|-6h4|11|Mount Oreb;Mount Horab
+Mount Gilead|US|Ohio|48|34n|-6e3|11
+Moussakro|CI||0|he|-9f|10
+Mountain Home|US|North Carolina|48|2q9|-6d5|10|Monta Hejmo
+Mountain View|US|North Carolina|48|2r4|-6a1|10
+Mountmellick|IE||8z|43j|-kc|z|Móinteach Mílic;Mauntmelikas
+Mount Uniacke|CA||35|3gq|-4xb|z
+Mount Hutton|AU||8l|-2jm|bpb|z
+Mount Angel|US||3p|3h7|-9h4|y
+Mouríki|GR||8p|2xp|1ow|y
+Moulay Brahim|MA||d|2ex|-m5|y
+Moúdhros|GR||8p|32r|1y7|y|Mudros;East Mudros
+Mouassué|CI||0|fg|-7r|y
+Mount Oliver|US||48|349|-667|y
+Moulton|US|Alabama|2f|2ns|-6qh|x
+Mount Clear|AU||8j|-2wg|b3o|x
+Mount Pleasant|US|Utah|2p|31v|-8lm|x|Dził Hózhóonii;Mt Pleasant
+Mount Shasta|US||3p|36r|-9fr|x
+Mount Gravatt|AU||8c|-24h|bt8|x|Mt Gravatt
+Mount Healthy Heights|US||48|313|-6ix|x
+Mount Penn|US||48|341|-5ut|w
+Mountain View Acres|US||3p|2nu|-91z|v
+Mount Tarcoola|AU||8k|-280|8uf|v
+Moréac|FR||9k|3p4|-7u|v|Mourieg
+Mount Helen|AU||8j|-2wi|b3o|v
+Mount Nasura|AU||8k|-2ha|8ya|v
+Mount Helena|AU||8k|-2gk|8yt|v
+Mount Pocono|US||48|368|-5tc|v
+Muromtsevo|RU|Vladimir Oblast|9i|4bd|35n|u|Mouromtsevo
+Moulden|AU||8e|-yr|a3t|u
+Mount Riverview|AU||8l|-2lp|bmg|u
+Mount Morris|US|Michigan|2q|3bs|-6gh|u|Mt. Morris
+Mouhijärvi|FI||92|4qu|1ry|u
+Mouriès|FR||9k|3dd|dj|t|Moriés
+Mount Morris|US|New York|48|3ap|-60b|t
+Mountain Iron|US||2f|3o1|-75a|t
+Mount Morris|US|Illinois|2f|38t|-6wf|t
+Mountville|US||48|338|-5wb|t
+Mountain View|US|Arkansas|2f|2rn|-73w|s|Mountainview
+Mouttagiáka|CY||73|2og|2jy|s|Moutayiaka
+Mougnan|CI||0|i3|-e8|s
+Rododáfni|GR||8p|2yb|1p9|s|Mourla;Rodhodháfni
+Mount Vernon|US|Texas|2f|2k7|-7ci|s
+Moustier-sur-Sambre|BE||8t|3w7|d2|r
+Mount Barker|AU|Western Australia|8k|-2o7|92v|r
+Mountain View|US|Missouri|2f|2us|-72q|r
+Mount Brydges|CA||59|3b6|-6ac|r
+Moussouminien|CI||0|lh|-9q|q|Missouminien
+Mouchamps|FR||9k|3ly|-2y|q
+Moussy-le-Neuf|FR||9k|3sa|78|q
+Mouyassué|CI||0|ex|-8l|q
+Mount Vernon|US|Kentucky|48|2xn|-6iq|q
+Mount Buller|AU||8j|-2v7|bas|q
+Mouzon|FR||9k|3tt|e4|p
+Mount Vernon|US|Kentucky|48|2vr|-6ia|p
+Mountain City|US|Tennessee|48|2tb|-6b8|p
+Moundville|US||2f|2jo|-6rf|p
+Mount Nelson|AU||8g|-3b8|bd8|o
+Mônguel|MR||19|19m|-10i|o|Mounguel
+Mount Union|US||48|346|-60c|o
+Mouzillon|FR||9k|3my|-3k|o|Maodilon
+Mount Ommaney|AU||8c|-24j|bst|o
+Mountain View|US|California|3p|2xl|-9f8|o
+Mours-Saint-Eusèbe|FR||9k|3h7|e2|o
+Mouthiers-sur-Boëme|FR||9k|3ik|c|n
+Mount Stuart|AU||8g|-3b3|bd6|n
+Mountain Green|US||2p|36a|-8mj|n
+Mt. Edward|CA||35|3ki|-4vd|n|Mount Edward
+Mount Vernon|US|Georgia|48|2he|-6df|n
+Moura|AU||8c|-1w9|bkl|m
+Mont Vernon|US||48|3b5|-5j3|m|Mount Vernon;Mount-Vernon
+Mouzáki|GR|Thessaly|8p|31j|1o6|l
+Mount Pleasant|AU|Victoria|8j|-2we|b3n|l
+Mountain Lake|US||2f|3e2|-7bp|l
+Mountain Lake Park|US||48|31g|-64i|l|Mt Lake Park
+Mount Jackson|US||48|2zn|-62g|k
+Mount Holly Springs|US||48|33g|-5yf|k|Mount Holly Spring
+Mount Olive|US|Illinois|2f|30j|-6x9|k
+Moutiers|FR|Grand Est|9k|3sr|gl|k
+Mount Sterling|US|Illinois|2f|333|-704|k
+Mount Morgan|AU||8c|-1tp|blr|j
+Mtsamoudou|YT||ah|-100|3hh|j|Moutsamoudou;M'Samoudou
+Mount Richon|AU||8k|-2hd|8ya|j
+Moudjeria|MR||19|1do|-y9|j
+Mouriés|GR||8p|36l|1rc|i
+Mount Pleasant|US|North Carolina|48|2qc|-67g|i|Mt Pleasant
+Mount Crosby|AU||8c|-24i|bsh|i|Mt Crosby
+Mount Cobb|US||48|371|-5tp|i
+Mouresi|GR||8p|31g|1sc|i|Mouressio
+Mount Gay-Shamrock|US||48|2x4|-6bv|i
+Montreuil-le-Gast|FR||9k|3q1|-4t|i|Mousterel-ar-Gwast
+Mount Sterling|US|Ohio|48|32c|-6fb|h|Mt Sterling;Mount Starling;Mount Stirling
+Mount Zion|US|Georgia|48|2lf|-6kn|h
+Mont Alto|US||48|32o|-5zg|h|Mount Alto
+Montreuil-sur-Ille|FR||9k|3q7|-4n|h|Mousterel-an-Il
+Mouzaki|GR|Ionian Islands|8p|2wu|1lu|h
+Mougon|FR||9k|3km|-t|h
+Moundridge|US||2f|2y4|-7iw|h|Mound Ridge
+Mount Kuring-Gai|AU||8l|-2lg|bnt|h
+Mount Ayr|US||2f|353|-79s|h
+Mouxy|FR||9k|3iw|gi|h
+Mountrath|IE||8z|438|-kr|h|Maighean Rátha;Mauntratas
+Mouret|FR||9k|3cg|f3|g
+Mount Emily Park|SG||7j|3m|80h|g
+Mountain Ranch|US||3p|2y7|-9au|g
+Mount Carroll|US||2f|38y|-6xy|g
+Mount Keira|AU||8l|-2nk|bn1|g
+Mouanko|CM||j|a4|r6|g|Mouangko
+Mountain Lodge Park|US||48|36z|-5py|g
+Moulis-en-Médoc|FR||9k|3h6|-25|g
+Mount Vernon|US|Maine|48|3fm|-5ef|g
+Moulins-Engilbert|FR||9k|3mj|al|g
+Mours|FR||9k|3sh|6b|g
+Mount Ousley|AU||8l|-2nk|bn5|g
+Mount Lehman|CA||5b|3sg|-9fy|g
+Mount Duneed|AU||8j|-2y8|b4y|g
+Moutfort|LU||9c|3tr|he|f|Mutfert;Mutfort
+Moustoir-Ac|FR||9k|3ox|-7w|f|Moustoer-Logunec'h
+Mount Vernon|US|Alabama|2f|2ed|-6sh|f
+Mount Pulaski|US||2f|335|-6w0|f
+Mount Zion|US|Georgia|48|2ko|-6el|f
+Mount Hawke|GB||9b|3vo|-eh|f
+Moutiers-les-Mauxfaits|FR||9k|3l5|-3z|f|Moutiers les Mauxfaits
+Mound Bayou|US||2f|2m4|-701|f
+Mouchard|FR||9k|3mh|g4|f
+Mouzourás|GR||8p|2qq|1v4|f|Muzuras
+Mount Saint Thomas|AU||8l|-2no|bn3|f
+Mouhoua Aby|CI||0|eb|-8p|e
+Mountain Meadows|CA||5b|3sx|-9h6|e
+Mount Compass|AU||8b|-2q7|ap2|e
+Mountain Village|US|Colorado|2p|2xd|-8bm|e
+Mount Wolf|US||48|33a|-5x2|e
+Mount Hope|US|West Virginia|48|2xa|-69g|e
+Mouchin|FR||9k|3wc|96|e
+Mount Pleasant|AU|New South Wales|8l|-2ky|bog|e
+Mount Pleasant|AU|New South Wales|8l|-2nk|bn3|d
+Mourcourt|BE||8t|3wp|9k|d
+Mouen|FR||9k|3sj|-1c|d
+Mouilleron-en-Pareds|FR||9k|3lo|-2d|d
+Moúlki|GR||8p|2xj|1r5|d
+Mouzeil|FR||9k|3nt|-3r|d|Mouzel
+Mount Macedon|AU||8j|-2vw|b5m|d
+Mount Holly|US|Maryland|48|317|-5x0|d
+Mountain View|US|Wyoming|2p|36n|-8ii|d|Mountainview
+Mount Airy|US|Georgia|48|2nw|-6fy|d
+Moussan|FR||9k|3c3|87|d
+Mount Currie|CA||5b|3vs|-9gw|c
+Moussobadougou|CI||0|li|-bu|c
+Mount Holly|US|Vermont|48|3cp|-5ma|c
+Mount Dandenong|AU||8j|-2x3|b7t|c
+Mount Vernon|SG||7j|3q|80m|c
+Mount Lewis|AU||8l|-2m8|bnl|c
+Mount Vernon|AU||8l|-2m2|bmx|c
+Mountainhome|US||48|36d|-5t3|c|Mountain Home
+Mount Gilead|US|North Carolina|48|2pt|-668|c
+Moult|FR||9k|3sf|-g|c
+Monteagle|US||2f|2pw|-6mg|c|Mount Eagle;Mont Eagle
+Mounds|US|Oklahoma|2f|2ro|-7eu|c
+Mount Nathan|AU||8c|-25o|btr|c
+Mouatro|CI||0|jm|-mz|c
+Les Moutiers-en-Retz|FR||9k|3mq|-5k|b|Mousteroù-Raez;Burgus Monasteriorum
+Moutnice|CZ||9m|3s9|1ai|b
+Mouleydier|FR||9k|3gm|1o|b|Montleidièr e Sench Ibarç;Mont Leidièr
+Mountainaire|US||4i|2ph|-8m7|b
+Moussac|FR|Occitanie|9k|3e6|br|b
+Moussy-le-Vieux|FR||9k|3s9|7a|b
+Mountain Road|US||48|2u4|-63f|b
+Mount Morris|US|Wisconsin|2f|3ej|-6vr|b
+Monterfil|FR||9k|3pj|-5i|b|Mousterfil
+Molac|FR||9k|3ol|-6s|b|Moulleg
+Mountain City|US|Georgia|48|2p0|-6fn|b
+Mound City|US|Missouri|2f|33h|-7cj|b
+Mouanatrindri|YT||ah|-zu|3ha|b|Mouanatrindi
+Mouliets-et-Villemartin|FR||9k|3gj|-2|b
+Moulton Chapel|GB||9b|42j|-8|b
+Mount Melville|AU||8k|-2pa|93f|a
+Mount Hermon|US|California|3p|2ux|-9f2|a|Mount Herman
+Moulton|GB||9b|415|1c|a
+Mount Ida|US||2f|2o0|-783|a
+Montreuil-sous-Pérouse|FR||9k|3pr|-3g|a|Mousterel-ar-Veineg;Monasteriolum super Petrosam
+Mount Kembla|AU||8l|-2nn|bmy|a
+Moulay|FR||9k|3q3|-1r|a
+Mouazé|FR||9k|3pz|-4h|a|Moezeg;Mouaxe;Mouoze
+Mouina|CI||0|ls|-in|a
+Mount Pleasant|AU|South Australia|8b|-2ol|aq9|a
+Mount Victoria|AU||8l|-2lb|ble|a
+Mount Olive|US|Mississippi|2f|2g8|-6x2|a
+Mount Currie 6|CA||5b|3vt|-9gq|a
+Moulon|FR||9k|3gl|-m|9
+Mountain Gate|US||3p|354|-9ft|9
+Mouthe|FR||9k|3lr|h7|9
+Moulle|FR||9k|3x3|62|9
+Moulineaux|FR||9k|3t2|2o|9
+Moulton|US|Texas|2f|2a5|-7hu|9
+Mount Jewett|US||48|37x|-62g|9
+Mountain Village|US|Alaska|49|4sh|-cmt|9
+Mouliherne|FR||9k|3nv|2|9
+Mountainair|US||2p|2nw|-874|9
+Mount Savage|US||48|32a|-634|9
+Moelingen|BE||8t|3x0|fv|9|Mouland
+Moumour|FR||9k|3c1|-1u|8|Momor;Montmor
+Mount Vernon|US|Alabama|2f|2n9|-6mb|8
+Mount Hope|US|Kansas|2f|2x7|-7jb|8|Mounthope
+Moulis|FR||9k|3bc|31|8
+Mount Beauty|AU||8j|-2u2|bcu|8
+Mount Crested Butte|US||2p|303|-894|8
+Moussoulens|FR||9k|3c8|67|8
+Moulins-la-Marche|FR||9k|3r5|1c|8
+Mouatouo|CI||0|jy|-mx|8|Mouatro
+Mount Vernon|US|Maryland|48|2y9|-5um|8
+Mountain Pine|US||2f|2o1|-76t|8
+Mountain Mesa|US||3p|2r0|-94x|8
+Mourmelon-le-Petit|FR||9k|3sh|bz|8
+Mountbellew|IE||8z|44j|-nm|8|An Creagán;Mount Bellew
+Mountain View|US|Oklahoma|2f|2pi|-7mb|8
+Mount Calvary|US||2f|3dr|-6t5|7
+Mounds|US|Illinois|2f|2v3|-6vs|7
+Mouzay|FR||9k|3te|ei|7
+Moussy|FR||9k|3s6|aw|7
+Moulin-Neuf|FR||9k|3h1|5|7
+Mount Morris|US|Pennsylvania|48|32d|-66f|7
+Moussey|FR|Grand Est|9k|3qj|ji|7
+Moutiers|FR|Brittany|9k|3p9|-3d|7|Mousterioù
+Mount Winans|US||48|312|-5ww|7
+Mouterre-Silly|FR||9k|3mi|4|7
+Mouriá|GR||8p|31p|1oc|7
+Mount Moriah|CA||50|3s1|-4h7|7
+Mount Hunter|AU||8l|-2mn|bmg|7
+Mousehole|GB||9b|3v4|-fe|7|Porthenys;Porthynys
+Moustoir-Remungol|FR||9k|3pc|-82|7|Moustoer-Remengol
+Moulins-le-Carbonnel|FR||9k|3qd|-2|7
+Mount Torrens|AU||8b|-2ow|aq0|7
+Mousseaux-lès-Bray|FR||9k|3qh|8z|7
+Moustier|BE||8t|3wq|a2|7
+Mound City|US|Kansas|2f|2xy|-7bd|7
+Moutiers-sous-Chantemerle|FR||9k|3lq|-1q|7
+Moustiers-Sainte-Marie|FR||9k|3dt|ha|7|Mostier de Santa Maria;Mostiers Santa Maria
+Mount Sidney|US||48|2ya|-63c|7
+Mount Magnet|AU||8k|-25y|93d|7
+Mount Clarence|AU||8k|-2pa|93h|7
+Mountain City|US|Texas|2f|2bg|-7jx|7
+Mousseaux-Neuville|FR||9k|3rv|3r|7
+Moustey|FR||9k|3f8|-24|7
+Mousthéni|GR||8p|35i|1uz|6
+Moutiers-sous-Argenton|FR||9k|3mf|-13|6
+Mount Victory|US||48|34l|-6g0|6
+Mousseaux-sur-Seine|FR||9k|3s8|4l|6
+Mountainburg|US||2f|2r0|-79l|6
+Moustéru|FR||9k|3qs|-90|6
+Moulins|FR|Brittany|9k|3pc|-3t|6|Melined
+Moulbaix|BE||8t|3wk|ac|6
+Moussey|FR|Grand Est|9k|3r7|iu|6
+Mount Johns|AU||8e|-1tw|abz|6
+Mount Samson|AU||8c|-23u|bsl|6
+Mouettes|FR||9k|3ru|3s|6
+Moulton|US|Iowa|2f|351|-75g|6
+Moutiers-sur-le-Lay|FR||9k|3lb|-38|6
+Mountain Park|US|Georgia|48|2mo|-6ih|6
+Mount Cottrell|AU||8j|-2x2|b5m|6|Mount Cotterell
+Mount Egerton|AU||8j|-2wj|b4a|6
+Mourioux-Vieilleville|FR||9k|3k0|4l|6
+Moulidars|FR||9k|3iu|-4|6
+Mount Aetna|US||48|320|-5zm|6
+Mount Perry|AU||8c|-1xy|bp9|6
+Mourilyan|AU||8c|-1cu|b9o|6
+Mountain River|AU||8g|-3bb|bcp|5
+Moux|FR||9k|3by|7d|5
+Mound City|US|Illinois|2f|2v1|-6vo|5
+Mountain View|US|Colorado|2p|32h|-83u|5
+Mount Lena|US||48|31w|-5zn|5
+Moutiers-au-Perche|FR||9k|3qo|2d|5
+Moussac|FR|New Aquitaine|9k|3kk|1x|5
+Mount Vernon|US|Oregon|3p|3fe|-96v|5
+Moutier-Malcard|FR||9k|3kv|5e|5

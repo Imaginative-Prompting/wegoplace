@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Karachi|PK||6q|1x2|565|2hoy|pechs;Karatschi;Karaĉio;Karačis;Karāči;Karaczi;Carachi;Karatxi;Keraçî;Karacsi;Karatsji;Karaaji;Karačės;Karochi;Karanchi;Karasi;Kurrachi
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+Kano|NG||u|xc|no|11vw|Kanas;Cano
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Kolkata|IN||6t|1qo|6tg|zqi|Kalkutta;Calcuta;Calcutta;Kolkato;Kalkuta;Kalkata;Caligardamana;Kalkota;Kolkat;Kalikātā
+Kabul|AF||6o|2nx|5c5|y7u|Kaboul;Cabul;Kâbil;Kaboel;Caboul;Cabura;Kabol;Kobul;Caubul;Kabura;Cabool
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Caracas|VE||2c|t5|-55s|n5c|Karakaso;Caracae;Karakasas;Karakas;Karakasa;Caraques
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Kanpur|IN||6t|21j|677|ls8|Cawnporne;Cawnpore;Kānpwr
+Kaohsiung|TW||7l|1qu|9a7|l4h|Takao;Gaoxiong;Cao Hùng;Kao-hsiung
+Cali|CO||27|9j|-5wk|igp|Kalio;Kalis;Kali
+Kowloon|HK||6i|1q0|8t6|h83|Koulun;Kaulunas
+Kunshan|CN||7i|2f6|9bz|g59|Kunšanas;Côn Sơn;Kchun-šan;Kunšan;Kan-shan
+Ganzhou|CN||7i|1zt|8v9|f99|Cám Châu;Kan-čou;Gantsjou;Gáng-ciŭ;Kàm-chû-sṳ;Kòng-chiu-chhī;Gandžov;Kan-chou
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Kakamega|KE||16|s|2oj|ees
+Kaduna|NG||u|t9|ko|e9w|Kaduno;Kadun
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Caloocan|PH||71|14p|9c1|d7t|Kalookan
+Kallakurichi|IN||6t|wl|63c|czf
+Kampala|UG||q|w|2ii|cyu|Campala;Kampalo;Kanpala;Kambaala;Kaempaala;Kampal
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+Kawasaki|JP|Kanagawa|7q|2qo|as4|bvb|Kaŭasaki;Kavasakis;Kavaszaki;Kavasaki
+Cần Thơ|VN||6h|rw|85v|bmo|Kan Tho
+Kayseri|TR||94|2zl|2ql|b7h|Cesarea in Cappadocia;Kajseri;Cesarea;Cesarea de Capadocia;Kaiseris;Caesarea in Cappadocia;Qayseri;Kaiseri;Caesarea;Casarea;Césarée;Kaisaria;Kaisarie
+Kaifeng|CN||7i|2oo|8tj|b79|Kai Feng;Keyféng shehiri;Khai Phong;Kchaj-feng;Kăi-hŭng;Kayfin;Khai-hong-chhī;Kai-fêng Fu
+Karaj|IR||7o|2rj|3xn|b69|Karadsch;Karadž;Karaĝo;Kerec;Keredžas;Karadzs;Karadj;Karej
+Kathmandu|NP||6r|24y|6l0|b4n|Katmandú;Katmanduo;Katmandou;Catmandu;Kathmandau;Kathmandou;Katmandoe;Katemandu;Catmandum;Katmandó;Khatmandu
+Calgary|CA||2s|3xt|-8sx|a30|Kalgario;Kalqari;Kalgaris;Kalgari;Calgaria;Kelgery
+Kananga|CD||y|-ge|1qa|9t9|Kanange
+Kalyān|IN||6t|1hg|5n6|9qn
+Kazan|RU||9i|4az|3sg|9lf|Qazan;Kaasan;Qozon;Casanum;Cazã;Kasã;Kasan
+Callao|PE||3o|-xh|-5y9|9gm|Kaljao;Kallaw;Kajao;Kallao;Kalyao
+Karbala|IQ||5z|2im|3ea|9ej|Kerbala;Kerbela;Karbalo;Qerbelaja;Karbila
+Jiaxing|CN||7i|2df|9bf|93s|Ťia-sing;Dziasingas;Gia Hưng;Ka-heng-chhī;Gă-hĭng
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Copenhagen|DK||8y|4ao|yx|8wg|København;Köpenhamn;Kopenhago;Copenhague;Kopenhagen;Copenaguen;Copenhaguen;Kodaň;Kòpenhaga;Kopenhaagen;Kopenage;Kopenhage;Kööpenhamina;Keypmannahavn;Cóbanhávan;Koppenhága;Kaupmannahöfn;Copenaghen;Hafnia;Kopenhāgena;Copenhaga;Kobenhaven;Kopenhag;Copenaga;Kjøpenhamn;Københámman;Kjobenhavn

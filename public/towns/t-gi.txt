@@ -1,0 +1,624 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Giza|EG||c|2bd|2ep|xp5|Gizeh;Guiza;Gizo;Gizé;Ghizeh
+Yinchuan|CN||7i|2yv|877|m27|Thành phố Ngân Xuyên;Ngân Xuyên;Jin-čchuan;Inčuanas;Gîn-chhoan-chhī;Ngṳ̀ng-chiŏng;Yinzconh;Jinčuan
+Jieyang|CN||7i|1te|8z9|enm|Ťie-jang;Yết Dương;Giék-iòng;Kiat-iông-chhī;Kiehyang
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Jinzhou|CN|Liaoning|7i|367|9ci|brg|Jintsjou;Ťin-čou;Ĝjinĝou;Dzindžou;Cẩm Châu;Gīng-ciŭ;Kím-chiu-chhī
+Jinhua|CN|Zhejiang|7i|28v|98c|bao|Ťin-chua;Kîm-fà-sṳ;Kim Hoa;Kim-hoâ-chhī;Gĭng-huà
+Kuala Lumpur|MY||6v|8q|7uh|b7w|Kualalumpūra;Kvala Lumpūras;Kuala-Lumpuro;Gizlungzpoh;Kouala Loumpou;Kuala-Lumpur;Kuala Lumpor
+Yichang|CN||7i|2db|8l4|af2|Nghi Xương;Jiĉang;I-čchang;Ngì-chiŏng;Ičan;Gî-chhiong-chhī;I-chang;Ichang
+Qinzhou|CN||7i|1p2|8dt|a03|Ginhcouh;Kĭng-ciŭ;Čchin-čou;Khîm-chû-sṳ;Khâm Châu;Khim-chiu-chhī;Ch’in-chou
+Jiaxing|CN||7i|2df|9bf|93s|Ťia-sing;Dziasingas;Gia Hưng;Ka-heng-chhī;Gă-hĭng
+Yulin|CN|Guangxi|7i|1qv|8hz|85j|Ngṳ̆k-lìng;Jü-lin;Ngiu̍k-lìm-sṳ;Ngọc Lâm;Yoglinz;Gio̍k-lîm-chhī
+Jingzhou|CN||7i|2cb|8nn|84b|Jingtsjou;Ťing-čou;Kinh Châu;Gĭng-ciŭ;Keng-chiu-chhī
+Yichun|CN|Jiangxi|7i|25b|8ts|82k|I-čchun;Nghi Xuân;Ngì-chŭng;Nî-chhûn-sṳ;Gî-chhun-chhī;I-ch’un
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Yibin|CN||7i|27w|82o|6gb|Nghi Tân;Ngì-bĭng;Gî-pin-chhī
+Jingmen|CN||7i|2e7|8no|4vu|Gĭng-muòng;Ťing-men;Kinh Môn;Keng-bûn-chhī;Ching-men;King mönn;Kingmen
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Jiamusi|CN||7i|3m0|a1z|48n|Ťia-mu-s’;Gjamusi;Dziamusi;Giai Mộc Tư;Gă-mŭk-sṳ̆;Ka-bo̍k-su-chhī
+Kimhae|KR||7h|2pv|9y0|43s|Gimhae;Kŭmhae;Gimhae-si
+Jijiga|ET||2|pz|3aw|3q6|Djidjiga;Džidžiga;Ĝiĝiga;Dschidschiga;Jigjiga;Giggigga;Jigjigga;Djigdjiga;Giggiga;Dzhidzhiga
+Rạch Giá|VN||6h|rt|83w|3jr|Li̍t-ka-sṳ;Racža;Rach Zhia
+Bắc Giang|VN||62|1n3|86z|3h0|Pet-kông;Bakziangas
+Jixi|CN||7i|3ht|a3s|346|Dzisi;Kê Tây;Ťi-si;Giĕ-să̤;Ke-se-chhī;Kisi
+Gifu|JP||7q|2qe|ajw|33u|Gihu
+Keelung|TW||7l|1xt|9e6|2sp|Chilung;Cơ Long;Kî-lùng-sṳ;Giĕ-lè̤ng;Ťi-lung;Ke-lâng-chhī;Chi-lung
+Kōriyama|JP||7q|2vw|aty|2j1|Korijama;Ginqsan Si
+Kikuyu|KE||16|-3h|2tu|2hz|Kikuju;Gikuyu
+Gia Lâm|VN||62|1me|86a|2dy
+Cầu Giấy|VN||62|1mf|85w|299
+Gijón|ES||9d|3cy|-fq|23i|Xixón;Ĥiĥono;Kixoi;Gigia;Chichonas
+Gent|BE||8t|3xt|ac|21n|Ghent;Gante;Gænt;Gand;Gandawa;Gandavum;Gant;Gint;Ganti;Gend
+Jimma|ET||2|lb|2ub|1xp|Jima;Džima;Gimma;Ĝima;Dżimma
+Gilbert|US|Arizona|4i|2kn|-8mj|1wr
+Granada|ES||9d|2vb|-a1|1sv|Granado;Grenade;Granata;Grenada;Grenado;Grenayd;Gırnata;Qranada;Graná
+Jiayuguan|CN||7i|32l|7l1|1sf|Gă-ṳ̆k-guăng;Ťia-jü-kuan;Gia Dục Quan;Ka-io̍k-koan-chhī;Kia-yu-kuan
+Jinchang|CN||7i|2yy|7vv|1ri|Gĭng-chiŏng;Ťin-čchang;Kim Xương;Kim-chhiong-chhī;Jinchuan
+Jiexiu|CN||7i|2uu|8mv|1pp|Giới Hưu
+Gilgit|PK||6q|2rs|5qf|1o8
+Gimpo-si|KR||7h|2wi|9rz|1ki|Gimpo;Kimpcho
+Geneva|CH||a7|3kc|h3|1k1|Genf;Ginebra;Genève;Ženeva;Ĝenevo;Xenebra;Jenewa;Ginevra;Genava;Genewa;Genebra;Genevra;Cenevre;Jenwe;Janeva
+Jizzax|UZ||7g|33h|58f|1ds|Djizak;Jizzakh;Djizaks;Džizakas;Cizzak;Dżyzak;Dzjizak;Ĝizaĥo;Jizzaq;Cizzax;Dschizak;Jizzak;Dzhizak;Jizak
+Ipswich|GB||9b|40m|38|1do|Ipsvičas;Gippevicum;Ipsviĉo
+Gijang|KR||7h|2pw|9yx|1d0|Kijang
+Gisenyi|RW||s|-4q|29a|1bw|Gosenyi;Gisenjis
+Cần Giuộc|VN||6h|th|88b|16a|Can Gioc;Cần Duộc
+Girga|EG||c|216|2gl|161|Jirja
+Gimcheon|KR||7h|2sc|9vw|15o|Kimčchon
+Giá Rai|VN||6h|pn|84y|14d
+Gingoog|PH||71|oj|9ni|12l
+Jijel|DZ||3|2ua|g0|10j|Gíger;Džidželis;Igilgili;Dżidżili;Yiyel;Cical
+Giresun|TR||94|35o|2yn|yx|Gireson;Kiresun
+Gyumri|AM||80|35b|3dt|vv|Kumayri;Gjumri;Gumru;Gumri;Giumri;Gjoemri;Ghiumri;Leninakan;Gumry;Kyumayri;Gimri;Kyumri;Kümri
+Giridih|IN||6t|1v7|6nr|vt
+Girón|CO||27|jn|-5n9|u5
+Girardot City|CO||27|by|-5rt|tt|Girardot
+Jizan|SA||7e|1ax|3a7|t8|Jāzān;Qīzān;Gizan;Gazan;Cızan;Jizon;Jaizan;Djāzān;Jezan
+Yuxi|CN|Yunnan|7i|1vo|7wu|su|Ngṳ̆k-kă̤;Jü-si;Ngọc Khê;Gio̍k-khe-chhī;Yüki
+Gillingham|GB|England|9b|3yr|1j|s4|Džilingamas
+Girona|ES||9d|38m|7u|rv|Gerona;Gérone;Ĝirono
+Ginowan|JP||7q|20y|9uw|rt
+Jaffa|IL||6n|2h1|2oj|rs|Joppa;Jafa;Joppe;Yafah;Yaffa;Jophé;Yafo;Jafo;Yāfā;Giaffa;Yāp̄ô;Yaffo;Zafo
+Manbij|SY||69|2th|2xf|rn|Manbidsch;Manbiy;Manbidž;Bambyce;Münbiç;Giyerapol;Manbi;Menbij;Manbej
+Gütersloh|DE||8r|407|na|qq|Giuterslas;Giuterslo;Guetersloh
+Yilan|TW||7l|1ws|9e7|q6|Ilan;Ngì-làn-sṳ;Jilanas;Nghi Lan;Gî-lân-chhī;I-lan
+Gießen|DE||8r|3wj|o4|os|Gissen;Gieseni;Gysenas;Giessa
+Gitarama|RW||s|-5r|2ao|oc
+Gia Nghĩa|VN||6h|xc|8b5|nn
+Guider|CM||j|rl|12r|mo|Gider;Guidder
+Giugliano in Campania|IT||9o|35p|13g|mb|Giugliàn;Giugliano
+Giảng Võ|VN||62|1mf|85x|lb
+Guildford|GB||9b|3yc|-1l|jz|Gildfordas;Gilfordia;Guilford
+Gion|JP||7q|2nn|a7z|j3
+Ioánnina|GR||8p|326|1lx|i8|Ioánina;Janina;Giannina;Yanya;Yannina;Yanina
+Gitega|BI||b|-9j|2b4|i1|Kitega
+Gimbi|ET||2|ph|2rj|hv|Ghimbi;Gembi
+Githunguri|KE|Kiambu County|16|-2y|2u6|hl
+Githunguri|KE|Machakos County|16|-3m|2ur|hl
+Gilgil|KE||16|-1e|2sw|gv
+Givatayim|IL||6n|2h3|2op|gu|Giv‘atayim;Givaatayim;Gevataym
+Görlitz|DE||8r|3y4|15n|g2|Zhořelec;Gorlicium Germaniae;Zhorjelc;Zgórjelc;Giorlicas;Gerlica;Goerlitz
+Giurgiu|RO||8u|3dx|204|f6|Zurz;Gyurgyevó;Yergöğü;Fekete Gyergyó
+Gilroy|US||3p|2ut|-9dp|es
+Gjilan|XK||8q|39y|1nn|ef|Gnjilane;Gilan;Gniljane
+Yeovil|GB||9b|3xi|-7b|dy|Jouvilis;Giuela
+Jawhar|SO||14|7q|3ie|d3|Jowhar;Giohar;Cavcavcal;Javohar;Jawahar;Johar;Joowhar
+Giddarbāha|IN||6t|2bw|5rf|cm
+G’ijduvon Shahri|UZ||7g|33e|4zo|c2
+Gifhorn|DE||8r|41s|tb|by
+Gisborne|NZ||ak|-2zd|dqg|al|East Cape;Te Tai-rāwhiti
+Gīnch’ī|ET||2|p3|2xz|ag
+Giyani|ZA||o|-1sq|2dc|aa|Giyane
+Girau do Ponciano|BR||3r|-rg|-2ub|a1|Giral do Ponceano
+Gigante|CO||27|6n|-5tv|a1
+Ghinnir|ET||2|ju|353|9v|Ginir;Ghiignir;Ginnīr;Ghinner
+Gīdolē|ET||2|fp|2vt|9v|Ghidole;Ghidolie
+Giddalūr|IN||6t|16p|639|9s
+Gerāsh|IR||7o|24v|46e|9l|Girāsh
+Gevelsberg|DE||8r|3yk|ke|93|Gievelsbiärg
+Gillette|US||2p|3f1|-852|92
+Agrigento|IT||9o|2vn|11q|91|Agrigent;Agrigente;Girgenti;Agrixento;Agrigentum;Agridžentas
+Gyula|HU||8v|3ll|1n4|8z|Đula;Jula;Giula
+Güstrow|DE||8r|45g|xt|8o|Gistrova;Gustrovium
+Giżycko|PL||a5|464|1og|8c|Gižicko;Lėcius;Lötzen;Lözen
+Gihombo|RW||s|-66|297|8a
+Giv'at Shmuel|IL||6n|2h4|2ot|86|Giv‘at Shemu’el;Giv‘at Shemuel;Giv‘at Shmu’el;Givat Shmu’el
+Gil|IN||6t|2dp|5uq|81
+Gierłoż|PL||a5|468|1nq|7w
+Giannitsá|GR||8p|35b|1q9|7q|Yannitsa;Yiannitsá
+Gibara|CU||36|1mn|-5vh|7o
+Gingee|IN||6t|y1|64m|7i|Gingi
+Kyrenia|CY||6e|2q6|2kk|7f|Kerýneia;Girne;Kyrínia på Kypros;Kerínia;Kirenija;Kirenia;Cirénia;Kérynia
+Gibraltar|GI||90|2se|-ev|7d|Xibraltar;Gibilterra;Calpe;Kamaka;Gibbilterra;Cebelitarık;Djibraltar
+Giussano|IT||9o|3iy|pl|77|Gluxianum;Giüssàn
+Ginan|JP||7q|2qb|ajy|77
+Gitesi|RW||s|-5v|29o|6x
+Gimja Bēt Maryam|ET||2|u5|2ug|6w|Gimjabet Mariam
+Ginja Bet|ET||2|u5|2uh|6w|Gimjabet;Gimja Beit
+Guidiguis|CM||j|s5|14v|6u|Gidigis
+Gioia del Colle|IT||9o|35c|1b0|6q|Gioja del Colle
+Giarre|IT||9o|2ws|166|6p|Giarri;Girarre
+Guidan Roumdji|NE||18|11y|im|6l|Guidam Roumji;Gidan Roumji;Guidan Roumji
+Gif-sur-Yvette|FR||9k|3r8|5x|6j|Žifa pie Ivetas
+Gjirokastër|AL||9y|33c|1jy|6i|Arghirocastru;Gjirokastra;Argirocastro;Đirokastra;Girokasteris;Argyrocastrum;Jirokaster;Cirokastra;Arghyrocastro;Gjinokastra;Gjinokastrer;Agirocastro;Gjinokastre;Gjinokastër;Argyrokastro;Gjirokastrë
+Guihulñgan|PH||71|s4|9if|6d|Guilhulngan;Gihulngan;Gulhulngan
+Gīmbīcho|ET||2|kp|2wj|6d|Gimbīchu
+Gīlān-e Gharb|IR||7o|2mu|3jk|67
+Gikongoro|RW||s|-6u|2a5|5u
+Giardinetti-Tor Vergata|IT||9o|389|z2|5r
+Geseke|DE||8r|3zg|nn|5q|Gêsiki;Gīsiki;Gaiseke;Gesecke
+Giulianova|IT||9o|3ar|12t|5p
+Giengen an der Brenz|DE||8r|3r2|sg|5m
+Gilly|BE||8t|3w2|cg|5k|Djilî
+Kemi|FI||92|52m|1w8|5d|Giepma
+Giovinazzo|IT||9o|36f|1ab|5c
+Diyadin|TR||94|31u|3db|59|Giyadîn
+Gioia Tauro|IT||9o|2yr|186|58
+Givors|FR||9k|3in|d9|52
+Kiruna|SE||9w|58i|1k7|4q|Kiiruna;Giron;Kirun
+Gilching|DE||8r|3pn|vd|4p
+Ginosa|IT||9o|34q|1ak|4i
+Jičín|CZ||9m|3w4|16n|4h|Jiczyn;Gitzinum
+Ginsheim-Gustavsburg|DE||8r|3ut|n7|4g
+Giruá|BR||4w|-25v|-46z|4g|Jiruá
+Gien|FR||9k|3oh|7b|4g
+Giv`at H̱ananya|IL||6n|2g9|2pv|4b|Givat Hanania
+Giaginskaya|RU||9i|3gm|33b|48|Giaginskaja;Guiaguinskaïa;Giaginszkaja;Guiaguínskaya;Qiaqin
+Gibsonton|US||48|25d|-6cu|3y
+Gipsy Hill|GB||9b|3yv|-9|3t
+Gines|ES||9d|2vv|-gw|3r
+Galehdār|IR||7o|24u|42a|3q|Kaleh Dār;Gilehdār;Galleh Dār
+Gidi|IN||6t|1tt|6l4|3q
+Gisors|FR||9k|3sw|4y|3g|Gisortium
+Giánnouli|GR||8p|327|1q8|3f|Yiánnouli
+Gibraleón|ES||9d|2vu|-jd|3f
+Giffnock|GB||9b|4b0|-bx|3d|Qiffnok;Giofnag;Giffneck
+Givat Zeev|PS||6g|2gi|2pp|3a
+Giaveno|IT||9o|3h4|kf|37|Giaven
+Kőszeg|HU||8v|3nn|19y|37|Kiseg;Ginsium;Keseg
+Girard Estate|US||48|32w|-5su|35
+Gilbués|BR||2w|-rb|-3hy|34|Gilboés
+Gistel|BE||8t|3y4|88|33|Histel
+Giffoni Valle Piana|IT||9o|354|15i|32
+Gislaved|SE||9w|4f6|11m|2u
+Gigant|RU||9i|3l7|36u|2s
+Giesen|DE||8r|410|ri|2r|Iesen;Joisen
+Hindarkh|AZ||61|33b|3n5|2q|Hindarx;Gindarch;Gindarkh
+Gekhi|RU||9i|3bw|3ib|2p|Blagodatnoe;Gixi;Gixtha;Gixthe;Blagodatnoye;Gikhi;Gehi
+Girard|US|Ohio|48|36b|-686|2o
+Gifford|US|Florida|48|24w|-67d|2o
+Gignac-la-Nerthe|FR||9k|3cj|ek|2j|Ginhac;Ginhac de la Nerta
+Gillingham|GB|England|9b|3xs|-6c|2g
+Gig Harbor|US||3p|3nh|-9gi|2g
+Gisborne|AU||8j|-2w5|b5n|2f
+Girrawheen|AU||8k|-2gg|8xs|2f
+Giriftu|KE||16|5k|32f|27
+Gingelom|BE||8t|3wz|e9|27
+Gilford|US||48|3cz|-5id|26
+Giubiasco|CH||a7|3k9|p1|26|Cibiascum;Giübiasch
+Gilău|RO||8u|3lt|1sw|25|Gyalu
+Qarne Shomeron|PS||6n|2hd|2pg|25|Ginnot Shomeron;Karnei Shomron
+Gilberts|US||2f|38y|-6th|24
+Gizilhajili|AZ||61|34q|3m6|23|Qızılhacılı
+Ortaköy|TR|Mardin|94|2ve|35a|23|Gyul’kharin;Hirrin;Girherîn;Gülharin;Harrın
+Givet|FR||9k|3va|df|22|Djivet
+Gīdam|IN||6t|1gp|6a4|22|Gidum
+Gidrotorf|RU||9i|4cw|3cy|22
+Girov|RO||8u|3mf|21o|22
+Gizel’|RU||9i|3bk|3ft|21|Gizel
+Gizo|SB||av|-mi|c3o|20|Ghizo
+Gīvī|IR||7o|2wp|3qa|1z
+Gio Linh|VN||62|1b0|89g|1y|Gio Lin
+Gibong|PH||71|wy|9f0|1x|Gibon
+Kemijärvi|FI||92|55b|247|1x|Giemajávri
+Gibsons|CA||5b|3t8|-9j3|1w
+Giardini-Naxos|IT||9o|2x3|16f|1w|Giardini Naxos
+Gibsonville|US||48|2sb|-64y|1w
+Guiembé|CI||0|pn|-fv|1w|Guienbé;Giembe
+Girey|RU||9i|3i4|34y|1v|Girej;Giren
+Kittilä|FI||92|57y|1x5|1v|Gihttel
+Girvan|GB||9b|49g|-di|1v|Inbhir Gharbhain
+Gilleleje|DK||8y|4bw|y7|1u|Gilleje
+Givrag|AZ||61|31g|3hc|1t|Qıvraq;Kivraq;Kivrag
+Göreme|TR||94|2zc|2or|1s|Corama;Gioremės
+Gilze|NL||8m|3z6|dq|1r
+Gières|FR||9k|3hi|g3|1r
+Giudecca|IT||9o|3i6|y9|1p
+Ginebra|CO||27|ad|-5vv|1p
+Girifalco|IT||9o|2zv|19n|1n
+Gioiosa Ionica|IT||9o|2yh|19a|1m|Gioiosa Jonica
+Ginoza|JP||7q|21k|9vi|1m|Jinoza
+Gia Hanh|VN||62|1f6|85l|1m
+Githiga A|KE||16|-31|2u1|1k
+Girraween|AU|New South Wales|8l|-2lw|bna|1j
+Fish Town|LR||15|eg|-lw|1i|Gida Gida
+Ginneken|NL||8m|3z9|db|1i
+Giarmata|RO||8u|3jc|1n7|1i|Gyarmatha;Gyarmata
+Giporlos|PH||71|uw|9oh|1h
+Gârla-Mare|RO||8u|3et|1ra|1h|Gîrla Mare
+Giessendam|NL||8m|3zz|dg|1g|Giesendam
+Give|DK||8y|4b5|po|1g
+Gilmer|US||2f|2ix|-7bq|1g
+Krasnosilka|UA||98|3li|2dh|1g|Güldendorf;Krasnosëlka;Gil’dendorf
+Giddings|US||2f|2bu|-7ha|1f
+Gignac|FR|Occitanie|9k|3d9|9v|1e
+Gieten|NL||8m|439|is|1d
+Ghiroda|RO||8u|3j4|1n6|1d|Győröd;Giroda
+Gironella|ES||9d|38r|58|1c
+Gilbertsville|US||48|340|-5u1|1c
+Giberville|FR||9k|3sm|-s|1c
+Giessenburg|NL||8m|401|dl|1c
+Gibsonia|US|Florida|48|263|-6bp|1a
+Gibraltar|US|Michigan|2q|38y|-6f3|19|Gibralter
+Gierle|BE||8t|3yf|dj|19
+Gârbovi|RO||8u|3ge|22d|18|Gîrbovi
+Giebelstadt|DE||8r|3tx|rm|18
+Gingen an der Fils|DE||8r|3r6|r6|18
+Gīlāndeh|IR||7o|2ur|3wg|17
+Nuova Gibellina|IT||9o|2x1|zr|17|Gibellina;Gibbellina
+Gilowice|PL|Silesia|a5|3u3|1hn|17
+Giroc|RO||8u|3ix|1n0|17|Gyüreg
+Ipswich|US|Massachusetts|48|3ak|-5gs|16|Gippevicum
+Gillen|AU||8e|-1tv|abv|16
+Giubega|RO||8u|3el|1t1|16
+Gits|BE||8t|3xo|8m|15
+Gieboldehausen|DE||8r|3zd|se|15
+Giedlarowa|PL||a5|3vj|1q9|15
+Ghioroc|RO||8u|3k7|1ny|14|Gioroc;Ghiorac
+Giraltovce|SK||8s|3sf|1ns|14|Girált;Oiraltovce
+Gigean|FR||9k|3cu|ab|14
+Krynychky|UA|Dnipropetrovsk|98|3qd|2nq|14|Krynytschky;Krinichki;Krinički;Girnyc'ke;Krynytchky;Krynyčky;Krynyczky;Krînîcikî;Krinichky
+Gitgit|ID||70|-mr|8vu|13
+Girton|GB||9b|413|8|12
+Gilena|ES||9d|2vh|-dn|12
+Irákleia|GR||8p|36e|1so|12|Tzoumagia;Barakli Cuma;Giumala de Jos;Iraklia
+Gierałtowice|PL|Silesia|a5|3vi|1g1|12
+Givry|FR||9k|3ly|d6|11
+Gibbstown|US||48|32n|-5t4|11
+Gistrup|DK||8y|4eb|rr|11
+Gighera|RO||8u|3dt|1u4|10
+Ginza|JP||7q|2r3|as9|10
+Gimry|RU||9i|3as|3m4|10|Guimry;Gimri;Gimra
+Gilles Plains|AU||8b|-2ot|ap5|10
+Giswil|CH||a7|3m3|mq|10
+Givoletto|IT||9o|3hg|ku|10
+Gibson|US|Arkansas|2f|2ow|-748|z
+Kirkenes|NO||9j|5dp|2bh|z|Kirkkoniemi;Girkonjárga
+Gilserberg|DE||8r|3xj|p7|z
+Giavera del Montello|IT||9o|3j7|xt|z
+Tishchenskoye|RU||9i|3ia|37r|y|Tisjtsjenskoje;Gishchenskoye
+Gilberdyke|GB||9b|45b|-22|y
+Gibson City|US||2f|34e|-6ti|y
+Gilazi|AZ||61|35j|3t2|y
+Hilantagaan|PH||71|v3|9jx|y|Gilantagaan
+Giano dell'Umbria|IT||9o|3az|yy|y
+Gijzegem|BE||8t|3xn|b9|y
+Giorgilorio|IT||9o|347|1ef|y
+Giehun|SL|Eastern Province|l|lw|-up|y
+Giuleşti|RO|Maramureş|8u|3ou|1uh|x
+Giteranyi|BI||b|-6w|2cn|x
+Giromagny|FR||9k|3om|iz|x
+Gigmoto|PH||71|12a|9lj|x
+Gilmanton|US||48|3cm|-5id|x
+Gioseni|RO||8u|3kz|22z|w|Geoseni
+Giralang|AU||8l|-2pt|bi6|w
+Gioiosa Marea|IT||9o|2y1|15e|w|Giujusa;Giojosa Marea
+Giurgiţa|RO||8u|3ea|1tn|w
+Gillespie|US||2f|30p|-6xi|w|Gillispie
+Kittsee|AT||a2|3pl|1be|w|Gijeca;Köpcsény
+Gitagum|PH||71|nw|9ll|v|Hitagum;Gitagun
+Gibeon|NA||1f|-1xs|1dd|v
+Gillieston Heights|AU||8l|-2j0|box|v
+Ghyvelde|FR||9k|3xt|71|v|Gijvelde
+Gipf-Oberfrick|CH||a7|3ny|m8|v
+Gilgandra|AU||8l|-2g3|bgy|v
+Giurgiuleşti|MD||8x|3ic|26c|v
+Gimbsheim|DE||8r|3ua|na|v
+Gigaquit|PH||71|qn|9p6|v
+Hirka Polonka|UA||98|3ws|1y7|u|Gor’kaya Polonka;Górka Połonka;Girka Polonka
+Girard|US|Pennsylvania|48|38o|-674|u
+Givisiez|CH||a7|3m1|jt|u
+Giulvăz|RO||8u|3ij|1ma|u
+Zheleznodorozhnyy|RU|Kaliningrad Oblast|96|470|1n7|u|Gerdauen;Zjeleznodorozjnyj;Girdava;Železnodorožnas;Železnodorožnyj;Gerdauyen
+Gângiova|RO||8u|3dy|1u9|u|Gângeova;Gîngiova
+Giarratana|IT||9o|2ux|153|t
+Hilotongan|PH||71|uy|9jg|t|Gilutongan;Hilutangan
+Balpınar|TR||94|2x7|362|t|Giresiran;Gresiran;Girisiran
+Giáo Liêm|VN||6h|1at|89n|t
+Guinacotan|PH||71|13c|9hb|t|Ginacutan;Guinacutan
+Gimont|FR||9k|3d7|2g|t
+Giehun|SL|Eastern Province|l|ns|-uo|s
+Sibucao|PH||71|sy|9hd|s|Gibucao
+Gibbons|CA||2s|45j|-8qu|s
+Girard|US|Kansas|2f|2w7|-7bg|s
+Giesbeek|NL||8m|40f|gv|r
+Gilly-sur-Isère|FR||9k|3iu|hn|r
+Gibsonia|US|Pennsylvania|48|34v|-665|r
+Gâlgău Almaşului|RO||8u|3n4|1st|r|Gîlgău Almaşului
+Gilmore|AU||8l|-2qe|bi9|r
+Ginatilan|PH||71|ql|9ij|r|Ginatlian
+Gimo|SE||9w|4n5|1ej|r
+Gârcov|RO||8u|3dk|1we|r|Gîrcov
+Giuvărăşti|RO||8u|3do|1wm|r|Giuvăreşti
+Giawang|PH||71|r7|9lv|r|Giwang
+Gidgegannup|AU||8k|-2g7|8yr|r
+Gibsonburg|US||48|36y|-6fg|q
+Gârceni|RO||8u|3lx|23s|q|Gîrceni
+Gimigliano|IT||9o|309|19x|q
+Gilfach Goch|GB||9b|3zb|-9n|p
+Giulianello|IT||9o|37t|zs|p
+Giv‘at Brenner|IL||6n|2gj|2oo|p|Giv‘at-Brener;Givat Brenner
+Budmerice|SK||8s|3qc|1cd|p|Gidrafa;Pudmerice
+Gibgos|PH||71|12i|9jt|p|Hibgos
+Guiong|PH||71|hu|9ez|p|Giong
+Gines-Patay|PH||71|ue|9g9|p
+Gimampang|PH||71|nj|9la|p|Gimangpang;Gumampang
+Gilston|AU||8c|-25v|btu|o
+Gârbou|RO||8u|3mz|1t3|o|Gîrbou
+Gârcina|RO||8u|3mi|217|o|Gîrcina
+Giovo|IT||9o|3k8|uz|o
+Ginabuyan|PH||71|v8|9lk|o|Jinabuyan;Hinabuyan
+Giammoro|IT||9o|2y4|16j|o
+Gibato|PH||71|v7|9h5|o
+Gießhübl|AT||a2|3pm|193|n
+Gillmoss|GB||9b|44i|-81|n
+Gilwern|GB||9b|3zy|-8l|n
+Giacciano con Baruchella|IT||9o|3h7|vt|n
+Girdwood|US||1h|4pa|-bid|n|Girwood;Gridwood
+Gimli|CA||5d|3wn|-7hf|m
+Gibbsboro|US||48|32o|-5s8|m
+Gârbești|RO||8u|3mi|23u|m|Gîrbeşti
+Gytsjerk|NL||8m|43w|ge|m|Giekerk
+Gièvres|FR||9k|3nc|4n|m
+Gianico|IT||9o|3jf|s9|l
+Giethoorn|NL||8m|42i|gw|l|Giteren;Githorn
+Gilet|ES||9d|328|-x|l
+Givenchy-en-Gohelle|FR||9k|3vz|7p|l|Givinchy-in-Gohelle
+Gioia dei Marsi|IT||9o|38k|121|l|Gioia de' Marsi
+Gittelde|DE||8r|3zw|sb|l
+Guinisiliban|PH||71|pa|9mm|l|Ginsiliban;Guinsilban;Guinciliban;Guinsiliban
+Giv‘at Avni|IL||6n|2j2|2qg|k
+Girard|US|Illinois|2f|31l|-6xe|k
+Gila Bend|US||4i|2jj|-8p4|k
+Gârbova|RO||8u|3jf|1tx|k|Gîrbova
+Giv‘at Ela|IL||6n|2iw|2pw|k|Givat Ela
+Giffone|IT||9o|2ys|18v|j|Giffonium;Lu Casali
+Gissi|IT||9o|38q|14e|j
+Gibbon|US|Nebraska|2f|357|-7mk|j
+Ghilad|RO||8u|3ib|1mq|i|Gilád
+Gelgaudiškis|LT||a3|490|1ru|i|Ģelgaudišķi;Gelgaudėškis;Giełgudyszki;Gelgaudiškio;Gelgudyshki;Gelgaudishkis
+Giurdignano|IT||9o|33g|1f7|i
+Gârda de Sus|RO||8u|3l1|1re|i|Felsőgirda;Gîrda de Sus
+Gârliciu|RO||8u|3gd|260|i|Gîrliciu
+Gili Air|ID||70|-n8|8yg|i
+Gilbert|US|Minnesota|2f|3nx|-74u|i
+Aigialoúsa|CY||6e|2qq|2mz|i|Yeni Erenköy;Gialousa;Yenierenköy
+Gironico al Piano|IT||9o|3j8|p0|i|Gironico
+Gilman|US|Illinois|2f|359|-6sf|i
+Gârleni|RO||8u|3ln|22g|h|Gîrleni
+Giuliana|IT||9o|2wn|10s|h
+Garū|IR||7o|2uv|4lt|h|Garrū;Gīrū
+Giovi-Ponte alla Chiassa|IT||9o|3cx|wz|h
+Gīlovā|IR||7o|2vk|3ud|h|Gīlvā
+Giardinello|IT||9o|2xt|10k|h|Giardineddu
+Gârdani|RO||8u|3o3|1sr|h|Gîrdani
+Gilat|IL||6n|2f1|2o9|h
+Gâldău|RO||8u|3f3|24v|h|Gîldău
+Giessen|NL||8m|3zv|dz|g|Giesen
+Gilberto Camacho|MX||41|1kl|-7jx|g
+Giurgeni|RO|Ialomița County|8u|3ga|25e|g
+Girraween|AU|Northern Territory|8e|-yt|a46|g
+Girardi-Bellavista-Terrazze|IT||9o|38y|yy|g
+Garaaghajli|AZ||61|35q|3ku|g|Qırmızı Samux;Samuchas;Qaraağaclı;Girmizi Samukh
+Girvas|RU||9i|4tk|2lk|g|Hirvas
+Gilford|GB||9b|471|-ho|g
+Gidy|FR||9k|3pb|54|g
+Cornaiano|IT||9o|3l2|vc|g|Girlan
+Giffers|CH||a7|3lw|k1|g
+Giba|IT||9o|30j|o0|g
+Gingst|DE||8r|47a|10u|g
+Gidle|PL||a5|3xk|1i3|f
+Gielow|DE||8r|456|zf|f
+Gili Trawangan|ID||70|-n7|8yc|f
+Givry|BE||8t|3vy|b7|f
+Gillenfeld|DE||8r|3v9|j6|f
+Ginestra Fiorentina|IT||9o|3df|ur|f
+Girardville|US||48|35b|-5vw|f
+Girișu de Criș|RO||8u|3mq|1og|f|Körösgyéres;Girişul-de-Criş
+Gârnic|RO||8u|3gf|1oj|f|Gîrnic
+Giraldo|CO||27|ik|-5uz|f
+Gildardo Magaña (Los Ángeles)|MX||41|1ib|-7wm|f
+Gimel|CH||a7|3l7|hj|f
+Gilberton|AU||8b|-2oy|ap1|e
+Giussago|IT||9o|3hs|pe|e
+Gizzeria|IT||9o|30a|191|e
+Isola del Giglio|IT||9o|39o|ub|e|Isla del Giglio;Giglio;Isula di u Gigliu;Giglio saar;Illa del Giglio;Igilium;Džilijas;Ìsula dû Gigghiu;Giglio Island
+Givrand|FR||9k|3ln|-59|e
+Gill|US||48|3ag|-5le|e
+Giarmata-Vii|RO||8u|3j8|1n6|e
+Gillett|US|Wisconsin|2f|3gp|-6tb|e
+Giv'ot Bar|IL||6n|2f4|2ok|e
+Giovenzano|IT||9o|3hr|pc|d
+Girards Hill|AU||8l|-282|bts|d
+Giléiri|CI||0|fz|-er|d
+Hirsivka|UA||98|3lk|2qb|d|Girsovka
+Giera|RO||8u|3i5|1mb|d|Gier
+Gilley|FR||9k|3mp|i0|d
+Gilette|FR||9k|3dt|jw|d
+Ghizela|RO||8u|3ja|1oe|d|Gizela
+Gilita|MX||44|1yj|-7yo|d
+Giv‘at H̱ayyim Iẖud|IL||6n|2i0|2p1|d|Giv‘at H̱ayyim;Givat Haim;Givat Hayim;Giv‘at Ḥaiyim
+Giv‘at Ye‘arim|IL||6n|2gb|2ph|d
+Girod|DE||8r|3w5|m0|d
+Giv‘ati|IL||6n|2g5|2oc|d
+Giacalone|IT||9o|2xn|10s|d
+Gierałtowice|PL|Lesser Poland|a5|3uq|1hv|d
+Gil Bispo|CV||84|15z|-1tq|d
+Giuggianello|IT||9o|33d|1f1|c
+Giove|IT||9o|3a3|y9|c
+Gilowice|PL|Silesia|a5|3uw|1h2|c
+Gimzo|IL||6n|2gp|2p2|c|Gimzu
+Cielmice|PL||a5|3v5|1gu|c|Gielmice
+Giraumont|FR|Grand Est|9k|3sl|gf|c
+Giersleben|DE||8r|3zt|w5|c
+Giv'on HaHadasha|IL||6n|2gh|2po|c
+Guillac|FR||9k|3p3|-6v|c|Gilieg
+Giri|CI||0|k3|-kf|b
+Giurtelecu Șimleului|RO||8u|3ne|1rc|b|Giurtelecul-Şimeului;Giurtelecul Şimleului;Giurletecu-Simleului;Giurtelecu-Şimleului
+Gilgilçay|AZ||61|36a|3sd|b|Gil’gil’chay
+Gilsdorf|LU||9c|3ui|h6|b|Gilsdref
+Gin Gin|AU||8c|-1xf|bq4|b
+Gilten|DE||8r|42f|qm|b
+Jenaz|CH||a7|3md|qz|b|Gianatsch
+Giekau|DE||8r|46w|t7|b
+Ginestas|FR||9k|3c7|7z|b
+Gironde-sur-Dropt|FR||9k|3fu|-8|b|Senta Peironelha de la Rèula;Gironda sau Dròt
+Gilbert|US|Iowa|2f|38z|-785|b
+Gielniów|PL||a5|3ys|1kw|b
+Gifford|US|Illinois|2f|33z|-6si|b
+Gilon|IL||6n|2je|2pv|b
+Gilbert Creek|US||48|2we|-6bh|b
+Giroussens|FR||9k|3dk|4y|b
+Gilcrest|US||2p|33w|-832|b
+Gietrzwałd|PL||a5|45b|1k8|b
+Ginasservis|FR||9k|3db|g9|b|Ginacèrvias
+Gideon|US||2f|2t9|-6xs|a
+Giebułtów|PL||a5|3vb|1j8|a
+Gillonnay|FR||9k|3i3|ep|a
+Giavenale|IT||9o|3iy|vo|a
+Giardina Gallotti|IT||9o|2vr|11k|a
+Gillam|CA||5d|4cj|-7b3|a
+Giv‘at H̱ayyim Me’uẖad|IL||6n|2hz|2p1|a
+Givonne|FR||9k|3u4|dv|a
+Gilmorton|GB||9b|41t|-38|a|Gilmarton
+Gīldīr|IR||7o|2ya|3mb|a|Gil’dyr;Gīlder
+Giumarra|IT||9o|2w4|14p|a
+Girmont|FR||9k|3q2|hw|a
+Giornico|CH||a7|3kw|on|a|Sgiurnì
+Ginestar|ES||9d|360|1r|a
+Gingins|CH||a7|3kx|h6|a
+Gironcourt-sur-Vraine|FR||9k|3q7|gh|a
+Gibsland|US||2f|2ie|-76h|9
+Gerocarne|IT||9o|2z7|192|9|Hyerocarnes;Girucarni
+Gilly|CH||a7|3l2|hi|9
+Gjøl|DK||8y|4ej|r0|9|Gøl;Giöl
+Gijzenzele|BE||8t|3xl|am|9
+Génolhac|FR||9k|3f7|az|9|Ginolhac
+Giais|IT||9o|3k4|z1|9
+Giampilieri|IT||9o|2xr|16z|9
+Gilbert|AR||1n|-2ie|-4jp|9
+Giuliano Teatino|IT||9o|39j|13o|9|Giuliano Teanno
+Hiltsi|UA||98|3vt|2jj|9|Gil'tsy;Hil’tsi
+Giv‘at Koaẖ|IL||6n|2gz|2p2|9
+Giuliano di Roma|IT||9o|37e|10w|9
+Gizilgaya|AZ||61|34w|3kq|9|Qızılqaya
+Giustenice|IT||9o|3ep|mw|9
+Giurtelecu Hododului|RO||8u|3nq|1s5|9|Ciurtelecul Hododului;Giurtelecul Hododului;Giurtelecul-Hodotului;Giurtelecu-Hododului
+Giat|FR||9k|3j8|6v|9
+Gerīmenj|IR||7o|2m6|4jm|9|Girimānj;Gīrīmenj;Germānj;Gerīmench;Kerīmonj;Gerī Menj
+Gialós|GR||8p|2pw|1tn|9|Yialós
+Gimåt|SE||9w|4vw|1g0|9
+Giv‘at HaShlosha|IL||6n|2h6|2p0|9|Giv‘at Hasheloshah;Giv‘at HaShelosha
+Gedsted|DK||8y|4dh|py|9|Giedsted;Gjedsted
+Gimmersdorf|DE||8r|3wo|jv|9
+Gielde|DE||8r|40k|t5|8
+Giorocuta|RO||8u|3nr|1rc|8
+Gâlgău|RO||8u|3nc|1tu|8|Gîlgău
+Gilsum|US||48|3bl|-5kq|8
+Ginnosar|IL||6n|2j9|2qo|8|Ginosar;Ginnossar;Genesaré;Genossar;Ginneisar
+Giv‘at Yesha‘yahu|IL||6n|2fz|2p2|8|Giv‘at Yesha‘yaha
+Gierstädt|DE||8r|3xs|u3|8
+Gioia Sannitica|IT||9o|36q|144|8
+Gingin|AU||8k|-2f3|8xy|8
+Gidrouzel|RU||9i|4a9|2ru|8
+Ginestet|FR||9k|3gr|17|8
+Gisborne South|AU||8j|-2wa|b5o|8
+Guiche|FR||9k|3cv|-3c|8|Gixune
+Gifford|GB||9b|4ba|-7n|8
+Gilberto Flores Muñoz|MX||41|1d4|-77s|8
+Girancourt|FR||9k|3ps|hj|8
+Gârbovăț|RO||8u|3gn|1p5|8|Gîrbovăţ;Gârboveţ
+Hvardiiske|UA||9t|3in|2me|8|Gvardeyskoye;Aqçora;Ğijen Sofu
+Giólou|CY||73|2p0|2i7|8
+Gârbău|RO||8u|3m3|1sv|8|Gîrbău
+Giurgeni|RO|Neamț County|8u|3m2|23b|8
+Gârdoaia|RO||8u|3gd|1ro|8|Gîrdoaia
+Gironville-sur-Essonne|FR||9k|3qd|6m|8
+Gibbon|US|Minnesota|2f|3fp|-7al|8
+Gīmān|IR||7o|25d|4n5|8|Kīmān
+Gilberton|US||48|35c|-5vp|8
+Ginnegar|IL||6n|2iq|2py|8|Ginegar;Gineigar;Ginneigar
+Gimeux|FR||9k|3is|-11|7
+Gilbertville|US||2f|39u|-745|7|Gilbertsville
+Giurgești|RO|Suceava|8u|3ny|21e|7
+Jenins|CH||a7|3mk|qk|7|Gianin
+Giardoni|IT||9o|368|143|7
+Giustino|IT||9o|3k7|tx|7
+Giv‘at Nili|IL||6n|2if|2pc|7
+Jiffin|GM||7|11a|-17a|7|Giffin
+Gârdești|RO||8u|3lb|249|7|Gîrdeşti
+Ginevet|AM||80|32x|3fy|7
+Akça|TR|Batman|94|2x5|36e|7|Gil’mis;Tilmis
+Goeblange|LU||9c|3tz|gl|7|Giewel;Göblingen
+Gieleroth|DE||8r|3wr|lc|7
+Giou-de-Mamou|FR||9k|3gt|6z|7
+Ginestra|IT||9o|35p|17p|7|Xhinestra;Genestrum;Zhura
+Giarole|IT||9o|3h6|nt|7
+Gioi|IT||9o|33x|16a|7
+Gilgai|AU||8l|-2ax|bns|7
+Gillett|US|Arkansas|2f|2ms|-71u|7|Gillet
+Gibraltar|US|Pennsylvania|48|33w|-5ur|7
+Gilsbach|DE||8r|3x1|mg|7
+Le Girouard|FR||9k|3ld|-4g|7|Girouard
+Gizy|FR||9k|3ts|ah|7
+Gislingham|GB||9b|41a|2w|7
+Gelánthi|GR||8p|31k|1ob|7|Yelánthi;Gilánthi
+Georocu Mare|RO||8u|3ek|1uj|7|Giorocul Mare
+Gieterveen|NL||8m|43b|j0|7
+Gimel-les-Cascades|FR||9k|3hu|55|7|Gimels;Gimel
+Gibson|US|Georgia|48|2kb|-6dg|7
+Gillis|US||2f|2cd|-76w|7
+Giano Vetusto|IT||9o|36g|13f|7
+Girasole|IT||9o|32z|qu|7
+Gimoly|RU||9i|4v4|2hs|7
+Gibles|FR||9k|3ko|c6|6
+Gierzwałd|PL||a5|44q|1jt|6|Gietrzwałde
+Gildardo Muñoz|MX||41|1ko|-7ij|6
+Girkenroth|DE||8r|3wc|m5|6
+Goagiu|RO||8u|3kt|1xj|6|Gioagiu
+Giby|PL||a5|464|1sw|6|Gibai
+Gīlākajān|IR||7o|2v1|3vv|6|Gīlākjān
+Girolles|FR||9k|3pi|7k|6
+Gīleh Sarā|IR||7o|2vv|3sh|6
+Gila Crossing|US||4i|2kg|-8nl|6
+Giraumont|FR|Hauts-de-France|9k|3tf|7u|6
+Giglio Porto|IT||9o|39o|uc|6
+Giéville|FR||9k|3s5|-2q|6
+Gilbert|US|South Carolina|48|2m8|-6a3|6
+Giardino-Botto|IT||9o|3it|mo|6
+Gignac|FR|Occitanie|9k|3h0|42|6
+Giurcani|RO||8u|3kk|25q|6
+Gilocourt|FR||9k|3sx|80|6
+Gilly-lès-Cîteaux|FR||9k|3n1|du|6|Gilly-lèz-Cîteaux
+Savave Village|TV||as|-mb|drb|6|Savave Köyü;Savave qishlog'i;Desa Savave;Kampung Savave;Aldea Savave;Village de Savave;Dorf Savave;Gidan Savave;Tuula Savave;Aldeia Savave;Tuulo Savave;Kijiji cha Savave
+Gizałki|PL||a5|40k|1dd|6
+Gigondas|FR||9k|3eo|dw|6
+Gisela|US||4i|2mq|-8l4|6
+Gilbert|US|Louisiana|2f|2h1|-72m|6
+Giannádes|GR||8p|323|1iw|6|Yiannádhes
+Giverny|FR||9k|3sc|49|6
+Giaglione|IT||9o|3he|ji|6
+Giglio Castello|IT||9o|39o|ua|6
+Gilles|FR||9k|3rv|47|6
+Girgarre|AU||8j|-2t4|b6n|6
+Giulești|RO|Suceava|8u|3nj|21a|6
+Giskemo|NO||9j|4tk|j3|5
+Giáltra|GR||8p|2zy|1ru|5|Yiáltra
+Gilly-sur-Loire|FR||9k|3la|ai|5
+Giai|IT||9o|3j9|zm|5
+Gierczyce|PL||a5|3ur|1ki|5
+Giuliano|IT||9o|32p|1ey|5
+Giurgești|RO|Iași County|8u|3n9|22r|5
+Gīkh|IR||7o|29b|40i|5
+La Giettaz|FR||9k|3je|i1|5|Giettaz;La Giottaz
+Giave|IT||9o|34d|ob|5
+Gildardo Magaña|MX||41|1k8|-7ud|5
+Gisburn|GB||9b|45t|-6a|5
+Gīlāpey|IR||7o|2tk|418|5
+Gibson|US|North Carolina|48|2ok|-655|5
+Gisy-les-Nobles|FR||9k|3q4|90|5
+Ginnasluokta|NO||9j|5a1|1c3|5|Håkvika;Håkvik
+Gimingham|GB||9b|42w|3v|5
+Giroba Kunda|GM||7|10y|-13g|5
+Gibbsville|US||2f|3d9|-6rz|5
+Gimouille|FR||9k|3me|8l|5
+Gimnée|BE||8t|3v9|d3|5
+Givry-en-Argonne|FR||9k|3rz|dl|5
+Girate|IT||9o|37o|11m|5
+Gigny-sur-Saône|FR||9k|3lm|dr|5
+Gilman|US|Iowa|2f|38c|-75r|5

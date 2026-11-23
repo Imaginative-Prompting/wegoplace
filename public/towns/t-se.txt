@@ -1,0 +1,45 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sé|MO||6y|1pn|8rf|ei
+Sé|BJ||1b|i3|53|7e
+Se|BR||4w|-1tf|-3lj|6m
+Sé|HU||8v|3n8|1a0|c|Scheibing;Šiba;Šieba
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Shenyang|CN||7i|383|9iv|1xzh|Šenjangas;Thẩm Dương;Senjang;Ŝenjango;Šeņjana;Šen-jang;Sjenyang;Sím-iông-chhī;Sīng-iòng;Shenyan;Swnjyangh;Şenyanq
+Sydney|AU||8l|-2m3|bo1|17ic|Sidnejo;Sidney;Sidnėjus;Sydneium;Sidneja;Sanctus Dionysius;Syd;Sidni;Sėdniejos;Sit-nì;Sék-nà̤;Sidnei
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Semarang|ID||6l|-jf|8iq|d2r|Semaranq;Samarang
+Sofia|BG||9v|3am|1ss|8w6|Ulpia Serdica;Sofio;Sofiya;Sofija;Sofie;Szófia;Serdica;Sofja;Sofya;Sofii;Sóifia;Suofėjė;Sofijo
+Sendai|JP|Miyagi|7q|2yb|avb|8gn
+Sanya|CN||7i|1ep|8g7|7yi|San-ja;Senya shehiri;Tam Á;Sam-a-chhī;Săng-ā;Sanj;Sama
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Setagaya|JP||7q|2r0|arx|795
+Chengde|CN||7i|35r|93o|73o|Čengdė;Thừa Đức;Čcheng-te;Sìng-dáik;Sêng-tek-chhī;Chengteh;Ch’eng-te
+Salem|IN||6t|wd|614|72u|Selam;Szálem
+Seongnam-si|KR||7h|2w0|9t6|724|Seongnam
+Seattle|US||3p|3o9|-9ft|60y|Seattlum;Sietlas;Sietla;Sietl;Séatl;Siyaatil;Seatlo
+Serang|ID||6l|-h0|86v|5od
+Sarajevo|BA||9r|3dt|1f0|5dj|Saraxevo;Sarajeva;Sarajewo;Saraybosna;Szarajevó;Sarajevas;Sarayevo;Saarayego;Seraium;Serayevo;Sarayevu;Sairéavó;Sarajevs;Saraevo;Sarajevu
+Sevilla|ES||9d|2vu|-gl|5ar|Seville;Sebilla;Sevilo;Siviglia;Hispalis;Seviya;Sevilija;Sevilja;Sewilla;Sevilha;Sevilia;Séwéliye;Sivilja;Sevila;Sibilia;Sevilya;Sevilėjė
+Siping|CN||7i|3bw|9li|4ug|Ssupingkai;Sé-bìng;S-pching;Tứ Bình;Sù-pêng-chhī;Szepingkai
+Sanming|CN||7i|20x|92q|4na|Senming shehiri;Săng-mìng;San-ming;Sâm-mìn-sṳ;Tam Minh;Sam-bêng-chhī
+Shuangyashan|CN||7i|3lo|a49|4mo|Sĕ̤ng-ák-săng;Šuang-ja-šan;Song Áp Sơn;Siang-ah-san-chhī
+Samarkand|UZ||7g|325|560|4lc|Samarqand;Samarcande;Samarcanda;Semerkant;Semerqend
+Shekhupura|PK||6q|2g3|5pj|4ka|Sheikhu Pura;Śekhupura;Sheikhupura
+Sheffield|GB||9b|44a|-43|4al|Ŝefildo;Šefildas;Šefīlda;Şeffild
+Sevastopol|UA||9t|3fx|2l4|486|Sewastopol;Sebastòpol;Sebastopoli;Sebastopolis;Akyar;Aqyar;Sivastopol;Sebastopolo;Szevasztopol;Aqjar
+Selayang Baru Utara|MY||6v|91|7uf|46o|Selayang
+Serra|BR||4w|-1jx|-33z|40n
+Seeb|OM||72|1tr|4hn|3mt|Síb;Szíb;Sybas;As Sib;As-Sib;Al-Sīb
+Alor Setar|MY||6v|h0|7qs|382|Alor Star;Loqstaq;Alur Setar;Alostar
+Sejong|KR||7h|2tn|9tl|31m|Yeongi;Sedżong
+Sector 3|RO||8u|3fe|20p|2z2|Sectorul 3
+Seremban|MY||6v|7l|7v6|2vl|Fû-yûng-sṳ;Sungai Ujong;Soghomban;Cirampāṉ
+Cascavel|BR|Paraná|4w|-1xc|-44i|2ua|Naer-ourouler;Ular derik;Serpentes tintinnabulati;Kaskavelas
+Sector 6|RO||8u|3fg|20a|2u6|Sectorul 6
+Setapak|MY||6v|8x|7ul|2q5
+Sanandaj|IR||7o|2q3|3mk|2p0|Sanandadsch;Sanandij;Sanandadż;Sine;Sanandaĝo;Senendedžas;Senendec;Sinandij
+Celaya|MX|Guanajuato|41|1l0|-7s1|2mk|Selaja

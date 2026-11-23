@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Zibo|CN||7i|2u7|93y|10ap|Truy Bác;C-po;Cṳ̆-báuk;Chu-phok-chhī
+Zaozhuang|CN||7i|2ou|92j|tr0|Cō̤-cŏng;Cao-čuang;Tảo Trang;Chó-chng-chhī
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Zunyi|CN||7i|24x|88z|fq2|Dzuni;Ĝunji;Tuân Nghĩa;Cun-i;Cŏng-ngiê;Chun-gī-chhī;Cunji;Zunji
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Zapopan|MX||41|1lk|-7z7|be5|Sapopanas;Sapopano
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Zhangjiagang|CN||7i|2gj|9au|b1s
+Zhanjiang|CN||7i|1mz|8in|at3|Trạm Giang;Chankiang
+Zigong|CN||7i|29i|832|9ql|Tự Cống;C-kung;Cê̤ṳ-góng;Chū-kòng-chhī
+Zhongwei|CN||7i|2w7|847|92a|Dṳ̆ng-ôi;Čung-wej;Trung Vệ;Tiong-oē-chhī;Chung-wei
+Zhuzhou|CN||7i|25b|8qb|8pt|Jianning;Zhutsjou;Ču-čou;Ĝuĝou;Chu-chû-sṳ;Chu Châu;Chu-chiu-chhī;Çyu Cou;Tṳ̆-ciŭ;Džudžou;Džudžov;Chu-chou
+Zoucheng|CN||7i|2qc|90x|8m7|Trâu Thành
+Zamboanga|PH||71|j7|9f3|7v0
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Zhu Cheng City|CN||7i|2s0|97o|7ps
+Zaria|NG||u|uv|lg|7k8|Zariya;Zarija
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Zhenjiang|CN||7i|2hh|97u|7c1|Chinkiang;Chenkiang;Chinking;Chinkiang Fu
+Ziyang|CN||7i|2bo|82p|6zl
+Zhoushan|CN||7i|2bb|9fg|6t9
+Zhabei|CN||7i|2eu|9de|6hc
+João Pessoa|BR||2w|-jr|-2ou|6b3|Ĵoan-Pesoo;Žoan Pesoa
+Zarqa|JO||5t|2h3|2s9|647|Zarka;Zerka
+Zhaotong|CN||7i|23w|804|62u|Čao-tchung;Chiêu Thông;Ciĕu-tŭng;Chiau-thong-chhī;Chao-t’ung
+Zhuanghe|CN||7i|32a|9hn|5q9|Chuang-ho
+Zhumadian|CN||7i|2jm|8sr|5kh
+Zaporizhzhya|UA|Zaporizhzhia|98|3ox|2pk|5h9|Saporoshje;Saporischschja;Alexandrovsk;Zaporijya;Zaporijjâ;Záporoží;Zaporiyia;Zaporižžja;Zaporijjia;Zaporizzsja;Zaporižia;Zaporižja;Zaporoże;Zaporižžia;Saporoschje;Zaporožje;Zaporoye;Zaporozhye;Zaporizhzhia;Zaporiggia;Alessandrovia;Zaporizjzja
+Zanzibar|TZ||h|-h4|30w|5h6|Sansibar-Stadt;Sansibar;Zanjibar
+Zhangjiakou|CN||7i|35a|8v3|5ce|Ĝanjakou;Trương Gia Khẩu;Čang-ťia-kchou;Diŏng-gă-kāu;Chang-kia-k’ou
+Zaragoza|ES||9d|37q|-2g|5au|Saragossa;Salduie;Saragoso;Saragosse;Saragozza;Caesarea Augusta;Saragosa;Saragoça;Zaragosa;Çaragoça;Saragoza;Saraqosa;Caesaraugusta;Zargoza
+Joinville|BR||4w|-212|-3rp|54l|Žoinvilis
+Zagreb|HR||a6|3j9|18e|54c|Záhřeb;Zágráb;Zagabria;Zagrzeb;Zagrep;Agram;Zagabbria;Sakreb;Ságrab;Zagavria;Sagreb;Zaqreb;Sagwzlwgbouh;Zagrev;Zagrabia
+Rizhao|CN||7i|2qd|981|53v|Nĭk-ciéu;Ž’-čao;Nhật Chiếu;Ji̍t-chiàu-chhī
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Genoa|IT||9o|3fc|ou|4h5|Genova;Genua;Janov;Ĝenovo;Gênes;Genuja;Cenova;Dženova;Zena;Xénova
+Zahedan|IR||7o|29y|4p2|49c|Zahidan

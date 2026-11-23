@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Neuquén|AR||1s|-307|-592|1s8|Neukenas;Neyken;Nequen
+Negombo|LK||68|k1|65s|124|Negombas;Negumbo;Neqombo
+Neqāb|IR||7o|2tz|4fi|44
+Negril|JM||3i|1er|-61n|3u|Nigril;Neqril

@@ -1,0 +1,169 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bogotá|CO||27|ct|-5ps|1n7s|Bogoto;Boqota;Wukuta;Buoguota;Bogot
+Bogor|ID||6l|-ib|88n|8bk
+Bogura|BD||6a|1x1|6w9|397|Bogora;Bogra
+Bohuniya|UA||98|3vo|27h|14x|Bohuniia;Bohunia;Bohunskyi;Bohunskyi rayon;Boguniya
+Bogorodskoye|RU|Moscow|9i|4b1|2ws|sm
+Bogenhausen|DE||8r|3pr|wa|lj
+Bogale|MM||7y|199|7d0|j5|Bogalay
+Bognor Regis|GB||9b|3x2|-1w|hr|Bognor Ridžisas
+Šabac|RS||8q|3gb|1ip|fb|Szabács;Böğürdelen
+Boghni|DZ||3|2ti|az|f7|Borhni;Būghnī
+Bogorodsk|RU||9i|4bu|3cv|a7|Boqorodsk
+Bogo|CM||j|tt|14l|94
+Bogdanovich|RU||7z|4dq|4sd|8z|Bogdanovitsj;Bogdanovikhi;Bogdandvich
+Bogoroditsk|RU||9i|45d|2xw|8e|Bogorodizk;Bogorodick;Boqorodiçk;Bogorodițk;Bogorodickas
+Bogd|MN||7s|3g3|7vt|7r
+Bakhchysaray|UA||9t|3gc|2m2|7m|Bachtschyssaraj;Bakczysaraj;Bakhchisaray;Bachtsjisaraj;Bahçesaray;Bachtjisaraj;Baĥĉisarajo;Bachtjysaraj;Bağçasaray;Bakhtchyssaraï;Bakhtchissaraï;Bajchisarái;Bajchysarái;Bachtsjysaraj;Bakhchysarai;Bahčisaraj;Bogʻchasaroy;Bakhehisaray
+Bogotol|RU||6u|4c4|6wp|6k|Borotol
+Bogo|PH|Central Visayas|71|up|9kh|6k
+Bogandé|BF||1a|102|-f|5y
+Bohumín|CZ||9m|3um|1f0|5n|Bogumin;Bohumynas
+Bogué|MR||19|1a3|-13m|5n|Boghé
+Cernavodă|RO||8u|3f6|25v|55|Boğazköy;Tcherna Voda
+Bohodukhiv|UA||98|3vc|2qo|4y|Bohoduchiw;Bohodoukhiv;Bohodochiv;Bogoduhiv;Bohoduchiv;Bohoduchivas;Bohoduhiv;Bogodukhov;Bododukhov;Bogoduchow
+Boguszów-Gorce|PL||a5|3x0|190|4n|Gottesberg;Bogušova-Gorce
+Bogatynia|PL||a5|3xf|15k|4l|Reichenau;Bogatiņa
+Bohuslav|UA||98|3tn|2dr|4e|Bohusław;Boguslaw;Boguslav
+Bognonzra|CI||0|ja|-gl|49
+Bogovinje|MK||9u|38g|1m4|48|Bogovine;Bogovina;Bogovino
+Boguchar|RU||9i|3up|34n|46|Bogutsjar
+Bogbam|CI||0|hq|-h7|43
+Bog Walk|JM||3i|1ea|-5xx|3l
+Bocholt|BE||8t|3y5|fi|3f|Bóggetj
+Bogalusa|US||2f|2dj|-6xl|3b|Bogaloosa
+Boguchany|RU||6u|4i6|7ip|34|Bogutsjany
+Ulricehamn|SE||9w|4gj|119|2y|Bogesund
+Bogen|DE||8r|3rv|z9|2v
+Bogandinskiy|RU||7z|4e1|531|2o|Bogandinskoye;Bogandinskaya
+Bogorodskoye|RU|Moscow Oblast|9i|4d3|2x8|2l
+Bogorodskoye|RU|Moscow Oblast|9i|4cy|2y2|2k|Bogorodskoje
+Bogādi|IN||6t|y6|5ws|2i|Bhogadi
+Bogo|PH|Central Visayas|71|re|9j8|2i
+Bogdanci|MK||9u|36g|1qq|2e
+Bogota|US||48|35k|-5pn|2c
+Bolluca|TR||94|36g|27x|2b|Boğluca
+Bogatić|RS||8q|3gk|1i4|20|Bocatić
+Bogatyye Saby|RU||9i|4bl|3w5|20|Bogatye Saby;Baylar Sabası
+Boguédia|CI||0|if|-i4|1v
+Bogatoye|RU||9p|43e|3yl|1s|Bogatoje
+Boguchwała|PL||a5|3uu|1oz|1m
+Mugeni|RO||8u|3kh|1y2|1m|Bögöz
+Bohdanivka|UA|Dnipropetrovsk|98|3qq|2sc|1e|Bogdanovka;Bohdaniwka
+Boğazkent|TR||94|2ud|2ek|1e|Boğazakent
+Bogaţi|RO||8u|3gn|1xt|1d
+Bagdarin|RU||6k|478|8rj|1b|Bogdarin
+Bougou|CI||0|se|-gb|1a|Bogou
+Bogoslovka|RU||9i|43t|3gg|1a
+Bograd|RU||6u|46n|70d|1a|Bagrad
+Bogolyubovo|RU||9i|4c3|34k|15|Bogoljubovo
+Bogorodskoye|RU|Khabarovsk|7w|41h|au4|15|Bogorodskoje;Bogorodskaya
+Bogense|DK||8y|4ad|s1|15
+Bogtong|PH||71|17s|9a9|14|Bugtong
+Bogdăneşti|RO|Suceava|8u|3nl|210|14
+Ninotsminda|GE||7n|36n|3d3|12|Bogdanovka
+Bogashevo|RU||7r|4cl|6ki|12|Bogasjevo
+Bogliasco|IT||9o|3fa|p7|11|Boggiasco
+Bogouayo|CI||0|gw|-hj|10|Bogouahio
+Bogopenfla|CI||0|k9|-go|z
+Bogdan Vodă|RO||8u|3oh|1vf|y|Izakonyha
+Bogouiné|CI||0|k6|-l4|w
+Bogdand|RO||8u|3nq|1rp|w|Bogdan
+Bogangar|AU||8l|-26p|bul|w
+Bohdan|UA||98|3pg|1vm|w|Tiszabogdány;Bogdan
+Bogorodskoye|RU|Kirov Oblast|97|4gn|3wz|v|Bogorodskoje
+Dunabogdány|HU||8v|3or|1gw|v|Bogdan;Cirpi;Bohdanovce nad Dunajom
+Bogoboua|CI||0|gr|-ft|v
+Bogorodskoye|RU|Ivanovo Oblast|9i|4eh|35x|u
+Bagacay|PH|Bicol Region|71|12a|9ii|u|Bagacy;Bogacay
+Bogdana|RO|Teleorman County|8u|3e1|1xo|u
+Bogdăneşti|RO|Bacău County|8u|3ke|224|r
+Bozcaada|TR||94|32o|20f|q|Tenedos;Distretto di Tenedo;Bozkada;Bozca;Tenedo;Castro;Boğçaada
+Bohdanivka|UA|Kyiv Oblast|98|3wn|2dv|q|Bogdanovka
+Bohodukhivka|UA||98|3u7|2hw|p|Bogodukhovka
+Bogdăneşti|RO|Cluj County|8u|3lj|1s9|o
+Bogyiszló|HU||8v|3kv|1gb|n
+Bogovarovo|RU||9i|4ju|3mm|n
+Bogojevo|RS||8q|3ih|1h5|n|Gombos;Gombosh;Bogojeva
+Bogács|HU||8v|3p2|1l1|l
+Boko|CG||a|-16|17r|j|Bogo
+Bogata|RO|Mureș County|8u|3l2|1v0|j
+Poguié|CI||0|gu|-bd|j|Boguié
+Bohdanivka|UA|Mykolaiv|98|3ou|2eh|i|Bogdanovka
+Bogheşti|RO||8u|3k9|244|i
+Bougouloboua|CI||0|i7|-hl|i|Bogouloboua
+Bahatyr|UA||98|3pc|2um|h|Bogatyr'
+Boguty-Pianki|PL||a5|42g|1qa|h
+Bogrényoa|CI||0|gx|-gp|h
+Bogdăniţa|RO||8u|3l1|24w|g
+Boghiș|RO|Sălaj County|8u|3n0|1r6|f
+Bognankro|CI||0|jh|-dm|f
+Bogolo|CI||0|ln|-hx|f|Bogholo
+Bogahakumbura|LK||68|jp|692|f
+Bogata|RO|Suceava|8u|3np|20r|e
+Boğazören|TR||94|2w9|3bh|d|Kel’ketir;Gelgetir
+Bohuslavka|UA||98|3tf|2wo|d|Boguslavka
+Bogei|RO||8u|3nb|1q4|d
+Bogouiné II|CI||0|kg|-l8|d
+Boggabri|AU||8l|-2db|bks|d|Bogabri
+Boghicea|RO||8u|3mp|237|c
+Bogomila|MK||9u|37j|1nn|c|Bogumil
+Bogosavac|RS||8q|3g8|1ig|c
+Bogarra|ES||9d|2z6|-65|b
+Bogza|RO||8u|3if|23k|b
+Bogata|US||2f|2kz|-7ch|b
+Bogdaniec|PL||a5|42d|15v|b|Dühringshof
+Bogatyr’|RU||9p|44f|3us|b|Bogatyr
+Bogovë|AL||9y|34p|1jz|b|Bogova
+Bogart|US||48|2mb|-6g1|a
+Bogdănești|RO|Vaslui County|8u|3l1|251|a
+Boggabilla|AU||8l|-27g|blo|a
+Bogogno|IT||9o|3iu|np|a
+Bogatoye|UA||9t|3h3|2ol|a
+Bohdanivka|UA|Zaporizhzhia|98|3lu|2rs|a|Bogdanovka
+Bogoria|PL||a5|3wp|1n2|9|Bogoryja;Borgoria;Bogorja
+Boglietto|IT||9o|3gc|ms|9
+Bogève|FR||9k|3kb|hu|9|Bogéva;Bugeva
+Bogumiłowice|PL||a5|3ux|1lz|9
+Bogatovka|UA||9t|3gn|2pe|9
+Bogue Chitto|US|Mississippi|2f|2j7|-6v1|9
+Bogonos|RO||8u|3n5|247|9
+Bogata|RO|Cluj County|8u|3l8|1u5|9|Bogátpuszta
+Baghanis|AM||80|367|3h6|9|Baxanis;Boganis;Boghanis;Boghanis-Ayrum;Baganis
+Norashen|AM|Lori|80|36f|3f5|8|Bogdanovka;Badoyi gyugh;Shishtapa
+Bogata|RO|Bacău County|8u|3km|21s|8
+Bogdănești|RO|Iași County|8u|3mw|248|8
+Bogel|DE||8r|3vf|lo|8
+Bogdănești|RO|Vâlcea County|8u|3he|1ur|8
+Boghiș|RO|Satu Mare County|8u|3oo|1qz|8
+Bogdanivka|UA||98|3vi|2gx|8
+Bogunice|PL||a5|3va|1f1|8
+Bowmore|GB||9b|4aw|-hg|8|Bogha Mòr;Bogh Mòr
+Bogata|RO|Călărași County|8u|3et|23b|7
+Bogești|RO||8u|3kq|24j|7
+Bogdănești|RO|Vaslui County|8u|3ki|264|7
+Boğaköy|TR||94|34w|2r7|7
+Bogue|US||48|2oe|-5y0|7
+Bogis-Bossey|CH||a7|3kr|h5|7
+Bogoslovo|RU||9i|4bm|2xr|7
+Bogea|RO||8u|3ff|1tv|7
+Boğazköy|TR||94|308|2m5|7
+Boğalı|TR||94|2uk|33k|7
+Bogutovo Selo|BA||9r|3g2|1gq|7|Begutovo Selo
+Bogomougou|CI||0|rj|-gy|7
+Bogdana|RO|Vaslui County|8u|3l9|24r|6
+Bogdanovci|HR||a6|3hy|1gl|6
+Boger City|US||48|2qk|-69l|6
+Bohdany|UA||98|3up|2gk|6|Bogdany
+Bouglon|FR||9k|3fb|a|6|Boglon
+Bogoba|CI||0|mv|-j7|6|Booba;Boroba
+Mamak|TR||94|379|2hx|6|Boğazköy
+Bogdana|RO|Bacău County|8u|3kb|22k|6
+Bogdănești|RO|Bacău County|8u|3ln|232|5
+Bahachka|UA||98|3uu|2yl|5|Bogachka
+Bogojina|SI||9a|3lo|198|5|Bagonya;Bogolina;Bagolina
+Bogdănești|RO|Vâlcea County|8u|3hi|1vm|5
+Bohdanivka|UA|Poltava|98|3tz|2jw|5|Bogdanovka
+Bogue Chitto|US|Mississippi|2f|2fc|-6z9|5
+Bogusławice|PL||a5|3xk|1hi|5
+Bohodarivka|UA||98|3r1|2n6|5|Pershe Travnia;Bogodarovka;Pershe Travnya

@@ -1,0 +1,29 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Beihai|CN|Guangxi|7i|1no|8f4|41x|Pej-chaj;Pet-hói-sṳ;Bắc Hải;Baekhaij;Báe̤k-hāi;Beihajus;Pak-hái-chhī;Pei-hai
+Paek'ak|KP||7a|31m|9ox|yz|Baekak
+Béziers|FR||9k|3ce|8x|kl|Besiers;Baeterrae;Besers;Bezjė
+Baekrajan|ID||6l|-it|8jx|g3
+Colwyn Bay|GB||9b|441|-ad|85|Bae Colwyn;Kolvin Bėjus;Golfeto de Kolvin
+Baesweiler|DE||8r|3xf|h7|7q|Baaswieler;Basweilen;Bäsweiler
+Baena|ES||9d|2wi|-c0|5t
+Balen|BE||8t|3y5|ed|5k|Baelen
+Baependi|BR||4w|-1p0|-3gp|54|Baependy
+Baeza|ES||9d|2xj|-9n|4j
+Baetovo|KG||65|36n|5s8|2z|Dyurbel’dzhin;Bayetovo;Baetov
+Beek|NL|Limburg|8m|3xi|g4|2c|Baek
+Baasrode|BE||8t|3xs|bj|1s|Baesrode
+Bain-de-Bretagne|FR||9k|3ox|-4p|1p|Baen-Veur;Baionum
+Baal|BE||8t|3xo|d7|1n|Bael
+Baengnyeongdo|KR||7h|2xf|9mb|17
+Baelen|BE||8t|3wn|gl|13
+Balegem|BE||8t|3xh|aj|10|Baelegem
+Bains-sur-Oust|FR||9k|3oi|-5r|x|Baen-Ballon;Balneum
+Baarle-Hertog|BE||8t|3yt|dl|n|Baerle-Duc
+Bais|FR|Brittany|9k|3pd|-3l|l|Baez
+Baardegem|BE||8t|3xj|bi|j|Baerdegem;Baerdeghem
+Bavegem|BE||8t|3xi|aq|e|Baevegem
+Bække|DK||8y|4ad|pe|a
+Baerenthal|FR||9k|3s2|kw|7|Bärenthal
+Bælum|DK||8y|4dv|s4|7
+Bækmarksbro|DK||8y|4cq|n3|5

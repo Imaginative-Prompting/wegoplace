@@ -1,0 +1,733 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Khartoum North|SD||r|17h|2id|7t6|Bahri;Khartum Nord;Sjeverni Kartum;Khartoum Nord;Jartum Norte
+Nuremberg|DE||8r|3td|us|3z7|Nürnberg;Norymberga;Norimberk;Nurenbergo;Norimberga;Niurnbergas;Nirnberga;Nürnbarg;Neurenberg;Norimberg;Nyrëmberg;Nyurnbérg;Niamberg;Nürnberq;Neurenberch;Nuremburg;Nurenberg;Nurenburg;Nuernberg
+Hamburg-Nord|DE||8r|44v|rq|2fn|Hamburgo-Norte;Hamburgum Septentrionale;Arrondissement de Hambourg-Nord;Hamborg-Noord
+Juazeiro do Norte|BR||2w|-k1|-318|2cv|Žuazeiro do Nortė
+North Shore|NZ||ak|-2u8|dhf|1zv
+Northampton|GB||9b|415|-2g|1wb|Norsempton;Nortamptonas
+Norfolk|US|Virginia|48|2ud|-5vx|1u4
+North Las Vegas|US||3p|2sk|-8vs|1t8|Norda Lasvegaso;Bắc Las Vegas
+Norwich|GB||9b|427|3m|13r|Norviĉo;Noridžas;Nordovicum;Norviç
+Norilsk|RU||6u|5cn|6t0|134|Noril'sk;Noriljsk;Norilszk;Norylsk
+Norzagaray|PH||71|15f|9c9|133|Norzugaray
+Nor Nork|AM||80|33o|3ft|125|Nor Norq;Nor Norq varchakan shrjan;Nor-Norka
+Norman|US||2f|2pu|-7io|zk
+North Stamford|US||48|36a|-5oa|xo
+North Peoria|US||2f|354|-6wu|ve
+North Charleston|US||48|2j9|-665|u3
+Norwalk|US|California|3p|2m6|-940|tr|Norvolkas;Noruolk;Norvolka
+Cáceres|ES||9d|31o|-hp|qp|Norba Caesarina;Caçris;Kaseresas;Kaseresa
+Norrköping|SE||9w|4ir|18y|q2|Noršēpinga;Norcopia;Noršiopingas
+Norwalk|US|Connecticut|48|368|-5nx|ol|Norvolkas;Norwaake
+North Vancouver|CA||5b|3t0|-9hv|oi|Vancouver Utara
+Norton|ZW||n|-1do|2da|o6
+Norderstedt|DE||8r|456|rr|n0
+North Richland Hills|US||2f|2j7|-7i3|j8
+Northridge|US|California|3p|2n3|-95a|j1
+North Little Rock|US||2f|2ol|-74b|ih|Norda Eta Roko
+North Hollywood|US||3p|2mx|-94u|hy|Toluca;Lankershim
+North Bergen|US||48|35c|-5pl|hn
+North Miami|US||48|1zx|-66r|hc
+North Port|US||48|234|-6cg|hb
+Norfolk County|CA||59|3az|-67a|gw
+North Delta|CA||5b|3sl|-9hg|gw|Nord Delta
+North Lakhimpur|IN||6t|23o|79e|gm
+North Hills|US|California|3p|2n4|-954|ft
+North Chicopee|US||48|396|-5lo|fc
+Normal|US||2f|34j|-6v7|f4
+Nordhorn|DE||8r|41n|jn|eo|Nothoorn
+Brookhaven|US|Georgia|48|2m2|-6ia|ef|North Atlanta
+North La Crosse|US||2f|3dt|-71h|e1
+North Bay|CA||59|3ko|-64r|e0
+Norala|PH||71|i4|9ma|dh
+Northwich|GB||9b|43y|-70|d6|Nortvičas
+North Miami Beach|US||48|201|-66o|c8
+Nordhausen|DE||8r|3z2|u0|c7
+North Brunswick|US||48|34d|-5qw|c7
+North Bethesda|US||48|30g|-5y8|c6
+North Lauderdale|US||48|20u|-66v|c5|N Lauderdale
+North Highlands|US||3p|2zh|-9d5|bv
+Luobuqiongzi|CN||7i|291|6vx|bu|Norbukyungzê
+Norwich|US|Connecticut|48|37c|-5k8|b3|Norwick
+North Shields|GB||9b|48u|-41|b1|Shields Thuaidh
+North Fort Myers|US||48|223|-6bg|ay|N Ft Myers
+Northglenn|US||2p|32t|-83n|aw
+Vuosaari|FI||92|4n9|1xu|au|Nordsjö;Vuki;Vuokki;Vuokkis;Vuosis;Vuosku;Vusa
+North Lawndale|US||2f|38a|-6ro|9t
+North Center|US||2f|38j|-6rk|9m
+Norristown|US||48|33g|-5ta|9k|Noristaun
+North Bel Air|US||48|31u|-5w3|9f
+North Providence|US||48|389|-5ij|9e|North-Providence
+Northbrook|US|Illinois|2f|391|-6rz|9d
+North Watford|GB||9b|3zk|-13|96
+North Ridgeville|US||48|36z|-6bu|91
+North Olmsted|US||48|372|-6bk|8w
+Northeim|DE||8r|3zn|rs|8l|Nuurten
+North Tonawanda|US||48|3bk|-632|8k
+Nok Kundi|PK||6q|283|4ub|8i|Nag Kundi;Nok Kondi;Norkundi
+North Royalton|US||48|36r|-6b0|8f|N Royalton;Royalton
+North Cowichan|CA||5b|3ro|-9jl|89
+North Chicago|US||2f|39l|-6s0|87
+Norwood|US|Massachusetts|48|397|-5hs|7y
+Northampton|US|Massachusetts|48|39l|-5ls|7x
+North Andover|US||48|3am|-5hm|7u|Andover Septentrionalis
+Fredericton Northside|CA||43|3jq|-554|7u|Northside Fredericton
+North Kingstown|US||48|37f|-5ij|7s|N Kingstown;King's Towne
+Naranjito|CU||36|1s4|-6cu|7k|Noranjito
+North Creek|US|Washington|3p|3ou|-9fe|7c
+Norco|US|California|3p|2m9|-92j|7b
+Northolt|GB||9b|3z7|-11|78
+Nordenham|DE||8r|44m|nl|77
+Northcote|AU||8j|-2wx|b6s|71
+North Tustin|US||3p|2ls|-937|6x|Tustin Foothills
+Nørresundby|DK||8y|4ei|rk|6w
+Northport|US|Alabama|2f|2kb|-6ra|6w|North Port
+Norden|DE||8r|44w|k1|6w
+North Potomac|US||48|30k|-5ym|6s
+Norfolk|US|Nebraska|2f|38r|-7im|6s
+Norton Shores|US||2q|3bx|-6nm|6q
+North Platte|US||2f|368|-7rx|6q
+North Haven|US|Connecticut|48|36z|-5me|6p
+Norland|US||48|203|-66t|6k
+Northwest One|US||48|302|-5xx|6i
+North Augusta|US||48|2l2|-6bp|69
+Northwood|US|California|3p|2ln|-934|66
+North Plainfield|US||48|34v|-5qr|65
+Northdale|US||48|261|-6d7|65
+North Lakes|AU||8c|-23m|bt2|5x
+Northfield|US|Minnesota|2f|3fi|-76s|5o
+Nördlingen|DE||8r|3rp|t5|5o
+North Bellmore|US||48|351|-5o9|5j
+Norwood|US|Ohio|48|30s|-6im|5j
+Norton|US|Massachusetts|48|38l|-5hr|5i
+North Salt Lake|US||2p|35h|-8mv|5i
+Norris Green|GB||9b|44h|-84|5g
+North Battleford|CA||4q|42m|-8cu|5e
+Norrtälje|SE||9w|4m0|1fy|5e|Norteljė;Telga borealis;Norrtelje;Norrtelge
+North Druid Hills|US||48|2ly|-6i7|59
+North Bay Shore|US||48|357|-5ni|59
+North St.James Town|CA||59|3db|-64i|56
+North Ogden|US||2p|36r|-8n0|54
+Norak|TJ||6d|2yn|5ck|51
+North Massapequa|US||48|352|-5o2|4z
+North Amityville|US||48|352|-5nz|4z
+North Guwāhāti|IN||6t|20s|72s|4v
+North Babylon|US||48|354|-5no|4v
+North Aurora|US||2f|385|-6td|4v
+North Canton|US||48|35k|-6a4|4u|Bắc Canton
+Nordstadt|DE||8r|41j|r0|4u
+Northallerton|GB||9b|46y|-3z|4o
+Norwalk|US|Ohio|48|36k|-6di|4o
+North Attleborough Center|US||48|38l|-5i4|4o
+North Decatur|US||48|2lv|-6i7|4n
+Norcross|US||48|2ma|-6hx|4m
+North Valley Stream|US||48|351|-5oq|4m
+South Norwood|GB||9b|3ys|-7|4l|Norwood Theas
+Norbury|GB||9b|3yu|-c|4l
+Naroli|IN||6t|1kb|5mm|4j|Noroli
+Upper Norwood|GB||9b|3yu|-9|4h|Norwood Uchaf
+North Liberty|US|Iowa|2f|37z|-72g|4f
+North Arlington|US||48|35b|-5px|4f
+Northam|ZA||o|-1xc|23r|4c
+North Myrtle Beach|US||48|2ly|-62k|4c
+North Melbourne|AU||8j|-2x0|b6n|4a
+North New Hyde Park|US||48|356|-5op|45
+North Fair Oaks|US||3p|2w3|-9fg|43
+Norridge|US||2f|38k|-6rz|42
+Northview|US||2q|3bl|-6ls|41
+North Branford|US||48|36t|-5m5|41
+Northumberland Park|GB||9b|3zc|-6|40
+North Reading|US||48|3aa|-5hg|3x
+Northbridge|US||48|393|-5j1|3x
+Northwood|CA||59|3qf|-6w0|3w
+Normandia|BR||26|as|-4lm|3w
+Nork-Marash|AM||80|33l|3fq|3v|Norq-Marash;Nork’-Marash;Nork'-Marash varch'akan shrjan;Norq-Marash varchakan shrjan
+North Mankato|US||2f|3ep|-797|3r
+North Parramatta|AU||8l|-2lv|bng|3q
+North Adams|US||48|3am|-5n3|3p
+Nordestina|BR||20|-u2|-31j|3o
+Nordstemmen|DE||8r|40w|r6|3n
+North Perth|CA||59|3dh|-68x|3n
+North Auburn|US||3p|305|-9cc|3m
+North Walsham|GB||9b|42q|3v|3m|Walsham Thuaidh
+Altona North|AU||8j|-2x3|b6d|3m|North Altona
+North Madison|US|Indiana|38|2zp|-6l8|3g
+Northlake|US|Illinois|2f|38g|-6s6|3f|North Lake
+North Castle|US||48|36a|-5oo|3f
+North Merrick|US||48|351|-5oc|3f
+Norton|US|Ohio|48|35z|-6as|3c
+North Palm Beach|US||48|22i|-66g|3c
+North Wantagh|US||48|351|-5o7|3c
+North Riverdale|CA||59|3db|-64f|3b
+Northwood Hills|GB||9b|3zc|-15|3a
+North Lindenhurst|US||48|353|-5nu|39
+North Bellport|US||48|359|-5mm|37
+Nörvenich|DE||8r|3x5|ig|37
+North Saint Paul|US||2f|3h1|-76b|37
+North Valley|US||2p|2pp|-886|35
+Northwood|GB||9b|3zd|-16|35
+North Sound Estates|KY||2e|1hl|-69u|34
+North Smithfield|US||48|38l|-5ir|34
+North Scituate|US|Rhode Island|48|387|-5iv|34
+North Saanich|CA||5b|3r7|-9iu|33
+Northmead|AU||8l|-2lu|bng|32
+North Kamloops|CA||5b|3wu|-9ad|32
+North Ryde|AU||8l|-2lw|bns|30
+Northbrook|US|Ohio|48|311|-6iy|2z
+Norwell|US||48|394|-5gn|2y
+North Versailles|US||48|346|-65p|2y
+Nor Hachn|AM||80|33y|3fu|2x|Nor Hachyn;Nor Hatschn;Nor Hačenas;Nor-Hachn;Nor Hatjn;Nor Hačn;Nor Haĝn;Nor Ačin;Nor Haczn;Nor Achin
+North Ward|KY||2e|1hk|-69r|2w
+Norfolk|US|Massachusetts|48|390|-5i5|2w
+Nordkirchen|DE||8r|3zq|kw|2u
+North Branch|US|Minnesota|2f|3if|-76a|2u
+North Logan|US||2p|381|-8mk|2u
+Norwalk|US|Iowa|2f|378|-788|2t
+North End|US||48|39p|-5hd|2t
+Norbiton|GB||9b|3yt|-s|2t
+North Andrews Gardens|US||48|20r|-66m|2t
+Norman Gardens|AU||8c|-1st|bm5|2s
+Northampton|US|Pennsylvania|48|351|-5tq|2r
+North East Valley|NZ||ak|-3jd|d5p|2q|Northeast Valley
+North Bend|US|Oregon|3p|3cl|-9l2|2p
+Norīa|IN||6t|2ic|5rs|2p
+North Kensington|US||48|30g|-5y3|2n
+North Gates|US||48|3by|-5zu|2n
+Nordwalde|DE||8r|40o|ks|2n
+North Bath|US||48|3e1|-5dy|2m
+North College Hill|US||48|30y|-6iv|2l
+North Central|CA||4q|3w6|-82n|2j
+Northwest Harborcreek|US||48|393|-667|2h
+North Bondi|AU||8l|-2m5|bo8|2h
+Nor Kharberd|AM||80|33d|3fk|2g|Nor Xarberd
+North Haledon|US||48|35s|-5q3|2d
+North Madison|US|Ohio|48|387|-696|2d
+North Weeki Wachee|US||48|27b|-6dc|2d
+Northfield|US|New Jersey|48|31d|-5r3|2d
+Nörten-Hardenberg|DE||8r|3zf|rm|2d|Nörten-Harenbarg
+North Perth|AU||8k|-2gp|8xt|2d
+Northridge|US|Ohio|48|32l|-6hw|2d
+North Elba|US||48|3ew|-5pf|2d
+North Bay Village|US||48|1zt|-66n|2b
+Norlane|AU||8j|-2xu|b4z|2a
+Northfield|US|New Jersey|48|359|-5qg|29
+North Sydney|AU||8l|-2m0|bo1|29|Pak Sydney;Noord Sydney;Noard Sydney
+North Star|US||48|32g|-5uc|28
+North Rocks|AU||8l|-2lt|bni|27
+Noranda|AU||8k|-2gj|8xy|27
+North Berwick|GB||9b|4bq|-7k|26|Bearaig a Tuath;Bearaig-a-Tuath
+Nordenstadt|DE||8r|3v2|n6|26
+North Adelaide|AU||8b|-2oz|aoz|26
+Northam|GB||9b|3xr|-bq|25
+Nordholz|DE||8r|45e|nx|24|Noordholt
+Northridge|US|Ohio|48|333|-6gq|24
+Sharur City|AZ||61|31v|3gy|23|Norashen;Sharur;Şarur;Charur;Bash-Norashen;Ilyichevsk;Il’ichëvsk
+Norton Canes|GB||9b|42b|-5g|23|Norton under Cannock
+Nordheim|DE|Baden-Wurttemberg|8r|3sf|pd|22
+North Ferriby|GB||9b|458|-1f|22
+Northport|US|New York|48|35m|-5nq|22
+Northgate|US||48|311|-6iz|22
+North Springfield|US|Virginia|48|2zs|-5yg|21
+Northeast Regina|CA||4q|3w8|-82l|21
+North Patchogue|US||48|35b|-5mt|20
+Noro|SB||av|-mu|c4o|20
+Nor Geghi|AM||80|340|3fu|1y|Nor Gexi;Nor Gekhi
+Pohjois-Tapiola|FI||92|4n7|1ww|1y|Norra Hagalund;Pohjis
+North Portland|US||3p|3ip|-9gu|1y
+Norton|GB|England|9b|46d|-27|1y
+North Sarasota|US||48|241|-6d8|1y
+Norwich|US|New York|48|3a5|-5ts|1y
+North Syracuse|US||48|3bt|-5vh|1x
+North Baddesley|GB||9b|3xm|-41|1w
+North Amherst|US||48|39t|-5lh|1w
+North Bend|US|Washington|3p|3ny|-9eb|1v|Northbend
+Normandy Park|US||3p|3ns|-9fu|1v
+North Riverside|US||2f|388|-6ry|1v
+North Caldwell|US||48|35i|-5qa|1v
+North Vernon|US||38|30d|-6lu|1u
+North Anston|GB||9b|447|-3e|1u
+Nora|SE||9w|4lc|15s|1u
+North Brighton|US||48|39o|-5hm|1t
+Northam|AU||8k|-2fx|903|1t
+Nort-sur-Erdre|FR||9k|3ns|-46|1t|Enorzh;Nortum
+Yıldızeli|TR||94|32r|2to|1s|Yenihan;Norxan
+Nortorf|DE||8r|46h|rd|1s
+Northbridge|AU|New South Wales|8l|-2lx|bo2|1q
+Northborough|US||48|39k|-5j0|1q
+Northgate|AU||8b|-2ou|ap3|1q
+Norman Park|AU||8c|-24c|bt6|1p
+Noratus|AM||80|346|3hi|1p
+Noormarkku|FI||92|4r3|1or|1p|Norrmark
+Northville|US|Michigan|2q|39v|-6fw|1o
+Norcasia|CO||27|fi|-5s1|1o|Norcacia
+North Manchester|US||38|35w|-6m9|1o
+Northern Liberties|US||48|331|-5sr|1o
+Norderney|DE||8r|457|jw|1n
+Nortelândia|BR||2k|-145|-4ds|1n
+North Albury|AU||8l|-2s6|bc5|1n
+Norwood|US|Pennsylvania|48|32t|-5t6|1n
+Norwood|US|New Jersey|48|35w|-5pg|1n
+North Narrabeen|AU||8l|-2ln|boa|1n
+Norwood|AU|South Australia|8b|-2p1|ap3|1m
+Norway House|CA||5d|45y|-7jr|1m
+North Mackay|AU||8c|-1mo|bie|1l
+North Sydney|CA||2x|3kd|-4nd|1l|Sidni-a-Tuath
+Nordborg|DK||8y|48y|r2|1l|Nordburg
+North Nowra|AU||8l|-2ou|bm9|1k
+North Ward|AU||8c|-1hh|bbt|1j
+Northfield|US|Illinois|2f|38y|-6ru|1j
+Northwood|US|Ohio|48|34f|-6gl|1j
+North Haven|AU|South Australia|8b|-2on|aop|1j
+North Hills|US|New York|48|35a|-5oo|1i
+North End|CA||43|3hr|-53k|1i
+Northwood|US|Ohio|48|37l|-6fv|1i
+North Tamworth|AU||8l|-2ec|bn8|1h
+Normanhurst|AU||8l|-2lo|bnq|1g
+Norberto de la Riestra|AR||1l|-2pz|-4m2|1g
+North Horr|KE||16|98|2uz|1g|Horr Kaskazini
+Northumberland|US|New York|48|3bt|-5of|1g
+North Scituate|US|Massachusetts|48|39a|-5gn|1f
+North Harford Road|US||48|31d|-5wn|1f
+Northfield|US|New Hampshire|48|3cn|-5iv|1e
+North Fond du Lac|US||2f|3dp|-6ts|1e
+Normandy|US|Missouri|2f|2zk|-6yu|1e|Normandio
+North Oaks|US||2f|3ha|-76k|1e
+Nordeste|PT||81|2x3|-1xv|1d
+North Richmond|AU||8l|-2la|bmo|1d|Richmond North
+North Windham|US||48|3dr|-5fo|1d
+Northvale|US||48|35x|-5pf|1d
+North Braddock|US||48|348|-65s|1c
+Northfield|AU||8b|-2ot|ap3|1b
+North Hampton|US||48|3bd|-5gr|1b
+Norberg|SE||9w|4mv|188|1b
+Noreña|ES||9d|3cj|-fv|1a
+North Strathfield|AU||8l|-2m2|bnp|1a
+Bonnevoie-Nord-Verlorenkost|LU||9c|3ts|h2|1a|North Bonnevoie-Verlorenkost;Bouneweg-Nord-Verluerekascht;Bonneweg-Nord-Verlorenkost
+North Westport|US||48|37q|-5hh|1a
+Norton|GB|England|9b|44z|-3a|19
+North Epping|AU||8l|-2ls|bnp|19
+North Ipswich|AU||8c|-24o|bsc|19
+North Laurel|US||48|30q|-5xj|19
+North Sea|US||48|35p|-5l5|19
+Norheimsund|NO||9j|4np|h3|18|Nordheimsund
+North Kansas City|US||2f|30p|-7ao|18
+North Terre Haute|US||38|31t|-6qo|17
+Northwood|NZ||ak|-3cq|dbh|17
+North Turramurra|AU||8l|-2ln|bnv|16
+North Wilkesboro|US||48|2sg|-69f|16|Northwilkesboro
+Northwoods|US||2f|2zi|-6ys|16
+La Norville|FR||9k|3qy|6a|16|Norville
+North East|US|Pennsylvania|48|39a|-65r|16|Northeast
+North Willoughby|AU||8l|-2lw|bo0|15
+North Bendigo|AU||8j|-2u2|b4t|15
+North Curl Curl|AU||8l|-2ls|boa|15
+North Great River|US||48|357|-5n9|14
+Nordbahnhof|DE||8r|418|t8|14
+Normanview|CA||4q|3w8|-82q|14
+Norton|US|Virginia|48|2ul|-6dj|13
+Northwest Harwich|US||48|37t|-5eq|13|West Harwich
+North Wildwood|US||48|30c|-5rs|13
+North St Marys|AU||8l|-2lr|bmu|13
+Northwood|US|New Hampshire|48|3bz|-5hn|13
+North Hudson|US||2f|3gz|-75o|12
+North Muskegon|US||2q|3c6|-6nn|12
+Northchase|US||48|2nb|-60c|11
+Northlake|US|South Carolina|48|2o1|-6do|11
+Northland|NZ||ak|-36o|dhg|11
+Norashen|AM|Ararat|80|334|3fv|11
+Northumberland|US|Pennsylvania|48|35l|-5xc|11
+North Park|CA|British Columbia|5b|3qj|-9in|11
+North East|US|Maryland|48|320|-5uy|11|North-east;Northeast
+North El Monte|US||3p|2mq|-93u|11
+North Gosford|AU||8l|-2kt|bof|11
+North Richmond|US||3p|2xg|-9fx|11
+Nordstranda|NO||9j|4tn|h1|11
+Norwood Young America|US||2f|3gd|-78w|11
+Northern Cambria|US||48|34y|-62u|11
+Northfield|US|Ohio|48|36v|-6ah|10
+North Vanlaiphai|IN||6t|1s9|76j|10|Vanlaiphai do Norte;N. Vanlaiphai;Vanlaiphai
+North Plymouth|US||48|38l|-5gc|10
+Norwood|AU|Tasmania|8g|-376|bcu|10
+North Balgowlah|AU||8l|-2lv|bo5|10
+North Baltimore|US||48|36e|-6gg|z
+North Brooksville|US||48|27d|-6cx|z
+Norma|IT||9o|37j|101|z
+Northwest Harbor|US||48|35x|-5km|x
+Normandie|NC||b8|-1pq|cug|x|Normandy
+North Lakeport|US||3p|30l|-9hf|x
+North Middletown|US|New Jersey|48|34c|-5pw|x
+North Pembroke|US||48|38x|-5gn|x
+Norg|NL||8m|43f|hy|x
+North Beach|AU||8k|-2gi|8xk|x
+Northwest Harwinton|US||48|382|-5n0|x
+North Hartsville|US||48|2nj|-66f|x
+North Wales|US||48|33p|-5t4|x
+North Alamo|US||2f|20u|-7kl|w
+Norðurþing|IS||87|53g|-1c6|w|Húsavík;Húsavíkur;Husayik
+North Cape May|US||48|30a|-5s8|w
+North Fremantle|AU||8k|-2gz|8xj|w
+North Lambton|AU||8l|-2jf|bpf|w
+Norakert|AM|Armavir|80|33o|3f7|w
+North Plympton|AU||8b|-2p4|aov|w
+North Petherton|GB||9b|3xx|-8e|v
+Nørre Åby|DK||8y|4a2|rg|v|Nørre Aaby
+North Booval|AU||8c|-24o|bsf|v
+North Crossett|US||2f|2k5|-73e|v
+North Shore|US||48|2v0|-65a|v
+North Falmouth|US||48|37p|-5g6|v
+North River Shores|US||48|23m|-66z|v
+Norco|US|Louisiana|2f|2bc|-6z5|v
+North Manly|AU||8l|-2lu|bo7|v
+North Geelong|AU||8j|-2xv|b4z|u
+Norgate|CA||5b|3t0|-9i0|u
+North Barrington|US||2f|399|-6su|u
+Norsup|VU||ap|-18n|cx0|u|Norsoup;Norsuup
+Nordfjordeid|NO||9j|4rz|gn|u
+Nortrup|DE||8r|426|lu|u
+Norcia|IT||9o|3av|10e|u|Nursja
+North Toowoomba|AU||8c|-24i|bq4|u
+North Yelm|US||3p|3mg|-9gk|t
+Northmount|CA||2s|44w|-8r8|t
+North Hanwell|CA||43|3jo|-558|t
+North Warrandyte|AU||8j|-2wt|b7e|t
+Noraville|AU||8l|-2kf|boz|t
+Norton|US|Kansas|2f|32n|-7ph|s
+North Kingsville|US||48|38f|-685|s
+North Wollongong|AU||8l|-2nl|bn6|s
+North Catasauqua|US||48|34y|-5to|s
+North Zanesville|US||48|332|-6bs|s
+Northchurch|GB||9b|3zt|-1n|s
+Norway|US|Michigan|3y|3j7|-6s6|s
+Nor Kyank|AM|Ararat|80|32u|3fz|s|Nor Kyanq
+Normanview West|CA||4q|3w8|-82s|s
+Nordhastedt|DE||8r|46h|pi|s
+Norwood Queens|CA||5b|3t2|-9hw|s
+Norway|US|Maine|48|3et|-5fy|r
+North Wonthaggi|AU||8j|-2z6|b8f|r
+Nordby|DK||8y|4a1|nc|r
+North Sioux City|US||2f|3a5|-7g0|r
+Normandin|CA||59|3rn|-5lh|r
+North Fort Lewis|US||3p|3mw|-9gj|r
+Nordmaling|SE||9w|4wl|1i6|r
+Norton Center|US||48|38l|-5hr|r
+North Seekonk|US||48|38d|-5i5|q
+Northeast Ithaca|US||48|39z|-5we|q
+North Lakeville|US||48|38a|-5h2|q
+Norabats|AM||80|33f|3ff|q|Norabac
+Northcote|NZ||ak|-3ct|dbh|q
+Northumberland|US|New Hampshire|48|3fs|-5is|q
+North Collingham|GB||9b|43n|-23|q
+Norias del Paso Hondo|MX||41|1oq|-7vx|p|Noria de Paso Hondo
+North Boston|US||48|3al|-62u|p
+North Hobart|AU||8g|-3b3|bd8|p
+Norapat|AM||80|33i|3eb|p
+North Wootton|GB||9b|42m|17|o
+North Glenmore|CA||2s|3xo|-8sz|o
+North Browning|US||2p|3qx|-8px|o
+Norwood|US|North Carolina|48|2pu|-66k|o
+Norville|AU||8c|-1x5|br6|o
+North Haven|CA||2s|3xy|-8sx|o
+North Conway|US||48|3ed|-5hl|n
+North Vacherie|US||2f|2bc|-6zz|n
+Nørre Alslev|DK||8y|48i|x0|n
+North Coogee|AU||8k|-2h6|8xk|n
+Noramarg|AM||80|336|3ff|n|Posëlok Imeni Kalinina;Ablkend;Abilkend;Habilkend;Bulagli
+North Spearfish|US||2p|3fn|-80l|n
+Nordendorf|DE||8r|3qz|u3|n
+North Brookfield|US||48|39f|-5k8|n
+Northlake|US|Texas|2f|2k1|-7i7|m
+North Beach Haven|US||48|31x|-5q7|m
+Kemajuan Tanah Sungai Pancing Utara|MY||6v|ao|7yk|m|Sungai Pancing Utara;FELDA Sungai Pancing Utara;North Pancing River
+North Rock Springs|US||2p|37o|-8fj|m
+North Brighton|AU|South Australia|8b|-2p8|aos|m
+North Pole|US||1h|4zv|-bdb|m|Nord-Poluso
+Northorpe|GB||9b|44i|-1t|m
+North Prairie|US||2f|3b9|-6tl|m
+Normandale|NZ||ak|-36g|dhs|m
+North Avoca|AU||8l|-2ky|boo|l
+Nordiya|IL||6n|2hr|2oy|l|Nordiyya;Nordia
+North Brighton|AU|Victoria|8j|-2xb|b6t|l
+North Park|CA|Saskatchewan|4q|40v|-889|l
+Northfield|US|Vermont|48|3en|-5lu|l
+North Plains|US||3p|3io|-9hn|l
+Nordhalben|DE||8r|3vx|vz|l
+Norsjö|SE||9w|50b|1i4|l|Nåarene
+North Boambee Valley|AU||8l|-2c7|bt7|k
+North York|US||48|332|-5x5|k
+Nordrach|DE||8r|3qg|mg|k
+North Glenora|CA||2s|44r|-8rg|k
+Nor Armavir|AM||80|33d|3e7|k
+North Beach|US||48|2zj|-5wl|k
+Northwood|US|Iowa|2f|3co|-76y|k
+North Fork Village|US||48|31a|-6en|k|North Folk Village
+North Wahroonga|AU||8l|-2ln|bns|k
+North Eagle Butte|US||2p|3h0|-7t7|k
+North Granby|US||48|38o|-5mb|j
+North Warren|US||48|38b|-63v|j
+North Liberty|US|Indiana|38|37d|-6o3|j
+North Belle Vernon|US||48|33h|-65v|j|North Bellevernon
+North Side|KY||2e|1hr|-69l|j|Shimol Tomoni
+Nor Yerznka|AM||80|33y|3fb|j
+Northleach|GB||9b|3zz|-54|j
+North Sunderland|GB||9b|4ae|-4m|i
+Nor Gyugh|AM||80|33u|3g1|i|Nor Gyukh
+North Eastham|US||48|38b|-5ef|i
+North Newton|US||2f|2xr|-7if|i|Bắc Newton
+Moris|MX||2g|267|-8dh|i|Noris
+Northcrest|US||2f|2fw|-7hq|i
+Northiam|GB||9b|3xn|1o|i
+North Corbin|US||48|2uo|-6hl|i
+Norddeich|DE||8r|44x|jw|i
+North Puyallup|US||3p|3n5|-9fo|h
+North Haven|AU|New South Wales|8l|-2fw|bsh|h
+North Judson|US||39|36i|-6p2|h
+North Somercotes|GB||9b|44h|e|h
+Nortmoor|DE||8r|43x|l1|h
+Nor Artagers|AM||80|33b|3e9|h
+Noria de Ángeles|MX||41|1qc|-7v3|h
+North Devon|CA||43|3jp|-553|h
+Norris|US|Tennessee|48|2sk|-6hj|h
+North Tawton|GB||9b|3x4|-au|g
+Noria Nueva|MX||41|1l4|-7q5|g
+Nortkerque|FR||9k|3xc|5m|g
+North Bennington|US||48|3b9|-5ng|g
+North Berwick|US||48|3ca|-5gh|g
+Norwood|US|New York|48|3gb|-5sb|g
+Nor Kyank|AM|Shirak|80|34y|3e1|g|Majitli;Nor Kyanq;Mejdli;Mechedli
+Normanville|AU||8b|-2qh|ao8|g
+North Pekin|US||2f|34u|-6wy|g
+Pohjola|FI||92|4ny|1pt|g|Norrstan
+Normandy|GB||9b|3ye|-1v|g
+Norrfjärden|SE||9w|51q|1nq|g
+Normanton|AU||8c|-1d3|avw|g
+North Leigh|GB||9b|3zx|-40|g
+Nordhouse|FR||9k|3ql|lb|f|Nordhausen
+Northlakes|US||48|2re|-6a2|f
+North Grosvenor Dale|US||48|38n|-5jq|f|North Grosvenordale
+North Maclean|AU||8c|-255|bt2|f
+Norwood (historical)|US||2f|3gd|-78x|f
+Norte 1ra. Sección (San Julián)|MX||41|1eu|-76x|f
+Norrent-Fontes|FR||9k|3wi|6o|f|Norrint-Fontes
+North Redington Beach|US||48|25a|-6e2|f
+Nor Kesaria|AM||80|33a|3dz|f
+North DeLand|US||48|28p|-69u|f|North De Land
+Norassouba|GN||f|uc|-qc|e|Norosouba
+North Lewisburg|US||48|33q|-6g4|e
+Nørre Broby|DK||8y|49h|sf|e
+Norheim|DE||8r|3ud|lp|e
+Norridgewock|US||48|3g7|-5dv|e
+Northbridge|AU|Western Australia|8k|-2gr|8xu|e
+Nor Yedesia|AM||80|33q|3el|e|Nor-Yedisia
+North Fork|US||4i|2mg|-8hg|e
+Northwest Ithaca|US||48|39z|-5wm|e
+Norton|CA||43|3is|-52i|e
+Nora Springs|US||2f|3bu|-76c|e
+Northport|US|Maine|48|3f6|-5bk|e
+Norwood|CA||59|3fa|-60m|e
+Noravan|AM||80|33l|3eb|e
+Northwest Community Action|US||48|317|-5wz|e
+North Roland Park/Poplar Hill|US||48|31d|-5ww|e
+North Cave|GB||9b|45e|-1t|d
+Nørre Nebel|DK||8y|4ay|n2|d
+Northville|US|New York|48|35t|-5lq|d
+North Ballston Spa|US||48|3bi|-5p5|d
+Normanville|FR|Normandy|9k|3sc|38|d
+Norfolk|US|New York|48|3gg|-5sb|d
+North Oyster/Yellow Point|CA||5b|3s9|-9jz|d
+Northborough|GB||9b|42a|-u|d
+North Duffield|GB||9b|45j|-2o|d
+Norashen|AM|Tavush|80|35k|3ia|d|Noraşen;Tazagyugh;Tazakend
+North Charleroi|US||48|33j|-65z|d
+North Lake|AU||8k|-2h4|8xs|d
+Sarigyugh|AM||80|360|3he|d|Sarigyukh;Sarıgüh;Sarigyux;Glechkent;Kelejkend;Klechkend;Klich;Klichkend;Ghelejkend;Ghlechkend;Ghlichkend;Ghlijkend;Ghlijkyand;Noragegh;Seri;Sri;Srikend
+Isle of North Uist|GB||9b|4g1|-ke|d|North Uist;Uibhist a Tuath
+Norashen|AM|Aragatsotn|80|34y|3eg|d
+Normandy|US|Pennsylvania|48|33e|-5sc|d
+North Apollo|US||48|34s|-650|d
+Norra Åsum|SE||9w|4bi|13b|c
+Norris City|US||2f|2xi|-6td|c
+North Key Largo|US||48|1y7|-674|c
+Nor Kyurin|AM||80|33b|3fm|c
+North Bend|US|Nebraska|2f|376|-7gu|c
+North Collins|US||48|3ac|-63a|c
+Nortonville|US|Kentucky|2f|2vb|-6qx|c|Norton Village
+Noria del Borrego (Norias)|MX||41|1px|-7vg|c
+Nordleda|DE||8r|45d|oi|c|Lee
+Nørager|DK||8y|4dj|qr|c
+North Webster|US||38|36t|-6m2|c
+Nor Artamet|AM||80|33y|3fs|b|Nor Artanet
+Nörtershausen|DE||8r|3vi|ks|b
+North Elmham|GB||9b|42j|2n|b
+Gosh|AM||80|355|3h0|b|Getik;Nor Getik;Kosh;Ghoshavank;Shen Ghoshavank
+Norbello|IT||9o|33h|oj|b
+North Newbald|GB||9b|45i|-1q|b
+Northfield|US|Massachusetts|48|3am|-5l9|b
+Nordseeheilbad Wangerooge|DE||8r|45f|ly|b|Wangeroog;Wangereach;Wangerooge
+Norlina|US||48|2t9|-618|b
+Noertzange|LU||9c|3tj|gu|b|Näerzéng;Nörtzingen
+Normanby|NZ||ak|-31t|dg4|b
+North Queensferry|GB||9b|4bl|-9f|b|Port na Banrighinn
+Norroy-lès-Pont-à-Mousson|FR||9k|3rx|gr|b
+North Thoresby|GB||9b|44j|-6|b
+Northville|US|New York|48|3c3|-5q1|b
+Norias del Refugio|MX||41|1rx|-7r3|b|Noria del Refugio
+North Edwards|US||3p|2pa|-93b|b
+Northfield|US|Kentucky|3k|2yd|-6lw|b
+North Tunica|US||2f|2oe|-6z2|a|Bắc Tunica
+North Branch|US|Michigan|2q|3c3|-6f4|a
+Norman Wells|CA||2s|51c|-9sb|a
+North English|US||2f|37b|-73s|a
+North Bibb|US||2f|2k8|-6q3|a
+Nordheim|DE|Bavaria|8r|3ui|sb|a
+North Randall|US||48|373|-6ah|a|North Randal
+Northward|CA||59|3cr|-67k|a
+Northop|GB||9b|43t|-8p|a
+Norken|DE||8r|3wr|ly|a
+North Kessock|GB||9b|4fq|-bt|a
+North Muskham|GB||9b|43k|-29|a
+North Bonneville|US||3p|3is|-9et|a
+Norrsundet|SE||9w|4pb|1bl|a|Norrsundedet
+Norman Park|US||48|2ev|-6gh|a
+Nørre Bindslev|DK||8y|4fu|sc|a
+Norwood Court|US||2f|2zk|-6yt|a
+Nordgermersleben|DE||8r|411|vi|a
+Norvelt|US||48|33p|-64u|9
+Northwood|AU||8l|-2lz|bny|9
+North Casino|AU||8l|-280|bt7|9
+Gharibjanyan|AM||80|356|3do|9|Gharibjanian;Aleksandrovka;Xaribjanyan;Nor Karakilisa
+Norroy-le-Veneur|FR||9k|3sm|gy|9
+Northwood|US|North Dakota|2f|3ol|-7j1|9
+Noreikiškės|LT||a3|48h|1u9|9
+North Curry|GB||9b|3xq|-89|9
+North Enid|US||2f|2t8|-7jv|9
+North Tetagouche|CA||43|3oc|-52o|9
+North Preston|CA||35|3gb|-4wa|9
+Norma|MX||41|1ek|-7cq|9
+Norogachi|MX||2g|23r|-89l|9
+North Rothbury|AU||8l|-2it|boe|9
+North San Pedro|US||2f|258|-7jc|9
+Nor Ughi|AM||80|32x|3g0|9|Nor Uxi;Nor Ugi
+North Perry|US||48|385|-69c|9
+Norias de Guadalupe|MX||41|1pv|-7vd|9
+Norra Bro|SE||9w|4ki|16d|9
+Norwich|US|Vermont|48|3dg|-5kv|9
+North Haven|US|New York|48|35x|-5kv|9
+North Waltham|GB||9b|3y9|-3c|9
+Northrepps|GB||9b|42y|3q|9
+Norges-la-Ville|FR||9k|3np|e4|9
+Nords Wharf|AU||8l|-2k1|bp5|9
+North Bend|US|Ohio|48|30r|-6jf|9|Northbend
+Noria de Mosqueda|MX||41|1kw|-7tj|9
+Nordkisa|NO||9j|4n7|va|9
+Marrowstone|US||3p|3ph|-9gt|8|Nordland
+Vazashen|AM||80|35w|3hs|8|Vazaşen;Laligüh;Akhgegh;Aghgyol;Ashkhigegh;Ashughi gyugh;Lal;Lala;Nor Lala;Lalakend;Lalakyandi;Lali;Nor Lali;Lalikend;Laligyukh;Laligekh;Laligokh
+Nor Amanos|AM||80|33r|3ef|8
+Nordsehl|DE||8r|41f|pi|8
+Norashen|AM|Lori|80|36f|3f5|8|Bogdanovka;Badoyi gyugh;Shishtapa
+North Fambridge|GB||9b|3zg|1w|8
+Norville|FR||9k|3tg|1s|8
+Norderstapel|DE||8r|470|po|8
+North Hills|US|West Virginia|48|318|-6af|8
+North Walpole|US||48|3bu|-5l9|8
+Norphlet|US||2f|2kk|-75e|8
+North Irwin|US||48|342|-65f|8
+Norris|US|South Carolina|48|2ok|-6dv|8
+Norakert|AM|Gegharkunik|80|33u|3iy|8
+Northampton|AU||8k|-26r|8ug|8
+Heybeli|TR||94|307|3bk|8|Norşin;Heybetli
+Norje|SE||9w|4bw|14r|8
+North Yunderup|AU||8k|-2ii|8xn|8
+North Hero|US||48|3gj|-5nj|8
+North Lynbrook|US||48|34z|-5on|8
+Nørre Vejrup|DK||8y|4a8|oe|8
+North Lismore|AU||8l|-27z|bts|8
+North Marston|GB||9b|406|-2g|8
+Normétal|CA||59|3s4|-64h|8
+Norotillos|MX||3x|1z9|-8cv|8
+North Kelsey|GB||9b|44m|-17|8
+Nordheim|FR||9k|3r4|kv|8
+North Country|GB||9b|3vl|-ek|8
+Arevatsag|AM||80|35t|3fx|8|Arevacag;Nerkin Uzunlar;Nor Uzunlar;Uzun lara oyun
+Northwest|US||48|2nb|-614|8|North West
+Noorbeek|NL||8m|3x1|g5|8|Norbik;Noordbeek
+North Hornell|US||48|39n|-5zq|7
+North|US||48|2le|-69a|7
+North Topsail Beach|US||48|2nt|-5z3|7
+North Crawley|GB||9b|40p|-1t|7
+Northwold|GB||9b|41y|1m|7
+Noria de Camarena|MX||41|1lm|-7ts|7
+North Molton|GB||9b|3xt|-ak|7
+North Head|CA||43|3gc|-55f|7
+Norris Arm|CA||50|3sc|-49h|7
+North Freedom|US||2f|3cq|-6xn|7
+North High Shoals|US||48|2ly|-6fz|7
+Normangee|US||2f|2e7|-7ez|7
+Norderbrarup|DE||8r|47t|r5|7
+North Omak|US||3p|3ql|-97s|7
+North Dandalup|AU||8k|-2ic|8y5|7
+Norborne|US||2f|316|-788|7
+North Gate|US||3p|2xb|-9ew|7
+North Luffenham|GB||9b|426|-1q|7
+Noria San José|MX||41|1pa|-7s7|7|Noria de San José
+Norðragøta|FO||85|4ss|-iq|7|Nordragiota;Nordregöte
+Noria de Barajas|MX||41|1ki|-7uf|7|La Noria
+North Philipsburg|US||48|35n|-619|7
+North Arm|AU||8c|-21o|bsw|7
+Norddorf|DE||8r|47w|n5|7
+North Middletown|US|Kentucky|48|2xz|-6hn|7|North Middleton
+North Rustico|CA||35|3l1|-4vw|6
+Nordausques|FR||9k|3x6|5s|6
+Norman's Cove-Long Cove|CA||50|3o5|-453|6
+Norwood|US|Missouri|2f|2v3|-74p|6
+Norseman|AU||8k|-2hg|9ea|6
+North Haven Upper|CA||2s|3xy|-8sw|6
+North Scarle|GB||9b|43r|-21|6
+North Cadbury|GB||9b|3xs|-70|6
+Norwalk|US|Wisconsin|2f|3dr|-6zq|6
+North Rose|US||48|3bz|-5xl|6
+Nørre Vorupør|DK||8y|4e7|na|6
+North Courtland|US||2f|2ob|-6ql|6
+North Maleny|AU||8c|-22b|bsm|6
+North Lopham|GB||9b|41k|2r|6
+North Creek|US|New York|48|3de|-5pj|6|Northcreek
+Nortonville|US|Kansas|2f|31i|-7ct|6
+Nor Khachakap|AM||80|35g|3f8|6|Saral;Nor Xachakap
+North Pearsall|US||2f|28b|-7na|6
+Normanville|FR|Normandy|9k|3u1|1n|6
+Norris Point|CA||50|3tl|-4gs|6
+North Batemans Bay|AU||8l|-2r5|bl7|6
+North Macksville|AU||8l|-2d9|bsu|6
+North Kilworth|GB||9b|41o|-32|6
+North Narooma|AU||8l|-2sk|bl0|6
+North Troy|US||48|3gz|-5l4|6
+Northaw|GB||9b|3zm|-f|6
+North Chevy Chase|US||48|30c|-5y3|6
+Norham|GB||9b|4as|-60|6
+North Springfield|US|Vermont|48|3cd|-5lh|6
+Northampton|US|New York|48|35l|-5lx|6
+Norsholm|SE||9w|4ij|18d|6
+Ñorquincó|AR||1s|-389|-5gy|6
+Norwood|US|Colorado|2p|2xx|-8ct|6
+North West Cape|AU||8k|-1ox|8sr|6
+North West River|CA||2y|44p|-4n1|6
+Noria del Cerro de Santiago (El Cerro)|MX||41|1r8|-7vn|6
+Norton St Philip|GB||9b|3yi|-6g|6
+Norfolk|US|Connecticut|48|38n|-5nc|6
+North Bourke|AU||8l|-2bh|b9f|5
+North Brentwood|US||48|307|-5xr|5
+North Isis|AU||8c|-1xy|bqy|5
+North Fairfield|US||48|366|-6dh|5
+Nordhofen|DE||8r|3wc|lj|5
+Northport|US|Michigan|2q|3hd|-6lu|5
+North Woodstock|US||48|3eb|-5j5|5
+North Salem|US||38|32q|-6oo|5
+Norway|US|Iowa|2f|38e|-73c|5
+Noria de Septién (San José de San Juan)|MX||41|1mi|-7uc|5
+Nordhackstedt|DE||8r|481|ph|5
+North La Junta|US||2p|2xk|-7zl|5
+Norton Summit|AU||8b|-2p0|apc|5|Norton's Summit
+North Wheatley|GB||9b|448|-2e|5
+North Moonta|AU||8b|-2ml|am7|5
+North Cowton|GB||9b|477|-4c|5
+Norashen|AM|Gegharkunik|80|34i|3h2|5
+Noréaz|CH||a7|3m0|jj|5

@@ -1,0 +1,90 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sokoto|NG||u|10a|ek|80w|Sokotas;Socoto
+Sōka|JP||7q|2rk|asc|1xc
+Syktyvkar|RU||9i|4ra|3x6|1w3|Syktywkar;Sõktõvkar;Siktivkar;Siktifkar;Sziktivkar;Siktivkara
+Sóc Trăng|VN||6h|qo|86d|1pi|Sok Trang
+Sokodé|TG||w|oy|35|wq
+Sokcho|KR||7h|2y5|9x7|mk|Sokch’o-ri;Sogcho;Sokch’o
+Söke|TR||94|2wv|245|iy
+Sokaraja|ID||6l|-kq|8fl|ih|Soekaradja;Sukaradja;Sukaraja
+Sokhumi|GE||9i|3bh|35v|i6|Sochumi;Sukhumi;Sujumi;Suchumi;Suhhumi;Suhumi;Soukhoumi;Sukhum;Sohumi;Suĥumo;Sohum;Akva;Suchum
+Sokol|RU|Moscow|9i|4b0|2w8|fu
+Sokol’niki|RU||9i|4b0|2wn|fu
+Sek’ot’a|ET||2|z3|30f|dz|Sak’ot’ā;Sokota
+Sokol|RU|Vologda Oblast|9i|4l6|33g|bq
+Sokolohirsk|UA||98|3r3|2z0|a1|Pervomaysk;Pervomays’k;Pervomaisk;Pervomajsk;Perwomajsk;Sokolohirs'k;Pervomaika
+Sokoni|TZ||h|-hv|31v|76
+Soko|ID||6l|-ks|8ob|73
+Sokolov|CZ||9m|3ve|z4|63|Falkenau an der Eger;Falkenau
+Sokal|UA||98|3w7|1vg|5o
+Sokółka|PL||a5|44d|1ta|5b|Sokola;Sokulka
+Sokołów Podlaski|PL||a5|41l|1pt|52|Sokolova Podlaska;Sokolow;Palenkės Sokoluvas
+Sokone|SN||g|12k|-19h|43|Sokon
+So Kwun Wat|HK||6i|1q6|8sp|41|So Kun Wat
+Sūknah|LY||1d|28r|17u|3d|Soknah
+Sokolovo-Kundryuchenskiy|RU||9i|3ow|32z|2o|Sokolovo-Kundrjutsjenskij;Sokolovo-Kundryuchens’kyy;Sokolovo-Kundryuchenskoye
+Sokilnyky|UA||98|3ua|1um|2i|Sokil’nyky
+Sokyryany|UA||98|3ql|245|2h|Secureni;Sokyriany;Sokiryany;Sekiryany;Sekuren’;Sekuryany
+Sokolac|BA||9r|3e2|1g8|2g|Sokola
+Soko|CI|Zanzan District|0|m7|-7m|2c
+Soukka|FI||92|4n2|1wj|29|Sökö
+Sokol’skoye|RU||9i|4eq|3bw|1t|Sokolskoje
+Sokolovyy|RU||9s|3z9|3jb|1q|Sokolovyj
+Sokol|RU|Buryatiya Republic|6k|3zw|8ag|1n
+Sokur|RU||75|49d|6fg|1m
+So Kwun Wat Tsuen|HK||6i|1q6|8so|1g
+Sok Kwu Wan|HK||6i|1po|8t1|1f|Picnic Bay;Pichic Bay
+Sokol|RU|Magadan Oblast|6z|4mg|bmq|18
+Sokolo|ML||5|14x|-h0|18|Swala;Soala
+Sokyrnytsia|UA||98|3po|1t0|16|Sokyrnytsya;Sokyrnyzja;Sokirnicja;Szeklence;Sekernice;Seclenț;Sokirnitsa
+Sochós|GR||8p|35e|1sw|14|Sokhós
+Sokołów Małopolski|PL||a5|3vj|1pg|14|Sokołów;Sokolova Malopolska
+Soko|CI|Woroba|0|n6|-je|10
+Sokolovo|RU||63|41x|6jj|x|Sonolovo
+Sokol|RU|Sakhalin Oblast|7f|3n8|b0j|w
+Sokala-Sobara|CI||0|ng|-cj|w
+Sokolovskoye|RU||9i|3hq|350|v|Sokolovskoje;Sokolovskiy
+Sokoro|CI|Denguélé District|0|sc|-lr|t|Sokore
+Sokozoa|CI||0|hc|-ie|t
+Selice|SK||8s|3pm|1dw|s|Sókszelőce
+Lokolo|CI||0|os|-i0|s|Sokolo;Bokolo
+Sokourani|CI||0|pu|-ij|q|Sokoura
+Sū Kahrīz|IR||7o|2sl|3sc|q|Sū Kārīz;Sokārīz;Sukakhrez;Sū Kahrez
+Sokoro|CI|Savanes District|0|qh|-ei|p
+Sokrogbo|CI||0|gs|-ds|p|Sokorobo;Sokrobo
+Sokolivka|UA||98|3q5|1xg|m|Sokolovka;Sokoluvka;Sokoliv
+Sokolniki|PL|Subcarpathia|a5|3wo|1ol|k
+Sokokro|CI||0|jn|-cs|i|Sokoukro
+Sokolnice|CZ||9m|3sf|1ag|i|Sokolnitz
+Sokourala|CI|Montagnes|0|lt|-lk|g
+Sokouraba|CI||0|s3|-jm|g|Sokourabo;Soukouraba
+Sokorodougou|CI||0|p3|-l2|f|Sogorodougou
+Sokorogo|CI||0|n3|-cs|f
+Sokol|RU|Perm Krai|7z|4gv|4bp|f
+Sokoły|PL||a5|437|1r2|f
+Sokourala|CI|Woroba|0|n5|-kv|e|Sokouralla I;Sokouralla
+Sokala-Djélisso|CI||0|n7|-cn|d
+Sokolovo Brdo|RS||8q|3bu|1j1|d
+Sokolyne|UA||9t|3fr|2mc|d|Kokkozy;Kökköz
+Sokolo|CI|Savanes District|0|ou|-bt|c
+Sokolce|SK||8s|3ox|1dj|c|Lakszakállas
+Sokolniki|PL|Łódź Voivodeship|a5|3yj|1ex|c
+Kvartsitnyy|RU||9i|4qt|2pb|b|Soksunranta;Kvartsitni
+Sokolova Balka|UA||98|3so|2o6|b
+Sokolníky|SK||8s|3qe|1eb|b
+Sokolovica|RS||8q|3c2|1kg|a
+Sokolo|CI|Vallée du Bandama District|0|nb|-be|a
+Sokola|CI||0|mv|-7v|9
+Sokobo|CI||0|l3|-er|9
+Sokolniki|PL|Silesia|a5|3wo|1ig|8
+Sokoleč|CZ||9m|3v6|15z|8
+Sokpokaha|CI||0|ph|-fs|7
+Soh Kouamikro|CI||0|lb|-d8|7|Sokouamikro
+Sokoro|CI|Vallée du Bandama District|0|ls|-dr|7
+Soklodogba|CI||0|dj|-l2|6|Soklodougba
+Sokolniki|PL|Greater Poland|a5|415|1d7|6
+Shoqeda|IL||6n|2fa|2nw|6|Šokeda;Shokeda;Szokeda
+Sokna|NO||9j|4nc|rl|5
+Sokoura|CI||0|mi|-ib|5|Sokora
+Soca|RO||8u|3i1|1ms|5|Soka
+Sökün|TR||94|2sy|2mh|5

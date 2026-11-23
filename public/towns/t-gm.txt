@@ -1,0 +1,21 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Troyan|BG||9v|3b5|1wo|5w|Comuna Troian;Gmina Trojan;Troïan;Trojan
+Berkovitsa|BG||9v|3c4|1s9|46|Obština Berkovica;Comuna Berkovița;Gmina Berkowica;Berkovica;Berkovitza
+Gmunden|AT||a2|3p4|12c|3o|Gmundn
+Aksakovo|BG||9v|3c6|25a|1z|Gmina Aksakowo;Aksakov;Aksakowo
+Sierakowice|PL||a5|46z|1dp|1z|Gmina Srôkòjce
+Tervel|BG||9v|3dj|245|1w|Gmina Terweł
+Gniew|PL||a5|45k|1ga|1w|Gméw;Gņeva
+Gmund am Tegernsee|DE||8r|3on|wm|1p
+Gmünd|AT|Lower Austria|a2|3rh|15m|1b
+Faxe|DK||8y|49i|xo|16|Fakse;Gmina Fakse
+Gmünd|AT|Carinthia|a2|3mb|11l|q
+Stężyca|PL|Pomerania|a5|46l|1dw|m|Gmina Stãżëca
+Główczyce|PL||a5|47q|1c9|k|Gmina Główczëce
+Przywidz|PL||a5|46k|1ew|h|Gmina Przëwidz;Comuna de Przywid
+Amberd|AM||80|33s|3ez|g|Gmbet’
+Łęczyce|PL||a5|47n|1dm|f|Gmina Łãczëce
+Potęgowo|PL||a5|47c|1cl|e|Gmina Pòtãgòwò
+Studzienice|PL||a5|469|1cu|8|Gmina Stëdzéńce
+Stambolovo|BG||9v|381|1z9|6|Gmina Stambołowo;Stambolowo
+Konarzyny|PL||a5|45i|1ca|5|Gmina Kònôrzënë

@@ -1,0 +1,23 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Riyadh|SA||7e|1wl|3ls|wgc|Riad;Al-Riyad;Rijád;Ar-Riyāḑ;Riyad;Rijadas;Riade;Riadi;Rijāda;Ar-Riyod;Riaad;Rihad;Riadum;Riado;Ar-Riaad;Er-riyad
+Riga|LV||9n|4e7|1uz|5qa|Rigo;Riia;Riika;Ryga;Riqa;Reiga;Ríge;Riigaa;Rigg-a;Rija
+Lille|FR||9k|3wn|8i|1ub|Lila;Lilla;Lilo;Rijsel;Rysel;Insula;Lile;Lil;lil.;Lilis;Risel;Lill
+Rijeka|HR||a6|3hx|144|u0|Vitipolis;Sankt Veit am Pflaum;Sankt Veit am Flaum;Flumen;Rijeko;Fiume;Reka
+Rijswijk|NL|South Holland|8m|40k|c1|d5
+Rijssen|NL||8m|41b|i4|7p|Riessen
+Rijokri|IN||6t|277|5y8|5b|Rajokri
+Rijau|NG||u|uu|em|4m
+Rijen|NL||8m|3zb|do|4i|Reijen
+Rijkevorsel|BE||8t|3yn|d8|2y|Ryckevorsel
+Rijnsburg|NL||8m|40z|cc|28|Rynsburch;Reinsburgum
+Rijmenam|BE||8t|3xo|cq|1m|Rymenam
+Rijsenhout|NL||8m|416|d3|18|Reisenhautas
+Rijsbergen|NL||8m|3z4|d2|15
+Rijsoord|NL||8m|401|cs|u
+Rijswijk|NL|North Brabant|8m|3zw|dz|j
+Rijpwetering|NL||8m|40z|cq|g
+Rijkhoven|BE||8t|3x7|fb|d|Ryckhoven
+Rijnsaterwoude|NL||8m|410|cz|b|Rijnxaterwoude
+Ryptsjerk|NL||8m|43u|gg|8|Riperkerk;Rijperkerk
+Rijkel|BE||8t|3x5|em|8
+Rijckholt|NL||8m|3x4|fx|7|Rijkholt

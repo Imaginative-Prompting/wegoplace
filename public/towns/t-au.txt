@@ -1,0 +1,506 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hamburg|DE||8r|44r|rr|f8b|Hamburk;Hamborg;Hanburgo;Hampuri;Hambourg;Amburgo;Amborg;Augusta Gambriviorum;Hambuurich;Hamburch;Amburgu;Hambörj;Hamboarch;Hamepuka;Hamburq;Gamburg
+Auckland|NZ||ak|-2ud|dhg|bxs|Oklandas;Oklenda;Awklanda;Tāmaki-makau-rau;Aucopolis;Aucland;Aŭklando;Oklan
+Aurangabad|IN|Maharashtra|6t|1j8|5ta|92f|Chhatrapati Sambhajinagar;Chhatrapati Sambhaji Nagar
+Austin|US|Texas|2f|2c3|-7ji|7io|Ostin;Ostina;Ostinas;Ostins
+Turin|IT||9o|3h7|ld|6jd|Julia Augusta Taurinorum;Turyn;Torino;Torí;Augusta Taurinorum;Turijn;Turim;Turén;Türì;Torin;Torinu
+Macau|MO||6y|1po|8rf|50d|Macao;Makau;Makao;Ma Cao;Makawo;Makaaw;Aumwnz;Makèë;Ó̤-muòng;Àu-mûn;Makaw
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Aurora|US|Colorado|2p|32d|-837|2ru
+Augsburg|DE||8r|3qd|ua|2bn|Augusta Vindelicorum;Augsbourg;Augusta;Augschburg;Augsbörj;Ágsborg;Augsborg;Auqsburq;Augsberg
+Upper West Side|US||48|35b|-5pi|1r2|Aukštutinis Vestsaidas
+Aurora|US|Illinois|2f|380|-6tc|1jr
+Clermont-Ferrand|FR||9k|3j6|8l|153|Clarmont dAlvèrnia;Klermonferāna;Clarmont;Clarmont-Ferrand;Cllârmont-Fèrrand;Augustonemetum;Klermonas-Feranas;Klermon-Feran;Clermont
+Tours|FR||9k|3nn|1y|13c|Turones;Augusta-Turonum;Tūras;Tūra;Tors;Teurgn
+Limoges|FR||9k|3jb|3h|138|Llemotges;Limoĝo;Limòtges;Augustoritum;Lemòtges;Lemojez;Limožas;Limoža;Limages
+Orléans|FR||9k|3p2|5a|wb|Orleano;Aurelianum;Orlean;Orleães;Orliens;Orleāna;Orleanas
+Vlorë|AL||9y|34f|1i4|w1|Avlonya;Avlona;Avlon;Valona;Vlora;Wlora;Vliorė;Vlyora;Vallona;Vlona;Vlonë;Au’lon;Vljora
+Rivière-des-Prairies–Pointe-aux-Trembles|CA||59|3is|-5oe|vn
+Aurangābād|IN|Bihar|6t|1wr|6id|se
+Orihuela|ES||9d|2xs|-2m|s5|Oriola;Aurariola;Auraiola;Oriuela
+Trier|DE||8r|3u8|ig|rt|Tréveris;Treviro;Trèves;Treviri;Augusta Treverorum;Tréier;Trewir;Triri;Trevere;Tryras;Trīre;Trevír;Trevèri
+Awsīm|EG||c|2bo|2ei|q6|Ausîm
+Ústí nad Labem|CZ||9m|3wq|12z|p4|Aussig;Aussig an der Elbe;Ústina Labe;Auszig
+Aulnay-sous-Bois|FR||9k|3ry|6x|me
+Auburn|US|Washington|3p|3nf|-9fj|le
+Aubervilliers|FR||9k|3rw|6m|jp|Aubervilles
+Auraiya|IN||6t|21j|64v|jl
+Aschaffenburg|DE||8r|3uu|pf|j2|Aschaffenbourg;Ašafenburga;A-Burg;Auscheffenburg
+Auchi|NG||u|jn|he|hh
+Auburn|US|Alabama|2f|2il|-6lg|h9
+Verkhnyaya Pyshma|RU||7z|4e9|4oa|gf|Pyshma;Werchnjaja Pyschma;Verkhniaïa Pychma;Verchnjaja Pyšma;Verchnjaja Pysjma;Verxnyaya Pışma;Verĥnjaja Piŝma;Verhnjaja Põšma;Verhnjaja Pyšma;Verkhnjaja Pysjma;Wierchniaja Pyszma;Wjerchnjaja Pyšma;Aukštutinė Pyšma
+Aurora|CA||59|3e8|-64r|fe
+Ahlen|DE||8r|3zs|lx|fd|Ālene;Aulen;Ālna;Ālnon;Alenas;Aleno
+Verkhnyaya Salda|RU||7z|4h9|4o7|dm|Verkhnjaja Salda;Werchnjaja Salda;Verkhniaïa Salda;Verchnjaja Salda;Verxnyaya Salda;Verĥnjaja Salda;Wjerchnjaja Salda;Aukštutinė Salda;Wierchniaja Sałda
+Augusto Corrêa|BR||23|-2u|-3lj|cx
+Auburn Gresham|US||2f|37y|-6rh|cq
+Autlán de Navarro|MX||41|1ix|-81x|cm|Āohtlān Navarro
+Aubagne|FR||9k|3c9|fh|cg|Obanė;Aubanha;Albania
+Avtovo|RU||9i|4mb|2c3|cf|Autuansaari;Awtowo;Avtoro
+Augusta|US|Georgia|48|2kz|-6bp|c3|Aŭgusto
+Auxerre|FR||9k|3os|9x|bj|Aussèrra;Antissiodorum;Oseras;Oser;Oksēra
+Aurich|DE||8r|44j|ks|b7|Auerk;Auwerk;Aurk;Auriacum
+Autazes|BR||3t|-9y|-4k9|b7
+Neumarkt in der Oberpfalz|DE||8r|3sw|vu|b0|Neumarkt i.d.OPf.;Aukštutinio Pfalco Noimarktas
+Ahaus|DE||8r|40o|jh|am|Ahusun;Ahus;Ahusen;Ausn
+Auburn|AU|New South Wales|8l|-2m1|bnj|ac
+Ausa|IN||6t|1ep|5wi|a1
+Aosta|IT||9o|3j2|kc|9t|Aoste;Augusta Praetoria;Aoûta
+Aurillac|FR||9k|3gt|6s|9n|Orlhac;Aureliacum
+Oświęcim|PL||a5|3uz|1hd|9i|Auschwitz;Osvencima;Osvienčim;Osvencimas;Osvecimia
+Asilah|MA||d|2qj|-gr|9g|Arcila;Colonia Augusti Iulia Constantia Zilil;Augusta Zilil;Assilah;Arzila;Assila;Asila;Arzīlah;Arcilas;Arsila
+Auderghem|BE||8t|3x6|cb|9g|Oudergem;Anderghen
+Awlād Şaqr|EG||c|2dx|2g2|94|Aulâd Ṣaqr
+Oudenaarde|BE||8t|3x9|a1|8v|Audenarde;Aldenarda;Oudenoarde;Audenaarde;Oudenaerde
+Aurora do Pará|BR||23|-5x|-3o4|8u
+Aungban|MM||7y|1le|7gf|8m
+Augusta|IT||9o|2vg|16a|8j|Austa
+Orange|FR||9k|3em|dd|8h|Oranžas;Aurenja;Arausio
+Augustów|PL||a5|45k|1ru|8a|Augustavas;Avgustova;Avgustov
+Austintown|US||48|366|-68c|89
+Agawam|US||48|38v|-5lp|80|Augawoam;Augawam;Agawom;Agawaam;Aggawam
+Auburn|US|New York|48|3b9|-5wp|7i
+Austin|US|Minnesota|2f|3db|-769|6u
+Auch|FR||9k|3d9|1n|6t|Aush;Auski;Augusta Auscorum
+St Austell|GB||9b|3vu|-d9|6s|Austol;St. Austell
+Aurora|BR|Ceará|2w|-ja|-309|6l
+Tata|HU||8v|3od|1ew|6g|Augustin;Totis
+Auburn|US|Maine|48|3ei|-5f3|6d
+Auburn Hills|US||2q|3al|-6f7|6b
+Łaziska Górne|PL||a5|3vb|1gc|64|Oberlazisk;Gůrne Łaźiska;Laziska Gurne;Aukštutiniai Laziskai;Oberlasisk;Laziskagorna
+Auerbach|DE|Saxony|8r|3wb|yg|5y
+Aurora|IT||9o|3h8|ld|5k
+Aurād|IN||6t|1ep|5z2|5i
+Augusta|US|Maine|48|3f3|-5du|59|Ogasta;Avgusta
+Aung San|MM||7y|1b0|7ey|56
+Aue|DE||8r|3wj|zb|56|Aujė
+Autun|FR||9k|3mf|by|53|Augustodunum
+Ansfelden|AT||a2|3px|13p|53|Aunsföin
+Äußere Neustadt|DE||8r|3xv|128|51
+Auburn Bay|CA||2s|3xd|-8sk|51
+Aurangabad Cantonment|IN||6t|1j8|5t5|51
+Auhammadpur Mājri|IN||6t|27t|5y0|4v|Mohammad Pur Majri
+Auburn|US|Massachusetts|48|397|-5jk|4n
+Aurora|PH|Calabarzon|71|113|9gc|4i|San Francisco
+Australind|AU||8k|-2kg|8xg|4g
+Aurora|US|Ohio|48|36s|-69z|4e|Avrora
+Audincourt|FR||9k|3nw|j1|4c
+Złotoryja|PL||a5|3y1|188|4c|Aurimontium;Zlotorija;Aureus Mons;Aurum;Słotoryja
+Amstetten|AT||a2|3po|15b|4c|Aumstettn;Amšteta
+Ovruch|UA||98|3yl|280|49|Ovroutch;Ovruč;Ovrutš;Ovrutsj;Owrucz;Zbruchyi;Vruchay;Beruchiy;Vruchev;Uruchiy;Owrutsch;Ovruci;Ovroetsj;Oŭruč;Aŭruč;Owruč;Ovrutj;Ovruča;Ovručas;Ovrucs;Vruchy
+Auburndale|US|Florida|48|25z|-6b7|46
+Aubange|BE||8t|3tp|g4|45|Åbindje;Éibeng
+Auriflama|BR||4w|-1lh|-3wf|3v
+Auburn|US|California|3p|302|-9cc|3u
+Aubenas|FR||9k|3fy|c7|3n|Obena
+Auburn|US|Indiana|38|36x|-6ka|3m
+Oloron-Sainte-Marie|FR||9k|3bz|-1p|3i|Auloron;Auloron e Senta Maria;Oloroe-Donamaria;Olaro
+Auray|FR||9k|3of|-8a|3f|An Alre;Alraium
+Aubergenville|FR||9k|3s0|55|3b
+Auchel|FR||9k|3wa|6v|36|Auchez
+Aurelino Leal|BR||20|-13s|-319|34
+Aubière|FR||9k|3j3|8n|33|Aubèira;Aubièra
+Aiseau|BE||8t|3w1|cr|31|Aujau;Åjhô
+Verkhnyaya Tura|RU||7z|4i4|4m5|2y|Verkhnjaja Tura;Werchnjaja Tura;Vérjniaya Turá;Verkhniaïa Toura;Verchnjaja Tura;Verchnjaja Toera;Verxnyaya Tura;Verĥnjaja Tura;Wjerchnjaja Tura;Aukštutinė Tura
+Aulendorf|DE||8r|3p7|qs|2t
+Olonets|RU||9i|4pe|2jl|2s|Olonez;Olonec;Aunus;Anus;Ołoniec;Anuksenlinnu;Olonjec;Aunuksenlinna
+Augustdorf|DE||8r|407|o9|2r
+Auriol|FR||9k|3ch|fn|2r|Auriòu
+Augusta|US|Kansas|2f|2wp|-7he|2l
+Aulnoye-Aymeries|FR||9k|3vg|ao|2k|Alniaco-Ameria
+Aurora|PH|Zamboanga Peninsula|71|m3|9ja|2k
+Auerbach|DE|Bavaria|8r|3u1|wb|2j|Aurbach
+Ouderkerk aan de Amstel|NL||8m|41a|dn|2h|Ouderkerk-sur-l'Amstel;Auderkerkas prie Amstelio;Ouderkerk Aan Den Amstel
+Audubon|US|New Jersey|48|32t|-5sj|2f
+Auna|NG||u|sb|d4|2e
+Le Taillan-Médoc|FR||9k|3gq|-1v|2d|Autelhan;Lo Talhan de Medòc;Le Taillan Medoc
+Auvelais|BE||8t|3w5|cv|2d
+Audubon|US|Pennsylvania|48|33h|-5tj|2c
+August|US||3p|2xi|-9cu|2c
+Aulnoy-lez-Valenciennes|FR||9k|3vt|9t|2a|Auno
+Aurinkolahti|FI||92|4n8|1xv|28|Solvik
+Auxonne|FR||9k|3n3|ez|28|Auxona
+Aureilhan|FR|Occitanie|9k|3c4|a|27
+Auby|FR||9k|3w1|8h|26
+Auburn|US|Georgia|48|2mh|-6gv|23
+Aurora|US|Missouri|2f|2up|-78c|23
+Auterive|FR|Occitanie|9k|3cf|43|22
+Aussillon|FR||9k|3cu|6k|21
+Slavkov u Brna|CZ||9m|3sj|1aw|21|Austerlitz;Sławków;Slavkovas prie Brno;Slaukovia;Slavkova pie Brno
+Augusto Pestana|BR||4w|-277|-45z|1z
+Austell|US||48|2lx|-6j3|1z
+Auf der Horst|DE||8r|41m|qo|1z|Up de Host
+Auki|SB||av|-od|cee|1y|Auke
+Auvers-sur-Oise|FR||9k|3sb|61|1y
+Auburndale|US|Massachusetts|48|39n|-5hx|1x
+Ābdān|IR||7o|260|3zt|1w|Au Dan;Ābdūn
+Aurora|BR|Santa Catarina|4w|-23v|-3tw|1w
+Au|CH|Saint Gallen|a7|3nr|qr|1v
+Auguste Raynaud|FR||9k|3df|k6|1u
+Aurās|IN||6t|22r|67n|1u
+Auen|AT|Carinthia|a2|3lg|12g|1u
+Aual|GQ||10|-41|fn|1r
+Velyki Mosty|UA||98|3vk|1v2|1r|Mosty Wielkie;Augustów
+Aucamville|FR|Occitanie|9k|3db|3z|1q
+Auchenflower|AU||8c|-24b|bsz|1q
+Aubin Grove|AU||8k|-2hd|8xu|1q
+Aubigny-sur-Nère|FR||9k|3nx|6s|1o
+Audun-le-Tiche|FR||9k|3tf|gk|1n|Däitsch-Oth
+Auchterarder|GB||9b|4ce|-ab|1m
+Aousserd|MA||d|1qn|-13t|1m|Aussert;Aousred;Ausserd;Auserd
+Augusta|US|West Virginia|48|316|-62g|1l
+Audley|GB||9b|43d|-6e|1k|Aŭdlejo
+Audenge|FR||9k|3g4|-2t|1j|Audenja
+Au in der Hallertau|DE||8r|3qw|wm|1i|Au in da Holledau
+Aussenkehr|NA||1f|-26s|1cd|1i
+Austevoll|NO||9j|4mz|ec|1h
+Australia|CU||36|1qi|-69e|1h
+Auden Park|CA||59|3ev|-5wq|1g
+Aurec-sur-Loire|FR||9k|3i1|bo|1g|Aurec de Lèir
+Augustusburg|DE||8r|3x5|10e|1g
+Nueil-les-Aubiers|FR||9k|3md|-1m|1g|Aubiers
+Auburn|US|New Hampshire|48|3bg|-5i7|1f
+Le Cendre|FR||9k|3j0|8v|1f|Au Sandre;Cendre
+Au Long|MY||6v|dh|7rs|1e|Aulong
+Aushiger|RU||9i|3cj|3di|1e|Ausjiger
+Numarán|MX||41|1ka|-7v7|1d|Aumarán
+Aubusson|FR||9k|3jn|61|1d|Lo Buçon
+Old Kilpatrick|GB||9b|4bc|-ce|1d|Cille Phádraig;Auld Kilpatrick
+Augustine Heights|AU||8c|-24u|bso|1c
+Au|CH|Zurich|a7|3n8|o0|1c
+Auburn|US|Illinois|2f|31z|-6xb|1c
+Aussonne|FR||9k|3dc|3o|1b
+Aubin|FR||9k|3fp|68|1b
+Audhan|IN||6t|1lx|5rp|1b
+Audruicq|FR||9k|3xc|5s|1b|Ouderwijk
+Aulnat|FR||9k|3j8|8t|1b|Aulnac
+Auberchicourt|FR||9k|3vt|8z|1b
+Augusto de Lima|BR||4w|-1eb|-3ez|19
+Auchy-les-Mines|FR||9k|3wb|7q|19
+Aurora|PH|Cagayan Valley|71|1b7|9dw|19
+Aurora|US|Nebraska|2f|35j|-7k8|19
+Aubignan|FR||9k|3ei|dz|17|Aubinhan;Albinianus
+Aulla|IT||9o|3et|rq|17
+Austin|US|Indiana|38|2zo|-6md|17
+Audoin Santé|CI||0|ep|-bi|16
+Auezov|KZ||5s|3u3|6am|16
+Auly|UA||98|3qv|2nq|16|Auli;Aouly
+Aubel|BE||8t|3wu|ga|15|Aobel
+Anthisnes|BE||8t|3w8|fc|15|Aubel;Antene
+Aur|IN||6t|2eb|5v4|15
+Oudegem|BE||8t|3xp|ba|15|Audegem
+Aubevoye|FR||9k|3sl|3q|14|Aubevoie
+Aumsville|US||3p|3gk|-9hb|14
+Auneau|FR||9k|3qm|4x|14
+Autol|ES||9d|39a|-5l|14
+Aura|FI||92|4oh|1qr|14
+Aukrug|DE||8r|468|r6|12
+Auchinleck|GB||9b|4a3|-bx|12
+Aurora|US|Indiana|48|30i|-6ju|11
+Augrabies|ZA||o|-27j|1kj|10|Aughrabies
+Kaiseraugst|CH||a7|3o2|lh|10|Augusta Raurica
+Aurora|PH|Mimaropa|71|10r|9cg|z
+Odos|FR||9k|3c0|6|z|Audòs
+Auburn Lake Trails|US||3p|303|-9bz|y
+Aumbay|PH||71|jq|9pe|y
+Áurea|BR||4w|-24y|-40l|y
+Aure|NO||9j|4vr|np|y
+Auning|DK||8y|4cr|su|y|Avning
+Austin|US|Arkansas|2f|2p8|-73i|y
+Ahoutoué|CI||0|f7|-ak|y|Autoué;Aoutoué
+Au am Rhein|DE||8r|3rz|mv|y
+Aubrey|US||2f|2ki|-7hf|y
+Auronzo|IT||9o|3lc|yi|x
+Austin Heights|CA||5b|3st|-9hb|x
+Auburn|US|Nebraska|2f|347|-7e8|x
+Aurilândia|BR||4w|-1ac|-3w6|x
+Auma|DE||8r|3wu|x2|w
+Avlum|DK||8y|4cb|of|w|Aulum
+Airvault|FR||9k|3m3|-e|w|Aurea Vallis
+Ora|IT||9o|3kr|ve|w|Auer;Auer bei Bozen
+Augustenborg|DK||8y|48n|rf|w
+Aunay-sur-Odon|FR||9k|3s6|-1r|u
+Austral|AU||8l|-2m9|bmx|u
+Auşeu|RO||8u|3mn|1qi|u
+Auxi-le-Château|FR||9k|3vj|5w|u|Aussi-ch’Catiau
+Auzeville-Tolosane|FR||9k|3cx|44|t
+Le Bugue|FR||9k|3gs|2l|t|Aubuga;Albuga
+Auneuil|FR||9k|3t5|5k|t
+Auboué|FR||9k|3sp|gm|t
+Auribeau-sur-Siagne|FR||9k|3d4|j7|r|Auribèu;Auribèu de Sianha;Auribeau
+Aumale|FR||9k|3u9|4w|r
+Aubonne|CH||a7|3l6|hr|r|Obonas;Ôbôna
+Aurora|PH|Caraga|71|nv|9pk|r
+Auli|NO||9j|4mr|vk|q
+Rūjiena|LV||9n|4gu|1yd|q|Ruhja;Aujiena;Rujina
+Augny|FR||9k|3sa|h0|q
+Audierne|FR||9k|3pe|-cm|q|Gwaien
+Au / Mittel-Dorf|CH||a7|3n8|o1|q|Mittel-Dorf
+Autelbas|BE||8t|3tx|gb|p
+Aubigny|FR|Pays de la Loire|9k|3lg|-41|p
+Austinmer|AU||8l|-2nb|bn9|p
+Auggen|DE||8r|3oq|l4|o|Aucken
+Auk Kyaung|MM||7y|19v|7e9|o
+Auberry|US||3p|2v0|-97x|o
+Auditorium|CA||59|3cp|-67j|n
+Aumetz|FR||9k|3ta|gi|n
+Ossun|FR||9k|3by|-3|n|Aussun;Aussun de Tarba
+Aurelio Manrique|MX||41|1px|-7m1|m
+Aubigné-Racan|FR||9k|3oh|r|m
+Aurisina|IT||9o|3j3|11z|m|Nabrežina;Nabresina;Nabražina
+Austins Ferry|AU||8g|-3at|bd1|m
+Auerbach|DE|Bavaria|8r|3rk|10e|m
+Aursmoen|NO||9j|4mh|vs|m
+Aurelliana|PH||71|u8|9eu|m|Aurellana;Aureliana
+Aubais|FR||9k|3dk|bj|m
+August Pine Ridge|BZ||24|1dx|-6ug|m
+Auce|LV||9n|4cu|1rm|m
+Aūa|AS||b9|-13n|-d63|l
+Audun-le-Roman|FR||9k|3t5|ge|l
+Auchtermuchty|GB||9b|4cd|-8z|l
+Auburn|US|Michigan|2q|3d4|-6hj|l
+Aups|FR||9k|3d7|ha|l
+Aubord|FR||9k|3dk|bz|l|Aubòrn
+Augusta|US|Arkansas|2f|2q0|-71t|l
+Aurora Esquipulas|MX||41|1bk|-74w|k
+Augusta|US|New York|48|3bd|-5tq|k
+Auzat-la-Combelle|FR||9k|3i9|98|k|Auzat;Auzat-sur-Allier
+Ausleben|DE||8r|40p|uv|k
+Audubon|US|Iowa|2f|37w|-7bp|k
+Auroville|IN||6t|xd|65p|k|Aŭrorurbo;Aurovilis
+Auffargis|FR||9k|3ra|59|k
+Auersthal|AT||a2|3qd|1a8|j
+Ault|FR||9k|3v6|41|j
+Aután|MX||3x|1o9|-84j|j|Autlán
+Au an der Traun|AT||a2|3pu|137|j
+Oudehaske|NL||8m|434|gb|j|Oldehaske;Aldehaske;Audenhaskas
+Augier|LC||52|128|-4pe|j
+Auénou|CI||0|jw|-8y|i
+Auffay|FR||9k|3u4|32|i
+Auchy-lès-Hesdin|FR||9k|3w0|5u|i
+Aufhausen|DE||8r|3rr|y4|i
+Autrans|FR||9k|3hi|fe|i
+Auzielle|FR||9k|3cy|4d|i
+Aujla|IN||6t|2e9|5u8|h
+Valdaora di Mezzo|IT||9o|3lw|xf|h|Olang;Valdaora;Aulacum;Valdapra
+Aurora|US|Minnesota|2f|3o1|-748|h
+Audlem|GB||9b|437|-6z|h
+Aub|DE||8r|3tn|rz|g
+Aubers|FR||9k|3wk|7v|g
+Aube-sur-Rîle|FR||9k|3re|1j|g
+Ault|US||2p|34q|-82x|g
+Aulnay|FR||9k|3ju|-z|g
+Auw|CH||a7|3n5|n9|g
+Ouwegem|BE||8t|3xf|a0|g|Auwegem
+Ahun|FR||9k|3k1|5o|g|Aün;Aiun
+Auletta|IT||9o|34o|16u|g
+Auvernier|CH||a7|3mi|j4|g
+Ault Field|US||3p|3qa|-9gr|f
+Augusta|US|Wisconsin|2f|3g4|-714|f
+Audubon Park|US|Kentucky|3k|2y4|-6m5|f
+Auas|HN||56|170|-6i9|f|Awas;Ahuás
+Aubry-du-Hainaut|FR||9k|3vx|9n|f
+Auzouer-en-Touraine|FR||9k|3o2|2k|f
+Autsho|BT||7p|248|719|e
+Auvers-le-Hamon|FR||9k|3p2|-z|e
+Aughrim|IE|Leinster|8z|42t|-hl|e|Eachroim
+Austerlitz|NL||8m|40o|es|e
+Aureille|FR||9k|3df|dr|e|Aurelha
+Auzances|FR||9k|3jv|6y|e
+Auckley|GB||9b|44m|-2u|e
+Audru|EE||9x|4i9|1vp|e
+Außernzell|DE||8r|3rc|10o|e
+Aubigny-en-Artois|FR||9k|3vv|76|e
+Aufseß|DE||8r|3uk|v7|e
+Au Sable|US||2q|3fd|-6fh|e
+Au Leon|LC||52|12r|-4p7|e
+Auberives-sur-Varèze|FR||9k|3i6|de|e
+Aunay-sous-Auneau|FR||9k|3qk|51|e
+Augan|FR||9k|3p4|-6c|e|Algam
+Aung Myay|MM||7y|204|7dw|e
+Augusta|AU||8k|-2nc|8vw|e
+Auburn|US|Kentucky|2f|2ue|-6ov|e
+Au|AT|Salzburg|a2|3oi|10b|d
+Auhagen|DE||8r|41k|pt|d
+Aulnois-sous-Laon|FR||9k|3tt|a1|d
+Oppède le Vieux|FR||9k|3dr|ec|d|Aupeda;Opeda
+Au|DE||8r|3p7|lr|d
+Aurora|US|Texas|2f|2ju|-7iu|d
+Auttoinen|FI||92|4qa|1xp|d
+Aurukun|AU||8c|-114|axp|d
+Authon-du-Perche|FR||9k|3pw|2h|d|Âothoun
+Aus|NA||1f|-223|196|d
+Auka|HN||56|15i|-6gv|d|Auca
+Au / Unter-Dorf|CH||a7|3n9|nz|c|Unter-Dorf
+Aurelia|IT||9o|392|wr|c
+Hautefort|FR||9k|3hq|37|c|Autafòrt
+Auzebosc|FR||9k|3ts|21|c
+Augustinusga|NL||8m|43u|h4|c|Stynsgea
+Auburn|US|Kansas|2f|303|-7e6|c
+Aurignac|FR||9k|3c2|2g|c|Aurinhac
+Aulhausen|DE||8r|3uv|lx|c
+Augustin|RO||8u|3jx|1yz|c|Agoştin
+Augy|FR||9k|3op|a1|c
+Oudeschild|NL||8m|43c|dh|c|Audeşild
+Autre-Église|BE||8t|3wr|dm|c
+Augusta|US|Kentucky|48|2zp|-6hd|c
+Aujla Dhak|IN||6t|2ei|5ut|c
+Aulnay-sur-Mauldre|FR||9k|3rx|54|c
+Aurolzmünster|AT||a2|3q1|11e|b
+Aurora Ermita|MX||41|1bw|-75z|b
+Auxon-Dessous|FR||9k|3ne|gj|b
+Aurach|AT||a2|3np|yj|b
+Auvers-Saint-Georges|FR||9k|3qp|66|b
+Ogeu-les-Bains|FR||9k|3bv|-1e|b|Augeu
+Auhausen|DE||8r|3s5|ti|b|Ahuse;Ahuson;Ahusen;Awhusen;Ahuosen;Ahausen;Auhusen;Ahusen in dem Ryse;Werntzahusen;Wernczhausen;Ohausen;Weernitzahawsen;Woernitz Ahausen;Anhausen an der Wernitz;Ahusen an der Wörnitz
+Aumont-Aubrac|FR||9k|3g8|94|b|Autmont dAubrac;Auroux
+Autry-le-Châtel|FR||9k|3o8|78|b
+Auleben|DE||8r|3yv|ud|b
+Auriac-sur-Vendinelle|FR||9k|3cw|53|b
+Au|AT|Vorarlberg|a2|3ng|rq|b
+Audorf|AT||a2|3py|13o|b
+Aura im Sinngrund|DE||8r|3ve|qm|b
+Aulnois|BE||8t|3vu|au|b
+Auxy|FR|Bourgogne-Franche-Comté|9k|3mf|c8|b
+Augusto Gómez Villanueva|MX||41|1gu|-80w|a
+Aubiet|FR||9k|3d9|26|a
+Aughnacloy|GB||9b|475|-je|a|Achadh na Cloiche;Auchnacloy
+Aubie|FR||9k|3h2|-15|a|Aubia e Espessàs
+Aubigny-au-Bac|FR||9k|3vm|8s|a
+Authie|FR||9k|3sp|-17|a
+Aurora|US|Utah|2p|304|-8mx|a
+Auvillar|FR||9k|3ef|2i|a|Autvilar
+Audubon Park|US|New Jersey|48|32u|-5sl|a
+Augustówka|PL||a5|40f|1nq|a
+Ausserbraz|AT||a2|3mz|ri|a
+Auffach|AT||a2|3no|xf|a
+Aurelia|US||2f|3an|-7d4|a
+Aurora Grande|MX||41|1bl|-74j|a
+Auxvasse|US||2f|30e|-73a|a
+Au / Ober-Ort/Gwad|CH||a7|3n8|o2|a
+Aurora|US|Oregon|3p|3hn|-9h0|a
+Aukstadvaris|LT||a3|47m|1w5|a|Aukstadvario;Aukštdvaris;Aukšdvaris;Aukshtadvaris;Aukštdvarys
+Ossuccio|IT||9o|3jp|pi|a|Ausacium;Ossusc
+Aubiac|FR||9k|3em|1k|a
+Ausserweg|AT||a2|3mx|vw|a
+Aubepierre-Ozouer-le-Repos|FR||9k|3r3|80|9
+Aubrives|FR||9k|3v6|d8|9
+Sint-Goriks-Oudenhove|BE||8t|3x9|aj|9|Audenhove-Saint-Géry;Sint Goriks-Oudehove
+Auxon|FR||9k|3pm|aw|9
+Au am Leithaberge|AT||a2|3p4|1a0|9
+Ausonia|IT||9o|36w|127|9|Ausona Nova
+Augerolles|FR||9k|3j0|a2|9
+Austrey|GB||9b|42a|-4d|9
+Aurel Vlaicu|RO|Hunedoara County|8u|3jj|1so|9
+Auteuil|FR|Île-de-France|9k|3ro|52|9
+Auzits|FR||9k|3fn|6h|9|Ausits
+Augst|CH||a7|3o2|lf|9
+Augusta|US|Michigan|2q|39m|-6l3|9
+Auxy|FR|Centre-Val de Loire|9k|3po|6v|9
+Au an der Donau|AT||a2|3pz|14i|9
+Ausejo|ES||9d|39m|-61|9
+Auzon|FR||9k|3i3|9d|9
+Aucaleuc|FR||9k|3qm|-5x|9|Oskaleg
+Audregnies|BE||8t|3vy|ac|9
+Aura an der Saale|DE||8r|3vc|rt|9
+Aurora|RO||8u|3er|1rq|9
+Au Gres|US||2q|3ed|-6gi|9
+Autaugaville|US||2f|2i3|-6op|9
+Autruy-sur-Juine|FR||9k|3q4|5u|9
+Aucamville|FR|Occitanie|9k|3do|3d|8
+Auen|AT|Carinthia|a2|3m8|156|8
+Austis|IT||9o|33b|p9|8
+Aulander|US||48|2sn|-5y7|8
+Augignac|FR||9k|3in|1y|8|Auginhac;Auguilhacum
+Autignac|FR||9k|3cu|8t|8
+Audrieu|FR||9k|3sp|-1n|8
+Auvillers-les-Forges|FR||9k|3ui|c4|8
+Aussertreffling|AT||a2|3q9|13v|8
+Augé|FR||9k|3l0|-t|8
+Aureil|FR||9k|3j9|3v|8|Aurèlh
+Autheuil-Authouillet|FR||9k|3se|3k|8
+Authume|FR||9k|3mx|fa|8
+Aujargues|FR||9k|3dn|bg|8
+Aubstadt|DE||8r|3vt|sz|8
+Autreville|FR||9k|3tq|90|8
+Auxon-Dessus|FR||9k|3ne|gk|8
+Aubin-Saint-Vaast|FR||9k|3w0|5h|8
+Außervillgraten|AT||a2|3lz|yj|8|Ausserviligraten
+Aumond|CA||59|3l6|-5un|8
+Aubazine|FR||9k|3hh|4n|8|Obasina
+Auchinloch|GB||9b|4bb|-bj|8
+Aucayo|PE||3o|-aq|-5n7|7|Aucaya
+Aukra|NO||9j|4ue|j6|7
+Au am Anzbach|AT||a2|3pw|188|7
+Authon|FR||9k|3oc|2i|7
+Auburn|US|Pennsylvania|48|34s|-5vd|7
+Aux Marais|FR||9k|3ta|5o|7
+Aurora|US|New York|48|3ar|-5x2|7
+Auros|FR||9k|3fm|-f|7
+Auzat|FR||9k|3at|44|7|Ausat
+Auménancourt-le-Petit|FR||9k|3t6|ba|7
+Aureilhan|FR|New Aquitaine|9k|3eu|-3c|7
+Autrêches|FR||9k|3tc|8o|7
+Aurdal|NO||9j|4p8|q5|7
+Außerschmirn|AT||a2|3ms|w1|7
+Audresselles|FR||9k|3x6|4f|7|Auderselle;Audreselles;Audrecelles
+Aurensan|FR||9k|3cb|9|7
+Aussois|FR||9k|3hn|iq|7
+Aurice|FR||9k|3dp|-1o|7|Auriça
+Auw|DE||8r|3vq|hm|7
+Auburndale|US|Wisconsin|2f|3fz|-6y1|7
+Auxier|US||48|2wu|-6dw|7
+Anguilla|US||2f|2jl|-70a|7|Auguilla
+Aunay-sous-Crécy|FR||9k|3r7|3m|7
+Auldearn|GB||9b|4fx|-ak|7
+Aumagne|FR||9k|3jf|-14|7
+Auburn|AU|South Australia|8b|-2mj|ap9|7
+Aubenton|FR||9k|3ug|bo|7|Albentonum
+Auricarro|IT||9o|360|1ac|7
+Aurora|US|South Dakota|2f|3f0|-7gl|7
+Auppegard|FR||9k|3uf|2v|6
+Autigny|CH||a7|3lu|ji|6|Altignes
+Autretot|FR||9k|3tx|21|6
+Auderath|DE||8r|3ve|jg|6|Anderath
+Aubertin|FR||9k|3c7|-1c|6
+Augsdorf|DE||8r|3zc|w5|6|Ostdagesdorp;Ostagisdorff
+Ausson|FR||9k|3bo|1n|6
+Aureville|FR||9k|3cs|41|6
+Aulnay-sur-Iton|FR||9k|3s4|2y|6
+Auffreville-Brasseuil|FR||9k|3rz|4r|6
+Auldana|AU||8b|-2p0|ap9|6
+Auna di Sotto|IT||9o|3l7|vs|6
+Aughrim|IE|Connacht|8z|442|-n3|6|Eachroim
+Auvers|FR||9k|3sy|-3o|6
+Audincthun|FR||9k|3wi|5x|6|Audincthin
+Auzouville-sur-Ry|FR||9k|3tc|3n|6
+Aurel Vlaicu|RO|Botoșani County|8u|3pc|22r|6
+Aufhausen|AT||a2|3ne|zg|6
+Auberville-la-Campagne|FR||9k|3tl|1o|6
+Autechaux-Roide|FR||9k|3nn|ix|6
+Auala|WS||aj|-11k|-dbl|6
+Augusta|US|Illinois|2f|33r|-70n|6
+Au Sable Forks|US||48|3fg|-5on|6|Ausable Forks
+Auteuil|FR|Hauts-de-France|9k|3t2|5t|6
+Auzay|FR||9k|3l0|-2f|6
+Aubignosc|FR||9k|3el|gl|6|Aubinhòsc;Aubignose
+Audinghen|FR||9k|3x9|4h|6|Audinghin
+Austin|US|Pennsylvania|48|37n|-60x|6
+Aubigny|FR|Hauts-de-France|9k|3um|6w|5
+Aukštelkai|LT||a3|4b5|1tn|5|Aukštelkų
+Aurons|FR||9k|3db|ec|5
+Anzême|FR||9k|3kj|56|5|Anzema;Anzesme;Auzème
+Auchenblae|GB||9b|4e2|-6t|5
+Aulnay-la-Rivière|FR||9k|3pv|6l|5
+Aumont-en-Halatte|FR||9k|3sr|73|5
+Auradé|FR||9k|3d1|2y|5
+Ausacker|DE||8r|481|ql|5
+Aurora|US|North Carolina|48|2q3|-5xb|5
+Aubas|FR||9k|3h8|3b|5|Albacium
+Aussevielle|FR||9k|3cg|-1c|5|Aussavièla
+Auterive|FR|Occitanie|9k|3d2|1p|5|Auterrive
+Authezat|FR||9k|3ir|8u|5
+Au|AT|Salzburg|a2|3o4|112|5
+Aubencheul-au-Bac|FR||9k|3vm|8s|5
+Austinburg|US||48|381|-68l|5
+Audubon|US|Minnesota|2f|3m6|-7em|5

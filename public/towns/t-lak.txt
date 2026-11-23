@@ -1,0 +1,363 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+Lucknow|IN||6t|22k|68s|j2o|Laknaŭo;Lakhnau;Laknau;Luknow;Laknava
+Cabanatuan City|PH||71|171|9c1|2nh|Cabanatúan;Ciudad ti Cabanatuan;Lungsod ng Cabanatuan;Siudad ti Cabanatuan;Lakanbalen ning Cabanatuan;Siyudad na Cabanatuan
+A Coruña|ES||9d|3ch|-nc|1xk|La Corogne;Coruña;A Cruña;Corunya;Coruñako;Corunha;La Korunja;La Coronha;La Korunya;Korunjo;In Coruña;Akoruņa;La-Korunya;The Groyne
+Salt Lake City|US||2p|358|-8mt|1nv|Sallaga Urbo;Kota Salt Lake;Solt Leik Sitis;Thành phố Salt Lake;Civitas Lacus Salsi;Soltleiksitija;Salt Lake Ceety;Sol Lek Siti;Solt Leyk Siti;Lungsod ng Salt Lake;Solt Leik Sitės;Salt Lake;Cathair Salt Lake;Salt-Lejk-Siti;Solt Lejk Siti
+Lakewood|US|Colorado|2p|32a|-83w|16e
+Lakhīmpur|IN||6t|25n|68e|12y
+Arcahaie|HT|Ouest|4j|1g5|-5lf|107|Akayè;Lakayè;Archaie
+Haveli Lakha|PK||6q|2cl|5op|y0
+Lak Si|TH||62|12l|7re|ui
+Lakeland|US|Florida|48|25w|-6bn|t0|Leiklandas;Leiklande;Leyklend
+Lakang|MM||7y|1wi|7hz|nq
+Lake Forest|US|California|3p|2lh|-92x|mx
+Lākshām|BD||6a|1sk|714|mv|Laksam
+Lakewood|US|California|3p|2m1|-945|mo
+Lake Charles|US||2f|2bx|-76w|l5
+La Carlota|PH||71|sy|9hg|it|La Karlota;Lakarlota;La Calota
+Lake Elsinore|US||3p|2lj|-91x|h8
+Lakshmīpur|BD|Chittagong|6a|1rq|70b|h5
+Lakeville|US|Minnesota|2f|3g1|-770|gu|Lakevilo;Lake Ville
+Lakewood|US|Washington|3p|3n1|-9gc|gm
+Lakewood|US|New Jersey|48|33e|-5q6|ey
+Lake Havasu City|US||4i|2ns|-8tk|ew
+Lakewood|CA||4q|40r|-883|e8
+Lakewood|US|Ohio|48|378|-6b8|e3|Leikvuda Ohaio štats
+La Calera|CL||4u|-2j3|-5hs|dy|La Kalera;Calera
+Lakhdaria|DZ||3|2tk|9z|bx
+Lake Ridge|US||48|2zh|-5yq|bf
+Lakkanahalli|IN||6t|xn|613|b1
+Lake Oswego|US||3p|3i6|-9gr|ap
+Lake Worth Beach|US||48|21y|-66f|af|Lake Worth
+Lakshmeshwar|IN||6t|161|5tn|a8|Lakshmeshvar
+Lakki|PK||6q|2il|5gz|a4
+Lakhyabad|IN||6t|1tr|6or|98|Loyabad;Layabad
+Lakota|CI||0|g9|-fs|90|Iakota
+Lakeside|US|Florida|48|2bp|-6b5|8l
+Lake Stevens|US||3p|3pe|-9f2|8l
+Lākheri|IN||6t|1zb|5vm|88
+Lake in the Hills|US||2f|396|-6td|82
+Lake Magdalene|US||48|25z|-6d3|7x
+Lake Jackson|US||2f|28n|-7d3|7n
+Lake Sebu|PH||71|ha|9mf|62|Sebu
+Lakeside|US|California|3p|2ja|-90s|5q
+Lake Worth Corridor|US||48|21y|-66i|5q
+Lake Ronkonkoma|US||48|35g|-5n5|5m
+Lake Zurich|US||2f|398|-6sp|5k
+Līkak|IR||7o|2dt|3v5|5j|Lakak;Līrkak
+Lake Shore|US|Maryland|48|30n|-5wg|5f|Lakeshore
+Lake Forest|US|Illinois|2f|39e|-6s0|5e
+Laqiyya|IL||6n|2f0|2ou|5e|Lakiyya;Laqiya
+Laksar|IN||6t|2ao|60s|5d
+Lakhnādon|IN||6t|1qs|654|4t
+Lakemba|AU||8l|-2m8|bno|4p
+Lakinsk|RU||9i|4bm|32z|4n
+Sparta|GR||8p|2uz|1qb|4i|Sparto;Lacedemonia;Sparte;Lacedaemon;Lakedaimon;Sparti
+Lake Mary|US||48|27w|-69w|4g
+Lake Country|CA||5b|3ux|-97o|4e
+Lakhipur|IN|Assam|6t|20b|6yv|4c
+Lake Wales|US||48|25i|-6an|4b
+Lake Butler|US|Florida|48|276|-6ai|4a|Lake Butter
+La Quiaca|AR||1o|-1pe|-528|44|La Kiaka
+Lake Saint Louis|US||2f|2zs|-707|41
+Lakhtar|IN||6t|1ri|5jf|41
+Lacombe|CA||2s|41r|-8ry|3z|Lakombė
+Lakeway|US||2f|2cc|-7k6|3y
+Lakhi|PK||6q|25d|5au|3s
+Lake Forest Park|US||3p|3oo|-9fo|3o
+Lakeland North|US||3p|3nh|-9fo|3l
+Lakhipur|IN|Assam|6t|1wv|76d|3l
+Lakshmīnārāyanapuram|IN||6t|wr|650|3i
+Lakeland|US|Tennessee|2f|2pv|-6xa|3i
+Lake Arrowhead|US|California|3p|2n5|-91j|3g
+Lake Los Angeles|US||3p|2o5|-93b|3f|Lago Los-Anĝeleso
+Lake City|US|Florida|48|2bv|-6dk|3e
+Lake Station|US||2f|37i|-6qc|3d
+Lakhmipur Maheshpatti Deal|IN||6t|1zo|6mc|3c
+Lakeside|US|Virginia|48|2wh|-5z8|3a
+Lakkampatti|IN||6t|vt|5z1|39
+Lakeland South|US||3p|3nc|-9fo|38
+Lakeland Village|US||3p|2lg|-91y|37
+La Carlota|AR||1n|-2ku|-4vu|37|La Karlota
+Lakes by the Bay|US||48|1z1|-675|36
+Lakhnā|IN||6t|221|63v|36|Dakhnā
+Lakewood Park|US|Florida|48|24i|-67c|35
+Lakshettipet|IN||6t|1gf|642|35
+Lake Grove|US||48|35h|-5n4|34|Lakegrove
+Lakeland Highlands|US||48|25o|-6bn|33
+Lake Morton-Berrydale|US||3p|3nh|-9f6|2u
+Shasta Lake|US||3p|350|-9fx|2u|Lake Shasta
+Lake Bonavista|CA||2s|3xi|-8st|2t
+Lakhtinskiy|RU||9i|4mo|2br|2s|Lahti
+Lake Monticello|US||48|2xc|-61l|2r
+Lake Mohawk|US|New Jersey|48|35y|-5re|2r
+Lake Arbor|US||48|303|-5xf|2q
+Lake Barcroft|US||48|2zx|-5yc|2o
+Lake Hiawatha|US||48|35k|-5qm|2m
+Lake Hopatcong|US||48|35r|-5ra|2j
+Lake Lucerne|US||48|205|-66w|2i
+Lake Wylie|US||48|2pj|-694|2g
+Lake Villa|US||2f|39u|-6sn|2g
+Lake Park|US|Florida|48|22g|-66f|2d
+Lakhdenpokh’ya|RU||9i|4qw|2bw|2c|Lahdenpohja;Lakhdenpokhja;Lahdenpohju
+Lake Elmo|US||2f|3h0|-760|2c
+Lakes|US||1h|4r5|-bir|2c
+Lake Carmel|US||48|376|-5on|2b
+Lakeview|CA|Saskatchewan|4q|40q|-884|28
+Lake Dallas|US||2f|2k0|-7hj|27
+Lake Purdy|US||2f|2kv|-6os|27
+Lake Geneva|US||2f|3ab|-6tn|26
+Lake Stickney|US||3p|3p0|-9fm|26
+Lakeview|CA|Saskatchewan|4q|3w3|-82m|23
+Lakshmipur|BD|Chittagong|6a|1se|6zt|21|Lakkhipur
+Lake of the Woods|US|Virginia|48|2yh|-600|20
+Lakes of the Four Seasons|US||2f|371|-6q9|1y
+Lake Lorraine|US||2f|2ck|-6oh|1y
+Lake City|US|South Carolina|48|2m3|-65k|1w
+Lakeshore Village|CA||59|3ct|-67r|1u
+Lake Shore|US|Washington|3p|3ix|-9gt|1u
+Lake Hallie|US||2f|3go|-720|1t
+Laktaši|BA||9r|3gr|1c2|1t|Laktašai
+Lakhanpur|IN|Chhattisgarh|6t|1rv|6eo|1r|Lakshmanpur
+Lakemoor|US||2f|39l|-6t0|1o
+Lake Mohegan|US||48|36s|-5p5|1o
+Lake Albert|AU||8l|-2pp|bde|1n
+Lake Mills|US|Wisconsin|2f|3bo|-6uz|1m|Lakemills
+Lake Bluff|US||2f|39g|-6rz|1l
+Lakeview|CA|Alberta|2s|3xo|-8t0|1k
+Lakeview|US|New York|48|39v|-5ur|1k
+Lakeview|US|New York|48|350|-5ol|1k|Lake View
+Lake Fenton|US||2q|3b1|-6gj|1k
+Lake Forest|US|Florida|48|206|-66q|1j
+Lake Murray of Richland|US||48|2ms|-69q|1j
+Lake Alfred|US||48|261|-6b0|1j
+Liên Sơn|VN||6h|yh|8ci|1i|Lắk
+Lakatos-lakótelep|HU||8v|3nt|1h9|1i
+Lakhi Nepali|IN||6t|25b|7ci|1h
+Lakeshore North-Conservation|CA||59|3cu|-67s|1g|Lakeshore North
+Lakhsas|MA||d|29l|-r3|1g
+Lakehills|US||2f|2a8|-7mu|1g
+Lake Munmorah|AU||8l|-2k8|bp2|1f
+Lakema|IN||6t|1z1|78g|1f
+Lake Norman of Catawba|US||48|2qv|-68w|1f
+Lakkha Nëvre|RU||9i|3d5|3hp|1e|Verkhniy Naur;Verkhnij Naur;Verxnii Naur
+Lake City|US|Minnesota|2f|3fh|-74b|1e|Lagurbo
+Lakeburn|CA||43|3k2|-4zo|1e
+Lake Wildwood|US||3p|30z|-9co|1e
+Lake Barrington|US||2f|399|-6sv|1e
+Lakes Entrance|AU||8j|-2x7|bf4|1d
+Lakeland|US|Maryland|48|312|-5wx|1c
+Lakeview|US|Georgia|48|2p6|-6ku|1c
+Lake Worth|US||2f|2j4|-7ip|1c
+Lakeport|US|California|3p|30g|-9hg|1c
+El Akarta|MA||d|2ir|-pa|1c|Lakarta
+Laklār|IR||7o|2v3|3k0|1c
+Lake Holiday|US|Illinois|2f|37l|-6ub|1c
+Lake Montezuma|US||4i|2o7|-8mi|1b
+Lake Sarasota|US||48|23t|-6d0|1b
+Lake Darby|US||48|330|-6f7|1a
+Lakshmipur|BD|Khulna Division|6a|1u0|6vk|19
+Lake Lalla Takerkoust|MA||d|2f4|-ml|19|Lalla Takerkoust;Lalla Takarkoust
+Lake San Marcos|US||3p|2k1|-91l|18
+Lakitelek|HU||8v|3m8|1jk|18
+Lakenheath|GB||9b|41m|1g|18|Lake Heath
+Lake Wisconsin|US||2f|3ch|-6wu|16
+Lake of the Woods|US|Arizona|4i|2mw|-8hj|15
+Lake of the Pines|US||3p|30g|-9ca|13
+Lake Erie Beach|US||48|3ae|-63n|13
+Lakeridge|CA||4q|40p|-882|13
+Lakewood|US|Illinois|2f|39b|-6tg|12
+Lake Tansi|US||2f|2rn|-6k9|12
+Lake Park|US|North Carolina|48|2ph|-680|12
+Lake Heights|AU||8l|-2ns|bn3|12
+Lake Providence|US||2f|2j4|-719|11
+Lakeview Heights|CA||5b|3uj|-981|11
+Lake Clarke Shores|US||48|221|-66g|10
+Lake Panasoffkee|US||48|27y|-6c4|10
+Lake Haven|AU||8l|-2kc|bou|z
+Lake Isabella|US|California|3p|2qy|-953|z
+Lakhanpur|IN|Jammu and Kashmir|6t|2hz|5u0|z
+Lake Pocotopaug|US||48|37k|-5lf|y
+Lake Lakengren|US||48|329|-6j9|y
+Lakerlopen|NL||8m|3yw|fa|y
+Lake Cathie|AU||8l|-2fn|bsl|x
+Lake Belvedere Estates|US||48|225|-66l|x
+Lakeland|US|Georgia|48|2e8|-6es|x
+Laki|BG||9v|389|1wy|x|Lŭki
+Lake Cowichan|CA||5b|3rm|-9kl|w
+Lake Illawarra|AU||8l|-2nz|bn2|v
+Lakihegy|HU||8v|3nm|1gt|v
+Lake Arrowhead|US|Maine|48|3da|-5gh|v
+Lake Orion|US||2q|3au|-6f8|v
+Lake Success|US||48|359|-5os|v
+Lakemore|US||48|35y|-6a8|u
+Lakewood|US|South Carolina|48|2m1|-677|u
+Lake Delton|US||2f|3d4|-6xf|u
+Lake City|US|Pennsylvania|48|38p|-677|u
+Lakewood Urban Centre|CA||4q|40q|-881|u
+Lake Wendouree|AU||8j|-2wb|b3l|t
+Lakelands|AU|Western Australia|8k|-2i7|8xl|t
+Lakewood|US|New York|48|38y|-64d|t
+Lake of the Woods|US|Illinois|2f|33p|-6th|t
+Lakeland|US|New York|48|3bp|-5vs|s
+Lakeside Park|US||48|30g|-6ix|s
+Lakefield|CA||59|3ff|-61f|s
+Lake Arthur|US||2f|2bk|-75f|r
+Lake Wissota|US||2f|3gt|-71m|r
+Lake Junaluska|US||48|2qp|-6eg|r
+Lake City|US|Georgia|48|2ld|-6ia|r
+Lakeview Estates|US||48|2ln|-6hf|r
+Lakehurst|US||48|335|-5qf|r
+Lake Helen|US||48|28i|-69n|r
+Lakeside|US|Montana|2p|3pe|-8ta|r
+Lake Wazeecha|US||2f|3f9|-6xc|r
+Lake Wynonah|US||48|34s|-5vk|q
+Lake Village|US|Arkansas|2f|2kl|-71k|q
+Lake Meade|US||48|333|-5y0|q
+Lake Crystal|US||2f|3ej|-79q|p
+Lake Placid|US|New York|48|3f0|-5pi|p|Leyk-Plesid;Leik Plesidas;Leikplesida
+Lakeland Ridges|CA||43|3jp|-57h|p
+Lake Nacimiento|US||3p|2r9|-9bs|o
+Lake Katrine|US||48|38n|-5pj|o
+Lake Echo|CA||35|3g9|-4w2|o
+Lake City|US|Arkansas|2f|2ri|-6z7|n
+Lakewood|US|Tennessee|2f|2so|-6oo|n
+Lakeview|US|Oregon|3p|397|-9ab|n
+Lakselv|NO||9j|5el|1xd|n|Leavdnja;Lemmijoki;Lakeselv
+Lakin|US||2f|2xe|-7t9|m
+Lake Hawea|NZ||ak|-3fx|d26|m
+Lake Placid|US|Florida|48|23u|-6a1|m
+Lake Hamilton|US|Arkansas|2f|2nm|-76m|l
+Lake View|US|Alabama|2f|2kg|-6q2|l
+Lakeview|US|California|3p|2m0|-91c|l|Lake View
+Lakkí|GR||8p|2v5|22l|l
+Lake Mills|US|Iowa|2f|3cm|-77t|l
+Lake Summerset|US||2f|39x|-6wb|k
+Lake Odessa|US||2q|3au|-6ki|k
+Lake Lotawana|US||2f|304|-79s|k
+Lake Walker|US||48|31d|-5ws|j
+Lake Dunlap|US||2f|2ag|-7kf|j
+Lakeshore|US||2f|2ie|-73n|j
+Lake Kiowa|US||2f|2la|-7hh|j
+Lakemont|US||48|34f|-61r|j
+Lakesite|US||48|2pt|-6kh|j
+Lake Butler|US|Florida|48|2be|-6cq|i
+Lakeland|US|Minnesota|2f|3gw|-75p|i
+Rocky Top|US||48|2sm|-6hr|i|Lake City
+Lake Ripley|US||2f|3bh|-6v7|i
+Lake Ozark|US||2f|2y4|-75c|i
+Lake Como|US||48|33k|-5pn|i
+Lakeside|US|Oregon|3p|3d2|-9ky|h
+Lake Camelot|US||2f|34v|-6xa|h
+Lake City|US|Iowa|2f|39f|-7b5|h
+Lakefield|US||2f|3dc|-7cd|h
+Lake Isabella|US|Michigan|2q|3d8|-6k4|h
+Lake Mohawk|US|Ohio|48|34z|-69k|h
+Lake Gardens|AU||8j|-2wb|b3i|g
+Lake Brownwood|US||2f|2ge|-7na|f
+Lake Waccamaw|US||48|2nc|-622|f
+Lake Cargelligo|AU||8l|-2ki|bal|e|Lake Cargellico
+Lakeshire|US||2f|2z2|-6yy|e
+Lakeside|US|Texas|2f|2j6|-7it|e
+Lakelands|AU|New South Wales|8l|-2jk|bp9|e
+Lake Catherine|US||2f|3a0|-6st|e
+Lake Dalecarlia|US||2f|36t|-6qr|e
+Lakewood Shores|US||2f|36o|-6su|d
+Lake Hamilton|US|Florida|48|25w|-6ar|d
+Lake Heritage|US||48|32l|-5ye|d
+Lake Macdonald|AU||8c|-21a|bst|d
+Lake Panorama|US||2f|37v|-7a7|d
+Lakewood Club|US||2q|3ch|-6nm|d
+Lake Marcel-Stillwater|US||3p|3oh|-9eo|d
+Lakhanpal|IN||6t|2em|5u6|d
+Łąka Prudnicka|PL||a5|3vr|1cp|d
+Lake Telemark|US||48|35s|-5qy|d
+Lake Luzerne|US||48|3cb|-5p3|c
+Lake Michigan Beach|US||2q|39a|-6nx|c
+Sokolce|SK||8s|3ox|1dj|c|Lakszakállas
+Lake Koshkonong|US||2f|3b7|-6v0|c
+Lake Lure|US||48|2qf|-6cc|c
+Lákkoma|GR||8p|347|1s2|c
+Lackenbach|AT||a2|3o7|19r|c|Lakompak;Lakimpuh
+Lake Winnebago|US||2f|2zv|-7a4|b
+Lake Park|US|Iowa|2f|3cq|-7cs|b
+Lakewood|AU||8l|-2fv|bsc|b
+Lake View|US|Iowa|2f|39j|-7c1|b
+Lakeview|US|Michigan|2q|39i|-6kp|b
+Lakšárska Nová Ves|SK||8s|3qy|1br|b
+Lake Secession|US||48|2n8|-6df|b
+Lake Nebagamon|US||2f|3l7|-72q|b
+Lake Saint Croix Beach|US||2f|3gs|-75p|b
+Lakeview|US|Ohio|48|34g|-6h4|a|Lake View
+Lake Shore|US|Minnesota|2f|3l5|-7a4|a
+Lake Latonka|US||48|36p|-66q|a
+Lake Mack-Forest Hills|US||48|28k|-6a6|a
+Lakeview|US|Michigan|2q|3cp|-6kv|a
+Lake Louise|CA||2s|3yv|-8yq|a
+Lakewood Park|US|Tennessee|2f|2r1|-6na|a
+Lake Linden|US||2q|3n3|-6tl|a
+Lakeside City|US||2f|2lz|-7lr|a
+Lakeport|US|Texas|2f|2i1|-7b3|a
+Lake Boga|AU||8j|-2qi|b2z|a
+Lakeview|US|Louisiana|2f|2ic|-78n|9|Lake View
+Lake Quivira|US||2f|30g|-7ba|9
+Lake Ketchum|US||3p|3q4|-9fu|9
+Lakeville|US|Connecticut|48|38k|-5o0|9
+Lake Kathryn|US||48|28m|-6ad|9
+Lake of the Woods|US|California|3p|2oq|-96k|9
+Lakeview|US|Washington|3p|3nl|-97y|9
+Lake Holiday|US|Indiana|38|331|-6pl|9
+Lake Waukomis|US||2f|30z|-7aw|9
+Vysochanske|UA||98|3l5|28o|9|Lak;Lac;Vysochans’ke;Wyssotschanske;Vysochanskoye
+Lake George|US||48|3cn|-5or|9
+Lake Wyangan|AU||8l|-2n3|b9m|9
+Lake Tanglewood|US||2f|2pf|-7ur|9
+Lake Shangrila|US||2f|3a3|-6sn|9
+Lake Lac La Belle|US||2f|3bt|-6ty|9
+Lakeview|US|Washington|3p|3n0|-9ga|8
+Lake City|US|Michigan|2q|3f6|-6kq|8
+Lake Andes|US||2f|3bw|-7lq|8
+Lake Charlotte|CA||35|3gd|-4uv|8
+Lake Shore|US|Utah|2p|33g|-8md|8
+Lake View|US|South Carolina|48|2nf|-63x|8|Lakeview
+Lakeville|US|Indiana|38|37c|-6nn|8
+Lake Loon|CA||35|3g7|-4we|8|Loon Lake
+Lake Park|US|Minnesota|2f|3m9|-7ex|8
+Lake Village|US|Indiana|2f|36a|-6qx|8|Lake Villiage
+Lake Pleasant|US||48|3cr|-5qp|8
+Lakkopetra|GR||8p|2y1|1nm|8
+Lakeville|US|New York|48|3b0|-5zu|8
+Lake Winola|US||48|37b|-5up|7
+Lagbayo|CI||0|ni|-af|7|Labayo;Lakbayo
+Lakpolo|CI||0|qc|-fh|7
+Lake Park|US|Georgia|48|2d8|-6f2|7|Lakepark
+Lakeview|US|Arkansas|2f|2t1|-753|7
+Lake Tapawingo|US||2f|30e|-79z|7
+Lake Tyers Beach|AU||8j|-2x6|bfb|7
+Lake Petersburg|US||2f|332|-6xm|7
+Lakatoro|VU||ap|-18q|cx2|7
+Lakeside|US|Iowa|2f|3ae|-7cd|7
+Lakeside|US|Ohio|48|37e|-6dv|7
+Lake Argyle|AU||8k|-18s|9xm|7
+Lake Bosworth|US||3p|3ph|-9et|7
+Lake Benton|US||2f|3ey|-7fh|7
+Lake Clifton|AU||8k|-2j5|8xd|7
+Lake Hughes|US||3p|2oc|-951|6
+Lakota|US||2f|3pg|-7l6|6
+Lake Tabourie|AU||8l|-2qg|bls|6
+Lak|HU||8v|3qb|1lz|6
+Laketon|US||38|35t|-6mg|6
+Lackendorf|AT||a2|3o7|19u|6|Lakfalva;Lakindrof
+Lake Arthur Estates|US||48|35s|-66n|6
+Lake Preston|US||2f|3f8|-7ii|6
+Lakewood Village|US||2f|2k2|-7hd|6
+Lakes Creek|AU||8c|-1sw|bma|5
+Lake Grace|AU||8k|-2jy|952|5
+Lake Hart|US||48|26v|-69o|5
+Lakhanás|GR||8p|35s|1sh|5|Lahana
+Lake Evesham|US||48|31d|-5wt|5
+Lake City|US|Texas|2f|260|-7jx|5
+Lákka Kalogírou|GR||8p|2xj|1sz|5
+Lakeshore Gardens-Hidden Acres|US||2f|264|-7ju|5
+Lake Roesiger|US||3p|3pa|-9ep|5

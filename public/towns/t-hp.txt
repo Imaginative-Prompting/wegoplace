@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Hpākān|MM||7y|1z5|7fj|gp
+Hpa-An|MM||7y|1ax|7j7|dw|Pa-an
+Hpaung Gyi East|MM||7y|1c5|7f6|3n
+Hpaung Gyi West|MM||7y|1c5|7f5|20
+Hpa Yar Gyi|MM||7y|1aa|7eq|1r|Payagyi
+Hpa Yar Gyi Su|MM||7y|1ai|7eu|1r
+Hpe Kha Me|MM||7y|1bg|7fr|l
+Hpoe Nat Pay|MM||7y|1be|7e7|9
+Hpa Yar Ngoke To North|MM||7y|1ag|7er|7
+Hpaung Saing|MM||7y|20d|7e3|7
+Hpa Yar Ngoke To South|MM||7y|1af|7er|5

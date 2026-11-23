@@ -1,0 +1,289 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Benin City|NG||u|hm|fn|dr0|Benin-Stadt;Benin;Benim;Beninas;Benin by;Benin-stad;Beninurbo;Thành phố Benin;Ìlú Benin;Ciudad de Benín;Kota Benin;Benínborg;Benin Siti;Magaalaa Benin;Magaalada Benin
+Ilorin|NG||u|nm|cm|8c0|Illorin
+Prayagraj|IN||6t|1yo|6bc|8a6|Allahabad;Alahabadas;Ilāhābād
+Lviv|UA||98|3ug|1uq|5j9|Lemberg;Lwów;Leópolis;Lvov;Lavov;Leopoli;Lvovas;Ļvova;Liov;Lwiw;Lwif;Lemburg;İlbav;Ljviv;Leopul;Lembärsch;Liòpuli;Lwůw;Leopolo;Ilyvó;L'vov
+Ile-Ife|NG||u|ks|co|4bk
+Kansas City|US|Missouri|2f|30m|-7aq|3o2|Kansasurbo;Kota Kansas;Kanzas Shehiri;Ìlú Kansas;Dinas Kansas;Lungsod ng Kansas;Kansas Lakanbalen;Kanzas Sitis;Kanzassitija;Kanzas Siti;Caasimada Kansas
+Iloilo|PH||71|tq|9gg|3nl
+Iaşi|RO||8u|3n1|24o|2xa|Jassy;Jasy;Jászvásár;Jasi;Yashi;Yaş;Jaßenmarkt;Iassium;Jasai;Jaš;Yassı;Yassy;Ilasi
+Iligan|PH||71|mv|9l4|2n6
+Ilesa|NG||u|l7|d6|2ia|Ilesha
+Iligan City|PH||71|mx|9lk|2er
+Elche|ES||9d|2ya|-1y|1t8|Elx;Illici;Elig;Elch;Elčė
+Ilhéus|BR||20|-154|-30f|1gj|São Jorgé dos Ilhéos;Iljeusas;Ilhéos
+Ila Orangun|NG||u|ma|dm|1ds
+Ilford|GB||9b|3z8|7|1aq
+Ilagan|PH||71|1bn|9el|19k
+Piraeus|GR||8p|2xe|1tp|19h|Piräus;El Pireo;El Pireu;Le Pirée;Pireus;Pireu;Pireja;Pireo;Pirėjas;Peiraiás;Pireusz;Pire;Peiraiéfs;Pireas;Pirej;Lo Pirèu;Il Pireo;O Pireo;Peiraiá;Peiraieus;Piraiévs;Peiraievs;Peiraeus
+Īlām|IR||7o|2lg|3ky|135|Elām
+Lleida|ES||9d|37m|1q|134|Lérida;Ilerda;Ilerdo;Lhèida
+Elbląg|PL||a5|46f|1hx|zg|Elbing;Elbinga;Elblonga;Elwing;Ilfingburg;Elbingas;El’blëng;Elblong
+Mataró|ES||9d|37e|6s|za|Iluro
+Ilobu|NG||u|ls|ch|wt
+Ilebo|CD||y|-c1|1l7|wk
+Kalmiuskyi|UA|Donetsk|98|3mv|2wa|s7|Illichivskyi rayon;Illichivskyi
+Ust’-Ilimsk|RU||6k|4h4|7x6|rv|Ust-Ilimsk;Ust-Iljimsk
+Yilan|TW||7l|1ws|9e7|q6|Ilan;Ngì-làn-sṳ;Jilanas;Nghi Lan;Gî-lân-chhī;I-lan
+Ílion|GR||8p|2xn|1tu|nk|Nea Liosia
+Ilioúpoli|GR||8p|2xd|1u1|lq
+Le Bardo|TN||1e|2u9|s5|k0|Il Bardo;Bardau;Bārdaw;Bārdū
+Ilidža|BA||9r|3dr|1ev|jt|Ilidja;Ilidže
+Yilan|CN||7i|3ko|9zw|js|I-lan
+Ilkal|IN||6t|18c|5vf|gq
+Chornomors’k|UA||98|3km|2d6|g4|Chornomorsk;Čornomorsk;Tschornomorsk;Illitschiwsk;Illichivsk;Csornomorszk;Illicsivszk;Il’ichëvsk;Illichivs’k
+Ilo|PE||3o|-1cz|-5i6|ev|Ilu;Ilas
+Ilaro|NG||u|j5|8d|d2
+Ilkeston|GB||9b|435|-3n|be
+Hilton Head Island|US||48|2hf|-68a|b9|Île de Hilton-Head;Hilton's Head Island
+Ilopango|SV||2u|122|-6vj|at|Ylopango
+Ilmenau|DE||8r|3ws|uc|as
+Olkusz|PL||a5|3vo|1id|ah|Olkuša;Olkušas;Ilkenau;Ol'kush
+Ilhabela|BR||4w|-1u2|-3i0|9w|Vilabela
+Qorasuv|UZ||7m|355|5mh|96|Il’ichevsk;Qorasuw;Korasuv
+Iława|PL||a5|44w|1id|92|Deutsch Eylau;Ilava;Ylava
+Illéla|NE||18|146|ek|8g|Illéta
+Ilula|TZ||h|-lc|2s4|84
+Ilgın|TR||94|2yc|2gn|7m
+Illkirch-Graffenstaden|FR||9k|3qt|lg|7l|Illkirch-Grafenstaden;Íllkírich-Gràffestàde;Illkirch-Graffenshaharen
+Ilha Solteira|BR||4w|-1kr|-3ym|7g
+Ilaiyankudi|IN||6t|qr|62e|6w|Ilayangudi
+Ilha de Itamaracá|BR||4p|-lj|-2or|6t
+Bainbridge Island|US||3p|3ob|-9gc|6m|Bainbridge;Winslow;Île de Bainbridge
+Ilchester|US||48|30z|-5xb|6j
+Il’skiy|RU||9i|3gk|2z5|6e|Ilskij
+Illapel|CL||4u|-2fv|-5hp|6c|Iljapelis
+Ilave|PE||3o|-18o|-5dj|66|Ylave
+Illescas|ES||9d|33g|-ap|5x
+Ely|GB||9b|41k|q|5q|Elig;Ilis
+Ile-des-Soeurs|CA||59|3ia|-5ob|5p
+Ilembula|TZ||h|-oq|2o2|59
+Illingen|DE|Saarland|8r|3t5|jl|55
+Ilām|NP||6r|22r|6s9|4v
+Illela|NG||u|125|eq|4v
+Ilongero|TZ||h|-cz|2ov|4t|Irongero
+Ílhavo|PT||99|34s|-o3|4s
+Ilhota|BR||4w|-22q|-3rn|4q
+Ilanskiy|RU||6u|4c8|7ev|4n|Ilanskij;Ilanskoe;Ilanskoye
+Īlkhchī|IR||7o|2xe|3jq|4m
+Illertissen|DE||8r|3py|s2|4l|Ilertiseno
+Ilinden|MK||9u|38n|1ny|4k
+Illzach|FR||9k|3op|kf|4b|Illtzach
+Ilovays’k|UA||98|3p4|2y4|4a|Ilovaisk
+Ilkley|GB||9b|45s|-52|44
+Iluppūr|IN||6t|t7|62e|3x|Illuppur
+Ilha Comprida|BR||4w|-1wq|-3o2|3q
+Illizi|DZ||3|21k|nj|3m
+Ilgaz|TR||94|35p|2lf|3m
+Ilıca|TR||94|32z|366|3l|Ilici
+Atakent|KZ||5s|35h|5ab|3l|Il’ich;Ilyich
+Ilinge|ZA||o|-2gu|234|3k
+Ilicínea|BR||4w|-1m6|-3jb|3j
+Ilmajoki|FI||92|4u9|1qp|3h|Ilmola
+Ilsede|DE||8r|416|sc|3e
+Cap-aux-Meules|CA||35|3nm|-4ru|3e|Îles-de-la-Madeleine
+L'Isle-d'Abeau|FR||9k|3iq|ei|3c|Isle-d'Abeau;Ile d'Abeau;L'Isle d'Abeau
+Ilovlya|RU||a4|3sy|3e6|3b|Ilovlja;Ilowlja;İlovlâ;Iłowla
+Ilampillai|IN||6t|w9|60p|3a
+Illintsi|UA||98|3sf|295|35
+Ilfracombe|GB||9b|3y9|-bf|32|Iltracombe
+Illora|ES||9d|2vl|-as|2w
+Ilanji|IN||6t|ow|5yo|2v
+Ilam|NZ||ak|-3cw|dbd|2t
+Ilek|RU||7z|3z5|44a|2r
+Ilitha|ZA||o|-2jd|24h|2q
+Ilabaya|PE||3o|-1ce|-5fv|2n
+Ilha Grande|BR||2w|-7x|-386|2l
+Irshava|UA||98|3q7|1s0|2k|Ilosva;Iršava;Irschawa;Irchava;Irsjava;Irszawa
+Jiquilisco|SV||2u|110|-6u2|2j|Ilquilisco
+‘Ilūṭ|IL||6n|2iw|2py|2j|Illūt;Ailut
+Ilnytsia|UA||98|3qc|1s4|2j|Ilonca;Il’nitsa;Il’nytsia;Il’nytsya
+Yavornytske|UA||98|3qg|2q0|2g|Ilarionové;Javornicke;Jawornyćke;Javornyzke;Ilarionowe
+Ilha das Flores|BR||3r|-t0|-2ti|2b
+Il’inskiy|RU||9i|4ai|2xw|2b|Il’inskoye
+Ilsfeld|DE||8r|3sa|pp|2a
+Ilion|US||48|3bi|-5sg|27
+Il|KE||16|-5u|2u7|26
+Ilare|NG||u|kf|e7|25|Ilara
+Ilvesheim|DE||8r|3tf|nt|25|Ilwese
+Sharur City|AZ||61|31v|3gy|23|Norashen;Sharur;Şarur;Charur;Bash-Norashen;Ilyichevsk;Il’ichëvsk
+Illushi|NG||u|ij|if|21
+Ilyinogorsk|RU||9i|4c7|3bb|21|Il'inogorsk;Ilinogorsk
+Illawong|AU||8l|-2mg|bnj|20
+Illingen|DE|Baden-Wurttemberg|8r|3s0|os|20
+Ilog|PH||71|rv|9h1|1v
+‘Illār|PS||6g|2hx|2pj|1v
+Il’inka|RU|Astrakhan Oblast|8o|3kg|3p2|1s|Ilinka
+Ilsenburg|DE||8r|403|to|1r
+Ilshofen|DE||8r|3sl|rk|1p
+Ilijaš|BA||9r|3e3|1er|1n|Iliaš
+Ilminster|GB||9b|3xh|-83|1m
+Île-de-Lamèque|CA||43|3ox|-4zg|1k
+Ille-sur-Têt|FR||9k|3aj|7a|1j|Illa;Ille-sur-la-Tet;Ille
+Ilava|SK||8s|3s4|1eo|1i|Illava
+Orda|RU||7z|4ev|4e2|1h|Il’inskiy Ostrozhek
+Iluka|AU|Western Australia|8k|-2g6|8xh|1g
+Iłża|PL||a5|3y4|1n0|1f
+Illa de Arousa|ES||9d|3a8|-on|1e
+İliç|TR||94|31m|2z4|1e
+Ilola|FI||92|4nl|1xh|1d|Gladas
+Illasit|KE||16|-88|2wd|1a
+Ilirska Bistrica|SI||9a|3il|13l|1a|Villa del Nevoso;Ilirska Bistritsa
+Ilaskhan-Yurt|RU||9i|3c8|3k2|19|Beloreçenskoe;Elisxan-Yurt;Ilisxan-Yurt;Beloreč’e;Eliskhan-Yurt;Belorech’ye;Ilasxan-Yurt;Ilaskhan-Jurt
+Unalaska|US||1h|45n|-cul|19|Iluulux̂;Iliuliuk;Oonalaska;Iluulax
+Ilulissat|GL||4e|5ca|-3xy|18|Jakobshavn;Ilulisats;Ilulisatas;Ilulisat
+Yffiniac|FR||9k|3qo|-7g|18|Ilfinieg
+Ilomantsi|FI||92|4u3|2dx|17|Ilomants
+Il’inskoye|RU|Moscow Oblast|9i|49h|2xg|17
+Hilario Ascasubi|AR||1l|-31e|-4u1|16|Ilario Ascasubi
+Il’inka|RU|Buryatiya Republic|6k|40s|89z|16|Ilinka
+Ilópolis|BR||4w|-28d|-40s|16
+Il’inskiy Pogost|RU||9i|4a4|303|14|Ilinskij Pogost
+Ilogbo|NG||u|io|8s|14
+Ilia|RO||8u|3jl|1qx|14
+Iłowa|PL||a5|3z2|168|13|Stadt Halbau;Halbau;Jiłwa;Ilova
+Ilok|HR||a6|3hm|1hu|12|Újlak
+Ileana|RO||8u|3fo|223|12
+Ilići|BA||9r|3cf|1dd|11
+I. L. Caragiale|RO||8u|3gr|1ze|10|I.L. Caragiale
+Il’inskoye-Khovanskoye|RU||9i|4e9|32h|10|Ilinskoje-Khovanskoje
+Ilihan|PH|Calabarzon|71|11v|9cb|z|Ilijan
+Ilangay|PH||71|j7|9q5|z
+Isle of Islay|GB||9b|4az|-hc|z|Islay;Ìle;Queen of the Hebrides
+Ilva Mică|RO||8u|3ng|1wj|y
+Ely|US|Minnesota|2f|3p2|-737|y|İli
+Illueca|ES||9d|37e|-4j|y
+Iffendic|FR||9k|3pp|-5o|y|Ilfentig
+Illerrieden|DE||8r|3q3|rx|x
+Ilovka|RU||9i|3wv|2zc|x
+Ilihan|PH|Central Visayas|71|ub|9kd|w
+Ilaya|PH|Soccsksargen|71|g6|9nv|w|Ylaya
+Ilfeld|DE||8r|3za|ty|v
+Ilaya|PH|Zamboanga Peninsula|71|nr|9iv|v|Ylaya;Llaya
+Ili‘ili|AS||b9|-13v|-d6b|v|Iliili
+Illasi|IT||9o|3ib|v2|u
+Il’insko-Podomskoye|RU||9i|4ps|3pa|u|Ilinsko-Podomskoje
+Iloni|YT||ah|-zp|3hj|u
+Illnau|CH||a7|3np|o8|u
+Ilpoinen|FI||92|4nu|1pw|t|Ilpois
+Thursday Island|AU||8c|-te|az2|s|Île Thursday;Thursday;Wyspa Thursday;Ilha Thursday;Torsdagsön
+Iłowo -Osada|PL||a5|43p|1kd|s|Iłowo-Osada
+L'Île-Rousse|FR||9k|3af|ou|s|L'Isula Rossa;Lìsula;Isola Rossa;Île Rousse
+Ilembo|TZ||h|-pp|2kq|q
+Ilva Mare|RO||8u|3nl|1x6|q
+Elbeyli|TR|Bursa Province|94|34h|2ak|q|İlbeyli
+Ileanda|RO||8u|3nh|1tn|p
+Ilandža|RS||8q|3hh|1m4|o
+Illmitz|AT||a2|3oo|1ao|o|Illmic;Ümitz
+Ilanz|CH||a7|3lx|pk|n|Glion;Iliande
+Ilderton|CA||59|3bo|-6a2|n
+Il’ichevo|RU|Krasnoyarsk Krai|6u|440|734|m|Ilitsjevo
+Ilmmünster|DE||8r|3qo|vy|m
+Illange|FR||9k|3t1|h6|m
+Ilchester|GB||9b|3xp|-7g|m|Lindinis
+Ilișești|RO||8u|3o9|20d|l
+Ilioilio|PH||71|18c|98p|l|Ollio-ilio
+Il’ka|RU||6k|3zo|8dg|l|Ilka
+Illschwang|DE||8r|3td|wg|l
+Ilbono|IT||9o|32t|qj|l
+Illfurth|FR||9k|3of|k7|k
+Ilovica|MK||9u|377|1rc|k
+Ilūkste|LV||9n|4bi|212|k|Alūksta;Iłukszta
+İlyaslı|TR||94|2z8|294|k
+Floriana|MT||9e|2rq|14b|k|Furjana;Il-Furjana
+Illmensee|DE||8r|3oy|q1|k
+Illnau / Unter-Illnau|CH||a7|3np|o9|k
+Il’ich|RU||9i|3i6|2u5|k|Ilitsj
+Iluka|AU|New South Wales|8l|-29o|btz|k
+Iles|CO||27|2p|-5zc|j
+Ilychyovo|UA||9t|3hs|2ra|j
+Pokrovske|UA|Donetsk|98|3mp|2w3|i|Illichivs’ke;Il’ichovskoye;Illichivske;Il’ichevskoye
+Ilpendam|NL||8m|41q|dr|i
+Ilieni|RO||8u|3j8|1zl|i
+Ilama|HN||56|15v|-6t2|i
+Iĺja|BY||9g|476|23u|i|Ilya;Ilia;Iliya;Il’ya
+L'Île-Bouchard|FR||9k|3mw|16|i|Île-Bouchard;L'Isle-Bouchard
+Illescas|MX||41|1sk|-7vq|h
+Iliatenco|MX||41|1bd|-7m5|h
+Il’inskoye|RU|Tver Oblast|9i|4e9|2va|g|Ilinskoje
+Ile des Chênes|CA||5d|3u3|-7hf|f|Iles des Chenes
+Ilıdağ|TR||94|2xe|25w|f
+Ilba|RO||8u|3oj|1sw|f
+Lumbier|ES||9d|3ah|-3n|e|Ilunberri
+Ileza|RU||9i|4pl|3dy|e
+Isola del Giglio|IT||9o|39o|ub|e|Isla del Giglio;Giglio;Isula di u Gigliu;Giglio saar;Illa del Giglio;Igilium;Džilijas;Ìsula dû Gigghiu;Giglio Island
+Iliokentima|GR||8p|35r|1wv|e|Heliokentima
+Il’ichëvo|RU|Leningradskaya Oblast'|9i|4nf|2an|e|Ilitsjevo;Jalkala;Yalkala
+Iloviţa|RO||8u|3gc|1qf|e|Ilovica
+Illinka|UA|Odesa|98|3lo|2d4|e|Il’inka
+Ilichanka|UA||98|3lh|2dl|d|Illichivka;Il’ichovka;Il’ichevka
+Illies|FR||9k|3wg|7v|d
+Ilbesheim|DE||8r|3sm|md|c|Jlbesheim
+Illats|FR||9k|3fw|-11|c
+Ilberstedt|DE||8r|3zw|wf|c
+Il Romito|IT||9o|3d9|tl|c
+Ilz|AT||a2|3mt|189|c
+Ilir|RU||6k|49e|7ro|c
+Illinka|UA|Crimea|9t|3ja|2lv|b
+Laguneta|MX||41|1ey|-7cb|b|Iluapam
+Illinivka|UA||98|3qp|2wm|b|Illicha;Il'icha;Illiniwka
+Ülenurme|EE||9x|4i0|229|a|Ilenurme
+Illas|ES||9d|3cu|-gl|a
+Ilıcaköy|TR|Adana|94|2w4|2rq|a
+Ilova|RO||8u|3hs|1q2|a
+Illnau / Ober-Illnau|CH||a7|3np|o8|a
+Ilyichevo|UA||9t|3hp|2pf|9|Ilyichovo
+Ilwaco|US||3p|3kn|-9kk|9
+I Liyang|MP||bf|167|b8s|9
+Illorai|IT||9o|343|p0|9
+Illiopolis|US||2f|32p|-6vw|9
+Ilseng|NO||9j|4ou|v7|9
+İlyas|TR||94|34o|2rk|8
+Ilıpınar|TR||94|2zh|22s|8
+Illesheim|DE||8r|3tg|su|8
+Ileni|RO||8u|3j7|1xg|8
+Illinka|UA|Crimea|9t|3i1|2lu|8|Kökej
+Ilkley|AU||8c|-229|bt0|8
+Ilovăț|RO||8u|3gh|1r8|8
+Ilișua|RO|Sălaj County|8u|3ne|1rg|8
+Ilita|MX||41|1j5|-7ir|8
+Illerich|DE||8r|3vg|jy|8
+Illana|ES||9d|33m|-83|8
+Ildır|TR||94|2ym|21k|8
+Illgau|CH||a7|3mj|o9|8
+Il’inka|RU|Altai|63|3yw|6kf|8|Ilinka
+Ilișua|RO|Bistrița-Năsăud County|8u|3n6|1ux|7
+Aygabats|AM||80|352|3dz|7|Ilkhiabi
+Ilton|GB||9b|3xj|-84|7
+Ilıcaköy|TR|Antalya|94|2v9|2d5|7
+Ilıcaköy|TR|Antalya|94|2t5|2hx|7|Ilıca
+Ilamatlán|MX||41|1lq|-7lg|7|Ilmatlán
+Ilmington|GB||9b|40p|-4p|7
+Ilova|HR||a6|3ia|1as|7
+Il Rosi|IT||9o|3du|uy|7
+Illeville-sur-Montfort|FR||9k|3t1|21|7
+Iłów|PL||a5|41e|1jn|7
+Ilača|HR||a6|3hi|1h2|7
+Illhaeusern|FR||9k|3pu|kn|7|Illhäusern
+İlemin|TR||94|2u1|2nb|7
+Illifaut|FR||9k|3pr|-6j|7|Ilifav
+Île-Tudy|FR||9k|3ox|-bl|7|Enez-Tudi;Tudi Insula
+Llacanora|PE||3o|-jz|-61v|6|Ilacanora;Liacanora
+Illiriia|UA||98|3qg|30b|6|Illiriya;Illiria
+Iliești|RO||8u|3g0|1t0|6
+Ilamacingo|MX||41|1e1|-7kw|6
+Île-aux-Moines|FR||9k|3o8|-7w|6|Crialeis insula;Enizenach;Illa dos Monxes
+Ilparpa|AU||8e|-1tz|abq|6
+Il Fabbro|IT||9o|3e6|ux|6
+Illano|ES||9d|3cd|-j3|6|Eilao
+Rottnest Island|AU||8k|-2gw|8wy|6|Rottnest;Île Rottnest;Rottnest-eiland
+İlyasköy|TR||94|2wz|2bo|6
+Il Rigo|IT||9o|3bq|y6|6
+Iliókastron|GR||8p|2w0|1sn|6|Iliokastro
+Ilaniyya|IL||6n|2iz|2qd|5|Ilania;Ilānyā;Ilaniyah
+Ildefonso Turrubiartes (La Boquilla)|MX||41|1ox|-7pf|5
+Iliókali|GR||8p|322|1m9|5
+Ilfoveni|RO||8u|3gj|1z0|5
+Ilmatsalu|EE||9x|4i7|21r|5
+Elbeyli|TR|Mersin|94|2tp|2kw|5|İlbeyli
+Illiat|FR||9k|3kb|dk|5

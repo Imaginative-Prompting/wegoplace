@@ -1,0 +1,251 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Gaziantep|TR||94|2uy|2vu|h5c|Aintab;Dîlok;Qaziantep;Qazianteb
+Kayseri|TR||94|2zl|2ql|b7h|Cesarea in Cappadocia;Kajseri;Cesarea;Cesarea de Capadocia;Kaiseris;Caesarea in Cappadocia;Qayseri;Kaiseri;Caesarea;Casarea;Césarée;Kaisaria;Kaisarie
+Kazan|RU||9i|4az|3sg|9lf|Qazan;Kaasan;Qozon;Casanum;Cazã;Kasã;Kasan
+Kandahār|AF||6o|2ft|52j|41d|Kandehar;Qandahor;Qanḏahāṟ;Candahar;Kandhar;Kandagar
+Kashgar|CN||7t|31n|5v3|3wq|Kachgar;Kasgar;Kaszgar;Kaschgar;Kaxgar;Qeshqer;Qaşqar;Kaixgar;Kasjgar;Kašgaras;Kašgara;Kash;Qashqar;Qeshqer Shehiri;Kashi
+Karagandy|KZ||5s|3uc|5n2|3ua|Karaganda;Qarağandı;Qaraghandy;Qaraganda;Karagandi
+Al Qadarif|SD||r|12z|2qa|2t3|Al-Qadarif;Gedaref;Gadarif;Gadaref;El-Gadarif;Al-Kadarif;Al Kadarif;El Gedaref
+Qazvin|IR||7o|2sr|3uw|2ko|Kazwin;Kazvín;Kazvinas;Qazwên
+Al Qāhirah al Jadīdah|EG||c|2bg|2fc|2ez
+Kashan|IR|Isfahan|7o|2me|3yv|2cl|Qashan;Kâšân
+Qarshi|UZ||7g|2zy|52r|25b|Karchi;Qarši;Karšis;Karși;Karszy;Karsji;Karŝio;Karshi
+Qina|EG||c|20o|2ix|1y9|Qena;Qanā
+Qarchak|IR||7o|2qf|3za|1xy
+Gaborone|BW||m|-1wh|1zz|1wf|Gaberono;Gaboronas;Qaborone;Gaboròn;Gaberones
+Qā’em Shahr|IR||7o|2tb|42v|1ky
+Cajamarca|PE||3o|-jw|-622|1jx|Kaŝamarko;Caxamarca;Kachamarka;Qashamarka;Kashamarka;Qajamarka;Kajamarka
+Qadirpur Ran|PK||6q|2c5|5j3|1jk
+Al Qāmishlī|SY||69|2ux|36j|1f6|Al-Qamishli;Qamischli;Kamishli;Kamishlié;Qamişlo;Kamischli;Qamışlı;Kámišlí;Qamichli;Qamichlîyé;Qāmeshli;Kamichlieh;Kamechlie;Al-Kamishly
+Qalyub|EG||c|2bu|2ep|17g|Kalyûb;Qaliub
+Ghardaïa|DZ||3|2i9|a7|13p|Ghardaja;Gardaja;Gardaya;Gardaia;Qardaya;Rhardaïa
+Ghazni|AF||6o|2l7|5a2|136|Gazni;Gazna;Qazni
+Qeładizê|IQ||5z|2si|3hd|133|Qala Dīzeh;Qalā Diza;Qaladiz;Qaladiza;Qalādizī
+Kairouan|TN||1e|2r4|s2|12n|Qairawān;Kajruano;Qayrawan;Kairuan;Cairuão;Kayravan;Al-Qayrawān;Kairuanas;Keruan;Qayruvon;Qayravan;Qairwan;Kairwan;Qairouan;Al Qayrawān;Al-Kayrawān
+Karabük|TR|Karabük Province|94|36g|2in|yu|Qerebuk;Karabiukas;Qarabuk
+Gabès|TN||1e|2m4|s2|ul|Kabis;Qabes;Abes;Qābis;Gābis
+Qal‘at Sukkar|IQ||5z|2gi|3jz|uk|Qal‘at Sikar;Qalat Sukkar
+Umm Qaşr|IQ||5z|2bg|3p4|tw
+Qaşr Bin Ghashīr|LY||1d|2is|10m|rt
+Kars|TR||94|34s|3bp|qx|Qers;Qars;Cars
+Gafsa|TN||1e|2nm|oe|qg|Kafsa;Qafsa;Gafso;Qafşah
+Qaraçuxur|AZ||61|348|3ut|o9|Garadžuchur;Serebrovski;Serebrovskiy;Serebovski
+Qamdo|CN||7i|2eh|7hy|nz|Chamdo;Csamdo;Čamdo;Chamudo;Chhamdo
+Kasserine|TN||1e|2pp|ok|ng|Kaserinas;Kassarin;Al-Kasrajn;Qasserine;Kasserin;Al Qaşrayn
+Karakol|KG||65|3a1|61r|ng|Karakul;Qoraqoʻl;Qarakol
+Kambar|PK||6q|24n|58w|lj|Qambar
+Gary|US|Indiana|2f|37j|-6qn|lg|Qari
+Kanaker-Zeytun|AM||80|33q|3fq|kz|K'anak'err-Zeyt'un varch'akan shrjan;Qanaqer-Zeytun varchakan shrjan
+Qarasu|CN||7t|3es|67e|ju|Qorghas
+Qaraqash|CN||7t|2vj|65h|ih|K̩arak̩ax;Qarakash;Qara Qash;Kara kash
+Kelaa Kebira|TN||1e|2rn|ta|hl|Qalaa Kebira;Kalaa Kebira;Kalaa K’bira
+Tetovo|MK||9u|38p|1m9|hk|Tetowo;Tetovas;Tetova;Kalkandelen;Qalqan Delen
+Qabula|PK||6q|2bu|5mz|el|Qabala
+Kabbasin|SY||69|2t7|2wd|e8|Qabbāsīn
+Qaşr al Qarabūllī|LY||1d|2iz|123|ds|Qaşr al Qarahbullī
+Qayroqqum|TJ||6d|33v|5dw|do|Qayraqqum
+Qillīn|EG||c|2e9|2dp|de|Qallīn
+Qabqa|CN||7i|2ss|7rh|d1
+Kebri Dahar|ET||2|iq|3f0|cr|Qabridahare;K’abradaharē;Kebri Dekhar;K’ebrī Dehar
+Caranavi|BO||3n|-17z|-57p|cp|Karanavis;Qarañawi
+Qalqīlyah|PS||6g|2hf|2p5|c0|Qalqīlye;Qalqīliya;Qalkilya
+Qā’en|IR||7o|2lp|4ke|br|Qāyen;Qaīn
+Qal‘at Şāliḩ|IQ||5z|2fl|3nd|b1|Kala Salih;Qalat Saleh;Qala Salih
+Karatau|KZ||5s|3by|5fq|aj|Qarataū
+Qaşr-e Qand|IR||7o|20x|4or|ah|Qasr-e-Qand;Qaşr Qand
+Kalbā|AE||6c|1xl|4cj|af|Qalba
+Qahā|EG||c|2c4|2ep|a2
+Gharyan|LY||1d|2hd|106|a1|Garyan;Garián;Qaryan;Gaariyaan;Garião
+Yanqi|CN||7t|38u|6oh|8u|Qarasheher;Qara Shahr
+Al Qaryatayn|SY||69|2n3|2vg|8t|Quayatein;Qaryatayn;Kuryatein
+Kasba|IN||6t|1zu|6r6|8g|Qasba
+Jāsim|SY||69|2jn|2s6|8f|Jasem;Qāsim;Jassim
+Qarek|CN||7t|2yl|5xv|8b|Charek;Qarak
+Karahrūd|IR||7o|2mm|3tw|89|Qara Rūd;Kararūt;Karehrūd
+Qahderījān|IR||7o|2ii|3yx|86|Qadrijān
+Gagarin|RU||9i|4ab|2p8|81|Qaqarin
+Kandyagash|KZ||5w|3tf|4fi|7u|Oktyabr’sk;Kandagash;Kandagach;Qandyaghash;Oktyabr’
+Qā’emīyeh|IR||7o|2ax|3zb|7h
+Qarah Ẕīā’ od Dīn|IR||7o|301|3h3|7g|Qara Zīa ud Dīn;Qareh Ẕīā’ od Dīn
+Garmisch-Partenkirchen|DE||8r|3nx|uu|78|Garmasch-Partakurch;Garmiša-Partenkirhene;Garmišas-Partenkirchenas;Qarmiş-Partenkirhen;Werdenfelser Land
+Qacha’s Nek|LS||12|-2bo|27p|74|Qacha’s Neck
+Qarāwul|AF||6o|2ve|5b2|6t
+Al Qaşşāşīn|EG||c|2cw|2gp|6s|Kassassin;El-Qaṣṣâṣîn;Qaṣṣâṣîn;Al-Qaṣṣāṣīn;Al-Qaṣāṣīn
+Qadian|IN||6t|2ge|5te|6k|Kādiān
+Kax|CN||7t|3d8|6bf|6j|Qash
+Kalbatau|KZ||5s|3t1|6al|64|Georgīevka;Qalbataū;Georgiyevka
+Gazojak|TM||5x|36f|4qk|5u|Gazajak;Qazocaq;Gaz-Achak
+Gazakh|AZ||61|365|3i1|5s|Qazax;Kazachas;Kazah;Qazox;Kazakh;Qazakh
+Qaisumah|SA||7e|26n|3k5|5r|Al Qaysumah;al-Qaysūma;Al-Kajsuma;Kaysume
+Qārah|SY||69|2mw|2u2|5r|Qārā
+Qaryat Sulūq|LY||1d|2fz|1k9|5j|Qaryat Salūq;Qaryat Salūg
+Qandala|SO||14|vv|3uj|5d|Candala;Ġandala;Kandala
+Qabāţīyah|PS||6g|2i1|2q0|5b|Qabātiya
+Kelaat Mgouna|MA||d|2et|-h1|55|Qala’at Mgouna
+Qaţanā|SY||69|2kw|2s8|55|Katana
+Qaşr-e Shīrīn|IR||7o|2nw|3im|55|Qasr-ī-Shīrīn
+Kādīpur|IN|Delhi|6t|27x|5yc|54|Qadi Pur
+Qarqūzah|LY||1d|2iz|zo|4u
+Qalansuwa|IL||6n|2ho|2p6|4p|Qalansawe;Kalansuva
+Qaşr Khiyār|LY||1d|2iu|12h|4n|Qaşr Khivāk
+Bilohirsk|UA||9t|3h6|2o4|4k|Qarasuvbazar;Biełogorsk;Bilohirs'k;Karasubazar;Bilogirsk;Qarasuv Bazar;Karassu Basar;Belogorsk;Karassubazar;Karasubozar
+Anadyr|RU||5u|4zt|dp3|4c|Anàdir;Anadirj;Anadõr;Anadira;Qagiirgiin;Anado
+Qarqīn|AF||6o|2vy|53g|46|Karkin;Qarkin
+Qāderābād|IR||7o|2c4|43z|46|Qādirābād
+Kazygurt|KZ||5s|380|5cq|43|Qazyqurt;Qazyghurt;Kazyghurt;Kazykurt
+Karaki|CN||7t|2uq|69n|3z|K̩ark̩i;Qarqi
+Qarazhal|KZ||5s|3pd|5go|3u|Kara-Dzhal;Karazhal
+Qarah Bāgh|AF||6o|2p2|4rm|3g|Kara Bağ;Qara Bağ;Karabāgh;Kharabagh;Qarabāgh;Qaṟa Bāqh;Qareh Bāgh
+Gardabani|GE||7n|376|3h9|3g|Qardabani
+Qalāt|AF||6o|2h7|55v|3e|Kalat
+Qabbāsīn|SY||69|2sv|2y0|3c|Qabbâssîne;Qabāsīn
+Qax|AZ||61|372|3mc|3c|Kah
+Qabala|AZ||61|35u|3ox|3b|Gabala;Kabala;Qutqaşen;Qutqashen
+Gagra|GE||7n|3c8|33v|3a|Qaqra;Gagry;Gagri
+Qanavāt|IR||7o|2o5|3xr|39
+Caraz|PE||3o|-p5|-605|31|Carás;Karasas;Qaras;Cavás
+Qashar|KZ||7c|449|4un|2v|Kachar
+Garadag|SO||14|qd|3m7|2s|Qaradag;Garadac;Garadak
+Qâna|LB||64|2k9|2q2|2s|Cana;Kana;Kanao
+Ruoqiang|CN||7t|30e|6sx|2r|Qak̩ilik̩;Chaqiliq;Qarkilik;Chakliq;Charkliq
+Qāzigund|IN||6t|2lg|5sq|2r
+Qarabalyq|KZ||7c|45b|4se|2q|Komsomolets;Karabalyk
+Qahjāvarestān|IR||7o|2iu|400|2p|Qahjāvarestāq;Qahjāwaristān;Qahjāverestān
+Gampaha|LK||68|jp|667|2m|Qampaha;Gampacha
+Kalanchak|UA|Kherson|98|3kh|2kh|2l|Kalantchak;Kalantschak;Kalantšak;Kalantjak;Kalančaka;Kalančak;Qalançaq;Kałanczak;Kalanceak;Kalantxak
+Goranboy|AZ||61|34t|3lz|2k|Qasım Ismayılov;Geran’boy;Qasym Ismayylov
+Qorovulbozor|UZ||7g|31q|4zz|2k|Karaulbazaras;Karaulbazar;Qarovulbazar;Karaulpazar;Qorowulbozor
+Qala i Naw|AF||6o|2p7|4vd|2i|Kala-i Naw;Qal'ai Now;Qala-i Naw;Kalayi-Nau;Qal’eh Now;Qula-i-nau;Kalai-Naw;Qala-e-Nau;Kala Nao;Qalaenaw;Qal‘a-i-Naw;Qala Naw;Qala Nau;Qala-i-Nau;Qala-i-Naw
+Qarchī Gak|AF||6o|2uw|55j|2h
+Terengköl|KZ||5s|43f|5ve|2h|Qashyr;Terenkol’
+Karaton|KZ||5y|3l0|44l|2h|Qaraton;Karatan
+Qamīnis|LY||1d|2fy|1jm|2f
+Qaffīn|PS||6g|2i3|2pg|2d|Quffīn
+Qanawāt|SY||69|2iz|2tp|2b
+Qarqaraly|KZ||5s|3t9|5tn|2a
+Qaryat ‘Umar al Mukhtār|LY||1d|2in|1o8|28
+Garabogaz|TM||5x|37e|421|27|Karabogaz;Qaraboğaz
+Qandūlah|LY||1d|2ie|1ny|26
+Qal‘ah-ye Shahr|AF||6o|2qr|525|26
+Qaryat Manārat Shabak|IQ||5z|2sw|3cd|25
+Qarne Shomeron|PS||6n|2hd|2pg|25|Ginnot Shomeron;Karnei Shomron
+Kazalinsk|KZ||7d|3j4|4si|25|Qazaly;Kasalinsk
+Qalaqayın|AZ||61|332|3qo|24|Qalağayın
+Gali|GE||7n|3af|37y|23|Qali
+Qaţanah|PS||6g|2gf|2pk|21|Qatana;Qaţannah
+Katzrin|IL||6n|2jn|2r5|1z|Qazrin;Katsrin;Qatzrin;Qatsrin;Kacrin;Kațrin
+Qabalān|PS||6g|2h6|2q1|1y
+Kasakh|AM||80|33s|3fh|1w|K’asakh;Qasax
+Kajaran|AM||80|30r|3k8|1t|Kadzharan;Qacaran;K’ajaran;Qchananc;Qajaranc;Kaĝarano;Kadzjaran;Kadscharan;Khadžaran;Kadźaran;Kadjaran;Kadžaranas;Kacaran
+Qabilanbek|KZ||5s|379|5cg|1s|Qaplanbek
+Garayeri|AZ||61|35b|3kn|1r|Qarayeri;Cırdaxan;Karayeri
+Qaşr Lībiyā|LY||1d|2in|1ni|1o|Qasr Libya;Qasr Lebia
+Qaryat al Bayyāḑah|LY||1d|2ih|1n1|1j
+Qarah Chopoq|IR||7o|2vo|3ju|1j|Qareh Chopoq
+Kalkaman|KZ||5s|40b|5v7|1i|Kol’-Koman;Kalkamak;Qalqaman
+Qal‘eh Now Khāleseh|IR||7o|2qn|3z4|1i|Qal‘eh Now-e Khāleşeh
+Karaaul|KZ||5s|3rz|646|1h|Qaraūyl;Qaraaūyl;Karaul
+Qaşr al Farāfirah|EG||c|236|25p|1e
+Qasr Abu Hadi|LY||1d|2ea|1aa|1d|Abu Hadi;Qasr Abou Hadi;Kasr Abu Hadi
+Karakert|AM||80|33s|3dq|1a|K’arakert;Qarakert
+Qafqafā|JO||5t|2hv|2ru|18
+Kacha|UA||9t|3ge|2l6|17|Katcha;Qaçı;Kaĉo;Kascsa;Katsja;Kacza
+Kanakeravan|AM||80|33t|3fq|16|K’anak’erravan;Qanaqeravan;Kenakeravan
+Qaraçala|AZ||61|32m|3ry|16|Karachala
+Kāz̧emābād|IR|Kerman|7o|2cx|4dx|15|Kāzimābād;Qāsemābād
+Qalāt|IR|Fars|7o|26t|43n|14|Qelāt
+Qalāt|IR|Fars|7o|2au|41c|14|Kalāt
+Qamşar|IR||7o|2lr|3yv|13|Kamsār
+Cantemir|MD||8x|3kk|26c|12|Qantemir;Kantemir
+Qaryat al Qī‘ān|LY||1d|2h2|w2|12
+Qarāwat Banī Ḩasan|PS||6g|2h9|2pi|12
+Azovske|UA|Crimea|9t|3in|2o1|11|Qalay
+Gandzakar|AM||80|35g|3hg|10|Verin Aghdan;Aghdan;Qandzakar;Gandzaqar;Verin Aghtan;Verin Aghdam
+Qalansīyah|YE||5r|z9|44l|z|Qalansiyyah;Qalansiya;Qalansyah;Qulansiyah
+Qāẕī Jahān|IR||7o|2wy|3jm|y
+Qaqortoq|GL||4e|4oo|-3jw|w|Julianehåb;Kakortokas;Kakortoks;Julianehaab;Kakortok;Julian Haab;Kakortak
+Karasu|KZ||7c|42a|51w|w|Qarasū
+Qaraxanlı|AZ||61|360|3iu|w
+Qarah Bābā|IR||7o|2ww|3m6|v
+Qal‘eh Sheykh|IR||7o|2qm|3yp|v|Qal‘eh-ye Sheykh
+Kaghtsrashen|AM||80|332|3fz|v|K’aghts’rashen;Qaxcrashen;Kakhtsrashen
+Kazakhstan|KZ||5s|3cw|602|v|Qazaqstan
+Qaxbaş|AZ||61|373|3mg|u
+Qāsemābād-e Soflá|IR||7o|2us|3w9|t
+Qāẕīān Bālā Maḩalleh|IR||7o|2v1|3u0|s|Qāzīān;Ghāzīān;Kazian;Ghāzeyān;Qāzīyān
+Krasna Zor'ka|UA||9t|3hd|2mk|s|Krasnaya Zor’ka;Krasna Zorka;Qaraça Qañğıl
+Qazānchī|IR||7o|2no|3mm|s|Khazānchī;Farānchī
+Qax İngiloy|AZ||61|372|3me|r|Qaxingiloy
+Qarah Qāshlī|IR||7o|2ui|46h|r|Qareh Qāshlī
+Qala|AZ||61|34c|3vd|r|Kala
+Kaghsi|AM||80|34f|3ga|r|K’aghsi;Qaxsi;Kakhsi
+Qarāwat Banī Zayd|PS||6g|2h1|2pl|r|Qarawat Bani Zeid
+Qahurt|CN||7t|3kp|6wv|q
+Qal‘eh-ye Ḩoseynīyeh|IR||7o|2sp|3sl|p
+Karakoyunlu|TR||94|331|3eq|o|Qaraqoyunlu;Kara Koyun
+Qaryūt|PS||6g|2h3|2q1|o
+Qareh Chāl|IR||7o|2v4|3k5|o|Qaraçal;Karaçal
+Qaramanlı|AZ||61|34g|3mj|m|Karamanli;Karamanly
+Qānqarmeh|IR||7o|2ut|47f|m|Qanqermeh;Qān Qermeh;Qānqormeh
+Baker Lake|CA||4o|4yo|-7eq|l|Qamani’tuaq
+Qarnābād|IR||7o|2ua|47n|k
+Qala|MT||9e|2s4|13r|j|La Cala;Kala
+Qāsemābād-e Gorjī|IR||7o|2rj|3wy|j
+Aghlavashli|AZ||61|35d|3ki|j|Qasım İsmayılov;Ağlavaşlı;Alabaşlı;Alabashli;Gasim Ismayilov;Alabashly
+Qal‘eh-ye Shīān|IR||7o|2mn|3lq|j|Qal‘eh-ye Sheyān;Qal'eh-ye Shiyān
+Qāsemābād-e Kūchak|IR||7o|2rr|3wr|j
+Qaryat al Lakk|IQ||5z|2su|3c6|j
+Qal‘eh Jīq|IR||7o|2v9|3k8|j|Qal‘eh Jūq
+Qarājeh-ye Feyẕollāh|IR||7o|2yw|3ih|i|Qarajeh Feyzollāh
+Qareh Kheẕer|IR||7o|2uv|3k8|i
+Qahrīzjān|IR||7o|2j6|3xe|i|Mahrīz Jān
+Qarsaqbay|KZ||5s|3ow|55d|h
+Qandax|AZ||61|378|3la|h
+Qalaikhumb|TJ||6d|2yt|5gn|g|Qalaikhum;Kala Khumb;Qala-i-Khum;Kala-I-Khamb;Kalaikhum;Kalai Khumb
+Garaaghajli|AZ||61|35q|3ku|g|Qırmızı Samux;Samuchas;Qaraağaclı;Girmizi Samukh
+Stepantsminda|GE||7n|3ai|3g0|g|Kazbegi;Step’antsminda;St’epants’minda;Qazbegi;Kazbeg
+Qafëmal|AL||9y|38x|1jt|f|Qafamal;Qafë Mali;Qaf Mal
+Qal‘eh Now|IR||7o|26l|49d|f|Qal‘eh-ye Now
+Kāz̧emābād|IR|Razavi Khorasan|7o|2t7|4l8|f|Qāsemābād
+Karahunj|AM||80|31n|3ks|f|K’arahunj;Qaraunc
+Qadīmābād|IR||7o|2si|3ut|f|Kadimabad
+Qayah Bāshī|IR||7o|30n|3n6|f|Qayabaşı-i Büzürg
+Olenevka|UA||9t|3i2|2id|e|Qarağy
+Lytvynenkove|UA||9t|3h9|2nb|e|Qaja Asty
+Qal‘eh Bīn|IR||7o|2xe|3rv|e|Qal‘eh Beyn
+Qandhār|IR||7o|2uv|3kb|e
+Qarah Moşallá|IR||7o|2wc|4e0|d|Gareh Mosalla;Qareh Moşallá
+Quartier Morin|HT||4j|1iq|-5kg|d|Katye Moren;Qartier-Morin
+Qabaqçöl|AZ||61|37z|3kj|d
+Qal‘eh-ye Nāz̧er|IR||7o|2jc|3x6|c|Qal‘eh Nāz̧er
+Qalandiyā|PS||6g|2gi|2pt|c|Qalandye
+Qarātlū|IR||7o|2w4|3kz|c|Ghāratlū
+Qalqas|PS||6g|2fh|2pi|b
+Qasigiannguit|GL||4e|5b6|-3y7|b|Christianshåb;Kasigianguits;Kasigianguit;Qasigianguit;Christianshaab
+Sand Point|US||1h|49q|-cdu|b|Qagun Tayagungin;Sandpoint
+Karaberd|AM||80|34m|3dr|a|Dashkala;Qaraberd;Tash-kala
+Qaşr al Ḩallābāt|JO||5t|2h6|2sx|a|Qasr el Hallābāt
+Qaţār Qū’ī|IR||7o|2q5|3pm|a|Qaţar Qūyū;Qatar Koī
+Qoltūq|IR||7o|2te|3pj|a|Qotūq;Qaltūq
+Qareh Tappeh|IR||7o|2uu|3k4|a
+Tavricheskoye|UA||9t|3jq|2lr|9|Qart Qazaq
+Gazanbulag|AZ||61|34u|3ll|9|Qazanbulaq;Kazanbulak
+Qal‘eh Khāleşeh|IR||7o|2vq|3kb|9
+Qarah Tappeh-ye Sabalān|IR||7o|2yd|3pi|8
+Qārnā|IR||7o|2ul|3hv|8|Karna
+Qaraçı|AZ||61|374|3ro|8
+Qāsemābād-e Bālā|IR||7o|2ut|3w6|8
+Karaglukh|AM||80|32t|3hr|8|K’araglukh;Qaraglux;Qaraqulax
+Qaryat Al kudshi al Ra'inah|YE||5r|121|3dv|8
+Karashamb|AM||80|349|3fu|7|K’arashamb;Qarashamb
+Qal‘eh Boland|IR||7o|2pt|3zv|7
+Qaşşāb Kotī|IR||7o|2tj|41a|7
+Cerzeto|IT||9o|31r|18s|7|Qana
+Qaanaaq|GL||57|5z7|-5cb|6|Thule;Kanakas;Kaanaak
+Halidzor|AM||80|31h|3km|6|Qalidzor;Galidzor
+Garayazi|AZ||61|36r|3ho|6|Qarayazı;Karayazy
+Qanāt-e Kīfteh Gīvsīn|IR||7o|2ea|3zg|6
+Qarābā|IR||7o|2w2|3sv|6|Qorābā’
+Gasa|BT||7p|25i|6x9|5|Qasa
+Karinj|AM||80|35t|3g5|5|Qarinj;Karnjuk
+Qarabaldır|AZ||61|35u|3ns|5|Karabaldyr

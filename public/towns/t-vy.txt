@@ -1,0 +1,184 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Wiesbaden|DE||8r|3v5|mw|289|Aquae Mattiacae;Vysbadenas;Vīsbādene;Visbaden;Wiasbån;Wissbade;Aquae Matticae;Aquae Mattiacorum;Wisibada
+Vyhurivshchyna-Troyeshchyna|UA||98|3wb|2d0|1uo|Vyhurivshchyna-Troieshchyna;Troieshchyna;Vygurivshchyna-Troyeshchyna;Vygurivshchyna-Troieshchyna
+Vykhino-Zhulebino|RU||9i|4aq|2x1|1o0
+Vyborg|RU||9i|4on|27v|lu|Wyborg;Víborg;Viiburi;Viipuri;Viborgas;Viburgum;Viborga;Víobórg;Vipuri;Wiborg
+Weimar|DE||8r|3xm|vh|hz|Výmar;Vajmaro;Vajmar;Veimaras;Vimaria;Veimar;Veymar;Wehimala;Veimāra
+Vyksa|RU||9i|49o|395|h5|Wyksa;Vıksa
+Výronas|GR||8p|2xg|1tz|h1
+Vynohradar|UA|Kyiv City|98|3wb|2ci|fz
+Vyaz’ma|RU||9i|49d|2na|ff|Vjazma;Wjasma;Vyazma;Vyasma
+Vyshniy Volochëk|RU||9i|4fz|2o1|ey|Vysjnij Volotsjek;Vyshny Volochyok;Wyschni Wolotschok;Wyschni-Wolotschek
+Wiener Neustadt|AT||a2|3os|193|cg|Dunajsko Novo mesto;Viedenské Nové Mesto;Bécsújváros;Wr. Neustadt;Bécsújhely;Német-Újhely;Vyner Noištatas;Weana Neistod;Vídeňské Nové Město;Nova civitas Vindobonensis;Bečko Novo Mjesto
+Vyshneve|UA|Kyiv Oblast|98|3vz|2cd|by|Wyschnewe;Vychneve;Vışneve;Vyšneve;Vysjneve;Wysznewe
+Vyāra|IN||6t|1mn|5nv|b2|Vvara
+Vyatskiye Polyany|RU||97|4c7|3xu|az|Vjatskije Poljany
+Vyazniki|RU||9i|4c8|393|aw|Vjazniki;Vyaznika
+Vyshhorodskyi Masyv|UA||98|3wb|2cl|9s|Vyshhorodskyy Masyv
+Vyshhorod|UA||98|3wi|2cp|97|Vychhorod;Višhorod;Wyschhorod;Vyshgorod
+Vyanda|BI||b|-be|2a9|89
+Vynohradiv|UA||98|3pq|1s0|71|Wynohradiw;Vınogradiv;Vinohradiv;Nagyszőlős;Vinohradiva;Seleușu Mare
+Vypīn|IN||6t|rp|5vt|6l
+Vyškov|CZ||9m|3sw|1b8|5r|Wischau
+Vynnyky|UA||98|3ue|1v2|5a|Winniki
+Vyselki|RU||9i|3im|326|57|Byselki
+Vysočany|CZ|Prague|9m|3v7|14c|4v|Wysočan;Vysočan
+Viljandi|EE||9x|4i4|1z3|4u|Fellin;Felin;Vīlande;Vilyandi;Vylandė;Wiljandi;Vil’yandi
+Vyazemskiy|RU||7w|3o1|aec|48|Vjazemskij;Vyazemskaya;Vyazemskoye
+Vychegodskiy|RU||9i|4q5|3ma|3l|Vytsjegodskij
+Vysoké Mýto|CZ||9m|3ur|18w|3k|Visoke Mīto;Vyskoe Myto
+Võru|EE||9x|4gn|232|3g|Veri;Verava;Werro;Vıru;Wöru;Vyru;Verro;Veru
+Vyritsa|RU||9i|4l1|2cb|33|Wyriza;Vyrica;Võritsa;Viiritsa;Viiričča
+Vytegra|RU||9i|4ph|2t9|33|Võtegra;Vitegr;Wytiegra;Vitegra;Wytegra
+Vysokyi|UA||98|3ul|2sc|32|Vysokyy
+Vysokovsk|RU||9i|4cg|2tj|30|Wyssokowsk;Vyssokovsk;Vısokovsk;Wysokowsk
+Vayilathūr|IN||6t|tk|5v6|2v|Vylathur
+Voskresenskyi-1|UA||98|3w7|2d0|2o|Vietnam;V'yetnam;Việt Nam
+Vyetka|BY||9g|41z|2em|2e|Vetka
+Vyshkovo|UA||98|3ph|1t2|2a|Vychkovo;Vășcova;Visk
+Vysokaya Gora|RU||9i|4bb|3sz|28|Biektau
+Vyyezdnoye|RU||9i|49u|3dn|27|Vyezdnoje
+Vylkove|UA||98|3i4|2a7|25|Vâlcov;Wylkowe;Vılkove;Wilkowo;Vilkovo
+Vypasne|UA||98|3kb|2c2|25|Wypasne;Podul de Piatr;Turlaki
+Vysokiy|RU||9i|59a|2ku|1x
+Verkhnedvinsk|BY||9g|4ay|25m|1w|Vyerkhnyadzvinsk;Drysa;Vierchniadzvinsk
+Vysokiy Mys|RU||7z|4q3|5ke|1t|Vysokij Mys
+Vyalikaya Byerastavitsa|BY||9g|43s|1uq|1k|Bol’shaya Berestovitsa
+Vydrino|RU||6k|3yy|82o|1h
+Verkhnye Vodyane|UA||98|3pc|1uk|1h|Verkhnie Vodiane;Felsőapsa;Vyšná Apša
+Rechka-Vydrino|RU||6k|3z1|839|1g|Rechka Vydrino;Vydrino
+Vetovo|BG||9v|3de|20z|1g|Vyetovo;Vetova
+Vygonichi|RU||9i|43i|2mn|1f|Vygonitsji
+Vyshneye Dolgoye|RU||9i|40m|2vx|1e|Vysjneje Dolgoje;Vyshnedolgoye
+Vysokaye|BY||9g|41h|1sx|1d|Vysokoye;Vysokaje
+Vievis|LT||a3|485|1wx|19|Vevis;Vievio;V’yevis;Viyevis
+Wyk auf Föhr|DE||8r|47x|nt|18|Wyck;Wik;Vyk;A Wik;Wyk op Feer;De Wyk;Wyk
+Vynohradove|UA|Kherson|98|3kt|2ji|18|Wynohradowe;Vinohradove;Vinogradovo
+Vyshestebliyevskaya|RU||9i|3hk|2uu|17|Vysjesteblijevskaja
+Vysokopillya|UA||98|3nx|2l5|14|Vyssokopillia
+Vyhoda|UA|Odesa|98|3li|2cg|14|Vygoda
+Vyzhnytsya|UA||98|3q0|1xy|14|Vijniţa;Wischnitza;Wiznitz;Wyżnica;Vyjnytsia;Vișnița
+Vysokogornyy|RU||7w|3v6|aqg|13|Vysokogornyj
+Vynohradivka|UA|Odesa|98|3iw|27e|13|Curciu;Kurçu;Wynohradiwka
+Vysoké Tatry|SK||8s|3si|1k8|12
+Vyshchetarasivka|UA||98|3o5|2ow|11|Novoanastas’yevka;Vyshchevtarasivka
+Vynohradivka|UA|Odesa|98|3jb|29m|x|Burgugi;Wynohradiwka
+Venta|LT||a3|4c3|1r2|x|Vyanta;Wenta
+Vyshnivets|UA||98|3um|1zi|w|Vychnivets;Wisniowiec
+Vyartsilya|RU||9i|4sq|2d9|v|Värtsilä;Vjartsilja
+Vylok|UA||98|3pn|1rg|v|Tiszaújlak;Uileacu Tisei
+Vysokoye|RU||9i|3cq|331|v
+Vysotskoye|RU||9i|3h3|3b7|v|Vysotskoje
+Vyshenky|UA||98|3vq|2dc|u|Vishenki;Vyshen’ky
+Vysoká nad Kysucou|SK||8s|3t6|1fi|u
+Vyshkov|RU||9i|41s|2g1|t|Vysjkov
+Vyšší Brod|CZ||9m|3r2|13r|q|Hohenfurth;Altum Vodum
+Vändra|EE||9x|4ix|1xk|p|Vėndra;Vyandra
+Vyshneve|UA|Dnipropetrovsk|98|3qk|2m7|n|Erastivka;Vychnévé;Vishnyëvoye;Wyschnewe;Vysjneve;Višneve;Vyšneve;Wysznewe
+Vyderta|UA||98|3zp|1xi|n|Wyderta
+Vydrychka|UA||98|3ph|1vj|n|Vydrichka
+Vyhoda|UA|Ivano-Frankivsk|98|3rx|1uf|n|Wygoda;Vıgoda;Wyhoda;Vihoda
+Vysoká pri Morave|SK||8s|3q9|1az|m|Hochštetno;Nagymagasfalu;Hochstädten
+Výčapy-Opatovce|SK||8s|3qh|1e8|m
+Vysunsk|UA||98|3na|2j6|m|Vyssounsk;Visunsk
+Vynohradne|UA|Odesa|98|3j9|28j|l|Hasan Batar;Vinogradne;Wynohradne;Hasan-Batâr
+Vyshniaky|UA|Poltava|98|3u8|2kj|l|Vishnyaki;Vyshnyaky
+Vyazovaya|RU||7z|48j|4i4|l|Vjazovaja
+Vyaliki Trastsyanets|BY||9g|45l|24z|l|Bol’shoy Trostenets
+Dniprovka|UA|Crimea|9t|3iz|2ng|l|Çoqraqlı Şeyh Eli;Vyselky;Chokrakly-Sheykh-Eli;Chokrakly-Sheikh-Eli;Sheikh-Eli;Sheykh-Eli
+Vyshneve|UA|Odesa|98|3ic|28p|k|Pershotravneve;Pershotravnevoye
+Vysoký Újezd|CZ||9m|3uv|13h|k
+Vypolzovo|RU||9i|4gs|2lm|k
+Vysokinichi|RU||9i|48j|2ul|j|Vysokinitsji
+Vyšehrad|CZ||9m|3v3|142|j
+Vysotsk|RU||9i|4of|27d|j|Uuras;Wyssozk;Vyssotsk;Vysock;Vısotsk;Visock;Võssotsk;Wysock;Visocka;Trångsund;Uuraa;Uras;Trongsund;Tranzund;Transund
+Visegrád|HU||8v|3or|1gp|i|Wyszehrad;Plintenburg;Vyšehrad;Vyšegrad;Vixegrad
+Vydrany|SK||8s|3pe|1cv|i
+Vyshovatyi|UA||98|3pm|1u1|i|Vyshovatyy
+Vyrishalne|UA||98|3vf|2kx|i|Vyrishal’ne
+Vysotsk|UA||98|3zo|222|h|Vysots’k
+Vynohradne|UA|Donetsk|98|3mt|2wp|h|Weinberg
+Vynohradar|UA|Odesa|98|3lo|2ca|h|Vinogradar’;Vynogradar
+Vilne|UA|Odesa|98|3jq|28p|h|Vyp'ne;Iserlia
+Vynohradivka|UA|Odesa|98|3k0|28w|g|Ciuleni
+Vyshevychi|UA||98|3wn|29o|f|Vishevichi;Vyshevichi
+Vybor|RU||9i|4ez|291|f
+Vynohradne|UA|Crimea|9t|3fk|2ms|f
+Výborná|SK||8s|3sr|1ko|f
+Venets|BG||9v|3cz|22t|f|Vyenets
+Vyšné Ružbachy|SK||8s|3sy|1l5|e|Vyšnie Ružbachy
+Vyshneve|UA|Odesa|98|3j9|2ap|e|Vychnévé;Noul-Caragaci
+Vynohradivka|UA|Mykolaiv|98|3n3|2hn|e
+Vetrino|BG||9v|3cc|247|e|Vyetrino;Wetrino;Vyetreno
+Vysoké nad Jizerou|CZ||9m|3wt|16s|e
+Vyshneve|UA|Poltava|98|3uw|2in|d|Kuybysheve;Kuibysheve;Kuybyshevo
+Richky|UA|Lviv|98|3vo|1tp|d|Rzyczki;Vydra;Shubary
+Vynohrad|UA||98|3ss|2cv|c|Vinograd;Wynohrad;Vînohrad
+Vynohradne|UA|Odesa|98|3n6|2ee|c
+Vyshniv|UA||98|3y8|1ur|c
+Vyzyrka|UA||98|3lp|2e4|c
+Vyshchyi Bulatets|UA||98|3uz|2je|b|Vysshiy Bulatets;Vyshchyy Bulatets’
+Vyshnivchyk|UA|Ternopil|98|3sr|1yh|b|Vysjnivtsjyk;Wiśniowczyk;Võšnivtšõk;Vîșnivciîk;Vyşnivçyk;Vishnivchik;Vis’niovchik
+Vydropuzhsk|RU||9i|4fc|2os|b|Vydropuzjsk;Vydropusk
+Vysha|RU||9i|45l|39q|b|Vysja
+Vynohradne|UA|Crimea|9t|3ht|2rk|a|Çuqul
+Vytylivka|UA||98|3qg|1zo|a|Viteluvca
+Vysoke|UA|Kherson|98|3mc|2jy|a|Vysoka;Vysokoye
+Vyzhenka|UA||98|3px|1xy|a|Vijnicioara;Vizhenka
+Výprachtice|CZ||9m|3uv|1aa|9
+Vysoká|CZ||9m|3w1|14e|9|Wysoka
+Vytína|GR||8p|2wn|1pm|9|Vitína
+Vysochanske|UA||98|3l5|28o|9|Lak;Lac;Vysochans’ke;Wyssotschanske;Vysochanskoye
+Vyshka|UA||98|3ry|1r1|9
+Vynohradove|UA|Crimea|9t|3i3|2lh|9|Boz Oğlu Montanay;Boz-Ohlu-Montanay
+Vyatskoye|RU||9i|4gr|33u|9|Vjatskoje
+Vysoké Veselí|CZ||9m|3vt|16w|9
+Vytachiv|UA||98|3v7|2dr|8|Vytychiv;Uvetychi;Wityczew;Vitaholmr;Vitakholmr;Vyatychiv;Viatychiv;Witatschiw;Vitacsiv;Vitachëv;Vitachov
+Vyšní Lhoty|CZ||9m|3tw|1fa|8
+Vysoká Pec|CZ||9m|3wc|11f|8
+Vysoký Chlumec|CZ||9m|3tu|13z|8
+Väimela|EE||9x|4gt|232|8|Vyaymela
+Výčapy|CZ||9m|3si|184|8
+Vysoká nad Uhom|SK||8s|3r3|1pd|8
+Vysoké Pole|CZ||9m|3sm|1du|8
+Vysočany|CZ|South Moravian|9m|3tb|1ap|8
+Vyróneia|GR||8p|36n|1sl|8|Virónia
+Vysoká nad Labem|CZ||9m|3vb|17y|8
+Vyshneve|UA|Sevastopol City|9t|3g9|2lc|7|Eski El
+Vyhon|UA||98|3k6|2c6|7|Vygon
+Vysoke|UA|Zaporizhzhia|98|3n7|2qd|7|Vysokoye
+Vyshnii Dubovets|UA||98|3pu|1ue|7|Vyshniy Dubovets’;Vyshniy Dubovets
+Vydrychi|UA||98|3zg|1wt|7|Vydryche;Vydrichi
+Vysoke|UA|Zaporizhzhia|98|3m1|2p6|7|Vysokoye
+Vyšehořovice|CZ||9m|3v8|151|7|Vyšerovice
+Väätsa|EE||9x|4jl|1yp|7|Vyatsa
+Vyskytná nad Jihlavou|CZ||9m|3ta|173|7
+Vynnychky|UA||98|3u9|1v4|7
+Vyskytná|CZ||9m|3tb|16p|6
+Vyshneve|UA|Odesa|98|3n3|2bl|6
+Vyshniaky|UA|Odesa|98|3k0|29y|6|Vyshnyaky;Neu-Arzis;Vishnyaki
+Võnnu|EE||9x|4hw|235|6|Vennu;Vynnu
+Vyshneve|UA|Poltava|98|3u3|2k9|6|Petrovka;Vishneve;Petrivka
+Výšovice|CZ||9m|3ta|1bm|6
+Vysoké Popovice|CZ||9m|3sm|198|6
+Vyazëmka|RU||9i|44w|3ak|6|Vjazemka
+Vysoka Vakulivka|UA||98|3t3|2ma|6|Vysoko-Vakulovka
+Vysochynivka|UA||98|3u2|2st|6|Proletars’ke;Proletarskoye
+Vyshneve|UA|Poltava|98|3vs|2ip|6
+Vyalikaya Mashchanitsa|BY||9g|45v|2ab|6
+Vyshnivchyk|UA|Lviv|98|3u2|1wr|6
+Vy-lès-Lure|FR||9k|3od|hw|6
+Viazivok|UA||98|3ur|2ji|6|Vyazivok
+Vysoke|UA|Donetsk|98|3p7|2xq|6|Wyssoke;Vısoke;Vyssoke;Vysokoye
+Vyshnivtsi|UA||98|3rm|2kz|6
+Itéa|GR|West Macedonia|8p|35g|1nr|5|Itia;Vyrmpeni;Vërbeni;Vírbeni
+Vynohradne|UA|Donetsk|98|3p4|2y7|5
+Vyšný Medzev|SK||8s|3rb|1m2|5|Felsőmecenzéf;Vyšní Medzev
+Vyle-et-Tharoul|BE||8t|3w5|em|5
+Vynohradne|UA|Mykolaiv|98|3lq|2er|5|Leninka
+Vyšný Hrušov|SK||8s|3s3|1p5|5|Vyšní Hrušov
+Vynohradivka|UA|Odesa|98|3lt|2bj|5
+Vysoke|UA|Poltava|98|3vt|2n7|5

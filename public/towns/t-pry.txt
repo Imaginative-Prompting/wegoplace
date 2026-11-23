@@ -1,0 +1,54 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Prymorskyi|UA|Donetsk|98|3mr|2w6|jq|Portovskyi
+Pryluky|UA||98|3wk|2hy|em|Pryłuki;Priluki
+Prydniprovsk|UA||98|3qh|2pl|44|Prydniprovs’kyy;Pridneprovsk
+Prymorskyi|UA|Crimea|9t|3hb|2qk|3i|Primorskiy;Little Kamnishi;Hafuz
+Prymorsk|UA||98|3lt|2sz|34|Nogaisk;Obitotchné;Primorsk
+Pryor Creek|US||2f|2sv|-7cs|2n
+Pryor|US|Oklahoma|2f|2sv|-7cs|2f
+Pryazovske|UA|Zaporizhzhia|98|3lt|2r0|1u
+Pryvillia|UA||98|3s5|2ye|1t|Pryvillya;Asesorske;Pyata Rota;Pryvilne
+Pryamitsyno|RU||9i|3zi|2ru|1f|Prjamitsyno;Pryamitsino
+Pryazha|RU||9i|4re|2lf|16|Prjazja;Prääsä;Teru;Priäžy;Prjascha;Prjaža;Priaża
+Prylymanske|UA||98|3ky|2d1|13|Prylymans’ke
+Prymorske|UA|Zaporizhzhia|98|3oc|2q1|12|Prymors’ke
+Prychornomorske|UA||98|3lu|2dv|11|Pershotravneve;Pershotravnevoye
+Pryborzhavske|UA||98|3qa|1sj|y|Pryborzhavs’ke
+Pryyutivka|UA||98|3rd|2jv|v|Pryïoutivka
+Pryvitne|UA|Crimea|9t|3hc|2pe|v|Cuma Eli
+Pryshyb|UA|Zaporizhzhia|98|3na|2q4|v|Prychyb;Pryschyb;Prysjyb;Prišiba;Prishib;Pryšyb;Prışıb;Pryszyb
+Prylisne|UA|Volyn|98|3yq|1yw|r
+Pryvilne|UA||98|3nx|2hq|r
+Prykolotne|UA||98|3vc|2vr|p|Prikólotne;Prikolotnoye
+Prydniprovske|UA|Dnipropetrovsk|98|3oa|2nq|o|Prydniprovs’ke
+Prypruttya|UA||98|3q2|20p|m|Pryprouttia;Lehăcenii Tăutului
+Prybuzhany|UA||98|3o1|2f1|k|Pryboujany;Pribuzhany
+Pryvol’ny|BY||9g|45g|258|k|Privol’nyy
+Prybuzhzhya|UA||98|3of|2er|k|Pryboujjia
+Prymiske|UA||98|3o9|2ne|i|Menzhynske
+Prymorske|UA|Odesa|98|3ix|2as|i|Şagani;Prymors'ke
+Pryozerne|UA||98|3ip|290|i|Cemașir
+Prydnipryanske|UA||98|3ri|2n9|h|Radyans’ke;Prydniprianske;Radianske
+Prymorske|UA|Kherson|98|3ka|2jr|h|Prymors’ke
+Prymors’ke|UA||98|3ig|2a9|g|Jibrieni;Prymorske
+Prybuzske|UA||98|3ly|2h6|e|Prybouzké
+Prymorske|UA|Donetsk|98|3nf|2xe|e|Primorskoye;Prymors’ke
+Pryvoroky|UA||98|3pn|20c|d|Prevoroche
+Pryamobalka|UA||98|3jh|29e|b|Preamobalka;Priamobalka;Dennewitz;Hamburg
+Prydniprovske|UA|Cherkasy|98|3ti|2hx|a|Prydniprovs’ke
+Pryshyb|UA|Poltava|98|3s9|2lp|a|Prishib
+Pryazovske|UA|Donetsk|98|3mz|2vt|9|Pryazovs’ke
+Prystantsiine|UA||98|3t7|2nt|9|Prystantsiyne
+Pryslip|UA||98|3r9|1te|9
+Pryhorodok|UA||98|3qt|21d|8|Prigorodoc;Prigorodok
+Prylypche|UA||98|3r5|1zc|7|Prylyptché;Prelipcea
+Pryshyb|UA|Poltava|98|3uj|2mu|7|Prishib
+Prylisne|UA|Donetsk|98|3rn|2vm|7|Prelestne;Prelesne;Prelestnoye
+Pryyut|UA||98|3rb|2ea|7|Pryiut
+Pryhid|UA||98|3q2|1ty|7
+Pryvitne|UA|Cherkasy|98|3uc|2i2|7|Komintern
+Pryor|US|Montana|2p|3i7|-8dh|6
+Prydorozhnye|UA||98|3ox|2xh|6|Prydorozhnie;Pridorozhnoye
+Pryvitne|UA|Cherkasy|98|3uc|2hd|6
+Prypiat|UA||98|3z2|1v0|6|Pripyat’
+Pry|BE||8t|3vn|cc|5

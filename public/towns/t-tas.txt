@@ -1,0 +1,103 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+Tashkent|UZ||7m|36m|5ca|f9g|Taschkent;Taskent;Tasjkent;Taŝkento;Toshkent;Tachkent;Taškentas;Taszkent;Toshkent shahri;Tochkent;Taixkent;Taxkent;Taškenta;Lithopolis;Daşkent;Tashkend
+Tasikmalaya|ID||6l|-kd|8cm|5y4|Tasikmalaja
+Daşoguz|TM||5x|388|4ml|1jv|Dašhowuz;Daszoguz;Toshhovuz;Tasjauz;Dashoguz;Dashhowuz;Tashauz
+Bandar Tasik Puteri|MY||6v|95|7tv|15o|Tasik Puteri;Puteri Lake City
+Tasek Glugor|MY||6v|f8|7r6|11q|Tasek Gelugor;Tasek Gelugur
+Tuscaloosa|US||2f|2k9|-6r9|ux|Taskalusa;Tuskaloosa;Tuskalloosa
+Dachnoye|RU|St. Petersburg|9i|4m8|2c2|k8|Tasnoi
+Dashitou|CN||7i|3cb|9wz|i9|Tashitou;Ta-shih-t’ou
+Tashan|CN||7i|2ne|92l|gg
+Taxco de Alarcón|MX||41|1fk|-7op|e0|Taxco;Tasco
+Tāsgaon|IN||6t|1bc|5r8|aj
+Taastrup|DK||8y|4al|y6|9s|Tåstrup
+Tash-Kumyr|KG||65|36v|5km|6k|Tash-Kömür;Tashkumör
+Tashtagol|RU||74|42l|6s5|6c|Tasjtagol;Tashtapol;Tashtogol
+Taşova|TR||94|358|2sw|5d
+Dashun|CN||7i|2a5|89d|58|Ta-shun
+Taşköprü|TR|Kastamonu|94|37b|2n1|4v
+Tassin-la-Demi-Lune|FR||9k|3j3|db|4p|Tassin la Demi Lena
+Tasbuget|KZ||7d|3gd|523|4l|Tasböget
+Taşucu|TR||94|2sw|2m4|48
+Tapiola|FI||92|4n6|1wx|3s|Hagalund;Hagis;Tapla;Tappiola;Tapsa;Tapsala;Taoskala;Tapska;Tapsku;Tapsu;Tapsula;Tasala
+Tashiro|JP||7q|347|ax6|3r
+Taşkent|TR||94|2uk|2i9|3a
+Tsrār Sharīf|IN||6t|2m2|5rp|37|Tasrār Sharīf
+Tassila|MA||d|2b9|-qs|36
+Tăşnad|RO||8u|3nw|1qq|2n
+Tashqorghan|CN||7t|2wy|5sy|2h|Tashkurgan;Stätte der Steinernen Stadt;Tashkurgan Town;Taškurgan;Taškurganas;Taškorgana;Taschkurgan;Tash Qurghan;Tash Kurghan;Taxkorgan;Tashiku’ergan
+Tasso Fragoso|BR||2w|-nk|-3j2|2h
+Taseyevo|RU||6u|4ey|7bl|2d|Tasejevo;Tasyeevo
+Tashir|AM||80|368|3f1|26|Kalinino;Taschir;Taširas;Tachir;Tašir;Tasjir;Vorontsovka;Taszir;Kaliniko;Kalinin
+Tasūj|IR|East Azerbaijan|7o|2yg|3i0|23
+Tasqala|KZ||77|3xz|3vp|1y|Kamenka
+Tashla|RU||7z|3zt|42i|1v|Tasjla;Tasala
+Tashtyp|RU||6u|42o|6xp|1s|Tasjtyp
+Taşlıçay|TR||94|323|3ch|1q
+Tasti Tea Garden|IN||6t|221|6vn|1k
+Taşağıl|TR||94|2uk|2es|1a
+Ţasūj|IR|Fars|7o|29b|42e|1a
+Tasquillo|MX||41|1l3|-7nv|11
+Kam'yanka|UA||98|3ik|288|z|Tașbunar;Kamianka;Kamjanka;Kam'ynka
+Tashara|RU||75|4a8|6fz|y|Tasjara
+Taşköprü|TR|Yalova|94|34z|29n|v
+Trashi Yangtse|BT||7p|24p|726|u|Tashi Yangtse
+Tass|HU||8v|3mm|1gv|u
+Kamyanske|UA|Odesa|98|3ja|29a|r|Tașlâc;Kamianske;Kamjanske;Kamians'ke
+Taşca|RO||8u|3ma|20a|r
+Tassara|NE||18|1ao|fo|r|Tasara
+Yantarne|UA||9t|3i7|2n2|o|Tašly Dajyr
+Taszár|HU||8v|3kt|1dr|k|Tazar
+Tasovčići|BA||9r|3br|1d8|k
+Tashanta|RU||63|3u4|6vr|k|Tasjanta
+Tasiilaq|GL||4e|529|-2wk|k|Tasilaks;Tasilakas
+Tashlyk|UA||98|3sb|2g5|j
+Tasco|CO||27|gf|-5m6|i
+Tascott|AU||8l|-2kx|bob|g
+Tasker|NE||18|160|tq|g|Taskeur
+Tassullo|IT||9o|3kq|up|g|Tassullum
+Teshnīz|IR||7o|2h3|3x4|f|Tashniz
+Eschenz|CH||a7|3od|on|f|Tasgetium
+Tasanne|FI||92|4qw|1uh|e
+Tășad|RO||8u|3me|1ph|d
+Taşlı Pınar Mahallesi|TR||94|2yp|38g|c
+Tasovice|CZ||9m|3ro|18w|c|Tasswitz
+Tasty|KZ||7c|3w6|539|c
+Taskila|FI||92|50p|1yn|c
+Taşobası|TR||94|2v1|2p1|b
+Tāshkūh-e Soflá|IR||7o|2tk|40c|b
+Karaberd|AM||80|34m|3dr|a|Dashkala;Qaraberd;Tash-kala
+Taşlı|TR||94|2xj|392|a
+Taşharman|TR||94|2zi|39l|a|Tegut
+Taşbaşı|TR||94|2vx|3cq|a
+Taşlıca|TR|Mardin|94|2vq|35u|9
+Tasajillo|MX||41|1mx|-7qc|9
+Taskino|RU||6u|4cg|767|9
+Taşlıdere|TR||94|2y6|36m|9
+Tossor|KG||65|395|5z4|9|Tassor;Tosor
+Trashigang|BT||7p|23x|72b|9|Tashigang
+Taşdeğirmen|TR||94|2vy|2x1|9
+Taşburun|TR||94|332|3ex|9|Daşburun
+Täsch|CH||a7|3jz|lm|8
+Taşkapı|TR||94|2wk|2ci|8
+Taşköprü|TR|Düzce|94|35i|2ef|7
+Tasinaxtla (La Cañada)|MX||41|1ie|-7yy|7
+Tasourouboua|CI||0|i8|-ic|7
+Taşkesen|TR||94|31m|3df|7
+Tasty-Taldy|KZ||5s|3wx|552|7
+Taşdelen|TR||94|2vu|3b3|7
+Tasajeras|MX||41|1ap|-7oq|7
+Tāshkūh-e Vosţá|IR||7o|2tj|40c|6
+Tashi Chho Dzong|BT||7p|24c|6wy|6|Tashi Chhuc Dzong;Trashi Chö Dzong;Trashi Chhödzong;Tash Chho Dzong
+Taşdibek|TR||94|2xf|39i|6
+Taşkuyu|TR||94|2wi|2yy|6|Birîk
+Tasov|CZ|Vysocina|9m|3sx|18p|6
+Taşyayla|TR||94|2w8|2d7|6
+Taşlıca|TR|Antalya|94|2ui|2gb|5
+Taşkesiği|TR||94|2u4|2fw|5
+Taşbasamak|TR||94|31p|3d6|5
+Taşkın|TR||94|30g|3b0|5
+Taceno|IT||9o|3ju|q0|5|Tacenum;Tasen
+Tassarolo|IT||9o|3g9|od|5
+Tasov|CZ|South Moravian|9m|3rv|1cf|5

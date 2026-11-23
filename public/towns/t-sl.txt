@@ -1,0 +1,302 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Salé|MA||d|2ml|-iw|7i3|Sala;Sla;Sali
+Sulaymaniyah|IQ||5z|2qs|3i7|6rx|Sulaimaniyya;Solimania;Silêmanî;Suleimania;Sulaymaniyya;As-Sulajmanijja;Souleimaniye;Suleimaniya;Süleymaniye;Slemani;Sulejmanija;Sulejmánie;Sulaimaniya;Suleimaniyah
+Zlatoust|RU||7z|499|4lp|1h6|Slatoust;Zlatooust;Zlato-oest;Zlatoutsk
+Slough|GB||9b|3z3|-1o|19s
+Slobidskyi|UA||98|3uq|2ss|14t
+Ruda Śląska|PL||a5|3vm|1ge|14m|Ruda Slonska;Ślůnsko Ruda;Silezijos Ruda;Ruda O.S.
+Nikopol|UA|Dnipropetrovsk|98|3o5|2nj|t8|Mykytyn Rih;Nicopoli;Mykytynska Sich;Mykopil;Nyikopol;Slov'yansk;Slov'iansk;Nykopil
+Slovyansk|UA||98|3rp|2wg|t7|Slowjansk;Slovjansk;Slovjanskas;Slovjansko;Słowiańsk;Slavjansk;Slovjanska;Sloveansk;Sloviansk;Slaviansk;Tor;Slawjansk;Slavyansk
+Sidi Slimane|MA||d|2n6|-gh|s7|Sidi Sliman
+Słupsk|PL||a5|47a|1bb|re|Stolp in Pommern;Stolp;Stolpsk;Stolpe
+Sliven|BG||9v|3al|215|n9|Islimiye;Sliwen;Islimje
+Sunzha|RU|Ingushetiya Republic|9i|3cc|3h5|jy|Sleptsovskaya;Ordzhonikidzevskaya;Ordzjonikidzevskaja;Sunža;Sunzja;Slepzowskaja;Sunscha;Sunschenskaja;Sunzhenskaya;Sounja;Sunja;Sipso-Ġala;Slyeptsovskaya;Ordzhonikidzevskoye
+Slavyansk-na-Kubani|RU||9i|3hp|2xw|i4|Slavjansk-na-Kubani
+Slatina|RO|Olt|8u|3ff|1vp|hn
+Slawi|ID||6l|-je|8f6|h0|Selawi;Slawj
+Slutsk|BY||9g|43a|24i|ge|Słuck;Sluzk;Sluckas;Sloutsk;Sloetsk;Slucka
+Sleman|ID||6l|-lg|8ik|fm|Suleman
+Chystyakove|UA||98|3pg|2z8|ev|Chistyakovo;Tschistjakowo;Tores;Torezas;Thorez;Toreza;Sloboda Alekseevka;Tschistjakowa;Torez;Chystiakove
+Slonim|BY||9g|43h|1yc|dg|Slanimas
+Slavonski Brod|HR||a6|3hg|1e2|ci|Brod;Marsonia;Szlavónbród
+Slobozia|RO|Ialomița County|8u|3fs|240|bk|Netindava;Freistadt;Slobozija;Vaideei
+Slantsy|RU||9i|4k8|261|a2|Slanzy;Slancy;Slanci;Slantsõ;Slancai;Slančči;Olantsy
+Slavuta|UA||98|3vq|22n|9r|Slavouta;Szlavuta;Sławuta
+Slavgorod|RU||63|438|62h|9h|Slawgorod;Sslawgorod
+Slobodskoy|RU||97|4j5|3vd|90|Slobodskoj;Slovodskoi
+Slagelse|DK||8y|49w|vj|8v
+Zlatopil|UA|Kharkiv|98|3t6|2sm|7x|Pervomaiskyi;Perwomajskyj;Lichatschewo;Likacheve;Slatopil
+Slidell|US||2f|2c4|-6xe|7r
+Slavutych|UA||98|3z4|2dc|6t|Slawutytsch;Slavoutytch;Slavutyč;Slavoetytsj;Slavutıç;Slavutõtš;Slavutytš;Szlavutics;Slavutich;Slavutyčius;Slavutiča;Slavutytsj;Slavutîci;Sławutycz;Slavutytj
+Schleswig|DE||8r|47g|ql|6p|Slesvig;Sleeswig
+Sliedrecht|NL||8m|3zy|da|6n
+Sliema|MT||9e|2rr|14a|6a|Slima
+Sligo|IE||8z|46r|-nj|5q|Sligeach;Slaigo;Shliggagh
+Zülpich|DE||8r|3wt|ih|5m|Tolbiac;Slaget vid Tulpiacum
+Slobodka|RU||9i|4b7|2we|5k
+Slyudyanka|RU||6k|3zi|803|58|Sljudjanka;Slyadyanka;Sladyanka;Sludyanka
+Słubice|PL|Lubusz|a5|41f|14g|4w|Zliwitz;Zliwice
+Sleaford|GB||9b|438|-15|4u
+Slaný|CZ||9m|3vj|135|4s
+Slobozhanske|UA|Kharkiv|98|3tr|2tg|4e|Komsomol’skoye;Komsomol's'ke;Slobožanske;Sloboschanske;Slobojanske
+Złotoryja|PL||a5|3y1|188|4c|Aurimontium;Zlotorija;Aureus Mons;Aurum;Słotoryja
+Slobozia|MD||8x|3lt|2ai|4a|Slabodzėja;Slobodzeya
+Słupca|PL||a5|419|1dn|41|Słupce
+Slobozhanske|UA|Dnipropetrovsk|98|3qt|2pf|3s|Slobojanské;Yuvileyne
+Sławno|PL|West Pomerania|a5|470|1ac|3q|Schlawe;Slavno;Słôwno
+Slavyanka|RU||7w|3b2|a4z|2w|Slavjanka;Slavyansk
+Slacks Creek|AU||8c|-24t|btf|2w
+Sleepy Hollow|US|New York|48|365|-5p6|2u
+Myrzakent|KZ||5s|34y|5af|2q|Slavyanka;Mirzakent;Slavyanski
+Sloboda|UA|Cherkasy|98|3t5|2hc|2l
+Slatina|CZ|South Moravian|9m|3sm|1ad|2j
+Slikkerveer|NL||8m|405|cs|2g
+Slatina|HR||a6|3iy|1d6|2f|Szlatina
+Solotvyno|UA||98|3p7|1ub|2e|Slatina;Sołotwyno;Aknaszlatina
+Shlomi|IL||6n|2jv|2pn|2a|Shelomi;Schelomi;Šlomi;Chelomi
+Slov`yanoserbsk|UA||98|3ra|30a|29
+Slawharad|BY||9g|44g|2e4|24|Slauharad;Szlavharad;Sławograd;Prapojsk;Propoysk;Propoisk
+Sleidinge|BE||8t|3y1|a7|24|Sleydinge
+Slivnitsa|BG||9v|3b1|1s0|23|Slivnitza
+Slovenska Bistrica|SI||9a|3kv|179|23
+Zlatograd|BG||9v|36y|1xq|21|Zlatoqrad;Darıdere;Slatograd;Dară-Dere
+Slavkov u Brna|CZ||9m|3sj|1aw|21|Austerlitz;Sławków;Slavkovas prie Brno;Slaukovia;Slavkova pie Brno
+Slovenj Gradec|SI||9a|3l7|15w|20|Slovenji Gradec
+Šlapanice|CZ||9m|3sl|1ah|1z|Schlapanitz;Lapanz;Schlappanitz
+Slănic|RO|Prahova|8u|3hp|201|1y
+Slangerup|DK||8y|4b5|xu|1y
+Sławków|PL||a5|3vq|1hv|1x|Slavkova;Sławkůw
+Slave Lake|CA||2s|49k|-8ut|1w
+Slatyne|UA||98|3vh|2sf|1t|Slatıne;Slatino
+Slim River|MY||6v|an|7to|1r
+Slovenský Grob|SK||8s|3q2|1bz|1r|Tótgurab
+Slavičín|CZ||9m|3sd|1dn|1q
+Slaton|US||2f|2kw|-7uc|1p
+Stănileşti|RO||8u|3li|269|1n|Slănileşti;Stălineşti
+Sleeuwijk|NL||8m|3zy|dr|1n|Sleewijk
+Šluknov|CZ||9m|3xo|145|1l|Schluckenau
+Sládkovičovo|SK||8s|3pw|1d0|1i|Diószeg
+Zlynka|RU||9i|41n|2g6|1h|Zlinka;Zlõnka;Zlink;Slynka
+Słoneczne|PL||a5|3ue|1gv|1h
+Slavsk|RU||96|48w|1o8|1g|Heinrichswalde;Gastos;Sławsk
+Slinger|US||2f|3cd|-6t9|1g
+Slatina|RO|Suceava|8u|3nt|20a|1g
+Slobozia Bradului|RO||8u|3ie|235|1f
+Slobozia|RO|Arges|8u|3fp|1y4|1e
+Slănic-Moldova|RO||8u|3ke|21j|1e|Szlanikfürdő
+Slovenske Konjice|SI||9a|3kq|16u|1d|Slovenske Konice;folketske Konjice
+Slavyanovo|BG||9v|3cr|1x3|1c|Slavianovo;Slavjanovo
+Sliač|SK||8s|3r2|1h6|1c|Szliács;Sljača;Sljač
+Słopnice|PL||a5|3u0|1ki|1a
+Śliwice|PL||a5|457|1eh|1a
+Słomniki|PL||a5|3vk|1js|17
+Svyatohirsk|UA||98|3s8|2wd|17|Sviatohirsk;Banno-Tat’yanovka;Sviatohirskas;Szvjatohirszk;Świętogórsk;Banno-Tetianivka;Banno-Tetyanivka;Banne;Bannivs'ke;Slov'yanohirs'k;Slov'ianohirs'k;Swjatohirsk;Sviatogirsk;Svjatohirs'k;Svâtoğirsk;Sviatahirsk;Śviatahorsk;Bánnaŭskaje;Słavianahórsk;Svyatogorsk qalası;Svyatogorsk;Swýatogorsk;Sviatogorsk
+Sladna|BA||9r|3g9|1f7|17
+Slatington|US||48|357|-5u1|17
+Slaughterville|US||2f|2ph|-7ie|16
+Sluisoord|NL||8m|412|gm|16
+Slobozia-Mândra|RO||8u|3e0|1wm|16|Slobozia-Mîndra
+Slatiňany|CZ||9m|3uo|17x|15|Slatinan
+Sława|PL||a5|404|18n|14|Slava
+Slivileşti|RO||8u|3ge|1s9|12
+Slavgorodskoye|RU||63|43a|62g|11
+Slippery Rock|US||48|362|-66e|10|Slipperyrock
+Slangrivier|ZA||o|-2mu|1ly|10
+Sloan|US|New York|48|3b5|-62v|10
+Slimnic|RO|Sibiu County|8u|3jk|1v5|10
+Slavske|UA||98|3rp|1t5|z|slawskoye;Slavskoye;Slavs’ke;Slawske;Slavsko;Szlavszke;Sławsko
+Sloboda|RU||9i|3y2|33y|z|Slovoda
+Sladkovo|RU||7z|4a9|5fe|z
+Sleepy Eye|US||2f|3f2|-7b4|y|Sleepyeye;Sleepeye
+Slatino|MK||9u|38v|1mg|y|Slatina;Slatinë
+Sleepy Hollow|US|Illinois|2f|38x|-6ta|x
+Slovenská Ľupča|SK||8s|3rh|1hk|x
+Slivo Pole|BG||9v|3e2|20s|x|Sliwo Pole
+Slade Point|AU||8c|-1mj|bij|w
+Ślesin|PL|Greater Poland|a5|41h|1ev|w
+Slobozia-Câmpineanca|RO||8u|3iy|23d|w|Slobozia-Cîmpineanca
+Slobozia|RO|Neamț County|8u|3m5|21p|v
+Sloatsburg|US||48|36b|-5q3|v
+Slobozia Conachi|RO||8u|3im|256|v
+Slatina-Timiş|RO||8u|3hp|1pw|u
+Słońsk|PL||a5|420|155|u
+Schlieben|DE||8r|3zo|116|u|Sliwin
+Schleife|DE||8r|3z5|14d|u|Slepo
+Sloboda|UA|Sumy|98|3y8|2ld|t
+Slušovice|CZ||9m|3st|1dg|t
+Slobozhanske|UA|Kharkiv|98|3t5|2rn|s|Chapayeve;Chapayevo
+Sławięcice|PL||a5|3vx|1ew|s|Sławęcice
+Schlettau|DE||8r|3wg|zz|r|Šletava
+Slavonice|CZ||9m|3s4|16n|r
+Sławatycze|PL||a5|3zs|1tf|q|Slavatičė;Neudorf;Slavatiche;Slavatyche
+Slobozia|RO|Giurgiu County|8u|3dt|1zy|q
+Slătioara|RO|Olt|8u|3fc|1vk|p
+Slon|RO||8u|3i0|20c|p
+Sluiskil|NL||8m|3yg|ao|o|Sluuskille
+Sleepy Hollow|US|California|3p|2xl|-9gi|o
+Slobozia Moara|RO||8u|3fw|1zg|n
+Slobidka|UA|Odesa|98|3p0|29i|n|Slobodka
+Slovyanka|UA||98|3qg|2u0|n|Slavyanka;Slovianka
+Slootdorp|NL||8m|42s|dt|n|Stlotdorpas
+Sleen|NL||8m|42l|iw|m
+Slavhorod|UA||98|3pm|2qo|m|Slawhorod;Slavgorod
+Slater-Marietta|US||48|2pb|-6d5|m
+Slavkov|CZ|Moravian-Silesian Region|9m|3uo|1dk|l
+Słubice|PL|Mazovia|a5|41h|1je|l
+Slobozia-Ciorăşti|RO||8u|3iq|23k|l|Slobozia-Ciorăeşti
+Slochteren|NL||8m|43u|ix|l
+Slayton|US||2f|3e7|-7e0|l
+Sławoborze|PL||a5|45p|17n|k
+Slovenski Javornik|SI||9a|3kz|135|k
+Ślemień|PL||a5|3u4|1ht|k
+Sleights|GB||9b|47a|-1u|k
+Slocomb|US||2f|2ef|-6lr|k
+Slashchevskaya|RU||a4|3ui|39m|j|Slasjtsjevskaja
+Sluis|NL||8m|3yj|9f|j
+Slavniy|RU||9i|44r|2tb|j
+Slovenská Ves|SK||8s|3sq|1kr|j
+Sloupnice|CZ||9m|3uo|19c|i
+Slater|US|Missouri|2f|30y|-76j|i
+Slabada|BY||9g|461|25h|i|Sloboda;Ozeritskaya Sloboda
+Slobozia|RO|Bacău County|8u|3l3|23v|i
+Slovechne|UA||98|3yq|26r|h|Slovetsjne;Slowetschne;Slovetšne;Sloveçne;Słoweczne;Slovecine;Slavechno;Slovechno
+Sl’ažany|SK||8s|3qf|1ex|h
+Slăveni|RO||8u|3eh|1w5|g
+Sluderno|IT||9o|3ln|te|g|Schluderns
+Zlazne|UA||98|3xh|20u|g|Slasne;Zlazno
+Slatinice|CZ||9m|3to|1bi|g
+Slunj|HR||a6|3hb|17a|g|Szluin
+Slobidka|UA|Zaporizhzhia|98|3lu|2u9|g
+Slava Rusă|RO||8u|3gl|27h|f
+Slater|US|Iowa|2f|38c|-788|f
+Słupno|PL|Mazovia|a5|41i|1ms|f
+Ślesin|PL|Kujawsko-Pomorskie|a5|43p|1d6|f
+Słupia pod Kępnem|PL||a5|3yc|1e4|e
+Sloboda|UA|Chernivtsi|98|3q4|20s|e|Slobozia Rarancei
+Slobozia|RO|Iași County|8u|3mq|245|e
+Szlichtyngowa|PL||a5|3zn|194|e|Schlichtingsheim;Šlihtingova;Szlichtinkowo
+Slane|IE||8z|457|-i6|e|Baile Shláine
+Slamannan|GB||9b|4be|-an|e
+Slobodnica|HR||a6|3hg|1dt|d
+Sleepy Hollow|US|Wyoming|2p|3ev|-84v|d
+Slins|BE||8t|3wx|fg|d
+Slobozhanske|UA|Kharkiv|98|3ts|2r5|d|Komintern
+Slout|UA||98|3zs|2lv|c
+Slavyanskoye|UA||9t|3j1|2kk|c
+Slobozhanske|UA|Kharkiv|98|3ve|2t6|c|Zhovtneve;Zhovtnevoye
+Slinfold|GB||9b|3xv|-15|b
+Slobozia|RO|Iași County|8u|3nw|22p|b
+Sloboda-Komarivtsi|UA||98|3pz|1z7|b|Slobozia Comăreștilor;Sloboda Komarivtsi
+Słupiec|PL||a5|3vt|1mv|b
+Slănic|RO|Arges|8u|3hn|1x5|b
+Słotowa|PL||a5|3ur|1n5|b
+Slovenské Nové Mesto|SK||8s|3qg|1o7|b|Újhely
+Slavonski Kobaš|HR||a6|3hb|1db|a|Slavoriski Kobaš
+Slepče|MK||9u|36j|1mu|a
+Slottsbron|SE||9w|4ks|10e|a|Solttsbron
+Slobozia|RO|Arges|8u|3ff|1xt|a
+Slöinge|SE||9w|4dx|z8|a
+Slevik|NO||9j|4kg|u2|a
+Slătioara|RO|Vâlcea County|8u|3hc|1ug|a
+Slijpe|BE||8t|3y4|7x|a
+Sloan|US|Iowa|2f|39b|-7fb|a
+Sloup|CZ||9m|3t9|1ai|a|Slaup
+Slapy|CZ||9m|3ue|140|a|Slap
+Slaughter|US||2f|2dc|-716|a
+Slobozia Blăneasa|RO||8u|3jm|24c|a|Slobozia-Blăneasa;Slobozia-Bălăneasa
+Slite|SE||9w|4ga|1g8|9
+Sloboda-Banyliv|UA||98|3qf|1ym|9|Slobozia Bănilei
+Słupia|PL|Świętokrzyskie|a5|3wk|1jh|9
+Slobodyshche|UA||98|3uy|274|9|Slobodishche
+Slatine|HR||a6|3cu|19d|9|Bagno di Bua
+Slyvyne|UA||98|3ml|2gh|9
+Slek|NL||8m|3xx|gc|9
+Slavnoye|UA||9t|3j0|2kc|9
+Śledziejowice|PL||a5|3uw|1js|9
+Słupia Kapitulna|PL||a5|3zd|1b4|9
+Slava Cercheză|RO||8u|3gq|27b|9
+Slăvești|RO||8u|3f6|1y0|8
+Slăvuța|RO||8u|3g6|1ts|8
+Slivna|RO||8u|3k0|25m|8
+Slatina nad Zdobnicí|CZ||9m|3va|19j|8|Moorwies
+Słupia|PL|Łódź Voivodeship|a5|402|1jh|8
+Slepčany|SK||8s|3q7|1ey|8
+Služovice|CZ||9m|3uv|1dz|8
+Šlapanov|CZ||9m|3tm|17i|8
+Slașoma|RO||8u|3fe|1s1|8
+Slavnica|SK||8s|3s4|1ei|8
+Sliammon|CA||5b|3um|-9m5|8
+Slătioara|RO|Suceava|8u|3nm|20k|8
+Sladki Vrh|SI||9a|3lp|17q|8
+Słotwina|PL||a5|3u2|1gz|8
+Słupno|PL|Mazovia|a5|41v|1j4|8
+Slobozia|RO|Bacău County|8u|3kk|22f|8
+Slivnica|HR||a6|3ew|16x|8
+Slobodo-Petrivka|UA||98|3v8|2hy|8|Slobodo-Petrovka
+Slatina|CZ|Moravian-Silesian Region|9m|3ub|1dy|8
+Sloboda-Selets|UA||98|3vi|27u|8
+Slavonski Šamac|HR||a6|3h7|1fd|8
+Sluštice|CZ||9m|3v0|14t|8
+Slobozia|RO|Gorj County|8u|3h3|1sj|8
+Slimnic|RO|Vrancea|8u|3if|235|7
+Sloten|NL|North Holland|8m|41e|dc|7
+Sluhy|CZ||9m|3vf|14g|7
+Slimbridge|GB||9b|3zp|-6m|7
+Slobozia|RO|Neamț County|8u|3mq|23b|7
+Slovyanoserbka|UA||98|3mg|2ai|7|Slovianosserbka;Slavyanoserbka
+Slabce|CZ||9m|3uw|123|7
+Slaley|GB||9b|48j|-5o|7
+Sloup v Čechách|CZ||9m|3wy|14j|7
+Sloten|NL|Friesland|8m|42x|fp|7|Sleat
+Slakovci|HR||a6|3hm|1gn|7
+Slavkov|CZ|Zlín|9m|3rz|1cx|7
+Slup|XK||8q|3a3|1kc|7|Sllup;Sllupi;Slub
+Śliwnica|PL||a5|3ui|1q9|7
+Slobozia Botești|RO||8u|3ig|246|7
+Sligo|US||48|367|-64t|7
+Slobozia|RO|Suceava|8u|3or|214|7
+Slătioara|RO|Maramureş|8u|3oo|1ux|7
+Slingsby|GB||9b|46g|-2l|7
+Slătioara|RO|Suceava|8u|3nu|1za|7
+Słupia Wiełka|PL||a5|412|1bu|7
+Slavkov pod Hostýnem|CZ||9m|3t6|1d3|7
+Slobozia Corni|RO||8u|3jr|24c|7
+Sluizen|BE||8t|3x1|fd|7
+Slaná|CZ||9m|3wi|16l|7
+Slezské Rudoltice|CZ||9m|3vh|1d5|6
+Schlepzig|DE||8r|40j|12m|6|Słopišća
+Sladojevci|HR||a6|3j0|1d2|6
+Słupia|PL|Świętokrzyskie|a5|3vy|1mg|6
+Slatina|CZ|Central Bohemia|9m|3vi|13i|6
+Slivnica pri Mariboru|SI||9a|3l4|17i|6
+Slătinița|RO||8u|3n4|1w5|6
+Slobozia|RO|Iași County|8u|3no|22a|6
+Slobidka|UA|Zhytomyr Oblast|98|3w5|28a|6|Slobodka
+Slobozia Sucevei|RO||8u|3oo|20d|6
+Slatina|RO|Arges|8u|3i0|1ww|6
+Slobozia Nouă|RO||8u|3la|23u|6
+Slaka|SE||9w|4i5|177|6
+Slatinky|CZ||9m|3tn|1bh|6
+Slobozia|RO|Arges|8u|3hr|1xy|6
+Slano|HR||a6|3av|1dp|6
+Slopné|CZ||9m|3sk|1dl|6
+Sliporid-Ivanivka|UA||98|3vh|2hy|6
+Slovenská Volová|SK||8s|3s2|1oo|6
+Sławno|PL|Mazovia|a5|3yr|1md|6
+Slovenská Nová Ves|SK||8s|3q5|1cp|6
+Slatiny|CZ||9m|3vx|16q|6|Slatin
+Slovan|US||48|344|-67b|6
+Slovenska Vas|SI||9a|3jo|15x|5
+Slobozia|RO|Bacău County|8u|3k3|23c|5
+Slovenja Vas|SI||9a|3l1|17w|5
+Slobozhanske|UA|Kharkiv|98|3t5|2tm|5|Zhovtneve
+Sloeštica|MK||9u|36n|1mk|5|Sloešnica
+Slătioarele|RO||8u|3gf|21o|5
+Slavče|CZ||9m|3rk|14l|5
+Sloveč|CZ||9m|3vj|16l|5
+Sledge|US||2f|2nn|-6ym|5
+Slobidka|UA|Poltava|98|3uj|2kx|5|Slobodka
+Slobidka|UA|Poltava|98|3w5|2l4|5|Slobodka
+Slobozia|RO|Iași County|8u|3mm|24q|5
+Slakovec|HR||a6|3kx|19i|5
+Slovenské Ďarmoty|SK||8s|3pl|1hm|5|Slovenské ďrmoty

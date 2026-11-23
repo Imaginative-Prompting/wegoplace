@@ -1,0 +1,20 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tijuana|MX||58|2ia|-910|eu1|Tichuana;Tihuana;Tijuano;Tixuana;Tia Juana
+Tychy|PL||a5|3va|1gp|104|Tihi;Tichau;tixa;Tychos
+Tikhoretsk|RU||9i|3jd|33g|hw|Tiĥoreck;Tijoretsk;Tichoreck;Tihhoretsk;Tihorețk;Tixoretsk;Tichorieck;Tichoretsk;Tichorezk
+Tixtla de Guerrero|MX||41|1ct|-7o4|6c|Tixtla;Tixla
+Tixkokob|MX||3z|1mc|-6wb|32
+Timucuy|MX||3z|1lt|-6wn|13|Timucay;Tixmucuy
+Tixtlancingo|MX||41|1be|-7po|10|Tixtlacingo
+Tixcacalcupul|MX||3z|1l2|-6t7|z
+Tixpéhual|MX||3z|1ma|-6wg|z|Tixpéual;Tixpheual
+Tixmehuac|MX||3z|1k8|-6vj|o|Tixmenac;Tiximeuac;Tixmeuac
+Tixcancal|MX||3z|1mg|-6s1|m|Tixcancab
+Tixcacaltuyub|MX||3z|1kx|-6v0|l|Tixcacaltuyú
+Tixhualactún|MX||3z|1lc|-6su|g|Tixhualahtún
+Tixmadeje Chiquito|MX||41|1jh|-7pj|e
+Tixcacal|MX||3z|1m6|-6x7|9|Tizcacal Opichen
+Tixkuncheil|MX||3z|1mk|-6wc|8|Tixkunchell;Tixcuncheil
+Tixcacal Guardia|MX||2b|1j6|-6sy|7|Tixcacal
+Tixcuayuca|MX||41|1mu|-7mh|6
+Tixcuytun|MX||3z|1k5|-6vs|5|Tixcuitum;Tixcuitun

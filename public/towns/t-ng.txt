@@ -1,0 +1,163 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Yangon|MM||7y|1ap|7f4|yjs|Rangun;Rangoon;Rangoun;Rangūnas;Rangum;Jangona;Jangono;Ngióng-kông;Jangún;Rangon;Yanqon;Jangon;Yangjgvangh;Yankoun
+Yinchuan|CN||7i|2yv|877|m27|Thành phố Ngân Xuyên;Ngân Xuyên;Jin-čchuan;Inčuanas;Gîn-chhoan-chhī;Ngṳ̀ng-chiŏng;Yinzconh;Jinčuan
+N'Djamena|TD||17|xn|15s|ahn|Nĝameno;Ndjamena;Ndżamena;Yamena;Indschamina;Ndjemena
+Yichang|CN||7i|2db|8l4|af2|Nghi Xương;Jiĉang;I-čchang;Ngì-chiŏng;Ičan;Gî-chhiong-chhī;I-chang;Ichang
+Yulin|CN|Guangxi|7i|1qv|8hz|85j|Ngṳ̆k-lìng;Jü-lin;Ngiu̍k-lìm-sṳ;Ngọc Lâm;Yoglinz;Gio̍k-lîm-chhī
+Yichun|CN|Jiangxi|7i|25b|8ts|82k|I-čchun;Nghi Xuân;Ngì-chŭng;Nî-chhûn-sṳ;Gî-chhun-chhī;I-ch’un
+Yueyang|CN||7i|29l|8q5|7nf|Ngo̍k-yòng-sṳ;Nhạc Dương;Juejang;Jüe-jang
+Yibin|CN||7i|27w|82o|6gb|Nghi Tân;Ngì-bĭng;Gî-pin-chhī
+Anqing|CN||7i|2cr|915|67h|Anking;An Khánh;An-čching;Ančingas;Nganking;An-ch’ing;Ganking
+Wuzhou|CN||7i|1t8|8l5|5vn|Wu-čou;Ǹg-chû-sṳ;Ngô Châu;Ngouzcouh;Ngù-ciŭ;Ngô͘-chiu-chhī;Wu-chou
+Huangshi|CN||7i|2c1|8vl|5b5|Huangsji;Chuang-š;Huangŝi;Hoàng Thạch;Uòng-siŏh;N̂g-chio̍h-chhī;Khuanshi;Huan-shih;Huang-shih;Huan-shi;Hwangshih
+Nha Trang|VN||6h|y1|8fb|4gu|Ņačana;Ngà-tsông-sṳ;Niačangas;INhatrang
+Thái Nguyên|VN||62|1nz|861|38o
+Huanggang|CN|Hubei|7i|2cl|8v3|2tw|Hwang Chow;Wangchau;Hwang Chau;Uòng-gŏng;Chuang-kang;Hoàng Cương;N̂g-kng-chhī;Wangchou;Hwangchow
+Nghi Sơn|VN||62|1hp|85y|2by
+Quảng Ngãi|VN||6h|160|8e7|25d|Kóng-ngi-sṳ;Kwang Ngai
+Ngaoundéré|CM||j|kd|11q|1u6|Ngaunderė
+Mbanza-Ngungu|CD||t|-em|15a|13o
+Iwakuni|JP||7q|2mw|a7a|zv|Ivakuni;Ngàm-koet-sṳ
+Nguru|NG||u|zs|t2|uu
+Yuxi|CN|Yunnan|7i|1vo|7wu|su|Ngṳ̆k-kă̤;Jü-si;Ngọc Khê;Gio̍k-khe-chhī;Yüki
+Ngong|KE||16|-3r|2tv|sf
+Ngã Bảy|VN||6h|r9|85y|s4
+Hồng Ngự|VN||6h|u0|84n|s4
+Asan|KR||7h|2u6|9ss|r5|Ngà-sân-sṳ;Aszan
+Nghĩa Đô|VN||62|1mh|85w|qs
+Yilan|TW||7l|1ws|9e7|q6|Ilan;Ngì-làn-sṳ;Jilanas;Nghi Lan;Gî-lân-chhī;I-lan
+Negage|AO||x|-lk|16f|pu|N’gage
+New Plymouth|NZ||ak|-30j|dfk|p1|Nueva Plymouth;Aberplymm Nowydh;Naujasis Plimutas;Nieu-Plymouth;Ngāmotu
+Nganjuk|ID||6l|-l5|8mu|j6|Ngandjuk
+Nghĩa Lộ|VN||6h|1o0|82c|iy
+Ngozi|BI||b|-83|2av|h5
+Ngã Năm|VN||6h|ql|85c|ga
+Nguékhokh|SN||g|14b|-1b8|dc|Nguékorh;Nguékoh;Nguékokh
+Nga Sơn|VN||62|1jl|86d|d4
+Ngaoundal|CM||j|i2|10v|b7
+Nguruka|TZ||h|-e7|2e8|av
+Ngororero|RW||s|-56|2ab|as|Ngoholero
+Ngūr|IN||6t|1te|77d|93
+Ngudu|TZ||h|-89|2kl|90
+Nguigmi|NE||18|13l|10f|8w|Ngigmi
+N’Gaous|DZ||3|2qs|fl|87
+Ngunut|ID||6l|-mj|8n6|7b
+Nggosi|SB||av|-q7|cc8|78
+Ngemplak|ID||6l|-kz|8jk|6m
+Ngoro|ID||6l|-lc|8nu|6d
+Ngawi|ID||6l|-kk|8ll|68
+Nghèn|VN||62|1f9|85u|5a|Đại Lộc
+Ngora|UG||q|3z|2lu|4x
+Ngerengere|TZ||h|-ir|2xw|4s|Heerengere
+Ngara|TZ||h|-6z|2d6|4p
+Ngo|CG||a|-6x|17s|42|N’Gao
+Nganda|SN||g|12f|-16u|40
+Ngala|NG||u|ya|13f|3w
+Ngọc Hồi|VN||62|1m4|861|3r
+Ngama|TD|Hadjer-Lamis|17|wr|1bo|3n|Gama
+Ngama|TD|Chari-Baguirmi|17|wq|1bp|3g
+Ngcobo|ZA||o|-2g0|25s|3a
+Ngapali|MM||7y|1f8|7a0|32
+Ngunnawal|AU||8l|-2pp|bi7|32
+Ngorongoro|TZ||h|-90|2ql|30
+Ngouri|TD||17|nn|18h|2x|Ngoun
+Nguinou|CI||0|ir|-bk|2x|N'Guinou
+Nguidjlone|SN||g|18a|-113|2w
+Nguyễn Du|VN||62|1me|861|2t
+Ngaparou|SN||g|146|-1be|2n|N’gaparu
+Ngaruawahia|NZ||ak|-2wn|dik|2d
+Ngurore|NG||u|pt|y0|29
+Ngabu|MW||9|-19t|2oz|27
+Ngou|CM||j|eg|sv|24|Banjou
+Nqutu|ZA||o|-26d|2d8|1t|Ngutu
+Ngambé|CM||j|br|ti|1s|Nganbé
+Nguessankro|CI|Comoé District|0|if|-by|1p
+Ngaio|NZ||ak|-36l|dhh|1l
+Ngema Tribal Trust|ZA||o|-237|2cu|1k
+Nguti|CM||j|et|q6|1j
+Ngongotaha|NZ||ak|-2xs|dlg|1g
+Oula|CN||7i|2mo|7uk|1f|Ogüra;Ou-la;Ngüra
+Nghĩa Đàn|VN||6h|1hm|84v|1e|Nghĩa Hưng;Nghia Hun
+Ngong Ping|HK||6i|1pu|8se|1e
+Ngazutaung|MM||7y|1bt|7f9|1e
+Nguiémé|CI||0|eb|-8h|1d
+Ngatakro|CI|Lacs District|0|jm|-ag|1c
+Nguessankro|CI|Comoé District|0|js|-9a|1c|Guessankrou;Guessankro
+Nganon|CI||0|qw|-gn|1a
+Ngomedzap|CM||j|91|v4|17
+Ngodwana|ZA||o|-1z1|2d8|16
+Ngohinou|CI||0|i6|-cj|16
+Ngata Dorikro|CI||0|k9|-eb|12|Ngatadorikro
+N'Géa|NC||b8|-1px|cud|10|Ngea
+N'Grakon|CI||0|ie|-a4|y
+N'Gouanda|CI||0|i4|-9a|x
+N'Grah|CI||0|jn|-9h|w
+Ngqeleni|ZA||o|-2fz|28n|w
+Ngoloblasso|CI||0|qw|-k2|u|Ngoloblaso
+Ngabangu|ZA||o|-2in|244|s
+Ngandana|CI||0|sg|-gi|s|Nganndana;Ngandanna;Niantana
+Ngwoni|GA||v|-46|12b|r
+Ngar Bat Gyi|MM||7y|1v6|7gw|q|Ngabatgyi
+Nghi Xuân|VN||62|1fu|85r|q
+N'Gbribo|CI||0|hf|-cd|p
+Ngom|CI||0|kh|-e2|p|Gom
+Ngabé|CG||a|-8x|18x|p|N’Gaba
+Ngewa|KE||16|-31|2uf|p
+Ngolodougou|CI|Vallée du Bandama District|0|pd|-ec|o|Ngolodugu
+Ngoro|CM||j|dr|vm|n|Ngorro
+Nguéssambakro|CI||0|i3|-eg|n
+Ngourti|NE||18|16l|10o|m|N’Gourty
+Ngatakro|CI|Yamoussoukro|0|j4|-et|l|Ngattakro
+Nganane|TZ||h|-hs|31v|j
+Nguessan-Brindoukrou|CI||0|jr|-8k|j
+Ngqamakhwe|ZA||o|-2hg|25m|j|Ngamakwe;Nqamakwe
+Nguessankankro|CI||0|m4|-er|i
+Ngisidougou|CI||0|o8|-h3|i
+N'Guessankro|CI||0|m9|-f4|h
+N’gapyé|CI||0|qn|-iz|g|Gapyé;Ngapié
+N'Gatta|CI||0|lw|-eb|g
+Ingwavuma|ZA||o|-23d|2gw|g|Ngwavuma;Ingwavama
+N'Gatta-Yébouékro|CI||0|jx|-cq|g
+Ngassokro|CI||0|j0|-cg|f
+Ngata Kokokro|CI||0|ju|-ci|f
+N'Guessangui|CI||0|f7|-i1|e
+N'Guessan|CI||0|lk|-eh|e
+Ngerbeched Hamlet|PW||ba|kd|adk|e
+Ngerchemai Hamlet|PW||ba|kf|adl|e
+Ngolato|CI||0|kz|-8z|e
+Ngunguru|NZ||ak|-2qy|dgq|e
+Ngatty|CI||0|ep|-c2|d|Ngaty
+Ngagane|ZA||o|-25c|2bc|d
+Ngata Sakassou|CI||0|lq|-e3|d
+Ngam|CI||0|lc|-82|d
+Ngorla|CI||0|nc|-cj|c|Ngorala;Ngorola
+N'Gattakro|CI||0|jb|-fw|c
+Ngukurr|AU||8e|-14x|ae9|c
+Ngatea|NZ||ak|-2vk|dji|c
+Nguessankoa|CI||0|gi|-ay|b|Nguessankoua
+Ngokro|CI||0|k7|-dz|b
+N'Gangoro-Ahitou|CI||0|jj|-e4|b
+Ngermid Hamlet|PW||ba|ke|adm|a
+Ngouan Té|CI||0|jj|-d3|a
+Nguessankro|CI|Lacs District|0|le|-b6|a
+Ngodiou|CI||0|l4|-ay|9
+Ngolondié|CI||0|rr|-kj|9
+Nglobo|CI||0|jk|-dg|9
+Ngwenya|SZ||13|-20v|2e8|8
+N'Gbodo-N'Guessankro|CI||0|ja|-e8|8
+N'Gonwo|CI||0|mu|-j4|7
+Nganglam|BT||7p|22e|71h|7
+Ngerekebesang Hamlet|PW||ba|kf|adh|7
+Ngolodougou|CI|Woroba|0|nc|-l7|7|N’Golodougou;Ngorondougou
+N Gotran|CI||0|lb|-fd|7
+N'Gbédjo-Kongodja|CI||0|ky|-ev|7
+Ngala|CI||0|n8|-c4|7
+Ngatik|FM||bc|g3|c4k|6
+Ngerkeseuaol Hamlet|PW||ba|ke|adl|6
+N'Golokaha|CI||0|s1|-gu|6
+Ngraçan|AL||9y|34w|1iz|6|Graçan
+N'Gamonsso|CI||0|ly|-l9|6
+Ngata Kongouakro|CI||0|m4|-ep|5|Ngata-Kongouakro
+Ngata Nguessamblékro|CI||0|jl|-dy|5|Ngataguessanblékro
+Ngerulmud|PW||ba|ku|ady|0

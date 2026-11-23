@@ -1,0 +1,36 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ksar El Kebir|MA||d|2p8|-ge|12f
+Errachidia|MA||d|2gp|-cb|s1|Ksar es-Souk;Er-Rachidía;Al-Rashidiyya;Rachidia;Rašidija;Er Rachidia;Ar-Raszidijja;ar-Rachīdīya
+Kstovo|RU||9i|4bz|3es|io|Kstowo
+Ksar el Boukhari|DZ||3|2rp|7n|gk
+Ksar|MR||19|1ea|-18c|g2
+Ksar Hellal|TN||1e|2r1|u9|fe
+Ksar Chellala|DZ||3|2pt|6g|eb
+Ksour Essaf|TN||1e|2qe|uj|ah|Qsour Essaf;Ksour Essef
+Xanten|DE||8r|3zi|hx|60|Santen;Xantum;Ksanten;Sante;Castra Vetera
+Ksibet el Mediouni|TN||1e|2r5|u4|41|Ksiba-el-Mediouni;Ksib-el-Mediouni
+Ksiba|TN||1e|2rd|tj|35
+Krzeszowice|PL||a5|3va|1ij|2s|Kšešovice
+Esashi|JP|Hokkaido|7q|38a|at9|29|Ksashi;Esasi
+Kshenskiy|RU||9i|400|2wr|1t|Ksjenskij
+Księże|PL||a5|3xw|1bh|1s
+Krzyż Wielkopolski|PL||a5|42w|18h|1r|Krziż;Kšiža Velkopolska;Krzyż
+Ksawerów|PL||a5|3zk|1hw|1r
+Księże Małe-Księże Wielkie|PL||a5|3xv|1bh|1j
+Krzepice|PL||a5|3xl|1g1|19|Kšepice
+Ksamil|AL||9y|32h|1jk|u
+Książ Wielkopolski|PL||a5|40m|1bw|r|Książ
+Examília|GR||8p|2xa|1rp|r|Ksamili;Examílion;Examíllia;Eksamilia
+Książenice|PL|Silesia|a5|3vc|1fo|p
+Xiniás|GR||8p|30g|1pz|n|Xyniada;Xinía;Ksyniada
+Krzanowice|PL||a5|3uy|1ec|l|Kšanovice;Krzonowice
+Krzywiń|PL||a5|40c|1aq|g|Kšiviņa
+Księżomierz|PL||a5|3xf|1p3|c
+Księżpol|PL||a5|3w2|1r6|b
+Ksar Kaddour|DZ||3|2a7|11|a
+Xinó Neró|GR||8p|351|1o2|9|Ksino Nero;Xinón Nerón
+Ksyróvrisi|GR||8p|2yu|1th|9|Xirovrysi
+Xilokériza|GR||8p|2x8|1rq|8|Ksylokeriza;Xylokeriza;Ksilokeriza
+Książ Wielki|PL||a5|3w4|1jy|8
+Książnice|PL||a5|3ur|1ke|7
+Książenice|PL|Mazovia|a5|40o|1li|6

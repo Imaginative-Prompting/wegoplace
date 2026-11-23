@@ -1,0 +1,40 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Brest|BY||9g|40r|1tw|2of|Brześć;Breszt;Bressicia
+Brzeg|PL||a5|3xa|1cj|an|Brieg;Bžega;Bžegas
+Břeclav|CZ||9m|3rg|1aw|76|Lundenburg;Brzecław;Brecizlavia;Bržeclavs;Bržeclavas;Bržeclava
+Berezhany|UA||98|3td|1xa|4x|Brzeżany;Bereschany;Béréjany;Berejani;Berezjany;Berežany
+Brzesko|PL||a5|3ut|1l9|4p
+Brzeg Dolny|PL||a5|3yf|1af|3h|Bžegdolni;Dyhernfurth;Dyernfurtė;Dolny Brzeg
+Brzeziny|PL|Łódź Voivodeship|a5|3zw|1iv|3f|Bžezini
+Brzeźno Gdańskie|PL||a5|474|1fr|31
+Brzeszcze|PL||a5|3uu|1h7|31|Bžešče
+Brzozów|PL||a5|3u2|1p6|26|Bžozova;Brozovia
+Brzeziny Śląskie|PL||a5|3vv|1gq|1d
+Brześć Kujawski|PL||a5|425|1gi|19|Kujavijos Brestas;Bžesca Kujavska
+Brzóza Królewska|PL||a5|3vk|1q1|y
+Brzeźnica|PL|Subcarpathia|a5|3v6|1no|s
+Brzostek|PL||a5|3uk|1nh|q|Bžosteka;Brzhostik
+Brzezinka|PL|Lesser Poland|a5|3v0|1hb|l
+Brzeziny|PL|Świętokrzyskie|a5|3x1|1l5|k|Brzeiny
+Brzyska|PL||a5|3ue|1nf|j|Brzyski
+Brzozie|PL||a5|445|1ig|g
+Brzeźnica|PL|Lesser Poland|a5|3us|1ii|d
+Brzączowice|PL||a5|3uj|1jo|c
+Brzóza Stadnicka|PL||a5|3vg|1pw|c
+Brzeźnica|PL|Lesser Poland|a5|3us|1kx|c
+Brzeźnio|PL||a5|3z1|1fq|c|Brzeźno
+Brzeżno|PL||a5|456|17v|a|Briesen
+Brzoskwinia|PL||a5|3v5|1ir|9
+Brzeźnica|PL|Lubusz|a5|3zn|16r|9
+Brzeziny|PL|Greater Poland|a5|3zc|1eq|9
+Brzezie|PL||a5|3v8|1j2|8
+Brzyskorzystewko|PL||a5|42x|1d5|8|Erlhof
+Brzezowa|PL||a5|3ui|1jq|8
+Brzezinka|PL|Lesser Poland|a5|3ug|1hn|7
+Brzóstowa|PL||a5|3xd|1no|7|Brzustowa
+Brzeźnica|PL|Lower Silesia|a5|3we|1ah|6
+Brzezinka|PL|Lesser Poland|a5|3va|1iu|6
+Brzeźnica|PL|Silesia|a5|3vb|1em|6
+Brzozowa Gać|PL||a5|3ys|1pm|6
+Brzozie Lubawskie|PL||a5|446|1ic|6
+Brzeźnica Bychawska|PL||a5|3z5|1r7|5|Brzeźnica Bychowska

@@ -1,0 +1,136 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Luzhou|CN||7i|289|84v|7ph|Lutsjou;Lu-čou;Lô Châu;Lù-ciŭ;Lô͘-chiu-chhī;Lu-chou
+Loja|EC||33|-b3|-640|245|Locha;Loha
+Xuân Lộc|VN|Dong Nai|6h|ud|89v|1yb
+Bảo Lộc|VN||6h|w3|8bh|1bh
+Lucca|IT||9o|3ds|t6|mp|Lucques;Lukka;Luca;Locca
+Lokossa|BJ||1b|ig|4s|d4|Locossa
+Le Cannet|FR||9k|3d2|ji|c2|Cannet;Lo Canet
+Luoqi|CN||7i|2ak|891|a9|Lochi;Lo-ch’i
+Natick|US||48|39g|-5i7|8z|Locus Collium
+Lochearn|US||48|31a|-5x4|71
+Lockport|US|Illinois|2f|37j|-6sm|70
+Wexford|IE||8z|41d|-hy|5z|Loch Garman
+Lockport|US|New York|48|3bx|-62l|5q
+Lochristi|BE||8t|3xy|an|5h|Loochristi;Loochristy
+Lochapada|IN||6t|1hp|6jk|4k
+Locarno|CH||a7|3k9|og|4e|Lokarno;Lokarnas;Locarn;Locarnum;Locarnu
+Levoča|SK||8s|3s6|1l7|3w|Lewocza;Lőcse
+Lockhart|US|Texas|2f|2b0|-7jb|3q
+Lockhart|US|Florida|48|27i|-6a8|3n
+Lochem|NL||8m|40w|ht|3g
+Lộc Ninh|VN||6h|ww|883|2x|Loc Nin’
+Locri|IT||9o|2y8|196|2x|Locres Epizefiris;Locros
+Lock Haven|US||48|36a|-5z5|2o
+Lộc Bình|VN||62|1og|890|2m|Loc Rinh;Lok-binh
+Locate di Triulzi|IT||9o|3i0|pn|2i|Leucatum;Locaa;Locate Triulzi
+Lochdale|CA||5b|3sv|-9hk|2d
+Locorotondo|IT||9o|358|1c4|23
+Loches|FR||9k|3mx|2s|1z
+Lockwood|US|Montana|2p|3ja|-8d5|1w
+Carbon-Blanc|FR||9k|3gq|-1e|1w|Lo Carbon Blanc;Carbon Blanc
+Lochgelly|GB||9b|4bx|-97|1u
+Łochów|PL||a5|41x|1o8|1t|Lohova
+Locharbriggs|GB||9b|492|-9y|1o
+Pimonte|IT||9o|34z|14b|1n|Locus qui apud Montes;Pimunti
+Locust Grove|US|Georgia|48|2kn|-6hn|1m
+Lucapon|PH||71|17m|995|1m|Lacapon;Locapon
+Lochau|AT||a2|3o1|r3|1l
+Loch Raven|US||48|31c|-5wq|1k
+Lockleys|AU||8b|-2p1|aot|1j
+Lochbuie|US||2p|335|-82w|1i
+Löchgau|DE||8r|3s4|pb|1i
+Lochmoor Waterway Estates|US||48|220|-6bj|16
+Lockerbie|GB||9b|494|-9c|16|Logarbaidh
+Locmiquélic|FR||9k|3ol|-9a|16|Lokmikaelig
+Locate Varesino|IT||9o|3ix|ot|15|Locatum;Locaa
+Le Chenit|CH||a7|3lh|hb|15|Lo Chenit
+Le Cannet-des-Maures|FR||9k|3cj|hm|14|Lo Canet dau Luc;Lo Canet dei Mauras;Cannet-des-Maures
+Locminé|FR||9k|3p1|-7w|14|Logunec'h;Logunech
+Loctudy|FR||9k|3ov|-bl|13|Loktudi;Locus Tudini
+Cheval-Blanc|FR||9k|3do|e2|12|Lo Chivau Blanc
+Le Cheylard|FR||9k|3gr|ca|12|Lo Chailar;Cheylard
+Loch Lomond|US||48|2zr|-5z8|11
+Loperhet|FR||9k|3qe|-bz|z|Loperc'hed;Loperched;Locus Brigidae
+Lockland|US||48|30z|-6im|y
+Locust Valley|US||48|35k|-5og|y|Lokusta Valo
+Lockridge|AU||8k|-2gk|8y3|y
+Lockeford|US||3p|2y0|-9cj|w|Locke's Ford
+Lohtaja|FI||92|4xu|1ta|u|Lochteå
+Locust|US||48|2py|-67f|u
+Le Chambon-sur-Lignon|FR||9k|3h6|by|t|Chambon-sur-Lignon;Lo Chambon;Chambon-sur Lignon;Le Chambon
+Löcknitz|DE||8r|441|wq|t
+Lochwinnoch|GB||9b|4b0|-cv|t|Loch Eanach;Loch Uinneach
+Locust Point|US||48|313|-5wr|t
+Ligugé|FR||9k|3l8|x|s|Locociacum
+Lochsloy|US||3p|3ph|-9ez|p|Lochloy
+Lockport|US|Louisiana|2f|2ad|-6zi|p
+Le Cailar|FR||9k|3dc|bs|p|Lo Cailar;Cailar
+Lochgilphead|GB||9b|4bo|-f3|o|Loxqilpxed;Ceann Loch Gilb
+Locoal-Mendon|FR||9k|3oj|-8n|n|Lokoal-Mendon;Locus Guduali
+Locon|FR||9k|3wh|7f|n
+Lochmaben|GB||9b|495|-9k|l|Loch Mhabain
+Locmayan|PH||71|t3|9gc|k|Lucmayan
+Locking|GB||9b|3yl|-83|h
+Lockney|US||2f|2ms|-7ts|h
+Locara|IT||9o|3i5|vh|h
+Lok|RS||8q|3hm|1k5|f|Sajkáslak;Lock;Loók
+Locmariaquer|FR||9k|3o5|-87|f|Lokmaria-Kaer
+Locust Grove|US|Oklahoma|2f|2sk|-7cd|e
+Locquirec|FR||9k|3r9|-a5|e|Lokireg;Locus Kireci
+Loshchynivka|UA||98|3ib|282|e|Cairaclia;Loschynivka;Lochtchynivka
+Lochovice|CZ||9m|3uh|12u|d
+Locquémeau|FR||9k|3rc|-9w|d
+Lockport Heights|US||2f|2ad|-6zj|d
+Lockyer|AU||8k|-2p9|93e|d
+Loché|MX||3z|1nf|-6sv|c
+Locust Fork|US||2f|2m7|-6om|c
+Lokhovo|UA||98|3qr|1r0|c|Beregszőllős;Lochovo;Lokhove
+Lopérec|FR||9k|3q4|-b9|b|Lopereg;Locus Petroci
+Lochau|DE||8r|3ys|xh|b
+Lokavec|SI||9a|3ji|12k|b|Loccaviz;Locavizza di Aidussina;Lokovec
+Loceri|IT||9o|32q|qm|b
+Lockenhaus|AT||a2|3np|19m|b|Léka
+Lloqan|XK||8q|3a4|1kc|b|Loćane;Loçan;Lloçan;Lloçani
+Lamlash|GB||9b|4a9|-e9|a|An t-Eilean Árd;Loch an Eilein
+Lockhart|AU||8l|-2pu|bbk|a
+Chambon-sur-Voueize|FR||9k|3kb|6q|a|Lo Chambon de Sent Sarnin
+Locumba|PE||3o|-1cx|-5gk|a
+Locust Point Industrial Area|US||48|313|-5wr|a
+Lockwood South|AU||8j|-2uc|b4g|a
+Locmaria-Grand-Champ|FR||9k|3oo|-7r|9|Lokmaria-Gregam
+Locunolé|FR||9k|3p6|-9o|9|Lokunole;Locus Guengualoei
+Locogrande|IT||9o|2xd|yr|9
+Lockwood|US|Missouri|2f|2vv|-78z|9
+Le Coux|FR||9k|3gj|2p|9|Lo Cos e Bigaròca
+Locronan|FR||9k|3pm|-bp|8|Lokorn;Locus Ronani
+Ločica ob Savinji|SI||9a|3ki|15y|8
+Lockington|AU||8j|-2sr|b5i|8
+Locusteni|RO||8u|3e5|1uo|8
+Lochen|AT||a2|3pd|10m|8
+Locquénolé|FR||9k|3r2|-aq|8|Lokenole;Locus Guenolay
+Lochinvar|AU||8l|-2iu|boq|8
+Luzzana|IT||9o|3j0|rg|8|Locosiana;Lössàna
+Lockhart River|AU||8c|-zj|b26|8
+Lockwood|AU||8j|-2u9|b4g|8
+Loch Sport|AU||8j|-2xo|bdz|8
+Lockesburg|US||2f|2md|-79l|7
+Locana|IT||9o|3i5|kq|7|Locan-a
+Locatello|IT||9o|3jc|qh|7
+Claviers|FR||9k|3d4|i8|7|Lo Clavièr;Clavier
+Loch Lloyd|US||2f|2zv|-7as|7
+Loče|SI||9a|3km|172|7
+Loughshinny|IE||8z|44r|-gw|7|Loch Sionnaigh
+Loch|AU||8j|-2yl|b8r|6
+Lutzmannsburg|AT||a2|3nu|1a8|6|Locsmánd;Lucman
+Ločenice|CZ||9m|3rm|14d|6
+Loché-sur-Indrois|FR||9k|3mt|3e|6
+Le Change|FR||9k|3hk|2h|6|Lo Chamnhe
+Lockrose|AU||8c|-24d|bri|6
+Loker|BE||8t|3x2|7p|6|Locre
+Lockyer Waters|AU||8c|-249|brd|5
+Loch Lynn Heights|US||48|31f|-64h|5|Lock Lynn Heights
+Lockhart|US|Alabama|2f|2e5|-6nv|5
+Lochenice|CZ||9m|3vn|17y|5|Lochenitz

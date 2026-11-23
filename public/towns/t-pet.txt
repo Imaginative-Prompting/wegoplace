@@ -1,0 +1,402 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Perth|AU|Western Australia|8k|-2gr|8xu|iec|Pertas;Peairt;Perto;Pērta;Pirth;Pet;Pert
+Pietermaritzburg|ZA||o|-2aa|2cf|6h5|Pitermaricburgas;Petromaritzburgum;Mokokotlofo;Pitermaricburg;Pietermaritsburg
+Petaling Jaya|MY||6v|8n|7u9|68f
+Sungai Petani|MY||6v|fp|7r5|47d|Sungai Patani;Sungei Patani
+Beihai|CN|Guangxi|7i|1no|8f4|41x|Pej-chaj;Pet-hói-sṳ;Bắc Hải;Baekhaij;Báe̤k-hāi;Beihajus;Pak-hái-chhī;Pei-hai
+Bắc Giang|VN||62|1n3|86z|3h0|Pet-kông;Bakziangas
+Taman Petaling|MY||6v|8w|7ud|39j
+Petrolina|BR||4p|-q4|-34i|388
+Pétionville|HT||4j|1ff|-5kt|2wo|Petyon-Vil
+Petare|VE||2c|t4|-55l|2tb
+Petrópolis|BR||4w|-1qi|-3by|29x
+Petrozavodsk|RU||9i|4rm|2nf|25k|Petrosawodsk;Petroskoi;Petrozawodzk;Petroskoj;Pietrozawodsk;Äänislinna;Petrozawodsk;Petrosavodsk;Pjetrozawodsk;Petrozavodszk
+Polokwane|ZA||o|-1ue|29v|23p|Pietersburg;Polokvanė;Petriburgum;Pietrsburg
+Petaẖ Tiqva|IL||6n|2h5|2ox|234|Mulebbis;Petah Tikwah;Pethah Tiqvā;Petaẖ Tikva;Petaẖ Tiqwa;Petach Tikva;Petach Tikwa;Petah-Tikva;Petaj Tikva
+St. Petersburg|US||48|255|-6do|1zf|Saint Petersburg;Saint Pete
+Petropavl|KZ||5s|48f|5c3|1jt|Petropawl;Pietropawłowsk;Kızılyar;Petropawlowsk
+Petropavlovsk-Kamchatsky|RU||6p|43e|c8n|1ec|Petropawlowsk-Kamtschatski;Petropávlovsk-Kamchatski;Petropavlovsk-Kamtchatski;Pietropawłowsk Kamczacki;Petropàvlovsk-Kamtxatski;Petropavlovsk-Kamčatskij;Petropavlovsk-Kamtšatski;Petropavlovsk-Kamtsjatski;Petropavlovsk Kamciațki;Petropavlovsk-Kamtsjatskij;Petropavlovsk-Kamchatskiy;Petropawlofsk-Kamtsjatski;Petropavlovsk-Kamçatski;Petropavlovsk-Kamtjatskij;Petropavlovszk-Kamcsatszkij;Petropavlovsk Kamchatsky;Petropaulovscum Camtschaticum;Kamčiatkos Petropavlovskas;Petropavlovska-Kamčatska;Petropavlovsk Kamčatski;Petropavlovsk Kamčatkal;Petropavlovsk Kamchatski
+Peterborough|GB||9b|421|-p|19e|Petroburgum;Pīterboro;Piterboras;Peterbrough;Petersborough
+Rosemont–La Petite-Patrie|CA||59|3ii|-5oh|14p
+Petapa|GT||32|14a|-6zk|11m
+Petrogradka|RU||9i|4ml|2c7|109
+Saint Peters|GB||9b|3yp|3y|yu
+Tigwav|HT||4j|1f7|-5mf|wn|Petit-Goâve;Petit Goâve
+Petržalka|SK||8s|3po|1bl|v8|Pozsonyligetfalu
+Peterborough|CA||59|3f2|-61k|nu|Piterboro
+Voznesenskyi|UA||98|3p5|2wj|nq|Petrovskyi;Petrovskyi rayon;Petrovskoye;Petrovskiy
+Piotrków Trybunalski|PL||a5|3yt|1iq|m9|Pjotrkova Tribunalska;Petrakavas
+Peterhof|RU||9i|4mc|2b2|kc|Petergof;Pietarhovi;Pjetergof;Petrodvorets
+Petrodvorets|RU||9i|4me|2as|h8
+Pecangaan|ID||6l|-im|8jj|gy|Petjangaan;Pecangakan
+Petaluma|US||3p|2y7|-9go|gs|Petaloma
+Petroúpolis|GR||8p|2xo|1ts|ge
+Petauke|ZM||z|-13k|2f0|g6
+Petlād|IN||6t|1qg|5m8|fd
+Phetchabun|TH||62|19m|7t0|e3|Pechabun;Petchabun
+Phetchaburi|TH||62|10f|7pm|cy|Fetçaburi;Pechaburi;Petchaburi
+Pechora|RU||9i|50z|4ey|ct|Peczora;Petschora;Peĉora;Petšora;Petsjora;Petchora;Petxora;Byen Petsjora;Pečor;Petjora
+Petroşani|RO|Hunedoara County|8u|3i6|1sx|ca|Petrozsény;Petroşeni;Pietroşani
+Petrolândia|BR|Pernambuco|4p|-oy|-2y6|a1
+Petagas|MY||6w|gf|8yd|9y
+Périgueux|FR||9k|3hj|1z|9o|Perigüers;Perigė;Petrocorium;Perigús;Périguex
+Petrovsk|RU|Saratov Oblast|9s|41b|3i3|9c|Pjetrowsk;Petrowsk
+Petersburg|US|Virginia|48|2vf|-5z0|91
+Petrich|BG||9v|370|1sh|8j|Pétritch;Petritsj;Petritš;Petričius;Petrici;Petriç;Petricz;Petritsch
+Petrovskaya|RU|Moscow Oblast|9i|4ab|2wy|8c
+Pierrefitte-sur-Seine|FR||9k|3s1|6k|7r|Petraficta ad Sequanam
+Petershagen|DE|North Rhine-Westphalia|8r|41i|ox|7j
+Petrila|RO||8u|3i9|1t2|70
+Petit-Bourg|GP||31|18z|-4r3|6y
+Pethāpur|IN||6t|1sm|5lv|6j
+Le Petit-Quevilly|FR||9k|3t9|2y|6b|Petit-Quevilly;Le Peti Keviji
+Petatlán|MX|Guerrero|41|1cq|-7tb|61|Petlatlán;Potatlan
+Bad Pyrmont|DE||8r|40f|pp|60|Petrimons
+Peterlee|GB||9b|484|-3q|5n|Peterlis
+Peto|MX||3z|1jx|-6v0|5i
+Petrovsk-Zabaykal’skiy|RU||67|3yg|8ed|5h|Petrovsk-Zabajkalskij;Petrovsk-Zabaikalski;Petrovski Zabaikalski;Petrovsk Zabaikal’skiy
+Peterhead|GB||9b|4fr|-4y|5b|Peterheid;Ceann Phàdraig;Pyterhedas
+Petworth|US||48|307|-5xy|5a
+Ptuj|SI||9a|3ky|183|50|Pettau
+Petawawa|CA||59|3jh|-5yo|4s
+Petitgoa I|CI||0|h0|-in|4l|Petigoa
+Petersberg|DE|Hesse|8r|3wg|qz|4k
+Svyatopetrivske|UA||98|3vy|2c8|4i|Petrivske
+Petit Grabo|CI||0|en|-kb|4h
+Petershausen-West|DE||8r|3of|pi|4g
+Petushki|RU||9i|4bd|31m|4f|Petusjki;Petuschki;Petouchki;Petuški;Petoesjki;Petuixkí;Petuškad;Pietuszki
+Petlāwad|IN||6t|1rx|5rs|48
+Perchtoldsdorf|AT||a2|3po|197|46|Pädaschduaf;Petersdorf
+Petersfield|GB||9b|3xo|-2l|46
+Petrov Val|RU||a4|3va|3hl|45|Petrow Wal;Pjetrow Wal;Pietrow Wał
+Wādī Mūsá|JO||5t|2c8|2qk|3w|Petra
+Petrovaradin|RS||8q|3hp|1j8|3v|Peterwardein;Pétervárad;Petervaradin
+Petrovskaya|RU|Krasnodar Krai|9i|3i7|2xg|3p|Petrovskaja
+Pechory|RU||9i|4gm|24p|3o|Petseri;Petsjory;Petschory;Petchory;Pečory;Petzuria;Peĉori;Pieczory;Pječory;Pechery
+Petrinja|HR||a6|3i8|199|3m|Petrinia;Petrinya
+Petershagen|DE|Brandenburg|8r|41w|12b|3l
+Petrovo-Krasnosillya|UA||98|3q6|300|3i|Petrovs’ke;Petrovske;Petrovo-Krasnosillia;Petrovskoye
+Petite-Île|RE||ai|-1nb|4ac|3i|Petite Île
+Petukhovo|RU||7z|48z|58m|3g
+Petoa|HN||56|16f|-6t9|3d
+Petal|US||2f|2f3|-6vy|2z
+Petegem-aan-de-Leie|BE||8t|3xl|9t|2v
+Petrikov|BY||9g|40t|276|2v|Pyetrykaw;Pietrykaŭ
+Petrusburg|ZA||o|-28w|1yl|2t
+Petite-Bourgogne|CA||59|3id|-5od|2s|Little Burgundy
+Petaquillas|MX||41|1cl|-7oa|2q|Petaquilla
+Petrolina de Goiás|BR||4w|-18p|-3t2|2o
+Petritor - Ost|DE||8r|417|t7|2o
+Petit Raffray|MU||ag|-1jm|4g2|2m
+Pieszyce|PL||a5|3wv|1a2|2m|Pešice;Peterswaldau
+Petit Badien|CI||0|em|-cw|2i
+Bačko Petrovo Selo|RS||8q|3iz|1js|2i|Petrovoszelló;Péterréve;Petrovosello
+Petit-Couronne|FR||9k|3t6|2u|2g
+Petit-Canal|GP||31|19i|-4qt|2e|Petit Canat
+Petrie|AU||8c|-23r|bsy|2d
+Petone|NZ||ak|-36j|dhr|2c
+Petit Valley|TT||4k|tq|-4qz|29
+Petersham|AU||8l|-2m5|bnv|28
+Petropavlovka|RU||6k|3wl|84k|24
+Petřvald|CZ|Moravian-Silesian Region|9m|3uf|1f3|22
+Petershausen-Ost|DE||8r|3of|pj|20
+Bački Petrovac|RS||8q|3i0|1if|20|Petrovec;Petrőc;Petrovac;Petrovácz
+Pétange|LU||9c|3to|gc|20|Gemeng Péiteng;Péiteng;Petanžas;Petingen
+Pettāmpālaiyam|IN||6t|vj|5zh|20|Pethampalayam
+Petrove|UA|Kirovohrad|98|3qa|2kf|20
+Petite-Rosselle|FR||9k|3sp|j2|1y|Petite-Rousselle
+Petropavlivka|UA|Dnipropetrovsk|98|3qm|2t7|1x
+Kamyanka|UA|Chernivtsi|98|3pf|1zy|1w|Kamianka;Petriceni
+Pietraperzia|IT||9o|2vy|13a|1w|Petrapirzia
+Petalcingo|MX||41|1bv|-74q|1w|Petalsingo
+Petrosino|IT|Sicily|9o|2wr|yq|1w|Pitrusinu
+Petrolândia|BR|Santa Catarina|4w|-24i|-3u2|1v
+Petrovka|UA||9t|3ie|2n9|1v
+Petra-Dubrava|RU||9p|442|3vx|1v|Petra Dubrava
+Petrova Dubrava|RU||9p|442|3vx|1v|Petra Dubrava
+Petropavlovskaya|RU|Krasnodar Krai|9i|3h8|34d|1u|Petropavlovskaja
+Lettelingen|BE||8t|3ws|bc|1u|Petit-Enghien;P'tit Ingî;Parva Angia;Pitit-Inguî
+Piechowice|PL||a5|3x9|17c|1t|Petersdorf;Pehovice
+Petropavlivska Borshchahivka|UA||98|3w3|2c9|1t|Petropavlivs’ka Borshchahivka
+Petreşti|RO|Dâmbovița County|8u|3g1|1yd|1o
+Sartich’ala|GE||7n|37w|3hi|1o|Sart'ichala;Marienfeld;Petersdorf
+Petershausen|DE||8r|3qh|vv|1o|Bedashausn
+Petritor - Nord|DE||8r|418|t6|1n
+Balabyne|UA||98|3om|2pt|1n|Petrivska
+Petrovice|CZ|Prague|9m|3uz|14f|1m
+Petoskey|US||2q|3i1|-6k0|1l
+Petilia Policastro|IT||9o|30n|1am|1l
+Petrolia|CA||59|3b4|-6c7|1k
+Petricani|RO|Neamț County|8u|3n1|21j|1k
+Petrelë|AL||9y|36l|1j5|1j|Petrela
+Petite Rivière|MU||ag|-1k4|4fl|1h
+Petrovsk|RU|Yaroslavl Oblast|9i|4ed|313|1h
+Pechenizhyn|UA||98|3qs|1x4|1g|Peczeniżyn;Pétchénijyn;Petschenischyn;Petjenizjyn;Pečenižyn;Peçenijın
+Pétyonara|CI||0|nf|-e7|1g|Pétionara
+Petersaurach|DE||8r|3sy|tv|1f
+Pechenihy|UA||98|3uj|2um|1f|Pechenegi;Petschenihy;Petchenegui;Pechenigi;Pečenihy;Peçenigı;Peczenihy;Petxenigui
+Petite-Forêt|FR||9k|3vx|9o|1e
+Pochayna|UA||98|3w9|2cq|1e|Petrivka;Pochaina;Petrovka
+Petrovice u Karviné|CZ||9m|3um|1fj|1e|Piotrowice koło Karwiny
+Petrykivka|UA||98|3rd|2o6|1d|Petrikovka
+Petit-Bondoukou|CI||0|fk|-ih|1d
+Pétfürdő|HU||8v|3n1|1ec|1d
+Buialyk|UA||98|3mb|2dc|1a|Petrivka;Petrovka
+Peterculter|GB||9b|4em|-6b|1a|Cultair
+Bistra|RO|Maramureş|8u|3oz|1v8|17|Petrovabisztra;Bystryi
+Pété|SN||g|18r|-12r|16
+Petrești|RO|Alba County|8u|3jk|1tg|15
+Pécsvárad|HU||8v|3k8|1f6|14|Petschwar;Pečvar
+Pechersk|RU||9i|48d|2gz|14|Petsjersk
+Petrítsi|GR||8p|2ut|1oo|13
+Petrokamenskoye|RU||7z|4gc|4oh|11|Petrokamenskoje
+Petropavlovskaya|RU|Chechnya|9i|3ci|3jb|11|Petropavlovskaja;Çur-Toġe;Çurttoġe;Çurttoġi;Ġoy-Ġala
+Petäjävesi|FI||92|4sx|1y0|z
+Petsamo|FI||92|4qv|1u4|z
+Petit-Rechain|BE||8t|3wl|g7|z
+Petit-Pédro|CI||0|d9|-i7|z
+Petritor - West|DE||8r|417|t5|z
+Petit|CI|Goh-Djiboua|0|fr|-eu|z
+Petersfield|JM||3i|1eq|-60v|z
+Pietroasa|RO|Bihor County|8u|3le|1qn|y|Vasaskőfalva;Petroasa
+Pietroşani|RO|Teleorman County|8u|3df|1z8|y|Petrosani
+Petrivske|UA||98|3sl|2ui|x|Petrovskoye;Petrivs’ke;Petrovskaya
+Pettendorf|DE||8r|3t3|yc|x|Petendorf
+Petrignano|IT||9o|3bq|yt|w
+Petrodolynske|UA||98|3kz|2cg|v|Petrodolyns’ke
+Peterborough|US||48|3b3|-5jv|v
+South Petherton|GB||9b|3xj|-7t|v|Petherton Theas
+Petőfibánya|HU||8v|3op|1iq|v
+Petrykiv|UA||98|3tl|1z2|u|Petrikov
+Pétra|GR|North Aegean|8p|319|20q|u
+Petrivka-Romenska|UA||98|3vx|2lr|u|Petrovka-Romenskaya;Petrivka-Romens’ka
+Petrovirivka|UA||98|3n8|2c9|u|Zhovten;Petrowiriwka;Pietrowiriwka
+Petersburg|US|Alaska|4y|4dt|-a9c|t|Peterburgo
+Petrovskiy|RU|Ivanovo Oblast|9i|4dc|340|t|Petrovskij;Petrovskii;Petrovskaya
+Petranka|UA||98|3rv|1vj|t
+Pleternica|HR||a6|3ht|1dh|t|Pleterniceszentmiklós;Peternica
+Petrăchioaia|RO||8u|3fu|213|t|Petrichioaia
+Petacciato|IT||9o|38p|15a|t
+Petrovo-Dal’neye|RU||9i|4av|2v9|t|Petrovo-Dalneje
+Petropavlovskoye|RU||63|40n|6hn|s|Petropavlovskoje
+Pechenga|RU||9i|5d5|2el|s|Petschenga;Petsamo;Petsjenga;Pieczenga
+Petralia Sottana|IT||9o|2x1|135|r|Pitralia Suttana
+Petelea|RO||8u|3lt|1wn|r|Petele
+Petacalco|MX||41|1dy|-7vn|r
+Petrochóri|GR||8p|365|1x0|r|Petrokhóri
+Petra|ES||9d|321|8n|r
+Petrushiv|UA||98|3pk|1u2|r|Petrushov
+Petrova|RO||8u|3ov|1va|r
+Petit-Mars|FR||9k|3nn|-41|q|Kervarc'h;Kervarch;Parvus Marcius
+Petlalcingo|MX||41|1e8|-7k0|q
+Pétervására|HU||8v|3pe|1ju|q
+Petalídi|GR||8p|2uo|1ox|q|Petalídhi
+Petorca|CL||4u|-2hl|-5h1|p
+Petworth|GB||9b|3xn|-1p|p
+Petersburg|US|West Virginia|48|30b|-63s|p|Petroburgum
+Petropavlivka|UA|Kharkiv|98|3u4|2wr|p|Petropavlovka
+Petronà|IT||9o|30g|1ak|o
+Pitelino|RU||9i|47m|385|o|Petelino
+Petersburg|US|Indiana|3b|2yx|-6qg|n
+Petting|DE||8r|3p3|zm|n
+Petit-Guiglo|CI||0|hn|-mu|n
+Pétimpé|CI||0|fw|-eh|n
+Petkovci|BA||9r|3fj|1gz|m
+Petersburg|US|Illinois|2f|335|-6xl|m
+Petit Trou de Nippes|HT||4j|1fh|-5o7|l
+Petegem|BE||8t|3x7|9v|l
+Petegem-aan-de-Schelde|BE||8t|3x7|9w|l
+Perdasdefogu|IT||9o|328|q8|k|Foghesu;Petrae Igneae
+Petrashivka|UA||98|3pm|20i|k|Mihoreni;Pétrachivka
+Petneháza|HU||8v|3pi|1pb|k
+Petroússa|GR||8p|36f|1uq|k|Petroúsa
+Péteri|HU||8v|3nn|1hx|k
+Petit-Rocher|CA||43|3oq|-52k|k
+Péta|GR||8p|30t|1mf|k
+Petro-Chemical Complex INA|IN||6t|1q6|5n4|k
+Petrijevci|HR||a6|3ip|1fi|j
+Petit Yapo|CI||0|g3|-bi|j
+Pettstadt|DE||8r|3uf|ud|j
+Pétonkaha|CI||0|oh|-ez|j
+Petreştii de Jos|RO||8u|3le|1tp|j|Magyarpeterd
+Petriş|RO|Arad County|8u|3jx|1q6|i
+Petite Rivière de Nippes|HT||4j|1fc|-5nf|i
+Pétéyé|CI||0|nb|-8l|i
+Petřvald|CZ|Moravian-Silesian Region|9m|3u3|1eg|h
+Petersdorf|DE||8r|3qs|un|h
+Petrivtsi|UA||98|3uk|2l4|h|Petrovtsy;Petrivtsy
+Petreşti|RO|Satu Mare County|8u|3o8|1q5|g
+Petrovice|SK||8s|3su|1fg|g
+Pettinengo|IT||9o|3ip|mi|g
+Petrivka|UA|Poltava|98|3u6|2p6|g|Chapayeve
+Petten|NL||8m|42l|cy|g
+Petite Anse|HT||4j|1ij|-5n7|f
+Peterborough|AU||8b|-2jl|apo|f
+Petit|CI|Montagnes|0|jj|-kn|f
+Petite Case Noyale|MU||ag|-1ko|4fd|f
+Petreu|RO||8u|3ni|1py|f
+Petit-Réderching|FR||9k|3s9|kb|f
+Pettenbach|AT||a2|3p8|12y|f
+Petrovac na Moru|ME||9l|399|1gm|f
+Péténou|CI||0|ls|-f1|f
+Petitcodiac|CA||43|3jm|-512|f
+Pietrele|RO||8u|3ee|20k|f|Petrile;Pietrile
+Petőfiszállás|HU||8v|3li|1j6|f
+San Pedro Petlacotla|MX||41|1kp|-7jz|e|Petlacotla
+Petrivsk|UA||98|3l1|28h|e|Petreşti
+Pietriceaua|RO||8u|3hm|1zp|e|Pietricea;Petriceaua
+Petrovice|CZ|Central Bohemia|9m|3tn|13u|e
+Pettineo|IT||9o|2xh|13p|e
+Petrijanec|HR||a6|3kr|193|d
+Petites Anses|GP||31|181|-4r8|d|Petites-Anses
+Petekkaya|TR||94|2xt|31k|d
+Petzenkirchen|AT||a2|3pr|163|d
+Petro-Slavyanka|RU||9i|4m4|2cr|d|Petro-Slavjanka;Petro-Slav'anka;Petro-Slavianka;Petro-Slavânka
+Petrovskiy|RU|Lipetsk Oblast|9i|414|34x|d
+Petrov|CZ||9m|3rs|1c0|d
+Petriolo|IT||9o|3c2|11e|d
+Petit-Nado|CI||0|d8|-ix|d
+Petronell-Carnuntum|AT||a2|3pn|1av|c
+Peteranec|HR||a6|3kb|1ax|c|Peteranac
+Petrov nad Desnou|CZ||9m|3ux|1bc|c
+Pettorazza Grimani|IT||9o|3he|xb|c
+Petkovica|RS||8q|3g3|1i0|c
+Petrosino|IT|Sicily|9o|2x8|154|c
+Petina|IT||9o|34l|16p|c
+Pietroasa|RO|Timiș County|8u|3jb|1q8|c|Petroasa
+Petrivka|UA|Mykolaiv|98|3mk|2g8|c|Petrovka
+Pettneu|AT||a2|3mz|sq|b
+Pettenasco|IT||9o|3ja|nd|b
+Petersburg|US|Michigan|2q|38e|-6gj|b
+Petersburg|US|Texas|2f|2m3|-7u8|b
+Petropavlivka|UA|Odesa|98|3kq|2a4|b|Păuleni
+Stoszowice|PL||a5|3wk|1ai|b|Peterwitz
+Peterhead|AU||8b|-2or|aoq|b
+Petrella Tifernina|IT||9o|37t|14u|b
+Petrie Terrace|AU||8c|-24a|bt1|b
+Petriș|RO|Bistrița-Năsăud County|8u|3mu|1we|b
+Kozatske|UA|Kirovohrad|98|3qa|2ky|b|Petrivske
+Petín|ES||9d|39q|-jt|b
+Petit Bordel|VC||54|10x|-4q4|b
+Petrova Ves|SK||8s|3rc|1bo|b
+Petralia Soprana|IT||9o|2x0|137|b|Pitralìa Suprana
+Petroșnița|RO||8u|3hw|1pu|b
+Pettnau|AT||a2|3nd|v0|a
+Petkum|DE||8r|445|k8|a
+Petigny|BE||8t|3v2|cl|a
+Petrivka|UA|Odesa|98|3kn|2b7|a|Pietroasa;Petrovka;Piyetroasa
+Peteinós|GR||8p|366|1x6|a|Petinós
+Petiville|FR||9k|3te|1n|a
+Petrești|RO|Arges|8u|3h4|1x5|a
+Petrivka|UA|Donetsk|98|3rc|2wc|a
+Novospaske|UA|Donetsk|98|3qf|2wy|a|Petrivka;Nowospaśke;Petrovka
+Petronou|CI||0|ln|-a9|a
+Petit-Noir|FR||9k|3md|et|a
+Petit Bel Air|MU||ag|-1ko|4ga|a
+Petru Vodă|RO||8u|3mw|208|a
+Peţrūd|IR||7o|2tz|42v|a
+Petculești|RO||8u|3fw|1vf|a
+Petrivka|UA|Odesa|98|3l6|291|a|Ceaga
+Petrovče|SI||9a|3kg|167|a
+Pettit|US||2f|2rc|-7bt|a
+Petrača|HR||a6|3af|1ej|a
+Petriceni|RO||8u|3jz|20h|a
+Petriccione|IT||9o|3am|12g|a
+Petty Harbour-Maddox Cove|CA||50|3nv|-42f|9
+Petrizzi|IT||9o|2zi|19r|9
+Petrești|RO|Vrancea|8u|3j1|23n|9
+Petraía|GR||8p|354|1pi|9
+Petnic|RO||8u|3gy|1px|9|Petnik
+Petrova|SK||8s|3t7|1mo|9|Pitrova
+Petrove|UA|Odesa|98|3lf|2cd|9|Petrivs’ke;Petrivske
+Petruro|IT||9o|35j|14z|9
+Petros|RO||8u|3ic|1se|9
+Pet Inn Ka Lay|MM||7y|1b6|7eh|9
+Pendálofon|GR||8p|2yw|1n1|9|Pentalofo;Pentálofos;Petálofon;Pendálofos
+Petatlán|MX|Guerrero|41|1cu|-7mz|9
+Pétrola|ES||9d|2zv|-4c|9
+Petrés|ES||9d|328|-u|9
+Petersdorf II|AT||a2|3mk|17k|9
+Petrotó|GR|Thessaly|8p|31z|1p0|8
+Petia|RO||8u|3nz|214|8
+Petišovci|SI||9a|3l9|19q|8|Petesháza;Peteševci
+Peterswald-Löffelscheid|DE||8r|3uw|ka|8
+Petit-Abidjan|CI||0|kn|-8v|8
+Petrești|RO|Dâmbovița County|8u|3fs|1yp|8
+Petritoli|IT||9o|3bn|11y|8
+Petropavlivka|UA|Mykolaiv|98|3og|2dv|8
+Petryayevka|RU||9i|4c7|3d7|8|Petrjaevka
+Petrovina Turopoljska|HR||a6|3ix|18j|8
+Petricani|RO|Botoșani County|8u|3p8|22k|7
+Pöttelsdorf|AT||a2|3on|19o|7|Petőfalva
+Petroostriv|UA||98|3rf|2ey|7|Petroostrov
+Peterchurch|GB||9b|40k|-88|7
+Petid|RO||8u|3ls|1pc|7
+Peterview|CA||50|3sg|-49r|7
+Pec pod Sněžkou|CZ||9m|3wt|17p|7|Petzer;Pec pod Snežkovas
+Pétessou|CI||0|l0|-e3|7
+Petroman|RO||8u|3ii|1mn|7
+San Matías Petacaltepec|MX||41|18x|-7ed|7|Petalcatepec;Petaldatepec;Petacaltepec
+Petit-Roeulx-lez-Braine|BE||8t|3wn|bd|7
+Petersbach|FR||9k|3rr|k7|7
+Petrivka|UA|Poltava|98|3tg|2l8|7|Petrovka
+Petrovo-Solonykha|UA||98|3mr|2gi|7|Petrovo-Solonikha
+Petersberg|DE|Saxony-Anhalt|8r|3zc|x7|7
+Petrilaca de Mureș|RO||8u|3lp|1wr|7
+Petrohrad|CZ||9m|3v9|11d|7
+Petrilaca|RO||8u|3kx|1v3|7
+Peters|US||3p|2xi|-9c9|7
+Petrești|RO|Bacău County|8u|3kv|23b|7
+Petropavlivka|UA|Mykolaiv|98|3ol|2fi|7|Petropavlovka
+Petanjci|SI||9a|3ll|18n|7|Szécsénykút;Széchénykút
+Çevreli|TR||94|359|376|7|Peterek
+Petrití|GR||8p|31l|1jk|7
+Petrovice|CZ|Ústí nad Labem Region|9m|3x3|12u|7|Peterswald
+Petrolia|US||2f|2mh|-7kv|7
+Pétébonou|CI||0|kr|-ev|7
+Petrovice|CZ|South Moravian|9m|3t9|1ae|7
+Petroasa Mare|RO||8u|3iq|1op|7|Petreasa Mare;Pietroasa-Mare
+La Petite-Pierre|FR||9k|3rq|kc|6|Lützelstein;Lítzelstain;Petite-Pierre
+Peterstown|US||48|2vw|-68g|6|Peters Town
+Petrovcy|HR||a6|3ht|1gm|6|Petrovci;Petrovce;Petrovcze
+Petrovice u Sušice|CZ||9m|3sq|11c|6
+Pietroasa|RO|Vrancea|8u|3je|234|6|Petroasa
+Petrichanka|UA||98|3ph|1zw|6|Petriceanca
+Petroșani|RO|Constanța County|8u|3e9|25x|6
+Petin|RO||8u|3op|1rt|6
+Petróporo|GR||8p|31w|1ox|6
+Petit-Roeulx-lez-Nivelles|BE||8t|3wf|bz|6
+Petit-Landau|FR||9k|3ol|kw|6
+Petersroda|DE||8r|3z9|y5|6
+Vyshneve|UA|Poltava|98|3u3|2k9|6|Petrovka;Vishneve;Petrivka
+Petersburg|US|Kentucky|48|30j|-6jr|6
+Petit-Thier|BE||8t|3vr|gl|6
+Pété-Pété|ST||1c|u|iq|6
+Le Petit-Fougeray|FR||9k|3p5|-4h|6|Felgerieg-Vihan;Petit Fougeray
+Petectunich|MX||3z|1lw|-6wk|6
+Petrileni|RO||8u|3lc|1qd|6|Petrileny;Petrelény
+Petrindu|RO||8u|3mc|1sf|6|Nagypetri
+Balynivka|UA||98|3rv|21z|6|Posëlok Imeni Petrovskogo;Petrivske
+Petit Palais|FR||9k|3gy|-6|6
+Petros|US||48|2sa|-6ik|6
+Petit-Rocher-Nord|CA||43|3ot|-52l|6
+Petrcane|HR||a6|3er|165|6
+Petrivka|UA|Odesa|98|3pb|29a|6|Petrovka
+Petreto|FR||9k|382|oy|6|Pitretu è Bicchisgià
+Pettus|US||2f|27i|-7jo|6
+Petersburg|US|Tennessee|2f|2q4|-6oo|5
+Petrotó|GR|West Greece|8p|2y0|1ol|5
+Petlovac|HR||a6|3j4|1fh|5
+Petrivka|UA|Odesa|98|3mk|2ei|5
+Pétra|GR|Epirus|8p|30t|1mn|5
+Petermann|AU||8e|-1vh|a5c|5
+Petropigí|GR||8p|35v|1wd|5|Petropiyí
+Petembo|MX||41|1h4|-7tx|5
+Petosse|FR||9k|3l4|-2j|5
+Petreni|RO||8u|3j7|1rz|5
+Pettorano sul Gizio|IT||9o|38l|12s|5
+Pétra|GR|Epirus|8p|30s|1lu|5
+Petrișoru|RO||8u|3hx|22q|5
+Petrești|RO|Gorj County|8u|3gl|1tb|5

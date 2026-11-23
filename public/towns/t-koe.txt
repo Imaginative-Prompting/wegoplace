@@ -1,0 +1,46 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Kursk|RU||9i|3zp|2si|3gn|Koursk;Koersk
+Kurgan|RU||7z|4a1|51i|2dx|Kourgan;Koergan;Kurqan;Curgan
+Kutaisi|GE||7n|39f|3al|11k|Kutaissi;Koutaïssi;Kutaiso;Khuthaisi;Koetaisi;Kutayıs;Kutaisk;Kutais
+Kuningan|ID||6l|-je|8dc|v1|Koeningan
+Kufa|IQ||5z|2h1|3fg|uk|Koufa;Koefa;Kufe;Cufa
+Kungur|RU||7z|4fh|4e9|ig|Koungour;Koengoer;Kunqur
+Kuwait City|KW||6x|29l|3p9|gp|Ciudad de Kuwait;Kuvajto;Kuvajturbo;Kuwait-Stadt;Kuwait;Kuwait-Urbo;Al-Kuwait;Madinat al-Kuwait;Koeweit;Kuwait by;Kuwejt;Kuvajt;Kuwait Stad;Koweït;Kuväyt;Koveyit;Kota Kuwait;Kuveitas;Kuweit;Al Kuwayt;Madīnat al Kuwayt;Al Kuwait;Kuwayt
+Kurganinsk|RU||9i|3go|34r|d9|Kourganinsk;Kurqaninsk;Koerganinsk
+Koesan|KR||7h|2u9|9uz|cd|Goesan
+Kulebaki|RU||9i|49x|3a5|ag|Koulebaki;Koelebaki
+Coesfeld|DE||8r|40a|jx|a6|Cosfeldia;Koosfeld;Koesfeld
+Kushva|RU||7z|4hx|4lz|9h|Kusjva;Kuschwa;Kouchva;Kušva;Koesjva;Kušwa;Kuszwa
+Kudymkar|RU||7z|4jy|47t|8s|Kudimkar;Koudymkar;Koedymkar;Kudõmkar
+Köthen|DE||8r|3zr|x9|7z|Cothena;Koethen;Cöthen
+Koelwār|IN||6t|1z2|6jk|73
+Koekelberg|BE||8t|3xa|c1|64
+Couëron|FR||9k|3n5|-4s|5f|Koeron
+Koersel|BE||8t|3xu|en|51
+Kurtamysh|RU||7z|48j|4yz|4z|Kurtamysj;Kurtamysch;Kourtamych;Kurtamyš;Koertamysj;Kurtamış
+Coevorden|NL||8m|42a|iq|42|Koevorden
+Kuragino|RU||6u|45p|75g|3x|Koeragino;Kuràguino
+Koekelare|BE||8t|3xx|8a|2b
+Kuloy|RU||9i|4pj|3a1|1u|Kuloj;Kuloi;Koeloy
+Koyelga|RU||7z|47t|4p6|15|Kojelga;Koëlskaja;Koelskaya Staniza
+Kuzhorskaya|RU||9i|3g4|33z|10|Kuzjorskaja;Kuschorskaja;Kužorskaja;Kujorskaya;Koezjorskaja;Kujórskaia
+Kulotino|RU||9i|4id|2kq|y|Koelotino
+Königstein|DE|Saxony|8r|3xg|133|u|Kralowc;Kēnigšteina;Koenigstein
+Koewacht|NL||8m|3yb|b1|r
+Kœnigsmacker|FR||9k|3t7|hg|k|Königsmachern;Koenigsmacher
+Koe Taung|MM||7y|1a4|7f2|j|Kodaung
+Koekenaap|ZA||o|-2fl|1et|j
+Koës|NA||1f|-201|1h5|i
+Bois-de-Céné|FR||9k|3me|-59|e|Koed-Keneg
+Coëtmieux|FR||9k|3qp|-78|d|Koedmaeg
+Koeru|EE||9x|4js|20b|c|Koyeru
+Coësmes|FR||9k|3p0|-40|c|Koem;Coësmis
+Koekange|NL||8m|42e|hk|b|Kukangė
+Koerich|LU||9c|3tz|gj|b|Käerch;Gemeng Käerch;Körich
+Collinée|FR||9k|3q6|-70|a|Koedlinez
+Kulashi|GE||7n|399|39n|9|K’ulashi;Kulasji;Koulachi;Kulaşi;Kulaszi;Koelasji
+Köttmannsdorf|AT||a2|3lc|13j|7|Kotmara vas;Koettmannsdorf
+Königsborn|DE||8r|40u|wn|6|Koenigsborn
+Boistrudan|FR||9k|3p9|-3w|5|Koetruzan
+Kœtzingue|FR||9k|3od|ki|5

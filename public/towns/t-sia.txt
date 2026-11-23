@@ -1,0 +1,70 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Xi’an|CN||7i|2n6|8el|2ry1|Hsi-an;Xian;Ŝiano;Sianas;Tây An;Siaņa;Ŝingano;Šjan;Singan;Sian
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Shaoxing|CN||7i|2bc|9ay|hqw|Shawshin shehiri;Ŝaosing;Šao-sing;Thiệu Hưng;Sjaoxing;Siāu-heng-chhī;Siêu-hĭng;Shao-hsing;Shaohing
+Xiangyang|CN||7i|2h0|8ni|9zn|Xiangfan;Siang-jang;Hsziangjang;Šjangjang;Tương Dương;Hsiang-fan;Siangyang;Hsiang-yang;Siangfan
+Xianyang|CN||7i|2ne|8dy|7z9|Sien-jang;Ŝjanjango;Sianjangas;Hàm Dương;Hàng-iòng;Hszienjang;Hâm-iông-chhī;Hsien-yang
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Xiangtan|CN||7i|25d|8pm|7eh|Siang-tchan;Sjantan;Siong-thâm-sṳ;Tương Đàm;Siong-thâm-chhī;Siŏng-tàng;Siangtan;Hsiang-tan
+Sialkot|PK||6q|2i9|5r1|71a|Sijalkot;Sijalkoto
+Xiaogan|CN||7i|2dx|8sg|70b|Háu-gāng;Siao-kan;Hiếu Cảm;Hàu-kám-chhī;Siaokan;Hsiao-kan
+Shaoyang|CN||7i|23o|8lm|5t8|Sjaoyang;Šao-jang;Ŝaojan;Chàu-yòng-sṳ;Thiệu Dương;Siêu-iòng;Siāu-iông-chhī
+Shuangyashan|CN||7i|3lo|a49|4mo|Sĕ̤ng-ák-săng;Šuang-ja-šan;Song Áp Sơn;Siang-ah-san-chhī
+Xiangxiang|CN||7i|251|8ol|1ta|Tương Hương;Siong-hiông-sṳ;Siangsiang
+Šiauliai|LT||a3|4bd|1ss|rn|Šauļi;Szawle;Ŝjaulaj;Şyaulyay;Shawllay;Šiaulē;Shyaulyay;Shaulyay;Šiaulių
+Xiaoshan|CN||7i|2bt|9a2|qg|Siaoshan;Hsiao-shan
+Sihanoukville|KH||78|th|7zl|ka|Preah Seihanouk;Kampong Saom;Sihanukville;Sianuquevila;Kompong Som;Kampong Som;Preah Sihanouk
+Wenxing|CN||7i|27o|8pk|fv|Siang Tin;Siangtin;Siangyin;Xiangyin;Hsiang-yin;Siang-Yin
+Siocon|PH||71|lf|9fa|e8|Siacon;Siocin;Siokon
+Sitten|CH||a7|3kf|kg|9n|Sion;Sedunum;Sionas;Sião;Sion i Sveits
+Siaya|KE||16|6|2n9|98
+Selm|DE||8r|3zm|kr|7n|Siälm
+Siavonga|ZM||z|-19y|27r|7i
+Siyazan|AZ||61|364|3sg|77|Siazan’
+Sīāhkal|IR||7o|2v7|3uj|5j|Seyāh Kal;Sīyāh Kal;Sīāh Kal
+Seyah Cheshmeh|IR||7o|30j|3fa|4y|Sīāh Cheshmeh;Sīyah Cheshmeh
+Syas’stroy|RU||9i|4n2|2ih|3p|Siasstroj;Säsjoki;Säs'joki
+Siasi|PH||71|ff|9bl|3i|Si Ase
+Siāt|IN||6t|1zx|5ou|3h
+Siano|IT|Campania|9o|35c|14t|2r
+Siegsdorf|DE||8r|3ou|z4|2a|Siagsdorf
+Siakakro|CI||0|j7|-90|24
+Siaton|PH||71|p6|9hr|21
+Senno|BY||9g|489|2ai|1y|Syanno;Sienno;Sianno;Syenno
+Sianów|PL||a5|46n|199|1u|Sjanova;Sanowò
+Siátista|GR||8p|33u|1nu|1k
+Sialgudri|IN||6t|1u0|6nv|1j
+Setor de Indústria e Abastecimiento|BR||4w|-17x|-3p8|1f|SIA
+Siayan|PH||71|mz|9hy|1d
+Siakago|KE||16|-1m|2wk|17|Siacago
+Sīāsak|IR||7o|2t1|4lr|17
+Syamzha|RU||9i|4mq|362|13|Siamzja
+Syava|RU||9i|4h5|3ko|12|Siava
+Siari|PH||71|n4|9hn|z|Siare
+Ciales|PR||4m|1ey|-54n|x|Siales
+Siano|IT|Calabria|9o|304|1a4|r
+Siay|PH||71|le|9ha|o
+Siahé|CI||0|dk|-ks|l
+Sīyah Banū’īyeh|IR||7o|29i|4e4|l|Sīāhbenū’īyeh
+Sīah Bāz|IR||7o|2zq|3he|k|Sīyāh Bāz
+Siata|CI||0|fz|-e0|h
+Sielenbach|DE||8r|3qg|v1|e|Sialabo
+Siachoque|CO||27|fb|-5ng|e
+Siampaho|CI||0|du|-h0|b
+Siaga|CI||0|m2|-87|a
+Siakaso|CI||0|m7|-ir|9|Siakasso
+Siaou|CI||0|l1|-b7|9
+Sīāh Varz|IR||7o|2u3|3xb|9|Siyah Varz;Sīāvarz
+Sīār Kolā|IR||7o|2tn|417|8
+Sīāhrūd Sar|IR||7o|2ts|41c|8
+Siamanna|IT||9o|32w|oc|8
+Šiaulėnai|LT||a3|4ao|1t0|8|Szawlany;Shaulenay;Šiaulėnų
+Sīāh Shīr-e ‘Olyā|IR||7o|2dr|3v3|7
+Siabry|UA||98|3k3|2in|7|Novorosiys’ke;Novorosiiske;Syabry;Novorossiysk
+Siamaggiore|IT||9o|32z|nz|7
+Siaboukro|CI||0|l4|-dp|7
+Sīāhkalrūd|IR||7o|2uu|3w4|7
+Siarédougou|CI||0|lg|-by|6
+Sia'atoutai|TO||bi|-1mp|-diu|6
+Sianky|UA||98|3s7|1rm|6|Syanky;Sjanky;Sjanki;Sianki;Seankî;Syanki
+Siá|CY||73|2p4|2kr|6|Sha

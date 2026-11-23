@@ -1,0 +1,220 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mumbai|IN||6t|1gz|5mg|2pxi|Moembaai;Bombaj;Mumbajo;Bombaya;Bombay;Bombėjus;Mumbaja;Mumbay;Mumbaj;Bombaim;Mumbajus;Bombai;Dakbayan sa Bombay;Bůmbaj;mymbais;Numbai
+Mianyang|CN|Sichuan|7i|2ff|82s|byk|Mien-jang;Miên Dương;Mièng-iòng;Biân-iông-chhī;Myan’yan;Mien-yang
+Munich|DE||8r|3pq|w6|bm2|Muenchen;München;Minhen;Munic;Mnichov;Munkeno;Monaco di Baviera;Munîh;Monachium;Miunchenas;Minhene;Monaco e Baviera;Munique;Monacum;Lungsod ng München;Myunxén;Minga;Mynihu;Munike;Monacu di Baviera;Munhen;Mnichow;Munix;Minche;Mònacu;Münegh;Monaco de Baviera;Minca
+Mysuru|IN||6t|y6|5ww|73q|Mysore;Májszúr;Majsur;Maisúr;Mahisūr;Maisūru
+Mersin|TR||94|2u9|2o8|45e|Myrte;İçel;Merson
+Mykolayiv|UA|Mykolaiv|98|3mi|2gv|3mk|Vernoleninsk;Mykolaïv;Mikołajów;Mikolajiv;Nicolopoli
+Mỹ Tho|VN||6h|ss|87g|237|Mitho
+Mymensingh|BD||6a|1ws|6z5|1qj|Mymensing
+Cabo San Lucas|MX||3x|1rl|-8hb|1kb|Kabo san Lukas;Kabo Sanlukasa;Mys svätého Lukáša
+Myeik|MM||7y|yk|7lw|1c5|Mergui;Mjeikas;Mjeika;Mjejk;Merguj
+Mytishchi|RU||9i|4bb|2wt|18l|Mytischtschi;Mitiŝĉi;Mõtištši;Mytichtchi;Mytiszczi;Mytišči;Mytištši;Mytisjtsji;Mıtişi;Mytiščiai;Mityiscsi;Mitischi;Mytisjtji;Mitisxi;Mıytişçi;Mytishi
+Myingyan|MM||7y|1nm|7cz|13d|Mjindžanas;Mjindžana;Myringyan;Myingan
+Mykilska Borshchahivka|UA||98|3w3|2cd|ze
+Mỹ Hào|VN||62|1m4|86o|w4
+Mulhouse|FR||9k|3on|kd|uy|Mülhausen;Muluzo;Miluza;Miulūzas;Mylhúzy;Müihausn;Mulhusia
+Nikopol|UA|Dnipropetrovsk|98|3o5|2nj|t8|Mykytyn Rih;Nicopoli;Mykytynska Sich;Mykopil;Nyikopol;Slov'yansk;Slov'iansk;Nykopil
+Myŏnggan-dong|KP||7a|36a|9zp|ro|Myeonggandong
+Myitkyina|MM||7y|1yi|7ik|p9|Mjičina;Mitkina;Myitkyin
+Mysłowice|PL|Silesia|a5|3vh|1h9|k1|Mislovice;Myslowicy;Myslovicės
+Mykytivskyi|UA||98|3q7|2xk|jl|Mykytivka
+Myŏngch’ŏn|KP||7a|363|9zj|ia
+Myaungmya|MM||7y|1a4|7bo|g6|Myoungmya
+Myaydo|MM||7y|1ht|7ci|fy
+My Drarga|MA||d|2ce|-qb|fg
+Myrnohrad|UA||98|3q7|2vj|ct|Dimitrovo;Dimitrova;Dimitrov;Dymytrov;Dymytrow;Mîrnohrad;Mırnograd;Mirnohrada;Novoekonomične;Hrodivka
+Myawaddy|MM||7y|1ad|7ln|ci|Myawadi
+Myski|RU||74|458|6rw|c9|Miski;Mõski;Tomazak
+Myanaung|MM||7y|1et|7cs|br
+Myrhorod|UA||98|3us|2ld|b0|Mırgorod;Mirhorodo;Mõrgorod;Mirhoroda;Mirhorod
+Mrauk U|MM||7y|1l7|76v|a1|Mrohaung;Myauk U;Mrauk-U;Myonaung;Myohaung
+Myszków|PL||a5|3wi|1ho|99|Myszkůw;Miškova;Myškuvas
+Milazzo|IT||9o|2y6|16c|8u|Milazzu;Mylae
+Myrtle Beach|US||48|2ll|-635|8m
+Myoko|JP||7q|2uv|ao2|8g
+Mytilene|GR||8p|30n|21s|7v|Mytilini;Midilli;Mitilíni;Mitilene;Mytiléna;Mitileno;Metilene;Mitylena;Mitilena;Mitylene
+Mỹ Khê|VN||6h|163|8ei|6o
+Mỹ Lại|VN||6h|167|8eh|6o
+Myenigon|MM||7y|1ap|7f2|56
+Myo Thit Ka|MM||7y|1av|7ey|55|Myo Thit Kha
+Myyrmäki|FI||92|4nf|1x1|54|Myrbacka
+Myślenice|PL||a5|3uf|1je|4x|Misleņice
+Myrtle Grove|US|Florida|2f|2ci|-6qj|4f
+Myōden|JP||7q|2r5|asp|42
+Mykolayiv|UA|Lviv|98|3tl|1um|41|Mikołajów;Mykolaiv;Mikolayuv;Mikotajów
+Mykolaivka|UA|Donetsk|98|3rq|2wx|3y|Nikolayevka;Mykolaiv;Nikolayev;Mykolayivka
+Myllypuro|FI||92|4na|1xn|3k|Kvarnbäcken;Pyllymuro
+Myślibórz|PL||a5|430|15b|3d|Myslibužas;Misliboža;Żôłdzëno
+Mykhaylivka|UA|Zaporizhzhia|98|3nb|2pu|3b|Mykhaïlivka
+Myrnyi|UA|Dnipropetrovsk|98|3qf|2p8|37|Myrnyy
+Myronivka|UA|Kyiv Oblast|98|3ty|2e2|33|Myroniwka;Mıronivka;Mironówka;Mironovka
+Mykonos|GR||8p|2w1|1yd|2z|Míkonos;Myconos;Chora;Miconos;Khóra
+Myjava|SK||8s|3rg|1ct|2y
+Myrzakent|KZ||5s|34y|5af|2q|Slavyanka;Mirzakent;Slavyanski
+Mîndreşti|MD||8x|3nz|26k|2l|Mândreşti;Myndreshti
+Myrtle Grove|US|North Carolina|48|2mt|-60c|2h
+Mystic Island|US||48|31u|-5qm|2d
+Myskhako|RU||9i|3g2|2ww|28|Myshako
+Myo Thit Ga|MM||7y|1av|7ey|27
+Miory|BY||9g|4ai|24r|26|Miyory;Myory
+Mỹ Lộc|VN||62|1f1|85r|1z
+Myadzyel|BY||9g|48g|22u|1w|Medilas;Miadzioł;Miadziel;Myadel’
+Myers Corner|US||48|37l|-5p7|1w
+Mill|NL||8m|3zl|g2|1r|Mil;Myl;Mylle
+Mynämäki|FI||92|4ok|1p3|1r
+Myshkin|RU||9i|4gj|2yt|1n|Mysjkin;Myschkin;Mychkine;Myškin;Mõškin;Miŝkin;Myszkin
+Mysen|NO||9j|4lf|vh|1j
+Międzyzdroje|PL||a5|45t|145|1j|Misdroy;Meņdzizdroje;Mizëzdroje;Mysdroje
+Mýrina|GR|North Aegean|8p|32r|1xm|1i|Mirina
+Mykulychyn|UA||98|3qh|1wd|1g|Mikulichyn
+Mysłakowice|PL||a5|3x8|17u|1f|Zillerthal-Erdmannsdorf
+Myrtletown|US||3p|35b|-9kt|1b
+Mytchett|GB||9b|3yh|-21|1a
+Myasnikyan|AM||80|33m|3e0|1a
+Babushkin|RU|Buryatiya Republic|6k|3zn|862|1a|Mysovaya;Mysovsk;Babouchkine;Babuşkin;Bàbuixkin;Babuschkin;Bauskin;Babuškinas;Babuškina;Baboesjkin;Babusjkin;Babuszkin;Mösovsk
+Myurego|RU||9i|39t|3oh|19|Mjurego;Myuregi
+Mykolaivka|UA|Sumy|98|3xi|2nh|19|Zhovtnevoye;Zhovtneve;Mykolayivka
+Mystrás|GR||8p|2uz|1q5|16|Mistra;Misthra;Mizistra;Mistrás
+Myrnyi|UA|Crimea|9t|3hv|2js|16
+Mystic|US||48|36v|-5jx|16
+Mytholmroyd|GB||9b|459|-5i|13
+Myhove|UA||98|3ps|1yi|11|Mihowa;Myhowe;Mihova;Mikhova
+Mykolayivka|UA|Odesa|98|3o2|2dg|10|Mykolaïvka
+Mykulyntsi|UA||98|3t7|1z5|10|Mikulińce;Mykoulyntsi;Mykulynzi;Mikulintsy;Mykułynci;Mıkulıntsi
+Myrtle Creek|US||3p|3bi|-9ih|z
+Mykhaylivka|UA|Crimea|9t|3hb|2ld|x|Mykhailivka
+Myrtleford|AU||8j|-2tk|bbk|x
+Myerstown|US||48|345|-5vy|v|Moyerschteddel
+Myllytulli|FI||92|50m|1ys|v
+Märjamaa|EE||9x|4jm|1vv|v|Myar’yamaa;Merjamā;Mar’yama
+Mylau|DE||8r|3wm|y3|u|Mīlava
+Mya Kaing|MM||7y|1a3|7g5|u|Myagaing
+Mysiadło|PL||a5|40q|1me|u
+Myszyniec|PL||a5|44a|1nb|u|Mišiņeca
+Mynai|UA||98|3qz|1pw|u|Minaj;Mynay;Minay
+Myrne|UA|Zaporizhzhia|98|3mf|2qg|t
+Mikínai|GR||8p|2ws|1r7|t|Mycenae;Mykínes
+Myropillia|UA||98|3xq|2px|t|Myropillya
+Myrne|UA|Zaporizhzhia|98|3ls|2py|t|Leninske;Leninskoye
+Myrtle Bank|AU||8b|-2p4|ap3|s
+Mykhailo-Kotsiubynske|UA||98|3yx|2ec|s|Mykhaylo-Kotsyubyns’ke
+Myauk Chaung|MM||7y|19z|7es|s
+Mysholovka|UA||98|3vx|2ct|q
+Mykhaylivka|UA|Odesa|98|3jn|2ai|q|Mihăileni;Michajlowka;Myjailivka;Mykhaïlivka
+Myrtle Point|US||3p|3bm|-9ku|p
+Myrne|UA|Odesa|98|3l3|2cd|o|Freydental’;Mîrne;Freudental
+Mykhailivka|UA|Luhansk|98|3qq|302|o|Mykhaylivka;Mikhaylovka
+Myllyoja|FI||92|50m|1yz|n
+Myan-Gokro|CI||0|m9|-f2|n
+Mir|BY||9g|44h|21j|m|Myrius
+Mykhailivka|UA|Kherson|98|3kk|2ip|m|Mykhaylivka;Mikhaylovka
+Mikhalkove|UA||98|3qx|23u|l|Mihăileanca;Mykhalkové
+Mykolaivka|UA|Luhansk|98|3qz|31s|l|Mykolayivka
+Myhiia|UA||98|3pf|2dz|l|Myhiya
+Myre|NO|Nordland|9j|5bf|15w|l
+Myślachowice|PL||a5|3vf|1i4|l
+Myrnopillia|UA||98|3jy|29n|k|Mirnopol’ye;Myrnopillya;Myrnopillja
+Mykhaylivska Borshchahivka|UA||98|3w1|2ci|k|Mykhailivska Borshchahivka
+Myshkavichy|BY||9g|43u|29z|k|Myshkovichi
+Myre|NO|Nordland|9j|5bz|18c|k
+Mytilinioí|GR||8p|2wt|22r|k|Mitilinoí;Mitilinioí
+Myaundzha|RU||6z|4v4|bcu|k|Mjaundzja;Mjaundscha;Mjaundža;Mâunca;Miaundża;Mjaoendzja;Miàundja
+Myatlevo|RU||9i|48i|2r4|k|Mjatlevo;Mjatlewo
+Myshuryn Rih|UA||98|3rn|2mb|j
+Mykhaylo-Laryne|UA||98|3mv|2hg|j|Mykhaïlo-Laryné
+Myaree|AU||8k|-2h0|8xq|j
+Myrne|UA|Kherson|98|3kh|2kz|j
+Mytikas|GR|Central Greece|8p|2ys|1tp|i|Mítikas
+Myazhysyatki|BY||9g|45e|2bu|i|Mezhisyatki
+Mys-Kamennyy|RU||7z|5a6|5of|h|Mys-Kamennyj
+Myersville|US||48|31r|-5zh|h
+Myrskylä|FI||92|4oj|1zt|h|Mörskom
+Mykolayivka|UA|Odesa|98|3kt|29p|h|Mykolaïvka;Nicolăeni;Nikolaevka
+Mýto|CZ||9m|3ub|125|g
+Myrne|UA|Donetsk|98|3nr|2wt|g|Mirnyy
+Myrne|UA|Donetsk|98|3rq|2wa|g
+Mykhaylivka|UA|Mykolaiv|98|3my|2fv|g|Mykhaïlivka
+Myrne|UA|Odesa|98|3im|29u|f|Caracica
+Mykolayivka|UA|Odesa|98|3jj|2by|f|Nicolaenii-Noui;Nicolăeni;Mykolaïvka;Nikolaevka;Mihăileni;Balabanka;Balabanca-Mică
+Mykhalcha|UA||98|3q1|1zt|f|Mikhal’chi;Mikhal’che;Mikhal’cha;Mihalcea;Mykhaltsja;Mychaltscha;Mychalcza;Myhalça
+Mynkivtsi|UA||98|3rp|23b|f
+Myggenäs|SE||9w|4ha|wn|f
+Mykolaivka|UA|Odesa|98|3kn|2c9|e|Mykolayivka
+Mylor Bridge|GB||9b|3vf|-e4|e
+Mykolayivka|UA|Odesa|98|3o2|2c1|e|Mykolaïvka
+Myrivka|UA||98|3up|2d2|d|Mirovka
+Mynaral|KZ||5s|3i8|5ol|d|Myngaral
+Myllymäki|FI||92|4pc|25v|d
+Mykhailivka|UA|Poltava|98|3sy|2ou|d|Mikhaylovka;Mykhaylivka
+Mykolaivka|UA|Mykolaiv|98|3on|2j9|d|Mykolayivka
+Mykolayivka-Novorosiyska|UA||98|3k5|2b2|c|Mykolajiwka-Noworossijska;Nikolaevka-Novorossiysk;Bairamcea;Mykolaïvka-Novorossiïska;Nicolaenil Noui;Bairamcza
+Myrsíni|GR||8p|2xc|1n0|c|Mirsíni
+Myaksa|RU||9i|4jl|2y3|b|Mjaksa
+Mýki|GR||8p|36k|1x8|b|Míki
+Mylor|AU||8b|-2pc|apg|b
+Mylove|UA||98|3mr|2lf|b|Mylovoye
+Myloradove|UA||98|3ue|2oj|b|Miloradovo
+Myrove|UA|Dnipropetrovsk|98|3op|2oh|a
+Mykilske|UA|Kirovohrad|98|3s1|2jt|a|Mykil’s’ke
+Mykolayivske|UA||98|3md|2h9|a|Mykolaïvské
+Mykanów|PL||a5|3xg|1hc|a
+Mytlashivka|UA||98|3ut|2hr|a
+Myocum|AU||8l|-27g|buf|a
+Mýrina|GR|Thessaly|8p|31h|1p0|a
+Myans|FR||9k|3if|gn|a
+Myrtiá|GR||8p|2wr|1nb|9|Mirtiá;Myrtéa
+Myrovychi|UA||98|3v5|2ha|9|Kantakuzivka;Kantakuzovka;Kontakuzovka
+Mykhailivka|UA|Cherkasy|98|3uq|2hd|9|Mykhaylivka;Mikhaylovka
+Mykhnivtsi|UA||98|3up|2jb|9|Mikhnovtsy
+Myezhava|BY||9g|47r|2c7|9|Mezhëvo;Miežava
+Mykhailyky|UA||98|3ut|2mv|9|Mikhayliki;Mykhaylyky;Mikhaylivka
+Mýtikas|GR|Epirus|8p|30c|1lj|9|Mítikas
+Myrtle Springs|US||2f|2il|-7eh|8
+Myrne|UA|Sumy|98|3wl|2m8|8|Moskovs’ke;Moskovske
+Myrne|UA|Mykolaiv|98|3mf|2il|8|Pershotravneve
+Myra|NO||9j|4j7|om|8
+Mysterton|AU||8c|-1hl|bbs|8
+Mykolo-Hulak|UA||98|3p6|2jd|8
+Mýtikas|GR|West Greece|8p|2zf|1m7|8|Mítikas
+Mykhaylivka|UA|Chernivtsi|98|3po|205|7|Mykhaïlivka;Mihuceni
+Myresjö|SE||9w|4ff|15k|7
+Myrne|UA|Mykolaiv|98|3m1|2hr|7
+Myronivka|UA|Kirovohrad|98|3ru|2k0|7|Mironovka
+Myponga|AU||8b|-2qc|aon|7
+Myslibořice|CZ||9m|3se|18e|7
+Myrony|UA||98|3p7|2a5|7|Mirony
+Myltsi|UA||98|3to|2np|7|Myl’tsi
+Myrcha|UA||98|3rn|1qe|7|Mircha
+Mykolayivka|UA|Mykolaiv|98|3nl|2eu|7|Mykolaïvka
+Myriófyto|GR||8p|36i|1rf|7
+Myslejovice|CZ||9m|3t9|1bb|7
+Mykolayivka|UA|Donetsk|98|3qy|2x0|6|Mykolaiivka;Mykolaivka;Bilohiria Hruzka;Bilohirya Hruzka
+Myton|US||2p|33n|-8hq|6
+Myhai|UA||98|3ml|2bc|6|Myhayi
+Mykhailivka|UA|Poltava|98|3un|2ls|6|Mykhaylivka
+Mykolaivka|UA|Zaporizhzhia|98|3m7|2s5|6|Mykolayivka
+Mýloi|GR||8p|2wb|1r4|6|Míloi;Mýli
+Mykhailivka|UA|Donetsk|98|3ow|2xy|6|Mykhaylivka
+Mykilska Slobidka|UA||98|3w5|2cz|6
+Mykhailo-Oleksandrivka|UA||98|3nb|2db|6|Mykhaylo-Oleksandrivka
+Mykhaylivka|UA|Mykolaiv|98|3oy|2jp|6|Mykhaïlivka
+Mykilske|UA|Poltava|98|3tm|2oa|6|Mykil’s’ke
+Myrne|UA|Donetsk|98|3pb|2tz|6|Markfel’d;Karla Marksa;Mîrne;Karlo-Marksa
+Myslina|SK||8s|3rz|1oq|6
+Mysłowice|PL|West Pomerania|a5|45p|17f|6
+Mysločovice|CZ||9m|3su|1ct|6
+Meyers Lake|US||48|35d|-6a6|6|Myers Lake
+Mykhaylivka|UA|Chernivtsi|98|3qe|21x|6|Mykhaïlivka;Mihăileanca
+Myennes|FR||9k|3nt|85|6
+Mikhaylivka|UA||98|3ng|2e7|5|Mykhaïlivka
+Mäetaguse|EE||9x|4kj|23r|5|Myaetaguse
+Mýto pod Ďumbierom|SK||8s|3rp|1ij|5
+Miakenkivka|UA||98|3tk|2mg|5|Makenkovka;Myakenkovka
+Myrtle Point|CA||5b|3uc|-9ls|5
+Mynytho|GB||9b|42t|-ck|5
+Myrove|UA|Kharkiv|98|3u5|2wc|5|Moskovka
+Mykolaivka|UA|Dnipropetrovsk|98|3rh|2le|5|Mykolayivka
+Myczkowce|PL||a5|3tc|1q9|5
+Mikhayilopil|UA||98|3mt|2cj|5|Mykhaïlopil
+Myrtle|US||2f|2o0|-6vk|5

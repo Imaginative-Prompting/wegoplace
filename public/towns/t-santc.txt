@@ -1,0 +1,14 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Sant Cugat del Vallès|ES||9d|377|5t|m1|Sant Cugat
+Santa Cruz|PH|Central Luzon|71|17t|993|ii|Sant Cruz
+Sant Celoni|ES||9d|37t|6x|4p|San Celoni
+Sant Carles de la Ràpita|ES||9d|34u|1o|4b|San Carlos des la Rapida
+Saint-Jean-de-Luz|FR||9k|3cj|-4m|41|San Juan de Luz;Donibane Lohizune;Sant Chuan de Luz;Sent Joan de Lus;Sant Joan Lohitzune;Fanum Sancti Ioannis de Luce;San Juan de Luze
+Saint-Cyr-sur-Mer|FR||9k|3by|fu|3e|Sant Ceri de Mar;St-Cyr-sur-Mer
+Sant Cristòfol de les Fonts|ES||9d|395|6y|2g
+Saint-Clément-de-Rivière|FR||9k|3dc|an|1g|Sant Clamenç
+Saint-Cannat|FR||9k|3d6|eq|1d|Sant Canat
+Saint-Cézaire-sur-Siagne|FR||9k|3d9|iv|y|Sant Cesari de Sianha;Saint-Césaire-sur-Siagne
+Sant Carles de Peralta|ES||9d|30f|4d|w|San Carlos
+Saint-Jean-Pied-de-Port|FR||9k|3bw|-3g|i|Donibane-Garazi;San Juan Pie de Puerto;Fanum Sancti Ioannis Pedeportuensis;Sant Joan de Peu de Port;Donibane Garazi;Sent Joan Pè de Pòrt;Sant Chuan Piet de Puerto

@@ -1,0 +1,276 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Prayagraj|IN||6t|1yo|6bc|8a6|Allahabad;Alahabadas;Ilāhābād
+Al Ain City|AE||6c|1v7|4aw|6j7|Al Ain;Al-Ain;Al-Ajn;Al-Ayn;Ainas;Al Ajn;Al Ayn;El-Ajn;El Ain;Al ‘Ayn
+Shah Alam|MY||6v|8l|7u1|5ps|Šach Alamas;Šahalama
+Al Aḩmadī|KW||6x|28s|3pk|4x2|El Ahmedi;Ahmadi;Ahmedi
+Alanya|TR||94|2ti|2gw|2t6|Alanja;Alanija;Alaya
+Alicante|ES||9d|2yj|-1c|2ox|Alacant;Alakanto;Lucentum;Alacante;Alikante;Akra Leuke;Alicant;Â-li-kham-thi̍t;Alacanti
+Al ‘Amārah|IQ||5z|2gg|3my|2ht|Amara;Amarah;Amaré
+Semey|KZ||5s|3w2|66x|29c|Semei;Semej;Semipalatinsk;Semeja;Semejus;Alash-kala;Semipalatynsk
+Efon-Alaaye|NG||u|la|do|25l|Efon-Alaiye;Efon Alaaye;Efon Alaye;Effon-Alaiye
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Alappuzha|IN||6t|qd|5w1|1uy|Alleppey;Alappula;Alleppi
+Aliayabiagba|NG||u|hx|99|1rc|Alaiyabiagba
+Bandar Seri Alam|MY||6v|46|80k|1p4|Seri Alam;Seri Alam City
+Arīsh|EG||c|2eh|2lw|1jc|City of Cut Noses;Al-Arisch;El-Arich;Al-Arix;Aríš;El Ariŝ;Arišas;Al-Arisz;Alarixe
+Laayoune|EH||k|23e|-10n|1ij|Aaiún;El Aaiún;Al-Aaiun;Ajuno;O Aaiún;Al-Ajoen;Al-Ujun;El-Aaiún;Al-Ayun;El Ayun;Al Ayoun;La’Youn;El Aiún;Aiun;Aaium
+Chlef|DZ||3|2sh|3p|1dm|Ech Cheliff;Castellum Tingitanum;Šelifas;Szalif;asch-Schalif;al-Asnām;ash-Shalif;Hlef;El Asnam;aš-Šalif
+Alandur|IN||6t|104|66t|19o|Alandoor
+Alagoinhas|BR||20|-xq|-2yq|18s|Alagoinjasas
+Setia Alam|MY||6v|8m|7tu|15o
+Aalborg|DK||8y|4eh|rk|13p|Ålborg;Olborga;Álaborg;Olborgas;Olborg
+Larache|MA||d|2pr|-h4|11x|Laraxe;Al-Araisz;Larraix;Laraŝo;Larašas;Al ‘Arā’īsh;Lavache;El Araish
+Laghouat|DZ||3|2lw|7z|11c|Al-Aghwat;Laguatas;Lagouat;Lagvat;Larhouat
+Al Ajaylat|LY||1d|2j0|ye|109|Al ‘Ajaylāt;Al ‘Ujaylāt
+Aley|LB||64|2lx|2qw|104|Alayh;Alley
+Ālā'ĕr|CN||7t|34m|69r|z3|Aral;A-la-erh
+Alamar|CU||36|1sc|-6ck|rs
+Alasia|NG||u|hz|8t|rs
+Sabt Alalayah|SA||7e|1ie|38k|rs|Sabt Al Alaya
+Alabel|PH||71|gy|9o1|p1
+Alaghsas|NE||18|1ba|ma|om|Alarsas
+Alahabad|PK||6q|2ds|5pq|m9|Elah Abad
+Alameda|US||3p|2wx|-9fm|lu
+Alafaya|US||48|27c|-69l|lp
+Kruševac|RS||8q|3d2|1n9|kx|Alacahisar
+Alamata|ET||2|yi|31w|jk|Alemata;Alomata;Ālamat’ā
+Aalen|DE||8r|3ro|s1|in|Ālene;Alenas;Ala
+Ålesund|NO||9j|4tj|h3|em|Álasund;Estrecio Anguilla;Olesiundas
+Al ‘Azīzīyah|LY||1d|2id|106|ek|El Aziziye;Al Aziziyah;Al Aziziya;El Azizia
+Al Aaroui|MA||d|2p9|-8d|eg
+Alaşehir|TR||94|2yj|278|dd|Filadelfeia;Alašechiras;Alashehir;Ala Shehr;Alachehir;Aleşehir;Alaschehir
+Alajuela|CR||2i|ru|-6hx|d7|Alachuela
+Alangad|IN||6t|s2|5vx|d5
+Al ‘Ayyāţ|EG||c|2aa|2eu|cq|El ‘Ayyat
+Al ‘Ayn as Sukhnah|EG||c|2a7|2hu|co
+Al ‘Azīzīyah|IQ||5z|2jf|3h6|cg|Al ‘Aziziya;Azīzīyah;Al-Azīzya
+Alapayevsk|RU||7z|4gp|4rd|c8|Alapaevsk;Ałapajewsk;Alapajevsk;Alpaevsk
+Aland|IN||6t|1cs|5wp|bs|Keregadde;Alland
+Alatyr’|RU||9i|48c|3le|bq|Alatyr
+Alam Damai|MY||6v|8i|7um|9q
+Ālankōd|IN||6t|tv|5v7|9f
+Alabaster|US||2f|2kc|-6p6|93
+Al Abyār|LY||1d|2hf|1l8|92
+Alaminos|PH|Calabarzon|71|132|9ct|8q
+Alençon|FR||9k|3qj|9|8k|Alenzón;Alansonas
+Alamogordo|US||2p|2je|-86c|8k|Alamo Gordo
+Alaquàs|ES||9d|31m|-1a|85|Alacuás
+Alandi|IN||6t|1fw|5pa|7y
+Ālangulam|IN||6t|om|5za|7y|Ātangulam
+Al Aşābi‘ah|LY||1d|2gz|zr|7p
+Aleshtar|IR||7o|2m2|3q2|7p|Alishtār;Alashtar
+El Abadia|DZ||3|2sr|4p|7k|Al Abadia
+Alaca|TR||94|33l|2os|7i
+Alattūr|IN||6t|tl|5wl|7f|Alatur
+Al ‘Awwāmīyah|SA||7e|21v|3uu|7b|Al ‘Awāmīyah
+Alagoa Grande|BR||2w|-jk|-2qz|79
+Al-'Alam|IQ||5z|2of|3de|75|Al ‘Alam
+Álamo|MX||41|1m3|-7jc|70
+Alamaiti|CN||7t|2z6|5z8|6k
+Allauch|FR||9k|3ce|f8|5y|Alaug
+Alagoa Nova|BR||2w|-jn|-2rc|5u
+Alaplı|TR||94|36e|2f7|5t
+Alloa|GB||9b|4bw|-aj|5o|Allmhagh Mòr;Alamhagh
+Ālampālaiyam|IN||6t|vk|601|5n
+Alameda de Osuna|ES||9d|34d|-9z|5h
+Alagir|RU||9i|3bk|3eu|5h|Alaguir
+Al ‘Aqīq|SA|Al Bahah Region|7e|1ld|372|5d
+Al ‘Aqīq|SA|Al Bahah Region|7e|1kb|37q|5d
+Alamo|US|Texas|2f|20q|-7kk|5c
+Ala Moana - Kakaʻako|US||ax|1n6|-c6i|5a
+Alang|IN||6t|1ng|5ki|55
+Alangāyam|IN||6t|z2|62r|53
+Al ‘Ayzarīyah|PS||6g|2g9|2pz|4v
+Al-'Alūaṣ|LY||1d|2iv|12t|4r
+Alarobia|MG||a8|-1gp|3ol|4g|Alarobi
+Ala-Buka|KG||65|371|5il|4a|Ola-Bo‘ka;Ola-Bo‘qa
+Alta|NO||9j|5ed|1sn|47|Alattio
+Al Azraq ash Shamālī|JO||5t|2gk|2ub|44
+Alamo|US|California|3p|2x5|-9ez|42
+Alavijeh|IR||7o|2jt|3xw|42
+Alapakam|IN||6t|zt|66j|40
+Alagoinha|BR|Pernambuco|4p|-nj|-2u6|40|Algoinhas
+Alausí|EC||33|-64|-631|3z
+Ālampur|IN|Telangana|6t|184|611|3x
+Alajuelita|CR||2i|ri|-6hm|3u
+Alagoinha|BR|Paraíba|2w|-jb|-2qq|3t
+Ālangudi|IN||6t|ss|63e|3g
+Alangānallūr|IN||6t|rx|60x|3f
+Alaverdi|AM||80|366|3g3|3e|Manes;Alawerdi;Allahverdi;Alaverdo;Manasgomer;Manits Gom;Allaverdy;Alaverdy;Alawerdy
+Ālārd|IR||7o|2qn|3xu|38
+Al Awjām|SA||7e|21s|3uq|37|Al Ājām
+Azhagiapāndipuram|IN||6t|n2|5z4|36|Azhakiapandipuram;Alagiapāndipuram
+Alavus|FI||92|4tu|1tm|2z|Alavo
+Alampur|IN|Madhya Pradesh|6t|20b|62w|2z
+Alassio|IT||9o|3e8|mp|2y|Arasce
+Ala|IN||6t|sh|5vn|2x
+Alaminos|PH|Ilocos|71|18w|99a|2x|Aliminos
+Alatri|IT||9o|37x|112|2v
+Älajärvi|FI|South Ostrobothnia|92|4v0|1u6|2v
+Alakak|CN||7t|3om|6r2|2r|Alaqaq
+Alamosa|US||2p|2w3|-863|2q
+Alachua|US||48|2an|-6cy|2q
+Alagappapuram|IN||6t|mn|5ze|2o
+Alapa|NG||u|ny|c6|2o
+Ālappākkam|IN|Tamil Nadu|6t|z8|668|2m
+Álamos|MX||37|233|-8em|2l
+Alauca|HN||56|12h|-6os|2l
+‘Alāqahdārī Dīshū|AF||6o|2cj|4vu|2k|Alaqahdari Dishu
+Al Arţāwīyah|SA||7e|21m|3hz|2k|Arţāwīyah;Al Irtāwīya
+Alajärvi|FI|South Ostrobothnia|92|4v0|1u6|2g|Alayarvi
+Alaior|ES||9d|32x|bi|2f|Alayor
+Alashankou|CN||7i|3hh|6dd|2d
+Alagāpuram|IN||6t|x1|638|2b
+Al Abraq|LY||1d|2j3|1p4|2b|Al Labrag;Al Labraq;Al Lazraq
+Alangalang|PH||71|v5|9mt|29
+Alamo Heights|US||2f|29w|-7lj|28
+Alabat|PH||71|136|9ex|27
+Alamelumangapuram|IN||6t|zy|63z|27
+Alāwalpur|IN||6t|2fb|5u6|26
+Alamādi|IN||6t|10p|66j|22|Alamathi
+Al ‘Alamayn|EG||c|2dn|28g|22|El Alamein;El-Alamein;Al-Alamajn;El ‘Alamein;Alamein;El-‘Alamên
+Ālāndurai|IN||6t|uf|5xb|20|Alanthurai
+Mazāri‘ al ‘Abdalī|KW||6x|2bg|3ok|1w|Al ‘Abdalī Farms;Abdali
+Alagoinha do Piauí|BR||2w|-jh|-35q|1w
+Alambari|BR||4w|-1tf|-3p2|1r|Alambary;Alamari
+Alakurtti|RU||9i|561|2cb|1r|Allakurtti
+Alagón|ES||9d|381|-34|1p|Alagó
+Alacranes|CU||36|1r9|-6al|1m|Alcranes
+Alness|GB||9b|4ga|-bu|1l|Alanais
+Ala-Malmi|FI||92|4nd|1xh|1l|Nedre Malm;Nedre-Malm
+Ālappākkam|IN|Tamil Nadu|6t|w8|65g|1k|Alapakam
+Ala Moana|US||ax|1n5|-c6g|1k
+Ala|IT||9o|3j4|uk|1h
+Alameda|ES||9d|2vd|-cy|1g
+Alae|PH||71|ne|9mp|1f|Alai
+Alamada|PH||71|kd|9m1|1e
+Alaudiā|IN||6t|1tt|6jd|1d
+Alahärmä|FI||92|4vp|1rh|1d
+Alaró|ES||9d|32a|7r|1b
+Alangilan|PH||71|ps|9hc|1a
+Alagdiha|IN||6t|1tx|6o5|1a
+Aladağ|TR||94|2wb|2qc|18
+Alanib|PH||71|mb|9n7|16
+‘Alāmardasht|IR||7o|24q|438|15
+Al ‘Awjā|PS||6g|2gr|2qj|15|Al ‘Auja
+Al ‘Awinat|LY||1d|1zm|tc|13|Al Awaynat
+Ālanī|IR||7o|2ys|3ol|11|Ālnī;Āllī
+Alaçatı|TR||94|2yc|219|11|Alachati
+Allassac|FR||9k|3hq|44|z|Alaçac
+Alac|PH||71|18f|9bl|y
+Allaire|FR||9k|3oc|-61|y|Alaer
+Alamo|US|Georgia|48|2hb|-6dy|x
+El Ala|TN||1e|2qx|qk|x|Al ‘Alā’
+Ala|CN||7i|2o7|7xt|v
+La Alameda de la Sagra|ES||9d|335|-aj|v|Alameda de la Sagra
+Alabug|PH||71|1d9|9df|v|Alabog
+Alakhadzi|GE||7n|3c2|33x|t|Alakhadzy;Alakhadze
+Alari-Isadan|NG||u|ip|7r|t
+Alak|RU||9i|3ae|3k7|s
+Alagoa|BR||4w|-1pl|-3g0|r
+Alabushevo|RU||9i|4bm|2v7|r|Alabusjevo
+Alakro|CI||0|jm|-aa|r
+Alacaygan|PH||71|u4|9hu|q
+Alata|FR||9k|38m|oa|q
+Alad|PH||71|z2|9fl|p
+Alamo|US|Tennessee|2f|2re|-6vk|p
+Alavieska|FI||92|4y9|1vi|o
+Alayao|PH||71|13o|9gf|o
+Alangilanan|PH||71|qs|9hz|o
+‘Alavīyeh|IR||7o|27e|45d|m
+Aléria|FR||9k|38y|qf|m|Alalia
+Alap|HU||8v|3m0|1fx|l
+Alanyurt|TR||94|33f|2a0|l
+Al ‘Araqa|PS||6g|2i7|2ps|l|El ‘Araqa
+Alannay|PH||71|1e6|9dr|l|Launay
+Alawa|AU||8e|-ye|a3j|l
+Alacskai úti lakótelep|HU||8v|3np|1hc|l
+Alajeró|ES||83|25y|-1bw|l
+Alashkert|AM||80|33f|3ed|k
+Alapars|AM||80|34a|3fz|k|Vardanavan
+Alange|ES||9d|2zq|-hd|k
+Alattyán|HU||8v|3nr|1jo|k
+Allangouassou|CI||0|kv|-cq|k|Alangouassou
+Aghlavashli|AZ||61|35d|3ki|j|Qasım İsmayılov;Ağlavaşlı;Alabaşlı;Alabashli;Gasim Ismayilov;Alabashly
+Alà dei Sardi|IT||9o|34x|px|j
+Ālādīzgeh|IR||7o|2yc|3qz|j
+Alabama|US||48|3bq|-61r|i
+Alakylä|FI||92|4pm|26d|i
+Ālān|IR||7o|2xt|3na|i
+Ytteresse|FI||92|4wq|1rv|i|Ala-Ähtävä
+Ah Lat Chaung|MM||7y|1ao|7ez|h|Alatchaung
+Alaejos|ES||9d|36r|-ei|h
+Olūsjerd|IR||7o|2p4|3vu|g|Alūsjerd;Alasjerd;Alūsgerd
+Alabaş|TR||94|2wx|33d|f
+Alano di Piave|IT||9o|3jj|x3|f
+Ullapool|GB||9b|4gu|-ec|f|Ulapul;Alapulas;Ulapulis;Ullapul
+Alamosa East|US||2p|2w4|-860|f
+Alaïli Ḏaḏḏa‘|DJ||i|yi|3b6|f|Alayli Ḏaḏḏa‘
+Alanikro|CI||0|ke|-dj|f
+Alahacı|TR||94|2ve|2wx|e
+Alandskoye|RU||7z|413|4m3|e|Alandskoje;Alandskaja;Alandskiy
+Alabashli|AZ||61|35a|3ki|e|Alabaşlı;Alabashly
+Álamos Tepetitlán|MX||41|1hc|-7io|e
+Alanje|PA||4g|nc|-6dc|e
+Alek|IR||7o|2oo|3m5|d|Alak;Alk
+Ales|IT||9o|32h|oi|d|Abas;Ala
+Alaylı|TR||94|2uy|2ds|c
+Ālāsht|IR||7o|2s7|42s|c
+Alámpra|CY||73|2p7|2ks|c|Alambra
+Alar del Rey|ES||9d|3ai|-bz|c
+Alaquines|MX||41|1ph|-7oo|b
+Al ‘Aţţārah|PS||6g|2ht|2po|b|Al ‘Attara;El ‘Aţţāra
+Allanche|FR||9k|3hn|85|b|Alancha;Allancha
+Alàs i Cerc|ES||9d|39n|48|b
+Alakamış|TR||94|2v8|383|b|Alakamysh
+Alangouanou|CI||0|eb|-86|b|Allangouanou
+Alanjeq|IR||7o|2yr|3k0|b|Alancıq;Alanjeh;Alanjaq
+Alamo|US|New Mexico|2p|2nm|-8an|b
+Alamo|US|Nevada|3p|2vs|-8vw|b
+Ala-Pispala|FI||92|4qu|1tu|b
+Alaska|PH||71|19i|9aa|a
+Alamut|TR||94|2x1|26l|a
+Alămor|RO||8u|3jl|1un|a
+Alapi Village|TV||as|-no|dts|a
+Al Araad|AE||6c|1ua|4a8|a
+Al'Arad|AE||6c|1u9|4a9|a
+Alamance|US||48|2s4|-64t|a|Allemance
+Al ‘Aqrabānīyah|PS||6g|2hl|2qa|a
+Alach|DE||8r|3xn|ud|a
+Älandsbro|SE||9w|4u4|1dk|9
+Çiflikköy|TR||94|2ub|2x0|9|Chiftlikkëy;Alaçalı
+Alampur|BD||6a|1zk|6tt|9
+Atacocha|PE||3o|-td|-5vp|9|Alacocha
+Los Alamitos|MX||41|1pu|-7w1|9|Alamitos
+Alanşeyhi|TR||94|367|2pl|9
+Alacska|HU||8v|3py|1ld|9
+Alaçami|TR||94|2tn|2hq|9|Alaçam
+Alagna|IT||9o|3hh|op|8
+Alamedilla|ES||9d|2we|-90|8
+Alamito|MX||44|1zg|-7yy|8
+Alairac|FR||9k|3by|68|8
+Alanno|IT||9o|39i|12t|8
+Alanson|US||2q|3i8|-6jj|7
+Alatay|TR||94|312|3bc|7
+Alakanuk|US||49|4u5|-cpa|7
+Şehitemin|TR||94|33q|3an|7|Alakilise;Şehîdemîn;Alakilisa
+Alacabük|TR||94|2ym|3aq|7|Pelli
+Alabuğday|TR||94|2xk|31o|7
+Alamul|MX||41|1ax|-751|7|Alamua
+Alapaha|US||48|2f7|-6f6|7|Allapaha
+Alayo|PE||3o|-x1|-5t6|6
+Álamo Rustico|MX||41|1ju|-7m8|6
+Alabino|RU||9i|4a9|2ut|6
+Alaraz|ES||9d|357|-ep|6
+Alano|IT||9o|33z|15l|6
+Alatoz|ES||9d|30l|-3s|6
+Alancık|TR||94|2xo|2z4|6
+Alatepe|TR||94|30i|358|6
+Alahualtitla|MX||41|1m5|-7kp|6|Atahualtitla
+‘Alalūlū|IR||7o|30g|3nk|5
+Alanköy|TR||94|36a|2pl|5|Alan
+Alabayır|TR||94|2wa|268|5
+Alayhanı|TR||94|2z1|2nd|5|Alay Hanı
+Alamor|PE||3o|-cg|-67c|5
+Alao|AS||b9|-13n|-d5s|5
+Alloue|FR||9k|3jv|1f|5|Alauda

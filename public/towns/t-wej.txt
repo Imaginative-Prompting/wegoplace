@@ -1,0 +1,7 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Weifang|CN||7i|2tz|96u|20ff|Wej-fang;Vejfang;Duy Phường;Î-hng-chhī
+Weinan|CN||7i|2nu|8g7|995|Wej-nan;Vị Nam;Ôi-nàng;Veinan;Ūi-lâm-chhī;Veynan
+Weihai|CN||7i|2w7|9f7|6ij|Uy Hải;Wej-chaj;Ŭi-hāi;Veihai;Ui-hái-chhī
+Oujda|MA||d|2oc|-5b|45x|Wadżda;Uĝda;Ujda;Udžda;Wejda;Ucda;Ouja;Oudjda
+Wejherowo|PL||a5|47p|1eo|d0|Wejrowò;Veiherovas;Vejherovo;Veykherovo;Weiherowo
+Al Wajh|SA||7e|20v|2ta|7e|Wej;Alwejh;Wejh

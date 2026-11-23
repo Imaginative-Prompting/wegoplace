@@ -1,0 +1,147 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Ciudad Apodaca|MX||44|1zm|-7qb|3ls|Apodaca;Opština Apodaca
+Piraeus|GR||8p|2xe|1tp|19h|Piräus;El Pireo;El Pireu;Le Pirée;Pireus;Pireu;Pireja;Pireo;Pirėjas;Peiraiás;Pireusz;Pire;Peiraiéfs;Pireas;Pirej;Lo Pirèu;Il Pireo;O Pireo;Peiraiá;Peiraieus;Piraiévs;Peiraievs;Peiraeus
+Opole|PL||a5|3wr|1dt|zh|Oppeln;Opolí;Oppein
+Potenza|IT||9o|34w|17x|fo|Putenza;Oppido Lucano;Potentia
+Opava|CZ||9m|3uq|1dq|f9|Troppau;Opawa;Oppavia;Uopawa
+Sint-Truiden|BE||8t|3x6|ef|aj|Saint-Trond;Sintruin;Sent-Trüden;Sint Treidens;Oppidum Sancti Trudonis;Sint Treidenas;Sinttreidena;Sint-Truudn;Sint-Trond;Sint Truijen
+Opañel|ES||9d|347|-ac|9f
+Opelika|US||2f|2ip|-6l6|87
+Bačka Palanka|RS||8q|3hp|1hw|86|Palanka;Ópalánka;Újpalánka
+Opportunity|US||3p|3od|-91o|77
+Tecax|MX||3z|1k5|-6w1|76|Tekax;Opština Tekax
+Opit|UG||q|79|2i8|6g
+Opladen|DE||8r|3xv|jg|6e
+Opoczno|PL||a5|3yq|1kc|6a|Opočno;Opočnas
+Opfikon|CH||a7|3nr|nu|60
+Strzelce Opolskie|PL||a5|3wb|1eu|5m|Opolės Stšelcės;Stšelce Opolske;Groß Strehlitz;Uopolske Strzelce;Gross Strohlitz
+Opelousas|US||2f|2ct|-73s|4m
+Opa-locka|US||48|1zy|-66x|4m|Opa-lokka;Apalocka;Opa Locka;Opalocka
+Stara Pazova|RS||8q|3gz|1k0|4i|Ópazova
+Opochka|RU||9i|4dj|27m|3r|Opotsjka;Opotschka
+Oppum|DE||8r|3yk|ie|3l
+Opwijk|BE||8t|3xl|bm|3c
+Opera|IT||9o|3i1|pl|37
+Opi|NG||u|iu|kn|34
+Oporapa|CO||27|5m|-5v4|33
+Prinsenbeek|NL||8m|3zc|d3|2z|Op de Beek
+Opopeo|MX||41|1hx|-7u9|2t
+Opglabbeek|BE||8t|3xs|fi|2n
+Oprysheny|UA||98|3ph|20b|2m|Oprișeni;Oprisheni
+Opuwo|NA||1f|-1e6|12g|2j|Opuwa
+Opalenica|PL||a5|41b|19l|2i|Opalnica
+Opole Lubelskie|PL||a5|3y3|1p1|2g
+Houplines|FR||9k|3wt|84|29|Opline
+Opicina|IT||9o|3ix|12b|28|Opčine;Poggioreale del Carso
+Opatoro|HN||56|134|-6s6|24
+Opatów|PL|Świętokrzyskie|a5|3x4|1nj|1w|Uopatůw;Opatova;Opatov
+Oppenheim|DE||8r|3uh|n8|1w
+Opp|US||2f|2ew|-6nm|1v
+Opatija|HR||a6|3hy|13r|1l|Abbázia;Opatijo
+Opheusden|NL||8m|409|fn|1j
+Opishnya|UA||98|3us|2o5|1h|Opichnia
+Opalikha|RU||9i|4b3|2vh|1f
+Open Door|AR||1l|-2nt|-4k4|1e
+Oparino|RU||97|4m9|3q5|1e
+Oppenau|DE||8r|3qn|mo|1e
+Opotiki|NZ||ak|-2xl|doh|1d
+Opovo|RS||8q|3h5|1kr|1c
+Opichén|MX|Yucatán|3z|1l3|-6xm|1c
+Opoeteren|BE||8t|3xv|fq|17
+Oppdal|NO||9j|4tv|qx|17|Opdal
+Oppenweiler|DE||8r|3s2|qa|17
+Ophain-Bois-Seigneur-Isaac|BE||8t|3wr|c3|17
+Opéra|FR||9k|3c9|ey|15
+Ophoven|NL||8m|3xn|ga|15
+Ures municipality|MX||37|29r|-8in|13|Opština Ures;Heroica Ciudad de Ures
+Opatówek|PL||a5|3zq|1em|12
+Oppido Lucano|IT||9o|358|18f|10
+Optaşi|RO||8u|3fu|1wh|10
+Opgrimbie|BE||8t|3xi|fs|10|Opgrimby
+Oppido Mamertina|IT||9o|2yd|18e|z
+Zacualpan de Amilpas|MX||41|1g6|-7md|z|Zacualpan;Opština Zacualpan
+Opol|PH||71|no|9m1|z|Opal
+Opdorp|BE||8t|3xr|bq|z
+Opaheke|NZ||ak|-2v0|di1|y
+Opočno|CZ||9m|3vn|18r|w|Opotschno
+Ophoven|BE||8t|3y1|g4|v
+Oppach|DE||8r|3xv|14a|v|Wopaka
+Ópályi|HU||8v|3pc|1q1|u
+Oprişor|RO||8u|3f0|1s4|u
+Opaka|BG||9v|3cp|20p|u
+Saint-Paul-de-Vence|FR||9k|3de|js|u|Saint-Paul i Alpes-Maritimes;St Paul de Vence;Sant Pau;Saint-Paul de Vence;Oppidum Sancti Pauli
+Opatovice nad Labem|CZ||9m|3vb|17v|u
+Opende|NL||8m|43p|h8|t|De Grinzer Pein
+Oppeano|IT||9o|3hu|v2|r
+Opitter|BE||8t|3y0|fp|p
+Opmeer|NL||8m|42f|dq|o|Opmar
+Opuzen|HR||a6|3bi|1ct|o
+Oplinter|BE||8t|3x7|dv|n
+Öpfingen|DE||8r|3q5|r8|n
+Opfenbach|DE||8r|3ob|rb|n
+Ópusztaszer|HU||8v|3l5|1jt|n
+Opio|FR||9k|3db|je|l
+Oppuurs|BE||8t|3xv|bs|l|Oppuers
+Opperdoes|NL||8m|42k|e4|k
+Opytne|UA|Donetsk|98|3qw|2xm|k|Opytnoye
+Opechenskiy Posad|RU||9i|4hw|2ms|j|Opetsjenskij Posad
+O Páramo|ES||9d|3bb|-ka|j
+Ophasselt|BE||8t|3x6|at|j
+Op-die-Berg|ZA||o|-2jq|1hn|i
+Opeinde|NL||8m|43l|gu|i|De Pein
+Opbrakel|BE||8t|3x3|af|h
+Opprebais|BE||8t|3ws|dc|g
+Oppin|DE||8r|3z7|xf|g
+Opatovce nad Nitrou|SK||8s|3rg|1fl|f
+Opunake|NZ||ak|-31m|dey|f
+Op Buuren|NL||8m|40t|e2|f
+Pontedassio|IT||9o|3e2|m9|e|O Pontedasce
+Ophemert|NL||8m|401|ez|e
+Opařany|CZ||9m|3t8|148|e|Opořany
+Oplotnica|SI||9a|3kv|16x|e|Oplotnitsa
+Opoj|SK||8s|3q6|1d0|d
+Opawa|NZ||ak|-3cz|dbm|d
+Oppurg|DE||8r|3wv|wd|d
+Oppède le Vieux|FR||9k|3dr|ec|d|Aupeda;Opeda
+Opoho|NZ||ak|-3jd|d5o|d
+Opua|NZ||ak|-2q4|dfo|d
+Oporelu|RO||8u|3fw|1vu|d
+Open Stage|MV||af|e7|5mz|d
+Opatów|PL|Silesia|a5|3xk|1ga|c
+Opatów|PL|Greater Poland|a5|3y9|1ef|c
+Opijnen|NL||8m|3zz|eq|b|Opitnen
+Opvelp|BE||8t|3x5|db|b
+Opatov|CZ|Pardubice Region|9m|3uf|19u|b
+Oppenhuizen|NL||8m|439|ft|b|Toppenhuzen
+Oploo|NL||8m|3zd|gb|a|Oplo
+El Opochi|MX||3x|1zq|-8ck|a|Opochi
+Opatovice|CZ|South Moravian|9m|3sc|1a8|a
+Oprișenești|RO||8u|3he|24j|9
+Opheylissem|BE||8t|3wz|du|9
+Oprișița|RO||8u|3lh|24l|8
+Apach|FR||9k|3te|hp|8|Opech
+Opatov|CZ|Vysocina|9m|3sq|17i|8
+Opolany|CZ||9m|3v9|16a|8
+Opatovice|CZ|South Moravian|9m|3sy|1b3|8
+Ape|LV||9n|4fu|225|8|Ope
+Opatovice|CZ|Olomouc Region|9m|3ti|1da|8
+Oppelo|US||2f|2pi|-75p|8|Oppello
+Opotzinga|MX||41|1fj|-7hh|8
+Opytne|UA|Donetsk|98|3pm|2ws|8|Opytnoye
+Opryshky|UA||98|3t5|2k4|7|Oprishki
+Opric|HR||a6|3hv|13n|7
+Oprisavci|HR||a6|3hf|1em|7|Oprisovci
+Opsa|BY||9g|4aa|22j|7
+Opal|US||48|2za|-604|7
+Oprișeni|RO||8u|3mx|25b|7
+Opoul-Périllos|FR||9k|3b3|80|6|Opoul;Òpol
+Opatița|RO||8u|3i5|1n3|6|Opatica;Opaticza
+Opinogóra Górna|PL||a5|42z|1lk|6
+Opperduit|NL||8m|406|d3|6
+Opatovec|CZ||9m|3ud|19s|6
+Optevoz|FR||9k|3j3|et|6
+Oppeid|NO||9j|595|17d|6
+Opan|BG||9v|39a|1ze|5
+Opichén|MX|Yucatán|3z|1m7|-6x4|5
+Hobardzi|AM||80|35s|3fl|5|Opartsi;Hobartsi;Oparts;Opartsy

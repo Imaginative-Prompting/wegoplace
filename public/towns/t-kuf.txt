@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kufa|IQ||5z|2h1|3fg|uk|Koufa;Koefa;Kufe;Cufa
+Kifrī|IQ||5z|2od|3gw|8d|Kiffrī;Kufrī
+Kafr Qāsim|IL||6n|2h7|2p6|7s|Kufr Qāsim;Kafar Qāsem;Kafr Qassem
+Kafr Lāhā|SY||69|2ox|2te|62|Kafer Lâha;Kufer Laha
+Kufstein|AT||a2|3o6|xt|2q|Kufstoa;Kufsstein;Kuffstein
+Kafr Asad|JO||5t|2ik|2r7|2a|Kufr Esad;Kufr Asad
+Kafr Rā‘ī|PS||6g|2hx|2pn|21|Kufr Rā‘i
+Kafr Sawm|JO||5t|2it|2rg|20|Kufr Saum
+Kafr Abīl|JO||5t|2i2|2r2|1r|Kufr Abîl;Kefr Abil
+Kafr Qaddūm|PS||6g|2hi|2pm|y|Kafr Kaddūm;Kufr Qaddūm
+Kafr Qallīl|PS||6g|2hf|2q0|o|Kafr Qalīl;Kufor Qallil
+Kufayrit|PS||6g|2i4|2ps|o|Kufeirit;Kufayrāt

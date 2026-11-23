@@ -1,0 +1,73 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mogadishu|SO||14|5o|3hy|jyo|Muqdisho;Mogadiŝo;Mogadisxo;Mogadischu;Mogadiscio;Mogadišas;Mogadiszu;Mogaidisiú;Mogadişu;Mogadixo;Moqadişo;Mogadiš;Mogadisjoe;Mogadisjû;Mugadiss;Mogadiss;Moukdicho;Mugadishu;Mugadiccu;Mogadixu;Mogadìsciu;Mogadiscium;Mogadisho;Mogandísio;Mogaadisiyo;Muqdishow;Mogadiisho;Muqdishu;Mogadish;Maqdishu;Magadiscio
+Mahilyow|BY||9g|45r|2ca|2q1|Mogilëv;Mahilioŭ;Mahiloŭ;Mogiliovas;Mogiļeva;Mohylew;Mahiljoŭ;Maguilov;Mahiljov;Mogiliavas;Mahiljow;Moguilev;Mahilëŭ;Mogiljow;Mogiljov;Mogilew
+Mogi das Cruzes|BR||4w|-1tc|-3kb|2ih|Moji das Cruzes;Mogy das Cruzes
+Mokpo|KR||7h|2op|9r3|22k|Mogpo;Moppo;Mok-pho;Mokp’o
+Mainz|DE||8r|3uu|n0|1px|Maguncia;Mohuč;Majenco;Mayence;Magonza;Moguntiacum;Moguncja;Mogúncia;Mogontiacum;Mainca;Magunza;Maiança;Mayns;Maincas;Maganza;Majnci;Meenz;Maguntzia;Määnz;Ments;Maiența;Meginsborg;Magontia;Mainc
+Moga|IN||6t|2dl|5st|19e
+Mogi Guaçu|BR||4w|-1q5|-3mf|18j|Mogi-Guaçu;Moji-Guaçu
+Mogi Mirim|BR||4w|-1qb|-3mg|q1|Mogi-Mirim;Mogy-Mirim;Moji-Mirim
+Mogok|MM||7y|1ro|7g3|oz|Magok
+Mogoditshane|BW||m|-1wf|1zv|og|Mogoditšane
+Essaouira|MA||d|2fj|-r5|nn|Mogador;Esauira;As-Shawirah;As-Sawíra;Medino de Esaŭiro;Essauira;Szavíra;Amegdul;Savira;Suvayr;Es Suira;Mogadar;Magador
+Mohyliv-Podilskyy|UA||98|3qk|258|8i|Mohyliv-Podilskyï;Mohylów Podolski;Moghilău;Mohiljiv-Podiljski;Mohyliw-Podilskyj
+Mogtédo|BF||1a|y4|-2c|75
+Mogaung|MM||7y|1yb|7ha|6y|Mogaun;Mongkawng;Mogoung
+Mogliano Veneto|IT||9o|3ik|y0|64
+Mogán|ES||83|25g|-17p|61
+Moguer|ES||9d|2vk|-j0|5g
+Mougins|FR||9k|3d4|jg|5a|Mogins;Muginis
+Mogotio|KE||16|-2|2rw|3q
+Mogeiro|BR||2w|-ka|-2qk|3o|Mojeiro
+Mogwase|ZA||o|-1xz|23r|3l
+Mogocha|RU||67|45a|98p|3i|Mogotsja;Mogotscha;Mogotcha;Mogoča;Mogotxa;Mogotša;Mogoč;Mogocza;Mogucha;Mogacha
+Mogilno|PL||a5|42a|1dw|3h
+Möglingen|DE||8r|3rt|pd|2w
+Mogotes|CO||27|i0|-5mp|2u
+Mogrāl|IN||6t|yx|5s8|2h
+Mogoytuy|RU||67|3yh|8v9|2c|Mogojtuj
+Mogoşoaia|RO||8u|3fp|208|1h
+Moghānjūq|IR||7o|2y7|3gd|1g|Moghānjīq
+Mogyoród|HU||8v|3o8|1hg|1d
+Mogoşeşti|RO|Iași County|8u|3mn|24h|1d
+Moggill|AU||8c|-24m|bsn|1a
+Mogoşani|RO||8u|3g4|1yk|19
+Mogente|ES||9d|300|-23|19
+Mogila|MK||9u|367|1ne|18
+Mouguerre|FR||9k|3cr|-3y|18|Mugerre;Moguerre
+Mogzon|RU||67|3zq|8n1|17
+Mogoro|IT||9o|328|oe|16
+Mögglingen|DE||8r|3rm|ro|15
+Mogoşeşti-Siret|RO||8u|3mx|22e|14
+Mogadouro|PT||99|36u|-in|13
+Moglia|IT|Lombardy|9o|3gu|ub|13
+Mogadore|US||48|361|-6a4|13
+Meghri|AM||80|302|3kg|12|Meğri;Megris;Megry;Mogri
+Mogonga|KE||16|-2e|2ok|10|Mogunga
+Mogpog|PH||71|11f|9ei|w|Mopog
+Mogbwemo|SL||l|lk|-y7|t|Mogbembo
+Mogliano|IT||9o|3bz|11h|s
+Mogilany|PL||a5|3uq|1j9|q
+Mogielnica|PL||a5|3zl|1lk|p|Mogelņica
+Mogelsberg|CH||a7|3nk|pe|m
+Moggio Udinese|IT||9o|3kx|10o|l|Muec
+Mogapi|BW||m|-1q0|25b|j
+Bayraky|UA||98|3po|20l|j|Baïraky;Mogoșești
+Moghān|IR||7o|2t2|48o|g
+Mogneville|FR||9k|3t0|6v|e
+Mogapinyana|BW||m|-1q5|24n|e|Mokhapinyana
+Mogul|US||3p|31r|-995|d
+Mogendorf|DE||8r|3w9|lk|c
+Moggio di Sotto|IT||9o|3kx|10o|b
+Moghūyeh|IR||7o|21x|47f|b
+Mogoñé Viejo|MX||41|1b9|-7bz|9|Mogoñe
+Moglia|IT|Lombardy|9o|3h1|vb|8
+Moglănești|RO||8u|3mc|1yi|8
+Mogoșești|RO|Maramureş|8u|3o6|1t0|7
+Mogoșești|RO|Olt|8u|3fs|1w3|7
+Mogotes de San José Parangueo|MX||41|1kp|-7te|7
+Mogersdorf|AT||a2|3mf|193|7|Nagyfalva
+Mogneneins|FR||9k|3k6|dd|6
+Mogoșești|RO|Giurgiu County|8u|3ew|20j|5
+Möggers|AT||a2|3o4|ra|5
+Mogoșești|RO|Dâmbovița County|8u|3go|1yk|5

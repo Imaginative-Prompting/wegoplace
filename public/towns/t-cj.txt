@@ -1,0 +1,19 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Qinhuangdao|CN||7i|32y|987|5v1|Chinxuangdaw shehiri;Tần Hoàng Đảo;Činhuangdao;Cjiņhuandao;Čchin-chuang-tao;Ĉinhŭangdaŭo;Cìng-huòng-dō̤;Chîn-hông-tó-chhī;Ch’in-huang-tao
+Qufu|CN||7i|2qw|90z|nn|Cjujfu;Čchü-fu;Csüfu;Khúc Phụ;Chü-fu
+Piazza Armerina|IT||9o|2vu|13x|4x|Cjassa;Ciazza
+Casarsa della Delizia|IT||9o|3jn|zo|2b|Cjasarse;Casarsa
+Caorle|IT||9o|3io|zs|23|Cjaurlis;Caprulae
+Caneva|IT||9o|3jp|yl|1q|Cjanive
+Castions di Strada|IT||9o|3jj|10m|10|Cjasteons di Stradalte
+Cassacco|IT||9o|3k9|10n|s|Cjassa
+Campoformido|IT||9o|3ju|10k|o|Cjampfuarmit;Campofórmio
+Chions|IT||9o|3jd|zb|h|Cjons
+Carlino|IT||9o|3j8|10n|d|Cjarlins
+Cavasso Nuovo|IT||9o|3kb|zh|d|Cjavas
+Kobarid|SI||9a|3kh|11q|b|Caporetto;Cjaurêt;Karfreit;Caporeto;Caporett
+Camino al Tagliamento|IT||9o|3jl|zy|7|Cjamin dal Tiliment
+Campolongo al Torre|IT||9o|3je|118|7|Cjamplunc de Tor;Campolongo Tapogliano;Cjamplunc
+Cavazzo Carnico|IT||9o|3kt|108|7|Cjavac

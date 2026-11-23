@@ -1,0 +1,83 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ankara|TR||94|32w|2j9|r50|Angora;Ancyra;Ankaro;Ancara;Enqere;Ăng-kā-lá;Angkara;Anqara;Ankar;Anakara;Ankura;Ankyra
+Anqing|CN||7i|2cr|915|67h|Anking;An Khánh;An-čching;Ančingas;Nganking;An-ch’ing;Ganking
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Anchorage|US|Alaska|1h|4q2|-bke|28g|Ankoridžas;Ankoridža;Ancoraria;Ankoric;Ankoridž;Kisaġvik;Ankorij;Ankoriĝo
+Antsirabe|MG||a8|-1j7|3mn|20h|Antisrabe;Ancirabė
+Ancona|IT||9o|3d5|11j|p0|Ancône;Ankona;Anconn-a
+Castlereagh|GB||9b|47l|-gc|fr|An Caisleán Riabhach
+Anjiang|CN||7i|23w|8hu|fe|Ankiang;An-chiang
+Ancud|CL||4u|-38b|-5p2|bc|Ankuñ;Ankudas
+Ancaster|CA||59|3c2|-667|ba
+Ancien-Prozi|CI||0|lb|-jd|8o
+Anchieta|BR|Espírito Santo|4w|-1lt|-34x|8c
+Ancharakandy|IN||6t|x0|5tp|6e
+Ancón|PA||4g|ow|-64z|5r
+Anchau|NG||u|ug|nb|4b
+Cavan|IE||8z|45z|-kg|39|An Cabhán;Kavanas
+Archaía Olympía|GR||8p|2wl|1o3|34|Olympia;Ancient Olympia;Olympie;Olymbía
+Cookstown|GB||9b|47s|-ir|33|An Chorr Chríochach
+Comber|GB||9b|47j|-fy|2k|An Comar;Komberis
+Blackrock|IE|Leinster|8z|442|-h6|2g|Carraig Dubh;An Charraig Dhubh;Blakrokas
+Ancenis|FR||9k|3nl|-39|26|Ankiniz;Ancenesium
+Newcastle|GB||9b|46m|-gd|22|An Caisleán Nua
+Andzhiyevskiy|RU||9i|3ew|3bp|1w|Anciyevskiy
+Ancient Oaks|US||48|34n|-5tz|1v
+Newcastle West|IE||8z|41p|-p6|1u|An Caisleán Nua;An Caisleán Nua Thiar;Niukasl Vestas
+Anchieta|BR|Santa Catarina|4w|-21p|-445|1n
+Ancuya|CO||27|3i|-5zb|1n
+Anhchanh Rung|KH||78|yb|823|1h|Anchanh Bung
+Cabra|IE||8z|449|-hh|18|An Chabrach
+Anchovy|JM||3i|1f5|-60h|16
+Whitehead|GB||9b|483|-fv|11|An Cionn Bán
+Culmore|GB||9b|48x|-k7|10|An Chúil Mhór
+Cahir|IE||8z|41i|-m0|10|Án Chathair;Caher
+Kill|IE||8z|43x|-ib|x|An Chill
+Ankaran|SI||9a|3im|126|x|Ancarano;Ancaria
+Keady|GB||9b|46p|-im|w|An Céide
+Ancasti|AR||1m|-281|-51y|v
+Ancerville|FR||9k|3r4|dy|s
+Newcastle|IE|Leinster|8z|442|-i2|r|An Caisleán Nua;Novkastelo
+Coolock|IE||8z|44b|-h8|q|An Chúlóg
+Ançã|PT||99|33v|-no|q
+Anchorage|US|Kentucky|3k|2yb|-6ll|o
+Prosperous|IE||8z|441|-ir|m|An Chorrchoill
+Castlerea|IE||8z|45d|-nm|k|An Caisleán Riabhach
+Arkhaía Kórinthos|GR||8p|2xb|1rk|j|Old Corinth;Ancient Corinth;Archaia Korinthos
+Anchor Point|US||1h|4m2|-bpr|j
+Les Ancizes|FR||9k|3jl|7t|i|Ancizes-Comps
+Clifden|IE||8z|44l|-ru|g|An Clochán
+Ancy-sur-Moselle|FR||9k|3sa|gu|f
+Ansião|PT||99|32v|-ng|e|Ancião
+Ancaster|GB||9b|436|-1i|d
+Anchione|IT||9o|3dr|tw|c|Anchiano
+Dungloe|IE||8z|48n|-n8|c|An Clochán Liath
+Ansihuacuaro|MX||41|1k4|-7ut|c|Anciguacaro;Ancihuacaro
+Ancy-le-Franc|FR||9k|3oq|bk|b
+Ancône|FR||9k|3fu|d5|a
+Knock|IE||8z|45f|-os|a|An Cnoc;Cnoc Mhuire
+Ancinnes|FR||9k|3qd|i|9
+Ancarano|IT||9o|3b0|127|9
+Anctoville|FR||9k|3sf|-1z|9
+Newcastle|IE|Leinster|8z|43f|-gv|9|An Caisleán Nua
+Ansac-sur-Vienne|FR||9k|3jr|1t|9|Ançac;Ansac
+Anchik|RU||9i|3ad|3kk|8|Antsjik
+Greencastle|IE||8z|49c|-je|8|An Caisleán Nua
+Carraroe|IE||8z|43y|-qo|8|An Cheathrú Rua;Carrowroe
+Mountbellew|IE||8z|44j|-nm|8|An Creagán;Mount Bellew
+Anceaumeville|FR||9k|3tp|2x|7
+Anchíalos|GR||8p|354|1ra|7|Inglís;Ankhíalos
+Ancourt|FR||9k|3un|3a|7
+Cappamore|IE||8z|425|-n6|7|An Cheapach Mhór
+Cratloe|IE||8z|42e|-oc|7|An Chreatalach
+Ancelle|FR||9k|3fy|h9|7
+Ancien|CI||0|lk|-fu|6
+Ancobamba|PE||3o|-130|-5n2|6
+Cloghan|IE||8z|43u|-lw|6|An Clochán
+Ancemont|FR||9k|3sb|f1|6
+Anclón y Arenal|MX||41|1ks|-7hs|6
+Ancomarca|PE||3o|-rr|-5va|6
+Anchuelo|ES||9d|34f|-93|5
+Ancignano|IT||9o|3iu|wb|5
+Anchayaque|PE||3o|-14m|-5k7|5
+Ancy|FR||9k|3jc|cj|5

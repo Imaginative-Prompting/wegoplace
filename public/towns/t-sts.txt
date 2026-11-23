@@ -1,0 +1,18 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Paris 06 Luxembourg|FR||9k|3rp|6h|b8|St. Sulpice;Saint-Sulpice;Chiesa di Saint Sulpice;Paris 06;VI Saint-Sulpice
+Strzelce Opolskie|PL||a5|3wb|1eu|5m|Opolės Stšelcės;Stšelce Opolske;Groß Strehlitz;Uopolske Strzelce;Gross Strohlitz
+Shchigry|RU||9i|404|2uj|5c|Sjtsjigry;Chtchigry;Ščigry;Ŝĉigri;Štšigrõ;Štšigry;Szczigry;Suchigry;Schtschigry;Shchigary
+Strzegom|PL||a5|3xk|19f|4h|Stšegoma
+Saint Simon Mills|US||48|2el|-6a5|3v|St. Simon Mills;Saint Simons Mills;Saint Simon's Mills
+Saint Simons Island|US||48|2ej|-6a1|3m|St. Simons Island;St. Simons;Saint Simon Island
+Strzelce Krajeńskie|PL||a5|42w|175|2s|Strzelcé;Stšelce Krajeņske;Feriedebergk;Strzelce Kraińskie;Friedeberg
+Saint Sampson|GG||91|3tg|-70|2i|St. Sampson
+Strzyżów|PL||a5|3uj|1oj|2f|Stšižova;Strziżůw;Stzyżów
+Sīs|IR||7o|2y4|3j9|1p|Siz;Sts
+Strzelno|PL|Kujawsko-Pomorskie|a5|427|1eh|1o|Stšelno;Strelno
+St. Stephen|CA||43|3hi|-56y|18|Saint-Stephen
+Sankt Stefan|AT||a2|3m1|159|h|St. Stefan im Lavanttal
+Saint Stephen|US|South Carolina|48|2ks|-660|h|St. Stephen
+Sankt Stephan|CH||a7|3l7|kk|e|St. Stephan;Sankt-Stefano BE
+St. Sebastian|AT||a2|3oq|16j|9
+Saint Stephen|US|Minnesota|2f|3iy|-79v|9|St. Stephen

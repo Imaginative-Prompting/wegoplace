@@ -1,0 +1,114 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Nay Pyi Taw|MM||7y|1iv|7f1|74y|Naypyidaw;Naypyitaw;Naipidau;Nepjido;Ne Pyi Daw
+Pyeongtaek|KR||7h|2ur|9t1|2tb|Pyeongtaeg;Pyongtak;P’yŏngt’aek
+Pyatigorsk|RU||9i|3ed|3bl|13p|Pjatigorsk;Piatigorsk
+Pyay|MM||7y|1ga|7ci|11l|Pye;Prome;Pjajus;Pji;Pyain;Pyei
+Pyin Oo Lwin|MM||7y|1p8|7fy|wl
+P’yŏngsŏng|KP||7a|311|9pn|rs|Pyongsong
+Pyinmana|MM||7y|1iu|7f9|r2|Pjinmana;Pyinmank
+Pongch’ŏn-ŭp|KP||7a|2xw|9qk|m5|P’yŏngch’ŏn-ŭp;Pongch’ŏn
+Piła|PL||a5|43n|1ai|kz|Piéła;Pyla
+Irpin|UA||98|3wc|2c0|i4|Irpień;Pylypiv Potik;Irpen’
+Verkhnyaya Pyshma|RU||7z|4e9|4oa|gf|Pyshma;Werchnjaja Pyschma;Verkhniaïa Pychma;Verchnjaja Pyšma;Verchnjaja Pysjma;Verxnyaya Pışma;Verĥnjaja Piŝma;Verhnjaja Põšma;Verhnjaja Pyšma;Verkhnjaja Pysjma;Wierchniaja Pyszma;Wjerchnjaja Pyšma;Aukštutinė Pyšma
+Pyapon|MM||7y|199|7ds|d3|Pyabôn;Pyapun
+Pyt-Yakh|RU||7z|4or|5me|bj
+Pyu|MM||7y|1fc|7fw|b8
+Pylaía|GR||8p|34s|1rv|a8|Pyléa;Pilėja;Piléa;Pilaía
+Pyawbwe|MM||7y|1l7|7et|8y
+Písek|CZ|South Bohemian Region|9m|3sz|13b|8m|Pysekas;Piseca
+Paramus|US||48|35q|-5ps|7i|Pyramus;Parames
+Pyan Lel Nay Yar Cha Htar Ye|MM||7y|1b5|7f1|7b
+Pirenópolis|BR||4w|-181|-3s0|6z|Pyrenopolis
+Pýrgos|GR|West Greece|8p|2wo|1nk|68|Pírgos
+Peterhead|GB||9b|4fr|-4y|5b|Peterheid;Ceann Phàdraig;Pyterhedas
+Pyskowice|PL||a5|3w0|1fr|5a|Piskovice;Pyskowicy
+Pyatykhatky|UA||98|3qh|2ln|51|Piatykhatky;Pjatychatky;Piatyjatky;Pjatykhatky i Dnipropetrovsk oblast;Peatîhatkî;Pyatıhatkı
+Pyryatyn|UA||98|3vk|2ic|46|Pyriatyn
+Pierre|US||2f|3f9|-7qr|3x|Piras;Pīra;Pirs;Pyer
+Pyin Ma Pin|MM||7y|1b8|7f1|3w|Pyinmabin
+Pichilemu|CL||4u|-2ni|-5k0|3v|Pičilemu;Pičilemas;Pixilemu;Pitchilimu;Pychillimu;Piĉilemo;Pitsilemu;Piychillimu
+Pyle|GB||9b|3z4|-aa|3t
+Pyrmont|AU||8l|-2m3|bnz|3r
+Pyŏksŏng-ŭp|KP||7a|2xp|9os|3l|Pyŏksŏng
+Pyrzyce|PL||a5|43n|15d|3l|Përzëca;Pižice
+Myllypuro|FI||92|4na|1xn|3k|Kvarnbäcken;Pyllymuro
+Pymble|AU||8l|-2lq|bnu|3a
+Piedmont|US|California|3p|2x2|-9fj|36|Pyemont
+Pyi Taw Thar|MM||7y|1b2|7f1|2w
+Petrikov|BY||9g|40t|276|2v|Pyetrykaw;Pietrykaŭ
+Pyshma|RU||7z|4e7|4vp|2t|Pysjma;Pyschma;Pisma;Põšma;Pyszma;Pisjma
+Pyeongchang|KR||7h|2vt|9wn|2r|Pchjongčchang;Pjonĉango;Phjongcshang;Pjončano apskritis;Phjončhana;Phìn-chhông-khiùn;Pjongczang;P’yŏngch’ang
+Pyatykhatka|UA||98|3v5|2sp|2m|Piatykhatka;Pyatykhatky;Pyatikhatka
+Pythagóreio|GR||8p|2wp|22u|23|Pythagorion;Pithagórion;Pythagoria;Pythagorio
+Pyhäselkä|FI||92|4tf|2b9|20
+Pytalovo|RU||9i|4ej|25k|1w|Pytalowo;Pitalovo;Põtalovo;Pitalova;Abrene;Pytalovas;Pyatalovo
+Pryvillia|UA||98|3s5|2ye|1t|Pryvillya;Asesorske;Pyata Rota;Pryvilne
+Pyhäjärvi|FI|Lapland|92|56b|23m|1p
+Pyrbaum|DE||8r|3sy|vd|1m
+Pyawbwe Gyi|MM||7y|1ac|7f2|1i
+Peel|IM||93|46m|-d1|1i|Purt ny h-Inshey;Purt ny hInshey;Purt na hInse;Pylas
+Põlva|EE||9x|4ha|237|1f|Pelva;Pölwa;Pyl’va
+Pyrford|GB||9b|3yj|-1f|1e
+Pya Tha Taik|MM||7y|1a8|7eg|1e|Pyathataik;Pyar Tha Taik
+Pyatigorskiy|RU||9i|3e5|3c6|1e|Pjatigorskij
+Pyhtää|FI||92|4o1|21q|1e|Pyttis
+Pyatnitskoye|RU||9i|3w2|2x3|1d|Pjatnitskoje
+Pyhäjärvi|FI|North Ostrobothnia|92|4ww|206|1a
+Pyāla|IN||6t|26j|5yr|17|Piala
+Pyawbwe Lay|MM||7y|1aj|7ex|14
+Põltsamaa|EE||9x|4ix|205|13|Oberpahlen;Peltsama;Pyltsama;Pyltsamaa
+Pyshchug|RU||9i|4jl|3j0|w|Pysjtsjug
+Pyzdry|PL||a5|40x|1d5|w|Pizdri;Pisdri;Pießern;Peisern
+Pychas|RU||9p|4cy|41o|w|Pytsjas
+P'yatypill'ya|UA||98|3pe|2xu|w|Proletariy;Proletarskoye;Proletars’ke;Pjatypillja;Pyatıpillâ;Pyatipol’ye;P'jatypill'ja;Piatypillia;Proletarskij;Proletarssky;Proletarsky
+Pyhäjoki|FI||92|4z3|1vb|u|Kyhajoki
+Pysznica|PL||a5|3wh|1ph|s
+Pyatovskiy|RU||9i|47x|2s6|r|Pjatovskij
+Pyaozerskiy|RU||9i|52p|2ed|p|Pjaozerskij;Pääjärvi;Piäjärvi
+Pylí|GR|South Aegean|8p|2uc|23g|o|Pilí;Pylli
+Pyatikhatka|UA||9t|3hw|2n6|o
+Pýlos|GR||8p|2uj|1oa|n|Navarino;Pílos
+Pyšely|CZ||9m|3uk|14s|n
+Pymatuning Central|US||48|37j|-67k|n
+Peille|FR||9k|3do|kk|l|Pelha;Pyla Nicaeensium
+Pyiterfolvo|UA||98|3pj|1ro|l|Tiszapéterfalva;Pyyterfolvo;Piyterfolvo
+Pyra|RU||9i|4ce|3cf|k
+Pärnamäe|EE||9x|4la|1x2|k|Pyarnamyae
+Pyatryshki|BY||9g|467|23m|j
+Pyhäranta|FI||92|4pb|1nl|j|Pithäranta
+Pýli|GR|Thessaly|8p|31m|1o2|i|Píli
+Pyynikinrinne|FI||92|4qu|1ty|i
+Pysarivka|UA|Odesa|98|3ph|28p|h|Pisarevka
+Byauk Yoe|MM||7y|1am|7et|h|Pyauk-yo
+Pyhäntä|FI||92|4y2|214|h
+Pyrohiv|UA||98|3vv|2cr|f
+Pýla|CY||73|2p8|2ll|e|Pila
+Pyykösjärvi|FI||92|50o|1yu|e
+Pyanhirou|CI||0|k8|-kq|e
+Pyrgos|CY||73|2oi|2k6|e
+Pyrgetós|GR|Thessaly|8p|32w|1qr|e|Piryetós
+Pyrizhna|UA||98|3ps|28u|d|Pyrijna
+Pyin Ka Do|MM||7y|1a2|7ef|d|Pyin Ka Toe
+Püünsi|EE||9x|4lf|1ww|d|Pyuyunsi
+Peillon|FR||9k|3dm|ki|d|Pelhon;Pylio
+Pyhra|AT||a2|3ps|17l|c
+Pyrgetós|GR|Thessaly|8p|31v|1of|c|Piryetós
+Pýrgos|GR|Crete|8p|2p9|1xv|b|Pírgos
+Pylypets|UA||98|3r6|1so|b|Pilipets
+Pyrgíon|GR||8p|2y7|208|b|Piryi;Pirgi;Pirghi;Pyrgi
+Pylkönmäki|FI||92|4u3|1ww|a
+Pyadykivtsi|UA||98|3qe|1z9|a|Piedicăuți;Piadykivtsi
+Püssi|EE||9x|4kw|235|9|Piusis;Pisi;Pyussi;Puessi
+Pyynikki|FI||92|4qt|1tw|9|Pynike
+Pyzówka|PL||a5|3tj|1je|9
+Pýthio|GR||8p|33b|1pr|9
+Pyrohy|UA||98|3t3|2k5|8|Pirogi
+Pyar Hmut|MM||7y|19t|7f4|8|Pyamut
+Pyrizhky|UA||98|3x7|295|7|Pirozhki;Piruzhki
+Pysarivka|UA|Poltava|98|3ta|2o5|7|Pisarevka
+Pylesville|US||48|329|-5w5|7
+Pyalong|AU||8j|-2v3|b6d|6
+Hovuni|AM||80|35j|3do|6|Yasaul;Yesaul;Pyunik;Ovuni
+Pyramid Hill|AU||8j|-2s6|b4b|6
+Pyshnenky|UA||98|3v3|2ns|5|Pyshnenki;Pishnenki

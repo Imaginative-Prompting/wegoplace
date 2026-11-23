@@ -1,0 +1,38 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Deurne|BE|Flanders|8t|3ya|cf|lv
+Poprad|SK||8s|3sa|1ke|dn|Deutschendorf
+Lugoj|RO||8u|3ix|1ou|c0|Deutsch-Lugosch;Lugos;Lugosch;Lugas;Lugoi
+Zweibrücken|DE||8r|3st|kh|9s|Deux-Ponts;Zweebrigge;Bipontium
+Iława|PL||a5|44w|1id|92|Deutsch Eylau;Ilava;Ylava
+Deūlgaon Rāja|IN||6t|1jm|5v8|8k
+Wałcz|PL||a5|440|19r|78|Deutsch Krone;Valčas;Valča;Wôłcz
+Deuil-la-Barre|FR||9k|3s2|6h|60|Deuil-La Barre
+Deux-Montagnes|CA||59|3ih|-5pa|4u
+Deutz|DE||8r|3xh|jd|48|Düx;Divitia
+Deutschlandsberg|AT||a2|3m2|16a|2c|Lonč;Deutschlandberg
+Tauste|ES||9d|38g|-3h|21|Taust;Deustia
+Deuchendorf|AT||a2|3nv|16k|1j
+Frătăuţii Vechi|RO||8u|3p2|1zw|1a|Deutsch Alftratautz;Fratiwci Stari Nimecki;Alftratautz;Rumänisch Altfratautz;Frawici Stari Rumuński
+Deutsch-Wagram|AT||a2|3q6|1a1|1a|Německý Ogruň;Nimški Ogrun;Nemecký Ogrú
+Deux-Acren|BE||8t|3wx|ap|13
+Deutsch Evern|DE||8r|43s|sz|11
+Jablonné v Podještědí|CZ||9m|3x1|150|11|Deutsch Gabel
+Deutschkreutz|AT||a2|3o8|1a7|s|Sopronkeresztúr
+De Uithof|NL||8m|40p|ed|s|Uithof
+Deurle|BE||8t|3xo|a1|p
+Deutschfeistritz|AT||a2|3n4|16m|n
+Deurne|BE|Flanders|8t|3xs|e6|m
+Deutzen|DE||8r|3xz|yj|m
+Deuerling|DE||8r|3s8|x3|l
+Deusen|DE||8r|3z6|kn|h
+Deuteren|NL||8m|3zl|en|f
+Deûlémont|FR||9k|3wx|87|f
+Nova Ponente|IT||9o|3kx|vr|f|Deutschnofen;Nova Teutonica
+Deuben|DE||8r|3xz|xj|c
+Deutsch Kaltenbrunn|AT||a2|3mt|18r|c
+Deutsch Schützen-Eisenberg|AT||a2|3n1|19p|b|Németlövő;Német-Lő;Njemačke Šice;Deutschschützen;Deutsch Schützen;Deutsch-Schützen
+Deuna|DE||8r|3yn|t3|b
+Deutschbrodersdorf|AT||a2|3p6|19r|9|Deutsch-Brodersdorf
+Brodek u Konice|CZ||9m|3tn|1ar|8|Deutsch Brodek
+Deutsch Jahrndorf|AT||a2|3pd|1bj|6
+Deutsch Tschantschendorf|AT||a2|3mv|199|5

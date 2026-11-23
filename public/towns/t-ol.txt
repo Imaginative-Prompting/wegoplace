@@ -1,0 +1,571 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Lisbon|PT||99|2zl|-pf|3zu|Lisboa;Olisipo;Felicitas Julia;Lissabon;Lisabon;Liospóin;Lisszabon;Lisabona;Lizbona;Felicitas Julia Olissipo;Olissipo;Lizboa;Lizbon;Lisimbã
+Olinda|BR||4p|-m9|-2ou|2tb
+Yoshkar-Ola|RU||9i|4dc|3p1|22j|Joschkar-Ola;Joszkar-Oła;Iochkar-Ola;Joškar-Ola;Josjkar-Ola;Ioshkar Ola
+Oldham|GB||9b|44q|-5w|1tv|Oldamas;Oldema
+Olongapo|PH||71|157|9a4|1pg
+Olsztyn|PL|Warmia-Masuria|a5|45e|1kx|1b6|Allenstein;Alnāsteini;Olštýn;Olštynas;Olshtin;Olştin;Allenshteyn
+Oldenburg|DE||8r|43m|mt|188|Oldenbourg;Ollnborg;Aldinborg;Ooldenbuurich;Oldenbörj;Oldemburgh;Aldenboarch;Oldemburgo
+Teshi Old Town|GH||1|fi|-b|140|Teshie
+Aalborg|DK||8y|4eh|rk|13p|Ålborg;Olborga;Álaborg;Olborgas;Olborg
+Olathe|US|Kansas|2f|300|-7be|11b|Olat
+Olmaliq|UZ||7m|35g|5dc|112|Almalykas;Almalık;Olmalik;Almalıq;Almalyk
+Olanchito|HN||56|170|-6oh|yj|Olanchita
+Albany|US|New York|48|3ah|-5ow|s4|Olbanis;Olbani;Albania
+Oleksiyivka|UA|Kharkiv|98|3v1|2sj|rx|Alekseyevka;Oleksiivka;Alekseevka
+Oleksandrivskyi|UA||98|3p9|2x0|rv|Leninskyi rayon;Leninskyi;Oleksandrivka
+Olomouc|CZ||9m|3ts|1bx|rn|Olmütz;Ołomuniec;Wołomuc;Olomucium;Eburum;Olmic;Olomouts
+Olupona|NG||u|l4|bn|qe|Olupono
+Porto Amboim|AO||x|-tt|129|pg|Benguella Velha;Porto Hmboim;Amboim;Port Amboim;Benguela Velha;Benguela-a-Velha;Old Benguela;Ambonim;Ambouim
+Olavarría|AR||1l|-2uh|-4nk|ox|Olavarija
+Oleksandriya|UA|Kirovohrad|98|3r7|2k0|l5|Oleksandriïa;Oleksandrija
+Palaió Fáliro|GR||8p|2xd|1tu|hs|Palaión Fáliron;Old Faliron;Alt Phaleron;Paleo Faliro
+Olbia|IT||9o|35o|qe|gr|Terranòa;Tarranóa
+Oltinko‘l|UZ||7g|3bn|4jm|gf|Oltinkŭl
+Olympia|US||3p|3mo|-9he|fh|Olimpija;Olimpėjė;Olimpiya
+Olímpia|BR||4w|-1lm|-3rv|fb|Olympia
+Ålesund|NO||9j|4tj|h3|em|Álasund;Estrecio Anguilla;Olesiundas
+Alytus|LT||a3|474|1us|do|Alīta;Olita;Alītos;Alitus;Alytaus
+Ol Kalou|KE||16|-r|2t2|da
+Staré Mesto|SK||8s|3pr|1bh|ct|Old Town;Vieille ville;Malnova Urbo;Stari grad;Stare Miasto;Ciudad Vieja;Bratislavan vanhakaupunki
+Volkhov|RU||9i|4mg|2hu|cp|Wolchow;Volĥov;Olhava;Vóljov;Volchov;Volchovas;Volhova
+Olavanna|IN||6t|v6|5un|c7
+Olival|PT|Lisbon|99|2zp|-pp|by
+Stare Misto|UA|Kyiv City|98|3w5|2ct|bm|Old Kyiv;Old Town;Staryi Kyiv;Staryy Kyiv
+Oliveira|BR||4w|-1li|-3gj|ba|Olivera
+Aldershot|GB||9b|3yd|-24|b6|Olderšotas
+Olney|US|Pennsylvania|48|338|-5so|aw|McCartersville
+Olkusz|PL||a5|3vo|1id|ah|Olkuša;Olkušas;Ilkenau;Ol'kush
+Oleśnica|PL|Lower Silesia|a5|3y9|1cb|aa|Olešnice
+Slantsy|RU||9i|4k8|261|a2|Slanzy;Slancy;Slanci;Slantsõ;Slancai;Slančči;Olantsy
+Olive Branch|US|Mississippi|2f|2p4|-6xj|a0
+Old City|PS||6g|2ga|2pv|a0|Altstadt;Stari grad;Vieille Ville;Città Vecchia
+Oleiros|ES|Galicia|9d|3cd|-n4|9w
+Oleksandrivska Slobidka|UA||98|3w2|2co|9h|Aleksandrovskaya Slobodka
+Olney|US|Maryland|48|30r|-5y3|9e
+Olivais|PT||99|2zp|-pb|9e|Olivaes
+Olot|ES||9d|396|6x|9b
+Oława|PL||a5|3xj|1c1|96|Ohlau;Olava;Ohiau
+Oldenzaal|NL||8m|41b|j9|8q
+Ołbin|PL||a5|3y0|1bd|8o
+Oliver-Valdefierro|ES||9d|37o|-2l|8e
+Kiskunhalas|HU||8v|3kz|1i4|86|Olaš;Halaš;Kiskunhalos
+Olhão|PT||99|2uv|-ls|84
+Oliva|ES||9d|304|-c|7w
+Ölgii|MN||6j|3s1|6xw|7w|Ölgiy;Ulgiy;Ul'gey
+Olindina|BR||20|-vl|-2yh|7v
+Aldridge|GB||9b|425|-5c|7h|Oldridžas
+Old Harbour|JM||3i|1du|-5y7|78|Old Harbor
+Olpe|DE||8r|3xr|lt|75
+Oltiariq|UZ||7m|347|5ij|73
+Oleshky|UA||98|3lj|2iw|6u|Tsyurupynsk;Olechky;Zjurupynsk;Oleschky;Oleški
+Oliveira do Douro|PT||99|368|-nu|6s
+Olching|DE||8r|3pw|vh|6o|Oiching
+Old Bridge|US||48|349|-5ql|6m|Oldbridge
+Old Shinyanga|TZ||h|-9v|2ks|6l
+Olenegorsk|RU||9i|59a|2kd|6l|Oleneqorsk;Olenjegorsk;Oleniegorsk
+Oltu|TR||94|34m|38n|6j|Olty;Olti
+Olesa de Montserrat|ES||9d|37e|59|6h
+Dokuchayevsk|UA||98|3on|2wo|6c|Dokuchayevs’k;Dokuchaievsk;Dokučajevsk;Dokutschajewsk;Olenivski karyery;Olenivski kariery
+Olteniţa|RO||8u|3eg|21z|6a
+Olivet|FR||9k|3oy|5a|6a
+Oliveira dos Brejinhos|BR||20|-y8|-3b6|62|Oliveira do Brejinho
+Old Trafford|GB||9b|44i|-6d|5y
+Olho d'Água das Flores|BR||3r|-qi|-2vl|5v
+Olympic|HK||6i|1q0|8t4|5e
+Old Jamestown|US||2f|2zv|-6yt|5c
+Olten|CH||a7|3nj|ly|54
+Wîhkwêntôwin|CA||2s|44q|-8rc|52|Oliver
+Olho d’Água das Cunhãs|BR||2w|-bi|-3hc|4z
+Olari|FI||92|4n5|1wp|4p|Lari;Oltsi;Oltsu;Olars
+Beltsville|US||48|30f|-5xn|4o|Vansville;Old Vansville
+Olecko|PL||a5|463|1qj|4f|Treuburg;Alėcka
+Olsberg|DE||8r|3yo|nl|4e
+Stará Ľubovňa|SK||8s|3sy|1lh|4d|Lubowla;Ólubló;Stara Lyubovnya;Stara Liubovnia
+Old Swan|GB||9b|44d|-83|4c
+Ala-Buka|KG||65|371|5il|4a|Ola-Bo‘ka;Ola-Bo‘qa
+Gammel Virum|DK||8y|4az|yn|46|Old Virum
+Oliwa|PL||a5|475|1fj|42|Oliva
+Oldsmar|US||48|25v|-6dn|3y
+Olpād|IN||6t|1na|5m3|3x
+Ollioules|FR||9k|3bu|g9|3v|Oliolas;Oliulas
+Olean|US||48|38w|-61v|3v
+Ochakiv|UA||98|3lh|2fn|3t|Otschakiw;Otchakiv;Očakiv;Otsjakiv;Otxàkiv;Očakiw;Očakivas;Očakiva;Oceac;Očakov;Özi;Oczaków;Olbia;Ochakov;Otschakow
+Olivehurst|US||3p|30m|-9dn|3t
+Olinda Nova do Maranhão|BR||2w|-8c|-3h0|3s
+Olympia Heights|US||48|1zh|-678|3r|Olympic Heights
+Ol Kalau South Settlement|KE||16|-r|2sy|3o
+Olhos de Água|PT||99|2v1|-mr|3o|Olhos d'Agua
+Olot Shahri|UZ||7g|31i|4x8|3o
+Oliva|AR||1n|-2h0|-4wl|3l|Olivia
+Oluta|MX||41|1dt|-7bm|3j
+Oleggio|IT||9o|3io|o0|3j
+Oloron-Sainte-Marie|FR||9k|3bz|-1p|3i|Auloron;Auloron e Senta Maria;Oloroe-Donamaria;Olaro
+Olmué|CL||4u|-2jo|-5hr|3h
+Odlābāri|IN||6t|22k|6u7|3f|Oldābāri
+Olgiate Olona|IT||9o|3is|oo|3e
+Olfen|DE||8r|3zn|ki|3d
+Old Yundum|GM||7|114|-1ad|3c
+Olivenza|ES||9d|2zg|-jq|3c|Olivença
+Oliveira de Azemeis|PT||99|35g|-nk|3a
+Olivença|BR||3r|-qg|-2vb|39
+Olbernhau|DE||8r|3wq|112|34|Olbernhava
+Olonne-sur-Mer|FR||9k|3la|-4x|34
+Archaía Olympía|GR||8p|2wl|1o3|34|Olympia;Ancient Olympia;Olympie;Olymbía
+Murska Sobota|SI||9a|3lm|18x|33|Olsnitz;Muraszombat;Oisnitz;Murska Subota
+Oldbury|GB||9b|41u|-5m|30|Oldberis
+Olgiate Comasco|IT||9o|3j6|ox|2z|Olgiate Novocomense
+Old Saybrook|US||48|36p|-5l2|2y
+Oloitokitok|KE||16|-85|2w7|2y|Laitokitok
+Olesno|PL|Opole Voivodeship|a5|3xc|1f6|2u|Uoleszno
+Olevsk|UA||98|3ya|24t|2s|Olevs’k
+Olonets|RU||9i|4pe|2jl|2s|Olonez;Olonec;Aunus;Anus;Ołoniec;Anuksenlinnu;Olonjec;Aunuksenlinna
+Olagadam|IN||6t|w5|5zo|2s
+Oldenburg in Holstein|DE||8r|46t|u9|2r|Oldenbourg en Holstein;Oldenburg;Oldenburgum;Oldemburgo
+Olaya Herrera|CO||27|3h|-5z9|2q
+Olmos|PE||3o|-gm|-65j|2q
+Oldbawn|IE||8z|440|-hp|2q|An Seanbhábhún
+Old Man Bay|KY||2e|1hq|-69i|2p
+Olaine|LV||9n|4ds|1ui|2p|Olayne
+Olympic Village|CA||5b|3sv|-9hz|2m
+Serravalle|SM||9q|3e5|yo|2l|Olnanum;Seravalė
+Old East York|CA||59|3de|-64e|2k
+Olds|CA||2s|3zu|-8sy|2k
+Old Jeswang|GM||7|11e|-1aa|2j|Old Jeshwang
+Olney|US|Illinois|2f|2zl|-6sp|2i
+Olmsted Falls|US||48|36y|-6bj|2h
+Olyokminsk|RU||7x|4np|9ai|2g|Olekminsk
+Olivares|ES||9d|2vy|-h4|2g
+Old Orchard Beach|US||48|3cw|-5fi|2e
+Olho d'Água do Casado|BR||3r|-qe|-2x3|2d
+Olamzé|CM||j|66|us|2d
+Olvera|ES||9d|2ul|-en|2d
+Oleksandrivka|UA|Kirovohrad|98|3s1|2hk|2d
+Olovyannaya|RU||67|3xj|8x2|2a|Olovjannaja;Olowjannaja;Olovânnaya;Ołowiannaja;Olovyanraya
+Old Forge|US|Pennsylvania|48|36x|-5ud|28
+Oleksiyevo-Druzhkivka|UA||98|3qy|2wh|28|Oleksiievo-Druzhkivka
+Old Harbour Bay|JM||3i|1dr|-5y6|27
+Olivette|US||2f|2zf|-6z2|27
+Olombo|CG||a|-3j|186|26|Ollombo
+Olingan|PH||71|nq|9ik|26
+L'Olleria|ES||9d|304|-1j|24|Ollería
+Old Town|US|Maine|48|3gt|-5ap|24|Oldtown
+Oleksandrivka|UA|Odesa|98|3kp|2d4|24|Arnautka;Olexandriwka;Ołeksandriwka;Aleksandrovka;Arnautovka
+Ol’gino|RU|Leningradskaya Oblast'|9i|4m8|2b4|24|Olgino;Ristikylä;Olino
+Olsztynek|PL||a5|44u|1kc|24|Hohenstein;Olštineka;Olštynekas
+Olofström|SE||9w|4cc|14d|23
+Oliena|IT||9o|33w|q4|21|Ulìana
+Old Windsor|GB||9b|3yy|-1n|20|Vetus Windesoria
+Olutanga|PH||71|kb|9h9|1z
+Old Jefferson|US||2f|2ce|-70u|1y
+Olginate|IT||9o|3j7|q6|1y
+Old Harlow|GB||9b|3zu|d|1y
+Ołtaszyn|PL||a5|3xu|1bb|1x
+Vilshany|UA|Kharkiv|98|3v1|2ro|1v|Vil’shany;Ol’shany
+Ollon|CH||a7|3km|jf|1v
+Old Greenwich|US||48|35y|-5oc|1u
+Skole|UA||98|3s8|1tb|1t|Oleksandriya;Skol’ye
+Olney|GB||9b|40v|-1y|1t
+Oleksandrivsk|UA||98|3qz|30v|1s|Aleksandrovsk;Oleksandrivs’k;Aleksandrovka
+Olevano sul Tusciano|IT||9o|34y|15q|1s
+Ola|RU||6z|4li|boa|1r
+Olocuilta|SV||2u|11p|-6vk|1r
+Olgiate Molgora|IT||9o|3j1|q4|1r
+Staré Město|CZ|Prague|9m|3v5|142|1r|Prager Altstadt;Old Town;Ciudad vieja;Vieille Ville;Città Vecchia;Oude Stad;Malnova Urbo;Pragako Hiri Zaharra;Óváros;Stare Miasto;Cidade Velha;Praški stari grad
+Olula del Río|ES||9d|2vr|-6e|1q
+Oliveira do Bairro|PT||99|34j|-nl|1q|Oliveira de Bairro
+Oliveira|PT||99|378|-nj|1q
+Old City|US||48|32z|-5sr|1q|Città Vecchia
+Wulai|TW||7l|1x2|9dn|1q|Vû-lòi-khî;Vulajus;Ô Lai;U-lai-khu;Olay;Wu-lai
+Olho d'Água|BR||2w|-k3|-2wv|1p
+Kampung Olak Lempit|MY||6v|7w|7u7|1o|Olak Lempit
+Old Tappan|US||48|35x|-5pj|1o
+Olival Basto|PT||99|2zr|-ph|1o
+Olbersdorf|DE||8r|3xb|151|1n
+Olinalá|MX||41|1de|-7ma|1m
+Oleksandrivka|UA|Donetsk|98|3rb|2uj|1l|Aleksandrovka
+Oleksandrivka|UA|Donetsk|98|3p4|2we|1l|Aleksandrovka
+Oleiros|PT||99|32w|-lz|1l
+Olival|PT|Porto|99|361|-nq|1l
+Oliva de la Frontera|ES||9d|2yc|-j8|1l|Oliva de Frontera
+Goa Velha|IN||6t|16w|5p9|1l|Old Goa;Goa Vieja;Oud Goa;Antiga Goa;Velha Goa;Gamle Goa;Stara Goa;Ó-Goa;Senoji Goa;Stare Goa
+Olevano Romano|IT||9o|38a|108|1k
+Olulung’a|KE||16|-2s|2r2|1k|Ol Lalunga;Ol Olong’a
+Olodio|CI||0|d4|-kr|1k
+Old Bethpage|US||48|358|-5o1|1j
+Alkhazurovo|RU||9i|3bm|3it|1j|Olxazaran-Khotar;Olxazar-Khotar;Privol’noe;Privol’noye;Alhazurovo
+Olhos d'Água|BR||4w|-1cc|-3d1|1i
+Old Fig Garden|US||3p|2u8|-98t|1i
+Ølstykke|DK||8y|4b0|xs|1h
+Olías del Rey|ES||9d|32y|-b3|1h
+Albury|AU||8l|-2s7|bc4|1h|Olberis
+Ol’ginskaya|RU|Rostov|9i|3n3|32z|1h|Olginskaya;Olginskaja
+Oleksandrivka|UA|Mykolaiv|98|3oh|2ew|1g
+Oleszyce|PL||a5|3vd|1rz|1g
+Olyphant|US||48|377|-5u0|1f
+Oliver|CA||5b|3sm|-983|1f
+Olenino|RU||9i|4c5|2l1|1f
+Hal’shany|BY||9g|46q|209|1e|Gol'shany;Alšėnai;Ol’shany;Holszany;Olshan;Haĺšany
+Olympia Fields|US||2f|37b|-6rj|1e
+Oliveirinha|PT||99|34t|-nv|1e
+Ollainville|FR||9k|3qz|66|1d
+Old Kilpatrick|GB||9b|4bc|-ce|1d|Cille Phádraig;Auld Kilpatrick
+Oltintopkan|TJ||6d|34x|5dc|1c|Altyn-Topkan
+Olst|NL||8m|41e|gz|1c
+Olszyna|PL||a5|3xv|16p|1b|Langenöls
+Oleksandriyske|UA||98|3r0|2jn|1b|Dymytrove;Oleksandriïské
+Oliveira do Hospital|PT||99|344|-lu|1b
+Oleshnyk|UA||98|3pt|1rs|1b|Oleshnik;Egres;Egresh
+Old Westbury|US||48|35b|-5og|1b
+Olenivka|UA|Donetsk|98|3ov|2wm|19|Olenovka;Yelenovka
+Ol’ginskaya|RU|Krasnodar Krai|9i|3jn|2z3|18|Olginskaja
+Olho d'Água Grande|BR||3r|-ry|-2ua|18
+Old Bar|AU||8l|-2gt|brv|18
+Ol’ga|RU||7w|3dj|aft|17|Olga
+Polski Filvarky|UA||98|3r8|21t|15|Pol's'ki Fil'varky;Polskie folwarki;Polskie folvarki;Lyads'ki fil'varky;Liadski filvarky;Liadski humnyska;Lyads'ki humnys'ka;Horni filvarky;Aleksandrovskaya sloboda;Oleksandrivs'ka sloboda
+Ol’khovatka|RU||9i|3vo|315|15|Olkhovatka
+Old Tuxedo|CA||5d|3uj|-7i1|14
+Olléo|CI||0|qp|-g3|14
+O'Leary's|CA||50|3o4|-42l|14
+Olivia|MU||ag|-1kd|4gd|14|Oliva
+Bahate|UA||98|3i5|28e|14|Doluchioi;Ölü Köy
+Olsene|BE||8t|3xh|9m|13
+Olho d'Água do Borges|BR||2w|-gk|-2wr|13|Ôlho d'Água dos Borges
+Ol’gino|RU|St. Petersburg|9i|4mp|2bo|13|Olgino;Olkino
+Olhopil|UA|Vinnytsia|98|3pu|29x|13|Roguska Czeczelnicka
+Old Basing|GB||9b|3yf|-2v|13|Basing
+Olne|BE||8t|3wj|fz|12
+Olivarez|US||2f|20v|-7k7|12
+Olmen|BE||8t|3y2|eb|12
+Oliver|US|Maryland|48|317|-5ws|12
+Olofstorp|SE|Västra Götaland|9w|4gk|xt|11
+Ølgod|DK||8y|4b1|nz|11
+Old Beach|AU||8g|-3au|bd3|11
+Oleksandrivka|UA|Odesa|98|3lh|2dq|11|Aleksandrovka
+Olmedo|IT||9o|34x|na|10
+Ölbronn-Dürrn|DE||8r|3s1|ob|10
+Olshanske|UA||98|3n1|2g8|10|Olchanské;Olshanskiy
+Olivedos|BR||2w|-jf|-2so|10
+Olmedo|ES||9d|36p|-d1|10
+Old Mystic|US||48|36z|-5jw|10
+Olur|TR||94|35e|391|z|Olor
+Olite-Erriberri|ES||9d|3a0|-4l|y|Oligitum;Olit;Erriberri;Oligicus;Olite
+Ol Donyo|KE||16|-30|2vh|y
+Olteni|RO|Teleorman County|8u|3eq|1y8|y
+Old Reynella|AU||8b|-2pi|aot|x
+Olvega|ES||9d|382|-5i|x
+Cidade Velha|CV||84|15g|-1tl|x|Sidade Velja;Old City
+Olovo|BA||9r|3el|1fm|x
+Oldebroek|NL||8m|41p|ge|x|Olderbroek
+Oliver Springs|US||48|2s4|-6ia|w
+Oldmeldrum|GB||9b|4f9|-6g|w|Meall Druim;Mealdruim;Old Meldrum
+Vilkhivtsi-Lazy|UA||98|3pp|1tt|w|Vil’khivtsi-Lazy;Ol’khovtsy-Lazy
+Olen|BE||8t|3y2|di|w
+Olemps|FR||9k|3f7|73|w
+Old Woking|GB||9b|3yi|-1i|w
+Olney|US|Texas|2f|2kp|-7mb|w
+Olym|RU||9i|3zk|2y2|v
+Oligbé|CI||0|fg|-el|v
+Old Toongabbie|AU||8l|-2lv|bnd|v
+Olyka|UA||98|3ww|1zp|v|Olika;Olik;Olica
+Vilkhovets|UA||98|3s8|2dt|u|Ol’khovets
+Olteneşti|RO||8u|3le|25i|u
+Oltina|RO||8u|3ep|24v|u
+Olszynka|PL||a5|46y|1fv|u
+Old Stores|KY||2e|1hv|-6a3|u
+Oleskiw|CA||2s|44m|-8rl|u
+Olhynka|UA||98|3oi|2w7|t|Ol’hynka
+Olcea|RO||8u|3lo|1p2|t
+Oldendorf|DE|Lower Saxony|8r|44v|pp|s
+Olenguruone|KE||16|-1n|2r5|s
+Olofstorp|SE|Västra Götaland|9w|4ht|12w|s
+Ölüdeniz|TR||94|2tl|28y|r
+Old Guildford|AU||8l|-2m2|bne|r
+Olivar|CL||4u|-2n1|-5gq|q
+Olho d'Água do Piauí|BR||2w|-g8|-3a9|q
+Olímpio Noronha|BR||4w|-1pb|-3hq|q
+Oliver|US|Pennsylvania|48|32w|-65g|p
+All Saints|AG||1j|1bf|-4rn|p|Ol Sentsas;Aal Sient
+Óleo|BR||4w|-1rq|-3t2|p
+Olimpo|PR||4m|1e0|-53n|p
+Oldisleben|DE||8r|3yj|v1|p
+Oleksandrivka|UA|Odesa|98|3jh|28f|p|Satılık Hacı;Satalâc-Hagi
+Ołpiny|PL||a5|3ud|1mw|o
+Oldemarkt|NL||8m|42q|gm|o
+Old Orchard|US||48|34y|-5t2|o
+Olea|PH||71|182|9ap|o
+Oleksandriya|UA|Rivne Oblast|98|3wx|217|o|Oleksandriia;Aleksandria;Aleksandr’ya;Aleksandriya
+Olmos Park|US||2f|29w|-7ll|o
+Old Town|US|Maryland|48|315|-5wt|o|Oldtown
+Olivia|US||2f|3ge|-7bv|o
+Olsztyn|PL|Silesia|a5|3wz|1hj|n
+Oleshyn|UA||98|3tf|22u|n|Olëshin
+Oleksandrivka|UA|Zakarpattia|98|3pp|1tb|n|Aleksandrovka
+Olenyok|RU||7x|5aa|8od|n|Olenek
+Olivella|ES||9d|36s|52|n
+Oulx|IT||9o|3h4|iz|n|Ols;Ors
+Old Brookville|US||48|35f|-5og|m
+Oltrona di San Mamette|IT||9o|3j4|oy|m
+Artemovsk|RU||6u|46z|77k|m|Ol’khovskiy;Artyomovsk
+Oliveri|IT||9o|2xx|15u|m
+Olton|US||2f|2my|-7vp|l
+Ilioilio|PH||71|18c|98p|l|Ollio-ilio
+Ol Joro Orok|KE||16|-7|2t0|l|Oljoro Orok
+Old Kilcullen|IE||8z|43j|-it|l
+Oliveto Citra|IT||9o|351|16b|l
+Old Saybrook Center|US||48|36p|-5l1|k
+Oliveira Fortes|BR||4w|-1na|-3cq|k
+Ollantaytambo|PE||3o|-10u|-5kq|k|Ullantaytanpu;Ullantaytampu;Oljantaintambas;Ollantaitambo
+Parutyne|UA||98|3lr|2gm|k|Paroutyné;Olbia du Pont;Parutine
+Olga|US||48|228|-6az|k
+Ølsted|DK||8y|4bc|xj|j
+Olaria|BR||4w|-1oq|-3e2|j
+Arkhaía Kórinthos|GR||8p|2xb|1rk|j|Old Corinth;Ancient Corinth;Archaia Korinthos
+Ologeni|RO||8u|3g9|203|j
+Olešná|SK||8s|3ta|1fw|j
+Olari|RO|Arad County|8u|3ku|1nv|j
+Olintla|MX||41|1ju|-7jc|j
+Oliva de Mérida|ES||9d|2zr|-h0|j
+Olšany u Prostějova|CZ||9m|3tm|1bo|j
+Oudehaske|NL||8m|434|gb|j|Oldehaske;Aldehaske;Audenhaskas
+Vilkhivka|UA|Zakarpattia|98|3q3|1s3|j|Vil’khivka;Vil’khovka;Ol’khovka
+Olkahinen|FI||92|4qx|1ui|j
+Oleksandrivka|UA|Odesa|98|3l0|29t|i|Alexăndreni;Oleksandriwka
+Oleggio Castello|IT||9o|3j3|np|i
+Olintepec|MX||41|1g2|-7mz|i
+Oleksiivka|UA|Kharkiv|98|3t8|2st|i|Alekseyevka;Oleksiyivka
+Olhalvo|PT||99|30m|-p7|i
+Oleśnica|PL|Świętokrzyskie|a5|3w5|1mi|i
+Ol’ginka|RU||9i|3et|301|i|Olginka
+Olaszliszka|HU||8v|3q1|1nj|i
+Olathe|US|Colorado|2p|2z8|-8by|i
+Olyshivka|UA||98|3ya|2f2|i|Olishëvka;Olyschiwka;Olyšivka;Ołysziwka;Olishivka;Olychivka;Olışivka;Olischewka
+Oliana|ES||9d|38v|3n|i
+Olinda|AU||8j|-2x5|b7t|i
+Olm|LU||9c|3ty|go|i|Ollem
+Olibribouo|CI||0|gq|-gb|i
+Olešnice|CZ|South Moravian|9m|3to|19m|i
+Oelixdorf|DE||8r|45t|qk|h|Ölixdorf
+Olcuatitán|MX||41|1ej|-768|h
+Olazagutía|ES||9d|3b4|-64|h
+Olesno|PL|Lesser Poland|a5|3vg|1m5|h
+Olza|PL||a5|3ur|1ey|h
+Oleksiivka|UA|Odesa|98|3k4|2bi|h|Mansburg;Oleksiyivka;Mannsburg
+Olopa|GT||32|14t|-6w7|h
+Oltre Brenta|IT||9o|3i5|xc|h
+Valdaora di Mezzo|IT||9o|3lw|xf|h|Olang;Valdaora;Aulacum;Valdapra
+Old Road Town|KN||51|1c4|-4ug|g
+Olonzac|FR||9k|3c8|7l|g
+Oloví|CZ||9m|3vl|yw|g
+Olivet|US|Michigan|2q|39w|-6jw|g
+Olive Hill|US||48|2ye|-6f1|g
+Olūsjerd|IR||7o|2p4|3vu|g|Alūsjerd;Alasjerd;Alūsgerd
+Ollignies|BE||8t|3wt|aq|f
+Oldersum|DE||8r|445|ke|f
+Aldeboarn|NL||8m|43d|ge|f|Oldeboorn
+Centro Histórico|CV||84|15e|-1w2|f|Old City Center São Filipe;Old City Centre São Filipe
+Ölper|DE||8r|419|t6|f
+Olbendorf|AT||a2|3n2|190|e
+Vilkhivchyk|UA||98|3pp|1ty|e|Vil’khivchyk;Ol’khovchik
+Olenevka|UA||9t|3i2|2id|e|Qarağy
+Oldřišov|CZ||9m|3uv|1dw|e|Odersch;Oldrzyszów
+Olszówka|PL||a5|3tt|1jn|e
+Olănești|RO||8u|3hi|1ve|e|Claneşt
+Olesko|UA||98|3us|1x5|e|Oleszko;Oles'ko
+Olivet|US|New Jersey|48|31v|-5sr|e
+Old Noarlunga|AU||8b|-2pq|aoq|e
+Oleye|BE||8t|3wv|eo|e
+Ulgueira|PT||99|2zr|-qc|e|Olgueira;Olegueira
+Olesa de Bonesvalls|ES||9d|36v|55|e|Olesa de Bonesvall
+Olla|US||2f|2gm|-748|e
+Oldcastle|IE||8z|45d|-jw|e|An Seanchaisleán;Olcastle
+‘Olesh|IL||6n|2ht|2p7|e|Oleš;Olesh
+Solnechnoye|RU|St. Petersburg|9i|4n4|2b7|e|Solnetsjnoje;Ollila
+Vilkhovatyi|UA||98|3pd|1v5|e|Ol’khovatyy;Vil’khovatyy;Vil’khovati;Vil’khovata
+Ollolai|IT||9o|33l|pi|e
+Olivet|US|Tennessee|2f|2pt|-6t0|e
+Oleksandrivka|UA|Mykolaiv|98|3m4|2j0|d|Olexandriwka;Aleksandrovka;Ołeksandriwka
+Oletta|FR||9k|3af|pz|d
+Olçulu|TR||94|34o|3c5|d
+Oldehove|NL||8m|442|hs|d|Oldenhove
+Oltza|ES||9d|3b1|-4x|d|Olza
+Olomana|US||ax|1ne|-c68|d
+Old River-Winfree|US||2f|2az|-7bf|d|Oldriver Winfrees;Old River Winfree
+Oley|US||48|347|-5uj|d
+Oldenswort|DE||8r|471|ou|d|Oldensvort
+Olhivka|UA||98|3lz|2k8|d|Ol’hivka;Ol’govka
+Ola|US||2f|2pb|-76y|d
+Vilkhivka|UA|Kharkiv|98|3uv|2tf|c|Vil’khivka;Ol’khov
+Old Leake|GB||9b|43b|a|c
+Olcott|US||48|3ce|-62n|c
+Ollastra|IT||9o|32z|o9|c
+Cuciulata|RO||8u|3jm|1y8|c|Warmwasser;Hévíz;Olthévíz
+Oliveira de Fátima|BR||1k|-tr|-3rv|c
+Dzithankov|AM||80|34j|3dq|c|Tsityangov;Bazirkhana;Zetyhankov;Dzithanqov;Olukhlu
+Oldendorf|DE|Schleswig-Holstein|8r|45v|qa|c
+Olmito|US||2f|20a|-7ix|c
+Olteanca|RO|Teleorman County|8u|3dr|1ww|c
+Oldeberkoop|NL||8m|432|h1|c|Berkoop;Aldeberkeap;Berkeap
+Olinda, CDP|US||ax|1lu|-c25|c
+Olost|ES||9d|38n|5t|c
+Olsbrücken|DE||8r|3tm|la|c
+Old West End|CA||50|3o3|-42h|c
+Olmeto|FR||9k|37w|os|c
+Olho Marinho|PT||99|319|-pn|c
+Old Montrose|VC||54|10l|-4q3|b
+Oleksiyvka|UA||98|3qh|23q|b|Oleksiïvka;Mendicăuți
+Olocau|ES||9d|32a|-1h|b
+Vilshany|UA|Zakarpattia|98|3qa|1tl|b|Vil’shany;Ol’shany
+Kolkā Sarā|IR||7o|2v5|3vn|b|Olkā Sarā
+Olszanica|PL|Lower Silesia|a5|3y9|17w|b
+Ólynthos|GR||8p|33x|1su|b|Olynthus;Olint;Olynth;Olinto;Olynthe;Mariana
+Olšany|CZ||9m|3ut|1au|b
+Olszana|PL||a5|3tp|1l0|b|Olszanka
+Olszanica|PL|Subcarpathia|a5|3tg|1qc|b
+Büyük Oluklu|TR||94|33z|3b4|b|Oluklu
+Oliveira do Mondego|PT||99|340|-mu|b
+Oleksandrivka|UA|Kherson|98|3k4|2l0|b|Aleksandrovka
+Olgun|TR||94|2xt|32p|b|Aşağıcayan
+Olenyne|UA||98|3z6|1yb|b|Olenine
+Oleksandrivka|UA|Zaporizhzhia|98|3la|2ql|a|Aleksandrovka
+Olbramovice|CZ||9m|3s2|19k|a
+Olloniego|ES||9d|3ca|-g6|a
+Old Erowal Bay|AU||8l|-2pg|bmh|a
+Oleksiivka|UA|Kherson|98|3kl|2hk|a|Oleksiyivka
+Ol'yavidovo|RU||9i|4cy|2wv|a
+Olteni|RO|Ilfov|8u|3fb|203|a
+Oldendorf|DE|Lower Saxony|8r|43o|se|a
+Olstorp|SE|Södermanland|9w|4je|1a7|a
+Olstorp|SE|Västra Götaland|9w|4gm|y4|a
+Olveston|GB||9b|3za|-76|a
+Oltedal|NO||9j|4jf|gs|a
+Ólafsvík|IS||87|509|-1tv|a|Oulafsvikas
+Olari|RO|Olt|8u|3f3|1v9|a
+Oleșești|RO||8u|3jd|23a|a
+Oliveto|IT||9o|3bs|yd|a
+Olsobip|PG||bd|-ez|ax4|a
+Olotla|MX||41|1ma|-7lt|a
+Olomatlán|MX||41|1dv|-7kz|a
+Old Sarum|GB||9b|3xy|-4z|a|Salisberie;Sarum
+Olliergues|FR||9k|3iv|a4|a
+Oldeholtpade|NL||8m|42x|gt|a|Aldeholtpea
+Oleksiivka|UA|Odesa|98|3pb|28d|a|Oleksiyivka
+Oleksandrivka|UA|Kherson|98|3kl|2jx|a|Aleksandrovka
+Ölper - Holz|DE||8r|418|t3|a
+Olarii Vechi|RO||8u|3gf|20s|9
+Ollersdorf im Burgenland|AT||a2|3n2|18x|9|Ollersdorf
+Olaberria|ES||9d|3bj|-64|9
+Olszyny|PL|Lesser Poland|a5|3ul|1lu|9
+Olmeneta|IT||9o|3ho|ru|9
+Olmos|MX||41|1j8|-7mt|9
+Old Field|US||48|35s|-5n5|9
+Old Fort|US||48|2qz|-6ca|9
+Oleksandrivske|UA||98|3n5|2xv|9|Rozy Lyuksemburg;Rozy Lyuksemburh;Olexandriwske;Olexandriwsske;Rozi Liuksemburh;Oleksandriwske
+Plan de Ayala|MX|Durango|44|1ue|-82e|9|Ola de Ayala
+Olteanca|RO|Vâlcea County|8u|3gh|1uz|9
+Olzai|IT||9o|33m|pf|9
+Olomučany|CZ||9m|3t1|1ab|9|Olomučan
+Ølen|NO||9j|4lk|g5|9
+Olari|RO|Gorj County|8u|3gh|1st|9
+Olloy-sur-Viroin|BE||8t|3v3|ct|9
+O'Leary|CA||35|3ls|-4yf|9
+Olextla de Juárez|MX||41|1hd|-7kr|9
+Olesk|UA||98|3xz|1v7|9|Oles’k;Oletsk
+Oldekerk|NL||8m|43u|hm|9
+Sebeșu de Sus|RO||8u|3it|1vo|8|Oltfelsősebes;Sebeşul-de-Sus
+Oleška|CZ||9m|3ut|15g|8
+Oldřichov v Hájích|CZ||9m|3x9|15w|8|Buschullersdorf
+Oudehorne|NL||8m|434|gw|8|Aldhoarne;Oldehorne
+Old Newton|GB||9b|412|2s|8
+Old Pennywell Road|CA||50|3o4|-42j|8
+Olimpia|IT||9o|3hd|lh|8
+Olszewo Borki|PL||a5|43f|1nu|8|Olszewo-Borki
+Oltingue|FR||9k|3nx|kj|8
+Old Washington|US||48|2za|-6gt|8|Washington
+Olari|RO|Prahova|8u|3ge|20u|8
+Old Buckenham|GB||9b|41s|2w|8
+Ölmanäs|SE||9w|4fc|xl|8|Örmanäs
+Ollersdorf|AT||a2|3qg|1ao|8
+Olbersleben|DE||8r|3y3|vh|8
+Ólafsfjörður|IS||87|53j|-1fs|8|Ólafsfjörð;Ólafsfiði;Ólafsfjarðar;Oulafsfjorduras
+Olombrada|ES||9d|371|-bk|8
+Olteni|RO|Vâlcea County|8u|3hf|1vq|8
+Olympian Village|US||2f|2xy|-6za|8|Olympian
+Old Forge|US|New York|48|3df|-5s9|8|Oldforge
+Älvnäs|SE||9w|4ko|1dd|8|Ölvnäs
+Olszyny|PL|Lesser Poland|a5|3v1|1i1|8
+Vilkhovytsia|UA||98|3qo|1rh|7|Vil’khovytsya;Ol’khovitsa
+Olteni|RO|Prahova|8u|3hn|209|7
+Vilkhuvatka|UA|Poltava|98|3rz|2mz|7|Ol'khovatka;Vil’khovatka;Vilkhovatka
+Olevano di Lomellina|IT||9o|3hl|o8|7
+Olukbaşı|TR||94|2wm|275|7
+Ollersbach|AT||a2|3pv|180|7
+Olympiáda|GR||8p|34r|1u2|7|Olimbiás;Olympiás
+Olešnice|CZ|South Bohemian Region|9m|3ro|14u|7
+Olešník|CZ||9m|3sf|13w|7
+Olaya|CO||27|if|-5ul|7
+Olefirivka|UA||98|3qj|2sa|7|Alefirovka;Olefirovka
+Olcenengo|IT||9o|3i0|n3|7
+Olle|IT||9o|3jw|vv|7
+Oleksovice|CZ||9m|3ru|195|7
+Olin|US||2f|38o|-716|7
+Oleksandrivka|UA|Kirovohrad|98|3rc|2ki|7|Voroshylovka;Aleksandrovka
+Oleiros|ES|Galicia|9d|3ac|-p0|7
+Oldřiš|CZ|Pardubice Region|9m|3ua|18h|7
+Oldřiš|CZ|Pardubice Region|9m|3u5|18z|7
+Olenivka|UA|Odesa|98|3p7|29z|7|Olenovka
+Oljato-Monument Valley|US||2p|2uv|-8i9|7
+Oldenburg|US||38|31a|-6ko|7
+Olteț|RO||8u|3j8|1ws|7
+Olhopil|UA|Mykolaiv|98|3ol|2ha|7|Ol’gopol’;Olgopil;Ol’Gopel’
+Vilkhuvatka|UA|Poltava|98|3tu|2q5|7|Vil’khuvatka;Ol’khovatka
+Ölsta|SE||9w|4l0|1d1|7
+Olive Branch|US|Illinois|2f|2v9|-6w7|7|Olivebranch
+Olustvere|EE||9x|4in|1z0|6
+Olargues|FR||9k|3d0|83|6
+Oleksandrivka|UA|Kherson|98|3km|2gy|6|Krasnoznamianka;Krasnoznamenka
+Olius|ES||9d|38p|4c|6
+Oldersbek|DE||8r|479|ph|6|Oldersbeck
+Ölçek|TR||94|369|3b2|6
+Old Road|AG||1j|1ba|-4rs|6|Ol' Roud;Old Roudas
+Oleksandrivka|UA|Poltava|98|3up|2je|6|Aleksandrovka
+Olsfors|SE||9w|4g9|za|6
+Old Perlican|CA||50|3pk|-439|6
+Olteni|RO|Covasna County|8u|3jp|1zt|6
+Uralove|UA||98|40z|2l7|6|Uralovo;Oltar
+Olustee|US||2f|2nz|-7o6|6
+Olland|NL||8m|3za|f1|6
+Olby|FR||9k|3j3|7z|6
+Olosig|RO||8u|3nj|1pm|6
+Olszanka|PL|Lesser Poland|a5|3to|1l2|6
+Olanta|US||48|2ma|-661|6
+Ollé|FR||9k|3qf|3m|6
+Oldsum|DE||8r|481|ng|6|Olersem
+Olukkoyağı|TR||94|2vf|2od|6|Olukkonağı
+Oleksiivka|UA|Volyn|98|3zh|1xd|6|Oleksiyivka
+Olešná|CZ|Vysocina|9m|3td|16e|6
+Oleksiivka|UA|Kherson|98|3jz|2kx|6|Oleksiyivka
+Olza-Fogarole|IT||9o|3hb|ro|5
+Ölmbrotorp|SE||9w|4kz|16c|5
+Olbramice|CZ||9m|3ub|1e9|5
+Olpe|US||2f|2ya|-7f5|5
+Olszanka|PL|Lublin|a5|3xr|1ry|5
+Olteanu|RO||8u|3gp|1ro|5|Olteani
+Olzheim|DE||8r|3vn|hy|5
+Olanu|RO||8u|3gn|1vi|5
+Ołtarzew|PL||a5|411|1lo|5
+Oleksiyivka|UA|Odesa|98|3o9|2cx|5|Oleksiïvka
+Olenivka|UA|Poltava|98|3ss|2mf|5|Olenovka
+Olešná|CZ|Central Bohemia|9m|3v9|122|5
+Olbramkostel|CZ||9m|3rw|18b|5
+Öllingen|DE||8r|3qt|s7|5
+Olteni|RO|Dâmbovița County|8u|3gl|1yk|5
+Olivadi|IT||9o|2zl|19m|5
+Vilshanka|UA|Poltava|98|3v0|2jq|5|Vil’shanka;Ol’shanka
+Olivares de Júcar|ES||9d|32g|-6k|5
+Olgina|EE||9x|4l0|265|5
+Oleksandrivka|UA|Poltava|98|3vl|2hz|5|Aleksandrovka
+Oltre Il Colle|IT||9o|3jh|r5|5
+Olingen|LU||9c|3u0|hj|5|Ouljen
+Olwisheim|FR||9k|3ra|lb|5|Olse

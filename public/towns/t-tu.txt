@@ -1,0 +1,991 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Dongguan|CN||7i|1ry|8rz|22f5|Dongwen shehiri;Tûng-kón-sṳ;Đông Hoản;Dĕ̤ng-uāng;Tungkuan;Tong-kóan-chhī;Tung-kuan;Tungkun
+Singapore|SG||7j|3l|80h|17ib|Tumasik;Singapur;Singapour;Singapura;Sîn-kâ-po;Temasek;Dānmǎxī
+Addis Ababa|ET||2|p2|2zn|ts8|Ādīs Ābeba;Adis-Abebo;Addis Abeba;Addis-Abeba;Addisz-Abeba;Neanthopolis;Adisabeba;Adis Ababa;Tungga;Addisaaba;Addis Abbaba
+Zunyi|CN||7i|24x|88z|fq2|Dzuni;Ĝunji;Tuân Nghĩa;Cun-i;Cŏng-ngiê;Chun-gī-chhī;Cunji;Zunji
+Stockholm|SE||9w|4kt|1e7|bou|Estocolmo;Stokholmo;Štokholm;Estocolm;Sztokhòlm;Estokolmo;Tukholma;Stokkhólmur;Stoccolma;Holmia;Stokholmas;Stokholma;Stokholmi;Stokgolm;Stócólm;Estocòlme;Stokolm;Stockholbma;Stoccholm;Stocólma;Stokkolma;Stuculma;Estocolmu;Stuokhuolms;Estokolma;Stockolm
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Xiangyang|CN||7i|2h0|8ni|9zn|Xiangfan;Siang-jang;Hsziangjang;Šjangjang;Tương Dương;Hsiang-fan;Siangyang;Hsiang-yang;Siangfan
+Zigong|CN||7i|29i|832|9ql|Tự Cống;C-kung;Cê̤ṳ-góng;Chū-kòng-chhī
+Zhuzhou|CN||7i|25b|8qb|8pt|Jianning;Zhutsjou;Ču-čou;Ĝuĝou;Chu-chû-sṳ;Chu Châu;Chu-chiu-chhī;Çyu Cou;Tṳ̆-ciŭ;Džudžou;Džudžov;Chu-chou
+Touba|SN||g|15a|-184|8nc|Tuba;Tub;Tuubaa
+Trujillo|PE||3o|-mk|-63j|88l|Troxillo;Truchiljas;Truhillu;Turgalium
+Dongying|CN||7i|2w2|955|7pi|Tung-jing;Đông Dinh;Tung-ying
+Xiangtan|CN||7i|25d|8pm|7eh|Siang-tchan;Sjantan;Siong-thâm-sṳ;Tương Đàm;Siong-thâm-chhī;Siŏng-tàng;Siangtan;Hsiang-tan
+Turin|IT||9o|3h7|ld|6jd|Julia Augusta Taurinorum;Turyn;Torino;Torí;Augusta Taurinorum;Turijn;Turim;Turén;Türì;Torin;Torinu
+Chuzhou|CN||7i|2hs|94m|61f|Chuju shehiri;Chutsjou;Čchu-čou;Trừ Châu;Dṳ̀-ciŭ;Tû-chiu-chhī
+Tyumen|RU||7z|4er|521|5xg|Tjumen;Tioumen;Tiumén;Tjumen';Tjoemen;Tümen;Tyoumen;Tjumenj;Tjumeno;Tumenum;Tiumenė;Tjumeņa
+Tunis|TN||1e|2ua|s9|5ck|Tunez;Tunizo;Tunes;Túinis;Túnixi;Tinis;Tuniz;Tunus;Tiwnis
+Cuenca|EC||33|-82|-63g|4wy|Kuenka;Tumipampa
+Siping|CN||7i|3bw|9li|4ug|Ssupingkai;Sé-bìng;S-pching;Tứ Bình;Sù-pêng-chhī;Szepingkai
+Suizhou|CN||7i|2g3|8qw|4ru|Sùi-ciŭ;Suej-čou;Tùy Châu;Suî-chiu-chhī
+Tuxtla|MX|Chiapas|3z|1aj|-76o|4nt|Tochtlan Gutiérrez;Tustla Gutjeresas
+Sāngli|IN||6t|1at|5r4|4n0|Turmeric city;Sangla
+Dongsheng|CN||7i|32m|8hi|4fi|Tung-sheng
+San Miguel de Tucumán|AR||1v|-22i|-515|48h|Tucumán;Tukumanas;Sanctus Michael Tucumanensis;San Migel De Tukuman
+Tucson|US||4i|2hi|-8k5|46q|Tuksonas;Tūsona;Takson;Tuson;Tugson;Tuison;Lucson;Teuson;Fucson;Tuczon
+Toulouse|FR||9k|3d4|40|3y5|Tolosa de Llenguadoc;Tolosa;Tuluzo;Tolosa Okzitania;Tulūza;Tolosa de Francia;Toloza;Lapangan Terbang Blagnac;Tołoxa;Toulouz;Tuluz
+Tonghua|CN||7i|37w|9pt|3xo|Tŭng-huá;Tchung-chua;Thông Hóa;Thong-hoà-chhī;T’ung-hua;Tunghwa
+Tuen Mun|HK||6i|1q7|8sl|3x3|Tuenmen
+Tula|RU||9i|46k|2wi|3q5|Toela;Tul;Toula
+East London|ZA||o|-2jq|25j|3oz|KuGompo City;Yst Londonas;Buffalo City;Orient-Londono;Londinium Orientale;Tûng Lùn-tûn;EMonti
+Jiuquan|CN||7i|32e|7lo|3az|Tửu Tuyền;Ciū-ciòng;Ťiou-čchüan;Chiú-choân-chhī
+Tver|RU||9i|4dy|2rq|38p|Kalinin;Twer;Tueria
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Tulsa|US||2f|2sf|-7en|36r
+Thoothukudi|IN||6t|od|611|364|Thoothukkudi;Tuticorin
+Tongling|CN||7i|2dz|936|33p|T’ung-ling
+Turmero|VE||2c|sf|-57f|2nr|Turmeras
+Tungi|BD||6a|1ud|6z4|2ls|Tongi;Tangi
+Tongshan|CN||7i|2my|91g|2jl|Xuzhou;T’ung-shan
+Tumkūr|IN||6t|112|5y6|2de|Tumakūru;Tumakooru
+Santa Teresa del Tuy|VE||2c|sf|-556|25h
+Turpan|CN||7t|3bb|6vq|23y|Tourfan;Turfán;Tufan;T’urfang
+Tongliao|CN||7i|3d5|9fn|20j|Thông Liêu;Tŭng-lièu;Thûng-liàu-sṳ;Thong-liâu-chhī;T’ung-liao
+Suihua|CN||7i|3ll|9sp|1y2|Suej-chua;Tuy Hóa;Chŭi-huá;Sui-hoà-chhī;Sui-hwa
+Tsukuba|JP||7q|2s8|at8|1v5|Cukuba;Tukuba-chhī
+Xiangxiang|CN||7i|251|8ol|1ta|Tương Hương;Siong-hiông-sṳ;Siangsiang
+Nizhnekamsk|RU||9i|4ak|3zy|1t3|Nischnekamsk;Niĵnekamsk;Nižnekamsk;Tübän Kama;Niżniekamsk;Nizjnekamsk;Tübenkama;Ņižņekamska;Nižnekamskas;Nižnjekamsk
+Türkmenabat|TM||5x|30j|4wm|1s5|Turkmanobod;Charjou;Turkmenabad
+Turkistan|KZ||5s|3c9|59m|1r3|Turkestan;Turkiston;Turquistão
+Tongchuanshi|CN||7i|2pf|8f0|1q4|Dè̤ng-chiŏng;Tchung-čchuan;Đồng Xuyên;Tâng-chhoan-chhī;T’ung-ch’uan-shih
+Tuluá|CO||27|bc|-5vo|1pl
+Tunduma|TZ||h|-pu|2j1|1ox
+Târgu Mureş|RO||8u|3la|1w8|1n4|Neumarkt am Mieresch;Tîrgu Mureș;Marosvásárhely;Novum Forum Siculorum;Neumarkt;Vásárhely;Nai Muark;Maros-Vásárhely;Târgul-Mureş;Turgul Mures;Tyrgu-Muresh
+Turku|FI||92|4nx|1pv|1lf|Åbo;Turu;Túrcú;Aboa
+Kon Tum|VN||6h|13v|8c1|1l6
+Las Tunas|CU||36|1m8|-5xr|1kl
+Duyun|CN||7i|20z|8ao|1j5|Tu-yün
+Dunhuang|CN||7i|33l|7b0|1fo|Dünxuang Shehiri;Tun-chuang;Đôn Hoàng;Dŭng-huòng;Tunhuang;Dunxuan;Tunghwang;Tun-huang;Tunhwang
+Toliara|MG||a8|-1sv|3db|1dn|Tuléar;Tullear;Toliary
+Tunja|CO||27|fe|-5ns|1bx|Tuncha
+Kēng Tung|MM||7y|1o3|7pl|1bo
+Dongling|CN|Liaoning|7i|385|9ja|1bn|Tung-ling
+Toulon|FR||9k|3bs|gh|1av|Tulon;Tolón;Toló;Tulono;Tolone;Telo Martius;Tuluni;Tulonas;Tulona
+Tuguegarao|PH||71|1cy|9e4|1ah|Tuguegaro
+Ocumare del Tuy|VE||2c|s4|-55i|1a5|Ocumare
+Tongzhou|CN||7i|32u|902|19d|T’ung-chou
+Tuxtepec|MX||41|1e9|-7f1|18b|San Juan Bautista Tuxtla;San Juan Bautista;Tustepekas;San Juan Bautista Tōchtepēc
+Tuy Hòa|VN||6h|10e|8fo|17b|Toy Hoa;Thuy Hoa
+Dunhua|CN||7i|3ch|9w7|15c|Tun-hua
+Touggourt|DZ||3|2jz|gv|13t|Tugurtas;Tukkurt;Tuggurt;Tougourt
+Tuzla|BA||9r|3fq|1fv|13l|Tuzl
+Tours|FR||9k|3nn|1y|13c|Turones;Augusta-Turonum;Tūras;Tūra;Tors;Teurgn
+Tobruk|LY||1d|2h5|1uj|13b|Tobrouk;Tobruch;Tobroek;Tubruk;Thubruq;Tubrukas;Ţubruq;Tobruuk;Tobruck
+Tương Mai|VN||62|1mb|862|11v
+Tumxuk|CN||7t|32r|63m|11p|Tumushuke
+Dongyang|CN|Zhejiang|7i|29b|99z|108|Tung-yang
+Tokat|TR||94|33z|2tj|101|Tocat;Evdokia;Eudoxia;Tukat;Toqat
+Tsuruoka|JP||7q|2zk|ase|yu|Turuoka-chhī;Turuoka
+Ţūz Khūrmātū|IQ||5z|2ox|3fz|xj|Ţūzkhūrmātū;Tuz Xurmatu;Tuz Khurmatli;Tozkhurmato;Tozkhurmatu
+Torrejón de Ardoz|ES||9d|34e|-9n|wu|Torechon de Ardosas;Turricula Ardozensis
+Tubarão|BR||4w|-273|-3s5|wf
+San Tung Chung Hang|HK||6i|1pw|8si|w8
+Tucuruí|BR||23|-ah|-3u0|vz
+Tungipara|BD||6a|1rm|6xq|vt|Tongipara
+Tung Chung|HK||6i|1px|8si|vp
+Tuscaloosa|US||2f|2k9|-6r9|ux|Taskalusa;Tuskaloosa;Tuskalloosa
+Turhal|TR||94|347|2s8|ut
+Tuyên Quang|VN||62|1om|849|t2|Tuyen Kang;Tuyen Kwang
+Turgutlu|TR|Manisa|94|2yy|24y|sp
+Tulancingo|MX||41|1js|-7l9|sg
+Tsuyama|JP||7q|2pd|ac8|sf|Tsujama;Tuyama-chhī;Tuyama
+Tucupita|VE||2c|p6|-4sd|rq|Tukupita
+Tucuruvi|BR||4w|-1t8|-3lh|ro
+Tourcoing|FR||9k|3ww|8s|rk|Toerkonje;Turcundium;Tourco;Terkoeje
+Tumbes|PE||3o|-9w|-67g|qx|Tumpiurbo;Tumpis;Tumbez
+Ducheng|CN||7i|1sk|8lt|qj|Tu-ch’eng
+Dunhou|CN||7i|235|8v6|q8|Tun-hou
+Tübingen|DE||8r|3qs|p5|pn|Tubinga;Tybinga;Tībingene;Tiubingenas;Tybingen
+Türkmenbaşy|TM|Balkan|5x|336|434|ph|Turkmenbaszy;Turkmenbashi;Krasnovodsk;Turkmėnbašis;Türkmenbaşî;Turkmanboshi;Turkmenbachi;Shagadam;Türkmenbashy;Krassnowodsk;Krasnowodsk;Şagadam
+Tual|ID||6m|-fn|a8r|p5
+Tuggeranong|AU||8l|-2qe|bi3|ov
+Tumaco|CO||27|4z|-62v|o3|Tumakas
+Tulcán|EC||33|29|-5zw|o1|Tulkanas;Tulkan;Tulchan
+Túxpam de Rodríguez Cano|MX||41|1m8|-7il|nk|Túxpam;Tuxpan;Tuxpan de Rodríguez Cano
+Timbuktu|ML||5|1al|-8d|ne|Timbuctú;Tombuctú;Tombouctou;Timboektoe;Timbouctou;Timboctó;Tonbuktu;Tombutum;Tiombuctu;Tombuktu;Tumutu;Timbuctoo;Tombutu;Timboctú
+Tustin|US||3p|2lr|-93b|me
+Dushan|CN||7i|1zr|8ap|m8|Tu-shan
+Tumen|CN|Jilin|7i|3bd|a0o|lv
+Tupi|PH||71|hl|9n3|lu
+Tuban|ID|East Java|6l|-j6|8na|l6
+Turbat|PK||6q|208|4v5|l1
+Tura|IN||6t|1yv|6yk|kt
+Turlock|US||3p|2w5|-9bp|k3|Turloko
+Tournai|BE||8t|3wl|9f|jc|Doornik;Turnacum;Turnė;Tornai;Doornyk;Tournay
+Royal Tunbridge Wells|GB||9b|3y1|q|j5|Tunbridge Wells;Turnbridge Wells
+Tuymazy|RU||7z|47p|457|j4|Tujmazi;Tuimasy;Tuimazy;Tuimasa;Tuymaza
+Tsuruga|JP||7q|2r1|ahy|j1|Turuga-chhī;Turuga
+Dongfeng|CN||7i|3aj|9op|iu|Tung-feng
+Ţurayf|SA||7e|2fz|2ze|ic|Turaif
+Từ Sơn|VN||62|1mm|86d|i9
+Tulcea|RO||8u|3hi|281|i8|Tultscha;Tulca;Tulcsa;Tulcza;Aegyssos;Tulcha
+Tupã|BR||4w|-1ox|-3wb|i8
+Tultepec|MX||41|1io|-7nd|i5
+Tulungagung|ID||6l|-mf|8mu|i5
+Tuapse|RU||9i|3ei|30k|hu|Toeapse;Touapsé;Tuapsse
+Tulangan Utara|ID||6l|-kr|8ox|hr
+Tulare|US||3p|2sl|-97j|hb
+Dongning|CN||7i|3eg|a48|h2|Tung-ning
+Tunasan|PH||71|13y|9c9|h2
+Tuanbao|CN||7i|2ca|8f5|gk
+Tutóia|BR||2w|-7o|-39f|gi|Tutoya
+Tongchuan|CN|Sichuan|7i|2ed|83x|g7|Tunchuan;T’ung-ch’uan;Tungchwan
+Turbaco|CO||27|sp|-5th|fm
+Toumodi|CI||0|i8|-dy|fk|Tumodi
+Trani|IT||9o|36o|19l|f0|Turenum
+Tuni|IN||6t|1c8|6db|eu
+Ţūkh|EG||c|2cb|2eo|em|Toukh;Tuch
+Tiberias|IL||6n|2j3|2qp|eh|Teverya;Tabarīya;Tabariyeh;Tubaria;Tevaryā;Ṭabariyyah;Tverya;Tiberíades;Tiveriáda;Tiberiado;Tyberiada;Tibériade;Tiberijada;Tiberiya;Tiberya;Tverja;Tiberija;Tiberijas;Tiberiada
+Tŭytepa|UZ||7m|35z|5co|ea|Nurafshon;Nurafşon;Toytepa
+Tulun|RU||6k|47l|7re|e9|Touloun;Toeloen
+Martin|SK||8s|3sb|1gk|e7|Turócszentmárton
+Tūndla|IN|Uttar Pradesh|6t|23l|61c|e5
+Turbo|CO||27|mh|-5x5|e1
+Tūyserkān|IR||7o|2nz|3qk|e1|Tooyserkan;Tūysarkān;Tūīsarkān
+Tubod|PH|Northern Mindanao|71|me|9jv|e0|Tubud
+Tukuyu|TZ||h|-pp|2lh|dw
+Tsukubamirai|JP||7q|2ry|asx|dv|Tukubamirai-chhī
+Tucano|BR||20|-ug|-2zr|dj|Ramphastinae
+Tunduru|TZ||h|-ur|2vr|dc
+Tuckahoe|US|Virginia|48|2wf|-5zg|ci
+Tumsar|IN||6t|1ne|65h|ch
+Ţūlkarm|PS||6g|2hr|2pb|ca|Tulkarem;Toelkarem;Tulkarim;Tūl Kerem
+Turnhout|BE||8t|3yk|dq|c8|Turnholtum
+Tutayev|RU||9i|4gr|31t|c6|Tutajev;Tutamev
+Thun|CH||a7|3lv|l6|c5|Thoune;Tune;Tunas;Timium
+Turda|RO|Cluj County|8u|3ld|1u2|c1|Thorenburg;Potaisa;Torda;Potaissa
+Tushan|CN||7i|2n2|93c|bx
+Tucupido|VE||2c|pr|-52p|bu
+Tuusula|FI||92|4ns|1xj|bu|Tusby;Thusby
+Tuntum|BR||2w|-em|-3g1|bo|Tumtum
+Tullus|SD||r|ut|1w5|bm|Tulus
+Tuxiang|CN||7i|2db|8f8|be|T’u-hsiang
+Tumba|SE||9w|4kg|1dj|bc
+Turaif|SA||7e|2fz|2ze|bc|Tureyf;Ţurayf
+Tosno|RU||9i|4le|2ds|b6|Tusina
+Tucumã|BR|Pará|23|-ir|-3y4|b5
+Túquerres|CO||27|31|-5zm|b4
+Ţubarjal|SA||7e|2cq|2y6|b4|Ţabarjal
+Bandar Tun Hussein Onn|MY||6v|8h|7uo|b4|Tun Hussein Onn
+Tulsi̇̄pur|NP||6r|265|6cm|av
+Tuvāgudi|IN||6t|tv|62y|at|Thuvakudi
+Tunuyán|AR||1q|-2la|-5bq|ao
+Tumeremo|VE||2c|ka|-4qu|ag
+Turiaçu|BR||2w|-4m|-3i1|af|Turiassú
+Tozeur|TN||1e|2m8|ml|ae|Thusuros;Tauzaras;Tuzer;Tauzar;Tawzar
+Tursunzoda|TJ||6d|2yz|59j|aa|Tursunsoda;Turszunzoda;Tursunzadė
+Tuensang|IN||6t|20z|7be|a8
+Tupelo|US||2f|2n6|-6ue|9x
+Tuljāpur|IN||6t|1e1|5vb|9w
+Tunceli|TR||94|30m|31u|9s|Mamekiye;Mamekî;Mamiki
+Tuttlingen|DE||8r|3pa|oi|9o
+Targovishte|BG||9v|3c5|21t|9o|Targowischte;Tărgovište;Targovichté;Targovisjte;Targòvixte;Trgovište;Tergovištė;Tërgovishçe;Eski Cuma;Tyrgowiszte;Tŭrgovište;Trgovishte;Eski Džuma;Tŭrgovishte
+Tudela|ES||9d|38u|-4g|9n
+Tucacas|VE||2c|tz|-59t|9k
+Tsuma|JP||7q|2h6|a50|9j|Tuma
+Tudiyalūr|IN||6t|us|5xq|9f|Tudiyallur;Thudiyalur
+Tumbi|TZ||h|-e3|2ix|95
+Turaiyūr|IN||6t|uz|62c|8x|Turalyur
+Turilândia|BR||2w|-66|-3hv|8s
+Tsugaru|JP||7q|35c|au0|8l|Cugaru;Tugaru-chhī
+Ţūd|EG||c|1z2|2id|8k|Ṭod
+Zug|CH||a7|3n1|no|8h|Zoug;Tugium
+Tulu Bolo|ET||2|o3|2y6|8c
+Tongeren|BE||8t|3x2|f6|8a|Tungro;Tongres;Tóngere;Atuatuca Tungrorum;Toungern
+Tu Bông|VN||6h|zh|8fm|8a
+Tuomuwusitang|CN||7t|2yk|5yj|88
+Turek|PL||a5|40i|1fe|87
+Touba|CI||0|n0|-lc|82|Tuba
+Ferdows|IR||7o|2mi|4hl|82|Tūn;Firdovs;Firdevs;Ferdous
+Turrialba|CR||2i|ri|-6gg|82|Turialba
+Turnu Măgurele|RO||8u|3dj|1x3|80|Turnul-Măgurele
+Tula de Allende|MX||41|1jq|-7ny|7y|Tōllān Allende;Tula
+Turubah|SA||7e|26i|3b8|7v
+Thung Song|TH||62|mo|7ow|7u|Dhūng Song;Tungsong
+Tupanatinga|BR||4p|-ob|-2vq|7t
+Tultitlán de Mariano Escobedo|MX||41|1il|-7nh|7s|Tultitlá de Mariano Escobedo
+Tucker|US|Georgia|48|2m1|-6hy|7o
+Tuxpan|MX|Jalisco|41|1ic|-7z6|7n
+Tualatin|US||3p|3i2|-9h0|7k|Tualtin;Tualitin
+Thuwal|SA||7e|1pw|30n|7i|Tūwal
+Tujunga|US||3p|2n5|-94l|7d|Tuhunga
+Tougan|BF||1a|10b|-8j|7b|Tugan
+Tupaciguara|BR||4w|-1fn|-3ra|73|Tupacyguara
+North Tustin|US||3p|2ls|-937|6x|Tustin Foothills
+Tuwaite|CN||7t|2vq|65l|6v
+Torres Vedras|PT||99|30l|-pq|6s|Turres Veteres;Tores Vedrasas;Lapangan Terbang Santa Cruz
+Tucaní|VE||2c|ox|-5hz|6o
+Tūnēri|IN||6t|wi|5u3|6i|Thuneri
+Bandar Tun Razak|MY||6v|82|7xt|6g|Tun Razak;Bandar Jengka
+Turabah|SA||7e|1mx|37n|6g|Turaba;Turbah
+Tuban|ID|Bali|70|-oa|8vx|6d
+Tog Wajaale|SO||14|qo|3ce|6b|Tug Wajale;Toog Wajaale
+Tulsīpur|IN||6t|24h|6cy|69
+Tupiza|BO||3n|-1nk|-52k|66|Tupisa;Turpiza
+Tubmanburg|LR||15|j3|-u2|64
+Tuxpan|MX|Nayarit|3x|1oy|-84i|61
+Tustin Legacy|US||3p|2lm|-93b|5y
+Tufānganj|IN||6t|214|6x3|5o
+Tewkesbury|GB||9b|40f|-60|5o|Theoci Curia;Tuksburjo
+Tubbergen|NL||8m|41l|iu|5n
+Tuqiang|CN||7i|42y|9h1|5l
+Tukwila|US||3p|3nv|-9fm|5k
+Tupanciretã|BR||4w|-28s|-45k|5k|Tupaciretã
+Turmalina|BR|Minas Gerais|4w|-1c1|-3ap|5k
+Tuscany|CA||2s|3y0|-8tc|5h
+Tūnis|EG||c|21x|2g1|5f|Tūnus
+Tuen Mun San Hui|HK||6i|1q8|8sm|5e
+Tumwater|US||3p|3ml|-9hf|5c
+Tutong|BN||66|dc|8uh|5c
+Tullahoma|US||2f|2q8|-6nh|5b|Tallahoma
+Torhout|BE||8t|3xv|8m|59|Toeroet;Turholt
+Tuohula|CN||7t|2vg|65d|58
+Tutume|BW||m|-1kx|233|56
+Turinsk|RU||7z|4h9|4wy|56|Tourinsk;Toerinsk
+Turar Ryskulov|KZ||5s|3a5|5ff|54|Turar Rysqulov
+Tulum|MX||2b|1k5|-6qy|52|Tulún
+Tubize|BE||8t|3wt|bo|50|Tiubizas
+Tunapuna|TT||4k|tl|-4qj|4y
+Toul|FR||9k|3r8|gd|4x|Tulis;Tullum
+Tuantian|CN||7i|1wn|7m1|4v
+Tui|ES||9d|38t|-o0|4t|Tuy
+Tuchang|CN||7i|2b5|87t|4s
+Tulle|FR||9k|3hr|4x|4q|Tula;Tyll;Tutela
+Tupungato|AR||1q|-2kp|-5c3|4p|Tupungata
+Tuchkovo|RU||9i|4ag|2tb|4o|Tutsjkovo;Tutschkowo;Tučkovas;Tučkovo;Tuchcovo;Tuczkowo;Toetsjkovo
+Türkmengala|TM||5x|2vy|4t6|4n|Turkmen-Kala
+Turgutreis|TR||94|2uu|23r|4l
+Tønder|DK||8y|48l|on|4k|Tynne;Tuner
+Tukums|LV||9n|4e9|1sc|4i|Tukumas;Tukumės;Tuckum;Tukāmō;Tukkum;Tukum
+Tullinge|SE||9w|4kg|1dq|4g
+Tupi Paulista|BR||4w|-1ne|-3z9|4f
+Talladega|US||2f|2kw|-6n7|4d|Talladegee;Telladega;Taladega;Tulladega
+Tullamore|IE||8z|43z|-kt|4c|Tulach Mhór;Talamoras
+Ţūbās|PS||6g|2hs|2q9|4c
+Tung Tau Estate|HK||6i|1q1|8t7|4a
+Turaru|BR||2w|-a0|-31j|4a
+Tuzantla|MX|Michoacán|41|1hc|-7rd|49
+Tucumã|BR|Pará|23|-f|-3v2|46
+Tulchyn|UA||98|3r7|287|46|Toultchyn;Tulczyn;Tultschyn;Nesztervár;Tulcsin;Nestervar;Nesterwar
+San Jose Village|MP||bf|15l|b8i|46|San Jose;San Jose Köyü;San Jose qishlog'i;Desa San Jose;Kampung San Jose;Pueblo San Jose;San Jose Gida;Gandaa San Jose;Vila San Jose;Tuulo San Jose;Kijiji cha San Jose
+Tarumã|BR||4w|-1r7|-3wi|45|Turumã
+Tushi|CN||7i|28c|8ef|44
+Tuogerigaizi|CN||7t|2ud|6ab|42
+Turnov|CZ||9m|3wi|163|41|Turnau
+Turvo|BR|Paraná|4w|-1xk|-3z5|3z
+Tarqūmyā|PS||6g|2fq|2p9|3y|Tarqūmiya;Tarqūmye;Turqumiya;Tarqūmiyah;Tarqumia
+Turuvekere|IN||6t|10k|5wz|3y
+Turgun|CN||7t|3mi|6xk|3x
+Tung Tau Tsuen|HK||6i|1qd|8sr|3v
+Tuchola|PL||a5|44v|1dm|3t|Tëchòlô;Tuhola
+Tuineje|ES||83|26o|-131|3s
+Turpanyüzi|CN||7t|3e8|6ac|3s
+Tuqiao|CN||7i|2ap|86h|3r
+Tumen|CN|Gansu|7i|2ol|864|3r
+Tukakgomo|ZA||o|-1wq|2bn|3r
+Tucapel|CL||4u|-2vl|-5jv|3q
+Tucuran|PH||71|lt|9j9|3n|Tukuran
+Turvo|BR|Santa Catarina|4w|-28d|-3u0|3m
+Turgen|KZ||5s|3ck|5zj|3m
+Tūkrah|LY||1d|2id|1l6|3i|Tokrah
+Tulln|AT||a2|3q9|18m|3g
+Tyup|KG||65|3ap|61o|3g|Tüp;Tjup
+Turtle Rock|US||3p|2lg|-939|3f
+Tumpat|MY||6v|h8|7vt|3f
+Tucson Estates|US||4i|2hf|-8kl|3e
+Tidworth|GB||9b|3yb|-4m|3d|Todeorde;Tudworth
+Tukzār|AF||6o|2rv|54i|3c|Tākzār;Tuksar;Tokzār
+Turín|SV||2u|12t|-6xd|3a
+Turi|IT||9o|35o|1ba|3a
+Turramurra|AU||8l|-2lp|bnt|39
+Tafalla|ES||9d|3a5|-4n|36|Tubalia
+Tarazona|ES||9d|38e|-4t|34|Tarassona;Turiasso;Taraçona
+Tundhul|IN||6t|1ss|6ks|34|Tundiul
+Tupac Amaru|PE||3o|-123|-5vj|34
+Tuyum|PH||71|rq|9gg|33|Tuyom
+Tyul’kubas|KZ||5s|3a1|5fa|30|Tülkibas
+Tulbagh|ZA||o|-2kh|1h6|2z
+Torgelow|DE||8r|44z|12x|2z|Turzogłowë;Torgelova
+Tournon-sur-Rhône|FR||9k|3h7|df|2y|Tornon;Turnonium
+Turbaná|CO||27|sj|-5tk|2u
+Ciudad Tula|MX||44|1rw|-7oz|2s|Tula
+Túrkeve|HU||8v|3mu|1ln|2s
+Tungendorf|DE||8r|46a|rs|2r
+Tuzluca|TR||94|338|3d9|2r
+Türkan|AZ||61|344|3vi|2p|Tyurkyan;Turkyany
+Tuam|IE||8z|44o|-ol|2o|Tuaim
+Tulunan|PH||71|iz|9mw|2o
+Tutzing|DE||8r|3p3|vc|2n
+Tambura|SS||p|fk|24b|2n|Tumbura;Tembura
+Tulalip|US||3p|3pj|-9fp|2k
+Tutrakan|BG||9v|3ed|21x|2k|Turtucaia;Turtukai;Tutrakhan
+Tuxpan|MX|Michoacán|41|1id|-7r2|2j
+Tungao|PH||71|oe|9ot|2h
+Tujering|GM||7|110|-1an|2h|Tujereng
+El Tumbador|GT||32|15a|-73d|2h|Tumbador;El Trumbador
+Tuskegee|US||2f|2i2|-6m1|2g
+Tvrdošín|SK||8s|3t2|1ic|2g|Turdossin;Twardoszyn
+Tullibody|GB||9b|4bx|-ao|2f
+Tuomarinkylä|FI||92|4ne|1xd|2e|Domarby;Dumi
+Tuba City|US||2p|2sd|-8l0|2e|Tó Naneesdizí
+Tuy|PH||71|12y|9bd|2e
+Turate|IT||9o|3iu|p0|2e
+Tuần Giáo|VN||6h|1ny|7za|2d
+Tuscumbia|US||2f|2oh|-6rm|2d
+Turceni|RO||8u|3g4|1sx|2d
+Tùng Lộc|VN||62|1fa|85x|2c
+Tuparendi|BR||4w|-254|-47c|2c
+Turunçova|TR||94|2t1|2bq|2c
+Tura|HU||8v|3o9|1ig|2b
+Türkeli|TR||94|38j|2ne|2b
+Tuschen|GY||34|j4|-4i2|2b
+Tumayr|SA||7e|1ze|3jf|2a
+Tundra|IN||6t|1o8|6dh|2a
+Tuburan|PH|Autonomous Region in Muslim Mindanao|71|ig|9fn|2a
+Tubará|CO||27|u8|-5sa|2a
+Tukan|CN||7i|29m|8b4|29
+Tolmezzo|IT||9o|3kw|106|29|Tumieç
+Tupãssi|BR||4w|-1wb|-44n|29
+Tuneiras do Oeste|BR||4w|-1ub|-42w|29|Tuneiras d'Oeste
+Tuparetama|BR||4p|-l4|-2vn|28
+Tubay|PH||71|ph|9oo|27
+Thuir|FR||9k|3af|7o|27|Tuir
+Tubod|PH|Davao Region|71|kh|9p0|27
+Tuli|IN||6t|222|7aw|27
+Tuek Kraham|KH||78|13h|83j|26
+Tutay|PH||71|sh|9ja|26|Tulay
+Tuira|FI||92|50n|1yr|26
+Dubrovka|RU|Leningradskaya Oblast'|9i|4m8|2dx|26|Tuprova;Dubrowka
+Tullins|FR||9k|3hu|f9|25
+Vypasne|UA||98|3kb|2c2|25|Wypasne;Podul de Piatr;Turlaki
+Türkmenistan|TM||5x|2y4|4gz|25
+Tuŏl Tumpung|KH||78|w3|83f|24
+Tut|TR||94|2x0|2xc|24
+Tú Trưng|VN||62|1mw|855|23
+Tuzamapan|MX|Veracruz|41|1hw|-7h2|23|Tuzanapan
+Tuluceşti|RO||8u|3il|25v|23
+Tuding|PH||71|19l|9b4|23
+Turka|UA||98|3sj|1rz|22|Tourka;Turko
+Tumgaon|IN||6t|1mv|6c4|22
+Tulpehocken|US||48|338|-5sw|22|Tulpohocken;Tulpenhocken
+Türkmenbaşy|TM|Balkan|5x|335|43j|21|Jangnga;Jaňga
+Turbigo|IT||9o|3ih|oa|21
+Türkler|TR||94|2to|2ge|20
+Touza|TN||1e|2r0|u3|20|Tuza
+Tuscania|IT||9o|39u|wz|20
+Tūbā Zangarīya|IL||6n|2jl|2qv|20|Tuba-Zangariyye
+Tutak|TR|Ağrı|94|31u|3at|1z
+Tuszyn|PL||a5|3zd|1i9|1z|Tušina
+Turzovka|SK||8s|3t8|1fq|1y|Turzófalva;Turzówka
+Túcume|PE||3o|-i3|-65u|1y|Tucumo
+Tuxtla Chico|MX||41|15i|-741|1y
+Tugun|AU||8c|-267|bue|1y
+Tuart Hill|AU||8k|-2gm|8xr|1x
+Tufts University|US||48|39t|-5hk|1x
+Tunes|PT||99|2v9|-my|1w
+Turki|RU||9s|40f|3c7|1w
+Tuttle|US||2f|2q1|-7jp|1w
+Tumbotino|RU||9i|4bk|3bi|1w|Toumbotino
+Tuiuti|BR||4w|-1re|-3lp|1w|Tuyuti
+Tullamarine|AU||8j|-2wq|b6g|1v
+Tughyl|KZ||5s|3ok|6hx|1v|Tugʻil;Tugyl
+Turţ|RO||8u|3pa|1si|1v
+Tuchów|PL||a5|3ul|1mh|1v|Tuhova
+Tuckahoe|US|New York|48|35r|-5p3|1u
+Tuntenhausen|DE||8r|3p6|xe|1u
+Türkheim|DE||8r|3pi|tk|1u
+Tuma|RU||9i|497|34n|1s
+Tudela de Duero|ES||9d|37i|-cq|1r|Tudela de Duera
+Tuzla|RO||8u|3e8|27j|1r
+Tuncurry|AU||8l|-2hd|brm|1r
+Tung Hei Court|HK||6i|1pw|8ta|1r
+Turuntayevo|RU||6k|410|8b0|1r|Turuntajevo;Turuntaevo
+Tucheng|CN||7i|2fv|8ff|1q
+Tunstall|GB||9b|43e|-65|1q
+Tumbe|IN||6t|zr|5sb|1q|Thumbe
+Tunas do Paraná|BR||4w|-1xd|-3sd|1q
+Turčianske Teplice|SK||8s|3rq|1ge|1q|Stubnyafürdő;Turčanske Teplice;Turčjanske Tjeplice
+Tuakau|NZ||ak|-2vj|dhy|1q
+Tumut|AU||8l|-2q3|bfq|1q
+Turbiv|UA||98|3t2|27s|1q|Tourbiv;Turbiw;Turbów
+Tugulym|RU||7z|4ei|4zl|1p|Tougoulym;Tugulim
+Dongyuan|CN||7i|1x8|95v|1p|Tung-yüan
+Tournus|FR||9k|3ld|dn|1p|Turniu;Tinortium
+Turinskaya Sloboda|RU||7z|4g2|4yu|1o|Turinskaja-Sloboda
+Tuzlukçu|TR||94|2yw|2fv|1o
+Thum|DE||8r|3wr|zz|1n|Tuma
+Tumiritinga|BR||4w|-1gq|-37p|1n
+Ţūlā|IR||7o|22y|4c5|1n
+Turiisk|UA||98|3xx|1w5|1m|Turiys’k;Turisk;Turzysk;Turiysk
+Tulnici|RO||8u|3jk|223|1m
+Tuzhai|CN||7i|1xe|963|1m|T’u-chai
+Tufeşti|RO||8u|3h5|25a|1m
+Tuapejat|ID||6l|-5n|7on|1m
+Tulay na Lupa|PH||71|135|9h3|1l
+Tune|DK||8y|4af|xt|1l
+Tukhmir Pur|IN||6t|27s|5ym|1l
+Tūndla|IN|Haryana|6t|2ce|5xi|1l
+Tutova|RO||8u|3k4|24j|1k
+Tucunduva|BR||4w|-24u|-478|1j|Tucunduba
+Turan|RU||6u|40v|78w|1j|Touran;Toeran
+Tutu|VI||53|1ey|-509|1j
+Turochak|RU||63|416|6q0|1j|Turotsjak;Turochan
+Tufilândia|BR||2w|-a7|-3is|1j
+Tudor Vladimirescu|RO|Galați County|8u|3il|24t|1j
+Turner|US|Maine|48|3ey|-5f6|1j
+Tura|RU||6u|4yk|7qe|1i|Toera;Toura
+Tudi|CN||7i|29y|8bq|1i
+Torrita di Siena|IT||9o|3bx|wq|1h|Turrita;Torrita
+Tudor Vladimirescu|RO|Brăila County|8u|3hm|258|1h
+Turís|ES||9d|31e|-1y|1h|Torís
+Tung Wui Estate|HK||6i|1q1|8t7|1h
+Turtle Creek|US||48|349|-65r|1h
+Tulcingo de Valle|MX||41|1e4|-7lg|1g|Tulcingo del Valle
+Tuban|PH|Davao Region|71|iy|9ob|1g
+Turgenevo|RU||9i|48d|3kp|1g
+Tuxedo Park|CA||2s|3xv|-8su|1g
+Tufanbeyli|TR||94|2ya|2sm|1g
+Tudora|RO||8u|3o0|21z|1f
+Tuglie|IT||9o|33b|1ea|1f
+Turpin Hills|US||48|30n|-6ie|1f
+Tuřany|CZ||9m|3sj|1ab|1f
+Tumcon Ilawod|PH||71|uc|9gr|1f|Tumcon Ilauod
+Türi|EE||9x|4jd|1yn|1f|Turgel;Tiūris;Thurgel;Tyuri;Tiri
+Turriff|GB||9b|4fu|-6u|1f|Baile Thurra;Torraibh;Turra
+Tung Yuk Court|HK||6i|1pw|8tb|1f
+Turtas|RU||7z|4jq|5c1|1f
+Tupandi|BR||4w|-29w|-3yu|1e
+Tucumcari|US||2p|2pp|-805|1e
+Tönning|DE||8r|46w|ou|1e|Taning;Tünn
+Tuzha|RU||97|4g1|3p6|1e|Tuzja
+Tuktuk Sonak|ID||6l|7f|7mm|1e
+Turvelândia|BR||4w|-1dl|-3vq|1e
+Tumbi Vmbi|AU||8l|-2kp|bop|1e|Tumbi Umbi
+Twen Te Wa|MM||7y|1ab|7ea|1e|Twantay Wa Tar Paw;Tuntewa;Twantewa
+Tunápolis|BR||4w|-22x|-450|1d
+Tummikāpalle|IN||6t|1dr|6f2|1d
+Tushara|IN||6t|1kx|6fw|1c
+Turukhansk|RU||6u|52s|6sd|1c
+Tucurú|GT||32|16h|-6yc|1c
+Turbe|BA||9r|3ew|1ct|1c
+Tulia|US||2f|2ny|-7uo|1c
+Tullow|IE||8z|42o|-iq|1b|An Tulach;Talou
+Tuim|RU||6u|46y|6xv|1b
+Turburea|RO||8u|3g8|1tc|1b
+Tupkhana Pt I|IN||6t|1x2|75o|1a
+Tungareo|MX||41|1jb|-7qt|1a
+Turvânia|BR||4w|-1a5|-3v9|19
+Turners Falls|US||48|3ac|-5lk|19
+Tuscola|US|Illinois|2f|32k|-6t8|18
+Turquel|PT||99|31m|-oy|18
+Tursi|IT||9o|33t|19r|18
+Tuscany-Canterbury|US||48|31a|-5wu|17
+Tułowice|PL||a5|3wk|1d1|17
+Teustepe|NI||3s|yi|-6mc|17|Tuestepe
+Tuk Meas Khang Kaeut|KH||78|tn|82l|17
+Tourrette-Levens|FR||9k|3dn|k8|17|Sa Torreta;Turricula Leventiorum;Torreta de Levens
+Tuyan|PH||71|go|9o0|16
+Tubalan|PH||71|i2|9ot|16|Tabalan
+Turany|SK||8s|3sg|1gw|15
+Tuganay|PH||71|kh|9p8|15
+Tumble|GB||9b|3zu|-bf|14|y Tymbl
+Totolan|PH||71|qr|9k1|14|Tutolan
+Turner|AU||8l|-2pz|bi8|14
+Tuka|PH||71|i4|9m3|14
+Tungol|PH||71|jo|9mj|14|Tunggol
+Turangi|NZ||ak|-30b|dkd|14
+Tuburan|PH|Bicol Region|71|10s|9j7|14
+Agana Heights Village|GU||aw|11f|b63|13|Tutuhan
+Tubigagmanoc|PH||71|tj|9jr|13|Bubigagmanok;Tubigagmanak;Tubigmanoc;Tubigagmanok
+Tuitjenhorn|NL||8m|42i|d7|13
+Tunari|RO||8u|3fr|20n|13
+Turia|RO|Covasna County|8u|3jv|20d|12
+Tuao|PH|Cagayan Valley|71|1a3|9cu|12
+Tugos|PH||71|13n|9gz|12
+Turulung|RO||8u|3p5|1s4|12
+Tittling|DE||8r|3rd|116|12|Tutling
+Tungasuca|PE||3o|-13c|-5ik|12
+Turckheim|FR||9k|3pl|k8|12|Türkheim
+Tuzi|ME||9l|39p|1hp|12|Tuzai;Tuz
+Turnersville|US||48|32h|-5sh|11
+Torkābād|IR||7o|2hu|45x|11|Tarkābād;Turkābād
+Tutuala|TL||6b|-nb|9ti|11
+Tublay|PH||71|19y|9b1|11
+Tumalim|PH||71|134|9bc|11
+Turmus‘ayyā|PS||6g|2h0|2q1|11|Turmus ‘Ayyah;Turmus ‘Aiyā;Turmas ‘Aya;Turmus ‘Ayyā;Turmosa'ayya
+Turňa nad Bodvou|SK||8s|3r0|1m0|11|Torna
+Tunas|BR||4w|-28u|-434|11
+Turcoaia|RO||8u|3hb|26b|10
+Tominhao|PH||71|v8|9kk|10|Tuminhau;Tuminhaw;Tominjao
+Tuli|PH||71|k3|9oe|10
+Tunelu-Teliu|RO||8u|3iy|1zt|10
+Tungawan|PH||71|kv|9fx|10|Tungauan
+Tuxpanguillo|MX||41|1g6|-7hh|10
+Tupper Lake|US||48|3eu|-5qu|10
+Tumauini|PH||71|1c0|9ed|10
+Tugela|ZA||o|-292|2fa|10
+Tulimán|MX||41|1e3|-7nq|10
+Tulgheş|RO||8u|3mf|1zl|z|Tölgyes
+Tung Tao Court|HK||6i|1pw|8tb|z
+Tutwiler|US||2f|2mh|-6z7|z
+Laško|SI||9a|3k7|16c|z|Tüffer
+Toubalo|CI||0|lg|-gy|y|Tubalo
+Turuçu|BR||4w|-2fa|-40y|y
+Tuzuapan|MX||41|1gi|-7jb|y|San José
+Türkenfeld|DE||8r|3pn|us|y|Tirknföld
+Türnich|DE||8r|3xa|is|y
+Turícuaro|MX||41|1id|-7v6|y
+Tuckerton|US||48|320|-5qi|y|Tucker Town
+Turvey Park|AU||8l|-2pl|bdc|y
+Tuliszków|PL||a5|40o|1eu|y|Tulißkowo
+Thurø By|DK||8y|48x|tm|y|Turö By
+Tur'i Remety|UA||98|3rc|1qr|x|Turi Remety;Tur'yi Remety
+Tur'ya Pasika|UA||98|3r9|1r0|x|Turja Pasika;Turjavágás
+Tuzsér|HU||8v|3qa|1pg|x
+Tortorici|IT||9o|2xn|156|x|Turturici
+Tulay|PH||71|13n|9bh|x
+Tufeni|RO|Olt|8u|3f9|1wu|x
+Tumarbong|PH||71|su|97u|x
+Tung Chun Court|HK||6i|1pw|8ta|w
+Tüßling|DE||8r|3px|z0|w|Tuszshing
+Tumbala|MX||41|1c0|-74g|w
+Tutuka|ZA||o|-22e|29j|w
+Tuzcular|TR||94|37h|2hr|w
+Tondod|PH||71|17o|9c1|w|Tundod;Tondad
+Tunoshna|RU||9i|4fv|33h|w|Tunosjna
+Tubod-dugoan|PH||71|rw|9j2|v
+Tudela|PH||71|mx|9k0|v
+Tu Chaung Gyi|MM||7y|1aq|7eb|v
+Tūs-e Soflá|IR||7o|2tc|4lc|v
+Turbenthal|CH||a7|3ns|ol|v|Turbental
+Turaŭ|BY||9g|40n|252|v|Turov;Turow
+Tube|NG||u|i5|7q|v
+Turza Śląska|PL||a5|3ut|1f8|v
+Tuningen|DE||8r|3pf|nw|v
+Tuturano|IT||9o|34m|1dv|u
+Yupiltepeque|GT||32|13g|-6xf|u|Tupiltepeque
+Tunggol|PH||71|g8|9cj|u
+Tuikwerd|NL||8m|444|j6|u
+Gamla Stan|SE||9w|4kt|1e7|u|Tukholman vanha kaupunki;Tukholman vanhakaupunki
+Tura Beach|AU||8l|-2ue|bkh|u
+Turgi|CH||a7|3nx|mx|u
+Ţuglui|RO||8u|3eq|1u6|u
+Tubao|PH||71|n5|9k1|u
+Tunga|PH||71|v9|9mj|t
+Tussenhausen|DE||8r|3pm|tc|t
+Tubajon|PH||71|sp|9os|t
+Turmequé|CO||27|es|-5o5|t|Turmequó
+Tularosa|US||2p|2jv|-86i|t
+Tuzantán|MX||41|163|-74q|t|Tuzatán
+Tulca|RO||8u|3ly|1oi|s
+Tunkás|MX||3z|1m2|-6uj|s
+Torgiano|IT||9o|3bj|yk|s|Turgianum;Torgianu
+Toucy|FR||9k|3om|96|s|Tutiacum
+Tumbiscatío de Ruiz|MX||41|1fg|-7we|s
+Tucquegnieux|FR||9k|3sz|gd|s
+Tuod|PH||71|n6|9lf|s
+Tobuan|PH||71|18m|99n|s|Tubuan
+Turley|US||2f|2so|-7em|s
+Turriaco|IT||9o|3ja|11c|r|Turiàc
+Turre|ES||9d|2v7|-59|r
+Torda|RS||8q|3im|1ku|r|Turda
+Tucurrique|CR||2i|rd|-6gk|r
+Tuggen|CH||a7|3n4|ov|r
+Tusculum|US||48|2si|-6dw|r
+Császártöltés|HU||8v|3ky|1ha|q|Tschasartet;Kaiserdamm;Tetiš;Tuotiš
+Tuxford|GB||9b|43v|-2h|q
+Tuhian|PH||71|11u|9fi|q
+Tugbong|PH||71|um|9m4|q
+Tubigan|PH||71|np|9lb|q
+Tunyogmatolcs|HU||8v|3p9|1qf|q
+Turner Valley|CA||2s|3wr|-8th|q
+Turnu Roşu|RO||8u|3ir|1vi|q|Vöröstorony;Turnul Roşu
+Thusis|CH||a7|3lq|q8|q|Tusaun;Tosanna
+Tuncingo|MX||41|1at|-7p7|q
+Türkbükü|TR||94|2v5|241|q|Türbükü
+Turbo|KE||16|1r|2pd|q
+Tureni|RO||8u|3lj|1tu|p|Tordatúr
+Tongwan|CN||7i|24m|8ic|p|T’ung-wan
+Tufino|IT||9o|35s|14h|p
+Tugaya|PH||71|lw|9kx|p|Tagaya
+Turrella|AU||8l|-2m9|bnu|p
+Město Touškov|CZ||9m|3ua|10t|p|Tuschkau Stadt
+Tumak|RU||8o|3kf|3qr|p
+Tureac|RO||8u|3n7|1wx|p
+Tuxtla|MX|Puebla|41|1jk|-7ja|p
+Tuzara|MD||8x|3n8|26m|p|Tuzora
+Tumbler Ridge|CA||2o|495|-9c3|p
+Tubli|PH||71|12p|9kv|p
+Tully|AU||8c|-1dt|b9c|o
+Tucdao|PH||71|wi|9lr|o|Tucdaw
+Tulé|CI||0|m1|-h1|o
+Tunititlán|MX||41|1k9|-7no|o
+Tuban|PH|Mimaropa|71|zl|9bn|o
+Tupilaţi|RO||8u|3mr|21z|o
+Tugdan|PH||71|y7|9f5|o
+Turcineşti|RO||8u|3h9|1sq|o
+Tupsan|PH||71|pk|9mm|o
+Turnasuyu|TR||94|35s|2xi|o|Tarnasuyu;Tunasuyu
+Tuokou|CN||7i|23c|8gi|o|T’o-k’ou
+Tuenno|IT||9o|3kp|um|n
+Tumalaytay|PH||71|y4|9ib|n
+Tūrān|IR||7o|22n|4bm|n|Tūrīān;Tūrīyān;Tūryān
+Htu Gyi|MM||7y|1ae|7ey|n|Tugyi
+Tavullia|IT||9o|3dy|zf|n|Tumba Pisaurensium;Tavułia;Urbania
+Tuusniemi|FI||92|4ui|276|n
+Tubod|PH|Central Visayas|71|rs|9j9|n|Tubud
+Tuoro sul Trasimeno|IT||9o|3c1|xj|n
+Tūreh|IR||7o|2mk|3sx|n|Tūleh
+Tuftonboro|US||48|3de|-5hu|n
+Touho|NC||b8|-1lr|cr1|n|Tuho
+Ţūrqūzābād|IR||7o|2qm|3yh|n
+Turgoyak|RU||7z|497|4n0|n|Turgojak;Turgojaksk;Turgojakskaja
+Tumbagaan|PH||71|ex|9a7|n
+Tulipanes|MX||41|1jq|-7md|n
+Tulapam|MX||41|1ev|-7cj|m|Tehuantepec;Tulapan;Tulapa
+Tugolesskiy Bor|RU||9i|4ab|32m|m|Tugolesskij Bor
+Tupang|PH||71|1dq|9dw|m
+Tuao|PH|Cagayan Valley|71|1da|9de|m
+Tuross Head|AU||8l|-2s5|bl1|m
+Tupychiv|UA||98|3zt|2fb|l|Tupichëv
+Tuchlovice|CZ||9m|3va|12v|l
+Turt|MN||7s|3z3|7rm|l
+Dsegh|AM||80|35s|3g1|l|Dsekh;Tumanyan;Disigi;Disikh;Drsegh
+Turicato|MX||41|1gx|-7tq|l
+Tuxtilla|MX||41|1eo|-7ed|l
+Ţuţora|RO||8u|3mx|256|l
+Les Touches|FR||9k|3ns|-3z|l|An Dosenneg;Tuschiis
+Tuxpan|MX|Guerrero|41|1ez|-7oc|l
+Tuşnad|RO||8u|3kc|1zy|l
+Tugas|PH||71|w9|9fy|l|Jugas
+Turgut|TR||94|2vu|25v|l
+Tuxedo|CA||5d|3ui|-7i2|l
+Tuupovaara|FI||92|4tk|2d3|l
+Tutubigan|PH||71|ww|9ne|k|Totubigan;Tutugiban
+Campo Tures|IT||9o|3mb|x8|k|Sand in Taufers;Tufers;Taufers
+Tucta|MX||41|1ej|-76c|k
+Tur|RO||8u|3p0|1sz|k
+Ţūrdān|IR||7o|23j|4nv|k
+Tupirama|BR||1k|-ox|-3pv|k
+Tulyushka|RU||6k|47a|7t1|k|Tuljusjka
+Turiya|IN||6t|1oe|64h|k
+Tobercurry|IE||8z|465|-o9|k|Tobar an Choire;Tubbercurry;Toberkuris
+Turner|US|Oregon|3p|3gk|-9hj|k
+Tuxedo Industrial|CA||5d|3ug|-7i1|k
+Tuta|RO||8u|3ki|225|j|Tutu
+Tusa|IT||9o|2xi|13k|j
+Tuambli|CI||0|hv|-mp|j|Tuambly
+Tux|AT||a2|3n0|wl|j
+Turunç|TR||94|2u5|26h|j|Turune
+Turdaş|RO||8u|3jd|1s8|j
+Tuczno|PL||a5|43r|18v|j|Tütz;Tëczno;Tučno
+Tuzly|UA|Odesa|98|3jf|2bm|j|Touzly;Tuzla;Tuzli;Tusly
+Tunica Resorts|US||2f|2os|-6yz|j
+Turiatka|UA||98|3pg|20m|j|Tureatca;Turyatka
+Tupiratins|BR||1k|-nb|-3po|j
+Tuzla|TR|Adana|94|2ty|2ph|j
+Türje|HU||8v|3mi|1bj|j
+Tullytown|US||48|33i|-5rt|j
+Hohendodeleben|DE||8r|40q|vy|i|Tudolon australis;Ho’endo’lä;Dolä
+Tukhlia|UA||98|3rw|1t7|i|Tukhlya
+Tulette|FR||9k|3f1|dp|i|Tuleta
+Tučepi|HR||a6|3c7|1bd|i|Tucepa
+Turiúba|BR||4w|-1m7|-3v7|i
+Torūd|IR||7o|2qf|48u|i|Turūd
+Tukan|RU||7z|45k|4fm|i
+Tumbarumba|AU||8l|-2re|bf5|i
+Tunkhannock|US||48|37e|-5uz|i
+Tuolumne City|US||3p|2xg|-9a0|i|Teełtah Nteel
+Ţowlash|IR||7o|2wb|3qu|i|Ţūlāsh
+Tudora|MD||8x|3l0|2bg|i|Tudorova
+Tuckerman|US||2f|2r9|-71c|i
+Tulagi|SB||av|-pa|ccv|i|Tulaghi
+Tutana|RO||8u|3h4|1wh|h
+Tuchoměřice|CZ||9m|3va|13o|h
+Tuzamapan|MX|Puebla|41|1jr|-7j2|h
+Tumby Bay|AU||8b|-2ni|ai2|h
+Băile Tuşnad|RO||8u|3k6|1zu|h|Tusnádfürdő;Tusnad Fürdö
+Ţūs Kolā|IR||7o|2tx|440|h|Ţūs Kūlā
+Turmalina|BR|São Paulo|4w|-1jp|-3w8|h
+Tuta|CO||27|ft|-5nf|g
+Tullnerbach-Lawies|AT||a2|3pv|18p|g
+Turners Beach|AU||8g|-36c|ba7|g
+Tuk|NL||8m|42o|gx|g
+Torony|HU||8v|3n8|19y|g|Dienling;Turnice
+Tulalip Bay|US||3p|3pg|-9fr|g
+Turets-Bayary|BY||9g|472|222|g|Turets-Boyary
+Turnu Ruieni|RO||8u|3i3|1q2|g|Turnu Rueni
+Totora|BO||3n|-1d9|-513|g|Tutura
+Tupátaro|MX|Michoacán|41|1j1|-7qn|g
+Tuffé|FR||9k|3pn|1f|g
+Turun satama|FI||92|4nw|1pq|g|Åbo hamn;Port of Turku;Turku Harbour;Port de Turku;Hafen Turku
+Tūrchī|IR||7o|2uq|3kc|g|Torçu
+Tut|IN||6t|2ek|5tl|f
+Tullyallen|IE||8z|45a|-hu|f|Tulaigh Álainn
+Tuxcacuesco|MX||41|1iq|-80u|f|Tuxcacuezco
+Tupelí|AR||1t|-2gg|-59w|f
+Tūt-e Nadeh|IR||7o|2dt|3ym|f|Tūt Nadeh
+Tūtkābon|IR||7o|2uh|3tl|f|Tonkābon;Tutkabun;Tūtak Bon
+Turnišče|SI||9a|3lj|19b|f|Bántornya;Turnischa
+Turgutlu|TR|Adana|94|2w7|2rg|f
+Tuplice|PL||a5|3zk|157|f
+Tula|IT||9o|355|oy|f
+Tülau|DE||8r|422|u8|f
+Turka|RU||6k|433|8cm|f
+Tuulos|FI||92|4pv|1ww|f
+Tumanyan|AM||80|35w|3g1|f|Dzaghidzor;Dzagidzor;Tumanian
+Turia Poliana|UA||98|3ra|1rc|f|Tuři Polana;Tur’ya Polyana
+Turia-Bystra|UA||98|3r6|1rd|f|Tuři Bystrý
+Turluk|TR||94|2us|306|e
+Tupátaro|MX|Guanajuato|41|1l7|-7ud|e
+Türnitz|AT||a2|3p5|171|e|Ternitz
+Tucheim|DE||8r|419|xu|e
+Tüllingen|DE||8r|3o8|l8|e
+Tullisaari|FI||92|4n6|1xk|e|Turholm
+Tusmore|AU||8b|-2p2|ap5|e
+Tufts Cove|CA||35|3g4|-4wo|e
+Tuana‘i|WS||aj|-12c|-d9e|e
+Tubinskiy|RU||7z|42x|4hq|e|Tubinskij
+Turcești|RO||8u|3h4|1ub|e
+Tupanci do Sul|BR||4w|-25l|-3z6|e
+Tuckahoe|US|New York|48|35m|-5l5|e
+Tudor Vladimirescu|RO|Botoșani County|8u|3oh|23h|e
+Tuchomie|PL||a5|46c|1c6|e|Tuchonie
+Turgenevka|UA||9t|3g6|2lz|e
+Tula|MX|Veracruz|41|1fn|-7cy|e
+Turretot|FR||9k|3tt|n|e
+Tư|VN||6h|18i|8br|d
+Tuin|MK||9u|37m|1mh|d|Tujin
+Tungor|RU||7f|44b|b14|d
+Tūtlī-ye Kūchak|IR||7o|2vl|49f|d|Tūtlī-ye Kūchek
+Tureň|SK||8s|3pv|1cb|d|Torony;Zonctorony
+Tutow|DE||8r|45s|10t|d
+El Tulín|MX||41|1ep|-7br|d|Tulín
+Tuxcueca|MX||41|1jz|-7yn|d
+Tufeni|RO|Prahova|8u|3h6|1zs|d
+Tuxpan de Bolaños|MX||41|1os|-80x|d
+Turda|RO|Tulcea County|8u|3gy|27i|d
+Tulli|FI||92|4qu|1u2|d
+Tungidighi|IN||6t|1zm|6s9|d
+Pochetnoye|UA||9t|3jr|2lt|c|Tuzla
+Tuggerawong|AU||8l|-2kg|bos|c
+Lusakunk|AM||80|33m|3ix|c|Tuskyulu
+Turano Lodigiano|IT||9o|3hp|qq|c
+Tuéjar|ES||9d|32h|-2v|c|Toixa;Tueixa
+Tužina|SK||8s|3rt|1fq|c
+Tulcingo|MX||41|1gc|-7lw|c
+Tüttendorf|DE||8r|473|rr|c
+Turcia|ES||9d|3a5|-gc|c
+Tubac|US||4i|2ft|-8kh|c
+Tuchenbach|DE||8r|3tl|u6|c
+Tulimanca|MX||41|1fb|-7hu|c
+Turnu|RO||8u|3ki|1mp|c
+Tamins|CH||a7|3m3|q5|c|Tumein
+Turégano|ES||9d|36c|-b5|c
+Haghtanak|AM||80|36i|3gr|b|Haxtanak;Tumanyani sovkhozin kits avan;Akhtanak
+Turluianu|RO||8u|3l1|221|b
+Tupambaé|UY||45|-2j7|-485|b
+Tudor Vladimirescu|RO|Teleorman County|8u|3e3|1x7|b
+Tulillo de Abajo|MX||41|1ml|-7r4|b|Tulillos de Abajo
+Turanj|HR||a6|3e5|16t|b
+Tupesy|CZ||9m|3sc|1c9|b|Tupes
+Turytsia|UA||98|3rd|1qw|b|Turytsya;Turitsa
+Turba|EE||9x|4k4|1vb|b
+Tuklaty|CZ||9m|3v4|151|b
+Turgut Özal Mahallesi|TR||94|32t|3e7|b
+Tulfes|AT||a2|3na|w1|b
+Tutlygala|TM||5x|2yp|4dl|b|Tutly-Kala;Tutlykala
+Turmi|ET||2|dt|2tc|b
+Akhurik|AM||80|356|3dm|b|Axurik;Turki Gharakilisa
+Tutepec|MX||41|1b0|-7ng|b
+Krutenky|UA||98|3qd|21r|b|Tulbureni;Kruten’ki;Tulburen’
+Turcio Segunda Sección|MX||41|1ht|-7po|b
+Torre Pallavicina|IT||9o|3i9|rg|b|Tur Palaisina;Turris Pallavicinorum
+Tuili|IT||9o|32b|ow|b
+Tubualá|PA|Guna Yala|4g|qf|-63k|b
+Tula|MX|Puebla|41|1fi|-7jz|b
+Tuscarawas|US||48|347|-6a5|b|Tuskarawas
+Turčianske Kľačany|SK||8s|3sg|1gn|b
+El Tumbo|MX||41|1bg|-72j|a|Tumbo
+Tutnjevac|BA||9r|3g8|1gm|a
+Tuindorp|NL||8m|409|c6|a
+Turze Pole|PL||a5|3ty|1p4|a
+Turija|RS||8q|3fo|1o4|a
+Thomm|DE||8r|3u6|iw|a|Tumba
+Turobin|PL||a5|3x6|1r6|a
+Turtle Lake|US|Wisconsin|2f|3i3|-73y|a
+Turtmann|CH||a7|3km|le|a|Tourtemagne
+Ttujur|AM||80|34x|3hw|a|T’t’ujur;Qoturbulaq;Ttucur;Tucur
+Tușnadu Nou|RO||8u|3kb|1zx|a|Újtusnád
+Turjaci|HR||a6|3d9|1ab|a
+Chaykino|UA||9t|3j9|2o4|a|Tüp Tarqan
+Toormakeady|IE||8z|451|-q1|a|Tuar Mhic Éadaigh
+Tupik|RU||67|477|996|a|Tulik
+Tula del Río|MX||41|1ds|-7o0|a
+Tulelake|US||3p|38k|-9dg|a
+Ţūleh Kolā|IR||7o|2td|41k|a
+Tunica|US||2f|2oc|-6z2|a
+Tuahiwi|NZ||ak|-3cd|dbl|a
+Tuscarora|US||48|359|-5v8|a
+Tuolluvaara|SE||9w|58h|1kh|a
+Tuktoyaktuk|CA||2s|5cw|-a9j|a
+Tumbling Shoals|US||2f|2qq|-73h|a
+Turgut Özal|TR||94|30y|3b0|a
+Turtola|FI||92|4qs|1u8|a
+Turanlar|TR||94|2x3|24q|a
+Tushiyya|IL||6n|2fb|2ny|a|Tushia;Tušija;Tuşia;Tushiya
+Tallow|IE||8z|40p|-m9|9|Tulach an Iarainn
+Tsuren|UA||98|3q0|20i|9|Tsouren;Țureni;Zuren
+Blowing Point Village|AI||1i|1ei|-4v9|9|Blowing Point Köyü;Puflash Nuqta Qishlog'i;Desa Blowing Point;Kampung Blowing Point;Pueblo Blowing Point;Village de Blowing Point;Blowing Point Dorf;Kauyeni Blowing;Gandaa Blowing Point;Vila Blowing Point;Tuulo Blowing Point;Kijiji cha Blowing Point
+Turvey|GB||9b|40w|-1r|9
+Tufo|IT|Lazio|9o|36n|128|9|Tuso
+Tulillo de Arriba|MX||41|1mj|-7r3|9|Tulillos de Arriba
+Tulapilla|MX||41|1kf|-7j7|9
+Tuggerah|AU||8l|-2kj|bon|9
+Turleque|ES||9d|320|-a1|9|Torleque
+Tuszów Narodowy|PL||a5|3vx|1nm|9
+Tuzly|UA|Mykolaiv|98|3lq|2f6|9
+Turnau|AT||a2|3o4|16m|9
+Tumbang Jutuh|ID||79|-3k|8ri|9
+Turirán|MX||41|1hr|-7u8|9|Turián
+Tužno|HR||a6|3ki|194|9
+Tuzanapa|MX||41|1l6|-7lv|9|Tuzamapa
+Ţūrah al Gharbīyah|PS||6g|2i7|2pn|9
+Tufulele|WS||aj|-12c|-d9k|9
+Tusa|RO||8u|3mo|1ra|9
+Turawa|PL||a5|3wy|1e8|9
+Turshsu|AZ||61|329|3lk|9|Turşsu;Lisagor
+Tumannyy|RU||9i|5bc|2r5|9|Tumannyj
+Tulin|PE||3o|-14o|-5sj|9
+Türkmenhacı|TR||94|2x1|34t|9
+Tumpa|PE||3o|-ph|-5zr|9
+Turcio Primera Sección|MX||41|1hp|-7pp|9
+Turners Hill|GB||9b|3xy|-9|9
+Tuchyňa|SK||8s|3s8|1em|9
+Tubualá|PA|Guna Yala|4g|os|-5zw|9
+Tunnel Hill|US||48|2os|-6k8|9|Tunnelhill;Tunnell Hill
+Tugare|HR||a6|3cr|1a9|9|Tugari
+Tuzantla|MX|Veracruz|41|1go|-7hw|9
+Malynivka|UA|Zaporizhzhia|98|3og|2tc|9|Turkenovka;Malinovka;Novosëlovka;Turkenivka;Novoselivka;Malyniwka;Maliņivka
+Tuzales|MX||41|1g6|-7ey|9
+Tuitán|MX||44|1ur|-81l|9
+Tully|US||48|3aw|-5vf|9
+Tuchan|FR||9k|3b5|7k|9
+Tunas Blancas|MX||41|1lj|-7pg|9
+Tufara|IT||9o|378|15j|8
+Tutuaca|MX||2g|25v|-87y|8|Tucuaca
+Turny|FR||9k|3pf|af|8
+Tučapy|CZ|South Bohemian Region|9m|3sx|154|8|Tucap
+Tudor Vladimirescu|RO|Iași County|8u|3mx|22f|8
+Tudor Vladimirescu|RO|Botoșani County|8u|3pb|230|8
+Tulbing|AT||a2|3q5|18s|8
+Lathuile|FR||9k|3j6|h8|8|Tuilia Genevensium;Lathuille
+Turbeville|US||48|2m5|-66a|8
+Turčin|HR||a6|3ki|19g|8
+Tureholm|SE||9w|4ks|1d8|8
+Turze|PL||a5|3vf|1eq|8|Thurze
+Tulghieș|RO||8u|3ny|1sx|8
+Toamua|WS||aj|-12d|-d99|8|Tuamua
+Tuuri|FI||92|4tw|1ty|8
+Turenne|FR||9k|3h5|4e|8
+Turopolje|HR||a6|3it|18u|8
+Tuna Mansa|MX||41|1mf|-7tp|8|Tunamanza
+Tumeltsham|AT||a2|3pz|11i|8
+Çağlayan Mahallesi|TR||94|2yv|39i|8|Tuğ
+Tüttleben|DE||8r|3xj|tz|8
+Tudor Vladimirescu|RO|Olt|8u|3dq|1w2|8
+Tudor Vladimirescu|RO|Călărași County|8u|3fg|24a|8
+Turia|RO|Olt|8u|3fh|1w0|8
+Tuti|PE||3o|-175|-5ir|7
+Turayeva|RU||7z|4er|52s|7
+Tuscola|US|Texas|2f|2hh|-7p8|7
+Țuțcani|RO||8u|3k8|25n|7
+Tol-e Ashkī|IR||7o|28r|3y1|7|Tūl Ashki;Tolashkī
+Turpo|PE||3o|-12b|-5o3|7
+Tutak|TR|Ağrı|94|32c|3dl|7
+Tumbadero|MX||41|1m6|-7j2|7
+Tuisentlang|IN||6t|1pg|75g|7
+Tuzburgazı|TR||94|2wi|23l|7
+Tubre|IT||9o|3lk|t2|7|Taufers im Münstertal;Tuberis
+Tultita|MX||3x|1yo|-8c5|7
+Tușinu|RO||8u|3lt|1vb|7
+Tungelroy|NL||8m|3y9|fx|7|Tungelroij;Tungelrooi
+Tuchořice|CZ||9m|3vo|11y|7|Tuchořitz
+Turośń Kościelna|PL||a5|439|1s2|7
+Tuzik|MX||2b|1jc|-6sw|7|Tusik
+Tuba-Wuli|GM||7|11b|-13l|7
+Tuéifla|CI||0|l6|-gf|7
+Tutuapan|MX||41|1hg|-7qj|7
+Tufo|IT|Campania|9o|35x|156|7
+Tunb-e Bozorg|IR||7o|20y|49o|7
+Tufano|IT||9o|37x|10p|7
+Turbotville|US||48|366|-5x9|7|Turbutville;Turbutvillle
+Tupátaro|MX|Michoacán|41|1i6|-7tx|7
+Tully|FR||9k|3v5|48|7
+East End Village|AI||1i|1en|-4v0|7|East End Köyü;Sharqiy Soʻng Qishlog'i;Desa East End;Kampung East End;Pueblo East End;Village de East End;East End Dorf;Kauyeni East End;Gandaa East End;Vila East End;Tuulo East End;Kijiji cha East End
+Tunarii Noi|RO||8u|3e1|1sa|7|Tunarii Noui
+Tuttletown|US||3p|2xj|-9am|7
+Tuba Koto|GM||7|11v|-15e|7
+Tucker|US|Mississippi|2f|2iv|-6vd|7
+Tučapy|CZ|South Moravian|9m|3sr|1b0|7
+Tulla|IE||8z|42u|-oc|7|An Tulach
+Tützpatz|DE||8r|458|10i|7
+Tuhovishta|BG||9v|37a|1us|7|Tukhovishta
+Île-Tudy|FR||9k|3ox|-bl|7|Enez-Tudi;Tudi Insula
+Tūprāq Kandī|IR||7o|31v|3oe|7
+Tutumberos|PE||3o|-eu|-61x|7
+Torp|IR||7o|2yj|3k8|6|Tūrp;Torb
+Tungujei|RO||8u|3md|241|6
+Türkmeşen|TR||94|346|3c3|6|Kırdamı
+Tumpen|AT||a2|3n1|ua|6
+Tukutonga|TO||bi|-1mr|-dik|6
+Tūmānak|IR||7o|2ia|3wr|6
+Turundeo|MX||41|1ii|-7r4|6
+Turitzio|MX||41|1fh|-7sf|6
+Turets|BY||9g|44p|213|6
+Tuichawngtlang|IN||6t|1pj|75g|6
+Tumlehed|SE||9w|4gd|wm|6
+Tuxedo Park|US||48|36g|-5q5|6
+Berehove|UA|Lviv|98|3uc|1sq|6|Tulyholovy
+Tütenocak|TR||94|2xu|37s|6
+Tunguitiro|MX||41|1iz|-7u9|6
+Tuntange|LU||9c|3u4|gp|6|Tënten;Tuntingen
+Turpay|PE||3o|-13j|-5lq|6
+Turago Bordone|IT||9o|3ht|ph|6
+Turega|PA||4g|nx|-66s|6
+Turtle Lake|US|North Dakota|2f|3o0|-7s9|6
+Tuninetti|IT||9o|3gm|ll|6
+Savave Village|TV||as|-mb|drb|6|Savave Köyü;Savave qishlog'i;Desa Savave;Kampung Savave;Aldea Savave;Village de Savave;Dorf Savave;Gidan Savave;Tuula Savave;Aldeia Savave;Tuulo Savave;Kijiji cha Savave
+Tuba|GM||7|11f|-14s|6
+Turea|RO||8u|3m5|1sv|6
+Tuněchody|CZ||9m|3uu|180|6
+Srednja Trnova|BA||9r|3g0|1gz|6|Turska Trnova
+Tuhovec|HR||a6|3kd|19p|6
+Tuczępy|PL||a5|3wc|1mb|6|Dąbrowa
+Turrell|US||2f|2qa|-6yq|6
+Tuzancoac|MX||41|1ly|-7lr|6
+Tūrang Tappeh|IR||7o|2um|47n|6|Kūrān Tappeh
+Tunal|PE||3o|-eh|-65c|6
+Tusayan|US||4i|2rx|-8nh|6
+Turanovac|HR||a6|3jh|1cc|6
+Turgenevo|UA||9t|3jh|2o2|6|Avuz Qyrq
+Tuatapere|NZ||ak|-3k5|cxs|6
+Tuxtepec (Cofradía)|MX||41|1b5|-7m4|6
+Tucsipampa|PE||3o|-104|-5rr|6
+Tuhaň|CZ||9m|3vq|14c|5
+Tupadly|CZ||9m|3uj|16s|5|Tupadl
+Tuzla|TR|Canakkale|94|31x|20p|5
+Tulare|RS||8q|3c3|1ne|5|Tulari
+Tušilović|HR||a6|3i4|17e|5
+Tukuhora|PF||bg|-1c7|-b88|5|Anaa Village;Tuuhora
+Atafu Village|TK||aq|-nq|-db8|5|Atafu;Atafu Köyü;Atafu qishlog'i;Desa Atafu;Kampung Atafu;Pueblo de Atafu;Village d'Atafu;Dorf Atafu;Atafu gida;Tuulo Atafu;Aldeia de Atafu;Kijiji cha Atafu
+Tullimbar|AU||8l|-2o2|bmq|5
+Tursko|CZ||9m|3vf|13s|5
+Ţovīr|IR||7o|2t3|3ye|5|Ţavīr;Tuvīr;Ţowvīr
+Tugonica|HR||a6|3jv|18q|5
+Türkstetten|AT||a2|3qd|13h|5
+Turpçular|TR||94|35q|21g|5|Turupcular
+Türi-Alliku|EE||9x|4je|1yp|5
+Tuzamapan Xiloxochico|MX||41|1jq|-7it|5
+Thumby|DE||8r|47n|rj|5|Tumby

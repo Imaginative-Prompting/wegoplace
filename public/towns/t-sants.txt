@@ -1,0 +1,30 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Donostia / San Sebastián|ES||9d|3cb|-5h|1fi|San Sebastián;Donostia;La Bella Easo;Sanse;Sant Sebastià;Saint-Sébastien;Donostio;São Sebastião;Donosti;Donostia-San Sebastián;Donostia San Sebasián
+Sants-Montjuïc|ES||9d|36x|5z|1ev
+Sants|ES||9d|36x|5y|bc
+Saint-Sébastien-sur-Loire|FR||9k|3n5|-46|84|Sant-Sebastian-an-Enk;San Sebastián sobre Loira;Engnia;Sen Sebastjan sür Luar
+Sants - Badal|ES||9d|36x|5x|6r
+Sant Sadurní d'Anoia|ES||9d|373|4z|3e|Sant Sadurní
+Saint-Étienne-de-Montluc|FR||9k|3nc|-4y|1w|Sant-Stefan-Brengoloù;Sanctus Stephanus de Monteluci
+Saint-Sulpice-la-Pointe|FR||9k|3dm|4p|1v|Sant Somplesi;Sen Siulpisas
+Sanchursk|RU||97|4e6|3n9|1j|Santsjursk
+Saint-Saturnin-lès-Avignon|FR||9k|3e4|dp|15|Sant Savornin dAvinhon
+Saint-Céré|FR||9k|3gm|59|13|Sant Seren
+Sant Salvador de Guardiola|ES||9d|37s|4x|v|Guardiola
+Saint-Savournin|FR||9k|3cl|fd|r|Sant Savornin
+Saint-Saturnin-lès-Apt|FR||9k|3e1|ey|p|Sant Savornin dAte
+Saint-Étienne-du-Bois|FR|Auvergne-Rhône-Alpes|9k|3kl|ep|n|Sant-Stefan-ar-C'hoad
+Saint-Étienne-en-Coglès|FR||9k|3qg|-3p|g|Sant-Stefan-Gougleiz
+Saint-Sulpice-la-Forêt|FR||9k|3py|-4e|e|Sant-Suleg-ar-C'hoad;Sant-Suleg-ar-Choad;Sanctus Sulpicius de Abbatia
+Saint-Samson-sur-Rance|FR||9k|3qp|-5n|c|Sant-Samzun
+Saint-Sauveur-en-Rue|FR||9k|3hr|ci|c|Sant Sauvador jos Rua;Sant Salvador
+Saint-Senoux|FR||9k|3p2|-4z|c|Sant-Senour
+Pragoulin|FR||9k|3jx|9f|b|Sant Silvestre;Saint-Sylvestre
+Saint-Étienne-de-Mer-Morte|FR||9k|3md|-4u|b|Sant-Stefan-Melveuzh;Sant-Stefan-Melveurzh;Mellomars
+Saint-Suliac|FR||9k|3qx|-5h|9|Sant-Suliav;Sanctus Sulianus
+Saint-Ségal|FR||9k|3q0|-bb|9|Sant-Segal
+Sainte-Sève|FR||9k|3qw|-as|9|Sant-Seo
+Saint-Servant|FR||9k|3p4|-6z|8|Sant-Servant-an-Oud;Sanctus Servacius
+Saint-Servais|FR||9k|3qr|-bj|7|Sant-Servez-Landivizio
+Saint-Sulpice-des-Landes|FR||9k|3o6|-3d|7|Sant-Suleg-al-Lanneier
+Sontsivka|UA||98|3ph|2vb|6|Krasne;Santsovka;Sontsovka;Solntsevka;Krasnoye;Soncivka

@@ -1,0 +1,66 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Quetta|PK||6q|2bu|564|c2v|Kweta;Kvéta;Kveto;Ketta;Kvetta
+Gwangju|KR|Gwangju|7h|2pn|9sk|at8|Kwangju;Kwangdžu;Kŭangĵuo;Gouanjou;Quansua;Kvandžu;Kvanju;Kvangdzsu;Kuangju
+Québec|CA||59|3m1|-5ht|43r|Kwébék Shehiri;Kvebeka;Kebeko;Kvebekas;Kebek;Tchubec;Kébéc Vile;Kebeku;Kvebek;Kwébék;Kévek táva;Kebekurbo
+Guangyuan|CN||7i|2i4|85y|3zg|Kuang-jüan;Quảng Nguyên;Guōng-nguòng;Kóng-goân-chhī;Kwangyüan;Kuan-yüan;Kuang-yüan
+Tseung Kwan O|HK||6i|1q1|8td|36p|Cheung Kwan O
+Gwangmyeong|KR||7h|2w4|9sf|2rb|Kwangmyŏng
+Kwai Chung|HK||6i|1q5|8t2|2k4
+Quảng Ngãi|VN||6h|160|8e7|25d|Kóng-ngi-sṳ;Kwang Ngai
+Germiston|ZA||o|-20t|268|1z3|Germinston;kwaDukathole
+Croix-des-Bouquets|HT||4j|1fm|-5kn|1rn|Kwadèbouke
+KwaDukuza|ZA||o|-29h|2ex|18s
+Guangshui|CN||7i|2fu|8so|170|Kuang-shui;Kwangshui
+Gwangyang|KR||7h|2p2|9uq|16v|Kwangyang
+Yong’an|CN|Chongqing|7i|2e6|8g2|143|Kweichow;Fengjie;Feng-Chieh;K’uei-chou;Fengkieh;Kwei-chow-fu;Feng-chien
+Kwekwe|ZW||n|-1gl|2at|xb|Kvekvė
+Kwail-ŭp|KP||7a|2yt|9na|oz
+Kwangyang|KR||7h|2p6|9uf|ot|Gwang-yang
+Gwangju|KR|Gyeonggi-do|7h|2vx|9ti|mq|Kwangdžu;Kóng-chû-sṳ;Kwangju
+Kuacjok|SS||p|n2|25q|lo|Kuajok;Kwacjok
+Khāsh|IR||7o|26e|4q2|jc|Kwāsh
+Gwa|MM||7y|1cv|7aq|ic|Kwa
+Kwaggafontein|ZA||o|-1yd|28e|f0
+Kwidzyn|PL||a5|458|1gl|ag|Marienwerder;Kvidzynas;Kvidzina;Kwidzëno
+Kuala Belait|BN||66|cq|8tb|8o|Kvala Belaitas;Kwala Belait
+Kwinana|AU||8k|-2hj|8xm|8g
+Kuah|MY||6v|hl|7pc|8e|Kwah;Kuan
+Kungyangon|MM||7y|19o|7eq|7w|Kwon-khyan-gon
+Kuala Penyu|MY||6w|fh|8x4|6q|Kwala Penyu;Kuala Peyu
+Kwale|NG||u|fv|hv|5m
+Kwun Tong|HK||6i|1pz|8ta|4o|Koon Tong;Kun Tong;Kung Tong;Kon Tong
+Kwong Yuen|HK||6i|1q6|8t9|39
+Kwaksan|KP||7a|329|9ng|2x
+Kwale|KE||16|-bl|31l|2t
+Kwatarkwashi|NG||u|xq|iy|2j
+Kwakta|IN||6t|1vx|78d|2e
+Kwamhlanga|ZA||o|-1yn|27r|2d
+Kwolla|NG||u|oq|pt|2a|Kwalla
+Kvasyliv|UA||98|3wg|20y|29|Kwassyliw;Kvasiliv;Kvassyliv;Kvasziliv;Kwasiłów;Kvasilov
+Kwakoa|TZ||h|-ah|2ws|23
+KwaThandeka|ZA||o|-221|2d8|21
+Kwali|NG||u|oo|ji|1q
+Kwun Lung Lau|HK||6i|1pw|8t1|1q
+Kwaadmechelen|BE||8t|3xy|ea|1k|Zwaadmechelen
+KwaDela|ZA||o|-21i|2af|19
+De Kwakel|NL||8m|414|db|12|De Kvakelis;Kwakel
+Kwintsheul|NL||8m|40h|bu|10
+KwaMbonambi|ZA||o|-27g|2h5|y
+Kwaluseni|SZ||13|-21k|2f1|y
+Kwilcz|PL||a5|420|18p|r
+Kwet Thit|MM||7y|1ax|7ey|o
+Kwa Hnee|MM||7y|19z|7fq|m
+Kwaczała|PL||a5|3v2|1i5|j
+Quitzdorf|DE||8r|3yg|151|h|Kwětanecy
+Kokwo|CI||0|pc|-fi|f|Koko;Kwokwo
+Kvasiny|CZ||9m|3vh|196|d|Kwasnei;Kwasin
+KwaGingindlovu|ZA||o|-28n|2fq|d
+Kwalé|CI||0|n1|-fx|c
+KwaNgema|ZA||o|-231|2cp|a
+Kwadijk|NL||8m|41x|du|8
+Kwethluk|US||1h|4ox|-cge|8|Kwithluk
+Kwaremont|BE||8t|3x2|9s|7|Quaremont
+Quinhagak|US||1h|4lz|-chs|7|Quinahak;Kwinhagak
+Kwiatonowice|PL||a5|3u4|1ms|6

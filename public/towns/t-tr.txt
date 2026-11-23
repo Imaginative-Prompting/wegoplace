@@ -1,0 +1,1176 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Zibo|CN||7i|2u7|93y|10ap|Truy Bác;C-po;Cṳ̆-báuk;Chu-phok-chhī
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Changsha|CN|Hunan|7i|26c|8pt|nvg|Ĉangŝa;Trường Sa;Cangzsah;Čchang-ša;Chhòng-sâ-sṳ;Csangsa;Changsja;Tn̂g-soa-chhī;Diòng-să;Čanša;Chansha
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Zhanjiang|CN||7i|1mz|8in|at3|Trạm Giang;Chankiang
+Tripoli|LY||1d|2jd|10n|a1x|Trablus;Tripolo;Tripul;Trìpuli;Tarabulus;Tripole;Tripilí;Triboli;Tripoly;Trípol;Trypolis;Ṭrables;Taràbles
+Changzhi|CN|Shanxi|7i|2si|8q7|9dh|Čchang-č;Ĉanĝi;Čangdži;Trường Trị;Diòng-dê;Tiông-tī-chhī;Chang-chi;Ch’ang-chih
+Zhongwei|CN||7i|2w7|847|92a|Dṳ̆ng-ôi;Čung-wej;Trung Vệ;Tiong-oē-chhī;Chung-wei
+Zoucheng|CN||7i|2qc|90x|8m7|Trâu Thành
+Trujillo|PE||3o|-mk|-63j|88l|Troxillo;Truchiljas;Truhillu;Turgalium
+Tbilisi|GE||7n|37t|3gj|83j|Tiflis;Tbilissi;Tbiliso;Thbilisi;Tbilisy;Tibîlîsî;Tiblíssi;Triphelis;Tbiliszi;Tiblisi;Tbilsi;Tblisi;Tpilisi
+Tiruchirappalli|IN||6t|u2|62m|7w1|Trichinopoly;Tiruchi;Trichy;Tiruchchirappalli;Tiruchirapalli;Tiruĉirapali;Tiruččiráppalli;Tiruccsirápalli;Tiruchchināppalli;Trinchinopoly;Trichinopoli
+Thiruvananthapuram|IN||6t|nl|5xr|62z|Trivandrum;City of Lord Anantha;Tiruvanantapuram;Tiruvanantapuramas;Tiruvananantapuram
+Chuzhou|CN||7i|2hs|94m|61f|Chuju shehiri;Chutsjou;Čchu-čou;Trừ Châu;Dṳ̀-ciŭ;Tû-chiu-chhī
+Zhangjiakou|CN||7i|35a|8v3|5ce|Ĝanjakou;Trương Gia Khẩu;Čang-ťia-kchou;Diŏng-gă-kāu;Chang-kia-k’ou
+Dortmund|DE||8r|3z3|kr|4jh|Düörpm;Tremonia
+Nha Trang|VN||6h|y1|8fb|4gu|Ņačana;Ngà-tsông-sṳ;Niačangas;INhatrang
+Zhangye|CN||7i|305|7r1|3wy|Trương Dịch;Diŏng-ĭk;Čang-jie;Changyen;Chang-yeh
+Zhangjiajie|CN||7i|28x|8iw|3eq|Čang-ťia-ťie;Chông-kâ-kie-sṳ;Trương Gia Giới;Diŏng-gă-gái
+Việt Trì|VN||62|1n8|84s|37d|Vietri
+Utrecht|NL||8m|40p|e8|2wk|Utreĥto;Traiectum ad Rhenum;Utrei;Utrehta;Utreque;Utrech;Utert;Utrext;Utreht
+Thrissur|IN||6t|t8|5vq|2fs|Trichur
+Hai Bà Trưng|VN||62|1md|861|2cc|Hai BàTrưng
+Stoke-on-Trent|GB||9b|438|-63|1zs|The Potteries;Stok-on-Trent;Stoka pie Trentas;Stokas prie Trento;Stok-on-Trento;Stoke-upon-Trent
+Thị Trấn Đông Triều|VN||62|1mk|87v|1x5
+Trabzon|TR||94|35x|32d|1vt|Trebisonda;Trapisonda;Trebizonda;Trapesonda;Trebizond;Tirabzon;Trébizonde;Tirabson
+Tri-Cities|US||3p|3kh|-974|1vs|Trije Stêden
+Vyhurivshchyna-Troyeshchyna|UA||98|3wb|2d0|1uo|Vyhurivshchyna-Troieshchyna;Troieshchyna;Vygurivshchyna-Troyeshchyna;Vygurivshchyna-Troieshchyna
+Tripoli|LB||64|2nn|2rk|1rq|Tripolo;Trypolis;Trípol;Trablusşam;Trìpuli;Tripole
+Sóc Trăng|VN||6h|qo|86d|1pi|Sok Trang
+Trondheim|NO||9j|4w7|sw|1o5|troneim;Þrándheimur;Nidaros;Nidrosia;Troandin;Tronheima;Truondhėims;Trondhjem;Drontheim
+Zhubei|TW||7l|1x0|9c5|1n3|Trúc Bắc;Tsuk-pet-sṳ;Ču-pej;Jhubei
+Trieste|IT||9o|3it|12a|1kr|Triest;Trst;Terst;Triesto;Trieszt;Tergeste;Triestas;Triesti;Triests;Tit-lî-ngâ-sṳ̂-thi̍t
+Thị Trấn Đại Từ|VN||6h|1o3|85g|1ds
+Tlemcen|DZ||3|2ow|-3n|1c7|Tremecén;Tilimsan;Tilimsen;Termicén;Tlemsenas;Pomaria;Tlemsen
+Aydın|TR|Aydın|94|2x5|25c|19a|Tralleis;Tralli;Aidinas;Ajdın;Aïdin;Tralles
+Trảng Bàng|VN||6h|un|87g|18y
+Newport|GB|Wales|9b|3zb|-8c|18v|Casnewydd;Novus Burgus;Niuportas;Nyuport;Trefdraeth;Ņūporta
+Đưc Trọng|VN||6h|wm|8d1|18s|Liên Nghĩa
+Trà Vinh|VN||6h|rn|87e|18j|Tra Vin
+Thị Trấn Thuận Châu|VN||6h|1nk|801|16i
+Trois-Rivières|CA||59|3kr|-5lj|145|Trua Rivjeras;Urbs Trifluvianensis
+Três Lagoas|BR||2a|-1lr|-3zm|13v
+La Trinidad|PH||71|19p|9az|13p|Trinidad
+Trindade|BR|Goiás|4w|-1a9|-3th|13k
+Bến Tre|VN||6h|sg|87i|yk
+Maastricht|NL||8m|3x9|ft|y0|Maestricht;Mastrique;Māstrihta;Mestreech;Mastrichtas;Traiectum Mosae;Maastrikht;Maastrixt
+Burton upon Trent|GB||9b|42p|-4k|xy|Burton-on-Trent;Burton-upon-Trent;Bertonas prie Trento
+Trento|IT||9o|3jz|uw|xj|Trient;Trente;Tridentum;Trydent;Trident;Trentu;Treant;Trentas;Trionta;Trent
+Troparëvo|RU||9i|4am|2w4|ws
+Rivière-des-Prairies–Pointe-aux-Trembles|CA||59|3is|-5oe|vn
+Trincomalee|LK||68|nu|69n|u4|Trikunamalaja;Trinquemalay;Trinkomalis;Trikomali;Trinkomalee;Trincomali
+Trier|DE||8r|3u8|ig|rt|Tréveris;Treviro;Trèves;Treviri;Augusta Treverorum;Tréier;Trewir;Triri;Trevere;Tryras;Trīre;Trevír;Trevèri
+Trelew|AR||1m|-3c5|-51f|r7|Trelju
+Trenton|US|New Jersey|48|33q|-5rm|ow|Trent Town
+Tracy|US|California|3p|2wu|-9db|o7|Bináhaaztiinii
+Treviso|IT||9o|3iv|y0|nu|Trévise;Tarvisium;Trevixo
+Trinidad|BO||3n|-157|-50a|nf|Kimsantin llaqta
+Troy|US|Michigan|2q|3ad|-6ez|n5
+Troitsk|RU|Chelyabinsk|7z|469|4r1|mv|Troick;Troițk;Troizk
+Três Rios|BR||4w|-1pg|-3c1|mt
+Três Corações|BR||4w|-1oa|-3hp|m8
+Trujillo Alto|PR||4m|1ez|-53d|kw
+Troisdorf|DE||8r|3x5|jv|kr
+Triyuga|NP||6r|22f|6ou|ju
+Trujillo|VE||2c|q1|-5fo|ju|Truchiljas;Truxillo
+Tripunittura|IN||6t|rm|5w1|ja|Tripunnittara
+Trapani|IT||9o|2xm|yu|ir|Drepanum;Tràpena
+Târgovişte|RO||8u|3gt|1yq|im|Tîrgoviște;Tergovistýe;Trhovište;Tirgovics;Targovisjte;Targowica;Targovichté;Trgovišće;Targòvixte;Trgovište;Tergowisch;Targovishte
+Trang|TH||62|l0|7op|ij|Tran
+Trnava|SK||8s|3qe|1cv|hg|Tyrnau;Nagyszombat;Trnawa
+Tríkala|GR|Thessaly|8p|31v|1oh|h5|Tırhala;Trikálon;Tríkkala
+Troyes|FR||9k|3q6|bd|gw|Trua;Tròias;Trecae
+Trinidad|CU||36|1ok|-666|gq
+Trenčín|SK||8s|3rt|1e4|g7|Trentschin;Trencsén;Trenczyn;Trentsen
+Trảng Bom|VN||6h|uf|899|g0
+Três Pontas|BR||4w|-1nd|-3if|ft
+Trairi|BR||2w|-94|-313|fn
+Trần Văn Thời|VN||6h|p8|83m|fj
+Opava|CZ||9m|3uq|1dq|f9|Troppau;Opawa;Oppavia;Uopawa
+Trani|IT||9o|36o|19l|f0|Turenum
+Trichardt|ZA||o|-21l|297|eo|Trichard
+Tramandaí|BR||4w|-2ba|-3v9|em|Tramandahy
+Tres Arroyos|AR||1l|-2ym|-4ng|ei|Tres Arojosas
+Treptow|DE||8r|41t|11c|dw
+Troy|US|New York|48|3ap|-5op|dv
+Trstenik|RS||8q|3d6|1mc|dm
+Trollhättan|SE||9w|4hw|y5|di|Trolem Excudia;Trolhetanas
+Tremembé|BR|São Paulo|4w|-1rs|-3ij|d9
+Järvenpää|FI||92|4nz|1xp|d1|Träskända;Jervenpe
+Tromsø|NO||9j|5dh|1go|bn|Tromssa;Trumsė;Romsa;Tromsīeg
+Tres Cantos|ES||9d|34s|-ab|bn
+Trikonavattam|IN||6t|op|5wz|bk
+Triprangod|IN||6t|u4|5uz|bg
+Trowbridge|GB||9b|3yk|-65|be
+Trenque Lauquen|AR||1l|-2rx|-4u9|b4
+Troitsk|RU|Moscow|9i|4a4|2vn|ag|Troizk;Troick
+Truganina|AU||8j|-2x2|b63|a3
+Trumbull|US||48|36k|-5nc|a0
+Tremblay-en-France|FR||9k|3rz|75|9w
+Targovishte|BG||9v|3c5|21t|9o|Targowischte;Tărgovište;Targovichté;Targovisjte;Targòvixte;Trgovište;Tergovištė;Tërgovishçe;Eski Cuma;Tyrgowiszte;Tŭrgovište;Trgovishte;Eski Džuma;Tŭrgovishte
+Trëkhgornyy|RU||7z|48a|4id|9l
+Třebíč|CZ||9m|3sp|184|9l|Trebitsch-Stadt
+Třinec|CZ||9m|3u0|1fv|9b|Tršinecas;Tršineca
+Trebinje|BA||9r|3an|1ey|98|Trebinė;Trebinye;Trebigne
+Trindade|BR|Pernambuco|4p|-lk|-33v|8z
+Tracuateua|BR||23|-30|-3ma|8p|Traquatéua;Trucuateua
+Travnik|BA||9r|3ev|1d3|8n
+Trâu Quỳ|VN||62|1me|86a|8d
+Triunfo|BR|Rio Grande do Sul|4w|-2b6|-3zo|8b|Triumfo
+Trutnov|CZ||9m|3wg|187|85|Trautenau
+Trelleborg|SE||9w|49u|10k|85|Trileoburgum;Treleborgas;Trälleborg
+Trenggalek|ID||6l|-mg|8mb|83|Trengalek
+Três Marias|BR||4w|-1el|-3ho|81
+Trappes|FR||9k|3rh|5m|7w
+Truskavets|UA||98|3sw|1ta|7v|Truskawez;Trouskavets;Truskavec;Truskawec;Truskaveca;Truskaveț;Truszkavec;Truskawiec
+Traipu|BR||3r|-rp|-2us|7q
+Trittāla|IN||6t|u0|5vh|7q|Tritala;Thrithala
+Tristán Suárez|AR||1l|-2ox|-4ip|7p
+Traralgon|AU||8j|-2y4|bb2|7h
+Triggiano|IT||9o|363|1b1|7g
+Trípoli|GR||8p|2w7|1q6|7e
+Tralee|IE||8z|417|-qy|79|Trá Lí;Trali;Traie Lee
+Treinta y Tres|UY||45|-2kb|-473|77|Treinta i Tresas
+Troy|US|Ohio|48|338|-6hw|75
+Três Passos|BR||4w|-24a|-45t|72
+Traun|AT||a2|3py|13k|71
+Treviglio|IT||9o|3ig|qn|6x|Trevilio
+Três de Maio|BR||4w|-255|-46o|6x|Trez de Maio
+Tres Isletas|AR||1n|-216|-4nv|6v
+Trafalgar|ES||9d|34b|-aa|6u
+Três Coroas|BR||4w|-2a0|-3x2|6s
+Triolet|MU||ag|-1jq|4fv|6s
+Trotwood|US||48|32k|-6i7|6p
+Troitskaya|RU|Ingushetiya Republic|9i|3cb|3gy|6l|Troitskaja
+Trucuk|ID||6l|-lg|8je|6k
+Tharangambadi|IN||6t|un|65t|6g|Tarangambadi;Tranguebar;Tranquebar;Trankebar
+Trångsund|SE||9w|4kj|1ed|6f
+Truro|GB||9b|3vn|-e1|6e|Truru
+Trikarpūr South|IN||6t|xo|5sv|6e
+Trinidad|UY||45|-2l4|-4e2|6d|Trinité;Trindade
+Tremont|US|New York|48|35h|-5pb|6d
+Trebišov|SK||8s|3r3|1oc|6d|Tőketerebes
+Tràm Chim|VN||6h|tn|858|6b
+Trizidela do Vale|BR||2w|-cp|-3fy|69
+Triparappu|IN||6t|nb|5yn|68|Thirparappu
+Trat|TH||62|y0|7ws|60|Krat;Trad
+Traunreut|DE||8r|3p8|yz|5w|Traunreit
+Iriona|HN||56|18d|-6kd|5w|Triona
+Troyan|BG||9v|3b5|1wo|5w|Comuna Troian;Gmina Trojan;Troïan;Trojan
+Trussville|US||2f|2le|-6ol|5u
+Trofa|PT||99|36u|-ns|5r
+Trezzano sul Naviglio|IT||9o|3i6|p6|5k
+Tropicana Indah|MY||6v|8q|7u7|5k|Tropicana
+Três Barras|BR||4w|-20j|-3vs|5h
+Trostyanets|UA|Sumy|98|3w8|2p5|5f|Trostianets
+Trecate|IT||9o|3i7|oa|5e
+Troy|US|Alabama|2f|2gd|-6mt|59
+Trzebinia|PL|Lesser Poland|a5|3vc|1i3|58|Tšebiņa
+Trudovoye|RU||7w|3ca|a6w|55|Trudovoje;Toudovoye
+Traunstein|DE||8r|3oz|z4|54|Traunstoa
+Trenton|US|Michigan|2q|392|-6f2|54
+Tromsdalen|NO||9j|5dh|1gu|53|Trondalen;Tromsdal
+Trikarpūr North|IN||6t|xr|5st|52
+Tres de Mayo|MX|Morelos|41|1gf|-7nl|50
+Trāl|IN||6t|2m9|5so|4y
+Tres Valles|MX||41|1eo|-7f2|4t
+Traiguén|CL||4u|-2y9|-5lv|4s
+Tradate|IT||9o|3iz|or|4s
+Tirebolu|TR||94|35x|2zt|4r|Trebolu;Tereboli;Tireboli
+Trentola-Ducenta|IT||9o|35u|13d|4r
+Trung Phụng|VN||62|1mc|85z|4q|Trung-Phuong
+Trzcianka|PL||a5|43c|19q|4p|Tšcjanka;Trzcónka
+Trajpar|IN||6t|1re|5gv|4m
+Troutdale|US||3p|3ii|-9fz|4m
+Trinity-Bellwoods|CA||59|3d9|-64l|4m
+Truckee|US||3p|319|-99u|4j
+Tremedal|BR||20|-15m|-371|4i
+Trubchevsk|RU||9i|422|2lt|4h|Trubtsjevsk
+Trudivskyi|UA||98|3p7|2wc|4g|Trudivs’kyy;Trudivski;Trudovskoy
+Olecko|PL||a5|463|1qj|4f|Treuburg;Alėcka
+Trento|PH||71|md|9q6|4f
+Trairão|BR||4t|-cp|-4be|48
+Traverse City|US||2q|3gc|-6lu|48
+Trbovlje|SI||9a|3k7|15t|48
+Triunfo|BR|Pernambuco|4p|-ls|-2xu|47
+Trindade|BR|Santa Catarina|4w|-24n|-3qs|47
+La Trinité|MQ||3v|14y|-4pc|46|Trinité
+Trossingen|DE||8r|3pk|o0|46
+Troon|GB||9b|4aa|-cy|46|The Truin;An t-Sròn
+Tredegar|GB||9b|3zt|-91|45
+Trou aux Biches|MU||ag|-1jn|4fv|43
+Tranås|SE||9w|4h8|15m|42|Tranosas
+Tracunhaém|BR||4p|-lo|-2pw|40
+Troja|CZ||9m|3v8|142|3z
+Trepuzzi|IT||9o|349|1e8|3x
+Trancoso|MX||41|1r6|-7wd|3w|Troncoso
+Travemünde|DE||8r|45w|u7|3v|Travemunda;Travemünn
+Trinitapoli|IT||9o|36w|18p|3v
+Tryavna|BG||9v|3b3|1yu|3u|Trjawna;Treavna;Triavna;Trěvna;Trjavna;Tryevna
+Tremelo|BE||8t|3xn|d3|3t
+Tricase|IT||9o|32x|1ez|3t
+Tremestieri Etneo|IT||9o|2wc|15w|3t
+Terebovlia|UA||98|3sy|1zd|3q|Trembowla
+Alt-Treptow|DE||8r|41t|11e|3o|Treptow
+Treuchtlingen|DE||8r|3rz|ub|3n
+Trikūr|IN||6t|t2|5vv|3n|Trikkur
+Tranovaho|MG||a8|-1ya|3gx|3m|Tranovako
+Trastevere|IT||9o|38c|yn|3m|Trastíber;Regio Transtiberina;Zatybrze
+Chonchi|CL||4u|-3ae|-5oy|3m|Trongchü;Chonch
+Truro|CA||35|3i1|-4vr|3m
+Trebur|DE||8r|3up|nd|3l
+Travagliato|IT||9o|3ig|s0|3k
+Ialysós|GR||8p|2t5|268|3j|Trianta;Ialissos;Triánda;Ialyssós;Ialisós
+Triel-sur-Seine|FR||9k|3s2|5l|3i
+Treharris|GB||9b|3zi|-97|3g|Treharis
+Trenton|US|Ohio|48|31o|-6im|3f|Tenton
+Trzebnica|PL||a5|3yj|1be|3e|Tšebņica
+Rafína|GR||8p|2xm|1up|3e|Tríglia;Aráfin
+Travilah|US||48|30j|-5ym|3e
+Trimbak|IN||6t|1jd|5o9|3d
+Triều Khúc|VN||62|1ma|85w|3c
+Tring|GB||9b|3zv|-1u|3b
+Tranent|GB||9b|4be|-87|3b
+Tranekær|DK||8y|48s|u4|3a|Tranekiar;Tranekjær
+Trại Khoai|VN||6h|1mp|84m|3a
+Trezzo sull'Adda|IT||9o|3ip|qf|3a|Tritium super Adduam
+Trophy Club|US||2f|2jo|-7hy|3a
+Trélazé|FR||9k|3nt|-1b|39
+Trinidad|CO||27|f1|-5j2|39
+Trostberg an der Alz|DE||8r|3pf|yw|39
+Troy|US|Missouri|2f|30a|-70q|37
+Trapiche|PH||71|to|9g3|37|Trapichi
+Newtown|GB||9b|41w|-96|36|Y Drenewydd;Neapolis;Niutaunas;Tre-Newydd
+Três Barras do Paraná|BR||4w|-1ym|-43q|34|Três Barras
+Três Cachoeiras|BR||4w|-29u|-3uo|33
+Troitskiy|RU|Sverdlovsk Oblast|7z|4ei|4x3|33|Troitskij
+Trinity|US|Florida|48|26a|-6do|31
+Troitskoye|RU|Altai Krai|63|436|6j8|31|Troitskoje
+Trofarello|IT||9o|3gy|lj|30
+Trajano de Morais|BR||4w|-1pa|-38v|2z
+Trou du Nord|HT||4j|1ii|-5k2|2y|Trou di Nò
+Tres Ríos|CR||2i|rj|-6hb|2w
+Trahé|CI||0|d4|-jy|2w
+Trá Mhór|IE||8z|40w|-jv|2w|Tramore;Tramoras
+Trzebiatów|PL||a5|466|16e|2v|Treptow an de Rega;Tšebjatova;Tšebiatuvas;Treptow an der Rega
+Trecastagni|IT||9o|2wi|15w|2t|Tricastagni
+Monmouth|GB||9b|3zx|-7j|2t|Trefynwy;Monemuta;Menoe
+Trogir|HR||a6|3cv|195|2t|Trau;Tragurium
+Troy|US|Illinois|2f|2zl|-6xo|2s
+Troitskoye|RU|Kalmykiya Republic|9i|3kx|3ey|2s|Troitskoje;Bulğn selän
+Tra Que Vegetable Village|VN||6h|186|8cy|2s
+Triandría|GR||8p|34u|1rt|2s
+Triunfo|BR|Paraíba|2w|-i9|-2z8|2r
+Trets|FR||9k|3cp|fs|2p|Tretz
+Trujillo|HN||56|188|-6mr|2o|Truchiljas;Truxillo
+Trim|IE||8z|44s|-iv|2o|Baile Átha Troim;Truma
+Trescine|IT||9o|35y|14m|2n
+Trujillo|ES||9d|31m|-gc|2l
+Trabia|IT||9o|2xk|11v|2l|Trabbìa
+Treviolo|IT||9o|3iv|qp|2l
+Trebbin|DE||8r|412|10q|2k
+Treuen|DE||8r|3we|y6|2k|Treiene
+Troina / Draginai|IT||9o|2wy|14k|2j|Troina;Truina
+Troya|CI||0|hd|-ku|2i
+Trudobelikovskiy|RU||9i|3hr|2xz|2i|Trudobelikovskij
+Trois-Rivières|GP||31|18e|-4r8|2g
+Treze Tílias|BR||4w|-230|-3yt|2g
+Trường Sơn|VN||6h|1f2|85p|2g
+Treuenbrietzen|DE||8r|40q|zr|2f
+Trørød|DK||8y|4b4|yu|2e
+Trescore Balneario|IT||9o|3ix|rc|2d
+Trawaininkro|CI||0|gu|-j4|2d
+Trebisacce|IT||9o|32r|19x|2d
+Trecase|IT||9o|359|144|2c
+Troitsko-Pechorsk|RU||9i|4u8|4c1|2c|Troitsko Petsjorsk;Troizko-Petschorsk;Troitsko-Petšorsk;Troitsko-Petjorsk;Troicko-Pečorsk;Troïtsko-Petchorsk;Troicko-Pecsorszk;Troitsko-Peçorsk;Troicko-Pieczorsk
+Tres Lomas|AR||1l|-2ta|-4um|2c
+Třeboň|CZ||9m|3s4|151|2a|Wittingau;Trzeboń
+Tremonton|US||2p|37v|-8nl|2a
+Triangle|US||48|2z3|-5yu|2a
+Tarāghin|LY||1d|200|142|2a|Traghan;Traghen
+Trinidad|US|Colorado|2p|2v9|-82a|2a
+Treorchy|GB||9b|3zi|-9r|29|Treorci;Treorky
+Thuần Thiện|VN||62|1fb|85v|27|Trường Tiến
+Trail|CA||5b|3se|-92y|27
+Trebaseleghe|IT||9o|3in|xg|27
+Trzemeszno|PL||a5|420|1di|26|Tšemešno;Tremessen
+Tribeca|US||48|354|-5pl|26
+Trofaiach|AT||a2|3nr|15p|25
+Trittau|DE||8r|44x|sx|25|Trittow
+Trostyanets|UA|Vinnytsia|98|3qr|297|24|Trostianets
+Trooz|BE||8t|3wh|fu|24|Li Trô
+Trn|BA||9r|3gm|1bw|24
+Tropical Gardens|KY||2e|1hl|-69z|23
+Treze de Maio|BR||4w|-27c|-3sj|22
+Tranbjerg|DK||8y|4bu|s6|21|Tranbjærg
+Trombudo Central|BR||4w|-23u|-3ub|21
+Tranqueras|UY||45|-2eo|-4av|20
+Trigueros|ES||9d|2vv|-iz|20
+El Triunfo|HN||56|10g|-6po|20|Triunfo
+Trumann|US||2f|2r3|-6zf|1z|Truman
+Troitske|UA|Luhansk|98|3un|2yc|1z|Troyits'ke;Troitsk;Troitskoye
+Trignac|FR||9k|3ng|-63|1z|Trinieg
+Trinidad de Copán|HN||56|15j|-6ui|1y
+Trstená|SK||8s|3t4|1ih|1y|Trsztena
+Tres Postes|EC||33|-5j|-654|1y
+Holywell|GB|Wales|9b|43z|-8z|1y|Treffynnon;Holivelis
+Trévoux|FR||9k|3jm|d9|1y|Trivurtium
+Trino|IT||9o|3hk|n2|1y|Trin
+Tremseh|SY||69|2pz|2te|1x|Treimseh;Taramseh
+Trust Feed|ZA||o|-29o|2cu|1x
+Treasure Island|US||48|255|-6dx|1x
+Trélissac|FR||9k|3hk|26|1x|Trelhissac
+Trebujena|ES||9d|2uf|-h6|1w
+Três Fronteiras|BR||4w|-1k7|-3xd|1w
+Trazegnies|BE||8t|3w6|c1|1w|Trejhniye;Trasiniacum
+Trégunc|FR||9k|3oy|-ap|1w|Tregon
+Welshpool|GB||9b|42a|-8r|1w|Y Trallwng;Velšpulas;Trelinum
+Trílofos|GR|Central Macedonia|8p|34f|1rt|1v|Trílofo;Trílofon
+Trinity|US|North Carolina|48|2rp|-667|1v
+Trancas|AR||1v|-20v|-51c|1v|Trankkas
+Trochtelfingen|DE||8r|3q7|po|1u
+Tržačka Raštela|BA||9r|3gy|17u|1u
+Troia|IT||9o|36w|16k|1u|Aecae
+Traiskirchen|AT||a2|3pd|199|1u
+Treillières|FR||9k|3nh|-4j|1u|Trelier;Treliera
+Tremembé|BR|São Paulo|4w|-1t6|-3lj|1u
+Trà My|VN||6h|16m|8cm|1u|Trà Mi
+Tropea|IT||9o|2zf|186|1t
+Troitskaya|RU|Krasnodar Krai|9i|3hd|2xx|1t|Troitskaja
+Trunovskoye|RU||9i|3id|392|1t|Trunovskoje;Ternovskoye
+Trevelin|AR||1m|-3bp|-5ii|1s
+Trompsburg|ZA||o|-2bf|1zm|1s
+Trith-Saint-Léger|FR||9k|3vs|9o|1s
+Teras|MY||6v|ae|7ut|1r|Tras
+Trissino|IT||9o|3ik|vm|1r
+Troitskiy|RU|Belgorod Oblast|9i|3yo|2w9|1q
+Trimbach|CH||a7|3nl|lx|1q
+Trebukhiv|UA||98|3w8|2du|1q|Trebukhovo;Trebukhov
+Treffurt|DE||8r|3y2|sf|1q
+Tres Marías|MX|Morelos|41|1gx|-7no|1q
+Trasacco|IT||9o|38k|11l|1p
+Truth or Consequences|US||2p|2k1|-89x|1p|Truth and Consequences;Trut or Konsekuenses
+Trinity Beach|AU||8c|-1an|b8q|1p
+Traben-Trarbach|DE||8r|3ur|js|1o
+Trèbes|FR||9k|3c1|6s|1o
+Trapeang Chan|KH||78|yn|821|1n|Trepang Chan
+Trenton|US|Missouri|2f|33c|-782|1n
+Trujillo|CO||27|bp|-5w0|1n
+Trial Farm|BZ||24|1ea|-6u1|1n
+Trosa|SE||9w|4jm|1cr|1m
+Třešť|CZ||9m|3sx|170|1m
+Trouville-sur-Mer|FR||9k|3t5|8|1m
+Trendelburg|DE||8r|3z9|q6|1l|Dringelborg
+Truşeşti|RO||8u|3op|232|1l
+Trooper|US||48|33j|-5tg|1l
+Tremp|ES||9d|395|2h|1k
+Třebechovice pod Orebem|CZ||9m|3vg|18f|1k
+Trafaria|PT||99|2zf|-pn|1k
+Tricesimo|IT||9o|3k8|10q|1k|Tresesin
+Trakai|LT||a3|47s|1x9|1j|Troki;Trakay
+Triftern|DE||8r|3qf|105|1i|Truftlern
+Traversetolo|IT||9o|3g0|su|1i
+Transua|CI||0|kz|-8d|1h
+Tranby|NO||9j|4m5|si|1h
+Triberg|DE||8r|3pp|mv|1h
+Tracyton|US||3p|3o9|-9gq|1g
+Trifeşti|RO|Iași County|8u|3nt|24g|1g
+Triesen|LI||a0|3mv|qh|1g
+Trans-en-Provence|FR||9k|3cu|i1|1g|Tranç;Trans
+Trenzano|IT||9o|3ic|rt|1g
+Troyitske|UA|Odesa|98|3la|2be|1g|Troïtské;Troiițke;Trojićke;Trojizke
+Trappenkamp|DE||8r|464|sd|1f
+Trilport|FR||9k|3s0|87|1f
+Třemošná|CZ||9m|3ue|117|1f|Třemoschna
+Trifeşti|RO|Neamț County|8u|3mc|22i|1e
+Tritenii de Jos|RO||8u|3le|1uo|1e
+Tres Palos|MX||41|1ar|-7p6|1e
+Tretiy Zanasyp|UA||98|3sc|2ky|1e
+Travelers Rest|US||48|2p5|-6d0|1e|Travellers Rest
+Trevi|IT|Umbria|9o|3b4|zf|1d
+Tricarico|IT||9o|34t|18u|1c
+Järvenperä|FI||92|4nc|1wn|1b|Träskända;J-perä;Jäbä;Jäke;Jäpikkä;Järtsi;Järvis
+Três Palmeiras|BR||4w|-24p|-42s|1b
+Trudarmeyskiy|RU||74|46d|6o1|1b|Trudarmejskij;Trudarmeysk;Trudarmeyskoye
+Trhové Sviny|CZ||9m|3ro|14o|1b
+Troizína|GR||8p|2w6|1sw|1b|Troizín;Troizinía;Troezen;Troizen
+Traian|RO|Bacău County|8u|3lj|233|1b|Trajan
+Trezzano Rosa|IT||9o|3im|qd|1a|Trezzanum;Trescian
+Trinidad de Viguera|MX||41|1bl|-7gr|1a
+Troitskoye|RU|Moscow Oblast|9i|49m|2z1|19
+Tríkomo|CY||6e|2q1|2m5|19
+Trentwood|US||3p|3oi|-91l|19
+Tres Picos|MX||41|184|-77t|18
+Trodica|IT||9o|3c7|11r|18
+Trevallyn|AU||8g|-374|bcm|18
+Trung Lộc|VN||62|1f6|85p|17
+Tribuswinkel|AT||a2|3pd|197|17
+Trapeang Sala Khang Lech|KH||78|ts|82k|17
+Tragano|GR||8p|2wn|1nh|17
+Traganón|GR||8p|2xa|1n7|17
+Trinidad|HN||56|162|-6t3|17
+Trebsen|DE||8r|3yh|zf|16
+Novi Troyany|UA||98|3jm|286|16|Traianu-Nou;Traian;Nowi Trojany;Novi Troïany
+Triuggio|IT||9o|3iu|pr|16|Triücc
+Trusetal|DE||8r|3x2|sy|16
+Triengen|CH||a7|3n8|mg|16
+Trent Woods|US||48|2pg|-5y5|16
+Tramelan|CH||a7|3n6|jq|16
+Tras Cerros|HN||56|16i|-6ub|16
+Trenton|US|Tennessee|2f|2ry|-6v2|15
+Tramonti|IT||9o|351|14o|15|Tramonte;Tramunte
+Trachóni|CY||6e|2oa|2jl|15|Trahoni;Trahon;Trakhoni
+Triptis|DE||8r|3wy|wz|15
+Trapeang Sala Khang Kaeut|KH||78|tq|82m|15
+Triebes|DE||8r|3ws|xe|15
+Traitsching|DE||8r|3sj|z5|15
+Trévani|YT||ah|-zd|3hk|14
+Troitskoye|RU|North Ossetia–Alania|9i|3dk|3g4|14|Troitskoje;Troitskiy
+Transfiguración|MX||41|1ie|-7o5|14
+Trivero-Prativero-Ponzone|IT||9o|3iu|mp|14|Trivero
+Trivières|BE||8t|3w5|bj|14
+Tresigallo-Final di Rero|IT||9o|3gi|x1|13|Tresigallo
+Trenčianske Teplice|SK||8s|3rv|1eh|13|Trencsénteplic;Trenčanske Teplice;Trenčinske Tjeplice;Trenczyńskie Cieplice
+Tri-City|US||3p|3be|-9ij|13
+Trzin|SI||9a|3k6|14g|13
+Troitsk|RU|Omsk Oblast|76|4aq|5kn|13
+Tregear|AU||8l|-2lr|bmv|13
+Tresses|FR||9k|3gl|-1a|13|Treças
+Trstice|SK||8s|3pd|1dh|13
+Troistorrents|CH||a7|3kf|j8|13
+Treasure Lake|US||48|36d|-62o|13
+Tramagal|PT||99|31l|-mx|12
+Trusan|MY||6w|da|8w7|12|Terusan
+Treviso|BR||4w|-278|-3te|12
+Trafalgar|AU||8j|-2y5|b9z|12
+Trnovec Bartolovečki|HR||a6|3kl|19k|12|Trnovec
+Trochu|CI||0|gr|-d6|12
+Knighton|GB||9b|41e|-8h|11|Trefyclo
+Tranmere|AU|South Australia|8b|-2oz|ap6|11
+Traian|RO|Brăila County|8u|3hi|251|11
+Tržič|SI||9a|3ks|13r|11|Tršič
+Trumau|AT||a2|3pb|19e|10
+Trébeurden|FR||9k|3rh|-9x|10
+Tregnago|IT||9o|3if|v0|10
+Trazo|ES||9d|3bi|-np|10|Traç
+Troyeshchyna|UA||98|3wc|2cz|10|Selo Troieshchyna;Troieshchyna
+Trappe|US|Pennsylvania|48|33o|-5to|10
+Trevose|US||48|33j|-5sa|10
+Trenčianska Turná|SK||8s|3rp|1e2|z
+Trevignano Romano|IT||9o|394|y0|z
+Troianul|RO||8u|3e8|1xg|z
+Trebnje|SI||9a|3ji|15q|z|Praetorium Latobicorum
+Trige|DK||8y|4c9|s7|z
+Trembleur|BE||8t|3wu|fx|z
+Tres Zapotes|MX||41|1fb|-7d4|z
+Traisen|AT||a2|3pg|17d|z
+Troy|US|North Carolina|48|2q8|-65x|y
+Trenel|AR||1s|-2r6|-4y5|y
+Trierweiler|DE||8r|3u8|i8|y
+Traian|RO|Olt|8u|3ea|1vx|y
+Trenčianske Stankovce|SK||8s|3ro|1dz|y
+Tromello|IT||9o|3hl|on|y
+Triunfo Potiguar|BR||2w|-gb|-2vb|y
+Troarn|FR||9k|3sm|-i|y
+Trivalea-Moşteni|RO||8u|3ez|1y3|y
+Trinity|JE||95|3sr|-5t|y|La Trinité;La Trinneté
+Tresserve|FR||9k|3iw|ge|x
+Trung Sơn|VN||6h|19c|89o|x
+Třemošnice|CZ||9m|3uj|17a|x|Tremoschnitz
+Tribano|IT||9o|3hl|ww|w
+Trinidad|PH||71|s0|9le|w
+Tranemo|SE||9w|4fo|113|w
+Travedona Monate|IT||9o|3j8|o3|w
+Treeton|GB||9b|44b|-3r|w
+La Turbie|FR||9k|3dj|kk|w|La Túrbia;Trophaea Augusti
+Tracadie-Sheila|CA||43|3nz|-50c|w
+Traian|RO|Ialomița County|8u|3gc|23y|w
+Troitskoye|RU|Sakhalin Oblast|7f|3mc|b08|w|Troitskoje;Troytskoye
+Trafford|US|Pennsylvania|48|347|-65k|v
+Trokpadrou|CI||0|kc|-kr|v
+Trombas|BR||4w|-11j|-3re|v
+Trois Pistoles|CA||59|3po|-5c5|v
+Trokolimpleu|CI||0|kh|-ml|v|Trokolinpleu
+Tran|BG||9v|3b0|1qx|v|Tren;Trin;Trn;Trŭn
+Tribiano|IT||9o|3i5|q2|v
+Trippstadt|DE||8r|3t4|ll|v|Tribbschdadt
+Trzebownisko|PL||a5|3v4|1p8|v
+Trafford Park|GB||9b|44j|-6f|v
+Trinity Park|AU||8c|-1ap|b8r|v
+Trouy|FR||9k|3ml|6k|u
+Fraize|FR||9k|3pv|jg|u|Traize;Fraze
+Trott Park|AU||8b|-2pg|aou|u
+Trashi Yangtse|BT||7p|24p|726|u|Tashi Yangtse
+Tréguier|FR||9k|3ri|-8z|u|Landreger;Trecorium
+Trémentines|FR||9k|3mw|-27|u
+Trabuco Canyon|US||3p|2li|-92n|u
+Trypillia|UA||98|3v8|2di|u|Trypillja;Tripillia;Trypol;Trîpillea;Tripilya
+Tronzano Vercellese|IT||9o|3hy|mp|u|Tronsan;Tronzano
+Tres Algarrobos|AR||1l|-2ps|-4ud|u|Tres Algarobosas
+Traînou|FR||9k|3p9|5u|u
+Trimdon|GB||9b|47y|-3z|u
+Troyebratskiy|KZ||7c|478|53k|u|Troebratskīy
+Trianon|NC||b8|-1px|cud|t
+Tribsees|DE||8r|46a|zg|t|Trzebùza;Tribzēse
+Trélon|FR||9k|3v2|be|t
+Três Ranchos|BR||4w|-1ez|-3oq|t
+Trappeto|IT||9o|2xr|108|t
+Trinity Ville|JM||3i|1dw|-5wj|t|Trinityville
+Trawniki|PL||a5|3y2|1rw|t
+Trmice|CZ||9m|3wo|12v|t
+Termeno|IT||9o|3kq|v8|t|Tramin an der Weinstrasse;Tarmèno
+El Trapiche|MX||41|1hk|-7zy|t|Trapiche
+Trinidad|PY||1y|-23d|-4ar|s
+Trimmis|CH||a7|3ma|qk|s|Termin;Tremunis
+Trescore Cremasco|IT||9o|3i4|qq|s|Trescorre Cremasco
+Trongsa|BT||7p|24e|6zf|s|Tongsa
+Três Forquilhas|BR||4w|-2a2|-3v2|s
+Trinity|US|Texas|2f|2dz|-7cy|s
+Traismauer|AT||a2|3qb|17p|s
+Kurkimäki|FI||92|4nb|1xn|r|Tranbacka
+Trudfront|RU||8o|3jl|3of|r
+Trăisteni|RO||8u|3hy|1zh|r
+Trecella|IT||9o|3if|qc|r
+Trnovec nad Váhom|SK||8s|3pr|1dt|r
+Trenton|US|Illinois|2f|2z9|-6x4|r
+Trigg|AU||8k|-2gj|8xk|r
+Trestieni|RO||8u|3fm|1zk|r
+Troyel’ga|RU||7z|4fm|4d2|r|Troyelga;Trojelga
+Triesenberg|LI||a0|3mw|qi|q
+Trosna|RU||9i|41o|2re|q
+Transporte|MX||44|1z8|-7zm|q
+Três Arroios|BR||4w|-24e|-40v|q
+Tröstau|DE||8r|3uy|x7|q
+Treize-Septiers|FR||9k|3mj|-3f|q
+Travis Ranch|US||2f|2j4|-7fz|q
+Troutman|US||48|2r6|-68p|p|Troutmens
+Trafla-Gottron|CI||0|ku|-hq|p
+Trois-Ponts|BE||8t|3vx|gb|p|Trois Ponts
+Truchtersheim|FR||9k|3r6|l5|p
+Tarvisio|IT||9o|3l7|11r|p|Tarvis;Trbiž;Tarvisium;Tarvizijus
+Trzebież|PL||a5|452|14c|p
+Trường Lộc|VN||62|1fb|85l|p
+Trogleu|CI||0|jn|-n0|p
+Trzcińsko Zdrój|PL||a5|434|14l|p|Trzcińsko-Zdrój
+Tranca|PH||71|138|9ca|o
+Traona|IT||9o|3k7|qh|o|Trevonia;Trauna
+Trieben|AT||a2|3nx|149|o
+Trenton|CA||35|3iq|-4u0|o
+Trzcinica|PL|Subcarpathia|a5|3u6|1ni|o
+Trafessou|CI||0|lj|-gc|o
+Tramutola|IT||9o|340|17v|o
+Trebbo|IT||9o|3fs|vg|o
+Treffiagat|FR||9k|3os|-bu|o|Triagad
+Trégastel|FR||9k|3rm|-9q|n
+Trzciel|PL||a5|41h|183|n|Tšcela;Trziel;Tirßcheigel
+Treis-Karden|DE||8r|3vd|ka|n
+Troyitske|UA|Odesa|98|3oc|2c5|n|Troïtské
+Trzciana|PL|Subcarpathia|a5|3v3|1oo|n
+Treia|IT||9o|3cb|10z|n|Treja
+Treffort-Cuisiat|FR||9k|3kj|ex|n
+Trélivan|FR||9k|3qj|-5w|n
+La Estanzuela|MX|Zacatecas|41|1mx|-7ze|n|Trinidad García de la Cadena;Estanzuela
+Trichiana|IT||9o|3k0|xq|n
+Trenton|US|Georgia|48|2ov|-6lj|m
+Trivignano|IT||9o|3ih|xv|m
+Stari Troyany|UA||98|3iv|292|m|Eski Troyan;Traianu Vechi;Stari Trojany;Stari Troïany
+Trosnyk|UA||98|3pm|1rr|m|Trosnik
+Trópaia|GR||8p|2wt|1p0|m
+Traian Vuia|RO||8u|3j8|1pb|m
+Trzemeśnia|PL||a5|3uf|1jm|m|Trzemieśnia
+Trhová Hradská|SK||8s|3pb|1dc|m
+Troinex|CH||a7|3k8|h3|m
+El Triunfo de la Cruz|HN||56|17t|-6qv|m|Triunfo de la Cruz
+Trevignano|IT||9o|3j2|xj|m
+Trowbridge Park|US||2q|3lc|-6qw|m
+Tremont|US|Illinois|2f|34l|-6wl|m
+Trudovoye|UA|Crimea|9t|3gz|2n0|m
+Traian|RO|Teleorman County|8u|3dl|1xg|m
+Tran|PH||71|io|9km|m
+Trinity|US|Alabama|2f|2o5|-6px|m
+Tryduby|UA||98|3pk|2ch|m|Triduby
+Travesseiro|BR||4w|-29d|-40m|m
+Trucksville|US||48|36q|-5ux|m
+Trąbki|PL|Mazovia|a5|40b|1o0|l
+Trhovište|SK||8s|3ra|1ok|l
+Tretiy Severnyy|RU||7z|4n9|4mk|l|Tretij severnyj
+Tréméven|FR||9k|3p2|-9t|l
+Truro|US||48|38n|-5el|l
+Tracy|US|Minnesota|2f|3ev|-7dm|l
+Travancore|AU||8j|-2wy|b6m|l
+Trojanovice|CZ||9m|3tk|1eo|l
+Tressange|FR||9k|3t8|gm|l
+Trenton|US|Florida|48|2a9|-6e2|l
+Trausdorf an der Wulka|AT||a2|3ot|1a0|l|Darázsfalu
+Trevi|IT|Lazio|9o|38e|yp|l
+Trzebunia|PL||a5|3ub|1j5|l|Trzebunie
+Tryokhizbenka|UA||98|3rg|309|l|Tr’okhizbenka;Trokhizbenka;Trjochisbenka;Trohizbenka;Trjohhizbenka;Triokhizbenka;Trëkhizbenka
+Treponti|IT||9o|3i1|wj|k
+Truskolasy|PL||a5|3xb|1gb|k
+Trosly-Breuil|FR||9k|3t8|89|k
+Trail Creek|US||2f|37u|-6pa|k
+Trinità d'Agultu e Vignola|IT||9o|35u|os|k
+Transacqua|IT||9o|3k9|wv|k
+Trivolzio|IT||9o|3hq|p4|k
+Trykraty|UA||98|3ok|2f9|k|Trixraty;Trikraty
+Phumĭ Trâpeăng Môntrei|KH||78|tq|82i|k|Trapeang Montrei;Phum Trapeang Montrey
+Troubky|CZ||9m|3tb|1c7|k
+Trexlertown|US||48|34n|-5u1|k|Trexlerstown
+Träslövsläge|SE||9w|4eh|y4|k|Läjet
+Trieux|FR||9k|3t0|gh|k
+Trodrou|CI||0|k6|-k8|k
+Tres Mezquites|MX||41|1ka|-7ub|k
+Troup|US||2f|2ha|-7c8|k
+Travacò Siccomario|IT||9o|3hf|pg|j
+Tresques|FR||9k|3ej|cr|j
+Tregasio|IT||9o|3iw|pt|j
+Tromabo|CI||0|io|-d3|j
+Trecasali|IT||9o|3gu|sj|j
+Trilj|HR||a6|3d6|1ag|j
+Tremsbüttel|DE||8r|45a|sn|j
+Tresivio|IT||9o|3ka|rm|j
+Vysotsk|RU||9i|4of|27d|j|Uuras;Wyssozk;Vyssotsk;Vysock;Vısotsk;Visock;Võssotsk;Wysock;Visocka;Trångsund;Uuraa;Uras;Trongsund;Tranzund;Transund
+Truccazzano|IT||9o|3ic|qb|j|Trucazzano
+Tricht|NL||8m|405|en|j
+Troubelice|CZ||9m|3ue|1bg|i|Treublitz;Tróbelce
+Trainer|US||48|32n|-5th|i
+Troy|US|Texas|2f|2ep|-7ia|i
+Trevorton|US||48|35a|-5wz|i
+Trumansburg|US||48|3a6|-5wz|i|Tremansburg
+Troubsko|CZ||9m|3sl|19v|i
+Trunkelsberg|DE||8r|3pc|se|i
+Truyes|FR||9k|3nb|2d|i
+Trestina|IT||9o|3ch|y0|i
+Trivento|IT||9o|381|14f|i
+Trion|US||48|2ny|-6kz|i
+Train|DE||8r|3rd|wv|i
+Tracy-le-Mont|FR||9k|3tf|8d|i
+Trémuson|FR||9k|3qs|-7x|i|Tremuzon
+Trukhaniv|UA||98|3sa|1to|i|Trukhanov
+Trasmiras|ES||9d|38r|-l6|i
+Trio Village|BZ||24|19w|-6u8|h
+Trebarwith|GB||9b|3wo|-d7|h
+Třebenice|CZ||9m|3w8|12v|h
+Tryon|US|North Carolina|48|2q6|-69w|h
+Trzebinia|PL|Silesia|a5|3tx|1he|h
+Tremont|US|Pennsylvania|48|34v|-5w7|h
+Tronville-en-Barrois|FR||9k|3rc|eo|h
+Tronca|IT||9o|311|1bj|h
+Triebel|DE||8r|3vx|xo|h
+Trebgast|DE||8r|3v3|w3|h
+Trana|IT||9o|3h4|km|h|Tran-a
+Trinity|KN||51|1c2|-4ue|h
+Trabiju|BR||4w|-1p8|-3qa|h
+Trigolo|IT||9o|3hx|r9|h
+Trept|FR||9k|3ix|es|h
+Tramoyes|FR||9k|3jg|dt|h
+Traer|US||2f|397|-74v|h
+Trzebieszów|PL||a5|40f|1qo|h
+Trinity Bay North|CA||50|3qs|-43f|g
+La Trinité-sur-Mer|FR||9k|3o7|-8f|g|An Drinded-Karnag;Trinité-sur-Mer
+Tranmere|AU|Tasmania|8g|-3b8|bdi|g
+Trogen|DE||8r|3vx|x7|g
+Tryon|US|North Carolina|48|2pt|-6cg|g
+Traunkirchen|AT||a2|3ow|12b|g|Traunkircha
+Troiandove|UA||98|3m9|2dq|g|Troyandove;Trojandowe
+Trogen|CH||a7|3np|qa|g
+Trempealeau|US||2f|3e9|-720|g
+Tragliatella Campitello|IT||9o|38p|y1|g
+Trekanten|SE||9w|4di|18s|g
+Tribunj|HR||a6|3dk|17q|g
+Tretiy Mikrorayon|UA||98|3o6|2q8|g
+Tremont|US|Maine|48|3ex|-59v|g
+Trybukhivtsi|UA||98|3s9|1yp|g|Trybuchiwzi;Druzhba;Tribuhivci;Trybujivtsi;Trybuchowce;Trîbuhivți
+Trimsaran|GB||9b|3zo|-bs|g
+Tranou|CI||0|hb|-ca|g
+Tremblay|FR||9k|3qi|-44|g|Kreneg
+Trönninge|SE|Halland|9w|4da|zx|g
+Tršice|CZ||9m|3tm|1ce|g|Tršnice
+Trecenta|IT||9o|3h3|vu|g
+Trouillas|FR||9k|3ad|7t|g
+Treffléan|FR||9k|3og|-79|f|Trevlean
+Tricot|FR||9k|3to|77|f
+Trie-Château|FR||9k|3sx|52|f
+Tragwein|AT||a2|3q9|14m|f
+Traiguera|ES||9d|34l|t|f
+Trubschachen|CH||a7|3mc|lt|f
+Trabada|ES||9d|3co|-k0|f
+Tring-Jonction|CA||59|3kj|-5h8|f
+Trossin|DE||8r|3ze|zm|f
+Troyitske|UA|Mykolaiv|98|3nh|2g6|f|Troïtské
+Třebotov|CZ||9m|3ut|13p|f
+Treia|DE||8r|47g|pw|f
+Trudove|UA|Odesa|98|3iq|29o|f|Draculea;Troudové
+Trub|CH||a7|3me|lw|f
+Transito Tular|MX||41|1ey|-77g|f
+Treignac|FR||9k|3ii|50|f|Trenhac;Trainhac
+Trentinara|IT||9o|348|160|f
+Triandaíika|GR||8p|2ze|1ne|f|Triantaiika;Triandéïka
+Terung|MY||6v|d4|7rt|f|Trong;Terong
+Tres Garantías|MX|Sinaloa|3x|1zx|-8e0|f
+Tres Estrellas|MX||41|1if|-7pu|f
+Trzciana|PL|Lesser Poland|a5|3ug|1kl|f
+Troisvierges|LU||9c|3v8|go|f|Ëlwen;Gemeng Ëlwen
+Trédrez-Locquémeau|FR||9k|3ra|-9x|f|Tredraezh-Lokemo;Trédrez
+Troy|US|Pennsylvania|48|35o|-61a|f
+Zrub-Komarivskyy|UA||98|3ps|1z1|f|Zroub-Komarivskyï;Trei Movile
+Trablice|PL||a5|3yn|1mp|e
+Troense|DK||8y|48v|tk|e
+Tracy City|US||2f|2py|-6m6|e
+Truskaw|PL||a5|41a|1lq|e
+Tristach|AT||a2|3m2|zj|e
+Trévol|FR||9k|3lj|97|e
+Trafla|CI||0|l7|-i4|e
+Trenton|US|Maine|48|3fg|-59x|e
+Tronconal|MX|Puebla|41|1g9|-7lk|e
+Trudovoye|UA|Crimea|9t|3ho|2ls|e
+Tri-Lakes|US||38|36l|-6lc|e|Tri Lakes
+Trinità|IT||9o|3fn|lk|e
+Trévou-Tréguignec|FR||9k|3rl|-9c|e|An Trevoù
+Trinwillershagen|DE||8r|46p|z2|e
+Trąbki Wielkie|PL||a5|46h|1fi|e
+Trabitz|DE||8r|3uc|x2|e
+Trzebiel|PL||a5|3zf|156|e|Trjebule;Triebel
+Trejos|MX||41|1lr|-7yn|e
+Trstín|SK||8s|3qt|1cj|e
+Trip|RO||8u|3p4|1sy|e
+Tres de Mayo|AR||1q|-2is|-5ao|e
+Trévé|FR||9k|3px|-7r|e
+Trapiche del Rosario|MX||41|1ia|-7gq|e
+Le Trévoux|FR||9k|3p1|-a4|e|An Treoù-Kernev;An Treoù-Kerne;Trévoux
+Trélévern|FR||9k|3rl|-9d|e
+Trecchina|IT||9o|337|17u|e
+Trebitz|DE|Saxony-Anhalt|8r|3zb|x4|e
+Treuddyn|GB||9b|43j|-8o|e|Tryddyn
+Trillo|ES||9d|352|-77|e
+Triscina|IT||9o|2wf|zj|e
+Treyvaux|CH||a7|3lt|ju|d
+Trautskirchen|DE||8r|3te|tf|d
+Trujillanos|ES||9d|307|-he|d
+Trun|FR||9k|3ro|3|d
+Tripoli|US||2f|3ax|-74a|d
+Trulben|DE||8r|3si|ky|d
+Troyitsko-Safonove|UA||98|3og|2jb|d|Troïtsko-Safonové;Trojizko-Safonowe
+Trebatice|SK||8s|3r0|1db|d
+Tryńcza|PL||a5|3vc|1qn|d
+Troy|US|Tennessee|2f|2sy|-6vo|d
+La Trinidad|HN|Yoro Department|56|15y|-6q8|d|Trinidad
+Tregarth|GB||9b|43r|-bd|d|Tregorth
+Traian|RO|Tulcea County|8u|3h3|26g|d
+Trimdon Grange|GB||9b|47z|-3z|d
+Trzciana|PL|Subcarpathia|a5|3vr|1na|d
+Trohempleu|CI||0|k3|-mr|d|Trohimpleu
+Drelsdorf|DE||8r|47p|p4|d|Trölstrup;Trelstorp
+Trinità d'Agultu|IT||9o|35v|or|d
+Tréon|FR||9k|3r8|3p|d
+Travesía|HN||56|182|-6s6|d
+Trapiche de Abra|MX||41|1l2|-80e|d
+Trins|AT||a2|3ms|vq|d
+Tritenii de Sus|RO||8u|3lh|1uo|d
+Troy|US|Pennsylvania|48|383|-5xb|d
+Tre Fontane|IT||9o|2wd|zc|d
+Trevenzuolo|IT||9o|3hr|ud|d
+Trhový Štěpánov|CZ||9m|3u3|15p|d|Trhowy Stěpanow
+Tremezzo|IT||9o|3jq|pm|c
+Trun|CH||a7|3lu|oz|c|Taurontum
+Trenčianske Jastrabie|SK||8s|3rk|1eb|c
+San Juan Seco de Valencia|MX||41|1ev|-7cc|c|Tres Chorros
+Tres Capones|AR||1n|-25s|-4ah|c
+Trnovlje pri Celju|SI||9a|3ki|16i|c
+Travers|CH||a7|3me|ik|c
+Trécesson|CA||59|3r5|-61i|c
+Tres Cerros|MX||41|1b0|-74v|c
+Markovac Trojstveni|HR||a6|3jk|1aw|c|Trojstveni Markovac
+Tremignon|IT||9o|3ig|wt|c
+Trestiana|RO||8u|3kc|24t|c
+Troy|US|New Hampshire|48|3ay|-5ki|c
+Trinity Gardens|AU||8b|-2oz|ap4|c
+Tršić|RS||8q|3fm|1hi|c
+Tregaron|GB||9b|412|-ax|c
+Trambileno|IT||9o|3jf|ur|c
+Triguères|FR||9k|3p6|8b|c
+Trizay|FR||9k|3jg|-2i|c
+Trąbki|PL|Lesser Poland|a5|3us|1jy|c|Trapki
+Troissereux|FR||9k|3tg|5o|c
+Trei Sate|RO||8u|3l4|1x6|c
+Treasure Cay|BS||47|224|-5yp|c
+Frías|MX||41|1ls|-7vc|c|Trías
+Tres Esquinas|CO||27|ar|-5rj|c
+Trassem|DE||8r|3tq|i5|c
+Trémery|FR||9k|3st|ha|c
+Trincheras|MX||37|2cg|-8lt|c
+Trangie|AU||8l|-2gz|bf2|c
+Trzcinica|PL|Greater Poland|a5|3y5|1e0|c
+Triginto|IT||9o|3i4|px|c
+Trafalgar|US||38|31i|-6nb|c
+Trittenheim|DE||8r|3ue|j6|b
+Traplice|CZ||9m|3sh|1cg|b|Traplitz
+Trpinja|HR||a6|3i6|1gi|b|Terpinja;Terpinya
+Treppo Grande|IT||9o|3kc|10j|b|Trep Grant
+Tríkala|GR|Central Macedonia|8p|34s|1qo|b|Tríkkala
+Trnava|CZ|Zlín|9m|3sy|1dk|b
+Trarivi|IT||9o|3e2|yu|b
+Trapiche Viejo|MX||41|1gc|-7hb|b
+Trentham|AU||8j|-2vv|b4w|b
+Trykhaty|UA||98|3my|2ge|b|Trikhaty
+Trebendorf|DE||8r|3z5|14h|b|Trjebin
+Treixedo|PT||99|34b|-mh|b
+Třanovice|CZ||9m|3u3|1fh|b
+Treibach|AT||a2|3m7|147|b
+Trélex|CH||a7|3ky|h9|b
+Trangé|FR||9k|3pf|b|b
+Tres Bocas 1ra. Sección|MX||41|1dt|-78r|b|Tres Bocas Segunda Sección
+Troviggiano|IT||9o|3ci|10t|b
+Traian|RO|Neamț County|8u|3m3|21u|b
+Travanca|PT||99|340|-mr|b
+Trogui|CI||0|jy|-m9|b
+Troúlloi|CY||73|2pb|2le|b|Trulli;Troulli
+Tr'Hy|VN||6h|17w|8a9|b
+Tröbsdorf|DE||8r|3xm|vc|b
+Trie-sur-Baïse|FR||9k|3cc|11|b|Trie
+Tři Sekery|CZ||9m|3uq|z2|b|Dreihacken
+Trinlé|CI||0|k1|-l6|b
+Truman|US||2f|3dr|-7ac|b
+Hugh Town|GB||9b|3un|-hj|b|Tre Huw
+Trachselwald|CH||a7|3mm|li|b
+Trapivka|UA||98|3j7|2ai|b|Tropoclo
+Trojas|HN||56|16n|-6ou|b
+Trédarzec|FR||9k|3rj|-8w|b|Tredarzeg
+Trollenhagen|DE||8r|44x|10x|b
+Trespaderne|ES||9d|3aw|-9f|b
+Trijueque|ES||9d|359|-8b|b|Trijeque
+Trechtingshausen|DE||8r|3ux|lt|b
+Traian|RO|Neamț County|8u|3mj|22q|a
+Trunding|AU||8c|-z3|ay3|a
+Trappstadt|DE||8r|3vs|td|a
+Svitlodolynske|UA|Odesa|98|3k1|2a7|a|Lichtental;Tret’ya Step’;Svitlodolyns’ke;Tretia Stepi;Likhtental’
+Treggiaia|IT||9o|3d6|tn|a
+Treffelstein|DE||8r|3ta|z2|a
+Tintagel|GB||9b|3wq|-d7|a|Trevena;Dyntagell;Tre war Venydh
+Triaize|FR||9k|3kv|-3c|a
+Trappe|US|Maryland|48|2ze|-5va|a
+Trausnitz|DE||8r|3tk|y2|a
+Tronconal|MX|Veracruz|41|1ic|-7h2|a
+Treznea|RO||8u|3mu|1s8|a|Tresnea
+Tresbœuf|FR||9k|3p0|-4b|a|Trevo
+Tressin|FR||9k|3wm|8v|a
+Tredozio|IT||9o|3eg|wm|a
+Tresnuraghes|IT||9o|33t|no|a
+Tribes Hill|US||48|3bc|-5qd|a|Tribeshill
+Troy|US|Maine|48|3g2|-5cc|a
+Trial|US||48|30y|-5x7|a
+Trégourez|FR||9k|3pn|-aq|a
+Yasnaya Polyana|RU|Kaliningrad Oblast|96|47l|1qd|a|Jasnaja-Poljana;Jasnaja Poljana;Trakehnen;Didieji Trakėnai;Iasnaïa Poliana;Jasnaja Polana;Trakenen
+Traînel|FR||9k|3qi|9l|a
+Treben|DE||8r|3xt|yi|a
+Trefnant|GB||9b|43v|-9i|a
+Tríkeri|GR||8p|30m|1s4|a|Tríkkeri
+Le Tremblay-sur-Mauldre|FR||9k|3ri|58|a|Tremblay-sur-Mauldre
+Troy|US|Kansas|2f|32i|-7c5|a
+Montgomery|GB||9b|420|-8r|a|Trefaldwyn
+La Trimouille|FR||9k|3l3|2w|a|Tremolia
+Tronari|RO||8u|3hm|21g|a
+Třemešná|CZ||9m|3vh|1ct|a
+Trinidad|MX||41|15s|-73w|a
+Trebel|DE||8r|437|vg|a
+Tramatza|IT||9o|334|o1|a
+Trautmannsdorf an der Leitha|AT||a2|3pe|1a7|a
+Trassenheide|DE||8r|468|12i|a
+Trevozzo|IT||9o|3gv|q4|a
+Tronget|FR||9k|3ky|8j|a
+Triei|IT||9o|337|qs|a
+Triunfo de Madero|MX||41|1al|-78h|a
+Trumbauersville|US||48|349|-5te|a
+Treize-Vents|FR||9k|3mc|-2d|a
+Trédion|FR||9k|3or|-77|a
+Treynor|US||2f|36j|-7dl|a
+Trévières|FR||9k|3sz|-2i|a
+Trémorel|FR||9k|3pw|-6d|a|Tremorae
+Traspinedo|ES||9d|37i|-cg|9
+Trojes|MX|México|41|1gl|-7qk|9
+Tracy-sur-Loire|FR||9k|3ng|81|9
+Trivignano Udinese|IT||9o|3jn|112|9|Trivignano;Trivignan
+Troitsko-Khartsyzk|UA||98|3p9|2yb|9|Troyits'ko-Khartsyz'k;Troitsko-Khartsyzsk
+Trinidad Zaachila|MX||41|1b0|-7gs|9|Trinidad de Zaachila
+Trebnitz|DE||8r|3xx|xj|9
+Tratalias|IT||9o|30m|nu|9
+Trekhprudnoye|UA||9t|3gq|2mj|9
+Le Tour-du-Parc|FR||9k|3o1|-7d|9|Tro-Park;Tour-du-Parc
+Tramayes|FR||9k|3km|cs|9
+Tres Cabezas|MX||41|1j8|-7l0|9
+Trzebiechów|PL||a5|40i|17q|9
+Tres M (Pérez)|MX||58|2ia|-90f|9
+Třebařov|CZ||9m|3uf|1ae|9
+Trunch|GB||9b|42u|3w|9
+Trenta|IT||9o|315|19c|9
+Troianivka|UA||98|3ym|1y9|9|Troyanivka;Trojanóvka;Troyanuvka;Troyanovka
+Triton|CA||50|3tk|-4ah|9
+Trédaniel|FR||9k|3qc|-7a|9|Trezeniel
+Trstenci|BA||9r|3h5|1dg|9|Trstenaci
+Tregynon|GB||9b|422|-99|9
+Třebětín|CZ||9m|3to|1a3|9
+Tremont|US|Maryland|48|314|-5x1|9
+Trasanni|IT||9o|3dj|z6|9
+La Trinidad|HN|Comayagua Department|56|14w|-6rj|9|Trinidad
+Tresckow|US||48|35n|-5v1|9
+Troy|US|Idaho|3p|3lu|-90d|9
+Treigny|FR||9k|3o3|8u|9|Trevignum
+Trovo|IT||9o|3hs|p4|9
+Trinidad|US|Texas|2f|2ha|-7ex|9
+Traonfla|CI||0|kq|-h6|9|Trahonfla
+Troy|US|Montana|2p|3qm|-8xx|9
+Travesio|IT||9o|3kc|zr|9|Traves
+Trentels|FR||9k|3fg|2e|9|Trentel
+Trashigang|BT||7p|23x|72b|9|Tashigang
+Tréméoc|FR||9k|3p3|-bp|9|Tremeog
+Trent|DE||8r|47g|10u|9
+Troghi|IT||9o|3df|vo|9
+Triunfo Número Dos|MX||44|1ql|-7mp|9
+Tréglamus|FR||9k|3qw|-93|9|Treglañviz
+Tři Dvory|CZ||9m|3uz|16e|9
+Trhová Kamenice|CZ||9m|3ub|17y|9
+Tragána|GR||8p|2za|1s8|9
+Très-Saint-Rédempteur|CA||59|3i7|-5qm|9
+Tretten|NO||9j|4qb|sm|9
+Troița|RO||8u|3l4|1wt|9|Szentháromság
+Newport|GB|Wales|9b|40i|-df|9|Trefdraeth
+Trevi nel Lazio|IT||9o|38a|10t|9
+Troncones y Potrerillos|MX||41|1kw|-7ir|8
+Trönninge|SE|Halland|9w|4eq|y5|8
+Triabunna|AU||8g|-3a3|bev|8
+Traby|BY||9g|46g|1zz|8
+Treffendel|FR||9k|3pg|-5l|8|Trevendel
+Trezevant|US||2f|2s1|-6u6|8
+Troitske|UA|Poltava|98|3t5|2l5|8|Frunzevka;Frunzivka;Fruzevka;Frunzovka
+Tranebjerg|DK||8y|4b3|tg|8|Tranebierg;Tranebjærg
+Trevélez|ES||9d|2us|-93|8
+Triovasálos|GR||8p|2u3|1vv|8|Triovásalon
+Tres Marías|MX|Michoacán|41|1iq|-7sw|8
+El Troncón|MX||44|1t9|-81z|8|Troncón
+Trofors|NO||9j|521|119|8
+Troissy|FR||9k|3sc|ab|8
+Tröbitz|DE||8r|3zc|11b|8|Trjebicy
+Tresenda|IT||9o|3k8|s0|8
+Tríacastela|ES||9d|3as|-k4|8
+Trapiche Santa Cruz|MX||41|1ak|-7h1|8
+Trílofo|GR||8p|34p|1pj|8
+Treffen|AT||a2|3ln|12i|8
+Tracy-le-Val|FR||9k|3th|8d|8
+Tryfonivka|UA||98|3na|2l3|8|Trifonovka
+Trnová|CZ||9m|3ui|110|8|Trnowa
+Třebovice|CZ||9m|3ui|19u|8
+Troisvilles|FR||9k|3v6|9n|8
+Tranquillity|US||3p|2tt|-9a1|8|Tranquility
+Třebestovice|CZ||9m|3v8|15k|8
+Tréflez|FR||9k|3r2|-bu|8|Trelez
+Tribune|US||2p|2yv|-7un|8
+Tres Garantías|MX|Quintana Roo|2b|1ej|-6v6|8
+Trykratne|UA||98|3oi|2ez|8
+Trinidad Ixtlán|MX||41|1bz|-7fu|8|La Trinidad;La Trinidad de Ixtlán
+Trodelepleu|CI||0|k9|-mq|8
+Tre Pontoni|IT||9o|38y|yx|8
+Trefonen|GB||9b|42r|-8m|8
+Třebívlice|CZ||9m|3w6|12m|8
+Trappolone|IT||9o|3fh|vk|8
+Triadelphia|US||48|339|-67z|8
+Trita|PE||3o|-h3|-60p|8
+Trohe|DE||8r|3wl|ob|8
+Trostan’|RU||9i|41x|2gy|8|Trostan
+Trebitz|DE|Saxony-Anhalt|8r|3zr|zf|8
+Trypití|GR||8p|2u2|1vv|8|Tripiti
+Trégomeur|FR||9k|3qx|-80|8|Tregonveur
+Traian|RO|Mehedinți County|8u|3fi|1ri|8
+Trautmannsdorf in Oststeiermark|AT||a2|3m8|184|8
+Tresdorf|AT||a2|3qe|19f|8
+Tron Hounien|CI||0|jr|-mo|8|Tronhounin
+Troyitske|UA|Zaporizhzhia|98|3mq|2uf|8|Troitske
+Tréveray|FR||9k|3r1|f0|8
+Trébry|FR||9k|3qc|-73|7|Trebria
+Trzebielino|PL||a5|46k|1bh|7
+Trönningenäs|SE||9w|4eq|xz|7
+Trestia|RO||8u|3o4|1u3|7
+Trčova|SI||9a|3la|17o|7
+Tres Cruces|MX||41|1ba|-7mt|7
+Trnovci|MK||9u|36l|1n9|7|Trnovce
+Trans-sur-Erdre|FR||9k|3nw|-3t|7|Treant-an-Erzh;Tredens
+Troshkovo|RU||9i|4ag|2yp|7
+Tirol|RO||8u|3hx|1o0|7|Trol
+Truesdale|US||2f|2zt|-715|7|Truesdail;Truesdaile
+Trubaitsi|UA||98|3u2|2kl|7|Trubaytsi;Trubaytsy
+Trespoux|FR||9k|3fd|3u|7
+Tresna|PL||a5|3u6|1hd|7
+Trzyciąż|PL||a5|3vr|1ix|7
+Trébons|FR||9k|3bq|c|7|Trébon
+Treubach|AT||a2|3pw|10p|7
+Tres Quebradas|PA||4g|ls|-67d|7
+Trimont|US||2f|3dk|-7b3|7
+Traver|US||3p|2ta|-97w|7
+Tréal|FR||9k|3ow|-66|7
+Trouville-la-Haule|FR||9k|3ta|1m|7|Trouville-la-Haute
+Travo|IT||9o|3gm|qi|7
+Trýfos|GR||8p|2zu|1mj|7|Trífos
+Traders Cove|CA||5b|3uq|-97z|7
+Trail|US||3p|3ah|-9h5|7
+Triantafylliá|GR||8p|35u|1sv|7|Triandafilliá
+Trébrivan|FR||9k|3q7|-9n|7|Trabrivan
+Trenu|RO||8u|3hj|20z|7
+Trialeti|GE||7n|37e|3ej|7|Alexandergilf;Rosenberg;Molotov;Molotovka;Rozenberg;Molotovo;Trialeta;T’rialet’i
+Troncones|MX||41|1de|-7uk|7
+Tresserre|FR||9k|3a8|7v|7
+Trnjani|HR||a6|3hj|1ee|7|Trjani
+Trois-Palis|FR||9k|3is|6|7
+Trílofos|GR|Central Macedonia|8p|345|1qe|7|Trílofon
+Tríbique|PA||4g|m7|-69w|7
+Tranca Sasape|PE||3o|-i1|-662|7
+Trévron|FR||9k|3qf|-5q|7|Treveron
+Tricerro|IT||9o|3ho|n5|7
+Troszyn|PL|Mazovia|a5|43b|1od|7
+Trojanów|PL||a5|3zl|1ol|7
+Trześń|PL||a5|3vi|1o7|7
+Trudove|UA|Zaporizhzhia|98|3mg|2pp|7|Trudovoye
+Kurjenmäki|FI||92|4nw|1pw|7|Tranbacka
+Terruggia|IT||9o|3h8|ng|7|Trugia
+Treffieux|FR||9k|3oa|-4a|7|Trefieg
+Trom|KH||78|121|89q|7
+Trévignin|FR||9k|3iz|gj|7
+Trenkovo|HR||a6|3i4|1d2|7
+Tres Álamos|MX||2h|2dm|-8cu|7
+Trnávka|CZ||9m|3u0|1ei|7
+Trigomila|MX||41|1cu|-7nd|7
+Trud|RU||9i|4g1|2mc|7
+Trboje|SI||9a|3kc|142|7
+Trizac|FR||9k|3hp|72|7
+Trockenborn-Wolfersdorf|DE||8r|3x2|wi|7
+Trujillo|MX||41|1sc|-7ym|7
+Trémeur|FR||9k|3qb|-6a|7|Treveur
+Trimbs|DE||8r|3vs|ka|7
+Trodena|IT||9o|3ko|vj|7|Truden;Truden im Naturpark
+El Tremesino|MX||41|1hb|-7r0|7|Tremesino
+Traryd|SE||9w|4d6|127|7
+Trzeszczany|PL||a5|3x6|1ty|7
+Trundle|AU||8l|-2jg|beb|7
+Vívlos|GR||8p|2uy|1yl|7|Tripodes;Tripodhes
+La Trinidad|MX|Oaxaca|41|1cg|-7df|7|Trinidad
+Triunfo Agrarista|MX||41|1at|-76j|7
+Travecy|FR||9k|3u1|9c|7
+Trouhans|FR||9k|3mz|en|7
+Truchas|ES||9d|39e|-hw|6|Trueitas
+Tréauville|FR||9k|3tl|-51|6
+Travaillan|FR||9k|3eq|dm|6|Travalhan
+Tres|IT||9o|3ko|uu|6
+Trigomil|MX||3x|1nf|-833|6
+Treglio|IT||9o|39e|142|6
+Trimble|US|Missouri|2f|31n|-7ao|6
+Trzebiszewo|PL||a5|427|16s|6
+Trans-la-Forêt|FR||9k|3qq|-4g|6
+Trozandepleu|CI||0|k2|-mq|6
+Trafford|US|Alabama|2f|2ly|-6oy|6
+Tre Berte|IT||9o|3bq|x1|6
+Trnov|CZ||9m|3vk|18w|6
+Tripp|US||2f|3c3|-7k5|6
+Trojes de Paúl|MX||41|1kg|-7up|6
+Troszyn|PL|West Pomerania|a5|42l|14g|6
+Trawsfynydd|GB||9b|42y|-aw|6
+Trenton|US|Texas|2f|2kv|-7fm|6
+Trinidad|BZ||24|1e2|-6ud|6
+Tramm|DE||8r|44o|wd|6
+Trivigno|IT||9o|34q|18f|6
+Trimble|US|Tennessee|2f|2sk|-6vr|6
+Tragákion|GR||8p|2x1|1lv|6|Tragaki
+Trosly-Loire|FR||9k|3tk|8z|6
+Trémont-sur-Saulx|FR||9k|3rf|e2|6
+Tréveneuc|FR||9k|3r6|-7z|6|Treveneg
+Treffrin|FR||9k|3q6|-9s|6|Trefrin
+Tres Lagunas|MX||41|1n9|-7nk|6
+Tracy|CA||43|3iw|-558|6
+Trasdorf|AT||a2|3q7|184|6
+Troian|RO||8u|3h8|1vn|6
+Trzcianne|PL||a5|447|1r0|6
+Triggianello|IT||9o|35p|1bp|6
+Trnava|CZ|Vysocina|9m|3st|189|6|Trnawa
+Trefriw|GB||9b|43n|-an|6
+Trémolat|FR||9k|3go|2b|6
+Tashi Chho Dzong|BT||7p|24c|6wy|6|Tashi Chhuc Dzong;Trashi Chö Dzong;Trashi Chhödzong;Tash Chho Dzong
+Traenheim|FR||9k|3r0|kr|6
+Triádhion|GR||8p|34n|1s1|6|Triadi;Triádhi
+Treignes|BE||8t|3v5|cz|6
+Troskotovice|CZ||9m|3rw|19o|6
+Tribalj|HR||a6|3hm|14s|6|Tribanj
+Truttemer-le-Grand|FR||9k|3ri|-2a|6
+Trpanj|HR||a6|3bh|1bz|6|Trpani
+Trèves|FR||9k|3ii|d0|6
+Třebichovice|CZ||9m|3vf|134|6
+Trafinello I|IT||9o|30h|1bj|6
+Trapiche|MX||41|1nd|-7l0|6
+Trudolyubovka|UA|Crimea|9t|3hm|2pn|6
+Trema|HR||a6|3jq|1a4|6
+Trepalle|IT||9o|3l9|sa|6
+Trnava pri Laborci|SK||8s|3rm|1ox|6
+Trouville|FR||9k|3tp|1o|6
+Trestioara|RO|Prahova|8u|3he|203|6
+Tre Croci|IT||9o|39o|135|6
+Trigaches|PT||99|2xt|-m5|6
+Trüllikon|CH||a7|3oc|o5|6
+Trnávka|SK||8s|3pd|1cc|6
+Trstěnice|CZ||9m|3s3|190|6|Křtěnice
+Trilbardou|FR||9k|3ry|7t|6
+Trnje|SI||9a|3lf|19b|6
+Trévérien|FR||9k|3qd|-5d|6|Treverian
+Trelly|FR||9k|3s0|-3z|6
+Trapiche|PE||3o|-wk|-5xs|6
+Trenton|US|Nebraska|2f|33m|-7sl|6
+Truchas|US||2p|2s4|-85x|6
+Trute|PL||a5|3th|1jh|6
+Tressignaux|FR||9k|3r2|-8a|6|Tresigne
+Trhanov|CZ||9m|3ta|zp|6
+Trasadingen|CH||a7|3of|nf|6
+Trebiciano|IT||9o|3iv|12f|6|Trebče
+Tréguidel|FR||9k|3r0|-86|6|Tregedel
+Traisen|DE||8r|3ue|lq|6
+Travčice|CZ||9m|3wa|13f|6|Trabschitz
+Trout Lake|US||3p|3js|-9dl|6|Troutlake
+Triglitz|DE||8r|43t|xm|6
+Treppo Carnico|IT||9o|3l9|108|6
+Tréméreuc|FR||9k|3qw|-5q|6|Tremereg
+Traventhal|DE||8r|45q|so|6
+Trelins|FR||9k|3j1|b5|5
+Tramain|FR||9k|3qg|-6o|5|Tremaen
+Trattenbach|AT||a2|3o8|183|5
+Traves|IT||9o|3hr|kn|5
+Traskwood|US||2f|2np|-75d|5
+Trifýlli|GR||8p|35b|1pu|5
+Trego|US||2p|3rb|-8v3|5
+Trevões|PT||99|364|-ko|5
+Trestioara|RO|Gorj County|8u|3ge|1se|5
+Trigny|FR||9k|3sy|au|5
+Troupoungo|CI||0|pv|-fy|5|Tripoungo
+Tribogna|IT||9o|3fe|pk|5
+Trongisvágur|FO||85|4r0|-j1|5
+Traralgon South|AU||8j|-2yd|bb3|5
+Trunca|IT||9o|2xp|17r|5
+Trémouilles|FR||9k|3ew|7c|5
+Trout Valley|US||2f|398|-6t5|5
+Treteau|FR||9k|3kt|9t|5
+Triana|US||2f|2o3|-6ox|5
+Trnava|HR||a6|3hq|1ep|5|Ternava
+Trzcinna|PL||a5|42w|15p|5|Trzcinno
+Tropovci|SI||9a|3ll|18q|5|Murafüzes
+Truro|AU||8b|-2nl|aqh|5
+Tritanti|IT||9o|2yt|18q|5
+Trudoliub|UA||98|3uv|2l6|5|Trudolyub
+Trumilly|FR||9k|3ss|7s|5
+Tréglonou|FR||9k|3qv|-cm|5
+Tres Aguas|MX||41|1h4|-7hl|5
+Tria|RO||8u|3n7|1pv|5
+Trojes|MX|Zacatecas|41|1re|-7zm|5
+Tropic|US||2p|2wj|-8nc|5
+Trudolyubovka|UA|Crimea|9t|3gf|2mf|5
+Trinidad Norte|MX||41|1qe|-7u0|5
+Tramolé|FR||9k|3ig|en|5
+Tres de Mayo|MX|Tamaulipas|44|1q9|-7ka|5
+Troche|FR||9k|3i3|40|5|Tròcha
+Trondes|FR||9k|3rc|g1|5
+Trout River|CA||50|3tg|-4hh|5
+Trenton|US|Utah|2p|38g|-8my|5
+Tribehou|FR||9k|3sp|-3g|5|Tribeahou
+Treschè Conca|IT||9o|3jc|vr|5
+Trumpeter Area|CA||2s|44v|-8rs|5
+Tryon|US|Oklahoma|2f|2rn|-7hc|5
+Trebarwith Strand|GB||9b|3wo|-d8|5

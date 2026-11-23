@@ -1,0 +1,94 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Reims|FR||9k|3sv|b7|1im|Remeš;Rems;Durocortorum;Rheims
+Reggio Calabria|IT||9o|2xv|17i|1ep|Reggio di Calabria;Reggio de Calabre;Rhegium;Regio;Regio de Calabria;Reggio de Calàbria;Riggiu Calabbria
+Reẖovot|IL||6n|2gl|2op|1ad|Rechowot;Rechovot;Rejovot;Rehobot;Rhovot
+Ludwigshafen am Rhein|DE||8r|3tg|nh|19c|Ludwigshafen;Ludwigshafen sul Reno;Ludwichshafe;Lüdviqshafen;Liudvigshafenas prie Reino;Ludovici Portus Rhenanus
+Oxford|GB||9b|3zr|-3i|191|Oxnaford;Rhydychen;Oksfordo;Rhedicina;Rysoghen;Oxonia;Oksfordas;Oksford;Uxavað;Oxonium;Öxnafurða;Oxenford;Oxenaforda;Àth nan Damh;Oksforda;Oksfuords;Oxenaford;Oxneford
+Ghardaïa|DZ||3|2i9|a7|13p|Ghardaja;Gardaja;Gardaya;Gardaia;Qardaya;Rhardaïa
+Tekirdağ|TR||94|35u|24f|xz|Bisanthe;Rhaedestus;Tekfur Dağı;Rodosto;Tekfur Dagh;Rodosçuk;Tekfurdağ;Tekirdahas;Tekirdaa;Raedestum
+Porz am Rhein|DE||8r|3xd|jm|vi|Köln-Porz
+Roanoke|US|Virginia|48|2vj|-662|rs|Rōwrenoc;Rhoanoke;Rawrenock
+Niagara Falls|CA||59|3bq|-63n|rq|Chutes Niagara;Niagara Akvofalo;Niagara Folsas;Cataratas del Niágara;Rhaeadr Niagara
+Rheinhausen|DE||8r|3ys|in|lq
+Rheine|DE||8r|418|ko|l9|Rene
+Rhondda|GB||9b|3zi|-9l|jb
+Rhodes|GR||8p|2t8|26e|fl|Rodos;Rhodos;Rodas;Rodi;Rodes;Ródhos
+Rho|IT||9o|3ih|p4|d3
+Rheda-Wiedenbrück|DE||8r|401|n2|ct|Reda-Videnbruko
+Rheinfelden|DE||8r|3o4|ln|9n
+Rethymno|GR||8p|2q9|1w0|91|Rethimno;Rethimnon;Resmo;Rétino;Retimno;Retimnas;Rhithymna;Retimo;Rethýmne
+Rheinberg|DE||8r|3z7|ic|8y
+Rhennouch|TN||1e|2ma|ry|7t|Ghannouch
+Rheinbach|DE||8r|3wn|jb|7b
+Rhyl|GB||9b|444|-9p|77|Rilis
+Rhawnhurst|US||48|33a|-5si|74
+Rhosllannerchrugog|GB||9b|439|-8i|72|Rhosllanerchrugog
+Ammanford|GB||9b|3zv|-b3|6l|Rhydaman;Amanfordas
+Rheinstetten|DE||8r|3s1|n3|5o|Raynştetten
+Khombole|SN||g|150|-1ad|5n|Kbombole;Rhombol;Kombole
+Ghardimaou|TN||1e|2t9|ng|5g|Rhardimaou
+Roses|ES||9d|39e|8u|5d|Rhode;Rosas
+Rhede|DE|North Rhine-Westphalia|8r|400|im|5b|Rede
+Rhoon|NL||8m|402|ca|53|Roon
+Rhenen|NL||8m|40c|fh|51|Renen
+Sint-Genesius-Rode|BE||8t|3wz|c4|50|Rhode-Saint-Genèse
+Ghat|LY||1d|1xc|sa|42|Ghaat;Rhat;Gat
+Ghadames|LY||1d|2bp|qe|3d|Gadamés;Gadamis;Ghudāmis;Rhadames;Ghadāmis
+Rhodes|AU||8l|-2lz|bnp|37
+Rhiwbina|GB||9b|3z5|-8x|36
+Rheinau|DE|Baden-Wurttemberg|8r|3r7|m2|32
+Rheinau|DE|Baden-Wurttemberg|8r|3rr|mr|32
+Rheinfelden|CH||a7|3o3|ln|2z
+Ross on Wye|GB||9b|408|-75|2y|Rhosan ar Wy
+Rhar el Melah|TN||1e|2v9|sb|2x|Ghar el Melah;Rar el Melah
+Rheinsberg|DE||8r|43i|zu|2j
+Rhythm Garden|HK||6i|1q2|8t8|2i
+Rhymney|GB||9b|3zs|-95|2d
+Ramsey|IM||93|46w|-c7|26|Rhumsaa;Ramsis
+Rhinelander|US||2f|3is|-6wd|23
+Rheden|NL||8m|40h|gr|22
+Rheurdt|DE||8r|3yz|hz|1v
+Le Rheu|FR||9k|3pm|-50|1u|Reuz;Rodus;Rheu
+Rhoose|GB||9b|3yr|-9b|1q
+Rhenok|IN||6t|23i|6u9|1n|Rhenak;Rhenock
+Ruthin|GB||9b|43j|-98|1j|Rhuthun;Ridinas
+Rhade|DE|North Rhine-Westphalia|8r|3zr|ja|1i
+Rheenendal|ZA||o|-2mb|1rr|1b|Rheenensdal
+Rheinzabern|DE||8r|3sg|n0|1a|Rhoizawere
+Rheinbreitbach|DE||8r|3wm|k3|1a
+Rheinböllen|DE||8r|3ux|lb|16
+Rhede|DE|Lower Saxony|8r|43e|k7|15
+Rheinbrohl|DE||8r|3wa|kd|14
+Rhuddlan|GB||9b|441|-9n|11|Rhyddlan
+Rheineck|CH||a7|3nv|qn|x
+Rhatigan Ridge|CA||2s|44j|-8rj|x
+Ruabon|GB||9b|437|-8g|v|Rhiwabon
+Rhens|DE||8r|3vo|l6|u
+Ghajar|IL||6n|2kf|2qy|r|Ghadschar;Ghaĝar;Ghadžar;Rhajar
+Rettikhovka|RU||7w|3ep|a8t|r|Rettikhoveka;Ritikhovka;Retikhovka;Rittikhovka;Rhettikhovka
+Rhinebeck|US||48|38h|-5pb|q
+Rhinau|FR||9k|3q8|lf|p|Rheinau;Rhinài
+Rhaunen|DE||8r|3ui|ke|n
+Rhumspringe|DE||8r|3za|sm|l
+Rhisnes|BE||8t|3wb|dd|k
+Rhinow|DE||8r|42j|ya|j
+Rhu|GB||9b|4bm|-d9|j|An Rubha
+Rhayader|GB||9b|41a|-9r|i|Rhaeadr Gwy;Rajaderis
+Rhome|US||2f|2jt|-7ir|g|Rome
+Rheems|US||48|33h|-5wp|g
+Rhäzüns|CH||a7|3m0|q4|d|Razén
+Rheden|DE||8r|40m|r7|d
+Raglan|GB||9b|3zt|-7x|c|Rhaglan
+Rhade|DE|Lower Saxony|8r|445|pb|b
+Rhodt unter Rietburg|DE||8r|3sv|mj|b
+Rhodhiss|US||48|2rd|-6a7|a
+Rhosneigr|GB||9b|43v|-cj|a|Rhosneigir
+Rhode|IE||8z|447|-k0|8|Ród;Road
+Reinholterode|DE||8r|3yu|sb|8|Rheinholterode;Rengerode
+Rhigos|GB||9b|3zq|-9w|7
+Rhosgadfan|GB||9b|43h|-br|7
+Rheezerveen|NL||8m|421|i5|6|Reezerveen
+Rhyll|AU||8j|-2yu|b7m|5
+Rhydymwyn|GB||9b|43r|-8v|5
+Rhenoy|NL||8m|404|eb|5

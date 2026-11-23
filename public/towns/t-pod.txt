@@ -1,0 +1,173 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Port-de-Paix|HT||4j|1je|-5mb|2d2|Pòdepè;Pòdpè;Porto-da-Paz;Port Paix
+Podgorica|ME||9l|39w|1hi|1tt|Podgorytsa;Podgorika;Birziminium;Podgoritsa;Podgorico;Podqoritsa;Podgairítse;Podgoritza
+Potsdam|DE||8r|41k|10b|1fc|Poczdam;Postupim;Podstupim;Poztupimi
+Podolsk|RU||9i|49y|2wb|1du
+Podilskyi|UA||98|3qq|2ho|o3|Podilsk
+Podilsk|UA||98|3on|2a1|aw|Kotovsk;Podiljsk;Kotowsk
+Podaturpet|IN||6t|10w|64t|9q|Podhaturpet;Pothatturpettai
+Podujeva|XK||8q|3b7|1mv|9q|Besiana;Besianë;Podjevë;Podujevo;Podujevë
+Podil|UA|Poltava|98|3ts|2o3|8v
+Podili|IN||6t|17d|655|8n|Podill;Podile
+Podil|UA|Kyiv City|98|3w7|2cs|77|Padół;Pogyil;Pogyilszkij kerület
+Podunajské Biskupice|SK||8s|3pp|1bt|6j
+Podporozh’ye|RU||9i|4p7|2mw|5g|Podporozje;Koskenala;Košenala;Podporoshje
+Padampur|IN|Odisha|6t|1mc|6eq|4k|Podampur
+Poděbrady|CZ||9m|3va|160|48|Podebradai;Podiebrady;Podebrad
+Podolí|CZ|Prague|9m|3v2|142|3s|Podol
+Podor|SN||g|1a9|-15k|38
+Podu Iloaiei|RO||8u|3n6|23r|2q|Podul-Iloaiei;Podul-Iloaei;Podu Iloaie;Podu Iloaei
+Podstrana|HR||a6|3ct|19z|2j|Postrana
+Podjuchy|PL||a5|448|14k|2e|Podejuch
+Poduri|RO|Bacău County|8u|3l3|21p|27
+Podvirky|UA||98|3uu|2s9|27|Pidmonastyrskyi podvirok;Podvorki
+Pidvolochysk|UA||98|3tl|20m|26|Podwołoczyska;Pidvolotchysk
+Poddębice|PL||a5|405|1go|26
+Podgornoye|RU|Voronezh Oblast|9i|3zq|30r|25|Podgornoje;Niderberg
+Vypasne|UA||98|3kb|2c2|25|Wypasne;Podul de Piatr;Turlaki
+Podzvizd|BA||9r|3hh|183|1v
+Podgorenskiy|RU||9i|3w1|324|1v|Podgorenskij
+Pabradė|LT||a3|48q|1zk|1s|Podbrodzie
+Podari|RO||8u|3ex|1u2|1r
+Podbořany|CZ||9m|3vj|119|1r
+Podenzano|IT||9o|3gv|qw|1n
+Podhum|BA||9r|3dg|1b8|1m
+Podoleni|RO|Neamț County|8u|3m0|21y|1j
+Podgornyy|RU||6u|45l|75x|1i
+Podgornaya|RU||9i|3es|3cn|1h|Podgornaja
+Shalazhi|RU||9i|3bp|3i0|1h|Sjalazji;Makane-Khotar;Podgornoe;Konëv;Podgornoye
+Podu Turcului|RO||8u|3kc|242|1f|Podul-Turcului
+Podgornoye|RU|Tomsk Oblast|7r|4gj|6dl|1e|Podgornoje
+Putbus|DE||8r|46z|11g|1c|Pòdbes
+Serzhen’-Yurt|RU||9i|3bs|3jr|1c|Serzjen-Jurt;Podlesnoe;Seržen’-Jurt;Podlesnoye
+Podenii Noi|RO||8u|3hc|20p|1a|Podenii-Noui
+Podlesnoye|RU||9s|3zy|3ml|15|Podlesnoje
+Podosinovets|RU||97|4ng|3mr|15
+Podbrdo|BA||9r|3fg|1b9|14
+Pidlypne|UA||98|3y8|2k9|14|Podlipnoye
+Podkowa Leśna|PL||a5|40s|1ll|12
+Podgornoye|RU|Voronezh Oblast|9i|3w3|323|12|Podgornoje;Podgornaya
+Podbrezová|SK||8s|3rl|1i9|12
+Podareš|MK||9u|37l|1qm|12
+Podkumskiy|RU||9i|3eg|3c1|11|Podkumsk
+Poduri|RO|Mureș County|8u|3li|1uv|x
+Podgoria|RO|Buzău County|8u|3i6|233|x
+Podsineye|RU||6u|453|72a|w|Podsineje
+Podstepki|RU||9p|44o|3si|v
+Podgorodnyaya Pokrovka|RU||7z|3zz|48r|v
+Podhorany|SK||8s|3ss|1kw|v|Mältern;Mälter
+Podkletnoye|RU||9i|3zb|31m|v|Podkletnoje
+Podvinje|HR||a6|3hj|1e3|v|Podvinj
+Podolínec|SK||8s|3su|1l2|v|Podolin;Podolinjec;Podoliniec
+Podyuga|RU||9i|4pq|35i|u|Podjuga
+Podivín|CZ||9m|3rn|1at|t
+Podiagouiné|CI||0|jv|-lj|s|Padiagouiné;Podéagouine
+Pidbuzh|UA||98|3t1|1sl|r|Podbuż;Podbuzh
+Pidhaytsi|UA|Ternopil|98|3sv|1xt|r|Podhajce;Pidhajci;Pidhaïtsi
+Podensac|FR||9k|3g1|-10|q|Podençac
+Podvirne|UA||98|3q6|21y|o|Chișla-Salieva
+Podwilk|PL||a5|3tn|1iu|o|Podvilk
+Podoly|UA||98|3u1|2wo|o
+Podviryvka|UA||98|3q8|22f|n|Podvirïvka;Chișla-Zamjieva
+Podsosnovo|RU||63|449|638|m
+Podersdorf am See|AT||a2|3ox|1as|l|Podersdorf;Pátfalu;Poudistoaf
+Podstrana - Sita|HR||a6|3cu|19y|l
+Arnoldstein|AT||a2|3lb|123|l|Oristagn;Podklošter
+Podio|CI||0|dk|-i2|k
+Podłęże|PL||a5|3ux|1k1|k
+Poddor’ye|RU||9i|4fn|2ef|j|Poddorje
+Podegrodzie|PL||a5|3tq|1l7|j
+Pidkamin|UA||98|3ur|1yc|j|Podkamień;Podkamen’;Pidkamien
+Podenii Vechi|RO||8u|3h9|20k|j|Podeni Vechi
+Puget-Théniers|FR||9k|3e4|j5|j|Lo Puget de Tenier;Podium Thenarium;Lo Puget Tenier
+Podenzana|IT||9o|3et|rm|i
+Podlesnyy|RU||9i|45u|2yb|h|Podlesnyj
+Podgórzyn|PL||a5|3x7|17k|h
+Podorozhnie|UA||98|3s9|2jv|h|Podorozhnoye;Podorozhnye
+Strožanac - Donji|HR||a6|3cu|19y|h|Podstrana - Strožanac Donji
+Podoué|CI||0|de|-kz|h
+Podosinki|RU||9i|4c5|2wb|g
+Pidlyman|UA||98|3t2|2wg|f|Podliman
+Podravske Sesvete|HR||a6|3jt|1bt|e
+Podolí|CZ|South Moravian|9m|3sn|1ag|e|Kritschen
+Podhum|HR||a6|3i3|148|e|Pothum
+Podturen|HR||a6|3l2|19y|d
+Podnovlje|BA||9r|3gv|1ec|d
+Pidplesha|UA||98|3pp|1u4|c|Podplesha
+Podvysoká|SK||8s|3t9|1fu|c
+Podnov’ye|RU||9i|4cf|3eh|c
+Podoleni|RO|Galați County|8u|3j3|249|c
+Podishor|UA||98|3pg|1ub|c
+Podgora|HR||a6|3c4|1bg|c
+Podeni|RO|Mehedinți County|8u|3go|1qm|b
+Podsolnechnoye|RU||9p|43n|40i|b|Podsolnetsjnoje
+Podstrana - Miljevac|HR||a6|3ct|19y|b
+Poggio Picenze|IT||9o|39k|11m|a|Podium Picentiae;Poggiu Picenzi
+Podolenii de Sus|RO||8u|3m6|25u|a|Podoleni-de-Sus
+Podebłocie|PL||a5|3zg|1oe|a
+Podstrana - Žminjača|HR||a6|3cv|19y|a
+Podelzig|DE||8r|41r|14d|a
+Podborki|RU||9i|46i|2rt|a
+Podriga|RO||8u|3pd|22j|a
+Podgorje|SI|Municipality of Kamnik|9a|3ke|14i|a
+Podstrana – Sveti Martin|HR||a6|3cs|1a1|a|Podstrana - Sv. Martin
+Podgorje|SI|Urban Municipality of Slovenj Gradec|9a|3l3|15w|9
+Podgumer|BG||9v|3aw|1t0|9
+Podkonice|SK||8s|3rk|1hi|9
+Podolí|CZ|Zlín|9m|3s8|1cp|9
+Podgajci Posavski|HR||a6|3gv|1gb|9|Posavski Podgajci
+Podlesí|CZ||9m|3u1|12u|9
+Podmočani|MK||9u|35y|1mh|9|Podmočane
+Podeni|RO|Cluj County|8u|3kz|1to|9
+Podyachevo|RU||9i|4ca|2vh|9
+Podvinci|SI||9a|3kz|188|9
+Podgorje|HR|Krapina-Zagorje|a6|3jr|18t|8
+Podu Rizii|RO||8u|3g7|1z2|8|Podul-Rizii;Podu Rizi
+Podillya|UA||98|3ne|2eh|8|Podillia
+Pidkormillia|UA||98|3zw|1yw|8|Pidkormillya;Podkormil’ye;Podkormol’ye
+Podljubelj|SI||9a|3kx|13o|8
+Podstrana - Grbavac|HR||a6|3cs|1a0|8
+Podsarnie|PL||a5|3tn|1iz|8|Podsarnia
+Pidpolozzia|UA||98|3re|1ry|8|Pidpolozzya;Podpoloz’ye;Pudpoloz’ye;Podpolz’ye
+Podbrezje|SI||9a|3km|13o|8
+Podu Lacului|RO||8u|3is|22z|8
+Podgorač|HR||a6|3ia|1em|8|Pogorács
+Pidtsyria|UA||98|3zb|1xc|8|Podtsir’ye;Podtsyre;Podtsyr’ya
+Podilske|UA||98|3u6|2gt|8|Podil’s’ke
+Podkraj pri Velenju|SI||9a|3kr|15x|8
+Podolí|CZ|South Moravian|9m|3s9|1bs|8
+Poderia|IT||9o|33d|16q|7
+Podgorje|HR|Virovitica-Podravina|a6|3ja|1c7|7
+Podlesie Duże|PL||a5|3zf|1mr|7
+Podbrdo|SI||9a|3kd|12s|7|Piedicolle
+Podu Lung|RO||8u|3hn|1z9|7
+Podevčevo|HR||a6|3kd|199|7
+Podil|UA|Poltava|98|3tz|2m4|7|Podol
+Pidrichchia|UA||98|3za|1ww|7|Pidrichchya;Podrech’ye
+Podravska Moslavina|HR||a6|3j7|1dy|7
+Podgoria|RO|Prahova|8u|3hb|213|6
+Podsedice|CZ||9m|3w7|12r|6|Podseditz
+Podolanka|CZ||9m|3vc|14l|6
+Podhorní Újezd a Vojice|CZ||9m|3vz|173|6
+Podgradina|HR||a6|3eq|171|6
+Podu Hagiului|RO||8u|3m6|260|6|Podul Hagiului
+Podstrana - Strožanac Gornji|HR||a6|3cu|19z|6
+Podișor|RO||8u|3fb|1zf|6
+Podgrad|SI||9a|3ig|13b|6
+Podluhy|CZ||9m|3ue|12n|6
+Podhokhóri|GR||8p|35f|1uq|6|Podochori
+Podei|RO||8u|3kx|21g|6
+Podu Doamnei|RO||8u|3f3|1zj|6
+Pidborochchia|UA||98|3zs|1xa|6|Pidborochchya;Podboroch’ye;Podboroche
+Podčetrtek|SI||9a|3k8|17c|6
+Podu Broșteni|RO||8u|3ga|1x2|6|Podul Broşteni
+Podbrest|HR||a6|3kp|19z|6
+Podgajci Podravski|HR||a6|3j1|1er|5|Podgajci Podrauski
+Podgora Krapinska|HR||a6|3ka|182|5
+Podvrh|HR||a6|3jb|17l|5
+Podu Oltului|RO||8u|3j4|1zg|5
+Podgorci|SI||9a|3kz|18m|5
+Podpeč|SI||9a|3jp|142|5
+Podreča|SI||9a|3k9|141|5
+Podivka|UA||98|3lm|2ly|5|Podovka
+Podu Pitarului|RO||8u|3f6|21a|5|Podul Pitarului

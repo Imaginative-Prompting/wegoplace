@@ -1,0 +1,71 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Al Ḩudaydah|YE||5r|154|3bb|5o3|El Hudeyda;Al Xudayda;Elhudayda;Al Hudaidha;Ḩudaydah
+Al Hillah|IQ||5z|2i6|3fe|3il|Hilla;Al Hilla;Hillah;Hila;El-Hille;Hille;al-Ḥillah
+Al Kharj|SA||7e|1v4|3nh|3a5|El-Harc;Al Khardj
+Al Ḩasakah|SY||69|2te|357|39c|Hasaka;Al-Hasakah;Hasakah;Heseke;Hesîçe;Al-Hasaka;Hassaké;Haseke;Hasakeh;El Haseke;Al-Hasakeh
+Al Khums|LY||1d|2ip|13m|1k3|Al-Chums;Al Ĥums;Khums;Humsas;Kums;Al-Khums;El Hums;Al Jums;El Xums;Khoms
+Le Havre|FR||9k|3th|b|1fo|El Havre;Havro;La Havro;Hawr;Havre;Franciscopolis;An Havr Nevez;Le port de Grâce;An Havr-Nevez;O Havre;Havras;Havra;Havr
+Khobar|SA||7e|210|3vh|1a2|El Huber;Al-Chubar;Hubar;Al Khubar
+Hebron|PS||6g|2fl|2ph|18l|Hebrom;El Halil;Al-Khalil;Hevron;Al Khalīl;El Khulil;El Khalil
+Al Ḩāmūl|EG||c|2ez|2ej|g8|El-Ḥâmûl
+El Hatillo|VE||2c|sy|-55n|g0
+Al Hasaheisa|SD||r|14z|2ki|d6|El Hasiheisa;El Hasaheisa;Al Ḩaşāḩīşa
+El Hamma|TN||1e|2m5|r8|d2|Al Ḩāmmah
+El Hadjira|DZ||3|2il|fb|b1
+El Hajeb|MA||d|2ll|-ex|ap
+el hed|DZ||3|2tt|d9|8v
+Al Ḩawātah|SD||r|11a|2o7|8e|El Hawata;Al Hawwata
+El Hadjar|DZ||3|2u8|li|79
+El Hermel|LB||64|2nj|2t2|67|Hermel
+Al Ḩammām|EG||c|2dp|29n|54|El Ḥammâm
+Al Ḩazm|YE||5r|18w|3ge|52|El Hazm;Elhazm;El-Ḥazm
+Al Hilāliyya|SD||r|15i|2kb|4t|El Hilāliya;Al Hilālīyah
+El Harhoura|MA||d|2ma|-j9|4o
+Elhovo|BG||9v|395|21t|2w|Elchovo;Elkhovo
+El Haouaria|TN||1e|2ux|ul|2n|El Aouaria;El-Haouaria
+El Higo|MX||41|1oh|-7lh|2d
+Elhāyī|IR||7o|2fx|3r0|25|Alhā’ī;Al Hayi;Al Ḩā’ī
+El-Hamma-Djerid|TN||1e|2mh|mn|1t|El Hamma du Djerid
+Al Ḩamrā’|JO||5t|2i4|2sf|1q|El Ḥamra
+El Hielo|MX||41|1hz|-7o0|u
+El Huaxtho|MX||41|1k7|-7mw|s
+El Huarache (El Guarache)|MX||44|1yw|-7zh|r
+El Huixmí|MX||41|1js|-7mi|q|Huixmí
+El Hoyo|AR|Chubut|1m|-38u|-5io|p
+El Hoyo de Pinares|ES||9d|34i|-ca|o|Hoyo de Pinares
+El Huitusi|MX||3x|1yv|-8e6|n
+El Hoyo|AR|Santiago del Estero|1n|-232|-4vn|m
+El Higueral|MX||3x|1vj|-8a7|j|Higueral
+El Huizache|MX|Guanajuato|41|1kq|-7sg|j|Huizache
+El Humo|MX|Veracruz|41|1mt|-7k2|i
+El Habillal|MX||41|1e1|-7wd|h
+Huachichil|MX||44|1y1|-7s3|g|El Huache
+El Huérfano|MX||41|1iu|-7gr|f
+El Huecú|AR||1s|-2wk|-5g2|e
+El Hatito|MX||41|1hk|-7fr|d
+El Huaco|MX||41|1gz|-7vi|c|El Guaco
+El Huajote|MX||3x|1s9|-86m|b
+El Habal|MX||3x|1sv|-87m|b
+Al Hāshimīyah|PS||6g|2i6|2pu|a|El Hāshimiya
+El Huidero|MX||41|1f3|-7ce|a
+El Huexco|MX||41|1na|-7mb|a|Huexco
+El Horizonte|MX||41|1aw|-768|a
+El Huitussi y Anexos (El Huitussito)|MX||3x|1z8|-8dx|9
+Elham|GB||9b|3y3|33|9
+El Huizache|MX|México|41|1if|-7q9|9
+El Huayal|MX||41|1no|-7lw|9
+El Hato|MX||41|1e0|-7bs|8
+El Herrumblar|ES||9d|31g|-4i|8
+El Hoxton|MX||41|1oc|-7ln|8
+El Huisache (Tercera Manzana de Dexcani Alto)|MX||41|1jf|-7od|7
+El Huinacaxtle|MX||3x|1vq|-8a1|7
+El Hule Nuevo|MX||41|1o4|-7ls|7
+El Huitchaca|MX||37|22o|-8gp|6|Huitchaca;Huichaca
+El Huizache|MX|Guanajuato|41|1nz|-7sz|6|El Huisache
+El Hornito|PE||3o|-km|-64z|6
+El Higo|PA||4g|nh|-66c|6
+El Herradón|ES||9d|34o|-co|5|Herradón
+El Huisache|MX||41|1ro|-7qw|5|Huisache
+El Humo|MX|Querétaro|41|1mz|-7na|5
+El Huarumbo|MX||41|18f|-7hp|5
+El Huérfano (Emiliano Zapata)|MX||41|1ix|-7qm|5

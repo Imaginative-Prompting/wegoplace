@@ -1,0 +1,436 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Brisbane|AU||8c|-24b|bt3|lg9|Brisbano;Brisbenas;Brisben;Brėsbens;Pu-lî-sṳ̂-pân;Brisbena;Brisbin
+Brasília|BR||4w|-17u|-3p5|h19|Braziljo;Brasiliopolis;Brazilija;Brazília;Brazíliaváros;Brazilėjė;Braxìlia;Brazilja;Bahsihleihya;Breselya
+Brussels|BE||8t|3x9|c3|7v2|Bruxelles;Brussel;Bryssel;Brusela;Bruselas;Bruselo;Brukselo;Bruseles;Brusel;Brwsel;Bruiseal;Bruxelas;Brüsszel;Bruxel;Città di Bruxelles;Bruksel;Bruxellae;Bréissel;Briuselis;Brisele;Bruksela;Bruselj;Brussele;Brisel;Brukseli;An Bhruiséil;Kota Brusel;Brasels
+Wrocław|PL||a5|3xy|1bb|56t|Breslau;Vratislavie;Breslavia;Vratislav;Vroclavo;Boroszló;Vrotslav;Vroclava;Vratislavia;Vroclavas;Breslava;Vruoclavs;Breslū;Vroclav;Wrocłow;Brassel;Vroklave;Wroklaw;Vroslav;Vrocuav;Brasloi;Breßlau;Wrosław;Breslavl’
+Bremen|DE||8r|43g|oh|47t|Brémy;Brême;Brema
+Naberezhnyye Chelny|RU||9i|4au|41m|3xn|Brezhnev;Nabereschnyje Tschelny;Naberezhnye Chelny;Naberežnyje Čelny;Nabereĵnije Ĉelni;Naberežnõje Tšelnõ;Naberežnyje Tšelny;Naberežnije Čelni;Naberežnye Čelny;Naberezjnye Tsjelny;Naberejnye Chelny;Yar Çallı;Yorcholli
+Bryansk|RU||9i|43z|2nc|3ao|Brjansk;Brjansko;Briańsk;Breansk;Brianski
+Bradford|GB||9b|45f|-4v|2tq|Bredforda;Bradanford
+Brest|BY||9g|40r|1tw|2of|Brześć;Breszt;Bressicia
+Brent|GB||9b|3z7|-u|2jf
+Brescia|IT||9o|3ii|sd|1jo|Brixia;Bresia;Bressia
+Breda|NL||8m|3zb|da|1f5
+Brăila|RO||8u|3hr|25p|16z|İbrail;Uebereyl;Drinago;Brajla;Proilabum;Breila;Brillago;Berâil
+Brest|FR||9k|3qf|-ch|149
+Bremerhaven|DE||8r|44r|nu|wy|Bremerhoben;Brėmerhafenas;Bremerhuuwen;Brēmerhāfene;Bremerhoawen;Wesermünde
+Breves|BR||23|-4o|-3w8|w9
+Brandon|US|Florida|48|25m|-6cl|sr|Brendonas;Brendona;Brando
+Breña|PE||3o|-xi|-5y1|mr
+Breu Branco|BR||23|-b4|-3tj|ip
+Brentwood|US|New York|48|35a|-5nh|gv
+Brentwood|US|California|3p|2xd|-9e2|ge
+Brentwood|GB||9b|3ze|v|em
+Brejo da Madre de Deus|BR||4p|-mn|-2t1|e9
+Brejo Santo|BR||2w|-kt|-30b|du
+Brandon|CA||5d|3uh|-7pn|dl|Brendon
+Brea|US||3p|2m8|-93i|bn
+Brentwood|US|Tennessee|2f|2s3|-6p2|bm
+Bremerton|US||3p|3o5|-9gn|az
+Brčko|BA||9r|3gn|1ga|au|Breucus;Brčkas;Bërçka;Brczko
+Brejo|BR||2w|-a8|-3ar|a7
+Bray|IE||8z|43s|-gy|9b|Bré;Brėjus
+Brentwood|US|California|3p|2ml|-953|99
+Brentwood Estates|US||2f|2s3|-6p2|8p
+Bretten|DE||8r|3s8|o7|8f
+Bregenz|AT||a2|3ny|r3|8a|Brigantium;Bregencja;Brėgencas;Brēgenca;Brégence;Bregenc
+Břeclav|CZ||9m|3rg|1aw|76|Lundenburg;Brzecław;Brecizlavia;Bržeclavs;Bržeclavas;Bržeclava
+Bresso|IT||9o|3ii|pj|75
+Brétigny-sur-Orge|FR||9k|3r1|6f|6r
+Brent|US|Florida|2f|2cn|-6qc|62
+Bressuire|FR||9k|3m4|-1d|5r|Berceorium
+Brezno|SK||8s|3rk|1ik|5j
+Bremervörde|DE||8r|44l|pf|5d|Gemeen Bremervöör
+Brezina|DZ||3|2jy|3i|5b|Brexina
+Bredasdorp|ZA||o|-2nx|1jo|56
+Brera|IT||9o|3ib|pj|55
+Breaza|RO|Prahova|8u|3hi|1zb|4z
+Breyten|ZA||o|-212|2bb|4s|Breyton
+Bredbury|GB||9b|44e|-5w|4q
+Brenham|US||2f|2bt|-7fs|4m
+Bressanone|IT||9o|3ls|we|4f|Brixen;Bresanona;Brixino;Brixen in Südtirol
+Bredene|BE||8t|3yb|8a|45|Breênienge;Brênienge;Breedene
+Breo|IT||9o|3fc|lq|44
+Breukelen|NL||8m|40x|dw|41
+Breisach am Rhein|DE||8r|3pf|l2|40|Vieux-Brisach;Breisach
+Bree|BE||8t|3y2|fk|40
+Brejo do Cruz|BR||2w|-hn|-2w6|3y|Brejo da Cruz
+Brecht|BE||8t|3yn|cw|3w
+Brecksville|US||48|36s|-6ar|3q|Bricksville
+Brejetuba|BR||4w|-1jz|-36p|3m|Brejaúba
+Brejões|BR||20|-10e|-32k|3l
+Bressoux|BE||8t|3wo|fl|3i
+Brenes|ES||9d|2wb|-gb|3h
+Brejinho|BR|Rio Grande do Norte|2w|-h7|-2q8|3e
+Bretzfeld|DE||8r|3sm|q8|3e
+Brentwood Village|US||48|304|-5xu|36|Brentwood
+Breakers|KY||2e|1hm|-69k|34
+Breaza de Sus|RO||8u|3hk|1za|31|Brazi de Sus
+Brentford|GB||9b|3z1|-v|30
+Brentwood Park|CA||5b|3sw|-9hn|2x|Brentwood
+Bredy|RU||7z|41m|4nm|2x|Bredi;Briedy
+Brandon|US|South Dakota|2f|3d3|-7g9|2r|Brendonas;Brendona
+Brechten|DE||8r|3za|kr|2o|Brehton
+Brentwood|US|Pennsylvania|48|345|-665|2n
+Brejão|BR||4p|-p3|-2tl|2m
+Braslav|BY||9g|4ak|236|2l|Breslauja;Braslaw;Braslau;Braszlav;Brastaw
+Brewerytown|US||48|332|-5su|2l
+Brewer|US||48|3gg|-5b0|2k
+Brejo de Areia|BR||2w|-c1|-3im|2k
+Breckerfeld|DE||8r|3ye|kr|2k|Bräckfelle
+Brejolândia|BR||20|-yp|-3e4|2j
+Breitenfeld|DE||8r|3ys|ya|2i
+Breaux Bridge|US||2f|2c3|-73a|2c|Bro Bridžas
+Brecon|GB||9b|40b|-9f|2b|Brecknock;Brycheiniog;Aberhonddu
+Brentwood|US|Missouri|2f|2za|-6yz|29
+Brevik|SE|Stockholm|9w|4kv|1ek|28
+Brejinho|BR|Pernambuco|4p|-pa|-2yc|28|Breiinho
+Brejo Grande|BR||3r|-sz|-2tb|26
+Breuillet|FR|Île-de-France|9k|3qx|61|26
+Brevard|US||48|2pv|-6dt|25
+Brejinho|BR|Pernambuco|4p|-kf|-2vl|25
+Brembate di Sopra|IT||9o|3j0|qm|24
+Brentwood Bay|CA||5b|3qy|-9ix|24
+Brętowo|PL||a5|471|1fl|22|Brentau
+Brentwood|CA||2s|3xy|-8t1|22
+Brechin|GB||9b|4dl|-7e|20|Breichinn;Brichinas
+Breña Alta|ES||83|27l|-1de|1z
+Breidenbach|DE||8r|3xd|ni|1x
+Brežice|SI||9a|3jj|17b|1w|Brezitse
+Brejo Grande do Araguaia|BR||23|-fu|-3qh|1w
+Breezy Castle|KY||2e|1hm|-6a0|1w
+Brezoi|RO||8u|3hy|1vd|1v
+Brebu Mânăstirei|RO||8u|3hi|1zl|1u|Brebu-Monastire;Brebul-Mânăstirei;Brebu-Mânăstirei;Brebu Mînăstirei
+Bremgarten|CH||a7|3nj|n6|1t|Bremogartum
+Brembate|IT||9o|3io|qj|1t
+Bremen|US|Georgia|48|2lo|-6kj|1s
+Brenna|PL||a5|3u5|1gi|1n
+Breitenfurt bei Wien|AT||a2|3pp|18v|1n
+Brejo dos Santos|BR||2w|-hq|-2x2|1l
+Breckenridge|US|Texas|2f|2j0|-7mq|1k
+Breganze|IT||9o|3iy|w4|1j
+Brensbach|DE||8r|3u9|oo|1i
+Brewton|US||2f|2ef|-6pv|1i
+Bréguiagui|CI||0|el|-hq|1h
+Breitenbrunn|DE|Saxony|8r|3w8|zh|1g
+Bret Harte|US||3p|2wg|-9c5|1g
+Bredstedt|DE||8r|47q|ow|1f|Bräist;Bredsted
+Bregnano|IT||9o|3iy|p6|1f
+La Bresse|FR||9k|3pc|j2|1f|Bresse
+Brech|FR||9k|3ok|-8c|1f|Brec'h
+Breslau|CA||59|3cr|-67e|1f
+Maasbree|NL||8m|3yo|gt|1e|Bree
+Breakeyville|CA||59|3lo|-5hu|1e
+Breitscheid|DE||8r|3wt|mr|1e
+Brent|US|Alabama|2f|2ji|-6q4|1d
+Breckenridge|US|Colorado|2p|31o|-86k|1d|Breckinridge
+Brejinho de Nazaré|BR||1k|-uk|-3qx|1c
+Breckenridge Hills|US||2f|2zj|-6z1|1b
+Breitengüßbach|DE||8r|3ut|u9|1a
+Brezová pod Bradlom|SK||8s|3r6|1cq|1a
+Bremen|US|Indiana|38|375|-6nb|1a
+Brebières|FR||9k|3vt|8e|19
+Breese|US||2f|2z9|-6wp|19
+Breteuil|FR|Hauts-de-France|9k|3tv|6e|18
+Breitungen|DE|Thuringia|8r|3x0|sp|18
+Breskens|NL||8m|3ys|9w|17|Bresjes
+Bretteville-sur-Odon|FR||9k|3sl|-16|17
+Breña Baja|ES||83|27j|-1df|16
+Brîtel|LB||64|2m9|2sf|16|Breîtel;Brītāl
+Bréal-sous-Montfort|FR||9k|3ph|-57|16|Breal-Moñforzh;Breallum Monteforti
+Brevoort Park|CA||4q|40r|-885|16
+Breinigsville|US||48|34m|-5u3|15
+Breakfast Point|AU||8l|-2m0|bnr|15
+Brewerton|US||48|3c4|-5vi|14
+Breznik|BG||9v|3aq|1rn|14|Brjeznik;Bresnik;Bryeznik
+Brezniţa Ocol|RO||8u|3g3|1qu|14|Bresniţa-Ocol
+Breezand|NL||8m|42x|dc|13
+Bresles|FR||9k|3t9|69|13|Brèle
+Brædstrup|DK||8y|4bh|qp|13|Bredstrup
+Brejo do Piauí|BR||2w|-mt|-3az|13
+Breasta|RO||8u|3f5|1ts|13
+Breuna|DE||8r|3yu|pj|13|Brüne
+Breţcu|RO||8u|3jx|212|13|Bereczk
+Breteuil|FR|Normandy|9k|3rn|2k|11
+Brendola|IT||9o|3ic|vs|11
+Březnice|CZ|Central Bohemia|9m|3to|12r|11|Březnitz
+Breytovo|RU||9i|4hy|2x6|10|Brejtovo
+Breno|IT||9o|3jo|sn|10
+Breda|ES||9d|37z|74|10
+Laajalahti|FI||92|4n8|1ww|10|Bredviken;Breda;Bredvik;Laajis;Laajuski;Lajuski
+Brévet|CI||0|fy|-e9|10
+Breitenbrunn|DE|Bavaria|8r|3t4|xe|z
+Brienne-le-Château|FR||9k|3qf|cl|z|Breonna
+Brentwood|US|New Hampshire|48|3be|-5hf|y
+Bretignolles-sur-Mer|FR||9k|3lj|-56|x
+Breckenridge|US|Minnesota|2f|3ki|-7gb|x
+Breteil|FR||9k|3pr|-5a|w|Brezhiel;Bretolium
+Breitenbach|CH||a7|3np|kz|w
+Brezovica pri Ljubljani|SI||9a|3ju|141|w|Brezovitsa pri Lyublyana
+Brentwood|US|Maryland|48|306|-5xs|w
+Breaza|RO|Buzău County|8u|3ha|21p|v
+Bruinisse|NL||8m|3zi|bd|v|Breinisė;Bru
+Breuil-le-Vert|FR||9k|3t4|6s|v
+Brebbia|IT||9o|3jb|o1|v
+Bream|GB||9b|3zr|-76|u
+Brehna|DE||8r|3z8|xx|u
+Svortland|NO||9j|4m3|ed|t|Bremnes
+Breendonk|BE||8t|3xs|c0|t|Breendonck
+Brebeni|RO||8u|3f9|1vx|t
+Bregovo|BG||9v|3en|1qw|t|Bregowo;Brjegovo;Bryegovo;Bryagovo
+Brebu Megieșesc|RO||8u|3hh|1zl|t
+Bressols|FR||9k|3e5|3q|t|Breçòls
+Brescello|IT||9o|3gq|t7|s
+Březová|CZ|Carlsbad Region|9m|3vb|z5|s
+Brendale|AU||8c|-23w|bsy|r
+Bressana|IT||9o|3h8|pd|r
+Bréhal|FR||9k|3ru|-47|r|Brhal
+Brégbo|CI||0|eq|-am|r
+Brewood|GB||9b|42c|-61|q
+Brejo Alegre|BR||4w|-1mt|-3vf|q
+Bredeweg|NL||8m|3zs|gi|p|Breedeweg
+Breaza|RO|Mureș County|8u|3lx|1wf|p
+Breda|IT||9o|3j0|y9|p
+Merlevenez|FR||9k|3om|-8z|p|Brelevenez
+Bretzenheim|DE||8r|3uk|ly|p
+Brezoaia|RO||8u|3fs|1zn|p
+Brembio|IT||9o|3hl|ql|o
+Breklum|DE||8r|47o|oy|o|Brääklem
+Brenzone|IT||9o|3iy|tw|o
+Brewster|US|Washington|3p|3pm|-98q|o|Bruster
+Breezy Point|US||2f|3lf|-79q|o
+Breuillet|FR|New Aquitaine|9k|3ix|-2x|n
+Brécey|FR||9k|3rc|-39|n|Brcey
+Brewster|US|New York|48|370|-5oi|n
+Brains|FR||9k|3n1|-4s|n|Brenn
+Brenouille|FR||9k|3sz|72|n
+Breitenbrunn|DE|Bavaria|8r|3pp|sw|n
+Bretteville-l'Orgueilleuse|FR||9k|3sp|-1f|n
+Breaza de Jos|RO||8u|3hh|1zc|n|Brazi de Jos
+Breitenworbis|DE||8r|3yt|sz|n
+Brembilla|IT||9o|3ja|qo|m|Brembila
+Brejning|DK||8y|4an|qv|m|Bregning
+Bregana|HR||a6|3jc|17l|m
+Breuil-le-Sec|FR||9k|3t5|6t|m
+Brewster|US|Ohio|48|353|-6ao|m|Brewester
+Breitenberg|DE||8r|3ra|12b|m|Breitenburg
+Breitenbach am Inn|AT||a2|3nw|x9|l
+Breil-sur-Roya|FR||9k|3e2|kv|l|Brelh;Brelium;Brelh de Ròia;Brej sla Roya
+La Chapelle-Thouarault|FR||9k|3po|-57|l|Bredual
+Brenas|PR||4m|1fb|-54a|l
+Heroyiv Mariupolya|UA||98|3sd|2ku|l|Heroiv Mariupolia;Heroiv Mariupolya;Brest;Mikrorayon Brest;Mikroraion Brest;Heroiv Bresta;Heroyiv Bresta
+Bréviandes|FR||9k|3q2|be|l|Bréviande
+Brewster Hill|US||48|372|-5og|l
+Brennero|IT||9o|3ml|vz|l|Brenner
+La Brecha|MX||3x|1yh|-8d6|l|Brecha
+Breckinridge Center|US||2f|2wo|-6s2|l
+Brennero - Brenner|IT||9o|3me|vs|l
+Brentwood|AU||8k|-2h0|8xt|k
+Brea de Aragón|ES||9d|37c|-4g|k
+Brewster|US|Massachusetts|48|380|-5eo|k
+Breitenbach|DE|Hesse|8r|3xk|r6|k
+Brezovo|BG||9v|39n|1xo|j|Brezowo;Bresowo;Brjesovo;Bryezovo
+Breitenbrunn|AT||a2|3p6|1ah|j|Fertőszéleskút;Patipron
+Bredon|GB||9b|40j|-5w|j
+Breckenridge Greens|CA||2s|44o|-8rs|j
+Breitnau|DE||8r|3p5|mg|j
+Bredsten|DK||8y|4aq|q3|j
+Brentonico|IT||9o|3ja|ug|i
+Brekstad|NO||9j|4wx|qv|i|Brekkstad;Brokstad
+Brennberg|DE||8r|3sb|yg|i
+Brevik|SE|Stockholm|9w|4ki|1f2|i|Bredvik
+Brenno Useria|IT||9o|3je|oo|i
+Brenta|IT||9o|3jh|o4|i
+Breitenfelde|DE||8r|44x|tj|i
+Brens|FR|Occitanie|9k|3dx|5b|i
+Brezolles|FR||9k|3r9|2z|i
+Brezniţa-Motru|RO||8u|3ft|1si|i|Breşniţa-Motru
+Bréval|FR||9k|3rz|49|h
+Breese|DE||8r|438|ws|h
+Breaza|RO|Suceava|8u|3oa|1yc|h
+Brékoua|CI||0|h5|-g5|h
+Brette-les-Pins|FR||9k|3p3|y|g
+Breza|SK||8s|3t7|1hu|g
+Brey|DE||8r|3vn|l7|g
+Brezoaele|RO||8u|3fu|1zh|g
+Breitenau|AT||a2|3ol|18u|g
+Bretteville-sur-Laize|FR||9k|3s8|-x|g
+Brécé|FR|Brittany|9k|3pn|-44|g|Brec'heg
+Březolupy|CZ||9m|3sg|1cu|g
+Bredaryd|SE||9w|4et|126|f
+Brewers Hill|US||48|314|-5wo|f
+Březí|CZ|South Moravian|9m|3rm|1a1|f
+Breiholz|DE||8r|46l|qg|f
+Brehuiești|RO||8u|3oi|21q|f
+Březová nad Svitavou|CZ||9m|3tw|19w|f
+Brela|HR||a6|3ch|1b1|f
+Brezje|HR|Zagreb County|a6|3j7|17v|f
+Březová-Oleško|CZ||9m|3un|141|f
+Brézins|FR||9k|3hz|er|e
+Bremen|US|Ohio|48|32a|-6cz|e
+Bressler|US||48|33r|-5xe|e
+Bredebro|DK||8y|48x|oj|e
+Breitbrunn|DE|Bavaria|8r|3pg|xr|e
+Breitenwang|AT||a2|3nx|tt|e
+Brenna|IT||9o|3j2|pj|e|Brena
+Bredevoort|NL||8m|40a|ie|e|Brādford;Breevoort
+Brentino Belluno|IT||9o|3iu|u9|e
+Brézé|FR||9k|3n1|-6|e
+Bresternica|SI||9a|3ld|17a|e|Brestrnica
+Bretoncelles|FR||9k|3qj|2h|e
+Brenderup|DK||8y|4a4|rq|e|Brænderup
+Brêmes|FR||9k|3x9|5i|e
+Bretenoux|FR||9k|3gs|54|d|Bertenons;Bertenor
+Breíl|CH||a7|3lx|p6|d|Brigels
+Breuil-Magné|FR||9k|3jq|-2o|d
+Brekov|SK||8s|3rv|1oo|d
+Bréhand|FR||9k|3qg|-75|d|Brehant-Monkontour
+Bredenbek|DE||8r|46w|rf|d
+Breb|RO||8u|3on|1ue|d
+Březová|CZ|Moravian-Silesian Region|9m|3ub|1dn|d|Briesau
+Breckenridge|US|Michigan|2q|3cl|-6in|d
+Breitenthal|DE||8r|3q0|sm|d
+Brebu|RO|Caraș-Severin County|8u|3i6|1p3|d
+Brent Knoll|GB||9b|3yd|-88|d
+Bretteville-du-Grand-Caux|FR||9k|3tz|14|d
+Bressa|IT||9o|3jv|10j|c
+Breddorf|DE||8r|441|p8|c
+Březno|CZ|Ústí nad Labem Region|9m|3w0|11a|c|Priesen
+Bressanvido|IT||9o|3it|wb|c
+Bredbyn|SE||9w|4w9|1eb|c
+Brenno|PL||a5|408|191|c
+Brehme|DE||8r|3z1|ss|c
+Breuilpont|FR||9k|3s0|3z|c
+Brenchley|GB||9b|3y3|14|c
+Breuschwickersheim|FR||9k|3qy|l4|c
+Brewarrina|AU||8l|-2b8|bby|c
+Březina|CZ||9m|3sw|1aj|b
+Březnice|CZ|Zlín|9m|3sn|1d2|b
+Breaza|RO|Bistrița-Năsăud County|8u|3nj|1uu|b
+Bréauté|FR||9k|3tv|14|b
+Březová|CZ|Zlín|9m|3rx|1da|b
+Breitbrunn|DE|Bavaria|8r|3uy|tq|b
+Breitenborn|DE||8r|3vm|pj|b
+Breazu|RO||8u|3n5|24g|b
+Brekendorf|DE||8r|476|qr|b
+Breugel|NL||8m|3z4|fb|b
+Breitenburg|DE||8r|45r|ql|a
+Breddin|DE||8r|42x|xy|a
+Breitenbach|DE|Thuringia|8r|3wt|t5|a
+Breitscheidt|DE||8r|3wz|l9|a|Breitscheid
+Brezza|IT||9o|367|137|a
+Bretteville|FR||9k|3tx|-49|a
+Brébeuf|CA||59|3k0|-5rg|a
+Brades|MS||46|1an|-4st|a|Breyds;Breidsas
+Brezovica|RS|Central Serbia|8q|3dj|1kp|a
+Brezovica|RS|Central Serbia|8q|3bb|1pm|a
+Bretagne-de-Marsan|FR||9k|3dt|-1a|a
+Brezovac|HR||a6|3jf|1as|a
+Brestanica|SI||9a|3js|170|a
+Bressolles|FR|Auvergne-Rhône-Alpes|9k|3l9|98|a
+Breakwater|AU||8j|-2y2|b51|a
+Brebina|RO||8u|3ep|1xd|a
+Breinigerberg|DE||8r|3wy|hc|a|Braynigerberq;Brainigerbergs;Braynigeberg;Breenijerberch;Brenijerberg
+Breg pri Polzeli|SI||9a|3kj|15x|a
+Břest|CZ||9m|3t3|1cg|a
+Brezzo di Bedero|IT||9o|3jq|o8|a
+Brestovec|SK||8s|3rj|1ct|9
+Břehy|CZ||9m|3v1|17a|9
+Břežany|CZ||9m|3rr|19e|9
+Břežany II|CZ||9m|3v5|155|9|Břežany
+Bremond|US||2f|2el|-7gk|9
+Brettin|DE||8r|41n|xu|9
+Breitenbach-Haut-Rhin|FR||9k|3pe|jq|9|Niederbreitenbach
+Brëkhovo|RU||9i|4bd|2vb|9
+Bredsand|SE||9w|4li|1bf|9
+Brezje pri Grosupljem|SI||9a|3jn|14o|9
+Bremm|DE||8r|3v6|js|9
+Bregano|IT||9o|3jb|o5|8
+Brodick|GB||9b|4ae|-eb|8|Breadhaig
+Brest|DE||8r|44h|q2|8
+Bréhémont|FR||9k|3nd|10|8
+Brecé|FR|Pays de la Loire|9k|3qg|-27|8
+Bremen|US|Maine|48|3e8|-5cv|8
+Breme|IT||9o|3hd|nz|8|Bräm
+Brestača|HR||a6|3i0|1b4|8
+Bresson|FR||9k|3he|fz|8
+Bretigny|FR||9k|3no|e6|8
+Brens|FR|Auvergne-Rhône-Alpes|9k|3j1|ft|8
+Bréville-sur-Mer|FR||9k|3rr|-4c|8|Brville-sur-Mer
+Brecciaro|IT||9o|37n|11f|8
+Bretenière|FR||9k|3n8|e7|8
+Breadsall|GB||9b|433|-41|8
+Breddenberg|DE||8r|433|l5|8
+Brevörde|DE||8r|408|q6|8
+Brélès|FR||9k|3qo|-d3|8|Brelez
+Breda Cisoni|IT||9o|3h1|t9|8
+Breitenwaida|AT||a2|3qs|18n|8
+Breege|DE||8r|47p|114|8
+Breuches|FR||9k|3os|hl|8
+Breitensee|AT||a2|3q0|1aw|8
+Breuvannes-en-Bassigny|FR||9k|3pm|fm|8
+Breuil-Cervinia|IT||9o|3jl|l7|8
+Breznica|HR||a6|3jz|197|7
+Bretzwil|CH||a7|3no|l9|7
+Brenthonne|FR||9k|3kj|hs|7
+La Brée-les-Bains|FR||9k|3jt|-3r|7|Brée-les-Bains
+Breitenau|DE||8r|3wa|ld|7
+Břestek|CZ||9m|3sd|1c8|7
+Březová|CZ|Carlsbad Region|9m|3vg|zr|7
+Brent|US|Oklahoma|2f|2q9|-7bb|7
+Brécy|FR||9k|3mw|7a|7
+Breboia|UA||98|3ph|1vr|7|Breboya;Preboya
+Brebu|RO|Dâmbovița County|8u|3hj|1ye|7
+Bréville-les-Monts|FR||9k|3sr|-n|7|Bréville
+Breitenbach|FR||9k|3qc|k9|7
+Breuil-Bois-Robert|FR||9k|3rz|4s|7|le Breuil-Bois Robert
+Bresega|IT||9o|3hl|w6|7
+Březník|CZ||9m|3sl|18z|7
+Breedon on the Hill|GB||9b|42o|-3w|7
+Bregi|HR||a6|3hz|13q|7
+Brezje|HR|Međimurje|a6|3ky|19j|7
+Brenda|US||4i|2lk|-8si|7
+Bretsch|DE||8r|42s|wb|7
+Brevans|FR||9k|3mu|fc|7
+Breg|SI||9a|3kw|139|7
+Breuil-Barret|FR||9k|3ll|-1w|7
+Belvì|IT||9o|330|pi|7|Brevìe;Brebì
+Bretea Mureșană|RO||8u|3jm|1r3|7
+Březí|CZ|Central Bohemia|9m|3ux|14u|7
+Bretleben|DE||8r|3yl|v7|7
+Breitenmatt|CH||a7|3nc|oo|7
+Bressolles|FR|Auvergne-Rhône-Alpes|9k|3jf|e6|6
+Brezovica|HR||a6|3j1|187|6
+Březůvky|CZ||9m|3sj|1d6|6
+Breusivka|UA||98|3sj|2mh|6|Breusovka
+Breaza|RO|Brașov County|8u|3iz|1x4|6
+Březno|CZ|Central Bohemia|9m|3w1|15p|6
+Breesport|US||48|395|-5x5|6
+Bretignolles|FR||9k|3m6|-1p|6|Brétignolle
+Brégnier-Cordon|FR||9k|3is|fm|6
+Brebi|RO||8u|3n5|1sg|6|Brebu
+Brestov|SK||8s|3s0|1ot|6
+Breške|BA||9r|3fx|1ft|6
+Bréxent-Énocq|FR||9k|3wb|4t|6
+Brestovac|HR||a6|3hx|1cw|6
+Brévonnes|FR||9k|3qc|c8|6|Brévonne
+Breesen|DE||8r|44z|10l|6
+Breștea|RO||8u|3hz|1n4|6
+Bregenstedt|DE||8r|415|v6|6
+Bréal-sous-Vitré|FR||9k|3pm|-2y|6|Breal-Gwitreg
+Brevilliers|FR||9k|3o6|iv|6
+Bremen|MX||41|16a|-74j|6
+Brecha 124 con Vía de FFCC|MX||44|207|-7k5|6
+Bressey-sur-Tille|FR||9k|3nf|ee|6
+Brestovac Daruvarski|HR||a6|3iq|1bl|5|Daruvarski Brestovac
+Breguzzo|IT||9o|3jt|tq|5
+Breitenhagen|DE||8r|408|x7|5
+Bréville|FR||9k|3j8|-q|5
+Breddan|AU||8c|-1ji|bad|5
+Breurey-lès-Faverney|FR||9k|3oo|h1|5
+Breznica Našička|HR||a6|3ii|1el|5
+Breitenstein|DE||8r|3ze|uf|5
+Breitungen|DE|Saxony-Anhalt|8r|3z2|up|5
+Brezje|SI||9a|3kp|13j|5
+Bren|FR||9k|3he|dr|5
+Brégy|FR||9k|3sc|7z|5

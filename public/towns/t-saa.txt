@@ -1,0 +1,63 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sarajevo|BA||9r|3dt|1f0|5dj|Saraxevo;Sarajeva;Sarajewo;Saraybosna;Szarajevó;Sarajevas;Sarayevo;Saarayego;Seraium;Serayevo;Sarayevu;Sairéavó;Sarajevs;Saraevo;Sarajevu
+Halle (Saale)|DE||8r|3z0|xa|1u3|Halle;Halle sul Saale;Halle an der Saale
+Saarbrücken|DE||8r|3sr|jh|1eu|Sarrebruck;Sarbrukeno;Saarbrécken;Sarëbryken;Saravipons;Sarbriukenas;Zārbrikene;Saarbrigge;Sárbrúch;Saarbrükken;Zaarbrükken;Saarbruecken
+Saaba|BF||1a|yd|-3x|11s|Saba
+Saanich|CA||5b|3qv|-9ip|wp
+Bou Saâda|DZ||3|2pt|bl|v2|Bu Sada;Bou Sada
+Pushkin|RU||9i|4lv|2cg|pt|Puschkin;Tsarskoye Selo;Pusjkin;Saari;Šuari
+Sa'dah|YE||5r|1b2|3dk|ef|Sa'da;Sada;Sadah;Caadah;Sadaa;Saada
+Sanok|PL||a5|3to|1pp|b1|Sanocum;Saanig;Sunok
+Saarlouis|DE||8r|3sz|ir|an|Sarrelouis;Sarljo
+Saalfeld|DE||8r|3wp|vl|7s
+Saaxo|SO||14|it|3m0|78|Saaho;Saxo
+Sarreguemines|FR||9k|3sf|jn|6s|Saargemünd;Germunda;Sarrequemines;Saargemuend
+Saatlı|AZ||61|32x|3qd|5n|Saatly
+Žďár nad Sázavou|CZ||9m|3to|18a|5m|Ždiaras prie Sazavos;Zdziar nad Sazawą;Zdar;Sar;Ždjāra pie Sāzavas;Saar
+Žatec|CZ||9m|3vt|11n|5a|Saaz
+Sa‘ādat Shahr|IR||7o|2bk|43l|4r
+Saalfelden am Steinernen Meer|AT||a2|3nr|zp|4o|Saafelden;Salfelden;Saalfelden
+Sarrebourg|FR||9k|3re|jm|43|Saarburg;Saraburgum;Sarrebourc
+Saarwellingen|DE||8r|3t3|iw|3s|Sarrevailingue;Vailingua
+Saavedra|CL||4u|-2zr|-5nw|36
+Saarenkylä|FI|Lapland|92|54s|1zl|2i
+Saman|GH||1|hk|-1e|2i|Saaman
+Saarijärvi|FI||92|4u6|1y5|2g|Saaijärvi;Sariyarvi
+Saacow|SO||14|4j|39w|27
+Żarów|PL||a5|3xi|19t|1v|Saarau;Žarova;Zarrow;Saaru
+Saanen|CH||a7|3l5|k6|1u
+Saarburg|DE||8r|3tt|i6|1q|Sarrebourg
+Sār|BH||60|20r|3w8|1o|Saar
+Saa|CM||j|c5|vt|1l
+Saal|DE|Bavaria|8r|3ru|x5|1k
+Goy-Chu|RU||9i|3bm|3ip|1k|Baçin-Khotar;Goj-Ču;Ġoyçu;Komsomol’skij;Komsomol’skoe;Saadi-Xutor;Saydin-Khotar;Goichu
+Saanich Core|CA||5b|3ql|-9ip|1j
+Sarralbe|FR||9k|3s4|jj|1b|Saravi Alba;Saaralben
+Şag|RO|Timiș County|8u|3it|1mu|19|Saág
+Sarre-Union|FR||9k|3ry|jp|10|Saarunion;Buckenum;Saar-Buckenheim;Saar-Union
+Shaami-Yurt|RU||9i|3c3|3i3|w|Sjaami-Jurt;Šaami-Jurt;Şaman-Yurt;Şawmin-Yurt;Zelënaja Rošča;Shama-Yurt;Zelenaya Rosha;Shaman-Yurt
+Saara|DE|Thuringia|8r|3xh|yi|w
+Saaban|PH||71|10h|9d5|p
+Saavedra|PH||71|rr|9ip|m
+Zalewo|PL||a5|45l|1ih|l|Saalfeld;Zalevo
+Saâcy-sur-Marne|FR||9k|3s0|8x|j
+Saalbach|AT||a2|3nn|z4|i
+Saarhölzbach|DE||8r|3tk|id|h
+Saas-Fee|CH||a7|3k3|m1|g|Saas Fee
+Saaguikro|CI||0|km|-cw|g
+Saal an der Saale|DE||8r|3vs|ss|g|Saal a. d. Saale
+Saanichton|CA||5b|3r0|-9iu|g
+Saal|DE|Mecklenburg-Vorpommern|8r|46v|yq|e
+Saarenkylä|FI|South Karelia|92|4r9|2an|d
+Saas-Grund|CH||a7|3k4|m2|b
+Saales|FR||9k|3qb|jr|9
+Sa‘ar|IL||6n|2jr|2pj|9
+Sa‘ad|IL||6n|2ff|2nx|9
+Sarraltroff|FR||9k|3ri|jm|8|Saaraltdorf
+Saalburg|DE||8r|3wa|wl|8
+Saas im Prättigau|CH||a7|3mb|r9|7|Sausch
+Saara|DE|Thuringia|8r|3x9|x9|7
+Saasveld|NL||8m|41d|ix|7
+Undersåker|SE||9w|4vw|10t|6|Såahka
+Sa’asa’ai|WS||aj|-11w|-dab|5|Sasaai
+Saasenheim|FR||9k|3q0|l6|5|Sààse

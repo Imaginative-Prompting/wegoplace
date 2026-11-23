@@ -1,0 +1,969 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Columbus|US|Ohio|48|330|-6ek|71o|Kolumbas;Kolumbus;Kolumbusa;Kolumbu;Kolumbs;Columbopolis;Kolumbo
+Culiacán|MX||3x|1ww|-8ab|68k|Kuljakanas;Cōlhuahcān Rosales;Kulyakan;Cuilacan
+Calumbo|AO||x|-pf|11a|517|Kalumbo;Columbo;Catumbo
+Colombo|LK||68|ja|65t|500|Kolombo;Kolombas;Kolonbo;Columbum;Columbo
+Santo Domingo de los Colorados|EC||33|-p|-63y|3je|Santo Domingo
+Colorado Springs|US||2p|2zv|-836|3iu|Kolorado Springsas;Kolorādospringsa;Fontes Coloratenses;Kolorado Sprinqs;Colorado Spgs
+Keelung|TW||7l|1xt|9e6|2sp|Chilung;Cơ Long;Kî-lùng-sṳ;Giĕ-lè̤ng;Ťi-lung;Ke-lâng-chhī;Chi-lung
+Cholula|MX||41|1gy|-7l2|29d|Čolula;Cholollan
+Colonia del Valle|MX||41|1hv|-7ng|1xg|Col. del Valle;Col del valle;del Valle
+Colombo|BR||4w|-1y9|-3sq|1si
+Columbus|US|Georgia|48|2i6|-6k3|1lh|Kolumbas
+San Luis Río Colorado|MX||37|2i6|-8ut|1d3
+Fort Collins|US||2p|34r|-83w|1bh|Fort Kolinsas;Ft Collins
+Kolomna|RU||9i|48z|2zq|151|Columna
+Colima|MX||41|1hg|-803|14u|Kolima
+Colina|CL||4u|-2k8|-5gb|14m|Kolina
+Columbia|US|South Carolina|48|2mg|-693|13k|Kolumbija;Kolumbia;Kuolumbėjė;Kolumbiya
+Colchester|GB||9b|405|2i|106|Colneceaster;Camulodunum;Kolčesteris;Kolčestera
+Columbia|US|Missouri|2f|307|-74h|zx
+Colatina|BR||4w|-1ia|-34v|zx|Kolatina;Collatina
+Santa Coloma de Gramenet|ES||9d|375|65|x0
+Sutton Coldfield|GB||9b|421|-52|uj|Saton Koldfildas;Sutton Magna;Satton-Koldfield
+College Station|US|Texas|2f|2d3|-7fl|tz
+Calasiao|PH||71|18h|9ac|rz|Colasiao
+Colonia Lindavista|MX|México|41|1i5|-7nc|rs|Col. Lindavista;Col Lindavista;Lindavista
+Columbia|US|Maryland|48|310|-5xg|ro
+Colombes|FR||9k|3rw|69|mv|Kolombas;Columbae
+Colón|PA||4g|q0|-65y|lo|Kolonas;Kolona
+Osijek|HR||a6|3ij|1fx|kz|Colonia Aelia Mursa;Mursa;Eszék;Mursia;Essek
+K’olīto|ET||2|kc|2xs|k2|Golito;Colito
+Colmar|FR||9k|3pk|kg|i6|Koimar;Kolmara;Kolmar
+Colón|CU||36|1r4|-68q|hr|Kolonas
+Collado-Villalba|ES||9d|34w|-b4|hj|Collado Villalba
+Colón|VE||2c|mb|-5kq|hd
+Kolomyia|UA||98|3qs|1xk|gw|Kolomea;Kołomyja;Kolomeo;Colomeea;Kolomija
+Colonia Nativitas|MX||41|1hu|-7ne|go|Col. Nativitas;Col Nativitas;Nativitas
+Cerro de Pasco|PE||3o|-tn|-5vt|gd|Collis Pasca;Pasqu qullu;Sero de Paskas;Pasqu urqu;Serro de Pasko
+Colón|AR|Entre Rios|1n|-2hi|-4hi|g6|Kolon
+Kollegāl|IN||6t|xr|5y7|fv|Collegal
+Colegiales|AR||1l|-2o1|-4id|fu
+Colton|US|California|3p|2mn|-91v|f6|Tóhózhǫ́
+Colcapirhua|BO||3n|-1cb|-540|en|Kolkapirua;Qullqapirwa;Colcapirua
+Collierville|US|Tennessee|2f|2pc|-6x2|dl
+Colonia del Sol|MX||3x|1rn|-8hd|dc
+Colomba|GT||32|14v|-72t|d7
+Şebin Karahisar|TR||94|33x|2yq|d6|Şebinkarahisar;Koloneia;Colonia
+Columbus|US|Indiana|38|30w|-6mo|cz
+Collegno|IT||9o|3h8|l1|cx|Colegn
+Cologno Monzese|IT||9o|3ih|ps|cq
+Colmenar Viejo|ES||9d|34y|-ah|c5
+State College|US||48|35b|-60a|bq|Collegium Civicum;Steyt-Kollec
+Colinas|BR|Maranhão|2w|-gr|-3ex|bh
+Colniza|BR||2k|-q5|-4jy|b3
+Doctor Juan Eulogio Estigarribia|PY||1y|-1yh|-4aq|at|Juan Eulogio Estigarribia;Colonia General Alfredo Stroessner
+Columbia Heights|US|District of Columbia|48|305|-5xz|ak|Meridian Hill;Meridian Hill Heights
+Columbia|US|Tennessee|2f|2qy|-6ps|a8
+Luhuan|MO||6y|1pg|8rf|a4|Coloane;São Francisco Xavier
+Colinas do Tocantins|BR||1k|-me|-3qn|a0
+Collinwood|US|Ohio|48|37g|-6al|9i
+Asilah|MA||d|2qj|-gr|9g|Arcila;Colonia Augusti Iulia Constantia Zilil;Augusta Zilil;Assilah;Arzila;Assila;Asila;Arzīlah;Arcilas;Arsila
+Colgong|IN||6t|1y6|6qb|9d
+Colíder|BR||2k|-u2|-4a1|9c
+College Park|US|Maryland|48|30a|-5xq|8z|Saeptum Collegii
+Colonia del Sacramento|UY||45|-2nq|-4go|8y|Kolonija;Colônia do Sacramento;Kolonija del Sakramentas;Sakramento koloniyası;Kolonia del Sacramento;Colonia
+Colomiers|FR||9k|3d5|3p|8q|Colomèrs
+Collo|DZ||3|2ut|i8|86
+Colwyn Bay|GB||9b|441|-ad|85|Bae Colwyn;Kolvin Bėjus;Golfeto de Kolvin
+College Point|US||48|35b|-5p5|7l|Collegepoint
+Colomadu|ID||6l|-kx|8jn|7b|Tjolomadu
+Colón|AR|Buenos Aires|1l|-2m6|-4pq|79|Kolon
+Coleraine|GB||9b|495|-ij|75|Cúil Raithin;Kolreinas
+Colonelganj|IN||6t|23d|6ay|73
+Colleyville|US||2f|2jc|-7hw|73|Coleysville
+Coloncito|VE||2c|n5|-5k9|72
+Collinsville|US|Illinois|2f|2zf|-6xy|6w
+Coronel Brandsen|AR||1l|-2pp|-4hs|6t|Korosel Brandsen;Kornel Brandsen;Kolosel Brandsen;Kolonel Brandsen;Colonel Brandsen;Polkovnik Brandsen;Oberst Brandsen
+Columbine|US||2p|31z|-83v|6r
+Colonia Caroya|AR||1n|-2e6|-4xy|6q
+Colorado|BR|Paraná|4w|-1rg|-40d|6p
+Collipulli|CL||4u|-2xf|-5l7|6h
+Colachel|IN||6t|mq|5ym|6g
+Columbus|US|Mississippi|2f|2l2|-6tn|6g|Kolumbus
+Columbus|US|Nebraska|2f|373|-7ih|6c
+Collingwood|CA|Ontario|59|3fk|-66u|62
+Kola'a|SB||av|-q8|ccd|5s|Cola'a;Koloale;Kola;Kolaa
+Colleferro|IT||9o|37x|104|5r
+Coligny|ZA||o|-215|214|5r
+Colne|GB||9b|45m|-61|5l
+Colombia|CU||36|1mb|-5z3|5l
+Colfontaine|BE||8t|3w1|aq|5k|Colfontinne
+Columbia Heights|US|Minnesota|2f|3h4|-772|5h|Columbia Hts
+Cole Harbour|CA||35|3g3|-4wc|5b
+Columbia City|US|Washington|3p|3o4|-9fo|5a
+Santa Rosa Jáuregui|MX||41|1lm|-7r1|55|Colonia Santa Rosa de Jáuregui;Santa Rosa de Jáuregui
+Colina|BR||4w|-1lj|-3qu|55|Collina
+Colomoncagua|HN||56|12r|-6t8|55
+Colonial Heights|US|Virginia|48|2vj|-5z1|4y
+Colonia|US||48|34p|-5qe|4y
+Colbún|CL||4u|-2r5|-5id|4w
+Colchester|US|Vermont|48|3fq|-5n7|4q
+Colwood|CA||5b|3qj|-9j1|4p
+Colle di Val d'Elsa|IT||9o|3cm|ux|4m|Colle Val d'Elsa
+Cổ Lóa|VN||6h|1mo|863|4l
+Colônia Leopoldina|BR||4p|-or|-2r8|4f
+Colima|CR||2i|ro|-6hk|4f
+Colorado do Oeste|BR||4l|-10g|-4o6|4d
+Colonia Wanda|AR||1n|-205|-47k|4b
+Col. Bosques de las Lomas|MX||41|1hu|-7nr|46|Bosques de las Lomas;Col. Bosques;Colonia Bosques;Colonia Bosques de las Lomas;Col Bosques de las Lomas
+Colesville|US||48|30k|-5xw|42
+College Park|US|Georgia|48|2lh|-6il|42
+Williams Lake|CA|British Columbia|5b|40u|-9fa|3y|Williams;Columetza
+Collingswood|US||48|32w|-5sj|3w
+Columbia|CA||59|3cs|-67p|3s
+Colotlán|MX||41|1pf|-7yv|3p|Cololan
+Colonial Park|US||48|33y|-5xd|3o
+College|US||1h|506|-bek|3m
+Colares|BR||23|-2m|-3q4|3l|Collares
+Okinawa Uno|BO||3n|-1bu|-4uq|3h|Colonia Okinawa
+Colesberg|ZA||o|-2dc|1xq|3g
+Colva|IN||6t|16g|5pc|3c
+Colchani|BO||3n|-1ke|-55x|3c
+Colorado Triangle|US||48|308|-5xz|3a
+Cold Lake|CA||2s|47b|-8i2|38|Kold Leyk;Kold Leikas;Koldleika
+Colonia General Alfredo Stroessner|PY||1y|-1yg|-4ar|38
+Coldstream|CA||5b|3vi|-974|34
+Cologno al Serio|IT||9o|3im|qz|33|Cologno sul Serio
+Coldwater|US|Michigan|2q|38i|-6k4|30
+Collegedale|US||48|2pd|-6k9|2z
+Kola|RU||9i|5bc|2jq|2y|Kuola;Kuâlõk;Guoládat;Cola;Kol
+Colac|AU||8j|-2yi|b2u|2x|Kolakas
+Coll d'en Rabassa|ES||9d|31v|7h|2w|Coll d'en Rebassa
+Columbia|US|Pennsylvania|48|337|-5wi|2w
+Columbia|US|Illinois|2f|2ys|-6yk|2u
+Colts Neck|US||48|33x|-5q1|2t|Colt's Neck;Coles Neck;Calls Neck;Coltsneck
+Collier Row|GB||9b|3zc|h|2t
+Colonia Anáhuac|MX||2g|274|-88j|2s
+Colón|CR||2i|rj|-6i0|2p
+Colimes|EC||33|-4b|-669|2m
+Široki Brijeg|BA||9r|3ci|1cv|2m|Collis Amplus
+Coleford|GB||9b|3zw|-79|2l
+Calca|PE|Cuzco Department|3o|-111|-5jv|2k|Colca
+Collingwood|AU||8j|-2x0|b6r|2k
+Colméia|BR||1k|-o9|-3rg|2k
+Coulounieix-Chamiers|FR||9k|3hg|1x|2j|Colonhés e Champsniers;Colonhés e Champs Niers
+College Place|US||3p|3jx|-94v|2j
+Colonia Nicolich|UY||45|-2oq|-4bm|2h
+Colonia Segovia|AR||1q|-2j9|-5av|2h
+Columbia City|US|Indiana|38|36c|-6lh|2h
+Collingdale|US||48|32v|-5t4|2g
+Columbus|US|New Jersey|48|33b|-5rk|2g
+Colonia Santa Bárbara|MX||41|1i6|-7h4|2e
+Cold Springs|US||3p|328|-99a|2d
+Colonia Rincón Viejo|MX||41|1ax|-7c1|2d|Rincón Viejo
+Col San Martino|IT||9o|3ji|xo|2c
+Colonia Aurora|AR||1n|-24b|-47g|2c
+Colyton|AU||8l|-2lu|bmw|2b
+Colditz|DE||8r|3y1|zk|2a|Koldica
+Colonial Acres|CA||59|3cu|-67o|2a
+Coluna|BR||4w|-1en|-3b0|2a|Columna
+Colonia Emiliano Zapata|MX|Chihuahua|2g|26t|-85d|2a
+Collecchio|IT||9o|3gb|se|28
+Colonie|US||48|3ao|-5p3|27
+Colares|PT||99|2zs|-q9|27
+Collaroy|AU||8l|-2lp|boa|25
+Colipapa|PH||71|qb|9gg|25|Kulipapa;Kalipapa;Culipapa;Calipapa
+Colenso|ZA||o|-27u|2av|25
+Colinton|GB||9b|4bb|-92|24
+Coronel Vidal|AR||1l|-2w1|-4gd|24|Kolonel Vidal;Colonel Vidal;Polkovnik Vidal;Oberst Vidal;Karneli Vidal
+San José el Verde|MX||41|1l4|-7yw|24|Colonia el Verde
+Collado Mediano|ES||9d|351|-b6|23
+College Park|CA|British Columbia|5b|3sw|-9hc|22
+Collie|AU||8k|-2ko|8yo|22
+Colonia|FM||an|qg|ano|22
+el Coll|ES||9d|372|5z|21|Coll
+Collinsville|US|Virginia|48|2u0|-660|21
+Grand Centre|CA||2s|476|-8i5|21|Cold Lake South
+Colico Piano|IT||9o|3k5|q2|20|Colico
+Çolaklı|TR||94|2uc|2f0|20
+Colindres|ES||9d|3ck|-9l|20
+Colmenarejo|ES||9d|34o|-b6|20
+Columbia Hills|CA||59|3cr|-67w|1z
+Colorno|IT||9o|3gt|st|1z
+Cölbe|DE||8r|3x9|oe|1z
+Colombia|CO||27|9e|-5rs|1y
+Cologne|IT||9o|3im|rm|1y
+Collingwood Park|AU||8c|-24p|bsm|1y
+Colón|MX|Querétaro|41|1lq|-7px|1y
+La Colle-sur-Loup|FR||9k|3dd|jq|1y|Sa Còla;Sa Còla de Lop;Colle-sur-Loup
+Colmenar de Oreja|ES||9d|33f|-9f|1y
+Colombiera-Molicciara|IT||9o|3eh|rt|1x
+Colonial Heights|US|Tennessee|48|2td|-6d6|1x
+Colômbia|BR||4w|-1k2|-3r9|1u
+Colina|ES||9d|34e|-a6|1u
+Colombelles|FR||9k|3so|-u|1t
+Collinsville|US|Oklahoma|2f|2t0|-7e8|1t
+Columbiana|US|Ohio|48|35l|-685|1r
+Columbia|US|Mississippi|2f|2et|-6xk|1q
+College Park|CA|Saskatchewan|4q|40s|-883|1q
+Collepasso|IT||9o|33b|1eg|1q|Collepassu
+Cold Spring|US|Kentucky|48|30e|-6ik|1q
+Colônia do Gurguéia|BR||2w|-mq|-3dn|1q
+Colonia Venustiano Carranza|MX|Baja California|58|2hj|-8vx|1p|La Carranza
+Kolonia|FM||bc|jc|c7h|1p|Colonia;Kolonie
+Colusa|US||3p|30x|-9ex|1n|Colusi
+Collombey|CH||a7|3kj|jb|1n
+Colinas del Roble|MX||41|1ky|-7z8|1m
+Coltauco|CL||4u|-2n9|-5hg|1m
+Colovale|IN||6t|17g|5p2|1l|Colvale
+Coldstream Homestead Montebello|US||48|318|-5ws|1k
+Colonia Menno|PY||1y|-1q5|-4m6|1k
+Colorines|MX|México|41|1ha|-7qe|1j
+Colnbrook|GB||9b|3z0|-1g|1j
+Columbio|PH||71|im|9n2|1j
+College Heights|CA||59|3qk|-6vv|1j
+Colceag|RO||8u|3gv|217|1j
+Colby|US|Kansas|2f|31g|-7sp|1i
+Collegeville|US|Pennsylvania|48|33n|-5tl|1h
+Kolinkivtsy|UA||98|3qh|20k|1g|Colencăuţi;Kolinkivtsi
+Colona|US||2f|378|-6yz|1f
+Columbia Falls|US|Montana|2p|3qd|-8t6|1f
+Cold Spring Harbor|US||48|35j|-5o2|1f
+College Park|CN||7i|1qx|8s8|1e
+Columbus|US|Wisconsin|2f|3ce|-6va|1e
+College Park East|CA||4q|40s|-882|1e
+Colby Village|CA||35|3g3|-4wc|1d
+Colonia Venustiano Carranza|MX|Coahuila|44|27k|-7rc|1d
+Cullalabo del Sur|PH||71|1bi|9e2|1d|Collalabo;Cullalabo
+Colinas de Plata|MX||41|1js|-7m9|1d
+Colorado City|US|Arizona|4i|2ur|-8pu|1c|Short Creek
+Cologna Veneta|IT||9o|3hv|vm|1c
+Colchester|US|Connecticut|48|37i|-5kx|1c
+Colle Verde|IT||9o|38m|z2|1c
+Colville|US||3p|3qv|-93j|1b
+Collaroy Plateau|AU||8l|-2lp|bo9|1b
+Colongulo|PH||71|hm|9mg|1b
+Columbia|US|Kentucky|2f|2v2|-6kz|1a
+Colonia Elisa|AR||1n|-22t|-4lc|1a|Koloni Elisa;Koloniya Elisa;Colonie Elisa;Kolonie Elisa
+Coldwater|US|Ohio|48|34g|-6j3|19|Cold Water
+Collbató|ES||9d|37h|53|19
+Colliers|KY||2e|1hq|-699|18
+Colombaro-Timoline|IT||9o|3is|rr|18
+Coleman|US|Texas|2f|2gf|-7o7|18
+Colonia los Ángeles|MX||41|1l2|-7r5|17
+Collebeato|IT||9o|3im|sd|17
+Colleverde II|IT||9o|38m|z3|16
+Columbiana|US|Alabama|2f|2k6|-6ol|16|Columbia
+Colorado City|US|Texas|2f|2hz|-7s6|15
+Cold Spring|US|Minnesota|2f|3ia|-7ab|15
+Colonias Unidas|AR||1n|-226|-4ln|15|Colonia Unidas
+College Park|CA|Ontario|59|3qf|-6w1|15
+Columbus|US|Minnesota|2f|3hr|-76h|14
+Colonia Revolución|MX||2g|26g|-84w|14
+West Columbia|US|Texas|2f|28y|-7dp|13|Columbia
+Campamento Colquiri|BO||3n|-1cb|-56h|13|Colquiri;Qullqiri
+Colomi|BO||3n|-1c7|-52z|13
+Colunga|ES||9d|3ct|-en|13
+Coleyville|JM||3i|1el|-5zb|13
+Colonia Álvaro Obregón Tlalmimilolpan|MX||41|1hu|-7od|12|Colonia Alvaro Obregón;Álvaro Obregón
+Colibaşi|RO|Giurgiu County|8u|3es|20r|12|Cohbasi
+Colonia Lomas de San Ramón (Triquis)|MX||58|2da|-8y8|12
+Colinas del Aeropuerto|MX||44|1zq|-7q2|12
+Colosó|CO||27|qd|-5tb|11
+Collinsville|US|Connecticut|48|385|-5mk|11
+Riachuelo|AR||1n|-24m|-4j6|11|Colonia Nueva Valencia
+Colonia 2 de Septiembre|MX||41|1iq|-7nc|11
+Columbus|US|Texas|2f|2aj|-7g6|10|Colombus
+Colonna|IT|Lazio|9o|387|zf|10
+Colonias Nuevo México|MX||41|1mb|-7tw|10|Colonia Nuevo México;Colonias de Nuevo México
+Colonia Benítez|AR||1n|-23x|-4jr|10
+Colonial Beach|US||48|2y9|-5xs|10
+Colonia el Salado|MX||41|1ie|-7mz|10
+Colotlipa|MX||41|1cd|-7nh|z
+Collesalvetti|IT||9o|3d3|t4|z
+Collegeville|US|Minnesota|2f|3in|-7a4|z
+Colonia Lealtad|MX||41|1dw|-7bm|z
+Collonges-sous-Salève|FR||9k|3k6|h3|z|Collonge-sous-Salève
+Colbitz|DE||8r|41c|w9|y|Kolbitz
+Colden Common|GB||9b|3xn|-3n|y
+Collesano|IT||9o|2xc|12q|y|Gulisanu
+Kolonowskie|PL||a5|3wp|1f2|y|Colonnowska;Kolonovske
+Colonia Santa Cecilia (La Sauceda)|MX||41|1n1|-7wb|y
+Colonia Lázaro Cárdenas (Los Hornos)|MX||41|1ij|-7nf|x
+Colombier|MF||3u|1e7|-4v6|x
+Colinas de Santa Cruz Segunda Sección|MX||41|1la|-7r3|x
+Colonia Barón|AR||1s|-2sf|-4xe|x
+Colonia Libertad|MX|Veracruz|41|1io|-7i1|x
+Colonia Gustavo Baz Prada|MX||41|1hy|-7n1|x
+Colón|CO||27|3b|-5xt|x
+Collégien|FR||9k|3ro|7f|x
+Colorado|BR|Rio Grande do Sul|4w|-278|-437|x
+Colonia Nueva Era|MX||58|2cr|-8y0|x
+Colonel Light Gardens|AU||8b|-2p7|ap0|w
+Colonia Valdense|UY||45|-2ne|-4f2|w|Valdense
+Colmenar|ES||9d|2uj|-c2|w
+Colonia Emiliano Zapata|MX|México|41|1hv|-7oh|w
+Colombella|IT||9o|3bv|yo|w
+Colomars|FR||9k|3dk|k2|w
+Collioure|FR||9k|3a4|8k|w|Cotlliure;Colliure
+Santiago Coltzingo|MX||41|1hu|-7lp|w|Coltzingo
+Columbus|US|Kansas|2f|2v9|-7bg|v
+Colonia los Cedros|MX||41|1hn|-7oi|v
+Coles|ES||9d|39s|-ls|u
+Colonia Vista Bella (Lomas del Peaje)|MX||41|1i5|-7u7|u
+Collingham|GB||9b|45r|-3x|u
+Cologna Spiaggia|IT||9o|3ao|12u|u
+Culacling|PH||71|12a|9hc|u|Colacling
+Colonia las Flores|MX||41|1nc|-7jd|u
+Colonia Morelos|MX|México|41|1hg|-7p3|t|Ejido San Juan de las Huertas
+Colònia de Sant Jordi|ES||9d|318|8b|t|Colonia de San Jorge;Colonia Sant Jordi
+Colonia la Asunción|MX||41|1ip|-7n6|t
+Colayrac-Saint-Cirq|FR||9k|3eu|1j|t
+Colfax|US|Washington|3p|3m8|-920|t
+Colonias Pedernales|MX||41|1jp|-7hl|s
+Colonia Neuland|PY||1y|-1qz|-4n0|s
+Colotepec|MX||41|1bc|-7nl|s
+Colonia Juárez|MX|Oaxaca|41|191|-7bz|s
+Colonia Nueva Coneta|AR||1m|-27e|-52w|s
+Colorines|MX|Veracruz|41|1gg|-7he|s
+Colonia Teñhe|MX||41|1k3|-7ni|s|Teñhé
+Colonia San Luis Rey|MX||41|1m6|-7ru|r
+Colonia Progreso|MX||41|1ao|-7c4|r
+Colonia Agrícola México (Palmitas)|MX||3x|1xr|-8bu|r
+Colyton|GB||9b|3wy|-8j|r
+Colonia Venustiano Carranza|MX|Tlaxcala|41|1hw|-7ke|r
+Colonia|PH|Autonomous Region in Muslim Mindanao|71|ig|9fc|q
+Colucan|MX||41|1ff|-7lk|q
+Collins|US|Mississippi|2f|2fx|-6ws|q
+Colerne|GB||9b|3yw|-6a|q
+Colonia Morelos|MX|México|41|1ik|-7ny|q
+Colwyn|US||48|32v|-5t1|q
+Provideniya|RU||5u|4yy|-dd7|p|Providenija;Prowidenija;Providenia;Provigyenyija;Colonia Providentiae;Prowidienija
+Collefontana-Fontana Liri Inferiore|IT||9o|37l|11n|p
+Colonial Pine Hills|US||2p|3e9|-7z0|p
+Colipa|MX||41|1jc|-7gp|p
+Colwich|GB||9b|42n|-5i|p
+Colchester|ZA||o|-2ll|1zq|p
+Culasian|PH||71|vf|9m5|p|Gulasian;Colasian;Kulasian
+Colonia Paraíso Escondido|MX||3x|1mh|-84c|p
+Colonia Emiliano Zapata Ejido de Tenancingo|MX||41|1gn|-7ok|p
+Colinas|BR|Rio Grande do Sul|4w|-29n|-403|o
+Colonia San Isidro|MX|Tlaxcala|41|1hx|-7kj|o
+Colonia Dora|AR||1n|-27g|-4uv|o
+Colonia las Malvinas (Colonia Antorcha)|MX||41|1j8|-7vz|o
+Colonia Mauricio José Troche|PY||1y|-1z1|-4cc|o
+Colonia Campesina|MX|Chihuahua|2g|266|-855|o
+Colombiers|FR|Occitanie|9k|3cb|8q|n
+Colugna|IT||9o|3k1|10o|n
+Colstrip|US||2p|3jg|-886|n|Ho'óseo'hé'e
+Colchester|CA||59|38m|-6ed|n
+Colonia Río Lerma (Tic Ti)|MX||41|1j1|-7pi|n
+Colonia Ricardo Flores Magón|MX||41|1hj|-7p4|n
+Coltishall|GB||9b|42h|3t|n
+Colognola ai Colli|IT||9o|3i7|v2|n
+Colonia Guadalupe Victoria (La Capilla)|MX||41|1hw|-7o9|n
+Columbia|US|California|3p|2xo|-9ag|n
+Collingwood|CA|Alberta|2s|3xw|-8sy|n
+Colleville-Montgomery|FR||9k|3sw|-u|n
+Colonia San Ramón|MX||41|1gp|-7ol|n
+Colonia|PH|Central Visayas|71|tm|9jv|n|Kolonia
+Collantes|MX||41|18z|-7k5|m|Coyantes
+Cold Ash|GB||9b|3yu|-3i|m
+General Calixto Contreras|MX||44|1vv|-811|m|Colorada
+Coldstream|AU||8j|-2ws|b7u|m
+Colonia Victoria|AR||1n|-215|-47q|m
+Colorado City|US|Colorado|2p|2xf|-838|m
+Coloneşti|RO|Olt|8u|3g1|1wj|m
+Colonia Morelos (El Nueve)|MX||41|1k7|-7ne|m
+Coloneşti|RO|Bacău County|8u|3ld|23u|m
+Colloredo di Monte Albano|IT||9o|3k8|10i|m
+Colmberg|DE||8r|3t3|sx|l
+Colonia el Renacimiento|MX||41|1he|-7fa|l
+Colletorto|IT||9o|37q|15l|l
+Calinaoan Malasin|PH||71|1c7|9e6|l|Colinauan;Calinauan;Calinaoan
+Colonia 18 de Marzo|MX||41|1l4|-7so|l
+Columbus Grove|US||48|35o|-6hi|l
+Colfax|US|Iowa|2f|37s|-771|l
+Colonia Felipe Ángeles|MX|Hidalgo|41|1jp|-7le|k
+Columbus|US|Montana|2p|3is|-8fh|k
+Colonia Bod|RO||8u|3j4|1z4|k
+Colonia San Lorenzo|PY||1y|-21l|-488|k
+Coleraine|US||2f|3nd|-77j|k
+Colfax|US|California|3p|30m|-9bz|k
+Colonia Hidalgo|MX|Durango|44|1v4|-82i|k|Hidalgo
+Coldstream|ZA||o|-2mc|1tw|k
+Colonia Montemariana (Colonia Mariana)|MX||41|1st|-7yf|k
+Collinsville|US|Alabama|2f|2n6|-6mi|k
+Colonia Latinoamericana|MX||41|1mf|-7uj|k
+Cold Spring|US|New York|48|372|-5pf|k|Coldspring
+Colle Campano-Scrima|IT||9o|37m|11e|k
+Columbia City|US|Oregon|3p|3jh|-9h5|k
+Colli di Enea|IT||9o|37q|yp|k
+Collinsville|US|Mississippi|2f|2ia|-6ut|j
+Collierville|US|California|3p|2y5|-9cv|j
+Colebee|AU||8l|-2lp|bn1|j
+Colibași|RO|Arges|8u|3gu|1x7|j
+Colonia Agrícola Álvaro Obregón|MX||41|1hf|-7ok|j
+Colpo|FR||9k|3ou|-7t|j|Kolpoù
+Collemeto|IT||9o|33p|1ea|j
+Colonia Tulteca Teopan|MX||41|1ic|-7mk|j
+Colonia Agrícola de Ocotepec (Colonia San José)|MX||41|1gl|-7lq|j
+Colonna|IT|Lazio|9o|38f|yp|j
+Collecorvino|IT||9o|39y|12y|j
+Colonia Emiliano Zapata (San Juan Zitácuaro)|MX||41|1i1|-7qn|j
+Colquitt|US||48|2el|-6jd|j
+Colonia Diana Laura Riojas de Colosio|MX||44|22y|-7tw|j
+Coldstream|GB||9b|4al|-69|j|An Sruthan Fuar;Cauldstream
+Columbus Junction|US||2f|36o|-71s|j
+Colrain|US||48|3aj|-5ly|i|Coleraine;Colerain
+Colby|US|Wisconsin|2f|3gr|-6yw|i
+Colonia Lázaro Cárdenas|MX|México|41|1i7|-7ms|i
+Colonia Adolfo López Mateos|MX|México|41|1hw|-7oa|i
+Colonia el Refugio|MX||41|1hf|-7ox|i
+Colonia Militar|MX||41|1jv|-7m6|i
+Colmar|LU||9c|3ud|gy|i
+Colonia Nicolás Bravo (Kilómetro Noventa y Dos)|MX||2g|261|-855|i
+Colonia 28 de Mayo (Santa Rosa)|MX||41|1k1|-7lb|i
+Colonia Antorcha Campesina (Santa Rosa)|MX||41|1io|-7r9|i
+Colonia San Francisco de Asís|MX||41|1ie|-7p3|i
+College Grove|AU||8k|-2kq|8xa|h
+Colle di Fuori|IT||9o|384|zl|h
+Collalbo|IT||9o|3la|vu|h|Klobenstein
+Colchane|CL||4u|-1hk|-5ao|h|Qullchani
+Colonia Adolfo Ruiz Cortines (Colonia Obrera)|MX||41|1eq|-7f4|h
+Colonia Úrsulo Galván|MX||41|1hz|-7he|h
+Colonia Cuauhtémoc|MX|México|41|1hh|-7p8|h
+Colonia Guadalupe Victoria|MX|México|41|1i6|-7ms|h
+Colonia Agrícola Analco|MX||41|1hr|-7ob|h
+Collings Lakes|US||48|320|-5s0|h
+Colquechaca|BO||3n|-1fy|-53c|h|Qullqichaka
+Colonia Ignacio Allende|MX||41|1hs|-7jm|h
+Colotenango|GT||32|16t|-72r|h
+Collinsville|US|Texas|2f|2l8|-7h7|h
+Colleret|FR||9k|3vm|bc|h
+Colonia Emiliano Zapata|MX|Nayarit|3x|1on|-84a|h
+Collobrières|FR||9k|3c4|hj|h|Colobrièras
+Columbus|US|New Mexico|2p|2gf|-8b0|g|Colombus
+Colonia Elía|AR||1n|-2ir|-4i1|g
+Colonia Azteca|MX||41|1h0|-7ot|g
+Colonia Aeropuerto|MX||41|1cy|-7tu|g
+Collooney|IE||8z|46i|-nl|g|Cúil Mhuine;Kolunis
+Coldwater|US|Mississippi|2f|2iv|-6vt|g
+Cologne|US||2f|3gd|-78i|g
+Coldwater|US|Mississippi|2f|2od|-6xy|g|Cold Water
+Colonia Terrazas|MX||2g|26g|-84z|g
+Cologna-Caraverio|IT||9o|3j4|pz|g
+Colo Vale|AU||8l|-2nk|bm1|g
+Coltău|RO||8u|3o8|1tc|g|Koltó
+Colonia Veintitrés de Mayo|MX||41|1md|-7vw|g
+Colonia el Pedregal|MX||41|1ez|-7pe|g
+Colonia Doctor Gustavo Baz|MX|México|41|1hx|-7pk|f
+Colatlán|MX||41|1lu|-7ki|f|Colotlán
+Colombe|FR||9k|3i4|f5|f
+Colomera|ES||9d|2vt|-ab|f
+Colonia Pedro María Anaya|MX||41|1l1|-7s8|f
+Colombier-Fontaine|FR||9k|3nt|il|f
+Colonia los Aguiluchos|MX||41|1it|-7n9|f
+Colfax|US|Louisiana|2f|2fk|-75j|f
+Colma|US||3p|2wo|-9g6|f
+Colonia 24 de Febrero|MX||3x|1z9|-8dt|f
+Colijnsplaat|NL||8m|3zc|ap|f
+Colville|NZ||ak|-2tr|djf|f
+Colonia Isidro Fabela|MX||41|1hm|-7og|f
+Colonia Chalchihuecan|MX||41|1hd|-7f9|f
+Colmar Manor|US||48|305|-5xr|f
+Colle Brianza|IT||9o|3j4|q0|f
+Colonia Palma|MX||41|1ic|-7o6|f
+Coloma|US|Michigan|2q|397|-6nr|f
+Colzate|IT||9o|3ja|re|e
+Colonia Aviación Autopan|MX||41|1hu|-7ox|e
+Coleman|CA||2s|3tv|-8u2|e
+Colonia Libertad|AR||1n|-2bg|-4gm|e
+Colleranesco|IT||9o|3ao|12q|e
+Colelia|RO||8u|3gc|231|e
+Colonia Obrera|MX|Chiapas|41|15y|-74y|e
+College Hill|CA||43|3jn|-554|e
+Colombey-les-Belles|FR||9k|3qt|gd|e
+Colonia las Arboledas|MX|Morelos|41|1g7|-7mu|e
+Colliano|IT||9o|354|16h|e
+Colonia Abraham González (La Quemada)|MX||2g|26d|-84t|e
+Colebrook|US||48|3gp|-5im|e
+Yataity del Norte|PY||1y|-1x1|-4ck|e|Colonia Felipe Matiauda
+Colonia Reforma Tlalmimilolpan|MX||41|1hv|-7od|e
+Colombaro|IT||9o|3fr|ua|e
+Colwich|US||2f|2wy|-7iy|e
+Colombiers|FR|New Aquitaine|9k|3lx|17|e
+Columbus Air Force Base|US||2f|2lf|-6tp|e
+Colonia Gómez Morín|MX||58|2gk|-8zq|e
+Colinas del Sol|MX|Baja California|58|2i0|-913|e
+Collinsville|AU||8c|-1l3|beo|e
+Columbine Valley|US||2p|320|-83r|e
+Colonia la Libertad|MX|México|41|1hb|-7oe|e
+Colonia Ecológica Asociación de Lucha Social (Lucha Social)|MX||41|1ip|-7rh|d
+Colonia Emiliano Zapata|MX|México|41|1h4|-7om|d
+Collepepe|IT||9o|3b8|yf|d|Collepeppe
+Collinswood|AU||8b|-2ox|ap1|d
+Colonia Juárez|MX|México|41|1jk|-7nf|d
+Colchester|US|Illinois|2f|34b|-707|d
+Colonia Sesenta y Dos|MX||41|1jl|-7nz|d
+Colonia Obrera|MX|Morelos|41|1gl|-7n4|d
+Colonia San Francisco (San Francisco)|MX||41|1py|-7uu|d
+Collelongo|IT||9o|38d|11q|d
+Colţi|RO||8u|3i2|21a|d
+Colonia Emiliano Zapata|MX|Campeche|3z|1fv|-74f|d
+Colonia San Juan|MX||41|1k3|-7ns|d
+Colonia Juárez|MX|México|41|1hl|-7ob|d|Juárez;Los Chirinos
+Colonia Renacimiento|MX||41|1ak|-7kq|d
+Colonia Bellavista|MX||41|1hm|-7p9|d
+Colonia Morelos|MX|Hidalgo|41|1j9|-7mi|d
+Colonia 3 de Mayo (La Cruz)|MX||41|1ji|-7ng|d
+Coleambally|AU||8l|-2oo|b98|d
+Colonia Veinte de Noviembre|MX|San Luis Potosí|41|1p2|-7px|d
+Colli del Tronto|IT||9o|3b4|127|d
+Colonia Yucatán|MX||3z|1mx|-6ro|d
+Colonia Lázaro Cárdenas|MX|México|41|1i1|-7mq|d
+Colonia Obrera|MX|Puebla|41|1hf|-7jo|d
+Colonia Aquiles Córdoba Morán|MX||41|1ir|-7ra|d
+Colonia Felipe Ángeles|MX|Chihuahua|2g|26v|-853|d
+Colloredo di Prato|IT||9o|3jx|10i|c
+Colonia Wenceslao Labra|MX||41|1j3|-7nc|c
+Colsterworth|GB||9b|42p|-1q|c
+Colonia Hidalgo (El Tecolote)|MX||41|1q1|-7vg|c
+Colonia Ángel Bocanegra (Adolfo López Mateos)|MX||41|1gl|-7n3|c
+Coledale|AU||8l|-2n9|bna|c
+Colle Umberto|IT||9o|3jm|ya|c
+Colonia Guadalupe|MX|Hidalgo|41|1je|-7md|c
+Colonia Plenitud|MX||41|1sj|-7yb|c
+Colle Mainello|IT||9o|38b|zj|c
+Colonia Michoacana|MX|Sinaloa|3x|1wo|-8az|c
+Colonia Álvaro Obregón|MX||41|1pt|-7ov|c
+Colonia Arboledas (San Andrés)|MX||41|1hc|-7om|c
+Colonia José María Morelos|MX|Zacatecas|41|1q5|-7ur|c
+Colonia Guadalupana|MX||41|1l5|-7yq|c
+Colonia Patria Nueva|MX||41|1l1|-7s8|c
+Colobraro|IT||9o|33n|19m|c
+Coldbrook|CA||35|3h7|-4ze|c
+Colonia Nueva Germania|PY||1y|-1uf|-4di|c
+Colonia los Remedios|MX||41|1it|-7mf|c
+Coleman|US|Michigan|2q|3dk|-6iz|c
+Colle Sannita|IT||9o|36w|157|c
+Coligny|FR||9k|3ku|ev|c
+Colonia Luces en el Mar|MX||41|1b0|-7pu|c
+Colubro|IT||9o|37y|zr|c
+Colonia Constitución|MX||41|1cq|-7lw|c
+Colbert|US|Oklahoma|2f|2m1|-7g2|c
+Colonia Jordán|MX||41|19j|-7cg|c
+Colonnella|IT||9o|3b3|12j|c
+Colonia Guadalupe|MX|México|41|1ir|-7np|c
+Colmenar del Arroyo|ES||9d|34a|-bo|c
+Colonia el Mirador|MX|México|41|1in|-7o0|c
+Colonia Francisco Javier Mina|MX||41|1ma|-7tq|c
+Cotaxtla|MX||41|1gc|-7fs|c|Colaxtla
+Colonia Miguel Hidalgo|MX||41|1iz|-7su|c
+Colfax|US|Wisconsin|2f|3h0|-72t|c
+Colombia de Guadalupe|MX||41|1bh|-7mc|c
+Colon|US||2q|38k|-6l0|c
+Colonia de Guadalupe|MX||41|1j0|-7sc|c
+Collio|IT|Lombardy|9o|3j9|sq|c
+Colonia Independencia|MX||41|1ii|-7qo|c
+Colinas del Sol|MX|Baja California|58|2i7|-914|b
+Colonia Morelos de Guadalupe de Rivera|MX||41|1l8|-7tt|b
+Colonia el Pirame|MX||41|1hg|-7ob|b
+Colonia Rincón Villa del Valle|MX||41|1hd|-7q4|b
+Coldstream|US||3k|2yf|-6lk|b
+Colonia Fabricii|RO||8u|3j5|1pz|b
+Colonia la Central|MX||41|1e9|-7g4|b
+Collinsburg|US||48|33q|-65l|b
+Collonges|FR||9k|3k6|gf|b
+Colonia Padre Hidalgo|MX||41|1mt|-7se|b
+Cold Spring|US|Maryland|48|31b|-5wy|b|Coldspring
+Colonia 3 de Mayo|MX||41|1gb|-7ox|b
+Colà|IT||9o|3ib|tu|b
+Cole Camp|US||2f|2yu|-76w|b
+Colonia San Bartolomé|AR||1n|-2fl|-4u8|b
+Colonia Morelos|MX|Guanajuato|41|1kl|-7v2|b
+Cold Norton|GB||9b|3zj|1v|b
+Colacu|RO|Dâmbovița County|8u|3g3|1zk|b
+Independencia|MX|Chihuahua|2g|28t|-8aq|b|Cologachic;Cologachio
+Colonia Fraccionamiento el Puente|MX||41|1l0|-7sa|b
+Colonia Doctor Gustavo Baz|MX|México|41|1gt|-7o4|b
+Colony Park|US||48|343|-5v2|b
+Calchani|BO||3n|-1c4|-559|b|Calcheni;Colchani
+Colonia los Cerritos|MX||41|1gn|-7nj|b
+Colonia Alberdi|AR||1n|-240|-49f|b
+Colonia Cuauhtémoc|MX|México|41|1iy|-7q5|b|Cuauhtémoc
+Colacu|RO|Suceava|8u|3o2|1yh|a
+Colfax|US|Illinois|2f|34p|-6u6|a
+Colonia Felipe Ángeles|MX|Zacatecas|41|1qn|-7xj|a
+Colonia el Mirador (Llano del Ejido)|MX||41|1io|-7rb|a
+Colonia Juárez|MX|Chihuahua|2g|2c7|-8c8|a
+Callejones|HN||56|165|-6u9|a|Collejones
+Colturano|IT||9o|3i2|px|a|Culturanum;Colturan;Culturano
+Colonia San Luis|MX||41|19i|-7ck|a
+Colle Isarco|IT||9o|3me|vs|a|Gossensass;Gossensuss
+Colombiès|FR||9k|3f6|6i|a
+Colonia Nueva Revolución|MX||41|1ay|-7p9|a
+Colonia Cuauhtémoc|MX|Tlaxcala|41|1hp|-7k4|a
+Colonia Rafael Corrales Ayala|MX||41|1m2|-7u0|a
+Colle del Pino|IT||9o|37y|yq|a
+Colonia Alborada|MX||41|1aw|-7pa|a
+Colle Spina|IT||9o|382|zp|a
+Colonia la Calzada (La Olla)|MX||41|1ky|-7sg|a
+Cololaca|HN||56|13q|-6uw|a
+Colonia Palo Prieto (Chipitongo)|MX||41|1fy|-7nb|a
+Colonia el Florido|MX||41|1g2|-7o1|a
+Colonia San Francisco|MX||41|1gi|-7mq|a
+Colón|MX|Coahuila|44|1zt|-7yv|a
+Colonia Vicente Guerrero|MX|Chihuahua|2g|25v|-84k|a
+Columbus|US|North Carolina|48|2px|-6cc|a
+Coleraine|AU||8j|-2wg|axl|a
+Colonia Piloto|MX||41|1q2|-7l8|a
+Colonia Manuel González|MX||41|1h3|-7h2|a
+Colonia la Navidad|MX||41|1hs|-7p4|a
+Colasay|PE||3o|-gm|-63n|a|Colassay
+Collinwood|US|Tennessee|2f|2pp|-6rq|a
+Collinée|FR||9k|3q6|-70|a|Koedlinez
+Colonia Flores García|MX||41|1uc|-7ze|a
+Colonia General Felipe Ángeles|MX||41|1ky|-7nj|a
+Collazos|PE||3o|-12w|-5uh|a
+Colorina|IT||9o|3k7|r1|a
+Colver|US||48|34m|-62v|a
+Colonia 24 de Julio|MX||41|1b0|-7gm|a
+Collingbourne Ducis|GB||9b|3yh|-4l|a
+Colonia Lavalleja|UY||45|-2ed|-4ee|a
+Colle Monfortani|IT||9o|38d|z5|a|Colle dei Monfortani
+Colonia 20 de Noviembre|MX||41|1ix|-7ln|a
+Colonia Emancipación|MX||3x|1vf|-89s|9
+Colonia 1 Mai|RO||8u|3iu|1yl|9|Konkordia bányatelep
+Columbus|US|New York|48|3ak|-5td|9
+Colina de los Pájaros|MX||41|1h6|-7fb|9
+Collarmele|IT||9o|38u|11v|9
+Colonia Chauténco|MX||41|1jx|-7lh|9
+Colonia Hidalgo|MX|Zacatecas|41|1qj|-7w0|9
+Colonia las Granjas|MX||41|1ha|-7o9|9
+Colonia Loma Esmeralda|MX||41|1gj|-7nf|9
+Colonia Santiago|MX||41|1ic|-7mj|9
+Colesio|MX||41|1jz|-7w6|9
+Collepietra|IT||9o|3l5|vt|9|Steinegg
+Colonia Nueva Tlaxiaca|MX||41|1jn|-7ml|9
+Coloncito|PA||4g|ns|-65y|9
+Colonia Eréndira|MX||41|1j2|-7uz|9
+Collias|FR||9k|3e3|cg|9|Colhaç
+Colmeias|PT||99|32k|-o7|9
+Colonia Guerrero (Los Guajes)|MX||41|1bc|-7op|9
+Colville Street|CA||50|3o2|-42i|9
+Colonia Veinte de Noviembre|MX|Zacatecas|41|1qi|-7w4|9
+Colonia el Naranjo|MX||41|1gf|-7ng|9
+Colonia el Mirador (Barrio del Canal)|MX||41|1he|-7ov|9
+Coldspring|US||2f|2cz|-7c9|9|Cold Spring
+Colonia Anáhuac (Palo Blanco)|MX||44|1vt|-82l|9
+Collon|IE||8z|45e|-i1|9|Collann
+Colonia la Purísima|MX||41|1ie|-7ov|9
+Colmirano|IT||9o|3jj|x6|9
+Coulaures|FR||9k|3hv|2q|9|Colòras;Coulòures
+Colihaut|DM||2r|170|-4qq|9|Koliho;Coulihaut
+Colonia San Juan de Guadalupe|MX||41|1j1|-7mz|9
+Colonia la Puerta|MX||58|2ht|-8wd|9
+Collinas|IT||9o|324|ok|9
+Colonia Carlos Pellegrini|AR||1n|-27a|-4et|9
+Hammenhög|SE||9w|4a6|13b|9|Hamenhoga;Collis Hamundi
+Colonia Guadalupe los Manantiales|MX||41|1ji|-7n6|9
+Colonia Lázaro Cárdenas|MX|Guerrero|41|1b8|-7q1|9
+Cologna|IT||9o|3gx|x2|9
+Colo|US||2f|38q|-778|9
+Colonia Huitexcalco|MX||41|1ka|-7ns|9
+Colonia Niños Héroes|MX||41|1jo|-7xb|9
+Colonia Nueva Santa María|MX||41|1jk|-7nz|9
+Colonia Velazco|MX||41|1hz|-7k9|9
+Colnrade|DE||8r|42q|nk|9
+Colonia la Frontera Aguacatillo|MX||41|1b4|-7p8|9
+Coleman|US|Florida|48|280|-6bz|8
+Colonia Luis Donaldo Colosio|MX|Veracruz|41|1dz|-7at|8
+Coltaro|IT||9o|3gx|so|8|Coltara
+Colonia Francisco I. Madero|MX|México|41|1j0|-7p2|8
+Colonia San José|MX|Hidalgo|41|1ki|-7kv|8
+Colonia José López Portillo|MX||41|1hz|-7kd|8
+Colonia 15 de Septiembre|MX||41|1f2|-7og|8
+Colonia Luis Donaldo Colosio (Piedra de Alesna)|MX||41|1hz|-7o0|8
+Columbia|US|North Carolina|48|2rs|-5vt|8
+Colonia Sonora|MX||41|1g2|-7o5|8
+Columbus|US|Pennsylvania|48|38i|-652|8
+Colonia Llano Grande (El Salitre)|MX||41|1hh|-7ok|8
+Colonia Madero (Madero)|MX||41|1qa|-7vd|8
+Coldrano|IT||9o|3li|u3|8|Goldrain
+La Central|MX|Chiapas|3z|17p|-776|8|Colonia Central
+Colcord|US||2f|2sq|-7b1|8
+Colonia Pozos y Vías (Fracción Diecisiete A)|MX||41|1iq|-7n8|8
+Colonia Diez de Noviembre (El Campamento)|MX||41|1qu|-7v5|8
+Colonia Pueblo Nuevo (Hacienda San Rosendo)|MX||41|1ix|-7nc|8
+Coldwater|US|Kansas|2f|2vj|-7nx|8
+Cölpin|DE||8r|44o|11b|8
+Colere|IT||9o|3jq|s0|8
+Colonia la Perseverancia|MX||41|1i6|-7h3|8
+Colonia San Isidro|MX|Zacatecas|41|1qg|-7wn|8
+Colacu|RO|Vrancea|8u|3jh|22j|8
+Columbia|US|New Hampshire|48|3gl|-5ir|8
+Colonia Guadalupe Hidalgo|MX||41|1gp|-7mh|8
+Colonia Huilotepec|MX||41|1gp|-7n7|8
+Calobre|PA||4g|n4|-68k|8|Colobre
+Colli di Cicerone|IT||9o|37q|zd|8
+Colonia Benito Juárez (Chapitiro)|MX||41|1j6|-7si|8
+Coltainville|FR||9k|3qp|4f|8
+Colleatterrato Alto|IT||9o|3ak|125|8
+Colonia Cuauhtémoc|MX|México|41|1h8|-7ok|8
+Colonia el Manantial|MX||41|1b0|-7gl|8
+Columbiaville|US||2q|3bw|-6fp|8
+Colonia las Tijeras|MX||41|1i2|-7mn|8
+Colonia Francisco Villa|MX|México|41|1h6|-7ot|8
+Collenocello|IT||9o|38l|zi|8
+Colorado|MX||41|1eg|-7a0|8
+Colpes|AR||1m|-25y|-53w|8|Golpes
+College Park|AU||8b|-2oz|ap2|8
+Colonia Morelos (El Chiquiador)|MX||41|1ku|-7sq|8
+Colonia Unidad Deportiva|MX||41|1gn|-7nj|8
+Colorada|MX||41|1ps|-7sm|8
+Colonia Milpillas|MX||41|1gn|-7nj|8
+Colonia Ermita|MX||41|1je|-7nk|8
+Colonia 6 de Mayo|MX||3x|1ze|-8cv|8
+Collio|IT|Lombardy|9o|3is|t7|8
+Colonia Juárez|MX|México|41|1g8|-7oa|8
+Colonia Fovissste|MX||41|1wd|-7tl|8
+Colonia Loma Larga (El Basurero)|MX||41|1ay|-7pe|8
+Colțești|RO||8u|3ky|1tg|8
+Colli a Volturno|IT||9o|37k|136|8
+Colonia Cuauhtémoc|MX|Oaxaca|41|18z|-7c8|7
+Colonia Malibrán|MX||41|1h6|-7f8|7
+Colonia Militar Elpidio Berlanga de León|MX||58|2dk|-8yb|7
+Colvalenza|IT||9o|3ar|yo|7
+Colonia Ampliación (San Miguel Tláhuac)|MX||41|1hl|-7mw|7
+Colonia Buena Vista|MX||41|1di|-7jq|7
+Columbia|US|Alabama|2f|2ex|-6kf|7
+Colonia 3 de Mayo (El Tepiolol)|MX||41|1fr|-7nf|7
+Colonia Guadalupe|MX|México|41|1he|-7ox|7
+Colonia Josefa Ortiz de Domínguez|MX||41|1gj|-7nf|7
+Colonia la Magdalena|MX||41|1ex|-7bv|7
+Cologne|FR||9k|3dg|2q|7
+Coldău|RO||8u|3n2|1v1|7
+Colțu Pietrii|RO||8u|3ib|210|7
+Colonia Miguel Alemán Valdez|MX||41|19y|-7lp|7
+Colonia Llano Grande (Nuevo Ejido)|MX||41|1ig|-7o0|7
+Colonia Pinal Villa|MX||41|1hg|-82t|7
+Colonia el Tarimoro|MX||41|1hd|-7os|7
+Colonia la Laborcilla|MX||41|1os|-7th|7
+Colonia Benito Juárez|MX|Puebla|41|1h7|-7jn|7
+Colca|PE||3o|-123|-5pn|7
+Cologna-Gavazzo Nuova|IT||9o|3jj|u4|7
+Colonia Insurgentes|MX||41|1pg|-7sp|7
+Colloredo di Monte Albano-Lauzzana|IT||9o|3k8|10g|7
+Colonia Esperanza|MX|Chihuahua|2h|2f1|-86c|7
+Colonia el Valle|MX|Tlaxcala|41|1hs|-7jv|7
+Le Collet-de-Dèze|FR||9k|3ex|aw|7|Collet-de-Dèze
+Colonia el Mirador|MX|Hidalgo|41|1ky|-7ng|7
+Collelavena|IT||9o|380|110|7
+Coleman|US|Wisconsin|2f|3h6|-6sj|7
+Colonia Veinte de Noviembre (El Veinte)|MX||41|1bu|-7rz|7
+Colonia 13 de Abril|MX||41|1iv|-7t6|7
+Colembert|FR||9k|3wz|54|7|Colimbert
+Colera|ES||9d|39s|8r|7
+Collbran|US||2p|310|-8bw|7
+Colonia Veinte de Noviembre|MX|Hidalgo|41|1k8|-7mt|7
+Colonia Agustín Olvera|MX||41|1jw|-7lf|7
+Colonia Francisco Villa|MX|Guerrero|41|1f2|-7og|7
+Colleville|FR||9k|3u7|1a|7
+Colonia Aurora|MX||41|1ib|-7o7|7
+Colonia Rancho del Cura (El Cura)|MX||41|1et|-7of|7
+Colonia Reconstrucția|RO||8u|3jb|1z1|7
+Colle del Fagiano|IT||9o|38z|yv|7
+Colonia Obrera (Las Puentes)|MX||41|1hz|-7hc|7
+Colonia Benito Juárez|MX|Veracruz|41|1ii|-7hw|7
+Colonia Adolfo López Mateos|MX|México|41|1hx|-7oh|7
+Colonia Agrícola Rincón de las Flores|MX||41|1g0|-7h1|7
+Colonia Juárez|MX|Guanajuato|41|1jy|-7sz|7
+Colton|US|South Dakota|2f|3dn|-7h9|7
+Collorec|FR||9k|3q5|-ah|7|Koloreg
+Colonia Morelos (Pie de Vaca)|MX||41|1fo|-7k0|7
+Colonia Ladislao Moreno|MX||41|1gi|-80n|7
+Colonia México Lindo|MX||41|1m7|-7iq|7
+Collonges-lès-Premières|FR||9k|3n6|en|7|Collonge-lès-Premières
+Colonia Puerto del Obispo|MX||41|1ia|-7r3|7
+Colfax|US|Indiana|38|33o|-6or|7
+Colle della Torre|IT||9o|38p|15j|7
+Colonia la Concepción|MX||41|1hh|-7hp|7
+Colonia Veinte de Noviembre (El Camalote)|MX||41|1g5|-7zv|7
+Colonia las Arboledas|MX|Veracruz|41|1l7|-7im|7
+Colonia Linda Vista|MX||41|1jj|-7w1|7
+Collarenebri|AU||8l|-2a2|bgq|7
+Colonia Yurécuaro|MX||41|1jc|-7qz|7
+La Colorada|MX||41|1n6|-7s6|7|Colorada;El Colorada
+Colonia la Libertad|MX|San Luis Potosí|41|1q9|-7pd|7
+Colonia Esperanza (Cañón San Carlos)|MX||58|2g8|-8zr|7
+Colonia Loma Linda|MX||41|1h7|-7od|7
+Colonia Francisco I. Madero|MX|Guanajuato|41|1ms|-7sh|7
+Colombarone|IT||9o|3e3|zj|7
+Colonia Emiliano Zapata|MX|Guanajuato|41|1kz|-7si|7
+Colaya|PE||3o|-gw|-64v|7
+Colonia Buenavista Primera Sección|MX||41|1gj|-7q8|7
+Colonia Kilómetro 88|MX||41|1gl|-7mp|7
+Cologna Paese|IT||9o|3al|12r|7
+Colonia Cardenista Antonio Luna|MX||41|1h6|-7fb|6
+Colonia del Triunfo (La Tepacua)|MX||41|1j2|-7sh|6
+Colle Santa Maria-Varano|IT||9o|3am|124|6
+Colle Sestriere|IT||9o|3gw|j4|6
+Colibași|RO|Dâmbovița County|8u|3h3|1z6|6
+Colotitlán|MX||41|1ju|-81b|6
+Calihualá|MX||41|1cp|-7l0|6|Colihuala
+Colonia Libertad|MX|Oaxaca|41|183|-7hm|6
+Colonia Loma Bonita|MX||41|1hf|-7ou|6
+Colli|IT||9o|37k|11l|6
+Colonia la Poza|MX||41|1hc|-7oc|6
+Colombey-les-Deux-Églises|FR||9k|3py|dk|6
+Colonia Luis Donaldo Colosio|MX|Guanajuato|41|1l5|-7rx|6
+Colonia Ampliación 3 de Mayo|MX||41|1g2|-7np|6
+Colla Maffone|IT||9o|2xt|15l|6
+Colombier|CA||59|3rq|-5b8|6
+Colonia Michoacana (Luis Vélez)|MX||3x|1wj|-8ax|6
+Colonia Mangos (El Quemado)|MX||41|1b1|-7pa|6
+Colonia Pólvora|MX||58|2if|-8vz|6
+Collevecchio|IT||9o|39l|yv|6
+Collombatti|AU||8l|-2e2|bsj|6
+Colola|MX||41|1eu|-7z9|6
+Colonia Santa Úrsula|MX||41|1gh|-7ns|6
+Collins|US|Ohio|48|36m|-6d5|6
+Collonce|PE||3o|-hg|-619|6
+Colonia Guadalupe Victoria|MX|México|41|1g4|-7oc|6
+Colonia Verónica López|MX||41|1iw|-7sz|6
+Colla|CH||a7|3k1|p5|6
+Colonia Ejidal Emiliano Zapata|MX||41|1hm|-7oa|6
+Columbia Falls|US|Maine|48|3g1|-585|6
+Colonia Lomas del Refugio|MX||41|1nc|-7xn|6
+Colonia Industrial|MX||41|1kp|-7ks|6
+Colle Diana|IT||9o|39e|xx|6
+Colonia las Palmas|MX||41|1fy|-7lr|6
+Collinsvale|AU||8g|-3b0|bcw|6
+Colonia Vista Mar|MX||41|1cw|-7tq|6
+Colroy-la-Grande|FR||9k|3q8|jr|6
+Jayamitla|MX||41|1l7|-81e|6|Colmenar
+Colibița|RO||8u|3n1|1x7|6
+Collingwood Heights|AU||8k|-2p7|93k|6
+Colliers|CA||50|3nt|-43v|6
+Colonia la Presa (Ejido de Chapultepec)|MX||41|1hc|-7oi|6
+Colțu|RO||8u|3fl|1x9|6
+Colonia Emiliano Zapata (El Cerrito)|MX||41|1ma|-7tu|6
+Colonia Primero de Mayo (La Beatilla)|MX||41|1ji|-7w0|6
+Colibași|RO|Olt|8u|3fn|1vg|6|Colibaşu;Colibaşul
+Colonia Vicente Guerrero|MX|Chihuahua|2g|26c|-84v|6
+Colle Farnese|IT||9o|39a|y7|6
+Colonia Buenos Aires|MX||41|1bo|-7qx|6
+Coll de Nargó|ES||9d|395|3o|6
+Colonia San Isidro|MX|Guerrero|41|1b5|-7pm|6
+Colbert|US|Georgia|48|2mk|-6f5|6
+College Station|US|Arkansas|2f|2of|-746|6|College City
+Colonia Hermosillo|MX||41|1l6|-7u1|6
+Colonia la Joya|MX||41|1hf|-7ou|6
+Columbia Cross Roads|US||48|388|-5xc|6
+Coletas|PE||3o|-dh|-668|6
+Colonia General Heliodoro Castillo (Chicahuales)|MX||41|1cn|-7pk|6
+Colonia Pastoría Cuatro|MX||41|1h7|-7he|6
+Coldwaltham|GB||9b|3xi|-1j|6
+Colonia Ampliación Aeropuerto|MX||41|1dp|-7g4|6
+Colonia Unión Obrera|MX||41|1o6|-7y3|6
+Colonia la Loma (La loma San Isidro)|MX||41|1if|-7mj|6
+Colelli|IT||9o|2y5|17o|6
+Golumbu|RO||8u|3fz|1tz|6|Columbul
+Călțuna|RO||8u|3gw|22v|6|Căituna;Colţuna
+Colonia José María Morelos|MX|Tlaxcala|41|1hs|-7je|6
+Colonia La Brava|AR||1n|-2ck|-4n2|6|La Brava
+Colkirk|GB||9b|42o|2d|6
+Colonia Târnava|RO||8u|3k5|1vg|6|Nagyekemezőtelep
+Colmesneil|US||2f|2dv|-7aa|6
+Colorado (Benito Juárez)|MX||41|1d0|-76e|6
+Colonia los Hornos|MX||41|1j1|-7n5|6
+Collins|US|Georgia|48|2he|-6c3|6
+Colonia San Miguel|MX||41|1im|-7o3|6
+Collud|PE||3o|-iv|-65l|6
+Colonia Campesina|MX|México|41|1h3|-7o6|6
+Kalachivka|UA||98|3kv|28j|6|Colăceni;Kalachovka;Kolacheni
+Colmurano|IT||9o|3bw|114|6
+Colombier-le-Vieux|FR||9k|3h7|d2|6
+Colonia Francisco Santana Peralta|MX||58|2is|-8ur|6|Colonia Francisco Santa Ana Peralta
+Colonia la Pintora|MX||41|1g0|-7nq|6
+Colman|US||2f|3e6|-7gx|6
+Colonia Cuauhtémoc|MX|Guerrero|41|1bi|-7qq|6
+Colonia Emiliano Zapata (El Chamizal)|MX||41|1q8|-7sv|6
+Colonia Vista Alegre|MX||41|1lg|-7to|6
+Colonia Ejidal|MX||41|1gj|-7ht|6
+Colonia Benito Juárez|MX|Hidalgo|41|1jy|-7lh|6
+Colțea|RO||8u|3gl|23x|6
+Cole|US||2f|2pi|-7j1|6
+Colledara|IT||9o|3a6|120|6
+Colonia Benito Juárez|MX|Hidalgo|41|1jv|-7ny|6
+Colonia la Virgen|MX||41|1hm|-7p1|6
+Colonia Francisco I. Madero|MX|Veracruz|41|1h5|-7hg|6
+Colonia José Vasconcelos|MX||41|1iw|-7sv|6
+Colonia San José|MX|México|41|1hd|-7mq|6
+Colquepata|PE||3o|-114|-5j3|6
+Colonia Miguel Terrazas Rivera|MX||41|1ax|-7p9|6
+Colonia Centro Ceremonial Otomí|MX||41|1i8|-7oi|6
+Colonia Miguel Alemán|MX||41|1uo|-7zg|6
+Collemiers|FR||9k|3ps|8z|6
+Coldingham|GB||9b|4b9|-60|6
+Colonia Morelos|MX|Morelos|41|1g5|-7oa|6
+La Colonia|MX|Jalisco|41|1kr|-7xx|5|Colonia
+Colonia Juárez (El Jabalí)|MX||41|1es|-7r2|5
+Colorado de Saavedra|MX||41|1kk|-7un|5|Colorado Saavedra
+Coldragone|IT||9o|37f|11s|5
+Collepardo|IT||9o|380|115|5
+Collebrincioni|IT||9o|39s|11a|5
+Colombiers-du-Plessis|FR||9k|3qf|-2c|5
+Colleretto Giacosa|IT||9o|3i7|lo|5
+Colonia Villas de Tolimpa|MX||41|1i3|-7mo|5
+Colonia Emiliano Zapata|MX|San Luis Potosí|41|1oy|-7ta|5
+Colonia el Pixquay (Colonia el Carmen)|MX||41|1jg|-7nj|5
+College City|US||2f|2sd|-70m|5
+Colombier-le-Jeune|FR||9k|3h1|d2|5
+Colonia Adolfo López Mateos|MX|Oaxaca|41|1c2|-7jb|5
+Colonia la Libertad|MX|Hidalgo|41|1ky|-7nj|5
+Colonia Alarcón|MX||41|1gq|-7nl|5
+Colcabamba|PE||3o|-12x|-5nh|5
+Colonia 12 de Agosto|MX||3x|20v|-8em|5
+Colonia La Venta|MX||41|1hp|-7nv|5
+Colonia Margarita Maza de Juárez|MX||2g|27w|-88x|5
+Colonia Puente Pantitlán|MX||41|1gk|-7mz|5
+Colmegna|IT||9o|3jv|oc|5
+Coloma|US|California|3p|2zs|-9bt|5|Culoma
+Colonno|IT||9o|3jo|pf|5
+Colonia los Alcanfores|MX||41|1j3|-7n2|5
+Colonia Emiliano Zapata|MX|México|41|1ip|-7ou|5
+Colonia Ampliación (Segunda Manzana)|MX||41|1k3|-7o1|5
+Colonia Lindavista|MX|Zacatecas|41|1nd|-7xq|5
+Colonia Lázaro Cárdenas|MX|Hidalgo|41|1jy|-7no|5
+Colonia el Valle|MX|Chihuahua|2g|2bm|-8a5|5
+Colonia la Reforma|MX||41|1ce|-7m8|5
+Colonia San José|MX|Veracruz|41|1hh|-7h2|5
+Colli sul Velino|IT||9o|3a2|zi|5
+Colonia Emperador Cuauhtémoc|MX||41|1et|-7ql|5
+Kolomban|SI||9a|3in|127|5|Colombano
+Colonia Cuisillos (Huaxtla de Orendain)|MX||41|1lk|-7zy|5
+Colla-Muggiasca|IT||9o|3jq|qq|5
+Colombier|CH||a7|3lc|hz|5
+Colonia Cuauhtémoc|MX|Michoacán|41|1jm|-7xc|5
+Colonia Ejidal Rafael Merino|MX||41|1g2|-7my|5
+Colonia|RO||8u|3lg|1ul|5
+Colonia Huandishi (Las Chinches)|MX||41|1jb|-7qs|5
+Colonia Primero de Mayo|MX||41|1fv|-7gd|5
+Colonia Municipal|MX||41|1cv|-76a|5
+Colonia Santa Anita|MX||41|1sj|-7xh|5
+Collyweston|GB||9b|425|-1h|5
+Colombia|MX||3w|24y|-7p4|5|Kolombio;Kolombia;Columbia
+Colorado de Herrera|MX||41|1kg|-7uw|5
+Colle San Magno|IT||9o|37f|121|5
+Colledimezzo|IT||9o|38n|13z|5
+Collingbourne Kingston|GB||9b|3yi|-4m|5
+Colonia 2 de Diciembre de 1974|MX||41|1bp|-7qz|5
+Colonia Lázaro Cárdenas|MX|Veracruz|41|1gx|-7f5|5
+Colonia Tezontla|MX||41|1in|-7mz|5
+Colonia las Martelas|MX||41|1fk|-7on|5
+Colleberardi|IT||9o|37t|11d|5
+Colonia Esperanza|MX|Chihuahua|2g|271|-84x|5
+Colonia Michoacana|MX|México|41|1hc|-7mr|5
+Colonia Río Verde|MX||41|1qf|-7wj|5
+Colonia San José|MX|Chihuahua|2g|26u|-84w|5
+Colonia de Jesús (La Cucaracha)|MX||41|1a8|-7is|5
+Colle d'Anchise|IT||9o|37b|14c|5
+Colonia Santita|MX||41|18x|-7ci|5
+Colonia Hermosa|MX||41|1ec|-7c1|5
+Colonia Vista Hermosa|MX||41|1g4|-7nz|5
+Colonia Cuauhtémoc|MX|Morelos|41|1g3|-7o9|5

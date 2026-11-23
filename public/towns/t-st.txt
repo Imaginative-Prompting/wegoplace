@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Shijiazhuang|CN||7i|2xo|8u0|18fk|Thạch Gia Trang;Š’-ťia-čuang;Šidziadžuangas;Ŝiĝjaĝŭango;Siŏh-gă-cŏng;Sicsiacsuang;Šidzjadžuana;Swzgyahcuengh;Chio̍h-ka-chng-chhī;Šidžjadžuang;Shicziyajuan;Şiciyajuang;Shihjiazhuang
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Kisangani|CD||y|1g|1xz|cd1|Stanleystad;Stanleyville
+Stockholm|SE||9w|4kt|1e7|bou|Estocolmo;Stokholmo;Štokholm;Estocolm;Sztokhòlm;Estokolmo;Tukholma;Stokkhólmur;Stoccolma;Holmia;Stokholmas;Stokholma;Stokholmi;Stokgolm;Stócólm;Estocòlme;Stokolm;Stockholbma;Stoccholm;Stocólma;Stokkolma;Stuculma;Estocolmu;Stuokhuolms;Estokolma;Stockolm
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Tolyatti|RU||9p|44p|3t3|5f9|Tol'yatti;Toljatti;Togliatti;Toliatti;Togliattigrad;Toljati;Stavropol’;Toljatis;Stawropol
+Helsinki|FI||92|4n5|1xa|531|Khel'sinki;Helsingfors;Helsinko;Helsinky;Helsingi;Heilsincí;Helsinqui;Helsingia;Helsínquia;Helsset;Xélsinki;Èlzinki;Hel'sinki;Helsėnkis;Elsinki;Stadi
+Stuttgart|DE||8r|3ri|pi|4q7|Stutgarto;Stoccarda;Stutgardia;Štutgartas;Štutgarte;Estugarda;Shtutgarti;Stucarda;Shtutgart;Stocarda;Ştutqart;Stuggart
+Staten Island|US||48|34o|-5py|3m7
+Vũng Tàu|VN||6h|sr|89g|3l5|Cap-Saint-Jacques;Saint James;Ville du Cap;Cape Saint James;St. James
+Stavropol|RU||9i|3h3|38k|3cj|Stawropol;Stauropoli
+Szczecin|PL||a5|44f|14f|31v|Stettin;Štětín;Szczëtno;Stettino;Ščecina;Estetino;Stettin.;Ščecinas;Stettinum;Sztetin;Shchétsin;Şçetsin;Estettin;Šćećin;Shchechin
+Stockton|US|California|3p|2xg|-9cx|2cx|Stokton;Stoktono
+Graz|AT||a2|3mr|16w|2c9|Štýrský Hradec;Graco;Graecia;Graca;Gradec;Grác;Gracas;Qras;Gradac;Gratz
+Saint Paul|US|Minnesota|2f|3gu|-76l|2c8|St. Paul;Urbs Sancti Pauli de Minnesota;Sent Polas;San Pablo;Sentpola;Sint-Paul;Sent Pol;Sent Pols;Sint Pol
+St. Louis|US||2f|2zb|-6yk|25p|San Luis;Saint Louis;Saint-Louis;Sankta Luiso;St Louis;Sent-Luis;Sent Luisas;Sentluisa;Urbs Sancti Ludovici;Sent Loisos;Sint-Louis;Saint Louis City;Saint Lewis
+Strasbourg|FR||9k|3qy|lj|24c|Straßburg;Estrasburgo;Strasburgo;Argentoratum;Strasburg;Straatsburg;Estrasburg;Strasburgu;Štrasburk;Strasbwrg;Strassborg;Strasbūras;Strasbūra;Strazburg;Strasbôrg;Stroossbuerg;Strasburq;Estrasborg;Stroosburi;Estrasbou;Strǣtburg;Strasborgh;Strossburg;Straasbuurich;Estrasburgu;Straasburch;Strażburgu;Sjtraasburg;Stroatsburg;Strassbourg;Straszburg
+Sterlitamak|RU||7z|450|4bf|228|Stärletamaq;Sztyerlitamak
+Stoke-on-Trent|GB||9b|438|-63|1zs|The Potteries;Stok-on-Trent;Stoka pie Trentas;Stokas prie Trento;Stok-on-Trento;Stoke-upon-Trent
+St. Petersburg|US||48|255|-6do|1zf|Saint Petersburg;Saint Pete
+Sétif|DZ||3|2sj|f1|1y1|Satif;Ṣṭif;Sathif;Sitifis
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Ivano-Frankivsk|UA||98|3rw|1wn|1u6|Ivano-Frankovsk;Stanislau;Iwano-Frankiwsk;Stanisław;Stanisławów;Stanislaopoli;Stanislaopolis;Sztanyiszló;Ivano-Frankivszk;Sztanyiszlav;Sztaniszlaviv;Ivano-Frankivs'k;Stanislav;Stanislavov
+Staryy Oskol|RU||9i|3yi|2x5|1r2|Stary Oskol;Starij Oskol;Staryi Oskol;Stari Oskol
+St Helens|GB||9b|44h|-7l|1ew|St. Helens
+Almere Stad|NL||8m|41h|eh|1d0|Almere
+Saint-Étienne|FR||9k|3i7|c7|1cz|Sankta-Stefano;Sant-Etiève;Sent Etjenas;Sentetjēna;Sanctus Stephanus de Furano;Sant Estève;Sent-Etyen;Sainté;St Étienne;Sankta-Etjeno
+Saint-Denis|RE||ai|-1m0|4a1|170|St. Denis
+Strogino|RU||9i|4b2|2vx|168
+Stavanger|NO||9j|4jt|fx|165|Stafangur;Stavenger
+Stockport|GB||9b|44d|-60|12n|Stokporto;Stokportas
+St. Catharines|CA||59|3bx|-644|120|Sainte-Catharine;Sankta Katarino;Sent Katerinsas
+Sterling Heights|US||2q|3aa|-6en|10p
+Stamford|US|Connecticut|48|361|-5oa|zt|Stemford
+Tyoply Stan|RU||9i|4ai|2w5|yq
+Stara Zagora|BG||9v|39v|1z8|xs|Stara Sagora;Eski Zağra;Stara-Zagora
+North Stamford|US||48|36a|-5oa|xo
+Bukit Bintang|MY||6v|8r|7uj|xh|Starhill;Star Hill
+St. John's|CA||50|3o4|-42f|up|Saint John's;St Johns;San Juan de Terranova;Baile Naoimh Eòin;Baile Sheáin;Sent Džonsas;Sanctus Ioannes Terrae Novae;Saint John;Saint-Jean de Terre-Neuve;Saint-Jean;Sent-Jons;Sent-Cons

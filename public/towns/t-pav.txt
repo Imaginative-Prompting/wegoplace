@@ -1,0 +1,79 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pavlodar|KZ||5s|418|5xt|2je|Pawlodar
+Pavlohrad|UA||98|3qt|2rn|s6|Pawlohrad;Pavlograd
+Pavia|IT||9o|3hj|pg|i9|Pawia;Pavie;Pavio;Papia
+Pavlovo|RU|Nizhny Novgorod Oblast|9i|4bh|3bp|hl|Pawlowo;Pavlovas
+Pavlovskiy Posad|RU||9i|4ay|2zd|gp|Pavlovskij Posad;Pavlovsky Posad;Pavlovski Posad;Pawlowski Possad
+Pāvugada|IN||6t|136|5yo|8x|Pāvagada
+Pavlovskaya|RU||9i|3k6|32j|8n|Pavlovskaja;Pàvlovskaia;Pawlowskaja
+Pavlovsk|RU|Voronezh Oblast|9i|3w5|33g|7e|Pawłowsk
+Pāveh|IR||7o|2pc|3ks|76|Pāweh
+Pavlovsk|RU|St. Petersburg|9i|4ls|2cj|4h|Pauluskoi;Pawlowsk;Pavlovszk;Paviosk
+Pavlovsk|RU|Altai Krai|63|444|6ej|44
+Pāvaratti|IN||6t|tc|5va|3f
+Pavlikeni|BG||9v|3c4|1yc|34|Pawlikeni;Pavlikem;Pavlikene
+Pavuluru|IN||6t|181|66o|2x
+Pavullo nel Frignano|IT||9o|3f5|u4|2j|Paullo nel Frignano
+Pavones|ES||9d|348|-a3|2g
+Pavão|BR||4w|-1cf|-35w|28
+Paverama|BR||4w|-2a3|-3zp|28
+Pavali|IN||6t|qo|60g|24
+Povarovo|RU||9i|4br|2ux|23|Pavarovo;Povorovo
+Pavilly|FR||9k|3tp|2n|1r
+Pavlogradka|RU||76|46k|5oc|1p
+Pavlovka|RU|Ulyanovsk|9z|42d|3my|1n
+Pavlovskaya Sloboda|RU||9i|4b2|2v0|1n|Pavlovskaja-Sloboda
+Pavia|PH||71|ty|9gf|1n|Ravia;Payia
+Pavlovka|RU|Ulyanovsk|9z|44w|3lx|1n
+Pavlodol’skaya|RU||9i|3dg|3fk|1l|Pavlodolskaja
+Pavona|IT||9o|37x|z2|1c
+Pavlovce nad Uhom|SK||8s|3r1|1pb|1b
+Pavlysh|UA||98|3rw|2ko|1a|Pavlych
+Pavlovka|RU|Bashkortostan Republic|7z|49y|4d3|17
+Pavlivka|UA|Vinnytsia|98|3tc|272|10|Pavlovka;Pawliwka;Pawlowka
+Pavussu|BR||2w|-m5|-3c2|10
+Pavone Canavese|IT||9o|3i8|lt|y|Pavon
+Pavlovo|RU|Leningradskaya Oblast'|9i|4m5|2du|x|Paulova;Pawlowo
+Pavlovskiy|RU||7z|4go|48c|x|Pavlovskij
+Pavel Banya|BG||9v|3ac|1y0|w
+Pavino|RU||9i|4k8|3k6|t
+Pavone del Mella|IT||9o|3hu|sd|r
+Pavlivka|UA|Odesa|98|3jo|29x|q
+Pavie|FR||9k|3d5|1n|o|Padie
+Pavelets|RU||9i|45f|311|m
+Pavliš|RS||8q|3hb|1n0|l
+Pavlivka|UA|Kirovohrad|98|3s3|2kf|k|Pavlovka
+Pavón|AR||1l|-2tz|-4dn|g
+Pavoloch|UA||98|3uj|29u|e|Pavolotsj;Pavoloh;Pavoloč;Pawołocz;Pavoloci
+Pavlivka|UA|Luhansk|98|3tt|2zi|b|Pavlovka
+Pavlivka|UA|Mykolaiv|98|3mq|2j9|b|Pavlovka
+Pavigliana|IT||9o|2xv|17o|b
+Pavencul|MX||41|168|-742|a|Pavincul;Pavancul
+Pavia di Udine|IT||9o|3js|10y|a|Pavie;Pavia d'Udine
+Pavée|LC||52|12w|-4pf|a
+Pavlivka|UA|Odesa|98|3n8|2a5|a|Pawliwka;Pavlovka
+Pavshino|RU||9i|4b2|2vr|a|Pavshuno;Pavsjino
+Pavlíkov|CZ||9m|3v2|126|a|Pawlikow
+Pavlovichi|RU||9i|4d5|2wq|a
+Pavlivka|UA|Odesa|98|3lw|2bb|9|Pavlovka
+Pāvilosta|LV||9n|4e1|1mv|9
+Pavshyno|UA||98|3qh|1r1|8|Pavshin
+Pavlivka|UA|Volyn|98|3wn|1vy|8|Poryck;Pawliwka;Pavlovka
+Pavlovice u Přerova|CZ||9m|3tf|1cr|8
+Pavlovo|UA||98|3r5|1rn|8
+Pavant|FR||9k|3rz|95|8
+Pavda|RU||7z|4kl|4lc|7|Pavoa
+Pavarolo|IT||9o|3h7|ls|7|Pavareul
+Pavilion|US||48|3b4|-60q|6
+Pavlopil|UA||98|3na|2wy|6|Pavlopol’
+Pavlov|CZ|South Moravian|9m|3rr|1ab|6|Pavluovs
+Pavo|US||48|2e0|-6gm|6
+Pavlov|CZ|Olomouc Region|9m|3u6|1aw|6
+Pavlovka|UA||9t|3hi|2og|6
+Pavlovec-Zabočki|HR||a6|3ju|184|6|Pavlovec Zabočki
+Pavlo-Maryanivka|UA||98|3mu|2jd|6|Pavlo-Marianivka
+Pavenham|GB||9b|40z|-1j|5
+Pavlice|SK||8s|3q2|1cu|5
+Pavlynka|UA||98|3m1|2d8|5|Pavlinka
+Pavučnjak|HR||a6|3iz|17s|5
+Pavlice|CZ||9m|3s1|186|5

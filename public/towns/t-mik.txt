@@ -1,0 +1,90 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Mykolayiv|UA|Mykolaiv|98|3mi|2gv|3mk|Vernoleninsk;Mykolaïv;Mikołajów;Mikolajiv;Nicolopoli
+Meiktila|MM||7y|1m0|7ea|1da|Miktila
+Miki|JP||7q|2oo|aey|kz
+Mikhaylovsk|RU|Stavropol Kray|9i|3hd|38r|gg|Sjpakovskoje;Mihajlovsk;Michailowsk;Shpakovskoye
+Mikhaylovka|RU|Volgograd Oblast|a4|3v2|3c3|gd|Mikhajlovka;Michailowka;Mikhaïlovka;Michajlovka;Miĥajlovka;Mihhailovka;Mihailovk;Michajłowka;Mihailovka;Michalowka
+Mikkeli|FI||92|4rd|23r|ed|St. Michel
+Mikołów|PL||a5|3vd|1gi|as|Nicolai;Nikolaus;Miklós;Nicolaas;Mikuláš;Mikolova;Mikołůw;Nikolai;Mikoluvas
+Mikhalkovo|RU||9i|4ao|2vz|8c
+Mikuni|JP||7q|2sl|ai7|6j
+Mikumi|TZ||h|-kk|2uq|5k
+Mikuriya|JP||7q|2qn|aau|4a
+Sarykemer|KZ||5s|3bh|5in|47|Mikhaylovka;Sarykamar
+Mykolayiv|UA|Lviv|98|3tl|1um|41|Mikołajów;Mykolaiv;Mikolayuv;Mikotajów
+Mikhaylov|RU||9i|46n|30f|3l|Mikhajlov;Mikhailov
+Mikashevichy|BY||9g|412|24c|3a|Mikashevichi;Mikasheviche;Makasheviche
+Mikun’|RU||9i|4t7|3v4|37|Mikun
+Mikhaylovskoye|RU|Altai Krai|63|3zy|65g|37|Mikhajlovskij;Mikhaylovskiy
+Mikhnëvo|RU||9i|495|2xf|2z
+Mykonos|GR||8p|2w1|1yd|2z|Míkonos;Myconos;Chora;Miconos;Khóra
+Mikhaylovskoye|RU|North Ossetia–Alania|9i|3bq|3fz|2x|Mikhaylovskaya
+Mikhaylovsk|RU|Sverdlovsk Oblast|7z|4cs|4k8|2u|Mikhajlovsk;Mikhaylovka
+Sernovodsk|RU|Chechnya|9i|3cb|3hg|2r|Aslambekovskoe;Aslanbek;Ena-Xişka;Mixaylovskaya;Aslambekovskoye;Mikhaylovskaya;Sernowodsk
+Mikhaylovka|RU|Primorye|7w|3e1|a6p|2l|Mikhajlovka;Mikhailovka
+Mikhaylovskaya|RU||9i|3gz|34s|29|Mikhajlovskaja;Mikhaylovskoye
+Mikasa|JP||7q|3c6|ay5|28
+Mikulov|CZ||9m|3rl|1a8|24|Nikolsburg;Mėkoluovs;Nickolsburg
+Mikhaylovka|RU|Irkutsk Oblast|6k|434|7yw|22|Mikhajlovka;Mikhailovka
+Yeghegnadzor|AM||80|32g|3hx|21|Yeğegnadzor;Jeghegnadsor;Eghegnazor;Jeghegnadzor;Jeghegnadzoras;Ehegnadzor;Jechegnadzor;Jehegnadzor;Yeğeqnadzor;Mikoyan;Keshishkend;Keshishkent;Yexegnadzor;Exegnadzor;Jehegnadzora;Eghegnadzor;Yekhegnadzor
+Mikuszowice|PL||a5|3ua|1gx|1z
+Mikomeseng|GQ||10|5y|th|1m|Micomeseng;Mikomesen;Mikamesen;Mekomeseng
+Chambarak|AM||80|34s|3hz|1j|Čambarakas;Tjambarak;Ĝambarak;Tšambarak;Čambarak;Czambarak;Krasnoselsk;Mikhaylovka
+Mykulychyn|UA||98|3qh|1wd|1g|Mikulichyn
+Miklóstelep|HU||8v|3nt|1hc|1g
+Mikhaylovka|RU|Bashkortostan Republic|7z|489|4b9|17|Mikhajlovka
+Fertőszentmiklós|HU||8v|3o7|1aw|13|St. Niklau;Mikloš
+Miklavž na Dravskem Polju|SI||9a|3l7|17m|13
+Mikołajki|PL||a5|45g|1nx|13
+Myhove|UA||98|3ps|1yi|11|Mihowa;Myhowe;Mihova;Mikhova
+Mykulyntsi|UA||98|3t7|1z5|10|Mikulińce;Mykoulyntsi;Mykulynzi;Mikulintsy;Mykułynci;Mıkulıntsi
+Mikepércs|HU||8v|3nt|1o3|y
+Mikkola|FI||92|4nm|1xq|v
+Mikhaylovka|RU|Kursk Oblast|9i|413|2qa|u|Mikhajlovka;Mikhailovka
+Mikínai|GR||8p|2ws|1r7|t|Mycenae;Mykínes
+Mikuszowice Krakowskie|PL||a5|3ub|1h0|r
+Mikrorayon Fabryky Banknotnoho Paperu|UA||98|3x0|297|q|Banknotka
+Mikulovice|CZ|Olomouc Region|9m|3vq|1c4|p
+Mikulášovice|CZ||9m|3xl|13w|o|Nixdorf
+Mykhailivka|UA|Luhansk|98|3qq|302|o|Mykhaylivka;Mikhaylovka
+Mikhaylovka|UA||9t|3ih|2o8|m
+Mykhailivka|UA|Kherson|98|3kk|2ip|m|Mykhaylivka;Mikhaylovka
+Mikhalkove|UA||98|3qx|23u|l|Mihăileanca;Mykhalkové
+Heroyiv Mariupolya|UA||98|3sd|2ku|l|Heroiv Mariupolia;Heroiv Mariupolya;Brest;Mikrorayon Brest;Mikroraion Brest;Heroiv Bresta;Heroyiv Bresta
+Mikenaungea|MM||7y|18c|7lf|k
+Mikulčice|CZ||9m|3rm|1bd|k
+Mikró Déreio|GR||8p|36s|20i|i|Mikrón Déreion
+Mikstat|PL||a5|3z5|1dx|i
+Mikró Monastíri|GR||8p|352|1qm|i
+Nickelsdorf|AT||a2|3p6|1bf|i|Miklóshalma
+Mykhalcha|UA||98|3q1|1zt|f|Mikhal’chi;Mikhal’che;Mikhal’cha;Mihalcea;Mykhaltsja;Mychaltscha;Mychalcza;Myhalça
+Mikhmās|PS||6g|2gj|2q0|f|Mukhmās
+Mikołajki Pomorskie|PL||a5|45l|1h9|e
+Mikhmoret|IL||6n|2i1|2ov|d|Michmoret
+Mikulino|RU||9i|4ct|2qx|d
+Mücka|DE||8r|3yk|14u|d|Mikow
+Mykhailivka|UA|Poltava|98|3sy|2ou|d|Mikhaylovka;Mykhaylivka
+Mikoma|US||2f|2mb|-6ys|c
+Miquelon|PM||42|3mu|-4cm|b|Mikelon;Miquelão
+Mýki|GR||8p|36k|1x8|b|Míki
+Mikrópolis|GR||8p|36f|1u6|b
+Mikušovce|SK||8s|3sa|1el|a
+Mikrománi|GR||8p|2v0|1p7|a
+Mykhailivka|UA|Cherkasy|98|3uq|2hd|9|Mykhaylivka;Mikhaylovka
+Mykhnivtsi|UA||98|3up|2jb|9|Mikhnovtsy
+Mykhailyky|UA||98|3ut|2mv|9|Mikhayliki;Mykhaylyky;Mikhaylivka
+Mikulovice|CZ|Pardubice Region|9m|3uv|17u|8
+Mikulůvka|CZ||9m|3t9|1dt|8
+Mikrókampos|GR||8p|35g|1r9|7|Mikrókambos
+Mikoszewo|PL||a5|46x|1gp|7
+Mikleuš|HR||a6|3iq|1dg|6
+Mikrá Mantíneia|GR||8p|2ur|1pj|6|Mikri Mantineia;Mikra Mantinía;Mikrá Mandínia;Mikri Mantinia
+Mikulovice|CZ|South Moravian|9m|3s0|18p|6
+Mikrokhórion|GR||8p|2y7|1ud|6|Mikrochori;Mikrokhóri
+Mikrón Vathí|GR||8p|2ys|1tj|6|Mikro Vathy;Mikró Vathí
+Mikhmannim|IL||6n|2jf|2q5|6
+Mikrí Vólvi|GR||8p|350|1tg|6|Mikrá Vólvi
+Mikhaylivka|UA||98|3ng|2e7|5|Mykhaïlivka
+Micloșoara|RO||8u|3jt|1z2|5|Miklósvár
+Mikhayilopil|UA||98|3mt|2cj|5|Mykhaïlopil

@@ -1,0 +1,455 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Yantai|CN|Shandong|7i|2w4|9dc|1ist|Chefoo;Jen-tchaj;Jantaj;Yên Đài;Iĕng-dài;Jantai;Ian-tâi-chhī;Yen-t’ai
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Jieyang|CN||7i|1te|8z9|enm|Ťie-jang;Yết Dương;Giék-iòng;Kiat-iông-chhī;Kiehyang
+Yancheng|CN||7i|2ko|99s|cgt|Jen-čcheng;Janĉengo;Diêm Thành;Sièng-siàng;Yen-ch’eng
+Yekaterinburg|RU||7z|4dy|4oe|bjb|Ekaterinburg;Ekaterinburgo;Jekaterinburg;Ekaterinbourg;Catharinoburgum;Jekaterinburgas;Jekaterinburga;Jekaterinenburg;Jekaterynburg;Ekaterimburgo;Jekatyerinburg;Yekaterinburq
+Yerevan|AM||80|33m|3fn|8tz|Jerewan;Ereván;Jerevan;Erevano;Iereván;Êrîvan;Erywań;Jerevanas;Yiriwan;Jerjewan;Jerevani;Eireaván;Erevāna;Erevanum;Eriwan;Djerevan;Revan;Iravan;Erewan
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Yazd|IR||7o|2gm|471|3or|Jazd;Jazdo;Jezdas;Yasd;Jasd;Yezd
+Yan’an|CN||7i|2to|8g5|3o0|Yen-an
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Sejong|KR||7h|2tn|9tl|31m|Yeongi;Sedżong
+Yanzhou|CN||7i|2qr|90j|2wb|Yenzhou
+Yenagoa|NG||u|dp|hf|2te|Yenaqoa;Yenegoa
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+Yeosu|KR||7h|2ok|9um|22o|Josu;Yŏsu
+Yei|SS||p|bd|2d8|20f|Jej;Jėjus;Yēy
+Yakutsk|RU||7x|4sb|a0c|1tg|Jakutsk;Iakoutsk;Yerkutsk
+Phổ Yên|VN||62|1ni|865|1sa
+Kropyvnytskyi|UA||98|3qr|2hn|1p1|Kirowohrad;Kirovohrad;Kirowograd;Kirovograd;Kirovoqrad;Kirovohrado;Kirovohradas;Kirovogrado;Kirovohrada;Yelisavetgrad;Jelizawietgrad;Zinowjewsk;Kropywnycki;Jelisawetgrad;Kropywnyzkyj;Kirovo;Zinovievsk;Zinovyevsk;Elisavetgrad;Elizabethgrad;Kirivograd;Kropivnicki
+Novi Beograd|RS||8q|3gh|1kq|1ma|Novi Belgrade;Nový Bělehrad;Yeni Belgrad;Novbeogrado;Nowy Belgrad;Nova Belgrado;New Belgrade
+Việt Yên|VN||6h|1n3|86t|1l7
+Yanbu|SA||7e|1ux|2xq|1jm|Yambo;Yenbo
+Phúc Yên|VN||62|1n0|85m|1e0
+Yangchun|CN||7i|1pl|8mi|16n|Yeungchun
+Lárisa|GR||8p|323|1qa|14t|Yenişehir;Larissa
+Shache|CN||7t|2yq|5yk|zl|Yarkand;Yeken;Yarkant;Yarkend;Yarkent
+Yevlakh|AZ||61|34u|3mz|ze|Evlak;Yevlax
+Vĩnh Yên|VN||62|1n7|85c|x3|Vieh Yen
+Hưng Yên|VN||62|1ld|86l|wy|Hong-Yen
+Yelahanka|IN||6t|10e|5zk|wc
+Yelets|RU||9i|425|2yz|w5|Jelez;Jelec;Ielets;Elec;Jelets;Elecum;Jelecas;Eleț
+Yeoju|KR||7h|2vm|9uj|v3|Yŏju
+Yenangyaung|MM||7y|1kv|7bj|uq|Yenangyoung
+Yên Vinh|VN||62|1fv|85j|tr
+Yevpatoriya|UA||9t|3hk|2kp|tq|Jewpatorija;Jevpatorija;Evpatorya;Eupatoria;Eŭpatorio;Kezlev;Yevpatoria
+Yezhou|CN||7i|2d0|8gs|t4
+Xincheng|CN|Xinjiang|7t|37v|6ed|sk|Koutcha;Kuqa;Kucha;Yëngisheher;Kuchar;Kuchi;Kocha;Kuchu;K’u-ch’e;Kuga;Kuche
+Yên Bái|VN||62|1oc|83f|ry|Yen Bay
+Yeyuan|CN||7i|2t6|956|r7|Yeh-yüan
+Yasuj|IR||7o|2d7|3zb|qw|Yasudsch;Yasuc;Jásúdž;Yesūj
+Yeysk|RU||9i|3lp|2yc|oe|Jeisk;Jejsko;Jejsk;Ieïsk;Ejsk;Eisk;Yeisk
+Novi Pazar|RS||8q|3bu|1kz|nw|Yenipazar;Yeni Pazar
+Yegor’yevsk|RU||9i|49u|30g|no|Jegorjevsk;Egorievsk;Jegorjewsk;Yegorevsk
+Yeongju|KR||7h|2ua|9xb|ni|Yŏngju
+Yessentuki|RU||9i|3ed|3b2|mi|Jessentuki;Yessentaki
+Yên Hòa|VN||62|1me|85v|le
+Yenakiyeve|UA||98|3q0|2y4|lb|Yenakiieve;Jenakijeve;Jenakijevo;Yenakijeve;Yenakiyevo
+Yelabuga|RU||9i|4aw|40k|k6|Jelabuga;Jelaboega;Elabuga
+Yebaishou|CN||7i|370|98c|i7|Yeh-pai-shou
+Yendi|GH||1|q8|-1|hz|Jendi
+Yanliang|CN||7i|2oa|8ff|gx|Yen-liang
+Yantongshan|CN||7i|3c9|9q1|fz|Yen-t’ung-shan
+Yecheon|KR||7h|2tu|9wu|f9|Yech’ŏn
+Jelgava|LV||9n|4dd|1tv|f8|Mitau;Mitawa;Mitava;Jelgawa;Elgava;Yelgava;Iyelgava
+Giurgiu|RO||8u|3dx|204|f6|Zurz;Gyurgyevó;Yergöğü;Fekete Gyergyó
+Yeonggwang|KR||7h|2q0|9rf|ed|Yŏnggwang
+Yeongam|KR||7h|2oo|9ry|ec
+Yerba Buena|AR||1v|-22h|-51e|e4
+Yeovil|GB||9b|3xi|-7b|dy|Jouvilis;Giuela
+Yeola|IN||6t|1jo|5qx|du|Yevla
+Yên Nghĩa|VN||62|1m7|85p|ds
+Yŏch’im-dong|KP||7a|344|9ru|d7|Yeochimdong
+Yefremov|RU||9i|43m|2xw|cn|Jefremov;Iefremov;Efremov;Jefriemow;Jefremow
+Yellandu|IN||6t|1cv|674|c6
+Yeongdong|KR||7h|2sh|9uy|c5|Yŏng-dong
+Yelizovo|RU||6p|43r|c7y|bb|Jelizovo;Elizovo
+Yesan|KR||7h|2tw|9sc|ay|Jesan;Yŏsan
+Yew Tee|SG||7j|3w|807|av
+Yeadon|GB||9b|45m|-4p|ae
+Yabēlo|ET||2|dk|2xs|a3|Yavelo;Yeabelo;Yābalo;Yebelo
+Yerköy|TR||94|324|2nr|9t
+Yecla|ES||9d|2z9|-33|9q|Iecla
+Yepocapa|GT||32|14a|-70n|9p
+Yeonil|KR||7h|2s0|9z8|9m|Yŏnil
+Ye|MM||7y|16d|7ju|9k
+Yanamalakuduru|IN||6t|19t|683|9i|Yenamalakuduru
+Yarīm|YE||5r|13q|3fa|97|Yerim
+Yeşilli|TR||94|2vq|35e|8x
+Yengisar|CN||7t|305|5vl|8n
+Yegyi|GH||1|mv|-1t|8f|Yeji
+Yebao|CN||7i|2p2|85h|8d
+Yemanzhelinsk|RU||7z|483|4qc|8a|Jemanschelinsk;Iemanjelinsk;Emanželinsk;Jemanželinsk;Jemanĵelinsk;Yemanjelinsk;Jemanzjelinsk;Yemanzhelinka
+Yehud-Monosson|IL||6n|2gz|2ow|85
+Yerres|FR||9k|3rc|6x|81
+Yenişehir|TR|Bursa Province|94|33u|2ad|7z
+Elamanchili|IN||6t|1cr|6e6|7l|Yellamanchili
+Didim|TR||94|2vu|23q|78|Yenihisar
+Yehud Monosson|IL||6n|2gz|2ox|74|Yehud;Yahud;Yhud;Jehud;Jehudas
+Yengitam|CN||7t|3dj|6au|6w
+New Yekepa|LR||15|l2|-nq|6v|Yekepa;Jekepa
+Yedashe|MM||7y|1h8|7fn|6s
+Yên Phụ|VN||62|1mf|85z|6n
+Yershov|RU||9s|3yo|3q3|6l|Jersjov;Ierchov;Eršov;Yerşov;Ierxov;Jerŝov;Jeršow;Jerschow
+Nova Zagora|BG||9v|3a0|20a|6k|Yeni Zağra;Nowa Zagora;Eni Zagra;Ienizagra;Nowa Sagora;Jeni Zagra;Yeni Sagra
+Yesagyo|MM||7y|1o3|7cl|6h|Yezagyo
+Yafran|LY||1d|2h2|yt|6b|Yefren;Jefren;Iefren;Yafrin
+Yenişehir|TR|Kars Province|94|34q|3bp|5t
+Ye-u|MM||7y|1r9|7d3|5p
+Yellāpur|IN||6t|15k|5rj|5p
+Yende Millimou|GN||f|op|-s9|5o
+Yellowknife|CA||2s|4th|-8tp|5n|Cultellus Flavus;Yellounayf;Jelounaifas;Jelounaifa;Jelonajfo
+Yessentukskaya|RU||9i|3eb|3b3|5k|Jessentukskaja
+Yeniseysk|RU||6u|4id|741|5j|Jenisejsk;Jenisseisk;Eniséjsk;Jeniseiskas;Eniseisk;Yeniseisk
+Goygol|AZ||61|34r|3ko|5i|Xanlar;Khanlar;Helenendorf;Elenendorf;Yelenendorf
+Jericho|PS||6g|2gj|2qh|5i|Arīḩā;Jericó;Jerihon;Jeriko;Gerico;Jerichas;Jerycho;Jērika;Chericó;Jeriĥo;Jeeriko;Ireachó;Xericó;Yerikho;Iericho;Ierihon;Yeriko;Eriha;Arihon;Arişa;Arihoon;Arihoo;Yerīhō
+Sevan|AM||80|34n|3gv|5h|Yelenovka;Sewan;Ssewan
+Yelizavetinskaya|RU||9i|3h5|2zr|5d|Jelizavetinskaja;Jelisawetinskaja
+Yegorlykskaya|RU||9i|3ld|34y|50|Jegorlykskaja;Yegorlkskaya
+Germasógeia|CY||73|2og|2jw|4t|Yermasoyia;Yermasoya
+Yangirabot|UZ||7g|337|538|4q|Yenirabat;Yangirabad;Yangirabod
+Yecapixtla|MX||41|1gg|-7mm|4o|Yecapixilac
+Yemva|RU||9i|4tv|3xa|4k|Zjeleznodorozjnyj
+Yeung Uk Tsuen|HK||6i|1qd|8sq|4i
+Yeang|KH||78|11n|7zt|4i
+Yeni Suraxanı|AZ||61|34b|3v0|4h
+Yerkhera|IN||6t|1my|63z|4d
+Yamjāl|IN||6t|1bz|62a|4d|Yemjal
+Yeşilova|TR|Adana|94|2y0|2sq|48|Yeşiloba
+Yelan’|RU||a4|3xj|3di|48|Jelan
+Yeniköy|TR|Istanbul|94|368|28r|46|Yeni Kioi
+Yellāreddi|IN||6t|1ej|60q|45
+Yelbarga|IN||6t|17e|5v5|44
+Yên Viên|VN||62|1mk|868|41
+Yeşilhisar|TR|Kayseri|94|2yj|2ph|40
+Yereymentau|KZ||5s|3ze|5n2|3y|Ereymentaū;Yermentau;Ermentaū
+Yeşilyurt|TR|Malatya|94|2ye|2y9|3u
+Yengema|SL||l|o7|-v1|3q
+Yeghvard|AM||80|340|3fk|3o|Jeghward;Eghvard;Jegvard;Jegvardas;Jegward;Jeghvard;Yeğvard;Yexvard;Exvard;Yegvart
+Yelwa|NG||u|oj|qr|3o
+Nieuw Nickerie|SR||4h|gh|-4e9|3k|Yeni Nickerie;Nueva Nicaría;Yeni Nikeri;Neu-Nickerie;Sabuwar Nickerie;Nova Nickerie;New Nickerie
+Ierápetra|GR||8p|2p9|1zi|3g|Yerapetra;Yirápetra;Ierapitna
+Grand Berebi|CI||0|cx|-j8|3d|Yeh;Grand Béréby
+Yemetsk|RU||9i|4wb|382|3c
+Yeroẖam|IL||6n|2e3|2p1|3c|Yeruham;Jerocham;Jeruĥam;Jerucham;Jeroham
+Yelur|IN||6t|17u|5r0|3b|Yellur
+Novo Selo|MK|Novo Selo|9u|372|1rk|3a|Yeniköy;Yenikoj
+Yercaud|IN||6t|wq|619|38
+Yeadon|US||48|32y|-5t2|37
+Yenifakılı|TR||94|30x|2p8|37
+Yangī Qal‘ah|AF||6o|2w3|5dd|33|Yangi Qala;Yangi Kala;Yangī Qal‘eh;Yengī Qal‘eh
+Yemel’yanovo|RU||6u|4c1|75f|30|Jemeljanovo
+Yenugonda|IN||6t|1ak|60s|2y
+Yenumalapalle|IN||6t|13a|606|2x
+Yekaterinoslavka|RU||7x|3vx|9yn|2u|Jekaterinoslavka;Yekaterinoslovka
+Yermolino|RU|Kaluga Oblast|9i|49b|2to|2t|Jermolino
+Yeliguan|CN||7i|2p4|7zy|2t|Yeh-li-kuan
+Yel’nya|RU||9i|47m|2k6|2t|Jelnja;Elnya
+Géri|CY||73|2pj|2ku|2p|Yeri
+Yŏmju|KP||7a|32t|9m4|2m|Yeomju
+Yershovo|RU||9i|4ax|2ue|2m
+Yengibag|CN||7t|2up|6aw|2j|Yéngiwagh
+Yermakovskoye|RU||6u|440|74o|2h|Jermakovskoje;Yermakovskoe
+Yelandūr|IN||6t|xh|5xz|2h
+Yelanskiy|RU||7z|4dw|4tm|2f|Jelanskij
+Yel’sk|BY||9g|3zx|28z|2e|Karolin;Jelsk;Jelskas;Elsk
+Ye Su|MM||7y|1be|7f1|2d|Yezu
+Yelm|US||3p|3me|-9gl|2c
+Yeed|SO||14|cn|3bj|2c|Yēd;Yeid
+Yerbabuena|MX|Guanajuato|41|1m8|-7tb|2c
+Yenotayevka|RU||8o|3n8|3mn|28|Jenotajevka;Yenotayevsk
+Yeang Dangkum|KH||78|127|7xg|26
+Yerrabalem|IN||6t|122|66a|26
+Iepê|BR||4w|-1qy|-3xw|24|Yepé
+Yechagām|IN||6t|2mf|5rn|23
+Yedy-Kuyu|UA||9t|3hu|2re|22|Lenino;Yedi Kuyu;Yedi Quyu;Lenine;Sim Kołodiaziw;Yedy Kuyu;Yedy-Kuiu
+Yeghegnadzor|AM||80|32g|3hx|21|Yeğegnadzor;Jeghegnadsor;Eghegnazor;Jeghegnadzor;Jeghegnadzoras;Ehegnadzor;Jechegnadzor;Jehegnadzor;Yeğeqnadzor;Mikoyan;Keshishkend;Keshishkent;Yexegnadzor;Exegnadzor;Jehegnadzora;Eghegnadzor;Yekhegnadzor
+Yennadon|CA||5b|3sr|-9gj|1z
+Yeppoon|AU||8c|-1s9|bmq|1y
+Yehualtepec|MX||41|1g8|-7ja|1x|San Simón
+Yeşilyurt|TR|Tokat Province|94|341|2sz|1x
+Yeniçağa|TR||94|359|2gz|1x|Yeniçağ
+Yeşilova|TR|Burdur|94|2w7|2an|1w
+Yeni|TR|Ağrı|94|31w|3eg|1u
+Yerseke|NL||8m|3z1|b9|1t|Yrseke;Iese;Iersekė;Iersake;IJerseka
+Yenipazar|TR|Aydın|94|2x2|26c|1t
+Yeppoon city centre|AU||8c|-1s9|bmq|1s
+Yekaterinovka|RU|Saratov Oblast|9s|40l|3f7|1s|Jekaterinovka;Jekaterinowka;Jekatyerinovka
+Yıldızeli|TR||94|32r|2to|1s|Yenihan;Norxan
+Yeronga|AU||8c|-24g|bt2|1s
+Yermolayevo|RU||7z|42e|4b2|1s|Jermolajevo;Yermolayevka
+Yetkul’|RU||7z|48a|4r2|1q|Jetkul
+Yemilchyne|UA||98|3xb|258|1q|Emilchin;Jemiltschyne;Yemilçıne;Iemiltchyne;Emilczyn;Emil’chino;Yemil’chyne;Yemil’chino
+Yërzovka|RU||a4|3ry|3g1|1q|Jerzovka;Yëzovka
+Yorobodi|CI||0|mk|-a8|1m|Yoroboudi;Yérébodi
+Gugark|AM||80|35c|3fq|1m|Yaghublu;Meghrut;Gugarq;Yeghapli;Yeghaplu;Yeghubli;Yeghublu;Yaghubli;Yaghuplu;Megrut
+Yelovo|RU||7z|4eh|48k|1k|Jelovo
+Yerofey Pavlovich|RU||7x|45w|9es|1i|Jerofej Pavlovitsj;Jerofei Pawlowitsch;Jerofej Pavlovitj;Erofej Pavlovič;Jerofej Pavlovič;Yerofey Pavloviç;Jerofiej Pawłowicz;Yerofei Pavlovich;Erofei Pavlovich
+Yeranos|AM||80|33o|3hj|1h
+Yelan’-Koleno|RU||9i|3y3|36j|1h
+Yenişarbademli|TR||94|2wr|2f7|1g
+Ye Mun|MM||7y|1bm|7fg|1e
+Yengī Emām|IR||7o|2ru|3ww|1e|Yangī Emām;Yangi Imām
+Nieuw Amsterdam|SR||4h|gd|-491|1d|Nieuw-Amsterdam;Yeni Amsterdam;Nueva Ámsterdam;Neu-Amsterdam;Sabuwar Amsterdam;Nova Amsterdã
+Yehiapur|IN||6t|20n|6l8|1d
+Yenidoğan|TR||94|2ws|243|1d|Muhacirköy
+Yelanets|UA||98|3oi|2gh|1c
+Yarqā|JO||5t|2gu|2r6|1c|Yerqa
+Yepes|ES||9d|32u|-a3|1c
+Yermish’|RU||9i|485|39f|1a|Jermisj
+Olenivka|UA|Donetsk|98|3ov|2wm|19|Olenovka;Yelenovka
+Yenibağarası|TR||94|2ze|22k|19
+Yéleu|CI||0|jd|-md|18
+Yelagiri|IN||6t|yy|62g|18
+Yeniköy|TR|Bursa Province|94|34m|29j|18
+Yeni|TR|Ağrı|94|310|3b2|17
+Yérébaye|CI||0|n7|-7t|17|Yérékaye
+Yermekeyevo|RU||7z|467|453|16|Yermikeyevo
+Yemanzhelinka|RU||7z|488|4qa|15|Jemanzjelinsk
+Yelan’-Kolenovskiy|RU||9i|3y4|36b|15
+Jebha|MA||d|2pt|-cz|15|Yebha;Jebba
+Yesāqī|IR||7o|2ub|46o|15
+Yelantsy|RU||6k|42o|87l|14|Jelantsy
+Yeni|TR|Kars Province|94|34s|3bq|14
+Yaresky|UA||98|3ug|2m7|14|Yares'ki;Yares’ky;Yeres’ki
+Yembayevo|RU||7z|4er|52p|13|Jembajevo
+Yeşilyurt|TR|Gaziantep|94|2uh|2tk|13|Dolan
+Yerky|UA||98|3s3|2e4|13|Jerky;Yerki
+Yeşilovacık|TR||94|2sj|2li|13
+Yên Lộc|VN||6h|1fa|85n|13
+Yertsevo|RU||9i|4ow|33d|13|Jertsevo;Jerzewo;Jercewo;Ercevo;Jercevo;Ertsevo
+Yellow Springs|US||48|32l|-6h1|12|Yellow Spring;Yellowsprings
+Yeşilalan|TR||94|2w2|35b|12
+Yalābād|IR||7o|2p3|3vr|12|Mīlābād;Valābād;Yelābād
+Egindiköl|KZ||5s|3xt|5d0|12|Yegindykol’
+Yenifoça|TR||94|2zl|22j|11|Yenicefoca
+San Agustín Yatareni|MX||41|1bg|-7gj|11|Yelateni
+Yenice|TR|Bursa Province|94|32g|28b|11
+Khojavend|AZ||61|32j|3mv|11|Novyy Karanlug;Yeni Karanlig;Yangi Karanliq
+Yelat’ma|RU||9i|48p|37z|11|Jelatma
+Yenice|TR|Bursa Province|94|33d|29q|11
+Yeşilyuva|TR||94|2wd|29r|11
+Yelverton|GB||9b|3w9|-bc|10
+Yefimovskiy|RU||9i|4la|2ob|10|Jefimovskij;Yefimovskaya
+Yeste|ES||9d|2yl|-6g|10
+Yeban Norte|PH||71|1ba|9eq|10|Yeban
+Yekaterinovka|RU|Primorye|7w|3b8|a9l|10|Jekaterinovka;Yekateranovka
+Yenişakran|TR||94|301|237|10
+Yézimala|CI||0|mt|-87|z|Yé-Nzimala
+Ozerna|UA||98|3tv|1yd|z|Jezierna;Yezerna
+Gétigné|FR||9k|3ms|-3h|x|Yestinieg;Gestiniacum
+Yelizavetinskoye|RU||9i|3h1|3cf|x|Jelizavetinskoje
+Yeniköy|TR|Batman|94|2x8|361|x|Yenikly
+Yépleu|CI|Montagnes|0|lg|-lq|w
+Yextla|MX||41|1cw|-7pl|w
+Yershichi|RU||9i|453|2iz|w|Jersjitsji
+Yerbas Buenas|CL||4u|-2rb|-5iv|w
+Yelkhovka|RU||9p|45n|3vo|v|Jelkhovka
+Yerington|US||3p|30b|-970|v
+Yecuatla|MX||41|1j7|-7gu|u
+Yelizavetino|RU||9i|4l9|2aq|u|Jelizavetino;Jelisavettina
+Yeles|ES||9d|33g|-ak|u
+Yécora|MX||37|26t|-8el|t
+Yeşil Çimen|TR||94|310|3b4|t
+Edinburgh of the Seven Seas|SH||89|-2uz|-y7|t|Edimburgo de los Siete Mares;Edinburgh-of-the-Seven-Seas;Edinburgas;Edimburgo dos Sete Mares;Èideann na Seachd Muir;Karedin an Seyth Moryow;Edinburga Septiņās Jūrās;Yedi Deniz Edinburgh;Yetti Dengiz Edinburgi;Edinburgh dari Tujuh Laut;Edinburgh Tujuh Lautan;Édimbourg des Sept Mers;Edinburgh der Sieben Meere;Edinburgh na Bakin Ruwa Bakwai;Edinburgh Pitung Segara;Edinburgh Dalaloota Torba;Edinburgh ee Toddobaadka;Edinburgh ya Bahari Saba;Edinburgh
+Yenne|FR||9k|3iy|g0|s|Epauna
+Yezupil|UA||98|3s8|1wu|s|Yézoupil;Jezupol;Jesupil;Jezupil;Iezupil
+Yeniugou|CN||7i|2yr|7og|r|Yeh-niu-Kou
+Yeni|TR|Düzce|94|35g|2dw|r
+Yeşildere|TR|Gaziantep|94|2uq|2w6|r
+Akyeniköy|TR||94|2w5|23u|r|Yeniköy
+Yalizava|BY||9g|44c|28k|q|Yelizovo
+Yeni|TR|Iğdır|94|338|3da|q
+Gestel|FR||9k|3os|-9k|o|Yestael
+Yeghegnut|AM|Armavir|80|33d|3ep|o|Eghegnut;Yexegnut;Exegnut;Yekheknut
+Yelshanka|RU||9s|3zx|3kw|o|Jelsjanka
+Yelyzavetivka|UA||98|3r2|2o9|n|Lysavetivka;Yelizavetovka
+Yepifan’|RU||9i|45j|2z3|n|Jepifan;Yepinfan’
+Yenikent|TR||94|2zz|29d|n|Yeniköy
+Yélé|CI||0|ro|-ha|n|Yéllé
+Yerville|FR||9k|3tz|2i|m
+Agía Paraskeví|GR|Central Macedonia|8p|34g|1s1|m|Yenikoÿ;Ayía Paraskeví
+Yeşiltepe|TR|Mersin|94|2uc|2ox|l|Yesikuyu
+Yengījeh|IR||7o|2ww|3jt|l|Engijeh;Yengejeh
+Yenicekent|TR||94|2xo|28e|l
+Yeni|TR|Ağrı|94|31u|3as|l
+Yel’digino|RU||9i|4bw|2x2|l
+Yerbogachen|RU||6k|4q8|8c2|k|Jerbogatsjen;Erbogachen
+Yemişli|TR||94|2vt|3bo|k
+Yeniköy|TR|Aydın|94|2wq|24g|k
+Yeyskoye Ukrepleniye|RU||9i|3lr|2z9|k
+Yelten|TR||94|2ve|2by|j
+Genisséa|GR||8p|362|1xc|j|Yeniséa
+Yeerongpilly|AU||8c|-24h|bt1|j
+Yékolo|CI||0|mq|-dn|i
+Yea|AU||8j|-2vd|b7z|i
+Yèvres|FR||9k|3px|3b|i|Evra
+Aigialoúsa|CY||6e|2qq|2mz|i|Yeni Erenköy;Gialousa;Yenierenköy
+Yedisu|TR||94|31j|34l|i
+Yeraskhahun|AM||80|33b|3eu|i|Eraskhahun;Erasxahun;Yerasxahun;Yeraskhaun
+Yevsuh|UA||98|3sp|317|h|Yevsug
+Yesud HaMa‘ala|IL||6n|2ju|2qx|h|Yisud HaMa‘ale;Yesud Ham Ma‘alā
+Yealmpton|GB||9b|3vv|-b4|h
+Novoselivka|UA|Odesa|98|3iw|29b|g|Enichioi;Yeniküü;Novossélivka
+Yertarskiy|RU||7z|4dr|4ym|g|Jertarskij;Yertarskoye
+Yennora|AU||8l|-2m2|bnd|g
+Yeniçağlar|TR||94|2xz|36k|g
+Yelizavetinka|RU||7z|3zt|4ly|g|Jelizavetinka;Jelisawetinka;Yelizavetinski
+Yanmen|CN||7i|25e|8gu|g|Yen-men
+Yekeh Tūt|IR||7o|2ub|442|g
+Yeghegnavan|AM||80|32o|3fy|g|Yexegnavan;Exegnavan
+Yekimovichi|RU||9i|46b|2ki|f|Jekimovitsji
+Yeşilyayla|TR||94|2vh|2bz|f
+Yeşilhisar|TR|Afyonkarahisar Province|94|2zf|2b6|f
+Yeşilköy|TR|Adana|94|2tv|2ql|f
+Yenda|AU||8l|-2n5|ba4|f
+Yérétiélé|CI||0|pc|-ho|f|Yérétyélé
+Yemtsa|RU||9i|4v7|341|e|Jemtsa;Jemza;Emca;Emtsa
+Yéalé|CI||0|kx|-ne|e
+Yerri|ES||9d|3am|-5e|e
+Ye Chaung|MM||7y|1af|7f3|e|Yegyaung
+Yenibaşlar|TR||94|30c|351|e
+Yébouéblessou|CI||0|kq|-da|e|Yéboué-Blessou
+Yemelyanovka|UA||9t|3ih|2oy|e
+Yébleron|FR||9k|3tv|1i|e
+Banājūy-e Shomālī|IR||7o|2vm|3ju|e|Yengikand-e Khaneh-ye Barq;Yêngîkend Xanêberq
+Yerazgavors|AM||80|352|3dm|e|Kyolanlu;Aralik;Aralikh
+Yetla|MX||41|1b7|-7ps|e
+Yermolino|RU|Moscow Oblast|9i|4bz|2w5|d
+Geráki|GR||8p|2ur|1r3|d|Yeráki
+Géfyra|GR|Peloponnese|8p|2tx|1s0|d|Yéfira
+Yenipazar|TR|Bilecik|94|33m|2cs|d
+Yeşilöz|TR||94|2t3|2hh|d
+Yên Thượng|VN||6h|1gg|84g|d
+Enisala|RO||8u|3go|282|d|Yeni sala
+Yetla de Juárez|MX||41|1d3|-7k7|d
+Yinnon|IL||6n|2g6|2om|d|Jinon;Yinon;Yenon
+Yépleu|CI|Montagnes|0|k4|-mz|d|Yapleu
+Yelpin|AM||80|32l|3hb|c|Elpin;Yelp’in;Jelpina;Jelpin
+Gennadi|GR||8p|2s2|25k|c|Yennádhion;Yennádhi
+Yégolé|CI||0|lj|-lf|c
+Yeboué|CI||0|kv|-dr|c
+Yeni Mahallesi|TR|Iğdır|94|32v|3ej|c
+Yelyzavethradka|UA||98|3rk|2i0|c|Jelysawethradka;Yelezavetgradka;Jelizavethradka;Yelızavetgradka;Jełyzawethradka;Ielîzavethradka
+Yëlkino|RU||7z|4j1|4m7|c|Jelkino
+Yevhenivka|UA|Mykolaiv|98|3mt|2je|c
+Yellville|US||2f|2sn|-75g|c
+Yetlancingo|MX||41|1d8|-7nc|c
+Yengī Kand-e Seyyedlar|IR||7o|2t9|3q2|c|Yengī Kand Seyyedlar;Yangī Kand-e Seyyedlar
+Yedrovo|RU||9i|4gv|2le|c|Jedrovo;Jedrowo
+Yeni|TR|Kars Province|94|341|3ac|c
+Yerrinbool|AU||8l|-2nh|bm6|b
+Yeşilköy|TR|Isparta|94|2xj|2e4|b
+Yecapixteca|MX||41|1gg|-7mq|b
+Yerbabuena|MX|San Luis Potosí|41|1o9|-7rx|b
+Yetminster|GB||9b|3xe|-76|b
+Yeniköy|TR|Şırnak|94|2vj|39u|b
+Yedogon|RU||6k|46p|7qg|b|Jedogon
+Yenipınar|TR|Batman|94|2x4|36q|b
+Yeniçiftlik|TR||94|33y|23i|b|Lofcaicedit;Yeni Lofça;Lofça-i Cedid
+Yeşilbağ|TR||94|2wr|335|b
+Gerakaroú|GR||8p|34v|1si|b|Yerakarou
+Yengī Kand|IR||7o|2vl|3k7|b|Yengikand-e Khusheh Mehr
+Yeagertown|US||48|34w|-5zi|b
+Yédandiékaha|CI||0|px|-dq|a|Yédiandékaha
+Yéouli|CI||0|ck|-l0|a
+Yerevan Quarter|UA||98|3z4|2dg|a|Yerevanskyi kvartal
+Yevbaz|UA||98|3w5|2cp|a|Yevreyskyi bazar
+Yens|CH||a7|3l8|hu|a
+Veremiivka|UA||98|3tw|2kd|a|Veremiyivka;Yeremeivka
+Yellow Rock|AU||8l|-2lm|bmf|a
+Yeraskh|AM||80|32e|3gj|a|Yerasx;Erasx
+Yehorivka|UA|Odesa|98|3ls|2cg|a|Yegorovka
+Yemassee|US||48|2it|-68l|a
+Yehorivka|UA|Donetsk|98|3oj|2vf|a|Yegorovka;Ehorivka
+Yeşiltepe|TR|Şanlıurfa|94|2um|33p|a
+Yerbabuena Isbontick|MX||41|1b1|-75z|9
+Geráni|GR||8p|2q7|1vs|9|Yeráni
+Yeniköy|TR|Şanlıurfa|94|2v5|301|9
+Yermakovo|UA||9t|3jd|2nt|9
+Yeni|TR|Düzce|94|35k|2e0|9
+Yeni Mahallesi|TR|Iğdır|94|32v|3e5|9
+Yeniköprü|TR||94|2zl|39u|9|Karmuç;Yenikköprü
+Yeşildere|TR|Burdur|94|2uv|29m|9
+Yebouékro|CI||0|lt|-e2|9
+Yeghegnut|AM|Lori|80|35m|3fz|9|Eghegnut;Ghamishkut;Ghamshkut;Yegegnut;Yekheknut;Yekhegnut
+Yeni|TR|Ağrı|94|321|3bf|9
+Yérékayekoko|CI||0|mm|-91|9
+Yéré Yéré|CI||0|hc|-9i|9
+Ye Chaung Wa|MM||7y|1af|7f2|8|Yegyaungwa
+Yeniköy|TR|İzmir Province|94|2y7|25i|8
+Yernée-Fraineux|BE||8t|3wd|ey|8
+Yeniyayla|TR||94|2v2|2qs|8
+Yetzucum|MX||41|1aw|-74s|8
+Yenice|TR|Isparta|94|2xy|2dz|8
+Yeşildere|TR|Karaman|94|2v8|2l3|8
+Yébouakro|CI||0|kq|-9f|8
+Yeni Mahallesi|TR|Kars Province|94|35h|3cd|8
+Yébouébo|CI||0|j6|-dx|8|Yébouéla
+Yeleyevo|RU||9i|4dy|3ta|8|Jelejevo
+Yelyzaveto-Mykolaivka|UA||98|3ov|2yi|8|Yelyzaveta-Mykolaivka;Yelyzaveto-Mykolayivka
+Yenipınar|TR|Aksaray|94|2y1|2n5|8
+Yelvertoft|GB||9b|41h|-34|8
+Yeghipatrush|AM||80|34l|3fj|8|Yexipatrush
+Artabuynk|AM||80|32r|3hx|8|Erdapin;Yeghegis;Artaboyn
+Yéyaradougou|CI||0|mc|-bp|8
+Yevhenivka|UA|Odesa|98|3kv|294|8|Yevgen’yevka;Jewheniwka;Jevheņivka;Evghenița;Yevgenita;Yevgenovka
+Yeniköy|TR|Antalya|94|2ud|2f7|8
+Yèvre-la-Ville|FR||9k|3pq|6h|8
+Yepachic|MX||2g|26y|-8d2|8
+Yeletskiy|RU||9i|569|4yd|7|Jeletskij
+Yenice|TR|Elazığ|94|2z6|313|7
+Yeẖi‘am|IL||6n|2jo|2pu|7
+Yelapa|MX||41|1kx|-84x|7|Yalapa
+Yelizavetovo|UA||9t|3i9|2ko|7|Mor Qalpi
+Yenguébo|CI||0|l4|-d4|7|Yanguébo
+Yerba Santa|MX|Oaxaca|41|19f|-7a3|7
+Yenice|TR|Balıkesir|94|347|263|7
+Yeşilkaraman|TR||94|2v4|2dk|7
+Yevdokimova|RU||6k|46r|7rm|7|Jevdokimovo;Yevdokimovo
+Yeğenli|TR||94|37c|2hx|7|Yeğanlı
+Yeremiivka|UA||98|3m0|2cd|7|Yeremiyivka;Yeremeyevka
+Yervandashat|AM||80|33g|3db|7|Ervandashat;Eruandashat
+Yeniköy|TR|Ardahan|94|378|3ay|7
+Gelánthi|GR||8p|31k|1ob|7|Yelánthi;Gilánthi
+Yeniyıldız|TR||94|2w3|2nj|7
+Yeserti|TR||94|2ud|2x5|7
+Yediyol|TR||94|2ur|305|7|Resmel’khamar;Resmelhamur;Resmenhamar;Resmelhamar;Resmelhamer
+Yelkovan|TR||94|2x1|2z3|6
+Yerba Santa|MX|Guerrero|41|1bs|-7mo|6
+Yelkesen|TR||94|2wm|38m|6
+Yizre‘el|IL||6n|2ig|2q4|6|Yizra‘ēl;Yezre‘el;Yizr‘el
+Yeniaydın|TR||94|2x8|39v|6
+Yeşilova|TR|Ağrı|94|32e|3ay|6
+Yermo|US||3p|2oy|-90i|6
+Yèbles|FR||9k|3r4|7p|6
+Georgianí|GR||8p|35s|1v3|6|Yeoryianí
+Hovuni|AM||80|35j|3do|6|Yasaul;Yesaul;Pyunik;Ovuni
+Yoboué Ndolikro|CI||0|k3|-cz|6|Yéboue Ndolikro;Yeboué-Ndolikro I
+Yevhenivka|UA|Donetsk|98|3of|2v1|6|Yevgenivka;Yevgenovka
+Yeşilçam|TR||94|35d|2et|6
+Yerbas Buenas|MX||41|1gg|-7p0|6
+Yeşilyurt|TR|Antalya|94|2sz|2bn|6
+Yedigelli|TR||94|369|2fa|6
+Yeşilyurt|TR|Şırnak|94|2vn|392|6
+Yelkenli|TR||94|2yx|3a6|6|Sorp
+Yeşil|TR||94|32r|39v|6
+Gérmas|GR||8p|34e|1nj|6|Yérmas
+Yeniköy|TR|Bingöl|94|2zy|34u|6
+Yenilmez|TR||94|2w7|35v|6
+Yernjatap|AM||80|34e|3fj|5|Ernjatap;Yerinjatap
+Yedigöz|TR||94|2uf|2uc|5
+Yermenonville|FR||9k|3qw|4i|5
+Yeniköy|TR|Antalya|94|2sn|2a8|5
+Yenokavan|AM||80|35n|3hb|5|Krdevan;Yenoqavan;Enoqavan;Kirdevan;Kodevan;Shiraz
+Yeniköy|TR|Bilecik|94|33f|2bi|5
+Süleymanlı|TR|Kahramanmaraş|94|2x8|2ub|5|Yeni Şehir;Zeytün;Zeïtoun;Zeitun
+Yebra|ES||9d|344|-89|5|Aebura
+Yerbanís|MX||44|1wq|-80g|5|Yervanís
+Yellingbo|AU||8j|-2x5|b89|5
+Yeşilbarak|TR||94|2tn|2ag|5
+Yéré-Yéré|CI||0|hb|-9k|5
+Yéipleu|CI||0|ij|-mz|5
+Yeşilova|TR|Hatay|94|2sr|2sp|5

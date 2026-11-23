@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Al Jubayl|SA|Eastern Province|7e|232|3tu|1tx|Jubail;Al-Dschubail;Al-Jubayl;Džubail;Al-Dżubajl;El-Cübeyl;Al Jubail;Jubayl
+El Jadida|MA||d|2ke|-nn|1n5|Mazagão;El-Jadida;El-Yadida;Al-Djadida;Al-Džadída;Džadida;Mazaghan;Castilho Real;Mazagan;Al Yadida;El Jadid;Al Jadida
+Al Khums|LY||1d|2ip|13m|1k3|Al-Chums;Al Ĥums;Khums;Humsas;Kums;Al-Khums;El Hums;Al Jums;El Xums;Khoms
+Al-Junaynah|SD||r|11d|1qd|19a|El Geneina;Al Junaynah;Geneina;Al-Džunajna;Al-Dschunaina;El-Geneina;Al Geneina;Al Jeneina
+Al’met’yevsk|RU||9i|48i|41c|130|Almetjevsk;Aljmetjevsk;Almetjewsk;Al’met’yevo;Almetyevsk
+Al Jadīd|LY||1d|235|140|z4
+Al Jumayl|LY||1d|2j9|xi|sc
+Al Jammālīyah|EG||c|2em|2gi|ro|Al Jamālīyah;Al-Dżamalijja;al-Jammāliyyah
+Al Jubayhah|JO||5t|2gx|2rq|d0|Al-Jubaiha
+Mairena del Aljarafe|ES||9d|2vq|-gu|cr|Aljarafe
+Al Jawf|LY||1d|1v8|1sp|bp|El Giof;Al Ğawf
+Al Jahrā’|KW||6x|29i|3oe|6r|Al Jahra;El Chra;Al Jahrah;Al-Jaharah;Al Jahara
+Al Jumūm|SA||7e|1o2|32a|66|Al Jumūn
+Al Jazeera Aba|SD||r|110|2il|61
+Al Jurf|AE||6c|1ym|4a7|50
+Aljaraque|ES||9d|2vj|-ji|50
+Al Jazīrah al Ḩamrā’|AE||6c|1zf|4b1|2u
+Al Jubayl|SA|Eastern Province|7e|1yk|3tx|2j|Al-Jubail
+Al Jafr|SA||7e|1yi|3u4|2f
+Al Jubaylah|SA||7e|1x7|3l1|28|Al Jubaila
+Al Jarādīyah|SA||7e|1a2|3b7|22
+Aljubarrota|PT||99|31x|-ot|1p
+Aljezur|PT||99|2vo|-og|1n
+Al Ju‘aymah|SA||7e|22b|3um|1j
+Aljustrel|PT||99|2x8|-mp|1h
+Al Judayyidah|PS||6g|2hu|2q2|1b
+La Aljorra|ES||9d|2wp|-2z|1b|Aljorra
+Al Jīb|PS||6g|2gh|2pq|19|El Jīb
+Al Jīzah|JO||5t|2g2|2rw|18
+Aljojuca|MX||41|1h2|-7ix|12
+Al Jiftlik|PS||6g|2ha|2ql|11
+Al Jafr|JO||5t|2c8|2si|10|El Jafr
+Al-Juwain|SA||7e|1cq|3b1|z|Al-Juwin
+Al Jaghbūb|LY||1d|2am|1w4|s|Jaghbūb
+Al Judayrah|PS||6g|2gi|2ps|l|Judayrah
+Al Jalamah|PS||6g|2ib|2q3|k|Jalamah
+Al Jumaylīyah|QA||7b|1z5|3xx|i|Al Jumaliyah
+Al Jāniyah|PS||6g|2gq|2pk|b|El Jāniya;Al Janiya;Jāniyah
+Al Jārūshīyah|PS||6g|2hv|2pd|9

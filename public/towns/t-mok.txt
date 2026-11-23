@@ -1,0 +1,59 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pietermaritzburg|ZA||o|-2aa|2cf|6h5|Pitermaricburgas;Petromaritzburgum;Mokokotlofo;Pitermaricburg;Pietermaritsburg
+Amsterdam|NL||8m|41h|dl|5q0|Amsŭt'erŭdam;Amsteladamum;Amesterdã;Amestelledamme;Aemsterdam;Amseutereudam;Amsterodam;Ámsterdan;Amszterdam;Amusuterudamu;Amstelodamum;Mokum Aleph;Mokum;Amesterdão;Amstyerdam;Amsterdã;Aemstelredamme;Amstelodhámon;Damsko;Amstèdam;Amistardam;Amstardam;Amstadem;Âmesterdâm
+Mokpo|KR||7h|2op|9r3|22k|Mogpo;Moppo;Mok-pho;Mokp’o
+Mokotów|PL||a5|40z|1mf|1oh
+Mokopane|ZA||o|-1v7|28l|s3
+Mooka|JP||7q|2t7|asy|lv|Moka;Moka-chhī
+Moquegua|PE||3o|-1bs|-5h2|jf|Moceva;Mukiwa;Muqiwa;Mokegva
+Moknine|TN||1e|2qz|ua|hg|Moknin
+Mokameh|IN||6t|1yk|6mo|gv|Mokamah
+Mocoa|CO||27|37|-5wx|fo|Mokoa
+Mokolo|CM||j|tu|12c|eg
+Mukdahan|TH||62|19z|82w|b9|Makdaharn;Mukdaharn;Mukdatarn;Mokdaharn
+Mokokchūng|IN||6t|214|7ak|9z|Mkokchung;Mokokshung
+Mokambo|CD||y|-yj|26r|9o
+Mokwa|NG||u|pt|e1|5v
+Mokena|US||2f|37d|-6s5|5j
+Mokēri|IN||6t|wq|5tx|5h
+Mocha|YE||5r|110|3c5|4o|Mokha;Mokka;Moca;Makha;Moka;Mocka;Muha;Mukha
+Mokhotlong|LS||12|-29d|28r|41
+Mokshan|RU||9i|44g|3fx|39|Moksjan;Mokschan;Moksan;Mokszan;Mokxan
+Moka|MU||ag|-1k6|4fr|2m
+Mokhsogollokh|RU||7x|4qk|9y6|1x|Mochsogolloch;Mohsogolloh;Mochsogolochas
+Mokrous|RU||9s|3yc|3nz|1v
+Mokrin|RS||8q|3jl|1kp|1u
+Mokéko|CG||a|4c|18a|1m|Mokélo
+Mukhorshibir’|RU||6k|3xt|8bj|1j|Mukhor-Shibir';Mokhor’shigir;Mukhor Shibar;Mukhor-Shigir
+Mokrousovo|RU||7z|4b1|55h|1d
+Moco|AW||1x|yv|-5eh|18|Moko
+Mokowe|KE||16|-68|35h|16|Makowe;Mkowe
+Melk|AT||a2|3pz|16l|12|Mök;Mellicum
+Mokgoba|ZA||o|-1tv|2bp|v
+Mokrá-Horákov|CZ||9m|3sr|1aj|t
+Mokrá Hora|CZ||9m|3su|1a3|q
+Moke Soe Nyaung Pin|MM||7y|1be|7fd|m
+Mokošica|HR||a6|3ak|1e9|m
+Makobeng|BW||m|-1rw|24v|i|Mokobeng
+Mokulēia|US||ax|1ny|-c7b|i
+Mokrisset|MA||d|2p1|-ev|i|Mokhrisset;Mokhisset
+Mokht|IR||7o|20n|4my|g|Mūkht
+Mokobody|PL||a5|417|1pf|g
+Mokouedou|CI||0|gl|-f9|g
+Mokrsko|PL||a5|3y6|1fd|f
+Mogapinyana|BW||m|-1q5|24n|e|Mokhapinyana
+Mokré Lazce|CZ||9m|3um|1e3|b
+Mokhós|GR||8p|2py|1ym|b|Mokho
+Moca|GQ||10|99|o3|a|Moka
+Mokvi|GE||7n|3ax|378|9|Mok'vi
+Mako|CI||0|h2|-gd|9|Moko
+Mokrovraty|CZ||9m|3uc|13l|8|Mokrovraka;Mokra Vrata
+Mokroluh|SK||8s|3sz|1mx|8
+Mokrice|HR||a6|3js|186|7
+Mokrý Háj|SK||8s|3rl|1bw|7
+Mokelumne Hill|US||3p|2ye|-9bb|6
+Mokronog|SI||9a|3jm|162|6|Nassenfuß
+Mokra Gora|RS||8q|3dn|1i6|6
+Mokhnatushka|RU||63|43v|6g6|6|Mohnatuşka
+Mokroielanchyk|UA||98|3oi|2yx|6|Mokroyelanchyk;Mokroyelanchik;Mokry Yelanchik
+Mokiivka|UA||98|3vk|2j1|5|Mokiyivka;Makiyevka

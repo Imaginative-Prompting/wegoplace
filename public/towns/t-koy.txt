@@ -1,0 +1,31 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Coimbatore|IN||6t|ul|5xt|ghl|Koimbatur;Kojambuttúr;Koyambattūr;Koyamuttūr;Koimbatore
+Coyah|GN||f|qz|-116|lf|Coya;Koyah
+Koyilandy|IN||6t|vs|5u9|jz|Quilandy;Koyilāndi;Quilāndi
+Koysinceq|IQ||5z|2s8|3fz|ci|Koysinjaq;Koye;Kou Senjaq;Koy Senjaq;Koi Sanjaq;Kūysinjaq;Koisnjaq
+Dzyarzhynsk|BY||9g|454|23d|88|Dsjarschynsk;Dzierżyńsk;Dzerĵinsk;Dzjarzsinszk;Dziaržynskas;Dziarjynsk;Dzjaržynsk;Dziaržynsk;Dzjaržinska;Dziarzjynsk;Kojdanava;Dzerzhinsk;Koydanava
+Koynanagar|IN||6t|1cc|5ox|7t
+Köýtendag|TM||5x|2w8|53d|2f|Çarşaňňy;Charshanga;Charshangu;Charshangy
+Koyékro|CI||0|h3|-d7|1z|Kayékro
+Primorsk|RU|Leningradskaya Oblast'|9i|4np|27h|1r|Koivisto;Björkö;Koyvisto
+Koyulhisar|TR||94|33y|2x2|1j|Nicopolis;Nicopolis in Armenia;Koyunhisar
+Koyelga|RU||7z|47t|4p6|15|Kojelga;Koëlskaja;Koelskaya Staniza
+Köyiçi|TR||94|2yy|236|13
+Kōya|JP||7q|2n1|agq|x|Kója
+Koynare|BG||9v|3cf|1v1|t|Kojnare;Koinare
+Koygorodok|RU||9i|4nw|3xo|t|Kojgorodok;Kaygorodok
+Köyliö|FI||92|4ps|1pz|t|Kjulo
+Könekesir|TM||5x|2y6|4e4|s|Kënekesyr;Kënekesir;Koynekesir
+Koyima|SL||l|o7|-um|r
+Getap|AM|Vayots Dzor|80|32g|3hv|o|Qoytur;Koytur
+Hryhorivka|UA|Kherson|98|3kl|2lp|i|Köy Çoqraq;Koy Chokrak;Koi Chokrak
+Kojori|GE||7n|37q|3g6|c|Kodzjori;Koyori;Kodžori;Kocori;Kodzhory;Kodzhori;Kodzhor
+Koeru|EE||9x|4js|20b|c|Koyeru
+Koyali|IN||6t|1jn|5wh|b
+Koyunluca|TR||94|2ua|31a|a
+Koyuntepe|TR||94|359|217|a
+Koyunpınarı|TR||94|36k|3au|8|Koyunpınar
+Köyceğiz|TR||94|2va|38c|7
+Koyuncular|TR||94|2wm|26y|6
+Koyunyurdu|TR||94|349|3b8|6|Berne
+Koyungüden|TR||94|2xr|344|6

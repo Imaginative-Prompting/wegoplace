@@ -1,0 +1,432 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bursa|TR||94|33o|28q|nxm|Burs;Burso;Prusa;Prusa ad Olympum;Boursa;Prousa;Brusa
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Budapest|HU||8v|3ny|1gw|dfm|Budimpešta;Boedapest;Budapescht;Budapeszt;Budapésht;Búdaipeist;Boedapes;Boudapès;Ofen-Pest
+Bouaké|CI||0|ld|-dz|6f8|Bvakė;Buake;Bwake
+Bujumbura|BI||b|-9e|29k|5xp|Buyumbura;Buĵumburo;Bužumbūra;Boujoumboura;Usumbura
+Bukhara|UZ||7g|32h|4yz|25u|Buchara;Bujará;Boukhara;Buhara;Bucara;Buxoro;Buxara;Buĥaro;Buhhaara;Bochara;Bukhaara;Buhar;Bokhara
+Bordeaux|FR||9k|3gk|-1m|21p|Burdeos;Bordele;Bordozo;Burdigala;Bordeus;Bordeos;Bordèu;Bourdel;Bordo;Bordôx;Burdeus
+Croix-des-Bouquets|HT||4j|1fm|-5kn|1rn|Kwadèbouke
+Burgas|BG||9v|3a3|24b|1mi|Bourgas;Boergas;Burgaz;Burqas;Burghaz
+Béjaïa|DZ||3|2u4|e4|1cx|Bougie;Bijaya;Bugia;Bidschāya;Bejayd;Biǧāya
+Bushehr|IR||7o|28h|3x8|19y|Bushire;Buschehr;Būšehr;Antiócheia tês Persídos;Boxar;Antiocheia in Persis;Abu Shehr;Bouchehr;Abuschehr;Buschir;Abu Shahr
+Dar Bouazza|MA||d|2l4|-lq|19x
+Bournemouth|GB||9b|3ww|-58|19g|Bornmuto;Bornmutas;Bornmut
+Bordj Bou Arreridj|DZ||3|2s7|d8|184|Bordj-Bou-Arreridj;Burdż Bu Urajridż;Bordj Bou Arerridj
+Bondoukou|CI||0|mc|-7s|13c|Gontoukou;Boudoukou;Bondoukau;Bonduku
+Bouskoura|MA||d|2kx|-l9|v9
+Bou Saâda|DZ||3|2pt|bl|v2|Bu Sada;Bou Sada
+Boulogne-Billancourt|FR||9k|3ro|68|u8|Bulonė-Bijankūras;Bononia ad Sequanam;Buloņa-Bijankūra;Boulogne e Billancourt
+Boulder|US|Colorado|2p|335|-84f|to
+Bouaflé|CI||0|jf|-fy|sy|Buafle
+Burdur|TR||94|2ws|2c5|qi|Buldur;Bourdour
+Bougouni|ML||5|vq|-ks|p2|Bugunin;Bougoum;Buguni
+Buzuluk|RU||7z|42m|416|od|Busuluk;Bouzoulouk
+Bouar|CF||6|gh|17c|jx|Bvaras;Buâra;Buar
+Bouïra|DZ||3|2t1|au|j1|Buira
+Bourges|FR||9k|3ms|6o|iw|Borges;Buržas;Avaricum Biturigum;Burža
+Boufarik|DZ||3|2tl|83|fw
+Boudouaou|DZ||3|2u1|9h|fo
+Buguruslan|RU||7z|452|41o|ev|Bougourouslan;Buquruslan;Buguruszlan
+Boundiali|CI||0|qg|-i1|ee|Bunjali;Boundiouli
+Būlāq Abū al ‘Ilā|EG||c|2bi|2er|ed|Būlāq;Boulaq;Bulak;Boulac;Boulak;Bulac
+Boulogne-sur-Mer|FR||9k|3ww|4h|d2|Bulonjo;Bulonjo-sur-Maro;Bulonjo-ĉe-Maro;Gesoriacum;Bononia;Itius Portus;Portus Itius;Bolonha-sobre-o-Mar;Bolonha de Mar;Boulonne;Pajūrio Bulonė;Bonen;Buloņa;Boulogne
+Bourg-en-Bresse|FR||9k|3kd|ej|cl|Bourg;Bôrg;Borg de Bressa;Burgus Bressiae;Burganbresa
+Boû Arfa|DZ||3|2ta|7t|c9
+Bountiful|US||2p|35l|-8ms|c6
+Boujdour|EH||k|20l|-149|bv|Cabo Bojador;Bujdur
+Bourem|ML||5|1b3|-z|bs|Burem
+Bou Ismaïl|DZ||3|2ts|7h|be|Bou Ismaël
+Bouznika|MA||d|2lv|-jw|bb|Bouzniqa;Bouzhika
+Bougadoum|MR||19|183|-kh|b7|Bou Gadoum
+Boumhel El Bassatine|TN||1e|2u1|sf|b5
+Boucherville|CA||59|3in|-5o0|av
+Bougara|DZ||3|2ti|8k|ao|Bouguera
+Bongouanou|CI||0|ih|-bo|a4|Bonguanu;Bougouanou
+Buyo|CI||0|hg|-jg|94|Bouyo
+Bougaa|DZ||3|2sx|e5|8v
+Bouarfa|MA||d|2id|-5g|8r|Bou Arfa;Buarfa
+Bouinan|DZ||3|2th|8b|8f
+Burj Islām|SY||69|2r3|2rg|8c|Bourj Islam;Burdż Islam;Buruç İslam;Borj Islâm
+Boumerdas|DZ||3|2u5|9o|82|Bou-Merdes
+Boukadir|DZ||3|2s7|35|7z|Bou Kadir
+Buturlinovka|RU||9i|3x7|34s|7y|Boutourlinovka;Buturlinowka
+Bouknadel|MA||d|2ms|-iq|7o|Bou Knadel;Buknadel
+Bou Hanifia el Hamamat|DZ||3|2q3|-5|7o|Bou Hanifia el Hammamet
+Bouansa|CG||a|-bq|128|7n
+Bourzanga|BF||1a|120|-4b|7k|Boulzanga;Bourzenga
+Boutilimitt|MR||19|1cr|-14u|7k|Boutillmit;Boutilimit
+Bou Tlelis|DZ||3|2qt|-2i|79
+Boussé|BF||1a|z6|-5a|6y|Busse
+Bouna|CI||0|pr|-8c|6r|Buna
+Le Bouscat|FR||9k|3gm|-1o|6q|Bouscat;Lo Boscat
+Boulsa|BF||1a|z7|-1l|6q|Boulssa;Bulsa
+Boumahra Ahmed|DZ||3|2ta|kv|6e
+Boukoumbé|BJ||1b|sa|33|68|Boukombé;Boukomoé;Bukombe
+Bougado|PT||99|36u|-nr|61
+Boudjima|DZ||3|2u8|bj|5q
+Sainte-Marie|MQ||3v|152|-4pf|5o|Bourg de Sainte Marie
+Buinsk|RU|Tatarstan Republic|9i|48p|3q5|5n|Bouïnsk;Boeinsk;Bua
+Boussu|BE||8t|3w3|aj|5l
+Bourg-lès-Valence|FR||9k|3gv|dl|5i|Lo Borg;Lo Borg de Valença
+Bouca|CF||6|i3|1es|5d|Buka;Bouka
+Bourg-la-Reine|FR||9k|3ri|6g|59|Bourg la Reine;Bourge la Reine
+Bourbonnais|US||2f|36b|-6s5|56
+Boali|CF||6|dc|1ed|51|Bouali
+Boujniba|MA||d|2je|-it|4v
+Boumia|MA||d|2iw|-e6|4r
+Bouguenais|FR||9k|3n2|-4i|4o|Kervegon;Castrum Bogenis;Bougenais
+Bousso|TD||17|t4|1af|4n
+Bobangui|CF||6|b9|1ec|4l|Bobangi;Bubangui;Bubangi;Boubangui;Bobongui
+Bou Hadjar|DZ||3|2te|mj|4k
+Bunjwah|IN||6t|2k3|5uz|4f|Bounjwah
+Boulder City|US||3p|2ry|-8uz|4c|Thành phố Boulder;Boulder
+Bou Izakarn|MA||d|292|-qz|4b|Bou Izakarene;Bou Izakaren
+Bouly|MR||19|16k|-ws|45|Bouli
+Burshtyn|UA||98|3st|1wf|43|Bursztyn;Burschtyn;Bourchtyn;Burštyn;Boersjtyn;Bursjtyn;Hổ phách;Burştın;Burština
+Bou Salem|TN||1e|2tp|ox|42|Bū Sālim
+Bouizazarene Ihaddadene|MA||d|2po|-89|3z
+Leopoldsburg|BE||8t|3y0|el|3x|Bourg-Léopold
+Bou Fekrane|MA||d|2ls|-f9|3x
+Bougzoul|DZ||3|2r7|7x|3x|Boughzoul
+Bouza|NE||18|142|gs|3w
+Bourne|GB||9b|42l|-12|3w|Bourn
+Bouandougou|CI||0|mu|-fr|3t|Bouendougou;Buandougou;Bwandougou
+Boumalne Dades|MA||d|2f6|-gn|3r
+Bonnevoie-Sud|LU||9c|3ts|h3|3q|South Bonnevoie;Bouneweg-Süd;Bonneweg Süd
+Butubré I|CI||0|fb|-hx|3p|Boutubré
+Bouc-Bel-Air|FR||9k|3cp|f1|3o|Boc de Gardana;Boc Bèl Èrm;Boc Bèl Èr
+Bou Arada|TN||1e|2sz|qq|3o|Bū ‘Arādah
+Le Bourget|FR||9k|3rx|6s|3j|Bourget
+Boudenib|MA||d|2gr|-a1|3g
+Bou Arkoub|TN||1e|2ti|tb|3f
+Bou Chemma|TN||1e|2m6|ry|3e|Bou Chema;Bouchamma
+Buchach|UA||98|3sa|1yj|3e|Buczacz;Butschatsch;Bučač;Butjatj;Bitshutsh;Boutchatch;Boetsjatsj;Butšatš;Bučačas;Bučača;Butsjatsj;Buceaci
+Boechout|BE||8t|3y4|ch|3d|Bouchout
+Bowen|AU||8c|-1jl|bft|36|Bouen
+Bound Brook|US||48|34p|-5r2|2x|Boundbreak;Boundbrook
+Boundji|CG||a|-2v|16o|2u
+Boughton|GB||9b|43s|-2q|2t
+Bourg-de-Péage|FR||9k|3h3|e1|2t|Lo Peatge de Pisançon;Lo Borg dau Peatge
+Bou Ficha|TN||1e|2su|t1|2r|Bu Fisha;Bu Ficha
+Mizhhirya|UA||98|3qs|1ta|2o|Ökörmező;Mijhiria;Boureni
+Bougival|FR||9k|3rq|5y|2h|Burgivallis;Bougivais
+Bounta|CI|Montagnes|0|l9|-m4|2h|Bounda
+Bouderbala|MA||d|2ly|-eo|2e
+Buda-Kashalyova|BY||9g|42g|2cx|2d|Bouda-Kachaliova;Buda-Kašaljova;Buda Kašaliova;Buda Koszelewska
+Boumagueur|DZ||3|2qn|ff|2d
+Bushtyno|UA||98|3ph|1t9|2c|Busztyno;Bustea;Buštín;Bustyaháza;Bouchtyno;Busjtyno;Buschtyno;Buştıno;Búixtino;Buštyno;Buştina
+Boonton|US||48|35m|-5qp|2c|Boonetown;Boun Town;Booneton
+Le Lorrain|MQ||3v|157|-4pm|2b|Bourg de la Grande Anse;Lorrain
+Bouhdida|MR||19|1b1|-12w|2b
+Bourg-Saint-Andéol|FR||9k|3f9|cw|2b|Lo Borg Sant Andiòu;Lo Borg de Sant Andiòu
+Bourg-Saint-Maurice|FR||9k|3ip|it|29|Burgus Sancti Mauritii;Le Bôrg
+Boulder Hill|US||2f|37v|-6te|29
+Bonabéri|CM||j|bb|qw|29|Bonabeerie;Boniberi;Bouaberi
+Bouoissué|CI||0|jc|-8z|28
+Boudaï|LB||64|2mm|2s6|28|Būdā’ī;Bouday
+Boulemane|MA||d|2ko|-d5|26|Boulmane
+Boutersem|BE||8t|3x8|df|25|Bautersem
+Boudépé|CI||0|gm|-b3|25
+Bous|DE||8r|3sw|iw|24
+Boucau|FR||9k|3cx|-43|23|Bokale;Lo Bocau
+Bousteila|MR||19|17a|-mh|23|Boû Çṭaïla;Boustéïlé
+Booué|GA||v|-9|x6|21|Boque;Boué
+Bourbourg|FR||9k|3xj|64|1z|Broekburg;Burgus in Broco
+Bouanzé|MR||19|17y|-xz|1y
+Boussy-Saint-Antoine|FR||9k|3r9|71|1w
+Budy|UA||98|3ul|2s2|1v|Budi;Boudy
+Bouchemaine|FR||9k|3nq|-1p|1t
+Bounkiling|SN||g|109|-17m|1s
+Bou Hadjar|TN||1e|2r4|u7|1p|Bu Adjar;Bū Ḩajar
+Bondo-Dioula|CI||0|mu|-8w|1p|Boundo-Dioula
+Bouafla|CI|Sassandra-Marahoue|0|k5|-g9|1m
+Bouillargues|FR||9k|3do|cb|1l|Bolhargues
+Bouaye|FR||9k|3my|-4p|1l|Bouez
+Bouffémont|FR||9k|3s8|6e|1l
+Bourail|NC||b8|-1nx|crq|1j|Boureil;Burail
+Bourbon-Lancy|FR||9k|3li|ah|1j|Burbo Ancelli
+Boureït|MA||d|2p8|-dl|1i|Bouret
+Bounafla|CI||0|io|-fc|1i
+Bouillon|BE||8t|3ub|e3|1h
+Bouéni|YT||ah|-zu|3h8|1h
+Bourne End|GB||9b|3za|-1z|1h
+Boulevard Park|US||3p|3nz|-9fs|1h
+Boua|CI||0|dy|-jl|1h
+Bounantinfla|CI||0|ir|-gg|1g
+Bouapé|CI||0|he|-al|1e|Buape;Boapé
+Bouffioulx|BE||8t|3vz|ck|1d
+Boulder Creek|US||3p|2v5|-9f8|1d
+Boudry|CH||a7|3mf|j0|1d
+Boulder|AU||8k|-2di|9dh|1d
+Bouaka|CI||0|lb|-gy|1c|Boaka
+Bouko|CI|Woroba|0|oo|-ln|1b|Booko;Boko
+Bougou|CI||0|se|-gb|1a|Bogou
+Boulay-Moselle|FR||9k|3sm|i2|1a|Bolchen
+Bonnevoie-Nord-Verlorenkost|LU||9c|3ts|h2|1a|North Bonnevoie-Verlorenkost;Bouneweg-Nord-Verluerekascht;Bonneweg-Nord-Verlorenkost
+Bouge|BE||8t|3w7|dl|19
+Bouchain|FR||9k|3vp|97|18
+Bourgueil|FR||9k|3nc|h|18|Burgolium
+Bou Merdès|TN||1e|2qi|tt|17|Bou Merdas
+Bouzonville|FR||9k|3sx|i5|17|Bouzanville
+Boyakro|CI||0|l9|-fv|17|Bouayakro
+Le Bourget-du-Lac|FR||9k|3it|g9|17|Bourget-du-Lac
+Bousbecque|FR||9k|3x1|8k|16|Busbeke
+Bouboury|CI||0|eu|-ce|16
+Bouxières-aux-Dames|FR||9k|3rf|h4|16
+Basse-Pointe|MQ||3v|15b|-4ps|14|Bourg de la Basse Pointe
+Bouxwiller|FR||9k|3rm|ks|14|Buchsweiler
+La Bouëxière|FR||9k|3pu|-40|14|Beuzid-ar-C'hoadoù;Beuzid-ar-Choadoù;Buxeria;Bouëxière
+Bouroukponko|CI||0|mu|-7b|12|Burukponko;Bouroukponk
+Bousval|BE||8t|3wm|cj|11
+Bou’nane|MA||d|2h0|-8h|10|Bou Anane
+Bouliac|FR||9k|3gi|-1e|10|Boliac
+Boussois|FR||9k|3vp|b8|10
+Bourganeuf|FR||9k|3jn|4w|y|Borgonnuòu;Borgon Nuòu
+Le Bourg-d'Oisans|FR||9k|3h5|gr|y|Bourg-d'Oisans
+Bourton on the Water|GB||9b|405|-4v|x
+Bouloc|FR||9k|3dm|3x|x
+Bourcefranc-le-Chapus|FR||9k|3jd|-37|x
+Batz-sur-Mer|FR||9k|3nc|-6w|w|Bourc'h-Baz;Bourch-Baz
+Bourg-Blanc|FR||9k|3qq|-cj|w|Ar Vourc'h-Wenn;Ar Vourch-Wenn
+Boutigny-sur-Essonne|FR||9k|3qj|6m|w
+Boutte|US||2f|2b2|-6z3|v
+Bouénneu|CI||0|j9|-mv|v
+Bourron-Marlotte|FR||9k|3qa|7i|v
+Bouwel|BE||8t|3y5|d6|u
+Bouedianfla|CI||0|kv|-g8|u
+Bourounon|CI||0|lj|-gx|u
+Boujan-sur-Libron|FR||9k|3ch|91|u
+Le Boupère|FR||9k|3m0|-2l|u|Boupère
+Bourgtheroulde-Infreville|FR||9k|3sy|2g|u
+Boukébo|CI||0|lj|-es|u
+Bourg-de-Thizy|FR||9k|3jv|by|t
+Bourg-Argental|FR||9k|3hu|cp|s|Lo Borg dArgentau;Bôrg-Argental
+Boulcott|NZ||ak|-36g|dhv|s
+Bouligny|FR||9k|3sx|fy|s
+Bournezeau|FR||9k|3lk|-39|s
+Bourkelands|AU||8l|-2po|bdb|s
+Bounta|CI|Montagnes|0|k5|-n8|r
+Bou Attouche|TN||1e|2m6|r6|r|Bou Atouch
+Bourg-Achard|FR||9k|3t3|2a|r
+Bouvron|FR||9k|3nq|-55|q|Bolvronn;Bouyron
+Bouvigny-Boyeffles|FR||9k|3w2|7f|q|Bouvigny-Boyeffle
+Bourgneuf-en-Retz|FR||9k|3mo|-5f|q|Bourc'hnevez-Raez;Bourchnevez-Raez;Burgum ad Ligerim
+Bourg|US||2f|2a3|-6zo|q
+Bourbon-l'Archambault|FR||9k|3le|8i|q
+Boussay|FR||9k|3mo|-3b|q|Beuzid-Klison
+Bouko|CI|Zanzan District|0|qc|-8t|p
+Bourgbarré|FR||9k|3pc|-4i|p|Bourvarred
+Bu Craa|EH||k|217|-zi|p|Bou Craa
+Bouobly|CI||0|jt|-k7|p
+Boungouéni|KM||ac|-xx|3f2|p
+Bouan Houyé|CI||0|kz|-n5|o
+Bolanden|DE||8r|3tw|m9|o|Boulanden
+Bouin|FR||9k|3mh|-5k|o|Bonn
+Bouctouche|CA||43|3l3|-4zu|o
+Bouda|DZ||3|25s|-16|n
+Bourbriac|FR||9k|3qo|-8v|n|Boulvriag;Burgobriacum
+Bourg|FR||9k|3h4|-1k|n
+Bouitafla|CI||0|ki|-hy|n|Bouniafla
+Bountou|CI||0|nl|-jy|n
+Bousse|FR||9k|3sw|h8|n
+Boussoukro|CI||0|gc|-d2|n
+Bourbonne-les-Bains|FR||9k|3p7|fz|m
+Baunu-Timbangan|PH||71|gp|9c3|m|Bounu Timbagan
+Boulieu-lès-Annonay|FR||9k|3hr|cz|m|Bonluec;Boulieu dAnonai
+Bourg-des-Comptes|FR||9k|3p5|-4u|m|Gwikomm
+Bouafla|CI|Sassandra-Marahoue|0|kp|-ip|m
+La Bourboule|FR||9k|3in|7m|m|Bourboule;La Borbola
+Bouloupari|NC||b8|-1oq|ct9|l|Bulupari
+Bouafle|FR||9k|3s0|5a|l
+Bourogne|FR||9k|3o4|j8|l
+Boubker|MA||d|2nr|-4t|l|Bou Beker
+Bouzke|UA||98|3o8|2ep|k
+Bouloire|FR||9k|3p9|1j|k
+Bourke|AU||8l|-2bl|b9e|k
+Bouray-sur-Juine|FR||9k|3qs|6e|k
+Bouyouni|YT||ah|-zd|3he|j
+Boulenouar|MR||19|1n5|-19w|j|Boulanouar;Boû Lanouâr
+Boufféré|FR||9k|3mg|-3q|j
+Boulange|FR||9k|3t6|gj|i
+Bourg de Joué-sur-Erdre|FR||9k|3ny|-3y|i|Yaoued;Joué-sur-Erdre;Ioseium
+Baunda|CI|Vallée du Bandama District|0|l6|-d6|i|Bounda
+Bougousso|CI||0|pq|-lq|i|Bongousso;Bougoussa;Bougouso
+Bourbon|US|Indiana|38|36q|-6n8|i
+Buky|UA|Cherkasy|98|3sd|2ch|i|Bouky
+Boubélé|CI||0|ch|-k4|i
+Bougouloboua|CI||0|i7|-hl|i|Bogouloboua
+Boutouo II|CI||0|jb|-mh|h
+Bousies|FR||9k|3vb|a2|h
+Bourgodon|CI||0|nc|-8n|h
+Bourghelles|FR||9k|3wh|90|h
+Boulogne-sur-Gesse|FR||9k|3c9|1t|h|Boulogne-sur-Geese
+Buzovytsya|UA||98|3qq|22t|g|Bouzovytsia;Buzovița
+Bouniakro|CI||0|lu|-b5|g
+Bourbon|US|Missouri|2f|2xz|-71g|g
+Le Bousquet-d'Orb|FR||9k|3dd|8t|g|Bousquet-d'Orb
+Boua Kako|CI||0|h3|-eq|g|Bouakakou
+Boulbon|FR||9k|3du|d1|g
+Boundary|CA||5b|3t1|-9ht|g
+Boëge|FR||9k|3kd|hs|g|Bouèjo;Bovitium
+Bouvignies|FR||9k|3w4|90|g
+Bouleu|CI||0|jy|-mm|f
+Buzke|UA||98|3nr|2gw|f|Bouzké
+Bouébly|CI||0|k1|-k1|f
+Bouzov|CZ||9m|3u2|1ax|f
+Bourton|GB||9b|3xv|-6h|f
+Bounadougou|CI||0|nb|-d2|f|Boumadougou;Bonadougou
+Boutiers-Saint-Trojan|FR||9k|3iz|-u|e
+Boureni|RO|Iași County|8u|3na|22y|e
+Bouafoukro|CI||0|ij|-cf|e|Bouaffoukro
+Boulleret|FR||9k|3nq|7z|e
+Bourne|US||48|37y|-5g4|e
+Bouyabo|CI||0|ko|-bp|e
+Boulderwood|CA||35|3fy|-4wo|e
+Boureni|RO|Iași County|8u|3n5|21z|e
+Boussac|FR||9k|3kr|66|e
+Bouroukrou|CI||0|lb|-8x|e|Bouroukro
+Boureni|RO|Dolj|8u|3ea|1t3|e
+Boult-sur-Suippe|FR||9k|3t5|bj|e
+Bouleurs|FR||9k|3rs|83|e
+Bouzillé|FR||9k|3ni|-33|e
+Bouzigues|FR||9k|3cp|a6|e|Bosiga;Bosigas
+Bouzoupalégnoa|CI||0|ge|-gf|d
+Bouxières-aux-Chênes|FR||9k|3rh|he|d
+Baunda|CI|Lacs District|0|k6|-cx|d|Bounda
+Boumango|GA||v|-67|11t|d
+Boué|FR||9k|3ux|aa|d
+Bourlon|FR||9k|3ve|8n|d
+Boulevard Gardens|US||48|20k|-66q|d
+Bougouma|CI||0|nb|-h2|d
+Bourth|FR||9k|3rh|29|c
+Boulder|US|Montana|2p|3kg|-8ng|c
+la Guingueta d'Ix|FR||9k|39v|5e|c|Bourg-Madame;la Guingueta
+Budey|UA||98|3ph|29c|c|Boudéï;Budei
+Bukachivtsi|UA||98|3st|1w2|c|Bukaczowce;Boukatchivtsi;Bukatschiwzi;Bukačivci;Bukaçivtsi;Bukacivți
+Bourget|CA||59|3i7|-5ss|c
+Bofferdange|LU||9c|3u1|h2|c|Bouferdeng;Bofferdingen
+Kébouébo|CI||0|if|-ms|b|Bouébó;Ke-bouébo
+Bouilly|FR||9k|3pw|b4|b
+Boussoit|BE||8t|3w6|bc|b
+Bout-du-Pont-de-Larn|FR||9k|3cu|6o|b
+Burgeta|IL||6n|2hs|2p4|b|Burgata;Bourgata;Borgata;Buregeta;Burgatah;Borgatah
+Bourgneuf|FR||9k|3k9|-2u|b
+Bourguébus|FR||9k|3sg|-u|b
+Burylove|UA||98|3pe|2ce|b|Bourylové;Burilovo
+Bouni|KM||ac|-vx|3cj|b
+Bouillé-Loretz|FR||9k|3ms|-r|b
+Bourébo|CI||0|lg|-fw|b
+Bouagleu I|CI||0|k0|-mk|b|Bouagleu
+Buzinove|UA||98|3mj|2cp|b|Bouzynové
+Boussières|FR||9k|3n0|ge|b
+Bouzy-la-Forêt|FR||9k|3ox|6m|b
+Bouvesse-Quirieu|FR||9k|3j7|f1|b
+Bouldercombe|AU||8c|-1th|blz|b
+Bouroumasso|CI||0|qw|-jv|a|Bouroumaso
+Bouttencourt|FR||9k|3uq|4j|a
+Buran|UA||98|3q6|322|a|Engel’sovo;Enhelsove;Bouran
+Bourgogne|FR||9k|3t3|bb|a
+Bouville|FR|Normandy|9k|3to|2i|a
+Bournoncle-Saint-Pierre|FR||9k|3hy|98|a|Bornoncle de Sant Pèire
+Boulzicourt|FR||9k|3u2|d2|a
+Bouse|US||4i|2m9|-8sp|a
+Bousbach|FR||9k|3sj|jb|a
+Bougé-Chambalud|FR||9k|3hx|dm|a
+Bouzy|FR||9k|3sc|bj|a
+Bourseul|FR||9k|3qp|-6a|a|Boursaout
+Bouata|CI||0|ku|-h8|a
+Boussens|FR||9k|3by|2p|a
+Bourguignon|FR||9k|3np|iu|9
+Boukoul|NL||8m|3ya|gt|9|Boukoel
+Burdyuh|UA||98|3qo|22p|9|Bourdiouh;Burdiug
+Bourg-Lastic|FR||9k|3it|74|9
+Bukivka|UA||98|3ph|20h|9|Boukivka;Poieni
+Bouère|FR||9k|3oy|-1c|9
+Bou|FR||9k|3oz|5p|9
+Boungué|CI||0|kh|-dp|9
+Bourg-Saint-Christophe|FR||9k|3jh|eb|9
+Boutigny|FR||9k|3rw|85|9
+Bouclans|FR||9k|3n9|hc|9
+Bouquetot|FR||9k|3t4|26|9
+Bourg-Saint-Bernard|FR||9k|3d4|4r|9|Borg de Sant Bernat;Le Borg de Sant Bernat
+Bouëx|FR||9k|3iq|w|8|Bois
+Boulleville|FR||9k|3t5|13|8
+Boussac-Bourg|FR||9k|3ks|67|8
+Le Bouveret|CH||a7|3ku|j2|8|Bouveret
+Bouvines|FR||9k|3wi|8v|8
+Buchmany|UA||98|3xv|25w|8|Butschmany;Boutchmany;Bučmany;Buçmanı;Buczmany;Bucimanî
+Boussu-lez-Walcourt|BE||8t|3vj|c6|8
+Bourdeilles|FR||9k|3hw|1n|8|Bordelha
+Bouvard|AU||8k|-2is|8x6|8
+Boutiliers Point|CA||35|3g3|-4xn|8
+Bourg-Charente|FR||9k|3iv|-m|8
+Bourglinster|LU||9c|3u2|ha|8|Buerglënster;Burglinster
+Bourneville|FR||9k|3t7|1q|8
+Bouglainval|FR||9k|3qw|47|8
+Bouakro|CI||0|l4|-d5|8
+Bourg-Fidèle|FR||9k|3ul|cm|8
+Boudevilliers|CH||a7|3mn|j5|8
+Boust|FR||9k|3tc|h7|7
+Bouchet|FR||9k|3f2|dj|7
+Bouvignies|BE||8t|3wp|ah|7
+Bourlers|BE||8t|3uz|c2|7
+Bourgneuf-en-Mauges|FR||9k|3nf|-2c|7
+Bours|FR|Occitanie|9k|3c8|9|7
+Bourseville|FR||9k|3v7|49|7|Borséville
+Bounda|CI||0|mg|-m3|7
+Bouée|FR||9k|3ng|-5b|7|Bozeg
+Bougligny|FR||9k|3pw|7e|7
+Bouvaincourt-sur-Bresle|FR||9k|3uz|45|7
+Bourg-Beaudouin|FR||9k|3t7|3n|7
+Bouleternère|FR||9k|3ah|77|7|Bulaternera;Bula de Terranera;Bula d'Avall
+Bourré|FR||9k|3nj|3f|7
+Bougarber|FR||9k|3ck|-1b|7|Borg Garbèr
+Bouchette|CA||59|3ke|-5v1|7
+Bouillé-Ménard|FR||9k|3om|-2p|7
+Bourg-et-Comin|FR||9k|3t8|a5|7
+Boudi|CI||0|m3|-82|7
+Bourneau|FR||9k|3la|-2a|7
+Boucoiran|FR||9k|3e8|bn|7
+Bourn|GB||9b|40z|-6|7
+Boupleu|CI||0|jb|-mz|7
+Bouville|FR|Île-de-France|9k|3qx|5r|7
+Bouafles|FR||9k|3sp|3v|7
+Bouvignes-sur-Meuse|BE||8t|3vn|dm|7
+Boutenac|FR||9k|3bv|7r|6|Botenac
+Boucé|FR||9k|3r5|-9|6
+Bouquehault|FR||9k|3x7|5a|6|Boucault
+Boura|RO||8u|3np|21k|6
+Boubers-sur-Canche|FR||9k|3vp|68|6
+Bouempleu|CI||0|jy|-mp|6
+Boudou|FR||9k|3ei|2t|6
+Boullay-les-Troux|FR||9k|3r8|5p|6
+Bourgon|FR||9k|3pt|-2z|6
+Bourran|FR||9k|3f6|13|6
+Bouresse|FR||9k|3ks|1p|6
+Bourmont|FR||9k|3pv|fj|6
+Bourdeaux|FR||9k|3fv|ea|6
+Bouessay|FR||9k|3p0|-13|6
+Bourret|FR||9k|3e2|39|6
+Bourbach-le-Bas|FR||9k|3op|jm|6
+Boulogne|FR||9k|3lz|-3o|6
+Bougue|FR||9k|3dx|-13|6
+Bouglon|FR||9k|3fb|a|6|Boglon
+Boucheporn|FR||9k|3si|id|6
+Boulon|FR||9k|3s9|-13|6
+Áyios Andréas|GR||8p|2z1|1nv|6|Agios Andreas;Bourlesia
+Boulay-les-Barres|FR||9k|3pa|4y|6|Boullay-les-Barres
+Boúka|GR||8p|305|1mq|6|Boúkka
+Bous|LU||9c|3tn|hl|6
+Bourthes|FR||9k|3wl|5d|6
+Bouchamps-lès-Craon|FR||9k|3ot|-2r|5
+Bouzel|FR||9k|3j6|98|5
+Boult|FR||9k|3nm|go|5
+Bourecq|FR||9k|3wh|6r|5|Bouretz
+Bouin-Plumoison|FR||9k|3vy|5i|5
+Bours|FR|Hauts-de-France|9k|3w5|6p|5
+Bouniagues|FR||9k|3gc|1h|5
+Boursault|FR||9k|3sa|ap|5
+Boutisso|CI||0|m3|-li|5|Boutiso
+Bouzincourt|FR||9k|3uz|79|5
+Boukiéro|CG||a|-bo|16h|5

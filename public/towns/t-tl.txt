@@ -1,0 +1,214 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Monterrey|MX|Nuevo León|44|1zc|-7qo|8rf|Monterejo;Monterrei;Tlahtoāntepēc;Monterėjus;Monterreja;Mons Regis
+Tlalnepantla|MX|México|41|1ia|-7nk|51i|Tlanepantla de baz
+Tlaquepaque|MX||41|1lc|-7yx|50l|Tlakepakė
+Tlalpan|MX|Mexico City|41|1hm|-7ng|4fm|Tlalpam
+Cilegon|ID||6l|-gp|86l|3mo|Chilegon;Tjilegon;Tlilegon
+Tláhuac|MX||41|1hl|-7n1|2cr
+Tlemcen|DZ||3|2ow|-3n|1c7|Tremecén;Tilimsan;Tilimsen;Termicén;Tlemsenas;Pomaria;Tlemsen
+Tlaxcala|MX||41|1ho|-7kw|nj
+Tlokweng|BW||m|-1wj|205|ff
+Tlapa de Comonfort|MX||41|1cr|-7lu|d2
+Tlapacoyan|MX|Veracruz|41|1jg|-7i1|9t
+Tlajomulco de Zúñiga|MX||41|1kv|-7zd|8f
+Tlaquiltenango|MX||41|1fr|-7ng|53
+Tlaltenango de Sánchez Román|MX||41|1oi|-7yy|4k
+Tlokoeng|ZA||o|-2d9|277|4f
+Tlaxco|MX|Tlaxcala|41|1ih|-7kk|44
+Tlalmanalco de Velázquez|MX||41|1hd|-7mg|44
+Tlaxcoapan|MX||41|1jt|-7nm|3y
+Tlacolula de Matamoros|MX||41|1b4|-7g0|3u|Tlahcolollan Matamoros
+Tlaltizapán|MX||41|1fw|-7nc|2y
+Tlaixpan|MX||41|1gj|-7ji|2x|Tlalxpan
+San Marcos Tlacoyalco|MX||41|1fv|-7j4|2r|Tlacoyalco
+Tlatlauquitepec|MX|Puebla|41|1j5|-7iu|2p|Tatlauquitepec
+Tlahualilo de Zaragoza|MX||44|20j|-7zc|2n
+Tlapehuala|MX|Guerrero|41|1eo|-7ra|2l|Tlalpehuala
+Tlacotepec|MX|Puebla|41|1fw|-7ja|2h
+Tlumach|UA||98|3rr|1xg|2h|Tłumacz;Tloumatch
+Tlalixtac de Cabrera|MX||41|1bf|-7gh|2h
+Tacoaleche|MX||41|1re|-7wg|2e|Tlacoaleche;Tacualeche
+Tlahuelilpan|MX||41|1jx|-7nn|2d|Tlahuelilpa
+Tlayacapan|MX||41|1go|-7my|28|Tlalyacapan
+Tlacotalpan|MX||41|1fp|-7dq|24
+Tlachichuca|MX||41|1h3|-7im|24
+Tlanalapa|MX||41|1j2|-7lw|23
+Tłuszcz|PL||a5|41n|1nk|23
+Tlacotepec|MX|Guerrero|41|1df|-7pq|1w
+Tlapanaloya|MX||41|1jd|-7na|1t
+Tlamacazapa|MX||41|1fe|-7oe|1q|Tlamacaxapa
+Tlaltenango|MX|Puebla|41|1h9|-7l6|1o
+Tlatenchi|MX||41|1fo|-7nj|1k|Tlatenchu
+Tlet El Hanchane|MA||d|2fk|-q8|1i
+Tlanchinol|MX||41|1mb|-7m2|1g
+Tlacotepec|MX|Morelos|41|1g9|-7mb|1f
+Tlyustenkhabl’|RU||9i|3gy|30m|1e
+Tlanepantla|MX|Puebla|41|1ge|-7jx|1b
+Tlabung|IN||6t|1rn|74y|1a
+Tlaltetela|MX||41|1hn|-7h6|19
+Tlacote el Bajo|MX||41|1le|-7r7|18|Tlacote;Tlacote Bajo
+Tlacoachistlahuaca|MX||41|1ap|-7l2|18|Tlacoachixtlahuaca
+Tlalchapa|MX||41|1f5|-7r4|15|Talchapa
+Tlancualpican|MX||41|1f7|-7m6|14
+Tlacojalpan|MX||41|1en|-7ej|14
+Tlalnepantla|MX|Morelos|41|1gt|-7n0|13|Tlanepantla
+Tlachaloya|MX||41|1i1|-7ou|10|Primera Sección
+Tlmače|SK||8s|3q5|1fh|z|Timače
+Tlalpujahua de Rayón|MX||41|1j0|-7q9|z
+Tlilapan|MX||41|1g9|-7hq|z
+Santa María Tlahuitoltepec|MX||41|1bi|-7eu|z|Santa María;Tlahuitoltepec;Tlahuilotepec;Tlacuilotepec
+Tlučná|CZ||9m|3u4|10s|y
+Tlalixcoyan|MX||41|1g8|-7eu|x
+Tlamaco (San Gerónimo Tlamaco)|MX||41|1jn|-7nn|x
+Tlaxcalilla|MX||41|1km|-7p9|x
+Tovste|UA||98|3rp|1zh|w|Tłuste;Towste
+Tlazazalca|MX||41|1jh|-7vi|w
+Tlamixtlahuacan|MX||41|1cm|-7nn|u
+Tapijulapa|MX||3z|1ci|-75q|t|Tlalpilxoloapan
+Tlatempan|MX||41|1hp|-7ks|s
+Tlacamilco|MX||41|1h0|-7k0|s
+Tlokh|RU||9i|3aj|3l3|r
+Tlapanalá|MX||41|1fy|-7lq|r|Tlapenalá
+Tlapacoyan|MX|Veracruz|41|1fa|-7d0|q
+Tlacotepec (San Mateo)|MX||41|1jq|-7jt|q
+Chiusa|IT||9o|3lk|w5|p|Klausen;Clusa;Tluses
+Tlalminulpa|MX||41|1js|-7nm|p
+Tlalnepantla|MX|San Luis Potosí|41|1mu|-7ml|p
+Tlumačov|CZ||9m|3st|1cm|p
+Tlacotepec de José Manzo|MX||41|1hj|-7lk|o
+Tlacotepec de Mejía|MX||41|1hb|-7h0|o|San Martín
+Tlacolula|MX||41|1ml|-7k4|n
+Tlalixtaquilla|MX||41|1ct|-7l9|m
+Temextla|MX||41|1ih|-7jb|m|Tlalpizaco;Temectla
+Tlacuitlapa|MX|México|41|1h4|-7o6|m
+Tlaxmalac|MX||41|1f0|-7o5|m
+Tayahua|MX||41|1pe|-7xr|m|Tlayahua
+Tlatempa|MX||41|1je|-7k2|m
+Tlatlauquitepec|MX|Guerrero|41|1cr|-7mj|m
+Tlet Sidi Bouguedra|MA||d|2hm|-oy|l
+Tlalchiyahualica|MX||41|1m9|-7lc|l
+Tlazala de Fabela|MX||41|1ic|-7o6|k|Tlasala de Favela
+Tlet Ighoud|MA||d|2gi|-oo|k|Tleta-Ighoud;Tleta-Ighoun;Tleta Irhoud
+Tlaxcalantongo|MX||41|1kf|-7jv|j
+Tlamanca de Hernández|MX||41|1jg|-7jp|j
+Tlacomulco|MX|Hidalgo|41|1jz|-7kk|j
+Tlyarata|RU||9i|38z|3kr|j|Tljarata;Tlyarota
+Tlaxinga (Clatzinga)|MX||41|1co|-7nj|j
+Tlacomulco|MX|México|41|1h4|-7o9|i
+Tlaltepango|MX||41|1jz|-7jw|i
+Tlaxco (Santiago Tlaxco)|MX||41|1jq|-7k4|h|Taxco;Tlaxco
+Tlacuilotepec|MX||41|1kh|-7kf|h
+Tlacotepec|MX|Puebla|41|1f4|-7h1|h
+Stamps|US||2f|2kp|-77q|g|Stamp;Tłoczenie
+Tlaltempanapa|MX||41|1da|-7ni|f
+Tlachichila|MX||41|1nw|-7xj|f
+Tlacoapa|MX||41|1by|-7mb|f
+Tlamatoca|MX||41|1h1|-7ha|f
+Tlacolulan|MX||41|1in|-7hg|f
+Chapopote Chico|MX||41|1mq|-7kx|e|Tlachinolapa
+Tlaxcalixtlahuaca|MX||41|1b6|-7me|e
+Tlaxpanaloya|MX||41|1k7|-7kk|e
+Tlaltetelco (San Miguel Tlaltetelco)|MX||41|1gn|-7mp|e
+Tlaltecahuacán|MX||41|1ie|-7mo|e|Tlatecahuaca
+Tlalconteno|MX||41|1i1|-7i5|e
+Tlaola|MX||41|1jy|-7k0|e
+Tlatzala|MX|Guerrero|41|1cx|-7lr|e
+Tlachichilco|MX||41|1la|-7ks|e
+Tlacoaxtla|MX||41|1cr|-7nk|e
+Tlacuitapan|MX||41|1mw|-7vo|e|Tacuitapán;Tlacuitapa
+t Loo|NL||8m|41o|gj|d|Loo
+Tlixco|MX||41|1er|-7hg|d
+Tlayehualancingo|MX||41|1jn|-7jr|d
+Tlaquiltepec|MX||41|1d9|-7lr|d
+Tlanepantla|MX|Puebla|41|1he|-7ht|d
+Tlahuapa|MX||41|1ca|-7l6|d
+Tlapala|MX|Veracruz|41|1hi|-7h8|d
+Tlanipatla|MX|Guerrero|41|1dh|-7o9|d
+Tlaxco|MX|Puebla|41|1kq|-7kb|d
+Tlamanca|MX|Puebla|41|1in|-7je|c|Tlamauca;Tlamanaca
+Tlacuilolapan|MX||41|1dy|-79u|c
+Tlaxocoyucan|MX||41|1k7|-7ll|c|Tlaxocoyacan
+Tlaltenanguito|MX||41|1i6|-7om|c
+Tłuchowo|PL||a5|42j|1i3|c
+Tlatilpa|MX||41|1g1|-7hu|b
+Tlatzala|MX|Veracruz|41|1g1|-7hu|b
+Tlanalapan|MX||41|1hh|-7i8|b|Tlanalapa
+Tlacuilola|MX||41|1n0|-7mn|a
+Tlalcozotitlán|MX||41|1do|-7nd|a|Tlalozotitlán
+Tlahuelompa (San Francisco Tlahuelompa)|MX||41|1ld|-7lu|a
+Tlacpac|MX||41|1jz|-7ku|a
+Tlamaya Grande|MX||41|1jz|-7jo|a
+Tlaminca|MX||41|1h6|-7o8|a
+Tlalnelhuayocan|MX||41|1id|-7he|a|San Andrés Tlanehuayocan;San Andrés Tlanelhuayocan;Tlanelhuayocan
+Tlanicuilulco|MX||41|1cb|-7nb|9
+Tlahuico|MX||41|1in|-7mc|9
+Telamim|IL||6n|2fo|2ob|9|T’lamim
+Tlacocuspan|MX||41|1fq|-7qo|9
+Tlacuitlapa|MX|Guerrero|41|1ex|-7oz|9|Tlachilapa
+Tlalquetzala|MX||41|1d7|-7lq|9|Tlaquetzala
+Tlaltengo|MX||41|1h0|-7hg|9
+Tlaltenango Arriba|MX||41|1i3|-7oo|9
+Tlalcruz de Libres|MX||41|1ke|-7kj|9|Talcruz de Libres
+Tlaquilzingo|MX||41|1cn|-7lz|9|Tlaquiltzingo
+San Miguel Tlaltepexi|MX||41|1ds|-7le|9|Tlatepexi
+Santa María Tlalixtac|MX||41|1dv|-7gq|9|Tlalixtac
+Tlayolapa|MX||41|1bm|-7o1|8
+Tlacotlapilco|MX||41|1km|-7nm|8|Tlactlapilco;Tlacotlapico
+Tlaltinango|MX||41|1bw|-7h1|8|Tlaltenango
+Tlustice|CZ||9m|3uh|12l|8
+Tlamaya Chico|MX||41|1jx|-7jr|8
+Tlalchichiltipán Nuevo|MX||41|1cc|-7n0|8
+Tlalquetzalapa|MX||41|1cm|-7m8|8|Tlaquetzalapa;Tlalquezalapa
+Tlaltenango|MX|Puebla|41|1jw|-7k4|8
+Tlhareselele|BW||m|-1yv|1z8|8|Tlhareseleele
+Tlacomulco|MX|Puebla|41|1g2|-7ja|8
+Tlatlapanala|MX||41|1k1|-7k1|8|Tlatapanola
+Tlaquilpa|MX||41|1fp|-7hs|8
+Tlanipatlán|MX||41|1eg|-7p3|8
+Tlacaquipa|MX||41|1en|-7pf|8|Tlalaquipa
+Tlahuanapa|MX||41|1kp|-7ig|7
+Tlamamala|MX||41|1m9|-7lq|7
+Tlaltegco (Venta Quemada)|MX||41|1jy|-7kr|7
+Tlaltecatla|MX||41|1ly|-7l0|7|Tlatelcatla;Tlatecatla
+Tlaquimpa|MX||41|1jg|-7jw|7
+Tlalayo|MX||41|1fe|-7m7|7|San José
+Tlalmaya|MX||41|1k0|-7k6|7
+Tlalcosahua|MX||41|1pv|-7yl|7|Tlacosanua;Tlacosahua
+Tlapacoya|MX||41|1jw|-7jt|7
+Tlapehuala|MX|Puebla|41|1kf|-7kb|7|Tlalpehuala
+Tlalpujahuilla|MX||41|1il|-7or|7
+Tlanipatla|MX|Guerrero|41|1cp|-7nf|7
+Tiacaque|MX||41|1in|-7oz|7|Tlacaque
+Tlalcomulco|MX||41|1d7|-7n4|7
+Tlalca|MX||41|1fq|-7hk|6
+Tlecuaxco|MX||41|1g4|-7hf|6
+Tlachimaltepec|MX||41|1ck|-7n1|6
+Tlamamacan|MX||41|1ds|-7oh|6
+Tlahuizapa|MX||41|1c2|-7oo|6
+Tlaxco|MX|Hidalgo|41|1lj|-7mh|6
+Tlapetlahuaya|MX||41|1g4|-7lt|6
+Tlalchy|MX||41|1hu|-7ho|6|Tlatchy;Tlalchi
+Tlacohuaque|MX||41|1na|-7mr|6
+Tlalpan|MX|Veracruz|41|1g2|-7hw|6
+Tlalixtlahuacán|MX||41|1cl|-7nc|6
+Tlatzintla|MX||41|1k0|-7kr|6
+Tlacotes|MX||41|1qp|-7w9|6
+Tlatepexe|MX||41|1l8|-7me|6
+Tlatlaya|MX||41|1fq|-7qd|6
+Tlacuapa (Temascal)|MX||41|1ni|-7mu|6
+Tlacuapan|MX||41|1mh|-7l3|6
+Tlapala|MX|Guerrero|41|1eo|-7nz|6|Tiapala
+Tlacotenco|MX||41|1de|-7pl|6
+Tlamanca|MX|Puebla|41|1hl|-7hr|6
+Tlachiquilillacapa|MX||41|1mt|-7mk|5
+Tlapacholoya|MX||41|1je|-7jn|5
+Tlalpan|MX|Hidalgo|41|1lk|-7o0|5
+San Lucas Tlanichico|MX||41|1b5|-7gx|5|Tlanichico
+Tlalmimilolpa|MX||41|1io|-7mc|5
+Tlilcalco|MX||41|1fs|-7hu|5
+Tlamapa|MX|México|41|1iu|-7mc|5
+Tlacote el Alto|MX||41|1lh|-7r9|5|Tlacote Alto
+Tlamapa|MX|México|41|1h6|-7mk|5
+Tlatlazoquico|MX||41|1lu|-7l8|5
+Tlamoloaxtla|MX||41|1hl|-7ho|5
+Tlalixtlahuac|MX||41|1fi|-7hp|5

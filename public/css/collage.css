@@ -1,0 +1,367 @@
+/* collage.css — the Memories collage canvas. Owner prefix .cg-*, linked from index.html by the
+   parent integration pass. Companion to public/js/collage-frames.js, which is the single source
+   of the frame/ground registries — renderers take class names and geometry from there, never
+   from memory of this file.
+
+   THE CLASS CONTRACT (what the renderer builds, and what this file styles):
+
+     .cg-view                the viewport — fixed box, clips the world, carries the ground
+                             (applyGround() sets the texture; the ground never lives on the
+                             camera layer)
+       .cg-camera            the single transformed layer; pan/zoom is ONE transform here
+         .cg-item            one print. Renderer sets inline: left, top, width, height,
+            + frame class    z-index, transform:rotate(<rot>deg), and --cg-w:<width>px.
+                             --cg-w MUST mirror width: the frame borders derive from it
+                             (percent padding resolves against the CONTAINING block, so raw
+                             percentages cannot express "fraction of my own width"; the
+                             custom property is the contract, not an optimisation. Omitting
+                             it degrades to a zero border — visible, never viewport-scaled).
+           .cg-media         the clipped photo box (the frame's window)
+             img / video     fills it, object-fit: cover
+             .cg-play        video affordance — play glyph in an --on-shot disc (shape, not colour alone)
+             .cg-missmark    offline glyph, shown by [data-miss="1"] on .cg-media
+           .cg-cap           polaroid only: caption in the foot
+
+   Frame classes (from FRAMES[key].className): .cg-f-polaroid  .cg-f-print  .cg-f-bare
+   The pad fractions here MUST equal FRAMES[key].pads in collage-frames.js — the canvas export
+   draws from those numbers and the two renderers may not drift. Adding a fourth frame is one
+   registry entry there + one block here.
+
+   Rules this file holds to:
+     - state is never hue-only: offline is the DASHED tray, video is the play DISC
+     - no font below 12px; nothing quieted by opacity — recede by ink token and weight
+     - tap targets: an item is the tap target and items are far larger than 44px at normal
+       zoom by layout construction; no control in this file shrinks below --tap
+     - transitions are transform + opacity only; the global reduced-motion block in
+       styles.css zeroes them
+     - cheap to composite: two-layer small-blur shadows, no filter()/backdrop-filter, and
+       will-change appears ONLY on the camera layer — never on hundreds of items
+
+   Physical-object tokens, three-state (CONTRACTS.md pattern, scoped to the component because
+   styles.css is owned elsewhere). Paper is a print under light: in dark theme it DIMS —
+   lamp-lit paper — rather than inverting, the same reasoning as --on-shot. */
+
+.cg-view, .cg-root {
+  --cg-paper: #fdfaf3;                    /* instant-film / print border */
+  --cg-paper-ink: #4b4332;                /* caption ink on paper — 8.7:1 contrast at 12.5px */
+  --cg-keyline: rgba(20, 16, 10, .10);    /* emulsion edge where photo meets paper */
+  --cg-shadow:                            /* contact glue + soft lift = FRAME_SHADOW.light */
+    0 1px 2px rgba(31, 25, 14, .30),
+    0 7px 16px rgba(31, 25, 14, .22);
+}
+/* Keyed on the FAMILY — see the same change in memories.css. One rule, every dark theme. */
+:root[data-lum="dark"] .cg-view,
+:root[data-lum="dark"] .cg-root {
+  --cg-paper: #ded6c6;
+  --cg-paper-ink: #3a3428;
+  --cg-keyline: rgba(0, 0, 0, .26);
+  --cg-shadow:
+    0 1px 2px rgba(0, 0, 0, .60),
+    0 8px 18px rgba(0, 0, 0, .50);
+}
+
+/* ── viewport & camera ─────────────────────────────────────────────────────────────── */
+/* .cg-view only — NOT .cg-root. collage.js's root sizes itself with position:absolute;inset:0
+   inside the host element; adding position:relative here collapsed it to zero height, which
+   drove the fit scale to 0.00018 and produced a board that measured perfectly and painted
+   nothing at all. The tokens above are what .cg-root needed from this file, and it has them. */
+.cg-view {
+  position: relative;
+  overflow: hidden;
+  /* Ground fallback before applyGround() lands its texture; never a flash of white. */
+  background: var(--ground);
+  touch-action: none;              /* pan/pinch belong to the collage, not the scroller */
+  -webkit-user-select: none;
+  user-select: none;
+  contain: layout paint;           /* the world inside cannot relayout or repaint the app */
+}
+.cg-camera, .cg-cam {
+  position: absolute;
+  left: 0; top: 0;
+  width: 0; height: 0;             /* a pure origin — items place themselves absolutely */
+  transform-origin: 0 0;
+  /* NO PERMANENT will-change. A permanent will-change is a permanent composited layer, and a
+     permanent layer at high zoom is a permanent texture — the spec calls that out as its own
+     perf bug. collage.js turns it on for the duration of a gesture or an animation and takes
+     it off on settle, which is the only time it buys anything. */
+}
+
+/* ── the print ─────────────────────────────────────────────────────────────────────── */
+.cg-item {
+  position: absolute;
+  box-sizing: border-box;
+  transform-origin: 50% 50%;       /* rot pivots the centre; layout's bounds assume this */
+  border-radius: 2px;
+  box-shadow: var(--cg-shadow);    /* an object lying on the surface — offset, not a glow */
+  -webkit-user-drag: none;
+}
+
+/* FRAMES PAINT; THEY DO NOT MEASURE.
+   The pads are still a fraction of the item's own width (uniform border at any aspect) and
+   --cg-w still carries that width, but the frame's outer box and the photo window inside it
+   now arrive INLINE from the Layout — item.frameBox and item.x/y/w/h, the same numbers the
+   occlusion solver packed, `layout.bounds` was built from and collage-export.js draws. CSS
+   padding may not set either one: a photo box that comes out of a stylesheet cannot match a
+   bounds box that came out of the solver, and it re-crops every photograph through object-fit.
+   Selectors are the renderer's own [data-frame] attribute, which is what collage.js stamps;
+   the .cg-f-* class names from collage-frames.js are kept as aliases for any other consumer. */
+.cg-item[data-frame="polaroid"], .cg-f-polaroid {
+  background: var(--cg-paper);
+  border-radius: 3px;
+}
+.cg-item[data-frame="print"], .cg-f-print {
+  background: var(--cg-paper);
+  border-radius: 1.5px;
+}
+.cg-item[data-frame="bare"], .cg-f-bare {
+  background: none;                /* the photo IS the object; only the shadow remains */
+}
+
+/* ── the photo window ──────────────────────────────────────────────────────────────── */
+/* .cg-shot is the element collage.js builds; .cg-media is the alias in the class contract.
+   Position and size are INLINE (the layout's photo box) — this rule may only paint. */
+.cg-shot, .cg-media {
+  overflow: hidden;
+  background: var(--surface-2);    /* geometry exists before any byte of media arrives */
+  /* emulsion keyline — inset ring, no blur, costs nothing; drawFrame strokes the same 1px */
+  box-shadow: inset 0 0 0 1px var(--cg-keyline);
+}
+.cg-item[data-frame="bare"] .cg-shot,
+.cg-f-bare .cg-media { border-radius: 2px; box-shadow: none; }
+.cg-shot > img, .cg-shot > video,
+.cg-media > img, .cg-media > video {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  -webkit-user-drag: none;
+}
+/* NO opacity:0 DEFAULT. A decode-fade that starts hidden and is revealed by a [data-ok] the
+   renderer never sets is a board of invisible photographs, and it fails silently — every
+   element present, correctly sized, showing nothing. The LOD crossfade collage.js does run is
+   opacity on the .cg-full layer only, where the thumb underneath is already visible. */
+
+/* ── polaroid caption ──────────────────────────────────────────────────────────────── */
+/* The foot is a fraction of the item's own width, so the caption slot is too. --cg-w is set
+   inline by collage.js because a CSS percentage resolves against the containing block, never
+   against the element's own width. */
+.cg-item[data-frame="polaroid"] .cg-cap,
+.cg-f-polaroid .cg-cap {
+  position: absolute;
+  left: calc(var(--cg-w) * .06);
+  right: calc(var(--cg-w) * .06);
+  bottom: 0;
+  height: calc(var(--cg-w) * .18);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-display);
+  /* Never below 12px. collage.js hides the writing (keeping the foot) below the
+     zoom where this would render under 12 screen px, rather than shrinking it. */
+  font-size: 12.5px; font-weight: 600;
+  line-height: 1.2;
+  color: var(--cg-paper-ink);      /* full-strength ink on paper — never quieted by alpha */
+  white-space: nowrap;
+  overflow: hidden; text-overflow: ellipsis;
+  pointer-events: none;
+}
+/* Captions on non-polaroid frames have no slot; the renderer should not emit them, and if it
+   does they must not float over the photograph. */
+.cg-item[data-frame="print"] .cg-cap, .cg-item[data-frame="bare"] .cg-cap,
+.cg-f-print .cg-cap, .cg-f-bare .cg-cap { display: none; }
+
+/* ── video affordance — SHAPE first, --on-shot ink whatever the poster behind it ───── */
+/* POSITION IS THE RENDERER'S. collage.js's structural sheet centres a 44px disc on the photo
+   window; re-stating `inset: 0` here over-constrained it against that width and parked the
+   disc in the item's top-left corner. This rule paints and nothing else. */
+.cg-play {
+  color: var(--on-shot);
+  pointer-events: none;            /* the item is the tap target */
+  z-index: 1;                      /* above the clip, which is added to the frame after it: the fade is seen */
+}
+.cg-play .ico, .cg-play .cg-ico {
+  border-radius: 50%;
+}
+/* While a pooled <video> is live in this frame the disc yields to the moving picture —
+   motion itself is the signal; the disc returns with the poster. The pool marks a frame live
+   only once the clip's first frame is painted under the disc, and the disc then fades out
+   (200 ms) rather than vanishing in one frame; it fades back if the clip stops, and stays if it
+   never starts. Under reduced motion it swaps at once. */
+.cg-play { transition: opacity 200ms ease-out, visibility 0s linear 0s; }
+.cg-shot[data-live="1"] .cg-play,
+.cg-media[data-live="1"] .cg-play {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 200ms ease-out, visibility 0s linear 200ms;
+}
+@media (prefers-reduced-motion: reduce) {
+  .cg-play,
+  .cg-shot[data-live="1"] .cg-play,
+  .cg-media[data-live="1"] .cg-play { transition: none; }
+}
+
+/* ── offline, not downloaded: the dashed tray, clipped by the frame window ─────────── */
+/* collage.js stamps data-miss on the ITEM and draws the glyph in .cg-miss; .cg-media /
+   .cg-missmark are the class-contract aliases. Shape, never hue, never opacity on text. */
+.cg-miss, .cg-missmark {
+  color: var(--ink-3);             /* full-strength quiet ink, same as memories.css */
+}
+.cg-miss .cg-ico, .cg-missmark .ico { width: 26px; height: 26px; }
+/* The tray stroke uses the SAME ink as the glyph, not --line-strong. Measured against the
+   well, --line-strong came out at 2.96:1 in light theme — under the 3:1 a non-text signal
+   needs, and this tray IS the signal (shape, never hue). --ink-3 measures
+   5.04:1 light / 4.77:1 dark, and it makes the tray and its glyph one mark rather than two. */
+.cg-item[data-miss="1"] .cg-shot,
+.cg-media[data-miss="1"] { outline: 2px dashed var(--ink-3, #665f4a); outline-offset: -6px; }
+.cg-media[data-miss="1"] .cg-missmark { display: grid; }
+.cg-media[data-miss="1"] > img,
+.cg-media[data-miss="1"] > video { opacity: 0; }
+/* A missing VIDEO shows the tray alone: the disc would stack a second glyph on the same
+   centre and advertise a play that cannot happen offline. Not-downloaded wins; the disc
+   returns with the poster. (Looked at over bright and dark shots, both themes.) */
+.cg-item[data-miss="1"] .cg-play,
+.cg-media[data-miss="1"] .cg-play { display: none; }
+
+/* ── the appearance drawer and board chrome (moved onto the design system; corkboard above stays untouched) ── */
+.cg-look {
+  position: absolute; z-index: 4;
+  top: 12px; right: 12px;
+  width: 36px; height: 36px;
+  display: inline-flex; align-items: center; justify-content: center;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-12);
+  background: var(--fill);
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
+  color: var(--ink-1);
+  box-shadow: var(--shadow-pop);
+  cursor: pointer;
+  transition: transform var(--dur-150) var(--ease-standard), background-color var(--dur-150) var(--ease-standard);
+}
+.cg-look svg {
+  width: 18px; height: 18px; fill: none; stroke: currentColor;
+  stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round;
+}
+/* Drawn at 36px, pressed at 44px. */
+.cg-look::before { content: ""; position: absolute; inset: -4px; border-radius: var(--radius-12); }
+.cg-look[data-press="1"] { transform: scale(.96); background: var(--fill-active); }
+@media (hover: hover) and (pointer: fine) {
+  .cg-look:active { transform: scale(.96); background: var(--fill-active); }
+}
+/* Save or share button left of the look button: gray design-system control. */
+.cg-look.cg-look-share {
+  right: calc(12px + 44px);
+  width: auto; height: 36px; padding: 0 12px; gap: 6px;
+  border-radius: var(--radius-12);
+  font: 600 var(--size-14)/20px var(--type-ui);
+}
+.cg-look.cg-look-share::before { inset: -4px 0; border-radius: var(--radius-12); }
+.cg-look.cg-look-share svg { width: 16px; height: 16px; }
+
+.cg-looksheet { display: flex; flex-direction: column; gap: 8px; color: var(--ink-1); }
+.cg-lookhead {
+  margin: 14px 0 4px;
+  font: 600 var(--size-14)/20px var(--type-ui);
+  color: var(--ink-1);
+}
+.cg-lookhead:first-child { margin-top: 0; }
+.cg-lookhint { margin: 0 0 8px; font-size: var(--size-12); line-height: 16px; color: var(--ink-2); }
+.cg-lookrow { display: flex; flex-wrap: wrap; gap: 8px; }
+.cg-chip {
+  display: inline-flex; align-items: center; gap: 7px;
+  min-height: var(--control-44);
+  padding: 0 12px;
+  border: 1px solid var(--edge); border-radius: var(--radius-12);
+  background: var(--fill); color: var(--ink-1);
+  font-size: var(--size-14); font-weight: 500; line-height: 20px;
+  cursor: pointer;
+  transition: background-color var(--dur-150) var(--ease-standard),
+              border-color var(--dur-150) var(--ease-standard),
+              color var(--dur-150) var(--ease-standard);
+}
+.cg-chip[data-press="1"] { background: var(--fill-active); }
+@media (hover: hover) and (pointer: fine) {
+  .cg-chip:active { background: var(--fill-active); }
+}
+.cg-chip[aria-pressed="true"] {
+  border-color: var(--solid);
+  background: var(--solid); color: var(--on-solid);
+  font-weight: 600;
+}
+/* Swatch carries each ground's own fill from collage-layout.js. */
+.cg-sw {
+  width: 16px; height: 16px; border-radius: 4px;
+  border: 1px solid var(--edge-strong);
+  flex: 0 0 auto;
+}
+
+.cg-links { margin-top: 16px; }
+.cg-linklist { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.cg-link {
+  display: grid; gap: 4px;
+  padding: 12px 14px;
+  border: 1px solid var(--hair); border-radius: var(--radius-16);
+  background: var(--well);
+}
+.cg-link p { margin: 0; overflow-wrap: anywhere; }
+.cg-linkwho { font-weight: 600; font-size: var(--size-14); line-height: 20px; color: var(--ink-1); }
+.cg-linkstate, .cg-linkask { font-size: var(--size-14); line-height: 20px; color: var(--ink-2); }
+.cg-linkask { margin-top: 4px; color: var(--ink-1); }
+.cg-linkacts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+.cg-linkacts .btn {
+  flex: 1 1 auto;
+  min-height: var(--control-44);
+  justify-content: center;
+  white-space: nowrap;
+  border-radius: var(--radius-12);
+  font-size: var(--size-14);
+  font-weight: 600;
+  background: var(--fill);
+  border: 1px solid var(--edge);
+  color: var(--ink-1);
+}
+.cg-linkacts .cg-linkstop {
+  background: var(--negative-bg);
+  border-color: var(--negative-edge);
+  color: var(--negative);
+}
+
+.cg-lookfoot { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; width: 100%; }
+.cg-lookfoot .btn {
+  flex: 1 1 40%;
+  min-height: var(--control-44);
+  justify-content: center;
+  border-radius: var(--radius-12);
+  font-size: var(--size-14);
+  font-weight: 600;
+  background: var(--fill);
+  border: 1px solid var(--edge);
+  color: var(--ink-1);
+}
+.cg-lookfoot .cg-sharelink {
+  background: var(--solid);
+  border-color: var(--solid);
+  color: var(--on-solid);
+}
+.cg-lookfoot .me-frout { flex: 1 1 100%; min-width: 0; }
+.cg-lookfoot .cg-shareurl {
+  width: 100%;
+  min-height: var(--control-44);
+  padding: 0 12px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-12);
+  background: var(--well);
+  color: var(--ink-1);
+  font-family: var(--type-mono);
+  font-size: var(--size-14);
+  line-height: 20px;
+}
+.cg-lookstat {
+  flex: 1 1 100%; min-width: 0; margin: 0; min-height: 1.2em;
+  font-size: var(--size-12); line-height: 16px; color: var(--ink-2);
+  overflow-wrap: anywhere;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cg-look,
+  .cg-chip {
+    transition: none;
+  }
+}

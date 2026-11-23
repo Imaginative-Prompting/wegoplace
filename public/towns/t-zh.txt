@@ -1,0 +1,321 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Zhangjiagang|CN||7i|2gj|9au|b1s
+Zhanjiang|CN||7i|1mz|8in|at3|Trạm Giang;Chankiang
+Zhongwei|CN||7i|2w7|847|92a|Dṳ̆ng-ôi;Čung-wej;Trung Vệ;Tiong-oē-chhī;Chung-wei
+Zhuzhou|CN||7i|25b|8qb|8pt|Jianning;Zhutsjou;Ču-čou;Ĝuĝou;Chu-chû-sṳ;Chu Châu;Chu-chiu-chhī;Çyu Cou;Tṳ̆-ciŭ;Džudžou;Džudžov;Chu-chou
+Zhu Cheng City|CN||7i|2s0|97o|7ps
+Zhenjiang|CN||7i|2hh|97u|7c1|Chinkiang;Chenkiang;Chinking;Chinkiang Fu
+Zhoushan|CN||7i|2bb|9fg|6t9
+Zhabei|CN||7i|2eu|9de|6hc
+Zhaotong|CN||7i|23w|804|62u|Čao-tchung;Chiêu Thông;Ciĕu-tŭng;Chiau-thong-chhī;Chao-t’ung
+Zhuanghe|CN||7i|32a|9hn|5q9|Chuang-ho
+Zhumadian|CN||7i|2jm|8sr|5kh
+Zhangjiakou|CN||7i|35a|8v3|5ce|Ĝanjakou;Trương Gia Khẩu;Čang-ťia-kchou;Diŏng-gă-kāu;Chang-kia-k’ou
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Zhangye|CN||7i|305|7r1|3wy|Trương Dịch;Diŏng-ĭk;Čang-jie;Changyen;Chang-yeh
+Zhoukou|CN||7i|2ld|8uh|3wc|Tsjoukou;Čou-kchou;Juko shehiri;Chu Khẩu;Ciŭ-kāu;Chiu-kháu-chhī;Chou-k’ou
+Zhucheng|CN||7i|2rz|97o|3up|Chu-ch’eng
+Zhangjiajie|CN||7i|28x|8iw|3eq|Čang-ťia-ťie;Chông-kâ-kie-sṳ;Trương Gia Giới;Diŏng-gă-gái
+Zhongxiang|CN||7i|2el|8oq|3e2|Anlu;An-lu
+Zhijiang|CN||7i|2ci|8mf|35h|Chikiang
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Chang-hua|TW||7l|1uv|9aw|1qy|Chang Hwa;Zhanghua;Jhanghua;Changhua
+Vykhino-Zhulebino|RU||9i|4aq|2x1|1o0
+Zhubei|TW||7l|1x0|9c5|1n3|Trúc Bắc;Tsuk-pet-sṳ;Ču-pej;Jhubei
+Zhengding|CN||7i|2xz|8u9|1hr|Cheng-ting
+Verhunskyi|UA||98|3qz|31d|1fk|Zhovtnevyi rayon;Zhovtnevyi
+Zhenping|CN||7i|2jr|8nr|1ef|Chen-p’ing
+Tsentralnyi|UA|Donetsk|98|3mu|2wb|1dw|Zhovtnevyi rayon;Zhovtnevyi;Molotovskyi rayon;Molotovskyi
+Zhenzhou|CN||7i|2ho|971|1cw|Icheng Ku;I-cheng
+Zhicheng|CN|Hubei|7i|2c6|8lq|18a|Chihkiang;Chih-chiang;Chih-ch’eng;Chi-Kiang
+Zhaodong|CN||7i|3jx|9pw|16w
+Zhulebino|RU||9i|4aq|2x5|15o
+Zheleznodorozhnyy|RU|Moscow Oblast|9i|4au|2xm|13c|Zjeleznodorozjnyj;Zheleznodorozhny
+Zhalantun|CN||7i|3pd|9gy|10q|Tsa-lan-t’un;Cha-lan-tun;Zalantun
+Zhoucun|CN||7i|2ua|93a|y0
+Zhujing|CN||7i|2du|9ck|xd
+Zhaoyuan|CN|Shandong|7i|2vs|9ah|xc|Chao-yüan
+Zhaozhou|CN||7i|3iz|9nz|vo|Chao-chou
+Zhuji|CN||7i|2ak|9a0|ur
+Zhonghe|CN|Chongqing|7i|271|8er|t6
+Zhezqazghan|KZ||5s|3or|583|t0|Schesqasghan;Dzhezkazgan;Jezkazgan;Jezqazg'on;Jezqazğan;Zhezkazgan;Jez-Kazgan;Jezgazgan
+Zhanaozen|KZ||5v|3ce|42u|ss|Zhangaözen;Schangaösen
+Dhahran|SA||7e|211|3v7|rn|Dharaan;Zhahran;Dahran;Zahran;Dahahron;Dhahram
+Zheleznogorsk|RU|Kursk Oblast|9i|41e|2q8|r7|Zjeleznogorsk;Železnogorsk;Željeznogorsk;Schelesnogorsk
+Zhukovsky|RU||9i|4ag|2xw|r0|Zjukovskij;Žukovski;Schukowski;Zhukovskiy
+Zhudong|TW||7l|1wp|9cd|qt|Jhudong
+Zhongduo|CN||7i|285|8e4|q3
+Zheleznogorsk|RU|Krasnoyarsk Krai|6u|4c9|77t|q2|Zjeleznogorsk;Železnogorsk;Željeznogorsk;Schelesnogorsk;Krasnojarsk-26;Krasnoyarsk-26;Krasnoyarsk-9
+Zhaoyuan|CN|Heilongjiang|7i|3ig|9ng|pz|Chao-yüan
+Zhongshu|CN||7i|1w4|809|pi
+Zhoujiaba|CN||7i|2do|8d1|ol
+Zhaogezhuang|CN|Hebei|7i|32h|94x|o2
+Zhonggulou|CN||7i|2dm|8d2|nv
+Xigazê|CN||7i|299|6uw|m8|Shigatse;Samdruptse;Žikace;Šigatse;Sigace;Zhikatse;Sh’i-ka-tse;Shigatze
+Zhuangyuan|CN||7i|2vn|9bn|lz
+Zhaodun|CN||7i|2na|93e|lb
+Zhlobin|BY||9g|42x|2be|l7|Žlobin
+Zhangzhai|CN||7i|2o6|90v|ko|Chang-chai
+Zhangzhuang|CN||7i|2nw|911|kl
+Zhoucheng|CN||7i|2rr|8z3|k1
+Zhenlai|CN||7i|3jd|9i8|iu|Chen-lai
+Zhicheng|CN|Zhejiang|7i|2e5|993|hq
+Horad Zhodzina|BY||9g|46a|26p|hi|Zhodzina;Żodino;Schodsina;Zhodino;Žodzina
+Zhangjiachuan|CN||7i|2p7|871|hd
+Zhaobaoshan|CN||7i|2b9|9e1|h8
+Zhangji|CN||7i|2mu|922|h7
+Zhujiajiao|CN||7i|2ef|9ca|go
+Zhutuo|CN||7i|28m|861|g7
+Görlitz|DE||8r|3y4|15n|g2|Zhořelec;Gorlicium Germaniae;Zhorjelc;Zgórjelc;Giorlicas;Gerlica;Goerlitz
+Zhongxing|CN|Jiangsu|7i|2lm|95o|fx
+Zhigulëvsk|RU||9p|44c|3tj|fv|Zjigulevsk
+Zhuzhai|CN||7i|2ok|90h|ft
+Zhuyi|CN||7i|2e7|8fv|fg
+Zhangfeng|CN||7i|1v7|7jo|eu|Chang-feng
+Zhaozhuang|CN||7i|2oi|8zi|es
+Zhawa|CN||7t|2vd|657|ei
+Zhongxin|CN||7i|21y|7tb|ef
+Zhefang|CN||7i|1vf|7l0|eb|Che-fang
+Zhob|PK||6q|2f2|5cx|e1
+Zhenxi|CN||7i|2b2|8ai|dw
+Zhushan|TW||7l|1u0|9b8|c9|Jhushan;Chu-shan
+Zhonghe|CN|Chongqing|7i|2em|8cd|c1
+Zhigou|CN||7i|2rs|976|c0
+Zhitikara|KZ||7c|40z|4q0|bz|Zhetiqara;Zhetikara;Zhitiqara
+Zhengji|CN||7i|2no|914|by
+Zhuhai|CN|Chongqing|7i|29l|864|bs
+Zhovti Vody|UA||98|3qb|2l2|bp|Schowti Wody;Jovti Vody;Žovti Vody;Geltonieji Vandenys;Zjovti Vody;Jovti Vodî;Żółte Wody;Scholti Woody;Žovti Vodi;Zhovta Rika
+Zhaojia|CN|Chongqing|7i|2ec|8d5|b3
+Zhuyuan|CN|Chongqing|7i|2ey|8fi|ax
+Zhancheng|CN||7i|2my|934|am
+Zhonghe|CN|Yunnan|7i|1xm|7lc|ah
+Zhiping|CN|Chongqing|7i|29a|87g|a7
+Zhetysay|KZ||5s|35a|59t|a5|Zhetisay
+Zhutang|CN||7i|1r4|7p9|9y
+Zhmerynka|UA||98|3s8|263|9l|Jmérynka;Şmerinca;Žmerinka;Schmerynka
+Zharkent|KZ||5s|3ep|669|9k|Scharkent;Djarkent;Jarkent
+Zhelou|CN||7i|1xd|85y|9j|Che-lou
+Zhuxi|CN|Chongqing|7i|2a2|85j|9h
+Zhangatas|KZ||5s|3d0|5dp|9b|Zhanatas;Dzhanatas
+Zhoujia|CN||7i|2ci|8aq|92
+Zhonghe|CN|Hainan|7i|1iu|8fq|8s
+Zhakou|CN||7i|1ob|8g4|8o
+Zhong’ao|CN||7i|2ap|85j|8n
+Zhifeng|CN||7i|2ad|85u|7x
+Zheleznogorsk-Ilimskiy|RU||6k|4d6|819|7x|Zjeleznogorsk-Ilimskij
+Zheshan|CN||7i|2sf|96f|7v
+Zhengxing|CN||7i|29u|86t|7q
+Zhongshan|CN|Gansu|7i|2p2|864|7j
+Zhuyang|CN||7i|28q|86a|7b
+Zhongxing New Village|TW||7l|1uk|9b9|73|Zhongxing Yeni Köy;Zhongxing Yangi Qishloq;Desa Baru Zhongxing;Kampung Baru Zhongxing;Aldea Nueva Zhongxing;Village Nouveau Zhongxing;Zhongxing Neudorf;Zhongxing Sabuwar Gida;Deso Anyar Zhongxing;Zhongxing Baayina Giddugaleessa;Vila Nova Zhongxing;Zhongxing Tuulo Cusub;Kijiji Kipya cha Zhongxing
+Zelino|MK||9u|38m|1mi|72|Zhelinë;Željino
+Zhoubai|CN||7i|2a1|8ea|6z
+Zheleznovodsk|RU||9i|3em|3bg|6u|Zjeleznovodsk;Zheleznovodak;Zhelyednovodsk
+Zhuojiacun|MO||6y|1pk|8rg|6o
+Zhanhe|CN||7i|22m|7sb|6n
+Zhuxi|CN|Chongqing|7i|2eg|8ct|6d
+Zhongchao|CN||7i|20m|8fe|65|Chung-ch’ao
+Zhouzhuang|CN||7i|2eg|9bo|64|Chou-chuang
+Zhouqu Chengguanzhen|CN||7i|2lu|81w|64
+Zhangaqorghan|KZ||7d|3dz|56t|5x
+Zhuantang|CN||7i|28a|88b|5u
+Zhongshan|CN|Chongqing|7i|286|87e|5p
+Zhuoshui|CN||7i|29e|8e5|5o|Cho-shui
+Zhosaly|KZ||7d|3id|4y0|5l|Zhusaly;Dzhusaly
+Zhuravlivka|UA|Kharkiv|98|3ux|2sr|5k
+Zhukovka|RU|Bryansk Oblast|9i|44p|2lp|5h|Zjukovka;Schukowka
+Zhongzhai|CN|Gansu|7i|2k7|822|5g
+Zhendong|CN||7i|2en|8d4|58
+Zhirnovsk|RU||a4|3xm|3ge|4z|Zjirnovsk
+Zhouxi|CN|Guizhou|7i|21k|8bs|4p
+Zhuzilin|CN||7i|1qm|8sq|4o
+Zhaoxing|CN||7i|1zz|8fa|4n
+Zhongling|CN||7i|26m|8eo|4l
+Zhushan|CN|Chongqing|7i|2dd|8cr|4j
+Zhongba|CN||7i|2mk|83r|4i
+Zherdevka|RU||9i|401|375|4g|Zjerdevka
+Žytkavičy|BY||9g|412|25e|4e|Zhytkavichy;Jytkavitchy;Žytkavitšy;Žytkavičai;Zjytkavytjy
+Zhen’an|CN||7i|2ej|8cw|4b
+Zhonggang|CN||7i|2fk|8ef|42
+Zhabinka|BY||9g|410|1up|40|Żabinka;Zabinaa
+Zhalagash|KZ||7d|3h8|4zo|3y|Zhalaghash
+Zhovkva|UA||98|3v2|1ul|3v|Żółkiew;Schowkwa;Žovkva;Zholkva
+Zhangzi|CN||7i|30f|9gx|3u
+Zhashkiv|UA||98|3st|2bm|3o|Jachkiv
+Zhangaarqa|KZ||5s|3r9|5j0|3o|Atasū;Zhanaarka
+Zhengyang|CN||7i|29u|8e7|3m
+Zhisheng|CN||7i|29l|85h|3k
+Zhukov|RU||9i|48u|2u2|3f|Zjukovo
+Zhdanivka|UA||98|3pr|2ya|3b|Zhdanovka;Zhdanov
+Zhongmiao|CN||7i|2j1|84n|3b
+Zhifang|CN||7i|2lp|850|3a
+Zhetybay|KZ||5v|3d3|40q|39|Zhetibay
+Zhongfeng|CN||7i|28a|87o|38
+Zhongtang|CN||7i|2a9|8eb|35
+Zhufo|CN||7i|296|8de|2z
+Zhydachiv|UA||98|3t6|1v2|2w|Żydaczów;Schydatschiw;Zhidáchiv;Jydatchiv;Jıdaçiv;Žydačiv;Židačiva;Zjydatsjiv;Žõdatšiv;Žydačiw;Žydačivas;Zhidachev;Zhidechuv;Zhydachuv;Zhidachov
+Zhongliao|TW||7l|1uz|9au|2p|Jhongliao;Chung-liao
+Zheshart|RU||9i|4sf|3tp|2n|Zjesjart;Zhershart;Zheshert
+Zhangmianyi|CN||7i|2pn|873|2m|Zhangmian
+Zhovtneve|UA|Donetsk|98|3rd|2w8|2l|Hora;Gora
+Zhezkent|KZ||5s|3xh|6a0|2h
+Zhanpu|CN||7i|2aw|8b0|2a
+Zhanibek|KZ||77|3ta|3m5|2a|Djanibek;Dzhanybek
+Zhatay|RU||7x|4so|a0n|29
+Zhongqiao|CN||7i|29h|8a2|25
+Zheleznodorozhnyy|RU|Irkutsk Oblast|6k|4gv|7xi|24|Zjeleznodorozjnyj
+Zhibek Zholy|KZ||5s|378|5co|23
+Zheleznodorozhnyy|RU|Chelyabinsk|7z|492|4qz|21
+Zholymbet|KZ||5s|3zq|5j7|1x
+Zhumysker|KZ||77|3t1|3t8|1w
+Zhangwan|CN||7i|227|987|1u|Chang-wan
+Zhabari i Ultë|XK||8q|3b3|1lw|1t|Donje Žabare;Zabari i Ultë;Zhabar i Poshtëm;Zhabarë
+Zhulyany|UA||98|3vz|2ck|1s|Zhuliany
+Zhagulu|CN||7i|2o9|7yn|1s
+Zhuyuan|CN|Guangdong|7i|1qm|8sq|1r
+Zhongshan|CN|Guangdong|7i|1qn|8sg|1r
+Zhympity|KZ||77|3vm|424|1r
+Zhongxing|CN|Guangdong|7i|1qq|8si|1q
+Zhirnov|RU||9i|3pt|369|1p|Zjirnov;Zhirov
+Novaya Bukhtarma|KZ||5s|3tv|6g0|1o|Zhanga Buqtyrma
+Zhongping|CN||7i|26y|8f5|1o
+Zhangaqala|KZ||77|3sq|3vp|1o|Dzhangala;Zhangala
+Zhizdra|RU||9i|45b|2oi|1l|Zjizdra
+Zhushan|CN|Chongqing|7i|2dc|8at|1k
+Zhuyuan|CN|Gansu|7i|2m5|82u|1k
+Zhongyi|CN||7i|2bl|8cx|1i
+Donske|UA|Donetsk|98|3nz|2wa|1i|Dons’ke;Zhdanivbud;Donskoye;Zhdanovbud
+Zhigalovo|RU||6k|489|844|1h|Zjigalovo
+Zharrëz|AL||9y|353|1il|1g|Sharreza;Zharrësi;Zharrësa;Zharrës
+Zhelezinka|KZ||5s|44q|5t7|1g|Zheleznenka
+Zhaksy|KZ||5s|407|570|1e|Zhaqsy
+Zhdanovichy|BY||9g|45u|247|1e|Zhdanovicha;Zhdanovichi
+Zhouxi|CN|Chongqing|7i|2ge|8dc|1d
+Zhurivka|UA||98|3wa|2ga|1d|Shuriwka;Zgurovka;Zhourivka;Zgurivka;Zhuriwka;Zghurivka
+Zharkovskiy|RU||9i|4b5|2hn|1c|Zjarkovskij
+Mykolaivka|UA|Sumy|98|3xi|2nh|19|Zhovtnevoye;Zhovtneve;Mykolayivka
+Zhalghyztobe|KZ||5s|3sp|69m|18|Jañğyztöbe
+Shimorskoye|RU||9i|49p|38r|15|Sjimorskoje;Şimorskoye;Zhimorskoye
+Zhongwu|CN||7i|1qv|8s8|14
+Zhan’erxiang|CN||7i|2lu|87a|13
+Zhuxian|CN||7i|2ew|8hr|13
+Zhongliang|CN||7i|2fr|8fq|13
+Zhireken|RU||67|42r|91v|12|Zjireken
+Zhaishi Miaozu Dongzuxiang|CN||7i|21m|8ho|12
+Zhayou|CN||7i|2p7|7xi|11
+Zhaojia|CN|Chongqing|7i|29b|8ar|10
+Zhvyrka|UA||98|3w7|1vf|10|Zhvirka
+Zhovtantsi|UA||98|3uv|1vc|z|Zhovtantsy
+Zhiping|CN|Chongqing|7i|2gc|8e9|x
+Zhamashi|CN||7i|2y4|7pu|x|Zamashi
+Zhuravno|UA||98|3su|1vg|x|Żurawno;Juravno;Schurawno;Jouravno;Zsuravno;Juravne;Zhuravne
+Tavryiske|UA||98|3od|2r6|x|Tavriyske;Zherebets;Tavriiske
+Zhemtala|RU||9i|3c8|3da|x|Zjemtala
+Zhigansk|RU||7x|55h|9iq|w|Zjigansk;Shigansk
+Zhitnevo|RU||9i|49q|2xb|w|Zjitnevo
+Zhdankovskiy|RU||9i|45b|2y2|u|Zjdankovskij
+Zhana-Omir|KZ||77|3xu|3z9|u|Novaya Zhīzn’;Zhana Omir
+Zhuravka|UA|Chernihiv Oblast|98|3w8|2ij|u
+Zhiletovo|RU||9i|47x|2s2|u|Zjiletovo;Zhiletova
+Zheleznodorozhnyy|RU|Kaliningrad Oblast|96|470|1n7|u|Gerdauen;Zjeleznodorozjnyj;Girdava;Železnodorožnas;Železnodorožnyj;Gerdauyen
+Petrovirivka|UA||98|3n8|2c9|u|Zhovten;Petrowiriwka;Pietrowiriwka
+Zharyk|KZ||5s|3rq|5mc|t|Säken Seyfūllīn;Zharyq;Saken Seifullin
+Zhylivka|UA|Luhansk|98|3qp|2zp|t|Zhyllo;Imeni Hor'koho;Selyshche imeni Hor'koho;Imeni Gorkogo
+Zhavoronki|RU||9i|4al|2v2|t|Zjavoronki
+Zhuoyang|CN||7i|21z|96m|s
+Zhelyabovka|UA||9t|3i4|2ok|r
+Zhuravki|UA||9t|3hd|2pu|r|Zjuravki;Juravkî;Zuravki
+Zhukovka|RU|Moscow Oblast|9i|4cw|2w8|q|Zjukovka
+Zhinvali|GE||7n|391|3gd|q|Zhinvani
+Zhilëvo|RU||9i|48t|2xl|q|Zjilevo
+Zhongdeng|CN||7i|31z|91z|p
+Zhaogezhuang|CN|Tianjin|7i|32i|91k|o
+Zhovtneve|UA|Kyiv City|98|3w4|2cd|o
+Pokrovske|UA|Poltava|98|3tw|2mt|o|Zhovtnevoye;Zhovtneve
+Zhiryatino|RU||9i|43v|2lp|n|Zjirjatino
+Zhuqi|CN||7i|20n|96u|n
+Zhniatyno|UA||98|3qb|1qr|m|Zhnyatyne;Zhnyatino;Zhnyatyno
+Zhuangtou|CN||7i|326|91t|m
+Muksha Kytaihorodska|UA||98|3r7|21y|m|Zhovtneve;Zhovtnevoye
+Zhushi|CN||7i|239|8jg|l
+Zhuoluo|CN||7i|2oh|7z2|l|Zhuolu
+Zhadovka|RU||9z|44t|3mf|l|Zjadovka;Jadovka
+Zhaoguli|CN||7i|30t|91o|k
+Zhabagly|KZ||5s|39w|5fs|k|Novonikolayevka
+Zherebkove|UA||98|3ow|2az|k|Sherebkovo;Zherebkovo
+Žabljak|ME||9l|3bv|1h4|j|Žabliakas;Zhabjaku
+Zhemchug|RU||6k|3zl|7wm|i|Zjemtsjug
+Zhirovichi|BY||9g|439|1ye|i|Zhyrovitsy;Zhyrovitse;Zhirovitsy;Zhyrovichy
+Zhovte|UA|Dnipropetrovsk|98|3qq|2l6|i
+Zhongxinqiao|CN||7i|30g|92k|i
+Zhiguli|RU||9p|448|3sy|g|Zjiguli
+Zhvanets|UA||98|3qv|21l|f|Żwaniec;Schwanez;Žvanets;Jvaneț;Zjvanets;Jvanets
+Zaliznyy Port|UA||98|3k4|2hq|f|Zheleznyy Port;Zaliznyi Port;Zhelezny Port
+Zhuravli|UA||9t|3hp|2lg|f|Zhuravly
+Zhenhaicun|CN||7i|1ve|941|e
+Zhuravlyovka|UA||9t|3hi|2mg|e
+Zhongfang|CN|Hunan|7i|245|8hd|e|Chung-fang
+Zhuravlivka|UA|Vinnytsia|98|3r4|27s|e|Zhuravlëvka;Juravlivka;Žuravlivka;Zhuralevka
+Zharikovo|RU||7w|3fv|a5x|d|Zjarikovo;Karikovo
+Dzhambul|KZ||5s|3n5|5ib|d|Zhambyl
+Zhankhoteko|RU||9i|3d0|3c1|d|Zjankhoteko
+Zhovte|UA|Luhansk|98|3r5|30n|d|Zhëltoye
+Zhuzhoujiang Miaozuxiang|CN||7i|224|8hr|d
+Zhuravychi|UA||98|3xm|1zg|d|Schurawytschi;Žuraviči;Żurawicze;Juravîci;Zhuraviche;Zhuravichi
+Žagarė|LT||a3|4ck|1sl|d|Żagory;Zhagare
+Zhujiachang|CN||7i|240|8em|d
+Zhuravlykha|UA||98|3ta|2cb|d|Zhuravlikha;Żurawlicha;Juravlîha
+Žujince|RS||8q|39k|1oa|d|Zhunicë;Zjujince;Žuince
+Zhadove|UA||98|40l|2it|c|Stary Zhadov;Zhdanovo Vtoroye;Zhdanovo Pervoye;Novy Zhadov;Zhadov;Zsadove;Zhadovo Vtoroye;Zhadovo Pervoye;Zhadovo
+Zhongshang Garden|CN||7i|1qo|8se|c
+Zhongfang|CN|Fujian|7i|21w|97r|c|Chung-fang
+Slobozhanske|UA|Kharkiv|98|3ve|2t6|c|Zhovtneve;Zhovtnevoye
+Blândiana|RO||8u|3jq|1sz|c|Zheligrad;Stumpach;Maroskarna;Blîndiana
+Nadiyivka|UA||98|3pz|2oj|b|Zhdanove;Nadievka;Nadijivka;Nadiivka;Nadijiwka
+Zhongzhai|CN|Hunan|7i|23k|8fj|b
+Zhdeniyevo|UA||98|3rh|1rt|b|Żdenijewo;Jdéniïévo;Szarvasháza
+Zhovnyne|UA||98|3t6|2is|b|Zhovnino
+Zhuguang|CN||7i|1qp|8sk|a
+Zhuky|UA|Poltava|98|3tz|2nu|a|Zhuki
+Zhaludok|BY||9g|44w|1xe|a|Zheludok;Zholudok;Žaludok
+Zhar|UA||98|3tx|2h6|a|Zghar
+Zhdany|UA||98|3vg|2k9|a
+Zhemchuzhina|UA||9t|3hr|2oa|a
+Zheleznodorozhnoye|UA||9t|3g8|2lw|a
+Zhaobenzhuang|CN||7i|31m|92r|a
+Zhabari i Epërm|XK||8q|3b2|1lv|9|Gornje Žabare;Zabari i Epërm;Zhabar i Epërm;Zhabarë
+Zhuravlevo|RU||74|486|6ka|9|Zjuravlevo;Zhuravleva
+Zhvan|UA||98|3r2|24c|9|Jvan;Žvan
+Zhukiv|UA||98|3tj|1xa|9|Zjukiv;Jukiv;Żuków;Zhukov
+Shemgang|BT||7p|23m|6zu|9|Şemgang;Zhemgang
+Zhelnino|RU||9i|4c4|3ch|8|Zjelnino;Zholnino
+Zhuravnyky|UA||98|3w3|1wl|8|Schurawnyky;Žuravniki;Żurawniki;Juravnîkî;Zhuravniki
+Žitni Potok|RS||8q|3bp|1nx|8|Zhitnipotoku;Zjitni Potok
+Zhemchuzhnyy|RU||6u|47e|6yf|8|Zjemtsjuzjnyj
+Zhepë|AL||9y|350|1kd|8|Zhepa;Xhepë
+Zhovtyi Yar|UA||98|3jf|2b5|8|Sārāria;Zhëltyy Yar;Zhovtyy Yar;Sarariya
+Zhanama|KZ||77|3rm|402|8
+Zhylivka|UA|Chernivtsi|98|3qa|21f|7|Jylivka;Zhilovka
+Zaberezh|UA||98|3py|1tc|7|Zhovtneve;Zhovtnevoye
+Ginestra|IT||9o|35p|17p|7|Xhinestra;Genestrum;Zhura
+Zhizhitsa|RU||9i|4cc|2f3|7|Zjizjitsa
+Radisne|UA|Odesa|98|3l5|2cx|7|Zhovtneva Revoliutsiia
+Zhabky|UA||98|3w5|2jv|7|Lutsenki;Lutsenky;Zhabki
+Zhuky|UA|Poltava|98|3ta|2k5|7|Zhuki
+Zhuravka|UA|Cherkasy|98|3sw|2em|7|Juravka
+Zhukovo|UA||98|3qq|1qw|6
+Zharāzhī|IR||7o|2ve|3gp|6
+Zhorzhivka|UA||98|3up|2n2|6|Zhorzhevka
+Kvitneve|UA|Zhytomyr Oblast|98|3uv|2a0|6|Zhovtneve;Zhovtnevoye
+Zhuravlynka|UA||98|3qf|2db|6
+Zhornava|UA||98|3s3|1qw|6
+Zhostovo|RU||9i|4bm|2wl|6|Zhestovo
+Zhaiba|CN||7i|27g|880|6
+Zhabyanka|UA||98|3sp|2de|6|Zhabianka
+Slobozhanske|UA|Kharkiv|98|3t5|2tm|5|Zhovtneve
+Zhukovka|RU|Moscow Oblast|9i|4bp|2xk|5
+Zhuky|UA|Poltava|98|3sx|2n5|5

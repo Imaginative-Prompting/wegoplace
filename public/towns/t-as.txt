@@ -1,0 +1,770 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Astana|KZ||5s|3y6|5ih|bwx|Tselinograd;Astano;Asztana;Nur-Sultan;Akmolinsk;Nour-Soultan;Nur-Sultano;Noer-Soeltan
+Asunción|PY||1y|-1y9|-4g5|bfq|Assumptio;Assunção;Asunsjonas;Paraguay;Assuncion;Asúnsjón;Asounsyòn;Asunsion;Asunsjona;Asunsyun;Asunson;Asunsaun
+Oslo|NO||9j|4mf|tv|8cq|Oslas;Oslu;Asloa;Ōhoro
+Ashgabat|TM||5x|2xf|4i6|7y5|Aşgabat;Ashkhabad;Ashkabad;Asjabad;Aszchabad;Achgabat;Aşqabad;Ašchabad;Asjkhabad;Aŝgabato;Achkhabad;Ašchabadas;Asjchabad;Asgabate;Ašhabad;Aşkabat;Aschchabad;Ašgabata;Aschgabat;Ashabat;Ashxobod;Asjchabat;Ashxabad;Askhabad;Askabad;Ashqabad
+Sulaymaniyah|IQ||5z|2qs|3i7|6rx|Sulaimaniyya;Solimania;Silêmanî;Suleimania;Sulaymaniyya;As-Sulajmanijja;Souleimaniye;Suleimaniya;Süleymaniye;Slemani;Sulejmanija;Sulejmánie;Sulaimaniya;Suleimaniyah
+Essen|DE|North Rhine-Westphalia|8r|3yy|jh|4kr|Eseno;Esene;Assindia;Esenas;Asnithi;Esse;Ésén
+Asmara|ER||4|16m|305|4cn|Asmera;Asmaro;Aszmara;Asmar
+Astrakhan|RU||8o|3kr|3pg|44b|Astrachan;Astiraxan;Astrahan;Astraxon;Astracán;Astrachan';Astraĥano;Astrakán;Asztrahán;Astraxan;Astrachanum;Astrachanė;Astrahaņa;Astracã
+Assiut|EG||c|23i|2em|42v|Asyut;Assiout;Asyout
+Āsansol|IN||6t|1ts|6pm|3w3|Asanol
+Seeb|OM||72|1tr|4hn|3mt|Síb;Szíb;Sybas;As Sib;As-Sib;Al-Sīb
+Esna|EG||c|1y9|2if|3kk|Asnā;Isnā
+Aswān|EG||c|1ux|2je|2xi|Assuan;Asuán;Asuano;Assouan;Asuanas;Assuão;Asszuán;Eswan;Asvan;Es-Suan
+Safi|MA||d|2hq|-po|2ll|Asfi
+Asahikawa|JP||7q|3dl|azg|2kn|Asahikava
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Ashdod|IL||6n|2gb|2o9|1ri|Aszdod;Aschdod;Asdod;Asdode;Azotus;Ašdodas;Asot;Axdod;Asjdod
+Ashuganj City|BD||6a|1us|70t|1mg
+Atsiaman|GH||1|fu|-x|1kd|Achiaman;Ashaiman
+Kafr ash Shaykh|EG||c|2ef|2dy|1i2
+Ashaiman|GH||1|fu|-3|1h2|Ashiaman;Ašaimanas;Ašaimana
+Ash Shaţrah|IQ||5z|2f9|3k9|1em
+Chlef|DZ||3|2sh|3p|1dm|Ech Cheliff;Castellum Tingitanum;Šelifas;Szalif;asch-Schalif;al-Asnām;ash-Shalif;Hlef;El Asnam;aš-Šalif
+Ashkelon|IL||6n|2fz|2o1|1ad|Ashquelon;Ashqelon
+Şalālah|OM||72|1ba|469|19b|Salala;Salola;As Salala
+Ash Sharqāt|IQ||5z|2qo|3c3|18g
+As Samawah|IQ||5z|2f1|3ht|16h|Samawah;Samawa;Samava;Semave
+Astoria|US|New York|48|359|-5pd|15q
+Astanajapura|ID||6l|-iw|8dr|154|Astanadjapura
+As Sālimīyah|KW||6x|29h|3pk|150|Salimiyah;As-Sālimiyah
+Ashikaga|JP||7q|2sx|ard|147|Ašikaga;Asikaga-chhī
+Asaka|JP||7q|2rg|ars|137
+Āsela|ET||2|m3|30p|12r|Asella;Asalā;Assela
+Ashmūn|EG||c|2c6|2e2|yl
+As Sinbillāwayn|EG||c|2ds|2fe|yg|As Sunbullāwayn;As-Sinbillāwayn
+Ashoknagar Kalyangarh|IN||6t|1ri|6u8|uz
+Sohar|OM||72|1vn|4dj|u3|Aş Şuḩār;Şuḩār;Sahar
+As Salţ|JO||5t|2h0|2r9|tz|Salt;Es Salt;Al-Salt
+As Suwayq|OM||72|1u9|4fk|tr|Suwayq;As Suwaiq
+Assis|BR||4w|-1qy|-3w1|t5|Assiz
+Asan|KR||7h|2u6|9ss|r5|Ngà-sân-sṳ;Aszan
+Ash-Shaykh Zāyid|EG||c|2be|2e4|qn
+Asheville|US||48|2qw|-6db|qf
+As Salamīyah|SY||69|2p9|2ux|qd|Salamiyah;Salamiyeh;Salamias
+Ashiya|JP|Hyōgo|7q|2oh|afu|q3|Aşiya;Aŝija;Asiya-chhī
+Asnières-sur-Seine|FR||9k|3rw|6c|o3|Asinariae;Asnières sur Seine
+Essaouira|MA||d|2fj|-r5|nn|Mogador;Esauira;As-Shawirah;As-Sawíra;Medino de Esaŭiro;Essauira;Szavíra;Amegdul;Savira;Suvayr;Es Suira;Mogadar;Magador
+Azov|RU||9i|3mv|31h|mt|Asow;Asovia;Azow;Azak
+Ashoknagar|IN||6t|1wa|5zx|mq|Ashok Nagar
+Aş Şuwayrah|IQ||5z|2jh|3ge|lg
+Ash Shuhadā’|EG||c|2d0|2du|l5|Esh-Shuhada;Ash Shudadā’
+Asbest|RU||7z|4ed|4qq|kq|Asbiest
+Asti|IT||9o|3gq|mt|kn|Hasta Pompeia;Ast
+Asaba|NG||u|h8|ip|ke
+Ostrów Wielkopolski|PL||a5|3zi|1dh|k9|Ostrovo;Ostrovia;Ostrova Velkopolska;Didžiosios Lenkijos Ostruvas;Wjelgopolski Uostrůw;Ostrowo;Astrava;Ostrów;Ostrov
+Ash Shafā|SA||7e|1mj|340|k2
+Āsosa|ET||2|rz|2nx|jd
+Assen|NL||8m|438|i8|j4|Asse;Asningsėli;Asenas
+Aschaffenburg|DE||8r|3uu|pf|j2|Aschaffenbourg;Ašafenburga;A-Burg;Auscheffenburg
+Azul|AR||1l|-2u6|-4ma|i1|Asulis
+Asahi|JP|Chiba|7q|2r8|aup|hz
+As Safīrah|SY||69|2s8|2vt|hp|Al-Safira;Safīrah
+Ashford|GB|England|9b|3y3|2f|hg|Ašfordas
+Asaka|UZ||7m|34w|5ko|ha|Asake;Assake
+Asakusa|JP||7q|2r8|asc|h9|Aszakusza
+Asker|NO||9j|4m7|t0|h7
+Aş Şaff|EG||c|2a4|2ew|h3|Es Saff
+Aş Şāliḩīyah al Jadīdah|EG||c|2d3|2gq|gh|Aṣ-Ṣāliḥiyyah al-Jadīdah
+As-Suwayda|SY||69|2iv|2tl|gf|Sweida;As Suwaydah;Suwayda;Soueïda;Suvajda;Suweida;as-Suwaida;Siweyda;Süveyda;Suvaida
+Ash Shāmīyah|IQ||5z|2gs|3fw|g1|Ash Shāmīya
+As Sawānī|LY||1d|2iw|10b|fv
+Eschweiler|DE||8r|3x6|hf|fi|Aischwiele;Ešveilere;Ešveileris;Eşvayler;Ascvilare;Ešveilers
+Asadābād|IR|Hamadan Province|7o|2om|3po|fh
+Asenovgrad|BG||9v|38q|1x3|f8|Assenovgrad;Assenowgrad;Assenovgrade
+As Sāḩil|EG||c|236|2f2|f1|Es Sāhil;As-Sāḥil
+Assi Bou Nif|DZ||3|2r5|-1e|ex
+Ashta|IN|Madhya Pradesh|6t|1ry|5x4|es
+Aspern|AT||a2|3py|19s|e3
+Asakura|JP||7q|2kt|a34|dz
+Hrazdan|AM||80|34k|3gc|dr|Hrasdan;Aşağı Axta;Razdan
+Aspen Hill|US||48|30k|-5y3|dk
+Asadābād|AF||6o|2ov|5hn|dg|Esedabad;Assad-Abad
+Asunción Mita|GT||32|13t|-6x7|df
+Asamankese|GH||1|ga|-1u|ct
+As Sanţah|EG||c|2df|2eh|cq|Es Santa;As-Sanṭah
+Aş Şalāḩāt|EG||c|2e4|2fv|co|El-Ṣalâḥât;Aṣ-Ṣalāḥāt
+Āstāneh-ye Ashrafīyeh|IR||7o|2vi|3uq|ch
+Ashton-under-Lyne|GB||9b|44l|-5u|c5
+Ashburn|US|Virginia|48|30g|-5z9|c3|Eşbern
+Āsasa|ET||2|jq|30w|bx
+Ashburn|US|Illinois|2f|37z|-6rn|bw
+Azilal|MA||d|2gs|-i9|bp|Arilal;Asilal
+Ascoli Piceno|IT||9o|3b1|11p|bl
+As Saţwah|AE||6c|1y2|49j|be|Al Satwa
+Åsane|NO||9j|4nz|et|b5
+Asaita|ET||2|w5|374|ay|Assayta;Asayita;Asajta;Aisaita;Āysa’īta;Assayita;Asayta
+Āstārā|IR||7o|2yr|3rr|av
+Es Senia|DZ||3|2r1|-1q|av|As-Sāniyya
+Assin Foso|GH||1|fu|-4l|ac
+Ashta|IN|Maharashtra|6t|1b3|5qp|ab
+As Sadd|QA||7b|1y9|3z2|a1
+Assiniboine South|CA||5d|3ui|-7i7|9y
+Azogues|EC||33|-7m|-631|9p|Asogesas;Asuwi;Azoguez
+Asilah|MA||d|2qj|-gr|9g|Arcila;Colonia Augusti Iulia Constantia Zilil;Augusta Zilil;Assilah;Arzila;Assila;Asila;Arzīlah;Arcilas;Arsila
+As Sūkī|SD||r|110|2m4|9b|Es Suki
+Assis Chateaubriand|BR||4w|-1vu|-44o|99
+Asha|RU||7z|48s|4f1|96
+Zintan|LY||1d|2gp|y1|96|As-Sintan;Zentan
+Asakuchi|JP||7q|2nx|ab4|94
+Aston|GB|England|9b|41u|-58|8z
+Āsbe Teferī|ET||2|p9|35j|8k|Asbe Tefen;Āsebe Teferī;Asbe Taferi
+Asprópyrgos|GR||8p|2xq|1tj|8f|Asprópirgos
+Ashmont|US||48|39g|-5hf|8c
+East Palo Alto|US||3p|2w3|-9fa|89|Aslagang Palo Alto;Silangang Palo Alto;Palo Alto Timur
+As Sarw|EG||c|2es|2fx|85|As-Sirw
+Asse|BE||8t|3xf|bo|82
+Osipovichi|BY||9g|443|27j|7z|Asipovichy;Sipovichi;Ospipovichi
+Ashington|GB|England|9b|49a|-4c|7p
+As Sulţah al Jadīdah|QA||7b|1y6|3z3|7m|As Salaţah al Jadīdah
+Ashford|GB|England|9b|3yv|-1a|7m
+Āsandh|IN||6t|2a0|5wt|7j|Assandh
+Asino|RU||7r|4ec|6nc|7j|Assino;Asinas
+Aso|JP||7q|2ji|a44|7i
+Asparuhovo|BG||9v|3by|25h|7i|Asparukhovo
+Ash Shaykh Zuwayd|EG||c|2eq|2mr|7f|Ash Shaykh Zuwayyid
+Ashton in Makerfield|GB||9b|44k|-7d|7c
+Astorga|BR||4w|-1sj|-3zj|7a
+Asheboro|US||48|2r7|-65p|79
+Aserrí|CR||2i|re|-6hl|77|Aseri
+Aş Şanamayn|SY||69|2jv|2si|75|Şanamayn
+Aschersleben|DE||8r|3zs|vu|74|Ascherslebbe;Ascaria
+Assendelft|NL||8m|41r|d6|73
+Assemini|IT||9o|315|p0|71
+Āshkhāneh|IR||7o|2wc|4e4|6z
+Asagayakita|JP||7q|2r7|arw|6r
+As Sulayyil|SA||7e|1ku|3im|6p|As Sullayyil
+Ashfield|AU|New South Wales|8l|-2m5|bns|6l
+Asia|PH||71|qj|9gc|6j
+Assaré|BR||2w|-j3|-32r|6j
+Káto Polemídia|CY||73|2oe|2jn|6g|Kato Polemidya;Aşağı Binatlı;Aşağı Polemitya;Kato Polemidhia
+Asifābād|IN||6t|1hs|648|6f|Asafabad
+Ashland|US|California|3p|2wp|-9f7|63
+As Sibā‘īyah|EG||c|1xz|2is|60|Es Sibā‘īya;AS-SIBĀ‘IYYAH
+Ashburton|NZ||ak|-3dy|d91|60|Hakatere
+Āsika|IN||6t|1ih|6j6|5y|Aska
+Assab|ER||4|105|3aq|5x
+Assomada|CV||84|15y|-1ts|5x|Assumada
+Ashland|US|Kentucky|48|2yw|-6dk|5v
+Ashland|US|Oregon|3p|397|-9gv|5t
+Ashland|US|Ohio|48|35j|-6co|5n
+Aspe|ES||9d|2yj|-25|5m|Asp
+Assebroek|BE||8t|3y7|92|5i|Assebrouck
+Galatina|IT||9o|33l|1eh|5g|Aspedro
+As Samū‘|PS||6g|2f8|2pf|5e|As-Samu;Es Samu;Es Samū‘;al-Samu'
+Asagaya-minami|JP||7q|2r6|arw|5c
+Ashkez̄ar|IR||7o|2gw|46l|5b|Ashkaz̄ar;Ash Kuzar;Āshkakzār;Askīzār
+Ashibetsu|JP||7q|3cv|ayz|5b|Aşibetsu;Asibetu-chhī
+Ascención de Guarayos|BO||3n|-185|-4vj|58
+Asni|MA||d|2et|-m6|57
+Astrea|CO||27|qe|-5pi|54
+Ashtabula|US||48|38b|-68f|54
+El Astillero|ES||9d|3ck|-am|51|Astillero
+Ascot|GB||9b|3yt|-1v|4z
+Ashtarak|AM||80|33y|3f8|4w|Aschtarak;Aštarak;Aŝtarako;Aštarakas;Asztarak;Achtarak
+El Asintal|GT||32|14k|-72t|4u|El Acintal;Asintal
+Ashwaubenon|US||2f|3fk|-6sn|4s
+Oshmyany|BY||9g|476|202|4o|Ašmena;Ashmyany;Aschmjany;Ashmiany;Achmiany;Ašmjany;Ašmiany;Ašmjani;Asjmjany;Oshmyana
+Āsind|IN||6t|1zh|5qh|4m
+As Sallūm|EG||c|2fn|1xw|4l|Sollum;Al-Salum;El Sollum;Es Sollūm;Solum;Es Sallum;Sallum;Sellum
+Ashton|ZA||o|-2lz|1jq|4g
+Asāra|IN|Uttar Pradesh|6t|299|5yr|4g
+Assa|MA||d|27h|-q7|4f
+Asbury Park|US||48|33q|-5pl|4e
+Ashland|US|Massachusetts|48|39e|-5ii|4e
+Āsmār|AF||6o|2pb|5i8|4d|Āsmā
+Aşkale|TR|Erzurum|94|32w|352|4b
+Astraviec|BY||9g|47p|204|49|Astravyets;Astravas;Astraviets;Astravets;Astravjeca;Ostrovets
+Asso|JP||7q|2lm|ag6|48
+Ascot Vale|AU||8j|-2wy|b6k|48
+Astara|AZ||61|2yu|3rr|48
+Ascheberg|DE|North Rhine-Westphalia|8r|3zu|l6|48
+Ascensión|BO||3n|-17m|-4v8|40|Ascención;Asencion
+Ashiya|JP|Fukuoka|7q|2m3|a2x|3y
+Astolfo Dutra|BR||4w|-1n8|-3b2|3x
+Ascope|PE||3o|-lf|-63r|3w
+Assaí|BR||4w|-1sx|-3x8|3u
+Aßlar|DE||8r|3wj|ni|3u
+Ash Shāmīyah|KW||6x|29j|3p8|3u|Al Shamiya;Shamiya
+Ash Shallāl|SD||r|ws|2nk|3s|Esh Shallal
+Assenede|BE||8t|3yb|af|3r|Assenee
+Ashtead|GB||9b|3yj|-u|3r
+Ascensión|MX||2h|2ed|-8c0|3r
+Azángaro|PE||3o|-15f|-5f0|3p|Aswan Q'hari;Asankaru;Asángaro
+Asunción Nochixtlán|MX||41|1ci|-7i3|3p
+Asola|IN||6t|272|5ye|3p
+Jesenice|SI||9a|3kz|132|3p|Assling;Jesenitsa
+Asangaon|IN||6t|1i0|5nn|3n
+Ashti|IN|Maharashtra|6t|1hu|5vr|3n
+Ashokapuram|IN||6t|uu|5xr|3m
+Asperg|DE||8r|3rv|pe|3l
+Ashgrove|AU||8c|-249|bsz|3j
+Aš|CZ||9m|3vi|xv|3j
+Ashbourne|IE||8z|44n|-hs|3j|Cill Dhéagláin
+Assuéfri|CI||0|le|-8a|3j
+Askim|NO||9j|4li|v0|3h
+Shalateen|EG||c|1s9|2qv|3g|Asch-Schalatin;Šalatynas;Šalatina;Shalatin;Bir Szalatin
+Asfarvarīn|IR||7o|2rt|3u7|3g|Estarvarīn;Asfarwarīn;Esfarvarīn
+Ashby-de-la-Zouch|GB||9b|42j|-43|3g
+As Sars|TN||1e|2s8|p2|3d
+Ashkāsham|AF||6o|2tw|5ip|3d
+Astorga|ES||9d|39y|-gu|3d|Asturica Augusta
+Aspley|AU||8c|-241|bt2|3c
+Āshti|IN|Maharashtra|6t|1g9|5su|3c
+Ashmore|AU||8c|-25r|bu2|3b
+Ascención|MX||2h|2ee|-8by|3a
+As Saţwah Sharq|AE||6c|1y4|49l|38
+Alppiharju|FI||92|4n7|1xb|37|Åshöjden
+Astanababa|TM||5x|2xa|50x|37|Astanabava;Astana-Baba
+As Pontes de García Rodríguez|ES||9d|3cp|-lt|36
+Asyqata|KZ||5s|35l|59w|36|Asykata
+Ash Shajarah|JO||5t|2io|2ru|34|Esh Shajara
+Asahi|JP|Mie|7q|2pb|ajm|32
+Assié koumassi|CI||0|it|-bx|31
+Asālem|IR||7o|2wt|3rz|2z
+Astorga|PH||71|j7|9oi|2z
+Assinovskaya|RU||9i|3c4|3hi|2v|Assinovskaja;Ax-Borze;Äxkinçu-Borze;Exa-Borze;Assinskaya;Assinowskaja
+Roboré|BO||3n|-1ex|-4m0|2r|Ruburiy;asco tu dtpo
+Sernovodsk|RU|Chechnya|9i|3cb|3hg|2r|Aslambekovskoe;Aslanbek;Ena-Xişka;Mixaylovskaya;Aslambekovskoye;Mikhaylovskaya;Sernowodsk
+Asahi|JP|Fukui|7q|2rx|ai4|2q
+Astoria|US|Oregon|3p|3kb|-9jz|2o
+Aşyr Kakabaýew|TM||5x|39g|4j4|2o|Ashyr Kakabayev
+Asten|NL||8m|3ys|fz|2n|Aste
+As Sanad|TN||1e|2nq|pq|2n
+Aspen Woods|CA||2s|3xs|-8t7|2m
+Asahi|JP|Toyama|7q|2un|am4|2m
+Åstorp|SE||9w|4by|zy|2k
+Askarovo|RU||7z|445|4ik|2k|Aksarovo
+Assaie-kouassikro|CI||0|jd|-au|2k
+Ascencion|PE||3o|-zi|-5sa|2j
+Asingan|PH||71|18h|9b7|2h
+Asseln|DE||8r|3z5|l3|2h
+Aşağı Hisar|TR||94|2u6|2fd|2g
+As Sūsah|SY||69|2nx|35s|2g|As Sūsá
+Āshtīān|IR||7o|2nw|3ux|2g|Ashtīyan
+Asbury Lake|US||48|2bh|-6ba|2f
+Ash Shīḩānīyah|QA||7b|1yh|3ya|2c|Ash Shaḩānīyah;Ash Shayḩānīyah
+Ashbourne|GB||9b|43a|-4t|2c
+Ascurra|BR||4w|-22w|-3t6|2b|Ascuria
+Ashland|US|New Jersey|48|32q|-5sd|2b
+Assangbadji|CI||0|ht|-as|2a
+Ash Shuyūkh|PS||6g|2fp|2po|2a|Esh Shuyūkh
+Aspach|DE||8r|3s1|q4|29
+Assis Brasil|BR||4s|-ue|-5d9|29
+Ashland|US|Wisconsin|2f|3lf|-70g|28
+Āsāvleh|IR||7o|2q1|3mo|28
+Ås|NO||9j|4lq|tz|28
+Ashburton|AU||8j|-2x7|b70|28
+Assago|IT||9o|3i5|pd|27
+Ashaghi Guzdak|AZ||61|34g|3tz|27
+Serra Riccò|IT||9o|3fn|ou|27|A Sǽra;Serra Rocco
+Asikkala|FI||92|4q2|1yu|27
+Asturias|PH||71|td|9jo|26
+Asakusabashi|JP||7q|2r6|asa|25
+Assaoufoué|CI||0|ia|-bq|24
+Assouba|CI||0|f6|-92|23
+Ashland|US|Virginia|48|2ww|-5z8|23
+‘Aşīrah ash Shamālīyah|PS||6g|2hl|2pz|23|Aş Şīrā ash Shamālīyah;Asira ash Shamaliya
+Assunção do Piauí|BR||2w|-ga|-361|23
+Asău|RO||8u|3l0|21c|22
+Asudubi|IN||6t|20a|6zv|22
+Assinie-Mafia|CI||0|e9|-95|21
+Aspendale|AU||8j|-2xn|b72|21
+Asahigaoka|JP||7q|2r9|as0|21
+As|BE||8t|3xp|fi|21
+Malka|RU||9i|3do|3cc|20|Ashabovo
+Asunción Ixtaltepec|MX||41|19u|-7c2|20
+Āstāneh|IR||7o|2m4|3t3|20
+Ashwood|AU||8j|-2x7|b73|20
+Ashoro|JP||7q|3c4|b2q|20
+Val-des-Sources|CA||59|3j5|-5jt|1z|Asbestos
+Asbach|DE||8r|3wr|km|1z
+As Saffānīyah|SA||7e|25p|3rd|1y
+Asola|IT||9o|3hm|sx|1y|Ansula
+Hasselt|NL||8m|423|gy|1y|Asselt
+Askiz|RU|Khakasiya Republic|6u|43l|6zh|1x
+Ask|NO||9j|4mv|uo|1x
+Aspen|US||2p|30v|-88q|1x
+Aşgharābād|IR|Isfahan|7o|2ip|3z0|1x
+Āsan Khurd|IN||6t|29o|5xj|1x
+Askino|RU||7z|4bt|4d6|1x|Askin
+Aizkraukle|LV||9n|4d8|1y6|1v|Ascheraden;Ayzkraukle
+Asau|WS||aj|-11k|-dbk|1u
+Ashida|JP||7q|2sr|ao8|1u|Ashita
+Asvestochóri|GR||8p|34w|1rz|1u|Kireç Kjoj
+Aschheim|DE||8r|3pt|wk|1t|Oscham
+Pryvillia|UA||98|3s5|2ye|1t|Pryvillya;Asesorske;Pyata Rota;Pryvilne
+Assié Akpessé|CI||0|hz|-c2|1t
+Haapajärvi|FI||92|4x3|1yd|1t|Aspsjö
+Astrakhanka|KZ||5s|3z5|5dw|1t|Astrakhan
+Aspendale Gardens|AU||8j|-2xm|b74|1s
+Aşlān Dūz|IR||7o|31k|3np|1r|Aslandooz
+Asarganj|IN||6t|1xv|6ot|1r
+Asakawa|JP||7q|2v0|au1|1r|Asagawa
+Ashukino|RU||9i|4c1|2xf|1r|Ashchukino
+Āsmānābād|IR||7o|2m1|3l2|1r
+Assesse|BE||8t|3vx|dy|1r
+Assoumoukro|CI||0|hy|-c5|1q
+Aszód|HU||8v|3od|1i4|1q
+Åsa|SE||9w|4fb|xo|1p
+Ash Shuqayrī|SA||7e|1bl|3az|1p
+Assens|DK|South Denmark|8y|49j|ri|1p
+Asentamiento Humano Nicolas de Pierola|PE||3o|-x6|-5x3|1m
+Ascot|AU|Queensland|8c|-247|bt6|1m
+Astakós|GR||8p|2z2|1mk|1l|Astako
+Ash Vale|GB||9b|3ye|-20|1l
+Asuka|JP||7q|2ns|aha|1l
+Asubulak|KZ||5s|3tm|6ej|1k|Asūbulaq
+Ashburnham|US||48|3ag|-5jr|1k
+Ashchysay|KZ||5s|3cz|5be|1k
+Ashton-Sandy Spring|US||48|30r|-5xx|1k
+Askern|GB||9b|44y|-37|1k
+Ashmuji Khalsa|IN||6t|2lj|5sj|1k
+Asola|FI||92|4nl|1xl|1j
+Ascoli Satriano|IT||9o|36g|179|1j
+Aschau im Chiemgau|DE||8r|3oq|y8|1i|Aschau im Cheamgau
+Assafarge|PT||99|33k|-nf|1h
+Asbury|US||2f|3a3|-703|1h
+Asekeyevo|RU||7z|44u|42q|1h|Asekejevo
+‘As ‘Êla|DJ||i|uk|38y|1g
+Avsuyu|TR||94|2sj|2sv|1f|Aşyurdu
+Ascona|CH||a7|3k7|od|1f|Scona
+Asíni|GR||8p|2wa|1ri|1f|Assíni
+Assikoun|CI||0|hu|-as|1e|Assikun
+Askiz|RU|Khakasiya Republic|6u|43m|6z7|1e
+Astene|BE||8t|3xn|9x|1d
+Jasienica|PL|Silesia|a5|3ud|1gk|1d|Âsienica
+Għaxaq|MT||9e|2rl|14c|1d|Hal Ghaxiak;Ghashiak;Casal Asciak;Axiak;Ashiak
+‘Asgarān|IR||7o|2jb|3x9|1d
+Asham|IN||6t|2n5|5rb|1c
+Ash Shamli|SA||7e|22m|341|1c
+Espakeh|IR||7o|22k|4n5|1b|Ispakeh;Aspakeh;Esfakeh
+Asram|IR||7o|2tp|43w|1b|Asfam
+Ashland City|US||2f|2sr|-6pu|1a
+Assanou|CI||0|jf|-ec|1a
+Ashtonfield|AU||8l|-2j1|bp5|1a
+Asper|BE||8t|3xf|a5|19
+Asientos|MX||41|1ps|-7vl|19
+Askola|FI||92|4o5|1z4|19
+Assikoa|CI||0|gn|-al|19|Assikoi;Assikoua
+Ashdown|US||2f|2lj|-79h|19
+Aşağıerhacı|TR||94|32t|3eg|18|Aşağı Erhacı
+La Asunción|CR||2i|rq|-6ht|18|Asunción
+Asbach-Bäumenheim|DE||8r|3r8|u2|17
+Astghadzor|AM||80|33g|3i0|17|Astxadzor;Astkhadzor
+Aßling|DE||8r|3pb|xd|17
+Ash-Shaqīq|SA||7e|1d8|38r|17|Ash Shuqaiq
+Ash-Shūbak|JO||5t|2cs|2qs|17
+Astigarraga|ES||9d|3c8|-5f|17
+Aston Clinton|GB||9b|3zw|-21|16
+Ashville|US|Ohio|48|32c|-6ef|16|Asheville
+Asopós|GR||8p|2u1|1rh|16
+Assunção|BR||2w|-jn|-2u1|16
+Ásotthalom|HU||8v|3kc|1iy|15
+Asciano|IT|Tuscany|9o|3c3|w5|15|Ascianum;Ascianu
+Assonet|US||48|384|-5hf|15
+Askersund|SE||9w|4jk|15e|14
+Assentoft|DK||8y|4cs|s7|14
+Axente Sever|RO||8u|3k2|1va|14|Asszonyfalva
+Assoro|IT||9o|2wi|142|14|Asaru;Assero
+Arslanbey|TR||94|351|2bf|13|Aslanbey
+Jastarnia|PL||a5|47y|1fw|13|Jastarniô;Jastarņa;Gemeen Heisternest;Âstarniâ;Jastaania
+Eschede|DE||8r|42h|sg|13|Askithi
+Ashland|US|Missouri|2f|2zp|-74a|13
+Asolo|IT||9o|3j7|x4|13
+Ashburn|US|Georgia|48|2g3|-6gd|12
+Assindi|CI||0|kr|-9a|12
+Ashmont|AU||8l|-2pk|bd9|12
+Āshār|IR||7o|224|4rb|12|Ashur;Ashor
+Salton City|US||3p|2ki|-8y4|12|Áshįįh Bibąąh
+Assisi|IT||9o|3bn|z2|11|Asyż;Asís;Asizo;Assise;Assis;Asisium
+Aştileu|RO||8u|3mn|1q6|11|Aştilău
+Asiago|IT||9o|3jg|vz|11
+Ashcroft|AU||8l|-2m8|bn6|10
+Asseolié|CI||0|h7|-a4|z
+Assakra|CI|Lacs District|0|hs|-dl|z
+Āsara|IN|Maharashtra|6t|1jq|60p|y
+Assam Jawa|MY||6v|96|7td|y
+Assué Un|CI||0|e9|-8c|y
+Ascain|FR||9k|3cf|-4i|y|Azkaine
+Asseudji|CI||0|hl|-ay|y
+Ashhurst|NZ||ak|-33x|dk7|y|Whārite
+Asquith|AU||8l|-2ll|bns|x
+Asso|IT||9o|3je|pr|x
+Ashburton|GB||9b|3wc|-ag|x
+Ashotsk|AM||80|360|3du|x|Verin Ghukasyan;Kyzylkhach;Kyzylkoch
+Asahimachi|JP||7q|3ei|azg|x|Kembuchi
+Ássiros|GR||8p|35e|1rz|x
+Ashbury|AU||8l|-2m6|bns|x
+Ashitkovo|RU||9i|4a1|2z8|x|Asjitkovo
+Azay-le-Rideau|FR||9k|3na|1b|x|Asiacus Ridelli
+Askam in Furness|GB||9b|46j|-8w|x
+Ascot Park|AU||8b|-2p7|aow|w
+Asten|AT||a2|3py|142|w
+Assouakro|CI|Comoé District|0|jd|-b5|w
+Assé-Assasso|CI||0|ir|-bu|w
+Ashurst|GB||9b|3xh|-w|w
+Ascheberg|DE|Schleswig-Holstein|8r|46f|sr|w
+Asendorf|DE|Lower Saxony|8r|42l|p0|v
+Asnæs|DK||8y|4b1|vy|u
+Asīr|IR||7o|250|42b|u|Sīr
+Ascot Park|NZ||ak|-368|dhr|u
+Åsgårdstrand|NO||9j|4kv|t3|u|Aasgaardstrand
+Aschau am Inn|DE||8r|3pw|yb|t
+Ashby|US||48|3ak|-5ji|t
+Astheim|DE||8r|3uq|na|t
+Assié-Kokore|CI||0|iu|-c0|s
+La Ascención|MX||44|1vk|-7pj|s|La Ascensión;Ascensión;Ascencion
+Āspīch|IR||7o|23w|4tc|s|Āsfīj;Espīch
+Āsānnagar|BD||6a|1ty|6vc|s
+Assarékro|CI||0|i8|-ca|s
+Ash|GB|England|9b|3yg|3k|s
+Aspinwall|US||48|34h|-65y|s
+Ashland|US|Pennsylvania|48|35a|-5w3|r
+Ashley|US|Pennsylvania|48|36h|-5uu|r
+Astwood Bank|GB||9b|416|-5e|r
+Asturga|PH||71|v9|9h4|r|Astorga
+Askaniya-Nova|UA||98|3l1|2m3|r|Chapli;Askaniïa-Nova
+Ascot|AU|Western Australia|8k|-2gq|8y0|r
+Ashburton|ZA||o|-2af|2cm|r
+Asnières-sur-Oise|FR||9k|3sh|6k|q
+Assengou|CI|Vallée du Bandama District|0|lb|-fd|q
+Asunción Ocotlán|MX||41|1ak|-7go|q
+Ashland|US|Nebraska|2f|360|-7fp|q
+Eshkāvand|IR||7o|2ii|3zs|q|Ashkāvand
+Åseda|SE||9w|4et|16m|q
+Ashby|AU||8k|-2g5|8xo|p
+Salina|US|Utah|2p|308|-8mq|p|Áshįįh
+Ástros|GR||8p|2vw|1r4|p
+Azovs'ke|UA||98|3m0|2tw|p|Lunacharskoye;Lunachars'ke;Kutsa Berdyanka;Kuca Berdjanka;Asowske
+Astromerítis|CY||73|2pm|2js|p|Astromeriti;Astromeritia;Astromerit
+Aspatria|GB||9b|485|-99|p
+Asfordby|GB||9b|42k|-2o|o
+Aspindza|GE||7n|37h|3c5|o|Asp’indza
+Schiers|CH||a7|3mh|qx|o|Aschera
+Asproválta|GR||8p|355|1tv|o
+Ashington|GB|England|9b|3xh|-13|o
+Astrashytski Haradok|BY||9g|467|24y|o|Ostroshitskiy Gorodok;Ostroshitski Gorodok
+Assiniboia|CA||4q|3tv|-86e|o
+Aslanapa|TR||94|30y|2az|o|Arslanapa
+Asciano|IT|Tuscany|9o|3dj|t3|o
+‘Aşīrah al Qiblīyah|PS||6g|2he|2pu|n
+Aspen Ridge|CA||4q|40y|-87z|n
+Ashville|US|Alabama|2f|2m0|-6nl|n
+Ashburton|US||48|319|-5wz|m
+Aşağıışıklı|TR||94|30h|3cf|m|Aşağı İrşat;Aşağı Işıklı;Aşağıirşat
+As Sāwiyah|PS||6g|2h5|2py|m|Es Sāwiya;As Sawiya
+Assémanou|CI||0|iv|-ag|m
+Aston-on-Trent|GB||9b|42u|-3v|m
+Ashford|US|Alabama|2f|2em|-6ks|m
+Asarcık|TR||94|360|2so|m
+Asan-Maina Village|GU||aw|11f|b60|l|Assan
+Ash|GB|England|9b|433|-7d|l
+Assamstadt|DE||8r|3tb|qx|l|Assumstadt
+Aspremont|FR||9k|3dm|k4|l
+Assikasso|CI||0|jp|-8y|k
+Astaffort|FR||9k|3ee|1t|k
+Āsopās|IR||7o|2d4|41k|k|Āspās;Āsupās
+Aszaló|HU||8v|3py|1m9|k
+Aşağıokçular|TR||94|2si|2se|k
+Aeschi b. Spiez|CH||a7|3lm|le|k|Äschi;Aeschi bei Spiez
+Ásványráró|HU||8v|3ov|1cl|k
+Ashland|US|Alabama|2f|2kf|-6mg|k
+Assuako|CI||0|kl|-8c|k
+Aschach an der Donau|AT||a2|3qc|12y|j
+Ash Shaykh Sa‘d|PS||6g|2g6|2py|j
+Ascot|AU|Victoria|8j|-2ty|b4x|j
+Astatula|US||48|27r|-6b1|j
+Ássos|GR||8p|2xe|1re|j
+Assoum|CI||0|pj|-8l|j
+Aş Şūrrah|PS||6g|2ff|2p8|j
+Aspásia|BR||4w|-1k0|-3wx|j
+Ashwell|GB||9b|40k|-f|j
+Askisto|FI||92|4ng|1wu|i|Askis
+Aschau im Zillertal|AT||a2|3nb|x2|i
+Ashfield|US||48|3a5|-5m7|i
+Assuikro|CI||0|jp|-ez|i|Assouikro
+Aşchileu Dorna|RO||8u|3mi|1t8|i
+Assounvouè|CI||0|i0|-du|i
+Aspang Markt|AT||a2|3o3|18o|i
+Asson|FR||9k|3bu|-q|i
+Asendorf|DE|Lower Saxony|8r|441|rq|i
+Aserrío de Gariché|PA||4g|nl|-6dz|i
+Assuéti|CI||0|jy|-ax|i
+Asanovo|RU||7z|48h|4a5|i
+Asenjān|IR||7o|2xf|3kf|h|Asīnjān
+Aşağıküpkıran|TR||94|32a|3bm|h|Aşağı Küpkıran
+Assuétya|CI||0|l4|-8c|h
+Ash Shuhadā’|PS||6g|2i3|2pz|h|Esh Shuhadā
+Ashford|US|Wisconsin|2f|3d3|-6th|h
+Aspelt|LU||9c|3tk|ha|h|Uespelt
+Assé Ngatakro|CI||0|jm|-e5|h|Assé Nbatakro
+Åsele|SE||9w|4y8|1c7|h|Sjeltie
+Aschbach Markt|AT||a2|3pj|14z|h|Aschbach-Markt
+Ashil’ta|RU||9i|3at|3lt|h|Asjilta
+Asparetto|IT||9o|3hm|v2|h
+Aschach an der Steyr|AT||a2|3pd|13u|h
+Assika-Kpolessou|CI||0|j5|-c5|h
+Assakra|CI|Vallée du Bandama District|0|ld|-f6|h
+Assinzé|CI|Lacs District|0|i5|-ea|g
+Askyaran|AZ||61|32y|3m3|g|Askeran;Berdayagi;Askeranas;Asgeran;Askaran;Askerano
+Aspen Gardens|CA||2s|44k|-8re|g
+Aschau|AT||a2|3nb|x2|g
+Ascó|ES||9d|36e|1l|g
+Aspelare|BE||8t|3x8|b0|g|Aspelaere
+Assahara|CI||0|ij|-ci|g|Assara
+Ászár|HU||8v|3nz|1e0|g
+Assat|FR||9k|3c5|-u|g
+Asuaju de Sus|RO||8u|3o5|1se|g|Asuajul-de-Sus
+Araia|ES||9d|3b5|-6f|g|Araya;Asparrena;Asparren
+Aşağı Karaman|TR||94|2uj|2cx|g|Aşağıkaraman
+Ås|SE|Jämtland|9w|4vp|14h|g
+Aslockton|GB||9b|433|-2i|g|Aslocton
+Asmundtorp|SE||9w|4b8|zx|g|Assmundtorp
+Ashcroft|CA||5b|3ww|-9cw|g
+Jastrzębia|PL|Lesser Poland|a5|3uc|1m0|g|Âstrjenbiâ
+Astor|US||48|290|-6ah|g
+Ash Sha‘m|AE||6c|20b|4bs|g
+Assakro|CI||0|lx|-fg|f
+Aşağı Kocayatak|TR||94|2uj|2e0|f
+Ostryna|BY||9g|459|1w5|f|Ostrina;Astryna
+Ascha|DE||8r|3s4|z3|f
+Assent|BE||8t|3xj|dx|f
+Assika-Kayabo|CI||0|j3|-c8|f
+Ashaway|US||48|372|-5jf|f
+Askeriye|TR||94|2wv|2cc|f
+Assabonou|CI||0|k6|-e7|f
+Assas|FR||9k|3de|au|f|Assats
+Assenois|BE||8t|3uc|f6|f
+Ash Grove|US||2f|2vo|-77z|f|Ashgrove
+Assérac|FR||9k|3nr|-6n|f|Azereg
+Assenzé|CI|Vallée du Bandama District|0|ld|-ff|f|Assézé
+Ashgill|GB||9b|4at|-ax|f
+Aseri|EE||9x|4l5|22n|e|Asseren;Asserien;Asari;Azeri;Asserin
+Ashford|IE||8z|439|-gz|e|Ath na Fuinseoige
+Assuamé|CI||0|jx|-8x|e|Asuamé
+Aşağı Kümbet|TR||94|33j|3bu|e
+Assens|DK|North Denmark|8y|4dg|ry|e
+Ashton Keynes|GB||9b|3zh|-5d|e
+Wendover|US||2p|356|-8ss|e|Áshįįh Bił Hahazteel
+Aşağıyakacık|TR||94|2xt|275|e
+Assomlan|CI||0|eg|-96|e|Assomlam
+Asopía|GR||8p|2ye|1ta|e
+Aston|GB|England|9b|3zp|-47|e
+Asteasu|ES||9d|3bz|-5u|e
+Ashigakubo|JP||7q|2ry|aqi|e
+Ashley|US|Ohio|48|349|-6eg|e
+Asigliano Vercellese|IT||9o|3hq|nd|e
+Chavān-e Soflá|IR||7o|2w5|3k9|e|Aşağı Çavan
+Assembo|CI||0|jx|-dw|e
+Ashaur|IN||6t|2e7|5ur|d
+Ashnak|AM||80|341|3e0|d
+Āsārā|IR||7o|2s4|3y7|d
+Åsbro|SE||9w|4jw|15t|d
+Aspiran|FR||9k|3d1|9l|d
+Asvieja|BY||9g|4bl|263|d|Asveja;Oświeja
+Aşağı Küngüt|AZ||61|362|3n9|d
+Assouakro|CI|Vallée du Bandama District|0|kn|-e6|d
+Ashfield|AU|Western Australia|8k|-2go|8y2|d
+Asotin|US||3p|3kq|-915|d|Asotan
+Āshān|IR||7o|2w6|3km|d|Oshān;Āsān
+Ashanagro Koto|PK||6q|2mr|5kp|d
+Assikro|CI||0|ih|-at|d
+Asímion|GR||8p|2pc|1xp|d
+Ashland|US|Illinois|2f|32t|-6y1|d
+Aşağı|TR||94|339|3da|c
+Ashland|US|New Hampshire|48|3de|-5iz|c
+Asprókhoma|GR||8p|2ux|1pb|c|Asprochoma
+Assabli-Komenankro|CI||0|k9|-bp|c
+Assiasso|CI||0|lz|-90|c
+Assuamakro|CI||0|jz|-8f|c
+Astrakhanka|UA||98|3mf|2r1|c
+Astapa|MX||41|1de|-75x|c
+Assinzé|CI|Lagunes District|0|g2|-dc|c
+Asbestovskiy|RU||7z|4gg|4qk|c
+Ascea|IT||9o|33i|167|c
+Asnyezhytsy|BY||9g|40z|20l|c|Osneĵicy
+Astudillo|ES||9d|397|-bx|c
+Shokan|US||48|38l|-5q5|c|Shokaken;Ashokjan
+Aspach-le-Haut|FR||9k|3oq|jt|c|Oberaspach
+Ashill|GB||9b|424|27|c
+Aschères-le-Marché|FR||9k|3pn|5l|c
+Assoumou-Kouassikro|CI||0|l3|-aj|c
+Assengoukpri|CI||0|lk|-dl|c|Assengou-Pri;Asséngoukor
+Aspet|FR||9k|3bh|28|c
+Asfestān|IR||7o|2xd|3o8|b
+Ashford|AU|South Australia|8b|-2p3|aox|b
+Assékouamékro|CI||0|hr|-ed|b
+Aşağı Karafakılı|TR||94|2u6|2tk|b|Aşağıkarafakılı
+Askeaton|IE||8z|424|-oy|b|Eas Géitine
+Aspach-le-Bas|FR||9k|3oo|jv|b
+Astypálaia|GR||8p|2tj|217|b|Astypalaea;Astipálaia
+Eljas|ES||9d|33q|-j1|b|As Ellas;Elijas
+Aşağı Beğdeş|TR||94|2u9|304|b|Ashagy-Tel’fidan;Aşağı Telfidan
+Assumption|US||2f|31s|-6vd|b
+Assimpao|KM||ac|-xz|3f4|b
+Ashaghi Aghjakand|AZ||61|34a|3lc|b|Shaumyanovsk;Chahoumian;Aşağı Ağcakend;Shahoumian
+Behram|TR||94|31p|215|b|Assos
+Ås|SE|Västernorrland|9w|4w1|1a2|b
+Astoria|US|Illinois|2f|33r|-6z0|b
+Azille|FR||9k|3c8|7e|b|Asilha;Azilhan lo Comtal
+Asherton|US||2f|270|-7p4|b
+Asselfingen|DE||8r|3qt|sb|b
+Olgun|TR||94|2xt|32p|b|Aşağıcayan
+Jastrzębia Góra|PL||a5|48b|1ev|b|Âstrenbiâ Gora
+Āshnestān|IR||7o|2st|3ve|b|Ashnistān
+Ash Flat|US||2f|2sm|-72h|b|Ashflat
+Parálio Ástros|GR||8p|2vy|1r9|b|Parálion Ástros;Ástron;Parálion Ástrous
+Assafou|CI||0|ip|-e1|b
+Asnières-sur-Nouère|FR||9k|3iz|5|b
+Ashton|US|Idaho|28|3ef|-8ll|b
+Asparn an der Zaya|AT||a2|3qy|19u|a
+Aşağıdere|TR||94|33m|3bu|a
+Asséyokro|CI||0|lb|-fy|a|Assayakro
+Aspach|FR||9k|3oc|k3|a
+Zasip|SI||9a|3kv|137|a|Asp
+Askós|GR||8p|357|1sz|a
+Asmalı|TR||94|2u4|2qp|a|Asmelî
+Jastrzębia|PL|Mazovia|a5|3z2|1n0|a|Âstrjenbiâ
+Askainen|FI||92|4o9|1or|a|Villnäs
+Ashe|RU||9i|3e4|314|a|Asje
+Aspendos|TR||94|2um|2el|a
+‘Aseret|IL||6n|2gf|2oj|a|Aseret
+Aslıhantepeciği|TR||94|31y|25u|a
+Aşgharābād|IR|Tehran|7o|2qm|3xw|a
+Assmannshausen|DE||8r|3uv|lv|a
+Ashagy Aylis|AZ||61|305|3jr|a|Ashaga-Aylis
+Aztatepec|MX||41|1ca|-7ns|a|Astotepec;Astatepec
+Ashley|US|Indiana|38|37d|-6kb|a
+Aşağıdumanlı|TR||94|320|3ce|a|Aşağı Dumanlı
+Asfeld|FR||9k|3tf|bg|a
+Aşağışamlı|TR||94|2xb|28n|a
+Asunción Atoyaquillo|MX||41|1ao|-7jm|a
+Aspisheim|DE||8r|3um|m6|a
+Ascheffel|DE||8r|477|qy|a
+Aşağıköşkköy|TR||94|31i|3as|a|Aşağı Köşkköy
+Assieu|FR||9k|3i4|di|a
+Ashdot Ya‘aqov Iẖud|IL||6n|2iq|2qu|a|Ashdot Ya'akov Ihud
+Azereix|FR||9k|3c1|-1|9|Asereish
+Asnières-la-Giraud|FR||9k|3jh|-1g|9
+Asunción|PE||3o|-kc|-624|9
+Aslonnes|FR||9k|3kw|x|9
+Asunción Cuyotepeji|MX||41|1dt|-7jc|9
+Assékro|CI|Vallée du Bandama District|0|lb|-f0|9|Asékro
+Ashton|US|Illinois|2f|38b|-6vu|9
+Villa-Campolasta|IT||9o|3ln|vl|9|Astfeld;Campolasta
+Aşçıbekirli|TR||94|2wj|2p5|9
+‘Askarī|IR||7o|246|42j|9|Askari
+Apongo|PE||3o|-12x|-5pd|9|Aspongo
+Assadué|CI||0|m6|-b7|9
+Asia|PE||3o|-zi|-5wo|9
+Assens|CH||a7|3lh|ie|9
+Aşkale|TR|Ağrı|94|32k|3bj|9
+Aspen Park|US||2p|31u|-84h|9
+Ashcott|GB||9b|3y1|-7t|9
+Aspermont|US||2f|2k1|-7qf|9
+Assé-le-Boisne|FR||9k|3q8|-1|9|Asse-la-Boisne
+Asan|GU||aw|11f|b60|9
+Assouman Diékro|CI||0|ls|-e0|9
+Assokro|CI||0|k5|-c3|9
+Áspro|GR||8p|356|1pq|9
+Assadeinkro|CI||0|j1|-c4|8
+Aspach|AT||a2|3pv|10y|8
+‘Aslah|PS||6g|2hd|2pc|8
+Vazashen|AM||80|35w|3hs|8|Vazaşen;Laligüh;Akhgegh;Aghgyol;Ashkhigegh;Ashughi gyugh;Lal;Lala;Nor Lala;Lalakend;Lalakyandi;Lali;Nor Lali;Lalikend;Laligyukh;Laligekh;Laligokh
+Ascoux|FR||9k|3pp|69|8
+Assuétifi|CI||0|kk|-8f|8
+Assiéblénou|CI||0|lc|-eg|8
+Asnières-lès-Dijon|FR||9k|3nm|dz|8|Asinariae ad Divionem
+Ashland|US|Montana|2p|3in|-877|8
+Assais-les-Jumeaux|FR||9k|3ly|-5|8
+Ashland|US|Kansas|2f|2vb|-7p5|8
+Assentamento Aracati|BR||2w|-er|-2r2|8|Agrovila do Projeto de Assentamento Zabelê;Agrovila do PA Zabelê
+Asunción Cacalotepec|MX||41|1bc|-7ek|8
+Acton Trussell|GB||9b|42k|-5u|8|Aston Trussell
+L'Asile|HT||4j|1f2|-5nx|8|Lazil;Asile
+Áspros|GR||8p|35m|1qv|8
+Ashmore|US||2f|31t|-6si|8
+Ashfield|AU|Queensland|8c|-1x3|brc|8
+Aşağı Oylum|TR||94|2ue|2z2|8
+Asenray|NL||8m|3y7|gt|8|Azenray;Asenraij
+Ashland Heights|US||2p|3el|-7yh|8
+Assoko Yao|CI||0|jo|-dv|8
+Ashton under Hill|GB||9b|40k|-5l|8
+Ashley|GB||9b|413|1c|7
+Åsensbruk|SE||9w|4jc|yi|7
+Åsljunga|SE||9w|4cg|115|7
+Ashkum|US||2f|35k|-6sc|7
+Sesta Godano|IT||9o|3f1|qw|7|A Sesta
+Ashley|US|North Dakota|2f|3jv|-7o1|7
+Astacinga|MX||41|1fl|-7hq|7
+Arslanlı|TR|Adana|94|2vo|2rd|7|Aslanlı
+Aspres-sur-Buëch|FR||9k|3fo|fz|7|Aspres-lès-Veynes
+Assé Blédoukro|CI||0|kj|-du|7|Assé-Blé-Ndoukro
+Aşağıoba|TR||94|2v3|2d4|7
+Ashland|US|Maine|48|3lj|-5a1|7
+Assenzé|CI|Vallée du Bandama District|0|lc|-em|7|Asenzé
+Assempanayé|CI||0|ke|-95|7
+Aşağıçamurlu|TR||94|32w|3fe|7|Aşağı Çamurlu
+Aşağıdereköy|TR||94|2w7|3bs|7
+Ășchileu Mare|RO||8u|3mi|1t9|7|Aschileul-Mare
+Ashley Green|GB||9b|3zq|-1n|7
+Assengou|CI|Lacs District|0|k1|-dz|7
+Aşağıaratan|TR||94|32n|3fr|7|Aşağı Aratan
+Assekro|CI|Lacs District|0|kh|-cs|7|Asékro
+Astei|UA||98|3pt|1qr|7|Astey
+Assa Hougoud|DJ||i|vn|3az|7
+Ashover|GB||9b|43p|-44|7
+Asharoken|US||48|35p|-5ns|7
+Assankro|CI||0|kd|-dy|6|Assenkro
+Aşağımülk|TR||94|2w0|2w4|6
+Ashford|AU|New South Wales|8l|-29g|bnp|6
+Aşağı Azıklı|TR||94|2vh|350|6
+Asprokklisiá|GR||8p|32p|1o6|6
+Târgușor|RO|Bihor County|8u|3nm|1pl|6|Asszonyvására;Tîrguşor
+Assamoikro|CI||0|ja|-dv|6
+Asperhofen|AT||a2|3q1|189|6
+Hatunlu|TR||94|2v6|357|6|Ashagy-Makbel’;Aşağı Makbel
+Åsarp|SE||9w|4h6|11p|6
+Asadābād|IR|Chaharmahal and Bakhtiari|7o|2hy|3wk|6
+Aşağıbeylerbeyi|TR||94|2ty|2w8|6
+Santa María Asunción|MX|Oaxaca|41|1bw|-7k8|6|Asunción
+Asunción Etla|MX||41|1bt|-7gw|6
+Asnelles|FR||9k|3t2|-1m|6
+Salt Creek|US||2p|2y8|-82j|6|Áshįįh Bikooh
+Assier|FR||9k|3g4|58|6
+Astillé|FR||9k|3p8|-2d|6
+Ashalim|IL||6n|2e0|2oe|6|Ašalim;Aszalim
+Assuankokro|CI||0|ei|-94|6
+Askham Bryan|GB||9b|45t|-38|6
+Asunción Huitiupan|MX||41|1bv|-755|6
+Ascott under Wychwood|GB||9b|403|-4c|6
+Asnans-Beauvoisin|FR||9k|3mf|f2|6
+Astrup|DK||8y|4fo|s2|6
+Ashley|US|Michigan|2q|3bz|-6in|6
+Ashdon|GB||9b|40l|v|6
+Aspenstedt|DE||8r|40a|uf|6
+Assouakro|CI|Lacs District|0|i3|-ea|6
+Aşağıdandırı|TR||94|308|2ck|6|Aşağıtandır
+Aste|EE||9x|4i2|1qe|5
+Ashdot Ya‘aqov Me’uẖad|IL||6n|2iq|2qu|5|Ashdot Yaakov Meuhad
+Ascutney|US||48|3cl|-5l5|5
+Ashleworth|GB||9b|409|-6c|5
+Asunción Tlacolulita|MX||41|19a|-7dx|5
+Ashland|US|Mississippi|2f|2or|-6vq|5
+Åshammar|SE||9w|4og|1a0|5
+‘Āsheqlū|IR||7o|30b|3lq|5|Āsheqlī
+Asmadere|TR||94|2xb|36x|5
+Asfal|IR||7o|27s|432|5|Esfal
+Aşağıdoruklu|TR||94|2ui|33h|5|Aşağı Doruklı
+Aspio|IT||9o|3cx|11i|5
+Asasp-Arros|FR||9k|3bs|-1q|5|Asasp e Arròs
+Asques|FR||9k|3gv|-15|5
+Asunción Lachixila|MX||41|1cs|-7f6|5
+Asunción Acatlán|MX||41|1ay|-7ej|5|San Juan Acatlancito
+Asté|FR||9k|3bk|h|5
+Ashley|US|Illinois|2f|2yh|-6vr|5
+Ashbury|GB||9b|3z8|-4i|5
+Askeby|SE||9w|4i9|181|5

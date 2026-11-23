@@ -1,0 +1,18 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Bauru|BR||4w|-1pz|-3sa|315|Yvauru
+Saint-Quentin-en-Yvelines|FR||9k|3rh|5m|14q
+Yverdon-les-Bains|CH||a7|3ly|ig|8e|Iverdonas
+Yvetot|FR||9k|3tu|24|34
+Yvoir|BE||8t|3vt|dk|2a|Uwar
+Yvonand|CH||a7|3m0|iq|o
+Yvrac|FR||9k|3go|-1a|o
+Yvré-le-Pôlin|FR||9k|3ou|f|h
+Yves-Gomezée|BE||8t|3vk|ch|h
+Yves|FR||9k|3ju|-2x|b
+Yvignac-la-Tour|FR||9k|3qb|-62|b|Ivinieg
+Yvorne|CH||a7|3kp|jc|9
+Yvoire|FR||9k|3kt|hl|7|Ivouère;Aquaria
+Yvias|FR||9k|3rb|-8h|7|Eviaz
+Yvecrique|FR||9k|3u1|29|7
+Yvoy-le-Marron|FR||9k|3ob|55|6

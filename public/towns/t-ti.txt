@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Tianjin|CN||7i|30q|91i|2yzo|Tiencin;Tiencsin;Thiên Tân;Tchien-ťin;Tjanĝino;Tientsin;Tiandzinas;Thiên-tsîn;Tjaņdziņa;Tyantszin;Tjandžin;Tyan'czin';T’ien-ching;T’ien-chin
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Ürümqi|CN||7t|3do|6rc|va4|Urumchi;Urumtschi;Urumĉio;Urumczi;Urumči;Ürümcsi;Urumčis;Ürümchi-sṳ;Öremçe;Dihua;Oʻrumchi;Urunchi;Dikhua;Wurumch’ih;Urumptsi;Urumtsi;Urumutsi;Ti-hua
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Tijuana|MX||58|2ia|-910|eu1|Tichuana;Tihuana;Tijuano;Tixuana;Tia Juana
+Jieyang|CN||7i|1te|8z9|enm|Ťie-jang;Yết Dương;Giék-iòng;Kiat-iông-chhī;Kiehyang
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Jinzhou|CN|Liaoning|7i|367|9ci|brg|Jintsjou;Ťin-čou;Ĝjinĝou;Dzindžou;Cẩm Châu;Gīng-ciŭ;Kím-chiu-chhī
+Jinhua|CN|Zhejiang|7i|28v|98c|bao|Ťin-chua;Kîm-fà-sṳ;Kim Hoa;Kim-hoâ-chhī;Gĭng-huà
+Tirunelveli|IN||6t|o9|5zs|b2u|Tirunelweli
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Changzhi|CN|Shanxi|7i|2si|8q7|9dh|Čchang-č;Ĉanĝi;Čangdži;Trường Trị;Diòng-dê;Tiông-tī-chhī;Chang-chi;Ch’ang-chih
+Tianshui|CN||7i|2o2|85q|9cw
+Jiaxing|CN||7i|2df|9bf|93s|Ťia-sing;Dziasingas;Gia Hưng;Ka-heng-chhī;Gă-hĭng
+Zhongwei|CN||7i|2w7|847|92a|Dṳ̆ng-ôi;Čung-wej;Trung Vệ;Tiong-oē-chhī;Chung-wei
+Jiujiang|CN||7i|2ai|8y8|8zf|Ciuciang;Ťiou-ťiang;Cửu Giang;Chiu-chiang;Kiukiang
+Jingzhou|CN||7i|2cb|8nn|84b|Jingtsjou;Ťing-čou;Kinh Châu;Gĭng-ciŭ;Keng-chiu-chhī
+Tbilisi|GE||7n|37t|3gj|83j|Tiflis;Tbilissi;Tbiliso;Thbilisi;Tbilisy;Tibîlîsî;Tiblíssi;Triphelis;Tbiliszi;Tiblisi;Tbilsi;Tblisi;Tpilisi
+Tangier|MA||d|2rd|-g4|7zj|Tánger;Tingis;Tanĝero;Tangeri;Tanca;Tanjer
+Tiruchirappalli|IN||6t|u2|62m|7w1|Trichinopoly;Tiruchi;Trichy;Tiruchchirappalli;Tiruchirapalli;Tiruĉirapali;Tiruččiráppalli;Tiruccsirápalli;Tiruchchināppalli;Trinchinopoly;Trichinopoli
+Chiba|JP||7q|2qw|at8|7k6|Čiba;Tiba
+Tiruppur|IN||6t|uw|5yv|7fk|Tirupur
+Jiaozuo|CN||7i|2pw|8qk|6oe|Ťiao-cuo;Ĝjaoĝuo;Tiêu Tác;Ciĕu-cáuk;Chiau-chok-chhī
+Thiruvananthapuram|IN||6t|nl|5xr|62z|Trivandrum;City of Lord Anantha;Tiruvanantapuram;Tiruvanantapuramas;Tiruvananantapuram
+Tyumen|RU||7z|4er|521|5xg|Tjumen;Tioumen;Tiumén;Tjumen';Tjoemen;Tümen;Tyoumen;Tjumenj;Tjumeno;Tumenum;Tiumenė;Tjumeņa
+Tunis|TN||1e|2ua|s9|5ck|Tunez;Tunizo;Tunes;Túinis;Túnixi;Tinis;Tuniz;Tunus;Tiwnis
+Jingmen|CN||7i|2e7|8no|4vu|Gĭng-muòng;Ťing-men;Kinh Môn;Keng-bûn-chhī;Ching-men;King mönn;Kingmen
+Jiamusi|CN||7i|3m0|a1z|48n|Ťia-mu-s’;Gjamusi;Dziamusi;Giai Mộc Tư;Gă-mŭk-sṳ̆;Ka-bo̍k-su-chhī
+Sha Tin|HK||6i|1q6|8t6|3tk|Shatin
+Tieling|CN||7i|39h|9k0|3js|T’ieh-ling;T’e-ling
+Jiuquan|CN||7i|32e|7lo|3az|Tửu Tuyền;Ciū-ciòng;Ťiou-čchüan;Chiú-choân-chhī
+Barra da Tijuca|BR||4w|-1rw|-3ch|392|Kiki
+Tirana|AL||9y|36t|1j2|389|Tiranë;Tirano;Tiran;Tiorána;Theranda;Tiran-a;Tėrana
+Jixi|CN||7i|3ht|a3s|346|Dzisi;Kê Tây;Ťi-si;Giĕ-să̤;Ke-se-chhī;Kisi
+Keelung|TW||7l|1xt|9e6|2sp|Chilung;Cơ Long;Kî-lùng-sṳ;Giĕ-lè̤ng;Ťi-lung;Ke-lâng-chhī;Chi-lung

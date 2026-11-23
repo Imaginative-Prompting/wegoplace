@@ -1,0 +1,440 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Addis Ababa|ET||2|p2|2zn|ts8|Ādīs Ābeba;Adis-Abebo;Addis Abeba;Addis-Abeba;Addisz-Abeba;Neanthopolis;Adisabeba;Adis Ababa;Tungga;Addisaaba;Addis Abbaba
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Adana|TR||94|2ur|2q5|e0o|Adanë;Edene;Adano;Antioch on Sarus
+Adelaide|AU||8b|-2p1|ap0|bc4|Adelàida;Adelajda;Adelajdo;Edelaid;Adelaidis;Adalet
+Dammam|SA||7e|21f|3v6|9nx|Damamas;Ad-Damman;Damam;Damman
+Gustavo Adolfo Madero|MX||41|1i5|-7nb|95e|Delegación Gustavo A. Madero;Gustavo A. Madero
+Aden|YE||5r|zi|3h4|8bx|Adem;Cadan;Adan;Áidin
+Odesa|UA||98|3l5|2de|7sp|Odessa;Odessus;Udessa;Odessza;Ades;Odess;Khadjibey
+Adachi|JP||7q|2rc|asd|5d2
+Ajmer|IN||6t|21h|5rc|46n|Adźmer;Adžmeras;Aĝmer;Acmer;Ádzsmír;Adžmera
+Ajman|AE||6c|1yk|4a4|3s4|Ujman;Adschman;Adżman;Acman;Ajmã
+Ciudad López Mateos|MX||41|1ia|-7nn|3rw|Adolfo López Mateos
+Nazrēt|ET||2|nr|313|3ix|Adama;Hadama;Nazareth
+Ado-Ekiti|NG||u|l6|ei|3cu
+Doha|QA||7b|1y9|3z5|2nt|Doho;Ad-Dawḩah;Ad-Dauha;Dauhá;Dawḥa;Duoha;Dewhe;Doʻha;Dooxa;Doh;Ad Dawḩah;Ad Dawḩa;Ad Dowhah
+Al Diwaniyah|IQ||5z|2gv|3gt|2gk|Diwaniya;Ad Diwaniyah;Díváníja;Diwaniyya;Ed-Divaniye;Dîwaniye;ad-Dīwānīyah
+Adıyaman|TR||94|2ww|2yc|28t|Semsûr;Adijamanas;Adiaman;Adityman
+Adapazarı|TR||94|35a|2cg|27o|Sakarya;Tarsia;Ada Bazar
+El Daein|SD||r|vu|20l|21j|Ed Daein;Ad Du'ayn;Ad-Du’ain;Ad Duajn;Ad-Duajn
+Cidade Ademar|BR||4w|-1tr|-3lm|1x8
+Ad-Damazin|SD||r|wr|2ng|1fp|Damazin;Ed Damazin;Ad Damāzīn
+Adoni|IN||6t|17f|5yn|1fa
+Edirne|TR||94|37s|21s|1e0|Adrianòpolis;Drinápoly;Adrianopoli;Hadrianopolis;Adrianopol;Andrianoplin;Jedrene;Edirnä;Drinopolje;Andrinòple;Odrín;Adrianopoja;Adrianoupolis;Adrianopel;Ederné;Adrinople;Adrianople
+Tando Adam|PK||6q|1zl|5aq|1cf
+Admiralteisky|RU||9i|4mg|2c6|17v
+Aḍ-Ḍawāḥy|EG||c|2es|2ho|15a|Al Dawahi
+Adiwerna|ID||6l|-ja|8f5|11a|Adiwerno
+Ajdabiya|LY||1d|2dg|1k7|10m|Adschdabiya;Adżdabija;Äcdabiya;Läcdabiän;Adžedábíja;Aĝdabija;Adzsdábija;Corniclanum;Ecdebiye;Adjdabía;Adjadabia;Agedabia
+‘Ajlūn|JO||5t|2ht|2rb|yw|Adjlun;Ajloun
+Ādīgrat|ET||2|13o|31m|xu
+Ādilābād|IN||6t|1in|626|wx|Edlābād
+Kot Addu|PK||6q|2cn|5h5|sy|Kot-Adu
+Ad-Damir|SD||r|1cw|2md|sv|Ed Damer;Al-Damir;Ad Damir;Ed Damir
+Dar‘ā|SY||69|2im|2sa|r8|Daraa;Deraa;Adratum;Dara;Dera;Der‘ā
+Ad Douiem|SD||r|12w|2hr|o7|Ed Dueim;Al Dewaym;Dewaim;Ad Duwaym;Ad Duwēm
+Ad Dawādimī|SA||7e|1w3|3fb|o5|Al-Dawādimi;Ad Duwādamī;Ad Dawādamī
+Adwa|ET||2|13c|302|ns|Adua;Adoua;Adowa;Adva;Aduwā
+Adzopé|CI||0|gz|-aq|l5
+Adelaide Hills|AU||8b|-2oz|apb|k3
+Adler|RU||9i|3cn|32w|ji
+Ad Dilinjāt|EG||c|2dn|2cu|j5|Ed Dilingāt
+Adrar|DZ||3|25f|-t|iz
+Ad Dir‘īyah|SA||7e|1wr|3la|h4
+Ajaccio|FR||9k|38g|oa|f4|Aiacciu;Ajacciu;Ajacio;Ažaksjo;Ajačas;Adiacium
+Az̧ Z̧a‘āyin|QA||7b|1z2|3z0|f3|Az̧ Z̧a‘āyim;Az̧ Z̧a‘ā’in;Aḑ Ḑa‘āyin
+Adilcevaz|TR||94|2zs|3ap|eo
+Ad Darwa|MA||d|2kp|-ky|eh|Deroua;Derroua
+Az̧ Z̧ulayl|JO||5t|2h8|2ss|e5|Aḑ Ḑulayl
+Adenta|GH||1|fv|-f|e3
+Adeje|ES||83|264|-1ah|c0|Adechė
+Ādēt|ET||2|vb|2w4|c0
+Diglipur|IN||6t|10v|76c|bx|Adakamaranahalli
+Aventura|US||48|204|-66m|ag|Adventura
+Addison|US|Illinois|2f|38h|-6sf|ac
+Adjumani|UG||q|9e|2gb|ab|Ajumani
+Ādīs Zemen|ET||2|xo|2wy|a3|Addis Zemen;Addis Zaman
+Adamantina|BR||4w|-1o9|-3xv|9w
+Ad Dilam|SA||7e|1un|3n0|9u
+Adrano|IT||9o|2wm|157|9k
+Adelanto|US||3p|2o2|-925|98
+Adirampattinam|IN||6t|sq|64i|8n|Adirāmpatnam;Attirampattinam;Atirāmpattinam
+Mosonmagyaróvár|HU||8v|3oz|1bz|8g|Ad Flexum;Mošonmađarovar;Wieselburg-Ungarisch Altenburg
+Adūr|IN||6t|pg|5x5|89
+Addanki|IN||6t|17x|665|7x
+Adrogué|AR||1l|-2oo|-4i6|7v|Adroge
+Az̧ Z̧āhirīyah|PS||6g|2f9|2p5|7o|Aḑ Ḑāhirīyah
+Adichānallūr|IN||6t|oo|5x4|7k|Adichanalloor
+Abbeville|FR||9k|3v7|54|7d|Abbatis Villa;Advile;Abvilis;Abeville
+Ad Dujayl|IQ||5z|2m1|3ev|7c|Dudschail;Doujaïl;Dujail;Dudžail;Dujayl
+Ad-Dindar|SD||r|111|2mp|74
+Adampur|IN|Haryana|6t|29c|5tn|73
+Adiaké|CI||0|ep|-96|6v
+Adra|ES||9d|2u3|-8e|6s
+Ajim|TN||1e|2lp|tw|6r|Adjim
+Adjarra|BJ||1b|i5|7f|6p|Ajarra;Adjara
+Akdağmadeni|TR||94|326|2ro|6e|Adağmadenı
+Ādanāttutekkumuri Kizhakku|IN||6t|p8|5wj|67
+Adra|IN||6t|1ta|6os|66
+Ad Dānā|SY||69|2sl|2u5|64|Ed Dâna
+Adjaouèrè|BJ||1b|jg|79|64
+Adré|TD||17|11f|1po|64
+Adebaye|ET||2|13g|2u4|62
+Ad Darbāsīyah|SY||69|2uz|34x|5z|Darbāsīyah
+Adampur|IN|Punjab|6t|2fb|5ub|5t
+Ādīs ‘Alem|ET||2|p3|2yo|5t|Addis-Ālam;Addis Alem
+Adrian|US|Michigan|2q|38e|-6hg|5r
+Adlershof|DE||8r|41o|11n|5m|Aldershof
+Adh Dhayd|AE||6c|1y9|4b8|5m|Dhaid;adh-Dhayd;Az-Zajd;Zeyd;Adh Dhaid;Dhayd;Al-Dhayd;Ihaid;Adh Dhēd
+Ādīs K’idamē|ET||2|us|2ug|5l|Addis Kidam
+Adelaide city centre|AU||8b|-2p1|ap0|5i|Adelaide CBD
+Adwick le Street|GB||9b|44t|-3a|5f
+Adelfas|ES||9d|348|-a7|58
+Adiyanuthu|IN||6t|sp|60m|4z
+Ad Dasmah|KW||6x|29l|3pc|4w|Dasmah;Ad Dasmā’
+Adriano|IT||9o|3if|pp|4v
+Ada|US|Oklahoma|2f|2ol|-7gk|4t
+Adam|OM||72|1q6|4ft|4t
+Adustina|BR||20|-t9|-2xu|4r
+Adelfia|IT||9o|35w|1av|4o
+Adams Morgan|US||48|304|-5y0|4e
+Addison|US|Texas|2f|2jk|-7gz|4b
+Ado-Odo|NG||u|ic|86|4a|Ado Odo
+Sashalom|HU||8v|3o0|1h9|49|Adlerhügel
+Adliswil|CH||a7|3nf|no|48
+Adjud|RO||8u|3k2|23i|48
+Ad Dindar|SD||r|10o|2mx|47
+Adelphi|US||48|30c|-5xt|47
+Ad Dawḩah al Jadīdah|QA||7b|1y8|3z5|46
+Addlestone|GB||9b|3yp|-1d|46
+Aḑ Ḑāli‘|YE||5r|122|3g9|44|Dhale;Ed Dali;Ad Doli;Ad Dali;Addoli;Dhala;Dhalie
+Adelaide|ZA||o|-2iv|212|42
+Adigaratti|IN||6t|vh|5x2|3y
+Admiralty|SG||7j|40|80c|3v
+Adjaméné|CI||0|d9|-j0|3s
+Adrasmon|TJ||6d|34x|5ee|3q|Adrasman
+Adi Keyh|ER||4|158|31e|3n|Adi Keih;Ādī K’eyih;Adi Keyeh
+Adria|IT||9o|3h5|xi|3m
+Adolfo Ruiz Cortines|MX|Sinaloa|3x|1ze|-8e0|3m|Ruíz Cortines;Número Dos;Adolfo Ruiz Cortinez
+Adolfo Ruíz Cortínes|MX|Sinaloa|3x|1zj|-8e3|3l|Adolfo Ruiz Cortínez
+Adygeysk|RU||9i|3gp|30v|3e|Adigejsk;Adygeisk;Adigeysk;Adygeiskas
+Adalaj|IN||6t|1sc|5lm|3c
+Ad Duraykīsh|SY||69|2oy|2se|3b|Duraykīsh
+Adahidoukou|CI||0|er|-ei|3a
+Aduthurai|IN||6t|um|64s|39
+Ad Dabbah|SD||r|1e5|2dz|38|Ad-Dabba;Al Dabbah;Al Dabachas;Aldabaha;Al Daddah;Dabbah;Ad Dabba
+Edd|ER||4|12p|37t|35|Iddi;Edi;Eid;Adi
+Adda-Douéni|KM||ac|-y5|3fm|31|Adda Daouéni;Adda-Daouéni
+Adendorf|DE||8r|440|t0|2r
+Ad Dawḩah|PS||6g|2g2|2pq|2o
+Ajigasawa|JP||7q|359|atg|2o|Adigasawa;Azigasawa
+Postojna|SI||9a|3j5|13i|2o|Adelsberg;Postumia
+Hlyboka|UA||98|3pl|201|2m|Adancata;Khliboka;Glyboka;Adynkata
+Adaikkakuzhi|IN||6t|n3|5ya|2h
+Adolfo López Mateos|MX|Chihuahua|2g|273|-8a2|2g
+Adéta|TG||w|jt|21|2d
+Adilpur|PK||6q|25m|5ck|2a|Ādalpur
+Adoru|NG||u|je|jw|2a
+Adamovka|RU||7z|3z4|4mi|28
+Adlington|GB|England|9b|44x|-79|28
+Adaou|CI|Comoé District|0|f3|-92|27
+Adâncata|RO|Suceava|8u|3ol|212|26|Adîncata
+Addo|ZA||o|-2l7|1zd|23
+Adalar|TR||94|35j|28x|21
+Adbhār|IN||6t|1oz|6em|21
+Adelsdorf|DE||8r|3tf|tp|20
+Adyār|IN||6t|zr|5s4|1y
+Ādri|IN||6t|1m9|5f9|1y
+Felda Gugusan Adela|MY||6v|44|81e|1v|Adela;FELDA Kledang;Kledang;FELDA Sening;Sening
+Ādaži|LV||9n|4ej|1vm|1v|Adazhi
+Adébem|CI||0|f7|-g8|1v
+A dos Cunhados|PT||99|30r|-pu|1u
+Adelebsen|DE||8r|3za|r3|1t|Alessen;Aalessen
+Adegem|BE||8t|3y9|9q|1t
+Adelia María|AR||1n|-2lf|-4xu|1s
+Adérbissinat|NE||18|17f|lx|1r
+Adrianópolis|BR||4w|-1wi|-3s3|1r
+Adani|NG||u|iq|jh|1q
+Adămuş|RO||8u|3km|1vb|1n
+Adamstown|AU||8l|-2ji|bph|1n
+Adikokoi|CI||0|if|-ab|1n|Adikokwa
+Ada|US|Ohio|48|359|-6gu|1m
+Adorf|DE||8r|3vs|y2|1m
+Ajdir|MA|Tanger-Tetouan-Al Hoceima|d|2ps|-av|1m|Axdir;Ajddir;Adżdir
+Almazán|ES||9d|379|-71|1m|Adnamantia;Almasan;Almasanas;Almasana;Almasans
+Adātt|IN||6t|ta|5vi|1l|Adat
+Adligenswil|CH||a7|3mr|n8|1k
+Adolfo López Mateos (El Tamarindo)|MX||3x|1x6|-8az|1j
+Adelsheim|DE||8r|3t8|q3|1j|Adelshaym
+Adro|IT||9o|3iq|ro|1j
+Adams|US|Massachusetts|48|3ae|-5n4|1j
+Adiékro|CI|Lacs District|0|jn|-a9|1i
+Addūru|IN||6t|zw|5s8|1i|Addur
+Cadale|SO||14|7o|3ko|1i|Adale
+Ad Darb|SA||7e|1d8|39d|1i
+Addington|NZ||ak|-3cz|dbi|1h
+Adel|US|Georgia|48|2ei|-6fq|1h
+Adamstown Heights|AU||8l|-2jj|bpf|1g
+Adjuntas|PR||4m|1eg|-55c|1f
+Adh Dhibiyah|SA||7e|20b|3bw|1f
+Admiralty|HK||6i|1pw|8t4|1e
+Odolanów|PL||a5|3z9|1d3|1e|Odolanova;Adelnau
+Adairsville|US||48|2nh|-6jx|1c
+Idrī|LY||1d|249|109|1b|Adrī;Edri
+Addis|US||2f|2cb|-71j|1a
+Adamov|CZ|South Moravian|9m|3sy|1a9|1a
+Adolfo|BR||4w|-1mz|-3tw|19
+Adjudeni|RO||8u|3ml|22v|19
+Adir|JO||5t|2eo|2rc|18|Ader
+Adamsville|US|Alabama|2f|2lc|-6pk|18
+Adamuz|ES||9d|2xn|-ck|18
+Adjouan|CI||0|er|-8r|17|Adjouhan
+Adel|US|Iowa|2f|37l|-796|16
+Teregova|RO||8u|3hf|1pw|16|Ad Pannonios;Teregowa
+Cedarville|US|Ohio|48|32e|-6gt|16|Adarville
+Adamagui|CI||0|ga|-iy|15
+Ajyýap|TM||5x|2vy|46g|14|Adzhiyab;Adzhyyab;Admi-Yab;Adzhjyab
+Adil’-Yangiyurt|RU||9i|3d0|3le|14
+Adamakro|CI||0|hi|-92|14
+Adlkofen|DE||8r|3qv|y3|13
+Adela|PH||71|yk|9c1|13
+Adiapoté Té|CI||0|er|-bm|13|Adiapo-Té
+Adzhamka|UA||98|3qu|2ie|13|Adzjamka;Adschamka;Adjamka;Adżamka
+Adaúfe|PT||99|37j|-nc|13
+Adony|HU||8v|3mw|1ge|12|Adam
+Addingham|GB||9b|45u|-58|11
+Adelaide/Churchill|CA||4q|40q|-889|11
+Adaou|CI|Lacs District|0|hg|-dk|11
+Adyge-Khabl|RU||9i|3f5|38i|11|Adyge-Chabl;Adige-Habl;Adıge-Xabl;Adygie-Chabl;Adigué-Khabl
+Adlaon|PH||71|sm|9k6|10
+Adacao|GU||aw|11h|b6c|10
+ADK (Complexe|CI||0|h7|-jq|10
+Adelboden|CH||a7|3l5|l0|z
+Adiapoto-I|CI||0|er|-bn|z|Adiapo-To;Adiapo-To I
+Addison|US|Wisconsin|2f|3cm|-6th|y
+Adunații-Copăceni|RO||8u|3ex|20d|y
+Adtugan|PH||71|lp|9mt|y
+Ādh|IN||6t|287|603|w
+Adinkerke|BE||8t|3xv|78|v|Adinkerque;Adiengkerke
+Vodnjan|HR||a6|3gw|12h|v|Dignano;Adinianum
+Adâncata|RO|Ialomița County|8u|3gd|21f|v|Adânoata;Adîncata
+Adjélilié|CI||0|gv|-f9|v|Adiélilie
+Adenau|DE||8r|3vy|j9|u
+Adiadon|CI||0|e9|-ee|t
+Adouakouakro|CI||0|id|-cb|t
+A Dun|MM||7y|1af|7e9|t|Ah Dun;Adun
+Adács|HU||8v|3oh|1ji|t
+Admannshagen-Bargeshagen|DE||8r|46d|xc|t
+Adagum|RU||9i|3ha|2wt|s|Adaghum
+Adderbury|GB||9b|40i|-3n|s
+Strathmore|US|California|3p|2sf|-96q|s|Adzoogai Hóteel
+Adaromé|CI||0|fi|-bn|r
+Adstock|CA||59|3jx|-5hg|q
+Adityapatna|IN||6t|10v|5x3|q
+Adegeest|NL||8m|40u|cd|q
+Addah|CI||0|ed|-cx|q|Adda
+Adlay|PH||71|q5|9pq|p
+Adliswil / Adliswil (Stadtkern)|CH||a7|3nf|np|p
+Adelheidsdorf|DE||8r|420|ry|p|Aalheidsdörp
+Adjamé|CI||0|hg|-9s|o
+Adomokro|CI||0|gv|-c7|o
+Adamstown|US|Maryland|48|317|-5z7|o
+El Adelanto|GT||32|13d|-6xj|n|Adelanto
+Adarmān|IN||6t|2e6|5tm|n
+Ádánd|HU||8v|3m6|1eg|n
+Adelândia|BR||4w|-19l|-3vd|n
+Adamclisi|RO||8u|3eg|25n|m
+Adelsried|DE||8r|3qi|ts|m|Adlsriad
+Adamsville|US|Tennessee|2f|2pw|-6tj|m
+Adunaţi|RO||8u|3hd|1z6|m
+Adèndia|CI||0|lk|-8d|m
+Adams|PH||71|1fb|9bu|m|Adam
+Adakié|CI||0|ff|-bl|m
+Adaou|CI|Yamoussoukro|0|iw|-e1|m
+Admont|AT||a2|3o6|146|l
+Adjékonankro|CI||0|fu|-dj|l
+Adéane|SN||g|z3|-18i|l
+Adânca|RO||8u|3gs|1z5|l|Adînca
+Adamów|PL|Lublin|a5|3zq|1pu|l
+Adiékro|CI|Vallée du Bandama District|0|lo|-eg|l|Abiékro
+Adelberg|DE||8r|3rg|qo|l
+Aduard|NL||8m|43y|hy|k
+Adokoi|CI||0|gp|-ai|k
+Adohosou|CI||0|ma|-ez|j|Adohossou
+‘Adi|IL||6n|2j2|2pp|j|Adi;Adi i Israel
+Adams|US|Wisconsin|2f|3e4|-6xi|j
+Ádendro|GR||8p|34z|1qs|j|Kirjilár;Ádhendron
+Adelmannsfelden|DE||8r|3rz|rs|j
+Adamstown|US|Pennsylvania|48|33s|-5va|i
+Adams|US|New York|48|3dp|-5v6|i
+Adolfo Ruíz Cortines|MX|Veracruz|41|1l8|-7ib|i|Adolfo Ruíz Cortínez
+Adlwang|AT||a2|3pb|13i|i
+Adde Vishwanathapura|IN||6t|10p|5zf|i
+Adenbüttel|DE||8r|41i|t1|i
+Adoukro|CI||0|ko|-9i|i
+Adomkro|CI||0|gt|-cz|i
+Adi-Yaprikro|CI||0|l0|-bz|i|Adiapikro
+Addison|US|New York|48|38y|-5yj|h
+A dos Francos|PT||99|318|-p5|h
+Ada|US|Minnesota|2f|3ne|-7g4|h
+Adnan Menderes|TR||94|323|3ci|g
+Odranci|SI||9a|3lf|198|g|Adorjánháza;Odrantsi;Odrance
+Adrara San Martino|IT||9o|3iy|rn|g
+Adrian|US|Missouri|2f|2yo|-7a3|g
+Adihao|CI||0|ep|-a2|g|Adiao
+Adams Center|US||48|3du|-5v5|g|Adams Centre
+Adelshofen|DE|Bavaria|8r|3pu|uw|g
+Adliswil / Hündli-Zopf|CH||a7|3ng|no|g
+Adikouassikro|CI||0|h0|-d9|f
+Adwolf|US||48|2u7|-6am|f
+Adjudu Vechi|RO||8u|3k5|23j|f|Adjudu-Vechiu;Adjudul-Vechiu;Adjudul-Vechi
+Adelzhausen|DE||8r|3qc|uy|f
+Adliswil / Sood|CH||a7|3ng|no|f
+Adha Chat|IN||6t|25j|68c|f
+Addi|IN||6t|2es|5tf|f
+Addiebrownhill|GB||9b|4b4|-a2|f
+Adnet|AT||a2|3oi|10h|f|Odnet
+Adzaneta|ES||9d|33q|-h|f|Atzaneta del Maestrat
+Adosso|CI||0|ev|-9s|e|Dosso
+Ardnacrusha|IE||8z|42f|-nx|e|Ard na Croise;Adnakrušas
+Adolfo Moreno|MX||41|1is|-7i4|e
+Adliswil / Oberleimbach|CH||a7|3ng|no|e
+Adamivka|UA|Dnipropetrovsk|98|3q8|2n1|e|Adamovka
+Adamowizna|PL||a5|40o|1la|e
+Adahama|CI||0|k7|-9u|e
+Advance|US|Missouri|2f|2v2|-6xr|e
+Addison|US|Vermont|48|3eh|-5nm|e
+Ador|ES||9d|304|-m|d
+Atzeneta d'Albaida|ES||9d|2zv|-1e|d|Adzaneta de Albaida
+Adolfo López Mateos|MX|Chiapas|41|1bu|-77o|d
+Adolfo López Mateos|MX|México|41|1j0|-7ps|d|López Mateos
+Adjoumani-Kouassikro|CI||0|ih|-99|d
+Adliswil / Sonnenberg|CH||a7|3nf|no|d
+Adámas|GR||8p|2u1|1vx|d|Adhámas;Adamantas
+Addison|US|Maine|48|3fy|-586|d
+Adonkoua|CI||0|f1|-bp|c
+Adrian|US|Minnesota|2f|3d7|-7eh|c
+Adibrébo|CI||0|i3|-ct|c|Adibrobo
+Adamówka|PL||a5|3vm|1r2|c
+Adorjan|RS||8q|3js|1jo|c
+Adatepe|TR||94|36e|2qh|c
+Adășeni|RO||8u|3pj|22u|c
+Adessé|CI||0|ed|-d2|c
+Ademuz|ES||9d|33a|-3l|b|Ademús;Aldemuz
+Advance|US|North Carolina|48|2ru|-67d|b
+Adare|IE||8z|420|-og|b|Áth Dara
+Adliswil / Tal|CH||a7|3nf|np|b
+Adoumangan|CI||0|eh|-c7|b|Adoumanga
+Adikankourou|CI||0|kw|-av|b
+Adlington|GB|England|9b|444|-5y|b
+Adzyubzha|GE||7n|3b0|36e|b|Azyubzha;Adzvibzha;Adzubzha
+Adigeni|GE||7n|37s|3am|b
+Adjuntas del Río|MX||41|1mo|-7s7|b
+Upper Bear Creek|US||2p|322|-84u|b|Adeií Shash Bikooh
+Adounikro|CI||0|io|-9w|a
+Adea|RO||8u|3lc|1ny|a
+Adenstedt|DE||8r|40g|rm|a|Ahnstie;Oahnstie
+Adroukro|CI||0|kw|-ay|a
+Adjuntas del Monte|MX||41|1n7|-7s0|a
+Adiaou|CI||0|k2|-b8|a
+Adamaho|CI||0|gr|-ci|a
+Adlikon|CH||a7|3nt|nj|a
+Nâves-Parmelan|FR||9k|3jm|h7|a|Ad Naves Gebennensium
+Adjin|CI||0|f0|-ap|a
+Adelshofen|DE|Bavaria|8r|3tb|s9|a
+Adliswil / Wacht|CH||a7|3nf|np|9
+Adayazı|TR||94|30i|2ev|9
+Addyston|US||48|30q|-6jb|9|Addystown
+Adiokro|CI||0|m5|-f2|9
+Adelong|AU||8l|-2q2|bfb|9
+Adolfo Ruiz Cortines|MX|Veracruz|41|1k6|-7j0|9
+Adangba-Eby|CI||0|f5|-cr|9
+Adahou|CI||0|ix|-dg|9|Adaou
+Adamowice|PL||a5|3v9|1ex|9
+Adamovec|HR||a6|3ji|18w|9
+Adolfo López Mateos|MX|Tamaulipas|44|1rg|-7nj|9
+Adliswil / Wanneten|CH||a7|3ne|no|9
+Adairville|US||2f|2tv|-6p9|9
+Adamów|PL|Świętokrzyskie|a5|3xq|1mr|9
+Adderet|IL||6n|2fy|2p8|9
+Adolfo López Mateos (San José de Enmedio)|MX||41|1g9|-7gv|9
+Adásztevel|HU||8v|3ne|1cq|9
+Adjiéibango|CI||0|m3|-8t|9
+Adailou|DJ||i|x7|3b7|9|Adaylou
+Adamovské Kochanovce|SK||8s|3rp|1dt|9|Kochanovce
+Adare|AU||8c|-24f|br2|9
+Adriers|FR||9k|3ki|28|9|Adrerium
+Addington|GB||9b|3yj|11|9
+Adyliget|HU||8v|3o3|1gl|9
+Nuevo Morelos|MX|Tamaulipas|44|1uo|-7l5|9|Adolfo López Mateos
+Adliswil / Büchel|CH||a7|3ne|no|9
+Adoni|RO||8u|3nr|1pm|9
+Adolfo Ruiz Cortines|MX|Chiapas|41|15a|-74x|8|Adolfo Ruíz Cortínez
+Adissan|FR||9k|3cy|9j|8|Adiçan
+Advocate Harbour|CA||35|3hx|-4zy|8
+Adelino|US||2p|2og|-88h|8
+Adair|US|Oklahoma|2f|2t8|-7cn|8
+Adair Village|US||3p|3g3|-9ia|8|Làng Adair
+Adjiebo|CI||0|ka|-dd|8|Adiébo
+Adrara San Rocco|IT||9o|3j0|ro|8
+Adam|RO||8u|3jv|251|8
+Ad Dayrāt|PS||6g|2fc|2po|8
+Adliswil / Buttenau|CH||a7|3ne|np|8
+Dignano|IT||9o|3k0|zy|8|Dignan;Adinianum
+Adams|US|Minnesota|2f|3d1|-75k|8
+Adainville|FR||9k|3rc|4l|8
+Avoca|IE||8z|42t|-ha|8|Abhóca;Adoca;Ovoca
+Adliswil / Lebern|CH||a7|3ng|np|7
+Addison|US|Alabama|2f|2n0|-6q6|7|Addision
+Adikro|CI||0|lk|-dh|7
+Adjuassou|CI||0|ks|-e6|7|Adiassou
+Adjué|CI||0|ef|-cn|7
+Adi Koffikro|CI||0|k2|-cw|7|Adi-Kofikro
+Adiamara|CI||0|lg|-82|7
+Adena|US||48|33q|-68n|7
+Adair|US|Iowa|2f|37a|-7aw|7
+Adé|FR||9k|3bt|-3|7
+Adetswil|CH||a7|3ni|ok|7
+Adolfo López Mateos (Aguinaldo)|MX||44|1w6|-829|7
+Adolfo López Mateos|MX|Chiapas|41|1aw|-78b|7
+Adelianós Kámpos|GR||8p|2q9|1w6|7|Adelianos Kambos
+Adsubia|ES||9d|2zx|-f|7|L'Atzúvia
+Adolfo López Mateos|MX|Tabasco|41|1f6|-767|7
+Adolfo Oribe de Alva|MX||37|2dy|-8px|7
+Adioumanikro|CI||0|j2|-cy|7|Adioumanékro
+Adrian|US|Georgia|48|2id|-6df|7
+Adams|US|Tennessee|2f|2tm|-6pv|7
+Adioblessou|CI||0|kt|-eu|7|Adiolessou
+Adiogouansou|CI||0|kz|-eo|7|Adiongouassou;Adiongouasou
+Adavere|EE||9x|4j3|1zy|6
+Adalberto Tejeda|MX||41|1cu|-79r|6
+Adolfo Ruiz Cortines (La Pastoría)|MX||41|1h7|-7hg|6
+Advancetown|AU||8c|-25z|btr|6
+Adolfo López Mateos|MX|Chiapas|41|1aj|-74p|6|López Mateos
+Ādampur|BD||6a|1wh|716|6
+Adjoumanibango|CI||0|ll|-98|6
+Adamivka|UA|Mykolaiv|98|3ov|2d7|6|Adamovka
+Adams|US|Nebraska|2f|34e|-7g3|6
+Addison|US|Michigan|2q|38n|-6ib|6
+Adolfo Ruiz Cortines|MX|Chiapas|41|1c1|-77f|6
+Adliswil / Sihlhof|CH||a7|3ng|no|6
+Ådalsbruk|NO||9j|4ow|vf|6
+Adolfo Ruiz Cortínes|MX|Chiapas|41|1cb|-73i|5|Adolfo Ruíz Cortínez
+Adrian|RO||8u|3p2|1s9|5
+Adolfo Ruiz Cortines|MX|Tamaulipas|44|1qu|-7li|5
+Adršpach|CZ||9m|3wm|18r|5|Adersbach
+Adliswil / Sihlau|CH||a7|3ne|np|5
+Adell|US||2f|3d6|-6sb|5
+Adolfo López Mateos|MX|Chiapas|41|16z|-76d|5
+Adjacouti|CI||0|ef|-co|5|Ajaconti;Adjakouti;Adjacouty;Adjaconti
+Adjuntas del Peñasco (El Peñasco)|MX||41|1rv|-7xo|5
+Adorp|NL||8m|440|i5|5
+‘Adanim|IL||6n|2ha|2oz|5|Adanim
+Advance|US|Indiana|38|334|-6om|5
+Adanekro|CI||0|jy|-9c|5
+Adamov|CZ|South Bohemian Region|9m|3s4|14e|5
+Adolfo López Mateos|MX|Chiapas|41|1a5|-761|5
+Adolfo Ruiz Cortines (Morelitos)|MX||41|1e4|-76t|5
+Adımova|TR||94|324|3bk|5
+Adamstown|PN||bb|-1xn|-a1e|0|Adamstaŭno;Adams Town;Adamstaun;Adamstaunas

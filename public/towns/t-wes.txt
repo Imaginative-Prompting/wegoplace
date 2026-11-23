@@ -1,0 +1,680 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+West Jerusalem|IL||6n|2ga|2pu|334|Vest-Jerusalem;Vestjerusalem;Westjerusalem;Västra Jerusalem
+West Raleigh|US||48|2rf|-62i|2m4
+Jurong West|SG||7j|3r|804|1yi
+City of Westminster|GB||9b|3z2|-e|1ws
+Upper West Side|US||48|35b|-5pi|1r2|Aukštutinis Vestsaidas
+Somerset West|ZA||o|-2mo|1ga|1ql|Somerset-Wes
+Westonaria|ZA||o|-214|24t|17k
+Amsterdam Nieuw-West|NL||8m|41g|dd|165|New West
+Amsterdam-West|NL||8m|41i|dj|13y|Amsterdam West
+West Valley City|US||2p|351|-8n4|11u|West Valley;Wast Valley Ceety
+West Palm Beach|US||48|228|-66d|xl|Okcidenta Palm Beach;Litus Palmense Occidentale
+Bremerhaven|DE||8r|44r|nu|wy|Bremerhoben;Brėmerhafenas;Bremerhuuwen;Brēmerhāfene;Bremerhoawen;Wesermünde
+Westminster|US|Colorado|2p|32o|-83s|wb
+West Jordan|US||2p|34t|-8my|v3|Okcidenta Jordan
+West Covina|US||3p|2mn|-93m|u5|Okcidenta Covina
+West Bromwich|GB||9b|41w|-5j|sn|Vest Bromičas;Bromwich Thiar;Vest-Bromviĉo;Vestbromviča;Uest-Bromiç
+West Albany|US||48|3ak|-5oy|q2
+Westminster|US|California|3p|2ls|-93t|pl|Westminister
+West Town|US||2f|38d|-6rj|o0|Vest Taun
+Weston-super-Mare|GB||9b|3yn|-8a|n1|Weston super Mare
+Westland|US||2q|39k|-6fo|ms
+West Ridge|US||2f|38o|-6rl|k2
+West Gulfport|US||2f|2cg|-6vh|jt
+Weston|US|Florida|48|20i|-67c|jg
+West Lynchburg|US||48|2vw|-63y|i7
+West Bloomfield Township|US||2q|3a9|-6fm|hz|West Bloomfield;Municipio de West Bloomfield;Xã West Bloomfield
+West Des Moines|US||2f|37i|-78b|ht
+West Hartford|US||48|380|-5m2|hl
+West Coon Rapids|US||2f|3hg|-77b|hd
+Wesel|DE||8r|3zj|ie|h5
+West Hollywood|US|Florida|48|20a|-66q|gw
+West Allis|US||2f|3bi|-6sh|gu
+Veszprém|HU||8v|3mt|1dr|ft|Vesprimo;Vesprém;Veszprim;Vesprėmas;Vesprim;Vesprimia;Wesprim;Vessprém
+West Haven|US|Connecticut|48|36n|-5mn|f9
+West New York|US||48|35b|-5pl|eu
+West Sacramento|US||3p|2z6|-9dl|en
+Wetzlar|DE||8r|3wg|nm|en|Veclaro;Veclāra;Weslår;Veclaras;Vetclar;Vetzlar
+West Orange|US|New Jersey|48|35c|-5q8|dd
+West End|CA|British Columbia|5b|3sw|-9i1|d4
+West Lafayette|US|Indiana|38|34b|-6pf|co|Lafayette Occidentalis
+West Vancouver|CA||5b|3t1|-9i4|cn|Vancouver Barat;West Vankuver
+West Seneca|US||48|3b1|-62w|cf
+Wesley Chapel|US|Florida|48|26g|-6cp|c9
+West Babylon|US||48|354|-5nr|c0
+Wesselsbron|ZA||o|-25d|219|bu
+Westfield|US|Massachusetts|48|391|-5m3|bl
+West Hills|US|California|3p|2n0|-95k|bi
+Westend|DE||8r|41w|10w|bh
+Weslaco|US||2f|20o|-7k7|az|Veslako
+West Oak Lane|US||48|33b|-5st|ar
+Westerville|US||48|33h|-6ed|ao
+Westfield|US|Indiana|38|338|-6n9|a7
+West Bridgford|GB||9b|431|-35|a5|West Bridgeford
+West Hollywood|US|California|3p|2mp|-94s|a2|Vakarų Holivudas;Vestholivuda;Okcidenta Holivudo;Tây Hollywood
+West Torrington|US||48|386|-5n6|a0
+Wesseling|DE||8r|3x7|jd|9x
+West Little River|US||48|1zu|-66w|9n
+West Lake Sammamish|US||3p|3o6|-9f6|9f
+West Fargo|US||2f|3m7|-7h6|9c|Vakarų Fargas;Vestfargo;Tây Fargo
+West Humber-Clairville|CA||59|3dg|-654|99
+West Lawn|US|Illinois|2f|381|-6ro|93
+West Village|US||48|355|-5pl|91
+Westlake|US|Ohio|48|376|-6bk|90|West Lake
+West Englewood|US||2f|382|-6rj|8y
+Westmont|US|California|3p|2ma|-94m|8v
+West Bend|US|Wisconsin|2f|3cn|-6sy|8t|Westbend
+Westfield|US|New Jersey|48|34y|-5qj|8h
+West Roxbury|US||48|39g|-5hn|8g
+West Warwick|US||48|37u|-5io|8d
+Westchester|US|Florida|48|1zj|-675|8b
+West Falls Church|US||48|2zy|-5yf|84
+West Kelowna|CA||5b|3ui|-986|80
+West Elkridge|US||48|30x|-5x5|7z
+West Islip|US||48|353|-5nn|7v
+West Springfield|US|Massachusetts|48|38z|-5lq|7r
+West Scarborough|US||48|3d1|-5fj|7p
+West Chicago|US||2f|38c|-6t0|7m
+West Hill|CA||59|3dl|-63y|7m
+West Milford|US|New Jersey|48|369|-5ql|7i
+West Linn|US||3p|3i1|-9gl|7e
+Westport|US|Connecticut|48|36a|-5ns|7c
+Westminster-Branson|CA||59|3dm|-64p|7b
+Westhoughton|GB||9b|44r|-70|7b
+West Whittier-Los Nietos|US||3p|2me|-93z|73
+West Memphis|US||2f|2pn|-6yi|6z|Okcidenta Memfiso
+Westmont|US|Illinois|2f|384|-6se|6x
+West End|CA|Newfoundland and Labrador|50|3o1|-42l|6w
+Westpark|US||3p|2ll|-939|6e
+West Odessa|US||2f|2gg|-7wq|6b
+West Puente Valley|US||3p|2ml|-93p|6a
+Westerlo|BE||8t|3xx|do|6a|Vesterlas;Westel
+West Springfield|US|Virginia|48|2zp|-5yi|69
+West and East Lealman|US||48|25a|-6dp|63
+Westerstede|DE||8r|43y|m1|63|Westerstäe
+Westchase|US||48|25y|-6dh|61|West Chase
+West Carson|US||3p|2ly|-94l|61
+Westford|US||48|3aa|-5ig|60
+West Pensacola|US||2f|2cj|-6qg|5x
+West Lake Stevens|US||3p|3pb|-9f6|5u
+West Melbourne|US||48|25z|-681|5r
+Westmount|CA|Quebec|59|3ic|-5og|5p
+West Mifflin|US||48|344|-65v|5l
+Wesoła|PL|Mazovia|a5|415|1my|5k
+West Chester|US||48|330|-5u1|5i
+Westwood Plateau|CA||5b|3sy|-9h3|5i
+West Saint Paul|US||2f|3gs|-76m|5f
+West Elsdon|US||2f|383|-6ro|5c
+West Hempstead|US||48|352|-5ol|59
+Westminster|US|Maryland|48|31y|-5xw|57
+West Molesey|GB||9b|3ys|-12|56|Molesey
+Weston|CA||59|3de|-64w|50
+Westbrook|US|Maine|48|3dc|-5fh|50
+Westerly|US||48|36y|-5jj|4z
+Westmead|AU||8l|-2lw|bnf|4y
+West Garfield Park|US||2f|38c|-6rp|4x
+Westbury|GB|England|9b|3ye|-63|4q
+Westchester|US|Illinois|2f|389|-6s4|4n
+West Pennant Hills|AU||8l|-2lr|bnl|4i
+West Columbia|US|South Carolina|48|2mf|-697|4h
+West University Place|US||2f|2ak|-7d3|4d
+West Ham|GB||9b|3z5|2|4c
+Westbury|US||48|358|-5of|4a
+West Bay|KY||2e|1hu|-6a3|49
+West Ealing|GB||9b|3z3|-w|48
+West Park|US|Florida|48|206|-66s|47
+Weston|US|Wisconsin|2f|3gp|-6wr|47
+Rakvere|EE||9x|4kv|218|46|Wesenberg;Rakwere;Vezenberg
+West Norriton|US||48|33h|-5te|43
+West Nipissing|CA||59|3kt|-660|42
+West Drayton|GB||9b|3z2|-1b|40|Drayton Thiar
+West Wodonga|AU||8j|-2sc|bbx|3z
+West Wickham|GB||9b|3yp|-2|3z
+Westwood|US|Massachusetts|48|399|-5hu|3w
+West Derby|GB||9b|44f|-83|3u|Derby Thiar
+West Richland|US||3p|3km|-97k|3t
+West Freehold|US||48|33s|-5qe|3s
+Western Springs|US||2f|385|-6s6|3q
+West Carrollton City|US||48|327|-6i1|3p
+West Ryde|AU||8l|-2lx|bnn|3p
+West Clayton|CA||5b|3sh|-9gw|3n
+West Point Grey|CA||5b|3sv|-9i8|3n
+West Monroe|US|Louisiana|2f|2ic|-73z|3m
+West Watford|GB||9b|3zi|-16|3k
+West End|BS||47|225|-63e|3j|Batı Ucu
+West Valley|US|Washington|3p|3lf|-9b1|3j
+West Mount Airy|US||48|339|-5sw|3i
+Westerland|DE||8r|48j|n2|3h|Wäästerlön';Vesterland;Weesterlön
+West Plains|US||2f|2u1|-735|3f|Westplains
+West Cambie|CA||5b|3sm|-9i0|3f
+Weststadt|DE||8r|44z|vo|3d
+Westhill|GB|Scotland|9b|4er|-6c|3d
+West Harbour|NZ||ak|-2ua|dh1|3d
+West Haven|US|Utah|2p|36g|-8n9|3b
+Westwood Lake|US||48|1zh|-679|3a
+West Footscray|AU||8j|-2x0|b6g|39
+West Henrietta|US||48|3bk|-5zq|39
+Westbourne|GB||9b|3z4|-j|39
+Weston|US|Massachusetts|48|39p|-5i2|39
+West Springs|CA||2s|3xu|-8t8|38
+West End|GB|England|9b|3z3|-e|37
+West Kensington|US||48|333|-5sq|37
+Westerkappeln|DE||8r|41c|lw|36
+West Sedona|US||4i|2ov|-8ml|35
+Westwood|US|New Jersey|48|35v|-5pn|34
+Weston-Pellam Park|CA||59|3db|-64q|33
+West Point|US|Mississippi|2f|2ld|-6u9|32
+Westsyde|CA||5b|3x1|-9ab|2z
+West Perrine|US||48|1z5|-678|2y
+West End of London|GB||9b|3z3|-g|2y
+Veselí nad Moravou|CZ||9m|3rz|1ca|2y|Veseli pie Morāvas;Wessely an der March
+West Haverstraw|US||48|36h|-5pj|2w
+West Point|US|Utah|2p|368|-8nc|2v
+West Hoxton|AU||8l|-2m9|bmz|2s
+Western Heights|NZ||ak|-2ug|dh1|2r
+Westergate|GB||9b|3x8|-1v|2q
+Westview|US||48|1zw|-66w|2p
+West Newton|US|Massachusetts|48|39n|-5hv|2l
+West End|AU|Queensland|8c|-24c|bt1|2l
+Westhagen|DE||8r|41k|tu|2k
+Westerleigh|US||48|34u|-5px|2h
+West Athens|US||3p|2m8|-94m|2f
+Westwood|US|Michigan|2q|39i|-6lv|2f
+Westwego|US||2f|2b3|-6ye|2d
+Westlake Village|US||3p|2mv|-961|2d
+Wesley Chapel|US|North Carolina|48|2p9|-683|2c
+Westfort|CA||59|3qd|-6w1|2b
+Westmalle|BE||8t|3yi|d1|2a
+West Busselton|AU||8k|-2li|8wc|29
+West Livingston|US||2f|2da|-7bw|29
+West Frankfort|US||2f|2xa|-6v1|29
+West Gate|US|Virginia|48|2zq|-5za|28
+West Cambridge/Harvard Square|US||48|39p|-5hk|28
+West Haven-Sylvan|US||3p|3ig|-9h1|28|Tây Haven-Sylvan
+West Long Branch|US||48|33x|-5pm|28|West Longbranch
+West Gate|US|Florida|48|226|-66i|28
+West Thurrock|GB||9b|3z0|s|26
+West Kirby|GB||9b|449|-8u|25|Vest Kirbis
+West Helena|US||2f|2nz|-6zs|25
+West Boylston|US||48|39p|-5jf|24
+West Dundee|US||2f|38y|-6t8|22
+Westmere|US||48|3al|-5p7|21
+Westphalia|US|Maryland|48|2zx|-5xd|21
+West Vero Corridor|US||48|24s|-67l|1z
+West Glens Falls|US||48|3ca|-5oo|1z
+West Mersea|GB||9b|3zu|2k|1z
+Westminster|US|Massachusetts|48|3a7|-5jr|1y
+Westerfilde|DE||8r|3z6|kh|1y
+West Coast Village|SG||7j|3o|807|1x|Pantai Barat
+West Point|US|New York|48|36z|-5pg|1w|Promontorium Occidentale;Westpoint
+West Bridgewater|US||48|38q|-5h9|1w
+Westvale|CA||59|3co|-67s|1v
+West View|US||48|34k|-66b|1v
+West St. Paul|CA||5d|3ux|-7hu|1v
+West Hillhurst|CA||2s|3xt|-8t0|1u
+Westgate on Sea|GB||9b|3yq|3q|1u
+West Slope|US||3p|3ie|-9h0|1u
+West Fens|US||48|39m|-5hi|1t
+West Somerville/Davis Square|US||48|39s|-5hk|1s|West Somerville
+Westmount|CA|Nova Scotia|35|3g1|-4wp|1s
+West Mackay|AU||8c|-1mr|bic|1r
+West Hallam|GB||9b|435|-3s|1r
+Westport|IE||8z|45g|-qg|1q|Cathair na Mart;Caair ny Mart
+West Greenwich|US||48|37o|-5j2|1p
+Westminster|AU||8k|-2gj|8xs|1p
+West Concord|US|Massachusetts|48|39y|-5ic|1o
+West Yarmouth|US||48|37p|-5f4|1o
+West Haven|US|Oregon|3p|3ig|-9h1|1o
+West Miami|US||48|1zk|-672|1o
+Wesley Hills|US||48|36c|-5pr|1n
+West Hattiesburg|US||2f|2f0|-6wa|1n|Tây Hattiesburg
+Westmount|CA|Alberta|2s|44r|-8re|1n
+Westhausen|DE|Baden-Wurttemberg|8r|3rs|sa|1n
+Wescosville|US||48|34p|-5tv|1n|Wescoesville;Wescoeville;Westcosville
+Westerburg|DE||8r|3wg|m5|1n
+West Hobart|AU||8g|-3b4|bd7|1m
+Veselynove|UA||98|3nk|2er|1m|Vessélynové;Wesselynowe;Veselinove;Wesełynowe;Veselinovo
+Westmeadows|AU||8j|-2wo|b6h|1m
+West Perth|AU||8k|-2gr|8xs|1m
+West Modesto|US||3p|2wi|-9c8|1l
+West Rancho Dominguez|US||3p|2m5|-94j|1l|West Compton
+Westville|US|Indiana|2f|37e|-6pe|1l
+Westervoort|NL||8m|40c|gl|1k
+West Lakes|AU||8b|-2ov|aop|1k
+West Hills|US|New York|48|35e|-5nz|1k
+West Melbourne|AU||8j|-2x1|b6n|1k|Melbourne West
+West Samoset|US||48|24b|-6dc|1k
+West Loch Estates|US||ax|1nd|-c6y|1j|West Loch Estate
+Westende|BE||8t|3y4|7p|1j|Vestenda
+West Side Highway|US||3p|3ka|-9hg|1j
+West Bountiful|US||2p|35l|-8mu|1j
+West End|NZ|Manawatu-Wanganui|ak|-345|djs|1j
+West Kingsdown|GB||9b|3ym|q|1j
+West Clandon|GB||9b|3ye|-1e|1i
+Westhill|GB|Scotland|9b|4fn|-bj|1i|Cnoc Shuas
+West Clarkston-Highland|US||3p|3kw|-916|1h|West Clarkston
+West Tamworth|AU||8l|-2ee|bn7|1h
+Westerrönfeld|DE||8r|46s|qt|1g
+West Pymble|AU||8l|-2lt|bnt|1g
+Weßling|DE||8r|3pj|v9|1g
+Westzaan|NL||8m|41q|d9|1f
+Westhofen|DE|North Rhine-Westphalia|8r|3yu|kx|1f
+West Byfleet|GB||9b|3ym|-1f|1f
+West Salem|US|Wisconsin|2f|3dy|-710|1e
+West Sayville|US||48|355|-5n2|1e
+West Beach|AU|South Australia|8b|-2p3|aor|1e
+West Elmira|US||48|38w|-5xh|1e
+Westvale|US||48|3bl|-5vq|1e
+Westmont|US|Pennsylvania|48|340|-63b|1d
+Wesendorf|DE||8r|423|ta|1d
+West Kempsey|AU||8l|-2ea|bsj|1d
+Westkapelle|BE||8t|3yk|96|1d|Westcapelle;Westcappelle
+Westown|NZ||ak|-30j|dfi|1c
+West Pittston|US||48|36t|-5uj|1c
+West Kilbride|GB||9b|4ap|-di|1c|Cille Bhrìghde an Iar
+West Wollongong|AU||8l|-2nm|bn2|1c
+Westwood|US|Kentucky|48|2yw|-6dn|1b
+Westwoods|CA||59|3ey|-5ws|1b
+West Milton|US|Ohio|48|330|-6i9|1b
+West Gladstone|AU||8c|-1ua|bo5|1b
+Westlock|CA||2s|46f|-8sb|1b
+West Bay Shore|US||48|353|-5nk|1a
+Westlake|US|Louisiana|2f|2c0|-771|1a|West Lake
+Westerbork|NL||8m|42t|id|1a|Vesterborkas
+Westport|NZ||ak|-37z|d8o|1a|Kawatiri
+Westdale|CA||5d|3uh|-7ic|1a
+West York|US||48|32z|-5x7|1a
+West Hazleton|US||48|35s|-5v4|19|West Hazelton
+Westerhaar-Vriezenveensewijk|NL||8m|41q|ie|19
+Westville|US|New Jersey|48|35g|-5qe|18
+Wezemaal|BE||8t|3xj|d8|18|Wesemael
+West Royalty|CA||35|3ki|-4vg|18
+West Peoria|US||2f|351|-6wz|18
+West Ocean City|US||48|2yh|-5sn|18
+Westleigh|AU||8l|-2ln|bnn|17
+West Wendover|US||3p|356|-8sv|17|Tây Wendover
+West Jefferson|US|Ohio|48|32y|-6fb|17
+Westlake|AU||8c|-24j|bsr|16
+West Laurel|US||48|30m|-5xm|16
+West End|GB|England|9b|3xh|-3p|16
+Westville|US|New Jersey|48|32r|-5sp|16
+Westover|US|West Virginia|48|323|-665|16
+West Newbury|US||48|3aw|-5h7|16
+West Milwaukee|US||2f|3bh|-6sd|16
+West Bradenton|US||48|24e|-6dh|16
+West Reading|US||48|341|-5uz|16
+Westway|US||2p|2gs|-882|16
+West End|CA|Ontario|59|3qk|-6vx|15
+West Croydon|AU||8b|-2ox|aow|15
+West Bay|GB||9b|3wv|-7o|15
+Weston|US|West Virginia|48|30g|-67j|15
+West Ulverstone|AU||8g|-36b|b9x|15
+West Launceston|AU||8g|-375|bcp|15
+Westborough|US||48|39f|-5iy|14
+Westport|US|North Carolina|48|2qm|-68y|14
+Westmount|CA|Ontario|59|3cq|-67p|14
+Westview|CA||4q|40v|-88e|14
+West End|AU|Queensland|8c|-1hj|bbr|13
+West Columbia|US|Texas|2f|28y|-7dp|13|Columbia
+Westcourt|AU|Queensland|8c|-1b1|b8v|13
+Northwest Harwich|US||48|37t|-5eq|13|West Harwich
+West Leederville|AU||8k|-2gq|8xr|13
+West Moonah|AU||8g|-3b1|bd4|13
+Westeinde|NL||8m|43t|g1|13
+West Pleasant View|US||2p|32d|-846|12
+Westbrook|AU||8c|-24q|bpv|12
+West Albury|AU||8l|-2s8|bc1|12
+West Pasco|US||3p|3kh|-972|11
+West Liberty|US|Iowa|2f|37h|-71i|11|Tây Liberty
+West Point|US|Georgia|48|2jc|-6km|11|Westpoint
+Westenenk|NL||8m|410|gk|11
+West Menlo Park|US||3p|2vz|-9fg|11
+West Bathurst|AU||8l|-2kt|bjg|11
+Westendorf|AT||a2|3nr|xx|11
+Westville|CA||35|3il|-4u8|10
+Wespelaar|BE||8t|3xk|cw|10|Wespelaer
+West End|CA|British Columbia|5b|3so|-9hh|10
+West DeLand|US||48|28m|-69x|z|West De Land
+West Monroe|US|Michigan|2q|38f|-6fr|z
+Weston|AU||8l|-2q6|bi2|z
+West End-Cobb Town|US||2f|2lh|-6mj|z
+West Orange|US|Texas|2f|2bk|-78g|z
+West End|CA|British Columbia|5b|3wr|-9ab|y
+West Nyack|US||48|366|-5ph|y
+West Wyomissing|US||48|340|-5v3|y
+West Point|US|Nebraska|2f|388|-7gn|y|Westpoint
+Wesenberg|DE|Mecklenburg-Vorpommern|8r|440|101|x|Vēzenberga
+West Meadowlark Park|CA||2s|44p|-8rl|x
+West Point|US|Virginia|48|2w9|-5xc|x|Wests Point;Westpoint
+West Liberty|US|Kentucky|48|2xc|-6fa|x
+Westend|FI||92|4n4|1ww|x|Vessu
+West Lake Hills|US||2f|2c6|-7jo|x
+Westwood|CA||2s|44u|-8ra|x
+Westerham|GB||9b|3yf|7|x
+Westheim|DE|Bavaria|8r|3qf|u2|x
+West Wyalong|AU||8l|-2m8|bcw|x
+Westhofen|DE|Rheinland-Pfalz|8r|3u2|mx|x
+West Point|US|Georgia|48|2j3|-6gt|w
+Wesleyville|US||48|392|-66a|w
+Westgate|CA|Alberta|2s|3xs|-8t4|w
+West Bergholt|GB||9b|407|2d|w
+West Union|US|Ohio|48|2zr|-6g3|w
+Westcourt|AU|Queensland|8c|-22g|bl3|w
+West Portsmouth|US||48|2zo|-6en|v
+Wesselburen|DE||8r|46l|os|v|Veslingburen
+Westfield|US|Maryland|48|31c|-5wn|v
+Westville|US|Illinois|2f|338|-6rg|v
+West Calder|GB||9b|4b5|-9x|v
+Westfália|BR||4w|-29r|-3zt|v
+Westfield|US|New York|48|39k|-652|v
+Westhampton|US|New York|48|35e|-5lv|v
+West Lakes Shore|AU||8b|-2ou|aop|v
+West Burlington|US||2f|35f|-718|u
+West Ballina|AU||8l|-286|buh|u
+Westminster|US|Louisiana|2f|2ch|-711|u
+Westmount|CA|Nova Scotia|2x|3k6|-4na|u
+West Gate|CN|Guangdong|7i|1qp|8sf|u
+West Jasper Place|CA||2s|44q|-8ri|u
+West Wellow|GB||9b|3xl|-4e|t
+Westelijke Eilanden|NL||8m|41j|dl|t|Western Islands
+Westerheim|DE|Baden-Wurttemberg|8r|3qs|qq|t
+West|US||2f|2gc|-7hp|t
+West End|NZ|Canterbury|ak|-3fb|d7m|t
+West Grove|US||48|32m|-5un|t
+Westmount|CA|Saskatchewan|4q|40t|-88d|s
+West Hammond|US||2p|2tw|-8c5|s
+West Brattleboro|US||48|3b2|-5lo|r
+Westdale|AU||8l|-2ed|bn2|r
+Wysoka|PL|Greater Poland|a5|43q|1bg|r|Wësokô;Visoka
+West Melton|NZ||ak|-3cw|dat|r
+West Wyoming|US||48|36s|-5up|r
+West Longview|US||3p|3k9|-9ho|r
+West Ishpeming|US||2q|3l4|-6rm|r
+West Sand Lake|US||48|3ag|-5oh|r|West Sandlake
+Westgate|US||48|314|-5x3|q
+Westmorland Heights|CA||43|3ht|-53g|q
+West Bishop|US||3p|2vs|-952|q
+Weston Lakes|US||2f|2ag|-7ei|q
+Westrich|DE||8r|3z4|kf|q
+West Newton|US|Pennsylvania|48|33p|-65l|p
+West Fork|US||2f|2rs|-79n|p|Westfork
+Westphal|CA||35|3g5|-4wi|p
+Westcott|GB||9b|3ya|-11|p
+West-Terschelling|NL||8m|448|eh|p|Westerschelling
+Westridge|CA|British Columbia|5b|3sw|-9hj|p
+Westkapelle|NL||8m|3z5|9k|p|Wasschappel
+West Tisbury|US||48|36y|-5gb|p
+West Belmar|US||48|33l|-5po|p
+Westbourne Park|AU||8b|-2p5|ap0|p
+Westminster|US|South Carolina|48|2oa|-6eu|p
+West Simsbury|US||48|38b|-5me|o
+Westmeerbeek|BE||8t|3xu|dg|o
+Westbrook Center|US||48|36o|-5l8|o
+West Union|US|Iowa|2f|3bc|-731|o
+Westerholt|DE||8r|44v|kq|o
+West Branch|US|Iowa|2f|37r|-71r|n
+West Rainton|GB||9b|48a|-46|n
+West Sharyland|US||2f|20z|-7l5|n
+West Warrenton|US||48|2kt|-6do|n
+Westmoreland|US|Tennessee|2f|2tk|-6nl|n
+West Lafayette|US|Ohio|48|33w|-6b3|n
+West Hill|US||48|36j|-67o|n
+Western Areas|ZA||o|-217|24y|n
+Westmorland|US||3p|2js|-8x6|n|Westmoreland
+West Malling|GB||9b|3yh|15|n
+Westrozebeke|BE||8t|3xh|8d|n|Westroosebeke;Westroozebeke
+Westby|US||2f|3da|-70d|n
+West Dennis|US||48|37q|-5ex|m
+Westmere|NZ||ak|-2ue|dhc|m
+West Wallsend|AU||8l|-2je|bp2|m
+West Terre Haute|US||38|31n|-6qx|m
+West Forest Park|US||48|318|-5x1|m
+Westmorland|NZ||ak|-3d2|dbg|m
+Westerhausen|DE||8r|3zx|uq|m
+Westerstetten|DE||8r|3qs|rn|m
+Westoning|GB||9b|40e|-1e|l
+Westview Village|CA||2s|44r|-8ru|l
+Westworth|US||2f|2j0|-7il|l
+Weston Turville|GB||9b|3zv|-24|l
+Westdorpe|NL||8m|3yb|an|l|Wesdurpe
+Westeregeln|DE||8r|40c|vn|l|Westeregulun
+Westerheim|DE|Bavaria|8r|3pe|sm|l
+Wessobrunn|DE||8r|3oz|um|l
+West Branch|US|Michigan|2q|3f0|-6i0|l
+West Carthage|US||48|3e5|-5u2|l
+West Wareham|US||48|383|-5gk|l
+Wessem|NL||8m|3y4|gc|l
+Wesoła|PL|Subcarpathia|a5|3uc|1pe|k
+West Gate|CN|Guangdong|7i|1qk|8su|k
+West Rutland|US||48|3d3|-5mx|k
+Westport|US|Washington|3p|3m9|-9kq|k
+Westgate|CA|Newfoundland and Labrador|50|3o2|-42o|k
+Westwood|US|California|3p|2mm|-94z|k
+West Hamburg|US||48|34n|-5v4|k
+Westkerke|BE||8t|3y4|8d|k
+Wesley|ZA||o|-2kk|23y|k
+West Glendive|US||2p|3mv|-82z|j
+West End|US||48|39z|-5sl|j
+West Hurley|US||48|38o|-5pu|j
+Westbury|AU||8g|-37d|bbw|j
+Wesley|DM||2r|179|-4qc|j
+West Homestead|US||48|347|-65z|j
+Wesson|US||2f|2g2|-6z4|j|Wessen
+West Hills|US|Maryland|48|316|-5x3|j
+Westmoreland|US|New Hampshire|48|3bc|-5l8|j
+Westerdokseiland|NL||8m|41j|dl|i
+Vesanto|FI||92|4ut|21e|i|Wesanto
+Westbrook|ZA||o|-2a7|2el|i
+Westendorf|DE|Bavaria|8r|3p5|ts|i
+Westernport|US||48|31p|-63k|i|Western Port
+Veselyy Kut|UA||98|3jx|29d|i|Paris;Vessélyï Kout;Vesely Kut;Wesselyj Kut
+West Paris|US||48|3f4|-5g1|i
+West-Souburg|NL||8m|3yy|9z|i|West-Soeburg;Westsoeburg
+West Rockhampton|AU||8c|-1sy|bm0|i
+West Liberty|US|Ohio|48|33t|-6go|i
+West Arlington|US||48|31a|-5x1|i
+Westmaas|NL||8m|3zv|cf|i
+Westons Mills|US||48|38u|-61q|i|Weston's Mills;Weston Mills
+West Falmouth|US||48|37k|-5g7|h
+West Walton|GB||9b|42e|h|h
+Weston|US|Missouri|2f|31h|-7bm|h
+Westhampton Beach|US||48|35c|-5lp|h|West Hampton Beach
+Westheim|DE|Rheinland-Pfalz|8r|3st|n4|h
+Westwood|US|Kansas|2f|30g|-7au|h
+West Haddon|GB||9b|41e|-30|h
+West Lawn|US|Pennsylvania|48|341|-5v3|h
+Westergellersen|DE||8r|43v|sh|h
+Westonzoyland|GB||9b|3xz|-85|h
+West Horndon|GB||9b|3z9|y|h
+Westhoffen|FR||9k|3r0|ko|g|Weschthoffe
+Westwood|US|California|3p|33z|-9c5|g
+West Unity|US||48|37j|-6ij|g
+Weston|US|Ohio|48|36u|-6gs|g
+Westerhoven|NL||8m|3yl|f0|g
+West Eyreton|NZ||ak|-3cf|dau|g
+Westerzicht|NL||8m|3yy|9z|g
+West Liberty|US|West Virginia|48|33l|-67v|g
+Westensee|DE||8r|46r|ri|g
+West Tawakoni|US||2f|2jd|-7er|g
+Westville|US|Oklahoma|2f|2rz|-7ap|g
+West Wenatchee|US||3p|3ns|-9ab|g
+West Linton|GB||9b|4av|-9c|f
+Western Lake|US||2f|2im|-7jp|f
+West Hindmarsh|AU||8b|-2oz|aow|f
+West Barnstable|US||48|37v|-5fh|f
+Westhampton|US|Massachusetts|48|39i|-5m5|f
+Westendorf|DE|Bavaria|8r|3qx|u4|f
+West Salem|US|Ohio|48|35t|-6c3|f
+West Ferriday|US||2f|2fw|-72d|f
+Westover|US|Alabama|2f|2kn|-6oe|f
+Weston Mills|US||48|38w|-61p|f
+Kemajuan Tanah Bukit Aping Barat|MY||6v|53|80v|e|Bukit Aping Barat;FELDA Bukit Aping Barat;West Aping Mountain
+West Stockbridge|US||48|39n|-5nt|e
+West Baraboo|US||2f|3cr|-6xd|e
+Westport|US|Indiana|38|30u|-6lp|e
+Western Paradise|BZ||24|1cj|-6ta|e
+West Brookfield|US||48|39c|-5ke|e
+West Chatham|US||48|37s|-5ef|e
+Westlaren|NL||8m|43g|ii|e
+West Beach|AU|Western Australia|8k|-2m3|9el|e
+Weselberg|DE||8r|3t2|l5|e
+Wesseln|DE||8r|46l|p8|e
+West Lamington|AU||8k|-2df|9dd|e
+West Nowra|AU||8l|-2ox|bma|e
+West Conshohocken|US||48|33b|-5t8|e
+West Gosford|AU||8l|-2kv|boc|e
+Westlake|CA||2s|49e|-960|e
+West Marion|US||48|2r2|-6bv|d
+West Alexandria|US||48|32e|-6it|d
+West Yellowstone|US||2p|3g2|-8km|d
+West Lorne|CA||59|3ac|-6ao|d
+Westwoud|NL||8m|42d|e9|d
+Westridge|CA|Alberta|2s|44n|-8rl|d
+Westeneng|NL||8m|40t|fw|d|Westenenk
+West Jefferson|US|North Carolina|48|2t4|-6ad|d
+West Swanzey|US||48|3b3|-5kw|d
+Westerlee|NL||8m|43n|jf|d
+West Leechburg|US||48|34u|-655|d
+Westerhorn|DE||8r|45m|qw|d
+Westport|US|Maryland|48|312|-5ww|d
+West Fairview|US||48|33w|-5xo|d
+West Horsley|GB||9b|3ye|-1a|d
+West Buechel|US||3k|2y4|-6ly|d
+Westouter|BE||8t|3x4|7n|d|Westoutre
+Westlake|US|Texas|2f|2jn|-7i0|d
+West Hills|US|Pennsylvania|48|35e|-64y|d
+West Blocton|US||2f|2k0|-6q0|d
+West Crossett|US||2f|2k2|-73j|d
+West Easton|US||48|350|-5t0|d
+West Canton|US||48|2qq|-6e6|c
+Weston|US|New Jersey|48|34k|-5r6|c
+Westfield|US|Wisconsin|2f|3dw|-6wl|c
+Westbrook Estates|CA||2s|44j|-8rf|c
+Westheim|DE|Bavaria|8r|3s4|tn|c
+West Mayfield|US||48|35a|-676|c
+Vesela Dolyna|UA|Odesa|98|3kf|29g|c|Vessela Dolõna;Vesséla Dolyna;Wessela Dolyna;Klöstitz;Cleaşniţa
+Westhaven-Moonstone|US||3p|360|-9kq|c
+Westbroek|NL||8m|40v|e9|c
+Weston|NZ||ak|-3h8|d6s|c
+West Mountain|US||2p|33a|-8mj|c
+West Kennebunk|US||48|3cl|-5g2|c
+Westwood|GB||9b|3yl|-6c|c
+West Coker|GB||9b|3xg|-7h|c
+West Park|US|California|3p|2tz|-98x|c
+Westquarter|GB||9b|4bj|-ae|c
+Westvleteren|BE||8t|3xh|7k|c
+West Kittanning|US||48|35d|-64x|b
+Westfield Center|US||48|35z|-6bl|b|Westfield Centre
+West Lynn Terrace|CA||5b|3t1|-9hr|b
+Wester-Ohrstedt|DE||8r|47f|pj|b
+Westbury|CA||59|3if|-5j2|b
+West Bunghmun|IN||6t|1se|74x|b
+West Haven|AU||8l|-2fw|bse|b
+Westmount|CA|British Columbia|5b|3t3|-9ia|b
+Weste|DE||8r|43e|tq|b
+Wesburn|AU||8j|-2wx|b8j|b
+Westfield|US|Pennsylvania|48|38g|-5ze|b
+West Cape May|US||48|306|-5s6|a
+West Woombye|AU||8c|-223|bst|a
+Westcliff-on-Sea|GB||9b|3z6|1x|a|Westcliff
+West Hetālia|BD||6a|1q2|6yu|a
+Westrichmond|AU||8b|-2p2|aov|a|West Richmond
+Westlake Corner|US||48|2v4|-65e|a
+West Brownsville|US||48|336|-65x|a
+Wesenberg|DE|Schleswig-Holstein|8r|45j|tb|a
+West Point|US|Iowa|2f|354|-721|a
+Westfeld|DE||8r|40l|rk|a
+Westerland|NL||8m|42x|dp|a
+Westwood|US|Pennsylvania|48|331|-5up|a
+Westphalia|US|Michigan|2q|3b9|-6jk|9
+Westerdeichstrich|DE||8r|46g|om|9
+Wessington Springs|US||2f|3eg|-7lt|9
+Westernohe|DE||8r|3wj|mi|9
+West Pelzer|US||48|2o8|-6d3|9
+West Milton|US|Pennsylvania|48|35y|-5xj|9
+West Swan|AU||8k|-2gh|8y7|9
+Westrem|BE||8t|3xl|aq|9
+West Wittering|GB||9b|3x2|-2i|9
+West Winfield|US||48|3b5|-5sv|9
+West Salem|US|Illinois|2f|2z0|-6sg|9
+West Point|US|Kentucky|48|2xk|-6mq|9
+Westminster|US|Texas|2f|2ko|-7fy|9|Westminister
+Weston|GB||9b|43f|-6o|8
+Westhalten|FR||9k|3p8|k6|8
+West Wood|US||2p|321|-8jw|8
+West Middlesex|US||48|36d|-67h|8
+West Siloam Springs|US||2f|2si|-7ap|8
+West Union|US|West Virginia|48|316|-68e|8
+West Runton|GB||9b|432|3g|8
+West Pittsburg|US||48|35p|-678|8
+Westbury-sub-Mendip|GB||9b|3yc|-7k|8
+Westerau|DE||8r|45e|t5|8
+West Butterwick|GB||9b|44q|-22|8
+Westbeemster|NL||8m|422|dm|8
+Westhead|GB||9b|44s|-7w|8
+Westdorf|DE||8r|3zq|vs|8
+Westport|US|Maine|48|3dy|-5dn|8
+West Concord|US|Minnesota|2f|3en|-762|8|Tây Concord
+Westmoreland|US|Kansas|2f|31f|-7ft|8
+West Farms|US||48|35g|-5p8|8
+West-Graftdijk|NL||8m|41z|dc|8|West Grastdijk
+West Hamlin|US||48|2yd|-6cc|8
+Weston upon Trent|GB||9b|42t|-3w|8|Weston-on-Trent
+West Bend|US|Iowa|2f|3bc|-7ac|8
+West Arnhem|AU||8e|-y0|ace|8
+West Nanticoke|US||48|36i|-5v6|7
+Westerwalsede|DE||8r|43b|q0|7
+Westerholz|DE||8r|47d|pr|7
+Westbrook|US|Minnesota|2f|3ec|-7d4|7
+West Meon|GB||9b|3xp|-31|7
+Westover Hills|US||2f|2iy|-7il|7
+West Felton|GB||9b|42q|-89|7|Westfelton
+West Lebanon|US||38|33v|-6qr|7
+West Alto Bonito Colonia|US||2f|213|-7m2|7
+West Barns|GB||9b|4bj|-73|7
+West Point|US|California|3p|2yo|-9at|7|Westpoint
+West Pennard|GB||9b|3y2|-7d|7
+Weston under Penyard|GB||9b|407|-72|7
+West Mansfield|US||48|348|-6g3|7
+Westbury|GB|England|9b|42c|-87|7
+West City|US||2f|2xj|-6v2|7
+Westwood|US|Kentucky|3k|2yc|-6lq|7
+Westhumble|GB||9b|3yd|-y|6
+Weston|US|Oregon|3p|3j9|-94y|6
+West College Corner|US||38|31x|-6jm|6
+Westertimke|DE||8r|43w|pd|6
+West Stockwith|GB||9b|44g|-29|6
+West Strahan|AU||8g|-393|b7o|6
+Westergeast|NL||8m|441|gw|6
+West Milford|US|West Virginia|48|30w|-67c|6
+West Alexander|US||48|33f|-67n|6
+Westley|US||3p|2wb|-9co|6
+West End|AU|Western Australia|8k|-27y|8ua|6
+Westpoint|US||38|343|-6ps|6|West Point
+West Point|US|Alabama|2f|2n4|-6pk|6
+West Chinnock|GB||9b|3xg|-7o|6
+Westfield|US|Maine|48|3ld|-58o|6
+Westfield|US|Illinois|2f|31m|-6sg|6
+Westhausen|DE|Thuringia|8r|3vs|tm|6
+Westcliffe|US||2p|2xx|-84z|6
+Westerleigh|GB||9b|3z4|-6r|6
+West Wildwood|US||48|30c|-5ru|6
+Weston|US|Vermont|48|3c9|-5m7|6
+West Baden Springs|US||38|2z5|-6ol|6|West Baden
+West-Cappel|FR||9k|3xh|6z|5
+West Decatur|US||48|35p|-61g|5
+Wessin|DE||8r|44t|wl|5
+West Alton|US||2f|2zz|-6ym|5|Westalton
+West Chazy|US||48|3gi|-5o7|5
+Weston on the Green|GB||9b|402|-3f|5
+West Valley|US|New York|48|39s|-62d|5
+Westport|US|New York|48|3eq|-5o0|5
+Westhausen|DE|Thuringia|8r|3xq|to|5
+Westerrade|DE||8r|45t|t2|5
+West Elizabeth|US||48|33v|-65y|5
+West Stowe|AU||8c|-1uf|bnt|5
+West Pawlet|US||48|3cf|-5nh|5
+West Toodyay|AU||8k|-2fl|8ze|5
+West Wratting|GB||9b|40u|z|5
+West Island|CC||ab|-xs|7gy|1|Isla oeste

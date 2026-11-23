@@ -1,0 +1,9 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Brno|CZ||9m|3so|1a5|34b|Brünn;Bruna;Berno
+Brno střed|CZ||9m|3sn|1a5|o3|Brno-střed
+Brno-jih|CZ||9m|3sl|1a6|24|Brno-South
+Brnaze|HR||a6|3dc|1a9|v
+Brněnec|CZ||9m|3tv|19w|e
+Brniště|CZ||9m|3wx|14u|e
+Brnakot|AM||80|31q|3jp|e|Brrnakot’
+Brníčko|CZ||9m|3ul|1b5|6

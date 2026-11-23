@@ -1,0 +1,289 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+El Paso|US|Texas|2p|2g8|-87t|58k|El Pasas;El-Paso;Elpaso;Passus
+Piraeus|GR||8p|2xe|1tp|19h|Piräus;El Pireo;El Pireu;Le Pirée;Pireus;Pireu;Pireja;Pireo;Pirėjas;Peiraiás;Pireusz;Pire;Peiraiéfs;Pireas;Pirej;Lo Pirèu;Il Pireo;O Pireo;Peiraiá;Peiraieus;Piraiévs;Peiraievs;Peiraeus
+El Progreso|HN||56|16s|-6rw|s0|Progreso;El Progress
+El Puerto de Santa María|ES||9d|2tn|-hb|ok|El Puerto;Puerto de Santa María;Puerto;Pto. de Sta. María;Portus Sanctae Mariae
+El Pueblito|MX|Querétaro|41|1l2|-7r0|jt|Corregidora;La Corregidora;Pueblito
+El Prat de Llobregat|ES||9d|36t|5t|hm|el Prat;Prat de Llobregat;Prat del Llobregat
+El Palomar|AR||1l|-2o6|-4is|ge
+el Poblenou|ES||9d|370|64|9i
+el Putxet i el Farró|ES||9d|371|5y|85
+Paso Robles|US||3p|2qz|-9b9|7k|El Paso de Robles;Paso De Robles;Pasco Robles
+El Palmar|ES||9d|2xe|-38|6i
+Pilar de la Horadada|ES||9d|2x7|-27|5y|El Pilar de la Foradada
+El Pedregal|PE||3o|-19g|-5kj|5l
+El Paraíso|HN||56|12j|-6of|58
+El Pao|VE||2c|qs|-599|55
+El Palmar|GT||32|14p|-72e|48|Palmar
+el Parc i la Llacuna del Poblenou|ES||9d|370|63|46
+El Playón|CO||27|kr|-5nc|3m
+El Parral|MX||3z|19h|-76c|31
+El Pino|MX|México|41|1hr|-7mv|2b
+El Pueblito|MX|Veracruz|41|1gh|-7hd|29
+Pinoso|ES||9d|2yo|-2w|26|El Pinós;Pinós
+El Paujíl|CO||27|4d|-5t9|24
+El Paso|ES||83|27l|-1do|23
+El Plan|ES||9d|2wl|-2u|23
+El Piñón|CO||27|sw|-5ru|23
+El Progreso|GT||32|13w|-6xl|22|Progreso
+El Peñón|CO|Bolívar|27|oz|-5pf|20
+El Paso|CO||27|qu|-5ov|1s
+El Porvenir|MX|Nayarit|3x|1ln|-84c|1o
+Port de Pollença|ES||9d|32v|8k|1n|el Port;Puerto Pollensa;Puerto de Pollensa
+El Palmar|PA||4g|n3|-6e5|19
+El Pedregal de Guadalupe Hidalgo|MX||41|1hh|-7oa|19
+El Progreso|PA||4g|pq|-63r|17
+El Peñón|DO||4v|1eu|-5hq|15
+El Paraíso|MX|Guerrero|41|1c6|-7qf|11
+El Pardo|ES||9d|34j|-ah|11
+Benitachell|ES||9d|2zl|e|10|El Poble Nou de Benitatxell;El Poble Nou de Benitatxel
+El Puerto|DO||4v|1g6|-5cz|x
+El Porvenir|HN|Francisco Morazán Department|56|128|-6qn|w
+El Pacayal|MX||41|17c|-73o|u
+El Plantío|ES||9d|34f|-am|u
+El Pino|HN||56|17m|-6ph|u
+El Porvenir|HN|Cortés Department|56|17z|-6s9|t
+El Perelló|ES|Valencia|9d|314|-s|t
+El Perelló|ES|Catalonia|9d|35j|1z|t|Perelló
+El Palmar|MX|Querétaro|41|1lh|-7oz|t|Palmar
+El Paso|US|Illinois|2f|356|-6va|s|Elpaso
+El Pardo|PH||71|qu|9j1|s
+El Pedregal de San José|MX||41|1jr|-7ld|s|Pedregal San José;Pedregal de San José
+El Progreso|MX|Chiapas|41|1aw|-76y|r
+El Plan|MX|Jalisco|41|1kq|-7zt|r|El Cerrito
+El Provencio|ES||9d|31e|-75|r
+El Portal|US||48|1zu|-66r|p
+El Porvenir Agrarista|MX||41|18w|-734|p|Porvenir Agrarista
+El Palmar|DO||4v|1f5|-5hx|o|Palmar
+El Paredón|MX||41|1j7|-7kx|o|Paredón
+Acopinalco del Peñón|MX||41|1im|-7ko|o|El Peñón
+El Pla de Santa Maria|ES||9d|36w|3l|o
+El Pital|MX||41|1k0|-7h6|n
+El Pescadero|MX||3x|1sw|-8i1|n
+El Peñol|CO||27|41|-5z4|n
+El Platanal|MX||41|1jq|-7wy|n|Platanal
+El Porvenir|HN|Atlántida Department|56|17r|-6ph|n|Porvenir
+El Papayo|MX||41|1bc|-7qh|m|Papayo
+el Pont de Suert|ES||9d|39t|22|m
+El Plan|HN||56|16l|-6sb|m
+El Pozole|MX||3x|1rn|-867|k
+San Esteban Cuecuecuautitla|MX||41|1gt|-7mk|j|San Esteban Cuecuecuantitla;El Pueblito
+El Pericón|MX|Guerrero|41|1b6|-7nw|i
+El Perú|MX||44|1z4|-7z2|i
+El Pozo|MX|Chiapas|41|1b0|-74p|i
+El Puesto|MX|Jalisco|41|1o2|-7v8|h
+Nuevo San Juan Chamula|MX|Chiapas|41|18u|-720|h|El Pacayal
+El Porvenir (El Porvenir de Arriba)|MX||44|1zl|-7z1|h
+El Pedernal|HN||56|14u|-6q0|g
+El Paisnal|SV||2u|12t|-6vu|g|Paisnal
+El Pitahayo|MX||41|19x|-7lp|g
+El Porvenir|MX|Oaxaca|41|1cj|-7cm|g
+El Palmar|MX|Puebla|41|1h6|-7hl|g
+El Pino|DO||4v|1i0|-5ik|f
+El Porvenir I|MX||41|1ho|-7p1|f
+El Puente del Arzobispo|ES||9d|32k|-ed|f|Puente del Arzobispo
+El Palmar (San Gabriel)|MX||41|1at|-76e|f
+El Pintor|MX||41|1ms|-7ld|f
+El Potrerillo (Potrerillo del Rincón)|MX||41|1b4|-7m9|f
+El Porvenir de Velasco Suárez|MX||3z|16y|-74c|e
+El Porvenir|MX|Baja California|58|2h4|-8zy|e|Guadalupe
+El Polvorín|MX|Guerrero|41|1a2|-7mg|e
+El Progreso|MX|Chiapas|41|18s|-736|e
+El Potrero de Sataya|MX||3x|1wl|-8b7|e
+El Porvenir|HN|Comayagua Department|56|14j|-6s5|d
+El Puente|HN||56|10w|-6q0|d
+Villa Madero|MX|Guerrero|41|1f5|-7r1|d|El Potrero
+El Pochotal|MX||3x|207|-8ec|d|Pochotal
+Vicente Guerrero|MX|Sonora|37|24i|-8hi|d|El Portón;Vicenti Guerrero
+El Palmito|MX|México|41|1jc|-7ow|d
+El Progreso|MX|Puebla|41|1jm|-7ig|d
+El Pedernoso|ES||9d|31p|-7n|d
+El Potrero|MX|Veracruz|41|1fw|-7i6|d
+El Palacio|MX||41|1hr|-7o0|d
+El Porvenir|MX|Chihuahua|2h|2es|-864|d|Porvenir
+El Puesto|MX|Guanajuato|41|1kv|-7s3|c
+El Pitahayal|MX||3x|1yr|-8d1|c|Pitahayal
+Yelpin|AM||80|32l|3hb|c|Elpin;Yelp’in;Jelpina;Jelpin
+El Panorama|MX||41|1kd|-7j8|c
+El Porvenir|MX|Veracruz|41|1gk|-7h9|c
+El Pozo|MX|Querétaro|41|1lc|-7qp|c
+El Paraíso|MX|Querétaro|41|1l4|-7qe|c
+El Pedregal|MX|Michoacán|41|1i7|-7tt|c
+El Pueblito|MX|Veracruz|41|1ok|-7li|c
+El Perico|HN|Cortés Department|56|15w|-6sq|b
+El Progreso|MX|Sinaloa|3x|1yn|-8dn|b
+El Palmarcito|MX|Chiapas|41|172|-76x|b
+El Palmar Grande|MX||3z|172|-749|b|Palmar Grande
+El Paraíso (La Charca)|MX||41|1hz|-7fn|b
+El Progreso|MX|Veracruz|41|1jv|-7hh|b
+El Puerto|MX|Chiapas|41|19n|-74r|b
+El Pueblito (Garbanzal)|MX||41|1if|-7h8|b
+El Palmar|MX|Veracruz|41|1g8|-7gj|b|Palmar
+El Peñasco|MX||41|1q1|-7sf|b|Peñasco
+El Paracho|MX||41|1jv|-7ws|b|Paracho
+El Plan|MX|México|41|1ht|-7p8|b
+El Paraíso|MX|Chiapas|41|1bx|-754|b
+El Palmar|MX|Veracruz|41|1hv|-7fv|b
+El Paraíso|MX|Veracruz|41|1co|-7ca|b
+El Pilar|MX|Michoacán|41|1k8|-7to|b
+El Progreso|MX|Puebla|41|1fk|-7ju|b|Progreso
+El Potrero|MX|México|41|1hn|-7pr|a
+San Rafael Tecario|MX||41|1hd|-7tz|a|El Poblado
+Xoconoxtle el Grande|MX||41|1m6|-7si|a|Joconoxtle Grande;El Pueblito
+El Progreso Hidalgo|MX||41|1gd|-7op|a
+El Progreso|MX|Chiapas|41|19a|-73d|a
+El Portal|MX||41|17k|-73u|a
+El Puerto Lázaro Cárdenas|MX||41|1k6|-7n2|a
+El Perico|MX||41|1kk|-7sy|a
+El Pacífico|MX||41|1kb|-7j1|a
+El Paraíso|MX|Guanajuato|41|1mf|-7tn|a
+el Port de la Selva|ES||9d|39m|8w|a|Puerto de la Selva
+El Progreso|MX|Chiapas|41|17b|-746|a|Progreso
+El Portillo de González|HN||56|16g|-6rc|a|Portillo de Gonzalez
+El Perico|HN|Choluteca Department|56|10i|-6pr|a
+El Papayo|PE||3o|-dw|-674|a
+El Potrero|MX|Guanajuato|41|1ka|-7sf|a
+El Progreso|MX|Puebla|41|1h8|-7hl|9
+San Juan Espanatica|MX||41|1i6|-7z8|9|El Pueblito
+El Pinar|MX||41|1ak|-759|9|Pinal
+El Progreso|MX|Chiapas|41|1cd|-74l|9
+El Pañuelito|MX||37|295|-8mj|9
+El Paisano|MX||41|1id|-7hq|9
+El Pueblito|MX|Michoacán|41|1j2|-7v5|9
+El Pescadero|HN||56|12p|-6of|9|Pescadero
+El Picacho|MX|Querétaro|41|1jw|-7q3|9
+Elpersbüttel|DE||8r|467|p5|9
+El Palmito|MX|San Luis Potosí|41|1n1|-7m7|9
+El Pozo Santo (Crucero del Tule)|MX||41|1hp|-7z7|9
+El Porvenir|MX|Oaxaca|41|1ef|-7fa|9
+El Porvenir|MX|Veracruz|41|1fv|-7cv|9
+El Popotal|MX||41|1ep|-7cq|9|El Papotal
+El Porvenir|MX|Oaxaca|41|1ff|-7g0|9
+El Palmito|MX|Sinaloa|3x|1tg|-860|9
+El Pabellón|MX||41|1ac|-7n2|9
+El Polvo|MX||41|1ph|-7vn|8
+El Porvenir|MX|Michoacán|41|1in|-7rj|8
+El Peñón|CO|Santander Department|27|i7|-5mb|8
+El Progreso|MX|Chiapas|41|1c0|-737|8
+El Porvenir|MX|Sinaloa|3x|201|-8f2|8
+El Pensil|MX||44|1r2|-7o4|8
+El Peñón|MX|Guanajuato|41|1lb|-7rk|8
+El Piñal|MX|San Luis Potosí|41|1n1|-7mb|8
+El Porvenir|MX|Zacatecas|41|1re|-7vz|8
+El Pozo|MX|Puebla|41|1kz|-7k5|8
+El Progreso|MX|Puebla|41|1ja|-7iy|8
+El Prado Pacayal|MX||41|1ac|-72n|8
+El Puente|MX|Nayarit|3x|1op|-84d|8
+El Progreso (Chintul)|MX||41|1bw|-77y|8
+El Perdigón|ES||9d|371|-fz|8
+El Picacho (San Antonio el Picacho)|MX||41|1gu|-7ob|8
+El Palmar|MX|Guerrero|41|1d1|-7oo|8
+El Pingo|AR||1n|-2fq|-4md|8
+El Pozo|MX|Chiapas|41|1at|-755|8|Los Pozos
+El Encanto|MX|Veracruz|41|1dz|-79g|8|El Pesquero
+El Progreso|MX|Puebla|41|1hv|-7i9|8
+El Paso|MX|Michoacán|41|1ic|-7qs|7
+El Porvenir Chopopo|MX||41|1nd|-7kp|7
+El Platanar|MX|Chiapas|41|15w|-740|7
+El Picacho|MX|Guanajuato|41|1mj|-7qb|7
+El Picazo|ES||9d|31l|-5s|7
+El Progreso (Villa Esmeralda)|MX||41|1ip|-7n8|7
+El Peral|ES||9d|31q|-5a|7
+El Pedregal|MX|Hidalgo|41|1je|-7no|7
+El Pando|MX||41|1hc|-7fh|7
+El Porvenir|MX|Veracruz|41|1fr|-7h6|7
+El Peñón|CO|Cundinamarca|27|el|-5qd|7
+El Palmito|MX|Michoacán|41|1k5|-7v7|7
+El Progreso|MX|Chiapas|41|15x|-744|7
+El Puente|MX|Guerrero|41|1bn|-7o4|7
+El Pozo|MX|Sinaloa|3x|1x7|-89x|7
+El Pinalito|MX||41|1me|-7ng|7|Pinalito
+El Pueblito (El Realito)|MX||3x|1zs|-8ce|7
+El Platanar (Santa María Guadalupe el Platanar)|MX||41|1cl|-7ln|7
+El Pichi|MX||41|1ds|-70u|7|El Piche
+El Palenque Palotal|MX||41|1gp|-7he|7
+El Pocito (El Pocito de la Virgen)|MX||41|1ko|-7ri|7
+El Paraíso|MX|Veracruz|41|1e3|-7db|7
+El Pilar|MX|Durango|44|1zh|-7z4|7
+El Palmar|MX|Tabasco|3z|1ch|-70w|7
+El Paraíso|MX|Querétaro|41|1l1|-7qv|7
+El Paso|US|Wisconsin|2f|3gd|-74i|7|Elpaso
+El Potosí|MX||44|1uj|-816|7
+El Pedregal de Arriba|MX||41|1ko|-7uj|7
+El Pinabeto|MX||41|1bt|-768|7
+El Porvenir|MX|Oaxaca|41|1a9|-7bb|7
+El Progreso|MX|Oaxaca|41|1ed|-7g7|7
+El Porvenir|PA||4g|mv|-6bb|7
+Plan de Ayala|MX|Puebla|41|1kr|-7k0|7|El Piñal
+El Portezuelo|MX||41|1l8|-811|6|Portezuelo
+El Posquelite|MX||41|1d4|-7u5|6
+El Paraíso|MX|Chiapas|41|1dc|-76z|6
+El Palmar|MX|Tabasco|41|1ea|-76v|6
+El Potrero|MX|Nuevo León|44|21c|-7qz|6
+El Puente|MX|Guanajuato|41|1mf|-7uj|6|El Fuente
+El Paso Real|MX||41|1ig|-80s|6
+El Paraíso|MX|Oaxaca|41|1bb|-7gu|6
+El Puente (Ejido Guayabos)|MX||41|1oa|-7ob|6
+El Potrero Oriental|MX||41|1bo|-7oe|6
+General Máximo García|MX||44|1ul|-836|6|El Pino
+El Potrerito (El Potrero)|MX||41|1gp|-7p5|6
+El Pueblito|MX|Durango|44|1ul|-82w|6|Pueblito
+El Platanar|MX|México|41|1gb|-7oa|6|Platanar
+El Potrerillo|MX||41|1gy|-7hw|6|Potrerillo
+El Potrero|MX|México|41|1ha|-7o4|6
+El Paraíso (Mecoxtla)|MX||41|1ho|-7my|6
+El Puente|MX|México|41|1ib|-7q5|6
+El Porvenir|MX|Aguascalientes|41|1ps|-7vz|6
+El Palmar|MX|Veracruz|41|1kt|-7i5|6|Palmar
+El Palmar|MX|Veracruz|41|1l9|-7in|6
+El Porvenir Tres Picos|MX||41|1c6|-75z|6
+El Progreso|MX|México|41|1iq|-7p5|6
+El Paso|MX|Veracruz|41|1gq|-7hz|6
+El Portillo|MX|Oaxaca|41|19w|-7im|6|Portillo
+El Pinal|MX|Chiapas|41|16a|-743|6
+El Platanar|MX|Veracruz|41|1ex|-7cu|6
+el Pertús|FR||9k|39z|7y|6|Le Perthus
+Elphin|IE||8z|45l|-ms|6|Ail Finn
+El Porvenir|MX|Guerrero|41|1am|-7nj|6
+El Porvenir|MX|Tabasco|41|1ec|-78h|6
+El Paraíso|MX|Guerrero|41|1b1|-7n0|6
+El Portillo|MX|Chiapas|41|1av|-76y|6
+El Potrero|PA||4g|no|-67o|6
+El Papalote|MX||3x|1oi|-845|5
+El Paraíso|MX|Hidalgo|41|1jq|-7ma|5
+El Porvenir|MX|Chiapas|41|1bq|-77f|5
+El Porvenir Número Dos|MX||41|1k3|-7hw|5
+Elphinstone|AU||8j|-2v2|b4x|5
+El Progreso|MX|Durango|44|1wg|-838|5
+El Platanito|MX||3x|1yz|-8cv|5
+Elphinstone|GB||9b|4bc|-89|5
+El Pescadito|MX||41|1or|-7q1|5|Pescadito
+El Porvenir|MX|Oaxaca|41|1cp|-7gx|5
+El Paraíso|MX|Chiapas|41|1df|-73o|5
+El Peñón|MX|México|41|1gx|-7q3|5
+El Palmarcito|MX|Chiapas|41|174|-74a|5
+El Parnaso|MX||41|1e1|-77n|5
+El Pino|MX|Chiapas|41|16y|-740|5
+El Prieto|MX||41|1py|-7ve|5
+El Puerto|MX|México|41|1j8|-7ou|5
+El Pericón|MX|Veracruz|41|1lc|-7kx|5
+El Potrero (Ejido Purificación)|MX||41|1io|-7mn|5
+Praxedis Guerrero|MX|Tamaulipas|44|1qt|-7n5|5|El Pachón;Praxedis G. Guerrero;Pachón
+El Penitente|MX||41|1mu|-7uc|5
+El Pajarito|MX||41|1od|-7ow|5
+El Paranal (Arocha)|MX||3x|1n4|-83w|5
+El Potrero|MX|Guanajuato|41|1o3|-7tp|5
+El Paraíso|MX|Chiapas|41|198|-72u|5
+El Pig|MX||41|1ah|-75o|5
+El Polvorín|MX|Veracruz|41|1f8|-7cm|5
+El Pípila|MX||41|1dw|-72g|5
+El Pochote|MX||41|1he|-7fs|5
+El Porvenir Número Uno|MX||41|1kn|-7ia|5
+El Pedregal|MX|Morelos|41|1gt|-7my|5
+El Pinito|MX||41|1mc|-7qw|5
+El Porvenir|MX|Quintana Roo|2b|1mk|-6po|5
+El Portillo|MX|Chiapas|41|19q|-772|5
+El Prado Estates|US||4i|2iv|-8u4|5
+El Poleo|MX||41|1lz|-7px|5|Poleo
+El Puentecito|MX||41|1gk|-7ob|5
+El Punto|MX||41|1bu|-7gb|5

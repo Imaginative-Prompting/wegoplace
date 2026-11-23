@@ -1,0 +1,101 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hezhou|CN||7i|1vs|8lx|7rb|Hô̤-ciŭ;Che-čou;Fo-chû-sṳ;Hạ Châu;Hohcouh;Hō-chiu-chhī
+Hegang|CN||7i|3nj|a1x|5qh|Che-kang;Hạc Cương;Hŏk-gŏng;Ho̍k-kong-chhī
+Hebi|CN||7i|2r9|8th|4wb|Che-pi;Hạc Bích;Hŏk-biáh;Ho̍k-piah-chhī
+Hachiōji|JP||7q|2r2|ar0|4gy|Hachiouji;Haĉioĝi;Hačiodžis;Hatiôzi-chhī
+Hachinohe|JP||7q|34i|ax2|1ue
+Heihe|CN||7i|3vk|9u5|1q6|Chej-che;Hắc Hà;Háik-ò̤;Hek-hô-chhī;Hei-ho
+Hatsukaichi|JP||7q|2nf|a7l|vq|Hacukaiĉi;Hatukaiti-chhī;Hatukaiti
+Hacienda Santa Fe|MX||41|1l0|-7z6|o5
+Izmayil|UA||98|3hz|284|jf|Izmaïl;Ismail;Ismajil;Hacidar;Smeilu;İşmasıl;Izmajila;Izmajilas;Izmajil;İsmailiye;Mehmedabad;Smil
+Xaçmaz|AZ||61|376|3rl|is|Hacimaz;Haçmaz;Xachmaz;Khachmaz
+Hacienda Heights|US||3p|2mf|-93p|f0
+Hacienda La Calera|CL||4u|-2j2|-5hu|dn
+Hackensack|US||48|35l|-5po|cg|Hackensac;Hackinsack
+Ḩajjah|YE||5r|17l|3d5|c3|Haccah;Hojja;Hajja;Hacca;Hajje
+Haji Zeynalabdin|AZ||61|34u|3to|8b|Nasoslu;Hacı Zeynalabdin;Hacı Zeynalabdin Tağıyev
+Hachimantai|JP||7q|32u|aw1|6z|Hačimantai;Hačimantajus;Hatimantai-chhī
+Hacıqabul|AZ||61|338|3ry|6f
+Hacılar|TR|Kayseri|94|2zc|2qh|5w
+Gadzhiyevo|RU||9i|5ce|2km|3y|Gadschijewo;Gadjievo;Gadžievo;Hacıyevo;Gadzhijevo;Gadĵijevo;Gadžijevo;Gadžijewo;Gadžijevas;Gadzjijevo;Gadżyjewo;Gadjiyevo
+Jimbolia|RO||8u|3j7|1lk|31|Hatzfeld;Hacfeld;Haczfeld;Žimbolija
+Hachīrūd|IR||7o|2tw|3ym|2w|Hecherūd;Hachrūd;Hechrūd;Hīch Rūd
+Hacarí|CO||27|n4|-5n7|2p
+Hackettstown|US||48|35h|-5rv|2o|Hacket Town;Hacketstown;Halketstown;Hacket's Town
+Hacienda Huancane|PE||3o|-17y|-5gx|26|Huancane
+Hacienda Blanca|MX|Oaxaca|41|1bm|-7gu|26
+Hachijō|JP||7q|2jy|asa|20
+Hacıbektaş|TR||94|306|2o0|1x
+Hacienda Pucala|PE||3o|-iu|-654|1r
+Hachenburg|DE||8r|3wq|lq|1l
+Hachirougata|JP||7q|32x|at4|1k
+Hacienda San Marcos [Fraccionamiento]|MX||41|1ol|-7w3|1e
+Hacienda los Fresnos|MX||41|1l0|-7z7|19
+Achajur|AM||80|35v|3hf|17|Achasu;Açacur;Haçasu
+Venustiano Carranza|MX|Coahuila|44|1yf|-7y0|17|Hacienda de Hornos
+Hackham|AU||8b|-2po|aot|13
+Haccourt|BE||8t|3wx|fr|12
+Hacienda Santa Rosa|PH||71|td|9hy|12
+Hacienda San Pedro|MX||44|1zz|-7q8|11
+Hackham West|AU||8b|-2pm|aor|z
+Hacienda Nueva|MX|Zacatecas|41|1re|-7x1|y
+Haczów|PL||a5|3ty|1ou|y
+Hacıpaşa|TR||94|2s7|2t1|x
+Hackett|AU||8l|-2px|bic|t
+Hacienda|PH||71|18a|99u|p
+Hacıveliler|TR||94|2t1|2c3|o
+Hacienda la Cruz [Fraccionamiento]|MX||41|1lb|-7qi|o
+Hacienda Refugio|PH||71|t8|9iw|n
+Hacienda de Márquez|MX||41|1lq|-7tk|n
+Hatsik|AM|Armavir|80|33l|3e3|n|Imeni Voroshilova;Hats’ik;Hacik;Nairi;Atsik
+Hacımehmetli|TR||94|2tk|2gt|l
+Hackenheim|DE||8r|3uf|ly|k
+Hacienda de Cabañas|MX||41|1bi|-7r3|k
+Hacienda Vieja del Castillo (Castillo Viejo)|MX||41|1l2|-7ys|j
+Hacienda Tecate|MX||58|2ih|-8zo|j
+Hacıhüseynli|AZ||61|376|3r5|h
+Hacienda Sotavento|MX||41|1h5|-7f6|g
+Hacienda Arriba|MX||41|1mz|-7ui|g|Hacienda de Arriba
+Hacheney|DE||8r|3z0|kt|g
+Hackleburg|US||2f|2n8|-6rz|f
+Hackleton|GB||9b|40z|-2a|e
+Hacienda de la Bolsa|MX||41|1kl|-7sv|d|La Bolsa
+Hackberry|US|Louisiana|2f|2bc|-77a|d
+Hacılar|TR|Zonguldak Province|94|379|2h5|c
+Hacıhalilarpaç|TR||94|2u0|2ni|a
+Hackberry|US|Texas|2f|2k3|-7h8|a
+Hacıköy|TR||94|35u|21r|a
+Halkirk|GB||9b|4ij|-9p|a|Hacraig
+Hacılar|TR|Bingöl|94|30m|35e|a
+Hacıaliobası|TR||94|2x3|24z|a
+Hacıbeyli|TR|Afyonkarahisar Province|94|30i|2c4|9
+Hacienda Nueva (San Pedro el Águila)|MX||41|1hp|-7il|9
+HaH̱otrim|IL||6n|2iz|2p4|9|Ha-Chotrim;HaChotrim;HaHoterim
+Hackett|US||2f|2pr|-7a9|8
+Hacienda Guadalupe|MX||41|1lw|-7th|8
+Hacienda los Encinos|MX||41|1j0|-7n4|8
+Hacıekber|TR||94|2ua|307|8
+Hacibeyli|TR|Adana|94|2vn|2ro|8
+Hachy|BE||8t|3u2|fs|8
+Hacıhalit|TR||94|31j|3de|7
+Goncalı|TR||94|32q|3b3|7|Haçlu
+Hacıali|TR|Adana|94|2ua|2py|7
+Los Cuatillos|MX||44|1xq|-809|6|Hacienda de Pedriceña
+Hachelbich|DE||8r|3ym|uh|6
+Hacımusalı|TR||94|2vn|2q0|6
+Hacienda Santa Rosa [Fraccionamiento]|MX||41|1lp|-7r0|6
+Hatsavan|AM||80|33i|3g1|6|Hats’avan;Hacavan;Atsavan
+Hacketstown|IE||8z|42u|-i8|6|Baile Haicéid;Hakestaunas
+Hacısekililer|TR||94|2uc|2cs|6
+Hacienda Vieja|MX||41|19y|-7gs|6
+Hacienda del Mar|MX||58|2i3|-919|6
+Hacıhasan|TR||94|32f|2iz|6|Hacıhasar
+Hackney|AU||8b|-2oz|ap2|6
+Hacıobası|TR||94|2u1|2fq|6|Hacıobasti
+Hacıali|TR|Ardahan|94|35q|3b8|5
+Hackås|SE||9w|4us|14c|5
+Hacienda Blanca|MX|Querétaro|41|1kb|-7q2|5
+Hacıağa|TR||94|32y|3fk|5
+Hacienda Nueva|MX|Aguascalientes|41|1ov|-7wc|5
+Hackberry|US|Texas|2f|2a6|-7h4|5
+Hacıhüseyin|TR||94|329|24t|5

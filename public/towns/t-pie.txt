@@ -1,0 +1,290 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Pietermaritzburg|ZA||o|-2aa|2cf|6h5|Pitermaricburgas;Petromaritzburgum;Mokokotlofo;Pitermaricburg;Pietermaritsburg
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Petrozavodsk|RU||9i|4rm|2nf|25k|Petrosawodsk;Petroskoi;Petrozawodzk;Petroskoj;Pietrozawodsk;Äänislinna;Petrozawodsk;Petrosavodsk;Pjetrozawodsk;Petrozavodszk
+Polokwane|ZA||o|-1ue|29v|23p|Pietersburg;Polokvanė;Petriburgum;Pietrsburg
+Petropavl|KZ||5s|48f|5c3|1jt|Petropawl;Pietropawłowsk;Kızılyar;Petropawlowsk
+Petropavlovsk-Kamchatsky|RU||6p|43e|c8n|1ec|Petropawlowsk-Kamtschatski;Petropávlovsk-Kamchatski;Petropavlovsk-Kamtchatski;Pietropawłowsk Kamczacki;Petropàvlovsk-Kamtxatski;Petropavlovsk-Kamčatskij;Petropavlovsk-Kamtšatski;Petropavlovsk-Kamtsjatski;Petropavlovsk Kamciațki;Petropavlovsk-Kamtsjatskij;Petropavlovsk-Kamchatskiy;Petropawlofsk-Kamtsjatski;Petropavlovsk-Kamçatski;Petropavlovsk-Kamtjatskij;Petropavlovszk-Kamcsatszkij;Petropavlovsk Kamchatsky;Petropaulovscum Camtschaticum;Kamčiatkos Petropavlovskas;Petropavlovska-Kamčatska;Petropavlovsk Kamčatski;Petropavlovsk Kamčatkal;Petropavlovsk Kamchatski
+Piedecuesta|CO||27|jf|-5mx|19e
+Piedras Negras|MX|Coahuila|3w|27q|-7r8|15q|Piedrasnegras
+Piet Retief|ZA||o|-231|2dl|nf
+Piła|PL||a5|43n|1ai|kz|Piéła;Pyla
+Peterhof|RU||9i|4mc|2b2|kc|Petergof;Pietarhovi;Pjetergof;Petrodvorets
+Pierrefonds-Roxboro|CA||59|3ie|-5p4|kc
+Piekary Śląskie|PL||a5|3vy|1gl|gm|Pekarai;Pekari Slonski;Pjekary
+Pierrefonds|CA||59|3ia|-5p9|gf
+Piedade|BR||4w|-1tv|-3nr|ff
+Pula|HR||a6|3gn|12h|ei|Pola;Pietas Iulia;Pulj;Pul;Puola
+Biantang|CN||7i|2nm|92t|cv|Pien-t’ang
+Petroşani|RO|Hunedoara County|8u|3i6|1sx|ca|Petrozsény;Petroşeni;Pietroşani
+Piendamo|CO||27|7c|-5wl|c8
+Pierrefitte-sur-Seine|FR||9k|3s1|6k|7r|Petraficta ad Sequanam
+Piecki-Migowo|PL||a5|470|1fm|7k
+Piešťany|SK||8s|3qz|1dj|7h|Pieszczany;Pöstyén;Pještjani
+Jakobstad|FI||92|4wv|1r2|5h|Pietasaari;Pietarsaari;Yakobstad
+Piedade|PT||99|2zf|-pg|5f
+Pietrasanta|IT||9o|3e4|sf|59
+Pieksämäki|FI||92|4t2|23d|4s|Pieksämä;Pieksyamyaki
+Péruwelz|BE||8t|3wb|9z|4m|Piérwé;Perwé-e-Hinnot
+Pestovo|RU||9i|4ir|2rg|4f|Piestowo;Pjestowo;Pestowo
+Petushki|RU||9i|4bd|31m|4f|Petusjki;Petuschki;Petouchki;Petuški;Petoesjki;Petuixkí;Petuškad;Pietuszki
+Piera|ES||9d|37c|4v|4a
+Peresvet|RU||9i|4cq|2y2|46|Pereswet;Pjerjeswjet;Pierieswiet
+Petrov Val|RU||a4|3va|3hl|45|Petrow Wal;Pjetrow Wal;Pietrow Wał
+Pierre|US||2f|3f9|-7qr|3x|Piras;Pīra;Pirs;Pyer
+Pechory|RU||9i|4gm|24p|3o|Petseri;Petsjory;Petschory;Petchory;Pečory;Petzuria;Peĉori;Pieczory;Pječory;Pechery
+Río Grande|MX|Oaxaca|41|18h|-7io|3l|Piedra Parada
+Piên|BR||4w|-20i|-3tb|3l|Piem
+Pierrelatte|FR||9k|3fa|d2|3j|Pèiralata
+Pieve Emanuele|IT||9o|3hz|pk|39
+Piedmont|US|California|3p|2x2|-9fj|36|Pyemont
+Piedimonte Matese|IT||9o|36v|13x|34
+Petrikov|BY||9g|40t|276|2v|Pyetrykaw;Pietrykaŭ
+Pierre-Bénite|FR||9k|3iy|de|2s
+Pieve di Soligo|IT||9o|3ji|xt|2n
+Piedras Blancas|ES||9d|3d0|-gm|2n
+Pieszyce|PL||a5|3wv|1a2|2m|Pešice;Peterswaldau
+Piedras Negras|MX|Veracruz|41|1g5|-7f5|2g
+Pieve a Nievole|IT||9o|3dw|u0|2f
+Piedra Blanca|DO||4v|1gc|-5fc|2d
+Piedade de Caratinga|BR||4w|-1iw|-38w|2d|Piedade
+Pietra Ligure|IT||9o|3en|n0|2d|A Prïa
+Pierrelaye|FR||9k|3s6|5z|21
+Piedmont|US|Oklahoma|2f|2r0|-7jj|1z
+Pietraperzia|IT||9o|2vy|13a|1w|Petrapirzia
+Piechowice|PL||a5|3x9|17c|1t|Petersdorf;Pehovice
+Piébly Un|CI||0|k5|-jo|1s|Piébly
+Pieve di Cento|IT||9o|3g7|vf|1r
+Pietroşani|RO|Arges|8u|3hi|1x1|1n
+Pieńsk|PL||a5|3yd|15t|1m|Penzig;Pjeńsk;Peņska
+Piedras|CO||27|cm|-5s0|1l
+Peno|RU||9i|4e5|2iy|1g|Pieno
+Piedmont|US|South Carolina|48|2oe|-6d2|1f
+Piedade dos Gerais|BR||4w|-1kv|-3ev|1e|Piedade dos Geraes
+Pietà|MT||9e|2rp|149|1d
+Piedrabuena|ES||9d|30g|-bm|1d
+Pierrefeu-du-Var|FR||9k|3c2|h3|1c|Pèirafuec
+Piedmont|US|Alabama|2f|2m8|-6lt|1b
+Piedade do Rio Grande|BR||4w|-1nn|-3es|1a
+Pietrzykowice|PL|Silesia|a5|3u2|1h8|17
+Pie de Gallo|MX||41|1lr|-7r5|15
+Maloye Verevo|RU||9i|4ll|2bt|15|Maloje Verevo;Pieni-Verevä
+Mont Fleuri|SC||ae|-cv|4a1|15|Pier Ward
+Piesteritz|DE||8r|403|z0|14
+Piedade de Ponte Nova|BR||4w|-1k9|-3ap|14
+Pielavesi|FI||92|4vn|22b|13
+Pietramelara|IT||9o|36n|13f|13
+Pietra la Croce|IT||9o|3d4|11m|12
+Pietroasele|RO||8u|3ha|21t|11
+Pieleştí|RO||8u|3f5|1uj|10
+Pietra Alta|IT||9o|3hc|lf|10|Pràuta;Pietralta
+Pierrevert|FR||9k|3dp|fz|10|Pèirevèrd;Peiravèrd
+Pietroasa|RO|Bihor County|8u|3le|1qn|y|Vasaskőfalva;Petroasa
+Piedimonte Etneo|IT||9o|2x1|166|y|Piemunti;Piedimonte Etnea
+Piedra del Águila|AR||1s|-339|-5eo|y|Piedra de Aguila
+Pietroşani|RO|Teleorman County|8u|3df|1z8|y|Petrosani
+Pieve di Cadore|IT||9o|3ky|yc|x|Piava di Cadore;Piave di Cadore
+Piecki|PL||a5|45c|1na|x
+Pieterlen|CH||a7|3n2|ke|x|Perles
+Pietroşiţa|RO||8u|3hi|1yn|x
+Pieve|IT||9o|3ii|wv|x
+Pietrari|RO|Vâlcea County|8u|3ha|1v1|x
+Pie de Pató|CO||27|fc|-5xt|w
+Pyzdry|PL||a5|40x|1d5|w|Pizdri;Pisdri;Pießern;Peisern
+Pierre Part|US||2f|2b9|-71c|w|Pierre Pass;Pierre Port
+Pieris|IT||9o|3j9|11d|v
+Petrovirivka|UA||98|3n8|2c9|u|Zhovten;Petrowiriwka;Pietrowiriwka
+Perșinari|RO||8u|3gg|1yu|t|Pierşinari
+Pieniężno|PL||a5|46o|1jx|s|Peņenžno
+Pechenga|RU||9i|5d5|2el|s|Petschenga;Petsamo;Petsjenga;Pieczenga
+Pierres|FR||9k|3qz|4c|s
+Pietranera|FR||9k|3ao|qa|r
+Piedmont|CA||59|3ji|-5px|r
+Piekoszów|PL||a5|3xc|1ku|r
+Pietramontecorvino|IT||9o|37e|161|q
+Piermont|US|New York|48|360|-5pc|q
+Pieve Ligure|IT||9o|3f9|p9|p|A Ceive de Söi
+Pietroșani|RO|Prahova|8u|3gk|20i|p
+Piedimonte San Germano|IT||9o|37a|127|p|Pedemontium Sancti Germani;Pedimunti San Germanu
+Piennes|FR||9k|3sz|g2|p|Pienne
+Pietragalla|IT||9o|357|183|o
+Pielgrzymowice|PL||a5|3un|1ft|o
+Piéton|BE||8t|3w4|by|o
+Piediripa|IT||9o|3c8|11h|o
+Piekielnik|PL||a5|3tg|1ix|n|Pekelnik;Piekielek
+Pienaarsrivier|ZA||o|-1y0|26m|n|Pienaar’s River
+Pietrowice Wielkie|PL||a5|3v4|1e9|m
+Pieve Santo Stefano|IT||9o|3db|xg|m|Plebs Sancti Stephani;Pievi Santu Stefanu
+Pieve Porto Morone|IT||9o|3hb|q8|m|Plebs Portus Moroni;Piev Porta Murón
+Pierrefonds|FR||9k|3t3|8a|m
+Pietravairano|IT||9o|36t|13d|m
+Pierik|NL||8m|41u|gz|m
+Piedralaves|ES||9d|340|-d2|l
+Pierściec|PL||a5|3uf|1g9|l
+Penkun|DE||8r|442|13k|l|Piéńkùń
+Piesendorf|AT||a2|3nd|zc|l
+Pierre-de-Bresse|FR||9k|3m8|el|k
+Piesport|DE||8r|3ul|j8|k
+Piedra de Amolar|MX||41|1ec|-7fx|k
+Piet Plessis|ZA||o|-20o|1vt|k
+Piedmont|US|Missouri|2f|2v7|-6zy|k
+Piedra Gorda|PR||4m|1f7|-55t|j
+Pieve Vergonte|IT||9o|3jt|my|j
+Pieve del Cairo|IT||9o|3h5|og|i
+Piedrancha|CO||27|36|-60a|i|Piedra Ancha
+Pieve Fosciana|IT||9o|3el|sx|i
+Pierson|US||48|298|-6ab|i
+Piedra Pinta|MX||41|1jj|-7hz|i
+Pierce|US|Nebraska|2f|398|-7ix|h
+Piedras Blancas|AR||1n|-2en|-4mj|h
+Piedimonte San Germano Alta|IT||9o|37a|127|h
+Pieve al Toppo|IT||9o|3cl|ws|g
+Piedimonte|IT||9o|36f|12m|g
+Piétrain|BE||8t|3wx|do|g
+Pietrarii de Sus|RO||8u|3hc|1ux|g
+Pietrelcina|IT||9o|36g|158|g
+Piedra Parada|MX|Veracruz|41|1hr|-7hc|f
+Piegolelle-San Bartolomeo|IT||9o|351|156|f
+Pietrele|RO||8u|3ee|20k|f|Petrile;Pietrile
+Pierrot|LC||52|129|-4pa|f
+Pierry|FR||9k|3s6|ay|e
+Pierrefontaine-les-Varans|FR||9k|3n6|i6|e
+Peramoga|BY||9g|41k|2eb|e|Pieramoha
+Piershil|NL||8m|3zv|bz|e
+Piedade|ST||1c|u|ii|e
+Pieve di Bono|IT||9o|3jm|tk|e
+Piégut-Pluviers|FR||9k|3iq|1x|e|Pueiagut de Perigòrd;Puei Gut e Pluviers
+Pietriceaua|RO||8u|3hm|1zp|e|Pietricea;Petriceaua
+Pieve San Giacomo|IT||9o|3hd|sb|e
+Pierrevillers|FR||9k|3sq|gy|e
+Pietrafitta|IT|Calabria|9o|312|19e|e
+Pierz|US||2f|3jq|-79e|e
+Pietrosu|RO|Buzău County|8u|3h6|22c|d
+Pielenhofen|DE||8r|3sb|x8|d
+Pierrefitte-Nestalas|FR||9k|3bc|-7|d
+Pietrosu|RO|Iași County|8u|3ni|21x|d
+Pierre-Châtel|FR||9k|3gw|g1|d
+Pierce City|US||2f|2un|-794|d|Peirce City
+Pietralunga|IT||9o|3co|yj|d
+Pietracatella|IT||9o|37i|15b|d
+Piedra Pesada|MX||41|1ib|-828|d
+Pienza|IT||9o|3bo|wg|c|Pientia
+Pievedizio|IT||9o|3ia|s1|c
+Pietre|IT||9o|352|14m|c
+Piedimulera|IT||9o|3ju|my|c
+Piedra Blanca|MX|Oaxaca|41|1b7|-7bx|c
+Piétrebais|BE||8t|3wx|d8|c
+Piekary|PL||a5|3uy|1j0|c
+Piedras Negras|MX|Guanajuato|41|1kr|-7tn|c
+Pietrari|RO|Dâmbovița County|8u|3h9|1y9|c
+Pietroasa|RO|Timiș County|8u|3jb|1q8|c|Petroasa
+Pietrișu|RO|Giurgiu County|8u|3dh|1zb|b
+Pie' Falcade|IT||9o|3ks|wz|b
+San José Piedras Negras|MX||41|180|-7gb|b|Piedras Negras
+Pieve Fissiraga|IT||9o|3hq|qa|b
+Pierre-Buffière|FR||9k|3ix|3s|b
+Piedras de Lumbre|MX||41|1k9|-7rg|b
+Pierreville|CA||59|3jz|-5m9|b
+Piedra Labrada|MX|Chiapas|41|17k|-74f|b
+Piedras Coloradas|UY||45|-2hx|-4g1|b
+Pieranica|IT||9o|3i7|qp|b
+Pietrosella|FR||9k|388|ol|b
+Pietipssi|CI||0|l8|-eb|b
+Pietreni|RO|Constanța County|8u|3ei|25z|b
+Pietradefusi|IT||9o|360|15c|b
+La Paz|MX|Jalisco|41|1l2|-7y9|a|Piedras Negras
+Petrivka|UA|Odesa|98|3kn|2b7|a|Pietroasa;Petrovka;Piyetroasa
+Pierceton|US||38|36g|-6m3|a
+Pierzchnica|PL||a5|3wu|1ln|a
+Pietracuta|IT||9o|3e3|yd|a
+Pietramurata|IT||9o|3ju|ue|a
+Pierrefort|FR||9k|3gs|7w|a|Pèirafòrt
+Pierrepont|FR||9k|3ta|fv|a
+Pieve Torina|IT||9o|3bk|109|a
+Pie Creek|AU||8c|-20v|brx|a
+Piedra Gorda|MX||41|1qj|-7w9|a
+Piedras Amarillas|HN||56|17k|-6oh|a|Piedras Amarilas
+Pielnia|PL||a5|3tm|1p9|a
+Piedras Anchas (Primera del Monte)|MX||41|1gq|-7p6|a
+Pieusse|FR||9k|3bo|67|a|Piussa
+Pyadykivtsi|UA||98|3qe|1z9|a|Piedicăuți;Piadykivtsi
+Piedra Imán|MX||41|1bg|-7p6|a
+Piedra Grande|MX|Oaxaca|41|1a0|-7iy|a
+Pietrapertosa|IT||9o|34k|18m|a
+Pievepelago|IT||9o|3es|ti|9
+Piedmont|US|West Virginia|48|2w1|-69q|9
+Pieve d'Olmi|IT||9o|3h9|s4|9
+Pielgrzymka|PL|Lower Silesia|a5|3y0|17x|9|Pilgramsdorf
+Pierantonio|IT||9o|3c6|yf|9
+Pieve di Coriano|IT||9o|3h3|uv|9
+Piesau|DE||8r|3wc|v6|9
+Pierrefitte-sur-Sauldre|FR||9k|3nz|5z|9
+Piedra Hincada|MX||41|1n3|-7ls|9
+Pie de la Cuesta|MX|Veracruz|41|1l9|-7l8|9
+Pieve di Teco|IT||9o|3ed|m0|9
+Pierce|US|Colorado|2p|34w|-830|9
+Piedra del Sol|MX||41|183|-7gf|9
+Pieniążkowice|PL||a5|3ti|1j8|9
+Pieve Albignola|IT||9o|3hb|ow|8
+Pierric|FR||9k|3oh|-4u|8|Pierig
+Piedmont|US|West Virginia|48|31o|-63l|8|Piedmond
+Piedra Larga|MX||41|1ka|-7qp|8
+Piedmont|US|South Dakota|2p|3ev|-7z7|8
+Pierreclos|FR||9k|3kp|d1|8
+Pietriș|RO||8u|3m9|25k|8
+Pietrastornina|IT||9o|35w|14w|8
+Piégros-la-Clastre|FR||9k|3g4|e6|8
+Piedras Negras|MX|Puebla|41|1ks|-7jk|8
+Piedra de Agua|MX||41|1ig|-7hc|8
+Pietrafitta|IT|Umbria|9o|3bf|xx|8
+Pietra Marazzi|IT||9o|3gu|o3|8
+Pietrapiana|IT||9o|3de|w1|8
+Pie de la Cuesta|MX|Guerrero|41|1cj|-7qt|8
+Piedra Blanca|MX|Oaxaca|41|196|-7k8|8
+Piedra del Tambor|MX||41|1aa|-7iw|8
+Piegaro|IT||9o|3bd|xk|8|Plagarium;Piegaru
+Piedras Blancas (Piedras Blancas Centro)|MX||41|1i9|-7pl|8
+Piermont|US|New Hampshire|48|3e5|-5k8|8
+Pietole|IT||9o|3hb|u2|7
+Pietreni|RO|Vâlcea County|8u|3hj|1uv|7
+Pieve Saliceto|IT||9o|3gq|tg|7
+Pielgrzymka|PL|Subcarpathia|a5|3tu|1nk|7
+Pierwoszyno|PL||a5|47o|1fe|7|Pierworzyno
+Pie de la Cuesta|MX|Oaxaca|41|1a6|-7kl|7
+Piedra Grande|MX|México|41|1hr|-7o3|7
+Piedra Grande|MX|Veracruz|41|1lq|-7kc|7|El Guayabo
+Podbrdo|SI||9a|3kd|12s|7|Piedicolle
+Pieveottoville|IT||9o|3h1|s8|7
+Petroasa Mare|RO||8u|3iq|1op|7|Petreasa Mare;Pietroasa-Mare
+Piedra Blanca|MX|Guerrero|41|1az|-7oe|6
+Piedra Candela|PA||4g|oo|-6dy|6|Piedra de Candela
+Piedra Blanca|PE||3o|-1dx|-5ey|6
+Pietroasa|RO|Vrancea|8u|3je|234|6|Petroasa
+Piedra Virgen|MX||41|18b|-7gi|6
+Pietroiu|RO||8u|3hw|25g|6
+Pierre-la-Treiche|FR||9k|3r4|gh|6
+Pierreville|FR||9k|3tf|-4y|6
+Piedra Labrada|MX|Veracruz|41|1mv|-7jn|6
+Piedras Grandes|MX||41|1iq|-7h8|6
+Piedra Parada|MX|México|41|1g6|-7p1|6
+Pierron|US||2f|2zq|-6ww|6
+Pietrișu|RO|Olt|8u|3fl|1vn|6
+Pierowall|GB||9b|4ks|-8b|6
+Pierzchów|PL||a5|3up|1kc|6
+Piercetown|IE||8z|418|-i1|6
+Pievebovigliana|IT||9o|3bm|10c|6
+Piedra Ancha|MX||41|1a3|-7l8|6
+Pierrefitte-sur-Loire|FR||9k|3l7|am|5
+Pieszcz|PL||a5|47a|1am|5
+Pietrabbondante|IT||9o|37z|13y|5
+Pieve Tesino|IT||9o|3jz|w9|5
+Pieve Vecchia|IT||9o|3il|tb|5
+Pierrerue|FR||9k|3e4|g7|5
+Pieve di Zignago|IT||9o|3f0|r3|5
+Piedra Labrada|MX|Veracruz|41|1f4|-7b9|5
+Pietrzykowice|PL|Lower Silesia|a5|3xu|1aw|5
+Penyaky|UA||98|3um|1xy|5|Peniaky;Pieniaki;Penyaki
+Piedras Gordas|PA||4g|o0|-67n|5|Piedras Goroas
+Piedra Parada|MX|Chiapas|41|1ar|-77k|5

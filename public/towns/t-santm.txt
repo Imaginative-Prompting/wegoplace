@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sant Martí|ES||9d|372|64|1th
+Saint-Malo|FR||9k|3r5|-5l|e3|Sant-Maloù;Saint Mâlo;Maclovium;Sen Malo;St-Malo;Senmalo
+Sant Martí de Provençals|ES||9d|372|64|7a
+Saint-Mandé|FR||9k|3ro|6q|5x|Sanctus Mandetus;Sant Manden
+Saint-Maximin-la-Sainte-Baume|FR||9k|3cp|ga|48|Sant Maissemin de la Santa Bauma;Sant Maissimin
+Saint-Martin-de-Crau|FR||9k|3d8|dd|38|Sant Martin de Crau
+Saint-Mandrier-sur-Mer|FR||9k|3bo|gh|1y|Sant Mandrier;Sant Mandrier de Mar;Saint-Mandrier
+San Miguel de Salinas|ES||9d|2xi|-27|1r|Sant Miquel de Salines;San Miguel
+Saint-Mitre-les-Remparts|FR||9k|3cq|dx|1m|Sant Mitre;Sant Mitre dei Barris;Saint-Mitre
+Saint-Martin-des-Champs|FR|Brittany|9k|3qy|-ap|1e|Sant-Martin-war-ar-Maez
+San Marino|SM||9q|3e2|yl|19|Saint-Marin;São Marino;San-Marino;San Marinas;Sità de San Marin;Ville de Saint-Marin;San Marins;Cathair San Mairíne;Sen Maren;Civitas Sancti Marini;Sanmarīno;Sant Marin;Sità ëd San Marin
+Saint-Mathieu-de-Tréviers|FR||9k|3dl|aq|19|Sant Matiu;Sant Matieu de Trevièrs
+Saint-Méen-le-Grand|FR||9k|3pv|-63|14|Sant-Meven;Sanctus Mevennus;Saint-Méen
+Saint-Mars-du-Désert|FR||9k|3nk|-3x|14|Sant-Marzh-an-Dezerzh
+Sânmartin|RO|Bihor County|8u|3ml|1p1|13|Váradszentmárton;Sântmartin;Sînmartin
+Saint-Marcellin-en-Forez|FR||9k|3ie|bl|y|Sant Marcelin dau Pònt
+Saint-Michel-Chef-Chef|FR||9k|3n2|-60|y|Sant-Mikael-Keveger;Chemicherium
+Saint-Malo-de-Guersac|FR||9k|3nj|-62|y|Sant-Maloù-Gwersac'h;Sant-Maloù-Gwersach
+Saint-Méloir-des-Ondes|FR||9k|3r4|-5a|x|Sant-Meleg;Saint Meloir des Ondres
+Sant Martí Sarroca|ES||9d|36z|4h|v
+Saint-Molf|FR||9k|3nn|-6r|t|Sant-Molf;Sanctus Madulfus
+Saint-Mars-la-Jaille|FR||9k|3o1|-3a|o|Sant-Marzh-an-Olivenn
+Saint-Mars-de-Coutais|FR||9k|3mv|-4u|o|Sant-Marzh-ar-C'hoad;Sant-Marzh-ar-Choad
+Saint-Martin-Vésubie|FR||9k|3ef|k6|d|San Martino Lantosca;Sant Martin de Lantosca;Sant Martin de Vesubiá;Fanum Sancti Martini Lantuscanorum;Saint-Martin-de-Vésubie
+Saint-Maurice-en-Gourgois|FR||9k|3i4|bm|d|Sant Maurise de Gorgós
+Saint-Médard-sur-Ille|FR||9k|3q3|-4m|c|Sant-Marzh-an-Il
+Saint-Marcel-lès-Annonay|FR||9k|3ht|cv|c|Sant Marcèu dAnonai;Sant Marcel lès Annonay
+Saint-Marc-le-Blanc|FR||9k|3qc|-3x|c|Sant-Mezar-Elvinieg
+Saint-Michel-l'Observatoire|FR||9k|3dz|fw|b|Sant Miquèu de l'Observatòri;Saint-Michel-lObservatoire
+Saint-Même-le-Tenu|FR||9k|3mm|-4z|b|Sant-Masen-ar-Porzh
+Saint-Marc-Jaumegarde|FR||9k|3cz|fc|b|Sant Marc dAis;Sant Marc de Jaumegarda
+Saint-Martin-de-Queyrières|FR||9k|3gi|ia|a|Sant Martin de Cairiera
+Saint-Marcel|FR|Brittany|9k|3os|-6q|a|Sant-Marc'hell
+Sant Maurici de la Quar|ES||9d|38w|5h|9
+Sant Martí de Centelles|ES||9d|381|65|9
+Saint-Malo-de-Phily|FR||9k|3p0|-4z|7|Sant-Maloù-Fili
+Saint-Maime|FR||9k|3dy|g3|7|Sant Maime
+Saint-Malo-de-Beignon|FR||9k|3p8|-5z|7|Sant-Maloù-Benion
+Saint-Martin-de-la-Brasque|FR||9k|3dl|fe|7|Sant Martin de la Brasca
+Saint-Martin-de-Castillon|FR||9k|3du|fb|6|Sant Martin de Castilhon
+Saint-Malo-des-Trois-Fontaines|FR||9k|3pd|-6v|5|Sant-Maloù-an-Teir-Feunteun

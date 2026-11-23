@@ -1,0 +1,336 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Pingdingshan|CN||7i|2lp|8qs|7jz|Pingdingsjan;Pching-ting-šan;Pingdingŝano;Tekshi choqqiliq tagh shehiri;Bình Đỉnh Sơn;Bìng-dīng-săng;Pêng-téng-san-chhī;Pindinshan’;P’ing-ting-shan
+Pingxiang|CN|Jiangxi|7i|24q|8s9|6w8|Bìng-hiŏng;Pching-siang;Phìn-hiông-sṳ;Bình Hương;Phêng-hiong-chhī;Dingsiang;Pingsiang;P’ing-hsiang
+Binzhou|CN||7i|2vt|93u|59n|Bintsjou;Pin-čou;Tân Châu;Bĭng-ciŭ;Pin-chiu-chhī
+Las Piñas|PH||71|145|9c2|4qz
+Pingdu|CN||7i|2u6|997|46m|P’ing-tu
+Pingliang|CN||7i|2qq|88d|3w8|Bìng-liòng;Pching-liang;Bình Lương;Pêng-liâng-chhī
+Pindi Bhattian|PK||6q|2gm|5nj|3t0|Pindi Battian;Pindi Bhatian
+Pingyin|CN||7i|2ss|8zh|2w5
+São José dos Pinhais|BR||4w|-1yx|-3sp|2p7|São José dos Pinhaes
+Valladolid|ES||9d|37q|-d4|2bi|Valadolido;Vayadolid;Pucela;Vallis Tolitum;Pincia;Valladolit;Valdoletum;Valhadolid;Vaładołì;Valladolís;Valjadolidas;Valjadolida;Valyadolid
+Tanjung Pinang|ID||6l|2k|826|1r9|Tanjungpinang;Kota Tanjungpinang;Kutha Tanjungpinang;Tandjungpinang
+La Pintana|CL||4u|-2la|-5g7|1jw
+Pinar del Río|CU||36|1qa|-6gi|1fy
+Pingwu County|CN||7i|2i1|82d|1e0
+Pindamonhangaba|BR||4w|-1ro|-3ia|1bz
+Pembroke Pines|US||48|208|-66u|1aa
+George Town|MY||6v|f1|7qq|17z|Georgetown;Penang;Ĝorĝtaŭno;Khiâu-chhṳ-sṳ;Džordžtaunas;Džordžtauna;Pinang
+Pinetown|ZA||o|-2au|2dt|140
+Pingxiang|CN|Guangxi|7i|1pe|88k|102|Bằng Tường;Bằng Tường thị;Thị xã Bằng Tường;P’ing-hsiang;Pingsiang
+Pinsk|BY||9g|40s|20f|y9|Pinscum;Pinszk
+Pinhais|BR||4w|-1yo|-3sn|wi
+Pingshan|CN|Guangdong|7i|1rv|8un|vk
+Pindiga|NG||u|rq|uf|tj
+Taitung|TW||7l|1r8|9ci|sp|Đài Đông;Táidong;Tchaj-tung;Taito;Pinamu;Taichung;T’ai-tung
+Pinheiro|BR|Maranhão|2w|-70|-3h8|na
+Pingyi|CN||7i|2qm|92r|lr|P’ing-i
+Pingzhuang|CN||7i|38s|97d|ip|P’ing-chuang
+Pinheiros|BR|São Paulo|4w|-1th|-3lp|i3
+Pindi Gheb|PK||6q|2kc|5kq|hq
+Pingnan|CN||7i|1te|8in|hd|Pingnam
+Pine Hills|US|Florida|48|27c|-6a9|gp
+Pingjin|CN||7i|2d1|8aq|fb
+Pinar del Rey|ES||9d|34f|-a5|eg
+Pinellas Park|US||48|25c|-6dq|ec
+Pingli|CN||7i|2hy|8fr|cn|Pin’li
+Ping Shan|HK||6i|1qc|8sp|cm
+Pine Bluff|US||2f|2n3|-73k|cg
+Pinamalayan|PH||71|109|9de|c3
+Pinto|ES||9d|33s|-aa|c3
+Gutao|CN||7i|2vc|8nm|bo|Pingyao;Pingyao County;Xian de Pingyao;Pin’yao
+Pinneberg|DE||8r|452|r8|ba|Pinnbarg;Pinebergas
+Pinamar|AR||1l|-2v3|-4dz|aw
+Perote|MX||41|1ic|-7i4|af|Pinahuizapan
+Poissy|FR||9k|3rx|5p|a4|Pinciacum
+Pinjaur|IN||6t|2dk|5xo|9z
+Pinhão|BR|Paraná|4w|-1ze|-3zi|92
+Pindaré-Mirim|BR||2w|-a1|-3hy|8q
+Pingkai|CN||7i|26z|8es|8m
+Pinerolo|IT||9o|3gp|kd|8l|Pignerol;Pinareul;Peñarol
+Pingtan|CN||7i|2ax|864|8k
+Pinar de Chamartín|ES||9d|34g|-a7|8c
+Pind Dadan Khan|PK||6q|2ij|5mw|8b|Pindi Dadan Khan
+Pinotepa Nacional|MX||41|19e|-7kd|88|Pinotepa
+Pingshan|CN|Chongqing|7i|2bm|8ae|86
+Pineda de Mar|ES||9d|37n|7h|7f|Pineda
+Pinheiral|BR||4w|-1qj|-3e8|6z|Pinheiro
+Pindwāra|IN||6t|1ww|5my|6t
+Pinheiros|BR|Espírito Santo|4w|-1f1|-33p|6n
+Pinhal Novo|PT||99|2zb|-or|6j
+Pindoretama|BR||2w|-b7|-2ye|6i
+Pinillos|CO||27|os|-5qv|6h
+Pinamungahan|PH||71|sj|9ja|6f|Pihamungajan;Pinamangayan;Pinamunganjan;Pinamungajan;Pinamangajan
+Pinhalzinho|BR|Santa Catarina|4w|-22l|-437|64
+Pindobaçu|BR||20|-tu|-344|5l|Pindobassú
+Pināhat|IN||6t|22o|61q|5f
+Pinecrest|US||48|1zb|-673|5f
+Pinole|US||3p|2xk|-9fq|5d|Penole
+Pinner|GB||9b|3zb|-12|5c
+Pangtara|MM||7y|1m6|7gi|4v|Pindaya
+Piñas|EC||33|-a8|-65c|4q
+Pinarāyi|IN||6t|ws|5to|4o
+Pinewood|US|Florida|48|1zv|-66u|4l
+Pindaí|BR||20|-149|-3al|4j
+Pinehurst|US|North Carolina|48|2ps|-64r|4e
+Pinhalzinho|BR|São Paulo|4w|-1ra|-3lf|48
+Pingqiao|CN||7i|29l|8a6|45
+Pindorama|BR||4w|-1mv|-3rv|41
+Pineville|US|Louisiana|2f|2f0|-74r|40
+Pinxton|GB||9b|43h|-3o|40|Pinkstono
+Pinos Puente|ES||9d|2vh|-af|3r
+Piney Green|US||48|2og|-5ys|3p
+Ping’an|CN|Chongqing|7i|2f3|8f8|3o
+Pingawān|IN||6t|25i|5y6|3i
+Pınarbaşı|TR|Kayseri|94|2zk|2t3|3f|Aziziye
+Pinhou|CI||0|j8|-lk|3d
+Pińczów|PL||a5|3wc|1l1|3a|Piņčova;Pinčuvas;Pincow
+Pinheiro Machado|BR||4w|-2fq|-44a|34
+Pincourt|CA||59|3i2|-5pi|34
+Pınarhisar|TR||94|37n|24f|34
+Pınarbaşı|TR|Mersin|94|2ty|2ng|32
+Pine Castle|US||48|273|-6a1|30
+Pinto|CL||4u|-2ty|-5jp|2z
+Pine Hill|US|New Jersey|48|32i|-5sb|2x
+Pintadas|BR||20|-wt|-32v|2w
+Pingba|CN||7i|2gw|8dg|2v
+Pinghe|CN||7i|2eu|8hf|2s
+Pineridge|CA||2s|3xv|-8sj|2r
+Maddela|PH||71|19e|9e0|2q|Pinappagan;Pinapayan
+Pingluo|CN||7i|2l7|84t|2p
+Pine Ridge|US|Florida|48|28e|-6d3|2o
+Ping’an|CN|Chongqing|7i|29v|8ce|2i
+Pine Lake Park|US||48|334|-5qa|2f
+Pineville|US|North Carolina|48|2pg|-68p|2c
+Pingzhai|CN||7i|21e|8ea|2a
+Pinoso|ES||9d|2yo|-2w|26|El Pinós;Pinós
+Peng Chau|HK||6i|1pw|8sr|26|Ping Chau
+Pinkneys Green|GB||9b|3z5|-24|23
+Pinson|US||2f|2ll|-6os|22
+Piñon Hills|US||3p|2nn|-92t|21
+Pinehurst|US|Massachusetts|48|3a5|-5hv|20
+Ping'an|CN|Gansu|7i|2pa|87c|1z
+Pintópolis|BR||4w|-18m|-3hg|1z
+Pino Torinese|IT||9o|3h4|lm|1x
+Pinheiro Manso|PT||99|36c|-o1|1x
+Pınarkent|TR||94|2x0|296|1w
+Pingree Grove|US||2f|38v|-6tl|1u
+Pinhalão|BR||4w|-1u3|-3v2|1u
+Pinglin|TW||7l|1xa|9e3|1t|Phiâng-lìm-khî;Bình Lâm;P’ing-lin
+Pignan|FR||9k|3d2|ag|1r|Pinhan
+Pingzhou|CN||7i|1qp|8s9|1o
+Penne|IT||9o|39x|12p|1o|Pinna
+Pinotepa de Don Luis|MX||41|19n|-7k6|1l
+Pinhão|BR|Sergipe|3r|-td|-2ws|1l
+Pinugay|PH||71|14k|9cu|1l
+Pinos|MX||41|1py|-7u5|1k
+Pinkafeld|AT||a2|3nl|18s|1i|Pinkafő;Pinkaföd;Pinkafelj
+Pinckneyville|US||2f|2xs|-6wa|1i
+Pandasan|PH||71|k8|9pl|1h|Pindasan
+Pine Island Ridge|US||48|20h|-66z|1g
+Pineto|IT||9o|3ad|133|1f
+Pingding|CN||7i|2lz|81r|1f
+Pindushi|RU||9i|4us|2o2|1f|Pindusji;Pinduši;Pinduinen;Pinduschi;Pinduchi;Pinduszy;Pindoesji
+Pingya|CN||7i|2l3|82r|1c
+Pinardville|US||48|3bf|-5in|1c
+Pinarella|IT||9o|3ew|yd|1c
+Pindrai|IN||6t|1qk|66c|1c
+Pinjarra|AU||8k|-2in|8xv|1b
+Pingo-d’Água|BR||4w|-1it|-39t|1b
+Piney|US||2f|2nu|-76p|1b
+Pinehurst|US|Texas|2f|2bt|-7ds|1a
+Pindorama do Tocantins|BR||1k|-uy|-3o6|1a
+Pinagsabangan|PH||71|10v|9cv|1a
+Pinheirinho do Vale|BR||4w|-23l|-44x|19
+Pinayagan Norte|PH||71|rl|9kb|19
+Pinokawan|PH||71|sq|9ih|19|Pinocawan
+Pinetop-Lakeside|US||4i|2mu|-8hg|17
+Pine Level|US|Alabama|2f|2ii|-6o7|16
+Pindangan Centro|PH||71|182|9av|15|Pindangan
+Pınardere|TR|Mardin|94|2w3|35f|14|El’fan;Elfan
+Pinchbeck|GB||9b|42p|-g|13
+Pincher Creek|CA||2s|3tg|-8sj|13
+Pinsdorf|AT||a2|3p5|129|12
+Pinhal Grande|BR||4w|-29j|-443|12
+Pinalejo|HN||56|16r|-6tj|12
+Pinega|RU||9i|4zq|3cj|10|Pinyega
+Pinerovka|RU||9s|3z8|3bn|10|Pionerovka
+Pinheiro Preto|BR||4w|-235|-3yb|z
+Pine Manor|US||48|21t|-6bg|y
+Pine Lawn|US||2f|2zi|-6ys|y|Pinelawn
+Pinambaran|PH||71|168|9c2|y
+Piney Point Village|US||2f|2ao|-7dc|y
+Pinocchio di Ancona|IT||9o|3d3|11h|y
+Pine Island|US|Minnesota|2f|3es|-75d|x
+Pine Ridge|US|South Dakota|2p|3bj|-7ww|x
+Pinoma|PH||71|1av|9e3|x
+Pinit|PH||71|11p|9it|x
+Pinch|US||48|2yp|-6ac|x
+Pinda|CI||0|ly|-7v|w|Pinnda
+Piña|PH|Eastern Visayas|71|xv|9lk|v|PeNa;Weyler
+Pine Hills|US|California|3p|355|-9kv|v
+Pınarbaşı|TR|Bitlis|94|2yx|39g|v
+Pine City|US||2f|3jb|-769|v
+Piņķi|LV||9n|4e6|1uf|u|Pin’ti
+Pines|PH||71|nh|9jx|u
+Piñahan|PH||71|17f|9ca|u|Pinelands
+Pinhal|BR||4w|-24f|-43t|u
+Pinyug|RU||97|4nd|3oq|t|Pinjug
+Pindoba|BR||3r|-qc|-2st|s
+Pinamopoan|PH||71|vf|9m1|s
+Pinhal de São Bento|BR||4w|-20b|-44k|s
+Pinto Bandeira|BR||4w|-28u|-3yx|r
+Pine Ridge|US|Pennsylvania|48|36b|-5sb|r
+Pinagsibaan|PH||71|12f|9d0|r
+Pine Crest|US|Tennessee|48|2ss|-6hp|q
+Pinsaguel|FR||9k|3cv|3v|q
+Pincehely|HU||8v|3lo|1f8|p
+Pınarbaşı|TR|Kastamonu|94|37k|2jz|p
+Pine Hill|NZ||ak|-3jc|d5o|p
+Pinckney|US||2q|39y|-6h7|o
+Fiñana|ES||9d|2v9|-7w|o|Piñana
+Pine Crest|US|Tennessee|48|2su|-6co|o
+Pina de Ebro|ES||9d|379|-1h|o
+Pine Ridge at Crestwood|US||48|32z|-5qg|o
+Pinseque|ES||9d|37y|-32|o
+Panadtaban|PH||71|j6|9m8|n|Pinadtaban
+Pine Mountain Club|US||3p|2ot|-96z|n
+Pinili|PH||71|1dv|9at|n
+Pinhal da Serra|BR||4w|-25f|-3y5|m
+Pinaring|PH||71|k3|9lb|m
+Pine Grove|US|California|3p|2yp|-9b6|m|Pinegrove
+Pinvoro|CI||0|rd|-hd|m
+Pine Beach|US||48|32y|-5q1|m
+Pine Grove|US|Pennsylvania|48|34n|-5w6|l|Pinegrove
+Piatra|RO|Olt|8u|3f8|1vi|l|Pintra
+Pink|US||2f|2py|-7hs|l
+Pinehurst|US|Texas|2f|2bn|-78h|l
+Pinasca-Dubbione|IT||9o|3gu|k3|l
+Pineridge|US||48|2m7|-69a|l|Pine Ridge
+Piña|PH|Western Visayas|71|tk|9go|l
+Pinehaven|NZ||ak|-36c|di4|l
+Pizándaro|MX||41|1h3|-7wu|k|Pinzándaro
+Pinal de Amoles|MX||41|1mq|-7or|k
+Panticeu|RO||8u|3mn|1th|k|Pînticeu
+Pine|US||4i|2ni|-8lm|k
+Pinzberg|DE||8r|3u1|uu|j
+Pinedale|US||2p|3b3|-8h6|j
+Pine Ridge|US|Florida|48|20v|-6b8|j
+Pinzolo|IT||9o|3k8|tw|j
+Pine Level|US|North Carolina|48|2qn|-61c|j
+Pine Island Center|US||48|21x|-6c4|j
+Pınarbaşı|TR|Şırnak|94|2vd|38d|i
+Pinyon|CI||0|q9|-g2|i|Pinion
+Pinsolodougou|CI||0|ng|-cq|i
+Pine Bush|US||48|37l|-5qe|i|Pinebush
+Pineville|US|Kentucky|48|2u4|-6gh|i
+Pinofranqueado|ES||9d|33y|-hl|h|Pinofranqueau
+Pinon|FR||9k|3th|9l|h
+Pinnow|DE||8r|44w|w3|h
+Pinewood Estates|US||2f|2bs|-7a0|h
+Pineta|IT||9o|3l0|vj|h
+Pine Mountain|AU||8c|-24j|bs6|g
+Pine Knot|US||48|2tt|-6ik|g
+Pine Prairie|US||2f|2di|-74r|g
+Pinehurst|US|Idaho|3p|3o2|-8yw|g
+Pinto|MX||41|1ls|-7qx|g
+Pinheiro|BR|Rio Grande do Sul|4w|-2ar|-42i|f
+Pine Valley|US|California|3p|2j6|-8zp|f
+Pine Grove Mills|US||48|355|-60d|f|Pinegrove Mills
+Pinebluff|US||48|2pj|-64r|e
+Pângărăcior|RO||8u|3md|20u|e|Pîngărăcior
+Pine Knoll Shores|US||48|2oe|-5xd|e
+Pinarolo Po|IT||9o|3h7|ph|e|Pinariolum Viqueriorum;Pinarö
+Pine Mountain|US|Georgia|48|2ja|-6jp|e
+Pine Plains|US||48|38m|-5om|e
+Pinggau|AT||a2|3ns|18n|d
+Pinetops|US||48|2rf|-5zo|d
+Pinconning|US||2q|3dt|-6h8|d
+Piney|FR||9k|3qc|c1|d
+Pinos Genil|ES||9d|2v8|-9q|c
+Pine Mountain|US|Georgia|48|2lk|-6hn|c
+Pine Bluffs|US||2p|36e|-813|b|Pinebluff
+Pınarönü|TR|Şırnak|94|2vk|39l|b
+Pınar|TR||94|31v|3as|b
+Piñar|ES||9d|2w0|-9k|b
+Pinto Recodo|PE||3o|-hq|-5ws|b
+Pinet|FR||9k|3cl|9r|b
+Poniklá|CZ||9m|3wq|16y|b|Pinklau
+Pınarlar|TR||94|2w7|28s|b
+Pine Island|US|Texas|2f|2bi|-7es|b
+Pingjiang|CN|Guizhou|7i|205|8d4|b|P’ing-chiang
+Pingjiang|CN|Guizhou|7i|1zp|8du|b|P’ing-chiang
+Pino Suárez|MX|Hidalgo|41|1k9|-7o6|b|Pino Saurez
+Pinheiro Grande|PT||99|31f|-nf|b
+Poundiou|CI||0|qb|-hk|a|Pindiou
+Pintillo|MX||41|1ls|-7qy|a
+Piñícuaro|MX||41|1jp|-7t8|a|Panicuaro
+Pi Naung Sut|MM||7y|23b|7ft|a
+Pińczyce|PL||a5|3we|1hf|a
+Piney View|US||48|2x4|-69d|a
+Pine Brook Hill|US||2p|339|-84j|a
+Pennabilli|IT||9o|3dq|y3|a|Pinna Billorum;Penabiłi;Pennábili
+Pinesdale|US||2p|3kp|-8ta|a
+Pinopolis|US||48|2kb|-66c|9
+El Pinar|MX||41|1ak|-759|9|Pinal
+Pine River|US||2f|3ls|-7a8|9
+Pineda|MX||41|1et|-7s6|9
+Pine Hill|US|Alabama|2f|2gu|-6rb|9|Pinehill
+Pinticu|RO||8u|3me|1w6|9
+Pinon|US||2p|2sa|-8i7|9
+Güttenbach|AT||a2|3n0|199|9|Pinkovac
+Pinnacle|US||48|2sx|-67f|9
+Pink Lake|AU||8k|-2m1|9ei|9
+San Juan Piñas|MX||41|1bu|-7km|9|Piñas
+Piney Point|US||48|2xy|-5wj|9|Pineypoint
+Pine Lakes|US||48|28e|-6a7|9
+José María Pino Suárez|MX|Veracruz|41|1lm|-7lb|9|Pino Suárez
+Pincara|IT||9o|3h0|wa|9
+Pine Valley|US|New York|48|39b|-5xh|8
+Pineland|US||2f|2et|-791|8
+Pinterville|FR||9k|3sn|3a|8
+Pingelly|AU||8k|-2id|918|8
+Pinillo|MX||41|1hl|-7ha|8
+Pineville|US|Missouri|2f|2tn|-7a6|8
+Pinal Grande|MX||41|1h2|-7u6|8
+Pinar de la Venta|MX||41|1lk|-7zk|8
+Pine Lake|US||48|2lv|-6hx|8
+Pinsac|FR||9k|3gm|47|8
+Pigna|IT|Liguria|9o|3e1|la|8|Pinia
+Pınarcık|TR||94|2us|2e8|7
+Pin-Balma|FR||9k|3d7|49|7|Pin de Balmar;Le Pin de Balmar
+Pinnaroo|AU||8b|-2py|avf|7
+El Pinalito|MX||41|1me|-7ng|7|Pinalito
+Pinoltepec|MX||41|1i0|-7gr|7
+Pınaryayla|TR||94|2xa|2yu|7
+San Antonio la Pinada|MX||3z|17e|-74g|7|Pinada de Arriba
+Pınaryazı|TR||94|2vw|29k|7|Selleri
+Pinchote|CO||27|i5|-5n9|7
+Pintura|IT||9o|3cb|11q|7
+Pinhão|PT||99|36f|-kz|6
+Pino Suárez|MX|Aguascalientes|41|1pl|-7vm|6|Rancho Viejo
+Pinckard|US||2f|2ez|-6ln|6
+Pine Falls|CA||5d|3wh|-7fa|6
+Pineville|US|West Virginia|48|2we|-6ai|6
+Pingelshagen|DE||8r|454|vi|6
+Pine Forest|US|Texas|2f|2jz|-7cy|6|Pineforest
+Pingjum|NL||8m|43k|f4|6|Penjum;Pingau
+Pinihuan|MX||41|1ob|-7ol|6
+Pınardere|TR|Aydın|94|2x7|25k|6
+Pinjarra Hills|AU||8c|-24i|bsr|6
+Pinoasa|RO||8u|3gr|1s6|6
+Pin|FR||9k|3ng|ga|6
+Pinchollo|PE||3o|-17e|-5jk|6
+Pinha de Engenho|CV||84|15w|-1tq|6
+Mischendorf|AT||a2|3n3|19b|6|Pinkamiske
+Pinhão|CV||84|1bo|-1xm|6
+Pınarönü|TR|Zonguldak Province|94|36f|2gs|5
+Pink Hill|US||48|2pe|-5zz|5
+Pintic|RO||8u|3ms|1u4|5
+Pinewood|US|South Carolina|48|2lq|-67i|5
+Pinalito de la Cruz|MX||41|1n8|-7nh|5
+Pine Grove|US|West Virginia|48|31x|-684|5|Pinegrove
+Pine Haven|US||2p|3f8|-835|5
+Pine Forest|US|Texas|2f|2bu|-797|5
+Pineview|US||48|2h7|-6fy|5

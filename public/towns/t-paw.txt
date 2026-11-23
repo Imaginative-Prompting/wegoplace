@@ -1,0 +1,58 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pavlodar|KZ||5s|418|5xt|2je|Pawlodar
+Pavlohrad|UA||98|3qt|2rn|s6|Pawlohrad;Pavlograd
+Pawtucket|US||48|38c|-5ia|jw|Potaketas;Potaketa
+Pavia|IT||9o|3hj|pg|i9|Pawia;Pavie;Pavio;Papia
+Pavlovo|RU|Nizhny Novgorod Oblast|9i|4bh|3bp|hl|Pawlowo;Pavlovas
+Pavlovskiy Posad|RU||9i|4ay|2zd|gp|Pavlovskij Posad;Pavlovsky Posad;Pavlovski Posad;Pawlowski Possad
+Pavlovskaya|RU||9i|3k6|32j|8n|Pavlovskaja;Pàvlovskaia;Pawlowskaja
+Pavlovsk|RU|Voronezh Oblast|9i|3w5|33g|7e|Pawłowsk
+Pāveh|IR||7o|2pc|3ks|76|Pāweh
+Pawāyan|IN||6t|25z|66i|75
+Pawgan|MM||7y|1az|7ey|6o
+Pawni|IN||6t|1lr|658|6j|Pauni
+Pavlovsk|RU|St. Petersburg|9i|4ls|2cj|4h|Pauluskoi;Pawlowsk;Pavlovszk;Paviosk
+Pawai|IN||6t|1vf|66o|41
+Pavlikeni|BG||9v|3c4|1yc|34|Pawlikeni;Pavlikem;Pavlikene
+Pawłowice|PL||a5|3us|1g0|2r
+Paola|MT||9e|2rn|14a|2f|Paula;Pawla
+Pawcatuck|US||48|36y|-5jj|1k|Paquatuck;Paucatuck
+Pavlivka|UA|Vinnytsia|98|3tc|272|10|Pavlovka;Pawliwka;Pawlowka
+Pawhuska|US||2f|2tv|-7fm|10|Pawluska
+Paw Paw Lake|US||2q|399|-6nn|z
+Pawa|PH|Bicol Region|71|10m|9jp|z
+Paw Paw|US|Michigan|2q|39a|-6ml|z
+Paw Maing|MM||7y|208|7dp|y
+Pavlovo|RU|Leningradskaya Oblast'|9i|4m5|2du|x|Paulova;Pawlowo
+Pawing|PH||71|v2|9n8|x
+Pawican|PH||71|xj|9kd|w
+Pawnee|US|Illinois|2f|31z|-6wu|r
+Pawłowice-Kłokoczyce|PL||a5|3y4|1bi|q
+Pawak|PH||71|ma|9l6|q|Pawac
+Pawling|US||48|37g|-5og|n
+Pawili|PH||71|11k|9ig|m|Pauili
+Pawnee|US|Oklahoma|2f|2sy|-7gw|m
+Pawa|PH|Western Visayas|71|w4|9h6|l
+Pawa|PH|Bicol Region|71|10h|9k5|l
+Powakka|SR||4h|f5|-490|j|Powaka;Pawakka
+Pawłosiów|PL||a5|3uw|1qx|i
+Powhatan Point|US||48|32q|-68i|g|Pawhattan Point;Powhattan Point
+Pawonków|PL||a5|3wt|1fm|f
+Pavoloch|UA||98|3uj|29u|e|Pavolotsj;Pavoloh;Pavoloč;Pawołocz;Pavoloci
+Pawlet|US||48|3cf|-5na|e
+Pawłowiczki|PL||a5|3vl|1e5|d
+Pawlikowice|PL||a5|3ur|1jp|c
+Pawłów|PL|Świętokrzyskie|a5|3xk|1mo|b
+Pavlivka|UA|Odesa|98|3n8|2a5|a|Pawliwka;Pavlovka
+Pavlíkov|CZ||9m|3v2|126|a|Pawlikow
+Pemenang|ID||70|-nc|8yi|a|Pawenang
+Pawłów|PL|Lublin|a5|3y3|1sh|a
+Pawlett|GB||9b|3y6|-8c|9
+Pavlivka|UA|Volyn|98|3wn|1vy|8|Poryck;Pawliwka;Pavlovka
+Pawnee City|US||2f|33f|-7f3|8
+Paw Paw|US|Illinois|2f|37t|-6v6|8|Pawpaw
+Pawłów|PL|Mazovia|a5|3yd|1lu|8
+Pawłów|PL|Silesia|a5|3v7|1ed|7
+Päwesin|DE||8r|41v|zc|6
+Pawłokoma|PL||a5|3ue|1pw|5
+Paw Paw|US|West Virginia|48|31v|-66n|5

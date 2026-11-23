@@ -1,0 +1,39 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Laayoune|EH||k|23e|-10n|1ij|Aaiún;El Aaiún;Al-Aaiun;Ajuno;O Aaiún;Al-Ajoen;Al-Ujun;El-Aaiún;Al-Ayun;El Ayun;Al Ayoun;La’Youn;El Aiún;Aiun;Aaium
+Layyah|PK||6q|2e0|5h2|161
+Cai Lậy|VN||6h|sw|86s|13r
+Set Ka Lay|MM||7y|1ap|7ez|uz
+Layton|US||2p|362|-8n1|kl
+Leinfelden-Echterdingen|DE||8r|3r9|ph|bg|Laynfelden-Exterdingen
+Lakhyabad|IN||6t|1tr|6or|98|Loyabad;Layabad
+Laylá|SA||7e|1px|3ls|89|Laila
+Layka|CN||7t|2v0|65h|82|Layqa;Layika
+Layang Layang|MY||6v|52|7zg|3q
+Laytown|IE||8z|454|-hc|31|An Inse;Leitaunas
+Laishevo|RU||9i|49x|3tn|25|Laischewo;Laïchevo;Laiševo;Laisjevo;Laíxevo;Laišewo;Layesh;Laishev;Lalshevo;Lapshevo
+Leylān|IR||7o|2ut|3kd|1s|Laylān
+Lay Nưa|VN||6h|1p6|7yg|1i
+Layhill|US||48|30l|-5y0|1g
+Layo|PE||3o|-149|-5hn|14
+Laya|PH||71|1cj|9df|12
+Layrac|FR||9k|3el|1u|y
+Laituri|GE||7n|38f|38f|w|Lait'uri;Layturi
+Lafayette|US|Alabama|2f|2je|-6l8|u|La Fayette;LayFayette
+Laylay|PH||71|11c|9ee|r
+Lay-Saint-Christophe|FR||9k|3rf|h8|r
+Loyola|PH||71|n5|9qx|r|Layola
+Layog|PH||71|jo|9mh|q
+Laya|BT||7p|25y|6x4|k
+Laymantown|US||48|2vt|-65u|k
+Lāy Bīd|IR||7o|2ky|3wt|i|Lāibid;Layé Bid
+Layer de la Haye|GB||9b|401|2e|h
+La Y|MX||41|1hw|-7on|g
+Laytonville|US||3p|329|-9j0|c
+Layo|CI||0|et|-c0|b
+La Y Griega|MX||41|1bp|-7qz|9
+La Yerba|MX|Nayarit|3x|1ns|-83t|8
+La Yerba|MX|Nuevo León|44|1uh|-7r4|8
+Lay|FR||9k|3jn|bp|7
+La Yerbabuena|MX|Guanajuato|41|1mf|-7qr|6
+La Yerbabuena|MX|Michoacán|41|1jk|-7ve|6
+La Yesca|MX||3x|1n8|-80x|5

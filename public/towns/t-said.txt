@@ -1,0 +1,20 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Port Said|EG||c|2ev|2hq|60t|Puerto Saíd;Port-Saïd;Porto Said;Bursaid;Būr Sa‘īd;Bor Sa‘īd
+Sirjan|IR||7o|29t|4ao|1jh|Sa‘īdābād;Sirdschan;Sircan;Sirdžan
+Saidpur|BD||6a|1zm|6ux|1je
+Sidon|LB||64|2l8|2q9|19g|Sydon;Saida;Sayda;Cidono;Sidó;Sidun;Szidón
+Saïda|DZ||3|2or|f|13l|Sa’ida
+Saijō|JP|Ehime|7q|2m8|a9y|t4|Saidyo;Saizyô-chhī;Saizyô
+Saidpur|IN|Uttar Pradesh|6t|1yy|6f6|6d
+Sa‘īdābād|IR|Tehran|7o|2r3|3y7|4i
+Saidpur|PK||6q|2lq|5mz|46|Saiyidpur
+Saidpur|IN|Uttar Pradesh|6t|27h|60f|41
+Saidabad|IN||6t|279|5yp|2u
+Saidia|MA||d|2pg|-67|2o|Saïda
+Saidpura|IN||6t|1z2|6k9|22
+Sa‘īdābād|IR|Tehran|7o|2r9|3zm|20
+Saidāpur|IN||6t|1a0|5ym|1i
+Sa‘īdābād|IR|West Azerbaijan|7o|2z5|3h2|x|Saidāwar
+Said Nursi Mahallesi|TR||94|32u|3ea|l
+Zaidín|ES||9d|37k|q|i|Saidí
+Saide|TR||94|2u6|31h|7

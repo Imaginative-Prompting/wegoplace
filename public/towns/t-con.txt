@@ -1,0 +1,511 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Kunming|CN||7i|1xk|7xc|19wy|Côn Minh;Kchun-ming;Khun-bêng-chhī;Kŏng-mìng;Kuņmina;Gvwnhmingz;Kunminq
+Kunshan|CN||7i|2f6|9bz|g59|Kunšanas;Côn Sơn;Kchun-šan;Kunšan;Kan-shan
+Zunyi|CN||7i|24x|88z|fq2|Dzuni;Ĝunji;Tuân Nghĩa;Cun-i;Cŏng-ngiê;Chun-gī-chhī;Cunji;Zunji
+Conakry|GN||f|qi|-120|evo|Konakrio;Konakris;Konakri;Konakry;Conacri
+Jeonju|KR||7h|2ri|9t7|4xc|Chŏnju;Čondžu;Džondžu;Chunju;Chŏngju;Chenju;Jeon Ju
+Contagem|BR||4w|-1jd|-3ed|4u7
+Constantine|DZ||3|2t1|id|3gg|Cirta;Constantina
+Vitória da Conquista|BR||20|-15b|-35g|326|Vitorija da Konkista
+Chongjin|KP||7a|384|a0i|2iu|Ch’ŏngjin;Cshongdzsin;Čondžinas;Cheongjin;Čchongdžin;Ĉongĵin;Chonjin
+Constanţa|RO||8u|3eq|27j|2ga|Konstanca;Constanza;Konstanco;Costanza;Constantia;Constança;Köstence;Konstanza;Küstence;Costansa;Konstantza;Constancia;Konstansa;Konstanta;Küstenja;Constantza;Kustenji;Kustenje
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Magdalena Contreras|MX||41|1hp|-7nl|1u8
+Rennes|FR||9k|3pn|-4n|1ra|Roazhon;Reneso;Rènes;Renna;Renas;Rénn Shehiri;Ren;Condate Redonum
+Concepción|CL||4u|-2ub|-5mx|1q4|Koncepciono;Konsepsion;Konsepsjuons;Konsepsyon;Conceptio;Konsepsjonas;Konsepsjons;Konsepsjona;Concepcioun;Konsepsjon;Konsepsi
+Kanchipuram|IN||6t|zo|65e|1pl|Conjevaram;Kancheepuram;Kančipuramas;Káncsipuram;Kanĉipuram;Conjeveram;Kanjippuram;Conjeeveram
+Concepcion|PH|Central Luzon|71|16l|9b6|1dl|Conception
+Đồng Xoài|VN||6h|w1|88w|1ao|Gjong Xoai;Cong Xoai;Dong Xoa;Dong Xoi
+Concordia|AR||1n|-2f7|-4h6|14c|Konkordija;Konkordiya
+Conselheiro Lafaiete|BR||4w|-1le|-3dn|12l|Konseljeiro Lafajetė;Conselheiro Lafayete
+Concord|US|California|3p|2xi|-9ez|zr
+Thành phố Sông Công|VN||6h|1no|860|zo|Sông Công
+La Concepción|VE||2c|ti|-5jk|xh
+Concepción|VE||2c|sx|-5j5|pp
+Longonjo|AO||x|-zv|16d|pl|Congonjo
+Contai|IN||6t|1oi|6rr|on
+Concord|US|North Carolina|48|2qd|-67u|od
+Konstanz|DE||8r|3oe|pi|ml|Constanza;Kostnice;Constance;Costanza;Konstancja;Constança;Constanța;Konstanco;Konstantza;Constantia;Kostnica;Costansa;Konstancas;Konstanca;Costnitz;Kostnitz;Costanz
+Cozumel|MX||2b|1ky|-6pi|lg|Conzumel
+Concórdia|BR||4w|-23n|-40j|kw
+Kortrijk|BE||8t|3x7|92|kj|Kortrejko;Courtrai;Kortryk;Cortoriacum;Contrai;Kortrik;Kortreikas;Cortrique;Kortreika
+Contramaestre|CU||36|1ke|-5vs|jk
+Confederation|CA||4q|40u|-88e|ji
+Consolación del Sur|CU||36|1qj|-6fz|jf
+Conroe|US||2f|2c7|-7d6|j2
+Concepción del Uruguay|AR||1n|-2i8|-4hr|iv|Konsepsion del Urugvajus;Konsepsyon del Urugvay;Konsepsi del Uruguay;Konsepsyon del Uruguay;Konsepsyon del Uruqvay;Konsepsyon del Urugway;Konsepsyon del Uruguway
+Conceição do Coité|BR||20|-w4|-314|iu|Conceicao Coite
+Conway|US|Arkansas|2f|2ph|-74s|i2
+Coney Island|US||48|34q|-5pj|go|Coney Adası;Insulo Coney;Conyn Island
+Cuenca|ES||9d|33b|-5x|f9|Conca;Kvenko;Kuenka
+Consolação|BR|São Paulo|4w|-1tf|-3lm|es
+Congonhas|BR||4w|-1kz|-3du|ep|Gongonhas
+Consolacion|PH|Central Visayas|71|su|9kc|di|Consolation
+Concepción|PY||1y|-1t0|-4fj|dd|Konsepsjonas;Conceição;Kontsepsyon;Konsepsi;Konsepsyon
+Conceição do Araguaia|BR||23|-my|-3sv|dc
+Cono Norte|PE|Arequipa|3o|-19c|-5iu|d5
+Contumo|GW||8|wx|-17e|cn|Contume
+Chone|EC||33|-1y|-66h|cg|Čonė;Chuni
+Concord|US|New Hampshire|48|3c1|-5iq|c8|Konkordas;Konkord;Konkorda;Konkords
+Concón|CL||4u|-2jg|-5io|bq
+Constitución|CL||4u|-2q5|-5l5|bg
+Chojnice|PL||a5|456|1cs|as|Konitz;Chònice;Choinicės;Hojņice;Conitz
+Condado|CU||36|1os|-65s|am
+Conflans-Sainte-Honorine|FR||9k|3s4|5u|a4
+Conceição do Jacuípe|BR||20|-y8|-2zp|9t|Concaição do Jacuípe
+Concórdia do Pará|BR||23|-5k|-3p7|9e
+Confresa|BR||2k|-tk|-3z9|8r
+Conegliano|IT||9o|3jh|y6|8k
+Constanza|DO||4v|1gj|-5gi|87|Costanza
+Consett|GB||9b|48d|-53|83
+Conceição das Alagoas|BR||4w|-1jb|-3qf|7w
+Conchal|BR||4w|-1q1|-3n1|7t
+Contla|MX|Tlaxcala|41|1hp|-7kp|7o
+Conceição da Barra|BR||4w|-1fn|-32d|7n
+Conception Bay South|CA||50|3ny|-438|7k
+Congleton|GB||9b|43o|-65|7a|Kongletono
+Conde|BR|Bahia|20|-wt|-2wh|78
+Khajuraho Group of Monuments|IN||6t|1x1|661|75|Khajurâho;Khadżuraho;Conjunto de Templos de Khajuraho;Khajrāho
+Concepcion Ibaba|PH||71|12o|9de|74
+Conde|BR|Paraíba|2w|-k6|-2oz|6y
+Conceição do Mato Dentro|BR||4w|-1gw|-3cm|6g
+Conversano|IT||9o|35t|1bj|6b
+Conil de la Frontera|ES||9d|2ss|-gx|68|Conil
+Converse|US|Texas|2f|2a0|-7l4|64
+Conceição de Macabu|BR||4w|-1pd|-38b|62
+Concarneau|FR||9k|3p0|-aw|5y|Konk-Kerne
+Conda|AO||x|-uv|13u|5x|Konda
+Conda|US||28|3ap|-8lt|5x
+Conway|US|South Carolina|48|2m0|-63l|5v
+Concepción|ES||9d|34c|-a5|5t
+Contamana|PE||3o|-kd|-5se|5t|Contamena
+Cognac|FR||9k|3iy|-x|5t|Conhac;Konjak
+Conselheiro Pena|BR||4w|-1h9|-377|5s
+Conceição da Feira|BR||20|-yr|-30c|5s
+Kontich|BE||8t|3y1|cd|5n|Condacum;Contich
+Cunduacán|MX||41|1e7|-76t|5i|Conduacán
+Contenda|BR||4w|-1zc|-3tm|5b
+Conceição|BR||2w|-l0|-2yz|5a
+Konz|DE||8r|3u2|ia|55|Conz
+Mauguio|FR||9k|3d6|b5|53|Condado de Melguelh;Mauguòu;Melgorium
+La Concepción|PA||4g|no|-6di|4x|Concepción
+Condeúba|BR||20|-15e|-38l|4s
+Condeixa-a-Nova|PT||99|33f|-nm|4r
+Conglin|CN||7i|28n|895|4r
+Concord|US|Massachusetts|48|39y|-5i7|4o|Konkordo;Konkord
+Concord|US|Missouri|2f|2z0|-6z0|4k
+Concordia|CO|Antioquia|27|gt|-5uv|4h
+Conisbrough|GB||9b|44k|-3f|4f|Conisborough
+Conyers|US||48|2lj|-6he|4f|Kanjerso
+Conceição do Almeida|BR||20|-zi|-30t|4e
+Condado|BR||4p|-l3|-2pj|4a
+Conchas|BR||4w|-1ry|-3pd|48
+Conceição do Lago-Açu|BR||2w|-an|-3gp|45
+Concorezzo|IT||9o|3in|px|45|Cuncurèss;Concorrezzo
+Cono Norte|PE|Arequipa|3o|-19a|-5iy|41
+Concord|AU||8l|-2m1|bnq|40
+Concepción|CR||2i|rl|-6hc|3w
+Contumil|PT||99|36d|-nu|3w|Cantomil
+Conway|US|Florida|48|276|-69x|3r
+Congaz|MD||8x|3k3|27f|3q|Kongaz
+Côn Đảo|VN||6h|o6|889|3n
+Connersville|US||38|324|-6ki|3m
+Constant Spring|JM||3i|1e5|-5xb|3k
+Conneaut|US||48|38j|-67r|3j|Conneaught;Connaut
+Conceição do Rio Verde|BR||4w|-1os|-3h9|3h
+La Condamine|MC||9h|3dh|km|3e|Condamine
+Conceição do Castelo|BR||4w|-1kl|-36k|3b|Conceicao do Castello
+Condell Park|AU||8l|-2m8|bnh|37
+Concepción|PE||3o|-x4|-5t7|35|Kunsipsyun;Konsepsjonas
+Concesio|IT||9o|3ip|se|35
+Congonhal|BR||4w|-1pj|-3jw|33
+Condega|NI||3s|115|-6o0|32
+Conjunto Habitacional Villas del Pedregal|MX||41|1io|-7te|31
+Consuegra|ES||9d|31m|-a1|31
+Conceição dos Ouros|BR||4w|-1q9|-3j8|31
+Constantina|BR||4w|-251|-437|2w
+Conceição da Aparecida|BR||4w|-1ml|-3kc|2w|Conceiçao da Apparecida
+Condé-sur-l'Escaut|FR||9k|3w5|9z|2u|Condate ad Scaldim;Condé-sur-Escaut
+Condoto|CO||27|e5|-5wx|2r
+Cleveland Park|US||48|306|-5y3|2q|Cleveland Heights;Connecticut Avenue Highlands;Oak View;Richmond Park
+Coutances|FR||9k|3s9|-41|2p|Constantia;Couotaunches
+Sigefredo Pacheco|BR||2w|-dn|-37x|2n|Conceição
+Concepción del Norte|HN||56|165|-6st|2i
+Concepción Huista|GT||32|17e|-72n|2h|Concepción
+Concepcion|PH|Western Visayas|71|tp|9hu|2h
+Concord|US|New York|48|34t|-5ps|2h
+Conning Towers-Nautilus Park|US||48|36z|-5k7|2g
+Conthey|CH||a7|3ke|ka|2g|Contê;Contesius
+Conselve|IT||9o|3hn|wz|2g
+Concordia Sagittaria|IT||9o|3j4|zm|2f|Concuardie
+Conel|PH||71|h8|9nr|2d
+Congers|US||48|36b|-5pf|2c
+Concordia|MX|Sinaloa|3x|1sp|-86m|2b
+Congonhinhas|BR||4w|-1tf|-3wf|2b
+Concord|CA||59|3do|-64s|2b
+Conover|US||48|2r7|-69m|2a
+Congress Heights|US||48|2zw|-5xw|2a
+Concepción Chiquirichapa|GT||32|15a|-72i|29
+Conshohocken|US||48|33c|-5t6|28
+Concordia|MX|Coahuila|44|1zm|-7yg|27
+Concepción de Ataco|SV||2u|12j|-6xl|26
+Condom|FR||9k|3e4|11|25
+Confederation Park|CA||4q|40u|-88i|24
+Koonimedu|IN||6t|xl|65x|23|Conimere;Coonimode;Canhameira;Congi-medu;Congimer
+Connellsville|US||48|336|-653|23
+Cohasset|US|Massachusetts|48|39c|-5go|22|Conihasset
+Confins|BR||4w|-1ij|-3e6|22
+Cônego Marinho|BR||4w|-16h|-3fe|20
+Concepción del Oro|MX||41|1wd|-7tq|20
+La Concepción de los Baños|MX||41|1io|-7pe|20|Concepcion de los Baños;La Concepción los Baños
+Conkal|MX||3z|1mj|-6wo|20
+La Concepción|NI||3s|x6|-6nf|1x|Concepción;La Cancepción
+Concepción de la Sierra|AR||1n|-25q|-4a8|1x|Konsepsyon de la Syerra;Konsepsi de la Sierra;Konsepsyon de la Sierra
+Constantia|ZA||o|-2mj|1f6|1x
+Concepción|BO||3n|-19n|-4p6|1x
+Contes|FR||9k|3dp|kb|1x
+Côn Sơn|VN||6h|o5|885|1w
+Concepcion|PH|Western Visayas|71|v6|9hz|1w
+Constantina|ES||9d|2x7|-fm|1w
+Conquista|BR||4w|-1je|-3o2|1v
+Concordia|CO|Magdalena Department|27|rc|-5qu|1u
+Constancia|MX||3x|205|-8ei|1t
+Condor|BR||4w|-26d|-44l|1s
+Concord West|AU||8l|-2m1|bnp|1s
+Condé-sur-Noireau|FR||9k|3rp|-1j|1s|Condé sur Noireau
+Conley|US||48|2lg|-6i9|1q
+Conjunto Urbano la Loma I|MX||41|1hp|-7p1|1q
+Concordia|MF||3u|1e6|-4v8|1p
+Concepción Tutuapa|GT||32|16c|-734|1o|Conception Tutuapa
+Contulmo|CL||4u|-2xm|-5nf|1m
+Concepción del Bermejo|AR||1n|-21w|-4pb|1m
+Condon|AU||8c|-1hp|bbk|1m
+Concepción Jolalpan|MX||41|1ie|-7ml|1m
+Constantí|ES||9d|36b|3d|1k
+Convoy Place|CA||35|3g3|-4wp|1k
+Connell|US||3p|3lm|-966|1i
+Conceição do Pará|BR||4w|-1iv|-3gq|1i
+Confey|IE||8z|44a|-i1|1i
+Contra Costa Centre|US||3p|2xd|-9f2|1i
+Concordia|US|Kansas|2f|31x|-7ja|1g
+Conduaga|PH||71|om|92d|1g
+Contwig|DE||8r|3st|kn|1e
+Conklin|US||48|38r|-5uk|1e
+Concession|ZW||n|-1ca|2dz|1e
+Conder|AU||8l|-2qi|bi6|1e
+Congo|BR||2w|-lo|-2tu|1d
+Conceição do Canindé|BR||2w|-lw|-37k|1d
+Consuelo|PH|Central Visayas|71|tj|9la|1d|Consvelo;Consuolo
+Contuboel|GW||8|yf|-14h|1d|Contuba El
+Concordia sulla Secchia|IT||9o|3gr|uj|1c
+Congonhas do Norte|BR||4w|-1g9|-3dc|1c
+Concepción|AR||1n|-26v|-4gt|1c|Konsepsyon;Konsepsi
+Concepción de Buenos Aires|MX||41|1ji|-7yu|1b|Pueblo Nuevo
+Concepcion|PH|Mimaropa|71|yg|9f5|1b
+Consuelo|PH|Western Visayas|71|rs|9h0|19
+Concarán|AR||1u|-2ig|-518|19|Konkaran;Concoran
+Conches-en-Ouche|FR||9k|3s0|2m|19
+Conselice|IT||9o|3fn|wv|19
+Conceição de Ipanema|BR||4w|-1jd|-37t|18
+Coningsby|GB||9b|43j|-i|18
+Condat-sur-Vienne|FR||9k|3j7|3f|18|Condat
+Contendas do Sincorá|BR||20|-128|-360|17
+Conejos|MX||41|1ji|-7no|17
+Contepec|MX|Michoacán|41|1jg|-7q8|16
+Contrexéville|FR||9k|3pu|ge|16
+Concepcion|PH|Central Luzon|71|16w|9bk|15
+Condove|IT||9o|3hc|kb|15
+Conchopata|PE||3o|-147|-5hs|14
+Conceição do Tocantins|BR||1k|-xy|-3ne|14
+Constitution Hill|AU||8l|-2lv|bne|13
+Conquista d'Oeste|BR||2k|-14e|-4le|13
+Conwy|GB||9b|440|-an|13|Konvis;Conway
+Conţeşti|RO|Teleorman County|8u|3do|1ys|12
+La Concepción|MX|Veracruz|41|1ih|-7h6|11|Concepción
+Condrieu|FR||9k|3ia|d9|10
+Contrecoeur|CA||59|3jd|-5nf|10
+Connolly|AU||8k|-2g7|8xj|10
+Conceição da Barra de Minas|BR||4w|-1mp|-3fj|10
+Contratación|CO||27|hh|-5o3|z
+Conselheiro Mairinck|BR||4w|-1tn|-3vd|z|Conselheiro Mairink;Conselheiro Mayrinck
+Condobolin|AU||8l|-2jx|bcr|y|Condoublin
+Confignon|CH||a7|3k9|gw|y|Cofiniacum
+Conguaco|GT||32|130|-6y3|y
+Cornu de Jos|RO|Prahova|8u|3hg|1ze|y|Connul de Jos
+Contres|FR||9k|3nq|3z|y
+Consuegra|PH||71|ve|9lv|x
+Concepción|GT||32|152|-717|x
+Concepción Batres|SV||2u|113|-6th|x
+Concepcion|PH|Central Luzon|71|16a|9bn|w
+Consuelo|PH|Northern Mindanao|71|oq|9nr|v
+Condé-sur-Vire|FR||9k|3s9|-2v|v
+Confolens|FR||9k|3jt|1v|v|Confolents;Confolent
+Conservation|CA||59|3ct|-67u|v
+Concordia|US|New Jersey|48|33z|-5qt|v
+Concordia|PH||71|t7|9gf|v
+Congresbury|GB||9b|3yp|-7t|v
+Conchagua|SV||2u|10z|-6s2|u
+Consell|ES||9d|327|7t|t
+Concepcion|PH|Davao Region|71|lj|9p7|t
+Constantin Daicoviciu|RO||8u|3ij|1pj|t
+Conversion|PH||71|186|9ch|t|Convercion
+Connells Point|AU||8l|-2mf|bnp|s
+Contralmirante Cordero|AR||1s|-2zo|-596|s|Contraalmirante Cordero
+Conceição das Pedras|BR||4w|-1pk|-3i9|s|Conceicão da Pedras
+Condette|FR||9k|3wq|4j|s
+Constitución|MX|Tabasco|41|1e7|-75z|r
+Conjunto Habitacional Ecológico SUTEYM|MX||41|1ht|-7p6|r
+Connerré|FR||9k|3pi|1d|r
+Constancia|PH||71|tg|9go|r
+Constitución|MX|Chihuahua|2g|2b4|-88o|r
+Congregación Ortíz|MX||2g|26h|-854|q
+Conflans-en-Jarnisy|FR||9k|3sl|ga|q
+Conrad|US|Montana|2p|3pt|-8mz|q
+Concepción|CO|Santander Department|27|it|-5lx|p
+Conceição|PT||99|2v7|-l4|p
+Le Conquet|FR||9k|3qc|-d9|p|Konk-Leon;Conquestus;Conquet;Le Conque;Le Concue
+Concepción Capulac (La Ex-Hacienda)|MX||41|1h1|-7ke|p
+Conner|PH||71|1dg|9d1|o|Connor
+Conneaut Lakeshore|US||48|37n|-673|o
+Concordia|US|Missouri|2f|30a|-77x|o
+Concepción Hidalgo|MX||41|1hw|-7jq|o
+Constance Bay|CA||59|3ie|-5vc|n
+Conop|RO||8u|3k2|1os|n|Konop
+Condé-sur-Sarthe|FR||9k|3qj|3|n
+Condeești|RO||8u|3fz|225|n
+La Concordia|NI||3s|10o|-6nd|m|Concordia
+Consacá|CO||27|3d|-5z7|m
+Contigliano|IT||9o|39t|zh|m|Contilianum;Contiglianu
+Conques-sur-Orbiel|FR||9k|3c7|6q|m|Concas;Concas dOrbièl
+Coniston|AU||8l|-2np|bn4|m
+Concepcion|PH|Eastern Visayas|71|sx|9mm|m
+Conway|US|Pennsylvania|48|34y|-66w|m
+Coufouleux|FR||9k|3dq|4t|l|Confolèuç;Couffouleux
+Connerton|US||48|26n|-6d4|l
+Consolacion|PH|Western Visayas|71|vh|9gn|l
+El Contadero de Matamoros|MX||41|1hg|-7p9|l|San José el Contadero;Contadero de Matamoros
+Concord|US|Wisconsin|2f|3bn|-6u4|l
+Constantine|US||2q|388|-6lz|l
+Conceşti|RO||8u|3pt|21r|k
+Contrada|IT||9o|35j|152|k
+Connaught Heights|CA||5b|3so|-9hj|k
+Congis-sur-Thérouanne|FR||9k|3s4|8a|k
+Consandolo|IT||9o|3g2|wq|k
+Congress|US||4i|2mw|-8ph|k
+Constancio Farfán (La Pascuala)|MX||41|1g2|-7mv|k
+Congomah|MU||ag|-1jz|4fz|k
+Consuelo Ulapa|MX||41|16r|-75r|j|Ulapa
+Conches-sur-Gondoire|FR||9k|3rq|7k|j
+Conyngham|US||48|35v|-5va|j
+Condon|US|Tennessee|48|2si|-6gr|j
+Contursi Terme|IT||9o|34x|16c|j
+Conway|US|Massachusetts|48|3a3|-5ly|i
+Concord|US|Alabama|2f|2kz|-6pr|i
+Conway|US|New Hampshire|48|3e6|-5hk|i
+Connor|GB||9b|488|-h8|i
+Connaux|FR||9k|3eh|cr|i
+Contessa Entellina|IT||9o|2wt|10m|i|Cuntissa
+Concepción Chimalpa|MX||41|1he|-7ks|h
+Conlie|FR||9k|3po|-2|h
+Aconchi|MX||37|2av|-8i6|h|Conchi
+Conty|FR||9k|3u6|5z|h
+Conon Bridge|GB||9b|4fx|-cc|h|Conan Bridge
+Concepción Cuautla|MX||41|1gf|-7k6|h
+La Concepción|MX|Jalisco|41|1kj|-7w9|h|Concepción
+Congosto|ES||9d|3ae|-i4|h
+Connelly Springs|US||48|2ra|-6af|g|Connellys Springs
+Contamine-sur-Arve|FR||9k|3k6|hl|g
+Conțești|RO|Iași County|8u|3nf|222|g|Conţăşti
+Confienza|IT||9o|3hx|ns|g
+Contadero|CO||27|2j|-5zf|g
+Concord|NZ||ak|-3ji|d5h|g
+Consolação|BR|Minas Gerais|4w|-1qn|-3jk|g
+Convoy|IE||8z|48e|-lb|f|Conmhaigh
+Concepción|CO|Antioquia|27|hr|-5t2|f
+Condino|IT||9o|3jg|tf|f
+Concepcion|BZ||24|1ew|-6tr|f
+Condé-Sainte-Libiaire|FR||9k|3ru|7w|f
+Concepción de Guasistagua|HN||56|14l|-6rh|f
+La Concepción|MX|Guerrero|41|1aw|-7ot|f|Concepción
+Conscripto Bernardi|AR||1n|-2e9|-4k4|f
+Conțești|RO|Arges|8u|3gy|1xh|f
+Concord|US|Virginia|48|2vq|-63e|f
+La Concepción|MX|Zacatecas|41|1qk|-7w2|f|Concepción
+La Capilla|MX|Veracruz|41|1gh|-7fc|e|Congregación Mecayucan
+Contoocook|US||48|3c2|-5j7|e|Contucook
+Conjunto Habitacional el Trébol|MX||41|1ix|-7sz|e
+Angern an der March|AT||a2|3qe|1ar|e|Congr
+Conțești|RO|Dâmbovița County|8u|3g5|1z8|e
+Congregación Hidalgo|MX|Veracruz|41|1du|-7bt|e
+Congregación el Tajín|MX||41|1kr|-7ii|e|El Tajín
+Conemaugh|US||48|341|-636|e
+Conehatta|US||2f|2i5|-6w1|d
+Condémbaro|MX||41|1hl|-7w6|d
+Concepción Las Minas|GT||32|14c|-6wi|d
+Conashaugh Lakes|US||48|36r|-5sb|d
+Conduratu|RO||8u|3gx|21f|d
+Concordia|HN||56|14m|-6op|d
+Conestoga|US||48|32y|-5w3|d
+Consdorf|LU||9c|3ua|hm|c
+Conway Springs|US||2f|2vv|-7j8|c
+Converse|US|Indiana|38|34q|-6mj|c
+Constitución Mexicana|MX||41|1c6|-7cx|c
+Concá|MX||41|1nk|-7os|c
+Konak|RS||8q|3hw|1m3|c|Conak;Kanak
+Concepción la Venta|MX||41|1ip|-7q7|c|Concepción de la Venta
+Constancia del Rosario|MX||41|1bc|-7k2|c
+Condé-sur-Huisne|FR||9k|3qe|2d|c|Condé-sur-Huine
+Concepción del Monte|MX||41|1il|-7q8|c|Concepció del Monte
+Constantia|US||48|3c5|-5v4|c
+Consiglio di Rumo|IT||9o|3k6|pt|c
+Congénies|FR||9k|3dm|bk|c|Congènhas
+Connantre|FR||9k|3rd|aw|b
+Confederation Urban Centre|CA||4q|40t|-88g|b
+Condat|FR||9k|3hy|7o|b
+Congregación Calles|MX||44|1y3|-7pl|b
+Constitución|MX|Campeche|3z|1fr|-6ye|b
+Concerned Citizens Of Forest Park|US||48|318|-5x0|b
+Concepción|MX||41|1ap|-769|b
+Congregación Reforma|MX||41|152|-74f|b
+Les Contamines-Montjoie|FR||9k|3ja|ip|b|Contamines-Montjoie;Condominium-Mons Iugi
+Continental|US||48|366|-6i3|b
+Cona|IT||9o|3gh|wj|b
+Constitución|MX|Chiapas|41|1bg|-750|b
+Concepción Caro|MX||41|1ix|-7pj|b
+Conrad|US|Iowa|2f|39a|-75z|b
+Condé-sur-Vesgre|FR||9k|3re|4m|b
+La Concepción|MX|México|41|1ig|-7mq|b|Concepción
+Congrier|FR||9k|3ot|-34|b
+Contern|LU||9c|3tq|hb|b
+Conscio|IT||9o|3iq|y4|b
+Concentración 5 de Febrero|MX||3x|1zu|-8dr|b
+Convoy|US||48|35o|-6ja|b
+Controguerra|IT||9o|3b1|12e|b
+Cognac-la-Forêt|FR||9k|3jb|2t|b|Cognac-le-Frold;Conhac;Conhac la Forest;Cognac-le-Froid
+Constantin Brâncoveanu|RO||8u|3fk|245|b
+Concord|US|Michigan|2q|396|-6j4|b
+Concepción del Sur|HN||56|154|-6sx|a
+Conquereuil|FR||9k|3oa|-4v|a|Konkerel
+Conejeras|MX||41|1jl|-7po|a
+Concepción de la Barranca|HN||56|165|-6ug|a
+La Concepción|MX|Zacatecas|41|1ps|-7ux|a|Concepción
+Constância|PT||99|31o|-n6|a
+Cononley|GB||9b|45s|-5m|a
+Confrançon|FR||9k|3kj|e3|9
+Concepción de María|HN||56|10q|-6po|9
+Constancia y Venecia|MX||3z|1f8|-75u|9
+Confederación Nacional Campesina|MX||41|1pk|-7kn|9|Canoas
+La Conquista|NI||3s|wl|-6nf|9|Conquista
+Condezaygues|FR||9k|3fl|2k|9
+Contla|MX|Veracruz|41|1gq|-7hp|9
+Condat-sur-Vézère|FR||9k|3hc|3f|9|Condat de Vesera
+Contreras|MX||44|1us|-82g|9
+Conche|IT||9o|3ho|xt|9
+Constantin Gabrielescu|RO||8u|3h7|24s|9
+Conondale|AU||8c|-22a|bs8|9
+Coneto de Comonfort|MX||44|1xe|-831|9
+Concepción Carrizal|MX||41|1bn|-7jx|8
+Concepción Pardiñas|MX||41|1go|-7k6|8
+Congregación Caballeros|MX||44|1ua|-7nh|8|Congregación de Caballeros
+El Conejal|MX||41|1ow|-7vx|8|Conejal
+La Concordia|MX|San Luis Potosí|41|1q4|-7rf|8|Concordia
+Condé-Folie|FR||9k|3ux|5l|8
+Constantine|GB||9b|3v8|-ee|8|Constatine
+Concadirame|IT||9o|3h9|wl|8
+Conco|IT||9o|3j8|w9|8
+Cohocton|US||48|3a2|-5zb|8|Conhocton
+Conca|FR||9k|37x|px|8
+Contest|FR||9k|3q2|-1u|8
+Conchil-le-Temple|FR||9k|3vx|4m|8|Conchil-lTempe
+Conima|PE||3o|-16y|-5cw|8
+La Constancia|MX||44|1ug|-81n|8|Constancia
+Contone|CH||a7|3k7|ot|8|Conton
+Congregación de la Cruz|MX||41|1ku|-7rp|8
+Coniolo|IT||9o|3i2|rq|8
+Conway|US|Missouri|2f|2w6|-75u|8
+Contla|MX|Puebla|41|1in|-7jf|8
+Conway|US|North Carolina|48|2t8|-5yj|8
+Conteville|FR||9k|3ta|14|8
+La Concepción|MX|Guerrero|41|1aa|-7ky|8|Concepcion
+Conliège|FR||9k|3ll|fk|8
+Concei|IT||9o|3jj|tt|8
+Congiunti|IT||9o|39z|135|8
+Confort-Meilars|FR||9k|3ph|-cb|8|Koñforzh-Meilar;Meilars
+Conneautville|US||48|380|-679|8
+Confluence|US||48|32l|-64g|7
+Connewarre|AU||8j|-2yb|b54|7
+Contrada Sant'Anna Iv|IT||9o|30c|1bf|7
+Conscenti|IT||9o|3f6|q4|7
+Cóndiro|MX||41|1kp|-7wv|7|Candiro
+Concise|CH||a7|3m5|io|7
+Condover|GB||9b|429|-7n|7
+Concagno|IT||9o|3j8|or|7
+Concrete|US||3p|3qu|-9e7|7
+Contrada Difesa II|IT||9o|2zs|192|7
+Convent|US||2f|2be|-70b|7
+Concow|US||3p|32d|-9dl|7
+Condado del Valle Dorado (Segunda Sección)|MX||41|1he|-7f9|7
+Condren|FR||9k|3tv|94|7
+Conflenti|IT||9o|30j|198|7
+Combles|FR||9k|3ux|7z|7|Conme
+Nuova Conza della Campania|IT||9o|35i|16m|7|Conza della Campania
+Contrisson|FR||9k|3rk|ds|7
+Concoret|FR||9k|3pi|-65|7|Konkored
+Conflans-sur-Lanterne|FR||9k|3ou|ha|7
+Condeissiat|FR||9k|3k8|e4|7
+Coatepec|MX|Puebla|41|1jq|-7jh|7|Contepec
+Condon|US|Oregon|3p|3hn|-99v|7
+Konyatyn|UA||98|3pg|1xa|7|Koniatyn;Coniatin
+Congalla|PE||3o|-100|-5qx|7
+Conquista Campesina|MX||3z|1ei|-71l|7
+Concepción Pápalo|MX||41|1dk|-7h4|7
+Conțești|RO|Bacău County|8u|3k9|238|7
+Conflans-sur-Seine|FR||9k|3qv|a8|7
+Concepción del Progreso|MX||41|1bd|-7ju|7
+Condé-sur-Marne|FR||9k|3s8|bm|7|Condé sur Marna
+Controne|IT||9o|34j|168|7
+Concacha|PE||3o|-11n|-5m8|7
+Concorde Hills|US||48|30x|-6ic|7
+Condrea|RO||8u|3iz|247|7
+Congregación Hidalgo|MX|Veracruz|41|1jg|-7i5|7
+Consejo|BZ||24|1fa|-6ta|6
+Condat-sur-Ganaveix|FR||9k|3ib|4f|6|Condat de Ganavés
+Conilhac-Corbières|FR||9k|3bz|7k|6
+Contigné|FR||9k|3ol|-1g|6
+San Francisco de Conchos|MX||2g|24n|-84l|6|Conchos
+Coniston|GB||9b|471|-8k|6|Conistan
+Condé-en-Brie|FR||9k|3s4|9w|6
+Constantinești|RO||8u|3fv|1w2|6
+Conneaut Lake|US||48|37k|-673|6
+Contépec|MX|Hidalgo|41|1mp|-7ll|6
+Congreso Permanente Agrario|MX||41|1mq|-7l2|6
+Conception Harbour|CA||50|3ns|-43u|6
+Cons-la-Grandville|FR||9k|3tg|fu|6
+Concremiers|FR||9k|3lg|2u|6
+Congona|PE||3o|-j0|-61a|6
+Connoquenessing|US||48|35e|-669|6|Conaquenessing;Conequenessing;Conoquenessing
+Conchy-les-Pots|FR||9k|3ts|7k|6
+Conflans-sur-Anille|FR||9k|3p7|22|6
+Converse|US|South Carolina|48|2p7|-6bb|6
+Congas|PE||3o|-sq|-5z4|6
+Congupna|AU||8j|-2su|b7z|6
+Conta|MX||41|1jd|-7ia|6
+Contessa|IT||9o|31k|192|6
+Conca dei Marini|IT||9o|34u|14h|6
+Concourson-sur-Layon|FR||9k|3n1|-y|6
+Contigny|FR||9k|3kr|96|6|Continiacum
+Condéon|FR||9k|3i5|-e|6
+Cognat-Lyonne|FR||9k|3k3|97|6|Conhac e Liona;Conhat e Liona
+Concepción el Amparo|MX||41|1bg|-75a|6
+Condé|FR||9k|3sj|hv|5
+Concepción las Mesas|MX||41|1aw|-7k4|5
+Confort|FR||9k|3k7|g6|5
+Coñecito|MX||41|1mh|-7nd|5
+La Concepción|MX|Guanajuato|41|1la|-7rz|5|Concepción
+Cóndor Cerro|PE||3o|-nd|-5z9|5
+Conna|IE||8z|40p|-mj|5|Conaithe
+Constitución|MX|Tabasco|41|1ef|-72e|5
+Condécourt|FR||9k|3s8|5e|5
+Concepción de Ruiz|MX||41|1kn|-7ua|5

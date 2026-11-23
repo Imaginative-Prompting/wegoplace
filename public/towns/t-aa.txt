@@ -1,0 +1,76 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Accra|GH||1|fg|-k|f5d|Akrao;Akra;Acra;Akkra;Nkran;Aakrá;Akara;Akkr
+Annaba|DZ||3|2ui|ll|2n7|Bône;Anaba;Hippo;Hippo Regius;Aânavaen;Bona
+Petrozavodsk|RU||9i|4rm|2nf|25k|Petrosawodsk;Petroskoi;Petrozawodzk;Petroskoj;Pietrozawodsk;Äänislinna;Petrozawodsk;Petrosavodsk;Pjetrozawodsk;Petrozavodszk
+Aachen|DE||8r|3x2|gw|21o|Aquisgrán;Aquisgrà;Cáchy;Aix-la-Chapelle;Aquisgrana;Aquisgranum;Oochen;Aoke;Aken;Akwizgran;Aquisgrano;Åxhe;Oche;Āhene;Aquae Grani;Achenas;Aaxen;Akisgran;Axın;Achen;Aquisgrão
+Laayoune|EH||k|23e|-10n|1ij|Aaiún;El Aaiún;Al-Aaiun;Ajuno;O Aaiún;Al-Ajoen;Al-Ujun;El-Aaiún;Al-Ayun;El Ayun;Al Ayoun;La’Youn;El Aiún;Aiun;Aaium
+Aalborg|DK||8y|4eh|rk|13p|Ålborg;Olborga;Álaborg;Olborgas;Olborg
+Ağrı|TR||94|32b|3bk|yl|Qerekose;Agıri;Aarı;Ahras
+Aalst|BE|Flanders|8t|3xi|b8|lj|Alost;Alostum;Alstas;Oalst;Alósti;Halosta;Ālsta;Aals;Alst;Àosītè
+Aalen|DE||8r|3ro|s1|in|Ālene;Alenas;Ala
+I‘zāz|SY||69|2tn|2ux|id|Azaz;A‘zāz;Aazâz;Izaz;E'zaz
+Aarsâl|LB||64|2my|2t6|dw
+Aarschot|BE||8t|3xn|dg|7p|Arschotas;Aerschot
+Ath|BE||8t|3wn|ai|7f|Aat;Ate
+Arlon|BE||8t|3u0|g6|7a|Arel;Aarle;Aarlen;Orolaunum
+Onega|RU||9i|4xj|2xu|6b|Ääninen
+Aarau|CH||a7|3nn|mc|5z|aravia;Ārava;Arau;Araŭo
+Aalten|NL||8m|409|ia|5b
+Aalter|BE||8t|3xx|9l|58
+Äänekoski|FI||92|4tw|1zh|4w
+Aabenraa|DK||8y|48w|q6|4k|Apenrade;Åbenrå;Aabenrå;Obenro;Åbrenrå
+Aartselaar|BE||8t|3y1|c7|3y|Aertselaer
+Aalsmeer|NL||8m|416|d8|3t
+Aalanden|NL||8m|41x|gy|3q
+Erlensee|DE||8r|3vc|oy|3j|Äälänsee
+Apen|DE||8r|43u|lp|32|Aap
+Ostrhauderfehn|DE||8r|43m|l6|2z|Aastrauderfeen
+Aajaltoûn|LB||64|2md|2r4|2s|Ajaltoun;Aajeltoûn;Ajeltoûn
+Aars|DK||8y|4ds|qf|2d|Års
+Aadorf|CH||a7|3nx|oq|24
+Aarburg|CH||a7|3ng|ly|1w|Arburgo
+Aaïtanît|LB||64|2l8|2r3|1w|Aïtanît;Aïtanîte
+Aamadi|IN||6t|1lp|6ad|1u
+Aalburg|NL||8m|3zr|e9|1u
+Adelebsen|DE||8r|3za|r3|1t|Alessen;Aalessen
+Aachar Leak|KH||78|zd|83d|1m
+Ålsgårde|DK||8y|4bs|yu|1m|Aalsgaarde;Aalsgaard
+Esterwegen|DE||8r|437|l7|1g|Estervegen;Äästerweede
+Aarle-Rixtel|NL||8m|3z3|fo|1f
+El Aargub|EH||k|1tl|-183|1e|El ’Argoûb;Aargub;El Argub
+Aartrijke|BE||8t|3y0|8l|1c
+Aerdenhout|NL||8m|41g|cs|1c|Aardenhout
+Athenry|IE||8z|442|-oa|18|Baile Átha an Rí;Aah yn Ree;Atenris;Athenria
+‘Aqrabā|SY||69|2jz|2s1|18|Aaqraba;Akraba
+'A'ala|US||ax|1n8|-c6i|17|Aala
+Ardres|FR||9k|3xa|5i|16|Aarden;Arde
+Aarwangen|CH||a7|3n8|ll|16
+Aanislag|PH||71|10b|9jm|15|Anistag;Anislag
+Aarberg|CH||a7|3mo|k8|13
+Aalst|NL|North Brabant|8m|3ys|f8|z
+Aasiaat|GL||4e|5av|-42u|u|Egedesminde;Uosiuots;Osiotas
+Aarsele|BE||8t|3xo|9i|u|Aerseele
+Åsgårdstrand|NO||9j|4kv|t3|u|Aasgaardstrand
+Aalbeke|BE||8t|3x2|8z|t|Aelbeke
+All Saints|AG||1j|1bf|-4rn|p|Ol Sentsas;Aal Sient
+Adelheidsdorf|DE||8r|420|ry|p|Aalheidsdörp
+Aanjar|LB||64|2lp|2rt|o
+Aach|DE|Baden-Wurttemberg|8r|3ow|ol|m
+Aaigem|BE||8t|3xd|ay|l
+Aardenburg|NL||8m|3yf|9l|k|Erreburg;Eirdnburg
+Aalden|NL||8m|42n|io|g
+Aalst|NL|Gelderland|8m|3zu|e9|g
+Aagtekerke|NL||8m|3z7|9r|c
+Erpolzheim|DE||8r|3th|mu|c|Ääbelsm
+Aach|DE|Rheinland-Pfalz|8r|3ua|ic|c
+Aalma ech Chaab|LB||64|2jy|2pq|b
+Aats’i|GE||7n|3bu|355|b|Aatsy
+Aar|IN||6t|1w3|5oe|a
+Aalterbrug|BE||8t|3xz|9j|a|Aalter-Brug
+Aalst|BE|Flanders|8t|3x2|eh|7|Aelst
+Ääsmäe|EE||9x|4kk|1w4|6
+Aaronsburg|US||48|35m|-5z5|6
+Aerdt|NL||8m|405|gw|5|Aardt
+Aakkula|FI||92|4qs|1u8|5
+Aalsmeerderbrug|NL||8m|417|d7|5
+Aagtdorp|NL||8m|42d|d2|5|Aagtdorn

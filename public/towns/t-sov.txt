@@ -1,0 +1,52 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Soweto|ZA||o|-20z|25e|d2u|Sovetas;Soueto;Soveto
+Khanzhonkivskyi|UA||98|3pm|2xo|eq|Sovyetskyi rayon;Sovyetskyi
+Sovetsk|RU|Kaliningrad Oblast|96|490|1os|c1|Tilsit;Sowetsk;Sovjetsk;Tilsa;Sovyetsk;Sovietsk;Tilžė;Sowieck;Sovețk;Sowjetsk;Szovjetszk;Tylża;Til’zit
+Sovetskaya Gavan’|RU||7w|3s1|atp|89|Sovetskaja Gavan
+Sovetskiy|RU|Khanty-Mansia|7z|4qg|4wm|6l|Sovetskij
+Sovetsk|RU|Kirov Oblast|97|4fz|3s0|4z|Sowetsk;Sovjetsk;Sowjetsk;Szovjetszk
+Altyn asyr|TM||5x|2vk|4om|3t|Bereket;sovhoz Tejen;Tedzhen Sovkhoz
+Sovetskoye|KG||65|361|5m2|3o|Sovetskoe
+Sovata|RO||8u|3le|1xn|37|Szováta
+Sovetskiy|RU|Mariy-El Republic|9i|4do|3qo|2z|Sovetskij
+Ichki|UA||9t|3hy|2p0|2w|Sovyetskyi;Sovietskyi;İçki
+Sovetskaya|RU|Krasnodar Krai|9i|3ge|36d|2u|Sovetskaja;Sowjetskaya
+Sovet|TJ||6d|2xp|5db|2f
+Sovetskaya|RU|Stavropol Kray|9i|3eb|3ed|27|Sovetskaja
+Sovico|IT||9o|3it|pq|24
+Sovetsk|RU|Tula Oblast|9i|45u|2wj|24
+Soverato Marina|IT||9o|2zg|19z|1y|Soverato
+Sovetskiy|RU|Leningradskaya Oblast'|9i|4o6|27o|1u|Johannes;Sovetskij;Iogannes;Iokhannes
+Sovetskoye|RU|Altai Krai|63|419|6l9|1i|Sovetskoje
+Sovere|IT||9o|3j9|rv|1c
+Sovetabad|AZ||61|31a|3sp|17|İyirmi Altı Bakı Komissarı
+Sovetskoye|RU|Dagestan|9i|37x|3q9|16|Sovetskoje
+Sovkhoznyy|RU|Krasnodar Krai|9i|3ht|2xv|13
+Ketchenery|RU||9i|3nf|3fo|12|Sovetskoye
+Sovizzo|IT||9o|3ih|vt|11
+Ravno Selo|RS||8q|3i9|1ii|10|Sóvé;Ósóvé
+Sovkhoznyy|RU|Sverdlovsk Oblast|7z|4d4|4qn|z|Sovkhoznyj
+Sovetskoye|RU|Saratov Oblast|9s|3yw|3lu|z|Sovetskoje
+Sovky|UA||98|3w1|2co|y
+Sovkhoznyy|RU|Sverdlovsk Oblast|7z|4do|4o7|u
+Sovetskiy|RU|Komi|9i|57g|4yy|o|Sovetskij
+Soveria Mannelli|IT||9o|30k|19i|n
+Sovetskaya|RU|Rostov|9i|3s5|390|n|Sovetskaja
+Shatoy|RU||9i|3b3|3ix|i|Šatoj;Sovetskoe;Şüyta-Ġala;Xatoi;Șatoi;Şüyta;Sovetskoye;Shatoi
+Søvang|DK||8y|4ad|z2|i
+Sovramonte|IT||9o|3jy|wr|h
+Soverato Superiore|IT||9o|2zh|19x|g
+Soveria Simeri|IT||9o|307|1ac|f
+Şovarna|RO||8u|3gl|1rb|e
+Sovetskoye|RU|Dagestan|9i|3cl|3kq|e
+Sovkhoznoye|UA|Crimea|9t|3jo|2lt|d
+Sovkhoznoye|UA|Crimea|9t|3h3|2mh|b
+Sovicille|IT||9o|3c8|v7|b
+Shoval|IL||6n|2f9|2oi|8|Šoval;Schoval;Szoval
+Savogna d'Isonzo|IT||9o|3jj|11q|8|Savogne di Gurize;Savogne di Gurice;Sovodnje ob Soči
+Soveyseh-ye Chahār|IR||7o|2ei|3r1|8
+Lyubomyrivka|UA|Luhansk|98|3rj|317|7|Artema;Sovkhoz Imeni Artëma
+Sovet|BE||8t|3vq|e0|7
+Søvik|NO||9j|4na|ez|7
+Dolossy|UA||9t|3fp|2mz|7|Dolossı;Sovietske;Sovyetske
+Syvik|NO||9j|4tr|hi|6|Sövik

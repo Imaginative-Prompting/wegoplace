@@ -1,0 +1,501 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+East London|ZA||o|-2jq|25j|3oz|KuGompo City;Yst Londonas;Buffalo City;Orient-Londono;Londinium Orientale;Tûng Lùn-tûn;EMonti
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Ahmadpur East|PK||6q|28y|5hy|1in|Ahmedpur East;Ahmedpur Sharqia;Timur Ahmedpur;Orienta Ahmedpur;Ahmedpur Śarki
+East Flatbush|US||48|34x|-5pd|1dl
+East New York|US||48|34z|-5p8|1c4
+East Helsinki|FI||92|4n9|1xo|1be|Itä-Helsinki;Östra Helsingfors
+York|GB||9b|45w|-30|17d|Efrog;Jorko;Eboracum;Évèroui;Jórvík;Jorkas;Jorka;Eoforwic;Evrek;Eabhraig;Eabhrac
+East Chattanooga|US||48|2pf|-6kt|16s
+Enschede|NL||8m|412|j6|16p|Enskede;Ensjedee;Ynskedee;Eanske
+East Hampton|US|Virginia|48|2uw|-5w1|154
+East Los Angeles|US||3p|2mi|-949|z5|Este de Los Ángeles;Orienta Losanĝeleso;Doğu Los Angeles
+East Harlem|US||48|35b|-5pe|w7|Harlem del Este;Spanish Harlem;Ekialdeko Harlem
+East Independence|US||2f|30m|-7a4|ur
+Eastbourne|GB||9b|3x1|s|s9|Istbornas
+East Norwalk|US||48|367|-5nw|nh
+East Hastings|CA||5b|3sv|-9hu|mf
+East Kilbride|GB||9b|4aw|-bm|kx|Cille Bhrìghde an Ear;Keeill Vreeshey Hiar;Ist Kilbraidas;İst Kilbrayd;East Kilbridge
+Union City|US|New Jersey|48|35a|-5pm|j8|East Cost Cities
+Eau Claire|US|Wisconsin|2f|3gh|-726|iu|O Kleras;Oklēra;Eauclaire
+Eagan|US||2f|3gg|-76t|if
+East Orange|US||48|359|-5q4|i1
+East Village|US||48|355|-5pj|hg
+Eastvale|US||3p|2mc|-92k|ge|Ystvalis;Īstvela
+Eastleigh|GB||9b|3xl|-3r|f2
+East Pensacola Heights|US||2f|2cj|-6q6|f1
+East Hartford|US||48|382|-5lp|e9
+East Honolulu|US||ax|1n5|-c64|dv|Orienta Honoluluo
+East Brunswick|US||48|34b|-5qq|dh|E Brunswick
+East Lansing|US||2q|3aq|-6io|dh|Orienta Lansingtono;İst-Lensinq
+East Providence|US||48|385|-5i9|d6|Rytinis Providensas;Īstprovidensa;Đông Providence
+East Boston|US||48|39q|-5hc|bz|Bostonia Orientalis;Orient-Bostono
+East Concord|US||48|3c4|-5iq|bu
+East Meadow|US||48|353|-5oc|al
+Gisborne|NZ||ak|-2zd|dqg|al|East Cape;Te Tai-rāwhiti
+East Florence|US||2f|2op|-6rh|9x
+East Point|US||48|2lk|-6ik|9v
+Eastpointe|US||2q|39z|-6eg|93
+East Lake|US||48|263|-6dp|8m
+Eagle Foothills|US||28|3di|-8zb|8c
+East Hill-Meridian|US||3p|3np|-9fd|8b
+East Palo Alto|US||3p|2w3|-9fa|89|Aslagang Palo Alto;Silangang Palo Alto;Palo Alto Timur
+East Haven|US||48|36o|-5mf|85|Easthaven
+Eagle Pass|US||2f|27r|-7r6|80
+East Chicago|US||2f|37o|-6qx|7z|Orienta Ĉikago
+Eagle Mountain|US|Utah|2p|33z|-8n5|7l|Atsá Bidziil
+East Saint Louis|US||2f|2za|-6yf|7i
+Easton|US|Pennsylvania|48|351|-5sy|7h
+East Grinstead|GB||9b|3y0|-1|7d
+East End|CA|Newfoundland and Labrador|50|3o7|-42d|7c
+East Amherst|US||48|3bi|-62m|6x
+Eagle River|US|Alaska|1h|4qc|-bjh|6w
+Eaubonne|FR||9k|3s4|6c|6p
+East Gwillimbury|CA||59|3ei|-64o|6o
+Eagle|US|Idaho|28|3de|-8z7|6k
+Easton|US|Massachusetts|48|38q|-5hl|6j
+East Elmhurst|US||48|358|-5p7|6g
+East Peoria|US||2f|34z|-6wu|6f
+East Naples|US||48|20m|-6b5|6e|Naples Thoir
+East Tremont|US||48|35h|-5p9|6d
+East Lake-Orient Park|US||48|25q|-6cu|6c
+East Patchogue|US||48|359|-5ms|69
+Malvern East|AU||8j|-2x7|b6w|67|East Malvern
+East End-Danforth|CA||59|3dc|-64a|5y
+East Moline|US||2f|37a|-6z8|5y
+East Ridge|US||48|2p9|-6kt|5u|East Side
+East Millcreek|US||2p|352|-8ml|5s
+Easley|US||48|2or|-6dg|5s
+East Garfield Park|US||2f|38c|-6rm|5r
+Ea Drăng|VN||6h|10o|8cl|5q
+East Northport|US||48|35k|-5no|5m
+Eastmont|US||3p|3p2|-9fe|5l
+Earl Shilton|GB||9b|422|-3o|5g
+Eastchester|US|New York|48|35s|-5p1|5g
+East Dereham|GB||9b|42c|2l|5d|Dereham
+East Massapequa|US||48|34z|-5o0|5b
+Eastwood|GB||9b|438|-3m|56
+East Molesey|GB||9b|3ys|-z|56
+East Mount Airy|US||48|33a|-5sv|55
+Eastlake|US||48|37p|-6a9|52
+East Barnet|GB||9b|3zh|-g|51
+Eastwood|AU|New South Wales|8l|-2lv|bno|4y
+Earlwood|AU||8l|-2m8|bnt|4w
+East Hemet|US||3p|2lq|-90u|4u
+East Cleveland|US|Ohio|48|37d|-6am|4t|Orient-Klevlando
+East Setauket|US||48|35q|-5n3|4q
+Easton|US|Maryland|48|2zp|-5vc|4m
+Easthampton|US||48|39f|-5lv|4m|İsthempton;East Hampton
+Ea Pốc|VN||6h|zi|8c7|4g
+Ealing Common|GB||9b|3z3|-u|4f
+Earlsfield|GB||9b|3yw|-j|4c
+East Riverdale|US||48|308|-5xn|4b
+Ea T’ling|VN||6h|yz|8bq|49
+East Rancho Dominguez|US||3p|2m6|-94c|47|East Compton
+East Brainerd|US||48|2p8|-6kj|47
+East Longmeadow|US||48|38u|-5lf|47|East Long Meadow
+East Clayton|CA||5b|3sg|-9gu|46
+East San Gabriel|US||3p|2mr|-940|45
+East Highland Park|US||48|2we|-5z1|44
+East Islip|US||48|355|-5nb|41
+East Bridgewater|US||48|38r|-5h4|3w
+East Greenwich|US||48|37q|-5ii|3t
+East Wenatchee|US||3p|3nq|-9a5|3t
+East Norriton|US||48|33j|-5ta|3s
+Eagleby|AU||8c|-24w|btm|3o
+East Cambridge|US||48|39p|-5hg|3n
+Ea Na|VN||6h|yu|8bz|3k|Ea Ana
+Ea Kar|VN||6h|zl|8d9|3g
+East Dulwich|GB||9b|3yx|-7|3f
+Eatontown|US||48|33y|-5pp|3f
+Ea Hiao|VN||6h|10p|8cw|3f|Buôn Hiao;Ban Hiao
+East Hanover|US||48|35e|-5qk|3e
+Eastern Passage|CA||35|3fy|-4wc|39
+East Bethel|US||2f|3hw|-76w|39|Đông Bethel
+East Perth|AU||8k|-2gs|8xv|39
+Ea Pô|VN||6h|za|8bo|38
+East Maitland|AU||8l|-2iz|bp2|38
+East Grand Rapids|US||2q|3ba|-6lt|35
+East Renton Highlands|US||3p|3nw|-9f7|33
+East Milton|US||2f|2d2|-6pq|33
+Eagle Ridge|CA||5b|3sx|-9h6|32
+Ea H'Leo|VN||6h|10o|8cj|31
+East Liverpool|US||48|34u|-67u|30
+East Cambie|CA||5b|3sm|-9hx|30
+East Sheen|GB||9b|3yy|-r|2v
+East Stroudsburg|US||48|35w|-5su|2t
+East Oak Lane|US||48|339|-5sp|2r|İst Ouk Leyn
+East Rockaway|US||48|34w|-5on|2r
+East Victoria Park|AU||8k|-2gv|8xy|2r
+Oostzaan|NL||8m|41o|dk|2q|Eastsaan
+East La Mirada|US||3p|2m8|-93r|2q
+East Falls|US||48|335|-5sv|2o
+Oosterwolde|NL|Friesland|8m|437|hh|2k|Easterwâlde;Oosterwoolde
+East Rutherford|US||48|35f|-5pu|2k
+Earls Court|GB||9b|3z1|-k|2j
+East Haddam|US||48|375|-5la|2i
+Eagle Point|US||3p|39z|-9h4|2h
+East Wenatchee Bench|US||3p|3nr|-9a4|2h
+East York|US||48|331|-5x1|2g
+East Franklin|US||48|34h|-5qv|2f
+East Grand Forks|US||2f|3p5|-7hi|2e
+Earlimart|US||3p|2ro|-97b|2d
+East Cowes|GB||9b|3x0|-3l|2c
+East Gore|NZ||ak|-3k1|d1b|2b
+East Foothills|US||3p|2vu|-9ee|2b
+Eaton|US|Ohio|48|32e|-6j4|2a
+East Somerville|US||48|39r|-5hg|2a
+Eaton|AU|Western Australia|8k|-2kk|8xf|2a
+Eaglescliffe|GB||9b|47h|-3r|27
+East Newton South|CA||5b|3sh|-9h5|27
+Eatons Hill|AU||8c|-23y|bsw|26
+Easton|GB||9b|3wd|-6t|26
+Easton|US|Connecticut|48|36l|-5nm|24
+Ea Súp|VN||6h|10b|8bp|23
+Edenderry|IE||8z|446|-jl|22|Éaden Doire;Éadan Doire
+East Newton North|CA||5b|3si|-9h5|21
+Eastern Charlotte|CA||43|3ha|-55j|21
+East Hespeler|CA||59|3cn|-672|21
+East Fremantle|AU||8k|-2h0|8xl|20
+Easington|GB|England|9b|487|-3s|20
+East Perrine|US||48|1z5|-676|20
+East Hills|US||48|35b|-5oj|20
+Eagle Mountain|US|Texas|2f|2jd|-7io|1y
+East End|US||2f|2nz|-74i|1y
+Eastleigh|ZA||o|-20l|268|1y
+Eastlakes|AU||8l|-2m9|bo1|1x
+Eastbridge|CA||59|3cv|-67n|1w
+East Porterville|US||3p|2s6|-96i|1w
+Eagle|US|Colorado|2p|326|-88r|1v
+East Rochester|US|New York|48|3br|-5z9|1v
+East Shoreham|US||48|35q|-5mg|1v
+East Glenville|US||48|3b5|-5pd|1u
+Eatonton|US||48|2kl|-6fn|1t
+East Farmingdale|US||48|355|-5ny|1t
+Eastwood|US|Michigan|2q|39i|-6ln|1r
+East Leake|GB||9b|42r|-3a|1r
+East Aurora|US||48|3at|-62d|1q
+Otis Orchards-East Farms|US||3p|3oj|-918|1q|Otis Orchards;East Farms
+East Garden City|US||48|355|-5og|1q
+East Melbourne|AU||8j|-2x2|b6r|1q|Melbourne East
+East Alton|US||2f|300|-6yb|1q|Đông Alton
+East Pasadena|US||3p|2mu|-93z|1p
+East Falmouth|US||48|37i|-5g0|1o
+East Toowoomba|AU||8c|-24l|bq5|1o
+East Albury|AU||8l|-2s8|bc5|1n
+East Port Orchard|US||3p|3o0|-9gm|1n
+East Horsley|GB||9b|3yf|-17|1n
+Eagle Vale|AU||8l|-2mk|bmx|1m
+East Brisbane|AU||8c|-24c|bt4|1l
+Eaton Socon|GB||9b|412|-t|1l
+East Wittering|GB||9b|3x1|-2f|1k
+East Ballina|AU||8l|-286|bun|1k
+Eastham|US||48|387|-5ed|1j
+Eaglehawk|AU||8j|-2u0|b4p|1j
+East Tilbury|GB||9b|3z0|16|1j
+Eastwick|US||48|32t|-5t0|1i
+Earls Barton|GB||9b|417|-23|1i
+Eadestown|IE||8z|43s|-ia|1h|Baile Éide
+East Cannington|AU||8k|-2gx|8y4|1h
+East Kapolei|US||ax|1nc|-c71|1h
+Eastman|US||48|2hg|-6f2|1h
+East Tamworth|AU||8l|-2ed|bna|1h
+East Moriches|US||48|35d|-5m4|1g
+Eaton Rapids|US||2q|3a3|-6j6|1g
+Eagleton Village|US||48|2rg|-6h5|1f
+Earlswood|GB|England|9b|3yb|-i|1e
+East Lismore|AU||8l|-283|btt|1e
+East Boldon|GB||9b|48m|-3z|1e|The Boldons
+Eastchester|US|New York|48|35l|-5p3|1e|East Chester
+East Flat Rock|US||48|2q0|-6cy|1e
+Eastgate|US||3p|3o5|-9fb|1e
+Eaton|US|Colorado|2p|34l|-82v|1d
+East Freehold|US||48|33w|-5q9|1d
+East Harwich|US||48|37u|-5ej|1d
+Eagar|US||4i|2mr|-8fl|1d
+Easton-in-Gordano|GB||9b|3z0|-7i|1c
+Eagleville|US|Pennsylvania|48|33k|-5th|1c
+East Quogue|US||48|35g|-5lm|1c
+East Calder|GB||9b|4b9|-9m|1b
+East Richmond-Fraser Lands|CA||5b|3sk|-9hr|1a
+East Palestine|US||48|35f|-67q|1a|Eost-Palestino
+Earby|GB||9b|45s|-5y|19
+East Petersburg|US||48|33e|-5w3|19
+East Greenbush|US||48|3ab|-5oq|19
+Easingwold|GB||9b|46c|-3b|18
+East Troy|US||2f|3av|-6tl|17
+East Merrimack|US||48|3b3|-5ik|16
+East Gosford|AU||8l|-2kw|bof|16
+Earlville|AU||8c|-1b3|b8t|16
+East Hampton North|US||48|35t|-5kj|15
+Eastwood|US|Louisiana|2f|2ig|-77x|15
+East Windsor|US||48|38f|-5lj|15|Broad Brook;Broadbrook;Braud Brook
+Eauze|FR||9k|3du|a|15
+East Devonport|AU||8g|-36f|ban|14
+Eastwood|CA|Alberta|2s|44t|-8r7|14
+Eastview|CA|Saskatchewan|4q|40p|-885|14
+East Sandwich|US||48|37y|-5fp|13
+Eaton Bray|GB||9b|404|-1n|13
+Earls Colne|GB||9b|409|1y|13
+Eaunes|FR||9k|3cn|3r|12|Èunas
+Eastland|US||2f|2i0|-7mi|12
+Eār|IN||6t|1yn|6ia|12
+Eaglemont|AU||8j|-2ww|b6y|12
+East Geelong|AU||8j|-2y0|b51|12
+East Bunbury|AU||8k|-2km|8xa|11
+East Rockingham|US||48|2p0|-65k|11
+East Galt|CA||59|3cg|-672|11
+Eastover|US|North Carolina|48|2pi|-62w|11
+Eastern Heights|AU||8c|-24r|bse|11
+Eagle Lake|US|Texas|2f|2a7|-7fl|11
+East Angus|CA||59|3ic|-5j3|10
+East Lindfield|AU||8l|-2lt|bnz|10
+East Mackay|AU||8c|-1mr|big|z
+Aldergrove East|CA||5b|3sa|-9g5|z|East Aldergrove
+Eastern Hillsides|CA||5b|3si|-9ef|z
+Eagle Grove|US||2f|3ai|-78u|y|Eaglegrove
+Moúdhros|GR||8p|32r|1y7|y|Mudros;East Mudros
+East Corrimal|AU||8l|-2ni|bn7|x
+Eastlawn Gardens|US||48|357|-5t6|x
+East Richmond Heights|US||3p|2xe|-9fr|x
+East Dundee|US||2f|38y|-6t7|w
+East Prairie|US||2f|2u6|-6wb|w
+Eaglesham|GB||9b|4au|-bv|w|Baile na h-Eaglais
+East Hills|AU||8l|-2mc|bnf|v
+East Gaffney|US||48|2pg|-6ar|v
+Eaux Claires|CA||2s|44y|-8r9|v
+East Syracuse|US||48|3bn|-5vc|u
+East Greenville|US||48|349|-5tq|u
+East Side|AU||8e|-1tt|abx|t
+East Killara|AU||8l|-2ls|bny|t
+Eatonville|US|Washington|3p|3m7|-9fn|t
+Eagle Lake|US|Minnesota|2f|3eo|-78s|s
+Early|US|Texas|2f|2g6|-7mv|s
+East Oakdale|US||3p|2wz|-9bk|s
+Eastbourne|NZ||ak|-36q|dhu|s
+East Dennis|US||48|37y|-5ew|s
+East Tawas|US||2q|3f0|-6fx|r
+East Norwich|US||48|35h|-5oa|r
+East Hampton|US|Connecticut|48|37i|-5le|r
+East Migpulao|PH||71|l7|9io|r
+East Lansdowne|US||48|32z|-5t2|r
+Easington|JM||3i|1ds|-5wr|q
+East Williston|US|New York|48|358|-5oj|q
+East Taieri|NZ||ak|-3ji|d55|q
+East Ayton|GB||9b|46p|-1b|q
+East Douglas|US||48|38v|-5j7|q
+East Royalty|CA||35|3kk|-4va|p
+Eastry|GB||9b|3yd|3n|p
+East Quincy|US||3p|32x|-9bu|p
+East Peckham|GB||9b|3y9|13|p
+Eagle Lake|US|Florida|48|25q|-6b4|p
+East Valencia|PH||71|tn|9gv|o
+East Ryde|AU||8l|-2lx|bnt|o
+East Brewton|US||2f|2ed|-6pu|o
+East Uniontown|US||48|32u|-65e|o
+East Newark|US||48|357|-5q0|o
+East Dublin|US||48|2if|-6e7|o
+East Ipswich|AU||8c|-24p|bsd|o
+East Jordan|US||2q|3hg|-6kg|o
+Eastpoint|US||48|2am|-6js|n
+East Baltimore Midway|US||48|317|-5ws|n
+Kemajuan Tanah Bukit Aping Timur|MY||6v|53|80y|n|FELDA Bukit Aping Timur;Bukit Aping Timur;East Aping Mountain
+East Bernard|US||2f|2a1|-7ev|n
+Earle|US||2f|2q0|-6zb|n|Earl
+Eatonville|US|Florida|48|27h|-6a2|n
+East Sonora|US||3p|2xi|-9ac|n
+East Bergholt|GB||9b|40e|2u|n
+East Manoa|US||ax|1n7|-c6d|n
+East Ithaca|US||48|39v|-5we|m
+East Kurrajong|AU||8l|-2l3|bmv|m
+Eastern Beach|NZ||ak|-2uf|dhu|m
+East Arlington|US||48|319|-5wz|m
+East Missoula|US||2p|3m7|-8si|m
+East Harling|GB||9b|41o|2l|l
+East McKeesport|US||48|346|-65p|l
+East Launceston|AU||8g|-374|bcr|l
+Easton|US|California|3p|2tt|-98r|l
+East Pepperell|US||48|3aj|-5it|l
+East Helena|US||2p|3lf|-8mw|l
+East Atlantic Beach|US||48|35b|-5ov|k
+Kemajuan Tanah Sungai Pancing Timur|MY||6v|am|7yo|k|FELDA Sungai Pancing Timur;Sungai Pancing Timur;East Pancing River
+East Bendigo|AU||8j|-2u2|b4w|k
+East Berwick|US||48|362|-5vq|k
+Eagle|US|Wisconsin|2f|3b4|-6tr|k
+East Wemyss|GB||9b|4c0|-8i|k
+East Washington|US||48|33l|-66w|k
+East Bronson|US||48|29u|-6df|j
+Eastview|CA|Saskatchewan|4q|3w6|-82j|j
+Kemajuan Tanah Bukit Easter|MY||6v|4v|814|j|FELDA Bukit Easter;Bandar Easter;Bukit Easter;Easter City
+East Kingston|US||48|3b9|-5ha|j
+Eau Claire|CA||2s|3xt|-8sw|j
+Eastriggs|GB||9b|48r|-8u|j
+East End|KY||2e|1hm|-69c|i|Sharq Uchi
+East Innisfail|AU||8c|-1cp|b9n|i
+East Broughton|CA||59|3kd|-5hg|i
+Eastport|US|New York|48|35f|-5m1|i
+East Bridgford|GB||9b|436|-2p|i
+East Branxton|AU||8l|-2ip|boh|i
+East Pittsburgh|US||48|348|-65s|i
+Earlston|GB||9b|4ak|-7f|i|Dún Airchill
+Eastwood|CA|Ontario|59|3co|-67i|i
+Enontekiö|FI||92|59z|1tn|i|Eanodat;Enontekis
+Ea|ES||9d|3ci|-77|i
+East Chevington|GB||9b|49k|-4e|i
+Eaton|US|Indiana|38|342|-6l3|h
+Ealing|NZ||ak|-3ed|d86|h
+East Linton|GB||9b|4bj|-7e|h
+Eastmount|CA||43|3hv|-53f|h
+East Dubuque|US||2f|3a1|-6zs|h|Đông Dubuque
+East Palatka|US||48|2ae|-6ao|h
+Eagleview|US||48|33a|-5u8|g
+East Brooklyn|US||48|384|-5jq|g
+Earlville|US|Illinois|2f|37j|-6v0|g
+East Sahuarita|US||4i|2gq|-8k5|g
+East Dean|GB||9b|3xs|-4h|g
+East Cleveland|US|Tennessee|48|2po|-6jq|g|Orient-Klevlando
+Earith|GB||9b|41f|3|g
+East Canton|US||48|35b|-69s|g
+East Meadows|CA||50|3o8|-42e|g
+Eastermar|NL||8m|43p|gu|g
+East Millinocket|US||48|3ir|-5ah|g
+East Bangor|US||48|35k|-5su|g
+East Spencer|US||48|2r4|-67f|f
+East Hazel Crest|US||2f|37h|-6rh|f
+Muirkirk|GB||9b|4a8|-bb|f|Eaglais an t-Slèibh
+East Berlin|US||48|32y|-5xu|f
+East Sooke|CA||5b|3qd|-9jk|f
+East Valley|US||3p|306|-98i|f
+East Lexington|US||48|2wz|-64n|f
+East Griffin|US||48|2kc|-6hz|f
+East End|CA|Ontario|59|3qg|-6vv|e
+East Wellington|CA||5b|3sl|-9ki|e
+Aughrim|IE|Leinster|8z|42t|-hl|e|Eachroim
+Eatons Neck|US||48|35p|-5nw|e
+Earlham|US||2f|379|-79g|e
+Earlington|US||2f|2vj|-6r3|e
+Eagle River|US|Wisconsin|2f|3jk|-6vw|e
+East Machias|US||48|3ga|-577|e
+East Sumter|US||48|2m9|-672|d
+East Brookfield|US||48|39b|-5k5|d
+East Kempsey|AU||8l|-2ec|bsl|d
+East Newnan|US||48|2kn|-6ji|d
+Eagle Butte|US||2p|3h0|-7t7|d
+Easton|US|Maine|48|3lk|-58n|d
+East Carbon City|US||2p|31v|-8ip|d
+Eastport|US|Maine|48|3gq|-562|d
+East Whitburn|GB||9b|4b7|-a6|c
+East Hanney|GB||9b|3zf|-3w|c
+East Bairnsdale|AU||8j|-2x3|be6|c
+East Keswick|GB||9b|45p|-41|c
+Eaton Estates|US||48|36r|-6bt|c
+East Rainton|GB||9b|48b|-44|c
+Eagle Lake|US|Wisconsin|2f|3an|-6st|c
+Easterwood|US||48|317|-5wx|c
+East Markham|GB||9b|43x|-2h|c
+East Conemaugh|US||48|343|-634|c
+Eastrington|GB||9b|45c|-27|b
+East Earl|US||48|33f|-5v7|b
+East Carnarvon|AU||8k|-1x2|8rs|b
+Askeaton|IE||8z|424|-oy|b|Eas Géitine
+Eastchurch|GB||9b|3yt|2e|b
+Earlston|US||48|335|-61p|b
+East Hampton|US|New York|48|35s|-5ki|b|Est Hampton;Easthampton
+Eastington|GB||9b|3zr|-6h|b
+Easton|US|Wisconsin|2f|3ds|-6xh|b
+Eanjum|NL||8m|449|h1|b
+Eagle|US|Nebraska|2f|35e|-7fv|a
+Eagle Point|AU||8j|-2xa|be8|a
+Easton on the Hill|GB||9b|427|-1f|a
+Earth|US||2f|2n3|-7wh|a
+East Gull Lake|US||2f|3kx|-7a4|a
+East Jindabyne|AU||8l|-2t4|bgx|a
+East Hetālia|BD||6a|1q2|6yv|a
+Ear Falls|CA||5d|3wo|-770|a
+East Hanningfield|GB||9b|3zk|1k|a
+East Freedom|US||48|344|-61v|a
+Earlswood|GB|England|9b|41h|-53|a|Earl's Wood
+East Prospect|US||48|331|-5wk|9
+East Bank|US||48|2y6|-6a8|9|Eastbank
+East Marion|US||48|369|-5ky|9|İst Marion
+Easington|GB|England|9b|47j|-2d|9
+Easternijtsjerk|NL||8m|44a|gt|9
+East Brady|US||48|35v|-655|9
+East Tawakoni|US||2f|2jc|-7eh|9
+East Hoathly|GB||9b|3xg|g|9
+Earsham|GB||9b|41p|3y|9
+Oosterend|NL|Friesland|8m|43i|fm|9|Easterein
+Eastern Creek|AU||8l|-2lx|bn2|9
+Eastgardens|AU||8l|-2mb|bo3|9
+East Meon|GB||9b|3xo|-2v|9
+East Preston|CA||35|3g8|-4w6|9
+East Camden|US||2f|2ld|-75m|9
+East Warburton|AU||8j|-2wu|b8u|9|Warburton East
+Ecclefechan|GB||9b|48y|-93|9|Eaglais Fheichein Fechan
+Earlville|US|New York|48|3aq|-5tv|8
+East Barre|US||48|3eo|-5l9|8
+Eastover|US|South Carolina|48|2m4|-685|8
+East Mountain|US||2f|2ij|-7bi|8
+Eastwood|AU|South Australia|8b|-2p2|ap2|8
+East Sparta|US||48|34z|-69z|8
+East Galesburg|US||2f|35r|-6yv|8
+Eagle|GB||9b|43r|-1x|8
+Earlville|US|Iowa|2f|3a0|-71j|8
+East Huntspill|GB||9b|3y8|-86|8
+East Winch|GB||9b|42g|1f|8
+East Tulare Villa|US||3p|2sk|-97c|8
+East Challow|GB||9b|3zb|-41|8
+Eastborough|US||2f|2wp|-7i6|8
+Eastwood|US|Maryland|48|315|-5wl|8
+East Pecos|US||2p|2qt|-85i|8
+East Bernstadt|US||48|2vb|-6ho|7
+East Butler|US||48|35k|-65t|7
+Idre|SE||9w|4ru|zb|7|Eajra
+East Fork|US||4i|2lw|-8hd|7|Hasbídí Áshįįhí
+Eastview|US||2f|2pg|-6tz|7
+East Williston|US|Florida|48|29n|-6cy|7
+Easington|GB|England|9b|451|c|7
+Eastern Kings|CA||35|3kz|-4si|7
+Eaglesfield|GB||9b|48y|-8w|7|Eaglais
+East End Village|AI||1i|1en|-4v0|7|East End Köyü;Sharqiy Soʻng Qishlog'i;Desa East End;Kampung East End;Pueblo East End;Village de East End;East End Dorf;Kauyeni East End;Gandaa East End;Vila East End;Tuulo East End;Kijiji cha East End
+East Vandergrift|US||48|34s|-650|7
+Eagleville|US|Tennessee|2f|2ra|-6op|7
+East Budleigh|GB||9b|3wp|-98|7
+Eaton|GB||9b|42t|-2a|6
+East Harptree|GB||9b|3yi|-7a|6
+East Haddon|GB||9b|41b|-2u|6
+Earlsboro|US||2f|2pz|-7gw|6
+East Deep Creek|AU||8c|-20s|bs8|6
+East Brent|GB||9b|3ye|-85|6
+East Halton|GB||9b|452|-s|6
+Eagle Lake|US|Maine|48|3mo|-5aj|6
+East Randolph|US||48|395|-63b|6
+Eau Claire|US|Michigan|2q|38n|-6nq|6
+Eads|US||2p|2yw|-7xi|6
+East Avon|US||48|3b7|-5zv|6
+Eastend|CA||4q|3tk|-8ea|6
+Eaton|AU|Northern Territory|8e|-yh|a3k|6
+East Bend|US||48|2sm|-67n|6
+Aughrim|IE|Connacht|8z|442|-n3|6|Eachroim
+East Millstone|US||48|34i|-5r6|6
+East Stour|GB||9b|3xp|-6d|6
+East Nassau|US||48|3a3|-5o7|6
+Eagle Bay|CA||5b|3xh|-976|6
+East Dailey|US||48|2zq|-65x|6
+East Ellijay|US||48|2oc|-6in|6
+Oosterstreek|NL||8m|42y|h4|6|Easterstreek
+Eardisley|GB||9b|40u|-8d|6
+East Rochester|US|Pennsylvania|48|352|-66z|6
+Oosterbierum|NL||8m|43v|fb|6|Easterbierrum
+East Rudham|GB||9b|42q|1z|5
+East Ilsley|GB||9b|3z5|-3l|5
+East Garston|GB||9b|3z1|-44|5
+East Cowton|GB||9b|476|-49|5
+Early|US|Iowa|2f|39y|-7cb|5
+Eardington|GB||9b|41v|-6p|5
+Oostdijk|NL||8m|3yw|bc|5|Eastdyk;Oôsdiek
+Eagletown|US||2f|2mj|-7ap|5
+Catalan Bay|GI||90|2se|-eu|5|East Side
+Eagle Bend|US||2f|3k8|-7c0|5
+Easton|US|Texas|2f|2hz|-7aq|5

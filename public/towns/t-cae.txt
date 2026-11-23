@@ -1,0 +1,49 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kayseri|TR||94|2zl|2ql|b7h|Cesarea in Cappadocia;Kajseri;Cesarea;Cesarea de Capadocia;Kaiseris;Caesarea in Cappadocia;Qayseri;Kaiseri;Caesarea;Casarea;Césarée;Kaisaria;Kaisarie
+Zaragoza|ES||9d|37q|-2g|5au|Saragossa;Salduie;Saragoso;Saragosse;Saragozza;Caesarea Augusta;Saragosa;Saragoça;Zaragosa;Çaragoça;Saragoza;Saraqosa;Caesaraugusta;Zargoza
+Edinburgh|GB||9b|4bf|-8w|3z2|Edimburgo;Dinedin;Edimburg;Caeredin;Edinburgo;Édimbourg;Dún Éideann;Edinborg;Edimburgum;Edinburgas;Edynburg;Edinburrie;Idinburg;Edinburg;Edinburga;Edimborg;Edimburgu;Embra;Edinburq;Edimborgh;Edimbùrgh;Edinburc;Ebora;Edinbo;Doon Edin;Edinboarch
+Cardiff|GB||9b|3z0|-8u|2vd|Caerdydd;Kerdiz;Kardydh;Kardifas;Kadif;Kārdifa;Kardip;Kardiff;Cayr Deeth;Cairdiff
+Leicester|GB||9b|428|-35|2ue|Caerlŷr;Lecestro;Lestera;Lesteris;Lester;Leicestria;Léyséstér;Leiscester
+São Caetano do Sul|BR||4w|-1tm|-3lb|1bz
+Cambridge|GB||9b|410|c|14h|Caergrawnt;Kembriĝo;Cantabrigia;Grantanbrycg;Kembridžas;Kiam-khiâu;Kambrij;Kembric;Kembridža
+Gloucester|GB||9b|403|-68|10s|Caerloyw;Glosteris;Glutséstér;Glevum
+Exeter|GB||9b|3ww|-9t|10b|Eksetero;Karesk;Exonia;Caerwysg;Ekseteris;Exanceaster;Eksetera;Ekseter
+Setúbal|PT||99|2z0|-op|wu|Caetobriga
+Caen|FR||9k|3sn|-10|uq|Kāna;Kanas;Can;Caðum;Cadomum;Quaam;Kadunum;Cham;Chaem;Chaam;Catomum;Cathim;Caon;Canz;Cahem;Caem;Cadumum;Caam
+Worcester|GB||9b|40z|-66|s9|Caerwrangon;Vusteris;Wiogoraceastre;Vigornia
+Bath|GB||9b|3yq|-6k|s8|Baðanceaster;Caerfaddon;Aquae Sulis;Bāta;Batas;Bat
+Cesena|IT||9o|3em|y0|qz|Césène;Zisèna;Caesena
+Chester|GB||9b|43r|-81|p5|Ĉestro;Caer;Česteris;Cestria;Yn Çhaayr;Deva
+Talavera de la Reina|ES||9d|330|-df|op|Aebura;Ebora;Caesarobriga;Elbora;Ebura
+Carlisle|GB||9b|48i|-86|lt|Caerliwelydd;Cathair Luail;Carliolum;Karlailas;Luel
+Canterbury|GB||9b|3yg|30|fb|Cantorbery;Durovernum;Durovernum Canticorum;Cantwarebyrig;Cantwaraburg;Cantuária;Caergaint;Kantaraborg;Kenterberis;Kenterberija
+Caetité|BR||20|-133|-39z|eg
+Lancaster|GB||9b|465|-7s|d4|Caerhirfryn;Lankastér;Lonceaster;Lankasteris
+Winchester|GB||9b|3xv|-3o|ct|Wintonia;Winsjester;Caerwynt;Ouînchêtre;Vinčesteris
+Salisbury|GB||9b|3xv|-50|cf|New Sarum;Caersallog;Searoburg;Sarisberia;Solsberis;Solsberi
+Caeté|BR||4w|-1j8|-3db|as
+Lichfield|GB||9b|42c|-53|9n|Lichfildia;Liccidfeld;Ličfildas;Ličfīlda;Liçfild;Caerlwytgoed
+Cherchell|DZ||3|2to|63|9k|Sersell;Caesarea Iol;Szarszal;Cercal;Iol Caesarea;Şerşel;Shershel;Cherchez;Shershell;Cherche;Cherchel
+Caerphilly|GB||9b|3z9|-8y|8n|Caerffili
+Caetés|BR||4p|-od|-2tq|8i
+Cerveteri|IT||9o|38n|xl|4f|Chisra;Caere;Care;Agylla;Cisra;Cerveleri
+Carmarthen|GB||9b|402|-bz|4f|Caerfyrddin;Karmardenas;Karvyrdhin;Caermarthen
+Caetanos|BR||20|-13u|-35n|42
+Caetanópolis|BR||4w|-1hm|-3fe|36
+Holyhead|GB||9b|443|-cv|36|Caergybi;Holihedas
+Caernarfon|GB||9b|43m|-bv|2p|Kernarvonas;Karnarvon;Carnarvon
+Caém|BR||20|-ut|-34c|2j|Cahem
+Caerleon|GB||9b|3zd|-87|29|Caerllion
+Caerano di San Marco|IT||9o|3j6|xc|1z
+Caesarea|IL||6n|2ic|2oy|1h|Césarée;Qesarya;Keisarya
+Caergwrle|GB||9b|43j|-8g|1b
+Kaisheim|DE||8r|3rh|u0|17|Caesarea
+Caernarvon|CA||2s|44x|-8rd|16
+Kaysersberg|FR||9k|3pq|k6|s|Caesaris Mons;Kayserberg
+Caëstre|FR||9k|3x0|78|h
+Caerwent|GB||9b|3zd|-7p|c
+Fiumara|IT|Calabria|9o|2y5|17l|c|Caenesium;Sciumara i Muru
+Caerwys|GB||9b|43x|-97|a
+Caesarea|CA||59|3en|-62z|8
+Caersws|GB||9b|41w|-9j|8|Kersusas
+Cecilton|US||48|31g|-5ur|7|Caecilton;Caecil Town

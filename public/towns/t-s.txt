@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Xi’an|CN||7i|2n6|8el|2ry1|Hsi-an;Xian;Ŝiano;Sianas;Tây An;Siaņa;Ŝingano;Šjan;Singan;Sian
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Delhi|IN||6t|27l|5yj|2d56|Delis;Deli;Dillí;Dellium;Šáhdžahanabád;Déhli;Dilhi;Dähli
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Shenyang|CN||7i|383|9iv|1xzh|Šenjangas;Thẩm Dương;Senjang;Ŝenjango;Šeņjana;Šen-jang;Sjenyang;Sím-iông-chhī;Sīng-iòng;Shenyan;Swnjyangh;Şenyanq
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Suzhou|CN|Jiangsu|7i|2ey|9b0|1ftg|Tô Châu;Su-čou;Suĝoŭo;Sû-chû-sṳ;Sudžou;Sutsjou;Suchjou;So͘-chiu-chhī;Sŭ-ciŭ;Szucsou;Su-chou
+Shijiazhuang|CN||7i|2xo|8u0|18fk|Thạch Gia Trang;Š’-ťia-čuang;Šidziadžuangas;Ŝiĝjaĝŭango;Siŏh-gă-cŏng;Sicsiacsuang;Šidzjadžuana;Swzgyahcuengh;Chio̍h-ka-chng-chhī;Šidžjadžuang;Shicziyajuan;Şiciyajuang;Shihjiazhuang
+Sydney|AU||8l|-2m3|bo1|17ic|Sidnejo;Sidney;Sidnėjus;Sydneium;Sidneja;Sanctus Dionysius;Syd;Sidni;Sėdniejos;Sit-nì;Sék-nà̤;Sidnei
+Singapore|SG||7j|3l|80h|17ib|Tumasik;Singapur;Singapour;Singapura;Sîn-kâ-po;Temasek;Dānmǎxī
+Dar es Salaam|TZ||h|-iy|313|15jh|Daressalam;Dar es-Salam;Dar es-Salaam;Dar-es-Salaam;Dar es Salamas;Dar es Salam;Daresalamo;Daressalaam;Dar es Salams;Dárasalám;Dāresalāma;Darüsselam
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Santiago|CL||4u|-2ky|-5g9|11bp|Sanctiacobi;Čilės Santjagas;Santjago
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Surat|IN||6t|1mw|5mb|zfc
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Changzhou|CN||7i|2g9|997|pe5|Changtsjou;Csangcsou;Thường Châu;Čangdžou;Čchang-čou;Ĉangĝoŭo;Siông-chiu-chhī;Siòng-ciŭ;Čangdžov;Changchow;Ch’ang-chou
+Surabaya|ID||6l|-k5|8p7|nac|Soerabaja;Surabaja;Surabaia;Surabajo;Soerabaya;Sourabaya
+İzmir|TR||94|2yp|23e|mo7|Esmirna;Smirne;Ismir;Smyrne;Azmir
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Salvador|BR||20|-102|-2yx|kxa|Soteropolis
+Chicago|US||2f|389|-6rh|kk5|Ĉikago;Sicagum;Čikaga;Şikago;Chicagu;Chikago;Kikako;Tsikago;Çikaqo;Chi-kâ-kô;Čėkaga;Shikago
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Mashhad|IR||7o|2su|4ll|hsw|Mashad;Maŝhado;Meszhed;Mexed;Maschhad;Masyhad;Meşhed;Mešheda;Meixad;Mešhedas;Maxhad;Maşat;Sanaabad;Alexandria
+Shaoxing|CN||7i|2bc|9ay|hqw|Shawshin shehiri;Ŝaosing;Šao-sing;Thiệu Hưng;Sjaoxing;Siāu-heng-chhī;Siêu-hĭng;Shao-hsing;Shaohing
+Santo Domingo|DO||4v|1fb|-5e5|gzn|Saint Domingue;Ciudad Trujillo;Santo-Dominqo
+Sapporo|JP||7q|3bn|awn|f8a|Sapporum;Saporas;Saporo;Szapporo
+Songjiang|CN||7i|2e7|9cq|f87|Sungkiang
+Sanaa|YE||5r|16n|3et|ey7|Sana'a;Şana‘ā';Sana;Sanao;San'a;Şan‘ā’;San’ah
+Shangqiu|CN||7i|2nl|8xa|ecl|Shang-ch’iu;Shangkiu
+Santa Cruz de la Sierra|BO||3n|-1df|-4vi|e4q|Santa Cruz;Santa Cruz da Serra;Santa-Kruzo

@@ -1,0 +1,88 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nakuru|KE||16|-v|2s7|4ej
+Nakano|JP|Tokyo|7q|2r6|arz|2nt|Nakanas
+Hitachi-Naka|JP||7q|2t4|aud|17i|hitachinaka
+Nakhodka|RU||7w|3b0|a98|14t|Nachodka;Naĥodka;Nahhodka;Najodka;Naxodka;Nahotk;Langouwai
+Nakhon Ratchasima|TH||62|15l|7vm|z4|Nakhon Ratczasima;Nakhon Ratchasim;Nakhon Ratčasima;Nakhon Ratcsaszima;Nakhonratčasima;Nakhonratčasim;Nakhon Ratchsima;Nakonratchasima;Nakhonratsima
+Nakhon Pathom|TH||62|12e|7pw|wr|Nakhaun Pathom;Nakon Patom
+Nakhon Si Thammarat|TH||62|nf|7pp|se|Nakhon Si Tammarat;Nakhon Szi Thammarat;Naxon Si Tamarat;Nakhaun Si Thammarat;Nakhonsithamrat;Nakon Sitamarat;Nakon Sritamarat;Nakhon Si Thammarht;Nakon Sri Tammarat;Nakhon Srithamarat
+Naxçıvan|AZ||61|30x|3i5|r0|Nakhichevan’;Nakhitsjevan;Nakhchivan;Nachitschewan;Nakhichivan;Nakhitchevan;Nahičevan;Nahçıvan;Naxchivan;Najchivén;Naxuana
+Nakonde|ZM||z|-py|2iy|pb
+Nakatsu|JP||7q|2lc|a4f|nj|Nakatu-chhī;Nakatu
+Nakhon Sawan|TH||62|17m|7q6|mv|Nakhonsavanas;Nakawn Sawan;Naklon Sawan;Nakon Sawan;Nakhaun Sawan;Nakaun Sawan;Nakorn Sawan
+Nakatsugawa|JP||7q|2qk|aly|lx|Nakatugawa-chhī
+Nakivale Refugee Camp|UG||q|-22|2e4|j0
+Naksalbāri|IN||6t|224|6t2|fx|Naxalbari;Nakalbāri
+Naka|JP||7q|2s5|atd|er
+Nakama|JP||7q|2ly|a33|cz
+Nakatogari|JP||7q|2pm|apu|c1
+Nakano|JP|Nagano|7q|2u3|aod|bv
+Nakodar|IN||6t|2eh|5to|aa
+Nakhon Phanom|TH||62|1cd|832|9m|Nakon Panom;Nakol Phanom;Nakhaun Phanom
+Nakamura|JP||7q|2jm|a99|9m
+Nakaloke|UG||q|37|2mv|9d
+Nakhabino|RU||9i|4b5|2va|8t
+Na Klang|TH||62|1c3|7vv|8m
+Nagqu|CN||7i|2fg|73q|8c|Préfecture de Nagchu;Nagčhu;Nakchu;Nagchuka;Na-ch’ü;Naqu
+Nakrekal|IN||6t|1bo|64n|83
+Nakatsukuma|JP||7q|2kk|a2c|73
+Nacka|SE||9w|4kr|1eg|70|Naka;Nak
+En Nâqoûra|LB||64|2k0|2pm|6x|Naqoura;Naqura;An-Nakura;Nakura;An Nāqūrah;En-Naqourah;Enn Nâqoura;En Nakura;En Nāqūra
+Nakashibetsu|JP||7q|3cz|b6p|6o
+Nakūr|IN||6t|2b4|5yq|6f
+Nakagusuku|JP||7q|20x|9uy|66
+Naka-niida|JP||7q|2z5|av9|63
+Nakhon Nayok|TH||62|13g|7t5|5x|Nakhaun Nayok;Nakon Nayok;Nakaunnayok;Nakhon Nauok
+Nakło nad Notecią|PL||a5|43m|1cw|5g|Naklo pie Notecas;Nakle;Nakell;Nakło;Nakel
+Nakhl-e Taqī|IR||7o|24e|423|58|Nakhl Takki;Nakhl Taqī;Nakhl-i-Taqi
+Nakaiburi|JP||7q|2na|agh|4g
+Nakanobu|JP||7q|2qw|as3|4f
+Nakanojō|JP||7q|2tn|apo|4c
+Nakhon Luang|TH||62|146|7rh|46
+Nakameguro|JP||7q|2r0|as2|45
+Nako|LS||12|-2aa|255|3n|Naku
+Nakhon Thai|TH||62|1bi|7s4|3f|Nakon Thai
+Nakskov|DK||8y|48b|uy|3c
+Nakambala|ZM||z|-17z|256|2w
+Nékédé|CI||0|hy|-go|2u|Nakédé
+Naka-kawabe|JP||7q|2qk|akr|2r
+Nakamatsu|JP||7q|2j8|a41|2q
+Nakasato|JP||7q|35t|au4|2p|Nakazato
+Sakai|JP|Kanagawa|7q|2q7|aqp|2l|Nakai
+Nakara|CI||0|my|-fo|2j
+Nakijin|JP||7q|224|9vh|2h
+Nakami|JP||7q|2zs|aub|29
+Nakazawa|JP||7q|2ry|any|25|Nakasawa;Nakassawa
+Nakkāpalle|IN||6t|1cd|6ds|24
+Nakazato|JP||7q|2ra|as7|1z
+Nakasongola|UG||q|3n|2i6|1x
+Nakayama|JP|Nagano|7q|2tx|aod|1u|Takayama
+Nakajima|JP||7q|2ta|ajf|1p
+Nakatunguru|TZ||h|-5w|2jv|1p
+Nakanokami|JP||7q|2ch|a3n|1i|Nakano-kami
+Nakkila|FI||92|4qh|1p4|1d|Nackeby
+Naka-furano|JP||7q|3ck|azm|1b
+Naka-satsunai|JP||7q|3am|b1l|13
+Nakło|PL|Silesia|a5|3w4|1gj|12
+Nakhula Grant|IN||6t|20k|745|12
+Nakayama|JP|Gunma|7q|2tr|aq1|z|Takayama
+Nakovo|RS||8q|3jg|1l5|q
+Nakhl-e Ebrāhīmī|IR||7o|23d|4e3|l|Nakhl Ebrāhīm;Nakhl-e-Ebrāhīm;Nakhl Ebrāhīmī
+Nakara|AU||8e|-yd|a3k|k
+Nakagawa|JP|Fukushima|7q|2w3|arl|j|Nakakawa;Nakagā
+Nakatonbetsu|JP||7q|3gx|az9|i|Naka-tombetsu
+Naklo|SI||9a|3kj|13s|h|Naklas
+Nakusp|CA||5b|3vl|-938|h
+Nakagawa|JP|Hokkaido|7q|3gh|ayo|g|Nakagaka
+Náklo|CZ||9m|3tx|1bl|f
+Nakło|PL|Opole Voivodeship|a5|3wi|1ec|e|Nakel
+Nakkaş|TR||94|36f|27c|8
+Nakao|JP||7q|2s6|aow|8
+Nakučani|RS||8q|3fw|1in|7|Nakučane
+Nakanoshima|JP||7q|2az|a0r|7
+Nakala|CI||0|ni|-bv|7
+Nakolec|MK||9u|35l|1mn|6
+Nakło|PL|Silesia|a5|3wq|1it|6
+Nakano|JP|Okinawa|7q|203|a4r|6
+Naknek|US||1h|4j5|-c45|5|Nakniq;Nagnek;Nakneq;Naknak;Nahnek
+Nakło|PL|Subcarpathia|a5|3uk|1rs|5

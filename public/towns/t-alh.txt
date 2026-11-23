@@ -1,0 +1,65 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Al Ḩudaydah|YE||5r|154|3bb|5o3|El Hudeyda;Al Xudayda;Elhudayda;Al Hudaidha;Ḩudaydah
+Al Hillah|IQ||5z|2i6|3fe|3il|Hilla;Al Hilla;Hillah;Hila;El-Hille;Hille;al-Ḥillah
+Al Ḩasakah|SY||69|2te|357|39c|Hasaka;Al-Hasakah;Hasakah;Heseke;Hesîçe;Al-Hasaka;Hassaké;Haseke;Hasakeh;El Haseke;Al-Hasakeh
+Al Hoceïma|MA||d|2px|-ay|31w|Villa Alhucemas;Villa Sanjurjo;Alhucemas;Al-Husajma;Al-Hoceima;Alhacemas;Al Ḩusaymāt;Al Huceima
+Al Hufūf|SA||7e|1yg|3tr|29g|Hofuf;Al Hofuf;Hufuf
+Al Khums|LY||1d|2ip|13m|1k3|Al-Chums;Al Ĥums;Khums;Humsas;Kums;Al-Khums;El Hums;Al Jums;El Xums;Khoms
+Al Ḩawāmidīyah|EG||c|2b2|2et|173
+Al Hindīyah|IQ||5z|2ie|3eu|12s
+Alhambra|US|Arizona|4i|2l2|-8nh|zi
+Hammamet|TN||1e|2t4|ti|tj|Al-Hammamat;Hamametas;Al Ḩammāmāt
+Al Hārithah|IQ||5z|2cy|3oo|po|Al Hārthah
+Alhambra|US|California|3p|2mq|-945|ns
+Al Ḩurshah|LY||1d|2j0|z7|mj
+Al Ḩayy|IQ||5z|2hd|3jw|lr|Al Hay
+Al Ḩāmūl|EG||c|2ez|2ej|g8|El-Ḥâmûl
+Al Ḩusaynīyah|EG||c|2dq|2go|e3
+Poway|US||3p|2jk|-914|dy|Povėjus;Poveja;Ałhibidiikoohí
+Al-Hamdaniya|IQ||5z|2sr|3ci|dw|Al Hamdaniyah;Al Hamdaniya
+Al Hasaheisa|SD||r|14z|2ki|d6|El Hasiheisa;El Hasaheisa;Al Ḩaşāḩīşa
+El Hamma|TN||1e|2m5|r8|d2|Al Ḩāmmah
+Alhaurín de la Torre|ES||9d|2tu|-co|9r
+Al Ḩawātah|SD||r|11a|2o7|8e|El Hawata;Al Hawwata
+Al Ḩamīdīyah|AE||6c|1yk|4a9|7i
+Al Ḩirāk|SY||69|2iz|2sv|6m|Al Ḩarāk
+Alhaurín el Grande|ES||9d|2ts|-d1|6h
+Alhama de Murcia|ES||9d|2x5|-3z|5j|Alfama de Murcia
+Alhandra|BR||2w|-ko|-2oz|5h
+Al Ḩammām|EG||c|2dp|29n|54|El Ḥammâm
+Al Ḩazm|YE||5r|18w|3ge|52|El Hazm;Elhazm;El-Ḥazm
+Al Hilāliyya|SD||r|15i|2kb|4t|El Hilāliya;Al Hilālīyah
+Al Hilāl al Gharbīyah|QA||7b|1y6|3z5|4b
+Al Hilāl ash Sharqīyah|QA||7b|1y6|3z7|4b
+Al Hayāthim|SA||7e|1v5|3n8|3v
+Alhos Vedros|PT||99|2zd|-p2|3q
+Al Ḩadd|BH||60|20x|3wp|3k|Al Ḩidd
+Alkhan-Kala|RU||9i|3c6|3ii|2u|Meždugor’e;Walxan-Ġala;Mezhdugor’ye;Alhan-Kala
+Alholm|DK||8y|47u|wk|2q
+Alkhan-Yurt|RU||9i|3c3|3il|2h|Alkhan-Jurt;Ayvazovskoe;Ermolovskaya;Walxan-Yurt;Ayvazovskoye;Alhan-Jurt
+Al Hitmī|QA||7b|1y8|3z7|2c
+Al Hudaiba|AE||6c|1y4|49k|25
+Alkhan-Churt|RU||9i|3cf|3gf|25|Alkhan-Tsjurt;Alxan-Çurtskii;Alhan-Čurt
+Elhāyī|IR||7o|2fx|3r0|25|Alhā’ī;Al Hayi;Al Ḩā’ī
+Alhandra|PT||99|305|-p1|20
+Al Hadā|SA||7e|1nc|33w|1x
+Al Ḩamrā’|JO||5t|2i4|2sf|1q|El Ḥamra
+Alhama de Granada|ES||9d|2ut|-b3|1p
+Alkhazurovo|RU||9i|3bm|3it|1j|Olxazaran-Khotar;Olxazar-Khotar;Privol’noe;Privol’noye;Alhazurovo
+Al Ḩulwah|SA||7e|1t4|3lz|1e|Al Ḩilwah;Al Hilwa
+Alhendín|ES||9d|2v3|-a5|1d
+Alheim|DE||8r|3xr|qv|1c
+Al Ḩawāmid|LY||1d|2gu|v0|1a
+Alhadas|PT||99|33n|-of|12
+Alhama de Almería|ES||9d|2uo|-75|y
+Al Ḩamrīyah|AE||6c|1ys|4a9|x|Ḩamrīyah;Al Hamriya
+Alhuey|MX||3x|1yi|-8cd|r
+Alhuaca|MX||41|1fl|-7hx|h
+Al Ḩamdī|YE||5r|18b|3ri|d
+Al Ḩīlah|PS||6g|2ff|2pj|d
+Alhambra|ES||9d|302|-8h|c
+Alhama de Aragón|ES||9d|36q|-59|c
+Al Hāshimīyah|PS||6g|2i6|2pu|a|El Hāshimiya
+Aillas|FR||9k|3fj|-7|7|Alhàs;Aliardum
+Alhabia|ES||9d|2ur|-77|7
+Alhambra|US|Illinois|2f|301|-6x9|7

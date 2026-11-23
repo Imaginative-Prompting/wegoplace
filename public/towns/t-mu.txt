@@ -1,0 +1,1167 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mumbai|IN||6t|1gz|5mg|2pxi|Moembaai;Bombaj;Mumbajo;Bombaya;Bombay;Bombėjus;Mumbaja;Mumbay;Mumbaj;Bombaim;Mumbajus;Bombai;Dakbayan sa Bombay;Bůmbaj;mymbais;Numbai
+Navi Mumbai|IN||6t|1gw|5mu|k28|New Bombay;Navi Moembaai;Novmumbajo;Nova Bombaim;Navi Mumbaj
+Mogadishu|SO||14|5o|3hy|jyo|Muqdisho;Mogadiŝo;Mogadisxo;Mogadischu;Mogadiscio;Mogadišas;Mogadiszu;Mogaidisiú;Mogadişu;Mogadixo;Moqadişo;Mogadiš;Mogadisjoe;Mogadisjû;Mugadiss;Mogadiss;Moukdicho;Mugadishu;Mugadiccu;Mogadixu;Mogadìsciu;Mogadiscium;Mogadisho;Mogandísio;Mogaadisiyo;Muqdishow;Mogadiisho;Muqdishu;Mogadish;Maqdishu;Magadiscio
+Multan|PK||6q|2bw|5ik|gqr
+Mosul|IQ||5z|2sy|3bs|czi|Mossul;Mossoul;Mûsil;Mosoel;Musul;Moszul;Mausilium;Moussoul
+Munich|DE||8r|3pq|w6|bm2|Muenchen;München;Minhen;Munic;Mnichov;Munkeno;Monaco di Baviera;Munîh;Monachium;Miunchenas;Minhene;Monaco e Baviera;Munique;Monacum;Lungsod ng München;Myunxén;Minga;Mynihu;Munike;Monacu di Baviera;Munhen;Mnichow;Munix;Minche;Mònacu;Münegh;Monaco de Baviera;Minca
+Montevideo|UY||45|-2oy|-4c3|9sz|Montevidėjas;Montevidéu;Muntividèu;Muntividëw;Urbs Montis Videi;Montevidiejos
+Mwanza|TZ||h|-70|2je|8it|Muvanzo;Mvanza;Mwansa;Muanza;Mwamza
+Meizhou|CN||7i|1vh|8yk|7no|Mej-čou;Mòi-chiu-sṳ;Mai Châu;Mûi-chiu-chhī;Mùi-ciŭ
+Mulenvos|AO||x|-on|111|6t0
+Muscat|OM||72|1ti|4i9|65e|Mascate;Maskat;Masqat;Muskat;Maskatas;Maskate;Maskato;Maskata;Maszkat;Masquat;Mascat
+Muzaffarābād|PK||6q|2nh|5o3|5le|Muzafarabad;Muzaffarobod;Musaffarābād
+Morādābād|IN||6t|284|62u|5kb|Murādābād
+Mudanjiang|CN||7i|3fr|a03|54z|Mu-tan-ťiang;Mudancjan;Mudandziangas;Mẫu Đơn Giang;Mū-dăng-gĕ̤ng;Bó͘-tan-kang-chhī;Mutankiang;Mu-tan-chiang
+Mukalla|YE||5r|14e|3sg|4la|Mukolla;Mukella;Mukala;Muqadisho
+Muntinlupa|PH||71|13z|9c9|49e
+Kota Kuala Muda|MY||6v|fj|7qt|47e
+Mohammadpur|BD||6a|1x6|6tx|42k|Muhammadpur;Mahammadpur
+Tuen Mun|HK||6i|1q7|8sl|3x3|Tuenmen
+Mukim Pulai|MY||6v|49|7zz|3wh
+Murcia|ES||9d|2xj|-35|3n4|Murcio;Murcie;Mursia;Murcja;Mursija
+Morogoro|TZ||h|-iy|2wm|3my|Morogoras;Murogoro;Mrogoro
+Muratpaşa|TR||94|2uh|2dg|3h0
+Mawlamyine|MM||7y|19t|7j7|3dx|Moulmein;Maulamiain;Molamjainas;Mulmejn;Mawlamyaing;Mulmain;Molamyaing
+Quận Mười|VN||6h|tx|88b|32u
+Khamis Mushait|SA||7e|1eu|3ap|2zo|Chamis Muschait;Khamis Mushayt;Chamis Mušaitas;Chamis Muszajt;Ĥamis Muŝajt;Hamis Muşayt
+Muzaffarpur|IN||6t|20k|6l7|2qh|Muzafarpuras;Muzafarpura
+Muzaffarnagar|IN||6t|29v|5zu|2p5
+Quận Mười Một|VN||6h|tw|888|2kd
+Muar|MY||6v|5o|7wx|2fg
+Münster|DE|North Rhine-Westphalia|8r|40c|l7|2dn|Mönster;Monasterium;Miunsteris;Minstere;Muenster
+Mulugu|IN||6t|1ej|662|2ap
+Murmansk|RU||9i|5bl|2jy|2a2|Muurmanski;Mourmansk;Moermansk;Murmanszk;Semenova;Romanov-on-Murman;Romanov;Muurmanni
+Al Mubarraz|SA||7e|1yl|3tr|28s
+Cluj-Napoca|RO||8u|3lx|1tk|27m|Klausenburg;Clausemburgo;Kolosvaru;Clūsenburg;Clus;Kluž;Kluĵo;Kolozsvár;Claudiopolis;Kluż-Napoka;Kloiznburg;Cloizânburg;Napoca;Kluža-Napoka;Castrum Clus;Municipium Aelium Hadrianum Napoca;Clausenburg;Klužas-Napoka;Cluj;Kaloşvar;Kluž Napok;Kluzh;Kluzh-Napoka;Kluža;Klužas;Koloszvár
+Petaẖ Tiqva|IL||6n|2h5|2ox|234|Mulebbis;Petah Tikwah;Pethah Tiqvā;Petaẖ Tikva;Petaẖ Tiqwa;Petach Tikva;Petach Tikwa;Petah-Tikva;Petaj Tikva
+Mönchengladbach|DE||8r|3y7|hw|20p|Jlabbach;Menchengladbachas;Menhengladbaha;Muenchen-Gladbach
+Mueang Nonthaburi|TH||62|12i|7r7|1yo|Nonthaburi;Nondaburi;Nondha Buri
+Muridke|PK||6q|2gc|5qa|1yn|Muridike
+Musaffah|AE||6c|1vo|47c|1vl
+Muzaffargarh|PK||6q|2bj|5hr|1tf|Muzafargaro;Muzaffargharh
+Mohammedia|MA||d|2ll|-ki|1ra|Fedala;Mohamedio;Mohamedija;Muhammediye;Al-Muhammadijja;Fedhala;Sedala;Mohammadia;Fdala;Fedalah
+Mubi|NG||u|sj|10v|1qp
+Mutare|ZW||n|-1gp|2ir|1qg
+Murwāra|IN||6t|1u8|67b|1pn
+Munger|IN||6t|1yh|6o7|1n9
+Târgu Mureş|RO||8u|3la|1w8|1n4|Neumarkt am Mieresch;Tîrgu Mureș;Marosvásárhely;Novum Forum Siculorum;Neumarkt;Vásárhely;Nai Muark;Maros-Vásárhely;Târgul-Mureş;Turgul Mures;Tyrgu-Muresh
+Mushin|NG||u|i5|9b|1ja
+Moundou|TD||17|nt|18o|1ih|Mundu;Mondu;Mondou;Moundu
+Mukono|UG||q|z|2j0|1h5
+Modena|IT||9o|3g1|ud|1fb|Modène;Mutina;Mòdna
+Monywa|MM||7y|1pf|7ca|1ek|Moniva;Munywa;Munya
+Al Muharraq|BH||60|20y|3wl|1d2|Al Muharrak;Muharraq;Al-Muharraq;Muharrak;Muhurraq;Al-Muḥarrak
+Mülheim|DE|North Rhine-Westphalia|8r|3yv|j4|1c3|Mölm;Möln;Muelheim an der Ruhr;Muelheim
+Mufulira|ZM||z|-yv|26g|1az
+Murfreesboro|US|Tennessee|2f|2rl|-6nz|19y|Murfreysburo
+Mu-se|MM||7y|1uo|7jy|19u
+Musoma|TZ||h|-46|2lw|19m|Musome;Misoma;Muzoma
+Mostaganem|DZ||3|2rt|9|199|Mustaghanam;Mastaganeam;Mustaghanim
+Musanze|RW||s|-46|2ab|16m|Ruhengeri;Ruhengeris
+Musashino|JP||7q|2r7|aro|15p|Musašinas;Musasino-chhī
+Muricay|PH||71|lr|9j0|10p
+Moanda|CD||t|-gh|yd|zs|Muanda
+Mustafābād|IN|Delhi|6t|27s|5yn|zc
+Murom|RU||9i|4ad|38q|z9|Moerom;Mourom
+Munūf|EG||c|2cn|2dx|yx|Minūf;Menouf;Menuf;Menoufis;Manūf
+Monza|IT||9o|3im|pr|yk|Modicia;Munscia;Monsa
+Mubende|UG||q|1k|2f7|xs|Mubendi
+Muktsar|IN||6t|2cn|5r0|wf
+Tando Muhammad Khan|PK||6q|1xs|5ae|vs|Tando Mohammad Khan
+Mongu|ZM||z|-16d|1s9|uz|Monqu;Mungu
+Mulhouse|FR||9k|3on|kd|uy|Mülhausen;Muluzo;Miluza;Miulūzas;Mylhúzy;Müihausn;Mulhusia
+Murrieta|US||3p|2l7|-91l|ui|Murietta;Murrietta
+Mascara|DZ||3|2qc|e|u6|Muaskar;Mu’askar;Maskara
+Muriaé|BR||4w|-1mp|-39p|u4|Murriae;Murihe;Muriahé
+Dera Murad Jamali|PK||6q|27b|59i|tq
+Al-Musayab|IQ||5z|2j2|3f1|sb|Al Musaiyib;Al Musayyib
+Mustafakemalpaşa|TR||94|338|26x|s6|Mustafakemelpaşa
+Manbij|SY||69|2th|2xf|rn|Manbidsch;Manbiy;Manbidž;Bambyce;Münbiç;Giyerapol;Manbi;Menbij;Manbej
+Munakata|JP||7q|2lw|a2o|qz
+Muroran|JP||7q|39k|avn|qq
+Monastir|TN||1e|2re|u3|px|Monastyr;Monasztir;Monastyras;Munastır;Al Munastīr
+Muğla|TR||94|2ve|26t|pn|Muula;Mughla
+Muan|KR||7h|2p7|9rc|pk|Muap
+Murādnagar|IN||6t|27y|5za|ov|Muravnagar
+Mulongo|CD||y|-lr|230|ot
+Mudon|MM||7y|196|7jg|or
+Mukachevo|UA||98|3qk|1r4|ns|Moukatchévo;Mukačevo;Mukatschewe;Mukacheve;Munkács;Mukaczewo;Mukačeve;Munkatsch;Mukatschewo;Munkačevo
+Muñoz|PH||71|17o|9bu|nn
+La Piedad de Cabadas|MX||41|1ki|-7ve|n5|Municipio La Piedad;La Piedad;La Piedad Cabadas
+Muhanga|RW||s|-5m|2aj|n0|Muhange
+Muş|TR||94|2zl|378|mx
+Muntilan|ID||6l|-l2|8id|mo|Moentilan
+Mweka|CD||y|-dh|1nw|ml|Mueka
+Mungyeong|KR||7h|2tn|9w4|lh|Mun'gyŏng;Mungjong
+Osijek|HR||a6|3ij|1fx|kz|Colonia Aelia Mursa;Mursa;Eszék;Mursia;Essek
+Moroni|KM||ac|-wi|3c6|kr|Morony;Muruni
+Moanda|GA||v|-4d|10o|jr|Muanda;Mvanda;Mouanda;Moanga
+Musashimurayama|JP||7q|2ra|arb|jo|Musašimurajama;Musasimurayama-chhī
+Muncie|US||38|33n|-6l7|jh
+Moquegua|PE||3o|-1bs|-5h2|jf|Moceva;Mukiwa;Muqiwa;Mokegva
+Māngrol|IN|Gujarat|6t|1mo|5er|je|Mūngrol;Māngral
+Mobārakeh|IR|Isfahan|7o|2hv|3z2|ja|Mubārakeh
+Munnar|IN||6t|s1|5y2|iw
+Mustamäe|EE||9x|4l0|1wk|iw
+Muling|CN||7i|3gs|a2k|ie|Mu-leng
+West Bloomfield Township|US||2q|3a9|-6fm|hz|West Bloomfield;Municipio de West Bloomfield;Xã West Bloomfield
+Muncar|ID||6l|-nf|8tl|hx
+Mutengene|CM||j|bd|pv|ht
+Mudu|CN||7i|2eu|9as|h7|Mu-tu
+Mushie|CD||t|-8e|1b0|h1
+Mujiayingzi|CN||7i|390|95y|gu
+Murakami|JP||7q|2y7|arg|g7
+Mulbāgal|IN||6t|10k|61r|fx
+Mukandpur|IN||6t|27u|5ye|fv|Mukand Pur
+Mukō|JP||7q|2p5|agy|ft
+Mutsu|JP||7q|36p|awa|fm|Mucu;Mutu-chhī
+Luang Prabang|LA||7v|1j9|7vr|fa|Louangphabang;Louang Prabang;Luangprabang;Luangprabango;Luangprabangas;Luanpabana;Muang Louangphabang;Luang Phrabang;Luan Praban;Louangphrabang
+Mūndka|IN||6t|27o|5xz|f5
+Modica|IT||9o|2ue|150|f5|Muorica
+Mubarakpur|IN||6t|20h|6fd|et
+Muadamiyat al-Sham|SY||69|2ky|2sk|en|Moadamiyet al-Sham
+Mudhol|IN||6t|19d|5t4|ei
+Mouscron|BE||8t|3wy|8x|eh|Muskrono;Moeskroen;Mukronas;Moucron;Moeschroên;Musera
+Musina|ZA||o|-1q3|2bg|e7|Messina
+Mui Ne|VN||6h|ud|8cs|dy
+Moyobamba|PE|San Martín Department|3o|-gr|-5xt|dx|Moiobamba;Muyupampa;Mojobamba
+Mumbwa|ZM||z|-15m|236|dr
+Mut|TR||94|2ts|2kw|dq
+Murray|US|Utah|2p|34z|-8mt|dp
+Al Muteena|AE||6c|1y7|49o|dj|Muteena
+Muara Teweh|ID||79|-2n|8v6|cz|Muaratewa;Muarateweh;Moearateweh;Muaratawe;Muaratewe
+Antigua Guatemala|GT||32|14g|-701|ct|Santiago de los Caballeros de Guatemala;Muy Noble y Muy Leal Ciudad de Santiago de los Caballeros;Antigua;Antikva Gvatemalo;Antigva Gvatemala;Huehcāuh Cuauhtēmallān
+Mustafabad|PK||6q|2dt|5o6|cq
+Mumias|KE||16|x|2nt|cn|Mumia's
+Moatize|MZ||11|-18s|2lp|ck|Muatize
+Malemba|CD||y|-su|1w7|c8|Mulemba
+Muţūbas|EG||c|2ex|2cs|c7|Maţūbas;Muṭûbis
+Muyuka|CM||j|bx|q5|c5|Mouyouka
+Murang’a|KE||16|-20|2v7|c1
+Munsan|KR||7h|2x6|9s7|c0
+Mucuri|BR||20|-1e9|-31v|br|Mucury
+Mülheim|DE|North Rhine-Westphalia|8r|3xl|jg|bl
+Muaná|BR||23|-49|-3sq|bd
+Mukdahan|TH||62|19z|82w|b9|Makdaharn;Mukdaharn;Mukdatarn;Mokdaharn
+Mutang|CN||7i|1j1|8fr|b8
+Murtajāpur|IN||6t|1ll|5yx|b7|Murtazāpur
+Murshidābād|IN||6t|1v6|6t7|b0
+Mörön|MN||7s|3tv|7q8|ay|Murun;Muren
+Mūkondapalli|IN||6t|zf|604|aw|Mookondapalli
+Muravlenko|RU||7z|4x7|5r0|av|Murawlenko;Mouravlenko;Moeravlenko;Muravlenkas
+Muskogee|US||2f|2rb|-7cx|ap|Muskogy;Muscogee
+Muskegon|US||2q|3c3|-6nl|ao
+Murata|JP||7q|2xw|auw|an
+Mühlhausen|DE|Thuringia|8r|3y9|t1|al|Mulhusa Thuringorum
+Muang Phônsavan|LA||7v|1i1|7yn|af
+Muizenberg|ZA||o|-2mq|1fc|a9
+Mudong|CN||7i|2a5|88s|a7
+Mungeli|IN||6t|1pb|6ax|a5
+Moorpark|US||3p|2n9|-968|a1|Murpark
+Mulia|ID||6m|-ab|anb|9z
+Mugnano di Napoli|IT||9o|35n|13h|9i|Mugnano 'e Napule
+Muddebihāl|IN||6t|19e|5vh|9i
+Moose Jaw|CA||4q|3w0|-855|9f|Mūs Džo
+Mussende|AO||x|-t7|18i|9c|Munende
+Mulleriyawa|LK||68|j9|661|9b
+Mukah|MY||6w|81|8nd|9b|Muka
+Muhammadābād|IN|Uttar Pradesh|6t|1z6|6go|98
+Monaco|MC||9h|3di|km|96|Monako;Mùnegu
+Mutuáli|MZ||11|-15b|2us|95
+Mushābani|IN||6t|1qj|6o6|94|Musabani
+Muttayyāpuram|IN||6t|ob|611|91
+Mundelein|US||2f|39e|-6sg|8s
+Motala|SE||9w|4im|15s|8l|Mutala
+Mūdbidri|IN||6t|10b|5sc|8i|Mudabidri
+Murzuk|LY||1d|200|12o|8h|Murzuq;Mursuk;Murzuuk;Mourzouk;Marzūq
+Muvattupuzha|IN||6t|rq|5wp|8g
+Madukkarai|IN||6t|ub|5xs|8g|Mudukarai;Madukarai
+Musiri|IN||6t|uf|61w|8e
+Mugala|CN||7t|2ud|6au|8e|Mughalla
+Muborak|UZ||7g|312|50z|8d|Mubarekas;Mubarek
+Multai|IN||6t|1oh|61e|8c
+Mukeriān|IN||6t|2gr|5u2|8a
+Mūvattupula|IN||6t|rq|5wq|89
+Muritiba|BR|Bahia|20|-z3|-30b|86|Murityba
+Mudalgi|IN||6t|19e|5s9|83
+Muikamachi|JP||7q|2uz|aps|83
+Mugumu|TZ||h|-55|2oe|82
+Mullaittivu|LK||68|pr|68i|82|Mullaitivu
+Mollendo|PE||3o|-1ba|-5k1|82|Moljendas;Mullintu
+Murlīganj|IN||6t|1zy|6po|7z
+Mondragone|IT||9o|367|12l|7z|Mundragone
+Mukher|IN||6t|1fz|5yx|7y
+Mühlheim am Main|DE||8r|3v8|oj|7x|Mühlheim
+Muswell Hill|GB||9b|3zb|-e|7s
+Muchun|TJ||6d|32s|5c6|7q
+Mutum|BR||4w|-1j0|-374|7o
+Mu‘aydhir Rawḑat Rāshid|QA||7b|1y6|3ys|7o
+Mulchén|CL||4u|-2ws|-5ko|7o
+Muhorro|UG||q|2k|2df|7m
+Mueda|MZ||11|-we|31v|7l
+Sebeş|RO|Alba County|8u|3jo|1th|7k|Mühlbach
+Mundo Novo|BR|Bahia|20|-wy|-34f|7i
+Muñiz|AR||1l|-2o0|-4j3|7g
+Mūţ|EG||c|1yt|28i|7g
+Mühlacker|DE||8r|3rz|ok|7g
+Muntok|ID||6l|-5r|844|7f|Mentok
+Mukai-awagasaki|JP||7q|2tr|ajk|7e
+Mutukula|TZ||h|-2s|2fa|7d
+Murugampālaiyam|IN||6t|us|5ys|7b
+Moutsamoudou|KM||ac|-xt|3fc|7b|Mutsomodu;Mutsamudu
+Mungaoli|IN||6t|1vt|60y|7a
+Stuttgart Mühlhausen|DE||8r|3ro|pn|79|Mühlhausen
+Muttanampālaiyam|IN||6t|us|5z0|78
+Murici|BR||3r|-pv|-2ru|77
+Muhamma|IN||6t|qp|5w4|77
+Mulamthuruthy|IN||6t|ri|5w7|77
+Mussoorie|IN||6t|2cl|60v|76|Mussoori;Masuri;Musoori;Mussooree
+Mufumbwe|ZM|North-Western|z|-10i|1xh|75
+Mūl|IN||6t|1jr|65c|72
+Murree|PK||6q|2m7|5nv|70|Murri
+Mugalivakkam|IN||6t|106|66p|6z
+Muang Xay|LA||7v|1lh|7va|6y|Muang Xai
+Mundargi|IN||6t|169|5us|6x
+Whitehall Township|US||48|34z|-5tq|6x|Municipio de Whitehall;Xã Whitehall;Whitehall
+Muthutala|IN||6t|u4|5vk|6x
+Muskego|US||2f|3b7|-6su|6w
+Muktāgācha|BD||6a|1ws|6yq|6v|Muktagachha
+Muret|FR||9k|3cq|3p|6r|Muriel;Lapangan Terbang LHerm;Barrancu
+Nueva Loja|EC||33|9|-5xm|6q|Nueva Locha;Musuq Loja
+Muhammadābād|IN|Uttar Pradesh|6t|20b|6fm|6p
+Morrumbala|MZ||11|-1c5|2qu|6p|Marrumbala;Murrumbala
+Morinda|IN||6t|2dj|5wi|6o|Mūrinda
+Muscatine|US||2f|372|-70w|6o
+Muluppilagadu|IN||6t|ws|5tl|6l
+Musselburgh|GB||9b|4be|-8h|6k|Baile nam Feusgan;Masselboro
+Mudkhed|IN||6t|1h8|5za|6j
+Muang Sing|LA||7v|1mv|7sz|6j|Muong-ting;Muong Sing;Muong Seng
+Maghār|IL||6n|2jd|2qd|6j|Mughar;Mghar
+Mosta|MT||9e|2rr|143|6j|Masta;Musta
+Muggiò|IT||9o|3in|pn|6g
+Mudanya|TR||94|346|288|6g|Mudania
+Mu’er|CN|Chongqing|7i|2at|888|6g|Mu-erh
+Montilla|ES||9d|2wf|-cw|6e|Munda
+Munster|US||2f|37g|-6r3|6e
+Atlacomulco de Fabela|MX||41|1j0|-7pf|6c|Municipio Atlacomulco;Ātlacomōlco;Atlacomulco
+Mudgal|IN||6t|18h|5wc|6b
+An Muileann gCearr|IE||8z|44o|-ke|6b|Mullingar
+Munsha‘at Abū ‘Umar|EG||c|2dv|2gy|69|Minshāt Abū ‘Umar;Munshāh Abū 'Umar
+Murayama|JP||7q|2yv|au1|69
+Mutxamel|ES||9d|2yq|-19|69|Muchamiel
+Molde|NO||9j|4ua|jw|68|Muoldė
+Muritiba|BR|Bahia|20|-zw|-311|68
+Ban Kamala|TH||62|m4|7l0|67|Kamala Beach;Kamala;Mu Ban Jasmine Kamala;Kamara;Ban Gāmara;Ban Kammara;Ban Kamara;Ban Kammala
+Mutuípe|BR||20|-10r|-31q|67
+Muhammadābād|IN|Uttar Pradesh|6t|23v|64n|66
+Monreale|IT||9o|2xs|10x|64|Murriali
+Muzambinho|BR||4w|-1ne|-3l9|63
+Mulavukad|IN||6t|rt|5vu|62
+Musan-ŭp|KP||7a|39b|9yx|61
+Muthupet|IN||6t|sw|64t|61|Mutupet;Muttapet;Muttupet
+Munderi|IN||6t|x5|5tl|61
+Mungo|AO||x|-wv|194|61
+Murādābād Pahāri|IN||6t|27c|5yb|5z|Moradabad Pahari
+Muara Bungo|ID||6l|-45|7vn|5w|Muarabungo
+Mukilteo|US||3p|3p6|-9fq|5w|Muckilteo;Muckiltoo
+Muxaluando|AO||x|-mk|13p|5v|Muxuluando;Muchaluando
+Muthukulam|IN||6t|pm|5we|5r
+Murphy|US|Texas|2f|2jq|-7gd|5q
+Mường Lay|VN||6h|1p4|7yh|5p
+Mundra|IN||6t|1rg|5do|5n
+Muriti|TZ||h|-5i|2jg|5n
+Mustang|US||2f|2qa|-7jg|5m
+Murrysville|US||48|34b|-65e|5l
+Muheza|TZ||h|-ed|2zq|5k|Mubeza
+Mulgrave|AU||8j|-2xd|b7a|5j
+Muramatsu|JP||7q|2wp|aql|5h
+Mulakumūd|IN||6t|mz|5yp|5f|Mulagumudu
+Murrupula|MZ||11|-16y|2zg|5f
+Mukamira|RW||s|-4h|29y|5a|Mukamura
+Mougins|FR||9k|3d4|jg|5a|Mogins;Muginis
+Murray|US|Kentucky|2f|2tp|-6tb|5a
+Mulgund|IN||6t|16g|5ts|59
+Al Khawr|QA||7b|1zc|3z3|59|Al Khor;Municipio de Jor;Chauras;Al-Chaur;Al-Khaur
+Mo i Rana|NO||9j|547|13a|59|Mu i Rana;Mu i Ran
+Mundgod|IN||6t|15l|5sg|59
+Bad Münder am Deister|DE||8r|410|qa|57|Munimeri;Bad Münder
+Murbād|IN||6t|1hh|5nv|57
+Mugina|RW||s|-5v|2b6|56
+Mukandgarh|IN||6t|25n|5sy|55|Mākundgarh
+Mouyondzi|CG||a|-b3|12p|53|Mouionzi;Mouyondji;Muyonzi
+Muniz Freire|BR||4w|-1ku|-371|52
+Müllheim|DE||8r|3ot|l7|51|Mullen;Mulheim
+Mucajaí|BR||26|6s|-4p7|51
+Musa Banda/Musa khan kallay|PK||6q|2mj|5lc|50|Musa Banda
+Murudeshwara|IN||6t|135|5qw|4z
+Munster|DE|Lower Saxony|8r|437|s1|4x|Munste
+Mühldorf|DE||8r|3q1|ys|4w
+Muroto-misakicho|JP||7q|2kh|acp|4w
+Maharda|SY||69|2px|2tl|4w|Mharda;Mhardeh;Muhardeh;Maḩarde;Maḩardih;Mharada;Maharada
+Mūndwa|IN||6t|236|5p2|4v
+Murcia|PH|Western Visayas|71|th|9hs|4u
+Munkkiniemi|FI||92|4n8|1x4|4t|Munksnäs;Munkka
+Mūlki|IN||6t|10d|5rr|4t
+Munder Buiten|SR||4h|g8|-49a|4s
+Korsholm|FI||92|4vb|1o8|4s|Mustasaari
+Mula|ES||9d|2xo|-45|4p
+Muttenz|CH||a7|3o0|l9|4p
+Mocha|YE||5r|110|3c5|4o|Mokha;Mokka;Moca;Makha;Moka;Mocka;Muha;Mukha
+Mungaa|TZ||h|-dt|2ow|4n
+Mulanje|MW||9|-18j|2qm|4n|Mlanje
+Muhe|CN||7i|2pa|86t|4m
+Malahide|IE||8z|44h|-h3|4m|Mullach Íde;Malahaidas
+Mucur|TR||94|30i|2ni|4l
+Mūllānpur|IN||6t|2dp|5u6|4k
+Mungia|ES||9d|3cf|-7x|4i|Munguía
+Mullānwāla|IN||6t|2ea|5ru|4i|Mallānwāla
+Mujia|CN||7i|1rv|7or|4i
+Muswellbrook|AU||8l|-2hm|bn5|4g
+Mukingo|RW||s|-4a|2a4|4d
+Pont-à-Mousson|FR||9k|3rv|gu|4a|Mussipons
+Much|DE||8r|3xe|kk|48
+Mijdrecht|NL||8m|411|di|48|Müdrecht
+Mūlanūr|IN||6t|tz|5zv|48
+Muhoroni|KE||16|-g|2ps|48
+Muadzam Shah|MY||6v|8i|7yd|46
+Muang Không|LA||7v|138|861|46|Khong;Muong Khong;Khon
+Mukkūdal|IN||6t|oa|5zc|46
+Muyinga|BI||b|-7x|2ca|45|Mushinga;Muhinga
+Murgap|TM||5x|2w6|4s5|44|Murgab
+Mudukulathur|IN||6t|py|623|44|Mudukulattūr
+Murray Bridge|AU||8b|-2pk|aqv|41
+Münsingen|DE||8r|3qh|qe|41|Muensingen
+Murrhardt|DE||8r|3s2|ql|3z
+Mūrak|SY||69|2qa|2tx|3z|Murk
+Murraysville|US||48|2na|-609|3y
+Murmashi|RU||9i|5b6|2j5|3y|Murmasji;Murmaschi;Murmaši;Mourmachi;Murmaixí;Murmaszy;Moermasji;Murmaski
+Mukāsi Pidāriyūr|IN||6t|v4|5zk|3x
+Muhammad Pur|PK||6q|2db|5mu|3w
+Münster|DE|Hesse|8r|3uo|on|3w
+Mumford|GH||1|em|-24|3w|Mumfort
+Mường Chà|VN||6h|1og|7ye|3v
+Muqui|BR||4w|-1m7|-36v|3t|Muquy
+Morungaba|BR||4w|-1rk|-3m0|3t|Murungaba
+Muscle Shoals|US||2f|2oi|-6rj|3t
+Moissac|FR||9k|3ei|30|3t|Musciacum
+Mucambo|BR||2w|-av|-357|3t|Mocambo
+Mŭynoq|UZ||7g|3dl|4jy|3r|Muynak;Moʻynoq;Muinak;Moynaq
+Mudgeeraba|AU||8c|-260|bu1|3r
+Muisne|EC||33|1p|-66a|3q|Muysni kiti
+Muttūr|IN||6t|up|5zy|3o|Muthur
+Muarajawa|ID||70|-1r|91u|3o|Muara Djawa
+Muchobór Wielki|PL||a5|3xy|1b2|3n
+Muri|CH|Bern|a7|3md|kt|3n
+Mundi|IN||6t|1pb|5wh|3l
+Milngavie|GB||9b|4be|-c0|3k|Muileann Dháibhidh;Molqay
+Makarska|HR||a6|3ca|1ba|3k|Macarsca;Muccurum
+Muri|IN||6t|1sx|6mi|3j
+Murud|IN||6t|1ex|5mo|3j|Murad
+Mutatá|CO||27|k4|-5wc|3i
+Mungwi|ZM||z|-s9|2f5|3h
+Mülsen|DE||8r|3wz|yx|3h
+Mutterstadt|DE||8r|3tc|n8|3g
+Mutoko|ZW||n|-1cc|2hj|3f|Mtoko
+Mursān|IN||6t|24m|60i|3f
+Mundāli|IN||6t|287|607|3f
+Mullasshēri|IN||6t|t9|5vd|3e|Mullassery
+Monte Argentario|IT||9o|39v|uw|3d|Mons Argentarius;Munti Argintario
+Mucugê|BR||20|-105|-36x|3d
+Mubārakpur Dobās|IN||6t|27r|5y0|3c
+Murnau am Staffelsee|DE||8r|3og|v4|3c
+Mŭ’minobod|TJ||6d|2xv|5ej|3c|Mŭminobod;Muminabad
+Mundemba|CM||j|dr|on|3b|Mundenba
+Mado Gashi|KE||16|21|30t|3a|Muddo Gashi
+Murewa|ZW||n|-1d0|2ga|3a|Murehwa;Mrewa
+Mutum Biyu|NG||u|o0|tx|39|Mutumbiyu;Mutum Mbiyu
+Mường Nhé|VN||62|1pn|7wm|39|Mường Nhié
+Münchenstein|CH||a7|3o0|l5|38|Miunchenštainas
+Münchberg|DE||8r|3vf|wr|38
+Muleba|TZ||h|-54|2fx|38
+Großräschen|DE||8r|3zb|12x|37|Mukrań;Rań;Großeraeschen
+Mulino|RU||9i|4cd|3b8|37|Mulina
+Muna|MX||3z|1kx|-6x7|37
+Mudgee|AU||8l|-2ij|bjj|37
+Municipio Hato Corozal|CO||27|h4|-5jc|36
+Murrayville|CA||5b|3sc|-9gm|36
+Mangalam|IN|Tamil Nadu|6t|r4|62g|36|Mungalum
+Munhall|US||48|347|-65y|34
+Murgūd|IN||6t|19k|5q3|34
+Muromtsevo|RU|Omsk Oblast|76|4cl|5t1|33
+Mūlaikkaraippatti|IN||6t|nr|601|33|Mulaikaraipatti
+Murska Sobota|SI||9a|3lm|18x|33|Olsnitz;Muraszombat;Oisnitz;Murska Subota
+Muggia|IT||9o|3io|129|31|Muggio
+Münsingen|CH||a7|3m7|l0|31
+Murfatlar|RO||8u|3eq|26y|31
+Murghob|TJ||6d|2y1|5ph|30|Murghab;Murgab;Murghābi
+Muskegon Heights|US||2q|3c0|-6nk|30
+Mulungu do Morro|BR||20|-x9|-37o|2z
+Muurame|FI||92|4sl|1zb|2z
+Muscoy|US||3p|2mv|-91y|2y
+Mulungu|BR|Ceará|2w|-bz|-30c|2y
+Mugango|TZ||h|-4o|2lm|2y|Mgango
+Murrumba Downs|AU||8c|-23r|bt1|2x
+Mülheim-Kärlich|DE||8r|3vz|ku|2x
+Muquém do São Francisco|BR||20|-xj|-3cz|2w|Muquém de São Francisco
+Mudki|IN||6t|2di|5s0|2w
+Muragācha|IN||6t|1te|6tj|2v|Muragachha
+Mure|JP||7q|2u3|ao0|2v
+Muttukavundanpudūr|IN||6t|up|5y8|2v
+Muang Phôn-Hông|LA||7v|1fe|7wi|2t|Muang Phone Hong
+Montignoso|IT||9o|3ea|s9|2s|Mons Tiniosus;Muntignusu
+Mutiara Damansara|MY||6v|8s|7u9|2s
+Muzayri‘|AE||6c|1sa|45f|2s|Mezaira’a;Mozayri‘
+Muros|ES||9d|3au|-p6|2s
+Murowana Goślina|PL||a5|421|1b9|2s|Murovana Goslina;Murowana Goslin
+Mohelnice|CZ||9m|3ua|1b0|2r|Müglitz
+Mussomeli|IT||9o|2we|127|2q|Mussumeli
+Münchenbuchsee|CH||a7|3mm|kp|2q
+Muddanūru|IN||6t|14t|61r|2q|Muddanur
+Murrumbeena|AU||8j|-2xa|b6z|2q
+Munteni|RO|Galați County|8u|3jl|247|2q
+Mudgere|IN||6t|10h|5u4|2p|Mudigere
+Mu’er|CN|Gansu|7i|2o1|7zr|2m
+Milevsko|CZ||9m|3td|13w|2l|Mühlhausen;Milovicium
+Ziębice|PL||a5|3wk|1bc|2l|Münsterberg;Zembice;Zembise;Ziembice
+Moḩammad Yār|IR||7o|2ur|3ig|2l|Muhammadiar
+Mununga|ZM||z|-p5|28o|2j
+Mnichovo Hradiště|CZ||9m|3wd|15l|2j|Münchengrätz
+Mukharram al Fawqānī|SY||69|2oq|2v1|2j|Mukharram Fawqānī
+Muyu|CN||7i|2ff|8in|2j
+Mustafābād|IN|Haryana|6t|2bw|5yb|2i
+Musawa|NG||u|xp|lb|2h
+Mucuchíes|VE||2c|ob|-5h0|2h|Mucuhies
+Munnūru|IN||6t|zq|5se|2h
+Mulungu|BR|Paraíba|2w|-ji|-2qi|2g
+Muttargi|IN||6t|1cq|61b|2g|Muthangi
+Kennedy Township|US||48|34g|-66i|2f|Kennedy;Municipio de Kennedy;Xã Kennedy
+Murphy|US|Missouri|2f|2yx|-6zd|2f
+Munirābād|IN||6t|16j|5w2|2f
+Muramvya|BI||b|-93|2aa|2c
+Mundo Nuevo|MX||41|1e9|-7a7|2c
+Murtosa|PT||99|356|-o0|2b
+Mil’kovo|RU||6p|47x|c8m|2b|Milkovo;Mul’kovo
+Muhos|FI||92|501|207|2a
+Mühlhausen|DE|Baden-Wurttemberg|8r|3st|o9|2a
+Muxima|AO||x|-qg|12s|2a
+Mūdashedde|IN||6t|zx|5s1|2a
+Musāfir-Khāna|IN||6t|21a|6b8|29|Musāfirkhāna
+Muconda|AO||x|-tf|1n8|28
+Muzhucode|IN||6t|n8|5yj|28
+Murygino|RU||97|4j6|3te|28
+Münnerstadt|DE||8r|3vl|sc|28
+Muro del Alcoy|ES||9d|2zq|-18|28|Muro de Alcoy;Muro
+Muzo|CO||27|fe|-5pv|28
+Monaghan|IE||8z|46p|-jd|27|Muineachán;Monachanas
+Muribeca|BR||3r|-sz|-2uo|26
+Muchkapskiy|RU||9i|401|3a0|26|Mutsjkapskij
+Murphysboro|US||2f|2ww|-6w6|26
+Mukwonago|US||2f|3b3|-6td|25
+Mamungan|PH||71|mk|9l2|25|Mumungan;Momungan
+Mundathikōd|IN||6t|tk|5vo|25
+Murgeni|RO||8u|3kc|25u|25
+Musile di Piave|IT||9o|3iq|yu|25
+Mukawa|JP||7q|3a9|ay9|25
+Mulanay|PH||71|11k|9g0|24
+Muban Thep Thani|TH||62|122|7rp|24
+Muchobór Mały|PL||a5|3xz|1b5|24
+Murmāri|IN||6t|1mj|65r|24
+Mutge|IN||6t|183|5r7|24|Mutga
+Murrells Inlet|US||48|2l7|-63k|23|Murrels Inlet
+Murda|IN||6t|170|5p5|23
+Mochumí|PE||3o|-i6|-65u|23|Muchumi
+Munhoz|BR||4w|-1qt|-3ks|23
+Mühlenberg|DE||8r|41e|qx|22
+Murton|GB||9b|48a|-3v|22
+Muslyumovo|RU|Tatarstan Republic|9i|49n|43r|22|Musljumovo
+Musselkanaal|NL||8m|431|ji|22
+Murillo Colonia|US||2f|20y|-7kj|21
+Mohājerān|IR||7o|2pg|3r2|21|Mahājerān;Muhājīrān
+Muiden|NL||8m|41d|e3|21
+Molėtai|LT||a3|49e|1ym|20|Malaty;Muolietā;Molēti;Malyaty;Moletay;Malėtai
+Müncheberg|DE||8r|41v|13a|20|Muencheberg
+Muniz Ferreira|BR||20|-104|-30n|20|Muniz Ferreiro
+Murashi|RU||97|4l0|3s0|20|Murasji
+Mūlaguntapādu|IN||6t|16e|66a|1z
+Mordovo|RU||9i|40p|359|1z|Mordowo;Murdovo
+Murwillumbah|AU||8l|-26p|bu3|1z
+Murino|RU||9i|4mt|2cl|1y|Muurola;Murinskas;Moerino
+Muhmand Dara|AF||6o|2n5|5gv|1w|Basavul’;Bāsawul
+Murg|DE||8r|3o3|ma|1w
+Murakambattu|IN||6t|10t|63s|1w
+Muliang|CN||7i|296|89a|1w
+Marzanābād|IR||7o|2t9|3yi|1v|Murzānābād;Marzūnābād
+Muro|ES||9d|32e|8i|1u
+Mushayrif|AE||6c|1yl|4a3|1t
+Mukurwe-ini|KE||16|-1k|2ux|1t|Mucurueini
+Muranovo|RU||9i|4c2|2xa|1t
+Muri|CH|Aargau|a7|3nb|n6|1t
+Müggelheim|DE||8r|41l|11y|1t
+Mundy Pond|CA||50|3o3|-42j|1s
+Mutlangen|DE||8r|3rn|r8|1s
+Mücheln|DE|Saxony-Anhalt|8r|3yi|wt|1s
+Mullovka|RU||9z|46k|3t8|1s|Mullovki
+Muraidih|IN||6t|1u5|6nk|1s
+Mudersbach|DE||8r|3x7|m2|1s
+Mutzig|FR||9k|3qu|kq|1r
+Mulvane|US||2f|2w3|-7i4|1r
+Mudurnu|TR||94|34f|2ep|1r
+Muggensturm|DE||8r|3rr|n0|1q
+Mutsalaul|RU||9i|3c8|3lt|1q
+Munduk|ID||70|-mz|8vo|1q
+Tapanila|FI||92|4ne|1xi|1q|StafMosabacka;Mosabacka;Mosis;Muusimäki;Mosapaska
+Mundo Novo|BR|Goiás|4w|-12a|-3vo|1q
+Mulānpur|IN||6t|2dk|5x6|1q
+Mufumbwe|ZM|North-Western|z|-120|1ww|1q
+Mukhiguda|IN||6t|1i0|6e5|1q
+Munford|US|Tennessee|2f|2qh|-6xi|1p
+Murraysburg|ZA||o|-2gs|1u0|1p
+Murr|DE||8r|3s0|pq|1p
+Muang Hôngsa|LA||7v|1iq|7ti|1o|Hongsa;Muong Hong Sa
+Mürzzuschlag|AT||a2|3o9|17j|1o
+Mundybash|RU||74|43t|6qi|1n|Mundybasj
+Murovani Kurylivtsi|UA||98|3rc|24h|1n|Mourovani Kourylivtsi
+Munno Para West|AU||8b|-2oa|ap7|1m
+Murten/Morat|CH||a7|3md|js|1m|Morato;Murten;Morat;Muratum
+Murcki|PL||a5|3vg|1gw|1m
+Mullaloo|AU||8k|-2ga|8xi|1m
+Mugeni|RO||8u|3kh|1y2|1m|Bögöz
+Musay‘īd|QA||7b|1xf|3z7|1m
+Mu’er|CN|Gansu|7i|2n6|81u|1l
+Muduperar|IN||6t|101|5s6|1l
+Damwâld|NL||8m|441|go|1l|Murmerwoude;Moarrewâld;Damvaldas
+Mtito Andei|KE||16|-7h|2y1|1k|Mutitu Andei
+Münchwilen|CH||a7|3nw|p0|1k
+Müden|DE|Lower Saxony|8r|41x|ss|1k|Mie'en;Mutha
+Münzenberg|DE||8r|3w5|od|1k
+Moḩammadī|IR||7o|23w|4ta|1k|Muhammadī
+Mullsjö|SE||9w|4gw|12k|1k
+Mundolsheim|FR||9k|3r4|lf|1k|Mundelse
+Nurillo|US||2f|20z|-7kk|1j|Murillo
+Munkebo|DK||8y|4a2|tb|1j
+Mugardos|ES||9d|3cq|-my|1j
+Mutki|TR||94|2yp|38g|1j|Motkî
+Mukhorshibir’|RU||6k|3xt|8bj|1j|Mukhor-Shibir';Mokhor’shigir;Mukhor Shibar;Mukhor-Shigir
+Mui Wo Kau Tsuen|HK||6i|1pv|8sn|1j
+Mucurici|BR||4w|-1e9|-34k|1j
+Muriāro|IN||6t|1zq|6mm|1j
+Mulur|IN||6t|zy|5s5|1i
+Mūsáābād|IR|Isfahan|7o|2gp|3zr|1i|Mūsábbād;Mūsā Ābād;Mūsi Ābād
+Mühlau|AT||a2|3nc|vo|1i
+Mordoğan|TR||94|2z0|21y|1i|Skala Murdovan;Scala Murdovan;Morduğan;Murdağan;Murdoğan;Mürduğan
+Muizen|BE||8t|3xp|cj|1i
+Mûrs-Erigné|FR||9k|3no|-1j|1i
+Mugnano del Cardinale|IT||9o|35q|14o|1h
+Muye|CN||7i|29a|8er|1h
+Mulayjah|SA||7e|23r|3qi|1g|Mulaija
+Mubārikpur|IN||6t|2d1|5xi|1g|Mubārakpur
+Münstertal/Schwarzwald|DE||8r|3ox|lm|1g|Münstertal
+Muñoz East|PH||71|1bo|9dt|1g|Muñoz
+Muleshoe|US||2f|2n3|-7xc|1g
+Munster|FR||9k|3pg|ju|1g
+Munderkingen|DE||8r|3q0|qs|1g
+Murcia|PH|Central Luzon|71|16s|9b1|1f
+Murgul|TR||94|36o|37g|1f
+Mudau|DE||8r|3tl|pk|1f
+Munkkivuori|FI||92|4n9|1x4|1e|Munkshöjden
+Munroe Falls|US||48|36a|-6a8|1e|Monroe Falls
+Muszyna|PL||a5|3t4|1m2|1e|Mušina
+Mūdabettu|IN||6t|10v|5rn|1e|Moodabettu
+Mughalabad|PK||6q|2m6|5nz|1e
+Murrays Bay|NZ||ak|-2u1|dhf|1e
+Mushketove|UA||98|3p9|2x7|1e|Mushketovo
+Muringur Vadakummuri|IN||6t|sl|5w2|1e
+Mullippattu|IN||6t|z7|646|1e
+Mukmelpur|IN||6t|27z|5yc|1d|Mukhmerpur;Mukhmel Pur
+Muhuru|KE||16|-2s|2mq|1d
+Yenidoğan|TR||94|2ws|243|1d|Muhacirköy
+Muang Xon|LA||7v|1ku|7z3|1d|Muong Son
+Muro Leccese|IT||9o|33e|1ey|1d
+Mügeln|DE||8r|3yc|109|1d|Mīgelne
+Muy Muy|NI||3s|zg|-6lv|1c
+Murhāri|IN||6t|1v6|732|1c|Murbari
+Montelepre|IT||9o|2xt|10m|1c|Muntilepri;Muncilebbri
+Mulsanne|FR||9k|3p3|p|1c
+Mühlberg|DE||8r|3yv|10q|1c
+Mugia|ES||9d|3bq|-pm|1b|Muxía
+Mutriku|ES||9d|3cb|-6n|1b|Motrico
+Muqeibila|IL||6n|2ib|2q2|1a|Muqeibile;Muqeible;Muqeibla
+Mukhen|RU||7w|3pw|ai4|1a
+Muçum|BR||4w|-290|-403|1a
+Mungo|PH||71|1d8|9df|1a|Mongo
+Munstergeleen|NL||8m|3xm|ga|1a|Munstergelaen
+Mukhtolovo|RU||9i|4a3|3c0|1a|Muhtolovo;Muchtolovo;Muchtołowo
+Museros|ES||9d|31x|-z|1a
+Mullins|US||48|2n1|-645|19
+Mulakuddu|IN||6t|1ds|6ft|19
+Monein|FR||9k|3cc|-1m|19|Monenh;Muneiñe
+Mulifanua|WS||aj|-12f|-d9w|19
+Murano|IT||9o|3ia|yc|19
+Muslyumovo|RU|Chelyabinsk|7z|4ah|4r7|19|Musljumovo;Muslyumova
+Munsterbilzen|BE||8t|3xd|fd|19|Munsterbilsen
+Müllrose|DE||8r|415|142|19|Miłoraz
+Muravera|IT||9o|31i|ql|18
+Mughan|AZ||61|33e|3rm|18|Muğan
+Murdoch|AU||8k|-2h3|8xs|18
+Mouguerre|FR||9k|3cr|-3y|18|Mugerre;Moguerre
+Mucurapo|TT||4k|tm|-4qy|17
+Munster|AU||8k|-2ha|8xo|17
+Muzillac|FR||9k|3o3|-6w|17|Muzilheg;Musiliacum
+Mozon|PH||71|12h|9c3|17|Muzon
+Malinao|PH|Soccsksargen|71|l0|9mf|17|Mulinao;Matinao
+Mushavan|AM||80|33j|3ft|17|Moesjavan;Mushakan
+Mundamarai|IN||6t|1ik|6j0|17
+Murovane|UA||98|3tk|1rq|17|Laszki Murowane;Laski;Murovany;Murovanoye
+Musson|BE||8t|3to|fv|16
+Muṣmuṣ|IL||6n|2if|2po|16
+Murarrie|AU||8c|-24a|bta|16
+Mușătești|RO||8u|3hm|1wu|16
+Munayshy|KZ||5v|3cu|40q|15|Munajsji;Munayshi
+Münsing|DE||8r|3p2|vl|14
+Motuca|BR||4w|-1nr|-3pr|14|Mutuca
+Bad Muskau|DE||8r|3z7|14v|14|Mužakow;Muscavia;Bādmuskava
+Mugur-Aksy|RU||6u|3vy|6z8|14
+Muladbucad|PH||71|10s|9jd|14|Muladbukad
+Munera|ES||9d|30g|-6w|14
+Mullica Hill|US||48|32e|-5sy|14
+Mulberry|US|Florida|48|25i|-6bp|14
+Modigliana|IT||9o|3eo|wr|14|Mutiliana
+Munhoz de Melo|BR||4w|-1sb|-3zt|14
+Munkedal|SE||9w|4if|wf|13
+Muyezerskiy|RU||9i|4xo|2gv|13|Muujarvi;Mujezerskij;Mujejärvi
+Mu‘a|TO||bi|-1mu|-dig|13|Moa
+Muhdal|IN||6t|2g1|5s7|13|Mudal
+Mulfingen|DE||8r|3t2|r8|13
+Mulhuddart|IE||8z|44c|-hs|13|Mulhurddart
+Mulegé|MX||3x|22p|-8n2|13|Mulejé
+Munshāt ‘Alī Āghā|EG||c|2ek|2da|12|Monshaat Ali Agha;Munshāh ‘Alī Āghā;Monshāt ‘Alī Āghā
+Muschberg en Geestenberg|NL||8m|3yw|fc|12
+Muntenii de Jos|RO||8u|3li|255|12
+Munteni Buzău|RO||8u|3fz|22y|12|Muntenii-Buzău
+Mūrmūrī|IR||7o|2ix|3og|12
+Murighiol|RO||8u|3h3|291|12|Morughiol;Murughiol
+Mugiura|JP||7q|2lj|ade|11
+Murutinga do Sul|BR||4w|-1mb|-3yg|11
+Mutěnice|CZ||9m|3ru|1bb|11
+Mombuca|BR||4w|-1rp|-3o5|11|Mumbuca
+Munno Para|AU||8b|-2ob|apa|11
+Muttontown|US||48|35e|-5ob|11
+Mühlhausen-Ehingen|DE||8r|3ot|oh|11
+Murrieta Hot Springs|US||3p|2l8|-91g|10
+Maglizh|BG||9v|3ac|1yz|10|Meglizh;Măglish;Magliž;Mŭglizh
+Mullumbimby|AU||8l|-27b|bue|10
+Mühlheim an der Donau|DE||8r|3pf|oo|10
+Mweiga|KE||16|-w|2ui|10|Mueiga;Muiga
+Muro Lucano|IT||9o|357|171|10
+Münchhausen|DE||8r|3xk|o8|10
+Muelle de los Bueyes|NI||3s|xj|-6iu|10
+Muxihe|CN||7i|2ls|7t9|10
+Mundingburra|AU||8c|-1hm|bbr|10
+Mutunópolis|BR||4w|-125|-3sv|10
+Muotathal|CH||a7|3mi|oc|z|Muotatal
+Muntele Mic|RO||8u|3i2|1q1|z
+Murau|AT||a2|3mv|13d|z
+Murmino|RU||9i|47o|339|z
+Muricilândia|BR||1k|-jv|-3r1|z
+Monte San Biagio|IT||9o|36v|113|z|Castrum Monticelli;Munti San Biaggiu
+Mūd|IR||7o|2iv|4lc|z
+Mühlheim am Bach|DE||8r|3qe|o6|z
+Münchenbernsdorf|DE||8r|3x6|x5|z
+Münstermaifeld|DE||8r|3vl|kg|y
+Muhen|CH||a7|3ni|me|y
+Moúdhros|GR||8p|32r|1y7|y|Mudros;East Mudros
+Mugi|RU||9i|39i|3nq|y
+Mūchesh|IR||7o|2pe|3mz|y
+Mlu Prey Muoy|KH||78|12d|84g|x|Mulu-Prey;Melu Prey;Melouprey;Meluprei;Mlu Prei;Malu Prei;Melupre;Molu-Prei
+Mulberry|US|Ohio|48|30v|-6i0|x
+Mursko Središće|HR||a6|3l7|19o|x|Muraszerdahely
+Murchante|ES||9d|38r|-4m|x
+Münster|AT||a2|3nq|wv|x
+Mulbarton|GB||9b|420|3f|x
+Musaler|AM||80|33k|3fa|x
+Muldrow|US||2f|2qd|-7as|x
+Morzine|FR||9k|3ka|in|x|Morzena;Murisinium
+Mugongomanga|BI||b|-9n|2a3|w
+Murat|TR|Ağrı|94|32b|3bm|w
+Muzhi|RU||7z|51o|4zq|w|Muzji
+Mugma|IN||6t|1u1|6ox|w
+Mundelsheim|DE||8r|3s4|pl|w
+Mussolente|IT||9o|3j6|wt|w
+Murrumbateman|AU||8l|-2p5|bhz|w|Morumbateman
+Mulot|KE||16|-2m|2qe|v
+Munka-Ljungby|SE||9w|4c9|101|v
+Mulazzano|IT||9o|3i1|q4|v
+Munda|SB||av|-n5|c4v|v
+Mondorf-les-Bains|LU||9c|3tj|hg|v|Bad Mondorf;Munneref;Gemeng Munneref;Mondorf le Benas
+Mútne|SK||8s|3te|1ho|v
+Muxtariyyat|AZ||61|35e|3k3|v|Mukhtariyat
+Muurala|FI||92|4n9|1wg|v|Morby;Muris
+Murgenthal|CH||a7|3nb|ls|u|Murgental
+Münchweiler an der Rodalb|DE||8r|3sq|le|u
+Murfreesboro|US|North Carolina|48|2t8|-5y6|u
+Muromtsevo|RU|Vladimir Oblast|9i|4bd|35n|u|Mouromtsevo
+Montevago|IT||9o|2wq|103|u|Muntivagu
+Mussidan|FR||9k|3h4|10|u|Moissida
+Münchendorf|AT||a2|3pf|19i|u|Muenchendorf
+Monterosso Almo|IT||9o|2v1|150|u|Muntirussu;Muntirrussu
+Mundaring|AU||8k|-2gm|8yp|u
+Münster-Sarmsheim|DE||8r|3uq|lx|u
+Münchsmünster|DE||8r|3rh|wg|t|Minsminsta
+Mulda|DE||8r|3x5|119|t
+Murafa|UA|Kharkiv|98|3v1|2q5|t
+Muitos Capões|BR||4w|-26n|-3y6|t
+Minster|US||48|347|-6ie|s|Minister;Muenster
+Bagenalstown|IE||8z|42e|-jc|s|Muine Bheag;Moneybeg;Muinebeag
+Munkfors|SE||9w|4m8|11m|s
+Muralto|CH||a7|3k9|og|s|Müralt
+Murviel-lès-Béziers|FR||9k|3cn|8p|s|Murvièlh
+Munruben|AU||8c|-253|bt3|s
+Mundesley|GB||9b|42w|3z|s|Mundersley
+Murafa|UA|Vinnytsia|98|3rh|26d|r
+Mühleberg|CH||a7|3mf|k6|r
+Munsons Corners|US||48|3aa|-5vp|r
+Munsey Park|US||48|35c|-5oo|r
+Mudjimba|AU||8c|-21x|bta|r
+Mulu|MY||6w|4o|8le|r
+Muzykivka|UA||98|3lv|2ig|r|Muzykovka
+Isle Of Mull|GB||9b|4ct|-g1|r|Muile
+Mussotto|IT||9o|3g8|mb|q
+Mulauin|PH||71|12j|9c6|q|Mulawin
+Múcsony|HU||8v|3q3|1lg|q
+Mezzojuso|IT||9o|2x7|11f|q|Munxifsi;Mezzoiuso
+Muir of Ord|GB||9b|4fs|-ce|q
+Muereasca|RO||8u|3hj|1vk|q
+Muzza di Cornegliano Laudense|IT||9o|3hs|qb|q
+Muara|BN||66|dz|8vn|p|Brooketon
+Mursalimkino|RU||7z|48w|4io|p
+Munitepec de Madero|MX||41|1jx|-7nk|p|Munitepec
+Molteno|IT||9o|3j6|pu|p|Multee;Moltenum
+Muse|US||48|33x|-66s|p
+Mudaison|FR||9k|3d9|b8|p|Mucaison
+Muhlenbach|LU||9c|3tv|h0|p|Millebaach
+Müllheim|CH||a7|3o8|p0|p
+Münsterlingen|CH||a7|3ob|pn|p
+Muncy|US||48|36h|-5xb|o
+Mořkov|CZ||9m|3tm|1e6|o|Murk
+Mutzschen|DE||8r|3ye|zt|o
+Muxupip|MX||3z|1mg|-6w5|o|Muxupib;Moxupip
+Murgon|AU||8c|-20w|bq2|o
+Muzzana del Turgnano|IT||9o|3ja|10h|o|Mucane
+Muirhead|AU||8e|-yc|a3l|o
+Mumra|RU||8o|3j5|3od|o
+Murindó|CO||27|je|-5xe|o
+Mühlingen|DE||8r|3p4|p2|o
+Multisilta|FI||92|4qo|1tz|o
+Goričan|HR||a6|3ku|1ac|n|Muracsány
+Murgia|ES||9d|3bc|-7u|n|Murguía
+Mühlau|DE||8r|3xe|zh|n
+Muizon|FR||9k|3sv|at|n
+Mulberry|US|North Carolina|48|2so|-69i|n
+Montallegro|IT||9o|2vv|113|n|Muntallegru
+Muonio|FI||92|58s|1ts|n|Muoná
+Murat|FR||9k|3hb|7z|n
+Muti|PH||71|k8|9fo|n
+Mulwala|AU||8l|-2rz|b9l|n
+Muta|SI||9a|3lh|165|n
+Munising|US||2q|3kx|-6op|n
+Demir Hisar|MK||9u|36i|1mw|n|Demir Chisaras;Murgasjevo;Murgaševo
+Muşeteşti|RO||8u|3hf|1t7|n
+Muşeniţa|RO||8u|3p9|208|m
+Muncelu de Sus|RO||8u|3mw|22a|m|Muncelul-de-Sus
+Murphys|US||3p|2xy|-9am|m|Murphy;Murphy's
+Much Wenlock|GB||9b|424|-74|m
+Murtino|MK||9u|372|1r5|m
+Muldenstein|DE||8r|3zj|yb|m
+Disentis|CH||a7|3lq|ol|m|Mustér
+Mûr-de-Bretagne|FR||9k|3pw|-8b|m|Mur
+Muksha Kytaihorodska|UA||98|3r7|21y|m|Zhovtneve;Zhovtnevoye
+Muchorwi|KE||16|-x|2r5|m
+Muhr am See|DE||8r|3sj|ts|m
+Montalcino|IT||9o|3bl|vx|l|Mons Ilcinus;Muntalcinu
+Munai|PH||71|m6|9km|l|Munay
+Mulino|US||3p|3hm|-9gi|l
+Moggio Udinese|IT||9o|3kx|10o|l|Muec
+Munkzwalm|BE||8t|3xc|ae|l|Munckzwalm
+Mulino|IT||9o|3fl|up|l
+Muzhiievo|UA||98|3pu|1r2|l|Nagymuzsaly;Nagy-Muzsaly;Muzhiyeve;Muzhiyovo;Muzhiyevo
+Münsterhausen|DE||8r|3q7|t2|l
+Muratlı|TR||94|2uo|33e|l
+Muscoline|IT||9o|3ik|t2|k
+Muñoz|MX||41|1i3|-7kt|k
+Mühldorf bei Feldbach|AT||a2|3me|187|k
+Murbaḩ|AE||6c|1y8|4ck|k|Marbah
+Much Hadham|GB||9b|401|7|k
+Muraste|EE||9x|4l5|1vw|k
+Murakeresztúr|HU||8v|3ks|1aw|k
+Mullion|GB||9b|3uz|-ek|k
+Musabeyli|TR||94|2uh|2uk|j
+Münsterdorf|DE||8r|45q|qi|j
+Murter|HR||a6|3dq|17b|j|Morter
+Mužla|SK||8s|3or|1fo|j
+Mustāng|NP||6r|292|6h8|j|Mushtang
+Mundaka|ES||9d|3cl|-7i|j|Mundaca
+Murupara|NZ||ak|-2yv|dmu|j|Muripara;Murapara
+Mukim Tioman|MY||6v|7q|81d|j|Tioman
+Müllheim-Feldberg|DE||8r|3op|l8|j
+Münzkirchen|AT||a2|3qo|11p|j
+Murillo|CO||27|dj|-5st|j
+Cootehill|IE||8z|467|-jo|j|Muinchille
+Mulgoa|AU||8l|-2m0|bmh|i
+Muros de Nalón|ES||9d|3cy|-gy|i
+Mundford|GB||9b|41v|1t|i
+Muttersholtz|FR||9k|3q3|ky|i|Müttersholz;Mieterschulz;Mutherholz
+Voskehask|AM||80|358|3dl|i|Musakan;Molla Musa;Voskeask
+Munningen|DE||8r|3rw|tg|i
+Mūsáābād|IR|Māzandarān|7o|2tr|3z4|i|Mūsī Ābād
+Müftüselim|TR||94|32j|3ak|i
+Yakovlevo|RU|Leningradskaya Oblast'|9i|4nh|29x|i|Mustamäki;Jakovlevo;Mustamyaki
+Muotiala|FI||92|4qs|1u6|i
+Mühltroff|DE||8r|3we|x5|i
+Musano|IT||9o|3j1|xo|i
+Mukhaylá|LY||1d|2hc|1pw|i|Mechili;El Mechili;Al-Machili;Al Mukhayli;Al Makīlī;El-Mechìli;Al-Mukhīlī
+Muiderberg|NL||8m|41d|e8|h
+Mühlhausen|DE|Bavaria|8r|3u7|ty|h
+Muliterno|BR||4w|-26p|-3zt|h
+Musquodoboit Harbour|CA||35|3ge|-4vf|h
+Munxar|MT||9e|2s3|13j|h
+Mühlenbach|DE||8r|3q1|mk|h
+Mussy-la-Ville|BE||8t|3tp|fq|h
+Mucarabones|PR||4m|1f3|-53y|h
+Murray|AU||8c|-1ho|bbr|h
+Mustvee|EE||9x|4jh|22u|h|Tschorna;Mustve;Mustwee
+Mundys Corner|US||48|34c|-630|h
+Mokht|IR||7o|20n|4my|g|Mūkht
+Musqueam|CA||5b|3sr|-9i7|g
+Munfordville|US||2f|2vj|-6ml|g
+Mulberry|US|Arkansas|2f|2qm|-799|g
+Villa Poma|IT||9o|3h0|uv|g|Mulum;Vìla Póma
+Muntlix|AT||a2|3nc|qu|g
+Murphy|US|North Carolina|48|2ph|-6hf|g
+Montedoro|IT||9o|2w1|12e|g|Muntidoru
+Muenster|US||2f|2lh|-7ii|g
+Musselburgh|NZ||ak|-3ji|d5n|g
+Mutters|AT||a2|3n7|vm|g
+Mekinje|SI||9a|3kf|14m|g|Münkendorf;Minkendorf
+Murata|SM||9q|3e0|yl|g
+Murfreesboro|US|Arkansas|2f|2mm|-789|g
+Murów|PL||a5|3xa|1dv|g
+Muhororo|UG||q|2m|2dg|g
+Multé|MX||3z|1d5|-71u|g
+Murchison|ZA||o|-1ue|2d9|f
+Muirhead|GB|Scotland|9b|4cy|-8j|f
+Murat|TR|Ağrı|94|31v|3au|f
+Muirkirk|GB||9b|4a8|-bb|f|Eaglais an t-Slèibh
+Mureck|AT||a2|3lr|17t|f|Cmurek
+Moutfort|LU||9c|3tr|he|f|Mutfert;Mutfort
+Mundoolun|AU||8c|-25i|bt7|f
+Mürşitali|TR||94|337|3el|f
+Moḩammad Şāleḩī|IR||7o|2ad|3wl|f|Muhammad Sālehī
+Mustafabeyli|TR||94|2v0|2s7|f|Rifetiye;Rifatiye
+Mühldorf|AT|Upper Austria|a2|3p2|12r|f
+Muzhyliv|UA||98|3sz|1xq|f|Mużyłów;Mujîliv;Muzsiliv;Muschiliw;Mujyliv;Muzilow;Muzhylov;Muzhilov
+Muhammad Moryal Sahito Jo Goth|PK||6q|23h|5a0|f|Mothparja
+Muldersdriseloop|ZA||o|-20c|25c|f
+Mugron|FR||9k|3dj|-23|f
+Munchhouse|FR||9k|3oz|kp|f|Münchhausen
+Muurla|FI||92|4nn|1so|f
+Murzasichle|PL||a5|3sy|1jo|f
+Muquén|MX||41|1ap|-759|f
+Mühlanger|DE||8r|401|zf|f
+Mullens|US||48|2we|-6a2|f|Mullins
+Münchsteinach|DE||8r|3tw|tg|f
+Mouzourás|GR||8p|2qq|1v4|f|Muzuras
+Mikhmās|PS||6g|2gj|2q0|f|Mukhmās
+Montalbano Elicona|IT||9o|2xm|15p|f|Muntarbanu;Montalbano d'Elicona
+Molino del Piano|IT||9o|3dp|vo|e|Mulino del Piano;Molin del Piano
+Murphys Estates|US||48|2lc|-6bm|e|Murphy Estates
+Murat|TR|Ağrı|94|31u|3db|e
+Mumpf|CH||a7|3o3|m0|e
+Muntenii de Sus|RO||8u|3lp|256|e
+Montecilfone|IT||9o|38e|158|e|Munxhfuni
+Munderfing|AT||a2|3pj|10m|e
+Muhlenberg Park|US||48|346|-5uy|e
+Musci|IT||9o|35k|13x|e
+Muslimpur|BD||6a|1wk|71c|e
+Donji Kraljevec|HR||a6|3kt|1a9|e|Murakirály;Donji Kraljevoc
+Müllendorf|AT||a2|3ow|19q|e|Szárazvám;Melindoff
+Muirhead|GB|Scotland|9b|4ba|-bf|e
+Muncurlu|TR||94|35e|2eu|e|Moncurlu
+Multia|FI||92|4te|1wu|e|Muldia
+Muniz|US||2f|20y|-7kh|e
+Mühlen in Taufers|IT||9o|3ma|x6|e
+Moḩammadīyeh|IR|Isfahan|7o|2j6|3xo|e|Muhammadīyeh
+Murviel-lès-Montpellier|FR||9k|3d5|ae|e|Mervièlh de Montpelhièr;Mervièlh;Murviel
+Mundubbera|AU||8c|-1z3|boa|d
+Muratbey|TR||94|366|275|d
+Munday|US||2f|2kx|-7oq|d
+Muskatnoye|UA||9t|3ib|2ny|d
+Müntschemier|CH||a7|3mk|jv|d|Monsmier
+Mühlbach am Hochkönig|AT||a2|3nm|10h|d|Mijbouch am Houchkinig
+Bushmills|GB||9b|49c|-i4|d|Muileann na Buaise
+Mussy-sur-Seine|FR||9k|3pa|ci|d
+Mulatupo|PA||4g|ov|-5zz|d
+Mugun|RU||6k|47b|7qh|d
+Mukařov|CZ||9m|3uv|14y|d
+Moimacco|IT||9o|3k1|115|d|Muimans;Monnacco
+Mustafalar|TR||94|2v3|2qn|d
+Musei|IT||9o|316|o3|d
+Margham|AE||6c|1x6|4aj|d|Murgham
+Mücka|DE||8r|3yk|14u|d|Mikow
+Munteni|RO|Iași County|8u|3ng|23e|d
+Muscoda|US||2f|3by|-6z8|d
+Mühlethurnen|CH||a7|3m1|kv|d
+Münchweiler an der Alsenz|DE||8r|3tn|lw|d
+Munford|US|Alabama|2f|2l5|-6mr|d
+Mulberry|US|Indiana|38|342|-6or|c
+Mur-de-Sologne|FR||9k|3np|4h|c
+Müllendorf|LU||9c|3u0|h1|c|Mëllerëf;Muellendorf
+Murillo de Río Leza|ES||9d|39s|-6g|c|Muriello de Río Leza
+Muff|IE||8z|48z|-k7|c|Magh
+Mutaflar|TR||94|2wh|261|c
+Mühlehalde|CH||a7|3nc|np|c
+Muravlivka|UA||98|3ik|290|c|Muravleanca;Muravlëvka
+Mobārakābād|IR|Fars|7o|2bv|43o|c|Mubārakābād
+Muides-sur-Loire|FR||9k|3of|49|c
+Mughni|AM||80|33z|3f9|c|Mugni
+Mundijong|AU||8k|-2hp|8y7|c
+Basen|AM||80|358|3e7|c|Mets Kyapanak;Musayelyan;Mets Akhuryan
+Musestre|IT||9o|3in|yd|c
+Munkkisaari|FI||92|4n4|1x9|c|Munkholmen
+Murra|NI||3s|128|-6my|c
+Muckendorf an der Donau|AT||a2|3q9|18w|c
+Muschwitz|DE||8r|3y7|xo|c
+Mühl Rosin|DE||8r|45c|xx|c
+Vratišinec|HR||a6|3l4|19q|c|Murasiklós
+Rio di Pusteria|IT||9o|3m0|wf|c|Mühlbach;Mühlbach im Pustertal
+Mus|FR||9k|3di|bo|c
+Mussig|FR||9k|3pz|kw|c
+Muel|ES||9d|377|-31|b
+Munster|CA||59|3hg|-5uy|b
+Mubārakpur Net|IN||6t|1zf|6gi|b
+Murgeşti|RO|Buzău County|8u|3i4|22o|b|Murgoşti
+Mullagh|IE||8z|45h|-jb|b|An Mullach
+Muriwai Beach|NZ||ak|-2uc|dgj|b
+Muolen|CH||a7|3o0|pw|b
+Mutquin|AR||1m|-26o|-53r|b|Mudquin
+Muron|FR||9k|3jw|-2b|b
+Mühlen Eichsen|DE||8r|45c|v9|b
+Münster|DE|Bavaria|8r|3pz|tk|b
+Munkbrarup|DE||8r|488|ql|b
+Mulambin|AU||8c|-1sf|bmv|b
+Muharremşah|TR||94|36w|2hg|b
+Molina di Ledro|IT||9o|3jf|tx|b|Mulìna de Léder;Mołina de Łedro
+Moshkān|IR||7o|2d1|433|b|Mūsh Kān;Moshgān
+Müschenbach|DE||8r|3ws|lm|b
+Mühlhausen|DE|Baden-Wurttemberg|8r|3qy|qu|a
+Münzbach|AT||a2|3q3|14v|a
+Murrurundi|AU||8l|-2g8|bn0|a|Murrundi
+Musso|IT||9o|3k3|pr|a
+Muli|MV||af|84|5oe|a
+Murasho|JP||7q|2hj|a4b|a
+Mühlbeck|DE||8r|3zg|ye|a
+Muncelu|RO||8u|3jn|233|a|Muncel
+Muldraugh|US||48|2xe|-6mv|a
+Mussel|NL||8m|434|jk|a
+Musil|IT||9o|3jp|za|a
+Murine|HR||a6|3i9|11m|a|Murina
+Mustang Ridge|US||2f|2bi|-7jd|a
+Mühlau|CH||a7|3n7|nb|a
+Muntzenheim|FR||9k|3pm|ks|a|Munzenheim
+Meråker|NO||9j|4w5|wm|a|Muorahká;Maråker;Meraaker
+Mursallı|TR||94|2x5|24k|a
+Müssen|DE||8r|44l|tc|a
+Xmuquel|MX||3z|1m2|-6s0|a|Mucel
+Muradpur|BD||6a|1wh|71c|a
+Musgrave Harbour|CA||50|3td|-45w|9
+Muras|ES||9d|3cr|-lg|9
+Muchea|AU||8k|-2fq|8y5|9
+Murchin|DE||8r|45r|126|9
+Mustla|EE|Pärnumaa|9x|4hh|1xq|9
+Mülheim|DE|Rheinland-Pfalz|8r|3un|ji|9
+Mürzhofen|AT||a2|3nw|16q|9|Mürtzhofen
+Mutiscua|CO||27|ka|-5m3|9
+Mugreyevskiy|RU||9i|4d8|39n|9|Mugrejevskij
+Mühldorf|AT|Carinthia|a2|3m6|113|9
+Muzhich’ye|RU||9i|3wz|363|9|Muzjitsje
+Dokležovje|SI||9a|3lg|18y|9|Murahely
+Murchison|AU||8j|-2tq|b7e|9
+Muids|FR||9k|3sq|3l|9
+Ninilchik|US||1h|4mt|-bpb|9|Munina;Nilchick;Ninilchick
+Murakhivka|UA||98|3n9|2jq|9|Murakhovka
+Mugnano|IT||9o|3bm|xy|9
+Murialdo|IT||9o|3f4|mp|9|Moriaodo
+Mollā Pīrī|IR||7o|2t3|3pg|9|Mullah Pīri;Mollā Parī
+Murat-sur-Vèbre|FR||9k|3dc|7x|9
+Murvica|HR||a6|3en|16k|9|Murvizza
+Murtoa|AU||8j|-2tq|azr|9
+Muruhuay|PE||3o|-vj|-5u5|9|Muruhuoy
+Muespach-le-Haut|FR||9k|3o3|kk|8
+Muelas del Pan|ES||9d|37c|-gl|8
+Demirlipınar|TR||94|2xg|36e|8|Mozgelan;Mözgelen;Muzgelan
+Mudenbach|DE||8r|3wr|lh|8
+Mucharz|PL||a5|3ud|1ib|8
+Mur-de-Barrez|FR||9k|3gk|7e|8|Lo Mur de Barrés;Mur-de-Barrès
+Ižakovci|SI||9a|3lf|192|8|Murasziget
+Bacurimí|MX||3x|1wx|-8ah|8|Mucurimi
+Mucklagh|IE|Leinster|8z|43x|-kz|8|An Muclach
+Muzy|FR||9k|3rh|3r|8
+Mulga|US||2f|2l7|-6pl|8
+Mustla|EE|Viljandimaa|9x|4hr|1zv|8
+Munguía|MX||41|1l2|-7tu|8
+Mucklagh|IE|Leinster|8z|42p|-hr|8
+Melinci|SI||9a|3ld|194|8|Muramelence;Mellincz
+Muille-Villette|FR||9k|3u5|8j|8
+Mündersbach|DE||8r|3wl|lh|8
+Murgești|RO|Gorj County|8u|3g7|1sw|8
+Multajo|MX||41|1ag|-75z|8
+Mühlgraben|AT||a2|3of|xu|8
+Müstair|CH||a7|3lj|t1|8|Münster
+Lázaro Cárdenas|MX|Sinaloa|3x|1z4|-8ep|8|Muellecito
+Murrow|GB||9b|428|3|8
+Mongiuffi Melia|IT||9o|2xa|16g|8|Mungiuffi
+Muhsinler|TR||94|36y|2ha|8
+Moḩammadābād|IR|Alborz Province|7o|2rj|3wm|8|Muhammadābād
+Muros|IT||9o|350|ny|8
+Musababa|TR||94|35f|2et|8
+Mutějovice|CZ||9m|3vf|123|8
+Hotiza|SI||9a|3lb|19g|8|Murarév;Hottiza
+Motteggiana|IT||9o|3h3|tw|8|Muntichiana;Munticiàna;Motegiana
+Murdochville|CA||59|3s0|-51y|8
+Murillo|MX||41|156|-74d|8
+Münsbach|LU||9c|3tv|he|8|Minsbech;Müsbach
+Mūrd-e Shahrak|IR||7o|287|41q|8|Mūrch-e Shahrak;Mūrj-e Shahrak
+Muthill|GB||9b|4ch|-an|8
+Muromskoye|UA||9t|3h9|2ot|8
+Muhlbach-sur-Munster|FR||9k|3pf|jo|8
+Murisengo|IT||9o|3h8|mm|8|Ambrusengh
+Murillo el Fruto|ES||9d|39r|-42|7
+Münichsthal|AT||a2|3qe|19r|7
+Murray|US|Iowa|2f|360|-78z|7
+Monteleone Sabino|IT||9o|39b|zq|7|Mons Leonis Sabinus;Muntiliuni Sabinu
+Múhuatl|MX||41|1nv|-7n8|7
+Murtas|ES||9d|2uh|-8n|7
+Muniesa|ES||9d|35z|-29|7
+Muel|FR||9k|3pp|-60|7|Moel
+Mûres|FR||9k|3j9|gs|7
+Murianette|FR||9k|3hj|g6|7
+Muhlbach-sur-Bruche|FR||9k|3qs|ka|7|Mühlbach an der Breusch;Meelbàch;Muhlbach
+Mulaly|KZ||5s|3i9|61j|7|Molaly
+Muris|IT||9o|3kb|103|7
+Morcote|CH||a7|3jl|os|7|Murcò
+Mul’ta|RU||63|3vd|6ms|7
+Mustin|DE|Schleswig-Holstein|8r|455|u8|7
+Mülverstedt|DE||8r|3y0|t6|7
+Lanjik|AM||80|34j|3du|7|Muslugli;Musloghli
+Müllenbach|DE||8r|3vi|jn|7
+Bratonci|SI||9a|3li|192|7|Murabaráti;Bratanci;Bratoncz
+Mullem|BE||8t|3xe|a1|7
+Vladimirskiy|RU||9s|3wp|3kj|7|Murmanskiy;Murmansky
+Mühlbach|AT|Upper Austria|a2|3q6|13f|7
+Munteni|RO|Bihor County|8u|3m8|1r1|7
+Muratlar|TR||94|30i|2cc|7
+Müden|DE|Rheinland-Pfalz|8r|3ve|ke|7
+Muereasca de Sus|RO||8u|3hk|1vh|7
+Mûnein|NL||8m|43x|gg|7|Moleneind;Molenend
+Mulgrave Park|CA||35|3g3|-4wo|7
+Murta|RO||8u|3e6|1uj|7
+Mullan|US||3p|3nv|-8xo|7
+Murello|IT||9o|3gb|l4|7
+Murillo el Cuende|ES||9d|39s|-4j|7|Moriello del Cuende
+Murgași|RO||8u|3fm|1ub|7|Murgaşu
+Mukhanovo|RU||9i|4cz|2yg|7
+Muno|BE||8t|3u4|ed|6
+Muntele Rece|RO||8u|3lk|1so|6
+Muo|ME||9l|39v|1g4|6
+Midlum|NL||8m|43q|f5|6|Mullum
+Mucientes|ES||9d|37y|-d8|6
+Munds Park|US||4i|2p3|-8m4|6
+Mürlenbach|DE||8r|3vb|ic|6
+Mulgrave|CA||35|3ip|-4qj|6
+Mutignano|IT||9o|3ab|12z|6
+Muttendorf|AT||a2|3md|16p|6
+Muddy|US||2p|3iq|-88k|6
+Murphys Creek|AU||8c|-24a|bqd|6
+Munte|BE||8t|3xi|ae|6
+Muliparte|IT||9o|3ja|xa|6
+Mursley|GB||9b|40b|-29|6
+Muscoli|IT||9o|3jc|111|6|Muscli
+Murato|FR||9k|3aa|px|6
+Murilo|FM||an|o5|br6|6
+Murchison|NZ||ak|-384|dap|6
+Muir|US||2q|3bg|-6jy|6
+Murray Hill|US||3k|2yd|-6lr|6
+Mustățești|RO||8u|3hj|1wk|6
+Mulberry Grove|US||2f|305|-6vz|6
+Mussolini|IT||9o|3if|xa|6
+Mulanjey|MX||3x|20p|-8e1|6|Mulagey;Mulangey
+Mulanjey (Estación Vega)|MX||3x|20p|-8e1|6
+Murrays Beach|AU||8l|-2k0|bp6|6
+Mucheln|DE|Schleswig-Holstein|8r|46p|t0|6
+Murchison|US||2f|2ho|-7dz|6
+Mucești-Dănulești|RO||8u|3ig|22t|6
+Muuga|EE||9x|4l9|1xb|6|Muga
+Mūsáābād|IR|Chaharmahal and Bakhtiari|7o|2h5|3xe|6|Mūsīābād
+Muccia|IT||9o|3bo|108|6
+Mungindi|AU||8l|-28i|bhv|6
+Kayk|AM||80|34q|3fa|6|Mulki;Melkonkend
+Mühling|AT||a2|3pm|161|6
+Mürseloğlu|TR||94|2u9|2po|6
+Mulbring|AU||8l|-2je|bot|6
+Murol|FR||9k|3il|86|6|Muròu
+Mușca|RO||8u|3ks|1sd|6
+Mund|CH||a7|3ko|m2|6
+Mușcelușa|RO||8u|3ic|20z|6
+Murazzano|IT||9o|3fj|ma|6
+Murrayville|US||2f|31z|-6yp|6
+Murias de Paredes|ES||9d|3b1|-h7|6
+Mühlbach|AT|Salzburg|a2|3p4|106|6
+Saint-Louis-lès-Bitche|FR||9k|3s3|kf|6|Münzthal-Saint-Louis
+Mure|IT||9o|3j1|w9|6
+Mongrassano|IT||9o|31t|18r|6|Mungrasana
+Bataconcica|MX||37|24k|-8hx|6|Museo Chopocuni
+Musgravetown|CA||50|3qh|-45p|6
+Mullaway|AU||8l|-2bk|btk|6
+Mulliken|US||2q|3as|-6ju|6
+Mūlenjān|IR||7o|2iw|3zw|6
+Münchehofe|DE||8r|40v|12f|6
+Mützel|DE||8r|41i|xu|6
+Muneville-le-Bingard|FR||9k|3sg|-44|5
+Musbury|GB||9b|3wz|-8f|5
+Mulazzano Ponte|IT||9o|3fw|sj|5
+Mumsdorf|DE||8r|3xu|y3|5
+Mustin|DE|Mecklenburg-Vorpommern|8r|456|x9|5
+Munar|RO||8u|3k2|1me|5
+Murta Maria|IT||9o|35l|qn|5
+Monte Castello di Vibio|IT||9o|3b0|yb|5|Castrum Vibiense;Munti Casteddu di Vibiu
+Mühlgang|AT||a2|3pq|17e|5
+Križovec|HR||a6|3l5|19t|5|Muraszentkereszt
+Moravitsa|BG||9v|3bv|1tp|5|Muravitsa
+Münsterappel|DE||8r|3u5|lw|5
+Mullhyttan|SE||9w|4kb|14s|5
+Mullion Creek|AU||8l|-2k1|bi9|5
+Mullumbimby Creek|AU||8l|-27b|bu8|5
+Muñana|ES||9d|34r|-dx|5
+Mulberry|US|South Carolina|48|2mb|-675|5
+Mustafalı|TR||94|35p|2xr|5
+Mușata|RO||8u|3kz|262|5
+Murani|RO||8u|3jk|1n7|5|Murány
+Tropovci|SI||9a|3ll|18q|5|Murafüzes
+Mulong|CN||7i|251|8ez|5
+Muradiyemengencik|TR||94|35a|2er|5
+Murla|ES||9d|2zo|-8|5
+Muthmannsdorf|AT||a2|3ow|18r|5|Muthannsdorf
+Mullewa|AU||8k|-27a|8wv|5
+Montagnareale|IT||9o|2xx|15j|5|Muntagnariali
+Mühbrook|DE||8r|46g|rt|5
+Murthly|GB||9b|4d1|-9n|5
+Dyje|CZ||9m|3rp|18s|5|Mühlfraun
+Mutlu|TR||94|31f|3cz|5
+Muirancourt|FR||9k|3tw|8d|5
+Mulberry|US|Kansas|2f|2wc|-7au|5
+Moshkenān|IR||7o|2iw|425|5|Mashgenān;Mushkinān;Mūshkānān;Moshgenān;Moshgnan
+Murat|TR|Ağrı|94|328|3c5|5|Ziro
+Munnekezijl|NL||8m|442|hf|5|Munnikenzijl
+Musone|IT||9o|3co|11r|5
+Morochata|BO||3n|-1bv|-54t|5|Muruchata
+Muctahuitz|MX||41|1av|-75o|5

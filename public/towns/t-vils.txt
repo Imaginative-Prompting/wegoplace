@@ -1,0 +1,16 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vilshofen|DE||8r|3r3|10n|4n
+Wilsdruff|DE||8r|3xt|11m|3u|Vilsdrufa
+Vilsbiburg|DE||8r|3ql|yc|36
+Vilshany|UA|Kharkiv|98|3v1|2ro|1v|Vil’shany;Ol’shany
+Vilseck|DE||8r|3tt|ws|1u
+Vilshanka|UA|Kirovohrad|98|3pz|2dr|1a|Vilchanka
+Vilonia|US||2f|2pg|-745|18|Vilsonia
+Vilshana|UA||98|3sq|2eq|u|Vilchana;Wilschana;Vilšana
+Vilsheim|DE||8r|3ql|xn|o
+Vils|AT||a2|3o3|tj|f
+Vilshany|UA|Zakarpattia|98|3qa|1tl|b|Vil’shany;Ol’shany
+Vilshanka|UA|Odesa|98|3pq|2bs|a|Vilchnka
+Villshärad|SE||9w|4dh|za|8|Vilshärad
+Vilshynky|UA||98|3ri|1qx|6|Vilshinka;Vil’shynky
+Vilshanka|UA|Poltava|98|3v0|2jq|5|Vil’shanka;Ol’shanka

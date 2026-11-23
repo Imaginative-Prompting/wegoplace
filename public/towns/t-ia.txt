@@ -1,0 +1,82 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Yantai|CN|Shandong|7i|2w4|9dc|1ist|Chefoo;Jen-tchaj;Jantaj;Yên Đài;Iĕng-dài;Jantai;Ian-tâi-chhī;Yen-t’ai
+Jaipur|IN||6t|22s|5uj|ni6|Dźajpur;Džaipur;Džaipuras;Džajpura;Jaypur;Ĝajpuro;Iaipura;Caypur;Dzsaipur;Jayapur
+Jacksonville|US|Florida|48|2c9|-6au|7si|Ĝaksonvilo;Iacsonvilla;Iacsoniapolis;Džeksonvila;Džeksonvilis;Ceksonvill
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Yaroslavl|RU||9i|4g3|32r|4p3|Jaroslawl;Iaroslavl;Jaroslavl';Jaroslavlj;Jaroszlavl;Iaroslavia;Jaroslavlis;Jaroslavļa;Jaroslavľ;Jaroslavelj;Jarosław
+Iaşi|RO||8u|3n1|24o|2xa|Jassy;Jasy;Jászvásár;Jasi;Yashi;Yaş;Jaßenmarkt;Iassium;Jasai;Jaš;Yassı;Yassy;Ilasi
+Yakutsk|RU||7x|4sb|a0c|1tg|Jakutsk;Iakoutsk;Yerkutsk
+Győr|HU||8v|3og|1d0|zx|Raab;Arrabona;Dėras;Jura;Ģēra;Gjur;Iaurinum;Djor;Đer;Javarin
+Yalta|UA|Crimea|9t|3fm|2mx|le|Jalta;Jalto;Ialta
+Zadar|HR||a6|3ek|16b|ip|Jadera;Zara;Iadera;Chadra;Iader
+Yambol|BG||9v|3a0|21m|hp|Jambol;Iambol;Jamboli
+Yasynuvata|UA||98|3pp|2x6|ag|Yasinovataya;Jassynuwata;Yassynouvata;Jasynuvata;Jasinoevata;Iasinovàtaia;Yasınuvata;Jassõnuvata;Jasinuvata;Jasnuvata;Iasînuvata;Jasynuwata;Yasinovatara
+Ennepetal|DE||8r|3yi|kg|92|Iämpedal
+Jagna|PH||71|qt|9lh|92|Iagna
+Lakota|CI||0|g9|-fs|90|Iakota
+Iaçu|BR||20|-zh|-33p|6u
+Iapala|MZ||11|-15q|2xo|5l
+Iati|BR||4p|-p5|-2ud|4w
+Yashkino|RU||74|4b7|6lb|48|Jasjkino;Jaschkino;Jaškino;Iachkino;Yaşkino;Jaszkino
+Ialoveni|MD||8x|3me|27y|45|Yaloveni;Yaloveny;Yaloven’
+Iaciara|BR||4w|-136|-3lj|3x|Iaçara;Iassiara
+Yavoriv|UA||98|3uq|1sy|3k|Jaworów;Jaworiw;Javorov;Javoriv;Javoriva;Iavoriv;Yavorov;Yavoruv
+Ialysós|GR||8p|2t5|268|3j|Trianta;Ialissos;Triánda;Ialyssós;Ialisós
+Iapu|BR||4w|-1i0|-39a|3c
+Ianca|RO|Brăila County|8u|3hd|249|34
+Yampil|UA|Vinnytsia|98|3q0|26k|32|Iampol;Kremenchuk
+Iacanga|BR||4w|-1ot|-3s6|2w
+Jajce|BA||9r|3f6|1bz|2q|Jajca;Jaicė;Iaicia
+Yapleu|CI||0|jp|-lf|2d|Iapleu
+Iāwar|IN||6t|1rx|5wi|2a|Jāwar
+Iaras|BR||4w|-1rj|-3sk|28
+Yavas|RU||9i|476|3b1|26|Javas;Iavas;Javasz;Jawas
+Jaci|BR||4w|-1m0|-3tp|24|Iaci
+Ialibu|PG||bd|-hg|b3z|1x
+Iacri|BR||4w|-1oq|-3wt|1p|Jacrí
+Janzé|FR||9k|3p8|-46|1n|Gentieg;Ianzeium
+Iargara|MD||8x|3kz|26z|1k|Jargara;Iagara;Yargara
+Yalta|UA|Donetsk|98|3mg|2vj|1j|Jalta;Ialta
+Yasenskaya|RU||9i|3ks|2yb|1d|Jasenskaja;Iasenskaia
+Iara|RO||8u|3lb|1tc|1b
+Jarnac|FR||9k|3iw|-h|19|Iarnacum
+Iancu Jianu|RO||8u|3fm|1ur|18
+Ianca|RO|Olt|8u|3dm|1v6|17
+Yasky|UA||98|3l7|2bk|15|Iaskî;Jaśky;Yasko
+Iana|RO||8u|3ku|24j|13
+Iacobeni|RO|Suceava|8u|3nr|1yc|12|Jakobeny
+Iaslovăț|RO||8u|3oo|206|x
+Ivanivtsi|UA|Chernivtsi|98|3qp|233|x|Ianăuţi
+Yala|KE||16|9|2ny|w|Ialá
+Yamnytsia|UA||98|3s3|1wn|w|Jamnytsia;Yamnytsya;Jamnyzja;Jamnytsja;Jamnycja;Jamnica;Iamnîțea;Yamnitsa
+Iacobeni|RO|Sibiu County|8u|3jx|1wo|q
+Íasmos|GR||8p|369|1xz|q
+Iablaniţa|RO|Caraș-Severin County|8u|3gv|1pz|q|Jablaniţa
+Iazu|RO|Dâmbovița County|8u|3g8|1zr|m
+Yabluniv|UA|Ivano-Frankivsk|98|3qg|1xa|k|Jabłonów;Yablouniv;Jabluniw;Jablunivas;Jabluniv;Iabluniv
+Yanoshi|UA||98|3q1|1qv|k|Ivanovka;Ivanivka;Makkosjánosi;Janoschi;Janosji;Janoŝi;Ianoși;Yanoşi
+Yátova|ES||9d|31e|-28|k|Iàtova
+Iapa|RO||8u|3p5|1u7|g
+Yaroslavka|UA||98|3k0|2az|e|Jaroslava;Iaroslava
+Les Gets|FR||9k|3k8|ii|d|Gets;Iactus
+Iazu|RO|Ialomița County|8u|3g9|246|d
+Ialmicco|IT||9o|3jj|113|c
+Iazu Nou|RO||8u|3nw|23l|c
+Iazurile|RO||8u|3h2|28e|b
+Ianoșda|RO||8u|3m4|1ol|b
+Iacobeni|RO|Botoșani County|8u|3oy|22r|b
+Iadăra|RO||8u|3nw|1t0|b
+Yasnaya Polyana|RU|Kaliningrad Oblast|96|47l|1qd|a|Jasnaja-Poljana;Jasnaja Poljana;Trakehnen;Didieji Trakėnai;Iasnaïa Poliana;Jasnaja Polana;Trakenen
+Iași-Gorj|RO||8u|3gz|1sl|9
+Iannassi-Bosco Perrotta|IT||9o|365|157|9
+Ianova|RO||8u|3jc|1ni|8|Janova
+Iacobeni|RO|Cluj County|8u|3ln|1ur|8
+Yablunytsya|UA||98|3pf|1x8|7|Yablounytsia;Iablonița
+Iaz|RO|Caraș-Severin County|8u|3ib|1pr|7|Taz
+Iaz|RO|Sălaj County|8u|3mw|1r1|7
+Jamestown|SH||89|-188|-fw|6|Ceymstaun;Ĵamestaŭno;Iacobopolis;Džeimstaunas;Džeimstauna
+Iazu|RO|Prahova|8u|3h8|20a|6
+Yazlovets|UA||98|3s1|1yo|6|Yablunivka;Jazłowiec;Jazlovets;Jaslowez;Yablonovka;Jazlovecas;Jazlovec;Iasloviecia;Iazloveț
+Iacobești|RO||8u|3op|20h|6
+Iablanița|RO|Mehedinți County|8u|3fi|1rv|5|Lablaniţa

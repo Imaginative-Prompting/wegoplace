@@ -1,0 +1,161 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Al Ain City|AE||6c|1v7|4aw|6j7|Al Ain;Al-Ain;Al-Ajn;Al-Ayn;Ainas;Al Ajn;Al Ayn;El-Ajn;El Ain;Al ‘Ayn
+Al Aḩmadī|KW||6x|28s|3pk|4x2|El Ahmedi;Ahmadi;Ahmedi
+Elazığ|TR||94|2zf|30y|3f6|Elezîz;Elazıı;Eliazihas;Elâzız
+Luxor|EG||c|1ze|2io|39c|Luksoro;Louxor;Luksor;Luksoras;El-Uksur;Loxòr;Lucsar;Luksora;Al Uqsur;Luqsor;Louksor;El-Aksur
+Arīsh|EG||c|2eh|2lw|1jc|City of Cut Noses;Al-Arisch;El-Arich;Al-Arix;Aríš;El Ariŝ;Arišas;Al-Arisz;Alarixe
+Laayoune|EH||k|23e|-10n|1ij|Aaiún;El Aaiún;Al-Aaiun;Ajuno;O Aaiún;Al-Ajoen;Al-Ujun;El-Aaiún;Al-Ayun;El Ayun;Al Ayoun;La’Youn;El Aiún;Aiun;Aaium
+Chlef|DZ||3|2sh|3p|1dm|Ech Cheliff;Castellum Tingitanum;Šelifas;Szalif;asch-Schalif;al-Asnām;ash-Shalif;Hlef;El Asnam;aš-Šalif
+El Achir|DZ||3|2s6|cv|17z
+Īlām|IR||7o|2lg|3ky|135|Elām
+Larache|MA||d|2pr|-h4|11x|Laraxe;Al-Araisz;Larraix;Laraŝo;Larašas;Al ‘Arā’īsh;Lavache;El Araish
+Aryanah|TN||1e|2ue|sb|vt|Arjana;Aryana;Ariana;L’Ariana;El Ariana
+Alahabad|PK||6q|2ds|5pq|m9|Elah Abad
+Yelabuga|RU||9i|4aw|40k|k6|Jelabuga;Jelaboega;Elabuga
+Afula|IL||6n|2il|2q1|hx|Afule;Afuli;El ‘Affūle;Affula;Afoula
+Eilat|IL||6n|2a4|2p3|fk|Elat;Ejlato;Ejlat;Lungsod ng Elat;Elatas;Elata;Elath
+Al ‘Azīzīyah|LY||1d|2id|106|ek|El Aziziye;Al Aziziyah;Al Aziziya;El Azizia
+El‘ad|IL||6n|2h1|2p4|e4
+Abovyan|AM|Kotayk|80|33v|3fz|e2|Elar;Abowjan;Abowyan;Abovjan;Abovian;Abovianas;Abowian
+Al ‘Ayyāţ|EG||c|2aa|2eu|cq|El ‘Ayyat
+El Aïoun|MA||d|2o2|-6z|cp
+El Ain|TN||1e|2oo|ty|c1
+El Abiodh Sidi Cheikh|DZ||3|2jd|1j|ax|El Abiod Sidi Cheïkr;El Abiod Sidi Cheikh;El Abiod Sidi Cheiki;El-Abiod-Sidi-Cheik
+El Affroun|DZ||3|2tb|7b|9r|El Alfroun;El Afroun
+Elampalloor|IN||6t|ow|5wz|9g
+Elayavur|IN||6t|x1|5th|9f|Elayavoor
+El Attaf|DZ||3|2sm|4n|99
+El Arrouch|DZ||3|2tt|j0|97
+El Aouinet|DZ||3|2rn|lx|96
+Élancourt|FR||9k|3ri|5g|8k|Elankur
+Elamanchili|IN||6t|1cr|6e6|7l|Yellamanchili
+El Abadia|DZ||3|2sr|4p|7k|Al Abadia
+Elamkunnapuzha|IN||6t|rv|5vq|7i
+El Amria|DZ||3|2qo|-2u|7c|El Amiria
+El ’Ayoûn|MR||19|178|-v2|6d|El Aïoun
+El Arahal|ES||9d|2vi|-ff|5g|Arahal
+El Alia|TN||1e|2v9|rv|54
+El Astillero|ES||9d|3ck|-am|51|Astillero
+El Asintal|GT||32|14k|-72t|4u|El Acintal;Asintal
+Elandakuttai|IN||6t|vp|602|4i|Ellandaikuttai
+Elavalli|IN||6t|td|5vd|3k
+Elandacheri|IN||6t|10n|66z|3d
+Elanora|AU||8c|-266|bu9|3d
+El Arenal|MX|Jalisco|41|1lq|-801|38|Arenal
+s'Arenal|ES||9d|31q|7n|2u|El Arenal;l'Arenal
+El Haouaria|TN||1e|2ux|ul|2n|El Aouaria;El-Haouaria
+El Álamo|ES||9d|33r|-b3|2m
+El Alto|PE||3o|-bv|-69m|2l
+Laouamra|MA||d|2pf|-gx|2d|Aouamara;El Aouamra
+Elattūr|IN||6t|vn|5yr|26
+Elandskraal|ZA||o|-1wo|29p|24
+Al ‘Alamayn|EG||c|2dn|28g|22|El Alamein;El-Alamein;Al-Alamajn;El ‘Alamein;Alamein;El-‘Alamên
+El Águila|CO||27|dn|-5v8|22
+Elassóna|GR||8p|32t|1pn|1z|Elassón
+Elāyirampannai|IN||6t|pr|606|1w
+Elavagnon|TG||w|k8|20|1v|Elawagnon
+Villa d'Almè|IT||9o|3j3|qq|1q|Éla
+El Altet|ES||9d|2yb|-1i|1h|El Alted
+Elenzué|CI||0|ix|-be|1g|Elanzué
+El Aargub|EH||k|1tl|-183|1e|El ’Argoûb;Aargub;El Argub
+El Akarta|MA||d|2ir|-pa|1c|Lakarta
+Elandsgrachtbuurt|NL||8m|41h|dk|17
+Elanora Heights|AU||8l|-2lm|bo8|17
+El Ángel|EC||33|1q|-60i|14
+El Aguilar|AR||1o|-1si|-52g|11|Aguilar
+El Amra|TN||1e|2pn|ps|y
+El Alcázar|AR||1n|-227|-489|x
+El Ala|TN||1e|2qx|qk|x|Al ‘Alā’
+El Arenal|MX|Hidalgo|41|1k6|-7mr|t|Arenal
+El Aroussa|TN||1e|2t2|q9|t|El Arouna
+Eláteia|GR|Central Greece|8p|2zb|1r8|s|Elátia
+El Almendro|NI||3s|wg|-6ja|r|Almendro;El Almendo
+El Ámbar (El Ámbar de Echeverría)|MX||41|18q|-75v|q
+El‘azar|IL||6n|2fy|2pm|p|Elazar
+El Abadlia|TN||1e|2pm|rd|p
+El Aguajito|MX||3x|204|-8fp|o
+Guadalupe Victoria|MX|Sinaloa|3x|1vi|-89z|o|El Atorón
+El Abra|MX||44|1qu|-7n2|n
+El Adelanto|GT||32|13d|-6xj|n|Adelanto
+Al ‘Araqa|PS||6g|2i7|2ps|l|El ‘Araqa
+El Aguacate|MX|Veracruz|41|1ek|-7bt|k|Aguacate
+Elandsbaai|ZA||o|-2hr|1ey|i|Elands Bay
+El Arco|MX|México|41|1hf|-7q5|i
+El Alvareño|MX||41|1ke|-7wk|i
+El Acebuche|MX||41|1k6|-7ru|f|Acebuche
+El Arador|MX||41|19y|-7hy|f
+El Águila (La Mesa)|MX||41|1h9|-7o5|e
+Elandshoek|ZA||o|-1yu|2db|e
+El Arenal|MX|Veracruz|41|1kb|-7j3|e
+El Arañado|AR||1n|-2g6|-4up|e
+El Águila|MX|Chiapas|41|15x|-743|d
+El Aguacatal|MX||3z|1el|-727|d|El Aguacate;Chumpán
+El Achiotal|HN||56|134|-6uj|c|Achiotal;El Achotal
+El Arenal|MX|Chiapas|41|165|-75i|c
+El Ámbar|MX||41|1ba|-75v|c
+El Águila|MX|Veracruz|41|1lb|-7iq|c
+El Anono|MX||41|1n1|-7ja|c
+El Ahuacate|MX||3x|1nr|-83i|b|El Aguacate
+Al ‘Aţţārah|PS||6g|2ht|2po|b|Al ‘Attara;El ‘Aţţāra
+El Arenal|MX|Veracruz|41|1k9|-7iw|b|Arenal
+Elaçmaz|TR||94|2yv|3e7|b|Salahane;Salhane
+El Agua Dulcita|HN||56|14u|-6rr|a|Agua Dulcita
+El Arenal|MX|Durango|44|1uu|-823|a|San Jerónimo;Arenal
+El Arenal|MX|Guerrero|41|1an|-7oz|a
+Elaiochóri|GR||8p|35e|1vc|a|Elaiokhóri
+El Aguacate|MX|Jalisco|41|1hf|-82o|a
+El Arroyo Colorado|MX||41|1hr|-7vi|a
+El Arenal|BZ||24|1ba|-6vn|9|Arenal
+El Alambrado|MX||41|1eg|-75r|9
+Eláti|GR|Thessaly|8p|31q|1nu|9
+Eliá|GR||8p|2q2|1y3|9|Elaía
+El Azufre|MX|Chiapas|41|1bs|-75d|9
+El Arenal|MX|Chiapas|41|15w|-74x|9
+El Almendro|ES||9d|2w7|-k7|9
+El Arrayán|MX||3x|1q1|-84t|9|Arrayán
+Segunda Unidad Xicoténcatl|MX||44|1ry|-7mn|9|El Aquiche
+El Alberto|MX||41|1kq|-7nn|8|Alberto
+El Álamo|MX|México|41|1k5|-7p7|8
+Eláti|GR|West Macedonia|8p|332|1om|8
+El Álamo|MX|Hidalgo|41|1jt|-7m7|8
+El Álamo|MX|Puebla|41|1kl|-7kc|8
+El Águila|MX|Tabasco|41|1d1|-71i|8
+El Arco|MX|Michoacán|41|1k9|-7u5|8
+El Aguacate Terrero|MX||41|1ni|-7lf|7|Aguacate
+Elafónisos|GR||8p|2tf|1ru|7|Élafonissos
+El Abra (San Felipe)|MX||41|1p1|-7ms|7
+El Aserradero|MX|Hidalgo|41|1jg|-7l5|7
+El Arenal|MX|Veracruz|41|1hz|-7fp|7
+El Alamito Buenavista|MX||37|292|-8jx|7|El Tronconal
+El Aguaje|MX|Veracruz|41|1hy|-7ge|7
+El Ahijadero|MX||41|1ss|-7yi|7|El Abijadero
+Elaiónas|GR||8p|2y4|1pl|7|Elaión
+El Aguaje (La Albarada)|MX||41|1ad|-757|7
+Eláteia|GR|Thessaly|8p|32l|1qm|7|Elátia
+El Aguaje|MX|Guerrero|41|1ek|-7qs|7
+El Arco|MX|Veracruz|41|1jd|-7i4|6
+El Álamo|MX|Guanajuato|41|1mz|-7rs|6
+Élafos|GR||8p|345|1q8|6
+El Alamito|MX||3x|1zs|-8dc|6
+El Aguacate|MX|Chiapas|41|158|-74r|6|Aguacate
+El Amole|MX||3x|1yj|-8d8|6
+El Amate|MX||41|1fi|-7fq|6
+El Amarillo|MX||41|1lb|-80l|6
+El Álamo|MX|San Luis Potosí|41|1od|-7lr|6
+Aguaje de Espejo|MX||41|1kr|-7rb|6|El Aguaje
+El Amatal|MX||41|1aw|-7nv|6
+El Aserradero|MX|Guerrero|41|1b9|-7m3|6
+El Agua Caliente|MX||41|1kx|-7wm|6|Agua Caliente
+Elaine|US||2f|2nb|-70d|6
+El Aventurero|MX||41|1hn|-7qe|6
+El Azotal|MX||41|1jc|-7hg|6|El Azota
+El Anonal|MX||41|17l|-73x|5
+El Arenal|MX|Chiapas|41|155|-743|5
+El Aposento|MX||41|1ng|-7t1|5
+El Arenal de Abajo|MX||41|1m9|-7r1|5|Arenal de Abajo;Arena de Abajo
+El Aguaje|MX|Nayarit|3x|1qi|-854|5
+El Aguacate|MX|Tamaulipas|44|1st|-7p4|5|Aguacate
+El Acocul|MX||41|1k6|-7l9|5
+El Azufre|MX|Oaxaca|41|18f|-7jm|5
+Elaldı|TR||94|361|2qh|5
+El Apartadero|MX||41|1ky|-7ok|5|Apartadero

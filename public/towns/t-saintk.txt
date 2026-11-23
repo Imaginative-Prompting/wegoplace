@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Kilda|AU||8j|-2x7|b6q|5f|St Kilda
+Saint Kilda|NZ||ak|-3ji|d5m|1l
+St Kilda West|AU||8j|-2x6|b6p|v|Saint Kilda West;St. Kilda West

@@ -1,0 +1,36 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Szczecin|PL||a5|44f|14f|31v|Stettin;Štětín;Szczëtno;Stettino;Ščecina;Estetino;Stettin.;Ščecinas;Stettinum;Sztetin;Shchétsin;Şçetsin;Estettin;Šćećin;Shchechin
+Shchyolkovo|RU||9i|4bc|2xh|ve|Ščolkovo;Schtscholkowo;Shchelkovo
+Shchukino|RU||9i|4b0|2w1|sc
+Shchëkino|RU||9i|461|2w7|gv|Shchyokino;Schekino;Shehekino
+Shchuchinsk|KZ||5s|432|5ez|d5
+Shcherbinka|RU||9i|4a6|2wc|7t|Sjtsjerbinka;Shcherbinki
+Shchigry|RU||9i|404|2uj|5c|Sjtsjigry;Chtchigry;Ščigry;Ŝĉigri;Štšigrõ;Štšigry;Szczigry;Suchigry;Schtschigry;Shchigary
+Shchuchyn|BY||9g|44w|1wr|47|Shchuchin
+Shchastya|UA||98|3re|30z|36|Shchastia;Schast’ye
+Snovsk|UA||98|3zy|2gq|2y|Shchors;Shchorsk
+Shcholkine|UA||9t|3i7|2ri|2y|Aqtaş
+Shchemylivka|UA||98|3sc|2ks|2s
+Shchuch’ye|RU||7z|49s|53l|28|Sjtsjutsje
+Shchaslyve|UA|Kyiv Oblast|98|3vy|2dj|1w
+Shchyrets|UA||98|3tx|1ua|1l|Szczerzec;Rosenberg;Chtchyrets;Ščyrec;Şçırets;Șciîreț;Sjtsjyrets;Shchyret;Shirets;Shchirets
+Shcherbynivka|UA||98|3qf|2wz|13|Shcherbinovka
+Shipitsyno|RU||9i|4q8|3l8|12|Sjipitsyno;Schipizyno;Šipicyno;Spicino;Şipitsıno;Szypicyno;Sjipitsino;Shchipitsyno;Shipitsino
+Shchebetovka|UA||9t|3gu|2po|y|Ŝĉebetovko;Otuz;Șcebetovka;Otuzy;Shebetovka;Otus
+Shedok|RU||9i|3eu|35h|v|Sjedok;Shchedok
+Shcheglovo|RU||9i|4mr|2df|v|Sjtsjeglovo;Sieklova
+Shchelkun|RU||7z|4ce|4pb|u|Sjtsjelkun
+Shcherbani|UA|Mykolaiv|98|3o0|2g7|j|Shcherbany
+Shcherbani|UA|Poltava|98|3tl|2ny|j|Shcherbany
+Schomyslitsa|BY||9g|45i|249|i|Shchomyslitsa
+Shchaslyvtseve|UA||98|3jv|2or|f
+Shcherbanka|UA||98|3lq|2bv|e
+Shchaslyve|UA|Mykolaiv|98|3mb|2ff|b|Chtchaslyvé
+Voloska Balakliya|UA||98|3tu|2vp|9|Volos’ka Balakliya;Voloska Balakliia;Shchenyache;Shcheniache;Voloskaia Balakleia;Voloskaya Balakleya;Volosskaia Balakleika;Voloskaia Balakleika;Volosskaya Balakleya;Voloskaya Balakleyka;Volosskaya Balakleyka
+Shchytyn|UA||98|3zu|1x2|7|Shchityn’
+Shcherbyntsi|UA||98|3q7|21f|7|Chtcherbyntsi;Șerbinți
+Shcherbakovo|UA||9t|3ic|2nf|6
+Shchorsy|BY||9g|44z|20r|6
+Shchaslyve|UA|Kirovohrad|98|3qx|2kl|6
+Shchaslyvka|UA||98|3ot|2dy|6|Shchastlivka
+Shchaslyve|UA|Kherson|98|3k5|2kh|5|Maksyma Horkoho;Maksyma Hor’koho

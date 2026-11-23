@@ -1,0 +1,190 @@
+/* The sign-in page (/login), and the pages the Worker draws in its frame (an AI app asking to connect, /authorize,
+   src/mcp/oauth.js), on the design system (public/ds/; the look is docs/design/app-direction/
+   first-screens-mock.html's "Sign in"). The page carries `.ds` on <html>, so everything here reads the system's
+   tokens (tokens.css) and its parts (controls.css: .ds-button, .ds-input), and nothing of styles.css or
+   css/account.css (the join and account pages keep those until their own flow moves).
+   What is here is the page's own: its column, the moving wordmark's place, the line saying what the app is, the ways
+   in, the forms and the messages. No colors of its own but Google's and GitHub's on their buttons, which are theirs
+   to say. Every state has an icon or words as well as its tint. */
+
+/* ── the page ─────────────────────────────────────────────────────────────────────────── */
+html.ds, html.ds body { margin: 0; background: var(--canvas); color: var(--ink-1); }
+/* The theme's ground, as every page names it (styles.css's --ground): the color the page's table gives the status bar
+   (login.html's THEMES, the same on every page) and the wordmark's ground (tokens.css --logo-ground). */
+html.ds[data-lum="light"] { --ground: #fdfdfc; }
+html.ds[data-lum="dark"] { --ground: #000000; }
+/* A link drawn as a button and a field are as wide as the column, padding and edge included. */
+html.ds *, html.ds *::before, html.ds *::after { box-sizing: border-box; }
+/* The screen's height, as styles.css has always given the app's pages: 100dvh, and 100vh installed (100dvh starts short
+   on a cold start on iOS). Not the keyboard script's --shell-h (login.html): it changes a moment after the viewport
+   does, and a column centred in a body that follows it jumps under the finger after every resize. */
+html.ds body { height: 100dvh; display: flex; flex-direction: column; overflow: hidden; }
+@media (display-mode: standalone) { html.ds body { height: 100vh; } }
+/* A column: the wordmark at the top, the words, then the ways in at the foot, all on one 420 px measure. The page
+   scrolls itself (never the document), so the keyboard script in login.html can move a field into view. */
+.lg-page {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  display: flex;
+  flex-direction: column;
+  padding: calc(24px + env(safe-area-inset-top)) max(20px, env(safe-area-inset-right)) calc(28px + env(safe-area-inset-bottom)) max(20px, env(safe-area-inset-left));
+}
+body[data-kb="1"] .lg-page { padding-bottom: 12px; }
+/* The wordmark leads the page, the width of the column (the hikers on it are the point, and they move here:
+   js/logo-player.js). Its own shape (818.87 x 140) holds the room before the drawing arrives. */
+.lg-brand { flex: 0 0 auto; box-sizing: border-box; width: 100%; max-width: 420px; margin: 30px auto 22px; aspect-ratio: 818.87 / 140; }
+.lg-brand svg { display: block; width: 100%; height: auto; }
+/* An AI app asking to connect: the wordmark small at the top, as on every page but sign-in. */
+.lg-brand.lg-brand-small { margin: 4px auto 20px; aspect-ratio: auto; min-height: 0; }
+.lg-brand.lg-brand-small svg { width: 132px; }
+/* margin: auto, not centring: a centred item taller than its scroller has its top clipped out of reach. */
+.lg-wrap { width: 100%; max-width: 420px; margin: auto; display: flex; flex-direction: column; gap: 16px; }
+.lg-brand:not(.lg-brand-small) + .lg-wrap { margin-top: 0; }
+/* On a phone the ways sit low, in a thumb's reach, with the wordmark at the top; on a wide screen the page stays
+   centred, the wordmark above it. */
+@media (max-width: 600px) {
+  .lg-wrap { margin: 0 auto; flex: 1 0 auto; }
+}
+@media (min-width: 601px) {
+  .lg-brand:not(.lg-brand-small) { margin-top: auto; }
+  .lg-wrap { margin-bottom: auto; }
+}
+/* Held until the page knows what it is (data-wait), then shown where it will stay; never longer than 4 s. */
+.lg-page[data-wait] > .lg-brand, .lg-page[data-wait] > .lg-wrap { visibility: hidden; animation: lg-held 0s 4s forwards; }
+.lg-page[data-wait] > .lg-wrap > noscript { visibility: visible; }
+@keyframes lg-held { to { visibility: visible; } }
+.lg-page[data-failed] > .lg-wrap > :not(#no-script) { display: none; }
+.lg-failed { display: flex; flex-direction: column; gap: 12px; }
+.lg-failed[hidden] { display: none; }
+
+/* ── words ────────────────────────────────────────────────────────────────────────────── */
+.lg-panel { display: flex; flex-direction: column; gap: 12px; flex: 1 0 auto; }
+.lg-panel[hidden] { display: none; }
+/* What the app is: the page's own voice, in the heading face, the lead words brighter. */
+.lg-what { margin: 0 0 8px; max-width: 20ch; font: 500 var(--size-20)/1.3 var(--type-head); letter-spacing: var(--track-head); color: var(--ink-2); text-wrap: pretty; }
+.lg-what b { color: var(--ink-1); font-weight: 500; }
+.lg-word { font: 500 var(--size-20)/1.3 var(--type-head); letter-spacing: var(--track-head); color: var(--ink-1); }
+.h2 { margin: 0; font: 500 var(--size-28)/1.15 var(--type-head); letter-spacing: var(--track-head); color: var(--ink-1); }
+.h3 { margin: 0; font: 500 var(--size-20)/1.25 var(--type-head); letter-spacing: var(--track-head); color: var(--ink-1); }
+.lead { margin: 0; font-size: var(--size-16); line-height: 1.45; color: var(--ink-2); }
+/* Small words take --ink-2, as everywhere on the system: --ink-3 is under 4.5:1 on the canvas. */
+.meta { margin: 0; font-size: var(--size-14); line-height: 20px; color: var(--ink-2); }
+.strong { font-weight: 600; color: var(--ink-1); }
+.lg-explain { display: flex; flex-direction: column; gap: 8px; }
+/* Who is signed in (#p-account): the system's quiet card. */
+.lg-card { padding: 16px; border-radius: var(--radius-16); background: var(--well); border: 1px solid var(--hair); }
+/* "already have an account": a small mono label between two hairlines. */
+.lg-sep { display: flex; align-items: center; gap: 12px; margin-top: 4px; color: var(--ink-2);
+  font: 500 var(--size-12)/16px var(--type-mono); letter-spacing: .04em; }
+.lg-sep::before, .lg-sep::after { content: ""; flex: 1 1 auto; height: 1px; background: var(--hair); }
+.err-detail { margin: 0; padding: 12px; border-radius: var(--radius-12); background: var(--code); color: var(--ink-2);
+  font: 400 var(--size-12)/1.5 var(--type-mono); white-space: pre-wrap; overflow-wrap: anywhere; }
+.err-detail[hidden] { display: none; }
+
+/* A message: an icon and words, the icon carrying the kind, so the tint is never the only signal. */
+.lg-msg { display: flex; align-items: flex-start; gap: 8px; margin: 0; padding: 12px 14px; border-radius: var(--radius-16);
+  background: var(--well); border: 1px solid var(--hair); color: var(--ink-2); font-size: var(--size-14); line-height: 20px; }
+.lg-msg[hidden] { display: none; }
+.lg-msg svg { flex: 0 0 auto; width: 16px; height: 16px; margin-top: 2px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.lg-msg-err { background: var(--warning-bg); border-color: var(--warning-edge); color: var(--warning); }
+.lg-msg-ok { background: var(--positive-bg); border-color: var(--positive-edge); color: var(--positive); }
+.banner { display: flex; flex-direction: column; gap: 8px; padding: 12px 14px; border-radius: var(--radius-16);
+  background: var(--warning-bg); border: 1px solid var(--warning-edge); color: var(--warning); font-size: var(--size-14); line-height: 20px; }
+.banner[hidden] { display: none; }
+.lg-spin { width: 14px; height: 14px; border-radius: 50%; border: 2px solid currentColor; border-top-color: transparent; animation: lg-rot .7s linear infinite; }
+@keyframes lg-rot { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .lg-spin { animation-duration: 2.4s; } }
+
+/* ── the ways in ──────────────────────────────────────────────────────────────────────── */
+/* At the foot of the screen, one white button and the others gray, never hidden (the mock-up's "Sign in"). */
+.lg-ways-block { display: flex; flex-direction: column; gap: 8px; }
+@media (max-width: 600px) { .lg-ways-block { margin-top: auto; } }
+.lg-ways { display: flex; flex-direction: column; gap: 8px; }
+.lg-ways[hidden] { display: none; }
+.lg-ways form { margin: 0; }
+.lg-ways-title { margin: 0 0 4px; font-size: var(--size-14); line-height: 20px; font-weight: 400; color: var(--ink-2); }
+/* After a passkey sign-in back without one: making the account (a name and Create), and "Try again", under the buttons. */
+.lg-make { display: flex; flex-direction: column; gap: 8px; padding-top: 12px; }
+.lg-make[hidden] { display: none; }
+.lg-make-what { margin: 0; font-size: var(--size-16); line-height: 22px; color: var(--ink-1); }
+.lg-make-what[hidden] { display: none; }
+.lg-mark { flex: 0 0 auto; width: auto; height: 20px; }
+.ds-button > svg.lg-mark { width: 20px; height: 20px; }
+.lg-mark-key { fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+.ds-button > svg.lg-mark-key { width: 20px; height: 20px; }
+/* GitHub's mark is black or white only. */
+.lg-mark-github { fill: currentColor; }
+/* Google's button keeps Google's own light style (its rules: developers.google.com/identity/branding-guidelines):
+   white, its outline, its text color, in both themes. On the black page it is the screen's one white button. */
+.ds-button.lg-google, .ds-button.lg-google:hover { background: #ffffff; border: 1px solid #747775; color: #1f1f1f; gap: 10px; }
+.ds-button.lg-google[disabled] { color: rgba(31, 31, 31, .38); }
+.ds-button.lg-google[disabled] .lg-mark { opacity: .38; }
+/* Signing in to the account someone already has, to add Google to it (#p-new): that screen's white button is
+   "Create an account", so Google's takes its own dark style there on a dark theme (the same rules allow it). */
+[data-lum="dark"] #p-new .ds-button.lg-google, [data-lum="dark"] #p-new .ds-button.lg-google:hover { background: #131314; border-color: #8e918f; color: #e3e3e3; }
+[data-lum="dark"] #p-new .ds-button.lg-google[disabled] { color: rgba(227, 227, 227, .38); }
+/* With no Google on this site, the first way shown is the white one: GitHub when it's offered, else the passkey. */
+#providers:not([hidden]) form[data-provider="google"][hidden] + form[data-provider="github"] .lg-way,
+#providers[hidden] ~ #btn-signin { background: var(--solid); border-color: transparent; color: var(--on-solid); }
+#providers:not([hidden]) form[data-provider="google"][hidden] + form[data-provider="github"] .lg-way:hover,
+#providers[hidden] ~ #btn-signin:hover { background: var(--solid-hover); }
+/* The page's buttons say whole sentences ("Lost your passkey? Get back in by email"): at 320 px they wrap rather
+   than run out of the column, and grow from 44 px to fit. A quiet one is still a thumb's height. */
+.lg-wrap .ds-button--block { height: auto; min-height: var(--control-44); white-space: normal; text-align: center; padding-block: 10px; }
+.lg-wrap .ds-button--fade { font-weight: 500; }
+.lg-way:active, .lg-go:active { transform: scale(0.97); }
+.lg-way, .lg-go { transition: transform var(--dur-150) var(--ease-standard), background var(--dur-150) var(--ease-standard); }
+
+/* A button asking "are you sure": its words change too; one about to destroy something fills with the warning. */
+.lg-armed { box-shadow: inset 0 0 0 1px var(--edge-strong); color: var(--ink-1); }
+.ds-button.lg-armed.lg-destroys { background: var(--negative-bg); box-shadow: inset 0 0 0 1px var(--negative-edge); color: var(--negative); }
+
+/* ── forms ────────────────────────────────────────────────────────────────────────────── */
+.lg-form { display: flex; flex-direction: column; gap: 12px; }
+.lg-form[hidden] { display: none; }
+.lg-form .ds-input { scroll-margin-block: 24px; }
+.lg-form label, .lg-label { font-size: var(--size-14); line-height: 20px; color: var(--ink-2); }
+.lg-code { font-family: var(--type-mono); letter-spacing: .14em; }
+/* "Trouble signing in?": a quiet row that opens the other ways in under it. */
+.lg-new > summary { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: var(--control-44);
+  color: var(--ink-2); font-size: var(--size-14); cursor: pointer; list-style: none; border-top: 1px solid var(--hair); }
+.lg-new > summary::-webkit-details-marker { display: none; }
+.lg-new > summary svg { width: 16px; height: 16px; fill: none; stroke: var(--ink-3); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+  transition: rotate var(--dur-200) var(--ease-standard); }
+.lg-new[open] > summary svg { rotate: 90deg; }
+.lg-new > .lg-form { padding: 4px 0 8px; }
+.lg-new > .ds-button--fade { margin-bottom: 8px; }
+
+/* The two quiet links at the very foot. */
+.lg-fine { display: flex; justify-content: center; gap: 18px; margin-top: 6px; font-size: var(--size-14); color: var(--ink-2); }
+/* Each a full 44 px to tap (§8.2), the words where they were: the height is the link's own, centred on its line. */
+.lg-fine a { color: inherit; text-decoration: underline; text-underline-offset: 3px; display: inline-flex; align-items: center; min-height: 44px; min-width: 44px; justify-content: center; }
+
+/* ── the shell's "Still updating the app" (js/fresh-app.js), drawn here until it writes the system's own parts ── */
+[data-shell="waiting"].empty { display: grid; place-content: center; justify-items: center; gap: 12px; min-height: 60vh; padding: 0 20px; text-align: center; color: var(--ink-2); }
+[data-shell="waiting"] .lead { color: var(--ink-1); font-weight: 600; }
+[data-shell="waiting"] .btn { display: inline-flex; align-items: center; justify-content: center; min-height: var(--control-44); padding: 0 16px;
+  border: 0; border-radius: var(--radius-16); background: var(--solid); color: var(--on-solid); font: 600 var(--size-16)/1 var(--type-ui); cursor: pointer; }
+
+/* ── an AI app asking to connect (/authorize, src/mcp/oauth.js) ──────────────────────────── */
+/* The mock-up's "An AI app asks": the app's mark, what it wants in one heading, then what it may do as rows, the last
+   saying what it can't; where it sends what it gets and who is signed in; Cancel gray and Allow white side by side. */
+.cs-appmark { display: grid; place-items: center; width: 56px; height: 56px; margin: 4px 0 4px; border-radius: var(--radius-16);
+  background: var(--gray-3); border: 1px solid var(--edge); color: var(--ink-1); }
+.cs-appmark svg { width: 26px; height: 26px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.cs-title { overflow-wrap: anywhere; }
+.cs-title .meta { font: 400 var(--size-14)/20px var(--type-ui); letter-spacing: 0; }
+.cs-cans { margin: 4px 0 0; }
+.cs-can { display: grid; grid-template-columns: 20px 1fr; column-gap: 12px; align-items: start; margin: 0; padding: 12px 0;
+  border-top: 1px solid var(--hair); font-size: var(--size-16); line-height: 24px; color: var(--ink-1); }
+.cs-can:first-child { border-top: 0; }
+.cs-can svg { width: 18px; height: 18px; margin-top: 3px; fill: none; stroke: var(--ink-2); stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.cs-can.cs-cant { color: var(--ink-2); }
+.cs-reach { color: var(--ink-1); font-weight: 600; }
+/* The two answers side by side, Cancel then Allow, in the page's order as on the screen. */
+.cs-two { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 0; }
+@media (max-width: 600px) { .cs-push { margin-top: auto; } }
+.cs-push { display: flex; flex-direction: column; gap: 0; padding-top: 12px; }
+.lg-fine.cs-fine { margin-top: 14px; text-align: center; }

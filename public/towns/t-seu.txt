@@ -1,0 +1,24 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Vsevolozhsk|RU||9i|4mq|2d7|de|Vsevolozjsk;Seuloskoi;Wsewoloschsk;Vsevolojsk;Vsevoložsk;Wsiewołożsk;Wsewoložsk;Vsevoložska
+Sŭngjibaegam|KP||7a|36k|9xs|3a|Sungjipaegam;Seungjibaegam
+Seubersdorf|DE||8r|3sk|wb|1e
+Seuzach Dorf|CH||a7|3o2|o9|14
+Xewkija|MT||9e|2s3|13m|x|Šeukidža
+Seukendorf|DE||8r|3th|u8|x
+Seurre|FR||9k|3mk|eb|s|Surregium
+Seulingen|DE||8r|3z6|s8|f
+Seuzach / Seuzach (Dorf)|CH||a7|3o2|oa|e
+Seui|IT||9o|32o|pw|d
+Seugy|FR||9k|3sg|6n|b
+Seupleu|CI||0|kk|-ks|b|Sépleu
+Seuzach Dorf / Breite-Weid|CH||a7|3o1|o9|a
+Seuzach Dorf / Hochgrüt-Scheidweg|CH||a7|3o1|o9|a
+Seulo|IT||9o|32r|po|9
+Seuzach Dorf / Brandbüel|CH||a7|3o2|oa|8
+Șeulia de Mureș|RO||8u|3ky|1vd|7
+Șeușa|RO||8u|3jy|1tn|6
+Seuzach Dorf / Pünten-Ifang|CH||a7|3o2|o9|5
+Seuil-d'Argonne|FR||9k|3s2|e2|5

@@ -1,0 +1,77 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Shaoyang|CN||7i|23o|8lm|5t8|Sjaoyang;Šao-jang;Ŝaojan;Chàu-yòng-sṳ;Thiệu Dương;Siêu-iòng;Siāu-iông-chhī
+Vĩnh Châu|VN||6h|pw|86e|1f3
+Paris 19 Buttes-Chaumont|FR||9k|3rs|6m|1dn
+Tân Châu|VN||6h|u0|84c|1co
+Thị Trấn Thuận Châu|VN||6h|1nk|801|16i
+Hải Châu|VN||6h|188|8cd|10i
+Chauk|MM||7y|1m2|7be|p9|Čokas;Czauk;Chouk
+Châu Đốc|VN||6h|tq|840|ji|Chaudok
+Chaumu|IN||6t|23h|5uc|hw
+Châu Phong|VN||6h|ts|841|fn
+Chautārā|NP||6r|256|6m3|e9|Choutarā
+La Chaux-de-Fonds|CH||a7|3mu|iz|aj|Chaux-de-Fonds;Šo de Fonas;La Chaux de Fonds
+Chaumont|FR|Grand Est|9k|3pn|ea|82|Chaumant
+Chaupimarca|PE||3o|-sx|-5we|7z
+Chaudfontaine|BE||8t|3wi|fn|5u|Tchôfontinne
+Chautāpal|IN||6t|1by|636|5b
+Al Khawr|QA||7b|1zc|3z3|59|Al Khor;Municipio de Jor;Chauras;Al-Chaur;Al-Khaur
+Chauny|FR||9k|3tu|8y|3o
+Chaurai|IN||6t|1p9|645|3m
+Chaumont-Gistoux|BE||8t|3ws|d4|31|Tchåmont-Djistou
+Chausy|BY||9g|45h|2e1|2p|Chavusi;Tschawussy;Tchavoussy;Tšavusy;Čavusai;Czausy;Tjavusy;Chausi;Chavusy
+Chauvigny|FR||9k|3ld|1s|23|Calviniacum
+Chautla|MX||41|1gp|-7kn|1t
+Chaupāran|IN||6t|1vr|6kt|1i|Choparan
+Chauray|FR||9k|3ks|-12|1d|Chaurraium
+Chauchina|ES||9d|2vc|-ah|18
+Chauffailles|FR||9k|3kd|c2|16
+Chaumontel|FR||9k|3sg|6r|x
+Chaumes-en-Brie|FR||9k|3r7|7w|v
+Chaumont-en-Vexin|FR||9k|3sv|59|v
+Chauvin|US||2f|29s|-6zo|t
+Chomérac|FR||9k|3g7|cy|r|Chaumeirac;Chaumairac
+Chaung Wa|MM||7y|1a3|7fg|l|Chaungwa;Chaunggwa
+Chauché|FR||9k|3m3|-3j|l
+Chorges|FR||9k|3fr|hg|k|Chaurjas;Caturigomagus;Chorge;Chorces
+Chaulnes|FR||9k|3ue|7s|k|Chonne
+Chaupāl|IN||6t|2dz|5zj|j
+Chauvé|FR||9k|3mz|-5j|i|Kalveg;Calva
+Chauconin-Neufmontiers|FR||9k|3s1|7x|i
+Chaussin|FR||9k|3mh|f1|g
+Chaung Nyi Ah Ko|MM||7y|1b9|7ek|f
+Chaudron-en-Mauges|FR||9k|3nd|-2r|f
+Chaudon|FR||9k|3r6|46|f
+Chauriat|FR||9k|3j3|94|f
+Chaulgnes|FR||9k|3mx|8m|d
+Chaunay|FR||9k|3kd|g|d
+Chaucingo|MX||41|1eu|-7nc|d|Chauzingo
+Chaumont-sur-Tharonne|FR||9k|3o9|5b|b
+Chaumont-sur-Loire|FR||9k|3nw|3b|b
+Chauncey|US||48|31g|-6c5|a|Chauncy
+Chaudes-Aigues|FR||9k|3gl|8c|a|Chaldasaigas
+Chaussan|FR||9k|3ir|cw|a
+Chaux|FR||9k|3ok|j0|a
+Chauffry|FR||9k|3rl|8u|9
+Chaufour-Notre-Dame|FR||9k|3pf|8|9|Chauffour-Notre-Dame
+Chaussée-Notre-Dame-Louvignies|BE||8t|3wj|b4|9
+Chaudenay|FR||9k|3mc|db|8
+Chaudefonds-sur-Layon|FR||9k|3nh|-1z|8
+Chautipa|MX||41|1bh|-7o3|8
+Chaumousey|FR||9k|3pt|hl|8
+Chiomonte|IT||9o|3hc|je|8|Chaumont;Cimon
+Chausove|UA||98|3pi|2dc|7|Tchaoussové;Chausovo
+La Chaussaire|FR||9k|3n4|-37|7|Chaussaire
+Chauvigné|FR||9k|3qe|-42|7|Kelvinieg
+Chaudeney-sur-Moselle|FR||9k|3r5|gf|7
+Chautengo|MX||41|1a8|-7n9|7
+Chaussoy-Epagny|FR||9k|3u5|6h|6
+Chaussy|FR||9k|3sg|4p|6
+Chaumot|FR||9k|3pk|8y|6
+Chaumont|US||48|3ef|-5vh|6
+Chaumont|FR|Bourgogne-Franche-Comté|9k|3q8|8n|6
+Chausove Druhe|UA||98|3pi|2db|6|Tchaoussové Drouhé
+Chaucenne|FR||9k|3nc|ge|6
+La Chaux-du-Dombief|FR||9k|3lg|ge|5|Chaux-du-Dombief
+Choustník|CZ||9m|3t1|158|5|Chausnik

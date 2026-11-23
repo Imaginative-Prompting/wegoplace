@@ -1,0 +1,43 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tô|BF||1a|vs|-67|4g
+To|MM||7y|zr|7m2|13
+Tokyo|JP||7q|2r5|as1|233p|Edo;Tokio;Tóquio;Tocio;Tokijas;Tokija;Tochiu
+Dongguan|CN||7i|1ry|8rz|22f5|Dongwen shehiri;Tûng-kón-sṳ;Đông Hoản;Dĕ̤ng-uāng;Tungkuan;Tong-kóan-chhī;Tung-kuan;Tungkun
+Suzhou|CN|Jiangsu|7i|2ey|9b0|1ftg|Tô Châu;Su-čou;Suĝoŭo;Sû-chû-sṳ;Sudžou;Sutsjou;Suchjou;So͘-chiu-chhī;Sŭ-ciŭ;Szucsou;Su-chou
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Tangshan|CN||7i|324|94a|q0p|Tangŝano;Đường Sơn;Tchang-šan;Tangšanas;Tangšan;Tongshan
+Toronto|CA||59|3d9|-64i|lk8|Torontum;Torontas;Torontu
+Tashkent|UZ||7m|36m|5ca|f9g|Taschkent;Taskent;Tasjkent;Taŝkento;Toshkent;Tachkent;Taškentas;Taszkent;Toshkent shahri;Tochkent;Taixkent;Taxkent;Taškenta;Lithopolis;Daşkent;Tashkend
+Tabriz|IR||7o|2xs|3kl|azq|Tauris;Täbris;Tebriz;Tewrêz;Tebrizas;Tebrīza;Töwriz;Tabrezē;Tabrezion;Tawrēž
+Touba|SN||g|15a|-184|8nc|Tuba;Tub;Tuubaa
+Turin|IT||9o|3h7|ld|6jd|Julia Augusta Taurinorum;Turyn;Torino;Torí;Augusta Taurinorum;Turijn;Turim;Turén;Türì;Torin;Torinu
+Torreón|MX||44|1yy|-7za|5o9|Toreonas
+Tolyatti|RU||9p|44p|3t3|5f9|Tol'yatti;Toljatti;Togliatti;Toliatti;Togliattigrad;Toljati;Stavropol’;Toljatis;Stawropol
+Ta’if|SA||7e|1n3|34a|5bb|Taif;Taëf;Taifas;Tāifa;Toif;Daa'if;Taifum;Tayif
+Suining|CN||7i|2cr|859|52g|Sôi-nìng;Suej-ning;Súi-nèn-sṳ;Toại Ninh;Sūi-lêng-chhī
+Tuxtla|MX|Chiapas|3z|1aj|-76o|4nt|Tochtlan Gutiérrez;Tustla Gutjeresas
+Tomsk|RU||7r|4cy|6k2|4fg|Tomium;Tomszk;Tomçk
+Toulouse|FR||9k|3d4|40|3y5|Tolosa de Llenguadoc;Tolosa;Tuluzo;Tolosa Okzitania;Tulūza;Tolosa de Francia;Toloza;Lapangan Terbang Blagnac;Tołoxa;Toulouz;Tuluz
+Tonghua|CN||7i|37w|9pt|3xo|Tŭng-huá;Tchung-chua;Thông Hóa;Thong-hoà-chhī;T’ung-hua;Tunghwa
+Toluca|MX|México|41|1hl|-7ot|3rx|Tōllohcān;Toluka
+Tula|RU||9i|46k|2wi|3q5|Toela;Tul;Toula
+Ţarţūs|SY||69|2ox|2rp|3jb|Tartous;Tortosa;Tartouss
+Toyota|JP|Aichi|7q|2pg|akz|3ae|Tojota;Toyoda
+Tongchuan|CN|Shaanxi|7i|2oy|8en|381
+Toyama|JP||7q|2ty|al6|37i
+Tonalá|MX|Jalisco|41|1la|-7ys|35k|Tōnallān
+Tongling|CN||7i|2dz|936|33p|T’ung-ling
+Toyonaka|JP||7q|2om|agb|33k
+Toyohashi|JP||7q|2ol|alm|2wv|Toyohaşi;Tojohashi;Toyohasyi;Toyohasi-chhī
+Toamasina|MG||a8|-1ef|3t8|2nv|Tamatave
+Tokorozawa|JP||7q|2rg|arf|2nm|Tokorozava;Tokorosawa
+Tungi|BD||6a|1ud|6z4|2ls|Tongi;Tangi
+Tongshan|CN||7i|2my|91g|2jl|Xuzhou;T’ung-shan
+Toshima|JP||7q|2rc|as6|2bs
+Bedok New Town|SG||7j|3p|80q|24y|Piṭōk
+Turpan|CN||7t|3bb|6vq|23y|Tourfan;Turfán;Tufan;T’urfang
+Sengkang New Town|SG||7j|3v|80l|22c|Sengkang;Shèng Gǎng
+Tokushima|JP||7q|2mn|adt|229|Tokušima
+Toledo|US|Ohio|48|37q|-6g4|21s|Tolīdo
+Jurong Town|SG||7j|3p|804|20z
+Tongliao|CN||7i|3d5|9fn|20j|Thông Liêu;Tŭng-lièu;Thûng-liàu-sṳ;Thong-liâu-chhī;T’ung-liao

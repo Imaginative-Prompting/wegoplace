@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Francis|US|Minnesota|2f|3i3|-77c|20|St. Francis
+St Francis Bay|ZA||o|-2mw|1wz|1n|St. Francis Bay
+Saint Francisville|US|Louisiana|2f|2di|-71u|i|St. Francisville
+St. François Xavier|CA||5d|3un|-7iy|7

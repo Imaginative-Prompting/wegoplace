@@ -1,0 +1,375 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nanning|CN||7i|1re|8cw|1a4c|Nam Ninh;Nan-ning;Naningas;Naningo;Nàm-nèn-sṳ;Namzningz;Lâm-lêng-chhī;Nàng-nìng;Naņnina;Nannin;Nanninq;Yung-ning
+Linyi|CN||7i|2pe|94q|l66|Lâm Nghi;Lìng-gì;Lîm-kî-chhī;Lin-i
+Nanchang|CN||7i|27o|8xt|i6y|Nam Xương;Nančangas;Nan-čchang;Nanĉano;Lâm-chhiong-chhī;Nàng-chiŏng;Nàm-chhông-sṳ;Nancsang;Nancianga;Naņčana;Nanzcangh;Nançan;Nančang
+Nantong|CN|Jiangsu|7i|2gz|9br|hjh|Nentung shehiri;Nan-tchung;Nam Thông;Lâm-thong-chhī;Nàng-tŭng;Nan-t’ung
+Nanchong|CN||7i|2dk|86o|ecd|Nan-čchung;Nam Sung;Lâm-chhiong-chhī;Nàng-chṳ̆ng;Nan’chun;Nan-ch’ung
+Nanyang|CN|Henan|7i|2jp|8on|dza|Nam Dương;Nan-jang;Nenyang shehiri;Nanyan;Nàng-iòng;Lâm-iông-chhī
+Makkah|SA||7e|1nj|32n|c6j|La Mecque;La Meca;Mekko;Mekao;Mekka;Mecca;A Meca;Meka;Meice;Mekkah;La Mecca;Meke;Meca;Mecka;Mekke;Mäkkä
+Bandar Lampung|ID||6l|-f3|84e|8ea|Bandarlampung
+Linfen|CN||7i|2s9|8ls|7eg|Lâm Phần;Lin-fen;Lìng-hŭng;Lîm-hun-chhī
+Kampung Larkin Lama|MY||6v|46|806|3uw
+Nanping|CN|Fujian|7i|221|949|3lz|Nàng-bìng;Nan-pching;Nàm-phìn-sṳ;Nenping shehiri;Nam Bình;Lâm-pêng-chhī
+Gia Lâm|VN||62|1me|86a|2dy
+Mobile|US||2f|2d9|-6sk|1ex|Mobila;Mobilas;La Mobila;Mobille
+Lampang|TH||62|1et|7od|17d|Lampanq
+Huyện Lâm Hà|VN||6h|wu|8cl|147|Lam Ha District;Lâm Hà
+Lambaré|PY||1y|-1yf|-4g1|z4
+Nantou|TW||7l|1ug|9b6|td|Nan-tchou;Nàm-thèu-sṳ;Nam Đầu;Lâm-tâu-chhī;Nantow;Nan-t’ou
+Lampa|CL||4u|-2kh|-5gw|se
+La Marsa|TN||1e|2ug|so|pu
+Lambayong|PH||71|i4|9nc|ml|Lombaying;Lombayong
+Lamezia Terme|IT||9o|308|19b|jl
+La Mohammedia|TN||1e|2tv|s8|ii|Mohammedia
+La Mesa|US|California|3p|2j1|-912|gp|Lamesa
+Lamongan|ID||6l|-js|8oa|gg
+Lamía|GR||8p|302|1qb|eg|Izdin
+La Mirada|US||3p|2m8|-93t|dr
+Lambaréné|GA||v|-1y|sg|cy
+L'Amoreaux|CA||59|3do|-64b|c8
+Lambayeque|PE||3o|-im|-65z|c5|Lampalliqi
+Lamphun|TH||62|1fm|7n1|c0|Lamfun;Lampun;Lambhun
+Le Lamentin|MQ||3v|14l|-4pg|ba|Lamentin
+Lampertheim|DE||8r|3ts|nj|90|Låmbade
+la Marina de Port|ES||9d|36w|5y|8g
+Lamerd|IR||7o|23x|43q|86|Lāmard
+Lambersart|FR||9k|3wp|8f|7y
+Lamin|GM||7|113|-19n|7x
+Labasa|FJ||ar|-19n|du8|7r|Lambassa;Lambasa
+Lambari d'Oeste|BR||2k|-16k|-4h4|7n
+La Mesa|CO||27|en|-5pc|7f
+La Magdalena Atlicpac|MX||41|1ht|-7mw|7c|Magdalena Atlicpac;La Magdalena Atlipac;Magdalena Atlicpan
+Lamu|KE||16|-6b|35m|72|Amu
+Lami|FJ||ar|-1eb|drl|6u
+la Maternitat i Sant Ramon|ES||9d|36y|5w|6p
+La Madeleine|FR|Hauts-de-France|9k|3wp|8k|6k|Madeleine
+Berehove|UA|Zakarpattia|98|3px|1qw|6h|Berehowo;Berehowe;Beregszász;Beregove;Peregium;Bereg;Bergsaß;Lampertsháza
+La Mornaghia|TN||1e|2u4|ru|6f|La Mornarhia;Mornaghia
+Lāma|BD||6a|1oh|746|6a
+Lambari|BR||4w|-1p2|-3hz|5o|Lambary
+Lam Tin|HK||6i|1pz|8tc|57
+La Magdalena Tlaltelulco|MX||41|1hk|-7ks|4o|Magdalena Tlaltelulco
+La Maná|EC||33|-2m|-643|4l
+La Marque|US||2f|29l|-7bt|4f|LaMarque
+Lamont|US||3p|2py|-96b|47
+Lamentin|GP||31|197|-4r7|45
+Las Matas|ES||9d|34o|-at|3y|La Mata
+Lamas|PE||3o|-hu|-5wl|3t
+La Motte-Servolex|FR||9k|3io|gb|3r|La Mota-Servolêx;La Motte-Servolen
+La Mira|MX||41|1e4|-7w9|3q
+La Madeleine|FR|Provence-Alpes-Côte d'Azur|9k|3df|k2|3i|Madeleine
+Lamballe|FR||9k|3qn|-70|3f|Lambal;Lampaulium
+La Montagne|RE||ai|-1m1|49y|3c|Montagne
+Limpertsberg|LU||9c|3tu|h0|37|Lampertsbierg;Lampertsberg
+La Massimina-Casal Lumbroso|IT||9o|38b|yc|33
+Lamego|PT||99|366|-lp|31
+La Merced|AR|Salta|1s|-1xd|-51x|2z
+Lambton Shores|CA||59|3bx|-6bl|2y|Thedford
+Lamshang|IN||6t|1wy|78r|2y
+La Maddalena|IT|Sardinia|9o|36h|q5|2v
+Las Matas de Santa Cruz|DO||4v|1in|-5im|2u|La Mata de Santa Cruz
+Lapseki|TR||94|342|225|2t|Lampsaki
+La Manga del Mar Menor|ES||9d|2wk|-20|2s|La Manga
+Lambertville|US|Michigan|2q|381|-6gb|2s
+Lamesa|US||2f|2iy|-7v7|2m
+Lamarque|AR||1s|-31j|-52i|2l
+Lambakin|PH|Central Luzon|71|14z|9br|2k
+Lamarão|BR||20|-wr|-300|2i
+La Malbaie|CA||59|3od|-5ev|2i
+Laman Permai|MY||6v|8t|7u2|2g|Subang Bestari
+Lamorlaye|FR||9k|3sk|6t|2d
+Laminusa|PH||71|ff|9bv|29
+Lambesc|FR||9k|3d9|em|29
+Lambton Baby Point|CA||59|3da|-64u|28
+Lamač|SK||8s|3pv|1bd|27
+La Maddalena|IT|Sardinia|9o|30q|p1|27
+La Mojonera|ES||9d|2vl|-6s|26
+La Matanza de Acentejo|ES||83|271|-19p|25
+Lampasas|US||2f|2ea|-7kq|25
+Lamar|US|Colorado|2p|2xt|-7x2|24
+La Grande-Motte|FR||9k|3d0|bc|21|La Mota Granda;La Grande Motte
+Lamberts Bay|ZA||o|-2h6|1ev|21|Lambertsbaai
+L'Ametlla del Vallès|ES||9d|37r|6b|21|L'Ametlla
+la Massana|AD||8n|3a6|47|20|La Maçana
+La Mulatière|FR||9k|3j1|dd|20
+Lamaní|HN||56|13g|-6re|1z
+Lerwick|GB||9b|4n3|-36|1w|Lervikas;Lāmwic;Liùrabhaig;Leirvík;Lervik
+Lame|NG||u|t0|po|1v
+La Magdalena Tetela Morelos|MX||41|1gx|-7k2|1s
+Lamba|PH||71|hn|9mq|1s|Lambo
+Lamitan City|PH||71|ih|9f9|1p
+Lambsheim|DE||8r|3tj|n1|1p|Lomsem
+La Montagne|FR||9k|3n3|-4o|1o|Ar Menez
+Lambeth|GB||9b|3z2|-b|1o|Waterloo
+La Matanza|PE||3o|-eh|-66h|1m
+Lemta|TN||1e|2r3|u8|1m|Lamta
+La Mitra|PA||4g|ok|-65m|1l
+Lammi|FI||92|4po|1xi|1k
+Lamas|PT|Aveiro|99|35v|-nt|1k
+Lambunao|PH||71|uq|9g8|1j
+La Muela|ES||9d|37i|-34|1j
+Júlio Borges|BR||2w|-sp|-3ew|1i|Lameirão
+La Mure|FR||9k|3gq|g3|1g
+Lamporecchio|IT||9o|3dp|u8|1g
+Lambres-lez-Douai|FR||9k|3vw|8i|1f|Lambres-lès-Douai
+Lampazos de Naranjo|MX||44|233|-7r6|1e|Lampozos de Naranjo
+Lamme|DE||8r|417|t0|1e
+Lambton|AU||8l|-2jg|bpe|1c
+Lampa|PE||3o|-16n|-5fh|1c
+Lâm Đớt|VN||6h|18o|8a8|1a
+Lamovita|BA||9r|3gs|1ay|1a
+La Magdalena|MX|México|41|1jf|-7ps|19
+Lamam|LA||7v|16u|88d|19|Lamarm
+Lamotte-Beuvron|FR||9k|3o8|5n|18
+La Moncada|MX||41|1kc|-7s1|18|Moncada
+Lamar|US|Missouri|2f|2w6|-79w|18
+Lambontong|PH||71|hj|9mp|17
+Las Margaritas|PA||4g|pj|-63p|16|La Margarita
+Lamut|PH||71|1a9|9cq|15
+Lampedusa|IT||9o|2qm|z1|15
+La Masica|HN||56|17e|-6q0|14|Masica
+Lambrecht|DE||8r|3t5|mf|14
+Lamian|PH||71|hj|9mt|13
+Lamesley|GB||9b|48k|-4h|13
+La Merced|CO||27|f0|-5us|13
+Lambertville|US|New Jersey|48|345|-5s6|12|Lambertsville
+La Mendieta|AR||1o|-1vj|-50h|12
+La Mézière|FR||9k|3py|-4v|12|Magoer;Maceria;Mézière
+Lamunin|BN||66|d0|8uo|10
+La Machine|FR||9k|3m9|9m|10
+La Macarena|CO||27|62|-5oz|z
+Lamstedt|DE||8r|450|pa|y|Gemeen Loomst
+La Montañita|CO||27|44|-5tk|x|Montañita
+Lambach|AT||a2|3pl|12j|x
+Lam San Village|SG||7j|3u|805|x
+Lamitan|PH||71|gx|9p6|w|Lamidan
+Lamspringe|DE||8r|40c|rt|w
+Lamadelaine|LU||9c|3tn|ga|w|Rolléng;Rollingen;Lamadeleine
+Lambermont|BE||8t|3wj|g7|w
+Lamim|BR||4w|-1lr|-3cr|w|Lamin
+Lampertheim|FR||9k|3r5|le|v
+La Membrolle-sur-Choisille|FR||9k|3ns|1r|v
+Lambourn|GB||9b|3z3|-49|v
+La Mercy|ZA||o|-2ac|2eh|v
+Lambusart|BE||8t|3w5|cn|v
+Lambrechtshagen|DE||8r|46a|xe|u
+La Mesa|MX|Sonora|37|2ek|-8k9|u
+Lambakin|PH|Central Luzon|71|16p|9bq|u
+Lamisahan|PH||71|jn|9fc|u
+Lampeter|GB||9b|40r|-bc|u|Llanbedr Pont Steffan
+Bagratashen|AM||80|36k|3gi|t|Lambalu;Debedashen;Debetashen;Lambalo
+Lamékaha|CI||0|q1|-e3|t
+Lam|DE||8r|3so|109|t
+Lama|ES||9d|39s|-nf|t
+La Mu Tan Gyi|MM||7y|1bb|7ek|s
+Łambinowice|PL||a5|3we|1cs|s
+Lamminpää|FI||92|4qw|1tn|s
+La Millère|FR||9k|3c8|fa|s|La Milliére
+Las Mesas|MX|Guerrero|41|1b9|-7oa|r|La Mesa
+La Mina|HN||56|16k|-6rz|r
+Lamie di Olimpie-Selva|IT||9o|35e|1c5|r
+Lamastre|FR||9k|3gz|cq|r|La Mastra
+La Motte|FR|Provence-Alpes-Côte d'Azur|9k|3ct|i6|q
+La Manzanilla de la Paz|MX||41|1jl|-7yj|p
+Ejido Lázaro Cárdenas|MX||58|2il|-8vi|p|La Mosca
+Lambrugo|IT||9o|3j4|po|p
+Lamalou-les-Bains|FR||9k|3d4|8k|p
+L'Ampolla|ES||9d|35d|1z|o|Ampolla
+La Merced|AR|Salta|1s|-1pr|-4u4|o
+Bucloc|PH||71|1cg|9bq|o|Lamao
+Lampari|PH||71|hj|9mw|o
+Lamoni|US||2f|34u|-78x|o
+La Milesse|FR||9k|3pi|e|o
+Kampung Lambor Kanan|MY||6v|bv|7sa|n|Lambor Kanan;Right Lambor;Kampong Lambor Kanan;Kampung Lambur Kanan
+Lampitak|PH||71|hv|9nd|n
+La Mothe-Achard|FR||9k|3li|-4m|n
+La Magdalena Yancuitlalpan|MX||41|1gj|-7lv|m|La Magdalena Yancuitlapan
+Lamak|PH||71|sw|9mi|m
+La Mesa de Chosto|MX||41|1j5|-7ph|m
+La Mare|RE||ai|-1m2|4a9|m
+Lamonzie|FR||9k|3gl|13|m|La Móngia e Sent Martin
+La Meignanne|FR||9k|3o0|-1v|l
+La Monnerie-le-Montel|FR||9k|3jf|a0|l
+La Mesa|PA|Veraguas Province|4g|mn|-69i|l|Las Mesa
+La Merced|AR|Catamarca|1m|-267|-52e|l|Merced
+Lampaul-Guimiliau|FR||9k|3qp|-b8|l|Lambaol-Gwimilio
+Lammermoor|AU||8c|-1sc|bms|l
+Lampertswalde|DE||8r|3yj|120|l
+Lame Deer|US||2p|3iq|-88b|l|Chromý jelenec;Lamedeer
+La Motte|FR|Brittany|9k|3pz|-7l|k|Ar Voudenn
+Lamington|AU||8k|-2dd|9de|k
+La Ménitré|FR||9k|3no|-r|k
+Lampaul-Plouarzel|FR||9k|3ql|-d8|k|Lambaol-Blouarzhel
+Lampleu|CI||0|kv|-n4|j
+La Mailleraye-sur-Seine|FR||9k|3tg|25|j|Mailleraye-sur-Seine
+La Martella|IT||9o|34y|19y|j|Martella
+Lamerdingen|DE||8r|3pl|tu|j
+Lamprechtshausen|AT||a2|3pb|zz|j|Lampehausen
+La Mothe-Saint-Héray|FR||9k|3ks|-b|j|La Mothe-Sainte-Héraye
+Lamanon|FR||9k|3de|e5|i
+La Motte-d'Aveillans|FR||9k|3gw|fy|i
+La Mohonera|MX||41|1d0|-7nk|i
+Lamadrid|MX||44|235|-7us|i
+Lembach|FR||9k|3s4|ln|i|Lämbàch
+Lamon|IT||9o|3jx|wn|i
+Lamont|CA||2s|45d|-8pc|i
+La Mesilla|US||2p|2rv|-86n|i
+La Murette|FR||9k|3i2|fe|i
+Lamartine|US||2f|3dh|-6u1|h
+Lammhult|SE||9w|4et|14i|h|Lamhult
+La Mesa|MX|México|41|1if|-7qa|h
+Lamie|IT||9o|35z|1aw|h
+Lampeter|US||48|333|-5vs|h
+Lamar|US|Arkansas|2f|2qg|-77f|h
+La Motte-Saint-Martin|FR||9k|3gv|fw|g
+La Meilleraie-Tillay|FR||9k|3lu|-2d|g
+La Mesilla|MX||41|1kx|-7ow|g|Mesilla
+La Magdalena|MX|Puebla|41|1ka|-7l0|g|Magdalena
+La Membrolle-sur-Longuenée|FR||9k|3o4|-1v|f
+Lambert|US||2f|2n0|-6ys|f
+La Mina|MX|Oaxaca|41|1dz|-7ey|f
+La Mesa|PA|Panamá|4g|pi|-647|e
+La Magdalena de los Reyes (La Magdalena)|MX||41|1hb|-7o5|e
+Lămășeni|RO||8u|3nx|20v|e
+La Mojonera|MX|Michoacán|41|1iq|-7uv|e
+La Maruja|AR||1s|-2r3|-50e|e
+Lamoli|CI||0|m4|-91|d
+Lama Pezzoli|IT||9o|3h4|x3|d
+La Manzanilla|MX||41|1hk|-833|d
+Lamothe-Montravel|FR||9k|3gl|3|d|La Mòta de Mont-ravèl;La Mòta de Mont Ravèl
+Lamèque|CA||43|3or|-4zl|d
+La Manga 2da. Sección (El Jobal)|MX||41|1e2|-75z|d
+La Mesa (La Mesa de Cedano)|MX||41|1i1|-7qp|d
+La Magdalena Tenexpan|MX||41|1i2|-7on|d
+Lamagistère|FR||9k|3ek|2a|d
+Lamarche-sur-Saône|FR||9k|3nb|ez|c
+La Mesa|PA|Bocas del Toro Province|4g|qe|-6do|c
+La Minerve|CA||59|3kh|-5s5|c
+La Motte-Saint-Jean|FR||9k|3l6|b0|c
+Lammerenburg|NL||8m|3yz|9w|c
+La Méaugon|FR||9k|3qq|-7w|c|Lanvealgon;Meaugon
+Lamarche|FR||9k|3pj|g2|c
+La Madeleine-de-Nonancourt|FR||9k|3rh|3c|c|La Madeleine-de Nonencourt
+Lama dei Peligni|IT||9o|38s|13f|c|Lama Di Peligni
+La Monja|MX||41|1lw|-7r6|c|Las Monjas
+Lamberhurst|GB||9b|3xy|13|b
+la Marina del Prat Vermell|ES||9d|36u|5y|b
+Lambrinia|IT||9o|3hg|qh|b
+La Monte|US||2f|2zp|-77j|b|Lamonte
+Río Verde|MX||44|1x6|-7oi|b|Campazos;Lampazos
+Lamboglia|PR||4m|1dy|-53b|b
+La Meilleraye-de-Bretagne|FR||9k|3o4|-3w|b|Melereg-Breizh
+Lamarque|FR||9k|3ha|-20|b
+Lama|IT||9o|3f3|tt|b
+Lambira|CI||0|nv|-9d|b|Lanbira
+La Mesa de los Conejos|MX||41|1pe|-7sp|b
+La Meauffe|FR||9k|3sm|-33|b|Meauffe
+La Mezquitera|MX|Jalisco|41|1l4|-7yf|b
+Lamure-sur-Azergues|FR||9k|3jy|ch|b
+Lamlash|GB||9b|4a9|-e9|a|An t-Eilean Árd;Loch an Eilein
+La Mintzita (Piedra Dura)|MX||41|1il|-7tc|a
+La Misión|MX|Tamaulipas|44|1u4|-7nh|a
+La Morra|IT||9o|3g0|m1|a
+Lama di Reno|IT||9o|3f9|v6|a
+Lamothe-Capdeville|FR||9k|3eg|3t|a
+Lamasquère|FR||9k|3cs|3g|a
+La Marquesa|MX||41|1hm|-7o1|a
+Lamar|US|South Carolina|48|2mx|-66e|a
+La Mixtequita|MX||41|1bs|-7ch|a
+La Melada|MX||41|1qg|-7sh|a|Melada
+La Mata|PA|Veraguas Province|4g|mh|-68o|a
+Lambres|FR||9k|3wm|6o|a
+Lamelas|PT||99|36p|-nj|a
+La Mata|ES||9d|32y|-cc|9
+La Mina|MX|Michoacán|41|1ja|-7si|9
+La Magdalena Cuextotitla|MX||41|1i3|-7lh|9|La Magdalena Cuestotitla
+LaMoure|US||2f|3ks|-7l1|9|L'Moure;La Moure
+La Mocha|MX||41|1kp|-7sk|9
+La Mesa|MX|Hidalgo|41|1jt|-7kv|9
+Lămotești|RO||8u|3iu|23p|9
+La Manzana Uno|MX||41|1k4|-7mr|9
+Lompirt|RO||8u|3ng|1rh|9|Lampirt;Lompirit
+Tampamachoco|MX||41|1m9|-7id|9|La Mata de Tepamachoco;Tampamochoco
+Lamnay|FR||9k|3po|1y|9
+Lamerton|GB||9b|3wh|-bn|9
+Lambley|GB||9b|438|-2y|9
+La Ameca|MX||41|1n1|-7mt|9|La Meca
+La Mesa (El Fresnito)|MX||41|1ii|-7zk|9
+Lamothe|FR||9k|3hv|9i|8
+La Meyze|FR||9k|3iq|3d|8
+La Mora|MX||41|1hp|-7r7|8
+La Maxe|FR||9k|3sl|h7|8
+Lamas|PT|Braga|99|37a|-nf|8
+La Mojonera|MX|Hidalgo|41|1lb|-7ly|8
+Lameroo|AU||8b|-2q5|auc|8
+La Magdalena Morelos|MX||41|1iy|-7pv|8
+La Môle|FR||9k|3c1|hz|8
+Lamagdelaine|FR||9k|3fj|45|8|La Madeleine;Lamagdelame
+Lamberton|US||2f|3ev|-7cm|8
+La Mesa|MX|Michoacán|41|1ix|-7q7|8
+La Muraz|FR||9k|3k4|h8|8
+La Morera|ES||9d|2z3|-ih|8
+La Magdalena|MX|Michoacán|41|1k3|-7x6|8|Magdalena
+La Manga (La Laguna)|MX||41|1hq|-7oc|8
+La Mazata|MX||41|1m0|-815|8
+Lambsborn|DE||8r|3t5|kn|8
+La Manga|MX||41|1ee|-75p|7
+La Mesa|US|New Mexico|2p|2h8|-88f|7
+La Muddizza|IT||9o|35n|og|7
+Lamine|BE||8t|3wt|et|7
+Lambrivka|UA||98|3kp|29d|7|Hofman;Hofmana;Fil'varok Hofmana;Hoffmann;Lambriwka;Lambrovka;Gofmana;Lambrovca;Gofman
+La Moille|US||2f|37d|-6w0|7|Lamoille
+La Meseta|PA||4g|nr|-6df|7
+La Merlatière|FR||9k|3lx|-3m|7
+Lampertsloch|FR||9k|3s0|lq|7
+La Magdelaine-sur-Tarn|FR||9k|3dp|4a|7
+La Mesa de Limantitla|MX||41|1mj|-7le|7|La Mesa de Limatitla
+Lampaul-Ploudalmézeau|FR||9k|3qw|-cy|7|Lambaol-Gwitalmeze;Lanna Pauli in Plebe Telmedoviae
+Lamarque-Pontacq|FR||9k|3by|-b|7
+Lama Amanikro|CI||0|m2|-do|7
+La Montoya|MX||41|1hn|-7ob|7
+La Madeja|MX||41|1ks|-7v6|7|Madeja
+Lam|KH||78|120|8al|7
+La Mesa|MX|Chihuahua|2g|27x|-86d|7
+La Morada|PE||3o|-of|-5vt|7
+Lambrama|PE||3o|-12j|-5m5|7
+La Merced|PE||3o|-zj|-5qk|6
+La Mestiza|MX||41|1gr|-7g9|6|Mestiza
+Lamar|US|Texas|2f|266|-7hh|6
+La Martyre|FR||9k|3ql|-bk|6|Ar Merzher-Salaun;Martyre
+La Mancuerna|MX||41|1ip|-7ht|6
+Lamboing|CH||a7|3mw|jt|6
+San Rafael de la Maraña|MX||41|1kn|-7v2|6|La Maraña
+Lamphey|GB||9b|3zj|-dj|6
+Lémèhèkaha|CI||0|pr|-fo|6|Laméhékaha
+La Mesita|MX||41|1gq|-7om|6
+La Magdalena Soltepec|MX||41|1ie|-7l3|6|Magdalena Soltepec
+Lammertal|AT||a2|3ny|115|6
+La Merced|MX||41|1jn|-7s1|6
+La Motte-de-Galaure|FR||9k|3hk|dn|6
+La Manzana de Santa Cruz|MX||41|1ia|-7qs|6
+La Muralla|MX||41|19t|-7js|6
+Lamorteau|BE||8t|3tl|f8|6
+Lamarosa|PT||99|31s|-nj|6
+Lambach|FR||9k|3s7|kg|6
+La Magdalena Cuaxixtla|MX||41|1gg|-7k4|6
+Lamonzie-Montastruc|FR||9k|3gq|1n|6|La Móngia de Montastruc;La Mongiá de Mont Astruc
+Lamar|US|Pennsylvania|48|35y|-5zd|6
+Lamas|PT|Porto|99|36b|-nt|6
+La Montaña|MX||41|179|-743|6
+La Montesa|MX||41|1pa|-7uv|6|Montesa
+Lampaden|DE||8r|3tx|im|5
+La Manta|MX||41|1qv|-7sl|5
+La Mezquitera|MX|Morelos|41|1fk|-7na|5
+La Mancornada|MX||41|1a9|-7eq|5|La Mancomada
+La Milpilla|MX||41|1jy|-7z8|5|Milpilla
+La Machuca|MX||41|1kt|-7rx|5
+Lamporo|IT||9o|3hn|mi|5
+La Mata|PA|Coclé|4g|nj|-66i|5|Las Matas
+La Marche|FR||9k|3my|8f|5
+La Mirra|MX||41|1lb|-7l7|5
+La Motte-du-Caire|FR||9k|3f6|gr|5|La Mota;La Mota dau Caire
+Lamontgie|FR||9k|3ib|99|5|La Móngia
+La Martinica|MX||41|1jp|-7h2|5
+La Mancellière-sur-Vire|FR||9k|3sb|-2z|5|Mancellière-sur-Vire
+La Misión|MX|Hidalgo|41|1mm|-7nc|5|Mision

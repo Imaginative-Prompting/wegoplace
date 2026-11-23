@@ -1,0 +1,219 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Kyoto|JP||7q|2pa|ah3|bal|Kioto;Kjóto;Quioto;Kyotum;Kiotas;Kyotu;Kėjuots
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Kyzylorda|KZ||7d|3gl|51z|2qk|Qızılorda;Perovsk;Kzyl-Orda;Ak-Mechet;Fort Perovsky;Qysylorda;Qyzylorda;Khizilordà;Kõzõlorda;Kizilorda;Qiziloʻrda
+Kyengera|UG||q|u|2ia|27a
+Gyeongsan-si|KR||7h|2ri|9xm|226|Gyeongsan;Kyŏngsan-si
+Kiel|DE||8r|46w|s5|1y7|Kilonia;Kilo;Kíl;Ķīle;Kylis;Kyle
+Gyeongju|KR||7h|2rk|9yx|1w6|Kyeng-ju;Kyŏngju
+Kyivskyi|UA|Kharkiv|98|3v0|2st|1et
+Kyaukpyu|MM||7y|1hz|77v|1e0|Kyaukpyn
+Kỳ Anh|VN||62|1e6|87a|15q
+Kızıltepe|TR||94|2vb|34q|15q|Tell Ermen;Kyzyltepe
+Melitopol|UA||98|3m5|2qa|15d|Kyzyl-Yar;Novoalexandrovka;Qız Yar
+Kyivskyi|UA|Donetsk|98|3ph|2wy|12o
+Kyauktan|MM|Yangon|7y|1a8|7fl|10w
+Kyzyl|RU||6u|3zn|7ac|wi|Kysyl;Kizil;Kõzõl;Kizila;Këzëlli;Qizil
+Gyumri|AM||80|35b|3dt|vv|Kumayri;Gjumri;Gumru;Gumri;Giumri;Gjoemri;Ghiumri;Leninakan;Gumry;Kyumayri;Gimri;Kyumri;Kümri
+Kyimyindine|MM||7y|1ap|7f0|uz
+Kyivskyi|UA|Poltava|98|3tt|2nx|uq
+Kyōtanabe|JP||7q|2oo|ah5|ki
+Kyosai|KR||7h|2ot|9x7|k1
+Kyaiklat|MM||7y|19p|7dw|ek|Keiklat
+Kyōtango|JP||7q|2qx|af4|e5
+Kyaukse|MM||7y|1o1|7f2|e1
+Kyaikto|MM||7y|1c3|7hh|dj
+Gyzylarbat|TM||5x|30a|4cc|di|Serdar;Kyzyl-Arvat
+Kyaikkami|MM||7y|18o|7j0|dd|Kyaikkhami
+Kyela|TZ||h|-qm|2m1|d2
+Kyustendil|BG||9v|39g|1r1|d1|Kjustendil;Köstendil;Küstendil;Kiousténdil;Keustendil
+Kardzhali|BG||9v|37p|1yh|c9|Kardschali;Kardjali;Kardzjali;Kırcaali;Kardžali;Krdžali;Kerdžalai;Kyrdżali;Exrdzhali;Kardshali;Kirdžali;Kirdjalü;Kŭrdzhale;Kirdžalü;Kerjali;Kirjali;Kerdzhali;Kŭrdžali;Kŭrdzhalii;Krdjali;Kŭrdzhali
+Kyaukpadaung|MM||7y|1lw|7c9|bw|Kyaukpandaung
+Kyauktan|MM|Sagaing Region|7y|1vg|7ed|bw
+Kyathampalle|IN||6t|1in|625|br
+Kirkkonummi|FI||92|4n0|1vw|bm|Kyrkslätt
+Kyshtym|RU||7z|4as|4o7|bk|Kysjtym
+Kyaukme|MM||7y|1qm|7hj|b3
+Kyle|US|Texas|2f|2bb|-7jw|9x
+Kyŏngsŏng|KP||7a|37j|a01|9w
+Kyzyl-Kyya|KG||65|33u|5kd|8w|Kzyl-Kiya;Qizilqiya;Kizyl-Kiya;Kyzyl-Kiya
+Kyauktaga|MM||7y|1cl|7he|8t|Kyautaga
+Kyegegwa|UG||q|1e|2e8|86
+Kyenjojo|UG||q|1r|2d2|7y|Kyanjojo;Kyonjojo
+Kyaka II Refugee Camp|UG||q|11|2ef|7l
+Kyrenia|CY||6e|2q6|2kk|7f|Kerýneia;Girne;Kyrínia på Kypros;Kerínia;Kirenija;Kirenia;Cirénia;Kérynia
+Kyonpyaw|MM||7y|1c2|7cg|6o|Kjonpja;Kjonpiava;Kyunpyaw;Kyônbyaw
+Kyangwali Refugee Camp|UG||q|3b|2di|6m
+Kyeintali|MM||7y|1e1|7ah|6k
+Kyabé|TD||17|q9|1gm|6c|Kiyabé
+Kaimori|IN||6t|1sy|65i|5m|Kymore
+Kyauktaw|MM||7y|1lw|76a|5f
+Kyurdarmir|AZ||61|342|3ps|5b|Kürdemir;Kyurdamir;Kjurdamir
+Kyakhta|RU||6k|3vv|87p|54|Kjakhta
+Priozërsk|RU||9i|4pk|2bq|53|Käkisalmi;Kägöisalmi;Kexholm;Keksholm;Kyakisalmi
+Kyarusozi|UG||q|26|2ct|4j
+Kyo Kone East|MM||7y|1ax|7ez|4j
+Kybalchych|UA||98|3w9|2d0|4h
+Kyazanga|UG||q|-12|2f3|4g
+Kyamahungu|UG||q|-19|2bn|4e|Kyamuhunga
+Kyzyl-Suu|KG||65|39m|60p|47
+Gadabay|AZ||61|34p|3j9|41|Kiadabak;Kyadabek;Kedabek
+Kysucké Nové Mesto|SK||8s|3sy|1g6|40|Kiszucaújhely;Kisutske Nove Mesto;Kisucke Nove Mesto
+Kyelang|IN||6t|2ih|5xy|3y|Kyeang;Kyelong
+Kyaka|TZ||h|-3h|2fa|3u
+Kyzyl-Adyr|KG||65|3ae|5iv|3s
+Kyōtamba|JP||7q|2po|ag6|3l
+Chavakali|KE||16|c|2oh|3j|Kyavakali;Chavakale
+Kyo Kone West|MM||7y|1av|7ez|3f
+Qiziltepa|UZ||7g|337|505|3e|Kyzyltepa;Kızıltepe;Kyzyl Tepe;Kizil-Tepe
+Kyar Inn West|MM||7y|1bp|7f2|36
+Kyjov|CZ||9m|3s5|1bk|2x|Kijova
+Kyritz|DE||8r|432|yg|2v
+Kyōmendao|JP||7q|2ow|a7v|2u|Kyōmentao
+Kyje|CZ||9m|3v6|14f|2s
+Kays Qal‘ah|IQ||5z|2tr|3ca|2s|Kîs Qeła;Kîs Qelê;Kys;Kis Qala‘a
+Kyan Khin Su|MM||7y|1ay|7f2|2s
+Kur|AZ||61|35n|3kb|2p|Kyur
+Kyun Ka Lay|MM|Yangon|7y|1bh|7f8|2m
+Kyotera|UG||q|-1q|2fk|2d
+Byakabanda|UG||q|-22|2f9|24|Kyakabanda
+Kyzyl-Bel’|KG||65|33e|5gi|23|Kyzyl-Bel
+Kypuche|UA||98|3qk|2zl|20|Artemivs’k;Artemivsk;Artëmovsk
+Kyabram|AU||8j|-2sv|b6x|1z
+Kyneton|AU||8j|-2vg|b59|1x
+Kyaung Kone|MM||7y|1b8|7ew|1w|Kyaunggon
+Kými|GR||8p|2zb|1uy|1v|Kyme;Kumi;Kími
+Kyurdakhany|AZ||61|34n|3uo|1u
+Kyzyl-Jol|KG||65|338|5gp|1s|Kyzyl-Zhol
+Kyzburun Pervyy|RU||9i|3d9|3ck|1m|Kyzburun Pervyj
+Kyakhulay|RU||9i|3bd|3nw|1l|Kjakhulaj;Kjachulai;Kâhulay;Kiachułaj
+Kyshtovka|RU||75|4d4|5wv|1l|Kysjtovka
+Kyaik Tha Le|MM||7y|1ab|7ep|1l|Kyaikthale
+Kybartai|LT||a3|47s|1r8|1k|Ķībarti;Kībartā;Kibartay;Kibarty;Kybartų
+Kyren|RU||6k|3zk|7vq|1h|Koren
+Kylemore|ZA||o|-2m8|1gn|1g
+Kyparissía|GR||8p|2vh|1o7|1e|Kiparissía
+Kyzyl-Mazhalyk|RU||6u|3y3|6zm|1e|Kyzyl-Mazjalyk;Kyzyl-Madzhalyk
+Kytayiv|UA||98|3vx|2cu|1e|Kytaiiv;Kytaiv
+Kyrnasivka|UA||98|3qz|28i|1e|Kyrnasiwka;Kyrnassivka
+Kye|MM||7y|zk|7m8|1b
+Kynšperk nad Ohří|CZ||9m|3v8|yt|19
+Kyra|RU||67|3tq|8n2|19|Kora
+Kälviä|FI||92|4xe|1t5|18|Kelviå;Kyal'viya
+Kyain Seikgyi|MM||7y|17y|7kx|18|Kyainseikgyi
+Kytmanovo|RU||63|44i|6ld|16|Kytmanov
+Kyzyl-Khaya|RU||6u|3v1|6xo|14|Kyzyl-Khaja
+Kyun Bet|MM||7y|1a9|7e9|14
+Kyaik Htaw North|MM||7y|19w|7ea|13
+Saga|CN||7i|29g|6kr|12|Kyakyaru
+Kyzyl-Oktyabr’|KG||65|366|5m7|10|Eskidurbul’
+Kyzyl-Oktyabr’skiy|RU||9i|3dr|383|10
+Kısas|TR||94|2v3|305|10|Kısos;Kysas
+Kysyl-Syr|RU||7x|4xh|9h1|z
+Kyrylivka|UA||98|3kt|2q9|z|Stepok;Horile
+Kyttälä|FI||92|4qu|1u1|y
+Ashotsk|AM||80|360|3du|x|Verin Ghukasyan;Kyzylkhach;Kyzylkoch
+Kýmina|GR||8p|34t|1r1|w|Kímina
+Kyrykivka|UA||98|3vw|2pj|w|Kirikovka
+Kärdla|EE||9x|4jw|1r7|w|Kärrdal;Kyardla;Kärtla;Kerdla
+Kyauk Ku Din|MM||7y|1bp|7fa|v|Kyaukkkadin
+Kyzyldzhar|UZ||7m|37h|5ei|u
+Kyslytsya|UA||98|3i5|28o|u|Câșlița-Dunăre;Kyslyzja;Kyslytsia
+Pyhäjoki|FI||92|4z3|1vb|u|Kyhajoki
+Kyōgoku|JP||7q|3b2|avf|t
+Panik|AM||80|34y|3e5|t|Kyavtarlu;Kaftarly;Gevdarli;Zvarchadzor
+Kyseliv|UA||98|3qy|1za|t|Chisălău;Kisalau
+Virolahti|FI||92|4o4|24w|s|Virolahden Kirkonkylä;Vederlax kyrkby;Kyrkoböle
+Kylmäkoski|FI||92|4pv|1tt|q
+Kyinka|UA||98|3yx|2en|q|Kyyinka
+Kywe Da Yut|MM||7y|1ax|7eh|p
+Kyrksæterøra|NO||9j|4vt|p9|p|Kyrkseterøra
+Kytayhorod|UA||98|3ru|2np|o|Kytaihorod;Kitaygorod
+Kyaik Htaw South|MM||7y|19v|7ea|o
+Kysucký Lieskovec|SK||8s|3t2|1ga|o
+Kya Khat Kone Gyi|MM||7y|19j|7f6|n
+Kyzyl-Bulak|KG||65|339|5ja|n|Qizil-Buloq
+Kyrnychky|UA||98|3iz|28r|m|Fântâna-Zânelor;Kyrnytchky
+Kyo|KM||ac|-y9|3fo|m
+Kyogle|AU||8l|-27i|bt0|m
+Kypséli|GR|Attica|8p|2ww|1t5|l|Kipséli;Khalasméni
+Kipséli|GR|Attica|8p|2xk|1ty|l|Kypseli
+Kyon Kan|MM||7y|1ab|7fx|l|Kyongan
+Kyar Kan|MM||7y|1ac|7fn|k
+Udobne|UA||98|3ku|2bh|j|Han-Câșla;Kyshlo Hanului;Hani Câșla
+Kyi Tan|MM||7y|1ak|7eq|j|Kyidan
+Kywe Lu Aing|MM||7y|1a7|7f0|j|Kywelu-aing
+Kyun Kone|MM||7y|1bg|7fe|j|Kyungon
+Kyriáki|GR||8p|2yj|1rb|i|Kiriáki
+Kyiv Quarter|UA||98|3z4|2df|i|Kyivskyi kvartal;Kyyivskyi kvartal
+Kyan Pin|MM||7y|1a6|7fr|i|Kyanbin
+Etelä-Kyttälä|FI||92|4qu|1u1|h|Kyttälä B;Södra Skyttälä
+Kyzyl-Tuu|KG||65|397|5wz|h|Kyzyltu
+Kynsilehto|FI||92|50n|1yy|h
+Pohjois-Kyttälä|FI||92|4qu|1u1|h|Kyttälä A
+Kyon Da Yei|MM||7y|1a1|7f9|h|Kyondaye
+Spandaryan|AM||80|34y|3ea|g|Ghulijan;Kyulluja
+Kyperoúnta|CY||73|2p2|2jm|g|Kyperounda
+Kyun Ka Lay|MM|Yangon|7y|1am|7ew|g
+Kisač|RS||8q|3hz|1it|f|Kiszács;Kysáč
+Kýria|GR||8p|366|1vh|f|Kíria
+Kyzylzhar|KZ||5s|3uu|5lp|f|Qyzyljar;Kyzylzhay
+Gyzylymam|TM||5x|2xz|4bo|e|Kyzyl-Imam
+Kyslychuvata|UA||98|3ox|2oh|e
+Yerazgavors|AM||80|352|3dm|e|Kyolanlu;Aralik;Aralikh
+Kyi|MM||7y|1oa|7cx|e
+Kyaung Su|MM||7y|1a0|7ea|d
+Kybyntsi|UA||98|3us|2ky|d|Kibintsy
+Kyselivka|UA|Chernihiv Oblast|98|3z6|2fd|d|Kiselevka
+Kyaw|MM||7y|1ox|7a4|d
+Kyselivka|UA|Mykolaiv|98|3mk|2i7|d|Kiselëvka
+Kyryakivka|UA||98|3mq|2gh|c|Kyriakivka
+Fyresdal|NO||9j|4ke|mh|c|Kyrkjebygdi
+Krasnokamyanka|UA|Crimea|9t|3gs|2pg|c|Krasnokamianka;Qızıltaş;Kiziltash;Feodosiya-13;Feodosia-13;Kyzyltash
+Kylpylä|FI||92|4pm|26b|b
+Kyyjärvi|FI||92|4v3|1w9|b
+Kyrás Vrýsi|GR||8p|2xb|1rv|b|Kirás Vrísi;Kirá Vrísi
+Kyu Taw Chaung|MM||7y|19z|7fb|b|Kyudawchaung
+Kyšice|CZ|Plzeň Region|9m|3u7|11h|b
+Kyzyl-Eshme|KG||65|31x|5kr|b
+Kyprínos|GR||8p|37i|20v|b|Kiprínos
+Kyllíni|GR||8p|2xe|1mr|b|Killíni;Kylíni
+Kyllburg|DE||8r|3v0|ib|b|Killburg
+Kynopiástes|GR||8p|31x|1j8|b|Kynopiástai
+Kyon La Ta|MM||7y|19n|7ec|a
+Kyle Bay|AU||8l|-2mf|bnq|a
+Kyrkhult|SE|Halland|9w|4d3|10v|a
+Kya Man|MM||7y|1bs|7e4|a|Kyaman
+Kärla|EE||9x|4i2|1pu|a|Kyarla
+Kyrkhult|SE|Blekinge|9w|4cj|14i|a
+Kyselytsi|UA||98|3pg|1xl|9
+Kyalakhan|AZ||61|2zd|3qa|9
+Zorakan|AM||80|36i|3gu|9|Verin Kyurplu;Kyorpili;Korplu;Kyorplu
+Kyeemagh|AU||8l|-2mb|bnw|9
+Kyzyl-Korgon|KG||65|33j|5hg|9|Qizil-Go‘rg‘on
+Kyuerdem|RU||7x|4qn|9yw|9|Kerdem
+Kytlym|RU||7z|4la|4kg|9
+Gyzylsuw|TM||5x|32k|439|9|Gyzyl-Suv;Kyzylsu
+Kyle|US|South Dakota|2p|3cm|-7vu|8
+Carlisle|AG||1j|1bl|-4ro|8|Kyaalail
+Kyjovice|CZ||9m|3uf|1e4|8
+Kybliari|UA||98|3r0|1qn|8|Köblér;Kyblyary;Kybliary;Kiblyary
+Sugeldi|TR||94|2u9|30g|7|Kyuchyuk-Medintel’far
+Kykotsmovi Village|US||4i|2rn|-8ja|7|Oozéí Biyázhí
+Kyyanytsya|UA||98|3xv|2p0|7|Kyianytsia
+Kyiashky|UA||98|3sh|2lf|7|Kyyashky
+Kyle of Lochalsh|GB||9b|4f4|-fv|7|Caol Loch Aillse;Kyle of Lochash
+Kybaky|UA||98|3q7|1yc|6|Chibachi
+Kyšice|CZ|Central Bohemia|9m|3v5|137|6
+Kyrá Chrysikoú|GR||8p|324|1j4|6|Kira Chrisikou
+Kyrkesund|SE||9w|4h6|w0|5
+Kyudyurlyu|AZ||61|364|3mx|5
+Kırkat|TR||94|2wc|36q|5|Kiryas;Kasrik;Kyrkat
+Kyzyl-Asker|KG||65|3aq|5t9|5
+Kipséli|GR|Ionian Islands|8p|2x2|1lu|5|Kypseli
+Kyohan|CI||0|np|-e8|5|Kiohan
+Kypséli|GR|Central Macedonia|8p|34o|1qh|5
+Kimlychka|UA||98|3wt|2m3|5|Kymlychka;Nimlichka;Kimlichka
+Kyi Seik|MM||7y|1au|7en|5
+Kye Tha Yauk(Sun Par)|MM||7y|23b|7fp|5

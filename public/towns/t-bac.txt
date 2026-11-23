@@ -1,0 +1,174 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Baku|AZ||61|346|3ul|i55|Bakı;Bakou;Bakoe;Bakó;Bacu;Baqu;Boku;Baky
+Bozhou|CN|Anhui|7i|2m4|8xl|avi|Po-čou;Bạc Châu;Bŏk-ciŭ;Po̍k-chiu-chhī
+Basrah|IQ||5z|2cr|3oq|a8i|Basra;Basora;Bassorah;Bàssora;Al-Basra;Baçorá;Besre;Busra;Bussora;Busrah;Bassra
+Beihai|CN|Guangxi|7i|1no|8f4|41x|Pej-chaj;Pet-hói-sṳ;Bắc Hải;Baekhaij;Báe̤k-hāi;Beihajus;Pak-hái-chhī;Pei-hai
+Bacolod City|PH||71|tn|9hj|3id|Bacolod;Ciudad ti Bacolod;Lungsod ng Bacolod;Dakbayan sa Bacolod;Syudad han Bacolod;Bacoloo City;Baclod City
+Bắc Giang|VN||62|1n3|86z|3h0|Pet-kông;Bakziangas
+Bacoor|PH||71|146|9by|2r6|Bakoor
+Bắc Từ Liêm|VN||6h|1mj|85r|2mm
+Baicheng|CN|Jilin|7i|3iq|9h7|2g2|Paj-čcheng;Bạch Thành;Băh-siàng;Pai-ch’eng
+Baiyin|CN||7i|2tj|81d|29s|Băh-ngṳ̀ng;Paj-jin;Bạch Ngân;Pe̍h-gîn-chhī;Pai-yin
+Bắc Ninh|VN||62|1mv|86o|27x|Bak Ninh;Bacht Ninh;Bak Nin
+North Las Vegas|US||3p|2sk|-8vs|1t8|Norda Lasvegaso;Bắc Las Vegas
+Bachuan|CN||7i|2ax|86l|1lx
+Baishan|CN||7i|38i|9r6|1f3|Băh-săng;Paj-šan;Bạch Sơn;Pe̍k-san-chhī
+Bạc Liêu|VN||6h|pt|85p|17d|Bak Lieu;Bac-Lien;Bach Lieu
+Bacău|RO||8u|3ld|22r|11t|Bákó
+Bắc Quang|VN||6h|1qg|83b|wz|Ban Quong;Bac Kwang;Tân Quang;Bac Quong
+Bacabal|BR||2w|-br|-3ge|ty
+Bạch Mai|VN||62|1ma|85z|pd
+Bakhmut|UA||98|3qz|2xk|md|Artemovskiy;Artemowsk;Artëmovsk;Artemivs'k;Artemivsk;Artyomovsk;Bahmut;Bachmut;Bajmut;Bakhmout;Bachmoet;Baxmut
+Béja|TN||1e|2u1|pi|h4|Badža;Bace;Bedja
+Bắc Kạn|VN||62|1pj|85z|ci|Bắc Cạn;Bak Kan
+Bhachāu|IN||6t|1sq|5fe|az|Bachau
+Backnang|DE||8r|3rz|q8|as
+Bako|ET||2|g2|2tl|9h|Baco;Baka
+Baclaran|PH||71|14d|9c3|9f
+Bagre|BR||23|-5a|-3vh|8p|Bacre
+Bačka Palanka|RS||8q|3hp|1hw|86|Palanka;Ópalánka;Újpalánka
+Bachhraon|IN||6t|28d|61b|84
+Bakhchysaray|UA||9t|3gc|2m2|7m|Bachtschyssaraj;Bakczysaraj;Bakhchisaray;Bachtsjisaraj;Bahçesaray;Bachtjisaraj;Baĥĉisarajo;Bachtjysaraj;Bağçasaray;Bakhtchyssaraï;Bakhtchissaraï;Bajchisarái;Bajchysarái;Bachtsjysaraj;Bakhchysarai;Bahčisaraj;Bogʻchasaroy;Bakhehisaray
+Back Mountain|US||48|36u|-5v4|7i
+Bacoli|IT||9o|35c|133|74|Bauli
+Bacchus Marsh|AU||8j|-2wn|b58|6v
+Bacheli|IN||6t|1fw|69r|5y
+Bacuri|BR||2w|-4t|-3he|57
+Back Bay|US||48|39n|-5hh|4w
+North Canton|US||48|35k|-6a4|4u|Bắc Canton
+Bacabeira|BR||2w|-89|-3f4|4q
+Bačka Topola|RS||8q|3ja|1ij|4i
+Baukau|TL||6b|-nk|9ra|4g|Baucau;Bacau
+Bachi-Yurt|RU||9i|3c2|3kb|44|Batsji-Jurt;Bwaçin-Yurt;Krasnoarmeyskoe;Pervomayskoe;Bači-Jurt;Pervomayskoye;Krasnoarmeyskoye;Pervomaysk;B‘açin-Yurt
+Bachatskiy|RU||74|46t|6n9|42
+Bacacay|PH||71|10x|9jv|3x
+Ba Chúc|VN||6h|t5|83f|3n
+Bacon|CI||0|ho|-av|3n|Bakon
+Bacup|GB||9b|456|-64|3m
+Bachrā|IN||6t|1tt|6kd|3m
+Bachhrāwān|IN||6t|21j|69c|3k
+Bashtanka|UA||98|3np|2i3|3e|Baschtanka;Bachtanka;Baştanka;Basjtanka;Basztanka
+Bacanda|CI||0|fn|-dk|3b|Bakanda
+Baculongan|PH||71|1ao|9bn|39
+Bacalar|MX||2b|1fw|-6tj|37
+Bashmakovo|RU||9i|43t|3bj|2p|Baschmakowo;Bašmakovo;Bachmakovo;Baszmakowo;Baixmakovo
+Bacarra|PH||71|1ep|9b1|2o
+Bačko Petrovo Selo|RS||8q|3iz|1js|2i|Petrovoszelló;Péterréve;Petrovosello
+Bacliff|US||2f|29z|-7bv|2e
+Bacobampo|MX||37|22y|-8gl|2d|Bascobampo
+Baciu|RO|Cluj County|8u|3m0|1tc|28
+Viertola|FI||92|4nh|1xh|28|Bäckby
+Bácsalmás|HU||8v|3k5|1hp|24|Almasch
+Bacuyangan|PH||71|qs|9g7|23
+Bački Petrovac|RS||8q|3i0|1if|20|Petrovec;Petrőc;Petrovac;Petrovácz
+Bắc Lũng|VN||6h|1n3|87i|1u
+Back of the Hill|US||48|39l|-5hj|1r
+Bačko Gradište|RS||8q|3ih|1jn|1m|Földvár;Tisza-Földvár;Bácsföldvár
+Goy-Chu|RU||9i|3bm|3ip|1k|Baçin-Khotar;Goj-Ču;Ġoyçu;Komsomol’skij;Komsomol’skoe;Saadi-Xutor;Saydin-Khotar;Goichu
+Bacag|PH||71|189|9ay|1j
+Bacuag|PH||71|qp|9p0|1i|Bacnag
+Bacolod|PH|Northern Mindanao|71|mk|9k8|1h
+Bacurituba|BR||2w|-7j|-3ga|1h
+Bacong|PH|Central Visayas|71|pp|9ii|1f
+Bachajón|MX||41|1bc|-743|1f
+Prigrevica|RS||8q|3iw|1h1|1e|Bácsszentiván
+Bacon|PH||71|108|9kk|1e
+Baccarat|FR||9k|3ql|iq|1d|Bakara
+Bettlach|CH||a7|3n4|km|1c|Bâche
+Bacnar|PH||71|185|9aa|1a
+Ruski Krstur|RS||8q|3ik|1hy|1a|Bácskeresztúr
+Baca|MX||3z|1mn|-6wc|1a
+Bácum|MX||37|24j|-8hs|16
+Băceşti|RO||8u|3m5|23n|14
+Bacungan|PH||71|rj|95q|14
+Leon Postigo|PH||71|mo|9hh|12|Bacangan;Bacungan;Leon T. Postigo;Bacongan
+Bahnea|RO||8u|3kt|1w0|12|Bachnea
+Bakulong|PH||71|176|9b4|11|Baculong
+Bactad Proper|PH||71|18e|9b1|10
+Bacame Nuevo|MX||37|23g|-8gf|z|Bacane Nuevo
+Bacayawan|PH||71|ll|9l3|w|Bakayawan
+Bachoco|MX|Sinaloa|3x|1ze|-8e9|w
+Bacnotan|PH||71|1ag|9ab|v|Bacnaton
+Bácsbokod|HU||8v|3k5|1h8|v|Wikitsch
+Bachenbülach|CH||a7|3ny|nr|u
+Baculin|PH||71|kp|9rm|u
+Baco|PH||71|114|9ce|t
+Bacolod|PH|Bicol Region|71|xz|9j3|s
+Băcani|RO||8u|3kp|24v|r
+Bachauan|PH||71|v5|9kc|r|Bakhauan;Bakhawan
+Bacsay|PH||71|17e|9aa|q
+Bacabchén|MX||3z|1kd|-6y6|p
+Bachhagel|DE||8r|3r3|so|p
+Bachant|FR||9k|3vi|ar|o
+Bacundao Weste|PH||71|188|9ao|n|Bacundao;Bacondao;Bacundao West
+Bacong|PH|Central Visayas|71|r2|9m1|n
+Bachowice|PL||a5|3us|1i5|m
+Bacnor East|PH||71|1bb|9e2|m|Bacnor
+Bacabac|PH||71|17o|9aj|m
+Bacolod|PH|Caraga|71|ot|9qt|m|Baculod
+Bachíniva|MX||2g|27x|-89x|l|Bachimva;Bachiniba
+Bacharach|DE||8r|3v2|ll|l
+Bacalan|PH||71|w3|9f4|l
+Bachte-Maria-Leerne|BE||8t|3xp|9y|k
+Bacorehuis|MX||3x|214|-8f1|j|Bacorahuis
+Băcioiu|RO||8u|3kn|23g|i|Băicioiul
+North Newton|US||2f|2xr|-7if|i|Bắc Newton
+Bacqueville-en-Caux|FR||9k|3ub|2s|i
+Băcia|RO||8u|3j8|1ry|i
+Bački Breg|RS||8q|3jk|1gl|i
+Bach|DE||8r|3t8|ye|i
+Bacu Abis|IT||9o|310|ni|h
+Baş Göynük|AZ||61|36t|3mv|h|Bach Goynuk;ekber;Baş Köynük
+Bacea|RO||8u|3fc|1wg|g
+Buchanan Dam|US||2f|2de|-7lf|f|Bachanan Dam
+Backa|SE|Västerbotten|9w|50i|1mj|f
+Bäch|CH||a7|3n4|o9|f
+Băcălești|RO||8u|3ee|1wy|e
+Bashtankiv|UA||98|3pn|28k|e|Bachtankiv;Bashtankovo;Beshtankov;Bashtankov
+Bacova|RO||8u|3iu|1nv|e|Bachóvár
+Bácsszőlős|HU||8v|3k7|1i1|e|Bácsszőllős
+Backworth|GB||9b|48w|-49|e
+Bâcu|RO|Giurgiu County|8u|3fk|1zx|e|Bîcu
+Bacabachi|MX||37|22p|-8fv|e|Bacavachi;Bacabáche
+Bachomobampo Número Dos|MX||3x|1zi|-8f7|e
+Bachy|FR||9k|3wf|92|e
+Bacton|GB||9b|417|2u|d
+Bächingen an der Brenz|DE||8r|3qv|sn|d|Bächingen
+Baciu|RO|Teleorman County|8u|3f5|1yo|d
+Bacadéhuachi|MX||37|2at|-8f6|d
+Bácsborsód|HU||8v|3k2|1h8|c
+Bacubirito|MX||3x|1zp|-8br|c|Bacurrito
+Bacerac|MX||37|2cc|-8el|b
+Bacoachi|MX||37|2d3|-8hh|b
+North Tunica|US||2f|2oe|-6z2|a|Bắc Tunica
+Bachigualatito|MX||3x|1wn|-8aj|a|Bachigualatillo;Bachigualato
+Bachimeto|MX||3x|1wq|-8ba|a|Bachimento
+Bashtanivka|UA||98|3j5|29w|9|Baccialia;Bachtanivka
+Bochmanivka|UA||98|3oe|2a5|9|Bachmanovka;Bochmanovka
+Baczyna|PL||a5|42k|160|9
+Baconton|US||48|2f6|-6hs|9
+Baczyn|PL||a5|3ub|1is|8
+Bacurimí|MX||3x|1wx|-8ah|8|Mucurimi
+Bața|RO|Bistrița-Năsăud County|8u|3n3|1uo|8|Baca
+Baczków|PL||a5|3uz|1ks|8
+Bäckefors|SE||9w|4jc|xs|7
+Bachantahui|MX||37|22d|-8gj|7
+Bač|MK||9u|35p|1nw|7
+Bạch Long Vĩ|VN||62|1jx|8b9|7
+Bacilly|FR||9k|3ra|-40|7
+Bacaporobampo|MX||3x|1zz|-8eu|6
+Baccon|FR||9k|3p1|4j|6
+Bâcu|RO|Iași County|8u|3mc|24a|6|Bîcu
+Bacouel-sur-Selle|FR||9k|3uf|67|6|Bacouel-sur Celle
+Băcăoani|RO||8u|3le|256|6
+Backa|SE|Dalarna|9w|4p8|15y|6
+Baccaiano|IT||9o|3db|us|6
+Bachoco|MX|Sinaloa|3x|1wv|-8bg|5
+Bacanora|MX||37|28i|-8fw|5
+Baćkowice|PL||a5|3x3|1mz|5
+Backe|SE||9w|4xa|19k|5
+Bachfeld|DE||8r|3w2|ui|5
+Baćina|HR||a6|3bo|1cb|5
+Backbarrow|GB||9b|46q|-8b|5
+Bace|RS||8q|3c2|1na|5|Baca

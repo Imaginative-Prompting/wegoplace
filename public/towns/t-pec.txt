@@ -1,0 +1,70 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Karachi|PK||6q|1x2|565|2hoy|pechs;Karatschi;Karaĉio;Karačis;Karāči;Karaczi;Carachi;Karatxi;Keraçî;Karacsi;Karatsji;Karaaji;Karačės;Karochi;Karanchi;Karasi;Kurrachi
+Pécs|HU||8v|3k0|1en|14d|Fünfkirchen;Pecz;Päťkostolie;Pech;Cinquechiese;Pēča;Pečuh;Pėčas;Sopianae;Peč;Pečuj;Fuenfkirchen;Peçuy-
+Pechersk|UA||98|3w4|2cs|s1|Pecserszkij kerület
+Peckham|GB||9b|3yz|-7|jw
+Pecangaan|ID||6l|-im|8jj|gy|Petjangaan;Pecangakan
+Pessac|FR||9k|3gh|-1r|g3|Peçac;Peçac de Bordèu
+Phetchabun|TH||62|19m|7t0|e3|Pechabun;Petchabun
+Pejë|XK||8q|3ai|1kd|dm|Peja;Picaria;Peć;Pečas
+Phetchaburi|TH||62|10f|7pm|cy|Fetçaburi;Pechaburi;Petchaburi
+Pechora|RU||9i|50z|4ey|ct|Peczora;Petschora;Peĉora;Petšora;Petsjora;Petchora;Petxora;Byen Petsjora;Pečor;Petjora
+Poconé|BR||2k|-196|-4da|99|Peconé
+Peshtera|BG||9v|38r|1vi|57|Peshchera;Pechtera;Peštera;Peščera;Peschtera
+Peçanha|BR||4w|-1fj|-3a8|4u
+Peqin|AL||9y|361|1iv|4m|Pekinis;Pequini;Pekin;Pekini;Pecin;Pekinj
+Le Pecq|FR||9k|3rt|5u|4l|Pecq
+Pecan Grove|US||2f|2ab|-7dx|4g
+Pechory|RU||9i|4gm|24p|3o|Petseri;Petsjory;Petschory;Petchory;Pečory;Petzuria;Peĉori;Pieczory;Pječory;Pechery
+Pécel|HU||8v|3nx|1hq|3o
+Pecica|RO||8u|3k9|1mj|3k
+Pechea|RO||8u|3ir|258|35
+Pecos|US|Texas|2f|2fa|-7zh|2n
+Pecquencourt|FR||9k|3vy|8x|1v
+Pećigrad|BA||9r|3h5|186|1t
+Pecan Plantation|US||2f|2hw|-7jc|1h
+Pechenizhyn|UA||98|3qs|1x4|1g|Peczeniżyn;Pétchénijyn;Petschenischyn;Petjenizjyn;Pečenižyn;Peçenijın
+Pechenihy|UA||98|3uj|2um|1f|Pechenegi;Petschenihy;Petchenegui;Pechenigi;Pečenihy;Peçenigı;Peczenihy;Petxenigui
+Peciu Nou|RO||8u|3ip|1mi|1d|Peciul Nou
+Peculiar|US||2f|2zk|-7ae|1d
+Pečky|CZ||9m|3v5|15r|1d
+Bechyně|CZ||9m|3sy|147|1c|Bechin;Beching;Pechin;Bechyn
+Pecan Acres|US||2f|2jl|-7ir|15
+Pécsvárad|HU||8v|3k8|1f6|14|Petschwar;Pečvar
+Pechersk|RU||9i|48d|2gz|14|Petsjersk
+Pęczniew|PL||a5|3zw|1g0|13
+Peći|BA||9r|3fz|1am|11
+Pechbonnieu|FR||9k|3de|43|y|Puègbonieu;Echbonnieu
+Pecineaga|RO||8u|3dy|276|u|Peceneaga
+Pöttsching|AT||a2|3os|19h|u|Pecsenyéd
+Pechenga|RU||9i|5d5|2el|s|Petschenga;Petsamo;Petsjenga;Pieczenga
+Peccioli|IT||9o|3cz|ts|r
+Pech|DE||8r|3wp|jr|r
+Pecetto|IT||9o|3h2|lj|n
+Pećinci|RS||8q|3gr|1jh|m|Pecjinci;Pecsince;Pećinei
+Pecatonica|US||2f|39j|-6w8|l
+Peceneaga|RO||8u|3h2|265|k|Pecineaga
+Le Pêchereau|FR||9k|3le|4b|j|Pêchereau
+Perches|HT||4j|1i8|-5js|j|Pèch
+Peqan|XK||8q|39q|1lu|j|Pećane;Reçan
+Pecna|PL||a5|40y|1ao|i
+Pechersk Quarter|UA||98|3z5|2dh|f|Pecherskyi kvartal
+Pecq|BE||8t|3wt|9a|f
+Pechbrunn|DE||8r|3ut|xt|f
+Péchabou|FR||9k|3cu|47|f
+Pecos|US|New Mexico|2p|2qt|-85k|d
+Pecka|CZ||9m|3w8|17d|d
+Pečeneg Ilova|BA||9r|3gx|1d6|d
+Peceiu|RO||8u|3mw|1ri|c
+Pechucalco 2da. Sección (Las Cruces)|MX||41|1ed|-76v|c
+Pechucalco|MX||41|1e9|-76t|b
+Pechbusque|FR||9k|3cx|42|8
+Pécy|FR||9k|3r6|8k|7
+Pec pod Sněžkou|CZ||9m|3wt|17p|7|Petzer;Pec pod Snežkovas
+Peconic|US||48|361|-5la|7|Peonic
+Pecan Hill|US||2f|2i9|-7gv|6
+Pecinișca|RO||8u|3gm|1q9|6|Pecenişca
+Pecqueuse|FR||9k|3r5|5p|6
+Peck|US||2q|3c6|-6e2|6
+Pečeňady|SK||8s|3qo|1d8|6

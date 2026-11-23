@@ -1,0 +1,987 @@
+/* From NeedWright's design system (its design-system branch, app/ds/controls.css), as it is there: the same
+ * classes and the same rules, on this app's tokens (public/ds/tokens.css). Changes here go into NeedWright's too, or
+ * are said beside the rule. */
+
+/* Controls: button, icon button, text field, textarea, select, switch,
+ * checkbox, radio, radio row, tabs. One height (32px), one radius (12px) for
+ * the default size; 24px/8px for the small size; 44px/16px for editorial CTAs. */
+
+/* ---------- button ---------- */
+
+.ds-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  flex: none;
+  height: var(--control-32);
+  padding: 0 12px;
+  border: 1px solid transparent;
+  border-radius: var(--radius-12);
+  font-family: var(--type-ui);
+  font-size: var(--size-14);
+  font-weight: 600;
+  line-height: 20px;
+  white-space: nowrap;
+  text-decoration: none;
+  cursor: pointer;
+  user-select: none;
+  transition:
+    background-color var(--dur-150) var(--ease-standard),
+    border-color var(--dur-150) var(--ease-standard),
+    color var(--dur-150) var(--ease-standard),
+    box-shadow var(--dur-200) var(--ease-standard),
+    opacity var(--dur-150) var(--ease-standard);
+}
+
+/* The app's: a button drawn 32 px (28 small, 24 extra small) presses at 44, by an invisible area above and below it,
+   never beside it (two buttons in a row keep their own). */
+.ds-button::before { content: ""; position: absolute; left: 0; right: 0; top: 50%; height: max(100%, var(--control-44)); transform: translateY(-50%); }
+
+.ds-button > svg {
+  width: 16px;
+  height: 16px;
+  flex: none;
+}
+
+.ds-button:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+.ds-button--white {
+  background: var(--solid);
+  color: var(--on-solid);
+}
+
+.ds-button--gray {
+  background: var(--fill);
+  border-color: var(--edge);
+  color: var(--ink-2);
+  font-weight: 500;
+}
+
+.ds-button--gray[aria-pressed="true"],
+.ds-button--gray[aria-expanded="true"] {
+  background: var(--fill-active);
+  color: var(--ink-1);
+}
+
+.ds-button--fade {
+  background: transparent;
+  color: var(--ink-2);
+}
+
+.ds-button--fade[aria-expanded="true"] {
+  color: var(--ink-1);
+}
+
+.ds-button--red {
+  background: var(--negative-bg);
+  color: var(--negative);
+}
+
+/* Editorial CTA: glass at rest, solid white with a glow on hover. */
+.ds-button--glass {
+  border: 2px solid var(--glow-soft);
+  background: linear-gradient(104deg, var(--glow-soft) 5%, var(--ring-soft) 100%);
+  color: var(--ink-1);
+  backdrop-filter: blur(25px);
+  -webkit-backdrop-filter: blur(25px);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .ds-button--white:not(:disabled, [aria-disabled="true"]):hover {
+    background: var(--solid-hover);
+  }
+  .ds-button--gray:not(:disabled, [aria-disabled="true"]):hover {
+    background: var(--fill-hover);
+    color: var(--ink-1);
+  }
+  .ds-button--fade:not(:disabled, [aria-disabled="true"]):hover {
+    color: var(--ink-1);
+  }
+  .ds-button--red:not(:disabled, [aria-disabled="true"]):hover {
+    background: var(--negative-edge);
+  }
+  .ds-button--glass:not(:disabled, [aria-disabled="true"]):hover {
+    background: var(--solid);
+    color: var(--on-solid);
+    box-shadow: 0 0 4px var(--glow-soft), 0 1px 14px var(--ring-soft), 0 3px 32px var(--ring-soft);
+  }
+}
+
+.ds-button--xs {
+  height: var(--control-24);
+  padding: 0 8px;
+  gap: 4px;
+  border-radius: var(--radius-8);
+  font-size: var(--size-12);
+  font-weight: 500;
+  line-height: 16px;
+}
+
+.ds-button--xs > svg {
+  width: 14px;
+  height: 14px;
+}
+
+.ds-button--sm {
+  height: var(--control-28);
+  padding: 0 10px;
+}
+
+.ds-button--lg {
+  height: var(--control-44);
+  padding: 0 18px;
+  gap: 8px;
+  border-radius: var(--radius-16);
+  font-size: var(--size-16);
+  line-height: 24px;
+}
+
+.ds-button--lg > svg {
+  width: 18px;
+  height: 18px;
+}
+
+.ds-button--icon {
+  width: var(--control-32);
+  padding: 0;
+}
+
+.ds-button--icon.ds-button--xs { width: var(--control-24); }
+.ds-button--icon.ds-button--sm { width: var(--control-28); }
+.ds-button--icon.ds-button--lg { width: var(--control-44); }
+
+.ds-button--block {
+  width: 100%;
+}
+
+/* Disabled is RECOLORED, never dimmed: opacity would quiet its words. The gray step,
+ * ink-4 for its words and icon, no press. Every disabled control below is the same; scripts/ds_theme_check.mjs refuses
+ * an opacity on any of them. */
+.ds-button:disabled,
+.ds-button[aria-disabled="true"] {
+  cursor: not-allowed;
+  border-color: transparent;
+  background: var(--fill);
+  color: var(--ink-4);
+  box-shadow: none;
+}
+
+.ds-button:disabled:active,
+.ds-button[aria-disabled="true"]:active {
+  transform: none;
+}
+
+.ds-button[data-loading="true"] {
+  cursor: progress;
+  color: transparent;
+  opacity: 1;
+}
+
+.ds-button[data-loading="true"] > :not(.ds-spinner) {
+  visibility: hidden;
+}
+
+.ds-button[data-loading="true"] > .ds-spinner {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  color: var(--ink-2);
+}
+
+.ds-button--white[data-loading="true"] > .ds-spinner {
+  color: var(--on-solid);
+}
+
+.ds-button-kbd {
+  margin-left: 2px;
+  margin-right: -4px;
+}
+
+@media (pointer: coarse) {
+  .ds-button { min-height: 36px; }
+  .ds-button--icon { min-width: 36px; }
+  .ds-button--xs { min-height: 28px; }
+  .ds-button--icon.ds-button--xs { min-width: 28px; }
+}
+
+/* ---------- fields ---------- */
+
+.ds-field {
+  grid-template-columns: minmax(0, 1fr);
+  display: grid;
+  gap: 6px;
+  min-width: 0;
+}
+
+.ds-label {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: var(--size-14);
+  font-weight: 500;
+  line-height: 20px;
+  color: var(--ink-2);
+}
+
+.ds-label-aside {
+  font-size: var(--size-12);
+  font-weight: 400;
+  color: var(--ink-3);
+}
+
+.ds-help {
+  font-size: var(--size-12);
+  line-height: 16px;
+  color: var(--ink-3);
+}
+
+.ds-error {
+  font-size: var(--size-12);
+  line-height: 16px;
+  color: var(--negative);
+}
+
+.ds-input,
+.ds-textarea,
+.ds-select {
+  width: 100%;
+  min-width: 0;
+  height: var(--control-32);
+  padding: 0 12px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-12);
+  background: var(--fill);
+  color: var(--ink-1);
+  font-family: var(--type-ui);
+  /* 16px, never less: iOS zooms into a focused field whose text is under 16px and doesn't zoom back, which breaks an
+     installed app (scripts/field_size_check.mjs walks every field the app shows and holds it). */
+  font-size: var(--size-16);
+  line-height: 22px;
+  transition:
+    border-color var(--dur-150) var(--ease-standard),
+    box-shadow var(--dur-150) var(--ease-standard);
+}
+
+.ds-textarea {
+  height: auto;
+  min-height: 88px;
+  padding: 8px 12px;
+  resize: vertical;
+}
+
+.ds-input::placeholder,
+.ds-textarea::placeholder {
+  color: var(--ink-4);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .ds-input:hover,
+  .ds-textarea:hover,
+  .ds-select:hover {
+    border-color: var(--edge-strong);
+  }
+}
+
+.ds-input:focus-visible,
+.ds-textarea:focus-visible,
+.ds-select:focus-visible,
+.ds-input-group:focus-within {
+  outline: none;
+  border-color: var(--edge-strong);
+  box-shadow: 0 0 0 3px var(--ring-soft);
+}
+
+.ds-input[aria-invalid="true"],
+.ds-textarea[aria-invalid="true"],
+.ds-select[aria-invalid="true"] {
+  border-color: var(--negative-edge);
+}
+
+.ds-input:disabled,
+.ds-textarea:disabled,
+.ds-select:disabled {
+  cursor: not-allowed;
+  border-color: var(--hair);
+  background: var(--well);
+  color: var(--ink-4);
+}
+
+.ds-input--lg {
+  height: var(--control-44);
+  padding: 0 14px;
+  border-radius: var(--radius-16);
+  font-size: var(--size-16);
+  line-height: 24px;
+}
+
+.ds-select-wrap {
+  position: relative;
+  display: block;
+  min-width: 0;
+}
+
+.ds-select {
+  appearance: none;
+  padding-right: 32px;
+  cursor: pointer;
+}
+
+.ds-select-wrap > svg {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  width: 14px;
+  height: 14px;
+  transform: translateY(-50%);
+  color: var(--ink-3);
+  pointer-events: none;
+}
+
+/* A field with a leading icon or affix: the group draws the box. */
+.ds-input-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: var(--control-32);
+  padding: 0 4px 0 10px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-12);
+  background: var(--fill);
+  transition:
+    border-color var(--dur-150) var(--ease-standard),
+    box-shadow var(--dur-150) var(--ease-standard);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .ds-input-group:hover {
+    border-color: var(--edge-strong);
+  }
+}
+
+.ds-input-group > svg {
+  width: 16px;
+  height: 16px;
+  flex: none;
+  color: var(--ink-3);
+}
+
+.ds-input-group > input {
+  flex: 1;
+  min-width: 0;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ink-1);
+  font-size: var(--size-14);
+  outline: none;
+}
+
+.ds-input-group > input::placeholder {
+  color: var(--ink-4);
+}
+
+.ds-affix {
+  flex: none;
+  color: var(--ink-3);
+  font-size: var(--size-14);
+}
+
+/* ---------- switch ---------- */
+
+.ds-switch {
+  position: relative;
+  flex: none;
+  width: 36px;
+  height: 20px;
+  padding: 0;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-full);
+  background: var(--fill);
+  cursor: pointer;
+  transition:
+    background-color var(--dur-200) var(--ease-standard),
+    border-color var(--dur-200) var(--ease-standard);
+}
+
+.ds-switch::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  border-radius: var(--radius-full);
+  background: var(--ink-3);
+  transition:
+    transform var(--dur-200) var(--ease-spring),
+    background-color var(--dur-200) var(--ease-standard);
+}
+
+.ds-switch[aria-checked="true"] {
+  border-color: var(--solid);
+  background: var(--solid);
+}
+
+.ds-switch[aria-checked="true"]::after {
+  transform: translateX(16px);
+  background: var(--on-solid);
+}
+
+.ds-switch:disabled {
+  cursor: not-allowed;
+  border-color: var(--hair);
+  background: var(--well);
+}
+
+.ds-switch:disabled[aria-checked="true"] {
+  border-color: var(--gray-3);
+  background: var(--gray-3);
+}
+
+.ds-switch:disabled::after {
+  background: var(--ink-4);
+}
+
+.ds-switch-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+
+/* ---------- checkbox & radio ---------- */
+
+.ds-check,
+.ds-radio {
+  appearance: none;
+  position: relative;
+  flex: none;
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  border: 1px solid var(--edge-strong);
+  background: var(--fill);
+  cursor: pointer;
+  transition:
+    background-color var(--dur-150) var(--ease-standard),
+    border-color var(--dur-150) var(--ease-standard);
+}
+
+.ds-check {
+  border-radius: 6px;
+}
+
+.ds-radio {
+  border-radius: var(--radius-full);
+}
+
+.ds-check:checked,
+.ds-check:indeterminate {
+  border-color: var(--solid);
+  background: var(--solid);
+}
+
+.ds-check:checked::after {
+  content: "";
+  position: absolute;
+  left: 5.5px;
+  top: 2.5px;
+  width: 5px;
+  height: 9px;
+  border: solid var(--on-solid);
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.ds-check:indeterminate::after {
+  content: "";
+  position: absolute;
+  left: 4px;
+  right: 4px;
+  top: 7.5px;
+  height: 2px;
+  border-radius: 1px;
+  background: var(--on-solid);
+}
+
+.ds-radio:checked {
+  border-color: var(--solid);
+  background: var(--solid);
+  box-shadow: inset 0 0 0 4px var(--well);
+}
+
+.ds-check:disabled,
+.ds-radio:disabled {
+  cursor: not-allowed;
+  border-color: var(--hair);
+  background: var(--well);
+}
+
+.ds-check:disabled:checked,
+.ds-check:disabled:indeterminate,
+.ds-radio:disabled:checked {
+  border-color: var(--gray-3);
+  background: var(--gray-3);
+}
+
+.ds-check:disabled:checked::after {
+  border-color: var(--ink-4);
+}
+
+.ds-check-row {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+
+/* Radio row: a full-width option with room for a description. */
+.ds-radio-rows {
+  display: grid;
+  gap: 8px;
+}
+
+.ds-radio-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-16);
+  background: var(--fill);
+  cursor: pointer;
+  transition:
+    border-color var(--dur-150) var(--ease-standard),
+    background-color var(--dur-150) var(--ease-standard);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .ds-radio-row:hover {
+    border-color: var(--edge-strong);
+  }
+}
+
+.ds-radio-row:has(input:checked) {
+  border-color: var(--edge-strong);
+  background: var(--fill-hover);
+}
+
+.ds-radio-row:has(input:focus-visible) {
+  box-shadow: 0 0 0 3px var(--ring-soft);
+}
+
+.ds-radio-row-text {
+  grid-template-columns: minmax(0, 1fr);
+  flex: 1;
+  min-width: 0;
+  display: grid;
+  gap: 2px;
+}
+
+.ds-radio-row-title {
+  color: var(--ink-1);
+  font-weight: 500;
+}
+
+.ds-radio-row-desc {
+  font-size: var(--size-12);
+  line-height: 16px;
+  color: var(--ink-3);
+}
+
+.ds-radio-row > svg {
+  width: 20px;
+  height: 20px;
+  flex: none;
+  color: var(--ink-2);
+}
+
+/* ---------- tabs ---------- */
+
+.ds-tabs {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.ds-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.ds-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex: none;
+  height: var(--control-32);
+  padding: 0 12px;
+  border: 0;
+  border-radius: var(--radius-12);
+  background: transparent;
+  color: var(--ink-2);
+  font-size: var(--size-14);
+  font-weight: 600;
+  white-space: nowrap;
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    background-color var(--dur-150) var(--ease-standard),
+    color var(--dur-150) var(--ease-standard);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .ds-tab:hover {
+    color: var(--ink-1);
+  }
+}
+
+.ds-tab[aria-selected="true"],
+.ds-tab[aria-current="page"],
+.ds-tab.active {
+  background: var(--fill);
+  color: var(--ink-1);
+}
+
+.ds-tab-count {
+  font-family: var(--type-mono);
+  font-size: var(--size-12);
+  font-weight: 500;
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+
+.ds-tab[aria-selected="true"] .ds-tab-count,
+.ds-tab[aria-current="page"] .ds-tab-count {
+  color: var(--ink-2);
+}
+
+/* ---------- segmented ---------- */
+
+.ds-segmented {
+  display: inline-flex;
+  align-items: stretch;
+  gap: 2px;
+  flex: none;
+  max-width: 100%;
+  padding: 2px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-12);
+  background: var(--fill);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.ds-segmented::-webkit-scrollbar { display: none; }
+
+.ds-segmented--sm { height: var(--control-28); }
+.ds-segmented--xs { height: var(--control-24); border-radius: var(--radius-8); }
+
+.ds-segment {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  padding: 0 10px;
+  border: 0;
+  border-radius: var(--radius-8);
+  background: transparent;
+  /* ink-2, not NeedWright's ink-3: an option's name is information, and ink-3 reads under 4.5 to 1 on the canvas. */
+  color: var(--ink-2);
+  font-size: var(--size-12);
+  font-weight: 500;
+  line-height: 16px;
+  white-space: nowrap;
+  cursor: pointer;
+  transition:
+    background-color var(--dur-150) var(--ease-standard),
+    color var(--dur-150) var(--ease-standard);
+}
+
+.ds-segmented--xs .ds-segment {
+  padding: 0 8px;
+  border-radius: 6px;
+}
+
+/* Drawn 32 high, pressed at 44: 6 above and 6 below, as a mode is. */
+.ds-segment::before { content: ""; position: absolute; inset: -6px 0; }
+
+@media (hover: hover) and (pointer: fine) {
+  .ds-segment:hover { color: var(--ink-1); }
+}
+
+.ds-segment[aria-checked="true"] {
+  background: var(--fill-active);
+  color: var(--ink-1);
+}
+
+.ds-segment:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: -2px;
+}
+
+/* ---------- modes: a few equal choices with one highlight that slides ----------
+   The app's own (not NeedWright's): Packing's Mine / Group, Chat's Group / Assistant, Photos' views. The track is a
+   grid of --ds-n equal cells; the highlight is one cell wide and moves to cell --ds-i (set on the track by the screen, with
+   the chosen item's aria-pressed, aria-selected or aria-current). No measuring: equal cells move by whole widths.
+   Reduced motion: no travel (base.css). Each item is 32 px to see and 44 px to press. */
+
+.ds-modes {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(var(--ds-n, 2), minmax(0, 1fr));
+  padding: 3px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-12);
+  background: var(--fill);
+}
+
+.ds-modes-hl {
+  position: absolute;
+  top: 3px;
+  bottom: 3px;
+  left: 3px;
+  width: calc((100% - 6px) / var(--ds-n, 2));
+  border-radius: 9px;
+  background: var(--fill-active);
+  transform: translateX(calc(var(--ds-i, 0) * 100%));
+  transition: transform var(--dur-320) var(--ease-spring);
+  pointer-events: none;
+}
+
+.ds-mode {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-width: 0;
+  min-height: var(--control-32);
+  padding: 0 12px;
+  border: 0;
+  background: none;
+  color: var(--ink-2);
+  font: inherit;
+  font-size: var(--size-14);
+  font-weight: 600;
+  line-height: 20px;
+  white-space: nowrap;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color var(--dur-150) var(--ease-standard);
+}
+
+.ds-mode::before { content: ""; position: absolute; inset: -6px 0; }
+.ds-mode:is([aria-pressed="true"], [aria-selected="true"], [aria-current="page"]) { color: var(--ink-1); }
+.ds-mode:focus-visible { outline: 2px solid var(--ring); outline-offset: -2px; border-radius: 9px; }
+
+/* ---------- sliders ---------- */
+
+.ds-slider-row {
+  display: grid;
+  grid-template-columns: minmax(0, 7rem) minmax(0, 1fr) 3.5rem;
+  align-items: center;
+  gap: 12px;
+}
+
+.ds-slider-label {
+  font-size: var(--size-12);
+  line-height: 16px;
+  color: var(--ink-2);
+}
+
+.ds-slider-value {
+  font-family: var(--type-mono);
+  font-size: var(--size-12);
+  line-height: 16px;
+  color: var(--ink-1);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.ds-slider,
+.ds-range-thumb {
+  appearance: none;
+  width: 100%;
+  height: 20px;
+  margin: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.ds-slider::-webkit-slider-runnable-track {
+  height: 4px;
+  border-radius: var(--radius-full);
+  background: linear-gradient(90deg, var(--solid) 0 var(--ds-fill-to), var(--gray-5) var(--ds-fill-to) 100%);
+}
+
+.ds-slider::-moz-range-track {
+  height: 4px;
+  border-radius: var(--radius-full);
+  background: linear-gradient(90deg, var(--solid) 0 var(--ds-fill-to), var(--gray-5) var(--ds-fill-to) 100%);
+}
+
+.ds-slider::-webkit-slider-thumb,
+.ds-range-thumb::-webkit-slider-thumb {
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  margin-top: -5px;
+  border: 0;
+  border-radius: var(--radius-full);
+  background: var(--solid);
+  box-shadow: 0 0 0 3px var(--ring-soft);
+  transition: box-shadow var(--dur-150) var(--ease-standard);
+}
+
+.ds-slider::-moz-range-thumb,
+.ds-range-thumb::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border: 0;
+  border-radius: var(--radius-full);
+  background: var(--solid);
+  box-shadow: 0 0 0 3px var(--ring-soft);
+}
+
+.ds-slider:focus-visible,
+.ds-range-thumb:focus-visible {
+  outline: none;
+}
+
+.ds-slider:focus-visible::-webkit-slider-thumb,
+.ds-range-thumb:focus-visible::-webkit-slider-thumb {
+  box-shadow: 0 0 0 4px var(--ring);
+}
+
+.ds-slider:focus-visible::-moz-range-thumb,
+.ds-range-thumb:focus-visible::-moz-range-thumb {
+  box-shadow: 0 0 0 4px var(--ring);
+}
+
+.ds-range {
+  display: grid;
+  gap: 6px;
+  min-width: 0;
+}
+
+.ds-range-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.ds-range-track {
+  position: relative;
+  height: 20px;
+}
+
+.ds-range-track::before {
+  content: "";
+  position: absolute;
+  inset: 8px 0;
+  border-radius: var(--radius-full);
+  background: linear-gradient(90deg, var(--gray-5) 0 var(--ds-fill-from), var(--solid) var(--ds-fill-from) var(--ds-fill-to), var(--gray-5) var(--ds-fill-to) 100%);
+}
+
+/* Two stacked inputs share the track; only their thumbs take the pointer. */
+.ds-range-thumb {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.ds-range-thumb::-webkit-slider-runnable-track { height: 4px; background: transparent; }
+.ds-range-thumb::-moz-range-track { height: 4px; background: transparent; }
+.ds-range-thumb::-webkit-slider-thumb { pointer-events: auto; cursor: grab; }
+.ds-range-thumb::-moz-range-thumb { pointer-events: auto; cursor: grab; }
+
+/* ---------- chip ---------- */
+
+.ds-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  flex: none;
+  max-width: 100%;
+  height: var(--control-24);
+  padding: 0 8px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-8);
+  background: var(--fill);
+  color: var(--ink-2);
+  font-size: var(--size-12);
+  font-weight: 500;
+  line-height: 16px;
+  white-space: nowrap;
+  transition:
+    background-color var(--dur-150) var(--ease-standard),
+    border-color var(--dur-150) var(--ease-standard),
+    color var(--dur-150) var(--ease-standard);
+}
+
+button.ds-chip { cursor: pointer; }
+@media (hover: hover) and (pointer: fine) {
+  button.ds-chip:hover { border-color: var(--edge-strong); color: var(--ink-1); }
+}
+
+.ds-chip--on {
+  border-color: var(--edge-strong);
+  background: var(--fill-active);
+  color: var(--ink-1);
+}
+
+.ds-chip:focus-visible,
+.ds-chip-remove:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 1px;
+}
+
+.ds-chip-text {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ds-chip:has(.ds-chip-remove) { padding-right: 2px; }
+
+.ds-chip-remove {
+  display: inline-grid;
+  place-items: center;
+  flex: none;
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--ink-3);
+  cursor: pointer;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .ds-chip-remove:hover {
+    background: var(--fill-hover);
+    color: var(--ink-1);
+  }
+}
+
+.ds-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  min-width: 0;
+}

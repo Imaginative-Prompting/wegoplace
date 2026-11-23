@@ -1,0 +1,85 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kabul|AF||6o|2nx|5c5|y7u|Kaboul;Cabul;Kâbil;Kaboel;Caboul;Cabura;Kabol;Kobul;Caubul;Kabura;Cabool
+Caucaia|BR||2w|-ae|-2zd|2x4
+Cầu Giấy|VN||62|1mf|85w|299
+Kaunas|LT||a3|48i|1uf|28e|Kowno;Kauen;Kauņa;Kaŭno;Kawnas;Couna;Kauns;Caunas;Kovno
+Jaunpur|IN||6t|1zj|6dp|1b4|Jawnpur;Caunpur
+Caucasia|CO||27|m7|-5sv|g4
+Cholet|FR||9k|3mq|-2g|es|Šolė;Cauletum
+Caucagüito|VE||2c|t5|-55e|em|Caucaguita
+Cauquenes|CL||4u|-2rx|-5kw|ap
+Caucete|AR||1t|-2fx|-59o|91|Kausetė
+Caucagua|VE||2c|sk|-54e|8u
+Cầu Diễn|VN||62|1mg|85t|7i
+Căuşeni|MD||8x|3lk|29p|61|Keušenis;Kauseni;Kaushani
+Cauto Cristo|CU||36|1l4|-5wf|5w|Cauto el Cristo
+Puerto Leguízamo|CO||27|-j|-5rq|5k|Caucayá
+Caulfield North|AU||8j|-2x7|b6u|4p
+Caudry|FR||9k|3v8|9h|3v
+Causeway Bay|HK||6i|1pw|8t7|3k
+Caulfield South|AU||8j|-2xa|b6v|3f
+Montesarchio|IT||9o|362|14o|2x|Caudium
+Caudete|ES||9d|2zj|-2r|2v|Cabdet
+Caudebec-lès-Elbeuf|FR||9k|3sw|2u|2t
+Cauayan|PH|Western Visayas|71|rp|9gm|2h
+Caudan|FR||9k|3ot|-9a|20|Kaodan
+Caucel|MX||3z|1me|-6x7|1y
+Kauswagan|PH|Northern Mindanao|71|mr|9ko|1x|Causwagan
+Cauayan|PH|Central Luzon|71|163|9b7|1s|San Ildefonso
+Caussade|FR||9k|3eo|4a|1r
+Kauit|PH||71|v3|9kb|1m|Cauit;Kawit
+Caulfield|AU||8j|-2x8|b6u|1l
+Kaulille|BE||8t|3y7|fc|1a|Caulille
+Caumont-sur-Durance|FR||9k|3dx|dr|19|Caumont de Durença
+Calvisson|FR||9k|3dn|bo|13|Cauviçon
+Caulfeild|CA||5b|3t3|-9id|12
+Cawayan|PH|Western Visayas|71|wa|9g6|v|Cauayan
+Cauchy-à-la-Tour|FR||9k|3wa|6t|t|El-Cauchie-à-lTour
+Cawayan|PH|Central Visayas|71|r8|9j5|r|Cauayan;Kawayan
+Caulonia Marina|IT||9o|2yj|19q|q
+Căuaş|RO||8u|3o5|1qn|p|Érkávás
+Caudebec-en-Caux|FR||9k|3tl|21|o
+Caulnes|FR||9k|3q5|-5z|n|Kaon
+Cauffry|FR||9k|3t0|6t|n
+Causwagan|PH||71|nh|9pk|m|Kauswagan
+Caux|FR||9k|3cv|9d|m
+Causapscal|CA||59|3qc|-56r|l
+Coca|ES||9d|36i|-ck|k|Kokao;Cauca
+Causip|PH||71|11k|9ig|k
+Caux|CH||a7|3kz|ja|k
+Caurio de Guadalupe|MX||41|1jc|-7uy|j|Cábrio
+Coldstream|GB||9b|4al|-69|j|An Sruthan Fuar;Cauldstream
+Cantamayec|MX||3z|1kv|-6vg|h|Cautamayec
+Caunes-Minervois|FR||9k|3cd|71|g|Caunas de Menerbés
+Caulfield East|AU||8j|-2x8|b6w|g
+Cautano|IT||9o|36b|14o|g
+Cauville-sur-Mer|FR||9k|3ts|d|e
+Caumont-l'Éventé|FR||9k|3sd|-29|d
+Caulonia|IT||9o|2ym|19l|d
+Cauvigny|FR||9k|3sy|69|d
+Cauro|FR||9k|38g|or|b
+Cauterets|FR||9k|3b5|-b|b|Cautarés
+Caumont|FR||9k|3t5|2i|a
+Cavaillon|HT||4j|1eu|-5ol|a|Kavayon;Cauaillon;Cavailon
+Caudrot|FR||9k|3fu|-e|9|Cauçdròt;Cauç Dròt
+Caudecoste|FR||9k|3ek|22|9
+Caux-et-Sauzens|FR||9k|3c3|6a|8|Caus e Sausens;Caus e Saussens
+Caudete de las Fuentes|ES||9d|31w|-3k|8
+Caugé|FR||9k|3s6|2v|8
+Cauneille|FR||9k|3cz|-2y|8
+Caudiel|ES||9d|32z|-1l|7
+Coaraze|FR||9k|3du|k9|7|Coarasa;Caudarasa
+Caurel|FR||9k|3sy|bj|7
+Caudiès-de-Fenouillèdes|FR||9k|3ax|6m|7|Caudièrs de Fenolhet;Cauders de Fenollet
+Cauday|PE||3o|-l1|-60v|6
+Causses-et-Veyran|FR||9k|3cr|8l|6|Causses e Vairan
+Cauaceu|RO||8u|3n1|1oy|6
+Caussens|FR||9k|3e2|16|6
+Caumont-sur-Garonne|FR||9k|3fg|i|6
+Căuia|RO||8u|3kk|23s|6
+Cauroir|FR||9k|3vd|96|5
+Căuiești|RO||8u|3jt|24z|5
+Căuașd|RO||8u|3lz|1om|5
+Caurio de la Rinconada|MX||41|1jc|-7ux|5
+Caucana-Finaiti-Casuzze-Finaiti N.|IT||9o|2u7|14c|5|Caucana
+Căuești|RO||8u|3md|24i|5

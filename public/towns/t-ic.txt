@@ -1,0 +1,96 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Konya|TR||94|2x7|2i8|b2b|Konjao;Iconium;Iconio;Qonya;Qonye;Konija;Konja;Koʻniya;Qonia;Konia
+Yichang|CN||7i|2db|8l4|af2|Nghi Xương;Jiĉang;I-čchang;Ngì-chiŏng;Ičan;Gî-chhiong-chhī;I-chang;Ichang
+Yichun|CN|Jiangxi|7i|25b|8ts|82k|I-čchun;Nghi Xuân;Ngì-chŭng;Nî-chhûn-sṳ;Gî-chhun-chhī;I-ch’un
+Mersin|TR||94|2u9|2o8|45e|Myrte;İçel;Merson
+Ichikawa|JP||7q|2r9|asn|3tz
+Ichinomiya|JP|Aichi|7q|2q2|ak0|2xl|İtinomiya;Ichinomija;Itinomiya-chhī
+Ichalkaranji|IN||6t|1ad|5qu|27u
+Ichihara|JP||7q|2qo|at4|26r|Iĉihara;Itihara-chhī
+Ica|PE||3o|-134|-5ud|26g|Ika
+Icheon-si|KR||7h|2vk|9u0|1ii|Icheon
+Zhenzhou|CN||7i|2ho|971|1cw|Icheng Ku;I-cheng
+Yichun|CN|Heilongjiang|7i|3ok|9y0|17a|I-čchun;Y Xuân;Ĭ-chŭng;I-chhun-chhī
+Ichinoseki|JP||7q|304|aw1|vt|Ičinosekis;Itinoseki-chhī;Itinoseki;Itschinoseki
+Icó|BR||2w|-hs|-2zy|iz
+Ishim|RU||7z|4bv|5d1|iu|Ischim;Iŝim;Isjim;Ichim;Byen Isjim;Iszym;Ixim
+Yicheng|CN||7i|2g2|8nu|gy|I-ch’eng
+Içara|BR||4w|-27r|-3sy|fw
+Icchannūr|IN||6t|vk|5ui|bb
+Ichchāpuram|IN||6t|1h3|6j9|a5|Ichekapuram;Ichchapur;Ichapuram
+Ichikikushikino|JP||7q|2g5|a1x|8i
+Icatu|BR||2w|-7q|-3ef|7l
+Icod de los Vinos|ES||83|26t|-1af|6o
+Icapuí|BR||2w|-d3|-2vs|5y
+Ichinoe|JP||7q|2r5|ask|5t
+Ijevan|AM||80|35k|3hf|5f|Istibulagh;İcevan;Karvansara;Idschewan;Idjevan;Karvansaray;Iĝevano;Idževan;Idževanas;Iczewan;Idzhevan;Karavansarai;K’aravansaray;K’arvansara
+Issoire|FR||9k|3ii|91|4g|Soire;Iciodurum
+Ichhāwar|IN||6t|1rz|5xy|48
+Icheu|NG||u|lf|it|43
+Ichikawadaimon|JP||7q|2qt|aoq|43
+Ihtiman|BG||9v|39w|1u6|3y|Ichtiman;Ikhtiman
+Ickenham|GB||9b|3z8|-18|3s
+Ichtegem|BE||8t|3xy|8e|3s|Ichteghem
+Ichinomiya|JP|Chiba|7q|2q9|aty|3h|Itinomiya
+Ichora|IN||6t|1hz|61x|3g|Ichoda
+Iconha|BR||4w|-1lr|-35d|3f
+Ichchhapor|IN||6t|1mv|5m2|3d
+Ichinohe|JP||7q|33q|awh|3d|Ehinohe;Itschinohe;Itinohe;Ichinobe
+Ichikai|JP||7q|2ti|at6|35
+Icononzo|CO||27|bm|-5r1|30
+Icaraí de Minas|BR||4w|-192|-3gq|2z|Icarai
+Ichki|UA||9t|3hy|2p0|2w|Sovyetskyi;Sovietskyi;İçki
+Ichnia|UA||98|3xa|2hz|2w|Ichnya
+Hijuelas|CL||4u|-2j4|-5hn|2s|Ichuelasas
+İçmeler|TR|Muğla|94|2u8|26f|2o
+Icaraíma|BR||4w|-1t0|-44x|2i
+Ichenhausen|DE||8r|3qd|sn|2d
+Icém|BR||4w|-1ki|-3sn|26
+Ich Hau|VN||62|1f9|861|23
+Ichiba|JP|Nagano|7q|2qr|an2|1s
+Ichu|BR||20|-wn|-30v|1q|Inchu
+Icuseşti|RO||8u|3m0|22t|1a
+Ichhanagari|IN||6t|1r1|6sq|19
+Iclod|RO||8u|3mi|1u4|18
+Ichtershausen|DE||8r|3xc|uh|13
+Ichán|MX||41|1j6|-7vh|13
+Ichon|PH||71|s1|9my|12
+Icking|DE||8r|3p7|vr|10
+Icaño|AR||1m|-28c|-51h|w
+Ichenheim|DE||8r|3qj|lp|u
+Ichhapur|IN||6t|1qv|6ss|u
+Hīchān|IR||7o|217|4mv|t|Ichān;Hīshān
+Ichigaya-honmurachō|JP||7q|2r5|as5|r
+Icard|US||48|2r9|-6ab|r
+Icoana|RO|Olt|8u|3fe|1wo|n
+Iclănzel|RO||8u|3l9|1vg|n|Iclănzeiu;Iclăuşel
+Īch|IR||7o|2t9|3px|l
+Ichhāli|BD||6a|1sj|6vw|j
+İçören|TR||94|2wc|366|h
+Ixcateopan|MX||41|1cy|-7lo|e|Ichcateopan
+Icușeni|RO|Botoșani County|8u|3o7|21w|e
+Icxotitla|MX||41|1k8|-7ki|e
+İçmeler|TR|Istanbul|94|35h|29f|e|Ichlemer
+I. C. Brătianu|RO||8u|3i5|25x|c
+Senokosnoye|UA||9t|3j1|2l4|b|Ički
+Icoana|RO|Giurgiu County|8u|3fl|1zj|a
+Ichiba|JP|Nagano|7q|2qr|anh|a
+Ich-Ek|MX||3z|1it|-6xx|a|Ich Ek
+Icklesham|GB||9b|3xg|1v|9
+Ichmul|MX||3z|1k0|-6u5|9|Ychmul
+Ičići|HR||a6|3hv|13o|8
+Ichstedt|DE||8r|3yq|v4|7
+Ichupampa|PE||3o|-17h|-5j5|7
+Ickleton|GB||9b|40n|i|7
+Ickford|GB||9b|3zs|-2y|7
+Iclandu Mare|RO||8u|3l9|1vf|7|Iclandul-Mare
+Ichamio|MX||41|1gn|-7uu|7
+Icantí|PA||4g|pl|-62k|6
+Ichocán|PE||3o|-kh|-611|6|Chocan
+Icalumtic|MX||41|1au|-75e|6
+Icușeni|RO|Iași County|8u|3nc|24r|6
+Oingt|FR||9k|3jn|cq|6|Yconium;Iconium
+Ichintón|MX||41|1ak|-75g|5
+Ictzictic|MX||41|1iz|-7i0|5
+Ichic Huaylas|PE||3o|-p4|-605|5

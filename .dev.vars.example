@@ -1,0 +1,5 @@
+# Local settings for `npm run dev`. Copy to .dev.vars (which git ignores) and change the port if
+# yours isn't 8788. Open the app at exactly this address: a passkey made at http://localhost
+# doesn't work at http://127.0.0.1.
+PUBLIC_ORIGIN=http://localhost:8788
+RP_ID=localhost

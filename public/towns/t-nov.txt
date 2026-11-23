@@ -1,0 +1,43 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nov|TJ||6d|33j|5cp|3u
+Nov|IL||6n|2j7|2re|a
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Navi Mumbai|IN||6t|1gw|5mu|k28|New Bombay;Navi Moembaai;Novmumbajo;Nova Bombaim;Navi Mumbaj
+Novosibirsk|RU||75|48u|6ed|cg0|Novo-Nikolaevsk;Novonikolayevsk;Nowosibirsk;Novossibirsk;Nowosybirsk;Novoszibirszk;Novosibirscum;Nowosibirski;Novo-Nikolaïevsk
+Nizhniy Novgorod|RU||9i|4ch|3e8|9pq|Nizjnij Novgorod;Nizhny Novgorod;Nischni Nowgorod;Nijni Novgorod;Gorkij;Nižni Novgorod;Nyizsnyij Novgorod;Nizhni Nóvgorod;Nizhni Novqorod;Nishni-Nowgorod;Gorkii;Nižnij Nowgorod;Gor'kiy;Nishnii Nowgorod;Gorki;Nizhnii Novgorod;Nishnij Nowgorod;Nijnii Novgorod
+Dnipro|UA||98|3qn|2pc|7h1|Dnjepropetrovsk;Dněpropetrovsk;Dniepropetrovskas;Dnjipropetrovsk;Dniepr;Dnyipro;Dnepr;Novyy Kodak;Katerynoslav;Novorosiynsk;Sicheslav;Dnjipro;Catherinoslav;Caterinoslavia
+Nova Iguaçu|BR||4w|-1r8|-3cp|6i6|Nova Iguasu;Nova Iguassú
+Novokuznetsk|RU||74|45c|6q2|45w|Nowokusnezk;Novokuzněck;Novokuznjeck;Novokoeznetsk;Nowokuźnieck;Novokouznetsk;Novokuzneckas;Cusnezia;Novokuznețk;Nowokoeznetsk;Novokuzņecka;Novokusnetsk;Novokuznyeck
+Newcastle|AU||8l|-2jh|bpm|3x8|Novkastelo;Niukaslas;Niukasel;Nyukasl
+Nova Vida|AO||x|-or|10q|3l6
+Nuevo Laredo|MX||3w|24c|-7og|37l|Nuevo Laredas;Novum Laredum;Novo Laredo
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Newark|US|New Jersey|48|356|-5q1|26b|Ņuarka;Niuarkas;Novarcum
+Porto-Novo|BJ||1b|i2|78|21f|Porto Novo;Porto Novas;Pòto-Novo;Portus Novus;Pòrto Neuvo;Portonovo;Borto-Novo
+Novo Hamburgo|BR||4w|-2ag|-3y1|1yi|Novo Hamburg
+Novorossiysk|RU||9i|3g9|2ww|1v7|Noworossijsk;Novorossijsk;Noworosyjsk;Novorossiisk;Novorossiejsk;Novorosijsk;Noworossiisk;Novorossisk
+Velikiy Novgorod|RU||9i|4ik|2ev|1px|Novgorod;Weliki Nowgorod;Veliki Nóvgorod;Velikij Novgorod;Novogardia Magna;Naugard;Nowogród Wielki;Veliky Novgorod;Naugardas;Hólmgarður;Šuuri Novgorodi;Nowgorod
+Novi Sad|RS||8q|3hp|1j4|1nu|Újvidék;Nowy Sad;Novisada;Neusatz;Nový Sad
+Târgu Mureş|RO||8u|3la|1w8|1n4|Neumarkt am Mieresch;Tîrgu Mureș;Marosvásárhely;Novum Forum Siculorum;Neumarkt;Vásárhely;Nai Muark;Maros-Vásárhely;Târgul-Mureş;Turgul Mures;Tyrgu-Muresh
+Novi Beograd|RS||8q|3gh|1kq|1ma|Novi Belgrade;Nový Bělehrad;Yeni Belgrad;Novbeogrado;Nowy Belgrad;Nova Belgrado;New Belgrade
+Nova Friburgo|BR||4w|-1pw|-3a5|1gr|Nueva Friburgo
+Novozavodskyi|UA||98|3z1|2eu|1dw
+Novocherkassk|RU||9i|3nq|33d|1ae|Nowotscherkassk;Novoĉerkassk;Novotcherkassk;Nowoczerkask;Novotšerkassk;Novotjerkassk;Novotsjerkassk;Nowotsjerkassk;Novočerkaskas;Novočerkaska;Novocserkasszk;Novocherkask;Nowotscherkask
+Newport|GB|Wales|9b|3zb|-8c|18v|Casnewydd;Novus Burgus;Niuportas;Nyuport;Trefdraeth;Ņūporta
+Neuss|DE||8r|3y8|il|16d|Novaesium;Nüüß;Nüss;Noisas;Nuus
+Melitopol|UA||98|3m5|2qa|15d|Kyzyl-Yar;Novoalexandrovka;Qız Yar
+Novyye Kuz’minki|RU||9i|4aq|2wv|13q
+Rayon KhTZ|UA||98|3uq|2t1|10e|New Kharkiv;KhTZ District;KhTZ Settlement;Novyi Kharkiv;Novyy Kharkiv;Sotsmistechko Novyi Kharkiv;Sotsmistechko Novyy Kharkiv
+Novomoskovsk|RU||9i|461|2yd|10e|Nowomoskowsk
+New Haven|US|Connecticut|48|36r|-5ml|107|Novus Portus;Ņūheivena;Nyu-Heyven;Niu Heivenas
+Novocheboksarsk|RU||9i|4bv|3nw|zp|Nowotscheboksarsk;Novoĉeboksarsk;Novotšeboksarsk;Novotsjeboksarsk
+Nova Lima|BR||4w|-1jj|-3dt|xm
+Novo-Peredelkino|RU||9i|4al|2vq|w3
+Nova Serrana|BR||4w|-1j8|-3gy|vw
+Novokuybyshevsk|RU||9p|43i|3uq|v2|Novokujbysjevsk;Nowokuibyschewsk;Novokúibyshevsk;Novokouïbychevsk;Novokujbyševsk;Novokoejbysjevsk;Novokujbiŝevsk;Novokuibõševsk;Novokuibyševsk;Novokuibyševskas;Novokuibîșevsk;Nowokujbyszewsk;Nowokujbyšewsk;Novokujbisevszk;Novo-Kuybyshevskiy
+Novobavarskyi|UA||98|3ur|2sg|u1
+Novo Gama|BR||4w|-18m|-3pg|tx
+Berdyansk|UA||98|3lw|2u7|tj|Osipenko;Berdiansk;Novo-Nogaisk;Kutur-Ogly;Berdjansk;Berdiansca;Berdjans'k

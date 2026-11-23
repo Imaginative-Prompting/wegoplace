@@ -1,0 +1,140 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mosul|IQ||5z|2sy|3bs|czi|Mossul;Mossoul;Mûsil;Mosoel;Musul;Moszul;Mausilium;Moussoul
+Maoming|CN||7i|1o7|8k3|a3a|Mao-ming;Meu-miàng-sṳ;Mậu Danh;Bō͘-bêng-chhī;Chaozhou;Mâiu-mìng
+Mudanjiang|CN||7i|3fr|a03|54z|Mu-tan-ťiang;Mudancjan;Mudandziangas;Mẫu Đơn Giang;Mū-dăng-gĕ̤ng;Bó͘-tan-kang-chhī;Mutankiang;Mu-tan-chiang
+Mawlamyine|MM||7y|19t|7j7|3dx|Moulmein;Maulamiain;Molamjainas;Mulmejn;Mawlamyaing;Mulmain;Molamyaing
+Mauá|BR||4w|-1tr|-3l2|387
+Mau|IN|Uttar Pradesh|6t|202|6g4|1wd
+Cà Mau|VN||6h|pi|843|1qw|Ka Mau;Cu Mau;Kamao
+Maumere|ID||70|-ny|9fh|od|Mauniere;Maomere;Maoemere
+Maun|BW||m|-1ji|1t2|nq
+Mountain View|US|California|3p|2vv|-9f4|mc|Prospectus Montis;Mauntin Vyu;Mountainview
+Mauban|PH||71|13f|9e5|jh
+Maués|BR||3t|-9e|-4gc|i2
+Maulavi Bāzār|BD||6a|1w1|72x|fy|Moulvi Bazar;Maulvi Bāzār;Moulvibazar
+Mauriti|BR||2w|-kj|-2zp|co|Maurity
+Maubin|MM||7y|1ah|7dp|bs|Manbin
+Maudaha|IN||6t|1zc|66j|ai
+Maubeuge|FR||9k|3vo|b1|9d|Malbodium;Maubeuche
+Maur|IN||6t|2bk|5t1|8u
+Mauganj|IN||6t|1wj|6bf|7c
+Mount Gambier|AU||8b|-2x3|av2|74|Mont Gambier;Mt Gambier;Mt. Gambier;Maunt Gambjeras;Mauntgambjera;Monto Gambier
+Mauldin|US||48|2om|-6cn|6z
+Maua|KE||16|n|2xe|65
+Mau|IN|Madhya Pradesh|6t|20z|62j|5l
+Mau Aimma|IN||6t|1ze|6bk|5l|Mau Aima
+Maurepas|FR||9k|3rg|5d|5a
+Mauguio|FR||9k|3d6|b5|53|Condado de Melguelh;Mauguòu;Melgorium
+Mount Isa|AU||8c|-1ll|ari|53|Mont Isa;Mt Isa;Mt. Isa;Maunt Iza;Mount Iza
+Maumelle|US||2f|2ov|-74o|4z
+Maubara|TL||6b|-nx|9nt|4j|Maubarú
+Maullín|CL||4u|-37m|-5og|4c
+Maurānwān|IN||6t|21f|68o|45|Maurāwān
+Mauda|IN||6t|1mr|64k|42|Maunda;Mouda
+Maumee|US||48|37g|-6gd|3v
+Mau Narok|KE||16|-1p|2s1|3a
+Mauli Jagran|IN||6t|2d9|5xf|30
+Maurilândia|BR||4w|-1dx|-3vu|2v
+Mauá da Serra|BR||4w|-1ue|-3yb|2m
+Maoli|IN||6t|1wu|5pi|2k|Mauli;Māvli
+Maunula|FI||92|4nb|1x9|24|Månsas
+Maule|CL||4u|-2qo|-5j5|22
+Maulawin|PH||71|13n|9db|1w
+Maulbronn|DE||8r|3s4|og|1w
+Mordelles|FR||9k|3pk|-55|1t|Morzhell;Mauricella
+Maule|FR||9k|3rv|55|1r
+Maudsland|AU||8c|-25n|btr|1j
+Maurage|BE||8t|3w6|be|1f
+Milly-la-Forêt|FR||9k|3qg|6v|1d|Mauriliacum
+Maungu|KE||16|-9w|2zn|1b|Marungu
+Mauren|LI||a0|3n6|qi|18
+Mauston|US||2f|3do|-6y8|18
+Maungaraki|NZ||ak|-36h|dhr|17
+Maura|NO||9j|4ne|un|16
+Mauchline|GB||9b|4a8|-c6|15|Machlainn
+Maulburg|DE||8r|3od|lm|15
+Mauriac|FR||9k|3hm|6h|14
+Mauraro|PH||71|10j|9jc|12
+Maunawili|US||ax|1nd|-c69|11
+Maurecourt|FR||9k|3s4|5q|11
+Mountmellick|IE||8z|43j|-kc|z|Móinteach Mílic;Mauntmelikas
+Mozac|FR||9k|3jh|8m|z|Mausac
+Mauer|DE||8r|3t2|og|z
+Mauron|FR||9k|3pk|-6d|y|Maoron
+Maunatlala|BW||m|-1qs|24r|y|Monnatlala
+Mauerbach|AT||a2|3q1|18x|x
+Mauléon-Licharre|FR||9k|3c2|-2h|x|Maule-Lextarre;Mauleón;Mauleo;Maulion
+Maurik|NL||8m|40c|f2|x
+Mauriceville|US||2f|2bw|-78r|x
+Maurilândia do Tocantins|BR||1k|-gj|-3nz|w
+Maugansville|US||48|329|-5zy|v|Morgansville
+Mauerstetten|DE||8r|3p1|tn|t
+Mautern|AT||a2|3qf|17a|t
+Maulévrier|FR||9k|3ml|-22|t
+Mauern|DE||8r|3qs|x2|s
+Maure-de-Bretagne|FR||9k|3p1|-5j|r|Anast
+Maugat West|PH||71|12i|9cw|q|Maugat
+Maununneva|FI||92|4nd|1x7|q|Magnuskärr
+Marmoutier|FR||9k|3r9|ki|q|Maursmünster
+Mauves-sur-Loire|FR||9k|3ne|-3v|q|Malvid;Malva;Mauve-sur-Loire
+Mauth|DE||8r|3rt|11q|q
+Mauboh|PH||71|gn|9cd|q
+Măureni|RO||8u|3i4|1nq|q
+Maubourguet|FR||9k|3cr|3|p|Mauborguet
+Maureillas-las-Illas|FR||9k|3a1|7t|p|Morellàs;Maureillas;Morellàs i les Illes
+Mauzé-sur-le-Mignon|FR||9k|3kc|-1v|p
+Maurach|AT||a2|3nq|wn|p
+Mauerkirchen|AT||a2|3pv|10h|o|Maurkirchen
+Maulden|GB||9b|40j|-1b|o
+Mauhao|PH||71|y5|9cy|n|Maujao
+Maugeri|IT||9o|2wf|160|n
+Mauer bei Amstetten|AT||a2|3pm|154|n
+Maurs|FR||9k|3g7|64|n
+Maussane-les-Alpilles|FR||9k|3dg|dc|m|Maussane;Maussana deis Aupilhas;Mauçana;Maussanne
+Maunabo|PR||4m|1e1|-532|m
+Nedožery-Brezany|SK||8s|3rm|1fs|l|Nádasérberzseny;Mauth bei Deutschproben
+Mauzé-Thouarsais|FR||9k|3mi|-s|l
+Myaundzha|RU||6z|4v4|bcu|k|Mjaundzja;Mjaundscha;Mjaundža;Mâunca;Miaundża;Mjaoendzja;Miàundja
+Mauvezin|FR||9k|3dh|2g|j
+Maugerville|CA||43|3jf|-54l|i
+Maury|US||48|2qk|-5zj|h
+Maubec|FR|Provence-Alpes-Côte d'Azur|9k|3ds|ea|h
+Mountrath|IE||8z|438|-kr|h|Maighean Rátha;Mauntratas
+Maureilhan|FR||9k|3cg|8o|g
+Maubec|FR|Auvergne-Rhône-Alpes|9k|3il|em|f
+Maupuia|NZ||ak|-36q|dhm|f
+Maubray|BE||8t|3wf|9q|d
+Maurice|US||2f|2bn|-73w|d
+Mauterndorf|AT||a2|3mx|120|d|Mautterndorf
+Mauensee|CH||a7|3n1|mf|c
+Mautern in Steiermark|AT||a2|3no|157|c|Mautern Steiermark
+Maubert|CI||0|f9|-91|c
+Mauves|FR||9k|3h4|df|b
+Maud|US|Oklahoma|2f|2pl|-7gu|b
+Maud|US|Texas|2f|2kl|-7a2|b
+Morje|SI||9a|3l0|17e|a|Mauerbach
+Maungatapere|NZ||ak|-2rb|dfw|a
+Mauchenheim|DE||8r|3u4|md|a
+Maubert-Fontaine|FR||9k|3uj|cb|a
+Maurens|FR||9k|3gu|1c|9
+Maury|FR||9k|3ax|77|9
+Maungaturoto|NZ||ak|-2sa|dgd|9
+Maulévrier-Sainte-Gertrude|FR||9k|3tn|21|9
+Mauzac|FR|New Aquitaine|9k|3gm|28|9|Mausac e Grandcastanh;Mausac e Grand Castanh
+Maulde|FR||9k|3wa|9j|9
+Maumusson|FR||9k|3nw|-33|9|Malvegon
+Maud|GB||9b|4fs|-5x|9
+Mauthausen|AT||a2|3q0|14c|8
+Meaulne|FR||9k|3lg|7a|8|Maulne
+Maurertown|US||48|305|-61y|8
+Mauzac|FR|Occitanie|9k|3ci|3l|8
+Maulette|FR||9k|3rj|4i|8
+Mauthen|AT||a2|3ln|104|7
+Maulde|BE||8t|3wm|9v|7
+Mauprévoir|FR||9k|3k9|1g|7
+Maury City|US||2f|2rh|-6vv|7
+Mauves-sur-Huisne|FR||9k|3ql|1q|7
+Maucallacta|PE||3o|-11o|-5o5|6
+Mauer bei Melk|AT||a2|3pz|16u|6
+Mauern|AT||a2|3mu|vv|6
+Maurupt-le-Montois|FR||9k|3rf|dh|6|Maurupt-et-le Montois

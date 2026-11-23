@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Chennai|IN||6t|10d|670|104b|Madrás;Ćennaj;Ĉenajo;Čennai;Csennai;Čenaj;Maderaspatanum;Čenajus;Çenay
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Chicago|US||2f|389|-6rh|kk5|Ĉikago;Sicagum;Čikaga;Şikago;Chicagu;Chikago;Kikako;Tsikago;Çikaqo;Chi-kâ-kô;Čėkaga;Shikago
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Kayseri|TR||94|2zl|2ql|b7h|Cesarea in Cappadocia;Kajseri;Cesarea;Cesarea de Capadocia;Kaiseris;Caesarea in Cappadocia;Qayseri;Kaiseri;Caesarea;Casarea;Césarée;Kaisaria;Kaisarie
+Jinjiang|CN|Fujian|7i|1wy|95d|axe|Tấn Giang;Chìn-kang-chhī;Céng-gŏng;Tsìn-kông-sṳ
+Jamshedpur|IN||6t|1rc|6nf|ac2|Ĝamŝedpur;Dzsamsedpur;Cemşidpur;Džamšedpuras;Džamšedpura;Jamshidpur;Džamšedpur;Jarnshedpur
+Zigong|CN||7i|29i|832|9ql|Tự Cống;C-kung;Cê̤ṳ-góng;Chū-kòng-chhī
+Chelyabinsk|RU||7z|498|4qn|9a0|Tscheljabinsk;Cheliábinsk;Čeljabinsk;Ĉeljabinsko;Tšeljabinsk;Tcheliabinsk;Čeļabinska;Tsjeljabinsk;Czelabińsk;Tjeljabinsk;Çelyabinsk;Čeliabinskas;Celiabinsc;Celeabinsk;Cseljabinszk;Čeläbinsk;Tsyelyabinsk;Txeliabinsk;Celiabinsca
+Jacksonville|US|Florida|48|2c9|-6au|7si|Ĝaksonvilo;Iacsonvilla;Iacsoniapolis;Džeksonvila;Džeksonvilis;Ceksonvill
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Chengde|CN||7i|35r|93o|73o|Čengdė;Thừa Đức;Čcheng-te;Sìng-dáik;Sêng-tek-chhī;Chengteh;Ch’eng-te
+Genoa|IT||9o|3fc|ou|4h5|Genova;Genua;Janov;Ĝenovo;Gênes;Genuja;Cenova;Dženova;Zena;Xénova
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Jincheng|CN||7i|2qm|8pf|3oh|Tấn Thành;Céng-siàng;Chin-ch’eng;Tsincheng
+Central Coast|AU||8l|-2kv|boh|2oa|Costa Central
+Celaya|MX|Guanajuato|41|1l0|-7s1|2mk|Selaja
+Cherepovets|RU||9i|4k9|2xa|2fp|Tscherepowez;Tšerepovets;Čerepovec;Czerepowiec;Ĉerepoveco;Tsjerepovets;Čerepoveca;Čerepovecas;Cerepoveț;Txerepovets;Cserepovec;Tjerepovets;Çerepovets;Čerjepowjec;Cherepovetz
+Ceilândia|BR||4w|-17x|-3pp|27q
+Chernihiv|UA||98|3z3|2ex|26j|Tschernihiw;Czernihów;Ĉernigivo;Ĉernihivo;Csernyihiv;Tsjernihiv;Tšernihiv;Czernihovia;Chernígov;Černihiv;Çernigiv;Tjernihiv;Černihiw;Černihov;Černigovas;Txerníhiv;Cernigău;Tšernigiv;Černigov;Çerniqov;Cernigovia;Tschernigow
+Jalālābād|AF||6o|2nn|5fp|23j|Dschalalabad;Dżalalabad;Celalabad;Jalolobod;Jelalabad;Dzhelalabad;Djelalabad
+Cherkasy|UA||98|3tc|2h2|22y|Tscherkassy;Tcherkassy;Čerkasy;Czerkasy;Cserkaszi;Tsjerkasy;Tšerkassõ;Tšerkasy;Ĉerkaso;Çerkassi;Çerkası;Čerkasai;Circassium;Tjerkasy;Txerkasy;Tcherkássi;Tsjerkasi;Txerkassi;Čerkasad;Cherkassy
+Chernivtsi|UA|Chernivtsi|98|3q5|201|21f|Tschernowitz;Czernowitz;Cernăuți;Tsjernivtsi;Czerniowce;Tjernivtsi;Ĉernivco;Černovice;Çernivtsi;Tšernivtsi;Txernivtsí;Černivci;Csernyivci;Černovci;Czernovicum;Černivciai;Chernovsi;Cernovizza;Csarnóca;Chernovtsy
+Częstochowa|PL||a5|3x4|1h4|1wx|Tschenstochau;Čenstakava;Čenstohova;Čenstochová;Czenstochau;Czynstochowy;Khìm-sṳ̂-thok-khok-ngá;Çenstoxova;Chenstochov
+Centurion|ZA||o|-1zu|26b|1tq
+Chesapeake|US|Virginia|48|2ua|-5vv|1te|Česapikas;Chesapeack
+La Ceiba|HN|Atlántida Department|56|17s|-6p2|1pp|La Seiba
+La Ceiba|HN|Atlántida Department|56|17t|-6p7|1o0|La Seiba
+Centralniy|RU||9i|4mh|2cc|1nm
+Geneva|CH||a7|3kc|h3|1k1|Genf;Ginebra;Genève;Ženeva;Ĝenevo;Xenebra;Jenewa;Ginevra;Genava;Genewa;Genebra;Genevra;Cenevre;Jenwe;Janeva
+Kowloon City Centre|HK||6i|1q1|8t7|1hz
+Cergy-Pontoise|FR||9k|3s8|5s|1ey
+Chetumal|MX||2b|1fg|-6ta|1ay|Četumalis
+Centro Habana|CU||36|1s9|-6ct|17y
+Madrid Centro|ES||9d|34a|-aa|15l|Madrid City Center
+Le Mans|FR||9k|3pc|k|145|Le Manas;Cenomanum;Lo Mans;Ar Mañs;Lemāna
+Cerro|CU||36|1s7|-6cu|10s
+Cedar Rapids|US||2f|38p|-72k|108

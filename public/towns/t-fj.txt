@@ -1,0 +1,12 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Fjerritslev|DK||8y|4el|pr|x|Fjerreslev
+Fjärås kyrkby|SE||9w|4fm|xu|o
+Fjugesta|SE||9w|4kd|15b|m
+Viöl|DE||8r|47l|pi|k|Fjolde;Fjåål
+Fjälkinge|SE||9w|4bo|13o|i
+Reyðarfjörður|IS||87|50n|-13i|e|Reyðarfjörð;Reyðarfirði;Reyðarfjarðar;Fjarðabyggð
+Fjellfoten|NO||9j|4mx|vv|a
+Fjärdhundra|SE||9w|4m2|1b0|9|Fjärhundra
+Fjällbacka|SE|Västra Götaland|9w|4is|vc|9
+Fjellstrand|NO||9j|4m3|th|8|Fjeldstrand
+Fjällbacka|SE|Västra Götaland|9w|4k1|yx|8

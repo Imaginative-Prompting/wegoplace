@@ -1,0 +1,19 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wuhan|CN||7i|2cy|8tf|2y0e|Vuhano;Uhaņa;Vũ Hán;uuxan;Uxan;Vú-hon-sṳ;Wu-chan;Uhanas;Vuhan;Vuhani;Vujhan;Bú-hàn-chhī;Ū-háng;Uhan
+Umeå|SE||9w|4xb|1ka|106|Uumaja;Uma;Umeo;Ubmi
+Sosnovyy Bor|RU||9i|4me|28t|j2|Sosnovyj Bor;Uustia;Sosnovy Bor;Sosnowy Bor;Sosnovi Bor
+Novaya Derevnya|RU||9i|4mn|2c5|5k|Uusikylä
+Uusikaupunki|FI||92|4ow|1nh|44|Nystad;Neostadium;Ūsikaupunki;Nyustad
+Novoye Devyatkino|RU||9i|4mu|2co|32|Novoje Devjatkino;Uusi-Miina;Uuši Miina;Uz' Devätkino;Nowoje Dewjatkino;Nowoje Diewiatkino
+Novaya Ladoga|RU||9i|4my|2hq|2p|Novaja Ladoga;Uusi Laatokka;Nowoja-Ladoga
+Outapi|NA||1f|-1cm|15m|24|Uutapi
+Nykarleby|FI||92|4wg|1ql|23|Uusikaarlepyy;Carolina Nova;Nyukarlebyu
+Uurainen|FI||92|4tm|1yp|11
+Uus-Lavola|FI||92|4pk|262|p
+Vysotsk|RU||9i|4of|27d|j|Uuras;Wyssozk;Vyssotsk;Vysock;Vısotsk;Visock;Võssotsk;Wysock;Visocka;Trångsund;Uuraa;Uras;Trongsund;Tranzund;Transund
+Uummannaq|GL||4e|5gb|-40t|e|Umanaks;Umanakas;Umanak
+Uusikylä|FI||92|4qu|1u7|d
+Uuemõisa|EE||9x|4jq|1tj|b
+Ohnenheim|FR||9k|3pu|kv|8|Uune
+Uukuniemi|FI||92|4rn|2bd|5
+Uulu|EE||9x|4hw|1wb|5|Ulu

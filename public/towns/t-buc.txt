@@ -1,0 +1,190 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bucharest|RO||8u|3ff|20j|ehg|București;Bucarest;Bukareŝto;Bukarest;Bukurešť;Bucaresta;Bukareštas;Bukareste;Boekarest;Bukareszt;Bucareste;Bukureshta;Bükreş;Bukureshti;Buxarest;Bukarešta
+Fuzhou|CN|Jiangxi|7i|25o|8z5|8er|Ū-ciŭ;Fu-čou;Vù-chû-sṳ;Phủ Châu;Bú-chiu-chhī;Fu-chou
+Bucheon-si|KR||7h|2w6|9s6|6kb|Bucheon
+Bucaramanga|CO||27|jt|-5n4|4hf|Bukaramanga;Bucaramango
+Bukhara|UZ||7g|32h|4yz|25u|Buchara;Bujará;Boukhara;Buhara;Bucara;Buxoro;Buxara;Buĥaro;Buhhaara;Bochara;Bukhaara;Buhar;Bokhara
+Buchanan|LR||15|gc|-rx|l3|Fish Town;Grand Bassa;Byukenen;Biukenenas
+Buckley|GB||9b|43p|-8k|ho|Bwcle
+Buckeye|US||4i|2kp|-8oq|e5|Bakajus;Bakaja
+Bucha|UA||98|3wf|2bx|br|Boetsja;Butsja;Buča;Butscha
+Buco Zau|AO||x|-d9|yv|be|Bucco-Lau
+Buchholz in der Nordheide|DE||8r|445|rf|bc|Gemeen Bookholt
+Buckow|DE|State of Berlin|8r|41m|11c|b5
+Bucak|TR||94|2w2|2d0|84
+Bückeburg|DE||8r|416|p5|5c|Bückeborch
+Buchen in Odenwald|DE||8r|3tk|pw|52
+Buckingham|CA||59|3in|-5ti|4n
+Buckhall|US||48|2zl|-5z3|4j
+Bucerías|MX||21|1lo|-84m|4i|Buserias
+Buco|PH||71|134|9c3|3o|Buca
+Buco|AO||x|-qk|18v|3o
+Buckingham|GB||9b|40g|-2r|3l
+Buchheim|DE|North Rhine-Westphalia|8r|3xj|ji|3k
+Buch|DE|State of Berlin|8r|427|11i|3j
+Buchach|UA||98|3sa|1yj|3e|Buczacz;Butschatsch;Bučač;Butjatj;Bitshutsh;Boutchatch;Boetsjatsj;Butšatš;Bučačas;Bučača;Butsjatsj;Buceaci
+Buchloe|DE||8r|3pg|tt|3c
+Bucyrus|US||48|35d|-6ei|3b
+Buckhurst Hill|GB||9b|3ze|3|3a
+Buchs|CH|Saint Gallen|a7|3n1|qc|2w|Pogius
+Bucov|RO||8u|3gx|20g|2v
+Bucklands Beach|NZ||ak|-2ue|dhu|2n
+Buckie|GB||9b|4g8|-88|2c|Bucaidh
+Buctzotz|MX||3z|1mw|-6un|23|Buctzot
+Buchforst|DE||8r|3xj|jh|20
+Bučovice|CZ||9m|3sj|1b8|1x
+Bucşani|RO|Dâmbovița County|8u|3gn|1z9|1w
+Buchs|CH|Aargau|a7|3nn|mg|1u
+Buc|FR||9k|3ri|5x|1p
+Buckner|US|Kentucky|48|2ym|-6lc|1m
+Buckhannon|US||48|30b|-66v|1l|Buchanon
+Büchen|DE||8r|44k|ti|1i
+Buchrain|CH||a7|3mu|n7|1h
+Büchenbach|DE|Bavaria|8r|3sv|uq|1h
+Bucu|RO||8u|3fx|24d|1g
+Bucecea|RO||8u|3op|21f|1f
+Bucești|RO||8u|3it|24h|1b
+Bucasia|AU||8c|-1mf|bic|1a
+Bucelas|PT||99|302|-pc|1a|Bucellas
+Buciumeni|RO|Dâmbovița County|8u|3hf|1yp|1a
+Buckley|US|Washington|3p|3n0|-9ez|1a
+Buchanan|US|Michigan|2q|387|-6nw|18
+Buckhaven|GB||9b|4c1|-8f|17
+Bucovăţ|RO|Dolj|8u|3f2|1tz|16
+Buczkowice|PL||a5|3u5|1gz|15
+Buckingham|US||48|224|-6b1|14
+Bouxwiller|FR||9k|3rm|ks|14|Buchsweiler
+Büchlberg|DE||8r|3r7|11k|14
+Bucşani|RO|Giurgiu County|8u|3fa|1za|14
+Buchenberg|DE||8r|3oi|sg|13
+Bucovineni|RO||8u|3ox|215|13
+Buch|DE|Bavaria|8r|3py|sa|11
+Buckfastleigh|GB||9b|3w8|-ai|10|Buffestra
+Sarre-Union|FR||9k|3ry|jp|10|Saarunion;Buckenum;Saar-Buckenheim;Saar-Union
+Bucium-Orlea|RO||8u|3im|1rt|z
+Buch|DE|Bavaria|8r|3r5|xs|y
+Bütschwil|CH||a7|3nk|p7|y|Bucinesvilaris
+Buchenbach|DE|Baden-Wurttemberg|8r|3p8|m9|y
+Bukay Pait|PH||71|i8|9ml|y|Bucay Pait
+Buckenhof|DE||8r|3tr|up|x
+Bukal|PH|Calabarzon|71|12n|9dl|x|Bucal
+Buchbach|DE||8r|3q7|y3|v
+Buckner|US|Missouri|2f|30p|-79o|v
+Bucoşniţa|RO||8u|3hu|1pv|u
+Bucksport|US|Maine|48|3ft|-5b4|t
+Buciumi|RO|Sălaj County|8u|3mn|1s3|s
+Buckeye Lake|US||48|32x|-6d3|s
+Buccino|IT||9o|34w|16q|r
+Buckden|GB||9b|419|-p|r
+Buciumeni|RO|Galați County|8u|3js|23u|r
+Buclad|PH||71|kx|9pb|q
+Bucine|IT||9o|3cs|w9|q
+Buch in Tirol|AT||a2|3nl|wn|p
+Bu Craa|EH||k|217|-zi|p|Bou Craa
+Bucovăț|RO|Timiș County|8u|3j4|1ne|p
+Buchlovice|CZ||9m|3sd|1c6|p|Buchlowitz;Buxlovîtse
+Bucsa|HU||8v|3n4|1mc|p
+Buckhorn|US||3p|2yt|-9at|o
+Bucloc|PH||71|1cg|9bq|o|Lamao
+Buch am Ahorn|DE||8r|3tm|qk|o
+Buceş|RO||8u|3ka|1rp|o
+Buchelay|FR||9k|3s2|4n|n
+Bucinişu|RO||8u|3e3|1vd|n
+Buchanan|US|New York|48|36m|-5pe|n
+Bücken|DE||8r|42m|pd|m
+Buciumeni|RO|Ilfov|8u|3fr|204|l
+Buchin|RO||8u|3i1|1pt|l
+Buckland|US||48|3ab|-5m7|k
+Buchholz|DE|Lower Saxony|8r|439|qk|k
+Buchten|NL||8m|3xs|g5|k
+Bucy-le-Long|FR||9k|3t7|9g|k
+Bucureşci|RO||8u|3k5|1rm|j
+Buccheri|IT||9o|2v4|159|j
+Buckfield|US||48|3f1|-5fh|i
+Buccan|AU||8c|-253|btd|i
+Bucium|RO|Alba County|8u|3kf|1si|h
+Bucchianico|IT||9o|39i|13e|h|Rucchiánico
+Büchenbeuren|DE||8r|3uo|k8|g
+Buchdorf|DE||8r|3ri|u3|g
+Buckow|DE|Brandenburg|8r|421|133|g
+Bucovăţ|MD||8x|3n3|272|g
+Buchanan Dam|US||2f|2de|-7lf|f|Bachanan Dam
+Bucșoaia|RO||8u|3o2|1zp|f|Bucşoia
+Bucciano|IT||9o|364|14h|f
+Buchholterberg|CH||a7|3m1|lb|f
+Buciumi|RO|Bacău County|8u|3kc|22e|f
+Buckhead Ridge|US||48|23d|-68p|f
+Buchères|FR||9k|3q0|bf|e
+Buch am Buchrain|DE||8r|3py|xc|e
+Bucaq|AZ||61|364|3nl|e
+Bucquoy|FR||9k|3va|7j|d
+Buchy|FR||9k|3tr|3s|d
+Bučin|MK||9u|36n|1n8|c
+Bucșești|RO||8u|3l4|21u|c
+Bucha|DE||8r|3xc|vz|c
+Bakar|HR||a6|3hv|14d|c|Buccari
+Buchanan|US|Virginia|48|2w9|-65c|c
+Buchanan|US|Georgia|48|2lw|-6kn|c
+Büchel|DE||8r|3vd|jo|b
+Buchholz|DE|Schleswig-Holstein|8r|45z|pm|b
+Buč|SI||9a|3ke|14w|b
+Bucova|RO||8u|3if|1qw|b
+Bucșenești-Lotași|RO||8u|3h1|1xd|b
+Buchbrunn|DE||8r|3u8|s6|b
+Bucșenești|RO||8u|3hu|1wi|b
+Buckeystown|US||48|319|-5z3|a|Buckeys Town;Buckey Town
+Bucca|AU|Queensland|8c|-1x3|bqi|a
+Buch am Wald|DE||8r|3t1|sp|a
+Buczek|PL||a5|3z2|1h8|a
+Buchhofen|DE||8r|3ra|zw|a
+Buch|DE|Rheinland-Pfalz|8r|3v4|kj|9
+Bucșana|RO||8u|3h6|1tv|9
+Bucksport|US|South Carolina|48|2li|-63q|9
+Bucerdea Vinoasă|RO||8u|3k8|1td|9|Bucerda Vincasă;Bucerdea-Vinoasă
+Buciumi|RO|Maramureş|8u|3nv|1t9|9|Bucium
+Bucea|RO||8u|3mf|1r1|8|Királyhágó
+Buckleys|AG||1j|1bf|-4rp|8|Buklee
+Buqan|XK||8q|3a8|1kt|8|Buçan
+Bucklin|US||2f|2wb|-7or|8
+Buchmany|UA||98|3xv|25w|8|Butschmany;Boutchmany;Bučmany;Buçmanı;Buczmany;Bucimanî
+Bucarasica|CO||27|mc|-5mf|8|Bucaracica
+Buchberg|CH||a7|3o5|ns|8
+Buckland Monachorum|GB||9b|3w9|-bh|8
+Buchila|RO||8u|3l2|22o|8
+Buchholz|DE|Lower Saxony|8r|413|pd|8
+Buchs / Zürcherstrasse|CH||a7|3nu|ng|8
+Bucakşeyhler|TR||94|2ud|2ff|7|Bucaksheyhler
+Bucknell|GB||9b|41g|-87|7
+Buciumeni|RO|Călărași County|8u|3ex|21e|7
+Buckley|US|Michigan|2q|3fm|-6m0|7
+Buchkirchen|AT||a2|3py|12y|7
+Buchanan Lake Village|US||2f|2dp|-7lh|7
+Buchcice|PL||a5|3ul|1mb|7
+Buckten|CH||a7|3np|ls|7
+Bucium|RO|Neamț County|8u|3ly|237|7
+Buchheim|DE|Baden-Wurttemberg|8r|3pi|ll|7
+Buchs / Ringstrasse|CH||a7|3nt|ng|6
+Bucovăț|RO|Timiș County|8u|3j7|1pj|6
+Bucey-lès-Gy|FR||9k|3nq|g8|6
+Buch|DE|Rheinland-Pfalz|8r|3vh|lw|6
+Buckmaster's Circle|CA||50|3o4|-42g|6
+Buch|AT||a2|3nx|ra|6
+Bückler-Dörnler|CH||a7|3nz|no|6
+Buchans|CA||50|3rm|-4dy|6
+Buckland|GB||9b|3zk|-47|6
+Bucovicior|RO||8u|3f2|1sv|6|Bucovicioara
+Buckley|US|Illinois|2f|34s|-6sk|6
+Bucoda|US||3p|3m0|-9hb|6
+Buchschachen|AT||a2|3ng|18q|6
+Buchtel|US||48|31m|-6ca|6
+Bucuklu|TR||94|33u|3bm|6|Böcüklü
+Bucuroaia|RO||8u|3md|1pm|6
+Bucca|AU|New South Wales|8l|-2bs|bta|5
+Buchlyvie|GB||9b|4bw|-by|5
+Bucklesham|GB||9b|40j|3j|5
+Bucinișu Mic|RO||8u|3e2|1ve|5|Bucinişul Mic
+Bucita|IT||9o|31b|18t|5
+Buckatunna|US||2f|2fm|-6tx|5|Buckatanna;Bucatunna;Buckatonna;Puckatunna
+Buchs / Buchs (Nord)|CH||a7|3nu|ng|5
+Buckholts|US||2f|2dr|-7hs|5
+Bucareli|MX||44|1za|-7zl|5

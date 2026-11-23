@@ -1,0 +1,43 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Győr|HU||8v|3og|1d0|zx|Raab;Arrabona;Dėras;Jura;Ģēra;Gjur;Iaurinum;Djor;Đer;Javarin
+Jaworzno|PL||a5|3vh|1hj|qt|Javožno;Javožnas;Âvojna;Jaworzyna
+Yawata|JP||7q|2ov|agy|jx|Yavata;Jaŭata;Javata;Yahata
+Yavné|IL||6n|2gk|2oi|g5|Jawne;Jamnia;Javne;Yamnia
+Javānrūd|IR||7o|2op|3l5|f4|Jūānrū
+Jawhar|SO||14|7q|3ie|d3|Jowhar;Giohar;Cavcavcal;Javohar;Jawahar;Johar;Joowhar
+Javea|ES||9d|2zq|h|7s|Xàbia
+Jawor|PL||a5|3xt|18z|6n|Jauer;Javora;Javoras
+Uliastay|MN||6j|3om|7h0|4j|Uliastai;Uliyasutai;Oulia-Sontai;Javkhlant;Uliystoy;Uliasutay;Javhlant;Jawkhlant;Uliassutai;Uliyassutai;Uljasutai;Ulyasutay;Uriyasutai;Wu-li-ya-su-t’ai;Wu-lu-ya-su-t’ai
+Yavoriv|UA||98|3uq|1sy|3k|Jaworów;Jaworiw;Javorov;Javoriv;Javoriva;Iavoriv;Yavorov;Yavoruv
+Yavornytske|UA||98|3qg|2q0|2g|Ilarionové;Javornicke;Jawornyćke;Javornyzke;Ilarionowe
+Yavas|RU||9i|476|3b1|26|Javas;Iavas;Javasz;Jawas
+Javier Rojo Gómez|MX|Hidalgo|41|1jr|-7le|1q
+Jaworzyna Śląska|PL||a5|3xf|19n|1g|Königszelt;Javožina Slonska
+Jāvarsīān|IR||7o|2n5|3t1|1e|Jāversīyān;Javarsiyan;Jāvarseyān;Jāversīān;Jāwar Siān
+Jāverseyān|IR||7o|2n6|3t0|1e|Jāversīān;Javarsiyan;Jāversīyān
+Javādīyeh|IR||7o|2pt|3zj|1c
+Javalera|PH||71|13m|9bw|y|Jalavera
+Javalí Nuevo|ES||9d|2xj|-3e|w
+Javier Rojo Gómez|MX|Quintana Roo|2b|1er|-6uc|t
+Javorník|CZ|Olomouc Region|9m|3vz|1b8|p|Jauernig
+Jā’īnak|IR||7o|27z|3xv|o|Jāvīnak;Jā’enak
+Javānmardī|IR||7o|2fe|3y3|o
+Karkijahan|AZ||61|32k|3lu|n|Javadlar
+Javier|PH||71|nl|9q9|n
+Javené|FR||9k|3q8|-3e|h|Yaoueneg
+Javalí Viejo|ES||9d|2xj|-3c|f|Jabalí Viejo
+Javron-les-Chapelles|FR||9k|3qi|-y|f
+Javier Rojo Gómez|MX|Sinaloa|3x|1yt|-8d2|e
+Jävenitz|DE||8r|41w|vy|c
+Javouhey|GF||2d|fl|-45i|a
+Javerlhac|FR||9k|3il|1k|9
+Javornice|CZ||9m|3vd|19f|9|Jawornitz;Javornic
+Javāsh|IR||7o|2yo|3jc|8|Jevāsh
+Javrezac|FR||9k|3iy|-10|7|Jabrezac
+Javān Qal‘eh|IR||7o|2w6|3jp|7|Javānqal‘eh
+Javorje|HR||a6|3je|17s|7
+Javorník|CZ|South Moravian|9m|3rq|1cp|7
+Javard|IR||7o|2rg|403|7
+Jävre|SE||9w|50z|1no|6|Jäfre
+Javerdat|FR||9k|3jn|2r|5
+Javier Rojo Gómez (Novara)|MX||41|1jn|-7hp|5

@@ -1,0 +1,19 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sfax|TN||1e|2oi|tw|25y|Safakis;Sfaksas;Thaenae;Sfakso;Safakes;Szfaksz;Ṣfaqes;Sfaks;Şafāqis
+Sfântu Gheorghe|RO|Covasna County|8u|3jf|1zm|dx|Sepsiszentgyörgy
+Safed|IL||6n|2jk|2qm|ar|Sfat;Tsefat;Ẕefat;Safet;Tsfat;Cfat;Safad
+Sfizef|DZ||3|2pv|-o|7r|Sfisef
+Sântana|RO||8u|3kr|1nq|3j|Sfânta Ana;Sîntana
+Sferracavallo|IT|Sicily|9o|2y4|10w|26|Sferracavello
+Sartmahmut|TR||94|2yy|25w|1b|Sart;Sardes;Sered;Sard;Sardy;Sardeso;Sardeis;Sfarad;Szardeisz;Sardi;Sarudi;Sardîs;Sfard;Sparda
+Sfântu Gheorghe|RO|Ialomița County|8u|3g1|22j|m|Sfântu-Gheorghe;Sfîntu Gheorghe
+Sforzacosta|IT||9o|3c6|11a|l
+Sferracavallo|IT|Umbria|9o|3ap|xm|k
+Sfinţeşti|RO||8u|3eq|1xq|e
+Sfaranda|IT||9o|2xq|157|d
+Sfârcea|RO||8u|3fl|1tf|b|Sfîrcea
+Sfântu Gheorghe|RO|Tulcea County|8u|3gq|2a7|a|Sfîntu Gheorghe
+Sfakáki|GR||8p|2qa|1wa|8
+Sfânta Elena|RO||8u|3g4|1ob|7|Sântelena;Sfînta Elena
+Sfendámi|GR||8p|349|1qn|7|Sfendhámi;Stendhámi
+Sfikiá|GR||8p|347|1pp|6

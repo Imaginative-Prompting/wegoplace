@@ -1,0 +1,111 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wuhan|CN||7i|2cy|8tf|2y0e|Vuhano;Uhaņa;Vũ Hán;uuxan;Uxan;Vú-hon-sṳ;Wu-chan;Uhanas;Vuhan;Vuhani;Vujhan;Bú-hàn-chhī;Ū-háng;Uhan
+Wuxi|CN|Jiangsu|7i|2fp|9a5|xxc|Usis;Wu-si;Vô Tích;Vuŝio;Vuhszi;Bû-sek-chhī;Ù-sék;Vuzsiz;Vuši;Usi;Wu-hsi;Wusih
+Wenzhou|CN||7i|25s|9b7|kg4|Wen-čou;Venĝou;Wénju shehiri;Wentsjou;Vûn-chû-sṳ;Ôn Châu;Un-chiu-chhī;Ŭng-ciŭ;Vencsou;Vendžou;Yongjia;Wen-chou
+Wuhu|CN||7i|2f3|94z|cby|Wu-chu;Vuĥu;Ù-hù;Bû-hô͘-chhī;Vu Hồ;Ouhu
+Fuzhou|CN|Jiangxi|7i|25o|8z5|8er|Ū-ciŭ;Fu-čou;Vù-chû-sṳ;Phủ Châu;Bú-chiu-chhī;Fu-chou
+Vũng Tàu|VN||6h|sr|89g|3l5|Cap-Saint-Jacques;Saint James;Ville du Cap;Cape Saint James;St. James
+Wuppertal|DE||8r|3ye|jv|2s8|Vupertāle;Vuppertal;Wupperdaal;Vupertalis
+Wollongong|AU||8l|-2nm|bn5|25u|Vulongongas;Vulongongo;Vollonggong
+Wolverhampton|GB||9b|423|-5w|219|Vulverhemptona;Vulverhamptonas;Heantun;Wulfrunehantona;Vulverhempton
+Osan|KR||7h|2v7|9sz|1uc|Vû-sân-sṳ
+Wuhai|CN||7i|328|88q|1oo|Ŭ-hāi;Wu-chaj;Vuhajo;Vû-hói-sṳ;Uhajus;Ô Hải;O͘-hái-chhī
+Worcester|US|Massachusetts|48|39e|-5jg|1ld|Vigornia;Vusteris
+Wuyishan|CN||7i|254|93v|123|Ū-ì-săng-chê;Vũ Di Sơn;Vú-yî-sân-sṳ
+Worcester|GB||9b|40z|-66|s9|Caerwrangon;Vusteris;Wiogoraceastre;Vigornia
+Wufeng|TW||7l|1uu|9ba|i8|Vú-fûng-hiông;Vụ Phong;Bū-hong-khu;Wufong;Wu-feng
+Woonsocket|US|Rhode Island|48|38o|-5in|bj|Vunsoketas;Vūnsoketa
+Woburn|US||48|3a0|-5hn|b0|Vubern
+Vuosaari|FI||92|4n9|1xu|au|Nordsjö;Vuki;Vuokki;Vuokkis;Vuosis;Vuosku;Vusa
+Wodonga|AU||8j|-2sc|bc1|at|Vudonga
+Vuyyūru|IN||6t|19g|68k|a8
+Vushtrri|XK||8q|3ay|1m9|8j|Vuçitërnë;Vučitrn;Vuçitërn;Vıçıtırın;Vicianum
+Boscoreale|IT||9o|359|148|7h|Vuoscoriale;Buscuriali;Nemus Regale
+Budaörs|HU||8v|3nu|1go|6z|Wudersch;Jerša;Erša;Vundeš;Vicus Teuto
+Vught|NL||8m|3zh|ep|6y
+Jardim|BR|Mato Grosso do Sul|2a|-1no|-4by|6o|Vườn
+Vukovar|HR||a6|3hz|1gs|67|Wukowar;Cornacum
+Vulcan|RO|Hunedoara County|8u|3i2|1sn|5i
+Vura|SB||av|-q8|ccf|58|Wura;Ura
+Złotów|PL||a5|448|1bc|54|Zlotuv;Zlotova;Zlotovia;Flatow;Vulatovum
+Wurzen|DE||8r|3yp|ze|48|Worcyn;Vurcene
+Vulcăneşti|MD||8x|3iw|26x|40
+Vuhledar|UA||98|3oq|2vh|3x|Ugledar
+Vuktyl|RU||9i|4xd|4f7|3t|Wuktyl;Vouktyl;Voektyl;Vuktıl;Vuktõl
+Vubatalai|IN||6t|vk|5x8|31
+Vurnary|RU||9i|4a5|3mg|30
+Vụ Bản|VN||62|1ku|84w|2n|Vi Bản
+Waldfeucht|DE||8r|3xv|gn|2l|Vuch
+Vượng Lộc|VN||62|1fc|85p|2h
+Wriezen|DE||8r|42g|139|2a|Vuritza
+Walbersdorf|AT||a2|3om|19m|23|Vujbrštof;Borbolya
+Varshets|BG||9v|3bz|1sp|23|Vrshets;Vershets;Varshetz;Vŭrshets
+Vuores|FI||92|4qn|1u5|22
+Vuhlehirsk|UA||98|3q7|2yb|21|Uglegorsk;Vuhlehirs’k
+Vuokatti|FI||92|4y6|26k|1q
+Wulai|TW||7l|1x2|9dn|1q|Vû-lòi-khî;Vulajus;Ô Lai;U-lai-khu;Olay;Wu-lai
+Woodstock|CA|New Brunswick|43|3k8|-57q|1k|Vudstokas
+Vulcan|RO|Brașov County|8u|3ir|1ym|1j
+Vurpăr|RO|Alba County|8u|3js|1t7|1g
+Valchedram|BG||9v|3dd|1t5|1g|Valtchedram;Vŭlchedrŭm
+Butera|IT||9o|2vb|13e|1b|Vutera
+Vuvulane|SZ||13|-20f|2gk|16
+Varbitsa|BG||9v|3bg|21z|12|Vrbitsa;Vŭrbitsa
+Vultureşti|RO|Suceava|8u|3o0|21h|12
+Valchidol|BG||9v|3ck|24j|11|Vŭlchidol;Valchi Dol;Vǎlči Dol
+Vilhelmina|SE||9w|4zi|1aa|10|Vualtjere
+Vukovije Donje|BA||9r|3fi|1g3|z|Vukovje Donje
+Vucht|BE||8t|3xm|fv|y
+Vulturu|RO|Vrancea|8u|3iq|246|x
+Vuwani|ZA||o|-1sa|2ci|x
+Vurghun|AZ||61|366|3ib|w|Vurğun
+Fulpmes|AT||a2|3mz|vj|u|Vulpmes
+Vulcana Băi|RO||8u|3h8|1yi|u|Vulcana-Băi;Vulcan Bai
+Vultureşti|RO|Olt|8u|3g9|1vk|s
+Vulpeni|RO||8u|3fj|1ug|r
+Vuolijoki|FI||92|4yb|230|q
+Vulcana-Pandele|RO||8u|3h2|1yj|p
+Vũ Quang|VN||62|1f2|853|o
+Vutcani|RO||8u|3l3|25p|o
+Vurpăr|RO|Sibiu County|8u|3ji|1vn|n
+Vultureşti|RO|Vaslui County|8u|3m2|24h|n
+Vulaines-sur-Seine|FR||9k|3qj|7o|n
+Vultureni|RO|Bacău County|8u|3kt|23s|m
+Vulturești|RO|Arges|8u|3h7|1xo|k
+Wulkaprodersdorf|AT||a2|3os|19u|j|Vulkaprodrštof;Vulkapordány
+Vulcan|CA||2s|3w0|-8ql|j
+Vuren|NL||8m|3zz|e1|j
+Vardø|NO||9j|5fh|2ef|j|Vuoreija;Várggát;Vuorea
+Vuadens|CH||a7|3li|ji|i
+A Vương|VN||6h|18d|8ar|i|Vương
+Vuzenica|SI||9a|3lg|164|g
+Vultureni|RO|Cluj County|8u|3mh|1th|g|Borsaújfalu
+Vulcana de Sus|RO||8u|3ha|1yg|e
+Vuhokesa|SB||av|-q8|ccc|d
+Vue|FR||9k|3n4|-58|d|Gwagenez
+Volkstedt|DE||8r|3z8|w4|d|Vulchistedin
+Vuhliar|UA||98|3pe|2xq|c|Vuhlyar;Vuglyar
+Vukatanë|AL||9y|38r|1ib|b|Vukatan;Vukatenë;Vukatana
+Vulcăneasa|RO||8u|3j5|22r|b|Vulcănesisa
+Vurste|BE||8t|3xi|a8|a
+Wooster|US|Arkansas|2f|2ps|-74u|a|Vuster
+Vulpești|RO||8u|3fw|1xa|a
+Vugrovec|HR||a6|3jg|18q|9
+Vulbens|FR||9k|3k2|gh|9|Vulbenium
+Vukovina|HR||a6|3iw|18s|9
+Vulpășești|RO||8u|3mh|236|8|Vulpăneşti
+Vuhred|SI||9a|3lf|16c|8
+Vuka|HR||a6|3i7|1ff|8
+Vulturi|RO||8u|3n9|24i|8|Vulturu;Vulturul;Vultur
+Vuchkove|UA||98|3qk|1tf|8|Vucskómező;Vichkovo;Vučkovo;Vuchkovo;Vuchkovoye
+Vulturu|RO|Constanța County|8u|3g1|26j|7
+Vukojevci|HR||a6|3ic|1eg|7
+Vultureni|RO|Brăila County|8u|3gu|240|7
+Vufflens-le-Château|CH||a7|3l9|hz|7|Vufflens-sur-Morges
+Vuillafans|FR||9k|3mq|ha|7
+Vuollerim|SE||9w|54j|1la|7
+Vuohenoja|FI||92|4qs|1u6|6
+Vučetinec|HR||a6|3l0|19h|6
+Vernons|AG||1j|1bh|-4rl|6|Vurnin
+Vuillecin|FR||9k|3me|hk|6
+Vukosavljevica|HR||a6|3jg|1bv|5

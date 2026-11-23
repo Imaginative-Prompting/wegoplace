@@ -1,0 +1,142 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kisangani|CD||y|1g|1xz|cd1|Stanleystad;Stanleyville
+Chisinau|MD||8x|3ml|286|4wo|Kiŝinevo;Kiszyniów;Kišinjev;Kišiněv;Kisinyov;Kishinev;Kišiniovas;Kišiņeva;Kišiňov;Kischinew;Kishinef;Kishiniv;Kiscinev
+Jixi|CN||7i|3ht|a3s|346|Dzisi;Kê Tây;Ťi-si;Giĕ-să̤;Ke-se-chhī;Kisi
+Kisumu|KE||16|-a|2ok|32k|Kisumo
+Anchorage|US|Alaska|1h|4q2|-bke|28g|Ankoridžas;Ankoridža;Ancoraria;Ankoric;Ankoridž;Kisaġvik;Ankorij;Ankoriĝo
+Kismayo|SO||14|-10|3a7|1t9|Kismaayo;Kismayu;Chisimayu;Chisimaio;Kismaanyo;Kismānyó;Kisimayu;Kisimayo
+Kishiwada|JP||7q|2nr|ag1|1l4|Kisiwada
+Kisi|NG||u|p8|ap|177|Kishi
+Kishangarh|IN|Rajasthan|6t|21v|5rx|171
+Kisaran|ID||6l|8a|7oq|13f
+Kisarazu|JP||7q|2qa|asp|11u|Kizarazu;Kisaradu
+Kislovodsk|RU||9i|3dz|3ao|10w|Kislowodsk;Kisłowodzk;Kisslowodsk
+Kissidougou|GN||f|pi|-s2|w8|Kissidugu
+Kisii|KE||16|-1w|2ol|v8
+Kishanganj|IN||6t|20i|6sc|te
+Kiselëvsk|RU||74|45z|6oq|sw|Kiselyovsk;Kiseljovsk;Kisseljowsk;Kizelovsk
+Kot Radha Kishan|PK||6q|2el|5pu|sd
+Kishorganj|BD||6a|1vw|706|p7|Kishoreganj;Kisharganj
+Kisilevsk|RU||74|460|6op|n6
+Kiserian|KE||16|-3z|2tx|ld|Kisserian;Kiseryan
+Kissimmee|US||48|26m|-6a6|j8
+Kispest|HU||8v|3nt|1h6|h3
+Kesennuma|JP||7q|302|axa|gz|Kissennuma
+Kisela Voda|MK||9u|38j|1nq|g6
+Kizlyar|RU|Dagestan|9i|3dt|3lr|e2|Kisljar;Kizlar;Kizljar;Kizilyar
+Kīsh|IR||7o|21s|462|b3
+Kiskunfélegyháza|HU||8v|3lr|1j4|8t|Feulegaß
+Kisesa|TZ|Mwanza|h|-73|2jr|8c|Kissessa;Kisesi;Kisessa
+Kisesa|TZ|Simiyu|h|-8k|2mv|8a
+Kiskunhalas|HU||8v|3kz|1i4|86|Olaš;Halaš;Kiskunhalos
+Al Kiswah|SY||69|2ko|2so|6j|Kiswah
+Kizel|RU||7z|4k1|4g5|62|Kisel;Kizieł
+Kisai|JP||7q|2sa|arq|5t
+Kishtwār|IN||6t|2kj|5uh|5q|Kishtwer
+Kisinga|UG||q|8|2az|53
+Kisvárda|HU||8v|3py|1pc|52|Kleinwardein
+Kishaba|JP||7q|212|9uz|50|Chishaba
+Kisoro|UG||q|-3l|2ag|4x|Kisolo
+Kishapu|TZ||h|-a2|2m3|4k
+Kiskőrös|HU||8v|3li|1hl|47
+Kysucké Nové Mesto|SK||8s|3sy|1g6|40|Kiszucaújhely;Kisutske Nove Mesto;Kisucke Nove Mesto
+Kisújszállás|HU||8v|3n6|1lp|3j
+Kistarcsa|HU||8v|3o3|1hi|3i|Kerepestarcsa
+Kisarawe|TZ||h|-j6|30j|3h|Kiserawe
+Sabinov|SK||8s|3se|1mm|3f|Kisszeben;Kisseben
+Kiskunmajsa|HU||8v|3l5|1iu|3c
+Kőszeg|HU||8v|3nn|19y|37|Kiseg;Ginsium;Keseg
+Celldömölk|HU||8v|3na|1bn|36|Kiscell;Czelldömölk
+Kissing|DE||8r|3q6|uh|34
+Kisanga|TZ||h|-ko|2wq|32
+Kishimoto|JP||7q|2qa|aam|2z
+Kiso|JP||7q|2rk|amh|2y
+Nová Dubnica|SK||8s|3rx|1ef|2w|Kiskelecsény;Újtölgyes
+Kishangarh|IN|Rajasthan|6t|25a|5x5|2v
+Kista|SE||9w|4l0|1du|2v
+Kays Qal‘ah|IQ||5z|2tr|3ca|2s|Kîs Qeła;Kîs Qelê;Kys;Kis Qala‘a
+Kisasa|TZ||h|-h6|2rf|2s
+Kishni|IN||6t|232|646|2r
+Eisenstadt|AT||a2|3ox|19w|2k|Kismarton;Ferreum Castrum;Željezno;Eizenštate;Eizenštatas;Eisnstod;Železno;Ayzenştadt
+Kiskunlacháza|HU||8v|3n3|1gt|2i
+Kisra - Sume'a|IL||6n|2jl|2q2|2g|Kisra-Sumei
+Kißlegg|DE||8r|3or|rg|2e
+Kiseljak|BA|Federation of B&H|9r|3e2|1e8|2d|Kiseliakas
+Novi Kneževac|RS||8q|3jx|1ju|2a|Kanizsa;Rév-Kanizsa;Kis-Kanizsa;Torontál-Józseffalva;Törökkanizsa;Novi Kneĵevac;Kanisa
+Kisolon|PH||71|n5|9n6|29
+Kistelek|HU||8v|3l3|1ji|22
+Kismatpur|IN||6t|1c5|61r|21
+Kisiwani|TZ||h|-bh|2xf|1z|Kiswani
+Kishkenekol’|KZ||5s|450|5ky|1w|Kishkeneköl
+Questembert|FR||9k|3oe|-6t|1s|Kistreberzh
+Malá Strana|CZ||9m|3v5|140|1s|Prager Kleinseite;Malgranda Kvartalo;Kisoldal
+Kishanpur|IN||6t|1z8|692|1p
+Kisbér|HU||8v|3ny|1e4|1n
+Kislyakovskaya|RU||9i|3l0|327|1j|Kisljakovskaja;Kizlyakovskaya;Kishakovskaya
+Kiskanizsa|HU||8v|3l1|1b5|1e
+Kisante|PH||71|j8|9no|1c
+Kishpek|RU||9i|3da|3d8|17|Kisjpek
+Kíssamos|GR||8p|2ql|1tp|16|Kastelli;Cisamus;Kastelli Kissamou;Císsamos;Kastéllion
+Kiszombor|HU||8v|3ka|1kr|15
+Kishcha|RU||9i|396|3o6|12|Kisjtsja
+Kisa|SE||9w|4h3|17f|12
+Kısas|TR||94|2v3|305|10|Kısos;Kysas
+Kiseljak|BA|Federation of B&H|9r|3fl|1fl|y
+Kisdorf|DE||8r|45h|rt|y
+Kisköre|HU||8v|3ny|1ky|u
+Siltse|UA||98|3q5|1rv|t|Sel’tso;Kisfalud;Selce;Beregkisfalud;Sel’tse;Sil’tse
+Kyseliv|UA||98|3qy|1za|t|Chisălău;Kisalau
+Kleinhöflein im Burgenland|AT||a2|3ow|19u|t|Kishöflány;Mala Holovajna
+Kisszállás|HU||8v|3kk|1i5|s|Kisszállá
+Kissanmaa|FI||92|4qu|1u6|r
+Călăţele|RO||8u|3lx|1ry|r|Kiskalota
+Kisláng|HU||8v|3mg|1f3|q
+K. I. Sawyer Air Force Base|US||2q|3kp|-6qp|q
+Kist|DE||8r|3u6|rc|p
+Kistokaj|HU||8v|3pg|1lw|p
+Almásfüzitő|HU||8v|3ol|1eq|n|Kiskolónia
+Kisielice|PL||a5|44x|1hi|m|Cziselëce;Kiselice
+Kissonerga|CY||73|2oq|2i0|k
+Kismat Rājāpur|BD||6a|1sl|6vx|k
+Kisko|FI||92|4nb|1t8|k
+Kisléta|HU||8v|3ow|1p4|j
+Kismaros|HU||8v|3ow|1gs|j
+Kiszkowo|PL||a5|423|1bz|j
+Kissenbrück|DE||8r|40r|tf|j|Kissenbruga;Kissinbrück
+Mala Dobron|UA||98|3qk|1q4|j|Malaya Dobron’;Kisdobrony
+Kisovec|SI||9a|3k6|15k|i
+Kışlak|TR||94|2rx|2sg|h
+Khyzha|UA||98|3pn|1sh|h|Kistarna;Khizha
+Kistanje|HR||a6|3e6|18d|g
+Malyy Bereznyy|UA||98|3rq|1qc|g|Kisberezna
+Kisgyőr|HU||8v|3pe|1li|g
+Kisač|RS||8q|3hz|1it|f|Kiszács;Kysáč
+Bíňa|SK||8s|3p4|1fs|e|Bény;Kisbény
+Skotarske|UA||98|3rd|1sn|e|Kisszolyva;Szkotárszka;Skotarsko;Skotars’ke;Skotarskoye
+Quistinic|FR||9k|3p2|-8p|d|Kistinid
+Kyselivka|UA|Chernihiv Oblast|98|3z6|2fd|d|Kiselevka
+Černelavci|SI||9a|3ln|18t|d|Kisszombat;Črnelavci
+Kyselivka|UA|Mykolaiv|98|3mk|2i7|d|Kiselëvka
+Kislingbury|GB||9b|413|-2q|c
+Kissee Mills|US||2f|2tw|-76h|b
+Cîşliţa-Prut|MD||8x|3ii|269|b|Kislitsa Prut;Câşliţa-Prut
+Poieni|RO|Cluj County|8u|3mc|1ri|b|Kissebes;Poeni
+Kissié Malékro|CI||0|ko|-cw|b
+Kishuara|PE||3o|-121|-5n4|9|Quishuara
+Kismat Ināyetpur|BD||6a|1sk|6vt|8|Kismat Enāyetpur
+Kisfalud|HU||8v|3o1|1bh|8
+Bocicoel|RO||8u|3oi|1vk|8|Kisbocskó
+Mali Heyivtsi|UA||98|3qq|1py|8|Mali Heivtsi;Kisgejőc
+Kisankaha|CI||0|q8|-eo|6
+Karayakup|TR||94|2u6|2nh|6|Kışla
+Kisselbach|DE||8r|3v1|l6|6
+Cincșor|RO||8u|3jc|1wz|6|Kissink
+Lipa|SI||9a|3lh|199|6|Kislippa;Lippa
+Örenlı|TR||94|2uq|314|6|Kısayır;Oranlı
+Kissabo|CI||0|l3|-di|6
+Kışla|TR|Samsun|94|36d|2tg|6
+Tyihlash|UA||98|3qp|1pr|6|Tyyhlash;Kistéglás
+Kisecik|TR||94|2vv|2jp|5|Kesecik
+Kistler|US||48|2ww|-6be|5
+Kışla|TR|Bartın|94|371|2hy|5
+Buzăiel|RO||8u|3in|20b|5|Kisbodza

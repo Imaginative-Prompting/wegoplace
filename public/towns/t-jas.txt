@@ -1,0 +1,97 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Yazd|IR||7o|2gm|471|3or|Jazd;Jazdo;Jezdas;Yasd;Jasd;Yezd
+Iaşi|RO||8u|3n1|24o|2xa|Jassy;Jasy;Jászvásár;Jasi;Yashi;Yaş;Jaßenmarkt;Iassium;Jasai;Jaš;Yassı;Yassy;Ilasi
+Jessore|BD||6a|1sd|6vt|1vs|Jashore
+Yasuj|IR||7o|2d7|3zb|qw|Yasudsch;Yasuc;Jásúdž;Yesūj
+Jastrzębie Zdrój|PL||a5|3us|1fl|qm|Jastrzębie-Zdrój;Jastšembe Zdroja
+Jasdan|IN||6t|1p8|5ht|dh
+Jaspur|IN||6t|29c|62z|bt
+Jasło|PL||a5|3u7|1nn|aj|Jaslas;Yaslo;Jasto
+Yasynuvata|UA||98|3pp|2x6|ag|Yasinovataya;Jassynuwata;Yassynouvata;Jasynuvata;Jasinoevata;Iasinovàtaia;Yasınuvata;Jassõnuvata;Jasinuvata;Jasnuvata;Iasînuvata;Jasynuwata;Yasinovatara
+Jāsim|SY||69|2jn|2s6|8f|Jasem;Qāsim;Jassim
+Jashpur Nagar|IN||6t|1rl|6hq|7v|Jashpurnagar
+Jaswantnagar|IN||6t|22o|636|7q
+Jászberény|HU||8v|3ny|1jc|7m|Jaßbring
+Khashuri|GE||7n|38o|3d4|6n|Khachuri;Jashuri;Khachouri;Chasjoeri;Chašuri;Hašuri;Khašuri;Chašuris;Haxuri;Chaszuri;Chasjuri;Chaschuri
+Jasmine Estates|US||48|26l|-6dp|5a
+Jessore Cantonment|BD||6a|1se|6vq|59|Jashore Cantonment
+Yasnogorsk|RU|Tula Oblast|9i|47c|2wq|50|Jasnogorsk
+Yasnyy|RU||7z|3xs|4mb|4u|Jasnyj
+Jask|IR||7o|1z9|4gi|4n
+Jasaan|PH||71|o1|9mk|4k|Jamán;Hasaan
+Jasidih|IN||6t|1w3|6op|4j
+Jasper|US|Indiana|3e|2yn|-6ph|4b
+Yashkino|RU||74|4b7|6lb|48|Jasjkino;Jaschkino;Jaškino;Iachkino;Yaşkino;Jaszkino
+Jasper|US|Alabama|2f|2lz|-6qg|3x
+Jasrāna|IN||6t|23o|62h|2r
+Jászapáti|HU||8v|3o0|1jz|2q
+Yasinya|UA||98|3q3|1vo|2e|Jasiňa;Frasin;Kőrösmező;Yasinia
+Jastrowie|PL||a5|44e|1aq|2d|Jastrow;Jastrovė
+Jasai|IN||6t|1gl|5mu|2a
+Jászárokszállás|HU||8v|3oc|1ji|29
+Jasrāsar|IN||6t|24z|5p1|28
+Jasper|US|Texas|2f|2dw|-794|24
+Yashkul’|RU||9i|3k9|3hy|20|Jasjkul;Jaschkul;Yashkuly
+Gaspar Hernández|DO||4v|1ij|-5f8|1t|Jaspar Hernandez
+Jászladány|HU||8v|3nl|1k1|1q
+Jassans-Riottier|FR||9k|3jq|d8|1m
+Jászkisér|HU||8v|3nt|1k6|1l
+Jastrebarsko|HR||a6|3iv|17h|1h|Jastrebarcko
+Jaswantpura|IN||6t|1ww|5la|1f
+Joshipur|IN||6t|1p0|6n4|1f|Jashīpur
+Jasienica|PL|Silesia|a5|3ud|1gk|1d|Âsienica
+Yasenskaya|RU||9i|3ks|2yb|1d|Jasenskaja;Iasenskaia
+Yashalta|RU||9i|3kq|39f|1b|Jasjalta
+Jasień|PL|Lubusz|a5|3zr|15p|18
+Jasper|US|Florida|48|2cs|-6ef|16
+Yasky|UA||98|3l7|2bk|15|Iaskî;Jaśky;Yasko
+Jasper|CA||2s|42w|-940|13
+Jastarnia|PL||a5|47y|1fw|13|Jastarniô;Jastarņa;Gemeen Heisternest;Âstarniâ;Jastaania
+Jasper Park Lodge|CA||2s|42x|-93y|13
+Jászalsószentgyörgy|HU||8v|3nl|1ju|12
+Jasper|US|Georgia|48|2nr|-6ij|12
+Jasov|SK||8s|3r8|1ma|11|Jászó;Jazo
+Jaša Tomić|RS||8q|3i9|1ly|10
+Jasper|US|Tennessee|2f|2pf|-6lv|x
+Jászkarajenő|HU||8v|3mp|1jr|v
+Jászjákóhalma|HU||8v|3o0|1jj|v
+Jasienica|PL|West Pomerania|a5|44v|14e|u
+Jasień|PL|Lesser Poland|a5|3ut|1l5|t
+Poproč|SK||8s|3rb|1ma|q|Mindszent;Jászómindeszent
+Jászszentandrás|HU||8v|3o6|1k2|q
+Jászszentlászló|HU||8v|3ld|1iw|q|Jászszentlázló
+Jaslovské Bohunice|SK||8s|3qo|1d1|p
+Jászdózsa|HU||8v|3o5|1jm|m|Dósa
+Jasonville|US||38|30s|-6q8|m
+Jasienica Rosielna|PL||a5|3u7|1oy|l
+Jasienica|PL|Mazovia|a5|41l|1nh|k
+Jászfelsőszentgyörgy|HU||8v|3nz|1iy|j
+Jasper Park|CA||2s|44o|-8ri|i
+Jastrzębia|PL|Lesser Poland|a5|3uc|1m0|g|Âstrjenbiâ
+Jasienica|PL|Lesser Poland|a5|3ue|1j4|f
+Jasseron|FR||9k|3kd|et|e
+Jasionów|PL||a5|3ty|1p2|d
+Jastrząb|PL|Silesia|a5|3wr|1ha|d
+Jazovo|RS||8q|3ji|1k6|d|Hódegyház;Jázova;Hodics;Hódegyháza;Jászova
+Jāsk-e Kohneh|IR||7o|1zi|4gh|c
+Yashresh|IL||6n|2go|2ot|b|Jašreš;Jaszresz;Yaşreş
+Jasieniec|PL||a5|3zy|1m6|b
+Jastrzębia Góra|PL||a5|48b|1ev|b|Âstrenbiâ Gora
+Jastrzębia|PL|Mazovia|a5|3z2|1n0|a|Âstrjenbiâ
+Yasnaya Polyana|RU|Kaliningrad Oblast|96|47l|1qd|a|Jasnaja-Poljana;Jasnaja Poljana;Trakehnen;Didieji Trakėnai;Iasnaïa Poliana;Jasnaja Polana;Trakenen
+Jasenná|CZ|Zlín|9m|3st|1dp|9|Jasená
+Jasper|US|Missouri|2f|2vq|-79y|9
+Jasienica Dolna|PL||a5|3wc|1cm|9
+Jasiorówka|PL||a5|41z|1oa|9
+Jastrząb|PL|Mazovia|a5|3yd|1m7|9
+Jasionówka|PL||a5|44c|1s0|9
+Yasnaya Polyana|RU|Tula Oblast|9i|467|2w8|8|Jasnaja Poljana;Yasmaya Polyana
+Jassong|GM||7|118|-16k|7
+Jastków|PL||a5|3yi|1qc|7
+Jasenná|CZ|Hradec Králové Region|9m|3vs|18f|7|Jasena
+Jastrzębia|PL|Lesser Poland|a5|3uh|1iw|6
+Yazlovets|UA||98|3s1|1yo|6|Yablunivka;Jazłowiec;Jazlovets;Jaslowez;Yablonovka;Jazlovecas;Jazlovec;Iasloviecia;Iazloveț
+Jasper|US|Minnesota|2f|3dt|-7fs|6|Džasper
+Jastrzębie|PL||a5|3tr|1kw|6|Jastrzębia
+Jaświły|PL||a5|44k|1rr|6|Jaświty
+Jasenovac|HR||a6|3hr|1az|5|Jasenóc;Jaszenovacz

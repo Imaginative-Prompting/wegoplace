@@ -1,0 +1,386 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Shenyang|CN||7i|383|9iv|1xzh|Šenjangas;Thẩm Dương;Senjang;Ŝenjango;Šeņjana;Šen-jang;Sjenyang;Sím-iông-chhī;Sīng-iòng;Shenyan;Swnjyangh;Şenyanq
+Sendai|JP|Miyagi|7q|2yb|avb|8gn
+Sanya|CN||7i|1ep|8g7|7yi|San-ja;Senya shehiri;Tam Á;Sam-a-chhī;Săng-ā;Sanj;Sama
+Chengde|CN||7i|35r|93o|73o|Čengdė;Thừa Đức;Čcheng-te;Sìng-dáik;Sêng-tek-chhī;Chengteh;Ch’eng-te
+Sanming|CN||7i|20x|92q|4na|Senming shehiri;Săng-mìng;San-ming;Sâm-mìn-sṳ;Tam Minh;Sam-bêng-chhī
+Shuangyashan|CN||7i|3lo|a49|4mo|Sĕ̤ng-ák-săng;Šuang-ja-šan;Song Áp Sơn;Siang-ah-san-chhī
+Sanandaj|IR||7o|2q3|3mk|2p0|Sanandadsch;Sanandij;Sanandadż;Sine;Sanandaĝo;Senendedžas;Senendec;Sinandij
+Saint Paul|US|Minnesota|2f|3gu|-76l|2c8|St. Paul;Urbs Sancti Pauli de Minnesota;Sent Polas;San Pablo;Sentpola;Sint-Paul;Sent Pol;Sent Pols;Sint Pol
+St. Louis|US||2f|2zb|-6yk|25p|San Luis;Saint Louis;Saint-Louis;Sankta Luiso;St Louis;Sent-Luis;Sent Luisas;Sentluisa;Urbs Sancti Ludovici;Sent Loisos;Sint-Louis;Saint Louis City;Saint Lewis
+Sengkang New Town|SG||7j|3v|80l|22c|Sengkang;Shèng Gǎng
+Saint-Louis|SN||g|18i|-19t|1ym|Saint Louis;Sen Luji;Sen Lui
+Singa|SD||r|10j|2m9|1xg|Sindscha;Sindža;Sinja;Senga
+Nossa Senhora do Socorro|BR||3r|-u5|-2v5|1kp
+Saint-Étienne|FR||9k|3i7|c7|1cz|Sankta-Stefano;Sant-Etiève;Sent Etjenas;Sentetjēna;Sanctus Stephanus de Furano;Sant Estève;Sent-Etyen;Sainté;St Étienne;Sankta-Etjeno
+Senador Canedo|BR||4w|-1af|-3sd|1cm
+St. Catharines|CA||59|3bx|-644|120|Sainte-Catharine;Sankta Katarino;Sent Katerinsas
+Sennar|SD||r|11p|2l9|105|Sinnar;Sannar;Senar
+Nossa Senhora de Fátima|CN||6y|1pp|8rf|z0
+St. John's|CA||50|3o4|-42f|up|Saint John's;St Johns;San Juan de Terranova;Baile Naoimh Eòin;Baile Sheáin;Sent Džonsas;Sanctus Ioannes Terrae Novae;Saint John;Saint-Jean de Terre-Neuve;Saint-Jean;Sent-Jons;Sent-Cons
+Sengerema|TZ||h|-7f|2ip|uk
+Sentul|MY||6v|8u|7ug|rs
+Saint-Denis|FR||9k|3ry|6j|qp|Sanctus Dionysius;Sen Deni;Sendenī;Sen-Deni
+Saint-Michel de l'Atalaye|HT||4j|1ht|-5kx|qg|Sen Michèl Latalay;Saint Michel de L’Attaiaye
+Sendai|JP|Kagoshima|7q|2ge|a1y|po|Sendajus
+St Albans|GB||9b|3zr|-x|ni|St. Albans;Fanum Sancti Albani;Sent Albanas;Sentalbana;Santa Albans;Sant Albans;Saint Albans
+Senhor do Bonfim|BR||20|-t2|-33n|m2
+Saint-Nazaire|FR|Pays de la Loire|9k|3nc|-66|in|Sant-Nazer;Fanum Sancti Nazarii in Sinnuario;Sen Nazeras
+Taman Senawang Indah|MY||6v|7h|7vb|hx|Senawang
+Shendi|SD||r|1ad|2kv|hp|Schandi;Šendis;Šendi;Chendi;Xendi;Szandi;Shandi;Shindî
+Songkhla|TH||62|k0|7rg|h6|Singgora;Sung Kla;Singorra;Singora;Songkla;Senggora
+Sennan|JP||7q|2nf|afr|gp
+Sengkang|ID||70|-bh|99f|gj|Singkang
+St. Albert|CA||2s|44z|-8ro|g1|Saint Albert;Sen Alberas;Saint-Albert
+Sendhwa|IN||6t|1o9|5sm|fp|Sendhawa
+Siena|IT||9o|3cc|vh|ez|Sieno;Sienne;Saena Julia;Séna;Saena Iulia;Sien-a;Sienna
+Saint John’s|AG||1j|1bk|-4rs|ed|St. John's;St Johns;Sent Džonsas;St.John.s;St John's;Sen Jaan;San Xuan;Sent Cons;Sankta Johano;Sant-Johns;Sen Jòns;San Gioàn;Saint John
+Saint-Malo|FR||9k|3r5|-5l|e3|Sant-Maloù;Saint Mâlo;Maclovium;Sen Malo;St-Malo;Senmalo
+Sena Madureira|BR||4s|-p6|-5ar|cx|Senna Madureira
+Sadao|TH||62|ig|7qy|cu|Sendawa
+Sentani|ID||6m|-75|aub|cg
+Sengkurong|BN||66|dk|8uz|be|Sangkurong
+Senekal|ZA||o|-26o|24q|b0
+Sento Sé|BR||20|-r3|-38d|am
+Saint-Chamond|FR||9k|3ic|cj|ak|Senšamona;Saint Chamond
+Sint-Truiden|BE||8t|3x6|ef|aj|Saint-Trond;Sintruin;Sent-Trüden;Sint Treidens;Oppidum Sancti Trudonis;Sint Treidenas;Sinttreidena;Sint-Truudn;Sint-Trond;Sint Truijen
+Saint-Raphaël|HT||4j|1i0|-5kk|ah|Sen Rafayèl
+Senigallia|IT||9o|3dg|10p|8l
+Saint-Médard-en-Jalles|FR||9k|3gq|-20|89|Sent Medard de Jalas
+Saint-Sébastien-sur-Loire|FR||9k|3n5|-46|84|Sant-Sebastian-an-Enk;San Sebastián sobre Loira;Engnia;Sen Sebastjan sür Luar
+Senftenberg|DE||8r|3z5|12w|82|Zły Komorow;Zenftenbergas
+Senhora da Hora|PT||99|36f|-o1|81
+Saint-Cloud|FR||9k|3rp|64|80|Sanctus Clodoaldus;Sen Klu;Senklū
+Sens|FR||9k|3pw|94|7z|Agedincum
+Bandar Sri Sendayan|MY||6v|7f|7uz|79|Sri Sendayan City;Sendayan;Sri Sendayan
+Sendafa|ET||2|pf|30e|73|Sendefà
+Senador Pompeu|BR||2w|-fj|-31d|73
+Saint-Dié-des-Vosges|FR||9k|3q4|jb|6u|Sen-Dye-de-Voj;Sanctus Deodatus;Sendjēdevoža;Vogėzų Sen Djė;Saint-Dié
+Saint-Laurent-du-Maroni|GF||2d|fa|-463|6r|Sen Loren du Maroni
+Senja|SG||7j|3v|808|6m
+Szentendre|HU||8v|3of|1h0|6k|Senandrija;Svätý Ondrej;Sentandreja
+Senador Guiomard|BR||4s|-s7|-586|6g
+Senapparetti|IN||6t|ug|60z|68
+Cenon|FR||9k|3gm|-1h|68|Senon
+Senden|DE|Bavaria|8r|3q8|rw|67
+Mrągowo|PL||a5|45m|1n7|64|Sensburg;Mrongovo;Mrongovas
+Shendurjana|IN||6t|1ns|61g|61|Sendurjana
+Sendagi|JP||7q|2r9|as8|5t
+Senanga|ZM||z|-18s|1sn|5t|Sinanga
+Senago|IT||9o|3im|pd|5q
+Sena Nikhom|TH||62|12g|7re|5o
+Sensuntepeque|SV||2u|12k|-6u7|5o|Sensuntepque
+Senden|DE|North Rhine-Westphalia|8r|402|ks|5o
+Senta|RS||8q|3jl|1js|5n|Zenta;Szénta;Szintarév
+Senec|SK||8s|3py|1cc|5l|Szenc;Senets;Senjec
+Sendamangalam|IN||6t|vc|61b|5i|Senthamangalam
+Sengés|BR||4w|-1uz|-3te|5e
+Senica|SK||8s|3r8|1c9|5e|Szenice;Senjica
+Senlis|FR||9k|3sp|77|5c
+Sinzig|DE||8r|3we|k5|4z|Sentiacum;Zincigas
+Saint Peter Port|GG||91|3te|-72|4l|Saint-Pierre-Port;St Peter Port;Saint Pierre Port;St. Peter Port;Sent Piter Port;Sanktapetrurbo;Sent Piter Portas;Sentpīterporta
+Senirkent|TR||94|2xu|2cv|4f|Senikent
+Senaki|GE||7n|39f|38u|46|Senak’i
+Senador La Rocque|BR||2w|-f4|-3nd|43
+Saint-Jean-de-Luz|FR||9k|3cj|-4m|41|San Juan de Luz;Donibane Lohizune;Sant Chuan de Luz;Sent Joan de Lus;Sant Joan Lohitzune;Fanum Sancti Ioannis de Luce;San Juan de Luze
+Sendārappatti|IN||6t|vs|624|3z
+Sendenhorst|DE||8r|400|lr|3p
+Saint-Orens-de-Gameville|FR||9k|3cz|49|3i|Sent Orenç;Sant Orenç de Gamevila
+Senjān|IR||7o|2ml|3tu|3e|Fījān;Zenjān;Senījān;Fenjān
+Saint-Gaudens|FR||9k|3br|20|3e|Sent Gaudenç
+Senahú|GT||32|16u|-6xi|3d
+Saint-Louis du Nord|HT||4j|1jd|-5m0|3a|Sen Lwi di Nò
+Saint-Paul-lès-Dax|FR||9k|3dh|-2x|3a|Sent Pau dAcs;Sent Pau de Dacs
+Sensenti|HN||56|149|-6v2|39
+Saint-Junien|FR||9k|3jh|2i|38|Sent Junian de Chalhac;Sent Junian
+Senador José Porfírio|BR||23|-77|-40b|37
+Senzoku|JP||7q|2r8|asb|34
+Cernay|FR||9k|3ot|jy|33|Sennheim
+Seneffe|BE||8t|3wd|bu|32
+Senhora do Porto|PT||99|36d|-nz|32
+Sankt Veit an der Glan|AT||a2|3lx|13w|30|Šentvid ob Glini;St. Veit an der Glan
+Sehnsa|PK||6q|2l3|5ov|2y|Sensa
+Sendagaya|JP||7q|2r4|as3|2x
+Senhora dos Remédios|BR||4w|-1mf|-3d2|2w
+St James's|GB||9b|3z3|-e|2w|St. James’s;Sankta Jakobo;Quận St. James;Sent-Ceyms
+Senador Alexandre Costa|BR||2w|-em|-3ee|2u
+Senju|JP||7q|2rb|asc|2p|Senjyu
+Saint-Jean-de-Maurienne|FR||9k|3hs|hn|2n|San Giovanni di Moriana;Fanum Sancti Ioannis Maurianensis;Sent-Jian-de-Môrièna
+Senillosa|AR||1s|-30d|-5a3|2n
+Senur|IN||6t|zz|63r|2j
+Sérihio|CI||0|ge|-h0|2i|Senihio
+Şenköy|TR|Mardin|94|2w2|36f|2i
+Séné|FR||9k|3oa|-7m|2d|Sine
+Šentilj v Slov. Goricah|SI||9a|3lo|17h|2d|Šentilj;Občina Šentilj
+Seneca|US|South Carolina|48|2od|-6ef|2b|Seneka
+Sengiley|RU||9z|45w|3rk|28|Sengilej;Sengelei
+Senatobia|US||2f|2o6|-6xx|28|Sennatoba
+Chêne-Bourg|CH||a7|3kc|h7|28|Quercus;Šen Buras
+Sen Monorom|KH||78|ym|89r|27|Sen Moronom;Senmonorom;Sen Monorum;Senmanorum;Sênmônoŭrôm;Saen Monourom
+Saint-Yrieix-la-Perche|FR||9k|3if|3c|27|Sent Iriès;Sent Irièg de Glandon
+Senador Firmino|BR||4w|-1m3|-3bq|25
+Saint-Loubès|FR||9k|3gs|-17|25|Sent Lobés;St Loubès
+Sentmenat|ES||9d|37l|5y|24
+Şenoba|TR||94|2w2|3ao|24
+Saint George's|GD||30|xh|-4rj|23|St. George's;Saint-Georges;St Georges;Sent Džordžas;Saint George.s;Saint George
+Senador Sá|BR||2w|-9b|-34e|21
+Sennett Estate|SG||7j|3p|80j|20
+Sędziszów Małopolski|PL||a5|3v3|1oa|1z|Seņdzišova Malopolska
+Sennoy|RU||9s|40v|3mg|1y|Sennoj
+Senno|BY||9g|489|2ai|1y|Syanno;Sienno;Sianno;Syenno
+Shëngjin|AL||9y|385|1if|1y|Šenđin;Shen Ghen
+Sennori|IT||9o|35b|nv|1x
+Sędziszów|PL||a5|3wh|1jq|1w|Seņdzišova
+Felda Gugusan Adela|MY||6v|44|81e|1v|Adela;FELDA Kledang;Kledang;FELDA Sening;Sening
+Saint-Sulpice-la-Pointe|FR||9k|3dm|4p|1v|Sant Somplesi;Sen Siulpisas
+Seneca Falls|US||48|3b7|-5xc|1v
+Šenov|CZ||9m|3ub|1f2|1u
+Send|GB||9b|3yh|-1h|1u
+Sainte-Livrade-sur-Lot|FR||9k|3fc|1n|1s|Senta Liurada;Santa Liurada
+Senise|IT||9o|33j|199|1q
+Senador Amaral|BR||4w|-1qr|-3ka|1q
+Sargans|CH||a7|3mp|q8|1p|Senegaunis
+Saint-Lys|FR||9k|3cv|3a|1p|Sent Lis;St.-Lys
+Saint-Christol-les-Alès|FR||9k|3eg|bc|1p|Sent Cristòu dAlèst;Sent Cristòu dAlès;Saint Christol les Alès
+Sénas|FR||9k|3di|e4|1p|Senaç
+Senador Elói de Souza|BR||2w|-gs|-2r5|1o
+Saint-Vincent-de-Tyrosse|FR||9k|3da|-3m|1n|San Bisentse;Sent Vincenç de Tiròssa
+Shenkursk|RU||9i|4sj|3b6|1n|Sjenkursk;Schenkursk;Chenkoursk;Šenkursk;Sjenkoersk;Szenkursk
+Goa Velha|IN||6t|16w|5p9|1l|Old Goa;Goa Vieja;Oud Goa;Antiga Goa;Velha Goa;Gamle Goa;Stara Goa;Ó-Goa;Senoji Goa;Stare Goa
+Senhora de Oliveira|BR||4w|-1lr|-3ce|1j
+Senwamokgope|ZA||o|-1t1|2bs|1h
+Šenkvice|SK||8s|3q6|1c7|1h|Nagysenkőc;Senkőc
+Sentinela do Sul|BR||4w|-2d1|-3za|1h
+Schengen|LU||9c|3tf|ho|1g|Şengen;Šengenas
+Sengmai|IN||6t|1xb|78s|1f
+Senggigi|ID||70|-nl|8yc|1e
+Syenitsa|BY||9g|45j|24h|1e|Senitsa
+Šentjur|SI||9a|3ke|16s|1d|Šent Jurij
+Saint-Sever|FR||9k|3dk|-1l|1d|Sent Sever
+Sennwald|CH||a7|3na|qe|1c
+Saint-Pée-sur-Nivelle|FR||9k|3cg|-4b|1b|Senpere;Sant Per dIbarra;Sent Pèr de Nivela
+Saint-Léonard-de-Noblat|FR||9k|3jc|45|1b|Sent Liunard
+San Marino|SM||9q|3e2|yl|19|Saint-Marin;São Marino;San-Marino;San Marinas;Sità de San Marin;Ville de Saint-Marin;San Marins;Cathair San Mairíne;Sen Maren;Civitas Sancti Marini;Sanmarīno;Sant Marin;Sità ëd San Marin
+Saint-Martin-de-Seignanx|FR||9k|3cy|-3v|17|Sent Martin de Senhans;Saint-Martin-de-Seignaux
+Saint-Sulpice|FR|New Aquitaine|9k|3gr|-14|17|Sent Sulpici e Camairac
+Şendriceni|RO||8u|3p7|215|16
+Senj|HR||a6|3gz|15f|16|Segna;Senis;Senya;Senia;Segno
+Saint-Pierre|MQ||3v|14y|-4py|15|Sen Pjeras;Fort Saint Pierre;Senpiè
+Senorbì|IT||9o|31t|pd|15
+Senoia|US||48|2ki|-6iv|15
+Senador Georgino Avelino|BR||2w|-h4|-2pk|15
+Sennfeld|DE||8r|3v0|si|15
+San Carlos|US|Arizona|4i|2kn|-8iu|14|Sengaa
+Senador Modestino Gonçalves|BR||4w|-1dv|-3c2|14|Mercês de Diamantina
+Şenkaya|TR||94|34o|39m|14
+Centallo|IT||9o|3fm|l3|13|Sental
+Saint-Hippolyte-du-Fort|FR||9k|3e5|aq|11|Sent Ipolit
+Saint-Maurice|CH||a7|3ke|jg|11|San Mauricio;Sent-Môris;Agaunum
+Senhora da Luz|PT||99|2v1|-o9|z
+Serres-Castet|FR||9k|3cj|-z|x|Sèrras-Castèth;Sent Julhan de Sèrras;Sèrras Castèth
+Senonches|FR||9k|3qw|2v|w
+Sainte-Foy-la-Grande|FR||9k|3gk|m|w|Senta Fe la Granda
+Šenčur|SI||9a|3kh|142|w
+Sentyanivka|UA||98|3r7|2zn|v|Sentjaniwka;Frunse;Sentjanivka;Sentianiwka;Frounze;Sentianivka;Frunze;Sentyanovka
+Şendreni|RO|Galați County|8u|3i5|25l|v
+Séndou|SN||g|14r|-1bs|v|Sienndou;Siendou
+Señor|MX||2b|1j4|-6su|v
+Senhora do Porto|BR||4w|-1gh|-3bo|v
+Sennecey-le-Grand|FR||9k|3lk|dj|u
+Sencha|UA||98|3vl|2kn|u
+Senones|FR||9k|3qf|je|t
+Saint-Jean-du-Gard|FR||9k|3ej|at|t|Sent Jan de Gardonenca;Sant Joan de Gardonenca
+Sainte-Bazeille|FR||9k|3fp|9|t|Senta Baselha;Senta Vaselha
+Seignosse|FR||9k|3dd|-3t|t|Senhòssa
+Singouiné|CI||0|jw|-lw|s|Sengouiné
+Saint-Caprais-de-Bordeaux|FR||9k|3gb|-18|r|Sent Caprasi de Bordèu;Sent Caprasi
+Senglea|MT||9e|2rp|14c|r
+Senguio|MX||41|1it|-7qr|r|Sengio
+Senador Salgado Filho|BR||4w|-25v|-47i|r
+Sencelles|ES||9d|325|82|r
+Şenowbar|IR||7o|2qe|4k9|q|Sanowbar
+Sengenthal|DE||8r|3sr|vv|q
+Saint-Émilion|FR||9k|3gp|-g|q|Saint Emilion;Sent Milion
+Sentispac|MX||3x|1ol|-84n|q
+Port-Sainte-Foy-et-Ponchapt|FR||9k|3gk|l|q|Sent Avit de Tisac;Lo Pòrt de Senta Fe e Ponchac
+Cintegabelle|FR||9k|3cb|49|p|Senta Gabèla
+Seneca|US|Missouri|2f|2uc|-7at|o
+Sennecey-lès-Dijon|FR||9k|3nd|e6|o
+Senovo|SI||9a|3ju|170|n
+Šenkovec|HR|Međimurje|a6|3kx|19m|n|Szentilona
+Seneca|US|Illinois|2f|36r|-6u5|n
+Senador Cortes|BR||4w|-1ok|-3bb|m
+Senneterre|CA||59|3qf|-5yk|m
+Saint Joseph|DM||2r|16t|-4qm|m|Saint-Joseph;Sent Cosef;São José
+Sieniawa|PL|Subcarpathia|a5|3ve|1qt|m|Seņava
+Saint-Nicolas-de-la-Grave|FR||9k|3ee|2u|l|Sent Micolau;Sent Micolau de la Grava;Saint-Nicolas-la-Grave
+Pivka|SI||9a|3iw|13g|l|Šent Peter;San Pietro del Carso;San Peter
+Šenov u Nového Jičína|CZ||9m|3tt|1dz|l|Schönau
+Senador José Bento|BR||4w|-1pk|-3ka|l
+Espoon Keskus|FI||92|4n8|1wh|l|Esbo centrum;Centti;Sentti;Cena;Sena;Espis;Eekoo;Epekepe;Espoon Centti;Espoon Sentti;Kespoo
+Seneca|US|Kansas|2f|32n|-7eu|k
+Saint-Louis-de-Montferrand|FR||9k|3gv|-1h|k|Sent Loís de Montferrand;Sent Loís de Mont Ferrand;Saint Louis-De Monferrand
+Senemoğlu|TR||94|35a|3ai|k
+Saint-Just-le-Martel|FR||9k|3je|3v|k|Sent Just;Saint-Just
+Seneca Knolls|US||48|3bs|-5vx|k
+Saint-Bon-Tarentaise|FR||9k|3i7|ig|k|Sent-Bon-Tarentèsa
+Senggarang|MY||6v|4v|7y9|k|Sang Garang
+Şenyurt|TR||94|2v0|34w|k
+Sentosa|SG||7j|3h|80f|j|Pulau Blakang Mati
+Saint-Laurent-des-Arbres|FR||9k|3ed|d2|j|St Laurent des Arbres;Sent Laurenç deis Aubres
+Saint George|BM||82|2hy|-4zo|j|Sankta Georgo;Sent Džordžas
+Dranytsya|UA||98|3pz|21p|j|Dranytsia;Șendreni
+Senna Comasco|IT||9o|3j4|pb|j
+Senningerberg|LU||9c|3tx|hb|j|Sennengerbierg
+Sens-de-Bretagne|FR||9k|3q9|-4a|j|Sen;Sens
+Seneghe|IT||9o|33c|nx|i
+Saint-Geniès-de-Comolas|FR||9k|3ee|d4|i|Sent Genièis de Comolaç;Sanctus Genesius de Comolacio
+Saint-Jean-Pied-de-Port|FR||9k|3bw|-3g|i|Donibane-Garazi;San Juan Pie de Puerto;Fanum Sancti Ioannis Pedeportuensis;Sant Joan de Peu de Port;Donibane Garazi;Sent Joan Pè de Pòrt;Sant Chuan Piet de Puerto
+Sainte-Fortunade|FR||9k|3hl|4x|i|Senta Fortunada
+Saint-Sulpice-de-Faleyrens|FR||9k|3gn|-j|i|Sent Sulpici de Faleirens;Saint-Sulpice-de Faleyren
+Senice na Hané|CZ||9m|3tu|1bh|i
+Saint-Selve|FR||9k|3g3|-1c|i|Sent Seuve
+Saint Davids|GB||9b|404|-en|i|Saint David’s;Tyddewi;St David's;St Davids;St. David’s;Sent Deividsas;Sentdeividsa;Sankta Davido;Menevia
+Saint-Paulet-de-Caisson|FR||9k|3ey|cs|h|Sent Paulet de Caisson;Saint-Paulet-des-Caissons
+Senath|US||2f|2sd|-6yg|h
+Saint-Lizier|FR||9k|3bg|36|h|Sent Líser;Lugdunum Consoranorum
+Sengkarai|BN||66|dc|8uh|h|Kampong Sangkarai
+Sennewitz|DE||8r|3z6|x7|h
+Saint-Étienne-de-Baïgorry|FR||9k|3by|-3r|g|Baigorri;Sent Estève de Baigòrri
+Sen Sen|IR||7o|2n5|3yg|g|Sansen
+Şenocak|TR||94|2wl|351|g
+Saint-Louis du Sud|HT||4j|1eq|-5ob|f|Sen Lwi di Sid
+Tocane-Saint-Apre|FR||9k|3hp|1d|f|Sent Abre;Tooane-Saint-Abre
+Saint-Maurice-sur-Moselle|FR||9k|3oy|iy|f|Sen Moris sur Mozelis
+Senieji Trakai|LT||a3|47p|1xe|f|Stare Troki;Staryye Troki
+Saint-Aulaye|FR||9k|3hk|e|f|Senta Eulàlia de Pueimangor;Senta Eulàlia
+Sendim|PT||99|36z|-hv|f|Sendin
+Senovo|BG||9v|3d9|219|f|Syenovo;Senowo;Senevo
+Saint-Andéol-le-Château|FR||9k|3in|d2|f|Sent-Anduér
+Saint-Julien-en-Born|FR||9k|3ee|-3f|e|Sent Julian de Bòrn
+Sentheim|FR||9k|3oo|jl|e|Senheim
+Šentjernej|SI||9a|3jc|16l|e|Sankt Bartlmä;Šent Jernej
+Sainte-Colombe-en-Bruilhois|FR||9k|3eq|1g|e|Senta Colomba de la Pluma;Senta Coloma de Brulhés;Sainte-Colombe-de-Laplume
+Senales|IT||9o|3lr|ub|e|Schnals
+Senzékro|CI||0|lm|-eh|e
+Señor del Pozo|MX||41|19a|-73v|e
+Saint-Bauzille-de-Putois|FR||9k|3dy|ae|d|Sent Bausèli de Pedoci;Sent Bausèli
+Sankt Andrä|AT|Carinthia|a2|3lx|156|d|Šentandraž v Labotski dolini
+Senna Lodigiana|IT||9o|3hf|qn|c
+Seniga|IT||9o|3ho|sa|c
+Sengān|IR||7o|2ut|3h6|c|Sīngān
+Saint-Pardoux-la-Rivière|FR||9k|3id|23|b|Sent Pardol de la Ribiera;Sent Pardol la Ribiera
+Cénac|FR|New Aquitaine|9k|3gg|3c|b|Senac e Sent Julian
+Gironde-sur-Dropt|FR||9k|3fu|-8|b|Senta Peironelha de la Rèula;Gironda sau Dròt
+Senala Village|TV||as|-no|dts|b
+Saint-Martin-de-Hinx|FR||9k|3d2|-3j|b|Sent Martin de Hins
+Saint-Claud|FR||9k|3ji|1a|b|Sent Claud
+Capdenac-Gare|FR||9k|3fu|5s|b|Sent Julian dEmpara e Livinhac lo Baish;Capdenac-Gara
+Senoji Varėna|LT||a3|46p|1w7|b|Varėna I;Varėna;Varėna 1;Varėnas
+Saint-Lary-Soulan|FR||9k|3ay|w|b|Sent Lari e Sola;Sainte-Lary-Soulan
+Senkivka|UA||98|3w4|2ed|b|Sen’kivka;Sen’kovka
+Seneca|US|Pennsylvania|48|36y|-65e|b
+Center Harbor|US||48|3df|-5ii|b|Centreharbor;Centre Harbor;Centre-Harbor;Senter Harbour;Center Harbour
+Sentinel Hill|CA||5b|3t2|-9i3|b
+Senokosnoye|UA||9t|3j1|2l4|b|Ički
+Senyera|ES||9d|30j|-1e|a|Señera
+Saint-Projet|FR||9k|3j2|10|a|Sent Proget e Sent Constanç
+Sainte-Geneviève-sur-Argence|FR||9k|3gg|7o|a|Sent Jurvèva;Sant Jurvèva
+Senftenberg|AT||a2|3ql|176|a
+Šentvid pri Stični|SI||9a|3jn|158|a
+Sentelek|RU||63|3y8|6gn|a|Sentalek;Sentelyak
+Saint-Clar|FR||9k|3dx|25|a|Sent Clar
+Saint-Front-de-Pradoux|FR||9k|3h6|10|a|Sent Front de Pradon
+Saint-Maurice-des-Lions|FR||9k|3jo|1y|a|Sent Maurzís
+Senneville|CA||59|3i7|-5pf|a
+Saint-Laurent-des-Hommes|FR||9k|3h4|p|9|Sent Laurenç daus Urmes
+Senozan|FR||9k|3kw|di|9
+Sainte-Croix-du-Mont|FR||9k|3fv|-s|9|Senta Crotz de Prenhac;Senta Crotz deu Mont
+Saint-Saud-Lacoussière|FR||9k|3ii|2a|9|Sensaut e la Cossiera
+Senomaty|CZ||9m|3v6|11x|9|Senomat
+Senohraby|CZ||9m|3um|14w|9|Senochrab;Senohrab
+Sentinel|US||2f|2po|-7ni|9
+Sainte-Sévère-sur-Indre|FR||9k|3l5|5r|9|Senta Severa
+Sainte-Alvère|FR||9k|3gv|29|9|Senta Alvèra;Saint-Alvère
+Saint Clare|AG||1j|1bg|-4rq|9|Sen Klier;Saint Claire
+Senouillac|FR||9k|3e2|5f|9
+Şenköy|TR|Hatay|94|2s5|2se|9|Şehköy
+Ženklava|CZ||9m|3to|1eb|9|Senftleben
+Senožaty|CZ||9m|3tp|168|9
+Sent|CH||a7|3m2|sq|8|Sins GR;Sindes
+Saint-Martial-de-Valette|FR||9k|3ig|1t|8|Sent Marçau de Valeta
+Saint-Jean-de-Maruéjols-et-Avéjan|FR||9k|3ey|bx|8|Sent Jan de Maruèjols e Avejan;Sent Joan de Maruèjols e Avejan;Saint-Jean-de-Marvejols-et-Avejan
+Sindé|CI||0|ng|-ct|8|Sendé
+Saint-Pierre-de-Chignac|FR||9k|3hc|2e|8|Sent Peir de Chinhac
+Senzeille|BE||8t|3ve|ce|8
+Saint-Amans-des-Cots|FR||9k|3g5|7e|8|Sent Amanç;Sant Amanç;Saint-Amans;Saint-Amans-des-Cotz
+Saint-Hilaire-Peyroux|FR||9k|3hl|4l|8|Sent Alari e lo Peirós;Sent Alari Peiros
+Saint-Étienne-de-Fursac|FR||9k|3k6|47|8|Sent Estefe de Furçac;Furçac
+Senowkesh|IR||7o|2w4|3kg|8
+Saint-Laurent-sur-Manoire|FR||9k|3hf|27|8|Sent Laurenç de Manoira;Sent Laurenç de Manoire
+Saint-Pandelon|FR||9k|3db|-2w|8|Sent Pandelon
+Saint-Germain-du-Salembre|FR||9k|3he|19|8|Sent Gèrman de Salembre
+Saint-Castin|FR||9k|3ci|-v|8|Sent Castin
+Saint-Pierre-de-Fursac|FR||9k|3k7|47|8|Sent Peir de Furçac;Furçac
+Saint-Faust|FR||9k|3c7|-19|8|Sent Haust
+Saint-Laurent-des-Vignes|FR||9k|3gi|19|8|Sent Laurenç de Brageirac;Sent Laurenç de las Vinhas
+Sendets|FR||9k|3ca|-q|8
+Saint-Laurent-de-Céris|FR||9k|3jm|1c|8|Sent Laurenç
+Saint-Benoît-du-Sault|FR||9k|3l0|3v|8|Sent Benet de Saut
+Senožeti|SI||9a|3k1|14x|8|Senožet
+Senningen|LU||9c|3tx|hc|7|Senneng
+Șendreni|RO|Botoșani County|8u|3o2|22n|7
+Senarpont|FR||9k|3ul|4s|7
+Senan|FR||9k|3p3|9c|7
+Seneca Gardens|US||3k|2y7|-6m0|7
+Şenköy|TR|Aydın|94|2wb|256|7
+Saint-Martin-de-Ribérac|FR||9k|3hn|10|7|Sent Martin de Rabairac
+Senereuș|RO||8u|3kp|1wh|7
+Saint-Angeau|FR||9k|3jd|t|7|Sent Angeu
+Saint-Jean-du-Bruel|FR||9k|3ea|9c|7|Sent Joan del Bruèlh
+Saint-Sornin-Leulac|FR||9k|3kc|3m|7|Sent Sornin lo Paubre;Sent Sòrnin;Saint-Sornin-Leulat;Saint-Sornin
+Šenkovec|HR|Zagreb County|a6|3jh|17m|7
+Senillé|FR||9k|3ly|1p|7
+Sénoufla|CI||0|kw|-hp|7
+Saint-Jory-de-Chalais|FR||9k|3ie|2i|7|Sent Jòri de Chalés;Saint-Jory-de-Chaleix;Saint-Jory-de Chalais
+Senneville-sur-Fécamp|FR||9k|3u9|16|6
+Saint-Jammes|FR||9k|3cg|-p|6|Sent Jacme
+Santa Cristina Gela|IT||9o|2xj|111|6|Sendahstina
+Senetářov|CZ||9m|3t3|1ao|6
+Senožeče|SI||9a|3j0|130|6|Senosecchia
+Senheim|DE||8r|3v4|k2|6
+Sendero Real|MX||41|1l1|-7z3|6
+Saint-Ybard|FR||9k|3i9|48|6|Sent Ibarç;Sanch Ibarch
+Senantes|FR|Hauts-de-France|9k|3th|54|6
+Cendrieux|FR||9k|3h0|2a|6|Sendrius
+Saint-Antoine-de-Ficalba|FR||9k|3f5|20|6|Sent Antòni;Sant Antòni de Ficalba
+Senija|ES||9d|2zl|4|6
+Saint-Paul-la-Roche|FR||9k|3ic|2s|6|Sent Pau de la Ròcha;Sent Pau la Ròcha
+Snir|IL||6n|2kc|2r4|6|Senir
+Sénergues|FR||9k|3fx|6w|6
+Şenköy|TR|Zonguldak Province|94|370|2hh|6
+Saint-Capraise-de-Lalinde|FR||9k|3gk|1t|6|Sent Grapasi de la Linda;Saint-Caprais-de-Lalinde
+Sennely|FR||9k|3og|5z|6
+Saint-Beauzély|FR||9k|3ep|88|6|Sent Bausèli
+Saint-Armou|FR||9k|3cl|-v|6|Sent Armon
+Sensweiler|DE||8r|3ua|k0|6
+Seninghem|FR||9k|3wu|5n|6|S’ninghin
+Saint-Jean du Sud|HT||4j|1e8|-5p1|5|Sen Jan di Sid
+Senerchia|IT||9o|356|169|5
+Saint-Étienne-Vallée-Française|FR||9k|3ep|ao|5|Sent Estève de Valfrancesca
+Saint-Martial-de-Nabirat|FR||9k|3ga|3i|5|Sent Marçal de Nabirac
+Šentjanž pri Dravogradu|SI||9a|3lc|15s|5
+Senantes|FR|Centre-Val de Loire|9k|3r7|4d|5
+Saint-Exupéry-les-Roches|FR||9k|3ig|6l|5|Sent Eissuperi;Sent Sepieri
+Saint-Michel-de-Rieufret|FR||9k|3fy|-17|5|Sent Miquèu de Riufred
+Sena|ES||9d|37w|-4|5
+Sénzénou|CI||0|lg|-dk|5
+Séna|CI||0|ls|-i8|5
+Sentimientos de la Nación|MX||41|1h6|-7fb|5
+Saint-Front-la-Rivière|FR||9k|3ib|21|5|Sent Front de la Ribiera;Sent Front la Ribiera
+Saint Johnston Village|AG||1j|1bk|-4rr|5|Sen Jaanstin;Saint Johnstone Village
+Senlisse|FR||9k|3r9|5i|5
+Șendrești|RO||8u|3ku|247|5
+Sensenruth|BE||8t|3ue|e3|5

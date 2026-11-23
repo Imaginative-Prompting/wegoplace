@@ -1,0 +1,82 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Taipei|TW||7l|1xl|9dl|1oqn|Taipeh;Tajpeo;Taibėjus;Tajpej;Taipé;Tchaj-pej;Tayipèh;Taipėjus;Đài Bắc;Taypey;T’ai-pei
+Taiyuan|CN|Shanxi|7i|2x7|8oo|14xn|Tajuanas;Tchaj-jüan;Tajuano;Thái Nguyên;Thài-goân-chhī;Tái-nguòng;Tajjüan;Taiyuenum;Taijuaņa;Tayyuan;Daiyienz;Taijuan
+Datong|CN|Shanxi|7i|33d|8qp|nyo|Daido;Ta-tchung;Đại Đồng;Ta-t’ung
+Taichung|TW||7l|1v3|9b8|lzr|Đài Trung;Teyjong shehiri;Taičungas;Tajĉungo;Thòi-chûng-sṳ;Tchaj-čung;Taizhong;Taychun;Tâi-tiong-chhī
+Daegu|KR||7h|2rn|9x8|i93|Teguo;Taegu;Đại Khâu;Tägu;Tegu
+Tainan|TW||7l|1rv|99x|ebq|Teynen shehiri;Thòi-nàm-sṳ;Tchaj-nan;Tajnan;Đài Nam;Tajnano;Taynam;Tâi-lâm-chhī;Dài-nàng;T’ai-nan
+Daqing|CN||7i|3le|9n8|cdk|Ta-čching;Dacin;Đại Khánh;Dâi-kéng;Tāi-khèng-chhī;Taching;Dačing
+Daejeon|KR||7h|2sz|9tu|b4c|Taejŏn;Daejon;Daiĝono
+Deyang|CN||7i|2eh|81y|5o7|Dáik-iòng;Te-jang;Đức Dương;Tek-iông-chhī;Te-yang;Deyan
+Dezhou|CN||7i|2w1|8z9|58r|Detsjou;Te-čou;Đức Châu;Dáik-ciŭ;Deĝoŭ;Tek-chiu-chhī;Te-chou
+Dayrah|AE||6c|1y7|49m|334|Deira;Dairah;Daira
+Deir ez-Zor|SY||69|2q6|33i|23i|Dayr al-Zawr;Der Ezzor;Deir Azzor;Deir el-Zor;Deir al-Zor;Dajr az-Zaur;Dair az-Zaŭr;Deir ez Zor;Dajr ez-Zaur;Deir ez Zoras;Deyrizor;Dayr az-Zawr;Dayr az Zawr;Dayr uz-Zur;Deir al-Zour;Dêrezor;Deir-es-Sor;Deyrez-Zor;Deir Zzor;Dayr az Zūr;Dayr al-Zor;Deir ez Zoar
+Thị Trấn Đại Từ|VN||6h|1o3|85g|1ds
+Taishan|CN||7i|1pt|8pa|14e|Đài Sơn;Thòi-sân-sṳ;Toishan
+Sakiet ed Daier|TN||1e|2on|u1|ys|Sakiet ed Daïr
+Daitō|JP||7q|2of|agq|x6
+Taitung|TW||7l|1r8|9ci|sp|Đài Đông;Táidong;Tchaj-tung;Taito;Pinamu;Taichung;T’ai-tung
+Dayrūţ|EG||c|24k|2dl|si|Dairût
+Daisen|JP||7q|31k|au9|pb
+Dainava (Kaunas)|LT||a3|48k|1ul|jg
+Dại Mỗ|VN||62|1ma|85t|go
+Daizhuang|CN||7i|2nv|93d|bs
+Daik-u|MM||7y|1dg|7gj|ap|Daik U
+Dā‘il|SY||69|2iz|2sd|86|Dâail;Daél;Daal
+Dailekh|NP||6r|284|6az|5t
+Nghèn|VN||62|1f9|85u|5a|Đại Lộc
+Daimiel|ES||9d|30j|-a1|55
+Bad Tölz|DE||8r|3oo|w4|4u|Bādtelca;Däiz;Bad Toelz
+Đại Lộc|VN||6h|184|8cc|4i|Ái Nghĩa
+Daigo|JP||7q|2u5|atv|4d
+Daira Din Panah|PK||6q|2cx|5h2|45
+Daireaux|AR||1l|-2to|-4rj|3v
+Dalkeith|GB||9b|4b9|-8j|3j|Dail Chè;Dail Cheith;Dalkit;Dalkitas;Dawkeith
+Dahiri|CI||0|em|-fd|31|Dairi
+Đại Nghĩa|VN||6h|184|8c9|30
+Đại Quang|VN||6h|183|8c5|2z
+Đại Đồng|VN||6h|183|8c2|2z|Phước Lộc
+Đại Cường|VN||6h|181|8c8|2c
+Dairy Farm|SG||7j|3t|809|27
+Dairo|CI||0|fq|-f7|1y|Daro
+Daisy Hill|AU||8c|-24r|btg|1u
+Audun-le-Tiche|FR||9k|3tf|gk|1n|Däitsch-Oth
+Đại Tân|VN||6h|17z|8c5|1n
+Dainville|FR||9k|3vo|7l|1k
+Dalry|GB||9b|4ar|-d4|1k|Dail Ruighe;Dail Ruigh
+Daiba|JP||7q|2qz|as9|1j
+Dairago|IT||9o|3il|om|1j
+Dainé II|CI||0|kn|-l5|1h
+Dairy Flat|NZ||ak|-2tv|dh5|1f
+Daigyōji|JP||7q|2lc|a3h|1e
+Dalbeattie|GB||9b|48l|-am|17|Dail Bheithe
+Daitari|IN||6t|1mm|6m7|15
+Deidesheim|DE||8r|3t9|mq|12|Daisem
+Dayr Ballūţ|PS||6g|2h3|2pa|10|Deir Balluṭ;Dair Balut
+Daia|RO|Giurgiu County|8u|3e8|206|v
+Daia Română|RO||8u|3ju|1tr|v|Dacia-Româna;Daia-Română;Daia Romînă
+Taiji|JP||7q|2la|ahn|s|Taitsi;Daiji;Taji
+Daykitin|PH||71|10v|9en|r|Dayquitin;Daiquitin
+Daingerfield|US||2f|2jr|-7b4|p
+Daimús|ES||9d|309|-f|m|Daimuz
+Daikan’yamachō|JP||7q|2r1|as3|l
+Dingle|IE||8z|40u|-sj|l|An Daingean;Dinglis;Yn Dein;Daingean Uí Chuis
+Daisendorf|DE||8r|3oj|pr|f
+Dailpāra|BD||6a|1lt|74f|f|Deilpara
+Daya Nueva|ES||9d|2xv|-24|f|Daia Nova
+Daix|FR||9k|3nj|dw|f
+Dalmellington|GB||9b|49o|-c8|e|Dail M'Fhaolain;Dawmellinton
+Daixi|CN||7i|22h|96v|d
+Daitōchō|JP||7q|2og|agq|c
+Daingean|IE||8z|442|-k9|a
+Daisetta|US||2f|2bn|-7aw|a
+Daigbai-Bayanou|CI||0|kd|-bw|9
+Dailly|GB||9b|49k|-d4|9
+Daiting|DE||8r|3rj|ua|8
+Daia|RO|Sibiu County|8u|3j8|1vh|8
+Dăișoara|RO||8u|3jp|1xx|7
+Daiano|IT||9o|3km|vt|7
+Daillens|CH||a7|3li|i7|7
+Daifam|BT||7p|22q|73u|7
+Daia|RO|Mureș County|8u|3k7|1x6|6

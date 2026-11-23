@@ -1,0 +1,7 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Khvalynsk|RU||9s|41t|3pn|3q|Chwalynsk;Jvalynsk;Chvalynsk;Xvalınsk;Khvalinsk;Ĥvalinsk;Hvalynsk
+Jvara|GE||7n|37d|3f7|u
+Zhvanets|UA||98|3qv|21l|f|Żwaniec;Schwanez;Žvanets;Jvaneț;Zjvanets;Jvanets
+Jvari|GE||7n|3ao|38t|b|Dschwari;Džvaris;Džvari;Dzsvari;Dźwari;Cvari;Dzhvari
+Zhvan|UA||98|3r2|24c|9|Jvan;Žvan
+Ivanaj|AL||9y|39h|1i0|8|Jvanaj

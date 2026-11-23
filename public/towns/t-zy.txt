@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Jōetsu|JP||7q|2v7|ao0|1gm|Zyôetu-chhī
+Zyablikovo|RU||9i|4ai|2wx|zu
+Zyuzino|RU||9i|4am|2wd|xm
+Žilina|SK||8s|3sq|1g2|mk|Sillein;Zsolna;Żylina;Solna;Silina;Jilina
+Altay|KZ||5s|3u6|6i1|ch|Zyryanovsk;Ziryanovsk;Zyranovsk
+Żyrardów|PL||a5|40l|1kt|bg|Žirardova;Žyrarduvas
+Zugdidi|GE||7n|3a3|38b|b5|Sugdidi;Zygdidi
+Żywiec|PL||a5|3u1|1hb|8x|Živeca;Žyvecas
+Zittau|DE||8r|3xe|155|71|Žitava;Żytawa;Žitawa;Citau;Sitavia;Citava
+Žytkavičy|BY||9g|412|25e|4e|Zhytkavichy;Jytkavitchy;Žytkavitšy;Žytkavičai;Zjytkavytjy
+Sigulda|LV||9n|4er|1x2|44|Segewold;Zygwold;Sėgolda
+Zymna Voda|UA||98|3uf|1uc|36|Vodyane;Zimna Woda
+Zhydachiv|UA||98|3t6|1v2|2w|Żydaczów;Schydatschiw;Zhidáchiv;Jydatchiv;Jıdaçiv;Žydačiv;Židačiva;Zjydatsjiv;Žõdatšiv;Žydačiw;Žydačivas;Zhidachev;Zhidechuv;Zhydachuv;Zhidachov
+Zyrya|AZ||61|345|3vp|2t|Zirya
+Zymohirya|UA||98|3qz|306|2o|Zîmohiria;Zimogiria;Zımogirya;Zymohirja;Symohirja;Zymohiria;Zimohorja;Zimohirja
+Żychlin|PL||a5|414|1ij|2i|Žihlina
+Zyryanskoye|RU||7r|4dv|6on|1r|Zyrjanskoje
+Zykovo|RU|Krasnoyarsk Krai|6u|4bg|76s|1i
+Zyukayka|RU||7z|4ho|47z|1a|Ziukajka
+Zyogouiné|CI||0|jz|-l8|15|Ziogouiné;Ziogouin
+Zyryanka|RU||6z|52m|bn5|10|Syrjanka;Zyrjanka;Zyrianka;Zirjanka;Zırânka;Zõrjanka
+Tsybuliv|UA||98|3sb|2aw|z|Tsybouliv;Zybuliw;Tsibulev;Čybuliv;Tsıbuliv;Cybulów;Țîbuliv
+Zynhary|TM||5x|2xv|4zv|n
+Tsybuleve|UA||98|3rl|2i9|i|Zybulewe;Tsybuliv;Tsibulëvo;Tsybulevo
+Zygós|GR||8p|35x|1vq|g|Zigós
+Zyndan|KG||65|3ag|633|e
+Żyraków|PL||a5|3v5|1ng|e
+Żyrzyn|PL||a5|3z2|1pd|e|Żytzyn
+Zyuzel’skiy|RU||7z|4cx|4n1|d|Ziuzelskij
+Zybiny|UA||9t|3ho|2o9|c
+Zykovo|RU|Mordoviya Republic|9i|467|3h9|b
+Zyalyony Bor|BY||9g|461|274|a|Zelënyy Bor
+Zybkove|UA||98|3rh|2kz|9|Zybkoye;Zybkovo
+Zyryanovskiy|RU||7z|4gd|4re|9|Zyrjanovskij
+Zyembin|BY||9g|470|26e|7|Zembin;Ziembin
+Żytno|PL||a5|3xh|1ij|7
+Zýgi|CY||73|2oh|2km|5|Zyyi
+Zyékaha|CI||0|qn|-f4|5|Ziékaha

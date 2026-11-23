@@ -1,0 +1,20 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sarrià-Sant Gervasi|ES||9d|370|5y|153|Sarrià;sant gervasi
+Sant Gervasi - Galvany|ES||9d|370|5y|d2
+Hajdúböszörmény|HU||8v|3of|1ns|8w|Betschermen;Sântgheorghe;Beșermeni
+Saint-Grégoire|FR||9k|3pr|-4p|29|Sant-Gregor
+Sant Genís dels Agudells|ES||9d|373|5x|1x
+Saint-Germain-des-Fossés|FR||9k|3kd|9j|12|Sant German daus Fossats;Saint-Germain-de-Salles
+Saint-Genès-Champanelle|FR||9k|3j0|8e|t|Sant Genèst de Champanèla
+Saint-Genest-Malifaux|FR||9k|3hy|ca|t|Sant Genèis de Malifaus
+Saint-Géréon|FR||9k|3nl|-3c|r|Sant-Gerent
+Saint-Génis-des-Fontaines|FR||9k|3a6|84|q|Sant Genís de Fontanes
+Saint-Geniès-des-Mourgues|FR||9k|3de|b8|h|Sant Ginièis de las Morgas
+Saint-Gérand-le-Puy|FR||9k|3ki|9r|a|Sant Girand;Saint-Gérand
+Saint-Gonnery|FR||9k|3po|-7u|a|Sant-Goneri
+Saint-Guyomard|FR||9k|3oq|-6z|9|Sant-Gwioñvarc'h;Sant-Gwioñvarch
+Saint-Guinoux|FR||9k|3qy|-58|8|Sant-Gwênoù
+Saint-Gravé|FR||9k|3ol|-6c|7|Sant-Gravez
+Saint-Gouéno|FR||9k|3q3|-75|7|Sant-Gouenoù
+Saint-Glen|FR||9k|3qc|-70|5|Sant-Glenn
+Saint-Gondran|FR||9k|3q3|-54|5|Sant-Gondran

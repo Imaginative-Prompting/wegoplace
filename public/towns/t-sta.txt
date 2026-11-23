@@ -1,0 +1,730 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Kisangani|CD||y|1g|1xz|cd1|Stanleystad;Stanleyville
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Tolyatti|RU||9p|44p|3t3|5f9|Tol'yatti;Toljatti;Togliatti;Toliatti;Togliattigrad;Toljati;Stavropol’;Toljatis;Stawropol
+Helsinki|FI||92|4n5|1xa|531|Khel'sinki;Helsingfors;Helsinko;Helsinky;Helsingi;Heilsincí;Helsinqui;Helsingia;Helsínquia;Helsset;Xélsinki;Èlzinki;Hel'sinki;Helsėnkis;Elsinki;Stadi
+Staten Island|US||48|34o|-5py|3m7
+Stavropol|RU||9i|3h3|38k|3cj|Stawropol;Stauropoli
+Sterlitamak|RU||7z|450|4bf|228|Stärletamaq;Sztyerlitamak
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Ivano-Frankivsk|UA||98|3rw|1wn|1u6|Ivano-Frankovsk;Stanislau;Iwano-Frankiwsk;Stanisław;Stanisławów;Stanislaopoli;Stanislaopolis;Sztanyiszló;Ivano-Frankivszk;Sztanyiszlav;Sztaniszlaviv;Ivano-Frankivs'k;Stanislav;Stanislavov
+Staryy Oskol|RU||9i|3yi|2x5|1r2|Stary Oskol;Starij Oskol;Staryi Oskol;Stari Oskol
+Almere Stad|NL||8m|41h|eh|1d0|Almere
+Stavanger|NO||9j|4jt|fx|165|Stafangur;Stavenger
+Stamford|US|Connecticut|48|361|-5oa|zt|Stemford
+Tyoply Stan|RU||9i|4ai|2w5|yq
+Stara Zagora|BG||9v|39v|1z8|xs|Stara Sagora;Eski Zağra;Stara-Zagora
+North Stamford|US||48|36a|-5oa|xo
+Bukit Bintang|MY||6v|8r|7uj|xh|Starhill;Star Hill
+College Station|US|Texas|2f|2d3|-7fl|tz
+Standerton|ZA||o|-22t|298|s3|Standerston
+Centro|ES||83|265|-16v|ol|city center;Stadtzentrum
+St Albans|GB||9b|3zr|-x|ni|St. Albans;Fanum Sancti Albani;Sent Albanas;Sentalbana;Santa Albans;Sant Albans;Saint Albans
+Luxembourg|LU||9c|3tt|h1|lb|Luxemburg;Luxemburgo;Luksemburgo;Luksemburg;Ciudad de Luxemburgo;Ciutat de Luxemburg;Lucemburk;Luxenburgo;Lussemburgo;Lëtzebuerg;Liuksemburgas;Luksemburga;Luksemburgu;Lussimbork veye;Luxembôrg;Lucsamburg;Stad Lëtzebuerg;Stadt Luxemburg;Lüksemburq;Luksembourg;Dinas Lwcsembwrg;Luxemborj;Lúksemboarch;Lucsemburg;Liksanbou;Luxemburgum;Lüssemburgh;Rakapuō;Lussemburgu;Lussemborgh;Luksimbur;Luxembuurich;Lungsod ng Luksemburgo;Lusenburgo;Luksambuur;Letzeburg
+Kadiyivka|UA||98|3qx|2zc|kc|Kadijewka;Stakhanov;Stachanow;Stajánov;Stachanov;Stahanov;Stahhanov;Stachanovas;Stahanova;Kadiivka;Serho;Kadijiwka;Kadijivka;Kadyivka;Sergo
+Stargard|PL||a5|446|15t|js|Stôrgard
+Stafford|GB||9b|42p|-5w|jh|Stæfford;Stafordo
+Stamford Hill|GB||9b|3z9|-7|ix
+Stalowa Wola|PL||a5|3wi|1p9|ih|Stalova Vola;Staliova Volia;Stalowo Wola
+Castellammare di Stabia|IT||9o|352|149|ie|Estàbia;Stabie;Stabiae;Castellammare
+St. Albert|CA||2s|44z|-8ro|g1|Saint Albert;Sen Alberas;Saint-Albert
+Stourbridge|GB||9b|41q|-5y|fu|Stauerbridžas
+Sankt Augustin|DE||8r|3x2|k0|fl|St. Augustin
+Starachowice|PL||a5|3xs|1mj|ex|Starahovice;Starachovicės
+Staines|GB||9b|3yv|-1f|e6
+Dunaújváros|HU||8v|3mg|1gm|dx|Sztálinváros;Pentela;Dunauivarošas;Duna Pentele;Stalinvaros;Dunapentele
+Starogard Gdański|PL||a5|45w|1fh|d5|Starogarda;Starogarda Gdaņska;Gdansko Starogardas;Starogard
+Staaken|DE||8r|41y|10j|cw
+Staryy Malgobek|RU||9i|3cy|3fw|cv
+Staré Mesto|SK||8s|3pr|1bh|ct|Old Town;Vieille ville;Malnova Urbo;Stari grad;Stare Miasto;Ciudad Vieja;Bratislavan vanhakaupunki
+Stavroúpoli|GR||8p|34z|1rq|cs
+Hansestadt Stade|DE||8r|44v|qb|co|Stade;Gemeen Stood
+Lytham St Annes|GB||9b|45a|-8c|bv|St Annes;Lytham;Lytham St. Annes
+State College|US||48|35b|-60a|bq|Collegium Civicum;Steyt-Kollec
+Stare Misto|UA|Kyiv City|98|3w5|2ct|bm|Old Kyiv;Old Town;Staryi Kyiv;Staryy Kyiv
+Stanton|US|California|3p|2lw|-93r|at
+Altenburg|DE||8r|3xn|yk|aq|Altenbourg;Altemburgo;Starograd
+Staré Strašnice|CZ||9m|3v4|14b|ah
+St Albans|AU||8j|-2wu|b68|ag|Saint Albans;St. Albans
+Old City|PS||6g|2ga|2pv|a0|Altstadt;Stari grad;Vieille Ville;Città Vecchia
+Staraya Derevnya|RU||9i|4mn|2c0|9q|Vanhakylä
+Steinfurt|DE||8r|40v|ke|9m|Stemmert;Ştaynfurt
+Staraya Russa|RU||9i|4h4|2f4|9j|Staraja Russa;Staraja Roessa
+Starokostyantyniv|UA||98|3u8|23l|9i|Starokostiantyniv;Starokonstantynów;Konstantynów;Starokostjantiniv;Starokostjantyniw
+Stains|FR||9k|3rz|6m|92
+Stanley|GB|England|9b|48f|-4q|8p
+Statesboro|US||48|2i5|-6b6|8j
+Starominskaya|RU||9i|3l9|30h|8h|Starominskaja
+Stanford-le-Hope|GB||9b|3z4|17|87|Stanford
+Demiyivka|UA||98|3w0|2cs|84|Verkhnyolybidska Slobidka;Verkhiolybidska Slobidka;Verkhniolybidske Podviria;Verkhnyolybidske Podvirya;Nyzhnyolybidska Slobidka;Nyzhniolybidska Slobidka;Stalinka;Demiivka
+Stabat|ID||6l|ad|7lh|7h
+Stalybridge|GB||9b|44k|-5q|7g
+Stantsiya Novyy Afon|GE||7n|3bo|35g|7e
+Statesville|US||48|2re|-68p|7a
+Stara Darnytsya|UA||98|3w3|2d3|77|Stara Darnytsia
+Staveley|GB|England|9b|43z|-3r|75
+Starkville|US||2f|2kx|-6uq|72
+Staunton|US|Virginia|48|2xz|-63n|6s
+St Austell|GB||9b|3vu|-d9|6s|Austol;St. Austell
+Starnberg|DE||8r|3pc|vi|6n|Starenberg
+Staßfurt|DE||8r|401|w7|6g
+Stadthagen|DE||8r|41c|pk|6f
+Starý Bohumín|CZ||9m|3uo|1ey|6e|Oderberg
+Étampes|FR||9k|3qk|60|6e|Stampae
+Staraya Kupavna|RU||9i|4b1|2y2|65
+Stadtallendorf|DE||8r|3x6|p1|5y
+Chek Chue|HK||6i|1pq|8t9|5r|Stanley;Chik Chu
+Stadtlohn|DE||8r|40f|j8|5q
+Stamford|GB||9b|429|-1c|5q
+Stadskanaal|NL||8m|437|jb|5k
+Staroshcherbinovskaya|RU||9i|3lj|2ze|58|Starosjtsjerbinovskaja;Starosherbinovskaya
+Starodub|RU||9i|423|2j0|55|Starodoub
+Stafford|US|Texas|2f|2aa|-7dg|55
+Saint Andrews|GB||9b|4ci|-7s|54|St Andrews;St. Andrews;Cill Rìmhinn
+St. Andrew-Windfields|CA||59|3dk|-64i|4y
+Stabroek|BE||8t|3yl|c5|4t|Stabroeck
+Stara Pazova|RS||8q|3gz|1k0|4i|Ópazova
+Stadt Winterthur (Kreis 1)|CH||a7|3nx|o8|4i
+Staszów|PL||a5|3wg|1mt|4h|Stašova
+Starobilsk|UA||98|3sw|303|4f|Starobil's'k;Starobel’sk
+Staphorst|NL||8m|429|h9|4e
+Stará Ľubovňa|SK||8s|3sy|1lh|4d|Lubowla;Ólubló;Stara Lyubovnya;Stara Liubovnia
+Stapleford|GB||9b|430|-3j|4b
+Staffanstorp|SE||9w|4ak|10p|4a|Stafanstorpas
+Stallings|US||48|2ph|-685|49
+Stadtbergen|DE||8r|3qd|u5|43|Stadtberger
+St. Ann's|GB||9b|3za|-9|42
+Tapaninkylä|FI||92|4ne|1xg|3z|Staffansby
+Stabłowice|PL||a5|3y3|1ay|3x
+Statte|IT||9o|34l|1bs|3v
+Stanford|US|California|3p|2vy|-9fd|3u|Stenford
+Steinheim|DE|North Rhine-Westphalia|8r|403|p9|3u|Staime
+Saint Ann’s Bay|JM||3i|1f8|-5yg|3t|St Ann's Bay
+Santa Bárbara|CL||4u|-2wn|-5k2|3q|Sta. Barbara;Sta Barbara
+Starovelichkovskaya|RU||9i|3i7|2zl|3n|Starovelitsjkovskaja
+Saint Ann|US||2f|2zl|-6z2|3m|St. Ann
+Saint Augustine|US||48|2b1|-69v|3m|St. Augustine;San Agustín;Saint Augustin
+Stahnsdorf|DE||8r|41i|10q|3m
+Staroderevyankovskaya|RU||9i|3k5|309|3l|Staroderevjankovskaja
+Stupava|SK||8s|3q3|1bb|3j|Stomfa;Stampfen
+Starotitarovskaya|RU||9i|3hm|2v7|3g|Starotitarowskaja;Starotitorovskaya
+Stanytsya-Luhanska|UA||98|3r6|31o|3f|Luganskaya;Stanichno Luganskaya;Stanichnno-Luganskoye;Stanytsia Luhanska;Stanichno-Luganskoye;Stanytsya Luhans’ka;Stanychno-Luhans’ke;Stanychno-Luhanske
+Stamboliyski|BG||9v|391|1w5|3d|Stamoboliyski
+Stafford|US|Connecticut|48|38m|-5kt|3c
+Starý Lískovec|CZ||9m|3sk|1a0|37
+Stanwell|GB||9b|3yx|-1c|35
+Starokamyshinsk|RU||7z|48w|4r3|34|Starokamysjinsk
+Stonehaven|GB||9b|4e8|-65|34|Cala na Creige;Stanehyve;Stonhevenas
+Saint Albans|US|West Virginia|48|2yn|-6bc|32|St. Albans
+Starokorsunskaya|RU||9i|3h6|318|31|Starokorsunskaja;Starakorsunskaya
+Staden|BE||8t|3xl|8d|30|Stoan
+Staryye Dorogi|BY||9g|43c|26j|2z|Starye Dorogi
+Staromyshastovskaya|RU||9i|3hy|30k|2y|Staromysjastovskaja;Staromishastovskaya
+Stranraer|GB||9b|48i|-dz|2x|Stranrawer;An t-Sròn Reamhar;Stanraer
+Staronizhestebliyevskaya|RU||9i|3i2|2ys|2x|Staronizjesteblijevskaja;Staronischesteblijewskaja;Staroniżestieblijewskaja;Staronijesteblíevskaia;Staronishesteblijewskaja;Staro Nizhesteblievskaya;Staro-Nizhne-Stebliyevskaya
+Stare Misto|UA|Donetsk|98|3rd|2wb|2v
+Staryye Atagi|RU||9i|3bs|3j2|2u|Starye Atagi;Çaxker-Yurt;Şaẋgiri-Evl;Şaẋ-Giriyn-Evla;Seẋa Ataġa;Vozdviženskaja;Vozdviženskoe ukreplenie;Vozdvizhenskaya;Staryy Atagi;Vozdvijenskaia;Starye Otagi
+Dangriga|BZ||24|1b5|-6t3|2r|Stann Creek Town;Stann Creek;Stanncrek;Stann Creek Village
+Staryye Ozinki|RU||9s|3y6|3u0|2p|Ozinki;Osinki;Ozinkhi
+Safford|US||4i|2j7|-8gr|2p|Stafford
+Stakeford|GB||9b|498|-4e|2o
+Staryi Krym|UA|Crimea|9t|3h3|2ph|2m|Eski Qırım;Stary Krym;Eski Qyrym
+Statenkwartier|NL||8m|40p|bw|2l
+Staritsa|RU||9i|4cz|2p1|2j|Stariza;Starica;Staric
+Stanhope Gardens|AU||8l|-2lo|bn9|2j
+Stary Sącz|PL||a5|3to|1lb|2i|Stari Sonča;Ószandec
+Tashqorghan|CN||7t|2wy|5sy|2h|Tashkurgan;Stätte der Steinernen Stadt;Tashkurgan Town;Taškurgan;Taškurganas;Taškorgana;Taschkurgan;Tash Qurghan;Tash Kurghan;Taxkorgan;Tashiku’ergan
+Stare Miasto|PL|Lower Silesia|a5|3xz|1bc|2h
+Tapulikaupunki|FI||92|4ng|1xi|2f|Stapelstaden
+Stará Turá|SK||8s|3ri|1d5|2c
+Kivenlahti|FI||92|4n3|1wf|2c|Stensvik;Kivis;Stena;Stenari;Stenis;Stenulahti;Stone bay;Stansvik
+Stans|CH||a7|3mg|n9|2c|Tannis
+Staufenberg|DE||8r|3wq|o9|2b
+Staraya Stanitsa|RU|Rostov|9i|3qb|33x|2b|Staraja Stanitsa
+Saint Anthony|US|Minnesota|2f|3h2|-76y|2a|St. Anthony
+Stayton|US||3p|3gg|-9h3|28
+Tapaninvainio|FI||92|4ne|1xe|27|Staffansslätten
+Staraya Sunzha|RU||9i|3ce|3j2|27|Staraja Sunzja;Staraja Sunža
+Stavrovo|RU||9i|4bx|335|26|Stawrowo
+Star|US|Idaho|28|3dd|-8zl|26
+Stanmore|AU||8l|-2m5|bnw|24
+Bagrationovsk|RU||96|473|1lc|21|Preussisch-Eylau;Stadt Preußisch Eylau;Bagrationowsk;Bagratinovsk;Preußisch Eylau;Eylau;Baqrationovsk;Ylava;Prūsų Ylava;Bagratyionovszk
+Stanley Park|CA||59|3cp|-67g|20
+Staraya Stanitsa|RU|Krasnodar Krai|9i|3h1|36b|1z|Staraja Stanitsa
+Staranzano|IT||9o|3j8|11i|1z|Staranzan
+Staraya Mayna|RU||9z|47p|3rw|1x|Staraja Majna
+Staroyur’yevo|RU||9i|444|352|1x|Starojurjevo;Staroye Yur’yevo
+Stare Bielsko|PL||a5|3uf|1gt|1x
+Stanwood|US|Washington|3p|3q0|-9fx|1w
+Stafford Heights|AU||8c|-243|bt1|1v
+Staryy Cherek|RU||9i|3cr|3du|1v|Staryj Tsjerek;Staryy Cheren
+Stadtroda|DE||8r|3xa|wl|1v
+Starčevo|RS||8q|3gh|1lj|1v|Sztárcsova;Tárcsó
+Stavelot|BE||8t|3w0|gh|1u|Ståvleu
+Starchiojd|RO||8u|3hw|20q|1u
+Staroye Arakchino|RU||9i|4b0|3s1|1u
+Staré Město|CZ|Zlín|9m|3sc|1cf|1u
+Stainforth|GB||9b|44w|-2v|1t
+Stafford|AU||8c|-245|bt1|1s
+Staré Město|CZ|Prague|9m|3v5|142|1r|Prager Altstadt;Old Town;Ciudad vieja;Vieille Ville;Città Vecchia;Oude Stad;Malnova Urbo;Pragako Hiri Zaharra;Óváros;Stare Miasto;Cidade Velha;Praški stari grad
+Tapanila|FI||92|4ne|1xi|1q|StafMosabacka;Mosabacka;Mosis;Muusimäki;Mosapaska
+Stadtoldendorf|DE||8r|404|qr|1p
+Stavyshche|UA|Kyiv Oblast|98|3t7|2bv|1p|Stavishche
+Starobesheve|UA||98|3on|2xn|1o|Starobeschewe;Starobeševe;Starobecheve;Starobexeve;Starobeszewe;Starobéixeve;Starobeshevo;Starobyeshevo
+Staraya Kulatka|RU||9z|42h|3oa|1o|Staraja Kulatka;Staraïa Koulatka;Sztaraja Kulatka
+Starobin|BY||9g|42h|24a|1o
+Staryi Krym|UA|Donetsk|98|3n0|2w5|1o|Staryy Krym;Stary Krym
+Stąporków|PL||a5|3y2|1l5|1n
+Stavern|NO||9j|4jw|rv|1n
+Stawell|AU||8j|-2uy|b0m|1n
+Stănileşti|RO||8u|3li|269|1n|Slănileşti;Stălineşti
+Stanford|ZA||o|-2no|1i2|1l
+Stäfa|CH||a7|3n8|o8|1l
+Staroleushkovskaya|RU||9i|3jr|32g|1l|Stavroleushkovskaya;Staroleusjkovskaja;Staroleushkoskaya
+Stăuceni|MD||8x|3mu|287|1l
+St Andrews|AU||8l|-2mi|bmz|1l
+Starokucherganovka|RU||8o|3ko|3p8|1l|Starokutsjerganovka
+Stavnsholt|DK||8y|4b1|yh|1l
+Goa Velha|IN||6t|16w|5p9|1l|Old Goa;Goa Vieja;Oud Goa;Antiga Goa;Velha Goa;Gamle Goa;Stara Goa;Ó-Goa;Senoji Goa;Stare Goa
+Starobaltachevo|RU||7z|4bk|4bc|1k|Starobaltatsjevo
+Staryi Sambir|UA||98|3tc|1rw|1k|Stary Sambor;Staremiasto;Staryy Sambir;Ószambor;Sztarij Szambir;Staryy Sambor
+Staraya Vichuga|RU||9i|4f3|38c|1k|Staraja Vitsjuga
+Stanišić|RS||8q|3jm|1h9|1j|Sztanisics
+Stansted Mountfitchet|GB||9b|406|k|1i|Headquarters
+Starý Plzenec|CZ||9m|3u2|11f|1i
+Starke|US||48|2b6|-6c3|1i
+Stanthorpe|AU||8c|-27l|bq1|1i
+Steyerberg|DE||8r|421|p2|1i|Staarbarg
+Stapleton|US||48|34v|-5ps|1i
+Staromykhailivka|UA||98|3pb|2wf|1h|Staromikhaylivka;Staromykhaylivka;Staromikhaylovka
+Stara Synyava|UA||98|3ts|24q|1h|Stara Syniava;Stara Sieniawa
+Stadtilm|DE||8r|3x2|us|1h
+Stanovoye|RU||9i|42k|2yi|1g|Ploskoye
+Starozhilovo|RU||9i|46n|32v|1f|Starozjilovo
+Stansbury park|US||2p|34w|-8ny|1f
+Starokozache|UA||98|3kq|2bb|1f|Cazaci;Starokosatsche;Cazacii-Vechi;Starokozatché
+Stâlpeni|RO||8u|3h5|1xd|1f|Stîlpeni
+Nesterov|RU||96|47r|1qp|1f|Ebenrode;Stallupönen;Nesterow;Niestierow;Stalupėnai;Njesterow;Stallupenen;Shtallupënen
+Stari Kuty|UA||98|3q4|1xw|1f
+Starocherkasskaya|RU||9i|3n8|338|1f|Starotsjerkasskaja;Starotjerkasskaja;Staročerkasskaja;Starotcherkasskaïa;Staroçerkasskaya;Czerkask;Starocerkasskaia;Starotxerkàsskaia
+Stara Vyzhivka|UA||98|3yw|1vw|1f|Stara Wyschiwka;Stara Vijivka;Stara Vyživka;Stara Viživka;Stara Vyjivka;Wyżwa Stara;Stara Vyzhva
+Staplehurst|GB||9b|3y4|1j|1f
+Staroaleyskoye|RU||63|3xp|6bs|1e|Staroalejskoje
+Staunton|US|Illinois|2f|30d|-6xf|1e
+Sint Annaparochie|NL||8m|440|fq|1e|Annaparochie;Sint Anne;St. Annaparochie
+Star’|RU||9i|44y|2mv|1e|Star
+Stafford Springs|US||48|38j|-5ku|1e
+Stadtkern|DE||8r|416|t8|1d
+St Albans Park|AU||8j|-2y3|b53|1c
+Stanislav|UA||98|3ld|2hb|1b|Stanislaw
+Stantsionno-Oyashinskiy|RU||75|4a3|6gu|1b|Stantsionno-Ojasjinskij
+Stănişeşti|RO||8u|3kz|23u|1b
+Stadt Winterthur (Kreis 1) / Lind|CH||a7|3nz|o9|1a
+Starobachaty|RU||74|46o|6nh|1a|Starobatsjaty
+Stramproy|NL||8m|3y7|fw|19|Stramproij;Stamproy
+Stadtlauringen|DE||8r|3vf|ss|19
+Stansstad|CH||a7|3mi|n6|19|Stannis
+Staraya|RU||9i|4mh|2d3|18|Staraja;Vanhakylä
+Stadecken-Elsheim|DE||8r|3un|ml|18
+San Antonio de Palé|GQ||10|-3x|fn|18|Pagalu;St Antony;San Antonio de Praia
+Starosubkhangulovo|RU||7z|43i|4fj|18
+Stafford|US|Virginia|48|2yq|-5z1|17
+Stanmore|GB||9b|3ze|-w|16
+Starodubskoye|RU||9i|3fs|3ea|15|Starodubskoje
+Staraya Poltavka|RU||a4|3w8|3l4|15
+Starotimoshkino|RU||9z|458|3o1|15|Starotimosjkino;Starotimoşkino;Starotimoszkino;Starotimóixkino;Staroye Timoshkino
+St Agnes|AU||8b|-2or|apb|14
+Štiavnik|SK||8s|3ss|1fb|14|Šťavník
+Stalham|GB||9b|42l|48|14
+Stabio|CH||a7|3jd|ou|13|Stabi
+Iłowa|PL||a5|3z2|168|13|Stadt Halbau;Halbau;Jiłwa;Ilova
+Stăncuţa|RO||8u|3gq|25b|13
+Staryy Urukh|RU||9i|3ce|3ea|12|Staryj Urukh
+Staryi Saltiv|UA||98|3v3|2u7|12|Staryy Saltiv;Staryy Saltov;Stary Saltov
+Staffelfelden|FR||9k|3ov|k5|11
+Stanley|US|North Carolina|48|2q8|-69a|11
+Stanford|US|Kentucky|48|2w9|-6j6|11
+Stavrós|GR|Central Macedonia|8p|34y|1tu|11
+Stadl-Traun|AT||a2|3pk|12i|10
+Stamperland|GB||9b|4az|-bv|10
+Stanari|BA||9r|3ga|1dj|10
+Stara Kresna|BG||9v|384|1se|10
+Stanley|US|Wisconsin|2f|3gw|-70m|10
+Stadtsteinach|DE||8r|3vc|vy|10
+Geisa|DE||8r|3wv|rn|10|Stadtgeis
+Staropesterevo|RU||74|47e|6o1|10|Stropesterovo
+Starovirivka|UA||98|3tn|2rb|z|Staroverovka;Starovyerovka
+Stamford Bridge|GB||9b|45z|-2k|z|Stanfurðubryggja
+Stavtrup|DK||8y|4bx|s4|z|Stautrup
+Stammham|DE|Bavaria|8r|3q6|wz|z
+Stauchitz|DE||8r|3yc|10p|z
+Standon|GB||9b|430|-6c|y
+Stari Bohorodchany|UA||98|3rn|1w5|y|Stari Bohorodtsjany;Stari Bohorodtschany;Stari Bohorodtjany;Bohorodczany Stare;Stari Bohorodceanî;Stari Bohorodçany;Stare-Bogorodchany
+Stanhope|US||48|35m|-5rj|y
+Stari Banovci|RS||8q|3gy|1kc|y
+Staromlynivka|UA||98|3oi|2ub|y|Staromlinovka
+Stamullin|IE||8z|44z|-hf|y|Steach Maoilín;Stamullen
+Saint Asaph|GB||9b|43y|-9l|y|Llanelwy;St Asaph
+Star Dojran|MK||9u|36f|1r4|x|Stari Dojran
+Staroye Drozhzhanoye|RU||9i|480|3o4|x|Staroje Drozjzjanoje
+Starychi|UA||98|3uu|1tg|x|Starytsji;Starytschi;Staritchi;Starzyska;Starîci;Staryçi;Starichi;Stariska;Stirichi
+Stăuceni|RO||8u|3ok|22b|x
+St. Agathen und Perau|AT||a2|3lh|12i|w
+Stăneşti|RO|Giurgiu County|8u|3e0|1zr|w
+Staig|DE||8r|3q6|rr|w
+Staroutkinsk|RU||7z|4ez|4kt|w
+Stâlpu|RO||8u|3h8|228|w|Stîlpu
+Stadt Winterthur (Kreis 1) / Neuwiesen|CH||a7|3ny|o8|v
+Starza Vecchia|IT||9o|35l|140|v
+Starodzhereliyevskaya|RU||9i|3ic|2ye|v|Starodzjerelijevskaja
+Stara Wieś|PL||a5|3u4|1p4|v
+Staropavlovskaya|RU||9i|3dt|3d7|v|Staropavlovskaja
+Altdöbern|DE||8r|3zh|12z|v|Stara Darbnja
+Staatsliedenkwartier|NL||8m|410|gm|v
+Stadsfenne|NL||8m|43c|fs|v
+Stara Nekrasivka|UA||98|3hy|28c|v|Necrasovca-Veche;Stara Nekrassiwka;Antigua Nekrasivka;Stara Nékrassivka
+Stadt Winterthur (Kreis 1) / Heiligberg|CH||a7|3nx|o8|u
+Staňkov|CZ||9m|3tn|10b|u
+Stará Ves nad Ondřejnicí|CZ||9m|3u5|1ej|u
+Stazione-Fornola|IT||9o|3el|rh|u
+Stamford|US|Texas|2f|2jj|-7p8|u
+Stoumont|BE||8t|3w1|g5|u|Staumont
+Stallavena-Lugo|IT||9o|3ik|uk|t
+Stanton|US|Texas|2f|2h9|-7ur|t
+Stamáta|GR||8p|2xx|1uc|t
+Stanivtsi|UA||98|3pk|20f|t|Stănești
+Šťáhlavy|CZ||9m|3u0|11i|t|Stahlau
+Staples|US||2f|3ks|-7bb|t
+Stare Selo|UA|Rivne Oblast|98|3zd|23d|t|Staro Selo;Stare Sioło;Staroye Selo
+Stanstead|CA||59|3h1|-5k9|t
+Stanislavchyk|UA|Vinnytsia|98|3s1|263|s|Stanislavchik
+Staryy Nadym|RU||7z|529|5lw|s|Staryj Nadym
+Staškov|SK||8s|3ta|1fx|r
+Stará Bystrica|SK||8s|3t3|1gn|r|Alt-Bistritz
+Stanley|US|North Dakota|2f|3q8|-7wf|r
+State Line|US|Pennsylvania|48|32c|-5zw|r
+Stadtlengsfeld|DE||8r|3x2|s5|r
+Stanton|US|Kentucky|48|2x5|-6gy|r
+Stanghella|IT||9o|3he|wo|r|Stranghella
+Stăneşti|RO|Gorj County|8u|3hc|1sl|q
+Statham|US||48|2md|-6g8|q
+Stammbach|DE||8r|3vb|wh|q
+Étables-sur-Mer|FR||9k|3r3|-7v|q|Staol;Stabuli
+Stara Zburivka|UA||98|3l3|2i2|q
+Staggia|IT||9o|3cm|v2|p
+Stadbroek|NL||8m|3xo|gc|p
+Stambruges|BE||8t|3wb|ac|p
+Stari Broskivtsi|UA||98|3q0|1zj|p|Broscăuții Vechi
+Staryi Bilous|UA||98|3z1|2ep|p|Staryy Bilous;Stary-Belous;Staryy Belous
+Stavrós|GR|Central Greece|8p|302|1q5|p
+Stallion Springs|US||3p|2ph|-95k|p
+Stazione|IT|The Marches|9o|3cu|10j|o
+Staufen|CH||a7|3nm|mp|o
+Stawiski|PL||a5|44a|1pj|o|Staviskai;Staviski
+Stange|NO||9j|4oo|v3|o
+Starý Jičín|CZ||9m|3tq|1dw|o|Alttitschein
+Stalbridge|GB||9b|3xk|-6m|o
+Stara Zhadova|UA||98|3pw|1yw|o|Stara Jadova
+Stancea|RO||8u|3em|22h|o
+Strafford|US|Missouri|2f|2vj|-76o|o|Stafford;Stratford
+Stia|IT||9o|3do|wj|o|Staia
+Stakčín|SK||8s|3s4|1pr|n
+Sternatia|IT||9o|33q|1en|n|Starnaìtta
+Stampriet|NA||1f|-1vm|1f4|n|Stampried
+Starcevica|BA||9r|3gc|1bt|n
+Star Valley|US||4i|2n6|-8l2|n|Starr Valley
+Stamsried|DE||8r|3sv|yt|n
+Stanowice|PL|Silesia|a5|3v9|1fv|n
+Starigrad|HR|Koprivnica-Križevci|a6|3k6|1ap|m
+Staraya Toropa|RU||9i|4cc|2fz|m|Staraja Toropa
+Stari Troyany|UA||98|3iv|292|m|Eski Troyan;Traianu Vechi;Stari Trojany;Stari Troïany
+Staříč|CZ||9m|3u1|1er|m
+Stanley|FK||8a|-3zl|-4gq|m|Puerto Argentino;Stenlis;Stenli;Stanlejo;Port Stenlis
+Stadt Winterthur (Kreis 1) / Tössfeld|CH||a7|3nx|o8|m
+Stayky|UA||98|3v4|2du|m|Stayki
+Stăniţa|RO||8u|3mm|23a|m
+Stanisławów|PL|Mazovia|a5|419|1nv|m
+Spišská Stará Ves|SK||8s|3t6|1kk|m|Spiška Stara Ves;Stara Wieś Spiska
+Star City|US|Arkansas|2f|2ma|-734|m
+Staré Nechanice|CZ||9m|3vk|17e|m
+Stavchany|UA|Chernivtsi|98|3qr|1zc|m|Stăuceni;Stavchane
+Vecrīga|LV||9n|4e7|1uy|l|Historisch centrum van Riga;Riian vanhakaupunki;Stara Riga;Vecryga;Stare miasto;Centro Histórico de Riga;Centre historique de Riga;Riga óvárosa;Zgodovinsko središče Rige;Città vecchia di Riga;Vecpilsēta;Vekriqa
+Stanisław Dolny|PL||a5|3um|1il|l
+Staroźreby|PL||a5|427|1jj|l
+Stasi|UA||98|3u7|2o1|l
+Stare Selo|UA|Lviv|98|3u3|1v7|l|Stare Sioło;Staroye Selo
+Stalnivtsi|UA||98|3q6|21r|l|Stălinești
+Stare Kurowo|PL||a5|42u|17k|l|Alt Karbe;Altkarbe
+Stara Ushytsya|UA||98|3qz|237|l|Stara Ouchytsia
+Stanford in the Vale|GB||9b|3zg|-47|l
+Starup|DK||8y|49g|qi|l
+Stanfield|US|Oregon|3p|3j6|-976|l
+Stare Selo|UA|Sumy|98|3x7|2op|l|Chervone;Cervone;Chervonoye
+Staré Hradiště|CZ||9m|3v3|17u|l
+Stamate|RO||8u|3o9|21o|l
+St. Anthony|CA||50|3yp|-4ag|k|Saint Anthony
+Saint Andrews|CA||43|3h7|-569|k|St. Andrews
+Staryy Vovchynets|UA||98|3pc|201|k|Volcineț;Staryï Vovtchynets;Wolczynetz
+Sankt Andreasberg|DE||8r|3zn|t8|k|Saint-Andreasberg;St. Andreasberg
+Stará Paka|CZ||9m|3wb|171|k
+Stazzano|IT||9o|3g9|on|k
+Star City|US|West Virginia|48|326|-667|k
+Nurzec-Stacja|PL||a5|41q|1s5|k|Stacja Nurzec;Nurzec
+Staraya Ladoga|RU||9i|4mo|2hp|k|Stara Ładoga;Staraja Ladoga;Laatokankaupunki;Ladoga
+Stajićevo|RS||8q|3ht|1ku|k
+Nyzhni Stanivtsi|UA||98|3q8|1z1|k|Nyjni Stanivtsi;Stăneștii de Jos
+Stattersdorf|AT||a2|3pu|17f|k
+Stazione|IT|Tuscany|9o|3dz|ul|k
+Stari Žednik|RS||8q|3jn|1ij|j|Stari Ĵednik;Žednik;Nagyfény
+Stångby|SE||9w|4av|10o|j
+Stanwick|GB||9b|41d|-1k|j
+Steinbourg|FR||9k|3rh|kl|j|Steinburg;Staiweri
+Standdaarbuiten|NL||8m|3zd|cj|j
+Stans|AT||a2|3nl|wk|j
+Stari Grad|HR|Split-Dalmatia|a6|3by|1a4|j|Civitas Vetus
+Stari Grad|HR|Zadar|a6|3ff|15u|j
+Stainach|AT||a2|3o1|137|j|Steinach
+Stari Mikanovci|HR||a6|3ht|1fk|j
+Stagecoach|US|Nevada|3p|31d|-97l|j
+Stan’kava|BY||9g|44z|23n|j|Stan’kovo;Stańkava
+Sankt Antoni|CH||a7|3m2|k6|i|Saint-Antoine;St. Antoni FR;St. Antoni;Saint Antoni
+Staryi Chortoryisk|UA||98|3yb|1zw|i|Czartorysk;Staryy Chortoryys’k;Chartoriysk;Chartorysk;Staryy Chartoriysk
+Stare Pole|PL||a5|466|1hd|i
+Stara Tsarychanka|UA||98|3kl|2az|i|Tsarychanka Antigua;Tăriceanca-Veche;Stara Tsarytchanka
+Stare Juchy|PL||a5|45s|1pl|i
+St-André|CA||43|3mu|-588|i|Saint-André
+Stavsnäs|SE||9w|4ko|1fw|i
+Staad|DE||8r|3og|pl|i
+Staletti|IT||9o|2zo|19y|i
+Starksboro|US||48|3ev|-5my|i
+St Anton am Arlberg|AT||a2|3mx|si|i|Saint Anton;St. Anton am Arlberg;Sankt Antonas;St. Anton;Sankt Anton am Arlberg;Sankt Anton;St Anton
+Stabbia|IT||9o|3dm|u3|i
+Verkhni Stanivtsi|UA||98|3q5|1z3|i|Stăneștii de Sus;Oberstanestie am Czeremosch
+Starcross|GB||9b|3wn|-9l|h
+Stadt Wehlen|DE||8r|3xk|12z|h|Štatvēlene
+Stavchany|UA|Chernivtsi|98|3qf|21c|h|Stavtchany;Stăuceni
+Stazione Montalto-Coretto|IT||9o|31h|194|h
+Staryy Merchyk|UA||98|3uu|2rc|h|Staryy Merchik
+Stary Wiśnicz|PL||a5|3up|1kx|h
+Stadtprozelten|DE||8r|3ua|q5|h
+Starkenberg|DE||8r|3xm|y7|h
+Staropyshminsk|RU||7z|4e6|4p6|h|Staropysjminsk
+Stainz|AT||a2|3m9|16f|h
+Stallarholmen|SE||9w|4kx|1bs|h
+Staré Město|CZ|Olomouc Region|9m|3vc|1b3|h
+Stainburn|GB||9b|45t|-4i|h
+Stadt Winterthur (Kreis 1) / Altstadt|CH||a7|3ny|o9|h
+Staryi Liubar|UA||98|3up|252|h|Staryy Lyubar
+Stanley|US|Virginia|48|2z6|-622|h
+Kaupunginkallio|FI||92|4n8|1wh|h|Stadsberget
+Starosillya|UA||98|3kp|29v|g|Frumușica-Veche;Starosillia;Starossillia
+Stavne|UA||98|3s3|1r2|g|Sztavna;Stavna;Stavnoye
+Stari Kodaky|UA||98|3qe|2pk|g|Staryi Kodak;Stari Kaydaky;Stari Kaidaky;Kodak
+Stanhope|GB||9b|483|-5m|g
+Staudernheim|DE||8r|3ua|ld|g
+Stadtkyll|DE||8r|3vv|i5|g
+Stapelfeld|DE||8r|44x|sd|g
+Statenice|CZ||9m|3va|13s|g
+Stafford|US|Oregon|3p|3i2|-9gu|g
+Étrembières|FR||9k|3ka|hb|g|Stamnaria
+Stawiszyn|PL||a5|408|1eb|g|Stavišina
+Stavráki|GR||8p|326|1lu|g
+Stăncești|RO|Buzău County|8u|3hd|22s|g|Stînceşti
+Starý Kolín|CZ||9m|3ux|16h|g
+Stamps|US||2f|2kp|-77q|g|Stamp;Tłoczenie
+Stare Miasto|PL|Subcarpathia|a5|3vp|1qb|g
+Star Valley Ranch|US||2p|3bd|-8k8|f
+Stařeč|CZ||9m|3so|17z|f
+Stantsiyne|UA||98|3oh|2ih|f|Stantsiïné
+Stavrós|GR|Central Macedonia|8p|34r|1pz|f
+Stanton|US|Nebraska|2f|38j|-7i2|f
+Staré Město|CZ|Moravian-Silesian Region|9m|3tz|1f0|f|Stare Miasto
+Stari Bar|ME||9l|38y|1h6|f
+Stavenisse|NL||8m|3zb|b5|f
+Senieji Trakai|LT||a3|47p|1xe|f|Stare Troki;Staryye Troki
+Stare Miasto|PL|Greater Poland|a5|40y|1el|f
+Staryy Togul|RU||63|44f|6mm|f|Star.Togul
+Stams|AT||a2|3nc|ui|f
+Stanfield|US|North Carolina|48|2pv|-67f|f
+Stara Kiszewa|PL||a5|45z|1eh|f|Starô Cziszewa
+Starobelokurikha|RU||63|40l|6kd|f|Staraya Belokurikha
+Stadt Winterthur (Kreis 1) / Brühlberg|CH||a7|3ny|o7|f
+Stacy|US||2f|3i4|-76b|f
+State Center|US||2f|38q|-76s|f
+Stawiguda|PL||a5|452|1ko|f
+Standish|US||2q|3e6|-6h8|f
+Stanley|GB|Scotland|9b|4cx|-9l|f
+Stare Bogaczowice|PL||a5|3x9|18z|f
+Stanleytown|US||48|2u2|-664|e
+Stanton|US|Michigan|2q|3c9|-6kc|e
+Stapelburg|DE||8r|406|tm|e
+Staveley|GB|England|9b|472|-7u|e
+Stallwang|DE||8r|3qw|xz|e
+Stateburg|US||48|2mc|-67p|e|Statesburg
+Stadensen|DE||8r|42w|tc|e
+Sankt Andrä am Zicksee|AT||a2|3oq|1b2|e|Mosonszentandrás;St. Andrä am Zicksee
+Staré Hodějovice|CZ||9m|3rz|14c|e
+St. Adolphe|CA||5d|3tz|-7hr|e
+Stanwell Park|AU||8l|-2n3|bnf|e
+Stanaford|US||48|2x2|-69f|e
+St. Andrews Heights|CA||2s|3xu|-8t0|d
+Stari Lec|RS||8q|3hs|1m8|d
+Stanislavka|UA||98|3ol|299|d|Stanislavovka
+Starokrzepice|PL||a5|3xj|1ft|d
+Staindrop|GB||9b|47m|-51|d
+Stanisławice|PL||a5|3uv|1kj|d
+Starowa Góra|PL||a5|3zl|1i4|d
+Stadl-Hausruck|AT||a2|3pk|12h|d
+Stari Sanzhary|UA||98|3ta|2np|d
+Stânca|RO|Neamț County|8u|3n7|20l|d|Stînca
+Staro Petrovo Selo|HR||a6|3hn|1co|d
+Staffolo|IT||9o|3cn|10m|d
+Stare Babice|PL||a5|416|1lv|d
+Stadelhofen|DE||8r|3uw|v4|d
+Staraya Akkermanovka|RU||7z|3yd|4hs|d|Akkermanovka
+Starbuck|US||2f|3ip|-7dd|d
+Saint Anne|US||2f|35z|-6rn|d|St. Anne;Sainte Anne
+Stara Kamienica|PL||a5|3xg|179|d|Stara Kamienice
+Stäbelow|DE||8r|464|xe|d
+Samaticë|AL||9y|35d|1iv|c|Samatica;Stamatica;Stamatic;Stamaticë
+Zhadove|UA||98|40l|2it|c|Stary Zhadov;Zhdanovo Vtoroye;Zhdanovo Pervoye;Novy Zhadov;Zhadov;Zsadove;Zhadovo Vtoroye;Zhadovo Pervoye;Zhadovo
+Staré Křečany|CZ||9m|3xj|14a|c
+Stalden|CH||a7|3kf|lv|c
+Starcza|PL||a5|3wq|1gw|c
+Stallhofen|AT||a2|3mp|16a|c
+Sterche|UA||98|3pf|20c|c|Stârcea
+Stachy|CZ||9m|3se|11z|c
+Stambaugh, Iron River|US||3y|3k0|-6u7|c
+Stanowice|PL|Lower Silesia|a5|3xh|19h|c
+Staryi Dobrotvir|UA||98|3vj|1vq|c|Staryy Dobrotvir;Staryy Dobrotvor
+St. Alban's|CA||50|3oz|-4b5|c
+Stanberry|US||2f|33q|-7am|c
+Stavrove|UA||98|3oa|2a4|c|Stavrovo;Stavrova
+Stanisławów Pierwszy|PL||a5|41h|1mh|c
+Staudach-Egerndach|DE||8r|3oq|yo|c
+Stavky|UA|Zhytomyr Oblast|98|3w2|296|c|Lenine;Lenino
+Stary Targ|PL||a5|45s|1h9|c
+Stará Huť|CZ||9m|3ua|13g|c
+Stampersgat|NL||8m|3zd|cc|c
+Standlake|GB||9b|3zp|-3y|b
+Stârciu|RO||8u|3mt|1ro|b|Stîrciu
+Saint Andrews Beach|AU||8j|-2yp|b6a|b|St. Andrews Beach
+Stános|GR|West Greece|8p|2zs|1mt|b|Stáno
+Stazione Masotti|IT||9o|3dz|u5|b
+Stal’noye|UA||9t|3iz|2o0|b
+Stari Jankovci|HR||a6|3hq|1gj|b
+Stadtrandsiedlung Malchow|DE||8r|422|11g|b
+Stazione di Allerona|IT||9o|3av|xg|b
+Stan-Bekhtemir|RU||63|425|6lv|b
+Stalís|GR||8p|2q1|1yn|b|Stalida
+Stara Kornica|PL||a5|40y|1rq|b|Kornica Stara;Alt Kornica;SteraKornica
+Starohorozhene|UA||98|3ny|2hu|b|Starohorojéné
+Stara Sil|UA||98|3th|1rt|b|Stara Sól;Stara Sul’;Staraya Sol’
+Stallingborough|GB||9b|44v|-i|b
+Stâncești|RO|Botoșani County|8u|3on|21w|b|Stînceşti
+Stamford|US|New York|48|39t|-5r9|b
+Stara Kulna|UA||98|3oh|29f|b|Staraya Kul’na;Stara Koulna
+Stâna|RO||8u|3nz|1rs|b|Stîna
+Staffelbach|CH||a7|3nc|mc|b
+Stadum|DE||8r|481|p5|b|Ståårem
+Stantsia Staritsa|RU||9i|4d1|2ol|b
+Starigrad|HR|Zadar|a6|3f2|16w|b|Cittavecchia
+Stammham|DE|Bavaria|8r|3q1|zs|a
+Stanbridge|GB||9b|407|-1o|a
+Starovë|AL||9y|354|1jc|a|Starova
+Statenville|US||48|2da|-6en|a|Statesville
+Stathmós Mourión|GR||8p|36m|1rg|a
+Staré Město|CZ|Pardubice Region|9m|3ub|1ab|a
+Stavkove|UA|Odesa|98|3n2|2d4|a|Stavkovyy;Stavkovoye
+Stăvaru|RO||8u|3du|1ve|a
+Stara Mykolayivka|UA||98|3vi|1zl|a|Stara Mykolaivka
+Stanisław Górny|PL||a5|3un|1ij|a|Stanistaw Gony
+Stazione di Padule|IT||9o|3cb|z2|a
+Staryi Uhryniv|UA||98|3rz|1vp|a|Staryy Uhryniv
+Sarabash|UA||98|3oo|2wz|a|Stalinskoye;Stalinskiy;Kommunarovka;Komunarivka;Sarabasch;Ssarabasch;Sarabaš
+Starobohdanivka|UA||98|3mw|2ql|a|Starobogdanovka
+Santa Fé|MX|Tabasco|41|1dr|-763|a|Sta. Fé
+Stare Bielice|PL||a5|46i|18s|a
+Starý Smokovec|SK||8s|3si|1k6|a|Altschmecks;Alt Schmecks
+Stamsund|NO||9j|599|12h|a
+Staudt|DE||8r|3w7|lr|a
+Stagno Lombardo|IT||9o|3h7|s1|a
+Staré Sedliště|CZ||9m|3u6|z9|a
+Starovice|CZ||9m|3rz|1af|a
+Stafford|US|Kansas|2f|2xg|-7lw|a
+Stazione di Pavona-Palazzo Margana|IT||9o|37w|yz|a
+Stânca|RO|Botoșani County|8u|3ou|23l|a|Stînca
+Stari Slatnik|HR||a6|3hi|1dl|a|Stari Slatinik
+Staryye Bobovichi|RU||9i|423|2g6|a|Starye Bobovitsji
+Staraya Terizmorga|RU||9i|46q|3fp|a|Staroye Terizmorgo;Star.Terizmorga
+Stavrós|GR|Thessaly|8p|31c|1p1|a
+Stavoren|NL||8m|42x|ew|9|Staveren;Starum
+Starý Poddvorov|CZ||9m|3rr|1b7|9
+Stanós|GR|Central Macedonia|8p|34m|1tj|9
+Stari Perkovci|HR||a6|3hm|1ez|9
+Bol’shaya Ryazan’|RU||9p|43y|3sy|9|Bolsjaja Rjazan;Staraya Ryazan’
+Stamná|GR||8p|2yz|1n4|9
+Stara Słupia|PL||a5|3xc|1mo|9
+Stedesand|DE||8r|482|ot|9|Stääsönj
+Stamora Germană|RO||8u|3hs|1n1|9|Stamora Dermana
+Staré Město|CZ|Moravian-Silesian Region|9m|3uw|1cf|9
+Start|US||2f|2i9|-736|9
+Stanovo|UA||98|3qi|1ri|9|Szánfalva;Stanove
+Staro Konjarevo|MK||9u|36x|1rs|9|Staro Konyarevo;Sztaro Konyarevo;Konjareva e Vjetër
+Starý Hrozenkov|CZ||9m|3s1|1dm|9
+Stănești|RO|Arges|8u|3hn|1x0|9
+Staryi Kovrai|UA||98|3tm|2i5|9|Staryy Kovray
+Stavrochóri|GR||8p|2pg|202|9|Stavrokhóri
+Stadel|CH||a7|3o1|ni|9
+Star|US|North Carolina|48|2qc|-65m|9
+Staňkovice|CZ||9m|3vv|11p|9
+Stalós|GR||8p|2qn|1ui|9
+Štarnov|CZ||9m|3u1|1bz|9
+Stari Trg pri Ložu|SI||9a|3iz|147|9|Borgovecchio di Olisa
+Starolaspa|UA||98|3o4|2xj|9
+Startex|US||48|2p1|-6c2|9|Sartex
+Stacey Street|US||48|226|-66k|9|Stacy Street
+Stakhanovka|UA||9t|3i1|2mb|9
+Stazione di Parlesca e Solfagnano|IT||9o|3c2|yh|9
+Starovarvarivka|UA||98|3r8|2vf|8|Starovarvarovka
+Stanion|GB||9b|41r|-1u|8
+Stateline|US||3p|308|-996|8|State Line
+Staromaiorske|UA||98|3on|2u7|8|Staromayorske;Staromayors’ke;Staromayorskoye
+Saint Agatha|US||48|3n8|-59r|8|St. Agatha;Sainte Agathe
+Stara Loka|SI||9a|3k9|13q|8
+Vatican City|VA||a1|38e|yl|8|Vatican;Vatikanstaden;Vaticano;Ciudad del Vaticano;Città del Vaticano;Vatikanstadt;Staat Vatikanstadt;Staat der Vatikanstadt;État de la Cité du Vatican;Vatikanas;Grad Vatikan;Vaticaan-Stad;Vatikán
+Staithes|GB||9b|47k|-27|8
+Staudach|AT||a2|3nf|18b|8
+Staševica|HR||a6|3bu|1cf|8
+Stanin|PL||a5|403|1po|8
+Stanhope|AU||8j|-2t9|b6q|8
+Star Lake|US||48|3eo|-5sf|8|Starlake
+Staicele|LV||9n|4go|1wr|8
+Starše|SI||9a|3l3|17t|8
+Stavky|UA|Donetsk|98|3s9|2x3|8|Stavki
+Stave|BE||8t|3vo|cy|8
+Stannards|US||48|38x|-60g|8|Stanard;Stannard
+Stantonsburg|US||48|2qx|-606|8
+Starodubivka|UA||98|3mu|2uw|8|Starodubovka
+Stare Davydkovo|UA||98|3qm|1qv|8|Stare Dawydkowo;Stare Davidkovo;Ódávidháza;Staroye Davydkovo;Staroye Davidkovo;Stare Davydkove
+Stanghelle|NO||9j|4o7|fy|8
+Stari Mayaky|UA||98|3nj|2c7|8|Stari Maïaky
+Stainton|GB||9b|47t|-7s|8
+Stará Myjava|SK||8s|3rj|1cv|8
+Staplecross|GB||9b|3xl|1i|8
+Staré Sedlo|CZ||9m|3ve|zc|8
+Stadtbredimus|LU||9c|3to|ho|7
+Stănești-Lunca|RO||8u|3ft|1v9|7
+Stara Krasnoshora|UA||98|3pg|1yx|7|Crăsnișoara Veche;Stara Ktasnochora;Staraya Krasnoshora
+Starsiedel|DE||8r|3ya|xq|7
+Stanfield|US|Arizona|4i|2jc|-8n0|7
+Stănești|RO|Bacău County|8u|3l9|21p|7
+Stari Ugljevik|BA||9r|3g3|1gt|7
+Stari Shompoly|UA||98|3m4|2di|7
+Starovičky|CZ||9m|3rv|1am|7
+Stamping Ground|US||48|2yb|-6j9|7|Stomping Ground
+Stara Vrhnika|SI||9a|3jp|13o|7
+Stathern|GB||9b|42v|-2e|7
+Staro Pračno|HR||a6|3id|19f|7
+Staro Čiče|HR||a6|3ix|18s|7
+Stanežiče|SI||9a|3k4|143|7
+Sankt Anton im Montafon|AT||a2|3mw|rf|7|Montafon;St. Anton im Montafon
+Stăncești|RO|Prahova|8u|3gm|200|7
+Stare Polichno|PL||a5|42g|16v|7
+Stadhampton|GB||9b|3zk|-35|7
+Stary Las|PL||a5|3vy|1cd|7
+Staraya Tabaga|RU||7x|4rq|a03|7
+Stânceni|RO||8u|3mi|1y3|7|Gödemesterháza;Stînceni
+Staryy Biser|RU||7z|4i9|4jk|7
+Stangental|AT||a2|3pd|17a|7
+Stavroménos Rethýmnis|GR||8p|2qa|1wb|7
+Staryi Irzhavets|UA||98|3u7|2il|7|Staryy Irzhavets’;Staryy Irzhavets
+Startup|US||3p|3oz|-9e6|7
+Stará Říše|CZ||9m|3sm|17b|7
+Stárkov|CZ||9m|3wd|18w|7|Starkstadt
+Stadtschlaining|AT||a2|3ng|198|7
+Starks|US|Louisiana|2f|2c8|-786|7
+Stanwood|US|Iowa|2f|38d|-717|7
+Stalhille|BE||8t|3y9|8j|7
+Stare Selo|UA|Lviv|98|3sq|1vo|7
+Stanisławów|PL|Lublin|a5|3wb|1sa|7
+Stare Selo|UA|Lviv|98|3t6|1tb|7|Staroye Selo
+Stanstead-Est|CA||59|3ha|-5k5|6
+Stazione|IT|Trentino-Alto Adige|9o|3ma|vs|6
+Stansbury|AU||8b|-2oz|ams|6
+Stanton|US|Iowa|2f|35u|-7c6|6
+Stolovichi|BY||9g|43t|20c|6|Stvolovichi;Stoloviche;Stalovichy
+Stari Slankamen|RS||8q|3he|1ka|6|Salankamen;Zalánkemén;Szalánkemén
+Sankt Andrä an der Traisen|AT||a2|3q6|17o|6|Sankt Andrä;St. Andrä an der Traisen
+Stary Zamość|PL||a5|3x6|1sd|6
+Stadlern|DE||8r|3tj|z1|6
+Stankovci|HR||a6|3dz|17m|6
+Stazzona|IT||9o|3k6|ps|6
+Stanislavchyk|UA|Mykolaiv|98|3pq|2dj|6|Stanislavtchyk
+Staple|FR||9k|3wz|6t|6
+Stari Trg|SI||9a|3l6|15v|6|Start trg
+Stazione|IT|Piedmont|9o|3gw|m3|6
+Stavele|BE||8t|3xi|7f|6
+Stanton Harcourt|GB||9b|3zr|-3w|6
+Stara Dąbrowa|PL||a5|44e|162|6
+Stádlec|CZ||9m|3t6|14a|6
+Star Junction|US||48|33a|-65k|6|Starjunction
+Stara Yahilnytsia|UA||98|3s2|1zf|6
+Stânca|RO|Suceava|8u|3ou|20z|6|Stînca
+Staré Ždánice|CZ||9m|3v8|17o|6
+Statzing|AT||a2|3q3|143|6
+Star Karaorman|MK||9u|382|1po|6|Stari Karaorman
+Stavky|UA|Mykolaiv|98|3na|2f0|6|Stavki
+Stambolovo|BG||9v|381|1z9|6|Gmina Stambołowo;Stambolowo
+Stazione Morrovalle|IT||9o|3c8|11r|6
+Stará Ves|CZ|Olomouc Region|9m|3t6|1cl|6
+Starks|US|Maine|48|3g9|-5ed|6
+Starosillia|UA||98|3m9|2bl|6|Starostyne
+Stara Fužina|SI||9a|3kl|12l|6
+Stará Červená Voda|CZ||9m|3vt|1bs|6
+Staldenried|CH||a7|3kf|lw|6
+Stampa|CH||a7|3kq|qn|6|Stanpa
+Statz|AT||a2|3mw|vt|6
+Štáblovice|CZ||9m|3uk|1di|6
+Stagecoach|US|Texas|2f|2br|-7dv|6
+Stallone-Talavorno|IT||9o|3f4|rk|6
+Stanford|US|Illinois|2f|34b|-6vu|6
+Stary Barcik|PL||a5|41i|1j3|6
+Stavrodrómi|GR||8p|353|1pq|6|Stavrodhrómi
+Stavyshche|UA|Zhytomyr Oblast|98|3w0|2a1|6|Stavishche
+Staffhorst|DE||8r|42g|ox|6
+Stare Plavnice|HR||a6|3jh|1ap|6
+Stanz bei Landeck|AT||a2|3mz|tb|6
+Staro Topolje|HR||a6|3hj|1ep|6
+Star Prairie|US||2f|3hk|-751|6
+Stazione di Fasano|IT||9o|35h|1ca|6
+Stanisławów|PL|Mazovia|a5|41l|1m8|6
+Staroavramivka|UA||98|3ue|2kr|6|Staroavramovka
+Staré Hobzí|CZ||9m|3s5|16x|6
+Stoiculești|RO||8u|3fv|1v0|6|Stăiculeşti
+Staven|DE||8r|44z|118|6
+State Line|US|Mississippi|2f|2fc|-6tr|6
+Stara Bohdanivka|UA||98|3m4|2gn|6
+Staré Hory|SK||8s|3ro|1h3|6
+Stark|US||48|3fw|-5ie|6
+Stavkove|UA|Poltava|98|3ut|2nd|5
+Stavkove|UA|Poltava|98|3uu|2nc|5
+Stanford Merthyr|AU||8l|-2j6|bot|5
+Stařechovice|CZ||9m|3tl|1bd|5
+Stančić|HR||a6|3jd|198|5
+Staré Hamry|CZ||9m|3tf|1f9|5
+Stanley|AU||8g|-358|b7m|5
+Stari Gradac|HR||a6|3jk|1c1|5
+Stallhof|AT||a2|3m8|16g|5
+Stará Ves|CZ|Moravian-Silesian Region|9m|3us|1bw|5
+Starbrick|US||48|388|-641|5
+Stare Czarnowo|PL||a5|440|152|5
+Stănija|RO||8u|3k9|1ru|5
+Staunton|US|Indiana|38|31p|-6q7|5|Stauton
+Stara Vodolaha|UA||98|3ub|2rj|5|Staraya Vodolaga
+Stanwell Tops|AU||8l|-2n2|bne|5
+Stare Grabie|PL||a5|41h|1n8|5
+Stall|AT||a2|3m9|108|5
+Standing Pine|US||2f|2ir|-6wf|5
+Ston|HR||a6|3b0|1d6|5|Stagnum

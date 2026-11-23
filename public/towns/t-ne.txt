@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+New Territories|HK||6i|1qa|8sz|uqp|New Territory Hong Kong
+Addis Ababa|ET||2|p2|2zn|ts8|Ādīs Ābeba;Adis-Abebo;Addis Abeba;Addis-Abeba;Addisz-Abeba;Neanthopolis;Adisabeba;Adis Ababa;Tungga;Addisaaba;Addis Abbaba
+Ningbo|CN||7i|2b0|9dn|ssg|Nèn-pô-sṳ;Ninh Ba;Lêng-pho-chhī;Ninbo;Nìng-pŏ̤;Ningpo
+Navi Mumbai|IN||6t|1gw|5mu|k28|New Bombay;Navi Moembaai;Novmumbajo;Nova Bombaim;Navi Mumbaj
+Nantong|CN|Jiangsu|7i|2gz|9br|hjh|Nentung shehiri;Nan-tchung;Nam Thông;Lâm-thong-chhī;Nàng-tŭng;Nan-t’ung
+Nanyang|CN|Henan|7i|2jp|8on|dza|Nam Dương;Nan-jang;Nenyang shehiri;Nanyan;Nàng-iòng;Lâm-iông-chhī
+Neijiang|CN||7i|2a6|83u|9nj|Nô̤i-gĕ̤ng;Nej-ťiang;Nejĝjan;Nui-kông-sṳ;Nội Giang;Lāi-kang-chhī;Neikiang;Nei-chiang
+Ciudad Nezahualcoyotl|MX||41|1hw|-7n1|8b8|Nezahualcóyotl;Nesahualkojotlis;Neza;Cd. Nezahualcóyotl;Cd. Neza;Ciudad Neza;Nezahualkojotlo;Netzahualcóyotl;Ciudad Netzahualcóyotl
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Nay Pyi Taw|MM||7y|1iv|7f1|74y|Naypyidaw;Naypyitaw;Naipidau;Nepjido;Ne Pyi Daw
+Naples|IT||9o|35h|13n|70i|Napoli;Neapel;Nápoles;Nàpols;Neapol;Napolo;Nápoly;Neapolis;Neapole;Napule;Napels;Nàpuli;Neapelj;Napulj;Noapels;Napul;Nappoli
+Namangan|UZ||7m|35w|5j3|5i4|Nemengan;Namangã
+Nashville|US|Tennessee|2f|2sh|-6p2|5bi|Naŝvilo;Nasburgum;Našvila;Nešvilis;Nashwil;Neşvill;Našvėlis;Nashfile;Neshvill;Nachville
+New South Memphis|US||2f|2ph|-6y6|4y8
+Yingkou|CN||7i|34y|9fj|4k8|Eiko;Newchwang;Yingkow
+New Kingston|JM||3i|1e1|-5xa|4i8
+Nellore|IN||6t|145|667|484|Nellur
+Nuremberg|DE||8r|3td|us|3z7|Nürnberg;Norymberga;Norimberk;Nurenbergo;Norimberga;Niurnbergas;Nirnberga;Nürnbarg;Neurenberg;Norimberg;Nyrëmberg;Nyurnbérg;Niamberg;Nürnberq;Neurenberch;Nuremburg;Nurenberg;Nurenburg;Nuernberg
+Newcastle|AU||8l|-2jh|bpm|3x8|Novkastelo;Niukaslas;Niukasel;Nyukasl
+Najrān|SA||7e|1cl|3el|3wh|Necran;Nacran;Najraan
+Najaf|IQ||5z|2gz|3f7|3q2|Nadschaf;Naĝafo;Nadjaf;Nayaf;An-Nadżaf;Nachaf;Nadžaf;Nedzsef;Nadžafas;Necef
+Nanping|CN|Fujian|7i|221|949|3lz|Nàng-bìng;Nan-pching;Nàm-phìn-sṳ;Nenping shehiri;Nam Bình;Lâm-pêng-chhī
+Newcastle|ZA||o|-254|2b5|34g
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+Neiva|CO||27|85|-5t4|2ra
+Lhoka|CN||7i|298|72x|2q9|Nêdong;Zêtang
+Ribeirão das Neves|BR||4w|-1ix|-3eh|2oe
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+New Cairo|EG||c|2bf|2ff|2ez
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Newark|US|New Jersey|48|356|-5q1|26b|Ņuarka;Niuarkas;Novarcum
+Bedok New Town|SG||7j|3p|80q|24y|Piṭōk
+Neihu|TW||7l|1xo|9dr|249|Nui-fù-khî;Nội Hồ;Lāi-ô͘-khu;Nei-hu
+Sengkang New Town|SG||7j|3v|80l|22c|Sengkang;Shèng Gǎng
+Tampines New Town|SG||7j|3r|80r|207
+Neyagawa|JP||7q|2ol|agr|1u9
+Najafābād|IR||7o|2in|3yp|1td|Nejafābād

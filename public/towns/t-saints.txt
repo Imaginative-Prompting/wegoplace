@@ -1,0 +1,155 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Donostia / San Sebastián|ES||9d|3cb|-5h|1fi|San Sebastián;Donostia;La Bella Easo;Sanse;Sant Sebastià;Saint-Sébastien;Donostio;São Sebastião;Donosti;Donostia-San Sebastián;Donostia San Sebasián
+Paris 06 Luxembourg|FR||9k|3rp|6h|b8|St. Sulpice;Saint-Sulpice;Chiesa di Saint Sulpice;Paris 06;VI Saint-Sulpice
+Saint-Sébastien-sur-Loire|FR||9k|3n5|-46|84|Sant-Sebastian-an-Enk;San Sebastián sobre Loira;Engnia;Sen Sebastjan sür Luar
+Saint-Sylvestre|FR|Provence-Alpes-Côte d'Azur|9k|3dg|k5|43
+Saint Simon Mills|US||48|2el|-6a5|3v|St. Simon Mills;Saint Simons Mills;Saint Simon's Mills
+Saint Simons Island|US||48|2ej|-6a1|3m|St. Simons Island;St. Simons;Saint Simon Island
+Saint-Saulve|FR||9k|3vx|9w|35
+Saint-Servais|BE||8t|3w8|dg|2n
+Saint-Sauveur|CA|Quebec|59|3jh|-5q2|2k
+Saint Sampson|GG||91|3tg|-70|2i|St. Sampson
+Saint Stephens|US||48|2rc|-69r|2g
+Saint-Sauveur-des-Monts|CA||59|3ji|-5q1|26
+Saint-Sulpice-la-Pointe|FR||9k|3dm|4p|1v|Sant Somplesi;Sen Siulpisas
+Saint-Sever|FR||9k|3dk|-1l|1d|Sent Sever
+St. Stephen|CA||43|3hi|-56y|18|Saint-Stephen
+Saint-Sébastien-de-Morsent|FR||9k|3s5|31|17|Saint-Sébastion-de Morsent
+Saint-Sulpice|FR|New Aquitaine|9k|3gr|-14|17|Sent Sulpici e Camairac
+Saint-Saturnin-lès-Avignon|FR||9k|3e4|dp|15|Sant Savornin dAvinhon
+Saint-Symphorien|BE||8t|3w4|b5|y
+Saint-Soupplets|FR||9k|3s8|7t|x
+Saint-Symphorien-sur-Coise|FR||9k|3ir|ce|x
+Saint-Savin|FR|Auvergne-Rhône-Alpes|9k|3ir|er|u
+Saint-Siméon-de-Bressieux|FR||9k|3hy|en|s
+Saint-Savinien|FR||9k|3jg|-1w|r
+Saint-Savournin|FR||9k|3cl|fd|r|Sant Savornin
+Saint-Saëns|FR||9k|3tz|3l|q
+Saint-Seurin-sur-l'Isle|FR||9k|3h1|0|q
+Saint-Saturnin-lès-Apt|FR||9k|3e1|ey|p|Sant Savornin dAte
+Saint-Sauveur|FR|Bourgogne-Franche-Comté|9k|3ot|hr|p
+Saint-Sulpice-de-Royan|FR||9k|3iv|-2t|p
+Saint-Saturnin|FR|Pays de la Loire|9k|3pi|g|n
+Saint-Savin|FR|New Aquitaine|9k|3he|-19|n
+Saint-Sauveur-le-Vicomte|FR||9k|3t7|-49|n
+Saint Stephen|GB||9b|3vu|-dm|n
+Saint-Sylvestre-sur-Lot|FR||9k|3fc|28|m
+Saint-Sulpice-de-Pommeray|FR||9k|3o8|3j|k
+Saint-Sulpice-le-Guérétois|FR||9k|3kc|53|j
+Saint-Stanislas-de-Kostka|CA||59|3hi|-5px|j
+Saint-Sauveur|BE||8t|3wv|a0|i
+Saint-Sulpice-sur-Lèze|FR||9k|3cd|3o|i
+Saint-Sauveur|FR|Auvergne-Rhône-Alpes|9k|3hf|ev|i
+Saint-Satur|FR||9k|3ni|7w|i
+Saint-Sulpice-de-Faleyrens|FR||9k|3gn|-j|i|Sent Sulpici de Faleirens;Saint-Sulpice-de Faleyren
+Saint-Sauveur|FR|Hauts-de-France|9k|3t0|7q|i
+Saint-Selve|FR||9k|3g3|-1c|i|Sent Seuve
+Saint-Sernin-du-Bois|FR||9k|3m4|cb|h
+Saint Stephen|US|South Carolina|48|2ks|-660|h|St. Stephen
+Saint-Sorlin-en-Valloire|FR||9k|3ht|dr|h
+Saint-Symphorien|FR|New Aquitaine|9k|3ki|-1d|g|Saint Symphorien
+Saint-Sulpice-sur-Risle|FR||9k|3ri|1u|g|Saint-Sulpice-sur-Rille;Saint-Sulpice-sur-Rîle
+Saint-Sauveur|FR|Hauts-de-France|9k|3uq|65|f
+Saint-Sauveur-d'Aunis|FR||9k|3ke|-2h|f|Saint-Sauveur-dAunis
+Saint-Sauveur|FR|Occitanie|9k|3dj|3w|f
+Saint-Symphorien|FR|New Aquitaine|9k|3ff|-1d|f
+Saint-Sever-Calvados|FR||9k|3ro|-2x|f
+Saint-Symphorien-de-Lay|FR||9k|3jn|bp|e
+Saint-Sauveur-Lendelin|FR||9k|3sh|-3x|e
+Saint-Sulpice-la-Forêt|FR||9k|3py|-4e|e|Sant-Suleg-ar-C'hoad;Sant-Suleg-ar-Choad;Sanctus Sulpicius de Abbatia
+Saint-Simon|CA|Quebec|59|3j1|-5mf|e
+Saint-Sauvant|FR|New Aquitaine|9k|3ks|6|e
+Saint-Souplet|FR||9k|3v2|9t|d
+Saint-Sauveur-de-Montagut|FR||9k|3gi|cq|d
+Saint-Siméon|CA|Quebec|59|3ow|-5e4|d
+Saint-Sauveur|FR|New Aquitaine|9k|3hk|-2b|d
+Saints|FR||9k|3rg|8h|d
+Saint-Saturnin-sur-Loire|FR||9k|3nn|-18|d
+Saint-Sulpice-les-Feuilles|FR||9k|3ko|3t|d
+Saint-Sauveur-des-Landes|FR||9k|3qa|-3n|c|Kersalver-al-Lann
+Saint-Sylvain|FR||9k|3sa|-m|c
+Saint-Samson-sur-Rance|FR||9k|3qp|-5n|c|Sant-Samzun
+Saint-Sulpice-de-Cognac|FR||9k|3j4|-12|c
+Saint-Sernin|FR||9k|3ft|c7|c
+Saint-Siméon|CA|Quebec|59|3pj|-525|c
+Saint-Saturnin|FR|New Aquitaine|9k|3iu|4|c
+Saint-Sauveur-en-Rue|FR||9k|3hr|ci|c|Sant Sauvador jos Rua;Sant Salvador
+Saint-Senoux|FR||9k|3p2|-4z|c|Sant-Senour
+Saint-Sauveur-sur-École|FR||9k|3qq|73|c
+Saint-Sulpice|FR|Hauts-de-France|9k|3t3|5w|b
+Pragoulin|FR||9k|3jx|9f|b|Sant Silvestre;Saint-Sylvestre
+Saint-Sylvestre-Cappel|FR||9k|3x2|74|b
+Saint-Sauves-d'Auvergne|FR||9k|3ip|7h|b
+Saint-Saturnin|FR|Auvergne-Rhône-Alpes|9k|3iu|8l|b
+Saint-Savin|FR|New Aquitaine|9k|3ld|2e|b
+Saint-Sorlin-en-Bugey|FR||9k|3jh|ex|b
+Saint-Senier-sous-Avranches|FR||9k|3r8|-3p|b
+Saint-Simon|FR|Auvergne-Rhône-Alpes|9k|3gw|6x|a
+Saint-Sauveur|FR|New Aquitaine|9k|3m1|1q|a
+Saint-Sylvestre|CA||59|3ks|-5hv|a
+Saint-Sornin-Lavolps|FR||9k|3i2|3u|a
+Saint-Sauveur-en-Puisaye|FR||9k|3oa|8w|a
+Saint-Suliac|FR||9k|3qx|-5h|9|Sant-Suliav;Sanctus Sulianus
+Saint-Saulge|FR||9k|3mu|9r|9
+Saints-Geosmes|FR||9k|3ov|et|9|Saint-Géosmes
+Saint-Saud-Lacoussière|FR||9k|3ii|2a|9|Sensaut e la Cossiera
+Saint-Sulpice-Laurière|FR||9k|3jx|43|9
+Saint-Sauflieu|FR||9k|3ub|69|9
+Saint-Ségal|FR||9k|3q0|-bb|9|Sant-Segal
+Saint-Symphorien-de-Marmagne|FR||9k|3m4|c1|9
+Saint-Siffret|FR||9k|3ea|cf|9
+Saint-Symphorien-le-Château|FR||9k|3qs|4w|9
+Saint Stephen|US|Minnesota|2f|3iy|-79v|9|St. Stephen
+Saint-Seurin-de-Cadourne|FR||9k|3ht|-27|8
+Saint-Seurin-de-Cursac|FR||9k|3hg|-1r|8
+Saint-Séverin|CA||59|3ln|-5le|8|Proulxville
+Saint-Siméon|FR||9k|3rk|8w|8
+Saint-Saturnin-du-Bois|FR||9k|3k6|-1v|8
+Saint-Servant|FR||9k|3p4|-6z|8|Sant-Servant-an-Oud;Sanctus Servacius
+Saint-Sylvestre|FR|New Aquitaine|9k|3js|3u|8
+Saint-Sauveur-Marville|FR||9k|3r0|3k|8
+Saint-Sorlin-de-Vienne|FR||9k|3ib|dp|8
+Saint-Séverin-en Condroz|BE||8t|3wd|f1|8|Saint-Séverin-en-Condroz;Saint-Séverin
+Saint-Séverin|FR||9k|3hv|p|8
+Saint-Sornin|FR||9k|3ix|18|7
+Saint-Samson-de-Bonfossé|FR||9k|3s9|-35|7
+Saint-Symphorien-le-Valois|FR||9k|3sx|-4c|7
+Saint-Symphorien-sous-Chomérac|FR||9k|3g8|d2|7
+Saint-Sorlin|FR||9k|3iq|cw|7
+Saint-Sulpice|FR|Auvergne-Rhône-Alpes|9k|3il|g9|7
+Saint-Sernin-sur-Rance|FR||9k|3dw|78|7
+Saint-Sébastien|FR||9k|3kv|49|7
+Saint-Simon|CA|New Brunswick|43|3om|-504|7
+Saint-Sixt|FR||9k|3jx|hl|7
+Saint-Sauveur|CA|New Brunswick|43|3o1|-51b|7
+Saint-Sauveur|FR|Brittany|9k|3ql|-b5|7|An Dre-Nevez
+Saint-Simon-de-Bordes|FR||9k|3i4|-19|7|Saint-Simon-des Bordes
+Saint-Sornin-Leulac|FR||9k|3kc|3m|7|Sent Sornin lo Paubre;Sent Sòrnin;Saint-Sornin-Leulat;Saint-Sornin
+Saint-Servais|FR||9k|3qr|-bj|7|Sant-Servez-Landivizio
+Saint-Sulpice-le-Verdon|FR||9k|3m9|-3y|7
+Saint-Simon|FR|Hauts-de-France|9k|3u7|8u|7
+Saint-Sériès|FR||9k|3dh|bf|7
+Saint-Sulpice-des-Landes|FR||9k|3o6|-3d|7|Sant-Suleg-al-Lanneier
+Saint-Sigismond|FR||9k|3jz|id|6
+Saint-Sulpice-le-Dunois|FR||9k|3km|4t|6
+Saint-Sauveur|FR|New Aquitaine|9k|3gn|1n|6
+Saint-Sandoux|FR||9k|3is|8n|6
+Saint-Sever-de-Saintonge|FR||9k|3iy|-1e|6
+Saint-Salvy-de-la-Balme|FR||9k|3d5|6o|6
+Saint-Sardos|FR||9k|3dy|35|6
+Saint-Sixte|FR||9k|3j5|b2|6
+Saint-Sulpice|CH||a7|3mb|i8|6
+Saints-en-Puisaye|FR||9k|3oa|92|6
+Saint-Sernin-du-Plain|FR||9k|3m9|cu|6
+Saint-Saturnin-du-Limet|FR||9k|3ot|-2z|6
+Saint-Simon-les-Mines|CA||59|3kd|-5gc|6
+Saint-Sylvestre|FR|Auvergne-Rhône-Alpes|9k|3jc|gq|6
+Saint-Secondin|FR||9k|3kp|1d|6
+Saint-Sauvant|FR|New Aquitaine|9k|3j2|-1e|6
+Saint-Sorlin-de-Morestel|FR||9k|3is|f8|6
+Saint-Santin|FR||9k|3g1|66|5
+Saint-Symphorien|FR|Pays de la Loire|9k|3pj|-b|5
+Saint-Sauveur-de-Cruzières|FR||9k|3f2|bt|5
+Saint-Seurin-de-Prats|FR||9k|3gj|7|5
+Saint-Symphorien-des-Bruyères|FR||9k|3rj|1m|5
+Saint-Silvain-Bas-le-Roc|FR||9k|3kp|67|5

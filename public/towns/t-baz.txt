@@ -1,0 +1,72 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bazhong|CN||7i|2gj|88i|kxl
+Cox’s Bāzār|BD||6a|1nk|73l|1yi
+Basel|CH||a7|3o4|l1|1dc|Basilea;Bazelo;Bâle;Basilia;Bazelis;Bazel;Bazylea;Basileia;Bazilej;Basilej;Bâla;Robur;Bāzele;Baxiłea;Bazeli;Baza;Basle
+Basildon|GB||9b|3z9|1a|149|Bazildonas;Bazildono
+Bagé|BR||4w|-2f1|-46b|xp|Bažė;Bajé
+Bhairab Bāzār|BD||6a|1ut|70q|tb
+Doğubayazıt|TR||94|31v|3eg|mj|Doğubeyazıt;Bazîd;Doğubayazıd;Doğu Beyazidi;Doğubayazidi
+Bāzār-e Yakāwlang|AF||6o|2oi|561|i2|Bāzār-e Yakāvlang;Bāzāṟe Yakāwlang;Bazari-Yakavlang;Bāzār-e Yekāwlang
+Bāzārak|AF||6o|2q3|5d4|i2
+Bazar-Korgon|KG||65|360|5m3|be|Bozorqo‘rg‘on
+Pezinok|SK||8s|3q5|1bz|6s|Bösing;Bazin
+Bāzpur|IN||6t|28z|63r|6n
+Baza|ES||9d|2w5|-7p|6i
+Bazré|CI||0|io|-f8|44
+Bazou|CM||j|e2|t3|3n
+Bazhovo|RU||7z|48y|4r4|37|Bazjovo
+Bazarnyy Karabulak|RU||9s|417|3ky|2w|Basarny Karabulak;Bazarnyj Karabulak;Bazarni Karaboulak;Bazarnij Karabulak;Bazarnıy Karabulak;Bazarniy Karaboelak;Bazarny Karabulak
+Bāzargān|IR||7o|31f|3fb|2s|Bāzergān
+Bazhai|CN||7i|20t|8en|2o
+Bazzano|IT||9o|3fm|ut|1p
+Bazarnyy Syzgan|RU||9z|45b|3lw|1o|Bazarny Syzgan
+Bāzār Jom‘eh-ye Shānderman|IR||7o|2vx|3sg|1l
+Bazel|BE||8t|3y3|by|1l|Basel
+Bazarnyye Mataki|RU||9i|48j|3up|1h|Bazarnye Mataki;Bazarlı Matak;Bazarnyye Matani
+Bazmān|IR||7o|25e|4n6|1g
+Bazas|FR||9k|3ff|-l|1f|Vasats;Basatum
+Bazang|CN||7i|2m6|810|1e
+Bāz Kīā Gūrāb|IR||7o|2ve|3us|16|Bāzkīā Gūrāb;Bāz Kīyā Gūrāb;Bāzkiya Qurāb;Bāz Keyā Gūrāb;Bāzgīā Gūrāb
+Bazna|RO||8u|3kc|1vg|12
+Bazi|CI||0|ix|-fy|12
+Poshtove|UA||9t|3gk|2mc|v|Pochtovoye;Bazarçıq;Bazartchyk;Poschtowe;Bazarchik;Bazartchik;Basartschyk;Bazarchyk
+Bârzava|RO|Arad County|8u|3k4|1p2|u|Berzava;Bîrzava;Bâzava
+Baziège|FR||9k|3cp|4h|p|Basièja
+Bazeilles|FR||9k|3u0|du|l
+Bazzāryah|PS||6g|2hr|2pp|l|Bazārīyah;Bazzāriya;Bazzārīyah
+Bazancourt|FR||9k|3t5|bl|k
+Bazouges-la-Pérouse|FR||9k|3qj|-4d|i|Bazeleg-ar-Veineg;Bazogiae Petrosae
+Bazemont|FR||9k|3rx|57|g
+Bazaliya|UA||98|3u3|21j|f|Bazaliïa;Basalija;Bazalija;Bazalia
+Bazoches-les-Gallerandes|FR||9k|3pt|5o|e
+Bazum|AM||80|35j|3fg|e|Bzovdal;Bezobdal;Bezovdal;Bzobdal;Bzovdan
+Bazet|FR||9k|3c9|7|d
+Bazainville|FR||9k|3rk|4n|d
+Dzithankov|AM||80|34j|3dq|c|Tsityangov;Bazirkhana;Zetyhankov;Dzithanqov;Olukhlu
+Bazouges-sur-le-Loir|FR||9k|3oh|-h|c
+Bażanowice|PL||a5|3u6|1fy|c|Bažanovice
+Bazaryanka|UA||98|3jh|2br|c|Bazarianka;Bazar’yanka;Bazarianca;Basyrjamka
+Bazoges-en-Pareds|FR||9k|3lm|-2k|b|Bazoges en Pareds
+Baziafla|CI||0|jo|-g6|a
+Bazmaghbyur|AM||80|341|3f4|a|Bazmaxbyur;Bazmakhpyur
+Bazougers|FR||9k|3pe|-1m|a
+Bazylivshchyna|UA||98|3tg|2ow|9|Bazilevshchina;Bazylevshchina
+Bazoches-sur-Hoëne|FR||9k|3qv|1b|9
+Bazoș|RO||8u|3j2|1nq|9|Basosch
+Bazoges-en-Paillers|FR||9k|3mb|-36|9
+Bazoches-lès-Bray|FR||9k|3qg|8v|8
+Bazra|CI||0|l2|-hq|7|Bazera
+Banzhá|MX||41|1l6|-7om|7|Bazha
+Bazoches-sur-le-Betz|FR||9k|3pp|8b|7
+Bāzīār Kolā|IR||7o|2tj|408|7
+Bazoilles-sur-Meuse|FR||9k|3q6|fq|6
+Bazaliivka|UA||98|3uf|2ur|6|Bazaliyevka;Bazaliyivka;Bazaleyevka
+Bazincourt-sur-Epte|FR||9k|3sz|4x|6
+Bazus|FR||9k|3di|48|6
+Bazuel|FR||9k|3v5|9z|6|Basuel
+Bazaga|CI||0|i0|-id|6|Bazago
+Bazga|RO||8u|3ku|232|6|Bîzga
+Bazoy|RU||7r|4au|6fk|6|Bazoj
+La Bazoge-Montpinçon|FR||9k|3q4|-1l|6|Bazoge-Montpinçon
+Bazens|FR||9k|3ey|16|5
+Bazoches-sur-Guyonne|FR||9k|3ri|56|5

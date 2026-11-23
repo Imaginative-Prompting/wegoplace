@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Foshan|CN||7i|1rz|8q9|1xrt|Phật Sơn;Fo-šan;Fu̍t-sân-sṳ;Fošanas;Fosjan;Foŝan;Hu̍t-san-chhī;Hŭk-săng;Hotokeyama;Fak San;Fuk Shan;Fut Shan;Fatshan
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Fuzhou|CN|Fujian|7i|20e|97f|vld|Fucheu;Phúc Châu;Hók-ciŭ;Fudžou;Fu-čou;Fuk-chû-sṳ;Futsjou;Fuĝoŭo;Hok-chiu-chhī;Fucsou;Focheum;Fuzcouh;Fuçjou;Fužov;Fu-chou;Fuchau;Fouzhou
+Faisalabad|PK||6q|2fa|5n1|tbm|Fajsalabad;Feisalabadas;Lyallpur
+Busan|KR||7h|2pi|9yf|pcj|Pusano;Pusan;Phủ San;Pusana;Fusan
+Huizhou|CN||7i|1s7|8tu|mdl|Huệ Châu;Xuyjo shehiri;Chuej-čou;Fi-chû-sṳ;Huitsjou;Hūi-chiu-chhī;Hiê-ciŭ;Hujdžov;Hui-chou
+Fortaleza|BR||2w|-ac|-2z2|iio|Fortalezo;Fortalaetia
+Fuyang|CN|Anhui|7i|2je|8xq|dnd|Fu-jang;Phụ Dương;Pâiu-iòng;Hū-iông-chhī;Fuyan;Fou-yang
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Recife|BR||4p|-md|-2ow|crb|Recifo;Resife;Fernambucum;Resifi
+Phoenix|US|Arizona|4i|2kx|-8nb|cqd|Fenikso;Pēniki;Féniks;Fīniksa;Finiksas;Hoozdoh;Phoeniks;Finiks;Finiksos;Phenix
+Fukuoka|JP||7q|2lc|a2a|cfw|Fukuoko;Fucuoca;Hukuoka
+Philadelphia|US|Pennsylvania|48|32z|-5ss|c57|Filadelfia;Philadelphie;Filadelfie;Filadelfio;Filadelfija;Filadelfi;Philly;Fi-sàng;Filadélfiye;Filadelfiya;Filadelfijo;Filadelfii
+Faridabad|IN||6t|26x|5yr|awt
+Fushun|CN||7i|38d|9ka|at2|Fusjun;Fu-šun;Fuŝuno;Fušunas;Phủ Thuận;Ū-sông;Fusun;Bú-sūn-chhī;Fu-shan
+Fes|MA||d|2mj|-dw|973|Fez
+Fengxiang|CN|Shanghai|7i|2dq|9df|8sx
+Fuzhou|CN|Jiangxi|7i|25o|8z5|8er|Ū-ciŭ;Fu-čou;Vù-chû-sṳ;Phủ Châu;Bú-chiu-chhī;Fu-chou
+Hengyang|CN||7i|22p|8ou|8ar|Cheng-jang;Hengjang;Fên-yòng-sṳ;Hengjangas;Xéngyang shehiri;Hành Dương;Hèng-iòng;Hêng-iông-chhī;Heng-nan
+Fort Worth|US||2f|2ix|-7ic|7s1|Fortvērta;Fortvortas;Arx Vorthensis;Fort Vort;Fort Uert;Fortvorto;Ft Worth
+Hezhou|CN||7i|1vs|8lx|7rb|Hô̤-ciŭ;Che-čou;Fo-chû-sṳ;Hạ Châu;Hohcouh;Hō-chiu-chhī
+Feicheng|CN|Shandong|7i|2sp|90d|7gx|Feychen
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+San Francisco|US||3p|2wx|-9g2|6dv|San-Francisko;Frisco;Sanfrancisko;San Frantzisko;Kapalakiko;Franciscopolis;San Fransiskas;São Francisco;San Fransisko;San Franciscu;Khiu-kîm-sân;San-Fransisko;San Francisko;San Fransisco
+Freetown|SL||l|nl|-10s|66y|Fritaŭno;Fritaunas;Fritonn;Urbs Libera;Fritaun;Frītauna
+Fuxin|CN||7i|38q|9dy|5bf|Fu-sin;Fusin;Fusinas;Phụ Tân;Pâiu-sĭng;Hū-sin-chhī;Fu-hsin
+Vancouver|CA||5b|3st|-9i0|53y|Vankuvero;Vancuverium;Vancôver;Wankuwér;Vankūvera;Venkûver;Vankuver;Fankûver;Vankuveris;Vangúve
+Frankfurt am Main|DE||8r|3v8|o4|50k|Francoforte;Francfort;Fráncfort del Meno;Frankfurt;Frankfurt nad Menem;Frankfurt del Main;Frankfurt nad Mohanem;Frankfurto ĉe Majno;Francfort-sur-le-Main;Frankfurt na Majni;Frankfurtas prie Maino;Frankfurte pie Mainas;Frankfort an'n Main;Frankfurt nad Mohanom;Fráncfort d'o Meno;Francofurtum ad Moenum;Francfòrt sul Main;Francuforti suprô Menu;Francoforte sul Meno;Frankfet;Franckfurt;Frankfort
+Honchō|JP|Chiba|7q|2r6|asv|4z3|Funabashi;Funabasi;Hunabasi-chhī;Hunabasi;Furabeshi
+Feira de Santana|BR||20|-y3|-309|4r7|Feira de Sant'Anna;Feira De Saint Anna
+Tucson|US||4i|2hi|-8k5|46q|Tuksonas;Tūsona;Takson;Tuson;Tugson;Tuison;Lucson;Teuson;Fucson;Tuczon
+Fresno|US|California|3p|2u3|-98p|46l|Fraxinus;Frezno;Fresnas
+Juiz de Fora|BR||4w|-1og|-3cf|468|Žuis de Fora
+Al Fayyum|EG||c|29f|2do|406|Fajum;Fayoum;El-Fayum;Al-Fayyum;Faium;Madinat al-Fayyum;Fayyum;Faijum;Fayún;Fayyoum;El Faiyûm;Fayum;Fayoom
+Lisbon|PT||99|2zl|-pf|3zu|Lisboa;Olisipo;Felicitas Julia;Lissabon;Lisabon;Liospóin;Lisszabon;Lisabona;Lizbona;Felicitas Julia Olissipo;Olissipo;Lizboa;Lizbon;Lisimbã
+Florianópolis|BR||4w|-24o|-3qv|3xc|Nossa Senhora do Destêrro;Floripa;Florjanopolisa;Santa Catherina
+Fukuyama|JP||7q|2ns|aah|3m8|Fukujama;Hukuyama-chhī;Hukuyama
+Colorado Springs|US||2p|2zv|-836|3iu|Kolorado Springsas;Kolorādospringsa;Fontes Coloratenses;Kolorado Sprinqs;Colorado Spgs
+Fujisawa|JP||7q|2q7|arg|3e5|Pudyisawa;Fujisava;Fudžisava;Huzisawa-chhī

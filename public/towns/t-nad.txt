@@ -1,0 +1,73 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Najaf|IQ||5z|2gz|3f7|3q2|Nadschaf;Naĝafo;Nadjaf;Nayaf;An-Nadżaf;Nachaf;Nadžaf;Nedzsef;Nadžafas;Necef
+Nada|CN||7i|1i8|8ge|1zb|Danzhou;Na-ta
+Nadiād|IN||6t|1r1|5me|1qj|Nadiyad;Hadiad
+Nador|MA||d|2pp|-85|1d2|Nnaḍur
+Na Di|TH||62|138|7uq|fz|Nadi
+Nagykanizsa|HU||8v|3l1|1b7|d5|Kanije;Velika Kaniža;Nadkaniža;Velika Kanjiža;Kanischa;Großkirchen
+Nadym|RU||7z|521|5lg|cv|Nadõm;Nadim
+Naju|KR||7h|2pb|9s0|bt|Nadžu
+Nadi|FJ||ar|-1dg|dou|br|Nandi
+Nādāpuram|IN||6t|wg|5u5|b6
+Ndélé|CF||6|nd|1ld|7j|N’Delle;Nadélé
+Nādbai|IN||6t|23m|5yg|7c
+Naduvannūr|IN||6t|vx|5ui|78
+Nadodrze|PL||a5|3y1|1bb|6g
+Nadvirna|UA||98|3r4|1w9|69|Nadworna;Nadwirna;Nadvorna
+Naduvattam|IN|Kerala|6t|u8|5v4|5x|Naduvattom
+Naantali|FI||92|4nz|1p6|5n|Nådendal;Vallis Gratiae;Nodendal';Nantali
+Nadim Tiruvuru|IN||6t|1bj|67x|56
+Nadd al Ḩumr|AE||6c|1y0|49u|3s|Nadd al Ḩamar
+Naduvattam|IN|Tamil Nadu|6t|vw|5wm|39
+Nadisāl|IN||6t|10h|5rq|38|Nadsal
+Nadvoitsy|RU||9i|4xh|2n6|30|Vojatsu;Nadovitsy;Nadvoytsy
+Nadarzyn|PL||a5|40p|1lt|2r
+Nádudvar|HU||8v|3nq|1mt|2j
+Nadaikavu|IN||6t|n1|5yb|2f
+Nadezhda|RU||9i|3ei|3fw|2c|Nadezjda
+Nădlac|RO||8u|3k9|1ln|29|Nagylak;Nadlak
+Nadterechnoje|RU||9i|3d6|3hy|27|Nadterechnoye;Nadteretsjnoje;Nadtereçnoe;Nadterechnaya
+Nadīgaon|IN||6t|20j|63i|24
+Madridejos|PH|Central Visayas|71|r7|9in|1s|Nadridejos
+Chiri-Yurt|RU||9i|3bp|3j2|1f|Tsjiri-Jurt;Cemzavod;Čiri-Jurt;Çüyrin-Evl;Nadreč’e;Nadrech’ye;Chir-Yurt
+Nadgaon Tarf Birwadi|IN||6t|1ea|5o2|1d
+Nādaun|IN||6t|2ga|5w2|1c
+Nadadores|MX||44|233|-7u7|17
+Nadur|MT||9e|2s4|13p|13
+Nădrag|RO||8u|3it|1pm|t
+Duns|GB||9b|4ay|-6j|r|Na Dùintean;An Dún
+Naddāfīyeh|IR||7o|2ft|3rs|o
+Nadeş|RO||8u|3ko|1wp|o
+Nodeland|NO||9j|4hk|ls|m|Naadeland;Noteland;Nådeland
+Nedožery-Brezany|SK||8s|3rm|1fs|l|Nádasérberzseny;Mauth bei Deutschproben
+Nadrālā|IN||6t|246|63v|l|Nadraala
+Nemesnádudvar|HU||8v|3kq|1gx|k|Nadwar
+Nadadouro|PT||99|31i|-pj|j
+Nádasdladány|HU||8v|3my|1eo|j
+Nadab|RO||8u|3l4|1nr|j
+Velyka Palad|UA||98|3pc|1rk|i|Nagypalád;Nad’-Palad
+Nadlymanske|UA||98|3kt|2c9|i|Franzfeld;Nadlîmanske
+Mecseknádasd|HU||8v|3ke|1fb|h|Nadoš;Nadasch
+Nadrichne|UA|Odesa|98|3kt|28v|f|Cioara Murza;Nadritchné
+Nádasd|HU||8v|3mh|1a5|d
+Nadlak|UA||98|3rd|2eh|d
+Nadiyivka|UA||98|3pz|2oj|b|Zhdanove;Nadievka;Nadijivka;Nadiivka;Nadijiwka
+Nadiéta|CI||0|i9|-g6|b
+Naddnipryanske|UA||98|3lu|2iv|b|Naddniprianské
+Nadil|AZ||61|356|3kl|a|Nadjl;Nadel’
+Nadăș|RO||8u|3ke|1oz|a
+Nadigbeu|CI||0|is|-j7|a
+Nadbuzke|UA||98|3mk|2gi|9|Nadbouzké
+Nadrupe|PT||99|310|-ps|9
+Nadișu Hododului|RO||8u|3no|1rw|8|Nadişul Hododului;Nadişu-Hododului
+Oberloisdorf|AT||a2|3nt|19v|8|Felsőlászló;Nadrloštrof
+Nadrichne|UA|Ternopil|98|3tl|1xc|8|Nadritsjne;Dryszczów;Nadricine
+Straßgräbchen|DE||8r|3yn|132|8|Nadrózna Hrabowka
+Nadtochiyi|UA||98|3ut|2s7|8|Nadtochii;Nadtochiv
+Nadějkov|CZ||9m|3ti|148|8|Nadějkau
+Ñado Buenavista|MX||41|1jq|-7pe|8
+Nadezhdivka|UA||98|3j8|29s|7|Hoffnungsfeld;Nadejdivka;Gofnungsfeld
+Nădejdea|RO||8u|3l6|1zs|7|Ajnád;Ainad;Nădejdi;Nădejde
+Bompensiere|IT||9o|2w3|12a|6|Naduri;Bampensiere
+Nadiya|UA||98|3kf|2ad|6|Nadiezda;Nădejdea;Nadejda;Eigenfeld;Nadia;Nadiia
+Nadrin|BE||8t|3vc|fs|6

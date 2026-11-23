@@ -1,0 +1,232 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wenzhou|CN||7i|25s|9b7|kg4|Wen-čou;Venĝou;Wénju shehiri;Wentsjou;Vûn-chû-sṳ;Ôn Châu;Un-chiu-chhī;Ŭng-ciŭ;Vencsou;Vendžou;Yongjia;Wen-chou
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+Vancouver|CA||5b|3st|-9i0|53y|Vankuvero;Vancuverium;Vancôver;Wankuwér;Vankūvera;Venkûver;Vankuver;Fankûver;Vankuveris;Vangúve
+Venustiano Carranza|MX|Mexico City|41|1i0|-7na|3bq
+Venlo|NL||8m|3yp|h5|sc|Venlas;Fenlo
+Ventura|US|California|3p|2n8|-97d|qw
+Venado Tuerto|AR||1n|-2lr|-4s5|k3|Venado Tuertas
+Venâncio Aires|BR||4w|-2a9|-40z|j4|Venancia Ayres;Venancio Ayres
+Veenendaal|NL||8m|40j|fg|h1|Venendaal
+Vénissieux|FR||9k|3iy|dl|g0|Vènissiœx
+Vannes|FR||9k|3oe|-7o|f0|Gwened;Venetens;Dariorigum;Vanas
+Venkatagiri|IN||6t|12s|652|en
+Venice|IT||9o|3i8|y9|e9|Venetia;Venedig;Venècia;Venecio;Venecija;Benátky;Venezia;Venetsia;Venise;Velence;Venesia;Venizia;Venedeg;Venies;Venetië;Wenecja;Veneza;Vinezzia;Benetke;Venediku;Venedik;Venezsia;Benezia;Vignesie;V'nise;Feneyjar;an Veinéis;Mleci;Venesiya
+Ventas|ES||9d|34a|-a5|dy
+Vengara|IN||6t|up|5v2|di
+Vincennes|FR||9k|3rp|6s|cr|Vilcenia;Vensen;Vensenas
+Venice|US|California|3p|2mf|-952|bd|Venetia
+Venray|NL||8m|3z5|gm|au
+Ventanas|EC||33|-40|-64q|am
+Venganoor|IN||6t|nc|5xw|a0
+El Vendrell|ES||9d|36i|49|9y|Vendrell
+Venaria Reale|IT||9o|3hd|l7|9b
+Ventspils|LV||9n|4ff|1nw|93|Windau;Ventspilis;Wentspils;Vindau
+Vengola Kizhakkumbāgam|IN||6t|ry|5wg|93
+Ventersdorp|ZA||o|-213|22i|7c
+Wenceslau Guimarães|BR||20|-121|-31o|6t|Venceslau Guimarães
+Ventimiglia|IT||9o|3dn|l5|6p|Vintimille;Ventemiglia;Ventemilha;Albintimilium
+Vengattūr|IN||6t|10e|661|6h
+Vänersborg|SE||9w|4i6|y8|6f|Venersburgum;Venešborgas
+Loon op Zand|NL||8m|3zf|e4|6e|Venloen op Zand
+Venice|US|Florida|48|23a|-6d1|66
+Wenceslau Braz|BR|Paraná|4w|-1ub|-3uc|5e|Venceslau Braz
+Vendôme|FR||9k|3or|2z|5c|Vindocinum
+Vence|FR||9k|3dg|jr|57|Vença;Vintium;Vensa
+Vengikkal|IN||6t|y2|63n|52
+Venturosa|BR||4p|-nt|-2uf|4t
+Sitangkai|PH||71|cy|97o|4s|Venice of the Philippines;Si Tangkay;Sitankai
+Venezuela|CU||36|1oe|-62v|4m
+Venilale|TL||6b|-o0|9r2|4g
+Venëv|RU||9i|46z|2ya|4d|Venyov;Wenjow;Venjov;Veniov;Wjenjow;Veniovas;Weniow
+Venceremos|MX||41|1l3|-7qw|4b
+Venustiano Carranza|MX|Chiapas|41|19e|-754|4b
+Cēsis|LV||9n|4f7|1y7|46|Wenden;Kieś;Cėsys;Ciesis;Sesis;Venden;Tsesis
+Vennandur|IN||6t|w0|60x|42|Vennanthur
+Vengavasal|IN||6t|zu|66p|3t
+Ventersburg|ZA||o|-261|23e|3r
+Vennesla|NO||9j|4hv|m5|3k
+Węgrów|PL||a5|41k|1p6|3h|Vengruvas;Vengrova;Vengaruva;Wengrow;Vengrov
+Vengurla|IN||6t|182|5oj|3h
+Węgorzewo|PL||a5|46m|1oe|3b|Ungura;Vengoževo
+Venkidanga|IN||6t|t8|5vd|35|Venkitangu
+Venosa|IT||9o|35s|17x|35
+Venadillo|CO||27|d4|-5s5|35
+Vendas Novas|PT||99|2zg|-ni|34
+Ventnor City|US||48|31a|-5qw|2x
+Venecia|CO|Antioquia|27|gk|-5ue|2v
+Venda do Pinheiro|PT||99|304|-pn|2s
+Ventania|BR||4w|-1vd|-3vk|2p
+Venkatachalapuram|IN||6t|q1|60f|2n
+Venafro|IT||9o|378|131|2m
+Vegarai|IN||6t|ut|60l|2l|Venkarai
+Venturina|IT||9o|3bj|tg|2i
+Vanmēnād|IN||6t|tc|5va|2c|Venmanad
+Venelles|FR||9k|3d4|f8|27|Venèla
+Vengambūr|IN||6t|uv|60c|22
+Venkatāpuram|IN||6t|yt|618|22
+Venice Gardens|US||48|237|-6cx|1z
+Vengerovo|RU||75|4ao|5x7|1z
+Venkatapura|IN||6t|12z|5r1|1x
+Vendin-le-Vieil|FR||9k|3w7|7z|1v|Vindin-lVieil;Vendin Le Veil
+Venegono Superiore|IT||9o|3j3|oq|1s
+Venustiano Carranza|MX|Puebla|41|1kz|-7jb|1r
+Venegono Inferiore|IT||9o|3j2|oq|1p
+Venterstad|ZA||o|-2di|1zo|1o
+Ventnor|GB||9b|3wj|-3d|1o|Jentnor
+Więcbork|PL||a5|447|1cl|1o|Vandsburg;Wiãcbórg;Vencborka;Wiebork
+Venta de Baños|ES||9d|38g|-ch|1n
+Vendargues|FR||9k|3da|b1|1m
+Vendenheim|FR||9k|3r7|lf|1m|Vangene
+Venado|MX||41|1rp|-7su|1l
+Venginissery|IN||6t|t3|5vo|1j
+Ventosa|PT||99|30p|-p8|1g
+Veneux-les-Sablons|FR||9k|3qe|7r|1f|Veneux-Les Sablons
+Venustiano Carranza|MX|Chiapas|41|18z|-73d|1f
+Veneta|US||3p|3ed|-9in|1c
+Ventabren|FR||9k|3cy|eq|1c
+Russko-Vysotskoye|RU||9i|4lu|2b6|1b|Russko-Vysotskoje;Vennäin-Vuissakka
+Vendryně|CZ||9m|3tz|1fz|19
+Ven|NL||8m|3zg|ff|18
+Venkatraipur|IN||6t|1hi|6jt|18
+Venhuizen|NL||8m|42a|eg|17
+Venustiano Carranza|MX|Coahuila|44|1yf|-7y0|17|Hacienda de Hornos
+Ventsy|RU||9i|3i2|35g|16
+Venansault|FR||9k|3lp|-47|14
+Vollenhove|NL||8m|42c|gj|14|Veno;Volenhovė;Follenhove
+Vendychany|UA||98|3r2|257|12|Vendîceanî;Vendytchany;Wendytschany;Vendiĉani;Vendyčany;Wendyczany
+Venersborg|US||3p|3j5|-9g2|11|Venersbord
+Venarey-les-Laumes|FR||9k|3o2|ce|y
+Venetico Marina|IT||9o|2y6|16p|x
+Venus|US||2f|2i3|-7hq|x
+Venta|LT||a3|4c3|1r2|x|Vyanta;Wenta
+Venha-Ver|BR||2w|-hl|-2yw|u
+Węgorzyno|PL||a5|44q|178|u|Veñgojıno;Wãgòrzëno;Vengožino
+Węgliniec|PL||a5|3yh|16b|u|Kohlfurt;Vengliņeca
+Venette|FR||9k|3ta|7s|t
+Veniano|IT||9o|3j0|oz|t
+Vandœuvres|CH||a7|3ke|h8|s|Vendoeuvres
+Venetian Village|US||2f|39s|-6sl|s
+Vendeuvre-sur-Barse|FR||9k|3q0|cf|r|Vandopera
+Vanūsh|IR||7o|2tk|402|r|Venūsh
+Ventiseri|FR||9k|38i|px|r|Vintìsari
+Venerque|FR||9k|3cn|40|q|Venèrca;Benèrca
+Vendeuvre-du-Poitou|FR||9k|3lu|v|q
+Vendin-lès-Béthune|FR||9k|3we|78|q|Vindin-lès-Betheune
+Venticano|IT||9o|361|15f|p
+Vändra|EE||9x|4ix|1xk|p|Vėndra;Vyandra
+Venusberg|DE||8r|3wu|106|o
+Wenceslau Braz|BR|Minas Gerais|4w|-1ql|-3i0|o|Bicas do Meio;Venceslau Bras
+Vendays-Montalivet|FR||9k|3i0|-2y|n
+Benasque|ES||9d|3ad|1g|m|Benás;Benasc;Venasque
+Wendake|CA||59|3m6|-5i8|m|Vendako
+Vendat|FR||9k|3k8|9b|l|Vindac
+Ventimiglia di Sicilia|IT||9o|2xc|11p|k|Calamigna
+La Ventana|MX|Coahuila|44|1yd|-7zg|k|Ventana
+Venoy|FR||9k|3ot|a4|j
+Venice|US|Illinois|2f|2zf|-6yh|j
+Venecia|MX||44|1zm|-7z3|j
+Ventoso|IT||9o|3fv|tp|i
+La Ventilla|MX|San Luis Potosí|41|1oh|-7sn|h|Ventilla
+Vendres|FR||9k|3c7|8y|h
+Ventaquemada|CO||27|ex|-5o8|h
+Venegazzù|IT||9o|3j6|xl|g
+Venta de Bravo|MX||41|1j6|-7q9|g
+Venise-en-Québec|CA||59|3h8|-5n5|f
+Venezzano|IT||9o|3g4|vh|f
+Venta Grande|MX||41|1jw|-7ki|f
+Venustiano Carranza|MX|Colima|41|1gt|-817|f|Cualata
+Venta del Moro|ES||9d|31o|-3r|f
+Venizel|FR||9k|3t5|9f|f
+Vendeville|FR||9k|3wi|8k|f
+Venets|BG||9v|3cz|22t|f|Vyenets
+Ventas con Peña Aguilera|ES||9d|321|-br|e
+Vennecy|FR||9k|3p7|5p|e
+Venta de Ocotillos|MX||41|1i3|-7po|d
+Vank|AZ||61|339|3la|d|Vengli
+Venzone|IT||9o|3kp|10i|d|Vençon
+Venecia|CO|Cundinamarca|27|bd|-5qw|d
+Venustiano Carranza|MX|Chiapas|41|1ay|-76c|d
+Venustiano Carranza|MX|Durango|44|1vz|-82n|d|Ocotán;Ocotlan;Octotán
+Veneza|CV||84|167|-1tk|c
+Venasca|IT||9o|3fs|kk|c
+Venturada|ES||9d|35c|-a2|c
+Vendrennes|FR||9k|3m3|-34|c
+Ventoquipa|MX||41|1jn|-7l6|c
+Vénéjan|FR||9k|3es|cy|b
+Venustiano Carranza (Peña Blanca)|MX||41|1d0|-7b7|b
+Venarotta|IT||9o|3b4|11h|b
+Vendegies-sur-Écaillon|FR||9k|3vm|9r|b
+Venhorst|NL||8m|3zd|fy|b
+Venasque|FR||9k|3e8|eb|a|Venasca;Vindasca
+Vendœuvres|FR||9k|3m0|3r|a
+Venus Bay|AU||8j|-2zi|b92|a
+Ventnor|AU||8j|-2yv|b79|a
+Venkatādri Appārāopuram|IN||6t|1al|6ab|a|Venkatadriapparaopuram
+Venhar|IR||7o|2i4|3z4|a
+Venningen|DE||8r|3sw|mp|a
+Veneráton|GR||8p|2ps|1xk|9
+Vénosc|FR||9k|3gz|h0|9
+Ventron|FR||9k|3p6|j3|9
+Vénisiguévogo|CI||0|qn|-gq|9
+Venaus|IT||9o|3hg|jh|9
+Ventress|US||2f|2d8|-71x|9
+Vendémian|FR||9k|3d2|9w|9
+Vena di Maida|IT||9o|301|19l|9|Vina;Vena
+Vendolí|CZ||9m|3u6|19l|9
+Vendeuil|FR||9k|3u4|9b|9
+Vencedores|MX||44|1vv|-85n|9
+Venizy|FR||9k|3pf|ab|8
+Venustiano Carranza|MX|Veracruz|41|1ja|-7gx|8
+Venustiano Carranza|MX|Chiapas|41|1c2|-741|8
+Venta de Guadalupe|MX||41|1k6|-7m0|8
+Venustiano Carranza|MX|Baja California|58|2cg|-8xx|8|Santa Maria
+Ventenac-Cabardès|FR||9k|3c7|6d|8
+Ventschow|DE||8r|45f|w6|8
+Venere|IT||9o|38n|11x|8
+Vendeuvre|FR||9k|3s3|-8|8
+Venta Nueva|ES||9d|2vb|-b8|8
+La Ventana|MX|San Luis Potosí|41|1rx|-7qi|8|Ventana
+Venaco|FR||9k|39b|ph|8|U Serraghju
+Venesmes|FR||9k|3m4|6f|8
+Venables|FR||9k|3so|3l|8
+Venustiano Carranza|MX|Chiapas|41|1b4|-765|7
+Veneția de Jos|RO||8u|3jg|1y1|7|Veneta de Jos
+Venon|FR||9k|3hi|g5|7
+Poggio-di-Venaco|FR||9k|39e|pj|7|Venaco;Poggio di Venaco;U Poghju di Vènacu
+Ventura|US|Iowa|2f|3bt|-77o|7
+Venustiano Carranza|MX|Puebla|41|1hf|-7is|7
+Vendenesse-lès-Charolles|FR||9k|3l0|c2|7
+Vendrest|FR||9k|3s9|8l|7
+Ventalló|ES||9d|393|8f|7
+Venterol|FR||9k|3fb|e6|7
+Ventas de Huelma|ES||9d|2uz|-am|7
+Vénérand|FR||9k|3j7|-1k|6
+Ventanilla|MX||41|17x|-7hd|6
+Venthon|FR||9k|3ix|ht|6
+Võnnu|EE||9x|4hw|235|6|Vennu;Vynnu
+Vénès|FR||9k|3dh|63|6
+Venustiano Carranza|MX|Campeche|3z|1ef|-70v|6
+Ven-Zelderheide|NL||8m|3zn|gq|6
+Venagrande|IT||9o|3b5|11m|6
+Venustiano Carranza Dos|MX||44|1rh|-7m9|6
+Venustiano Carranza|MX|Tabasco|41|1de|-748|6|La Alianza
+Vendenesse-sur-Arroux|FR||9k|3lj|bb|6
+Venas|IT||9o|3kx|y6|6
+Venustiano Carranza|MX|Sonora|37|21e|-8ev|6
+Vendlincourt|CH||a7|3nt|jv|6
+Venustiano Carranza|MX|Veracruz|41|1lv|-7jh|6
+Venteuil|FR||9k|3sc|ao|6
+Vendersheim|DE||8r|3uj|mf|6
+Ventavon|FR||9k|3f9|gf|6
+Venta del Aire|MX||41|1j4|-7px|6
+Venustiano Carranza|MX|Veracruz|41|1f3|-7dw|5
+Ventosa|IT||9o|36m|12d|5
+Venustiano Carranza|MX|Baja California|58|2hd|-90q|5
+Venta Parada|MX||41|1gd|-7h1|5
+Venta de Palula|MX||41|1eb|-7oj|5
+Ventotene|IT||9o|35b|11b|5
+Vengeons|FR||9k|3rf|-2k|5
+Ventenac-en-Minervois|FR||9k|3c5|7y|5|Ventenac-d'Aude
+Vendoglio-Carvacco|IT||9o|3ka|10j|5

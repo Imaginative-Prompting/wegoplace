@@ -1,0 +1,130 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Chennai|IN||6t|10d|670|104b|Madrás;Ćennaj;Ĉenajo;Čennai;Csennai;Čenaj;Maderaspatanum;Čenajus;Çenay
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Changzhou|CN||7i|2g9|997|pe5|Changtsjou;Csangcsou;Thường Châu;Čangdžou;Čchang-čou;Ĉangĝoŭo;Siông-chiu-chhī;Siòng-ciŭ;Čangdžov;Changchow;Ch’ang-chou
+Changsha|CN|Hunan|7i|26c|8pt|nvg|Ĉangŝa;Trường Sa;Cangzsah;Čchang-ša;Chhòng-sâ-sṳ;Csangsa;Changsja;Tn̂g-soa-chhī;Diòng-să;Čanša;Chansha
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Chelyabinsk|RU||7z|498|4qn|9a0|Tscheljabinsk;Cheliábinsk;Čeljabinsk;Ĉeljabinsko;Tšeljabinsk;Tcheliabinsk;Čeļabinska;Tsjeljabinsk;Czelabińsk;Tjeljabinsk;Çelyabinsk;Čeliabinskas;Celiabinsc;Celeabinsk;Cseljabinszk;Čeläbinsk;Tsyelyabinsk;Txeliabinsk;Celiabinsca
+Changwon|KR||7h|2pv|9xg|7wx|Ch'angwŏn;Čangvonas;Cshangvon;Ĉangvono;Sangwon
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Chongjin|KP||7a|384|a0i|2iu|Ch’ŏngjin;Cshongdzsin;Čondžinas;Cheongjin;Čchongdžin;Ĉongĵin;Chonjin
+Cherepovets|RU||9i|4k9|2xa|2fp|Tscherepowez;Tšerepovets;Čerepovec;Czerepowiec;Ĉerepoveco;Tsjerepovets;Čerepoveca;Čerepovecas;Cerepoveț;Txerepovets;Cserepovec;Tjerepovets;Çerepovets;Čerjepowjec;Cherepovetz
+Chernihiv|UA||98|3z3|2ex|26j|Tschernihiw;Czernihów;Ĉernigivo;Ĉernihivo;Csernyihiv;Tsjernihiv;Tšernihiv;Czernihovia;Chernígov;Černihiv;Çernigiv;Tjernihiv;Černihiw;Černihov;Černigovas;Txerníhiv;Cernigău;Tšernigiv;Černigov;Çerniqov;Cernigovia;Tschernigow
+Cherkasy|UA||98|3tc|2h2|22y|Tscherkassy;Tcherkassy;Čerkasy;Czerkasy;Cserkaszi;Tsjerkasy;Tšerkassõ;Tšerkasy;Ĉerkaso;Çerkassi;Çerkası;Čerkasai;Circassium;Tjerkasy;Txerkasy;Tcherkássi;Tsjerkasi;Txerkassi;Čerkasad;Cherkassy
+Chernivtsi|UA|Chernivtsi|98|3q5|201|21f|Tschernowitz;Czernowitz;Cernăuți;Tsjernivtsi;Czerniowce;Tjernivtsi;Ĉernivco;Černovice;Çernivtsi;Tšernivtsi;Txernivtsí;Černivci;Csernyivci;Černovci;Czernovicum;Černivciai;Chernovsi;Cernovizza;Csarnóca;Chernovtsy
+Chittorgarh|IN||6t|1x5|5ra|wc|Chittaurgarh;Csitorgarh;Ĉitorgar;Chitorgarh
+Qamdo|CN||7i|2eh|7hy|nz|Chamdo;Csamdo;Čamdo;Chamudo;Chhamdo
+Qufu|CN||7i|2qw|90z|nn|Cjujfu;Čchü-fu;Csüfu;Khúc Phụ;Chü-fu
+Chiryū|JP||7q|2p8|akn|k2|Csirjú;Tsiryu;Tiryū-chhī
+Chornomors’k|UA||98|3km|2d6|g4|Chornomorsk;Čornomorsk;Tschornomorsk;Illitschiwsk;Illichivsk;Csornomorszk;Illicsivszk;Il’ichëvsk;Illichivs’k
+Chumphon|TH||62|t6|7ni|fi|Chumpon;Čumphonas;Csumphon;Çumfon;Chumporn;Chumphaun
+Chusovoy|RU||7z|4hx|4gl|dy|Tsjusovoj;Tschussowoi;Chusovói;Tchoussovoï;Čusovoj;Çusovoy;Tšusovoi;Ciusovoi;Čusovoi;Czusowoj;Tchussovoi;Tjusovoj;Tsjoesovoj;Čusowoj;Csuszovoj;Chusovaya
+Miercurea-Ciuc|RO||8u|3kr|1zo|9l|Miercurea Ciuc;Csíkszereda;Mercurea Ciuc
+Chortkiv|UA||98|3s6|1zo|7w|Czortków;Çortkiv;Csortkiv;Čortkiva;Tsjortkiv;Ciortkiv;Tschortkiw
+Čadca|SK||8s|3tc|1g7|6b|Csaca;Csacza;Czaca
+Csongrád|HU||8v|3lr|1jy|56|Ciongrad;Tschongrad
+Csepel-Csillagtelep|HU||8v|3np|1gy|55
+Csepel-Királyerdő|HU||8v|3no|1h1|4f
+Čakovec|HR||a6|3ku|19n|47|Csáktornya;Aquama;Tschakathurn;Çakovets
+Zschopau|DE||8r|3wz|10c|39|Cšopava
+Csorna|HU||8v|3o9|1bx|30
+Csillaghegy|HU||8v|3o7|1gy|2z
+Csepel-Belváros|HU||8v|3nr|1gz|2x
+Csepel-Erdősor|HU||8v|3np|1h0|2s
+Csarnoknegyed|HU||8v|3nx|1gz|2r|Csarnok negyed
+Čurug|RS||8q|3ib|1jr|2k|Csurog
+Chachersk|BY||9g|430|2dw|2h|Tchatchersk;Čačersk;Tšatšersk;Csacserszk;Čačerska;Czeczersk;Tjatjersk;Chechersk
+Chany|RU||75|49n|5x8|2h|Tsjany;Tšany;Čany;Csani;Çanı;Czany;Tsjani
+Chyhyryn|UA||98|3sc|2iq|2f|Çehrin;Csihirin
+Chop|UA||98|3qj|1po|2e|Ciop;Čop;Czop;Csap
+Crvenka|RS||8q|3iu|1i1|2d|Crevenka;Cservenka
+Čepin|HR||a6|3ig|1fm|28|Csepin;Csepén
+Csömör|HU||8v|3o3|1hf|23
+Csepel-Szabótelep|HU||8v|3nr|1h0|23
+Chagoda|RU||9i|4kc|2q5|21|Tsjagoda;Čagoda;Tšagoda;Čagod;Csagoda;Txagoda;Czagoda
+Sândominic|RO||8u|3le|1zm|1r|Csíkszentdomokos;Sîndominic
+Sâncrăieni|RO||8u|3kn|1zs|1p|Csikszentkiràly;Sâncráiem;Sâncrăeni;Sîncrăieni
+Csepel-Kertváros|HU||8v|3nq|1h0|1l
+Csurgó|HU||8v|3kh|1bi|1l|Čurguj;Čurgov;Čurgo
+Csorvás|HU||8v|3lj|1lv|1k
+Čoka|RS||8q|3jm|1jy|1i|Tschoka;Csóka
+Csákvár|HU||8v|3nn|1fb|1h|Čakvár;Čakvaras;Tschakwar
+Csenger|HU||8v|3ow|1r0|1g
+Chechelnyk|UA||98|3py|29k|1e|Tchétchelnyk;Tsjetsjelnyk;Tschetschelnyk;Chechel'nyk;Tšetšelnyk;Csecselnik;Čečeľnyk;Çeçelnık;Txetxelnik;Tjetjelnyk;Chechelnik;Čečel'nyk;Txetxelnyk;Czeczelnik
+Băile Olănești|RO||8u|3hk|1vb|1a|Cserépfürdő
+Csemő|HU||8v|3mw|1ip|18
+Cenad|RO||8u|3k5|1l6|16|Čanád;Csanád
+Cernat|RO||8u|3jn|20b|14|Csernáton
+Csepel-Királymajor|HU||8v|3nr|1h1|10
+Csolnok|HU||8v|3oh|1g0|y|Tscholnok
+Csepreg|HU||8v|3no|1af|w|Tschapring;Čepreg;Čaprieg;Čeprieg
+Csanádpalota|HU||8v|3kh|1ll|w|Palatul Cenad
+Čenta|RS||8q|3hb|1kn|w|Csenta
+Chumalovo|UA||98|3pv|1tf|u|Csománfalva;Chumaliovo;Chumaleve;Chumal'ovo;Chumalevo
+Csabrendek|HU||8v|3ml|1c1|t
+Csanytelek|HU||8v|3lg|1jw|t
+Csobánka|HU||8v|3od|1go|t
+Csanádapáca|HU||8v|3lb|1m0|s
+Sântimbru|RO|Alba County|8u|3k5|1tp|r|Csíkszentimre;Sîntimbru
+Császártöltés|HU||8v|3ky|1ha|q|Tschasartet;Kaiserdamm;Tetiš;Tuotiš
+Grăniceri|RO||8u|3l8|1n6|p|Ottlaka;Lichtenwald;Csávos;Tschawosch;Ciavoș
+Chokurdakh|RU||6z|5g6|beu|p|Tsjokurdakh;Tschokurdach;Tšokurdah;Čokurdachas;Čokūrdāha;Csokurdah;Çokurdah;Txokurdakh;Čokurdach;Tšokurdahh;Czokurdach;Chakurdakh;Chekyrdakh
+Ceahlău|RO||8u|3mp|205|p|Csalhó;Ciahlău
+Čazma|HR||a6|3j3|1a5|o|Csázma
+Častá|SK||8s|3qg|1c8|o|Cseszte
+Csengőd|HU||8v|3ls|1hj|n
+Csány|HU||8v|3od|1j3|n
+Chomonyn|UA||98|3qg|1qe|n|Csongor;Chomonin
+Cserkeszőlő|HU||8v|3m6|1k3|m|Cserkeszőllő
+Csökmő|HU||8v|3mn|1n6|m
+Čenej|RS||8q|3i1|1j0|l|Csenej
+Čečejovce|SK||8s|3qz|1mj|l|Csécs
+Sântimbru|RO|Harghita County|8u|3kk|1zt|l|Szentimre;Marosszentimre;Csíkszentimre;Sîntimbru
+Csávoly|HU||8v|3kb|1h7|l
+Csetény|HU||8v|3ng|1dz|k
+Csengele|HU||8v|3la|1j6|k
+Csór|HU||8v|3n5|1eq|k
+Chervenovo|UA||98|3qn|1ql|k|Cserlenő;Chervenev;Cherveniovo;Chervenevo;Cherveneve;Cherven'ovo
+Cserszegtomaj|HU||8v|3m0|1bu|j
+Császár|HU||8v|3ny|1ee|j
+Chepa|UA||98|3pj|1ry|i|Csepe
+Csólyospálos|HU||8v|3ky|1j4|h
+Păuleni-Ciuc|RO||8u|3kw|1zr|h|Csíkpálfalva
+Csepel-Háros|HU||8v|3nn|1gx|h
+Csopak|HU||8v|3mi|1ds|g
+Chornobyl|UA||98|3yf|2by|g|Tschernobyl;Chernobil;Txernòbil;Chernobyl;Chornóbil;Černobyl;Tjernobyl;Ĉernobilo;Tchernobyl;Csernobil;Černobyl';Tsjernobyl;Czarnobyl;Cernobîl;Tšornobõl;Tšernobyl;Černobylis;Tsjornobyl;Chernobyl’
+Csokonyavisonta|HU||8v|3k0|1cg|f
+Ciurila|RO||8u|3ll|1tf|f|Csürülye
+Urziceni|RO|Satu Mare County|8u|3ol|1q8|f|Csanálos
+Csátalja|HU||8v|3jw|1gn|e|Tschatali
+Cozmeni|RO||8u|3kf|202|e|Csíkkozmás;Csik-Kozmas
+Stoob|AT||a2|3o1|19s|e|Csáva;Štuma
+Cristur|RO||8u|3jb|1rq|e|Csernakeresztúr
+Dubová|SK||8s|3qd|1c6|c|Cserfalu
+Nicolești|RO|Harghita County|8u|3l0|1zs|b|Csikszentmiklós
+Cidreag|RO||8u|3pb|1rs|b|Csedreg
+Kostryna|UA||98|3ry|1qr|a|Csontos;Chontosh;Kostriny
+Csikéria|HU||8v|3k5|1i3|9|Tschikri
+Aluniș|RO|Arad County|8u|3k1|1np|9|Cseralja
+Popovo|UA||98|3q3|1qa|9|Csonkapapi;Popove
+Csepel-Ófalu|HU||8v|3ns|1gz|9
+Čentiba|SI||9a|3lc|19u|8|Csente
+Csécse|HU||8v|3oz|1ij|8
+Csepel-Rózsadomb|HU||8v|3np|1gx|8
+Cebza|RO||8u|3ij|1mj|8|Csebza
+Csokvaomány|HU||8v|3pt|1km|7
+Csernely|HU||8v|3pr|1kj|7
+Cil|RO||8u|3kk|1pu|7|Csil
+Kaisersdorf|AT||a2|3o2|19j|6|Kalištrof;Császárfalu
+Csincse|HU||8v|3p1|1lp|6
+Ćeralije|HR||a6|3iq|1d5|6|Coralije;Cseralje
+Čađavica|HR||a6|3j2|1dl|6|Csagavica;Čadjavica
+Ciucani|RO|Bacău County|8u|3kt|22t|6|Csík
+Tschurndorf|AT||a2|3o9|19l|5|Czundra;Csóronfalva;Čulindrof

@@ -1,0 +1,197 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Johannesburg|ZA||o|-20s|25w|20o6|Johanesburgo;Jóhannesarborg;Joanesburgo;Jo'anna;Johanesburgas;Yohannésburg;EGoli;IGoli;Xohanesburgo;Johannesbourg;Yohannesburq;Ioannesburgum;Yok-hon-nì-sṳ̂-páu;Yoxannesburg
+Nova Iguaçu|BR||4w|-1r8|-3cp|6i6|Nova Iguasu;Nova Iguassú
+Foz do Iguaçu|BR||4w|-1yz|-47n|2am|Foz de Iguazu;Foz do Iguasu;Foz do Iguassú;Foz de Iguassu
+Iguatemi|BR|São Paulo|4w|-1tl|-3kz|15l
+Igboho|NG||u|ok|ag|120
+Jijel|DZ||3|2ua|g0|10j|Gíger;Džidželis;Igilgili;Dżidżili;Yiyel;Cical
+Igarassu|BR||4p|-lr|-2oz|y6|Igaraçu;Iguarassú
+Iguala de la Independencia|MX||41|1ey|-7oi|wx
+Ijebu-Igbo|NG||u|jd|b4|ud
+Iğdır|TR|Iğdır|94|32w|3ed|s9|Îdir;Iıdır;Igdyras
+Iguatu|BR|Ceará|2w|-ho|-316|r9
+Igbo-Ora|NG||u|kn|95|pr|Igbo-Awra
+Iga|JP||7q|2ok|ai5|op
+Igede-Ekiti|NG||u|lb|e9|o9
+Igbo-Ukwu|NG||u|gq|ji|kw|Igbo Ukwu
+Igbara-Odo|NG||u|ku|e2|kl|Igbarra-Odo
+Iganga|UG||q|1p|2kz|i7|Igang
+Igarapé Miri|BR||23|-5h|-3s0|i0|Igarapé-Mirim;Igarapé Miry
+Jihlava|CZ||9m|3t8|17b|dx|Iglau
+Igarapé|BR||4w|-1jr|-3f2|cq
+Igunga|TZ||h|-bw|2m4|ci
+Igualada|ES||9d|37i|4i|at
+Igangan|NG||u|lc|8u|a4
+Igarapé-Açu|BR||23|-35|-3oa|9y|Igarapé-Assú
+Igatpuri|IN||6t|1iq|5oc|9v|Wigatpura
+Spišská Nová Ves|SK||8s|3ry|1l4|9p|Neudorf;Spiska Nowa Wieś;Igló
+Igrejinha|BR||4w|-2a5|-3x3|94
+Iguape|BR||4w|-1wn|-3o4|8m
+Iguaba Grande|BR||4w|-1rg|-39b|88
+Iguaí|BR||20|-150|-33d|7i
+Igarapava|BR||4w|-1jo|-3on|7a
+Igaci|BR||3r|-qi|-2tr|74
+Igurusi|TZ||h|-ol|2m1|6y|Igurunzi
+Igbeti|NG||u|ob|bh|6v|Igbetti
+Igaraçu do Tietê|BR||4w|-1qj|-3qw|6f
+Igugunu|TZ||h|-cp|2o7|6c|Iguguno
+Iglesias|IT||9o|317|nq|6b|Esglèsies;Ecclesia
+Ihren|UA||98|3qo|2po|65|Ogren’;Igren’
+Igra|RU||9p|4fv|43d|64
+Igreja Nova|BR||3r|-s5|-2tu|5y
+Ijevan|AM||80|35k|3hf|5f|Istibulagh;İcevan;Karvansara;Idschewan;Idjevan;Karvansaray;Iĝevano;Idževan;Idževanas;Iczewan;Idzhevan;Karavansarai;K’aravansaray;K’arvansara
+Igusa|JP|Saitama|7q|2rx|arf|5e|Ikusa
+Igbor|NG||u|kp|nx|4x
+Igusa|JP|Tokyo|7q|2r9|aru|4t
+Igaporã|BR||20|-129|-3an|4d
+Ighram|DZ||3|2ta|cj|46|Irhram
+Igarra|NG||u|k9|gy|42|Igara
+Igarapé do Meio|BR||2w|-a4|-3hj|3w
+Iglino|RU||7z|48b|4cp|3w
+Iguatemi|BR|Mato Grosso do Sul|2a|-1ts|-47k|3u|Igatemí
+Iglās|IN||6t|24z|60i|3t
+Igrapiúna|BR||20|-12f|-30q|3n|Igarapiuna
+Iguaraci|BR||4p|-ls|-2w8|33
+Igaratinga|BR||4w|-1jg|-3g7|30
+Červień|BY||9g|457|26z|2y|Chervyen';Cherven’;Ihumeń;Igumen
+Igaratá|BR||4w|-1sg|-3k8|2y|Igaraté
+Igarapé Grande|BR||2w|-cy|-3gm|2u
+Igurubi|TZ||h|-b4|2lm|2t
+Igny|FR||9k|3re|66|2s
+Igrim|RU||7z|4vj|4yy|2n
+Igoumenítsa|GR||8p|31q|1kb|2n|Igumenitsa;Gomenizza
+Ighram Laalam|MA||d|2ic|-h3|2n
+Igabi|NG||u|u1|lf|2g
+Igarka|RU||6u|57f|6ok|23
+Ignacio Zaragoza|MX|Tlaxcala|41|1hl|-7k0|1x
+Igis|CH||a7|3mf|ql|1w|Eigias;Ovinae
+Iguatama|BR||4w|-1k1|-3iz|1w
+Ighiu|RO||8u|3k7|1tc|1r|Magyarigen;Igen
+Igpit|PH||71|nn|9m3|1m
+Igersheim|DE||8r|3th|ra|1l
+Igaracy|BR||2w|-jy|-2xz|1k
+Igbessa|NG||u|i5|8p|1k
+Iguaraçu|BR||4w|-1sg|-3zz|1h
+Ignalina|LT||a3|49q|20o|1f|Ignalino;Ignalinė
+Ignacio de la Llave|MX||41|1g1|-7en|1a|Mixtequilla
+Igensdorf|DE||8r|3tu|v7|1a
+Ighram|MA||d|2bl|-ni|19
+Igreja|CV||84|15r|-1vl|15|Egreja
+Igalo|ME||9l|39y|1ff|12|Igalas
+Ignacio Zaragoza|MX|Chihuahua|2g|2ac|-8bc|z
+Igang|PH||71|uc|9go|z
+Iggesund|SE||9w|4r8|1bf|y
+Ignacio Allende|MX|Tabasco|41|1f2|-75w|y
+Iguig|PH||71|1db|9e6|x
+Ignit|PH||71|im|9o1|w|Igpit
+Igmaya-an|PH||71|tb|9ia|w
+Igan|MY||6w|7u|8mb|u
+Igualapa|MX||41|1ai|-7lk|t
+Ignatovka|RU||9z|45v|3od|t
+Īgder-e Pā’īn|IR||7o|2vj|49l|s|Īgūr-e Pā’īn
+Villa Ygatimí|PY||1y|-1v0|-4ak|s|Ygatimi;Igatimí
+Ignacio Allende|MX|Durango|44|1vz|-80w|q
+Iggingen|DE||8r|3rn|rg|p
+Ignacio Allende|MX|México|41|1hr|-7o0|p|Ignacia Allende
+Ignacio Zaragoza|MX|Chiapas|41|14y|-741|p
+Igls|AT||a2|3n7|vp|o
+Ignacio Ramírez|MX|Durango|44|1w3|-815|o
+Igbon|PH||71|v5|9i5|o
+Ignacio Zaragoza|MX|Hidalgo|41|1jl|-7nw|n
+Ignacio Zaragoza|MX|Veracruz|41|1ir|-7i2|n
+Ignacio Zaragoza|MX|Tabasco|41|1f4|-768|n
+Igcocolo|PH||71|tp|9fs|n
+Ig|SI||9a|3jo|14d|n
+Igstadt|DE||8r|3v4|n5|m
+Ignacio Zaragoza|MX|Quintana Roo|2b|1m0|-6r4|m
+Iguatu|BR|Paraná|4w|-1wo|-43g|l
+Iggensbach|DE||8r|3rd|10i|l
+Igloolik|CA||3h|5cq|-6b8|k|Iglulik;Igloulik
+Igel|DE||8r|3u3|i7|k
+Ignacio Pérez|MX||41|1l0|-7q3|i
+Znyats’ovo|UA||98|3qo|1qj|h|Zniatsovo;Ignéc
+Ignacio Ramírez|MX|Chiapas|41|18r|-78r|h
+Ignacio Zaragoza (El Morro)|MX||41|1a4|-77b|h
+Igüeña|ES||9d|3ap|-hg|g
+Ignacio López Rayón|MX|Chiapas|41|14m|-743|g
+Igoville|FR||9k|3t0|37|f
+Ignacio Zaragoza|MX|Tlaxcala|41|1id|-7la|f
+Iglesia|AR||1t|-2ch|-5ca|f
+Ignacio Manuel Altamirano|MX|Puebla|41|1ht|-7lu|e
+Isola del Giglio|IT||9o|39o|ub|e|Isla del Giglio;Giglio;Isula di u Gigliu;Giglio saar;Illa del Giglio;Igilium;Džilijas;Ìsula dû Gigghiu;Giglio Island
+İğdir|TR|Kastamonu|94|388|2le|e
+Ignacio Allende|MX|Chiapas|41|19x|-76b|e
+Ignacio Zaragoza|MX|Zacatecas|41|1ui|-7za|e
+Ignacio Zaragoza|MX|Oaxaca|41|1cq|-7ed|e
+Ighișu Nou|RO||8u|3k3|1vn|d|Ighişul Nou
+Ignacio Gutiérrez Gómez|MX||3z|1ep|-77g|d|Ignacio Gutierrez
+Ignacio Zaragoza|MX|Chiapas|41|1cd|-73n|d
+Igriș|RO||8u|3k3|1lq|d
+Ignacio Zaragoza|MX|Chiapas|41|1c1|-766|c
+İğdir|TR|Mersin|94|2uj|2o8|c
+Ignace|CA||5d|3ta|-72m|c
+Iguila|CI||0|lg|-8z|c
+Ignacio Allende (Concepción)|MX||41|1jl|-7j7|c
+Ignacio Bastida (Santa Catarina Tlayca)|MX||41|1gm|-7n1|c
+Ignacio Zaragoza|MX|Zacatecas|41|1q2|-7uu|c
+Igești|RO||8u|3ja|23i|b
+Ignacio Zaragoza|MX|Chiapas|41|18j|-757|b
+Igoiu|RO||8u|3h5|1u5|b
+Igney|FR||9k|3q3|hs|b
+Ighiel|RO||8u|3k7|1t8|b
+Ignacio Zaragoza|MX|Chiapas|41|19h|-76p|b
+Ignacio Zaragoza 1ra. Sección|MX||41|1ex|-77a|b
+Igualeja|ES||9d|2tr|-e8|b
+Igon|FR||9k|3bw|-n|a
+Ignacio Zaragoza|MX|Durango|44|1xu|-7z6|a|Zaragoza
+Ignacio Zaragoza|MX|Puebla|41|1hk|-7i0|a
+Ignacio Zaragoza|MX|Chiapas|41|1df|-73j|a
+Igumnovo|RU||9i|4ai|2ye|9
+Ignacio Allende|MX|Veracruz|41|1kf|-7i0|9
+Ignacio Allende|MX|Chihuahua|2g|2a7|-8b8|9
+Iguerande|FR||9k|3kc|bc|9
+Ignacio López Rayón (Coyota Primera Manzana)|MX||41|1hu|-7qz|9
+Ignacio Manuel Altamirano|MX|Tamaulipas|3w|1zx|-7jq|9|Arturo Zermeño
+Iguara|PE||3o|-13x|-5d2|9
+Igualita|MX||41|1ci|-7lo|9
+Ignacio Zaragoza|MX|Tamaulipas|44|1sf|-7mf|9
+Ignacio Allende|MX|Chiapas|41|1bx|-73z|9
+Ignacio Allende 2da. Sección|MX||41|1cr|-76b|8|Ignacio Allende Primera Sección
+Ignat’yevo|RU||7x|3w5|9tw|8|Ignatjevo;Ignat’yevka
+Ignacio López Rayón|MX|Durango|44|1va|-804|8
+Igneşti|RO||8u|3kw|1pl|8|Ignesty;Ignest
+Ignacio Zaragoza|MX|Veracruz|41|1ji|-7hb|8|El Chorro
+Igé|FR|Bourgogne-Franche-Comté|9k|3kw|d6|8
+Ignacio López Rayón (El Gavillero)|MX||41|1hr|-7lu|8
+Ignacio Zaragoza|MX|Chiapas|41|1be|-77b|8
+Iglesia Vieja|MX||41|1mn|-7mx|8
+Ignacio Zaragoza (Los Ateos)|MX||41|1de|-757|7
+Ignacio Zaragoza|MX|Puebla|41|1gx|-7ke|7
+Igea|ES||9d|38v|-5l|7
+Ignacio|US||2p|2v4|-8az|7
+Igé|FR|Normandy|9k|3q8|1g|7
+Ignacio Zaragoza|MX|Veracruz|41|1gk|-7gz|7
+Ignacio Zaragoza|MX|Coahuila|44|1ze|-7y2|7
+Ignacio M. Altamirano (Plan de Altamirano)|MX||41|1kn|-7ht|7
+Ignacio Allende|MX|Tabasco|41|1c2|-71e|7
+Ignatovo|RU||9i|4c1|2wa|7
+Ignacio Zaragoza|MX|Chiapas|41|19f|-73c|7
+Igelstorp|SE||9w|4i8|12t|6
+Ignacio Zaragoza|MX|Coahuila|44|1yg|-7yi|6
+Igrišće|HR||a6|3jo|184|6
+Ignacio Gutiérrez|MX||3z|1gi|-70m|6|Ignacio Guitérrez
+Ignacio Mejía|MX||41|1ea|-7hr|6
+Ignacio Zaragoza|MX|Puebla|41|1fr|-7jd|6
+Ignacio Ramírez|MX|Puebla|41|1jv|-7jh|6
+Ignacio López Rayón (Los Delgado)|MX||41|1u6|-7yb|6
+Ignacio Manuel Altamirano|MX|Quintana Roo|2b|1hl|-6u1|6
+Ignacio López Rayón|MX|Veracruz|41|1cm|-78q|6|López Rayón
+Igram|SK||8s|3q5|1ci|6
+Ignacio Allende|MX|Chiapas|41|19c|-738|6
+Ignacio López Rayón|MX|Durango|44|1uh|-82a|5
+Ignacio Zaragoza|MX|Hidalgo|41|1jx|-7n0|5
+Igne|IT||9o|3kj|y4|5
+Ignacio López Rayón|MX|Hidalgo|41|1kx|-7nr|5
+Ignacio Zaragoza|MX|Oaxaca|41|1bc|-7j4|5
+La Iglesuela del Cid|ES||9d|34g|-w|5|Iglesuela del Cid
+Igornay|FR||9k|3mp|c6|5

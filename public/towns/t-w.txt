@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wuhan|CN||7i|2cy|8tf|2y0e|Vuhano;Uhaņa;Vũ Hán;uuxan;Uxan;Vú-hon-sṳ;Wu-chan;Uhanas;Vuhan;Vuhani;Vujhan;Bú-hàn-chhī;Ū-háng;Uhan
+Weifang|CN||7i|2tz|96u|20ff|Wej-fang;Vejfang;Duy Phường;Î-hng-chhī
+Bogotá|CO||27|ct|-5ps|1n7s|Bogoto;Boqota;Wukuta;Buoguota;Bogot
+Wuzhong|CN||7i|2xj|870|1jkr
+Wuxi|CN|Jiangsu|7i|2fp|9a5|xxc|Usis;Wu-si;Vô Tích;Vuŝio;Vuhszi;Bû-sek-chhī;Ù-sék;Vuzsiz;Vuši;Usi;Wu-hsi;Wusih
+Ürümqi|CN||7t|3do|6rc|va4|Urumchi;Urumtschi;Urumĉio;Urumczi;Urumči;Ürümcsi;Urumčis;Ürümchi-sṳ;Öremçe;Dihua;Oʻrumchi;Urunchi;Dikhua;Wurumch’ih;Urumptsi;Urumtsi;Urumutsi;Ti-hua
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Guayaquil|EC||33|-64|-65x|l0l|Gvajakilis;Guaiaquil;Gvajakila;Wayakil;Guaiaquilum;Guajakil;Gvajakilo
+Wenzhou|CN||7i|25s|9b7|kg4|Wen-čou;Venĝou;Wénju shehiri;Wentsjou;Vûn-chû-sṳ;Ôn Châu;Un-chiu-chhī;Ŭng-ciŭ;Vencsou;Vendžou;Yongjia;Wen-chou
+Ouagadougou|BF||1a|yd|-49|imx|Wàadúu;Uagaduguo;Uagadugú;Vagadugu;Wagadugu;Huagadugu;Uaqaduqu;Ougadougou;Ouagadouga;Uagadougou
+Almaty|KZ||5s|3c5|5xn|f96|Alma-Ata;Almato;Almati;Almata;Werny
+Warsaw|PL||a5|413|1md|d4t|Warszawa;Varsovie;Warschau;Varsovia;Varsovio;Varšava;Varssavi;Varsova;Vársá;Varsó;Varsjá;Varsavia;Varšuva;Varsavja;Varshava;Barsobia;Warskou;Warszaw
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Wuhu|CN||7i|2f3|94z|cby|Wu-chu;Vuĥu;Ù-hù;Bû-hô͘-chhī;Vu Hồ;Ouhu
+Wanzhou|CN||7i|2dg|8d4|bxf
+Weinan|CN||7i|2nu|8g7|995|Wej-nan;Vị Nam;Ôi-nàng;Veinan;Ūi-lâm-chhī;Veynan
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Vijayawada|IN||6t|19v|681|8tk|Widźajawada;Vidžajavada;Vijajaŭada;Vidzsajavádá;Bejawada;Bezawada;Vijayavādā;Bezwāda
+Wuchang|CN|Hubei|7i|2cu|8ti|8i6
+Voronezh|RU||9i|3zj|30v|82z|Woronesch;Voroněž;Voroneĵo;Voronej;Voronežas;Voroņeža;Voronezj;Woroneż;Voronjež;Woronesh
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Wuwei|CN||7i|2xd|7x3|7sn
+Fort Worth|US||2f|2ix|-7ic|7s1|Fortvērta;Fortvortas;Arx Vorthensis;Fort Vort;Fort Uert;Fortvorto;Ft Worth
+Warri|NG||u|fc|fz|70s
+Wuchuan|CN||7i|1nm|8jp|702
+Wanxian|CN||7i|2dm|8d1|6mt|Wan-Hsien;Wanshien
+Weihai|CN||7i|2w7|9f7|6ij|Uy Hải;Wej-chaj;Ŭi-hāi;Veihai;Ui-hái-chhī
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+Valencia|ES||9d|31n|-12|6cz|Valenza;Valentia;Valence;Walencja;Balenzia;Valencija;Valencie;Valencio;Valentzia;Valensia;Valensija;Valensiya;Walénsiye;Valantsa;Valensyaa;Valensėjė;Pâ-lùn-sî-â;Valensii
+Oran|DZ||3|2r6|-1s|675|Orà;Waradinne;Wehran;Wahrān
+Wuzhou|CN||7i|1t8|8l5|5vn|Wu-čou;Ǹg-chû-sṳ;Ngô Châu;Ngouzcouh;Ngù-ciŭ;Ngô͘-chiu-chhī;Wu-chou
+Winnipeg|CA||5d|3uk|-7hv|5s8|Vinnipega;Vinipego;Vinnipeg;Vinipegas;Vinipega;Vinnipeq
+Warangal|IN||6t|1e0|652|5fq|Varangal;Varangalas
+Washington|US|District of Columbia|48|302|-5y0|5bj|Vasingtonia;Waszyngton;Vašingtonas;Territory of Columbia;District of Columbia;Vaŝingtono
+Wrocław|PL||a5|3xy|1bb|56t|Breslau;Vratislavie;Breslavia;Vratislav;Vroclavo;Boroszló;Vrotslav;Vroclava;Vratislavia;Vroclavas;Breslava;Vruoclavs;Breslū;Vroclav;Wrocłow;Brassel;Vroklave;Wroklaw;Vroslav;Vrocuav;Brasloi;Breßlau;Wrosław;Breslavl’
+E’zhou|CN||7i|2cg|8v5|55r|Wuchang;Ezhou
+Vancouver|CA||5b|3st|-9i0|53y|Vankuvero;Vancuverium;Vancôver;Wankuwér;Vankūvera;Venkûver;Vankuver;Fankûver;Vankuveris;Vangúve
+Vladivostok|RU||7w|3br|a6b|4o1|Wladiwostok;Władywostok;Vlagyivosztok;Uładzivastok;Vladyvostok
+Wenchang|CN||7i|1ib|8js|4bt|Văn Xương;Bûn-chhiong-chhī;Wen-chiang;Wencheng
+Wanning|CN||7i|1g8|8im|47o|Manning

@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Gstaad|CH||a7|3l3|k9|2k|Gštadas;Gštad
+Gschwend|DE||8r|3rx|r2|1f
+GSFC Complex INA|IN||6t|1q5|5n7|m
+Valle di Casies - Gsies|IT||9o|3lx|xu|l|Gsieser Tal
+Gschwandt|AT|Upper Austria|a2|3p6|12h|i
+Gstadt am Chiemsee|DE||8r|3p0|yi|e
+Gsteig|CH||a7|3ln|lv|9
+Gschwendt|AT|Styria|a2|3n2|179|9
+Gschwandt|AT|Salzburg|a2|3om|118|9|Schwand;Gschwand
+Gschaid bei Birkfeld|AT||a2|3nj|17m|9
+Gschwandt|AT|Upper Austria|a2|3ob|11u|6
+Gschwendt|AT|Salzburg|a2|3ok|11b|6

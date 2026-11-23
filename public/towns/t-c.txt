@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Karachi|PK||6q|1x2|565|2hoy|pechs;Karatschi;Karaĉio;Karačis;Karāči;Karaczi;Carachi;Karatxi;Keraçî;Karacsi;Karatsji;Karaaji;Karačės;Karochi;Karanchi;Karasi;Kurrachi
+Harbin|CN||7i|3j3|9rt|258j|Cáp Nhĩ Tân;Ha’erbin
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+Hefei|CN||7i|2gi|91s|211f|Che-fej;Hefėjus;Hợp Phì;Hefejo;Ha̍p-pûi-chhī;Hăk-bùi;Hofej;Hozfeiz;Hefej;Hefey;Ho-fei
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Yantai|CN|Shandong|7i|2w4|9dc|1ist|Chefoo;Jen-tchaj;Jantaj;Yên Đài;Iĕng-dài;Jantai;Ian-tâi-chhī;Yen-t’ai
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Kunming|CN||7i|1xk|7xc|19wy|Côn Minh;Kchun-ming;Khun-bêng-chhī;Kŏng-mìng;Kuņmina;Gvwnhmingz;Kunminq
+Shijiazhuang|CN||7i|2xo|8u0|18fk|Thạch Gia Trang;Š’-ťia-čuang;Šidziadžuangas;Ŝiĝjaĝŭango;Siŏh-gă-cŏng;Sicsiacsuang;Šidzjadžuana;Swzgyahcuengh;Chio̍h-ka-chng-chhī;Šidžjadžuang;Shicziyajuan;Şiciyajuang;Shihjiazhuang
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+Kano|NG||u|xc|no|11vw|Kanas;Cano
+Santiago|CL||4u|-2ky|-5g9|11bp|Sanctiacobi;Čilės Santjagas;Santjago
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Zibo|CN||7i|2u7|93y|10ap|Truy Bác;C-po;Cṳ̆-báuk;Chu-phok-chhī
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Chennai|IN||6t|10d|670|104b|Madrás;Ćennaj;Ĉenajo;Čennai;Csennai;Čenaj;Maderaspatanum;Čenajus;Çenay
+Kolkata|IN||6t|1qo|6tg|zqi|Kalkutta;Calcuta;Calcutta;Kolkato;Kalkuta;Kalkata;Caligardamana;Kalkota;Kolkat;Kalikātā
+Huai'an|CN||7i|2lb|96m|z5m|Huaiyin;Chuaj-an;Hwaiyin;Huai-yin
+Kabul|AF||6o|2nx|5c5|y7u|Kaboul;Cabul;Kâbil;Kaboel;Caboul;Cabura;Kabol;Kobul;Caubul;Kabura;Cabool
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Zaozhuang|CN||7i|2ou|92j|tr0|Cō̤-cŏng;Cao-čuang;Tảo Trang;Chó-chng-chhī
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui

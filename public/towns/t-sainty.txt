@@ -1,0 +1,10 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Yrieix-la-Perche|FR||9k|3if|3c|27|Sent Iriès;Sent Irièg de Glandon
+Saint-Yrieix-sur-Charente|FR||9k|3iw|d|1w|San Yrieix sobre Charenta;Saint Yrieix sobre Charenta
+Saint-Yorre|FR||9k|3jz|9m|t|Sant Tiorre
+Saint-Yvi|FR||9k|3p9|-ax|s|Sant-Ivi;Saint-Yvy
+Saint-Yzan-de-Soudiac|FR||9k|3he|-15|h
+Saint-Yan|FR||9k|3kx|b8|b
+Saint-Yon|FR||9k|3qw|63|9
+Saint-Ybard|FR||9k|3i9|48|6|Sent Ibarç;Sanch Ibarch
+Saint-Ybars|FR||9k|3c4|3v|6

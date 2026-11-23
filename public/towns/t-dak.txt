@@ -1,0 +1,49 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mumbai|IN||6t|1gz|5mg|2pxi|Moembaai;Bombaj;Mumbajo;Bombaya;Bombay;Bombėjus;Mumbaja;Mumbay;Mumbaj;Bombaim;Mumbajus;Bombai;Dakbayan sa Bombay;Bůmbaj;mymbais;Numbai
+Dhaka|BD||6a|1tv|6z5|27wt|Daca;Dacca;Dako;Daka;Dakka;Dakk;Deka;Dakah
+Dakar|SN||g|14t|-1cg|kf5|Dacar;Ndakaaru;Dakaa
+Dazhou|CN|Sichuan|7i|2ep|8ai|c9i|Ta-čou;Đạt Châu;Dăk-ciŭ;Tha̍t-chû-sṳ;Ta̍t-chiu-chhī
+Isfahan|IR||7o|2ip|3zj|bxs|Ispahan;Esfahan;Dakbayan sa Esfahān;İsfehan;Esfahano;Iszfahán;Yspyhan;Isfahon;Gabai;Eşfehān;Espahān;Spahan
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Lapu-Lapu City|PH||71|sn|9kb|3ua|Lapu-Lapu;Dakbayan sa Lapu-Lapu;Siudad ti Lapu-Lapu
+Bacolod City|PH||71|tn|9hj|3id|Bacolod;Ciudad ti Bacolod;Lungsod ng Bacolod;Dakbayan sa Bacolod;Syudad han Bacolod;Bacoloo City;Baclod City
+NIA Valencia|PH||71|lz|9nh|1q4|Valencia City;Kota Valencia;Valencia Lakanbalen;Dakbayan sa Valencia;Lungsod ng Valencia
+Toledo|PH||71|su|9jg|1lf|Dakbayan sa Talisay
+Cavite City|PH||71|148|9bu|w7|Cavite;Dakbayan sa Cavite;Bandar Cavite;Ciudad ti Cavite;Cavite Lakanbalen;Lungsod ng Kabite;Syudad han Cavite;Siyudad na Cavite;Kavite
+Dakhla|EH||k|1ts|-18c|tj|Villa Cisneros;Dajla;Villa Cisneras
+Gjakovë|XK||8q|39q|1kr|q6|Gjakova;Đakovica
+Tagbilaran City|PH||71|qu|9k1|o0|Tagbilaran;Dakbayan sa Tagbilaran;Syudad han Tagbilaran;City of Tagbilaran
+Calbayog City|PH||71|xj|9m4|iv|Calbayog;Dakbayan sa Calbayog;Syudad san Calbayog
+Dakhla|MA||d|2ch|-qj|fg|Dajla
+Uttar Char Fasson|BD||6a|1pr|6zz|df|Dakshin Char Fasson
+Dakoro|NE||18|14b|it|b0
+Dakota Ridge|US||2p|322|-842|9f
+Dikhil|DJ||i|uu|39p|94|Dikilis;Dikil;Dikkil;Dakhīl
+Dākor|IN||6t|1r7|5n7|75
+Đakovo|HR||a6|3hv|1f5|4p|Diakovár;Diaco;Džakovas;Djakovo;Djakowar;Deakovár;Djakovár
+Dakpadou|CI||0|em|-gv|44|Dagpadou
+Dakingari|NG||u|wd|ba|3i
+Lakhnā|IN||6t|221|63v|36|Dakhnā
+Dake-onsen|JP||7q|2wh|atw|2g|Dakeonsen
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Dahbed|UZ||7g|32g|55w|28|Dakhbed
+Dakoutun|CN||7i|31y|91n|1m|Ta-k’ou-t’un
+Dakouépleu|CI||0|jz|-l1|16
+Dakshinpāra|BD||6a|1lo|74h|15|Dakhinpāra;Dakkhinpara
+Dak Cheung|LA||7v|16z|89z|10
+Dākātia|BD||6a|1sg|6vs|z
+Dakabin|AU||8c|-23n|bsz|z
+Dak Por|KH||78|vt|81f|r
+Dakota Dunes|US||2f|3a1|-7g1|p
+Dakougoume|CI||0|jq|-m6|l
+Dakota City|US|Nebraska|2f|39u|-7fu|j
+Dakshin Māgura|BD||6a|1u2|6v9|f|Dakkhin Magura
+Dakoulitrohoin|CI||0|gl|-fk|e
+Dakota|US||2f|3e7|-6w8|c
+Dak Dam|KH||78|yi|8a3|c
+Daknam|BE||8t|3y1|b2|9|Dacknam
+Dākān|IR||7o|2rz|3tq|9|Dādkān
+Dakota City|US|Iowa|2f|3ao|-79o|8|Dakotaurbo
+Dakkhingaon|BD||6a|1zh|6tt|7|Dakshingaon
+Dakro|CI||0|l9|-9r|7
+Dark Man|LA||7v|16x|8a9|5|Dak Man;Darkman

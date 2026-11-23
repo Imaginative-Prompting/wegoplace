@@ -1,0 +1,204 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kabul|AF||6o|2nx|5c5|y7u|Kaboul;Cabul;Kâbil;Kaboel;Caboul;Cabura;Kabol;Kobul;Caubul;Kabura;Cabool
+Santiago de los Caballeros|DO||4v|1i1|-5gd|99c|Santjago de los Kabaljerosas;Santiago
+Cabinda|AO||x|-fg|xv|48s|Kabinda;Kabenda
+Cabimas|VE||2c|sw|-5ih|2pp|Kabimasas
+Cabanatuan City|PH||71|171|9c1|2nh|Cabanatúan;Ciudad ti Cabanatuan;Lungsod ng Cabanatuan;Siudad ti Cabanatuan;Lakanbalen ning Cabanatuan;Siyudad na Cabanatuan
+Cabuyao|PH||71|13n|9ch|2dr
+Cabo Frio|BR||4w|-1rl|-38r|1u8|Caput Frigidum
+Cabo de Santo Agostinho|BR||4p|-n1|-2pb|1oa
+Cabo San Lucas|MX||3x|1rl|-8hb|1kb|Kabo san Lukas;Kabo Sanlukasa;Mys svätého Lukáša
+Cape Coral|US||48|21s|-6bn|1co|Cabo Coral;Keip Koralas
+Puerto Cabello|VE||2c|t3|-58x|1cc|Puerto Kabeljas;Portus Cabellensis
+San José del Cabo|MX||3x|1s1|-8gq|11v
+Cap-Haïtien|HT||4j|1iw|-5kk|11g|Cabo Haitiano;Cap Haitien;Kap Ayisyen;Haitia Kabo;Okap;Cape Haytien;Cape Haitien
+Cabudwaaq|SO||2|hd|3ke|xc|Cabuud Waaq;Caabudwaaq;Abudwaq;Abudwaaq
+Gabela|AO||x|-u5|13y|wh|Cabela
+Cabudare|VE||2c|rv|-5ce|sj
+Cabedelo|BR||2w|-je|-2or|j4|Cabedello
+Heroica Caborca|MX||37|2dc|-8nk|gn|Caborca
+Cabiao|PH||71|16d|9bp|dw
+Chabahar|IR||7o|1y9|4og|d5|Tschahbahar;Çabahar;Čáhbahár;Chah Bahar;Czabahar
+Chalon-sur-Saône|FR||9k|3ly|dh|d5|Cabillonum;Chalons sur Saône
+Cabreúva|BR||4w|-1sr|-3mx|d2|Cabriúva
+Cabaiguán|CU||36|1pc|-64u|cd
+Boujdour|EH||k|20l|-149|bv|Cabo Bojador;Bujdur
+Cabrobó|BR||4p|-nn|-317|8u
+Cabadbaran|PH||71|pc|9oq|8n
+Cabrero|CL||4u|-2uv|-5l4|7o|Carrero
+Cavaillon|FR||9k|3dr|e0|7f|Cavalhon;Cabellio
+Caboolture|AU||8c|-238|bsv|7b
+Cabot|US||2f|2p5|-73m|74
+Cabagan|PH||71|1cf|9e9|71
+Cabricán|GT||32|15v|-72l|6e
+Cabramatta|AU||8l|-2m6|bn9|60
+Cabra|ES||9d|2w3|-cc|5y
+Cabildo|CL||4u|-2i3|-5hf|5d
+Cabaceiras do Paraguaçu|BR||20|-yu|-30v|59|Cabeceiras do Paraguaçu
+Cabeceiras de Basto|PT||99|37b|-m7|4n
+Cabayangan|PH||71|kl|9p9|4l
+Caburan|PH||71|gg|9p0|3i
+Cabral|DO||4v|1ep|-5hu|3f
+Cabbagetown-South St.James Town|CA||59|3db|-64h|39
+Tshabong|BW||m|-20d|1qd|39|Čabongas;Tsabong
+Cabo Verde|BR||4w|-1nn|-3kw|36
+Capoterra|IT||9o|30u|ox|35|Cabuderra
+Caballococha|PE||3o|-av|-5fw|33|Cabalo Cocha
+Cabo Rojo|PR||4m|1e9|-56j|30
+Cabinuangan|PH||71|lc|9q3|30
+Caudete|ES||9d|2zj|-2r|2v|Cabdet
+Cabeceiras do Piauí|BR||2w|-cg|-39j|2u
+Cabinteely|IE||8z|43z|-h4|2s|Kabintilis;Cábán tSíle
+Cap Negro II|MA||d|2r2|-ep|2s|Cabo Negro
+Cape Canaveral|US||48|26x|-67w|2r|Cabo Cañaveral
+Cabaritan East|PH||71|1f6|9dh|2l
+Cabestany|FR||9k|3ak|86|2j
+Cable Beach|AU||8k|-1dw|9fh|2d
+Cabriès|FR||9k|3co|ey|29
+Cabezón de la Sal|ES||9d|3cb|-bs|29
+Cabras|IT||9o|32x|np|25
+Cabeceiras|BR||4w|-17w|-3md|24
+Cabiate|IT||9o|3iv|ph|22
+Cabrils|ES||9d|37d|6l|21
+Cabacungan|PH|Western Visayas|71|so|9i1|20
+Cabanillas del Campo|ES||9d|34v|-8z|20
+Cabramatta West|AU||8l|-2m5|bn7|1z
+Cabarroguis|PH||71|19v|9dk|1y|Cabarroquis
+Cabugao|PH|Ilocos|71|1df|9am|1x|Kabugao
+Cabeceira Grande|BR||4w|-18j|-3mt|1u
+Cabadiangan|PH|Western Visayas|71|s7|9hi|1r|Cabidiangan
+Cabezas|MX||41|1ht|-7fq|1q
+Cabatuan|PH|Western Visayas|71|u8|9g9|1p
+Cabcaben|PH||71|145|9az|1n
+Cabañas|CU||36|1ru|-6ec|1n
+Cabano|PH||71|tf|9gu|1m
+Cabeza del Buey|ES||9d|2zk|-ei|1k|Cabezabuei;Cabeza de Buey
+Cabanglasan|PH||71|mk|9o5|1i
+Cabixi|BR||4l|-11i|-4o7|1i
+Cabaceiras|BR||2w|-kt|-2st|1h
+Cabo Ruivo|PT||99|2zo|-pa|1h
+Caboolture South|AU||8c|-239|bsv|1h
+Jones|PH||71|1a0|9e2|1g|Cabanuangan
+Chabany|UA||98|3vu|2cj|1f|Chabani;Čabany;Çabanı;Czabany;Ceabanî
+Cabrera|DO||4v|1ik|-5e6|1d
+Caba|PH||71|19n|9aa|1c
+Cabañas|GT||32|15h|-6xg|1b
+Cabacao|PH||71|112|9b6|19
+Cabanbanan|PH|Calabarzon|71|13k|9db|19
+Morro Cabeça no Tempo|BR||2w|-r1|-3dz|19|Morro Cabeçano no Tempo;Cabeça no Tempo;Cabeça-no-Tempo;Cabeçano Tempo
+Cabra|IE||8z|449|-hh|18|An Chabrach
+Cabaj-Čápor|SK||8s|3q0|1e3|17
+Cabrália Paulista|BR||4w|-1qe|-3t2|17
+Cabannes|FR||9k|3du|dr|17
+Cabugao|PH|Western Visayas|71|u1|9ge|17
+Cabatang|PH||71|12t|9d5|16
+Kabac|PH||71|v8|9jm|15|Cabac;Kabak
+Cabarete|DO||4v|1iv|-5fl|15
+Cabrera de Mar|ES||9d|37c|6o|14
+Caban|PR||4m|1f8|-56i|14
+Cabaret|HT||4j|1g2|-5l6|14|Kabarè
+Cabangahan|PH|Central Visayas|71|p8|9hj|13|Cabangjan
+Cabul-an|PH||71|s8|9kk|13
+Cabourg|FR||9k|3sx|-b|11|Kabūra
+Cabaluay|PH||71|jg|9fe|10|Caboluoy
+Cabitan|PH||71|y5|9im|z
+Cabadiangan|PH|Western Visayas|71|r3|9g7|y
+Cabeza de Toro|MX||41|18a|-78i|y
+Capestang|FR||9k|3cd|8g|y|Capestanh;Cabestanh
+Cabay|PH|Calabarzon|71|12j|9d6|x
+Cabra|PH||71|12l|99h|x
+Kabalantian|PH||71|n9|9ld|w|Cabalantian
+Cabano|CA||59|3og|-5bc|w|Témiscouata-sur-le-Lac
+Cabangan|PH||71|164|99i|v
+Cabungan|PH||71|19e|99b|v
+Cabacuñgan|PH|Eastern Visayas|71|ud|9n6|u|Cabacongan
+Cabodiongan|PH||71|z6|9nd|u|Cabadiangan
+Cabog|PH||71|16k|9d5|u
+Cabiraoan|PH||71|1ew|9f5|t
+Cabrerizos|ES||9d|35u|-fl|t
+Cabalawan|PH||71|tu|9kb|t|Kabalawan
+Cabulay|PH||71|1aj|9di|s
+Cabanbanan|PH|Western Visayas|71|s1|9hk|s|Cabanbaan
+Cabayaoasan|PH||71|17i|9av|s
+Cabangahan|PH|Northern Mindanao|71|ma|9nm|r
+Cabucgayan|PH||71|vv|9m2|r
+Kablalan|PH||71|g2|9ns|r|Cablallan
+Cabalaoangan|PH||71|18e|9bi|r
+Cabilao|PH||71|w2|9i2|r|Kabilao
+Cabugao|PH|Bicol Region|71|11s|9l8|q
+Kabulohan|PH||71|mc|9o0|q|Cabulohan
+Cabcab|PH||71|11v|9kl|q
+Cabanes|ES||9d|33k|4|q
+Kabuynan|PH||71|us|9na|q|Cabuynan;Kaboynan
+Cabilauan|PH||71|u9|9gq|q|Kabilaoan;Cabilawan;Kabilauan
+Cabezón|ES||9d|37x|-cx|p
+Cabazon|US||3p|2m8|-90f|p
+Cabittaogan|PH||71|1cu|9ac|p
+Cabatuan|PH|Eastern Visayas|71|ys|9nu|o|Cabatoan;Kabatoan
+Kabungahan|PH||71|t8|9ke|n|Cabungahan
+Cabay|PH|Eastern Visayas|71|vt|9ol|n
+Cabin John|US||48|30a|-5yc|n
+Cabiguan|PH||71|zv|9jp|n
+Cabusao|PH||71|124|9i0|n
+Cabalitian|PH||71|18p|9bj|n|Cabalician
+Cabra del Santo Cristo|ES||9d|2wq|-95|m|Cabra de Santo Cristo;Cabra del San Cristo
+Cabognon|PH||71|10m|9jk|m|Cabagnan
+Cabezuela del Valle|ES||9d|33n|-g5|m
+Cabannungan Second|PH||71|1bk|9eh|l|Cabannungan II;Cabannungan
+Cabool|US||2f|2v4|-73u|l
+Kabilauan|PH||71|u6|9gh|l|Kabilaoan;Cabilauan
+Căbeşti|RO|Bihor County|8u|3lx|1q5|k
+Cabecicos|ES||9d|2xl|-30|k
+Cabouco|PT||81|2wx|-1z1|j
+Cabarita|AU||8l|-2m1|bns|j
+Caurio de Guadalupe|MX||41|1jc|-7uy|j|Cábrio
+Cabañas de la Sagra|ES||9d|335|-az|i
+Cabeza la Vaca|ES||9d|2xs|-hu|g
+Cabris|FR||9k|3da|j3|f
+Cabanac-et-Villagrains|FR||9k|3fw|-1j|f|Cabanac e Vilagrans
+Cabanas de Viriato|PT||99|34g|-m5|f
+Cabra Número Uno|PA||4g|pb|-64d|e|Cabra Número 1
+Cabrera|CO||27|b3|-5qw|e
+Cabasse|FR||9k|3cn|ha|e
+Cabeça Gorda|PT||99|2xc|-ln|e
+Čabra|XK||8q|3b7|1lp|d|Cabrë;Çabër
+Cabrières|FR||9k|3dy|cf|c
+Cabanas de Tavira|PT||99|2v6|-l4|c
+Cabasakan|PH||71|s1|9l1|c
+Cabiche|LC||52|12w|-4pb|c
+Cabariot|FR||9k|3jl|-2e|c|Cabarrot
+Cable Bay|NZ||ak|-2p7|ddx|b
+Cabuyaro|CO||27|bw|-5m7|b
+Kabri|IL||6n|2jq|2pn|b|Kābirī;Cabri
+Cabarlah|AU||8c|-247|bq8|b
+Cabo de Palos|ES||9d|2wj|-1x|b|Cabo Palos
+Cabecera de Indígenas|MX||41|1ht|-7q6|a
+Cabanas de Torres|PT||99|30s|-p7|a
+Ca' Ballarin|IT||9o|3ib|yr|a
+Cabrillanes|ES||9d|3bb|-h3|a
+Cabanilla|PE||3o|-17e|-5ff|9
+Cabezas Rubias|ES||9d|2wt|-jp|9
+Cabo Verde|MX||41|1h9|-7fi|9
+Cabuyal|PE||3o|-ac|-67g|9
+Căbești|RO|Bacău County|8u|3kd|248|8
+Cabana|PE||3o|-17h|-5fc|8
+Cabeza de Tigre|MX||41|1eu|-7fv|8
+Čab|SK||8s|3qh|1dz|8
+La Cabanasse|FR||9k|3a2|5v|8|La Cabanassa;Cabanasse
+Cabauw|NL||8m|40c|dm|7|Kabauw
+Cabezuela|ES||9d|36k|-ax|7
+Caballerías (Caballería Villa Hidalgo)|MX||41|1q7|-7ud|7
+Cabo da Praia|PT||81|2zj|-236|7
+Cabuya|PA||4g|nu|-660|7
+Cabanette|IT||9o|3go|nu|7
+Cabellal Número Uno|MX||41|1lg|-7ic|7
+Cabo da Ribeira|CV||84|1bk|-1xl|6
+Cabanillas de la Sierra|ES||9d|35e|-a2|6
+Cabuna|HR||a6|3j3|1cu|6|Zabuna;Czabuna
+Cabezarrubias del Puerto|ES||9d|2za|-bm|6
+Yaseny|UA||98|3q4|1zb|6|Yassény;Căbești
+Cabañas de Ebro|ES||9d|384|-3c|5
+Cabañas del Castillo|ES||9d|31v|-fb|5
+Cabrejas del Pinar|ES||9d|384|-7x|5
+Cabreros del Río|ES||9d|39s|-fe|5
+Cabezamesada|ES||9d|32m|-8m|5

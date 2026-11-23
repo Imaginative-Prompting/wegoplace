@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Karachi|PK||6q|1x2|565|2hoy|pechs;Karatschi;Karaĉio;Karačis;Karāči;Karaczi;Carachi;Karatxi;Keraçî;Karacsi;Karatsji;Karaaji;Karačės;Karochi;Karanchi;Karasi;Kurrachi
+Foshan|CN||7i|1rz|8q9|1xrt|Phật Sơn;Fo-šan;Fu̍t-sân-sṳ;Fošanas;Fosjan;Foŝan;Hu̍t-san-chhī;Hŭk-săng;Hotokeyama;Fak San;Fuk Shan;Fut Shan;Fatshan
+Puxi|CN||7i|2es|9df|1fkl
+Pudong|CN||7i|2es|9di|17u7|Phố Đông
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Peshawar|PK||6q|2mh|5iu|10pw|Peschawar;Pesjawar;Peszawar;Pexauar;Pešavaras;Péšávar;Peŝavaro;Pešāvara;Peşaver;Peshovar
+Fuzhou|CN|Fujian|7i|20e|97f|vld|Fucheu;Phúc Châu;Hók-ciŭ;Fudžou;Fu-čou;Fuk-chû-sṳ;Futsjou;Fuĝoŭo;Hok-chiu-chhī;Fucsou;Focheum;Fuzcouh;Fuçjou;Fužov;Fu-chou;Fuchau;Fouzhou
+Puyang|CN|Zhejiang|7i|29u|991|rp8|Pujiang;P’u-chiang;Pukiang
+Durban|ZA||o|-2ay|2e7|pr8|ITheku;Thekong;EThekwini;Port Natal
+Busan|KR||7h|2pi|9yf|pcj|Pusano;Pusan;Phủ San;Pusana;Fusan
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Pune|IN||6t|1fg|5p6|o3x|Puna;poona;Pun
+Bursa|TR||94|33o|28q|nxm|Burs;Burso;Prusa;Prusa ad Olympum;Boursa;Prousa;Brusa
+Brisbane|AU||8c|-24b|bt3|lg9|Brisbano;Brisbenas;Brisben;Brėsbens;Pu-lî-sṳ̂-pân;Brisbena;Brisbin
+Baotou|CN||7i|34x|8h4|lb5|Bao Đầu;Pao-tchou;Baŭtoŭo;Bău-tàu;Pâu-thèu-sṳ;Paotou;Pau-thâu-chhī;Pao-t’ou;Pao-tow
+Baoding|CN|Hebei|7i|2zz|8wq|l53|Bawding shehiri;Bảo Định;Baodin;Bō̤-dêng;Baodina;Pó-tēng-chhī
+Perth|AU|Western Australia|8k|-2gr|8xu|iec|Pertas;Peairt;Perto;Pērta;Pirth;Pet;Pert
+Baoshan|CN|Shanghai|7i|2f9|9dh|hhf|Pao-shan
+Paris|FR||9k|3rp|6j|gi2|Lutèce;Ville-Lumière;Parizo;Parys;Paříž;Baris;Pariis;Pariisi;Páras;Párizs;Parigi;Paräis;Paries;Paryžius;Parīze;Parijs;Paryż;Pariggi;Pari;Paname;Pantruche;Paarys;Pa-ri;Parij;Parixe;Palika;Parighji;Baariis;Lutetia;Parigge;Bahliz;Pariižu
+Port Harcourt|NG||u|da|jh|gcw|Port Harkortas;Ugwu Ọcha;Port Xarcourt;Port Harkurt
+Pretoria|ZA||o|-1zi|26b|gav|Pretorio;Pretorija;Prétoriye;IPitoli;Pretoriya;Praetoria;Pretorii;E-Pitoli;Priturya;Pretourii;Pitori;Pretorie;Piritōria;Pretooriyaa
+La Paz|BO||3n|-19u|-59b|fgv|Chukiyawu;La-Pazo;A Paz;Pax;La Pasas;Chuqiyapu;La Pas;Chuqi Yapu;Lapasa;La-Pas
+Puning|CN||7i|1sr|8yp|ff6|Phổ Ninh
+Palembang|ID||6l|-84|82z|dwe|Palimbão;Palembanq;Pelémbang
+Fuyang|CN|Anhui|7i|2je|8xq|dnd|Fu-jang;Phụ Dương;Pâiu-iòng;Hū-iông-chhī;Fuyan;Fou-yang
+Pimpri-Chinchwad|IN||6t|1fq|5p0|dbx|Pimpri Chinchwad;Pimpri-Ĉinĉvad;Pimpris-Činčvadas;Pimpri-Csincsvád
+Puebla|MX|Puebla|41|1gx|-7kt|d22|Cuetlaxcoapan;Angelopolis;Puebl;Yucha Nchu'u;Pueblo
+Patna|IN||6t|1z3|6ki|czv
+Phoenix|US|Arizona|4i|2kx|-8nb|cqd|Fenikso;Pēniki;Féniks;Fīniksa;Finiksas;Hoozdoh;Phoeniks;Finiks;Finiksos;Phenix
+Philadelphia|US|Pennsylvania|48|32z|-5ss|c57|Filadelfia;Philadelphie;Filadelfie;Filadelfio;Filadelfija;Filadelfi;Philly;Fi-sàng;Filadélfiye;Filadelfiya;Filadelfijo;Filadelfii
+Phnom Penh|KH||78|w4|83g|c53|Phnum Pénh;Nom Pen;Pnompenis;Phnom-Penh;Phnompenh;Pnom Penh;Pnom Pene;Phon Phen;Phnum Pény;Phnompen;Pnom Pen;Pnompeņa;Pnompeno;Pnompen;Phnom Pen
+Putian|CN||7i|1yo|96l|bvm|Buò-dièng;Pchu-tchien;Phù-thièn-sṳ;Putyen shehiri;Phủ Điền;Phô͘-chhân-chhī;P’u-t’ien
+Porto Alegre|BR||4w|-2bf|-3yb|bhf|Puerto Alegre;Porto-Alegro;Portus Alacer;Portualegri;Portu-Alegri
+Asunción|PY||1y|-1y9|-4g5|bfq|Assumptio;Assunção;Asunsjonas;Paraguay;Assuncion;Asúnsjón;Asounsyòn;Asunsion;Asunsjona;Asunsyun;Asunson;Asunsaun
+Bozhou|CN|Anhui|7i|2m4|8xl|avi|Po-čou;Bạc Châu;Bŏk-ciŭ;Po̍k-chiu-chhī
+Fushun|CN||7i|38d|9ka|at2|Fusjun;Fu-šun;Fuŝuno;Fušunas;Phủ Thuận;Ū-sông;Fusun;Bú-sūn-chhī;Fu-shan
+Pimpri|IN||6t|1fq|5p1|9wu
+Amman|JO||5t|2gs|2rv|9uf|Amano;Aman;Amanas;Amã;Amans;Philadelphia;Amani

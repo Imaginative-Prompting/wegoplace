@@ -1,0 +1,690 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Campo Grande|BR|Mato Grosso do Sul|2a|-1ks|-47t|6zp|Campus Magnus;Kampo Grandė;Kampu-Grandi
+Ciudad General Escobedo|MX||44|1zo|-7qo|3ie|General Escobedo;Gral. Escobedo
+Campina Grande|BR||2w|-k3|-2ro|3fb|Kampinagrando;Kampina Grandė
+Grajaú|BR|São Paulo|4w|-1u1|-3ln|2yx
+Las Palmas de Gran Canaria|ES||83|262|-16u|2yj|Laspalmaso;Las Palmas;Kanaria Handiko Las Palmas;Les Palmes de Gran Canària;Laspalmasa;Palmas de Gran Canaria;Las Palmas de G.C.
+Praia Grande|BR|São Paulo|4w|-1up|-3kw|2u2
+Soledad de Graciano Sánchez|MX||41|1pn|-7se|2k9
+Graz|AT||a2|3mr|16w|2c9|Štýrský Hradec;Graco;Graecia;Graca;Gradec;Grác;Gracas;Qras;Gradac;Gratz
+Várzea Grande|BR|Mato Grosso|2k|-17h|-4bx|2bd
+Greater Noida|IN||6t|276|5ze|29n|Didžioji Noida;Granda Noida
+Gagnoa|CI||0|h1|-gj|24y|Ganjoa;Gragnoa
+Gravataí|BR||4w|-2b6|-3xn|21n|Karavatay;Gravatahy
+Granada|ES||9d|2vb|-a1|1sv|Granado;Grenade;Granata;Grenada;Grenado;Grenayd;Gırnata;Qranada;Graná
+Rio Grande|BR||4w|-2gz|-40q|1j9
+Grand Rapids|US|Michigan|2q|3bc|-6lz|1i7
+Grand Prairie|US||2f|2iz|-7hg|1g6|Grand Preris
+Oradea|RO||8u|3mp|1ow|1ev|Velký Varadín;Nagyvárad;Varadinum;Oradä;Großwardein;Oradia;Oradja;Veliki Varadin;Wardein;Várad;Varadija;Varat;Gran Varadino;Groysvardeyn
+Greater Sudbury|CA||59|3l5|-68z|1a4|Grand Sudbury;Gran Sudbury;Sudbury;Sadberis;Granda Sudbury
+Grenoble|FR||9k|3hi|fv|182|Grenoblo;Grenobel;Qrönobl;Gratianopolis;Grenoblis;Grenobl
+Fazenda Rio Grande|BR||4w|-1za|-3sz|15d
+Jyväskylä|FI||92|4sw|1zg|15b|Juveskiulė;Jiveskile;Granivicus;Jüväskülä
+Cambridge|GB||9b|410|c|14h|Caergrawnt;Kembriĝo;Cantabrigia;Grantanbrycg;Kembridžas;Kiam-khiâu;Kambrij;Kembric;Kembridža
+Gràcia|ES||9d|370|60|xr
+Santa Coloma de Gramenet|ES||9d|375|65|x0
+Campo Grande|BR|São Paulo|4w|-1tr|-3lp|w7
+Gravesend|US||48|34s|-5ph|v6
+Grand-Bassam|CI||0|eh|-ae|qw|Gran Basamas;Grand Bassam
+Grudziądz|PL||a5|44k|1g3|pq|Graudenz;Grudzjondza;Grudziondzas;Grëdządz;Grudźůndz;Grudzëndz
+Gravatá|BR||4p|-ms|-2qs|po
+Grahamstown|ZA||o|-2ki|21p|pf|Makhanda;IRhini
+Grays|GB||9b|3z0|x|oy
+Granada|NI||3s|x5|-6mr|ou|Granado
+Buchanan|LR||15|gc|-rx|l3|Fish Town;Grand Bassa;Byukenen;Biukenenas
+Grazhdanka|RU|St. Petersburg|9i|4mq|2ci|jr
+Grande Prairie|CA||2s|499|-960|jk|Qrand-Preri;Gran Preri
+Grajaú|BR|Maranhão|2w|-g6|-3k6|jh|Grajahú;Gralau
+Granada|CO|Meta Department|27|9v|-5or|j5
+Granby|CA||59|3i4|-5m1|ie
+Graaff Reinet|ZA||o|-2hl|1w5|hh|Graaff-Reinet;Graaf Reinet
+Grao de Murviedro|ES||9d|324|-o|hc
+Granollers|ES||9d|37l|6d|gy
+Grand Junction|US|Colorado|2p|30i|-8dj|gs
+Grand Forks|US||2f|3p5|-7hj|fu|Grandforksa;Grann Fòks
+Granja|BR||2w|-8o|-35f|fa
+Gravesend|GB||9b|3yw|11|f3
+Grand Island|US|Nebraska|2f|35p|-7l6|ea|Grandis Insula
+Grapevine|US||2f|2jh|-7ho|ea
+Grangwav|HT||4j|1f7|-5m5|dp|Grand-Goâve;Grande Goave;Grand Goâve
+Grasse|FR||9k|3da|j9|d8|Grassa;Grasas
+Grantham|GB||9b|42z|-1s|ce|Grantam
+Gravina in Puglia|IT||9o|35e|19m|bq
+Gramado|BR||4w|-29m|-3xb|b5
+Granadilla de Abona|ES||83|264|-1a2|b4
+Grabouw|ZA||o|-2mv|1gu|af
+Grants Pass|US||3p|39w|-9il|ab
+Grand-Lahou|CI||0|ea|-dy|a9|Grand Lahu
+Granadero Baigorria|AR||1n|-2ja|-4oo|90|Granadero Baigorrio
+Grand-Zattry|CI||0|h0|-i6|8p
+Granger|US|Indiana|38|37z|-6n7|8h
+Grandview-Woodlands|CA||5b|3sw|-9hv|84
+Gorai|IN||6t|1hh|5m6|83|Corai;Grai
+Gragnano|IT||9o|351|14c|83
+Granite City|US||2f|2zi|-6yf|83
+Esztergom|HU||8v|3or|1g2|80|Gran;Ostrzyhom;Ostřihom;Salvio;Esterqom;Strigonio;Ostrogon;Strigoniu;Ostrigon;Strigonia;Strigonium;Salvio Mansio;Strigonie;Estergom;Strigoni;Estergon;Solva
+Grarem|DZ||3|2tg|hl|7y
+Gramercy Park|US||48|356|-5pj|7s
+Gravina di Catania|IT||9o|2wc|15u|7d
+Le Grand-Quevilly|FR||9k|3t8|2x|7d|Grand-Quevilly
+Grandview|US|Missouri|2f|301|-7al|71
+Gradignan|FR||9k|3gd|-1p|6s|Gradinhan
+Graham|US|Washington|3p|3mp|-9fp|6j
+Graneros|CL||4u|-2mn|-5gh|6h
+Grande-Synthe|FR||9k|3xq|6e|6g|Groot-Sinten;Groot-Sintn
+Grajewo|PL||a5|451|1qe|6c|Grajevo;Grajevas
+Grand Boulevard|US||2f|385|-6re|68
+Grayslake|US||2f|39m|-6sk|5t|Grays Lake;Greyslake
+Grand Island|US|New York|48|3bj|-63c|5s
+Granite Bay|US||3p|2zo|-9ck|5o
+Grafton|AU||8l|-2ag|bst|5d
+Finsterwalde|DE||8r|3zf|123|59|Grabin
+Nueva Granada|CO||27|r8|-5qn|4v|Granada
+Grand Gosier|HT||4j|1ej|-5js|4r|Gran Gozye;Grande Gosier
+Granville|AU|New South Wales|8l|-2m0|bnh|4n
+Grafton|US|Massachusetts|48|399|-5j5|4m
+Grangemouth|GB||9b|4bl|-ac|4h
+Grandville|US||2q|3b7|-6m8|4g
+Grenchen|CH||a7|3n3|kk|4f|Granges
+Gračanica|BA|Federation of B&H|9r|3g6|1ev|4e
+Gradačac|BA||9r|3go|1f7|4d
+Graniteville|US|New York|48|34u|-5pz|49
+Grays Ferry|US||48|32y|-5sv|44
+Graham|US|North Carolina|48|2s7|-64k|42
+Greece|US||48|3c1|-5zt|41|Graecia;Grecia
+Granville|FR||9k|3ro|-4g|3z|Graunville
+Grand Bayou Mobile Home Park|US||2f|2b3|-706|3y
+Gramoteino|RU||74|47i|6ny|3w|Gramoteina
+Graça|PT||99|2zk|-pd|3w
+Grafing bei München|DE||8r|3ph|x9|3v|Grafing bij München;Grafing ba Minga;Grafing apud Munkeno
+Grão Mogol|BR||4w|-1a1|-3b5|3v
+Grand Falls-Windsor|CA||50|3rx|-4am|3v
+Graça|BR||2w|-b9|-357|3u
+Grain Valley|US||2f|30e|-79o|3q
+Gradiška|BA||9r|3he|1bx|3p
+Grabiszyn-Grabiszynek|PL||a5|3xx|1b6|3o
+Gravelines|FR||9k|3xn|5x|3n|Grevelingen;Gravelinas;Grevelingn;Gravelina;Gravelingen;Graelines
+Graulhet|FR||9k|3dl|5j|3n|Graulhe
+Grave|NL||8m|3zs|fy|3m|De Graaf
+Gräfelfing|DE||8r|3po|vr|3m|Grefefing
+Grass Valley|US||3p|30y|-9ca|3l|Gresa Valo
+Grammichele|IT||9o|2vd|14n|3k|Grammicheli
+Granadilla|CR||2i|rl|-6he|3j
+Grand Terrace|US||3p|2mj|-91v|3h
+Gravatal|BR||4w|-26p|-3s8|3g|Gravatá
+Grez-Doiceau|BE||8t|3wy|d2|3g|Graven;Hélécine;Gré
+Gravenhurst|CA||59|3gs|-64h|3f
+Grand Baie|MU||ag|-1jm|4fy|3e|Grand-Baie;Grande Baie
+Grand Berebi|CI||0|cx|-j8|3d|Yeh;Grand Béréby
+Gracemere|AU||8c|-1t4|bly|3c
+Graben-Neudorf|DE||8r|3sl|nl|39|Grawe-Naidorf
+Grabo|CI||0|do|-ku|38
+Gramsh|AL||9y|35j|1k2|38|Gramšis;Gramish
+Grafton|US|Wisconsin|2f|3cc|-6sb|37
+Gräfenhainichen|DE||8r|3zp|ym|34|Gräfenhainchen
+Grandview|US|Washington|3p|3kh|-992|34
+Grabiszynek|PL||a5|3xx|1b7|33
+Grand Rapids|US|Minnesota|2f|3n8|-77t|33
+Grand Haven|US||2q|3bm|-6nj|33
+Grâce-Berleur|BE||8t|3wo|fa|30
+Grândola|PT||99|2y2|-nt|2z
+Grange Hill|JM||3i|1ev|-616|2w|Gran Hill
+Kauniainen|FI||92|4n9|1wp|2u|Grankulla;Grani
+Grajales|MX||41|1hf|-7jo|2t
+Grantsville|US|Utah|2p|34s|-8oe|2s|Grantville
+Grand-Popo|BJ||1b|hg|52|2q
+Grado|ES||9d|3cj|-gv|2q|Grao;Grau
+Le Grand-Saconnex|CH||a7|3kf|h0|2q|Grand-Saconnex
+Grand-Santi|GF||2d|bv|-472|2p
+Grand River South|CA||59|3cp|-67c|2o
+Grand-Couronne|FR||9k|3t4|2t|2o
+Granbury|US||2f|2i4|-7jn|2m
+Grappenhall|GB||9b|449|-73|2m
+Grants|US||2p|2pn|-8bl|2k|Grant;Grantes
+Granada|CO|Antioquia|27|h2|-5sv|2k
+s-Gravendeel|NL||8m|3zu|cu|2i|Gravendeel
+Grafenau|DE|Bavaria|8r|3rq|118|2h|Gravenau
+Graham|US|Texas|2f|2jz|-7lv|2h
+Grande Rivière du Nord|HT||4j|1ie|-5kh|2g|Grann Rivyè di Nò
+Groot-Bijgaarden|BE||8t|3xb|bt|29|Grand-Bigard
+Grand Blanc|US||2q|3b9|-6gb|28
+Gracias|HN||56|14j|-6u3|27|Grasjasas
+Grand Bois|MU||ag|-1kq|4fu|26
+Grand Ledge|US||2q|3ar|-6jf|26
+Grand Morié|CI||0|gm|-bi|26|Grand - Morié
+Grand Gaube|MU||ag|-1jl|4g6|25|Grande Gaube
+Grasberg|DE||8r|43q|oy|25|Gemeen Grasbarg
+Grange Hill|GB||9b|3zd|9|24
+Gray|FR||9k|3nt|fj|22
+Grandview Heights|US||48|332|-6eo|21
+Grabovo|RU||9i|44b|3h6|21
+Grand Centre|CA||2s|476|-8i5|21|Cold Lake South
+Granito|BR||4p|-lg|-321|20
+Gravellona Toce|IT||9o|3jl|nf|1z
+Gratkorn|AT||a2|3mx|16n|1w
+Grafenwöhr|DE||8r|3u4|x3|1w
+Grado|IT||9o|3iw|118|1w|Grau;Gravo
+Grand Alépé|CI||0|f8|-ag|1v
+Grand View Garden|HK||6i|1q2|8t9|1u
+Gränichen|CH||a7|3nk|mi|1u
+Gransee|DE||8r|439|10k|1t
+Grachtengordel West|NL||8m|41i|dl|1t|Canal Belt-West
+Gradisca d'Isonzo|IT||9o|3jh|11i|1s|Gradiscje dal Lusinc
+Grafenau|DE|Baden-Wurttemberg|8r|3rb|or|1s
+Grabs|CH||a7|3n2|q8|1s|Quaravedes
+Kraslice|CZ||9m|3vs|ys|1s|Graslitz
+Grand-Case|MF||3u|1ea|-4v5|1r|Grande Case
+Grassau|DE||8r|3oq|yl|1r
+Grão-Pará|BR||4w|-26a|-3sp|1r
+Grabow|DE|Mecklenburg-Vorpommern|8r|440|w4|1r
+Hradyzk|UA||98|3ss|2k2|1q|Hradysk;Gradizhsk;Hradizk;Gradızk;Horodyshche;Gorodishche
+Grayvoron|RU||9i|3w8|2r4|1q|Grajvoron;Graiworon
+Gräfenhausen|DE|Hesse|8r|3up|nw|1q
+Grand-Fort-Philippe|FR||9k|3xo|5v|1q|Groot-Fort-Filips;Groot-Filipsfort
+Grafton|US|Ohio|48|36n|-6bx|1q
+Grabels|FR||9k|3d9|ak|1p
+Gråbo|SE||9w|4go|y6|1o
+Grassobbio|IT||9o|3iu|r1|1n
+Grand-Bourg|GP||31|184|-4qb|1n|Grand Buras
+Gracho Cardoso|BR||3r|-sf|-2vc|1m
+Granjas Ampliación Santa Rosa|MX||41|1if|-7mx|1m
+Grange|AU|South Australia|8b|-2oy|aop|1m
+Granville|US|Ohio|48|33b|-6d8|1l
+Grand Yapo|CI||0|g7|-bj|1l
+Grasbrunn|DE||8r|3pk|wm|1l|Grosbrunn
+Grayson Valley|US||2f|2lh|-6oo|1l
+Grand Lake|CA||43|3k3|-538|1l
+Grandes Rios|BR||4w|-1v3|-3z3|1k
+Granarolo dell'Emilia e Viadagola|IT||9o|3fr|vs|1k
+Gray|US|Louisiana|2f|2ai|-707|1k
+Hradec nad Moravicí|CZ||9m|3uj|1do|1i|Grätz
+Grafenwald|DE||8r|3z9|j7|1i
+Grazzanise|IT||9o|365|136|1i
+Grasrijk|NL||8m|3yw|f2|1i
+Grassano|IT||9o|34v|198|1i
+Grand-Charmont|FR||9k|3o1|iz|1h
+Graneros|AR||1v|-24t|-51s|1h
+Grävenwiesbach|DE||8r|3vz|ni|1g
+Grădiştea|RO|Călărași County|8u|3ev|23m|1g
+Grand Falls|CA||43|3mp|-586|1g|Grand-Sault
+Grambling|US||2f|2id|-75j|1g
+Grandwood Park|US||2f|39r|-6sf|1g
+Grand Bay-Westfield|CA|New Brunswick|43|3i0|-540|1g
+Grafton|US|West Virginia|48|31a|-66a|1f
+Granite Shoals|US||2f|2cz|-7la|1f
+Grand Bay-Westfield|CA|New Brunswick|43|3hy|-541|1e
+Grăniceşti|RO||8u|3ou|20f|1d
+Granjeiro|BR||2w|-j5|-30y|1c
+Grand Promenade|HK||6i|1pw|8tb|1c
+Grange-over-Sands|GB||9b|46j|-84|1c
+Graskop|ZA||o|-1x9|2do|1c
+Grand River North|CA||59|3cq|-67f|1c
+Granite Falls|US|North Carolina|48|2rg|-6a7|1b
+Grandyle Village|US||48|3bg|-63c|1a
+Grand Bank|CA||50|3mu|-4ax|1a
+Grant City|US|New York|48|34q|-5pu|1a
+Grand-Champ|FR||9k|3oo|-7x|19|Gregam
+Graceville|AU||8c|-24g|bsy|19
+Graciano Sánchez|MX|Tamaulipas|44|1qx|-7lr|18
+Grand Waterfront|HK||6i|1q0|8t7|18
+Grand'Anse|SC|Grand Anse Praslin|ae|-c1|4as|17
+Gråsten|DK||8y|48k|qo|17|Gravenstein;Graasten
+Grafton|US|North Dakota|2f|3qh|-7il|16
+Grange|AU|Queensland|8c|-246|bt2|16
+Krapina|HR||a6|3k8|183|16|Grabing
+Grabenstätt|DE||8r|3ox|yu|16|Gråmstätt
+Grant|US|Minnesota|2f|3h8|-763|15
+Grand'Anse|SC|Grand Anse Mahe|ae|-cz|4a3|15
+Grand-Zia|CI||0|h7|-hd|15
+Gräfenberg|DE||8r|3tw|v9|15
+Grayson|US|Kentucky|48|2yh|-6ef|15
+Grant-Valkaria|US||48|25m|-67t|15
+Grand Forks|CA||5b|3s7|-950|14
+Jelling|DK||8y|4aw|q7|14|Gravhögarna
+Grans|FR||9k|3d5|e2|14
+Gravigny|FR||9k|3s9|39|14
+Gramat|FR||9k|3ge|4s|13
+Gračanica|BA|Federation of B&H|9r|3dh|1es|13
+Gradec|MK|Vrapchishte|9u|38e|1m2|12
+Grödig|AT||a2|3om|108|12|Grädig
+Grădinari|RO|Giurgiu County|8u|3fb|1zq|11
+Gradsko|MK||9u|37i|1oy|11
+Gratwein|AT||a2|3mw|16k|11
+Gravedona-San Gregorio|IT||9o|3k7|pu|11|Gravedona;Grabedona
+Granger|US|Washington|3p|3kq|-99v|11
+Grand-Jacques|CI||0|eg|-cf|11|Grand Jacque
+Grainau|DE||8r|3nw|um|11|Groana
+Grand Bay|US||2f|2co|-6te|11|Grandbay
+Grand|CI||0|jh|-kl|10
+Grafrath|DE||8r|3po|v1|10
+Grantley|US||48|32y|-5x5|10
+Gräfenroda|DE||8r|3wz|u1|10
+Græsted|DK||8y|4br|y5|10
+Gramalote|CO||27|lx|-5m8|10
+Granite Falls|US|Washington|3p|3pk|-9et|z
+Gramatneusiedl|AT||a2|3pf|19t|z
+Gramercy|US||2f|2bh|-6zx|z|Grammercy
+Graus|ES||9d|397|y|y
+Grantorto|IT||9o|3io|wl|y
+Grasonville|US||48|308|-5vp|y|Graysonville
+Gratentour|FR||9k|3dg|3z|y|Gratentorn;Cratentour;Gratenteur
+Grakhovo|RU||9p|4bp|40d|y
+Grande-Riviere|CA||59|3qg|-4z6|y
+Grafenrheinfeld|DE||8r|3uw|sc|x
+Graveson|FR||9k|3dt|d9|x
+Gramado Xavier|BR||4w|-29b|-422|x
+Grande Cache|CA||2s|45o|-96y|x
+Gray|US|Georgia|48|2jp|-6g1|x
+Grajduri|RO||8u|3mh|24g|x
+Gray|AU||8e|-yp|a3u|x
+Ghraiba|TN||1e|2nu|sd|x|Graïba
+Graben|DE|Bavaria|8r|3pv|u2|x
+Grasmere|NZ||ak|-3ku|czl|x
+Gravette|US||2f|2t6|-7ad|w|Gravett
+Grantville|US||48|2kb|-6jo|w|Graniteville
+Grangeville|US||3p|3jl|-8yk|w
+Grape Creek|US||2f|2fq|-7rb|w
+Grayson|US|Georgia|48|2m5|-6h8|v
+Grand Saline|US||2f|2ir|-7dv|v
+Grafton|NZ||ak|-2ue|dhh|v
+Grazhdanskoye|RU||9i|3ev|3at|v|Grazhdanskiy
+Grămeşti|RO||8u|3p4|20n|v
+Grandvillars|FR||9k|3o2|jd|v
+Grays Point|AU||8l|-2mm|bnp|v
+Grabovac|RS||8q|3fw|1jt|v
+Grădiştea|RO|Vâlcea County|8u|3go|1u7|v
+Granite Hills|US||3p|2j4|-90q|u
+Grand Bend|CA||59|3cc|-6b3|u
+Grandvilliers|FR||9k|3tz|5e|u
+Grabownica Starzeńska|PL||a5|3ty|1pc|u
+Gratia|RO||8u|3ff|1yp|u
+Granite Quarry|US||48|2qx|-67h|u
+Grand Motcho|CI||0|gk|-bn|u
+Grand Mound|US|Washington|3p|3lz|-9hp|u
+Gandesa|ES||9d|361|18|u|Grandesa
+Graymoor-Devondale|US||3k|2yb|-6lu|u
+Grästorp|SE||9w|4i1|z8|t
+Gramessabo|CI||0|hy|-c7|t|Gramassabo
+Grădiştea|RO|Ilfov|8u|3g3|210|t
+Gravel Ridge|US||2f|2ov|-743|t
+Grand-Déboua|CI||0|gj|-fv|t
+Granite Falls|US|Washington|3p|3p1|-99x|t
+Ruoholahti|FI||92|4n4|1x8|t|Gräsviken;Weedland;Ruohis;Gresa
+Granville|CA||2s|44m|-8rs|s
+Granite Falls|US|Minnesota|2f|3gh|-7df|r
+Grandson|CH||a7|3m1|ih|r|Grancio
+Gränna|SE||9w|4h6|147|r
+Graafwater|ZA||o|-2hb|1fo|r
+Grandate|IT||9o|3j5|p5|r
+Gray Summit|US||2f|2yx|-70a|r|Grays Summit
+Granville|AU|Queensland|8c|-1yy|bs9|r
+Grasleben|DE||8r|41b|ul|r|Groslehen;Graslehen
+Grădiştea|RO|Brăila County|8u|3hr|242|q
+Graniteville|US|South Carolina|48|2l8|-6b9|q
+Grand Manan|CA||43|3g6|-55m|q
+Le Grand-Lemps|FR||9k|3i4|f2|q|Grand-Lemps
+Granville|US|West Virginia|48|325|-667|q|Grandville
+Grâces|FR||9k|3qw|-8v|p|Gras-Gwengamp
+Grăniceri|RO||8u|3l8|1n6|p|Ottlaka;Lichtenwald;Csávos;Tschawosch;Ciavoș
+Grand-Bouctouche|CA||43|3l5|-4zr|p
+Dehalak’ Kebīr|ER||4|17k|336|p|Grande Dahlac;Dahlak Kebīr
+Granges-sur-Vologne|FR||9k|3pr|iv|p
+Grădinari|RO|Olt|8u|3ft|1vf|p
+Granja de Torrehermosa|ES||9d|2yg|-fi|p
+Grand Point|US||2f|2bi|-703|p
+Grande Rivière Sud Est|MU||ag|-1kd|4gi|p|Grande Reviere Sud Est
+Granville|US|New York|48|3cl|-5ni|p
+Gram|DK||8y|49l|p5|p
+Grantown on Spey|GB||9b|4f9|-a1|o
+Grainet|DE||8r|3rk|11x|o
+Gravellona|IT||9o|3hx|oc|o
+Grayshott|GB||9b|3xz|-23|o
+Graffignana|IT||9o|3hl|q9|o
+Grand Roy|GD||30|xp|-4rj|o
+Gralla|AT||a2|3m1|178|o
+Grand Forks Air Force Base|US||2f|3p7|-7ij|o
+Grande Rivière Noire|MU||ag|-1kk|4fd|o|Grand Rivière Noire
+Le Grand-Bornand|FR||9k|3jm|hv|n|Grand-Bornand;Bornantium Anniciense;Grand Bornand
+Hraniv|UA||98|3rr|2a4|n|Granów;Granov
+Grand-Leez|BE||8t|3wi|da|n
+Grantham|US||48|3ct|-5ke|n
+Grafenhausen|DE|Baden-Wurttemberg|8r|3q4|ll|n|Grafenhaussen
+Gragnano Trebbiense|IT||9o|3h1|ql|n
+Granada|PH||71|wb|9in|n
+Grande-Digue|CA||43|3km|-4zd|n
+Gradište|HR||a6|3hf|1fz|m
+Graceville|US|Florida|2f|2e0|-6lk|m
+Grand Sable|MU||ag|-1kf|4gg|m
+Grabiszyn|PL||a5|3xx|1b6|m
+Grazalema|ES||9d|2u4|-ex|m
+Graceland Park|US||48|314|-5wl|m
+Grand-Fougeray|FR||9k|3ok|-4t|m|Felgerieg-Veur;Felgeriacum
+Grängesberg|SE||9w|4mv|15p|l
+Grădinari|RO|Caraș-Severin County|8u|3hc|1o0|l
+Granby|US|Missouri|2f|2uk|-79u|l
+Granja de Rocamora|ES||9d|2xz|-2h|l
+Gramzow|DE||8r|43t|12x|l
+Graysville|US|Alabama|2f|2le|-6pl|l
+Gracht|NL||8m|3x9|gr|l
+Gračac|HR||a6|3f2|181|l
+Granite|US|Oklahoma|2f|2p4|-7o2|k
+Granowo|PL||a5|412|19x|k
+Le Grand-Lucé|FR||9k|3oz|1b|k|Grand-Luce
+Gramado dos Loureiros|BR||4w|-248|-430|k
+Granitogorsk|KZ||5s|3aq|5o3|k
+Grañén|ES||9d|38i|-11|k
+Gräfentonna|DE||8r|3xx|tt|k
+Grabów nad Prosną|PL||a5|3z3|1ec|k
+Granite|US|Utah|2p|34p|-8ml|j
+Grasmere|AU|New South Wales|8l|-2ml|bmj|j
+Grandcamp-Maisy|FR||9k|3t6|-2v|j
+Grabăț|RO||8u|3jg|1lm|j
+Granby|US|Colorado|2p|33d|-86a|j
+Grebbestad|SE||9w|4j2|va|j|Gräbbestad
+Gramada|BG||9v|3ds|1qx|j
+Gradići|HR||a6|3iz|18k|j
+Grayling|US||2q|3g2|-6jb|i
+Graviá|GR||8p|2zf|1qb|i
+Grassington|GB||9b|467|-5k|i
+Grande Saline|HT||4j|1hj|-5m5|i|Grand Saline
+Grambach|AT||a2|3ml|172|i
+Grauwaart|NL||8m|40q|e2|h
+Graton|US||3p|2ys|-9hb|h|Grayton
+Grane|FR||9k|3g9|do|h
+Gratacasolo|IT||9o|3jb|s5|h
+Granton|AU||8g|-3ar|bcz|h
+Grădiștea|RO|Giurgiu County|8u|3et|20p|h
+Grandview Plaza|US||2f|30f|-7gv|h
+Gravdal|NO||9j|598|11n|h
+Grand Ronde|US||3p|3h6|-9jd|h|Grande Ronde
+Grand-Hallet|BE||8t|3wu|e0|h
+Grain|GB||9b|3yy|1z|g
+Grayville|US||2f|2ya|-6sf|g|Graysville
+Grafenwiesen|DE||8r|3so|zs|g
+Gragnague|FR||9k|3dc|4e|g|Grapnague
+Grandview|US|Texas|2f|2hn|-7hy|g
+Grandhan|BE||8t|3vt|f1|g
+Gramastetten|AT||a2|3qe|13f|g
+Grabenstetten|DE||8r|3qs|qa|g
+Graçay|FR||9k|3my|55|g
+Grand Canyon Village|US||4i|2s5|-8nj|g
+Granville|US|Massachusetts|48|38v|-5me|f
+Grandfresnoy|FR||9k|3t5|7d|f
+Gradara|IT||9o|3e2|zh|f
+Gra Liyiá|GR||8p|2p9|1zd|f|Gra Lygia
+Granze|IT||9o|3hg|wj|f|Granica
+Grasmere|AU|Western Australia|8k|-2pa|934|f|Grassmere
+Granger|US|Texas|2f|2dc|-7io|f
+Graysville|US|Tennessee|48|2qh|-6kc|f
+Grębocice|PL||a5|3zc|18x|f|Gramschütz
+Granjenal|MX||41|1q7|-7pz|f|Grajenal;Grangenal;Granienal
+Grove Hill|US||2f|2g3|-6ru|f|Grave Hill;Grovehill
+Grabovci|RS||8q|3gc|1j4|f
+Grabovci|HR||a6|3ct|1bs|f
+Grand-Reng|BE||8t|3vt|bc|f
+Graiguenamanagh|IE||8z|41y|-jb|f|Gráig na Manach;Greignamana
+Gräfenhain|DE||8r|3x6|tq|f
+Grandview|US|Ohio|48|30v|-6jc|f
+Grand Canyon|US||4i|2s5|-8ni|f
+Gräfendorf|DE||8r|3v8|r2|f
+Grandfontaine|FR||9k|3n4|ge|e
+Grand-Rechain|BE||8t|3wl|g5|e
+Granger|US|Iowa|2f|380|-78m|e
+Grandview|US|Illinois|2f|32m|-6wy|e
+Grattersdorf|DE||8r|3rk|10j|e
+Grazhdanka|RU|Primorye|7w|3et|a9x|e|Grazjdanka
+Grapeland|US||2f|2fh|-7d8|e
+Granville South|US||48|339|-6da|e
+Grand Isle|US|Louisiana|2f|298|-6xz|e
+Graniti|IT||9o|2x9|16a|e
+Graigieburn|ZA||o|-1wj|2e4|e
+Grammatikó|GR||8p|2y4|1ul|e
+Grabazouo|CI||0|fu|-hb|e
+Granby|US|Massachusetts|48|39e|-5lg|e
+Grächen|CH||a7|3kc|ls|e|Grächer
+Grandola ed Uniti|IT||9o|3ju|pl|e|Grandolla et Municipia Coniuncta;Grandola;Grandoła e Unìi;Grandula
+Grashoek|NL||8m|3yo|gi|e
+Grand-Halleux|BE||8t|3vt|gf|d
+Grand Marais|US||2f|3on|-6yx|d
+Granville|US|Illinois|2f|36m|-6vv|d
+Gravelotte|ZA||o|-1uj|2d2|d
+Grafenwörth|AT||a2|3qh|17u|d
+Le Grand-Bourg|FR||9k|3k8|4k|d|Salanhac;Le Borg;Grand Bourg
+Gradoli|IT||9o|3ah|wy|d
+Grabów|PL||a5|40t|1gs|d
+Granadillas (La Colonia)|MX||41|1ne|-7v2|d
+Grant Park|US||2f|36k|-6rh|d|Grantpark
+Grantsburg|US||2f|3j6|-75g|d
+Granada|MX||44|1z8|-7yv|d
+Graikochóri|GR||8p|31q|1kc|d
+Grammenítsa|GR||8p|30u|1ma|d|Gramenítsa
+Grantola|IT||9o|3jn|od|d
+Granarolo|IT||9o|3f8|x5|c
+Gradec|MK|Vinica|9u|389|1qj|c
+Granadas|MX||41|1pe|-7uy|c
+Granschütz|DE||8r|3y6|xh|c
+Gray|US|Tennessee|48|2t6|-6d4|c
+Grendelbruch|FR||9k|3qp|kc|c|Grandelbrüech
+Granozzo con Monticello|IT||9o|3i0|nt|c
+Grafton|US|New Hampshire|48|3d0|-5ju|c
+Grandas de Salime|ES||9d|3c2|-j4|c|Crandas de Salime
+Gradefes|ES||9d|3ae|-ej|c
+Grass Lake|US||2q|39d|-6hx|c
+Grambois|FR||9k|3dk|fj|c|Gramboès
+Grazra|CI||0|kw|-gh|c
+Grabowo Kościerskie|PL||a5|46h|1ef|c
+Grand Meadow|US||2f|3df|-755|b
+Granvilla|IT||9o|3ld|z9|b
+Granados|MX||37|2ay|-8fn|b
+Grant|US|Nebraska|2p|35g|-7ul|b
+Gray-la-Ville|FR||9k|3ns|fh|b
+Gramkow|DE||8r|45s|vg|b
+Grabill|US||38|36h|-6k1|b
+Grande Rivière|LC||52|12z|-4pb|b
+Grand-Savagnier|CH||a7|3mp|jb|b
+Granica|PL||a5|40t|1ls|b
+Gravelbourg|CA||4q|3uk|-87z|b
+Granada|CO|Cundinamarca|27|e3|-5r5|b
+Grandris|FR||9k|3jw|cg|b
+Le Grand-Pressigny|FR||9k|3mc|28|b|Prisciniacus;Grand-Pressigny
+Grande-Vallée|CA||59|3sq|-50x|b
+Grand Djourou|CI||0|d5|-je|b
+Grabsleben|DE||8r|3xi|u4|b
+Grainville-la-Teinturière|FR||9k|3u7|1s|b
+Gradiștea|RO|Prahova|8u|3gp|21o|b
+Gravesano|CH||a7|3jw|os|b|Gravesan
+Grabovica Donja|BA||9r|3fr|1fz|b
+Grafendorf bei Hartberg|AT||a2|3ni|18f|a
+Grabowhöfe|DE||8r|44t|yz|a
+Grafhorst|DE||8r|41o|uf|a
+La Grandeza|MX|Chiapas|3z|173|-747|a|Grandeza
+Grand Coulee|US||3p|3p6|-96k|a
+Grafengehaig|DE||8r|3vg|w7|a|Grafengelhaig
+Grahipla Bragbrusso|CI||0|lq|-ge|a
+Grafhorst|NL||8m|422|gh|a
+Grainville-sur-Odon|FR||9k|3si|-1h|a
+Granja|PT||99|36b|-nt|a
+Grăjdana|RO||8u|3hl|21z|a
+Grammene|BE||8t|3xm|9n|a
+Gračanica|XK||8q|3ac|1mw|a|Graçanicë;Graqanicë
+Grand Rapids|US|Ohio|48|371|-6gy|a
+Granátula de Calatrava|ES||9d|2zs|-ae|a
+Gradac|HR|Split-Dalmatia|a6|3br|1c6|a
+Grafenstein|AT||a2|3lh|147|a
+Grandfield|US||2f|2n3|-7m4|a
+Grafenschachen|AT||a2|3nk|18n|a
+Grand Dréwin|CI||0|dn|-h3|a
+Graceros|MX||44|1ty|-810|a|Graseros
+Le Grand-Village-Plage|FR||9k|3je|-3g|a|Grand-Village-Plage;Grand Village
+Grambow|DE|Mecklenburg-Vorpommern|8r|44d|13u|a
+Grapeview|US||3p|3nh|-9h8|a
+Grayland|US||3p|3m1|-9kp|a
+Grayson|US|California|3p|2wc|-9cm|a
+Gragbalilié|CI||0|gg|-fm|a
+Grandview Heights|CA||2s|44m|-8rf|a
+Graffignano|IT||9o|3aa|xw|9
+Grand Coteau|US||2f|2ci|-73p|9
+Granados|GT||32|15g|-6zg|9
+Gratton|US||48|2v5|-6a5|9|Grattan
+Grafenweg|AT||a2|3nt|xn|9
+Grand-Manil|BE||8t|3wg|d0|9
+Gradiška|SI||9a|3li|17h|9
+Eskikonak|TR||94|30x|3b3|9|Grakom
+Grabowiec|PL||a5|3x6|1tf|9|Grabowez
+Gragnana|IT||9o|3ei|s1|9
+Gračec|HR||a6|3jb|19c|9
+Grant|US|Alabama|2f|2nx|-6nl|9
+Grace|US||28|3aa|-8md|9
+Grandeza del Río Blanco|MX||41|19i|-74y|9
+Gray|US|Maine|48|3dx|-5fd|9
+Grant|US|Michigan|2q|3ce|-6md|9
+Graft|NL||8m|420|df|9
+El Granzal|HN||56|140|-6uv|9|Granzal
+Grand Ridge|US|Florida|2f|2db|-6k6|9
+Grantwood Village|US||2f|2z3|-6yz|9
+Gratis|US||48|325|-6it|9
+Crancey|FR||9k|3qs|a4|9|Grancey
+Grassy Lake|CA||2s|3ue|-8mc|9
+Grădina|RO||8u|3fs|26z|9
+Grafenbach|AT||a2|3og|18h|9
+Granzay-Gript|FR||9k|3ke|-1c|8
+Gräben|DE|Brandenburg|8r|413|yj|8
+Gratteri|IT||9o|2xh|12t|8|Ratteri
+Vatican City|VA||a1|38e|yl|8|Vatican;Vatikanstaden;Vaticano;Ciudad del Vaticano;Città del Vaticano;Vatikanstadt;Staat Vatikanstadt;Staat der Vatikanstadt;État de la Cité du Vatican;Vatikanas;Grad Vatikan;Vaticaan-Stad;Vatikán
+Grabau|DE||8r|45g|sk|8
+Gralewo|PL||a5|42j|16q|8
+Grandrieu|FR||9k|3ge|a3|8
+Granard|IE||8z|45e|-kt|8
+Grantville|AU||8j|-2yp|b89|8
+Grant City|US|Missouri|2f|34h|-7a9|8
+Graettinger|US||2f|3c4|-7b7|8
+Grammatikoú|GR||8p|2z1|1nr|8|Grammatikón
+Grabowo|PL|Podlasie|a5|44j|1pj|8
+Harbavichy|BY||9g|45i|2da|8|Gorbovichi;Garbovichi;Grabovichi
+Graide|BE||8t|3ur|e3|8
+la Granadella|ES||9d|36v|1v|8|Granadella
+Gray Court|US||48|2o5|-6c3|8|Graycourt
+Gradac|HR|Požega-Slavonia|a6|3hv|1dh|8
+Grand Junction|US|Iowa|2f|38r|-79s|8
+Graniteville|US|Vermont|48|3en|-5ld|8
+Graty|BE||8t|3wn|b4|8
+Grawn|US||2q|3g2|-6m1|8
+Grantsville|US|Maryland|48|32a|-63v|8
+Grammond|FR||9k|3il|cc|8
+Grana|DE||8r|3xt|xn|8
+Grandcour|CH||a7|3m7|j9|8
+Gratz|US||48|34t|-5x4|8
+Grandmenil|BE||8t|3vp|fq|8
+Gradišče|SI||9a|3jk|14j|8
+Grand-Rosière-Hottomont|BE||8t|3wn|dj|7
+Graboszyce|PL||a5|3ur|1i1|7
+Grabow|DE|Saxony-Anhalt|8r|415|x8|7
+Graach|DE||8r|3up|jm|7
+Grăjdeni|RO||8u|3kb|256|7
+Graeagle|US||3p|32h|-9b2|7
+Gravoúna|GR||8p|35w|1wh|7|Gravoúsa
+Grabovac|HR||a6|3iy|1g2|7
+Grambow|DE|Mecklenburg-Vorpommern|8r|44r|xg|7
+Grand Haven|CA||2o|4c7|-9bu|7
+Grande-Anse|CA||43|3ot|-513|7
+Gradina|HR||a6|3je|1cn|7
+Grandvillers|FR||9k|3q0|ih|7
+Gradisca|IT||9o|3js|100|7
+Grandview|US|Indiana|2f|2xd|-6pm|7|Grand View
+Graglia|IT||9o|3ik|m6|7
+Graissessac|FR||9k|3dc|8l|7|Graisseçac
+Grado-Pineta|IT||9o|3iw|11b|7
+Grandmetz|BE||8t|3wn|a3|7
+Grand-Camp|FR||9k|3tn|1m|7
+Gransebieth|DE||8r|466|zs|7
+Grasstree Beach|AU||8c|-1nc|bir|7
+Grasberg|AT||a2|3p0|125|7
+Granč-Petrovce|SK||8s|3s4|1ls|7
+Gradešnica|MK||9u|364|1og|7|Gradechnitsa;Gradeshnica
+Grad|SI||9a|3m0|18q|7
+Granados Talcanaque|MX||41|16g|-745|7
+Graignes-Mesnil-Angot|FR||9k|3st|-3c|7
+Granges-Narboz|FR||9k|3m8|hk|7
+Grammendorf|DE||8r|464|zr|7
+Grand'Rivière|MQ||3v|15b|-4py|7|Grande Rivière
+Gravelotte|FR||9k|3sf|gr|7
+Grazierville|US||48|34x|-61e|7
+Grapfontaine|BE||8t|3ue|f1|7
+Grospierres|FR||9k|3fc|bx|7|Granspèiras
+Grantsboro|US||48|2pm|-5xg|7
+Grande|DE||8r|44u|sv|7
+Grafton|US|Illinois|2f|309|-6z7|7
+Grangia|IT||9o|3he|jw|6
+Grauves|FR||9k|3s1|b0|6
+Grabowo|PL|Warmia-Masuria|a5|46n|1ps|6|Grabowen
+Grahamvale|AU||8j|-2sz|b80|6
+Grand Tabu|CI||0|cd|-kb|6|Segre;Grand Tabou
+Graschuh|AT||a2|3m8|16f|6
+Gratot|FR||9k|3sb|-44|6
+Grazie|IT||9o|3hf|tp|6
+Gradenberg|AT||a2|3ms|15v|6
+Graincourt-lès-Havrincourt|FR||9k|3vb|8n|6
+Hrabarivka|UA||98|3vy|2hv|6|Grabarovka
+Grabowo Królewskie|PL||a5|414|1cy|6
+Grantham|AU||8c|-24m|bqs|6
+Grand-Djoro|CI||0|cv|-jm|6
+Graye-sur-Mer|FR||9k|3t1|-1b|6
+Grandrieu|BE||8t|3vg|bl|6
+Grant Town|US||48|31w|-66q|6|Granttown
+Grand Mound|US|Iowa|2f|386|-6zt|6
+Granges|CH||a7|3lw|j5|6
+Grandvillard|CH||a7|3la|jp|6
+Graaf|NL||8m|40e|du|6
+Grabowo|PL|Warmia-Masuria|a5|44s|1j2|6
+Grana Monferrato|IT||9o|3h0|n2|6
+Kuusisaari|FI||92|4n7|1x2|6|Granö
+Gravere|IT||9o|3hd|ji|6
+Grazen|BE||8t|3xb|e9|6
+Grand Tower|US||2f|2wj|-6wm|6
+Ngraçan|AL||9y|34w|1iz|6|Graçan
+Crasna|RO|Covasna County|8u|3in|20m|6|Grasna
+Granjas el Venado|MX||2g|27v|-88w|6
+Gracciano|IT||9o|3bt|wv|6
+Grange|IE||8z|473|-np|6|An Ghráinseach
+Gragnola|IT||9o|3er|s3|6
+Graford|US||2f|2ji|-7kx|6
+Grainthorpe|GB||9b|44h|8|6
+Gravelly Beach|AU||8g|-36p|bca|6
+Granges-sur-Lot|FR||9k|3fa|1b|6
+Grannis|US||2f|2n4|-7a1|6
+Granzin|DE||8r|44m|x6|6
+Graciano Sánchez|MX|Veracruz|41|1cm|-78u|6
+Gräddö|SE||9w|4m1|1gv|6
+Graceville|US|Minnesota|2f|3il|-7fv|6
+Grădinile|RO||8u|3e3|1vr|6|Grădinele
+Graben|AT||a2|3pm|12m|6
+Graberje Ivanićko|HR||a6|3iz|19r|5
+Grantsville|US|West Virginia|48|304|-69a|5
+Hradivka|UA||98|3nn|2ec|5|Gradovka
+Grainville-Langannerie|FR||9k|3s5|-r|5
+Grays Hill|AG||1j|1bj|-4rt|5|Grie Il
+Gradna|HR||a6|3ja|17p|5
+Grantchester|GB||9b|40y|9|5
+Grand Isle|US|Maine|48|3nf|-59b|5
+Grapeville|US||48|341|-655|5
+Grampound|GB||9b|3vq|-dm|5
+Granges|FR||9k|3kg|fa|5
+Grandview|US|Iowa|2f|36o|-71b|5|Grand View
+Grand Ridge|US|Illinois|2f|36k|-6ur|5|Grandridge
+Grand-Brassac|FR||9k|3ht|1c|5|Braçac lo Grand;Grand Braçac;Grand Brassac
+Grand View Estates|US||2p|31u|-836|5|Grandview Estates
+Grandpré|FR||9k|3t2|dj|5
+Grânari|RO||8u|3jw|1xd|5|Grînari
+Grayson|US|Louisiana|2f|2h1|-73v|5
+Grab|HR||a6|3d9|1ak|5
+Grand|FR||9k|3qe|f9|5
+Graffham|GB||9b|3xj|-1w|5
+Grazay|FR||9k|3q5|-1c|5
+Grafendorf|AT||a2|3lm|10f|5
+Grassflat|US||48|35w|-60z|5|Grass Flat
+Graimbouville|FR||9k|3tq|x|5
+Grajenščak|SI||9a|3l4|17y|5|Grajenšak
+Gradišče nad Prvačino|SI||9a|3jh|122|5|Gradiscutta
+Grainville|FR||9k|3t3|3t|5
+Grafstal|CH||a7|3ns|o6|5

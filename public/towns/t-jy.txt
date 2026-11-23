@@ -1,0 +1,14 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Jyväskylä|FI||92|4sw|1zg|15b|Juveskiulė;Jiveskile;Granivicus;Jüväskülä
+Žytkavičy|BY||9g|412|25e|4e|Zhytkavichy;Jytkavitchy;Žytkavitšy;Žytkavičai;Zjytkavytjy
+Jyllinge|DK||8y|4av|xm|31
+Zhydachiv|UA||98|3t6|1v2|2w|Żydaczów;Schydatschiw;Zhidáchiv;Jydatchiv;Jıdaçiv;Žydačiv;Židačiva;Zjydatsjiv;Žõdatšiv;Žydačiw;Žydačivas;Zhidachev;Zhidechuv;Zhydachuv;Zhidachov
+Jyderup|DK|Zealand|8y|4b4|w3|16
+Jyderup|DK|Zealand|8y|4am|vq|16
+Jübek|DE||8r|47k|q4|q|Jydbæk
+Yushkozero|RU||9i|4zv|2h7|d|Jusjkozero;Jyskyjärvi
+Jekyll Island|US||48|2eb|-6a6|9|Jekil Island;Jykill Island;Jakyl Island;Jekyl Island
+Jystrup|DK||8y|4a8|wy|9|Jydstrup
+Zhylivka|UA|Chernivtsi|98|3qa|21f|7|Jylivka;Zhilovka

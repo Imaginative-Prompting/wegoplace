@@ -1,0 +1,7 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Poquoson|US||48|2v4|-5w3|3d|Po-co-son;Poquosin
+Pokr Vedi|AM||80|32u|3fw|z|P’ok’r Vedi;Poqr Vedi
+Pokr Mantash|AM||80|34w|3ed|l|Pokr Arikhvali;Poqr Mantash;Pokr Aylur;Pokr Arkhvali
+Poquonock Bridge|US||48|36v|-5k2|h|Poquonoc Bridge;Poquonrock Bridge;Pequonock Bridge
+Poquott|US||48|35r|-5n0|9
+Pokr Masrik|AM||80|33u|3j0|7|P’ok’r Masrik;Poqr Masrik

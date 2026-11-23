@@ -1,0 +1,115 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Santa Ana|US||3p|2lr|-93f|2e6|Santanna
+Coro|VE||2c|vp|-5dk|1wj|Santa Ana de Koras;Corum;Koro
+Santa Anita - Los Ficus|PE||3o|-xh|-5xt|1fa
+Santa Ana|SV||2u|12v|-6ws|1d3|Santaana;Cihuatehuahcan
+St Albans|GB||9b|3zr|-x|ni|St. Albans;Fanum Sancti Albani;Sent Albanas;Sentalbana;Santa Albans;Sant Albans;Saint Albans
+Santa Ana Chiautempan|MX||41|1hn|-7kr|dc
+Santa Ana|PH|Central Luzon|71|15y|9bh|d4|San Joaquin
+Santo Antônio da Patrulha|BR||4w|-2au|-3wc|bx|Santa Antonio da Patrulha
+Santa Ana|VE|Táchira|2c|l8|-5ks|9v
+Santa Ana|PE||3o|-zr|-5m0|6z
+Santa Anita|MX|Jalisco|41|1l3|-7zc|5n
+Santa Ana|VE|Nueva Esparta|2c|ur|-4xk|5c
+Santa Ana Xalmimilulco|MX||41|1hd|-7la|4h
+Santa Ana Nextlalpan|MX||41|1iu|-7n7|45
+Santa Adélia|BR||4w|-1n0|-3rk|3w
+Santa Ana|CO||27|pw|-5r5|3w
+Santa Ana de Vuelta Larga|EC||33|-3d|-679|3k
+Santa Ana de Yacuma|BO||3n|-126|-51r|3k
+Santa Ana|MX|Sonora|37|2cu|-8ko|3b
+Santa Ana Tlacotenco|MX||41|1ha|-7n0|2y
+Santa Ana Pacueco|MX||41|1kj|-7ve|2t|Santa Ana Pacheco
+Santa Ana|GT||32|1ap|-6xj|2n
+Santa Ana|CR||2i|rl|-6hu|28
+Santa Anita Huiloac|MX||41|1hv|-7km|20|Santa Ana Huiloac
+Santa Ana|AR|Misiones|1n|-241|-4ae|1z|Sainte-Anne;Sant’ Ana
+Santa Ana Maya|MX||41|1jl|-7sm|1z
+Santa Ana Nopalucan|MX||41|1hm|-7l5|1w
+Santa Ana Ixtlahuatzingo (Santa Ana)|MX||41|1gp|-7oq|1v
+Santana da Vargem|BR||4w|-1n1|-3if|1v|Santa Anna da Vargem
+Santa Ana Jilotzingo|MX|México|41|1i2|-7od|1u
+Santa Albertina|BR||4w|-1jn|-3wx|1s
+Santa Ana|PH|Cagayan Valley|71|1fb|9fb|1r
+Santa Ana Tlachihualpa|MX||41|1ix|-7mr|1m|Santa Ana Tlachiahualpa
+Santa Ana|PH|Northern Mindanao|71|no|9mm|1m
+Santa Ana Hueytlalpan|MX||41|1k1|-7l3|1l|Santa Ana Heytalpan
+Santa Ana Ixtlahuaca (Santa Ana Ixtlahuacingo)|MX||41|1ie|-7ph|1a
+Santa Amalia|ES||9d|30d|-gp|18
+Santa Apolonia Teacalco|MX||41|1hg|-7l3|17
+Santa Ana Amatlán|MX||41|1h8|-7wu|16
+Santa Ana Tzacuala|MX||41|1k4|-7ks|16
+Santana do Deserto|BR||4w|-1oz|-3bx|11|Santa Anna do Deserto
+Santa Ana|HN|Atlántida Department|56|17h|-6pv|10
+Santa Amélia|BR||4w|-1sn|-3w2|y
+Santa Ana Mayorazgo|MX||41|1hz|-7of|y|Mayorazgo
+Santa Ana la Ladera|MX||41|1ig|-7pf|w
+Santa Ana|MX|Chihuahua|2g|28n|-8aj|u|Oscar Soto Maynez
+Santa Ana Ahuehuepan|MX||41|1jw|-7nz|t
+Santa Ana Zegache|MX||41|1as|-7gp|q
+Santa Ana|PH|Caraga|71|pj|9os|p
+Santa Apolonia|GT||32|153|-70p|o
+Santa Angel|PH||71|vf|9go|n|Santo Angel
+Santa Ana|AR|Entre Rios|1n|-2du|-4gx|l
+Santa Ana Huista|GT||32|17k|-732|k
+Santa Ana del Valle|MX||41|1b7|-7fz|k
+Santa Ana|MX|Guanajuato|41|1mi|-7ug|k
+Santa Ana|MX|Oaxaca|41|19e|-7go|j
+Tenango|MX|Morelos|41|1fq|-7mb|j|Santa Ana
+Santa Ana de Yusguare|HN||56|10y|-6pz|i
+Santa Ana Acozautla|MX||41|1go|-7la|i
+Santa Adelaida|MX||3w|1zt|-7ja|i|Hermenegildo de la Cruz
+Santa Ana Batha|MX||41|1km|-7nj|h
+Santa Ana|MX|México|41|1gr|-7o5|g
+Santa Ana Zirosto|MX||41|1i9|-7w8|g
+Santa Anita|MX|Guanajuato|41|1me|-7qp|g
+Santa Ana de Allende|MX||41|1mp|-7mz|g|Santa Ana Allende
+Santa Ana Zicatecoyan|MX||41|1fl|-7qe|f
+Santa Ana Atzcapotzaltongo|MX||41|1je|-7o3|f|Santa Ana Azcapotzaltongo;Santa Ana Atzcapozaltongo
+Santa Ana Coapan|MX||41|1gb|-7jx|f|Coapan;Coapa
+Santa Anita|MX|Guerrero|41|1cf|-7m8|e
+Santa Anita|MX|Guanajuato|41|1kv|-7s1|e
+Santa Ana|MX|Oaxaca|41|1bd|-7c5|d
+Santa Ana|MX|Michoacán|41|1ie|-7r3|d
+Santa Apolonia|MX||44|1z8|-7k6|d
+Santa Anita|MX|Baja California|58|2h6|-90n|d
+Santa Ana del Pilar|MX||44|1zf|-7yz|d
+Santa Anita|AR||1n|-2hd|-4jb|d
+Santa Ana Nichi Ejido|MX||41|1ie|-7pr|c
+Santa Ana de Guerrero (El Cascabel)|MX||41|1hk|-7r0|c
+Santa Ana Coatepec|MX||41|1gc|-7lf|b
+Santa Ana|MX|Guanajuato|41|1kl|-7sv|b
+Santa Ana Necoxtla|MX||41|1fp|-7la|b|Necoxtla
+Santa Ana|MX|Zacatecas|41|1q7|-7tw|b
+Santa Ana|HN|Francisco Morazán Department|56|12p|-6qf|b
+Santa Ana Tlapacoyan|MX||41|1ai|-7h0|a
+Santa Ana Chapitiro|MX||41|1i9|-7ud|a
+Santa Anna|US||2f|2g6|-7nw|a
+Santa Ana Arriba|PA||4g|m1|-678|a
+Santa Ana Yancuitlalpan (Chilhuacán)|MX||41|1gg|-7lc|a
+Santa Ana Jilotzingo|MX|México|41|1ia|-7o4|9
+Santa Ana Tavela|MX||41|1aa|-7ef|9
+Santa Ana|MX|Veracruz|41|1j9|-7g3|9
+Santa Ana de Nahola|MX||44|1rv|-7pf|9
+Santan|US||4i|2k6|-8mk|9|Santa Ana
+Sant'Anna|IT|Emilia-Romagna|9o|3fw|um|9|Santa Anna
+Santa Ana Yareni|MX||41|1cc|-7gd|8|Santa Ana Yaremi
+Santa Águeda|MX||41|1l3|-7ic|8
+Santa Ana Portales|MX||41|1hc|-7l2|8
+Santa Ana|MX|Guerrero|41|1ct|-7nm|7
+Santana|CV||84|15n|-1to|7|Santa Ana
+Santa Ana Viejo|MX||37|2cv|-8kq|7|Santa Ana Vieja
+Santa Ana de Huaycahuacho|PE||3o|-13j|-5pg|7
+Santa Anita|MX|Baja California Sur|3x|1se|-8gq|7
+Santa Ana|MX|Sinaloa|3x|21v|-8d2|7
+Santa Ana (Santana)|MX||41|1mh|-7tb|6
+Santa Ana|MX|Veracruz|41|1iq|-7i9|6
+Santa Ana Pueblo|US||2p|2qf|-886|6
+Santa Ana Tututepec|MX||41|18y|-7ix|6
+Santa Ana|MX|Chiapas|41|1ap|-75m|6
+Santa Ana|MX|Oaxaca|41|1bi|-7et|6
+Santa Ana Rayón|MX||41|1dm|-7l1|5
+Santa Ana Chichicuautla|MX||41|1jd|-7lb|5
+Santa Anita|MX|Chiapas|41|1c2|-76a|5
+Santa Ana Cuauhtémoc|MX||41|1dy|-7gv|5
+Santa Ana Tecolapa|MX||41|1f3|-7m1|5

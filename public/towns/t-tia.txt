@@ -1,0 +1,76 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tianjin|CN||7i|30q|91i|2yzo|Tiencin;Tiencsin;Thiên Tân;Tchien-ťin;Tjanĝino;Tientsin;Tiandzinas;Thiên-tsîn;Tjaņdziņa;Tyantszin;Tjandžin;Tyan'czin';T’ien-ching;T’ien-chin
+Tijuana|MX||58|2ia|-910|eu1|Tichuana;Tihuana;Tijuano;Tixuana;Tia Juana
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Tianshui|CN||7i|2o2|85q|9cw
+Jiaxing|CN||7i|2df|9bf|93s|Ťia-sing;Dziasingas;Gia Hưng;Ka-heng-chhī;Gă-hĭng
+Jiaozuo|CN||7i|2pw|8qk|6oe|Ťiao-cuo;Ĝjaoĝuo;Tiêu Tác;Ciĕu-cáuk;Chiau-chok-chhī
+Jiamusi|CN||7i|3m0|a1z|48n|Ťia-mu-s’;Gjamusi;Dziamusi;Giai Mộc Tư;Gă-mŭk-sṳ̆;Ka-bo̍k-su-chhī
+Tin Shui Wai|HK||6i|1qe|8so|27i|Tianshui Wei
+Jiayuguan|CN||7i|32l|7l1|1sf|Gă-ṳ̆k-guăng;Ťia-jü-kuan;Gia Dục Quan;Ka-io̍k-koan-chhī;Kia-yu-kuan
+Tiaret|DZ||3|2q9|3o|1dp|Tijarat
+Tianfu|CN|Shandong|7i|2vi|9f1|w2
+Sino-Singapore Tianjin Eco-city|CN||7i|30r|936|rs
+Tianguá|BR||2w|-ad|-35v|l9
+Tianliu|CN||7i|2us|95y|io|T’ien-liu
+Tianzhuang|CN||7i|2u8|98m|i2
+Tianchang|CN||7i|2xk|8sq|h1
+Tianpeng|CN||7i|2e3|80q|gw
+Tiancheng|CN||7i|2dr|8d1|bm
+Tiassalé|CI||0|ge|-de|9r
+Tianzhong|TW||7l|1ua|9az|9p|Tianjhong
+Tianfu|CN|Chongqing|7i|2az|87u|8m
+Tianducheng|CN||7i|2cf|9a0|8c
+Tiaoshi|CN||7i|29c|888|80|T’iao-shih
+Tianwei|TW||7l|1ud|9as|79|T’ien-wei
+Tía Juana|VE||2c|si|-5i8|6l
+Thiadiaye|SN||g|142|-1ae|5m|Tiadiaye;Tiadaye;Tiadiay
+Tías|ES||83|28g|-11x|5i
+Tianjia|CN||7i|2bl|862|4k
+Tianhe|CN||7i|2ex|8cj|44
+Tianba|CN||7i|2f8|8ee|2o
+Tyachiv|UA||98|3pd|1th|2i|Técső;Ťačiv;Tiacziw;Teceu Mare;Tiatchiv;Tjatschiw
+Tianguan|CN||7i|284|8da|2f
+Tianxingsi|CN||7i|29j|88k|2c
+Tiana|ES||9d|378|6b|1z
+Tianchi|CN||7i|2ka|82z|1q
+Tiapoum|CI||0|ea|-8e|1n
+Tianyuan|CN||7i|2fr|8fd|1l
+Tiakur|ID||6m|-mn|9v0|1g
+Tianguismanalco|MX|Puebla|41|1gq|-7lh|1g
+Tiaong|PH||71|12s|9d0|1e
+Tia Mare|RO||8u|3dv|1wf|1d|Tia-Mar
+Tianguismanalco|MX|Puebla|41|1hg|-7le|1c
+Tianguistengo (La Romera)|MX||41|1jb|-7nx|1a
+Tiaplé|CI||0|s2|-ez|16
+Tiagba|CI||0|em|-d4|14|Tiegba;Tiagbé
+Tiasso|CI||0|qz|-he|10
+Tianeti|GE||7n|38z|3gx|z|T'ianet'i;Tianety;Tioneti
+Tianxing|CN||7i|2ff|8ga|v
+Tiahouo|CI||0|kt|-i3|v|Tiaouo
+Tiahuanaco|BO||3n|-19z|-5as|u|Tiwanaku;Tiavanaku
+Tiarei|PF||bg|-1cp|-bit|s
+Tianguistongo|MX||41|1jk|-7n4|k
+Tianguistengo|MX|Hidalgo|41|1ll|-7lz|g
+Tiachivka|UA||98|3pg|1tj|g|Tyachivka;Tyachevka
+Tyarlevo|RU||9i|4lv|2cl|f|Tjarlevo;Tärölä;Tiarlevo;Târlevo
+Tiaha|CI||0|ep|-cg|d
+Tiarno di Sopra|IT||9o|3jh|tn|a
+Tiahoué|CI||0|mn|-lx|a
+Tianguispicula|MX||41|1mv|-7m7|9
+Tialaka|CI||0|t5|-hm|9
+Tianquizolco|MX||41|1em|-7p3|9|Tianquisolco
+Tianda|CI||0|lu|-g7|9
+Tianguistengo|MX|Puebla|41|1ep|-7ka|8
+Tiaro|AU||8c|-1zh|bru|8
+Tiapleu|CI||0|ku|-mf|8
+Tianhana|CI||0|sf|-hh|7
+Tiarno di Sotto|IT||9o|3jh|to|7
+Tiabolébly I|CI||0|ia|-nl|7|Tiabélébli
+Tiacaque|MX||41|1in|-7oz|7|Tlacaque
+Tlapala|MX|Guerrero|41|1eo|-7nz|6|Tiapala
+Tyasédougou|CI||0|n5|-g9|6|Tiassédougou
+Tiambra|PE||3o|-v8|-5u9|5
+Tīskūpān|IR||7o|1yc|4os|5|Tiazkupān
+Tiana|IT||9o|33b|pf|5

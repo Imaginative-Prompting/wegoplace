@@ -1,0 +1,121 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Le Havre|FR||9k|3th|b|1fo|El Havre;Havro;La Havro;Hawr;Havre;Franciscopolis;An Havr Nevez;Le port de Grâce;An Havr-Nevez;O Havre;Havras;Havra;Havr
+Piraeus|GR||8p|2xe|1tp|19h|Piräus;El Pireo;El Pireu;Le Pirée;Pireus;Pireu;Pireja;Pireo;Pirėjas;Peiraiás;Pireusz;Pire;Peiraiéfs;Pireas;Pirej;Lo Pirèu;Il Pireo;O Pireo;Peiraiá;Peiraieus;Piraiévs;Peiraievs;Peiraeus
+Bayan Lepas|MY||6v|eq|7qi|109
+Le Plateau-Mont-Royal|CA||59|3ih|-5oe|te
+Lepaera|HN||56|152|-6u3|aj
+Le Plateau|SN||g|14q|-1cg|9n
+Le Port|RE||ai|-1m6|49l|99
+Le Perreux-sur-Marne|FR||9k|3rp|6y|8w|Perreux-Sur-Marne
+Leppävaara|FI||92|4n9|1wx|7w|Alberga;Lebuski;Leppis;Lepuski
+Lepe|ES||9d|2vh|-k0|77
+Elefsína|GR||8p|2xo|1te|6x|Elefsís;Elevsís;Lepsina;Eleusis;Elefis
+Le Puy-en-Velay|FR||9k|3h4|at|6b|Lo Puèi de Velai;Puy-en-Velay;Anicium Vellavorum;Le Piui en Veli
+Le Petit-Quevilly|FR||9k|3t9|2y|6b|Petit-Quevilly;Le Peti Keviji
+Le Plessis-Robinson|FR||9k|3rj|6b|69|Plessis-Robinson
+Lephalale|ZA||o|-1tr|252|5v|Ellisras
+Leposaviq|XK||8q|3bq|1ls|5a|Leposavić;Albaniku;Leposavići
+Le Plessis-Trévise|FR||9k|3rl|75|56|Plessis-Trévise
+Le Pré-Saint-Gervais|FR||9k|3rt|6o|4y|Pré-Saint-Gervais;Pré Saint Gervais
+Le Pecq|FR||9k|3rt|5u|4l|Pecq
+Le Pontet|FR||9k|3e4|di|4i
+Le Plateau|CA||59|3i8|-5ui|46
+Náfpaktos|GR||8p|2yn|1on|3q|Inebahtı;Naupactus;Lepanto;Naupacte;Naupaetus;Návpaktos
+Les Ponts-de-Cé|FR||9k|3nq|-1g|3l|Le Pont de Ce
+Le Pradet|FR||9k|3br|gq|3f|Lo Pradet
+Le Pont-de-Claix|FR||9k|3hc|fu|3c|Pont-de-Claix
+Le Portel|FR||9k|3wv|4e|33|L’Porté
+Le Passage|FR|New Aquitaine|9k|3es|1o|2m|Passage
+Leppävirta|FI||92|4tl|256|2i
+Lepa|PH||71|184|9al|2h
+Le Plessis-Bouchard|FR||9k|3s4|67|22|Plessis-Bouchard
+Le Péage-de-Roussillon|FR||9k|3i1|dc|1x
+Le Poiré-sur-Vie|FR||9k|3lx|-47|1r
+Le Perray-en-Yvelines|FR||9k|3r9|56|1q
+Le Pharo|FR||9k|3c9|ew|1q
+Le Palais-sur-Vienne|FR||9k|3je|3o|1n|Lu Palaiç;Le Palais
+Le Pian-Médoc|FR||9k|3gw|-1v|1n|Le Pian-en-Médoc
+Lebyazh’ye|RU|Leningradskaya Oblast'|9i|4mk|29p|1l|Lepäsi
+The Pas|CA||5d|45i|-7t8|1j|Le Pas
+Le Pouliguen|FR||9k|3nb|-6r|1i|Ar Poulgwenn
+Le Poinçonnet|FR||9k|3lw|4s|1f|Poinçonnet
+Le Puy-Sainte-Réparade|FR||9k|3da|f3|1e|Lo Pueg;Lo Pueg de Santa Reparada
+Le Piol|FR||9k|3df|k5|1e
+Leporano Marina|IT||9o|346|1c3|1d
+Le Port-Marly|FR||9k|3rt|5v|1a|Port-Marly
+L'Épiphanie|CA||59|3jd|-5o4|1a
+Borne Sulinowo|PL||a5|44u|19x|17|Sulinowo;Lëpa;Borne Sulinovas;Borne Sulinovo
+Lipiany|PL||a5|438|15l|16|Lëpienié;Lipjani
+Le Pellerin|FR||9k|3n4|-4v|15|Pentelloù;Pontellus
+Pont de Vivaux|FR||9k|3c8|f2|15|Le Pont-de-Vivaux
+Le Plessis-Pâté|FR||9k|3r1|6g|14|Plessis-Paté;Le Plessis-Pasté
+Leptokaryá|GR||8p|33a|1qo|10|Leptokarja
+Leppington|AU||8l|-2md|bmw|y
+Lepoglava|HR||a6|3kd|18k|y|Lepoglov;Lepoglav
+Lepai|MY||6v|gw|7qt|y
+Lepsény|HU||8v|3mj|1eo|w|Lapseny
+Le Plessis-Belleville|FR||9k|3se|7o|v
+Lepley|RU||9i|46v|3b2|v|Leplej
+Levroux|FR||9k|3mi|4h|t|Leprosium
+Le Pouzin|FR||9k|3gb|d7|s|Lo Polzin
+Le Pont-de-Beauvoisin|FR||9k|3ii|fr|s
+Le Palais|FR||9k|3nj|-8s|q|Porzh-Lae;Palais
+Leporano|IT||9o|346|1c5|q
+Le Pallet|FR||9k|3my|-3q|q|Ar Palez;Palacium
+Le Plan-de-la-Tour|FR||9k|3cd|i7|q|Lo Plan de la Tor;Lo Plan de la Torre
+Lepanto|PH||71|qw|9is|p
+Leppäkorpi|FI||92|4no|1xp|o|Alkärr
+Le Plessis-Grammoire|FR||9k|3ny|-17|l
+Lepaterique|HN||56|133|-6qz|l|Lapaterique
+Lepenoú|GR||8p|2zj|1n5|l
+Lipusz|PL||a5|46a|1de|l|Lëpùsz
+Le Pêchereau|FR||9k|3le|4b|j|Pêchereau
+Lepanto|US||2f|2qx|-6yx|i
+Kampung Gedung Siam|MY||6v|a9|7y0|h|Gedung Siam;FELDA Lepar Hilir 3;Lepar Hilir 3
+Le Porge|FR||9k|3gn|-31|g
+Le Perrier|FR||9k|3m2|-5j|g
+Le Plessis-Brion|FR||9k|3te|81|g
+Le Pouget|FR||9k|3d3|9s|f
+Lepelstraat|NL||8m|3z7|bw|e
+Kampung Ladang Sawit Lepar|MY||6v|9y|7ye|e|Lepar
+Le Pertre|FR||9k|3pf|-2w|e|Ar Perzh;Pertrum;Pertre
+Le Puy-Notre-Dame|FR||9k|3mx|-n|d|Puy-Notre-Dame
+Lepan|MX||3z|1lj|-6wm|c
+Le Pin-en-Mauges|FR||9k|3n9|-2i|c
+Loipersbach im Burgenland|AT||a2|3oi|19s|c|Lépesfalva
+Le Pin|FR|Auvergne-Rhône-Alpes|9k|3ia|fa|c
+Lepetykha|UA||98|3nh|2jt|c|Lepetikha
+Le Pizou|FR||9k|3h3|6|c|Lo Pison;Pizou
+Lepuix|FR||9k|3oo|ix|c
+Le Pin|FR|Île-de-France|9k|3rw|7b|b
+Le Perréon|FR||9k|3jy|cs|b
+Le Pin|FR|New Aquitaine|9k|3m6|-1u|b
+Le Poujol-sur-Orb|FR||9k|3d2|8i|a
+Le Plessis-Macé|FR||9k|3o2|-1v|a
+Le Puiset-Doré|FR||9k|3n7|-34|a
+Lépanges-sur-Vologne|FR||9k|3pt|ij|a
+Le Petit-Bornand-les-Glières|FR||9k|3js|hs|a
+Lepsi|KZ||5s|3kf|63a|9|Lepsy
+Le Poët-Laval|FR||9k|3fq|dx|9|Lo Poet de la Vau;Lo Poet Laval;Poët-Laval;Le Roët-Laval
+Lepreau|CA||43|3hh|-54n|8
+Lipnica|PL|Pomerania|a5|460|1cd|7|Lëpińce
+Pin-Balma|FR||9k|3d7|49|7|Pin de Balmar;Le Pin de Balmar
+Le Parcq|FR||9k|3vy|5u|7|ChParcq
+Łupawa|PL||a5|476|1cd|7|Łëpawa
+Lepea|WS||aj|-12g|-d97|7
+Le Plessis-Grohan|FR||9k|3rz|35|7
+Le Passage|FR|Auvergne-Rhône-Alpes|9k|3ih|fb|7
+Le Pin|FR|Normandy|9k|3sp|x|7
+Le Poiré-sur-Velluire|FR||9k|3kx|-2i|7
+Le Pian-sur-Garonne|FR||9k|3fv|-l|7
+Le Pin-la-Garenne|FR||9k|3qk|1j|7
+Lepplax|FI||92|4wv|1rl|7|Läpplax;Lepplaks
+Le Pin|FR|Pays de la Loire|9k|3nj|-61|6
+L'Épine|FR||9k|3s2|cf|6
+Le Petit-Fougeray|FR||9k|3p5|-4h|6|Felgerieg-Vihan;Petit Fougeray
+Leppneeme|EE||9x|4lf|1x2|6|Lepneeme
+Le Plessier-Rozainvillers|FR||9k|3u7|73|6|Plessier-Rozainvillers
+el Pertús|FR||9k|39z|7y|6|Le Perthus
+Le Pas|FR||9k|3qj|-1y|5
+Le Perchay|FR||9k|3sf|5d|5
+Le Plessis-Mériot|FR||9k|3qs|9k|5

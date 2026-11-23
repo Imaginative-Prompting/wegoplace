@@ -1,0 +1,770 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Hefei|CN||7i|2gi|91s|211f|Che-fej;Hefėjus;Hợp Phì;Hefejo;Ha̍p-pûi-chhī;Hăk-bùi;Hofej;Hozfeiz;Hefej;Hefey;Ho-fei
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Yantai|CN|Shandong|7i|2w4|9dc|1ist|Chefoo;Jen-tchaj;Jantaj;Yên Đài;Iĕng-dài;Jantai;Ian-tâi-chhī;Yen-t’ai
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Chennai|IN||6t|10d|670|104b|Madrás;Ćennaj;Ĉenajo;Čennai;Csennai;Čenaj;Maderaspatanum;Čenajus;Çenay
+Incheon|KR||7h|2w2|9rz|n9n|Inch'ŏn;Inchon;Nhân Xuyên;Inčhona;Inčchon;Incshon;Inĉono;Inčonas;Chemulpo;Inčon;İnçxon
+Chengtangcun|CN||7i|2pg|91j|djv|Tengzhou
+Heze|CN||7i|2pw|8wr|ae3|Che-ce;Hà Trạch;Hò̤-dĕk;Hâ-te̍k-chhī
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Chelyabinsk|RU||7z|498|4qn|9a0|Tscheljabinsk;Cheliábinsk;Čeljabinsk;Ĉeljabinsko;Tšeljabinsk;Tcheliabinsk;Čeļabinska;Tsjeljabinsk;Czelabińsk;Tjeljabinsk;Çelyabinsk;Čeliabinskas;Celiabinsc;Celeabinsk;Cseljabinszk;Čeläbinsk;Tsyelyabinsk;Txeliabinsk;Celiabinsca
+Hengyang|CN||7i|22p|8ou|8ar|Cheng-jang;Hengjang;Fên-yòng-sṳ;Hengjangas;Xéngyang shehiri;Hành Dương;Hèng-iòng;Hêng-iông-chhī;Heng-nan
+Hezhou|CN||7i|1vs|8lx|7rb|Hô̤-ciŭ;Che-čou;Fo-chû-sṳ;Hạ Châu;Hohcouh;Hō-chiu-chhī
+Zhu Cheng City|CN||7i|2s0|97o|7ps
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Zhenjiang|CN||7i|2hh|97u|7c1|Chinkiang;Chenkiang;Chinking;Chinkiang Fu
+Chengde|CN||7i|35r|93o|73o|Čengdė;Thừa Đức;Čcheng-te;Sìng-dáik;Sêng-tek-chhī;Chengteh;Ch’eng-te
+Cheongju-si|KR||7h|2ts|9u5|6kp|Cheongju
+Chenzhou|CN||7i|1zo|8pz|6ch|Chenchow
+Hegang|CN||7i|3nj|a1x|5qh|Che-kang;Hạc Cương;Hŏk-gŏng;Ho̍k-kong-chhī
+Cheonan|KR||7h|2u9|9t7|530|Ch'ŏnan;Čchonan;Thiên-ôn-sṳ
+Jeonju|KR||7h|2ri|9t7|4xc|Chŏnju;Čondžu;Džondžu;Chunju;Chŏngju;Chenju;Jeon Ju
+Hebi|CN||7i|2r9|8th|4wb|Che-pi;Hạc Bích;Hŏk-biáh;Ho̍k-piah-chhī
+Hengshui|CN||7i|2wu|8xc|411|Cheng-šuej;Hành Thủy;Hèng-cūi;Hêng-chúi-chhī
+Naberezhnyye Chelny|RU||9i|4au|41m|3xn|Brezhnev;Nabereschnyje Tschelny;Naberezhnye Chelny;Naberežnyje Čelny;Nabereĵnije Ĉelni;Naberežnõje Tšelnõ;Naberežnyje Tšelny;Naberežnije Čelni;Naberežnye Čelny;Naberezjnye Tsjelny;Naberejnye Chelny;Yar Çallı;Yorcholli
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Jeju City|KR||7h|2l3|9rg|3rs|Czedżu;Jeju;Cheju;Kota Jeju;Jeju Şehri;Jeju Shahri;Jeju Gida;Kutha Jeju;Magaalaa Jeju;Magaaladda Jeju;Jiji la Jeju
+Chéngguān Qū|CN||7i|2ac|70w|3ov
+Heyuan|CN||7i|1tx|8uk|3kv|Che-jüan;Hò-ngièn-sṳ;Hà Nguyên;Hô-goân-chhī;Ò̤-nguòng;Ho-yüan
+Tseung Kwan O|HK||6i|1q1|8td|36p|Cheung Kwan O
+Chongjin|KP||7a|384|a0i|2iu|Ch’ŏngjin;Cshongdzsin;Čondžinas;Cheongjin;Čchongdžin;Ĉongĵin;Chonjin
+Cherepovets|RU||9i|4k9|2xa|2fp|Tscherepowez;Tšerepovets;Čerepovec;Czerepowiec;Ĉerepoveco;Tsjerepovets;Čerepoveca;Čerepovecas;Cerepoveț;Txerepovets;Cserepovec;Tjerepovets;Çerepovets;Čerjepowjec;Cherepovetz
+Chernihiv|UA||98|3z3|2ex|26j|Tschernihiw;Czernihów;Ĉernigivo;Ĉernihivo;Csernyihiv;Tsjernihiv;Tšernihiv;Czernihovia;Chernígov;Černihiv;Çernigiv;Tjernihiv;Černihiw;Černihov;Černigovas;Txerníhiv;Cernigău;Tšernigiv;Černigov;Çerniqov;Cernigovia;Tschernigow
+Linxia Chengguanzhen|CN||7i|2qw|7yp|249|Linxia;Linsia
+Cherkasy|UA||98|3tc|2h2|22y|Tscherkassy;Tcherkassy;Čerkasy;Czerkasy;Cserkaszi;Tsjerkasy;Tšerkassõ;Tšerkasy;Ĉerkaso;Çerkassi;Çerkası;Čerkasai;Circassium;Tjerkasy;Txerkasy;Tcherkássi;Tsjerkasi;Txerkassi;Čerkasad;Cherkassy
+Chengzhong|CN||7i|2dy|8rf|21v
+Chernivtsi|UA|Chernivtsi|98|3q5|201|21f|Tschernowitz;Czernowitz;Cernăuți;Tsjernivtsi;Czerniowce;Tjernivtsi;Ĉernivco;Černovice;Çernivtsi;Tšernivtsi;Txernivtsí;Černivci;Csernyivci;Černovci;Czernovicum;Černivciai;Chernovsi;Cernovizza;Csarnóca;Chernovtsy
+Częstochowa|PL||a5|3x4|1h4|1wx|Tschenstochau;Čenstakava;Čenstohova;Čenstochová;Czenstochau;Czynstochowy;Khìm-sṳ̂-thok-khok-ngá;Çenstoxova;Chenstochov
+Chemnitz|DE||8r|3x8|zx|1wo|Saská Kamenice;Chemnicium;Kamenica;Chemnicas;Hemnica;Kamjenica
+Chesapeake|US|Virginia|48|2ua|-5vv|1te|Česapikas;Chesapeack
+Kampong Baharu Cheras Batu Sebelas|MY||6v|8h|7up|1sh|Kampong Baharu Cheras Batu Sa-Belas
+Heihe|CN||7i|3vk|9u5|1q6|Chej-che;Hắc Hà;Háik-ò̤;Hek-hô-chhī;Hei-ho
+Jerez de la Frontera|ES||9d|2tx|-h2|1n5|Jerez;Ĥerezo;Xérès;Cheres de la Frontera;Xeresium;Xerez de la Frontera;Jarez de la Frontera
+Zhengding|CN||7i|2xz|8u9|1hr|Cheng-ting
+Getafe|ES||9d|33z|-ad|1g3|Xetafe;Chetafė;Tituacia
+Zhenping|CN||7i|2jr|8nr|1ef|Chen-p’ing
+Chetumal|MX||2b|1fg|-6ta|1ay|Četumalis
+Chenghua|CN||7i|1t6|90d|16d|Chenghai
+Ch’ŏngdan-ŭp|KP||7a|2xh|9pu|13m|Ch’ongdan;Cheongda-eup
+Chertanovo Yuzhnoye|RU||9i|4af|2wg|13g
+Cheras|MY||6v|8n|7ul|11q|Ziu Laai;Chiau-nāi;Tsiâu-lai
+Khenifra|MA||d|2jh|-fq|zn|Jenifra;Chenifra;Chunajfira;Xnifra
+Cherkessk|RU||9i|3eu|38t|y0|Tšerkessk;Čerkessk;Czerkiesk;Tsjerkessk
+Cheremushky|UA||98|3kz|2db|xc
+Cheltenham|GB||9b|406|-5s|x0|Čeltnamas;Ĉeltnamo
+Chenggu|CN||7i|2k3|8a5|wc|Chengu;Ch’eng-ku
+Chengqiao|CN||7i|2fv|9d7|vi
+Chorzów|PL||a5|3vr|1gp|vi|Hožova;Chorzůw;Chožuvas;Cherzów
+Chesterfield|GB||9b|43x|-3y|vf|Česterfildas
+Chelmsford|GB||9b|3zq|1b|uz|Čelmsfordas;Čelmsfuords
+Cherëmushki|RU|Moscow|9i|4am|2wc|tm
+Puyang Chengguanzhen|CN||7i|2r7|8vj|t6
+Gangu Chengguanzhen|CN||7i|2oi|84l|ss
+Novyye Cherëmushki|RU||9i|4aq|2we|s2
+Bandar Mahkota Cheras|MY||6v|8h|7us|rs
+Chengzihe|CN||7i|3hy|a3w|ra
+Chester|GB||9b|43r|-81|p5|Ĉestro;Caer;Česteris;Cestria;Yn Çhaayr;Deva
+Chengxiang|CN||7i|2f8|8gd|or
+Ozersk|RU|Chelyabinsk|7z|4aw|4om|mi|Chelyabinsk-65;Chelyabinsk-40;Ozyorsk;Ozjorsk;Osjorsk
+Berestovskyi|UA||98|3pg|2x8|mf|Chervonohvardiyskyi rayon;Chervonohvardiyskyi
+Chekhov|RU|Moscow Oblast|9i|497|2w2|l0|Tsjekhov;Tschechow;Chéjov;Čechov;Çexov;Ĉeĥov;Tšehhov;Tšehov;Čehova;Tsjekhov i Moskva oblast;Czechow;Tjechov
+Cheektowaga|US||48|3b6|-62r|kw
+General Roca|AR|Rio Negro|1s|-30f|-57q|kc|Cheneral Roka
+Chernogorsk|RU||6u|45j|71n|jw|Ĉernogorsk;Tšernogorsk
+Carpi|IT|Emilia-Romagna|9o|3ge|u8|jr|Chèrp
+Cherry Hill|US|New Jersey|48|32x|-5sf|jl
+Chengxian Chengguanzhen|CN||7i|2lr|85p|ja
+Zhenlai|CN||7i|3jd|9i8|iu|Chen-lai
+General Pico|AR||1s|-2r2|-4x4|ik|Cheneral Pikas
+Chengyang|CN||7i|2qu|963|ii
+Cheria|DZ||3|2pz|lj|ie
+Kherson|UA||98|3lk|2il|ic|Cherson;Ĥersono;Herson;H’erson;Chersonas;Jersón;Herszon;Hersona;Xerson;Chersone;Chersonia
+Chegutu|ZW||n|-1ed|2bq|ia|Cheguto
+Chengalpattu|IN||6t|z9|666|i9|Chengalpat
+Cheyenne|US|Wyoming|2p|36a|-836|i3|Ŝajeno;Cheyenna;Šajenas;Šaiena;Šajens
+Sheptytskyi|UA||98|3vz|1vc|hv|Krystynopol;Chervonohrad;Červonohrad;Tscherwonohrad;Czerwonogród;Kristinopol’;Chervonograd;Czerwonohrad;Krvstonopol;Sheptytskyy
+Shendi|SD||r|1ad|2kv|hp|Schandi;Šendis;Šendi;Chendi;Xendi;Szandi;Shandi;Shindî
+Cheruvannur|IN||6t|v3|5un|h4
+Chełm|PL|Lublin|a5|3y2|1t7|gq|Helma
+Chelsea|GB||9b|3z1|-h|go|Çelsi
+Cheremkhovo|RU||6k|43n|7yc|fy|Tsjeremkhovo;Tšeremhovo
+Chitral|PK||6q|2rl|5jf|fw|Chetrar;Čitral;Czitral
+Chernaya Rechka|RU||9i|4mn|2c6|fo
+Cepu|ID||6l|-jv|8lz|fb|Chepu
+Chelghoum el Aïd|DZ||3|2sg|h5|f5|Ghelgoum Elaïd;Ghelghoum Elaïd
+Chenārān|IR||7o|2tt|4k8|ez|Chanārān;Chinārān
+Zhefang|CN||7i|1vf|7l0|eb|Che-fang
+Chenlou|CN||7i|2nj|93x|df
+Chesterfield|US|Missouri|2f|2ze|-6zm|db
+Shelekhov|RU||6k|412|816|d7|Sjelekhov;Schelechow;Shélejov;Chelekhov;Šelechov;Şelexov;Ŝeleĥov;Sjelechov;Shelikhov
+Chelles|FR||9k|3rs|77|d1
+Chefchaouen|MA||d|2pp|-em|cz|Ville de Chechaouèn;Xauen;Chechaouèn;Chechaouene
+Chebarkul’|RU||7z|48q|4np|cx|Tsjebarkul
+Chefushan|CN||7i|2ns|933|cq|Ch’e-fu-shan-yü;Ch’e-i-shan
+Cherthala|IN||6t|qw|5w2|cq
+Chernyakhovsk|RU||96|47r|1om|ck|Insterburg;Tschernjachowsk;Czerniachowsk;Ĉernjaĥovsk;Černjachovsk;Įsrutis;Černjakhovsk;Černiachovskas;Tšernjahovsk;Chernyakovsky
+Cheshunt|GB||9b|3zm|-3|c5
+Ch’ŏsal-li|KP||7a|31g|9on|c4|Ch’ŏsan-ni;Cheosalli
+Jamjamāl|IQ||5z|2qp|3gj|bu|Chemchemał;Çemçemal;Chamchamāl
+Chepén|PE||3o|-k2|-64m|bo|Chipin
+Chengxi|CN||7i|2bx|89y|bh|Ch’eng-hsi
+Shepetivka|UA||98|3ve|237|bc|Schepetiwka;Chépétivka;Šepetivka;Szepetówka
+Cheorwon|KR||7h|2y5|9te|ba|Ch’ŏrwŏn;Cheolwan
+Chenshi|CN||7i|29f|86f|b3
+Chenghai|CN||7i|21i|7ro|b2
+Chelsea|US|Massachusetts|48|39r|-5hb|ay
+Chetwayi|IN||6t|t9|5v9|ak|Chetwagi
+Cheyyar|IN||6t|z6|64y|ai
+Chettipālaiyam|IN|Tamil Nadu|6t|v1|5yu|ag
+Chester-le-Street|GB||9b|48e|-4d|a9
+Chetouane|DZ||3|2p0|-3m|a8
+Chieri|IT||9o|3h1|lq|a7|Cher;Carrea Potentia;Quiers
+Sheraro|ET||2|140|2xd|a1|Cheraro;Scheraro
+Chernushka|RU||7z|4cz|4bs|9z|Tsjernusjka;Tchernouchka
+Tchéboa|CM||j|p3|10m|9s|Cheboa;Tscheboa
+A Yun Pa|VN||6h|118|8d8|9r|Cheo Reo;Phú Bổn;Hậu Bổn;Ayun Pa
+Chēmanchēri|IN||6t|vo|5uc|9o
+Cherchell|DZ||3|2to|63|9k|Sersell;Caesarea Iol;Szarszal;Cercal;Iol Caesarea;Şerşel;Shershel;Cherchez;Shershell;Cherche;Cherchel
+Zhelou|CN||7i|1xd|85y|9j|Che-lou
+Chelambra|IN||6t|uz|5ur|9h
+Chester|US|Pennsylvania|48|32p|-5tc|9h
+Chelmsford|US||48|3ac|-5i9|9f
+Çeşme|TR||94|2yh|213|99|Chesme
+Cheb|CZ||9m|3v4|yd|95|Eger;Egra
+Chestermere|CA||2s|3xr|-8s6|8z
+General José de San Martín|AR||1n|-21q|-4ku|8u|Cheneral Chose de San Martinas;General Xose de San Martin;Jeneraal Jose de San Martin;Jenerali Jose de San Martin
+Chemmumiahpet|IN||6t|146|62x|8q
+Cheongsong gun|KR||7h|2t7|9yi|8p|Ch'ŏngsong-gun
+Cheriyamundam|IN||6t|uf|5v0|8o
+Chełm|PL|Pomerania|a5|46y|1fq|8j
+Cheranellūr|IN||6t|rx|5vx|8i
+Chemor|MY||6v|d4|7sw|8h|Chemur
+Cherukavu|IN||6t|v1|5uv|8d
+Cherpulassery|IN||6t|u8|5vz|8c
+Chmistâr|LB||64|2mc|2s2|8c|Chemestar;Shmisţār
+Chengamanād|IN||6t|s7|5w2|88
+Cheshire|US|Connecticut|48|37a|-5mi|86
+Cheruthazham|IN||6t|xk|5t2|85
+Chendamangalam|IN||6t|s8|5vr|85
+Cheadle Hulme|GB||9b|44a|-63|82|Ĉidilo-Hjumo
+Chengjiang|CN||7i|2az|87i|7t
+Cheraga|DZ||3|2u5|88|7q
+Ch’ench’a|ET||2|hd|2wd|7n
+Chengam|IN||6t|y7|62v|7i
+Cherbourg|FR||9k|3tw|-4i|7f|Cherburgo-Octeville;Kiæresburh;Coriallum;Tchidbouo;Şerburq-Oktevil
+Chellalat el Adhaouara|DZ||3|2ru|9i|79|Chellalat El Adhouara;Challalat El Adhaoura
+Chengannūr|IN||6t|pw|5wu|6y
+Chenjiaba|CN||7i|2dl|8d5|6v
+Chentuan|CN||7i|2qm|97b|6v
+Chekkiād|IN||6t|wk|5u4|6q
+Chettipālaiyam|IN|Tamil Nadu|6t|ub|5y0|6p|Chettipalayam
+Cheltenham|AU|Victoria|8j|-2xh|b6x|6o
+Chestnut Hill|US|Massachusetts|48|39l|-5hp|6k
+Chebba|TN||1e|2pw|uw|66
+Chemini|DZ||3|2to|cu|60
+Chester|US|Virginia|48|2vs|-5z4|5u|Ĉestro
+Chelora|IN||6t|x1|5tk|5u
+Chelenko|ET||2|q4|37g|5t|Ch’alank’o;Ch’elenk’o
+Chek Chue|HK||6i|1pq|8t9|5r|Stanley;Chik Chu
+Chesham|GB||9b|3zm|-1o|5q
+Chełmno|PL||a5|447|1f7|5q|Helmno;Kulmas;Kulm;Chôłmno
+Chernogolovka|RU||9i|4bk|2yk|5p|Tsjernogolovka;Tschernogolowka;Černogolovka;Çernoqolovka;Txernogolovka;Tšernogolovka;Černogolowka;Czernogołowka
+Chengjiao|CN||7i|2kr|83g|5p
+Cherepanovo|RU||75|46m|6fm|5l|Tsjerepanovo
+Chevilly-Larue|FR||9k|3rg|6j|5l
+Cheppad|IN||6t|pn|5wf|5l
+Chebli|DZ||3|2tm|8d|5j
+Chetput|IN|Tamil Nadu|6t|ym|64f|5i
+Jericho|PS||6g|2gj|2qh|5i|Arīḩā;Jericó;Jerihon;Jeriko;Gerico;Jerichas;Jerycho;Jērika;Chericó;Jeriĥo;Jeeriko;Ireachó;Xericó;Yerikho;Iericho;Ierihon;Yeriko;Eriha;Arihon;Arişa;Arihoon;Arihoo;Yerīhō
+Cheung Chau|HK||6i|1pp|8sr|5i
+Chessington|GB||9b|3yo|-u|5e
+Kampung Cheng|MY||6v|6a|7vy|5c|Cheng;Kampong Cheng
+Cherrybrook|AU||8l|-2lo|bnl|56
+Cheranmahadevi|IN||6t|o4|5zh|53|Cheranmadevi
+Chetput|IN|Tamil Nadu|6t|10b|66w|53|Chetpat;Chetpet
+Chennevières-sur-Marne|FR||9k|3rk|72|53
+Chegem|RU||9i|3d1|3d3|50|Tsjegem Pervyj
+Çerkeş|TR||94|35d|2jd|4y|Cherkesh;Cherkes
+Chettināyakkanpatti|IN||6t|sv|60m|4x
+Chenini Nahal|TN||1e|2m3|ry|4s
+Chelamartam|IN||6t|s6|5we|4o|Chelamattom
+Chelak|UZ||7g|32w|55q|4n|Chelek
+Chendrappini|IN||6t|ss|5vh|4k
+Chennimalai|IN||6t|v0|5zk|4j
+Chengalam|IN||6t|qo|5wf|4h
+Cherukunnu|IN||6t|xc|5t5|4h
+Chevvoor|IN||6t|t2|5vp|4h
+Cherry Hill|US|Virginia|48|2z5|-5yn|4g
+Chertsey|GB||9b|3yr|-1f|4g
+Chenôve|FR||9k|3nd|dw|4e
+Chengala|IN||6t|yq|5sh|4c
+Chai Nat|TH||62|167|7q4|4b|Chainat;Chai Nad;Cheinat
+Chełmża|PL||a5|43q|1fo|4a|Helmža;Chôłmżô
+Chernyanka|RU||9i|3xi|2x2|49|Tsjernjanka;Černjanka;Tschernjanka
+Voznesenivka|UA||98|3pk|32j|48|Chervonopartizansk;Chervonopartyzans’k;Chervonopartyzansk;Chervonopartzansk;Voznesenka
+Vilnyansk|UA||98|3p7|2qg|46|Sofiyivka;Krasnoarmiyske;Chervonoarmiyske;Villniansk;Vilniansk;Wilnjansk;Viljnjansk
+Cheung Sha Wan|HK||6i|1q1|8t4|46|Changsha Wan
+Chemax|MX||3z|1le|-6sa|45
+Chegdomyn|RU||7w|3y1|a9g|45|Tsjegdomyn;Chagdamyn
+Che Ha|HK||6i|1qb|8te|44
+Cherryland|US||3p|2wo|-9f6|43
+Cherang Ruku|MY||6v|gb|7wp|43
+Chelsfield|GB||9b|3yo|d|41
+Chengbei|CN||7i|2dc|8be|3z
+Cherán|MX||41|1ip|-7v7|3y
+Chebrolu|IN||6t|1aq|6a4|3y
+Cherry Hill Mall|US||48|32y|-5sd|3y
+Chernigovka|RU||7w|3f6|a89|3w|Tsjernigovka
+Cheruthuruthi|IN||6t|tv|5vv|3u
+Charmahīn|IR||7o|2hu|3y7|3t|Cher Mahīn
+Chesterton|US||2f|37l|-6pu|3q
+Chelmsley Wood|GB||9b|41s|-4u|3p|Chelmnas Vudas
+Chaiyo|TH||62|14s|7r3|3p|Cheiyo
+Cherven Bryag|BG||9v|3c8|1uw|3m|Kızıl Çay;Qızıl Çay;Cherven-Breg;Cherven-Bryeg;Cherveni Bryag
+Çey|TR||5z|2vi|3ec|3m|Chay;Chêy;Gundê Çê;Çay Köyü;Çîyayî;Gundê Çîyê;Dağlık;Che;Chai
+Chepo|PA||4g|ph|-63q|3l
+Cheetham Hill|GB||9b|44m|-68|3k
+Chester Hill|AU||8l|-2m4|bng|3k
+Chernyshevsk|RU||67|41w|912|3h|Tsjernysjevsk
+Chemin Grenier|MU||ag|-1kx|4fn|3h
+Chennithala|IN||6t|ps|5wk|3g
+Cherlak|RU||76|46f|5rt|3d|Tsjerlak
+Chelsea|US|Alabama|2f|2km|-6on|3d
+Cherdakly|RU||9z|46z|3rp|3b|Tsjerdakly
+Chepstow|GB||9b|3zg|-7g|3b|Cas-gwent
+Cherrapunjee|IN||6t|1ya|72q|39|Çerapunci;Čérápuňdží;Čerapundžis;Cherapunjee;Czerapuńdżi;Cherapunji;Cherrapunji
+Chechat|IN||6t|1wt|5us|39
+Cheney|US|Washington|3p|3nx|-92m|37
+Chesapeake Ranch Estates-Drum Point|US||48|2yj|-5wa|37
+Cheadle|GB||9b|436|-5i|36
+Cheam|GB||9b|3yo|-m|35
+Chekmagush|RU||7z|496|47s|34|Tsjekmagusj
+Cherry Creek|US||2p|321|-83a|33
+Cheyyur|IN||6t|yb|668|33|Cheyūr
+Chela|CN||7i|2mn|826|32
+Chertkovo|RU||9i|3t6|33j|32|Tsjertkovo
+Chegem Vtoroy|RU||9i|3d4|3d4|32|Tsjegem Vtoroj
+Cheval|US||48|267|-6d7|2z
+Chevigny-Saint-Sauveur|FR||9k|3ne|e9|2y
+Červień|BY||9g|457|26z|2y|Chervyen';Cherven’;Ihumeń;Igumen
+Chesapeake Ranch Estates|US||48|2yj|-5wa|2x
+Chêne-Bougeries|CH||a7|3kc|h7|2x|Châno-Bugeries
+Radyvyliv|UA||98|3v9|1y5|2w|Chervonoarmiys’k;Chervonoarmeysk;Radzivilov;Radziwiłłów;Radzivilluv
+Chermside|AU||8c|-242|bt3|2t
+Sheregesh|RU||74|430|6sf|2t|Sjeregesj;Scheregesch;Šeregešas;Šeregeš;Cheregech;Szeriegiesz
+Chestnut Hill|US|Pennsylvania|48|33c|-5sx|2p
+Chenyuan|CN||7i|2ls|85k|2o
+Chevy Chase|US|District of Columbia|48|30a|-5y4|2n|Cheivy Chase
+Chevy Chase|US|Maryland|48|30c|-5y3|2n|Cheivy Chace
+Cherepkivtsi|UA||98|3pe|204|2m|Cherepkovtsy
+Cherniakhiv|UA||98|3w5|27n|2k|Chernyakhov;Chernyakhiv
+Chênée|BE||8t|3wl|fl|2k
+Chełmek|PL||a5|3v6|1hh|2j|Helmeka
+Chekonidhara|IN||6t|22a|79p|2i
+Cherëmushki|RU|Khakasiya Republic|6u|42u|71y|2i|Tsjeremusjki
+Chornobaivka|UA||98|3lq|2if|2i|Tsjornobajivka;Tschornobajiwka;Chornobayivka;Čornobajivka;Czornobajiwka;Čornobaïvka;Tšornobajivka;Txornobaivka;Çernobayevka;Ciornobaiivka;Chernovayevka;Chernobayevka;Chernoayevka
+Chēlakara|IN||6t|tp|5w2|2h
+Chachersk|BY||9g|430|2dw|2h|Tchatchersk;Čačersk;Tšatšersk;Csacserszk;Čačerska;Czeczersk;Tjatjersk;Chechersk
+Belinskiy|RU||9i|434|3cm|2g|Chembar;Belinsky;Belinski;Bielinski;Belinskij;Belinskis;Bjelinskij
+Choceň|CZ||9m|3uw|192|2f|Hoceņa;Checeň
+Chester|US|Illinois|2f|2xb|-6xi|2e
+Chermen|RU||9i|3bv|3g7|2e|Tsjermen
+Chernomorskiy|RU||9i|3gl|2yx|2d|Tsjernomorskij
+Chelsea|AU||8j|-2xp|b74|2b
+Cheviot|US||48|30s|-6j1|2b
+Shlomi|IL||6n|2jv|2pn|2a|Shelomi;Schelomi;Šlomi;Chelomi
+Chestnut Ridge|US||48|364|-5pq|2a
+Chennasamudram|IN||6t|uq|60e|29
+Chiajna|RO||8u|3fi|205|29|Cheajna
+Chyorny Yar|RU||8o|3pi|3k3|28|Tsjernyj Jar;Cherny Yar
+Chelsea|CA||59|3ie|-5ui|28
+Cheat Lake|US||48|327|-65t|28
+Chelas|PT||99|2zm|-pc|28|Chellas
+Chêne-Bourg|CH||a7|3kc|h7|28|Quercus;Šen Buras
+Cherry Orchard|IE||8z|446|-hq|27
+Cherpu|IN||6t|sz|5vo|27
+Settithāngal|IN||6t|100|64e|26|Chettithangal
+Cherikov|BY||9g|44t|2f6|25|Cherykaw;Čerykaŭ
+Chécy|FR||9k|3p1|5m|25
+Cherry Hill|US|Maryland|48|311|-5wv|24
+Cheswolde|US||48|31c|-5x1|24
+Chester Springs|US||48|33e|-5u2|23
+Chehalis|US||3p|3lm|-9hk|22
+Cherëmukhovo|RU||7z|4nn|4mn|21|Tsjeremukhovo
+Cheste|ES||9d|31o|-1w|21|Xest
+Kelmentsi|UA||98|3qn|22j|20|Chelmenți;Kel’mentsy
+Chechen-Aul|RU||9i|3c0|3j7|1z|Tsjetsjen-Aul;Çeçana;Kalinovka;Čečen-Aul
+Shevchenkove|UA|Kharkiv|98|3u2|2va|1z|Schewtschenkowe;Ševtšenkove;Chevtchenkove;Şevçenkove;Xevtxénkove;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Chelbasskaya|RU||9i|3jq|31d|1z|Tsjelbasskaja;Chelbaskaya
+Chennamukkapalle|IN||6t|132|62t|1z
+Chealea|KH||78|x3|83h|1y
+Chentian|CN||7i|1qr|8sb|1x
+Chern’|RU||9i|44h|2uj|1v|Tsjern
+Chemillé-Melay|FR||9k|3n5|-20|1v
+Chengappalli|IN||6t|v4|5z2|1u
+Kubey|UA||98|3j7|27u|1t|Kubéï;Kubej;Cubei;Chervonoarmiis'ke
+Cherry Hills Village|US||2p|324|-83k|1t
+Cheverly|US||48|305|-5xo|1t
+Chermside West|AU||8c|-242|bt2|1s
+Cherryville|IE||8z|43o|-jd|1s
+Cherry Valley|US|California|3p|2md|-90y|1s
+Chervonohryhorivka|UA||98|3oa|2ny|1r
+Chépica|CL||4u|-2oh|-5hz|1q
+Cherlopalle|IN||6t|11t|64h|1p|Cherlopalli
+Chelno-Vershiny|RU||9p|475|3xx|1o|Tsjelno-Versjiny
+Cherepanova Hora|UA||98|3w3|2cs|1o
+Cherryville|US|North Carolina|48|2qa|-6a2|1o|Cherry Ville
+Chelūr|IN||6t|123|60y|1n
+Shenkursk|RU||9i|4sj|3b6|1n|Sjenkursk;Schenkursk;Chenkoursk;Šenkursk;Sjenkoersk;Szenkursk
+Chesapeake Beach|US||48|2zh|-5wl|1n
+Chernihivka|UA||98|3n3|2sm|1m|Tschernihiwka
+Chela|AO||x|-y6|16v|1m
+Chesma|RU||7z|45h|4oh|1m|Tsjesma
+Cheshire Village|US||48|37a|-5mi|1m
+Cuetzalan|MX||41|1jm|-7iw|1m|Chetzalán;Coetzalan
+Cheraw|US||48|2oe|-65w|1m|Chera;Cherah
+Chegunta|IN||6t|1dx|61y|1l
+Chornukhyne|UA||98|3q8|2z0|1l|Chernukhino;Tschornuchyne;Čornuhine;Chornújine;Tšornuhhõne;Tsjornukhine;Czornuchyne;Cernuhîne;Tjornukhyne
+Chevreuse|FR||9k|3rb|5n|1l|Caprosia
+Cheremshan|RU||9i|47u|3z3|1k|Tsjeremsjan
+Chełm Śląski|PL||a5|3v7|1hc|1k
+Shevchenkove|UA|Odesa|98|3ij|29h|1k|Schewtschenkowe;Sjevtsjenkove;Ševtšenkove;Ševčenkovė;Chevtchenkove;Sevcsenkove;Xevtxènkove;Ševčenkovo;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Eggesin|DE||8r|454|135|1k|Chëczëno;Egezīne
+Cherdyn’|RU||7z|4ns|4cw|1k|Tsjerdyn;Tscherdyn
+Chenar Village|IN||6t|23k|5ow|1k
+Chester|US|South Carolina|48|2oe|-69l|1j
+Chepelare|BG||9v|37x|1wk|1j|Tsjepelare;Tšepelare;Cepelare;Czepełare;Tjepelare;Chepelari
+Chernyshkovskiy|RU||a4|3qi|39b|1j|Tsjernysjkovskij;Tzhernyshkovskiy
+Chelsea Heights|AU||8j|-2xn|b75|1i
+Chernolesskoye|RU||9i|3g8|3df|1i|Tsjernolesskoje
+Cheerful Garden|HK||6i|1pu|8td|1i
+Chennagiri|IN||6t|w2|60v|1h
+Cheylus|TN||1e|2tk|ry|1h
+Cherra|IN||6t|1up|6m7|1h
+Chester|US|New Hampshire|48|3bc|-5hy|1g
+La Chevrolière|FR||9k|3mt|-4h|1g|Kerc'hevrel;Kerchevrel;Caprioleria;Chevrolière
+Chelsea|US|Michigan|2q|39k|-6he|1g|Çelsi;Chelsia
+Chemerivtsi|UA||98|3s5|216|1g|Czemerowce
+Cheddar|GB||9b|3yg|-7q|1g
+Pulyny|UA||98|3w7|26j|1f|Chervonoarmiisk;Pulini;Poulyny;Puliny;Cervonoarmiisk;Pulin;Chervonoarmeysk;Chervonoarmiys’k
+Chernyshevskiy|RU||7x|4v2|8of|1f|Tsjernysjevskij
+Chehimet Nord|TN||1e|2qf|sv|1f
+Chentian Village|CN||7i|1qr|8sc|1f
+Chêne Feuillu|FR||9k|3rz|5r|1f
+Chestertown|US|Maryland|48|30x|-5vb|1f|Chester Town;Chester-Town
+Czempiń|PL||a5|40u|1ak|1f|Čempiņa;Chempin’
+Cherokee|US|Iowa|2f|3ar|-7df|1e
+Chembagarāmanpudūr|IN||6t|mx|5z9|1e
+Chemodanovka|RU||9i|43v|3hp|1e|Tsjemodanovka
+Chechelnyk|UA||98|3py|29k|1e|Tchétchelnyk;Tsjetsjelnyk;Tschetschelnyk;Chechel'nyk;Tšetšelnyk;Csecselnik;Čečeľnyk;Çeçelnık;Txetxelnik;Tjetjelnyk;Chechelnik;Čečel'nyk;Txetxelnyk;Czeczelnik
+Chetian|CN||7i|28y|8ex|1d
+Cholīcheh|IR||7o|2hj|3wn|1d|Chelīcheh;Chelecheh
+Chertsey|CA||59|3jz|-5p9|1c
+Cheltenham|US||48|33a|-5sl|1c
+Seat Pleasant|US||48|302|-5xn|1c|Chesapeake Junction
+Cheboygan|US||2q|3it|-6in|1b
+Cheratte|BE||8t|3ws|fr|1b
+Chekhov|RU|Sakhalin Oblast|7f|3nt|ayf|1b|Tsjekhov
+Cherokee Village|US||2f|2su|-728|1a
+Chesterbrook|US||48|33c|-5tm|1a
+Chieming|DE||8r|3p1|yu|19|Cheaming
+Cheremnoye|RU||63|43p|6f5|19|Tsjeremnoje;Cheremnovo
+Cheptai|KE||16|28|2ns|18
+Chehel Ḩojreh|IR||7o|2t5|4lb|18
+Cherry Grove|US|Ohio|48|30j|-6i8|18|Cherrygrove
+Chengmen|CN||7i|207|97k|17
+Chęciny|PL||a5|3x4|1ku|17|Hencini
+Cherkaska Lozova|UA||98|3v7|2sm|16|Cherkas’ka Lozova
+Chester|US|Maryland|48|30a|-5vx|16
+Znamyanka|UA|Odesa|98|3mm|2c5|15|Znamianka;Chervonoznamianka;Chervonoznamenka
+Cherkaske|UA|Dnipropetrovsk|98|3rb|2qa|15
+Chermoz|RU||7z|4ja|4c0|15|Tsjermoz
+Chelan|US||3p|3ow|-99e|15
+Chornoye|RU||9i|4av|2xr|14|Chërnoye
+Cheremisinovo|RU||9i|405|2vi|14|Tsjeremisinovo
+Cheseaux|CH||a7|3lf|id|13|Chesaux-sur-Lausanne
+Chester|US|New York|48|36w|-5qb|13
+Chernoyerkovskaya|RU||9i|3i7|2wx|13|Tsjernojerkovskaja
+Cherkaske|UA|Donetsk|98|3rn|2vv|13|Cherkas’ke
+Checca|PE||3o|-147|-5ib|12|Checa
+Chesterfield Court House|US||48|2vu|-5za|12|Chesterfield
+Cherniiv|UA||98|3rq|1wo|12|Cherniyev;Cherniyiv
+Cheval-Blanc|FR||9k|3do|e2|12|Lo Chivau Blanc
+Le Cheylard|FR||9k|3gr|ca|12|Lo Chailar;Cheylard
+Chesterfield|US|New Hampshire|48|3b5|-5lb|12
+Cherskiy|RU||6z|5az|cg5|11|Tsjerskij
+Chernoistochinsk|RU||7z|4ge|4mb|10|Tsjernoistotsjinsk
+Chenār-e Soflá|IR||7o|2ol|3pa|10
+Chevry-Cossigny|FR||9k|3rc|7e|10
+Chelem|MX||3z|1n3|-6xa|z|Chelen
+Chernukha|RU||9i|4ag|3dk|y|Tsjernukha
+Checacupe|PE||3o|-12z|-5ih|y|Checcacupe
+Cherkizovo|RU||9i|4bi|2wz|y|Tsjerkizovo
+Saint-Michel-Chef-Chef|FR||9k|3n2|-60|y|Sant-Mikael-Keveger;Chemicherium
+Cherkasskoye|RU||9s|41n|3n5|y|Tsjerkasskoje;Cherkaskoye
+Cherasco|IT||9o|3g0|lu|y|Cherasch
+Kampong Chenderong Balai|MY||6v|bh|7ss|y|Chenderong Balai
+Chornianka|UA||98|3ll|2ko|y|Chernyanka;Chornyanka
+Chesnokovka|RU||7z|47p|4bf|x|Tsjesnokovka
+Chernyshëvka|RU||7w|3es|a9u|x|Tsjernysjevka
+Chemal|RU||63|3yu|6mv|x|Tsjemal
+Checotah|US||2f|2qj|-7dc|x
+Cheung Sha Wan Estate|HK||6i|1q1|8t4|w
+Kemajuan Tanah Chemplak|MY||6v|6m|7xy|w|Chemplak;FELDA Chemplak
+Chevremont|NL||8m|3xc|gu|w|Geitberg
+Chenalhó|MX||41|1ax|-75b|v|Chenalo
+Chervishevo|RU||7z|4e7|51r|v|Tsjervisjevo
+Chelopechene|BG||9v|3ap|1t7|v|Čelopečene
+Cherry Valley|US|Illinois|2f|39b|-6v3|v
+Cherniatyn|UA||98|3r6|1yp|u|Czerniatyn;Chernyatin;Chernyatyn
+Cherry Hill|CA||59|3co|-67n|u
+Chemainus|CA||5b|3rw|-9jo|u
+Chenderong|MY||6v|c9|7sp|u|Chendrong
+Chesham Bois|GB||9b|3zn|-1p|u
+Chester|US|Vermont|48|3c6|-5lo|u
+Chelgard|IR||7o|2i7|3v8|u|Chelgerd
+Chéreng|FR||9k|3wl|8x|u
+Cherat Cantonement|PK||6q|2ly|5jp|u
+Chernichenskiye Dvory|RU||9i|3z3|2s5|u|Tsjernitsyno
+Chelsea|US|New York|48|34s|-5q3|u
+Cheddleton|GB||9b|43f|-5o|t
+Chelmer|AU||8c|-24f|bsy|t
+Chenango Bridge|US||48|395|-5uq|t
+Cherusti|RU||9i|4ab|335|t|Tsjerusti;Čerusti;Tsjeroesti;Cherust’
+Cheţani|RO||8u|3l3|1ur|s|Chelani
+Chef-Lieu|IT||9o|3j3|kf|s
+Chornohuzy|UA||98|3q3|1y3|s|Chernoguzy;Chornoguzy
+Chervonyi Khutir|UA||98|3w1|2d8|s
+Taxa Cheya|IQ||5z|2uw|3dk|s|Taxa Çêya;Taxê Çêya;Mihela Çêya;Nav Doskiya;Chey;Cheyi
+Chermignon-d'en Haut|CH||a7|3kl|kr|s
+Chervone|UA|Zhytomyr Oblast|98|3us|287|s|Tscherwone;Tjervone;Červone;Czerwone;Chervonoye
+Chernivtsi|UA|Vinnytsia|98|3qu|264|r|Tscherniwzi;Tjernivtsi;Černivci;Çernivtsi;Czerniejowce;Cernivți
+Chelsea|US|Maine|48|3ex|-5do|r
+Chełmiec|PL||a5|3tv|1le|r
+Cheny|FR||9k|3p7|9t|q
+Chester Heights|US||48|32t|-5to|q
+Chella|ES||9d|30g|-1u|q|Xella
+Chewelah|US||3p|3q4|-930|q
+Chetwynd|CA||2o|4aq|-9dw|q
+Chessy|FR|Île-de-France|9k|3rs|7p|q
+Chornomorka|UA||98|3lk|2fi|q|Chernomorka
+Chepintsi|BG||9v|3as|1t3|p
+Chesterland|US||48|37c|-69y|p
+Chevilly|FR||9k|3pf|57|p
+Chokurdakh|RU||6z|5g6|beu|p|Tsjokurdakh;Tschokurdach;Tšokurdah;Čokurdachas;Čokūrdāha;Csokurdah;Çokurdah;Txokurdakh;Čokurdach;Tšokurdahh;Czokurdach;Chakurdakh;Chekyrdakh
+Chester|US|West Virginia|48|34t|-67s|p
+Cherryvale|US|South Carolina|48|2mc|-67i|p
+Chesterfield|US|Indiana|38|33f|-6ls|p
+Cherechiu|RO||8u|3nm|1ph|o
+Chef-Boutonne|FR||9k|3k3|-7|o
+Cherves-Richemont|FR||9k|3j2|-z|o
+Cherán Atzicuirín (Cheranástico)|MX||41|1iq|-7ve|o
+Nova Znamianka|UA||98|3sj|2kt|o|Chervona Znamianka;Nova Znamyanka
+Charnawchytsy|BY||9g|412|1ty|o|Czernawczyce;Chernavchitsy;Chernavchitse
+Chahār Rūstā’ī|IR||7o|2a3|3x2|o|Chāh Rūstā’ī;Chehār Rustai;Chehār Rustar;Chahar Roosta’i
+Chester|CA||35|3fq|-4yg|n
+Jenāqerd|IR||7o|2ye|3po|n|Chenāqerd;Ḩanāqerd;Jenagherd
+Chetlat|IN||6t|wh|5lz|n
+Chezani|KM||ac|-vr|3ck|n|Cezani
+Chesaning|US||2q|3by|-6hn|n
+Le Cheylas|FR||9k|3i1|gn|n|Cheylas
+Cherlenivka|UA||98|3q5|21c|m|Cerlina Mare
+Cherryvale|US|Kansas|2f|2vj|-7df|m|Cherry Vale;Cherryville
+Chernomorets|BG||9v|39w|24s|m
+Chetek|US||2f|3hv|-72l|m
+Cheltenham|AU|South Australia|8b|-2ov|aos|m
+Cheltenham|AU|New South Wales|8l|-2ls|bnn|m
+Cheney|US|Kansas|2f|2wj|-7jm|m
+Chorna|UA||98|3oa|29i|m|Chërnaya;Cherna
+Chester|US|California|3p|33z|-9cr|l
+Cherokee|US|North Carolina|48|2qj|-6ff|l
+Chexbres|CH||a7|3l4|iu|l
+Cherna|UA||98|3pq|1sf|l|Chorna
+Stare Selo|UA|Sumy|98|3x7|2op|l|Chervone;Cervone;Chervonoye
+Chérso|GR||8p|365|1ra|l|Khérso;Khérson
+Cherepet’|RU||9i|46c|2t2|l|Tsjerepet
+Chevy Chase Village|US||48|309|-5y4|l
+Chey Chouk|KH||78|tp|83r|k
+Chervonoye|UA||9t|3hc|2ll|k|Chervone
+Chernihiv Quarter|UA||98|3z4|2dh|k|Chernihivskyi kvartal
+Chelva|ES||9d|32f|-2s|k|Xelva
+Chelsea|US|Oklahoma|2f|2ti|-7d3|k
+Checheleve|UA||98|3s6|2kr|k|Chechelevo
+Chervenovo|UA||98|3qn|1ql|k|Cserlenő;Chervenev;Cherveniovo;Chervenevo;Cherveneve;Cherven'ovo
+Chevereşu Mare|RO||8u|3iv|1np|j|Chevereşul-Mare
+Chermalyk|UA||98|3nf|2x1|j|Tsjermalyk;Chermalik;Čermalika;Tšermalõk;Çermalyk
+Cheadle Heath|GB||9b|44c|-63|j
+Cherga|RU||63|3z9|6lo|j|Tsjerga
+Cherkassy|RU||7z|3zx|4ci|j|Tsjerkassy;Cherkasy
+Chernyshevo|UA||9t|3j6|2kv|j
+Chenoweth|US||3p|3ir|-9cs|j
+Cherisy|FR||9k|3rf|3z|i|Cherizy
+Chebika|TN||1e|2nc|m2|i|Chebica;Chebikha
+Chervona Kamianka|UA||98|3r5|2kx|i|Chervona Kamenka
+Checea|RO||8u|3j3|1lw|i|Checia
+Chepa|UA||98|3pj|1ry|i|Csepe
+Esman|UA||98|3zt|2mn|i|Chervone;Chervonoye
+Churubusco|US||38|36j|-6l0|i|Cherubusco
+Preobrazhenka|UA|Kherson|98|3kb|2lc|i|Chervonyy Chaban
+Chopovychi|UA||98|3x7|28f|i|Chapovichi;Chopovichi;Chepovichi;Tschopowytschi;Chopovich;Tchopovytchi;Čopovyči;Çopovıçi;Czopowyczi;Ciopovîci
+Chenoa|US||2f|356|-6ug|i
+Chevrières|FR|Hauts-de-France|9k|3t3|7g|i
+Chelopech|BG||9v|3am|1uw|i|Čelopeč
+Chevaigné|FR||9k|3px|-4j|i|Kavaneg;Chavegneium
+Chernechchyna|UA|Sumy|98|3vq|2op|h|Chernetchina;Tsjernetsjtsjyna;Tschernetschtschyna;Chernetchino
+Chebsara|RU||9i|4kg|2zw|h|Tsjebsara;Chabsara
+Cheswick|US||48|34m|-65o|h|Chestwick
+Chéméré|FR||9k|3mw|-5c|h|Keverieg;Camariacus
+Cherche|UA||98|3zq|1x4|h|Chernche
+Chepachet|US||48|38g|-5j3|h|Chepatset;Chepatchet
+Chester|US|New Jersey|48|35a|-5ri|h
+Chézard-Saint-Martin|CH||a7|3mr|j9|h
+Cheddington|GB||9b|401|-1u|g
+Chesilhurst|US||48|32d|-5s0|g
+Chendu|RO||8u|3kv|1wp|g
+Cherryville|US|Pennsylvania|48|357|-5tu|g
+Chornobyl|UA||98|3yf|2by|g|Tschernobyl;Chernobil;Txernòbil;Chernobyl;Chornóbil;Černobyl;Tjernobyl;Ĉernobilo;Tchernobyl;Csernobil;Černobyl';Tsjernobyl;Czarnobyl;Cernobîl;Tšornobõl;Tšernobyl;Černobylis;Tsjornobyl;Chernobyl’
+Chester|US|Georgia|48|2hz|-6ez|g
+Kemajuan Tanah Chemplak Barat|MY||6v|6n|7xx|g|FELDA Chemplak Barat;Chemplak Barat
+Cherokee|US|Oklahoma|2f|2u3|-7l8|g
+Chengtougu|CN||7i|30q|936|g|Ch’eng-t’ou-ku
+Chester Center|US||48|370|-5l9|g
+Cheptainville|FR||9k|3qv|6c|f
+Chërnaya Kholunitsa|RU||97|4jh|3zo|f|Tsjernaja Kholunitsa
+Chernelytsia|UA||98|3rl|1yn|f|Czernelica
+Chertizh|UA|Zakarpattia|98|3pv|1sk|f
+Chessy|FR|Auvergne-Rhône-Alpes|9k|3jh|cu|f
+Chesapeake|US|West Virginia|48|2y6|-6ai|f
+Chevy Chase Heights|US||48|34w|-63u|f
+Cherednyky|UA||98|3sd|2kx|f
+Corio|IT||9o|3hv|kx|f|Cheuri
+Chevannes|FR||9k|3qt|6s|f
+Chembényoumba|YT||ah|-zg|3h8|f|Chembénioumba
+Chindini|KM||ac|-x4|3ct|f|Shendini;Chendini
+Shebutyntsi|UA||98|3qs|23h|f|Chéboutyntsi;Shebutintsi;Shebutintsy
+Chéroy|FR||9k|3pw|8c|f
+Chesterfield|US|South Carolina|48|2oi|-66h|f
+Cherré|FR||9k|3pt|1u|e
+Chīshīn|IR||7o|2oj|3qv|e|Cheshīn;Chashīn
+Cheponosy|UA||98|3qo|217|e|Tchéponossy;Ceponosa;Cheponosa
+Chevillon|FR||9k|3qt|e9|e
+Cheswold|US||48|30y|-5tz|e
+Chens-sur-Léman|FR||9k|3ko|hf|e
+Cenderiang|MY||6v|bv|7t7|e|Chenderiang
+Cheshām|IR||7o|2sg|4eg|e|Cheshom;Cheshm;Chisham
+Chetvertynivka|UA||98|3qz|29d|e|Chetvertinovka
+Cherry Burton|GB||9b|45n|-1e|e
+Chalandar|IR||7o|2tl|3zl|e|Chelandar
+Cheresh|UA||98|3pm|1z6|e|Cireș
+Shyroke|UA|Odesa|98|3jo|2bl|e|Chebabcea;Kebaktschy
+Chézy-sur-Marne|FR||9k|3s3|9d|e
+Chechnya|UA||98|3rf|2wi|e|Chechnia
+Cheillé|FR||9k|3na|15|e
+Chornoholova|UA||98|3rp|1qs|d|Cornoholovo;Chornogolovo;Chernogolova
+Krynychanske|UA||98|3qz|2zn|d|Chervonohvardiys’ke;Chervonohvardiiske
+Chéraute|FR||9k|3c3|-2f|d|Sohüta;Sherauta
+Chépy|FR||9k|3v2|4l|d|Chpy
+Cherveux|FR||9k|3ky|-10|d
+Cheles|ES||9d|2yz|-k8|d
+Chewton|AU||8j|-2v0|b4q|d
+Chevanceaux|FR||9k|3hu|-n|d
+Chèvremont|FR||9k|3ob|j8|d
+Chelința|RO||8u|3nt|1ss|d|Chelniţa
+Cherbourg|AU||8c|-211|bq3|d
+Cheshmīdar|IR||7o|2pp|3la|d|Chashmīdar;Chashmīdor
+Chemaudin|FR||9k|3n6|gd|d
+Cheniménil|FR||9k|3pq|ic|d
+Chernopolye|UA||9t|3h4|2o8|d
+Chelsea|US|Vermont|48|3e7|-5l9|c
+Chenoise|FR||9k|3r1|8v|c
+Shevchenkove|UA|Mykolaiv|98|3o2|2id|c|Chevtchenkové
+Chesterfield|US|Massachusetts|48|39r|-5mc|c
+Chesterville|US||48|3fr|-5ep|c
+Chesinț|RO||8u|3jx|1ny|c
+Cherryfield|US||48|3fx|-58p|c
+Chevillon-sur-Huillard|FR||9k|3p8|7b|c
+Chekhohrad|UA||98|3m3|2pk|c|Czechohrad;Čechohrad;Nowhorodkiwka;Novhorodkivka
+Chênehutte-Trèves-Cunault|FR||9k|3nf|-g|c
+Cheremshanka|RU||7z|4bw|4nf|c|Tsjeremsjanka
+Chew Magna|GB||9b|3yp|-79|b
+Cheux|FR||9k|3sl|-1h|b
+Chevry|FR||9k|3kk|gs|b
+Cheț|RO||8u|3nq|1q2|b
+Cheșereu|RO||8u|3nr|1pf|b
+Chekalin|RU||9i|46a|2so|b|Tsjekalin
+Tytarenkove|UA||98|3qj|30w|b|Chelyuskinets’;Cheliuskinets;Chelyuskinets
+Cheia|RO|Vâlcea County|8u|3hi|1va|b
+Chérac|FR||9k|3iy|-18|b
+Cheremushskiy|RU||9i|4q7|3na|b|Tsjeremusjskij
+Chermignac|FR||9k|3ix|-1v|b
+Chereshenka|UA||98|3py|1y7|b
+Chetopa|US||2f|2uw|-7c5|b
+Chernechchyna|UA|Dnipropetrovsk|98|3sg|2ol|b|Chernetchina;Chernetchino;Chernechina
+Chepareria|KE||16|3n|2ps|b
+Chemazé|FR||9k|3or|-26|b
+Chelford|GB||9b|43z|-6c|b
+Cherrueix|FR||9k|3r1|-4r|a|Kerruer
+Chereluș|RO||8u|3l3|1ob|a
+Chebanse|US||2f|35w|-6s7|a
+Cheverny|FR||9k|3ny|42|a
+Chevak|US||49|4qx|-crz|a
+Cherokee|US|Alabama|2f|2ok|-6sd|a
+Chornyi Potik|UA|Zakarpattia|98|3qg|1rw|a|Chërnyy-Potok;Chornyy Potik;Chernyy Potok
+Chornorudka|UA||98|3ug|28q|a|Chernorudka
+Cherneche|UA||98|3pj|2a7|a
+Chernyakhivka|UA||98|3vi|2gp|a
+Chendrea|RO||8u|3mw|1sq|a
+Chernitsk|RU||63|43t|6g3|a|Tsjernitsk;Çernitsk
+Chevy Chase View|US||48|30e|-5y4|a
+Chercq|BE||8t|3wj|9i|a
+Chezal-Benoît|FR||9k|3m2|5v|a
+Chechiș|RO|Maramureş|8u|3o6|1tk|a
+Chemilly-sur-Yonne|FR||9k|3p2|9w|9
+Chemiré-le-Gaudin|FR||9k|3p5|-2|9
+Cheshmeh Kabūd|IR||7o|2l9|3kx|9
+Chelmondiston|GB||9b|40f|3d|9
+Chervone|UA|Zakarpattia|98|3qj|1pv|9|Chervonoye
+Khersónisos|GR||8p|2q3|1yh|9|Hersonissos;Chersoniso
+Chevru|FR||9k|3re|8w|9
+Cheud|RO||8u|3nm|1ss|9
+Cheyres|CH||a7|3m1|iv|9
+Chesnee|US||48|2pn|-6be|9
+Cheffois|FR||9k|3ln|-27|9
+Chert/Xert|ES||9d|34k|g|9|Chert;Xert;Cheri
+Cheveley|GB||9b|412|1a|9
+Chémery|FR||9k|3nj|44|9
+Cherry Tree|US||2f|2ra|-7aw|9
+Chester|US|Montana|2p|3qr|-8k9|9
+Cheffes|FR||9k|3oa|-1e|9
+Chevrières|FR|Auvergne-Rhône-Alpes|9k|3in|c8|9
+Chester Hill|US||48|35l|-61b|9
+Chervonoivanivka|UA||98|3qe|2n9|9|Chervonoivanovka;Chervonivanivka
+Chesnyky|UA||98|3t7|1wo|9|Chesniki
+Chesterton|GB||9b|405|-3b|9
+Khet’agurovi|GE||7n|399|3dx|9|Hetagurovo;Chetagurovi;Khetagurovo;Chetagurowo;Khetaguri
+Chernovo|UA||9t|3if|2m9|8
+Chester Gap|US||48|2zx|-612|8
+Cherevakha|UA||98|3yg|1yp|8
+Chevelcha|UA||98|3ug|2i8|8|Chavel’cha;Chevel’cha
+Cheyenne Wells|US||2p|2zu|-7wb|8
+Chevincourt|FR||9k|3tj|7w|8
+Chervona Dolyna|UA||98|3mz|2iq|8
+Cheyenne|US|Oklahoma|2f|2qx|-7ov|8
+Chernyshevskoye|RU||96|47s|1r5|8|Tschernyschewskoje;Tchernychevskoïe;Tsjernysjevskoje;Eitkūnai;Czernyszewskoje;Tjernysjevskoje;Černyševskoe;Tšernõševskoje;Txernixévskoie
+Cheșa|RO||8u|3lv|1p7|8|Cheşea
+Chervonyi Tik|UA||98|3oe|2m6|8|Chervonyy Tik
+Cheviré-le-Rouge|FR||9k|3o7|-i|8
+Checheliyivka|UA||98|3qi|2k7|8|Checheliivka;Chechelevka;Chechelivka
+Chervonyi Yar|UA||98|3im|295|8|Chitai;Chervonyy Yar;Tsjervonyj Jar;Tscherwonyj Jar;Tjervonyj Jar;Červonijjara;Chervony Yar;Çervonıy Yar;Chervonnyy Yar
+Chedworth|GB||9b|3zw|-5c|8
+Chernozemnoye|UA||9t|3i5|2oq|8
+Chevy Chase Section Three|US||48|30a|-5y3|8
+Cheyssieu|FR||9k|3i7|dg|8
+Chelyadinovo|UA||9t|3hl|2t2|8
+Cheznovice|CZ||9m|3ua|12b|8
+Chénérailles|FR||9k|3k3|62|8
+Chelyan|US||48|2y4|-6ad|8
+Chew Stoke|GB||9b|3yn|-7b|8
+Cherniakivka|UA||98|3u8|2pn|8|Chernyakivka;Chernyakovka
+Chef-du-Pont|FR||9k|3t6|-3q|8
+Cherreau|FR||9k|3pv|1w|8
+Chevron|BE||8t|3vy|fx|8
+Chehreh|IR||7o|2sz|42h|8
+Chetfalva|UA||98|3pp|1rb|8
+Chetriș|RO||8u|3l3|22z|8
+Cherain|BE||8t|3ve|gb|7
+Chereușa|RO||8u|3nx|1qd|7
+Cheímarros|GR||8p|367|1sm|7|Khímarros
+Cheremysh|RU||7z|4dy|4v5|7|Tsjeremysj;Ĉeremyŝ
+Chevagnes|FR||9k|3lh|9v|7
+Chesapeake|US|Ohio|48|2yr|-6d2|7
+Chevroux|FR||9k|3ku|dr|7|Chevoux
+Cherryville|CA||5b|3vk|-95i|7
+Cheswardine|GB||9b|42v|-6q|7
+Chenebier|FR||9k|3oc|io|7
+Cherokee|US|Kansas|2f|2vr|-7bd|7
+Chechiș|RO|Sălaj County|8u|3n1|1sr|7
+La Chevallerais|FR||9k|3nv|-4n|7|Kergaval;Chevallerais;La Chevalerais
+Chevy Chase Section Five|US||48|30a|-5y3|7|Section Number 5 Village of Chevy Chase;Chevy Chase Section 5
+Shelekhove|UA||98|3og|2bq|7|Chélékhové;Shelekhovo
+Chemy|FR||9k|3wd|8b|7
+Checute|MX||41|16e|-74b|7
+Chesapeake City|US||48|31t|-5ul|7
+Suvore|UA||98|3m7|2it|7|Chervona Zirka
+Chenevières|FR||9k|3qs|if|7
+Chepniers|FR||9k|3hq|-v|7
+Chestertown|US|New York|48|3d9|-5p0|7
+Cheleh Bān|IR||7o|2ku|3my|7
+Cherevky|UA||98|3v9|2lo|7|Cherevki
+Chervona Dibrova|UA||98|3pp|201|7|Dumbrava Roșie
+Chéry-lès-Pouilly|FR||9k|3ty|a0|7
+Chemellier|FR||9k|3ni|-10|7
+Cheriton Bishop|GB||9b|3ww|-ae|7
+Cherkaski Tyshky|UA||98|3v8|2t4|7|Cherkas’ki Tyshky
+Chervonokostyantynivka|UA||98|3py|2ka|6|Kostiantynivka;Kostyantynivka;Chervonokostiantynivka
+Cherveix-Cubas|FR||9k|3ht|34|6|Charves e Cubas
+Chevenon|FR||9k|3mc|8z|6
+Chester|US|Massachusetts|48|39g|-5mq|6
+Cheminon|FR||9k|3re|dm|6
+Chenac-Saint-Seurin-d'Uzet|FR||9k|3ig|-2a|6|Chenac-Saint-Seurin-dUzet
+Chertizh|UA|Zakarpattia|98|3qw|1qg|6|Chertezh
+Cherry Valley|US|Arkansas|2f|2qc|-703|6
+Chevrières|FR|Auvergne-Rhône-Alpes|9k|3hj|ep|6
+Cheneyville|US||2f|2e5|-74d|6
+Cheshmeh Qaşşābān|IR||7o|2ou|3qi|6|Cheshmeh Qaşaban
+Chehuayo Grande|MX||41|1ja|-7sr|6
+Chenequa|US||2f|3br|-6tj|6
+Chey|FR||9k|3km|-5|6
+Chemillé-sur-Dême|FR||9k|3oe|1t|6
+Chéniers|FR||9k|3kr|53|6
+Chedburgh|GB||9b|40z|1q|6
+Shevchenkove|UA|Mykolaiv|98|3mb|2hh|6|Chevtchenkové
+Chepelëvo|RU||9i|49a|2w5|6
+Chevetogne|BE||8t|3vi|e8|6
+Chenār-e Gharb|IR||7o|2r6|40c|6
+Chemilly|FR||9k|3l5|97|6
+Chevenez|CH||a7|3nn|jg|6
+Cherry Point|CA||5b|3rb|-9j8|6
+Cherves|FR||9k|3ls|2|6
+Cheglevici|RO||8u|3k3|1kt|6
+Cheix-en-Retz|FR||9k|3n2|-51|6|Keiz-Raez
+Cherry Gardens|AU||8b|-2pe|ap6|6
+Cherhill|GB||9b|3yv|-5f|6
+Checcapucara|PE||3o|-13e|-5j5|6|Checa Pucará
+Chernyk|UA||98|3qt|1rx|6|Chernik
+Chélieu|FR||9k|3if|f8|6
+Chovno-Fedorivka|UA||98|3uw|2nn|6|Chelno-Fëdorovka
+Chele|MX||3x|1sg|-865|6|Chile
+Cherato|MX||41|1ij|-7wb|6
+Chenay|FR||9k|3kp|-3|6
+Chenières|FR||9k|3tf|g1|6
+Cheriton Fitzpaine|GB||9b|3x8|-a1|6
+Cheia|RO|Cluj County|8u|3la|1tv|6
+Cheminot|FR||9k|3rz|h2|6
+Chechmil|MX||3z|1lp|-6sc|5
+Cherry Grove|US|Washington|3p|3j8|-9gi|5|Chery Grove
+Chester|US|Maine|48|3i5|-5aa|5
+Chervone|UA|Mykolaiv|98|3mq|2hy|5
+Chevenoz|FR||9k|3kq|ig|5
+Chevinay|FR||9k|3j5|ct|5
+Çukurýurt|TM||5x|2y7|4e1|5|Chekur-Yurt;Chukur-Yurt
+Chearsley|GB||9b|3zv|-2o|5
+Druzhkivske|UA||98|3r3|2wf|5|Chervonozoryane
+Cheriu|RO||8u|3ml|1p6|5
+Chan Laguna|MX||3z|1fc|-6yl|5|Chen Laguna
+Cheia|RO|Brașov County|8u|3ic|1yc|5
+Charkasy|BY||9g|45d|23x|5|Cherkasy;Cherkassy
+Chera|ES||9d|320|-2p|5|Xera
+Chekhivka|UA||98|3tj|2hg|5|Chekhovka
+Chervone|UA|Kyiv Oblast|98|3vw|2gr|5
+Chervone|UA|Odesa|98|3ky|297|5|Chervonoye
+Chenecey-Buillon|FR||9k|3my|gk|5
+Chemblás|MX||3z|1jc|-6z0|5|Chamblas
+Novokalcheve|UA||98|3n4|2e7|5|Chervonoarmiiske
+Cheshire|US|Massachusetts|48|3a8|-5n8|5
+Chessy-les-Prés|FR||9k|3pe|aw|5
+Chentón|MX||41|191|-73j|5
+Cherestur|RO||8u|3k5|1km|5
+Cherry Valley|US|New York|48|3aw|-5rn|5

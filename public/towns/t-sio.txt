@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shijiazhuang|CN||7i|2xo|8u0|18fk|Thạch Gia Trang;Š’-ťia-čuang;Šidziadžuangas;Ŝiĝjaĝŭango;Siŏh-gă-cŏng;Sicsiacsuang;Šidzjadžuana;Swzgyahcuengh;Chio̍h-ka-chng-chhī;Šidžjadžuang;Shicziyajuan;Şiciyajuang;Shihjiazhuang
+Changzhou|CN||7i|2g9|997|pe5|Changtsjou;Csangcsou;Thường Châu;Čangdžou;Čchang-čou;Ĉangĝoŭo;Siông-chiu-chhī;Siòng-ciŭ;Čangdžov;Changchow;Ch’ang-chou
+Changde|CN||7i|28n|8ma|b8u|Changteh;Čchang-te;Sòng-tet-sṳ;Čangdė;Thường Đức;Siòng-dáik;Siông-tek-chhī;Ch’ang-te
+Shangrao|CN||7i|271|93m|8m5|Šang-žao;Thượng Nhiêu;Sjangrao;Siông-ngièu;Song-ngièu-sṳ;Siōng-jiâu-chhī;Shang-jao
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Xiangtan|CN||7i|25d|8pm|7eh|Siang-tchan;Sjantan;Siong-thâm-sṳ;Tương Đàm;Siong-thâm-chhī;Siŏng-tàng;Siangtan;Hsiang-tan
+Xiangxiang|CN||7i|251|8ol|1ta|Tương Hương;Siong-hiông-sṳ;Siangsiang
+Sioux Falls|US||2f|3cy|-7gp|1bn|Sūfolsa
+Siracusa|IT||9o|2v0|16h|xs|Syracuse;Syrakuzy;Syrakus;Syrakusy;Sirakuzo;Syrakusa;Syracusae;Siracuza;Sarausa;Sirakuze;Siraküza;Sirakuz;Siracuxa;Sioracús;Sirakūzas;Sirakūzai;Sirakusa
+Sioux City|US||2f|3a2|-7fs|n0|Kota Sioux
+Södertälje|SE||9w|4kg|1cz|jo|Telga australis;Sioderteljė
+Shiojiri|JP||7q|2sa|an9|io|Sioziri-chhī;Sioziri
+Siocon|PH||71|lf|9fa|e8|Siacon;Siocin;Siokon
+Skövde|SE||9w|4i7|12h|a8|Schedvia;Šiovdė;Skövd;Sköfde
+Sitten|CH||a7|3kf|kg|9n|Sion;Sedunum;Sionas;Sião;Sion i Sveits
+Sønderborg|DK||8y|48j|r7|7q|Sonderburg;Synneborre;Sionderborgas;Soenderborg
+Siófok|HU||8v|3ma|1e6|6e
+Söderhamn|SE||9w|4qa|1be|3f|Sioderhamnas
+Solim|IN||6t|17e|5ox|31|Siolim
+Shannon|IE||8z|42e|-om|2v|An tSionna;Sionainn;Šanonas
+Sioux Center|US||2f|3bo|-7f6|23|Siua Centro
+Sioux Lookout|CA|Ontario|5d|3v6|-73c|1m
+Sioux Lookout|CA|Ontario|5d|3v3|-73i|t
+Sionogan|PH||71|gp|9bz|r
+Sioguí Abajo|PA||4g|nk|-6dm|r
+Sion Mills|GB||9b|487|-kr|m|Sion Mill
+Sioba|CI||0|kk|-mn|i
+Sion-les-Mines|FR||9k|3om|-4f|f|Hezin-ar-Mengleuzioù
+Sciolze|IT||9o|3h9|lw|e|Siosse
+Sion Hill|VC||54|10j|-4q2|e
+Sióagárd|HU||8v|3kv|1ft|d
+Sørvágur|FO||85|4sf|-kb|b|Sørvåg;Siorvaguras;Saurvogur;Sørvaag;Soervaag
+Sioguí Arriba|PA||4g|nq|-6do|b
+Sionfan|CI||0|r7|-h9|a|Syonfan
+Siorac-en-Périgord|FR||9k|3gi|2r|9|Sieurac de Perigòrd
+Sion|NL||8m|40h|c1|8
+Sioni|GE||7n|3ad|3fv|8
+Sioux Rapids|US||2f|3b5|-7cb|8|Siuaj Rapidoj
+Sion|PE||3o|-lb|-5xb|8
+Sièn|BF||1a|z9|-82|7|Sion
+Sion|CA||5b|3s6|-955|7

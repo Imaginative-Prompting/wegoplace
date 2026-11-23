@@ -1,0 +1,725 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kunming|CN||7i|1xk|7xc|19wy|Côn Minh;Kchun-ming;Khun-bêng-chhī;Kŏng-mìng;Kuņmina;Gvwnhmingz;Kunminq
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Khulna|BD||6a|1rd|6ws|bkv|Kulno;Xulna;Hulna
+Kaifeng|CN||7i|2oo|8tj|b79|Kai Feng;Keyféng shehiri;Khai Phong;Kchaj-feng;Kăi-hŭng;Kayfin;Khai-hong-chhī;Kai-fêng Fu
+Kathmandu|NP||6r|24y|6l0|b4n|Katmandú;Katmanduo;Katmandou;Catmandu;Kathmandau;Kathmandou;Katmandoe;Katemandu;Catmandum;Katmandó;Khatmandu
+Kharkiv|UA||98|3uu|2sp|ayr|Charkiw;Charkiv;Ĥarkov;Harkiv;Harkova;Charcovia;Charkovas;Harkiva;Charkov;Charków;Carcóvia;Kharkov;Jarkov;Ĥarkivo;Khar’kov
+Qujing|CN||7i|1ys|80a|av9|Čchü-ťing;Khúc Tĩnh;Kuóh-cêng;Khiok-chēng-chhī
+Qinzhou|CN||7i|1p2|8dt|a03|Ginhcouh;Kĭng-ciŭ;Čchin-čou;Khîm-chû-sṳ;Khâm Châu;Khim-chiu-chhī;Ch’in-chou
+Shubrā al Khaymah|EG||c|2bp|2et|9kj|Shubra al-Khayma
+Khartoum North|SD||r|17h|2id|7t6|Bahri;Khartum Nord;Sjeverni Kartum;Khartoum Nord;Jartum Norte
+Odesa|UA||98|3l5|2de|7sp|Odessa;Odessus;Udessa;Odessza;Ades;Odess;Khadjibey
+San Francisco|US||3p|2wx|-9g2|6dv|San-Francisko;Frisco;Sanfrancisko;San Frantzisko;Kapalakiko;Franciscopolis;San Fransiskas;São Francisco;San Fransisko;San Franciscu;Khiu-kîm-sân;San-Fransisko;San Francisko;San Fransisco
+Dera Ismail Khan|PK||6q|2gf|5gy|5w0
+Huangshi|CN||7i|2c1|8vl|5b5|Huangsji;Chuang-š;Huangŝi;Hoàng Thạch;Uòng-siŏh;N̂g-chio̍h-chhī;Khuanshi;Huan-shih;Huang-shih;Huan-shi;Hwangshih
+Helsinki|FI||92|4n5|1xa|531|Khel'sinki;Helsingfors;Helsinko;Helsinky;Helsingi;Heilsincí;Helsinqui;Helsingia;Helsínquia;Helsset;Xélsinki;Èlzinki;Hel'sinki;Helsėnkis;Elsinki;Stadi
+Khabarovsk|RU||7w|3qm|afa|4rq|Chabarowsk;Jabárovsk;Chabarovsk;Ĥabarovsk;Habarovszk;Chabarofsk;Habarovska;Chabarovskas;Xabarovsk;Khbarovsk;Khabarovka
+Kota Bharu|MY||6v|h0|7w0|4e1|Kota Bahru;Bharu;Kô-tá-ha̍p-lû-sṳ;Khota Bahru;Khota Baharu;Kota Baharu
+Rahim Yar Khan|PK||6q|26y|5fa|3zm|Rahimyar Khan;Rahimjar Khan;Rahim Jar Ĥan;Rahimjarhan;Bahim Yar Khan
+Dera Ghazi Khan|PK||6q|2bh|5g8|3td|Dera Gazi Chanas;Dera Gazi Ĥano;Deri-Ghazi Khan;Dera Ghoz Khan
+Al Khuşūş|EG||c|2br|2f0|3rt|El-Khuṣûṣ
+Kenitra|MA||d|2n6|-ia|3mt|Kenitro;Al-Kunajtira;Kenitre;Khenifra
+Al Kharj|SA||7e|1v4|3nh|3a5|El-Harc;Al Khardj
+Gujangbagh|CN||7t|2v3|661|35l|Ciudad de Jotán;Khotan;Hoten;Hotan;Xoten;Xotan;Chotan;Hotanas;Ho-t’ien;Gujiangbage
+Hancheng|CN||7i|2qi|8ir|32a|Khanchen
+Khamis Mushait|SA||7e|1eu|3ap|2zo|Chamis Muschait;Khamis Mushayt;Chamis Mušaitas;Chamis Muszajt;Ĥamis Muŝajt;Hamis Muşayt
+Canberra|AU||8l|-2q0|bi9|2u6|Kanbero;Camberra;Kanbera;Kanberra;Kamberra;Kānapera;Kambra;Kanberr;Khâm-phì-là
+Kyzylorda|KZ||7d|3gl|51z|2qk|Qızılorda;Perovsk;Kzyl-Orda;Ak-Mechet;Fort Perovsky;Qysylorda;Qyzylorda;Khizilordà;Kõzõlorda;Kizilorda;Qiziloʻrda
+Ras Al Khaimah|AE||6c|1zn|4be|2pr|Ras al-Khaimah;Ra’s al-Chaima;Ras el Khaïmah;Ras el-Kheima;Ras al-Hajma;Ras al-Chajma;Ras al Hajma;Resü'l-Hayme;Ra’s al Khaymah
+Hulunbuir|CN||7i|3sp|98o|2p2|Khölönbuir
+Khorramshahr|IR||7o|2ck|3pu|2ju|Chorramschahr;Jorramchar;Koramsjar;Khorramxahr;Chorramšahr;Horamšaher;Choremšehras;Hürremşehr;Khoramshahr;Chorramszahr;Khurramshahr;Khorramchahre
+Khorramabad|IR|Lorestan Province|7o|2l1|3qc|2jm|Khur Ramābād
+Katowice|PL||a5|3vm|1gu|27q|Kattowitz;Katovice;katovitses;tcadrkatovitse;Katovicum;Katovicai;Katowihi;Katovitse;Katovîts;Katowicy;Khà-thok-vì-chṳ;Catowice
+Khomeynī Shahr|IR|Isfahan|7o|2it|3z6|251|Three Castles;Khomeynīshahr
+Khmelnytskyi|UA||98|3ta|22y|249|Chmelnyzkyj;Chmielnicki;Płoskurów;Hmeljnicki;Khmel'nyts'kyy;Proscurovia;Chmielnicius;Chmel'nyc'kyj
+Mirpur Khas|PK||6q|1yx|5bp|22e
+Ḩayy Khildā|JO||5t|2gv|2rk|1xq
+Częstochowa|PL||a5|3x4|1h4|1wx|Tschenstochau;Čenstakava;Čenstohova;Čenstochová;Czenstochau;Czynstochowy;Khìm-sṳ̂-thok-khok-ngá;Çenstoxova;Chenstochov
+Hami|CN||7t|3az|77r|1wg|Kumul;Qumul;Komul;Kha-mi
+Khimki|RU||9i|4ba|2vz|1uo|Chimki;Himki;Jimki;Ximki;Chimkai
+Kharagpur|IN|West Bengal|6t|1q2|6ql|1p1|Khargpur
+Jacobabad|PK||6q|26k|5a4|1ox|Khangarh;Jacobādad
+Khuzdar|PK||6q|259|551|1ol|Khozdar
+Khouribga|MA||d|2jc|-j7|1ni|Kouriga;Khouribja
+Al Khums|LY||1d|2ip|13m|1k3|Al-Chums;Al Ĥums;Khums;Humsas;Kums;Al-Khums;El Hums;Al Jums;El Xums;Khoms
+Thanh Khê|VN||6h|18n|8cj|1jw
+Khandwa|IN||6t|1om|5w3|1jr
+Khūy|IR||7o|2z3|3gv|1j8|Khoy;Her;Khoi;Khowy;Khvoy
+Khammam|IN||6t|1bx|66m|1ij
+Khirdalan|AZ||61|34d|3u8|1ii|Xirdalan;Hırdalan;Khurdalan;Khyrdalan
+Garhi Khairo|PK||6q|25y|58u|1hp
+Bang Khae|TH||62|121|7qx|1hm
+Kielce|PL||a5|3xb|1lb|1hh|Kelce;Kelcai;Khái-ngì-chhái;Keltse;Kieltse;Kel'tsy
+Khairpur Mir’s|PK||6q|24h|5b0|1h2|Khairpur;Khairpur Mīrs;Khaipur
+Khujand|TJ||6d|33w|5de|1h2|Chudschand;Hudžand;Khodjent;Choedzjand;Chudzjand;Xoʻjand;Chudžandas;Hucand;Khodyent;Hodjent;Khojend;Khudzhand;Khodzhent
+Khuraybat as Sūq|JO||5t|2gk|2rs|1fq
+Khānaqīn|IQ||5z|2nf|3i3|1cm|Xaneqîn;Khanikin;Kanaqin;Khaniqin;Khanaqeen;Khāneqīn
+Khān Yūnis|PS||6f|2f2|2nb|1c4|Jan Yunís;Khan Younis;Khān Yūnus;Khan Younes;Khan Yumus
+Long Khánh|VN||6h|ud|89x|1bl
+Khlong Sam Wa|TH||62|12j|7ru|1b3
+Piranshahr|IR||7o|2ty|3he|1as|Khaneh;Piranschahr;Piransjahr;Piranxahr;Piranšaher;Pîranşar;Piranšāra;Okrug Peronšahr;Piranšahr;Piranşehr;Piranszahr;Pīrān Shahr
+Khobar|SA||7e|210|3vh|1a2|El Huber;Al-Chubar;Hubar;Al Khubar
+Bang Khun Thian|TH||62|11y|7qz|19z|Bangkhunthien
+Ban Khlong Prawet|TH||62|124|7ro|18n
+Khoroshëvo-Mnevniki|RU||9i|4ay|2w3|186
+George Town|MY||6v|f1|7qq|17z|Georgetown;Penang;Ĝorĝtaŭno;Khiâu-chhṳ-sṳ;Džordžtaunas;Džordžtauna;Pinang
+Harar|ET||2|pv|390|17m|Harer;Harrar;Kharer
+Nong Khaem|TH||62|123|7qr|15q|Naung Khaem
+Khasnahzān|IQ||5z|2sk|3em|14q|Kesnezan-î Îsma‘îl;Kesnezan Teḧsîn;Kasnazān
+Khemisset|MA||d|2ly|-gv|13w|Kimisset
+Khanpur|PK||6q|27l|5ga|13k
+Siem Reap|KH||78|114|80i|12r|Ciudad de Siem Riep;Khett Siem Reab;Xiêm Riệp;Siĕm Réab;Siĕmréab;Siemreabas;Sziemreap;Siemrãp
+Kutaisi|GE||7n|39f|3al|11k|Kutaissi;Koutaïssi;Kutaiso;Khuthaisi;Koetaisi;Kutayıs;Kutaisk;Kutais
+Kāshmar|IR||7o|2pw|4if|10j|Khashmar
+Rayon KhTZ|UA||98|3uq|2t1|10e|New Kharkiv;KhTZ District;KhTZ Settlement;Novyi Kharkiv;Novyy Kharkiv;Sotsmistechko Novyi Kharkiv;Sotsmistechko Novyy Kharkiv
+Khardah|IN||6t|1r4|6ti|zn
+Khenifra|MA||d|2jh|-fq|zn|Jenifra;Chenifra;Chunajfira;Xnifra
+Khanna|IN||6t|2db|5vq|zl|Ĥanna
+Khasavyurt|RU||9i|3c5|3lf|z8|Khasavjurt;Xasavyurt;Hasavjurt;Chassawjurt;Chassaw-Jurt
+Ţūz Khūrmātū|IQ||5z|2ox|3fz|xj|Ţūzkhūrmātū;Tuz Xurmatu;Tuz Khurmatli;Tozkhurmato;Tozkhurmatu
+Battambang|KH||78|10e|7yo|x5|Khett Batdambang;Băt Dâmbâng;Batambangas;Battamban;Bătdâmbâng
+Khlong Luang|TH||62|132|7rl|wy
+Thung Khru|TH||62|11v|7r7|wd
+Khargone|IN||6t|1om|5u1|wa|Khargon
+Xiva|UZ||7g|36z|4no|vy|Chiwa;Khiva;Ĥiva;Hiiva;Chiva;Jiva;Khiwa
+Khenchela|DZ||3|2qg|ju|vt|Jenchela;Xençela;Krenchela
+Khon Kaen|TH||62|19p|7xn|vt|Khonken;Khonkenas;Khohn Ken;Khon Kan;Khonkhaen;Khon Khen;Khonkean;Konkahen
+Tando Muhammad Khan|PK||6q|1xs|5ae|vs|Tando Mohammad Khan
+Khwisero|KE||16|h|2o3|vh
+Khlong Toei|TH||62|123|7re|ua
+Hadera|IL||6n|2i4|2oy|u0|Hedora;Hudeira;Khederah;Hadeyra
+Khurja|IN||6t|26h|60a|tf|Khurĝa
+Kharian|PK||6q|2j6|5p9|sm
+Khushāb|PK||6q|2hq|5kz|sk|Khushah
+Khanty-Mansiysk|RU||7z|4pg|5br|s7|Chanty-Mansyjsk;Khanty-Mansiïsk;Chanty-Mansijsk;Ĥanti-Mansijsk;Hantõ-Mansiisk;Hanty-Mansijsk;Chanty-Mansiejsk;Khanty-Mansijsk;Janty-Mansisk;Hanti-Manszijszk;Hantî-Mansiisk;Hantimansijska;Khanti-Mansisk;Xanti-Mansi;Chanty Mansijskas;Chanti-Mansiisk;Khanty-Mansisk;Hantı-Mansiysk;Xanti-mansiysk;Khanty Mansisk
+Renala Khurd|PK||6q|2ds|5og|rt|Renala Kchurdas;Renala Hurda
+Khambhāt|IN||6t|1q0|5lq|rk|Khambāyat
+Khurarianwala|PK||6q|2fi|5nj|qv|Kurrianwala;Khurianwala;Khurrianwala
+Khōst|AF||6o|2km|5e8|qp|Houst;Xost;Khowst
+Khāmgaon|IN||6t|1lj|5wp|qa
+Khương Đình|VN||62|1ma|85y|q2
+Kharkivskyi Masyv|UA||98|3w1|2d6|q1|Kharkivskyy Masyv
+Meshgīn Shahr|IR||7o|2yo|3og|pa|Khīāv;Khīyāv;Khiov;Meshkīn Shahr
+Kholodna Hora|UA||98|3uw|2si|oq|Kholodnohirskyi;Kholodnohirskyi rayon
+Khan Na Yao|TH||62|12f|7ro|on
+Khalifah A City|AE||6c|1vv|47p|nq
+Qufu|CN||7i|2qw|90z|nn|Cjujfu;Čchü-fu;Csüfu;Khúc Phụ;Chü-fu
+Kharghar|IN||6t|1gx|5mz|me
+Khemis Miliana|DZ||3|2sq|66|md|Affreville
+Khewra|PK||6q|2ip|5mt|m8
+Khrustalnyi|UA||98|3pq|304|m3|Krasnyi Luch;Krasni Luč;Krasnyy Luch;Hrusztalnij;Krasznij Lucs;Khrustal’nyy;Krasny Luch;Krasniluch
+Kharakvasla|IN||6t|1f8|5oy|lv|Khadakvaslal;Khadakwasla
+Khomeyn|IR||7o|2lg|3v4|li|Khomeīn;Khowmeyn
+Khlong Chan|TH||62|12a|7rl|ld
+Khajoori Khas|IN||6t|27r|5ym|la
+Khadki|IN||6t|1fk|5p5|l1
+Kharar|IN|Punjab|6t|2df|5wx|kp
+Khalándrion|GR||8p|2xm|1u4|km|Chalandri;Phlya;Khalándri;Khalándhrion
+Khlong San|TH||62|125|7r7|kd
+Khanabad|AF||6o|2tw|5bz|jv|Khān Ābād
+Khopoli|IN||6t|1g7|5nr|jr
+Khāliş|IQ||5z|2lx|3fp|jg
+Khāsh|IR||7o|26e|4q2|jc|Kwāsh
+Khlong Kum|TH||62|12b|7ro|j7
+Hämeenlinna|FI||92|4pg|1vy|j1|Tavastehus;Hemenlina;Tavastum;Hämenlidn;Khamenlinna
+Xo‘jayli Shahri|UZ||7g|39t|4l5|iu|Khŭjayli Shahri
+Xaçmaz|AZ||61|376|3rl|is|Hacimaz;Haçmaz;Xachmaz;Khachmaz
+Kherson|UA||98|3lk|2il|ic|Cherson;Ĥersono;Herson;H’erson;Chersonas;Jersón;Herszon;Hersona;Xerson;Chersone;Chersonia
+Khulm|AF||6o|2ty|582|i1|Kholm
+Khatauli|IN||6t|29c|5zx|hz
+Chalkída|GR||8p|2yu|1tk|gf|Chalcis;Calcis;Khalkis;Calcide;Chalkis
+Khartsyzk|UA||98|3pg|2xy|fm|Khartsyzsk;Khartsyz’k;Harcizk;Khartsysk
+Chaniá|GR||8p|2qn|1ur|ez|Ĥanio;La Canée;Hanya;La Canea;Hania;Càndia;Khaniá
+Khanapuram Haveli|IN||6t|1by|66p|eu
+Khanzhonkivskyi|UA||98|3pm|2xo|eq|Sovyetskyi rayon;Sovyetskyi
+Khagaul|IN||6t|1z2|6k9|ec
+Khurai|IN||6t|1us|61l|e7
+Khalkhāl|IR||7o|2wi|3qt|e6
+Khorramdarreh|IR||7o|2sl|3so|e1|Khurramdarrekh;Khurramdarreh;Khorramdareh
+Khagrachhari|BD||6a|1s7|73h|e0|Changrachhari;Khagrāchari
+Al Khābūrah|OM||72|1ul|4el|dy|Al Khābūra;Khābūrah;Al-Khabourah
+Khagaria|IN||6t|1yu|6o7|dw
+Khān Shaykhūn|SY||69|2qg|2tt|dm|Khān Sheikhūn
+Khemis el Khechna|DZ||3|2tt|99|d2|Khemis El Khechma
+Khordha|IN||6t|1k2|6lu|cu|Khurda;Khurdha
+Chaïdári|GR||8p|2xl|1tr|co|Khaïdhári
+Khalīlābād|IN||6t|22d|6er|cl
+Xonobod|UZ||7m|35c|5mp|c8|Khonobod
+Khashm al Qirbah|SD||r|15l|2rs|bx|Hašm el Kirba;Khashm El Girba;Chaszm al-Kirba;Khashim al Qirba;Khasha al Qirbah;Khash al Qirbah;Khasm el Gerba;Khasm el Qirba;Kashm el Girba
+Khekra|IN||6t|287|5yo|bs
+Khairābād|IN|Uttar Pradesh|6t|24h|68b|bp
+Khambhāliya|IN||6t|1pp|5dh|bl|Khambhalia;Khambhaliva
+Khūrmūj|IR||7o|27l|3yq|bb|Khurmoj;Khormūj;Khurmudj;Khowr Mūj;Khowrmūj
+Khawr Fakkān|AE||6c|1yd|4ci|bb|Khor'fakkan;Khor Fakkan City;Khor al Fakkan;Khor Fakkān;Khawr al Fakkān;Khor Fakhan;Khorfakan;Khorfakhan
+Khairpur|PK||6q|25y|5dm|b5
+Khanzhonkove|UA||98|3pl|2xs|b4|Khanzhënkovo
+Khalabat|PK||6q|2mm|5mh|av
+Khao Saming|TH||62|yb|7wj|at
+Khwaeng Bang Khae|TH||62|121|7qw|at
+Khairtal|IN||6t|258|5ww|an
+Khetsamsenok|TH||62|12b|7re|am
+Khlong Yai|TH||62|wq|7xt|al|Khlaung Yai;Klongyai
+Khunti|IN||6t|1s4|6kw|a4
+Khangah Dogran|PK||6q|2gf|5oi|9p|Khangah-Dogra;Khānqāh Dogrān;Khāngān Dogrān;Khanga Dogran
+Khāchrod|IN||6t|1t2|5t4|9i
+Khvāf|IR||7o|2o1|4n2|98|Rūd;Rūy;Khāf
+Kholmsk|RU||7f|3mp|ayl|93
+Khaira|IN|Maharashtra|6t|1iz|5m4|8t
+Kharagpur|IN|Bihar|6t|1xs|6og|8q|Kcharagpuras
+Khairpur Tamewah|PK||6q|2a6|5ko|8m
+Kharan|PK||6q|27e|51q|8k
+Cholargós|GR||8p|2xk|1u4|8k|Holargos;Kholargós
+Khorugh|TJ||6d|2w5|5ir|8h|Khorog;Xorog
+Khairpur Nathan Shah|PK||6q|239|585|8f|Khairpur Nathoshah
+Khair|IN||6t|25m|608|8e
+Khovd|MN||6j|3pd|72k|8a|Xovd
+Khedbrahma|IN||6t|1ur|5mx|86
+Khowrzūq|IR||7o|2j2|3zh|84|Khowrz̄ūg;Khurzuq;Khvorzūq;Khorzūq
+Khandela|IN||6t|24o|5tq|82
+Al Khurmah|SA||7e|1ov|38r|7x|Khurmah
+Khust|UA||98|3pt|1sq|7w|Hust;Huszt;Khoust;Chust
+Khmilnyk|UA|Vinnytsia|98|3to|25o|7p|Chmielnik;Chmilnyk
+Khrestivka|UA|Donetsk|98|3pr|2yk|7m|Kirovskoye;Kirovske;Kirowske;Krestovka
+Kheri|IN||6t|25i|68g|7b
+Khoni|IN||6t|1ho|5my|78
+Khajuraho Group of Monuments|IN||6t|1x1|661|75|Khajurâho;Khadżuraho;Conjunto de Templos de Khajuraho;Khajrāho
+Khān Neshīn|AF||6o|2cv|4x7|74|Khāneshīn;Khanashin;Khānnešīn;Khan Nashim;Khān Nashīn;Khān Nishīn
+Kheda|IN||6t|1r7|5lx|74
+Khātegaon|IN||6t|1qs|5xn|72
+Khánh Hòa|VN||6h|to|845|71
+Kharkhauda|IN|Haryana|6t|288|5xn|6z|Kharkhoda
+Chios|GR||8p|2yl|20m|6o|Scio;Sakız;Chóra;Quíos;el Xiu;Khíos;Kástro;Hios;Chio;Xíos;Khóra;Kastron;Castro
+Khashuri|GE||7n|38o|3d4|6n|Khachuri;Jashuri;Khachouri;Chasjoeri;Chašuri;Hašuri;Khašuri;Chašuris;Haxuri;Chaszuri;Chasjuri;Chaschuri
+Khromtau|KZ||5w|3vl|4ic|6l|Khrom-Tai;Hromtau
+Khā̃dbāri̇̄|NP||6r|242|6q9|6d|Khanbari;Khāndbāri
+Khirkiya|IN||6t|1pl|5xi|6b|Khirkiān
+Khairāgarh|IN|Chhattisgarh|6t|1ni|68y|6a
+Khanpur Mahar|PK||6q|25c|5ct|67
+Khosrowshahr|IR||7o|2xf|3jx|64|Khosrow Shāh
+Khwaeng Bang Plat|TH||62|12b|7r5|64
+Khanu Woralaksaburi|TH||62|18m|7pe|63
+Khānsār|IR||7o|2ka|3vr|63|Khvonsār;Khavansar;Khūnsār;Khonsar;Khvānsār
+Kherālu|IN||6t|1ud|5lq|62
+Khadyzhensk|RU||9i|3ff|31u|61|Khadyzjensk;Chadyschensk;Jadyzhensk;Khadyjensk;Chadyžensk;Xadıjensk;Khadíjensk;Ĥadiĵensk;Hadyžensk;Hadižensk
+Khomām|IR||7o|2vv|3ty|5t|Khemam
+Khot'kovo|RU||9i|4ca|2xk|5t
+Khombole|SN||g|150|-1ad|5n|Kbombole;Rhombol;Kombole
+Xo‘jaobod|UZ||7m|34z|5lk|5m|Khŭjaobod;Kojo-Abad;Khoji-Abad
+Khulayş|SA||7e|1pk|318|5l|Khulais
+Khairāgarh|IN|Uttar Pradesh|6t|22u|606|5l|Kheragarh
+Khowai|IN||6t|1uw|72g|5k
+Khalāri|IN||6t|1tp|6k5|5k|Khelari
+Khosta|RU||9i|3cv|32r|5k
+Khalīfān|IQ||5z|2tp|3fc|5j
+Goygol|AZ||61|34r|3ko|5i|Xanlar;Khanlar;Helenendorf;Elenendorf;Yelenendorf
+Khangarh|PK||6q|2b3|5ho|5h
+Khānāpur|IN||6t|17g|5qz|5d
+Khonj|IR||7o|25h|44f|5c|Khunj
+Khai Gala|PK||6q|2m1|5p3|5b
+Ghanzi|BW||m|-1oa|1o5|5a|Khanzi
+Khariar Road|IN||6t|1m2|6d7|5a
+Kharsia|IN||6t|1p3|6eu|59
+Khilchipur|IN||6t|1us|5wq|59
+Khārupatia|IN||6t|21o|73z|56
+Khon Buri|TH||62|14d|7w1|56
+Khao Yoi|TH||62|10s|7pa|55
+Kherāmeh|IR||7o|29y|443|55|Karameh;Kharāmeh
+Khali Kachigam|IN||6t|1km|5mf|54
+Kharabali|RU||8o|3np|3n9|52|Jarabali;Ĥarabali;Charabali
+Khetri|IN||6t|25s|5uj|52
+Kheri Nāngal|IN||6t|29j|5xu|52
+Khasab|OM||72|20q|4c9|4z|al-Chasab;Chasab;Chasabas;Hasab;Xasab;Al Khasal
+Chortiátis|GR||8p|34t|1s6|4z|Khortiátis;Chortiáti;Khortiátis i Thessaloníki
+Heinola|FI||92|4q1|20c|4x|Kheynola
+Hazorasp|UZ||7g|36s|4pn|4w|Khazarasp
+Kherli|IN||6t|23r|5xv|4w
+Kobuleti|GE||7n|387|382|4v|K'obulet'i;Koboeleti;Khobulethi;Kobulyety
+Kholmskiy|RU||9i|3gl|2yn|4v|Cholmskaja;Xolmskaya;Jolmskaya;Kholmskaia;Holmskaja;Kholmskaya
+Khongapani|IN||6t|1sf|6c8|4u
+Khabarābād|IR||7o|2qq|3y3|4t
+Khowa|ZA||o|-2f1|25d|4s
+Hînceşti|MD||8x|3m3|27f|4p|Hâncești;Hincheshti;Khencheshti
+Khed|IN|Maharashtra|6t|1d8|5nw|4p
+Khapat|IN||6t|1o5|5dd|4n
+Lidzbark Warmiński|PL||a5|46d|1l6|4l|Heilsberg;Lidzbarka Varmiņska;Varmės Lidzbarkas;Kheyl'sberg;Heilsburg
+Khātra|IN||6t|1ru|6p9|4l
+Khada|IN||6t|23i|6h0|4k
+Khaniādhāna|IN||6t|1xj|611|4f
+Khuldābād|IN||6t|1jl|5sv|4d
+Khetia|IN||6t|1o7|5r7|4d
+Khusropur|IN||6t|1ys|6l6|4d|Khusrupur
+Khatīma|IN||6t|28c|665|4d
+Khūtār|IN||6t|26c|66z|4c
+Khánh Hải|VN||6h|w7|8ew|4c
+Khao Wong|TH||62|1ae|815|48
+Khāpa|IN||6t|1ni|63e|48
+Khāsh|AF||6o|2fl|4uf|47|Khās̄
+Kharhiāl|IN||6t|1kd|6dw|47|Khariār
+Khamaria|IN|Madhya Pradesh|6t|1sj|65w|46
+Muang Không|LA||7v|138|861|46|Khong;Muong Khong;Khon
+Khānpur|IN|Rajasthan|6t|1wp|5w8|45
+Khargāpur|IN||6t|1wy|63u|44
+Kharkhorin|MN||7s|3n3|7xl|44|Karakorum
+Khānpur|IN|Uttar Pradesh|6t|279|60v|43
+Khaznah Tabah|IQ||5z|2t0|3cg|3x
+Khe Sanh|VN||62|1a7|88i|3v
+Kharela|IN||6t|1yy|65p|3u
+Karak|PK||6q|2k0|5hh|3t|Kharak;Kark
+Xudat|AZ||61|37n|3r8|3s|Khudat;Hudat;Khudaf
+Khem Karan|IN||6t|2ei|5r4|3q
+Khvalynsk|RU||9s|41t|3pn|3q|Chwalynsk;Jvalynsk;Chvalynsk;Xvalınsk;Khvalinsk;Ĥvalinsk;Hvalynsk
+Khadkale|IN||6t|1g4|5oc|3q
+Khāga|IN||6t|1zl|69a|3p
+Khailār|IN||6t|1ye|625|3p|Khailor
+Khlung|TH||62|yl|7vy|3p
+Khāvar Shahr|IR||7o|2qs|3z8|3o
+Kharkhauda|IN|Uttar Pradesh|6t|284|5zy|3o
+Khallikot|IN||6t|1ih|6kd|3m|Kallikota
+Khoyniki|BY||9g|407|2ba|3m|Choiniki;Khoynki
+Khreshchatyi Yar|UA||98|3w5|2ct|3m
+Khunays|TN||1e|2r8|u2|3l
+Kota Belud|MY||6w|hn|8zf|3k|Khota Balud
+Khalīlābād|IR|Razavi Khorasan|7o|2px|4hx|3k
+Khudāganj|IN||6t|267|65f|3i
+Khorol|UA||98|3ua|2kf|3h
+Ḩukūmatī Azrah|AF||6o|2mx|5dh|3h|Khukumati-Azrau;Ḩokūmatī Azṟaw
+Qarah Bāgh|AF||6o|2p2|4rm|3g|Kara Bağ;Qara Bağ;Karabāgh;Kharabagh;Qarabāgh;Qaṟa Bāqh;Qareh Bāgh
+Kherdi|IN||6t|1co|5oc|3g
+Khadki Buzurg|IN||6t|1lf|5xy|3d
+Kharar|IN|West Bengal|6t|1r4|6rk|3c
+Khorixas|NA||1f|-1km|15k|3c
+Khairābād|IN|Rajasthan|6t|1wi|5ux|3c
+Kharaghoda|IN||6t|1sf|5j9|3b
+Aydarken|KG||65|32y|5i6|3b|Khaydarkan;Xaydarkon;Aidarken;Khaidarkan
+Khorramābād|IR|Māzandarān|7o|2u6|3xb|37|Khurramābād
+Khor|RU||7w|3p0|aew|37|Chor;Hor
+Khanskaya|RU||9i|3g4|330|35|Khanskaja;Chanskaja
+Khiri Mat|TH||62|1ar|7p8|35
+Khorol’|RU||7w|3ff|a6w|34|Khorol;Khoral;Khorel
+Khenichet-sur Ouerrha|MA||d|2no|-fs|34|Khenichet Sur Ouerrha
+Kharovsk|RU||9i|4mk|33n|33|Charowsk;Charovsk;Ĥarovsk;Karovsk
+Khalīl Shahr|IR||7o|2ty|450|32
+Khawzawl|IN||6t|1tc|76v|32
+Kham Sakae Saeng|TH||62|16l|7vt|32
+Kheri Sāmpla|IN||6t|27y|5xa|31
+Khān Bebīn|IR||7o|2ut|48r|31|Khān Bīn;Khanbeh Bon;Khān Beben;Khān Behbīn
+Khujner|IN||6t|1u3|5wu|30
+Mykonos|GR||8p|2w1|1yd|2z|Míkonos;Myconos;Chora;Miconos;Khóra
+Khanr|IN||6t|1v6|69t|2z|Khand
+Khilok|RU||67|3yo|8iu|2y|Chilok;Jilok;Ĥilok;Chilokas
+Khnach Romeas|KH||78|10u|7xz|2x
+Khalīlābād|IR|Gilan Province|7o|2u9|3t9|2x|Roudbar;Rūdbār
+Khánh Vĩnh Yên|VN||6h|1fa|85n|2u
+Khaira Bari|IN||6t|21n|70p|2u
+Kharod|IN||6t|1oe|6de|2u
+Khonsa|IN||6t|232|7dh|2u
+Khamānon Kalān|IN||6t|2dm|5w3|2t
+Chibia|AO||x|-166|122|2s|Khibia
+Khar|PK||6q|2oi|5ip|2s
+Khadro|PK||6q|20n|5aw|2s
+Khrystynivka|UA||98|3rl|2b9|2r|Chrystyniwka
+Khreuh|IN||6t|2mi|5sc|2r
+Rodynske|UA||98|3qb|2vd|2r|Krasnyy Liman;Khutor Liman;Liman;Rodyns’ke
+Khamaria|IN|Madhya Pradesh|6t|1sh|66b|2q
+Khodzha-Maston|TJ||6d|2zm|5an|2q
+Khera Khurd|IN||6t|27y|5y6|2q
+Khasht|IR||7o|23n|44g|2o|Khesht
+Haapsalu|EE||9x|4jq|1te|2o|Hapsal;Hāpsalu;Hapsalia;Haap;Haapsula;Gaapsalu;Khaapsalyu;Gapsal’;Khapsalu
+Khargupur|IN||6t|242|6br|2o
+Khokhamoya|ZA||o|-1xb|2f0|2n
+Hlyboka|UA||98|3pl|201|2m|Adancata;Khliboka;Glyboka;Adynkata
+Kharora|IN||6t|1ng|6bl|2k
+Chalástra|GR||8p|34v|1r5|2j|Khalástra
+Khandpara|IN||6t|1ka|6km|2i|Khandapada
+Khuzā‘ah|PS||6f|2ez|2ng|2i
+Khodoriv|UA||98|3t9|1vj|2i|Chodorów;Chodoriw;Jódoriv;Hodoriv;Chodoriv;Hodoriva;Chodorov;Khodorov
+Khotyn|UA||98|3qr|21l|2h|Chocim;Chotyn;Ĥotin;Khotin;Chocimi csata
+Chrysoúpolis|GR||8p|35v|1wl|2h|Chrysoupoli;Khrysoupolis;Khrisoúpolis
+Khandallah|NZ||ak|-36k|dhj|2e
+Khledia|TN||1e|2tt|sb|2d|Kledia
+Khera Kalān|IN||6t|27x|5y8|2b
+Khuiratta|PK||6q|2ko|5pn|2a
+Khārk|IR||7o|29a|3vt|2a|Kharg
+Khorinsk|RU||6k|40w|8gy|28
+Khokhol’skiy|RU||9i|3z9|2zp|28|Khokholskij
+Khankala|RU||9i|3ca|3j4|27|Xanġala;Hankala
+Khondāb|IR|Markazi|7o|2nj|3sm|26|Khāndāb
+Khoni|GE||7n|39l|39u|25|Choni;Chonis;Honi;Joni;Xoni;Koni
+Khŭm Ângkôr Ban|KH||78|x8|849|25|Phumĭ Ângkôr Ban
+Khŭm Ânsaông|KH||78|ux|856|24
+Kherwāra|IN||6t|1un|5of|24|Khairwāra
+Khed|IN|Maharashtra|6t|1ey|5p5|22
+Khūr|IR|Fars|7o|24t|46y|21
+Khoroshiv|UA||98|3wj|270|21|Choroschiw;Volodarsk-Volynskyï;Chorošiv;Horoşiv;Wołodarsk Wołyński;Volodarsk-Volînskîi;Khoroshov
+Kharp|RU||7z|55k|52t|21|Charp;Harp
+Khoshk Bījār|IR||7o|2vt|3u8|20|Khoshg Bejar;Khoshk-e Bījār
+Khapar|IN||6t|1nt|5pd|20
+Khūrīn|IR||7o|2qc|3zg|20
+Khaira|IN|Delhi|6t|27f|5xt|20
+Kharsāwān|IN||6t|1rb|6mf|20
+Khubāsh|SA||7e|1cs|3gb|20
+Shabo|UA||98|3k5|2cf|1z|Szabo;Chabo;Șaba-Târg;Schabo-Kolonie;Schabo-Possad;Acha-Abag;Saba Tarc;Khabag;Sjabo;Šabo;Schabo
+Kherlīganj|IN||6t|1x4|5wz|1y
+Khamharia|IN||6t|1ma|6ch|1y
+Khan Pur Dhani|IN||6t|27r|5yo|1y
+Khore|IN||6t|2j6|5qz|1x
+Khārās|PS||6g|2ft|2pc|1x
+Khaliapāli|IN||6t|1nc|6ga|1x
+Khuda Alisher|IN||6t|2dh|5xd|1w
+Khemis Sahel|MA||d|2px|-gw|1w|Khemis du Sahel;Jemis del Sahel
+Khandyga|RU||7w|4u1|agl|1w|Chandyga;Handyga;Handiga;Khàndiga
+Khamārī|IN||6t|1nj|66v|1w
+Khūr|IR|Isfahan|7o|2lu|490|1w
+Khorostkiv|UA||98|3sp|200|1v|Chorostków
+Khaur|IN||6t|2ik|5rt|1v|Khour
+Khvoynaya|RU||9i|4jm|2nv|1u|Khvojnaja
+Khadan Khak|PK||6q|2df|583|1u|Khadar Khāk
+Khoramdasht|IR||7o|2rt|3tk|1u|Khorramdasht
+Kajaran|AM||80|30r|3k8|1t|Kadzharan;Qacaran;K’ajaran;Qchananc;Qajaranc;Kaĝarano;Kadzjaran;Kadscharan;Khadžaran;Kadźaran;Kadjaran;Kadžaranas;Kacaran
+Khān Laq|IR||7o|2vz|4gy|1t
+Khāndbāra|IN||6t|1n7|5po|1t
+Khairī|IN||6t|1qs|67b|1s
+Chlórakas|CY||73|2oo|2i1|1s|Chloraka;Hiloraka;Klorakas;Hloraka;Khlorakas
+Khatiguda|IN||6t|1hg|6dz|1s
+Khalmion|KG||65|33p|5iz|1r|Halmion;Xalmion;Kalmion
+Khūmeh Zār|IR||7o|2bd|3za|1q
+Khlevnoye|RU||9i|40z|30l|1q|Khlevnoje;Khlebnoye
+Khet Rop Mueang|TH||62|132|7tk|1p
+Khadzhalmakhi|RU||9i|39u|3n2|1p
+Khori Kalān|IN||6t|26e|5xk|1o
+Khabary|RU||63|44z|64y|1n|Khabari
+Khojaly|AZ||61|32v|3lz|1m|Xocalı;Ivanyan;Khodjaly;Xocalı rayonu;Ĥoĝali;Xocalın piirikunta;Khojali;Daerah Khojali;Khojali Rayon;Rayon Khojali;Distrito ng Khojali;Hocalı Rayonu;Rejon Xocalı;Hojali;Joyalí;Khodzhaly;Khozhali
+Khabez|RU||9i|3ec|381|1m
+Khūsh Rūdpey|IR||7o|2t1|421|1l
+Khūsf|IR||7o|2j2|4jl|1l|Khūsef
+Khor|IN||6t|1wb|5rt|1l
+Kharkhari|IN||6t|1u2|6nk|1l
+Azatan|AM||80|354|3dr|1l|Khli-Gharakilisa;Galdema;Gandma
+Khardi|IN||6t|1if|5nu|1k
+Kharijapikon|IN||6t|20b|6zv|1k
+Khurba|RU||7w|3w1|ak8|1j
+Khandūd|AF||6o|2un|5kw|1j|Khandut
+Khaya Mnandi|ZA||o|-2lz|1yp|1j
+Kharjā|JO||5t|2iq|2rp|1j|Kherja
+Khambra on Nakodar Road|IN||6t|2ev|5tw|1j
+Khrenovoye|RU||9i|3y0|33x|1j|Khrenovoje;Khrenovo
+Khātūnābād|IR|Kerman|7o|2bd|49y|1j
+Kharach|IN||6t|1nl|5mk|1i
+Khpob Ateav|KH||78|uq|847|1i|Phum Khpôp A Téav;Phumĭ Khpôp A Téav;Phumĭ Khpôb A Téav
+Kharbav|IN||6t|1hm|5ms|1h
+Khoshkrūd|IR||7o|2qc|3vt|1g|Khoshkeh Rūd
+Al Khinzīrah|JO||5t|2e9|2qx|1g|Khinzīrah
+Khutir-Mykhaylivskyi|UA||98|40l|2mb|1g|Druzhba;Khutir-Mykhailivskyi;Chutir-Mychajliwskyj;Druschba;Hutir-Mihajlivski;Khoutir-Mykhaïlivskyï
+Kharbathā al Mişbāḩ|PS||6g|2gl|2pf|1f
+Khājeh Nafas|IR||7o|2ur|46a|1f|Khvājeh Nafas
+Ka Lok|MM||7y|1ab|7eg|1f|Kha Loke;Kalok
+Khojasan|AZ||61|349|3u9|1f|Khodzhi-Gasan;Khodzhasan;Khodzhagasan
+Khotran|IN||6t|2eo|5uk|1e
+Khanbaniara|BD||6a|1u2|6yi|1e
+Khomutovka|RU||9i|408|2o0|1d
+Khamamatyurt|RU||9i|3d5|3l6|1d|Khamamayurt
+Khomutovo|RU|Irkutsk Oblast|6k|41r|820|1d
+Khvorostyanka|RU||9p|425|3s0|1d|Khvorostjanka;Khvorostyahka
+Kharājī|IR|Hormozgan|7o|244|4f0|1b|Kherājī
+Khat Hti Ya Ywar Thit|MM||7y|1aw|7e9|1b
+Khomutovo|RU|Oryol oblast|9i|42t|2w0|1a
+Himarë|AL||9y|33e|1iu|1a|Himara;Chimara;Kheimara;Imara
+Khilchiān|IN||6t|2fn|5st|1a
+Khotiv|UA||98|3vt|2cn|1a|Khotov
+Khvastovichi|RU||9i|44j|2ph|19|Khvastovitsji;Khastovichi
+Khatukay|RU||9i|3hj|326|19|Khatukaj
+Khislavichi|RU||9i|46j|2hc|19|Khislavitsji;Khoslavichi
+Khorosheve|UA||98|3uh|2sn|18|Choroschewe;Xorosheve;Ĥoroŝeve;Khorocheve;Choroševe;Khoroshevo
+Kholmogory|RU||9i|4yf|37p|18|Cholmogory
+Khūr|IR|Alborz Province|7o|2s1|3wv|18
+Kholm|RU|Novgorod Oblast|9i|4kn|2j9|16
+Khotynets|RU||9i|43l|2qc|16|Khotinets
+Khoshk-e Sarā|IR||7o|2tr|3yy|16|Koshk-e Sarā;Koshkesarā
+Khudādia|BD||6a|1uy|6zl|15|Khodādia
+Khyriv|UA||98|3tl|1rh|15|Chyrów;Chyriw;Hıriv;Hiriva;Khyruv;Khyrov
+Khāneh Zenyān|IR||7o|2af|40v|14|Khāneh-ye Zenyān;Khān-e Zenyān
+Kholm|RU|Novgorod Oblast|9i|4er|2em|14|Jolm;Xolm;Ĥolm;Chołm
+Khirbat Abū Falāḩ|PS||6g|2gy|2q2|14|Khirbet Abū Falāh
+Khunzakh|RU||9i|3a6|3lr|14|Khumsakh
+Khánh Lộc|VN||62|1f8|85q|13
+Khumalag|RU||9i|3c4|3fk|13
+Khayega|KE||16|l|2ol|13
+Khorlovo|RU||9i|49p|2zt|13
+Kārchān|IR||7o|2mq|3up|11|Kharshān;Kārchon
+Khazar|RU||9i|38o|3q9|11
+Kholm-Zhirkovskiy|RU||9i|4a7|2l1|11|Kholm Zjirkovskij
+Khlong Khuean|TH||62|12b|7t0|11
+Khojavend|AZ||61|32j|3mv|11|Novyy Karanlug;Yeni Karanlig;Yangi Karanliq
+Hasankeyf|TR|Batman|94|2wr|370|11|Heskîf;Khasankeye;Hasankeyif
+Khatassy|RU||7x|4rz|a03|11|Khatssy
+Khovu-Aksy|RU||6u|3y1|78b|11
+Khuchni|RU||9i|38j|3p7|10|Khutsjni
+Khokhryaki|RU||9p|4e4|444|z|Khokhrjaki
+Khūsheh Mehr-e Khūjeh Mīr|IR||7o|2vn|3k6|z
+Khovīs|IR||7o|2gz|3q3|z
+Kheẕerlū|IR||7o|2vz|3jo|z|Khezrlu
+Khôr Angar|DJ||i|yf|3cd|z|Khor-Anghar
+Khursā|PS||6g|2fg|2pa|y
+Khsach Andaet|KH||78|y1|863|x|Phum Prêk Sâmraông
+Khomanani|ZA||o|-1x0|2ez|x
+Khūzī|IR||7o|249|435|w|Hūzi
+Khawāsa|IN||6t|1oa|64o|w
+Khenejīn|IR||7o|2ok|3tl|w|Khānājin;Khon Jīn;Khonajīn;Khenjīn;Khanjīn
+Khryashchevka|RU||9p|45h|3sd|w|Khrjasjtsjevka;Khryashcheyevka
+Khatanga|RU||6u|5jy|7wn|w|Chatanga;Khatenga
+Halhgol|MN||7s|3pu|8v6|w|Khalkhgol
+Kharlu|RU||9i|4rp|2dy|w|Harlu
+Khandagayty|RU||6u|3wx|73s|v|Khandagajty;Handagaytay
+Kholmy|UA||98|403|2ik|v|Cholmy;H’olmy;Xolmi;Holmı
+Khambi-Irze|RU||9i|3c4|3i9|v|Xambi-Irzi;Xämbin-Irze;Hambi-Irze
+Khymchyn|UA||98|3qe|1xv|v|Khomchin;Khimchin
+Kheivani|GE||7n|3ci|338|v
+Khelyulya|RU||9i|4ri|2d9|v|Kheljulja;Helylä
+Kha Naung Ywar Ma|MM||7y|1ae|7f6|u
+Khodz’|RU||9i|3fn|353|u|Khodz
+Khāledābād|IR||7o|2lm|40f|u|Khālīābād;Khālidābād
+Khānīman|IR||7o|2cb|414|u|Khānemān
+Khimār|YE||5r|13s|3lu|u
+Kha Lauk Chaik|MM||7y|1as|7eu|u|Kalaukcheik
+Khobi|GE||7n|39k|38e|u|Khopi
+Khoronk|AM||80|33i|3ex|u|Xoronq
+Kharājī|IR|Chaharmahal and Bakhtiari|7o|2h5|3x7|t|Kherāji;Khāriji
+Kholqābād|IR||7o|2t3|4lo|t
+Kholmske|UA||98|3j4|297|t|Jolmske;Selioglu;Cholmske
+Khosūyeh|IR||7o|27a|473|t
+Kharbathā Banī Ḩārith|PS||6g|2gr|2pf|s
+Kurów|PL|Lublin|a5|3yr|1pn|s|Kurov;Curóv;Curovia;Kuruvas;Kurova;Kuruw;Kuruvs;Kó-lū-hŭ;Kurou;Kuruv;kuruf;Khù-lû-fû
+Khurampur|IN||6t|2e9|5tn|s
+Khowy|IR||7o|2hu|3wq|s|Khoy
+Qazānchī|IR||7o|2no|3mm|s|Khazānchī;Farānchī
+Khebda|RU||9i|39x|3lb|r
+Khonmoh|IN||6t|2mm|5s7|r
+Khesht Sar|IR||7o|2tp|410|r
+Kha Laung Ywa Ma|MM||7y|1a4|7ee|q|Kha Laung
+Khūjīn|IR||7o|2wg|3qv|q
+Khān Sāhib|IN||6t|2m9|5re|q
+Chóra|GR|Peloponnese|8p|2ux|1oc|q|Ligoudista;Khóra i Messinía;Khóra;Lygudista;Ligoudhísta
+Kholodna Balka|UA||98|3lh|2cy|q|Holodna Balka;Chołodna Bałka;Jolodna Balka
+Khlibodarske|UA||98|3l4|2cz|q|Khlibodars’ke;Hlibodarske;Chlibodarśke
+Khabarovsk Vtoroy|RU||7w|3qk|afd|q|Khabarovsk Vtoroj
+Khawhai|IN||6t|1sy|76p|p
+Kholbon|RU||67|406|8yx|p
+Choristí|GR||8p|369|1v9|p|Khoristí
+Khonjesht|IR||7o|2d5|42b|p|Khongesht;Khūngesht
+Khokhlovo|RU||9i|4kb|2vw|p|Khokhlova
+Khomutets|UA||98|3v2|2lo|p
+Khāneh-ye Barq-e Mojarlū|IR||7o|2vn|3ju|o|Khaneh-ye Barq-e Jadid
+Khūnān|IR||7o|2rf|3v5|o
+Khulimsunt|RU||7z|4um|4r8|o|Khulyum-Sunt;Khulim-Sund
+Khiv|RU||9i|37z|3p5|o
+Khān Amīr|IR||7o|2wy|3jr|o|Khanamir
+Khalāzīr|IR||7o|2qx|3yo|o|Khalāzīl;Kholāzīr
+Khvatovka|RU||9s|41f|3lc|n
+Khotin|UA||98|3xw|2ol|n|Khoten’
+Kheyrābād|IR|Markazi|7o|2mu|3ux|n|Khaīrābād
+Khachpar|AM||80|33h|3fd|n|Zakhmet;Khachaparakh;Zakhmat
+Kholmovka|UA||9t|3g2|2lr|m
+Hayredin|BG||9v|3d4|1tq|m|Hayreddin;Hajredin;Chairedin;Khairedin
+Khallat ad Dār|PS||6g|2fi|2pj|m
+Khrabrovo|RU||96|48i|1l6|l|Powunden;Povunden;Powanden;Hrabrovo;Powuneen
+Khakhea|BW||m|-1wl|1t9|l
+Kypséli|GR|Attica|8p|2ww|1t5|l|Kipséli;Khalasméni
+Khankendi|AZ||61|32m|3lv|l|Chankändi;Hankendi;Stepanakert;Xankendi;Khankendy
+Khojārhāt|BD||6a|1sj|6vs|l
+Khalkoútsion|GR||8p|2yh|1tx|l|Chalkoutsi;Khalkoútsi
+Khingansk|RU||7w|3sh|a4g|l
+Chérso|GR||8p|365|1ra|l|Khérso;Khérson
+Khātūnābād|IR|Isfahan|7o|2iq|3zv|k
+Khudumelapye|BW||m|-1uc|1wr|k
+Khirbat Abu Tulūl|IL||6n|2ei|2oz|k
+Khrebtovaya|RU||6k|4di|81l|k|Khrebtovaja
+Khudoyelanskoye|RU||6k|47y|7or|k|Khudo-Jelan;Khudoyelan’;Khudoyelanskaya
+Khalaf-e Mosallam|IR||7o|2h8|3q0|k
+Kheyr Rūd Kenār|IR||7o|2tp|3z8|k|Kheyrūd Kenār
+Khriatska|UA||98|3pt|20r|k|Khiatska;Hreațca;Khryatska
+Khodosy|BY||9g|45t|2fg|k|Zelënaya Dubrava;Khodasy
+Khosrow Shīrīn|IR||7o|2du|40g|k
+Khowrābād|IR||7o|2nv|3xk|j|Khor Ābād;Khūrābād
+Khndzoresk|AM||80|31r|3kz|j|Xnzoresk;Khinzirak
+Hojagala|TM|Balkan|5x|2zj|4ci|j|Khodzhakala;Khoja-Kala
+Khomārlū|IR||7o|30s|3mn|j
+El’-Bazhi|RU||6u|3z8|76p|j|Khajyrakan;Khayyrakan;Khayrakan
+Khanjyan|AM||80|33n|3e6|j|Xanjyan
+Chálki|GR||8p|31x|1qm|i|Khálki
+Khashtarak|AM||80|35q|3hi|i|Khashdirak;Xashtarak;Khach gyugh;Khachdarak;Khachtaragh;Khachtaraki;Sarhatlu;Sarhatu
+Kha Yan Wa|MM||7y|1as|7eo|i|Hkayanwa
+Kharagauli|GE||7n|38q|3c0|h
+Martynivka|UA|Poltava|98|3tk|2q1|h|Khalturino;Khalturine;Khalturyne
+Khyzha|UA||98|3pn|1sh|h|Kistarna;Khizha
+Kharpāda|IN||6t|1gc|5n1|h
+Ban Khao Lak|TH||62|ny|7kw|h|Khao Lak
+Khrestivka|UA|Kherson|98|3kw|2lo|h|Chrestiwka;Hrestivka;Krestovka
+Kharmanān|IR||7o|2j2|3xn|h
+Khūndāb|IR||7o|2k1|3xe|h
+Khondāb|IR|Zanjan|7o|2sq|3qp|g|Khundab;Khandāb
+Kholodnaia-Rech’ka|GE||7n|3cg|33j|g|Kholodnaya Rechka
+Khoroshe|UA|Luhansk|98|3r2|2zx|g
+Khizi|AZ||61|35n|3sb|g|Xızı;Hızı;Khizy
+Kheyrābād|IR|Fars|7o|2af|40y|g
+Khutir|UA||98|3rj|2fy|g|Khutor
+Chrysó|GR||8p|362|1tp|g|Khrýso;Khrisó
+Khonkholoy|RU||6k|3y1|8cn|f|Khonkholoj;Konkholoi;Khonkhaloy
+Khvalovo|RU||9i|4mj|2iy|f
+Khiliomódhi|GR||8p|2x1|1rj|f|Chiliomodi
+Khoteshiv|UA||98|3zo|1ww|f|Khotseshuv;Khoteshevo;Khoteshov
+Khorramābād|IR|Razavi Khorasan|7o|2tt|4fw|f
+Kalkrand|NA||1f|-1uv|1cv|f|Khalkrand
+Ḩasan Rūd|IR||7o|2w1|3tu|f|Khasanrud
+Kharābeh Amīn|IR||7o|2te|4kv|e|Kharābeh-ye Amīn
+Khudlovo|UA||98|3qz|1qg|e|Khudl’ovo;Khudlove;Khudl’yevo
+Kholodne|UA||98|3pf|2xq|e|Sverdlove;Sverdlovo;Cholodne;Holodne
+Khrystoforivka|UA|Dnipropetrovsk|98|3pa|2jx|e
+Kham Pīch|IR||7o|2ki|3w4|e|Kham-o-Pīch;Khumpīch;Kham va Pīch;Khompīch
+Khāmesān|IR||7o|2p6|3mu|e|Khamsān
+Khantau|KZ||5s|3ev|5oz|e
+Kharitonovo|RU||9i|4qk|3ny|e|Charitonovo;Khiritonovo
+Khallat an Nu‘mān|PS||6g|2g4|2pw|e
+Khallat Ḩamāmah|PS||6g|2g4|2pr|e
+Khallat al Mayyah|PS||6g|2fc|2pm|e
+Kholopenichi|BY||9g|47g|28g|e|Khalopyenichy
+Khāşābād|IR||7o|2xb|3jm|e|Xasabad;Khāşebān
+Khodosivka|UA||98|3vn|2cs|e|Khodosovka
+Kha Yaik Kha Ni|MM||7y|19y|7f8|d|Kayaikkani
+Khozāq|IR||7o|2mj|3yj|d|Khozzāq
+Khalaf Ţāḩūneh|IR||7o|2bd|433|d|Khalf-e Ţāhūneh
+Khlibodarivka|UA||98|3nw|2vw|d|Khlebodarovka
+Chalkiádes|GR||8p|30s|1m5|d|Khalkiádhes
+Drépanon|GR||8p|2wa|1rl|d|Dhrépanon;Khaïdhárion;Khaidari;Drepano;Drepanou
+Khanino|RU||9i|46l|2tq|d
+Khākrīz|IR||7o|2om|3pk|d
+Khal’ch|BY||9g|420|2ei|c
+Kholodnyy|RU||6z|4u7|bev|c|Kholodnyj
+Khachaghbyur|AM||80|33l|3ix|c|Khach’aghbyur;Xachaxbyur;Khachagbyur
+Khorājpur|IN||6t|282|5z4|c
+Khreshchatytske|UA||98|3n7|2xd|c|Khreshchatskoye;Krasnoarmiyske;Chreschatyzke;Chreschtschatyzke;Chreščatyc'ke;Khrechtchatyts'ke;Khrechtchatytskè;Chresjtsjqtytske;H'reštšatske;Hreštšatõtske;Krasnoarmiiske
+Khīvalī|IR||7o|2uz|47z|c|Ḩīvalī;Khīvahlī
+Haljala|EE||9x|4l3|20y|c|Khal’yala;Haljall
+Chóra|GR|North Aegean|8p|2wq|22q|c|Khóra
+Khrestyteleve|UA||98|3u5|2ic|c|Krestitelevo
+Khriashchuvate|UA||98|3qs|31j|c|Khryashchuvate
+Khvāchekīn|IR||7o|2vu|3tx|c|Khāchekīn
+Kha Yan Gyi|MM||7y|1aq|7eo|c|Hkayangyi
+Kamma|IT||9o|2u8|xg|c|Khamma
+Khandowa|PK||6q|2iy|5m1|c|Khandoyah;Khandoa
+Kholmok|UA||98|3qx|1pv|c|Homok;Khomok
+Khindakh|RU|Dagestan|9i|39s|3mh|c
+Khorgos|KZ||5s|3eu|67b|b
+Khatsyezhyna|BY||9g|45r|23v|b
+Khoroshe|UA|Dnipropetrovsk|98|3qv|2tb|b
+Berlyn|UA||98|3v8|1xo|b|Khmiliove;Khmilyove;Berlin
+Khmeliv|UA||98|3xd|2l0|b|Khmelev;Khmelov
+Khuzhir|RU||6k|43r|8a6|b|Khoujir
+Khaliavyn|UA||98|3zc|2ey|b|Khalyavin;Khalyavyn;Khalyvin;Kholyavin;Kholyavino
+Khānkūk|IR||7o|2mj|4hf|b|Khānlūk
+Khosrowābād|IR||7o|2rb|3zm|b
+Khalīlābād|IR|Razavi Khorasan|7o|2on|4m9|b
+Khallat Şāliḩ|PS||6g|2fa|2pk|b
+Khoshk Esţalkh|IR||7o|2w0|3ug|b|Khosh Estalkh;Khoshk Estakhr;Khoshk Eşţakh
+Khoroshe Ozero|UA||98|3xy|2hk|b|Khorosheye Ozero
+Khrystoforivka|UA|Mykolaiv|98|3nb|2hm|b|Khristoforovka
+Khāneqāh|IR|East Azerbaijan|7o|2wi|3ja|b|Khānqāh;Khaneghah;Khānaqāh
+Khromove|UA||98|3r0|2xf|b|Artemivs'ke;Chromowe
+Hojeýpil|TM||5x|2xf|554|a|Khodzhapil’;Xo‘jaypil;Hojapil
+Charopó|GR||8p|36m|1sx|a|Kharopó;Kharopón
+Kholtoson|RU||6k|3vq|7yz|a
+Khafr|IR||7o|2e4|3z0|a|Khafār
+Khāneqāh-e ‘Olyā|IR||7o|2n5|3t3|a|Khānqāh-e ‘Olyā
+Isahakyan|AM||80|34u|3dh|a|Kazarapat;Kharum;Isaakyan;Khazarapat;Isahakian
+Khānīān|IR||7o|2w4|3jl|a|Khāneyān;Khānīyān
+Chávari|GR||8p|2x5|1ne|a|Khávari
+Khāveh|IR||7o|2pt|3zp|a|Khāweh
+Khertvisi|GE||7n|378|3c9|a|Khertvie;Khert’visi
+Khachik|AM||80|322|3hl|a|Khach’ik;Chaczik;Xaçik
+Kholuy|RU||9i|4d6|38b|a|Kholuj;Kholui
+Chairóneia|GR||8p|2yy|1rg|a|Chaeronea;Khairónia
+Khavīrak|IR||7o|2gc|47f|a|Khavīdak
+Khotianivka|UA||98|3wk|2cx|a|Khotyanivka;Khotyanovka
+Kharsiky|UA||98|3vn|2jf|a|Kharsyky;Kharsiki
+Chalkeió|GR||8p|2yh|20i|a|Chalkios;Khalkiós;Khalkíon
+Chalandrítsa|GR||8p|2xv|1oi|9|Khalandrítsa
+Khersónisos|GR||8p|2q3|1yh|9|Hersonissos;Chersoniso
+Khazīneh Anbār-e Jadīd|IR||7o|2v4|3jw|9
+Charíessa|GR||8p|34x|1pl|9|Kharíessa
+Khātūnak|IR||7o|2a1|41w|9
+Khowsh Āb|IR||7o|297|3y0|9|Khāshāb;Khūsh Āb;Khosh Āb;Khvosh Āb
+Khorly|UA||98|3k0|2ki|9|Chorly;Khorli
+Khot|AM||80|31k|3kq|9|Xot;Khovt
+Khreshchatyk|UA||98|3r3|1zi|9|Kryshchatyk;Kreshchatik
+Khani|RU||7x|4eg|9c4|9
+Kholmets|UA||98|3qs|1q7|9|Chlumec;Helmec;Korláthelmec
+Khormā Zard|IR||7o|2vy|3k8|9|Khurmazard
+Khāndān Qolī|IR||7o|2r5|3nq|9|Khānedānqolī;Khāndānqolī
+Debet|AM||80|35o|3g1|9|Debed;Alereks;Khachigegh;Chanakhchi
+Khulo|GE||7n|37p|39j|9|Chulo
+Khesht-e Masjed|IR||7o|2vo|3u7|9|Khesht Masjed
+Khmilnyk|UA|Zakarpattia|98|3q4|1rl|9|Khmil’nyk;Khmel’nik
+Bavra|AM||80|368|3dp|9|Kharaba
+Khashchevoye|UA||98|3ra|2q6|9
+Khet’agurovi|GE||7n|399|3dx|9|Hetagurovo;Chetagurovi;Khetagurovo;Chetagurowo;Khetaguri
+Chrysomiliá|GR||8p|321|1nq|8|Khrisomiliá;Chrysomiléa
+Khata Khedi|IN||6t|1ub|5yp|8
+Khustets|UA||98|3q0|1t8|8
+Khuis|BW||m|-221|1oo|8
+Knyshivka|UA||98|3w1|2ms|8|Khyshovka;Knyshevka
+Khoroshky|UA|Poltava|98|3vb|2kg|8|Khoroshki
+Khoroshky|UA|Poltava|98|3uu|2j2|8|Khoroshki
+Khristoforovo|RU||97|4p6|3n9|8
+Khomeynī Shahr|IR|Hormozgan|7o|21y|4h7|8
+Kharmandeh|IR||7o|2a5|4di|8|Kharmandah;Kharman Deh
+Khutoro-Hubynykha|UA||98|3rc|2pg|8|Khutoro-Gubynykha
+Khūgān|IR||7o|2lw|3vc|8
+Khorishki|UA||98|3t5|2mb|8|Khoroshki
+Khorishky|UA||98|3t5|2ly|8
+Klawock|US||3j|4ab|-a9q|8|Klawak;Kilawak;Kiawak;Khlawak;Klawook;Lawak;Kliawak;Klawok
+Khosrow Maḩalleh|IR||7o|2yf|3ro|8
+Kha Naung Upper|MM||7y|1ae|7f5|8
+Khnatsakh|AM||80|321|3kv|7|Xnatsax
+Cheímarros|GR||8p|367|1sm|7|Khímarros
+Khoreyver|RU||9i|57a|4h9|7|Khorej-Ver;Khorey Ver
+Khrushchivka|UA||98|3u9|2hk|7
+Khriask|UA||98|3yh|1zx|7|Khryas’k;Khrask
+Kheleturi|RU||9i|3ad|3ke|7|Kheletlyuri;Kheletluri
+Khvājeh Karī|IR||7o|2x1|3rx|7
+Khvosh Havā|IR||7o|2tf|4lm|7|Khoshharā
+Khyttsi|UA||98|3w0|2mg|7|Khytsi
+Kholmovets|UA||98|3pi|1s5|7
+Nahapetavan|AM||80|34t|3ea|7|Paros;Khachakilisa
+Khartūt|IR||7o|2xc|4de|7
+Kholodovka|UA||9t|3h5|2p7|7
+Khāneqāh|IR|East Azerbaijan|7o|2vo|3kc|7
+Khylkivka|UA||98|3ua|2ju|7|Khil'kovka;Khyl’kivka
+Lusadzor|AM||80|35q|3hf|7|Khavaradzor;Gharanlukh tere;Gharanlughdara;Gharanlugh dere
+Khārpū|NP||6r|2bh|6c8|7
+Kha Maung|MM||7y|207|7db|7
+Kharkivtsi|UA|Poltava|98|3vn|2ii|7|Khar'kovtsy
+Khvājeh Karī Maḩalleh|IR||7o|2x8|3rw|7
+Khmelnytske|UA||9t|3fr|2lh|7|Hmelnitske
+Khiitola|RU||9i|4q4|2ah|7|Hiitola;Khijtola;Hitola;Khitola;Khiytola
+Khorosnytsia|UA||98|3uf|1sn|7
+Khela|IN||6t|2e8|5u9|6
+Khalvat|IR||7o|2ud|3ku|6
+Kha Naung|MM||7y|1af|7f7|6
+Khāk Mardān|IR||7o|2yn|3h8|6|Kheymardan;Khaimar Dan;Khaymardan;Khākmardān
+Khalitākhāli|BD||6a|1u7|6yq|6
+Khorintsy|RU||7x|4oi|9dd|6|Kharintsy
+Khashm ad Daraj|PS||6g|2fa|2pw|6
+Khāndīzaj|IR||7o|2ys|3gl|6
+Hudaýberdi|TM||5x|32y|486|6|Khudayberdy
+Khallat al Lūzah|PS||6g|2fz|2ps|6
+Kandelān|IR||7o|2nu|3ri|6|Kand Halan;Khiāndelan;Kand Helān;Kandlān;Kandehlān
+Kharkivtsi|UA|Poltava|98|3vv|2k6|6|Khar’kovtsy
+Kharkivtsi|UA|Poltava|98|3vo|2m2|6|Khar'kovtsy
+Khindakh|RU|Dagestan|9i|3ai|3ld|6
+Khoromnoye|RU||9i|40n|2h0|6|Khoromnoje
+Khobeyneh-ye Soflá|IR||7o|2em|3qr|5
+Khvoshchivka|UA||98|3u6|2kh|5|Khvashchivka;Khvoshchevka
+Khāneh Sarā|IR||7o|2us|3w7|5|Khāneh Sar
+Kharkivka|UA||98|3s6|2c7|5
+Chorteró|GR||8p|36i|1sx|5|Khorteró;Khorterón
+Khndzorut|AM||80|31v|3i5|5|Elmalu;Almalu;Chyndzorut;Almalı;Xndzorud

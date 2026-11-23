@@ -1,0 +1,116 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Puyang|CN|Henan|7i|2rc|8vk|525|Bŭk-iòng;Pchu-jang;Pujang;Bộc Dương;Phok-iông-chhī
+Bochum|DE||8r|3z0|k2|2z5|Bohuma;Baukem;Bōkhêm
+Bukhara|UZ||7g|32h|4yz|25u|Buchara;Bujará;Boukhara;Buhara;Bucara;Buxoro;Buxara;Buĥaro;Buhhaara;Bochara;Bukhaara;Buhar;Bokhara
+Bocoio|AO||x|-yn|13a|19r|Bokoio
+Bolzano|IT||9o|3l5|vi|tu|Bozen;Bozn;Boceno;Bolzan;Bauzanum;Bocenas;Bolcāno;Bulsaun;Bolzanu;Buzzanu
+Bocaue|PH||71|154|9bx|re
+Boca Raton|US||48|218|-66g|pw|Boca de Ratones;Bocaraton
+Bocholt|DE||8r|400|ie|kj|Bokelt;Bōkholt
+Boconó|VE||2c|pp|-5f5|j6
+Bocaiúva|BR||4w|-1bj|-3dp|dc|Bocayuva
+Boca Chica|DO||4v|1f9|-5dc|cv
+Bocaranga|CF||6|jf|17g|a4|Bokarandža;Bokaranga
+Boca do Acre|BR||3t|-ob|-578|9m|Bocca do Acre
+Bochnia|PL||a5|3ut|1kr|84|Bohņa;Bochńa
+Boca Del Mar|US||48|217|-66n|6q
+Boca da Mata|BR||3r|-qs|-2sm|5z
+Bockum|DE||8r|3yn|ie|5q
+Boca Suno|EC||33|-1y|-5ya|5n
+Boconoito|VE||2c|ol|-5ee|51
+Bocşa|RO|Caraș-Severin County|8u|3i1|1ob|4j
+Bochum-Werne|DE||8r|3z1|kb|49
+Pocking|DE|Bavaria|8r|3qg|10z|42|Bocking
+Bocanda|CI||0|jm|-ci|3u|Bokanda
+Bouc-Bel-Air|FR||9k|3cp|f1|3o|Boc de Gardana;Boc Bèl Èrm;Boc Bèl Èr
+Bocaiúva do Sul|BR||4w|-1y1|-3sf|3n
+Boxmeer|NL||8m|3zh|gj|3g|Boksmaer;Mere;Boc's Mere;Meer;Boksmeer
+Bochil|MX||3z|1b8|-761|3g
+Bocholt|BE||8t|3y5|fi|3f|Bóggetj
+Bochum|ZA||o|-1sp|28y|3c|Bochem
+Bocaina|BR|São Paulo|4w|-1pi|-3qs|35
+Bockenem|DE||8r|40h|s5|34|Bokeln
+Boca de Uchire|VE||2c|s5|-51q|31|Uchire
+Boca de Aroa|VE||2c|to|-59q|2s|Boca Aroa
+Boca del Rio|MX|Veracruz|41|1h2|-7ey|2r
+Velykyy Bychkiv|UA||98|3p9|1up|2l|Vélykuï Bytchkiv;Nagybocskó;Bocicoiu Mare
+Bockhorn|DE|Lower Saxony|8r|44c|ma|2h
+Pukinmäki|FI||92|4nc|1xf|2e|Bocksbacka;Puksu
+Bocana de Paiwas|NI||3s|zj|-6kg|27
+Bogatić|RS||8q|3gk|1i4|20|Bocatić
+Böcklersiedlung-Bugenhagen|DE||8r|467|ro|1u
+Bossoroca|BR||4w|-27t|-48i|1n|Boçoroca
+Bocas del Toro|PA||4g|py|-6cg|1i|Bocas Town;Bokas del Toras
+Bocaina de Minas|BR||4w|-1pl|-3fb|1h
+Boca del Monte|MX|Veracruz|41|1h7|-7h0|1c
+Bocairent|ES||9d|2zp|-1q|19
+Bocana|PH||71|rt|9gw|19|Bocania
+Bocicoiu Mare|RO||8u|3p8|1up|18|Bocicoiul Mare
+Bocholtz|NL||8m|3x6|gp|17|Bóches;Bocholz
+Bocaina|BR|Piauí|2w|-ja|-36s|15
+Boca Pointe|US||48|215|-66o|15
+Bộc Bố|VN||62|1qt|85j|11
+Bocaina do Sul|BR||4w|-252|-3uq|z
+Bocsig|RO||8u|3ky|1oz|z
+Bockhorn|DE|Bavaria|8r|3q7|xb|y
+Bocşa|RO|Sălaj County|8u|3nd|1rn|y
+Bohars|FR||9k|3qj|-cj|y|Boc'harzh;Bocharzh
+Bockelwitz|DE||8r|3y8|100|s
+Bőcs|HU||8v|3ph|1m9|r
+Bockau|DE||8r|3we|z9|q
+Bochalema|CO||27|l5|-5lt|p|Bochaleina
+Bocos|PH||71|1b1|9ca|o
+Bockenheim|DE||8r|3tt|mq|n
+Boka|RS||8q|3i0|1lv|m|Boca
+Bočar|RS||8q|3j5|1kc|l|Bocsár
+Bocaneo (San Pedro)|MX||41|1j4|-7s2|l
+Bokoba|MX||3z|1md|-6vq|l|Bocoba
+Bochkivtsi|UA||98|3qj|20p|k|Botchkivtsi;Bocicăuți
+Boca de Yuma|DO||4v|1f2|-5al|k|Boca del Yuma
+Bochov|CZ||9m|3vb|109|j
+Bócsa|HU||8v|3lh|1i4|i
+Boćki|PL||a5|429|1s0|f|Bočkų valsčius
+Bocchigliero|IT||9o|31i|1aj|f|Bocchiglicro
+Bocage|LC||52|12v|-4pd|e
+Boca de Parita|PA||4g|m9|-67h|e
+La Bocana|MX||37|22p|-8gn|d|Bocana
+Bockfließ|AT||a2|3qc|1a4|d|Bockflüss
+Bocabo|CI||0|il|-cr|d|Bokabo
+Bockenau|DE||8r|3uf|lc|c
+Boca del Monte|MX|Veracruz|41|1cx|-7dx|b
+Bochojbo Alto|MX||41|1ai|-75k|b
+Bockhorst|DE||8r|43b|l2|a
+Bocas|MX||41|1qk|-7sm|a
+Bochoř|CZ||9m|3ta|1cf|a
+Bocamiño|MX||41|1k8|-7n7|a
+Bochmanivka|UA||98|3oe|2a5|9|Bachmanovka;Bochmanovka
+Busset|FR||9k|3jy|9r|9|Boçac dArona
+Boca de Cupe|PA||4g|mb|-5zj|9
+Bókhali|GR||8p|2wz|1m1|9|Mpochali;Bochali
+Boca del Río|MX|Oaxaca|41|191|-7cc|8
+Bocksdorf|AT||a2|3my|18y|8
+Bocoyna|MX||2g|25c|-8av|8
+Boca|IT||9o|3iw|nd|8
+Böchingen|DE||8r|3ss|mh|8
+Bocicoel|RO||8u|3oi|1vk|8|Kisbocskó
+Puka|EE||9x|4h9|20v|7|Bockenhof;Bokkengof’
+Boca Mismaloya|MX||41|1l1|-84h|7|Mismaloya
+Boca Nopal|MX||41|1g4|-7if|7
+Boca de Lima|MX||41|1l4|-7hu|7
+Boceguillas|ES||9d|36u|-a4|7
+Boczów|PL||a5|41c|15j|7|Bottschow
+Boca de Tomatlán|MX||41|1kz|-84j|7
+Boca del Monte|MX|Oaxaca|41|1be|-7by|6
+Bocicău|RO||8u|3pm|1sc|6
+Boca del Monte|MX|Puebla|41|1f3|-7ho|6
+Bočna|SI||9a|3kl|15a|6
+Boca de San Jerónimo|MX||41|1dq|-73b|6|Boca San Jerónimo
+Bocca Callalta|IT||9o|3iy|yk|6|Bocca di Callalta
+Boca de Huérgano|ES||9d|3bd|-do|6
+Bocka|DE||8r|3x6|x9|6
+Bucuklu|TR||94|33u|3bm|6|Böcüklü
+Bocaja|MX||41|1kb|-7n1|6
+Bocé|FR||9k|3nz|-8|5
+Boca del Río|MX|Sinaloa|3x|1y9|-8de|5
+Boca del Monte|MX|Veracruz|41|1f3|-7cy|5
+Bocholtzerheide|NL||8m|3x6|gn|5

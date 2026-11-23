@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ceará-Mirim|BR||2w|-fn|-2qf|lz
+Chapayevsk|RU||9p|436|3u3|jh|Tsjapajevsk;Tchapaïevsk;Čapaevsk;Ĉapajevsk;Tšapajevsk;Ceapaievsk;Czapajewsk;Tjapajevsk;Čapajewsk;Tschapajewsk;Chapaevsk
+Carlow|IE||8z|42s|-j9|7m|Ceatharlach
+Ceadîr-Lunga|MD||8x|3jy|283|6b|Chadyr-Lunga;Ceadâr-Lunga
+Peterhead|GB||9b|4fr|-4y|5b|Peterheid;Ceann Phàdraig;Pyterhedas
+Barrhead|GB||9b|4b0|-c7|4z|Barhedas;Ceann a Bhàirr;Ceann a Bhárra
+Chaplynka|UA||98|3ks|2l6|2p|Tšaplynka;Čaplinka;Txaplinka;Tjaplynka;Chaplinka;Tšaplõnka;Čaplynka;Czapłynka;Ceaplînka
+Chahor|UA||98|3q0|207|2e|Ceahor
+Carryduff|GB||9b|47g|-gd|26|Ceathrú Aodha Dhuibh
+Kelso|GB||9b|4ag|-6r|1x|Cealsaidh;Cealsach;Kelsae
+Kirriemuir|GB||9b|4df|-8c|1q|Cearan Mhoire
+Chabany|UA||98|3vu|2cj|1f|Chabani;Čabany;Çabanı;Czabany;Ceabanî
+Kinross|GB||9b|4c4|-9i|1d|Ceann Rois
+Kells|IE||8z|459|-j4|1c|Ceanannas;Kelsas;Kelsa
+Kintore|GB||9b|4f0|-6j|1b|Ceann-an-Tor
+Campbeltown|GB||9b|49z|-fl|19|Cammeltoun;Ceann Loch Chille Chiaráin;Balley Keeill Charane
+Ceanu Mare|RO||8u|3ln|1uj|16|Ceanul-Mare
+Voskresenka|UA|Zaporizhzhia|98|3nv|2t0|z|Chapayevka;Chapaievka;Woskresenka;Ceapaievka
+Cea|ES|Galicia|9d|39z|-m7|u
+Ceamurlia de Jos|RO||8u|3g9|27s|q|Keamurli de jos;Ceamurli-de-Jos
+Ceahlău|RO||8u|3mp|205|p|Csalhó;Ciahlău
+Lochgilphead|GB||9b|4bo|-f3|o|Loxqilpxed;Ceann Loch Gilb
+Kanturk|IE||8z|40x|-oq|o|Ceann Toirc
+Ceauru|RO||8u|3h1|1sg|n|Ciauru
+Clogherhead|IE||8z|45f|-hc|l|Ceann Chlochair
+Kingussie|GB||9b|4ek|-b9|f|Ceann a Ghiúthsaich;Kineussie
+Ceacu|RO||8u|3ez|23p|f
+Ceardac|RO||8u|3iv|23h|d|Ceurdacu;Cerdac
+Ceaucé|FR||9k|3qp|-1r|d
+Zeanuri|ES||9d|3bq|-7n|c|Ceánuri;Ceánuri Alto;Elexondo
+Ceamurlia de Sus|RO||8u|3gc|27h|a|Keamurli de sus;Ceamurli-de-Sus
+Petrivka|UA|Odesa|98|3l6|291|a|Ceaga
+Kinlochleven|GB||9b|4dj|-dt|9|Ceann Loch Líobhann
+Carragh|IE||8z|43w|-ip|9|Ceárach
+Cappoquin|IE||8z|40v|-lt|8|Ceapach Choinn;Capaquin
+Ceatalchioi|RO||8u|3hs|27y|7|Cetalchioi
+Ceaulmont|FR||9k|3l8|4e|7
+Ceaux-en-Loudun|FR||9k|3mn|o|6
+Cea|ES|Castille and León|9d|39y|-dx|6
+Ceanu Mic|RO||8u|3lk|1tv|5|Ceanul-Mic
+Ceaux-en-Couhé|FR||9k|3ko|n|5

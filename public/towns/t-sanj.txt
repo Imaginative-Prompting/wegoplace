@@ -1,0 +1,779 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sanya|CN||7i|1ep|8g7|7yi|San-ja;Senya shehiri;Tam Á;Sam-a-chhī;Săng-ā;Sanj;Sama
+San Jose|US|California|3p|2vq|-9el|7p2|San-Joseo;San Chozė;Iosephopolis;San Xosé;Sanhosē;San-Xose
+San Juan|PR||4m|1fb|-53n|385|San Chuanas;San Xoán;San-Juano;Sanhuana;San Xuan;San Huan
+San Jose del Monte|PH||71|155|9c9|2re|San-Joseo de la Monto
+San José|CR|San José|2i|rl|-6hk|2l2|San-Joseo;San Chosė;San Jusiy;San Jozé;San Xosé;San-Xose;Sanhosē;Urbs Sancti Iosephi in Costarica;San Hose
+Changji|CN||7t|3e9|6qi|1j8|Sanji;Sanji Shehiri;Ch’ang-chi;Changki
+San Juan de los Morros|VE||2c|rj|-573|18p|San-Juan-de-los-Morros;San Juan de los Moros
+Tuxtepec|MX||41|1e9|-7f1|18b|San Juan Bautista Tuxtla;San Juan Bautista;Tustepekas;San Juan Bautista Tōchtepēc
+San Jose|PH|Mimaropa|71|yb|9cb|13v
+San Juan del Río|MX|Querétaro|41|1kn|-7ps|12l
+San Juan Sacatepéquez|GT||32|14w|-6zs|121
+San José del Cabo|MX||3x|1s1|-8gq|11v
+San Juan|PH|National Capital Region|71|14k|9c7|11b
+St. John's|CA||50|3o4|-42f|up|Saint John's;St Johns;San Juan de Terranova;Baile Naoimh Eòin;Baile Sheáin;Sent Džonsas;Sanctus Ioannes Terrae Novae;Saint John;Saint-Jean de Terre-Neuve;Saint-Jean;Sent-Jons;Sent-Cons
+San Juan|AR||1t|-2fm|-5ad|ub|San Chuanas;Sanctus Ioannes a Cuio
+San Justo|AR|Buenos Aires|1l|-2oc|-4io|t9
+Sanjō|JP||7q|2wi|apz|qa|Sanzyô-chhī
+San Juan Bautista|VE||2c|ul|-4xm|p4
+San José de Guanipa|VE||2c|op|-4y9|n3
+San José Pinula|GT||32|14f|-6z5|m6
+San Juan|PE|Loreto|3o|-ai|-5nk|lq
+San Juan de la Maguana|DO||4v|1g9|-5hv|ka|San Juan
+San Joaquín|VE||2c|si|-58b|jf
+San José de las Lajas|CU||36|1rs|-6c7|f8|San Hose de las Hahas
+San Josecito|VE||2c|la|-5km|f7|San Josesito
+San José del Guaviare|CO||27|75|-5ls|eo|San Xose del Quavyare
+San Juan de los Lagos|MX||41|1n1|-7w9|dj
+Santa Ana|PH|Central Luzon|71|15y|9bh|d4|San Joaquin
+San Jacinto|US||3p|2lu|-90w|d2
+Sanjiao|CN|Chongqing|7i|29x|863|cx
+San Javier|CL||4u|-2qw|-5j9|b6
+San Juan del Cesar|CO||27|tx|-5ms|b5|San Juan de César
+Sanjiang|CN||7i|28e|88f|b2|San-chiang
+San José del Castillo|MX||41|1kz|-7ys|aw
+San José de los Cerrillos|AR||1s|-1x6|-51w|ak|Cerrillos;Serrillos;Serillos
+San Jerónimo Cuatro Vientos|MX||41|1hl|-7mk|a8
+San Juan|US|Texas|2f|20r|-7ko|a6|San Chuanas;Sanhuana
+San Juan Capistrano|US||3p|2l2|-92u|a5|San Xuan Kapistrano
+San José de Mayo|UY||45|-2ne|-4dj|9z|San Chose de Majas
+San Jose|PH|Bicol Region|71|113|9j7|9y
+Sanjiao|CN|Chongqing|7i|28p|88i|9v|San-chiao
+San José de Metán|AR||1s|-1yu|-50h|9m|Estación Metán
+San Juan Nepomuceno|CO||27|rn|-5sk|9h
+San Javier|ES||9d|2x1|-2c|8q
+San José|CR|Alajuela Province|2i|uf|-6ki|8q|Pizote
+San José Guadalupe Otzacatipan|MX||41|1hq|-7on|8p
+San Jose|PH|Caraga|71|sa|9ot|7f
+San Jerónimo Chicahualco|MX||41|1hk|-7on|7b
+San Juan|CR|San José|2i|ro|-6hk|78
+San Juan Ixtayopan|MX||41|1hf|-7n0|6p|Ixtayopan
+San Jacinto|CO||27|rb|-5so|6k
+San José Iturbide|MX||41|1mc|-7qv|6j|San Jose de Iturbide
+San Jorge Pueblo Nuevo|MX||41|1hh|-7or|6f
+San José del Valle|MX|Nayarit|3x|1lo|-84b|69
+San José de Barlovento|VE||2c|sm|-53b|68
+Sant Joan d'Alacant|ES||9d|2yo|-18|63|San Juan de Alicante
+San Justo|AR|Santa Fe|1n|-2dj|-4ob|62
+San José de Ocoa|DO||4v|1fj|-5fv|5v
+Sanjianzai|CN||7i|1r5|8s2|5u
+San Juan de Aznalfarache|ES||9d|2vs|-gs|5s
+San Juan de Urabá|CO||27|oc|-5wl|5k
+San Juan Zitlaltepec|MX||41|1j1|-7nf|5g|San Juan Cītlaltepēc
+San José de Colinas|HN||56|15s|-6ta|58|San José Colinas
+San José de los Olvera|MX||41|1l3|-7qy|54
+San José del Quince|MX||41|1l2|-7yw|4x|San José el Quince
+San Jorge|AR||1n|-2gm|-4ru|4p
+San Juan Bautista|PY||1y|-223|-4eq|4m
+San Juan de Flores|HN||56|13n|-6pr|4h|San Juan Flores
+San Javier|AR|Santa Fe|1n|-2cy|-4mh|4c
+Sanjan|IN||6t|1k3|5ma|4b
+San Juan de Dios|CR||2i|rg|-6hk|4b
+San Jose Village|MP||bf|15l|b8i|46|San Jose;San Jose Köyü;San Jose qishlog'i;Desa San Jose;Kampung San Jose;Pueblo San Jose;San Jose Gida;Gandaa San Jose;Vila San Jose;Tuulo San Jose;Kijiji cha San Jose
+Saint-Jean-de-Luz|FR||9k|3cj|-4m|41|San Juan de Luz;Donibane Lohizune;Sant Chuan de Luz;Sent Joan de Lus;Sant Joan Lohitzune;Fanum Sancti Ioannis de Luce;San Juan de Luze
+San José el Alto|MX||41|1ld|-7qu|3x
+San José del Rincón|AR||1n|-2fs|-4o9|3w
+San Jacinto Amilpas|MX||41|1bi|-7gs|3v
+San José de Jáchal|AR||1t|-2c0|-5az|3u|San Chose de Chačalis;San Xose de Jachal
+San Ġiljan|MT||9e|2rs|149|3u|San Julián;St. Julian's;San Julian's;Saint Julian's;San Ġilian;Saint Julian
+San Juan Chamelco|GT||32|16u|-6yx|3p
+San Jerónimo|CO||27|hw|-5ud|3o
+San Julián|MX|Jalisco|41|1md|-7vu|3l
+San Javier|AR|Misiones|1n|-25f|-495|3l
+San Juan|EC||33|-4n|-65l|3k
+San Juan|PE|Ica|3o|-16p|-5ss|3k
+San José|AR|Catamarca|1m|-26v|-52i|3j|San Xose
+San Juan Bautista|ES||9d|34d|-a6|3g
+San Juan de las Huertas|MX||41|1hh|-7p4|3f|SanJuan;San Juan de la Huerta;San Juan
+San Josecito|CR||2i|rt|-6hn|3e
+San Germán|PR||4m|1e8|-568|3d|San Herman;San Jermani;San 7 ermani
+San Juan Tezompa|MX||41|1hd|-7mw|3a|San Juan y San Pedro Tezompa
+San Juan Bautista|PA||4g|m4|-67e|3a
+Sanjiaocheng|CN||7i|2uh|7sk|34|San-chiao-ch’eng
+San José de Feliciano|AR||1n|-2cf|-4j7|33
+San Juan Cotzal|GT||32|16v|-70v|32
+Sant Joan de Vilatorrada|ES||9d|37z|50|30|San Joan de Vilatorrada
+Sanjwal|PK||6q|2ls|5l7|2z
+San Juanito|MX|Chihuahua|2g|25p|-8aw|2x
+San Jacinto|PH|Ilocos|71|18n|9ak|2x
+San Juan de Abajo|MX|Nayarit|3x|1lu|-847|2w
+San José de la Mariquina|CL||4u|-31u|-5mp|2s
+San José de Las Matas|DO||4v|1hq|-5h2|2r|San José de los Matas
+Sanjian|CN||7i|2at|8bm|2p
+San Juan de Opoa|HN||56|152|-6ue|2p|San Juan Opoa
+San Juan de la Vega|MX||41|1la|-7rw|2o
+San José de Gracia|MX|Michoacán|41|1jj|-7y6|2n
+San Juan de Betulia|CO||27|pr|-5t0|2j
+Sanji|KR||7h|2l4|9rh|2h
+San Jeronimo De Tunan|PE||3o|-x8|-5t4|2g
+San José Ixtapa (Barrio Viejo)|MX||41|1d6|-7ua|2f
+San Juan Tilapa|MX||41|1he|-7ou|2c
+San Juan Xiutetelco|MX||41|1j0|-7id|2b
+San Juan Tepulco|MX||41|1h4|-7k7|2a
+San José las Palmas|MX|México|41|1ht|-7mt|2a
+San Jerónimo|GT||32|15u|-6yo|29
+Sant Julià de Lòria|AD||8n|39y|45|28|San Julià
+San Juan Nepomuceno|PY||1y|-20j|-4be|27
+San José de Comayagua|HN||56|14x|-6sj|27|San José Comayagua
+San Juan del Sur|NI||3s|v9|-6mj|26
+San Juan|CR|Alajuela Province|2i|s2|-6i8|25
+San Julian|BO||3n|-1de|-4un|25
+San Jacinto|PH|Bicol Region|71|yx|9jp|24
+San José el Verde|MX||41|1l4|-7yw|24|Colonia el Verde
+San Jose|PH|Central Luzon|71|15r|9bi|23
+Sanjeli|IN||6t|1s2|5ph|22|Sanjell
+San José|PE|Lambayeque|3o|-iq|-65r|22
+San Jerónimo de Juárez|MX||41|1bm|-7r3|20
+San Jorge|NI||3s|vu|-6mc|20
+San Juan Opico|SV||2u|12k|-6w8|1z
+Totolac|MX||41|1hp|-7ky|1y|San Juan
+San Juan Cosalá|MX||41|1kd|-7z2|1y
+San Juan Bautista|PE||3o|-12x|-5ue|1x
+San Juan del Puerto|ES||9d|2vo|-j0|1w
+San Jeronimito|MX||41|1ct|-7ti|1w|El Barrio;San Jerónimo;San Goronimito
+San Joaquín Coapango|MX||41|1ia|-7mj|1w
+San Juan Tehuixtitlán|MX||41|1gx|-7md|1v
+San Juan Huactzinco|MX||41|1hf|-7kx|1v
+San Jerónimo Coyula|MX||41|1gh|-7lo|1u
+San Jose De Sisa|PE||3o|-id|-5x1|1t
+San Jerónimo Amanalco|MX||41|1i8|-7mc|1t|San Jeránimo Amanalco
+San José|AR|Misiones|1n|-255|-4ay|1t
+Camariñas|ES||9d|3bt|-pi|1s|San Xurxo;San Jorge;Camarines
+San José Acatempa|GT||32|13n|-6yd|1s
+San Jose|PH|Northern Mindanao|71|li|9nf|1r
+San Juan Cancuc|MX||41|1ax|-74l|1r
+San Juan Tuxco|MX||41|1hi|-7lh|1q
+San Jose|PH|Mimaropa|71|r8|95w|1p
+San José Poaquil|GT||32|156|-70j|1o
+San Juan Tepa|MX||41|1k6|-7n7|1n
+San Jose|PH|Cagayan Valley|71|1bn|9ds|1n
+San José Tetel|MX||41|1hz|-7ko|1n
+San José Temascatío|MX||41|1lh|-7ta|1m
+San José Xicohténcatl|MX||41|1hr|-7jr|1m|San José Xicoténcatl;Xicohténcatl;San José
+San Juan Pueblo|HN||56|17a|-6qb|1l
+San José de la Dormida|AR||1n|-2cc|-4xn|1l
+San José de Maipo|CL||4u|-2lg|-5ff|1l
+San Jerónimo|PE||3o|-11x|-5ns|1k|San Geronimo
+San Juan Colorado|MX||41|19q|-7k3|1k|San Juan Colbrado
+San Juan Bautista Valle Nacional|MX||41|1de|-7fi|1j|San Juan Baustista Valle Nacional
+San José Teacalco|MX|Tlaxcala|41|1hq|-7ke|1i
+San Juanito de Escobedo|MX||41|1ls|-80w|1i
+Sanjali|IN||6t|1nv|5mr|1h
+San Jose de Lourdes|MX||41|1so|-7y5|1h
+San José el Vidrio|MX||41|1il|-7o2|1g
+San José de Gracia|MX|Jalisco|41|1lf|-7wx|1g
+San José Agua Azul|MX||41|1kx|-7rm|1f|San José de Agua Azul
+San Juan Coajomulco|MX||41|1iv|-7pp|1f
+San José de los Arroyos|PY||1y|-1yx|-4dl|1f
+San Juan|PH|Central Luzon|71|16h|99i|1e
+San Juan de la Rambla|ES||83|26v|-1a9|1e|San Juan de Rambla
+San Juan de Limay|NI||3s|10m|-6ol|1e
+San José de Gracia|MX|Aguascalientes|41|1pj|-7wi|1d|San José de García
+San Juan Ixcaquixtla|MX||41|1fa|-7jr|1d
+San José del Golfo|GT||32|150|-6z1|1d|San José El Golfo
+San Joaquin|PH|Western Visayas|71|tf|9fa|1d
+San José el Cuartel|MX||41|1go|-7om|1d
+Sant Joan de Labritja|ES||9d|30k|47|1c|San Juan Bautista
+San Jerónimo Acazulco|MX||41|1hj|-7o5|1c
+San José Chiapa|MX||41|1hg|-7jl|1c
+San Jerónimo Ocotitla|MX||41|1gv|-7k4|1c
+Cholul Cantón|MX||3z|1md|-6w1|1b|Cholul;San José Cholul
+San Juan La Laguna|GT||32|14t|-71l|1a
+San Jose|PH|Cagayan Valley|71|1dp|9ej|19
+San Juan de Abajo|MX|Guanajuato|41|1mi|-7ub|19
+San Joaquin|PH|Eastern Visayas|71|xt|9ln|19|San Juaquin
+San José Vista Hermosa|MX|Morelos|41|1ft|-7nr|18
+San Jorge Tezoquipan|MX||41|1ho|-7l3|18
+San Juan Yautepec|MX||41|1hr|-7ny|18
+San José de Bácum|MX||37|24f|-8hy|17
+San Juan Guichicovi|MX||41|1b4|-7c5|17
+San Juan Tuxtepec|MX||41|1j6|-7or|17
+San Juan Cacahuatepec|MX||41|1a6|-7ko|16
+San José del Progreso|MX|Oaxaca|41|18q|-7je|15
+San Juan Evangelista|MX||41|1dp|-7ca|14
+San Joaquin|US||3p|2tp|-99v|14
+San José|PA|Panamá Oeste Province|4g|ot|-65h|14
+San Juan Amecac|MX||41|1gb|-7m2|14|Amecac
+San Jacinto|UY||45|-2ny|-4b7|14
+San José|AR|Catamarca|1m|-22g|-53j|13
+San Juan de las Manzanas|MX||41|1ib|-7pc|13
+La Unión del Cuatro|MX||41|1l1|-7z5|12|San José del Valle
+San Juan de Río Coco|NI||3s|11m|-6nc|12|San Juan del Río Coco
+San Juan Tepecoculco|MX||41|1gq|-7mf|12
+San Jose|PH|Western Visayas|71|tx|9gd|12
+San Jose|PH|Eastern Visayas|71|uj|9nc|11
+San José de Llanos|MX||41|1lx|-7tf|11|San José
+San Juan del Llanito|MX||41|1kz|-7ra|11
+San Juan del Surutú|BO||3n|-1ck|-4wy|11
+San Juan Cotzocón|MX||41|1bo|-7e2|11
+San Juan Raboso|MX||41|1fl|-7lg|10|Raboso;Rabosa
+San José Atlán|MX||41|1ki|-7ov|10
+San José Tzal|MX||3z|1lu|-6x2|z
+San Juan Xochiaca|MX||41|1gt|-7oi|z
+San Juan|PH|Central Luzon|71|15q|9b8|z
+San Jose|BZ|Orange Walk District|24|1ek|-6u1|z
+San Joaquin|PH|Calabarzon|71|131|9cq|z
+San Jerónimo Zacualpan|MX||41|1hg|-7ky|z
+Tabacao|PH||71|17h|9by|z|Tabaco;San Jose
+San José Chiltepec|MX||41|1dv|-7f5|z
+San Jerónimo Ixtapantongo|MX||41|1ia|-7p5|y
+Tuzuapan|MX||41|1gi|-7jb|y|San José
+San José Huipana|MX||41|1kc|-7tv|y|Sa José Huipena
+San Juan Tetla|MX||41|1he|-7lm|y
+San José Acateno|MX||41|1jx|-7i1|y
+Chamula|MX||41|1am|-75h|x|San Juan Chamollan
+San José|PR||4m|1f4|-542|x
+San Juan|PH|Calabarzon|71|132|9cr|w
+San Joaquin Hills|US||3p|2ld|-93c|w
+San Juan|PH|Ilocos|71|1da|9am|v
+San José Poliutla|MX||41|1er|-7qv|v
+San Jerónimo|MX|Zacatecas|41|1qx|-7wp|v
+San Julian|PH||71|wn|9oi|v
+San Juan Xoconusco|MX||41|1hn|-7qi|u
+San Juan Guelavía|MX||41|1b4|-7g6|u
+San Juan Teacalco|MX||41|1j0|-7ml|u
+San Juan|MX|México|41|1hh|-7pv|u
+San Juan del Rio del Centauro del Norte|MX||44|1wu|-826|t|San Juan del Rio;San Juan de Río
+San Juan de Otates|MX||41|1mn|-7u4|t
+San Juan|PH|Western Visayas|71|sv|9hb|t
+San Juan Pan de Arriba|MX||41|1nn|-7sc|t
+San José del Progreso|MX|Oaxaca|41|1ad|-7gk|s
+San José de la Montaña|CO||27|j1|-5u8|s
+San Jose de Buan|PH||71|xh|9nb|s
+San Jose|PH|Bicol Region|71|10t|9ip|s
+San Jacinto|PH|Central Luzon|71|176|9b7|s
+Saint-Georges|GF||2d|at|-3zw|r|San Jorge de Oyapoque;Saint Georges
+San José el Saladillo (El Saladillo)|MX||41|1r1|-7vg|r
+San Juan Bautista|GT||32|142|-71a|r
+San Juan Guarita|HN||56|13e|-6uq|r
+San Juan Jalpa Centro|MX||41|1iq|-7pl|r
+San Juan Tahitic|MX||41|1je|-7iz|q
+San Juan|PH|Calabarzon|71|11k|9gi|q
+San Juan de Arama|CO||27|9d|-5p7|q
+San Juan Tilcuautla|MX||41|1k0|-7mg|q|San Juan Ticuautla
+San Juan Benito Juárez (San Juan Tararameo)|MX||41|1jc|-7sx|q
+San José Aztatla|MX||41|1hn|-7kl|q
+San José Tejamanil|MX||41|1hz|-7o0|q
+San Jerónimo Bonchete|MX||41|1ij|-7pn|q
+San Jerónimo de los Jarros|MX||41|1j8|-7pk|q
+San Juan Teitipac|MX||41|1b1|-7gd|p
+San Juan Ixcoy|GT||32|17c|-721|p
+San Juan del Estado|MX||41|1bz|-7gw|p|San Juan
+San Juan|PH|Cagayan Valley|71|1cd|9e7|p
+San José de Guanajuato|MX||41|1l4|-7s9|p
+San Jerónimo Almoloya|MX||41|1gm|-7k9|p
+San Jerónimo|MX|México|41|1hg|-7pu|p
+San José de Mendoza|MX||41|1lh|-7t5|o
+San Jose Soccoths|BZ||24|1bg|-6vl|o
+Sanjūkyūsen|JP||7q|3eb|b18|o|Sanjūkusen
+San José El Ídolo|GT||32|145|-71y|o
+San Juan de los Jarros|MX||41|1j6|-7pk|o
+San José Tenería (Tenería)|MX||41|1gn|-7oi|o
+San Juan Bautista la Raya|MX||41|1b7|-7go|o
+San José del Palmar|CO||27|dm|-5vr|o
+San Jerónimo|HN|Choluteca Department|56|10m|-6q2|o
+San José de Bocay|NI||3s|11m|-6lm|o
+San José de Raíces|MX||44|1w9|-7qg|o
+San José La Arada|GT||32|14w|-6wv|o|San José Arada
+San Jacinto|MX|Aguascalientes|41|1q3|-7vz|o
+Sant Josep de sa Talaia|ES||9d|304|3l|n|San Jose de la Atalaya;San Jose
+San Juan Totolcintla|MX||41|1dr|-7nx|n
+San Juan Ahuehueyo|MX||41|1g0|-7mt|n
+San José Carpinteros|MX||41|1gr|-7jz|n
+San Jose|PH|Calabarzon|71|12h|9bz|n
+San Jerónimo Tlacochahuaya|MX||41|1b9|-7ga|n
+Manuel León|MX||41|1gd|-7h3|n|San José de Gracia
+San José Buenavista el Grande|MX||41|1hx|-7om|n|San José Buenavista
+Quebrantadero|MX||41|1fg|-7mf|n|San José
+San Jacinto|MX|México|41|1hs|-7nw|n
+San Juan la Isla|MX||41|1h5|-7ol|m
+San Juan Tecuaco|GT||32|134|-6yr|m
+San José Buenavista|MX|Puebla|41|1fu|-7j2|m
+San Juan Pueblo Nuevo|MX||41|1iy|-7n2|m
+San José de la Laja|MX||41|1la|-7pq|m|San José la Laja
+San Jose Palmar|BZ||24|1e6|-6u0|l|San Jose Palmer
+San Juan Quiahue|MX||41|19a|-7ic|l|San Juan Quiahije
+San Juan Epatlán|MX||41|1fs|-7l9|l
+San José de los Remates|NI||3s|z0|-6m8|l
+San Juan de Oriente|NI||3s|x3|-6n3|l
+San José Monte Chiquito|MX||41|1fe|-7io|l
+San Juan Achichilco|MX||41|1k2|-7nv|l
+El Contadero de Matamoros|MX||41|1hg|-7p9|l|San José el Contadero;Contadero de Matamoros
+San José Tilapa|MX||41|1eg|-7hq|l
+San Justo de la Vega|ES||9d|39y|-gq|l
+San José Casas Caídas|MX||41|1kq|-7wk|l|Casas Caídas;San José de Casas Caidas
+San José Chapayal|MX||41|1c2|-761|l
+San Juan|PH|Eastern Visayas|71|uk|9ly|l
+San Juanito Itzícuaro|MX||41|1in|-7t9|k
+San José Chacalapa|MX||41|17z|-7fy|k
+San José|MX|México|41|1gt|-7ou|k
+San Juan Atzingo|MX|Puebla|41|1eu|-7ij|k|Atzingo
+San Juan De Los Platanos|MX|Michoacán|41|1h6|-7wk|k
+San José del Cerrito de Camargo|MX||41|1kq|-7so|k|Cerritos;Cerrito de Camargo
+San Joaquín|MX|Querétaro|41|1m4|-7ol|k
+San José de Viñedo|MX||44|1z9|-7z8|k
+San Juan Atenco|MX||41|1h1|-7iy|k|Atenco
+San José|MX|Puebla|41|1j0|-7id|k
+San Juan Bautista|US||3p|2ud|-9dm|k
+San Juan Cuauhtémoc|MX||41|1hv|-7lw|k
+San Jerónimo de Araceo|MX||41|1kh|-7t2|k|San Jerónimo Araceo
+San José Comalco|MX||41|1i3|-7or|k
+San José Tenejapa|MX||41|1gu|-7h0|k
+San Juan Tecomatlán|MX||41|1kh|-7ye|k
+San Juan de Moró|ES||9d|33a|-e|j|Sant Joan de Moro
+San José|PE|Ucayali|3o|-n6|-5r8|j
+San Juan Jicayán|MX||41|19s|-7k9|j
+San Juan Atitán|GT||32|16v|-72i|j|San Juan Atitlán
+San José|HN|Yoro Department|56|16k|-6q5|j
+San Juan Bautista Lo de Soto|MX||41|19v|-7l7|j
+Chiquihuitlán de Benito Juárez|MX||41|1e0|-7gq|j|San Juan Chiquihuitlán
+San Javier|MX|Querétaro|41|1ln|-7p0|j|Las Tuzas
+San José Río Manzo|MX||41|1d3|-7ec|j|San José Río Manso
+San Jerónimo Tulijá|MX||41|1bu|-72z|j
+San Jorge Nuchita|MX||41|1d2|-7ki|j
+Saint-Jean-Pied-de-Port|FR||9k|3bw|-3g|i|Donibane-Garazi;San Juan Pie de Puerto;Fanum Sancti Ioannis Pedeportuensis;Sant Joan de Peu de Port;Donibane Garazi;Sent Joan Pè de Pòrt;Sant Chuan Piet de Puerto
+San José del Puente|MX||41|1is|-7nk|i
+San Juan Coxtocan|MX||41|1h6|-7ml|i
+San José Yocnajab|MX||41|195|-73t|i
+San Jerónimo Purenchécuaro|MX||41|1io|-7u9|i
+San Jerónimo|HN|Comayagua Department|56|14n|-6rd|i|San Geronimo
+San José|HN|Copán Department|56|15e|-6ug|i
+San Juan Mazatlán|MX||41|1bb|-7d5|i|Mazatlán
+San Javier|UY||45|-2ir|-4hh|i
+San José|CO|Nariño|27|4q|-61c|i
+San Jerónimo Yahuiche|MX||41|1bj|-7gt|i
+San Joaquín|PY||1y|-1xj|-4bo|h
+San José Toxi|MX||41|1j7|-7pl|h
+San José de Tapia|MX||41|1gd|-7hb|h
+San José del Jagüey|MX||41|1lm|-7pk|h
+San Juan Volador|MX||41|1eq|-7ax|h
+San José|CO|Caldas Department|27|e4|-5uj|h
+San Jacinto|MX|Jalisco|41|1ko|-7ya|h
+San Juan de Guadalupe|MX||44|1wf|-7xi|h
+San José la Hacienda|MX||41|1b6|-7n7|h
+San Juan Solís|MX||41|1k0|-7mt|h
+San José Neria|MX||41|1gr|-7hg|h
+San Jerónimo Taviche|MX||41|1af|-7gb|h|San Jerónimo Tabiche
+San José Súchil|MX||41|1gh|-7i4|h
+San José Atoyatenco|MX||41|1hh|-7l8|h
+San José del Tapanco|MX||41|1oh|-7pj|h
+San Juan Juquila Mixes|MX||41|1b2|-7eg|h|San Juan Juquila
+San José de Castellanos|MX||41|1pf|-7u3|h
+San Juan de los Arcos|MX||41|1l8|-804|h
+San Jacinto|MX|Durango|44|1ys|-806|h
+San Juan de los Reyes (Luis Valenzuela)|MX||41|1fg|-7d5|g
+San José del Rincón Centro|MX||41|1im|-7q7|g
+San José de Tarros|HN||56|16i|-6ue|g
+San José de Cervera|MX||41|1m9|-7te|g
+San Juan Ermita|GT||32|150|-6wf|g
+Santa Lucía|MX|Oaxaca|41|18z|-7gd|g|Miahuatlán;San Jerónimo
+San José Ithó|MX||41|1k0|-7q5|g|San José Itó
+San Juan Cabeza del Río|MX||41|1aj|-7jw|g|San Juan Cabeza de Río
+San José la Garzona|MX||41|1ac|-7gg|g|La Garzona
+San José del Potrero|MX||41|1mp|-7u8|g
+San José del Tunal|MX||41|1iz|-7pc|g
+San Juan de la Virgen|PE||3o|-a3|-67f|g
+San José Buenavista|MX|Querétaro|41|1ll|-7qx|g|San José de Buenavista
+San José de Mojarras|MX||3x|1nj|-82l|f
+San Juan Ahuehueco|MX||41|1mg|-7mr|f
+San Jacopo al Girone|IT||9o|3dl|vi|f
+San Joaquin|BZ||24|1ez|-6to|f
+San José Ozumba|MX||41|1hf|-7jh|f
+San Juan|PE|Ucayali|3o|-n4|-5r8|f
+San Jacinto|GT||32|14s|-6wm|f
+San Joaquín del Monte|MX||41|1hy|-7pi|f
+San Juan del Paraná|PY||1y|-23u|-4bg|f
+San Juan Atepec|MX||41|1cf|-7g6|f
+San Juan|MX|Nuevo León|44|1yy|-7pc|f
+San Juan Pancoac|MX||41|1h7|-7lg|f
+San José Lachiguiri|MX||41|19i|-7fm|f
+San Jerónimo el Grande|MX||41|1el|-7r6|f
+San Juan Totolapan|MX||41|1i9|-7m9|f|San Juan Totolapa
+San Juan de los Cués|MX||41|1e5|-7hm|f|San Juan Los Cues
+San José|HN|La Paz Department|56|13l|-6sc|f
+San José Cuaro|MX||41|1jj|-7t9|f
+San Javier|MX|Guanajuato|41|1lf|-7tr|f
+San José Tlacotitlán|MX||41|1gr|-7mh|f
+San Juan Bautista Jayacatlán|MX||41|1ce|-7gy|f|Jayacatlán
+San Juan Tizahuapan|MX||41|1jp|-7m3|f
+San Juan de Dios (Naranjas de Dios)|MX||41|1fj|-7ok|f
+San Juan Atezcapan|MX||41|1h9|-7qb|f|San Juan Atezcapa
+San José Pathé|MX||41|1i0|-7or|f
+San José las Lomas|MX||41|1i4|-7ov|e|San José de las Lomas
+San Juan Lagunas|MX||41|1b8|-7k1|e|San Juan La Laguna;San Juan Laguna
+San Juan de la Arena|ES||9d|3d0|-gv|e
+San José|PA|Panamá Oeste Province|4g|nq|-660|e
+San José Villarreal|MX||41|1i9|-7jy|e
+San Juan Chilateca|MX||41|1ar|-7gj|e
+San Jerónimo Coaltepec|MX||41|1jk|-7jv|e
+San José del Boquerón|HN||56|174|-6s6|e
+San José de Cusmapa|NI||3s|10x|-6oq|e
+San José de Ayala|MX||41|1kn|-7ts|e|San José Ayala
+San Juan de Sabinas|MX||44|25l|-7te|e|San Juan Sabinas
+San Jerónimo Totoltepec|MX||41|1hn|-7qc|e
+San José de Abajo|MX||41|1g6|-7gu|e
+San José del Sitio|MX||41|1ig|-7ov|e
+San Julián|MX|Veracruz|41|1hh|-7fe|e
+San Juan Huiluco|MX||41|1g7|-7lh|e
+San José Villa de Allende|MX||41|1hu|-7q7|e
+San Juan Colón|MX||41|1fm|-7ls|d
+San Juan Bautista|MX|Nayarit|3x|1pj|-83y|d
+San Juan Hueyapan|MX||41|1jn|-7l0|d
+San Juan Quiotepec|MX||41|1cw|-7gb|d
+San José el Llanito|MX||41|1hm|-7oc|d
+San José Viborillas|MX||41|1l5|-7rj|d
+San José de Zaragoza|MX||44|1y3|-7zf|d
+San Juan Tomasquillo Herradura|MX||41|1h9|-7o4|d
+San Juan Tabaá|MX||41|1c3|-7f9|d
+San José Ojetenán|GT||32|16a|-73h|d
+San Juan de los Plátanos|MX|Michoacán|41|1h6|-7wk|d
+San Juan Quetzalcoapan|MX||41|1hu|-7kf|d
+San Juan Metaltepec|MX||41|1bq|-7ef|d|San Juan Metlaltepec
+San José de Gracia|MX|Durango|44|1vz|-82y|d
+San José de la Era|MX||41|1rh|-7wi|d
+San José el Nuevo|MX||41|1ks|-7rx|d
+San Juan Cuautla|MX||41|1eo|-7hc|c|Cuautla
+San Juan Bautista Cacalote|MX||41|1kj|-7rz|c
+San Juan Sautla|MX||41|1dm|-7gj|c
+San José Cuamantzingo|MX||41|1i8|-7kx|c|San José Cuamatzingo
+San Juan Seco de Valencia|MX||41|1ev|-7cc|c|Tres Chorros
+San José de Abajo [Unidad Habitacional]|MX||41|1gk|-7hc|c
+San Juan del Río|MX|Oaxaca|41|1aw|-7f4|c
+San Joaquín|MX|Hidalgo|41|1kz|-7p6|c
+San José de Gracia|MX|Puebla|41|1fs|-7jt|c
+San Juan Cote Ejido|MX||41|1ih|-7po|c
+San José de la Montaña|MX||41|1l8|-7sr|c
+San Juan Diuxi|MX||41|1c0|-7ih|c
+San José Boqui|MX||41|1iq|-7p1|c
+San José de Aura|MX||44|24n|-7tl|c
+San José de los Reynoso|MX||41|1mj|-7w4|c
+San Juan Coatzospam|MX||41|1e5|-7gs|c|San Juan Coatzopan;San Juan Coatzospan
+San José|GT||32|1b6|-6xq|c
+San José de Bernalejo (El Guayabo)|MX||41|1lc|-7to|c
+San José Solís|MX||41|1jk|-7px|c|San José
+San Juan Lachao|MX||41|18w|-7hs|c
+San Juan Tlacotompa (Tlacotompa)|MX||41|1gm|-7mf|c
+San José de Durán (Los Troncoso)|MX||41|1mi|-7uf|c
+Tzicatlacoyan|MX||41|1gc|-7kd|c|San Juan
+San Juan del Río|MX|Oaxaca|41|1cl|-7e0|c
+San Juan Jaripeo|MX||41|1jl|-7rw|c|Jaripéo
+San José de Rancho Nuevo (Los Arrieros)|MX||41|1o0|-7sk|c
+San José de las Flores|MX|Jalisco|41|1ld|-7y1|c|Gallinas de Arriba
+San Jerónimo Xayacatlán|MX||41|1em|-7jz|c
+San José Chalmita|MX||41|1ge|-7oj|c
+San Juan Texcalpan|MX||41|1gm|-7mt|c
+San José del Torreón|MX||41|1nn|-7tv|b
+San Juan Tezongo|MX||41|1j4|-7ig|b
+San José del Caliche (El Caliche)|MX||41|1mp|-7v5|b
+San José Piedras Negras|MX||41|180|-7gb|b|Piedras Negras
+San Joaquín|HN||56|15u|-6uz|b
+San José Cuyachapa|MX||41|1gd|-7ib|b
+San José|MX|Hidalgo|41|1mj|-7lv|b
+San Juan Jaltepec|MX||41|1c7|-7dq|b
+San José del Rodeo|MX||41|1m4|-7t6|b
+San José Yashitinín|MX||41|1a9|-74s|b
+San José de la Paz|MX||41|1l3|-7vi|b
+San Juan Bautista Coixtlahuaca|MX||41|1d8|-7ic|b
+San Juan Bautista Tlacoatzintepec|MX||41|1dm|-7gb|b
+San José Corral Blanco|MX||41|1jb|-7kq|b
+San José Tenango|MX||41|1ef|-7go|b
+San José de Miranda|CO||27|ii|-5m1|b
+San José del Potrero|HN||56|158|-6qg|b
+San Juan Daxthi|MX||41|1ju|-7oh|b|San Juan Daxhi
+San Jerónimo Axochitlán|MX||41|1es|-7i6|b
+San José Manzanitos|MX||41|1hi|-7i1|b
+San José de Guaymas|MX||37|25r|-8k0|b|San José Guaymas
+San José de Las Conchas|HN||56|111|-6qs|b
+San José las Chicharras|MX||41|17g|-745|b
+San Juanico Sector Uno|MX||41|1je|-7p5|b
+San Juan Lachigalla|MX||41|1a3|-7g7|b
+San Juan de la Vaquería|MX||44|1y5|-7t6|b
+San José Tepeyahualco|MX||41|1ig|-7kz|b
+San José Buena Vista|MX||41|1f5|-7i7|b
+San José de Río Tinto|HN||56|15h|-6m2|b|San José del Río Tinto
+San Juan Zapotitlán|MX||41|1dh|-7gd|b
+San José Independencia|MX|Veracruz|41|1g4|-7ha|b
+San Juan de Planes|HN||56|15h|-6um|a|San Juan Planes
+San Jerónimo|HN|Copán Department|56|15l|-6uv|a
+San Julio|MX||44|202|-7za|a
+San José Tepuzas|MX||41|1kj|-7qu|a
+San José Ocotillos|MX||41|1k5|-7lx|a
+San José del Progreso|MX|México|41|1gl|-7p7|a|San José;San José de Progreso
+San Juan|BZ||24|1a0|-6tw|a
+San José de las Flores|MX|Oaxaca|41|1c7|-7d0|a
+San José Boxay|MX||41|1ka|-7na|a
+San José de Gracia|MX|Nayarit|3x|1qg|-84q|a
+San Juan de Viña|MX||41|1hq|-7tw|a
+San Juan Grande|MX||41|1km|-7u1|a|San Juan El Grande
+San Juan Tejaluca|MX||41|1gi|-7lc|a
+San Joaquín Zorrillos|MX||41|1la|-7y6|a
+San José Mezapa Sección I|MX||41|1h8|-7o9|a
+San José Tlacuitlapan|MX||41|1fz|-7j7|a|San José Tlacuitlalpan
+El Arenal|MX|Durango|44|1uu|-823|a|San Jerónimo;Arenal
+San José|ES||9d|2u4|-5v|a
+San José de las Pilas|MX||41|1ld|-7sp|a
+San José Barbabosa|MX||41|1hk|-7p0|a
+San Juan de Iris|PE||3o|-wg|-5wk|a
+San José de las Flores|MX|Oaxaca|41|19k|-7ji|a
+San Juan Acatitlán|MX||41|1gt|-7ql|a|El Grande;Acatitlán
+San José de Gómez|MX||41|1pg|-7rr|a
+San José Buenavista|MX|Guerrero|41|1d3|-7lp|a
+San José Oriente|MX||3z|1ly|-6vi|a|San José
+San José de Félix|MX||41|1tw|-807|a
+San José del Río|MX|Aguascalientes|41|1pg|-7vi|a
+San José de Gracia|MX|Jalisco|41|1ju|-7zc|a|San José de García
+San José de Gracia|MX|Guanajuato|41|1m2|-7tt|a
+San José Llano Cieneguilla|MX||41|18j|-7h7|a|San José Cieneguilla
+San Jerónimo Coatlán|MX||41|193|-7h3|a
+San José Estancia Grande|MX||41|19g|-7kx|a
+San Juan Bautista|CL||4u|-2lg|-62z|a
+San José de Pane|HN||56|148|-6rz|a|San José de Plane
+San Juan de los Llanos|MX||41|1aa|-7lm|a
+San Juan de Razos|MX||41|1l4|-7t7|a|San Juan
+San José Ayuquila|MX||41|1du|-7k5|a
+San Juan Atzingo|MX|México|41|1gt|-7o3|9
+San José el Amate|MX||41|15o|-74s|9
+San José de Saramuro|PE||3o|-d4|-5s4|9
+San José de Jorge López|MX||41|1lf|-7to|9
+San Juan Tetitlán|MX|México|41|1gp|-7ol|9
+San José de Pare|CO||27|gq|-5ob|9|San Jose de Pore
+San Juan Espanatica|MX||41|1i6|-7z8|9|El Pueblito
+San José de Magallanes|MX||41|1ip|-7r6|9
+San Juanico Centro|MX||41|1j5|-7pv|9
+San José Manialtepec|MX||41|18d|-7i4|9
+San José el Rincón|MX||41|1gh|-7ks|9
+San Juan de la Puerta|MX||41|1ll|-7uj|9|San Juan de la Puebla
+San José la Costa|MX||41|1hz|-7os|9
+San Juan Tlalpujahuilla (Tlalpujahuilla)|MX||41|1iz|-7q8|9
+San Jerónimo|MX|Durango|44|1u5|-857|9
+San José del Reparo|MX||41|1k5|-7u0|9|El Reparo
+San José Loma Grande|MX||41|1gr|-7ha|9
+San José del Carmen|MX|Zacatecas|41|1r9|-7w3|9
+San Juan Otzolotepec|MX||41|1c1|-7dj|9|San Juan Ozolotepec
+San Juan Tepepa|MX||41|1gp|-7kn|9
+San Juan|PE|Cajamarca Department|3o|-k9|-622|9
+San Juan Tetelcingo|MX||41|1ds|-7og|9
+San Jerónimo Mavatí|MX||41|1ig|-7pm|9
+San Jerónimo Silacayoapilla|MX||41|1dh|-7js|9
+San José de Allende|MX||41|1ly|-7sn|9|San José de los Allende
+San Juancito|HN||56|13i|-6pv|9
+San Jacinto|PE||3o|-1a3|-5lz|9
+San Jose|BZ|Toledo District|24|197|-6vh|9
+San José de Oriente|HN||56|15r|-6ss|9
+San José de la Presa|MX||41|1l9|-7rv|9
+San Jose de Reyes|MX||44|1vw|-7yh|9
+San José de Manantiales|MX||41|1l8|-7sb|9
+San José del Carmen|MX|Guanajuato|41|1kb|-7s9|9
+San Juan Atzompa|MX||41|1g2|-7ka|9
+San Juan Piñas|MX||41|1bu|-7km|9|Piñas
+San José Vista Hermosa|MX|Guerrero|41|1b7|-7m4|9
+San Jerónimo Tecóatl|MX||41|1eh|-7h7|9
+San Juan Petlapa|MX||41|1cj|-7es|9
+San Jerónimo|MX|Michoacán|41|1fh|-7th|9|San Geronimo
+San Juan Bautista Coapala|MX||41|1cg|-7mk|9
+San José Cuaracurio|MX||41|1ju|-7t0|9|San Jose Cuaracuario
+San Juan Huerta|MX||41|1j0|-7qx|9|San Juan;Huerta
+San José de González|MX||41|1ky|-7u0|9
+San Juan Bautista Guelache|MX||41|1bv|-7gu|9
+San Jacinto|MX|Puebla|41|1h7|-7kx|9
+San José de la Brecha|MX||3x|1ye|-8d8|8
+San José de los Pozos|MX||41|1kj|-7zp|8
+San Juan Tulija (San Juan)|MX||41|1bw|-73h|8
+San José Soto|MX||41|1iy|-7qp|8
+San Joaquín|CO||27|hv|-5mf|8
+San José Chacayá|GT||32|151|-71e|8
+San Juan Vallarta|MX||41|1g1|-7lm|8
+San José la Epifania|MX||41|1is|-7os|8|San José Epifania
+San Jerónimo|MX|Michoacán|41|1f2|-7rn|8
+San José Xacxamayo|MX||41|1ge|-7kp|8
+San Juan Ocotepec|MX||41|1gl|-7lr|8
+San Jerónimo|MX|Guerrero|41|1aw|-7l8|8
+San José Llano Grande|MX||41|1gx|-7if|8
+San José del Arenal|MX||41|1gf|-7oz|8
+San José de los Llanos|MX||41|15d|-74t|8
+San José del Carmen|MX|Veracruz|41|1dn|-79d|8
+San Javier|MX|Sinaloa|3x|223|-8da|8
+San Juan Yaeé|MX||41|1cf|-7fg|8|San Juan Yaé
+San Juanito o la Botija|MX||41|17v|-7gv|8
+San Juan|MX|Zacatecas|41|1rx|-7we|8
+San Juanico|MX|Hidalgo|41|1l1|-7no|8
+San José de Conitaca (Nuevo Conitaca)|MX||3x|1v0|-88w|8
+San José las Palmas|MX|Chiapas|41|19d|-73l|8
+San José Independencia|MX|Oaxaca|41|1eo|-7gh|8
+San José de las Flores|MX|Guerrero|41|1az|-7kd|8
+San José del Peñasco|MX||41|19c|-7g2|8|San José de Peñasco
+San José de Ranchos|MX||41|1t8|-80a|8|San José de los Ranchos
+San Juan el Sabino|MX||41|1kh|-7o1|8
+San José Balsa Camarón|MX||41|1gm|-7gm|8|La Colmena
+San José Deguedó|MX||41|1js|-7oj|8
+San Juan|MX|Tabasco|3z|1f5|-76a|8
+San Juan Chancalaíto|MX||41|1c6|-72t|8
+San Juan Puerto Montaña|MX||41|1c0|-7lo|8
+San Juan Teponaxtla|MX|Oaxaca|41|1bb|-7ju|8
+San José de la Laguna|MX||41|1gn|-7q9|8
+San Juan Bautista|MX|México|41|1hc|-7oa|8
+San José Texaluca|MX||41|1gi|-7kl|8
+San José del Carmen|MX|Jalisco|41|1i2|-808|8
+San Juan Llano Grande|MX||41|1e7|-7kh|8|Llano Grande
+San José|MX|Tabasco|41|1ep|-74f|8
+San José Piedra Gorda|MX||41|1j0|-7o0|8
+San José Maspac|MX||41|1c2|-777|8
+San Juan (Las Joyas)|MX||41|1di|-7n7|8
+San José de la Niña|MX||44|1zv|-7yq|8
+San José de Avino|MX||44|1w4|-81q|8|San José Avino
+San José|MX|Puebla|41|1l4|-7je|8
+San José el Hueyate (Barra de San José)|MX||41|15g|-75a|8
+San José del Maluco|MX||41|1jz|-7uh|8
+San José Jiquilpan|MX||41|1ij|-7lb|8
+San José de Rábago|MX||41|1k0|-7v1|8
+San Juan de La Libertad|PE||3o|-v9|-5u9|7
+San José del Valle|MX|Jalisco|41|1kv|-7wz|7
+San José Monteverde|MX||41|1cl|-7jg|7
+San José Corrales|MX||41|1is|-7qi|7
+San Juan Viejo|MX||41|1jt|-7rv|7
+San José de las Torres|MX||41|1im|-7sw|7
+San Juan Teocalcingo|MX||41|1f3|-7nc|7|San Juan Teocaltzingo
+San Juan de la Natura|MX||41|1q4|-7vy|7
+San José las Bocas|MX||41|1fp|-7le|7
+San Juan Bautista Tlachichilco|MX||41|1cy|-7l6|7
+San Juan de la Cruz|MX|Guanajuato|41|1lb|-7sb|7|San José de la Cruz
+San Jerónimo|MX|Chiapas|41|15s|-73y|7|San Geronimo
+San José Xochixtlán|MX||41|1bs|-7jq|7|San José Xochitlán
+San José del Llano|MX|Sinaloa|3x|1zn|-8a6|7
+San José Pequetzén|MX||41|1o3|-7mw|7
+San Juan Coyula|MX||41|1dr|-7h7|7
+San José de la Palma|MX||41|1ml|-7sf|7
+San Juan de las Tablas|MX||41|1in|-7o6|7
+San Juan|PE|Ayacucho|3o|-14q|-5q4|7
+San José el Potrero|MX||41|1ft|-7ob|7
+San Juan Nepomuceno|MX||41|1f3|-7ka|7|El Santuario
+San José de Gracia (San José Ocumicho)|MX||41|1j2|-7vz|7
+San José del Río|MX|Zacatecas|41|1sg|-7yv|7
+San Juan Guivini|MX||41|18q|-7f7|7|Guivini
+San Juan Bautista Mier|MX||41|1hg|-7ju|7
+Tlalayo|MX||41|1fe|-7m7|7|San José
+San Jose|US|New Mexico|2p|2s4|-86q|7
+San José del Chilar|MX||41|1d7|-7ha|7
+San José Acoculco|MX||41|1jh|-7nu|7
+San Pedro Ñumí|MX||41|1ca|-7jb|7|San José Numi
+San José de Tránsito|MX||41|1m5|-7th|7
+San José de Andaychagua|PE||3o|-wn|-5v5|7
+San Juan Teponaxtla|MX|Oaxaca|41|1d8|-7go|7
+San Juan del Río|MX|Guerrero|41|1bb|-7pn|7
+San José de Araceo|MX||41|1km|-7t0|7
+San Juan Chámacua|MX||41|1er|-7ro|7
+San Juan Ixtilmaco|MX||41|1in|-7lh|7
+San José de Ojo Zarco|MX||41|1kg|-7sm|7|Ojo Zarco
+San José Babícora|MX||2g|299|-8bb|7|San José Bavícora
+San José del Río|MX|México|41|1ij|-7pa|7
+San José de Otates|MX||41|1lq|-7us|7
+San Juan (San Juan de Coyotillos)|MX||41|1q6|-7t1|7
+San José los Barbechos (Los Barbechos)|MX||41|1ik|-7o6|7
+San José Río Verde (La Boquilla)|MX||41|18u|-7jj|7|San José Río Verde
+San Jorge el Zapote|MX||41|1dr|-7k8|7
+San José de los Barcos|MX||41|1n7|-7t9|7
+San José del Alamito|MX||41|1sa|-7y8|6
+San José Palma Gorda|MX||41|1jm|-7mb|6
+San Juanico|MX|Baja California Sur|3x|20y|-8og|6
+San José Buenavista|MX|Chiapas|41|1a6|-75l|6
+San Javier|MX|Querétaro|41|1kt|-7py|6
+Grey Town|NI||3s|uf|-6gl|6|San Juan de Nicaragua;Greytown
+San José Ixtepec|MX||41|16n|-74m|6
+San Juan del Monte|MX||41|1m4|-7yh|6
+San Jacinto Chilateca|MX||41|1as|-7gk|6
+San Jerónimo|MX|Hidalgo|41|1k7|-7ml|6
+San Juan del Tejal|PA||4g|nl|-6d5|6|San Juan de Tejal
+San José Tepoxtla|MX||41|1hu|-7ko|6
+Sant Jordi|ES|Valencia|9d|34j|x|6|San Jorge
+San José (San José de los Meléndez)|MX||41|1ni|-7yh|6
+San José de los Laureles|MX||41|1hq|-7tu|6
+San Juan sin Agua|MX||41|1rq|-7r5|6
+San José de Chuén|MX||41|1hj|-7uo|6
+San Jerónimo|MX|Guanajuato|41|1mb|-7v0|6
+San José Buenavista|MX|Guerrero|41|1at|-7lm|6
+San Jacinto Tlacotepec|MX||41|19w|-7ij|6
+San Juan Copala|MX||41|1br|-7k4|6
+San Juan del Pozo|MX||41|19n|-72r|6
+San Juan de la Nava|ES||9d|34g|-d0|6
+San José de Secce|PE||3o|-zh|-5q9|6
+San José la Capilla|MX||41|1he|-7ii|6|San José Capilla
+San José Acatla|MX||41|1hb|-7hs|6
+San Juan|MX|México|41|1gd|-7om|6
+San José|MX|Chiapas|41|1af|-71w|6
+San José Pastorías|MX||41|1ic|-7g9|6
+San José Coapa|MX||41|1ic|-7tn|6
+San Juan Portezuelo|MX||41|1gk|-7l8|6
+San Jerónimo Caleras|MX||41|1gd|-7l6|6
+San Jerónimo|MX|Veracruz|41|1dy|-7du|6|San Gerónimo
+San Juan de la Cruz|MX|Guerrero|41|1er|-7rn|6
+San Juan Ozolotepec|MX||41|18t|-7fe|6
+San Jose|US|Illinois|2f|33z|-6ww|6
+San José de la Calera|MX||41|1ma|-7uo|6
+San Juan Diquiyu|MX||41|1ct|-7js|6|Diquiyu
+San José de Morteros|MX||41|1vn|-7xz|6
+San José del Llano|MX|Tamaulipas|44|1td|-7pm|6
+San Juan Juquila Vijanos|MX||41|1c7|-7fi|6
+San José Masiaca|MX||37|22b|-8fh|6
+San José de Bellavista|MX||44|1zv|-803|6
+San José Atotonilco|MX||41|18r|-7hy|6
+La Victoria|MX|Veracruz|41|1fa|-7fk|6|San Joaquín
+San Juan la Ciénega|MX||41|1dl|-7l0|6
+San Joaquín|MX|Jalisco|41|1kw|-7wq|6
+San José Pathuitz|MX||41|1br|-72m|6|San José Panhuitz
+San Joaquín de Omaguas|PE||3o|-bv|-5nx|6
+San Juan Teita|MX||41|1bi|-7il|6
+San Juan de Chacña|PE||3o|-12o|-5na|6
+San José Guerrero|MX||41|1gr|-7iy|6
+San Juan|US|New Mexico|2p|2s5|-86n|6
+San José|MX|Guerrero|41|1c0|-7nb|6
+San Juan de Cacazú|PE||3o|-tm|-5so|6
+San José la Libertad|MX||41|1i4|-7je|6
+San Juan Rómulo Calzada|MX||41|1a7|-72h|6
+San Juan de Huirpacancha|PE||3o|-12s|-5t0|6
+San José|PA|Herrera Province|4g|m4|-68l|6
+San José del Arbolito|MX||41|1r0|-7s4|6
+San Juan de Llanos|MX||41|1n4|-7tg|6|San Juan del Llanos
+San Juan de las Flores|MX||41|1c4|-7qw|6
+San José Lagunas|MX||41|1eb|-7fq|6|San José Laguna
+San José|MX|Oaxaca|41|19v|-7iq|6
+San Jerónimo Palantla|MX||41|1cp|-7n9|6
+San José Tizates|MX||41|1gc|-7p9|6
+San José|MX|México|41|1im|-7mr|6
+San José Teacalco|MX|Veracruz|41|1h3|-7hq|6
+San Jerónimo|MX|Jalisco|41|1ko|-7wa|6
+San José de Huarcaya|PE||3o|-12f|-5qn|6
+San José Zetina|MX||41|1gk|-7kz|6
+San Juan Tetitlán|MX|México|41|1fp|-7qc|6
+San José Yutatuyaa|MX||41|19p|-7kc|6
+San José del Pacífico|MX||41|18x|-7g2|6
+San Juan de Chito|PE||3o|-11w|-5pd|5
+San José Buenavista|MX|Puebla|41|1ix|-7j1|5
+San Juanico Sector Dos|MX||41|1je|-7p6|5
+San José|PE|Cajamarca Department|3o|-hh|-620|5
+San José del Rincón|MX||41|1ix|-80i|5|San José de las Burras
+San José de Tomate|PE||3o|-13u|-5rq|5
+San Jerónimo Zegache|MX||41|1at|-7gr|5
+San José Barroso|MX||41|1hb|-7j6|5
+San Jacinto|MX|Puebla|41|1gy|-7kf|5
+San Juan Luvina|MX||41|1cn|-7g7|5
+San Juan Toavela|MX||41|1cp|-7eu|5
+San José|PA|Los Santos Province|4g|lc|-66w|5
+San José del Carmen|MX|Tabasco|41|1f6|-75r|5
+San José de las Flores|MX|Tamaulipas|44|1ue|-7nc|5|San José de la Flores
+San Juan Yucuita|MX||41|1cn|-7i7|5|Yucuita
+San Juan|MX|Sinaloa|3x|1uc|-87c|5
+San José Grande|MX||41|1he|-7u4|5
+San Juanico|MX|Michoacán|41|1j4|-7x8|5
+Asunción Acatlán|MX||41|1ay|-7ej|5|San Juan Acatlancito
+San José Tipceh|MX||3z|1ku|-6x3|5
+San Juanito|MX|Tamaulipas|44|1t6|-7o5|5
+San José Guelatová de Díaz|MX||41|1an|-7gu|5
+San José de la Trinidad|MX||41|1ix|-7t0|5
+San Jose|US|Arizona|4i|2j6|-8gf|5
+San Juan Bautista|MX|Chiapas|41|19q|-72k|5
+San Juan Capistrano|MX||41|1qw|-816|5
+San Juan Yosocani|MX||41|19n|-7jy|5
+San Juan Huiloapan|MX||41|1gh|-7i8|5
+San Jerónimo Nuchita|MX||41|1d0|-7kh|5
+San Juan Sayultepec|MX||41|1ch|-7i8|5|San Juan Suyultepec

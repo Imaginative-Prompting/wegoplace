@@ -1,0 +1,135 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Taipei|TW||7l|1xl|9dl|1oqn|Taipeh;Tajpeo;Taibėjus;Tajpej;Taipé;Tchaj-pej;Tayipèh;Taipėjus;Đài Bắc;Taypey;T’ai-pei
+Taiyuan|CN|Shanxi|7i|2x7|8oo|14xn|Tajuanas;Tchaj-jüan;Tajuano;Thái Nguyên;Thài-goân-chhī;Tái-nguòng;Tajjüan;Taiyuenum;Taijuaņa;Tayyuan;Daiyienz;Taijuan
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Taichung|TW||7l|1v3|9b8|lzr|Đài Trung;Teyjong shehiri;Taičungas;Tajĉungo;Thòi-chûng-sṳ;Tchaj-čung;Taizhong;Taychun;Tâi-tiong-chhī
+Tashkent|UZ||7m|36m|5ca|f9g|Taschkent;Taskent;Tasjkent;Taŝkento;Toshkent;Tachkent;Taškentas;Taszkent;Toshkent shahri;Tochkent;Taixkent;Taxkent;Taškenta;Lithopolis;Daşkent;Tashkend
+Tainan|TW||7l|1rv|99x|ebq|Teynen shehiri;Thòi-nàm-sṳ;Tchaj-nan;Tajnan;Đài Nam;Tajnano;Taynam;Tâi-lâm-chhī;Dài-nàng;T’ai-nan
+Tai’an|CN|Shandong|7i|2sj|91c|de2
+Taizhou|CN|Jiangsu|7i|2i9|993|cef|Taitsjou;Tchaj-čou;Tajĝou;Teyju shehiri;Thái Châu;Thài-chiu-chhī;Tái-ciŭ;T’ai-chou
+Daqing|CN||7i|3le|9n8|cdk|Ta-čching;Dacin;Đại Khánh;Dâi-kéng;Tāi-khèng-chhī;Taching;Dačing
+Taizhou|CN|Zhejiang|7i|27m|9db|bgn|Taitsjou;Tchaj-čou;Thòi-chû-sṳ;Thai Châu;Tâi-chiu-chhī
+Taiz|YE||5r|11q|3ea|79a|Taëz;Taaciz;Ta'izz
+Taicang|CN||7i|2fd|9cd|6ev|T’ai-ts’ang
+Ta’if|SA||7e|1n3|34a|5bb|Taif;Taëf;Taifas;Tāifa;Toif;Daa'if;Taifum;Tayif
+Wong Tai Sin|HK||6i|1q3|8t6|3a4
+Tallinn|EE||9x|4l4|1wr|31g|Rääveli;Talino;Tallin;Taillinn;Talín;Castrum Danorum;Talinas;Tallina;Revel;Talini;Reval;Talins;Lindanäs;Tallidn;Revel';Kallinn
+Tai Po|HK||6i|1qd|8t5|245
+Taiping|MY||6v|dh|7rt|1og|Taipeng
+Taito|JP||7q|2r7|asa|1mq
+Taishan|CN||7i|1pt|8pa|14e|Đài Sơn;Thòi-sân-sṳ;Toishan
+Taipa|MO||6y|1pk|8rg|v5|Nossa Senhora do Carmo
+Taibai|CN||7i|2dm|8d0|u4
+Taitung|TW||7l|1r8|9ci|sp|Đài Đông;Táidong;Tchaj-tung;Taito;Pinamu;Taichung;T’ai-tung
+Taikkyi|MM||7y|1c3|7ek|og
+Taixing|CN||7i|2hd|99d|m5|Taishing;T’ai-hsing;Taihing
+Tailândia|BR||23|-87|-3rz|k5
+Tailai|CN||7i|3kv|9it|ii
+Taihe|CN|Chongqing|7i|2bm|86l|ih
+Taitou|CN||7i|2uv|95j|gs
+Gushu|CN|Anhui|7i|2fo|954|gr|Tai Ping;Taiping-fu;Taiping
+Taifu|CN||7i|28i|85g|gb
+Thái Bình|VN||62|1kt|87e|er|Thai Bin;Taibinh
+Eṭ Ṭaiyiba|IL||6n|2hn|2p9|d1|At Taiyiba;El Taiyiba;Et Taiyibe;Taiyiba
+Taifa|GH||1|fq|-p|bu
+Taibao|TW||7l|1t6|9a9|ar|Tchaj-pao;Thai-pó-sṳ;Thái Bảo;T’ai-pao
+Tayshet|RU||6k|4bd|7k7|ai|Taischet;Tajŝet;Tajsjet;Taishet
+Taymā’|SA||7e|24q|2z2|ag|Taima;Taymah
+Tai Koo|HK||6i|1pw|8ta|9u
+Taikoo Shing|HK||6i|1px|8ta|9o
+Tai Kok Tsui|HK||6i|1q0|8t4|9e|Tai Kok Tsu
+Taiobeiras|BR||4w|-17x|-39b|97|Tayobeiras
+Taiping|CN|Yunnan|7i|1wi|7jt|8c
+Tainai|JP||7q|2xq|ar9|7x
+Taiping|CN|Chongqing|7i|2c2|8a1|6s
+Tayga|RU||74|4br|6lu|6r|Tajga;Taiga
+Tai’an|CN|Chongqing|7i|2bj|85x|6r
+Taïbet|DZ||3|2jx|hr|5u
+Tai Wo Hau|HK||6i|1q5|8t0|5s
+Tai Wai|HK||6i|1q5|8t6|5j
+Levin|NZ||ak|-34v|diw|5i|Taitoko
+Tai’an|CN|Chongqing|7i|2dk|8du|5g
+Taió|BR||4w|-23c|-3uw|53|Tayo
+Taiping|CN|Chongqing|7i|2b2|86k|4z
+Tai Shui Hang|HK||6i|1q9|8ta|4w
+Tai Mei Tuk|HK||6i|1qf|8tb|4v
+Larkhall|GB||9b|4at|-b1|46|Taigh na h-Uiseig;Larkhauch;Darkhall
+Tailong|CN||7i|2du|8dg|3x
+Tai Seng|SG||7j|3q|80m|3u
+Taishi|JP||7q|2nw|ags|3s
+Tai Yuen Estate|HK||6i|1qe|8t5|3s
+Taiynsha|KZ||5s|45l|5dt|3n|Taiynşa;Taincha;Tayncha
+Tăng Krâsăng|KH||78|yx|83t|3l|Taing Krâsaing
+Tai Wo|HK||6i|1qd|8t4|3k
+Tai Mong Tsai|HK||6i|1q8|8ti|37
+Tai Hang|HK||6i|1pw|8t7|36
+Taipu|BR||2w|-fm|-2qw|36
+Taipingchang|CN||7i|29t|895|2u
+Taihe|CN|Chongqing|7i|2d4|8fi|2q
+Taiji|CN||7i|29h|8du|2a
+Taiyuan|CN|Chongqing|7i|2ah|8cs|25
+Taï|CI||0|gb|-kq|25
+Tai Hang Estate (East & West)|HK||6i|1q1|8t5|21
+Taipi Duidam|IN||6t|23t|7es|20
+Taita|NZ||ak|-36e|dhz|1y
+Taiúva|BR||4w|-1mo|-3ql|1t|Tayuva
+Taigum|AU||8c|-23y|bt4|1t
+Tain-l'Hermitage|FR||9k|3h7|di|1n
+Taipas|PT||99|378|-n7|1l
+Taiaçu|BR||4w|-1mq|-3qr|1l
+Taishihe|CN||7i|2ln|846|1i
+Taiki|JP||7q|3a2|b1z|1i
+Tayturka|RU||6k|42v|7ze|1f|Tajturka;Taiturka
+Taipalsaari|FI||92|4pv|25x|1a
+Taibach|GB||9b|3za|-ah|1a|Taj Bakas;Tai-bach
+Tai On Lau|HK||6i|1pw|8ta|1a
+Tahiraguhé|CI||0|iv|-hs|1a|Tairaguhé
+Tayirove|UA||98|3ks|2d5|12|Taïrové;Tairovo
+Taino|IT||9o|3j4|ny|11
+Tain|GB||9b|4gl|-ba|11|Baile Dhubhthaich
+Taivalkoski|FI||92|525|26h|10
+Taishi|CN||7i|2le|84x|z
+Tai O|HK||6i|1pu|8sa|x|Tai ho
+Taipingba|CN||7i|2al|8cf|x
+FELDA Taib Andak|MY||6v|4t|7zx|v|Taib Andak
+Taiping|CN|Sichuan|7i|266|86k|u|T’ai-p’ing-tu
+Tairov|AM||80|33k|3ff|u|T’airov
+Taiji|JP||7q|2la|ahn|s|Taitsi;Daiji;Taji
+Tairan Camp|PH||71|ig|9eg|s
+Tawala|PH||71|qj|9jt|r|Tauala;Taiwala
+Taintignies|BE||8t|3wf|9a|q
+Taytsy|RU||9i|4lq|2bn|q|Tajtsy;Taaitsa;Taizy;Tajcy;Taitsõ;Taytsı
+Tainter Lake|US||2f|3gz|-735|m
+Taissy|FR||9k|3sq|bd|m
+Tainui|NZ||ak|-3ji|d5o|l
+Taipas do Tocantins|BR||1k|-xv|-3mj|l
+Taik Gyi|MM||7y|19p|7ef|k|Taikkyi
+Taira|JP|Gifu|7q|2qz|alh|k
+Taillades|FR||9k|3ds|e5|j|Lei Talhadas
+Taïneste|MA||d|2nz|-bi|j
+Taiyiba|IL||6n|2ik|2qg|i
+Taihape|NZ||ak|-328|dkc|i
+Taibon Agordino|IT||9o|3km|xd|i
+Taipa|NZ||ak|-2p8|ddv|h
+Taivassalo|FI||92|4o8|1o2|h|Tövsala;Töfsala
+Taira|JP|Okinawa|7q|21z|9vz|h
+Tailem Bend|AU||8b|-2px|are|h|Tailen Bend
+Tairua|NZ||ak|-2uu|dkh|g
+Taintrux|FR||9k|3q1|j6|e
+Taio|IT||9o|3ko|ur|d|Tajo
+Taiohae|PF||b3|-or|-at6|c
+Taik Tee|MM||7y|20z|7ev|c
+Taillecourt|FR||9k|3ny|j1|a
+Tesido|IT||9o|3lx|xn|9|Taisten
+Taisnières-sur-Hon|FR||9k|3vs|an|9
+Taillis|FR||9k|3pv|-3g|8|Talieg
+Whithorn|GB||9b|481|-ca|8|Taigh Mhártainn;Whitehorn
+Taiskirchen im Innkreis|AT||a2|3q2|11p|8
+Taizé|FR||9k|3md|-c|8
+Taixtan|MX||41|1gx|-7xw|8
+Taillebourg|FR||9k|3jc|-1t|6
+Taizé-Aizie|FR||9k|3jy|o|6
+Tarbert|IE||8z|421|-q2|5|Tairbeart
+Tainach|AT||a2|3lj|14d|5
+Tighnabruaich|GB||9b|4bb|-ej|5|Taigh na Bruaich
+Taisnières-en-Thiérache|FR||9k|3vb|al|5

@@ -1,0 +1,10 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Khmelnytskyi|UA||98|3ta|22y|249|Chmelnyzkyj;Chmielnicki;Płoskurów;Hmeljnicki;Khmel'nyts'kyy;Proscurovia;Chmielnicius;Chmel'nyc'kyj
+Chmistâr|LB||64|2mc|2s2|8c|Chemestar;Shmisţār
+Khmilnyk|UA|Vinnytsia|98|3to|25o|7p|Chmielnik;Chmilnyk
+Chmyrivka|UA||98|3sx|306|17|Chmirovka;Chmyrovka;Chmyrevka
+Chmielnik|PL|Świętokrzyskie|a5|3wl|1ln|13|Hmelņika
+Chmielnik|PL|Subcarpathia|a5|3ut|1pj|z
+Chmielno|PL||a5|46x|1ea|g
+Chmielowice|PL||a5|3wp|1dn|f
+Chminianska Nová Ves|SK||8s|3s4|1mk|d

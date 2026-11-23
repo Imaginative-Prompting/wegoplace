@@ -1,0 +1,700 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Valencia|VE||2c|s8|-58w|chv|Valencio;Balenzia;Valentzia;Valentia;Valensija;Valincia;Valensiya;Valensii
+Valencia|ES||9d|31n|-12|6cz|Valenza;Valentia;Valence;Walencja;Balenzia;Valencija;Valencie;Valencio;Valentzia;Valensia;Valensija;Valensiya;Walénsiye;Valantsa;Valensyaa;Valensėjė;Pâ-lùn-sî-â;Valensii
+Balikpapan|ID||70|-3j|90j|5d5
+Baltimore|US|Maryland|48|315|-5wt|4ip|Baltimoro;Baltimora;Baltimor
+Balbala|DJ||i|w4|3br|4a0
+Ballari|IN||6t|162|5xo|360|Belaris;Bellary;Bellāri
+Bāli|IN|West Bengal|6t|1qx|6te|2ai
+Białystok|PL||a5|43l|1sc|2a5|Bjalistoko;Belostoko;Balstogė;Bjalistoka;Bjołystok;Belostok;Bialastoq;Bjelostock;Byelostok
+Valparaíso|CL||4u|-2js|-5iz|26g|Valparais;Valparaisas;Valparayso;Vallis Paradisi;Valparaėsos;Wǎěr pà lái suǒ;Balparaiso
+Poltava|UA||98|3tr|2nz|25o|Poltawa;Pultava;Poltavo;Ltava;Baltavár
+Balıkesir|TR||94|325|25h|1u6|Balikesyras;Balikesr;Balikesri;Belikesir;Bali-Kessir
+Balakovo|RU||9s|40j|3os|1jg|Balakowo;Balakovas;Balakova
+Basel|CH||a7|3o4|l1|1dc|Basilea;Bazelo;Bâle;Basilia;Bazelis;Bazel;Bazylea;Basileia;Bazilej;Basilej;Bâla;Robur;Bāzele;Baxiłea;Bazeli;Baza;Basle
+Fès al Bali|MA||d|2mn|-dr|17c
+Bālurghāt|IN||6t|1y2|6um|16l
+Balvanera|AR||1l|-2o5|-4i8|16a
+Balashikha|RU||9i|4az|2xf|15p|Balaschicha;Balaŝiĥa;Balašihha;Balachikha;Balašicha;Balasjicha;Balaşixa;Balasjikha;Bałaszycha;Balishikha
+Balcón de la Lisa|CU||36|1s1|-6d1|14y
+Balasore|IN||6t|1np|6ph|144|Baleswar;Baleshwar
+Balneário Camboriú|BR||4w|-22z|-3r3|12o|Camboriú
+Bilqās|EG||c|2ep|2f4|123|Balqās
+Baliuag|PH||71|15j|9bu|11p|Baliwag
+Bălţi|MD||8x|3oo|25l|yq|Belcai;Bielce;Belci
+Balkh|AF||6o|2u4|55u|vx|Balch;Balj;Belx;Balchas;Balh;Belh;Balĥo;Balx
+Ballarat|AU||8j|-2wd|b3l|v4|Balaratas;Balarat;Balarata;Ballaarat
+Balombo|AO||x|-yb|151|ua
+Balsas|BR||2w|-kx|-3jw|tg
+Balāngīr|IN||6t|1li|6fx|ra|Bolāngir
+Balashov|RU||9s|3z7|3bx|r9|Balaschow;Balaŝov;Balasjov;Balašovas;Bałaszow;Balachov
+Ballarpur|IN||6t|1j5|64f|pl|Ballālpur
+Balkanabat|TM||5x|31r|471|oe|Nebitdag;Nebit-Dag;Balkanabad;Bolqonobod
+Bālāghāt|IN||6t|1om|66r|nf
+Balqash|KZ||5s|3m5|5sa|mm|Balkhash
+Balrāmpur|IN|Uttar Pradesh|6t|247|6cb|li
+Baldwin Park|US||3p|2mp|-93o|lf
+Bhalwal|PK||6q|2hn|5mi|kr|Balvalas;Bhalvala;Bhalval;Bhalwai
+Balotra|IN||6t|1zr|5ko|kp
+Balanga|PH||71|14s|9au|ka
+Al Balyanā|EG||c|20w|2gw|j0|El Balyana;Balyana
+Balanbale|SO||2|g1|3j4|iw|Balanballe;Balanbal;Balan-bale;Balan-balle
+Alba Iulia|RO||8u|3jz|1ti|hu|Karlsburg;Apulon;Vojvodov Bjalgrad;Ciudadela Blanca;Karlovský Bělehrad;Erdeljski Biograd;Weyssenburg;Dsulafehervaru;Gyulafehérvár;Belgrad-i Erdel;Belgrada;Alba-Julia;Weißenburg;Bălgrad;Alba Julija;Alba Júlia;Àobā Yóulìyà;Erdel Belgradı;Karlov Belehrad;Fehervaru
+Novaya Balakhna|RU||9i|4cx|3d4|hj|Balakhna;Balachna;Balaĥna
+Balagtas|PH|Central Luzon|71|156|9br|gm
+Balai Pungut|ID||6l|2y|7td|fp
+Baljurashi|SA||7e|1j6|37g|ee|Biljurshī;Beljurashi;Baljurshī;Baljarshī
+Balţīm|EG||c|2fo|2ed|e9
+Balayan|PH||71|12q|9bd|dx
+Balung|ID||6l|-lh|8sg|d8
+Ballia|IN||6t|1ym|6nr|d8|Balia
+Balfour|ZA|Mpumalanga|o|-222|27f|cs
+Bālāpur|IN|Maharashtra|6t|1lf|5x9|ce
+Balcarce|AR||1l|-2x5|-4hu|cc|Balkarbe
+Balykchy|KG||65|39y|5vn|bx|Balyktschy;Balikci;Balyktchy;Balykčy;Balõktšõ;Baliksi;Thalasseupolis;Balykči;Balyktsjy;Bałykczy;Balikcsi;Balyktjy
+Balulang|PH||71|nh|9m7|bq
+Bilajari|AZ||61|34c|3ud|bq|Baladjary;Baladzhary
+Balad|IQ||5z|2mh|3en|bp|Belad
+Balaka|MW||9|-15m|2p4|be|Palaka
+Balzar|EC||33|-3t|-65z|b5
+Ballerup|DK||8y|4at|yc|b4|Balleru
+Vādāsinor|IN||6t|1rs|5nq|ax|Bālāsinor
+Balu|CN||7i|2mz|93j|at
+Baldivis|AU||8k|-2ht|8xr|ah
+Baltiysk|RU||96|47t|1jb|9l|Pillau;Baltijsk;Bałtyjsk;Piliava;Baltijskas;Baltiisk;Baltisk
+Balingen|DE||8r|3q4|ol|9k
+Balakouya|CI||0|eh|-hn|98|Balékouéa;Balokuya
+Baliwan|CN||7i|2ot|84p|8v
+Bale Hawassa|ET||2|j8|2w9|8u|Bale Hawaasa
+Bale Robe|ET||2|js|334|8q|Robe
+Ballwin|US||2f|2z8|-6zj|8i|Baldwin
+Balabanovo|RU||9i|49a|2tu|8e|Balabanowo;Balobanovo;Balabanova
+Ballymena|GB||9b|48e|-hg|81|Balimena;An Baile Meánach
+Balapulang|ID||6l|-jl|8f2|7x|Balapoelang
+Ballitoville|ZA||o|-2a2|2ep|7p
+Bali|CM||j|gd|rt|7n
+Balussheri|IN||6t|vt|5un|7m|Bālusseri
+Balneário Piçarras|BR||4w|-22c|-3r7|7j
+Baloda Bāzār|IN||6t|1o6|6c8|7e
+Balakliya|UA||98|3te|2uc|7b|Balakliia;Balaklija;Bałakleja;Balaklijo;Novo-Serpukhiv;Balakleya;Novo-Serpukhov
+Balakrishnapuram|IN||6t|ss|60o|74
+Balch Springs|US||2f|2ix|-7ge|70
+Baldwin|US|New York|48|34y|-5oh|6o
+Balod|IN||6t|1ll|69l|6k
+Balik Pulau|MY||6v|ev|7qg|6k|Balek Pulau
+Athlone|IE||8z|44e|-m2|6d|Baile Átha Luain;Balley Aah Luain;Atlonas;Atlona
+Balarāmpur|IN||6t|1s6|6ni|6c
+Balamban|PH||71|t6|9jo|67|Balanban
+Baléyara|NE||18|12a|87|61
+Balbriggan|IE||8z|44x|-h6|61|Baile Brigín;Balbriganas
+Bālāchor|IN||6t|2ea|5vy|60|Balachaur
+Balwyn North|AU||8j|-2wz|b71|5x
+Balş|RO|Olt|8u|3f7|1uy|5q
+Balen|BE||8t|3y5|ed|5k|Baelen
+Bāli|IN|Rajasthan|6t|1y0|5nl|5j
+Baldwin|US|Pennsylvania|48|342|-666|5i
+Balykshi|KZ||5y|3mr|403|5d|Balyqshy;Boliqchi;Belykshi
+Balatçık|TR|İzmir Province|94|2z0|235|5b
+Balboa|CO|Cauca Department|27|5o|-5yi|59
+Balaklava|UA||9t|3fn|2lc|56|Bałakława;Balaclava;Balaklavo;Balıklava;Balıqlava;Balyglava
+Ballincollig|IE||8z|404|-nu|56|Baile an Chollaigh
+Balta|UA||98|3p6|2aa|55|Józefgród;Paliyeve;Palieve;Paliieve;Palieve Ozero;Paliyeve Ozero;Paliieve Ozero;Yuzefgrod;Yuzefhrad;Barta
+Ballajura|AU||8k|-2gg|8xy|55
+Ballenger Creek|US||48|31d|-5z4|53
+Balmazújváros|HU||8v|3oa|1nb|50
+Bālugān|IN||6t|1it|6kq|4w|Bālugaon
+Beli|NG||u|lu|uh|4v|Bali
+Bālugaon|IN||6t|1k2|6kf|4s
+Balāţah|PS||6g|2hh|2q1|4r|Balāta
+Barbastro|ES||9d|38s|d|4p|Balbastro;Barbastre;Barbastras
+Balaguer|ES||9d|383|29|4o
+Balezino|RU||9p|4h2|439|4m|Balesino
+Baliguda|IN||6t|1k4|6h3|4m|Baljiguda;Balliguda;Bāligurha
+Balaungi|IN||6t|2dd|5x1|4g|Balongi
+Balneário Rincão|BR||4w|-283|-3ss|4g|Balneário de Rincão;Balneário do Rincão
+Balneário Arroio do Silva|BR||4w|-28j|-3ta|4e
+Balneário Gaivota|BR||4w|-290|-3tq|4d
+Balma|FR||9k|3d5|46|4c
+Balneário Pinhal|BR||4w|-2c2|-3vk|46
+Balham|GB||9b|3yx|-f|44
+Bālasamudram|IN||6t|sy|5za|3y
+Balassagyarmat|HU||8v|3pj|1hm|3v|Balážske Ďarmoty;Balašské Ďarmoty;Jahrmarkt
+Balga|AU||8k|-2gh|8xs|3v
+Baloda|IN||6t|1pi|6d4|3s
+Balwyn|AU||8j|-2x1|b70|3r
+Baley|RU||67|3za|8zz|3q|Balei;Batey
+Balsa Nova|BR||4w|-1z2|-3tw|3q
+Balatonfüred|HU||8v|3mg|1dn|3n|Balatonfiuredas;Balatonfired
+Bålsta|SE||9w|4lh|1cp|3n|Bolsta
+Balancán|MX||41|1dh|-72a|3m
+Balchik|BG||9v|3cm|268|3m|Baltschik;Baltchik;Balchiq
+Bāli Chak|IN||6t|1q4|6r7|3m
+Balitha|IN||6t|1kn|5mj|3g
+Balabag|PH|Western Visayas|71|x9|9eo|3f
+Balve|DE||8r|3yl|lu|3f|Ballova
+Balao|EC||33|-83|-65q|3e
+Balimila|IN||6t|1ep|6c3|3c|Bālimela
+Balīrāmpur|IN||6t|1h4|5yu|3b
+Balpyk Bi|KZ||5s|3gq|61b|3a|Balpyq Bī
+Bālāgunda|IN||6t|1pe|6l5|39
+Balakhani|AZ||61|34e|3uo|31|Balaxanı;Balachany;Balakhany;Balaban
+Balcatta|AU||8k|-2gk|8xr|30
+Baldock|GB||9b|40f|-j|2y
+Baloc|PH||71|17g|9bt|2y
+Ballina|IE|Connacht|8z|46c|-ph|2y|Béal An Átha;Beeal yn Aah;Balina
+Baldev|IN||6t|245|606|2x|Baldeo
+Balmoral|NZ||ak|-2uh|dhe|2w
+Balmain|AU||8l|-2m1|bny|2v
+Baliapur|IN||6t|1tw|6od|2t
+Balari urf Jagdishpur Deal|IN||6t|1zp|6md|2s
+Balabac|PH||71|m6|915|2r
+Ballston Lake|US||48|3b7|-5p7|2q
+Balingasag|PH||71|oa|9mm|2p|Babagasag
+Ballymoney|GB||9b|48z|-i3|2o|Baile Monaidh
+Ballyboden|IE||8z|440|-hk|2o
+Bálsamo|BR||4w|-1lm|-3tq|2o
+Ballyclare|GB||9b|483|-go|2n|Bealach Cláir;Balikleras
+Bala Cynwyd|US||48|335|-5sz|2l|Bala-Cynwyd
+Balucuc|PH||71|15j|9bl|2k
+Baldeogarh|IN||6t|1ws|63n|2j
+Balaga|IN||6t|1ew|6h1|2j
+Balally|IE||8z|440|-hc|2j|Baile Amhlaoibh
+Balakirevo|RU||9i|4cz|2zw|2h|Parakirevo
+Ballina|AU||8l|-286|bul|2h
+Balingian|MY||6w|85|8om|2g|Baligian
+Balete|PH|Calabarzon|71|12y|9ce|2f
+Bālakrishnanpatti|IN||6t|v8|621|2e
+Balete|PH|Bicol Region|71|106|9kj|2e
+Ballyfermot|IE||8z|446|-hn|2e|Baile Formaid
+Ballinteer|IE||8z|43z|-hd|2d|Baile an tSaoir
+Balatonalmádi|HU||8v|3mo|1e2|2c
+Bālāpur|IN|Telangana|6t|1c3|622|2b
+Băleni Sârbi|RO||8u|3gi|1z7|2a|Bălenii-Sârbi;Băleni Sîrbi
+Baldwin Harbor|US||48|34w|-5oh|29
+Ballenstedt|DE||8r|3zo|v7|29
+Baldoyle|IE||8z|44c|-h1|28|Baile Dúill
+Balcani|RO||8u|3lj|21r|28
+Balsas|EC||33|-ag|-65q|27|Balzas
+Baldwinsville|US||48|3bw|-5w1|26
+Balgowlah|AU||8l|-2lv|bo6|26
+Balakhta|RU||6u|49u|72i|25
+Balmaseda|ES||9d|3c0|-8w|25|Valmaseda
+Beaugency|FR||9k|3oq|4j|25|Balgentiacum
+Balite Segundo|PH||71|13e|9c1|23|Balete Segundo;Baliti Segundo
+Baldim|BR||4w|-1hl|-3e4|23
+Ballan-Miré|FR||9k|3ni|1p|22
+Băleşti|RO|Gorj County|8u|3h2|1si|21
+Bălan|RO|Harghita County|8u|3ll|1zp|21
+Balimbing|PH||71|e4|999|1z
+Bali|CN||7i|2nb|81x|1z
+Balsall Common|GB||9b|41j|-4l|1y
+Baltimore Highlands|US|Maryland|48|30z|-5ww|1y
+Baltasi|RU||9i|4cj|3vh|1y
+Ballancourt-sur-Essonne|FR||9k|3qt|6n|1y
+Balipatapur|IN||6t|1je|6li|1x
+Balkány|HU||8v|3op|1oq|1w
+Baloteşti|RO||8u|3fy|20k|1w|Baloteşu
+Baloži|LV||9n|4e0|1v0|1w|Rollbusch;Balozhi
+Balnearia|AR||1n|-2e5|-4u3|1v
+Balogo|PH|Eastern Visayas|71|u9|9mf|1v|Balugo
+Ballinasloe|IE||8z|445|-mu|1v|Béal Átha na Sluaighe;Beeal Aah ny Sluigh
+Bălţăteşti|RO||8u|3mw|212|1u
+Baillargues|FR||9k|3da|b5|1u|Balhargues
+Bal‘ā|PS||6g|2ht|2pj|1t
+Balele|PH||71|133|9cd|1t
+Bald Hills|AU||8c|-23w|bt1|1t
+Baléko|CI||0|f3|-gr|1s
+Balaruc-les-Bains|FR||9k|3co|a8|1s|Los Banhs de Balaruc
+Bali Koria|IN||6t|21g|71y|1s
+Ballymun|IE||8z|44c|-hf|1r|Balimunas;Baile Munna
+Bālā Deh|IR||7o|244|44u|1q
+Balkashino|KZ||5s|41w|5az|1p
+Balerno|GB||9b|4b8|-9a|1o|Baile Àirneach
+Balatonboglár|HU||8v|3ly|1d0|1o
+Balayo|CI||0|hw|-gp|1o
+Ballingry|GB||9b|4c0|-99|1n
+Santa Helena de Minas|BR||4w|-1b2|-350|1n|Balbinópolis
+Balestrate|IT||9o|2xp|105|1n
+Balingcanaway|PH||71|170|9b9|1n|Belingcanway;Balingcanauay;Balinganauay
+Balsthal|CH||a7|3ng|ld|1n|Balstal
+Balabyne|UA||98|3om|2pt|1n|Petrivska
+Baliton|PH||71|fy|9nw|1m
+Baligang|PH||71|10j|9jg|1m
+Balky|UA||98|3nn|2p1|1l|Balki
+Balahio|CI||0|hj|-hv|1l
+Ballynahinch|GB||9b|474|-ge|1l|Baile na hInse
+Bălceşti|RO|Vâlcea County|8u|3fy|1uj|1l
+Balsic|PH||71|15a|9ao|1l|Balsik
+Balvi|LV||9n|4ep|23r|1l|Balvē;Balvai;Balvy;Bolvi
+Balangiga|PH||71|uv|9ob|1k
+Ballesteros|PH||71|1f5|9dk|1k
+Pulung Santol|PH||71|15t|9aw|1k|Pulong Santol;Balunsantol
+Baltmannsweiler|DE||8r|3re|q9|1k
+Ballycastle|GB||9b|49c|-hc|1k|Baile an Chaistil
+Ballarat Central|AU||8j|-2wc|b3l|1j
+Ballarat East|AU||8j|-2wd|b3n|1j
+Balgownie|AU||8l|-2nk|bn4|1i
+Balaclava|AU||8j|-2x7|b6s|1i
+Ballston Spa|US||48|3bg|-5p5|1i
+Baluntaicun|CN||7t|3aj|6ns|1h
+Balha|IN||6t|20d|6oe|1g
+Balīlā|JO||5t|2hz|2ru|1g
+Bălţaţi|RO|Iași County|8u|3n6|23f|1f
+Balibago|PH|Central Luzon|71|164|9b0|1f
+Băluşeni|RO||8u|3of|22g|1e
+Bălăuşeri|RO||8u|3kw|1wk|1e
+Ballsh|AL||9y|34s|1it|1d|Balshi;Balšis;Ballësh;Ballëshi
+Baltar|PT||99|36f|-nb|1d
+Balatonlelle|HU||8v|3ly|1d5|1d
+Ballybofey|IE||8z|488|-lm|1d|Bealach Féich;Balibofis
+Balasing|PH||71|159|9c5|1c
+Bolo|PH|Western Visayas|71|w2|9h0|1b|Balo
+Balzan|MT||9e|2rq|145|1b
+Baldwin City|US||2f|2zq|-7cf|1b|Thành phố Baldwin
+Balzers|LI||a0|3mr|qe|1a
+Baliuag Nuevo|PH||71|11k|9i8|1a
+Bala|RO|Mehedinți County|8u|3go|1rf|1a
+Balagunan|PH||71|kt|9oo|19
+Campbeltown|GB||9b|49z|-fl|19|Cammeltoun;Ceann Loch Chille Chiaráin;Balley Keeill Charane
+Balrampur|IN|Chhattisgarh|6t|1tl|6g9|19
+Balatan|PH||71|110|9ib|19
+Balclutha|NZ||ak|-3kf|d3j|18|Baile Chluaidh;Iwikatea
+Balakhonovskoye|RU||9i|3ge|382|18|Balakhonovskoje
+Bălileşti|RO||8u|3h7|1x9|18
+Balite|PH|Central Luzon|71|17g|9b4|18|Balete
+Balk|NL||8m|42y|fi|18
+Bulatukan|PH||71|j6|9no|17|Balatukan
+Balagansk|RU||6k|461|7y9|16|Baiagansk
+Balışeyh|TR||94|32v|2lo|16|Balışıh;Balışoh;Balışey
+Baleng|CN||7i|2ld|82b|15
+Balasan|PH||71|vv|9hx|15
+Balagtasin|PH||71|12m|9cd|15
+Bălan|RO|Sălaj County|8u|3n0|1sr|15
+Balgach|CH||a7|3np|qp|14
+Ball|US||2f|2fa|-74p|14
+Baldwin|US|Wisconsin|2f|3gx|-74l|14
+Balahovit|AM||80|33t|3fx|14|Balaovit
+Balria|IN||6t|1vn|5ou|14
+Baltay|RU||9s|41r|3lj|14|Baltaj
+Ballabio|IT||9o|3ji|q6|13
+Baliyasan|IN||6t|1t6|5l3|13
+Balkudrā|IN||6t|1tp|6l0|13
+Balogo|PH|Bicol Region|71|10x|9j7|13|Balugo
+Balbinos|BR||4w|-1ou|-3t4|13
+South Baltimore|US||48|313|-5wu|13|Baltimora sud
+Ballarat North|AU||8j|-2wa|b3n|12
+Balwin|CA||2s|44v|-8r5|12
+Balveren|TR||94|2w4|3a7|12
+Balmoral|AU||8c|-249|bt7|12
+Ballinger|US||2f|2g6|-7pn|12
+Balatero|PH||71|11i|9bw|11
+Baleno|PH||71|yn|9j2|11
+Balaoang|PH||71|17i|9ar|11
+Balingasay|PH||71|19g|98y|11
+Balsorano|IT||9o|385|11o|11
+Baldone|LV||9n|4dm|1vs|11|Baldohn
+Bālā Dezā|IR||7o|2tf|43f|10
+Balegem|BE||8t|3xh|aj|10|Baelegem
+Bālā Jāddeh|IR||7o|2u4|46i|10
+Balud|PH|Central Visayas|71|s7|9jm|10
+Belalcázar|ES||9d|2z6|-ed|10|Balalcazar
+Balyaga|RU||67|3y3|8ej|10
+Balanacan|PH||71|11l|9ej|z|Balanakan
+Paldiski|EE||9x|4kw|1ut|z|Baltischport;Rågervik;Rogervik;Baltiski;Paltiski
+Balutu|PH||71|16i|9b9|z|Baluti;Baluto
+Balvard|IR||7o|29q|4bp|z|Balvareh
+Balocawehay|PH||71|ts|9n5|z|Balocawihay
+Balc|RO||8u|3nc|1ql|z
+Balahzār|IR||7o|2db|3z7|z|Baleh Zār
+Bălăciţa|RO||8u|3fa|1s9|z
+Bal’shavik|BY||9g|460|24l|z|Bol’shevik
+Balerna|CH||a7|3jd|p1|z|Barerna
+Balástya|HU||8v|3ky|1jl|y
+Balibago|PH|Calabarzon|71|12p|9b3|y
+Balin|PL||a5|3vd|1hu|y
+Bălcăuţi|RO||8u|3p1|20f|y|Balkoutz
+Bagnères-de-Luchon|FR||9k|3av|1n|y|Luchon;Bagnères de Luchon;Banhèras de Luishon;Balneum Lixonense;Banyeras de Luixón
+Baldovineşti|RO|Olt|8u|3fa|1ut|y
+Baliza|BR||2k|-190|-41y|y|Balisa
+Balgazyn|RU||6u|3xo|7cg|x|Balgazik;Balgazun;Balgazin
+Baldwyn|US||2f|2nv|-6u8|x
+Balatonkenese|HU||8v|3mo|1eb|x
+Bains-sur-Oust|FR||9k|3oi|-5r|x|Baen-Ballon;Balneum
+Boljoon|PH||71|qr|9j0|x|Baljoon
+Balogo|PH|Central Visayas|71|s3|9i5|x|Baloge
+Baldwin|US|Georgia|48|2nt|-6g2|x
+Balcones Heights|US||2f|29x|-7lr|x
+Balgowlah Heights|AU||8l|-2lx|bo6|x
+Balsareny|ES||9d|38a|57|w
+Ballantrae|CA||59|3eb|-64a|w
+Bal-os|PH||71|q8|9gn|w
+Balogo|PH|Bicol Region|71|11i|9hu|w|Bologo;Baloga;Balugo
+Balfour|ZA|Eastern Cape|o|-2ie|224|w
+Balmville|US||48|37d|-5pl|w
+Baluyot|PH||71|17w|9am|w|Buluyot
+Balangkayan|PH||71|vv|9on|w
+Baltimore Highlands|US|Maryland|48|315|-5wp|v
+Balibago|PH|Calabarzon|71|11t|9cy|v
+Balitoc|PH||71|12i|9b4|v
+Castletown|IM||93|467|-cx|v|Kasltaunas;Balley Chashtal;Baile Chaistil;Castletoun
+Balasheyka|RU||9p|440|3pl|v|Balasjejka
+Balogo|PH|Soccsksargen|71|k8|9lq|v
+Baud|PH||71|v5|9jm|v|Balud;Baod
+Ishkhoy-Yurt|RU||9i|3c1|3kv|v|Isjkhoj-Jurt;Balç-Evl;Išhoj-Jurt;Işxoyn-Evla
+Balinad|PH||71|10x|9j7|u
+Balabag|PH|Western Visayas|71|tw|9g9|u
+Bālānej|IR||7o|2vw|3hg|u|Bālānaj;Bālānj
+Ballville|US||48|36t|-6ex|u|Ballsville
+Baltimore|US|Ohio|48|32p|-6dg|u
+Balilihan|PH||71|r4|9kd|t|Balilinan
+Balaoan|PH||71|1aq|9ag|t
+Balayang|PH||71|177|9b9|t
+Ballan|AU||8j|-2wg|b4n|t
+Bald Knob|US||2f|2q3|-72d|t|Baldknob
+Ballainvilliers|FR||9k|3r7|6e|t
+Balingueo|PH||71|18c|9ah|t
+Baliwagan|PH|Western Visayas|71|sw|9hd|t|Baliuagan
+Balpınar|TR||94|2x7|362|t|Giresiran;Gresiran;Girisiran
+Bal Harbour|US||48|1zx|-66l|t|Bal Harbor
+Balangero|IT||9o|3hr|kw|t|Balangé
+Balaclava|JM||3i|1eh|-5zo|t
+Balaogan|PH||71|11b|9ig|s
+Balatonszabadi|HU||8v|3m9|1ee|s
+Baliwagan|PH|Northern Mindanao|71|o8|9mn|s|Baliuagan
+Ballygowan|GB||9b|47e|-g3|s|Baile Mhic Gabhann
+Balutakay|PH||71|io|9o7|s|Balutakai
+Balovne|UA||98|3mp|2gl|s
+Ballinrobe|IE||8z|44z|-pn|s|Baile an Róba;Balinrobas
+Balading|PH||71|117|9jn|s
+Ballószög|HU||8v|3m6|1id|s
+Balta Doamnei|RO||8u|3gc|20p|r
+Băleni|RO||8u|3ja|25b|r
+Balagon|PH||71|m9|9ic|r
+Bulualto|PH||71|16a|9bz|r|Balo Alto;Bulvalto
+Balugo|PH||71|yy|9dc|r
+Ballyjamesduff|IE||8z|45n|-k0|r|Baile Shéamais Dhuibh
+Balazote|ES||9d|300|-5z|r
+Baranzié|CI||0|m5|-cj|q|Balanzi;Baranzyé
+Balan|FR|Auvergne-Rhône-Alpes|9k|3jb|e6|q
+Balud|PH|Eastern Visayas|71|wa|9of|q|Balod
+Balbigny|FR||9k|3ja|bn|q
+Balite|PH|Central Luzon|71|15e|9bj|q
+Balazar|PT||99|370|-ny|p
+Bălăşeşti|RO||8u|3k2|24v|p
+Baltasar Brum|UY||45|-2dc|-4f9|p
+Balmedie|GB||9b|4f1|-5q|p
+Balas|PH|Central Luzon|71|15t|9az|p
+Balila|PH||71|m8|9n9|p
+Balagui|PH||71|vw|9lx|p|Balaquid
+Balaci|RO||8u|3f7|1x8|p
+Balili|PH||71|ly|9jp|p|Baliti
+Balaclava|NZ||ak|-3jh|d5i|p
+Balayong|PH||71|qb|9hu|p
+Bâlteni|RO|Gorj County|8u|3gn|1sn|p|Bîlteni
+Ballina|IE|Munster|8z|42p|-ng|o|Béal an Átha
+Balabagan|PH||71|kx|9kr|o
+Bälinge|SE||9w|4mj|1cp|o
+Balinsacayao|PH||71|to|9n4|o|Balinsasayao
+Ballyhaunis|IE||8z|45d|-od|o|Béal Átha hAmhnais;Balihonisas
+Balut|PH||71|14s|9av|n
+Baldwin|US|Louisiana|2f|2aw|-72a|n
+Balangonan|PH||71|fh|9o7|n|Balanganan
+Bagnoregio|IT||9o|3af|xl|n|Balneoregium;Bagnoregiu
+Baldersheim|FR||9k|3os|ki|n|Baltersheim
+Ballypatrick|GB||9b|49a|-h3|n
+Baloy|PH||71|17x|9bh|n
+Balboa|CO|Risaralda Department|27|dr|-5v0|n
+Ballyshannon|IE||8z|47e|-mq|n|Béal Átha Seanaidh
+Balogo|PH|Ilocos|71|18f|9a4|n
+Balas|PH|Autonomous Region in Muslim Mindanao|71|il|9fa|n
+Balud|PH|Bicol Region|71|xg|9i7|n|Balug
+Balagtas|PH|Eastern Visayas|71|ux|9lw|n|Balagtos
+Ballwil|CH||a7|3mz|n4|n
+Balibagan Oeste|PH||71|u0|9gc|n
+Bălușești|RO||8u|3m2|230|n
+Băleşti|RO|Vrancea|8u|3i7|23n|m
+Balbalan|PH||71|1cg|9co|m
+Balnarring|AU||8j|-2yl|b75|m
+Balucawi|PH||71|xw|9k0|l|Balucaue;Balocawe
+Baltinglass|IE||8z|432|-in|l|Bealach Conglais;Baltinglasas
+Balangbalang|PH||71|p6|9oy|l
+Bălăceanca|RO||8u|3fb|211|l
+Rodópoli|GR|Attica|8p|2xw|1uc|l|Bála
+Ballintoy Harbour|GB||9b|49g|-hp|l
+Balazé|FR||9k|3pt|-3b|l|Belezeg
+Valderrobres|ES||9d|35j|f|l|Baldecaxicos;Vall-de-roures;Vallderroures
+Balatonföldvár|HU||8v|3m5|1do|l
+Balaklava|AU||8b|-2mv|aoh|k
+Baldwinville|US||48|3ad|-5k8|k|Baldwinsville
+Balrothery|IE||8z|44v|-h7|k|Baile an Ridire
+Balaruc-le-Vieux|FR||9k|3cq|a9|k|Balaruc;Balaruc Vièlh
+Balatonszárszó|HU||8v|3m3|1di|k
+Balsorano Nuovo|IT||9o|385|11o|k
+Bâldana|RO||8u|3fw|1zm|k|Bîldana
+Bala|GB||9b|42z|-a0|k
+Bălteni|RO|Olt|8u|3fh|1w5|j
+Cecilio Terán|MX||41|1g9|-7i2|j|Balastrera
+Balge|DE||8r|42g|pj|j
+Balatonfenyves|HU||8v|3ls|1cl|j
+Baldissero Torinese|IT||9o|3h7|lp|j|Baudsé
+Balmain East|AU||8l|-2m2|bnz|j
+Ballymahon|IE||8z|44t|-ll|j|Baile Uí Mhatháin
+Balfron|GB||9b|4br|-c2|j
+Balia|CI||0|ir|-ih|i|Baléa
+Ballaghaderreen|IE||8z|45q|-nu|i|Bealach an Doirín;Balahaderinas
+Balata|LC||52|12x|-4pc|i
+Ballivor|IE||8z|44p|-jc|i|Baile Íomhair
+Balamutivka|UA||98|3qt|20e|i|Balamutca;Balamoutivka;Balamutka;Balamutovka
+Bălăceanu|RO||8u|3hr|23f|i
+Balya|TR||94|32f|24m|i
+Balgonie|CA||4q|3w8|-81n|i
+Balloch|GB|Scotland|9b|4bk|-cq|h|Am Bealach
+El Bálsamo|HN||56|15v|-6qz|h|Bálsamo
+Balinţ|RO||8u|3j9|1op|h|Bálinc
+Ballykelly|GB||9b|48w|-ji|h
+Ball Ground|US||48|2ne|-6ie|h|Ballground
+Bălăceana|RO||8u|3oc|20d|h
+Ballast|NL||8m|42b|ip|h
+Balakhninskiy|RU||6k|4h5|8tg|h
+Balhannah|AU||8b|-2p7|apn|h
+Balıklı|TR||94|34e|24r|h
+Balotaszállás|HU||8v|3kr|1ia|h
+Balatonszemes|HU||8v|3m1|1de|g
+Balmoral|CA||43|3p9|-54l|g
+Balan|FR|Grand Est|9k|3u1|ds|g
+Bălteni|RO|Vaslui County|8u|3ln|24q|g
+Balsham|GB||9b|40t|w|g
+Bălănești|RO|Olt|8u|3ex|1w0|g
+Ballplay|US||2f|2mm|-6md|g
+Balkivtsi|UA||98|3qb|21t|g|Bălcăuți
+Ballywalter|GB||9b|47i|-f8|g
+Ballater|GB||9b|4eh|-8g|g|Bealadair
+Ballymote|IE||8z|468|-no|f|Baile an Mhóta
+Gbaléguhé|CI||0|hc|-i3|f|Baléguyé
+Bālā Maḩalleh-ye Gafsheh|IR||7o|2vq|3ue|f
+Mykolayivka|UA|Odesa|98|3jj|2by|f|Nicolaenii-Noui;Nicolăeni;Mykolaïvka;Nikolaevka;Mihăileni;Balabanka;Balabanca-Mică
+Balagny-sur-Thérain|FR||9k|3sy|6i|f
+Baligród|PL||a5|3t1|1px|f
+Bálsamo Oriental|HN||56|170|-6nt|f
+Bolţāq|IR||7o|2k4|3uw|f|Balţāq
+Balm|US||48|254|-6ci|f
+Baldwin|US|Florida|48|2c6|-6bq|f
+Balranald|AU||8l|-2o8|b2s|e
+Ballon|FR|Pays de la Loire|9k|3pu|n|e
+Ballıkpınar|TR||94|32d|2iv|e|Balıkpınar
+Balloch|GB|Scotland|9b|4fp|-bg|e
+Baldeopur|IN||6t|27m|65u|e
+Balatonvilágos|HU||8v|3mg|1eg|e
+Balmullo|GB||9b|4cm|-85|e
+Ballò|IT||9o|3ia|xj|e
+Baltanás|ES||9d|38i|-bt|e
+Balcombe|GB||9b|3xu|-d|e
+Balta Verde|RO||8u|3f6|1qs|e
+Balatun|BA||9r|3gm|1hq|e
+Bally Haly|CA||50|3o7|-42e|e
+Balta|RO|Mehedinți County|8u|3gp|1qw|e
+Ballıca|TR|Manisa|94|305|24y|e
+Balgarevo|BG||9v|3ck|26x|e
+Ballinamallard|GB||9b|474|-l2|e|Béal Átha na Mallacht;Ballanamallard
+Balzola|IT||9o|3hi|nc|e
+Bălțești|RO||8u|3hb|20l|e
+Ballybunnion|IE||8z|41v|-qv|e|Baile an Bhuinneánaigh;Ballybunion
+Ballysadare|IE||8z|46l|-nn|e|Baile Easa Dara
+Ballygar|IE||8z|44o|-n5|d|Béal Átha Ghártha
+Ballisodare|IE||8z|46l|-nn|d|Baile Easa Dara
+Balam|CI||0|i3|-hh|d
+Ballybay|IE||8z|46d|-j6|d|Béal Átha na Beithe;Béal Átha Beithe
+Balaban|TR|Kocaeli|94|351|2bk|d
+Balvano|IT||9o|34x|173|d
+Balçıkhisar|TR||94|2ys|2cs|d
+Balzac|FR||9k|3iz|f|d
+Bālā Aḩmad Kolā|IR||7o|2tt|42b|d
+Bâlta|RO|Gorj County|8u|3hc|1s6|d|Bîlta
+Balzhausen|DE||8r|3q0|t5|d
+Baltazarivka|UA||98|3ky|2kt|d|Baltazarovka
+Baltic|US|Connecticut|48|37m|-5k8|d
+Balykçy|TM||5x|2wq|4k7|c
+Balatonberény|HU||8v|3lr|1c4|c
+Ballaison|FR||9k|3km|hl|c
+Bâlta|RO|Dolj|8u|3fq|1t7|c|Bîlta
+Balice|PL||a5|3v5|1iz|c
+Balşa|RO||8u|3jv|1s8|c
+Balıklıova|TR||94|2yq|21v|c
+Balfour|US||48|2q7|-6d3|c
+Balș|RO|Iași County|8u|3ne|22y|c
+Balda|RO||8u|3lt|1v2|c|Balta
+Baltar|ES||9d|38j|-lg|c
+Ballinroad|IE||8z|41w|-ht|c
+Baldwin|US|Michigan|2q|3dy|-6mh|c
+Baltschieder|CH||a7|3kn|lv|c|Ponczirrum
+Baltic|US|South Dakota|2f|3dk|-7gq|b
+Bâlvăneşti|RO||8u|3gg|1r0|b|Bîlvăneşti
+Bălteni|RO|Dâmbovița County|8u|3g2|1zd|b
+Ballygerry|IE||8z|415|-ho|b
+Gbalagoua|CI||0|it|-hx|b|Balagoua
+Baltaköy|TR||94|2wy|25g|b
+Baldovinești|RO|Brăila County|8u|3hw|25j|b
+Balintești|RO||8u|3jv|25k|b
+Baltaşı|TR||94|2z7|32j|b|Nacaran
+Balje|DE||8r|45j|pd|b
+Ballard|US||2p|33x|-8he|b
+Ballyconnell|IE||8z|46c|-l2|b|Béal Átha Conaill
+Bally|US||48|348|-5tz|b
+Bălcaciu|RO||8u|3kb|1uu|b
+Balçık|TR||94|35j|29r|b
+Balıklıdere|TR||94|2sc|2sa|b
+Balintore|GB||9b|4gg|-av|b
+Ballots|FR||9k|3p1|-2x|b
+Ballylinan|IE||8z|432|-jk|b
+Ballyragget|IE||8z|42n|-kd|b|Béal Átha Ragad
+Baltoji Vokė|LT||a3|47o|1xz|b
+Balaciu|RO||8u|3fz|22o|b
+Bolovăniș|RO||8u|3li|20d|b|Bálványospataka;Bălăvăniş;Bolovani;Bolovanii
+Bălnaca|RO||8u|3me|1qp|b
+Bālā Marznāk|IR||7o|2t2|42c|b
+Ballabhpur|BD||6a|1wj|716|b|Ballabpur
+Ballı|TR||94|2vx|3b0|b
+Balaban|TR|Diyarbakır Province|94|2y1|33p|a
+Balat|TR||94|2w7|23s|a|Mileto;Milet;Miletos;Miletus;Milétosz
+Bellenaves|FR||9k|3kc|8k|a|Balanava;Balanavia
+Ballobar|ES||9d|37m|j|a|Vallobar
+Bolătău|RO||8u|3lj|21c|a|Bălătău
+Bălcești|RO|Gorj County|8u|3hb|1tn|a
+Balzfeld|DE||8r|3sv|of|a
+Ballıbostan|TR||94|328|3bz|a
+Fountainstown|IE||8z|3zu|-n2|a|Baile Mhóntáin;Ballymontane
+Balsam Lake|US||2f|3i9|-74t|a
+Baldenheim|FR||9k|3q0|ky|a|Bàldene;Baldelheim
+Băleasa|RO||8u|3fc|1up|a
+Balgheim|DE||8r|3pj|od|a
+El Baluarte|MX||41|1t0|-7y8|a|Baluarte
+Bale|HR||a6|3h4|12a|a|Bal
+Balta Sărată|RO||8u|3e9|1wz|a
+Baladeh|IR||7o|2sk|3zx|a
+Baliasne|UA||98|3ue|2nd|a|Balyasnoye;Balyasne
+Balıkhisar|TR||94|33e|2jo|a
+Ballangen|NO||9j|59u|1ar|a|Bálat;Bálák
+Balgal Beach|AU||8c|-1gu|bap|9
+Balcolyn|AU||8l|-2jy|boz|9
+Ballar|TR||94|36b|2c3|9
+Ballinagh|IE||8z|45t|-km|9|Béal Átha na nEach;Bellananagh
+Baluzon|CI||0|j6|-hu|9
+Baloluk|TR||94|32d|3bo|9
+Ballıca|TR|Düzce|94|35a|2ee|9
+Ballinamore|IE||8z|465|-lo|9|Béal an Átha Móir
+Bălăneasa|RO||8u|3kv|229|9
+Balcı|TR|Isparta|94|2xw|2ef|9
+Balivka|UA||98|3t7|2nn|9
+Bălăbănești|RO||8u|3k2|250|9
+Băla|RO|Mureș County|8u|3ls|1w2|9
+Bagno di Romagna|IT||9o|3ds|x8|9|Balnei;Bagno de Romagna
+Baldichieri d'Asti|IT||9o|3gr|mh|9|Baodichè
+Ballymore Eustace|IE||8z|43l|-id|9|An Baile Mór
+Balleroy|FR||9k|3sm|-2c|9
+Ballyclerahan|IE||8z|41l|-lk|9|Baile Uí Chléireacháin
+Ballao|IT||9o|31v|q0|9|Ballau
+Ballaigues|CH||a7|3lt|ht|8|Baillaigues
+Balet|CI||0|h0|-ce|8
+Bālā Afrākotī|IR||7o|2tc|42z|8
+Balinghem|FR||9k|3xa|5e|8|Balinghin
+Bălaia|RO||8u|3mv|1pl|8
+Băltița|RO||8u|3gk|1zt|8
+Bâlca|RO||8u|3k6|22y|8|Bîlca
+Balazher|UA||98|3q1|1qt|8
+Balboa|PA||4g|ov|-651|8
+Bălești|RO|Vaslui County|8u|3lr|24h|8
+Balschwiller|FR||9k|3of|jx|8
+Balykcha|RU||63|3yh|6ro|8|Balyktsja
+Ballitore|IE||8z|439|-iy|8|Béal Atha an Tuair
+Balcalı|TR||94|36a|2tl|8
+Baltic|US|Ohio|48|34c|-6ay|8
+Balladougou|CI||0|oj|-hc|8
+Balala|CI||0|q8|-m6|8
+Balconcitos (Balcones)|MX||44|1up|-7nk|8
+Balestrand|NO||9j|4q1|i6|8
+Balla|IE||8z|45g|-pd|8
+Baloğlu|TR||94|2yv|367|8|Dimilyan
+Balkat|TR||94|2uf|30b|8|Telhadar;Tel’khadar
+Ballstad|NO||9j|593|11n|8|Balstad;Balstadt
+Balls Creek|CA||2x|3k7|-4nj|8
+Ballık|TR||94|2yd|2c0|8
+Bal Kohna|IN||6t|2en|5tf|8
+Ballersdorf|FR||9k|3oa|jw|7|Ballesdorf
+Balta Albă|RO||8u|3hu|23t|7
+Bălăneşti|RO|Gorj County|8u|3h6|1sz|7
+Bałtów|PL|Świętokrzyskie|a5|3xq|1nu|7
+La Balme-les-Grottes|FR||9k|3jd|et|7|Balme-les-Grottes
+Balgau|FR||9k|3p5|ky|7
+Ballstädt|DE||8r|3xr|ts|7
+Ballée|FR||9k|3p5|-16|7
+Balki|UA||9t|3gz|2nq|7
+Ballyheige|IE||8z|41i|-rb|7|Baile Uí Thaidhg;Ballyheigue
+Ballygawley|GB||9b|47a|-jj|7|Baile Uí Dhálaigh
+Ballyhaise|IE||8z|465|-kc|7|Béal Átha hÉis
+Bālā Zarrīn Kolā|IR||7o|2tz|435|7
+Balatro|IT||9o|3dg|vg|7
+Balbiano|IT||9o|3i2|q0|7
+Balkıca|TR||94|2vo|28u|7
+Bălțați|RO|Vaslui County|8u|3lq|25i|7
+Ballon|IE||8z|42i|-it|7|Balana
+Balarmudu|TR||94|2ts|2t5|7
+Balūchābād|IR||7o|2uy|48h|7
+Balgstädt|DE||8r|3y9|wl|7
+Balcı|TR|Niğde Province|94|2xh|2nq|7
+Bala de Sus|RO||8u|3gq|1rd|7
+Baldramsdorf|AT||a2|3m0|11d|7
+Ballesteros|ES||9d|314|-b1|7
+Ballendorf|DE||8r|3qv|s0|7
+Ballachulish|GB||9b|4dg|-ea|7|Baile a Chaolais;Balleyn Cheeylysh;Ballachuhsh
+Ballycannan|IE||8z|42e|-o1|6
+Bălăcești|RO||8u|3gb|1sg|6
+Balfouriyya|IL||6n|2in|2q2|6|Balfouria;Balfourija;Balfouriya;Balfourya;Balfuriya;Balfouryah
+Balomiru de Câmp|RO||8u|3jm|1sw|6|Balomirul-de-Câmp;Balomiru de Cîmp
+Balıksu|TR||94|329|3ca|6
+Balcones de Talandracas|PE||3o|-e5|-66g|6
+Balāl|IR||7o|2ha|3q0|6
+Bālā Shahr|IR||7o|28h|43o|6
+Balaton|US||2f|3ev|-7eb|6
+Balâtre|BE||8t|3wa|cw|6
+Bălteni|RO|Iași County|8u|3no|24e|6
+Balynivka|UA||98|3rv|21z|6|Posëlok Imeni Petrovskogo;Petrivske
+Bălțați|RO|Olt|8u|3fn|1wa|6
+Balduinstein|DE||8r|3vv|m5|6
+Baldovinești|RO|Teleorman County|8u|3f6|1xm|6
+Baloșani|RO||8u|3g9|1tq|6
+Băltăreți|RO||8u|3h6|21y|6
+Balli Patti|IN||6t|22c|6dz|6
+Ballymagorry|GB||9b|48e|-kn|6
+Bălănești|RO|Neamț County|8u|3mf|220|6
+Ballon|FR|New Aquitaine|9k|3jy|-2n|6
+Ballygarvan|IE||8z|3zy|-ni|6|Baile Garbháin
+Balsièges|FR||9k|3fk|9m|5|Balsiège
+Baldwin|US|North Dakota|2f|3mn|-7rv|5
+Bălinești|RO||8u|3p2|20q|5
+Bălteni|RO|Buzău County|8u|3h1|23f|5
+Bānū Şaḩrā|IR||7o|2rv|3x6|5|Bālsahra
+Balçeşme|TR||94|35f|3az|5
+Balingup|AU||8k|-2lw|8y5|5
+Bālā Hashtal|IR||7o|2td|41n|5
+Dovegh|AM||80|36e|3h3|5|Balakend;Dovekh;Dovex;Doveg;Dvegh
+Balsac|FR||9k|3fc|6t|5
+Balzapote|MX||41|1fq|-7c3|5
+Balderrama|MX||41|1g1|-7ra|5
+Balmorhea|US||2f|2e2|-806|5|Balmorhia
+Baltonsborough|GB||9b|3xz|-7d|5
+Bałtów|PL|Lublin|a5|3z1|1p6|5|Bartów
+Ballingarry|IE||8z|41r|-om|5|Baile an Gharraí;Ballingary
+Balsa Larga|MX||41|1g0|-7gs|5
+Belvédère|FR||9k|3e9|kc|5|Balvèr;Bellumviderium Nicaeensium;Barver
+Baltzenheim|FR||9k|3pl|l0|5
+Ballyduff|IE||8z|41q|-qu|5|An Baile Dubh
+El Ballestero|ES||9d|2zw|-6u|5|Ballestero
+Bal Hukmi|IN||6t|2eg|5tk|5
+Băltățeni|RO||8u|3h9|1uv|5
+Băltăgești|RO||8u|3fk|26b|5
+Balatcık|TR|Aydın|94|2xb|24d|5
+Balsas de Agua|MX||41|1k7|-7hs|5|Poxo de Oro;Pozos de Oro;Bolsas de Agua;Pozo de Oro
+Balakliia|UA||98|3tt|2lr|5|Balakleya;Balakliya
+Ballycanew|IE||8z|425|-hi|5|Baile Uí Chonnmhaí
+Bălanu|RO||8u|3e0|200|5|Bălan
+Balmori|ES||9d|3cm|-df|5

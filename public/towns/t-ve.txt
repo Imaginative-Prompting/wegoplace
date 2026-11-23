@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Weifang|CN||7i|2tz|96u|20ff|Wej-fang;Vejfang;Duy Phường;Î-hng-chhī
+Wenzhou|CN||7i|25s|9b7|kg4|Wen-čou;Venĝou;Wénju shehiri;Wentsjou;Vûn-chû-sṳ;Ôn Châu;Un-chiu-chhī;Ŭng-ciŭ;Vencsou;Vendžou;Yongjia;Wen-chou
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Belém|BR|Pará|23|-42|-3qq|bkk|Velẽ;Belena;Bethlehem;Belenas;Belen
+Weinan|CN||7i|2nu|8g7|995|Wej-nan;Vị Nam;Ôi-nàng;Veinan;Ūi-lâm-chhī;Veynan
+Weihai|CN||7i|2w7|9f7|6ij|Uy Hải;Wej-chaj;Ŭi-hāi;Veihai;Ui-hái-chhī
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+Vancouver|CA||5b|3st|-9i0|53y|Vankuvero;Vancuverium;Vancôver;Wankuwér;Vankūvera;Venkûver;Vankuver;Fankûver;Vankuveris;Vangúve
+Las Vegas|US|Nevada|3p|2sh|-8vu|4yb|Lasvegaso;Campi;Lasvegasa;Las-Veqas;Vegas;Los Vegas
+Porto Velho|BR||4l|-oc|-4xi|48i|Porto Veljas;Porto Velyo
+Vellore|IN||6t|zw|63t|3qn|Velur;Veluru;Velluru
+Vereeniging|ZA||o|-223|25l|3nv|Verenigingas;Verenigingo
+Mykolayiv|UA|Mykolaiv|98|3mi|2gv|3mk|Vernoleninsk;Mykolaïv;Mikołajów;Mikolajiv;Nicolopoli
+Welkom|ZA||o|-25q|22a|3bz|Velkomas
+Venustiano Carranza|MX|Mexico City|41|1i0|-7na|3bq
+Veracruz|MX|Veracruz|41|1ha|-7f2|3az|Verakrusas;Chalchiuhcuehcān
+West Jerusalem|IL||6n|2ga|2pu|334|Vest-Jerusalem;Vestjerusalem;Westjerusalem;Västra Jerusalem
+Vila Velha|BR||4w|-1kh|-33x|31p|Vila Velja
+Wellington|NZ||ak|-36p|dhi|2y3|Welintòn;Whanga-nui-a-Tara;Vellinqton;Weolingtūn;Velingtono;Velingtonas;Velingtona;Vellingtonia;Ueligitone;Te Whanga-nui-a-Tara;Wellinton;Hiê-lìng-dóng;Vellington
+Verona|IT||9o|3i8|uj|1zo|Vérone;Werona
+Rio Verde|BR||4w|-1dg|-3xh|1v3
+North Las Vegas|US||3p|2sk|-8vs|1t8|Norda Lasvegaso;Bắc Las Vegas
+Varāmīn|IR||7o|2q4|3zh|1qo|Verāmin
+Velikiy Novgorod|RU||9i|4ik|2ev|1px|Novgorod;Weliki Nowgorod;Veliki Nóvgorod;Velikij Novgorod;Novogardia Magna;Naugard;Nowogród Wielki;Veliky Novgorod;Naugardas;Hólmgarður;Šuuri Novgorodi;Nowgorod
+Verhunskyi|UA||98|3qz|31d|1fk|Zhovtnevyi rayon;Zhovtnevyi
+Oradea|RO||8u|3mp|1ow|1ev|Velký Varadín;Nagyvárad;Varadinum;Oradä;Großwardein;Oradia;Oradja;Veliki Varadin;Wardein;Várad;Varadija;Varat;Gran Varadino;Groysvardeyn
+Verāval|IN||6t|1m3|5fh|1bj
+Vespasiano|BR||4w|-1ip|-3e0|12i
+Besançon|FR||9k|3n9|gq|zo|Bisanz;Besanzón;Bezanson;Bezansono;Chrysopolis;Besanzone;Bysantium;Vesontio;Vesanção;Bezansona;Besanção;Bisontion;Besontio;Vesuntio;Bezansonas
+Västerås|SE||9w|4lm|19z|zi|Arosia;Vesterosa;Vesterosas
+Veshnyaki|RU||9i|4as|2x2|xw
+Vejalpur|IN||6t|1r1|5oc|xs
+Vihari|PK||6q|2bg|5l0|vc|Vehari
+Wakefield|GB||9b|454|-46|ui|Veikfildas
+Vedado|CU||36|1sa|-6cv|u4
+Weldiya|ET||2|wv|31z|sw|Veldija;Ualdia;Woldia;Waldia;Weldia;Weldya
+Velikiye Luki|RU||9i|4ci|2cu|sn|Welikije Luki;Velikije Luki;Wielkie Łuki;Velikije Loeki;Velikie Luki
+West Bromwich|GB||9b|41w|-5j|sn|Vest Bromičas;Bromwich Thiar;Vest-Bromviĉo;Vestbromviča;Uest-Bromiç
+La Vega|DO||4v|1he|-5fx|sg
+Ciutat Vella|ES||9d|36y|61|sf|Vieille ville de Barcelone

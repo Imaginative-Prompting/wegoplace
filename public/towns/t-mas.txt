@@ -1,0 +1,335 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Moscow|RU||9i|4av|2wi|283o|Moskau;Moscou;Moscú;Moskvo;Moskou;Moskva;Mòskwa;Moscfa;Moskova;Moscó;Moscova;Moszkva;Mosca;Moskuas;Moscua;Maskva;Maskava;Moscovo;Mát-xcơ-va;Mosku;Mosko;Moskowa;Moskow;Moska;Matxcơva;Moskov;Moskovu
+Mashhad|IR||7o|2su|4ll|hsw|Mashad;Maŝhado;Meszhed;Mexed;Maschhad;Masyhad;Meşhed;Mešheda;Meixad;Mešhedas;Maxhad;Maşat;Sanaabad;Alexandria
+Maceió|BR||3r|-qv|-2ra|7yk|Masejas;Maseyo;Macelo
+Marseille|FR||9k|3ca|ey|6ro|Marsella;Marsilha;Marsiella;Marsejlo;Marsiglia;Massilia;Marselis;Marseļa;Marsylia;Marselha;Marsilia;Marsigghia;Marsilya;Marsiho;Massalia;Marseilla;Marseya;Marselye;Marseggia;Marseja;Marsegia;Marseglia;Marsêle;Marsylijo;Marsêy
+Muscat|OM||72|1ti|4i9|65e|Mascate;Maskat;Masqat;Muskat;Maskatas;Maskate;Maskato;Maskata;Maszkat;Masquat;Mascat
+Mazār-e Sharīf|AF||6o|2tz|56f|41d|Mazari Sharif;Mazār-e Šarīf;Masar-e Scharif;Mazar-i Szarif;Mazar-e-Sharif;Mezirek-i Şerif;Mazar-i Sharif;Mazar-e Charif;Mazāre S̄rīf;Mazār-i-Sharīf;Mazari-Sharif
+Masina|CD||t|-c6|16r|3qs
+Masan|KR||7h|2pl|9sb|3co
+Mazatlán|MX|Sinaloa|3x|1si|-87m|2y0|Masatlanas
+Maseru|LS||12|-29g|24c|2ry|Maserou
+Pasir Mas|MY||6v|gt|7vq|1s0
+Machilīpatnam|IN||6t|18z|69e|1hk|Masulipatão;Masulipatam;Masulipatnam
+Mostaganem|DZ||3|2rt|9|199|Mustaghanam;Mastaganeam;Mustaghanim
+Masai|MY||6v|45|80k|13d
+Franceville|GA||v|-4j|11q|10x|Masuku;Fransvilis
+Masaya|NI||3s|x9|-6n6|105|Masaja
+Maxixe|MZ||11|-1ua|2q7|z4|Mašišė
+Maastricht|NL||8m|3x9|ft|y0|Maestricht;Mastrique;Māstrihta;Mestreech;Mastrichtas;Traiectum Mosae;Maastrikht;Maastrixt
+Masaka|UG||q|-x|2g5|we
+Masindi|UG||q|4n|2g4|up|Masinai
+Mascara|DZ||3|2qc|e|u6|Muaskar;Mu’askar;Maskara
+Mazyr|BY||9g|40k|296|t1|Masyr;Mozyrz;Mazir;Mozyr;Mozyr’;Mazira;Mozyrius
+Masjed Soleymān|IR||7o|2gq|3sy|rx|Masjed Soleiman;Masjed-e Soleymān
+Masvingo|ZW||n|-1jq|2dn|p3
+Msaken|TN||1e|2r9|te|ox|M'saken;Masakin;Msaker
+Masasi|TZ||h|-ts|2zs|ox|Massassi
+Mashtūl as Sūq|EG||c|2cc|2f6|l2|Mashtûl el-Sûq
+Msalātah|LY||1d|2ii|130|kj|Msallata;Masallātah
+Massa|IT|Tuscany|9o|3ec|s6|i0
+Masaurhi Buzurg|IN||6t|1yf|6k7|gm
+Masinloc|PH||71|176|997|fq
+Masumbwe|TZ||h|-a3|2he|dw
+Lydenburg|ZA||o|-1xq|2ck|ds|Mashishing
+Maspeth|US||48|354|-5pb|df
+Masbate|PH||71|yd|9je|d7
+Masi-Manimba|CD||t|-da|1dp|cq
+Masagua|GT||32|13g|-70d|cl
+Masuda|JP|Shimane|7q|2ob|a69|ci|Maszuda
+Masalani|KE||16|-4p|33l|c4|Massalani
+Massiogo|ML||5|sn|-gz|bh
+Masantol|PH||71|15e|9bb|bh
+Maştağa|AZ||61|34l|3ux|b5|Mashtagi;Mashtaga
+Massakory|TD||17|104|17p|b3|Massakori
+Massy|FR||9k|3rd|6c|as
+Masamba|ID||70|-73|9a9|ak|Masambe
+Massapê|BR||2w|-9s|-342|ah
+Masohi|ID||6m|-96|9y9|a4
+Maasmechelen|BE||8t|3xl|ft|a3|Mechele;Massmechelen
+Maspalomas|ES||83|254|-17b|a1
+Mascouche|CA||59|3j3|-5og|9m
+Mason|US|Ohio|48|31c|-6i7|93
+Maşyāf|SY||69|2pf|2sy|8z|Maşşīyaf;Massyaf;Masyāb;Masyad
+Massillon|US||48|35c|-6ag|8z|Massilon;Masillon;Massillion
+Mascalucia|IT||9o|2wd|15t|8y
+Massafra|IT||9o|34r|1bk|8l
+Masaki-chō|JP||7q|2lv|a8n|8h|Masaki
+Masany|UA||98|3z5|2er|8c|Masan’
+Kampong Masjid Tanah|MY||6v|6j|7vo|84|Masjid Tanah
+Mastung|PK||6q|2as|55p|83
+Masterton|NZ||ak|-35s|djy|81|Whakaoriori
+Massaguet|TD||17|yo|16w|7w|Massa Gueit;Massaquet
+Massamá|PT||99|2zn|-ps|7t
+Mason City|US|Iowa|2f|3bv|-76w|7m
+Mashiko|JP||7q|2tb|at6|78
+Mussoorie|IN||6t|2cl|60v|76|Mussoori;Masuri;Musoori;Mussooree
+Massinga|MZ||11|-1st|2qa|6r
+Musselburgh|GB||9b|4be|-8h|6k|Baile nam Feusgan;Masselboro
+Mosta|MT||9e|2rr|143|6j|Masta;Musta
+Masis|AM|Ararat|80|33b|3fg|6f
+Massawa|ER||4|17d|31n|6f|Massaoua;Massaua;Masava;Mits’iwa;Massava;Maçuá;Mĭts’ĭwwa;Masawa;Massau;Massowa;Mitsewa;Massowah;Mitsiwa’e
+Matinkylä|FI||92|4n4|1wq|6b|Mattby;Mattari;Alue 21;Masa
+Massarosa|IT||9o|3dv|sq|68|Massa Grausa
+Massey|NZ||ak|-2uc|dh1|66
+Massey East|NZ||ak|-2ub|dh2|66
+Maswa|TZ||h|-7g|2me|64
+Massapequa|US||48|350|-5o3|61
+Kilwa Masoko|TZ||h|-ot|31r|5z|Masoko
+Masatepe|NI||3s|x3|-6na|5z
+Massy|KG||65|362|5lr|5i
+Mossendjo|CG||a|-87|za|5b|Massendjo;Mossendio
+Māsāl|IR||7o|2vs|3sh|4z
+Massapequa Park|US||48|350|-5o2|4s
+Massaranduba|BR|Santa Catarina|4w|-21x|-3s5|4s|Maçaranduba
+Mascot|AU||8l|-2m9|bnz|4g
+Mastic|US||48|35c|-5mc|4b
+Massamagrell|ES||9d|31x|-x|48|Masamgrell
+Maşīrah|OM||72|1ld|4jj|47
+Masdar City|AE||6c|1vv|47q|46
+Mastic Beach|US||48|359|-5md|44
+Mashpee|US||48|37p|-5fs|44|Garsey;Marshpee
+Masonboro|US||48|2my|-609|44
+Mosty|BY||9g|44d|1w6|3y|Masty;Mastai;Masti
+Massaranduba|BR|Paraíba|2w|-k0|-2rf|3x|Massarandiba;Maçaranduba
+Mascote|BR||20|-178|-316|3t
+Maslyanino|RU||75|46y|6hx|3m|Masljanino;Maslyannino
+Mashava|ZW||n|-1jo|2co|3m|Mashaba
+Maślice|PL||a5|3y4|1b1|3k
+Masoko|TZ||h|-px|2lr|3j
+Maslak|TR||94|367|28m|3f
+Mashāt|IN||6t|1k9|5mt|3d|Masat
+Mazamet|FR||9k|3ct|6l|37|Masamet
+Masila|IN||6t|1qq|6t3|37
+Masalukot Uno|PH||71|12s|9da|2z|Masalukot;Masalukot I
+Massena|US||48|3gt|-5s1|2y
+Massa Lubrense|IT||9o|34t|13x|2u
+Mashhad Rīzeh|IR||7o|2on|4o3|2t
+Masinigudi|IN||6t|w5|5ww|2o|Masnigudi
+Masku|FI||92|4o9|1pe|2o|Masko
+Masally|AZ||61|30g|3r7|2o|Masallı;Masalı
+Mascali|IT||9o|2ww|168|2m
+Massa Lombarda|IT||9o|3fh|wu|2l
+Māsināyakkanpatti|IN||6t|wf|61b|2j
+Maşfūţ|AE||6c|1wx|4bv|2i
+Masalovka|RU||9i|3qg|33u|2h|Zavodskoy
+Mascota|MX||41|1l1|-833|2g
+Mason|US|Michigan|2q|3aa|-6ik|2c
+Mascoutah|US||2f|2yx|-6xf|28
+Masuguru|TZ||h|-vl|2yq|27|Masaguru
+Mashi|NG||u|102|m3|26
+Massah|LY||1d|2iz|1o3|26
+Masindi Port|UG||q|4q|2h5|26
+Masaya|PH||71|13b|9cw|24
+Maslovka|RU||9i|3z7|310|23
+Masuda|JP|Gifu|7q|2qr|al9|22
+Masandra|UA||9t|3fo|2my|21|Massandra;Masandro;Maszandra
+Masquefa|ES||9d|37a|51|20
+Massarelos|PT||99|36b|-nz|1w
+Maseno|KE||16|-1|2o4|1w
+Maślice Małe|PL||a5|3y3|1b2|1u
+Masunga|BW||m|-1la|249|1q
+Mislīyah|SA||7e|1ci|3a8|1p|Masliya;Maslīyah
+Masrātu|IN||6t|1um|6l0|1o
+Massagno|CH||a7|3jt|ou|1m|Maxanius;Massagn
+Massa Marittima|IT||9o|3bl|u9|1l
+Maslova Pristan’|RU||9i|3w6|2u2|1l|Maslova-Pristan;Maslova Prystan;Maslova Pristan
+Masingbi|SL||l|oe|-x7|1k
+Massa di Somma|IT||9o|35h|13y|1k
+Masaya Sur|PH||71|19u|9e7|1j|Massaya Sur
+Mascotte|US||48|27e|-6bh|1j
+Maserà di Padova|IT||9o|3hw|wz|1i
+Mashkat|IR||7o|2my|3yf|1i|Meshkat
+Massapê do Piauí|BR||2w|-kq|-369|1g
+Măstăcani|RO||8u|3j6|25v|1g
+Masachapa|NI||3s|wr|-6ob|1e
+Ma Se Zeik|MM||7y|19x|7eg|1e|Ma Sei Seik
+Maslovare|BA||9r|3ft|1cp|1d|Mastovare
+Massanetta Springs|US||48|2yo|-62z|1c
+Maßbach|DE||8r|3ve|sk|1c
+Masakhane|ZA||o|-203|29h|1c
+Maslog|PH|Eastern Visayas|71|xr|9nv|1c
+Masny|FR||9k|3vv|8w|1b
+Mashike|JP||7q|3dt|ax4|1a|Mashige;Masike
+Massenya|TD||17|vo|18x|1a|Massenia
+Masapang|PH||71|13g|9d2|1a
+Magsingal|PH||71|1d4|9ai|1a|Masingal
+Maselheim|DE||8r|3pp|rg|19
+Massac|US||2f|2uv|-6ud|19
+Massadougou|CI||0|n2|-aw|19
+Massa Finalese|IT||9o|3gl|v5|16
+Maserada sul Piave|IT||9o|3j3|y8|16
+Massing|DE||8r|3qf|z1|15
+Massala|CI||0|ly|-hw|15|Masala
+La Masica|HN||56|17e|-6q0|14|Masica
+Massalengo-Motta Vigana|IT||9o|3hq|qd|14
+Maşloc|RO||8u|3js|1nl|13|Máslok
+Mascherode|DE||8r|412|td|13
+Masaling|PH||71|rq|9ge|12
+Massa Fiscaglia|IT||9o|3gh|xd|12
+Massey Place|CA||4q|40u|-88g|12
+Masaraway|PH||71|10r|9jd|11|Masarawag;Masarauag
+Mashivka|UA||98|3tc|2ov|11|Machivka;Masivka
+Massenbachhausen|DE||8r|3sm|p4|11
+Masoyila|SL||l|nx|-10n|11
+Masii|KE||16|-42|2w0|11
+Maslog|PH|Bicol Region|71|10e|9jt|10
+Mâsca|RO||8u|3km|1o7|z|Mîsca
+Masevaux|FR||9k|3oq|jg|z|Masmünster;Massevaux
+Maślice Wielkie|PL||a5|3y4|1b1|z
+Massafonwavogo-Fapaha|CI||0|qd|-g9|y
+Masontown|US|Pennsylvania|48|32p|-65y|y
+Massanzago-Ca' Baglioni-San Dono|IT||9o|3ik|xd|y
+Masone|IT||9o|3fm|o8|x|Mason
+Maslianico|IT||9o|3jc|p5|x|Marsilianigum;Maslianich
+Masate|IT||9o|3il|qa|x
+Maszewo|PL||a5|44m|15u|w|Maševo
+Masaka|SL||l|o2|-ws|w
+Mashtān|IR||7o|2a5|3zg|v|Mashtūn
+Masipi West|PH||71|1ca|9eg|v|Masipi
+Maside|ES||9d|39t|-mb|v
+Massasso-Bas-Yani|CI||0|o0|-id|u
+Masserberg|DE||8r|3wc|uh|s
+Belawai|MY||6w|67|8ky|s|Tanjung Manis;Kampung Masjid Lama;Masjid Lama
+Mastara|AM||80|34d|3dw|r
+Massemen|BE||8t|3xm|ar|r
+Masiga|PH||71|114|9ef|r
+Masnuy-Saint-Jean|BE||8t|3wd|ay|r
+Masoli|PH||71|114|9ir|q|Masuli
+Masnières|FR||9k|3v7|8x|q
+Masonogan|PH||71|vl|9gs|q|Nasonugan;Nasonogan;Nasunogan
+Masākin Shirkat Abū al Wafā lil Muqāwalāt wa al Istithmār al ‘Aqārī|EG||c|2bf|2ey|q
+Masalipit|PH||71|163|9c8|p|Mansalipit
+Masaguisi|PH||71|zf|9dd|p
+Masaba|PH||71|t9|9kd|p
+Mascot|US||48|2s6|-6gn|o
+Massenzatico|IT||9o|3g9|tq|o
+Massieux|FR||9k|3jj|df|n
+Mazères-Lezons|FR||9k|3c8|-z|n|Masèras-Leson;Masèras e Leson
+Massanutten|US||48|2yp|-62q|n
+Massala-Assolo|CI||0|mn|-ii|n
+Maslovo|UA||9t|3j7|2ng|m
+Mason City|US|Illinois|2f|33o|-6x6|m
+Mesen|IR||7o|22a|4bl|m|Masen;Mosen
+Mason|US|Texas|2f|2df|-7nn|l
+Mazumiapam|MX||41|1ev|-7ct|l|Masumiapa;Masumiapan
+Mast-e Soflá|IR||7o|2n8|3sx|l
+Masarayao|PH||71|ut|9m6|l|Masarayas
+Masury|US||48|36h|-67q|l
+Masḩah|PS||6g|2h7|2pd|k|Mas-ḥa;Masha
+Ma‘şūmīyeh|IR||7o|2mp|3un|k
+Mastacăn|RO||8u|3lz|21l|j
+Masjed-e ‘Olyā|IR||7o|2qq|3q2|j
+Massiac|FR||9k|3hp|8w|i|Maciac
+Masséguéré|CI||0|rm|-h3|i|Mésséguéré
+Massandji|CI||0|gr|-am|h|Massadji
+Mason Vicentino|IT||9o|3j0|w9|h
+Mossa|IT||9o|3jm|11n|h|Mosse;Massa
+Masana|ZA||o|-1x1|2ea|g
+Maschito|IT||9o|35n|17z|g|Mashqiti
+Massey Drive|CA||50|3rx|-4gu|g
+Mason|US|Tennessee|2f|2qd|-6wp|g
+Masis|AM|Ararat|80|334|3fl|g
+Massacre|DM||2r|16n|-4qj|g
+Masalavés|ES||9d|30q|-1g|f|Massalavés
+Masłów|PL||a5|3xe|1lk|f
+Masserano|IT||9o|3io|mu|f
+Masseube|FR||9k|3cn|1m|f|Masseuva
+Masiaca|MX||37|22c|-8ff|f
+Maser|IT||9o|3j9|xa|f
+Mas de las Matas|ES||9d|35f|-o|e
+Maszkienice|PL||a5|3uv|1lh|e
+Mashhad-e Elkūbeh|IR||7o|2nf|3tt|e|Mashhadelkūbeh;Mashhad al Kūbeh;Mashhad ol Kūbeh
+Méssarandougou|CI||0|ma|-c8|e|Messaradougou;Massaradougou
+Masera|IT||9o|3k6|n5|d
+Massay|FR||9k|3mz|5j|d
+Mastaiciai|LT||a3|48a|1u8|d
+Maszewo Duże|PL||a5|422|1ij|d
+Mazze|IT||9o|3hu|m1|d|Massè
+Masi-Torello|IT||9o|3gf|ws|d|Masi Torello
+Massongy|FR||9k|3ko|hl|d
+Maskall|BZ||24|1do|-6tb|d
+Masseria Vecchia Ovest|IT||9o|35l|133|c
+Mason|US|New Hampshire|48|3aq|-5jd|c|Meyson
+Massa Martana|IT||9o|3at|yt|c|Martanae Tudertinorum
+Masham|GB||9b|46m|-4m|c
+Mastershausen|DE||8r|3v3|kf|c
+Massenhoven|BE||8t|3y8|cw|c
+Maßweiler|DE||8r|3sv|kx|c
+Maslin Beach|AU||8b|-2pv|aoo|b
+Masullas|IT||9o|32a|oe|b
+Maskinongé|CA||59|3kf|-5mu|b
+Massala-Gouran|CI||0|m0|-ji|b
+Masakeng|ZA||o|-1wy|2e9|b
+Masaryktown|US||48|270|-6d2|a
+Masburg|DE||8r|3vk|js|a
+Masi|IT||9o|3hb|vx|a|Maxi
+Masdenverge|ES||9d|354|1h|a
+Masonville|US||2f|2wo|-6pr|a
+Mashpee Neck|US||48|37l|-5fq|a
+Mas-Grenier|FR||9k|3dx|3c|a
+Masano|IT||9o|3if|qw|a
+Massino Visconti|IT||9o|3ja|nq|a
+Mash‘én|IL||6n|2fy|2o6|9
+Mason|US|West Virginia|48|30e|-6bv|9
+Massembe|GM||7|11a|-17f|9
+Massala-Barala|CI||0|oi|-m1|9
+Mastaing|FR||9k|3vr|96|9
+Massina|IT||9o|3is|ox|9
+Masainas|IT||9o|30h|nz|9
+Mazunte|MX||41|17j|-7g7|9|Masunte
+Mas-Saintes-Puelles|FR||9k|3cb|58|9|Mas de las Santas Puèlas;Mas Santas Puèlas
+Mascuala|MX||41|1lp|-7yw|9|Mascoala
+Maslul|IL||6n|2f0|2o3|9
+Mas|IT||9o|3k7|xp|9
+Massasso|CI||0|m1|-lm|9
+Masset|CA||5b|461|-a73|8
+Mastrinka|HR||a6|3cv|198|8
+Ma‘şūmābād|IR||7o|2ui|47i|8
+Moshīrān|IR||7o|2zg|3o2|8|Mashīrān
+Maslenica|HR||a6|3eu|176|8|Meslenica;Maslinica
+Maslacq|FR||9k|3co|-1y|8|Maslac;Marslac
+Masma|PE||3o|-wr|-5tj|8
+Mâle|FR||9k|3q3|22|8|Masle
+Masanca|PE||3o|-ki|-64s|8
+Maschl|AT||a2|3nl|10o|8
+Maszewo Lęborskie|PL||a5|47b|1da|8
+Marshallville|US|Ohio|48|35m|-6b1|8|Marshalville;Mashalville
+Masłowice|PL||a5|3ye|1fs|8
+Massieu|FR||9k|3i8|fk|8
+Maasbüll|DE||8r|486|qg|7|Masbøl;Moosbel
+Massu’ot Yitsẖaq|IL||6n|2g2|2od|7|Massu’ot Yiẕẖaq;Massu’ot Yitsẖak;Mashu’ot Yiẕẖaq;Masu’ot Yizhaq;Masuot Yits-ḥaq
+Masseria Seminario|IT||9o|347|1eh|7
+Maasholm|DE||8r|47w|rr|7|Masholm
+Masthope|US||48|37e|-5sf|7|Mast Hope
+Massa|IT|The Marches|9o|3bz|zx|7
+Massillargues-Attuech|FR||9k|3ea|b6|7
+Mašťov|CZ||9m|3vm|10w|7
+Mas de Barberans|ES||9d|355|11|7
+Massingy|FR||9k|3jb|gg|7
+Mastok|BY||9g|45y|2cm|7|Mostok
+Masserini|IT||9o|3j8|rb|6
+Mazaugues|FR||9k|3cf|gg|6|Masaugas
+Masseret|FR||9k|3ij|48|6|Masseren;Mas Seren
+Massat|FR||9k|3b5|3r|6|Maçat
+Masédougou|CI||0|nj|-m9|6|Massédougou
+Masio|IT||9o|3gn|nd|6
+Maslives|FR||9k|3ob|44|6
+Masero|IT||9o|3ev|rp|6
+Massa d'Albe-Corona|IT||9o|38z|117|6|Massa d'Albe
+Massa|IT|Basilicate|9o|332|17r|6
+Massa|CI||0|ih|-i6|6|Masa
+Masiera|IT||9o|3fi|x9|6
+Massais|FR||9k|3ml|-y|6
+Măscurei|RO||8u|3kq|24h|6
+Mash’abbe Sadé|IL||6n|2e4|2on|6|Mashabei Sade
+Mastrils|CH||a7|3mh|qi|6
+Māsūleh|IR||7o|2v7|3s3|6
+Masella|IT||9o|2xh|17r|6
+Masontown|US|West Virginia|48|31v|-65o|5|Mason Town
+Massignieu-de-Rives|FR||9k|3j3|g1|5
+Massa Fermana|IT||9o|3bv|11g|5
+Masi di Cavalese|IT||9o|3kk|vw|5
+Maspujols|ES||9d|36e|2x|5
+Masłomiąca|PL||a5|3vc|1jk|5
+Moshkenān|IR||7o|2iw|425|5|Mashgenān;Mushkinān;Mūshkānān;Moshgenān;Moshgnan

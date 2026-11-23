@@ -1,0 +1,404 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Accra|GH||1|fg|-k|f5d|Akrao;Akra;Acra;Akkra;Nkran;Aakrá;Akara;Akkr
+Ashgabat|TM||5x|2xf|4i6|7y5|Aşgabat;Ashkhabad;Ashkabad;Asjabad;Aszchabad;Achgabat;Aşqabad;Ašchabad;Asjkhabad;Aŝgabato;Achkhabad;Ašchabadas;Asjchabad;Asgabate;Ašhabad;Aşkabat;Aschchabad;Ašgabata;Aschgabat;Ashabat;Ashxobod;Asjchabat;Ashxabad;Askhabad;Askabad;Ashqabad
+Acapulco de Juárez|MX||41|1at|-7pj|52y|Acapulco;Akapulko;Acapulcum;Akapulkas;Acapolco Juárez
+Ajmer|IN||6t|21h|5rc|46n|Adźmer;Adžmeras;Aĝmer;Acmer;Ádzsmír;Adžmera
+Ajman|AE||6c|1yk|4a4|3s4|Ujman;Adschman;Adżman;Acman;Ajmã
+Banda Aceh|ID||6l|fe|7ct|22g|Banda Atjeh;Banda Acheh;Banda Achém
+Aachen|DE||8r|3x2|gw|21o|Aquisgrán;Aquisgrà;Cáchy;Aix-la-Chapelle;Aquisgrana;Aquisgranum;Oochen;Aoke;Aken;Akwizgran;Aquisgrano;Åxhe;Oche;Āhene;Aquae Grani;Achenas;Aaxen;Akisgran;Axın;Achen;Aquisgrão
+Afyonkarahisar|TR||94|2zo|2cu|1xy|Afyon;Afion;Afyonkara Hisar;Acroenus;Afjonkarahisaras;Afjonkarahisara;Afyonkarahissar;Afioun-Kara-Hissar;Afiun Karahissar;Afıon Karahissar;Afyoncarahisar
+A Coruña|ES||9d|3ch|-nc|1xk|La Corogne;Coruña;A Cruña;Corunya;Coruñako;Corunha;La Korunja;La Coronha;La Korunya;Korunjo;In Coruña;Akoruņa;La-Korunya;The Groyne
+Atsugi|JP||7q|2qg|ar5|1q8|Acugi;Atugi-chhī;Atsuki;Atugi
+Ciudad Acuña|MX||3w|29g|-7sf|1o1|Acuña;Lungsod ng Acuña
+Atsiaman|GH||1|fu|-x|1kd|Achiaman;Ashaiman
+Acarigua|VE||2c|qj|-5c8|1gb|Akarigva
+El Achir|DZ||3|2s6|cv|17z
+Acheng|CN||7i|3ij|9sn|147
+Ajdabiya|LY||1d|2dg|1k7|10m|Adschdabiya;Adżdabija;Äcdabiya;Läcdabiän;Adžedábíja;Aĝdabija;Adzsdábija;Corniclanum;Ecdebiye;Adjdabía;Adjadabia;Agedabia
+Acilia-Castel Fusano-Ostia Antica|IT||9o|380|y9|zy
+Achinsk|RU||6u|4cb|6ze|wo|Aĉinsk;Aczyńsk;Ačinskas;Atschinsk;Atšinsk;Atchinsk;Atsjinsk;Ačinska;Atjinsk;Àtxinsk
+Achalpur|IN||6t|1n2|5zb|v7|Aĉalpur
+Açailândia|BR||2w|-dr|-3ny|uq
+Acharnés|GR||8p|2xs|1tx|rl|Acharne;Acharnae
+Acaraú|BR||2w|-81|-33g|hj|Acarahú
+Acton|GB|England|9b|3z3|-s|hd
+Acerra|IT||9o|35q|13x|gn
+Acará|BR||23|-5g|-3pw|ge
+Acámbaro|MX||41|1jn|-7rs|g4
+Açu|BR||2w|-fi|-2uj|fp
+Acopiara|BR||2w|-gy|-31l|f5
+Acre|IL||6n|2jh|2pg|ep|Akre;Akka;Akko;Acri;Akkon;Akrsborg;Ako;San Giuvanni d'Acri;Acra;Eka;Acco;Akas;Accho;Akkia
+Acayucan|MX||41|1dv|-7bn|e5
+Acireale|IT||9o|2wh|165|dr
+Port of Spain|TT||4k|tn|-4qw|dm|Port-of-Spain;Puerto España;Port-d'Espagne;Port of Speinas;Port of Speyn;Portospeno;Porto España;Pò of Espay;Portofspeina;Acalquixohuayan Caxtillan;Portu de Spania;Port-of-speyn;Port of Spein;Porthladd Sbaen;Port-au-Spain
+Okhtyrka|UA||98|3vr|2ox|d4|Achtyrka;Ohtirka;Ochtyrka;Akhtyrka;Akhtirka
+Achaguas|VE||2c|lm|-59i|cl
+Akhtubinsk|RU||8o|3q4|3k9|ce|Achtubińsk;Aĥtubinsk
+Acacías|CO||27|b3|-5ow|ba
+Acacias|ES||9d|348|-ab|a1
+Montélimar|FR||9k|3fr|d7|9w|Acumum;Montelaimar
+Accrington|GB||9b|45b|-6k|9p|Akringtonas
+Acornhoek|ZA||o|-1wb|2ed|9b
+Achim|DE|Lower Saxony|8r|439|p3|95|Achem;Uphusen
+Actopan|MX|Hidalgo|41|1kb|-7mu|8z|Ātocpan
+Acari|BR|Rio de Janeiro|4w|-1re|-3ce|7l
+Achern|DE||8r|3r3|mg|7f|Achara
+Acocks Green|GB||9b|41p|-52|7e
+Acatzingo|MX||41|1gq|-7jm|76
+Aci Catena|IT||9o|2wh|162|6v
+Acajutla|SV||2u|11r|-6xj|6c
+Acworth|US|Georgia|48|2mn|-6j8|65|Ackworth
+Acreúna|BR||4w|-1cc|-3vy|65
+Achères|FR||9k|3s0|5r|61
+Acajete|MX|Puebla|41|1h3|-7k3|5t
+Acton|US|Massachusetts|48|3a1|-5if|5t
+Achampet|IN||6t|19k|62g|5r
+Acquaviva delle Fonti|IT||9o|35m|1as|5p
+Achhnera|IN||6t|23i|600|5p|Achnera
+Achocalla|BO||3n|-1a1|-59b|5g
+Acatlán de Osorio|MX||41|1ek|-7kd|5d
+Acaponeta|MX||3x|1qh|-84o|5b
+Guadix|ES||9d|2vm|-8q|57|Acci;Quadix
+Acqui Terme|IT||9o|3g4|nj|4y|Àich
+Ashtarak|AM||80|33y|3f8|4w|Aschtarak;Aštarak;Aŝtarako;Aštarakas;Asztarak;Achtarak
+Aci Castello|IT||9o|2wc|163|4w|Jaci Casteddu
+Achhībal|IN||6t|2lk|5sy|4w|Acchabal;Achhabal;Achhawāl;Achhiwāl;Achabal
+Akhaltsikhe|GE||7n|37o|3bf|4u|Akhalts'ikhe;Ajaltsije;Achaltsiche;Achalciche;Ahıska;Aĥalciĥo;Ahhaltsihhe;Ahalțihe;Ahalcihe;Achalziche;Akhaltsikh;Akhaltsykha;Akhaltsykhe
+Āchāripallam Vāniyakudi|IN||6t|mp|5yy|4o
+Oshmyany|BY||9g|476|202|4o|Ašmena;Ashmyany;Aschmjany;Ashmiany;Achmiany;Ašmjany;Ašmiany;Ašmjani;Asjmjany;Oshmyana
+Achkhoy-Martan|RU||9i|3bz|3hs|4o|Atsjkhoj-Martan;Ačhoj-Martan;Theẋa-Marta;Waşxoyn-Marta;Novosel’skoe;Açxoy-Martan;Atschchoi-Martan;Atchkhoï-Martan;Aczchoj-Martan;Novosel’skoye;Achkhoi-Martan
+Aconibe|GQ||10|3m|ue|4l|Akonibe
+Acajutiba|BR||20|-we|-2xm|48
+Akhty|RU||9i|376|3ol|3x|Ahtõ;Achty;Akhti;Akhtay
+Acarape|BR||2w|-bq|-2zj|3w
+Acrelândia|BR||4s|-rb|-55s|3w
+Acala|MX||3z|1a0|-75t|3v
+Achanputtūr|IN||6t|p4|5yq|3s
+Acuitlapilco|MX|Tlaxcala|41|1hj|-7kw|3q
+Acarlar|TR||94|2x2|253|3f
+Acatenango|GT||32|14f|-70m|3d
+Acatic|MX||41|1lq|-7xv|3b
+Acanceh|MX||3z|1lt|-6wh|32
+Acıpayam|TR||94|2vy|29j|31
+Acushnet|US||48|37s|-5gz|31|Achushnet
+Achada Santo Antonio|CV||84|15f|-1tc|30
+Acari|BR|Rio Grande do Norte|2w|-hw|-2ts|2y|Acary
+Accokeek|US||48|2zf|-5xz|2y
+Acoyapa|NI||3s|x9|-6kl|2y
+Acatlán de Juárez|MX||41|1kq|-7zr|2x|Acatlán
+Aci Sant'Antonio|IT||9o|2wg|160|2w|Jaci Sant'Antoniu
+Acharapākkam|IN||6t|yg|65q|2w|Acharapokam;Achcharapākkam
+Acadia|CA||2s|3xl|-8su|2r
+Acri|IT||9o|31q|19j|2r
+Achchippatti|IN||6t|tq|5xx|2q
+Acton|CA||59|3d7|-66c|2m
+Alcalá|CO||27|cz|-5ui|2j|Acalá
+Açucena|BR||4w|-1gz|-3a7|2h
+Aqqan|CN||7t|2tb|6bp|2d|Atchan;Achan;Atqan
+Acayuca|MX|Hidalgo|41|1jn|-7mk|2d
+Achacachi|BO||3n|-18l|-5at|2c|Jach'ak'achi;Ačakačis
+Achí|CO||27|nt|-5r4|2c
+Akaa|FI||92|4px|1ub|2b|Ackas
+Acate|IT||9o|2uu|149|27|Vischiri
+São Filipe Praia|CV||84|15k|-1tc|25|Achada São Filipe
+Achicourt|FR||9k|3vn|7o|25
+Acton Vale|CA||59|3it|-5ll|25
+Santiago Acatlán|MX||41|1gr|-7k1|24|Acatlán
+Acton|US|California|3p|2nr|-94c|24
+Acırlı|TR||94|2w2|36q|24|Derizbin;Dirizbin
+Acacoyagua|MX||3z|16m|-75f|23|Acacoyahua
+Akhalkalaki|GE||7n|371|3ct|22|Akhalk'alak'i;Arkhalkalaki;Akhalkalak;Achalkalaki
+Acacia Ridge|AU||8c|-24m|bt3|22
+Achadinha|CV||84|15h|-1tb|22
+Ács|HU||8v|3oj|1e1|20|Atsch;Ecs
+Actipan de Morelos|MX||41|1go|-7jo|1z|Santa María Actipan
+Shabo|UA||98|3k5|2cf|1z|Szabo;Chabo;Șaba-Târg;Schabo-Kolonie;Schabo-Possad;Acha-Abag;Saba Tarc;Khabag;Sjabo;Šabo;Schabo
+Achikulak|RU||9i|3fr|3gk|1y|Atsjikulak
+Acultzingo|MX||41|1g0|-7ia|1y
+Achada Eugénio Lima|CV||84|15h|-1tc|1x
+Acolla|PE||3o|-wl|-5tv|1w
+Acıgöl|TR||94|2z3|2nv|1v
+Acuitzio del Canje|MX||41|1i6|-7th|1v
+Acauã|BR||2w|-mt|-364|1s
+Acapetahua|MX||41|16g|-75h|1q|Acapeteahua;Acapetagua
+Acatlán de Pérez Figueroa|MX||41|1fi|-7gd|1o
+Acigné|FR||9k|3pq|-49|1l|Egineg
+Elderslie|GB||9b|4b3|-ch|1l|Ach na Feàrna
+Acolman de Netzahualcóyotl|MX||41|1ik|-7mr|1k|Acolman;Acolman de Nezahualcóyotl
+Academy Garden|US||48|33a|-5sc|1i
+Aceuchal|ES||9d|2zd|-i1|1i|Acebuchal;Acenchal
+Achel|BE||8t|3yd|f8|1i
+Acamixtla|MX||41|1fl|-7ok|1h
+Achit|RU||7z|4ds|4gu|1e|Atschit;Açit;Aczit
+Aci Trezza|IT||9o|2wc|164|1e
+Acitrezza|IT||9o|2wc|164|1e
+Acorizal|BR||2k|-168|-4cl|1e|Acurizal
+Acandí|CO||27|nn|-5yo|1c|Acanti
+Acquarica del Capo|IT||9o|32v|1ep|1c
+Naval Academy|US||48|30b|-5wh|1c|Acadamh Cabhlaigh
+Acăţari|RO||8u|3l4|1wf|1b|Ákosfalva;Acătar
+Alcala|PH|Cagayan Valley|71|1dq|9dy|1b|Acala
+Acquedolci|IT||9o|2xq|14j|1b
+Acoua|YT||ah|-zc|3h6|1a|Accua;Acua
+Acevedo|CO||27|50|-5ut|19
+Acarí|PE||3o|-16u|-5r9|18
+Acuexcomac|MX||41|1gw|-7lb|18|Acuescomac
+Acao|PH||71|19x|9ae|17
+Achajur|AM||80|35v|3hf|17|Achasu;Açacur;Haçasu
+Aceguá|BR||4w|-2gj|-46h|16
+Acquapendente|IT||9o|3aq|wz|16
+Achada Grande Trás|CV||84|15g|-1t9|15
+Actopan|MX|Veracruz|41|1i6|-7ge|15|Actópam
+Achada Grande Frente|CV||84|15g|-1ta|14
+Acaxochitlán|MX||41|1k0|-7ks|14
+Acuitlapán|MX||41|1fo|-7oi|14
+Achstetten|DE||8r|3q2|ri|14
+Acaiaca|BR||4w|-1kk|-3bu|13
+Acme|US||48|33h|-64n|12
+Acacia Gardens|AU||8l|-2lp|bn8|12
+Ahoghill|GB||9b|48f|-hp|10|Achadh Eochaille
+Actipan|MX||41|1gm|-7jy|10
+Acatlán|MX|Guerrero|41|1d2|-7nh|z
+Acul du Nord|HT||4j|1io|-5kw|z|Akil di Nò
+Akle|PH||71|15t|9cb|y|Acle
+Altzayanca|MX||41|1hz|-7jo|y|Villa Atltzayanca de Hidalgo;Atltzayanca;Actlzayanca;Alzayanca;Atlzayanca
+Achuapa|NI||3s|109|-6oj|x
+Acatepec|MX|Guerrero|41|1ai|-7lf|x
+Acahay|PY||1y|-1zz|-4en|w|Acahaí
+Acquasparta|IT||9o|3al|yu|w
+Aci Bonaccorsi|IT||9o|2wg|15z|v|Jaci Bonaccossi;Aci Buonaccorsi
+Acushnet Center|US||48|37t|-5gz|v
+Acatepec|MX|Puebla|41|1f1|-7hk|v|San Antonio
+Achada Mato/Covão Mendes|CV||84|15h|-1ta|u
+Agcogon|PH||71|xi|9es|u|Acogon
+Acres Green|US||2p|31w|-83e|u|Haltso
+Acatlán|MX|Veracruz|41|1iq|-7h0|t
+Academy Heights|CA||59|3qi|-6vw|t
+Acerno|IT||9o|356|15u|t|Acierno;Acernum;Acernu
+Acurenam|GQ||10|2v|tl|r|Akurnam;Acurenan;Acurnam;Akurenam;Akurenan;Akourenam
+Achterveld|NL||8m|40u|fa|r
+Virginia|IE||8z|45j|-jo|q|Achadh an Iúir
+Acula|MX||41|1ff|-7e1|q
+Acli|PH||71|160|9b4|q|Acle;Akli
+Acqualagna|IT||9o|3d7|z8|p
+Pieve Ligure|IT||9o|3f9|p9|p|A Ceive de Söi
+Achada Fazenda|CV||84|160|-1tc|p
+Acquaviva Picena|IT||9o|3ba|12e|p
+Acachuén|MX||41|1j5|-7vl|p
+Acxotla del Río|MX||41|1ho|-7kw|p
+Achada da Água Funda|CV||84|15j|-1t9|p|Água Funda
+Achada Limpo|CV||84|15i|-1ta|o
+Acopinalco del Peñón|MX||41|1im|-7ko|o|El Peñón
+Accusilian|PH||71|1db|9de|o|Acustilan;Accusillian
+Aigrefeuille-sur-Maine|FR||9k|3ms|-3w|o|Kelenneg-ar-Mewan;Acrifolium
+Acton|AU||8l|-2q0|bi8|n
+Bilolissya|UA||98|3jh|2ai|n|Achmanghit;Bilolissia
+Acquanegra sul Chiese|IT||9o|3hg|sz|n
+Acle|GB||9b|428|4b|n
+Achenheim|FR||9k|3qy|l7|n|Àchene
+Achichipico|MX|Morelos|41|1gn|-7mj|n|Achichipilco
+Accadia|IT||9o|36c|16l|n
+Acatepec|MX|Guerrero|41|1c4|-7mr|m
+Acton|US|Maine|48|3cx|-5gz|m
+Acerenza|IT||9o|35b|18a|m
+Aç-çahrij|MA||d|2gc|-jv|m
+Achenkirch|AT||a2|3o1|wj|m
+Achiras|AR||1n|-2k6|-50j|m
+Acxotla del Monte|MX||41|1hh|-7kp|l|Santa María;Axotla del Monte
+Acteopan|MX||41|1g4|-7m7|l|San Marcos;Actiopan
+Acoz|BE||8t|3vw|cl|l
+Áchna|CY||6e|2pe|2lu|k|Akhna;Ahna;Athna
+Acton Park|AU||8g|-3b4|bdo|k
+Achada Riba|CV||84|15x|-1tr|k
+Acatempa|MX||41|1d0|-7o1|k
+Achiang (1)|LA||7v|198|890|k|A Chieng
+Acoyotla|MX||41|1mp|-7me|k|Axoyotla
+Acatzingo (Acatzingo de la Piedra)|MX||41|1gk|-7on|j
+Accettura|IT||9o|34h|18w|j
+Acconia|IT||9o|2zw|197|j
+Acamilpa|MX||41|1g0|-7ng|j
+Acacia Bay|NZ||ak|-2zi|dkz|j
+Achada Lem|CV||84|162|-1ts|i
+Acuamanala|MX||41|1he|-7ks|i|Cuamanola
+Aculco de Espinoza|MX||41|1ju|-7pb|i
+Acquarossa|CH||a7|3l1|ou|i|Aquarossa
+Acalpican de Morelos|MX||41|1e2|-7wa|i
+Achutupo|PA||4g|pk|-60n|i|Achutupu
+Achinós|GR||8p|35o|1tq|i|Akhinós
+Aconchi|MX||37|2av|-8i6|h|Conchi
+Achisu|RU||9i|3ah|3og|h
+Acuitlapilco|MX|México|41|1gj|-7p7|h
+Acherítou|CY||6e|2pi|2m2|h|Akhyritou
+Acaxtlahuacán de Albino Zertuche|MX||41|1e2|-7lq|h
+Acontitla|MX||41|1lg|-7ij|h|Acontilla
+Aceitunas|PR||4m|1f8|-56a|h
+Acharbania|BD||6a|1lu|74f|h|Achharbania
+Acajete|MX|Veracruz|41|1if|-7hh|g
+Acuto|IT||9o|383|10l|g
+Acapetlahuaya|MX||41|1f6|-7pz|g
+Ackley|US||2f|3a7|-76h|g
+Acquaro|IT||9o|2z4|18z|g|Aquarium;Acquaru
+Achtrup|DE||8r|487|p3|g|Agtrup;Åktoorp
+Acquigny|FR||9k|3sl|3a|f
+El Acebuche|MX||41|1k6|-7ru|f|Acebuche
+Acquaviva|SM||9q|3e3|yi|f
+Aceguá|UY||45|-2gj|-46g|f
+Ax-les-Thermes|FR||9k|3ao|54|f|Acs
+Achotal de Moreno|MX||41|1da|-7c9|f
+Acsa|HU||8v|3or|1hv|f
+Ackerman|US||2f|2kj|-6vp|f
+Acton|GB|England|9b|41p|-8e|f
+Acquafredda|IT||9o|3hv|sx|f
+Achau|AT||a2|3pk|19j|e
+Açıkdere|TR||94|2sm|2sq|e|Habestüylü
+Achada Monte|CV||84|16b|-1to|e|Achada de Monte
+Fortrose|GB||9b|4fy|-bh|e|A' Chananaich;Chainry
+Acatempan|MX||41|1ew|-7pg|e|Acatempa
+Acachapan y Colmena 3ra. Sección|MX||41|1e5|-75q|e
+Acquaviva|IT|Tuscany|9o|3bs|wy|d
+Akumal|MX||2b|1ko|-6qj|d|Acumal
+Acahuasco|MX||41|1m8|-7lw|d
+Acatla|MX||41|1g3|-7i2|d
+Bilenke|UA|Odesa|98|3jx|2ce|d|Achembet;Bilen'ke;Akembet
+Acuapa|MX||41|1mo|-7ll|d|Acoapa
+‘Atsmon Segev|IL||6n|2jb|2px|d|Acmon;Atzmon;Segev
+Achada Tenda|CV||84|16d|-1tq|c|Porto Formoso
+Ach’andara|GE||7n|3bz|354|c|Achandara;Atchandara
+El Achiotal|HN||56|134|-6uj|c|Achiotal;El Achotal
+Achères-la-Forêt|FR||9k|3qb|75|b
+Acahuizotla|MX||41|1c8|-7ob|b
+Acquaformosa|IT||9o|32c|18p|b|Firmoza
+Acalanes Ridge|US||3p|2xa|-9f4|b
+Achêne|BE||8t|3vn|e1|b
+Ahtopol|BG||9v|38y|25m|b|Achtepol;Ahtapolu;Achtopol;Akhtopol
+Acomb|GB||9b|48r|-5v|b
+Acalco|MX||41|1cm|-7nh|b|Alcalco
+Acharávi|GR||8p|32j|1j2|b
+Achslach|DE||8r|3s1|zy|b
+Acazónica|MX||41|1hd|-7gb|b
+Acuaco|MX||41|1iw|-7j0|b
+Acoxcatlán|MX||41|1m9|-7me|b
+Acriș|RO||8u|3is|207|b
+Aughnacloy|GB||9b|475|-je|a|Achadh na Cloiche;Auchnacloy
+Achigvara|GE||7n|3ak|37o|a|Ach'igvara
+Achiet-le-Grand|FR||9k|3v9|7q|a|Achiet-Grand
+Acatepec|MX|Hidalgo|41|1m7|-7kz|a
+Achada Leitão|CV||84|15y|-1tm|a
+Achada Fatima|CV||84|162|-1td|a
+Acores|BR||4w|-256|-3qt|a
+San Juan Acatitlán|MX||41|1gt|-7ql|a|El Grande;Acatitlán
+Acachapan y Colmena 2da. Sección (La Arena)|MX||41|1e5|-75u|a|Acachapa y Colmena Primera Sección
+Achada Galego|CV||84|15x|-1ts|a
+Aquasco|US||48|2z7|-5x4|a|Acquasco
+Achen|FR||9k|3s9|jy|a
+Acuatempa|MX||41|1mj|-7lj|a
+Achadinha Pires|CV||84|15h|-1ta|a
+Acy|FR||9k|3t3|9h|a|Aciacum;Achy
+Acalmani|MX|Guerrero|41|1bh|-7nc|9
+Achterwehr|DE||8r|46v|rp|9
+Acarmantaş|TR||94|2w3|2rs|9
+Acayahualco|MX||41|1en|-7oc|9
+Achláda|GR||8p|2qb|1xf|9
+Achiquihuixtla|MX||41|1ma|-7l9|9|Achiquihuititla;Achiquihuitla;Achiquihuictla
+Acostambo|PE||3o|-yd|-5sh|9
+Acworth|US|New Hampshire|48|3c2|-5kt|9|Ackworth
+Acehuche|ES||9d|32k|-if|9
+Achada Tossa|CV||84|161|-1tu|9
+Acopampa|PE||3o|-pt|-5zn|9|Acco-Pampa
+Achada Igreja|CV||84|15w|-1tn|9
+Acedera|ES||9d|30k|-fh|8
+Achet|BE||8t|3vt|ee|8
+Acopinalco|MX||41|1ir|-7lp|8
+Acquarica|IT||9o|33z|1ew|8
+Achigca|MX||41|1cj|-7nn|8|Achisca
+Achim|DE|Lower Saxony|8r|40m|th|8|Achen
+Acatilma|MX||41|1dj|-7jp|8|Acatlima
+Acueducto [Fraccionamiento]|MX||41|1i4|-7z0|8
+Acquaviva Platani|IT||9o|2wd|122|8
+Achokoa|CI||0|ex|-ao|8|Achokoua
+Accompong|JM||3i|1en|-5zz|8|Akompong
+Acton Trussell|GB||9b|42k|-5u|8|Aston Trussell
+Acy-en-Multien|FR||9k|3se|88|8
+Acıpınar|TR||94|2z1|2m1|8
+Acatitlán|MX||41|1gk|-7pn|8|Acatlán
+Acatitla|MX|Veracruz|41|1m8|-7kr|8
+Ácsteszér|HU||8v|3np|1e1|8
+Acul Samedi|HT||4j|1i8|-5jo|8
+Achichipico|MX|Veracruz|41|1fi|-7hg|8
+Acocomotla|MX||41|1hk|-7i2|8
+Acos|PE|Cuzco Department|3o|-12r|-5ja|8
+Acuautla|MX||41|1kx|-7kb|8
+Acquaviva|IT|Lazio|9o|394|ze|8
+Acalmán|MX||41|1kq|-7ke|8|Acolman
+Achterberg|NL||8m|40d|fj|8
+Acalmani|MX|Guerrero|41|1aq|-7ln|7
+Acquanegra Cremonese|IT||9o|3hh|rh|7
+Akhinós|GR||8p|301|1r4|7|Achinos;Ekhinós
+Acultzinapa|MX||41|1fx|-7hz|7
+Acanoa|MX||41|1ls|-7kz|7
+Acco|PE||3o|-zx|-5pn|7
+Acayuca|MX|Hidalgo|41|1m9|-7me|7
+Acatzácatl|MX||41|1jv|-7j2|7
+Acebo|ES||9d|33o|-io|7
+Acquavena|IT||9o|33c|16x|7
+Achada Abaixo|CV||84|163|-1tg|7
+Acacia Hills|AU||8e|-zj|a49|7
+Acuimantla|MX||41|1mg|-7mg|7
+Acobamba|PE||3o|-pe|-5zy|7
+Acquarola|IT||9o|359|14x|7
+Acatlán de la Cruz|MX||41|1f3|-7pm|7
+Acqueville|FR||9k|3tt|-4v|7
+Acatipa|MX|Hidalgo|41|1m4|-7ky|7
+Acciaroli|IT||9o|33m|15r|7
+Freshford|IE||8z|42h|-kk|7|Achadh Úr
+Acsád|HU||8v|3ng|1ah|7|Jučad
+Achada Laje|CV||84|165|-1ti|6|Achada Lage
+Acatitla|MX|Veracruz|41|1fj|-7hs|6
+Acquin-Westbécourt|FR||9k|3wx|5t|6|Acuin-Westboucourt
+Accomarca|PE||3o|-12c|-5pa|6
+Achtmaal|NL||8m|3yx|cq|6
+Avram Iancu|RO|Arad County|8u|3kr|1qd|6|Ácsva
+Ach Lum Monte Líbano|MX||41|1ay|-72j|6|Monte Líbano
+Aceituna|ES||9d|33j|-hl|6
+Akhíllio|GR||8p|30d|1rs|6|Achilleio;Kalyvia Chamakou;Achilio;Achillio
+Acalapa|MX||41|1kf|-7kh|6
+Acuayucan|MX||41|1fj|-7hr|6
+Acheville|FR||9k|3vy|80|6
+Ackermanville|US||48|35g|-5sy|6
+Achladochóri|GR|Central Macedonia|8p|36s|1te|6|Akhladokhóri
+Acuitzeramo|MX||41|1jj|-7v9|6|Acuitzermo
+Acquaviva Collecroce|IT||9o|38b|14z|6
+Acquoy|NL||8m|404|ea|6
+Achlum|NL||8m|43n|f8|6
+Acopalca|PE||3o|-xb|-5sm|6
+Achada Gomes|CV||84|15y|-1ts|6
+Acquasanta Terme|IT||9o|3at|119|6
+Acuentla|MX||41|1co|-7np|6
+Accoville|US||48|2wx|-6bc|6
+Acquavella|IT||9o|33p|160|6
+Acequia Blanca|MX||41|1lk|-7r3|6
+Acpitán|PE||3o|-12g|-5l6|6|Accpitán
+Accord|US||48|383|-5q7|6
+Acalocotla|MX||41|1ha|-7hr|6
+Acquaficara|IT||9o|2xx|169|6
+Acocogta|MX||41|1j7|-7is|6
+Aẖuzzam|IL||6n|2fn|2ol|6|Achuzam;Ahuzam
+Achery|FR||9k|3u1|9f|5
+Acton Burnell|GB||9b|425|-7h|5
+Ach'Lum Tierra Nueva|MX||41|1b9|-77s|5
+Acocro|PE||3o|-10q|-5po|5
+Achichinalco|MX||41|1fd|-7hf|5
+Acatipa|MX|Hidalgo|41|1mh|-7lt|5
+Achi-Brou|CI||0|gq|-cd|5
+Achadinha|PT||81|2x5|-1y8|5
+Acheux-en-Amiénois|FR||9k|3v3|71|5|Acheux-in-Anmiénoé
+Achtelsbach|DE||8r|3tv|jp|5
+Acq|FR||9k|3vv|7e|5
+Acatlán del Río|MX||41|1dt|-7pi|5
+Acheux-en-Vimeu|FR||9k|3v3|4o|5|Acheux-in-Vimeu
+Achille|US||2f|2lz|-7fr|5|Achilla
+Acos|PE|Lima region|3o|-vb|-5xe|5
+Acolihuia|MX||41|1iy|-7kl|5
+Acy-Romance|FR||9k|3ti|c2|5
+Acmariu|RO||8u|3jp|1sw|5
+Achladochóri|GR|Central Macedonia|8p|35g|1q2|5

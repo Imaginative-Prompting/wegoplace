@@ -1,0 +1,38 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Xi’an|CN||7i|2n6|8el|2ry1|Hsi-an;Xian;Ŝiano;Sianas;Tây An;Siaņa;Ŝingano;Šjan;Singan;Sian
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Xinyang|CN||7i|2h8|8sv|axk|Sinyang;Hsin-yang
+Xiangyang|CN||7i|2h0|8ni|9zn|Xiangfan;Siang-jang;Hsziangjang;Šjangjang;Tương Dương;Hsiang-fan;Siangyang;Hsiang-yang;Siangfan
+Xuchang|CN||7i|2mj|8sa|9rj|Hsü-ch’ang
+Xianyang|CN||7i|2ne|8dy|7z9|Sien-jang;Ŝjanjango;Sianjangas;Hàm Dương;Hàng-iòng;Hszienjang;Hâm-iông-chhī;Hsien-yang
+Xiangtan|CN||7i|25d|8pm|7eh|Siang-tchan;Sjantan;Siong-thâm-sṳ;Tương Đàm;Siong-thâm-chhī;Siŏng-tàng;Siangtan;Hsiang-tan
+Xiaogan|CN||7i|2dx|8sg|70b|Háu-gāng;Siao-kan;Hiếu Cảm;Hàu-kám-chhī;Siaokan;Hsiao-kan
+Xingtai|CN||7i|2uy|8u1|65w|Sing-tchaj;Sintaj;Hình Đài;Hìng-dài;Hêng-tâi-chhī;Hsing-t’ai;Singtai
+Xuancheng|CN||7i|2dz|95w|5z3|Hsüan-ch’eng;Süancheng
+Xichang|CN|Sichuan|7i|25i|7w2|3pu|Sichang;Hsi-ch’ang
+Hsinchu|TW||7l|1ww|9c1|3hz|Sin-ču;Sîn-chuk-sṳ;Tân Trúc;Sinhcuz;Sin-tek-chhī;Xinzhu;Hsin-chu;Hsin-Chung
+Xuanhua|CN||7i|34t|8vm|2vq|Hsüan-hua
+Xiuying|CN||7i|1jk|8id|28k|Hsiu-ying
+Xinyuan|CN||7t|3cn|6f9|26j|Hsin-yüan
+Xiantao|CN||7i|2cd|8r4|1ui|Sientaochen;Hsien-t’ao-chen
+Xizhi|TW||7l|1xn|9dy|1ku|Hsichih;Sip-chṳ-khî;Sidži;Tịch Chỉ;Se̍k-chí-khu;Hszicse;Hsi-chih
+Xinghua|CN|Jiangsu|7i|2ji|98v|tf|Hsing-hua
+Xingcheng|CN||7i|34u|9bc|ri|Hsing-ch’eng;Hingcheng
+Xiaoshan|CN||7i|2bt|9a2|qg|Siaoshan;Hsiao-shan
+Xichang|CN|Guangxi|7i|1o3|8en|m9|Hsi-ch’ang
+Xinying|TW||7l|1sr|9a7|ku|Sin-jing;Sîn-yàng-khî;Tân Doanh;Sinying;Hsin-ying
+Xuantan|CN||7i|295|859|j9|Hsüan-t’an
+Xunyang|CN||7i|2j6|8ft|iv|Hsün-yang
+Xiaolingwei|CN||7i|2gz|965|ic|Hsiao-ling-wei
+Xiangcheng|CN|Henan|7i|2m1|8r9|ia|Hsiang-ch’eng
+Wenxing|CN||7i|27o|8pk|fv|Siang Tin;Siangtin;Siangyin;Xiangyin;Hsiang-yin;Siang-Yin
+Chrzanów|PL|Lesser Poland|a5|3va|1hw|b4|Xşanov;Chrzanovia;Chšanuvas;Hšanova
+H Street NE|US||48|302|-5xw|5z
+Hsipaw|MM||7y|1qu|7ia|5t|Thibaw
+Xincheng|CN|Gansu|7i|2ob|7zr|5p|Hsin-ch’eng
+Xiaochuan|CN||7i|2lk|858|51|Hsiao-ch’uan
+Hsenwi|MM||7y|1sq|7k5|2m|Theinni;Thinni;Hsinwi
+Hsupwo|MM||7y|1oo|7mj|n
+Hsu Ka Lat|MM||7y|19p|7ek|a|Su Ka Let
+Xiaoping|CN||7i|240|8gr|7|Hsiao-p’ing

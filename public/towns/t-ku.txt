@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Karachi|PK||6q|1x2|565|2hoy|pechs;Karatschi;Karaĉio;Karačis;Karāči;Karaczi;Carachi;Karatxi;Keraçî;Karacsi;Karatsji;Karaaji;Karačės;Karochi;Karanchi;Karasi;Kurrachi
+Kunming|CN||7i|1xk|7xc|19wy|Côn Minh;Kchun-ming;Khun-bêng-chhī;Kŏng-mìng;Kuņmina;Gvwnhmingz;Kunminq
+Guiyang|CN||7i|21u|88g|yrp|Guijangas;Quý Dương;Kuej-jang;Gŭijango;Kùi-iông-chhī;Gói-iòng;Queiyanga;Guyyan;Gveiyangz;Guijang;Quyinq;Kuei-yang
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Quito|EC||33|-n|-624|lgo|Kito;Quitum;Kitas;Kitu;Quitu;Kuito
+Kumasi|GH||1|il|-4i|jmt|Kumasy;Kumaso;Kumase;Kumassi
+Bandung|ID||6l|-j8|8ax|jia|Kutha Bandhung;Banduna;Bandunq;Bandoeng
+Córdoba|AR||1n|-2f9|-4yb|g97|Kordobo;Kordoba;Córdova;Kordova;Corduba;Kuorduoba;Kordov
+Kunshan|CN||7i|2f6|9bz|g59|Kunšanas;Côn Sơn;Kchun-šan;Kunšan;Kan-shan
+Curitiba|BR||4w|-1yn|-3sv|f1a|Kurytyba;Kuritibo;Kuritiwa;Kuritiba;Kuriytýva;kuritcibas;Kuritiyba;Kuritib;Curityba;Curytiba;Corityba
+Guilin|CN||7i|1y8|8ie|c4r|Quế Lâm;Kui-lìm-sṳ;Gveilinz;Kuej-lin;Gujlin;Kuei-lin
+Khulna|BD||6a|1rd|6ws|bkv|Kulno;Xulna;Hulna
+Kuala Lumpur|MY||6v|8q|7uh|b7w|Kualalumpūra;Kvala Lumpūras;Kuala-Lumpuro;Gizlungzpoh;Kouala Loumpou;Kuala-Lumpur;Kuala Lumpor
+Qujing|CN||7i|1ys|80a|av9|Čchü-ťing;Khúc Tĩnh;Kuóh-cêng;Khiok-chēng-chhī
+Gwangju|KR|Gwangju|7h|2pn|9sk|at8|Kwangju;Kwangdžu;Kŭangĵuo;Gouanjou;Quansua;Kvandžu;Kvanju;Kvangdzsu;Kuangju
+Samara|RU||9p|43t|3va|8z6|Kuibyshev;Kuybyshev;Kuibyschew;Samaro;Szamara;Samar
+Guigang|CN||7i|1s8|8gf|8dr|Gói-gē̤ng;Kuej-kang;Kui-kóng-sṳ;Quý Cảng;Gveigangj;Kùi-káng-chhī
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Quzhou|CN||7i|28g|967|6ys|Čchü-čou;Cù Châu;Kû-chiu-chhī;Gṳ̀-ciŭ
+Qom|IR||7o|2o8|3xc|6y0|Kom;Qûm;Kum;Ĥomo;Kumas;Gōymān
+Guang’an|CN||7i|2cn|888|6me|Kuang-an
+Cochabamba|BO||3n|-1ca|-53s|6hp|Kuchawampa;Quchapampa;Kočabamba;Kočabamb
+Culiacán|MX||3x|1ww|-8ab|68k|Kuljakanas;Cōlhuahcān Rosales;Kulyakan;Cuilacan
+Küçükçekmece|TR||94|35v|27x|640
+Cúcuta|CO||27|lz|-5le|5zv|Kukuta
+Kumamoto|JP||7q|2j5|a31|5p9
+Oklahoma City|US||2f|2qj|-7iw|597|Oklahomaurbo;Kota Oklahoma;Oklahoma Sitis;Maxepónoe;Oklahoma Ceety;Oklaxoma Shehiri;Lungsod ng Oklahoma;Oklahomasitija;Dinas Oklahoma;Oklahoma llaqta;Cathair Oklahoma;Oklahoma Siti;Oklahoma Sitės;Caayr Oklahoma;Kutha Oklahoma;Okla city;Oklahoma Shehri
+Cotonou|BJ||1b|hp|6q|58m|Kotonu;Cotonú;Kútọnu;Kotonuo;Kotonou;Catonou
+Cuenca|EC||33|-82|-63g|4wy|Kuenka;Tumipampa
+Comilla|BD||6a|1t6|71b|4wb|Kumilla;Komila
+Cuiabá|BR||2k|-17c|-4bu|4rp|Kujaba;Kuyaba;Culaba;Cuyabá
+Al Maḩallah al Kubrá|EG||c|2e1|2el|4km|Al-Maḥallah al-Kubra’
+Santiago de Cuba|CU||36|1jm|-5um|4af|Santiago de Kubo;Santiago di Cuba;Kubos Santjagas;Santyago de Kuba;Santyaqo de Kuba
+Korla|CN||7t|380|6nb|48l|Kuerle;Kurla;Kuerhlei;Koria;Kourla;K’u-erh-le;Ku’erle
+Kuantan|MY||6v|al|7z1|488|Kôan-tan-sṳ
+Kota Kuala Muda|MY||6v|fj|7qt|47e
+Kalaburagi|IN||6t|1c6|5xg|46v|Gulbarga;Kalburgi;Kalaburgi;Kulbarga;Gulburga
+Kimhae|KR||7h|2pv|9y0|43s|Gimhae;Kŭmhae;Gimhae-si

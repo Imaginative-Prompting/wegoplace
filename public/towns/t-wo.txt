@@ -1,0 +1,664 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Voronezh|RU||9i|3zj|30v|82z|Woronesch;Voroněž;Voroneĵo;Voronej;Voronežas;Voroņeža;Voronezj;Woroneż;Voronjež;Woronesh
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Fort Worth|US||2f|2ix|-7ic|7s1|Fortvērta;Fortvortas;Arx Vorthensis;Fort Vort;Fort Uert;Fortvorto;Ft Worth
+Wong Tai Sin|HK||6i|1q3|8t6|3a4
+Luhansk|UA||98|3qx|317|32h|Woroschilowgrad;Louhansk;Voroshilovgrad;Luhans'k;Loehansk;Luqansk;Lugánsk;Luhanszk
+Wŏnju|KR||7h|2vr|9vf|2kg
+Wŏnsan|KP||7a|30r|9u0|2jg|Gensan;Vonsanas;Vonsan;Onsan;Genzan
+Volzhsky|RU||a4|3rj|3ge|2ht|Volzjskij;Volžski;Wolschski;Volzh Sky;Volzhskiy
+Vologda|RU||9i|4ki|32s|2es|Wologda;Vologd
+Wollongong|AU||8l|-2nm|bn5|25u|Vulongongas;Vulongongo;Vollonggong
+Wolverhampton|GB||9b|423|-5w|219|Vulverhemptona;Vulverhamptonas;Heantun;Wulfrunehantona;Vulverhempton
+Woodlands|SG||7j|40|80b|1yo
+Worcester|US|Massachusetts|48|39e|-5jg|1ld|Vigornia;Vusteris
+Sodo|ET||2|j2|2ww|1kp|Wolaytta Sooddo
+Volgodonsk|RU||9i|3nz|393|1al|Wolgodonsk;Volqodonsk
+Wola|PL|Mazovia|a5|413|1m8|136
+Worcester|ZA||o|-2lh|1i1|zg
+Wolfsburg|DE||8r|41m|ty|y7|Wolfsbourg;Wolfsbörj;Wulfsborg;Volfsburgas;Wolfsbuurich
+Worthing|GB||9b|3x6|-12|vn|Vortingo
+Weldiya|ET||2|wv|31z|sw|Veldija;Ualdia;Woldia;Waldia;Weldia;Weldya
+Woking|GB||9b|3yk|-1k|sv|Vokingas
+Worcester|GB||9b|40z|-66|s9|Caerwrangon;Vusteris;Wiogoraceastre;Vigornia
+Klagenfurt am Wörthersee|AT||a2|3li|13r|rv|Klagenfurt;Clagenfurtum;Celovec;Klāgenfurte;Celovac;Celovec na Vrbskem jezeru
+Olomouc|CZ||9m|3ts|1bx|rn|Olmütz;Ołomuniec;Wołomuc;Olomucium;Eburum;Olmic;Olomouts
+Votkinsk|RU||9p|4eh|45z|re|Wotkińsk;Votkinszk
+The Woodlands|US||2f|2bs|-7d9|q2|Woodlands
+Wonosobo|ID||6l|-kg|8ha|pu|Wonosabo
+Wonosari|ID||6l|-m5|8j8|ob|Wanasari;Wonosan;Wonasari
+Volos|GR||8p|31d|1rr|nw|Bolus;Wolos;Volo
+Voskresenka|UA|Kyiv City|98|3w8|2d0|ne|Woskresenka
+Worms|DE||8r|3tv|n8|mj|Vormatia;Wormacja;Wormatia;Woms;Vormsa;Vormsas
+Vorkuta|RU||9i|57j|4xz|m8|Workuta;Vorkouta;Vorkoeta;Vorkut;Vorcuta
+Waliso|ET||2|np|2xh|lu|Woliso;Walliso;Ualiso;Walso;Welīso
+Welk’īt’ē|ET||2|n0|2wy|lj|Wolkite;Walkite
+Voskresensk|RU||9i|49n|2zh|lf|Woskressensk;Voskressensk;Woskriesiensk;Woskrjesensk
+Vol’sk|RU||9s|40k|3nm|jl|Volsk;Wolsk
+Woodland Hills|US|California|3p|2mx|-95h|jg
+Woodbury|US|Minnesota|2f|3gs|-768|iv
+Wendo|ET||2|ic|2yq|gh|Wondo;Wando
+Woodland|US|California|3p|2zg|-9e9|ga
+Woluwe-Saint-Lambert|BE||8t|3x8|cb|fq|Sint-Lambrechts-Woluwe
+Tallang-dong|KR||7h|2l1|9rc|fa|Wŏllang-dong
+Wolfenbüttel|DE||8r|40w|ta|f7|Wulfenbüttel;Guelpherbytum;Volfembutel
+Wokha|IN||6t|20i|79u|f0
+Woburn|CA||59|3dl|-643|ev
+Wodzisław Śląski|PL||a5|3uw|1fb|dr|Silezijos Vodzislavas;Władźisłůw;Vodzislava Slonska;Wodisław-Śląski
+Wolmaransstad|ZA||o|-23k|206|dq|Wolmaranstad
+Woerden|NL||8m|40p|dk|dg
+Werota|ET||2|x4|2wq|da|Wereta;Worota
+Volkhov|RU||9i|4mg|2hu|cp|Wolchow;Volĥov;Olhava;Vóljov;Volchov;Volchovas;Volhova
+Worksop|GB||9b|442|-34|cf
+Weinheim|DE||8r|3tn|o3|c1|Woinem
+Wong Sawang|TH||62|12e|7r8|by
+Woodside|US|New York|48|357|-5pb|bo
+Woonsocket|US|Rhode Island|48|38o|-5in|bj|Vunsoketas;Vūnsoketa
+Wokingham|GB||9b|3yt|-2c|bf
+Woodstock|CA|Ontario|59|3bt|-68b|b8
+Woburn|US||48|3a0|-5hn|b0|Vubern
+Wodonga|AU||8j|-2sc|bc1|at|Vudonga
+Wonopringgo|ID||6l|-je|8gi|ao
+Volodymyr-Volynskyi|UA||98|3x9|1vk|aj|Włodzimierz;Vladimir;Włodzimierz Wołyński;Lodomeria;Volodymyr;Wolodymyr;Wolodymyr-Wolynskyj;Volodimir;Volodymir-Volyns’kyy;Włodzimierzec;Volodymyr-Volyns’kyy
+Woodlawn|US|Maryland|48|318|-5x5|aj
+Würselen|DE||8r|3x6|h1|ab|Wösjele;Wöschele
+Wołomin|PL||a5|41e|1n0|a6|Volomina;Volominas
+Woodhaven|US|New York|48|351|-5p6|a6
+Waregem|BE||8t|3xd|9j|9z|Woaregem;Varegemas;Waereghem
+Voznesensk|UA||98|3o4|2f2|9a|Wosnessensk;Voznessensk;Voznesens'k;Woznesenśk
+Woodridge|US|Illinois|2f|37z|-6sl|9a
+Welench’ītī|ET||2|o3|31j|8r|Wolinchiti;Uelenciti
+Wobulenzi|UG||q|21|2ib|8m|Wobolenzi
+Hoyerswerda|DE||8r|3yw|13k|8k|Wojerce;Hojeřice;Hoyerwerda;Wojerecy;Wórjejce;Hojersverda
+Woodstock|US|Georgia|48|2mq|-6is|8b
+Wonji|ET||2|nh|30y|84
+Wongsorejo|ID||6l|-m7|8ts|84|Wangsoredjo;Wongsoredjo
+Wood Green|GB||9b|3zc|-c|7x
+Wooster|US|Ohio|48|35d|-6bm|7f
+Wałcz|PL||a5|440|19r|78|Deutsch Krone;Valčas;Valča;Wôłcz
+Wągrowiec|PL||a5|42p|1bs|74|Vongroveca;Vongrovecas;Wongrowitz;Wongrowiec
+Worabe|ET||2|lt|2y3|72|Werabe
+Wolfen|DE||8r|3zi|y3|71
+Woodstock|US|Illinois|2f|39j|-6tp|70
+Woodburn|US|Oregon|3p|3he|-9ha|70
+Wolfsberg|AT||a2|3m4|158|6y
+Volokolamsk|RU||9i|4bn|2rx|6y|Wołokołamsk
+Woodbridge|US|California|3p|2lk|-937|6y
+Waldkraiburg|DE||8r|3px|yg|6v|Woidkroaburg
+Wollert|AU||8j|-2we|b6v|6s|Woolert
+Wofo|CN||7i|2b3|85v|6q
+Woodlawn|US|Illinois|2f|382|-6rc|6q|Wood Lawn
+Wondelgem|BE||8t|3xx|ab|6j|Wendelghem
+Woodford Green|GB||9b|3zd|2|6c
+Wenago|ET||2|hk|2yb|6c|Wonago
+Workington|GB||9b|47s|-9u|5x
+Volnovakha|UA||98|3o8|2w5|5w|Volnovaja;Volnovaha;Volnovacha;Volnovahha;Wołnowacha;Volovakha
+Woodrow|US||48|34m|-5q3|5u|Wood Row
+Woodlawn|US|Virginia|48|2zk|-5y9|5s
+Were Īlu|ET||2|tf|31k|5q|Wereyilu;Ware Ilu;Woreyilu
+Vogan|TG||w|hl|49|5q|Voga;Wogan
+Woodlawn|CA||35|3g4|-4wh|5k
+Wote|KE||16|-4y|2wj|5h
+Woodbridge|US|New Jersey|48|34o|-5qc|5d|Woodbridg;Woodbrige
+Wollongong city centre|AU||8l|-2nn|bn5|5b
+Volochysk|UA||98|3tm|20t|55|Wolotschysk;Wolotschisk;Volotchysk;Voloçısk;Wołoczyska;Voločys'k;Woločysk
+Wo Che|HK||6i|1q7|8t7|4w
+Wörth am Rhein|DE||8r|3s9|my|4t
+Wolfratshausen|DE||8r|3p3|vq|4s
+Woodmere|US|New York|48|34v|-5or|4r
+Wenjī|ET||2|nh|314|4r|Wonji
+Wolcott|US|Connecticut|48|37k|-5mr|4m
+Wong Chuk Hang|HK||6i|1ps|8t5|4j
+Wolf Trap|US||48|306|-5yp|4h
+Worcester Park|GB||9b|3yq|-o|4g
+Oschatz|DE||8r|3yi|10f|4g|Woseč;Ossitium;Ošaca
+Wombwell|GB||9b|44o|-3w|4b
+Wurzen|DE||8r|3yp|ze|48|Worcyn;Vurcene
+Wolseley|ZA||o|-2kt|1hc|41
+Worthington|US|Ohio|48|33d|-6em|41
+Woodcrest|US||3p|2m4|-920|3z
+Wood Dale|US||2f|38k|-6se|3v
+Wohlen|CH|Aargau|a7|3nj|n0|3v
+Woolston|GB||9b|3xd|-3u|3v
+Wörgl|AT||a2|3nx|xi|3u
+Woippy|FR||9k|3sj|h3|3t
+World's End|GB||9b|3zi|-b|3t
+Wolsztyn|PL||a5|40s|18s|3t|Volština;Wolßtin;Wollstein
+Wombourne|GB||9b|41x|-62|3r|Wombourn
+Wolfhagen|DE||8r|3yl|ph|3p
+Wormer|NL||8m|41u|dd|3o
+Wolvega|NL||8m|42w|go|3n|Wolvegea
+Worthington|US|Minnesota|2f|3d6|-7dk|3n
+Worthi|IN||6t|1n0|658|3n|Warthi
+Woodward|US|Oklahoma|2f|2t7|-7o3|3m
+Woolton|GB||9b|449|-7z|3l
+Wolgast|DE||8r|465|129|3j|Wołogoszcz;Volgaste;Wòlëgòszcza
+Woodridge|AU|Queensland|8c|-24r|bta|3i
+Woodbine Corridor|CA||59|3dc|-64c|3h
+Woodhaven|US|Michigan|2q|392|-6f8|3h
+Woodland Park|US|New Jersey|48|35l|-5q3|3h
+Wolin|PL||a5|45k|14l|3g|Wòlëń;Wollin;Volina
+Volokonovka|RU||9i|3w9|2x6|3g|Wolokonowka
+Võru|EE||9x|4gn|232|3g|Veri;Verava;Werro;Vıru;Wöru;Vyru;Verro;Veru
+Vorsma|RU||9i|4bj|3c7|3g|Worsma
+Wołów|PL||a5|3ym|1a8|3f|Volova
+Volosovo|RU||9i|4l5|29x|3d|Volossovo;Volossova;Wołosowo;Volosova;Wolossowo
+Woodmere|US|Louisiana|2f|2ay|-6y8|3d
+Woonona|AU||8l|-2nf|bn7|3c
+Wommelgem|BE||8t|3y8|ck|3b|Wommelghem
+Woodinville|US||3p|3on|-9fc|3a
+Woodlands North Coast|SG||7j|41|80a|36
+Woodcroft|AU|South Australia|8b|-2pi|aow|35
+Woudenberg|NL||8m|40o|f2|35
+Woods Cross|US||2p|35j|-8mt|35
+Woodbridge|GB||9b|40p|3o|34
+Worb|CH||a7|3md|l0|33
+Wolnzach|DE||8r|3r0|wb|32
+Woodbury|US|New York|48|36w|-5pv|31
+Volodarsk|RU||9i|4c7|3by|31|Wolodarsk;Volodary
+Wolmirstedt|DE||8r|415|wb|31|Walmirstidi
+Worth|US||2f|37t|-6rw|30
+Woy Woy|AU||8l|-2l0|boc|2z
+Wood River|US|Illinois|2f|2zy|-6ya|2v
+Worringen|DE||8r|3xv|j2|2u
+Woodbury|US|New Jersey|48|32o|-5sr|2s
+Woodley Park|US||48|305|-5y2|2r|Woodley
+Volozhin|BY||9g|469|21p|2q|Wołożyn;Valozhyn;Volozhy’n;Valožyn
+Woodbury|US|Connecticut|48|37e|-5nd|2q|Woodberry
+Wölfersheim|DE||8r|3w0|oi|2o
+Woodlyn|US||48|32r|-5ta|2n
+Worpswede|DE||8r|43u|ot|2m
+Woodbridge|US|Connecticut|48|36v|-5mt|2m
+Volodymyrets|UA||98|3yu|20m|2l|Włodzimierzec;Wolodymyrets;Volodımırets;Vladimirets;Volodymyrec';Volodymyrec;Volodîmîreț;Vladimirei;Volodymerets’
+Woodfield|US||48|2mm|-68t|2l
+Wohlen|CH|Bern|a7|3mh|kg|2k
+Wolbrom|PL||a5|3vy|1iw|2j|Volbroma
+Woodvale|AU||8k|-2gb|8xo|2j
+Sint-Stevens-Woluwe|BE||8t|3xb|cd|2i|Woluwe-Saint-Étienne
+Wojkowice|PL||a5|3vx|1gw|2h|Vojkovice
+Woodbury|US|New York|48|35f|-5o3|2h
+Woodway|US|Texas|2f|2fj|-7i1|2g
+Woodbine|CA|Alberta|2s|3xi|-8t1|2f
+Woodmoor|US||2p|30m|-839|2f|Tsin Bił Hazteel
+Wola|PL|Silesia|a5|3uy|1h4|2d
+Woodburn|US|Virginia|48|2zx|-5yk|2d
+Wolfurt|AT||a2|3nv|r3|2c
+Dannenberg|DE||8r|43i|ut|2c|Dannenbarg;Wajdars;Weidars;Woikam
+Wonséaly|CI||0|h5|-jk|2c
+Woodside|CA||35|3g1|-4wj|2b
+Wollstonecraft|AU||8l|-2lz|bnz|2b
+Wood-Ridge|US||48|35h|-5pt|2a|Woodridge;Wood Ridge
+Woodwards|CA||5b|3sj|-9i3|29
+Wolvertem|BE||8t|3xj|bz|28|Wolverthem
+Woodside|GB||9b|3zl|-14|28
+Woodbine-Lumsden|CA||59|3dd|-64b|27
+Nikol's’ke|UA||98|3n5|2vo|26|Kal’chik;Voladarskoye;Volodars’ke;Nikolśke;Wołodarśke
+Wörrstadt|DE||8r|3uh|mk|25
+Woodlake|US|California|3p|2t5|-96u|25
+Woltersdorf|DE|Brandenburg|8r|41q|127|24
+Waldsassen|DE||8r|3uw|y6|23|Woidsassen
+Khoroshiv|UA||98|3wj|270|21|Choroschiw;Volodarsk-Volynskyï;Chorošiv;Horoşiv;Wołodarsk Wołyński;Volodarsk-Volînskîi;Khoroshov
+Woodlake|US|Virginia|48|2vy|-5zs|21
+Woodlawn|US|New York|48|35m|-5p7|21|Washingtonville;Wakefield
+Wojszyce|PL||a5|3xu|1bd|21
+Woollahra|AU||8l|-2m5|bo4|21
+Woodland Park|US|Colorado|2p|30b|-83u|20
+Wora|CI||0|s0|-hl|20
+Volzhskiy|RU||9p|44f|3v8|1y|Volzjskij;Volžski;Voljskiy;Wołżskij
+Wollerau|CH||a7|3n3|o8|1x
+Vorzel|UA||98|3we|2br|1x|Worsel;Worzel
+Wollmatingen|DE||8r|3oh|pf|1w
+Woodridge|US|District of Columbia|48|305|-5xt|1v
+Wollochet|US||3p|3nb|-9gi|1v
+Wolli Creek|AU||8l|-2m9|bnv|1u
+Wathlingen|DE||8r|41y|s7|1s|Wateln;Wodeln
+Woodcroft|AU|New South Wales|8l|-2ls|bn4|1s
+Woudhuis|NL||8m|411|gp|1s
+Wongé|CI||0|n5|-i9|1s|Wongué
+Woodfin|US||48|2qz|-6de|1r
+Woodlawn|US|Maryland|48|307|-5xl|1r
+Woolloongabba|AU||8c|-24d|bt4|1r
+Wognum|NL||8m|42c|dy|1r
+Wołczyn|PL||a5|3xq|1e5|1q|Konstadt;Volčina
+Vorotynets|RU||9i|4bq|3jf|1q|Worotynez
+Wolfschlugen|DE||8r|3r5|ps|1p
+Wolfach|DE||8r|3q5|mu|1o
+Woodcliff Lake|US||48|35y|-5pr|1n
+Woodland|US|Washington|3p|3ji|-9gy|1m
+Woodlands|CA||2s|3xi|-8sz|1m
+Woodend|AU|Victoria|8j|-2vr|b5h|1l
+Wotton-under-Edge|GB||9b|3zf|-6j|1k
+Worongary|AU||8c|-25x|btz|1k
+Woods Creek|US||3p|3p0|-9em|1k
+Woodside|US|California|3p|2vz|-9fl|1k
+Woodstock|CA|New Brunswick|43|3k8|-57q|1k|Vudstokas
+Woolgoolga|AU||8l|-2bn|btk|1j|Woogoolga
+Woodend|NZ||ak|-3cc|dbn|1i
+Wanzleben|DE||8r|40m|vs|1i|Wanzleva;Wonclava;Wanzlee
+Worland|US||2p|3ea|-8bw|1i
+Worbis|DE||8r|3yu|ss|1i
+Woree|AU||8c|-1b3|b8v|1i
+Wölfnitz|AT||a2|3ln|13m|1h
+Woodstock|US|Virginia|48|300|-623|1g
+Wormhout|FR||9k|3xc|6v|1g|Wormout;Wormhoudt
+Woenselse Heide|NL||8m|3z0|f7|1g
+Woongarrah|AU||8l|-2kc|bos|1f
+Volovets|UA||98|3rb|1sf|1f|Volóc;Wołowiec;Volovec;Ökeör Mezeö
+Woburn Sands|GB||9b|40i|-1t|1f
+WÖS|AT||a2|3pt|130|1e
+Wörth am Main|DE||8r|3uc|pf|1e
+Worrigee|AU||8l|-2oy|bmf|1e
+Seifhennersdorf|DE||8r|3xh|14k|1d|Zaruž;Wodowe Hendrichecy;Zeifhennersdorfa
+Wiltz|LU||9c|3ut|gh|1c|Wolz;Vilcas;Vilts;Wilz
+Wonthaggi|AU||8j|-2z9|b8f|1c
+Workum|NL||8m|436|f5|1b|Warkum;Vorkumas
+Woudrichem|NL||8m|3zy|dw|1b|Woerkum
+Wouw|NL||8m|3z4|c7|1a
+Wörthsee|DE||8r|3pj|v4|1a
+Wörth|DE||8r|3q1|x2|1a
+Burg|DE|Brandenburg|8r|3zz|13b|19|Bórkowy;Wobsedne Bórkowy
+Wörth an der Donau|DE||8r|3s4|yh|19|Wiard
+Wöllstein|DE||8r|3ue|m5|19
+Wożniki|PL|Silesia|a5|3wj|1gy|19
+Wootton|GB|England|9b|3y5|3a|19|Wooton
+Wohldorf-Ohlstedt|DE||8r|455|s5|19
+Oostburg|NL||8m|3yl|9p|18|Wòstburg
+Wooburn Green|GB||9b|3zb|-1w|18
+Woody Point|AU||8c|-23q|bta|18
+Wolkenstein|DE||8r|3wq|10b|18
+Wootton|GB|England|9b|40q|-1h|17
+Woodhall Spa|GB||9b|43n|-l|17
+Wolverine Lake|US||2q|3a8|-6fv|17
+Wolfforth|US||2f|2l3|-7vd|16
+Wootton|GB|England|9b|3wx|-3g|16
+Wolfsbos|NL||8m|42g|i2|16
+Vorokhta|UA||98|3q5|1w8|16|Worochta
+Wojska Polskiego|PL||a5|3ud|1gt|16
+Wolfville|CA||35|3h8|-4yt|16
+Woolloomooloo|AU||8l|-2m3|bo2|16
+Woldegk|DE||8r|44i|11q|15|Voldegka
+Woodruff|US|South Carolina|48|2oi|-6bw|15
+Wolpertswende|DE||8r|3p1|qp|15
+Wolkersdorf im Weinviertel|AT||a2|3qe|19w|15|Wolkersdorf
+Wolf Lake|US||2q|3c5|-6n7|15
+Wooburn|GB||9b|3za|-1x|15
+Woodson Terrace|US||2f|2zl|-6z0|15
+Woodbridge|US|Virginia|48|2ze|-5yl|15|Woolbridge
+Wolhusen|CH||a7|3mq|mf|15
+Wolfisheim|FR||9k|3qz|lb|14
+Wonder Lake|US||2f|39r|-6tf|14
+Wood Village|US||3p|3ih|-9g2|14
+Voronkiv|UA||98|3vi|2du|14|Voronkov;Woronkiw
+Woodbridge|US|California|3p|2xz|-9cy|14
+Woodmore|US||48|304|-5xc|13|Woodmoor
+Wojcieszów|PL||a5|3xj|188|13|Vojcešova
+Woolooware|AU||8l|-2ml|bnu|13
+Wooloowin|AU||8c|-246|bt4|13
+Woodbourne|US||48|33n|-5s1|13
+Wolfskehlen|DE||8r|3uh|nm|13
+Wola Żarczycka|PL||a5|3vp|1pt|12
+Wössingen|DE||8r|3s5|nx|12
+Woumpou|MR||19|161|-zd|11|Oumpou;Wompou
+Wonga Park|AU||8j|-2wt|b7j|11
+Wolfenkop|ZA||o|-1yw|28j|11
+Woodstown|US||48|325|-5t9|z|Wood's Town;Wood Town
+Woodstock|GB||9b|401|-3r|z
+Wojnicz|PL||a5|3us|1lw|z
+Wördern|AT||a2|3q9|191|z
+Voskresenka|UA|Zaporizhzhia|98|3nv|2t0|z|Chapayevka;Chapaievka;Woskresenka;Ceapaievka
+Wollaston|GB||9b|416|-1v|z
+Woodford|AU|Queensland|8c|-22v|bse|z
+Woustviller|FR||9k|3sc|jg|y
+Wolfegg|DE||8r|3ou|r7|y
+Steinigtwolmsdorf|DE||8r|3xu|13v|y|Wołbramecy
+Woodville South|AU||8b|-2ow|aot|x
+Woodlawn|US|Ohio|48|311|-6in|x
+Woombye|AU||8c|-222|bsx|w|Wombye
+Woodroffe|AU||8e|-yq|a3u|w
+Wustrow|DE|Lower Saxony|8r|430|ux|v|Wôstrüw;Wåstrüw
+Wormleysburg|US||48|33u|-5xn|v
+Woodville West|AU||8b|-2ox|aot|v
+Weißenberg|DE|Saxony|8r|3y8|14q|v|Wóspork;Veisenberga
+Oppach|DE||8r|3xv|14a|v|Wopaka
+Womon|CI||0|s5|-hp|u
+Woodbury Heights|US||48|32m|-5ss|u
+Ostritz|DE||8r|3xp|15h|u|Wostrowc;Ostrica
+Wood-Lynne|US||48|32w|-5sm|u|Woodlynne
+Woodville|US|Florida|48|2c7|-6i1|u
+Woodberry|AU||8l|-2j3|bpc|u
+Woolwich|US||48|3e0|-5dw|t
+Woodville|AU||8b|-2ow|aou|t
+Wolframs-Eschenbach|DE||8r|3sr|tt|t
+Woori Yallock|AU||8j|-2wy|b8a|t
+Wolfdale|US||48|33n|-671|t
+Womelsdorf|US||48|344|-5vm|t
+Wolf Point|US||2p|3pl|-85g|t|Wolfpoint
+Wolfeboro|US||48|3d2|-5ht|s
+Woronora Heights|AU||8l|-2mk|bnj|s
+Woodcote|GB||9b|42h|-6h|s
+Wollongbar|AU||8l|-282|bu4|s
+Woodbury|US|Tennessee|2f|2rj|-6n3|s
+Wola Filipowska|PL||a5|3v9|1ie|s
+Woodbine|AU||8l|-2ml|bmy|r
+Wool|GB||9b|3ws|-66|r
+Baj|HU||8v|3od|1f0|r|Woj
+Volgo-Kaspiyskiy|RU||8o|3kc|3p4|r|Volgo-Kaspijskij;Wolgo-Kaspijski;Wolgo-Kaspiski;Volgo-Kaspiski
+Oßling|DE||8r|3yo|13d|q|Wóslink
+Voinyliv|UA||98|3sh|1w1|q|Wojniłów
+Wooroloo|AU||8k|-2gc|8z3|q
+Woodhaven Court|CA||43|3k4|-507|q
+Wondunna|AU||8c|-1yc|bsm|q
+Woodcroft|CA||2s|44t|-8rg|q
+Wolbórz|PL||a5|3z2|1j3|q|Volboža
+Wöllersdorf|AT||a2|3oz|18x|q
+Wolston|GB||9b|41i|-3w|q
+Wola Batorska|PL||a5|3v1|1kb|p
+Woodside|AU||8b|-2p3|aps|p
+Ortrand|DE||8r|3yq|128|p|Wótrań
+Wolsingham|GB||9b|481|-58|p
+Woodbine|US|New Jersey|48|310|-5ru|p
+Woodville|US|Texas|2f|2di|-7aa|p
+Woodside|US|Pennsylvania|48|33r|-5ry|o
+Woodville North|AU||8b|-2ov|aou|o
+Wolfhausen|CH||a7|3na|og|o
+Wörth an der Isar|DE||8r|3r2|ya|o|Wörth;Wort
+Woodville Gardens|AU||8b|-2ov|aov|o
+Wommels|NL||8m|43j|fj|o|Vomelsas
+Wolfern|AT||a2|3pk|13x|o
+Woodsfield|US||48|32g|-69c|n|Woodfield
+Woodlawn|US|Virginia|48|2u0|-68i|n|Wood Lawn
+Wolfersdorf|DE||8r|3qo|wj|n|Wolferstorf
+Worofla|CI||0|mz|-j7|n|Ouorofla
+Woodside East|US||48|30j|-5tu|n
+Wola Radziszowska|PL||a5|3un|1iz|n
+Woodlands|ZA||o|-2mg|1v5|n
+Wohltorf|DE||8r|44o|sl|m
+Wofford Heights|US||3p|2r7|-952|m
+Woronora|AU||8l|-2mi|bnk|l
+Woolavington|GB||9b|3y4|-86|l
+Wola Krzysztoporska|PL||a5|3ym|1ie|l
+Woodstock|US|New York|48|38s|-5pw|l
+Woodville|US|Ohio|48|375|-6fl|l
+Wolfenschiessen|CH||a7|3ma|nb|l
+Wolfwil|CH||a7|3nb|lo|l
+Wortegem|BE||8t|3x9|9r|l
+Wolfstein|DE||8r|3tq|l4|l
+Woodland Beach|US||2q|38i|-6ff|k
+Worben|CH||a7|3mu|ka|k
+Staryy Vovchynets|UA||98|3pc|201|k|Volcineț;Staryï Vovtchynets;Wolczynetz
+Wolpertshausen|DE||8r|3sl|rc|k
+Wolfsbach|AT||a2|3pk|14r|k
+Wohyń|PL||a5|3zs|1rb|k
+Wooler|GB||9b|4ab|-5l|k
+Woodridge|NZ||ak|-36i|dhn|k
+Wondai|AU||8c|-214|bpv|k
+Wonfurt|DE||8r|3uy|t3|k
+Woorim|AU||8c|-237|btk|j
+Měřín|CZ||9m|3t7|184|j|Wollein
+Vorokomle|UA||98|3zn|1xn|j|Vorokome;Worokomle
+Woodford|AU|New South Wales|8l|-2lp|bm0|j
+Wolfertschwenden|DE||8r|3p1|sj|j
+Woburn|NZ||ak|-36i|dhu|j
+Woerth|FR||9k|3ry|li|i|Wörth an der Sauer;Werth;Wörth
+Wortel|BE||8t|3ys|db|i
+Woringen|DE||8r|3p4|sc|i
+Wólka Niedźwiedzka|PL||a5|3vk|1pn|i|Wólka Niedzwiecka
+Wommersom|BE||8t|3x5|dy|i
+Woodlawn Beach|US||2f|2cf|-6pn|i
+Wormley|GB||9b|3y2|-1t|i
+Wölpinghausen|DE||8r|41m|pn|i
+Woolpit|GB||9b|412|2h|i
+Woodsetts|GB||9b|447|-39|h
+Woodville|US|California|3p|2s9|-974|h|Woodsville
+Woodville Park|AU||8b|-2ox|aov|h
+Watou|BE||8t|3xa|7a|h|Woatou
+Wolfsgraben|AT||a2|3ps|18s|h
+Wongaling Beach|AU||8c|-1dr|b9u|h
+Wörlitz|DE||8r|400|yi|h
+Woodville|NZ||ak|-342|dkj|h
+Woolde|NL||8m|417|is|h
+Roche-à-Bateau|HT||4j|1ei|-5pk|h|Wòchabato;Roche a Bateaux
+Wölfis|DE||8r|3x5|ty|h
+Wolcott|US|New York|48|3c2|-5xd|g
+Worthington|US|Kentucky|3k|2yg|-6lo|g
+Wola Uhruska|PL||a5|3yk|1tn|g
+Wood Street Village|GB||9b|3yd|-1s|g
+Woodburn|US|Indiana|38|369|-6jp|g
+Woodbury|GB||9b|3ws|-9g|g
+Wola Dębińska|PL||a5|3uu|1lh|g
+Selva|IT|Trentino-Alto Adige|9o|3lb|wo|g|Wolkenstein;Wolkenstein in Gröden
+Wojsławice|PL|Lublin|a5|3xg|1tf|g
+Wolphaartsdijk|NL||8m|3z5|am|g
+Worthington|US|Kentucky|48|2z3|-6ds|g
+Woincourt|FR||9k|3v3|4a|g|Wornicourt
+Wonthella|AU||8k|-27x|8uf|g
+Woodstock|US|Alabama|2f|2k9|-6q3|f
+Wolmirsleben|DE||8r|40b|vw|f|Wilmersleve
+Hähnichen|DE||8r|3yp|15a|f|Wosečk
+Woodcreek|US||2f|2bf|-7kj|f
+Woodpark|AU||8l|-2m0|bnc|f
+Wolfsegg|DE||8r|3sf|xa|f
+Wolfheze|NL||8m|40g|g3|f|Wolfheeze
+Woodmont|US||48|36j|-5mr|f
+Woodward|US|Iowa|2f|38a|-78w|f
+Woldingham|GB||9b|3yh|-3|f
+Wólka Pełkińska|PL||a5|3v6|1qu|f|Wola Pełkińska
+Wólka Podleśna|PL||a5|3v8|1pf|f|Wólka pod Lasem
+Worthington Hills|US||3k|2yf|-6ll|f
+Woodsboro|US|Texas|2f|26g|-7ic|f
+Woodland Hills|US|Utah|2p|336|-8m5|f
+Wonck|BE||8t|3x1|fo|f|Wonek
+Woodford|GB||9b|41i|-1m|f
+Woodgate|AU||8c|-1xr|brs|f
+Wólka Tanewska|PL||a5|3wa|1pu|f
+Wallgau|DE||8r|3o0|vc|e|Valgava;Wollga
+Wört|DE||8r|3s7|sj|e
+Wolfau|AT||a2|3n9|18q|e
+Worthington|US|Indiana|38|30p|-6pm|e
+Wolder|NL||8m|3x7|fp|e
+Woodbine|US|Iowa|2f|37y|-7du|e
+Wolfe City|US||2f|2kp|-7ev|e
+Woudsend|NL||8m|432|fn|e|Wâldsein
+Wola Rębkowska|PL||a5|406|1nw|e
+Wodoro|CI||0|qr|-g0|e|Odoro
+Woodbranch|US||2f|2bu|-7cf|e
+Wodecq|BE||8t|3ww|af|e
+Wood River|US|Nebraska|2f|35e|-7lw|e
+Woodway|US|Washington|3p|3os|-9fy|e
+Woodstock|US|Maine|48|3f9|-5g5|e
+Woodacre|US||3p|2xl|-9gp|d
+Woensdrecht|NL||8m|3yv|by|d
+Woodville|US|Wisconsin|2f|3gv|-74d|d
+Wolf Creek|US||2p|36t|-8mn|d
+Wöhrden|DE||8r|46h|oz|d
+Wołowice|PL||a5|3uv|1it|d
+Woxall|US||48|33z|-5tl|d
+Woesten|BE||8t|3xe|7r|d
+Wola Jachowa|PL||a5|3x9|1ly|d|Wola Jackowa
+Woodbury Center|US||48|37e|-5nc|d
+Wolferode|DE||8r|3z3|vz|d
+Woodbine|US|Georgia|48|2e0|-6b0|d
+Woumen|BE||8t|3xo|7z|d|Woomn
+Woorree|AU||8k|-27x|8ui|d
+Võhma|EE||9x|4iv|1yz|d|Vıhma;Vehma;Vekhma;Wöhma;Vechma
+Woodend|AU|Queensland|8c|-24p|bsb|d
+Woodland Heights|US||48|371|-65f|d
+Volduchy|CZ||9m|3ua|11u|d|Wolduch
+Wouldham|GB||9b|3yn|1a|d
+Wongawallan|AU||8c|-25g|btn|d
+Wollbach|DE||8r|3vx|sf|c
+Wolfhurst|US||48|33b|-68e|c
+Worosantyakaha|CI||0|qz|-e5|c|Worossantiakaha
+Wooldrik|NL||8m|412|j8|c
+Wonsees|DE||8r|3uu|ve|c
+Räckelwitz|DE||8r|3ye|13i|c|Worklecy
+Woodstock|US|New Hampshire|48|3e6|-5j5|c
+Woźniki|PL|Lesser Poland|a5|3uq|1i5|c
+Woodsboro|US|Maryland|48|31t|-5yr|c
+Wolkramshausen|DE||8r|3yu|tu|c
+Wola Zabierzowska|PL||a5|3v3|1kh|c
+Wogninkro|CI||0|ew|-9l|c
+Wolvercote|GB||9b|3zu|-3l|c
+Woodbridge|AU||8k|-2gl|8y7|c
+Woodrising|AU||8l|-2jn|bp5|b
+Woodsville|US||48|3en|-5k4|b
+Wola Sernicka|PL||a5|3yx|1r0|b|Wola Syrnicka
+Wolferstadt|DE||8r|3ru|ty|b
+Worcester|US|New York|48|3ab|-5rn|b
+Wandoan|AU||8c|-20k|bkk|b|Wondoan
+Wolsdorf|DE||8r|40z|ue|b
+Auhausen|DE||8r|3s5|ti|b|Ahuse;Ahuson;Ahusen;Awhusen;Ahuosen;Ahausen;Auhusen;Ahusen in dem Ryse;Werntzahusen;Wernczhausen;Ohausen;Weernitzahawsen;Woernitz Ahausen;Anhausen an der Wernitz;Ahusen an der Wörnitz
+Kopani|UA||98|3oo|2yi|b|Voykovskiy;Voykovs'kyy;Voikovskyi;Wojkowskyj;Woikowski;Kopany
+Wodzisław|PL||a5|3wc|1k3|b
+Wojcieszków|PL||a5|3zt|1q0|b
+Wolken|DE||8r|3vt|kr|b
+Woodworth|US||2f|2ej|-74y|b
+Woodchurch|GB||9b|3xw|25|b
+Wombolo|CI||0|q1|-gl|b|Womolo
+Woodford Hill|DM||2r|17a|-4qd|b|Woodford-Hill
+Wolkrange|BE||8t|3tv|g4|b
+Woubrugge|NL||8m|40x|cw|b
+Woodlands Park|NZ||ak|-2un|dh2|b
+Ozalj|HR||a6|3ip|170|b|Wosail
+Wohnbach|DE||8r|3w3|oj|b
+Woodhaven|CA||5d|3uj|-7i7|a
+Woltersdorf|DE|Lower Saxony|8r|433|v6|a
+Wolfsthal|AT||a2|3pp|1b8|a
+Worden|US|Illinois|2f|305|-6xk|a
+Wortham|US||2f|2gb|-7fy|a
+Wolcottville|US||38|37d|-6l5|a
+Wolfgantzen|FR||9k|3pf|ku|a
+Wooster|US|Arkansas|2f|2ps|-74u|a|Vuster
+Woubrechtegem|BE||8t|3xb|aw|a
+Wolfsegg am Hausruck|AT||a2|3pn|11z|a
+Woodville|US|Mississippi|2f|2ee|-71m|a
+Wolcott|US|Indiana|38|358|-6ps|a
+Wöbbelin|DE||8r|44c|vy|a
+Wâlterswâld|NL||8m|442|gr|a|Wouterswoud;Wouterswoude
+Woodlawn Park|US||3k|2ya|-6lv|a
+Wontergem|BE||8t|3xm|9k|a
+Wojciechów|PL|Opole Voivodeship|a5|3xe|1f3|a
+Wollin|DE||8r|418|yn|a
+Woodruff|US|Wisconsin|2f|3ji|-6x6|a
+Woorabinda|AU||8c|-1v1|bj6|a
+Woltershausen|DE||8r|40e|rn|a
+Wohlmirstedt|DE||8r|3yd|vu|a
+Woodland|US|Maine|48|3hg|-578|a
+Worthing|US||2f|3cd|-7gs|9
+Woburn|GB||9b|40f|-1q|9
+Wolfpassing|AT||a2|3q7|18y|9
+Volmunster|FR||9k|3sg|kf|9|Wollmünster;Wolmünster
+Wojciechów|PL|Lublin|a5|3yc|1pt|9
+Woldendorp|NL||8m|43z|jj|9
+Woolner|AU||8e|-yk|a3h|9
+Wölflinswil|CH||a7|3nu|m8|9
+Woodbury|US|Georgia|48|2jm|-6iy|9|Woodberry
+Objazda|PL||a5|47p|1bc|9|Wobesde
+Wonsheim|DE||8r|3ua|m5|9
+Woodlawn|US|North Carolina|48|2sb|-64a|9
+Wongan Hills|AU||8k|-2dt|908|9
+Worrolong|AU||8b|-2x1|av9|9
+Wotje|MH||b2|q9|d4w|9
+Woodstock|US|Vermont|48|3d6|-5lg|9
+Woodmere|US|Ohio|48|376|-6ac|9
+Vabalninkas|LT||a3|4bi|1wr|9|Vabalninka;Vabalninks;Wobolniki;Zabalninkas;Vabalninko;Vobol’niki;Vabalninkai
+Woombah|AU||8l|-29k|bts|9
+Wolvey|GB||9b|41t|-3t|8
+Woolacombe|GB||9b|3y5|-bp|8
+Wombarra|AU||8l|-2n8|bnb|8
+Woodall|US||2f|2rj|-7c3|8
+Wolxheim|FR||9k|3qx|kv|8|Wolixe
+Wólka Grodziska|PL||a5|3vf|1q8|8
+Woolaston|GB||9b|3zm|-77|8
+Wohnste|DE||8r|448|qh|8
+Viytivtsi|UA||98|3th|21g|8|Viïtivtsi;Woitowzy;Wójtowce;Wijtiwci;Viitivți
+Wookey|GB||9b|3y9|-7h|8
+Worlingworth|GB||9b|417|3h|8
+Wolsfeld|DE||8r|3un|hz|8
+Wogau|DE||8r|3xh|we|8
+Woolwich|AU||8l|-2m0|bnx|8|Woolwick
+Woodridge|US|New York|48|37v|-5r5|8
+Wonewoc|US||2f|3d9|-6ym|8
+Woodhull|US||2f|36e|-6yw|8
+Wormeldange|LU||9c|3tt|ht|8|Wuermeldeng;Wormeldingen
+Obrataň|CZ||9m|3tb|15i|8|Wobratain
+Woodsburgh|US||48|34u|-5or|8
+Woolfardisworthy|GB||9b|3xk|-c6|8
+Woods Hole|US||48|37d|-5gb|8|Woods Holl;Wood's Hole;Wood's Holl
+Wolfsburg-Unkeroda|DE||8r|3xh|sj|8
+Otočec|SI||9a|3jc|16b|8|Wördl;Otoček
+Wolferstedt|DE||8r|3yv|vr|8
+Wongarbon|AU||8l|-2ht|bh8|8
+Wola Wiśniowa|PL||a5|3x6|1jk|8
+Voitove|UA||98|3w7|2fp|8|Voytove;Woytowe;Voytovo;Voikove;Wojtowe;Voykove;Vojkove;Voykovo
+Woignarue|FR||9k|3v7|46|7|Wégnérue
+Wola Idzikowska|PL||a5|3xy|1ru|7
+Woodland|US|North Carolina|48|2sx|-5yh|7
+Vlčnov|CZ|Moravian-Silesian Region|9m|3tq|1dv|7|Wolfsdorf
+Gutenswegen|DE||8r|413|vx|7|Wodeneswege
+Voronove|UA||98|3ru|2z5|7|Voronovo;Woronowe;Voronov;Voronova
+Wolde|DE||8r|454|10c|7
+Woodville|US|Alabama|2f|2o7|-6nn|7
+Woodhill|AU||8c|-25i|bsx|7
+Wola Załężna|PL||a5|3yr|1kg|7
+Womens Bay|US||1h|4g8|-bs3|7
+Wörschach|AT||a2|3o3|13b|7
+Woodburn|AU||8l|-28r|btz|7
+Woodbine|CA|Ontario|59|3ey|-5wv|7
+Woodton|GB||9b|41u|3u|7
+Wolanów|PL||a5|3yq|1ma|7
+Wolfsheim|DE||8r|3uj|mc|7
+Wojaszówka|PL||a5|3ua|1o7|7
+Wood Heights|US||2f|31a|-79k|7|Woods Heights
+Woodland Hills|US|Kentucky|3k|2y8|-6lk|7
+Woldert|DE||8r|3wk|l9|7
+Woodlawn|US|Illinois|2f|2yh|-6vb|7|Wood Lawn
+Woodplumpton|GB||9b|45h|-7o|7
+Woodstock|AU||8l|-2lq|bhh|7
+Wolumla|AU||8l|-2ub|bk5|7
+Woerdense Verlaat|NL||8m|40w|di|7|Woerdenscheverlaat;Woerdenschverlaat
+Wollbrandshausen|DE||8r|3za|s9|7
+Woods Bay|US||2p|3pc|-8st|7
+Woonsocket|US|South Dakota|2f|3ed|-7l0|7
+Wœlfling-lès-Sarreguemines|FR||9k|3sd|jx|6
+Woodham Mortimer|GB||9b|3zn|1q|6
+Worth|GB||9b|3ye|3r|6
+Woore|GB||9b|436|-6o|6
+Wodynie|PL||a5|40k|1p0|6
+Worton|GB||9b|3yk|-5o|6
+Wolfpassing an der Hochleithen|AT||a2|3ql|19x|6
+Wondecla|AU||8c|-1ce|b7w|6
+Worthington|US|Pennsylvania|48|35g|-657|6
+Woodridge|AU|Western Australia|8k|-2f1|8x4|6
+Wojsławice|PL|Łódź Voivodeship|a5|3zh|1gk|6
+Woodforde|AU||8b|-2oz|ap9|6
+Wöllnitz|DE||8r|3xe|w8|6
+Wola Rakowa|PL||a5|3zj|1ih|6
+Wouwse Plantage|NL||8m|3z0|c7|6|Wouwse-Plantage
+Wormstedt|DE||8r|3xr|w8|6
+Wólka Łętowska|PL||a5|3vs|1pp|6
+Wojciechowice|PL||a5|3w5|1af|6
+Worden|US|Montana|2p|3jo|-8cg|6
+Woodlands|US||3p|2pb|-9av|6
+Wohlde|DE||8r|475|pu|6
+Woggersin|DE||8r|44x|10r|6
+Wormsdorf|DE||8r|40t|v3|6|Warmonestorp
+Wölferlingen|DE||8r|3wg|lt|6
+Woolamia|AU||8l|-2pa|bmh|6|Woollamia
+Wolfsberg im Schwarzautal|AT||a2|3m4|17i|6
+Worlaby|GB||9b|44x|-1b|5
+Osvračín|CZ||9m|3tj|109|5|Wostračin
+Wörtherberg|AT||a2|3n5|102|5
+Worminghall|GB||9b|3zt|-2z|5|Warminghall
+Wörth bei Kirchberg an der Raab|AT||a2|3mh|17t|5
+Worlington|GB||9b|41e|1d|5
+Wolf Willow|CA||2s|3xb|-8sp|5
+Woongarra|AU||8c|-1x6|bre|5
+Wolwelange|LU||9c|3uf|g0|5|Wolwen;Wolwelingen
+Wohlsdorf|DE||8r|3zs|wz|5
+Wogmeer|NL||8m|429|dn|5
+Wokowice|PL||a5|3ux|1li|5
+Wohlsborn|DE||8r|3xr|vl|5
+Woodson|US||2f|323|-6ym|5
+Wolfshoferamt|AT||a2|3qz|177|5
+Wólka|PL||a5|3ye|1qw|5

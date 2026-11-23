@@ -1,0 +1,865 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Krasnoyarsk|RU||6u|4bo|765|8f0|Krasnojarsk;Krasnoïarsk;Krasnojarsko
+Krasnodar|RU||9i|3h5|30a|6xv
+Kraków|PL||a5|3v2|1je|6au|Krakau;Cracovia;Krakov;Krakovo;Krakovia;Krakova;Cracovie;Krakkó;Krokuva;Cracaû;Kraká;Krakovja;Krakůw;Krakovi;Carcovia;Cracow;Krakoo
+Kryvyy Rih|UA||98|3p3|2kr|4nr|Kryvyj Rih;Kryvyi Rih;Krywyj Rih;Kryvy Rih;Krivoy Roq;Kriví Rih;Krıvıy Rig;Krivoj Rog;Krivij Rih;Krõvõi Rig;Kryvyj Rihas;Krîvîi Rih;Krüvüy Rih;Krzywy Róg;Krivijriha;Kryvy Rig
+Kaliningrad|RU||96|47z|1kz|3nz|Królewiec;Königsberg;Kalinjingrad;Kalinyingrád;Karaliaučius;Königsbarg;Caliningrado;Calininopolis;Königsberg in Preußen;Kaliningráu;Kalininqrad;Karaliaučios;Kraljevac;Kënisberg;Körigsberg
+Christchurch|NZ||ak|-3cx|dbj|38g|Kristkirko;Ōtautahi;Kraistčērča;Kraistčerčas;Crīstcirice;Christopolis;Kraysçörç;Kraystcherch
+Krugersdorp|ZA||o|-20h|256|2x8
+Krasnogvargeisky|RU||9i|4ml|2co|2ln
+Karawang|ID||6l|-hj|8a4|2dj|Krawang
+Braşov|RO||8u|3it|1z5|1yc|Kronstadt;Brassó;Braszów;Kruhnen;Kronstant;Brazov
+Krefeld|DE||8r|3ym|i7|1u4|Krieevel;Krievel;Crefeld
+Craiova|RO||8u|3f4|1u4|1t1|Krajowa;Krajova;Kraiov;Croiova
+Kremenchuk|UA||98|3sa|2ks|1qi|Krementschuk;Krzemieńczuk;Krementšuk;Kremenčuk;Krementchouk;Krementsjoek;Krementsjuk;Krementjuk;Kremenciuk;Kremençug;Krementxuk;Kremenčukas;Kremencsuk;Kremenčuka;Kremenchug;Kreminchuk;Kremenĉuko;Kremençuq
+Kropyvnytskyi|UA||98|3qr|2hn|1p1|Kirowohrad;Kirovohrad;Kirowograd;Kirovograd;Kirovoqrad;Kirovohrado;Kirovohradas;Kirovogrado;Kirovohrada;Yelisavetgrad;Jelizawietgrad;Zinowjewsk;Kropywnycki;Jelisawetgrad;Kropywnyzkyj;Kirovo;Zinovievsk;Zinovyevsk;Elisavetgrad;Elizabethgrad;Kirivograd;Kropivnicki
+Pak Kret|TH||62|12n|7r6|1gv|Pak Kred;Pakkret;Pakkred
+Croydon|GB||9b|3yq|-a|1c5|Kroydon;Krojdono
+Lat Krabang|TH||62|124|7ry|19c|Lat Kabing;Lat Kabang;Lartkrabang
+Kreuzberg|DE||8r|41u|118|16j|Kreizberg;Mons Crucis
+Kragujevac|RS||8q|3ea|1m4|14z|Krabujevac;Kragiyevac
+Kramatorsk|UA||98|3rd|2wd|14v|Kramators'k;Kramatorszk
+Krishnanagar|IN||6t|1t1|6tt|14j|Krishnagiri;Krishnagar
+Crawley|GB||9b|3xz|-i|yg|Krolis
+Kristiansand|NO||9j|4hj|m8|wk|Krisjānsanna;Christiansand
+Kroonstad|ZA||o|-24t|23n|wk
+Khenchela|DZ||3|2qg|ju|vt|Jenchela;Xençela;Krenchela
+Kresek|ID||6l|-h1|87i|um|Keresek
+Kuala Krai|MY||6v|fd|7vw|t6|Kuala Kerai
+Zheleznogorsk|RU|Krasnoyarsk Krai|6u|4c9|77t|q2|Zjeleznogorsk;Železnogorsk;Željeznogorsk;Schelesnogorsk;Krasnojarsk-26;Krasnoyarsk-26;Krasnoyarsk-9
+Kribi|CM||j|86|rj|pz
+Krasnogorsk|RU|Moscow Oblast|9i|4b2|2vp|pt|Krasnoqorsk
+Türkmenbaşy|TM|Balkan|5x|336|434|ph|Turkmenbaszy;Turkmenbashi;Krasnovodsk;Turkmėnbašis;Türkmenbaşî;Turkmanboshi;Turkmenbachi;Shagadam;Türkmenbashy;Krassnowodsk;Krasnowodsk;Şagadam
+Hradec Králové|CZ||9m|3vh|17z|p6|Königgrätz;Reginogradecium;Kraljičin Gradac
+Gatchina|RU||9i|4li|2bp|oy|Krasnogwardeisk;Krasnogvardeysk;Gatczyna;Gattschina;Gatĉina;Gattšina;Hatsina;Gatsjina;Gatcsina;Gattsjina;Gatschina;Gattjina;Hatčina
+Krasnaya Glinka|RU||7z|45a|432|ns
+Créteil|FR||9k|3rj|6v|nk|Kretėjus
+Kraljevo|RS||8q|3dh|1lh|n0|Kralevas
+Kropotkin|RU|Krasnodar Krai|9i|3i8|34p|m4|Krapotkin
+Khrustalnyi|UA||98|3pq|304|m3|Krasnyi Luch;Krasni Luč;Krasnyy Luch;Hrusztalnij;Krasznij Lucs;Khrustal’nyy;Krasny Luch;Krasniluch
+Crewe|GB||9b|43i|-6s|l8|Kru;Kruo
+Kruševac|RS||8q|3d2|1n9|kx|Alacahisar
+Krathum Baen|TH||62|11x|7qi|k8|Krathumban;Krathu Baen;Kathum Baen
+Krishnagiri|IN||6t|ys|619|jt
+Crotone|IT||9o|30k|1bl|hy|Crotona;Croton;Krotona;Cutroni;Croto;Krotonė;Krotono
+Sheptytskyi|UA||98|3vz|1vc|hv|Krystynopol;Chervonohrad;Červonohrad;Tscherwonohrad;Czerwonogród;Kristinopol’;Chervonograd;Czerwonohrad;Krvstonopol;Sheptytskyy
+Krasnoturinsk|RU||7z|4m1|4n9|he|Krasnotur'insk
+Pokrovsk|UA||98|3q4|2va|gp|Krasnoarmiys'k;Krasnoarmiisk;Pokrowsk;Krasnoarmeysk
+Kraaifontein|ZA||o|-2m1|1g0|g3
+Krymsk|RU||9i|3gt|2xj|g0|Krõmsk;Krîmsk;Krymasko
+Krasnokamensk|RU|Zabaykalskiy (Transbaikal) Kray|67|3v5|93v|f3|Krasnokamiensk
+Krasnokamsk|RU||7z|4hc|4aw|en|Krasznokamszk
+Krujë|AL||9y|37b|1iz|e8|Kruja;Croia;Kruya;Kroya;Cruja;Krueja;Kroïa;Krue;Kroja
+Sorokyne|UA||98|3q5|32d|dq|Krasnodona;Sorokîne;Sorokõne;Sorokino;Krassnodon;Sorokin;Krasnodon
+Královské Vinohrady|CZ||9m|3v3|144|dk|Königliche Weinberge
+Krosno|PL|Subcarpathia|a5|3u1|1oh|da|Krosnas
+Krasnoye Selo|RU||9i|4ly|2bl|cb|Krasnoje Selo;Kraassela;Krasnoe Selo;Kruassela
+Krasnyy Sulin|RU||9i|3p1|33b|c9|Krasnyj Sulin;Krassnyj Ssulin;Krasny-Sulin
+Kardzhali|BG||9v|37p|1yh|c9|Kardschali;Kardjali;Kardzjali;Kırcaali;Kardžali;Krdžali;Kerdžalai;Kyrdżali;Exrdzhali;Kardshali;Kirdžali;Kirdjalü;Kŭrdzhale;Kirdžalü;Kerjali;Kirjali;Kerdzhali;Kŭrdžali;Kŭrdzhalii;Krdjali;Kŭrdzhali
+Krasnoufimsk|RU||7z|4d9|4gh|bz|Krasnooufimsk;Krasno-oefimsk;Krasnoutimsk
+Kronstadt|RU||9i|4mn|2aq|by|Cronstadt;Kroonlinn;Kronsjtadt;Kronstatti;Kronshtadt;Kronsztad;Kronštatas;Kronštate;Kronŝtato;Kronštat;Stephanopolis
+Corfu|GR||8p|322|1jc|b4|Korfu;Corfou;Kérkyra;Krf
+Kristianstad|SE||9w|4bn|13b|b2|Christiansstad;Christianostadium;Krisianstad
+Krian|ID||6l|-kl|8oq|aq|Kerian;Krijan
+Kranj|SI||9a|3kg|13w|ak
+Kraśnik|PL||a5|3xg|1pr|9y
+Krishnarājāsāgara|IN||6t|yk|5w6|9y
+Crailsheim|DE||8r|3sh|rz|9y|Krailsheimas
+Kryukiv|UA||98|3s7|2kw|9k|Kriukiv;Kryuków;Krjukiv;Kriukiv-na-Dnipri;Kriukiv-on-Dnieper;Kriukiv on the Dnieper;Kriukove;Kryukove;Kurukove;Kryukovo;Kryukov
+Kristiine|EE||9x|4l2|1wn|9j
+Krasnoznamensk|RU|Moscow Oblast|9i|4ag|2ux|9d|Krasnosnamensk;Krasnoznamjensk;Krasnoznamiensk;Golitsyno-2
+Kampung Kerubong|MY||6v|6e|7w1|8v|Krubong;Kampong Krubong;Kampong Kerubong
+Kreuztal|DE||8r|3xl|m7|8u|Kreuzthal
+Christchurch|GB||9b|3wy|-4y|8q|Kraistčerčas
+Krabi|TH||62|mf|7mr|8o
+Yany Kapu|UA||9t|3jo|2lv|8j|Yañı Qapı;Krasnoperekops’k;Krasnoperekopsk;Bromzavod;Krasno-Perekopsk;Yani Kapu;Jany Kapu
+Krotoszyn|PL|Greater Poland|a5|3zm|1cg|84|Krotošina;Krotošynas;Krotoschin;Krotoshin
+Krimpen aan den IJssel|NL||8m|408|cs|82|Krimpen aan de Yssel;Krimpen aan den Yssel
+Krasnoarmeyskaya|RU||9i|3i1|2y5|82|Krasnoarmeyskoye
+Kraksaan|ID||6l|-lk|8r0|7u|Kraksahan;Kraksan
+Kroměříž|CZ||9m|3sy|1cb|7r|Kremsier;Kromieryż;Kromeržyžas;Kromeržīža
+Le Kremlin-Bicêtre|FR||9k|3rl|6k|7r|Kremlin-Bicêtre
+Khrestivka|UA|Donetsk|98|3pr|2yk|7m|Kirovskoye;Kirovske;Kirowske;Krestovka
+Krč|CZ||9m|3v0|145|7l
+Krasnoural’sk|RU||7z|4i4|4ms|7l|Krasnouralsk
+Krishnāpuram|IN||6t|pf|5wk|7f
+Krishnarājpet|IN||6t|z7|5wh|77
+Krasnoarmeysk|RU|Saratov Oblast|9s|3xq|3iy|76|Krasnoarmejsk;Krasnoarmeisk;Krasnoarmejsk i Saratov oblast
+Krasnoarmeysk|RU|Moscow Oblast|9i|4bu|2xx|75|Krasnoarmejsk;Krasnoarmeisk;Krasnoarmejsk i Moskva oblast;Krasnoarmiejsk
+Kriens|CH||a7|3mn|n1|6y|Krynsas;Krienz
+Královo Pole|CZ||9m|3sr|1a3|6q|Königsfeld
+Krolevets|UA||98|3z7|2kq|6p|Korolevets;Krolovets
+Kristiansund|NO||9j|4vb|lh|6o
+Kamalasai|TH||62|19e|7zq|6i|Komlasai;Kramalasai
+Kroya|ID||6l|-l7|8fh|6h|Kroja
+Krychaw|BY||9g|458|2g3|6e|Krytschau
+Krnov|CZ||9m|3v5|1d6|67|Jägerndorf;Karńůw;Karniów
+Kreuzlingen|CH||a7|3od|pi|64
+Roshal’|RU||9i|4an|32r|64|Rosjal;Krestov Brod
+Trat|TH||62|y0|7ws|60|Krat;Trad
+Berestyn|UA||98|3t6|2qg|5y|Krasnohrad;Krasnohradas;Kostiantynohrad;Berestina;Berestin;Kostjantynohrad;Krasnograd
+Krzyki-Partynice|PL||a5|3xu|1b8|5w
+Kremenets|UA||98|3v6|1zh|5v|Krzemieniec;Kremenez
+Kriva Palanka|MK||9u|398|1q1|5s
+Lyman|UA|Donetsk|98|3s3|2x1|5l|Liman;Krasniy Liman;Krasnîi Lîman;Lõman;Krasnõi Lõman;Krasny Liman;Krasnyy Liman
+Krestovskiy ostrov|RU||9i|4ml|2c2|5k
+Kratié|KH||78|yp|86i|5k|Krati
+Cranendonck|NL||8m|3yi|fj|5k|Kranedonk
+Kröpeliner-Tor-Vorstadt|DE||8r|469|xo|5f
+Krasnystaw|PL||a5|3xm|1sd|5f|Krasnistava;Krasnystavas;Krasnostav
+Kruisfontein|ZA||o|-2mg|1wp|5a
+Krasyliv|UA||98|3tx|22x|59|Krasiłów;Krassyliv
+Kristinehamn|SE||9w|4kr|137|56|Bro
+Krapkowice|PL||a5|3w8|1dx|53|Krapkovicės;Krapkovice;Chrapkowice
+Crimmitschau|DE||8r|3x6|yf|53|Krimmičava;Crimmitshau
+Kriel|ZA||o|-20x|29a|53
+Kronach|DE||8r|3vk|vh|52|Crana
+Krasnovishersk|RU||7z|4nt|4ek|52|Krasnovisjersk
+Kreminna|UA||98|3s9|2y6|51
+Krämpfervorstadt|DE||8r|3xm|uq|4y
+Kronberg|DE||8r|3ve|nn|4x
+Kronberg Tal|DE||8r|3ve|nm|4w
+Kralupy nad Vltavou|CZ||9m|3vk|13r|4u|Kralupy nad Wełtawą
+Kretinga|LT||a3|4b9|1n0|4s|Kretynga;Kretingos;Kratinga
+Krommenie|NL||8m|41u|d8|4s
+Krasnoobsk|RU||75|48k|6ej|4p|Krasnobskas
+Kranzadougou|CI||0|i0|-k0|4m
+Krasnogvardeyskoye|RU|Stavropol Kray|9i|3jc|37c|4i|Krasnogvardejskoje
+Zelenogradsk|RU||96|48o|1kw|4c|Cranz;Zielenogradsk;Zelenoqradsk;Krantas;Zelenogradszk;Kranz;Krants
+Vilnyansk|UA||98|3p7|2qg|46|Sofiyivka;Krasnoarmiyske;Chervonoarmiyske;Villniansk;Vilniansk;Wilnjansk;Viljnjansk
+Krasnyy Kut|RU||9s|3xj|3mh|46|Krasn.Kut;Krasny Kut
+Kruibeke|BE||8t|3y5|bz|44|Cruybeke
+Bachi-Yurt|RU||9i|3c2|3kb|44|Batsji-Jurt;Bwaçin-Yurt;Krasnoarmeyskoe;Pervomayskoe;Bači-Jurt;Pervomayskoye;Krasnoarmeyskoye;Pervomaysk;B‘açin-Yurt
+Krasnohorivka|UA|Donetsk|98|3pc|2w7|43|Krasnogorovka;Krasnogorowka
+Krylovskaya|RU|Krasnodar Krai|9i|3ko|331|42|Krylovskaja
+Krems an der Donau|AT||a2|3qh|17d|41|Krems
+Creutzwald|FR||9k|3sp|im|40|Kreuzwald
+Kraichtal|DE||8r|3sj|o9|40
+Krasnoslobodsk|RU|Volgograd Oblast|a4|3rb|3fu|3z
+Korsør|DK||8y|49p|uy|3z|Krosseyri
+Krālapur|IN||6t|2mg|5rt|3v
+Krupka|CZ||9m|3ws|12i|3t
+Krasnokumskoye|RU||9i|3eq|3cu|3s|Krasnokumskoje
+Krasnogorskiy|RU|Chelyabinsk|7z|47o|4q3|3s|Krasnogorskij
+Kranuan|TH||62|1af|7yc|3r
+Krishnasamudram|IN||6t|tz|62w|3n
+Krzyki|PL||a5|3xv|1b7|3m
+Krymskyi|UA||9t|3h5|2q9|3l|Qırım massivi
+Kraainem|BE||8t|3xa|cf|3k
+Krumbach|DE||8r|3q0|ss|3k
+Český Krumlov|CZ||9m|3rl|13s|3j|Krumau;Böhmisch Krumau;Krummau;Crumlovia;Çeski Krumlov;Krumau an der Moldau;Krummau an der Moldau;Ceske Krumlov
+Krynica-Zdrój|PL||a5|3ta|1m8|3f|Krynica;Kriņicazdroja;Krynica Zdroj
+Krosno Odrzańskie|PL||a5|40l|15y|3e|Crossen an der Oder;Krosno Odžaņske
+Kranichstein|DE||8r|3um|o4|3c
+Digora|RU||9i|3bw|3eo|3c|Kristonghæw
+Kremenki|RU||9i|48h|2v4|3c
+Kronshagen|DE||8r|46y|s0|3b
+Kraskovo|RU||9i|4am|2xi|3a
+Krasnozavodsk|RU||9i|4ct|2y6|39|Krasnosawodsk;Krasnozawodsk
+Krasnobrodskiy|RU||74|46g|6o5|38|Krasnobrodskij
+Krim Krim|TD||17|ox|17w|35
+Kurman|UA||9t|3ie|2na|33|Krasnohvardiyske;Qurman;Krasnohvardiiske
+Kete Krachi|GH||1|ln|-5|32|Kete-Kratschi;Krete Kratschi;Kete-Ktachi
+Yampil|UA|Vinnytsia|98|3q0|26k|32|Iampol;Kremenchuk
+Krasnyy Yar|RU|Astrakhan Oblast|8o|3l9|3qa|31|Krasnyj_jar;Krassnyj-Jar
+Krishnarayapuram|IN||6t|ug|61g|30
+Krasnoslobodsk|RU|Mordoviya Republic|9i|477|3dn|2z|Krasznoszlobodszk
+Králův Dvůr|CZ||9m|3ur|12z|2z
+Kriftel|DE||8r|3v4|nj|2y
+Kralendijk|BQ||3m|xr|-59n|2y|Kralendeikas
+Križevci|HR||a6|3ju|19y|2x|Kőrös;Krisevczi;Križeva
+Krasnoyilsk|UA||98|3pe|1z0|2w|Krasnoïlsk;Crasna
+Krasnozërskoye|RU||75|45z|644|2v|Krasnozerskoje;Krasnosjorskoje;Krasnozjorskoje;Krasnozërskoe;Krasnoziorskoïe;Krasznozjorszkoje;Krasnozörskoye;Krasnozierskoje;Krasnozjorskoe;Krasnozersk
+Kratovo|MK||9u|38w|1pm|2v|Kratova
+Krivyanskaya|RU||9i|3no|33l|2u|Krivjanskaja
+Christianshavn|DK||8y|4an|z0|2t|Kristjánshöfn
+Krasnyy Oktyabr’|RU|Vladimir Oblast|9i|4bw|300|2s|Krasnyj Oktjabr
+Krzeszowice|PL||a5|3va|1ij|2s|Kšešovice
+Rodynske|UA||98|3qb|2vd|2r|Krasnyy Liman;Khutor Liman;Liman;Rodyns’ke
+Kresttsy|RU||9i|4ht|2ic|2p|Krestzy;Krestcy;Kresttsõ;Kresttsey;Krestsy
+Kruszwica|PL||a5|42c|1ex|2n|Krušvica
+Krasnaya Gorbatka|RU||9i|4b8|380|2k
+Krasnogvardeyskoye|RU|Adygeya Republic|9i|3hd|31x|2j
+Krivodanovka|RU||75|491|6dm|2i
+Krushnanandapur|IN||6t|1kk|6nm|2i
+Varissuo|FI||92|4nx|1q4|2g|Kråkkärret
+Kryzhopil|UA||98|3qe|287|2g|Kryjopil;Kryschopil;Kryzjopil;Kryžopil';Kryžopil;Krıjopil;Krzyżopol
+Krompachy|SK||8s|3rv|1m0|2e|Korompa;Krompahi;Krompachi
+Krichim|BG||9v|38t|1vz|2e|Kritschim;Kritchim;Kričim;Krinchim
+Krupki|BY||9g|46w|28y|2b|Kroupki;Krupkos;Krupka
+Kruishoutem|BE||8t|3xe|9t|2a
+Kregbé|CI||0|jd|-b2|29|Kéregbé
+Crozon|FR||9k|3q1|-ch|29|Kroazon;Kraozon;Crathonia
+Krasnokholmskiy|RU||7z|4bj|48x|29|Krasnokholmskij;Kranokholmskiy
+Krasnokutsk|UA||98|3v3|2po|28|Krasnokuts’k
+Krasnoye-na-Volge|RU||9i|4fr|36k|28|Krasnoje-Na-Volge
+Krasnaya Yaruga|RU||9i|3x4|2r2|27|Krasnaja Jaruga;Krasznaja Jaruga;Krasnaja Jaroega
+Krasavino|RU||9i|4pc|3l4|27|Krassawino;Krassavino;Krasawino
+Krapivinskiy|RU||74|48s|6p4|27|Krapivinskij
+Krasnopillya|UA|Sumy|98|3x1|2py|26|Krasnopillia
+Kressbronn am Bodensee|DE||8r|3o8|qo|26
+Krasnaya Polyana|RU|Kirov Oblast|97|4c8|3y2|26|Krasnaja Poljana
+Krinjabo|CI|Comoé District|0|f0|-8x|26|Krindjabo
+Krutinka|RU||76|4bl|5in|26|Krutyinka
+Krasnyy Yar|RU|Volgograd Oblast|a4|3wu|3g9|25|Krasn.Jar;Krasny Jar
+Krasnyy Yar|RU|Samara Oblast|9p|44m|3vz|25|Krasnyj Jar;Kransy-Yar;Krasny Yar
+Kronenwetter|US||2f|3gi|-6wv|24
+Kryve Ozero|UA||98|3p7|2cb|24
+Kremmen|DE||8r|42k|107|24
+Krailling|DE||8r|3pm|vo|23
+Krupina|SK||8s|3qc|1gy|23|Korpona
+Krasnopavlivka|UA||98|3si|2sw|23|Krasnopavlovka
+Kripenskyi|UA||98|3pk|30i|23|Krepenskiy;Kripens’kyy
+Krasnosel’skiy|RU||9i|3i3|34t|22|Krasnoselskij
+Cricova|MD||8x|3my|286|22|Krikova;Krikovo
+Kráľovský Chlmec|SK||8s|3qi|1p2|22|Királyhelmec;Krāļovski Hlmeca;Kraljovski Hlmec;Király-Helmec;Király Helmecz;Kráľovský Chlumec
+Kreiensen|DE||8r|401|ro|22|Kreinssen;Kreinsen
+Kanzra|CI||0|kc|-ha|21|Kranzra
+Krishnapur|IN||6t|1qz|6t7|21
+Krasnye Baki|RU||9i|4ep|3hg|21|Krasnyje Baki;Krasnyye Baki;Krasznije Baki;Krasnıye Baki
+Krasnozatonskiy|RU||9i|4rc|3xm|21|Krasnozatonskij
+Krasnosel’skiy|BY||9g|43y|1vu|21
+Krugloye|BY||9g|46p|2as|21|Kruhlaye;Kruhlaje
+Krýa Vrýsi|GR|Central Macedonia|8p|351|1pz|21|Kría Vrísi
+Kruununhaka|FI||92|4n5|1xc|20|Kronohagen;Kruna;Kruunuhaka
+Kromy|RU||9i|42d|2rd|1z
+Krasnogorskiy|RU|Mariy-El Republic|9i|4bz|3q9|1z|Krasnogorskoye
+Biruch|RU||9i|3wp|2yo|1y|Budennoye;Budennyy;Krasnogvardeyskoye;Krasnogvardejskoje;Biryuch
+Criuleni|MD||8x|3n5|290|1x|Kriyleni;Kriuleni;Kriulen’;Krivleny
+Krško|SI||9a|3jo|171|1x|Krškas;Krshko
+Krylovskaya|RU|Krasnodar Krai|9i|3k3|316|1w|Krylovskaja
+Krasnyy Chikoy|RU||67|3vw|8e4|1w|Krasnyj Tsjikoj;Krasny Chikoy;Krasnoy Chikoy;Krasnyi Chikoi
+Kratovo|RU||9i|4ag|2y2|1w
+Krāslava|LV||9n|4ba|23h|1w|Kruoslova;Krasław;Kraslau;Kreslau;Kreslavka;Kraaslava
+Kravaře|CZ|Moravian-Silesian Region|9m|3up|1e0|1w
+Krutaya Gorka|RU||76|49s|5ne|1w|Krutaja Gorka
+Kranshoek|ZA||o|-2mp|1so|1v
+Krasnogorskoye|RU|Altai Krai|63|41a|6ng|1v|Krasnogorskoje
+Krustpils|LV||9n|4cz|1zu|1v|Kreutzburg;Krustpilis;Krystapiļs;Kryżborg
+Kremsmünster|AT||a2|3ph|139|1u|Cremifanum
+Kramfors|SE||9w|4ut|1de|1u
+Krásno nad Kysucou|SK||8s|3t8|1gb|1u
+Krasnaya Gora|RU||9i|438|2fs|1t|Krasnaja Gora
+Kraslice|CZ||9m|3vs|ys|1s|Graslitz
+Kropp|DE||8r|475|qf|1r|Krop
+Kronoby|FI||92|4x1|1rz|1r|Kruunupyy
+Krzyż Wielkopolski|PL||a5|42w|18h|1r|Krziż;Kšiža Velkopolska;Krzyż
+Krasnyye Barrikady|RU||8o|3kc|3ox|1r|Krasnye Barrikady;Krasnyje Barrikady;Krásnyye Barikady;Krasnıye Barrikadı;Krasnie Barrikadi
+Krasnohirka|UA|Donetsk|98|3rb|2wc|1r
+Krasne|UA|Lviv|98|3un|1wd|1r|Krasnoye
+Kristinestad|FI||92|4sz|1ne|1p|Kristiinankaupunki
+Krasnyy Kholm|RU||9i|4ha|2v4|1p|Krasnyj Kholm;Krasny Kholm;Krasny Cholm
+Krasnapollye|BY||9g|446|2f8|1p|Krasnopol’ye
+Krasnokholm|RU||7z|3zc|46g|1o|Krasny-Kholm;Krasnyy Kholm
+Krivosheino|RU||7r|4fa|6h4|1o|Krivosjeino
+Krivogashtani|MK||9u|36u|1n9|1n|Krivogastani;Krivogaštane
+Krasnoturansk|RU||6u|46w|72d|1m
+Kreuzokoué|CI||0|gv|-f4|1l
+Krasnomayskiy|RU||9i|4g2|2nl|1k|Krasnomajskij
+Kronau|DE||8r|3sq|nz|1k
+Chambarak|AM||80|34s|3hz|1j|Čambarakas;Tjambarak;Ĝambarak;Tšambarak;Čambarak;Czambarak;Krasnoselsk;Mikhaylovka
+Krasnoshchekovo|RU||63|3zj|6dt|1j|Krasnosjtsjekovo;Kraskoshchekovo
+Krokroum|CI||0|eh|-f1|1i
+Krasnoarmeyskoye|RU|Samara Oblast|9p|42g|3uz|1i|Krasnoarmejskoje
+Krotovka|RU||9p|441|3y5|1i|Krowtowka
+Teple|UA||98|3q7|31w|1i|Krasnodon
+Krasnorichenske|UA||98|3sq|2y5|1i|Krasnorichens'ke;Kabannye;Kabannie;Kabane;Kabanje;Kaban’ye
+Krasnyy Yar|RU|Omsk Oblast|76|49g|5ml|1h|Krasnyj Jar;Krasny Jar;Krasnıy Yar;Krasny Yar
+Kryonéri|GR|Attica|8p|2xy|1u7|1h
+Kreuzau|DE||8r|3wz|i1|1h
+Krasnolesnyy|RU||9i|404|31y|1h|Krasnolesnyj;Krasnolesny
+Krumovgrad|BG||9v|377|1z9|1h|Kroumovgrade;Krumowgrad
+Kropachëvo|RU||7z|48t|4h3|1h|Kropatsjevo
+Krusevo|MK||9u|36x|1n1|1g|Krushevo;Krušovo
+Krasnoyarskaya|RU|Rostov|9i|3od|38s|1g|Krasnojarskaja;Krasnoyarskiy
+Krasnosilka|UA||98|3li|2dh|1g|Güldendorf;Krasnosëlka;Gil’dendorf
+Ristiina|FI||92|4qv|23p|1g|Kristina
+Kragerø|NO||9j|4jj|q5|1g
+Krakeel|NL||8m|42g|i3|1f
+Kranenburg|DE|North Rhine-Westphalia|8r|3zu|gq|1f|Cranenburg
+Krokek|SE||9w|4iz|19h|1f
+Krauchenwies|DE||8r|3pe|pp|1e
+Krzemieniewo|PL||a5|402|1ar|1e
+Krum|US||2f|2ke|-7i4|1e
+Crivitz|DE||8r|44t|wd|1e|Krīvica
+Krautheim|DE||8r|3t7|qs|1d
+Krasnyy Bor|RU||9i|4ls|2d7|1d|Krasnyj Bor;Punaporu;Krasny Bor;Krasnıy Bor;Bor;Krasni Bor;Krasnõi Bor
+Crystal City|US|Missouri|2f|2y6|-6z2|1c|Kristalurbo
+Krasnoborsk|RU||9i|4r0|3jl|1c|Krasznoborszk
+Creglingen|DE||8r|3tf|rv|1c|Kreglingen
+Krumë|AL||9y|398|1kp|1c|Kruma
+Kremnica|SK||8s|3rb|1gk|1c|Körmöcbánya;Kremnjica;Kremnitz;Cremnicium;Körmöczbánya
+Krasnokamensk|RU|Krasnoyarsk Krai|6u|46x|772|1c
+Krasnogvardeyskiy|RU||7z|4fe|4t4|1b|Krasnogvardejskij
+Krông Klang|VN||62|1ad|88x|1b
+Kremastí|GR||8p|2t5|264|1b
+Krośniewice|PL||a5|416|1h9|1a|Krosņevice
+Krasnogorodsk|RU||9i|4dv|26m|1a
+Kreischa|DE||8r|3xj|128|19
+Krynychna|UA||98|3pp|2xn|19
+Krasnogorskoye|RU|Udmurtiya Republic|9p|4ga|41u|19|Krasnogorskoje
+Krzepice|PL||a5|3xl|1g1|19|Kšepice
+Krym|RU||9i|3ne|31s|19
+Kraftsdorf|DE||8r|3xc|x5|18
+Krynychne|UA|Odesa|98|3ii|27n|17|Cișmeaua-Văruită;Krynytschne;Krynytchné
+Krang Pongro|KH||78|vt|834|17|Kreang Pongron
+Krasyukovskaya|RU||9i|3o3|33f|17|Krasiukovskaja
+Krasnoarmeyskoye|RU|Chuvash Republic|9i|4ax|3n1|17|Krasnoarmejskoje
+Krutikha|RU||63|45w|69l|17
+Krapina|HR||a6|3k8|183|16|Grabing
+Crasnoe|MD||8x|3lk|2au|16|Krasnoye
+Krasnyy Kommunar|RU||7z|40c|49t|16|Krasnyj Kommunar
+Krooswijk|NL||8m|3zh|cr|15
+Kraiburg am Inn|DE||8r|3pu|yj|15|Kroaburg am Inn
+Kresna|BG||9v|37x|1sb|15
+Králíky|CZ||9m|3v4|1ak|15|Krālīki
+Krasnyy Oktyabr’|RU|Kurgan Oblast|7z|4am|501|15
+Krasnaya Gorka|RU|Bashkortostan Republic|7z|49b|4df|15|Krasnaja Gorka
+Krylbo|SE||9w|4n1|192|15
+Krobia|PL||a5|3zt|1b6|15|Krobja
+Krasnyye Tkachi|RU||9i|4fp|32g|15|Krasnye Tkatsji
+Kröpelin|DE||8r|467|ws|14|Krēpelīne;Kroeplin
+Krostitz|DE||8r|3yy|yl|14
+Krasnoye|RU|Lipetsk Oblast|9i|42u|2zq|14|Krasnoje
+Krasnaya Polyana|RU|Krasnodar Krai|9i|3dc|33o|14|Punase Lageda;Krasnaja Poljana;Krasnaïa Poliana;Clareira Vermelha;Krasnaja Poliana;Krasnaja Poļana;Krasnaya Polâna;Krásnaya Poliana;Krassnaja Poljana
+Kranídi|GR||8p|2vu|1sc|14
+Krasnoyarka|RU||76|49p|5n4|14|Krasnojarka
+Krauschwitz|DE|Saxony|8r|3z4|14v|14|Krušwica
+Krynychky|UA|Dnipropetrovsk|98|3qd|2nq|14|Krynytschky;Krinichki;Krinički;Girnyc'ke;Krynytchky;Krynyčky;Krynyczky;Krînîcikî;Krinichky
+Krasnovka|RU||9i|3rm|33d|14
+Krynychne|UA|Luhansk|98|3p8|32e|14|Biryukove;Biriukove;Biryukovka;Biryukovo
+Krk|HR||a6|3h3|14i|13
+Kroukroubo|CI||0|ie|-ep|13
+Krasnoyarskaya|RU|Rostov|9i|3ny|397|13|Krasnojarskaja
+Kreuzwertheim|DE||8r|3u9|qg|13
+Kruft|DE||8r|3vy|kd|13
+Krasnogvardeyets|RU||7z|42c|41g|12|Krasnogvardejets
+Krasnorechenskiy|RU||7w|3fz|afz|12|Krasnoretsjenskij
+Nova Karakuba|UA||98|3o4|2uz|12|Krasna Polyana;Krasna Poliana;Novaya Karakuba;Novo-Karakuba;Krasnaya Polyana
+Kranichfeld|DE||8r|3x9|v4|12
+Krupanj|RS||8q|3f9|1hs|12
+Krasnaya Polyana|RU|Rostov|9i|3k3|37a|11|Krasnaja Poljana
+Krasnoznamensk|RU|Kaliningrad Oblast|96|48m|1qh|11|Haselberg;Lazdynai;Krasnosnamensk;Krasnoznamjensk;Krasnoznamyonsk;Krasnoznamiensk;Lazdenay
+Krasnoarmeyskiy|RU||9i|3ml|399|11|Krasnoarmejskij
+Kreuth|DE||8r|3oc|wm|11
+Krościenko Wyżne|PL||a5|3u0|1on|11
+Krásná Lípa|CZ||9m|3xf|14b|11
+Krivodol|BG||9v|3ch|1t8|11|Kriwodol;Krivdol
+Krasnogorskiy|KZ||5s|415|54s|10
+Krajenka|PL||a5|442|1b7|10
+Kralenriede|DE||8r|41b|t9|10
+Kryva|UA|Zakarpattia|98|3pf|1tv|z
+Kryukivschina|UA||98|3vx|2cd|z|Kriukivshchyna;Kryukivshchyna
+Krasnoye|RU|Krasnodar Krai|9i|3lu|31x|z|Krasnoje
+Krasne|PL|Subcarpathia|a5|3v2|1pd|z
+Krościenko nad Dunajcem|PL||a5|3tc|1kr|z
+Krumpendorf|AT||a2|3lj|13i|z
+Krakow am See|DE||8r|451|y3|z|Krakovamzē
+Kralovice|CZ||9m|3uu|11h|z
+Krohon|CI||0|ez|-hy|y|Kroon
+Krasnoye|RU|Kuzbass|74|47p|6l7|y|Krasnoje
+Krasnogorsk|RU|Sakhalin Oblast|7f|3qh|ayp|x
+Krasnyy Oktyabr’|RU|Saratov Oblast|9s|3z6|3iy|x|Krasn.Oktjabr
+Krasnyi Yar|UA||98|3r5|31g|x|Krasnyy Yar
+Krechevitsy|RU||9i|4iu|2f8|x|Kretsjevitsy;Kretjevitsy
+Kruglolesskoye|RU||9i|3g2|3ax|w|Kruglolesskoje;Kruglolyesskoe
+Kribléguhé|CI||0|iv|-hc|w|Kriblégué
+Krasnyy Kurgan|RU||9i|3e2|3ad|w|Krasnyj Kurgan
+Crach|FR||9k|3oa|-8c|w|Krac'h
+Krasnoyarskiy|RU||7z|40d|4me|w|Krasnojarskij
+Kremikovtsi|BG||9v|3au|1ta|w|Kremikovtzi
+Kraczkowa|PL||a5|3v0|1pl|w
+Kryzhanivka|UA||98|3lc|2dj|w|Kryzjanivka;Kryschaniwka;Križaņivka;Krıjanivka;Kryzhanovka
+Krölpa|DE||8r|3ws|w2|w
+Krasnyy Tkach|RU||9i|4a3|30k|w|Krasniy Tkach
+Krishnapur|BD||6a|1wl|71e|w
+Qrendi|MT||9e|2rj|146|v|Crendi;Krendis;Krendi
+Jarovce|SK||8s|3pi|1bj|v|Horvathjarfalu;Horbátjárfalu;Kroatisch Jahrndorf;Hrvatski Jandrof;Horvátjárfalu
+Kritzmow|DE||8r|465|xh|v
+Krasnyy Yar|RU|Tomsk Oblast|7r|4ep|6it|v|Krasnyj Jar;Krasny Yar
+Krasnaya Poyma|RU||9i|48s|30k|v|Krasnaja Pojma
+Kreva|BY||9g|46v|211|v|Krevo;Krewo
+Krasna|UA|Ivano-Frankivsk|98|3qx|1wm|v
+Krasnyy Yar|RU|Saratov Oblast|9s|3zf|3ky|v|Krasn.Jar;Krasni-Yar
+Krasnaya Polyana|RU|Krasnodar Krai|9i|3h5|366|v|Krasnaja Poljana
+Krasnyy Gulyay|RU||9z|463|3q9|v|Krasnyj Guljaj
+Krasnobród|PL||a5|3wf|1sh|v
+Krepuska Géza-telep|HU||8v|3np|1hc|v
+Krieglach|AT||a2|3o3|178|v|Kriaglåch
+Krasnotorka|UA||98|3r9|2w9|v|Krasnogorka
+Königstein|DE|Saxony|8r|3xg|133|u|Kralowc;Kēnigšteina;Koenigstein
+Krasnogorskiy|RU|Kuzbass|74|47j|6no|u|Krasnogorskij
+Křemže|CZ||9m|3ru|13r|u
+Krasnyi Kut|UA||98|3pw|2zs|u|Krasnyy Kut
+Krugloozërnoye|KZ||77|3xw|3yh|u|Krūgloozernoe;Krūgloozyornoe;Krugloozërnyy;Krugloozerni
+Krasna|UA|Zakarpattia|98|3pz|1ui|u|Tarackraszna
+Krasnyye Chetai|RU||9i|4ap|3k6|u|Krasnyye Chetay
+Krinídes|GR||8p|35x|1vi|t|Krinídhes
+Kryva|UA|Zakarpattia|98|3pt|1sk|t|Nagykirva;Tiszakirva;Kriva
+Krasnaye|BY||9g|46o|238|t|Krasnoye;Kasnoye;Krasne;Krasnaje
+Krasne|UA|Kherson|98|3k5|2j1|t|Krasnoye
+Kruunuvuorenranta|FI||92|4n5|1xi|t|Kronbergsstranden
+Krčedin|RS||8q|3he|1jx|t
+Kran|BG||9v|3aj|1yi|s|Krön;Kren;Krŭn
+Krásnohorské Podhradie|SK||8s|3r5|1l8|s
+Krasna Zor'ka|UA||9t|3hd|2mk|s|Krasnaya Zor’ka;Krasna Zorka;Qaraça Qañğıl
+Krikoréa I|CI||0|io|-if|s
+Kryve Ozero Druhe|UA||98|3p5|2cb|s|Kryvé Ozéro Drouhé
+Krozalié|CI||0|j1|-mn|s|Krozialé
+Cruz Bay|VI||53|1ex|-4zz|r|Kruz Buyu;Cruzbay;Cruxbay;Crux Bay
+Krychovo|UA||98|3pv|1th|r|Krichovo;Krichëvo;Krychove
+Kriebstein|DE||8r|3xs|106|r
+Krynki|PL||a5|43y|1u1|r|Krinkai;Krinki
+Krókos|GR||8p|33u|1om|r
+Krzemienica|PL||a5|3v2|1pm|r
+Krofensou|CI||0|m2|-ek|q
+Kritsá|GR||8p|2po|1z8|q
+Kremperheide|DE||8r|45p|qc|q
+Krupski Młyn|PL||a5|3wh|1fq|q
+Crosshaven|IE||8z|3zw|-n2|q|Bun an Tábhairne;Kroshavenas
+Caprarica di Lecce|IT||9o|33u|1eo|q|Caprarica;Kraparaka
+Krousón|GR||8p|2pv|1xe|q|Kroussón
+Bjørnevatn|NO||9j|5dj|2bb|p|Kruuvakylä;Guovžajávri;Björnevand
+Kremidivka|UA||98|3lt|2di|p|Krémydivka;Kremidovka
+Krasnaya Gorka|RU|Nizhny Novgorod Oblast|9i|49v|3k3|p|Sobachiy Ostrov;Krasn.Gorka
+Krajišnik|RS||8q|3i9|1ll|p
+Crombach|BE||8t|3vm|gv|p|Krombach;Grombac
+Krížová Ves|SK||8s|3sn|1kx|p
+Kritzendorf|AT||a2|3q9|19a|p
+Krempe|DE||8r|45k|qd|o
+Krasnaya Pahra|RU||9i|49z|2vj|o
+Kryry|CZ||9m|3vd|11b|o|Kriegern
+Kraljevica|HR||a6|3hr|14h|o|Porto Re;Kraljevjca
+Krestovo-Gorodishche|RU||9z|46i|3r2|o|Krestovo-Gorodisjtsje;Krestovoye Gorodishche
+Krmelín|CZ||9m|3u5|1eo|o
+Krasnyy Bereg|BY||9g|445|2bv|o|Krasny Bereg
+Krasnoye|RU|Belgorod Oblast|9i|3xh|2zg|o|Krasnoje;Krasnaya
+Krasnyy Klyuch|RU||7z|49v|4dd|n
+Zlatibor|RS||8q|3dh|1iq|n|Kraljeve Vode;Kraljeva Voda
+Krauchthal|CH||a7|3ml|l1|n|Krauchtal
+Crossac|FR||9k|3np|-61|n|Kraozieg;Kroazieg
+Kraskino|RU||7w|3an|a3a|n
+Kröv|DE||8r|3uu|jo|n
+Krumbach Markt|AT||a2|3o0|18z|n
+Krakeelrivier|ZA||o|-2ly|1ty|n|Krakeel River
+Kráľová pri Senci|SK||8s|3pw|1ch|n|Királyfa
+Kravassou|CI||0|he|-d3|m
+Flexbury|GB||9b|3x8|-cm|m|Kruglin
+Korobo|CI||0|lf|-8m|m|Krobo
+Fertőrákos|HU||8v|3ok|1a9|m|Kroisbach
+Krombach|DE||8r|3v4|pl|m
+Krhová|CZ||9m|3th|1e0|m
+Serhiivka|UA|Poltava|98|3w0|2lr|m|Krasnoznamenka
+Krzanowice|PL||a5|3uy|1ec|l|Kšanovice;Krzonowice
+Krokeés|GR||8p|2ug|1qn|l
+Kromberk|SI||9a|3jo|11z|l|Moncorona;Komberg
+Krivtsovo|RU||9i|4bz|2ug|l
+Kuchak|AM||80|34k|3fb|l|K’uch’ak;Quchak;Krchak
+Krémouyé|CI||0|dk|-io|l|Krémoué
+Krün|DE||8r|3nz|vc|k
+Krobopa|CI||0|hl|-gk|k|Korobopa
+Kraljevec Kupinečki|HR||a6|3iw|181|k|Kupinečki Kraljevec;Kraljevec Kupinički
+Krizabayo|CI||0|ht|-hp|k|Krizabahio
+Křelov-Břuchotín|CZ||9m|3tt|1br|k
+Krzyżanowice|PL||a5|3uu|1er|k
+Krabalilié|CI||0|gf|-gb|k
+Krebs|US||2f|2p1|-7dw|k
+Krokom|SE||9w|4vx|145|k
+Kriel Power Station|ZA||o|-20z|291|j
+Krutoiarivka|UA||98|3ks|2au|j|Moldova;Moldavka;Krutoyarovka;Krutoyarivka
+Kripayo|CI||0|gz|-gz|j|Kripahio
+Krzczonów|PL|Lesser Poland|a5|3u6|1jc|j
+Krzyszkowice|PL||a5|3uk|1jc|j
+Kouakro|CI|Comoé District|0|ih|-cc|j|Krouakro
+Kruhlyk|UA|Chernivtsi|98|3qd|21h|j|Krouhlyk;Cruglic
+Kröslin|DE||8r|46c|127|j
+Crevin|FR||9k|3p6|-4m|j|Kreven
+Christiansted|VI||53|1db|-4zr|j|Christianstadt;Kristiansted;Christianstad;Christianstaed;Christianstoed
+Kréstena|GR||8p|2wf|1o2|j|Kréstaina
+Křižanov|CZ||9m|3t7|18r|i|Křižanau
+Kráľová nad Váhom|SK||8s|3pt|1dk|i
+Krymskoye|UA||9t|3hj|2lw|i
+Krymne|UA|Volyn|98|3z3|1vg|i|Krymno
+Kranskop|ZA||o|-28h|2dr|i|Krantzkop
+Krasnaya Zarya|RU||9i|42m|2wp|i|Krasnaja Zarja
+Krośnice|PL||a5|3z0|1c8|i
+Krížovany nad Dudváhom|SK||8s|3q9|1d3|i
+Kruisland|NL||8m|3z9|c9|i
+Kropotkin|RU|Irkutsk Oblast|6k|4ij|8wc|i|Krapotkin
+Krymskaya Roza|UA||9t|3h6|2ng|i
+Kramerhof|DE||8r|46z|109|h
+Křenovice|CZ||9m|3si|1ar|h
+Kronburg|DE||8r|3p2|s8|h
+Ivanivs'ke|UA||98|3qx|2xc|h|Krasnoye;Krasnoe;Iwaniwske;Iwaniwssjke;Iwaniwss'ke;Stoupky;Stoupki;Stupki
+Krosno|PL|Greater Poland|a5|412|1ar|h
+Krushari|BG||9v|3dq|254|h|Krušari
+Kralice na Hané|CZ||9m|3te|1bq|h
+Kramsk|PL||a5|416|1f6|h
+Kroczyce|PL||a5|3wg|1id|h
+Criciova|RO||8u|3ir|1pb|h|Kricsova;Cliciova
+Khrestivka|UA|Kherson|98|3kw|2lo|h|Chrestiwka;Hrestivka;Krestovka
+Kroppenstedt|DE||8r|40a|vf|h
+Krummennaab|DE||8r|3uf|xm|h|Krumennaab
+Krugerville|US||2f|2kg|-7hf|h
+Krauthausen|DE||8r|3xq|sj|h
+Krasnyi Mak|UA||9t|3g0|2lu|h
+Krymske|UA||98|3rf|2zr|h|Krymskoye;Kryms’ke;Krymskaya
+Krakowiec-Górki Zachodnie|PL||a5|470|1g3|h
+Kridakozahio|CI||0|hn|-ha|h
+Crauthem|LU||9c|3tm|h3|g|Krautem;Krauthem
+Krucemburk|CZ||9m|3u1|181|g
+Krzywiń|PL||a5|40c|1aq|g|Kšiviņa
+Krzeszów|PL|Lesser Poland|a5|3u8|1i5|g
+Kronstorf|AT||a2|3pq|146|g
+Krasnofarfornyy|RU||9i|4ka|2gh|g|Krasnofarfornyj;Krasnofarforny
+Križ|HR||a6|3iv|19w|g
+Kremenchug-Konstantinovskoye|RU||9i|3dn|3d9|g|Krementsjug-Konstantinovskij;Kremenchugo-Konstantinovskoye
+Kraszewice|PL||a5|3z4|1em|g
+Krautergersheim|FR||9k|3qo|l1|g|Krüterrische
+Kromsdorf|DE||8r|3xo|vl|g
+Créhen|FR||9k|3qv|-65|g|Krehen
+Kryva Balka|UA|Odesa|98|3kb|2b1|g|Cair;Caira
+Tremblay|FR||9k|3qi|-44|g|Kreneg
+Krainykovo|UA||98|3po|1t5|g|Kraynykove;Kraynykovo;Kraynikovo
+Krikouma|CI||0|kl|-ku|g|Kukouma;Krikumu
+Crespières|FR||9k|3rs|5c|g|Krepjēra
+Crécy-en-Ponthieu|FR||9k|3vl|58|f|Kresčak;Creciacum;Carcy-in-Pontiu;Crécy-en-Ponthie
+Krigambo|CI||0|jt|-g5|f|Kriganbo;Krimabo
+Krastë|AL||9y|372|1k4|f|Krasta
+Krummesse|DE||8r|45e|tk|f
+Kroufian|CI||0|fc|-cl|f
+Kruså|DK||8y|48d|q4|f
+Krzeszów|PL|Lower Silesia|a5|3wx|18n|f|Grüssau
+Krutyi Bereh|UA||98|3tu|2o4|f
+Krymka|UA|Crimea|9t|3iy|2mz|f
+Crinitz|DE||8r|3zp|129|f|Krynica
+Kramarzówka|PL||a5|3ui|1qi|f
+Krzywaczka|PL||a5|3ul|1j3|f
+Krupske|UA|Lviv|98|3te|1ur|f|Krupsko;Krups’ke;Krupskoye
+Kryva Balka|UA|Mykolaiv|98|3mg|2gd|f
+Krasnyy Profintern|RU||9i|4ge|34c|f|Krasnyj Profintern;Krasny Profintern
+Krzczonów|PL|Lublin|a5|3xp|1r3|f
+Kremmling|US||2p|33a|-87j|f
+Krakovany|SK||8s|3r1|1db|f
+Krzeczów|PL||a5|3uv|1kx|f
+Krummenau|CH||a7|3n9|ph|f
+Krasnyy Luch|RU||9i|4ej|2bl|f|Krasnyj Lutsj
+Krest’yanovka|UA||9t|3j0|2ma|f
+Kraggenburg|NL||8m|42a|ge|e
+Krasnogvardeyskoye|UA||9t|3hi|2p3|e
+Kranjska Gora|SI||9a|3l2|12a|e
+Podolí|CZ|South Moravian|9m|3sn|1ag|e|Kritschen
+Krośnica|PL||a5|3td|1ki|e
+Krzeszyce|PL||a5|422|15p|e
+Krzywda|PL||a5|3zw|1po|e
+Krzyżowa|PL||a5|3tr|1hq|e
+Krzęcin|PL|Lesser Poland|a5|3uq|1iu|e
+Krouna|CZ||9m|3u9|18j|e|Krauna
+Krasne|UA|Odesa|98|3k4|299|e|Crasna;Krasna;Krasny;Krasnoye
+Křešice|CZ||9m|3wc|13h|e
+Kruhloozerka|UA||98|3k5|2hz|e
+Krapivna|RU||9i|45u|2v8|e|Krepiwna
+Kremsdorf|AT||a2|3pw|13m|e
+Kropstädt|DE||8r|40c|zf|e
+Kryspinów|PL||a5|3v0|1j0|e
+Křinec|CZ||9m|3vm|162|e
+Kryry|PL||a5|3uy|1g9|d
+Kraniá Elassónas|GR||8p|32z|1p1|d|Kranéa Elassónos
+Krivaya Ruda|UA||98|3so|2lo|d
+Kryva Ruda|UA||98|3tj|2jm|d|Krivaya Ruda
+Krynica Morska|PL||a5|472|1i0|d|Łësô Góra - Lëpa;Kriņica Morska;Kryniza Morska
+Kretzschau|DE||8r|3xt|xj|d
+Kruty|UA||98|3xu|2h7|d|Krutai;Krutî
+Krynychanske|UA||98|3qz|2zn|d|Chervonohvardiys’ke;Chervonohvardiiske
+Krasica|HR||a6|3hv|14g|d
+Kríkellos|GR||8p|307|1mu|d|Kríkelo;Kríkellon
+Krinjabo|CI|Lacs District|0|k5|-b1|d
+Křepice|CZ||9m|3s4|1ag|d
+Krasnopol|PL||a5|46c|1sg|d|Krasnapolio valsčius
+Krasnosielc|PL||a5|43b|1ms|d
+Kryvichy|BY||9g|47z|23t|d|Krivichi;Kryvičy
+Krivaja|RS||8q|3fr|1if|d
+Königshain|DE||8r|3y6|15b|d|Kralowski haj
+Krumvíř|CZ||9m|3s3|1az|d
+Krušopek|MK||9u|38o|1na|d|Krushapek
+Kragbron|ZA||o|-22r|25h|d
+Kropyvna|UA||98|3tw|2hc|d|Kropivna;Krapivna
+Krapinske Toplice|HR||a6|3k1|180|d
+Krupa na Vrbasu|BA||9r|3fy|1bm|d|Krupa prie Vrbaso
+Krithiá|GR||8p|35g|1ru|d|Krithéa
+Krutky|UA||98|3to|2hi|c|Krut'ki;Krut’ky
+Khreshchatytske|UA||98|3n7|2xd|c|Khreshchatskoye;Krasnoarmiyske;Chreschatyzke;Chreschtschatyzke;Chreščatyc'ke;Khrechtchatyts'ke;Khrechtchatytskè;Chresjtsjqtytske;H'reštšatske;Hreštšatõtske;Krasnoarmiiske
+Kremenchuky|UA||98|3ud|22y|c|Kremenchugi;Kremenchuki
+Krasňany|SK||8s|3sp|1gh|c
+Krasnyy Yar|RU|Altai Krai|63|41g|6l2|c|Krasnyj Jar;Krasny Yar
+Krotoshyn|UA||98|3u7|1uw|c
+Khrestyteleve|UA||98|3u5|2ic|c|Krestitelevo
+Krottendorf bei Ligist|AT||a2|3mm|16a|c
+Krymka|UA|Mykolaiv|98|3p6|2dg|c
+Krotz Springs|US||2f|2cu|-72v|c
+Krasnoznamenka|UA||9t|3ht|2mg|c
+Kriebitzsch|DE||8r|3xq|y9|c
+Krasne|UA|Mykolaiv|98|3m2|2f8|c
+Krasnyy Oktyabr’|RU|Vladimir Oblast|9i|4bu|36y|c|Krasnyj Oktjabr
+Krickenbach|DE||8r|3t5|lb|c
+Krissérahio|CI||0|hb|-h3|c
+Krrabë|AL||9y|36i|1jh|c|Krraba;Kërrabë;Kërraba
+Kruhliakivka|UA||98|3tl|2wr|c|Kruhlyakivka;Kruglyakovka
+Krumegg|AT||a2|3mm|17f|c
+Krakovets|UA||98|3us|1sc|c|Krakowiec;Krakowitz;Krakovec;Krakoveț
+Krasnokamyanka|UA|Crimea|9t|3gs|2pg|c|Krasnokamianka;Qızıltaş;Kiziltash;Feodosiya-13;Feodosia-13;Kyzyltash
+Kruisberg|NL||8m|3xi|gl|c
+Krasna Luka|UA||98|3w4|2me|b|Krasnaya Luka
+Krasnoflotskoye|UA||9t|3hw|2p3|b
+Krumpa|DE||8r|3yi|ww|b|Crumpa
+Krebeck|DE||8r|3za|s4|b
+Krumnussbaum|AT||a2|3px|164|b|Krummnußbaum
+Krog|SI||9a|3lk|18u|b|Korong
+Kröppelshagen-Fahrendorf|DE||8r|44l|so|b
+Krasocin|PL||a5|3xd|1jw|b
+Krakro|CI||0|kx|-8r|b
+Kriegstetten|CH||a7|3n1|l4|b|Kriegstten
+Kriegsfeld|DE||8r|3u3|m0|b
+Kráľovičove Kračany|SK||8s|3pb|1cr|b|Kráľovicove Korčany
+Hermanivka|UA||98|3uv|2cw|b|Germanovka;Krasne-2
+Kruklanki|PL||a5|469|1ow|b
+Kryvushi|UA||98|3sd|2kn|b|Krivushi
+Cremenciug|MD||8x|3lr|2af|b|Kremenchug
+Kremenivka|UA||98|3nh|2w4|b|Kremenëvka
+Krásná Hora nad Vltavou|CZ||9m|3ts|13o|b
+Krani|MK||9u|35q|1mn|b|Hrani
+Krasnopillya|UA|Mykolaiv|98|3m6|2et|b|Krasnopillia
+Krasna Talivka|UA||98|3rq|32p|b
+Krou Okoukro|CI||0|kg|-dz|b|Kro-Okoukro
+Metsälä|FI||92|4na|1xa|b|Krämertsskog
+Krutenky|UA||98|3qd|21r|b|Tulbureni;Kruten’ki;Tulburen’
+Křenice|CZ||9m|3uz|14r|b
+Krasnolissya|UA||9t|3gj|2n3|b|Krasnolissia;Tavel
+Krasenivka|UA||98|3ue|2i0|b|Krasenovka
+Kruth|FR||9k|3p5|jc|b|Krüt
+Krasnokamyanka|UA|Crimea|9t|3fs|2n9|b|Krasnokamianka
+Krasnaya Polyana|UA|Crimea|9t|3ic|2ji|a
+Krynychky|UA|Mykolaiv|98|3mr|2g5|a
+Krumbach|AT||a2|3nw|rm|a
+Koukkuniemi|FI||92|4n3|1ws|a|Krokudden
+Krzyżowice|PL|Silesia|a5|3uv|1fv|a
+Krasne|UA|Crimea|9t|3he|2mp|a
+Krupoderyntsi|UA||98|3uo|2ia|a|Krupoderintsy;Krupoderentsy
+Krzeczowice|PL||a5|3uv|1qe|a
+Krasnyy Bogatyr’|RU||9i|4bl|369|a|Krasnyj Bogatyr
+Kryvorizhzhya|UA||98|3qk|2uj|a|Krivorozh’ye;Kryvorizhzhia
+Kristdala|SE||9w|4fg|190|a
+Krasna Kosa|UA||98|3kp|2bm|a|Krasna Kossa;Roșia
+Kralice nad Oslavou|CZ||9m|3so|190|a
+Kružlov|SK||8s|3sz|1mp|a
+Krébio-Adoumkrom|CI||0|lo|-7y|a
+Krasnen’koye|UA||98|3pp|2c9|a|Krasnenké
+Krasne|PL|Mazovia|a5|430|1m9|a
+Krivopol’ye|UA||98|3pw|1wm|a|Kryvopol’ye
+Krzywa|PL|Subcarpathia|a5|3v6|1od|a
+Kroumokroum|CI||0|l9|-8m|a
+Kraubath an der Mur|AT||a2|3ne|15h|a
+Krukenychi|UA||98|3u1|1sc|a|Krukienice;Krukenichi;Krukenich
+Kryonéri|GR|Central Macedonia|8p|35d|1so|a
+Krynky|UA||98|3lt|2jw|a|Krynki
+Semianivka|UA||98|3ty|2o3|a|Krotenky;Kratenki;Krotenki
+Kristóni|GR||8p|35s|1ri|a|Kristón
+Kronprinzenkoog|DE||8r|45x|ox|a
+Krasnyy Oktyabr’|UA||98|3q1|2y4|a
+Kreimbach-Kaulbach|DE||8r|3tn|l7|a
+Kruszyna|PL||a5|3xl|1hk|a
+Kramolna|CZ||9m|3w2|18u|a
+Kruševo|HR||a6|3eq|17h|a
+Kropáčova Vrutice|CZ||9m|3vt|14w|9
+Krembz|DE||8r|451|uq|9
+Krčevina pri Vurbergu|SI||9a|3l4|17x|9
+Kropyvnytske|UA||98|3pr|2g6|9|Beshbayraky;Bezhbayraki
+Crane|BB||22|10e|-4l5|9|Kren;Krayn
+Kraemer|US||2f|2az|-6zr|9
+Kráľ|SK||8s|3q9|1ki|9
+Krušetnica|SK||8s|3t6|1hq|9
+Kranevo|BG||9v|3ce|25y|9|Kranewo
+Krasnohorivka|UA|Poltava|98|3u0|2lq|9|Krasnogorovka;Krasnogor’yevka
+Krosigk|DE||8r|3zd|x5|9
+Khreshchatyk|UA||98|3r3|1zi|9|Kryshchatyk;Kreshchatik
+Krinichnoye|UA||9t|3h2|2o5|9
+Križe|SI||9a|3kq|13q|9
+Lyps'ke|UA||98|3pk|2xz|9|Krasnyy Oktyabr;Krasnyy Oktyabr’;Krasnyi Oktiabr
+Krattigen|CH||a7|3lm|lh|9
+Krabčice|CZ||9m|3w1|13q|9
+Krodio|CI||0|d5|-kt|9
+Kropotkino|UA||9t|3j8|2l0|9
+Kropfing|AT||a2|3pl|12m|9
+Crivina|RO|Mehedinți County|8u|3fn|1qp|9|Krivina
+Krimml|AT||a2|3n6|xt|9|Krimmö
+Krayneye|UA||9t|3hn|2lz|9
+Krottendorf|AT||a2|3n4|17f|9
+Krajková|CZ||9m|3vi|yt|9
+Krukira|NI||3s|13d|-6ff|9
+Novoselivka|UA|Donetsk|98|3rm|2w3|9|Krasnoarmeysk;Krasnoarmeyskoye;Krasnoarmyis’ke;Nowosseliwka;Nowoseliwka;Novosselivka
+Krasnyy Mayak|RU||9i|4bp|36x|9|Krasnyj Majak
+Krivets|RU||9i|42v|339|9
+Christiania|DK||8y|4an|z0|9|Kristiania;Kristjanía;Kristijanija
+Krien|DE||8r|45j|11d|8|Crien
+Kruta Balka|UA||98|3t0|2od|8|Krutaya Balka
+Kríni|GR||8p|322|1p5|8
+Cranz|DE||8r|44q|r6|8|Kranz
+Krasnohirka|UA|Kirovohrad|98|3q8|2cl|8
+Krušeani|MK||9u|36r|1nb|8
+Krzykawka|PL||a5|3vr|1hy|8
+Krasnaya Polyana|UA|Crimea|9t|3ib|2mt|8
+Krasnogorka|UA||9t|3hp|2rh|8
+Krhanice|CZ||9m|3ui|14g|8|Krhanitz
+Křižanovice|CZ||9m|3si|1b2|8
+Kreamer|US||48|35c|-5xs|8|Kremer
+Kruti|UA||98|3p8|294|8|Krouti
+Křtiny|CZ||9m|3sy|1ai|8|Kiritein
+Krekhiv|UA||98|3v1|1u6|8|Krechów;Krehīv;Krekhuv;Krekhov
+Kroupikro|CI||0|ko|-8f|8
+Krotivshchyna|UA||98|3u9|2ld|8|Krotovshchina
+Kruševica|HR||a6|3h8|1fc|8
+Krzykosy|PL||a5|40r|1c9|8
+Kropa|SI||9a|3km|13g|8
+Kreutern|AT||a2|3ok|11r|8
+Kristein|AT||a2|3py|145|8
+Kranenburg|DE|Lower Saxony|8r|44x|pl|8
+Kreuzebra|DE||8r|3yn|sh|8
+Crosbies|AG||1j|1bp|-4rq|8|Kraazbee
+Kretz|DE||8r|3w0|kg|8
+Krottelbach|DE||8r|3tf|kd|8
+Krokowa|PL||a5|486|1eg|8|Krokowo
+Krayabo|CI||0|jz|-dp|8
+Kroppen|DE|Brandenburg|8r|3yq|12c|8|Kropnja
+Krosinko|PL||a5|413|1ap|8
+Krínes|GR||8p|2xh|1r8|8
+Kröppen|DE|Rheinland-Pfalz|8r|3sj|kx|8
+Krakovany|CZ||9m|3v3|16p|8|Krakowan
+Krionérion|GR||8p|2xg|1qw|8|Kryoneri
+Krasnoarmeyskoye|UA||9t|3jr|2mj|8
+Krössenbach|AT||a2|3nc|zm|8
+Krásný Dvůr|CZ||9m|3vl|115|8
+Krina|DE||8r|3zh|yp|8
+Krushovene|BG||9v|3d8|1vs|8|Krušovene;Krouchovéné;Kruschowene;Krushevene
+Krupyanske|UA||98|3ps|20f|8|Kroupianské;Pasat
+Kryvonosivka|UA||98|3ua|2hp|7
+Krzęcin|PL|West Pomerania|a5|43g|171|7
+Kresnice|SI||9a|3k2|153|7
+Kravaře|CZ|Liberec Region|9m|3wn|13z|7
+Krymne|UA|Volyn|98|3zi|1xy|7|Krymno
+Krtina|SI||9a|3k7|14p|7
+Kryopigí|GR||8p|338|1t7|7|Kriopigi;Kriopiyí
+Krummwisch|DE||8r|46y|ri|7
+Krzeszów|PL|Subcarpathia|a5|3w0|1q2|7
+Královské Poříčí|CZ||9m|3vf|z8|7
+Kremna|RS||8q|3ds|1id|7
+Krchleby|CZ||9m|3vk|15q|7|Skrchleb
+Krokokro|CI||0|ig|-d9|7
+Kraniá|GR|Thessaly|8p|31l|1on|7|Kranéa
+Krébio-Kessié|CI||0|lq|-7x|7
+Krklino|MK||9u|363|1n9|7
+Kraftisried|DE||8r|3oq|t3|7
+Karlivka|UA|Kirovohrad|98|3qk|2h2|7|Krupske;Karlovka;Krupskoye
+Krmelj|SI||9a|3jq|167|7
+Królewo|PL||a5|47g|1aa|7
+Kravany nad Dunajom|SK||8s|3oo|1fc|7
+Kriva Feja|RS||8q|3a8|1pl|7|Krivafeja
+Krüden|DE||8r|430|wh|7
+Křečovice|CZ||9m|3u4|148|7
+Dolynske|UA|Zaporizhzhia|98|3or|2p2|7|Kronstal’;Dolyns’ke;Dolinsk
+Kryonéri|GR|East Macedonia and Thrace|8p|35y|1vq|7
+Krauszów|PL||a5|3tf|1jg|7
+Kress|US||2f|2nh|-7un|7
+Králiky|SK||8s|3rd|1gw|7
+Królewiec|PL||a5|410|1nw|7
+Krasny Partizan|UA||9t|3i4|2n2|7
+Kranéa|GR||8p|311|1ln|7|Kraniá
+Krébio-Domiambra|CI||0|lm|-7z|7
+Křivoklát|CZ||9m|3v0|12j|7|Pürglitz
+Krunkel|DE||8r|3wi|ku|7
+Krásná|CZ|Moravian-Silesian Region|9m|3tq|1fc|7
+Kronenberg|NL||8m|3yu|go|7
+Krásno|CZ||9m|3v7|zj|7
+Krempel|DE||8r|46w|p3|7
+Kroppach|DE||8r|3wu|li|7
+Krombeke|BE||8t|3xf|7h|7|Crombeke
+Kryvbas|UA||98|3p5|2ju|7|Krivbass
+Krasna|PL||a5|3ua|1op|7
+Kruhlyk|UA|Luhansk|98|3q7|30q|7
+Křižany|CZ||9m|3wy|15f|7
+Krasnoye|RU|Moscow Oblast|9i|477|2zc|7|Krasnoje
+Kriegsheim|FR||9k|3rg|lh|7
+Krasiatychi|UA||98|3xw|2ac|6|Krasjatychi;Krasjatytši;Krasyatichi;Krassiatytchi;Krasjatõtši;Krasjatyči;Krasâtıçi;Krasiatyczi;Kraseatîci;Krusyatichi;Krasyatychi
+Krasne|PL|Lublin|a5|3xa|1sd|6
+Krupske|UA|Cherkasy|98|3u2|2hh|6|Krups’ke
+Oleksandrivka|UA|Kherson|98|3km|2gy|6|Krasnoznamianka;Krasnoznamenka
+Krensdorf|AT||a2|3or|19l|6|Tormafalu;Kreništof
+Krasne-Lasocice|PL||a5|3ud|1k7|6
+Cruguel|FR||9k|3p0|-78|6|Krugell
+Krasna Hora|UA||98|3r6|2xm|6
+Krásná|CZ|Carlsbad Region|9m|3vj|xt|6|Schönbach bei Asch
+Krzyżowice|PL|Opole Voivodeship|a5|3x5|1ci|6
+Krasne|UA|Poltava|98|3sc|2n6|6|Krasnoye
+Krasne|UA|Poltava|98|3tj|2qd|6|Krasnoye
+Krasnoyarskoye|UA||9t|3if|2kf|6
+Krauschwitz|DE|Saxony-Anhalt|8r|3y0|x9|6
+Sontsivka|UA||98|3ph|2vb|6|Krasne;Santsovka;Sontsovka;Solntsevka;Krasnoye;Soncivka
+Kremnevka|UA||9t|3ib|2mp|6
+Kreileroord|NL||8m|42s|e4|6|Kreileroard
+Krušovice|CZ||9m|3vd|12a|6
+Krackow|DE||8r|446|13m|6
+Krahulčí|CZ||9m|3sm|16t|6
+Křesetice|CZ||9m|3un|16e|6
+Krakaudorf|AT||a2|3n2|12y|6
+Kraniá|GR|West Macedonia|8p|32u|1n4|6|Kranéa
+Krasnovka|UA||9t|3gy|2n5|6
+Kroué Golikro|CI||0|jw|-cz|6|Kroué-Ndolikro
+Kraljev Vrh|HR||a6|3jm|187|6
+Krummnußbaum an der Donauuferbahn|AT||a2|3py|165|6|Krumnussbaum an der Donauuferbahn
+Krzywcza|PL||a5|3uc|1qn|6
+Krasne|PL|Lublin|a5|3y1|1sf|6
+Krychunove|UA||98|3pc|2bu|6|Krichunove;Krichinovo;Krichunovo
+Krasnyi Lyman|UA||98|3qa|2vg|6|Krasnyy Lyman
+Križ|SI||9a|3j2|12j|6|Croce
+Krościenko|PL||a5|3tf|1qy|6|Kroshchenko;Kros’tsenko
+Krumsín|CZ||9m|3td|1b8|6
+Kraig|AT||a2|3m1|13x|6
+Krenglbach|AT||a2|3px|12s|6
+Krainia Martynka|UA||98|3qi|1rx|6|Kraynya Martynka;Kraynyaya Martynka
+Krištanovec|HR||a6|3l0|19p|6
+Krinída|GR||8p|35v|1um|6|Vitasta
+Krotoszyce|PL||a5|3y3|18l|6
+Królikowo|PL||a5|434|1cy|6
+Trstěnice|CZ||9m|3s3|190|6|Křtěnice
+Kratonohy|CZ||9m|3vd|17d|6
+Krynice|PL||a5|3wj|1sy|6
+Kryonéri|GR|Thessaly|8p|319|1o9|6|Krionéri
+Krzywa|PL|Lower Silesia|a5|3yg|17x|6
+Krška Vas|SI||9a|3ji|179|6
+Krempermoor|DE||8r|45o|qc|6
+Krasne|PL|Lublin|a5|3yu|1rs|6
+Kruisstraat|NL||8m|3zp|ez|6
+Krásná Hora|CZ||9m|3ts|16z|5
+Krašić|HR||a6|3iu|174|5
+Krýa Vrýsi|GR|Thessaly|8p|318|1or|5|Kría Vrísi
+Kratzeburg|DE||8r|44f|zy|5
+Križovec|HR||a6|3l5|19t|5|Muraszentkereszt
+Krumstedt|DE||8r|467|pi|5
+Kristen|AT||a2|3n8|vd|5
+Krusenhagen|DE||8r|45u|w1|5
+Krotoszyn|PL|Kujawsko-Pomorskie|a5|42t|1dw|5
+Křoví|CZ||9m|3sz|196|5
+Yenokavan|AM||80|35n|3hb|5|Krdevan;Yenoqavan;Enoqavan;Kirdevan;Kodevan;Shiraz
+Krevese|DE||8r|42p|wh|5
+Krzynowłoga Mała|PL||a5|43o|1lr|5
+Krakauhintermühlen|AT||a2|3n2|12u|5
+Krasne|UA|Luhansk|98|3qd|31q|5|Krasnoye
+Kraj|HR||a6|3bu|1c0|5
+Kravarsko|HR||a6|3im|18l|5
+Kravsko|CZ||9m|3rw|18f|5
+Krążkowo|PL||a5|3zw|18n|5|Alt-Kranz
+Krasnosel’skoye|UA||9t|3i5|2is|5
+Kruckow|DE||8r|45q|10s|5
+Krnsko|CZ||9m|3vx|15a|5
+Krajná Bystrá|SK||8s|3t7|1o7|5
+Cramberg|DE||8r|3vu|m2|5|Kramberg
+Krempna|PL||a5|3tj|1nq|5|Krępna

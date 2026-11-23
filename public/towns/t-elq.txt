@@ -1,0 +1,28 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+El Oued|DZ||3|2ko|j2|1ft|Oued Souf;Uedas;Al-Wadi;El Qued
+Al Qūşīyah|EG||c|248|2dm|ro|El Qūsīya;Al-Qūsiyyah
+Al Qā’im|IQ||5z|2nj|35v|kl|Al-Káim;Al-Qa'im;Al-Qaïm;Al Kaim;El Kaim;El Qa’im
+Al Qanāyāt|EG||c|2d2|2fe|jn|El-Qanâyât
+Al Qunayţirah|SY||69|2k1|2ri|a1|Quneitra;Kunejtra;Kuneitra;Kuneytire;Qinêtra;Qouneitra;Cuneitre;Qnaïtra;El Quneitra;El Kuneitra;Qunayţirah
+Al Qanţarah|EG||c|2dq|2hr|8u|Kantara;El Qanṭara;El Kantara
+Elgin|GB||9b|4g5|-98|6y|Eilginn;Elqin
+Al Quşayr|EG||c|20j|2n8|6v|El Quseir;El Qoseir;Quseir;Al-Quṣayr
+Al Qaşşāşīn|EG||c|2cw|2gp|6s|Kassassin;El-Qaṣṣâṣîn;Qaṣṣâṣîn;Al-Qaṣṣāṣīn;Al-Qaṣāṣīn
+El Quisco|CL||4u|-2ks|-5j5|4q
+El Quetzal|GT||32|151|-732|3d|Quetzal
+El Quebrachal|AR||1s|-1y8|-4xz|2u
+El Quebachal|AR||1s|-1yd|-4xu|2c
+Al Qaţrānah|JO||5t|2et|2s5|1z|El Qatrāna;Al Qaţrāna
+Elqana|PS||6n|2h7|2pb|12|Elkana
+El Quelite|MX||3x|1tg|-87r|h|Quelite
+Los Órganos de San Agustín|MX||41|1b1|-7pa|f|El Quemado
+El Quiteño|PA||4g|nj|-6cv|d|Quinteño;Quiteno
+El Quelital|MX||41|1qn|-7qb|9|Quelital
+El Quemado|MX|Guerrero|41|1br|-7ql|8
+El Quemado|MX|Durango|44|1zf|-7z6|8
+Ejido el Quemadito|MX||3x|1wm|-8ad|7|Quemadito;El Quemadito;Quemado
+El Quemado|MX|Sinaloa|3x|1td|-87s|7|Quemado
+Puerta del Muerto|MX||41|1py|-7w1|6|El Quince;El 15;Puerta de Muerto
+El Quiza|MX||41|19w|-7ld|5
+Plan Libertador|MX||41|1m7|-7ug|5|El Quemado
+El Quechuleño|MX||41|1fl|-7fx|5|Quechuleño

@@ -1,0 +1,1056 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Karachi|PK||6q|1x2|565|2hoy|pechs;Karatschi;Karaĉio;Karačis;Karāči;Karaczi;Carachi;Karatxi;Keraçî;Karacsi;Karatsji;Karaaji;Karačės;Karochi;Karanchi;Karasi;Kurrachi
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Quezon City|PH||71|14p|9c9|nsr|Quezon;Kezonurbo;Lungsod Quezon;Quezon-Stadt;Ciudad Quezon
+Santiago de Querétaro|MX||41|1l7|-7qv|cau|Santjago de Keretaras;Santiago Tlachco;Santiagu di Querétaro;Queretarum;Querétaro City;Keretaro;Querétaro
+Quetta|PK||6q|2bu|564|c2v|Kweta;Kvéta;Kveto;Ketta;Kvetta
+Kyoto|JP||7q|2pa|ah3|bal|Kioto;Kjóto;Quioto;Kyotum;Kiotas;Kyotu;Kėjuots
+Kaifeng|CN||7i|2oo|8tj|b79|Kai Feng;Keyféng shehiri;Khai Phong;Kchaj-feng;Kăi-hŭng;Kayfin;Khai-hong-chhī;Kai-fêng Fu
+Karaj|IR||7o|2rj|3xn|b69|Karadsch;Karadž;Karaĝo;Kerec;Keredžas;Karadzs;Karadj;Karej
+Calgary|CA||2s|3xt|-8sx|a30|Kalgario;Kalqari;Kalgaris;Kalgari;Calgaria;Kelgery
+Karbala|IQ||5z|2im|3ea|9ej|Kerbala;Kerbela;Karbalo;Qerbelaja;Karbila
+Copenhagen|DK||8y|4ao|yx|8wg|København;Köpenhamn;Kopenhago;Copenhague;Kopenhagen;Copenaguen;Copenhaguen;Kodaň;Kòpenhaga;Kopenhaagen;Kopenage;Kopenhage;Kööpenhamina;Keypmannahavn;Cóbanhávan;Koppenhága;Kaupmannahöfn;Copenaghen;Hafnia;Kopenhāgena;Copenhaga;Kobenhaven;Kopenhag;Copenaga;Kjøpenhamn;Københámman;Kjobenhavn
+Jingzhou|CN||7i|2cb|8nn|84b|Jingtsjou;Ťing-čou;Kinh Châu;Gĭng-ciŭ;Keng-chiu-chhī
+Kirkuk|IQ||5z|2qj|3fb|7ye|Kirkouk;Kerkûk;Kirkoek;Karkúk;Kerkouk
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Kennedy|CO||27|cu|-5pz|7k7
+Jingmen|CN||7i|2e7|8no|4vu|Gĭng-muòng;Ťing-men;Kinh Môn;Keng-bûn-chhī;Ching-men;King mönn;Kingmen
+Kermanshah|IR||7o|2nb|3mr|4sj|Kermānschāh;Kermanŝaho;Provinco Kermanŝah;Kirmaşan;Kermaansjaah;Kirmanşah;Kermanšah;Ḳarmīsīn;Qirmisin
+Kerman|IR||7o|2c4|4ek|4gf|Kermon;Kirman
+Kemerovo|RU||74|49r|6n6|4ba|Kemerowo;Kemerovas;Kemerova
+Québec|CA||59|3m1|-5ht|43r|Kwébék Shehiri;Kvebeka;Kebeko;Kvebekas;Kebek;Tchubec;Kébéc Vile;Kebeku;Kvebek;Kwébék;Kévek táva;Kebekurbo
+Kaliningrad|RU||96|47z|1kz|3nz|Królewiec;Königsberg;Kalinjingrad;Kalinyingrád;Karaliaučius;Königsbarg;Caliningrado;Calininopolis;Königsberg in Preußen;Kaliningráu;Kalininqrad;Karaliaučios;Kraljevac;Kënisberg;Körigsberg
+Kenitra|MA||d|2n6|-ia|3mt|Kenitro;Al-Kunajtira;Kenitre;Khenifra
+Jixi|CN||7i|3ht|a3s|346|Dzisi;Kê Tây;Ťi-si;Giĕ-să̤;Ke-se-chhī;Kisi
+Cardiff|GB||9b|3z0|-8u|2vd|Caerdydd;Kerdiz;Kardydh;Kardifas;Kadif;Kārdifa;Kardip;Kardiff;Cayr Deeth;Cairdiff
+Keelung|TW||7l|1xt|9e6|2sp|Chilung;Cơ Long;Kî-lùng-sṳ;Giĕ-lè̤ng;Ťi-lung;Ke-lâng-chhī;Chi-lung
+Kendari|ID||70|-b2|9gc|2pj|Kutha Kendhari
+Quelimane|MZ||11|-1do|2uh|2p6|Kelimanė
+Kaesŏng|KP||7a|2xh|9rj|2ly|Kesongas;Kaisong;Gaeseong
+Kluang|MY||6v|5n|7z0|2hy|Keluang
+Kediri|ID||6l|-lq|8n6|2bq|Kutha Kedhiri
+Karamay|CN||7t|3im|6jt|20m|Kelamayi;Karamajus;Karamai;K'o-la-ma-i
+Milton Keynes|GB||9b|40k|-24|1z8|Middeltūn þǣra de Cahaignes;Milton Keinsas;Milton Kins
+Kenema|SL||l|lw|-v3|1yv
+Kelar|IQ||5z|2o7|3hw|1xg|Klar;Kalār
+Klang|MY||6v|8g|7ts|1uo|Klanq;Kelang
+Quevedo|EC||33|-2v|-64q|1ne|Kevedas
+Cape Coast|GH||1|e7|-3h|1n0|Keip Kostas
+Kielce|PL||a5|3xb|1lb|1hh|Kelce;Kelcai;Khái-ngì-chhái;Keltse;Kieltse;Kel'tsy
+Quetzaltenango|GT||32|158|-728|1e7|Kecaltenangas;Quetzaltenānco;Ketzaltenango;Quezaltenango;Quexaltenango
+Cape Coral|US||48|21s|-6bn|1co|Cabo Coral;Keip Koralas
+Kēng Tung|MM||7y|1o3|7pl|1bo
+Cary|US|North Carolina|48|2rf|-62u|18e|Keris
+Cairns|AU||8c|-1b0|b8x|16j|Kērnsa;Kernsas;Cùirn;Kens
+Kokshetau|KZ||5s|440|5cr|15u|Kökschetau;Kokchetaou;Kökşetaw;Kokčetau;Kokxetau;Koksetau;Kekšetau;Koksjetau;Koʻkshetau;Kokczetaw;Köshetaū;Kokchetau;Kokchetav;Kokchetar
+Kerch|UA||9t|3i0|2tc|15d|Kertsch;Kertsj;Kercz;Kertj;Kerç;Kertch;Kertš;Kerĉo;Kerč';Keritch;Kerci;Kertx;Keriç;Kerčė;Kercs;Kertschia;Kerča;Kerčas
+Xebat|IQ||5z|2ss|3db|154|Kelek;Kellek
+Khasnahzān|IQ||5z|2sk|3em|14q|Kesnezan-î Îsma‘îl;Kesnezan Teḧsîn;Kasnazān
+Cambridge|GB||9b|410|c|14h|Caergrawnt;Kembriĝo;Cantabrigia;Grantanbrycg;Kembridžas;Kiam-khiâu;Kambrij;Kembric;Kembridža
+Kelowna|CA||5b|3uk|-97x|146|Kelouna
+Kairouan|TN||1e|2r4|s2|12n|Qairawān;Kajruano;Qayrawan;Kairuan;Cairuão;Kayravan;Al-Qayrawān;Kairuanas;Keruan;Qayruvon;Qayravan;Qairwan;Kairwan;Qairouan;Al Qayrawān;Al-Kayrawān
+Budapest XI. kerület|HU||8v|3nw|1gw|12m|Újbuda
+Ksar El Kebir|MA||d|2p8|-ge|12f
+Kirdāsah|EG||c|2bf|2ef|128|Kerdasa;Kirdâsa;Kerdasah
+Kentron|AM||80|33m|3fn|10y
+Kombolcha|ET||2|us|32e|10p|Kombolča;Kembolcza;Combolcia;Kombolcah;Combolcha;Kambolchā;Kembolcha
+Kembangan|SG||7j|3o|80n|107
+Seri Kembangan|MY||6v|8f|7uk|107|Serdang
+Cambridge|CA|Ontario|59|3cg|-673|103|Kembriĝo
+Kent|US|Washington|3p|3nm|-9fj|za
+Budapest III. kerület|HU||8v|3o2|1gx|yd|Óbuda-Békásmegyer
+Kedungwuni|ID||6l|-jd|8gl|wk
+Kyzyl|RU||6u|3zn|7ac|wi|Kysyl;Kizil;Kõzõl;Kizila;Këzëlli;Qizil
+Budapest XIII. kerület|HU||8v|3o1|1h0|vj
+Cambridge|US|Massachusetts|48|39q|-5hj|uo|Kembriĝo;Cantabrigia;Keimbridža;Kembridžas;Kembric
+Kresek|ID||6l|-h1|87i|um|Keresek
+Kecskemét|HU||8v|3mb|1ip|ui|Kečkemėtas;Kečkemet;Aegopolis
+Birnin Kebbi|NG||u|yl|bo|u2
+Yevpatoriya|UA||9t|3hk|2kp|tq|Jewpatorija;Jevpatorija;Evpatorya;Eupatoria;Eŭpatorio;Kezlev;Yevpatoria
+El Kelaa des Srarhna|MA||d|2h1|-kl|sw|Kelaa Des Srarhna;El Kelaa des Srharna;El Kelaa des Sraghna
+Queluz|PT||99|2zo|-pp|sq|Kelusas
+Kenosha|US||2f|3aa|-6ry|rr|Kenoša
+Kfar Saba|IL||6n|2hd|2oz|rm|Kafr Saba;Kefár Saba;Kefar Sava;Kfar Sava;Kefar Sawa
+Cela|AO||x|-vq|160|p0|Kela
+Kepong|MY||6v|8x|7uc|nw
+Keffi|NG||u|ol|lv|nv
+Derry|GB||9b|48s|-kb|n9|Doire;Ker Dherow;Londonderis;Derae;Dhoire
+Kelo|TD||17|pv|17x|mz
+Kedungwaru|ID||6l|-mf|8mw|mb
+Kendall|US||48|1zc|-674|ma
+Kennewick|US||3p|3kd|-96y|lx
+Keningau|MY||6w|eu|8yo|ll|Keningas;Keninga;Kengingan
+Keur Médoune|SN||g|150|-186|lh|Méril
+Keratsíni|GR||8p|2xg|1tm|lf
+Keshod|IN||6t|1n6|5f5|l6|Kesod
+Kebomas|ID||6l|-jx|8ov|l4
+East Kilbride|GB||9b|4aw|-bm|kx|Cille Bhrìghde an Ear;Keeill Vreeshey Hiar;Ist Kilbraidas;İst Kilbrayd;East Kilbridge
+Keren|ER||4|17u|2yt|ks
+Feodosiya|UA||9t|3h3|2qa|j2|Kefe;Teodozja;Feodossija;Théodosie;Feodòssia;Teodozio;Feodosija;Teodosia;Feodosia;Feodosya;Caffa;Theodosia;Fyeodosiya;Kaffa
+Kesklinn|EE||9x|4l4|1ws|iu
+Kenner|US||2f|2bb|-6yo|in
+Kędzierzyn-Koźle|PL||a5|3vv|1en|i8|Kendzežynas-Kozlė;Keņdzežina-Kozle;Kandrzin-Koźle
+Kerpen|DE||8r|3xb|im|hu|Kerpe
+Quimper|FR||9k|3pc|-be|hq|Kemper;Montagne-sur-Odet;Tchîmpèr;Coriosopitum;Kempēra
+Kenge|CD||t|-g1|11y|hl
+Kelaa Kebira|TN||1e|2rn|ta|hl|Qalaa Kebira;Kalaa Kebira;Kalaa K’bira
+Kélibia|TN||1e|2ud|ut|hi|Klibia
+Kempas|MY||6v|4b|802|h8
+Kempten (Allgäu)|DE||8r|3ol|sn|h2|Kempten
+Kesennuma|JP||7q|302|axa|gz|Kissennuma
+Kertosono|ID||6l|-l2|8ne|gw
+Keonjhargarh|IN||6t|1o3|6ls|gu
+Kentau|KZ||5s|3cw|5aa|fy|Kentaou;Kentaw
+Kettering|GB||9b|41k|-21|fr
+Kendale Lakes|US||48|1zf|-67d|fl
+Kettering|US|Ohio|48|329|-6ht|ff
+Canterbury|GB||9b|3yg|30|fb|Cantorbery;Durovernum;Durovernum Canticorum;Cantwarebyrig;Cantwaraburg;Cantuária;Caergaint;Kantaraborg;Kenterberis;Kenterberija
+Kérou|BJ||1b|u3|5u|f3
+Kericho|KE||16|-11|2q0|ey
+Kelenföld|HU||8v|3nv|1gv|et
+Kyaiklat|MM||7y|19p|7dw|ek|Keiklat
+Kepanjen|ID||6l|-ml|8op|ef|Kepandjen
+Kentwood|US|Michigan|2q|3b3|-6lw|ea
+Kirkcaldy|GB||9b|4bw|-8s|e0|Kirkcaudy;Kerkoldis;Cair Chaladain
+Keighley|GB||9b|45n|-5b|dy
+Kerkrade|NL||8m|3xb|gu|du|Kirchroa;Kerkraad;Kirchrath
+Keskin|TR||94|327|2ld|dt
+Kensington-Cedar Cottage|CA||5b|3st|-9hv|do
+Kefamenanu|ID||70|-q9|9ls|de|Kefannanu
+Kifisiá|GR||8p|2xr|1u5|d5|Kifissia;Kephissia;Kifisija;Kēfissia
+Kendrāparha|IN||6t|1ky|6o2|d2|Kendrāpāra
+Kyustendil|BG||9v|39g|1r1|d1|Kjustendil;Köstendil;Küstendil;Kiousténdil;Keustendil
+Kebri Dahar|ET||2|iq|3f0|cr|Qabridahare;K’abradaharē;Kebri Dekhar;K’ebrī Dehar
+Keller|US||2f|2jh|-7i5|cq
+Keşan|TR||94|35i|21z|ce|Zorlanae
+Ketanggungan|ID||6l|-ja|8eh|cb|Ketanggoengan
+Kenol|KE||16|-2m|2v4|c9
+Kardzhali|BG||9v|37p|1yh|c9|Kardschali;Kardjali;Kardzjali;Kırcaali;Kardžali;Krdžali;Kerdžalai;Kyrdżali;Exrdzhali;Kardshali;Kirdžali;Kirdjalü;Kŭrdzhale;Kirdžalü;Kerjali;Kirjali;Kerdzhali;Kŭrdžali;Kŭrdzhalii;Krdjali;Kŭrdzhali
+Kemisē|ET||2|ts|32r|c6|Kemsē;Kemissie
+Konārak|IR||7o|1yg|4ns|c1|Kunārak;Kenārak
+Kencong|ID||6l|-n0|8qx|by|Kentjong
+Kamyanobridskyi|UA||98|3qz|314|bs|Cambridge;Kembrydzh;Kambrid;Kam'yanyi Brid;Kamianyi Brid;Kamianobridskyi raion
+Kabkābīyah|SD||r|11x|1uw|bs|Kebkābiya;Kabkabiyya
+Aland|IN||6t|1cs|5wp|bs|Keregadde;Alland
+Kenscoff|HT||4j|1f9|-5ks|bq|Kenskòf;Kenskoff
+Kearny|US|New Jersey|48|359|-5pz|bp|Kearney
+Kekri|IN||6t|205|5sr|bn
+Corfu|GR||8p|322|1jc|b4|Korfu;Corfou;Kérkyra;Krf
+Kétou|BJ||1b|kg|78|b0|Ketu
+Kehl|DE||8r|3qx|lq|b0
+Keat Hong Village|SG||7j|3u|806|ay
+Kensington|US|New York|48|34x|-5ph|av
+Klebang Besar|MY||6v|66|7vw|aq|Kelebang Besar
+Krian|ID||6l|-kl|8oq|aq|Kerian;Krijan
+Kerava|FI||92|4ns|1xr|ap|Kervo
+Keru|IN||6t|20r|5mw|ao
+Kennedy Town|HK||6i|1pw|8t1|ak
+Keizer|US||3p|3gz|-9hr|aj
+Kew Gardens Hills|US||48|355|-5p2|af|Kew Garden Hills
+Kamunting|MY||6v|dk|7rt|a2|Kemunting
+Kestel|TR|Bursa Province|94|33o|295|a2
+Kendall West|US||48|1zf|-67g|a2
+Kep|KH||78|t4|81s|a0
+Kearns|US||2p|34y|-8n4|9x
+Kempen|DE||8r|3yo|hu|9h
+Kennesaw|US||48|2mi|-6j2|9c
+Kerki|TM||5x|2x4|515|98|Atamyrat;Atamurat;Zamm
+Kearney|US|Nebraska|2f|352|-7n8|96
+Königs Wusterhausen|DE||8r|41a|11v|91|Parsk;Kēnigsvusterhauzene
+Ken Caryl|US||2p|31y|-83z|90
+Kičevo|MK||9u|37b|1m8|8n|Kitchevo;Kičevas;Kërçova;Kırçova;Kiczewo;Kicsevo;Kichevo
+Kesabpur|BD||6a|1rn|6vu|8l|Keshabpur
+Kemalpaşa|TR|İzmir Province|94|2yr|246|8g|Karabel
+Kessel-Lo|BE||8t|3xd|d6|8e
+Kédougou|SN||g|yw|-xu|8d
+Kerugoya|KE||16|-1e|2vk|8c|Keruguya
+Keysborough|AU||8j|-2xj|b79|8c
+Kfar Yona|IL||6n|2hs|2p2|8a|Kefar Yonah;Kefar Yona
+Kent|US|Ohio|48|36b|-6a0|8a
+Kendal|GB||9b|46x|-7n|83
+Kelaniya|LK||68|jc|660|80
+Kaman|TR||94|31c|2lo|7y|Keman
+Kelkheim|DE||8r|3va|nh|7u
+Kevelaer|DE||8r|3za|hd|7t|Kevern
+Kintinian|GN||f|w8|-q2|7s|Kintiniou;Kentinian
+Kellyville|AU||8l|-2ln|bnb|7p
+Kętrzyn|PL||a5|468|1ne|7n|Rastenburg;Kentšina;Kentšynas;Ketzyn
+Quesada|CR||2i|sp|-6ij|7l|Kesada
+Kerkera|DZ||3|2ul|ib|7k
+Kekem|CM||j|ec|ru|7i
+Kérouané|GN||f|pr|-p2|7i
+Kemrī|IN||6t|281|640|7f
+Kalat|PK||6q|28n|54z|7f|Kelat
+Kyrenia|CY||6e|2q6|2kk|7f|Kerýneia;Girne;Kyrínia på Kypros;Kerínia;Kirenija;Kirenia;Cirénia;Kérynia
+Kebili|TN||1e|2lm|ox|7b
+Kināna|SD||r|130|2k5|7a|Kenana
+Key West|US||48|1w8|-6b6|76|Cayo Hueso;Ki Vestas;Caio Os;Keywest;Cayo Huesso
+Kelīshād va Sūdarjān|IR||7o|2if|3z5|74
+Keirao Bitra|IN||6t|1wn|791|6x
+Keshorai Pātan|IN||6t|1y9|5uy|6u
+Kew|AU|Victoria|8j|-2x1|b6v|6t
+Kertih|MY||6v|cj|7zd|6s|Kerteh
+Keystone|US|Florida|48|268|-6di|6o
+Kelkit|TR||94|33h|31j|6n
+Kernersville|US||48|2sc|-66f|6m
+Keene|US|New Hampshire|48|3b9|-5ks|6h|Keen
+Kērkandi|IN||6t|vl|5x7|6g
+Kerrville|US||2f|2bh|-7ne|6f
+Kele|ET||2|gw|2xn|6f|Kelie
+Keetmanshoop|NA||1f|-21u|1ed|6e|Ketmanshopas
+Kėdainiai|LT||a3|49l|1ul|6b|Kiejdany;Ķēdaiņi;Kidayñay;Kiedainē;Kedaynyai;Kedainių;Keidany;Kedayny;Kedaynyay;Keydany
+Kenilworth|GB||9b|41f|-4e|68
+Kihancha|KE||16|-3b|2o6|66|Kinancha;Kehancha
+Kenmore|US|Washington|3p|3oo|-9fk|64
+Kebonarun|ID||6l|-le|8j4|61|Kebonarum
+Căuşeni|MD||8x|3lk|29p|61|Keušenis;Kauseni;Kaushani
+Karak City|JO||5t|2ek|2rc|61|Karak;Kerak;Al-Karak
+Kilkenny|IE||8z|429|-k5|60|Cill Chainnigh;Kilkenis;Keeill Chennee;Canicopolis
+Keswick|CA||59|3ex|-64r|5u
+Kercha|ET||2|g2|2yp|5p
+Keevallur|IN||6t|x2|5tt|5o|Keezhallur
+Camrose|CA||2s|43a|-8pg|5o|Keimrozas
+Târgu Secuiesc|RO||8u|3js|20l|5l|Tîrgul Săcuesc;Tîrgu Secuiesc;Kézdivásárhely;Tîrgu Secuesc;Kèzoi-Vasarmely;Târgu-Săcuesc;Târgul Săcuesc
+Kempston Hardwick|GB||9b|40p|-1e|5k
+Kébémer|SN||g|16p|-19n|5j
+Kempston|GB||9b|40s|-1e|5j
+Kerūr|IN||6t|18h|5tv|5h
+Keszthely|HU||8v|3lx|1bw|5h|Kestel;Kesthelj
+Keynsham|GB||9b|3yt|-6y|5g
+Kemi|FI||92|52m|1w8|5d|Giepma
+Kęty|PL||a5|3uk|1he|5c|Kenty;Kentai;Kenti
+Kesinga|IN||6t|1k3|6f6|5c
+Kesariyā|IN||6t|217|6jr|5a|Kesaria
+Kew Gardens|US||48|353|-5p3|5a
+Keng Hau|HK||6i|1q5|8t5|57
+Kelaat Mgouna|MA||d|2et|-h1|55|Qala’at Mgouna
+Priozërsk|RU||9i|4pk|2bq|53|Käkisalmi;Kägöisalmi;Kexholm;Keksholm;Kyakisalmi
+Keta|GH||1|gg|2r|51
+Carquefou|FR||9k|3ne|-45|51|Kerc'hfaou;Kerchfaou;Carcafagus
+Kegalle|LK||68|k5|676|50|Kegalė;Kegalla
+Kensington-Chinatown|CA||59|3d9|-64k|4z
+Kedrovka|RU||74|4a8|6n6|4y
+Kenwood|US|Illinois|2f|385|-6rc|4w
+Keezhkulam|IN||6t|mv|5yf|4t
+Kemer|TR|Antalya|94|2to|2cw|4t
+Kepala Batas|MY|Penang|6v|fc|7qz|4r|Kapala Batas
+Kennedy Park|CA||59|3dg|-646|4r
+Bouguenais|FR||9k|3n2|-4i|4o|Kervegon;Castrum Bogenis;Bougenais
+Kensington|GB||9b|44d|-87|4l
+Kedia|IN||6t|1u3|6lr|4h|Kedla
+Keflavík|IS||87|4xs|-1qo|4f|Keblavikas
+Ké-Macina|ML||5|12s|-ew|4e|Ke-Masina;Ke-Masino;Ke Machine;Ké Massina;Ké Macina
+Kelheim|DE||8r|3rw|x1|4d
+Kellabine|TN||1e|2of|v5|4b
+Kosigi|IN||6t|182|5yk|4b|Kosgi;Kesigi
+Kestel|TR|Antalya|94|2tf|2h4|4a|Çamyolu
+Kežmarok|SK||8s|3si|1kr|49|Käsmark;Kesmark;Kieżmark;Kejmarok
+Kennedy Street|US||48|308|-5xy|49
+Kenmore|US|New York|48|3bd|-633|48
+Kenda|IN||6t|1sg|6ob|47
+Kizhariyūr|IN||6t|vy|5u8|47|Keezhariyur
+Kenora|CA||5d|3u9|-7ah|47|Portage-aux-Rats
+Keilor East|AU||8j|-2wt|b6f|47
+Kensington|AU|New South Wales|8l|-2m8|bo2|46
+Kebisoni|UG||q|-2k|2bg|46
+Kerkiçi|TM||5x|2x5|518|46|Kerkichi
+Kenley|GB||9b|3yl|-a|46
+Kensal Green|GB||9b|3z5|-n|45|Kensal Rise
+Kępno|PL||a5|3yg|1dz|44|Kempen in Posen;Kempno;Kempnas
+Keruh|MY||6v|fw|7sk|43|Pengkalan Hulu;Keroh
+Gadabay|AZ||61|34p|3j9|41|Kiadabak;Kyadabek;Kedabek
+Keratéa|GR||8p|2x1|1um|41|Kieratea
+Kerman|US||3p|2u0|-99i|41
+Kempele|FI||92|50b|1yu|3z
+Kovin|RS||8q|3gb|1ma|3z|Temes-Kubin;Kevevára;Cuvin;Cubin;Temeschkubin
+Kerben|KG||65|379|5jc|3x|Karavan
+Keïta|NE||18|150|g1|3w
+Kesrisinghpur|IN||6t|2b7|5oi|3w
+Kerrisdale|CA||5b|3sr|-9i4|3w
+Kelsterbach|DE||8r|3v2|np|3u
+Kem’|RU||9i|50g|2o3|3u|Kem;Vienan Kemi;Kemi;Ken
+Kenton|ZA||o|-2lj|221|3r
+Kalārdasht|IR||7o|2tf|3y5|3q|Kelārdasht
+Kastoria|GR||8p|34k|1n2|3q|Kesriye;Kostur;Kosturi;Castória;Kastorija;Kesrie
+Kelamangalam|IN||6t|z0|609|3p|Kelamnagalam
+Kelapa Sawit|MY||6v|4n|7zl|3o
+Ketsch|DE||8r|3t5|np|3n
+Kessenich|DE||8r|3wv|jr|3m|Kessenech
+Key Biscayne|US||48|1zd|-66o|3m|Ki Biskeinas
+Kettering|US|Maryland|48|300|-5xd|3k
+Kistarcsa|HU||8v|3o3|1hi|3i|Kerepestarcsa
+Kentville|CA||35|3h8|-4z6|3i
+Kafin Hausa|NG||u|y0|rj|3i|Keffin Hausa;Kaffin-Hausa
+Kemp Mill|US||48|30g|-5xy|3i
+Kewanee|US||2f|36l|-6xs|3h
+Kegeyli Shahar|UZ||7g|3au|4ll|3g
+Kepala Batas|MY|Kedah|6v|h8|7qx|3g|Kepala Bataih
+Kalā Chāy|IR||7o|2v0|3w0|3g|Kala Cha;Kelā Chāy
+Quimperlé|FR||9k|3oz|-9v|3f|Kemperle;Quimperlium
+Kirchrode|DE||8r|41g|rb|3d|Kerkreoe
+Kelso|US|Washington|3p|3k7|-9hf|3b
+Kép|VN||6h|1ng|877|3a
+Kelwa|IN||6t|1xv|5p4|39
+Kīranūr|IN|Tamil Nadu|6t|td|62v|39|Keeranur
+Kerr Serign|GM||7|11b|-1ag|37
+Kőszeg|HU||8v|3nn|19y|37|Kiseg;Ginsium;Keseg
+Kemigawa|JP||7q|2r1|at3|37
+Kew|GB||9b|3z0|-t|36
+Keskāl|IN||6t|1js|6an|33
+Kempanāyakkanpālaiyam|IN||6t|w1|5yq|33
+Keçiborlu|TR||94|2xe|2c6|33
+Kezilexilike|CN||7t|3ka|6xt|33
+Kempsey|AU||8l|-2ec|bsj|33|Kempsi
+Keelesdale-Eglinton West|CA||59|3dd|-64r|33
+Kesgrave|GB||9b|40m|3g|32
+Kete Krachi|GH||1|ln|-5|32|Kete-Kratschi;Krete Kratschi;Kete-Ktachi
+Kesabpur|IN||6t|1rt|6t6|31
+Keroka|KE||16|-26|2p3|31
+Kez|RU||9p|4gu|457|30
+Kétésso|CI||0|gc|-8t|2z
+Kennett|US||2f|2so|-6y6|2z
+Kenzhe|RU||9i|3cu|3cz|2y|Kenzje
+Keokuk|US||2f|348|-71u|2y
+Kelmscott|AU||8k|-2h8|8yb|2y
+Keur Madiabel|SN||g|12h|-18m|2x|Keur Mandiebel
+Kfar Yasif|IL||6n|2jj|2po|2x|Kefar-Yasif;Kafr Yāsīf;Kafir Yasif
+Keerikkad|IN||6t|pi|5wh|2x
+Key Largo|US||48|1xp|-67h|2w|Cayo Largo
+Kellyville Ridge|AU||8l|-2lm|bn8|2w
+Kemin|KG||65|3av|5u9|2w
+Kelso|AU|Queensland|8c|-1hv|bbk|2v
+Kétro|CI||0|jy|-ig|2v
+Kemasik|MY||6v|cb|7zd|2u
+La Calamine|BE||8t|3ww|gp|2u|Kelmis;Calmène
+Keda|CN||7i|28n|8fg|2u
+Kearsley|GB||9b|44p|-6m|2t
+Keila|EE||9x|4kq|1vt|2t|Kegel;Keil;Keyla
+Keşap|TR||94|35n|2yy|2s
+Koltushi|RU||9i|4mh|2d4|2s|Keltto
+Kegen|KZ||5s|3bh|643|2s
+Ketengah Jaya|MY||6v|cp|7z0|2s|FELDA Kerteh 6;Kerteh 6;FELDA Kerteh 1;Kerteh 1;FELDA Kerteh 4;Kerteh 4
+Kerepes|HU||8v|3o4|1hk|2s
+Kendallville|US||38|374|-6ku|2r
+Kestell|ZA||o|-26n|27q|2r
+Keilor Downs|AU||8j|-2ws|b69|2r
+Keansburg|US||48|34c|-5px|2r
+Kendall Square|US||48|39p|-5hh|2r
+Caernarfon|GB||9b|43m|-bv|2p|Kernarvonas;Karnarvon;Carnarvon
+Kensington|AU|Victoria|8j|-2wz|b6l|2p
+Keolāri|IN||6t|1q5|65z|2p
+Kearney|US|Missouri|2f|31d|-7a4|2m
+Keeramangalam|IN||6t|sl|63q|2m
+Kendall Park|US||48|34a|-5r4|2l
+Kaleybar|IR||7o|2zz|3mo|2l|Keleibar;Kalībar
+Quéven|FR||9k|3or|-9i|2l|Kewenn
+Kecel|HU||8v|3l9|1hh|2k
+Kedron|AU||8c|-244|bt3|2j
+Kenzingen|DE||8r|3pw|ll|2j
+Kellé|CG||a|-7|14a|2j|Kelli
+Keuruu|FI||92|4sz|1wm|2j|Keuru
+Kenduadīh|IN||6t|1ty|6nx|2i
+Kelkheim-Mitte|DE||8r|3va|nh|2h
+Kelso|AU|New South Wales|8l|-2ku|bjk|2g
+Kelhauri|IN||6t|1sf|6ar|2g
+Kenmore|AU||8c|-24f|bsu|2g
+Kennedy Township|US||48|34g|-66i|2f|Kennedy;Municipio de Kennedy;Xã Kennedy
+Kildare|IE||8z|43o|-j7|2e|Cill Dara;Kilderas;Keeill Darey
+Keriam|BN||66|de|8ul|2e
+Kearneys Spring|AU||8c|-24o|bq2|2d
+Kensington|US|Connecticut|48|37o|-5m5|2d
+Kalbajar|AZ||61|33f|3jw|2c|K’arvacharr;Kelbajar
+Kepi|ID||6m|-i4|ar0|2c
+Kerikeri|NZ||ak|-2pv|df7|2c
+Keppapularu|LK||68|ps|68c|2c|Keppapulavu
+Kokdala|CN||7t|3dm|70m|2c|Kekedala
+Keji yuan|CN||7i|1qm|8sj|2a
+Kelmė|LT||a3|4aj|1rp|2a|Kielmy
+Kenilworth|US|New Jersey|48|350|-5qd|2a
+Kenton|US|Ohio|48|34x|-6g9|2a
+Ketchikan|US||4y|49q|-a5p|2a|Keçingen;Kichikan;Kitchikan
+Kelvin Grove|NZ||ak|-341|djx|2a
+Kregbé|CI||0|jd|-b2|29|Kéregbé
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Kellinghusen|DE||8r|45v|r0|27
+Kerend-e Gharb|IR||7o|2n8|3kg|26
+Kelvin Grove|AU||8c|-249|bt1|26
+Kennedale|US||2f|2ip|-7i3|25
+Kenilworth|US|District of Columbia|48|303|-5xq|25
+Kenai|US||1h|4o7|-bo6|25|Kenay
+Kéibly|CI||0|go|-kr|25
+Keminmaa|FI||92|52s|1w6|24
+Kessel|BE||8t|3y2|cv|24
+Klakah|ID||6l|-m8|8ql|24|Kelakah;Klaka
+Kegaon|IN||6t|1gi|5mj|23
+Kerker|TN||1e|2qk|tk|23
+Kende|NG||u|w0|bu|22
+Kembé|CF||6|cu|1ot|21
+Yeghegnadzor|AM||80|32g|3hx|21|Yeğegnadzor;Jeghegnadsor;Eghegnazor;Jeghegnadzor;Jeghegnadzoras;Ehegnadzor;Jechegnadzor;Jehegnadzor;Yeğeqnadzor;Mikoyan;Keshishkend;Keshishkent;Yexegnadzor;Exegnadzor;Jehegnadzora;Eghegnadzor;Yekhegnadzor
+Kelejar|TM||5x|2xu|4h9|21
+Kelmentsi|UA||98|3qn|22j|20|Chelmenți;Kel’mentsy
+Kirkwall|GB||9b|4ju|-88|20|Kerkvolas;Bágh na h-Eaglaise;Kirkwaa;Ciricewæl;Kirkvol;Baile na h-Eaglaise
+Keyport|US|New Jersey|48|34b|-5q4|1z|Key Port
+Kenton|US|Oregon|3p|3im|-9gs|1y
+Kenwood|US|Ohio|48|30x|-6id|1y
+Kipekyüzi|CN||7t|3e3|6a3|1y|Képekyüzi
+Ketovo|RU||7z|49r|51h|1y
+Kemijärvi|FI||92|55b|247|1x|Giemajávri
+Kemsing|GB||9b|3yj|n|1x
+Kelso|GB||9b|4ag|-6r|1x|Cealsaidh;Cealsach;Kelsae
+Kevadiya|IN||6t|1ot|5oq|1w
+Kewdale|AU||8k|-2gu|8y3|1v
+Keperra|AU||8c|-245|bsv|1v
+Keyworth|GB||9b|42v|-31|1v
+Les Sorinières|FR||9k|3mz|-49|1v|Kersoren
+Ketzin|DE||8r|41s|zo|1v
+Kew East|AU||8j|-2x0|b6x|1u
+Kewas Nizamat|IN||6t|1zr|6mi|1u
+Kfar H̱abad|IL||6n|2gv|2ot|1u|Kfar Chabad;Kefar H̱abad;Kfar-Habad;Kefar H̱abbad
+Kelty|GB||9b|4bx|-9f|1u
+Kerkdriel|NL||8m|3zt|et|1u
+San Felice Circeo|IT||9o|36k|10d|1t|Circeii;Kerkaiai
+Quesnoy-sur-Deûle|FR||9k|3wv|8c|1t|Kénoé-su-Deule;Kiezenet
+Kentfield|US||3p|2xf|-9gg|1t
+Kermit|US||2f|2gi|-7yd|1s
+Kenyam|ID||6m|-cs|aoe|1s
+Kafr Abīl|JO||5t|2i2|2r2|1r|Kufr Abîl;Kefr Abil
+Kietrz|PL||a5|3v4|1e0|1r|Katscher;Ketř
+Kemalpaşa|TR|Artvin|94|378|37d|1r
+Kelārābād|IR||7o|2ty|3ye|1r|Kalārābād
+Kemajuan Tanah Lok Heng Barat|MY||6v|4s|815|1r|Lok Heng
+Keene|US|Texas|2f|2i0|-7ic|1q
+Kennett Square|US||48|32p|-5ub|1q
+Keolu Hills|US||ax|1ne|-c65|1p
+Kendu Bay|KE||16|-10|2o9|1p
+Kemajuan Tanah Bukit Goh|MY||6v|av|7yu|1p|Bukit Goh;FELDA Bukit Goh
+Kello|FI||92|50x|1yg|1o
+Kinmparana|ML||5|zo|-do|1o|Kimparana;Kimpanana;Kimparala;Kemparana
+Kemerağzı|TR||94|2v3|2cg|1o
+Kerekegyháza|HU||8v|3me|1i4|1o
+Kemayan|MY||6v|8q|7wc|1o
+Kekaha-Waimea|US||ax|1p1|-cbl|1o
+Kerimäki|FI||92|4rz|29c|1m
+Keban|TR||94|2zr|2zm|1m
+Kelston|NZ||ak|-2ui|dh6|1m
+Kerteminde|DK||8y|4a1|tm|1l|Kjerteminde;Kierteminde
+Keilor|AU||8j|-2ws|b6b|1l
+Kewarra Beach|AU||8c|-1am|b8o|1l
+Kerkelanden|NL||8m|412|ea|1l
+Kenwick|AU||8k|-2gz|8y5|1k
+Kerema|PG||bd|-m4|b8x|1k
+Kehychivka|UA||98|3sx|2rc|1k|Kehytschiwka;Kéhytchivka;Kegíchivka;Kehyčivka;Kegıçivka;Kehycziwka;Keguitxivka;Kegichëvka
+Keyes|US||3p|2wc|-9bw|1k
+Kensington|US|Pennsylvania|48|333|-5sp|1k
+Kenosha Streetcar|US||2f|3ab|-6rx|1k
+Kennington|AU||8j|-2u5|b4u|1j
+Kensington|CA|Saskatchewan|4q|40t|-88k|1j
+Kepsut|TR||94|329|267|1j|Kepsit
+Kfar Vradim|IL||6n|2jn|2q0|1j|Kefar Weradim;Kefar Veradim
+Kerewan|GM|North Bank|7|11h|-18p|1j|Kerevane
+Ķekava|LV||9n|4dv|1vb|1i|Tekava
+Kélégbala|CI||0|rv|-is|1i
+Kétasso|CI||0|g0|-dz|1i|Kétaso
+Caesarea|IL||6n|2ic|2oy|1h|Césarée;Qesarya;Keisarya
+Kenjāru|IN||6t|100|5ry|1h|Kenjar
+Kelvedon|GB||9b|400|1z|1h
+Kemnath|DE||8r|3uj|x1|1h|Kemnat
+Kéiténably|CI||0|k6|-ke|1h
+Keyser|US||48|31k|-63d|1g
+Kenderes|HU||8v|3n9|1lg|1g
+La Chevrolière|FR||9k|3mt|-4h|1g|Kerc'hevrel;Kerchevrel;Caprioleria;Chevrolière
+Kerns|CH||a7|3ma|n0|1g
+Kennebunk|US||48|3ci|-5fy|1g
+Kedrovyy|RU|Krasnoyarsk Krai|6u|4cc|72a|1f
+Kemajuan Tanah Rentam|MY||6v|93|7x2|1f|Rentam;FELDA Rentam
+Kiramissé|CI||0|mu|-9l|1f|Kéramissé
+Kensington|US|California|3p|2xb|-9fo|1f
+Kenneth City|US||48|25a|-6ds|1f
+Kemecse|HU||8v|3pk|1ol|1e
+Kenthurst|AU||8l|-2li|bnh|1e
+Këlcyrë|AL||9y|33z|1k3|1d|Këlcyra
+Kelburn|NZ||ak|-36o|dhh|1d
+Kenhardt|ZA||o|-29j|1ms|1c|Kenardt
+Kells|IE||8z|459|-j4|1c|Ceanannas;Kelsas;Kelsa
+Königsbrück|DE||8r|3ye|12n|1c|Kēnigsbrika
+Kerencun|CN||7i|1wa|95m|1c
+Keringet|KE||16|-1b|2r4|1c
+Kemlya|RU||9i|47x|3hq|1c|Kemlja
+Keith|GB||9b|4fu|-87|1b|Baile Ché
+Kebirigo|KE||16|-1o|2p4|1b
+Ketakipatana|IN||6t|1j9|6me|1b
+Keswick|GB||9b|47o|-8p|1b|Koswick
+Kemajuan Tanah Tembangau|MY||6v|8f|7ws|1a|FELDA Tembangau;Tembangau
+Kelligrews|CA||50|3ny|-439|1a
+Kennoway|GB||9b|4c5|-8h|1a
+Qedumim|PS||6n|2hh|2po|1a|Kedumim;Kdumim
+Kittery|US||48|3bp|-5gi|1a|Kettery
+Kermt|BE||8t|3xj|el|19|Kermpt
+Campomarino|IT||9o|38k|15s|19|Kemarini
+Kemajuan Tanah Tementi|MY||6v|93|7x1|19|FELDA Tementi;Tementi
+Kjellerup|DK||8y|4cd|q8|19|Kellerup
+Kefar Adummim|PS||6n|2gf|2q6|19|Kfar Adumim
+Kervignac|FR||9k|3oo|-90|19|Kervignag
+Keent|NL||8m|3yc|fu|19
+Kerzers|CH||a7|3mi|k0|19|Chiètres
+Kesteren|NL||8m|40a|fh|19
+Kälviä|FI||92|4xe|1t5|18|Kelviå;Kyal'viya
+Kévé|TG||w|hv|2l|18|Kéwé
+Kayl|LU||9c|3th|gs|18|Gemeng Keel;Keel;Kelis
+Keramotí|GR||8p|35i|1wn|18
+Kepnock|AU||8c|-1x4|bra|18
+Kössen|AT||a2|3of|yh|17|Kessn
+Kékrénou|CI||0|kx|-fk|17
+Kétegyháza|HU||8v|3l9|1mu|17|Chitighaz
+Kessingland|GB||9b|41m|4r|17
+Keretsky|UA||98|3qo|1si|17|Kerecke;Keretski;Kerets’ky
+Kellokoski|FI||92|4o5|1xr|17|Mariefors
+Kengyel|HU||8v|3ms|1kh|17
+Kfar Tavor|IL||6n|2it|2qe|17|Kefar Tabor;Kefar Tavor
+Kanakeravan|AM||80|33t|3fq|16|K’anak’erravan;Qanaqeravan;Kenakeravan
+Kennington|GB|England|9b|3y5|2g|16
+Keshāvarz|IR||7o|2uc|3ks|15|Kashāvar
+Kostek|RU||9i|3ce|3m5|15|Kestek
+Kenmar|US||48|36l|-5xs|15
+Kettenis|BE||8t|3wp|gt|15
+Kewaskum|US||2f|3cw|-6t3|15
+Keshmesh Tappeh|IR||7o|31a|3fb|14
+Kennington|GB|England|9b|3z1|-b|14
+Keele|GB||9b|438|-6d|14
+Kesova Gora|RU||9i|4fy|2vm|13|Kesova-Gora
+Kembs|FR||9k|3oh|ku|13|Cambetis
+Kensington Park|US||48|240|-6d6|13
+Kerang|AU||8j|-2r9|b3s|12
+Ketchenery|RU||9i|3nf|3fo|12|Sovetskoye
+Kemnay|GB||9b|4f0|-6s|12
+Keles|TR||94|32v|297|12
+Keran|IN||6t|2o9|5pf|12
+Kępice|PL||a5|46o|1ax|12|Hammermühle;Hąmer;Kempice
+Kecerovce|SK||9m|3rn|1nh|11
+Kenevīst|IR||7o|2st|4m6|11|Kenevīs
+Key Center|US||3p|3ni|-9gz|11
+Kafr Barā|IL||6n|2h9|2p5|11|Kefar Bara
+Kehrsatz|CH||a7|3mb|kr|10|Kerzac
+Kemzeke|BE||8t|3y9|bb|10|Kemseke
+Keiraville|AU||8l|-2nm|bn3|10
+Kébi|CI||0|pv|-ie|10
+Kegworth|GB||9b|42r|-3k|10
+Quessoy|FR||9k|3qi|-7e|10|Kesoue
+Le Cellier|FR||9k|3ng|-3r|10|Keller;Cellarium;Cellier
+Châtenois|FR|Grand Est|9k|3q3|kk|10|Kestenholz
+Kengyuan|CN||7i|216|98o|10
+Kerschoten|NL||8m|413|gl|z
+Kekaha|US||ax|1p1|-cbn|z
+Kevsala|RU||9i|3j8|3al|z
+Kenmount Terrace|CA||50|3o3|-42n|z
+Kensington|CA|Alberta|2s|44w|-8rd|z
+Kelenvölgy|HU||8v|3nt|1gu|y
+Kenedy|US||2f|282|-7jt|y
+Kéréguhé|CI||0|hv|-ij|y|Kérégüé
+Kelseyville|US||3p|30a|-9h8|y
+Kettig|DE||8r|3w0|kr|x
+Quévert|FR||9k|3qm|-5t|x|Kever
+Keibla|CI||0|j1|-ia|x
+Kerling|MY||6v|9z|7u8|x
+Asahimachi|JP||7q|3ei|azg|x|Kembuchi
+Kimito|FI||92|4n4|1r5|x|Kemiö
+Keiskammahoek|ZA||o|-2is|23f|x|Keiskamahoek
+Malville|FR||9k|3nk|-56|x|Kerwall
+Kennedy|US||3p|2xd|-9ct|x
+Kearney Lake|CA||35|3g5|-4ww|w
+Kemajuan Tanah Chemplak|MY||6v|6m|7xy|w|Chemplak;FELDA Chemplak
+Kealba|AU||8j|-2wu|b6b|w
+Keady|GB||9b|46p|-im|w|An Céide
+Kärdla|EE||9x|4jw|1r7|w|Kärrdal;Kyardla;Kärtla;Kerdla
+Kelbra|DE||8r|3yw|uo|v
+Kelson|NZ||ak|-36e|dhx|v
+Kefenrod|DE||8r|3vu|pl|v
+Koshelovo|UA||98|3q0|1st|v|Keselymező;Koshelëvo;Kosheliovo;Košelovo;Kosheleve;Koshel'ovo
+Kenova|US||48|2yo|-6de|v
+Kernohan|CA||2s|44v|-8qy|v
+Kedrovyy|RU|Tomsk Oblast|7r|4fw|651|v
+Kendall Green|US||48|20x|-66k|u
+Keego Harbor|US||2q|3ad|-6fi|u
+Kessel|NL||8m|3yh|gt|u
+Königstein|DE|Saxony|8r|3xg|133|u|Kralowc;Kēnigšteina;Koenigstein
+Kenvil|US||48|35k|-5ra|u
+Kerchevskiy|RU||7z|4mj|4ce|u|Kertsjevskij
+Kelebia|HU||8v|3kc|1ii|u
+Kemajuan Tanah Sebertak|MY||6v|92|7x0|u|Sebertak;FELDA Sebertak
+Keti Bandar|PK||6q|1v2|57d|t|Ketibunder
+Rabocheostrovsk|RU||9i|50j|2om|t|Papinsaari;Rabotšeostrovsk;Vallankumoussaari;Papinsuari;Popov;Kem Harbour
+Kewaunee|US||2f|3fi|-6r2|t
+Kenhorst|US||48|33z|-5uy|t
+Keheewin|CA||2s|44h|-8ra|t
+Kent|US|Connecticut|48|37w|-5o4|t
+Könekesir|TM||5x|2y6|4e4|s|Kënekesyr;Kënekesir;Koynekesir
+Kematen in Tirol|AT||a2|3n9|vb|s|Kematen en Tyrol
+Kerva|RU||9i|4ah|31y|s
+Kemajuan Tanah Ulu Tebrau|MY||6v|4k|808|r|Ulu Tebrau;FELDA Ulu Tebrau
+Kerensheide|NL||8m|3xl|g2|r|De Kaereshei
+Kerksken|BE||8t|3xd|b3|r|Kerkxken;Kerckxken
+Kemmerer|US||2p|383|-8j2|r
+Kesra|TN||1e|2rh|q0|r|Kasra
+Ketchum|US||28|3dc|-8to|r
+Kelsall|GB||9b|43t|-7j|r
+Kéfalos|GR||8p|2u3|22w|r|Cefalo
+Kearns|AU||8l|-2mi|bmw|r
+Kelč|CZ||9m|3tg|1di|r
+Kenyenya|KE||16|-2h|2oh|r
+Kehra|EE||9x|4ku|1yc|r|Kekhra;Kekra
+Kesälahti|FI||92|4ry|2av|r
+Keilor Park|AU||8j|-2ws|b6d|r
+Kemmern|DE||8r|3ur|u8|q
+Kellits|JM||3i|1eh|-5yj|q|Kellets;Kellitts
+Petit-Mars|FR||9k|3nn|-41|q|Kervarc'h;Kervarch;Parvus Marcius
+Kematen an der Ybbs|AT||a2|3pf|150|q
+Kemberg|DE||8r|3zt|z3|q
+Kempsey|GB||9b|40u|-66|q
+Ceamurlia de Jos|RO||8u|3g9|27s|q|Keamurli de jos;Ceamurli-de-Jos
+Keith-Lynn|CA||5b|3t0|-9hv|q
+Kesztölc|HU||8v|3oj|1g8|q
+Kenilworth|US|Illinois|2f|38x|-6ro|q
+Kerckebosch|NL||8m|40o|en|q
+Kenn|DE||8r|3uc|io|q
+Kemah|TR||94|320|30e|p|Kemakh
+KeurMassène|MR||19|19y|-191|p|KeurMacene
+Kensington Park|AU||8b|-2p0|ap5|p
+Sells|US||4i|2gn|-8ms|p|Kégiizhí Bikin
+Kenilworth|CA||2s|44o|-8r3|p
+Corcoué-sur-Logne|FR||9k|3mh|-4e|p|Kerchaoueg
+Keerbergen|BE||8t|3xo|cv|o
+Kei Mouth|ZA||o|-2is|26u|o
+Keresley|GB||9b|41p|-49|o
+Keimola|FI||92|4nm|1wy|o|Käinby
+Kestanelik|TR||94|36j|275|o
+Cattenom|FR||9k|3t9|hc|o|Kattenhofen;Kettenuewen
+Kéthely|HU||8v|3ll|1cb|o
+Kerlouan|FR||9k|3r5|-c5|o
+Kevermes|HU||8v|3ky|1mu|o
+Kelvedon Hatch|GB||9b|3zj|r|o
+Kensington Gardens|AU||8b|-2p1|ap6|o
+Kengir|KZ||5s|3ow|57t|o
+Kafr Nāsij|SY||69|2k3|2s4|o|Kefr Nasij
+Kenmore Hills|AU||8c|-24e|bst|o
+Aigrefeuille-sur-Maine|FR||9k|3ms|-3w|o|Kelenneg-ar-Mewan;Acrifolium
+Kentwood|US|Louisiana|2f|2dy|-6zf|n
+Kensington|US|Maryland|48|30f|-5y4|n
+Kekirini|CI||0|ll|-88|n
+Keyingham|GB||9b|457|-b|n
+Kemajuan Tanah Bukit Aping Timur|MY||6v|53|80y|n|FELDA Bukit Aping Timur;Bukit Aping Timur;East Aping Mountain
+La Bernerie-en-Retz|FR||9k|3ms|-5o|n|Kerverner-Raez;Bernerie-en-Retz
+Kesses|KE||16|u|2q3|n
+Kerzenheim|DE||8r|3tq|me|n
+Real|PH|Ilocos|71|17x|9ab|n|Keal
+Kea‘au|US||ax|1ii|-byo|n|Keaau
+Kemps Creek|AU||8l|-2m4|bmv|n
+Kent Ridge|SG||7j|3l|80a|n
+Kerrouchen|MA||d|2j4|-es|m
+Keadby|GB||9b|44v|-22|m
+Kemajuan Tanah Sungai Pancing Utara|MY||6v|ao|7yk|m|Sungai Pancing Utara;FELDA Sungai Pancing Utara;North Pancing River
+Kermen|BG||9v|3a2|20x|m|Kermon
+Kemer|TR|Burdur|94|2vr|2bi|m
+Kerecsend|HU||8v|3os|1kj|m
+La Richardais|FR||9k|3r1|-5o|m|Kerricharzh-an-Arvor
+Kenmare|IE||8z|404|-qm|m|Neidin;An Neidín;Kevmare
+Kebon Gunung|ID||6l|-l9|8hp|m
+Kedrovoye|RU||7z|4es|4o9|m|Kedrovoje
+Kéraoréguhé|CI||0|i4|-iq|l
+Kemaliye|TR||94|312|2yy|l
+Keelby|GB||9b|44u|-p|l
+Kew|NZ||ak|-3kz|czn|l
+Kellogg|US|Idaho|3p|3o2|-8yk|l
+Ķegums|LV||9n|4dn|1wo|l|Keggum;Kiegumos;Kegumas;Keggums
+Espoon Keskus|FI||92|4n8|1wh|l|Esbo centrum;Centti;Sentti;Cena;Sena;Espis;Eekoo;Epekepe;Espoon Centti;Espoon Sentti;Kespoo
+Kershaw|US||48|2nz|-67u|l
+Kék|HU||8v|3po|1os|k
+Kearny|US|Arizona|4i|2ju|-8k3|k
+Korgöz|AZ||61|33y|3tu|k|Kërgëz
+Kelberg|DE||8r|3vp|j8|k|Kehlberg
+Kemajuan Tanah Sungai Pancing Timur|MY||6v|am|7yo|k|FELDA Sungai Pancing Timur;Sungai Pancing Timur;East Pancing River
+Kealakekua|US||ax|1i8|-c14|k|Ke-ala-ke-kua;Kealakeakua
+Kemajuan Tanah Bukit Kepayang|MY||6v|98|7wy|k|FELDA Bukit Kepayang;Bukit Kepayang
+Kensington|US|New Hampshire|48|3b9|-5h2|k
+Saschiz|RO||8u|3ka|1xd|k|Szászkézd;Chizd;Keisd
+Tammerkoski|FI||92|4qu|1u0|k|Keskikaupunki
+Kemajuan Tanah Bukit Besar|MY||6v|4x|803|k|FELDA Bukit Besar;Bukit Besar
+Kechi|US||2f|2x0|-7i8|k
+Glenmoor|US||48|34z|-67y|k|Kenmoor
+Kedgwick|CA||43|3oc|-572|k
+Kemah|US||2f|2a2|-7by|k
+Kefar Vitqin|IL||6n|2hy|2ow|k|Kfar Vitkin;Kefar Witkin;Kefar Witqin;Kefar Vitkin
+Keitele|FI||92|4vi|219|k
+Kell|DE||8r|3tv|iy|k
+Kenmure|NZ||ak|-3jg|d5i|j
+Kennelbach|AT||a2|3nw|r5|j
+Kfar Shmaryahu|IL||6n|2hf|2oq|j|Kefar Shemaryahu;Kfar Shemaryahu;Kfar Šmarjahu;Kefar Szemarjahu;Kefar Xemaryahu;Kfar Şmaryahu;Kesar Shenaryahu;Kefar Shmaryahu
+Ketton|GB||9b|427|-1j|j
+Kessenich|BE||8t|3y3|g6|j
+Kecskéd|HU||8v|3o0|1ev|j|Kätschka
+Ketane|LS||12|-2bj|25e|j
+Kenilworth|US|Pennsylvania|48|33r|-5u3|j
+Kemajuan Tanah Bukit Easter|MY||6v|4v|814|j|FELDA Bukit Easter;Bandar Easter;Bukit Easter;Easter City
+Kempenich|DE||8r|3w2|js|j
+Kameničná|SK||8s|3ou|1e4|j|Keszegfalva
+Kelvin|CA||5b|3sq|-9hh|j
+Kent Acres|US||48|30p|-5ts|j
+Kékégoza|CI||0|is|-i7|j
+Kérébadougou|CI||0|rn|-l6|j
+Corseul|FR||9k|3qo|-61|j|Kersaout;Corsoltum
+FELDA Bukit Damar|MY||6v|9u|7vo|j|Kemajuan Tanah Bukit Damar;Bukit Damar
+Kedington|GB||9b|40p|1d|i
+Kerspleben|DE||8r|3xp|uu|i
+Kenyon|US||2f|3ez|-76b|i
+Kelvin Grove|CA||2s|3xn|-8sx|i
+Kent|SL||l|n5|-10b|i
+Kemajuan Tanah Sungai Pancing Selatan|MY||6v|aj|7yl|i|Sungai Pancing Selatan;FELDA Sungai Pancing Selatan;South Pancing River
+Kester|BE||8t|3x0|bg|i
+Keremeos|CA||5b|3so|-98w|i
+Keresztúridűlő|HU||8v|3nv|1hb|i
+Keneba|GM||7|111|-18h|i
+Notre-Dame-des-Landes|FR||9k|3nm|-4r|i|Kernitron-al-Lann
+Kettenkamp|DE||8r|423|lr|i
+Key Vista|US||48|26b|-6dx|i
+Kenneu|CI||0|k0|-mi|i|Kinneu
+Kettershausen|DE||8r|3pu|sj|i
+Keeseville|US||48|3fn|-5o4|i
+Kenbé|CI||0|mc|-jh|i
+Kemerkaya|TR||94|301|2eb|h
+Keilor Lodge|AU||8j|-2wq|b68|h
+Kefken|TR||94|36d|2bz|h
+Chéméré|FR||9k|3mw|-5c|h|Keverieg;Camariacus
+Kensington Grove|AU||8c|-24h|brj|h
+Kentland|US||2f|359|-6qx|h
+Keifa|CI||0|hq|-f4|h
+Querrien|FR||9k|3p8|-9u|h|Kerien
+Kerhonkson|US||48|381|-5qe|h|Kerhonkton
+Kelestān|IR||7o|2b1|41b|h|Kalistan;Ketestān;Golestān
+Modrý Kameň|SK||8s|3q0|1hp|h|Kékkő
+Kehlen|LU||9c|3tz|gs|h|Kielen
+Keswick Ridge|CA||43|3js|-55s|h
+Kensett|US||2f|2pv|-72n|h|Kennsett
+Kensington|NZ||ak|-3fd|d7p|g
+Kerċem|MT||9e|2s4|13j|g|Kerchem
+Kensington|CA|Prince Edward Island|35|3kz|-4wt|g
+Kematen an der Krems|AT||a2|3pn|13f|g
+Kēōkea|US||ax|1lj|-c2b|g
+Kei Road|ZA||o|-2iv|24j|g
+Cintré|FR||9k|3pn|-57|g|Kentreg
+Kemajuan Tanah Simpang Waha|MY||6v|4w|813|g|FELDA Simpang Waha;FELDA Waha;Waha;FELDA Bukit Waha;Bukit Waha
+Kettle Falls|US||3p|3r1|-93y|g
+FELDA Kemansul|MY||6v|95|7vz|g|Kemansul
+Kesmetepe|TR||94|2wb|2x4|g
+Kehtna|EE||9x|4jp|1x4|g|Kekhtna
+Kersey|US|Colorado|2p|347|-82g|g
+Kestilä|FI||92|4yr|210|g
+Kerens|US||2f|2h9|-7fb|g
+Ketenpınar|TR||94|31u|3dc|g
+Qedar|PS||6n|2g7|2q3|g|Kedar
+Campénéac|FR||9k|3p8|-6d|g|Kempenieg;Campaniacum
+Kemajuan Tanah Chemplak Barat|MY||6v|6n|7xx|g|FELDA Chemplak Barat;Chemplak Barat
+Kenkhi|RU||9i|3ag|3jn|g|Kenxa;Kvanxi
+Kéliéguhé|CI||0|i8|-j1|f
+Keskastel|FR||9k|3s1|jk|f
+Késabli|CI||0|kb|-ka|f
+Kandaklī|IR||7o|2tl|4pm|f|Kendikli;Kandkali;Kaandakali
+La Limouzinière|FR||9k|3mj|-4g|f|Kerlouevig
+Kelloe|GB||9b|480|-43|f
+Keshupur|PK||6q|2hm|5le|f|Keshopur
+Kemeten|AT||a2|3n9|18v|f
+Kerestinec|HR||a6|3j5|17x|f
+Kessin|DE||8r|459|10z|f
+Kémédi|CI||0|me|-94|f|Kiemedi
+Crédin|FR||9k|3pf|-7p|f|Kerzhin
+Kew|TC||2z|1ov|-5jz|f
+Kelleci|TR||94|2x1|28a|f
+Kemajuan Tanah Pasir Raja|MY||6v|4w|7zz|f|FELDA Pasir Raja;Pasir Raja
+Kfar HaRo’e|IL||6n|2hz|2oz|f|Kefar HaRo’e;Kefar Haroeh;Kfar Haroeh
+Kensworth|GB||9b|401|-1e|f
+Kenly|US||48|2qw|-610|f
+Kemajuan Tanah Bukit Aping Barat|MY||6v|53|80v|e|Bukit Aping Barat;FELDA Bukit Aping Barat;West Aping Mountain
+Kettleman City|US||3p|2s1|-998|e|Kettelman City
+Kfar Sirkin|IL||6n|2h4|2p1|e|Kfar Syrkin;Kefar Syrkin;Kefar Sirkin
+Keystone Heights|US||48|2ar|-6bv|e
+Kerimbeyli|TR||94|333|3fa|e
+Keating|CA||5b|3qx|-9is|e
+Kernville|US||3p|2rb|-94z|e
+Kellmünz|DE||8r|3po|s5|e
+Shyroke|UA|Odesa|98|3jo|2bl|e|Chebabcea;Kebaktschy
+Kelasuri|GE||7n|3be|363|e
+Kenār Sar-e Bozorg|IR||7o|2vn|3ub|e
+Kfar Menaẖem|IL||6n|2g5|2os|e|Kefar Menaẖem
+Kfar Rosh HaNiqra|IL||6n|2jx|2pk|e|Ro’sh HaNikra;Rosh Haniqrah;Rosh Haniqra;Kefar Rosh HaNiqra
+Kerimler|TR||94|36y|2hd|d
+Kępie Żaleszańskie|PL||a5|3wo|1os|d
+Boğazören|TR||94|2w9|3bh|d|Kel’ketir;Gelgetir
+Keith|AU||8b|-2sa|atv|d
+Keiem|BE||8t|3xw|80|d|Keyhem;Keyem
+Kent Town|AU||8b|-2p0|ap2|d
+La Grigonnais|FR||9k|3o1|-4n|d|Kerrigon
+Günindi|TR||94|33p|3c6|d|Kers
+Keeler Farm|US||2p|2hs|-8bc|d
+Kersbeek-Miskom|BE||8t|3xd|dw|d|Kersbeek-Miscom
+Kerīq|IR||7o|2y3|3qw|d
+Sarigyugh|AM||80|360|3he|d|Sarigyukh;Sarıgüh;Sarigyux;Glechkent;Kelejkend;Klechkend;Klich;Klichkend;Ghelejkend;Ghlechkend;Ghlichkend;Ghlijkend;Ghlijkyand;Noragegh;Seri;Sri;Srikend
+Kerstentsi|UA||98|3qd|217|d|Cristinești
+Keshena|US||2f|3go|-6u7|d
+Kfar Bilu|IL||6n|2gk|2oq|d|Kefar Bilu
+Kemp|US||2f|2i4|-7fb|d
+Kemnitz|DE||8r|468|11m|d
+La Bernardière|FR||9k|3mp|-3j|d|Kervernarzh;Bernardière
+Keitum|DE||8r|48h|n9|d|Kairem;Kejtum
+Saint-Sauveur-des-Landes|FR||9k|3qa|-3n|c|Kersalver-al-Lann
+Kennebunkport|US||48|3cg|-5fs|c|Kennebunk Port
+Köseli|TR||94|2x4|34t|c|Këseli
+Keystone Village|CA||35|3g7|-4wi|c
+Kerkom|BE||8t|3xa|dj|c
+Komarovo|RU||9i|4n7|2at|c|Kellomäki;Komarowo;Kellomayki;Kelomyaki
+Kenbridge|US||48|2uo|-610|c
+Kenton|US|Tennessee|2f|2sk|-6v9|c
+Kenwood|US|Oklahoma|2f|2sv|-7bv|c
+Kenduskeag|US||48|3gs|-5bh|c
+Kendè-Dan|CI||0|lw|-fr|c
+Kénéfoué|CI||0|kr|-fj|c
+Kfar Warburg|IL||6n|2g4|2og|c|Kefar Warburg
+Keenesburg|US||2p|33f|-82c|c
+Kfar Netter|IL||6n|2hn|2ov|c|Kefar Neter;Kefar Netter
+Kfar H̱ittim|IL||6n|2j4|2qm|c|Kefar H̱ittim;Kefar Hitim;Kefar Hittin;Kfar Hitim
+Kensington|US|New York|48|35b|-5os|c
+Aydınkonak|TR||94|2x9|36c|c|Këryuk
+Kentstown|IE||8z|44z|-i5|c|Baile an Cheantaigh
+Kertzfeld|FR||9k|3qe|l1|c
+Krrabë|AL||9y|36i|1jh|c|Krraba;Kërrabë;Kërraba
+Kemajuan Tanah Inas Utara dan Selatan|MY||6v|4x|7zt|c|FELDA Inas Utara dan Selatan;FELDA Inas;Inas
+Kernilis|FR||9k|3qx|-ca|c|Kerniliz
+Klingenbach|AT||a2|3on|19y|c|Klinpuh;Kelénpatak
+Kelpen-Oler|NL||8m|3ya|g7|c
+Kenilworth Park|US||48|31b|-5ws|c
+Kersaint-Plabennec|FR||9k|3qn|-c5|c|Kersent-Plabenneg
+Keedysville|US||48|31p|-5zu|c
+Kemmel|BE||8t|3x2|7v|c
+Quéménéven|FR||9k|3pn|-bg|c|Kemeneven
+Kefar ‘Eẕyon|PS||6n|2fx|2pk|c|Kfar Etzion;Kfar Ecjon;Kfar-Etsion;Kefar Etzion;Kfar Etziyon
+Kellyville|US||2f|2ru|-7f9|b|Kelleyville
+Kébouébo|CI||0|if|-ms|b|Bouébó;Ke-bouébo
+Kédange-sur-Canner|FR||9k|3sz|hm|b|Kédange-sur-Camer
+Québriac|FR||9k|3qb|-53|b|Kevrieg
+Kehrig|DE||8r|3vo|k2|b
+Keuka Park|US||48|3ae|-5y5|b
+Cârţişoara|RO||8u|3j0|1wa|b|Kercisóra;Cîrţişoara
+Kerīk|IR||7o|2we|4e7|b|Kerrik
+Kersbrook|AU||8b|-2om|app|b
+Tselafon|IL||6n|2gc|2p1|b|Kfar Uriyah Bet;Celafon;Tzelafon;Zelafon;Kefar Uriyah Bet
+Kendall|AU||8l|-2fv|bs6|b
+Kent City|US||2q|3c2|-6m7|b
+Karavan|KG||65|33y|5kj|b|Kerben
+Kermenchyk|UA||98|3oj|2um|b|Oktyabr’skiy;Oktyabr’skoye;Oktiabrske;Kermentschyk;Kermentchyk;Oktyab’skiy;Kermenčyk
+Kennedys Bush|NZ||ak|-3d4|dbe|b
+Kenmare|US||2f|3r7|-7vk|b
+Keystone|US|Colorado|2p|320|-86f|b
+Kempner|US||2f|2ec|-7k8|b
+Kellenhusen|DE||8r|46j|uq|b
+Quemper-Guézennec|FR||9k|3ra|-8n|b|Kemper-Gwezhenneg;Quemper-Guézennac
+Quédillac|FR||9k|3q1|-5y|b|Kedilieg
+La Remaudière|FR||9k|3n8|-3g|b|Kerravaot;Ramauderia
+Kerrobert|CA||4q|408|-8f5|b
+Kemajuan Tanah Bukit Ramon|MY||6v|4v|805|b|Kemajuan Tanah Bukit Ramun;FELDA Bukit Ramon;FELDA Bukit Ramun;Bukit Ramon;Bukit Ramun
+Keda|GE||7n|37k|38i|b|K'eda
+Kearney Park|US||2f|2ij|-6yw|b
+Keijenborg|NL||8m|40j|hh|b|Keyenborg;Keienburg;Keienborg
+Keewatin|US||2f|3no|-76j|a|Kewadin
+Kedichem|NL||8m|402|e1|a
+Kerkehout|NL||8m|40r|c6|a
+Cherrueix|FR||9k|3r1|-4r|a|Kerruer
+Kew|AU|New South Wales|8l|-2fw|bs9|a
+Cahersiveen|IE||8z|40b|-se|a|Cathair Saidhbhín;Kersivinas;Cahirciveen;Cahersween
+Kfar Pines|IL||6n|2i8|2p8|a|Kefar Pinnes;Kefar Pines
+Kenwood|US|California|3p|2yp|-9gf|a
+Kerbach|FR||9k|3sl|jd|a
+Kentrí|GR||8p|2pb|1zj|a|Kendrí
+Ceamurlia de Sus|RO||8u|3gc|27h|a|Keamurli de sus;Ceamurli-de-Sus
+Kenton|GB||9b|3wo|-9n|a
+Kerkhove|BE||8t|3x4|9q|a
+Kédigbo|CI||0|ep|-gh|a
+Kandergrund|CH||a7|3lc|la|a|Kendergrund
+Kellington|GB||9b|458|-39|a
+Kennford|GB||9b|3wr|-9u|a
+Kerkíni|GR||8p|36i|1s4|a
+Keota|US|Iowa|2f|36w|-73f|a
+Qvutsat Yavne|IL||6n|2ge|2og|a|Qevuẕat Yavne;Qevutsat Yavne;Kevutsat Yavne;Kvutzat Yavne
+Kellerberrin|AU||8k|-2fv|930|a
+Kefalóvryso|GR|Thessaly|8p|31y|1o9|a|Kefalóvrison
+Kfar Shmu’el|IL||6n|2gl|2p1|a|Kefar Shemu’él;Kefar Shmuel
+Kendenup|AU||8k|-2ns|92r|9
+Kenesaw|US||2f|34u|-7m2|9
+Keosauqua|US||2f|355|-73g|9|Keosauque
+Kfar Monash|IL||6n|2hv|2p0|9|Kefar Monash
+Kelvington|CA||4q|40x|-7zl|9
+Kersey|US|Pennsylvania|48|36w|-62c|9
+Kechut|AM||80|32k|3iv|9|Kech’ut;Quşçu;Keçud
+Kolā Sar|IR||7o|2yi|3qu|9|Kelāsar
+Cârţa|RO|Sibiu County|8u|3j6|1w9|9|Kerc;Cîrţa
+Kesswil|CH||a7|3o7|pw|9
+Kébli|CI||0|kn|-km|9
+Kfar H̱oshen|IL||6n|2jp|2qg|9|Kefar H̱oshen
+Keti|AM||80|35j|3dt|9|Qeti;Verin Getik
+Keur Babakar Toumbou|SN||g|137|-1ag|9
+Kerlaz|FR||9k|3pl|-bv|9
+Kefermarkt|AT||a2|3qk|14e|9
+La Rouxière|FR||9k|3ns|-2z|9|Kerrouz
+Laignelet|FR||9k|3qd|-37|9|Kernoanig;Sanctus Martinus de Agnello
+Kéré|CI||0|r6|-lf|9
+Keuschen|AT||a2|3ov|10y|9
+Kénegbé|CI||0|ml|-ik|9
+Gerīmenj|IR||7o|2m6|4jm|9|Girimānj;Gīrīmenj;Germānj;Gerīmench;Kerīmonj;Gerī Menj
+Kesmeköprü|TR||94|2ws|371|9
+Kyuerdem|RU||7x|4qn|9yw|9|Kerdem
+Konārjū|IR||7o|22a|4en|9|Kanār Jū;Kenārjū
+Kéatouo|CI||0|im|-mx|9
+Kenansville|US||48|2p4|-60k|9
+Keumiée|BE||8t|3w6|cr|9
+Kfar Masaryk|IL||6n|2jd|2pi|9|Kefar Masaryk
+Kūshk|IR|East Azerbaijan|7o|2xy|3in|9|Keshk;Kūshg;Koshk
+Kelsey-Woodlawn|CA||4q|40v|-88a|9
+Kfar Bialik|IL||6n|2j6|2ph|9|Kefar Bialiq;Kefar Bialik
+Käina|EE||9x|4jf|1ra|9|Keina
+Key Colony Beach|US||48|1wo|-692|9
+Kempfeld|DE||8r|3ub|k5|9
+Kelekli|TR||94|2uk|2xj|8|Kelekci;Ketekli
+Kefalóvryso|GR|Epirus|8p|335|1l4|8|Migidei;Migideia;Kefalóvrison
+Nerkin Karmiraghbyur|AM||80|35q|3i8|8|Nizhniy Karmragbyur;Nerkin Karmir aghbyur;Nerkin Kamiraxpyur;Gergin Karmiraxpür;Nerkin Karmiraxpür;Kesala;Nerkin Karmirakhpyur
+Kearsley|AU||8l|-2j9|bok|8
+Kesr Pīshkamar|IR||7o|2w8|4ai|8
+Kemalköy|TR||94|37y|21c|8|Kemal
+La Vicomté-sur-Rance|FR||9k|3qp|-5i|8|Kerveskont
+Caersws|GB||9b|41w|-9j|8|Kersusas
+Keysville|US||48|2uw|-620|8
+Keçikıran|TR||94|2up|30a|8|Kechikyran
+Kefferhausen|DE||8r|3yk|sk|8
+Kergloff|FR||9k|3q3|-a2|8|Kerglof
+Kerepesdűlő|HU||8v|3nx|1h2|8
+Kfar Ahim|IL||6n|2g6|2ok|8|Kfar Achim;Kefar Aẖim
+Kefalochóri|GR||8p|34p|1q5|8|Kefalokhóri
+Kétiébou|CI||0|lu|-cd|8
+Kęsowo|PL||a5|44s|1d8|8
+Kermaria-Sulard|FR||9k|3rh|-9d|8|Kervaria-Sular
+Kerry|GB||9b|41u|-92|8
+Keispelt|LU||9c|3u1|gv|8|Keespelt
+Kemble|GB||9b|3zj|-5m|8
+Kerfourn|FR||9k|3pg|-7v|8|Kerforn
+Kéklobly|CI||0|kc|-ka|8
+Keshār-e ‘Olyā|IR||7o|2rh|3yb|8
+Kettering|AU||8g|-3bt|bd1|8
+Kfar Blum|IL||6n|2k5|2qx|8|Kefar Blum
+Kénégbè-Sud|CI||0|lt|-ib|8
+Eliaçık|TR|Diyarbakır Province|94|2xb|34r|8|Këpekli;Kopeklî
+Kfar Szold|IL||6n|2k8|2r2|8|Kefar Sold;Kefar Szold
+Kfar Bin Nun|IL||6n|2gi|2p3|7|Kefar Bin Nun
+Kelil|IL||6n|2jn|2ps|7
+Keswick|AU||8b|-2p2|aox|7
+Kestert|DE||8r|3ve|l9|7
+La Ville-ès-Nonais|FR||9k|3qv|-5f|7|Kerlean
+Késédougou|CI||0|pu|-lv|7|Kessédougou
+Kerpiçköy|TR||94|30j|2ii|7|Kerpiç
+Kesikköprü|TR||94|31f|2ks|7
+Kentlyn|AU||8l|-2mm|bn3|7
+Kergrist-Moëlou|FR||9k|3q7|-98|7
+Kestřany|CZ||9m|3sv|133|7|Alt Kesterschan
+Keldonk|NL||8m|3zb|fi|7
+Kellau|AT||a2|3o9|10m|7
+Kfar ‘Azza|IL||6n|2fg|2nx|7|Kefar ‘Azza;Kefar Azza
+Kerkhoven|US||2f|3hj|-7cs|7
+Kesseleik|NL||8m|3yg|gq|7
+Kenninghall|GB||9b|41n|2s|7
+Keswick|US||48|31a|-5wv|7
+Kehi|CI||0|sg|-l0|7|Keli
+Kerniel|BE||8t|3x6|ex|7
+Kergrist|FR||9k|3pr|-88|7|Kergres
+Akbulak|TR||94|2yn|35v|7|Kemika;Qemikan
+Kesheh|IR||7o|2kr|3zt|7
+Keiser|US||2f|2r3|-6ya|7
+La Chevallerais|FR||9k|3nv|-4n|7|Kergaval;Chevallerais;La Chevalerais
+Keklicek|TR||94|33m|2ks|7
+Villepot|FR||9k|3oq|-3k|7|Kerbod;Villa Porchi
+Kelechyn|UA||98|3r3|1sz|7|Kelechin
+Chauvigné|FR||9k|3qe|-42|7|Kelvinieg
+Keşaflı|TR||94|2t4|2hf|7|Keşefli
+Kelbrook|GB||9b|45q|-5z|7
+Kefalári|GR||8p|2wg|1r1|7
+Kfar Gil‘adi|IL||6n|2kc|2qu|7|Kefar Gil‘adi;Kfargileady;Kefar Gile‘adi
+Kéklé Kouakoukro|CI||0|la|-dn|7|Kékré Kouakoukro
+Kerzhenets|RU||9i|4cv|3fe|7|Kerzjenets
+Kelchsau|AT||a2|3nm|xp|7
+Kemer|TR|Canakkale|94|34a|237|7
+Currie|AU||8g|-32x|b3l|7|Kerri
+Kematen am Innbach|AT||a2|3pu|12i|7
+Kešinci|HR||a6|3hz|1fk|6
+Kfar Mordekhay|IL||6n|2gf|2ok|6|Kfar Mordekhai;Kefar Mordekhai;Kefar Mordekhay
+Kępie|PL||a5|3w6|1je|6
+Kerkom-bij-Sint-Truiden|BE||8t|3x1|ee|6|Kerckom-bij-Sint-Truiden
+Ketkovice|CZ||9m|3sk|196|6
+Kesseling|DE||8r|3w8|ji|6
+Kesecik|TR||94|2we|2xp|6
+Kevil|US||2f|2v1|-6ux|6
+Kfar Kisch|IL||6n|2ir|2qh|6|Kefar Kish;Kefar Kisch
+Kemexhe|BE||8t|3wu|f1|6
+Keysbrook|AU||8k|-2i3|8y5|6
+Kernouës|FR||9k|3qz|-c3|6|Kernouez
+Keystone|US|Iowa|2f|38o|-744|6
+Kestane|TR||94|35n|2xq|6
+Katlijk|NL||8m|433|gp|6|Ketlik;Katliek
+Kelso|US|Missouri|2f|2vb|-6wr|6
+Kensington|AU|Queensland|8c|-1x8|br4|6
+Kewanna|US||38|35y|-6o1|6
+La Chèze|FR||9k|3pp|-7e|6|Kez
+Kenilworth|AU||8c|-21w|bs9|6
+Kenefick|US||2f|2bn|-7bi|6
+Kentisbeare|GB||9b|3xb|-99|6
+Kèsianko|CI||0|op|-lq|6
+Kehlhof|CH||a7|3n7|oa|6
+Kerby|US||3p|397|-9jh|6
+Ketelhaven|NL||8m|422|g0|6
+Kella|DE||8r|3yb|s0|6
+Kellogg|US|Iowa|2f|37w|-763|6|Kellog
+Kerfot|FR||9k|3re|-8f|6|Kerfod
+Yaylacık|TR|Mardin|94|2w0|350|6|Keferdel’;Keferdel
+Kerewan|GM|Upper River|7|115|-13i|6
+Kerámion|GR||8p|30y|20t|6
+Keithsburg|US||2f|366|-70m|6
+Keenagh|IE||8z|44y|-lp|6|Caonach;Kenagh
+Kemerkasım|TR||94|35o|2eo|6
+Kerkwerve|NL||8m|3zl|au|6|Kerkwaerve
+Cheix-en-Retz|FR||9k|3n2|-51|6|Keiz-Raez
+Keener|US||48|2pj|-61k|6
+Kent Narrows|US||48|309|-5vs|6
+Keys|US||2f|2rg|-7bt|6
+Keota|US|Oklahoma|2f|2py|-7bo|6
+Kélli|GR||8p|35b|1o9|6|Kella
+Vágfüzes|SK||8s|3ox|1e5|6|Vrbová nad Váhom;Sziget;Keszegfalusi Sziget
+Keklikdere|TR||94|2y8|35q|6|Tewerz
+Keben|TR||94|2t7|2lp|6
+Keyport|US|Washington|3p|3oi|-9gm|6
+Kartī|IR||7o|1yq|4k5|6|Kerti
+Kemerköy|TR||94|2t0|2aj|6
+Kisecik|TR||94|2vv|2jp|5|Kesecik
+Kehmstedt|DE||8r|3yz|th|5
+Kelly|US||48|2nr|-61k|5
+Kemolar|TR||94|2wx|2xk|5|Öğütlü;Xazîkan;Gazikân
+Kents Pond|CA||50|3o7|-42g|5
+Karaköy|TR|Bilecik|94|332|2bc|5|Keraköy
+Kerepehi|NZ||ak|-2vm|djl|5|Kerepeehi
+Quelneuc|FR||9k|3ou|-5r|5|Kelenneg
+Kelayres|US||48|35m|-5v4|5
+Kempsey city centre|AU||8l|-2ec|bsk|5
+Kepezli|TR||94|2tw|311|5
+Kfar Ruppin|IL||6n|2i6|2qs|5|Kefar Ruppin
+Kétongouiné|CI||0|jv|-l0|5
+Kettinge|DK||8y|47y|wl|5|Kjettinge;Kiettinge
+Kerem Ben Zimra|IL||6n|2js|2qj|5
+Kerkenveld|NL||8m|42b|i2|5
+Kerpiçli|TR||94|369|2ti|5
+Kelīkān|IR||7o|2tg|41h|5
+Kettlasbrunn|AT||a2|3qv|1a9|5
+Kedārnāth|IN||6t|2dc|63n|5
+Kelemen|HR||a6|3ki|19o|5
+La Selle-en-Luitré|FR||9k|3q7|-35|5|Kell-Loezherieg
+Kemmenau|DE||8r|3vv|lj|5

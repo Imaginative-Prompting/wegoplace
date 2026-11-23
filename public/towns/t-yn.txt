@@ -1,0 +1,10 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Enschede|NL||8m|412|j6|16p|Enskede;Ensjedee;Ynskedee;Eanske
+Chester|GB||9b|43r|-81|p5|Ĉestro;Caer;Česteris;Cestria;Yn Çhaayr;Deva
+Navan|IE||8z|451|-ik|9f|An Uaimh;Yn Ooive
+Newry|GB||9b|46i|-hm|7q|Iúir Cinn Trá;Iúr Cinn Trá;Iuorus;Niūris;Yn Euar
+Wick|GB|Scotland|9b|4ic|-8l|1z|Yn Ooig;Inbhir Ùige;Week;Weik;Vikas
+Inzell|DE||8r|3oo|zf|17|Ynzell
+Ynysybwl|GB||9b|3zg|-9c|z
+Dingle|IE||8z|40u|-sj|l|An Daingean;Dinglis;Yn Dein;Daingean Uí Chuis
+Yngsjö|SE||9w|4b8|13k|6

@@ -1,0 +1,22 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Lhasa|CN||7i|2ad|712|6p3|Lhassa;Lassa;Lhásza;Lasao;Lása;Lhas
+Lhoka|CN||7i|298|72x|2q9|Nêdong;Zêtang
+L'Hospitalet de Llobregat|ES||9d|36w|5u|1ze|Hospitalet de Llobregat;l'Hospitalet
+Lhokseumawe|ID||6l|ee|7hv|1jt|Lho’seumawe;Lhoksumawe
+Lleida|ES||9d|37m|1q|134|Lérida;Ilerda;Ilerdo;Lhèida
+Lhünzhub|CN||7i|2b1|71i|e2
+L'Haÿ-les-Roses|FR||9k|3ri|6i|89
+Lherm|FR||9k|3cn|3e|t
+Lhenice|CZ|South Bohemian Region|9m|3s3|13b|l
+Lhenice|CZ|Ústí nad Labem Region|9m|3wi|12j|l
+Lhanbryde|GB||9b|4g4|-8y|k
+Lhuentse|BT||7p|24v|71a|j
+Lhomme|FR||9k|3om|1k|9
+Lhuis|FR||9k|3j2|fe|8
+Lhota|CZ|Zlín|9m|3sl|1cw|8
+Lhommaizé|FR||9k|3l0|1o|8
+Lhota pod Libčany|CZ||9m|3vd|17m|8
+Lhota u Vsetína|CZ||9m|3sy|1dw|7
+Lhota|CZ|Central Bohemia|9m|3v5|12x|6
+Lhota|CZ|Central Bohemia|9m|3vk|14q|5

@@ -1,0 +1,606 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Durban|ZA||o|-2ay|2e7|pr8|ITheku;Thekong;EThekwini;Port Natal
+Port Harcourt|NG||u|da|jh|gcw|Port Harkortas;Ugwu Ọcha;Port Xarcourt;Port Harkurt
+Porto Alegre|BR||4w|-2bf|-3yb|bhf|Puerto Alegre;Porto-Alegro;Portus Alacer;Portualegri;Portu-Alegri
+Port-au-Prince|HT||4j|1fi|-5ky|9iz|Puerto Príncipe;Pòtoprens;Port o Prensas;Porto Príncipe;Portoprensa;Port au Prince;Port-o-Prins;Portoprinco;Portus Principis;Port-o-Prens
+Gqeberha|ZA||o|-2mc|1z5|83p|Port Elizabeth;Puerto Elizabeth;die Baai;Porto Elizabeth;Port Elizabetas;Portus Elisabethae;Portelizabeta;Ibhayi;Port Elisabeth;Port Elizabet
+Port Said|EG||c|2ev|2hq|60t|Puerto Saíd;Port-Saïd;Porto Said;Bursaid;Būr Sa‘īd;Bor Sa‘īd
+Portland|US|Oregon|3p|3ig|-9gs|519|Portlenda;Portlend
+Porto Velho|BR||4l|-oc|-4xi|48i|Porto Veljas;Porto Velyo
+Port Sudan|SD||r|1ii|2ve|3s1|Bur Sudan;Puerto Sudán;Port-Soudan;Porto Sudan;Sudanhavenurbo;Port Szudán;Pòrt Sodan;Port-sudan;Porto Sudão;Bar'uut;Būrt Sūdān
+Jayapura|ID||6m|-71|auw|365|Hollandia;Port Numbay;Djajapoera;Džajapura;Jaya Pura;Noordwijk;Djajapura
+Bandar Abbas|IR||7o|23j|4cc|2pu|Cambarão;Port Comorão;Gombroon;Gumrun;Bandar-e Abbas;Bandar Abas;Bandar-Abbász;Bender Ebbas;Bandare Abasas;Bender Abbas;Bandar-Abbas;Bandar-e ‘Abbās;Bandar ‘Abbāsī;Bandar ‘Abbās
+Nantes|FR||9k|3n6|-4b|2ib|Naoned;Nanto;Portus Namnetus;Nante
+Portoviejo|EC||33|-2y|-67h|2he|Portovjechas
+Coatzacoalcos|MX||41|1ef|-7ac|2eb|Puerto Mexico;Koacakoalkosas;Port of Mexico
+Port-de-Paix|HT||4j|1je|-5mb|2d2|Pòdepè;Pòdpè;Porto-da-Paz;Port Paix
+Port Moresby|PG||bd|-qc|bcr|26t|Puerto Moresby;Port Morsbis;Pot Mosbi;Port Morsbi;Port-Moresbo;Pò Moresbi;Portus Moresbiensis;Portmorsbi
+Porto-Novo|BJ||1b|i2|78|21f|Porto Novo;Porto Novas;Pòto-Novo;Portus Novus;Pòrto Neuvo;Portonovo;Borto-Novo
+Porto|PT||99|36b|-nx|1y7|Portu;Portus Cale
+Puerto Montt|CL||4u|-377|-5mm|1wb|Port Montt;Portus Monttii;Puerto Montas;Puertomonta;Puertu Montt;Puerta Muonts;Puertomonto
+Porlamar|VE||2c|ug|-4xf|1o2
+Portsmouth|GB||9b|3x4|-31|1lt|Portsmuto;Porchémue;Portsmuta;Portsmutas;Portus Ostium;Portsmut
+Porto Seguro|BR||20|-19p|-30i|1eq
+Puerto Cabello|VE||2c|t3|-58x|1cc|Puerto Kabeljas;Portus Cabellensis
+Santander|ES||9d|3cr|-ak|1c8|Sanandere;Portus Victoriae Iuliobrigensium;Santandel
+Port Saint Lucie|US||48|23t|-677|19q|Port Sint Lucie
+Port-Gentil|GA||v|-20|oe|19k|Port Gentil;Port-Jantil;Port Žantilis;Mandji
+Port Louis|MU||ag|-1k0|4fq|174|Port-Louis;Puerto Louis;Port Luisas;Pò-Loui;Portluī;Portus Ludovici;Port-Luiso;Port Luiz;Port Luis;Bort Lois;Port Lois;Port-lui;Port Lui
+Porbandar|IN||6t|1o4|5dd|16g|Purbandar
+Nouadhibou|MR||19|1m6|-1bc|14k|Nuadibú;Nawazibu;Port-Étienne;Nouadibou;Port Ettienne;Port Etienne
+Pforzheim|DE||8r|3rs|o6|x5|Phorca;Pforcheimas;Porta Hercyneae
+Port Dickson|MY||6v|70|7us|x5
+Porz am Rhein|DE||8r|3xd|jm|vi|Köln-Porz
+City of Port Phillip|AU||8j|-2x3|b6m|vb
+Port Blair|IN||6t|wf|75n|v5|Portus Blairensis;Port Bleras;Sri Vijaya Puram
+Portmore|JM||3i|1dx|-5xl|sl
+Pôr do Sol|BR||4w|-182|-3po|sb
+Portsmouth Heights|US||48|2ua|-5w5|ri
+Portsmouth|US|Virginia|48|2uc|-5vy|qq
+Boryeong|KR||7h|2sz|9ro|q6|Poryŏng
+Porto Amboim|AO||x|-tt|129|pg|Benguella Velha;Porto Hmboim;Amboim;Port Amboim;Benguela Velha;Benguela-a-Velha;Old Benguela;Ambonim;Ambouim
+El Puerto de Santa María|ES||9d|2tn|-hb|ok|El Puerto;Puerto de Santa María;Puerto;Pto. de Sta. María;Portus Sanctae Mariae
+Puerto Maldonado|PE||3o|-yz|-5c8|nm|Portus Maldonatus;Puerto Maldonadas
+Pori|FI||92|4qs|1oj|n4|Björneborg;Arctopolis;Bërneborg
+Lüshun|CN||7i|2zs|9cv|mv|Port Arthur;Lušunkchou;Por Arthur;Port-Artur
+Port Area|PH||71|14j|9c1|k6|Port District
+Prymorskyi|UA|Donetsk|98|3mr|2w6|jq|Portovskyi
+Portland|US|Maine|48|3da|-5f6|il|Portlenda;Portlend
+Portage Park|US||2f|38k|-6rt|i0
+Puerto Madryn|AR||1m|-3at|-50o|hy|Puerto Madrinas;Porth Madryn;Madrynhȳð
+Portel|BR||23|-5e|-3x6|hh
+Porirua|NZ||ak|-369|dhp|h3|Pari-ā-Rua
+Waterford|IE||8z|416|-jr|gp|Voterfordas;Port Láirge;Purt Largey
+Port Orange|US||48|28y|-690|gn
+Port Coquitlam|CA||5b|3sv|-9h1|g4|PoCo
+Porto Ferreira|BR||4w|-1op|-3nw|fp|Porto Ferreiro
+Porterville|US||3p|2s7|-96m|fl|Portersville;Porter'sville
+Port Arthur|US||2f|2b1|-78y|fd|Haveno Arturo;Port-Artur
+Port Charlotte|US||48|22y|-6c1|f4
+Portici|IT||9o|35e|13u|ey|Puortece
+Porto Feliz|BR||4w|-1sh|-3o0|eu
+Porto Nacional|BR||1k|-tr|-3qi|et
+Port Shepstone|ZA||o|-2de|2cl|eo
+Pursat|KH||78|yu|80o|el|Porsat
+Port Macquarie|AU||8l|-2fb|bsr|eg|Port Macqarie;Porth Macquarie
+Porvoo|FI||92|4nr|1zb|ef|Borgå;Porvas;Porvō;Borgoa;Borgo
+Pordenone|IT||9o|3jo|z6|dv|Pordenon;Portus Naonis;Pordenoni;Pordenono
+Port of Spain|TT||4k|tn|-4qw|dm|Port-of-Spain;Puerto España;Port-d'Espagne;Port of Speinas;Port of Speyn;Portospeno;Porto España;Pò of Espay;Portofspeina;Acalquixohuayan Caxtillan;Portu de Spania;Port-of-speyn;Port of Spein;Porthladd Sbaen;Port-au-Spain
+Portage|US|Michigan|2q|398|-6lq|de
+Boulogne-sur-Mer|FR||9k|3ww|4h|d2|Bulonjo;Bulonjo-sur-Maro;Bulonjo-ĉe-Maro;Gesoriacum;Bononia;Itius Portus;Portus Itius;Bolonha-sobre-o-Mar;Bolonha de Mar;Boulonne;Pajūrio Bulonė;Bonen;Buloņa;Boulogne
+Porur|IN||6t|108|66o|cz
+Portugalete|ES||9d|3cc|-8e|cq|Portu;la villa jarrillera;Portugaleto;Portus Gallorum
+Porangatu|BR||4w|-11c|-3sj|co
+Port Loko|SL||l|od|-zj|ch|Port Loka;Port Lokko
+Porto de Moz|BR||4t|-4v|-414|bm|Pôrto de Mós
+Porsa|IN||6t|223|61p|b1
+Portimão|PT||99|2v6|-nq|ap
+Porteirinha|BR||4w|-17q|-3bj|ae
+Portage|US|Indiana|2f|37i|-6q6|a7
+Porta Westfalica|DE||8r|413|os|a4
+Port-Vila|VU||ap|-1da|czj|9z|Port Vila;Port Fila
+Porto União|BR||4w|-20w|-3xw|9v|Porto Unicão;Pôrto do Uniao
+El Kala|DZ||3|2ui|ng|9u|La Calle;Port de la Calle
+Porsgrunn|NO||9j|4ka|qu|9k|Pošgriūnas;Porsgrund
+Pórticos de San Antonio|MX||58|2i4|-913|9i
+Portão|BR||4w|-2ai|-3yc|9h
+Portadown|GB||9b|476|-hw|95|Port an Dúnáin;Portadaunas;Portadoun
+Port Alfred|ZA||o|-2lb|22o|8m
+Port Chester|US||48|35w|-5on|88|Portchester
+Port Huron|US||2q|3bd|-6cy|85
+Portazgo|ES||9d|347|-a5|80
+Porto da Folha|BR||3r|-rk|-2vk|7z
+Porto Belo|BR||4w|-23g|-3qv|7p|Porto Bello
+Port Richmond|US|Pennsylvania|48|333|-5sm|7o|Richmond
+Port Moody|CA||5b|3sw|-9h6|7n
+Freeport|BS||47|21p|-62m|7h|Erkin Port;Pelabuhan Bebas;Puerto Libre;Azad Limanı;Pelabuhan Mardika;Porto Franco
+Portishead|GB||9b|3z0|-7p|7c
+Poranki|IN||6t|19s|687|73
+Porta|ES||9d|373|62|6u
+Porto Calvo|BR||3r|-p4|-2qc|6t
+Porto Franco|BR||2w|-hm|-3no|6p
+Porto de Mós|PT|Faro|99|2v1|-o4|6k|Porto de Móz
+Portlaoise|IE||8z|43b|-ka|6j|Maryborough;Maryboro';Port Leix;Port Laoighise;Port Laoise
+Porto Grande|BR||23|1z|-3yt|69
+Port Hueneme|US||3p|2mv|-974|68
+Portalegre|PT||99|315|-kn|68
+Porto Sant'Elpidio|IT||9o|3c5|128|66
+Porac|PH||71|15v|9au|61
+Porto Torres|IT||9o|35f|nd|61
+Portsmouth|US|New Hampshire|48|3bo|-5gk|5z|Portsmut
+Porte Saint-Martin|FR||9k|3rr|6k|5w
+Porto Real|BR||4w|-1qa|-3f1|5v
+Port Alberni|CA||5b|3ss|-9mo|5r
+Portsmouth|US|Ohio|48|2zl|-6ek|5o
+Porto Real do Colégio|BR||3r|-sb|-2uc|5l|Porto Real do Collegio
+Pelabuhan Klang|MY||6v|8c|7tn|5k|Pelabuhan Kelang;Pelabohan Klang;Port Klang;Pelabuhan Kelang Selatan;Port Swettenham;Port Kalang;Port Kelang;Port Sweetenham
+Portslade|GB||9b|3x8|-m|5k
+Port Angeles|US||3p|3po|-9iv|5e
+Porta Palazzo|IT||9o|3h8|lc|5a|Pòrta Pila;Pòrta Palass
+Porto Acre|BR||4s|-qn|-57l|58
+Port Colborne|CA||59|3b6|-643|53
+Ischia Porto|IT||9o|356|12r|52|Porto d’Ischia
+Porciúncula|BR||4w|-1m8|-38s|4y
+Portsmouth|US|Rhode Island|48|37k|-5hx|4y
+Port Melbourne|AU||8j|-2x4|b6m|4w
+Puerto Rico|AR||1n|-22h|-48u|4v|Porto Riko;Puerto Riko;Porto Rico
+Porriño|ES||9d|394|-ny|4v
+Portogruaro|IT||9o|3j6|zo|4v|Puart;Porto
+Porteiras|BR||2w|-kx|-30o|4r
+Porathissery|IN||6t|su|5vo|4o
+Poronaysk|RU||7f|3sq|b1h|4n|Poronajsk
+Porto Empedocle|IT||9o|2vl|11k|4m|Portu Empedocli
+Portland|US|Texas|2f|25g|-7ic|4h
+Port-de-Bouc|FR||9k|3cl|du|4f|Lo Pòrt de Boc;Port-de-Boue
+Port Washington|US|New York|48|35f|-5oq|4e
+Porthcawl|GB||9b|3z0|-aa|4d|Portkovlis
+Porto San Giorgio|IT||9o|3by|12b|4c
+Port Richmond|US|New York|48|34v|-5py|4b
+Port Hedland|AU||8k|-1kf|95h|49
+Kenora|CA||5d|3u9|-7ah|47|Portage-aux-Rats
+Porte Saint-Denis|FR||9k|3rr|6j|47
+Portswood|GB||9b|3xh|-3v|44
+Ponto Novo|BR||20|-u6|-33h|44|Pórto Novo
+Pôrto Barra do Ivinheima|BR||2a|-1rt|-453|41
+Port Antonio|JM||3i|1ei|-5wd|40
+Port Glasgow|GB||9b|4bd|-d1|3y|Port Ghlaschu;Port Glesga
+Metković|HR||a6|3bl|1d1|3w|Portus Narentae
+Port Pirie|AU||8b|-2k7|ane|3v|Port Piri
+Porto Salvo|PT||99|2zk|-pu|3v
+Port Lincoln|AU||8b|-2oh|ahf|3u|Pt Lincoln
+Porto Viro|IT||9o|3h3|xy|3s
+Port Orchard|US||3p|3o2|-9go|3s
+Portage la Prairie|CA||5d|3ut|-7l1|3p|Portaž de la Prerė;Portedža la Prērija
+Port Kennedy|AU||8k|-2hx|8xj|3o
+Porcia|IT||9o|3jo|z2|3m|Purcie
+Pornic|FR||9k|3mw|-5u|3l|Pornizh;Porsnitus
+Porto Murtinho|BR||2a|-1oa|-4gs|3l
+Port Augusta|AU||8b|-2ia|amp|3k|Puerto Augusta;Portogasta;Haveno Aŭgusta
+Port Neches|US||2f|2bb|-790|3k
+Portland|GB||9b|3wh|-6s|3j
+Port Hope|CA||59|3ea|-61s|3i
+Porto Alegre do Norte|BR||2k|-u8|-3zf|3h
+Port Lavaca|US||2f|27i|-7gf|3g|Lavaca
+Portland|US|Tennessee|2f|2tm|-6oc|3f
+Port Saint John|US||48|274|-68f|3f
+Porto Walter|BR||4s|-mz|-5m2|3e|Pôrto Válter
+Port Victoria|KE||16|a|2md|3e|Port Bunyala;Bunyala
+Port Royal|US|South Carolina|48|2hy|-685|3d
+Poranga|BR||2w|-d6|-35p|3d
+Porto|BR||2w|-at|-3an|3d
+Portales|US||2p|2mz|-7z1|3c
+Porkhov|RU||9i|4gh|2a4|3b|Pórjov;Porchov;Porĥov;Porhova;Porchow
+Porto-Vecchio|FR||9k|37j|ps|3a|Portivechju;Porto Vecchio;Portus Syracusanus
+Porecatu|BR||4w|-1r8|-3yq|38
+Port Washington|US|Wisconsin|2f|3cj|-6s4|38|Prt Washingtn
+Portachuelo|BO||3n|-1c7|-4w4|37
+Porto Novo|CV||84|1ba|-1xm|33|Porto-Novo
+Porto Tolle|IT||9o|3gv|y8|2z
+Pornichet|FR||9k|3nb|-6i|2y|Pornizhan
+Porto Firme|BR||4w|-1lf|-3bo|2y
+Limín Mesoyaías|GR||8p|2x9|1uo|2x|Porto Rafti;Limin Markopoulou;Schneiderhafen
+Porangaba|BR||4w|-1se|-3po|2x
+Portage|US|Wisconsin|2f|3cy|-6wi|2w
+Porto Recanati|IT||9o|3cn|11y|2v
+Porto Esperidião|BR||2k|-181|-4ie|2u|Pôrto Esperidão;Porto Esperedião;Porto Espiridao;Porto Espiridião
+Port Salerno|US||48|23e|-66s|2t
+Porto Xavier|BR||4w|-25j|-496|2r
+Portet-sur-Garonne|FR||9k|3cw|3x|2q|Portet sobre Garona;Portèth de Garona
+Portovelo|EC||33|-ac|-656|2p|Portobelo;Portoviejo
+Porto do Son|ES||9d|3ao|-p1|2o|Son
+Port Perry|CA||59|3ej|-63a|2o
+Porto de Pedras|BR||3r|-pg|-2q1|2n
+Portland|AU|Victoria|8j|-2yj|axc|2m
+Port Townsend|US||3p|3po|-9h0|2l|Port Townshend
+Portmarnock|IE||8z|44e|-h2|2l|Port Mearnóg
+Portola Hills|US||3p|2lk|-92r|2j
+Porto Santo Stefano|IT||9o|39w|uw|2h
+Poreč|HR||a6|3hn|11s|2g|Parenzo;Parentium
+Poręba|PL|Silesia|a5|3w9|1hq|2f|Poremba
+Pardanjān|IR||7o|2hl|3wk|2f|Vardanjān;Pardenjān;Pordanjān
+Portes-lès-Valence|FR||9k|3go|dj|2f|Fiançac;Pòrtas;Portes
+Port Jervis|US||48|36y|-5rh|2e
+Port-Saint-Louis-du-Rhône|FR||9k|3cj|dc|2d|Lo Pòrt dArle;Pòrt Sant Loís;Port-Saint-Louis
+Porterville|ZA||o|-2jq|1gr|2d
+Portugal Cove-St. Phillip’s|CA||50|3ob|-42t|2c
+Portstewart|GB||9b|49a|-in|2c|Port Stíobhaird
+Port Mathurin|MU||ag|-1io|4w6|2c
+Burry Port|GB||9b|3zk|-bt|2b|Porth Tywyn
+Portoferraio|IT||9o|3ax|sn|2b|Port Ferraio
+Portlethen|GB||9b|4ej|-5x|2a|Am Port Leathann;Port Leathain
+Euclides da Cunha Paulista|BR||4w|-1qo|-423|27|Pôrto Euclides da Cunha
+Port Maria|JM||3i|1f1|-5xl|27
+Pontevedra|PH|Western Visayas|71|st|9hb|27|Portevedra
+Port Elgin|CA||59|3fg|-6a3|27
+Port Jefferson|US||48|35r|-5mz|26
+Port Jefferson Station|US||48|35p|-5mx|26
+Portarlington|IE||8z|43o|-jz|26|Cúil an tSúdaire
+Port Wentworth|US||48|2hb|-69g|24
+Portalegre|BR||2w|-gq|-2xj|24|Pont' Alegre
+Porto Potenza Picena|IT||9o|3cg|122|24|Porto di Potenza Picena
+Portomaggiore|IT||9o|3g6|wt|22
+Portico di Caserta|IT||9o|362|13o|22
+Porto Cristo|ES||9d|31u|99|22|Portocristo
+Bude|GB||9b|3x6|-cm|1y|Porthbud;Porth Bud;Bud
+Portage Lakes|US||48|35x|-6ah|1y
+Port Wallace|CA||35|3g6|-4wj|1y
+Porcuna|ES||9d|2x7|-bn|1y
+Port Edward|ZA||o|-2e9|2bz|1x
+Porvenir|CL||4n|-442|-5fh|1w
+Porcari|IT||9o|3ds|ti|1v
+Portrush|GB||9b|49c|-ih|1v|Port Rois
+Porrentruy|CH||a7|3nq|jo|1v|Purrentrum
+Port Haney|CA||5b|3sp|-9gk|1u
+Port-Cartier|CA||59|3uz|-55r|1t
+Porkolam|IN||6t|to|5vb|1t
+Port Arthur|FI||92|4nx|1ps|1s|VIII kaupunginosa;VIII Stadsdel;VIII District;Portsa
+Poretskoye|RU||9i|49c|3kp|1s|Poretskoje;Poretskoe
+Portland|US|Indiana|38|34b|-6k2|1q
+Porto de Mós|PT|Leiria|99|320|-oi|1o
+Port el Kantaoui|TN||1e|2rp|tf|1o|Port El-Kantaoui;Marsá al-Qantáwí;Marsa al-Kantawi;Marsa El-Kantavi
+Port-La Nouvelle|FR||9k|3bi|8h|1o|La Novella;La Novèla;La Nouvelle;Port-la-Nouvelle
+Porco|BO||3n|-1mh|-54j|1o
+Port Clinton|US||48|37b|-6ee|1o
+Porto Rico do Maranhão|BR||2w|-56|-3fv|1o
+Port Saint John’s|ZA||o|-2fu|2a2|1n|Port St. Johns;Port Saint Johns
+Porus|JM||3i|1e4|-5z1|1n
+Port de Pollença|ES||9d|32v|8k|1n|el Port;Puerto Pollensa;Puerto de Pollensa
+Portland|US|Connecticut|48|37h|-5ls|1n
+Porto dos Gaúchos|BR||2k|-w2|-4fh|1l
+Portuário do Igarapé da Fortaleza|BR||23|5|-3y1|1j
+Port-Louis|GP||31|19m|-4qx|1j
+Pordic|FR||9k|3qx|-7u|1i|Porzhig
+St Ives|GB||9b|3vh|-f9|1i|Saint Ives;St. Ives;Porth Ia;St. Ives i Cornwall
+Marsh Harbour|BS||47|21q|-5y2|1h|Marsh Bandari;Pelabuhan Marsh;Puerto Marsh;Marsh Limanı;Porto Marsh
+Porto do Mangue|BR||2w|-e3|-2u6|1g
+Poringland|GB||9b|421|3r|1f
+Port Allen|US||2f|2cl|-71d|1f
+Port d'Alcúdia|ES||9d|32o|8p|1f
+Porreres|ES||9d|31r|8e|1e|Porreras
+Port Isabel|US||2f|20f|-7i1|1e
+Port Kembla|AU||8l|-2ns|bn6|1e
+Pornainen|FI||92|4o0|1yh|1e|Borgnäs
+Porter|US|Indiana|2f|37m|-6pv|1d
+Port Barton|PH||71|t4|979|1c
+Porto Garibaldi|IT||9o|3g4|y0|1b
+Ploče|HR||a6|3bm|1cf|1b|Porto Tolero;Ploche;Ploča
+Portella di Mare|IT||9o|2xr|11e|1b
+Porto|IT||9o|35g|13m|1b
+Portland|US|New York|48|39q|-64r|1b
+Le Port-Marly|FR||9k|3rt|5v|1a|Port-Marly
+Porteña|AR||1n|-2e5|-4se|1a
+Porotto-Cassama|IT||9o|3gl|w3|1a
+Portola Valley|US||3p|2vu|-9fk|1a|Portolo Valley
+Portocolom|ES||9d|31i|92|1a|Porto Colom
+Poroschia|RO||8u|3e1|1yh|19
+Portvendres|FR||9k|3a4|8n|19|Port-Vendres
+Vila do Maio|CV||84|162|-1sh|19|Porto Inglês;Port Ingles;Porto Inglez
+Portoscuso|IT||9o|30x|na|18
+Poraj|PL||a5|3ws|1he|18
+Port Augusta West|AU||8b|-2i9|amo|18
+Porto Lucena|BR||4w|-25e|-48u|18|Puerto Lucena
+Pourrières|FR||9k|3cv|fx|17|Porrièras
+Porlezza|IT||9o|3jw|pd|17|Portus Laetitiae
+Tortolita|US||4i|2i1|-8ke|17|Portolita
+Porto Cesareo|IT||9o|33u|1dq|17|Porto Cesario
+Neum|BA||9r|3b8|1cy|16|Portus Noumensis
+Pore|CO||27|fx|-5jz|15
+Porto Amazonas|BR||4w|-1yy|-3ul|15
+Portes de Fer|NC||b8|-1pu|cue|15|Fer;Portes de Nouméa
+Porteirão|BR||4w|-1di|-3vc|15
+Porzuna|ES||9d|30r|-bj|14
+Port Aransas|US||2f|25b|-7hm|14
+Portland|US|Michigan|2q|3b3|-6ju|13
+Port Hardy|CA||5b|3ww|-9u5|13
+Porąbka|PL||a5|3ue|1he|13
+Port-à-Piment|HT||4j|1ep|-5pu|12|Port Piment
+Port Monmouth|US||48|34b|-5pu|12
+Port Pirie South|AU||8b|-2k8|and|12
+Port Vue|US||48|342|-65v|11|Portvue
+Port Reading|US||48|34p|-5qa|11
+Porters Lake|CA||35|3ga|-4vv|11
+Pourou|CI||0|sw|-hi|11|Porou
+Póros|GR|Attica|8p|2w6|1t5|11
+Port Douglas|AU||8c|-19s|b83|11
+Poroshkovo|UA||98|3r7|1r7|10|Poroskő;Porosjkovo;Poroŝkovo;Poroșcovo;Poroshkove;Poroshkov;Poroškov
+Portsmouth|DM||2r|17a|-4qq|10|Portsmut
+Porretta Terme|IT||9o|3eo|uh|10|Puratta
+Port Hadlock-Irondale|US||3p|3pf|-9h3|10|Irondale
+Porto Vitória|BR||4w|-20o|-3yb|10
+Channel-Port aux Basques|CA||50|3o5|-4ka|z|Port aux Basques;Channel-Port-aux-Basques
+Port Ewen|US||48|38f|-5pi|z
+Port Erin|IM||93|468|-d7|z
+Port LaBelle|US||48|22c|-6a5|z|Port La Belle
+Poronin|PL||a5|3t2|1jk|z
+Portarlington|AU||8j|-2xw|b5u|z
+Port Saint Joe|US||48|2at|-6ky|y
+Porosozero|RU||9i|4u8|2ix|y|Porajärvi;Porososero;Porosoziero
+Portopalo di Capo Passero|IT||9o|2tw|161|y
+Portland Hills|CA||35|3g2|-4we|y
+Menai Bridge|GB||9b|43v|-bl|y|Porthaethwy;Menai Bridžas
+Porto Fuori|IT||9o|3fd|y1|y
+Port Royal|JM||3i|1du|-5xg|x|Puot Rayal;Port-Royal
+Port Fairy|AU||8j|-2yn|az4|x
+Portelândia|BR||4w|-1c7|-42c|x
+Port Glaud|SC||ae|-cy|49y|w
+Perranporth|GB||9b|3vu|-ec|w|Porthpyran
+Port Hawkesbury|CA||35|3iq|-4qg|w
+Port Washington North|US||48|35g|-5oq|w
+Plobannalec-Lesconil|FR||9k|3ou|-bq|w|Pornaleg-Leskonil;Plobanaleg;Plobannalec
+Porto Rico|BR||4w|-1r9|-43z|w
+Porto Estrela|BR||2k|-16k|-4ez|w
+Portas|ES||9d|3ab|-o2|w
+Porumbacu de Jos|RO||8u|3j3|1vx|w|Porumbacul de Jos
+Portageville|US||2f|2t7|-6x6|v
+Porto Barreiro|BR||4w|-1yz|-41l|v
+Portneuf|CA||59|3lp|-5jp|v
+Portland Estates|CA||35|3g2|-4wg|v
+Porto Azzurro|IT||9o|3at|sw|v|Porto Azzuro
+Porais|PH||71|17s|9c8|v|Purais
+Port-Margot|HT||4j|1iv|-5l7|v|Pò Mago;Port Margot
+Porthleven|GB||9b|3v5|-es|v
+Port Angeles East|US||3p|3pn|-9ip|u
+Poroszló|HU||8v|3od|1lf|u
+Port-Louis|FR||9k|3oj|-9b|u|Porzh-Loeiz
+Porohy|UA||98|3r8|1vd|u|Porokhy
+Burkau|DE||8r|3y6|13d|u|Porchow
+Porthmadog|GB||9b|431|-bh|u|Portmadoc;Portmadogas
+Porto Alegre do Tocantins|BR||1k|-w9|-3mp|u
+Portorož|SI||9a|3if|11r|t|Portorose
+Porto Ceresio|IT||9o|3jj|oq|t|Portus;Pòrto Ceresi
+Port de Sóller|ES||9d|32k|7i|t|Puerto de Sóller
+Purbach am Neusiedler See|AT||a2|3p3|1ae|t|Porpuh;Feketeváros
+Port Noarlunga|AU||8b|-2pn|aon|t
+Port-sur-Saône|FR||9k|3oh|gt|s
+Portezuelo|MX|Jalisco|41|1kp|-7ws|s
+Porcsalma|HU||8v|3p0|1qp|s
+Porto Moniz|PT||86|2jb|-1bp|s|Pôrto do Moniz
+Port Richey|US||48|26j|-6ds|s
+Pörtschach am Wörthersee|AT||a2|3lk|13b|s|Pörtschach am Wörther See;Poreče
+Porto Ercole|IT||9o|39s|v5|r|Port'Ercole;Port Ercole
+Portal de las Salinas|MX||44|206|-7q6|r
+Port Noarlunga South|AU||8b|-2pp|aon|r
+Le Palais|FR||9k|3nj|-8s|q|Porzh-Lae;Palais
+Puerto Ángel|MX||41|17j|-7g1|q|Port Angeles
+Porcheville|FR||9k|3s1|4y|q
+Poro|PH||71|tj|9ll|q
+Portillo|ES||9d|378|-cr|q
+Port Pirie West|AU||8b|-2k6|anc|q
+Port Ludlow|US||3p|3p5|-9gs|q
+Pórto Chéli|GR||8p|2vp|1sa|q|Portochélion;Porto Heli;Portokhélion;Portochéli;Pórto-Khéli
+Porto da Cruz|PT||86|2j1|-1ar|q
+Port-Sainte-Foy-et-Ponchapt|FR||9k|3gk|l|q|Sent Avit de Tisac;Lo Pòrt de Senta Fe e Ponchac
+Portiragnes|FR||9k|3ca|9a|q|Portiranhas
+Porcelette|FR||9k|3sk|ii|q
+Portocannone|IT||9o|38f|15p|p|Portkanuni
+Portaferry|GB||9b|472|-ff|p|Port an Pheire
+Porabénéfla|CI||0|i8|-g3|p|Poabénéfla
+Portage|US|Pennsylvania|48|347|-62j|p
+Porto Judeu|PT||81|2zd|-23c|p|Port Judea
+Poręba Spytkowska|PL||a5|3uq|1l3|p
+El Porvenir Agrarista|MX||41|18w|-734|p|Porvenir Agrarista
+Jericó|MX||3z|199|-769|p|Porvenir
+Horonobe|JP||7q|3h2|ay1|o|Poronobu;Horonobu
+Kraljevica|HR||a6|3hr|14h|o|Porto Re;Kraljevjca
+Poroj|MK||9u|38r|1mb|o
+Porto Alegre do Piauí|BR||2w|-jd|-3es|o
+Portes Gil|MX||41|1le|-80q|o
+Porto Valtravaglia|IT||9o|3jo|o4|n
+Portland|AU|New South Wales|8l|-2ko|bkm|n
+Portree|GB||9b|4fh|-h7|n|Port Rìgh
+Port-Saint-Père|FR||9k|3mx|-4v|n|Porzh-Pêr;Portus Sancti Petri
+Purac|PH||71|16d|99e|n|Porac
+Poroani|YT||ah|-zt|3he|n|Proani
+Y Felinheli|GB||9b|43r|-bo|n|Port Dinorwic;Felinheli
+El Porvenir|HN|Atlántida Department|56|17r|-6ph|n|Porvenir
+Port McNeill|CA||5b|3wj|-9t1|m
+Pordim|BG||9v|3ci|1x1|m|Porodim
+Stanley|FK||8a|-3zl|-4gq|m|Puerto Argentino;Stenlis;Stenli;Stanlejo;Port Stenlis
+Portonovo|ES||9d|39r|-oj|m
+Portillo de Toledo|ES||9d|33a|-br|m
+Portets|FR||9k|3g6|-16|m|Portèths;Portèth
+Port Stanley|CA||59|3aj|-69m|l
+Porto Mauá|BR||4w|-24m|-47v|l
+Port Barre|US||2f|2cw|-73f|l
+Port Allegany|US||48|385|-61g|l|Port Allegheny
+Port Elliot|AU||8b|-2qp|ap8|l
+Porto Cervo|IT||9o|36a|qh|l
+Porches|PT||99|2v5|-nc|k
+Port-Katon|RU||9i|3m8|2zo|k
+Port-en-Bessin-Huppain|FR||9k|3t2|-24|k
+Port Morris|US||48|35c|-5pb|k
+Pörnbach|DE||8r|3r2|vv|k|Bembo
+Portugués de Gálvez|MX||3x|1zh|-8d4|k
+Porech’ye-Rybnoye|RU||9i|4em|31e|j|Poretsje-Rybnoje
+Port-Brillet|FR||9k|3pn|-2p|j
+Port-Sainte-Marie|FR||9k|3ex|13|j
+Wadeye|AU||8e|-13k|9zs|j|Port Keats
+Portola|US||3p|32l|-9an|j
+Port Sorell|AU||8g|-36d|bb3|j
+Poręba Wielka|PL||a5|3ux|1hk|j
+Portariá|GR|Thessaly|8p|31f|1rw|i
+Portezuelo|MX|Hidalgo|41|1kx|-7nv|i
+Port Carbon|US||48|352|-5vl|i
+Port Sulphur|US||2f|29w|-6x5|i
+Port Edwards|US||2f|3f7|-6xn|h
+Portsoy|GB||9b|4g8|-7h|h|Port Saoidh
+Portbail|FR||9k|3t2|-4q|h
+Portlock|US||ax|1n3|-c63|h
+Portlaw|IE||8z|419|-kc|h|Port Lách
+Porter Heights|US||2f|2br|-7cs|h
+Porspoder|FR||9k|3qr|-d9|h
+Port Byron|US|Illinois|2f|37l|-6yy|g
+Port-des-Barques|FR||9k|3jn|-30|g
+Portavogie|GB||9b|47a|-f4|g
+Poriyya|IL||6n|2iy|2qq|g|Newé ‘Oved;Neveh Oved;Poriya
+Port Willunga|AU||8b|-2py|aom|g
+Porano|IT||9o|3ak|xm|g
+Port Erroll|GB||9b|4fh|-55|g|Port Errol
+Port Dickinson|US||48|391|-5uu|g
+Porgera|PG||bd|-f6|b1n|g
+Poříčany|CZ||9m|3v7|15g|g|Pořican
+Turun satama|FI||92|4nw|1pq|g|Åbo hamn;Port of Turku;Turku Harbour;Port de Turku;Hafen Turku
+Porto Vera Cruz|BR||4w|-252|-48i|g
+Porumbești|RO||8u|3pa|1ru|g|Kökényesd
+Porpetto|IT||9o|3je|10q|g|Porpet
+Port Barrington|US||2f|39c|-6t0|f
+Port Denison|AU||8k|-29b|8v8|f
+Portscatho|GB||9b|3vd|-dt|f
+Porter|US|Maine|48|3do|-5h1|f
+Portaceli|MX||3x|1vn|-8a3|f|Poltacelli
+Porterdale|US||48|2la|-6h1|f
+Porto Corsini|IT||9o|3fl|y4|f|Porto Corsin
+Port Chalmers|NZ||ak|-3ja|d5y|f|Pelabuhan Chalmers
+Portalbera|IT||9o|3ha|pw|f
+Portumna|IE||8z|43h|-mu|f|Port Omna
+Poria Illit|IL||6n|2ix|2qr|e|Poriyya ‘Illit;Porija Ilit;Poriah Illit;Poriya;Poriyah;Poriyya
+Poříčí nad Sázavou|CZ||9m|3ug|14r|e
+Port Gibson|US||2f|2gs|-70q|e|Fort Gibson
+Porcieu|FR||9k|3jb|f0|e
+Porfirio Díaz|MX||41|1gl|-7p1|e
+Metlakatla|US||40|495|-a5i|e|Port Chester;Metla-Kahtla;Metlahkatlah;Metla-katla;Metlakahtla
+Poraż|PL||a5|3th|1pr|e
+Porto Covo|PT||99|2x5|-of|e
+Portobelo|PA||4g|qj|-65a|e|Portobelas;Portobello
+Poroina Mare|RO||8u|3fm|1rq|e
+Port Norris|US||48|311|-5sg|e
+Portraine|IE||8z|44m|-gz|e|Port Reachrann;Portrane
+Poruba|SK||8s|3rn|1fn|e
+Portezuelo|MX|San Luis Potosí|41|1pl|-7s3|e
+Porschdorf|DE||8r|3xi|139|d
+Porcellengo|IT||9o|3iz|xq|d
+Port-Gentil|CI||0|g0|-kk|d|Port Gentil
+Port Hood|CA||35|3ju|-4qx|d
+Port-Olry|VU||ap|-15s|cw3|d
+Portieux|FR||9k|3qa|hm|d
+Portknockie|GB||9b|4ga|-7y|d
+Kampung Kuala Sepetang|MY||6v|cm|7rm|d|Port Weld
+Porąbka Uszewska|PL||a5|3uq|1lh|d
+El Porvenir|MX|Chihuahua|2h|2es|-864|d|Porvenir
+Port O'Connor|US||2f|271|-7ft|d|Port O'Conner
+Port Byron|US|New York|48|3bj|-5wu|c
+Port à Binson|FR||9k|3sc|ag|c
+Achada Tenda|CV||84|16d|-1tq|c|Porto Formoso
+Portglenone|GB||9b|48f|-hz|c|Port Chluain Eoghain
+Port Broughton|AU||8b|-2lc|an6|c
+Porlock|GB||9b|3y9|-a0|c
+Poro|CI||0|da|-if|c|Porro
+Polperro|GB||9b|3vt|-ck|c|Porthpyra
+Porumbenii Mari|RO||8u|3kk|1xu|c|Nagy Galambfalva;Nagygalambfalva;Porumbenii-Mare
+Portariá|GR|Central Macedonia|8p|33w|1sq|c
+Port Bannatyne|GB||9b|4b6|-e3|c
+Port Adelaide|AU||8b|-2ot|aoq|c
+Poręba|PL|Lesser Poland|a5|3uc|1jm|c
+Porvenir|UY||45|-2hz|-4h1|c
+Portobello|NZ||ak|-3jd|d61|c
+Port Henry|US||48|3ed|-5o2|b
+Port Orford|US||3p|3ar|-9lu|b
+Değirmenaltı|TR||94|2yr|396|b|Değermenaltı;Porköy
+Póros|GR|Ionian Islands|8p|2xz|1lp|b
+Portel-des-Corbières|FR||9k|3bl|84|b
+Port Williams|CA||35|3ha|-4yy|b
+Porporano|IT||9o|3gb|sr|b
+Port Rowan|CA||59|3ae|-67j|b
+Port Republic|US||48|31s|-5qx|b
+Port Hacking|AU||8l|-2mn|bnt|b
+Portbou|ES||9d|39v|8s|b
+North Queensferry|GB||9b|4bl|-9f|b|Port na Banrighinn
+Portland|US|Wisconsin|2f|3dl|-70e|b
+Porcupine|US||2p|3c4|-7w9|b
+Porto d'Adda|IT||9o|3iu|qc|b
+Portovenere|IT||9o|3ed|rb|a|Pòrtivene
+Porepunkah|AU||8j|-2ty|bc3|a
+Porto Martins|PT||81|2zg|-236|a
+Porzano|IT||9o|3i4|sc|a
+Pourcieux|FR||9k|3cr|g3|a|Porcièu
+Porto San Paolo|IT||9o|35k|qr|a
+Portile|IT||9o|3fu|ue|a
+Portville|US||48|38s|-61m|a
+Portreath|GB||9b|3vm|-ep|a|Porthtreth
+Poroy|PE||3o|-11i|-5k4|a|Poro
+El Portillo de González|HN||56|16g|-6rc|a|Portillo de Gonzalez
+Poroinica|RO||8u|3g2|1yp|9|Poruinica
+Port Royal|US|Pennsylvania|48|34l|-5yz|9
+Porumbacu de Sus|RO||8u|3iz|1vz|9|Porumbacul-de Sus
+Port|FR||9k|3k8|fh|9
+Port de Grave|CA||50|3o7|-43t|9
+Port-Mort|FR||9k|3sk|3y|9
+Porto Mosquito|CV||84|15j|-1ts|9
+Portico e San Benedetto|IT||9o|3eb|wq|9
+Portacomaro|IT||9o|3gw|my|9
+Portgordon|GB||9b|4g6|-8d|9
+Poromiv|UA||98|3wz|1uw|8|Poromuv;Poromov
+Port Elizabeth|VC||54|105|-4q4|8|Port-Elisabeth
+Port Ellen|GB||9b|4aj|-h6|8|Port Eilein;Port Ìlein
+Pavlivka|UA|Volyn|98|3wn|1vy|8|Poryck;Pawliwka;Pavlovka
+Portezuelo|MX|México|41|1i9|-7ou|8|Portozuela;Portozuelo
+Porto Santa Margherita|IT||9o|3in|zq|8
+Pocoboch|MX||3z|1m9|-6ss|8|Poroboch
+Porullo|MX||41|1k1|-7su|8|Purullo
+Port MacDonnell|AU||8b|-2xp|auu|8
+Porchères|FR||9k|3h3|1|8
+Porto Alegre|ST||1c|3|i5|8
+Pormpuraaw|AU||8c|-15e|axe|8
+Port Waikato|NZ||ak|-2vv|dhd|8
+Port Trevorton|US||48|353|-5xj|8
+Portopetro|ES||9d|31c|8x|8|Porto Petro
+Port-de-Lanne|FR||9k|3d0|-3a|8|Lanne
+Poroto|PE||3o|-m9|-62t|8
+Port Vincent|US||2f|2c9|-70d|7
+Porichchya|UA||98|3nn|2eg|7|Poritchtchia
+Portachuelo|PA||4g|nk|-6cy|7
+Port au Choix|CA||50|3ww|-4fc|7
+Port Alice|CA||5b|3vy|-9u1|7
+Bátorliget|HU||8v|3oo|1pv|7|Porháza Tanya;Aporháza;Aporliget
+Port Isaac|GB||9b|3wj|-df|7
+Porum|US||2f|2q8|-7cn|7
+Porto Baixo|CV||84|162|-1td|7
+Port Morien|CA||2x|3k5|-4mb|7
+Mousehole|GB||9b|3v4|-fe|7|Porthenys;Porthynys
+Portón|PA||4g|nt|-6dz|7
+Port Saunders|CA||50|3wp|-4f6|7
+Portari|RO||8u|3lu|24y|7
+Port Leyden|US||48|3d2|-5tb|7
+Port Deposit|US||48|320|-5vg|7
+Port Wakefield|AU||8b|-2my|anr|7
+Porto Carro|PT||99|324|-op|7
+Pornassio|IT||9o|3ef|lv|7|Pornasce
+El Portezuelo|MX||41|1l8|-811|6|Portezuelo
+Port Austin|US||2q|3ed|-6ej|6
+Portosin|ES||9d|3as|-ov|6
+Portobuffolè|IT||9o|3je|yu|6
+Purello|IT||9o|3cc|zg|6|Porello
+Portpatrick|GB||9b|48c|-e8|6|Port Phádraig
+Portal|US||48|2ie|-6bl|6
+Porazava|BY||9g|432|1vp|6|Porozovo;Porozów;Porozov;Porozuv
+Porte|IT||9o|3gp|k7|6
+Port Sanilac|US||2q|3cn|-6da|6
+Portula|IT||9o|3iw|mp|6
+Poruba pod Vihorlátom|SK||8s|3rn|1pi|6
+Port Matilda|US||48|35c|-60t|6
+Portland North|AU||8j|-2yf|ax9|6
+Pilgersdorf|AT||a2|3ns|19f|6|Pörgölény;Pilištrof
+Portland|US|North Dakota|2f|3ny|-7ih|6
+Porter|US|Oklahoma|2f|2rn|-7dc|6
+El Portillo|MX|Oaxaca|41|19w|-7im|6|Portillo
+Portland West|AU||8j|-2yj|ax9|6
+Port Washington|US|Ohio|48|341|-6ag|6
+Port Hughes|AU||8b|-2mo|am3|6
+Portesham|GB||9b|3wr|-74|6|Portisham
+Porossan|IT||9o|3j4|kd|6
+Portinscale|GB||9b|47o|-8s|6
+Porrino|IT||9o|37r|11j|6
+Cala de Portinatx|ES||9d|30n|48|6|Portinatx;Playa de Portinatx
+Port Campbell|AU||8j|-2za|b18|6
+Port-de-Piles|FR||9k|3mk|1o|5
+Porcaro|FR||9k|3p3|-64|5|Porzh-Karozh
+Poręba Górna|PL||a5|3vv|1iz|5
+Poříčí u Litomyšle|CZ||9m|3uc|18z|5
+Portezuelo|MX|Querétaro|41|1l8|-7p2|5
+Porominovo|BG||9v|38w|1s5|5|Poromino
+Port Blandford|CA||50|3qb|-46g|5
+Poreiá|GR||8p|34h|1mx|5|Poria
+Portland|US|Pennsylvania|48|35o|-5sm|5
+Porrera|ES||9d|36f|2e|5
+Portiglioni|IT||9o|3b4|ty|5
+Port-aux-Français|TF||ad|-3t3|5f2|0|Port o Fransė;Portofransē

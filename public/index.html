@@ -1,0 +1,1158 @@
+<!doctype html>
+<html lang="en" data-app="wegoplace-app">
+<head>
+<meta charset="utf-8">
+<meta name="wgp-build" content="v170">
+<!-- First, at a www. address: the same page without www., unless this phone keeps the app here (public/js/www.js). -->
+<script src="/js/www.js"></script>
+<!-- What breaks on this page reaches the site's owner, cleaned of anything personal (js/error-report.js). -->
+<script type="module" src="/js/error-report.js"></script>
+<script>
+// The app's own address "/" names no trip (it sends the person on: the module below). Until it
+// has, this page shows no tab bar and nothing that looks like a trip: a tab there could only go
+// wrong (15 Nov, an iPhone: after an update, three taps on this page's tab bar in the 3 s it took
+// to go on, and the address was "/#/split"). styles.css: html[data-home].
+if (!/^\/t\/[^/]+\/?$/.test(location.pathname)) document.documentElement.dataset.home = "1";
+</script>
+<!-- viewport-fit=cover is what lets env(safe-area-inset-*) return anything but 0. Without
+     it an installed PWA draws content under the notch and the tab bar under the home
+     indicator, and no amount of padding in the stylesheet fixes it. -->
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<!-- ONE theme-color, rewritten below at boot and by settings.js when the mode changes; its
+     content always equals --ground for the theme actually on screen.
+
+     Deliberately NOT a media-scoped light/dark theme-color pair,
+     and this is the reason: a browser uses the FIRST theme-color meta whose media matches,
+     so a media-scoped pair cannot express "the user forced dark on a light phone" — which
+     is the entire case the in-app theme control exists for. With a pair, choosing Dark on a
+     light phone leaves the iOS status bar paper-white behind a black screen. One meta,
+     driven by the same resolved-theme function the CSS uses, is right in all four states.
+     The literals below are the only copy of --ground outside styles.css; they exist because
+     this script has to run before the stylesheet can be consulted. -->
+<meta name="theme-color" content="#fdfdfc">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<!-- The APP's name, which iOS uses under the home-screen icon and which the manifest's
+     name/short_name must agree with. It once said the name of the first TRIP, which is
+     a different thing and stays where it belongs (login.html's hero, the trip row in
+     Settings, /api/trip). An app named after one of its trips is an app that has to be
+     renamed the second time anyone uses it. -->
+<meta name="apple-mobile-web-app-title" content="We Go Place">
+<!-- No apple-mobile-web-app-status-bar-style (21 Nov). With black-translucent, an installed app on iOS 26 and 27 is
+     drawn under the status bar, and the system then draws its own blur ramp (the "scroll-edge effect") over about
+     40 pt below it: the head's title was blurred on his phone, and no CSS turns that off. Apple's answer (WebKit bug
+     317153) is to drop the meta: the status bar is then opaque in theme-color (set to --ground at boot, below), and the
+     page starts below it. iOS reads this when the app is added: one added before keeps the old style until it is
+     removed and added again. -->
+<title>WeGoPlace</title>
+
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/icons/favicon.1ad16064.ico" sizes="16x16 32x32 48x48">
+<link rel="apple-touch-icon" href="/icons/icon-180.b5a4a30b.png" sizes="180x180">
+
+<!-- Preloaded, not just @font-face'd: the stylesheet has to parse before the browser
+     discovers these, and a 300ms flash of Georgia in a heading is the first thing anyone
+     sees on a cold launch. -->
+<link rel="preload" href="/vendor/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/vendor/fonts/bricolage-grotesque-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+<!-- The design system (public/ds): the shell is on it; each screen moves onto it in its own flow. Before
+     styles.css, so where the two meet on the same element (the shell's places, the toast's) styles.css's
+     placing wins over the system's defaults. -->
+<link rel="stylesheet" href="/ds/tokens.css">
+<link rel="stylesheet" href="/ds/base.css">
+<link rel="stylesheet" href="/ds/controls.css">
+<link rel="stylesheet" href="/ds/lists.css">
+<link rel="stylesheet" href="/ds/feedback.css">
+<link rel="stylesheet" href="/ds/sheets.css">
+<link rel="stylesheet" href="/ds/avatar.css">
+<link rel="stylesheet" href="/ds/shell.css">
+<link rel="stylesheet" href="/styles.css">
+<!-- The Memories tab's stylesheet (public/css/memories.css). -->
+<link rel="stylesheet" href="/css/memories.css">
+
+<script>
+// Classic, inline, and in <head> on purpose: a module script is deferred, so the saved
+// theme would apply one frame AFTER first paint. That frame is a full-screen white flash
+// in a dark tent. It also fixes theme-color before the status bar is drawn.
+//
+// This is also the ONLY theme code that runs at boot. The shell deliberately does NOT
+// import settings.js: a static import of a route module would make the whole bootstrap —
+// store, router, tabs, everything — fail if that one file were missing from the service
+// worker's precache. On the trail with no signal that is a blank app, and a theme is not
+// worth that risk. settings.js redoes this properly when the user picks a mode.
+(function () {
+  var root = document.documentElement;
+
+  // THE THEME TABLE, and it lives here rather than in settings.js on purpose. It has to be
+  // readable before first paint — a theme applied one frame late is a full-screen flash — and
+  // the shell must not statically import a route module (see above). So the shell owns the
+  // list and settings.js reads it off the window: one source of truth, no mirror to drift.
+  //
+  //   lm     light or dark; drives [data-lum] in styles.css
+  //   bar    the theme-color, which must equal --ground or the iOS status bar seams
+  //   name   what Appearance calls it
+  var THEMES = {
+    light: { name: "Light", lm: "light", bar: "#fdfdfc" },
+    void:  { name: "Dark",  lm: "dark",  bar: "#000000" }
+  };
+  // Appearance is System, Light or Dark (Void). A phone that kept a retired look reads as the nearest (Night and
+  // Slate as Dark, Linen as Light); what it stored is left alone until the person picks again.
+  var RETIRED = { dark: "void", slate: "void", linen: "light" };
+  window.WGP_THEMES = THEMES;
+
+  var t = null;
+  try { t = localStorage.getItem("wgp.theme"); } catch (e) { /* private mode throws */ }
+  if (RETIRED[t]) t = RETIRED[t];
+  if (!THEMES[t]) t = null;                       // unknown or absent = follow the system
+  if (t) root.setAttribute("data-theme", t);
+
+  var m = document.querySelector('meta[name="theme-color"]');
+  var mq = matchMedia("(prefers-color-scheme: dark)");
+  // data-lum is what the accent sets key off. In system mode it tracks the OS; with a theme
+  // chosen it is that theme's family. Without it a dark theme would paint light accents.
+  function paint() {
+    var forced = root.getAttribute("data-theme");
+    // VOID is what a dark OS gets: the media block in styles.css is its copy.
+    var def = mq.matches ? THEMES.void : THEMES.light;
+    var th = THEMES[forced] || def;
+    root.setAttribute("data-lum", th.lm);
+    if (m) m.setAttribute("content", th.bar);
+  }
+  window.WGP_PAINT = paint;                       // settings.js calls this after a change
+  paint();
+  // While the mode is "system" the OS can flip underneath us — iOS auto-dark at sunset,
+  // mid-session. Without this the status bar keeps the old colour until the next launch.
+  mq.addEventListener("change", paint);
+})();
+</script>
+</head>
+
+<!-- No top app bar: the trip name, the date range and the
+     theme toggle all moved to Settings, and the ~90px it cost at the top of every screen —
+     the part of a 390x844 phone a thumb cannot reach anyway — went back to the content. -->
+<body data-net="on" data-queued="0" data-back="0" data-netpill="0" data-kb="0">
+
+<!-- (With black-translucent, as before 21 Nov, and still in a browser with viewport-fit=cover where the page runs under
+     the status bar:) viewport-fit=cover is what makes env(safe-area-inset-*) return anything at all, and the price is
+     that the web view is painted UNDER the status bar: padding the scroller keeps the FIRST row clear and does nothing for the
+     forty rows that scroll up past the clock afterwards. This is the backdrop that was
+     missing — a fixed strip exactly as tall as the top inset, in --ground, no content, no
+     taps. Not a resurrected app bar. Geometry and z-order live in styles.css (.statusbar). -->
+<div class="statusbar" aria-hidden="true"></div>
+
+<!-- No aria-live here: a live region wrapping the whole route makes VoiceOver read the
+     entire agenda aloud on every navigation and on every store "change". Route changes
+     announce themselves through the focus move in router.js; the toast has role="status". -->
+<main id="view" tabindex="-1">
+  <p class="home-wait" role="status">Opening your trip…</p>
+  <div class="stack" aria-hidden="true">
+    <div class="skeleton" style="height:18px;width:38%"></div>
+    <div class="skeleton" style="height:74px"></div>
+    <div class="skeleton" style="height:74px"></div>
+    <div class="skeleton" style="height:74px"></div>
+  </div>
+</main>
+
+<!-- Bottom-LEFT dock, above the tab bar. Both controls live on the left and stack upward so
+     the bottom-right quadrant stays free for view-owned FABs.
+     The back button is the point of the dock: reaching the top-left of a 390x844 phone
+     one-handed. It is "previous page", not "up one level" —
+     agenda -> event -> place -> back lands on the EVENT — and it is hidden on the four tab
+     roots, where there is no previous page inside the app. -->
+<div class="dock" id="dock">
+  <!-- OFFLINE ONLY. Never shows transient "Sending N":
+       a badge that appears for two seconds every time you tick a box is noise, and it is
+       noise about something the app has already promised to handle. Queued writes are the
+       sync line's job now. Being offline is different — it is a fact about the world that
+       outlives the write, and it is the one thing worth a word and a tap target. -->
+  <button class="netpill netpill-off" id="netpill" type="button" hidden>
+    <svg class="ico" viewBox="0 0 24 24" id="netpill-icon" aria-hidden="true"></svg>
+    <span id="netpill-text">Offline</span>
+  </button>
+  <button class="backbtn" id="backbtn" type="button" hidden aria-label="Back">
+    <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="m14.5 5.5-7 6.5 7 6.5"/></svg>
+    <span>Back</span>
+  </button>
+</div>
+
+<!-- THE ONE SYNC/CONNECTIVITY LINE. 2px, above the tab bar, three states carried
+     by three SHAPES as well as three colours: solid = up to date, a sweeping highlight =
+     writes queued or a flush in flight, long dashes = offline. It replaces .tabbar::before
+     and it replaces every "sending" badge in the app. It is a sibling of the tab bar rather
+     than a pseudo-element on it because the bar slides away when the keyboard opens, and
+     typing a note is exactly when there is something to sync. -->
+<div class="netline" id="netline" data-sync="idle" aria-hidden="true"></div>
+
+<!-- THE BAR: the same five for everyone (public/js/tabs.js DEFAULT_LAYOUT, written out). The markup
+     stays because index.html paints before any module runs: a bar built purely from JS would flash
+     empty on every cold launch, including the offline home-screen launch this app exists for. It is
+     on the design system (public/ds/shell.css): one highlight slides to the tab you are on.
+     Map is not here: it is a list/map toggle inside Places, and #/map reports section "places". More
+     is not here either: it is your picture at the top right (.head-more, below). -->
+<nav class="tabbar ds ds-tabbar" aria-label="Sections" style="--ds-i:0">
+  <span class="rail-brand" aria-hidden="true" data-rail-brand data-rail-keep></span>
+  <!-- From 1024 the rail holds everything, so nothing waits behind More: the trip, the five, then what More
+       lists, and you at its foot (in place of your picture at the top right). -->
+  <div class="rail-trip" data-rail-keep><p class="ds-rail-trip" data-rail-trip-name></p><p class="ds-rail-dates" data-rail-trip-dates></p></div>
+  <span class="ds-tab-hl"></span>
+  <a class="tab ds-tab" href="#/" data-tab="agenda">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2.5"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>
+    <span>Itinerary</span><span class="ds-tab-dot"></span>
+  </a>
+  <a class="tab ds-tab" href="#/places" data-tab="places">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11Z"/><circle cx="12" cy="10" r="2.6"/></svg>
+    <span>Places</span><span class="ds-tab-dot"></span>
+  </a>
+  <!-- In step with DEFAULT_LAYOUT in public/js/tabs.js: paintBar() compares the data-tab sequence and
+       rebuilds the bar when it differs. -->
+  <a class="tab ds-tab" href="#/split" data-tab="split">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20V13"/><path d="M12 13 6.5 7.5"/><path d="M12 13 17.5 7.5"/><path d="M6.5 11.4V7.5h3.9"/><path d="M17.5 11.4V7.5h-3.9"/></svg>
+    <span>Split</span><span class="ds-tab-dot"></span>
+  </a>
+  <a class="tab ds-tab" href="#/memories" data-tab="memories">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="15" rx="2.5"/><circle cx="9" cy="10.2" r="1.7"/><path d="m3.6 17.4 4.8-4.6 3.4 3.2 3.8-4 4.6 4.8"/></svg>
+    <span>Photos</span><span class="ds-tab-dot"></span>
+  </a>
+  <a class="tab ds-tab" href="#/chat" data-tab="chat">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6.5A2.5 2.5 0 0 1 6.5 4h11A2.5 2.5 0 0 1 20 6.5v8a2.5 2.5 0 0 1-2.5 2.5H11l-4.5 3.5V17h0A2.5 2.5 0 0 1 4 14.5v-8Z"/><path d="M8 8.8h8M8 12.2h5"/></svg>
+    <span>Chat</span><span class="ds-tab-dot"></span>
+  </a>
+  <div class="rail-rest" data-rail-keep>
+    <hr>
+    <a class="ds-nav" href="#/changes" data-rail-row="changes"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 7v5l3 2M4 12a8 8 0 1 0 2.5-5.8M4 5v4h4"/></svg><span>Changes</span><span class="ds-nav-note" data-rail-new>New</span></a>
+    <a class="ds-nav" href="#/pack" data-rail-row="pack"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 8h12l1 12H5L6 8ZM9 8V6a3 3 0 0 1 6 0v2"/></svg><span>Packing</span></a>
+    <a class="ds-nav" href="/trips" data-rail-people><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="9" r="3"/><path d="M3 19c.5-3 3-4.5 6-4.5s5.5 1.5 6 4.5M16 6.5a3 3 0 0 1 0 5.5M17.5 14.8c1.8.6 3 2 3.5 4.2"/></svg><span>People</span></a>
+    <a class="ds-nav" href="#/settings" data-rail-row="other"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h8M17 7h2M5 12h2M11 12h8M5 17h10"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="12" r="2"/><circle cx="17" cy="17" r="2"/></svg><span>Settings</span></a>
+    <a class="ds-rail-you" href="/trips" data-rail-you>
+      <span class="ds-face ds-face--me" aria-hidden="true"><span data-rail-you-initials></span></span>
+      <span class="rail-you-words"><span class="rail-you-name" data-rail-you-name></span><span class="ds-meta">Your trips and account</span></span>
+      <svg viewBox="0 0 16 16" aria-hidden="true"><path d="m6 4 4 4-4 4"/></svg>
+    </a>
+  </div>
+</nav>
+
+<!-- MORE: your own picture at the top right of every main screen (public/ds/shell.css .head-more).
+     A dot when something there is new; a ring while you are in it, when no tab is lit. Its name for
+     a screen reader is "More" (tabs.js labelOther). The initials are the account's (paintMore). -->
+<a class="head-more ds" href="#/settings" aria-label="More" data-head-more>
+  <span class="ds-face ds-face--me" aria-hidden="true"><span data-head-more-initials></span></span>
+  <span class="head-more-dot"></span>
+</a>
+
+<div id="toast" class="toast ds" role="status" aria-live="polite" hidden></div>
+
+<noscript>
+  <div class="empty"><p class="lead">WeGoPlace needs JavaScript. Enable it and reload.</p></div>
+</noscript>
+
+<script>
+// THE ONE LOAD ON AN OLDER WORKER'S SCRIPTS. public/js/fresh-app.js, and the same text inline
+// in index.html, word for word (scripts/old_queue_check.mjs holds them equal, and that no
+// line here spells a script tag, which would end the inline copy). Classic, so it runs before
+// a page's module does anything.
+//
+// A phone that had the app before a trip had an address (service worker v54 and older) is
+// still controlled by that worker the first time it comes back. That worker fetches a page
+// from the network first and serves scripts from its own cache first: so the phone gets the
+// NEW page with the OLD store.js, auth.js, router.js and the rest, until the new worker has
+// installed and taken over. Run like that, the old store sent its unsent changes to addresses
+// that no longer exist, and the old auth.js left the sign-in page with no button that worked.
+//
+// THE RULE: NO ROAD RUNS THIS APP ON THAT WORKER'S SCRIPTS. This asks the worker in control
+// which build it is, and for one from before v60 (the first with a trip at its own address)
+// the page's module never starts on this load. The page says "Updating the app…", registers
+// the new worker, and loads again when it takes over: a second or two on a good connection.
+// Meanwhile, every TICK_MS:
+//   - No connection (a request to /api/, which the old worker passes straight to the network,
+//     fails): the page loads again. The old worker can't reach the network either, so it
+//     serves the page it kept, which is its own (see APP_MARKER in sw.js for why it never
+//     keeps a page of this app's): the OLD app opens, whole, as it always did with no signal.
+//     Only if that load lands back here with still no connection (a worker that kept this
+//     page after all) does the page say the update needs one, with a button to try again.
+//   - A connection, and the new worker is still downloading its shell: keep waiting, up to
+//     SLOW_MS. The old worker is worth keeping while there is hope: it is the only thing that
+//     opens the trip with no signal until the new one is in.
+//   - A connection, and no new worker on its way after WAIT_MS (its install failed, or
+//     stalled past SLOW_MS): the old worker is unregistered and the page loads again. Nothing
+//     controls that load, so everything comes from the network, and the page registers the
+//     new worker itself like a first visit.
+// What the phone had not sent is untouched all the while: it is in the old databases, which
+// only the app's own code reads, and that is not running.
+//
+// Asked until a worker in control has answered as a new one: that is remembered in
+// "wgp.shell". A load nobody controls (a first visit, the load after an unregister, a reload
+// that skips the worker) has nothing old to be handed and is not asked, but it remembers
+// nothing either: an old worker may still be registered behind it, and control the next load.
+//
+// ONE BUILD PER PAGE (21 Nov: "personTone is not a function" on an installed iPhone, a page of
+// one build running on another build's modules). The rule above refused only workers from
+// before v60 and then stopped asking; any newer worker passed, and the first load after every
+// deploy ran the new page on the old worker's modules. Now every page names its build
+// (<meta name="wgp-build">, held equal to sw.js VERSION by sw_version_check), and:
+//   - A worker that ANSWERS another build than the page's: the app doesn't start on this load.
+//     The new worker is asked to take over (it waits until asked: sw.js) and the page loads
+//     again: once per build per tab (sessionStorage). If the pair still differs after that one
+//     reload, the page runs as it is and says so once (an error report), never a second reload.
+//     Offline, nothing is asked and nothing reloads (the worker answers with its own page then).
+//   - A worker that says NOTHING is old, exactly as before (the road above, unchanged): the
+//     workers from before the question never answer it, and the Peru trip's phones may carry
+//     exactly those. That road tells no signal from a slow one, and unregisters a worker whose
+//     update never comes before loading with nothing in control, so it can't loop.
+//   - A page with no meta (its build unknown) is never a mismatch: it runs, as before.
+//   - Once running, a page tells its worker its build (the worker answers its modules from that
+//     build's cache even after a newer worker takes over for another tab), and takes a waiting
+//     update when it is hidden with nothing unsent (later(), at the end); a takeover that didn't
+//     follow is asked for again on a later hide.
+//
+// HOW A PAGE USES IT. Its module is never a module script with a src and never an `import`
+// statement (both run the old worker's copy whatever this does): it is import()ed after
+// window.__shellReady, which is undefined when there is nothing to wait for.
+//   - EVERY PAGE carries this text INLINE (scripts/old_queue_check.mjs holds each copy equal
+//     to this file). Inline, never by its src: a worker keeps its own copy of this file, and a
+//     new page loading it by its src ran the OLD guard, which let any v60+ worker through (21 Nov,
+//     shell_build_check A). And a file can fail to arrive, so a page would start with nothing asked.
+//   - index.html awaits window.__shellReady itself; every other page then calls, inline,
+//     freshApp with a function that import()s the page's own module.
+window.freshApp = function (start) { return Promise.resolve(window.__shellReady).then(start); };
+(function () {
+  var sw = navigator.serviceWorker;
+  var TICK_MS = 5000, WAIT_MS = 20000, SLOW_MS = 90000, PING_MS = 8000, AGAIN_MS = 15000;
+  var known = null;
+  try { known = localStorage.getItem("wgp.shell"); } catch (e) { /* private mode: ask each time */ }
+  // This page's build; "" for a page without the meta: unknown, never a mismatch.
+  var metaEl = document.querySelector('meta[name="wgp-build"]');
+  var page = (metaEl && metaEl.getAttribute("content")) || "";
+  // What a worker in control answered, for this page's build ("1" from before builds were named, which a page that has
+  // a build asks again).
+  var mark = function () { try { localStorage.setItem("wgp.shell", page || "1"); } catch (e) { /* asked again next time */ } };
+  if (!sw) return;
+  later(sw, page);
+  if (!sw.controller) return;
+  if (known && (!page || known === page)) { tell(sw.controller, page); return; }
+  window.__shellReady = new Promise(function (go) {
+    var settled = false, waiting = false, leaving = false, began = 0;
+    var view = function () { return document.getElementById("view"); };
+    var reload = function () { if (leaving) return; leaving = true; location.reload(); };
+    // Where it is said: the app's own view, or on a page that has none, over the whole page.
+    var cover = function () {
+      var c = document.querySelector("[data-shell-cover]");
+      if (c) return c;
+      c = document.createElement("div");
+      c.setAttribute("data-shell-cover", "");
+      c.setAttribute("role", "status");
+      c.style.cssText = "position:fixed;inset:0;z-index:2147483647;overflow:auto;display:flex;flex-direction:column;" +
+        "justify-content:center;background:var(--ground, Canvas);color:var(--ink, CanvasText)";
+      (document.body || document.documentElement).appendChild(c);
+      return c;
+    };
+    // While it says so, the page around the words takes no tap: the old app's tab bar is still
+    // drawn under them, and a tab tapped there would move the address to a section that isn't
+    // running (the walk on an iPhone's Home Screen app, 15 Nov). Inert, and dimmed to say so.
+    var still = function () {
+      var bars = document.querySelectorAll(".tabbar");
+      for (var i = 0; i < bars.length; i++) { bars[i].setAttribute("inert", ""); bars[i].style.opacity = "0.45"; }
+    };
+    var say = function (html) { (view() || cover()).innerHTML = html; still(); };
+    var updating = function () {
+      say('<div class="ds ds-updating" data-shell="updating"><img class="ds-updating-icon" src="/icons/icon-192.e2026552.png" alt=""><p>Updating the app…</p></div>');
+    };
+    var needsSignal = function () {
+      if (document.querySelector('[data-shell="waiting"]')) return;
+      say('<div class="empty" data-shell="waiting"><p class="lead">Still updating the app</p>' +
+        '<p>This needs a connection. What you changed on this phone is safe, and is sent after the update.</p>' +
+        '<p><button class="btn btn-primary" type="button" data-shell-retry>Try again</button></p></div>');
+      var b = document.querySelector("[data-shell-retry]");
+      if (b) b.addEventListener("click", reload);
+    };
+    // Is there a connection? "yes": anything answered. "no": the request failed, which with
+    // no signal it does at once. "slow": nothing either way in PING_MS, which is a connection
+    // too busy or too poor to tell (the new worker's own download may be all of it).
+    var ping = function () {
+      return new Promise(function (answer) {
+        var done = false, end = function (what) { if (!done) { done = true; answer(what); } };
+        var ctl = typeof AbortController === "function" ? new AbortController() : null;
+        setTimeout(function () { end("slow"); if (ctl) ctl.abort(); }, PING_MS);
+        fetch("/api/me", { cache: "no-store", credentials: "same-origin", signal: ctl ? ctl.signal : undefined })
+          .then(function () { end("yes"); }, function () { end("no"); });
+      });
+    };
+    var triedAt = function () { try { return +sessionStorage.getItem("wgp.shell.offline") || 0; } catch (e) { return 0; } };
+    var tick = function () {
+      if (settled || leaving) return;
+      var again = function () { setTimeout(tick, TICK_MS); };
+      ping().then(function (net) {
+        if (settled || leaving) return;
+        var waited = Date.now() - began;
+        if (net === "slow" && waited < SLOW_MS) return again();
+        if (net !== "yes") {
+          // The old app, from the old worker's own page: unless that was just tried and led here.
+          if (Date.now() - triedAt() < AGAIN_MS) { needsSignal(); return again(); }
+          try { sessionStorage.setItem("wgp.shell.offline", String(Date.now())); } catch (e) { needsSignal(); return again(); }
+          return reload();
+        }
+        if (document.querySelector('[data-shell="waiting"]')) return reload();   // the signal is back
+        return sw.getRegistration().then(function (reg) {
+          var coming = !!(reg && (reg.installing || reg.waiting));
+          if (waited < WAIT_MS || (coming && waited < SLOW_MS)) return again();
+          return sw.getRegistrations()
+            .then(function (regs) { return Promise.all(regs.map(function (r) { return r.unregister(); })); })
+            .then(reload);
+        }).catch(again);
+      });
+    };
+    var wait = function () {
+      if (settled || waiting) return;
+      waiting = true;
+      began = Date.now();
+      updating();
+      sw.addEventListener("controllerchange", function () { mark(); reload(); });
+      sw.register("/sw.js", { updateViaCache: "none" })
+        .then(function (reg) { if (reg) return reg.update(); })
+        .catch(function () { /* no signal now: the ticks below find out */ });
+      setTimeout(tick, TICK_MS);
+    };
+    // The new worker, asked to take over: the one waiting, or the one installing once it has, or one the update finds.
+    var takeOver = function () {
+      sw.getRegistration().then(function (reg) {
+        if (!reg) return;
+        var ask = function (w) { try { w.postMessage({ type: "app/skip-waiting" }); } catch (e) { /* the reload below still comes */ } };
+        var follow = function (w) {
+          if (!w) return;
+          if (w.state === "installed") return ask(w);
+          w.addEventListener("statechange", function () { if (w.state === "installed") ask(w); });
+        };
+        if (reg.waiting) return ask(reg.waiting);
+        if (reg.installing) return follow(reg.installing);
+        reg.addEventListener("updatefound", function () { follow(reg.installing); });
+        return reg.update();
+      }).catch(function () { /* the reload below still comes */ });
+    };
+    // Said once, when a reload didn't make the pair one build: the page then runs as it is.
+    var report = function (v) {
+      try {
+        fetch("/api/errors", { method: "POST", headers: { "Content-Type": "application/json" }, keepalive: true, cache: "no-store",
+          credentials: "same-origin", body: JSON.stringify({ kind: "error", name: "ShellMismatch",
+            message: "shell mismatch after reload: the page is " + page + ", its worker " + v,
+            file: location.origin + "/js/fresh-app.js", line: 1, col: 1, place: location.pathname + location.hash, version: page }) })
+          .catch(function () { /* a report must never be the next error */ });
+      } catch (e) { /* a report must never be the next error */ }
+    };
+    // A worker of another build: one reload per build per tab, the new worker asked to take over first.
+    var mismatch = function (v) {
+      var key = "wgp.shell.reload", done = "";
+      try { done = sessionStorage.getItem(key) || ""; } catch (e) { done = page; }
+      settled = true;
+      if (done === page || navigator.onLine === false) {
+        if (done === page) report(v);
+        tell(sw.controller, page);
+        go();
+        return;
+      }
+      try { sessionStorage.setItem(key, page); } catch (e) { tell(sw.controller, page); go(); return; }
+      updating();
+      sw.addEventListener("controllerchange", reload);
+      takeOver();
+      setTimeout(reload, WAIT_MS);   // the one reload, taken over or not
+    };
+    var ch = new MessageChannel();
+    ch.port1.onmessage = function (e) {
+      var v = String((e.data && e.data.version) || "");
+      var n = +v.replace(/^v/, "");
+      // (An answer that comes after the wait began still starts the app: it was only slow.)
+      if (settled) return;
+      if (!(n >= 60)) { wait(); return; }
+      if (!page || v === page) { settled = true; mark(); tell(sw.controller, page); go(); return; }
+      mismatch(v);
+    };
+    try { sw.controller.postMessage({ type: "app/version" }, [ch.port2]); } catch (e) { wait(); }
+    // A worker that says nothing (one older than the question) is an old one.
+    setTimeout(function () { if (!settled) wait(); }, 1500);
+  });
+
+  // The worker answers a page's modules from the page's own build's cache (sw.js shellFor()), once the page has said
+  // which build it is. Said as it starts, and again to a worker that takes over while it is open.
+  function tell(worker, build) {
+    try { if (worker && build) worker.postMessage({ type: "app/page-build", build: build }); } catch (e) { /* its modules then come from the current build, as before */ }
+  }
+
+  // THE TAKEOVER WHEN HIDDEN. A new worker waits until it is asked (sw.js). A running page asks it at the one moment
+  // nobody is using it: hidden (the app switched away, the screen locked), online, with nothing unsent (no sheet open, no
+  // field focused or holding typed words), and then loads again, on the new build. A page that ANOTHER tab's takeover
+  // moved to a worker of another build loads again the same way. Once per build per tab (sessionStorage): no loop.
+  function later(sw, page) {
+    var due = "";
+    var busy = function () {
+      if (document.querySelector('[role="dialog"][aria-modal="true"]')) return true;
+      var a = document.activeElement;
+      if (a && (a.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(a.tagName))) return true;
+      var fields = document.querySelectorAll("input, textarea");
+      for (var i = 0; i < fields.length; i++) {
+        if (/^(hidden|checkbox|radio|button|submit|reset|file|range|color|image)$/i.test(fields[i].type || "")) continue;
+        if (fields[i].value !== fields[i].defaultValue) return true;
+      }
+      return false;
+    };
+    var once = function (build) {
+      try {
+        if (sessionStorage.getItem("wgp.shell.hidden") === build) return false;
+        sessionStorage.setItem("wgp.shell.hidden", build);
+        return true;
+      } catch (e) { return false; }
+    };
+    var buildOf = function (w) {
+      return new Promise(function (answer) {
+        if (!w) return answer("");
+        var ch = new MessageChannel(), t = setTimeout(function () { answer(""); }, 1500);
+        ch.port1.onmessage = function (e) { clearTimeout(t); answer(String((e.data && e.data.version) || "")); };
+        try { w.postMessage({ type: "app/version" }, [ch.port2]); } catch (e) { clearTimeout(t); answer(""); }
+      });
+    };
+    sw.addEventListener("controllerchange", function () {
+      tell(sw.controller, page);
+      buildOf(sw.controller).then(function (v) { if (v && page && v !== page) due = v; });
+    });
+    // A takeover asked for on a hide is only counted once it is seen (the controller changes, and the page loads again):
+    // until then, and for 10 s at most, a hide doesn't ask twice; after that, the next hide asks again. (Recorded at the
+    // asking, as it was, a takeover that didn't follow was never asked for again in that tab: the update then waited
+    // for the next launch.)
+    var asked = "", armed = false;
+    document.addEventListener("visibilitychange", function () {
+      if (document.visibilityState !== "hidden" || navigator.onLine === false || busy()) return;
+      if (due) { if (once(due)) location.reload(); return; }
+      sw.getRegistration().then(function (reg) {
+        var next = reg && reg.waiting;
+        if (!next) return;
+        return buildOf(next).then(function (v) {
+          if (!v || busy() || asked === v) return;
+          asked = v;
+          setTimeout(function () { if (asked === v) asked = ""; }, 10000);
+          // The takeover asked for here loads the page again only while it is still hidden with nothing unsent. A takeover
+          // that comes late (the old worker kept running by another tab's request in the instant it was stopped, and
+          // taken over only once it went idle) can come after the person is back: never under their hands then. The
+          // controllerchange listener above has set `due`, so the next hide loads it again, once (or the next launch).
+          if (!armed) { armed = true; sw.addEventListener("controllerchange", function () { if (document.visibilityState === "hidden" && !busy()) location.reload(); }); }
+          next.postMessage({ type: "app/skip-waiting" });
+        });
+      }).catch(function () { /* asked again the next time it is hidden */ });
+    });
+  }
+})();
+</script>
+
+<script type="module">
+// App bootstrap. Deliberately the only module script in the shell: store.js owns data,
+// router.js owns navigation, settings.js owns the theme, and this wires them to the chrome
+// around them.
+//
+// Nothing is imported until the script above says the worker in control is this app's own
+// (see there). That is why these are import() and not import statements: a statement is
+// fetched and run before the first line here, and on that one load it would be the old file.
+if (window.__shellReady) await window.__shellReady;
+
+const $ = (id) => document.getElementById(id);
+const view = $("view");
+
+// ── service worker ────────────────────────────────────────────────────────────────────
+// Registered before anything is awaited. The whole offline promise starts here, and on a
+// first visit over hotel wifi we want the precache running while the user reads the agenda.
+if ("serviceWorker" in navigator) {
+  // Read now, before anything is awaited: was this page loaded THROUGH a worker? (See the
+  // reload below.)
+  const controlledAtLoad = !!navigator.serviceWorker.controller;
+  navigator.serviceWorker.register("/sw.js", { updateViaCache: "none" }).then((reg) => {
+    if (!reg) return;
+
+    // WHY THIS EXISTS, because registering alone is NOT enough and that cost days.
+    //
+    // A browser only checks for a new service worker on a NAVIGATION. An installed PWA that
+    // you reopen from the app switcher is a RESUME, not a navigation — so the check never
+    // runs, and the phone happily serves the worker it installed the first time, forever.
+    // Everything felt exactly the same as before, across a dozen deploys that
+    // were all live and all correct on the server. They simply never reached the device.
+    //
+    // So: ask on every launch, and again whenever the app comes back to the foreground. This
+    // is cheap — a conditional request that 304s when nothing has changed.
+    let lastCheck = 0;
+    const check = () => {
+      const now = Date.now();
+      if (now - lastCheck < 60000) return;        // at most once a minute
+      lastCheck = now;
+      reg.update().catch(() => { /* offline: nothing to do, the cache is already right */ });
+    };
+    check();
+    addEventListener("visibilitychange", () => { if (!document.hidden) check(); });
+
+    // sw.js calls skipWaiting() during install, so a new worker takes over as soon as it is
+    // ready — but this PAGE keeps running the modules it already loaded until it reloads.
+    // Reload once when control changes, and never out from under a keyboard: losing a
+    // half-typed note to a background update would be a worse bug than the one this fixes.
+    //
+    // ONLY WHEN A WORKER IS REPLACED. A page that no worker handed over (a first visit, a
+    // forced refresh) came from the network a moment ago: its modules are already the ones
+    // the worker is caching, so the first worker taking control changes nothing it runs.
+    // Reloading there threw away whatever the person had started in the first seconds: an
+    // open sheet, typed words, an upload already sending parts.
+    let swapped = false;
+    let controlled = controlledAtLoad;
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (!controlled) { controlled = true; return; }
+      if (swapped) return;
+      swapped = true;
+      const busy = () => {
+        const a = document.activeElement;
+        return !!(a && (a.tagName === "INPUT" || a.tagName === "TEXTAREA" || a.isContentEditable));
+      };
+      if (!busy()) { location.reload(); return; }
+      addEventListener("visibilitychange", function once() {
+        if (document.hidden || busy()) return;
+        removeEventListener("visibilitychange", once);
+        location.reload();
+      });
+    });
+  }).catch((e) => console.warn("[shell] sw", e));
+}
+
+// ── the app's modules ─────────────────────────────────────────────────────────────────
+// All at once, as import statements would be. chat-dot.js is the chat's unread mark: a dot on
+// the way in when someone else has written.
+const [
+  { store }, { paintBar, tabFor, lightTab, labelOther, placeMoreFor, duckOnScroll, barInReadingOrder, RAIL }, { start, router }, { refusalWords, refusalLine }, { oldLines },
+  { placeRefusalWords, nearWords }, { toast, toastHold }, { sessionAccount },
+  { homeAddress, tripIdFromPath, tripPath }, , , { mountReferences },
+] = await Promise.all([
+  import("/js/store.js"), import("/js/tabs.js"), import("/js/router.js"), import("/js/packing-refusals.js"),
+  import("/js/old-queue.js"), import("/js/place-form.js"), import("/js/toast.js"), import("/js/forget.js"),
+  import("/js/trip-here.js"), import("/js/chat-dot.js"), import("/js/changes-dot.js"), import("/js/references.js"),
+]);
+
+// ── which trip ────────────────────────────────────────────────────────────────────────
+// A trip's page is /t/<id>/, and this document is served at every one of them. The app's own
+// address "/" names no trip: it is where the installed app starts, and all it does is send the
+// person on, to the trip this phone opened last, or to Your trips when the phone keeps none.
+// With no signal too: the worker answers both from its cache. The "#/…" part is kept, so
+// "/#/split" still opens Split.
+//
+// After the worker's registration above, on purpose: a first visit that lands here still
+// starts the precache.
+if (!tripIdFromPath(location.pathname)) {
+  let to = homeAddress({ who: sessionAccount(), hash: location.hash });
+  if (to === "/trips") {
+    // A phone that had the app before a trip had an address keeps one trip, in the database
+    // from before. That trip is where it was, so that is where it goes (store.js then moves
+    // what is stored into the trip's own database).
+    try {
+      const { oldTripId } = await import("/js/trip-adopt.js");
+      const old = await oldTripId();
+      if (old) to = tripPath(old, location.hash);
+    } catch (e) { console.warn("[shell] the stored trip could not be read", e); }
+  }
+  location.replace(to);
+  await new Promise(() => {});          // nothing below runs for this page
+}
+
+// ── connectivity and sync ─────────────────────────────────────────────────────────────
+// ONE connectivity/sync pattern app-wide: no 'Sending' toast — a subtle pulsing
+// line above the bottom nav whenever writes are in flight (notes, packing, everything).
+//
+// So there are exactly two things here and no third:
+//   - #netline, a 2px rule above the tab bar. THREE states, THREE shapes (styles.css):
+//     solid = up to date · sweeping highlight = queued or flushing · long dashes = offline.
+//   - #netpill, which now appears ONLY when offline. It used to say "Sending 3", and that
+//     badge was the thing being complained about: it fired on every tick of a checkbox, said
+//     nothing the user had to act on, and moved the layout while they were reading.
+//
+// Both facts are also on <body> as data-net / data-queued so any view can style against
+// them. Hue is never the only signal — two plain hues measured at 1.15:1 apart
+// under deuteranopia, i.e. the same colour to anyone who sees that way.
+const OFFLINE_ICON =
+  '<path d="M6.8 19.4h10.4a4.6 4.6 0 0 0 .7-9.1 6.4 6.4 0 0 0-10.3-3.6"/>' +
+  '<path d="M6.8 19.4a4.2 4.2 0 0 1-.4-8.4"/><path d="M3.2 3.2 20.8 20.8"/>';
+$("netpill-icon").innerHTML = OFFLINE_ICON;
+
+function paintStatus() {
+  const s = store.status();
+  const offline = !s.online;
+  document.body.dataset.net = offline ? "off" : "on";
+  document.body.dataset.queued = s.pending ? "1" : "0";
+
+  // Offline wins over busy: a pulse means "going out right now", and with no radio nothing
+  // is. Queued-while-offline is what the pill's own count is for.
+  $("netline").dataset.sync = !offline && (s.pending > 0 || s.syncing) ? "busy" : "idle";
+
+  const pill = $("netpill");
+  document.body.dataset.netpill = offline ? "1" : "0";
+  pill.hidden = !offline;
+  if (!offline) return;
+  // Terse. "Offline" is the fact; the count only appears when there is one.
+  $("netpill-text").textContent = s.pending ? `Offline · ${s.pending} queued` : "Offline";
+  pill.setAttribute("aria-label", `${$("netpill-text").textContent}. Tap to retry.`);
+}
+$("netpill").addEventListener("click", () => { store.flush(); store.refresh(); });
+
+// ── keyboard ──────────────────────────────────────────────────────────────────────────
+// Hide the tab bar while the on-screen keyboard is open so it is never pushed up over content.
+//
+// TWO SIGNALS, because neither alone is right on iOS:
+//   - focusin/focusout on a text field. This is the one that fires FIRST, before the
+//     keyboard has finished animating in, so the bar is already gone by the time the keys
+//     arrive rather than being shoved up by them.
+//   - visualViewport height. This is the backstop for every case with no focus event: the
+//     keyboard dismissed by the user's swipe-down while the field keeps focus, a hardware
+//     keyboard connected, an autofill bar appearing and disappearing on its own.
+//
+// The result is one flag, body[data-kb], plus --kb-h on <html> — the keyboard's height in
+// px, which view modules may read to keep their own fixed furniture above the keys. Both
+// are shell contracts; nothing else may set them.
+const vv = window.visualViewport;
+let kbFocus = false;
+
+function isField(el) {
+  if (!el) return false;
+  const tag = el.tagName;
+  // A checkbox does not open a keyboard, and hiding the nav when one is tapped would be a
+  // flicker on every packing row.
+  if (tag === "INPUT") return !/^(checkbox|radio|button|submit|reset|range|color|file)$/i.test(el.type || "text");
+  return tag === "TEXTAREA" || tag === "SELECT" || el.isContentEditable === true;
+}
+
+let vvBase = 0;                 // visual-viewport height with no keyboard, re-learned below
+function kbHeight() {
+  // THE ONE FORMULA THAT IS RIGHT IN BOTH MODES, and the reason this kept flip-flopping.
+  //
+  // Safari and an installed (standalone) PWA do NOT treat the keyboard the same way, measured
+  // on iOS 26:
+  //   Safari tab   keys up -> innerHeight 377, vv.height 377, vv.offsetTop 337
+  //                the LAYOUT viewport shrinks, so bottom:0 is already above the keys
+  //   Standalone   keys up -> the layout viewport stays full height and only the visual
+  //                viewport shrinks, so bottom:0 is BEHIND the keys and needs lifting
+  // Assuming either one breaks the other: lifting by the keyboard in Safari put the composer at
+  // the top of the screen; not lifting in the installed app hid it behind the keyboard.
+  //
+  // So do not assume. Measure how much of the LAYOUT viewport the keyboard is covering:
+  //     innerHeight - (vv.offsetTop + vv.height)
+  // Safari:     377 - (337 + 377) = -337 -> 0   (no lift, correct)
+  // Standalone: 714 - (0   + 377) =  337        (lift, correct)
+  if (!vv) return 0;
+  return Math.max(0, Math.round(window.innerHeight - vv.offsetTop - vv.height));
+}
+
+
+// The keyboard's own height, learned from how far the visual viewport DROPS. This is a different
+// number from the lift a fixed element needs (which is 0 when the layout viewport shrinks on its
+// own), and it is the one the composer needs BEFORE the keyboard exists — see kbPreLift().
+let kbGuess = 0;
+try { kbGuess = Number(localStorage.getItem("wgp.kbh")) || 0; } catch (e) { /* private mode */ }
+if (vv) {
+  if (!vvBase) vvBase = vv.height;
+  vv.addEventListener("resize", () => {
+    if (!kbFocus) { vvBase = Math.max(vvBase, vv.height); return; }
+    const kb = Math.round(vvBase - vv.height);
+    if (kb > 120 && kb !== kbGuess) {
+      kbGuess = kb;
+      try { localStorage.setItem("wgp.kbh", String(kb)); } catch (e) { /* private mode */ }
+    }
+  });
+}
+
+/* LIFT A BOTTOM-ANCHORED FIELD BEFORE WEBKIT DECIDES TO REVEAL IT.
+ *
+ * Measured on an iPhone, and this is the whole story of the "background jumps" bug:
+ *   field left at the bottom      page drifts 674px on glass
+ *   field already lifted at focus page drifts 204px
+ *   field lifted on TOUCHSTART      page drifts   0px
+ * WebKit decides whether to scroll the page to reveal the focused field, and it has decided by
+ * the time focusin runs — lifting there is too late, which is why an earlier attempt at this
+ * changed nothing. touchstart happens first.
+ *
+ * Lifting alone moves the field out from under the finger, so the tap lands on nothing and you
+ * have to tap twice. Focusing here, in the same gesture, is what makes one tap work.
+ */
+window.kbPreLift = function kbPreLift(field) {
+  if (!field || !kbGuess) return false;
+  document.documentElement.style.setProperty("--kb-h", `${kbGuess}px`);
+  kbFocus = true;
+  document.body.dataset.kb = "1";
+  field.focus({ preventScroll: true });
+  return true;
+};
+
+function paintKeyboard() {
+  // 120px: comfortably above an iOS accessory/autofill bar (~44-60px) and far below any
+  // real keyboard (~290px on a 390pt phone).
+  const open = kbFocus || kbHeight() > 120;
+  document.body.dataset.kb = open ? "1" : "0";
+  document.documentElement.style.setProperty("--kb-h", `${open ? kbHeight() : 0}px`);
+
+  // THE KEYBOARD IS AN OVERLAY, NOT A SMALLER SCREEN.
+  //
+  // An earlier attempt shrank the whole shell to visualViewport.height while the keys were up.
+  // It did stop the page being scrolled — but it was the wrong model, with two
+  // consequences: a drawer sized against the viewport became a TINY drawer with the app
+  // showing through above the keyboard, and the shell resizing under everything made every field
+  // in the app jitter on focus. Other apps do not do this, because they do not do this.
+  //
+  // The shell stays full height. The keyboard sits ON TOP of it. Things that need to clear the
+  // keys ride --kb-h themselves: a drawer grows DOWNWARD behind the keyboard and pads its own
+  // scrollport, and the note composer and back button sit at bottom: var(--kb-h). Nothing that
+  // is not the thing you are typing into moves at all.
+  // No window.scrollTo and no scroll listener any more. Both were chasing a page displacement
+  // that is now prevented at the source by kbPreLift(), and forcing the document scroll is
+  // exactly the kind of viewport manhandling that made this feel worse than doing nothing.
+}
+
+addEventListener("focusin", (e) => { if (isField(e.target)) { kbFocus = true; paintKeyboard(); } });
+addEventListener("focusout", (e) => {
+  if (!isField(e.target)) return;
+  // Deferred: moving between two fields fires focusout before focusin, and reacting to the
+  // gap makes the tab bar flash back up between them.
+  setTimeout(() => { kbFocus = isField(document.activeElement); paintKeyboard(); }, 0);
+});
+if (vv) {
+  vv.addEventListener("resize", paintKeyboard);
+  vv.addEventListener("scroll", paintKeyboard);
+}
+
+// SAMPLE PER FRAME WHILE THE KEYBOARD MOVES. iOS fires visualViewport `resize` once, at the end
+// of the animation — so --kb-h, and the back button that rides it, held still for the whole
+// ~250ms and then jumped. The properties update continuously even though the event does not, so
+// a short bounded burst on either side of a focus change makes the row move WITH the keys.
+// Bounded on purpose: it stops once the height is steady and gives up after 900ms.
+let kbBurst = 0, kbSteady = 0, kbLast = -1, kbUntil = 0;
+function kbFrame() {
+  paintKeyboard();
+  const h = kbHeight();
+  if (Math.abs(h - kbLast) < 0.5) kbSteady++; else { kbSteady = 0; kbLast = h; }
+  if (kbSteady >= 5 || Date.now() > kbUntil) { kbBurst = 0; return; }
+  kbBurst = requestAnimationFrame(kbFrame);
+}
+function kbTrack() {
+  if (!vv) return;
+  kbSteady = 0; kbLast = -1; kbUntil = Date.now() + 900;
+  if (!kbBurst) kbBurst = requestAnimationFrame(kbFrame);
+}
+addEventListener("focusin", (e) => { if (isField(e.target)) kbTrack(); }, true);
+addEventListener("focusout", (e) => { if (isField(e.target)) kbTrack(); }, true);
+
+paintKeyboard();
+
+// ── universal back button ─────────────────────────────────────────────────────────────
+const backBtn = $("backbtn");
+backBtn.addEventListener("click", () => router.back());
+
+// ── the trip's reference list ─────────────────────────────────────────────────────────
+// Its button mirrors the + on the left, on the screens that draw one (js/references.js, styles.css .rf-fab).
+mountReferences({ store });
+
+function paintBack() {
+  const show = router.canGoBack();
+  backBtn.hidden = !show;
+  document.body.dataset.back = show ? "1" : "0";
+  if (!show) return;
+  // The visible word stays "Back" — short, unambiguous, and a small target is the whole
+  // point. The destination goes in the accessible name, where it costs no width.
+  const prev = router.prev();
+  backBtn.setAttribute("aria-label", prev ? `Back to ${prev.title}` : "Back");
+}
+
+// The transient message is /js/toast.js: one node, one function, for every screen.
+// A write the server refuses is dropped from the queue so it cannot wedge everything behind
+// it. Dropping it silently would mean an edit made on the trail just quietly never happened.
+// Packing says what happened in its own words (a bag someone else still has things in, a list
+// removed on another phone); everything else gets the general line, which names the thing by
+// the words the person typed and gives the server's reason when it sent one.
+store.on("reject", (refusal) => {
+  const place = refusal && refusal.op && refusal.op.kind === "place"
+    ? placeRefusalWords(refusal, { name: (store.place(refusal.op.id) || {}).name }) : null;
+  toast(refusalWords(refusal) || place || refusalLine(refusal));
+  store.refresh();
+});
+
+// Changes made with no signal in the app as it was before, which this app does not carry over
+// as they were written (js/old-queue.js): said in one message that stays until it is tapped,
+// and again after a reload until it has been.
+const sayOldTold = (told) => toastHold(oldLines(told), { onLetGo: () => store.dismissOldTold() });
+store.on("told", sayOldTold);
+
+// Someone who has just joined by a link with only a name (js/guest.js): told once, in a message
+// that stays until it is tapped, that their place is on this phone alone and how to keep it.
+// Replaced by the lines above if both come at once; then it is said again on the next launch.
+// It names only the ways in this site has set up (/api/auth/config); without an answer, a passkey alone,
+// which every site has.
+// Only to someone who is still a guest: one who added a passkey before tapping it away is an
+// account now, and the note goes without a word.
+// Each question is given up at net.js's limit for a read: no answer is no signal.
+Promise.all([import("/js/guest.js"), import("/js/net.js")]).then(async ([{ guestLine, guestNoteDue, guestNoteSeen }, { within }]) => {
+  if (!guestNoteDue()) return;
+  let providers = {};
+  try {
+    const guest = await within("GET", async (signal) => {
+      const who = await fetch("/api/me", { credentials: "same-origin", cache: "no-store", signal });
+      return !who.ok || (await who.json()).guest === true;
+    });
+    if (!guest) { guestNoteSeen(); return; }
+    providers = await within("GET", async (signal) => {
+      const r = await fetch("/api/auth/config", { credentials: "same-origin", cache: "no-store", signal });
+      return r.ok ? (await r.json()).providers || {} : {};
+    });
+  } catch { /* no signal: a passkey alone */ }
+  toastHold([guestLine(providers)], { onLetGo: guestNoteSeen });
+}).catch((e) => console.warn("[shell] guest", e));
+
+// A new place the server took, a few metres from another of its kind: both stay, and the
+// person is told which, in case they are one place.
+store.on("place-near", ({ id, near, meters }) => {
+  toast(nearWords(store.place(id), store.place(near), meters));
+});
+
+// The server said this trip is gone: deleted, or this person is no longer on it. The phone
+// stops keeping it and goes to Your trips, which says so. See public/js/trip-gone.js.
+store.on("gone", async ({ trip }) => {
+  try {
+    const { leaveGoneTrip } = await import("/js/trip-gone.js");
+    await leaveGoneTrip(trip);
+  } catch (e) {
+    console.error("[shell] could not leave the trip", e);
+    location.replace("/trips?gone=1");
+  }
+});
+
+// ── tabs ──────────────────────────────────────────────────────────────────────────────
+// The bar is data now — see public/js/tabs.js. Two things follow from that and both are easy
+// to get wrong:
+//   - The <a> nodes are NOT captured once. paintBar() may replace all five, so anything
+//     holding a stale list would be lighting tabs that are no longer in the document.
+//   - A route reports a SECTION, not a bar slot. tabFor() maps it: that section's own tab if
+//     the person keeps it in the bar, otherwise Other, which is where they reached it from.
+const nav = document.querySelector(".tabbar");
+let lastRoute = null;
+
+// A section on the bar lights its tab; any other (More and what it holds) lights none, and your
+// picture shows as current instead.
+const more = document.querySelector("[data-head-more]");
+function paintTabs(route) {
+  lastRoute = route || lastRoute;
+  if (!lastRoute) return;
+  const lit = lightTab(nav, tabFor(lastRoute.tab));
+  if (lit < 0) more.setAttribute("aria-current", "page");
+  else more.removeAttribute("aria-current");
+  // The wide rail's own rows (Changes, Packing, Settings) light as a tab does.
+  for (const row of nav.querySelectorAll("[data-rail-row]")) {
+    if (lit < 0 && row.dataset.railRow === lastRoute.tab) row.setAttribute("aria-current", "page");
+    else row.removeAttribute("aria-current");
+  }
+}
+// Your picture: your initials until you draw one.
+function paintMore() {
+  const me = store.me && store.me();
+  const mine = me && me.id && store.members ? (store.members().find((m) => m && m.id === me.id) || null) : null;
+  const name = (me && me.name) || "";
+  const words = name.trim().split(/\s+/).filter(Boolean);
+  const two = words.length > 1 ? words[0][0] + words[1][0] : (words[0] || "").slice(0, 2);
+  const initials = (store.myInitials && store.myInitials()) || (mine && mine.initials) || (me && me.initials) || two.toUpperCase();
+  more.querySelector("[data-head-more-initials]").textContent = initials;
+  // You at the foot of the wide rail, and the trip at its top.
+  nav.querySelector("[data-rail-you-initials]").textContent = initials;
+  // The picture you drew in place of your initials (js/pictures.js), loaded only once you have one.
+  const yours = (mine && mine.avatar) || (me && me.avatar) || "";
+  const faces = [more.querySelector(".ds-face"), nav.querySelector("[data-rail-you] .ds-face")];
+  import("/ds/avatar.js").then(({ personTone, personVars }) => {
+    const color = (store.myNoteColor && store.myNoteColor())
+      || (store.me && store.me()?.note_color)
+      || "";
+    const tone = personTone(color);
+    const vars = tone ? personVars(tone) : "";
+    for (const f of faces) {
+      if (!f) continue;
+      if (tone) { f.setAttribute("data-person", tone); f.setAttribute("style", vars); }
+      else { f.removeAttribute("data-person"); f.removeAttribute("style"); }
+    }
+  }, () => {});
+  if (yours || faces.some((f) => f && f.dataset.pic)) {
+    import("/js/pictures.js").then(({ pictureInto }) => { for (const f of faces) pictureInto(f, yours); }, () => {});
+  }
+  nav.querySelector("[data-rail-you-name]").textContent = name;
+  nav.querySelector("[data-rail-people]").setAttribute("href", `/trips/${encodeURIComponent(store.tripId())}`);
+  const trip = store.trip && store.trip();
+  nav.querySelector("[data-rail-trip-name]").textContent = (trip && trip.name) || "";
+  // Its dates as days ("Jun 1 – 12"): plain dates with no zone, so read as UTC and never moved by one.
+  let dates = "";
+  if (trip && trip.starts_on && trip.ends_on) {
+    const at = (day) => new Date(`${day}T00:00:00Z`);
+    const fmt = new Intl.DateTimeFormat(undefined, { day: "numeric", month: "short", timeZone: "UTC" });
+    try { dates = fmt.formatRange(at(trip.starts_on), at(trip.ends_on)); } catch { dates = ""; }
+  }
+  nav.querySelector("[data-rail-trip-dates]").textContent = dates;
+  labelOther();
+}
+
+// Redraw the bar when the layout changes, and re-light afterwards because the node that was
+// carrying aria-current may no longer exist. Cheap on the common path: paintBar() returns
+// false without touching the DOM when the stored layout already matches the markup.
+function paintBarAndTabs() {
+  if (paintBar(nav)) paintTabs(null);
+}
+
+// ── boot ──────────────────────────────────────────────────────────────────────────────
+try {
+  await store.ready();
+} catch (e) {
+  // Never let a data-layer failure leave four people staring at a skeleton. The router
+  // mounts regardless; views render whatever the store has, which may be nothing.
+  console.error("[shell] store.ready failed", e);
+}
+// Said on an earlier load and not tapped away yet.
+if (store.oldTold().length) sayOldTold(store.oldTold());
+
+paintStatus();
+store.on("status", paintStatus);
+
+// The bar, once the store has whatever layout this person chose. Before ready() the markup's
+// default is already on screen and correct for everybody who has never opened the setting —
+// which is why this runs AFTER the boot above rather than racing it.
+paintBarAndTabs();
+// And again whenever the layout moves: the person edits it in Other, or another device's
+// change arrives on a snapshot. store.on("change") is coarse — it fires for a packing tick
+// too — but paintBar() compares the layout against the DOM and does nothing when they agree,
+// so the cost of the coarseness is one array comparison.
+store.on("change", paintBarAndTabs);
+
+// The bar leaves on the way down a page and is back on the way up (tabs.js, duckOnScroll).
+const duck = duckOnScroll(view, nav);
+paintMore();
+store.on("change", paintMore);
+// On a phone, a screen that has moved onto the design system has a head with an end (.ds-head-end): your
+// picture goes there, beside the screen's own controls. A screen that hasn't moved yet has it fixed at the
+// top right, with room kept in its head (styles.css). Beside the page (the rail), it stands at the rail's foot.
+{
+  const home = more.parentNode, next = more.nextSibling, railMq = matchMedia(RAIL);
+  let queued = false;
+  const placeMore = () => {
+    queued = false;
+    const end = railMq.matches ? null : view.querySelector(".ds-head-end");
+    if (end) { if (more.parentNode !== end) end.append(more); }
+    else if (more.parentNode !== home) home.insertBefore(more, next);
+  };
+  const soon = () => { if (!queued) { queued = true; requestAnimationFrame(placeMore); } };
+  new MutationObserver(soon).observe(view, { childList: true, subtree: true });
+  railMq.addEventListener("change", placeMore);
+  placeMore();
+}
+// The logo at the top of the rail: the wordmark where the rail is wide (1024 and up), the W and its hikers where it
+// is narrow; nothing on a phone. Put in the page rather than as an <img>, so it takes the page's logo colours. Only
+// the one that shows is in the page (the two files share ids).
+{
+  const brand = nav.querySelector("[data-rail-brand]"), railMq = matchMedia(RAIL), wideMq = matchMedia("(min-width: 1024px)");
+  const drawn = new Map();
+  let want = "";
+  const paintBrand = async () => {
+    const url = !railMq.matches ? "" : wideMq.matches ? "/img/wordmark.svg" : "/img/mark.svg";
+    want = url;
+    if (!url) { brand.replaceChildren(); brand.removeAttribute("data-is"); return; }
+    if (!drawn.has(url)) {
+      try { const t = await (await fetch(url)).text(); drawn.set(url, t.startsWith("<svg") ? t : ""); }
+      catch { return; }
+    }
+    if (want !== url) return;
+    brand.innerHTML = drawn.get(url);
+    brand.setAttribute("data-is", url.endsWith("wordmark.svg") ? "word" : "mark");
+  };
+  railMq.addEventListener("change", paintBrand);
+  wideMq.addEventListener("change", paintBrand);
+  paintBrand();
+}
+// A picture someone drew, wherever a screen, a sheet or the photo viewer puts its empty holder (js/pictures.js
+// pictureHolder): filled once it is in the page. Nothing is loaded until a holder appears, so a trip where nobody
+// draws asks for nothing.
+{
+  let queued = false;
+  const wake = () => {
+    queued = false;
+    if (!document.querySelector(".ds-face-pic[data-face-hash]:not([data-loading])")) return;
+    import("/js/pictures.js").then(({ wakePictures }) => wakePictures(document), () => {});
+  };
+  new MutationObserver(() => { if (!queued) { queued = true; requestAnimationFrame(wake); } })
+    .observe(document.body, { childList: true, subtree: true });
+}
+// From 768 the bar is read first, as it is seen (tabs.js).
+barInReadingOrder(view, nav);
+router.onNavigate((route) => { paintTabs(route); placeMoreFor(route); paintBack(); duck.route(route); });
+start(view);
+
+// The trip's pictures kept on this phone for the days with no signal (pictures-offline.js): loaded
+// after the first screen, so it never delays it.
+setTimeout(() => {
+  import("/js/pictures-offline.js").then(({ keepPicturesOffline }) => keepPicturesOffline(store))
+    .catch((e) => console.warn("[shell] pictures offline", e));
+}, 2000);
+
+// ── the trip's map, kept without the map being opened ─────────────────────────────────
+// Everything a trip needs with no signal is on the phone after its first open with signal,
+// and nobody is asked to press anything for it. The plans, places and purchases came with
+// the snapshot above. The map comes here: once this visit has heard from the server (so what
+// the trip says about its map is today's), and the page has a quiet moment, js/map-keep.js
+// fetches the trip's archive and the glyph ranges its labels use, and keeps them. The map
+// screen need never be opened. It is asked again when the trip's map changes (a new cut
+// arrives on a snapshot), and after a try that failed, when the store next has news.
+//
+// After start(), and in idle time: the first screen is drawn and the trip's own requests are
+// done before a byte of the map is asked for. The module is import()ed here for the same
+// reason; a phone that already keeps this map makes one cache lookup and no request.
+//
+// What a person reads of it: one passing line when a map starts coming down, once for each
+// map, and a line when the phone is too short of room to keep it (the trip is kept; the map
+// screen says the same until it is put away). Nothing to press.
+{
+  // When this page began: a sync that answered at any moment of this visit counts, also one
+  // that came back before this line ran.
+  const openedAt = performance.timeOrigin;
+  const trip = tripIdFromPath(location.pathname);
+  let askedFor = null;              // the map (its version) a keep was last asked for
+  let keeper = null;                // js/map-keep.js, once it is needed
+  const whenQuiet = (fn) => (window.requestIdleCallback ? requestIdleCallback(fn, { timeout: 4000 }) : setTimeout(fn, 1200));
+  const heard = (came) => {
+    if (came.tripId !== trip) return;
+    const mine = keeper.said(trip);
+    if (came.archive === "fetching") {
+      if (mine.told !== came.version) { keeper.say(trip, { told: came.version }); toast(keeper.KEEPING_WORDS); }
+    } else if (came.archive === "no-room") {
+      if (mine.roomTold !== came.version) { keeper.say(trip, { roomTold: came.version }); toast(keeper.roomWords(came.bytes)); }
+    } else if (came.archive === "failed" || came.archive === "moved" || (came.glyphs && came.glyphs.owed)) {
+      askedFor = null;              // asked again when the store next has news (twice a visit for one map)
+    }
+  };
+  const keepTheMap = () => {
+    const s = store.status(), t = store.tiles();
+    if (!s.online || s.lastSync < openedAt || !t || typeof t !== "object") return;
+    const version = String(t.version ?? "");
+    if (askedFor === version) return;
+    askedFor = version;
+    whenQuiet(async () => {
+      try {
+        if (!keeper) { keeper = await import("/js/map-keep.js"); keeper.onKeep(heard); }
+        const came = await keeper.keepMap({ tripId: trip, tiles: () => store.tiles() });
+        // Nothing was tried (the signal went in the meantime): not asked, so ask again.
+        if (came.archive === "none" && keeper.mapStateOf(store.tiles()).ready) askedFor = null;
+      } catch (e) { askedFor = null; console.warn("[shell] the trip's map could not be kept", e); }
+    });
+  };
+  store.on("status", keepTheMap);
+  store.on("change", keepTheMap);
+  keepTheMap();
+}
+
+// A picture made without signal (a receipt, a photo) goes when there is signal, whatever screen is
+// open (picture-wait.js). Its module is loaded only when this trip has pictures waiting on this
+// phone, where the browser can say (opening the database here would make it without its store).
+(async () => {
+  try {
+    if (indexedDB.databases) {
+      const name = `wegoplace-picture-wait:${store.tripId()}`;
+      if (!(await indexedDB.databases()).some((d) => d.name === name)) return;
+    }
+    (await import("/js/picture-wait.js")).start(store);
+  } catch (e) { console.warn("[shell] pictures waiting", e); }
+})();
+</script>
+</body>
+</html>

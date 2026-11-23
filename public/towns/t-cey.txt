@@ -1,0 +1,11 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ceyhan|TR||94|2uu|2ri|qr
+Ceylanpınar|TR||94|2ud|339|8r|Cylanpinar
+Ceyu|CN||7i|2wz|8sx|3o
+Çey|TR||5z|2vi|3ec|3m|Chay;Chêy;Gundê Çê;Çay Köyü;Çîyayî;Gundê Çîyê;Dağlık;Che;Chai
+Jeyranbatan|AZ||61|34m|3ty|2o|Ceyranbatan
+Ceyrat|FR||9k|3j1|8i|1n|Ceirac;Ceirat
+Ceyreste|FR||9k|3c1|fn|12|Ceiresta
+Ceyzériat|FR||9k|3ka|es|q
+Ceyzérieu|FR||9k|3jc|fx|9
+Jamestown|SH||89|-188|-fw|6|Ceymstaun;Ĵamestaŭno;Iacobopolis;Džeimstaunas;Džeimstauna

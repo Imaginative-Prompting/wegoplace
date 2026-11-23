@@ -1,0 +1,23 @@
+node_modules/
+.wrangler/
+.dev.vars
+*.pmtiles
+public/tiles/
+.night/
+
+
+# harness screenshot/tile output — regenerate by re-running scripts/
+build/
+
+# production database dumps hold people's data — never committed
+archive/*-prod-backup/
+.DS_Store
+__pycache__/
+
+art/out/
+
+# A production deploy's config (the real ids), kept outside the tree and copied to the deploy checkout's root
+# for `wrangler deploy -c wrangler.production.jsonc` (wrangler resolves main and assets from the config's folder).
+wrangler.production.jsonc
+# A clone's own notes for its agent, never in the tree.
+CLAUDE.local.md

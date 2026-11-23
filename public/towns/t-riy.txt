@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Riyadh|SA||7e|1wl|3ls|wgc|Riad;Al-Riyad;Rijád;Ar-Riyāḑ;Riyad;Rijadas;Riade;Riadi;Rijāda;Ar-Riyod;Riaad;Rihad;Riadum;Riado;Ar-Riaad;Er-riyad
+Riyāḑ al Khabrā’|SA||7e|20f|3cz|74
+Reyeh|IR||7o|2qk|3y4|f|Rīyeh
+Riisipere|EE||9x|4k7|1vj|b|Risipere;Riyzipere;Rizipere

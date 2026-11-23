@@ -1,0 +1,872 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Shijiazhuang|CN||7i|2xo|8u0|18fk|Thạch Gia Trang;Š’-ťia-čuang;Šidziadžuangas;Ŝiĝjaĝŭango;Siŏh-gă-cŏng;Sicsiacsuang;Šidzjadžuana;Swzgyahcuengh;Chio̍h-ka-chng-chhī;Šidžjadžuang;Shicziyajuan;Şiciyajuang;Shihjiazhuang
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Chicago|US||2f|389|-6rh|kk5|Ĉikago;Sicagum;Čikaga;Şikago;Chicagu;Chikago;Kikako;Tsikago;Çikaqo;Chi-kâ-kô;Čėkaga;Shikago
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Jiangyin|CN||7i|2gn|9a2|dqb|Kiang Ying;Kiangyin;Chiang-yin
+Qingyuan|CN|Guangdong|7i|1tu|8pz|dew|Chĭng-uōng;Čching-jüan;Chhîn-yén-sṳ;Thanh Viễn;Chheng-oán-chhī;Tsingyüan;Ch’ing-yüan
+Pimpri-Chinchwad|IN||6t|1fq|5p0|dbx|Pimpri Chinchwad;Pimpri-Ĉinĉvad;Pimpris-Činčvadas;Pimpri-Csincsvád
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Jinjiang|CN|Fujian|7i|1wy|95d|axe|Tấn Giang;Chìn-kang-chhī;Céng-gŏng;Tsìn-kông-sṳ
+Qinzhou|CN||7i|1p2|8dt|a03|Ginhcouh;Kĭng-ciŭ;Čchin-čou;Khîm-chû-sṳ;Khâm Châu;Khim-chiu-chhī;Ch’in-chou
+Shiraz|IR|Fars|7o|2a9|41x|9n7|Chiraz;Sjiraz;Şiraz;Xiraz;Ŝirazo;Širazas;Šīrāza;Sziraz;Schiras;Chimaz
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Jiujiang|CN||7i|2ai|8y8|8zf|Ciuciang;Ťiou-ťiang;Cửu Giang;Chiu-chiang;Kiukiang
+Chiba|JP||7q|2qw|at8|7k6|Čiba;Tiba
+Zhenjiang|CN||7i|2hh|97u|7c1|Chinkiang;Chenkiang;Chinking;Chinkiang Fu
+Chihuahua|MX|Chihuahua|2g|27k|-86p|756|Čihuahua;Čiuaua;Ĉihuahuo;Chivava;Çivava
+Jiaozuo|CN||7i|2pw|8qk|6oe|Ťiao-cuo;Ĝjaoĝuo;Tiêu Tác;Ciĕu-cáuk;Chiau-chok-chhī
+Zhaotong|CN||7i|23w|804|62u|Čao-tchung;Chiêu Thông;Ciĕu-tŭng;Chiau-thong-chhī;Chao-t’ung
+Qinhuangdao|CN||7i|32y|987|5v1|Chinxuangdaw shehiri;Tần Hoàng Đảo;Činhuangdao;Cjiņhuandao;Čchin-chuang-tao;Ĉinhŭangdaŭo;Cìng-huòng-dō̤;Chîn-hông-tó-chhī;Ch’in-huang-tao
+Chisinau|MD||8x|3ml|286|4wo|Kiŝinevo;Kiszyniów;Kišinjev;Kišiněv;Kisinyov;Kishinev;Kišiniovas;Kišiņeva;Kišiňov;Kischinew;Kishinef;Kishiniv;Kiscinev
+Tshikapa|CD||y|-hu|1ls|4w9|Chikapa
+Jingmen|CN||7i|2e7|8no|4vu|Gĭng-muòng;Ťing-men;Kinh Môn;Keng-bûn-chhī;Ching-men;King mönn;Kingmen
+Chizhou|CN||7i|2d6|92c|4qx|Ch’ih-chou
+Chiclayo|PE||3o|-it|-65t|4pa|Chiclaium;Čiklajus;Chiklayu
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Cimahi|ID||6l|-j3|8aq|4ho|Chimahi
+Zhoukou|CN||7i|2ld|8uh|3wc|Tsjoukou;Čou-kchou;Juko shehiri;Chu Khẩu;Ciŭ-kāu;Chiu-kháu-chhī;Chou-k’ou
+Jincheng|CN||7i|2qm|8pf|3oh|Tấn Thành;Céng-siàng;Chin-ch’eng;Tsincheng
+Cilegon|ID||6l|-gp|86l|3mo|Chilegon;Tjilegon;Tlilegon
+Jiuquan|CN||7i|32e|7lo|3az|Tửu Tuyền;Ciū-ciòng;Ťiou-čchüan;Chiú-choân-chhī
+Chimoio|MZ||11|-1h4|2l0|398|Šimojas;Chimoyo
+Zhijiang|CN||7i|2ci|8mf|35h|Chikiang
+Chitungwiza|ZW||n|-1e1|2ec|2v4|Čitungviza
+Cibinong|ID||6l|-i0|88t|2sy|Tjibinong;Chibinong;Chibinung
+Keelung|TW||7l|1xt|9e6|2sp|Chilung;Cơ Long;Kî-lùng-sṳ;Giĕ-lè̤ng;Ťi-lung;Ke-lâng-chhī;Chi-lung
+Chita|RU||67|40k|8r9|2oy|Tsjita;Tšita;Çita
+Chifeng|CN||7i|39f|96g|2ob|Tschiföng;Xích Phong;Chiáh-hŭng;Čch’-feng;Chhak-fûng-sṳ;Chhek-hong-chhī;Ch’ih-feng
+Chipata|ZM||z|-11v|2ip|2iv|Čipata
+Chiniot|PK||6q|2g4|5mq|2ge|Chinot;Chaniot
+Chimbote|PE||3o|-p8|-62b|2g2|Chimputi;Čimbotė;Ĉimboto
+Chinju|KR||7h|2pr|9vs|2dc|Jinju
+Gijón|ES||9d|3cy|-fq|23i|Xixón;Ĥiĥono;Kixoi;Gigia;Chichonas
+Chiayi City|TW||7l|1t8|9al|214|Jiayi Shi;Jiayi Shih
+Chilanzar|UZ||7m|36o|5c6|20f
+Cilacap|ID||6l|-lh|8et|1ze|Chilachap
+Chingola|ZM||z|-yt|25g|1za|Čingola
+Chitato|AO||x|-ka|1ll|1wl
+Chigasaki|JP||7q|2q6|ar8|1vg|Čigasakis;Tigasaki-chhī;Chigaraki
+Khimki|RU||9i|4ba|2vz|1uo|Chimki;Himki;Jimki;Ximki;Chimkai
+Kismayo|SO||14|-10|3a7|1t9|Kismaayo;Kismayu;Chisimayu;Chisimaio;Kismaanyo;Kismānyó;Kisimayu;Kisimayo
+Changhua|TW||7l|1uv|9av|1qy|Pasua;Chiang-hòa
+Chí Linh|VN||6h|1mj|87c|1p8
+Chilpancingo|MX||41|1cr|-7oe|1g1
+Chhindwāra|IN||6t|1pa|63a|1cn|Chindwara
+Cianjur|ID||6l|-iy|89m|1ci|Chianjur
+Chicoloapan de Juárez|MX||41|1hy|-7mq|1c1|San Vicente Chicoloapan;San Vicente Chiloloapan
+Chirchiq|UZ||7m|377|5da|198|Tchirtchik;Čirčikas;Circik;Çirçig;Tjirtjik;Chirchik;Tschirtschik
+Chittoor|IN||6t|10p|63q|18n|Chittur;Chittūru;Chittor
+Zhicheng|CN|Hubei|7i|2c6|8lq|18a|Chihkiang;Chih-chiang;Chih-ch’eng;Chi-Kiang
+Chincha Alta|PE||3o|-119|-5vh|16j|Činča Alta;Hanan Chincha;Chincha
+Chillán|CL||4u|-2tp|-5ka|15s|Çillan
+Chishtian|PK||6q|2as|5me|15n|Ĉiŝtian;Chistian
+Chitradurga|IN||6t|13i|5w8|14j|Chitradurg
+Chichicastenango|GT||32|15i|-713|13c
+Cheras|MY||6v|8n|7ul|11q|Ziu Laai;Chiau-nāi;Tsiâu-lai
+Jiawang|CN||7i|2nn|928|117|Chia-wang
+Chiang Mai|TH||62|1g7|7my|zc|Cziang Maj;Chiangmai;Çian May;Kiangmai;Chiengmai
+Cikampek|ID||6l|-hu|8ai|zc|Chikampek;Tjikampek
+Chinandega|NI||3s|z3|-6q1|z4
+Chía|CO||27|di|-5pq|yj
+Chikmagalūr|IN||6t|110|5uh|xr|Chikkamagalūru;Chikmanglur;Chikmugalūr;Chickmagalur
+Chico|US|California|3p|32d|-9eg|xp
+Chittorgarh|IN||6t|1x5|5ra|wc|Chittaurgarh;Csitorgarh;Ĉitorgar;Chitorgarh
+Xiva|UZ||7g|36z|4no|vy|Chiwa;Khiva;Ĥiva;Hiiva;Chiva;Jiva;Khiwa
+Qiaotou|CN|Qinghai|7i|2um|7uf|vv|Ch’iao-t’ou
+Chililabombwe|ZM||z|-yc|25a|vn|Chiliabombwe;Chilabombwe
+Chichawatni|PK||6q|2ct|5lx|v6
+Chiquimula|GT||32|154|-6wr|uz
+Ciamis|ID||6l|-kd|8cz|ui|Chiamis
+Cikarang|ID||6l|-he|89n|tl|Chikarang;Tjikarang
+Chinautla|GT||32|14u|-6ze|t6|Chignautla
+Chikushino-shi|JP||7q|2l2|a2k|sp
+Chilliwack|CA||5b|3sl|-9er|s7
+Chilakalūrupet|IN||6t|18p|66p|s6
+Chirmiri|IN||6t|1sf|6cr|s0
+Chikusei|JP||7q|2sw|asu|s0|Tikusei-chhī
+Chinatown|US|California|3p|2x0|-9g1|ry
+Chitose|JP||7q|3ay|axh|r8|Çitose;Titose-chhī
+Chimaltenango|GT||32|14q|-70a|qy
+Chīrāla|IN||6t|17y|677|pt
+Chinhoyi|ZW||n|-1c9|2bw|p8|Činhojis;Chinoyi
+Chinatown|US|New York|48|354|-5pk|p0
+Jiangshan|CN||7i|2tw|9at|o2|Chiang-shan
+Chigorodó|CO||27|lb|-5x0|ny
+Chino|US||3p|2mh|-92x|ns|Čino Hilsas;Čino;Haltso
+Chiguayante|CL||4u|-2ul|-5mv|nj
+Chita|JP||7q|2p8|ak6|ng|Ĉita;Tita-chhī
+Chiclana de la Frontera|ES||9d|2t6|-h2|na|Chiclana
+Chilla Soroda Bāngar|IN||6t|27g|5yq|n4
+Chiang Rai|TH||62|1jb|7pb|lw|Cziang Raj;Čiangrajus;Çian Ray;Chang Rai;Chiengrai
+Chino Hills|US||3p|2mf|-934|lr
+Chintamani|IN||6t|118|60t|l5
+Chimbas|AR||1t|-2fh|-5ad|ki|Çimbas
+Chibuto|MZ||11|-1wl|2l5|ke
+Chilca|PE|Junin|3o|-xl|-5sx|ke
+Chiryū|JP||7q|2p8|akn|k2|Csirjú;Tsiryu;Tiryū-chhī
+Chingford|GB||9b|3zf|0|jm
+Chivacoa|VE||2c|s8|-5bd|jj
+Ciro|ET||2|lr|2y7|je|Chiro
+Chicoutimi|CA||59|3qi|-5he|j6|Šikutimis
+Chinchiná|CO||27|du|-5u0|j1
+Jiang’an|CN||7i|27t|83v|iu|Kiangan;Chiang-an
+Chiyoda|JP||7q|2r4|as7|ij
+Chivilcoy|AR||1l|-2oy|-4mq|i8|Chivilkoy;Çivilkoy
+Chinnachowk|IN||6t|148|630|ht|Chinna Chowk
+Chik Ballāpur|IN||6t|11c|5zx|hp
+Qingshuping|CN||7i|242|8n6|hg|Tsingshuping;Ch’ing-shu-p’ing
+Chistopol’|RU||9i|49t|3wo|ha|Tsjistopol;Tšistopol;Çistay
+Chidambaram|IN||6t|vo|65d|ha|Ćidambaram;Chitdambaram
+Chichibu|JP||7q|2rz|aqc|h0|Čičibu;Tsitsibu;Titibu-chhī;Titibu
+Chinch'ŏn|KR||7h|2ue|9u0|gy|Chinchon
+Chicacao|GT||32|14e|-71p|gv
+Jiangkou|CN|Fujian|7i|1yt|974|gn|Chiang-k’ou;Kiang-k’ou;Kiangkow
+Chikuma|JP||7q|2th|anl|gi|Tikuma-chhī
+Chikhli|IN|Maharashtra|6t|1kj|5vu|g3
+Pianura|IT||9o|35i|13d|g2|Chianura
+Chitral|PK||6q|2rl|5jf|fw|Chetrar;Čitral;Czitral
+Chicopee|US||48|393|-5lp|fr
+Chino|JP||7q|2rz|anr|fo|Ĉino;Tino-chhī
+Shibirghān|AF||6o|2tv|52n|fg|Şibircân;Shoburgon;Shibirgán;Chibirchan;Schibirgan;Shibarghān;Shibergan;Sheberghān
+Chicago Lawn|US||2f|382|-6rm|fg
+Chiplūn|IN||6t|1cp|5o7|fb
+Chilanga Township|ZM||z|-179|26j|f0
+Chenārān|IR||7o|2tt|4k8|ez|Chanārān;Chinārān
+Chystyakove|UA||98|3pg|2z8|ev|Chistyakovo;Tschistjakowo;Tores;Torezas;Thorez;Toreza;Sloboda Alekseevka;Tschistjakowa;Torez;Chystiakove
+Chinú|CO||27|pb|-5tg|e3
+Chilmāri|BD||6a|1z0|6x3|dt|Chillmari
+Ch’iko|ET||2|ia|2yh|dr|Chuko
+Chikugo|JP||7q|2k9|a2h|dk
+Chioggia|IT||9o|3hm|y4|d2|Cióxa
+Chirakkal|IN||6t|x3|5tc|co
+Chirkunda|IN||6t|1tz|6p3|cn
+Chittaranjan|IN||6t|1ua|6pe|cl
+Chiquinquirá|CO||27|fm|-5p2|cl
+Chiapa de Corzo|MX||41|1af|-76d|cj|Čiapa de Korsas;Chiyapan Corzo;Chiapa de Corza
+Chieti|IT||9o|39n|13c|cc|Teate;Chieta
+Jiushan|CN||7i|2sk|953|cc|Chiu-shan
+Chidawa|IN||6t|26g|5u4|c8|Chirāwa
+Chinnamanūr|IN||6t|rc|5yy|br|Chinnammanur
+Chilecito|AR||1p|-290|-57i|bq|Čilesitas;Chilesito;Çilesito
+Chepén|PE||3o|-k2|-64m|bo|Chipin
+Kikinda|RS||8q|3jb|1kv|bn|Chichinda Mare
+Chisankane|ZM||z|-170|26r|be
+Chiaia|IT||9o|35f|13j|bb
+Paris 06 Luxembourg|FR||9k|3rp|6h|b8|St. Sulpice;Saint-Sulpice;Chiesa di Saint Sulpice;Paris 06;VI Saint-Sulpice
+Chiredzi|ZW||n|-1mh|2fz|b5
+Chīka|IN||6t|2bh|5w2|au
+Chinsali|ZM||z|-ta|2h4|as|Çinsali;Chinsala
+Jiachuan|CN|Sichuan|7i|2hh|871|ao|Chia-ch’uan
+Chikodi|IN||6t|19n|5r7|an
+Chiúre|MZ||11|-116|32i|aj
+Jincheng|TW||7l|1vv|94o|af|Chin-ch’eng
+Chieri|IT||9o|3h1|lq|a7|Cher;Carrea Potentia;Quiers
+Chippenham|GB|England|9b|3yy|-5w|9y|Cippanhamm;Čipenhamas
+Chirundu|ZM||z|-18k|284|9u
+Chipinge|ZW||n|-1k3|2im|9q|Chipinga
+Chiswick|GB||9b|3z1|-q|9j
+Chilibre|PA||4g|pf|-656|9b
+Chillum|US||48|308|-5xv|9b
+Chimbarongo|CL||4u|-2of|-5hc|9a
+Chicago Loop|US||2f|38c|-6rf|9a|Loop;The Loop
+Chichigalpa|NI||3s|yx|-6pr|97
+Chittūr|IN||6t|tq|5x7|8z
+Chindumbo|AO||x|-x7|147|8w
+Chichester|GB||9b|3x8|-26|8t|Cicestria;Čičesteris
+Chilliwack-Downtown|CA||5b|3sk|-9es|8q
+Chītāpur|IN||6t|1bk|5y4|8p
+Chilapa de Álvarez|MX||41|1cv|-7ni|8o
+Chichaoua|MA||d|2fm|-oc|8g|Chichaua
+Chimichagua|CO||27|pq|-5p1|8f|Chimicragua
+Chicago Heights|US||2f|37b|-6rg|8f
+Waegwan|KR||7h|2rz|9wo|89|Chilgok
+Shelek|KZ||5s|3d4|61e|82|Schelek;Chilik;Chiliksk
+Chinatown|IT||9o|3ic|pi|82
+Chillán Viejo|CL||4u|-2tq|-5kd|7z
+Chiriguaná|CO||27|q0|-5og|7i
+Chinguar|AO||x|-yw|19e|7g|Xinguar;Chingwari
+Chiavari|IT||9o|3f4|pw|7e|Ciävai
+Chinnalapatti|IN||6t|sk|60g|7b
+Chīpurupalle|IN||6t|1ev|6g5|77
+Chinahsen|ET||2|qf|3ad|72|Chinhausen;China-Khasen;Ch’īna Hasen
+Chitaguppa|IN||6t|1d6|5yi|71|Chitgoppa
+Chinna Salem|IN||6t|wb|633|6z|Chinnasalem
+Chitembo|AO||x|-11n|1a7|6y
+Chimala|TZ||h|-om|2mi|6w
+Chilaw|LK||68|l2|65o|6v|Čilavas;Čilava;Chillaw;Chilan
+Chiknāyakanhalli|IN||6t|11a|5wu|6r
+Chinatown|CA|British Columbia|5b|3sw|-9hz|6o
+Chinobod|UZ||7m|35k|5jx|6o|Chinabad;Tschinabad
+Chios|GR||8p|2yl|20m|6o|Scio;Sakız;Chóra;Quíos;el Xiu;Khíos;Kástro;Hios;Chio;Xíos;Khóra;Kastron;Castro
+Chinoz|UZ||7m|35q|5b0|6l|Chinaz;Çinaz
+Chinnūr|IN||6t|1ge|65o|6k
+Chiaiano|IT||9o|35k|13h|6i
+Chitrakoot Dham|IN||6t|1y1|68s|6h
+Chiffa|DZ||3|2ta|7m|6g
+Chivasso|IT||9o|3hj|lx|6e|Clavassium;Civass
+Chitarpur|IN||6t|1th|6lx|6c
+Chiềng Cơi|VN||62|1n6|80m|6a
+Chieti Scalo|IT||9o|39o|13a|69
+Chishmy|RU||7z|47n|49u|64|Tsjisjmy
+Chiconcuac|MX|México|41|1ic|-7mq|61
+Chillicothe|US|Ohio|48|319|-6ei|61|Chilicothe;Chillakothe;Chilicotha;Chilecothe
+Shimanovsk|RU||7x|40g|9uo|5z|Sjimanovsk;Schimanowsk;Chimanovsk;Šimanovsk;Ximanovsk
+Chincholi|IN||6t|1cj|5z2|5t
+Chek Chue|HK||6i|1pq|8t9|5r|Stanley;Chik Chu
+Chillupār|IN||6t|210|6fz|5p|Barhalganj
+Chinnavādampatti|IN||6t|uq|5xu|5l
+Chitipa|MW||9|-qy|2kf|5k
+Chinna Āndānkovil|IN||6t|uf|60v|5i
+Chignahuapan|MX||41|1j4|-7kb|5g
+Kiliya|UA||98|3i8|29a|5f|Kilia;Kiliïa;Kilija;Chilia-Nouă;Kili
+Chipiona|ES||9d|2u2|-hw|5e|Chipiana
+Chiroqchi|UZ||7g|30f|54x|5e|Chirakchi
+Chilly-Mazarin|FR||9k|3rb|6g|59
+Chicholi|IN|Maharashtra|6t|1nn|65e|59
+Chigiri|RU||7x|3vu|9u7|55
+FELDA Chini|MY||6v|9d|7xy|55|Chini
+Chicholi|IN|Maharashtra|6t|1n3|63s|55
+Chivolo|CO||27|rv|-5ra|52|Chibolo;Chivoto
+Chichén-Itzá|MX||3z|1lf|-6u1|50|Chichen Itza
+Kishaba|JP||7q|212|9uz|50|Chishaba
+Chinde|MZ||11|-1fm|2ta|4w
+Chiquinquirá|VE||2c|t0|-5j1|4t
+Chisasa|ZM||z|-xn|1yu|4s
+Chisec|GT||32|17x|-6yt|4q
+Chicureo|CL||4u|-2kg|-5g9|4l|Chicu
+Chickasha|US||2f|2pd|-7k2|4l
+Cerveteri|IT||9o|38n|xl|4f|Chisra;Caere;Care;Agylla;Cisra;Cerveleri
+Chislehurst|GB||9b|3yu|7|4c
+Chiari|IT||9o|3ii|rl|4b|Clarium
+Chimbel|IN||6t|171|5p7|49
+Chiengi|ZM||z|-o2|290|48|Chienge;Chienji
+Chirpan|BG||9v|398|1yd|47|Čirpan
+Chingoli|IN||6t|pp|5wd|46
+Chicama|PE||3o|-ls|-63v|45
+Chicoral|CO||27|bq|-5sa|43
+Chiang Khong|TH||62|1ka|7qw|41|Chieng Kong
+Chik Bānavar|IN||6t|10c|5za|40
+Chicago Ridge|US||2f|37u|-6ru|40
+Chinchani|IN||6t|1j7|5lx|40|Chinchni
+Chiva|ES||9d|31n|-20|3y|Xiva de Bunyol
+Chirgaon|IN||6t|1z1|62x|3x
+Chiang Kham|TH||62|1i8|7qm|3x|Chieng Kam
+Chippewa Falls|US||2f|3gu|-71v|3w
+Chinkuli|ZM||z|-16i|26y|3w
+Chityāl|IN||6t|1bv|63t|3u
+Chilongolo|ZM||z|-171|268|3t
+Childwall|GB||9b|44c|-82|3s
+Chittayankottai|IN||6t|sj|607|3s
+Chimá|CO|Córdoba|27|pf|-5u3|3r
+Chiaravalle|IT|The Marches|9o|3d4|111|3r
+Chiang Klang|TH||62|1hl|7s6|3o
+Chivhu|ZW||n|-1gu|2dt|3m
+Chilca|PE|Lima region|3o|-ys|-5x6|3l
+Chilwell|GB||9b|42z|-3g|3l
+Chiquimulilla|GT||32|134|-6z3|3k
+Chitila|RO||8u|3fn|206|3k|Chitil
+Chīras|AF||6o|2qe|53a|3k|Cīras
+Chiungutwa|TZ||h|-u8|30a|3k
+Shimen|TW||7l|1y9|9dp|3i|Sa̍k-mùn-khî;Šimenas;Thạch Môn;Chio̍h-mn̂g-khu;Shihmen;Shih-men
+Chichiriviche|VE||2c|ud|-59n|3h
+Cimişlia|MD||8x|3l9|27w|3h|Chimishliya
+Chinnasekkadu|IN||6t|10k|66y|3g
+Chigwell|GB||9b|3ze|8|3f
+Chongoroi|AO||x|-11p|12q|3c|Chingoroi
+Chiatura|GE||7n|39i|3ca|3b|Chiat'ura;Čiat’ura;Chitura
+Chittapāri|IN||6t|1eo|6bx|3a
+Chilla Saroda Khadar|IN||6t|27f|5yq|39
+Chikiti|IN||6t|1hc|6j1|38|Chīkati
+Chit Tee Kone|MM||7y|1b1|7f4|38
+Chiman|IN||6t|2bl|5u9|38
+Chikkabidarakallu|IN||6t|109|5z9|38
+Chinnakkāmpālaiyam|IN||6t|tr|5z6|37
+Chiautla de Tapia|MX||41|1eu|-7lw|37
+Chitegaon|IN||6t|1iw|5t5|37
+Chino Valley|US||4i|2ok|-8od|33
+Chinautla|MX||41|1j2|-7ij|33|Chignautla
+Chiramanangād|IN||6t|tp|5vg|33
+Chiampo|IT||9o|3ij|vc|31
+Chiang Saen|TH||62|1kc|7q1|30|Chang Saen;Chieng Sen
+Chichihualco|MX||41|1d2|-7ow|2z
+Khilok|RU||67|3yo|8iu|2y|Chilok;Jilok;Ĥilok;Chilokas
+Chiugiana-La Commenda|IT||9o|3bq|y7|2y
+Chipeni|MW||9|-118|2m7|2y
+Chichli|IN||6t|1rf|62z|2u
+Chittanūr|IN||6t|wf|60x|2u
+Chiranellūr|IN||6t|tj|5vi|2t
+Chibia|AO||x|-166|122|2s|Khibia
+Chipindo|AO||x|-12d|17v|2s|Quipindo
+Chilubi|ZM||z|-uv|2b7|2s
+Chīma|IN||6t|2d9|5vd|2r
+Chikhli Kalān|IN||6t|1pq|62q|2q
+Chiautla|MX||41|1ib|-7mo|2q
+Chi Fu Fa Yuen|HK||6i|1pu|8t2|2q
+Chiloda|IN||6t|1s6|5lu|2p
+Chimay|BE||8t|3v1|c0|2p|Chimai
+Chinácota|CO||27|l5|-5lo|2p
+Chirnside Park|AU||8j|-2wu|b7n|2o
+Chillicothe|US|Missouri|2f|32k|-77v|2n|Chillcothe
+Chicomba|AO||x|-139|15g|2m|Chikombo
+Chinon|FR||9k|3n1|o|2m
+Kirchen|DE||8r|3x5|lx|2l|Chiricheim
+Chicholi|IN|Madhya Pradesh|6t|1p5|5zr|2l
+Chiţcani|MD||8x|3ly|2aa|2i
+China|MX|Nuevo León|44|1ze|-7nn|2i
+Chipping Norton|AU||8l|-2m8|bnc|2i
+Chitré|PA||4g|m4|-67f|2i
+Chitu|CN||7i|30w|924|2h
+Chinnamudalippatti|IN||6t|v8|616|2h
+Chīchkah|AF||6o|2uz|5ci|2g|Chīchka;Chīchkeh
+Chinnāmpālaiyam|IN||6t|tm|5xy|2f
+Chinameca|SV||2u|11i|-6tf|2e
+Chittode|IN||6t|vn|5zq|2e
+Chiantla|GT||32|16n|-722|2d
+Chinnatadāgam|IN||6t|us|5xj|2c
+Chinniyampālaiyam|IN||6t|uq|5y2|2a|Chinniam palayam
+Chişineu-Criş|RO||8u|3l9|1ns|2a|Chişinău-Criş;Chişineu Criş
+Chītalwāna|IN||6t|1x7|5j2|29
+Chiajna|RO||8u|3fi|205|29|Cheajna
+Chinacla|HN||56|13d|-6sg|29
+Chiasso|CH||a7|3jb|p3|29|Chiaso;Ciass;Civasium;Chiassu;Kjasas
+Chirnogi|RO||8u|3ek|21t|28
+Chishang|TW||7l|1s9|9cq|28|Chihshang;Ch’ih-shang
+Chirkey|RU||9i|3bc|3mi|28|Tsjirkej
+Chintapalle|IN||6t|1dn|6cr|27
+Chippendale|AU||8l|-2m5|bo0|26
+Chicalim|IN||6t|16s|5p4|26
+Chissamba|AO||x|-xt|1c5|25
+Chilchota|MX||41|1j5|-7vo|25
+Chibougamau|CA||59|3uo|-5ql|24
+Chinameca|MX|Veracruz|41|1e2|-7b0|23
+Chikhli|IN|Gujarat|6t|1lo|5my|23
+Shiding|TW||7l|1xf|9dy|22|Sa̍k-tàng-khî;Šidingas;Thạch Đĩnh;Chio̍h-tēng-khu;Shihding;Shih-ting
+Chilón|MX|Chiapas|41|1bj|-74b|22|Chión
+Chinchinim|IN||6t|169|5pi|22
+Chinchilla|AU||8c|-22a|bmf|21
+Chinarli|AZ||61|35a|3k3|21|Çinarlı
+Chittarkonda|IN||6t|1ed|6c3|21|Chitrakonda
+Chiavenna|IT||9o|3ko|q4|20|Clavenna
+Chi Lăng|VN||62|1nx|87u|20
+Chipoka|MW||9|-12v|2nw|20
+Chiconi|YT||ah|-zn|3hb|20
+Chikola|RU||9i|3c0|3e0|1z|Tsjikola;Tsikola;Pusulmonghæw
+Chichicapa|MX|Tabasco|3z|1eq|-76u|1z|Chichilapa
+Chiconcuac|MX|Morelos|41|1g6|-7nl|1z
+Chizu|JP||7q|2pz|acv|1y
+Chittilapilli|IN||6t|td|5vj|1y|Chittilappilly
+Chikwawa|MW||9|-18j|2oo|1y
+Chiépo|CI||0|fu|-e2|1y
+Chinnamanali|IN||6t|vn|60w|1x
+Chiswell Green|GB||9b|3zp|-10|1v
+Çinarlı|AZ||61|377|3mc|1t|Chinarly
+Geithain|DE||8r|3xu|za|1t|Chitań
+Chirilagua|SV||2u|10q|-6su|1s
+Chidiga|IN||6t|1b4|6cd|1s
+Chikjājūr|IN||6t|139|5vi|1q|Chikkajajur
+Chillicothe|US|Illinois|2f|35o|-6wl|1q
+Shyngyrlau|KZ||77|3xy|468|1q|Shyngghyrlaū;Chingirlau;Chingarlau
+Chiwan|CN||7i|1qg|8sd|1q
+Chirongui|YT||ah|-zx|3hf|1q
+Chianciano Terme|IT||9o|3bk|wt|1q
+Chikhlākasa|IN||6t|1l8|698|1q|Chikhalakasa
+Childress|US||2f|2nn|-7qc|1p
+Chippawa|CA||59|3bm|-63l|1p
+Chièvres|BE||8t|3wj|al|1o|Chieve
+Chicxulub Puerto|MX||3z|1n6|-6ww|1o
+China|JP||7q|23x|9x5|1o
+Chickasaw|US||2f|2dg|-6sn|1o
+Chicomuselo|MX||3z|17q|-74d|1n|Chicomucelo
+Chittanda|IN||6t|to|5vp|1n
+Chintalavalasa|IN||6t|1e7|6fp|1n
+Chietla|MX||41|1fg|-7lu|1l
+Chipping Norton|GB||9b|40a|-4b|1l
+Chinchón|ES||9d|33i|-9i|1l|Ĉinĉono
+Piana degli Albanesi|IT||9o|2xj|10w|1l|Chiana;Hora e Arbereshevet
+Chinnachintakunta|IN||6t|19p|605|1k
+Chitkul|IN||6t|1cs|61a|1k
+Chichimila|MX||3z|1lb|-6t2|1j
+Chipping Sodbury|GB||9b|3z6|-6n|1j
+Chinnor|GB||9b|3zm|-2j|1j
+Chiuduno|IT||9o|3it|rd|1i
+Chicoana|AR||1s|-1xr|-521|1i|Chikoana;Çikoana
+Chisasibi|CA||59|45e|-636|1i
+Chistoozërnoye|RU||75|47z|5wq|1h|Tsjistoozernoje
+Chinampa de Gorostiza|MX||41|1nc|-7jh|1h|Chinanpa de Gorostiza
+Chiscani|RO||8u|3hi|25l|1h
+Chiba|CN||7i|2lh|832|1g
+Chilón|MX|Chiapas|41|1bv|-74q|1g
+Chiná|MX|Campeche|3z|1ix|-6ze|1g
+Chackbay|US||2f|2b0|-708|1g|Chockbay;Chagbay;Chackbe;Chicbay;Chackby;Chackbaie
+Chinna Kalaiyamputtūr|IN||6t|t3|5z7|1g|Chinnakalayamputhur
+Chikhaldara|IN||6t|1ng|5ys|1g
+Chimoré|BO||3n|-1b7|-50z|1f|Chimuriy
+Chiri-Yurt|RU||9i|3bp|3j2|1f|Tsjiri-Jurt;Cemzavod;Čiri-Jurt;Çüyrin-Evl;Nadreč’e;Nadrech’ye;Chir-Yurt
+Chisten’koye|UA||9t|3go|2ml|1f
+Chistyye Bory|RU||9i|4i5|37p|1f
+Chik|RU||75|48r|6cz|1f|Tsjik
+Childersburg|US||2f|2kg|-6nv|1e
+Chisholm|AU|Australian Capital Territory|8l|-2qd|bi9|1e
+Chisholm|US|Minnesota|2f|3nx|-760|1e
+Chisago City|US||2f|3i1|-761|1d|Thành phố Chisago
+Chiny|BE||8t|3u6|eu|1d|Tchini
+Chittenango|US||48|3bl|-5ur|1d
+Chingueṭṭi|MR||19|1ku|-yc|1b|Šingetis;Cengiṭ;Chinguiti;Chingueti;Szinkit
+Chinda|HN||56|160|-6t0|1b
+Chiaramonte Gulfi|IT||9o|2uv|14u|1b|Ciaramunti
+Chinar|RU||9i|38z|3pq|1b|Tsjinar
+Himarë|AL||9y|33e|1iu|1a|Himara;Chimara;Kheimara;Imara
+Chisholm|AU|New South Wales|8l|-2j0|bp7|1a
+Chivay|PE||3o|-17g|-5iw|19
+Chicontepec|MX||41|1m9|-7kp|19
+Chinle|US||2p|2sf|-8gb|19|Chin Lee
+Chieming|DE||8r|3p1|yu|19|Cheaming
+Chibombo|ZM||z|-14q|25z|19
+Kerzers|CH||a7|3mi|k0|19|Chiètres
+Chikhla|IN||6t|1nv|65k|18
+Kétegyháza|HU||8v|3l9|1mu|17|Chitighaz
+China|US|Maine|48|3fk|-5d4|17
+Chistogorskiy|RU||74|45y|6qq|16|Tsjistogorskij
+China Grove|US|North Carolina|48|2qt|-67u|16
+Chichimequillas|MX|Querétaro|41|1lp|-7qq|16
+Chicxulub Pueblo|MX||3z|1mq|-6wo|15
+Chiusi Scalo|IT||9o|3bg|x7|15
+Chichinales|AR||1s|-30n|-55y|15|Chinchinales
+Chianchitta-Trappitello|IT||9o|2x3|16d|14
+Chirk|GB||9b|432|-8i|14|Y Waun;Čerkas
+Chisumulu|MW||9|-xf|2o6|14|Chizumulu
+Chipping Ongar|GB||9b|3zm|p|14|Ongar
+Chiquilistlán|MX|Jalisco|41|1jt|-80i|14
+Chiria|IN||6t|1pz|6kw|13
+Chiapetta|BR||4w|-25k|-45u|13
+Chignayhua|PE||3o|-13l|-5ig|13
+Chimpay|AR||1s|-30t|-53r|13
+Chilton|US|Wisconsin|2f|3eb|-6sw|13
+Chitagá|CO||27|ju|-5lu|13
+Chixi|CN|Fujian|7i|22r|97w|12
+Chiapilla|MX||41|1a1|-75k|12
+Chiaravalle Centrale|IT||9o|2zg|19l|12
+Chiojdu|RO||8u|3hz|20s|12|Chiojd
+Chiquilistlán|MX|Jalisco|41|1k4|-80e|11
+Chilia Veche|RO||8u|3i6|29c|10
+Chipley|US||2f|2di|-6lm|10
+Chililico|MX||41|1mp|-7lg|10
+Cilieni|RO||8u|3dy|1we|10|Chilieni
+Chiselet|RO||8u|3eq|22l|z
+Chirnogeni|RO||8u|3dy|26f|z
+Chiochiş|RO||8u|3mi|1v6|z
+Chipilo de Francisco Javier Mina|MX||41|1gt|-7l5|z
+Ghioșești|RO||8u|3ho|1z7|z|Chiosesti
+Chillar|AR||1l|-2vn|-4mn|z
+Chinatown|US|California|3p|2x0|-9fn|y
+Chişlaz|RO||8u|3nc|1pr|y
+Chinchilla de Monte Aragón|ES||9d|304|-4s|y
+Chicoasén|MX||3z|1b5|-76n|x
+Chiconcuautla|MX||41|1ju|-7k2|x|Chinconcuautla
+Chicontla|MX||41|1k8|-7jr|x
+Chifley|AU|New South Wales|8l|-2md|bo4|w
+Chicavasco|MX||41|1k4|-7mv|w|Chicabasco;Chicauasco
+Chimayo|US||2p|2s0|-86b|w|Chimaco;Chinayo
+Chicapa de Castro|MX||41|19o|-7be|v
+Chiconquiaco|MX||41|1iu|-7gy|v
+Chipstead|GB||9b|3yk|-h|v
+Chickamauga|US||48|2ov|-6kx|v
+Jiufen|TW||7l|1xr|9eg|v|Dziufenas;Chiufen;Cửu Phần;Jioufen;Chiu-fen
+Chiesa|IT|Lombardy|9o|3ix|rj|v
+Chinatown|US|Hawaii|ax|1n7|-c6i|u
+Azatavan|AM||80|333|3fn|u|Chikdamlu;Chigdamlu
+Chickerell|GB||9b|3wm|-6y|u
+Chignolo d'Isola|IT||9o|3iv|qh|t
+Chineside|CA||5b|3sv|-9h7|t
+Chincoteague|US||48|2xd|-5te|t
+Chita|CO||27|h7|-5lc|t
+Chigoré|PA||4g|np|-677|t|Chicore
+Chinameca|MX|Morelos|41|1fq|-7n0|t
+Chiswick|AU||8l|-2m1|bnu|t
+Kyseliv|UA||98|3qy|1za|t|Chisălău;Kisalau
+Chitre|NP||6r|26z|6gh|t
+Chichiquila|MX||41|1hc|-7hn|s
+Chiador|BR||4w|-1p4|-3bm|s
+Chimanimani|ZW||n|-1j0|2jb|s
+Chinteni|RO||8u|3m7|1td|r
+Chiepetepec|MX||41|1ct|-7m9|r
+Chipaque|CO||27|cc|-5po|r
+Chikindzonot|MX||3z|1ki|-6tt|r|Chicintzonot
+Chinique|GT||32|15s|-70v|r
+Chiusa Sclafani|IT||9o|2wo|10v|r|Chiusa
+Chicahuaxtla|MX||41|1jy|-7k3|q
+Lubok China|MY||6v|6t|7vj|q|China;Lubuk Cina
+Chineni|IN||6t|2js|5t4|q
+Chilches|ES||9d|32i|-j|q|Xilxes
+Chieşd|RO||8u|3nm|1rk|q
+Chichimequillas|MX|Guanajuato|41|1mg|-7ts|p|Chichimequilla
+Chilliwack Mountain|CA||5b|3sk|-9ex|p
+Chiuppano|IT||9o|3j4|vu|p
+Chiusa|IT||9o|3lk|w5|p|Klausen;Clusa;Tluses
+Chiraftei|RO||8u|3j5|25v|p
+Arevashogh|AM||80|35i|3ez|p|Chigdamal;Arevashox;Chikdamal;Arevashokh
+Chiltoyac|MX||41|1ie|-7h3|p
+Chiojdeni|RO||8u|3ij|22n|o
+Podvirne|UA||98|3q6|21y|o|Chișla-Salieva
+Chiriquí|PA||4g|nc|-6co|o
+Chiusa di Pesio|IT||9o|3f5|lb|o|Chiusa Pesio
+Chyshky|UA||98|3uv|1xb|o|Chishky;Chishki
+Chiloljá|MX||41|1ax|-74q|o
+Chiché|GT||32|15p|-70y|o
+Chiganak|KZ||5s|3gj|5eg|o|Shyrahak;Shyganak
+Chironkamba|KM||ac|-xv|3f7|o
+Chichester|US||48|3c5|-5ic|o
+Chimalpa Tlalayote|MX||41|1in|-7ln|o|Chimalpa y Tlalayote
+Chifley|AU|Australian Capital Territory|8l|-2q7|bi4|o
+Chicola|MX||41|1gi|-7hr|n
+Chippubetsu|JP||7q|3dl|ayd|n
+Podviryvka|UA||98|3q8|22f|n|Podvirïvka;Chișla-Zamjieva
+Chihuahuita|MX||3x|20o|-8ey|n
+Chiusi|IT||9o|3bh|x7|n
+Chipping Campden|GB||9b|40l|-4y|n
+Chianchitta-Pallio|IT||9o|2x2|16d|n
+Chico|US|Washington|3p|3o9|-9gv|n
+Chinatown|CA|Alberta|2s|3xt|-8su|n
+Chignolo Po|IT||9o|3hf|qc|m
+Chiefland|US||48|29v|-6e6|m
+Chiddingfold|GB||9b|3y0|-1q|m
+Chiuza|RO||8u|3n7|1vd|m
+Chiesa in Valmalenco|IT||9o|3kj|rd|m|Ecclesia in Valle Malenci;Sgesa;Chiesa di Valmalenco
+Chieve|IT||9o|3hy|qq|m
+Chiesina Uzzanese|IT||9o|3ds|ts|m
+Chametla|MX|Baja California Sur|3x|1uy|-8il|m|Chimetlán
+Churipitzeo|MX||41|1kp|-7um|l|Chiripitzio
+Chinchilla|US||48|378|-5u8|l
+Chicamán|GT||32|16n|-708|l
+Chiseldon|GB||9b|3z4|-4t|l
+Chilcompton|GB||9b|3ye|-6z|l
+Chirens|FR||9k|3i5|fg|l
+Jiangwakou|CN||7i|31s|92y|k|Chiang-wa-k’ou
+Saschiz|RO||8u|3ka|1xd|k|Szászkézd;Chizd;Keisd
+Chimalapa|MX|Hidalgo|41|1k3|-7ko|k
+Chigwell|AU||8g|-3ax|bd0|k
+Chittaway Bay|AU||8l|-2kl|bon|k
+Chilacachapa|MX|Guerrero|41|1er|-7p4|k|Chilecachapa;Chilicachapa
+Chiriacu|RO||8u|3ed|1zm|k|Chiriac
+Chila|MX|Puebla|41|1dx|-7ju|k
+Chilapa|MX|Nayarit|3x|1p7|-84b|k
+Chiatipán|MX||41|1me|-7lp|j|Chatipán
+Chiprovtsi|BG||9v|3ci|1rk|j|Tschiprowzi;Ciprovți;Čiprovci;Cziprowci;Tjiprovtsi;Tschiporowzi;Chiporovtsŭ;Chiporovtsi
+Chínipas de Almada|MX||2g|244|-8di|j
+Chipispaya|PE||3o|-1cm|-5f2|j
+Chirundu|ZW||n|-18j|285|j|Chirunda;Chirundo
+Chichicaxtle|MX|Veracruz|41|1hq|-7fz|j
+Chinampas|MX||41|1oo|-7uu|j
+Chiquihuitlán de Benito Juárez|MX||41|1e0|-7gq|j|San Juan Chiquihuitlán
+China Lake Acres|US||3p|2r0|-934|j
+Chibed|RO||8u|3l9|1xc|j
+Chilworth|GB|England|9b|3ya|-1h|j
+Chichicuautla|MX||41|1hv|-7ij|i|Chichicuaula
+Jiamaying|CN||7i|2vd|8y3|i|Cha-ma-ying;Chia-ma-ying
+Chișoda|RO||8u|3iy|1mx|i
+Chirivel|ES||9d|2wg|-6b|i
+Chilleurs-aux-Bois|FR||9k|3pj|5y|i
+Chiloeches|ES||9d|34p|-8s|i
+Chiojdeanca|RO||8u|3hh|20z|i
+Chūzūk|IR||7o|2su|3qj|i|Chizuk;Chūzok;Chūzak
+Chidlow|AU||8k|-2gi|8yz|i
+Chinatown|US|Pennsylvania|48|32z|-5sr|i
+Chiassa-Tregozzano|IT||9o|3cv|x1|i
+Chilhowie|US||48|2u8|-6aw|h
+Chiuro|IT||9o|3k9|rr|h
+Chiheru de Jos|RO||8u|3lo|1x4|h|Chiherul-de Jos
+Chiuiești|RO||8u|3ne|1uc|h|Chiueşti
+Chistopolye|UA||9t|3i1|2si|h
+Chilluévar|ES||9d|2xk|-8f|h
+Chicbul|MX||3z|1g6|-70k|h
+Chișcăreni|RO|Iași County|8u|3nv|23k|h
+Chinderah|AU||8l|-26h|bui|h
+Chions|IT||9o|3jd|zb|h|Cjons
+Chichiş|RO||8u|3j6|1zo|h
+El Chichicaste|HN||56|133|-6nq|h|Chichicaste
+Chiaramonti|IT||9o|357|oi|g|Tzaramonte;Claramons
+Chiarano|IT||9o|3j1|yx|g
+Chiusa di San Michele|IT||9o|3ha|kd|g
+Chitejé de Garabato|MX||41|1ju|-7qb|g|Garabato
+Chivor|CO||27|dl|-5nt|g
+Chinley|GB||9b|446|-5e|g
+Childers|AU||8c|-1y4|br0|g
+Chiquinshulum|MX||41|1bf|-758|g
+Ch’lou|GE||7n|3b4|379|g|Chlou;Tchlou;Chilou
+Chicumtantic|MX||41|1av|-759|g
+Chiradzulu|MW||9|-17j|2pm|g
+Chiltern|AU||8j|-2sf|bb9|g
+Chippis|CH||a7|3kk|ky|g
+Chisindia|RO||8u|3kk|1pe|g
+Chinook Park|CA||2s|3xm|-8sx|f
+Chiriquí Grande|PA||4g|ov|-6c4|f
+Chixtontic|MX||41|1ax|-74u|f
+Khiliomódhi|GR||8p|2x1|1rj|f|Chiliomodi
+Chichicastle 1ra. Sección|MX||41|1eu|-74r|f
+Chieuti|IT||9o|388|165|f|Qefti
+Chiconamel|MX|Veracruz|41|1mz|-7li|f
+Chinobampo|MX||3x|21b|-8d0|f
+Chimeneas|ES||9d|2v5|-am|f
+Chindini|KM||ac|-x4|3ct|f|Shendini;Chendini
+Chiquilá|MX||2b|1nj|-6qm|f
+Chiché|FR||9k|3m0|-10|f
+Chirpăr|RO||8u|3ji|1wc|e
+Chīshīn|IR||7o|2oj|3qv|e|Cheshīn;Chashīn
+Shyshkivtsi|UA|Chernivtsi|98|3qk|23f|e|Chichkivtsi;Șișcăuții Noi
+San Miguel Chimalapa|MX||41|1af|-7b7|e|Chimalapa
+Chiquimitío|MX||41|1iz|-7t9|e
+Chiusano di San Domenico|IT||9o|35p|15g|e|Clusanum;Chiusanu di San Duminicu
+Chichimequillas|MX|Zacatecas|41|1sk|-7wy|e|Chichimequilla
+Chinantla|MX||41|1ek|-7ky|e
+Chirnside|GB||9b|4b0|-65|e
+Chicuasen|MX||41|1i9|-7gj|e|Chicoasen
+Chiaverano|IT||9o|3ie|ly|e
+Chicksands|GB||9b|40l|-10|e
+Cheshām|IR||7o|2sg|4eg|e|Cheshom;Cheshm;Chisham
+Chila de Juárez|MX||41|1kc|-7kt|e
+Chisholm|US|Maine|48|3fk|-5f0|e
+Chiscas|CO||27|i8|-5le|e
+Chiaucingo|MX||41|1da|-7m6|d|Chiauzingo;Chapancingo
+Chīnī Jān|IR||7o|2v7|3vm|d|Chīnjān
+China Grove|US|Texas|2f|29n|-7l7|d
+Chimilin|FR||9k|3il|fk|d
+Chircești|RO||8u|3m5|25d|d
+Chilapa|MX|Veracruz|41|1gr|-7hv|d
+Chiry-Ourscamp|FR||9k|3tm|87|d
+Chilla|GM||7|11n|-198|c
+Chinquapin Park|US||48|31c|-5ws|c
+Chiclana de Segura|ES||9d|2yf|-8g|c
+Chiconamel|MX|San Luis Potosí|41|1nd|-7m8|c
+Chittenden|US||48|3df|-5mn|c
+Chinook|US||2p|3qz|-8ff|c
+Chigmecatitlán|MX||41|1ft|-7kf|c|Chiginecatitlan;Chimecatitlan
+Chiesino-Collodi|IT||9o|3dc|th|c
+Chilworth|GB|England|9b|3xk|-3y|c
+Chipman|CA||43|3k9|-530|c
+Chiltepec de Hidalgo|MX||41|1gj|-7pb|c
+Chiaromonte|IT||9o|33g|191|c|Chiaramonte
+Chindrieux|FR||9k|3ja|g9|c
+Chikcha|RU||7z|4er|53a|c|Tsjiktsja
+Chichicapa|MX|Puebla|41|1f4|-7hl|c
+Chilcuautla|MX||41|1kh|-7nn|c
+Chītāb|IR||7o|2dj|3yl|c
+Chipahuatlán|MX||41|1jq|-7jd|b
+Chițorani|RO||8u|3gx|20k|b
+El Chimbo|HN||56|13a|-6q0|b|Chimbo
+Chimhucum|MX||41|1ax|-751|b
+Chimalpa Viejo|MX||41|1i1|-7ny|b
+Chier|RO||8u|3kq|1om|b
+China|US|Texas|2f|2bh|-7a2|b
+Child Okeford|GB||9b|3xf|-68|b
+Chinavita|CO||27|ed|-5nt|b
+Chițoc|RO||8u|3lg|24v|b
+Mesa del Huracán|MX||2g|2af|-8cp|b|Chihuahuita
+Chiquinival|MX||41|1b7|-73g|b
+Chichatla|MX||41|1m8|-7lz|b
+Chirac|FR|Occitanie|9k|3fo|93|b
+Chihuahua|MX|Chiapas|41|18j|-73h|b
+Chicualoque|MX||41|1km|-7ja|b
+Chitrouni|KM||ac|-xv|3f6|b
+Chico|US|Texas|2f|2ki|-7jo|b
+Chyżne|PL||a5|3tb|1in|b|Chizsne
+Chintinici|RO||8u|3m3|21l|b|Chitinici;Chintinci
+Chistoye|RU||9i|4d2|3bg|b|Tsjistoje
+Chierry|FR||9k|3s8|9j|a
+Ch’iauri|GE||7n|37u|3k7|a|Ul’yanovka;Ulianovka;Leninovk’a
+Chilly|FR||9k|3jr|gj|a
+Chiaravalle|IT|Lombardy|9o|3i6|po|a
+Chichica|PA||4g|n8|-6av|a
+Chilii|RO||8u|3m0|233|a
+Chissay-en-Touraine|FR||9k|3ni|35|a
+Chivana|HN||56|17r|-6se|a
+Chirimoya (Estación Chirimoya)|MX||41|1nz|-7st|a
+Chicora|US||48|35r|-65i|a
+Caprie|IT||9o|3hc|kd|a|Ciavrie;Chiavrie
+Chitenay|FR||9k|3ny|3t|a
+China Town Village|MP||bf|168|b8s|a
+Chistyye Klyuchi|RU||6k|40y|80r|a
+Chixi|CN|Sichuan|7i|2hb|88k|a
+Chieveley|GB||9b|3yy|-3o|a
+Oselivka|UA||98|3qk|21y|a|Chișla-Nedjimeni;Ossélivka
+Chiquila|HN||56|16b|-6u2|a|Chiquilla
+Chinotahueca|MX||37|233|-8g9|a
+Chirimoya Vieja|MX||41|1nw|-7su|a
+Chigtón|MX||41|1as|-75z|a|Chugton
+Chipoco|MX||41|1ma|-7m6|a
+Chianni|IT||9o|3cs|tk|a
+Chilocoyo del Carmen|MX||41|1js|-7ja|a
+Poggio di Chiesanuova|SM||9q|3dy|yi|a|Poggio Chiesanuova;Chiesanuova;Ecclesia Nova;Kjezanuova;Puggiu Crèsianova;Ciesanova
+Chittaway Point|AU||8l|-2kk|boo|9
+Quiringüicharo|MX||41|19m|-6zz|9|Chiringuicharo
+Chinchaypujio|PE||3o|-11v|-5kn|9|Chinchaypuquio;Chinchaipujio;Chinchaypucyo
+Chizătău|RO||8u|3j3|1od|9|Chisătău
+Jiangkou|CN|Hunan|7i|23j|8io|9|Chiang-k’ou
+Chilapa|MX|Puebla|41|1ix|-7j9|9
+Çiflikköy|TR||94|2ub|2x0|9|Chiftlikkëy;Alaçalı
+Chicviltenal|MX||41|1ar|-75e|9|Chiviltenal;Chikuil Tenal;Chikbil Tenal
+Chizé|FR||9k|3k4|-z|9
+Chirinos|HN||56|16s|-6oi|9
+Chiesa|IT|Lombardy|9o|3ik|t2|9
+Chiepetlán (San Miguel Chiepetlán)|MX||41|1d2|-7m0|9
+Chilton|US|Texas|2f|2ew|-7hm|9
+Chilijapa|MX||41|1md|-7mn|9
+Chittering|AU||8k|-2ff|8yg|9
+Chintipán|MX||41|1le|-7kr|9|Chuntipán
+Chijichaya|PE||3o|-18x|-5dl|9
+Chippewa Park|US||48|34k|-6h1|9
+Chicometepec (San Simón)|MX||41|1jg|-7jr|9
+Chivaltic Nuevo|MX||41|1ce|-73s|9
+San Pedro Chicozapotes|MX||41|1dd|-7hc|9|Chicozapotes;Chicozapote
+Chiapa|MX|Colima|41|1hq|-7zx|9
+Chichimantla Segundo|MX||41|1li|-7ir|9|Chilchimantla Segundo
+Chicerea|RO||8u|3mv|253|9
+Chirajobampo|MX||37|22q|-8fw|9
+Chipatá|CO||27|gu|-5ok|9
+Chilbolton|GB||9b|3y4|-40|9
+Chilmark|US||48|36u|-5gi|9
+Chiré-en-Montreuil|FR||9k|3lk|d|8
+Chileni|RO||8u|3lo|1z1|8
+Chimaltitán|MX||41|1oi|-80a|8
+Zuygaghbyur|AM||80|35z|3dv|8|Chiftali;Zuygaxbyur;Ghayghuli Chiftali
+Chinari|AM||80|35h|3im|8|Chinar;Çinari;Chinarli
+Chilixtlahuaca|MX||41|1ba|-7ln|8|Chilistlahuaca;Chilistiahuaca
+Chiquinivalvo|MX||41|1af|-75x|8
+Chixtla|MX||41|1ha|-7h2|8
+Chichiltepec|MX|Guerrero|41|1dh|-7py|8
+Chitejé de la Cruz|MX||41|1jz|-7q8|8|Chitejéde la Cruz
+Chignin|FR||9k|3ig|gp|8
+Chiesanuova|IT|The Marches|9o|3ce|111|8
+Chiapa|MX|Puebla|41|1fb|-7ha|8
+Chervonyi Yar|UA||98|3im|295|8|Chitai;Chervonyy Yar;Tsjervonyj Jar;Tscherwonyj Jar;Tjervonyj Jar;Červonijjara;Chervony Yar;Çervonıy Yar;Chervonnyy Yar
+Chipinque de Arriba|MX||41|1nj|-7v3|8
+Chiva|AM||80|32h|3he|8|Ch’iva;Cziwa
+Silvituc|MX||3z|1fs|-6yr|8|Chilvituc;Silvitue
+Chiesuola|IT||9o|37a|zt|8
+Childswickham|GB||9b|40l|-59|8
+Chima|CO|Santander Department|27|hm|-5nt|8
+Chimán|PA||4g|o8|-62f|8|Chimón
+Chiomonte|IT||9o|3hc|je|8|Chaumont;Cimon
+Chiribiș|RO||8u|3nf|1q2|8
+Chiliile|RO||8u|3i9|21u|8
+Chimusdá (Cuarta Manzana de Donaciano Ojeda)|MX||41|1i3|-7qm|8
+Chivixhuyo|MX||41|1ap|-7bs|8|Chibixuyo
+Chipiltepec|MX||41|1gh|-7js|8
+Chirac|FR|New Aquitaine|9k|3jj|1t|8
+Chila de la Sal|MX||41|1eb|-7ll|8
+Chiconcuac|MX|Hidalgo|41|1j3|-7ly|8|Chinconcuac
+Chino|MX||41|1p7|-7nr|8
+Chiltepec|MX||41|1f7|-76k|8
+Chipe|PE||3o|-dd|-61i|7
+Chilapa del Carmen|MX||41|1de|-7e5|7
+Ghireni|RO||8u|3pr|22p|7|Chireni
+Chiesanuova|IT|Apulia|9o|33d|1e6|7
+Chiusdino|IT||9o|3bv|us|7
+Chimalapa|MX|Guerrero|41|1b1|-7li|7
+Chila|MX|Jalisco|41|1ku|-7y1|7
+Chitignano|IT||9o|3da|x0|7|Chitinianum;Chitignanu;Chitignan
+Chíquiza|CO||27|fk|-5o5|7|Chiquisa
+Chingas|PE||3o|-pc|-5xv|7
+Chimbán|PE||3o|-hd|-620|7
+Chiuzbaia|RO||8u|3oi|1ts|7
+Chiloquin|US||3p|3aa|-9ej|7
+Chichilpa|MX||41|1is|-7pw|7
+Chippewa Lake|US||48|363|-6bi|7
+Chiotic|MX||41|1at|-75a|7
+Chiesanuova|IT|Tuscany|9o|3de|v3|7
+Chimalaco|MX||41|1nm|-7mu|7
+Chiquihuitillo|MX||41|1gt|-7wa|7
+Chicalpextle|MX||41|1f3|-7e7|7
+Chikoy|RU||6k|3vn|890|7|Tsjikoj
+Chișlaca|RO||8u|3lb|1p0|7
+Chimalapa 2da. Sección|MX||41|1cd|-783|7
+Chincua (Colonia Emiliano Zapata)|MX||41|1iw|-7ql|7
+Gambell|US||49|4x6|-d91|7|Chibukak;Tchibukak;Gambel
+Chienes|IT||9o|3m1|ww|7|Kiens
+Chideock|GB||9b|3wx|-7u|7
+Childer Thornton|GB||9b|441|-89|7
+Chinchán|PE||3o|-t3|-5vj|7
+Chichicaxtla|MX||41|1iv|-7k5|7
+Chibit|RU||63|3vs|6r4|7|Tsjibit
+Chilapa 1ra. Sección (Margen Izquierda)|MX||41|1em|-75h|7
+Chivatá|CO||27|fg|-5nk|7
+Chillicothe|US|Texas|2f|2n6|-7og|7
+Chistag|RO||8u|3mp|1q4|7
+Chilimjoveltic|MX||41|1an|-756|7
+Chili|US||2p|2sb|-86v|7
+Chiquixpac Sección II|MX||41|1h6|-7o5|7
+Chiraleu|RO||8u|3nf|1py|7|Chiralău
+Chichiltepec|MX|Puebla|41|1eo|-7hp|7
+Chitid|RO||8u|3iz|1s3|7
+Chicozapote|MX||41|1el|-764|6
+Chilieni|RO||8u|3jc|1zo|6|Sepsikilyén
+Chinintié|MX||41|1bx|-74y|6
+Chiara|PE|Cuzco Department|3o|-135|-5ic|6
+Chilișeni|RO||8u|3o4|21k|6
+Chican|MX||3z|1ki|-6vo|6|Chicam
+Chivela|MX||41|1af|-7bw|6
+Chipping|GB||9b|45o|-76|6
+Tsoghamarg|AM||80|35r|3du|6|Chizikhlar;Coxamarg;Chzkhlar
+Chiliódendro|GR||8p|34h|1mv|6
+Chicalote|MX||41|1p5|-7w1|6
+Chițoveni|RO||8u|3o5|22t|6
+Kybaky|UA||98|3q7|1yc|6|Chibachi
+Chisseaux|FR||9k|3nh|31|6
+Chicchicay|PE||3o|-zc|-5uz|6
+Chichicaxtepec|MX||41|1bo|-7ex|6
+Chingora|PE||3o|-16q|-5ex|6
+Chișcăreni|RO|Botoșani County|8u|3p8|22j|6|Chiscarani
+Chililillo|MX||41|1ng|-7mb|6
+Chiqueritos|MX||3x|1v6|-89c|6|Chiquerito
+Chief Lake|US||2f|3jl|-71p|6
+Childrey|GB||9b|3za|-44|6
+Chirileu|RO||8u|3l4|1vq|6
+Chiapas Nuevo|MX||41|19q|-78n|6
+Chihuerio|MX||41|1i4|-7to|6|Chinuerio
+Chivres-Val|FR||9k|3t8|9k|6
+Chilthorne Domer|GB||9b|3xl|-7g|6
+Chimento|IT||9o|31w|19q|6
+Chijol Diecisiete|MX||41|1pt|-7l0|6
+Chinari|RO||8u|3lh|1wb|6
+Chiara|PE|Apurímac Department|3o|-12j|-5on|6
+Chiesanuova|IT|Veneto|9o|3io|yy|6
+Chichonal 3ra. Sección (La Capilla)|MX||41|1dd|-75g|6|Chichonal
+Chele|MX||3x|1sg|-865|6|Chile
+Chiocchio|IT||9o|3d8|vf|6
+Chibucú|MX||37|23c|-8fw|6
+Chizzola|IT||9o|3j9|ul|6
+Chienhodi|CI||0|mw|-7h|6
+Chivy-lès-Étouvelles|FR||9k|3tl|9y|6
+Anílio|GR||8p|32g|1mv|5|Chiarã
+Chiapa|MX|Hidalgo|41|1m0|-7l3|5
+Chintelnic|RO||8u|3mu|1vm|5
+Chiatitla|MX||41|1m3|-7l5|5
+Chia Keng|SG||7j|3s|80l|5
+Chigny-les-Roses|FR||9k|3sk|ba|5
+Chipping Warden|GB||9b|40u|-3j|5
+Chilillos|MX||3x|1rw|-860|5
+Chiesanuova|IT|Sicily|9o|2xm|z5|5
+Chiquintirca|PE||3o|-10a|-5or|5|Chiguitirca;Chiquintirica
+Chichicaxtle|MX|Hidalgo|41|1kl|-7l9|5
+Chilacachapa|MX|Guerrero|41|1cs|-7ns|5
+Chilmark|GB||9b|3xx|-5o|5
+Chicoacán (Ampliación)|MX||41|1dc|-77l|5|Chicoacan
+Chicoacán|MX||41|1dc|-77o|5|Chicoacen
+Chippenham|GB|England|9b|41a|18|5
+Chiraleș|RO||8u|3mt|1vk|5
+Ghionea|RO||8u|3fk|1zo|5|Chionea
+Chimbo|PE||3o|-198|-5c8|5
+Chicheboville|FR||9k|3sf|-m|5
+Chiguirí Arriba|PA||4g|o4|-66r|5|Chiguri Arriba
+Chichiltepec|MX|Guerrero|41|1c6|-7mu|5
+Chinantequilla|MX||41|1c3|-7eo|5
+Chilchinbito|US||2p|2th|-8hs|5|Chilchinbeto;Chil-Chin-Be-To;Chilechinbito
+Chihuixcruz|MX||41|1k2|-7iw|5
+Chijiltec (San Isidro)|MX||41|1a0|-751|5

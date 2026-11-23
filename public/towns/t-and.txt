@@ -1,0 +1,263 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+Anyang|CN||7i|2sa|8tq|8uk|Anjangas;An-jang;An Dương;Anjan;Ahn Yang
+Dandong|CN||7i|33h|9lj|6an|Đan Đông;Dăng-dŭng;Tan-tong-chhī;Andong
+Andijon|UZ||7m|35a|5kz|5rq|Andijan;Andisjan;Andižan;Andizhan;Andizjan;Andican;Andidzhan
+Santo André|BR|São Paulo|4w|-1tq|-3la|540
+Anjō|JP||7q|2p4|aks|1gf|Andzsó;Andžijas;Andyo;Anzyô-chhī
+Anda|CN||7i|3l1|9o2|1ed|An-ta
+Edirne|TR||94|37s|21s|1e0|Adrianòpolis;Drinápoly;Adrianopoli;Hadrianopolis;Adrianopol;Andrianoplin;Jedrene;Edirnä;Drinopolje;Andrinòple;Odrín;Adrianopoja;Adrianoupolis;Adrianopel;Ederné;Adrinople;Adrianople
+Vila Andrade|BR||4w|-1tn|-3lt|1av
+Angers|FR||9k|3nv|-1j|1ar|Anĝero;Anžė;Angieus;Añje;Andecavis;Anzier
+Anderlecht|BE||8t|3x8|bz|18m|Anderliĥto;Anderlech;Anderlek;Anderleht;Anderlacum
+Andong|KR||7h|2tl|9xl|16l|Andona;Andang
+Sant Andreu|ES||9d|374|63|13m
+Andīmeshk|IR||7o|2i6|3qb|11j|Andīmeshg;Andīmīshk
+Andīsheh|IR||7o|2rb|3yg|w9
+Shahre Jadide Andisheh|IR||7o|2r4|3xq|w9
+Andria|IT||9o|36j|19a|rq
+Érd|HU||8v|3nn|1gj|hc|Hamzsabég;Andzabeg
+Andradas|BR||4w|-1pb|-3ld|fw
+Andradina|BR||4w|-1m2|-3yq|fw
+Anderson|US|Indiana|38|33f|-6m0|fd
+Hell-Ville|MG||a8|-118|3q3|es|Andoany;Andoani;Helville
+Andulo|AO||x|-vx|1ae|dw
+Andover|GB||9b|3y9|-45|br
+Andilamena|MG||a8|-1b9|3qx|ay
+Andkhoy|AF||6o|2un|50w|aj|Andkhvoy;Andkho'y;Andkhoi
+Andújar|ES||9d|2xo|-b9|ab|Anducharas
+Andapa|MG||a8|-14p|3tx|a7
+Yylanly|TM||5x|387|4lp|a6|Andalyp
+Auderghem|BE||8t|3x6|cb|9g|Oudergem;Anderghen
+Andover|US|Minnesota|2f|3hn|-775|8y
+Andernach|DE||8r|3w3|kk|8g|Andernaĥo
+North Andover|US||48|3am|-5hm|7u|Andover Septentrionalis
+Anderson|US|South Carolina|48|2nu|-6dl|7l
+Āndippatti|IN||6t|rs|5zm|7l
+Andipalayam|IN||6t|ut|5yr|73
+Andol|IN||6t|1dh|60w|6u
+Andenne|BE||8t|3w9|e6|6p|Andene
+San Martín de los Andes|AR||1s|-33k|-5i7|6j|Andų San Martinas
+Andrychów|PL||a5|3uh|1hq|64|Andrichovia;Andrihova;Andrychuvas;Andrychůw
+Anthiyur|IN||6t|w6|5zj|5v|Andiyūr
+Andorra la Vella|AD||8n|3a3|48|5o|Andoro Malnova;Andorre-la-Vieille;Andorra a Vella;Andora;Andorra-a-Velha;Andorra la Biella;Andòrra la Vièlha;Andorra;Andorra Tuan;Andò-la-Vyèy;Andorra-la-Vielye
+Andreyevskoye|RU||9i|4ab|2xd|5k|Andrejevskoje;Andreyevskaya
+Andirá|BR||4w|-1s1|-3vj|5j
+Andritz|AT||a2|3mv|16u|5a
+Andéranboukan|ML||5|16v|8e|57|Anderabukani;Anderanbukani;Amderamboukan;Anderamboukan;Andéramboukane
+Andalucía|CO||27|bl|-5vl|51
+Andahuaylas|PE||3o|-11y|-5nv|4u|Andahuailasas;Antawaylla;Andahuavlas;Andahuailas
+Andada|IN||6t|1o6|5mu|4n
+Andes|CO||27|fq|-5us|4k
+Andé|CI|Comoé District|0|iu|-bd|4j
+Andorinha|BR||20|-sq|-32o|46
+Andoain|ES||9d|3c2|-5n|43
+Andalgalá|AR||1m|-24m|-548|3z
+Andresito|AR||1n|-1zb|-465|3x
+Andrews|US|Texas|2f|2hs|-7wv|3u
+Andaraí|BR||20|-zl|-36t|3n|Andarahy
+Andrésy|FR||9k|3s2|5q|3l
+Andover|US|Kansas|2f|2wr|-7hu|3j
+Andrelândia|BR||4w|-1oe|-3f3|3b
+Andratx|ES||9d|31y|6q|39
+Anderlues|BE||8t|3w1|bv|38
+Andrott|IN||6t|u1|5on|34
+Andacollo|CL||4u|-2bz|-5hh|33|Andakoljas;Andacolla
+Junín de los Andes|AR||1s|-32z|-5hg|2y|Andų Chuninas
+Andoung Khmaer|KH||78|th|81d|2x|Andoung Khmer
+Andovoranto|MG||a8|-1gn|3sf|2w|Andevoranto;Andevorante
+Andernos-les-Bains|FR||9k|3gb|-32|2u|Endarnòs;Andernos
+Anderson|US|California|3p|34d|-9fq|2u
+Andover|US|Florida|48|205|-66t|2r
+Andriyivka|UA|Kharkiv|98|3tm|2tr|2p|Andreyevka;Andriivka
+Les Andelys|FR||9k|3st|3x|2p|Andeliacum
+Andrézieux-Bouthéon|FR||9k|3ih|bu|2n|Andrézieux
+Andreapol’|RU||9i|4dd|2hm|2k
+Andergrove|AU||8c|-1mk|bie|2j
+Andop|PH||71|lu|9pb|2j
+Andalusia|US|Alabama|2f|2ez|-6o8|2j
+Andover|US|Massachusetts|48|3ai|-5hm|2g
+Anderson Mill|US||2f|2cl|-7jp|2f
+Andro|IN||6t|1wr|798|2f
+Andırın|TR||94|2we|2sz|2f|Andıran
+Andrushivka|UA||98|3uy|28m|2d|Andrushevka;Andrushovka
+Andreyevka|RU|Moscow Oblast|9i|4bi|2v6|2c|Andrejevka
+Andarak|KG||65|32h|5cy|28
+Inzago|IT||9o|3ii|qc|28|Andiciacum
+Andrews Farm|AU||8b|-2oc|ap6|28
+Andorra|ES||9d|35u|-19|27
+Anderten|DE||8r|41g|re|27
+Andijk|NL||8m|42j|ei|22|Andìk
+Cerese|IT||9o|3hc|tz|22|Virgilio;Andes
+Andrimont|BE||8t|3wl|gc|1z
+Andoung Thma|KH||78|tn|80c|1w
+Andora|IT||9o|3e4|mm|1w
+Andreotta|IT||9o|317|192|1w
+Andzhiyevskiy|RU||9i|3ew|3bp|1w|Anciyevskiy
+Andres Bonifacio|PH||71|uc|9id|1t
+Andoung Trabaek|KH||78|w6|85t|1n
+Andi|RU||9i|3au|3ki|1h
+Andreyevo|RU||9i|4bf|36b|1g
+Anderstorp|SE|Jönköping|9w|4f4|11v|1f
+Anderstorp|SE|Västra Götaland|9w|4jk|13o|1e
+Andaeuk Haeb|KH||78|zq|7y1|1d
+Andrieşeni|RO||8u|3o1|23s|19
+Andili|PH||71|kq|9px|18
+Andoung Pou|KH||78|y4|840|15
+Macduff|GB||9b|4g7|-6y|14|An Dùn;Dùn MhicDhuibh
+Andros|GR||8p|2x4|1xa|13|Chóra
+Andrespol|PL||a5|3zp|1ik|12
+Andravída|GR||8p|2xb|1n3|12|Andrvida;Andravídha
+Altunhisar|TR||94|2xj|2nh|11|Anduğu;Ortaköy;Altınhisar
+Andrano|IT||9o|333|1f2|x
+Anduze|FR||9k|3ee|b2|x|Andusa
+Andechs|DE||8r|3p9|v2|w
+Anda|PH||71|199|997|w
+Andeville|FR||9k|3su|60|v
+Andé|CI|Lagunes District|0|gs|-az|v
+Andorno Cacciorna|IT||9o|3ip|me|u|Andorno Micca
+Andelst|NL||8m|407|fx|u
+Andrews Air Force Base|US||48|2zt|-5xj|u|Andrews AFB CDP;Andrews AFB Census Designated Place
+Andrews|US|South Carolina|48|2kx|-650|t
+Andorf|AT||a2|3qd|11p|t
+Andriyivka|UA|Zaporizhzhia|98|3mt|2tn|s|Andriïvka
+Andosilla|ES||9d|39q|-4n|r
+Andenes|NO||9j|5cj|18s|r
+Duns|GB||9b|4ay|-6j|r|Na Dùintean;An Dún
+Andalan|PH||71|gk|9d7|q
+Andacollo|AR||1s|-2va|-5gb|q
+Andrid|RO||8u|3o0|1q3|q
+Andorra|US||48|33b|-5sz|q
+Andriyivka|UA|Donetsk|98|3nu|2wm|q|Andriivka;Andreyevka
+Anadoluhisarı|TR||94|365|28r|q|Anadolu Hissarı;Andoluhisaru
+Andornaktálya|HU||8v|3ox|1kq|q
+Antirrio|GR||8p|2yh|1og|q|Andirrio;Antirion;Andírio;Antirio;Antirrhium;Antirhion;Andírrion
+Andou Mbatto|CI||0|f0|-a6|q|Andou Mbato
+Andelsbuch|AT||a2|3np|rh|q
+Andel|NL||8m|3zu|e2|p
+Andersons Bay|NZ||ak|-3ji|d5p|p
+Andros Town|BS||47|1wn|-601|p
+Åndalsnes|NO||9j|4tt|ld|o|Anbalsnes
+Andard|FR||9k|3nu|-14|n
+Andarāb|IR||7o|2x9|3o0|n
+Andau|AT||a2|3op|1bb|n|Mosontarcsa
+Andrăşeşti|RO||8u|3ft|23d|n
+Andover|US|New Hampshire|48|3co|-5ji|m
+Andouillé|FR||9k|3pu|-26|m|Andoliacum
+Andaç|TR||94|2vs|3c6|m
+Andilly|FR|Île-de-France|9k|3s5|6e|l
+Les Touches|FR||9k|3ns|-3z|l|An Dosenneg;Tuschiis
+Andolsheim|FR||9k|3pi|km|l
+Dingle|IE||8z|40u|-sj|l|An Daingean;Dinglis;Yn Dein;Daingean Uí Chuis
+Andra|RU||7z|4tn|531|k
+Andreiaşu de Jos|RO||8u|3j3|22j|k|Andrieşu-de-Jos
+Anderson|US|Missouri|2f|2tt|-7ac|k
+Anderslöv|SE||9w|4a0|110|k
+Andrezé|FR||9k|3n1|-2n|j
+Andalen|SE||9w|4ga|wo|j
+Andilly|FR|New Aquitaine|9k|3kh|-2v|i
+Handréma|YT||ah|-z8|3ha|i|Andréma
+Andrei Șaguna|RO||8u|3kl|1nf|i
+Andanía|GR||8p|2vj|1p2|i|Andhanía
+Andlau|FR||9k|3qf|km|i|Àndlöi
+Androúsa|GR||8p|2v3|1oy|i|Andrusa
+Andovce|SK||8s|3pb|1eb|i
+Doune|GB||9b|4c3|-b9|i|An Dún
+Andrews|US|North Carolina|48|2ps|-6gu|i
+Andrijaševci|HR||a6|3hm|1g2|h
+Andezeno|IT||9o|3h3|lv|h|Andzen
+Andwil|CH||a7|3ns|pr|h
+Andriyevo-Ivanivka|UA||98|3ny|2cm|h|Andriïévo-Ivanivka
+Andoung Tuek|KH||78|v2|7ze|h|Andaung Tuk;Andong Tuk
+La Trinité-sur-Mer|FR||9k|3o7|-8f|g|An Drinded-Karnag;Trinité-sur-Mer
+Le Drennec|FR||9k|3qt|-c5|g|An Dreneg;Drennec
+Andarvar|IR||7o|2tm|3zp|g
+Amden|CH||a7|3mz|pe|g|Andimus
+Antikyra|GR||8p|2ym|1qv|f|Andikíra
+Anadolukavağı|TR||94|36d|28t|f|Anatoli Kavağı;Anadolu Kavak;Andolukavagi
+Ando-Zumé|CI||0|k7|-ev|f
+Andriyivka|UA|Sevastopol City|9t|3gi|2l8|f|Andriivka
+Andres|FR||9k|3xb|5c|f
+Andrup|DK||8y|4a6|nq|f
+Andobo|CI||0|kk|-eq|f
+Andoufoué|CI||0|ki|-ek|f|Andofoué
+Andretta-Mattinella|IT||9o|35q|16k|e|Andretta
+Andrivka|UA||98|3ma|2tp|e|Androvka
+Andelfingen|CH||a7|3o7|o4|d
+Sukhanivka|UA|Donetsk|98|3rm|2wb|d|Andriyivka;Andriivka;Andreyevka
+Andabīl|IR||7o|2wj|3qv|d
+Andrest|FR||9k|3cc|6|d
+Andermatt|CH||a7|3lk|nv|d|Ursera;Orsera
+Andelnans|FR||9k|3o8|j3|d
+Andancette|FR||9k|3hp|dd|c
+Andriivka|UA|Odesa|98|3ke|2bk|c|Andreeni;Andriyivka;Edmonton;Andrejewka;Andreyevka;Andreyen’
+Andocs|HU||8v|3ll|1dt|c
+Andalusia|US|Illinois|2f|374|-700|c
+Andokro|CI||0|lk|-e0|c|Ndokro
+Ardrossan|AU||8b|-2nm|an4|c|Androssan
+Andianou|CI||0|ji|-cf|b
+André da Rocha|BR||4w|-27j|-3z9|b
+Andrews|US|Indiana|38|35i|-6ls|b
+Andover|US|Ohio|48|37l|-67t|b
+Tornado|US||48|2yi|-6bc|b|Andrews Heights;Big Bend;Upper Falls of Coal;Upper Falls;Upper Falls of Coal River
+Andrijevica|ME||9l|3ap|1iz|b|Andrijevitsa
+Andrés Quintana Roo|MX||41|1d7|-76d|b
+Andriyivka|UA|Donetsk|98|3r2|2vl|a|Andriivka;Andreyevka
+Andé|FR||9k|3sr|3g|a
+Andance|FR||9k|3ho|dc|a|Andança
+Andover|US|New York|48|394|-604|a
+Andalo|IT||9o|3k9|uk|a
+Antiesenhofen|AT||a2|3qa|118|a|Andiesenhofen
+Andale|US||2f|2wz|-7j7|a
+Andelot-Blancheville|FR||9k|3q1|eq|a
+Andreești|RO||8u|3gf|1tf|a
+Andel|FR||9k|3qp|-74|a
+Andabamba|PE|Huancavelica|3o|-za|-5ra|9
+Anderlingen|DE||8r|449|pu|9
+Andreuzza|IT||9o|38p|z8|9
+Andriano|IT||9o|3l8|v7|9
+Andrzejewo|PL||a5|42r|1po|9
+Andover|US|Maine|48|3g0|-5gj|9
+Andrate-Molinetto|IT||9o|3j2|p8|9
+Andrusovo|UA||9t|3gp|2my|9
+Antifílippoi|GR||8p|35r|1v9|9|Andifílippoi
+Andabamba|PE|Huánuco Department|3o|-rt|-5vs|9
+La Trinité-Porhoët|FR||9k|3pm|-73|9|An Drinded-Porc'hoed
+Andraševec|HR||a6|3jr|18a|8|Andraševac
+Andromáchi|GR||8p|33v|1qg|8
+Andraž nad Polzelo|SI||9a|3kp|15x|8
+Ántissa|GR||8p|30z|206|8|Ándissa
+Andeer|CH||a7|3lg|q7|8|Lapidaria
+Andrews|US|Florida|48|2a1|-6e8|8
+Andrítsaina|GR||8p|2w4|1ov|8|Andritsaena;Andhrítsaina
+Andriievychi|UA||98|3wx|25h|8|Andriyevychi;Andreyevichi;Andrejowicze;Andrzejowicze;Andrievîci;Andriievytchi;Andrijewytschi
+Andocutín|MX||41|1jg|-7s7|8
+Andersonville|US||48|31j|-6el|8
+Andali|IT||9o|30d|1al|8
+Andselv|NO||9j|5bv|1fg|7
+Saint-Sauveur|FR|Brittany|9k|3ql|-b5|7|An Dre-Nevez
+Andreyevka|RU|Primorye|7w|3ah|a49|7|Andrejevka
+Ando-Dougba|CI||0|k7|-eu|7
+Andilly|FR|Auvergne-Rhône-Alpes|9k|3jy|gv|7
+Andriyivka-Klevtsove|UA||98|3ph|2tn|7|Iskra;Andriyivka;Andriivka;Andriivka-Klevtsove;Andreyevka
+Ando Blékro|CI||0|k7|-et|6
+Auderath|DE||8r|3ve|jg|6|Anderath
+Andajes|PE||3o|-tz|-5xn|6
+Andreyevka|KZ||5s|47g|59o|6|Andreevka
+Amderma|RU||9i|5ds|4rb|6|Amdierma;Anderma
+Andisleben|DE||8r|3xw|ud|6
+La Trinité-Surzur|FR||9k|3o8|-77|6|An Drinded-Surzhur
+Andriivka|UA|Poltava|98|3tn|2n5|6|Andriyivka;Andreyevka
+Antróni|GR||8p|2x0|1oc|6|Andhróni
+Andover|US|New Jersey|48|35v|-5rm|6
+Andriivka|UA|Poltava|98|3t5|2ow|6|Andreyevka;Andriyivka
+Andriivka|UA|Poltava|98|3sn|2o3|6|Andriyivka;Andreyevka
+Andover|US|Illinois|2f|36p|-6yt|6
+Andoins|FR||9k|3ca|-n|6|Andonsh
+Andelot-en-Montagne|FR||9k|3m5|gh|6
+Andoversford|GB||9b|403|-5h|6
+Andalo Valtellino|IT||9o|3k6|qb|6
+Andouillé-Neuville|FR||9k|3q5|-4f|5|Andolieg-Kernevez
+Andas|PE||3o|-wb|-5sn|5
+Andriiashivka|UA||98|3p4|2ai|5|Andriyashivka;Andriyashevka
+Ando-Simbo|CI||0|k7|-ev|5

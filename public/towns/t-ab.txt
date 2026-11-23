@@ -1,0 +1,554 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Abidjan|CI||0|ev|-b4|1cru|Abiyán;Abidžanas;Abidżan;Abidžana;Abican;Abiĝano;Abidžans;Abijan
+Addis Ababa|ET||2|p2|2zn|ts8|Ādīs Ābeba;Adis-Abebo;Addis Abeba;Addis-Abeba;Addisz-Abeba;Neanthopolis;Adisabeba;Adis Ababa;Tungga;Addisaaba;Addis Abbaba
+Abuja|NG||u|p6|ku|kr8|Abuĝo;Abudža;Abuya;Abouja;Abuca;Abugia;Abodža;Abudž
+Abu Dhabi|AE||6c|1vx|474|dxy|Abu Dabi;Abú Zabí;Abu-Dabio;Abou Dabi;Abu Dabis;Äbu Saby;Aboe Dhabi;Abû Daby;Abu-Dzabi;Abú Daibí;Ebu Dhabi;Abu-Dabi;Ebu Dabi;Â-pu-tha̍t-pí;Abū Z̧aby;Abū Z̧abyo;Abū Z̧abye
+Abobo|CI||0|f2|-b6|ac9
+Aba|NG||u|e7|kh|8y8
+Abū Ghurayb|IQ||5z|2kj|3eq|6y0|Abu Ghraib;Abu Ghuraib;Abou Ghraib
+Abeokuta|NG||u|jw|9b|5o6
+Abomey-Calavi|BJ||1b|hx|6k|2z6|Abomei Kalavis;Abomei Kalavi;Abome Calavi
+Abū al-Kahṣīb|IQ||5z|2ck|3p0|2re
+Bandar Abbas|IR||7o|23j|4cc|2pu|Cambarão;Port Comorão;Gombroon;Gumrun;Bandar-e Abbas;Bandar Abas;Bandar-Abbász;Bender Ebbas;Bandare Abasas;Bender Abbas;Bandar-Abbas;Bandar-e ‘Abbās;Bandar ‘Abbāsī;Bandar ‘Abbās
+Swansea|GB||9b|3ze|-ay|2bg|Abertawe;Svonsis;Suonsi;Svonsio
+Abbottabad|PK||6q|2mv|5nd|24n
+Plymouth|GB||9b|3vx|-bi|20a|Plimuto;Aberplymm;Pliémue;Plimut;Plimutas;Plimuta;Sūþtun on Defnum;Plimowt;Plimmuta
+Abadan|IR|Khuzestan|7o|2ca|3q6|1sb|Obodon
+Abha|SA||7e|1em|3a3|1ml|Abh;Ebha
+Sidi Bel Abbes|DZ||3|2pr|-1r|1md|Sidi-Bel-Abbès;Sidi Bu-l-Abbas;Sidi Bilabbas;Sidi bel Abesas;Sidi Belabbas;Sidi Bel Abbas;Sidi-Bal-Abbès;Sid Bel Abbès
+Turku|FI||92|4nx|1pv|1lf|Åbo;Turu;Túrcú;Aboa
+Aberdeen|GB||9b|4eq|-5u|1j6|Aiberdeen;Devanha;Obar Dheathain;Aberdonia;Aberdin;Aberdon;Aberdīna;Aberdynas;Aberdīns;Â-pak-tên;Aberdino
+Abakan|RU||6u|458|71z|1f6
+Bushehr|IR||7o|28h|3x8|19y|Bushire;Buschehr;Būšehr;Antiócheia tês Persídos;Boxar;Antiocheia in Persis;Abu Shehr;Bouchehr;Abuschehr;Buschir;Abu Shahr
+Abaetetuba|BR||23|-4s|-3rs|17y
+Aberdeen|HK||6i|1pt|8t3|17q
+Abū Kabīr|EG||c|2dd|2fz|16x|Abu Kebîr;Abū Kibīr
+Abohar|IN||6t|2bq|5q4|14d
+Abbotsford|CA||5b|3sa|-9fl|13a|Abotsfordas
+Abéché|TD||17|12f|1lv|12w|Abešė
+Abakaliki|NG||u|hk|mj|119
+Abiko|JP||7q|2rn|asy|10m
+Abengourou|CI||0|ip|-9q|10c|Abenguru
+Abilene|US|Texas|2f|2i5|-7p1|ys|Abilenas;Abilīna
+Cabudwaaq|SO||2|hd|3ke|xc|Cabuud Waaq;Caabudwaaq;Abudwaq;Abudwaaq
+Abomey|BJ||1b|jy|5j|wq|Abomei;Palácios Reais de Abomei;Abome
+Abnūb|EG||c|23r|2ej|v2
+Gabès|TN||1e|2m4|s2|ul|Kabis;Qabes;Abes;Qābis;Gābis
+Abu Gharaq|IQ||5z|2id|3f6|u2|Abī Gharaq
+Abū Tīj|EG||c|235|2f0|ta|Abu Tîg;Abu Tik
+Abreu e Lima|BR||4p|-lz|-2oy|sy
+Abū Qurqāş|EG||c|25l|2do|p3|Abu Gurgas;Abu-Qirqas
+New Plymouth|NZ||ak|-30j|dfk|p1|Nueva Plymouth;Aberplymm Nowydh;Naujasis Plimutas;Nieu-Plymouth;Ngāmotu
+Abū an Numrus|EG||c|2b7|2eo|o2|Abu en Numrus;Abu el-Numrus
+Abancay|PE||3o|-11v|-5mg|k3|Abancaius;Abankay;Awankay;Abankajus;Abancai
+Abhar|IR||7o|2sf|3sq|jf|Abkhar
+Abū ‘Arīsh|SA||7e|1b5|3az|jc|Abī ‘Arīsh;Abu al ‘Arish
+Aschaffenburg|DE||8r|3uu|pf|j2|Aschaffenbourg;Ašafenburga;A-Burg;Auscheffenburg
+Abū al Maţāmīr|EG||c|2dv|2bt|il|Abu el Matāmīr
+Abepura|ID||6m|-78|aun|ha
+Abū Ḩummuş|EG||c|2ed|2c7|h2|Abu Humus;Abu Ḥuminuṣ
+Ābyek|IR|Qazvin Province|7o|2s4|3wd|gp
+Aboisso|CI||0|f7|-8x|gg|Aboisas;Abisso;Aboissa
+Abadeh|IR|Fars|7o|2ek|429|gf
+Ābādeh|IR|Fars|7o|283|43p|gf
+Ávila|ES||9d|34y|-d2|g1|Avilo;Abila;Obila;Abela;Abula;Avela
+Ālbū Kamāl|SY||69|2np|35o|g0|Abu Kemāl;Al-bu-Kamal;Abū Kamāl;Al-Bukamal
+Ābu Road|IN||6t|1w0|5m6|fg
+Abington|US|Pennsylvania|48|33g|-5so|fd
+Ābyek|IR|Markazi|7o|2s7|3wf|fb
+Abovyan|AM|Kotayk|80|33v|3fz|e2|Elar;Abowjan;Abowyan;Abovjan;Abovian;Abovianas;Abowian
+Avellino|IT||9o|35n|153|dd|Abellinum
+Abu Jibeha|SD||r|vu|2er|d4
+Abū Ḩammād|EG||c|2cu|2g0|by
+Bhātpāra Abhaynagar|BD||6a|1rx|6wg|bv|Abhaynagar
+Abdu Rahiman Nagar|IN||6t|ur|5uy|bo
+Abadan|TM||5x|2xp|4ho|az
+Abingdon|GB||9b|3zj|-3k|ar|Æbbandūn;Abindonia
+Abū Qīr|EG||c|2ez|2bi|ak|Abu Kir;Abukir;Aboukir;Battaja de Abukir;Abu Kiras;Abokir;Abou Kir
+Abashiri|JP||7q|3ea|b4r|9y|Abaşiri;Abaširis;Abasiri-chhī
+Abucay|PH|Central Luzon|71|14x|9at|9v
+Abay|KZ|Karaganda|5s|3tw|5mf|9v
+Abinsk|RU||9i|3gn|2y0|9n
+Ābīy Ādī|ET||2|11o|309|9i|Aby Adi;Abi-Adi
+Abbiategrasso|IT||9o|3i4|os|94|Albiatum
+Abu Suweir-el-Mahatta|EG||c|2cx|2h7|94
+Falmouth|GB||9b|3vb|-e3|8w|Aberfala;Aberfal;Falmuthum;Falmuto
+Abrantes|ES||9d|346|-ad|8t
+Aberdare|GB||9b|3zn|-9l|8n|Aberdâr;Aberderas
+Abomsa|ET||2|rq|332|8g|Abonsa
+Abalak|NE||18|16x|hg|88
+Abqaiq|SA||7e|201|3tz|87|Abkaik;Abkaikas;Abqayq;Abkayk;Buqayq;Bukajk;Bukayk;Abaqaiq;Abqaik
+Aberdeen|US|South Dakota|2f|3ia|-7ll|7t
+Abarkūh|IR||7o|2eh|440|7n|Abarqūh;Abarkū
+Abasolo|MX|Guanajuato|41|1kt|-7u1|7m
+Abbeville|FR||9k|3v7|54|7d|Abbatis Villa;Advile;Abvilis;Abeville
+Abala|ET||2|13j|2us|71
+Ābu|IN||6t|1wb|5m0|6y
+Ābderafī|ET||2|125|2t9|6t|Abder Rafi;Abderraft
+Abong Mbang|CM||j|b2|10m|6s
+Abim|UG||q|7i|2lk|6s
+Abay|KZ|Turkistan|5s|36v|5bj|6o
+Abou el Hassan|DZ||3|2t6|3c|6o|Abou el Hassen
+Ābdānān|IR||7o|2jn|3nq|6n|Awdanan
+Abū Zabad|SD||r|yb|299|6h
+Abaeté|BR||4w|-1h8|-3i9|6b
+Abdulino|RU||7z|455|452|5w|Abdoulino;Abdulinas;Abduļina
+Abrama|IN||6t|1ly|5mj|5u
+Çermik|TR||94|2xy|31l|5u|Vagharshakupolis;Abarne;Çêrmûg;Çemik
+Aboisso Comoé|CI||0|fy|-9g|5r
+Abaré|BR||20|-o8|-30n|5n|Apare
+Abba|CF||6|et|163|5k|Aba;Aboa
+Abrīsham|IR||7o|2ig|3z9|5k
+Abyei|SD||r|qo|26z|5k|Abiyé;Abyey;Abjej;Ab’ey
+Abadia de Goiás|BR||4w|-1ak|-3tc|5b
+Abuko|GM||7|118|-1aa|5a
+Āb Pakhsh|IR||7o|29k|3xv|59
+Aberystwyth|GB||9b|41m|-bc|57|Aberistvitas
+Aburi|GH||1|g9|-h|54
+Abano Terme|IT||9o|3i0|wr|52|Abano
+Abū Ţisht|EG||c|20k|2h6|52
+‘Abasān al Kabīrah|PS||6f|2f0|2ne|52|Abasān al Kabīr;Abasan al-Kabera;Abasan alkabir
+Abaza|RU||6u|429|6y9|51|Abasa;Abaz
+Abū Hayl|AE||6c|1y8|49p|50|Abu Hail
+Abbey Wood|GB||9b|3z1|b|4x
+Abejorral|CO||27|g3|-5tj|4w
+Abelardo Luz|BR||4w|-21s|-41d|4u
+Abreus|CU||36|1pw|-67t|4n|Abreu
+Aabenraa|DK||8y|48w|q6|4k|Apenrade;Åbenrå;Aabenrå;Obenro;Åbrenrå
+Abony|HU||8v|3n3|1jk|4j|Wabing
+Aberdeen|US|Washington|3p|3mi|-9jy|4j|Abardeen;Aberdin;Aberdynas;Aberdīna
+Abington|US|Massachusetts|48|38y|-5h3|4g
+Abhayāpuri|IN||6t|214|6zx|4e
+Abuyog|PH|Eastern Visayas|71|tv|9n9|4c
+Aboka|CI||0|i6|-iy|4c
+Füssen|DE||8r|3o5|tq|4c|Abdiacum;Fiusenas;Fiassa
+Aberdeen|US|Maryland|48|31r|-5vk|4c|Abardeen
+Abakumova|UA||98|3pc|2wg|46
+Abala|NE||18|15i|9j|46
+Abide|TR||94|32c|3bl|46
+Aubange|BE||8t|3tp|g4|45|Åbindje;Éibeng
+Aboudé|CI||0|ge|-co|44|Abude
+Abū Sinān|IL||6n|2jk|2pp|41|Abu Snan;Ebu Sinan;Abu-Senan;Abu Senan
+Abhanpur|IN||6t|1mh|6b2|40
+Abū Zayyān|LY||1d|2h6|102|3z|Abū Ziyyān;Bū Zayyān
+Abre Campo|BR||4w|-1ke|-3a0|3v
+Abergavenny|GB||9b|3zy|-8e|3t|Y Fenni;Gobannium;Abergavenis
+Abrantes|PT||99|31n|-ms|3s|Abrantish
+Milford Haven|GB||9b|3zn|-dz|3s|Aberdaugleddau;Milford Heivenas
+Abalak|RU||7z|4hh|5aj|3s
+Abadla|DZ||3|2e6|-7k|3r
+Abongoua|CI|Comoé District|0|ih|-be|3r
+'Abās Ābād|IR||7o|2u1|3xz|3r|Abbasabad
+Abbey Road|GB||9b|3z5|-i|3m
+Abarán|ES||9d|2y5|-3w|3m|Albaran
+Abensberg|DE||8r|3rm|wx|3i|Omschberg;Abensberq;Aventinum;Abensperg
+Fraserburgh|GB||9b|4g9|-5m|3i|Freizerburgas;A' Bhruaich;A Bhruaich;The Broch;Faithlie;Frazerburgh
+Abak|NG||u|du|ln|3i
+Bad Abbach|DE||8r|3ry|xg|3h|Abbach;Abacum;Abach
+Aberdeen|CA||5b|3wp|-9ad|3g
+Abbeville|US|Louisiana|2f|2b9|-73x|3g
+Jabicunda|GW||8|y8|-14f|3g|Diabi Cunda;Âbikunda
+Abdul Khel|PK||6q|2i0|5gz|3c
+Abrera|ES||9d|37c|5a|3a
+Abū Dīs|PS||6g|2g8|2py|3a
+Abergele|GB||9b|440|-9y|35
+Mountain Ash|GB||9b|3zk|-9e|34|Aberpennar
+Abertillery|GB||9b|3zp|-8p|31|Abertyleri;Abertileris
+Abongoua|CI|Lagunes District|0|hd|-9u|31|Abengoua
+Abrego|CO||27|mg|-5ne|30
+Aberfoyle Park|AU||8b|-2pg|aoz|30
+Abou Déïa|TD||17|vt|1hk|2z|Abu Deïa;Aboudela;Abou Dem
+Āb Sard|IR||7o|2qy|40v|2y|Ābsard
+Abdel Begrou|ML||19|172|-jb|2y|Abdel Bagrou
+Abbots Langley|GB||9b|3zn|-16|2x
+Abbaspur|IN||6q|2ly|5pi|2u
+Abercarn|GB||9b|3zh|-8p|2t|Aberkarnas;Aber-carn;Aberearne
+Aberkenfig|GB||9b|3z6|-a0|2t
+Abram|GB||9b|44n|-77|2t
+Abaiara|BR||2w|-kg|-30h|2s
+Abdurahmoni Jomí|TJ||6d|2xf|5b5|2r
+Aban|RU||6u|4dg|7ev|2p|Alban
+Abra Pampa|AR||1o|-1r4|-52i|2m
+Abraveses|PT||99|350|-m0|2l
+Abdi|TD||17|zk|1n6|2k
+Abū Ghaush|IL||6n|2gd|2pj|2g|Abu Ghosh;Abu-Ghawsh
+Aboso|GH||1|ew|-5f|2g|Abosso
+Avallon|FR||9k|3nx|av|2f|Aballo
+Aberdeen|ZA||o|-2i8|1uv|2e
+Aberdeen Centre|HK||6i|1pt|8t3|2c
+Abira|JP||7q|3ay|axz|2b
+Absecon|US||48|31j|-5qy|2b|Absecom
+Brecon|GB||9b|40b|-9f|2b|Brecknock;Brycheiniog;Aberhonddu
+Abatskoye|RU||7z|4cd|5fp|2a|Abatskiy
+Abirāmam|IN||6t|q8|61w|29
+Abingdon|US|Virginia|48|2tz|-6bq|29
+Ābbar|IR||7o|2ul|3s0|29
+Abbotsford|AU|Victoria|8j|-2x0|b6s|29
+Abaamang|GQ||10|4o|tj|25
+Abtsgmünd|DE||8r|3ru|rs|22|Abtsgmuend
+Ābādeh Ţashk|IR||7o|2at|459|22|Abadeteşk;Abadetaşk;Ābādeh-i-Tashk;Ābādeh Toshk;Ābādeh-ye Ţashk
+Aberdeen|US|North Carolina|48|2pl|-64n|21
+Abaíra|BR||20|-10t|-37q|21
+Abatiá|BR||4w|-1sq|-3vr|20
+Abradine|CI||0|h8|-a1|1z
+Absam|AT||a2|3ne|vz|1z
+Abadiânia|BR||4w|-190|-3rb|1z
+Abraka|NG||u|g3|gy|1x
+Abcoude|NL||8m|417|dt|1x|Abkoude
+Åby|SE||9w|4iz|18y|1x
+Abronambué|CI||0|is|-9a|1w|Abrounamoué;Abrunamue
+Mazāri‘ al ‘Abdalī|KW||6x|2bg|3ok|1w|Al ‘Abdalī Farms;Abdali
+Ābdān|IR||7o|260|3zt|1w|Au Dan;Ābdūn
+Abocho|NG||u|l1|jf|1w
+Pont-l'Abbé|FR||9k|3oz|-bq|1w|Pont-'n-Abad;Abbatis pons
+Pytalovo|RU||9i|4ej|25k|1w|Pytalowo;Pitalovo;Põtalovo;Pitalova;Abrene;Pytalovas;Pyatalovo
+Abilene|US|Kansas|2f|304|-7i1|1u
+Abagur|RU||74|459|6qd|1t
+Ābī Beyglū|IR||7o|2yc|3qv|1t|Āb-e Beyglū;Ābeyglū;Ābībeglū
+Abanilla|ES||9d|2y5|-2w|1t|Favanella;Fabaniella;Albanilla
+Abertridwr|GB||9b|3zc|-93|1t
+Abbadia San Salvatore|IT||9o|3b4|wf|1s|Abbadia San Salvadore
+Åbybro|DK||8y|4es|r1|1r
+Abié|CI||0|gb|-ax|1r|Abbié
+Abadia dos Dourados|BR||4w|-1fd|-3no|1r|Abbadia dos Dourados
+Aparan|AM||80|34r|3f8|1q|Abaran
+Abel Figueiredo|BR||23|-dr|-3qf|1p
+Abrud|RO||8u|3kj|1s2|1p
+Abasolo|MX|Tamaulipas|44|1uu|-7l9|1o
+‘Abasān al Jadīdah|PS||6f|2f2|2nf|1o
+Abercynon|GB||9b|3zh|-99|1o|Aberoynon
+Abbeydale|CA||2s|3xu|-8sh|1n
+Ablon-sur-Seine|FR||9k|3rd|6r|1n
+Opatija|HR||a6|3hy|13r|1l|Abbázia;Opatijo
+‘Abdolābād|IR|Razavi Khorasan|7o|2pf|4jc|1k|Abdowlabād
+Abū Ḩomeyz̧eh|IR||7o|2fl|3py|1j|Abr Ḩomeyţeh
+Abenberg|DE||8r|3ss|ug|1j|Abenberq
+Abegondo|ES||9d|3c2|-n0|1j
+Aberdeen|US|Mississippi|2f|2lz|-6ty|1i
+Abbotsford|AU|New South Wales|8l|-2m1|bnt|1h
+Aberglasslyn|AU||8l|-2iu|box|1h
+Cardigan|GB||9b|40o|-cy|1h|Aberteifi;Ceretica
+Above Rocks|JM||3i|1eb|-5xk|1h
+Abbeville|US|South Carolina|48|2my|-6cu|1g
+‘Abbāsābād-e Sardār|IR||7o|27o|4k4|1f
+Abéanou|CI||0|jd|-br|1f
+Abercanaid|GB||9b|3zo|-9d|1f
+Abu Simbel|EG||c|1q3|2fu|1e|Abou Simbel;Abu Sinbil;Abu Simbil;Abu Sumbul
+Qasr Abu Hadi|LY||1d|2ea|1aa|1d|Abu Hadi;Qasr Abou Hadi;Kasr Abu Hadi
+Abingdon|US|Maryland|48|31m|-5vw|1c
+Aborlan|PH||71|q7|95b|1c
+Jabłonka|PL|Lesser Poland|a5|3tg|1ip|1c|Âblonka
+Abadjin-Kouté|CI||0|et|-bj|1a|Abadji Kouté
+Aba|HU||8v|3mn|1fg|1a
+Abaga|PH||71|m2|9jt|19|Abaya
+Abbotsdale|ZA||o|-2l1|1fw|19
+Abstatt|DE||8r|3sb|pt|19
+Abuyon|PH||71|11u|9gc|17
+Aby|CI||0|er|-8t|17|Abi
+Aversa|IN||6t|14x|5qe|17|Abersa
+Abbotsbury|AU||8l|-2m3|bn2|17
+Abū Mūsá|AE||6c|1zv|48u|16
+Abscon|FR||9k|3vt|96|16
+Abádszalók|HU||8v|3nv|1l8|16
+Abasha|GE||7n|398|398|15|Abacha;Abascha
+Abadzekhskaya|RU||9i|3fb|33q|14|Abadzekhskaja;Abadsechskaja;Abadzechskaja;Abadzéjskaya;Abadzehskaya;Abadzékhskaia
+Abbadia Alpina|IT||9o|3gp|kb|14
+Abana|TR||94|38m|2mh|14|Apana
+Aberfeldie|AU||8j|-2ww|b6i|13
+Shahrabad|IR|Bushehr|7o|28m|3yd|12|Ābād
+Abasolo del Valle|MX||41|1de|-7df|11
+Abzakovo|RU||7z|45j|4ir|10|Abzakova
+Aberdeen|US|Massachusetts|48|39m|-5hn|10
+Aberfan|GB||9b|3zl|-9a|z|Aberfam
+Abolikro|CI||0|lc|-et|z
+A Baña|ES||9d|3bc|-oc|z|San Vicenzo
+Fishguard|GB||9b|40f|-du|y|Abergwaun
+Abrigada|PT||99|30q|-p2|y
+Abé|CI|Lagunes District|0|fq|-b3|y|Abbe
+Abramovka|RU||9i|3y7|35y|y|Abramowka
+Abuyog|PH|Bicol Region|71|zz|9kl|y
+Abu|JP||7q|2nu|a57|y
+Abram|RO||8u|3ng|1q6|x
+Abradinou|CI||0|h8|-9l|x|Abradine
+Yablanitsa|BG||9v|3bj|1uy|w|Ablanitsa
+Abadín|ES||9d|3ch|-ks|w
+Abasár|HU||8v|3os|1jk|w
+Abingdon|US|Illinois|2f|35c|-6z4|w|Abinqdon
+Abaújszántó|HU||8v|3q4|1mw|v
+Abtar|IR||7o|23n|4p4|v|Āytār;Aftar;Aptar
+‘Abdol Khān-e Pā'īn|IR||7o|2gj|3qa|v
+Abaí|PY||1y|-20c|-4bf|u|Abay
+Abrau-Dyurso|RU||9i|3g6|2wg|u|Abrau-Djurso
+Abda|HU||8v|3oh|1cq|u
+Abra de Ilog|PH||71|11c|9bd|u
+‘Abbāsābād-e Farāmūshān|IR||7o|2pe|4l7|u
+Abrămuţ|RO||8u|3ng|1pt|u
+Abasolo|MX|Chiapas|41|1aq|-746|t
+Abucay|PH|Bicol Region|71|102|9jh|t
+Ablis|FR||9k|3qs|54|s
+Abbeville|US|Georgia|48|2gv|-6ff|s
+Abigui|CI||0|il|-df|s
+Ābādān|IR|Sistan and Baluchestan|7o|23x|4or|s
+Āb‘alī|IR||7o|2rc|40d|s|Abali
+Abbasanta|IT||9o|33h|oi|r
+Abévé|CI||0|gf|-d6|r
+Abernathy|US||2f|2lz|-7uw|r
+Abīsh Aḩmad|IR||7o|30g|3ng|r|Ābesh Aḩmad
+‘Abbāsā|IR||7o|2tj|40f|r
+Eboko|CI||0|eb|-8l|r|Aboko;Eboco
+Obodroupa|CI||0|gs|-g4|r|Abodioupa
+Aberdeen|US|Florida|48|21r|-66n|r
+Abreulândia|BR||1k|-qq|-3sj|r
+Aboyne|GB||9b|4ek|-7q|r|Abéidh;Abyne;Aboine
+Abbeville|US|Alabama|2f|2fp|-6kt|q|Abbieville
+Abbadia Lariana|IT||9o|3ji|py|q
+Abis|PH||71|r0|9hi|q
+Abū ol Verdī|IR||7o|2by|43o|q|Abū ol Vardī
+Abdon Batista|BR||4w|-24p|-3xq|q
+Abdipaşa|TR||94|37c|2ig|q|Şeyhler
+Abala|CG||a|-9c|170|q
+Barmouth|GB||9b|42g|-ba|p|Abermaw;Bermo;Barmutas
+Abrest|FR||9k|3k2|9k|p|Abrèt
+Abita Springs|US||2f|2co|-6y4|p|Abeta Springs
+Abiéhou|CI||0|ff|-cl|p
+Abaca|PH|Central Visayas|71|rk|9lv|p
+Abiati|CI||0|ep|-8t|p
+Abapó Viejo|BO||3n|-1gh|-4w2|o
+Aberdare|AU||8l|-2j8|boi|o
+Abulug|PH||71|1f9|9dd|o|Abulog
+River John|CA||35|3j3|-4v5|o|Abhainn Eòin
+Abiera|PH||71|w5|9f5|o
+Abut|PH||71|1c7|9ds|o
+Laçın|AZ||61|324|3lb|n|Abdallar;Lachin;Latchine;Berdzor
+Noramarg|AM||80|336|3ff|n|Posëlok Imeni Kalinina;Ablkend;Abilkend;Habilkend;Bulagli
+Abermain|AU||8l|-2j5|bon|n
+Abbotsford|US||2f|3gv|-6yw|n
+Aboutou|CI||0|ei|-9a|m
+Abangay|PH||71|uh|9gp|m
+Abucayan|PH||71|rl|9k7|m
+Abilay|PH||71|tt|9ga|m
+Abaca|PH|Western Visayas|71|ux|9gw|l
+Aboulié|CI||0|f5|-84|l
+Abdenago C. García|MX||2g|2bb|-8ar|l|Lagunitas
+Abbotts Ann|GB||9b|3y7|-49|l|Abbots Ann
+Abata|CI||0|es|-av|l
+Aberdeen Proving Ground|US||48|31n|-5vh|l
+Adiékro|CI|Vallée du Bandama District|0|lo|-eg|l|Abiékro
+Absdorf|AT||a2|3qg|18e|l
+Abbekerk|NL||8m|42h|dy|l
+Abram|US||2f|20s|-7ld|l
+Eboissué|CI||0|iz|-9r|l|Aboissué;Eboassué
+‘Ābūd|PS||6g|2gy|2pf|l
+Āb Bandān Sar|IR||7o|2tj|43j|k
+Abbeyfeale|IE||8z|41i|-pu|k|Mainistir na Féile
+Aberdeen|AU||8l|-2hd|bn5|k
+Abouakro|CI||0|ht|-eb|k
+Abram Mys|RU||9i|5bm|2jq|k
+Abasolo|MX|Nuevo León|44|203|-7qw|k
+Aberfeldy|GB||9b|4da|-ar|k
+Abelardo L. Rodríguez|MX|Morelos|41|1g2|-7mz|j
+Aberdeen|US|Idaho|28|3ba|-8pg|j
+Ābkenār|IR||7o|2w2|3t1|j|Ab-kinar;Āb-i-Kinār
+Avía|GR||8p|2up|1pi|j|Paliochora;Àbia;Palaiokhóra
+Ablain-Saint-Nazaire|FR||9k|3vz|7j|j|Ablain-Saint-Nazart
+Abalá|MX||3z|1ld|-6x4|j
+‘Abbāsābād-e ‘Arab|IR||7o|2tv|4fp|j
+Aberdeen|US|Indiana|2f|374|-6pz|j
+Ābī-ye Soflá|IR||7o|2s3|3r0|j
+Abrakunis|AZ||61|30q|3is|j|Abragunus
+Abadjin-Doumé|CI||0|er|-bj|j|Abaoji-Doume;Abadji Doumé
+Abborrberget|SE||9w|4n3|154|i
+Abondant|FR||9k|3rj|40|i
+Abbottsfield|CA||2s|44t|-8qz|i
+Abbeyleix|IE||8z|42z|-ke|i|Mainistir Laoise;Abileiksas
+Abzac|FR||9k|3h2|-d|h
+Abédéni|CI||0|lc|-ba|h
+Abouakakro|CI||0|hz|-e6|h|Aboikakro
+‘Abbāsābād|IR|Ilam Province|7o|2k0|3nk|h
+Abenójar|ES||9d|300|-c4|h
+Abazivka|UA||98|3ts|2nf|h|Abazovka
+Aberdour|GB||9b|4bp|-96|h|Obar Dobhair;Obar Dhobhair
+Aberporth|GB||9b|40t|-cm|g
+Āb Bārīkī|IR||7o|2l4|3od|g|Āb-e Bārīkī;Āb-ī-Bārīkī
+Ābādeh Ābgarm|IR||7o|28y|42u|g
+Abbaretz|FR||9k|3o3|-49|g|Abarrez;Abbaretiacum
+Abridge|GB||9b|3zh|c|g
+Abrobakro|CI||0|eo|-9r|g
+Aberdeen|US|Ohio|48|2ze|-6go|g
+Abissinka|UA||9t|3i2|2tb|g
+Abdulvehap Küfrevi|TR||94|30z|3b5|g
+Abbazia|IT||9o|3j3|rc|g
+Turun satama|FI||92|4nw|1pq|g|Åbo hamn;Port of Turku;Turku Harbour;Port de Turku;Hafen Turku
+Āb Bārīk|IR||7o|2db|41s|f
+Āb Ţavīl|IR||7o|28u|3y0|f|Abū Ţavīl
+Aberford|GB||9b|45j|-3q|f
+Abondance|FR||9k|3kk|io|f
+Aboukro|CI||0|is|-et|f
+Abla|ES||9d|2v6|-7q|f|Abula
+Abernethy|GB||9b|4ch|-97|f
+Abokouma|CI||0|lf|-8p|f
+Ābrīz|IR||7o|2x9|3m8|f
+Abtsdorf|DE||8r|405|zd|f
+Abtissendorf|AT||a2|3mk|16y|e
+Ābshīneh|IR||7o|2om|3r1|e
+Abrevadero|MX||41|1es|-7ch|e
+Abhaneri|IN||6t|231|5wt|e
+Aberaeron|GB||9b|414|-bu|e|Aberayron
+Abdissenbosch|NL||8m|3xg|gr|e
+Abū Dabos|IR||7o|2et|3r3|e|Abū Dabīs;Abū Dobes;Abū Dobīs;Abū Debs;Abū Rabs
+Aboindoukpinkro|CI||0|k0|-bb|e
+Ābelū|IR||7o|2ts|444|e
+Abdioğlu|TR||94|2uj|2qt|e
+Abū Qashsh|PS||6g|2gr|2pq|e|Abū Qash
+Abrotchi|CI||0|fe|-a3|e
+Abrucena|ES||9d|2v5|-7s|e
+‘Abdollāhābād|IR||7o|2te|40t|e
+Abrud-Sat|RO||8u|3kk|1s2|e
+Abbots Bromley|GB||9b|42q|-58|e
+Abu Al Hasaniya|KW||6x|293|3pn|e
+Abouakouassikro|CI||0|iy|-et|d
+Absberg|DE||8r|3si|u8|d
+Abreschviller|FR||9k|3r4|jq|d|Abreschwiller
+Abcoven|NL||8m|3z5|e4|d
+Abovyan|AM|Ararat|80|339|3fr|d|Verin Agbash
+Abokro-Damé|CI||0|kw|-9c|d
+Ales|IT||9o|32h|oi|d|Abas;Ala
+Abriaquí|CO||27|if|-5va|d
+Abbotskerswell|GB||9b|3wb|-a1|d
+Pliska|BG||9v|3ch|23c|d|Aboba
+Aberchirder|GB||9b|4fw|-7b|d
+Les Abricots|HT||4j|1ft|-5qf|c|Abriko
+Abu Fatira|KW||6x|294|3pm|c
+Abbey|AU||8k|-2li|8w6|c
+Abriola|IT||9o|34j|17x|c
+Ābsard|IR||7o|28h|431|c
+Abasolo|MX|Durango|44|1yb|-82p|c
+Abeilhan|FR||9k|3cp|95|c|Abelhan
+Abatoulilié|CI||0|go|-fl|c
+Abbazia Pisani|IT||9o|3ip|wx|c
+Abbesbüttel|DE||8r|41f|tc|c
+Abtenau|AT||a2|3o4|113|c|Abtenao;Abbtenau
+Abdigör|TR||94|31u|3eg|c
+Aberlady|GB||9b|4bl|-7y|c|Obar Líobhaite
+Abongnikro|CI||0|jz|-cc|c
+Abilly|FR||9k|3md|21|c
+Abwinden|AT||a2|3q2|143|c
+Absarokee|US||2p|3ig|-8g0|c
+Abokouamikro|CI||0|iz|-e2|b
+Abrahám|SK|Trnava Region|8s|3q1|1cy|b
+Abelardo L. Rodríguez|MX|Campeche|3z|1g1|-70i|b
+Abo|TL||6b|-nz|9rl|b
+Abraham|SK|Banská Bystrica Region|8s|3qs|1fq|b
+Jabłonka|PL|Subcarpathia|a5|3u1|1pg|b|Âblonka
+Abercrombie|AU||8l|-2kr|bjf|b
+Ablon|FR||9k|3t7|u|b
+Abrykosivka|UA|Crimea|9t|3hb|2pi|b
+Abja-Paluoja|EE||9x|4hh|1yf|b|Abya-Paluoya;Abja Paluoja;Ab’ya-Paluoya
+Aboumi|GA||v|-1u|13a|b
+Ebra|CI||0|eo|-ae|a|Abra
+Abgharkhuki|GE||7n|3bs|352|a|Abgarkhuk;Abgarkhuki
+Ableiges|FR||9k|3sd|5i|a
+Abbottstown|US||48|32t|-5xu|a
+Abbenes|NL||8m|414|cr|a
+Abejones|MX||41|1cg|-7gd|a
+‘Abd ol Mow’men|IR||7o|2qf|3qb|a
+Abarsenj|IR||7o|2tm|48k|a|Abarsej;Abarsīj;Abarsaj
+Abli Aloukro|CI||0|ib|-dv|a
+Abalar|TR||94|37f|22a|a
+Abdullah Khaskheli|PK||6q|1y8|5cl|a
+Abbévillers|FR||9k|3nr|j8|a
+Āb Shīrīn|IR||7o|2na|3yh|a|Āb-i-Shirīn;Āb-e Shīrīn
+Abengibre|ES||9d|30y|-49|a
+Aboim da Nóbrega|PT||99|37z|-nb|a|Aboim
+Abé|CI|Lacs District|0|k1|-et|a
+Abbenrode|DE||8r|409|tj|a
+Abell|US||48|319|-5wt|a
+Āb Garmak|IR||7o|25i|413|a|Ābgarmak
+Åbyggeby|SE|Gävleborg|9w|4op|1bk|a
+Abū Samrah|QA||7b|1wq|3x7|9
+Abayuba|UY||45|-2ok|-4c5|9
+Abarao Village|KI||bh|3s|dcv|9
+Abades|ES||9d|35o|-bv|9
+Abermule|GB||9b|41y|-90|9
+Badia|IT|Trentino-Alto Adige|9o|3lh|x2|9|Abtei;Abbatia Ladinorum
+Abokro|CI|Lacs District|0|kq|-bx|9
+Abadiano (Los Bajos)|MX||41|1jk|-7xq|9
+Abraham González|MX|Durango|44|1v9|-82d|9
+‘Abbāsābād|IR|East Azerbaijan|7o|2v8|3k3|9
+Abikro|CI||0|lp|-f4|9
+Ābāndānak|IR||7o|2tq|3z4|9|Ābandāk
+Abafadouro|CV||84|1ba|-1xn|9
+Abakro|CI||0|il|-el|9
+Abo Kouassikro|CI||0|jx|-d2|9|Abokouassikro
+Abelardo L. Rodríguez|MX|Chiapas|41|19i|-748|9
+Abacılar|TR||94|2yr|33y|9|Neribiçulagan
+Kaygısız|TR||94|2yc|33y|8|Abdalan
+Abli Bonikro|CI||0|ic|-dv|8
+Abberton|GB||9b|3zz|2j|8
+Abertamy|CZ||9m|3vx|zm|8|Abertham
+Åbytorp|SE||9w|4k9|15v|8
+Habère-Poche|FR||9k|3kh|hz|8|Âbèro d’Amont;Haberium Perulae
+Abelardo L. Rodríguez|MX|Chiapas|41|1ab|-78k|8
+Abo Blakro|CI||0|jp|-du|8|Abobrako
+Abtswind|DE||8r|3u9|st|8
+Abersoch|GB||9b|42q|-cj|8
+Abrikosovo|UA||9t|3ix|2mq|8
+Abokosso|CI||0|l4|-a0|8
+Åbyggeby|SE|Gävleborg|9w|4p8|1a9|8
+Abergement-la-Ronce|FR||9k|3mr|ex|8
+La Brigue|FR||9k|3ee|l6|8|Briga Marittima;A Briga;Briga Nicaeensium;Briga;Briga Marìtima;La Briga;Briga-Marittima
+Abūz̄arābād|IR||7o|27q|45m|8
+Abbekås|SE||9w|49w|11s|8
+Avoca|IE||8z|42t|-ha|8|Abhóca;Adoca;Ovoca
+Aberfoyle|GB||9b|4c2|-c6|8
+‘Abdolābād|IR|Tehran|7o|2ql|3yk|7
+Abranovce|SK||8s|3rx|1nb|7
+Abasolo|MX|Coahuila|44|23i|-7tr|7
+Abéma|CI||0|mi|-7p|7
+Abazlı|TR||94|31v|2jq|7
+Aberdyfi|GB||9b|41y|-b9|7
+Abraco|CI||0|en|-ce|7
+Abtwil|CH||a7|3nq|pw|7|Abtwyl
+Abramów|PL||a5|3yy|1q0|7
+Ābgarm|IR||7o|2j4|3x9|7
+Habère-Lullin|FR||9k|3kf|hy|7|Âbèro d’Avâl;Haberium Lulinorum
+Abbo-Kénégny|CI||0|jw|-bk|7
+Abaújkér|HU||8v|3q6|1mw|7
+‘Abbāsābād-e Bozorg|IR||7o|2rm|3wx|7
+Abjat-sur-Bandiat|FR||9k|3im|24|7|Ajac de Bandiat;Abiacum
+Abraham González|MX|Chiapas|41|16p|-762|7
+Abou-Sékakoi|CI||0|h4|-an|7
+Abong Doum|CM||j|b2|10j|6
+Abaliget|HU||8v|3k6|1ec|6|Abaling
+Abfaltersbach|AT||a2|3lw|yt|6
+Aberffraw|GB||9b|43r|-cf|6
+Abovce|SK||8s|3q8|1ki|6
+Abbadia|IT||9o|3ct|11m|6
+Abée|BE||8t|3w7|ew|6
+Abancourt|FR||9k|3u2|4x|6
+Abergwili|GB||9b|403|-bv|6
+Abranka|UA||98|3rd|1s6|6
+Abuya y Ceuta Segunda (Ejido Echeverría)|MX||3x|1vd|-89m|6
+‘Abdolābād|IR|Tehran|7o|2qa|3zg|6
+Abastumani|GE||7n|37z|3az|6|Abbastuman;Abast’umani;Abastuman;Abastouman
+Abtsbessingen|DE||8r|3ye|tw|6
+Abbeville-Saint-Lucien|FR||9k|3tk|61|6
+Abagaytuy|RU||67|3tq|93b|6|Abagajtuj
+Aboua-Comoékro|CI||0|kz|-b3|6
+Abraham González|MX|Chihuahua|2g|28i|-8af|6|Abraham Gonzales
+Abaga|RU||7x|4nk|99e|6
+Abárzuza|ES||9d|3ap|-5m|6|Abartzuza
+Apače|SI|Municipality of Apače|9a|3lq|187|5|Abstall
+Aboboreiro|CV||84|15w|-1tp|5
+Abbasgöl|TR||94|32n|3d5|5|Güllüce
+Aboyo|CI||0|gl|-g5|5
+Abayansi|CI||0|l3|-fh|5
+Abos|FR||9k|3cg|-1k|5
+Uyanık|TR||94|2xf|28i|5|Abdalköy
+Ābnīk|IR||7o|2rz|3ze|5|Abnak;Āb Nīk
+Abokro|CI|Zanzan District|0|l9|-8a|5
+Abertura|ES||9d|310|-g5|5
+Abrykosivka|UA|Crimea|9t|3hr|2k7|5
+Abras del Corozo|MX||41|1ox|-7nr|5
+Abrego|MX||41|1qw|-7qt|5
+Ábrahámhegy|HU||8v|3m1|1cs|5

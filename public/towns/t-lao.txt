@@ -1,0 +1,34 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Latakia|SY||69|2qp|2rf|5gy|Laodicea ad Mare;Laodicea;Latakio;Lattaquié;Lattakia;Lazkiye;Latakija;Lataquia;Lázikíja;Latakiya;Lādikīja;Lataqiä;Laziqiye;Ladhiqiye;Laodicée;Laodikeia;Ladikis;Ladikiya;Latakieh
+Longshan|CN|Jilin|7i|3b5|9nm|3l8|Lièu-nguòng;Liao-jüan;Liaojuanas;Läojuan;Liêu Nguyên;Liâu-goân-chhī;Liaoyuan
+Laohekou|CN||7i|2hz|8m7|1v2|Lao-ho-k’ou;Laohokow
+Lào Cai|VN||62|1qh|80t|10b|Ló-kiê-sṳ;Laokajus;Laos;Laokai
+Laoag|PH||71|1ek|9b0|v5|Loag;Laoang;Laog
+Laojunmiao|CN||7i|32n|7jh|nk|Lao-chün-miao
+La Orotava|ES||83|26v|-19w|bm|Orotava;Villa de Orotava
+La Oroya|PE||3o|-w0|-5uu|99|Uruya;La Oroja;Uruya llaqta
+Laon|FR||9k|3to|a3|7z|Laudunum;Lāna
+La Oliva|ES||83|27h|-12p|77
+La Orilla|MX||41|1e0|-7vz|5l
+Laoang|PH||71|yx|9n9|4n
+Lao Bảo|VN||6h|1a5|884|3l
+Laouamra|MA||d|2pf|-gx|2d|Aouamara;El Aouamra
+Laouda|CI||0|h9|-fu|1z|Lauda;Lahouda
+Laocheng|CN||7i|2v6|8xx|13|Laowucheng
+Laoguié|CI||0|gm|-bl|u|Laogulé;Lahoguié
+Laouridou|CI||0|fm|-gs|s
+Santiago Laollaga|MX||41|1a2|-7ch|q|Laollaga;Laoyaga;La Ollaga
+Lao Chải|VN||6h|1pz|80j|n|Lao Tchay
+Lao|PH||71|um|9m0|m
+Laoudi|CI||0|n1|-88|j
+La Orduña|MX||41|1i1|-7ha|g
+La Ordeña|MX|Guanajuato|41|1lh|-7sw|c
+La Ortiga|MX||41|1jg|-7sk|c
+Ordeñita de Barajas|MX||41|1kj|-7uf|a|La Ordeña;Ordeña de Barajas
+La Orilla del Agua|MX||41|1ne|-7v7|9
+Laons|FR||9k|3ra|3a|7
+La Ochoa|MX||44|1uq|-80o|7|La Ocho
+Lauzach|FR||9k|3o9|-73|6|Laozag
+La Otra Banda|PE||3o|-ja|-652|6
+Laona|US||2f|3ik|-6ub|6|Leona
+La Ordeña|MX|Guanajuato|41|1ju|-7tc|6|Ordeña

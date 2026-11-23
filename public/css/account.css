@@ -1,0 +1,387 @@
+/* The sign-in page (/login), the join page (/join/<code>) and the account page (/account). They
+   stand outside the app shell, and are drawn with the shared kit from styles.css (.card .btn
+   .field .input .banner .pill .meta .lead .h1 .h3 .err-detail) and its tokens. What is here is
+   only what those pages need on top: .lg-* is shared by all three, .jn-* is the join page's,
+   .ac-* the account page's. No colors of its own
+   (but for Google's and GitHub's, on their buttons, which are theirs to say), and no bare
+   element selectors. Every state has an icon or words as well as its tint. */
+
+/* ── all three pages ─────────────────────────────────────────────────────────────────────── */
+
+.lg-word {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 1.35;
+  letter-spacing: -.01em;
+  color: var(--ink);
+}
+
+.lg-panel { display: flex; flex-direction: column; gap: var(--sp-3); }
+.lg-explain { display: flex; flex-direction: column; gap: var(--sp-2); }
+.lg-explain .lead { font-size: 15px; }
+.lg-form { display: flex; flex-direction: column; gap: var(--sp-3); }
+/* Otherwise the iOS keyboard scrolls a focused field to the very edge of what's visible, with
+   its label above the screen. */
+.lg-form .input { scroll-margin-block: var(--sp-5); }
+.lg-code { letter-spacing: .14em; font-weight: 600; }
+
+.lg-sep {
+  display: flex; align-items: center; gap: var(--sp-3);
+  margin-top: var(--sp-1);
+  color: var(--ink-3);
+  font-size: 11px; font-weight: 700; letter-spacing: .11em; text-transform: uppercase;
+}
+.lg-sep::before, .lg-sep::after { content: ""; flex: 1 1 auto; height: 1px; background: var(--line); }
+
+/* A message: an icon and words. The icon carries the kind (a circled i, a warning triangle, a
+   circled tick), so the tint is never the only signal. */
+.lg-msg {
+  display: flex; align-items: flex-start; gap: var(--sp-2);
+  padding: var(--sp-3);
+  border-radius: var(--r-sm);
+  background: var(--surface-2);
+  color: var(--ink-2);
+  font-size: 14px; line-height: 1.45;
+}
+.lg-msg svg {
+  flex: 0 0 auto; width: 17px; height: 17px; margin-top: 2px;
+  fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+}
+.lg-msg-err { background: var(--warn-soft); color: var(--warn); }
+.lg-msg-ok { background: var(--ok-soft); color: var(--ok); }
+
+/* A button that is asking "are you sure": its words change too. One that is about to destroy
+   something fills with the warning color, as the app's other deletes do when they ask. */
+.lg-armed { color: var(--accent); font-weight: 700; border-color: var(--accent); }
+.btn.lg-armed.lg-destroys { background: var(--warn); border-color: var(--warn); color: var(--ground); }
+.btn.lg-armed.lg-destroys .ac-ico { color: inherit; }
+/* On the system, asking fills its red button with the warning colour itself, the words in the system's on-solid. */
+.ac-page.ds .ds-button--red.lg-armed.lg-destroys { background: var(--negative); color: var(--on-solid); }
+
+/* Google's and GitHub's buttons. Each mark is the provider's own file or drawing, 20 high as
+   Google asks, and never recolored by a theme.
+   Google's G must sit on white, or on #131314 in a dark theme, with Google's outline and text
+   colors (developers.google.com/identity/branding-guidelines), so that button takes those
+   instead of the kit's surface. GitHub's mark is black or white only. */
+.lg-mark { flex: 0 0 auto; width: auto; height: 20px; }
+.btn > svg.lg-mark { width: 20px; }
+.lg-mark-github { fill: #000; }
+[data-lum="dark"] .lg-mark-github { fill: #fff; }
+.btn.lg-google, .btn.lg-google:active, .btn.lg-google[data-press="1"] { gap: 10px; background: #fff; border-color: #747775; color: #1f1f1f; }
+[data-lum="dark"] .btn.lg-google, [data-lum="dark"] .btn.lg-google:active, [data-lum="dark"] .btn.lg-google[data-press="1"] { background: #131314; border-color: #8e918f; color: #e3e3e3; }
+.btn.lg-google[disabled] { color: rgba(31, 31, 31, .38); }
+[data-lum="dark"] .btn.lg-google[disabled] { color: rgba(227, 227, 227, .38); }
+.btn.lg-google[disabled] .lg-mark { opacity: .38; }
+
+.lg-spin {
+  width: 15px; height: 15px;
+  border-radius: 50%;
+  border: 2px solid currentColor;
+  border-top-color: transparent;
+  animation: lg-rot .7s linear infinite;
+}
+@keyframes lg-rot { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .lg-spin { animation-duration: 2.4s; } }
+
+/* ── the sign-in page ───────────────────────────────────────────────────────────────────── */
+
+/* With the keyboard up, the foot padding is dead space above the keys. */
+body[data-kb="1"] .lg-page { padding-bottom: var(--sp-3); }
+
+/* A column, so the wordmark sits at the top while the controls stay centered. Both lay out
+   against the same 420px measure. */
+.lg-page {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  display: flex;
+  flex-direction: column;
+  padding-top: calc(var(--sp-5) + var(--safe-top));
+  padding-bottom: calc(var(--sp-6) + var(--sa-bottom));
+  padding-left: max(var(--sp-4), var(--sa-left));
+  padding-right: max(var(--sp-4), var(--sa-right));
+}
+/* margin: auto, not justify-content: center. A centered flex item taller than its scroller has
+   its top clipped out of reach, which is what the iOS keyboard does to a form. */
+.lg-wrap {
+  width: 100%;
+  max-width: 420px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-4);
+}
+/* Where the wordmark sits: top left, on the same measure as everything below it, with its
+   height held so filling it moves nothing. */
+.lg-brand {
+  flex: 0 0 auto;
+  width: 100%;
+  max-width: 420px;
+  margin: 0 auto var(--sp-4);
+  min-height: 26px;
+}
+.lg-stack { display: flex; flex-direction: column; gap: var(--sp-2); }
+/* The sign-in screen's line saying what this is (login.html #signin-what): the page's own voice, above the ways in. */
+.lg-what { margin: 0 0 var(--sp-2); font-size: 18px; line-height: 1.4; font-weight: 500; color: var(--ink); text-wrap: pretty; }
+/* Held back until the page knows what it is (login.html, data-wait). Everything keeps its
+   place while unseen, so it appears where it will stay. The two boxes themselves are held,
+   not only what is in them: the column re-centers as its screens are chosen, and a box that
+   counts as shown counts as moving. */
+.lg-page[data-wait] > .lg-brand, .lg-page[data-wait] > .lg-wrap { visibility: hidden; animation: lg-held 0s 4s forwards; }
+.lg-page[data-wait] > .lg-wrap > noscript { visibility: visible; }
+/* The wait ends by itself after four seconds: a script that is slow to arrive, or never does,
+   must not leave a blank page. A delay, not a duration, so it holds with reduced motion too. */
+@keyframes lg-held { to { visibility: visible; } }
+/* The script couldn't be fetched (login.html): only the words saying so, and a way to try again. */
+.lg-page[data-failed] > .lg-wrap > :not(#no-script) { display: none; }
+.lg-failed { display: flex; flex-direction: column; gap: var(--sp-3); }
+.lg-failed[hidden] { display: none; }
+
+/* The ways in (login.html #p-signin), as Lexicommons' sign-in page lays them out: a quiet line
+   saying what this is, then each way as one button among alike ones (Google's keeps its own
+   colors, above), a little raised so it reads as something to press. */
+.lg-ways { display: flex; flex-direction: column; gap: var(--sp-3); }
+.lg-ways form { margin: 0; }
+.lg-ways-title { margin: 0; color: var(--ink-2); font-size: 14px; font-weight: 500; line-height: 1.3; }
+.btn.lg-way {
+  min-height: 52px; margin-bottom: 3px;
+  border-width: 2px; border-radius: var(--r-md);
+  box-shadow: 0 3px 0 var(--line-strong);
+  transition: transform 70ms var(--ease-out), box-shadow 70ms var(--ease-out);
+}
+.btn.lg-way.lg-google { border-width: 1px; }
+.btn.lg-way[data-press="1"] { transform: translateY(2px); box-shadow: 0 1px 0 var(--line-strong); }
+@media (hover: hover) and (pointer: fine) {
+  .btn.lg-way:active { transform: translateY(2px); box-shadow: 0 1px 0 var(--line-strong); }
+}
+.lg-mark-key { fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+.btn > svg.lg-mark-key { width: 22px; height: 22px; }
+/* The one way forward once a form is open: making the account. */
+.btn.lg-go { min-height: 52px; font-size: 16px; font-weight: 700; }
+
+/* Making an account with a passkey: a row that opens the form under it. */
+.lg-new > summary {
+  display: flex; align-items: center; justify-content: space-between; gap: var(--sp-3);
+  min-height: var(--tap);
+  color: var(--ink-2); font-size: 14px; font-weight: 500;
+  list-style: none; cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.lg-new > summary::-webkit-details-marker { display: none; }
+.lg-new > summary svg {
+  flex: 0 0 auto; width: 18px; height: 18px;
+  fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+  color: var(--ink-3); transition: rotate var(--dur-fast) var(--ease-out);
+}
+.lg-new[open] > summary svg { rotate: 90deg; }
+.lg-new > summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: var(--r-sm); }
+.lg-new > .lg-form { padding: var(--sp-1) 0 var(--sp-2); }
+
+/* On a phone the ways sit low, in a thumb's reach, with the wordmark at the top; on a wide
+   screen the page stays centered. */
+@media (max-width: 600px) {
+  body[data-login-page] .lg-wrap { margin: 0 auto; flex: 1 0 auto; }
+  body[data-login-page] #p-signin { flex: 1 0 auto; }
+  body[data-login-page] #p-signin > .lg-ways { margin-top: auto; }
+}
+
+/* ── the join page (/join/<code>) ───────────────────────────────────────────────────────── */
+
+/* A trip's name is whatever its people typed, up to 80 characters, with or without spaces. */
+.jn-name { overflow-wrap: anywhere; }
+/* Join, signed out: the largest control on the page, so a friend opening the link sees what to
+   press before anything else. */
+.btn.jn-join { min-height: 52px; font-size: 17px; }
+/* Signing in instead: a line of words under Join, its link a full thumb's height. */
+.jn-have { text-align: center; font-size: 14px; }
+.jn-link {
+  display: inline-flex; align-items: center; min-height: var(--tap);
+  padding: 0 var(--sp-1);
+  color: var(--accent); font-weight: 650; text-decoration: none;
+}
+
+/* ── the account page ───────────────────────────────────────────────────────────────────── */
+
+/* The shell's body is one fixed screen with its own scroller inside. This page is an ordinary
+   document that scrolls, so the browser itself keeps a focused field above the keyboard. */
+body[data-account-page] {
+  display: block;
+  height: auto;
+  min-height: 100dvh;
+  overflow: visible;
+}
+
+.ac-page {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: calc(var(--sp-5) + var(--safe-top)) max(var(--sp-4), var(--sa-right))
+           calc(var(--sp-6) + var(--sa-bottom)) max(var(--sp-4), var(--sa-left));
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-4);
+}
+.ac-head { display: flex; align-items: flex-end; justify-content: space-between; gap: var(--sp-3); flex-wrap: wrap; }
+/* The wordmark's own shape (818.87 x 140), so the row is the right height before the drawing arrives. */
+.ac-brand { flex: 0 0 auto; width: 170px; min-height: calc(170px * 140 / 818.87); }
+.ac-brand svg { display: block; width: 100%; height: auto; }
+
+.ac-cols { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--sp-4); }
+.ac-col { display: flex; flex-direction: column; gap: var(--sp-4); min-width: 0; }
+/* Wide enough for two: who you are and leaving on the left, the ways in on the right. */
+@media (min-width: 900px) {
+  .ac-page { max-width: 1040px; }
+  .ac-cols { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; }
+}
+
+.ac-card { display: flex; flex-direction: column; gap: var(--sp-3); }
+/* A row that wraps keeps 12 px between its rows: a system button is drawn 32 high and presses at 44, 6 above and 6 below. */
+.ac-actions { display: flex; flex-wrap: wrap; gap: var(--sp-3) var(--sp-2); }
+/* A field with its button beside it, the button dropping below when there's no room. */
+.ac-inline { display: flex; flex-wrap: wrap; align-items: flex-end; gap: var(--sp-2); }
+.ac-inline .field { flex: 1 1 200px; min-width: 0; }
+
+.ac-ways { display: flex; flex-direction: column; }
+.ac-way {
+  display: flex; align-items: flex-start; gap: var(--sp-3);
+  padding: var(--sp-3) 0;
+  border-top: 1px solid var(--line);
+}
+.ac-way:first-child { border-top: 0; padding-top: 0; }
+.ac-ico {
+  flex: 0 0 auto; width: 22px; height: 22px; margin-top: 1px;
+  fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round;
+  color: var(--ink-2);
+}
+.ac-way-main { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.ac-way-title { display: flex; flex-wrap: wrap; align-items: center; gap: var(--sp-2); font-weight: 650; }
+.ac-way-label { overflow-wrap: anywhere; min-width: 0; max-width: 100%; }
+/* At 320 a row's middle is about 150 px: its pill ("On one device only") wraps rather than run past it. */
+.ac-way-title > * { min-width: 0; max-width: 100%; }
+.ac-way-title .pill { white-space: normal; }
+
+/* The button that deletes the account: the warning color and a bin, never the accent. */
+.btn.ac-destroy { color: var(--warn); }
+.btn.ac-destroy .ac-ico { width: 18px; height: 18px; margin-top: 0; color: inherit; }
+
+/* What goes and what stays when an account is deleted: each line starts with its own mark. */
+.ac-list { display: flex; flex-direction: column; gap: var(--sp-2); }
+.ac-list-row { display: flex; align-items: flex-start; gap: var(--sp-2); font-size: 14.5px; line-height: 1.45; color: var(--ink-2); }
+.ac-list-row .ac-ico { width: 18px; height: 18px; margin-top: 2px; }
+
+/* Kilometers or miles, under the name (account.js paintUnits). */
+.ac-units { margin-top: var(--sp-4); }
+.ac-units-label { margin: 0 0 var(--sp-2); font-size: 13px; font-weight: 600; color: var(--ink-2); }
+.ac-units-row:not(.ds-modes) { flex-wrap: wrap; overflow: visible; }
+.ac-units .meta { margin-top: var(--sp-2); }
+
+/* The assistant's month on the plan card: one quiet line, only when it runs low or out (account.js). */
+.ac-ai { display: flex; flex-direction: column; gap: var(--sp-2); }
+.ac-ai[hidden] { display: none; }
+
+/* Where it goes: a town in another country's money, offered under the card's message (trip-people.js
+   offerCurrencyOf). Words, then one button; nothing is added unless it is pressed. */
+.ac-cur-offer { display: flex; flex-direction: column; align-items: flex-start; gap: var(--sp-2);
+  padding: var(--sp-3); border-radius: var(--r-md); background: var(--surface-2); }
+.ac-cur-offer[hidden] { display: none; }
+.ac-cur-offer .meta { margin: 0; color: var(--ink); }
+
+/* Your picture: your face at 96, and beside it the way to draw it (js/account-picture.js). */
+.ac-pic { display: flex; align-items: center; gap: 16px; }
+.ac-pic-main { display: grid; justify-items: start; gap: 8px; min-width: 0; }
+/* The pad's circle on its way up into the face (320 ms), above the sheet that is leaving. */
+.ac-pic-fly { position: fixed; z-index: 70; border-radius: 50%; overflow: hidden; transform-origin: 0 0; pointer-events: none; }
+.ac-pic-fly > svg { display: block; width: 100%; height: 100%; }
+
+/* ── A page on the design system (People and settings, then Your account) ─────────────────────────────────────────
+   `ds` on the page's <main> takes it onto the system (people-mock.html, account-mock.html): the boxes become sections
+   with a hairline between them, a section's name in the heading face, quiet words in ink-2; people and ways in are
+   lines; a choice is a row that says its answer at the right; one white button where the page's main act is; the one
+   destroying act in the negative color. The class names the checks read are kept; only the look changes. */
+.ac-page.ds { color: var(--ink-1); }
+.ac-page.ds .tr-head { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; margin-bottom: 8px; }
+/* Your trips' head also holds the wordmark: its own grid (trips.css), the mark beside the title or above it, never under. */
+.ac-page.ds .tr-head:has(> .ac-brand) { display: grid; align-items: end; }
+.ac-page.ds .tr-head .h1 { font: 500 var(--size-24)/1.2 var(--type-head); letter-spacing: var(--track-head); color: var(--ink-1); }
+.ac-page.ds .tr-head .meta { font-size: var(--size-14); line-height: 20px; color: var(--ink-2); }
+.ac-page.ds .tr-nav { margin: 4px 0 10px; gap: 8px; }
+.ac-page.ds .ac-cols { gap: 0 40px; }
+.ac-page.ds .ac-col { gap: 0; }
+.ac-page.ds .card.ac-card {
+  gap: 12px; padding: 22px 0; background: none; border: 0; border-top: 1px solid var(--hair);
+  border-radius: 0; box-shadow: none;
+}
+.ac-page.ds .ac-col:first-child > .ac-card:first-child { border-top: 0; padding-top: 6px; }
+.ac-page.ds .ac-card > .h3 { font: 500 var(--size-20)/1.25 var(--type-head); letter-spacing: var(--track-head); color: var(--ink-1); margin: 0; }
+.ac-page.ds .meta { font-size: var(--size-14); line-height: 20px; color: var(--ink-2); }
+.ac-page.ds .ac-card > .meta { margin: -8px 0 0; }
+.ac-page.ds a:not(.ds-button) { color: var(--ink-1); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--edge-strong); }
+
+/* People, links and places as lines: a face or a mark, the words, what can be done at the right. */
+.ac-page.ds .ac-way { align-items: center; gap: 12px; min-height: 56px; padding: 10px 0; border-top: 1px solid var(--hair); }
+.ac-page.ds .ac-way:first-child { border-top: 0; padding-top: 4px; }
+/* A row's mark stands beside its first line, however many lines its words take. */
+.ac-page.ds .ac-way > .ac-ico, .ac-page.ds .ac-way > .tp-face { align-self: flex-start; }
+.ac-page.ds .ac-way > .ac-ico { margin-top: 1px; }
+.ac-page.ds .ac-way-title { font-weight: 600; gap: 6px; }
+.ac-page.ds .ac-way .ds-tag { height: 20px; padding: 0 7px; }
+.ac-page.ds .ac-way .ds-tag.pill-accent { background: var(--gray-4); color: var(--ink-1); }
+.ac-page.ds .tr-row-acts { display: flex; gap: 2px; flex-wrap: wrap; justify-content: flex-end; }
+.tp-face { flex: 0 0 auto; display: grid; place-items: center; }
+
+/* A choice that says its answer: its name at the left, the answer at the right with a chevron (the select's own). */
+.ac-page.ds .tr-link-form { display: block; }
+.ac-page.ds .tr-link-form .field,
+.ac-page.ds #form-details > .field:not(:has(textarea, .tr-curs:not([hidden]), .tr-zone-box)),
+.ac-page.ds .tr-dates .field {
+  flex-direction: row; align-items: center; justify-content: space-between; gap: 12px;
+  min-height: 48px; border-top: 1px solid var(--hair);
+}
+.ac-page.ds .tr-link-form .field:first-child, .ac-page.ds #form-details > .field:first-child { border-top: 0; }
+.ac-page.ds .field > label, .ac-page.ds .tr-legend, .ac-page.ds .tr-dates .field > label {
+  text-transform: none; letter-spacing: 0; font-size: var(--size-16); font-weight: 400; color: var(--ink-2);
+}
+.ac-page.ds .tr-link-form .field .input,
+.ac-page.ds #form-details > .field:not(:has(textarea)) > .input,
+.ac-page.ds .tr-dates .field .input {
+  width: auto; min-width: 0; max-width: 62%; padding: 0 2px; border: 0; background: none; box-shadow: none;
+  color: var(--ink-1); font-size: var(--size-16); text-align: right; text-align-last: right;
+}
+.ac-page.ds .tr-link-form .field .input:focus-visible,
+.ac-page.ds #form-details .input:focus-visible { outline: 2px solid var(--ring); outline-offset: 2px; border-radius: 6px; }
+.ac-page.ds .tr-link-form #btn-link { margin-top: 12px; }
+.ac-page.ds .tr-dates { display: block; margin: 0; }
+.ac-page.ds .tr-dates > .tr-legend { padding-top: 12px; }
+.ac-page.ds textarea.input, .ac-page.ds .tr-zone-box .input {
+  background: var(--fill); border: 1px solid var(--edge); border-radius: var(--radius-12); color: var(--ink-1);
+}
+.ac-page.ds .tr-made { background: var(--fill); border: 1px solid var(--edge); border-radius: var(--radius-12); }
+.ac-page.ds .tr-made-url { font-family: var(--type-mono); background: none; border: 0; color: var(--ink-1); }
+
+/* Storage: one thin line and one sentence. */
+.tp-meter { height: 2px; border-radius: 999px; background: var(--gray-3); overflow: hidden; margin: 2px 0 10px; }
+.tp-meter > i { display: block; height: 100%; background: var(--ink-1); border-radius: 999px; }
+.tp-mono { font-family: var(--type-mono); font-variant-numeric: tabular-nums; letter-spacing: var(--track-number); }
+.ac-page.ds .tr-meter-words { font-size: var(--size-14); line-height: 20px; color: var(--ink-2); margin: 0; }
+
+/* What goes when the trip is deleted, and the one negative button. */
+.ac-page.ds .ac-list-row { color: var(--ink-2); font-size: var(--size-14); line-height: 20px; }
+.ac-page.ds .ds-button > .ac-ico { width: 16px; height: 16px; margin: 0; color: inherit; }
+/* A provider's mark keeps its 20 px on a system button, as Google's does on its own. */
+.ac-page.ds .ds-button > svg.lg-mark { width: 20px; height: 20px; }
+
+/* Your account on the system (account-mock.html): the picture leads; the distances are one sliding switch; the reason
+   the account can't be deleted yet is the warning color with its sign (the only colors on the page are states:
+   Confirmed, the delete button, this). */
+.ac-page.ds .ac-units-label { font-size: var(--size-16); font-weight: 400; color: var(--ink-2); }
+.ac-page.ds .ac-units-row.ds-modes { max-width: 320px; }
+.ac-page.ds .ac-inline .input { background: var(--fill); border: 1px solid var(--edge); border-radius: var(--radius-12); color: var(--ink-1); }
+.ac-warn { display: flex; align-items: flex-start; gap: 8px; margin: 0; font-size: var(--size-14); line-height: 20px; color: var(--warning); }
+/* Why you can't delete yet: a box in the warning's wash, the words in ink and the sign in amber (the mock-up's). */
+.ac-page.ds #delete-host { padding: 12px 14px; border: 1px solid var(--warning-edge); border-radius: var(--radius-12); background: var(--warning-bg); color: var(--ink-1); }
+.ac-page.ds #delete-host > svg { color: var(--warning); }
+.ac-warn[hidden] { display: none; }
+.ac-warn > svg { flex: 0 0 auto; width: 18px; height: 18px; margin-top: 1px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }

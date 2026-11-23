@@ -1,0 +1,43 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vi|SE|Västernorrland|9w|4tf|1ce|1m
+Vi|SE|Västernorrland|9w|4t2|1bp|1c
+Hong Kong|HK||6i|1pw|8t5|1l2h|Hongkong;Victoria;Gon Kong;Hiŏng-gē̤ng;Honkongo;Heung Gong
+Paris|FR||9k|3rp|6j|gi2|Lutèce;Ville-Lumière;Parizo;Parys;Paříž;Baris;Pariis;Pariisi;Páras;Párizs;Parigi;Paräis;Paries;Paryžius;Parīze;Parijs;Paryż;Pariggi;Pari;Paname;Pantruche;Paarys;Pa-ri;Parij;Parixe;Palika;Parighji;Baariis;Lutetia;Parigge;Bahliz;Pariižu
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Virār|IN||6t|1i2|5m9|9fk
+Weinan|CN||7i|2nu|8g7|995|Wej-nan;Vị Nam;Ôi-nàng;Veinan;Ūi-lâm-chhī;Veynan
+Vijayawada|IN||6t|19v|681|8tk|Widźajawada;Vidžajavada;Vijajaŭada;Vidzsajavádá;Bejawada;Bezawada;Vijayavādā;Bezwāda
+Visakhapatnam|IN||6t|1d4|6f4|87c|Vizag;Vishakhapatnam;Vishakapatnam;Vishakhapatanam
+Victoria|HK||6i|1px|8t2|7ds
+Viana|AO||x|-or|115|6oj
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+Vinh|VN||62|1fv|85l|63g|Vinis;Vin
+Winnipeg|CA||5d|3uk|-7hv|5s8|Vinnipega;Vinipego;Vinnipeg;Vinipegas;Vinipega;Vinnipeq
+Villa Nueva|GT||32|14d|-6zn|4rs|Vilja Nueva
+Vilnius|LT||a3|47x|1y8|46o|Wilna;Vilno;Vilna;Wilno;Vilnüs;Vilnis;IVilnyusi;Wilñus;Vilnjûs;Vilnias;Wilnius;Vilniaus miestas;Vil'nyus;Vil'no;Vilnia
+Victoria de Durango|MX||44|1uq|-82q|403|Durango;Durangas;Byen Durango
+Nova Vida|AO||x|-or|10q|3l6
+Vũng Tàu|VN||6h|sr|89g|3l5|Cap-Saint-Jacques;Saint James;Ville du Cap;Cape Saint James;St. James
+Virginia Beach|US||48|2ud|-5v2|3ic|Litus Virginiae;Vijini Beach;Virdžīnijabīča;Virdžinija Byčas;Virciniya Biç;Virĝinijabiĉo;Virginian Bch
+Vinnytsya|UA||98|3sr|273|3bh|Vinnytsia;Winnica;Vinnicja;Winnyzja;Vinica;Vinicja;Vinniza;Vinnycja
+Boa Vista|BR|Roraima|26|7u|-4oj|38l
+Việt Trì|VN||62|1n8|84s|37d|Vietri
+Vitória da Conquista|BR||20|-15b|-35g|326|Vitorija da Konkista
+Wichita|US||2f|2wp|-7ie|321|Viĉito;Vičita
+Al Hoceïma|MA||d|2px|-ay|31w|Villa Alhucemas;Villa Sanjurjo;Alhucemas;Al-Husajma;Al-Hoceima;Alhacemas;Al Ḩusaymāt;Al Huceima
+Vila Velha|BR||4w|-1kh|-33x|31p|Vila Velja
+Windhoek|NA||1f|-1qo|1bg|2za|Windhuk;Vindhukas;Vindhuko;Vindhuk;Windoèk;Wynhoeke;Vindhuka;Vindxuk;Vinduque
+Emalahleni|ZA||o|-1zv|297|2vq|Vitbankas
+Vitebsk|BY||9g|49b|2bw|2rp|Wizebsk;Vicebsko;Viciebsk;Vitsebsk;Witebsk;Vicebszk;Vicebsk;Vitsyebsk;Vítsiebsk;Vitebscum
+Tete|MZ||11|-18w|2lb|2r6|Vila-de-Santiago-Maior
+Villahermosa|MX|Tabasco|3z|1dz|-766|2q8|Villa Hermosa;Cualnezcaltepec;Viljahermosa
+São Vicente|BR|São Paulo|4w|-1uk|-3kv|2lz|San Visentė
+Viña del Mar|CL||4u|-2jq|-5ir|2ku|Vinja del Maras;Vinya del Mar;Vinea Maris;Vinja-del-Maro
+Ciudad Victoria|MX||44|1ty|-7ne|2k9|Cd. Victoria;Siudad Viktorija;Altepetl Victoria;Victoria llaqta;Victoria;Lungsod ng Victoria
+Vijayapura|IN|Karnataka|6t|1aq|5uc|2iy|Bîjâpur;Bidźapur;Vijapura;Districte de Bijapur;Bídzsápur;Bidžapuras;Vijayapur
+Villavicencio|CO||27|bh|-5oj|2hd|Viljavisensijas
+Vitória|BR||4w|-1kg|-342|2ev|Vitorio;Viktoriya;Victoria
+Vigo|ES||9d|39b|-o8|29k|Vigu;Vigas;Bigo
+Victoria|CA|British Columbia|5b|3qk|-9in|28g|Viktorijo;Viktorija;Wiktoriye;Viktoria;Viktoriya
+Wiesbaden|DE||8r|3v5|mw|289|Aquae Mattiacae;Vysbadenas;Vīsbādene;Visbaden;Wiasbån;Wissbade;Aquae Matticae;Aquae Mattiacorum;Wisibada
+Villa Nicolás Romero|MX||41|1ij|-7nw|26a|Ciudad Nicolás Romero

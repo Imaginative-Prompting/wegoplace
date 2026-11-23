@@ -1,0 +1,233 @@
+/* The shell: a screen's head with you at its right, the five tabs and their sliding highlight, the + and the place a
+ * toast rises to, "Updating the app…", and on a wide screen the rail that holds every section. Their look and motion
+ * come from NeedWright's tokens and timings. */
+
+/* ---------- a screen's head: its name, what belongs to this screen, then you ---------- */
+.ds-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 36px;
+}
+.ds-head h1 {
+  font: 500 var(--size-28)/1 var(--type-head);
+  letter-spacing: var(--track-head);
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.ds-head-end { display: flex; align-items: center; gap: 6px; flex: 0 0 auto; }
+
+/* You, at the top right of every main screen: More. A dot when something there is new; a ring while you are in it. */
+.head-more {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: var(--control-44);
+  height: var(--control-44);
+  margin: -6px -6px -6px 0;
+  border: 0;
+  padding: 0;
+  background: none;
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: transform var(--dur-150) var(--ease-standard);
+}
+.head-more[data-press="1"] { transform: scale(0.94); }
+@media (hover: hover) and (pointer: fine) {
+  .head-more:active { transform: scale(0.94); }
+}
+.head-more .ds-face { transition: box-shadow var(--dur-200) var(--ease-standard); }
+.head-more[aria-current="page"] .ds-face { box-shadow: 0 0 0 2px var(--canvas), 0 0 0 3.5px var(--ink-1); }
+.head-more-dot {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 9px;
+  height: 9px;
+  border-radius: var(--radius-full);
+  background: var(--ink-1);
+  box-shadow: 0 0 0 2px var(--canvas);
+  transform: scale(0);
+  transition: transform var(--dur-200) var(--ease-spring);
+}
+.head-more[data-new] .head-more-dot { transform: none; }
+
+/* ---------- the five tabs ---------- */
+.ds-tabbar {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  align-items: center;
+  height: 60px;
+  padding: 0 6px;
+  border-radius: var(--radius-full);
+  background: var(--fill);
+  border: 1px solid var(--edge);
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
+}
+/* The highlight is one shape that slides to the tab you are on (320 ms, the spring); the tabs never repaint for it.
+ * --ds-i is the current tab's place, set by the code that knows it. No tab current (a screen inside More): it fades. */
+.ds-tab-hl {
+  position: absolute;
+  left: 6px;
+  top: 7px;
+  bottom: 7px;
+  width: calc((100% - 12px) / 5);
+  border-radius: var(--radius-full);
+  background: var(--ring-soft);
+  transform: translateX(calc(var(--ds-i, 0) * 100%));
+  transition: transform var(--dur-320) var(--ease-spring), opacity var(--dur-150) var(--ease-standard);
+  pointer-events: none;
+}
+.ds-tabbar[data-none] .ds-tab-hl { opacity: 0; }
+.ds-tab {
+  position: relative;
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  gap: 2px;
+  min-height: var(--control-44);   /* a tap target, whatever the name shows */
+  padding: 7px 0;
+  border-radius: var(--radius-full);
+  font: 500 var(--size-12)/14px var(--type-ui);   /* the app's floor; the mock-up's 11 is under it */
+  /* ink-2, not the mock-up's ink-3: on the pill, with a line of the page under it, ink-3 reads at 3.9 to 1 and a name
+     needs 4.5. */
+  color: var(--ink-2);
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  transition: color var(--dur-150) var(--ease-standard), transform var(--dur-150) var(--ease-standard);
+}
+.ds-tab[data-press="1"] { transform: scale(0.95); }
+@media (hover: hover) and (pointer: fine) {
+  .ds-tab:active { transform: scale(0.95); }
+}
+.ds-tab svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.ds-tab[aria-current="page"] { color: var(--ink-1); }
+/* Something new behind a tab (the chat's unread): a dot on its symbol, with words in its label. */
+.ds-tab-dot {
+  position: absolute;
+  top: 5px;
+  left: calc(50% + 8px);
+  width: 7px;
+  height: 7px;
+  border-radius: var(--radius-full);
+  background: var(--ink-1);
+  box-shadow: 0 0 0 2px var(--chrome);
+  transform: scale(0);
+  transition: transform var(--dur-200) var(--ease-spring);
+}
+.ds-tab[data-new] .ds-tab-dot { transform: none; }
+
+/* ---------- the + ---------- */
+.ds-fab {
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  border: 0;
+  border-radius: var(--radius-full);
+  background: var(--solid);
+  color: var(--on-solid);
+  box-shadow: var(--shadow-pop);
+  cursor: pointer;
+  transition: transform var(--dur-320) var(--ease-spring), opacity var(--dur-150) var(--ease-standard);
+}
+.ds-fab svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; }
+.ds-fab[data-press="1"] { transform: scale(0.94); transition-duration: var(--dur-150); }
+@media (hover: hover) and (pointer: fine) {
+  .ds-fab:active { transform: scale(0.94); transition-duration: var(--dur-150); }
+}
+/* It steps aside while a sheet is up, and comes back when it goes. */
+.ds-fab[data-aside] {
+  transform: scale(0.6);
+  opacity: 0;
+  pointer-events: none;
+  transition: transform var(--dur-150) var(--ease-standard), opacity var(--dur-150) var(--ease-standard);
+}
+
+/* ---------- a toast: what just happened, and the way back ---------- */
+.ds-shell-toast {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-height: 48px;
+  padding: 0 6px 0 14px;
+  border-radius: var(--radius-16);
+  background: var(--chrome);
+  border: 1px solid var(--edge);
+  box-shadow: var(--shadow-pop);
+  font-size: var(--size-14);
+  transform: translateY(10px);
+  opacity: 0;
+  pointer-events: none;
+  transition: transform var(--dur-200) var(--ease-standard), opacity var(--dur-200) var(--ease-standard);
+}
+.ds-shell-toast[data-on] { transform: none; opacity: 1; pointer-events: auto; }
+
+/* ---------- "Updating the app…" ---------- */
+.ds-updating {
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: 22px;
+  min-height: 60vh;
+  color: var(--ink-2);
+}
+.ds-updating-icon { width: 76px; height: 76px; border-radius: 18px; border: 1px solid var(--edge); }
+.ds-updating-bar { width: 120px; height: 2px; border-radius: var(--radius-full); background: var(--gray-3); overflow: hidden; }
+/* How far it has come, as the code that knows sets it (--ds-done, 0 to 1); never a bar that loops by itself. */
+.ds-updating-bar i { display: block; width: calc(var(--ds-done, 0.15) * 100%); height: 100%; background: var(--ink-1); transition: width var(--dur-320) var(--ease-standard); }
+
+/* ---------- the rail: every section, More at its foot beside you ---------- */
+.ds-rail {
+  display: flex;
+  flex-direction: column;
+  width: 248px;
+  padding: 22px 12px 14px;
+  border-right: 1px solid var(--hair);
+}
+.ds-rail-trip { font: 500 var(--size-20)/1.25 var(--type-head); letter-spacing: var(--track-head); margin: 0 8px 2px; }
+.ds-rail-dates { color: var(--ink-2); font-size: var(--size-14); margin: 0 8px 18px; }
+.ds-nav {
+  display: grid;
+  grid-template-columns: 20px 1fr auto;
+  column-gap: 12px;
+  align-items: center;
+  min-height: 36px;
+  padding: 0 8px;
+  border-radius: var(--radius-12);
+  font-weight: 500;
+  font-size: var(--size-14);
+  color: var(--ink-2);
+  text-decoration: none;
+  transition: background var(--dur-150) var(--ease-standard), color var(--dur-150) var(--ease-standard);
+}
+.ds-nav svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+@media (hover: hover) and (pointer: fine) {
+  .ds-nav:hover { background: var(--fill-hover); color: var(--ink-1); }
+}
+.ds-nav[aria-current="page"] { background: var(--ring-soft); color: var(--ink-1); }
+.ds-nav-note { font-size: var(--size-12); color: var(--ink-1); display: inline-flex; align-items: center; gap: 6px; }
+.ds-nav-note::before { content: ""; width: 6px; height: 6px; border-radius: var(--radius-full); background: var(--ink-1); }
+.ds-rail hr { border: 0; border-top: 1px solid var(--hair); margin: 10px 8px; }
+.ds-rail-you {
+  margin-top: auto;
+  display: grid;
+  grid-template-columns: 32px 1fr 16px;
+  column-gap: 10px;
+  align-items: center;
+  padding: 8px;
+  border-radius: var(--radius-12);
+  color: var(--ink-1);
+  text-decoration: none;
+}
+@media (hover: hover) and (pointer: fine) {
+  .ds-rail-you:hover { background: var(--fill-hover); }
+}
+.ds-rail-you svg { width: 16px; height: 16px; color: var(--ink-4); }

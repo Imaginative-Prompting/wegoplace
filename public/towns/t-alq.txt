@@ -1,0 +1,49 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Al Qadarif|SD||r|12z|2qa|2t3|Al-Qadarif;Gedaref;Gadarif;Gadaref;El-Gadarif;Al-Kadarif;Al Kadarif;El Gedaref
+Al Qāhirah al Jadīdah|EG||c|2bg|2fc|2ez
+Al Qāmishlī|SY||69|2ux|36j|1f6|Al-Qamishli;Qamischli;Kamishli;Kamishlié;Qamişlo;Kamischli;Qamışlı;Kámišlí;Qamichli;Qamichlîyé;Qāmeshli;Kamichlieh;Kamechlie;Al-Kamishly
+Kairouan|TN||1e|2r4|s2|12n|Qairawān;Kajruano;Qayrawan;Kairuan;Cairuão;Kayravan;Al-Qayrawān;Kairuanas;Keruan;Qayruvon;Qayravan;Qairwan;Kairwan;Qairouan;Al Qayrawān;Al-Kayrawān
+Al Qurnah|IQ||5z|2e6|3nr|11a|Qurnah;Al Qurna
+Al Qūşīyah|EG||c|248|2dm|ro|El Qūsīya;Al-Qūsiyyah
+Al Qaţīf|SA||7e|21t|3ux|rb
+Al Qurayn|EG||c|2d2|2g6|qa
+Al-Qāsim|IQ||5z|2hq|3g4|pz|Al Qāsim
+Kasserine|TN||1e|2pp|ok|ng|Kaserinas;Kassarin;Al-Kasrajn;Qasserine;Kasserin;Al Qaşrayn
+Al Qanāţir al Khayrīyah|EG||c|2bv|2ei|n8
+Al Qā’im|IQ||5z|2nj|35v|kl|Al-Káim;Al-Qa'im;Al-Qaïm;Al Kaim;El Kaim;El Qa’im
+Al Qanāyāt|EG||c|2d2|2fe|jn|El-Qanâyât
+Al Qusais 1|AE||6c|1y8|49t|dg|Al Qusais First
+Al Quşayr|SY||69|2nv|2tm|bf|Quşayr
+Al Qunayţirah|SY||69|2k1|2ri|a1|Quneitra;Kunejtra;Kuneitra;Kuneytire;Qinêtra;Qouneitra;Cuneitre;Qnaïtra;El Quneitra;El Kuneitra;Qunayţirah
+Al Qanţarah|EG||c|2dq|2hr|8u|Kantara;El Qanṭara;El Kantara
+Al Qaryatayn|SY||69|2n3|2vg|8t|Quayatein;Qaryatayn;Kuryatein
+Al-Quṭaynah|SD||r|14x|2hn|7h
+Al Quşayr|EG||c|20j|2n8|6v|El Quseir;El Qoseir;Quseir;Al-Quṣayr
+Al Qubbah|LY||1d|2j0|1ps|6u|Al Gubbah
+Al Qaşşāşīn|EG||c|2cw|2gp|6s|Kassassin;El-Qaṣṣâṣîn;Qaṣṣâṣîn;Al-Qaṣṣāṣīn;Al-Qaṣāṣīn
+Qaisumah|SA||7e|26n|3k5|5r|Al Qaysumah;al-Qaysūma;Al-Kajsuma;Kaysume
+Al Qarārah|PS||6f|2f5|2ne|5f|Al-Karara;Al-Qarara;Al Qarara
+Al Qiţena|SD||r|15a|2hx|53
+Al Quţayfah|SY||69|2lq|2to|4h|Quţayfah
+Alquízar|CU||36|1rc|-6de|49
+Al Qawāsim|LY||1d|2he|10a|47
+Al Qābil|OM||72|1qp|4j1|3w
+Al Qusais Second|AE||6c|1y7|49v|3l
+Al Qurayn|SA||7e|1ys|3ts|3c|Al-Qurain
+Al Qbab|MA||d|2iy|-fc|2j
+Al Qārah|SA||7e|1ym|3tz|2j
+Al Quwayrah|JO||5t|2as|2q3|22
+Al Qaţrūn|LY||1d|1xb|14p|20|El Gatrun;Al Katrun;Al Gatrun
+Al Qaţrānah|JO||5t|2et|2s5|1z|El Qatrāna;Al Qaţrāna
+Al Qurayyā|SY||69|2ie|2to|1w|Al Qrayyah
+Alquerías|ES||9d|2xl|-2v|13
+Alquerías del Niño Perdido|ES||9d|32t|-d|13
+Al Qaşr|JO||5t|2ez|2ra|12
+Al Qubaybah|PS||6g|2gg|2pm|k
+Al Qabyal|YE||5r|10s|3fd|k
+Ālqū|IR||7o|2vz|3k1|g
+L'Alqueria de la Comtessa|ES||9d|305|-f|e|Alquería de la Condesa
+Alqueidão da Serra|PT||99|322|-oe|c
+Alquines|FR||9k|3wy|5j|8
+Alquife|ES||9d|2va|-8o|8

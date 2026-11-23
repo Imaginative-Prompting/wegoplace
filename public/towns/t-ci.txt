@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Santiago|CL||4u|-2ky|-5g9|11bp|Sanctiacobi;Čilės Santjagas;Santjago
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Quezon City|PH||71|14p|9c9|nsr|Quezon;Kezonurbo;Lungsod Quezon;Quezon-Stadt;Ciudad Quezon
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Chicago|US||2f|389|-6rh|kk5|Ĉikago;Sicagum;Čikaga;Şikago;Chicagu;Chikago;Kikako;Tsikago;Çikaqo;Chi-kâ-kô;Čėkaga;Shikago
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Santo Domingo|DO||4v|1fb|-5e5|gzn|Saint Domingue;Ciudad Trujillo;Santo-Dominqo
+Benin City|NG||u|hm|fn|dr0|Benin-Stadt;Benin;Benim;Beninas;Benin by;Benin-stad;Beninurbo;Thành phố Benin;Ìlú Benin;Ciudad de Benín;Kota Benin;Benínborg;Benin Siti;Magaalaa Benin;Magaalada Benin
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Cixi|CN||7i|2bu|9ct|b8v
+Sadr City|IQ||5z|2kr|3fi|9cm
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Jiujiang|CN||7i|2ai|8y8|8zf|Ciuciang;Ťiou-ťiang;Cửu Giang;Chiu-chiang;Kiukiang
+Ciudad Nezahualcoyotl|MX||41|1hw|-7n1|8b8|Nezahualcóyotl;Nesahualkojotlis;Neza;Cd. Nezahualcóyotl;Cd. Neza;Ciudad Neza;Nezahualkojotlo;Netzahualcóyotl;Ciudad Netzahualcóyotl
+Brussels|BE||8t|3x9|c3|7v2|Bruxelles;Brussel;Bryssel;Brusela;Bruselas;Bruselo;Brukselo;Bruseles;Brusel;Brwsel;Bruiseal;Bruxelas;Brüsszel;Bruxel;Città di Bruxelles;Bruksel;Bruxellae;Bréissel;Briuselis;Brisele;Bruksela;Bruselj;Brussele;Brisel;Brukseli;An Bhruiséil;Kota Brusel;Brasels
+Zhu Cheng City|CN||7i|2s0|97o|7ps
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Chiba|JP||7q|2qw|at8|7k6|Čiba;Tiba
+Ciudad Guayana|VE||2c|n7|-4u0|7jq|Cidade Guaiana;Guayana;Ciudat Guayana;Siudad Guajana;Sjudad Guajan;Ciudad Guiana
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Chihuahua|MX|Chihuahua|2g|27k|-86p|756|Čihuahua;Čiuaua;Ĉihuahuo;Chivava;Çivava
+Qiqihar|CN||7i|3ni|9kc|6t4|Cicikar;Tề Tề Cáp Nhĩ;Ĉiĉiharo;Qiqihaer;Čičiharas;Cà̤-cà̤-hăk-ī;Chhè-chhè-hâ-ngì-sṳ;Qiqiha’er;Jijihaer
+Jiaozuo|CN||7i|2pw|8qk|6oe|Ťiao-cuo;Ĝjaoĝuo;Tiêu Tác;Ciĕu-cáuk;Chiau-chok-chhī
+Pasig City|PH||71|14j|9ca|6kz|Pasig
+Al Ain City|AE||6c|1v7|4aw|6j7|Al Ain;Al-Ain;Al-Ajn;Al-Ayn;Ainas;Al Ajn;Al Ayn;El-Ajn;El Ain;Al ‘Ayn
+Thiruvananthapuram|IN||6t|nl|5xr|62z|Trivandrum;City of Lord Anantha;Tiruvanantapuram;Tiruvanantapuramas;Tiruvananantapuram
+Zhaotong|CN||7i|23w|804|62u|Čao-tchung;Chiêu Thông;Ciĕu-tŭng;Chiau-thong-chhī;Chao-t’ung
+Qinhuangdao|CN||7i|32y|987|5v1|Chinxuangdaw shehiri;Tần Hoàng Đảo;Činhuangdao;Cjiņhuandao;Čchin-chuang-tao;Ĉinhŭangdaŭo;Cìng-huòng-dō̤;Chîn-hông-tó-chhī;Ch’in-huang-tao
+Paranaque City|PH||71|148|9c6|5fc

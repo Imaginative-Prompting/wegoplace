@@ -1,0 +1,128 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nanjing|CN||7i|2h2|95y|1zvf|Nanking;Nankín;Nanchino;Nandžing;Nankinas;Naņdzjina;Nanchinum;Namkin;Nankingo;Nam Kinh;Nanquin;Nanquim;Nàng-gĭng;Nàm-kîn-sṳ;Nanzging;Nankijn;Nan-ching
+Nanning|CN||7i|1re|8cw|1a4c|Nam Ninh;Nan-ning;Naningas;Naningo;Nàm-nèn-sṳ;Namzningz;Lâm-lêng-chhī;Nàng-nìng;Naņnina;Nannin;Nanninq;Yung-ning
+Nanchang|CN||7i|27o|8xt|i6y|Nam Xương;Nančangas;Nan-čchang;Nanĉano;Lâm-chhiong-chhī;Nàng-chiŏng;Nàm-chhông-sṳ;Nancsang;Nancianga;Naņčana;Nanzcangh;Nançan;Nančang
+Nantong|CN|Jiangsu|7i|2gz|9br|hjh|Nentung shehiri;Nan-tchung;Nam Thông;Lâm-thong-chhī;Nàng-tŭng;Nan-t’ung
+Nanchong|CN||7i|2dk|86o|ecd|Nan-čchung;Nam Sung;Lâm-chhiong-chhī;Nàng-chṳ̆ng;Nan’chun;Nan-ch’ung
+Nanyang|CN|Henan|7i|2jp|8on|dza|Nam Dương;Nan-jang;Nenyang shehiri;Nanyan;Nàng-iòng;Lâm-iông-chhī
+Nampula|MZ||11|-160|313|5y0
+Namangan|UZ||7m|35w|5j3|5i4|Nemengan;Namangã
+Nanping|CN|Fujian|7i|221|949|3lz|Nàng-bìng;Nan-pching;Nàm-phìn-sṳ;Nenping shehiri;Nam Bình;Lâm-pêng-chhī
+Namp’o|KP||7a|2zm|9od|3ie|Nampo
+Nam Định|VN||62|1kr|86y|3gi|Nam Din
+Mossamedes|AO||x|-168|xr|1yu|Namibe;Moçâmedes
+Quận Năm|VN||6h|tw|88b|1g3
+Namur|BE||8t|3w7|dj|ut|Namouer;Name;Namen;Nameur;Namiūras;Namīra
+Nantou|TW||7l|1ug|9b6|td|Nan-tchou;Nàm-thèu-sṳ;Nam Đầu;Lâm-tâu-chhī;Nantow;Nan-t’ou
+Namalombwe|ZM||z|-16r|26b|r6
+Namyangju|KR||7h|2wk|9td|p8|Nàm-yòng-chû-sṳ
+Nampa|US||28|3cy|-8zs|oy
+Nangen|KR||7h|2qd|9tv|ml|Namwon;Mangen;Namwŭn;Namweon
+Nam Cheong|HK||6i|1q1|8t3|ks
+Namyang-nodongjagu|KP||7a|3bb|a0q|ic|Namyang Workers' District
+Nāmakkal|IN||6t|v6|615|fk
+Nametil|MZ||11|-17o|31a|el
+Namanyere|TZ||h|-kw|2e9|b4
+Namlea|ID||6m|-92|9t1|aj|Nam’ Léa
+Namialo|MZ||11|-15g|332|ac
+Namerikawa|JP||7q|2u4|alk|9m|Namerigawa
+Namhkam|MM||7y|1u7|7jc|9a|Namkamas;Namkham;Nam Khan;Namkam
+Namegata|JP||7q|2s1|aua|8y|Namekata
+Năm Căn|VN||6h|oc|83n|8d|Năm Că
+Namapa-erati|MZ||11|-123|32n|7c
+Nansang|MM||7y|1m1|7jg|6m|Namsang
+Namsa|KR||7h|2rt|9sx|6k
+Namacurra|MZ||11|-1cl|2uv|6a|Nhamacurra
+Namutumba|UG||q|2c|2ll|6a
+Nambol|IN||6t|1wm|78m|69
+Namasuba|UG||q|1x|2i2|69
+Namyang|KP||7a|3bb|a0q|66
+Namayumba|UG||q|1h|2hl|65
+Nāmagiripettai|IN||6t|vu|61f|65|Namagiripetai
+Namie|JP||7q|2w4|avo|63
+South Euclid|US||48|37c|-6ag|62|Nam Euclid
+South Lake Tahoe|US||3p|305|-99a|61|Nam Hồ Tahoe
+Namrole|ID||6m|-ap|9s1|5z|Nam’ Role
+Namioka|JP||7q|353|auj|5r
+Thambon Na Mueang|TH||62|132|7tl|5j|Na Mueang
+Nam Som|TH||62|1dd|7vv|5d
+Nāmrup|IN||6t|23j|7cs|54
+Namminikara|IN||6t|sz|5vt|51
+Namavundu|UG||q|10|2ly|4t
+Nambingué|CI||0|rx|-eu|4n|Nampingue;Nanbingué
+Namponkoré|BF||1a|wm|4y|4k
+Nampundwe|ZM||z|-173|25k|4k
+Nambiyūr|IN||6t|vk|5ys|4k
+Namysłów|PL||a5|3xw|1d8|4k|Namysluvas;Namislova
+Namwala|ZM||z|-17r|21g|4c
+Namanga|TZ||h|-73|2u6|45
+Namaacha|MZ||11|-206|2gy|44|Namahacha
+Namakgale|ZA||o|-1uh|2e7|42
+Namsai|IN||6t|24v|7ea|3y
+Namīn|IR||7o|2yr|3qo|3t
+Namtu|MM||7y|1s4|7ik|3p
+Namchi|IN||6t|23g|6tg|3e
+Namikupa|TZ||h|-u3|320|39
+Nambour|AU||8c|-21z|bsw|37
+Namalenga|TZ||h|-uf|30m|34
+Namli|IN||6t|1t6|5si|2q
+Mga|RU||9i|4lz|2eb|2o|Namkku
+Nanandy|CI||0|iq|-jx|2n|Namandy;Nanandi
+Namsos|NO||9j|4z3|vy|2c|Njaarke
+Namane|CI||0|hu|-ik|29
+Namtsy|RU||7x|4u8|a07|28
+Nambutalai|IN||6t|r1|63h|27
+Namayan|PH||71|14i|9c6|25
+Namborn|DE||8r|3tk|ju|24
+Nambézaria|CI||0|fp|-fz|24|Niambézaria
+Na Mom|TH||62|jc|7rc|23
+Námestovo|SK||8s|3t9|1i4|23|Námesztó
+Nanshan Residential|CN||7i|1ql|8sh|21|Nanshan District;Distrito de Nanshan;District de Nanshan;Nanshan Barrutia;Nàm-sân-khî;Nam Sơn
+Nambu|JP||7q|2q0|aol|20|Nanbu-chō
+Nam Fung Sun Chuen|HK||6i|1pw|8t9|1x
+Nambucca Heads|AU||8l|-2d4|bt1|1t|Namoucca Heads
+Nam Shan Estate|HK||6i|1q1|8t5|1q
+Nambucca|AU||8l|-2d3|bsy|1p
+Nampicuan|PH||71|17p|9b3|1p
+Nanbonkaha|CI||0|r2|-ec|1e|Nambonkaha
+Náměšť nad Oslavou|CZ||9m|3sp|18w|1b
+Nam Cheong Estate|HK||6i|1q1|8t4|1b
+Na Mèo|VN||7v|1kd|82p|16|Namèo
+Nằm Vi|VN||6h|1pq|7ws|16
+Nambare|KE||16|1a|2n5|14|Nambale
+South Jacksonville|US||2f|32b|-6yn|x|Nam Jacksonville
+Namuac|PH||71|1fp|9cl|u
+Nāmīleh|IR||7o|2n7|3rm|u|Nāmleh
+Newmilns|GB||9b|4ah|-c0|u|Na Muilnean Ura
+Nambroca|ES||9d|32k|-ay|t
+Namassi|CI||0|m3|-9k|t
+South Hutchinson|US||2f|2xn|-7k2|q|Nam Hutchinson
+Nămoloasa-Sat|RO||8u|3ii|24m|o
+Nama|PH||71|18u|9au|o
+Namboongan|PH||71|19a|9ae|n
+Namche Bazaar|NP||6r|259|6ov|n|Nanche Bazar;Namche Bazar;Namče Bazaras;Namče Bazar;Namcze Bazar
+Nambalan|PH||71|17c|9am|n
+Náměšť na Hané|CZ||9m|3ts|1bf|n
+South Bloomfield|US||48|32c|-6ej|j|Nam Bloomfield
+Nambe|US||2p|2rp|-86e|i
+Namasigüe|HN||56|10o|-6q2|i|Namasique
+Namiquipa|MX||2g|299|-8ad|i
+Namahounondougou|CI||0|ml|-bh|h
+Namatanai|PG||bd|-a6|brg|f|Namatano;Namatania;Namatenei;Namatami;Namatani
+Namrūr|IR||7o|2ye|3md|e|Namrūd;Namarūr
+Nambira|CI||0|s5|-ge|d
+Namêche|BE||8t|3w7|dw|d|Namache
+Nămoloasa|RO||8u|3ii|24j|c
+Nanbanakaha|CI||0|or|-ec|b|Nambanakana;Nambanakaha
+Namasélékaha|CI||0|oo|-fz|a|Namassélékaha
+Namayondougou|CI||0|mi|-bg|a
+Nema|FM||an|jf|brt|a|Nama
+Namık Kemal Mahallesi|TR||94|32y|3eh|9
+Napodiagouiné|CI||0|k5|-lc|9|Nampodyagouiné
+Namdrik|MH||b2|fk|cyy|8|Nam̧dik;Namorik
+Nămăești|RO||8u|3hu|1xr|8
+Namak Chal|IR||7o|2ub|449|7
+Nām Kūl|IR||7o|2kq|3n5|6
+Nemāgerd|IR||7o|2jk|3vx|6|Nimagird;Namājerd
+Namur|CA||59|3ji|-5s5|6
+Nanayatla|MX||41|1lu|-7ky|5|Namayatla

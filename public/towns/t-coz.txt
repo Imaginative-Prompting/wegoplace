@@ -1,0 +1,22 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Manzanillo|MX||41|1h4|-81u|18f|Cōzcatlān
+Cozumel|MX||2b|1ky|-6pi|lg|Conzumel
+Gossau|CH|Saint Gallen|a7|3nq|pp|4q|Cozesaua
+Cosolapa|MX||41|1fo|-7gk|2b|Cozolapa;Cusalapa
+Kitsman|UA||98|3qk|1zk|1q|Cozmeni;Kotsman
+Cozad|US||2f|35i|-7pr|13
+Cozmeşti|RO||8u|3m8|25q|w|Cosmeşti
+Cozieni|RO|Buzău County|8u|3hx|21k|o
+Cozes|FR||9k|3im|-2b|k
+Cozotlán Norte|MX||41|1ir|-7mm|f
+Cozzana|IT||9o|35o|1bu|e
+Cozmeni|RO||8u|3kf|202|e|Csíkkozmás;Csik-Kozmas
+Cózar|ES||9d|2ze|-8j|d
+Cosmeștii-Vale|RO||8u|3jf|23t|d|Cozmeşti-Vale;Cosmeşti din Vale;Cosmeşti-Vale
+Cozia|RO|Iași County|8u|3mk|25h|b
+Kozyryany|UA||98|3qd|221|a|Kozyriany;Cozăreni
+Cozăneşti|RO||8u|3nh|1yp|a
+Coza|RO||8u|3jj|223|a
+Cozia|RO|Mehedinți County|8u|3et|1r3|7
+Cozieni|RO|Ilfov|8u|3fk|212|7
+Cozma|RO||8u|3m2|1w5|6|Cosma

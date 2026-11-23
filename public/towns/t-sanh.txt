@@ -1,0 +1,28 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+San Jose|US|California|3p|2vq|-9el|7p2|San-Joseo;San Chozė;Iosephopolis;San Xosé;Sanhosē;San-Xose
+Sanhe|CN|Hebei|7i|332|917|7g3|San-ho
+San Juan|PR||4m|1fb|-53n|385|San Chuanas;San Xoán;San-Juano;Sanhuana;San Xuan;San Huan
+San José|CR|San José|2i|rl|-6hk|2l2|San-Joseo;San Chosė;San Jusiy;San Jozé;San Xosé;San-Xose;Sanhosē;Urbs Sancti Iosephi in Costarica;San Hose
+Sanhe|CN|Chongqing|7i|2az|8b9|136|Fengdu Xian;Fengtuhein
+San José de las Lajas|CU||36|1rs|-6c7|f8|San Hose de las Hahas
+Sanhui|CN||7i|2bk|883|ea|San-hui-pa
+San Juan|US|Texas|2f|20r|-7ko|a6|San Chuanas;Sanhuana
+Sanharó|BR||4p|-n8|-2tl|56
+Sanhe|CN|Chongqing|7i|2bg|8ci|4t
+Sanhuikou|CN||7i|2eu|8ca|3o
+San Germán|PR||4m|1e8|-568|3d|San Herman;San Jermani;San 7 ermani
+Sanhe|CN|Gansu|7i|2ki|845|3b
+Sanhe|CN|Chongqing|7i|29j|86q|35
+San Hipólito|MX|Puebla|41|1gm|-7jv|2i
+Sanhoukro|CI||0|g2|-8p|25
+Sanheba|CN||7i|2k2|85k|1m
+Sanhala|CI||0|rw|-j1|z
+San Hipólito Chimalpa|MX||41|1ho|-7kx|p
+Seyne-les-Alpes|FR||9k|3f7|ho|e|Sèina;Sanha;Seyne
+Sanhirou|CI||0|kh|-ko|e
+Sanhara|CI||0|ru|-gf|e
+Sanhouti|CI||0|l2|-f1|c|Sanouti
+Saignon|FR||9k|3du|f3|a|Sanhon
+Sanhe|CN|Guizhou|7i|25z|87f|a|San-ho
+San Hipólito|MX|Tabasco|41|1ec|-76o|8

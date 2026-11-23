@@ -1,0 +1,24 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sevilla|ES||9d|2vu|-gl|5ar|Seville;Sebilla;Sevilo;Siviglia;Hispalis;Seviya;Sevilija;Sevilja;Sewilla;Sevilha;Sevilia;Séwéliye;Sivilja;Sevila;Sibilia;Sevilya;Sevilėjė
+Sevastopol|UA||9t|3fx|2l4|486|Sewastopol;Sebastòpol;Sebastopoli;Sebastopolis;Akyar;Aqyar;Sivastopol;Sebastopolo;Szevasztopol;Aqjar
+Sivas|TR||94|32f|2uu|21c|Sebastea;Sêwas;Sevas;Sebastia;Siwas
+Severodvinsk|RU||9i|4zc|32n|1hz|Sewerodwinsk;Siewierodwińsk;Sewjerodwinsk
+Seversk|RU||7r|4d8|6jt|ui|Sewersk;Siewiersk;Sewjersk
+Sewon|ID||6l|-lw|8ik|kg
+Severomorsk|RU||9i|5bv|2kt|ez|Siewieromorsk;Seweromorsk;Szeveromorszk;Sewjeromorsk
+Sewell|US||48|32h|-5sq|ae
+Sevlievo|BG||9v|3bi|1xq|6u|Savlievo;Sevelijevo;Sevlijevo;Sewliewo
+Severskaya|RU||9i|3gl|2zg|6c|Severskaja;Severskaïa;Sewerskaja
+Sevan|AM||80|34n|3gv|5h|Yelenovka;Sewan;Ssewan
+Siwāni|IN||6t|28b|5u1|5b|Sewāni
+Sewāi|IN||6t|1tm|6m0|27
+Sevsk|RU||9i|40v|2nt|24|Sewsk;Syevsk
+Seward|US|Nebraska|2f|35n|-7hq|20
+Sewickley|US||48|34m|-66q|12
+Seward|US|Alaska|1h|4my|-bj4|s|Sivard
+Sewaren|US||48|34n|-5qa|s|Sewarren
+Sewanee|US||2f|2ps|-6mo|n
+Sewall's Point|US||48|23k|-66s|l|Sewalls Point
+Sewickley Heights|US||48|34o|-66o|8
+Sewickley Hills|US||48|34q|-66m|7
+Sewen|FR||9k|3ot|j7|6

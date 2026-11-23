@@ -1,0 +1,72 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Raphaël|HT||4j|1i0|-5kk|ah|Sen Rafayèl
+Saint-Raphaël|FR||9k|3cm|it|9p|Saint Raphell
+Saint-Roch|FR|Provence-Alpes-Côte d'Azur|9k|3df|k9|58
+Saint Romuald|CA||59|3lw|-5hw|39
+Saint-Raymond|CA|Quebec|59|3m9|-5jj|33
+Saint-Rémy-de-Provence|FR||9k|3dn|df|2y|Sant Romieg de Provença;Sant Romieg;Saint Remy Provence
+Saint Rose|US||2f|2b7|-6yw|29|St. Rose
+Saint-Rémy-lès-Chevreuse|FR||9k|3rb|5s|29
+Saint-Renan|FR||9k|3qj|-cu|20|Lokournan
+Saint-Rémi|CA||59|3hr|-5oi|1x
+Saint-Rémy|FR|Bourgogne-Franche-Comté|9k|3lw|dg|1o
+Saint-Roch-de-l'Achigan|CA||59|3je|-5of|1j
+Saintry-sur-Seine|FR||9k|3r0|6y|1h|Stry-sur-Seine
+Saint Robert|US||2f|2x3|-742|17
+Saint-Romain-de-Colbosc|FR||9k|3tl|10|15
+Saint-Rémy-sur-Avre|FR||9k|3rg|3h|11|Saint Rémi-sur-Avre
+Saint-Raymond|CA|Quebec|59|3ib|-5oh|w
+Saint-Roman|MC||9h|3dj|kn|u|San Romano
+Saint-Romain-de-Jalionas|FR||9k|3j4|ei|u
+Saint-Romain-le-Puy|FR||9k|3ik|bg|t
+Saint-Raphaël|CA|Quebec|59|3m0|-5gk|p
+Saint-Rambert-en-Bugey|FR||9k|3jn|f4|m
+Saint-Rogatien|FR||9k|3k7|-2z|j
+Saint-Robert|CA||59|3jp|-5ms|i
+Saint-Rémy-sur-Durolle|FR||9k|3jh|9z|i|Sant Remic dau Montelh
+Saint-Romans|FR||9k|3hb|es|f
+Saint-Romain-en-Gal|FR||9k|3ih|di|f
+Saint-Rémy-en-Rollat|FR||9k|3ka|9f|f|Sant Remai
+Saint-Romain-de-Benet|FR||9k|3ix|-2d|f
+Saint Regis Park|US||3k|2y7|-6lu|f
+Saint-Romain-la-Motte|FR||9k|3k0|b3|e
+Saint-Romain-sur-Cher|FR||9k|3ng|3w|d
+Saint-Restitut|FR||9k|3f4|db|d
+Saint-Romain-de-Popey|FR||9k|3jd|cl|d
+Saint-Rémy-en-Mauges|FR||9k|3nb|-2z|d
+Saint-Riquier|FR||9k|3v9|5f|c|Centula;Saint-Ritchier
+Saint-Remy|BE||8t|3wu|fu|b
+Saint-Raphaël|CA|Quebec|59|3kh|-5v6|b
+Saint-Rémy|FR|Normandy|9k|3ry|-1e|b
+Saint-Rémy-de-Maurienne|FR||9k|3i4|hf|a
+Saint-Roch-des-Aulnaies|CA||59|3nf|-5ey|a
+Saint-Révérend|FR||9k|3lq|-53|a
+Saint-René|CA||59|3jt|-5g6|9
+Saint-Romain-en-Jarez|FR||9k|3ik|cm|9
+Saint-Rosaire|CA||59|3k8|-5k3|9
+Saint-Roch|FR|Centre-Val de Loire|9k|3ns|1m|9
+Saint-Rémy|FR|Auvergne-Rhône-Alpes|9k|3kb|ed|9
+Saint-Rémy-la-Vanne|FR||9k|3rj|8z|9
+Saint-Rémy-la-Varenne|FR||9k|3no|-v|9
+Saint-Romain-Lachalm|FR||9k|3hr|c1|9
+Saint-Rémy|FR|New Aquitaine|9k|3kt|-1h|9
+Saint-Rémy|FR|Bourgogne-Franche-Comté|9k|3oc|by|9
+Saint-Rémy-de-Sillé|FR||9k|3pv|-9|8
+Saint-Romain-la-Virvée|FR||9k|3gx|-14|8
+Saint-Romain-les-Atheux|FR||9k|3i1|c6|8
+Saint-Rome-de-Cernon|FR||9k|3e9|88|8
+Saint-Remy|FR|Bourgogne-Franche-Comté|9k|3ov|gy|8
+Saint-Romain-en-Viennois|FR||9k|3ey|e7|8|Sant Roman;Sant Roman de Vienés;Saint-Romain-en Viennais;Saint Romain
+Saint-Rome-de-Tarn|FR||9k|3ed|82|7
+Saint-Rémy-des-Monts|FR||9k|3q7|14|7
+Saint-Romans-lès-Melle|FR||9k|3kd|-j|7
+Saint-Rémy-du-Plain|FR||9k|3qd|-4d|6|Sant-Revig-ar-Plaen;Saint-Rémy-du-Plein
+Saint-Romphaire|FR||9k|3s8|-33|6
+Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson|FR||9k|3r3|cx|6
+Saint-Riquier-ès-Plains|FR||9k|3ue|1v|6
+Saint-Remèze|FR||9k|3fb|ci|6
+Saint-Romain-de-Lerps|FR||9k|3gy|dc|6
+Saint-Remy-Geest|BE||8t|3wz|di|6
+Saint-Romain-en-Gier|FR||9k|3il|d3|5
+Saint-Romain|FR||9k|3hs|f|5
+Saint-Rabier|FR||9k|3hh|37|5

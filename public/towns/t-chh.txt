@@ -1,0 +1,59 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Changsha|CN|Hunan|7i|26c|8pt|nvg|Ĉangŝa;Trường Sa;Cangzsah;Čchang-ša;Chhòng-sâ-sṳ;Csangsa;Changsja;Tn̂g-soa-chhī;Diòng-să;Čanša;Chansha
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Qingyuan|CN|Guangdong|7i|1tu|8pz|dew|Chĭng-uōng;Čching-jüan;Chhîn-yén-sṳ;Thanh Viễn;Chheng-oán-chhī;Tsingyüan;Ch’ing-yüan
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Aurangabad|IN|Maharashtra|6t|1j8|5ta|92f|Chhatrapati Sambhajinagar;Chhatrapati Sambhaji Nagar
+Qiqihar|CN||7i|3ni|9kc|6t4|Cicikar;Tề Tề Cáp Nhĩ;Ĉiĉiharo;Qiqihaer;Čičiharas;Cà̤-cà̤-hăk-ī;Chhè-chhè-hâ-ngì-sṳ;Qiqiha’er;Jijihaer
+Cangzhou|CN||7i|2yf|90l|42l|Thương Châu;Canĝou;Cchang-čou;Cangzou;Chŏng-ciŭ;Chhong-chiu-chhī
+Chifeng|CN||7i|39f|96g|2ob|Tschiföng;Xích Phong;Chiáh-hŭng;Čch’-feng;Chhak-fûng-sṳ;Chhek-hong-chhī;Ch’ih-feng
+Chuncheon|KR||7h|2x8|9ut|275|Ch'unch'ŏn;Čchunčchon;Čunčonas;Ĉunĉon;Chhûn-chhôn-sṳ;Çunçeon
+Chāpra|IN|Bihar|6t|1zm|6jf|1k8|Chupra;Chhapra
+Shulin|TW||7l|1xf|9da|1e0|Su-nà-khî;Šulinas;Şulin;Thụ Lâm;Chhiū-nâ-khu;Shu-lin
+Chhindwāra|IN||6t|1pa|63a|1cn|Chindwara
+Chhatarpur|IN|Madhya Pradesh|6t|1x8|653|13h|Čatarpur;Chhattarpur;Chkatarpur;Chantarpur
+Qamdo|CN||7i|2eh|7hy|nz|Chamdo;Csamdo;Čamdo;Chamudo;Chhamdo
+Chhibrāmau|IN||6t|23f|64u|fv
+Chhaya|IN||6t|1o3|5df|d9
+Chhatarpur|IN|Delhi|6t|276|5ye|d0|Chattarpur;Chhattarpur;Chatarpur
+Chhāgalnāiya|BD||6a|1ry|727|ax|Chhagalnaia;Chhagainaya;Chhagalnaya
+Chhātak|BD||6a|1xk|72n|aw|Cehatak;Chatak
+Nagato|JP||7q|2ni|a4g|91|Chhòng-mùn-sṳ
+Chhabra|IN||6t|1wi|5xg|8z
+Chhota Gobindpur|IN||6t|1r7|6nm|8u
+Chhota Udepur|IN||6t|1py|5pm|76|Chhota Udaipur
+Chharra|IN||6t|25k|61s|6t
+Chhātāpur|IN||6t|20u|6po|6i
+Chhanerā|IN||6t|1p0|5x1|65
+Chhatrapur|IN||6t|1hs|6k2|64|Chatrapur
+Chhāta|IN||6t|250|5zb|5x
+Chhor|PK||6q|1yv|5du|5w|Chor
+Chhāpar|IN||6t|25a|5qs|5h
+Chhaprauli|IN||6t|295|5yd|5c
+Chhipa Barod|IN||6t|1we|5x3|58
+Chhiri|IN||6t|1km|5mm|58
+Chhoti Sādri|IN||6t|1vq|5ri|54
+Chhala|IN||6t|1sr|5m5|4t
+Chhāwāla|IN||6t|27c|5xw|43
+Chhutmalpur|IN||6t|2bf|5zz|33
+Chhachhrauli|IN||6t|2c0|5yw|30
+Chhatral INA|IN||6t|1sp|5l8|2u
+Chhapra|IN||6t|1m5|5ml|2t
+Chhapera|IN||6t|1ud|5wd|2d
+Chhāpi|IN||6t|1ur|5l4|2c
+Chhurikala|IN||6t|1qg|6dh|2a
+Chhuīkhadān|IN||6t|1ns|690|1z
+Chhloung|KH||78|y2|86d|1u|Phum Chhlong;Phumĭ Chhlong;Chlong;Chhlong
+Chhura|IN||6t|1lt|6cd|1p
+Chhnok Tru|KH||78|ys|825|1m|Chhnok-Trou
+Chhatha|IN||6t|2is|5rv|1c
+Chhuria Kalān|IN||6t|1md|67z|19
+Chhotedongar|IN||6t|1i1|69x|12|Chota Dongar;Chhota Dongar
+Chhokrān|IN||6t|2ed|5uv|n
+Chhetrapa1|NP||6r|24w|6n8|a
+Chhitman|IN||6t|1yz|6kr|9
+Chhibro|NP||6r|2b5|6bc|8|Chhipra

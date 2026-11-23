@@ -1,0 +1,115 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Howrah|IN||6t|1qq|6tc|7xh|Haora;Haura;Hawrah
+Xiaogan|CN||7i|2dx|8sg|70b|Háu-gāng;Siao-kan;Hiếu Cảm;Hàu-kám-chhī;Siaokan;Hsiao-kan
+Ḩawsh ‘Īsá|EG||c|2dv|2c5|n2|Haush ‘Isá;Ḥôsh ‘Îsa
+Haugesund|NO||9j|4l1|en|b7|Haugesiundas
+A Yun Pa|VN||6h|118|8d8|9r|Cheo Reo;Phú Bổn;Hậu Bổn;Ayun Pa
+Hauppauge|US||48|35f|-5nc|5t|Hauppaugs
+Haukipudas|FI||92|512|1yf|4t
+Hausbruch|DE||8r|44j|rg|4p
+Haubourdin|FR||9k|3wl|8b|4d
+Hautmont|FR||9k|3vl|aw|4b
+Hau-ri|KP||7a|36g|9zn|3s
+Hauzenberg|DE||8r|3r5|11v|3h
+Hauterive|CA||59|3so|-59m|37
+Sophia Antipolis|FR||9k|3d6|jl|2j|Garbejaire;Haut Sartoux;Sophia-Antipolis
+Haughton Green|GB||9b|44g|-5u|2i
+Hausham|DE||8r|3on|ww|2a
+Hausjärvi|FI||92|4ou|1x9|27
+Hautes-Terres|CA||43|3ob|-50t|1p
+Haukilahti|FI||92|4n4|1wt|1n|Gäddvik;Jeda
+Hausach|DE||8r|3q4|mq|1l
+Haute-Goulaine|FR||9k|3n4|-3z|1h|Gorre-Goulen;Sancta Radegundis de Golena
+Hauraki|NZ||ak|-2u8|dhi|17
+Hauenstein|DE||8r|3sn|lt|15
+Hau‘ula|US||ax|1o1|-c6n|15|Hauula
+Hauteville-Lompnes|FR||9k|3jq|fk|15
+Hauho|FI||92|4px|1w8|12
+Haut-Madawaska|CA||43|3na|-5ao|11
+Hausen|DE|Bavaria|8r|3u1|un|10
+Hauʻula-Punaluʻu|US||ax|1o0|-c6m|y
+Haughton|US||2f|2id|-77q|x
+Hauswalde|DE||8r|3y3|135|x
+Hausen am Albis / Hausen (Dorf)|CH||a7|3n8|np|x|Hausen am Albis
+Hauingen|DE||8r|3oc|le|w
+Haultain|CA||4q|40r|-889|v
+Hautrage|BE||8t|3w8|ah|u
+Haulerwijk|NL||8m|43e|hl|t|Haulerwiek;Haulerwyk
+Hausmannstätten|AT||a2|3mj|173|t
+Haucourt|FR||9k|3th|g4|t
+Hausen|CH||a7|3nu|mt|t
+Haundorf|DE||8r|3sm|tx|s
+Haus im Ennstal|AT||a2|3np|129|o
+Hausen|DE|Baden-Wurttemberg|8r|3og|ls|o
+Haulchin|FR||9k|3vs|9k|o
+Haukivuori|FI||92|4sa|23m|n
+Hautot-sur-Mer|FR||9k|3um|2v|m
+Hauge i Dalane|NO||9j|4i2|hg|l
+Hauknes|NO||9j|544|133|l
+Hausen|DE|Bavaria|8r|3rq|xd|l
+Haukiluoma|FI||92|4qw|1tk|l
+Hausmening|AT||a2|3pj|155|k
+Hausen|DE|Bavaria|8r|3uj|pl|k
+Haut-Magenta|NC||b8|-1pu|cue|k|Haut Magenta
+Hausen|DE|Rheinland-Pfalz|8r|3we|kl|k
+Hautcharage|LU||9c|3tp|gf|k|Uewerkäerjeng;Oberkerschen
+Hauset|BE||8t|3wv|gv|k
+Haussy|FR||9k|3vi|9o|h
+Haubstadt|US||2f|2y5|-6r9|h
+Houssen|FR||9k|3pp|ki|h|Haussen
+Haunsheim|DE||8r|3r0|st|g
+Houwaart|BE||8t|3xh|di|g|Hauwaert
+Hausleiten|AT||a2|3qe|18q|f
+Hauterives|FR||9k|3hq|dy|e
+Häusern|DE||8r|3on|mp|d
+Hauptstuhl|DE||8r|3t8|ks|d
+Haughley|GB||9b|412|2p|d
+Haulchin|BE||8t|3vy|bc|d
+Haute-Rivoire|FR||9k|3j0|c8|c
+Hautefort|FR||9k|3hq|37|c|Autafòrt
+Hauville|FR||9k|3t8|25|c
+Haumoana|NZ||ak|-320|dnj|c
+Hauteville-lès-Dijon|FR||9k|3nl|dv|b
+Hauterive|FR|Auvergne-Rhône-Alpes|9k|3k1|9l|b
+Hauptbahnhof|DE||8r|415|tb|a
+Haute-Amance|FR||9k|3ov|ff|a
+Haute-Aboujagane|CA||43|3k7|-4yw|a
+Haughton|GB||9b|42m|-64|9
+Hausen / Heisch|CH||a7|3n9|np|9
+Hautzendorf|AT|Styria|a2|3mi|16s|9
+Haudainville|FR||9k|3sh|f2|9
+Hauptfriedhof|DE||8r|416|tc|9
+Hăulișca|RO||8u|3jg|224|9
+Haut-Ittre|BE||8t|3wp|by|9
+Haus|AT||a2|3np|129|9
+Hautvillers|FR||9k|3sc|ay|9
+Hauteluce|FR||9k|3j3|ia|9|Hôtaluce
+Häuslingen|DE||8r|42p|q3|9
+Hausbrunn|AT||a2|3r3|1ar|9
+Hausneindorf|DE||8r|400|vb|8
+Hauteville-sur-Fier|FR||9k|3ji|gl|8
+Haut-Fays|BE||8t|3uw|dy|8
+Haut-Mauco|FR||9k|3dr|-1j|8
+Haugsdorf|AT||a2|3rb|18o|8
+Haudivillers|FR||9k|3th|68|8
+Haux|FR||9k|3ga|-11|8
+Hausen|DE|Bavaria|8r|3v3|sn|8
+Hausmanning|AT||a2|3p3|138|8
+Haut-Sheila|CA||43|3on|-50b|8
+Hauwert|NL||8m|42f|e6|8
+Hausen|DE|Baden-Wurttemberg|8r|3p4|o3|7
+Hautecourt-Romanèche|FR||9k|3k8|f2|7
+Hautefage-la-Tour|FR||9k|3f4|26|7
+Hauser|US||3p|3op|-913|7
+Hauxton|GB||9b|40v|a|7
+Haut Divajeu|FR||9k|3g6|dy|7|Divajeu
+Hejtmánkovice|CZ||9m|3wk|19a|7|Hauptmannsdorf
+Hauteville-sur-Mer|FR||9k|3s2|-4a|6
+Hauteroda|DE||8r|3yf|vc|6
+La Haute-Chapelle|FR||9k|3r1|-1v|6|Haute-Chapelle
+Hauskirchen|AT||a2|3r1|1ak|6
+Hautot-Saint-Sulpice|FR||9k|3u0|22|6
+Hautzendorf|AT|Lower Austria|a2|3qk|19t|5
+Hauconcourt|FR||9k|3sq|h7|5
+Hauteville|CH||a7|3ln|jr|5|Altavila
+Hauterive|FR|New Aquitaine|9k|3ff|1m|5

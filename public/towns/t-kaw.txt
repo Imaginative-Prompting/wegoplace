@@ -1,0 +1,74 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kawasaki|JP|Kanagawa|7q|2qo|as4|bvb|Kaŭasaki;Kavasakis;Kavaszaki;Kavasaki
+Kawaguchi|JP|Saitama|7q|2rh|as3|4oq|Kavaquçi;Kavagučis;Kavaguchi;Kawagutsi;Kawaguti-chhī
+Kom Ombo|EG||c|1w0|2jj|35p|Kawm Ombo
+Kawagoe|JP||7q|2rr|arh|2qi|Kavagoe
+Kaunas|LT||a3|48i|1uf|28e|Kowno;Kauen;Kauņa;Kaŭno;Kawnas;Couna;Kauns;Caunas;Kovno
+Shibīn al Kawm|EG||c|2cv|2e5|22f
+Kawanishi|JP||7q|2oq|ag6|174|Kavanishi;Kawanisi-chhī
+Kawachi-Nagano|JP||7q|2no|agm|s9|Kawachinagano
+Karwar|IN||6t|155|5px|lf|Kárvár;Kawar
+Kawit|PH|Calabarzon|71|144|9bu|kc
+Kawthoung|MM||7y|rq|7lr|g3|Kawthaung
+Kawm Ḩamādah|EG||c|2dg|2da|fh
+Kavála|GR||8p|35q|1vt|f0|Kawala;Cavala;Cavalla;Kaválla
+Kawalu|ID||6l|-ki|8cl|e1
+Kawkareik|MM||7y|1a0|7kw|dh|Kawkareit;Kawkayeik
+Kawardha|IN||6t|1p5|69n|cz
+Kavadarci|MK||9u|373|1p5|as|Kavadartsi;Kavadari;Kawadarci;Kavadarchi;Kavadar
+Kawanoechō|JP||7q|2mi|ab2|ag|Kawanoe-shi
+Kawasan Penempatan Ulu Benut Lima|MY||6v|4u|7z0|8y
+Kawasan Penempatan Ulu Benut Tiga|MY||6v|4v|7yw|8y
+Kawasan Penempatan Ulu Sungai Benut|MY||6v|4v|7yw|8y
+Kawambwa|ZM||z|-r7|28s|8o|Kawamowa
+Kavajë|AL||9y|36f|1ic|8c|Kawaja;Kavaja;Kavaya;Kavalye;Kavaïa;Cavaja;Kavaj
+Kawasi|ID||6m|-4f|9tx|88|Kawass;Kawassi
+Kawasan Perindustrian Cheng|MY||6v|6a|7vz|5c
+Kawage|JP||7q|2oo|ajb|4z
+Kawasaki|JP|Fukuoka|7q|2lc|a3d|4t
+Kavalerovo|RU||7w|3ez|af5|4p|Kawalerowo;Kavaletovo;Kovalerovo
+Kawaminami|JP||7q|2he|a5c|4a|Kawanami
+Kavieng|PG||bd|-75|bmw|41|Kaewieng;Käwieng
+Kawaida|KE||16|-37|2u4|3w
+Kawatana|JP||7q|2jv|a0r|3q
+Kavkazskaya|RU||9i|3i8|34z|39|Kavkazskaja;Kawkaskaja
+Kavarna|BG||9v|3co|26q|34|Kawarna;Cavarna
+Kawake|CN||7t|2wm|66g|32
+Kawara|JP|Fukuoka|7q|2lj|a3g|2z
+Kawānt|IN||6t|1pd|5pp|2o|Kavant
+Kawāi|IN||6t|1ws|5x5|2n
+Kawasaki|JP|Miyagi|7q|2y1|auo|2e
+Kawnpur|IN||6t|1ut|75g|25|N. Kawnpui
+Kawerau|NZ||ak|-2xu|dmu|25
+Kawaguchi|JP|Tokushima|7q|2lw|adj|22
+Kawazu-ikadaba|JP||7q|2ol|aq1|1x
+Kawasugaya|JP||7q|2q9|atu|1w
+Ka Wai Chuen|HK||6i|1pz|8t7|1u
+Kawahara|JP||7q|2j5|a3m|1s
+Kawlet|IN||6t|14c|5uh|1r
+Kawahigashi|JP||7q|2f5|a3x|1q
+Kauit|PH||71|v3|9kb|1m|Cauit;Kawit
+Kawaharada|JP||7q|2v5|atv|1d
+Kawungan|AU||8c|-1ya|bsl|1b
+Westport|NZ||ak|-37z|d8o|1a|Kawatiri
+Kawana|AU||8c|-1su|bm2|17
+Kaukab Abū el Hījā|IL||6n|2j7|2px|14|Kawkab Abū el Hījā;Kawkab Abu-al-Hij
+Kawailoa|US||ax|1o2|-c74|12
+Cawayan Bugtong|PH||71|17f|9bi|10|Cawayan Bugtang;Kawayah Bugtong;Cawayang Bugtong
+Kawamoto|JP||7q|2p6|a82|x
+Kawara|JP|Kanagawa|7q|2qj|aqv|u
+Cawayan|PH|Central Visayas|71|r8|9j5|r|Cauayan;Kawayan
+Kawit|PH|Northern Mindanao|71|mr|9kn|n
+Kawayan|PH||71|ky|9hb|m
+Kawakawa|NZ||ak|-2qa|dfj|f
+Kawt Dun|MM||7y|19o|7f5|e|Kawdun
+Cavan|FR||9k|3r7|-9b|c|Kawan
+Kawai|JP||7q|2n5|ahe|c
+Kawolo-Sobara|CI||0|n2|-ck|b
+Kawlchaw ?E?|IN||6t|1q8|767|b
+Kawolo-Dioulasso|CI||0|mz|-cg|a
+Kawawachikamach|CA||59|48f|-55h|6
+Kāvand|IR||7o|2tp|3pr|6|Kavyand;Kāwand
+Kawęczyn|PL|Lublin|a5|3wr|1rr|6
+Kawhia|NZ||ak|-2xr|dhm|5
+Kawęczyn|PL|Lublin|a5|3zn|1p4|5

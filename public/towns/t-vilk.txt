@@ -1,0 +1,21 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vilkhivskyi|UA||98|3qu|314|z3|Artemivskyi rayon;Artemivskyi
+Wilkes-Barre|US||48|36l|-5us|bc|Wilkes Barre;Vilkesberas;Vilksa-Bāra;Wilkesbarre
+Vilkpėdė|LT||a3|47v|1y5|5x
+Ukmerge|LT||a3|49h|1wr|5m|Wilkomir;Wiłkomierz;Okmergie;Vilkomir
+Wilkau-Haßlau|DE||8r|3ws|yr|3b|Vilkava-Haslava
+Vilkaviskis|LT||a3|47t|1rz|2m|Wyłkowyszki;Vilkavišķi;Vilkaviškio;Wiłkowyszki;Vilkavishkis
+Vylkove|UA||98|3i4|2a7|25|Vâlcov;Wylkowe;Vılkove;Wilkowo;Vilkovo
+Vilkhivtsi|UA||98|3pn|1tz|y|Irhóc;Vilhivți;Vil’khivtsi
+Vilkhivtsi-Lazy|UA||98|3pp|1tt|w|Vil’khivtsi-Lazy;Ol’khovtsy-Lazy
+Vilkhovets|UA||98|3s8|2dt|u|Ol’khovets
+Vilkija|LT||a3|48x|1tj|n|Vil’kiya;Vilkijos
+Vilkhivka|UA|Zakarpattia|98|3q3|1s3|j|Vil’khivka;Vil’khovka;Ol’khovka
+Vilkhivchyk|UA||98|3pp|1ty|e|Vil’khivchyk;Ol’khovchik
+Vilkhovatyi|UA||98|3pd|1v5|e|Ol’khovatyy;Vil’khovatyy;Vil’khovati;Vil’khovata
+Vilkhuvatka|UA|Kharkiv|98|3vf|2w8|d|Vil’khuvatka
+Vilkhivka|UA|Kharkiv|98|3uv|2tf|c|Vil’khivka;Ol’khov
+Vilkhy|UA||98|3tw|2gu|9|Vil’khy
+Vilkhovytsia|UA||98|3qo|1rh|7|Vil’khovytsya;Ol’khovitsa
+Vilkhuvatka|UA|Poltava|98|3rz|2mz|7|Ol'khovatka;Vil’khovatka;Vilkhovatka
+Vilkhuvatka|UA|Poltava|98|3tu|2q5|7|Vil’khuvatka;Ol’khovatka

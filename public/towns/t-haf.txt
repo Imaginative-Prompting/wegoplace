@@ -1,0 +1,31 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Copenhagen|DK||8y|4ao|yx|8wg|København;Köpenhamn;Kopenhago;Copenhague;Kopenhagen;Copenaguen;Copenhaguen;Kodaň;Kòpenhaga;Kopenhaagen;Kopenage;Kopenhage;Kööpenhamina;Keypmannahavn;Cóbanhávan;Koppenhága;Kaupmannahöfn;Copenaghen;Hafnia;Kopenhāgena;Copenhaga;Kobenhaven;Kopenhag;Copenaga;Kjøpenhamn;Københámman;Kjobenhavn
+Hafizabad|PK||6q|2h3|5op|2gi
+Hafar Al-Batin|SA||7e|26z|3jp|23g|Haffar El Batin;Ḩafar al Bāţin
+Hāflong|IN||6t|1xw|76e|c6|Haflang
+Hafnarfjörður|IS||87|4xz|-1oy|8r|Hafnarfirdi;Hafnarfjarðar;Hafnarfjarðarkaupstaður;Habnarfjorduras;Halfnarfjorður
+Hafshejān|IR||7o|2hj|3x3|5y|Hafeshjān
+Haßloch|DE||8r|3t4|my|5s|Hafsloch
+Haftkel|IR||7o|2fd|3tl|4e|Haftgel
+Prymorskyi|UA|Crimea|9t|3hb|2qk|3i|Primorskiy;Little Kamnishi;Hafuz
+Haffouz|TN||1e|2qz|qw|2d|Ḩaffūz
+Haftvān|IR||7o|2y1|3gc|2a
+Havsa|TR||94|37f|22i|23|Hafsa
+Hafendorf|AT||a2|3nu|16k|1t
+HafenCity|DE||8r|44q|rr|1m|Hafen City
+Haft Cheshmeh|IR|Ilam Province|7o|2lf|3ks|z
+Hafik|TR||94|32q|2vv|z
+Haft Jūy|IR||7o|2r9|3xr|v|Haft Jūb;Haft Jūi
+Hafızpaşa|TR||94|34t|3br|r
+Hafteh|IR||7o|2m3|3to|r
+Haftoni|AZ||61|2zo|3rg|k|Havtoni;Hafthoni;Gaftoni
+Hafenlohr|DE||8r|3uj|qo|i
+Hafezpur|IN||6t|1qy|6sq|h
+Höfn|IS||87|4yh|-169|h|Hafnar;Hafnar í Hornafirði;Sveitarfélagið Hornafjörður
+Haft Cheshmeh|IR|Ilam Province|7o|2jl|3nt|g
+Turun satama|FI||92|4nw|1pq|g|Åbo hamn;Port of Turku;Turku Harbour;Port de Turku;Hafen Turku
+Haft Cheshmeh|IR|East Azerbaijan|7o|2wk|3jo|f|Haft Chāshmeh
+Haftshūyeh|IR||7o|2iu|3zv|c|Haftshū’īyeh;Haft Shūyeh;Haft Shū’īyeh
+H̱afets H̱ayyim|IL||6n|2gb|2oo|7|H̱afeẕ H̱ayyim;Hafets Hayim;Ḥafets Haiyim
+Haft Cheshmeh|IR|East Azerbaijan|7o|2y3|3ib|6|Haft Chashmeh

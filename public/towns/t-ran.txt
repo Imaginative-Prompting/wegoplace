@@ -1,0 +1,312 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+Yangon|MM||7y|1ap|7f4|yjs|Rangun;Rangoon;Rangoun;Rangūnas;Rangum;Jangona;Jangono;Ngióng-kông;Jangún;Rangon;Yanqon;Jangon;Yangjgvangh;Yankoun
+Ranchi|IN||6t|1su|6kz|8n8|Ráňčí;Rančis;Ráncsí
+Rangpur|BD||6a|1zj|6vx|7yi|Rongpur
+Randburg|ZA||o|-20h|25s|2ln|Rendburg
+Rānipet|IN||6t|zw|64d|21f
+Rāniganj|IN|Telangana|6t|1cf|621|1oj
+Rancagua|CL||4u|-2mx|-5gi|1n3|Rankagva;Rankawa;Rancaqua
+Phan Rang-Tháp Chàm|VN||6h|w4|8er|1ls|Phan Rang;Phan Rang- Thap Cham;Phan Ranh
+Qadirpur Ran|PK||6q|2c5|5j3|1jk
+Rangel|AO||x|-oj|10u|1gy
+Rancho Cucamonga|US||3p|2mr|-92n|1co|Cucamonga
+Cam Ranh|VN||6h|x4|8f8|14s
+Rangkasbitung|ID||6l|-ho|875|122|Rangkas Betung;Rangkasbitoeng
+Randfontein|ZA||o|-20q|24y|115
+Rānīganj|IN|West Bengal|6t|1tm|6q1|10h
+Rānyah|IQ||5z|2sq|3go|vq|Ṟaniye;Raniyeh;Rānya;Raniya;Rānīyah
+Ranebennur|IN||6t|14m|5u3|tk|Ranibennur;Renibennur;Raneebennur
+Rangamati|BD||6a|1qw|743|th
+Rantauprapat|ID||6l|5u|7pb|sm
+Rancho Cordova|US||3p|2z7|-9cy|jq|Rančo Kordova
+Rānāghāt|IN||6t|1se|6u1|jq
+Randers|DK||8y|4cu|rw|hg
+Rancho Penasquitos|US||3p|2jk|-91c|go
+Rancho Santa Margarita|US||3p|2lg|-92o|dp
+Rānāvāv|IN||6t|1o9|5dq|cs
+Ranyah|SA||7e|1n1|3b1|cr
+Ranchuelo|CU||36|1q5|-66n|c5
+Ranjangaon S|IN||6t|1j4|5sx|bx
+Rancho Palos Verdes|US||3p|2lq|-94v|bv
+Rantepao|ID||70|-89|992|b8
+Rangat|IN||6t|yr|764|as
+Rāmsar|IR||7o|2uk|3wp|a0|Rānsar
+Ranipur|PK||6q|23t|5ab|9j|Raripur
+Ranam|KP||7a|37v|a08|9h|Nanam
+Randallstown|US||48|31d|-5xc|90
+Randolph|US|Massachusetts|48|394|-5hc|8x
+Randwick|AU||8l|-2m7|bo5|81
+Rancharia|BR||4w|-1pr|-3xd|7y
+Randudongkal|ID||6l|-jq|8fo|7x|Randoedongkal;Randudongkol
+Rangia|IN||6t|21h|72h|7r|Rangiya
+Randolph|US|New Jersey|48|35h|-5r6|75
+Rānia|IN||6t|2a0|5rw|6z|Raniya
+Ranong|TH||62|rp|7lz|6u|Ranonq;Renong;Ranaong;Ranohng
+Rancho San Diego|US||3p|2iz|-90u|5w
+Rānikhet|IN||6t|2ac|64n|5j|Rāwikhet
+Ranot|TH||62|lm|7qo|5i|Renut;Rahnot;Ranod
+Rangiora|NZ||ak|-3ca|dbe|5d
+Ranau|MY||6w|gj|902|5d
+Rānīpur|IN|Uttar Pradesh|6t|1y5|63m|58
+Rangāpāra|IN||6t|22k|75f|57
+Rancho Mirage|US||3p|2lq|-8zd|51
+Rano|NG||u|w4|nu|50
+Rangiro|RW||s|-6o|290|50
+Ranzan|JP||7q|2s6|ar0|4z
+Ranst|BE||8t|3y7|cp|4u
+Rānpur|IN||6t|1q3|5j7|4p
+Ra-ngae|TH||62|hi|7ul|4p
+Rāni Khera|IN||6t|27r|5xz|4k
+Ransiki|ID||6m|-47|acp|4i|Ranasiki
+Rāmpur|IN|Odisha|6t|1mj|6ia|4a|Ranpur
+Rāni|IN||6t|1yf|5nn|3v
+Rānīr Bāzār|IN||6t|1u7|71t|3n
+Rantoul|US||2f|33z|-6sw|3m
+Rānāpur|IN||6t|1qx|5r0|3g
+Rankweil|AT||a2|3nb|qs|3b
+Ranoli|IN||6t|1q8|5n6|39
+Rangdu|CN||7i|2cz|8cv|38
+Großräschen|DE||8r|3zb|12x|37|Mukrań;Rań;Großeraeschen
+Rangpo|IN||6t|23i|6tx|2x|Rungpo
+Randazzo|IT||9o|2x8|15j|2r|Rannazzu
+Rangsdorf|DE||8r|419|11a|2j
+Ransart|BE||8t|3w6|cg|2g
+Ranai Kota|ID||79|ay|8d2|2f
+Ran|IN||6t|1pm|5cl|2e
+Rancho Alegre [Fraccionamiento]|MX||41|1kv|-7yu|2c
+Rangeville|AU||8c|-24m|bq6|29
+Ranch Park|CA||5b|3su|-9h5|27
+Ranchlands|CA||2s|3y0|-8t6|23
+Ransbach-Baumbach|DE||8r|3w6|lh|21
+Randenbroek|NL||8m|40v|f0|1z
+Rangapahār|IN||6t|1zu|78b|1v
+Rancheria Payau|PH||71|lt|9i4|1t|Lungsod sa Lakewood;Bayan ng Lakewood
+Ranohira|MG||a8|-1qg|3i4|1o
+Ranica|IT||9o|3j0|qz|1n
+Ranchettes|US||2p|36i|-833|1m
+Rancho Murieta|US||3p|2yy|-9cd|1j
+Randalstown|GB||9b|483|-hi|1i|Baile Raghnaill;Baile Raghnail
+Rangendingen|DE||8r|3qe|op|1g
+Rangāpuram|IN||6t|10i|64k|1e
+Ranstadt|DE||8r|3vw|oy|1e
+Ranson|US||48|316|-60a|1d
+Rankoshimachi|JP||7q|3ax|aue|1d
+Rānīpur|IN|Madhya Pradesh|6t|1qq|60m|1a
+Rancho Veloz|CU||36|1rk|-67b|19
+Rancho Calaveras|US||3p|2xx|-9bq|19
+Rannebergen|SE||9w|4gk|xj|18
+Randleman|US||48|2ri|-65o|16
+Rankovce|MK||9u|395|1pg|15|Rankovci
+Rang-du-Fliers|FR||9k|3w2|4k|13|Rin-du-Fïyers
+Ranilug|XK||8q|3a1|1o0|12|Ranillug;Ranllug;Ranillugu
+Rancul|AR||1s|-2pf|-4zo|11
+Ranua|FI||92|534|21p|10
+Ranlo|US||48|2q1|-69d|10
+Ransang|PH||71|ow|92m|z
+Ragonvalia|CO||27|l2|-5lc|z|Rangovalia
+Rancho Alegre|BR||4w|-1s3|-3xf|z
+Randersacker|DE||8r|3u8|rq|z
+Rancho Nuevo de la Cruz|MX||41|1ld|-7u0|y
+Rancho Queimado|BR||4w|-24v|-3s6|x|Rancho Quemado
+Rantasalmi|FI||92|4sf|26m|w|Rantasalimi
+Randogne|CH||a7|3kn|ku|w
+Rannersdorf|AT||a2|3pp|19q|v
+Rancho Santa Fe|US||3p|2jq|-91k|v
+Ranérou|SN||g|16i|-12t|u
+Rankin Inlet|CA||4o|4uh|-73t|u
+Rancho Nuevo|MX|San Luis Potosí|41|1pq|-7sc|s
+Rantīs|PS||6g|2gz|2pa|s
+Rancho Verde|MX||58|2go|-8zv|s
+Rantaperkiö|FI||92|4qr|1u0|r
+Rantigny|FR||9k|3t1|6s|q
+Rancho Alegre d'Oeste|BR||4w|-1vj|-433|q
+Ranchos de Taos|US||2p|2t0|-85d|p|Ranchos of Taos
+Rancho Viejo|US||2f|20c|-7j0|p
+Ranger|US||2f|2i7|-7m4|p
+Rantau|MY||6v|77|7v8|p
+Rankin Park|AU||8l|-2jh|bpc|o
+Rangely|US||2p|33d|-8e8|o|Rangeley
+Rantau Panjang|MY||6v|gq|7va|o
+Rāniwāra|IN||6t|1wr|5kl|n
+Ranshofen|AT||a2|3pz|106|n
+Raniżów|PL||a5|3vm|1p1|m
+Ranao|PH||71|191|98u|l|Ronao
+Rankin|US|Pennsylvania|48|349|-65w|l
+Pannerden|NL||8m|405|gs|l|Rannereen
+Randa|DJ||i|wx|3ai|l
+Randvaal|ZA||o|-21f|261|k
+Rantsila|FI||92|4z7|1za|k
+Ranis|DE||8r|3wq|w5|k
+Rancho Viejo|MX|Guanajuato|41|1me|-7rx|k
+Ranville|FR||9k|3sr|-q|k
+Randolph|US|Vermont|48|3e1|-5lv|k
+Råneå|SE||9w|52x|1px|k
+Renče|SI||9a|3jh|11z|j|Ranziano
+Räntämäki|FI||92|4nz|1py|j
+Randvere|EE||9x|4la|1x7|j
+Randgate|ZA||o|-26w|2hi|j
+Râncăciov|RO||8u|3gp|1yg|i|Rîncăciov
+Rangiriri|NZ||ak|-2vz|dih|i
+Rangeway|AU||8k|-27z|8uf|i
+Randolph|US|Maine|48|3ev|-5dt|i
+Randolph|US|Wisconsin|2f|3cy|-6v9|i
+Ranouinké|CI||0|cs|-kz|i
+Ranón|ES||9d|3cz|-gu|h
+Rancho Chico|MX||41|1g3|-7ja|h
+Rance|BE||8t|3va|bw|h
+Rancho Bellavista [Fraccionamiento]|MX||41|1l9|-7r1|h
+Rancho Alegre|US||2f|252|-7kh|h
+Castlepoint|NZ||ak|-35m|dli|h|Rangiwhakaoma
+Ranchito|BZ||24|1f2|-6tl|g
+Orranteño|MX||2g|26a|-84m|g|Ranteño
+Rand|US||48|2yc|-6ak|g
+Random Lake|US||2f|3cz|-6sc|g
+Rantrum|DE||8r|478|pd|g
+Rancho Viejo|MX|Michoacán|41|1hh|-7qy|f|Rodeo
+Rancho Tehama Reserve|US||3p|336|-9g0|f
+Rancho Grande|HN||56|14t|-6r2|f
+Rainelle|US||48|2xh|-68d|f|Rainette;Rainell;Ranell
+Randan|FR||9k|3ju|9b|f
+Rancho Nuevo|MX|Zacatecas|41|1q9|-7wb|f
+Ransomville|US||48|3c4|-637|e
+Rancho Nuevo de Morelos (De Guadalupe)|MX||41|1q2|-7ur|e
+Rancho Nuevo|MX|Puebla|41|1fm|-7i2|e
+Ranquitte|HT||4j|1hx|-5k8|e|Rankit;Ranquite
+Ranskill|GB||9b|44a|-2t|e|Ramskill
+Rancho Nuevo|MX|Tabasco|3z|1e7|-76j|d
+Ranchito de Castro|MX||3x|1z3|-8d6|d
+Randolph|US|New York|48|394|-63e|d
+Ranchería de Pocitos|MX||41|1hv|-7jk|d
+Ranelagh|AU||8g|-3bh|bcg|c
+Ranchpar|AM||80|337|3f9|c|Rranch’par
+Rancho Alegre|MX|México|41|1ij|-7ow|c
+Rancho de las Lomas|MX||41|1da|-7np|c
+Rancho Alegre|MX|Coahuila|44|1yu|-7z1|c
+Rannée|FR||9k|3p4|-3g|c|Radenez;Radenix
+Rancho del Padre|MX||41|1gy|-7f6|c
+Rannungen|DE||8r|3vd|sc|c
+Rânzești|RO||8u|3ke|261|c|Banzeştii;Rînzeşti;Ranzăşti
+Rancho Nuevo|MX|Veracruz|41|1lf|-7i1|c
+Ransom Canyon|US||2f|2l5|-7ug|b
+Cantón Rancho Nuevo|MX||3z|15u|-751|b|Rancho Nuevo
+Rancho Viejo|MX|Guerrero|41|1au|-7nt|b
+Hvolsvöllur|IS||87|4x3|-1k6|b|Hvolsvelli;Hvolsvöll;Hvolsvallar;Rangárþing eystra
+Ranchicourt|FR||9k|3w4|74|b
+Rancho Viejo (Rancho Nuevo de la Democracia)|MX||41|1bb|-7ku|b
+Rancho Viejo|MX|Veracruz|41|1i1|-7gu|b
+Ranggen|AT||a2|3na|v5|b
+Rancho Nuevo|MX|Veracruz|41|1fi|-7gu|b
+Rancho Alegre|MX|Veracruz|41|1k5|-7j8|b
+Rancho Nuevo de la Luz|MX||41|1m8|-7ud|a
+Rangewood|AU||8c|-1hn|bbc|a
+Rancho Viejo|MX|Oaxaca|41|19e|-7k4|a
+Rancho Grande|MX||41|1ez|-7fn|a
+Rancho de Guadalupe|MX||41|1my|-7sl|a
+Rancho Nuevo del Llanito|MX||41|1lu|-7tl|a
+Rancho Alegre del Llano (El Llano)|MX||41|1bz|-7sf|a
+Rancho Nuevo|MX|Veracruz|41|1l7|-7iq|a
+Rânes|FR||9k|3r4|-l|a
+Ranchero|CA||5b|3wp|-974|a
+Renac|FR||9k|3ok|-5i|a|Ranneg
+Ranchería de Guadalupe|MX||41|1q0|-7t4|9
+Ranspach|FR||9k|3p1|jh|9
+Ranchester|US||2p|3gr|-89o|9
+Ranrahirca|PE||3o|-ph|-5zw|9|Rangrairca
+Randwijk|NL||8m|40b|fv|9
+Ranum|DK||8y|4e2|pn|9
+Rancho Nuevo|MX|Zacatecas|41|1qt|-7vo|9
+Rancho Nuevo|MX|Guanajuato|41|1l1|-7ru|9
+Randolph|US|Nebraska|2f|39q|-7ig|9
+Ransdaal|NL||8m|3xb|gd|9
+Rancho Seco de Guantes|MX||41|1kt|-7t4|9
+Rancho Nuevo|MX|San Luis Potosí|41|1oa|-7n4|9
+Ranco|IT||9o|3j8|nt|9
+Ranchería de San Martín Obispo|MX||41|1hp|-7q1|9
+Rancho Viejo|MX|Veracruz|41|1i9|-7he|9
+Rancho Nuevo de San Andrés|MX||41|1km|-7tc|9
+Hella|IS||87|4xb|-1ko|9|Hellu;Rangárþing ytra
+Ransta|SE||9w|4m5|1a8|9
+Rannamõisa|EE||9x|4l4|1w3|8|Rannam’ois
+Rankin|US|Texas|2f|2eq|-7v6|8
+Rancho Nuevo|MX|San Luis Potosí|41|1nm|-7mu|8
+Rancho Viejo|MX|Sinaloa|3x|1xs|-8bc|8
+Rancho de Pala|MX||41|1gg|-7hu|8
+Rancennes|FR||9k|3v8|de|8
+Rancho Viejo|MX|Hidalgo|41|1ms|-7l4|8
+Ranguevaux|FR||9k|3sy|gt|8
+Rancho Nuevo|MX|Veracruz|41|1dr|-7c4|8
+Rancho Nuevo|MX|Nayarit|3x|1ou|-858|8
+Randonnai|FR||9k|3r5|1w|8
+Rancho Seco de Barajas|MX||41|1kk|-7uh|8
+Rancho de Guadalupe (El Gato)|MX||41|1ki|-7u4|8
+Ranchito de las Ánimas|MX||41|1i8|-7gh|8
+Rancho Contento|MX||41|1lj|-7zg|8
+Rancho Nuevo|MX|Veracruz|41|1na|-7jb|8
+Rancho Nuevo|MX|Puebla|41|1ha|-7hl|8
+Rancho Nuevo|MX|Guerrero|41|1b2|-7ob|8
+Rancho Nuevo|MX|Hidalgo|41|1iv|-7l0|8
+Rancho de Pro|MX||41|1pe|-7om|7
+Ranchería la Ciénega|MX||41|1ik|-7px|7
+Randens|FR||9k|3ij|hj|7
+Ranfurly|NZ||ak|-3hd|d4i|7
+Rândunica|RO||8u|3h0|27v|7|Rîndunica
+Rantzwiller|FR||9k|3od|ki|7|Rantswiller
+Rancho el Llano|MX||41|19m|-7cc|7
+Rankin|US|Texas|2f|2hh|-7gn|7
+Rancho Café|PA||4g|pd|-64h|7
+Rannen|IL||6n|2f2|2o4|7|Ranen
+Rancho del Cura|MX||41|1ah|-749|7
+Rânceni|RO||8u|3kw|263|7|Rînceni
+Ranschbach|DE||8r|3so|mb|7
+Rancho la Cabaña|MX||41|1hz|-7mq|7
+Rancho Viejo del Refugio|MX||41|1kt|-7x4|7|Rancho Viejo
+La Tinaja de la Estancia|MX||41|1lj|-7rc|7|Rancho la Tinaja
+Ranchito de Zavala|MX||3x|1zg|-8cw|7|Sanaria;Zavala
+Rancé|FR||9k|3jp|dj|7
+Rancho Cuachixolotera|MX||41|1gh|-7mv|7
+Rancho Nuevo|MX|Morelos|41|1fj|-7o1|7
+Rancho el Calvarito|MX||41|1mx|-7sc|7
+Rancho Nuevo|MX|Veracruz|41|1it|-7gj|6
+Rankwitz|DE||8r|45v|12p|6
+Rancho Nuevo|MX|Puebla|41|1fa|-7hm|6
+Pino Suárez|MX|Aguascalientes|41|1pl|-7vm|6|Rancho Viejo
+Ranspach-le-Bas|FR||9k|3o7|kp|6
+Rancherías|MX||44|25a|-7tn|6|Ranchería
+Rancho Viejo|MX|Guerrero|41|1bi|-7o4|6
+Rancho Nuevo|MX|Michoacán|41|1iz|-7t5|6
+Rancho Nuevo|MX|Veracruz|41|1ni|-7l0|6
+Ransberg|BE||8t|3xb|e0|6
+Rancho Mesa Verde|US||4i|2ij|-8ui|6
+Randall|US||2f|3k1|-7ai|6
+Ranten|AT||a2|3n0|134|6
+Ranchito de Inzunza|MX||3x|1z8|-8db|6
+Rancho Nuevo de Dolores (El Cuero)|MX||41|1lb|-7tp|6
+Rancho Viejo|MX|Veracruz|41|1g6|-7i1|6
+Rancho Nuevo|MX|San Luis Potosí|41|1mw|-7m9|6
+Rancho Nuevo|MX|San Luis Potosí|41|1os|-7n9|6
+Rancho Nuevo|MX|Veracruz|41|1nc|-7jy|6
+Ranchos Unidos|MX||41|1ki|-7t5|6
+Ranier|US||2f|3r1|-77b|6
+Rancho Nuevo de Atotonilquillo|MX||41|1lg|-7v2|6
+Ranchito Nuevo de Buenavistilla|MX||41|1m6|-7qv|6
+Rancho Largo|MX||41|1li|-7r0|6
+Ranchos Penitas West|US||2f|24v|-7op|6
+Ranchos Penitas West Colonia|US||2f|24w|-7oo|6
+Rancho Camargo|MX||37|23a|-8g9|6
+Rancho de Santiago|MX||2g|26r|-89q|6|Ranchos de Santiago
+Rancho del Puente (Puente Prieto)|MX||41|1p2|-7qt|6
+Rancho Nuevo (Joyas del Pedregal)|MX||41|1jh|-7wb|6
+Rancio Valcuvia|IT||9o|3jk|od|5
+Rantum|DE||8r|48d|n1|5
+Jiquilpan|MX|Chiapas|3z|16k|-75s|5|Rancho Quemado
+Rankin|US|Illinois|2f|34f|-6s6|5
+Rancon|FR||9k|3k5|3a|5
+Rancho Nuevo|MX|Oaxaca|41|19o|-7kv|5
+Rancho Seco|MX||41|1mb|-7tq|5
+Rancy|FR||9k|3lg|e5|5
+Ranemsletta|NO||9j|4z5|x7|5
+Raning|AT||a2|3m5|17y|5
+Ranshaw|US||48|35b|-5wk|5
+Rancho Pastor|MX||41|1bx|-7kx|5
+Rancho Nuevo|MX|Jalisco|41|1hn|-7xb|5|El Murciélago

@@ -1,0 +1,8 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Fort Worth|US||2f|2ix|-7ic|7s1|Fortvērta;Fortvortas;Arx Vorthensis;Fort Vort;Fort Uert;Fortvorto;Ft Worth
+Arkhangel’sk|RU||9i|4zb|34n|2p5|Arkhangelsk;Arkangeli;Arhankeli;Arhangeljsk;Archangelsk;Arcángel;Arxanqelsk;Arcangelo;Archangel
+Fort Wayne|US||38|369|-6kh|20b|Arx Vainensis;Fort Veinas;Fort Veyn;Fortveina
+Fort-de-France|MQ||3v|14k|-4pn|p0|Fort Royal;For de Fransas;Fordefransa;For-de-Frans;Fòd Fwans;Arx Gallica;Fort Royale;Fort de France
+Wenquan|CN|Inner Mongolia|7i|3n2|997|8z|Arxan
+Arce|IT||9o|37i|11r|m|Arx;Arci

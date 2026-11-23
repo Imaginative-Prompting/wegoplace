@@ -1,0 +1,67 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Belgorod|RU||9i|3wk|2tm|2nx|Bilhorod-Dnistrovskyi;Biełgorod;Bielogroda;Belqorod;Bjelgorod;Bilhorod
+Białystok|PL||a5|43l|1sc|2a5|Bjalistoko;Belostoko;Balstogė;Bjalistoka;Bjołystok;Belostok;Bialastoq;Bjelostock;Byelostok
+Bergen|NO||9j|4nr|es|29o|Björgvin;Berga;Bargen;Bergn;Birgon
+Bielsko-Biala|PL||a5|3ue|1gx|1d1|Bielitz-Biala;Bílsko-Bělá;Belsko-Bjala;Belsko-Biala;Bjylsko-Bjoło
+Berezniki|RU||7z|4l1|4du|1al|Beresniki;Bieriezniki;Bereznikai;Bjerezniki;Bereznyiki
+Berdsk|RU||75|483|6eu|p3|Bierdsk;Bjerdsk;Bordsk
+Pori|FI||92|4qs|1oj|n4|Björneborg;Arctopolis;Bërneborg
+Beloretsk|RU||7z|45w|4i8|jl|Biełorieck;Beloreck;Beloret;Beloreckas;Belorețk;Bjelorjeck;Belorezk
+Biała Podlaska|PL||a5|40j|1s8|fz|Bjala Podlaska;Alba;Palenkės Biala;Alba Ducalis
+Belaya Kalitva|RU||9i|3pu|35a|d7|Belaïa Kalitva;Belaja Kalitva;Bjelaja Kalitwa;Biełaja Kalitwa;Byelaya Kalitva;Belaja Kalitwa
+Byumba|RW||s|-4e|2bj|bz|Bjumba;Biumba
+Bielawa|PL|Lower Silesia|a5|3wt|1a6|84|Belava;Beliava;Bjelawa
+Bjelovar|HR||a6|3ji|1at|6s|Belovár;Bellovarium;Belowar;Bélavár;Bellovar
+Białogard|PL||a5|461|18f|6s|Belgard;Bjalogarda;Biôłogarda;Białogrod
+Björlanda|SE||9w|4gh|wv|6f
+Bieruń|PL||a5|3v5|1h1|5h|Beruň;Beruņa;Bjeruń
+Belomorsk|RU||9i|4z9|2ok|3e|Biełomorsk;Sorokka;Šuomua;Byelomorsk;Bjelomorsk;Sorokhan;Soroka
+Byureghavan|AM||80|33z|3fw|3a|Bjureghawan;Biurehavanas;Bjureghavan;Bjuregawan;Biureghawan;Byurexavan;Byuregavan
+Belaya Kholunitsa|RU||97|4jg|3x8|39|Belaja Choluniza;Belaïa Kholounitsa;Belaja Cholunica;Belaya Xolunitsa;Belaja Ĥolunica;Belaja Holunitsa;Bjelaja Cholunica;Belaja Holunyica;Belaja Kholunitsa;Biełaja Chołunica
+Bjuv|SE||9w|4bs|zw|2y
+Byala Slatina|BG||9v|3cr|1uh|2v|Bjela Slatina;Byela-Slatina;Bela Slatina;Biela Slatina
+Bjärred|SE||9w|4as|106|2q
+Belinskiy|RU||9i|434|3cm|2g|Chembar;Belinsky;Belinski;Bielinski;Belinskij;Belinskis;Bjelinskij
+Belene|BG||9v|3d9|1xt|23|Byelene;Beleke;Bjelene
+Bjerringbro|DK||8y|4cm|qu|22
+Białobrzegi|PL|Mazovia|a5|3zh|1m7|21|Bjalobžegi
+Beloomut|RU||9i|48m|31a|1y|Bjeloomut
+Primorsk|RU|Leningradskaya Oblast'|9i|4np|27h|1r|Koivisto;Björkö;Koyvisto
+Perniö|FI||92|4n8|1s9|1m|Bjernaa;Bjärnå
+Koivukylä|FI||92|4nk|1xm|1l|Björkby;Koivis
+Belogradchik|BG||9v|3d7|1r0|1l|Byelogradchik;Bělogradčik;Belogradtgchik;Bélogradtchik;Bjelogradčik
+Biecz|PL||a5|3u6|1n2|1a|Beča;Bjecz
+Björkskatan|SE||9w|529|1pm|18
+Byurakan|AM||80|342|3ez|17|Biurakan;Burakan;Bjurakan
+Biała Piska|PL||a5|44x|1pa|14|Gehlenburg;Bjala Piska
+Koivuhaka|FI||92|4ni|1xg|10|Björkhagen
+Bjæverskov|DK||8y|4a2|xg|x|Bjeverskov
+Biała Rawska|PL||a5|3zx|1kv|w|Biala Ravska;Bjala Ravska
+Björklinge|SE||9w|4mr|1cr|w
+Belitsa|BG||9v|38j|1tg|w|Belița;Belica;Byelitsa;Blitsa;Belitso;Bjelica;Belitza;Beliza
+Bjni|AM||80|34d|3g1|t
+Bjärnum|SE||9w|4cd|123|s
+Karhusuo|FI||92|4nb|1we|r|Björnkärr
+Biała|PL|Opole Voivodeship|a5|3vz|1d2|q|Zülz;Bjala
+Bjørnevatn|NO||9j|5dj|2bb|p|Kruuvakylä;Guovžajávri;Björnevand
+Bijela|ME||9l|39x|1fu|o|Bjela
+Bjørkelangen|NO||9j|4mc|w4|n
+Byala|BG||9v|3b3|25h|n|Beyala;Byela;Bjala
+Biały Bór|PL||a5|45q|1as|m|Bjali Bora;Biôłô
+Bjursås|SE||9w|4oq|16x|k
+Bjästa|SE||9w|4vk|1fe|i
+Koivula|FI||92|4nu|1pz|i|Björkas
+Björkö|SE||9w|4gd|wg|f
+Lunde|NO||9j|4kq|pa|e|Bjervamoen
+Byera Village|VC||54|10u|-4ps|e|Bjera Vilidžas
+Björneborg|SE||9w|4kk|13l|c
+Bjerkvik|NO||9j|5af|1cs|b|Rahkka;Bjørkvik
+Björboholm|SE||9w|4gr|y9|a
+Bjurholm|SE||9w|4xl|1hd|a
+Björnlunda|SE||9w|4k2|1bo|8
+Björnås|SE||9w|4bw|101|8
+Björke|SE||9w|4ot|1bs|7
+Björbo|SE||9w|4ny|14w|7
+Björnänge|SE||9w|4w2|10h|6
+Björketorp|SE||9w|4fj|yt|5
+Björkvik|SE||9w|51y|179|5

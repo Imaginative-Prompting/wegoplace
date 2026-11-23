@@ -1,0 +1,203 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+St Albans|GB||9b|3zr|-x|ni|St. Albans;Fanum Sancti Albani;Sent Albanas;Sentalbana;Santa Albans;Sant Albans;Saint Albans
+San Andrés|CO|San Andres y Providencia|27|yy|-6ay|g7|Saint Andrews
+St. Albert|CA||2s|44z|-8ro|g1|Saint Albert;Sen Alberas;Saint-Albert
+Saint-André|RE||ai|-1m8|4al|fw
+São Tomé|ST||1c|y|ip|et|Santo Tomé;Sao-Tomeo;San-Tome;Svätý Tomáš;Söo Tomé;San Tomė;Urbs Sancti Thomae;Santome;San Tomas;Saint Anna de Chaves;Sào Thomé
+St Albans|AU||8j|-2wu|b68|ag|Saint Albans;St. Albans
+Saint Albans|AU||8j|-2wt|b68|9r
+Saint-Ambroise|FR||9k|3rq|6m|8k
+Saint Andrews|US||48|2mk|-69a|5w
+Mers el Kebir|DZ||3|2r9|-1z|5m|Saint André de Mers-el-Kébir;Mers el Kabir
+Saint Andrews|GB||9b|4ci|-7s|54|St Andrews;St. Andrews;Cill Rìmhinn
+Saint-Avold|FR||9k|3se|im|53|Sankt Avold;Sänt Avuur;Sänt Avor
+Saint-Amand-les-Eaux|FR||9k|3w5|9j|4y
+Saint-Augustin-de-Desmaures|CA||59|3lu|-5ih|4t
+Saint-Avertin|FR||9k|3nk|22|4g
+Saint Ann’s Bay|JM||3i|1f8|-5yg|3t|St Ann's Bay
+Saint Ann|US||2f|2zl|-6z2|3m|St. Ann
+Saint Augustine|US||48|2b1|-69v|3m|St. Augustine;San Agustín;Saint Augustin
+Saint-Amand-Montrond|FR||9k|3ls|6y|3c|Sant Amand Montrond;Mons Rotundus;Saint-Amand-Mont-Rond
+Saint-André-les-Vergers|FR||9k|3q5|b9|34
+Saint Albans|US|West Virginia|48|2yn|-6bc|32|St. Albans
+Saint-André-lez-Lille|FR||9k|3wr|8h|31
+Saint-Amable|CA||59|3it|-5nm|2n
+Saint-Avé|FR||9k|3oh|-7l|2h|Sant-Teve
+Saint-Affrique|FR||9k|3e4|81|2d|Sant Africa
+Saint-Aubin-lès-Elbeuf|FR||9k|3sy|2t|2d
+Saint Anthony|US|Minnesota|2f|3h2|-76y|2a|St. Anthony
+Saint-Apollinaire|CA||59|3lh|-5in|28
+Sint-Amands|BE||8t|3xu|bp|25|Saint-Amand
+Saint Augustine Shores|US||48|2at|-69v|22
+Saint Albans|US|Vermont|48|3gh|-5n0|1x
+Saint-Anselme|CA|New Brunswick|43|3jy|-4zr|1v
+Saint-Antoine|FR||9k|3ch|ew|1s
+Saint Augustine Beach|US||48|2ax|-69r|1q
+Saint-Arnoult-en-Yvelines|FR||9k|3qx|5e|1l
+Saint-Alban-Leysse|FR||9k|3im|gj|1j
+Saint-Aubin-de-Médoc|FR||9k|3gr|-20|1i
+Saint-Alban|FR|Occitanie|9k|3dd|3x|1i
+Saint-Apollinaire|FR||9k|3nh|e4|1g
+Saint Augustine South|US||48|2aw|-69v|1e
+Saint-Astier|FR||9k|3hf|1h|1d
+Saint-Agapit|CA||59|3lc|-5ig|19
+Saint-André|FR||9k|3cg|eu|19
+Saint-André-de-la-Roche|FR||9k|3dh|k8|17
+Saint-André-de-Sangonis|FR||9k|3d9|9q|17|Saint-André-de-Sangoui
+Saint-Augustin|CA||25|3yb|-4ix|14
+Saint-André-des-Eaux|FR||9k|3nf|-6f|13|Sant-Andrev-an-Dour
+Saint-Aignan|FR|Centre-Val de Loire|9k|3nb|3u|12
+Saint-Adolphe-d'Howard|CA||59|3jp|-5qh|11
+Saint-André-Avellin|CA||59|3j0|-5sj|10
+Saint Anthony|US|Idaho|28|3e5|-8m8|z
+Saint-Ambroix|FR||9k|3ey|bo|z
+Saint-André-de-Corcy|FR||9k|3jl|dr|y
+Saint Asaph|GB||9b|43y|-9l|y|Llanelwy;St Asaph
+Saint Augusta|US|Minnesota|2f|3ic|-79j|x
+Saint Augusta|US|Minnesota|2f|3ia|-79o|x
+Saint-Aubin-du-Cormier|FR||9k|3q2|-3w|x|Sant-Albin-an-Hiliber;Fanum Sancti Albini
+Saint-Aunès|FR||9k|3d8|b1|w|Sant Aunès
+Saint-Ay|FR||9k|3oy|4v|u
+Saint-Agrève|FR||9k|3h1|c8|s|Sant Agrève
+Saint Agnes|GB||9b|3vr|-eg|s
+Sant Andreu de Sureda|FR||9k|3a7|89|s|Saint-André;Sant Andreu
+Saint-Andiol|FR||9k|3dr|dq|r|Sant Andiòu
+Saint-André-de-la-Marche|FR||9k|3mu|-2r|r
+Saint-Amarin|FR||9k|3oz|jj|q|Sankt Amarin
+Saint-Anselme|CA|Quebec|59|3lj|-5h5|p
+Saint-Aubin-Sauges|CH||a7|3m9|it|p
+Sainte-Anne-d'Auray|FR||9k|3oi|-87|n|Sainte-Anne-d'Aurey;Saint Anne-d'Auray
+Saint-André-le-Gaz|FR||9k|3ij|fd|n
+Saint-Agnant|FR||9k|3jf|-2o|m
+Saint-Amour|FR||9k|3l0|eu|m
+Saint-Aigulin|FR||9k|3hg|-1|l
+St. Anthony|CA||50|3yp|-4ag|k|Saint Anthony
+Saint Andrews|CA||43|3h7|-569|k|St. Andrews
+Saint-Amand|FR|Normandy|9k|3s8|-2o|k
+Saint-Amé|FR||9k|3pe|ii|k
+Sankt Andreasberg|DE||8r|3zn|t8|k|Saint-Andreasberg;St. Andreasberg
+Saint-Aubin-le-Cloud|FR||9k|3ll|-z|k
+Saint-Antoine-de-Breuilh|FR||9k|3gk|f|k
+Saint Albans|US|Maine|48|3gr|-5ct|j
+Saint-Aubin-sur-Mer|FR||9k|3t1|-13|j
+Saint-Agathon|FR||9k|3qw|-8n|j|Sant-Eganton;Fanum Sancti Negantoni
+Saint-Alban-de-Roche|FR||9k|3in|ej|j
+Sankt Antoni|CH||a7|3m2|k6|i|Saint-Antoine;St. Antoni FR;St. Antoni;Saint Antoni
+Saint-Amans-Soult|FR||9k|3cs|6x|i|La Bastida de Sant Amanç;Sant Amanç de Solt
+St-André|CA||43|3mu|-588|i|Saint-André
+Saint-Amant-Tallende|FR||9k|3iv|8n|i|Saint-Amande-Tallende;Saint-Amand-Tallende
+St Anton am Arlberg|AT||a2|3mx|si|i|Saint Anton;St. Anton am Arlberg;Sankt Antonas;St. Anton;Sankt Anton am Arlberg;Sankt Anton;St Anton
+Saint-Armel|FR|Brittany|9k|3pd|-4f|h|Sant-Armael
+Saint-André-sur-Orne|FR||9k|3sg|-12|h
+Saint-Ambroise|CA|Quebec|59|3qv|-5i4|h
+Saint Aubin|MU||ag|-1ky|4fv|h
+Saint-Ambroise|CA|Quebec|59|3k0|-5oc|h
+Saint-Alban|FR|Brittany|9k|3qw|-72|g|Sant-Alvan
+Saint-Aubin|FR|Bourgogne-Franche-Comté|9k|3mn|et|g
+Saint-Augustin|FR|Île-de-France|9k|3ri|8f|f
+Saint-Alban-sur-Limagnole|FR||9k|3ge|9f|f
+Saint-Aubin-sur-Gaillon|FR||9k|3sj|3p|f
+Saint-Aulaye|FR||9k|3hk|e|f|Senta Eulàlia de Pueimangor;Senta Eulàlia
+Saint-Antoine-de-Tilly|CA||59|3lm|-5it|f
+Saint-Andéol-le-Château|FR||9k|3in|d2|f|Sent-Anduér
+Saint-Aubert|FR||9k|3vh|9i|e
+Saint-Aubin-des-Châteaux|FR||9k|3ok|-45|e|Sant-Albin-ar-C'hestell;Sant-Albin-ar-Chestell;Sanctus Albinus de Castris
+Saint-André-de-Seignanx|FR||9k|3d0|-3r|e
+Saint-Amand-en-Puisaye|FR||9k|3o1|8j|e|Saint-Amand-en Puysaye
+Saint-Alexandre|CA|Quebec|59|3ie|-5uf|d
+Saint-Arnoult|FR|Normandy|9k|3tl|1v|d
+Saint-Amand-sur-Sèvre|FR||9k|3m7|-28|d
+Saint-Antoine-du-Rocher|FR||9k|3ny|1r|d
+Saint-Aubin-sur-Scie|FR||9k|3uj|2z|d
+Saint Anne|US||2f|35z|-6rn|d|St. Anne;Sainte Anne
+Saint-Antoine|CA||43|3ks|-4zv|d
+Saint-Aubin-des-Ormeaux|FR||9k|3mj|-2w|c
+Saint-André-le-Puy|FR||9k|3it|bu|c
+Saint Andrews|AU||8j|-2wg|b7j|c
+Saint-Amant-de-Boixe|FR||9k|3j8|d|c
+Saint-Aubin-Routot|FR||9k|3tk|x|c
+Sainte-Agnès|FR|Provence-Alpes-Côte d'Azur|9k|3do|kq|b|Saint-Agnès
+Saint Andrews Beach|AU||8j|-2yp|b6a|b|St. Andrews Beach
+Saint-Aubin-en-Bray|FR||9k|3ta|58|b
+Saint-Aubin-d'Arquenay|FR||9k|3su|-t|b
+Saint Ansgar|US||2f|3ci|-764|b
+Saint-Agnant-de-Versillat|FR||9k|3kk|47|b
+Saint-Alexandre|CA|Quebec|59|3uz|-55q|b
+Saint-Amand-Longpré|FR||9k|3og|2u|b
+Saint-Alexandre|FR||9k|3ev|cu|b
+Saint-André-sur-Vieux-Jonc|FR||9k|3k8|eb|b
+Saint-Aupre|FR||9k|3i4|fr|b
+Saint-Amand|BE||8t|3wb|cn|b
+Saint-Aubin-des-Bois|FR||9k|3qn|3s|a
+Saint-Amans-Valtoret|FR||9k|3cs|6x|a
+Saint-André-Treize-Voies|FR||9k|3md|-3x|a
+Saint-Antoine-l'Abbaye|FR||9k|3hh|ei|a|Saint-Antoine-lAbbaye
+Saint-Alban-les-Eaux|FR||9k|3jt|az|a
+Saint-Aubin-Épinay|FR||9k|3ta|39|a
+Saint-André-de-Roquelongue|FR||9k|3br|7w|a
+Saint-Aignan-sur-Roë|FR||9k|3ow|-36|a
+Saint-Aubin-Celloville|FR||9k|3t4|38|a
+Saint-Antoine-la-Forêt|FR||9k|3tm|1b|a
+Saint-Aubin-des-Landes|FR||9k|3pl|-3m|a|Sant-Albin-al-Lann
+Saint-Aubin-des-Coudrais|FR||9k|3pt|1m|9
+Saint-André-de-Lidon|FR||9k|3io|-23|9
+Saint-Augustin|FR|New Aquitaine|9k|3iw|-33|9
+Saint-Aubin-de-Luigné|FR||9k|3nh|-1v|9
+Saint-Alban-du-Rhône|FR||9k|3i6|d8|9
+Sainte-Alvère|FR||9k|3gv|29|9|Senta Alvèra;Saint-Alvère
+Saint-Aubin-le-Vertueux|FR||9k|3s9|1p|9
+Saint-Augustin-des-Bois|FR||9k|3nu|-28|9
+Saint-Amand-sur-Fion|FR||9k|3rl|ct|9
+Saint-André-les-Alpes|FR||9k|3e5|i3|9|Sant Andrieu
+Saint-Antonin-du-Var|FR||9k|3cv|hh|9|Sant Antonin;Sant Antonin dau Var
+Saint-Auvent|FR||9k|3j9|2l|9
+Saint-Aubin|BE||8t|3vl|cq|8
+Saint-André-sur-Cailly|FR||9k|3tn|3e|8
+Saint Agatha|US||48|3n8|-59r|8|St. Agatha;Sainte Agathe
+Saint-Amans-des-Cots|FR||9k|3g5|7e|8|Sent Amanç;Sant Amanç;Saint-Amans;Saint-Amans-des-Cotz
+Saint-Août|FR||9k|3lt|5h|8
+Saint-Arnoult|FR|Normandy|9k|3t2|9|8
+Saint-Avaugourd-des-Landes|FR||9k|3l7|-44|8
+Saint-Armel|FR|Brittany|9k|3o5|-7j|8|Sant-Armael-ar-Gilli
+Saint-Aubin-le-Cauf|FR||9k|3uj|3a|8
+Saint-Anthème|FR||9k|3ih|aw|8
+Saint-Aulaire|FR||9k|3hn|3t|8
+Saint-Aubin-de-Blaye|FR||9k|3hr|-1k|8
+Saint-Aubin|FR|Île-de-France|9k|3rb|5y|7
+Saint-Agnin-sur-Bion|FR||9k|3ii|ek|7
+Saint-Avre|FR||9k|3hz|hj|7
+Saint-André|CA||59|3og|-5do|7
+Saint-Arnoult-des-Bois|FR||9k|3qp|3i|7
+Saint-André-sur-Sèvre|FR||9k|3ly|-1w|7
+Saint-Aubin-de-Locquenay|FR||9k|3q3|2|7
+Saint-Aignan|FR|Brittany|9k|3pu|-8d|7|Sant-Inan
+Saint-Amant-de-Montmoreau|FR||9k|3i4|f|7
+Saint-Angeau|FR||9k|3jd|t|7|Sent Angeu
+Saint-Aubin-du-Pavail|FR||9k|3pg|-42|7|Sant-Albin-ar-Pavez
+Saint-Affrique-les-Montagnes|FR||9k|3cy|65|6
+Saint-Agnan|FR||9k|3l6|ar|6
+Sint-Antelinks|BE||8t|3x9|ax|6|Saint-Antelinkx
+Saint-Amant-Roche-Savine|FR||9k|3im|a3|6
+Saint-Androny|FR||9k|3hj|-1t|6
+Saint-André-de-Majencoules|FR||9k|3eb|a7|6
+Saint-Angel|FR||9k|3ie|67|6
+Saint-Aignan-le-Jaillard|FR||9k|3om|6s|6
+Saint-Antoine-de-Ficalba|FR||9k|3f5|20|6|Sent Antòni;Sant Antòni de Ficalba
+Saint-Avit|FR||9k|3e2|-19|6
+Saint-Aubin-de-Terregatte|FR||9k|3qy|-3m|6
+Saint-Aubin-du-Plain|FR||9k|3mc|-1c|6
+Saint Agnes|US||48|313|-5wz|6
+Saint-André-de-Messei|FR||9k|3r9|-1g|6
+Saint-André-de-Boëge|FR||9k|3kb|hr|6
+Saint-André|BE||8t|3wu|fz|6
+Saint-Allouestre|FR||9k|3p3|-7k|6|Sant-Aleustr
+Saint-Aquilin-de-Pacy|FR||9k|3s5|3s|6
+Saint-André-de-Bâgé|FR||9k|3km|do|6|Saint-André-en-Bagé
+Saint-Aubin|FR|Grand Est|9k|3qo|9w|6
+Saint-Armou|FR||9k|3cl|-v|6|Sent Armon
+Saint-Andelain|FR||9k|3nf|88|5
+Saint-Appolinard|FR||9k|3hy|cy|5
+Saint-Amand|FR|New Aquitaine|9k|3jq|65|5
+Saint-André-de-Cruzières|FR||9k|3f3|bq|5
+Saint-Albain|FR||9k|3kz|dk|5
+Saint-André-Farivillers|FR||9k|3tr|6d|5

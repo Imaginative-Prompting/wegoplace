@@ -1,0 +1,11 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Putian|CN||7i|1yo|96l|bvm|Buò-dièng;Pchu-tchien;Phù-thièn-sṳ;Putyen shehiri;Phủ Điền;Phô͘-chhân-chhī;P’u-t’ien
+Pingdingshan|CN||7i|2lp|8qs|7jz|Pingdingsjan;Pching-ting-šan;Pingdingŝano;Tekshi choqqiliq tagh shehiri;Bình Đỉnh Sơn;Bìng-dīng-săng;Pêng-téng-san-chhī;Pindinshan’;P’ing-ting-shan
+Pingxiang|CN|Jiangxi|7i|24q|8s9|6w8|Bìng-hiŏng;Pching-siang;Phìn-hiông-sṳ;Bình Hương;Phêng-hiong-chhī;Dingsiang;Pingsiang;P’ing-hsiang
+Puyang|CN|Henan|7i|2rc|8vk|525|Bŭk-iòng;Pchu-jang;Pujang;Bộc Dương;Phok-iông-chhī
+Pingliang|CN||7i|2qq|88d|3w8|Bìng-liòng;Pching-liang;Bình Lương;Pêng-liâng-chhī
+Pyeongchang|KR||7h|2vt|9wn|2r|Pchjongčchang;Pjonĉango;Phjongcshang;Pjončano apskritis;Phjončhana;Phìn-chhông-khiùn;Pjongczang;P’yŏngch’ang
+Pcim|PL||a5|3u7|1jh|1d
+Pchery|CZ||9m|3vf|138|h|Pcher
+Pchel’niki|UA||9t|3hu|2om|5

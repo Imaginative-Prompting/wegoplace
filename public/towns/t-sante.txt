@@ -1,0 +1,71 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Étienne|FR||9k|3i7|c7|1cz|Sankta-Stefano;Sant-Etiève;Sent Etjenas;Sentetjēna;Sanctus Stephanus de Furano;Sant Estève;Sent-Etyen;Sainté;St Étienne;Sankta-Etjeno
+Santee|US|California|3p|2j8|-90x|g2
+Saint-Herblain|FR||9k|3n5|-4l|d1|Sant-Ervlan
+Santeramo in Colle|IT||9o|35b|1ak|6x
+Xanten|DE||8r|3zi|hx|60|Santen;Xantum;Ksanten;Sante;Castra Vetera
+Sainte-Luce-sur-Loire|FR||9k|3na|-44|3n|Santez-Lusenn
+Santena|IT||9o|3gv|ll|2w
+Saint-Estève|FR||9k|3an|7w|2w|Sant Esteve del Monestir
+Sant'Egidio alla Vibrata|IT||9o|3ay|124|26
+Sant'Egidio del Monte Albino|IT||9o|356|14j|24
+Sāter|IN||6t|1qp|5ui|1t|Santer
+Sant'Agata Bolognese|IT||9o|3g2|ux|1k|Sant'Agata-Bolognese;Sant’Ègata
+Sant'Elpidio a Mare|IT||9o|3c3|121|1i|San Elpido a Mare
+Santes|FR||9k|3wj|88|1f
+São Teotónio|PT||99|2w7|-o7|1d|São Theotonio;San Teotónio
+San Teodoro|PH||71|11c|9c6|1c
+Sant'Elia Fiumerapido|IT||9o|37d|12i|16|San Elia Fiumerapido
+Sainte-Pazanne|FR||9k|3mu|-51|11|Santez-Pezhenn;Sancta Pisenia
+Sant'Eufemia d'Aspromonte|IT||9o|2ya|182|10|Sant'Eufemia di Aspromonte
+Sarteneja|BZ||24|1ez|-6sv|10|Santeneja
+Sant'Eufemia della Fonte|IT||9o|3ig|sk|z
+Santa Eufemia Lamezia|IT||9o|304|195|y|Sant'Eufemia Lamezia
+Santeny|FR||9k|3rd|75|x
+Saint-Évarzec|FR||9k|3p6|-b6|v|Sant-Evarzeg
+Saint-Erblon|FR||9k|3pe|-4l|o|Sant-Ervlon-an-Dezerzh
+Santec|FR||9k|3ra|-b7|n|Santeg
+Saint-Étienne-du-Grès|FR||9k|3dm|d5|m|Sant Estève de Tarascon;Sant Estève dau Gres
+Sainte-Anne-sur-Brivet|FR||9k|3nu|-5k|l|Santez-Anna-ar-Brived
+Saint-Herblon|FR||9k|3np|-32|k|Sant-Ervlon-ar-Roz;Sanctus Hermelandus
+San Teodoro|IT|Sardinia|9o|359|qv|j
+Saint-Agathon|FR||9k|3qw|-8n|j|Sant-Eganton;Fanum Sancti Negantoni
+Sant'Eustachio|IT||9o|38e|yo|i|San Eustacio
+Sainte-Reine-de-Bretagne|FR||9k|3ns|-63|i|Santez-Rouanez-Breizh
+Saint-Hilaire-de-Chaléons|FR||9k|3mu|-57|i|Sant-Eler-Kaleon;Saint Helaire-de-Chaleons
+Saint-Hilaire-de-Clisson|FR||9k|3mq|-3n|i|Sant-Eler-Neved
+Sant'Elena|IT|Veneto|9o|3hj|wj|g
+Sant'Elia a Pianisi|IT||9o|37m|15c|g
+Doneztebe-Santesteban|ES||9d|3bt|-4n|f|Santesteban;Doneztebe
+Sant Esteve d'en Bas|ES||9d|390|6u|f|Bas
+San Teodoro|IT|Sicily|9o|2x5|14u|e
+Saint-Étienne-de-Tinée|FR||9k|3ey|j8|d|Santo Stefano di Tinea;Sant Estève de Tiniá;Fanum Sancti Stephani ad Tineam;Sant Estève de Tinèa
+Santa Maria la Longa|IT||9o|3jl|10x|c|Sante Marie la Lungje
+San Terenzo|IT||9o|3eh|ri|c
+Sant'Elia|IT||9o|308|1a3|c
+San Terenziano|IT||9o|3b3|yn|c
+Mazet-Saint-Voy|FR||9k|3h5|bs|b|Sant Evòsi de Bonàs
+Sainte-Hélène|FR|Brittany|9k|3ok|-8w|b|Santez-Elen
+Santerno|IT||9o|3fg|xi|a
+Saint-Hilaire-des-Landes|FR||9k|3qb|-3s|a|Sant-Eler-al-Lann
+Santenay|FR||9k|3mb|d2|9
+Sant'Ermete|IT||9o|3ey|nc|9
+Santee|US|South Carolina|48|2l0|-67l|9
+Saint-Étienne-les-Orgues|FR||9k|3ed|g2|9|Sant Estève;Sant Estève deis Òrgues
+Sant'Egidio|IT|Umbria|9o|3bq|yp|9
+Saint-Onen-la-Chapelle|FR||9k|3pu|-61|9|Santez-Onenn;Saint-Ouen-la Chapelle
+Sainte-Anne-sur-Vilaine|FR||9k|3ol|-53|9|Santez-Anna-ar-Gwilen
+Sant'Elena|IT|Veneto|9o|3ir|ya|8
+Sant'Eusanio del Sangro|IT||9o|395|13t|8
+Sant'Elena Irpina|IT||9o|360|15d|8
+Sant'Eulalia|IT||9o|3ja|wu|8
+Sant'Enea|IT||9o|3bh|yc|8
+Sfânta Elena|RO||8u|3g4|1ob|7|Sântelena;Sfînta Elena
+Sant'Egidio|IT|The Marches|9o|3cf|11e|7
+Sant'Egidio|IT|Abruzzo|9o|396|149|7
+Sant'Eusanio|IT||9o|37d|13b|7
+Santeuil|FR||9k|3sh|5f|6
+Sante Marie|IT||9o|38y|10o|6
+San Esteban de Litera (Sant Esteve de Llitera)|ES||9d|38f|x|6|Sant Esteve de Llitera;San Esteban de Litera
+Sant'Eusebio|IT||9o|3in|mz|5
+Santervás de la Vega|ES||9d|3a3|-dc|5

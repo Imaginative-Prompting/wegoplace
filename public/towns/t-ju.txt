@@ -1,0 +1,526 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Yunfu|CN||7i|1rp|8n8|k5s|Hùng-pù;Jün-fu;Vân Phù;Hûn-phû-chhī;Yün-fou
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Rui’an|CN||7i|256|9b6|8oi|Jui-an
+Yulin|CN|Guangxi|7i|1qv|8hz|85j|Ngṳ̆k-lìng;Jü-lin;Ngiu̍k-lìm-sṳ;Ngọc Lâm;Yoglinz;Gio̍k-lîm-chhī
+Yueyang|CN||7i|29l|8q5|7nf|Ngo̍k-yòng-sṳ;Nhạc Dương;Juejang;Jüe-jang
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Turin|IT||9o|3h7|ld|6jd|Julia Augusta Taurinorum;Turyn;Torino;Torí;Augusta Taurinorum;Turijn;Turim;Turén;Türì;Torin;Torinu
+Naucalpan de Juárez|MX||41|1i4|-7no|6fs|Naucalpan;Nauhcalpan Juárez
+Yuncheng|CN||7i|2pa|8kb|58w|Jün-čcheng;Vận Thành;Ông-siàng;Yun’chen
+Dushanbe|TJ||6d|2z2|5b2|58q|Duschanbe;Dušanbe;Dusjanbe;Duŝanbeo;Douchanbé;Doesjanbe;Duszanbe;Djuschambe;Dyushambe;Dushambe;Jushambe
+Acapulco de Juárez|MX||41|1at|-7pj|52y|Acapulco;Akapulko;Acapulcum;Akapulkas;Acapolco Juárez
+Juiz de Fora|BR||4w|-1og|-3cf|468|Žuis de Fora
+Zhoukou|CN||7i|2ld|8uh|3wc|Tsjoukou;Čou-kchou;Juko shehiri;Chu Khẩu;Ciŭ-kāu;Chiu-kháu-chhī;Chou-k’ou
+Juba|SS||p|dh|2fq|3h0|Djouba;Dschuba
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+Jundiaí|BR||4w|-1sf|-3m8|3f4|Jurundiay;Žundiajus;Jundiahy
+San Juan|PR||4m|1fb|-53n|385|San Chuanas;San Xoán;San-Juano;Sanhuana;San Xuan;San Huan
+Benito Juárez|MX|Mexico City|41|1ht|-7ng|2z2
+Benito Juarez|MX|Mexico City|41|1hw|-7ng|2qm
+Jūnāgadh|IN||6t|1ns|5fq|2gr|Junagad;Junagarh
+Ciudad Benito Juárez|MX||44|1z9|-7q1|2dn
+Juazeiro do Norte|BR||2w|-k1|-318|2cv|Žuazeiro do Nortė
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Ljubljana|SI||9a|3jx|14b|23m|Laibach;Liubliana;Lublaň;Lubiana;Ļubļana;Ljubljano;Lubjana;Aemona;Lubljana;Lyublyana;Lyoubyana;Liublianne;Jubaljana;Lubiann-a;Lubian-a;Lubiane;Liúibleána;Laiboch;Liublijana;Lubliano
+Jurong Town|SG||7j|3p|804|20z
+San Salvador de Jujuy|AR||1o|-1v7|-51d|1zo|San Salvador de Chuchujus;Sanctus Salvator Soteriae
+Juazeiro|BR||20|-q5|-34i|1z5|Joazeiro
+Jurong West|SG||7j|3r|804|1yi
+Juliaca|PE||3o|-172|-5et|1w9|Hullaqa
+Al Jubayl|SA|Eastern Province|7e|232|3tu|1tx|Jubail;Al-Dschubail;Al-Jubayl;Džubail;Al-Dżubajl;El-Cübeyl;Al Jubail;Jubayl
+Yuzhno-Sakhalinsk|RU||7f|3mf|b0i|1ja|Južno-Sachalinsk;Južno-Sahhalinsk;Južno-Sahalinsk;Yuzhno-Sajalinsk;Jużnosachalińsk;Juschno-Sachalinsk;Juzjno-Sakhalinsk;Ioujno-Sakhalinsk;Joezjno-Sachalinsk;Južno Sachalinskas;Iujno-Sahalinsk;Yujno-Saxalinsk;Suvisahalinsk;Juzsno-Szahalinszk;Juĵno-Saĥalinsk;Južnosahaļinska;Juzhno-Sakhalinsk;Iujno-Sakhalinsk;Juzjno-Sachalinsk;Yujno-Sahalinsk
+Eugene|US||3p|3ed|-9hx|1d3|Judžinas
+Chicoloapan de Juárez|MX||41|1hy|-7mq|1c1|San Vicente Chicoloapan;San Vicente Chiloloapan
+Yopal|CO||27|eu|-5l3|1as|Jopalis;Juopalės
+Jomvu|KE||16|-b3|321|19e|Jumvu
+Al-Junaynah|SD||r|11d|1qd|19a|El Geneina;Al Junaynah;Geneina;Al-Džunajna;Al-Dschunaina;El-Geneina;Al Geneina;Al Jeneina
+San Juan de los Morros|VE||2c|rj|-573|18p|San-Juan-de-los-Morros;San Juan de los Moros
+Tempe Junction|US||4i|2kt|-8my|180
+Diourbel|SN||g|14p|-194|17s|Diurbelis;Jurbel;Diourbei
+Juja|KE||16|-32|2ut|17c
+Jyväskylä|FI||92|4sw|1zg|15b|Juveskiulė;Jiveskile;Granivicus;Jüväskülä
+Joliet|US|Illinois|2f|37d|-6so|153|Juliet
+Jutiapa|GT||32|13o|-6xp|14j|Juliapa
+San Juan del Río|MX|Querétaro|41|1kn|-7ps|12l
+San Juan Sacatepéquez|GT||32|14w|-6zs|121
+San Juan|PH|National Capital Region|71|14k|9c7|11b
+Győr|HU||8v|3og|1d0|zx|Raab;Arrabona;Dėras;Jura;Ģēra;Gjur;Iaurinum;Djor;Đer;Javarin
+San Juan|AR||1t|-2fm|-5ad|ub|San Chuanas;Sanctus Ioannes a Cuio
+San Justo|AR|Buenos Aires|1l|-2oc|-4io|t9
+Yuxi|CN|Yunnan|7i|1vo|7wu|su|Ngṳ̆k-kă̤;Jü-si;Ngọc Khê;Gio̍k-khe-chhī;Yüki
+Al Jumayl|LY||1d|2j9|xi|sc
+Juan Díaz|PA|Panamá|4g|p4|-64o|ry
+Jaramānā|SY||69|2l1|2sz|rs|Džaramáná;Dscharamana;Ceramana;Jéramâna;Jurmānā
+Yulinshi|CN||7i|2yd|8gu|p9|Jü-lin;Du Lâm;Ṳ̀-lìng;Jiû-lîm-chhī;Yulin
+Heroica Ciudad de Juchitán de Zaragoza|MX||41|19n|-7by|oj|Juchitán de Zaragoza;Juchitán;Xochitlan Zaragoza
+Jhumri Telaiya|IN||6t|1vv|6ll|of|Jhumri Tellaya;Jumri Tilaiyā
+Junín|AR|Buenos Aires|1l|-2o3|-4pb|ob|Chuninas
+Yurga|RU||74|4as|6jt|ne|Jurga
+Junlian|CN||7i|269|82b|mf
+Juhaynah|EG||c|223|2fi|la|Jihaynah;Johaynah
+Yurihonjō|JP||7q|31f|at2|l5|Jurihondzsó;Yurihondyo;Yurihonzyô-chhī
+Juegang|CN||7i|2hs|9cn|kd
+Jurong East|SG||7j|3p|806|ka
+Jidd Ḩafş|BH||60|20u|3wf|ii|Judd Ḩafş;Jadd Hafs;Jid Hafs
+Jupiter|US||48|22t|-66h|hf
+Runan|CN||7i|2jo|8tn|gq|Ju-nan
+Juan-les-Pins|FR||9k|3d1|jr|go|Joan dei Pins;Jüan-le-Pen
+Juruti|BR||4t|-5z|-4bt|ge
+Juye|CN||7i|2qb|8yf|g5
+Javānrūd|IR||7o|2op|3l5|f4|Jūānrū
+Jūrmala|LV||9n|4e9|1u1|eg|Riga-Strand;Rigastrand;Yurmala
+Jendouba|TN||1e|2te|oe|ea|Jenduba;Jundūbah
+Jaru|BR||4l|-t0|-4tj|e2|Juru
+Kingisepp|RU||9i|4ky|27h|e2|Kingissepp;Jaama;Kinguissepp;Kingisepa;Kinghisepp;Juama
+Juigalpa|NI||3s|xn|-6l5|dw
+Jugsālai|IN||6t|1ra|6ne|dt
+Mladá Boleslav|CZ||9m|3w1|15e|db|Jungbunzlau;Mlada Boleslaz
+Juexi|CN||7i|28c|81m|c3
+Juventino Rosas|MX||41|1lc|-7sk|br
+Juína|BR||2k|-vq|-4j7|bf
+Juwana|ID||6l|-in|8kr|b6|Juana
+Yuzhnoural’sk|RU||7z|479|4q6|aw|Juzjnouralsk
+Jumayrā|AE||6c|1y1|49h|av|Jumaira;Jumairah
+Doctor Juan Eulogio Estigarribia|PY||1y|-1yh|-4aq|at|Juan Eulogio Estigarribia;Colonia General Alfredo Stroessner
+Pivdennoukrainsk|UA||98|3ov|2em|aq|Youjno'oukraïnsk;Yuzhnoukrainsk;Juschnoukrajinsk;Južnoukrajinsk;Pivdenoukrajinsk;Piwdennoukrajinsk;Pivdennoukraiinsk
+Juanjuí|PE||3o|-jy|-5x5|ah|Chuanchui;Huwanhuy
+Jungpyong|KR||7h|2u6|9ue|ac|Jeungpyeong;Chŭngp’yŏng
+Sunan|KP||7a|30w|9p5|a7|Junan
+Juan José Castelli|AR||1n|-203|-4oe|a6|Huan Hose Kastelli
+Juara|BR||2k|-v9|-4fs|9r
+Jülich|DE||8r|3xg|ho|9f|Juliers;Iuliacum;Jöllesch
+Juticalpa|HN||56|14q|-6ni|9d
+Jukui|CN||7i|2d4|8aw|96
+Jūybār|IR||7o|2ts|42z|95
+Pivdenne|UA|Odesa|98|3li|2ee|93|Youjné;Yuzhne;Južne;Juschne;Piwdenne;Pivdene
+Yubileyny|RU||9i|4bd|2x3|91|Jubileiny;Ioubileïny;Jubilejnyj;Yubileynıy;Iubileini;Jubilejnij;Jubileinyi;Jubilejnyj i Moskva oblast
+Jūjūvādi|IN||6t|zh|603|91|Zuzuvadi
+Gyula|HU||8v|3ll|1n4|8z|Đula;Jula;Giula
+Juneau|US|Alaska|3j|4hy|-ade|8s|Džūno;Iunellum;Džunas;Cuno;Džuns;Tisaantikii Hiinii;Dzhunou
+Justiniškės|LT||a3|480|1y2|8m
+Jubayt|SD||r|1gn|2ub|8l|Dżubajt
+Juatuba|BR||4w|-1jf|-3f6|8j
+Joaçaba|BR||4w|-23i|-3z2|8d|Juaçaba
+Juan Griego|VE||2c|us|-4xp|7v
+Juquitiba|BR||4w|-1uh|-3mr|7m|Jacuitiba;Jucuitiba
+Jonava|LT||a3|490|1vg|7c|Juonava;Yonawa;Yonava;Ionava
+Junnar|IN||6t|1hd|5p8|78
+Jumilla|ES||9d|2yw|-3o|75|Jumella;Chumiella
+Jucás|BR||2w|-i5|-31t|6x
+Junction City|US|Kansas|2f|30f|-7gz|6u
+Jumet|BE||8t|3w4|cc|6t
+Junqueiro|BR||3r|-rl|-2tc|6s
+Juan José Ríos|MX||3x|1zk|-8ea|6k
+Judibana|VE||2c|wo|-5ey|6g|Judivana
+Jurm|AF||6o|2ue|5gr|6f|Jurn;Jorm;Jarm
+Jüchen|DE||8r|3xy|i2|6a|Juche
+Jurupa Valley|US||3p|2mf|-92g|63|Mira Loma
+Juma Shahri|UZ||7g|32c|556|5z
+Judian|CN||7i|23v|7ot|5y
+Jumunjin|KR||7h|2x9|9xv|5q|Chumonjin;Chūmonshin;Chumunjin
+Junqueirópolis|BR||4w|-1nr|-3yv|5o
+Judeida Makr|IL||6n|2jh|2po|5m|Jadeidi-Makr
+Judita|JO||5t|2i1|2r7|5k|Judeitta;Judeita
+Yur’yev-Pol’skiy|RU||9i|4cy|328|5j|Jurjev-Polskij;Yurev Polski
+Jūnāgarh|IN||6t|1j6|6ed|5h
+Yuzhnyy|RU|Altai Krai|63|43x|6gh|5f|Juzjnyj
+Juan de Acosta|CO||27|u3|-5sf|58
+Juan Aldama|MX|Chihuahua|2g|284|-867|56
+Jussara|BR|Goiás|4w|-182|-3xb|54
+Júlio de Castilhos|BR||4w|-297|-454|52|Julio do Castilhos
+Justicia|ES||9d|34a|-aa|52
+Józefów|PL|Mazovia|a5|40u|1n0|4z|Juzefova
+Jucurutu|BR||2w|-gr|-2uu|4y
+Juniata Park|US||48|335|-5sn|4w
+Juquiá|BR||4w|-1vk|-3ob|4s
+Jutou|CN||7i|2oq|83r|4k
+Jussara|BR|Bahia|20|-uo|-38l|4k
+Juchitepec de Mariano Rivapalacio|MX||41|1h2|-7mo|4g|Juchitepec de Mariano Riva Palacio
+Ljungby|SE||9w|4dv|12q|4e|Jungbis
+Juan Aldama|MX|Zacatecas|41|1vh|-7z7|4a
+Julianadorp|NL||8m|42x|d6|4a
+Julau|MY||6w|5m|8mw|49
+Jupi|BR||4p|-o7|-2t5|49|Jupy
+Junín|PE||3o|-v0|-5v3|49
+Jugiāl|IN||6t|2hx|5u8|48
+Juruá|BR||3t|-9o|-53j|47
+Yuzha|RU||9i|4d6|38p|43|Juzja
+Juan Rodríguez Clara|MX||41|1dz|-7d0|42
+Jūnqān|IR||7o|2hb|3wt|40|Jūnaqān;Jūnoqān;Jūneqān
+Junction Area|CA||59|3db|-64r|40
+Julfa|AZ||61|307|3ir|3t|Culfa;Jolfā
+Jindayris|SY||69|2t3|2tx|3t|Jindaras;Jandarīs;Dīndaris;Jandayris;Jundayris
+Jurema|BR|Pernambuco|4p|-o8|-2se|3s
+Yuryuzan’|RU||7z|48e|4ia|3q|Jurjuzan
+Juriquilla|MX||41|1lj|-7r2|3p
+Jüterbog|DE||8r|40g|10c|3p|Iutrebocum;Jueterbog
+Justice|US|Illinois|2f|37y|-6s0|3m
+Juan L. Lacaze|UY||45|-2nm|-4fl|3k|Juan Lacaze
+Juvignac|FR||9k|3d5|al|3k|Juvinhac
+Juan Morales|MX||41|1g9|-7ms|3k
+Juvisy-sur-Orge|FR||9k|3r8|6m|3g
+Juru|MY||6v|er|7r0|3f
+Jucati|BR||4p|-o7|-2td|3c
+Juscimeira|BR||2k|-18l|-48g|38
+Yur’yevets|RU||9i|4f7|3bq|37|Jurjevets;Yurevets
+Junín|CO|Tolima Department|27|da|-5se|34
+Juruaia|BR||4w|-1n1|-3le|33
+Juripiranga|BR||2w|-kh|-2pw|30|Jupiranga
+Yuzhno-Sukhokumsk|RU||9i|3g2|3it|2z|Juzjno-Sukhokumsk;Juschno-Suchokumsk;Ioujno-Soukhokoumsk;Južno-Suchokumsk;Juĵno-Suĥokumsk;Južno-Suhhokumsk;Južno-Suhokumsk;Suvisuhokumsk;Juzjno-Suchokumsk
+Jupille-sur-Meuse|BE||8t|3wp|fn|2y|Jupille;Djoupeye;Iupilia ad Mosam
+Jucuapa|SV||2u|11k|-6ti|2y
+Junín de los Andes|AR||1s|-32z|-5hg|2y|Andų Chuninas
+Junín|AR|Mendoza|1q|-2k3|-5a9|2w
+Jurbarkas|LT||a3|490|1r8|2u|Jurbork;Jurbarka;Yurbarkas;Jurbarko
+Juruena|BR||2k|-so|-4i4|2t
+Juayúa|SV||2u|12g|-6xb|2r
+Justo Daract|AR||1u|-2m2|-512|2p|Justo Daraet
+Jucuruçu|BR||20|-1as|-33k|2p
+Jurbise|BE||8t|3wd|av|2n|Jurbeke;Djurbize
+Juana Díaz|PR||4m|1e5|-54r|2m
+Juru|BR||2w|-ky|-2x2|2k
+Jūraqān|IR||7o|2ow|3qv|2k|Jowraqān
+Juanacatlán|MX|Jalisco|41|1kz|-7yl|2j
+Junín|EC||33|-2l|-66t|2j
+Jumla|NP||6r|29b|6ca|2j
+Juncos|PR||4m|1en|-534|2h
+Julfa|IR||7o|306|3ir|2g|Culfa;Jolfā
+Yutsa|RU||9i|3e4|3bh|2f|Jutsa
+Juli|PE||3o|-192|-5cx|2e
+Judenburg|AT||a2|3n1|14r|2d
+Juprelle|BE||8t|3wv|fd|2c
+Chūbīn Dar|IR||7o|2sn|3ur|29|Choobindar;Chundar;Jūbīn Dar
+Jūyom|IR||7o|26h|45y|28|Jūyum
+Yukhnov|RU||9i|482|2pv|27|Jukhnov
+Yurgamysh|RU||7z|49t|4z2|27|Jurgamysj
+Juarez Távora|BR||2w|-jx|-2qu|26
+Yugo-Kamskiy|RU||7z|4ga|4af|26|Jugo-Kamskij
+Yuzhno-Kurilsk|RU||7f|3eb|b96|26|Juzjno-Kurilsk;Juschno-Kurilsk;Joezjno-Koerilsk;Iujno-Kurilsk;Južno-Kurilsk;Ioujno-Kourilsk;Yujno-Kurilsk;Juzhno-Kurilsk;Jujno-Kurilsk;Yuzhno-Kurl’sk
+Juranda|BR||4w|-1vu|-42s|26
+Justiniano Posse|AR||1n|-2jc|-4u4|22
+Jussiape|BR||20|-11k|-37j|22|Juciape;Jussipe
+Yūbari|JP||7q|3bk|ayc|21|Jubari
+Jumelles|FR||9k|3ns|-a|21
+Juárez|MX|Chiapas|3z|1cx|-76v|21
+Ljusdal|SE||9w|4rr|18p|21|Jusdal
+Jovim|PT||99|367|-no|1z|Juvim
+Jurançon|FR||9k|3c9|-13|1y|Juranson
+Juigné|FR||9k|3ok|-13|1y
+Junco do Seridó|BR||2w|-jg|-2tz|1w
+Juti|BR||2a|-1ri|-47o|1v
+Jussara|BR|Paraná|4w|-1tm|-41r|1v
+Jūlis|IL||6n|2ji|2pq|1t|Ğulis
+Jūjīl|IR||7o|2ih|3z1|1r
+Justicia|ZA||o|-1x4|2f9|1q
+Santa Catarina Juquila|MX||41|194|-7i9|1q|Juquila
+Juá dos Vieiras|BR||2w|-9t|-36q|1q
+Juan Díaz Covarrubias|MX||41|1eg|-7cf|1p
+Juchipila|MX||41|1nh|-7yg|1o
+Jūjō-nakahara|JP||7q|2rd|as4|1o
+Yurty|RU||6k|4bp|7j7|1n|Jurty
+Jussari|BR||20|-167|-31q|1n
+Jutaí|BR||3t|-ee|-5be|1n
+Junction City|US|Oregon|3p|3eu|-9i9|1m
+Juvenília|BR||20|-13m|-3eo|1m
+Juva|FI||92|4ry|25d|1k|Jockas
+Juan de Herrera|DO||4v|1gf|-5hw|1j
+Juankoski|FI||92|4v6|26p|1j|Strömsdal
+Ajuchitlán|MX||41|1lj|-7pu|1j|Juchitlán;Juchitán
+Judendorf|AT|Styria|a2|3no|15y|1j
+Jua|IN||6t|175|5pf|1j
+Júlio Borges|BR||2w|-sp|-3ew|1i|Lameirão
+Julayjilah|SA||7e|1yu|3ts|1i|Julaijilah
+Yumaguzino|RU||7z|42y|4cn|1i|Jumaguzino
+Jubilee|CA||5b|3qj|-9il|1h
+Juazeiro do Piauí|BR||2w|-ed|-37v|1g
+Junco do Maranhão|BR||2w|-58|-3jz|1f
+Jurilovca|RO||8u|3gd|287|1f|Jurilofka;Jurilofca
+Jungapeo de Juárez|MX||41|1i2|-7r5|1f
+Judea|NZ||ak|-2wq|dla|1e
+Junee|AU||8l|-2ov|bdy|1c
+Juntas|CR||2i|sk|-6k0|1b
+Yurginskoye|RU||7z|4du|577|1a|Jurginskoje;Korginskoye
+Jurva|FI||92|4u4|1p2|19
+Jurema|BR|Piauí|2w|-pm|-3bt|18
+Jundrov|CZ||9m|3sp|19z|18
+Yukamenskoye|RU||9p|4gt|415|17|Jukamenskoje
+Júlio Mesquita|BR||4w|-1p5|-3ub|17
+Yurino|RU||9i|4cd|3km|16|Jurino
+La Jutosa|HN||56|17g|-6sf|16|Jutosa
+Jundiá|BR|Alagoas|3r|-ot|-2qt|16
+Yushala|RU||7z|4ek|4yi|16|Jusjala
+Juniper Ridge|CA||5b|3wr|-9a1|16
+Juuka|FI||92|4vn|299|15|Juga;Yugo;Yuga
+June Park|US||48|25z|-684|15
+Juban|PH||71|zp|9kf|15
+Yurla|RU||7z|4ks|46w|15|Jurla;Yurlya
+Jumiltepec|MX||41|1gj|-7me|13
+Jugno|PH||71|qb|9i8|12
+Juramento|BR||4w|-1at|-3d3|12
+Juillan|FR||9k|3c0|2|12|Julhan
+Jundiá|BR|Rio Grande do Norte|2w|-hf|-2q5|11
+Jüri|EE||9x|4kw|1x6|11|Yuri
+Jugów|PL||a5|3wn|19w|11
+Ljungskile|SE||9w|4hq|x4|11|Jungšilė
+Juelsminde|DK||8y|4ar|ru|11
+Jutiquile|HN||56|14w|-6n4|10
+Juziers|FR||9k|3s3|55|z
+Yurovka|RU||9i|3hb|2vy|z|Jurovka;Yur’yevka
+Juan Aldama|MX|Tabasco|41|1cx|-76f|z
+Juan Bautista Alberdi|AR||1l|-2no|-4rp|z
+Juno Beach|US||48|22o|-66d|z
+Juchitlán|MX|Jalisco|41|1js|-816|z
+Justin|US||2f|2jw|-7ia|y
+Juchitán|MX||41|1a7|-7m0|x
+Jundiaí do Sul|BR||4w|-1t4|-3vl|x
+Zhuravno|UA||98|3su|1vg|x|Żurawno;Juravno;Schurawno;Jouravno;Zsuravno;Juravne;Zhuravne
+Qaqortoq|GL||4e|4oo|-3jw|w|Julianehåb;Kakortokas;Kakortoks;Julianehaab;Kakortok;Julian Haab;Kakortak
+Jubbega|NL||8m|438|h0|w|Jobbegea
+Juárez Coronaco|MX||41|1hs|-7lo|v
+Jūqīn|IR||7o|2t1|3q8|v|Joqin
+Yuzhnyy|RU|Kaliningrad Oblast|96|47j|1l8|v|Juzjnyj
+Junortoun|AU||8j|-2u5|b50|v
+Jumirim|BR||4w|-1s5|-3oq|v
+Juneda|ES||9d|37f|2a|u
+Juanacatlán|MX|Jalisco|41|1jn|-801|u
+Julita|PH||71|uh|9n4|u
+Yuganets|RU||9i|4c9|3c3|u|Juganets
+Juan Aldama (El Tigre)|MX||3x|1xa|-8bi|t
+Juḩr ad Dīk|PS||6f|2fe|2no|t|Juhor ad Dik
+Jutiapa|HN|Atlántida Department|56|17t|-6oc|s
+Juan Martín|MX||41|1kv|-7rv|s|San Martin
+Juan Marcos (San José Buenavista)|MX||41|1it|-7i0|s
+Justvik|NO||9j|4ho|mb|s
+Juchique de Ferrer|MX||41|1j4|-7gl|s
+Judenbach|DE||8r|3w0|v6|r
+Juneau|US|Wisconsin|2f|3cl|-6uf|r
+Zhuravki|UA||9t|3hd|2pu|r|Zjuravki;Juravkî;Zuravki
+Joachín|MX||41|1fs|-7fc|q|Juachín
+Jübek|DE||8r|47k|q4|q|Jydbæk
+Jupiá|BR||4w|-21c|-42h|q
+Juszczyn|PL||a5|3u1|1ip|p
+Kalona|US||2f|378|-72r|p|jus
+Jutogh|IN||6t|2ee|5y8|p
+Juan E. García|MX||44|1yt|-801|p|Juan El García
+Junction|US||2f|2cp|-7p5|o
+Józefów|PL|Lublin|a5|3w8|1s1|o|Juzefova
+Juigné sur Loire|FR||9k|3np|-1c|o|Juigné-sur-Loire
+Yug|RU||7z|4gd|4c1|o|Jug;Iug
+Julián Grajales|MX|Chiapas|41|19t|-769|o
+Dobroszyce|PL|Lower Silesia|a5|3yf|1c6|o|Juliusburg;Douroszyce
+Junglinster|LU||9c|3u3|hd|o
+Nova Zhuchka|UA||98|3qa|204|o|Neuzuczka;Neu Zuchka;Jucica Nouă;Żuczka Nowa
+Juradó|CO||27|jq|-600|o
+Jubasan|PH||71|yo|9l9|n|Hubasan
+Julbach|DE||8r|3q1|100|n
+Juarina|BR||1k|-mk|-3sa|n
+Junction City|US|Kentucky|48|2wf|-6jj|n
+Yuzhnyy-Kospashskiy|RU||7z|4jt|4gg|n|Juzjnyj Kospasjskij
+Juan Gil Preciado|MX||41|1kl|-805|n|La Loma
+Juilly|FR||9k|3s5|7j|m
+Junia|BD||6a|1uz|6zl|m
+Jumprava|LV||9n|4dg|1xd|m|Yumprava
+Tugas|PH||71|w9|9fy|l|Jugas
+Iugani|RO||8u|3mo|22j|l|Jugani
+Al Judayrah|PS||6g|2gi|2ps|l|Judayrah
+Judson|US||48|2or|-6cz|l
+Jūsheqān-e Estark|IR||7o|2ml|3ya|k|Jūsheqān Estark;Jūsheqān-e Estarak;Jowsheqan-e Estark
+Judsonia|US||2f|2pz|-72k|k
+Jujutla|SV||2u|12b|-6xm|k
+Jubilee Pocket|AU||8c|-1kd|bh5|k
+Juan Cousté|AR||1l|-301|-4ve|k
+Junjongan|BN||66|dd|8v1|k
+Juodupė|LT||a3|4bt|1z5|k|Jodupe;Pojedupie;Joudopė;Yuodupe
+Julián Blanco (Dos Caminos)|MX||41|1bu|-7og|k
+Juan Díaz|PA|Coclé|4g|ni|-671|j
+Jutrosin|PL||a5|3zh|1bp|j
+Jujurieux|FR||9k|3jw|f1|j
+Jussey|FR||9k|3ov|ge|i
+Jussac|FR||9k|3gz|6q|i
+Jünkerath|DE||8r|3vu|ia|i
+Julimes|MX||2g|26y|-84v|i
+Juan N. Méndez|MX||41|1fi|-7jl|i|Atenayuca
+Jurien Bay|AU||8k|-2c7|8vk|i
+Juist|DE||8r|454|jg|i|Júst
+Jüngersdorf|DE||8r|3x5|hp|i
+Jumièges|FR||9k|3tb|2a|h|Gemeticum
+Juan Jacobo Torres [Bodega de Totontepec]|MX||41|1ey|-7cm|h
+Juszczyna|PL||a5|3tv|1he|h
+Jugenheim|DE||8r|3ul|mg|h
+Juupajoki|FI||92|4ro|1vp|h
+Yubileynyy|RU||7z|4ja|4gi|h|Jubilejnyj
+Jursla|SE||9w|4ix|18w|g
+Jucuarán|SV||2u|10t|-6t5|g
+Jubbal|IN||6t|2ef|5zp|g|Jubbl
+Juancho|DO||4v|1dm|-5i1|g
+Judendorf|AT|Styria|a2|3mw|16n|g
+Jüchsen|DE||8r|3w8|t6|g
+Juan Santiago|DO||4v|1fy|-5iv|f
+Jurské|SK||8s|3so|1l1|f
+Juan López Abajo|DO||4v|1hz|-5fu|f
+Jullouville|FR||9k|3ri|-4c|f|Julloville
+Julian|US||3p|2jw|-8zw|f
+Junín|CO|Cundinamarca|27|db|-5om|f
+Juan Pujol|AR||1n|-2ci|-4gq|f
+Jūben|IR||7o|2uf|3tg|f
+Jūrat ash Sham‘ah|PS||6g|2fx|2pp|f|Jurat esh Shama
+Jungingen|DE||8r|3q9|p4|f
+Júpare|MX||37|22g|-8gq|f|Juraré
+Juan de la Granja|MX||41|1he|-7jp|e
+Jucutácato|MX||41|1hu|-7vk|e|Jucatacato
+Juan del Grijalva|MX||41|1ah|-76a|e
+Juncal|PT||99|320|-oq|e
+Jugon-les-Lacs|FR||9k|3qi|-6h|e
+Juvigné|FR||9k|3pz|-2w|e
+San Pedro Juchaltengo|MX||41|19f|-7hp|e|Juchaltengo;San Pedro;Juchatengo;San Pedro Juchatengo
+Justo Sierra|MX||41|19y|-73q|e
+Jūrīsh|PS||6g|2h6|2q4|e
+Juan Adrián|DO||4v|1g4|-5fe|e|Juan Aldián
+Zhuravlivka|UA|Vinnytsia|98|3r4|27s|e|Zhuravlëvka;Juravlivka;Žuravlivka;Zhuralevka
+Jussy|CH||a7|3kg|hf|e
+Jugur|RO||8u|3hj|1xo|d
+Jumilhac-le-Grand|FR||9k|3id|2y|d|Jumilhac lu Grand;Jumilhac lo Grand
+Jugureanu|RO||8u|3gu|23s|d
+Junction Hill|AU||8l|-2ac|bss|d
+Justice|US|Oklahoma|2f|2st|-7dh|d
+Julián Villagrán|MX||41|1ko|-7na|d
+Zhuravychi|UA||98|3xm|1zg|d|Schurawytschi;Žuraviči;Żurawicze;Juravîci;Zhuraviche;Zhuravichi
+Juanicó|UY||45|-2o3|-4c9|d|Joanicó
+Colonia Juárez|MX|México|41|1hl|-7ob|d|Juárez;Los Chirinos
+Jussy|FR||9k|3u4|8z|d
+Yushkozero|RU||9i|4zv|2h7|d|Jusjkozero;Jyskyjärvi
+Julián Grajales|MX|Chiapas|41|19n|-78b|d
+Zhuravlykha|UA||98|3ta|2cb|d|Zhuravlikha;Żurawlicha;Juravlîha
+El Juncal|HN||56|172|-6o3|d|Juncal
+Julesburg|US||2p|35v|-7w2|c
+Juigné-sur-Sarthe|FR||9k|3oy|-t|c
+Juncalito Abajo|DO||4v|1he|-5gq|c|Juncalito
+Jürgenshagen|DE||8r|45v|x2|c
+Juhannuskylä|FI||92|4qu|1u1|c|Jussinkylä
+Juncal|PR||4m|1ev|-55w|c
+Jutiapa|HN|El Paraíso Department|56|12u|-6o0|c
+Juillac|FR||9k|3hw|3o|b
+Jupânești|RO||8u|3h7|1x1|b|Jupîneşti
+Runsong|CN||7i|22n|8f2|b|Jun-song
+Julatten|AU||8c|-1a5|b7q|b
+Juan Sarabia|MX||2b|1fe|-6ts|b
+Jühnde|DE||8r|3yz|r8|b
+Judgeford|NZ||ak|-368|dhx|b
+Juvigny-sous-Andaine|FR||9k|3qv|-1f|b
+Juan A. Pradere|AR||1l|-320|-4u1|a|Juan Pradere
+Junction Village|AU||8j|-2xy|b7m|a
+Juan Escutia (Borbollón)|MX||3x|1mt|-83b|a
+Jury|FR||9k|3sb|hd|a
+Judaydat Yābūs|SY||69|2lh|2rx|a|Judayyat Yābūs
+Yurovo|RU||9i|4a6|2yl|a|Jurovo
+Jūdāneh|IR||7o|2t2|4a7|a
+Jürgenstorf|DE||8r|452|zv|a
+Juszkowo|PL||a5|46q|1fo|a
+Juseret|BE||8t|3uk|ff|9
+Juvigny|FR|Grand Est|9k|3s6|bu|9
+Juxtlahuaca|MX||41|1cf|-7nf|9
+Juárez|MX|Coahuila|44|24p|-7rt|9
+Jupiter Island|US||48|233|-66i|9
+Juan Sabines Gutiérrez (Poste Rojo)|MX||41|15g|-74j|9
+Zhukiv|UA||98|3tj|1xa|9|Zjukiv;Jukiv;Żuków;Zhukov
+Juntas Chicas|MX||41|1l5|-7kb|9
+Juan Felipe|MX||41|1mr|-7jl|9
+Junsele|SE||9w|4wy|1aw|9
+Julbach|AT||a2|3r6|12j|9
+Juniville|FR||9k|3t8|c6|9
+Julcan|PE||3o|-wo|-5tk|8
+Juliénas|FR||9k|3kg|d3|8
+Zhuravnyky|UA||98|3w3|1wl|8|Schurawnyky;Žuravniki;Żurawniki;Juravnîkî;Zhuravniki
+Juan de la Barrera|MX||37|21d|-8f1|8
+Juan Lucas|MX||41|1k2|-7tf|8|San Lucas
+Jušići|HR||a6|3i2|13s|8
+Juniata|US||2f|34r|-7ln|8
+Justicia Social|MX||3z|1fq|-6z3|8
+Julcamarca|PE||3o|-105|-5qs|8
+Juvardeil|FR||9k|3od|-1e|8
+Junction City|US|Ohio|48|32c|-6cm|8
+Yuzhno-Yeniseyskiy|RU||6u|4ja|7av|8|Juzjno-Jenisejskij
+General Juan Domínguez Cota|MX||3x|1ul|-8hf|8|Juan Dominguez Cota
+Junas|FR||9k|3dl|bg|8
+Juzgara|PE||3o|-ep|-64r|8
+Juanacatlán|MX|Jalisco|41|1k3|-81l|8
+Le Juch|FR||9k|3pj|-bu|8|Ar Yeuc'h;Ar Yeuch;Juch
+Juan Sabines Gutiérrez|MX|Chiapas|41|1bw|-77i|7
+Judenau|AT||a2|3q4|18h|7
+Jublains|FR||9k|3q2|-1e|7|Noviodunum
+Juan Sabines Verapaz|MX||41|1bg|-74f|7
+Jugureni|RO|Prahova|8u|3ha|21h|7|Jugure
+Jubrique|ES||9d|2tk|-ei|7
+Juandó|MX||41|1jn|-7ps|7
+Juodkrantė|LT||a3|4aa|1mo|7|Yuodkrante
+Juno Ridge|US||48|22l|-66e|7
+Junco|CV||84|15w|-1tp|7
+Jumeaux|FR||9k|3i7|9a|7|Los Gemèis;Minzuddi
+Juznajab la Laguna|MX||41|19i|-73u|7
+Jugeals-Nazareth|FR||9k|3h8|4c|7
+Judique|CA||35|3jg|-4qt|7
+Juan B. Ceballos|MX||44|1v9|-82r|7
+Yukki|RU||9i|4mz|2c5|7|Jukki
+Jucu de Mijloc|RO||8u|3m4|1u1|7|Jucul-de-Mijloc
+Jugureni|RO|Dâmbovița County|8u|3fy|1yk|7
+Juliantla|MX||41|1fi|-7oj|7
+Jungholtz|FR||9k|3p0|k0|7|Junckholtz;Iungholtz;Jungholz
+Jübar|DE||8r|42d|ub|7
+Junín Pablo|PE||3o|-ol|-5q4|7
+Juvigny-le-Tertre|FR||9k|3r8|-2u|7
+Junction City|US|California|3p|355|-9ht|7
+Stiyke|UA||98|3mr|2k9|7|Yudindorf;Stiike;Judendorf
+Juillac-le-Coq|FR||9k|3in|-q|7
+Julia Creek|AU||8c|-1le|axq|7
+Acsád|HU||8v|3ng|1ah|7|Jučad
+Jurdani|HR||a6|3i2|13s|7
+Juan Gil|PA||4g|pi|-646|7
+Juaye-Mondaye|FR||9k|3sp|-1y|7
+Zhuravka|UA|Cherkasy|98|3sw|2em|7|Juravka
+Juan Rincón|MX||44|1uh|-7nk|6
+Yuval|IL||6n|2kd|2qw|6|Juval
+Zudausques|FR||9k|3wz|5z|6|Judose
+June Lake|US||3p|2wy|-96s|6
+Juan Escutia|MX||3x|1xa|-8b9|6
+Jüdenberg|DE||8r|3zr|yh|6
+Julianstown|IE||8z|453|-hh|6|Baile Iúiliáin
+Juan de Alfaro|MX||41|1gt|-7f4|6|Juan Alfaro
+Jurques|FR||9k|3s6|-22|6
+Jukkasjärvi|SE||9w|58h|1la|6
+Juvigny|FR|Auvergne-Rhône-Alpes|9k|3kd|hg|6
+Juan Sabines Gutiérrez|MX|Chiapas|41|181|-73i|6
+Yunda|RU||9p|4gs|42y|6|Junda
+Jupilles|FR||9k|3or|15|6
+Jupa|RO||8u|3ia|1pn|6|Tibiscum;Tibiskon
+Jussy-le-Chaudrier|FR||9k|3mx|85|6
+Juan García|MX||41|1er|-7do|6
+Juxalja|MX||41|1ay|-74u|6
+Juan Uvera|MX||41|1ge|-7le|6
+Jumeauville|FR||9k|3rv|4z|6
+Julián Grajales (San Antonio)|MX||41|1bk|-772|6
+Juliaetta|US||3p|3le|-907|6
+Juan de Grijalva|MX||41|1be|-77s|6
+Juchitlán|MX|Hidalgo|41|1l3|-7nt|6
+Jutigny|FR||9k|3qq|8z|6
+Juuru|EE||9x|4k2|1xb|6
+Juchitlán|MX|Jalisco|41|1mg|-7y9|6
+Jütrichau|DE||8r|40a|xp|6
+Junction City|US|Louisiana|2f|2jp|-75l|6
+Judaberg|NO||9j|4kd|gc|6
+Jützenbach|DE||8r|3z5|su|6
+Jūshān|IR||7o|2i3|3za|5
+Junction City|US|Arkansas|2f|2jq|-75k|5
+Juan Aldama|MX|Durango|44|1vz|-81b|5|Magueyes
+Juniata Terrace|US||48|34r|-5zi|5
+Juan Diego|MX||41|17y|-7h7|5
+Jupani|RO||8u|3j9|1p6|5
+Jūqān-e Kūchak|IR||7o|2wy|3ly|5|Jūghān-e Kūchak
+Juanacatlán|MX|Guerrero|41|1c5|-7ln|5
+Juan José Rojas|MX||44|1yv|-7zx|5
+Jurignac|FR||9k|3ih|-4|5
+Juc'Nil|MX||41|1b8|-74p|5
+Juragiai|LT||a3|487|1u4|5
+Junior|US||48|30a|-663|5

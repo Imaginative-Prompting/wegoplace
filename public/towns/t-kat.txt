@@ -1,0 +1,275 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Kathmandu|NP||6r|24y|6l0|b4n|Katmandú;Katmanduo;Katmandou;Catmandu;Kathmandau;Kathmandou;Katmandoe;Katemandu;Catmandum;Katmandó;Khatmandu
+Dnipro|UA||98|3qn|2pc|7h1|Dnjepropetrovsk;Dněpropetrovsk;Dniepropetrovskas;Dnjipropetrovsk;Dniepr;Dnyipro;Dnepr;Novyy Kodak;Katerynoslav;Novorosiynsk;Sicheslav;Dnjipro;Catherinoslav;Caterinoslavia
+Katsina|NG||u|103|l4|564|Kacina
+Cuttack|IN||6t|1ku|6mk|4pi|Kataka;Kattak
+Katsushika|JP||7q|2r9|ash|3hv
+Catania|IT||9o|2w5|15v|2ek|Katanio;Catane;Katania;Catina;Katānija
+Katowice|PL||a5|3vm|1gu|27q|Kattowitz;Katovice;katovitses;tcadrkatovitse;Katovicum;Katovicai;Katowihi;Katovitse;Katovîts;Katowicy;Khà-thok-vì-chṳ;Catowice
+Katihar|IN||6t|1yy|6r9|1uw
+Catamarca|AR||1m|-273|-52r|187|Katamarka
+Katsuta|JP||7q|2t2|aud|17c
+Katabi|UG||q|8|2i7|16v
+Kati|ML||5|ze|-mf|107
+Södermalm|SE||9w|4kr|1e8|zd|Maria-Gamlastan;Maria gamla stan;Katarina-Sofia;Sofia gamla stan
+Catchiungo|AO||x|-yx|193|xj|Cachiungo;Katchiungo
+Kadoma|ZW||n|-1ex|2b4|wm|Katoma
+Katumba|TZ||h|-pn|2le|u6|Kabumba
+Catumbela|AO||x|-yj|11n|qe|Katumbela;Catumbella
+Kattaqo’rg’on Shahri|UZ||7g|32v|543|p6|Kattaqo‘rg‘on;Kattaqŭrghon
+Katwa|CD||y|9|29f|ou
+Katunayaka|LK||68|jx|65x|ni|Katunayake
+Kātoya|IN||6t|1tp|6st|ls
+Katano|JP||7q|2on|agx|ku
+Katoro|TZ|Geita|h|-8c|2gp|ku
+Katori-shi|JP||7q|2rq|aua|kp
+Krathum Baen|TH||62|11x|7qi|k8|Krathumban;Krathu Baen;Kathum Baen
+Kathua|IN||6t|2hx|5tt|gn
+Katiola|CI|Vallée du Bandama District|0|mm|-e6|gk
+Kātrās|IN||6t|1u4|6nq|fx
+Kateríni|GR||8p|33v|1qj|et|Katerina
+Katanawa|JP||7q|2l4|a2a|dx
+Katete|ZM||z|-131|2h4|cm
+Kachkanar|RU||7z|4j2|4l8|c8|Katsjkanar
+Kātol|IN||6t|1n3|62b|c1
+Katanda|CD||y|-2b|29k|bp|Katenda
+Katō|JP||7q|2p0|af3|ba
+Kāttipparutti|IN||6t|u7|5v9|b7|Kattipparuthi
+Káto Lakatámeia|CY||73|2pk|2kl|b4|Kato Lakatamya;Káto Lakkatámia;Kato Lakatamia
+Kātpādi|IN||6t|101|63v|as
+Katsuragi|JP||7q|2nt|agy|ae|Kacuragi;Katuragi-chhī
+Katsina-Ala|NG||u|jx|ps|a7|Katsena Ala
+Kattivākkam|IN||6t|10q|674|a6
+Kathu|TH||62|m0|7l5|9o|Katu
+Katsuren-haebaru|JP||7q|215|9v7|9i
+Katima Mulilo|NA||1f|-1cm|1vg|9c|Katima Mulilas;Katima Molilo
+Kapan|AM||80|30x|3kx|95|Kafan;Katan
+Katobu|ID||70|-df|9gx|8v
+Katagami|JP||7q|32s|asw|8t
+Kalisizo|UG||q|-1i|2fu|8q|Katisizo
+Katirur|IN||6t|wq|5tt|8n
+Catabola|AO||x|-xr|1c0|80|Katabola
+Cataño|PR||4m|1f8|-53o|7t|Katano
+Kattumannarkoil|IN||6t|vc|650|7l
+Katsuyama|JP||7q|2s6|aj6|7j|Katuyama-chhī
+Kotovo|RU||a4|3vs|3gh|7i|Kotowo;Katovo
+Katha|MM||7y|1v6|7fm|7f
+Katheru|IN||6t|1bc|6b6|6k
+Katrineholm|SE||9w|4jw|191|6h|Cathrineholm
+Káto Polemídia|CY||73|2oe|2jn|6g|Kato Polemidya;Aşağı Binatlı;Aşağı Polemitya;Kato Polemidhia
+Katghora|IN||6t|1qi|6da|6b
+Kathhāra|IN||6t|1u0|6mk|65
+Kathlāl|IN||6t|1rm|5mr|65
+Katesh|TZ||h|-ck|2qa|5z
+Katutura|NA||1f|-1qk|1be|5w
+Kataragama|LK||68|ht|69x|5t
+Katālem va Sādāt Shahr|IR||7o|2uh|3wu|5r
+Kataiya|IN||6t|21t|6hk|5m
+Katwijk aan Zee|NL||8m|410|c8|5k|Katwyk Aan Zee;Katijk aan Zee
+Kattanam|IN||6t|pi|5wo|5i
+Katav-Ivanovsk|RU||7z|483|4ho|5d|Kataw-Iwanowsk
+Katangi|IN|Madhya Pradesh|6t|1t4|65o|5a
+Qaţanā|SY||69|2kw|2s8|55|Katana
+Katerero|TZ||h|-3w|2g5|54
+Katoke|UG||q|24|2d8|52
+Kattur|IN||6t|st|5vl|50
+Kāttatturai|IN||6t|n0|5yo|4t
+Katerynivka|UA|Luhansk|98|3qw|30u|4p|Yuvileyne;Yuvileine
+Katsuura|JP|Chiba|7q|2pn|ats|4p|Katuura-chhī
+Katy|US||2f|2ar|-7e6|4i
+Kataysk|RU||7z|4cd|4tu|4c|Katajsk
+Katangi|IN|Madhya Pradesh|6t|1oh|65p|49
+Kāthor|IN||6t|1n5|5mm|49
+Katakai|JP||7q|2qp|au5|42|Katagai
+Katsuura|JP|Wakayama|7q|2lf|ahm|3x
+Kataba|ZM||z|-x0|2aq|3w
+Kadena|JP||7q|219|9uw|3t|Katena;Kadina
+Katavallūr|IN||6t|ts|5vb|3l
+Kāti|IN||6t|1dw|5ut|3c
+Katoro|TZ|Kagera|h|-3w|2fi|3b
+Kāttakampāla|IN||6t|tp|5v7|3a
+Kāttupputtūr|IN||6t|uj|61a|32|Kāttuputtūr
+Katsumada|JP||7q|2pb|ack|31|Katsumata
+Catacocha|EC||33|-b9|-659|31|Katakucha
+Kathāniān|IN||6t|2fw|5ro|2z
+Katipunan|PH|Zamboanga Peninsula|71|l2|9h7|2y
+Katagum|NG||u|y5|sr|2y
+Kathu|ZA||o|-24y|1s1|2k
+Katyr-Yurt|RU||9i|3bx|3i1|2k|Katyr-Jurt;Katar-Yurt;Kotarin-Yurt;Kotar-Yurt
+Katiali|CI|Savanes District|0|ra|-gh|2k|Katiafi;Katyali
+Katra|IN|Jammu and Kashmir|6t|2jn|5s5|2j
+Katpur|IN||6t|1mi|5jf|2f|Kadpur;Kutpur;Katpar
+Kattimancode|IN||6t|mr|5yv|2d
+Katangawan|PH||71|h5|9nu|2d
+Bolnisi|GE||7n|375|3fq|2d|Bolnissi;Katharinenfeld
+Katoomba|AU||8l|-2lo|blj|2b|Katumba
+Katang Ailieke|CN||7t|2xz|6lk|28
+Katlenburg-Lindau|DE||8r|3zk|s2|24|Katelnborg-Lindau
+Kattrivedu|IN||6t|10i|66s|24
+Katran|KG||65|32o|5eh|1z
+Katzrin|IL||6n|2jn|2r5|1z|Qazrin;Katsrin;Qatzrin;Qatsrin;Kacrin;Kațrin
+Kachug|RU||6k|45w|865|1y|Katsjug;Kachurga
+Katra|IN|Uttar Pradesh|6t|24f|6bv|1x
+Katangī|IN|Maharashtra|6t|1no|66s|1s
+Kathleen|US||48|264|-6bu|1r
+Kietrz|PL||a5|3v4|1e0|1r|Katscher;Ketř
+Katirail T.E.|IN||6t|1x7|756|1q
+Katikati|NZ||ak|-2wb|dko|1o
+Katherine|AU||8e|-147|a7e|1o
+Katwijk aan den Rijn|NL||8m|40z|ca|1n|Katwijk;Katwijk aan de Rijn
+Katoro|CI||0|s7|-h1|1m|Katorho;Katono
+Káto Achaḯa|GR||8p|2xz|1nv|1m|Káto Akhaïa;Káto Achagiá
+Katerynopil|UA||98|3rz|2e1|1j
+Kąty Wrocławskie|PL||a5|3xr|1al|1i|Konti Vroclavske
+Katsikás|GR||8p|322|1m1|1g|Katsiká
+Katito|KE||16|-r|2p5|1f
+Katajanokka|FI||92|4n5|1xd|1e|Skatudden;Skatta
+Katadji|CI||0|fr|-cm|1c
+Katendrecht|NL||8m|406|cg|1c
+Katuli|PH||71|kn|9l2|1b
+Katidtuan|PH||71|jz|9lc|1b|Catidtuan;Catictuan
+Katagiri|JP||7q|2qz|an5|1b
+Katonon|CI||0|rw|-fl|1a
+Katlabuh|UA||98|3im|28i|1a|Suworowe;Șichirlichitai;Suvorove;Souvorové;Katlabug;Katlabouh
+Katkona|IN||6t|1sw|6dn|1a
+Katashina|JP||7q|2uc|aqu|17
+Kacha|UA||9t|3ge|2l6|17|Katcha;Qaçı;Kaĉo;Kascsa;Katsja;Kacza
+Katubao|PH||71|gd|9mr|16|Katebao;Katabao
+Katipunan|PH|Zamboanga Peninsula|71|nn|9ig|16
+Káto Mitroúsi|GR||8p|362|1t6|15
+Katueté|PY||1y|-1vd|-484|15
+Katiuzhanka|UA||98|3x5|2bq|14|Katyuzhanka
+Katico|PH||71|is|9mh|13|Catico
+Katièplénou|CI||0|jp|-bw|13
+Catriló|AR||1s|-2t5|-4w6|11|Katrilo
+Kata|CI||0|l5|-mi|11|Kaka
+Katanning|AU||8k|-2ll|92k|11
+Kato|CI||0|nl|-iz|x
+Katunino|RU||9i|4yv|34v|x|Katoenino
+Katherine East|AU||8e|-147|a7h|w
+Katzelsdorf|AT|Lower Austria|a2|3oq|197|v|Macskásd
+Katharinenberg|DE||8r|3y6|si|v
+Katyonon|CI||0|mp|-e6|t
+Katse|LS||12|-29i|274|t
+Katochí|GR||8p|2yp|1n1|s|Katokhí
+Káto Tithoréa|GR||8p|2z9|1r3|s
+Katara|CI||0|sa|-h6|q|Katala;Katahara
+Katimasso|CI||0|ke|-9x|p
+Katipunan|PH|Davao Region|71|kc|9oy|p
+Katchré Essekro|CI||0|ji|-ct|o
+Katok|BN||66|do|8v5|o
+Cattenom|FR||9k|3t9|hc|o|Kattenhofen;Kettenuewen
+Katymár|HU||8v|3jv|1hd|o|Katschmar
+Katzenelnbogen|DE||8r|3vn|m5|m|Katzenelnbogn
+Katzhütte|DE||8r|3wf|up|m
+Káto Goúves|GR||8p|2q5|1yb|m
+Káto Soúlion|GR||8p|2y1|1uq|l|Kato Souli
+Káto Kleinés|GR||8p|35h|1ng|l|Káto Klinés;Kleshtina e Poshtme;Káto Klinaí;Káto Kleinaí
+Katya|CI||0|q1|-fq|l|Katia
+Katzwinkel|DE||8r|3x5|lq|k
+K’atskhi|GE||7n|39g|3c1|k|Kats’khi
+Święta Katarzyna|PL||a5|3xr|1bj|k|Kattern
+Káto Scholári|GR||8p|34b|1rz|k
+Kecskéd|HU||8v|3o0|1ev|j|Kätschka
+Samos|GR||8p|2wv|22y|j|Kato Vathý;Kato Vathi;Limenas Vatheos;Vathi;Vathy;Limén Vathéos
+Katrā|IR||7o|2u2|3xn|i|Kotrā
+Katherine South|AU||8e|-147|a7e|i
+Katnajur|AM||80|35e|3em|i|Karal
+Káto Glykóvrysi|GR||8p|2ub|1ra|i|Káto Glikóvrisi
+Káto Lekhónia|GR||8p|319|1s0|i
+Katchang|GM||7|11i|-17r|h
+Katyn'|RU||9i|485|2g1|h
+Katzweiler|DE||8r|3ti|le|h
+Káto Defterá|CY||73|2pg|2kg|h|Kato Dheftera
+Katyaha|CI||0|r1|-go|h|Katiaha
+Katonah|US||48|36m|-5op|h
+Katouo|CI||0|is|-n5|g
+Katoúna|GR||8p|2zr|1mn|g
+Katanra|CI||0|qt|-i1|g|Katanrha
+Kati|CI||0|i3|-kx|f
+Katiénou|CI||0|kl|-e8|e
+Katovice|CZ||9m|3sv|12f|d
+Katastárion|GR||8p|2x3|1lo|d|Katastari
+Kataro|TR||94|2vq|33t|d|Söğütözü
+Quartier Morin|HT||4j|1iq|-5kg|d|Katye Moren;Qartier-Morin
+Cataloi|RO||8u|3ha|27t|d|Kataloi
+Katsdorf|AT||a2|3q8|147|d
+Katariina|FI|Southwest Finland|92|4nu|1pw|d
+Káto Asítai|GR||8p|2ps|1xg|d
+Káto Dhiminió|GR||8p|2xm|1r5|c|Kato Diminio
+Katogbo|CI||0|nj|-ij|c
+Káto Pýrgos|CY||73|2pq|2it|c|Kato Pirgo
+Káto Kamíla|GR||8p|35y|1t8|b
+Kátlovce|SK||8s|3qs|1cx|b
+Kateh Gonbad|IR||7o|29b|43m|b
+Káto Lipochóri|GR||8p|358|1pm|b
+Katnaghbyur|AM|Aragatsotn|80|346|3e3|b|Kat’naghbyur;Katnaxbyur;Katnakhpyur;Katnaghpyur
+Katzelsdorf|AT|Lower Austria|a2|3q4|18r|a
+Káto Mazaráki|GR||8p|2xr|1o5|a
+Katunga|AU||8j|-2s1|b83|a
+Katerynka|UA||98|3p4|2di|a|Katerinka
+Káto Korakiána|GR||8p|329|1j3|a
+Kąty Opolskie|PL||a5|3wg|1dx|a
+Káto Figália|GR||8p|2w0|1oh|a
+Káto Chorió|GR||8p|2pd|1zn|9|Káto Khorió;Káto Khoríon
+Katiali|CI|Savanes District|0|ri|-h1|9
+Kateřinice|CZ|Zlín|9m|3t6|1dp|9
+Katyali|CI||0|on|-hf|9|Katiali
+Ka Tha Paung|MM||7y|1az|7ed|9
+Kateh Sar|IR||7o|2vt|3u0|9|Kateh Shūr;Katekhsar
+Kattendorf|DE||8r|45k|ru|9
+Katnarat|AM||80|362|3er|9|Lorplemsovkhoz;Lorii dziabutsakan sovkhozin kits avan;Lori Horse State Farm
+Káto Agios Márkos|GR||8p|32b|1j3|9
+Katangli|RU||7f|3zn|b1v|9|Katanga
+Katyonron|CI||0|ob|-fk|8|Kationron
+Káto Examília|GR||8p|2xb|1rq|8|Kato Eksamilia
+Katunki|RU||9i|4dv|3c2|8
+Katlanovo|MK||9u|38d|1o8|8|Katlanovë
+Kachikattsy|RU||7x|4qc|9y6|8|Katsjikattsy;Kochekattsy
+Káto Alissós|GR||8p|2xy|1ny|8
+Káto Kastrítsi|GR||8p|2yd|1ok|8
+Katusice|CZ||9m|3w5|152|8|Katusitz
+Káto Miliá|GR||8p|33t|1q2|8|Káto Miléa
+Káto Neochorópoulo|GR||8p|324|1lw|8
+Katokossou|CI||0|lg|-es|8|Katokosou
+Katran|TR||94|2vh|38z|7
+Katnaghbyur|AM|Kotayk|80|33u|3g4|7|Agadzor;Agazor;Katnakhpyur
+Kattarp|SE||9w|4by|zi|7
+Káto Kalésia|GR||8p|2q1|1xm|7|Káto Kalésa;Káto Kaléssa
+Katariina|FI|Kymenlaakso|92|4nx|22u|7|Puistola
+Kąty Rybackie|PL||a5|46y|1hf|7
+Katerynivka|UA|Mykolaiv|98|3n7|2fi|7
+Káto Mármara|GR||8p|324|1lv|7
+Káto Almyrí|GR||8p|2x5|1rw|7|Káto Almirí
+Káto Ássos|GR||8p|2xf|1rf|7
+Oroúnta|CY||73|2pi|2jx|7|Kato Mom;Orounda
+Káto Panagía|GR||8p|2xd|1mr|7|Káto Panayía
+Katyorkpo|CI||0|pn|-fy|7
+Katerynivka|UA|Donetsk|98|3qi|2ww|7
+Katachás|GR||8p|34f|1qm|7|Katahas;Katakhás
+Káto Pitsá|GR||8p|2xv|1ql|7
+Panagiá|GR|East Macedonia and Thrace|8p|35m|1vc|7|Kato Akrovounion;Kato Akrovouni
+Katiola|CI|Denguélé District|0|qu|-l6|7|Kadiola
+Katzow|DE||8r|465|120|6
+Kátov|SK||8s|3rn|1bp|6
+Katranlık|TR||94|2u1|2ta|6|Kantranlyk
+Kateřinice|CZ|Moravian-Silesian Region|9m|3tz|1ej|6|Kaltendorf
+Katnaghbyur|AM|Lori|80|360|3eu|6|Koturbulagh;Katnaxbyur;Ghoturbulagh;Katnakhpyur
+Katlijk|NL||8m|433|gp|6|Ketlik;Katliek
+Káto Arachovítika|GR||8p|2yh|1oo|6|Káto Arakhovítika
+Katákolo|GR||8p|2wm|1n8|6|Katakalon
+Káto Makrinoú|GR||8p|2yx|1o3|6|Káto Makrinon
+Káto Garoúna|GR||8p|31u|1j6|6
+Katamina|GM||7|11n|-16g|6
+Katanvogo|CI||0|q7|-g1|6
+Katzenbach|DE||8r|3tx|lp|6
+Katégé|CI||0|qk|-gb|6|Katégué
+Katsch an der Mur|AT||a2|3mz|13o|5
+Catsop|NL||8m|3xi|g1|5|Katsep
+Cathlamet|US||3p|3kc|-9iq|5|Katalamet;Cathlamah;Kathlamet
+Katsiveli|UA||9t|3fc|2md|5|Kacivelo;Kațiveli
+Katzenthal|FR||9k|3pn|k8|5
+Káto Trítos|GR||8p|30l|21f|5
+Katwoude|NL||8m|41r|e1|5
+Katkovo|RU||75|494|6da|5|Katkova

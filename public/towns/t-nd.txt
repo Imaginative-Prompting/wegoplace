@@ -1,0 +1,81 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Dakar|SN||g|14t|-1cg|kf5|Dacar;Ndakaaru;Dakaa
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+N'Djamena|TD||17|xn|15s|ahn|Nĝameno;Ndjamena;Ndżamena;Yamena;Indschamina;Ndjemena
+Ndola|ZM||z|-100|27k|4ub
+Oaxaca|MX||41|1be|-7gp|1yu|Oachaka;Huaxyacac Juárez;Oaxaka de Juárez;Guaxaca;Oahaka;Ndua
+N'dalatando|AO||x|-pu|15f|18w|Ndalatando;Ndalatanda;Dalatando
+Ndera|RW||s|-5f|2bt|bm
+Ndop|CM||j|gn|t0|b6|Ramunka;Bamunka
+N’diareme limamoulaye|SN||g|152|-1ca|9s
+Ndouci|CI||0|ga|-d8|9r
+Ndibène Dahra|SN||g|16l|-170|95
+Ndélé|CF||6|nd|1ld|7j|N’Delle;Nadélé
+Ndali|BJ||1b|re|7k|6h|N’dali
+Ndiyona|NA||1f|-1e4|1li|5q
+Ndioum|SN||g|19v|-14p|5n|N’diom
+Ndevana|ZA||o|-2jf|24f|52
+Ndungu|TZ||h|-c5|2xp|41
+Ndago|TZ||h|-cs|2nf|3m
+Ndofane|SN||g|12o|-189|3l|N’Dofan;N’Doffane
+Ndiago|MR||19|18x|-19v|2c
+Ndjolé|GA||v|-i|tw|2b|Njole
+Ndikiniméki|CM||j|d9|u3|2a|Ndikinemeki
+N’deou|CI||0|rp|-ie|29|Ndiéou
+N'Douffoukankro|CI||0|j2|-g6|28
+Ndiagne|SN||g|16t|-18n|23
+Ndendé|GA||v|-6o|vk|20
+Ndiamakouta|SN||g|110|-17f|20|Djamakouta;Diamakouta
+Ndjemin|CI||0|en|-bs|1v
+Ntui|CM||j|cd|wb|1q|N’Dui;Ntwi
+Ndom|CM||j|ci|qk|1j
+Ndelele|CM||j|b8|15h|1e|Delelé
+Ndroq|AL||9y|36m|1im|1e
+N'Da-Gnamien|CI||0|h5|-dp|1d
+Ndiandane|SN||g|1a3|-15n|1c
+Ndhiwa|KE||16|-21|2nh|1c
+Ndunyu Njeru|KE||16|-1j|2tk|18|Ndunyu Nderu
+N'Driagui|CI||0|fq|-id|16
+Ndori|KE||16|-8|2ng|12
+N'Dénoukro|CI||0|j6|-g9|11
+Valley Springs|US|California|3p|2y3|-9bn|10|Ndzisgaaító;Valley Spring
+Ntulelei|KE||16|-32|2s9|y|Ndulele;Ndulelei
+Ndénou|CI|Lagunes District|0|h5|-dz|w
+Ndorikro|CI||0|ih|-c2|u
+N'Djorekro|CI||0|jx|-a0|u
+Ndébo|CI|Yamoussoukro|0|jf|-eo|q
+N'Drikro|CI||0|jr|-9n|l
+Ndrikro|CI|Sassandra-Marahoue|0|ia|-g9|j
+Big Pine|US||3p|2v8|-94l|i|Ńdíshchíítsoh;Bigpine
+Ndjuakro|CI||0|kb|-dv|g
+Ndoukakro|CI||0|ij|-eb|g
+Ndayakro|CI||0|ip|-cn|g
+Nda Bloukro|CI||0|jl|-cb|f|Nda Broukro
+N'Dakro|CI||0|hv|-ek|f
+Nda Akissikro|CI||0|js|-dd|e|Nda-Akissikro
+Ndindi|GA||v|-4w|xe|d
+N'Da|CI||0|is|-ei|d
+N'Doumou|CI||0|l9|-d9|c
+Ndara|CI||0|qa|-hs|c
+N’Doumikro|CI||0|f7|-ci|c
+Andokro|CI||0|lk|-e0|c|Ndokro
+Ndébo|CI|Vallée du Bandama District|0|le|-fi|c
+Ndénou|CI|Yamoussoukro|0|jd|-em|b
+Ndo Kouassikro|CI||0|jj|-d5|b|Ndo-Kuassikro;N’Dokouasskro;Ndokouassikro
+Ndiorékro|CI||0|ku|-bx|a
+Ndri-Kwakoukro|CI||0|m8|-fh|a|Ndri-Kouakoukro
+Ndrikro|CI|Lacs District|0|kq|-dq|a
+N'Détiesso-Sokoura|CI||0|kr|-86|a
+Ndoniégé|CI||0|qk|-k7|a
+N'Dénou|CI||0|k2|-f5|a
+Ndiékan|CI||0|rz|-gz|9
+Ndoumassi|CI||0|lt|-7u|8|Odoumansi
+Nda Kofi Yabouékro|CI||0|jh|-fh|7|Nda-Kofi-Yobouékro
+Ndakro|CI||0|lu|-fg|7
+Ndouakro|CI||0|lo|-eo|6|Duakro
+Ndana|CI||0|mq|-e0|6
+N'Drossou|CI||0|ho|-cm|6
+Ndola|CI||0|r1|-l9|6
+Ndolé-Yébouékro|CI||0|jw|-cq|6
+Ndodougou|CI||0|la|-bp|6
+N'Djanhon|CI||0|q5|-ge|5

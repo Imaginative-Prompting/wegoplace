@@ -1,0 +1,590 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Yangzhou|CN|Jiangsu|7i|2i0|97s|z6m|Yangjo shehiri;Janĉĵou;Jang-čou;Dương Châu;Yangtsjou;Iông-chiu-chhī;Iòng-ciŭ;İnçiü;Jangdžov;Yangchow;Yang-chou
+Incheon|KR||7h|2w2|9rz|n9n|Inch'ŏn;Inchon;Nhân Xuyên;Inčhona;Inčchon;Incshon;Inĉono;Inčonas;Chemulpo;Inčon;İnçxon
+Yinchuan|CN||7i|2yv|877|m27|Thành phố Ngân Xuyên;Ngân Xuyên;Jin-čchuan;Inčuanas;Gîn-chhoan-chhī;Ngṳ̀ng-chiŏng;Yinzconh;Jinčuan
+Indore|IN||6t|1r4|5un|fe0|Induras;Induro;Indhur;Indaur
+N'Djamena|TD||17|xn|15s|ahn|Nĝameno;Ndjamena;Ndżamena;Yamena;Indschamina;Ndjemena
+Indianapolis|US||38|32h|-6nc|6uk|Indiyanapolis;Indianapolės
+Nha Trang|VN||6h|y1|8fb|4gu|Ņačana;Ngà-tsông-sṳ;Niačangas;INhatrang
+Indaiatuba|BR||4w|-1s5|-3n5|1z6
+A Coruña|ES||9d|3ch|-nc|1xk|La Corogne;Coruña;A Cruña;Corunya;Coruñako;Corunha;La Korunja;La Coronha;La Korunya;Korunjo;In Coruña;Akoruņa;La-Korunya;The Groyne
+Insein|MM||7y|1ax|7ey|1wt|Inzein
+Lille|FR||9k|3wn|8i|1ub|Lila;Lilla;Lilo;Rijsel;Rysel;Insula;Lile;Lil;lil.;Lilis;Risel;Lill
+Teluk Intan|MY||6v|b6|7sm|1so|Teluk Anson;Telok Anson
+Raurkela Industrial Township|IN||6t|1po|6jq|1o4
+Yingtan|CN||7i|26f|910|1ni|Ĭng-tàng;Jing-tchan;Yîn-thâm-sṳ;Ưng Đàm;Eng-thâm-chhī
+Inisa|NG||u|lt|c1|19m
+Dubai Investments Park|AE||6c|1xh|498|18g
+Industrialnyi|UA||98|3ur|2t1|17v
+Ingombota|AO||x|-oi|10r|149
+Inezgane|MA||d|2cc|-qi|13j|Insgane;Imezgane
+Inazawa|JP||7q|2px|ajy|11g|Inazava;Inasawa
+İnegol|TR||94|33c|29z|118
+Innsbruck|AT||a2|3na|vn|10t|Pons Aeni;Insbruka;İnsbruk;Innschbruck;Insbrukas;Insbruc;Oenipontum
+Indramayu|ID||6l|-hl|8cw|y9|Indramaju
+Ingolstadt|DE||8r|3rh|vq|xj
+International City|AE||6c|1xw|49x|xc
+Iguala de la Independencia|MX||41|1ey|-7oi|wx
+Independence|US|Missouri|2f|30l|-7aa|wl|Independensas;Independensa;İndependens
+Inkisi|CD||t|-e9|15t|w1
+Inglewood|US||3p|2mc|-94r|v1|Inglvudas;Ingelvuda;İnqlvud
+Terni|IT||9o|3a8|z4|uw|Interamna
+East Independence|US||2f|30m|-7a4|ur
+Inzai|JP||7q|2rj|atc|tb
+Inda Silasē|ET||2|136|2yc|rt|Endā Selāsē
+Inhambane|MZ||11|-1ua|2qa|qi|Injambanė
+Inagi|JP||7q|2qz|ari|pw
+Indio|US||3p|2lo|-8yu|ob
+Inowrocław|PL||a5|42o|1eq|lk|Inovroclava;Inovroclavas;Inowracław;Irownoclaw
+Inuyama|JP||7q|2qa|ake|kk
+Indaial|BR||4w|-22q|-3sr|jp|Indaval
+Inaruwa|NP||6r|21x|6q3|jh
+Indang|PH||71|13g|9bs|jh
+Inongo|CD||t|-5d|1et|j5
+Ina|JP||7q|2rj|an7|iy
+Inhulets|UA||98|3ol|2kd|ha|Ingulets
+Coney Island|US||48|34q|-5pj|go|Coney Adası;Insulo Coney;Conyn Island
+Invercargill|NZ||ak|-3kw|czn|g4|Waihopai;Inverkargilas;Ostium Cargillense;Inbhir Chargaill
+Teramo|IT||9o|3ai|122|f3|Interamnium
+Inada|JP||7q|2t7|auc|ev|Inata
+Inhumas|BR||4w|-19g|-3ti|ei
+Inabanga|PH||71|rv|9kn|dh
+Inverness|GB||9b|4fo|-bq|da|Inbhir Nis;Innerness;Inbhear Nis;Invernesas;Inverneso
+Injibara|ET||2|uk|2uk|d7|Enjabārā;Ingiabara;Inja Bara
+Inashiki|JP||7q|2rw|ats|d2|Inasiki-chhī
+Ayr|GB||9b|4a2|-cv|cv|Eras;Inbhir Áir;Eyr
+Chernyakhovsk|RU||96|47r|1om|ck|Insterburg;Tschernjachowsk;Czerniachowsk;Ĉernjaĥovsk;Černjachovsk;Įsrutis;Černjakhovsk;Černiachovskas;Tšernjahovsk;Chernyakovsky
+Inabe|JP||7q|2pj|ajd|ci
+Innisfil|CA||59|3f2|-659|c1
+Indralaya|ID||6l|-91|82s|bt|Indralaja;Inderalaja;Inderalaya
+Inhambupe|BR||20|-wq|-2yj|b7|Inhambupo
+Ingeniero Pablo Nogués|AR||1l|-2ns|-4j3|ap
+Indi|IN||6t|1bq|5uz|am
+Indian Trail|US||48|2pg|-683|ab
+Mount Pleasant|US|District of Columbia|48|305|-5y0|9y|Ingleside;Walbridge;Rosemont Park
+Inver Grove Heights|US||2f|3gl|-76g|9p|Inver Grove;Invergrove
+In Salah|DZ||3|23k|6w|91|In Ṣaleḥ;Ain Sala;Ajn Salih
+Inta|RU||9i|53f|4n5|8x|Int
+Insēno|ET||2|mf|2yv|8h|Enseno
+İncirli|TR|Ankara|94|332|2j8|8g
+Inami|JP|Hyōgo|7q|2oj|aer|8f
+Infernetto|IT||9o|37x|yc|8a
+Ingenio|ES||83|25k|-16v|85
+Inca|ES||9d|32c|83|85
+Inkhil|SY||69|2jq|2sd|83|Inkhel
+Inozemtsevo|RU||9i|3eh|3bp|80
+Ennis|IE||8z|42s|-oz|7r|Inis;Innys;Enisas
+Inajá|BR|Pernambuco|4p|-oq|-2x2|7n
+Independence|US|Kentucky|48|306|-6iu|7g
+Indāpur|IN|Maharashtra|6t|1eu|5nh|7g
+Indre By|DK||8y|4ao|yx|7a|Inner City of Copenhagen
+Innoshima|JP||7q|2n8|a9y|79
+Inner Huai Khwang|TH||62|12a|7re|77
+Sydney Central Business District|AU||8l|-2m2|bo1|75|Sydney CBD;Inner West
+Indāpur|IN|Maharashtra|6t|1ec|5sf|73
+Ingelheim am Rhein|DE||8r|3ut|me|6y|Angulisamum;Ingelheim
+Inkster|US||2q|39h|-6ff|6v
+Inđija|RS||8q|3h5|1js|6t|Indžija;Inĝija;Ingyia;Indjija;India
+Independência|BR|Ceará|2w|-f0|-33z|6o
+Injambakkam|IN||6t|zw|66x|6h
+Indargarh|IN|Madhya Pradesh|6t|1zz|628|6e
+Inglewood-Finn Hill|US||3p|3ok|-9fj|6b|Finn Hill
+Inhapim|BR||4w|-1ib|-390|6b
+Ino|JP||7q|2l7|aan|66
+I-n-Tillit|ML||5|177|-1a|65
+Intich’o|ET||2|13o|30r|62|Entisciò;Intīch’ew;Enticcio;Enticho
+Indabaguna|ET||2|12r|2y2|5y|Enda Baguina;Inda Aba Guna;Enda Abaguna
+Inopacan|PH||71|t6|9mi|5y|Inopagan
+‘Inak|SA||7e|21o|3uz|5k|Anak
+Ingabu|MM||7y|1dh|7cn|5j|Ingapu
+Inza|RU||9z|45l|3kr|5h|Insa
+Enkhuizen|NL||8m|42e|ep|57|Inkhuzen;Enkhuze
+İncirliova|TR||94|2x5|250|56
+Inhapi|BR||3r|-pm|-2wv|54
+Inam Maniyachi|IN||6t|ph|609|53
+Indiaroba|BR||3r|-w0|-2w7|51
+Ingá|BR||2w|-k8|-2qw|4x
+Indri|IN||6t|2b0|5y2|4v
+Indergarh|IN||6t|22u|65b|4u
+Indiara|BR||4w|-1bm|-3uv|4r
+Hayling Island|GB||9b|3x2|-2p|4p|Insula Hayling
+Požega|HR||a6|3hy|1d5|4p|Pozsega;Incerum;Posega
+Innere Stadt|AT|Vienna|a2|3px|19h|4l
+Inokashira|JP||7q|2r5|arq|4f
+Indianola|US|Iowa|2f|36w|-77w|4b|Indianolo
+Inhuma|BR||2w|-ij|-37v|49
+Inokura|JP||7q|2lw|a30|47
+Ingleburn|AU||8l|-2mg|bn3|46
+Inala|AU||8c|-24o|bsx|44
+Inverurie|GB||9b|4f4|-6m|43|Inbhir Úraidh;Inbhir Uaraidh;Inveruris
+Ingleby Greenhow|GB||9b|479|-33|42
+Enniskillen|GB||9b|46z|-l8|41|Inis Ceithleann;Inis Ceithlann
+Éghezée|BE||8t|3wj|dn|40|Inguezêye
+Indiana|US||48|34u|-63v|3x
+Inawashiro|JP||7q|2wd|at8|3u
+Intibucá|HN||56|13r|-6sy|3t
+Inba|JP||7q|2re|atg|3t
+Ingersoll|CA||59|3bj|-68o|3t
+Náfpaktos|GR||8p|2yn|1on|3q|Inebahtı;Naupactus;Lepanto;Naupacte;Naupaetus;Návpaktos
+Arklow|IE||8z|42n|-h3|3q|An tInbhear Mór;Inver Mooar
+Inskoy|RU||74|477|6o4|3p|Inskoj;Inskoi
+Inderbor|KZ||5y|3qv|3zu|3p|Indero
+Inhassoro|MZ||11|-1nt|2ps|3n
+Inbawhkon|MM||7y|1kt|7h6|3h
+Inverell|AU||8l|-2ap|bnr|3d
+Indooroopilly|AU||8c|-24e|bsy|3c
+Inhangapi|BR||23|-3z|-3p4|3b|Inhangapy
+Inyonga|TZ||h|-io|2h3|3a|Nyonga
+Zürich (Kreis 5)|CH||a7|3nn|no|39|Industriequartier
+Inhaminga|MZ||11|-1f6|2pa|38
+Inatori|JP||7q|2om|aq8|37
+Enghien|BE||8t|3wt|b8|36|Inguî
+Ince-in-Makerfield|GB||9b|44p|-7a|34
+Indaw|MM||7y|1va|7f2|2z
+Inn Taing|MM||7y|1bk|7fk|2z|Intaing
+I-n-Gall|NE||18|1an|j9|2y|In-Gal;Ingal
+Ingelmunster|BE||8t|3xg|92|2y
+Ingeniero Guillermo N. Juárez|AR||1n|-1ue|-4ru|2w|Ingeniero Guillermo Juárez
+Inzhavino|RU||9i|41c|3a1|2v|Inzjavino;Inschawino;Inžavino;İnjavino;Inshawino
+Induno Olona|IT||9o|3jd|ok|2v
+Inkerman|UA||9t|3fx|2ld|2u|Inceromania
+Nairn|GB||9b|4fy|-as|2u|Inbhir Narann
+Inwood|US|New York|48|35j|-5pd|2t
+Ineu|RO|Arad County|8u|3kz|1oo|2t|Yanova;Borosjenő;Janopol
+Inanda|ZA||o|-2a9|2dx|2s
+Inzari|PK||6q|2ob|5ib|2s
+Inayauan|PH||71|ri|9g3|2s|Inayawan
+Indianola|US|Mississippi|2f|2kx|-6zu|2r
+İnebolu|TR||94|38m|2ls|2r|Ineboli
+Initao|PH||71|nm|9la|2r|Inatao
+Inwood|US|New York|48|34u|-5ov|2q
+Enniscorthy|IE||8z|41u|-i8|2p|Inis Córthaidh;Eniskortis
+Ingleside|US||2f|25g|-7i1|2p
+Inácio Martins|BR||4w|-1z1|-3xw|2p
+Indwe|ZA||o|-2ff|23x|2n
+Inharrime|MZ||11|-1w0|2pb|2m
+Independence|US|Oregon|3p|3gl|-9i7|2k
+Ingoré|GW||8|yh|-17w|2k|Ingori
+Întorsura Buzăului|RO||8u|3iw|20b|2i|Intorsura Buzăuli;Intorsatura-Buzaului
+Leven|GB|Scotland|9b|4c4|-8c|2i|Inbhir Líobhann
+Independence|US|Kansas|2f|2ve|-7dv|2i
+Insar|RU||9i|45n|3f9|2g|Inszar
+Incline Village|US||3p|311|-999|2g
+Annan|GB||9b|48r|-92|2g|Inbhir Anainn
+Inékar|ML||5|18c|8q|2f
+Ingle Farm|AU||8b|-2or|ap3|2f
+In Buri|TH||62|15p|7qp|2e
+Inverigo|IT||9o|3j2|pm|2d
+Indian Harbour Beach|US||48|267|-67v|2d|İndian Harbor Biç
+Inocência|BR||2a|-1it|-409|2c
+Inyati|ZW||n|-1io|285|2c
+Intendente Alvear|AR||1s|-2pv|-4wn|2b
+Ingeniero Jacobacci|AR||1s|-36t|-5d7|29|Inchenjero Chakobačis;Hakobasi
+Ingré|FR||9k|3p4|53|28
+Innaloo|AU||8k|-2gl|8xo|28
+Inzago|IT||9o|3ii|qc|28|Andiciacum
+Ingenbohl|CH||a7|3mk|ny|28
+Inami|JP|Wakayama|7q|2lx|afm|27
+Inonu|TR|İzmir Province|94|2z1|236|27
+Inakadate|JP||7q|34v|auf|26
+Inden|DE||8r|3x8|ho|25
+Innisfail|CA||2s|40j|-8sj|25
+Inner Harbour|CA||59|3ew|-5wg|24
+Inverness|US|Illinois|2f|390|-6sq|24
+Indargarh|IN|Rajasthan|6t|1zh|5vn|22|Indragarh
+Independent Hill|US||48|2zc|-5z4|22
+Thurso|GB||9b|4ir|-9t|22|Inbhir Theórsa;Thursa
+Inimutaba|BR||4w|-1g1|-3f8|22
+Inveruno|IT||9o|3if|ol|21
+Interlaken|US|California|3p|2un|-9e5|21
+Însurăţei|RO||8u|3gs|24o|21
+Coronel Marcelino Maridueña|EC||33|-65|-64o|21|Ingenio San Carlos
+Inconfidentes|BR||4w|-1q0|-3kp|21
+Inírida|CO||27|ar|-58o|21
+Independencia|MX|Morelos|41|1gg|-7nc|21
+Inverness|US|Florida|48|284|-6cp|20
+Inlet Centre|CA||5b|3sw|-9h9|20
+Wick|GB|Scotland|9b|4ic|-8l|1z|Yn Ooig;Inbhir Ùige;Week;Weik;Vikas
+Independence|US|Ohio|48|36x|-6as|1z
+Inari|FI||92|5bf|233|1y|Anár;Enare
+In Guezzam|DZ||3|1id|g1|1y|In Guezam;In Guezzane;I-n-Guezzâm
+Inda Chhoi|IN||6t|2ac|5uj|1y
+Lossiemouth|GB||9b|4gc|-94|1w|Inbhir Losaidh
+Indaparapeo|MX||41|1iz|-7sh|1w|Indiaparapeo
+Insaca|MZ||11|-168|2rn|1v
+Girvan|GB||9b|49g|-di|1v|Inbhir Gharbhain
+Inayagan|PH||71|sf|9jt|1u
+Inverness Highlands South|US||48|280|-6cq|1t
+Indre Arna|NO||9j|4nu|f7|1t
+Ingeniero Luis A. Huergo|AR||1s|-30j|-56s|1t
+Independência|BR|Rio Grande do Sul|4w|-25b|-46j|1s
+Inwood|US|Florida|48|25w|-6b5|1s
+Indaiabira|BR||4w|-171|-398|1r
+Inglewood|CA|Alberta|2s|44s|-8re|1r
+Inhaúma|BR||4w|-1i5|-3fb|1q
+Indian River Estates|US||48|240|-673|1q
+Ichu|BR||20|-wn|-30v|1q|Inchu
+Inniswold|US||2f|2cg|-710|1q
+Indianópolis|BR|Minas Gerais|4w|-1gw|-3p4|1q
+International Falls|US||2f|3r0|-77h|1q|Intl Falls
+Indiantown|US||48|233|-67l|1p|Indian Town
+Independence|US|Iowa|2f|39z|-739|1o
+Inaciolândia|BR||4w|-1fd|-3uv|1o
+Ingelfingen|DE||8r|3sy|qt|1n
+Infantes|ES||9d|2zm|-8d|1m
+Engis|BE||8t|3wi|f0|1l|Indji
+Ingenio|PR||4m|1f8|-53z|1l
+Indian Hills|US|Nevada|3p|30l|-98q|1k
+Ingatestone|GB||9b|3zj|12|1k
+İncek|TR||94|32l|2iu|1k
+İnönü|TR|Karaman|94|2vo|2lt|1k
+Inglewood|AU|Western Australia|8k|-2go|8xw|1j
+Inahiri|CI||0|ea|-h9|1j|Inaïri
+Ingå|FI||92|4mt|1uo|1i|Inkoo
+Intendente|PT||99|2zk|-pe|1i
+Dingwall|GB||9b|4g0|-cb|1i|Inbhir Pheofharain;Dingvolas
+Inawayan|PH||71|jc|9oj|1h|Inuayan;Inauayan
+Infanta|PH|Calabarzon|71|14y|9dx|1h
+Indian Wells|US||3p|2lo|-8z6|1h|Indian Velsas;Tó Háálíní
+Inverloch|AU||8j|-2zb|b8s|1h
+Inverkeithing|GB||9b|4bn|-9g|1g|Inbhir Chèitinn
+Indiana|BR||4w|-1pl|-3yd|1f
+Greenisland|GB||9b|47y|-gb|1f|Inis Glas
+Interlaken|CH||a7|3lo|lv|1f|Entrelagos;Interlacus
+Ingazeira|BR||4p|-nz|-2zd|1e|Ingàzeiro
+Bratske|UA|Mykolaiv|98|3ks|2hd|1e|Industrial’ne
+Independence and Mango Creek|BZ||24|19x|-6tm|1d|Independence
+Independenţa|RO|Galați County|8u|3ic|253|1b
+Ingeniero Luiggi|AR||1s|-2qb|-4z3|1b
+Indipur|IN||6t|1le|6lk|1b
+Incisa in Val d'Arno|IT||9o|3d9|vt|1a|Incisa Val d'Arno
+Ingham|AU||8c|-1ft|ba0|1a
+Indpur|IN||6t|2hb|5ud|19
+Indianópolis|BR|Paraná|4w|-1t8|-42e|18
+In Zghmir|DZ||3|23a|-b|18
+Incourt|BE||8t|3wt|dc|18
+Inzer|RU||7z|46m|4fw|18
+Indian Mountain Lake|US||48|35w|-5tr|18
+Ingersheim|FR||9k|3pm|ka|18
+Iniesta|ES||9d|31j|-4v|18
+Inzell|DE||8r|3oo|zf|17|Ynzell
+Inárcs|HU||8v|3na|1hp|17
+Indian River Shores|US||48|250|-67a|16
+Inglewood|CA|Alberta|2s|3xs|-8sq|15
+Indian Rocks Beach|US||48|25g|-6e5|15
+Inning am Ammersee|DE||8r|3pk|uz|15
+Ingwiller|FR||9k|3rr|ks|15|Ingweiler;Ingeweiler
+Ingiri|GE||7n|3a2|385|14|Inguri
+Indiaporã|BR||4w|-1ji|-3vp|14
+Inderka|RU||9i|43x|3ki|14
+Inönü|TR|Kars Province|94|341|3ab|14
+Ineu|RO|Bihor County|8u|3ms|1pg|14
+I-n-Ouagar|NE||18|15h|gm|14|In Wagar
+Independencia|PE||3o|-xb|-5y1|14
+Ingoldmells|GB||9b|43r|x|14
+Inglewood|NZ||ak|-30s|dfu|14
+Invergordon|GB||9b|4g9|-bl|13|Inbhir Ghórdain
+Indre|FR||9k|3n4|-4n|13|Antr
+Independenţa|RO|Călărași County|8u|3f0|23f|13
+Indian Head|US||48|2z8|-5yc|13|Indianhead
+Indian Head Park|US||2f|381|-6s6|12
+Innere Stadt|AT|Styria|a2|3mr|16w|12
+Hinda|CG||a|-ct|xg|12|Inda
+Inriville|AR||1n|-2ji|-4sv|12
+Institution Hill|SG||7j|3m|80f|12
+Independence|US|Minnesota|2f|3h3|-78b|11
+Indian River|CA||5b|3t0|-9hk|11
+Ineangan|PH||71|19c|9cd|11
+Inúbia Paulista|BR||4w|-1oh|-3xk|10
+Inanam|MY||6w|gn|8yl|10
+Eyemouth|GB||9b|4b7|-5t|10|Inbhir Eighe
+Inzing|AT||a2|3nb|v4|10
+Intipucá|SV||2u|10o|-6sl|z
+Invorio|IT||9o|3j4|nl|z
+Indianola|US|Washington|3p|3on|-9gd|z
+Insrom|ID||6m|-36|ahv|z|Insirom
+Invermere|CA||2s|3wc|-8yc|y
+Indulang|PH||71|mh|9m2|y
+Incekum|TR||94|2ts|2g6|x
+India Hook|US||48|2p9|-692|x|Indian Hook
+Ingalls Park|US||2f|37c|-6sk|x
+Ingram|US|Pennsylvania|48|34d|-66f|x
+Inwałd|PL||a5|3ui|1hv|x
+Inuvik|CA||3g|59w|-abh|w
+Enfield|IE||8z|44d|-iz|w|An Bóthar Buí;Innfield
+Inangatan|PH||71|v9|9lk|w
+In Ga Lone|MM||7y|19s|7eu|w|Ingalon
+Infanta|PH|Ilocos|71|17z|993|w
+Independenţa|RO|Constanța County|8u|3e5|260|v
+Indiantown|CA||43|3hs|-53k|v
+Inverkip|GB||9b|4bb|-dj|v|Inbhir Chip
+Inarajan Village|GU||aw|10v|b63|v|Inalåhan;Inarajan;Inalajan
+Invermay|AU|Tasmania|8g|-372|bcp|u
+Innerleithen|GB||9b|4ai|-8i|u|Inbhir Lìteann
+Indian Heights|US||38|34b|-6n9|u
+Équihen-Plage|FR||9k|3ws|4d|u|Inquihin-Plage
+Inzá|CO||27|73|-5vb|u
+Inzigkofen|DE||8r|3pj|pi|u
+Indian Hills|US|Kentucky|3k|2yb|-6ly|u|İndian-Hillz
+Inwood|US|West Virginia|48|31c|-60s|u
+Indialantic|US||48|261|-67t|s
+Inabaan Sur|PH||71|196|9ao|s|Inabaan
+Ins|CH||a7|3ml|jr|s|Anet
+İnhisar|TR||94|339|2cf|r
+Inapatan|PH||71|118|9ik|r
+Ingonish|CA||35|3lq|-4np|r
+Insiza|ZW||n|-1iy|294|q
+Ingoldingen|DE||8r|3pf|r2|q
+Inzlingen|DE||8r|3o7|ld|q
+Indian Hills|US|Texas|2f|20t|-7k0|q
+Ingaí|BR||4w|-1ng|-3gs|q
+Inner Harbor|US||48|314|-5wt|q
+Inicbulan|PH||71|12e|9c2|q
+Inobulan|PH||71|op|9mn|q|Inubolan
+Inajá|BR|Paraná|4w|-1r7|-410|p
+Indian Springs Village|US||2f|2ko|-6oz|p
+Antrodoco|IT||9o|39t|10c|p|Antrodocu;Interocrium
+Intiö|FI||92|50m|1yu|p
+Innbygda|NO||9j|4qb|y2|o
+Indian Springs|US|Georgia|48|2kc|-6h4|o|Indian Spring
+Inverness Highlands North|US||48|286|-6cu|o
+Inchenhofen|DE||8r|3qr|uv|o|Leahad
+Ingalls|US||38|330|-6md|o
+Ingooigem|BE||8t|3x6|9j|o
+Infiernillo (Morelos de Infiernillo)|MX||41|1es|-7v2|o
+Ina|US||2f|2xz|-6uy|o
+Insch|GB||9b|4fa|-79|n
+Inverbervie|GB||9b|4dw|-6c|n
+Inya|RU|Altai Krai|63|44m|6dn|n
+San Candido|IT||9o|3lt|y4|n|Innichen;India
+Inman|US|South Carolina|48|2pd|-6c1|n
+Indian Springs|US|Georgia|48|2p4|-6kk|m
+Innes Park|AU||8c|-1x3|brk|m
+Intampilan|PH||71|vw|9gy|m
+Insheim|DE||8r|3sk|mn|m
+Indiavaí|BR||2k|-171|-4ip|m
+Inwil|CH||a7|3mx|n7|m
+Szigetújfalu|HU||8v|3n7|1gl|m|Inselneudorf;Ujfluch
+Insjön|SE|Västerbotten|9w|4yw|1ck|m|Insjö
+Inotești|RO||8u|3gw|218|l
+Insjön|SE|Dalarna|9w|4ok|15x|l
+Damian Carmona|MX|San Luis Potosí|41|1pe|-7nt|l|Ingenio de Rascon
+Inez|US|Texas|2f|28a|-7gv|l
+Ingaung|MM||7y|1li|7gt|l
+Inguiniel|FR||9k|3pa|-94|k|An Ignel
+Incisa Scapaccino|IT||9o|3gh|na|k
+Inčukalns|LV||9n|4em|1wl|k|Inchukalns;Inchukaln
+Inhulka|UA||98|3n4|2hj|k|Inhoulka
+Inhacorá|BR||4w|-25g|-462|k
+Ińsko|PL||a5|44g|177|k|Nierbarg
+Institut|AZ||61|354|3kx|k
+Inya|RU|Altai|63|3w6|6on|k
+Taquile|PE||3o|-17t|-5dk|k|Isla de Taquili;Intika;Taquila
+Indian River|US||2q|3i5|-6j1|k
+Introbio|IT||9o|3jp|q9|k
+Independencia|MX|Chiapas|41|18p|-75w|k
+Notranje Gorice|SI||9a|3jr|140|k|Innergoritz
+Întorsura|RO||8u|3ej|1ti|j
+Ineu|RO|Harghita County|8u|3lb|1zk|j
+Inchinnan|GB||9b|4b9|-cc|j
+İnlice|TR||94|2xj|2yr|j
+Industry|US|Pennsylvania|48|33u|-65n|i
+Ingrave|GB||9b|3zc|y|i
+Inola|US||2f|2sf|-7db|i
+Ingram|US|Texas|2f|2bk|-7no|i
+Inukjuak|CA||59|4id|-60y|i
+Inkerman|US||48|36q|-5ul|i
+Independence|US|Louisiana|2f|2d4|-6ze|i
+Inagbéhio|CI||0|g3|-gz|i|Iragbohio;Inakbéhio
+Industry|US|Pennsylvania|48|34w|-67e|i
+Infiesto|ES||9d|3cf|-ew|i|Infiesta
+Ingleton|GB|England|9b|46f|-6v|i
+Invergowrie|GB||9b|4cu|-8i|i
+Ingelstad|SE||9w|4dn|15g|i
+Indios|PR||4m|1dz|-55m|h
+Innernzell|DE||8r|3rp|10w|h
+Invermay Park|AU||8j|-2w9|b3m|h
+Ingared|SE||9w|4gq|yl|h
+Ingleton|GB|England|9b|47m|-4u|h
+İncesu|TR|Aksaray|94|2y0|2lw|h
+Indian Head|CA||4q|3wd|-7zz|g
+Inagauan|PH||71|qj|95l|g|Inagahuan;Inagawan
+İncehıdır|TR||94|2xm|324|g
+Inverness|US|Alabama|2f|2gx|-6m7|g
+Independencia|PY||1y|-1zd|-4cb|g
+Ingwavuma|ZA||o|-23d|2gw|g|Ngwavuma;Ingwavama
+Inkberrow|GB||9b|411|-5i|g
+Instituto de Biociências|BR||4w|-1tg|-3lt|g
+Inverness|US|Colorado|2p|31y|-83a|f
+Antrain|FR||9k|3qm|-44|f|Entraven;Intramnum
+İnönu|TR|Ağrı|94|30z|3b2|f
+İnli|TR||94|2z0|2dj|f
+Ingrandes|FR||9k|3np|-2k|f
+Indura|BY||9g|44i|1uc|f
+Ingyi|MM||7y|1u4|7g5|f
+Intercity|CA||59|3qh|-6vx|f
+Incheville|FR||9k|3ux|45|f
+Indian Shores|US||48|25e|-6e5|f
+Cullen|GB||9b|4g9|-7u|f|Inbhir Cuilinn
+Inning am Holz|DE||8r|3qb|xk|e
+Inverleigh|AU||8j|-2xu|b45|e|Interleigh
+Inman|US|Kansas|2f|2y7|-7jl|e
+Interlachen|US||48|2aa|-6bh|e|Inter Lachen;Interlaken
+Ust’-Izhora|RU||9i|4m5|2cy|e|Ust-Izjora;Inkereensuu;Inkerehenšuu
+Indurkani|BD||6a|1qh|6xx|e
+Independence|US|Wisconsin|2f|3f8|-71y|d
+Innisfail Estate|AU||8c|-1co|b9o|d
+Inglis|US||48|28n|-6dn|d
+Inverness|US|California|3p|2xu|-9ha|d
+Ingeniero Giagnoni|AR||1q|-2k0|-5a1|d
+Indian Hills|US|Colorado|2p|322|-84c|d
+Intercourse|US||48|338|-5ve|d
+Niederhaslach|FR||9k|3qu|ke|c|Íngerhosle
+Innisfail|AU||8c|-1co|b9n|c
+Inverness|CA|Nova Scotia|35|3kf|-4qa|c
+Inchture|GB||9b|4ct|-8t|c
+Inbié|CI||0|pl|-7y|c
+In Gyin Thay Taw|MM||7y|1mg|7d5|c|Ingyin-thadaw
+Kemajuan Tanah Inas Utara dan Selatan|MY||6v|4x|7zt|c|FELDA Inas Utara dan Selatan;FELDA Inas;Inas
+Inishcrone|IE||8z|46m|-p9|c|Inis Crabhann;Inniscrone
+Insingen|DE||8r|3sy|s9|b
+Antran|FR||9k|3m5|1i|b|Intra Amnem
+İncesu|TR|Samsun|94|36c|2q5|b
+Inzersdorf im Kremstal|AT||a2|3p5|134|b
+İncesu|TR|Gaziantep|94|2ve|2vl|b
+Indented Head|AU||8j|-2xy|b5z|b
+Inyokern|US||3p|2r1|-939|b
+Independencia|MX|Chihuahua|2g|28t|-8aq|b|Cologachic;Cologachio
+İnanöz|TR||94|2wr|331|b
+Indian Creek|BZ||24|1db|-6ug|b
+Ingen|NL||8m|40c|f8|b
+Innenheim|FR||9k|3qq|l1|b
+Inverno e Monteleone|IT||9o|3hk|q3|b
+Ingersleben|DE||8r|3xg|ue|b
+Inman Mills|US||48|2pc|-6c2|b
+Industriegebiet|DE||8r|3og|pf|a
+Ennistimon|IE||8z|432|-pt|a|Inis Díomáin;Ennistymon;Enistimonas
+Inarzo|IT||9o|3j7|oa|a
+Kingston|US|Ohio|48|31n|-6eb|a|Ingstown;Kingstown
+Indian Hills Cherokee Section|US||3k|2yc|-6lx|a
+Island City|US||3p|3hy|-93w|a|Insulurbo
+Innerbraz|AT||a2|3mz|rk|a
+Indian Springs|US|Nevada|3p|2tl|-8xb|a|Tó Háálį́;Indian Spring
+Innerschwand|AT||a2|3ov|118|a
+Innellan|GB||9b|4b9|-ds|a|Inellan
+Indio Hills|US||3p|2lz|-8yv|a
+Ingenio|PE||3o|-x1|-5t3|a
+Iñapari|PE||3o|-uf|-5da|a
+La Independencia|MX|Chiapas|41|16n|-756|a|Independencía
+Inverness|US|Mississippi|2f|2kn|-6zn|a
+Indal|SE||9w|4tu|1bi|9
+Inglewood|AU|Queensland|8c|-26y|bno|9
+Enquin-les-Mines|FR||9k|3wj|6c|9|Inquin-les-Mines
+Introdacqua|IT||9o|38p|12m|9
+Innervillgraten|AT||a2|3m1|yd|9
+Ingleside|AU||8l|-2lk|bo6|9
+Independence|US|Virginia|48|2tq|-69f|9
+İnkaya|TR||94|33n|39p|9
+Inverness|CA|Quebec|59|3ki|-5io|9
+Ingărești|RO||8u|3n2|21q|9
+Indra Haga|NO||9j|4nr|g1|9
+Inand|RO||8u|3m9|1of|9
+Entrevaux|FR||9k|3e3|ix|9|Entrevaus;Intervalles
+Indian Hills|US|New Mexico|2p|2p6|-86u|9
+Independencia y Libertad|MX||44|1us|-81u|9
+Inkom|US||28|3aw|-8nt|9
+Intragna|CH||a7|3ka|o6|9
+İnceğiz|TR||94|36f|26w|9
+Intregalde|RO||8u|3kh|1t2|9
+Inglewood|AU|Victoria|8j|-2tm|b3n|9
+Ingoldisthorpe|GB||9b|42u|1e|8|Ingoldesthorpe
+Insurgentes|MX|Veracruz|41|1k0|-7h9|8|Tepetates
+Indian Creek Village|BZ||24|19c|-6ur|8
+Infonavit el Pando I|MX||41|1hw|-7fq|8
+Indianola|US|California|3p|35d|-9ko|8
+Indianola|US|California|3p|351|-9l3|8
+Ingeldorf|LU||9c|3uh|h1|8|Angelduerf;Ingeldord
+Ingenried|DE||8r|3ou|ty|8
+Inwood|US|Iowa|2f|3cb|-7fv|8
+Interlaken|US|New Jersey|48|33r|-5pm|8
+Inchy|FR||9k|3v8|9m|8
+Ingongyi|MM||7y|1s0|7ab|8
+Inowłódz|PL||a5|3z5|1k6|8
+Oinoússes|GR||8p|2yz|20u|8|Inousses;Inusses;Oinoússai
+Intignano|IT||9o|37x|116|8
+Indian Springs|US|Texas|2f|2da|-7b7|8
+Invermay|AU|Victoria|8j|-2w8|b3o|8
+Inhuletske|UA||98|3qm|2k6|8|Inhouletske
+English Harbour Town|AG||1j|1ba|-4rl|8|English Harbour;Inglish Aaba
+Incuyo|PE||3o|-16d|-5od|8
+Independencia|MX|Sonora|37|2hl|-8v8|8
+Innishannon|IE||8z|3zt|-o2|8|Inishannon;Inis Eonáin
+Inău|RO||8u|3nk|1sm|8
+Insel|DE||8r|420|wn|8
+Invergowrie|AU||8l|-2cr|bov|8
+Inguer|PE||3o|-hd|-63n|7
+Inverso Pinasca|IT||9o|3gv|k2|7
+Innermanzing|AT||a2|3pp|187|7
+İncesu|TR|Kayseri|94|2yr|2qu|7
+Anchíalos|GR||8p|354|1ra|7|Inglís;Ankhíalos
+Ingeniero Emilio López Zamora|MX||41|1dj|-70y|7|López Zamora;Emilio Lopez Zamora
+La Independencia|MX|Oaxaca|41|1ad|-7j6|7|Independencia
+Inkerman|CA||43|3of|-502|7
+Instow|GB||9b|3xt|-bm|7
+Inscuinatoyac (El Pueblito)|MX||41|1c9|-7p1|7
+Inez|US|Kentucky|48|2x7|-6da|7
+Insurgente Socialista|MX||41|1k3|-7i6|7|Insurgentes Socialistas
+İncealan|TR||94|2xg|26d|7
+Insculas|PE||3o|-g0|-65u|7|Inscunlas
+Independence|US|California|3p|2u8|-94c|7|İndependens
+Insurgente Picoté|MX||41|1be|-74m|7
+Indé|MX||44|1zz|-84a|7
+Hannivka|UA|Odesa|98|3kx|29i|7|Hanniwka;Inculițeni
+Inndyr|NO||9j|567|12z|6|Indyr
+Ingeniero Ricardo Payro Jene (Polo Norte)|MX||3z|1ew|-6wh|6
+Inverno|IT||9o|3hk|q2|6
+Incahuasi|PE||3o|-hc|-64c|6|Incahuas
+Insurgentes|MX|Guanajuato|41|1m6|-7ru|6
+Indian Lake|US||2f|20h|-7iu|6
+Insming|FR||9k|3s0|j4|6
+Interlaken|US|New York|48|3ae|-5x4|6
+Infonavit Orquideas|MX||41|1hd|-7f9|6
+Ínachos|GR||8p|2wm|1r7|6
+Indiprete|IT||9o|37f|13u|6
+Ingleside On-the-Bay|US||2f|25b|-7i2|6|Ingleside on the Bay
+Iyi-Tal|RU||6u|3z9|77a|6|Iji-Tal;Ini-Tal
+Indein|MM||7y|1ku|7h0|6
+Ingyinbin|MM||7y|1tu|7g1|6
+Indre Ålvik|NO||9j|4nv|hv|6
+Independencia San Martín (San Martín)|MX||41|1uu|-7yc|6
+Ingelbach|DE||8r|3ws|lf|6
+Invergordon|AU||8j|-2sh|b8e|6
+Injinoo|AU||8c|-uq|az6|6
+Interlochen|US||2q|3g0|-6m9|6
+Innsbrook|US||2f|2zp|-70x|6
+Innertreffling|AT||a2|3qb|13y|6
+İncirlikuyu|TR||94|2un|2ov|6|Ebülhadi
+Innertavle|SE||9w|4x9|1kp|6
+La Independencia|MX|Chiapas|41|1ah|-74i|6|Independencia
+Inchy-en-Artois|FR||9k|3ve|8h|6
+Inveraray|GB||9b|4c7|-e3|6|Inbhir Aora
+Indianola|US|Nebraska|2f|33r|-7qy|6
+Introd|IT||9o|3ix|jy|6
+İncesu|TR|Mardin|94|2vh|33g|5
+Indian Creek|US||2f|39b|-6se|5
+Inverness|AU||8c|-1s8|bmo|5
+İncirli|TR|Gaziantep|94|2vi|2un|5
+Independencia|MX|Veracruz|41|1hv|-7hb|5
+Ingeniero Agrónomo Alfredo Mones Quintela|UY||45|-2cd|-4g6|5|Calpica Itacumbú
+İnköy|TR||94|2vg|2og|5
+Engwierum|NL||8m|444|h2|5|Ingwierrum
+Independencia|MX|Chiapas|41|15u|-74c|5
+India|GM||7|11p|-17r|5
+İncesu|TR|Kars Province|94|356|3bt|5
+Instinción|ES||9d|2ur|-7e|5
+Ince Blundell|GB||9b|44o|-8f|5
+Indian Point|US||2f|2tr|-77a|5
+Ingrandes-de-Touraine|FR||9k|3nc|r|5
+Innere Stadt|AT|Carinthia|a2|3li|13r|5
+İnönü Mahallesi|TR||94|35a|3bt|5
+Inzersdorf ob der Traisen|AT||a2|3q8|17i|5

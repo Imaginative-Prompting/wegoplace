@@ -1,0 +1,67 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zliten|LY||1d|2i7|14h|1km|Zlitan;Zalitan;Ziliten
+Zlatoust|RU||7z|499|4lp|1h6|Slatoust;Zlatooust;Zlato-oest;Zlatoutsk
+Zhlobin|BY||9g|42x|2be|l7|Žlobin
+Zlín|CZ||9m|3sr|1d3|ka|Gottwaldov;Gottvoldov;Gottwald
+Ban Khoan|LA||7v|1kj|7q1|i5|Ban Kwan;Złoty Trójkąt
+Senftenberg|DE||8r|3z5|12w|82|Zły Komorow;Zenftenbergas
+Zlatopil|UA|Kharkiv|98|3t6|2sm|7x|Pervomaiskyi;Perwomajskyj;Lichatschewo;Likacheve;Slatopil
+Zolochiv|UA|Lviv|98|3ud|1x6|6a|Złoczów;Solotschiw;Zolotchiv;Zoloçiv;Zolotsjiv;Zolotšiv;Zolotjiv;Zoločiva;Zoločiw;Zolocsiv;Zoločivas;Zołocziw;Zlochuv;Zlochev;Zolochev
+Złotów|PL||a5|448|1bc|54|Zlotuv;Zlotova;Zlotovia;Flatow;Vulatovum
+Słubice|PL|Lubusz|a5|41f|14g|4w|Zliwitz;Zliwice
+Złotoryja|PL||a5|3y1|188|4c|Aurimontium;Zlotorija;Aureus Mons;Aurum;Słotoryja
+Złocieniec|PL||a5|44p|18h|3p|Zloceņeca;Walczembórg
+Zlote Lany|PL||a5|3ud|1gz|3l
+Zlaté Moravce|SK||8s|3qf|1f4|3a|Zlate Moravtse;Aranyosmarót
+Zlatni Pyasatsi|BG||9v|3c9|25w|2q|Golden Sands;Goldstrand;Złote Piaski
+Zlíčín|CZ||9m|3v2|13p|2i
+Zlatna|RO||8u|3k3|1sj|2c
+Zlatograd|BG||9v|36y|1xq|21|Zlatoqrad;Darıdere;Slatograd;Dară-Dere
+Zlatitsa|BG||9v|3ao|1v1|1m|Zlatica;Zlatitza;Zlatiza
+Złotniki|PL|Lower Silesia|a5|3y2|1ax|1i
+Zlynka|RU||9i|41n|2g6|1h|Zlinka;Zlõnka;Zlink;Slynka
+Zlatopil|UA|Kirovohrad|98|3rm|2fx|1g|Zlatopol’
+Zlynka|UA||98|3qo|2fm|1e
+Zlaté Hory|CZ||9m|3vm|1cc|13|Zuckmantel;Zlate Horai;Zlate Hori
+Zlaté Klasy|SK||8s|3po|1ce|10
+Złoczew|PL||a5|3yu|1fo|y|Zločeva
+Zliv|CZ||9m|3sb|13x|y|Zliw
+Zletovo|MK||9u|38n|1ps|x
+Zlatar|HR||a6|3k1|18n|s
+Złoty Stok|PL||a5|3w4|1aw|s|Reichenstein;Zloti Stoka
+Zlataritsa|BG||9v|3bl|1zy|p|Zlatarica;Zlataritza
+Złotniki Kujawskie|PL||a5|42y|1ef|o
+Zlătunoaia|RO||8u|3od|231|o
+Zlatibor|RS||8q|3dh|1iq|n|Kraljeve Vode;Kraljeva Voda
+Zlonice|CZ||9m|3vp|135|m
+Žlutice|CZ||9m|3v5|10k|m
+Zolotnyky|UA||98|3sx|1yi|i|Solotnyky;Zolotniki;Złotniki
+Zlechov|CZ||9m|3sb|1ca|g
+Zlazne|UA||98|3xh|20u|g|Slasne;Zlazno
+Zlonín|CZ||9m|3vi|14b|e
+Zlatar bistrica|HR||a6|3jx|18p|e|Zlatar-Bistrica
+Zlatníky-Hodkovice|CZ||9m|3ut|148|e
+Zlătărei|RO||8u|3fz|1ve|e
+Złota|PL|Lesser Poland|a5|3uk|1lh|e
+Žleby|CZ||9m|3ul|171|d|Žleb
+Złota|PL|Świętokrzyskie|a5|3vy|1l7|c
+Žlutava|CZ||9m|3so|1cl|b
+Złotniki|PL|Greater Poland|a5|41t|1as|b
+Złotoria|PL||a5|43q|1rp|a|Złotoryja;Złotorja
+Zlatoustovsk|RU||7x|435|ab4|8
+Zlaté|SK||8s|3t2|1mw|8
+Zlatița|RO||8u|3gm|1nn|8|Zlatica
+Zlatoličje|SI||9a|3l2|17v|8|Zatoliče
+Złota|PL|Świętokrzyskie|a5|3wq|1o8|7
+Zlatníky|SK||8s|3rb|1ec|7
+Zławieś Wielka|PL||a5|43i|1ex|7
+Zlatá Koruna|CZ||9m|3rp|13x|7
+Złota|PL|Łódź Voivodeship|a5|3zt|1k0|7
+Žlkovce|SK||8s|3qm|1d8|6
+Zlončice|CZ||9m|3vj|13w|6
+Zlobice|CZ||9m|3sy|1c3|6
+Zliechov|SK||8s|3rz|1f7|6
+Žlebe|SI||9a|3k4|140|5
+Zlatoustove|UA||98|3mj|2e6|5|Zlato'oustové;Zlatoustovo
+Zlatá Olešnice|CZ||9m|3wv|16n|5
+Złotniki|PL|Opole Voivodeship|a5|3wk|1dp|5

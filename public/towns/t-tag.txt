@@ -1,0 +1,97 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Daegu|KR||7h|2rn|9x8|i93|Teguo;Taegu;Đại Khâu;Tägu;Tegu
+Taguig|PH||71|14c|9cc|a3d
+Nizhny Tagil|RU||7z|4gw|4ml|2xv|Nizjnij Tagil;Nižnji Tagil;Nizhni Tagil;Nizhnii Tagil;Nizhniy Tagil
+Taganrog|RU||9i|3n8|303|25j|Taqanroq
+Magugpo Poblacion|PH||71|kp|9pg|1st|Tagum City;Tágum;Tagumas;Taguma
+Taguatinga|BR|Federal District|4w|-17z|-3pi|1hq
+Souk Ahras|DZ||3|2st|m3|16n|Souq Ahras;Souk-Ahras;Szúk Ahrász;Suk Ahrasas;Suk Ahras;Suq Ahras;Tagaste;Suk Aharas;Suk Aras;Soukaras
+Taganskiy|RU||9i|4at|2wn|w8
+Tagaytay|PH||71|136|9bx|oe|Tagajtajus;Tagajtaja;Tagaitài;Tagajtajo;Tagaitaium
+Tagbilaran City|PH||71|qu|9k1|o0|Tagbilaran;Dakbayan sa Tagbilaran;Syudad han Tagbilaran;City of Tagbilaran
+Tagajō-shi|JP||7q|2ye|avo|hg
+Tagawa|JP||7q|2lf|a3c|ec|Takawa
+Tagbina|PH||71|nh|9qh|bg
+Tagudin|PH|Ilocos|71|1b2|9ak|9y
+Tage'erqi|CN||7t|2z3|5ym|9m
+Tagoloan|PH||71|nq|9mj|8g
+Dagana|SN||g|19s|-17c|62|Tagana
+Tagas|PH||71|10l|9jo|49
+Anklam|DE||8r|45m|121|43|Tãglim
+Taglio|IT||9o|3h2|xx|40
+Taguatinga|BR|Tocantins|1k|-yg|-3l0|3t
+Tagtabazar|TM||5x|2rw|4us|3p|Takhta-Bazar
+Taggia|IT||9o|3dt|lt|3k
+Taguaí|BR||4w|-1t5|-3t9|3j
+Tagami|JP||7q|2wr|aqb|37
+Tagāw-Bāy|AF||6o|2r6|53i|2j|Tagow Bāy
+Tagkawayan Sabang|PH||71|12v|9gd|25
+Tarhjicht|MA||d|28q|-q7|21|Taghjicht;Tarjicht;Tarhjijt
+Taga|JP||7q|2pv|ail|21
+Tagadi|CI||0|nz|-7b|1y
+Taglio di Po|IT||9o|3h0|xx|1w
+Tagāb|AF||6o|2ou|5dh|1s|Pagab;Tagao
+Tago|PH||71|p2|9qn|1r
+Ţāqānak|IR||7o|2hi|3x8|1q|Ţāgānak
+Taghazout|MA||d|2cu|-qz|1g|Tarhazoute
+Tagondaing|MM||7y|18n|7jz|1e|Tagundaing;Ta Khun Taing
+Tagbacan Ibaba|PH||71|11s|9fx|1c|Tagbacan
+Tagliacozzo|IT||9o|38v|10t|1a
+Itaguajé|BR||4w|-1qu|-40d|19|Taguajé
+Tagana-an|PH||71|qy|9ov|18|Taganaán
+Tagnanan|PH||71|k8|9pk|16
+Tagburos|PH||71|rb|95t|15
+Tagbak|PH||71|12g|99l|15|Tagbac
+Tagdanua|PH||71|k0|9po|15|Tagdangua
+Tagakpan|PH||71|jr|9of|14|Tagakpad
+Ta Ge Hle|MM||7y|1aj|7en|10|Ta Ka Hleit;Tagehle
+Margahovit|AM||80|355|3g4|10|Bozigyugh;Tagavoranis;Tagavoranist;Takavoranist;Margaovit
+Tigtabon|PH||71|j6|9fd|z|Tagtabon;Tabtabon
+Taguitic|PH||71|m2|9jf|z|Tagaitic
+Tägerwilen|CH||a7|3oe|pe|y
+Tagasilay|PH||71|ka|9fm|w|Tagsilay
+Ta Gun Daing|MM||7y|1ai|7ec|v|Ta Khun Taing
+Taguisa|PH||71|im|9kk|v
+Tagudin|PH|Ilocos|71|18o|997|v
+Tagirkent-Kazmalyar|RU||9i|386|3qr|u|Tagirkent-Kazmaljar;Tahirkand Qazmalar
+Tagusao|PH||71|pj|939|u
+Tagcatong|PH||71|p0|9ny|t
+Taggì|IT||9o|3ia|wu|r
+Taguilalett|MR||19|1bc|-174|r|Taguilalet
+Tagonai|JP||7q|30u|aup|r
+Taganak|PH||71|gv|94n|q
+Tagob|TJ||6d|2zw|5be|q|Takob
+Tagum Norte|PH||71|rz|9lj|q
+Tagbita|PH||71|o7|91z|p
+Tugaya|PH||71|lw|9kx|p|Tagaya
+Tagbubungang Diot|PH||71|ux|9lk|p
+Tagbayo|CI||0|ft|-gw|o
+Tayabas Ibaba|PH||71|11u|9fo|m|Tagabas
+Ţaga|RO||8u|3mf|1ut|l
+Tagarádes|GR||8p|34h|1ry|l|Tagarádhos;Tagarádhes
+Tagoytoy|PH||71|11a|9jk|l
+Tagliaferro|IT||9o|3gy|la|l
+Taguing|PH||71|1dv|9e8|l
+Tagoura|CI||0|j9|-hy|i
+Tagelswangen|CH||a7|3nr|o3|g
+Tagnakro|CI||0|jb|-cj|g
+Ta Gu Pon|MM||7y|1a1|7el|e|Ta Ku Pon
+Tagbanasso|CI||0|fq|-dq|c
+Tagmersheim|DE||8r|3rm|uh|b
+Tagboagui|CI||0|fa|-i2|a
+Tagliolo Monferrato|IT||9o|3g0|o3|9
+Tagan|RU||75|48n|5yp|9
+Takala|CI||0|n0|-e1|9|Tagala
+Togiak|US||1h|4k2|-cdi|8|Tagiak
+Tagewerben|DE||8r|3yc|x7|8
+Tagnon|FR||9k|3tc|bx|7
+Țagu|RO||8u|3m2|1vb|7
+Tagouanon|CI||0|ne|-ca|7
+Taga|WS||aj|-12b|-db7|7
+Tagolsheim|FR||9k|3oe|k7|6
+Tagarra|CV||84|164|-1tm|6
+Taghmon|IE||8z|41c|-ih|6|Teach Munna
+Taglio|FR||9k|39w|qb|6|Tagliu è Isolacciu
+Tagrouparéhouin|CI||0|gj|-g1|6
+Tăgădău|RO||8u|3l7|1p4|5|Tagadómedgyes;Medgyes
+Taguí|MX||41|1kt|-7os|5

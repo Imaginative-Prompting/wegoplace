@@ -1,0 +1,866 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bangkok|TH||62|127|7r6|13dx|Bankoko;Bankokas;Banguecoque;Bancác;The City of Angels;Màn-kuk;Banqkok;Banghok;Bancocum;Bancoque;Bankok
+Manaus|BR||3t|-8m|-4mq|h4k|Manáos;Manos
+Manila|PH||71|14k|9c2|ccg|Manilo;Manille;Manilla;Maynila;Menila;Manyl;Manillah;Mainile;Lungsod ng Maynila
+Manhattan|US|New York|48|35a|-5ph|bh7|nyc;Manhatano;Mannahattan;Manatans
+Mandalay|MM||7y|1p1|7ew|9bl|Mandalaj;Mandalaja;Mandalajus;Mandalajo;Mandale
+Managua|NI||3s|xp|-6nl|7ib|Managvo;Managva;Manawa;Mānāhuac;Managoua;Manaqua
+Ma’anshan|CN|Anhui|7i|2g1|957|5pz|Mang-shan
+Al Mansurah|EG||c|2e8|2f6|4ss|El Mansura;Mansourah;Mansura;Al-Mansurah;Al-Mansura;El-Manṣûra;Manoura;El-Masûra;Mansoura;Mansurah
+Manchester|GB||9b|44k|-68|4e2|Manĉestro;Mancunium;Mančesteris;Manceinion;Manchain;Manchuin;Mančestra;Manchêtre;Mameceaster
+Bloemfontein|ZA||o|-28w|20t|4am|Blumfonteinas;Blumfonteyn;Blumfonteina;Mangaung;Blumfontejno
+Wanning|CN||7i|1g8|8im|47o|Manning
+Mangaluru|IN||6t|zw|5ry|3ur|Mangalore;Kudla;Kodial;Mangalor;Mangaloro;Mangalur;Mangalooru
+Mandaluyong City|PH||71|14i|9c8|3lf|Mandaluyong;Manadalujongas;Manadalujonga;Mandayulong
+Manado|ID||70|44|9mt|3je|Manadas;Menado
+Mansilingan|PH||71|tj|9hm|3i6
+Manizales|CO||27|e3|-5tr|3co|Manisalesas
+Mandaluyong|PH||71|14i|9c8|3a2
+Manukau City|NZ||ak|-2ur|dhs|2sk|Manukau
+Mandaue City|PH||71|so|9k8|2k1|Lungsod ng Mandaue
+Mathura|IN||6t|24e|5zr|2jt|Mandura;Madhura;Matura
+Man’gyŏngdae-ri|KP||7a|30b|9p2|2hd|Man’gyŏngdae;Mangyeongdaeri
+Mannheim|DE||8r|3th|nj|2dk|Manhejmo;Manheimas;Manhemium;Manhajmi;Manheima;Monnem;Man'géym
+Mantampay|PH||71|mp|9l2|21m
+Manta|EC||33|-2n|-689|21f
+Manisa|TR||94|2z9|247|1vs|Magnesia am Sipylos;Magnesia ad Sipylum;Manissa;Mahnisa
+Man|CI||0|kl|-kz|1v8
+Mango|IN||6t|1rf|6ni|1q6
+Mantilla|CU||36|1s3|-6cq|1lh
+Manéah|GN||f|r1|-11a|1hz|Manéa
+Sunrise Manor|US||3p|2sl|-8vn|1gm
+Barra Mansa|BR||4w|-1qm|-3ep|1eh|Bara Mansa
+Mansfield|GB||9b|43l|-3c|1bs|Mansfildas;Mansfildo
+Mansa|ZM||z|-v4|289|1bi
+Port-Gentil|GA||v|-20|oe|19k|Port Gentil;Port-Jantil;Port Žantilis;Mandji
+Manzanillo|MX||41|1h4|-81u|18f|Cōzcatlān
+Manama|BH||60|20v|3wj|14v|Manamo;Manam;Mename;Manaama;Menama
+Le Mans|FR||9k|3pc|k|145|Le Manas;Cenomanum;Lo Mans;Ar Mañs;Lemāna
+Mandsaur|IN||6t|1uv|5sj|13d
+Manjhand|PK||6q|1zz|59k|134
+Mandya|IN||6t|ys|5xm|126|Mandja
+Manokwari|ID||6m|-2e|ace|10r|Manokvaris;Menoekwari
+Mandi Bahauddin|PK||6q|2ij|5o5|101
+Al Manāqil|SD||r|13l|2jn|zn|Manaqil;El Managil;El Manāqil
+Manzanillo|CU||36|1ki|-5y8|zm|Mansaniljas
+Al Manzalah|EG||c|2ek|2gq|ze|El-Manzala;Al Manzilah
+Munūf|EG||c|2cn|2dx|yx|Minūf;Menouf;Menuf;Menoufis;Manūf
+Magangué|CO||27|po|-5rn|yg|Magangė;Mangue;Manague
+Manas|KG||65|35q|5mr|y8|Dschalalabat;Jalal-Abad;Džalal-Abad;Žalal-Abad;Dzjalal-Abad;Dżalalabad;Djalalabad;Džalalabat;Žalalabad;Ĵalalabat;Žalalabat;Dzsalalabad;Džalal Abadas;Celal-Abad;Jalolobod;Džalalabada;Džalal Abad;Dzhalal-Abad
+Mandoli|IN|Delhi|6t|27q|5yr|xg
+Mandimba|MZ||11|-13v|2r1|x1
+Manolo Fortich|PH||71|n9|9mu|wt|Maluko
+Manfalūţ|EG||c|23v|2e1|wr|Monfalut
+Handa|JP||7q|2ow|akd|wr|Manda
+Manp’o|KP||7a|36b|9qt|wg
+Mandera|KE||16|ay|38a|vv|Madera
+Manacapuru|BR||3t|-96|-4oe|v2
+Manzini|SZ||13|-21m|2f6|up|Manêini
+Manchester|US|New Hampshire|48|3bg|-5ih|um|Manĉestro;Mančesteris;Mančestra;Mançester;Mancunium
+Mandurah|AU||8k|-2id|8xg|tw|Mandura
+Mangalagiri|IN||6t|19n|67t|ts
+Mostar|BA||9r|3ce|1dh|t1|Mandetrium
+Mandaqui|BR||4w|-1t6|-3lk|st
+Khanty-Mansiysk|RU||7z|4pg|5br|s7|Chanty-Mansyjsk;Khanty-Mansiïsk;Chanty-Mansijsk;Ĥanti-Mansijsk;Hantõ-Mansiisk;Hanty-Mansijsk;Chanty-Mansiejsk;Khanty-Mansijsk;Janty-Mansisk;Hanti-Manszijszk;Hantî-Mansiisk;Hantimansijska;Khanti-Mansisk;Xanti-Mansi;Chanty Mansijskas;Chanti-Mansiisk;Khanty-Mansisk;Hantı-Mansiysk;Xanti-mansiysk;Khanty Mansisk
+Seri Manjung|MY||6v|bo|7rn|rs
+Manbij|SY||69|2th|2xf|rn|Manbidsch;Manbiy;Manbidž;Bambyce;Münbiç;Giyerapol;Manbi;Menbij;Manbej
+Manavgat|TR||94|2u7|2fc|rl
+Manjeri|IN||6t|uw|5vg|qz
+Manhuaçu|BR||4w|-1ka|-38r|pj|Manhuassú
+Mancherial|IN||6t|1gf|64n|oz|Mancherāl
+Mangaldan|PH||71|18n|9ag|oo
+Mānsa|IN|Punjab|6t|2bb|5tg|n2
+Manono|CD||y|-ka|244|mx
+Nangen|KR||7h|2qd|9tv|ml|Namwon;Mangen;Namwŭn;Namweon
+Manmād|IN||6t|1k9|5qs|m9
+Mandela|GH||1|ff|-y|li
+Manresa|ES||9d|37x|52|l7
+Manteca|US||3p|2x0|-9cq|ky|Béésh Bił Dzígaii
+Mānikganj|BD||6a|1ua|6y1|jx
+Māngrol|IN|Gujarat|6t|1mo|5er|je|Mūngrol;Māngral
+Bitola|MK||9u|35z|1na|j9|Manastiri;Manastır;Monasterium;Bitolj;Bitolya;Monastir;Bitol
+Minchinabad|PK||6q|2bs|5od|io|Manchinabad;Minchianabad
+Mannargudi|IN||6t|tn|64p|im
+Mansehra|PK||6q|2nd|5nc|ih
+Mandamarri|IN||6t|1gp|64r|ie
+Manhiça|MZ||11|-1yk|2j5|i4
+Mansfield|US|Texas|2f|2ig|-7hu|hv|Mansfeild
+Mangai|CD||t|-b6|1i9|hp
+Mangochi|MW||9|-148|2py|gr|Mangoche
+Mandideep|IN||6t|1s4|5zd|gl|Manideep
+Manaoag|PH||71|18k|9ap|gf
+Manicoré|BR||3t|-g5|-4qa|fy
+Manfredonia|IT||9o|37n|188|ft
+Manhattan|US|Kansas|2f|30u|-7g9|fn
+Mandapeta|IN||6t|1au|6bl|fl
+Mangina|CD||y|1o|29f|fe
+Mandlā|IN||6t|1qs|679|fb
+Manzhouli|CN||7i|3ts|927|f8|Man-chow-li;Manchuli;Man-chou-li
+Mandi Dabwāli|IN||6t|2b9|5ri|ep|Mandi Dabwal
+Mansoûra|DZ||3|2ou|-3q|ej
+Māndvi|IN|Gujarat|6t|1rf|5cn|ea
+Mannārakkāt|IN||6t|uj|5we|e5
+Manaung|MM||7y|1gd|78d|e3|Man-aung
+Mankweng|ZA||o|-1uc|2aj|dr
+Mandeville|JM||3i|1e4|-5zb|d3
+Manakara|MG||a8|-1pj|3pd|d1|Manankara
+Mansfield|US|Ohio|48|358|-6d8|d0
+Mānvi|IN||6t|18f|5y1|cx
+Manglaur|IN||6t|2ar|60c|cw
+Mangshi|CN||7i|1vx|7lt|cw|Mang City;Mang-shih
+Mangbwalu|CD||y|5e|2bg|cl|Mongbwalu;Mongbwala
+Mangaratiba|BR||4w|-1rs|-3ec|ck|Mangalatiba
+Mantes-la-Jolie|FR||9k|3s3|4s|cb|Medanta;Maðante
+Maniwa|JP||7q|2pj|abg|bv
+Manacor|ES||9d|31x|8x|bu
+Maubin|MM||7y|1ah|7dp|bs|Manbin
+Manica|MZ||11|-1gl|2jc|bo
+Manassas|US||48|2zn|-5z8|bm
+Manjo|CM||j|dg|ra|bl
+Mankesim|GH||1|en|-2u|bj|Mankessim
+Manicaragua|CU||36|1pj|-666|bj
+Mankhūl|AE||6c|1y5|49l|bg|Al Mankhool;Mankhool
+Mankato|US|Minnesota|2f|3eo|-795|be
+Bastia|FR||9k|3am|q9|be|Bastja;Mantinum
+Manurewa|NZ||ak|-2uu|dhs|bc
+Manapparai|IN||6t|th|61v|b9|Manaparai
+Maner|IN||6t|1z9|6jr|b5
+Mangalia|RO||8u|3dq|27e|b0|Mankalya;Callatis;Mangalija;Mangalla
+Manakunnam|IN||6t|rh|5w5|az
+Mangbang|CN||7i|1x9|7m3|ax
+Mantua|IT||9o|3hg|u0|ax|Mantova;Mantoue;Mantujos;Màntoa;Mantuya;Mantujas;Màntuva;Mantovës
+Manggar|ID||6l|-80|8cr|av
+Al Manqaf|KW||6x|28u|3pp|au|Al Manjaf;Al-Mangaf;Manqaf
+Manhattan Valley|US||48|35b|-5pg|ap
+Mango|TG||w|ss|1b|ah
+Mandeni|ZA||o|-28z|2f9|af
+Mananara|MG||a8|-18x|3u9|ac
+Mangotsfield|GB||9b|3z1|-6y|a4
+Manhattan Beach|US||3p|2m4|-94x|9y|Manheten Byčas;Manhetenbīča;Menhetten-Biç
+Mannar|LK||68|oz|65w|9y|Manaar;Manar
+Manali|IN|Tamil Nadu|6t|10l|66z|9s
+Mandaguari|BR||4w|-1tc|-3zk|9l
+Manipal|IN||6t|113|5rq|9k
+Manapla|PH||71|ug|9i0|9j|Manapala
+Manghit|UZ||7g|390|4mu|98|Mangit
+Manendragarh|IN||6t|1sh|6cc|97
+Manitowoc|US||2f|3eh|-6ri|96
+Manuguru|IN||6t|1dt|68j|91|Manugur
+Manwath|IN||6t|1hm|5wi|91|Mānwat
+Manamadurai|IN||6t|qv|61z|8z|Manamadura
+Mannanchōri|IN||6t|ql|5w3|8x|Mannanchery
+Manouba|TN||1e|2u9|s2|8w|Manuba;Manūbah
+Mandaguaçu|BR||4w|-1sv|-40q|8r
+Mangistau|KZ||5v|3dd|3yk|8q|Mangghyshlaq;Manghyshlaq;Mangghystaū;Mangyshlak
+Mankāchar|IN||6t|1yx|6xm|8n|Manikarchar
+Mangrūl Pīr|IN||6t|1kf|5yu|8m
+Mamporal|VE||2c|st|-53p|8l|Manporal
+Mānāvadar|IN||6t|1nq|5eu|8l|Manawadar
+Manchester|US|Connecticut|48|382|-5lg|8i
+Manises|ES||9d|31p|-1a|8h
+Manāwar|IN||6t|1ps|5sl|8g
+Mānsa|IN|Gujarat|6t|1t3|5lu|8f
+Mandalī|IQ||5z|2lr|3ik|8a|Mendali
+Mahendragarh|IN||6t|26j|5vj|83|Manendragarh
+Mendī|ET||2|r8|2pi|83|Mandi
+Manhala|PK||6q|2fl|5r3|82
+Manoharpur|IN|Rajasthan|6t|23u|5uz|81
+Manyama|ZM||z|-y7|1zt|80
+Manga|BF||1a|we|-2z|7y
+Mangere East|NZ||ak|-2up|dhm|7x
+Mananwala|PK||6q|2fr|5op|7w
+Mandi|IN||6t|2g3|5xp|7u
+Mantena|BR||4w|-1g6|-35u|7o
+Manduria|IT||9o|348|1d0|7m
+Mandirituba|BR||4w|-1zm|-3t1|7l
+Manari|BR||4p|-ow|-2wj|7i
+Mananjary|MG||a8|-1mz|3qa|7f
+Manihāri|IN||6t|1ye|6re|7e
+Manāsa|IN||6t|1w0|5sq|7e
+Mansfield City|US||48|381|-5kn|7c
+Mangaldai|IN||6t|21g|73n|78
+Mannachanallur|IN||6t|ub|62m|77
+Māngrol|IN|Rajasthan|6t|1yd|5wj|6z
+Manyoni|TZ||h|-fz|2or|6y|Manjoni
+Manikchari|BD||6a|1rg|734|6w|Mānikchhari
+Manibaug Pasig|PH||71|15y|9aw|6u|Manibaug
+Manjakandriana|MG||a8|-1gk|3os|6j
+Māndal|IN|Rajasthan|6t|1yo|5r5|6j
+Mānesar|IN||6t|26r|5xq|6i
+Manglai|CN||7t|2vk|65c|6i
+Mansfield|US|Massachusetts|48|38r|-5hu|6i
+Manoa|US||ax|1n8|-c6c|6h
+Mandāwa|IN||6t|25y|5sr|6h
+Mangere|NZ||ak|-2up|dhk|6h
+Mansalay|PH||71|ys|9dc|6e
+Manuel Ojinaga|MX||4f|2a4|-822|6b
+Manjai Kunda|GM||7|11d|-1ae|67|Manjal Kunda
+Manage|BE||8t|3wa|bs|66|Manadje
+Mansourah|DZ||3|2s9|cd|65|Mansoura
+Mangalvedha|IN||6t|1cn|5tl|62
+Māniyūr|IN|Kerala|6t|w3|5u5|62
+El Mansouria|MA||d|2lr|-ka|61|Mansoriyeh;Mansouria
+Māndalgarh|IN||6t|1xz|5sj|60
+Mandan|US||4d|3m3|-7s9|5y
+Manosque|FR||9k|3dr|g3|5y|Manòsca
+Mandāwar|IN|Uttar Pradesh|6t|29x|611|5x
+Mäntsälä|FI||92|4of|1yc|5u
+Manlleu|ES||9d|38o|6c|5q
+Manhumirim|BR||4w|-1kk|-38k|5q
+Maniar|IN||6t|207|6ht|5p
+Manay|PH|Davao Region|71|k2|9ri|5n|Man-ay
+Mantes-la-Ville|FR||9k|3s1|4q|5j
+Mankono|CI||0|me|-h7|5g
+Mandelia|TD||17|wl|16c|5e
+Mangalam|IN|Andhra Pradesh|6t|11y|64q|5d
+Manyinga|ZM||z|-11a|1vm|5d
+Mâncio Lima|BR||4s|-l5|-5mi|5d
+Mandelieu-la-Napoule|FR||9k|3cz|ja|5d|Mandatluec;Mandaluec la Napola;Mandelieu-La Napoule;Mandelieu
+Manatí|CO||27|t1|-5s8|5c
+Manzanares|ES||9d|30c|-9d|5c|Manzanarre
+Manshīyat al Qanāţir|EG||c|2bu|2ef|5c|Manshîyet el-Qanâṭir
+Mandiana|GN||f|tj|-o5|5b
+Manismata|ID||79|-6v|8kf|59
+Manga|BR||4w|-150|-3e1|59
+Manchar|IN||6t|1gs|5pe|59
+Mangnai Zhen|CN||7i|2yn|6yg|59
+Manturovo|RU|Kostroma Oblast|9i|4i1|3gc|58|Manturowo;Mantourovo
+Māndvi|IN|Gujarat|6t|1n2|5nm|57
+Mangattidam|IN||6t|ww|5tu|56
+Mandapam|IN||6t|ps|63s|54
+Mansfield Woodhouse|GB||9b|43o|-3b|53
+Manchester|US|Missouri|2f|2z8|-6zf|52
+Manchester City Centre|GB||9b|44k|-69|4z|Manchesterin keskusta
+Manalur|IN||6t|t5|5ve|4y
+Mangalam|IN|Tamil Nadu|6t|uu|5yn|4x
+Mannarai|IN||6t|uw|5yx|4t
+Manaquiri|BR|Amazonas|3t|-9j|-4ny|4q
+Manjhanpur|IN||6t|1yx|6a2|4p
+Mwandiga|TZ||h|-df|2ae|4o|Mandyga;Miwandica
+Mangueirinha|BR||4w|-202|-40y|4m|Manguairinha
+Manzanares|CO||27|el|-5sr|4l
+Mangla|PK||6q|2gl|5l2|4j
+Manly|AU||8l|-2lw|bo9|4i
+Manatí|PR||4m|1f7|-54p|4h
+Manafwa|UG||q|2n|2n7|4g
+Mangalmé|TD||17|yb|1ih|4f
+Mankayan|PH||71|1au|9bi|4f|Mancayan
+Mahires|TN||1e|2nx|t6|4f|Maharès;Manharés;Mahrès
+Manassas Park|US||48|2zq|-5z7|4d
+Manaveli|IN||6t|x1|65p|4d
+Manthani|IN||6t|1ft|65b|4d
+Manūjān|IR||7o|244|4fq|4c
+Manjīl|IR||7o|2u2|3t8|4c|Menjīl
+Mani Mājra|IN||6t|2db|5xg|4b
+Manor Park|GB||9b|3z7|5|49
+Mangilao Village|GU||aw|11d|b68|48
+Mani|BF||1a|10u|-l|47|Manni
+Mānantheri|IN||6t|ww|5u1|43
+Mānikpur|IN||6t|1xm|69a|40
+Manjathala|IN||6t|vk|5xa|40
+Manorville|US||48|35j|-5m9|3z
+Manoel Ribas|BR||4w|-1w4|-3zj|3y
+Mankera|PK||6q|2f7|5ig|3y|Mankora
+Manoharpur|IN|Tripura|6t|1tw|71d|3x
+Manggahan|PH||71|13p|9bu|3u|Mangahan
+Manilva|ES||9d|2t2|-el|3u
+Mansidão|BR||20|-ts|-3eb|3t
+Mangawān|IN||6t|1wj|6aj|3t
+Māndal|IN|Gujarat|6t|1sp|5js|3p
+Manapakkam|IN||6t|106|66q|3p
+Mandākād|IN||6t|mo|5yo|3p|Mandaikadu
+Maní|CO||27|de|-5ks|3p
+Manatí|CU||36|1n7|-5xp|3p
+Manzanoua|CI||0|j0|-95|3o|Manzannouan;Manzanuan
+Manoharpur|IN|Jharkhand|6t|1q5|6kn|3o
+Manoel Vitorino|BR||20|-13b|-33s|3n
+Mandir Hasaud|IN||6t|1my|6b5|3k
+Mangalapādi|IN||6t|z7|5s3|3k|Mangalpady
+Mantenópolis|BR||4w|-1ge|-368|3k
+Mallāpuram|IN||6t|xa|61d|3j|Manapuram
+Maniyur|IN|Kerala|6t|x7|5tl|3j|Maniyoor
+Mānegaon|IN||6t|1sh|669|3i
+Mankoeng|ZA||o|-1ue|2au|3h
+Mangatarem|PH||71|17v|9a5|3g
+Mandeville|US||2f|2cc|-6y7|3f
+Māndleshwar|IN||6t|1pm|5u6|3f
+Mandalgovi|MN||7s|3j4|877|3f|Mandal Gobi;Mandalgow’
+Manerbio|IT||9o|3hz|s6|3e
+Alaverdi|AM||80|366|3g3|3e|Manes;Alawerdi;Allahverdi;Alaverdo;Manasgomer;Manits Gom;Allaverdy;Alaverdy;Alawerdy
+Manfla|CI||0|kl|-gf|3e
+Manjacaze|MZ||11|-1wo|2m2|3c
+Mānkuwa|IN||6t|1sh|5d9|3c|Mankuva
+Mana-Camp|IN||6t|1mv|6b0|3c
+Manevychi|UA||98|3yh|1yx|3a|Maneviche;Manevichi
+Manly West|AU||8c|-24b|bth|39
+Manto|HN||56|15g|-6ny|38
+Manukan|PH||71|np|9hy|37
+Mangalam|IN|Tamil Nadu|6t|r4|62g|36|Mungalum
+Mándra|GR|Attica|8p|2xr|1ta|35|Mándhra
+Manimutharu|IN||6t|o2|5z1|35
+Mango|US||48|25q|-6cn|35
+Manohar Thāna|IN||6t|1vc|5xc|35
+Manching|DE||8r|3rc|vx|34
+Mandal|NO||9j|4h7|kp|33
+Mandāwar|IN|Rajasthan|6t|25e|5wn|32
+Mancha Real|ES||9d|2wz|-a1|32
+Manavālakurichi|IN||6t|mn|5yr|32
+Avdotyine|UA||98|3p4|2x5|30|Avdot’yine;Avdot’ino;Avdotine;Mandrykyne
+Mantua|CU||36|1px|-6i4|30
+Māndu|IN|Madhya Pradesh|6t|1q2|5tg|2z
+Manchester|US|Tennessee|2f|2qk|-6n5|2x
+Manaíra|BR||2w|-lf|-2xz|2w
+Manville|US||48|34m|-5r7|2w
+Manor|IN||6t|1is|5mj|2w
+Manjanādi|IN||6t|zi|5s2|2w
+Maniago|IT||9o|3k9|zb|2w|Mania
+Mānglya|IN||6t|1rd|5ux|2w|Mānglia
+Mandinari|GM||7|115|-1a4|2v
+Mandello del Lario|IT||9o|3jk|pw|2v
+Māndu|IN|Jharkhand|6t|1u3|6lf|2u
+Manyue|CN||7i|2fu|8dk|2t
+Mantasoa|MG||a8|-1gu|3ov|2s
+Manaquiri|BR|Amazonas|3t|-98|-4nn|2s|Manaquery
+Manduri|BR||4w|-1rw|-3t0|2r|Mandury
+Mankāpur|IN||6t|235|6cf|2p
+Manaure|CO||27|wq|-5l8|2p|Manare
+Manoel Urbano|BR||4s|-ok|-5ce|2o
+Mansôa|GW||8|xj|-16k|2m
+Maneromango|TZ||h|-k0|2zq|2m
+Manalongon|PH||71|pm|9hd|2l|Manalongan
+Manaure Balcón del Cesar|CO||27|sv|-5mv|2l
+Mandasa|IN||6t|1gf|6im|2l
+Mîndreşti|MD||8x|3nz|26k|2l|Mândreşti;Myndreshti
+Mangalam|IN|Tamil Nadu|6t|wc|648|2l
+Mantsebo|LS||12|-29w|24g|2k
+Mangodara|BF||1a|ri|-c4|2j|Mangodaga
+Máncora|PE||3o|-bf|-695|2j
+Manamodu|IN||6t|v4|654|2i|Manalmedu
+Manteno|US||2f|36l|-6rz|2i
+Manjēshvar|IN||6t|zb|5s1|2h|Manjeshwar;Manjeshwara
+Mangualde|PT||99|34s|-lk|2h
+Manappakkam|IN||6t|105|66p|2h
+Mansfield|AU|Queensland|8c|-24i|bta|2e
+Manalūrpettai|IN||6t|xd|63p|2d
+Manu|IN||6t|1uo|73j|2d
+Mankkaa|FI||92|4n7|1wt|2d|Mankaa
+Manda|TZ||h|-t3|2o2|2c
+Manicahan|PH||71|ji|9fg|2b|Manicaan
+Mandrem|IN||6t|17h|5os|2b
+Meinersen|DE||8r|41r|sr|2b|Maanßen;Maanße;Meinße;Mānße
+Mango Hill|AU||8c|-23o|bt2|2b
+Mangasamudram|IN||6t|10r|63p|29
+Manāli|IN|Himachal Pradesh|6t|2hm|5yd|29
+Manhasset|US||48|35c|-5oq|29
+Manticao|PH||71|nc|9l9|28|Mantikaw;Mantikao
+Männedorf|CH||a7|3na|o6|28
+Manvel|US||2f|29u|-7cw|28
+Manoufla|CI||0|ie|-fn|26
+Mandurah city centre|AU||8k|-2id|8xh|26
+Manhush|UA||98|3mq|2vn|25|Mangush
+Manor Park|CA||35|3g3|-4wj|25
+Māngvādi|IN||6t|1f7|5p6|25
+Mankivka|UA||98|3s0|2ca|24|Mankiwka;Man'kivka;Mańkówka
+Mānpur|IN||6t|1qb|5u2|24
+Maunula|FI||92|4nb|1x9|24|Månsas
+Mānda|IN||6t|1id|5m8|24
+Manor|US|Texas|2f|2ca|-7j0|24
+Maan|IN||6t|1fm|5oq|23|Man
+Mando|NG||u|ts|i9|23
+Solway|NZ||ak|-35s|djt|22|Manaia
+Manhattan|US|Illinois|2f|372|-6sf|22
+Manavalassery|IN||6t|ss|5vl|22
+Mansfield Center|US|Massachusetts|48|38q|-5hu|22
+Măneşti|RO|Prahova|8u|3gn|1zt|20
+Manzë|AL||9y|373|1if|20|Manza;Manëz;Manëzë;Manëza;Manës
+Manz̧arīyeh|IR||7o|2gr|403|20
+Manakkody|IN||6t|t5|5vl|20
+Mantua|US|Virginia|48|2zx|-5ym|1z
+Mäntyharju|FI||92|4qm|22o|1z
+Manazuru|JP||7q|2pn|aqi|1z
+Manato|MG||a8|-1q8|3nw|1y
+Măng Đen|VN||6h|14k|8ct|1x
+Mansar|IN||6t|1ng|646|1x
+Manjalumoodu|IN||6t|n9|5yi|1w
+Mantua|US|Pennsylvania|48|330|-5sv|1w
+Manoel Viana|BR||4w|-2a7|-4a4|1w
+Manas|RU||9i|3ap|3og|1w
+Manorhaven|US||48|35g|-5or|1v
+Mandai|IN||6t|1si|667|1v|Madai
+Māndavla|IN||6t|1yn|5lg|1v|Māndwāla
+Fermoy|IE||8z|40u|-n0|1u|Mainistir Fhear Maí;Mainistir Fhear Maigh;Mannishter 'er Maigh;Fermojus
+Mhangura|ZW||n|-1ax|2bt|1t|Mangula
+Manwāl|IN||6t|2hq|5u8|1t
+Managok|PH||71|mb|9nr|1t
+Mänttä|FI||92|4sb|1wf|1t
+Beli Manastir|HR||a6|3j5|1fo|1r|Monostor;Pélmonostor;Manoster;Pel-Monostor
+Manduel|FR||9k|3dq|cf|1r
+Manzanares el Real|ES||9d|355|-aq|1q
+Mānikkāpuram|IN||6t|um|5yo|1q
+Maninihon|PH||71|q1|9h8|1q
+Manat|PH|Davao Region|71|kx|9q2|1p
+Manziana|IT||9o|391|xp|1p
+Mânăstirea|RO|Călărași County|8u|3eu|22q|1p|Mînăstirea
+Manoora|AU||8c|-1b0|b8u|1p
+Manistee|US||2q|3ew|-6ns|1p
+Mantalongon|PH|Central Visayas|71|r9|9iy|1p|Manta Longan
+Manly Vale|AU||8l|-2lu|bo6|1p
+Manoc-Manoc|PH||71|x6|9eq|1o|Manocmanoc
+Mantsonyane|LS||12|-2a1|26j|1o
+Mansabá|GW||8|y5|-166|1o
+Mandriola-Sant'Agostino|IT||9o|3i1|wx|1n
+Mana|GF||2d|fr|-45e|1n
+Männiku|EE||9x|4ky|1wo|1n
+Alexandra|NZ||ak|-3hp|d2h|1m|Manuherikia
+Al Manāmah|AE||6c|1yd|4bm|1m|Manāmah
+Manasquan|US||48|33h|-5pp|1m
+Manningtree|GB||9b|40b|2y|1l
+Manunda|AU||8c|-1b0|b8v|1k
+Mantongouiné|CI||0|k9|-mc|1k|Mlatongouiné
+Manguzi|ZA||o|-22z|2iz|1j
+Manuel J. Cobo|AR||1l|-2rn|-4gu|1j
+Manşūrīyeh|IR||7o|2d3|3vq|1i
+Mandeure|FR||9k|3nt|ix|1i|Epamanduodurum
+Manchester|US|Washington|3p|3o4|-9gf|1i
+Manchester|US|Maryland|48|326|-5xk|1i
+Manchester-by-the-Sea|US||48|3aa|-5gl|1i
+Mansur Chak|IN||6t|1z6|6mo|1i
+Manitou Springs|US||2p|2zy|-83g|1h|Tséyaakin;Manitou Spgs
+Manyas|TR||94|339|25p|1h
+Manlio Fabio Altamirano|MX|Veracruz|41|1h1|-7fl|1h|Purga;Manlio Favio Altamirano
+Manston|GB||9b|3xj|-6b|1h
+Manoel Emídio|BR||2w|-m9|-3dv|1g
+Mandouri|TG||w|u5|2a|1g
+Mangampeta|IN||6t|12y|64b|1g
+Manzano|IT||9o|3jr|116|1g|Manzan
+Mangapapa|NZ||ak|-2zc|dqh|1g
+Manchester|US|Iowa|2f|3a0|-722|1f
+Manethi|IN||6t|268|5w7|1f
+Manjakollai|IN||6t|tw|65q|1e
+Manlucahoc|PH||71|r2|9ga|1e|Manlocahoc
+Manipura|IN||6t|10y|5rr|1e
+Mangrove Bay|CN||7i|1ql|8sk|1e
+Manuk Mangkaw|PH||71|dc|98x|1e|Manuk Mangaw
+Mantin|MY||6v|7u|7v1|1e
+Mansfield|US|Louisiana|2f|2h0|-78a|1d
+Mangas|PH||71|138|9br|1d
+Männedorf / Dorfkern|CH||a7|3na|o5|1d
+Mancad|IN||6t|n2|5yd|1d
+Manheim|US||48|33k|-5w7|1d
+Mansfield|AU|Victoria|8j|-2ux|b9t|1c|Mansfied
+Manubul|PH||71|f7|9bk|1b|Manubal
+Mangan|IN||6t|24f|6tw|1a|Mangen
+Manlius|US||48|3bg|-5v2|1a
+Manasia|RO||8u|3g6|223|1a
+Măneşti|RO|Dâmbovița County|8u|3gx|1y8|1a
+Manay|PH|Davao Region|71|ke|9ou|1a
+Manaskent|RU||9i|3aq|3oh|1a|Manass-Kent
+Mándok|HU||8v|3q8|1pn|1a
+Mandili|PH||71|166|9bs|19
+Manyakatana|ZA||o|-1wx|2ew|19
+Mandholi Kalān|IN||6t|27r|5u8|19
+Manuel Roxas|PH||71|hw|9mb|19
+Manuangan|PH||71|k8|9lk|18
+Manayunk|US||48|336|-5sx|17
+Manjimup|AU||8k|-2n4|8yn|17
+Mandres-les-Roses|FR||9k|3ra|73|16
+Maniwaki|CA||59|3ku|-5v1|16
+Manowa|SL||l|mp|-tv|16
+Mani|MX||3z|1kn|-6wb|15
+Manuels|CA||50|3o0|-432|15
+Mansfield Park|AU||8b|-2ou|aov|15
+Manchester|US|Georgia|48|2ja|-6j2|15
+Mancilang|PH||71|vc|9jr|15|Mansilang
+Manakkudi Mukkuvartura|IN||6t|mh|5z8|15
+Manning|US|South Carolina|48|2lm|-66t|14
+Manning|AU||8k|-2gy|8xv|14
+Manapa|PH||71|oy|9og|13
+Manteigas|PT||99|348|-ky|13
+Mangero|PH||71|10v|9gs|13
+Mantorp|SE||9w|4i3|16g|12
+Mangas|MX||41|1k3|-7np|12
+Manquiring|PH||71|125|9if|12|Manguirin;Manguiring
+Manerba del Garda|IT||9o|3ij|tb|12
+Manzana Tercera de Santa Cruz Tepexpan|MX||41|1id|-7oy|12
+Manila|US|Arkansas|2f|2ro|-6yh|11
+Mangusu|PH||71|kd|9fo|11
+Manoleasa|RO||8u|3pa|237|11
+Manga|PH|Soccsksargen|71|hh|9o3|11
+Manoppello Scalo|IT||9o|39j|131|10
+Manhasset Hills|US||48|358|-5oo|10
+Mănăstirea Humorului|RO||8u|3o8|1zv|10|Mânăstirea-Humorului;Mânăstirea Homorului;Mînăstirea Humorului
+Maniace|IT||9o|2x8|154|z
+Mandaon|PH||71|xz|9ig|z
+Mandoli|IN|Rajasthan|6t|1xk|5ll|z
+Mané|CI||0|d0|-kj|z
+Mansfeld|DE||8r|3zb|vt|z
+Managa|PH||71|ir|9nz|z
+Ma Ngay Su|MM||7y|1b1|7ee|y
+Manaloal|PH||71|kh|9p2|y|Mangalcal
+Mansfield|US|Pennsylvania|48|385|-5y4|y
+Mandih|PH||71|mt|9hp|y
+Mananbri|CI||0|o3|-id|y|Manabri
+Manta|IT||9o|3fy|kt|y
+Manti|US||2p|313|-8m4|y
+Mange|SL||l|os|-zq|x
+Manyana|BW||m|-1wt|1z3|x|Manyane
+Maniava|UA||98|3r5|1vp|x|Manjava;Manyava;Manjawa;Maniawa;Maneava
+Mannersdorf am Leithagebirge|AT||a2|3p9|1a4|x
+Manor|US|Pennsylvania|48|341|-65b|x
+Mangarine|PH||71|yb|9ce|w|Mangaran;Mangarin
+Mantin Heights|HK||6i|1q0|8t6|w
+Manguito|CU||36|1qr|-68r|w
+Manalad|PH||71|rt|9h2|w
+Manhattan Hill|HK||6i|1q1|8t2|v
+Manhay|BE||8t|3vp|fs|v
+Mannford|US||2f|2sd|-7fn|v|Manford
+Manorota|CI||0|pl|-cm|v
+Manciano|IT||9o|3ab|w0|v
+Manika|PH||71|vn|9fo|v
+Mangili|PH||71|go|9p4|u|Mangile
+Manaul|PH||71|yl|9d9|u
+Manito|PH||71|10g|9k3|u
+Mangouin|CI||0|l8|-l5|u
+Manzana de San Luis|MX||41|1ic|-7qk|u
+Manistique|US||2q|3jo|-6nl|u|Monistique
+Mantel|DE||8r|3tx|xg|u
+Mansuè|IT||9o|3ja|yu|t
+Manamrag|PH||71|126|9kr|t|Manambrag
+Mangum|US||2f|2ov|-7oe|t
+Manurewa East|NZ||ak|-2uu|dhv|t
+Mantignano-Ugnano|IT||9o|3dm|v1|t
+Mândra|RO||8u|3ja|1xl|t|Mîndra
+Mangawhai Heads|NZ||ak|-2s9|dgx|t
+Manom|FR||9k|3t5|h6|s|Monhofen
+Many|US||2f|2fp|-77o|s|Manny
+Manfrinópolis|BR||4w|-20m|-443|s
+Mangerton|AU||8l|-2no|bn3|s
+Manturovo|RU|Kursk Oblast|9i|3yx|2v5|s
+Manchester|US|Pennsylvania|48|33a|-5x4|s
+Mandangoa|PH||71|od|9mn|r
+Man Ga leik|MM||7y|19s|7ek|r|Man Ka Leik;Mangaleik
+Manuel Ávila Camacho|MX|Hidalgo|41|1jv|-7m7|r
+Maño|PH||71|uo|9ka|r
+Manogpi|PH||71|10z|9co|r|Managpi
+Manat|PH|Davao Region|71|l0|9q2|r
+Mannum|AU||8b|-2p0|aqy|r
+Manjīlābād|IR||7o|2qq|3xu|q
+Maringues|FR||9k|3jk|99|q|Maringas;Manergium
+Maniákoi|GR||8p|34i|1n0|q|Maniáki
+Manifold Heights|AU||8j|-2xy|b4x|q
+Manchester|US|Maine|48|3f4|-5e2|q
+Maniitsoq|GL||4e|51q|-42y|p|Sukkertoppen;Manitsoks;New Sukertop;New Sukkertoppen;Manitsoq;Maitsoq;Manitsok
+Masalipit|PH||71|163|9c8|p|Mansalipit
+Manilla|AU||8l|-2df|bmo|p
+Manuel|ES||9d|30h|-1d|p
+Mangoso|PH||71|vq|9go|p
+Manikling|PH||71|j4|9q6|o
+Manga|PH|Bicol Region|71|10v|9iy|o
+Manup|PH||71|w1|9ga|o
+Mannering Park|AU||8l|-2k4|box|o
+Manşūrābād|IR||7o|26h|464|o|Mansoor Abad
+Manzanilla|ES||9d|2vv|-hv|o
+Măneciu-Ungureni|RO||8u|3hw|206|o|Măneciul-Ungureni;Mîneciu-Ungureni
+Malilinao|PH||71|uv|9lu|o|Manlilinao;Manlilinac
+Manzana Quinta (La Cañada)|MX||41|1ia|-7oo|o
+Manesseno|IT||9o|3fk|ot|o
+Maniowy|PL||a5|3te|1ka|o
+Maningrida|AU||8e|-xh|acv|n
+Manchioneal|JM||3i|1e4|-5vw|n
+Manacsac|PH||71|17c|9bj|n
+Mampurog|PH||71|131|9hc|n|Manpurog
+Mangorei|NZ||ak|-30r|dfk|n
+Manahawkin|US||48|32a|-5qa|n
+Manzya|RU||6u|4ih|7fe|n|Manzia;Manza
+Manuel León|MX||41|1gd|-7h3|n|San José de Gracia
+Mány|HU||8v|3o1|1fu|n|Maan
+Manatal|PH||71|15c|9bw|n
+Mantiquil|PH||71|ph|9ht|n
+Mantalongon|PH|Central Visayas|71|s5|9ja|n
+Mangga|PH||71|16d|9bv|m|Manga
+Mantoúdi|GR||8p|2zs|1t8|m|Mantudi
+Manatee Road|US||48|29z|-6eb|m|Manattee Road
+Manuel María Contreras|MX||41|1ks|-7is|m
+Manaulanan|PH||71|jl|9m6|m
+Manga|PH|Cagayan Valley|71|1d6|9ei|m|Mangga
+Mandas|IT||9o|326|pd|m
+San Miguel Mecatepec|MX||41|1l1|-7it|m|Manantial
+Mananum|PH||71|oj|9n3|m
+Mandatoriccio|IT||9o|31n|1ar|m
+Manjoy|PH||71|vj|9gr|m|Manhoy
+Mangbara|CI||0|mj|-in|m
+Mets Mantash|AM||80|34w|3ee|l|Mantash;Mets Arikhvali;Mec Mantash;Mets Arkhvali
+Manchester|US|Michigan|2q|393|-6hg|l
+Manchester Center|US||48|3by|-5my|l|Manchester Centre
+Manaring|PH||71|1bp|9em|l
+Manea|GB||9b|41s|i|l
+Mantang|PH||71|wz|9of|l
+Mannington|US||48|31t|-676|l
+Mantamádos|GR||8p|317|216|l|Mandamádos;Mandamado;Mandamádhos
+Mantignana|IT||9o|3bw|y5|l
+Manchester|US|Ohio|48|35q|-6al|k
+Mandeville|CA||59|3kt|-5nr|k
+Mank|AT||a2|3pn|16m|k
+Manitou Beach-Devils Lake|US||2q|38m|-6i5|k
+Mangonia Park|US||48|22c|-66f|k
+Mansa Konko|GM||7|11c|-176|k|Mansakonko
+Manchester|US|Ohio|48|2zh|-6g9|k
+Manu Bans Grunt|IN||6t|2bb|60i|k
+Mäntylä|FI||92|50i|1yu|k
+Mannswörth|AT||a2|3pr|19v|j
+Manatutu|TL||6b|-nn|9q1|j|Manatuto
+Manners Sutton|CA||43|3ix|-568|j
+Manuel Villalongín|MX||41|1k8|-7u1|j
+Mansilla de las Mulas|ES||9d|3a2|-f2|i|Mansillas de las Mulas
+Manuel Lazos|MX||41|15l|-743|i
+Mancuernas|MX||41|19j|-7kj|i
+Manyérékoro|CI||0|mf|-gx|i
+Manadoun|CI||0|r8|-kc|i|Manadou
+Mandanou|CI||0|ky|-fe|i
+Manuel Ávila Camacho (Ponte Duro)|MX||41|17x|-77z|i
+Mânăstireni|RO|Cluj County|8u|3lx|1s4|i|Mînăstireni
+Manzana Sexta Parte Centro|MX||41|1i9|-7op|i
+Manziat|FR||9k|3ks|dn|i
+Mănăştiur|RO||8u|3ja|1pb|i
+Man Wein|MM||7y|1oy|7my|h
+Manitouwadge|CA||59|3sg|-6mg|h
+Manzherok|RU||63|3zz|6ma|h|Manzjerok
+Oleksiivka|UA|Odesa|98|3k4|2bi|h|Mansburg;Oleksiyivka;Mannsburg
+Manglisi|GE||7n|37u|3fa|h|Manglis
+Manchester|US|New York|48|3bd|-5yj|h
+Mansle|FR||9k|3jg|i|h
+Manana Housing|US||ax|1ng|-c6u|h
+Nandayure|CR||2i|rv|-6ko|g|Mandayure
+Manawan|CA||59|3n6|-5qn|g
+Manba|JP||7q|2sc|apw|g|Mamba
+Minyaylivka|UA||98|3ku|2a0|g|Manja;Manza;Miniaïlivka
+Manhattan|US|Montana|2p|3je|-8l9|g
+Manson|US|Iowa|2f|3a5|-7al|g
+Mandza|KM||ac|-vq|3ca|g
+Mangajou|YT||ah|-zo|3hc|g
+Manadhoo|MV||af|g1|5nx|g
+Manzolino|IT||9o|3fw|uu|g
+Mandrogne|IT||9o|3gm|ob|f
+Manito|US||2f|34b|-6xe|f
+Mäntymäki|FI||92|4nw|1pv|f|Tallbacka
+Manby|GB||9b|448|a|f
+Mantegazza|IT||9o|3if|ox|f
+Manning|US|Iowa|2f|38f|-7c2|f
+Mandougou|CI||0|mo|-lo|f
+Manson|US|Washington|3p|3p0|-99s|f
+Manorhamilton|IE||8z|46v|-mq|f|Cluainín Ui Ruairc;Cluainín
+Mancieulles|FR||9k|3sw|ge|e
+Manoláda|GR||8p|2xp|1nb|e|Manolás
+Mansigné|FR||9k|3on|e|e
+Manta|CO||27|dx|-5oa|e
+Manchester|US|Kentucky|48|2v7|-6go|e
+Manshīyet Zabda|IL||6n|2iv|2pr|e|Manshiya Zabda
+Manteo|US||48|2rr|-5u8|e
+Mansura|US||2f|2ea|-73p|e
+Mancos|US||2p|2vr|-8ct|e
+Manzat|FR||9k|3jo|86|e|Manzac
+Manton|US||2q|3fd|-6l8|e
+Mangawhai|NZ||ak|-2sc|dgx|e|Mangawai
+Mancelona|US||2q|3gq|-6ka|e
+Manuel Ávila Camacho|MX|Chiapas|41|18v|-76e|e
+Manning|CA||2s|4e4|-92r|e
+Many Farms|US||2p|2sz|-8gi|d
+Mansac|FR||9k|3hh|3u|d
+Manera|IT||9o|3iv|p4|d
+Manderscheid|DE||8r|3v6|ix|d
+Lisne|UA||98|3l3|29j|d|Manzâr
+Manawa|US||2f|3fi|-6v0|d
+Manly|US||2f|3c9|-76w|d
+Manningham|AU||8b|-2ow|ap2|d
+Mantoukoua|CI||0|lg|-82|d
+Manaca Norte|PA||4g|n6|-6e1|d
+Mangêsh|IQ||5z|2uw|3bq|d|Māngīsh;Māngaysh
+Mangulile|HN||56|15v|-6p4|d
+Mansfield|US|Missouri|2f|2v3|-756|d
+Manto del Río Ejido|MX||41|1j4|-7pl|d|Arriba
+Mango|CI||0|of|-8u|c
+Mane|FR|Provence-Alpes-Côte d'Azur|9k|3e2|g1|c
+Manalisco|MX||41|1mi|-7xw|c
+Manasota Key|US||48|22t|-6cr|c
+Manaca Civil|PA||4g|n5|-6e2|c
+Manoharpur|BD||6a|1sj|6vw|c|Monoharpur
+Manocalzati|IT||9o|35q|159|c
+Mándalo|GR||8p|35i|1pp|c|Mándhalos;Mándhalon
+Manschnow|DE||8r|41z|14f|c
+Manta Rota|PT||99|2v9|-kw|c
+Mantorville|US||2f|3ef|-75o|c
+Manthelan|FR||9k|3my|27|c|Manthelon
+Mânău|RO||8u|3nw|1sm|c|Mînău
+Manlio Fabio Altamirano|MX|Veracruz|41|1ln|-7ic|c|Magio Fario Altamirano;Kilómetro 25
+Männedorf / Ausserfeld|CH||a7|3n9|o7|c
+Manéglise|FR||9k|3tp|q|c
+Mănăștur|RO||8u|3jt|1mp|c|Manester
+Manderfeld|BE||8t|3vt|hm|c|Mamderseld;Manderfield
+Manasterz|PL||a5|3uq|1q3|b|Monasterz
+Manchenky|UA||98|3uu|2rm|b|Mantschenky;Mantchenky;Mančenky;Mançenkı;Mantxenkí;Manchenki;Manchenkov
+Manětín|CZ||9m|3uv|10r|b
+Manmin|CI||0|lh|-dc|b
+Manzaneda|ES||9d|39j|-k3|b|Mazaneda
+Mantachie|US||2f|2nc|-6tt|b
+Manchaca|US||2f|2bq|-7jr|b
+Mantiglia di Ardea|IT||9o|37s|z1|b
+Mand-e Bālā|IR||7o|23c|4lg|b
+Mândrești|RO|Galați County|8u|3jg|24y|b|Mîndreşti
+Mândruloc|RO||8u|3k7|1nn|b|Mîndruloc
+Mansfield|US|Arkansas|2f|2pe|-79t|b|Mansfild
+Mantgum|NL||8m|43l|fw|b
+Manneville-sur-Risle|FR||9k|3t3|1j|b
+Manaia|NZ||ak|-31v|dfp|b
+Manantiales|MX|Veracruz|41|1k1|-7hr|b
+Gūrak Sādāt|IR||7o|28f|3xt|b|Ma‘nā’ī
+Manzana Segunda|MX||41|1id|-7on|b
+Mangrove Bight|HN||56|19r|-6mk|b|Mongrove Bight;Mangrove Bigth
+Manuel Edgardo Ávalos (San Isidro)|MX||41|1gz|-7ij|b
+Manzana la Cofradía|MX||41|1ib|-7qs|a
+Mândrești|RO|Botoșani County|8u|3ol|21k|a|Mîndreşti
+Mănăstirea|RO|Iași County|8u|3mf|23k|a|Mînăstirea
+Mantua|US|Ohio|48|36o|-69m|a
+Manchester|US|Wisconsin|2f|3dd|-6vd|a
+Mănăilești|RO||8u|3h2|1v0|a
+Mantua|US|Ohio|48|33c|-6aw|a
+Manzurka|RU||6k|44l|86l|a
+Mannheim|CA||59|3ck|-67r|a
+Manga|BI||b|-9r|29v|a
+Mane|FR|Occitanie|9k|3bo|2n|a
+Manneville-la-Goupil|FR||9k|3tt|z|a
+Mancor de la Vall|ES||9d|32f|7z|a|Mancor
+Manuel Buelta 2da. Sección|MX||41|1cu|-768|a
+Mânzătești|RO||8u|3n2|250|a|Mînzăteşti
+Maney|MX||41|1kn|-7ox|a|Mamey
+Manolea|RO||8u|3no|21i|a
+Manassa|US||2p|2v9|-86a|a
+Manchester|CA||2s|3xp|-8sv|a
+Mangré-Dan|CI||0|kr|-fj|a
+Mandern|DE||8r|3ts|it|9
+Mansfield Center|US|Connecticut|48|381|-5kk|9
+Mandasta|HN||56|125|-6pg|9
+Mănoaia|RO||8u|3lw|21z|9
+Manzheliia|UA||98|3t0|2lg|9|Manzheliya;Manzhaleya;Manzheleya
+Manuel Benavides|MX||2g|28v|-80n|9
+Manzana Rancho Escondido|MX||41|1if|-7qj|9
+Manzana de la Trinidad (La Junta)|MX||41|1ih|-7qn|9
+Manzana Sexta Parte Alta|MX||41|1i8|-7on|9
+Manoppello|IT||9o|39e|132|9
+Mansfield|US|Illinois|2f|33p|-6tv|9
+Manigod|FR||9k|3je|hp|9
+Mănărade|RO||8u|3k6|1ul|9
+Manof|IL||6n|2j9|2pw|9
+Monashi|UA||98|3k8|2bi|9|Manaşi;Monachi;Monaszy
+Mannsville|US||2f|2mz|-7h4|9|Mansville
+José María Morelos|MX|Michoacán|41|1iz|-7qt|8|Manzana de Guadalupe;Manzana Guadalupe
+Mancholy|CV||84|161|-1tt|8
+Mankato|US|Kansas|2f|32j|-7kt|8
+Māndegān|IR||7o|2ee|3yw|8|Māndījān
+Mannville|CA||2s|445|-8kt|8
+Manns Harbor|US||48|2rp|-5ug|8
+Mandel|DE||8r|3uh|ll|8
+Manger|NO||9j|4og|e0|8
+Manidougou|CI||0|lc|-bp|8
+Mânjești|RO|Vaslui County|8u|3lg|258|8|Mînjeşti
+Manciet|FR||9k|3do|4|8
+Manganeses de la Polvorosa|ES||9d|38s|-fz|8
+Manchaybamba|PE||3o|-11r|-5np|8
+Mandráki|GR|Central Macedonia|8p|36m|1sa|8|Mandhráki;Mandrajík
+Mano del Señor|MX||41|1a2|-7io|8
+Manila|US|California|3p|35h|-9kw|8
+Kovyl’noye|UA||9t|3ix|2l5|8|Manaj
+Manilla|US||2f|38d|-7cj|8
+Mânăstireni|RO|Botoșani County|8u|3ov|22c|8|Mînăstireni
+Mendéké|CI||0|kc|-ek|8|Mendéko;Mandéké
+Manowo|PL||a5|46d|19a|8|Manow
+Manchoc|MX||41|1na|-7m5|8
+Manildra|AU||8l|-2k6|bh1|7
+Manchita|ES||9d|2zt|-gq|7
+Manga|RO||8u|3h7|1y8|7
+Manzana Sexta Parte Baja|MX||41|1i9|-7oo|7
+El Manacal|MX||41|15y|-746|7|Manacal
+Manchester|US|Vermont|48|3bw|-5mz|7
+Manuel Ávila Camacho|MX|Veracruz|41|1k5|-7hh|7
+Mânăstioara|RO||8u|3fx|1yn|7|Mînăstioara
+Mantua|US|Utah|2p|37a|-8my|7
+Manuel Buelta y Rayón|MX||3z|1d6|-767|7|Manuel Vuelta y Rayón
+Mantaro|PE||3o|-y8|-5pe|7
+Mangān|IR||7o|2cb|40x|7|Mangūn
+Mănăstirea|RO|Cluj County|8u|3mw|1uh|7|Mînăstirea
+Manzana Primera Parte Alta|MX||41|1ic|-7on|7
+Man|US||48|2wu|-6bg|7
+Mannevillette|FR||9k|3ts|i|7
+Mangrove Mountain|AU||8l|-2ki|bo0|7
+Manuel Buendía Téllez Girón|MX||41|1e2|-769|7
+Manuel Ávila Camacho (La Cima)|MX||41|1h5|-7jp|7
+Mansion|KN||51|1ca|-4uc|7
+Mandráki|GR|South Aegean|8p|2tp|23d|7|Mandrákhi
+Manganeses de la Lampreana|ES||9d|37z|-fv|7|Manganes de la Lampreana
+Mânjești|RO|Iași County|8u|3mr|24b|7|Mînjeşti
+Manuden|GB||9b|408|h|7
+Manorcunningham|IE||8z|48n|-l6|7|Mainéar Uí Chuinneagáin
+Manzana la Cantera|MX||41|1if|-7ql|7
+Mănășturel|RO||8u|3n1|1uj|7
+Månkarbo|SE||9w|4nb|1ci|7
+Manzana Tercera (Bodo)|MX||41|1id|-7oo|7
+Mansurlu|TR||94|2sm|2sn|7
+Mandujano Atepehuacán|MX||41|1kr|-7re|7
+Mangham|US||2f|2hr|-72x|6
+Mantilly|FR||9k|3qs|-28|6
+Mantequilla|MX||41|1qb|-7s8|6|Manteguilla
+Mandela|IT||9o|38r|zw|6
+Mânăstirea|RO|Dâmbovița County|8u|3fu|201|6|Mînăstirea
+Mandurang|AU||8j|-2ua|b4u|6
+Manderson-White Horse Creek|US||2p|3c4|-7wp|6
+Manga de Clavo|MX||41|15k|-74b|6
+Mantello|IT||9o|3k7|qd|6
+Manzanita|US||3p|3j0|-9ka|6
+Manacal|MX||41|166|-74m|6
+Doctor Manuel Velasco Suárez|MX||41|19d|-761|6|Manuel Velasco Suárez;Manuel Velazco Suárez
+Manchecourt|FR||9k|3q0|6i|6
+Manthes|FR||9k|3hu|dx|6
+Mance|FR||9k|3sv|gg|6
+Mandray|FR||9k|3py|jf|6
+Manacamiri|PE||3o|-ac|-5nk|6
+Manot|FR||9k|3jm|1s|6
+Manuel Gutiérrez Nájera|MX||41|1iz|-7h2|6
+Mandaree|US||2f|3ol|-7x8|6
+Manumu|PG||bd|-p7|bdx|6
+Manou|FR||9k|3qs|2q|6
+Mandanici|IT||9o|2xk|16k|6|Mannanici;Mandonicis;Mandanice
+Manzana el Mortero de San Cristóbal|MX||41|1id|-7qr|6
+Mandrio|IT||9o|3gf|u1|6
+Mangone|IT||9o|30w|19d|6
+Mangorosso|CI||0|ms|-c3|6
+Manzana Primera la Capilla|MX||41|1ib|-7op|6
+Mannersdorf an der Rabnitz|AT||a2|3nr|19x|6|Répcekethely;Malištrof
+Nanzintla|MX||41|1c5|-7na|6|Manzintla;Nanziutla
+Manuel Sánchez Mármol|MX||41|1dc|-78c|6
+Manhac|FR||9k|3ex|6v|6
+San Vicente el Chico|MX||41|1iy|-7r4|6|Manzana de San Vicente
+Manila|MX||44|1zd|-7zm|5
+Manikata|MT||9e|2ru|13v|5
+Mango|IT||9o|3g5|mn|5
+Manzac-sur-Vern|FR||9k|3h9|1n|5|Manzac de Vern
+Mān Kawngleng|MM||7y|1p6|7mf|5
+Mánesis|GR||8p|2wm|1rf|5|Mánesi
+Manuel Ávila Camacho|MX|Tamaulipas|44|1tr|-7n0|5
+Manspach|FR||9k|3oa|jq|5
+Pandánassa|GR||8p|2z8|1nw|5|Pantanassa;Mandánissa
+Mankovice|CZ||9m|3tw|1do|5
+Manerbe|FR||9k|3sm|h|5
+Mantoche|FR||9k|3nq|fd|5
+Mangofi|CI||0|kr|-ei|5
+Mankovce|SK||8s|3qj|1ex|5
+Manzaneque|ES||9d|324|-aj|5
+Mantezulel|MX||41|1o3|-7n6|5
+Manantial de la Honda (Carboneras)|MX||41|1v0|-7zq|5
+Mandorleto|IT||9o|2y5|194|5
+Manuel Castilla Brito|MX||3z|1f0|-6wg|5|El Diecisiete
+Mándra|GR|Thessaly|8p|322|1pu|5
+La Mancellière-sur-Vire|FR||9k|3sb|-2z|5|Mancellière-sur-Vire
+Mănăstirea|RO|Dâmbovița County|8u|3gd|1yd|5|Mînăstirea
+Manantiales|MX|Veracruz|41|1k4|-7j5|5
+Mănicești|RO||8u|3h2|1wn|5|Miniceştii
+Manzana Tercera Loma de Hidalgo|MX||41|1if|-7ot|5
+Manyana|AU||8l|-2py|bm4|5

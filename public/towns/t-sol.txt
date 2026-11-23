@@ -1,0 +1,311 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Sholapur|IN||6t|1d3|5uv|7p1|Solapur
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Sulaymaniyah|IQ||5z|2qs|3i7|6rx|Sulaimaniyya;Solimania;Silêmanî;Suleimania;Sulaymaniyya;As-Sulajmanijja;Souleimaniye;Suleimaniya;Süleymaniye;Slemani;Sulejmanija;Sulejmánie;Sulaimaniya;Suleimaniyah
+Soledad|CO||27|uc|-5ro|2n6
+Soledad de Graciano Sánchez|MX||41|1pn|-7se|2k9
+Thessaloníki|GR||8p|34w|1rp|2ga|Salónica;Săruna;Selânik;Thessalonica;Ftohomána;I Protévoussa ton Prosfígon;Salonik;Tesalónica;Þessalóníka;Thessalonique;Saloniki;Solun;Tessalònica;Salonicco;Tesalonîkî;Salonikai;Salonic;Saluniccu;Thessaloníkē;Salonika
+Solwezi|ZM||z|-xt|21b|2bq|Solvezis;Solwesi
+Grozny|RU||9i|3cb|3ix|2aj|Grosny;Grozni;Grosnij;Grozno;Groznîi;Groznâi;Grosnî;Groznõi;Groznas;Džohar;Džohhar;Sölž-Ghala;Qroznı;Groznıy;Groznij
+Cité Soleil|HT||4j|1fm|-5ky|21n|Site Solèy
+Salt Lake City|US||2p|358|-8mt|1nv|Sallaga Urbo;Kota Salt Lake;Solt Leik Sitis;Thành phố Salt Lake;Civitas Lacus Salsi;Soltleiksitija;Salt Lake Ceety;Sol Lek Siti;Solt Leyk Siti;Lungsod ng Salt Lake;Solt Leik Sitės;Salt Lake;Cathair Salt Lake;Salt-Lejk-Siti;Solt Lejk Siti
+Solingen|DE||8r|3y5|jo|19o|Zolingenas;Zolingene;Solich
+Sollentuna|SE||9w|4l3|1dv|12s
+Solihull|GB||9b|41l|-4y|z6|Solihalas
+Solntsevo|RU|Moscow|9i|4ak|2vu|xc
+Pôr do Sol|BR||4w|-182|-3po|sb
+Solikamsk|RU||7z|4lr|4dm|s0|Szolikamszk;Usol’ye Kamskoye;Sol’ Kamskaya
+Masjed Soleymān|IR||7o|2gq|3sy|rx|Masjed Soleiman;Masjed-e Soleymān
+Soligorsk|BY||9g|42n|24i|qs|Salyhorsk;Salihorsk;Salihorskas;Saligorsk;Szalihorszk;Saļihorska
+Žilina|SK||8s|3sq|1g2|mk|Sillein;Zsolna;Żylina;Solna;Silina;Jilina
+Solok|ID||6l|-28|7rm|ke
+Solana|PH|Cagayan Valley|71|1d1|9e1|jv|Solano
+Szolnok|HU||8v|3n2|1k4|jt|Solnoca;Solnokas;Solnok
+Solna|SE||9w|4kw|1e0|il
+Solnechnogorsk|RU||9i|4c2|2up|gd|Solnetsjnogorsk;Solnetschnogorsk;Solnetchnogorsk;Solnečnogorsk;Solneçnoqorsk;Solnetšnogorsk;Solnecinogorsk;Sołniecznogorsk;Solnječnogorsk;Gomzino;Gomsina
+Cholet|FR||9k|3mq|-2g|es|Šolė;Cauletum
+Soloma|GT||32|17i|-71z|dm
+Sololá|GT||32|151|-71a|cm
+Soliman|TN||1e|2ty|t5|cj
+Salisbury|GB||9b|3xv|-50|cf|New Sarum;Caersallog;Searoburg;Sarisberia;Solsberis;Solsberi
+Solan|IN||6t|2dv|5y7|b7|Solon
+Solano|PH||71|19w|9cm|a2
+Solomyanka|UA||98|3w3|2cl|91|Solomyanskyi Rayon;Szolomjanszkij kerület;Solom'ianka;Solom'yanka
+Soledade|BR|Rio Grande do Sul|4w|-282|-41v|8c
+Soledad|VE||2c|mo|-4wl|8a
+Sola|NO||9j|4jl|fp|87|Sole
+Esztergom|HU||8v|3or|1g2|80|Gran;Ostrzyhom;Ostřihom;Salvio;Esterqom;Strigonio;Ostrogon;Strigoniu;Ostrigon;Strigonia;Strigonium;Salvio Mansio;Strigonie;Estergom;Strigoni;Estergon;Solva
+Zolotonosha|UA||98|3tz|2h0|7q|Zolotonocha;Zolotonoša;Solotonoscha
+Sol’-Iletsk|RU||7z|3y4|48r|7m|Sol-Iletsk
+Soledad|US||3p|2t6|-9d1|6y|Solebad
+Solenzo|BF||1a|xu|-bc|6w|Solenso
+Solon|US|Ohio|48|36z|-6a8|6e
+Zolochiv|UA|Lviv|98|3ud|1x6|6a|Złoczów;Solotschiw;Zolotchiv;Zoloçiv;Zolotsjiv;Zolotšiv;Zolotjiv;Zoločiva;Zoločiw;Zolocsiv;Zoločivas;Zołocziw;Zlochuv;Zlochev;Zolochev
+Soltau|DE||8r|437|rc|63
+Hansestadt Salzwedel|DE||8r|42t|uz|5v|Salzwedel;Soltwedel;Ljaudit
+Solin|HR||a6|3cy|19t|5u|Salona
+Solsumba|IN||6t|1k0|5m7|58
+Solonópole|BR||2w|-fx|-30d|54|Solonópolis
+Solrød Strand|DK||8y|4a9|xy|4t
+Solânea|BR||2w|-ir|-2r2|4q
+Solothurn|CH||a7|3n5|ky|4o|Soleure;Solura;Soloturno;Soletta;Solodurum;Soleura;Zoloturnas;Soloturn;Suleta;Solloturni
+As Sallūm|EG||c|2fn|1xw|4l|Sollum;Al-Salum;El Sollum;Es Sollūm;Solum;Es Sallum;Sallum;Sellum
+Solhan|TR||94|309|361|49
+Solec Kujawski|PL||a5|43g|1en|47|Soleca Kujavska
+Soledade|BR|Paraíba|2w|-jm|-2t0|47
+Solnechnyy|RU|Khabarovsk|7w|3ww|ajk|3y|Solnetsjnyj
+Sóller|ES||9d|32h|7k|3w|Soļera
+Solnechnyy|RU|Khabarovsk|7w|3wi|akn|3w|Solnetsjnyj
+Solap|IN||6t|1ph|6sw|3u
+Solana Beach|US||3p|2jn|-91r|3q
+Solaro|IT|Lombardy|9o|3go|ph|3q
+Solms|DE||8r|3we|nd|3p
+Lone Tree|US|Colorado|2p|31v|-83d|3o|Sola Arbo
+Solnechnodol’sk|RU||9i|3hw|37e|3n|Solnetsjnodolsk
+Soledad de Doblado|MX||41|1gx|-7fu|3g
+Solonytsivka|UA||98|3uw|2s3|3g|Solonitsevka
+Solaro|IT|Lombardy|9o|3ip|p8|3d|Solarium;Soree
+Solliès-Pont|FR||9k|3bz|gs|3d|Lo Pònt de Soliers;Soliers Pònt
+Solofra|IT||9o|35f|158|3b
+Soldato-Aleksandrovskoye|RU||9i|3ez|3dj|33|Soldato-Aleksandrovskoje;Soldatsko-Aleksandrovskoye
+Solim|IN||6t|17e|5ox|31|Siolim
+Solnechnyy|RU|Krasnoyarsk Krai|6u|4bw|765|2y
+Sol’tsy|RU||9i|4hg|2c8|2y|Soltsy
+Soledar|UA||98|3r9|2xr|2x
+Solano|CO||27|1y|-5t1|2v
+Solnechniy|RU||7z|4q8|5na|2t
+Solymár|HU||8v|3o7|1gl|2k|Schaumar
+Sölvesborg|SE||9w|4bp|14i|2i
+Solţānābād|IR|Fars|7o|2a1|41y|2f
+Solotvyno|UA||98|3p7|1ub|2e|Slatina;Sołotwyno;Aknaszlatina
+Solsona|ES||9d|38n|48|2b
+Soliera|IT||9o|3g9|uc|2b
+Sol|ES||9d|34a|-aa|2a|Centro
+Aurinkolahti|FI||92|4n8|1xv|28|Solvik
+Sol Posto|PT||99|34v|-ny|28
+Zolochiv|UA|Kharkiv|98|3vn|2ry|25|Zoloçiv;Solotschiw;Zołoczow;Zolotsjiv;Zolotchiv;Zolochev
+Soltvadkert|HU||8v|3le|1hv|25
+Sololo|KE||16|9w|2zc|25
+Solţānīyeh|IR||7o|2t7|3rj|24|Sultaniye;Solţāneyyeh;Sultānīyeh
+Solone|UA|Dnipropetrovsk|98|3px|2ow|24
+Solway|NZ||ak|-35s|djt|22|Manaia
+Sollefteå|SE||9w|4vh|1bz|22
+Solarino|IT||9o|2v2|160|20|San Paulu
+Solt|HU||8v|3m0|1gs|1y
+La Farlède|FR||9k|3bx|gs|1x|Solliés Farlède;La Farlade
+Soligalich|RU||9i|4k4|39h|1x|Soligalitsj;Soligalitsch;Soligalitch;Soligalič;Soligàlitx;Soligalitš;Soligalicz
+Solesino|IT||9o|3hi|wn|1w
+Soltepec|MX||41|1h4|-7jf|1t
+Solvay|US||48|3bm|-5vp|1s
+Soleuvre|LU||9c|3tk|gi|1s
+Le Soler|FR||9k|3ak|7r|1s|el Soler;Soler
+Sully-sur-Loire|FR||9k|3oo|6l|1r|Soliacum
+Şoldăneşti|MD||8x|3ou|280|1q|Soltănești;Soldaneshti;Sholdaneshty;Sholdaneshti;Sholdanesht’
+Sölderholz|DE||8r|3z0|l3|1n
+Solvang|US||3p|2o4|-99q|1l|Solvanq
+Soledade de Minas|BR||4w|-1pa|-3h4|1k
+Sölde|DE||8r|3z2|l3|1k
+Szczawno-Zdrój|PL||a5|3x4|196|1k|Szczawno Zdrój;Ščavnozdroja;Solice-Zdrůj;Solice Zdroj
+Solbiate Olona|IT||9o|3it|oo|1i
+Solidão|BR||4p|-l4|-2wl|1g
+Soteapan|MX||41|1en|-7bj|1f|Soleapan
+Soleto|IT||9o|33n|1el|1f|Sulitu
+Sollenau|AT||a2|3p2|195|1e
+Solesmes|FR|Hauts-de-France|9k|3ve|9q|1e
+Sołtysowice|PL||a5|3y3|1bf|1d
+Solbjerg|DK||8y|4bo|s1|1c|Solbjærg
+Solina|BA||9r|3fs|1fx|1c
+Solliès-Toucas|FR||9k|3c1|gq|1c
+Soledad|PH||71|16v|9c2|1b
+Soloneshnoye|RU||63|3zi|6i8|1b|Solonesjnoje;Solnechnoye;Soloreshnoye
+Soldatskaya|RU||9i|3dq|3dq|1b
+Soldotna|US||1h|4o1|-bnm|19|Soldatna
+Sollana|ES||9d|314|-12|19
+Solca|RO|Suceava|8u|3oi|1zt|18|Solka
+Solntsevo|RU|Kursk Oblast|9i|3yu|2u4|18
+Solnechnoye|RU|Dagestan|9i|3c8|3l7|14|Solnetsjnoje
+Solakut|IN||6t|2ny|5qa|14
+Soledad Atzompa|MX|Veracruz|41|1g1|-7hy|14
+Solonţ|RO||8u|3lb|21o|13
+Soleşti|RO||8u|3lx|256|13
+Solotvyn|UA||98|3rb|1vu|11|Sołotwina
+Solsona|PH||71|1e9|9bh|11
+Söll|AT||a2|3ny|xv|10
+Solarolo|IT|Lombardy|9o|3ij|tb|10
+Şoldanu|RO||8u|3eu|21o|z
+Solonka|UA||98|3u8|1up|y
+Soluno-Dmitriyevskoye|RU||9i|3fd|3ao|x|Soluno-Dmitrijevskoje
+Solaklı|TR||94|2u9|2q6|w
+Solkan|SI||9a|3jp|11x|w
+Solyanka|RU||8o|3kv|3pe|w|Saljanka
+Sollstedt|DE||8r|3yj|t5|w
+Solton|RU||63|42s|6o8|v
+Solomenskoye|RU||9i|3eu|3f7|v|Solomenskoje
+La Soledad Salinas|MX||41|1aa|-7eo|v|Soledad Salinas
+Solovjevsk|RU||7x|46n|9ln|v|Solov'yëvsk;Solov'yeva;Solov'yevka
+Solo|PH||71|127|9bu|v
+Solarolo|IT|Emilia-Romagna|9o|3f8|wx|u
+Soulac-sur-Mer|FR||9k|3if|-35|u|Solac;Soulac
+Solbiate Arno|IT||9o|3j0|oh|u
+Solopaca|IT||9o|36g|14f|u
+Solana|PH|Northern Mindanao|71|ny|9ml|u
+Solís de Mataojo|UY||45|-2o4|-4a3|s
+Soloni|CI||0|s3|-fh|s
+Solovăstru|RO||8u|3lx|1wt|s|Solovăstrău
+Soldiers Hill|AU|Victoria|8j|-2wb|b3m|s
+Solre-sur-Sambre|BE||8t|3vr|bj|r
+Solana de los Barros|ES||9d|2zl|-i6|q
+Solon|US|Iowa|2f|385|-725|p
+Solotcha|RU||9i|487|32n|p|Solottsja;Solodcha
+Sol’vychegodsk|RU||9i|4qd|3mc|p|Solvytsjegodsk
+Solaize|FR||9k|3is|dg|o|Solaise
+Solomons|US||48|2yg|-5wd|o|Solomon
+Solarussa|IT||9o|32z|o3|n
+Solliès-Ville|FR||9k|3by|gs|m|Soliers;Soliers Vila
+Sölden|AT||a2|3mh|uk|m
+Solnice|CZ||9m|3vg|194|l|Sollnitz
+Solţānābād|IR|Razavi Khorasan|7o|2r0|4kf|l
+Solosuchiapa|MX||41|1cf|-76f|k|Solusuchiapa
+Solak|AM||80|34e|3g7|k
+Solrød|DK||8y|4aa|xu|k
+Solza|IT||9o|3iw|qd|k
+Soldiers Hill|AU|Queensland|8c|-1lj|arh|j
+Solomon Linda|ZA||o|-27b|2cj|j
+Soledad Morelos|MX||41|1gb|-7ll|j
+Solosolo|WS||aj|-12k|-d8s|j
+Soly|BY||9g|47f|20r|i|Salos
+Soliers|FR||9k|3sh|-u|i
+Solnhofen|DE||8r|3ru|uk|i|Solnhofa
+Solginskiy|RU||9i|4pl|36u|i|Solginskij;Soglinskiy
+Solre-le-Château|FR||9k|3vd|bd|i
+Zolotnyky|UA||98|3sx|1yi|i|Solotnyky;Zolotniki;Złotniki
+Sölöz|TR||94|347|29q|i
+Solferino|IT||9o|3i1|td|i|Sulferinum;Sulfrì
+Soleminis|IT||9o|31b|pi|h
+Solalpan 1ra. Sección|MX||41|1i5|-7ol|h
+Soloneț|RO||8u|3oh|20b|h
+Solbiate|IT||9o|3j7|ot|h
+Solagna|IT||9o|3ja|wk|h
+Sološnica|SK||8s|3qn|1bv|h
+Solec Nad Wisłą|PL||a5|3y2|1oh|h
+Solignano Nuovo|IT||9o|3fp|ud|g
+Solima|MX||44|1za|-7yw|g
+Şölen|TR||94|2yc|32u|g
+Soleh Bon|IR||7o|2rd|420|f
+Sollebrunn|SE||9w|4hg|yt|f
+Solomontown|AU||8b|-2k7|ane|f
+Solomonovo|UA||98|3qj|1pk|f|Tiszasalamon;Solomonowo;Šalamúnová;Solomonove
+Soldiers Point|AU||8l|-2iv|bqf|e
+Solero|IT||9o|3gs|nn|e
+Solignac|FR||9k|3j4|3j|e|Solenhac
+Salisbury|DM||2r|16w|-4qo|e|Solsberis;Barroui;Baroui
+Solnechnoye|RU|St. Petersburg|9i|4n4|2b7|e|Solnetsjnoje;Ollila
+Solers|FR||9k|3r6|7k|e
+Solokaha|CI||0|oy|-fo|e
+Søllested|DK||8y|489|vb|d
+Shelū Gerd|IR||7o|2tl|4kk|d|Solūgerd
+Sól|PL||a5|3th|1gw|d
+Solesmes|FR|Pays de la Loire|9k|3ox|-u|d
+Solognougou|CI||0|s6|-gv|d|Soloniougou
+Soltanivka|UA||98|3oy|2bn|d|Soltanovka
+Solone|UA|Zakarpattia|98|3pp|1uc|d
+La Soledad|MX|Guanajuato|41|1l9|-7tq|d|Soledad
+Soltszentimre|HU||8v|3lx|1hl|c
+Zolotarivka|UA|Donetsk|98|3pc|2y3|c|Solotariwka;Zolotarevka;Zolotorëvka
+Solnechnyy|RU|Sakha|7w|4ni|am4|c|Solnetsjnyj
+Solara|IT||9o|3gd|ut|c
+Sölden|DE||8r|3p5|lq|c
+Sola|VU||ap|-12k|cxf|c
+Solţān Aḩmad|IR||7o|2y5|3gt|c
+Soliyaga|CI||0|rn|-go|c
+Soledad Nueva|MX||41|1n4|-7sc|c
+Solochyn|UA||98|3r0|1rs|b|Solochin
+Solignac-sur-Loire|FR||9k|3gx|at|b
+Solórzano|ES||9d|3ci|-9z|b
+Solgne|FR||9k|3s1|hh|b
+Soltendieck|DE||8r|42v|tw|b
+Solanas|IT||9o|32x|nr|b
+Solomon|US||2f|304|-7ih|b
+Solontsi|UA||98|3le|2ir|b|Solontsy
+Solosancho|ES||9d|34n|-dm|a
+Sola-Boni-Broukro|CI||0|l2|-ei|a
+Solnechnoye|UA|Crimea|9t|3h5|2mo|a
+Slottsbron|SE||9w|4ks|10e|a|Solttsbron
+Solonytsia|UA|Poltava|98|3ut|2js|a|Solonitsa;Solonytsya
+Solto Collina|IT||9o|3j6|rv|a
+Soláň|CZ||9m|3t8|1ep|a
+Sole Street|GB||9b|3yr|12|a
+Solon|US|Maine|48|3gv|-5e2|a
+Xolapa|MX||41|1bo|-7op|a|Solapa
+La Soledad|MX|Durango|44|1ws|-83h|9|Soledad
+Soljani|HR||a6|3gv|1gp|9
+Solovetsky|RU||9i|50n|2r7|9|Solovetskij;Solowezki;Soloveckij;Solovetski;Solovetskiy;Solovets
+La Soledad|MX|Guerrero|41|1ah|-7lc|9|Soledad
+Solec-Zdrój|PL||a5|3vx|1m1|9
+Söllichau|DE||8r|3zg|z5|9
+Solnechnoye|UA|Crimea|9t|3h5|2q7|9
+Sologo|CI||0|pz|-fr|9
+Sollerön|SE||9w|4p8|14m|9|Sollerö
+Solyonoye Ozero|UA||9t|3jg|2np|8
+Soloshyne|UA||98|3rz|2mb|8|Soloshino
+Solarolo Rainerio|IT||9o|3h8|ss|8|Solarolo Bainerio
+Solovka|UA||98|3qd|1pv|8
+Solokou|CI||0|hw|-gk|8|Lolokou
+La Soledad|MX|Oaxaca|41|1dn|-7ec|8|Soledad
+Soro|CI||0|lf|-ff|8|Solo
+Solonytsia|UA|Poltava|98|3sj|2lq|8|Solonytsya;Solonitsa
+Solferino|MX||2b|1nb|-6qv|8|Sollerino
+Soledad Atzompa|MX|Veracruz|41|1g3|-7hv|8
+Soledad de Arriba|MX||41|1qb|-7w7|8
+Solţānābād|IR|Alborz Province|7o|2rm|3wt|8|Sultānābād
+Soledad de Abajo|MX||41|1q9|-7w5|8|Estación de Adames
+Șoldănești|RO|Suceava|8u|3nt|214|8
+Solidaridad [Fraccionamiento]|MX|Jalisco|41|1mt|-7wn|8
+Zoloti Prudy|UA||98|3rd|2uu|7|Soloti Prudy;Zoloti Prudi
+Solignano|IT||9o|3fx|rq|7
+Solomós|GR||8p|2x8|1rl|7|Solomoú
+Solana|US||48|22v|-6bv|7
+Solre-Saint-Géry|BE||8t|3vi|bt|7
+Solva|GB||9b|403|-eg|7
+Soligny-la-Trappe|FR||9k|3r1|1i|7
+Sologno|IT||9o|3ii|nt|7
+Soledad Macín Chico|MX||41|1e6|-7fa|7
+Solidaridad|MX||41|1gd|-7nr|7
+Solonețu Nou|RO||8u|3oe|1zt|7
+Sil’|UA||98|3rz|1qk|7|Sol’
+Soldano|IT||9o|3dr|la|7|O Saudan
+Söllingen|DE||8r|40p|ud|7
+Sil|UA||98|3rc|2xn|7|Sol’
+Solecape|PE||3o|-ib|-661|7
+Soledad|PE||3o|-fq|-5wp|6
+Solaro|FR||9k|38e|px|6
+Solakköy|TR||94|2uo|2du|6|Solak
+Zolotarivka|UA|Luhansk|98|3rs|2yb|6|Zolotarëvka;Solotariwka
+Sontsivka|UA||98|3ph|2vb|6|Krasne;Santsovka;Sontsovka;Solntsevka;Krasnoye;Soncivka
+Solpke|DE||8r|41v|vd|6
+Soleymieu|FR||9k|3iz|ev|6
+Solís|MX||41|1jp|-7ro|6
+Solec|PL||a5|40r|1c5|6|Solez
+Solonchaky|UA||98|3lk|2ge|6|Solonchaki
+Zaragoza de Solís|MX||41|1sl|-7s3|6|Solís
+Soldeu|AD||8n|3aa|4n|6
+Solon Springs|US||2f|3kr|-732|6
+Solano Superiore|IT||9o|2y9|17w|6
+Solicchiata|IT||9o|2x6|15u|6
+Soledad Peras|MX||41|1b4|-7ha|6
+Soldiers Grove|US||2f|3ck|-705|6
+Zolotinka|RU||7x|4c2|9mu|5|Solotinka
+Soledad Piedra Larga|MX||41|18t|-7hj|5|Soledad Piedra
+Sollsvika|NO||9j|4nw|dt|5|Solsvik
+Solomon|RO||8u|3n1|1t2|5
+Solca|RO|Neamț County|8u|3lw|23g|5
+Soledad de Reynoso|MX||41|1m3|-7tp|5|De Reynosa
+Solodke|UA||98|3or|2w5|5
+La Soledad|MX|Oaxaca|41|19m|-7ge|5|Soledad
+Solano Inferiore|IT||9o|2ya|17w|5
+Solis|US||2f|20o|-7js|5
+Solniki Wielkie|PL||a5|3y4|1cj|5
+Șoldănești|RO|Botoșani County|8u|3om|22t|5
+Solfanuccio|IT||9o|3dk|10a|5
+Solidaridad [Fraccionamiento]|MX|Aguascalientes|41|1ot|-7xb|5

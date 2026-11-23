@@ -1,0 +1,261 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Long Beach|US|California|3p|2lt|-94b|3np|Litus Longum;Long Byčas;Longbīča;Lonq Biç
+Virginia Beach|US||48|2ud|-5v2|3ic|Litus Virginiae;Vijini Beach;Virdžīnijabīča;Virdžinija Byčas;Virciniya Biç;Virĝinijabiĉo;Virginian Bch
+Belfast|GB||9b|47o|-gh|2oo|Belffast;Béal Feirste;Beul-Feirste;Beeal Feirshtey;Belpas
+Huntington Beach|US||3p|2li|-93s|1k3|Hantington Byčas
+Beāwar|IN||6t|20i|5qg|160
+West Palm Beach|US||48|228|-66d|xl|Okcidenta Palm Beach;Litus Palmense Occidentale
+Beaumont|US|Texas|2f|2bl|-79e|w1|Bomontas
+Beau Bassin-Rose Hill|MU||ag|-1k7|4fn|uy|Villes sœurs;Bo Bassin-Roze Kholmi
+Pompano Beach|US||48|20w|-66k|ty|Pompano Byčas;Pompanobīča
+Beaverton|US|Oregon|3p|3id|-9h4|qu
+Beauport|CA||59|3m6|-5hr|mm|Montmorency
+Bangor|GB|Northern Ireland|9b|47u|-fr|gy|Beannchar
+Beauvais|FR||9k|3tb|5s|eu|Bellovacum;Bieuvais;Bovė
+Beavercreek|US|Ohio|48|32b|-6hi|cv|Beaver Creek
+Beaufort West|ZA||o|-2hw|1qq|cf|Beaufort-Wes
+Beaumont|US|California|3p|2m9|-90y|c6|Dził Nizhóní Bigiizh
+Bealanana|MG||a8|-14e|3rf|94
+Bearsden|GB||9b|4bc|-c1|7x|Cille Phàdraig Ùr;Bersden
+Beaune|FR||9k|3mm|dg|6q|Bonas;Belna
+Bear|US||48|323|-5u6|5e
+Beaconsfield|CA||59|3i7|-5p7|5c
+Beaver Dam|US|Wisconsin|2f|3cq|-6us|4m|Beaverdam
+Beaufort|MY||6w|ev|8xj|4f
+Beaucaire|FR||9k|3dp|cw|44|Bèucaire;Castrum Bellicadri;Bellcaire
+Beacon|US||48|37a|-5ph|3z|Beason
+Beach Park|US||2f|39u|-6s2|3w
+Beaumaris|AU||8j|-2xj|b6v|3v
+Beaconsfield|GB||9b|3zd|-1t|3u
+Beasain|ES||9d|3bl|-64|3s
+Beausoleil|FR||9k|3di|km|3q
+Beaufort|US|South Carolina|48|2i3|-683|3p
+Bardstown|US||48|2x1|-6lf|3n|Beardstown;Bairdstown;Bards Town
+Beato António|PT||99|2zl|-pa|3j
+Beatrice|US||2f|33v|-7gr|3g
+Beaumont|FR|Auvergne-Rhône-Alpes|9k|3j3|8k|3f
+Beauharnois|CA||59|3hv|-5p7|3b
+Beachwood|US|Ohio|48|376|-6af|3a
+Beachwood|US|New Jersey|48|32y|-5q3|34
+Beach Haven|NZ||ak|-2u7|dh8|32
+Ballina|IE|Connacht|8z|46c|-ph|2y|Béal An Átha;Beeal yn Aah;Balina
+Beauchamp|FR||9k|3s6|64|2n
+Ballyclare|GB||9b|483|-go|2n|Bealach Cláir;Balikleras
+Beacon Hill|US||48|39o|-5hf|2l
+Beaumont-sur-Oise|FR||9k|3si|6d|2i
+Beaumont Hills|AU||8l|-2lm|bna|2h
+Beaver Falls|US||48|357|-674|2f
+Beausoleil|CA||43|3km|-4zg|2e
+Beaumont|IE||8z|44b|-hb|2e
+Beachlands|NZ||ak|-2ug|di4|2b
+Beauraing|BE||8t|3v7|ds|2a|Biarin
+North Berwick|GB||9b|4bq|-7k|26|Bearaig a Tuath;Bearaig-a-Tuath
+Beaugency|FR||9k|3oq|4j|25|Balgentiacum
+Banchory|GB||9b|4eh|-6x|22|Beannchar;Banchry
+Beaumont|CA|Alberta|2s|447|-8r2|22
+Beacon Hill|AU||8l|-2lr|bo6|21
+Beaconsfield|AU|Victoria|8j|-2xp|b7t|21
+Beacon Square|US||48|26d|-6dw|20
+Beaconsfield|US||48|39m|-5hm|20
+Beau Vallon|MU||ag|-1kq|4ga|1y|Beau-Vallon
+Beaupréau|FR||9k|3n4|-2r|1x
+Beaubassin East|CA||43|3kd|-4yy|1v
+Béablo|CI||0|hq|-kd|1v
+Ballinasloe|IE||8z|445|-mu|1v|Béal Átha na Sluaighe;Beeal Aah ny Sluigh
+Beaumont|BE||8t|3vk|bs|1u
+Beaudesert|AU||8c|-25r|bt0|1s
+Beauceville|CA||59|3ke|-5gm|1s
+Beauvechain|BE||8t|3x2|d9|1r|Bôvetchén
+Beaurivage|CA||43|3lo|-50g|1q
+Beauzelle|FR||9k|3db|3u|1o
+Beaver Bank|CA||35|3gi|-4ww|1o
+Beardstown|US||2f|336|-6z6|1l
+Beaufort-en-Vallée|FR||9k|3ns|-m|1l
+Bearspaw|CA|Alberta|2s|3y1|-8ti|1k
+Beaucourt|FR||9k|3nx|j8|1k
+Beaufays|BE||8t|3wg|fo|1j
+Beaconsfield|AU|Queensland|8c|-1ml|bid|1h
+Beas de Segura|ES||9d|2y9|-81|1h
+Beaverbrook|CA||59|3hx|-5uv|1g
+Bear Valley Springs|US||3p|2po|-95j|1g
+Ballybofey|IE||8z|488|-lm|1d|Bealach Féich;Balibofis
+Beaconsfield|AU|Western Australia|8k|-2h3|8xk|1d
+Beaurains|FR||9k|3vn|7r|1c|Biaurins
+Bégard|FR||9k|3r3|-96|1c|Bear
+Beattystown|US||48|35d|-5rw|1a|Beattyestown;Beatyestown;Beatystown;Beattys Town
+Beaucouzé|FR||9k|3nw|-1r|19
+Beavercreek|US|Oregon|3p|3ht|-9ge|19
+Bealeton|US||48|2z5|-600|18|Bealton
+Beaver|US|Pennsylvania|48|352|-672|18
+Beaumaris|CA||2s|44y|-8rb|18
+Beaurepaire|FR|Auvergne-Rhône-Alpes|9k|3hy|e1|16
+Beaufort|US|North Carolina|48|2og|-5wy|16
+Beas|ES||9d|2vz|-iv|16
+Beau Vallon|SC||ae|-cu|49z|15
+Beachmere|AU||8c|-23d|bt5|15
+Beaumont-lès-Valence|FR||9k|3gm|dq|14|Bèumont de Valença
+Beach Haven West|US||48|327|-5q7|13
+Beaulieu-sur-Mer|FR||9k|3df|kd|12|Bèuluec de Mar;Bellus Locus
+Beaumont-de-Lomagne|FR||9k|3dw|2r|11|Bèumont de Lomanha
+Beauvoir-sur-Mer|FR||9k|3mc|-5o|10
+Beaver Dam|US|Kentucky|2f|2vw|-6pc|10
+Beauvoisin|FR||9k|3dg|c0|y
+Beaverton|CA||59|3ff|-63v|x
+Beausejour|CA||5d|3v2|-7g4|v
+Bean Station|US||48|2sy|-6fc|v
+Beaver|US|Utah|2p|2yc|-8ow|u
+Beautor|FR||9k|3tx|9a|u
+Beaumont-le-Roger|FR||9k|3sc|26|u
+Beaminster|GB||9b|3x5|-7m|u
+Beaumont-en-Véron|FR||9k|3n3|i|t
+Beacon Heights|CA||2s|44t|-8r1|t
+Beaupré|CA||59|3mo|-5gy|s
+Beaconsfield Upper|AU||8j|-2xj|b7x|s
+Bantry|IE||8z|3zk|-q9|r|Beanntraí;Bantris
+Beach City|US|Texas|2f|2ae|-7bl|q
+Beaumont|AU||8b|-2p3|ap6|p
+Beaune-la-Rolande|FR||9k|3pj|6r|p
+Ballina|IE|Munster|8z|42p|-ng|o|Béal an Átha
+Ballyhaunis|IE||8z|45d|-od|o|Béal Átha hAmhnais;Balihonisas
+Beaumont|CA|Manitoba|5d|3ug|-7hw|o
+Ballyshannon|IE||8z|47e|-mq|n|Béal Átha Seanaidh
+Beauval|FR||9k|3v7|6h|n
+Beaverlodge|CA||2s|49e|-97s|n
+Beaver Dam Lake|US||48|375|-5pv|m
+Beaverdam Lake-Salisbury Mills|US||48|374|-5pw|m
+Beautiran|FR||9k|3g6|-19|m|Bautiran
+Beaumes-de-Venise|FR||9k|3ek|dz|m|Baumas;Baumas de Venisa
+Beaufort|FR|Auvergne-Rhône-Alpes|9k|3j0|i9|m
+Beauzac|FR||9k|3hq|be|m|Bauzac
+Baltinglass|IE||8z|432|-in|l|Bealach Conglais;Baltinglasas
+Bearspaw|CA|Alberta|2s|44g|-8ra|l
+Beaumont-sur-Sarthe|FR||9k|3pz|d|l
+Beaurainville|FR||9k|3w2|5a|l|Biaurinville
+Beauvois-en-Cambrésis|FR||9k|3va|9e|k
+Beaujeu|FR||9k|3k7|cr|k|Bôjor
+Bearna|IE||8z|43x|-pf|k|Barna
+Pea|TO||bi|-1mt|-dis|k|Bea;Paa
+Beaver Dam|US|Arizona|4i|2ui|-8sh|k|Beaverdam
+Bear Creek|US|Alaska|1h|4n4|-bj0|k
+Beaulieu-sous-la-Roche|FR||9k|3lo|-4h|i
+Beaulieu-lès-Loches|FR||9k|3mx|2u|i
+Ballaghaderreen|IE||8z|45q|-nu|i|Bealach an Doirín;Balahaderinas
+Beauvallon|FR||9k|3gm|dn|i
+Banagher|IE||8z|43r|-m7|i|Beannchar
+Beauséjour|GP||31|19a|-4pn|h
+Beauséjour|LC||52|134|-4pa|h
+Beaurepaire|FR|Pays de la Loire|9k|3mb|-31|h
+Beatrice|ZW||n|-1ep|2dp|g
+Beaumont|FR|New Aquitaine|9k|3lu|17|g
+Beauchastel|FR||9k|3gj|dc|g
+Beaumont-sur-Lèze|FR||9k|3ci|3s|g
+Beaulon|FR||9k|3lg|a7|g
+Beaulieu|FR|Occitanie|9k|3dh|b6|g
+Ballater|GB||9b|4eh|-8g|g|Bealadair
+Beaufort|AU||8j|-2vz|b2a|f
+Beaurevoir|FR||9k|3uw|97|f
+Beaver|US|Oklahoma|2f|2ua|-7r8|f
+Lanesborough|IE||8z|453|-m6|f|Béal Átha Liag
+Beaumont|FR|Auvergne-Rhône-Alpes|9k|3k2|h0|e
+Beaufort|LU||9c|3ug|hh|e|Befort;Beefort
+Beaumont-Hague|FR||9k|3ty|-54|e
+Beaucamps-le-Vieux|FR||9k|3uh|4y|e|Beaucamps-le-Vieu
+Beachlands|AU||8k|-27z|8uc|e
+Swinford|IE||8z|45u|-ou|e|Béal Átha na Muice;Svinfordas;Swineford
+Beauvoir-sur-Niort|FR||9k|3ka|-1b|e
+Belturbet|IE||8z|46a|-kp|e|Béal Tairbirt;Beul Tairbeirt
+Ballinamallard|GB||9b|474|-l2|e|Béal Átha na Mallacht;Ballanamallard
+Beauly|GB||9b|4fo|-ce|e|A Mhanachainn
+Beaucroissant|FR||9k|3hy|f7|d
+Ballygar|IE||8z|44o|-n5|d|Béal Átha Ghártha
+Ballybay|IE||8z|46d|-j6|d|Béal Átha na Beithe;Béal Átha Beithe
+Beaulieu-sur-Dordogne|FR||9k|3gy|54|d|Bèlluèc;Bel Luec;Bellus Locus ad Duranium
+Beale Air Force Base|US||3p|30n|-9d3|d
+Foxford|IE||8z|45y|-pc|d|Béal Easa
+Beaver|US|West Virginia|48|2wv|-69e|d|Beever
+Beaufay|FR||9k|3pr|10|d
+Beauquesne|FR||9k|3v5|6n|d
+Beaconsfield|AU|Tasmania|8g|-36g|bbu|d
+Beausemblant|FR||9k|3hm|df|c
+Beattyville|US||48|2wd|-6gj|c
+Beaupuy|FR|Occitanie|9k|3d9|4c|c
+Beaumont-du-Périgord|FR||9k|3gd|25|c|Bèlmont;Bèlmont de Perigòrd;Belli Mons;Beaumont
+Beatenberg|CH||a7|3lq|ln|c|Beatenbeig
+Beauty Point|AU||8g|-36c|bbu|c
+Beaucé|FR||9k|3qa|-38|c|Belzeg
+Beach Haven|US||48|31w|-5q8|c|Beachhaven
+Beaulieu-sur-Layon|FR||9k|3nf|-1n|b
+Beaumaris|GB||9b|43y|-bd|b|Biwmares;Biwmaris
+Beach|US||2p|3mc|-80w|b
+Ballyconnell|IE||8z|46c|-l2|b|Béal Átha Conaill
+Beaupuy|FR|New Aquitaine|9k|3fq|f|b
+Beaumont-du-Gâtinais|FR||9k|3pq|6w|b
+Ballyragget|IE||8z|42n|-kd|b|Béal Átha Ragad
+Beas de Granada|ES||9d|2ve|-9o|b
+Beaverton|US|Michigan|2q|3dw|-6io|a
+Bear Rocks|US||48|33g|-64q|a
+Bear Creek|US|Alabama|2f|2n7|-6rm|a|Bearcreek
+Beaverdale|US|Pennsylvania|48|340|-62m|a
+Beaumont-la-Ronce|FR||9k|3o5|1v|a
+Beauvoir-de-Marc|FR||9k|3ig|e4|a
+Beauchamps|FR||9k|3ux|48|a
+Belmullet|IE||8z|46n|-rr|a|Béal an Mhuirthead;Belmaletas;Belmuliet
+Beaumont-Monteux|FR||9k|3h2|do|a
+Beach City|US|Ohio|48|34x|-6am|a|Beech City
+Beatty|US||3p|2uj|-90c|a
+Beaumetz-lès-Loges|FR||9k|3vk|7e|a
+Beaumont-de-Pertuis|FR||9k|3di|ft|a|Bèumont de Pertús;Beumont dAte
+Beaufort|FR|Bourgogne-Franche-Comté|9k|3ld|f4|a
+Beaucamps-Ligny|FR||9k|3wl|84|a
+Beavertown|US||48|357|-5yd|a
+Beaconsfield|AU|New South Wales|8l|-2m7|bo0|a
+Beaverdale|US|Iowa|2f|35h|-71d|a
+Beaumont|US|Mississippi|2f|2el|-6v0|9
+Ballinagh|IE||8z|45t|-km|9|Béal Átha na nEach;Bellananagh
+Ballinamore|IE||8z|465|-lo|9|Béal an Átha Móir
+Beauregard|FR|Auvergne-Rhône-Alpes|9k|3js|d7|9
+Berlevåg|NO||9j|5gu|28t|9|Bearalváhki;Berlevaag
+Beauregard-Vendon|FR||9k|3jo|8n|9
+Bearden|US||2f|2lo|-75a|9
+Bear River City|US||2p|37l|-8nh|9
+Beaver Meadows|US||48|35p|-5uv|8|Beaver Meadow
+Belgooly|IE||8z|3zq|-nk|8|Béal Guala
+Strokestown|IE||8z|45e|-mi|8|Béal na mBuillí
+Beaulieu|GB||9b|3x6|-40|8
+Ballitore|IE||8z|439|-iy|8|Béal Atha an Tuair
+Béard-Géovreissiat|FR||9k|3kb|ff|8
+Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur|FR||9k|3ny|fs|8
+Baurech|FR||9k|3g9|-18|8|Beaurech
+Beaumont-sur-Vesle|FR||9k|3sl|bn|8
+Beaumontel|FR||9k|3sc|24|7
+Bearley|GB||9b|414|-4u|7
+Ballyhaise|IE||8z|465|-kc|7|Béal Átha hÉis
+Beaurieux|FR||9k|3t7|ae|7
+Beech Creek|US||48|364|-5zj|7|Beach Creek
+Beauregard-de-Terrasson|FR||9k|3hf|3f|7|Beuregard de Terrasson
+Beaux|FR||9k|3hj|bd|7
+Beaver Springs|US||48|357|-5yh|7
+Beaumesnil|FR||9k|3s5|1z|7
+Beasley|US||2f|29y|-7eg|7
+Beauvais-sur-Matha|FR||9k|3jg|-j|7
+Beaumarchés|FR||9k|3d3|9|7
+Beaulieu-sous-Parthenay|FR||9k|3le|-n|7|Bellus Locus
+Beals|US||48|3fo|-57t|6
+Baudreix|FR||9k|3c0|-q|6|Baudreish;Beaudreix
+Beausaint|BE||8t|3vd|ff|6
+Beautheil|FR||9k|3rg|8l|6
+Beaurecueil|FR||9k|3cv|ff|6
+Beaver City|US||2f|33i|-7pb|6
+Beauville|FR||9k|3f0|2g|6
+Beauregard|FR|Auvergne-Rhône-Alpes|9k|3h0|ef|6|Bèuregard
+Beachport|AU||8b|-2w4|asx|6
+Beaulieu-les-Fontaines|FR||9k|3ty|83|6
+Beade|ES||9d|39l|-ml|6
+Beaudignies|FR||9k|3vk|9z|6
+Beaulieu|FR|Auvergne-Rhône-Alpes|9k|3hi|ez|6
+Beaumetz-lès-Cambrai|FR||9k|3v8|8a|6
+Beaupont|FR||9k|3kx|em|5
+Beaumont-les-Autels|FR||9k|3q2|2o|5
+Beaumont-en-Auge|FR||9k|3sw|b|5
+Beaurepaire-en-Bresse|FR||9k|3ln|ez|5
+Bear River|US||2p|36y|-8kf|5

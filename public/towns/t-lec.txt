@@ -1,0 +1,106 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Lishui|CN|Zhejiang|7i|272|993|3he|Lisjui;Li-šuej;Lệ Thủy;Lâ̤-cūi;Lē-chúi-chhī
+Leicester|GB||9b|428|-35|2ue|Caerlŷr;Lecestro;Lestera;Lesteris;Lester;Leicestria;Léyséstér;Leiscester
+Liège|BE||8t|3wn|fh|1i9|Lüttich;Lieja;Lieĝo;Liegi;Léck;Luuk;Luik;Lidje;Liex;Ljēža;Leodicum;Lutych;Leodium;Lježas;Ljež;Sùguru;Lēodic;Lige
+Lecheng|CN||7i|1xt|8qv|yj|Lechang
+Lecce|IT||9o|343|1eh|mf|Lupiae;Lecci;Luppiu;Lece
+Lecherías|VE||2c|sb|-4zp|da|Lecheria
+Lecco|IT||9o|3je|q4|cy|Leucum;Lech
+Le Cannet|FR||9k|3d2|ji|c2|Cannet;Lo Canet
+Giżycko|PL||a5|464|1og|8c|Gižicko;Lėcius;Lötzen;Lözen
+Le Chesnay|FR||9k|3rm|5w|84|Le Chesney
+Le Creusot|FR||9k|3m1|ca|74|Creusot
+Łęczna|PL||a5|3yi|1rk|61|Lenčna
+Leça da Palmeira|PT||99|36f|-o6|50|Leça de Palmeira
+Le Camas|FR||9k|3c9|ez|4m
+Leça do Bailio|PT||99|36h|-nz|4h|Leca do Belio;Leça do Balio
+Łęczyca|PL|Łódź Voivodeship|a5|40m|1hc|4b|Lenčica
+Le Chambon-Feugerolles|FR||9k|3i3|c0|3q|Chambon-Feugerolles
+Le Cabot|FR||9k|3c6|f2|31
+Lékoni|GA||v|-4e|13m|2g|Léconi
+Le Crès|FR||9k|3d9|ay|24
+Leck|DE||8r|485|oy|24
+Le Coteau|FR||9k|3ju|bd|24
+Le Canet|FR||9k|3cd|ex|22
+Le Chapitre|FR||9k|3ca|ey|1z
+Lechinţa|RO|Bistrița-Năsăud County|8u|3mm|1vn|1n
+Lecanto|US||48|285|-6d5|1n
+Le Cendre|FR||9k|3j0|8v|1f|Au Sandre;Cendre
+Le Châtelet-en-Brie|FR||9k|3qr|7r|1e
+Le Cap d'Agde|FR||9k|3c8|9r|1a
+Le Croisic|FR||9k|3nd|-70|1a|Ar Groazig;Crociciacum;Croisic
+Lectoure|FR||9k|3e1|1q|19|Leitora;Lactora
+Lechinkay|RU||9i|3d0|3cn|17|Letsjinkaj
+Lech|KH||78|yi|82z|17
+Le Castellet|FR||9k|3c0|g2|15
+Le Chenit|CH||a7|3lh|hb|15|Lo Chenit
+Le Claire|US||2f|37k|-6yy|14|LeClaire;LeClare
+Le Cannet-des-Maures|FR||9k|3cj|hm|14|Lo Canet dau Luc;Lo Canet dei Mauras;Cannet-des-Maures
+Le Cheylard|FR||9k|3gr|ca|12|Lo Chailar;Cheylard
+Lechainá|GR||8p|2xd|1n3|11|Lekhainá;Lekhaena
+Le Cellier|FR||9k|3ng|-3r|10|Keller;Cellarium;Cellier
+Le Casine-Perignano-Spinelli|IT||9o|3d4|te|x|Perignano;Spinelli;Le Casine
+Lécousse|FR||9k|3qd|-3e|w|Eskuz
+Le Coudray|FR||9k|3qi|46|u
+Le Coudray-Montceaux|FR||9k|3qw|6y|u|Coudray-Montceaux
+Le Chambon-sur-Lignon|FR||9k|3h6|by|t|Chambon-sur-Lignon;Lo Chambon;Chambon-sur Lignon;Le Chambon
+Lecelles|FR||9k|3w7|9g|s
+Lékhaio|GR||8p|2xd|1rh|r|Lechaio;Lékheo;Lechaion;Archaío Limáni;Lehaja;Lecheo;Lequeo;Lechaeum;Lehaj;Lechajon;Lequeu
+Le Cailar|FR||9k|3dc|bs|p|Lo Cailar;Cailar
+Le Conquet|FR||9k|3qc|-d9|p|Konk-Leon;Conquestus;Conquet;Le Conque;Le Concue
+Le Crotoy|FR||9k|3vi|4j|p|Corocotinum;L’Crotoé;Crotoy
+Lechlade|GB||9b|3zl|-4p|p
+Le Center|US||2f|3fb|-78d|p
+Lechbruck|DE||8r|3oi|tz|o
+Le Cheylas|FR||9k|3i1|gn|n|Cheylas
+Leconfield|GB||9b|45o|-1a|l|Leckonfield
+Lechaschau|AT||a2|3nx|tr|l
+Lecce Nei Marsi|IT||9o|38h|120|h|Lecce dei Marse
+Lécluse|FR||9k|3vo|8g|g
+Lech|AT||a2|3n5|s6|g
+Łęczyce|PL||a5|47n|1dm|f|Gmina Łãczëce
+LeChee|US|Arizona|4i|2pb|-8jn|e
+LeChee|US|Arizona|4i|2ue|-8lk|e
+Le Champ-Saint-Père|FR||9k|3l7|-3r|e|Champ-Saint-Père
+Leciñena|ES||9d|384|-1p|d
+Le Champ-près-Froges|FR||9k|3hs|gi|c|Champ-près-Froges;Le Champ-Près Forges
+Lecompte|US||2f|2ed|-74o|c
+Le Crest|FR||9k|3ix|8p|c
+Le Châtelet|FR||9k|3lk|6c|b
+Le Castella|IT||9o|303|1ba|b|Castella
+Lecka|PL||a5|3uk|1p5|a
+Le Chesne|FR||9k|3tj|d8|a|La Chesne
+Lechința|RO|Satu Mare County|8u|3p4|1sq|a
+Le Coudray-Saint-Germer|FR||9k|3t9|54|9
+Le Coudray-Macouard|FR||9k|3n3|-c|9
+Le Cozze|IT||9o|3d4|10z|9
+Le Coux|FR||9k|3gj|2p|9|Lo Cos e Bigaròca
+Leighlinbridge|IE||8z|42i|-jd|8|Leithghlinn an Droichid;Lechlinia
+Łęczyca|PL|Greater Poland|a5|41b|1aw|8
+Leccio|IT||9o|3de|vv|8
+Léchovo|GR||8p|34q|1np|8|Lehovo;Lehovë;Lékhovon
+Lécera|ES||9d|36g|-1z|8
+Lechința|RO|Mureș County|8u|3l3|1vb|7
+Le Chevain|FR||9k|3qj|d|7
+Le Cergne|FR||9k|3k4|bz|7|Cergne
+Le Collet-de-Dèze|FR||9k|3ex|aw|7|Collet-de-Dèze
+Le Croisty|FR||9k|3pj|-9c|7|Ar C'hroesti
+El Lechugal|MX||3z|1fo|-6z6|7|Lechugal
+Le Castéra|FR||9k|3db|36|7
+Le Châtelard|FR||9k|3ix|h2|6|Châtelard
+Le Cheix|FR||9k|3ii|8c|6
+Lecompton|US||2f|30g|-7cz|6|Lacompton;Le Compton
+Le Chay|FR||9k|3is|-2i|6
+Le Cloître-Saint-Thégonnec|FR||9k|3qo|-aj|6|Ar C'hloastr-Plourin;Cloître-Saint-Thégonnec;Ar Chloastr-Plourin
+Léchelle|FR||9k|3qy|9f|6
+Le Change|FR||9k|3hk|2h|6|Lo Chamnhe
+Léchelles|CH||a7|3m3|ji|6
+Lechebnoye|UA||9t|3h5|2oj|6
+Le Cambout|FR||9k|3pi|-79|6|Ar C'hembod
+Le Cloître-Pleyben|FR||9k|3q2|-at|6|Kloastr-Pleiben;Cloître-Pleyben
+Le Crestet|FR||9k|3h1|cx|5
+Le Clerjus|FR||9k|3p8|hk|5
+Le Châtelet-sur-Retourne|FR||9k|3ta|bw|5
+Le Coudray-sur-Thelle|FR||9k|3sz|5w|5

@@ -1,0 +1,371 @@
+<!doctype html>
+<html lang="en" data-app="wegoplace-app" class="ds">
+<head>
+<meta charset="utf-8">
+  <meta name="wgp-build" content="v170">
+<!-- Report a bug for someone who isn't signed in (/report, linked from the sign-in page's foot): a broken sign-in is just
+     what they'd report. The same form as More › Report a bug (js/report-form.js), sent without the session cookie, so
+     it names no one. -->
+<script src="/js/www.js"></script>
+<!-- What breaks on this page reaches the site's owner, cleaned of anything personal (js/error-report.js). -->
+<script type="module" src="/js/error-report.js"></script>
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#fdfdfc">
+<meta name="robots" content="noindex">
+<title>Report a bug · WeGoPlace</title>
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/icons/favicon.1ad16064.ico" sizes="16x16 32x32 48x48">
+<link rel="apple-touch-icon" href="/icons/icon-180.b5a4a30b.png" sizes="180x180">
+<link rel="stylesheet" href="/ds/tokens.css">
+<link rel="stylesheet" href="/ds/base.css">
+<link rel="stylesheet" href="/ds/controls.css">
+<link rel="stylesheet" href="/ds/lists.css">
+<!-- The shell's own pieces ("Updating the app…", drawn by the guard below). -->
+<link rel="stylesheet" href="/ds/shell.css">
+<style>
+  html.ds, html.ds body { margin: 0; background: var(--canvas); color: var(--ink-1); }
+  html.ds[data-lum="light"] { --ground: #fdfdfc; }
+  html.ds[data-lum="dark"] { --ground: #000000; }
+  html.ds *, html.ds *::before, html.ds *::after { box-sizing: border-box; }
+  .rp-page { max-width: 460px; margin: 0 auto;
+    padding: calc(env(safe-area-inset-top, 0px) + 28px) calc(env(safe-area-inset-right, 0px) + 20px) calc(env(safe-area-inset-bottom, 0px) + 28px) calc(env(safe-area-inset-left, 0px) + 20px); }
+  .rp-home { margin: 0 0 18px; font-size: var(--size-14); color: var(--ink-2); }
+  .rp-home a { color: inherit; text-decoration: underline; text-underline-offset: 3px; display: inline-flex; align-items: center; min-height: 44px; }
+  .rp-page h1 { font-size: var(--size-28, 28px); line-height: 1.15; margin: 0 0 8px; }
+  .rp-lead { color: var(--ink-2); margin: 0 0 22px; }
+  .rp-fine { display: flex; justify-content: center; gap: 18px; margin-top: 18px; font-size: var(--size-14); color: var(--ink-2); }
+  .rp-fine a { color: inherit; text-decoration: underline; text-underline-offset: 3px; display: inline-flex; align-items: center; min-height: 44px; min-width: 44px; justify-content: center; }
+</style>
+<script>
+// The theme, before first paint, as login.html does it (the same table; it only reads the app's "wgp.theme" key).
+(function () {
+  var root = document.documentElement;
+  var THEMES = { light: { lm: "light", bar: "#fdfdfc" }, void: { lm: "dark", bar: "#000000" } };
+  var RETIRED = { dark: "void", slate: "void", linen: "light" };
+  var t = null;
+  try { t = localStorage.getItem("wgp.theme"); } catch (e) { /* private mode: the system theme */ }
+  if (RETIRED[t]) t = RETIRED[t];
+  if (!THEMES[t]) t = null;
+  if (t) root.setAttribute("data-theme", t);
+  var m = document.querySelector('meta[name="theme-color"]');
+  var mq = matchMedia("(prefers-color-scheme: dark)");
+  function paint() {
+    var th = THEMES[root.getAttribute("data-theme")] || (mq.matches ? THEMES.void : THEMES.light);
+    root.setAttribute("data-lum", th.lm);
+    if (m) m.setAttribute("content", th.bar);
+  }
+  paint();
+  mq.addEventListener("change", paint);
+})();
+</script>
+</head>
+<body>
+<main class="rp-page">
+  <p class="rp-home"><a href="/login">WeGoPlace</a></p>
+  <h1>Report a bug</h1>
+  <p class="rp-lead">Can't sign in, or something else went wrong? Tell us what happened. If you can sign in, More › Report a bug sends it with your account, so we can follow up.</p>
+  <div id="rp-form"></div>
+  <p class="rp-failed" id="rp-failed" hidden>This page didn't finish loading, so a report can't be sent yet. Check your connection, then try again.</p>
+  <noscript><p>This page needs JavaScript to send a report.</p></noscript>
+  <p class="rp-fine"><a href="/login">Sign in</a><a href="/privacy">Privacy</a></p>
+</main>
+<!-- The page's own script is started by the guard below and by nothing else, once this page and the worker in
+     charge are one build (public/js/fresh-app.js, carried inline as every page does: a worker keeps its own copy of the
+     file and would answer with that). -->
+<script>
+// THE ONE LOAD ON AN OLDER WORKER'S SCRIPTS. public/js/fresh-app.js, and the same text inline
+// in index.html, word for word (scripts/old_queue_check.mjs holds them equal, and that no
+// line here spells a script tag, which would end the inline copy). Classic, so it runs before
+// a page's module does anything.
+//
+// A phone that had the app before a trip had an address (service worker v54 and older) is
+// still controlled by that worker the first time it comes back. That worker fetches a page
+// from the network first and serves scripts from its own cache first: so the phone gets the
+// NEW page with the OLD store.js, auth.js, router.js and the rest, until the new worker has
+// installed and taken over. Run like that, the old store sent its unsent changes to addresses
+// that no longer exist, and the old auth.js left the sign-in page with no button that worked.
+//
+// THE RULE: NO ROAD RUNS THIS APP ON THAT WORKER'S SCRIPTS. This asks the worker in control
+// which build it is, and for one from before v60 (the first with a trip at its own address)
+// the page's module never starts on this load. The page says "Updating the app…", registers
+// the new worker, and loads again when it takes over: a second or two on a good connection.
+// Meanwhile, every TICK_MS:
+//   - No connection (a request to /api/, which the old worker passes straight to the network,
+//     fails): the page loads again. The old worker can't reach the network either, so it
+//     serves the page it kept, which is its own (see APP_MARKER in sw.js for why it never
+//     keeps a page of this app's): the OLD app opens, whole, as it always did with no signal.
+//     Only if that load lands back here with still no connection (a worker that kept this
+//     page after all) does the page say the update needs one, with a button to try again.
+//   - A connection, and the new worker is still downloading its shell: keep waiting, up to
+//     SLOW_MS. The old worker is worth keeping while there is hope: it is the only thing that
+//     opens the trip with no signal until the new one is in.
+//   - A connection, and no new worker on its way after WAIT_MS (its install failed, or
+//     stalled past SLOW_MS): the old worker is unregistered and the page loads again. Nothing
+//     controls that load, so everything comes from the network, and the page registers the
+//     new worker itself like a first visit.
+// What the phone had not sent is untouched all the while: it is in the old databases, which
+// only the app's own code reads, and that is not running.
+//
+// Asked until a worker in control has answered as a new one: that is remembered in
+// "wgp.shell". A load nobody controls (a first visit, the load after an unregister, a reload
+// that skips the worker) has nothing old to be handed and is not asked, but it remembers
+// nothing either: an old worker may still be registered behind it, and control the next load.
+//
+// ONE BUILD PER PAGE (21 Nov: "personTone is not a function" on an installed iPhone, a page of
+// one build running on another build's modules). The rule above refused only workers from
+// before v60 and then stopped asking; any newer worker passed, and the first load after every
+// deploy ran the new page on the old worker's modules. Now every page names its build
+// (<meta name="wgp-build">, held equal to sw.js VERSION by sw_version_check), and:
+//   - A worker that ANSWERS another build than the page's: the app doesn't start on this load.
+//     The new worker is asked to take over (it waits until asked: sw.js) and the page loads
+//     again: once per build per tab (sessionStorage). If the pair still differs after that one
+//     reload, the page runs as it is and says so once (an error report), never a second reload.
+//     Offline, nothing is asked and nothing reloads (the worker answers with its own page then).
+//   - A worker that says NOTHING is old, exactly as before (the road above, unchanged): the
+//     workers from before the question never answer it, and the Peru trip's phones may carry
+//     exactly those. That road tells no signal from a slow one, and unregisters a worker whose
+//     update never comes before loading with nothing in control, so it can't loop.
+//   - A page with no meta (its build unknown) is never a mismatch: it runs, as before.
+//   - Once running, a page tells its worker its build (the worker answers its modules from that
+//     build's cache even after a newer worker takes over for another tab), and takes a waiting
+//     update when it is hidden with nothing unsent (later(), at the end); a takeover that didn't
+//     follow is asked for again on a later hide.
+//
+// HOW A PAGE USES IT. Its module is never a module script with a src and never an `import`
+// statement (both run the old worker's copy whatever this does): it is import()ed after
+// window.__shellReady, which is undefined when there is nothing to wait for.
+//   - EVERY PAGE carries this text INLINE (scripts/old_queue_check.mjs holds each copy equal
+//     to this file). Inline, never by its src: a worker keeps its own copy of this file, and a
+//     new page loading it by its src ran the OLD guard, which let any v60+ worker through (21 Nov,
+//     shell_build_check A). And a file can fail to arrive, so a page would start with nothing asked.
+//   - index.html awaits window.__shellReady itself; every other page then calls, inline,
+//     freshApp with a function that import()s the page's own module.
+window.freshApp = function (start) { return Promise.resolve(window.__shellReady).then(start); };
+(function () {
+  var sw = navigator.serviceWorker;
+  var TICK_MS = 5000, WAIT_MS = 20000, SLOW_MS = 90000, PING_MS = 8000, AGAIN_MS = 15000;
+  var known = null;
+  try { known = localStorage.getItem("wgp.shell"); } catch (e) { /* private mode: ask each time */ }
+  // This page's build; "" for a page without the meta: unknown, never a mismatch.
+  var metaEl = document.querySelector('meta[name="wgp-build"]');
+  var page = (metaEl && metaEl.getAttribute("content")) || "";
+  // What a worker in control answered, for this page's build ("1" from before builds were named, which a page that has
+  // a build asks again).
+  var mark = function () { try { localStorage.setItem("wgp.shell", page || "1"); } catch (e) { /* asked again next time */ } };
+  if (!sw) return;
+  later(sw, page);
+  if (!sw.controller) return;
+  if (known && (!page || known === page)) { tell(sw.controller, page); return; }
+  window.__shellReady = new Promise(function (go) {
+    var settled = false, waiting = false, leaving = false, began = 0;
+    var view = function () { return document.getElementById("view"); };
+    var reload = function () { if (leaving) return; leaving = true; location.reload(); };
+    // Where it is said: the app's own view, or on a page that has none, over the whole page.
+    var cover = function () {
+      var c = document.querySelector("[data-shell-cover]");
+      if (c) return c;
+      c = document.createElement("div");
+      c.setAttribute("data-shell-cover", "");
+      c.setAttribute("role", "status");
+      c.style.cssText = "position:fixed;inset:0;z-index:2147483647;overflow:auto;display:flex;flex-direction:column;" +
+        "justify-content:center;background:var(--ground, Canvas);color:var(--ink, CanvasText)";
+      (document.body || document.documentElement).appendChild(c);
+      return c;
+    };
+    // While it says so, the page around the words takes no tap: the old app's tab bar is still
+    // drawn under them, and a tab tapped there would move the address to a section that isn't
+    // running (the walk on an iPhone's Home Screen app, 15 Nov). Inert, and dimmed to say so.
+    var still = function () {
+      var bars = document.querySelectorAll(".tabbar");
+      for (var i = 0; i < bars.length; i++) { bars[i].setAttribute("inert", ""); bars[i].style.opacity = "0.45"; }
+    };
+    var say = function (html) { (view() || cover()).innerHTML = html; still(); };
+    var updating = function () {
+      say('<div class="ds ds-updating" data-shell="updating"><img class="ds-updating-icon" src="/icons/icon-192.e2026552.png" alt=""><p>Updating the app…</p></div>');
+    };
+    var needsSignal = function () {
+      if (document.querySelector('[data-shell="waiting"]')) return;
+      say('<div class="empty" data-shell="waiting"><p class="lead">Still updating the app</p>' +
+        '<p>This needs a connection. What you changed on this phone is safe, and is sent after the update.</p>' +
+        '<p><button class="btn btn-primary" type="button" data-shell-retry>Try again</button></p></div>');
+      var b = document.querySelector("[data-shell-retry]");
+      if (b) b.addEventListener("click", reload);
+    };
+    // Is there a connection? "yes": anything answered. "no": the request failed, which with
+    // no signal it does at once. "slow": nothing either way in PING_MS, which is a connection
+    // too busy or too poor to tell (the new worker's own download may be all of it).
+    var ping = function () {
+      return new Promise(function (answer) {
+        var done = false, end = function (what) { if (!done) { done = true; answer(what); } };
+        var ctl = typeof AbortController === "function" ? new AbortController() : null;
+        setTimeout(function () { end("slow"); if (ctl) ctl.abort(); }, PING_MS);
+        fetch("/api/me", { cache: "no-store", credentials: "same-origin", signal: ctl ? ctl.signal : undefined })
+          .then(function () { end("yes"); }, function () { end("no"); });
+      });
+    };
+    var triedAt = function () { try { return +sessionStorage.getItem("wgp.shell.offline") || 0; } catch (e) { return 0; } };
+    var tick = function () {
+      if (settled || leaving) return;
+      var again = function () { setTimeout(tick, TICK_MS); };
+      ping().then(function (net) {
+        if (settled || leaving) return;
+        var waited = Date.now() - began;
+        if (net === "slow" && waited < SLOW_MS) return again();
+        if (net !== "yes") {
+          // The old app, from the old worker's own page: unless that was just tried and led here.
+          if (Date.now() - triedAt() < AGAIN_MS) { needsSignal(); return again(); }
+          try { sessionStorage.setItem("wgp.shell.offline", String(Date.now())); } catch (e) { needsSignal(); return again(); }
+          return reload();
+        }
+        if (document.querySelector('[data-shell="waiting"]')) return reload();   // the signal is back
+        return sw.getRegistration().then(function (reg) {
+          var coming = !!(reg && (reg.installing || reg.waiting));
+          if (waited < WAIT_MS || (coming && waited < SLOW_MS)) return again();
+          return sw.getRegistrations()
+            .then(function (regs) { return Promise.all(regs.map(function (r) { return r.unregister(); })); })
+            .then(reload);
+        }).catch(again);
+      });
+    };
+    var wait = function () {
+      if (settled || waiting) return;
+      waiting = true;
+      began = Date.now();
+      updating();
+      sw.addEventListener("controllerchange", function () { mark(); reload(); });
+      sw.register("/sw.js", { updateViaCache: "none" })
+        .then(function (reg) { if (reg) return reg.update(); })
+        .catch(function () { /* no signal now: the ticks below find out */ });
+      setTimeout(tick, TICK_MS);
+    };
+    // The new worker, asked to take over: the one waiting, or the one installing once it has, or one the update finds.
+    var takeOver = function () {
+      sw.getRegistration().then(function (reg) {
+        if (!reg) return;
+        var ask = function (w) { try { w.postMessage({ type: "app/skip-waiting" }); } catch (e) { /* the reload below still comes */ } };
+        var follow = function (w) {
+          if (!w) return;
+          if (w.state === "installed") return ask(w);
+          w.addEventListener("statechange", function () { if (w.state === "installed") ask(w); });
+        };
+        if (reg.waiting) return ask(reg.waiting);
+        if (reg.installing) return follow(reg.installing);
+        reg.addEventListener("updatefound", function () { follow(reg.installing); });
+        return reg.update();
+      }).catch(function () { /* the reload below still comes */ });
+    };
+    // Said once, when a reload didn't make the pair one build: the page then runs as it is.
+    var report = function (v) {
+      try {
+        fetch("/api/errors", { method: "POST", headers: { "Content-Type": "application/json" }, keepalive: true, cache: "no-store",
+          credentials: "same-origin", body: JSON.stringify({ kind: "error", name: "ShellMismatch",
+            message: "shell mismatch after reload: the page is " + page + ", its worker " + v,
+            file: location.origin + "/js/fresh-app.js", line: 1, col: 1, place: location.pathname + location.hash, version: page }) })
+          .catch(function () { /* a report must never be the next error */ });
+      } catch (e) { /* a report must never be the next error */ }
+    };
+    // A worker of another build: one reload per build per tab, the new worker asked to take over first.
+    var mismatch = function (v) {
+      var key = "wgp.shell.reload", done = "";
+      try { done = sessionStorage.getItem(key) || ""; } catch (e) { done = page; }
+      settled = true;
+      if (done === page || navigator.onLine === false) {
+        if (done === page) report(v);
+        tell(sw.controller, page);
+        go();
+        return;
+      }
+      try { sessionStorage.setItem(key, page); } catch (e) { tell(sw.controller, page); go(); return; }
+      updating();
+      sw.addEventListener("controllerchange", reload);
+      takeOver();
+      setTimeout(reload, WAIT_MS);   // the one reload, taken over or not
+    };
+    var ch = new MessageChannel();
+    ch.port1.onmessage = function (e) {
+      var v = String((e.data && e.data.version) || "");
+      var n = +v.replace(/^v/, "");
+      // (An answer that comes after the wait began still starts the app: it was only slow.)
+      if (settled) return;
+      if (!(n >= 60)) { wait(); return; }
+      if (!page || v === page) { settled = true; mark(); tell(sw.controller, page); go(); return; }
+      mismatch(v);
+    };
+    try { sw.controller.postMessage({ type: "app/version" }, [ch.port2]); } catch (e) { wait(); }
+    // A worker that says nothing (one older than the question) is an old one.
+    setTimeout(function () { if (!settled) wait(); }, 1500);
+  });
+
+  // The worker answers a page's modules from the page's own build's cache (sw.js shellFor()), once the page has said
+  // which build it is. Said as it starts, and again to a worker that takes over while it is open.
+  function tell(worker, build) {
+    try { if (worker && build) worker.postMessage({ type: "app/page-build", build: build }); } catch (e) { /* its modules then come from the current build, as before */ }
+  }
+
+  // THE TAKEOVER WHEN HIDDEN. A new worker waits until it is asked (sw.js). A running page asks it at the one moment
+  // nobody is using it: hidden (the app switched away, the screen locked), online, with nothing unsent (no sheet open, no
+  // field focused or holding typed words), and then loads again, on the new build. A page that ANOTHER tab's takeover
+  // moved to a worker of another build loads again the same way. Once per build per tab (sessionStorage): no loop.
+  function later(sw, page) {
+    var due = "";
+    var busy = function () {
+      if (document.querySelector('[role="dialog"][aria-modal="true"]')) return true;
+      var a = document.activeElement;
+      if (a && (a.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(a.tagName))) return true;
+      var fields = document.querySelectorAll("input, textarea");
+      for (var i = 0; i < fields.length; i++) {
+        if (/^(hidden|checkbox|radio|button|submit|reset|file|range|color|image)$/i.test(fields[i].type || "")) continue;
+        if (fields[i].value !== fields[i].defaultValue) return true;
+      }
+      return false;
+    };
+    var once = function (build) {
+      try {
+        if (sessionStorage.getItem("wgp.shell.hidden") === build) return false;
+        sessionStorage.setItem("wgp.shell.hidden", build);
+        return true;
+      } catch (e) { return false; }
+    };
+    var buildOf = function (w) {
+      return new Promise(function (answer) {
+        if (!w) return answer("");
+        var ch = new MessageChannel(), t = setTimeout(function () { answer(""); }, 1500);
+        ch.port1.onmessage = function (e) { clearTimeout(t); answer(String((e.data && e.data.version) || "")); };
+        try { w.postMessage({ type: "app/version" }, [ch.port2]); } catch (e) { clearTimeout(t); answer(""); }
+      });
+    };
+    sw.addEventListener("controllerchange", function () {
+      tell(sw.controller, page);
+      buildOf(sw.controller).then(function (v) { if (v && page && v !== page) due = v; });
+    });
+    // A takeover asked for on a hide is only counted once it is seen (the controller changes, and the page loads again):
+    // until then, and for 10 s at most, a hide doesn't ask twice; after that, the next hide asks again. (Recorded at the
+    // asking, as it was, a takeover that didn't follow was never asked for again in that tab: the update then waited
+    // for the next launch.)
+    var asked = "", armed = false;
+    document.addEventListener("visibilitychange", function () {
+      if (document.visibilityState !== "hidden" || navigator.onLine === false || busy()) return;
+      if (due) { if (once(due)) location.reload(); return; }
+      sw.getRegistration().then(function (reg) {
+        var next = reg && reg.waiting;
+        if (!next) return;
+        return buildOf(next).then(function (v) {
+          if (!v || busy() || asked === v) return;
+          asked = v;
+          setTimeout(function () { if (asked === v) asked = ""; }, 10000);
+          // The takeover asked for here loads the page again only while it is still hidden with nothing unsent. A takeover
+          // that comes late (the old worker kept running by another tab's request in the instant it was stopped, and
+          // taken over only once it went idle) can come after the person is back: never under their hands then. The
+          // controllerchange listener above has set `due`, so the next hide loads it again, once (or the next launch).
+          if (!armed) { armed = true; sw.addEventListener("controllerchange", function () { if (document.visibilityState === "hidden" && !busy()) location.reload(); }); }
+          next.postMessage({ type: "app/skip-waiting" });
+        });
+      }).catch(function () { /* asked again the next time it is hidden */ });
+    });
+  }
+})();
+</script>
+<script>if (window.freshApp) freshApp(function () { return import("/js/report-page.js"); }).catch(function () { document.getElementById('rp-failed').hidden = false; });</script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bryansk|RU||9i|43z|2nc|3ao|Brjansk;Brjansko;Briańsk;Breansk;Brianski
+Bryanka|UA||98|3qr|2zf|cg|Brianka;Brjanka
+Bryukhovetskaya|RU||9i|3j8|30c|67|Brjukhovetskaja
+Breznik|BG||9v|3aq|1rn|14|Brjeznik;Bresnik;Bryeznik
+Bregovo|BG||9v|3en|1qw|t|Bregowo;Brjegovo;Bryegovo;Bryagovo
+Brezovo|BG||9v|39n|1xo|j|Brezowo;Bresowo;Brjesovo;Bryezovo

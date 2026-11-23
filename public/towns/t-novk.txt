@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Newcastle|AU||8l|-2jh|bpm|3x8|Novkastelo;Niukaslas;Niukasel;Nyukasl
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Newcastle|IE|Leinster|8z|442|-i2|r|An Caisleán Nua;Novkastelo
+Novki|RU||9i|4ck|365|g|Noviki

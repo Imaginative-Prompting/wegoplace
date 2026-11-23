@@ -1,0 +1,39 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lausanne|CH||a7|3l8|if|12n|Lausana;Laŭzano;Losanna;Lozanna;Lausonium;Lozan;Losena;Lozana
+Lozova|UA||98|3rt|2sv|f0|Losowa;Łozowa;Losowaja
+Giżycko|PL||a5|464|1og|8c|Gižicko;Lėcius;Lötzen;Lözen
+Loznica|RS||8q|3fp|1hg|5f
+Lozuvatka|UA|Dnipropetrovsk|98|3pi|2kg|1s|Lozovatka
+Lozen|BG||9v|3ac|1t8|1r
+Lozivskyi|UA|Donetsk|98|3pe|2ws|1h|Lozivs’kyy;Lozovskiy
+Lozivskyi|UA|Luhansk|98|3qw|300|1c|Lozivs’kyy;Lozovskiy
+Lazdijai|LT||a3|46n|1tb|10|Lazdiji;Łoździeje;Lazdiyay;Loz’dzeye
+Lozorno|SK||8s|3q9|1bc|w
+Loznitsa|BG||9v|3ch|21w|u|Lozitsa
+Loza de los Padres|MX||41|1mj|-7u3|t
+Lozovo|MK||9u|382|1ov|s
+Loza|RU||9i|4ca|2y5|s
+Lozanne|FR||9k|3je|d0|n|Lozane
+Lozhki|RU||9i|4bt|2v3|l|Lozjki;Loshki
+Lozzo Atestino|IT||9o|3ht|w8|l
+Lozove|UA|Crimea|9t|3gq|2mw|j|Lozovoye;Eski Orda;Eski-Orda
+Lozianskyi|UA||98|3qv|1t7|g|Lozyans’kyy
+Lozove|UA|Khmelnytskyi|98|3sx|23u|f
+Lozzo di Cadore|IT||9o|3l5|yk|f
+Lozan|TR||94|32k|3aj|e
+Loza|UA||98|3q5|1s0|c
+Lozza|IT||9o|3j6|om|c
+Lozna|RO|Sălaj County|8u|3ng|1t7|c
+Lozno-Oleksandrivka|UA||98|3ug|2zm|b|Lozno-Aleksandrovka
+Lozuvatka|UA|Dnipropetrovsk|98|3qn|2m4|b|Lozovatka
+Loza de Barrera|MX||41|1ma|-7u1|b
+Lozinghem|FR||9k|3wc|6y|b
+Lozna|RO|Botoșani County|8u|3p7|210|a
+Lozovyi Yar|UA||98|3vs|2gw|9|Lozovyy Yar;Lozovoy Yar
+Lozzolo|IT||9o|3iq|n4|7
+Lozy|UA||98|3un|1zm|7
+Lož|SI||9a|3j0|147|6
+Lozenets|BG||9v|399|259|6
+Lozoya|ES||9d|35r|-aj|6
+Lozonlé|CI||0|jw|-l5|5
+Loznani|MK||9u|36h|1ng|5

@@ -1,0 +1,82 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Delhi|IN||6t|27l|5yj|2d56|Delis;Deli;Dillí;Dellium;Šáhdžahanabád;Déhli;Dilhi;Dähli
+Dehradun|IN||6t|2c8|60r|411|Dehra Dun;Deharaduna
+The Hague|NL||8m|40o|by|3nr|Den Haag;La Haye;La Haya;Hago;Haag;La Haia;De Haach;An Háig;A Haia;L'Aia;Haga;D'n Haog;Hag;Lahey;Hague
+Dehiwala-Mount Lavinia|LK||68|j0|65v|1p2|Dehivala-Maunt Lavinija;Mount Lavinia;Dehivala-Maunt Lavinia;Mount Laviniya;Mount Lavania;Mount Lavina
+Madhurampur Dehri|IN||6t|1xd|6hw|124
+Dehui|CN||7i|3fq|9p5|u8|Te-hui
+Denov|UZ||7g|2yb|58m|lr|Dehnav;Denow;Dehnan
+Den Helder|NL||8m|434|d8|gk|Le Helder;De Helder;Helder;Der Helder
+Dehdasht|IR||7o|2dj|3wh|fu|Dehdast
+Dehu Road|IN||6t|1fw|5ot|dm
+Dehlorān|IR||7o|2it|3nb|cs|Deh Lūrān;Deh Lovān
+Dehāqān|IR||7o|2gq|3zh|4z
+Dehrūd|IR||7o|2sz|4lq|3b|Deh Rūd
+De Haan|BE||8t|3yf|8f|3a|D'n Aone;D'n Oane;Den Haan
+Dehri|IN||6t|1qz|5ts|2e
+Dahi|IN||6t|1pf|5r7|2d|Dehi
+Dehaq|IR||7o|2jy|3xk|2b
+Dehari|IN||6t|1jz|5m2|27
+Deh Qā’ed|IR||7o|29e|3y7|23
+Dehua|CN||7i|21j|8e2|1w
+Deh Pahn|IR||7o|2nf|3my|1t
+De Heeg|NL||8m|3x6|fw|1r
+Dehu|IN||6t|1g0|5ox|1p
+Dehdez|IR||7o|2g3|3vp|1j|Deh Diz;Deh-e Dez;Dehdaz
+Deh-e Moḩsen|IR||7o|2kv|3q9|1g
+Dehkūyeh|IR||7o|25d|476|19|Deh Kooyeh;Dehkūh
+Deh Cheshmeh|IR||7o|2hj|3wf|19|Dah Cheshmeh
+Dehiba|TN||1e|2gx|tq|17
+Deh Now|IR|Razavi Khorasan|7o|2px|4hy|17
+Deh-e Nowmīlās-e Soflá|IR||7o|2fg|3x4|15
+Deh-e Sorkh|IR||7o|2i1|3zi|11|Deh Surkh
+Deh Shādābād-e Bālā|IR||7o|2qx|3y1|11
+Dehesa|MX||41|1du|-7bw|z
+Dehram|IR||7o|275|41a|z
+Dehkadeh|IR||7o|2fe|3qm|u
+Deh Mīr|IR||7o|23j|4nu|s|Deh-e Mīr
+Deh Şaḩrā|IR||7o|2fj|3xz|r
+Dehang|CN||7i|26n|8h0|q
+De Heeze|NL||8m|410|gj|p
+Dehalak’ Kebīr|ER||4|17k|336|p|Grande Dahlac;Dahlak Kebīr
+De Hagen|NL||8m|40f|e6|o
+De Hoven|NL||8m|415|h2|o
+Dehrn|DE||8r|3w2|mi|n
+Deh Kheyr|IR||7o|2qp|3yz|m
+Dehnow|IR||7o|249|42i|j
+Deh-e Namak|IR||7o|2n4|3uj|i
+Deh Pīsh-e Soflá|IR||7o|27c|4gg|h
+Dechtice|SK||8s|3qv|1cw|h|Dehtice
+Deheshk|IR|South Khorasan Province|7o|2m7|4jg|g|Dehishk
+Déhouépleu|CI||0|jq|-mj|g|Douépleu
+Dehlaq|IR||7o|2na|3qk|g
+De Haven|NL||8m|411|gl|g
+Déhouninké|CI||0|d7|-kj|e
+Dzięgielów|PL||a5|3u4|1fy|d|Děhylov
+Dehshīr|IR||7o|2fe|45b|d
+Deh Ḩasan|IR||7o|2qo|3xz|d
+Deh Now|IR|Fars|7o|24o|43d|d
+Deheshk|IR|Razavi Khorasan|7o|2te|4l8|c
+Deh-e Torkaman|IR||7o|2r4|3zd|b
+Dehmollā|IR||7o|2sr|484|b|Deh-e Mollā;Deh-i-Mulla
+Dehlor|IR||7o|2nl|3p1|a|Dehlar;Deh Lor
+Dehpāgāh|IR||7o|2bn|40o|a|Dehpaka;Deh Pāgā
+Deh ‘Abbās|IR||7o|2qs|3yg|a|Den ‘Abbas;Deh-e ‘Abbās
+Deh-e Shīb|IR||7o|28t|42p|9|Deh Shīb
+Deh-e ‘Arab|IR||7o|2e7|43c|9
+Den Hoorn|NL||8m|43b|d7|9|De Hoorn
+Deh Mūsá|IR||7o|2nl|3ps|9|Deh Mūsī;Deh Moosa
+Deh Barm|IR||7o|287|41u|8
+Deh Shams-e Bozorg|IR||7o|2ur|3hl|8
+De Horst|NL||8m|3zt|gl|8
+Hemrik|NL||8m|43b|h2|7|De Himrik
+Deh Now|IR|Tehran|7o|2qn|3yr|7|Deh-e Now;Dih Now
+Deh Kīān|IR||7o|2g5|3vk|7
+Déhé|CI||0|kc|-n7|7
+Děhylov|CZ||9m|3uj|1eg|6
+Dehaq-e Fereydan|IR||7o|2jf|3vp|6
+Deh Sar|IR||7o|2vr|3uq|6
+Deh-e Māsīn|IR||7o|2q4|3zl|6|Deh-e Pāsīn
+Dehesas de Guadix|ES||9d|2wf|-8m|6
+Dehlitz|DE||8r|3yb|xe|5
+Deh-e Shāţer|IR||7o|2ni|3qv|5|Dom-e Shāţer;Deh Shāţer;Deh-e Shāker

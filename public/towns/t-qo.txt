@@ -1,0 +1,61 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Konya|TR||94|2x7|2i8|b2b|Konjao;Iconium;Iconio;Qonya;Qonye;Konija;Konja;Koʻniya;Qonia;Konia
+Kazan|RU||9i|4az|3sg|9lf|Qazan;Kaasan;Qozon;Casanum;Cazã;Kasã;Kasan
+Qom|IR||7o|2o8|3xc|6y0|Kom;Qûm;Kum;Ĥomo;Kumas;Gōymān
+Qods|IR||7o|2r8|3xz|2e0
+Qo‘qon|UZ||7m|34l|5h2|205|Kokand;Kokandas;Qŭqon
+Horlivka|UA||98|3q6|2xm|1um|Horliwka;Qorlivka;Gorlivka;Gorłówka;Górlovka
+Kostanay|KZ||7c|43t|4wq|1mc|Qostanay;Kustanay;Nikolayevsk;Qostanai;Kostanái;Kostanajus;Kostanaj;Qoʻstanay;Kustanaj;Qostanaj;Kustanai
+Kunduz|AF||6o|2u1|5ba|18z|Kundus;Qunduz;Konduz;Kondôz;Qondūz
+Mīāndoāb|IR||7o|2up|3k3|11c|Qoşaçay;Miyāndūāb;Mīāndūāb;Mīāndow Āb;Mīyāndoāb;Meyāndoāb;Mīāndowāb
+Kara|TG||w|qj|3b|sy|Qora
+Qonce|ZA||o|-2jc|243|pv
+Qorveh|IR||7o|2pp|3ot|og|Qurveh
+Qūş|EG||c|200|2j0|ng|Qous
+Karakol|KG||65|3a1|61r|ng|Karakul;Qoraqoʻl;Qarakol
+Qarasu|CN||7t|3es|67e|ju|Qorghas
+Qoryooley|SO||14|4z|3fp|ed|Qoryolay
+Konayev|KZ||5s|3dv|5y2|bq|Konaev;Qonayev
+Qorof|ET||2|ia|3kz|ab|Koraf;Corof;Qorrof;Corrof;Gorrof;Gorof
+Al Qunayţirah|SY||69|2k1|2ri|a1|Quneitra;Kunejtra;Kuneitra;Kuneytire;Qinêtra;Qouneitra;Cuneitre;Qnaïtra;El Quneitra;El Kuneitra;Qunayţirah
+Qorasuv|UZ||7m|355|5mh|96|Il’ichevsk;Qorasuw;Korasuv
+Quţūr|EG||c|2e1|2e0|8w|Qotur
+Gorodets|RU||9i|4dd|3cr|8u|Gorodez;Gorodec;Qorodets;Gorodeț
+Kara Suu|KG||65|352|5mf|7e|Qora-Suu;Kara-Suu;Kara-Su
+Qo‘rg‘ontepa|UZ||7m|355|5m4|77|Qŭrghontepa
+Gawler|AU|South Australia|8b|-2o4|apf|5k|Goler;Qoler
+Qo’shko’pir|UZ||7g|37d|4nn|4y|Qŭshkŭpir
+Gobu|AZ||61|348|3u3|4w|Qobu;Kobu
+Kochkor-Ata|KG||65|360|5lc|4s|Qo‘chqor-Ota;Kotschkor-Ata;Kočkor Ata;Kotchkor-Ata;Kočkor-Ata;Kotškorata;Koczkorata
+Qormi|MT||9e|2ro|147|4o|Kormis
+Govlar|AZ||61|35r|3j1|4c|Qovlar;Kovlar
+Qobustan|AZ||61|33c|3t9|3q|Duvannı;Kobustan;Gobustan;Duvannyy;Duvanny
+Gornozavodsk|RU|Perm Krai|7z|4i5|4i1|3k|Gornosawodsk;Qornozavodsk;Gornozawodsk;Gornozavodszk;Gornazavodsk
+Qorqī-ye Soflá|IR||7o|2t3|4lr|3c
+Qongkur|CN||7t|3po|6pz|3b|Chongqur;Chonghu'er
+Qoroq|IR|Māzandarān|7o|2tn|43d|2z
+Gobustan|AZ||61|34l|3rx|2t|Qobustan
+Qorveh-ye Dargazīn|IR||7o|2q3|3se|2n
+Qorovulbozor|UZ||7g|31q|4zz|2k|Karaulbazaras;Karaulbazar;Qarovulbazar;Karaulpazar;Qorowulbozor
+Qoţbābād|IR||7o|27k|450|23|Kowtbābād;Qutbābād
+Qoroq|IR|Golestan|7o|2uh|47z|1v
+Kūhpāyeh|IR||7o|2iw|41o|1j|Qohpayeh
+Kostik|CN||7t|3or|6ql|17|Qostiq
+Polī Ḩājjī|IR||7o|2vj|49b|v|Qolī Ḩājjī
+Getap|AM|Vayots Dzor|80|32g|3hv|o|Qoytur;Koytur
+Qogham|KZ||5s|3az|59o|n
+Gorbatov|RU||9i|4bx|3bm|j|Gorbatow;Qorbatov
+Sonyachna Dolyna|UA||9t|3gn|2pj|f|Qoz;Soniachna Dolyna
+Qūrūq|IR|West Azerbaijan|7o|2yu|3gt|f|Qorūq
+Qorqorī|IR||7o|2ev|4rg|d|Qorgorī
+Qorūq|IR||7o|2x3|3s0|c|Qoroq
+Ttujur|AM||80|34x|3hw|a|T’t’ujur;Qoturbulaq;Ttucur;Tucur
+Qoltūq|IR||7o|2te|3pj|a|Qotūq;Qaltūq
+Qohūrd-e ‘Olyā|IR||7o|2qg|3pj|9|Qohord-e ‘Olyā
+Qoranit|IL||6n|2j8|2px|9|Koranit
+Qomīābād|IR||7o|2ql|3z4|8
+Qom Tappeh|IR||7o|2y6|3jt|8|Oom Tappeh;Qūm Tapeh;Qūm Tappeh
+Qoţlū|IR||7o|2w7|3he|7
+Qojar|IR||7o|2rb|3mn|7|Qojer;Qojūr
+Qarābā|IR||7o|2w2|3sv|6|Qorābā’
+Qolī Kandī|IR||7o|2vc|3k8|5

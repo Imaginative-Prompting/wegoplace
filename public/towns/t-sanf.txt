@@ -1,0 +1,340 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+San Francisco|US||3p|2wx|-9g2|6dv|San-Francisko;Frisco;Sanfrancisko;San Frantzisko;Kapalakiko;Franciscopolis;San Fransiskas;São Francisco;San Fransisko;San Franciscu;Khiu-kîm-sân;San-Fransisko;San Francisko;San Fransisco
+San Francisco Coacalco|MX||41|1ij|-7na|258|Coacalco de Berriozával;Coacalco;Coacalco de Berriozábal
+San Fernando|PH|Central Luzon|71|15r|9b8|1xs|Santo Rosario;Urbs Sancti Ferdinandi
+San Fernando de Apure|VE||2c|lx|-57f|1ro|San Fernando;San-Fernando-de-Apure;San Fernando Apure
+San Felipe|VE||2c|sq|-5ay|1lb|San-Felipe
+San Francisco de Macorís|DO||4v|1hl|-5f5|yo
+San Francisco De Borja|PE||3o|-xl|-5xw|t7
+San Fernando|ES||9d|2tc|-h8|qg|San-Fernando;San Fernanando
+San Fernando|PH|Ilocos|71|1a6|9a8|n2|San Fernandas
+San Francisco|PH|Caraga|71|nq|9pv|m5
+San Francisco del Rincón|MX||41|1me|-7uy|jr
+San Fernando|PE||3o|-nc|-5r2|iu
+San Francisco Tesistán|MX||41|1ls|-7zg|hc
+San Felipe|CL||4u|-2iz|-5gh|gh
+San Francisco|AR||1n|-2fa|-4sg|gf|San Fransiskas;San Fransisko
+Sanford|US|Florida|48|280|-69r|g5
+San Francisco El Alto|GT||32|15i|-720|g3
+San Francisco|CR||2i|rr|-6hp|fj
+San Fernando|TT||4k|sk|-4qr|fe
+São Francisco do Sul|BR||4w|-20w|-3r4|en|San Francisco del Sur
+Sant Feliu de Llobregat|ES||9d|36y|5p|bx|Sant Feliu;San Feliú de Llobregat
+San Fernando de Henares|ES||9d|34a|-9t|az|San-Fernando de Henaro
+San Fernando|MX|Tamaulipas|44|1x1|-7kn|84
+Sanford|US|North Carolina|48|2qk|-63y|83
+San Felipe|MX|Guanajuato|41|1no|-7t6|7x
+San Francisco Acuautla|MX||41|1hr|-7mm|7s
+San Felipe|CR||2i|ri|-6hn|6y
+San Fernando|US||3p|2n8|-950|6x|São Fernando;San-Fernando
+San Francisco Coaxusco|MX||41|1hj|-7oq|6x|San Francisco Cuaxusco;San Francisco Cuaxuxco
+San Francisco de Yojoa|HN||56|15p|-6sd|6v|San Francisco Yojoa
+San Felipe|GT||32|14m|-72f|6s
+San Fernando|PH|Central Visayas|71|s8|9jn|6l
+San Fermín|ES||9d|345|-a9|6k
+San Francisco Zapotitlán|GT||32|14j|-728|69
+Sant Feliu de Guíxols|ES||9d|382|8f|64|San Felíu de Guixols
+Sanford|US|Maine|48|3co|-5gl|5t
+San Francisco|PH|Central Luzon|71|16o|9bo|5g
+San Ferdinando|IT|Campania|9o|35f|13l|54
+San Fernando de Monte Cristi|DO||4v|1j5|-5j1|4q|Monte Cristo;Monte-Christi;Monte Cristy;Monte Cristi
+San Felipe|MX|Baja California|58|2e7|-8v0|4n|Sanfelipe
+San Felice A Cancello|IT||9o|35y|149|4m
+San Francisco Tlalcilalcalpan|MX||41|1hl|-7p5|4l|San Francisco Tlalcilalcalpa
+Aurora|PH|Calabarzon|71|113|9gc|4i|San Francisco
+San Francisco|SV||2u|121|-6sq|4i|San Fransisko
+San Francisco de los Romo|MX||41|1pb|-7w3|4h
+San Ferdinando di Puglia|IT||9o|36q|18n|3t
+San Francisco de Mostazal|CL||4u|-2me|-5gf|3c
+San Fernando de Atabapo|VE||2c|b9|-582|3b|San Fernando Atabapo
+San Francisco Ocotlán|MX||41|1h5|-7l0|38
+San Francisco Tecoxpa|MX||41|1hb|-7n1|37
+San Francisco Telixtlahuaca|MX||41|1c2|-7h6|2y
+San Francisco Tetlanohcan|MX||41|1hi|-7ko|2r|San Francisco Tetlanohca
+San Francisco del Valle|HN||56|144|-6v4|2q
+San Francisco de Coray|HN||56|11y|-6r5|2p|San Francisco Coray
+San Fernando|MX|Chiapas|41|1av|-76x|2p
+San Felipe Tlalmimilolpan|MX||41|1hg|-7os|2n|San Felipe Tlamimiolpan;San Felipe Tlamimilolpan
+San Francisco|HN|Lempira Department|56|138|-6th|2j
+San Francisco|PH|Central Visayas|71|tl|9li|2i
+San Francisco Chimalpa|MX||41|1i0|-7ny|2i|San Francisco Chimapla
+San Francisco Zacacalco|MX||41|1jd|-7my|22
+San Felice sul Panaro|IT||9o|3gk|uy|20
+San Francisco Pujiltic|MX||41|198|-74t|1z|Pujiltic
+San Francisco de Ojuera|HN||56|14z|-6sy|1y|San Francisco Ojuera
+San Francisco Tepeolulco|MX||41|1j3|-7pr|1y
+San Felipe Orizatlán|MX||41|1mt|-7lx|1v
+San Felice Circeo|IT||9o|36k|10d|1t|Circeii;Kerkaiai
+San Fernando|PH|Bicol Region|71|11p|9i3|1r
+San Fernando|PH|Bicol Region|71|yo|9js|1q
+San Felipe Jalapa de Díaz|MX||41|1e7|-7g6|1q|Jalapa de Díaz;San Felipe Jalpa de Diaz
+San Francisco de la Paz|HN||56|15e|-6ng|1i|San Francisco la Paz
+San Francisco Ixhuatan|MX||41|19f|-7ag|1i|Ixhuatán
+San Francisco de Asís|MX|Jalisco|41|1l8|-7ww|1h
+San Francisco|PH|Central Visayas|71|s8|9lb|1e
+Angamacutiro de la Unión|MX||41|1jz|-7uj|1e|San Francisco
+San Francisco Magú|MX||41|1ip|-7o0|1e
+San Francisco Pichátaro|MX||41|1id|-7ut|1e
+San Felipe Usila|MX||41|1dp|-7g5|1c|San Felipe;Usila
+San Francisco del Mar|MX||41|19e|-7ak|1b
+San Felipe Coamango|MX||41|1j6|-7op|1a|San Felipe Cuamango
+San Felipe|MX|Durango|44|1zd|-7z6|1a
+San Felipe Aztatán|MX||3x|1q6|-84u|19
+San Francisco de Laishi|AR||1n|-20w|-4iv|18
+San Francesco al Campo|IT||9o|3hn|l9|18|San Fransesch
+San Felipe del Progreso|MX||41|1ir|-7pn|18
+San Francisco|CO|Putumayo Department|27|3a|-5xk|18
+San Francisco Soyaniquilpan|MX||41|1jl|-7oh|17
+San Francisco del Oro|MX||2g|22m|-861|16|El Oro
+San Fermo della Battaglia|IT||9o|3j9|p5|16|Vergosia;San Fermo
+San Francisco Tepeyecac|MX||41|1hh|-7lg|15
+San Francisco del Mar Viejo|MX||41|193|-7av|14
+San Felipe Teotitlán|MX||41|1j0|-7m6|14|San FelipeTeotitlán
+San Francisco|PH|Central Luzon|71|15k|9av|14
+San Francisco|GT||32|1ao|-6xu|14
+San Fratello|IT||9o|2xm|14k|13
+San Ferdinando|IT|Calabria|9o|2yw|188|13
+San Fernando|NI||3s|120|-6nr|13
+San Floriano-Olmi|IT||9o|3iv|y9|11
+San Felipe Old|PH||71|172|9bv|11|San Felipe
+San Francisco Xochicuautla|MX||41|1ht|-7o9|10|San Francisco Xochicuaulta
+San Francisco Ayotuzco|MX||41|1ht|-7o0|z
+San Francisco Tenopalco|MX||41|1ir|-7nc|y
+San Francisco Putla|MX||41|1h5|-7os|y
+San Francisco Mazapa|MX||41|1ip|-7mj|y
+San Francisco|MX|Veracruz|41|1l3|-7k8|y
+San Francisco Lachigoló|MX||41|1ba|-7gc|x
+San Francisco Tutla|MX||41|1bf|-7gj|x
+San Felipe Santiago|MX||41|1hv|-7q3|x
+San Francisco del Monte de Oro|AR||1u|-2ik|-53p|x|San Fransisko del Monte de Oro
+San Felipe|PA||4g|ov|-64y|x
+Tepeyanco|MX||41|1hh|-7kv|w|San Francisco
+San Francisco Tepexoxuca|MX||41|1gy|-7oj|w|San Francisco Tepexoxica
+San Fernando|PH|Western Visayas|71|tr|9hv|w
+San Francisco|MX|México|41|1gn|-7ot|w
+San Felipe|PH|Bicol Region|71|12y|9hh|v
+San Felice del Benaco|IT||9o|3im|tb|v
+San Francisco|MX|Puebla|41|1iy|-7id|v
+San Francisco|PH|Calabarzon|71|12b|9fp|u
+San Francisco|PH|Bicol Region|71|108|9ju|t
+San Francisco|PH|Western Visayas|71|vg|9f1|t
+San Fior di Sopra|IT||9o|3jk|yc|t|San Fior
+San Francesco|IT||9o|3dl|vt|s
+San Francisco|HN|Atlántida Department|56|17h|-6pt|s
+San Francisco|CO|Cundinamarca|27|du|-5qd|s|San Fracisco
+San Francisco|CO|Antioquia|27|h0|-5v2|s
+San Felipe los Alzati (Colonia Nueva)|MX||41|1i5|-7qt|r
+San Francisco Cuautlancingo|MX||41|1gs|-7il|r|San Francisco Cuautlanzingo
+San Francisco|PH|Eastern Visayas|71|ry|9no|r
+San Francisco Curungueo|MX||41|1i2|-7qq|r|Curungueo;Curungeo
+Sant Francesc de Formentera|ES||9d|2zj|3z|r|San Francisco Javier;Sant Francesc
+San Francisco Cuapa|MX||41|1gz|-7l9|q|San Francisco Coapan
+San Francisco Independencia (Santa María Aserradero)|MX||41|1gz|-7in|q
+San Felipe|PH|Central Luzon|71|17z|9b0|q
+San Francisco|PH|Bicol Region|71|zc|9k7|p
+Sanfrè|IT||9o|3gb|lo|p
+San Francisco|PH|Calabarzon|71|12m|9ct|p
+San Francisco de Becerra|HN||56|14n|-6n6|o|San Francisco Becerra
+San Francisco (El Calvito)|MX||41|19c|-754|o
+San Felipe Pueblo|US||2p|2qf|-87p|o
+San Francisco de Cuapa|NI||3s|y3|-6l6|o|Cuapa
+San Francisco Mihualtepec|MX||41|1hg|-7q2|o
+San Fabian|PH||71|17c|9bv|n
+San Francisco de Durán|MX||41|1mc|-7ua|n|San Agustín;San Agustín del Mirasol
+San Felipe Tejalápam|MX||41|1bj|-7h1|n|San Felipe Tejalapan
+San Francisco|PH|Caraga|71|qh|9ol|n
+San Francisco Tetetla|MX||41|1h4|-7oo|n
+San Francisco Temetzontla|MX||41|1hr|-7l1|n
+Cesana Brianza|IT||9o|3ja|pu|m|Sezana;San Fermu
+San Francisco Chalchihuapan|MX||41|1ix|-7pa|m
+San Francisco|PH|Central Luzon|71|17f|9ak|m
+San Francisco|PH|Bicol Region|71|110|9jr|m
+San Francisco|MX|Baja California Sur|3x|24t|-8r2|m
+San Fernando|PH|Western Visayas|71|vu|9id|l
+San Francisco (Mata Clara)|MX||41|1g9|-7gr|l
+San Francisco Cozoaltepec|MX||41|17x|-7go|l
+San Felipe Cihualtepec|MX||41|1ck|-7cx|l|San Felipe Zihualtepec
+San Francisco Tlaltica|MX||41|1im|-7md|l
+San Francisco Zacapexpan|MX||41|1j8|-7j4|l
+San Fernando|PH|Cagayan Valley|71|19j|9ch|l
+San Francisco del Chañar|AR||1n|-2ar|-4xm|l|San Fransisko del Chanar;San Francisco de Chañar
+San Francisco Peribán|MX||41|1ic|-7wg|l|Peribán
+San Francisco (Baños de Agua Caliente)|MX||41|1mj|-7tv|k
+San Filippo del Mela|IT||9o|2y1|16f|k
+San Floriano|IT||9o|3ig|ub|k
+San Francisco Tlacuilohcan|MX||41|1hw|-7kr|k
+Sanfins|PT||99|35p|-np|k
+San Francisco Cheje|MX||41|1io|-7p3|j
+San Felipe Otlaltepec|MX||41|1f4|-7jz|j
+San Felipe|BZ|Orange Walk District|24|1dn|-6ul|j
+San Felipe de los Herreros|MX||41|1ii|-7vu|j
+San Francisco|PA|Veraguas Province|4g|me|-6a1|j
+San Francisco Uricho|MX||41|1id|-7uk|i|Uricho
+San Francisco|MX|Hidalgo|41|1me|-7ll|i
+San Francisco de la Palma|MX||41|1le|-7r8|i
+San Francisco|MX|Nayarit|21|1m2|-84t|i
+San Felipe Pueblo Nuevo|MX||41|1ix|-7p4|i
+San Francisco Zentlalpan|MX||41|1h7|-7mf|i|San Francisco Zentlapa
+San Felipe|MX|Yucatán|3z|1nw|-6t3|i
+San Francisco|PA|Veraguas Province|4g|mx|-68x|i
+San Francisco del Mezquital|MX||44|1t7|-820|h
+San Francisco|MX|Veracruz|41|1n5|-7k3|h
+San Félix|UY||45|-2hv|-4he|h
+San Francisco Cuayalab|MX||41|1od|-7m8|h
+San Francisco|MX|Hidalgo|41|1kv|-7p2|h
+San Francisco|MX|Guerrero|41|1b9|-7ns|h
+San Fedele Intelvi|IT||9o|3jp|p8|h
+San Francisco Javier|MX|Durango|44|1tx|-80z|h
+San Francisco de Horizonte (Horizonte)|MX||44|202|-7za|h
+San Fedele Superiore|IT||9o|3jp|p7|g
+San Félix Hidalgo|MX||41|1gi|-7lc|g|San Félix
+San Fiorano|IT||9o|3he|r0|g
+Saint-Florent|FR||9k|3ak|pu|g|San Fiurenzu
+San Fernando|CO||27|ps|-5r1|g
+San Francisco Grande|MX||3z|1li|-6tr|g|San Francisco
+San Fedele-Lusignano|IT||9o|3ed|mq|g
+San Francisco|MX|San Luis Potosí|41|1pb|-7pe|g
+San Francisco Atotonilco|MX||41|1k3|-7kn|g
+San Francisco Coatlán|MX||41|18y|-7gs|g
+San Francisco de Guzmán|MX||41|1ii|-7p5|g
+San Felipe Hidalgo|MX||41|1i3|-7ls|f
+San Fernando|MX|Veracruz|41|1er|-7bk|e
+San Francisco Tláloc|MX||41|1ht|-7lk|e
+San Francisco Oxtotilpan|MX||41|1h9|-7pi|e
+San Francisco de Paula|CU||36|1s2|-6cm|e
+San Francisco Ozomatlán|MX||41|1dt|-7ny|e
+San Francisco Oztutla|MX||41|1dw|-7mz|e|San Francisco Oxtutla;San Francisco Ostutla
+San Francisco de Rivas|MX||41|1ki|-7wx|e
+San Francisco|MX|San Luis Potosí|41|1p4|-7t0|e
+San Francisco Jaconá|MX||41|1by|-76f|d
+San Fili|IT||9o|31a|18u|d|Fanum Sancti Felicis;Santu Fili
+San Francisco Menéndez|SV||2u|12g|-6y2|d
+San Francisco|PE|Ucayali|3o|-n0|-5rc|d
+San Felice|IT|Lombardy|9o|3he|rz|c
+San Felipe de Híjar|MX||41|1m2|-82w|c
+Sanfront|IT||9o|3g1|kc|c|Sant Frònt;Fanum Sancti Frontiniani
+Suc-Tuc|MX||3z|1ir|-6y4|c|San Francisco Suc Tuc;Suc Tuc
+San Francisco la Unión|GT||32|15g|-72a|c
+San Francisco Javier|MX|Oaxaca|41|1bb|-7gu|c
+San Francisco de Arriba|MX||44|1zj|-7yk|c
+San Francisco de Borja|MX||2g|25i|-88c|c|San Francisco Borja
+San Fele|IT||9o|35e|176|b
+San Francisco de Tacuichamona|MX||3x|1vo|-89g|b
+San Felipe Tílpam|MX||41|1ej|-7gb|b
+San Félix Rijo|MX||41|1fq|-7lr|b
+San Felipe Sultepec|MX||41|1if|-7ly|b
+San Francisco Solís|MX||41|1jd|-7px|b
+San Felipe Tizapa|MX||41|16g|-759|b
+San Francisco Logueche|MX||41|19f|-7fq|b|Loqueche;San Francisco;San Francisco Loqueche
+San Francisco Sola|MX||41|19w|-7hd|b
+San Francisco Nacaxtle|MX||41|1h3|-7gc|b
+San Francisco de Cones|HN||56|14c|-6uy|b
+San Francisco|MX|Guanajuato|41|1o3|-7sq|b
+San Félix|PA||4g|n1|-6bf|b
+San Francisco|MX|San Luis Potosí|41|1n4|-7mp|a
+San Francisco Kobén|MX||3z|1jc|-6z6|a
+San Francisco Loxicha|MX||41|187|-7gd|a
+San Felipe Quiriceo|MX||41|1ks|-7td|a
+San Fernando|HN||56|14s|-6vk|a
+San Francisco Cuexcontzi|MX||41|1ho|-7jf|a|San Francisco Cuexcontl
+San Francisco Xochiteopan|MX||41|1g8|-7ly|a|San Francisco Xochitiopan;Xochiteopan;Xochitiopan
+San Felipe|CO||27|5b|-56b|a
+San Filippo Superiore|IT||9o|2y1|172|9
+San Felipe|MX|Coahuila|44|1zc|-7y2|9
+San Fernando|MX|México|41|1go|-7p4|9
+San Fernando|MX|Sinaloa|3x|1z0|-8dp|9
+San Francisco Mitepec|MX||41|1i0|-7lh|9|Mitepec;Miltepec
+San Felipe Zacatepec|MX||41|1j4|-7me|9
+San Feliciano|IT||9o|3bs|xt|9
+San Felipe Lachilló|MX||41|18h|-7f4|9|San Felipe Lachilo
+San Francisco Yovego|MX||41|1cr|-7fa|9
+San Francisco|MX|Jalisco|41|1is|-7yn|9
+Mezquitán|MX||41|1j2|-81t|9|San Francisco de Abajo
+San Francisco|HN|Choluteca Department|56|115|-6pe|9
+San Francisco Ozolotepec|MX||41|18q|-7fa|9|San Francisco;Ozolotepec
+San Francisco|MX|México|41|1gj|-7pl|9
+San Francisco del Río|MX||41|1ip|-7ph|9
+San Fior di Sotto|IT||9o|3ji|ye|9
+Sanford|US|Colorado|2p|2vi|-866|9
+San Felipe|MX|San Luis Potosí|41|1p2|-7mt|9
+Sanford|US|Michigan|2q|3db|-6ie|8
+San Francisco Puerta Grande|MX||41|1m0|-7tw|8
+San Francisco de Asís|MX|México|41|1fr|-7qk|8|San Francisco
+San Francisco Totoltepec|MX||41|1hp|-7ok|8
+San Francisco del Maguey|MX||41|19v|-7l2|8
+San Felipe de la Rosa|MX||41|1i5|-7px|8
+San Francisco del Progreso|MX|Puebla|41|1it|-7j5|8
+San Felice|IT|Veneto|9o|3ia|un|8
+San Francisquito|MX||3x|1sk|-875|8
+San Francisco Jayacaxtepec|MX||41|1bu|-7el|8
+San Francisco Tenexyecac|MX||41|1hk|-7l4|8
+San Felipe Tenextepec|MX||41|1gv|-7jv|8
+San Francisco Tepango|MX||41|1gc|-7m6|8
+San Francisco Shaxní Ejido|MX||41|1jr|-7ps|8
+San Felipe Tepemaxalco|MX||41|1g2|-7lz|8
+San Felipe|US||2f|2ar|-7ey|8
+San Francisco Yosocuta|MX||41|1db|-7jq|8
+San Fatucchio|IT||9o|3bo|xh|8|Sanfatucchio
+San Francisco Solo|MX||41|1is|-7q1|8
+San Felipe|MX|Zacatecas|41|1u3|-7yf|8
+San Francisco|MX|Quintana Roo|2b|1lu|-6r2|8
+San Francisco Chindúa|MX||41|1cf|-7ib|8
+San Francisco (Oyozontle)|MX||41|1ex|-7e9|8
+San Filippo-Battendieri|IT||9o|31q|18d|8
+San Francisco de las Tablas|MX||41|1ix|-7oh|8
+San Francisco|MX|Querétaro|41|1l6|-7q5|7
+San Francisco Tecajique|MX||41|1k1|-7mv|7|Tecajique;San Francisco Tecojique
+San Francisco Tlapancingo|MX||41|1ck|-7kz|7
+San Francisco Epunguio|MX||41|1iq|-7r0|7|Epungio;Epunguio
+San Félix Almazán|MX||41|1gg|-7lb|7
+San Felipe Primero|MX||2b|1j1|-6ur|7
+San Felipe|MX|Oaxaca|41|1dk|-7eh|7
+San Francisco|MX|Querétaro|41|1kj|-7po|7
+San Felipe|MX|México|41|1gl|-7ot|7
+San Fernando Coapechapa|MX||41|1kl|-7j6|7
+San Francisco Tutepetongo|MX||41|1d8|-7h4|7
+San Fernando de Guaymas|MX||37|25p|-8jj|7
+San Felipe (El Chilarillo)|MX||41|1l0|-7va|7|San Felipe de Chilarillo
+San Francisco de Asís|MX|Chiapas|41|18g|-73m|7
+San Francisco|MX|San Luis Potosí|41|1rw|-7v5|7
+San Francisco Buenavista|MX||41|1gv|-7js|7
+San Francisco Manzanilla|MX||3z|1n1|-6va|7|San Francisco
+San Francisco|PA|Chiriquí Province|4g|nz|-6dt|7
+San Francisco del Progreso|MX|Coahuila|44|1z3|-7vt|7
+San Francisco|MX|Guerrero|41|1dx|-7vp|7
+San Felipe de Jesús|MX||41|1ij|-7qc|7
+San Francisco Caballúa|MX||41|1cl|-7jg|7
+San Francisco de Conchos|MX||2g|24n|-84l|6|Conchos
+San Felipe Cuapexco|MX||41|1ga|-7m6|6
+San Francisco el Rincón|MX||41|198|-73x|6
+San Francisco la Paz|MX||41|1bi|-79h|6
+San Francisco Ixpantepec|MX||41|198|-7i5|6|Ixpantepec;Nieves Ixpantepec
+San Francisco de Lajas|MX||44|1s8|-83y|6|Lajas
+San Francisco|MX|Chiapas|41|1a4|-72u|6
+San Francisco Ocotal|MX||41|1bu|-76r|6
+San Fidenzio|IT||9o|3hm|w0|6
+San Fernando|MX|Veracruz|41|1m2|-7jv|6
+San Felipe Toctla|MX||41|1g4|-7m6|6
+San Fernando|BZ||24|1ew|-6tf|6|Copper Bank
+San Francisco de las Mesillas|MX||41|1gb|-7gu|6
+San Francisco|PE|Ica|3o|-11g|-5vc|6
+San Francisco de Horta (El Alacrán)|MX||41|1l6|-7u3|6
+San Francisco de Horta (El Gato)|MX||41|1la|-7u1|6
+San Fernando|MX|Chiapas|41|1ac|-74d|6
+San Francisco Botes|MX||2b|1eb|-6ug|6
+San Felice del Molise|IT||9o|38d|14u|6
+San Felices de los Gallegos|ES||9d|35h|-in|6
+San Francisco de Asís|MX|Puebla|41|1f8|-7l0|6
+San Francisco|MX|Nayarit|3x|1px|-82a|6
+San Francisco de la Charca (El Nido)|MX||41|1lf|-7tn|6
+San Fernando|MX|Nayarit|3x|1ny|-833|6
+San Faustino|IT|Lombardy|9o|3iv|sq|6
+San Faustino|IT|Emilia-Romagna|9o|3g4|ty|6
+San Francisco Terrerillos|MX||41|1jb|-7ko|5
+San Francisco de Asís|MX|México|41|1hx|-7q4|5
+San Foca|IT||9o|3jy|z9|5
+San Francisco Guichina|MX||41|19r|-7ez|5
+San Felipe|BZ|Toledo District|24|18t|-6uy|5
+San Francisco Rancho Nuevo|MX||41|1eq|-7ke|5
+San Francisco Morazán|SV||2u|13e|-6vd|5
+San Francisco Cahuacuá|MX||41|1ay|-7ib|5|Cahuacuá;San Francisco Cahuaca

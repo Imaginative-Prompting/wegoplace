@@ -1,0 +1,23 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+St. Catharines|CA||59|3bx|-644|120|Sainte-Catharine;Sankta Katarino;Sent Katerinsas
+Saint Cloud|US|Minnesota|2f|3ik|-79k|ia|St. Cloud
+Saint Charles|US|Missouri|2f|2zq|-6zc|ia|St. Charles
+Saint Clair Shores|US||2q|3a2|-6e9|gl|Saint Clr Shores;St. Clair Shores
+Saint Croix|VI||53|1d9|-4zv|e2|St Croix;Santa Cruz;Sainte-Croix;Sancta Crux;Sanct Croix;Sainte Croix
+Saint Charles|US|Maryland|48|2z8|-5xq|a4|St. Charles
+Saint Cloud|US|Florida|48|26h|-69s|9s|St. Cloud
+St. Charles|US|Maryland|48|2z9|-5xo|9a
+St. Charles|US|Illinois|2f|38f|-6tb|96
+St Clair|AU|New South Wales|8l|-2lw|bmu|5j
+Saint-Cyr-sur-Mer|FR||9k|3by|fu|3e|Sant Ceri de Mar;St-Cyr-sur-Mer
+Saint-Chamas|FR||9k|3cz|e0|1x|St Chamas
+Saint Clairsville|US||48|33c|-68q|1g|St. Clairsville
+Saint Clair|US|Missouri|2f|2yj|-70q|1b|St. Clair
+Saint Catherine|EG||c|27c|2mb|1a|St. Catherine
+Saint Charles|US|Minnesota|2f|3e5|-73q|11|St. Charles
+Saint Columb Major|GB||9b|3w3|-dq|11|Saint Columb;St. Columb;St Columb;Synt Colom Veur;Synt Colom Gwartha
+St Clair|AU|South Australia|8b|-2ov|aou|h
+Santa Cristina Valgardena|IT||9o|3lc|wl|f|Santa Cristina;Santa Cristina Val Gardena;St. Christina in Gröden;St. Christina
+St. Clements|CA||59|3cw|-681|c
+Saint Clair|US|Minnesota|2f|3eg|-78q|9|St. Clair
+St. Claude|CA||5d|3ty|-7l6|6

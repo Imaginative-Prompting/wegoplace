@@ -1,0 +1,23 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhongxiang|CN||7i|2el|8oq|3e2|Anlu;An-lu
+Nicosia|CY||73|2pp|2kn|1jp|Lefkosía;Nikozio;Nikosia;Nicosie;Nikozija;Nikozja;Nikózia;Lefkoşa;Nikosija;Nikósie;An Leafcóis;Nikosiya;Nikozi;Nikosii;Nicoséa;Nėkosėjė;Nicusìa;Niqusya;Leucosia
+Anliu|CN||7i|1tu|8xc|w4
+Anlong|CN||7i|1xq|854|o0|An-lung
+Anlu|CN||7i|2eu|8rs|js
+Anlong Veaeng|KH||78|13j|814|ft|Ânlūng Vêng;Ânlóng Vêng
+Anloga|GH||1|g3|2i|9h
+Anlan|CN||7i|299|883|8r
+Largs|GB||9b|4b0|-di|32|An Leargaidh Ghallda
+Longford|IE||8z|459|-lo|32|An Longfort
+Anlong Thnaot|KH||78|yt|81g|2n
+Anle Garden|CN||7i|1qq|8se|2i
+Anle|CN||7i|1qo|8se|29
+Antipolo|PH|Western Visayas|71|ss|9hk|22|Anlipolo
+Anlong Reab|KH||78|y4|7y6|1g
+Anlong Romiet|KH||78|vq|834|1e
+Anlong Run|KH||78|10l|7y7|19|Phum Ânlŭng Rŭn;Phumĭ Ânlŭng Rŭn
+Anlong Phe|KH||78|11m|85d|16
+Strandhill|IE||8z|46r|-nv|i|An Leathros
+Lairg|GB||9b|4h6|-c8|9|Luirg;An Luirg
+Newtownforbes|IE||8z|45d|-lr|8|an Lios Breac
+Lehinch|IE||8z|431|-py|6|Lahinch;An Leacht

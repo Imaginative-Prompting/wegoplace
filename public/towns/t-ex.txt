@@ -1,0 +1,78 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ahmedabad|IN||6t|1rz|5ln|1d21|Ahmadabado;Ahmadabad;Amedebatum;Ahmadabadas;Amdāvāda;Exmetabad;Ahmadobod;Amedabato;Amadavad
+Villeray–Saint-Michel–Parc-Extension|CA||59|3ik|-5oh|148
+Exeter|GB||9b|3ww|-9t|10b|Eksetero;Karesk;Exonia;Caerwysg;Ekseteris;Exanceaster;Eksetera;Ekseter
+Extremoz|BR||2w|-fv|-2q3|h4|Extremós
+Extrema|BR|Minas Gerais|4w|-1rh|-3ko|ev
+Kardzhali|BG||9v|37p|1yh|c9|Kardschali;Kardjali;Kardzjali;Kırcaali;Kardžali;Krdžali;Kerdžalai;Kyrdżali;Exrdzhali;Kardshali;Kirdžali;Kirdjalü;Kŭrdzhale;Kirdžalü;Kerjali;Kirjali;Kerdzhali;Kŭrdžali;Kŭrdzhalii;Krdjali;Kŭrdzhali
+Écija|ES||9d|2wa|-e4|b3|Exija
+Exmouth|GB||9b|3wm|-9g|a2|Exanmūþa
+Exu|BR||4p|-kv|-32c|9a
+Aix-les-Bains|FR||9k|3ix|gf|7p|Eks le Benas;Aquae Sabaudiae;Èx-los-Bens
+Ejea de los Caballeros|ES||9d|391|-36|4t|Egea de los Caballeros;Exea;Ejea;Exeya dos Cavallers;Exeya dos Caballers;Eixea
+Issoudun|FR||9k|3mf|5j|40|Essaudun;Exoldunum
+Yeghvard|AM||80|340|3fk|3o|Jeghward;Eghvard;Jegvard;Jegvardas;Jegward;Jeghvard;Yeğvard;Yexvard;Exvard;Yegvart
+Excelsior Springs|US||2f|31a|-79r|37
+Exeter|US|California|3p|2su|-96y|2x
+Assinovskaya|RU||9i|3c4|3hi|2v|Assinovskaja;Ax-Borze;Äxkinçu-Borze;Exa-Borze;Assinskaya;Assinowskaja
+Exeter|US|New Hampshire|48|3be|-5h3|2k
+Ex-Hacienda de Xalpa|MX||41|1j2|-7ni|2j
+Ex-Rancho San Dimas|MX||41|1h9|-7ol|2c
+Excelsior|ZA||o|-28e|236|24
+Yeghegnadzor|AM||80|32g|3hx|21|Yeğegnadzor;Jeghegnadsor;Eghegnazor;Jeghegnadzor;Jeghegnadzoras;Ehegnadzor;Jechegnadzor;Jehegnadzor;Yeğeqnadzor;Mikoyan;Keshishkend;Keshishkent;Yexegnadzor;Exegnadzor;Jehegnadzora;Eghegnadzor;Yekhegnadzor
+Exeter|US|Rhode Island|48|37i|-5iq|1s
+Echaporã|BR||4w|-1qb|-3vg|1q|Exaporã
+Extrema|BR|Rondônia|4l|-r5|-54c|1q
+Exaplátanos|GR||8p|35u|1ph|1p|Exaplátanon
+Exeter|US|Pennsylvania|48|36s|-5um|1k
+Eskhar|UA||98|3uc|2tn|1h|Eschar;Ésjar;Eshar;Exsar
+Ex-Hacienda Santa Inés|MX||41|1ir|-7n7|1e
+Exeter|CA||59|3ce|-6ac|1d
+Exton|US||48|337|-5u2|1c
+Doctor Juan Manuel Frutos|PY||1y|-1yi|-4b3|1c|Ex Pastoreo
+Exmouth|AU||8k|-1ox|8t0|11|Eksmouts
+Ex-Viñedos Guadalupe|MX||41|1p0|-7w3|z
+Exincourt|FR||9k|3nx|iz|z
+Exminster|GB||9b|3ws|-9q|y
+Experiment|US||48|2kf|-6i4|t
+Examília|GR||8p|2xa|1rp|r|Ksamili;Examílion;Examíllia;Eksamilia
+Exhibition|CA||4q|40q|-88c|q
+Yeghegnut|AM|Armavir|80|33d|3ep|o|Eghegnut;Yexegnut;Exegnut;Yekheknut
+Exhall|GB||9b|41q|-44|n
+Excelsior|US||2f|3gq|-77x|n
+Ex-Hacienda el Hospital|MX||41|1gb|-7n0|l
+Exning|GB||9b|417|11|h
+Yeghegnavan|AM||80|32o|3fy|g|Yexegnavan;Exegnavan
+Jérica|ES||9d|32w|-1l|f|Xerica;Exerica
+Ex-Hacienda de Guadalupe|MX|México|41|1j1|-7mx|f
+Exloo|NL||8m|42w|j2|f|Ekslo;Eksloo;Exlo
+Guadalupe|MX|Guanajuato|41|1oc|-7si|f|Lequeitío;Ex-Hacienda Casco de Lequeitio
+Exmore|US||48|2w9|-5um|e
+Excideuil|FR||9k|3hy|2x|e|Eissiduelh
+Ex-Hacienda del Copal|MX||41|1lm|-7ti|e
+Ex-hacienda la Concepción|MX||41|1gd|-7gy|d
+Exireuil|FR||9k|3kz|-j|d
+Exochi|GR||8p|34v|1s0|d
+El Espejo|MX|Guanajuato|41|1ks|-7rc|c|Ex Hacienda de Espejo;Espejo
+Ex-Hacienda de Guadalupe|MX|Michoacán|41|1iy|-7t5|b
+Exideuil-sur-Vienne|FR||9k|3jh|1v|b|Eissiduelh;Exidolium
+Excola|MX||41|1h6|-7hs|a|Escola
+Exeter|AU|South Australia|8b|-2os|aop|a
+Ex-Hacienda de Guadalupe|MX|México|41|1hh|-7ml|a
+Exeter|AU|New South Wales|8l|-2o5|blk|9
+Export|US||48|34a|-657|9
+Ex-Presidentes|MX||41|1j6|-7mw|8
+Exira|US||2f|37j|-7bk|8
+Exeter|US|Missouri|2f|2tv|-78y|8
+Ex-Hacienda Delicias|MX||2g|26b|-855|8
+Excenevex|FR||9k|3kr|hn|8|Eccavania
+Ex-Hacienda de Ortega (Ejido Ortega)|MX||41|1n4|-7qw|8
+Éxarkhos|GR||8p|2z7|1rq|7|Exarchos
+Excel|US||2f|2fb|-6qm|7
+Exeter|AU|Tasmania|8g|-36q|bc7|6
+Exoudun|FR||9k|3kq|-8|6
+Exton|GB||9b|42d|-1r|6
+Exdorf|DE||8r|3w6|ta|6
+Exeter|US|Nebraska|2f|34w|-7ip|5
+Ex-Hacienda Santiaguito|MX||41|1h4|-7om|5
+Ex-Hacienda de Ocotza|MX||41|1kq|-7na|5|Ex- Hacienda de Ocotza

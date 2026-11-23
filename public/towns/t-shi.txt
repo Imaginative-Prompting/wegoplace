@@ -1,0 +1,397 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Shijiazhuang|CN||7i|2xo|8u0|18fk|Thạch Gia Trang;Š’-ťia-čuang;Šidziadžuangas;Ŝiĝjaĝŭango;Siŏh-gă-cŏng;Sicsiacsuang;Šidzjadžuana;Swzgyahcuengh;Chio̍h-ka-chng-chhī;Šidžjadžuang;Shicziyajuan;Şiciyajuang;Shihjiazhuang
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Chicago|US||2f|389|-6rh|kk5|Ĉikago;Sicagum;Čikaga;Şikago;Chicagu;Chikago;Kikako;Tsikago;Çikaqo;Chi-kâ-kô;Čėkaga;Shikago
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Shiraz|IR|Fars|7o|2a9|41x|9n7|Chiraz;Sjiraz;Şiraz;Xiraz;Ŝirazo;Širazas;Šīrāza;Sziraz;Schiras;Chimaz
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Shivaji Nagar|IN|Maharashtra|6t|1fh|5p5|7ps
+Shizuishan|CN||7i|30a|87j|5pe
+Shizuoka|JP||7q|2p6|aoe|5cm|Šizuoka;Šidzuoka;Sidzuok;Sizuoka-chhī;Siduoka
+Shihezi|CN||7t|3f2|6n0|4f4|Shixenze
+Siliguri|IN||6t|227|6tn|3z8|Shiliguri;Silguri;Siligun
+Shinagawa|JP||7q|2lg|a9h|39d
+Shibganj|BD|Rajshahi Division|6a|1xg|6w4|2x7|Sibganj
+Nara-shi|JP||7q|2od|ah8|2u2|Nara
+Shinjuku|JP||7q|2r5|as3|2p2
+Shivamogga|IN||6t|12p|5tx|2hn|Shimoga;Shimogga;Shivamoggi
+Shibīn al Kawm|EG||c|2cv|2e5|22f
+Shimonoseki|JP||7q|2mc|a3q|21t|Şimonoseki;Simonoseki-chhī
+Fukui-shi|JP||7q|2s6|aie|20v
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Shiqi|CN||7i|1qk|8qz|1zj
+Shijie|CN||7i|1s6|8s3|1wm
+Shibuya|JP||7q|2r2|as3|1s2
+Nishi-Tokyo-shi|JP||7q|2r9|arm|1lm|Nishitokyo-shi
+Shikarpur|PK||6q|25o|5ao|1kx
+Tottori-shi|JP||7q|2qm|acv|1gd|Tottori-sṳ;Toturi;Totoris;Totori;Lungsod ng Tottori;Tottori-chhī;Tottori
+Shivpuri|IN||6t|1ym|5zq|1e0
+Shimla|IN||6t|2ee|5yd|1c7|Ŝimla
+Shillong|IN||6t|1z1|738|13s|Šilongas
+Shimotoda|JP||7q|2ri|as1|135
+Shinyanga|TZ||h|-a6|2ku|12t|Šinjanga;Schinjanga
+Shiqiao|CN|Guangdong|7i|1rr|8qw|11l
+Kashihara-shi|JP||7q|2nv|ah7|yl
+Shilong|CN|Guangdong|7i|1s7|8s9|uh|Shih-lung
+Sydney|CA||2x|3k6|-4n6|tg|Shidni;Baile Shidni;Sidnėjus;Sidneja;Sidney
+Chikushino-shi|JP||7q|2l2|a2k|sp
+Shikohābād|IN||6t|23b|62b|rp
+Shibata|JP||7q|2xf|ar1|qq|Syibata;Sibata-chhī;sibata
+Shimada|JP|Shizuoka|7q|2oq|anu|ql|Syimada;Simada-chhī
+Shizilu|CN||7i|2pp|963|o3
+South Shields|GB||9b|48s|-3z|n9|Shields Theas
+Shīrvān|IR||7o|2vw|4gx|n0
+Shikokuchūō|JP||7q|2me|aaz|n0
+Shiwan|CN|Guangdong|7i|1rw|8q4|ms|Shih-wan
+Xigazê|CN||7i|299|6uw|m8|Shigatse;Samdruptse;Žikace;Šigatse;Sigace;Zhikatse;Sh’i-ka-tse;Shigatze
+Shitanjing|CN||7i|30z|87e|lw
+Shirpur|IN||6t|1nb|5s0|ld
+Shiki|JP||7q|2rj|arq|l8
+Shibukawa|JP||7q|2tc|aq4|l5|Šibukawa;Sibukawa-chhī
+Shirbīn|EG||c|2eo|2fk|l5|Scharbin;Sherbin;Szirbin;Sharbīn
+Shibīn al Qanāţir|EG||c|2c7|2f0|kh|Shibîn el-Qanâṭir;Shabīn al Qanātir
+Shixing|CN||7i|1xb|8sv|ka
+Wusu|CN||7t|3ff|6j8|k6|Xihu;Shixu;Wu-su;Usu
+Shiguai|CN||7i|353|8id|jk|Shih-kuai
+Shima|CN|Chongqing|7i|28j|868|jf
+Shima|CN|Fujian|7i|1vx|939|j0|Shih-ma
+Şırnak|TR||94|2w7|39x|it|Shirnak
+Shiojiri|JP||7q|2sa|an9|io|Sioziri-chhī;Sioziri
+Shikang|CN||7i|1oh|8fo|i0|Shih-k’ang
+Shendi|SD||r|1ad|2kv|hp|Schandi;Šendis;Šendi;Chendi;Xendi;Szandi;Shandi;Shindî
+Shimodate|JP||7q|2su|asu|hp|Simodate
+Shizhai|CN||7i|2op|900|hi
+Shiroi|JP||7q|2rg|at3|hc|Siroi-chhī
+Shimotsuke|JP||7q|2t5|asj|gr|Simotuke-chhī
+Shirakawa|JP||7q|2v4|atm|gj
+Shiqiaozi|CN||7i|2sg|97a|g9
+Shibuzi|CN||7i|2sc|96u|g7
+Shibirghān|AF||6o|2tv|52n|fg|Şibircân;Shoburgon;Shibirgán;Chibirchan;Schibirgan;Shibarghān;Shibergan;Sheberghān
+Shijōnawate|JP||7q|2oh|agw|fc
+Shilin|CN|Yunnan|7i|1wy|7z1|fa
+Sihor|IN||6t|1ob|5jw|f5|Shihor
+Shiquan|CN||7i|2js|8co|eu
+Shiogama|JP||7q|2yg|avr|en|Schiogama
+Shiraoka|JP||7q|2s2|ary|ei
+Sh'īarīah|SD||r|yk|1z2|dm
+Shiyan|CN|Chongqing|7i|2bk|89p|de
+Shināş|OM||72|1wq|4cv|dc
+Shima|JP||7q|2nd|ak3|da
+Shido|JP||7q|2nc|acp|d2
+Shime|JP||7q|2lb|a2h|cw
+Shijiao|CN||7i|28c|88k|ct
+Paotana Hat|BD||6a|1za|6wm|cr|Shibdeb
+Shinden|JP||7q|2s0|aru|cg
+Shinshiro|JP||7q|2oy|aly|cc|Syinsyiro;Sinsiro-chhī
+Shihao|CN||7i|27a|88c|c5
+Shimabara|JP||7q|2j2|a25|c1|Simabara-chhī;Simabara
+Shimo-tsuma|JP||7q|2si|ast|bt|Shimotsuma
+Shiji|CN||7i|2n0|954|bl
+Shirone|JP||7q|2ww|aq6|bi
+Shinjō|JP|Yamagata|7q|2zo|atq|bf
+Shiwan|CN|Guangxi|7i|1of|8fc|b7
+North Shields|GB||9b|48u|-41|b1|Shields Thuaidh
+Shichuan|CN||7i|2ap|88q|b0|Shih-ch’uan
+Shili|CN||7i|2mb|84h|au
+Shinshicho|ET||2|k1|2wy|ao
+Sirūr|IN||6t|1gb|5ql|ab|Shirur
+Shikaripura|IN||6t|13n|5tc|a0|Shikaripur;Shikarpur
+Shirdi|IN||6t|1ix|5qw|a0|Širdis
+Shibganj|BD|Rajshahi Division|6a|1wl|6sw|a0|Sibganj
+Shimen|CN|Chongqing|7i|28u|86j|9x|Shih-men
+Shisō|JP||7q|2p6|ads|9w
+Shidui|CN||7i|2t3|97f|9u
+Shikārpūr|IN||6t|26k|60p|9m
+Shiroishi|JP||7q|2xk|aum|99|Siroisi
+Shingū|JP|Fukuoka|7q|2ln|a2b|95|Singū
+Shimoda|JP|Kochi|7q|2jj|a9f|93
+Shimada|JP|Kumamoto|7q|2j0|a3b|91
+Shirley|GB|England|9b|41l|-52|8w
+Šibenik|HR||a6|3dh|185|8n|Sebenico;Szybenik;Shibeniku;Sebenicum;Sibenning;Szebenikó
+Shibushi|JP||7q|2fg|a46|8e|Šibuši;Sibusi-chhī
+Shiyeli|KZ||7d|3ep|55d|8a|Shīeli
+Shīnḏanḏ|AF||6o|2ki|4sn|85|Šīndand
+Shizhi|CN||7i|2bh|8bf|83
+Shiqiao|CN|Gansu|7i|2mv|841|83
+Shipley|GB||9b|45j|-4x|7x
+Shiggaon|IN||6t|15n|5sy|7u|Shigaon
+Shirley|US|New York|48|35c|-5mf|7r
+Shingū|JP|Wakayama|7q|2lp|ahq|7n|Singû-chhī;Singū;Schingu
+Shituo|CN||7i|2ak|89m|79
+Shimo-furano|JP||7q|3cf|azi|77
+Shiraguppi|IN||6t|1a6|5rj|6y
+Gar|CN||7i|2ia|66i|6x|Shiquanhe
+Shivpur Charcha|IN||6t|1st|6d9|6j
+Shīshgarh|IN||6t|27t|64b|6j
+Shirahama|JP|Wakayama|7q|2lk|afz|6h
+Shirahamachō-usazakiminami|JP||7q|2om|ae8|6g|Shirahama;Shirahama-ku
+Shima|CN|Chongqing|7i|2ab|85z|6c|Shih-ma
+Shibao|CN||7i|2mr|84k|6a
+Shizunai-furukawachō|JP||7q|39l|azh|68
+Shigang|CN||7i|2ei|8fs|65
+Shibetsu|JP|Hokkaido|7q|3da|b75|61|Shibe’tsu;Sibetu;Sibetsu
+Shimanovsk|RU||7x|40g|9uo|5z|Sjimanovsk;Schimanowsk;Chimanovsk;Šimanovsk;Ximanovsk
+Shimoda|JP|Shizuoka|7q|2oc|apy|5y|Ŝimoda;Syimoda;Simoda-chhī
+Shin’ichi|JP||7q|2o0|aa7|5u
+Shigu|CN||7i|22n|7po|5u
+Shisui|JP||7q|2r8|atn|5r|Shusui
+Shilong|CN|Chongqing|7i|29c|88y|5o
+Shiozawa|JP||7q|2uw|app|5m
+Shilongba|CN||7i|21u|7tk|5l
+Shimosuwa|JP||7q|2s7|ank|5l
+Seminyih|MY||6v|87|7ux|5h|Shi Mao Yue
+Shitan|CN|Chongqing|7i|2bj|87u|5e
+Shimokizukuri|JP||7q|35e|aty|59
+Shirati|TZ||h|-35|2me|59
+Shimoigusa|JP||7q|2r8|aru|53
+Shibetsu|JP|Hokkaido|7q|3ep|azk|4z|Shi-betsu
+Shiraoi|JP||7q|3a7|awn|4y
+Shirhatti|IN||6t|16b|5ty|4w
+Shioiri|JP||7q|2mw|abt|4u
+Shimobuchi|JP||7q|2nj|ah7|4n
+Shintomi|JP||7q|2h2|a59|4m
+Shizukuishi|JP||7q|329|avm|4j
+Shilovo|RU|Ryazan Oblast|9i|46w|35k|4i|Sjilovo;Schilowo
+Shiwan|CN|Chongqing|7i|2a9|865|4h
+Shively|US||3k|2y4|-6me|4d
+Shimo’ochiai|JP||7q|2r8|as2|4c|Shimo-ochiai;Shimoochiai
+Shihui|CN||7i|2a5|8dp|48|Shih-hui
+Sintansin|KR||7h|2t9|9tz|46|Shintanshin;Sint’anjin
+Silute|LT||a3|49r|1no|46|Heydekrug;Szyłokarczma;Shilute;Heidekrug
+Shichinohe|JP||7q|351|aw3|42
+Shirley|GB|England|9b|3yq|-5|3z
+Shidi|CN||7i|27v|8fb|3y
+Shijak|AL||9y|36v|1id|3x|Šijaku;Šijak;Shjak;Šjak;Shejak
+Shilka|RU||67|401|8yb|3x|Sjilka
+Shiyu|CN||7i|2ap|86p|3x
+Shivaji Nagar|IN|Maharashtra|6t|1jx|63j|3v
+Shijiba|CN||7i|2jv|825|3u
+Shi Yomi|IN||6t|279|7a5|3p
+Shiloh|US|Illinois|2f|2z4|-6xq|3m
+Shimura|JP||7q|2re|as1|3l
+Shirwal|IN||6t|1ef|5pi|3j|Shirval
+Shimen|TW||7l|1y9|9dp|3i|Sa̍k-mùn-khî;Šimenas;Thạch Môn;Chio̍h-mn̂g-khu;Shihmen;Shih-men
+Schiller Park|US||2f|38k|-6s3|3a|Shiller Park
+Shitāb Diāra|IN||6t|1zk|6j1|3a|Sitab-Diara
+Shiida|JP||7q|2lh|a42|39|Shiita
+Shipunovo|RU||63|412|6cj|36|Sjipunovo
+Shichijō|JP||7q|2ms|add|36|Hichijō
+Shīrūd|IR||7o|2ud|3x4|36|Sīrūd;Shīrrūd
+Shitan|CN|Chongqing|7i|292|88x|35
+Shiloh|US|Ohio|48|32m|-6hz|35
+Shivatkar|IN||6t|1ea|5q5|34
+Shiloh|US|Pennsylvania|48|332|-5xc|34
+Shiloh|US|Pennsylvania|48|360|-61h|34
+Shixia|CN||7i|2lu|84r|33
+Shin’imazato|JP||7q|2oa|agj|32
+Shimogamo|JP||7q|2ou|abp|31|Shimo-kamo;Shimo-kami;Shimo-gamo
+Shirebrook|GB||9b|43s|-3d|31
+Shimen|CN|Gansu|7i|2l1|82y|31
+Shi’an|CN||7i|2cz|8by|31
+Shibayama|JP|Aomori|7q|34t|awl|2w
+Sherlovaya Gora|RU||67|3wd|8z4|2t|Sjerlovaja Gora;Shirlovaya Gora
+Shixi|CN||7i|29i|89c|2s
+Shildon|GB||9b|47r|-4k|2s
+Shimizu|JP|Hokkaido|7q|3bh|b0w|2q
+Shijia|CN|Chongqing|7i|298|8dp|2o
+Shyroke|UA|Dnipropetrovsk|98|3oh|2ke|2o|Chyroké;Schyroke;Sjyroke;Široke;Shiroke;Šyroke;Szyroke;Xiroke
+Shifang|CN||7i|2jo|82h|2o
+Shiqian|CN||7i|24g|8cn|2o
+Shilin|CN|Chongqing|7i|288|88y|2m
+Shira|RU||6u|47d|6xx|2m|Sjira
+Shijiang|CN||7i|238|8jr|2l
+Shinkafi|NG||u|10b|i3|2l|Shinkafe
+Shiye|CN||7i|26u|8ey|2j
+Shijialiang|CN||7i|2ar|87r|2g
+Shirud|IN||6t|1lm|5s1|2d
+Shiprock|US||2p|2u7|-8dx|2b|Ship Rock
+Šipkovica|MK||9u|38s|1m4|2a|Shipkovicë;Siikovica
+Shinkoyasu|JP||7q|2ql|ary|2a
+Shiqiao|CN|Chongqing|7i|294|8bj|2a
+Shimo-ichigi|JP||7q|2lz|ahx|29
+Shiranuka|JP||7q|3bc|b49|28|Siranuka
+Schipkau|DE||8r|3z4|12m|27|Šejkow;Tschipko;Shipkau
+Shiliu|CN||7i|2a9|8da|26
+Shiravāgilu|IN||6t|yv|5sb|24|Shiribagilu
+Shinmachi|JP||7q|2pr|atw|23|Shimmachi
+Shianda|KE||16|w|2o1|23
+Salem|US|Utah|2p|339|-8m7|23|Shį́į́háálį́
+Shiding|TW||7l|1xf|9dy|22|Sa̍k-tàng-khî;Šidingas;Thạch Đĩnh;Chio̍h-tēng-khu;Shihding;Shih-ting
+Širvintos|LT||a3|48w|1xb|21|Širvintar;Širvintai;Shirvintos;Širvintų
+Shibecha|JP||7q|3c8|b5k|20
+Shimen|CN|Gansu|7i|2oi|802|20
+Shibayama|JP|Chiba|7q|2r4|au3|1z
+Parakar|AM||80|33k|3fd|1z|P’arak’ar;Shirabad;Paraqar
+Shimonita|JP||7q|2sm|api|1z
+Shibām|YE||5r|189|3r3|1y|Schibam;Ŝibam
+Shirley|NZ||ak|-3cu|dbl|1y
+Shiromoto|JP||7q|2es|a3b|1x
+Shiqiang|CN||7i|29b|89s|1w
+Shivrājpur|IN||6t|1qa|5oh|1v
+Shikama|JP||7q|2z3|ava|1v
+Shikhany|RU||9s|40s|3n4|1v|Sjikhany
+Shields|US||2q|3cm|-6hi|1u
+Shivnandanpur|IN||6t|1sf|6ef|1u
+Shyryayeve|UA||98|3nm|2bv|1t|Chyriaïévé;Shiryayevo
+Shijia|CN|Chongqing|7i|2c5|8cx|1r
+Shintoku|JP||7q|3bn|b0r|1r|Sintoku
+Sivunipalli|IN||6t|1dk|64i|1q|Shivunipalle
+Shifnal|GB||9b|42b|-6l|1q
+Sivar|IN||6t|1lh|5y1|1o|Shivar
+Shibli–Umm al-Ghanam|IL||6n|2it|2qc|1o
+Shirgaon|IN||6t|1iq|5m0|1o
+Shirochanka|RU||9i|3lm|2yi|1n|Shirochanskoye;Sjirotsjanka
+Shihoro|JP||7q|3bx|b1x|1m
+Shizi|CN||7i|2lq|82s|1m
+Shchyrets|UA||98|3tx|1ua|1l|Szczerzec;Rosenberg;Chtchyrets;Ščyrec;Şçırets;Șciîreț;Sjtsjyrets;Shchyret;Shirets;Shchirets
+Shippensburg|US||48|339|-5zc|1k
+Shimoichi|JP||7q|2nh|ah7|1i|Shimo-ichi
+Shiriya|IN||6t|z3|5s5|1h
+Shigony|RU||9p|44b|3r7|1h|Sjigony
+Shikaoi|JP||7q|3bq|b18|1h
+Shillington|US||48|33z|-5v1|1h
+Shimomatsumoto|JP||7q|2vh|atk|1g
+Shilian|CN||7i|28r|890|1g
+Shimoseki|JP||7q|2xt|aro|1f|Shimo-seki
+Shipston on Stour|GB||9b|40m|-4j|1e
+Shiremoor|GB||9b|48w|-47|1d
+Shibli|IL||6n|2it|2qb|1c
+Šilalė|LT||a3|4a5|1pn|1a|Shilale
+Shitara|JP||7q|2pi|am5|19|Sitara;Shidara
+Shimoyuge|JP||7q|2p0|ac4|19|Shimo-yuge
+Shingle Springs|US||3p|2zf|-9bx|18
+Shipol|XK||8q|3b2|1lx|16|Šipolje;Sipol
+Shimorskoye|RU||9i|49p|38r|15|Sjimorskoje;Şimorskoye;Zhimorskoye
+Shipyard|BZ||24|1dp|-6u9|15
+Shakar|IN||6t|2gt|5si|14|Shikar
+Shijing|CN||7i|1we|94y|14
+Shingli Bala|PK||6q|2oc|5mq|14|Bar Shinglai
+Shirahama|JP|Okinawa|7q|1vo|9jr|13
+Shikabe|JP||7q|38r|av6|13|Sikabe
+Shishkin Les|RU||9i|49x|2vb|13
+Shinshimokawa|JP||7q|3ew|b0c|12|Shimokawa
+Shipitsyno|RU||9i|4q8|3l8|12|Sjipitsyno;Schipizyno;Šipicyno;Spicino;Şipitsıno;Szypicyno;Sjipitsino;Shchipitsyno;Shipitsino
+Shimsk|RU||9i|4hp|2dc|12|Sjimsk
+Shīshavān|IR||7o|2w2|3jh|11|Shishaven
+Shimojō|JP||7q|2qc|amr|z
+Shirland|GB||9b|43k|-3w|y
+Shilaoren Shequ|CN||7i|2sa|9ap|y
+Shīrāmīn|IR||7o|2wk|3jf|x|Shīr Amīn
+Zhigansk|RU||7x|55h|9iq|w|Zjigansk;Shigansk
+Shypyntsi|UA||98|3qe|1zj|w|Șipeniț;Sjypyntsi;Schypynzi;Szypynci;Şypyntsi;Shipentsi
+Shikhazany|RU||9i|4ac|3nn|v|Sjikhazany
+Shimizu|JP|Yamagata|7q|2zi|atj|u
+Shitlu|IN||6t|2n4|5qj|t
+Shipton under Wychwood|GB||9b|402|-4g|t
+Shnogh|AM||80|36b|3gk|s|Shnox;Shanikh;Shen;Shiniz;Shinikh;Shinogh;Shnoz;Shnokh
+Lusarat|AM||80|32r|3fv|r|Shkhlar;Lusarrat;Shikhlar
+Shinuhayr|AM||80|31k|3ko|q|Şinuayr;Shinuayr;Shinuair
+Shinbashi|JP||7q|2r2|as8|q
+Shippagan|CA||43|3om|-4zr|q
+Shipan|CN||7i|28y|8ck|p
+Shimshit|IL||6n|2ix|2px|p
+Shība|JP||7q|2i7|a4c|p
+Shieldhill|GB||9b|4bh|-ah|p
+Shikinejima|JP||7q|2nd|aqq|o|Shikineshima
+Shimoni|KE||16|-cx|31e|o
+Shiringushi|RU||9i|45l|3at|o|Sjiringusji
+Shitkino|RU||6k|4cl|7l7|o|Sjitkino;Shitkina
+Shingletown|US||3p|34h|-9el|n
+Skhidnytsia|UA||98|3sq|1sv|n|Schodnica;Skhidnytsya;Schidnyzja;Skhodnitsa;Sxidnitsa;Szhidnicja;Sjídnytsia;Schidnycja;Shidnıtsâ;Shidnîțea
+Shimogotō|JP||7q|34h|aw6|m
+Shinnecock Hills|US||48|35l|-5la|m
+Shinnston|US||48|31g|-672|m|Shinns Town;Shinnstown
+Shirakamut|AM||80|35h|3eo|l|Nalband
+Shiner|US||2f|29r|-7hx|l
+Shil’da|RU||7z|3zx|4m1|l|Sjilda
+Shikotan|RU||6z|3do|bbk|l
+Shīrvāneh|IR||7o|2oo|3mg|l
+Shīr Maḩalleh|IR|Māzandarān|7o|2tr|41u|l
+Shimokawauchi|JP||7q|2vp|av7|k|Shimo-kawauchi
+Shivani Pisa|IN||6t|1ju|5wd|k
+Shīrāz|IR|East Azerbaijan|7o|2vz|3jj|k
+North Side|KY||2e|1hr|-69l|j|Shimol Tomoni
+Shipdham|GB||9b|427|2h|j
+Shilbottle|GB||9b|49t|-4p|i
+Shyrokolanivka|UA||98|3n1|2fb|i|Sjyrokolanivka;Schyrokolaniwka;Širokolaņivka;Šyrokolanivka;Shirokolanivka;Szyrokołaniwka;Shirokolanovka
+Shiel Hill|NZ||ak|-3jh|d5p|i
+Shenqar|IR||7o|2st|3va|i|Shīnqar
+Shirokovskiy|RU||7z|4jg|4gj|i|Sjirokovskij
+Shindisi|GE||7n|37q|3gd|h
+Shipka|BG||9v|3an|1ye|g|Schipka;Šipka
+Shiremanstown|US||48|33q|-5xr|g|Shirmanstown
+Shīrvāneh Deh|IR||7o|2wt|3mb|g
+Shabīlū-ye Soflá|IR||7o|2ut|3k7|f|Shīblū-ye Soflá
+Shirokiy|RU|Amur Oblast|7x|3u8|9zs|f|Sjirokij
+Shabīlū-ye ‘Olyā|IR||7o|2us|3k7|f|Shīblū-ye ‘Olyā
+Shirokoye|UA||9t|3hk|2ml|f
+Shikitsu|JP||7q|2nv|aic|f
+Shillington|GB||9b|40f|-10|e
+Shirley|US|Massachusetts|48|3a6|-5j1|e
+Shīveh|IR||7o|2sy|3qf|e|Shivekh;Shīvah
+Shilo|CA||5d|3ud|-7ot|e
+Shipley Hill|US||48|315|-5wy|e
+Shīrāvand|IR||7o|2ls|3mt|e
+Lernakert|AM||80|34o|3e2|e|Shirvanjugh
+Shybalyn|UA||98|3tc|1xg|e|Shibalin
+Shīr Kolā|IR||7o|2tg|412|d
+Shemokmedi|GE||7n|38f|38v|d|Shemok'medi;Shimokmedi;Semokmedi
+Shimukappu|JP||7q|3bg|azm|d
+Shibakōen|JP||7q|2r2|as7|d
+Shirasawa|JP||7q|34r|ato|d
+Shimonakatsukawa|JP||7q|2vq|art|c
+Shyrokyne|UA||98|3mu|2x2|c|Shyrokine;Shirokino
+Shillingstone|GB||9b|3xe|-68|c
+Ship Bottom|US||48|324|-5q2|b
+Shirokaya Rechka|RU||7z|4ds|4o1|b|Sjirokaja-Retsjka
+Shinpokh|PK||6q|2nd|5hq|b
+Shinglehouse|US||48|38k|-617|b|Shingle House
+Shipham|GB||9b|3yj|-7s|b
+Shirak|AM||80|35g|3e0|a|Konakhkran;Kunakhkran
+Shima|CN|Sichuan|7i|2gx|87n|a
+Shiqiao|CN|Tianjin|7i|329|91u|a
+Shishintonil|MX||41|1at|-74w|a
+Shīt|IR|Māzandarān|7o|2tc|44s|a
+Shinjō|JP|Okayama|7q|2pp|ab1|a
+Shyshaky|UA|Poltava|98|3uh|2kh|9|Shishaki
+Shilla|PE||3o|-pn|-5zn|9
+Mets Sepasar|AM||80|361|3dr|9|Shishtapa;Bol’shaya Shishtapa;Mets Shishtapa;Mec Sepasar;Haykakan Shishtapa;Jermuk;Nerkin Shishtapa
+Shirland|US||2f|39w|-6vs|9
+Shimianzhuang|CN||7i|31h|91g|9
+Shiocton|US||2f|3fg|-6u2|9
+Shīt|IR|Zanjan|7o|2uq|3ra|9|Shīd
+Shīzand|IR||7o|2ra|3tk|9
+Şivesor|TR||94|2vm|39r|9|Shivesor
+Norashen|AM|Lori|80|36f|3f5|8|Bogdanovka;Badoyi gyugh;Shishtapa
+Shickshinny|US||48|36b|-5vj|8
+Shirley|US|Indiana|38|32t|-6lq|8
+Şirvanlı|AZ||61|35y|3ny|8|Shirvanly
+Shikharkh|AZ||61|341|3m9|8|Şıxarx;Leninavan
+Sheykh Valī|IR||7o|2y7|3i5|8|Sheikh Vali;Shikhvali
+Shilat|IL||6n|2go|2pa|8
+Shīrāyeh|IR||7o|2vp|3ub|8
+Shimoikehara|JP||7q|2mk|ahp|8|Shimo-ikehara
+Shylivka|UA||98|3va|2nj|7|Shilëvka;Shilovka
+Shangolābād|IR||7o|2xy|3iu|7|Shingilabad;Shengelābād
+Shipshewana|US||38|37r|-6lq|7
+Shiplake|GB||9b|3z2|-2i|7
+Shilovo|RU|Tula Oblast|9i|43r|2z3|7|Sjilovo
+Shinrone|IE||8z|436|-m0|6|Suí an Róin
+Shiloh|US|New Jersey|48|35o|-5s5|6
+Shiloh|US|Ohio|48|35t|-6dg|6
+Shirac|PE||3o|-kf|-60t|6
+Shirakavan|AM||80|34x|3dj|6|Davshanghshlagh;Tovshan-kishlyag;Tavshankishlag
+Shipman|US|Illinois|2f|30o|-6y4|6
+Shindler|US||2f|3cr|-7gh|6
+Shishmaref|US||49|542|-ctb|6|Qiġiqtaq;Shismaref
+Shomrat|IL||6n|2jj|2ph|6|Shimrath;Shimrat;Shamerat
+Shīr Maḩalleh|IR|Gilan Province|7o|2v1|3vx|6|Shīrīn Maḩalleh
+Shirokiy|RU|Magadan Oblast|6z|4v8|bf8|5|Sjirokij
+Shishkino|UA||9t|3hv|2k9|5
+Shimbillo|PE||3o|-iz|-5w2|5
+Yenokavan|AM||80|35n|3hb|5|Krdevan;Yenoqavan;Enoqavan;Kirdevan;Kodevan;Shiraz
+Shipman|US|Virginia|48|2ws|-630|5
+Shiloh|US|New Jersey|48|31m|-5t6|5|Shiloah
+Shiptonthorpe|GB||9b|45o|-1z|5

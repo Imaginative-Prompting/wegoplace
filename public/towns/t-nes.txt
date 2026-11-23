@@ -1,0 +1,62 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ciudad Nezahualcoyotl|MX||41|1hw|-7n1|8b8|Nezahualcóyotl;Nesahualkojotlis;Neza;Cd. Nezahualcóyotl;Cd. Neza;Ciudad Neza;Nezahualkojotlo;Netzahualcóyotl;Ciudad Netzahualcóyotl
+Nashville|US|Tennessee|2f|2sh|-6p2|5bi|Naŝvilo;Nasburgum;Našvila;Nešvilis;Nashwil;Neşvill;Našvėlis;Nashfile;Neshvill;Nachville
+Ness Ziona|IL||6n|2gp|2oo|e0|Nes Ziona;Ness Tziona;Nes Cijona;Nes Ciona;Nes Ționa;Nes Tziyona;Nes Cijjona;Ness Siona;Nēs Tsīyōnā;Nes Tsiyonah;Nes Siyona;Noss Ziona;Nēs Zīyōnā;Nes Ẕiyyona
+Næstved|DK||8y|49f|wo|cb|Nestvedas
+Nesttun|NO||9j|4nk|ev|9w
+Neuchâtel|CH||a7|3mj|j9|9b|Neuenburg;Neŭŝatelo;Nôchâthél;Novicastrum;Nešatelis;Neyshatel;Neşatel
+Nesher|IL||6n|2j1|2pc|6d|Neszer;Nescher;Neixer;Nešer;Nešeras
+Kopřivnice|CZ||9m|3ts|1ee|5w|Nesselsdorf;Kopršivnicės;Kopršivnice
+Nesterovskaya|RU||9i|3c4|3h5|5c|Nesterovskaja;Nesterowskaja
+Nässjö|SE||9w|4g5|14u|4x|Nesšė
+Nesvizh|BY||9g|43u|224|4f|Nyasvizh;Nieśwież;Njaswisch;Njasviž;Nyaszvizs;Nesvyžius;Niasviž;Nes’vezh
+Neston|GB|England|9b|3yt|-64|4a
+Neston|GB|England|9b|440|-8h|47
+Tulchyn|UA||98|3r7|287|46|Toultchyn;Tulczyn;Tultschyn;Nesztervár;Tulcsin;Nestervar;Nesterwar
+Nesconset|US||48|35h|-5n7|3q
+Nesebar|BG||9v|3ai|252|3p|Nesebyr;Nessebar;Nessebur;Neszebar;Mesembria;Neseberas;Nesebŭr;Neseber;Messemwria;Mesemvriya;Mesembrija;Messemvria;Mesemvria;Nesebr;Mesemvrija
+Nesoddtangen|NO||9j|4ma|tm|31
+Nashtārūd|IR||7o|2u3|3xq|1m|Neshtā Rūd;Nashtarood;Nashtā Rūd
+Nesterov|RU||96|47r|1qp|1f|Ebenrode;Stallupönen;Nesterow;Niestierow;Stalupėnai;Njesterow;Stallupenen;Shtallupënen
+Nesvady|SK||8s|3p5|1ed|1e|Naszvad;Nasvad
+Nextipac|MX||41|1lp|-7zl|14|Nestipac
+Nesselwang|DE||8r|3oa|t6|z
+Nesquehoning|US||48|35i|-5ul|x
+Nesluša|SK||8s|3t0|1g2|w
+Neshlaj|IR||7o|2mf|3xv|u|Nashlaj
+Neschwitz|DE||8r|3yf|13t|r|Njeswačidło
+Nesle|FR||9k|3u8|83|q|Nèle
+Nestervarka|UA||98|3r9|286|p|Nesztervarka;Nesterwarka;Nesterovtsi
+Neşetiye|TR||94|2x9|24i|m
+Nesmy|FR||9k|3lf|-3w|l
+Nesbyen|NO||9j|4o9|pa|l
+Nieszawa|PL||a5|42r|1gi|k|Ņešava
+Nesles-la-Vallée|FR||9k|3sh|61|j
+Nestoita|UA||98|3op|29j|h|Nestoyita
+Nescopeck|US||48|361|-5vq|g
+Neskaupstaður|IS||87|50z|-120|f|Neskaupstað;Neskaupstaðar;Neskoipstaduras;Neskaupstadhur
+Neszmély|HU||8v|3om|1f0|f|Nessmühl
+Nes Harim|IL||6n|2g7|2pe|e
+Ness City|US||2f|2yt|-7pj|e
+Nes’|RU||9i|550|3g4|e|Nez
+Nesvoya|UA||98|3qa|21u|d|Nesvoïa;Nesfoaia
+Nes|NL|Friesland|8m|44h|g1|d
+Nesna|NO||9j|53w|106|c
+Neskollen|NO||9j|4n0|vi|c
+Nesovice|CZ||9m|3sj|1bg|b
+Nesso|IT||9o|3jj|pg|b
+Nesles|FR||9k|3wn|4m|b
+Nesles-la-Montagne|FR||9k|3s6|9j|b
+Nessa|DE||8r|3y3|xd|a
+Nes aan de Amstel|NL||8m|416|dj|a
+Nes|NL|Friesland|8m|43d|g9|a
+Nessonvaux|BE||8t|3wh|fy|9
+Nestório|GR||8p|349|1mi|9
+Nesā|IR||7o|2s8|3yk|9
+Nespoledo-Villacaccia|IT||9o|3jq|10d|9
+Nestelbach bei Graz|AT||a2|3mq|17d|9
+Neslovice|CZ||9m|3si|19j|8
+Neschers|FR||9k|3in|8s|7
+Nestáni|GR||8p|2wh|1qf|6|Tsipiana;Nesztani
+Nestelbach im Ilztal|AT||a2|3mt|184|5
+Nespouls|FR||9k|3h5|46|5

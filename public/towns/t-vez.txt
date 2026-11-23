@@ -1,0 +1,26 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vezirköprü|TR||94|36a|2qh|70
+Rakvere|EE||9x|4kv|218|46|Wesenberg;Rakwere;Vezenberg
+Wezep|NL||8m|41q|go|3v|Vezepas
+Vezin-le-Coquet|FR||9k|3po|-4w|18|Gwezin
+Wesenberg|DE|Mecklenburg-Vorpommern|8r|440|101|x|Vēzenberga
+Vezirhan|TR||94|33s|2be|v
+Vezzano sul Crostolo|IT||9o|3fw|ta|o
+Vezin|BE||8t|3wa|dx|n
+Vezins|FR||9k|3mw|-1z|h
+Vézénobres|FR||9k|3ed|bi|g
+Veza|RO||8u|3k9|1ug|g
+Vezza d'Alba|IT||9o|3gc|m9|e
+Vezzano Ligure|IT||9o|3em|rh|e|Vessan Ligure
+Vézelise|FR||9k|3qp|gx|e
+Vezon|BE||8t|3wh|9q|e
+Vezza d'Oglio|IT||9o|3kg|sw|d
+Vezzano|IT||9o|3k0|uk|c
+Věž|CZ||9m|3to|16y|8
+Vézelois|FR||9k|3o9|j8|7
+Vezzi Portio|IT||9o|3ev|n9|7
+Vézins-de-Lévézou|FR||9k|3f0|87|7
+Vezdemarbán|ES||9d|37p|-ex|6
+Vézac|FR||9k|3gj|38|6
+Vezendiu|RO||8u|3o5|1qb|5|Vezendin
+Vézelay|FR||9k|3nv|af|5|Vezeliacus;Verzelai

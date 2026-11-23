@@ -1,0 +1,29 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hvidovre|DK||8y|4ak|yo|ev
+Hwange|ZW||n|-1f0|21m|b2|Hvangė;Wange
+Havre de Grace|US||48|31v|-5vd|3r|Hvre De Grace
+Khvalynsk|RU||9s|41t|3pn|3q|Chwalynsk;Jvalynsk;Chvalynsk;Xvalınsk;Khvalinsk;Ĥvalinsk;Hvalynsk
+Hvardiyske|UA|Crimea|9t|3hc|2mi|3i|Gvardeyskoye;Hwardijśke;Gwardiejskoje;Sarabuz;Hvardiïske;Gvardeïskoïe;Hvardijske
+Zarichne|UA|Dnipropetrovsk|98|3rd|2q3|1q|Hvardiïské;Zarične;Saritschne;Hwardijske;Zariczne
+Hviezdoslavov|SK||8s|3pj|1c7|14
+Hvar|HR||a6|3bx|19o|z|Lesina
+Hvizd|UA||98|3r8|1w7|x
+Hvide Sande|DK||8y|4bk|ml|t
+Hveragerði|IS||87|4xs|-1mv|r
+Hvizdets|UA||98|3qy|1y8|j|Gwoździec;Hwisdez;Hvizdec';Hvizdec;Gvizdets;Hvizdeț
+Hvizdivtsi|UA||98|3qk|23u|h
+Hvolsvöllur|IS||87|4x3|-1k6|b|Hvolsvelli;Hvolsvöll;Hvolsvallar;Rangárþing eystra
+Hvozdná|CZ||9m|3st|1db|b
+Hvozdavka Druha|UA||98|3p1|2bl|b|Hvozdavka Drouha
+Hvittingfoss|NO||9j|4l9|rt|a|Vittingfos;Vittingfoss
+Hvozdnica|SK||8s|3sp|1fd|9
+Hvardiyske|UA|Odesa|98|3lh|2e0|8|Hvardiïské
+Hvožďany|CZ||9m|3tl|12d|8|Hwožďan;Hvožďan
+Hvardiiske|UA||9t|3in|2me|8|Gvardeyskoye;Aqçora;Ğijen Sofu
+Hvalba|FO||85|4r4|-jc|7
+Hvozd|CZ||9m|3tw|1az|7
+Voznica|SK||8s|3qm|1fy|7|Hvozdnica
+Hvalpsund|DK||8y|4di|pk|6
+Hvozdavka Persha|UA||98|3p2|2bk|6|Hvozdavka Percha;Hwosdawka Perscha;Hvozdavka Perša
+Hvězdlice|CZ||9m|3sn|1bg|6
+Hvammstangi|IS||87|51o|-1m6|5|Hvammstanga;Húnaþing Vestra

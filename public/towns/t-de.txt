@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Delhi|IN||6t|27l|5yj|2d56|Delis;Deli;Dillí;Dellium;Šáhdžahanabád;Déhli;Dilhi;Dähli
+Dhaka|BD||6a|1tv|6z5|27wt|Daca;Dacca;Dako;Daka;Dakka;Dakk;Deka;Dakah
+Dongguan|CN||7i|1ry|8rz|22f5|Dongwen shehiri;Tûng-kón-sṳ;Đông Hoản;Dĕ̤ng-uāng;Tungkuan;Tong-kóan-chhī;Tung-kuan;Tungkun
+Depok|ID|West Java|6l|-hs|88q|gp0
+Gustavo Adolfo Madero|MX||41|1i5|-7nb|95e|Delegación Gustavo A. Madero;Gustavo A. Madero
+Dera Ismail Khan|PK||6q|2gf|5gy|5w0
+Deyang|CN||7i|2eh|81y|5o7|Dáik-iòng;Te-jang;Đức Dương;Tek-iông-chhī;Te-yang;Deyan
+Denver|US|Colorado|2p|32e|-83m|5mi|Dénwér;Denber
+Dezhou|CN||7i|2w1|8z9|58r|Detsjou;Te-čou;Đức Châu;Dáik-ciŭ;Deĝoŭ;Tek-chiu-chhī;Te-chou
+Denpasar|ID||70|-o1|8w2|566|Dempassar;Dempasar
+Detroit|US|Michigan|2q|39l|-6ep|4zd|Detrojto;Détroyt
+Mar del Plata|AR||1l|-2xk|-4fw|4kt|Mar-del-plata;Mar Del Plat;Mar de Plata
+Dehradun|IN||6t|2c8|60r|411|Dehra Dun;Deharaduna
+Mianzhu, Deyang, Sichuan|CN||7i|2f2|81i|3xo
+Dera Ghazi Khan|PK||6q|2bh|5g8|3td|Dera Gazi Chanas;Dera Gazi Ĥano;Deri-Ghazi Khan;Dera Ghoz Khan
+The Hague|NL||8m|40o|by|3nr|Den Haag;La Haye;La Haya;Hago;Haag;La Haia;De Haach;An Háig;A Haia;L'Aia;Haga;D'n Haog;Hag;Lahey;Hague
+Davangere|IN||6t|147|5ux|3cv|Davangeri;Devangere
+Dayrah|AE||6c|1y7|49m|334|Deira;Dairah;Daira
+Delmas|HT||4j|1fi|-5ku|31t|Dèlma
+Desna|UA|Kyiv City|98|3wc|2d8|2ud|Desznai kerület
+San Jose del Monte|PH||71|155|9c9|2re|San-Joseo de la Monto
+Doha|QA||7b|1y9|3z5|2nt|Doho;Ad-Dawḩah;Ad-Dauha;Dauhá;Dawḥa;Duoha;Dewhe;Doʻha;Dooxa;Doh;Ad Dawḩah;Ad Dawḩa;Ad Dowhah
+Viña del Mar|CL||4u|-2jq|-5ir|2ku|Vinja del Maras;Vinya del Mar;Vinea Maris;Vinja-del-Maro
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+Denizli|TR||94|2wx|28t|2f0|Denisli;Denizlu
+Ciudad del Este|PY||1y|-1yu|-47t|2bu|Siudad del Estė;Sjudad Del Este;Syudad del Este;Kota del Este;Bandar del Este
+Dewas|IN||6t|1rt|5va|28g
+Dengzhou|CN|Henan|7i|2is|8nd|276
+Santa Teresa del Tuy|VE||2c|sf|-556|25h
+Demra|BD||6a|1tv|6zc|258
+Deir ez-Zor|SY||69|2q6|33i|23i|Dayr al-Zawr;Der Ezzor;Deir Azzor;Deir el-Zor;Deir al-Zor;Dajr az-Zaur;Dair az-Zaŭr;Deir ez Zor;Dajr ez-Zaur;Deir ez Zoras;Deyrizor;Dayr az-Zawr;Dayr az Zawr;Dayr uz-Zur;Deir al-Zour;Dêrezor;Deir-es-Sor;Deyrez-Zor;Deir Zzor;Dayr az Zūr;Dayr al-Zor;Deir ez Zoar
+Derby|GB||9b|430|-44|235|Derbio;Derbi;Dārbi;Derbia;Dēoraby;Derbis
+Dessie|ET||2|ux|323|234|Desje;Dese;Dasē;Dessi;Dessye
+Dezful|IR||7o|2hy|3qh|21j|Dezfoul;Dīzfūl
+Santiago del Estero|AR||1n|-258|-4yi|1y2|Santjago del Esteras;Sanctus Iacobus ad Uligines
+Colonia del Valle|MX||41|1hv|-7ng|1xg|Col. del Valle;Col del valle;del Valle
+Croix-des-Bouquets|HT||4j|1fm|-5kn|1rn|Kwadèbouke
+Tongchuanshi|CN||7i|2pf|8f0|1q4|Dè̤ng-chiŏng;Tchung-čchuan;Đồng Xuyên;Tâng-chhoan-chhī;T’ung-ch’uan-shih
+Dehiwala-Mount Lavinia|LK||68|j0|65v|1p2|Dehivala-Maunt Lavinija;Mount Lavinia;Dehivala-Maunt Lavinia;Mount Laviniya;Mount Lavania;Mount Lavina
+Sa Dec|VN||6h|sl|85s|1nm

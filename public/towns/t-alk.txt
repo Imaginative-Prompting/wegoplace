@@ -1,0 +1,69 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Al Khuşūş|EG||c|2br|2f0|3rt|El-Khuṣûṣ
+Kenitra|MA||d|2n6|-ia|3mt|Kenitro;Al-Kunajtira;Kenitre;Khenifra
+Al Kharj|SA||7e|1v4|3nh|3a5|El-Harc;Al Khardj
+Al Qadarif|SD||r|12z|2qa|2t3|Al-Qadarif;Gedaref;Gadarif;Gadaref;El-Gadarif;Al-Kadarif;Al Kadarif;El Gedaref
+Al-Kut|IQ||5z|2ib|3ja|2fk|Kut;Al Koet;Al Kūt
+Al Khums|LY||1d|2ip|13m|1k3|Al-Chums;Al Ĥums;Khums;Humsas;Kums;Al-Khums;El Hums;Al Jums;El Xums;Khoms
+Alcalá de Henares|ES||9d|34g|-9c|1hu|Cómpluto;Complutum;Alkala de Henaresas
+Al Qāmishlī|SY||69|2ux|36j|1f6|Al-Qamishli;Qamischli;Kamishli;Kamishlié;Qamişlo;Kamischli;Qamışlı;Kámišlí;Qamichli;Qamichlîyé;Qāmeshli;Kamichlieh;Kamechlie;Al-Kamishly
+Alcorcón|ES||9d|343|-am|1bw|Alkorkono;Alkorkonas
+Khobar|SA||7e|210|3vh|1a2|El Huber;Al-Chubar;Hubar;Al Khubar
+Hebron|PS||6g|2fl|2ph|18l|Hebrom;El Halil;Al-Khalil;Hevron;Al Khalīl;El Khulil;El Khalil
+Kairouan|TN||1e|2r4|s2|12n|Qairawān;Kajruano;Qayrawan;Kairuan;Cairuão;Kayravan;Al-Qayrawān;Kairuanas;Keruan;Qayruvon;Qayravan;Qairwan;Kairwan;Qairouan;Al Qayrawān;Al-Kayrawān
+Alcobendas|ES||9d|34n|-a4|w8|Alcovendae;Alkobendasas
+Alkmaar|NL||8m|427|d7|qd|Alkmar;Alkmaras;Alkmaer
+Kasserine|TN||1e|2pp|ok|ng|Kaserinas;Kassarin;Al-Kasrajn;Qasserine;Kasserin;Al Qaşrayn
+Al Khārjah|EG||c|1yp|2cv|n3|Al-Kharga;Al Khārijah
+Al-Khārijah|EG||c|1y5|2cv|n3
+Al Khānkah|EG||c|2bx|2f5|mo|El-Khânkâh;El-Khânka
+Al Karama|AE||6c|1y4|49m|l0
+Al Qā’im|IQ||5z|2nj|35v|kl|Al-Káim;Al-Qa'im;Al-Qaïm;Al Kaim;El Kaim;El Qa’im
+Alcoy|ES||9d|2zj|-1b|h4|Alcoi;Alkojus;Alcodium;Alco
+Kuwait City|KW||6x|29l|3p9|gp|Ciudad de Kuwait;Kuvajto;Kuvajturbo;Kuwait-Stadt;Kuwait;Kuwait-Urbo;Al-Kuwait;Madinat al-Kuwait;Koeweit;Kuwait by;Kuwejt;Kuvajt;Kuwait Stad;Koweït;Kuväyt;Koveyit;Kota Kuwait;Kuveitas;Kuweit;Al Kuwayt;Madīnat al Kuwayt;Al Kuwait;Kuwayt
+Al Khafjī|SA||7e|270|3qp|f9
+Al Khābūrah|OM||72|1ul|4el|dy|Al Khābūra;Khābūrah;Al-Khabourah
+Al Khurmah|SA||7e|1ov|38r|7x|Khurmah
+Al Kiswah|SY||69|2ko|2so|6j|Kiswah
+Karak City|JO||5t|2ek|2rc|61|Karak;Kerak;Al-Karak
+Qaisumah|SA||7e|26n|3k5|5r|Al Qaysumah;al-Qaysūma;Al-Kajsuma;Kaysume
+Al Qarārah|PS||6f|2f5|2ne|5f|Al-Karara;Al-Qarara;Al Qarara
+Al Khawr|QA||7b|1zc|3z3|59|Al Khor;Municipio de Jor;Chauras;Al-Chaur;Al-Khaur
+Khasab|OM||72|20q|4c9|4z|al-Chasab;Chasab;Chasabas;Hasab;Xasab;Al Khasal
+Al Khabrā’|SA||7e|20f|3d6|4p
+Alcobaça|PT||99|31v|-oy|4e|Alkobasa
+Al Khawaneej 1|AE||6c|1y5|4a5|3e
+Alken|BE||8t|3xc|er|31|Alleke
+Alkhan-Kala|RU||9i|3c6|3ii|2u|Meždugor’e;Walxan-Ġala;Mezhdugor’ye;Alhan-Kala
+Al Kawa|SD||r|127|2ia|2u|El Kawa
+Al Kiremit al ‘Arakiyyīn|SD||r|13v|2ji|2q
+Al Khaḑrā’|LY||1d|2i4|129|2n
+Al Karāmah|JO||5t|2gr|2qu|2m|El Karāma;El Karamah;El Karameh
+Al Khaḑir|PS||6g|2g1|2pp|2i|Al Khadr;El Khader;El Khadr;Al Khiḑr
+Alkhan-Yurt|RU||9i|3c3|3il|2h|Alkhan-Jurt;Ayvazovskoe;Ermolovskaya;Walxan-Yurt;Ayvazovskoye;Alhan-Jurt
+Alkhan-Churt|RU||9i|3cf|3gf|25|Alkhan-Tsjurt;Alxan-Çurtskii;Alhan-Čurt
+Al Qaţrūn|LY||1d|1xb|14p|20|El Gatrun;Al Katrun;Al Gatrun
+Al Khabaisi|AE||6c|1y7|49p|1v
+Alūksne|LV||9n|4fi|235|1q|Alksne
+Alkimos|AU||8k|-2fv|8xd|1p
+Al Kittah|JO||5t|2ho|2rk|1k|El Kitta;Al Kittā
+Alkmaar|SR||4h|g9|-48u|1k
+Alkhazurovo|RU||9i|3bm|3it|1j|Olxazaran-Khotar;Olxazar-Khotar;Privol’noe;Privol’noye;Alhazurovo
+Al Khinzīrah|JO||5t|2e9|2qx|1g|Khinzīrah
+Al Karmil|PS||6g|2fa|2pl|11
+al-Kum|PS||6g|2fl|2p4|q|Alkoum
+Leppäkorpi|FI||92|4no|1xp|o|Alkärr
+Ālīkūh|IR||7o|2h9|3wa|m|Ālkūh
+Alcántara|ES||9d|32c|-j4|h|Alkantara
+Alkoven|AT||a2|3q5|137|e
+Alek|IR||7o|2oo|3m5|d|Alak;Alk
+AL-khashā upper|YE||5r|13u|3lr|b
+Algestrup|DK||8y|49u|xk|9|Alkestrup
+AL-khashā Lower|YE||5r|13v|3lt|8
+Ālkalleh|IR||7o|2u5|3xl|8|Āl Kaleh
+Al Ka‘ābinah (Tajammu‘ Badawī)|PS||6g|2gd|2q5|7
+Alken|DE||8r|3vl|kp|7
+Alksniupiai|LT||a3|4b1|1u2|5|Alksnupiai
+Al Khuljān|PS||6g|2i5|2pm|5

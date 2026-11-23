@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New London|US|Connecticut|48|36w|-5ka|7k|Nova Londres;Nov-Londono;New-London
+Navlya|RU||9i|42r|2nu|3t|Navlja;Novlya
+Nogliki|RU||7f|3zw|b1m|2t|Noglik;Novliki

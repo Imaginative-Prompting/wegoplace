@@ -1,0 +1,199 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+Lobito|AO||x|-yc|11m|317|Lubitu;Lobitas;Llobín;Lobita;Lobitu
+L'Hospitalet de Llobregat|ES||9d|36w|5u|1ze|Hospitalet de Llobregat;l'Hospitalet
+Limoges|FR||9k|3jb|3h|138|Llemotges;Limoĝo;Limòtges;Augustoritum;Lemòtges;Lemojez;Limožas;Limoža;Limages
+Lleida|ES||9d|37m|1q|134|Lérida;Ilerda;Ilerdo;Lhèida
+León|ES||9d|3ac|-fh|yo|Ciudá de Llión;Lleó
+Llanelli|GB||9b|3zk|-bk|ds|Lanelis;Llanelly
+Llefià|ES||9d|374|66|c6
+Sama|ES||9d|3ca|-fs|b4|Langreo;Llangréu
+Lloret de Mar|ES||9d|37u|7x|ae
+Llucmajor|ES||9d|31p|81|a1
+Lloydminster|CA||2s|43z|-8hm|8s
+Llallagua|BO||3n|-1f6|-54y|7t|Llallawa
+Llíria|ES||9d|323|-1o|6e|Liria
+Llaillay|CL||4u|-2j8|-5h4|6b|Llaillai;Llay-Llay
+Los Llanos de Aridane|ES||83|27m|-1ds|5m|Llanos de Aridane
+Llazicë|XK||8q|3a8|1lo|5j|Llozicë
+Laudio / Llodio|ES||9d|3bu|-88|53|Llodio;Laudio
+Llanquihue|CL||4u|-36m|-5mt|4i|Llankünwe
+Llandudno|GB||9b|444|-an|4a|Landidnas;Llundadno
+Llantrisant|GB||9b|3z6|-9d|40
+Llantwit Major|GB||9b|3yt|-9p|40|Llanilltud Fawr
+Lliçà d'Amunt|ES||9d|37m|67|3x|Llissá de Munt
+Llanera|ES||9d|3co|-g9|3v
+Llanes|ES||9d|3cm|-d7|3s
+Pola de Lena|ES||9d|3bw|-g7|33|Lena;Llena;Pola de Llena
+Leominster|GB||9b|413|-7m|31|Llanllieni
+Ludlow|GB||9b|41h|-7j|2x|Llwydlo;Ladlou
+Luanco|ES||9d|3d6|-g3|2w|Lluancu;Luanzo
+Llano Bonito|PA||4g|m5|-67e|2p
+Pola de Laviana|ES||9d|3c5|-fg|2j|Laviana;Llaviana;Pola de Labiana;Labiana
+Llandaff|GB||9b|3z1|-8y|2g|Landava;Llandaf
+Llorente|PH||71|vp|9or|27|Lorente
+Llagostera|ES||9d|387|81|1v
+Llorente|CR||2i|rs|-6hs|1u
+Lluta|PE||3o|-18h|-5k1|1o
+Lloren|PH||71|19d|9aj|1m|San Pascual
+Llanharan|GB||9b|3z6|-9k|1m
+Llerena|ES||9d|2y7|-gq|1l
+Llandrindod Wells|GB||9b|414|-9e|1h|Llandrindod
+Lloseta|ES||9d|32c|7z|1h
+Llanera|PH||71|17i|9c6|1f
+Llançà|ES||9d|39o|8r|1d
+Llangefni|GB||9b|43y|-bz|1d|Langevnis
+Llongasora|PE||3o|-17g|-5i2|1c
+Llata|PE||3o|-q6|-5xa|1a
+Llacao|EC||33|-7z|-634|19
+Llera de Canales|MX||44|1ss|-7n3|15
+Llantwit Fardre|GB||9b|3z7|-99|14|Latvit Fardras;Llanilltud Faerdref;Llantwitt-fardre;Llantwitvairdre
+Llanbradach|GB||9b|3zd|-8z|11
+Llosa de Ranes|ES||9d|30e|-1i|11
+Lloyd Harbor|US||48|35m|-5o2|11
+Llanfairfechan|GB||9b|43y|-b1|10
+Llangollen|GB||9b|435|-8t|z
+Llangeler|GB||9b|40j|-c5|y
+Saint Asaph|GB||9b|43y|-9l|y|Llanelwy;St Asaph
+Llano|US||2f|2dg|-7m4|x
+Llanrwst|GB||9b|43m|-ak|x|Llanwrst
+Lluidas Vale|JM||3i|1ed|-5yb|w|Luidas Vale
+Ilaya|PH|Zamboanga Peninsula|71|nr|9iv|v|Ylaya;Llaya
+Llanharry|GB||9b|3z3|-9j|u|Llanhary
+Llano Grande|US||2f|20l|-7k5|u
+Lampeter|GB||9b|40r|-bc|u|Llanbedr Pont Steffan
+Llanidloes|GB||9b|41p|-9u|t|Lanidloisas
+Llanfairpwllgwyngyll|GB||9b|43u|-bo|t|Llanfair Pwllgwyngyll
+Builth Wells|GB||9b|40v|-9g|s|Llanfair-ym-Muallt
+Llandybie|GB||9b|3zy|-b5|s|Llandebie
+La Llanada|CO||27|43|-5zi|r|Llanada
+Llombai|ES||9d|314|-1l|r|Llombay
+Lloró|CO||27|fa|-5wn|r
+Llano de la Y|MX||41|1hw|-7oq|q
+Llutxent|ES||9d|305|-z|p|Luchente
+Llano Suchiapa|MX||41|1av|-7c1|p
+Llwynypia|GB||9b|3zf|-9l|n|Llwynpia;Llwyn-y-pia
+Llano Largo|MX|Hidalgo|41|1ke|-7p5|m
+Llanarth|AU||8l|-2ks|bjf|l
+Presteigne|GB||9b|417|-8d|l|Llanandras;Fanum Andreae;Presteigh;Presteign
+Llubí|ES||9d|32a|8d|k
+Lumbrales|ES||9d|35q|-io|k|Llimiares
+Lluveras|PR||4m|1e4|-55u|k
+Llandovery|GB||9b|40f|-ak|k|Llanymddyfri
+Llano de Zacapexco|MX||41|1iq|-7od|j
+Llano Grande|MX|Durango|44|1ua|-849|j
+Llanrug|GB||9b|43n|-bo|j
+Llupia|FR||9k|3ae|7p|j
+Llansantffraid Glan Conwy|GB||9b|43z|-ak|j|Llansantffraid-Glan-Conway
+Llanberis|GB||9b|43k|-bh|i
+Llandeilo|GB||9b|404|-b3|i|Llandilo
+Llano Marín|PA||4g|nl|-675|i
+LLano de La Cruz|NI||3s|10g|-6mx|g
+Llandilo|AU||8l|-2ln|bmr|g
+Llano de la Lima|MX||41|15b|-74e|g
+Llívia|ES||9d|39y|5i|g
+Lucena del Cid|ES||9d|33h|-s|f|Llucena
+Llano Grande|MX|Sinaloa|3x|1zj|-8c8|f
+Lluka e Eperme|XK||8q|3a7|1kf|f|Llukë e Epërme;Luka e Epërme
+Llandysul|GB||9b|40k|-bz|f|Llandyssil;Llandyssul
+Llano Grande|MX|Veracruz|41|1ht|-7h4|e
+Laplje Selo|XK||8q|3ac|1mq|e|Llapje Sellë;Llapllasellë;Fshati Llap
+Llano de Enmedio|MX||41|1lq|-7k9|e|Llano Enmedio
+Llano Grande|MX|Guerrero|41|1b2|-7o7|d
+Llano de la Puerta|MX||41|1ai|-7oh|d
+Llano Largo|PA|Panamá Oeste Province|4g|ok|-65o|d
+Llano del Beal|ES||9d|2wi|-2c|d
+Llaurí|ES||9d|30r|-x|d
+Llano Grande|MX|México|41|1gb|-7p5|d
+Lloret de Vistalegre|ES||9d|322|89|b
+Llanerchymedd|GB||9b|445|-c6|b
+Llers|ES||9d|39i|83|b
+Llano de Agua|MX||41|1eb|-7gx|b
+Llanfyllin|GB||9b|42l|-93|b
+Llanilar|GB||9b|41g|-b7|b
+Llamas de la Ribera|ES||9d|3ag|-g7|b
+Llanera de Ranes|ES||9d|30c|-1m|b
+Llanfair Caereinion|GB||9b|429|-99|b
+Llano de Piedra|PA||4g|lb|-67s|b
+Lloqan|XK||8q|3a4|1kc|b|Loćane;Loçan;Lloçan;Lloçani
+Llano de las Flores (Barrio del Hueso)|MX||41|1i0|-7nw|a
+Llano del Tigre|MX||3x|1ph|-84i|a
+Llangynidr|GB||9b|403|-8z|a
+Llano Largo|PA|Los Santos Province|4g|lz|-67e|a
+Llangeinor|GB||9b|3za|-9x|a
+Llama|PE||3o|-i3|-63s|a
+Llusco|PE||3o|-13u|-5kb|a
+Llano Grande|MX|Oaxaca|41|19a|-7lg|a
+Llano de Santa Rosa|PA||4g|oc|-65u|9
+Llera|ES||9d|2yt|-gt|9
+Llano Grande|MX|Jalisco|41|1jo|-83b|9
+Savines-le-Lac|FR||9k|3fp|hs|9|Savines;Llac de les Savines;Savina;Savina lo Lac
+Llano Nuevo|MX||41|1a4|-7iv|9
+Llano Largo|HN||56|147|-6va|9
+Llanymynech|GB||9b|42m|-8l|9
+Llangwm|GB||9b|3zr|-dn|9|Langwm
+Llechryd|GB||9b|40n|-ct|9|Llechrhyd
+La Llacuna|ES||9d|377|49|9|Llacuna
+Llannon|GB||9b|3zs|-bg|9
+Llan Ffestiniog|GB||9b|434|-ax|9
+Llangoed|GB||9b|441|-bd|8|Langoes
+Lloyd|AU||8l|-2pn|bda|8
+Llocnou d'En Fenollet|ES||9d|30d|-1b|8|Lugar Nuevo de Fenollet
+Llano Grande de los Hilarios|MX||41|1ak|-7lg|8|Llano Grande de los Hilario
+Llano Crucero|MX||41|1az|-7ew|8
+San Juan Llano Grande|MX||41|1e7|-7kh|8|Llano Grande
+Llano de la Canoa|MX||41|1bh|-7i2|7
+Llandyrnog|GB||9b|43q|-9a|7
+Llapa|PE||3o|-je|-62x|7
+Llacllin|PE||3o|-rz|-5zm|7
+Llano Sánchez|PA||4g|ms|-686|7
+Lluka e Poshtme|XK||8q|3a7|1ki|7|Llukë e Poshtme;Lluka e Poshtem
+Llano Grande|MX|Guerrero|41|1cb|-7na|7
+Llano de la Cruz|MX||3x|1qb|-84q|7
+Llano Grande|MX|Chiapas|41|16e|-74f|7
+Llanddona|GB||9b|441|-bi|7
+Llano Grande|MX|Chiapas|41|1bi|-76p|7
+Llano Grande|MX|Guerrero|41|1ai|-7nh|7
+Llano Grande de Juárez|MX||41|1ay|-7lk|7
+Llapo|PE||3o|-nn|-60s|7
+Llano Grande|MX|Durango|44|1ri|-82c|7
+Llangattock|GB||9b|401|-8r|7
+Llangadog|GB||9b|40a|-as|7
+Llacanora|PE||3o|-jz|-61v|6|Ilacanora;Liacanora
+Llanrhystud|GB||9b|41b|-bi|6
+Llano Grande|MX|Michoacán|41|1j5|-7qq|6
+Llanos del Caudillo|ES||9d|30o|-9b|6
+Llocllapampa|PE||3o|-wu|-5u2|6
+Llano Blanco|MX||41|1lj|-7nz|6
+Llano Grande|MX|México|41|1gb|-7q2|6
+Llanwrtyd Wells|GB||9b|40r|-a4|6
+Llano Grande de Milpillas Chico|MX||44|1t1|-83s|6
+Llipa|PE||3o|-su|-5yh|6
+Llanbedrog|GB||9b|42u|-ch|6
+Llan-non|GB||9b|418|-bm|6|Llannon;Llanon
+Llanos de San Lorenzo|MX||41|1kb|-7ht|6
+Llanfechell|GB||9b|44b|-ce|6
+Lladó|ES||9d|39d|7t|6|Lledó
+Llandinam|GB||9b|41s|-9k|6
+Llano de Guadalupe|MX||41|1bp|-7j6|6
+Llardecáns|ES||9d|36x|1j|6
+Llocnou de Sant Jeroni|ES||9d|304|-s|6|Lugar Nuevo de San Jerónimo
+Llano Grande|PA||4g|nz|-661|6
+Llano Grande|MX|Chiapas|41|1bb|-76a|6
+Llacta|PE||3o|-p3|-607|6
+Llano Limón|PA||4g|mx|-6at|5
+Llandogo|GB||9b|3zp|-7h|5
+Llano Verde|MX|Oaxaca|41|19z|-7jc|5
+Llano Largo (Santa Rosa de Lima)|MX||41|1jm|-7qb|5
+Llano Verde|MX|Puebla|41|1iw|-7kk|5
+Llano Junco|PA||4g|n7|-6b3|5
+Llano Largo|MX|Chiapas|41|18i|-78k|5
+Llano de los Laureles|MX||41|1kf|-84j|5
+Llwyngwril|GB||9b|42b|-bc|5
+Llano Silleta|MX||41|1b2|-7lx|5
+Llandissilio|GB||9b|402|-d5|5
+Llanrhidian|GB||9b|3zd|-bl|5
+Llano Grande|MX|Guerrero|41|1bo|-7mo|5
+Llique|PE||3o|-14d|-5ke|5
+Llanellen|GB||9b|3zv|-8d|5
+Llanarth|GB||9b|40z|-bz|5

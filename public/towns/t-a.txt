@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Ahmedabad|IN||6t|1rz|5ln|1d21|Ahmadabado;Ahmadabad;Amedebatum;Ahmadabadas;Amdāvāda;Exmetabad;Ahmadobod;Amedabato;Amadavad
+Abidjan|CI||0|ev|-b4|1cru|Abiyán;Abidžanas;Abidżan;Abidžana;Abican;Abiĝano;Abidžans;Abijan
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Riyadh|SA||7e|1wl|3ls|wgc|Riad;Al-Riyad;Rijád;Ar-Riyāḑ;Riyad;Rijadas;Riade;Riadi;Rijāda;Ar-Riyod;Riaad;Rihad;Riadum;Riado;Ar-Riaad;Er-riyad
+Addis Ababa|ET||2|p2|2zn|ts8|Ādīs Ābeba;Adis-Abebo;Addis Abeba;Addis-Abeba;Addisz-Abeba;Neanthopolis;Adisabeba;Adis Ababa;Tungga;Addisaaba;Addis Abbaba
+Los Angeles|US||3p|2ml|-94g|thd|L.A.;Los-Anĝeleso;Angelopolis;Los Andželas;Los Anxhelos;Los Anxheles;Os Ánxeles;Losandželosa;Los Anjélés;Lo̍k-chhám-kî;Los-Anceles;Los-Anjeles;Luos Andžels;Los Andželes
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Ankara|TR||94|32w|2j9|r50|Angora;Ancyra;Ankaro;Ancara;Enqere;Ăng-kā-lá;Angkara;Anqara;Ankar;Anakara;Ankura;Ankyra
+Anshan|CN||7i|368|9hn|pnq|Ansjan;Anxan;An-šan;Anŝano;Anšanas;An Sơn;Ăng-săng;An-san-chhī
+İzmir|TR||94|2yp|23e|mo7|Esmirna;Smirne;Ismir;Smyrne;Azmir
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Abuja|NG||u|p6|ku|kr8|Abuĝo;Abudža;Abuya;Abouja;Abuca;Abugia;Abodža;Abudž
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Mashhad|IR||7o|2su|4ll|hsw|Mashad;Maŝhado;Meszhed;Mexed;Maschhad;Masyhad;Meşhed;Mešheda;Meixad;Mešhedas;Maxhad;Maşat;Sanaabad;Alexandria
+Gaziantep|TR||94|2uy|2vu|h5c|Aintab;Dîlok;Qaziantep;Qazianteb
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Aleppo|SY||69|2sk|2v8|g6u|Alepo;Alep;Heleb;Alepas;Halep;Ḩalab;Xalab;Aleppu;Haleba;Ḥaleb;Halapia;Aleppe
+Al Mawşil al Jadīdah|IQ||5z|2sx|3br|fxs
+La Paz|BO||3n|-19u|-59b|fgv|Chukiyawu;La-Pazo;A Paz;Pax;La Pasas;Chuqiyapu;La Pas;Chuqi Yapu;Lapasa;La-Pas
+Almaty|KZ||5s|3c5|5xn|f96|Alma-Ata;Almato;Almati;Almata;Werny
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Hamburg|DE||8r|44r|rr|f8b|Hamburk;Hamborg;Hanburgo;Hampuri;Hambourg;Amburgo;Amborg;Augusta Gambriviorum;Hambuurich;Hamburch;Amburgu;Hambörj;Hamboarch;Hamepuka;Hamburq;Gamburg
+Accra|GH||1|fg|-k|f5d|Akrao;Akra;Acra;Akkra;Nkran;Aakrá;Akara;Akkr
+Diyarbakır|TR||94|2xb|33q|e5d|Dijarbakiro;Amed;Amida;Diyarbekır;Dijarbakyras;Dijarbakira;Diyarbekr;Diyarıbekir;Diyarıbakır;Diari-Békir;Diarbekir;Diarbekr
+Adana|TR||94|2ur|2q5|e0o|Adanë;Edene;Adano;Antioch on Sarus
+Abu Dhabi|AE||6c|1vx|474|dxy|Abu Dabi;Abú Zabí;Abu-Dabio;Abou Dabi;Abu Dabis;Äbu Saby;Aboe Dhabi;Abû Daby;Abu-Dzabi;Abú Daibí;Ebu Dhabi;Abu-Dabi;Ebu Dabi;Â-pu-tha̍t-pí;Abū Z̧aby;Abū Z̧abyo;Abū Z̧abye
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Puebla|MX|Puebla|41|1gx|-7kt|d22|Cuetlaxcoapan;Angelopolis;Puebl;Yucha Nchu'u;Pueblo
+Erbil|IQ||5z|2sj|3e9|cfz|Hewlêr;Arbil;Irbil;Hawler
+León de los Aldama|MX||41|1mo|-7ug|c6u|León;Leon Guanajuato
+Makkah|SA||7e|1nj|32n|c6j|La Mecque;La Meca;Mekko;Mekao;Mekka;Mecca;A Meca;Meka;Meice;Mekkah;La Mecca;Meke;Meca;Mecka;Mekke;Mäkkä
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+Auckland|NZ||ak|-2ud|dhg|bxs|Oklandas;Oklenda;Awklanda;Tāmaki-makau-rau;Aucopolis;Aucland;Aŭklando;Oklan
+Astana|KZ||5s|3y6|5ih|bwx|Tselinograd;Astano;Asztana;Nur-Sultan;Akmolinsk;Nour-Soultan;Nur-Sultano;Noer-Soeltan
+Harare|ZW||n|-1dj|2e9|bwk|Arare
+San Antonio|US|Texas|2f|29q|-7ll|bs3|Sanctus Antonius;Sanantonio;San Antonijus;San-Antonio;San Antoniyo

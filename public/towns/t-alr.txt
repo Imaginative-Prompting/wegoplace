@@ -1,0 +1,19 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Riyadh|SA||7e|1wl|3ls|wgc|Riad;Al-Riyad;Rijád;Ar-Riyāḑ;Riyad;Rijadas;Riade;Riadi;Rijāda;Ar-Riyod;Riaad;Rihad;Riadum;Riado;Ar-Riaad;Er-riyad
+Ar Rayyān|QA||7b|1y9|3yu|23p|ar-Rayyan;Al Rayyan;Al Raiyan
+Ramadi|IQ||5z|2ku|3cb|1q3|Al-Rumadi;Remadî
+Ar Ramthā|JO||5t|2ig|2s1|179|Ramtha;Er Remtha;Alramtha;Al ramtha
+Ar Rifā‘|BH||60|20l|3wg|w3|Riffa;Rifa;Ar-Rifā‘;Ar-Rifa;Al-Riffa;Er Rifaa;Ar Rifa
+Errachidia|MA||d|2gp|-cb|s1|Ksar es-Souk;Er-Rachidía;Al-Rashidiyya;Rachidia;Rašidija;Er Rachidia;Ar-Raszidijja;ar-Rachīdīya
+Ar Rastan|SY||69|2p1|2u1|es|Er Rastan;Al-Rastan;Rastan
+Ar Riqqah|KW||6x|28z|3pl|eh|Al-Riqqah
+Ar Raḩmānīyah|EG||c|2ee|2d4|cd|Er-Rahmânîyeh;Ar Rahmaniyyah;Er-Raḥmânîya;Al Rahmaniyah
+Ar Rāshidīyah|AE||6c|1y2|49v|ao|Rashīdīyah;Al Rashidiya
+Ar Ruţbah|IQ||5z|2js|33x|68|Rutbah;Al Rutbah
+Auray|FR||9k|3of|-8a|3f|An Alre;Alraium
+Al Ritchie|CA||4q|3w4|-82i|27
+Alrewas|GB||9b|42h|-4v|t
+Al Raafah|AE||6c|1yz|4ap|r
+Al Rashaydeh|PS||6g|2g7|2q7|l
+Alresford|GB||9b|401|2s|k
+Alrmtheiah|SA||7e|1wq|3bc|a

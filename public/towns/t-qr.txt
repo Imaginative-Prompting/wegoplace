@@ -1,0 +1,16 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Graz|AT||a2|3mr|16w|2c9|Štýrský Hradec;Graco;Graecia;Graca;Gradec;Grác;Gracas;Qras;Gradac;Gratz
+Grozny|RU||9i|3cb|3ix|2aj|Grosny;Grozni;Grosnij;Grozno;Groznîi;Groznâi;Grosnî;Groznõi;Groznas;Džohar;Džohhar;Sölž-Ghala;Qroznı;Groznıy;Groznij
+Greensboro|US|North Carolina|48|2s7|-65n|279|Qrinsboro;Grinsboras
+Groningen|NL||8m|43u|i9|1w0|Groninga;Groningue;Grins;Groninge;Grunneng;Qroningen;Greunienge
+Granada|ES||9d|2vb|-a1|1sv|Granado;Grenade;Granata;Grenada;Grenado;Grenayd;Gırnata;Qranada;Graná
+Grenoble|FR||9k|3hi|fv|182|Grenoblo;Grenobel;Qrönobl;Gratianopolis;Grenoblis;Grenobl
+Grande Prairie|CA||2s|499|-960|jk|Qrand-Preri;Gran Preri
+Greenock|GB||9b|4bf|-d8|bh|Grianaig;Grinokas;Qrinok
+Greenwich|GB||9b|3z0|-1|8i|Grinvičas;Griniča;Grenovicum;Grinvich;Qriniç
+Green|US|Oregon|3p|3bw|-9ip|23|Qrin
+Grosse Pointe|US||2q|39r|-6eb|1g|Qross-Puent;Grosse Point;Grosspoint;Grossepointe
+Qrendi|MT||9e|2rj|146|v|Crendi;Krendis;Krendi
+Gruyères|CH||a7|3le|jo|g|Greyerz;Grejerco;Qruyer;Grueria
+Greenland|BB||22|10u|-4li|6|Grenlandiya;Groenlandia;Groenland;Qrenlandiya;Grönland
+Grytviken|GS||88|-46s|-2tf|0|Griutvikenas;Gritviken;Qryotviken

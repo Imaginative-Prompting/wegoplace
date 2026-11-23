@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Melbourne|AU||8j|-2x1|b6o|15xw|Melburno;Melbournum;Melburnas;Melburna;Melben;Melborns;Melburn
+Medan|ID||6l|9y|7m3|j6n
+Mashhad|IR||7o|2su|4ll|hsw|Mashad;Maŝhado;Meszhed;Mexed;Maschhad;Masyhad;Meşhed;Mešheda;Meixad;Mešhedas;Maxhad;Maşat;Sanaabad;Alexandria
+Medellín|CO||27|hd|-5tx|ffk|Medeljino;Medelim;Medeljinas;Medeljina
+Manila|PH||71|14k|9c2|ccg|Manilo;Manille;Manilla;Maynila;Menila;Manyl;Manillah;Mainile;Lungsod ng Maynila
+Makkah|SA||7e|1nj|32n|c6j|La Mecque;La Meca;Mekko;Mekao;Mekka;Mecca;A Meca;Meka;Meice;Mekkah;La Mecca;Meke;Meca;Mecka;Mekke;Mäkkä
+Milan|IT||9o|3ia|pj|akz|Mailand;Milaan;Milà;Mediolanum;Mediolan;Milão
+Maoming|CN||7i|1o7|8k3|a3a|Mao-ming;Meu-miàng-sṳ;Mậu Danh;Bō͘-bêng-chhī;Chaozhou;Mâiu-mìng
+Madinah|SA||7e|1vz|321|a14|Medina;Medino;Mediina;Médine;Medyna;Mädinä;Medin;El Medina;Al Medina;Al Madina
+Meerut|IN||6t|28i|5zv|9fs|Merath;Miratas;Mirát
+Mérida|MX|Yucatán|3z|1m9|-6wy|99m|Emerita
+Meishan|CN||7i|2bg|80g|8jp|Mì-săng;Mej-šan;Mi Sơn;Bî-san-chhī;Meyshan’
+Mexicali|MX||58|2in|-8wp|7yv|Meksikalis;Mexihcali;Mexicalo;Meksikali
+Marrakesh|MA||d|2fv|-m8|7on|Marrakesch;Marrakech;Marràqueix;Marrakesz;Marakeŝo;Marakeš;Marrákeš;Marraquexe;Maraksh;Merrakex
+Meizhou|CN||7i|1vh|8yk|7no|Mej-čou;Mòi-chiu-sṳ;Mai Châu;Mûi-chiu-chhī;Mùi-ciŭ
+Malatya|TR||94|2yj|2yg|5sh|Meletî;Malatija;Malatja;Meletiye;Malatia;Malatiyah
+New South Memphis|US||2f|2ph|-6y6|4y8
+Memphis|US|Tennessee|2f|2pn|-6y5|4vv|Mênfis;Mémfis;Memfisa
+Mengzi|CN||7i|1sx|7z6|4lb
+Malacca|MY||6v|64|7w0|4gu|Malakka;Malaca;Melaka;Malaka
+Meknes|MA||d|2m5|-ff|4dv
+Albuquerque|US||2p|2pg|-889|4cu|Alburquerque;Duke City;The Duke City;Albukwér kwé;Albukerke;Albukerko;Methville
+Mersin|TR||94|2u9|2o8|45e|Myrte;İçel;Merson
+Mazār-e Sharīf|AF||6o|2tz|56f|41d|Mazari Sharif;Mazār-e Šarīf;Masar-e Scharif;Mazar-i Szarif;Mazar-e-Sharif;Mezirek-i Şerif;Mazar-i Sharif;Mazar-e Charif;Mazāre S̄rīf;Mazār-i-Sharīf;Mazari-Sharif
+Mesa|US||4i|2ku|-8mm|3n2
+São João de Meriti|BR||4w|-1rc|-3ch|3ll|San Žuan de Meritis
+Manado|ID||70|44|9mt|3je|Manadas;Menado
+Mek'ele|ET||2|11i|31o|3j7|Macallè;Mekelle;Mekelie;Makalle;Maqalle;Mekele
+Buôn Ma Thuột|VN||6h|z7|8c4|3cn|Metuotas;Buôn Mê Thuột
+Wad Medani|SD||r|140|2l4|2kf|Wad Madani;Vad Madani;Vad Medeni
+Mérida|VE||2c|nu|-5hp|2bc|Méria;Merido;Emerita
+Meads|US||48|2yp|-6dr|286
+Meguro|JP||7q|2qz|as2|281
+Merkezefendi|TR||94|2x1|28o|25v
+Madison|US|Wisconsin|2f|3bn|-6wc|25v|Medisona
+Merlo|AR|Buenos Aires|1l|-2ob|-4j5|22q
+Mönchengladbach|DE||8r|3y7|hw|20p|Jlabbach;Menchengladbachas;Menhengladbaha;Muenchen-Gladbach
+Menongue|AO||x|-14q|1d5|1xs|Menongė
+Magdeburg|DE||8r|40t|wb|1vv|Magdebourg;Meideborg;Maagdenburg;Makekepuka;Magdebörj;Dźěwin;Magdebuag;Magdeburk;Magdeborgh;Magdeborg;Madeborch;Maqdeburq

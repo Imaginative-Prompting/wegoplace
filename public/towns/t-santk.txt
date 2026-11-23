@@ -1,0 +1,11 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Cast-le-Guildo|FR||9k|3r3|-6a|y|Sant-Kast-ar-Gwildoù
+Saint-Quay-Portrieux|FR||9k|3r5|-7v|u|Sant-Ke-Porzh-Olued
+Saint-Coulomb|FR||9k|3r8|-5b|o|Sant-Kouloum
+Saint-Quay-Perros|FR||9k|3rj|-9l|f|Sant-Ke-Perroz
+Saint-Carreuc|FR||9k|3qg|-7l|d|Sant-Kareg
+Saint-Caradec|FR||9k|3pv|-7x|c|Sant-Karadeg
+Saint-Carné|FR||9k|3qi|-5r|9|Sant-Karneg
+Saint-Clet|FR||9k|3r6|-8p|8|Sant-Kleve
+Saint-Congard|FR||9k|3op|-6g|7|Sant-Kongar
+Saint-Christophe-des-Bois|FR||9k|3pz|-3h|5|Sant-Kristol-ar-C'hoad

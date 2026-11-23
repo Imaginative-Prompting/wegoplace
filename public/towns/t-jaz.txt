@@ -1,0 +1,15 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Yazd|IR||7o|2gm|471|3or|Jazd;Jazdo;Jezdas;Yasd;Jasd;Yezd
+Jizan|SA||7e|1ax|3a7|t8|Jāzān;Qīzān;Gizan;Gazan;Cızan;Jizon;Jaizan;Djāzān;Jezan
+Yazykovo|RU|Bashkortostan Republic|7z|49e|4by|1n|Jazykovo
+Yazykovo|RU|Ulyanovsk|9z|46t|3nn|1d|Jazykovo;Yazıkovo;Jazykowo
+Jazīreh-ye Shīf|IR||7o|28r|3xc|14
+Jasov|SK||8s|3r8|1ma|11|Jászó;Jazo
+Jazan|IR||7o|2sl|473|i
+Jazovo|RS||8q|3ji|1k6|d|Hódegyház;Jázova;Hodics;Hódegyháza;Jászova
+Jazeneuil|FR||9k|3l3|7|8
+Yazno|BY||9g|49z|268|7|Jazno;Yazna
+Jazgarzew|PL||a5|40k|1mc|7
+Yazlovets|UA||98|3s1|1yo|6|Yablunivka;Jazłowiec;Jazlovets;Jaslowez;Yablonovka;Jazlovecas;Jazlovec;Iasloviecia;Iazloveț
+El Jazmín|MX|Michoacán|41|1ih|-7r6|5|Jazmín

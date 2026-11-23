@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Chihuahua|MX|Chihuahua|2g|27k|-86p|756|Čihuahua;Čiuaua;Ĉihuahuo;Chivava;Çivava
+Gdynia|PL||a5|47g|1fh|1ze|Gdingen;Gdiniô;Civitas Gdinensis;Gdynė;Gdiņa;Gdyňa;Kak-tên-nì-â;Gdinya;Qdınya
+Salt Lake City|US||2p|358|-8mt|1nv|Sallaga Urbo;Kota Salt Lake;Solt Leik Sitis;Thành phố Salt Lake;Civitas Lacus Salsi;Soltleiksitija;Salt Lake Ceety;Sol Lek Siti;Solt Leyk Siti;Lungsod ng Salt Lake;Solt Leik Sitės;Salt Lake;Cathair Salt Lake;Salt-Lejk-Siti;Solt Lejk Siti
+Chivilcoy|AR||1l|-2oy|-4mq|i8|Chivilkoy;Çivilkoy
+Civitavecchia|IT||9o|38x|ws|d7
+Civitanova Marche|IT||9o|3ca|124|br
+Chivasso|IT||9o|3hj|lx|6e|Clavassium;Civass
+Baia Sprie|RO||8u|3oe|1tt|4n|Felsőbánya;Mittelstadt;Civitas in medio monte
+Çivril|TR||94|2ye|2am|3w
+Civita Castellana|IT||9o|39h|yh|39
+Cividale del Friuli|IT||9o|3k1|11b|2l|Cividale;Cividât
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Chiasso|CH||a7|3jb|p3|29|Chiaso;Ciass;Civasium;Chiassu;Kjasas
+Cividate al Piano|IT||9o|3ij|rb|1e
+Civesio|IT||9o|3i4|pr|19
+San Marino|SM||9q|3e2|yl|19|Saint-Marin;São Marino;San-Marino;San Marinas;Sità de San Marin;Ville de Saint-Marin;San Marins;Cathair San Mairíne;Sen Maren;Civitas Sancti Marini;Sanmarīno;Sant Marin;Sità ëd San Marin
+Civate|IT||9o|3jb|py|14
+Civray|FR|New Aquitaine|9k|3k7|u|v
+Cividate Camuno|IT||9o|3jm|sj|r|Civitas Camunorum
+Civitella Roveto|IT||9o|38f|11a|r
+Civitanova Alta|IT||9o|3cc|120|q
+Stari Grad|HR|Split-Dalmatia|a6|3by|1a4|j|Civitas Vetus
+Civezzano|IT||9o|3k1|v2|j|Civitianum
+Civray-de-Touraine|FR||9k|3nh|2x|g
+Civitella di Romagna|IT||9o|3e9|x6|f
+Civrieux|FR||9k|3jk|dk|d
+Civitella San Paolo|IT||9o|398|yx|c
+Civens|FR||9k|3j6|bt|c
+El Siviral|MX||37|23a|-8g6|a|Siviral;Civiral
+Civray|FR|Centre-Val de Loire|9k|3mh|61|a
+Civita|IT||9o|32n|19b|9|Cifti
+Civaux|FR||9k|3l0|1v|9
+Civrac-de-Blaye|FR||9k|3hb|-18|7
+Civitella del Tronto|IT||9o|3at|120|7
+Civenna|IT||9o|3jm|pr|7
+Civitanova del Sannio|IT||9o|37r|140|7
+Civé|IT||9o|3hl|xr|6
+Civitella d'Agliano|IT||9o|3ac|xv|6
+Civitella Marittima|IT||9o|3bf|vc|5

@@ -1,0 +1,120 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sevilla|ES||9d|2vu|-gl|5ar|Seville;Sebilla;Sevilo;Siviglia;Hispalis;Seviya;Sevilija;Sevilja;Sewilla;Sevilha;Sevilia;Séwéliye;Sivilja;Sevila;Sibilia;Sevilya;Sevilėjė
+Sevastopol|UA||9t|3fx|2l4|486|Sewastopol;Sebastòpol;Sebastopoli;Sebastopolis;Akyar;Aqyar;Sivastopol;Sebastopolo;Szevasztopol;Aqjar
+Sohag|EG||c|21s|2g1|225|Sevhac;Sauhadż;Souhag;Suhag
+Sivas|TR||94|32f|2uu|21c|Sebastea;Sêwas;Sevas;Sebastia;Siwas
+Shevchenkivskyi|UA|Kyiv City|98|3w6|2cn|1p5|Sevcsenkivszkij kerület
+Severnyy|RU|Moscow|9i|4be|2wb|1jk
+Severodvinsk|RU||9i|4zc|32n|1hz|Sewerodwinsk;Siewierodwińsk;Sewjerodwinsk
+Siverek|TR||94|2ww|318|1cp|Suverek;Severek
+Orekhovo-Borisovo Severnoye|RU||9i|4ai|2wo|zk
+Seversk|RU||7r|4d8|6jt|ui|Sewersk;Siewiersk;Sewjersk
+Siverskodonetsk|UA||98|3ry|2yx|rj|Syeverodonets'k;Syevyerodonets’k;Sievierodonetsk;Sjevjerodoneck;Severodonjeck;Sjewjerodonezk;Sziverszkodoneck;Szjevjerodoneck;Severodonetsk
+Severomorsk|RU||9i|5bv|2kt|ez|Siewieromorsk;Seweromorsk;Szeveromorszk;Sewjeromorsk
+Sevran|FR||9k|3ry|71|d5
+Severn|US||48|30q|-5x2|ca
+Sevilla|CO||27|bv|-5ux|c5
+Suakin|SD||r|1h3|2vp|bt|Sawakin;Suaquém;Sevakin
+Seevetal|DE||8r|44c|rp|bh|Seevedaal;Sevetalo
+Severna Park|US||48|30j|-5wn|ag|Saverna Park
+Severoural’sk|RU||7z|4n3|4mj|9b|Severouralsk
+Sevenoaks|GB||9b|3yf|j|87
+Severobaykal’sk|RU||6k|4ak|8fp|76|Severobajkalsk;Severobaikalsk;Severobaykalsk
+Sevlievo|BG||9v|3bi|1xq|6u|Savlievo;Sevelijevo;Sevlijevo;Sewliewo
+Sèvres|FR||9k|3rm|66|6l|Sevr;Separa
+Sevilimedu|IN||6t|zl|65d|6j
+Severskaya|RU||9i|3gl|2zg|6c|Severskaja;Severskaïa;Sewerskaja
+Seveso|IT||9o|3it|pe|6b
+Sevan|AM||80|34n|3gv|5h|Yelenovka;Sewan;Ssewan
+Seven Hills|AU|New South Wales|8l|-2lu|bn9|5c
+Severo-Zadonsk|RU||9i|463|2yo|4m
+Sevierville|US||48|2rn|-6g4|4l|Severeville
+Seven Sisters|GB|England|9b|3za|-8|4g
+Novhorod-Siverskyi|UA||98|40h|2ke|48|Nowhorod-Siwerskyj;Nóvgorod-Síverski;Siverų Naugardas;Severų Naugardas;Severianų Naugardas;Novhoroda-Siverska;Novogardia Severiae;Neapolis Scytharum;Novhorod-Sivers'kyj;Novogardia di Severia;Novgorod-Seversk;Novgorodul de Nord;Novgorod-Siverskıy;Novhorod-Siverskõi;Novhorod-Sziverszki;Nowogród Siewierski;Novhorod;Noŭharad-Sievierski;Novy Horod;Novyy Horod;Novyi Horod;Novhorodok;Novogorod-Severskiy;Novgorod-Severskiy;Novhorod-Sivers’kyy
+Seven Oaks|US||48|2ml|-69f|47
+Severínia|BR||4w|-1lt|-3rk|42
+Sevugampatti|IN||6t|sc|604|39
+Seven Hills|US||48|370|-6aw|39
+Sēvūr|IN||6t|100|631|36
+Siversk|UA||98|3rq|2xu|31|Seversk;Sivers’k
+Seville Grove|AU||8k|-2ha|8y7|2t
+Seven Corners|US||48|2zz|-5yc|2l
+Seyé|MX||3z|1lw|-6w9|2c|Seve
+Sæveland|NO||9j|4kn|eg|27|Sevland
+Severnyy|RU|Belgorod Oblast|9i|3ws|2tk|26|Pivnichne
+Sevsk|RU||9i|40v|2nt|24|Sewsk;Syevsk
+Shevchenkove|UA|Kharkiv|98|3u2|2va|1z|Schewtschenkowe;Ševtšenkove;Chevtchenkove;Şevçenkove;Xevtxénkove;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Severo-Vostotchnyi Bank|AZ||61|31h|3st|1z|Banke;Bank;Severo-Vostochnyy Bank
+Severo-Yeniseyskiy|RU||6u|4nq|76f|1u|Severo-Jenisejskij;Severo-Yeniseysk
+Sevilla La Nueva|ES||9d|343|-b7|1s
+Săvineşti|RO||8u|3m5|21j|1o|Sevineşti
+Shevchenkove|UA|Odesa|98|3ij|29h|1k|Schewtschenkowe;Sjevtsjenkove;Ševtšenkove;Ševčenkovė;Chevtchenkove;Sevcsenkove;Xevtxènkove;Ševčenkovo;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Severiano Melo|BR||2w|-g2|-2xg|1j
+Siewierz|PL||a5|3w7|1hf|1i|Seveža
+Severnoye|RU|Novosibirsk Oblast|75|4cj|61o|1i|Severnoje
+Sevenum|NL||8m|3yt|gs|1e|Zaerem
+Seven Lakes|US||48|2q0|-650|1d
+Severnoye|RU|Orenburg Oblast|7z|469|41y|1b|Severnoje
+Sevnica|SI||9a|3jt|16k|1b
+Sevelen|CH||a7|3mw|qd|18
+Sevrier|FR||9k|3je|h2|14
+Severomuysk|RU||6k|4c2|8rh|14|Severomujsk
+Severnyy|RU|Moscow Oblast|9i|4dl|2wl|12|Severnyj
+Severance|US||2p|34k|-839|11
+Severnoye|RU|Stavropol Kray|9i|3gj|3b2|10|Severnoje
+Seva|ES||9d|388|6c|z
+Severiano de Almeida|BR||4w|-247|-40s|y|Severiano d'Almeida
+Sevina|MX||41|1ij|-7v2|x
+Severka|RU|Sverdlovsk Oblast|7z|4dz|4ni|x
+Shevchenkove|UA|Mykolaiv|98|3m6|2hg|w|Sjevtsjenkove;Schewtschenkowe;Sjevtjenkove;Ševčenkove;Shevchenkovo;Shevchenko
+Severomorsk-3|RU||9i|5bc|2lp|v
+Seven Fields|US||48|351|-66e|s
+Sefkerin|RS||8q|3h1|1kw|s|Sevkerin;Szeffkerin;Shefkerin;Szefkerin
+Seven Miles|KY||2e|1hp|-6a2|r
+Seventeen Mile Rocks|AU||8c|-24j|bsw|r
+Sévérac-le-Château|FR||9k|3f4|8j|q|Severac;Severac del Castèl
+Kasivobara|RU||6z|3wr|c1o|o|Severo-Kuril'sk;Severo-Kurilsk
+Seville|US|Ohio|48|35x|-6be|n|Saville
+Seville|AU||8j|-2x0|b85|n
+Sevkar|AM||80|35y|3he|m|Karadash;Sevqar;Garatash;Karakaya;Gharadagh
+Severnyy-Kospashskiy|RU||7z|4k5|4gk|m|Severnyj-Kospasjskij
+Severn Beach|GB||9b|3z8|-7e|m
+Seven Hills|AU|Queensland|8c|-24c|bt7|l
+Seven Sisters|GB|Wales|9b|3zt|-ac|l
+Sèvres-Anxaumont|FR||9k|3ld|1b|k|Sadebria
+Seven Trees|US||3p|2vl|-9eg|i
+Severka|RU|Altai Krai|63|40t|648|h
+Sevinçli|TR|Aksaray|94|2yj|2mt|g
+Sevastianá|GR||8p|359|1pg|g
+Ševarice|RS||8q|3gn|1im|f
+Seven Points|US||2f|2hs|-7f9|e
+Sevindik|TR||94|2wu|334|e
+Sevegliano|IT||9o|3jh|10z|d
+Seven Mile Beach|AU||8g|-3b2|bdr|d
+Ševětín|CZ||9m|3se|14h|d
+Sévérac|FR||9k|3o3|-5s|d|Severeg
+Sevinç|TR||94|32i|2d9|d
+Ševica|RS||8q|3fn|1oc|c
+Sevrey|FR||9k|3lu|dg|c|Sezrey
+Seville B|ZA||o|-1wk|2fd|b
+Sévignac|FR||9k|3q9|-6i|b|Sevinieg
+Seven Miles El Progresso|BZ||24|1bi|-6v3|a
+Sevilleja de la Jara|ES||9d|31x|-ds|a
+Sevastopol’|KZ||7c|43l|52r|9
+Sevastí|GR||8p|344|1qn|8
+Seville East|AU||8j|-2wx|b86|8
+Seven Mile Ford|US||48|2u9|-6ar|8|Sevenmile Ford;Seven Mile Fork
+Seven Mile|US||48|31o|-6iv|8|Sevenmile
+Sevenans|FR||9k|3o7|j3|8
+Sevenmile|US||4i|2lv|-8hg|7
+Savoonga|US||49|4wx|-d5k|7|Savunga;Sevoonga;Savonga
+Sévignacq|FR||9k|3co|-q|6|Sévignac-Thèze;Sevinhac;Sevignaca;Sevignac
+Severinești|RO||8u|3g5|1rr|6
+Seville|US|Florida|48|29g|-6ad|6
+Severynivka|UA||98|3m3|2cy|6|Severinovka
+Sevelinges|FR||9k|3k2|by|6
+Seville A|ZA||o|-1wj|2fa|6
+Sévignacq-Meyracq|FR||9k|3br|-15|6|Sevinhac-Meirac;Sevinhac e Meirac
+Sevinçli|TR|Adana|94|2vj|2qv|5
+Sevastyanovka|UA||9t|3gi|2m9|5
+Seven Valleys|US||48|32q|-5x9|5

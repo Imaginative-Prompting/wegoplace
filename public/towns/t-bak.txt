@@ -1,0 +1,125 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Baku|AZ||61|346|3ul|i55|Bakı;Bakou;Bakoe;Bakó;Bacu;Baqu;Boku;Baky
+Baise|CN||7i|1ud|887|5al|Baksaek;Pai-se
+Bắc Giang|VN||62|1n3|86z|3h0|Pet-kông;Bakziangas
+Bakersfield|US||3p|2q9|-96m|2vs|Beykersfild;Beikersfildas;Beikersfīlda;Baker's Field
+Bacoor|PH||71|146|9by|2r6|Bakoor
+Bắc Ninh|VN||62|1mv|86o|27x|Bak Ninh;Bacht Ninh;Bak Nin
+Bạc Liêu|VN||6h|pt|85p|17d|Bak Lieu;Bac-Lien;Bach Lieu
+Baqubah|IQ||5z|2lr|3fx|16e|Baquba;Bakuba;Bakouba;Baqubeh;Ba’qūba;Ba‘qūbah
+Bacău|RO||8u|3ld|22r|11t|Bákó
+Bakwa|CD||y|bh|244|ry|Babwa
+Bakhmut|UA||98|3qz|2xk|md|Artemovskiy;Artemowsk;Artëmovsk;Artemivs'k;Artemivsk;Artyomovsk;Bahmut;Bachmut;Bajmut;Bakhmout;Bachmoet;Baxmut
+Bakıxanov|AZ||61|34a|3ut|ij|Bakikhanov;Bakichanov;Bakîhanov;Razın
+Baki|ID||6l|-l5|8jq|gd
+Buckeye|US||4i|2kp|-8oq|e5|Bakajus;Bakaja
+Bakhtiarpur|IN||6t|1yq|6ll|db
+Bắc Kạn|VN||62|1pj|85z|ci|Bắc Cạn;Bak Kan
+Bakau|GM||7|11g|-1ac|bz
+Bakhri|IN||6t|1z4|6nm|b4
+Bäherden|TM||5x|2ys|4fj|ag|Baharli;Bexerden;Beherden;Bakharden;Baharly
+Baksan|RU||9i|3dc|3cy|af|Bakssan
+Bake|CN||7i|2b2|89a|a7
+Bakhtiyārpur|IN||6t|1yq|6ll|9l
+Bako|ET||2|g2|2tl|9h|Baco;Baka
+Bahārak|AF||6o|2us|5gz|92|Bakharak
+Bāqa el Gharbīya|IL||6n|2i2|2pc|8p|Bāqa el Gharbiyya;Baqa al-Gharbiyya;Baqa al-Gharbiyye;Baka al-Gharbiyye;Báka al-Gharbíja;Batı Baka;Baqa al-Gharbiyah;Baqa el Garbiyya;Baka-el-Garbiya;Baq’a el Gharbia;Baqa al Gharbiya;Baqa el Garbiyye
+Bakau New Town|GM||7|11f|-1ad|8f
+Bakri|MY||6v|5o|7x5|8f|Bakeri
+Bakhchysaray|UA||9t|3gc|2m2|7m|Bachtschyssaraj;Bakczysaraj;Bakhchisaray;Bachtsjisaraj;Bahçesaray;Bachtjisaraj;Baĥĉisarajo;Bachtjysaraj;Bağçasaray;Bakhtchyssaraï;Bakhtchissaraï;Bajchisarái;Bajchysarái;Bachtsjysaraj;Bakhchysarai;Bahčisaraj;Bogʻchasaroy;Bakhehisaray
+Bakal|RU||7z|48m|4jd|62
+Bakoti|GM||7|11b|-1ae|5n|Bakotti
+Baki|SO||14|rh|3cj|5k
+Bakarwāla|IN||6t|27n|5xy|51|Bakkar Wala
+Bakhmach|UA||98|3y6|2j7|4p
+Bakewar|IN||6t|222|63y|3y
+Baker|US|Louisiana|2f|2cz|-719|3t
+Bakel|SN||g|15e|-ym|3p
+Bacon|CI||0|ho|-av|3n|Bakon
+Bakhtāwarpur|IN||6t|282|5ye|3j|Bakhtawar Pur
+Bakori|NG||u|w4|km|3i
+Bacanda|CI||0|fn|-dk|3b|Bakanda
+Buxwaha|IN||6t|1vd|649|2u|Bakswāho;Bakshwāho
+Bakāni|IN||6t|1vh|5vs|2q
+Baker City|US||3p|3gd|-93b|2q|Thành phố Baker
+Bakaly|RU||7z|49a|45g|2n
+Bakayo|CI||0|fd|-gs|2m
+Bakanou A|CI||0|fj|-cv|2l
+Bakchar|RU||7r|4ee|6bz|20|Baktsjar
+Baksanenok|RU||9i|3dd|3d9|1z
+Bakanas|KZ||5s|3gh|5vv|1y|Baqanas
+Baklan|TR||94|2xi|2a9|1w
+Bakhshāyesh|IR||7o|2xx|3mf|1p|Bekhshayesh;Bakhshaish
+Bakum|DE||8r|42i|ms|1l
+Bakov nad Jizerou|CZ||9m|3w8|15i|1i
+Bakro|CI||0|fb|-91|1f
+Baccarat|FR||9k|3ql|iq|1d|Bakara
+Bakoumba|GA||v|-53|106|1d
+Bakadou I|CI||0|f0|-gq|1c
+Baktalórántháza|HU||8v|3pc|1pc|17
+Bakau Wasulun|GM||7|11g|-1ab|17
+Bakel|NL||8m|3z2|fy|15
+Bakkum|NL||8m|420|cy|14
+Bakewell|GB||9b|43t|-4n|13
+Bakaur|IN||6t|20e|6ob|11
+Bakulong|PH||71|176|9b4|11|Baculong
+Bagtāsh|IR||7o|2v0|3jt|z|Baktāsh
+Bakhtīār|IR||7o|2rr|3wn|z|Bakhtyār
+Bacayawan|PH||71|ll|9l3|w|Bakayawan
+Bakung|PH||71|dl|98r|w|Bakong
+Bakonycsernye|HU||8v|3ng|1e8|w
+Bakewell|AU||8e|-yq|a3v|u
+Baklashi|RU||6k|413|810|u|Baklasji
+Bakultala|IN||6t|yq|75y|r
+Bakır|TR||94|30k|24y|r
+Bachauan|PH||71|v5|9kc|r|Bakhauan;Bakhawan
+Baka|PH||71|k8|9l6|o
+Bako|CI||0|pe|-l5|n
+Baksheyevo|RU||9i|4ar|32s|n|Badsheyevo;Baksheevo
+Baks|HU||8v|3la|1ju|n
+Bakandésso|CI||0|lx|-lb|n
+Baker Lake|CA||4o|4yo|-7eq|l|Qamani’tuaq
+Baker|US|Montana|2p|3kt|-81o|k
+Bakhchivandzhi|RU||9i|4b8|2xs|k|Bahchivandzhi
+Bakhri Ahmad Khan|PK||6q|2de|5gs|k
+Bakadagy|GM||7|10y|-13y|k|Bakadaji
+Bakonyszentlászló|HU||8v|3nn|1dg|j
+Bakkeveen|NL||8m|43g|he|j|Bakkefean
+Bakuriani|GE||7n|37z|3cx|i|Bak’uriani;Bakuiani
+Bakloh|IN||6t|2i8|5uw|i|Bukloh
+Bak|HU||8v|3lt|1at|i
+Bakerstown|US||48|34x|-662|i
+Bakreswar|IN||6t|1uc|6qp|h|Bakresvare
+Bąków|PL||a5|3ul|1fz|f
+Bakovci|SI||9a|3li|18v|f|Barkóc;Barkócz
+Bakoubli|CI||0|hy|-nc|f|Baoubli;Baboubli
+Bakoro-Sobara|CI||0|nb|-d5|f
+Bahrynivka|UA||98|3pa|203|f|Băhrinești;Bakhrineshti
+Bakopla|CI||0|ll|-gc|c|Batopla
+Bakhilovo|RU||9p|44c|3tw|c
+Bakar|HR||a6|3hv|14d|c|Buccari
+Bakers Creek|AU||8c|-1my|bib|b
+Bakers Hill|AU||8k|-2g7|8zi|b
+Bekenu|MY||6w|b9|8s8|b|Bakenu
+Bak’urianis Andezit’i|GE||7n|37x|3cr|b|Bakurianis Andeziti
+Baksha|UA||98|3pd|2ba|b|Bakcha
+Bakhuizen|NL||8m|42v|f6|a
+Bakenberg|NL||8m|40h|gc|a
+Baku Quarter|UA||98|3z4|2dg|a|Bakynskyi kvartal
+Bakosh|UA||98|3qe|1q3|a
+Bakałarzewo|PL||a5|469|1qx|9|Bakalariavos valsčius
+Bakhtājerd|IR||7o|27t|477|9|Baxtâjerd;Bakhlājerd
+Bäk|DE||8r|457|tz|8
+Bakıoğlu|TR||94|374|2hv|8
+Bakoutié-Yao-Fiéni|CI||0|lp|-8n|7
+Baker|US|California|3p|2py|-8yf|7
+Bakandī|IR||7o|2t3|3tp|7|Bak Kandī;Beg Kandī;Bikandi
+Baker Trails|CA||5b|3sd|-9eq|6
+Bakpani|CI||0|ic|-nc|6
+Bakaieve|UA||98|3u1|2i8|6|Bakayeve
+Bakroukro|CI||0|il|-e2|6
+Bakaka Village|KI||bh|-6y|dku|6
+Baker-Brook|CA||43|3ne|-5ab|6
+Bakro Sakassou|CI||0|jl|-e6|5
+Bakoundougou|CI||0|n9|-gf|5|Bankoudougou

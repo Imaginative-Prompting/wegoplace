@@ -1,0 +1,741 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+İzmir|TR||94|2yp|23e|mo7|Esmirna;Smirne;Ismir;Smyrne;Azmir
+Isfahan|IR||7o|2ip|3zj|bxs|Ispahan;Esfahan;Dakbayan sa Esfahān;İsfehan;Esfahano;Iszfahán;Yspyhan;Isfahon;Gabai;Eşfehān;Espahān;Spahan
+Stockholm|SE||9w|4kt|1e7|bou|Estocolmo;Stokholmo;Štokholm;Estocolm;Sztokhòlm;Estokolmo;Tukholma;Stokkhólmur;Stoccolma;Holmia;Stokholmas;Stokholma;Stokholmi;Stokgolm;Stócólm;Estocòlme;Stokolm;Stockholbma;Stoccholm;Stocólma;Stokkolma;Stuculma;Estocolmu;Stuokhuolms;Estokolma;Stockolm
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Esenyurt|TR|Istanbul|94|35z|27o|7l8
+Eskişehir|TR||94|32i|2cs|740|Dorylaeum;Eskişeher;Eskišechiras;Eskisheher;Eski-chéhir;Eski shehr;Eskischehir;Eski Shahr;Eski Shehir
+Santo Domingo Este|DO||4v|1fd|-5e1|5eg
+Osogbo|NG||u|ll|co|4z6|Oshogbo;Eshogbo
+Stuttgart|DE||8r|3ri|pi|4q7|Stutgarto;Stoccarda;Stutgardia;Štutgartas;Štutgarte;Estugarda;Shtutgarti;Stucarda;Shtutgart;Stocarda;Ştutqart;Stuggart
+Essen|DE|North Rhine-Westphalia|8r|3yy|jh|4kr|Eseno;Esene;Assindia;Esenas;Asnithi;Esse;Ésén
+Esenler|TR||94|360|288|40i
+Skopje|MK||9u|38o|1nj|3nx|Skopjo;Skoplje;Szkopje;Scupi;Escópia;Skopiye;Shkupi;Üsküp;Skopye;Scopia;Skopia;Skopie;Skoplie;Shkup;Skopeia;Usküb
+Esna|EG||c|1y9|2if|3kk|Asnā;Isnā
+Ciudad General Escobedo|MX||44|1zo|-7qo|3ie|General Escobedo;Gral. Escobedo
+Eslamshahr|IR||7o|2qr|3yc|3h0|Eslamšaher;Shadshahr;Eslamschahr;Eslamchahr
+Szczecin|PL||a5|44f|14f|31v|Stettin;Štětín;Szczëtno;Stettino;Ščecina;Estetino;Stettin.;Ščecinas;Stettinum;Sztetin;Shchétsin;Şçetsin;Estettin;Šćećin;Shchechin
+Aswān|EG||c|1ux|2je|2xi|Assuan;Asuán;Asuano;Assouan;Asuanas;Assuão;Asszuán;Eswan;Asvan;Es-Suan
+Espoo|FI||92|4n9|1wh|2hz|Esbo;Espo
+Ciudad del Este|PY||1y|-1yu|-47t|2bu|Siudad del Estė;Sjudad Del Este;Syudad del Este;Kota del Este;Bandar del Este
+Strasbourg|FR||9k|3qy|lj|24c|Straßburg;Estrasburgo;Strasburgo;Argentoratum;Strasburg;Straatsburg;Estrasburg;Strasburgu;Štrasburk;Strasbwrg;Strassborg;Strasbūras;Strasbūra;Strazburg;Strasbôrg;Stroossbuerg;Strasburq;Estrasborg;Stroosburi;Estrasbou;Strǣtburg;Strasborgh;Strossburg;Straasbuurich;Estrasburgu;Straasburch;Strażburgu;Sjtraasburg;Stroatsburg;Strassbourg;Straszburg
+Tampines Estate|SG||7j|3s|80q|21p|Tampines
+Santiago del Estero|AR||1n|-258|-4yi|1y2|Santjago del Esteras;Sanctus Iacobus ad Uligines
+Rufisque est|SN||g|14w|-1bz|1pf
+Esmeraldas|EC||33|2o|-659|1or
+Escuintla|GT||32|13q|-707|17f|Esquintla
+Bukit Merah Estate|SG||7j|3k|80e|161
+Escondido|US||3p|2k0|-919|15y|Eskondidas;Eskondida
+East Los Angeles|US||3p|2mi|-949|z5|Este de Los Ángeles;Orienta Losanĝeleso;Doğu Los Angeles
+Stara Zagora|BG||9v|39v|1z8|xs|Stara Sagora;Eski Zağra;Stara-Zagora
+Esuk Oron|NG||u|dc|mx|v4
+Sembawang Estate|SG||7j|41|80f|ul|Tambuwang
+As Salţ|JO||5t|2h0|2r9|tz|Salt;Es Salt;Al-Salt
+Queenstown Estate|SG||7j|3l|80c|s7
+Medina Estates|GH||1|fr|-g|s4
+Escalante|PH||71|u4|9j2|qz
+Estelí|NI||3s|10d|-6nw|qs
+Ozerki|RU||9i|4ms|2c7|qe|Ozierki;Estação Oserki
+Esslingen|DE||8r|3re|pu|po|Eslinga;Eszlingen
+Eslāmābād-e Gharb|IR||7o|2mr|3l9|p6
+Esmeraldas|BR||4w|-1iw|-3f3|ns
+Essaouira|MA||d|2fj|-r5|nn|Mogador;Esauira;As-Shawirah;As-Sawíra;Medino de Esaŭiro;Essauira;Szavíra;Amegdul;Savira;Suvayr;Es Suira;Mogadar;Magador
+Esteio|BR||4w|-2ay|-3y6|l5
+Ash Shuhadā’|EG||c|2d0|2du|l5|Esh-Shuhada;Ash Shudadā’
+Osijek|HR||a6|3ij|1fx|kz|Colonia Aelia Mursa;Mursa;Eszék;Mursia;Essek
+Esbjerg|DK||8y|4a3|nh|jx|Esbyerq;Esbjærg
+Eskilstuna|SE||9w|4kx|19v|iq|Eskilstiuna
+Estepona|ES||9d|2t7|-eb|im
+Castellammare di Stabia|IT||9o|352|149|ie|Estàbia;Stabie;Stabiae;Castellammare
+Estância|BR||3r|-vb|-2w0|i3
+Escada|BR||4p|-n8|-2pu|ha
+Aş Şaff|EG||c|2a4|2ew|h3|Es Saff
+Esfarāyen|IR||7o|2v0|4fr|gj
+Espinal|CO||27|bj|-5s0|fm
+Eschweiler|DE||8r|3x6|hf|fi|Aischwiele;Ešveilere;Ešveileris;Eşvayler;Ascvilare;Ešveilers
+Estancia|PH|Western Visayas|71|vu|9i3|f9|Estacia
+As Sāḩil|EG||c|236|2f2|f1|Es Sāhil;As-Sāḥil
+Ålesund|NO||9j|4tj|h3|em|Álasund;Estrecio Anguilla;Olesiundas
+Esher|GB||9b|3yp|-11|ek
+Estância Velha|BR||4w|-2ad|-3y5|e3
+Speyer|DE||8r|3t0|nf|dz|Espira;Spira;Spire;Špýr;Schbaya;Spires
+Östersund|SE||9w|4vi|14o|du|Estešundas;Estešunda
+La Estrella|CO||27|h4|-5u4|dq|Estrella
+eSikhaleni|ZA||o|-287|2gm|dp|eSikhawini
+Asadābād|AF||6o|2ov|5hn|dg|Esedabad;Assad-Abad
+Esplugues de Llobregat|ES||9d|36y|5t|cw
+As Sanţah|EG||c|2df|2eh|cq|Es Santa;As-Sanṭah
+Ashburn|US|Virginia|48|30g|-5z9|c3|Eşbern
+Esperanza|DO||4v|1ie|-5h6|bq
+Esperantina|BR|Piauí|2w|-au|-39b|be
+Espírito Santo do Pinhal|BR||4w|-1po|-3lv|b2
+Essex|US|Maryland|48|317|-5wf|ax
+Es Senia|DZ||3|2r1|-1q|av|As-Sāniyya
+Esperanza|MX|Sonora|37|24m|-8hd|au
+Esplanada|BR||20|-ws|-2xe|ag
+Esch-sur-Alzette|LU||9c|3ti|gm|a6|Esch an der Alzette;Esch-Uelzecht;Ešas prie Alzeto;Esch-an-der-Alzette;Esch-an-der-Alzig
+Estahbān|IR||7o|28x|464|a4
+Esperanza|AR||1n|-2fd|-4p9|9z|Esperança
+Esim|GH||1|dj|-68|9v
+Targovishte|BG||9v|3c5|21t|9o|Targowischte;Tărgovište;Targovichté;Targovisjte;Targòvixte;Trgovište;Tergovištė;Tërgovishçe;Eski Cuma;Tyrgowiszte;Tŭrgovište;Trgovishte;Eski Džuma;Tŭrgovishte
+Esposende|PT||99|37e|-oe|9m|Espozende
+San José de Metán|AR||1s|-1yu|-50h|9m|Estación Metán
+As Sūkī|SD||r|110|2m4|9b|Es Suki
+Estreito|BR|Maranhão|2w|-i8|-3ns|99
+Esik|KZ||5s|3cg|5z5|96|Jessik;Iessik;Issyk;Jesyk;Isık;Issök
+Espinho|PT|Aveiro|99|35x|-o0|94|Espinjas
+Komárno|SK|Nitra Region|8s|3oo|1ec|8z|Komorn;Komárom;Észak-Komárom;Komarnas;Révkomárom;Comorn
+Estrela|BR|Rio Grande do Sul|4w|-29y|-40d|8y|Estrella
+Esperança|BR||2w|-jj|-2rm|8o
+Estero|US||48|21g|-6b9|8k
+Escuinapa de Hidalgo|MX||3x|1rf|-85u|8k
+Espinosa|BR||4w|-15h|-3ay|8g
+Eshtehārd|IR||7o|2r9|3vx|8c|Īshtahard
+Escárcega|MX||3z|1fp|-703|87
+Espigão dOeste|BR||4l|-w0|-4ph|86
+Esztergom|HU||8v|3or|1g2|80|Gran;Ostrzyhom;Ostřihom;Salvio;Esterqom;Strigonio;Ostrogon;Strigoniu;Ostrigon;Strigonia;Strigonium;Salvio Mansio;Strigonie;Estergom;Strigoni;Estergon;Solva
+Esquel|AR||1m|-3b7|-5i4|7x|Eskelis
+Eséka|CM||j|a5|tx|7r
+Estcourt|ZA||o|-28l|2az|7c
+Esquina|AR||1n|-2bd|-4ld|7c|Eskina
+Espelkamp|DE||8r|41i|ny|7c
+Espargos|CV||84|1ak|-1rq|6t
+Estrela|BR|Rio Grande do Sul|4w|-25y|-3xi|6q
+Espera Feliz|BR||4w|-1ld|-38f|6p
+Estoril|PT||99|2zj|-q4|6l|Estorís
+Estácio|BR||4w|-1ro|-3c0|6h
+Iglesias|IT||9o|317|nq|6b|Esglèsies;Ecclesia
+Estrella|ES||9d|349|-a7|6a
+Eschborn|DE||8r|3va|nt|68
+Esparreguera|ES||9d|37e|57|63
+As Sibā‘īyah|EG||c|1xz|2is|60|Es Sibā‘īya;AS-SIBĀ‘IYYAH
+Esquilino|IT||9o|38e|yr|5x
+Essendon|AU||8j|-2wv|b6j|5w
+Essling|AT||a2|3px|19w|5w
+Eschwege|DE||8r|3y6|rx|5w|Escevegia
+Esquías|HN||56|14y|-6qp|5u
+Esquipulas|GT||32|14h|-6w7|5r|Eskipulasas
+Esmeralda|CU||36|1op|-610|5n
+Schmalkalden|DE||8r|3ww|t0|5g|Esmalcalda;Smalcalda;Šmalkaldy;Smalkalda;Smalcaldia
+As Samū‘|PS||6g|2f8|2pf|5e|As-Samu;Es Samu;Es Samū‘;al-Samu'
+Eselsberg|DE||8r|3qh|rn|5b
+Eslöv|SE||9w|4b4|10y|56|Esliovas
+Esperantinópolis|BR||2w|-dk|-3go|53
+Escuque|VE||2c|pu|-5gb|51
+Eslam Qaleh|AF||6o|2ob|4pn|51|Eslām Qal‘eh;Eslamqal‘a;Islām Qal‘ah
+San Lorenzo de El Escorial|ES||9d|34r|-bj|4z|Eskorialo;El Escorial;San Lorenzo del Escorial
+Espoonlahti|FI||92|4n3|1wh|4x|Esboviken
+Eshowe|ZA||o|-289|2ff|4x
+Esquimalt|CA||5b|3qk|-9it|4x
+Estreito|BR|Maranhão|2w|-g2|-3c5|4w
+Esperanza|PH|Bicol Region|71|wm|9kk|4v
+Este|IT||9o|3hm|we|4q
+As Sallūm|EG||c|2fn|1xw|4l|Sollum;Al-Salum;El Sollum;Es Sollūm;Solum;Es Sallum;Sallum;Sellum
+La Esperanza|GT||32|15b|-72c|4l|Esperanza
+Estelle|US||2f|2ax|-6yb|4k
+Osowa|PL||a5|477|1fb|4g|Espenkrug;Òsowô
+les Escaldes|AD||8n|3a3|49|4f|Escaldes;Escaldes-Engordany
+El Escorial|ES||9d|34q|-bh|4e|L'Escurial;Escorial
+Estrela de Alagoas|BR||3r|-q3|-2u4|4d
+Espumoso|BR||4w|-27s|-42t|4c
+Esparza|CR||2i|rr|-6j7|4c|Esparta
+Saltash|GB||9b|3w1|-br|4c|Essa
+Espiye|TR||94|35r|2zi|47
+Issoudun|FR||9k|3mf|5j|40|Essaudun;Exoldunum
+Estella-Lizarra|ES||9d|3aj|-5n|3y|Estella;Lizarra;Estella - Lizarra;Estela;Stella
+Esperance|AU||8k|-2m2|9el|3v|Esperansos
+Ash Shallāl|SD||r|ws|2nk|3s|Esh Shallal
+Esil|KZ||5s|40b|54h|3r
+Esneux|BE||8t|3we|fh|3r|Esneu
+Esgueira|PT||99|34x|-nz|3q
+Esenguly|TM||5x|2w3|45y|3l|Esenguli
+Herzberg am Harz|DE||8r|3zi|sq|3k|Hertzberga ad Harthicos montes;Esperanto-Urbo
+Espartinas|ES||9d|2vu|-h1|3i
+Estepa|ES||9d|2vl|-dk|3i
+Asfarvarīn|IR||7o|2rt|3u7|3g|Estarvarīn;Asfarwarīn;Esfarvarīn
+Escanaba|US||2q|3j3|-6pu|3f|Esconawba
+Estación Manuel|MX||44|1r5|-7l4|3d|Úrsulo Galván
+Escazú|CR||2i|rk|-6hq|3d|Escasu
+Essau|GM||7|11g|-19x|3a
+Espita|MX||3z|1md|-6tb|38
+Espergærde|DK||8y|4bj|yv|37|Espergjærde
+Estiva|BR||4w|-1qe|-3ju|37
+Esmoriz|PT||99|35s|-nz|36|Esmoris
+Estiva Gerbi|BR||4w|-1pv|-3me|35
+Estevan|CA||4q|3sh|-7y2|35
+Ash Shajarah|JO||5t|2io|2ru|34|Esh Shajara
+Essenbach|DE||8r|3r1|xy|33|Essenboch
+Eşme|TR|Uşak|94|2yo|28h|32
+Esquipulas del Norte|HN||56|16i|-6od|30
+Espírito Santo|BR||2w|-hl|-2q3|2y
+Esperanza|CU||36|1qd|-66i|2x
+Española|US||2p|2rz|-86o|2u|Espaniola
+Essex Junction|US||48|3fl|-5n3|2t
+Essen|BE||8t|3yz|cf|2s
+Eslāmābād|IR|Tehran|7o|2qs|3z4|2s
+Elsterwerda|DE||8r|3yy|11k|2p|Wikow;Esterwerda
+Escuintla|MX||41|16k|-75e|2o
+Escaudain|FR||9k|3vt|9a|2n
+Estrela d'Oeste|BR||4w|-1kd|-3w0|2m|Estrêla do Oeste
+Staryi Krym|UA|Crimea|9t|3h3|2ph|2m|Eski Qırım;Stary Krym;Eski Qyrym
+Estremoz|PT||99|2zw|-l3|2m
+Estreito de Câmara de Lobos|PT||86|2iq|-1b8|2l
+Estaimpuis|BE||8t|3wu|93|2l|Steenput;Timpu
+Eslohe|DE||8r|3yd|mp|2l
+Eschenbach|CH||a7|3n8|os|2k
+Eshkanān|IR||7o|23n|44x|2j|Īshkanān
+Estanzuela|GT||32|15o|-6wt|2h
+La Junta|MX|Chihuahua|2g|274|-8a5|2h|Estación Lic. Adolfo López Mateos
+Eskiarab|UZ||7m|345|5ie|2g
+Estômbar|PT||99|2v7|-nl|2e
+Esashi|JP|Hokkaido|7q|3gu|b02|2e|Esasi
+Es Molinar|ES||9d|31w|7g|2c
+Estói|PT||99|2v2|-lx|2b
+Essex|CA||59|396|-6e2|2a
+Essen|DE|Lower Saxony|8r|42g|m2|2a
+Ash Shuyūkh|PS||6g|2fp|2po|2a|Esh Shuyūkh
+Esashi|JP|Hokkaido|7q|38a|at9|29|Ksashi;Esasi
+Essey-lès-Nancy|FR||9k|3rb|hb|29
+Egestorf|DE|Lower Saxony|8r|419|qg|28|Egestörp;Estörp;Estörpe
+L’Escalier|MU||ag|-1kv|4g1|27|Escalier
+Esperanza|MX|Puebla|41|1ge|-7ii|26
+El Espinal|MX|Oaxaca|41|19t|-7c0|26|Espinal;Santa Cruz
+El Espinal|MX|Oaxaca|41|19h|-79e|24|Espinal
+Estinnes-au-Val|BE||8t|3w1|be|24
+Escalon|US||3p|2x0|-9c4|23
+Esperantina|BR|Tocantins|1k|-eu|-3qr|23
+Es Castell|ES||9d|32s|bx|22|Villacarlos;Vilacarlos
+Eslāmīyeh|IR||7o|2ml|4hq|1z
+Es Somaa|TN||1e|2ti|ty|1y
+Eston|GB||9b|47k|-36|1y
+Esens|DE||8r|451|l5|1x
+Estrela do Sul|BR||4w|-1g3|-3oh|1w|Estrello do Sul
+Esqueda|MX||37|2dd|-8gf|1v
+Estación Bamoa|MX||3x|1zf|-8cv|1v|Campo Wilson
+Espírito Santo do Dourado|BR||4w|-1p9|-3jn|1u
+Estación Santa Engracia|MX||44|1uq|-7nk|1u
+Esparragal|ES||9d|2xn|-30|1s
+L'Estaque|FR||9k|3cg|er|1s|Estaque
+Essingen|DE|Baden-Wurttemberg|8r|3rl|rv|1s
+Huehuetán Estación FFCC|MX||41|15p|-74p|1r|Estación Huehuetán
+Estación Naranjo|MX||3x|1zp|-8dc|1r|Naranjo
+Estes Park|US||2p|346|-854|1r
+Esentepe|TR|İzmir Province|94|2yz|236|1q
+Les Essarts-le-Roi|FR||9k|3rc|5a|1q|Essarts-le-Roi
+Esperanza|PH|Caraga|71|o4|9p1|1q
+Escalquens|FR||9k|3cw|4c|1q
+Estherville|US||2f|3ck|-7bf|1o
+Esperanza|PH|Soccsksargen|71|io|9lw|1o
+La Estancia|MX|Querétaro|41|1kq|-7pz|1o|Estancia
+Estaires|FR||9k|3wp|7l|1o|Stegers;Bermerain
+Estancias de Florida|PR||4m|1f1|-54x|1o
+Eslāmābād|IR|Hormozgan|7o|242|4es|1k
+Esbly|FR||9k|3rv|7t|1k
+Estebanía|DO||4v|1fa|-5g8|1k
+Estação|BR||4w|-25j|-416|1k
+Esperalvillo|DO||4v|1ga|-5ek|1i|Peralvillo;Esperalvilla
+Espoonlahden keskus|FI||92|4n3|1wi|1i
+Eskhar|UA||98|3uc|2tn|1h|Eschar;Ésjar;Eshar;Exsar
+Eslāmābād|IR|Khuzestan|7o|2hq|3qs|1h
+Esperanza|PH|Central Visayas|71|tq|9lb|1h|Esperanzo
+Estación Camet|AR||1l|-2x9|-4g1|1g
+Esterwegen|DE||8r|437|l7|1g|Estervegen;Äästerweede
+Estavayer-le-Lac|CH||a7|3m5|j1|1f
+Estación de Cártama|ES||9d|2u1|-cu|1e
+Islām Chumgar|AF||6o|2vm|54m|1e|Islomchumgar;Islām Chomgar;Eslām Chūngar
+Esfahlān|IR||7o|2xj|3k3|1d
+Estenfeld|DE||8r|3uf|rt|1d
+Essesteijn|NL||8m|40p|c5|1d
+Espenau|DE||8r|3ys|qb|1d
+Essington|GB||9b|427|-5q|1c
+Eslāmābād|IR|Tehran|7o|2qz|3yi|1c
+Espigão Alto do Iguaçu|BR||4w|-1yn|-42s|1c|Espigão Alto
+Escalerillas|MX||41|1pf|-7sr|1c|Escalerilla
+Espakeh|IR||7o|22k|4n5|1b|Ispakeh;Aspakeh;Esfakeh
+Espanola|CA||59|3ki|-6b5|1b
+Espalion|FR||9k|3fo|7o|1b|Espaliu
+Eschau|FR||9k|3qp|lg|1a
+Esquivias|ES||9d|33e|-ah|1a
+Estanzuela|MX|Veracruz|41|1i2|-7h2|19
+Esvres|FR||9k|3nd|27|19
+Estacion|PH||71|17m|9b1|19
+Estrella|PH|Central Luzon|71|17r|9c7|19
+Eschen|LI||a0|3n5|qg|19
+Esporles|ES||9d|327|76|19
+Eşfahānak|IR||7o|2ih|3zr|18
+Estipona|PH||71|17b|9b4|18
+Étoile-sur-Rhône|FR||9k|3gk|dl|17|Estèla
+Escautpont|FR||9k|3w2|9v|17
+Espírito Santo do Turvo|BR||4w|-1r1|-3tb|16
+Eschau|DE||8r|3ue|pq|15
+Estanislao del Campo|AR||1n|-1xl|-4mx|15
+Eslāmābād|IR|Hamadan Province|7o|2na|3rp|14
+Mayorazgo de León|MX||41|1i3|-7p3|14|Estación Río México
+Eskoriatza|ES||9d|3bi|-71|14|Escoriaza
+Espaly-Saint-Marcel|FR||9k|3h5|ar|14
+Eschede|DE||8r|42h|sg|13|Askithi
+Estero del Ídolo|MX||41|1m1|-7ja|12
+Essekhinat|MA||d|2mj|-di|12|Es Skhinat
+Esentepe|TR|Samsun|94|35x|2se|12
+Estación Juanita|MX||41|1dh|-7ci|12
+Espera|ES||9d|2uf|-g5|12
+Essé|CM||j|be|x2|12
+Espejo|ES||9d|2wo|-cn|12
+Eschershausen|DE||8r|409|qs|12
+Estrées-Saint-Denis|FR||9k|3tb|7c|12
+Escatawpa|US||2f|2cp|-6tz|11
+Estancia|PH|Bicol Region|71|114|9jk|11
+Kyzyl-Oktyabr’|KG||65|366|5m7|10|Eskidurbul’
+Esperance|US||3p|3or|-9fw|10
+Esfeden|IR||7o|2lh|4m2|10|Esfedān
+Eschlkam|DE||8r|3sy|zw|10
+Espiritu|PH||71|1dy|9b6|10
+Esfanjān|IR||7o|2xa|3k9|z
+Eskasoni 3|CA||2x|3jn|-4oe|z
+Estrablin|FR||9k|3ig|ds|z
+Estación San José|MX||41|1sf|-7xi|z
+Essene|BE||8t|3xe|bi|y|Esschene
+Eschlikon|CH||a7|3nu|ow|y
+Essexville|US||2q|3d6|-6gw|y
+Calzadas|MX||41|1ea|-7ae|y|Estero del Pantano
+Escaudœuvres|FR||9k|3vg|93|y
+Fertőd|HU||8v|3oa|1av|y|Eszterháza;Herceško
+Esentepe|TR|Adana|94|2uw|2pv|y
+Ecser|HU||8v|3ns|1ho|x|Eçer;Ečeras;Ečera;Esçeri
+Esfandābād|IR||7o|2r0|3xi|x
+Essoyla|RU||9i|4rv|2k3|x|Essojla;Jessoila;Dessoilu
+Esine|IT||9o|3jl|sh|x
+Esperanza|PH|Central Visayas|71|tq|9ll|x
+Esperança do Sul|BR||4w|-240|-45z|w
+Estrela do Norte|BR|Goiás|4w|-12j|-3sb|w
+Lécousse|FR||9k|3qd|-3e|w|Eskuz
+Esmeralda|BR||4w|-25x|-3y7|w
+Escholzmatt|CH||a7|3mb|m1|w
+Essenheim|DE||8r|3up|mo|w
+Esen|BE||8t|3xr|82|w
+Estacada|US||3p|3ht|-9ft|w
+Eslarn|DE||8r|3tq|ys|v|Eszlarn
+Esparto|US||3p|2zh|-9ey|v
+Estrela Velha|BR||4w|-292|-43o|v
+Eslāmābād|IR|Ardabil Province|7o|31y|3oj|v
+Eschollbrücken|DE||8r|3ud|nt|u
+Esh Sheikh Dannūn|IL||6n|2jn|2pn|u|Esh Sheikh Dāwūd;Esh Sheikh Dāūd
+Eşelniţa|RO||8u|3g6|1q4|u|Jeselnica
+Escheburg|DE||8r|44j|sn|u
+‘Eşmatābād|IR||7o|2rl|3v3|u|Īsmatabad
+Essendon North|AU||8j|-2wu|b6j|u
+l'Estartit|ES||9d|38t|8w|u|Estartit
+Esfeshād|IR||7o|2ls|4ko|t|Esfashād
+Essert|FR||9k|3ob|iy|t
+Espenhain|DE||8r|3y7|yo|s
+Estación Apóstoles|AR||1n|-25j|-4b1|s
+Āspīch|IR||7o|23w|4tc|s|Āsfīj;Espīch
+Estrela do Indaiá|BR||4w|-1i8|-3j7|s
+Esperanza|PH|Davao Region|71|kt|9p9|r
+Estrela do Norte|BR|São Paulo|4w|-1qh|-3zi|r
+Escalona|ES||9d|33l|-c8|r
+Espinal|MX||41|1ka|-7ik|r
+Esmeralda|PH||71|183|9bc|r
+Estaca|PH||71|qx|9l7|r
+Ezulwini|SZ||13|-21c|2el|r|Esulweni;Ezulweni
+España|PH||71|ye|9ga|q|Espiña
+Estipac|MX||41|1kk|-804|q|Estipa
+Estación Pénjamo|MX||41|1kn|-7uh|q
+Estrella|PH|Mimaropa|71|111|9cz|q
+Eski Gediz|TR||94|30h|29r|q
+Èze|FR||9k|3dh|kg|q|Esa;Isia
+Estancia de Ánimas|MX||41|1qh|-7vb|q|Estancia Animas
+Eschol Park|AU||8l|-2mj|bmx|q
+Eschelbronn|DE||8r|3t0|on|q|Eschlbrunn
+Eshkāvand|IR||7o|2ii|3zs|q|Ashkāvand
+Esperanza|MX|Querétaro|41|1ld|-7q3|p
+Escolásticas|MX||41|1kr|-7qd|p|Essolasticas;Escolástica
+Ejido Sinaloa|MX||58|2if|-8w7|p|Estación Kasey
+Essex Village|US||48|36w|-5l3|p
+Essômes-sur-Marne|FR||9k|3s7|9e|p
+Escobares|US||2f|21d|-7mw|p
+Españita|MX|Tlaxcala|41|1i2|-7le|o
+Ester|US||1h|505|-bf5|o|Esther
+Eschenau|DE||8r|3si|q4|o
+Esperanza|PH|Soccsksargen|71|i2|9mb|o
+Ostūh|IR||7o|2nd|3ss|o|Estūh
+Espiel|ES||9d|2y4|-dy|n
+Espérance Trébuchet|MU||ag|-1jr|4g4|n
+Eschenbach|DE||8r|3r5|qv|n
+La Esperanza|MX|Guerrero|41|1dc|-7np|n|Esperanza
+Estela|PT||99|375|-ob|n
+La Estanzuela|MX|Zacatecas|41|1mx|-7ze|n|Trinidad García de la Cadena;Estanzuela
+Esmeralda|MX||44|1zi|-7zb|m
+As Sāwiyah|PS||6g|2h5|2py|m|Es Sāwiya;As Sawiya
+Esteros|MX||44|1qk|-7kl|m
+Esigodini|ZW||n|-1kd|28c|m
+Stari Troyany|UA||98|3iv|292|m|Eski Troyan;Traianu Vechi;Stari Trojany;Stari Troïany
+Escalaplano|IT||9o|323|pz|m
+La Estanzuela|MX|Jalisco|41|1lf|-80f|m|Estanzuela
+Estella|AU||8l|-2pf|bdc|m
+Esterhazy|CA||4q|3wp|-7vk|m
+Estrela Dalva|BR||4w|-1oe|-39y|m
+Esperanza East|PH||71|1ba|9e0|m|Esperanza;Esperanza Este
+Esquelbecq|FR||9k|3xd|6r|m|Ekelsbeke
+Espéraza|FR||9k|3ba|66|m|Esperasan
+Estefania|PH||71|1dg|9e4|m|Estafania
+Essex Fells|US||48|35e|-5qc|m
+Escacena del Campo|ES||9d|2vx|-hr|m
+Eskamān|IR||7o|2qx|3y0|l|Eskamūn;Esgamān
+Eshera|GE||7n|3bk|35q|l|Esheri
+Esperanza|PH|Northern Mindanao|71|mq|9kh|l
+Estagel|FR||9k|3at|7i|l
+Espoon Keskus|FI||92|4n8|1wh|l|Esbo centrum;Centti;Sentti;Cena;Sena;Espis;Eekoo;Epekepe;Espoon Centti;Espoon Sentti;Kespoo
+Estill Springs|US||2f|2pz|-6n9|k
+Essingen|DE|Rheinland-Pfalz|8r|3ss|mp|k
+Estinnes-au-Mont|BE||8t|3w0|be|k
+Caimanero|MX|Sinaloa|3x|1xb|-8bb|k|Estación Chimaneco
+La Escondida|MX|Guanajuato|41|1o9|-7u2|k|Escondida
+Espelette|FR||9k|3ce|-41|k|Ezpeleta;Espeleta
+Esselbach|DE||8r|3ui|qh|k
+Estación Consuelo|MX||2g|26p|-85b|k
+La Estacada|MX||41|1lu|-7qx|k|Estacada
+Espinosa de los Monteros|ES||9d|3bo|-9v|k
+Esso|RU||6p|4bd|c8v|k
+Estación Joaquín|MX||41|1l4|-7u0|k
+Esnandes|FR||9k|3kh|-34|k
+Estill|US||48|2iz|-69o|k
+Estey's Bridge|CA||43|3jw|-55b|j
+Esfarjān|IR||7o|2fz|408|j|Esfaranjān
+Essegnon|CI||0|gn|-ce|j
+Lozove|UA|Crimea|9t|3gq|2mw|j|Lozovoye;Eski Orda;Eski-Orda
+Eschach|DE||8r|3rt|rf|j
+Esko|US||2f|3lr|-74k|j
+Estancia del Llano|MX||41|1kz|-7rt|j
+Esperança Nova|BR||4w|-1tw|-45h|i
+La Estanzuela|MX|Hidalgo|41|1k2|-7mc|i|Estanzuela
+Esch|NL||8m|3zd|ep|i
+Esman|UA||98|3zt|2mn|i|Chervone;Chervonoye
+Estark|IR||7o|2mi|3yc|i|Estarak
+Espeland|NO||9j|4nq|f7|i
+Estates of Fort Lauderdale (historical)|US||48|20d|-66q|i
+Escobal|PA||4g|pf|-664|i
+Estación Corral|MX||37|24r|-8hh|i
+Estissac|FR||9k|3q3|al|h
+Estancia de Guadalupe|MX||41|1pw|-7ue|h
+Estell Manor|US||48|31h|-5rm|h|Estelle Manor
+Ash Shuhadā’|PS||6g|2i3|2pz|h|Esh Shuhadā
+Esch|AT||a2|3ow|10d|h
+Esanatoglia|IT||9o|3c5|zz|h
+Esk|AU||8c|-23o|bre|h
+Estrada|MX||41|1l1|-7s7|h
+Estevelles|FR||9k|3w8|83|h
+Esenboğa|TR||94|33h|2jn|h|Esenbuğa
+Esporões|PT||99|37b|-ne|h
+Estorf|DE|Lower Saxony|8r|423|pe|h
+Esquibien|FR||9k|3pf|-co|h|An Eskevien
+Esen|UA||98|3qf|1pv|h
+Essars|FR||9k|3wf|7f|h
+Estación Conchos|MX||2g|25q|-84h|h
+Estero Hondo|DO||4v|1j3|-5hp|g
+Eschenlohe|DE||8r|3pe|xf|g
+Espy|US||48|35x|-5w9|g
+Esternay|FR||9k|3rd|9w|g
+Estreito da Calheta|PT||86|2iy|-1br|g
+Estación Obispo|MX||3x|1vh|-89o|g
+Estancia|US||2p|2ok|-86m|g
+Esthal|DE||8r|3t6|m6|g
+Eshkārdasht|IR||7o|2ts|3yw|g
+El Estudiante|MX||41|1fm|-7nu|g|Estudiante
+Esquipulas Palo Gordo|GT||32|15i|-733|f
+Estero de Milpas|MX||41|1n1|-7ip|f
+Esparragalejo|ES||9d|306|-hw|f
+Espel|NL||8m|42g|fo|f
+Esquipulas|CR||2i|ry|-6ii|f
+Eschenz|CH||a7|3od|on|f|Tasgetium
+Estaimbourg|BE||8t|3ws|97|f
+La Estancia|HN|Olancho Department|56|15t|-6nv|f|Estancia
+Esquerdes|FR||9k|3wu|63|f
+Essan Kouakoukro|CI||0|kh|-d2|f
+Estanzuela de Romero|MX||41|1k2|-7r6|f|Espanzuela de Romero
+La Colonia|MX|Tamaulipas|44|1qc|-7ka|f|Estación Colonias
+Estorf|DE|Lower Saxony|8r|44u|pk|f
+Essex|US|Massachusetts|48|3af|-5gm|f
+Estación Mogoñé|MX||41|1b7|-7c0|f
+Escalonilla|ES||9d|32x|-c3|f
+Estación de Apulco|MX||41|1kd|-7l7|e
+Eslettes|FR||9k|3tn|2y|e
+Espino|PR||4m|1es|-56g|e
+Essendon West|AU||8j|-2wv|b6g|e
+Estanzuela|MX|San Luis Potosí|41|1pv|-7sl|e
+Establiments|ES||9d|322|7b|e
+Estillac|FR||9k|3eo|1k|e|Estilhac
+La Estancia|MX|Hidalgo|41|1kf|-7mq|d|Estancia
+Eşme|TR|Mardin|94|2v7|34w|d
+El Espino|CO||27|i0|-5le|d|Espino
+La Estancia|MX|Hidalgo|41|1kn|-7nk|d|Estancia
+Eschentzwiller|FR||9k|3oj|kk|d
+Espargo|PT||99|35o|-nt|d
+Esgos|ES||9d|39l|-le|d
+Estación Llano|MX||37|2cc|-8km|d
+Esenpınar|TR||94|2tn|2mr|d|Güvere
+Estación Dobladero|MX||41|1eb|-7e1|d
+Estación Capomas|MX||3x|1z4|-8cm|d
+Essuikro|CI||0|if|-by|d
+El Espejo|MX|Guanajuato|41|1ks|-7rc|c|Ex Hacienda de Espejo;Espejo
+Esnemez|TR||94|31m|3dz|c
+Ébreuil|FR||9k|3k4|8l|c|Ebruelh;Eborolacum;Esbreule
+Espavé|PA||4g|o2|-65v|c
+Hlyboke|UA|Odesa|98|3j1|2a9|c|Eschipolos;Eskipolos;Eskhiopolos
+Estación Tuzantán|MX||3z|15z|-74t|c
+Esquéhéries|FR||9k|3uu|af|c
+La Estancia de San José del Carmen|MX||41|1ke|-7s6|c|Estancia de San José del Carmen
+Essigny-le-Grand|FR||9k|3ua|94|c
+Esslingen|CH||a7|3nc|o7|c
+Escoutoux|FR||9k|3ja|9w|c
+Escalerilla Lagunas|MX||41|1ca|-7ml|c
+Estación Camacho|MX||41|1vw|-7wd|c
+El Escanito|HN||56|14r|-6py|c|Escanito
+Estremera|ES||9d|33m|-8m|c
+Estivella|ES||9d|32c|-z|c
+Esperanza|BZ||24|1bp|-6vc|c
+Esther|US||2f|2x5|-6ze|c
+Estrella de Belén|MX||41|1cb|-73g|c
+Escatrón|ES||9d|36p|-w|b
+Estación de San Francisco|MX||41|1mg|-7uu|b
+Escanaffles|BE||8t|3x0|9l|b
+Estación Tamuín|MX||41|1pc|-7mh|b
+Eskihisar|TR|Aydın|94|2xa|265|b
+Estación la Piedad|MX||41|1kl|-7vc|b
+East Hampton|US|New York|48|35s|-5ki|b|Est Hampton;Easthampton
+Esparragosa de la Serena|ES||9d|2zd|-fl|b
+Essondale|CA||5b|3sr|-9h5|b|Riverview
+Esches|FR||9k|3sq|61|b
+Eshta’ol|IL||6n|2ga|2p9|b|Eshtaol
+Escucha|ES||9d|35b|-29|b
+Essel|DE||8r|42d|qs|b
+Issikro|CI||0|m0|-98|b|Essikro
+Esperanza|PR||4m|1ea|-51v|b
+Estapilla|MX||41|1cq|-71x|b|Estopilla
+Estación Rosales|MX||3x|1x0|-8au|b
+Escamillas|MX||3x|1sn|-875|b
+Esfuerzos Unidos|MX||44|1wy|-83n|b
+Escuadrón Doscientos Uno|MX||44|1zb|-7z3|b
+Eskilstrup|DK||8y|48e|x1|b|Eskildstrup
+El Escobillo|MX||41|1i7|-7i0|b|Escobillo
+Estivareilles|FR|Auvergne-Rhône-Alpes|9k|3kz|7a|b
+Espinho|PT|Braga|99|37f|-n8|b
+Escolín de Olarte|MX||41|1ky|-7im|b
+Estación Porvenir|UY||45|-2hx|-4gp|b
+Esparragosa de Lares|ES||9d|30a|-en|b
+Estación Pescaderos|MX||58|2hr|-8vu|b|Kilómetro Treinta y Nueve
+Estrées|FR||9k|3vq|8j|a
+Eskifjörður|IS||87|50r|-12y|a|Eskifjörð;Eskifirði;Eskifjarðar
+Excola|MX||41|1h6|-7hs|a|Escola
+Esentepe|TR|Ağrı|94|32j|3aj|a
+El Escaño de Tepale|HN||56|14z|-6pv|a|Escano de Tepale
+Esfahrān|IR||7o|2ic|3yz|a
+Eschbach|FR||9k|3rr|li|a
+Étagnac|FR||9k|3jh|26|a|Estanhac
+Estación Corralejo|MX||41|1kv|-7ua|a
+Essing|DE||8r|3rx|wr|a
+Eşmeçayır|TR||94|339|3a5|a|Sıthan
+Estación Gutiérrez|MX||41|1t5|-7xj|a
+Esóvalta|GR||8p|353|1pu|a
+Eston|CA||4q|3y3|-8e3|a
+Essé|FR|Brittany|9k|3p8|-3y|a|Ezieg;Esceium
+Eschdorf|LU||9c|3ul|gh|a
+Eski Forish|UZ||7g|34n|55u|a
+El Estribo|MX||44|1zs|-7ye|a|Estribo
+Eshẖar|IL||6n|2jd|2q2|a
+Estherwood|US||2f|2bu|-74u|a|Esterwood
+Estancia del Carmen de Maravatío|MX||41|1jv|-7sc|a
+Escrick|GB||9b|45o|-2w|9
+Esquay-Notre-Dame|FR||9k|3sf|-1b|9
+Estación Saucillo|MX||2g|25v|-84k|9
+La Estancia del Cubo|MX||41|1nf|-7sv|9|Estancia de el Cubo;Estancia de la Ordeña;El Salto;Estancia del Cubo
+Estanzuela|MX|Veracruz|41|1ip|-7i5|9
+Espère|FR||9k|3fn|3u|9
+Eyjeaux|FR||9k|3j6|3v|9|Esjau;Eyjaux
+Escañuela|ES||9d|2x8|-b7|9
+Eskikonak|TR||94|30x|3b3|9|Grakom
+Esse|FI||92|4wn|1s2|9|Ähtävä
+Estrée-Blanche|FR||9k|3wj|6g|9|Éstraye-Blanke
+Esquennoy|FR||9k|3ty|6b|9
+Esplechin|BE||8t|3wh|96|9
+Espoey|FR||9k|3c4|-h|9|Espuei
+Es Cubells|ES||9d|300|3j|9
+Esperia|IT||9o|36y|120|9
+Eslāmābād|IR|Tehran|7o|2r2|40o|9
+Estreux|FR||9k|3vv|9z|9
+La Estanzuela|MX|Michoacán|41|1jw|-7wd|9|Estanzuela
+Escurial|ES||9d|30t|-gc|9
+Eskihisar|TR|Antalya|94|2u7|2at|9
+Esenyurt|TR|Bartın|94|37f|2hl|9
+Esgrus|DE||8r|480|r6|9|Eskeris
+Esmans|FR||9k|3qb|8a|9
+Eslida|ES||9d|32s|-u|9
+Escatalens|FR||9k|3e6|3b|8
+Estación Jácuaro (Colonia la Reunión)|MX||41|1ig|-7td|8
+Estación Viñedo|MX||44|1za|-7z9|8
+La Escondida|MX|Nuevo León|44|1x7|-7og|8|El Ranchito;Escondida
+Es Pujols|ES||9d|2zk|42|8
+Estadilla|ES||9d|38u|o|8|Estadella
+Esbeek|NL||8m|3yy|ea|8
+Espíritu Santo|MX|Zacatecas|41|1qs|-7ts|8
+Espinasse-Vozelle|FR||9k|3k5|98|8|Espinassa e Vausèla;Espinassa e Vozela
+Essvik|SE||9w|4t4|1cb|8
+Estación Nueva Italia|MX||41|1gz|-7vl|8
+Estelnic|RO||8u|3k2|20t|8
+Estero Verde|MX||41|1ab|-7nm|8
+Eskin|TR||94|2vd|350|8
+Espíritu Santo|MX|Zacatecas|41|1v6|-7yt|8
+Espeluche|FR||9k|3fo|de|8|Espelucha
+Eshpuilho|MX||41|1af|-74v|8
+Esentepe|TR|Gaziantep|94|2vw|2wr|8|Nogocik
+Escalante|US||2p|2wx|-8m0|8|Esca Lante
+Esentepe|TR|Aydın|94|2wp|24r|8
+Esenta|IT||9o|3i6|t4|8
+Estépar|ES||9d|39g|-au|8
+Esperanza Baja|PE||3o|-vs|-5yi|8
+Esséyakro|CI||0|iw|-cg|8|Esséakro
+Eschenbergen|DE||8r|3xr|tw|8
+Espinho Branco|CV||84|169|-1tn|8
+La Estrella|MX|Zacatecas|41|1pd|-7tw|8|Estrella
+El Espíritu|MX|Hidalgo|41|1l7|-7nh|8|Espíritu
+Esmery-Hallon|FR||9k|3u4|8d|8
+Espelúy|ES||9d|2xn|-aq|8
+Essankro|CI||0|ee|-9a|8
+Escoatitla|MX||41|1n9|-7m6|8
+Essex|US|Iowa|2f|35f|-7cr|8
+Essex|US|Illinois|2f|36e|-6sz|8
+Soledad de Abajo|MX||41|1q9|-7w5|8|Estación de Adames
+Escalante|ES||9d|3co|-9r|8
+Eskihamidiye|TR||94|379|2hv|8
+Estelline|US||2f|3ft|-7h6|8
+La Estancia del Refugio|MX||41|1ke|-7v5|8|Estancia del Refugio
+Esenköy|TR||94|2x1|26r|7
+Esperstedt|DE|Saxony-Anhalt|8r|3yu|wg|7
+Vyshneve|UA|Sevastopol City|9t|3g9|2lc|7|Eski El
+Escúzar|ES||9d|2uy|-ag|7
+Esquerchin|FR||9k|3vy|8d|7
+Estación Nanchi (Peñasquillo)|MX||3x|1ok|-83u|7
+Estación la Cruz|MX||2g|25b|-847|7
+Estancia de Atotonilco|MX||41|1o3|-7rx|7
+Estanzuela de Razo|MX||41|1jt|-7r9|7
+Escamps|FR||9k|3ol|9n|7
+Esplús|ES||9d|384|s|7|Esplucs
+Esperanza Malota|MX||41|1e2|-7c1|7|Esperanza Molota
+Escoville|FR||9k|3sp|-o|7
+El Estanco|MX||41|1gi|-7qi|7|Estanco
+Esmā‘īlābād|IR||7o|2tv|4fn|7
+Esterzili|IT||9o|32i|ps|7
+Esserts-Blay|FR||9k|3ip|hw|7
+Estancia de San Francisco|MX||41|1o7|-7sq|7|Estancia San Francisco
+La Estancia|MX|Sonora|37|2ar|-8i5|7|Estancia
+Esperanza de los Pobres|MX||41|1c3|-77o|7
+Escolives-Sainte-Camille|FR||9k|3ok|a1|7
+Eschbach|DE||8r|3sl|ma|7
+El Estrecho|ES||9d|2wj|-2b|7|Estrecho
+Espondeilhan|FR||9k|3co|92|7
+Estosadok|RU||9i|3dc|33v|7|Eesti Aiake;Esto-Sadok
+Espíritu Santo|MX|Chiapas|41|19d|-73h|7
+Esino Lario|IT||9o|3jr|px|7
+Esprels|FR||9k|3o2|hp|7
+Escalón|MX||2g|22b|-81u|7
+Es Souda|TN||1e|2pi|qh|7|Lassouda;Lessouda
+Espindola|PE||3o|-cw|-64t|7
+Escrennes|FR||9k|3pp|63|7
+Escurolles|FR||9k|3k6|93|7|Escuròlas
+Estancia de la Rochera|MX||41|1lp|-7r7|7
+Esbūzar|IR||7o|2th|43m|7
+Esterdīkolā|IR||7o|2tg|42i|7|Estedīr Kolā
+Eshmenān Ţālem|IR||7o|2vo|3u3|7
+Esençay|TR||94|2wy|27d|7|Boyasın
+Estacion San Dieguito|MX||41|1p5|-7nm|7
+Estang|FR||9k|3dv|-b|7|Estanc
+Esternberg|AT||a2|3qu|11p|7
+Espinosa de Henares|ES||9d|35m|-8j|7
+Estación Coyotes (José María Morelos)|MX||44|1ua|-84j|7
+Esbarres|FR||9k|3mt|ei|7
+Essoyes|FR||9k|3pi|cl|7
+Escource|FR||9k|3eo|-2v|7
+Eshbol|IL||6n|2fd|2ob|7|Ešbol
+Eskikabasakal|TR||94|2w1|2rj|7
+Espinal de Morelos|MX||41|1af|-77j|7
+Estaing|FR||9k|3fs|7f|7
+Esteban S. Castorena|MX||41|1qe|-7w2|6
+Eskihisar|TR|Kocaeli|94|359|29r|6|Eskihiser;Eski Hissar
+Esperstedt|DE|Thuringia|8r|3yn|v2|6
+Esquena|PE||3o|-12p|-5eb|6
+Estación Acatita|MX||3x|1yb|-8c3|6
+Écuras|FR||9k|3iw|1l|6|Escuràs;Ecuias
+Espíritu Santo|MX|Tlaxcala|41|1hq|-7lf|6
+Espinasses|FR||9k|3fj|hb|6
+Estrées-Mons|FR||9k|3uk|8d|6
+Esenyayla|TR||94|356|3db|6
+Escalona del Prado|ES||9d|36d|-bg|6
+Essegney|FR||9k|3qd|hk|6
+Escolca|IT||9o|32a|pc|6
+Esnes|FR||9k|3v6|97|6
+Estancarbon|FR||9k|3bq|27|6
+La Esperanza|MX|Guanajuato|41|1k6|-7rt|6|Esperanza
+Eskiçine|TR||94|2wa|25z|6|Eskcine
+Escuchapa|MX||41|1ev|-7no|6
+Esen|TR||94|366|2q7|6
+Essertines-en-Châtelneuf|FR||9k|3iq|b4|6
+Espinoso del Rey|ES||9d|325|-da|6
+Ejido Tamaulipas|MX||58|2if|-8w3|6|Estación Cucapah
+Estación Chavarrillo|MX||41|1hz|-7gx|6
+Estación Velazco|MX||41|1pn|-7ls|6
+Estación Noé|MX||44|1zg|-7zo|6
+La Esmeralda|PE||3o|-dx|-697|6|Esmeralda
+Essientoa|CI||0|lf|-9p|6
+Estación Ventura|MX||41|1q7|-7rx|6
+Escassefort|FR||9k|3fr|o|6
+Espiet|FR||9k|3gh|-q|6
+Essendon|GB||9b|3zs|-f|6
+Esperanza|MX|Puebla|41|1fd|-7hk|6
+Eskiharran|TR||94|2ul|30i|6|Eskiharan;Eski-Kharan
+Eschenau|AT||a2|3ph|179|6
+La Escalera|MX|Sonora|37|22e|-8gl|6|Escalera
+Estación Wadley|MX||41|1tl|-7sj|6
+Escherange|FR||9k|3ta|gv|6
+Esclavolles-Lurey|FR||9k|3qv|a6|6
+Estancia de Morelos|MX||41|1bd|-7ed|6
+Estancia de San Antonio|MX||41|1mf|-7rg|6
+Esch|DE||8r|3vx|ie|6
+Españita|MX|Guanajuato|41|1m4|-7qz|6
+Estrella Roja|MX||41|1ks|-7jc|6
+El Espíritu|MX|Hidalgo|41|1kr|-7o0|6|Espíritu
+Esche|DE||8r|41y|jc|6
+Estância de Baixo|CV||84|18u|-1rk|6
+Escoussens|FR||9k|3cu|65|6
+Esquiule|FR||9k|3bz|-1z|6|Eskiula;Esquiula
+Estación Hoyancos (Estación el Fuerte)|MX||3x|219|-8dn|6
+Esperanza Arroyo la Gloria|MX||41|1dw|-7em|5
+Estación Chapapote (Puerta Siete)|MX||41|1m7|-7jg|5
+Escatachuchut|MX||41|1jq|-7j8|5
+Estación Abasolo|MX||41|1ky|-7u5|5
+Estancia Vieja (San José la Estancia)|MX||41|1gt|-7pw|5
+Estanzuela (La Hacienda)|MX||41|1ix|-7qa|5
+Estibeaux|FR||9k|3d4|-2j|5
+Escobedo|MX||44|23n|-7tp|5
+Estribo|MX||41|1s6|-7u4|5
+Eschbourg|FR||9k|3rl|ka|5
+Esmont|US||48|2x3|-62d|5
+Estutempan|MX||41|1il|-7pr|5
+Eskimantaş|TR||94|2wa|2rr|5
+Eşme|TR|Diyarbakır Province|94|2xo|35m|5
+Asfal|IR||7o|27s|432|5|Esfal
+Escornebœuf|FR||9k|3d9|2i|5
+Estivareilles|FR|Auvergne-Rhône-Alpes|9k|3i6|b5|5
+La Esmeralda|PA||4g|mz|-638|5|Esmeralda
+Eşmeyazı|TR||94|34p|3cp|5
+Espès-Undurein|FR||9k|3c7|-2g|5|Ezpeize-Ündüreine;Espès;Ezpeize;Espés-Undurenh
+Esenyurt|TR|Antalya|94|2uy|2ca|5
+Eskridge|US||2f|2zy|-7ez|5
+Esse|FR|New Aquitaine|9k|3jv|20|5
+Essay|FR||9k|3qu|p|5|Essai
+Estancia de Mosqueira|MX||41|1pi|-7wb|5
+Eselborn|LU||9c|3v2|go|5|Eeselbur
+Estouy|FR||9k|3pv|6h|5
+Eyburie|FR||9k|3ia|4k|5|Ebúria;Esburia
+Esperanza|MX|Guanajuato|41|1m4|-7rz|5
+Estouteville-Écalles|FR||9k|3tr|3n|5

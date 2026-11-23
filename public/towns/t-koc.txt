@@ -1,0 +1,88 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cochabamba|BO||3n|-1ca|-53s|6hp|Kuchawampa;Quchapampa;Kočabamba;Kočabamb
+Kochi|IN||6t|rm|5vu|4w0|Koczin;Cochim;Cochín;Ernakulam
+Kochi|JP|Kochi|7q|2l7|aax|2k9
+Xincheng|CN|Xinjiang|7t|37v|6ed|sk|Koutcha;Kuqa;Kucha;Yëngisheher;Kuchar;Kuchi;Kocha;Kuchu;K’u-ch’e;Kuga;Kuche
+Koch Bihār|IN||6t|215|6wh|lv|Kuch Bihār
+Koch'ang|KR||7h|2qf|9ry|ka
+Şereflikoçhisar|TR||94|306|2l6|c9|Koçhisar;Şerefli
+Kochani|MK||9u|38g|1q9|9j|Kočani;Kočane
+Kokhma|RU||9i|4e5|365|82|Kochma;Koxma;Koĥma
+Kochubeyevskoye|RU||9i|3g0|389|7x|Kotschubejewskoje
+Kotsyubynske|UA||98|3w9|2c9|4w|Berkovets;Kotsyubyns’ke;Kotsiubynske;Kozjubynske;Kotsioubynske;Kotsübınske;Kocjubynske;Kociubynśke;Koțiubînske;Kocjubinske
+Kochkor-Ata|KG||65|360|5lc|4s|Qo‘chqor-Ota;Kotschkor-Ata;Kočkor Ata;Kotchkor-Ata;Kočkor-Ata;Kotškorata;Koczkorata
+Kochenëvo|RU||75|48t|6cd|4k|Konchenevo;Kochenova
+Kuchinda|IN||6t|1oe|6ib|4c|Kochinda
+Kocaali|TR||94|361|2dp|47|Kocalı
+Ko Chang|TH||62|xh|7w6|3f
+Kochendorf|DE||8r|3sq|pm|2g
+Koçarlı|TR||94|2ww|24z|2e
+Kočevje|SI||9a|3is|15a|29|Gottschee;Kočevė
+Kochpara|IN||6t|20h|729|23
+Kōchi|JP|Shizuoka|7q|2oe|apy|20|Kāchi
+Kochubey|RU||9i|3fb|3le|1w|Kotsjubej
+Kocaköy|TR|Diyarbakır Province|94|2yd|34i|1t|Karas
+Kocakaymaz|TR||94|35r|2bm|1s|Kocakaymas
+Kocahasanlı|TR||94|2tm|2n7|1l
+Cochem|DE||8r|3vb|jw|1g|Kochem
+Koçkıran|TR||94|31u|3ee|1b
+Koghb|AM||80|36e|3gy|1a|Koxb;Kulbi;Kuln;Kulpi;Kochb;Kokhb
+Göcek|TR||94|2u3|28f|19|Köçek
+Kochel|DE||8r|3oe|vl|16
+Kochki|RU||75|46x|67l|15|Kotsjki
+Kocê|CN||7i|2o8|7vy|11
+Kočerin|BA||9r|3cj|1cl|z
+Kock|PL||a5|3zg|1qc|z
+Kochetok|UA||98|3uk|2u2|z|Kotschetok;Kotchetok;Kočetok;Koczetok;Kotxetok;Kochegok
+Kochëvo|RU||7z|4lk|46w|x|Kotsjevo
+Kochkurovo|RU||9i|464|3i8|w|Kotsjkurovo
+Kocsord|HU||8v|3p6|1q6|v
+Kocherinovo|BG||9v|38w|1s2|t|Kocheripovo;Kočerinovo;Kocherinobo;Kočarinovo;Kotcherinovo
+Kocs|HU||8v|3o9|1em|r
+Ko Chang Tai|TH||62|xc|7wd|n
+Kocaaliler|TR||94|2vo|2de|m
+Kokhav HaShaẖar|IL||6n|2gs|2q7|l|Kochav ha-Šachar;Kochav HaShahar;Kochav HaShachar
+Koczała|PL||a5|45q|1bf|l
+Kocsér|HU||8v|3mk|1jc|l
+Koçören|TR||94|2si|2sa|k
+Kochanowice|PL||a5|3wv|1g3|j|Kochanowicz;Kochanowitz;Kochanowicze
+Kocaköy|TR|Kars Province|94|33x|3cq|g|Nahcıvan
+Kochol|MX||3z|1la|-6yg|g
+Chotěbuz|CZ||9m|3u9|1fl|e|Kocobędz;Kozobentz;Kotzobenz
+Cochstedt|DE||8r|404|vp|d|Kochstedt;Cocstede
+Kojori|GE||7n|37q|3g6|c|Kodzjori;Koyori;Kodžori;Kocori;Kodzhory;Kodzhori;Kodzhor
+Kocatepe|TR||94|2uw|2wp|c
+Koshulyany|UA||98|3q1|21s|b|Kochouliany;Coșuleni
+Kocadere|TR||94|34v|28n|b
+Kocahıdır|TR||94|35d|21c|a
+Kochubeivka|UA|Poltava|98|3u7|2pk|a|Kochubeyivka;Kochubeyevka
+Kochubeivka|UA|Poltava|98|3sr|2nt|a|Kochubeyivka
+Kocabaş|TR||94|2x1|29h|9
+Kocagür|TR|Aydın|94|2x4|25j|9
+Adamovské Kochanovce|SK||8s|3rp|1dt|9|Kochanovce
+Kocmyrzów|PL||a5|3v9|1jx|8
+Kachikattsy|RU||7x|4qc|9y6|8|Katsjikattsy;Kochekattsy
+Kozçeşme|TR||94|33v|233|8|Koczesme
+Koçaklı|TR||94|2xr|36u|8|Koçaklar
+Koçyiğit|TR||94|2vk|33q|7
+Kocayaka|TR||94|2y9|2ad|7
+Kochanovce|SK||8s|3rz|1oy|7
+Koçköy|TR||94|35j|3cw|7
+Kocalar|TR||94|2vj|34w|7
+Koçlu|TR||94|2vn|2vz|7
+Koclířov|CZ||9m|3u9|19y|7
+Kachurivka|UA||98|3ob|2aq|7|Kochurovka;Kachurovka
+Koçaklar|TR||94|30z|3am|6
+Koçkaya|TR||94|347|38k|6
+Kocayer|TR||94|2ug|2nc|6
+Koçtepe|TR||94|2wa|38b|6
+Kocaeli|TR||94|322|24f|6|Kocalı;Kocaili
+Kočí|CZ||9m|3ur|182|6
+Kocagür|TR|Canakkale|94|343|23j|6
+Kocareis|TR||94|37p|2hq|6
+Kocurany|SK||8s|3rh|1fi|5
+Koçhisar|TR||94|2yu|2bw|5
+Kocbeře|CZ||9m|3w5|182|5|Kočbeř
+Kochkuvate|UA||98|3j8|2b0|5|Buduri;Kotchkouvaté
+Kocaköy|TR|Bartın|94|37t|2i8|5
+Kočín-Lančár|SK||8s|3r0|1d1|5

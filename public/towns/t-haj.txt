@@ -1,0 +1,71 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hyderabad|IN||6t|1ca|61y|1hyl|Hajdarábád;Haidarabadas;Haiderabad;Hajderabad
+Haikou|CN|Hainan|7i|1jn|8ij|n5s|Xeyko shehir;Hải Khẩu;Hajkou;Hajkoŭo;Chaj-kchou;Hái-kháu-chhī;Hāi-kāu;Haijgouj;Haykou;Haikow
+Haiphong|VN||62|1ly|88c|k98|Hải Phòng;Hajfong;Hajfongo;Hayfon
+Hyderabad|PK||6q|1yk|59y|etp|Hajdarabad;Hajderabado;Haidarabadas;Haydarabad;Hiderábád;Haydarobod;Hajderabad;Haidarabad
+Haifa|IL||6n|2j5|2p8|279|Hajfo;Hajfa;Ḥeyfa;Hayfa;Lungsod ng Ḥefa;Aifa;Hepha;H̱efa;Heifā
+Hialeah|US||48|1zu|-670|1tv|Hajalija
+Hājīpur|IN|Bihar|6t|1zd|6kp|151
+Heidelberg|DE||8r|3t9|o5|13t|Hajdelbergo;Hejdelbergo;Heidlberg;Heidlbeag;Hajdelberg;Heidelberch;Haidlbärsch;Héydélbérg;Heydelberq;Heidelbarg;Edelberga;Heidelburg
+Heilbronn|DE||8r|3si|pm|xj|Hajlbrono;Heilbronas;Hailprunna
+Hajiawa|IQ||5z|2so|3gf|m8
+Hājīganj|BD||6a|1sl|70e|cb
+Ḩajjah|YE||5r|17l|3d5|c3|Haccah;Hojja;Hajja;Hacca;Hajje
+Diamond Harbour|IN||6t|1pn|6sz|bm|Hajipur
+Hajdúböszörmény|HU||8v|3of|1ns|8w|Betschermen;Sântgheorghe;Beșermeni
+Haji Zeynalabdin|AZ||61|34u|3to|8b|Nasoslu;Hacı Zeynalabdin;Hacı Zeynalabdin Tağıyev
+Hajīn|SY||69|2oe|35f|84
+Hajira|PK||6q|2lt|5p9|82
+Haysyn|UA||98|3rl|29m|75|Haïssyn;Hajsyn;Haisyn;Hajsin;Hajssyn
+Hajdúszoboszló|HU||8v|3nt|1ng|6m
+Ḩājjīābād|IR|Hormozgan|7o|26n|4ba|6h
+Hajnówka|PL||a5|42i|1ti|66|Hainuvka;Hajnuvka
+Háje|CZ||9m|3v0|14d|65
+Ḩājjīābād|IR|Fars|7o|26s|476|61|Hājīābād
+Haji Shah|PK||6q|2m4|5kx|56
+Hajdúnánás|HU||8v|3ox|1nj|50
+Hājo|IN||6t|20x|729|4g
+Hayvoron|UA|Kirovohrad|98|3qa|2az|41|Haïvoron;Gayvoron;Hajworon;Hajvoron;Hajvoronas;Haivoronske poselennia;Strunkiv;Strunkivskyi Tashlyk;Strunkivskyy Tashlyk
+Hājan|IN||6t|2na|5ra|3o
+Hajdúhadház|HU||8v|3og|1o7|3l
+Hajdúsámson|HU||8v|3o8|1oh|31
+Hajeb el Aïoun|TN||1e|2qc|qi|2y|Hadjeb el Aïoune;Hadjeb el Aïoun
+Hajdúdorog|HU||8v|3ou|1nq|2n|Haidudorog;Deroch
+Hajarmachi|IN||6t|1c3|5q7|2l
+Haj Kaddour|MA||d|2lz|-f3|1z|Hadj Kaddour
+Hājipur|IN|Punjab|6t|2gu|5uf|1p|Hājjīpur
+Hajira INA|IN||6t|1mn|5lt|1k
+Ḩājjī Qūshān|IR||7o|2vz|49s|19|Ḩājjī Qūsh;Hājī Qūshan
+Hajimalik|AZ||61|34v|3kx|10|Azizbekov
+Hajós|HU||8v|3kw|1h4|z|Ajoš;Hajasch
+Ḩājjīābād|IR|Isfahan|7o|2ip|3yd|y
+Háj ve Slezsku|CZ||9m|3um|1ea|x
+Hajdúszovát|HU||8v|3nm|1no|w
+Ḩājjī Khādemī|IR||7o|23n|4eg|u|Ḩājī Khādemī;Ḩājjī Khādem
+Hajmáskér|HU||8v|3mz|1e2|s
+Hajoho|KM||ac|-xo|3fl|p
+Ḩajjah|PS||6g|2hg|2pl|o|Ḥajja
+Hayredin|BG||9v|3d4|1tq|m|Hayreddin;Hajredin;Chairedin;Khairedin
+Hajangoua|YT||ah|-zr|3hk|l|Ajangua
+Hajdúbagos|HU||8v|3nn|1o7|k
+Lernapat|AM||80|35e|3fb|k|Makarashen;Hajigare;Hajikara;Hajighara
+Ḩājjīābād|IR|Fars|7o|2bb|430|i|Ḩājīābād
+Ḩājjī Behzād|IR||7o|2uu|3k1|g|Ḩājjībehzād
+Hajdučica|RS||8q|3hp|1m8|f|Istvánvölgy;Ajdučica;Hajdusicz;Haiduciţa;Hajdusicza
+Kamo|AM||80|35f|3e3|f|Haji Nazar Kuli
+Ḩājjīlār|IR||7o|2zz|3h9|e|Ḩājalār;Hājī Lār
+Háj u Duchcova|CZ||9m|3wn|123|e
+Hájske|SK||8s|3q1|1dn|d
+Yarivka|UA||98|3qc|21p|c|Hajdeu de Sus
+Ḩājjīābād|IR|Fars|7o|2cc|412|b
+Ḩājjī Yār|IR||7o|2py|4kk|b
+Ḩājjī ‘Abdāl|IR||7o|2xi|3l2|9|Ḩājj ‘Abdāl
+Hajnice|CZ||9m|3w8|187|9
+Ḩājjīābād|IR|West Azerbaijan|7o|2u4|3kz|8
+Ḩājjīābād|IR|Isfahan|7o|2i9|3z3|8
+Ḩājj Yadollāh Maḩalleh|IR||7o|2y1|3ru|8
+HaYogev|IL||6n|2il|2ps|7|Ha-Jogev;HaJogev
+Ḩājjī Bekandeh|IR||7o|2w1|3ub|7|Ḩājjī Bekandī
+Ḩājjī Beyk|IR||7o|2rp|3wp|7|Ḩājjī Beyg
+Hășdate|RO||8u|3lk|1t3|7|Hăjdate
+Hajdoše|SI||9a|3kz|17z|6

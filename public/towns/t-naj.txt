@@ -1,0 +1,26 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nairobi|KE||16|-3k|2ua|xxf|Najrobio;Najrobo;Nayrobi;Nayroobi;Nairoby;Nai-lo̍k-pí;Nayrubi;Nairóvi;Najrobi;Nayiiroobii;Nairoba
+Najafgarh|IN||6t|27h|5xu|aj6|Najfargharh;Najafgarli
+Najrān|SA||7e|1cl|3el|3wh|Necran;Nacran;Najraan
+Najaf|IQ||5z|2gz|3f7|3q2|Nadschaf;Naĝafo;Nadjaf;Nayaf;An-Nadżaf;Nachaf;Nadžaf;Nedzsef;Nadžafas;Necef
+Najafābād|IR||7o|2in|3yp|1td|Nejafābād
+Naivasha|KE||16|-1z|2t7|1j4|Naivaša;Najvaŝo
+Nakhodka|RU||7w|3b0|a98|14t|Nachodka;Naĥodka;Nahhodka;Najodka;Naxodka;Nahotk;Langouwai
+Naxçıvan|AZ||61|30x|3i5|r0|Nakhichevan’;Nakhitsjevan;Nakhchivan;Nachitschewan;Nakhichivan;Nakhitchevan;Nahičevan;Nahçıvan;Naxchivan;Najchivén;Naxuana
+Najībābād|IN||6t|2a9|61m|nc|Najībābāb
+Rajin|KP||7a|39e|a1w|ie|Rasin;Najin
+Nag Hammâdi|EG||c|20d|2hk|gk|Nag-Hamado;Nag Hamady;Nag‘ Hammādi;Naga Hamadi;Nag Hamadi;Naj‘ Ḩammādī
+Naju|KR||7h|2pb|9s0|bt|Nadžu
+Nejo|ET||2|qe|2qm|ay|Neju;Nego;Najo;Nedjo
+Najafshahr|IR||7o|29n|4as|5m
+Nájera|ES||9d|39u|-7l|26|Naiara;Naiera;Nachera
+Najmābād|IR||7o|2qm|3yy|m
+Nayn|IL||6n|2in|2q7|k|Na‘im;Nein;Naïn;Naim;Najn;Neim
+Nages-et-Solorgues|FR||9k|3dn|br|e|Najas e Solòrgues
+Najaf|IR||7o|2wd|4e2|d
+Najaru|SD||r|147|2kd|c
+Neutal|AT||a2|3o3|19p|b|Sopronújlak;Nyujtál;Najtolj
+Najd Al Tha'ub|YE||5r|10q|3fd|a
+Naidăș|RO||8u|3go|1nz|a|Naida;Najdaš
+Najac|FR||9k|3eu|5i|8
+Najjār Deh|IR||7o|2tp|3z9|7

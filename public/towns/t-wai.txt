@@ -1,0 +1,104 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tin Shui Wai|HK||6i|1qe|8so|27i|Tianshui Wei
+Invercargill|NZ||ak|-3kw|czn|g4|Waihopai;Inverkargilas;Ostium Cargillense;Inbhir Chargaill
+Waiblingen|DE||8r|3rn|pw|ep|Waiblinga;Vayblingen
+Waiau-Pacific Palisades|US||ax|1ng|-c6r|d8
+Waipahu|US||ax|1nf|-c6x|am|Vaipachu;Vaipahu
+Wai|IN||6t|1dv|5p9|a0
+Waingapu|ID||70|-qu|9a2|9z|Waingapoe
+Vác|HU||8v|3oq|1h6|9b|Waitzen
+Waisai|ID||6m|-o|a2j|69
+Wainuiomata|NZ||ak|-36n|dhz|5p
+Waikīkī|US||ax|1n5|-c6g|5j
+Waina|CN||7i|2k9|83t|5e
+Wailuku|US||ax|1m1|-c2r|49
+Waimalu|US||ax|1nf|-c6q|3t
+Waikanae|NZ||ak|-35k|dib|3s
+Waianae|US||ax|1nk|-c7f|3o|Wai‘anae;Wainae;Waeanae;Waianai
+Waikiki|AU||8k|-2hs|8xj|3c
+Waipio|US||ax|1ni|-c6w|39
+Waidmannslust|DE||8r|425|110|33
+Waiuku|NZ||ak|-2vh|dhd|2r
+Waimea|US|Hawaii|ax|1jm|-c0f|2k
+Waihee-Waiehu|US||ax|1m5|-c2q|2g
+Wissembourg|FR||9k|3s8|m3|2g|Weißenburg;Waißebursch;Wissemborg
+Wail|IN||6t|2n7|5rs|2b
+Waitara|NZ||ak|-30c|dg0|25
+Waite Park|US||2f|3ik|-79q|23
+Waimes|BE||8t|3w1|gz|1v
+Wainwright|CA||2s|42r|-8jx|1r
+Wailea|US||ax|1lh|-c2k|1n
+Waitara|AU||8l|-2ln|bnq|1n
+Waibstadt|DE||8r|3sy|os|1m|Waibscht
+Wailea-Makena|US||ax|1le|-c2j|1l
+Waikowhai|NZ||ak|-3cp|d3w|1k
+Waipi‘o Acres|US||ax|1nm|-c6x|1j|Waipio Acres
+Waimanalo|US||ax|1nb|-c64|1j|Waimanolo
+Wailua Homesteads|US||ax|1pb|-caq|1g
+Wairoa|NZ|Hawke's Bay Region|ak|-30g|dou|1d
+Waiwhetu|NZ||ak|-36i|dhv|1d
+Picton|NZ||ak|-36p|dfd|1d|Waitohi
+Waikoloa|US||ax|1je|-c0r|1c
+Waihi|NZ||ak|-2vu|dkf|1a
+Waitangirua|NZ||ak|-368|dhs|1a
+Waimānalo Beach|US||ax|1n9|-c62|19
+Waidhofen an der Thaya|AT||a2|3rm|16g|17
+Wairoa|NZ|Hawke's Bay Region|ak|-30f|dop|17
+Waialae Iki|US||ax|1n4|-c69|16
+Wairau Valley|NZ|Auckland|am|-2u5|dhe|14
+Waialae - Kahala|US||ax|1n3|-c6a|13
+Waialua|US|Hawaii|ax|1ny|-c79|13|Waalua;Waiarua
+Waidhofen an der Ybbs|AT||a2|3p8|151|12|Waidhofen-Ybbs
+Waialua|US|Hawaii|ax|1mm|-c3g|12
+Wajiki|JP||7q|2l4|abp|11|Waiiki
+Waimate|NZ||ak|-3g9|d75|11
+Waiʻalae Nui-Country Club|US||ax|1n3|-c6a|y
+Waischenfeld|DE||8r|3uh|vj|w
+Waikapū|US||ax|1ly|-c2r|u
+Waigolshausen|DE||8r|3us|s4|t
+Wainoni|NZ||ak|-3cv|dbo|t
+Waimate North|NZ||ak|-2q4|df0|s
+Waialae Nui Ridge-Ainakoa|US||ax|1n4|-c6a|s
+Waima|NZ||ak|-2um|dh3|r
+Wailupe|US||ax|1n4|-c68|r
+Waikerie|AU||8b|-2my|asv|r
+Waihi Beach|NZ||ak|-2vw|dkp|r
+Waikiwi|NZ||ak|-3ku|czl|p
+Waiatarua|NZ||ak|-2ul|dgy|o
+Wailua|US|Hawaii|ax|1p9|-cam|n
+Wairau Valley|NZ|Marlborough|ak|-37h|de1|m
+Waimataitai|NZ||ak|-3fa|d7o|m
+Wailua|US|Hawaii|ax|1lx|-c1q|m
+Waidhofen|DE||8r|3qy|vi|m
+Waidhaus|DE||8r|3tw|yq|l
+Waidring|AT||a2|3o6|yx|k
+Waipawa|NZ||ak|-371|djk|j
+Waimea|US|Hawaii|ax|1p0|-cbj|j
+Waitakere|NZ||ak|-2ud|dgu|i|Vaitakerė;Whitakere
+Wainfleet All Saints|GB||9b|43j|o|h
+Waikawa|NZ||ak|-36n|dfh|h
+Wainui|NZ||ak|-2zh|dqn|h|Wanui beach
+Wain|DE||8r|3pv|ru|g
+Waipu|NZ||ak|-2ry|dgl|e
+Waimairi Beach|NZ||ak|-3cs|dbs|d
+Waikouaiti|NZ||ak|-3in|d61|d
+Waimauku|NZ||ak|-2u3|dgq|d|Waimauki
+Waizenkirchen|AT||a2|3q9|12i|d
+Wainaku|US||ax|1iu|-byt|c
+Waitsburg|US||3p|3kj|-947|c
+Waitoa|NZ||ak|-2wi|djv|c
+Waikuku Beach|NZ||ak|-3c8|dbs|b
+Waiern|AT||a2|3lt|134|a
+Wailly|FR||9k|3wc|5r|a
+Waidach|AT||a2|3oh|10i|9
+Wailly-Beaucamp|FR||9k|3w1|4t|8
+Waitangi|NZ||ak|-2pz|dfk|8
+Waikane|US||ax|1nq|-c6h|8|WaiaKāne
+Waiouru|NZ||ak|-31o|djz|8|Warouru
+Waisenegg|AT||a2|3nn|17k|7
+Waimana|NZ||ak|-2xz|dnw|7
+Wainscott|US||48|35q|-5ko|7|Wainscut
+Wainwright|US||1h|5g8|-cck|6|Ulġuniq
+Waitati|NZ||ak|-3j3|d5t|5
+Waidendorf|AT||a2|3qn|1aq|5
+Wairakei|NZ||ak|-2zb|dl6|5

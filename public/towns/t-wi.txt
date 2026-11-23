@@ -1,0 +1,1120 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Vijayawada|IN||6t|19v|681|8tk|Widźajawada;Vidžajavada;Vijajaŭada;Vidzsajavádá;Bejawada;Bezawada;Vijayavādā;Bezwāda
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+Winnipeg|CA||5d|3uk|-7hv|5s8|Vinnipega;Vinipego;Vinnipeg;Vinipegas;Vinipega;Vinnipeq
+Vilnius|LT||a3|47x|1y8|46o|Wilna;Vilno;Vilna;Wilno;Vilnüs;Vilnis;IVilnyusi;Wilñus;Vilnjûs;Vilnias;Wilnius;Vilniaus miestas;Vil'nyus;Vil'no;Vilnia
+Bissau|GW||8|wy|-17c|3e5|Bisaŭo;Bisau;Biso;Bissá;Bisava;Wisaw;Bissao
+Vinnytsya|UA||98|3sr|273|3bh|Vinnytsia;Winnica;Vinnicja;Winnyzja;Vinica;Vinicja;Vinniza;Vinnycja
+Wichita|US||2f|2wp|-7ie|321|Viĉito;Vičita
+Windhoek|NA||1f|-1qo|1bg|2za|Windhuk;Vindhukas;Vindhuko;Vindhuk;Windoèk;Wynhoeke;Vindhuka;Vindxuk;Vinduque
+Vitebsk|BY||9g|49b|2bw|2rp|Wizebsk;Vicebsko;Viciebsk;Vitsebsk;Witebsk;Vicebszk;Vicebsk;Vitsyebsk;Vítsiebsk;Vitebscum
+Winejok|SS||p|p1|24l|2bc
+Victoria|CA|British Columbia|5b|3qk|-9in|28g|Viktorijo;Viktorija;Wiktoriye;Viktoria;Viktoriya
+Wiesbaden|DE||8r|3v5|mw|289|Aquae Mattiacae;Vysbadenas;Vīsbādene;Visbaden;Wiasbån;Wissbade;Aquae Matticae;Aquae Mattiacorum;Wisibada
+Winston-Salem|US||48|2sa|-66w|1v0|Winston Salem;Vinstonas-Seilemas
+Windsor|CA|Ontario|59|39i|-6em|1rt|Vindzoro;Vindzoras
+Bandundu Province|CD||t|-98|1ca|1kd|Bandundu;Provincia di Bandundu;Provinco Bandundu;Bandundu tartomány;Provinsi Bandundu;Bandundu Bölgesi;Bandundu viloyati;Wilayah Bandundu;Provincia de Bandundu;Provinz Bandundu;Bandundu Lardin;Gobolka Bandundu;Mkoa wa Bandundu
+Wigan|GB||9b|44q|-7c|1cq|la uigyn;Viganas
+Béchar|DZ||3|2fu|-66|19w|Wilaya de Beshar;Basyar;Bešaras;Baszszar;Bexar;Beşar
+Würzburg|DE||8r|3ub|rn|115|Wurtzbourg;Herbipolis;Wurtzburgo;Würzbörj;Wiazburg;Viurcburgas;Vircburga;Herbopolis;Virtibriga;Wirciburc
+Willemstad|CW||2l|xo|-5bd|yq|Vilemstadas;Willemstêd;Vilemstado;Villemştad;Vilemstade
+Wilmington|US|North Carolina|48|2n4|-60j|w7
+Gorzów Wielkopolski|PL||a5|42h|16b|vu|Landsberg;Landsberg an der Warthe;Gožova Velkopolska;Gožuvas;Landsbergum;Lãdzbarg;Gorzůw Wjelgopolski;Gožuv-Velkopolski;Thai Pô-làn Thi-khî Kô-yî-fû;Gorzow Velikopolski
+Winterthur|CH||a7|3nz|o8|v2|Winterthour;Vitudurum;Eulachstadt;Vinterturo;Vintertūras;Vintertūra;Vinterturi
+Wichita Falls|US||2f|2m7|-7ll|t3
+Velikiye Luki|RU||9i|4ci|2cu|sn|Welikije Luki;Velikije Luki;Wielkie Łuki;Velikije Loeki;Velikie Luki
+Wilmersdorf|DE||8r|41s|110|sb
+Worcester|GB||9b|40z|-66|s9|Caerwrangon;Vusteris;Wiogoraceastre;Vigornia
+Witten|DE||8r|3yw|kf|pi|Vitenas
+Viacha|BO||3n|-1a9|-59q|ny|Wiyacha;Viača
+Wilhelmshaven|DE||8r|44r|mi|ng|Willemshaven;Wülmshoawen;Willelmeshæfen;Vilhelmshafenas
+Willowdale|CA|Ontario|59|3dl|-64k|m2
+Vyborg|RU||9i|4on|27v|lu|Wyborg;Víborg;Viiburi;Viipuri;Viborgas;Viburgum;Viborga;Víobórg;Vipuri;Wiborg
+Winneba|GH||1|ev|-1q|jt
+Wilmington|US|Delaware|48|32f|-5tv|jp|Vilmingtonas;Vilmingtonia;Vilmingtona;Vilmingtono;Willington;Walmington;Willingtown
+Wimbledon|GB||9b|3yu|-l|iy|Vimbldonas;Uimbldon
+Rockville|US|Maryland|48|30k|-5yb|im|Rockvilla;Rokvilis;Williamsburgh;Hungerfords;Owen's Ordinary;Hungerfords Tavern;Montgomery Courthouse;Hungerford's Tavern;Montgomery Court House;Williamsburg
+Wik’ro|ET||2|12c|320|hs|Wukro;Uikro
+Widnes|GB||9b|448|-7l|h3
+Veliko Tŭrnovo|BG||9v|3bo|1z7|gg|Weliko Tarnowo;Veliko Tarnovo;Wielkie Tyrnowo;Veliko Tırnovo
+Verkhnyaya Pyshma|RU||7z|4e9|4oa|gf|Pyshma;Werchnjaja Pyschma;Verkhniaïa Pychma;Verchnjaja Pyšma;Verchnjaja Pysjma;Verxnyaya Pışma;Verĥnjaja Piŝma;Verhnjaja Põšma;Verhnjaja Pyšma;Verkhnjaja Pysjma;Wierchniaja Pyszma;Wjerchnjaja Pyšma;Aukštutinė Pyšma
+Vinto|BO||3n|-1cb|-548|gb|Wint'u
+Winterhude|DE||8r|44v|rt|fo|Hamborg-Winterhuud
+Wilhelmsburg|DE|Hamburg|8r|44l|rt|er|Willemsborg
+Wilmington|US|California|3p|2lu|-94i|eg
+Willich|DE||8r|3ye|i7|ee|Villix
+Vidnoye|RU||9i|4ab|2wr|ed|Vidnoje;Widnoje
+Willowdale East|CA||59|3dl|-64k|e0
+Uiju|KP||7a|33o|9lx|dx|Wi-ju
+Wilson|US|North Carolina|48|2r8|-60g|ds
+Willenhall|GB||9b|423|-5q|ds|Vilenhalo
+Verkhnyaya Salda|RU||7z|4h9|4o7|dm|Verkhnjaja Salda;Werchnjaja Salda;Verkhniaïa Salda;Verchnjaja Salda;Verxnyaya Salda;Verĥnjaja Salda;Wjerchnjaja Salda;Aukštutinė Salda;Wierchniaja Sałda
+Weert|NL||8m|3yd|fv|dj|Wieërt;Weerd
+Winnetka|US|California|3p|2n1|-95d|d2
+Winchester|GB||9b|3xv|-3o|ct|Wintonia;Winsjester;Caerwynt;Ouînchêtre;Vinčesteris
+Wismar|DE||8r|45p|vu|cl|Wyszomierz;Wismer;Vismāra;Wysmar;Vismaras
+Wiener Neustadt|AT||a2|3os|193|cg|Dunajsko Novo mesto;Viedenské Nové Mesto;Bécsújváros;Wr. Neustadt;Bécsújhely;Német-Újhely;Vyner Noištatas;Weana Neistod;Vídeňské Nové Město;Nova civitas Vindobonensis;Bečko Novo Mjesto
+Willesden|GB||9b|3z5|-n|cb
+Wilrijk|BE||8t|3y5|c8|bi
+Viborg|DK||8y|4ct|q4|bg|Viburgo;Wibergis
+Wilkes-Barre|US||48|36l|-5us|bc|Wilkes Barre;Vilkesberas;Vilksa-Bāra;Wilkesbarre
+Wilhelmstadt|DE||8r|41w|10n|b9
+Winter Garden|US||48|27d|-6an|b8
+Wiradesa|ID||6l|-j5|8gi|ay|Wirodeso
+Wichian Buri|TH||62|17i|7sv|ax
+Wichit|TH||62|lx|7lb|ar
+Winter Haven|US||48|25u|-6b1|ah
+Wigston Magna|GB||9b|422|-31|ad|Wigston Two Steeples;Great Wigston
+Willowbrook|US|California|3p|2m8|-94i|a0
+Wildwood|US|Missouri|2f|2z6|-6zu|9z
+Wildomar|US||3p|2lc|-91s|9w
+Igatpuri|IN||6t|1iq|5oc|9v|Wigatpura
+Uelzen|DE||8r|434|td|9q|Ulyssea;Wilcaus
+Vidin|BG||9v|3e7|1rk|9o|Widin;Widyń
+Winter Springs|US||48|27q|-69v|9o
+Lushoto|TZ||h|-da|2yc|9g|Wilhelmstal
+Williamsburg|US|New York|48|353|-5pf|96
+Ventspils|LV||9n|4ff|1nw|93|Windau;Ventspilis;Wentspils;Vindau
+Windsor|US|Colorado|2p|34g|-83e|93
+Wijchen|NL||8m|3zx|fx|93
+Winsen|DE|Lower Saxony|8r|448|sd|93
+Wisbech|GB||9b|42b|g|91|Visbičas
+Werl|DE||8r|3z7|lz|8x|Verl;Wiärl
+Willingboro|US||48|337|-5rz|8t
+Windsor|GB||9b|3z0|-1o|8s|Windlesōra;Windesoria;Vindzoras
+Willoughby|CA||5b|3sh|-9gs|8p
+Mosonmagyaróvár|HU||8v|3oz|1bz|8g|Ad Flexum;Mošonmađarovar;Wieselburg-Ungarisch Altenburg
+Winsford|GB||9b|43r|-70|8f
+Villazón|BO||3n|-1pd|-527|8f|Willasun;Viljasonas
+Wishaw|GB||9b|4ax|-aw|8d|Wishae;Camas Neachdain
+Wittenberg|DE||8r|403|z5|8c
+Winter Park|US|Florida|48|27g|-69y|8b|Vinter-Park
+Winnenden|DE||8r|3rs|q4|8b|Vinnenden
+Winterswijk|NL||8m|40d|io|88
+Williamsport|US|Pennsylvania|48|36k|-5xw|84|Williams Port
+Witney|GB||9b|3zu|-45|83
+Windsor|US|Connecticut|48|389|-5ls|80
+Vinkovci|HR||a6|3ht|1g8|7t|Winkowitz;Cibalae;Vinkovce;Vinkovcai;Vinkovcze
+Winchester|US|Nevada|3p|2sd|-8vs|7s
+Welingara|GM||7|118|-1ab|7r|Wellingara;Willingara
+Wiesloch|DE||8r|3sy|o6|7p|Wissloch
+Wickford|GB||9b|3zd|1g|7n
+Windsor|US|California|3p|2z3|-9h6|7n
+Wilmette|US||2f|38v|-6ro|7m
+Winchester|US|Virginia|48|30v|-614|7l|Vinĉestro
+Winona|US|Minnesota|2f|3ed|-72k|7j
+Williston|US|North Dakota|2f|3pr|-7zu|7i
+Wiehl|DE||8r|3xj|kz|7b
+Wilmslow|GB||9b|445|-67|75|Vilmslo
+Witham|GB||9b|3zw|1s|72
+Wierden|NL||8m|41g|ib|71
+Vilyuchinsk|RU||6p|431|c81|70|Viljutsjinsk;Wiljutschinsk;Vilioutchinsk;Viljučinsk;Viljoetsjinsk;Viluĉinsk;Viljutšinsk;Viljucsinszk;Wiluczinsk
+Wittenau|DE||8r|423|110|6v
+Williamnagar|IN||6t|1yu|6zq|6u
+Wil|CH|Saint Gallen|a7|3nu|p5|6o|Vilis
+Bainbridge Island|US||3p|3ob|-9gc|6m|Bainbridge;Winslow;Île de Bainbridge
+Wipperfürth|DE||8r|3y0|kk|6l|Wipperfurta;Viperfiurtas
+Visby|SE||9w|4g4|1eu|6i|visbis;visbus;Wisbia;Visbü;Visbija;Rosornas och ruinernas stad
+Weilheim|DE|Bavaria|8r|3ow|uz|6i|Wilheim
+Windham|US|Connecticut|48|37u|-5kg|6f
+Victoria|SC||ae|-cu|4a2|6d|Viktorija;Viktoria;Viktorio;Fiktoria;Viktorya;Wiktoria;Viktoriya;Viktorii
+Willebroek|BE||8t|3xu|c4|6c|Willebroeck
+Wilsonville|US|Oregon|3p|3hu|-9h1|6b
+Willoughby|US||48|37o|-6a5|6a|Vilobi
+Wilmington|US|Massachusetts|48|3a7|-5hp|67
+Willowridge-Martingrove-Richview|CA||59|3dc|-64z|66
+Wieluń|PL||a5|3ya|1fl|60|Vielun;Veliunis;Veluņa
+Wilnsdorf|DE||8r|3x6|mi|5z
+Wissinoming|US||48|336|-5si|5y
+Winchester|US|Massachusetts|48|39x|-5hm|5y
+Wittmund|DE||8r|44u|lm|5y|Witmundi
+Virú|PE||3o|-ne|-62r|5s|Wiru llaqta
+Vyškov|CZ||9m|3sw|1b8|5r|Wischau
+Winter Gardens|US||3p|2j7|-90t|5q
+Kaynaşlı|TR||94|359|2f0|5o|Withboiling
+Wittenberge|DE||8r|438|wn|5m
+Ukmerge|LT||a3|49h|1wr|5m|Wilkomir;Wiłkomierz;Okmergie;Vilkomir
+Willmar|US||2f|3hc|-7c0|5g
+Wisch|NL||8m|409|hu|5f
+Willetton|AU||8k|-2h1|8xx|5d
+Wiset Chaichan|TH||62|14k|7qq|5b|Wiset Chai Chan
+Vynnyky|UA||98|3ue|1v2|5a|Winniki
+Wieliczka|PL||a5|3uv|1jq|57|Velička
+Winschoten|NL||8m|43m|jj|55|Wynskoat
+Winchester|US|Kentucky|48|2xj|-6hu|54
+Wîhkwêntôwin|CA||2s|44q|-8rc|52|Oliver
+Wilten|AT||a2|3na|vn|51
+Wildeshausen|DE||8r|42x|nf|51|Wilshusen
+Wilton|US|Connecticut|48|36g|-5o0|51
+Visaginas|LT||a3|4ag|21g|50|Sniečkus;Visagina;Wisaginia;Snechkus
+Wisconsin Rapids|US||2f|3fa|-6xi|4z
+Wittlich|DE||8r|3uv|j5|4z|Wittlech
+Willimantic|US||48|37v|-5kl|4x
+Winthrop|US|Massachusetts|48|39q|-5h6|4w|Winthorp
+Wijk bij Duurstede|NL||8m|40d|eu|4v|Wyk by Duerstede
+Viljandi|EE||9x|4i4|1z3|4u|Fellin;Felin;Vīlande;Vilyandi;Vylandė;Wiljandi;Vil’yandi
+Wilton|US|New York|48|3by|-5ou|4u
+Wittstock|DE||8r|43o|yo|4u
+Willowdale West|CA||59|3dl|-64n|4p
+Winburg|ZA||o|-278|231|4p
+Witzenhausen|DE||8r|3ym|re|4h|Witzenhusa;Vitsenhauzen
+Wittenheim|FR||9k|3ot|kd|4d
+Wilkinsburg|US||48|34c|-65w|4d
+Willow Grove|US||48|33i|-5so|4d
+Williamstown|US|New Jersey|48|329|-5sc|4c|Williams Town
+Wimborne Minster|GB||9b|3x2|-5i|4c
+Winnie Mandela|ZA||o|-27q|21i|4b
+Winder|US||48|2mf|-6gk|4a
+Wickede|DE|North Rhine-Westphalia|8r|3z5|l6|48
+Wilmington Island|US||48|2gw|-68x|47|Oileán Wilmington
+Williamsburg|US|Virginia|48|2vj|-5x3|47|Williamsbourg
+Vilnyansk|UA||98|3p7|2qg|46|Sofiyivka;Krasnoarmiyske;Chervonoarmiyske;Villniansk;Vilniansk;Wilnjansk;Viljnjansk
+Władysławowo|PL||a5|487|1f4|45|Wiôlgô Wies;Vladislavovo
+Wiefelstede|DE||8r|43y|mk|44|Wiefelstäe
+Winterberg|DE||8r|3y7|np|42|Winnenmerg
+Williamstown|AU|Victoria|8j|-2x6|b6i|40
+Williams Lake|CA|British Columbia|5b|40u|-9fa|3y|Williams;Columetza
+Wilanów|PL||a5|40w|1ml|3w
+Ústí nad Orlicí|CZ||9m|3ut|19j|3w|Wildenschwert;Ūsti pie Orlices;Uście nad Orlicą
+Willowick|US||48|37n|-6ab|3w
+Verkhnedneprovskiy|RU||9i|48q|2kn|3v|Verkhnedneprovskij;Werchnedneprowski;Verhnedneprovski;Verjnedneprovski;Verhnedneprovskiy;Wierchniednieprowskij;Verchnedneprovskiy
+Wilsdruff|DE||8r|3xt|11m|3u|Vilsdrufa
+Wixom|US||2q|3a4|-6g2|3t
+Wiesmoor|DE||8r|44e|li|3o
+Windham|US|New Hampshire|48|3aw|-5i2|3n|Wyndham
+Wicklow|IE||8z|436|-gt|3m|Cill Mhantáin;Cill Mantan;Cill Mhanntain;Cill Maintain
+Wingene|BE||8t|3xu|93|3l|Wynghene
+Winsen|DE|Lower Saxony|8r|42c|rj|3k
+Winkler|CA||5d|3sm|-7k2|3j|Vinkleris;Vinklera
+Winter Hill|US||48|39s|-5hi|3i
+Wickliffe|US|Ohio|48|37l|-6a9|3h|Wickliff
+Wickede|DE|North Rhine-Westphalia|8r|3z2|lv|3h
+Windsor Locks|US||48|38h|-5lr|3h
+Winnetka|US|Illinois|2f|38z|-6rq|3h|Wynetka;Winetka
+Wilmington|US|Ohio|48|31l|-6gv|3g
+Willingdon Heights|CA||5b|3sw|-9hp|3g
+Wittingen|DE||8r|42h|tu|3g
+Wilton Manors|US||48|20o|-66m|3g|Wilton Manor
+Wigram|NZ||ak|-3cz|dbb|3f
+Winfield|US|Kansas|2f|2vg|-7hg|3e
+Wiang Sa|TH||62|o0|7o1|3b
+Wilkau-Haßlau|DE||8r|3ws|yr|3b|Vilkava-Haslava
+Winston Hills|AU||8l|-2lu|bne|38
+Wisła|PL||a5|3ty|1ge|36
+Wimbledon Park|GB||9b|3yv|-k|34
+Wichelen|BE||8t|3xp|b2|32
+Wietmarschen|DE||8r|41w|jt|31
+Winchester Center|US||48|38e|-5n5|30
+Winton|US|California|3p|2vv|-9b1|2y|Binááyołí
+Winzerla|DE||8r|3xd|w6|2y
+Wishart|AU||8c|-24j|bta|2x
+Hampton Wick|GB||9b|3yu|-w|2u|Wica
+Wittelsheim|FR||9k|3ot|k4|2u
+Wildberg|DE|Baden-Wurttemberg|8r|3r2|ob|2u
+Wieseck|DE||8r|3wl|o6|2u
+Wiley Park|AU||8l|-2m8|bnn|2t
+Wielki Kack|PL||a5|47b|1fd|2s
+Vilyuysk|RU||7x|4x3|9dv|2r|Viljujsk;Wiljuisk;Viliúisk;Viliouïsk;Viljoejsk;Vilujsk;Viljuisk;Viljujszk;Viliujskas;Viļujska;Vilüisk;Wilujsk;Vilyuisk;Vilyusk
+Wilsele|BE||8t|3xd|d2|2q
+Elsterwerda|DE||8r|3yy|11k|2p|Wikow;Esterwerda
+Winfield|US|Illinois|2f|38a|-6sw|2p
+Winslow|US|Arizona|4i|2pa|-8ji|2o|Béésh sinil
+Wivenhoe|GB||9b|402|2o|2o|Wyvenhoe;Winehoe
+Winterville|US|North Carolina|48|2qp|-5z0|2n
+Vilkaviskis|LT||a3|47t|1rz|2m|Wyłkowyszki;Vilkavišķi;Vilkaviškio;Wiłkowyszki;Vilkavishkis
+Wiener Neudorf|AT||a2|3pk|19b|2m|Vienos Noidorfas
+Willoughby Hills|US||48|37k|-6a6|2m
+Willowmore|ZA||o|-2kh|1t9|2k
+Winfield|CA||5b|3uy|-97p|2j
+Willstätt|DE||8r|3qu|lx|2j
+Winston|US|Florida|48|25v|-6bt|2j
+Willowgrove|CA||4q|40v|-87z|2i
+Wideopen|GB||9b|48x|-4i|2i
+Wijnegem|BE||8t|3yb|ck|2h
+Wielsbeke|BE||8t|3xe|9d|2g
+Whippany|US||48|35e|-5qq|2g|Wippany
+Willebadessen|DE||8r|3zf|p4|2g
+Wingles|FR||9k|3w9|7y|2g
+Wissembourg|FR||9k|3s8|m3|2g|Weißenburg;Waißebursch;Wissemborg
+Verkhniy Baskunchak|RU||8o|3pz|3ls|2f|Werchni Baskuntschak;Verchnij Baskunčak;Verjni Baskunchak;Verhniy Baskunçak;Wierchnij Baskunczak;Verchniy Baskoentsjak;Verkhni Baskuntxak;Verhkniy Baskunchak;Verkhne Baskunchak;Verhniy Baskunchak
+Wieruszów|PL||a5|3yh|1eg|2f|Verušova
+Biatorbágy|HU||8v|3nv|1ga|2e|Wiehall-Kleinturwall;Bia;Torbágy
+Willowbrook|US|Illinois|2f|381|-6sa|2e
+Wissen|DE||8r|3x2|lh|2d
+Wittenbach|CH||a7|3nu|q3|2d
+Winchester|US|Tennessee|2f|2pr|-6n7|2d
+Wilhelmitor - Süd|DE||8r|415|t7|2b
+Wildwood|CA|Saskatchewan|4q|40r|-883|2b
+Williston|US|Vermont|48|3fg|-5mz|2b
+Třeboň|CZ||9m|3s4|151|2a|Wittingau;Trzeboń
+Wietze|DE||8r|429|rd|2a
+Velizh|RU||9i|4ag|2eo|29|Velizj;Welisch;Velij;Veliž;Veližas;Wieliż
+Willowdale|CA|Ontario|59|3cs|-67m|29
+Wilhelmsruh|DE||8r|423|115|29
+Wild Rose|CA||2s|44j|-8qy|28
+Wetumpka|US||2f|2ie|-6nh|28|Wetumka;Witumpka
+Wilmington Manor|US||48|329|-5ty|27
+Winnemucca|US||3p|35t|-932|27
+Wintzenheim|FR||9k|3pj|k9|26|Winzenheim
+Winterbach|DE|Baden-Wurttemberg|8r|3rk|qc|26
+Witkowo|PL|Greater Poland|a5|41o|1dd|26|Vitkovo
+Winslow|US|Maine|48|3fr|-5de|26
+Wilson|US|Pennsylvania|48|350|-5t0|26
+Willisau|CH||a7|3mw|m7|26
+Windermere|GB||9b|472|-83|26
+Velykyy Bereznyy|UA||98|3rt|1qe|25|Nagyberezna;Velký Berezný;Veľké Berezné;Vélykyï Béreznyï;Wielkie Berezne;Veliki Berezni;Welykyj Beresnyj
+Vylkove|UA||98|3i4|2a7|25|Vâlcov;Wylkowe;Vılkove;Wilkowo;Vilkovo
+Winsted|US|Connecticut|48|38g|-5my|25
+Wimereux|FR||9k|3x1|4h|25|Wimraw
+Williamsburg|US|Florida|48|26x|-6a8|24
+Willow Street|US||48|332|-5vw|24
+Wilson|US|Pennsylvania|48|33z|-65x|24
+Wilderness|ZA||o|-2mf|1qq|22|Wildernis
+Williston Park|US||48|358|-5ok|21
+Veydelevka|RU||9i|3vb|2yt|21|Vejdelevka;Weidelewka;Veidelevka;Vejgyelevka;Wiejdielewka;Veidelovka
+Windsor|AU|Victoria|8j|-2x5|b6r|21
+Winterton|ZA||o|-281|2a2|20
+Winooski|US||48|3fl|-5nb|20
+Wick|GB|Scotland|9b|4ic|-8l|1z|Yn Ooig;Inbhir Ùige;Week;Weik;Vikas
+Vidyayevo|RU||9i|5ck|2j4|1z|Vidjaevo;Vidjajevo;Widjajewo;Vidiaïevo;Widiajewo;Vidyayeva
+Winters|US|California|3p|2z0|-9et|1y
+Withamsville|US||48|30i|-6i5|1y
+Windsor|AU|Queensland|8c|-248|bt3|1y
+Bad Wimpfen|DE||8r|3sr|pg|1y|Wimpina
+Wiwilí|NI||3s|11v|-6mf|1y
+Witnica|PL|Lubusz|a5|42b|15e|1w|Wicno;Vitņica
+Winthrop Harbor|US||2f|3a0|-6ry|1w
+Wickenburg|US||4i|2md|-8p5|1w
+Wellen|BE||8t|3x8|eu|1w|Wille
+Wiri|NZ||ak|-2us|dhq|1w
+Willow Oak|US||48|25k|-6bu|1v
+Winterlingen|DE||8r|3pu|pc|1v
+Windisch|CH||a7|3nw|mu|1v
+Willington|GB|England|9b|480|-4q|1u
+Williams Landing|AU||8j|-2x6|b62|1u
+Wildwood|US|Florida|48|287|-6bw|1u
+Wilhelmsburg|AT||a2|3pn|17d|1u
+Verkhniye Sergi|RU||7z|4dd|4lg|1t|Verkhnije Sergi;Werchnije Sergi;Verchnije Sergi;Verhniye Sergi;Wierchnije Siergi;Verchnieje Sergi
+Wilkowice|PL|Silesia|a5|3u8|1h1|1t
+Willoughby|AU||8l|-2lw|bo0|1t
+Witley|GB||9b|3y3|-1t|1s
+Wingerworth|GB||9b|43s|-3z|1s
+Wixhausen|DE||8r|3up|o1|1s
+Wiernsheim|DE||8r|3rs|ol|1s
+Wimauma|US||48|24z|-6cm|1s
+Willis|US||2f|2ci|-7d8|1r
+Wieringerwerf|NL||8m|42t|dz|1r|Viringerverfas;Wieringerdorf
+Wilthen|DE||8r|3xy|13z|1r|Wjelećin;Viltene
+Wilson|AU||8k|-2gy|8xz|1r
+Vinga|RO||8u|3ju|1mw|1r|Winga
+Williams Lake|CA|Nova Scotia|35|3fy|-4wp|1r
+Wittichenau|DE||8r|3yq|13k|1r|Kulow;Vitihenava
+Wilmore|US||48|2x6|-6j6|1q
+Windsbach|DE||8r|3st|u3|1q
+Virrat|FI||92|4sx|1u2|1q|Virdois;Virats;Virtois;Wirrat
+Withernsea|GB||9b|459|3|1q
+Višegrad|BA||9r|3dm|1hl|1p|Wiszegrad;Vixegrad;Vişeqrad
+Willows|US||3p|31s|-9ff|1p|Willow
+Wieleń|PL||a5|42x|18x|1p|Vielenė;Veleņa;Filehn;Filehne
+Willard|US|Ohio|48|361|-6dt|1p
+Witherlea|NZ||ak|-37d|df7|1p
+Winmalee|AU||8l|-2lk|bmd|1p
+Więcbork|PL||a5|447|1cl|1o|Vandsburg;Wiãcbórg;Vencborka;Wiebork
+Wilsonton|AU||8c|-24i|bq0|1n
+Wigton|GB||9b|48a|-8s|1m
+Verkhovyna|UA||98|3ps|1wz|1m|Wierchowina;Verhovîna
+Wilhelmitor - Nord|DE||8r|416|t6|1m
+Wittorf|DE|Schleswig-Holstein|8r|466|rp|1m
+Winthrop|AU||8k|-2h1|8xr|1m
+Windcrest|US||2f|2a0|-7la|1m
+Wimpassing|AT||a2|3pt|12u|1l
+Wilnis|NL||8m|410|dm|1l
+Willow Springs|US|Illinois|2f|37y|-6s2|1l
+Wilmington|US|Illinois|2f|36r|-6sv|1l
+Willingen|DE||8r|3yh|nx|1l
+Windischeschenbach|DE||8r|3uc|xs|1l
+Wijhe|NL||8m|41j|h1|1k|Wije
+Willowdale|CA|Nova Scotia|35|3g1|-4wc|1j
+Wilsden|GB||9b|45i|-56|1j
+Williamston|US|North Carolina|48|2rl|-5y2|1j|Williamstown
+Willard|US|Missouri|2f|2vn|-77j|1j
+Williamson|US|Arizona|4i|2od|-8om|1i
+Wincanton|GB||9b|3xu|-6p|1i
+Windsor|CA|Quebec|59|3il|-5k0|1i
+Winfield|US|Indiana|2f|371|-6qg|1i
+Winston|US|Oregon|3p|3bs|-9it|1i
+Willingshausen|DE||8r|3x9|pk|1i
+Wiesenburg|DE||8r|40r|ym|1i
+Witu|KE||16|-6n|34c|1i
+Wilton|US|California|3p|2yp|-9cv|1i
+Wind Lake|US||2f|3az|-6sw|1h
+Wingham|AU||8l|-2gj|br9|1h
+Williamsburg|US|Kentucky|48|2u2|-6hs|1h
+Williamsville|US|New York|48|3bc|-62q|1h
+Wirges|DE||8r|3w7|lo|1g
+Windsor Gardens|AU||8b|-2ov|ap5|1g
+Williams|US|California|3p|30r|-9fb|1g
+Winterset|US||2f|36t|-795|1g
+Wildwood|US|New Jersey|48|30b|-5rt|1f
+Wingate|GB||9b|481|-3u|1f
+Wilhermsdorf|DE||8r|3tg|ts|1f
+Wiggensbach|DE||8r|3on|sf|1f
+Willow Park|CA||2s|3xk|-8su|1f
+Wittenburg|DE||8r|44n|us|1e|Vitenburga
+Wirksworth|GB||9b|43g|-4d|1e|Virksvorto
+Wieprz|PL|Lesser Poland|a5|3ul|1hs|1e
+Winona Lake|US||38|36j|-6me|1e
+Willow Park|US||2f|2j0|-7j9|1d
+Winhöring|DE||8r|3q3|z5|1d|Winaring
+Wilhelmsdorf|DE|Baden-Wurttemberg|8r|3oz|q7|1d
+Winterton|GB||9b|451|-1o|1d
+Windsor Heights|US||2f|37k|-78b|1d
+Willits|US||3p|31h|-9io|1d
+Winnweiler|DE||8r|3tp|lt|1d|Winnwiller
+Wimille|FR||9k|3x0|4j|1c|Wimil
+Wiltz|LU||9c|3ut|gh|1c|Wolz;Vilcas;Vilts;Wilz
+Willagee|AU||8k|-2h1|8xp|1c
+Winchester|US|Indiana|38|33l|-6k2|1c
+Wissous|FR||9k|3rd|6g|1c
+Winnsboro|US|Louisiana|2f|2hc|-72s|1c
+Wiesentheid|DE||8r|3ub|sr|1c
+Winksele|BE||8t|3xe|cx|1b|Winxele
+Witry-lès-Reims|FR||9k|3sx|bg|1b|Witry-lez-Reims
+Winfield|US|Alabama|2f|2m9|-6ry|1a
+Winnfield|US||2f|2gp|-75c|1a
+Wiggins|US|Mississippi|2f|2dq|-6vm|1a
+Windom|US||2f|3dv|-7c8|1a
+Winscombe|GB||9b|3yk|-7v|19
+Winchcombe|GB||9b|40b|-5g|19|Winchcomb
+Wörth an der Donau|DE||8r|3s4|yh|19|Wiard
+Wilster|DE||8r|45s|q1|18
+Wittgensdorf|DE||8r|3xc|zr|18
+Winona|US|Mississippi|2f|2l0|-6x9|18
+Windhagen|DE||8r|3wo|kf|18
+Wyk auf Föhr|DE||8r|47x|nt|18|Wyck;Wik;Vyk;A Wik;Wyk op Feer;De Wyk;Wyk
+Windsor Park|CA|Alberta|2s|3xp|-8sw|18
+Winslow|GB||9b|40a|-2g|18
+Williamstown|US|Massachusetts|48|3an|-5nc|17|Willimston
+Wister|US|Pennsylvania|48|338|-5ss|17
+Winkeln|CH||a7|3no|pu|17
+Wienhausen|DE||8r|422|sb|17|Wienhusen
+Witmarsum|BR||4w|-22t|-3uc|17|Witmarsun
+Wimblington|GB||9b|41v|8|16
+Winchendon|US||48|3al|-5k4|16
+Willsbach|DE||8r|3si|q0|16
+Wisselaar|NL||8m|3zd|da|16
+Windlesham|GB||9b|3yp|-1t|16
+Wieselburg|AT||a2|3pp|161|15|Ōmātōyāc;Viselburgo
+Williamston|US|South Carolina|48|2o6|-6d4|15|Williamson
+Wilhelmsthal|DE||8r|3vr|vl|15
+Wietzendorf|DE||8r|430|rq|15|Gemeen Witzendörp
+Wildenfels|DE||8r|3wr|z1|15|Vildenfelsa
+Velyki Sorochyntsi|UA||98|3uy|2ma|15|Velyki Sorotsjyntsi;Welyki Sorotschynzi;Veliki Soročinci;Veliki Soròtxintsi;Velyki Sorotjyntsi;Velyki Soročynci;Velikije Sorotjintsy;Wielkie Soroczyńce;Velîki Sorociînți;Velyki Soroçyntsi
+Willingham|GB|England|9b|41b|6|14
+Windsor Park|NZ||am|-2u2|dhe|14
+Widawa-Lipa Piotrowska-Polanowice|PL||a5|3y5|1ba|14
+Wielopole Skrzyńskie|PL||a5|3ur|1o1|14|Wielopole
+Vyzhnytsya|UA||98|3q0|1xy|14|Vijniţa;Wischnitza;Wiznitz;Wyżnica;Vyjnytsia;Vișnița
+Windber|US||48|33s|-630|14
+Winkelhaid|DE||8r|3t7|ve|14
+Witaszyce|PL||a5|40a|1cs|14
+Winzer|DE||8r|3rc|10c|14
+Wierzbica|PL|Mazovia|a5|3yd|1mk|14
+Williamstown|US|Kentucky|48|2zc|-6iw|13
+Wilmer|US|Texas|2f|2ij|-7gl|13
+Wiesau|DE||8r|3un|xv|13
+Wilbraham|US||48|390|-5l7|13
+Williamston|US|Michigan|2q|3al|-6i4|13
+Windsor|CA|Nova Scotia|35|3gy|-4y5|13
+Wingate|US||48|2p6|-67h|13
+Wichtrach|CH||a7|3m5|l2|12
+Wiesa|DE||8r|3wl|105|12
+Wilston|AU||8c|-247|bt2|12
+Wintersville|US||48|346|-686|12|Winterville
+Wilburton|US|Washington|3p|3o8|-9fe|12
+Wickham Bishops|GB||9b|3zu|1v|12
+Windsor|US|North Carolina|48|2s0|-5xr|12
+Wima|SL||l|n2|-v4|11|Vima
+Wilhelminadorp|NL|North Brabant|8m|3z2|ez|10
+Wing Cheong Estate|HK||6i|1q1|8t4|10
+Wingst|DE||8r|45a|p8|10
+Winkel|NL||8m|42j|dm|10
+Winston Heights-Mountview|CA||2s|3xv|-8ss|10
+Wiesenfelden|DE||8r|3s8|yu|10
+Wiekevorst|BE||8t|3xz|db|10
+Wilton|GB||9b|3xw|-56|10
+Windsor|US|Wisconsin|2f|3c2|-6w6|10
+Willcox|US||4i|2hl|-8h3|10|Wilcox
+Wills Point|US||2f|2iv|-7ep|z|Willspoint
+Wizernes|FR||9k|3wv|68|z
+Wieprz|PL|Silesia|a5|3tx|1ha|z
+Wilkesboro|US||48|2sf|-69g|z
+Willingham|GB|England|9b|447|-1w|z
+Windach|DE||8r|3pj|un|y
+Wilhelmsfeld|DE||8r|3tf|ob|y
+Windsor|NZ||ak|-3kw|czo|y
+Wierzawice|PL||a5|3vk|1qd|y
+Wignehies|FR||9k|3uy|b5|y
+Wieliszew|PL||a5|41p|1m9|y
+Williston|ZA||o|-2f2|1m4|y
+Willand|GB||9b|3xc|-9d|y
+Wildflecken|DE||8r|3vy|rj|y
+Windale|AU||8l|-2jn|bpc|y
+Winnsboro|US|South Carolina|48|2ni|-699|y
+Winnsboro|US|Texas|2f|2jk|-7cp|x
+Willaston|AU||8b|-2o3|ape|x
+Guipry|FR||9k|3ov|-54|x|Gwipri;Wippericum
+Vihanti|FI||92|4z4|1xf|x|Wihanti
+Williamsfield|JM||3i|1e7|-5z7|x
+Winnie|US||2f|2au|-7a6|x
+Windermere|US||48|276|-6ah|w
+Vyshnivets|UA||98|3um|1zi|w|Vychnivets;Wisniowiec
+Williamsburg|US|Iowa|2f|37q|-73l|w
+Wildwood Crest|US||48|309|-5rv|w
+Bük|HU||8v|3nm|1aj|w|Wichs
+Wiesenbach|DE||8r|3t4|og|w
+Wildwood Lake|US||48|2ph|-6jp|v
+Williams|US|Arizona|4i|2px|-8nn|v
+Wise|US||48|2uq|-6de|v
+Vințu de Jos|RO||8u|3jr|1t9|v|Winz;Alvinc
+Wischhafen|DE||8r|45e|pw|v|Wischhoben
+Wilder|US|Kentucky|48|30i|-6ip|v
+Wilton|AU||8l|-2n4|bmm|v
+Bácsbokod|HU||8v|3k5|1h8|v|Wikitsch
+Wijchmaal|BE||8t|3y2|f1|u
+Williston|US|South Carolina|48|2ks|-6a6|u
+Willowvale|ZA||o|-2hn|277|u
+Winnebago|US|Illinois|2f|39f|-6vw|u
+Williamson|US|West Virginia|48|2wn|-6ck|u
+Wierzchosławice|PL|Lesser Poland|a5|3uy|1ly|u
+Wildervank|NL||8m|43g|j2|u
+Wintersdorf|DE||8r|3xt|yb|u
+Wilberforce|AU||8l|-2l8|bn0|u
+Wienersdorf|AT||a2|3pd|199|u
+Williamstown|US|West Virginia|48|31g|-6a9|u|Williams Town;Williamston
+Vilshana|UA||98|3sq|2eq|u|Vilchana;Wilschana;Vilšana
+Wielbark|PL||a5|44c|1m7|t
+Wingham|CA||59|3dx|-69v|t
+Wittenförden|DE||8r|44z|vh|t
+Willowbrook|US|New York|48|34s|-5py|t
+Withers|AU||8k|-2kp|8x7|t
+Wines|PH||71|jz|9ob|t
+Winifreda|AR||1s|-2sn|-4yf|t
+Wiers|BE||8t|3wb|9t|t
+Windradyne|AU||8l|-2kt|bjf|t
+Windsor Park|CA|Alberta|2s|44p|-8rd|t
+Willems|FR||9k|3wn|90|t
+Winner|US||2f|3ci|-7pe|s
+Wilamowice|PL||a5|3uo|1h7|s|Vilamovice;Wilamowicy;Wymysoü;Wilmesau
+Willaston|GB|England|9b|442|-8c|s
+Windsor|US|Missouri|2f|2z1|-77s|s
+Wilton|US|Iowa|2f|37j|-70u|s
+Windaroo|AU||8c|-253|btj|s
+Wellfleet|US||48|38i|-5ej|s|Willfleet
+Wildwood|CA|Alberta|2s|3xt|-8t3|s
+Williston|US|Florida|48|29n|-6d1|r
+Villány|HU||8v|3jf|1f9|r|Wieland;Viljan;Biljan;Vilanje;Willand
+Window Rock|US||2p|2r4|-8ex|r|Tségháhoodzání
+Wimsheim|DE||8r|3rp|oj|r
+Wisconsin Dells|US||2f|3d7|-6xd|r|Viskonsin Delsas;Wisc Dells
+Wind Gap|US||48|35h|-5t5|r|Windgap
+Williamsville|CA||59|3ew|-5wi|r
+Wiesen|AT|Burgenland|a2|3om|19e|r|Rétfalu;Bizmet
+Williamstown|AU|South Australia|8b|-2ob|apt|r
+Wilburton|US|Oklahoma|2f|2p0|-7cr|r
+Windsor|US|Virginia|48|2u9|-5x6|r
+Wimberley|US||2f|2bc|-7ki|r
+Wieren|DE||8r|42x|tm|r
+Wieze|BE||8t|3xm|bc|r
+Wildon|AT||a2|3m9|174|r
+Winthrop|US|Maine|48|3f3|-5ee|r
+Williton|GB||9b|3y4|-98|q
+Windang|AU||8l|-2nx|bn3|q
+Weitbruch|FR||9k|3rf|lm|q|Widbrüech
+Wilsonton Heights|AU||8c|-24h|bq0|q
+Vimpeli|FI||92|4vg|1u6|q|Wimpeli
+Williams Bay|US||2f|3aa|-6ty|q
+Wickham|AU|Western Australia|8k|-1lf|91e|q
+Wing|GB||9b|406|-20|q
+Winters|US|Texas|2f|2gs|-7po|q
+Wiesent|DE||8r|3s6|ye|q
+Williamsburg|US|Ohio|48|30h|-6hh|p
+Willaston|GB|England|9b|43f|-6w|p
+Winchester|US|California|3p|2ln|-918|p
+Wildpoldsried|DE||8r|3op|sw|p
+Winchburgh|GB||9b|4bg|-9m|p
+Williamson|US|New York|48|3c2|-5yf|p
+Wilkinson Heights|US||48|2l1|-68j|p
+Wilkołaz|PL||a5|3xp|1q3|p
+Weimerskirch|LU||9c|3tu|h2|p|Weimeschkierch;Wimerskirch
+Williamsburg|US|Massachusetts|48|39r|-5m1|p
+Willmot|AU||8l|-2lp|bmv|p
+Winningen|DE|Rheinland-Pfalz|8r|3vs|kw|p
+Wild Peach Village|US||2f|28s|-7dn|p
+Wiyumiririe|KE||16|-8|2tm|o
+Winneconne|US||2f|3ej|-6uf|o
+Winwick|GB||9b|44f|-78|o
+Windy Hills|US||3k|2yb|-6lv|o
+Winamac|US||3f|361|-6ok|o
+Vistino|RU||9i|4m2|274|o|Viistinä;Wistino;Vistina
+Korytne|UA|Chernivtsi|98|3q9|1yj|o|Willawcze;Korytnoye;Korytno
+Wichlinghofen|DE||8r|3yx|kt|o
+Winchester|CA||59|3h8|-5tb|o
+Windischgarsten|AT||a2|3ok|13t|o
+Witchford|GB||9b|41j|l|o
+Wieringerwaard|NL||8m|42s|dj|o
+Wittislingen|DE||8r|3r2|sy|o
+Winfield|US|West Virginia|48|2z1|-6bh|o
+Wittering|GB||9b|425|-18|n
+Wiązów|PL||a5|3x5|1bs|n|Vjonzova;Wiezów
+Witton Gilbert|GB||9b|489|-4k|n
+Wilderswil|CH||a7|3lm|lu|n
+Winsted|US|Minnesota|2f|3gw|-799|n
+Windsor|US|Maine|48|3f3|-5da|n
+Wilson-Conococheague|US||48|325|-607|n
+Wilsons Mills|US||48|2qu|-61o|n
+Williston Highlands|US||48|29i|-6da|n
+Wiedemar|DE||8r|3yz|xw|n
+Wilberforce|US||48|32c|-6h0|n
+Willunga|AU||8b|-2pz|aov|n
+Wiehe|DE||8r|3yf|vp|n
+Windischleuba|DE||8r|3xq|yn|n
+Wimmis|CH||a7|3lo|l8|m
+Wiedlisbach|CH||a7|3n9|l9|m
+Wilton|NZ||ak|-36n|dhg|m
+Wietzen|DE||8r|42f|p8|m
+Windham|US|Ohio|48|36k|-695|m
+Wiesensteig|DE||8r|3qw|qr|m
+Wilton|US|Maine|48|3fv|-5f3|m
+Wilchingen|CH||a7|3of|nj|m
+Willmering|DE||8r|3st|z7|m
+Winton|NZ||ak|-3k7|czl|m
+Windsor|US|North Carolina|48|2qr|-5yw|m
+Wilburgstetten|DE||8r|3s6|sw|m
+Wittedrif|ZA||o|-2mg|1st|m|Witte Drift
+Wiveliscombe|GB||9b|3xs|-97|m
+Wilstead|GB||9b|40o|-19|m
+Winterbourne|GB||9b|3yx|-3r|m|Winterbourn
+Williamsport|US|Maryland|48|320|-606|m|Williams Port
+Wickham Market|GB||9b|40v|3s|m
+Wilmerding|US||48|347|-65p|m
+Wijk aan Zee|NL||8m|41t|cr|m
+Willow Springs|US|Missouri|2f|2ur|-73h|m
+Wihéries|BE||8t|3vz|af|l
+Windermere|CA||2s|44g|-8rm|l
+Witkowice|PL||a5|3un|1hk|l
+Wisches|FR||9k|3qr|k7|l
+Viljakkala|FI||92|4rf|1sn|l|Wiljakkala;Viliakkala
+Wintelre|NL||8m|3yw|eu|l
+Witpoort|ZA||o|-23h|20l|l
+Willamina|US||3p|3h8|-9j1|l
+Willow|US||1h|4rj|-bks|l
+Witvlei|NA||1f|-1q9|1fd|l|Witvley
+Willow Vale|AU|Queensland|8c|-25c|btq|l
+Willowbrook|US|Illinois|2f|376|-6r6|l
+Wiesiesdraai|ZA||o|-2m5|1h0|l
+Winter Beach|US||48|250|-67e|l
+Windsor|US|Vermont|48|3cs|-5l2|l
+Wijnjewoude|NL||8m|43e|h8|l|Wynjewâld;Veinevoudė
+Wilcza|PL||a5|3vf|1fo|l
+Wickham|GB|England|9b|3xe|-3b|l
+Wigoltingen|CH||a7|3o8|p3|k
+Wishingwell Park|CA||50|3o4|-42h|k
+Wirsberg|DE||8r|3v7|w9|k
+Verblyany|UA||98|3v1|1t2|k|Wierzbiany;Verbyany
+Wierzchlas|PL||a5|3y8|1fv|k
+Wilczyce|PL|Lower Silesia|a5|3y1|1bn|k
+Wilków|PL|Lower Silesia|a5|3xx|189|k
+Wiarton|CA||59|3ga|-69e|k
+Windsor|AU|New South Wales|8l|-2ld|bmx|k
+Wick|GB|England|9b|3yx|-6q|k
+Wilsonville|US|Alabama|2f|2kb|-6o8|k
+Wijtschate|BE||8t|3x3|80|k
+Windischholzhausen|DE||8r|3xj|ut|k
+Verkhnyaya Inta|RU||9i|53a|4nj|k|Verkhnjaja Inta;Werchnjaja Inta;Verhnjaja Inta;Verchnjaja Inta;Verhnâya İnta;Wierchniaja Inta
+Widdern|DE||8r|3t0|q6|k
+Wispl|AT||a2|3ps|12w|k
+Wijlre|NL||8m|3x7|ge|k|Wielder
+Wickham|GB|England|9b|3yw|-3z|k
+Windesheim|DE||8r|3um|lq|k
+Viekšniai|LT||a3|4c8|1qk|j|Viekšņi;Vėikšnē;Wieksznie;Viekšnių
+Wittisheim|FR||9k|3q2|l3|j|Wíttse
+Winchelsea|AU||8j|-2y8|b3y|j
+Wiśniowa|PL|Lesser Poland|a5|3ub|1jw|j
+Winnsboro Mills|US||48|2ng|-699|j
+Windygates|GB||9b|4c4|-8h|j
+Winchester Park|US||48|33a|-5sf|j
+Skalná|CZ||9m|3vd|yc|j|Wildstein;Vildštejn
+Wilber|US||2f|34g|-7hc|j
+Wilberfoss|GB||9b|45v|-2h|j
+Wieszowa|PL||a5|3vy|1g4|j
+Williamsport|US|Indiana|38|33x|-6qh|i
+Wiśniowa|PL|Subcarpathia|a5|3uj|1o6|i
+Withcott|AU||8c|-24j|bqa|i
+Wielowieś|PL||a5|3wb|1fq|i
+Witmarsum|NL||8m|43i|f7|i|Wytmarsum;Witmarsun
+Wińsko|PL||a5|3yz|1a5|i
+Wierde|BE||8t|3w3|dr|i
+Willard|US|Utah|2p|371|-8n8|i
+Willoughby East|AU||8l|-2lw|bo1|i
+Wildenhain|DE||8r|3yj|11g|i
+Widawa|PL|Lower Silesia|a5|3y5|1ba|i
+Winkewijert|NL||8m|40z|gk|i
+Windhag|AT||a2|3pa|154|h
+Witzmannsberg|DE||8r|3r2|11h|h
+Wielichowo|PL||a5|40s|19f|h|Velihovo;Wielichow
+Winchester|US|New Hampshire|48|3at|-5l2|h
+Wistedt|DE||8r|43z|qw|h
+Wijdewormer|NL||8m|41u|dl|h
+Wilson|US|Oklahoma|2f|2mw|-7in|h
+Windsor Park|CA|British Columbia|5b|3sz|-9hn|h
+Wickerham Manor-Fisher|US||48|33m|-65z|h
+Wilstedt|DE||8r|43r|pa|h
+Wickwar|GB||9b|3zb|-6o|h
+Witów|PL||a5|3t0|1j3|h
+Wiesenthau|DE||8r|3u3|uy|h
+Willow Creek|US||3p|35q|-9jf|h
+Wind Point|US||2f|3au|-6rt|h
+Wiązownica|PL||a5|3v4|1r3|h
+Visim|RU||7z|4g5|4la|h|Wissimo-Schaitansk
+Wilder|US|Vermont|48|3db|-5kv|h
+Villé|FR|Grand Est|9k|3qa|ka|h|Weiler;Willer
+Willemeau|BE||8t|3wh|9b|h
+Wijshagen|BE||8t|3xy|fg|h|Wyshagen
+Wiesendangen / Wiesendangen (Dorf)|CH||a7|3o0|of|g
+Witless Bay|CA||50|3nc|-42r|g
+Wilder|US|Idaho|28|3dc|-90r|g
+Wippra|DE||8r|3z9|vb|g
+Wimpassing im Schwarzatale|AT||a2|3oi|18j|g
+Wilson|US|Oklahoma|2f|2qn|-7er|g
+Wilsum|DE||8r|41y|j1|g
+Wipperdorf|DE||8r|3yy|tk|g
+Windsor Forest|GY||34|j1|-4hs|g
+Willanzheim|DE||8r|3u0|sf|g
+Wilkowice|PL|Greater Poland|a5|405|19x|g
+Waretown|US||48|32j|-5q4|g|Waer Town;Waertown;Wiretown
+Wingen-sur-Moder|FR||9k|3rw|ki|g|Wingen an der Moder;Wínge;Wingen
+Wisznice|PL||a5|3zv|1sh|g
+Winterhausen|DE||8r|3u3|ru|g
+Williamstown North|AU||8j|-2x6|b6g|g
+Wimpassing an der Leitha|AT||a2|3p4|19n|f|Vimpas;Vimpác
+Vidzy|BY||9g|49w|21z|f|Widze;Vidžiai;Vidze
+Wolmirsleben|DE||8r|40b|vw|f|Wilmersleve
+Wierzchowo|PL||a5|44i|18q|f
+Winchester|US|Missouri|2f|2z7|-6zh|f
+Wierzchucino|PL||a5|487|1e0|f
+Wijdenes|NL||8m|428|ec|f
+Wilderness Rim|US||3p|3nt|-9e9|f
+Wildwood Lake|CA||35|3g5|-4we|f
+Wiemersdorf|DE||8r|45w|ri|f
+Winfield|US|New Jersey|48|34w|-5qd|f
+Winchester|US|Illinois|2f|323|-6za|f
+Wiesmath|AT||a2|3oa|198|f
+Wieda|DE||8r|3zf|tf|f
+Wincheringen|DE||8r|3tt|hv|f|Wëncher
+Williamsville|US|Illinois|2f|32z|-6wr|f
+Wilson|US|Wyoming|2p|3cu|-8k0|f
+Wendéné|CI||0|nt|-bd|f|Windéné
+Windsor|US|Pennsylvania|48|32w|-5wq|f
+Winklarn|DE||8r|3tb|yo|f
+Vrbice|CZ|Moravian-Silesian Region|9m|3uk|1ew|f|Wierzbica
+Winsloe|CA||35|3kl|-4vi|e
+Witzhave|DE||8r|44t|sq|e
+Wiesthal|DE||8r|3uz|q7|e
+Winfield|US|Missouri|2f|30c|-702|e
+Wielka Wieś|PL|Świętokrzyskie|a5|3xv|1m9|e
+Wittnau|DE||8r|3p7|lq|e
+Wiskitki|PL||a5|40p|1kn|e|Wiskiti
+Wilderen|BE||8t|3x6|ea|e
+Wimmelburg|DE||8r|3z4|vz|e
+Wierzchosławice|PL|Kujawsko-Pomorskie|a5|42v|1f0|e
+Willacoochee|US||48|2f2|-6ep|e|Willicoochee
+Wittmar|DE||8r|40t|tk|e
+Wingrave|GB||9b|402|-22|e
+Verkhoyansk|RU||7w|57n|aaj|e|Wierchojańsk;Werchojansk;Verĥojansk;Verkhoïansk;Verkhojansk;Verchojanskas;Verchojansk
+Wila|CH||a7|3nq|ol|e
+Wittorf|DE|Lower Saxony|8r|445|su|e|Wittörp
+Wittorf|DE|Lower Saxony|8r|439|qg|e
+Wiesenau|DE||8r|413|14j|e
+Winnebago|US|Minnesota|2f|3dl|-79l|e
+Wiedergeltingen|DE||8r|3pg|tn|e
+Williamstown|US|Pennsylvania|48|34q|-5wu|e
+Wijbosch|NL||8m|3ze|f7|e|Weibosch
+Wijnandsrade|NL||8m|3xf|gc|e
+Winsum|NL|Groningen|8m|445|i4|e
+Winthrop|US|Minnesota|2f|3fq|-7a5|e
+Winchelsea Beach|GB||9b|3xg|20|e
+Wittenhagen|DE||8r|46i|10b|e
+Wildenberg|DE||8r|3rd|x2|e
+Wiltingen|DE||8r|3ty|ib|d
+Wiang Nuea|TH||62|1hu|7lh|d|Vieng Nuea
+Winterport|US||48|3g0|-5b9|d
+Winklarn|AT||a2|3pl|159|d
+Winlock|US||3p|3l5|-9hi|d
+Winden am See|AT||a2|3p7|1ak|d|Sásony;Binta
+Wielka Wieś|PL|Lesser Poland|a5|3uq|1lu|d
+Winona|US|Missouri|2f|2ut|-71o|d
+Winkleigh|GB||9b|3xa|-ay|d
+Wingham|GB||9b|3yf|3d|d
+Wilkie|CA||4q|41m|-8dy|d
+Widawa|PL|Łódź Voivodeship|a5|3yw|1gm|d
+Widuchowa|PL|West Pomerania|a5|43l|13z|d|Widuchowo
+Wizna|PL||a5|43s|1q6|d|Vizna
+Wihr-au-Val|FR||9k|3ph|k0|d|Weier im Thal
+Wymeswold|GB||9b|42p|-33|d|Wimeswould
+Winzendorf|AT||a2|3ot|18r|d
+Wittelshofen|DE||8r|3sa|t4|d
+Willikies|AG||1j|1bh|-4rf|d|Wilikee;Willikie’s
+Wiek|DE||8r|47q|10x|d
+Wilhelmsdorf|DE|Bavaria|8r|3to|tu|d
+Willowbank|AU||8c|-24w|bs3|d
+Willerwald|FR||9k|3s6|jk|d|Villerwaldt
+Wijer|BE||8t|3xe|ei|d
+Wildsteig|DE||8r|3oi|ue|c
+Wingerode|DE||8r|3yr|sg|c
+Winenne|BE||8t|3v6|dl|c
+Winton|AU||8c|-1q6|b1c|c
+Wildwood|US|Texas|2f|2cs|-7ac|c
+Wilson|US|New York|48|3cb|-62z|c
+Williamsburg|US|Pennsylvania|48|34e|-618|c
+Wildhaus|CH||a7|3n5|pz|c
+Wikon|CH||a7|3na|m5|c
+Wilmot|US|New Hampshire|48|3cp|-5jr|c
+Wihogne|BE||8t|3wx|fa|c
+Wierzbna|PL||a5|3uz|1qs|c
+Wijewo|PL||a5|408|18z|c
+Wilczyn|PL||a5|41t|1eg|c
+Witta|AU||8c|-226|bsi|c
+Windsor Junction|CA||35|3gf|-4ws|c
+Wilczogóra|PL||a5|41r|1eh|c
+Wisner|US|Nebraska|2f|38n|-7h7|c
+Windsor Downs|AU||8l|-2li|bmx|c
+Wiednitz|DE||8r|3yr|12z|c|Wětnica
+Wurtsboro|US||48|37i|-5qx|c|Wirtzboro
+Winterville|US|Georgia|48|2md|-6fc|c
+Wilfersdorf|AT|Lower Austria|a2|3qy|1a7|c
+Winford|GB||9b|3yq|-7e|c
+Wilgartswiesen|DE||8r|3sp|lv|c
+Wimsbach|AT||a2|3pj|12m|c|Wunsbach
+Wilton|US|New Hampshire|48|3b0|-5ja|c
+Williamstown|US|Vermont|48|3ek|-5li|c
+Windsor|US|Illinois|2f|31k|-6u3|c
+Witanowice|PL||a5|3uo|1i9|c
+Wiederstedt|DE||8r|3zj|w1|c
+Witheridge|GB||9b|3xg|-aa|c
+Witterda|DE||8r|3xs|u9|c
+Winfield|US|Iowa|2f|368|-720|b
+Wiesen|DE||8r|3v8|q1|b
+Wildemann|DE||8r|3zz|sk|b
+Vyshnivchyk|UA|Ternopil|98|3sr|1yh|b|Vysjnivtsjyk;Wiśniowczyk;Võšnivtšõk;Vîșnivciîk;Vyşnivçyk;Vishnivchik;Vis’niovchik
+Winnezeele|FR||9k|3x8|73|b
+Witonia|PL||a5|40v|1hm|b
+Wielka Wieś|PL|Lesser Poland|a5|3vc|1j4|b
+Kumluca|TR|Düzce|94|35a|2f1|b|Withsandish
+Wipfeld|DE||8r|3uo|s9|b
+Winston|AU||8c|-1lj|ari|b
+Wingersheim|FR||9k|3rc|l7|b|Wíngersche
+Wimmenau|FR||9k|3rv|km|b
+Windhausen|DE||8r|3zv|sd|b
+Wilfleinsdorf|AT||a2|3pe|1ag|b
+Windeby|DE||8r|47a|r6|b
+Winów|PL||a5|3wo|1dr|b
+Wildwood|US|Tennessee|48|2rg|-6gz|b
+Widensolen|FR||9k|3pi|ks|b|Widensohlen
+Wiscasset|US||48|3e8|-5dj|b
+Wirdum|DE||8r|44k|k1|b
+Wirdum|NL||8m|43n|g4|b
+Wilmcote|GB||9b|412|-4x|b
+Williamtown|AU||8l|-2j5|bps|b
+Wivelsfield Green|GB||9b|3xk|-7|b
+Wielgie|PL|Kujawsko-Pomorskie|a5|42i|1hi|b
+Winsum|NL|Friesland|8m|43n|fn|b
+Wickham|AU|New South Wales|8l|-2jg|bpk|b
+Williams|US|Oregon|3p|39a|-9if|b
+Wister|US|Oklahoma|2f|2p5|-7b4|b
+Willow Valley|US||4i|2oz|-8ud|b
+Wittnau|CH||a7|3nw|m6|b
+Wiedensahl|DE||8r|41i|pc|b
+Wink|US||2f|2g7|-7yk|b
+Windberg|DE||8r|3ry|zf|b
+Większyce|PL||a5|3vu|1ea|b|Wiegschütz
+Winden|DE|Rheinland-Pfalz|8r|3se|mk|b
+Wissant|FR||9k|3xd|4m|b|Wichin;Witzand
+Williamsport|US|Ohio|48|31z|-6ew|b
+Wierzbno|PL|Lower Silesia|a5|3xi|1bq|a
+Wissenkerke|NL||8m|3zb|af|a|Wisktsjerke;Wissekaerke;Wissekerke
+Windelsbach|DE||8r|3t8|sm|a
+Windemere|US||2f|2cm|-7ja|a
+Winchester|US|Ohio|48|306|-6gd|a
+Wingatui|NZ||ak|-3jg|d5a|a
+Wiesviller|FR||9k|3sc|jw|a
+Wiley Ford|US||48|321|-62u|a
+Wittenberg|US||2f|3gj|-6vp|a|Wittenburg
+Wildwood|CA|Manitoba|5d|3uh|-7ht|a
+Wilburton|GB||9b|41f|i|a
+Wilga|PL||a5|401|1ne|a|Wilda
+Wilkowo|PL||a5|415|16z|a
+Winteringham|GB||9b|455|-1n|a
+Winter Park|US|Colorado|2p|32t|-85s|a
+Willards|US||48|2yn|-5tb|a|Willard's;Williards
+Wishek|US||2f|3ki|-7ok|a
+Wilhelmsburg|DE|Mecklenburg-Vorpommern|8r|450|12i|a
+Wiązowna|PL||a5|40x|1n5|a
+Wittlingen|DE||8r|3oe|l9|a
+Wiżajny|PL||a5|471|1rj|a|Vižainis
+Wiesenbronn|DE||8r|3u7|sm|a
+Wilp|NL||8m|412|h3|a|Welp
+Witzwort|DE||8r|474|oy|a|Vitsvort;Witswort
+Willgottheim|FR||9k|3r7|kv|a
+Winfield|US|Tennessee|48|2tk|-6il|a
+Wiesing|AT||a2|3no|ws|9
+Winnipegosis|CA||5d|3zh|-7pl|9
+Wintrich|DE||8r|3uk|jb|9
+Wiślinka|PL||a5|46y|1g8|9
+Wilmington|US|New York|48|3fb|-5p2|9
+Witzeeze|DE||8r|44h|th|9
+Wildermieming|AT||a2|3ng|um|9
+Wisner|US|Louisiana|2f|2gu|-72m|9
+Wiconisco|US||48|34p|-5x1|9
+Williams|AU||8k|-2jr|90o|9
+Winnigstedt|DE||8r|40n|tx|9
+Wigtown|GB||9b|48f|-cc|9|Baile na h-Ùige;Wigtoun;Wigton
+Wilków|PL|Opole Voivodeship|a5|3xy|1d2|9
+Winfield|US|Pennsylvania|48|35n|-5xi|9
+Windsor|US|New York|48|38w|-5u4|9
+Virbalis|LT||a3|47r|1re|9|Virbale;Vėrbalis;Wierzbołów;Wierzbowo;Wierzbołowo
+Wiggins|US|Colorado|2p|33r|-813|9
+Windsor|US|Massachusetts|48|3a3|-5my|9
+Wienrode|DE||8r|3zt|uh|9
+Winterrieden|DE||8r|3po|sf|9
+Witnica|PL|West Pomerania|a5|42v|147|9
+Wickerstedt|DE||8r|3xu|w2|9
+Wippingen|DE||8r|430|kl|9
+Wielkie Oczy|PL||a5|3uy|1sc|9
+Witt|US||2f|312|-6w7|9
+Wilson|US|Arkansas|2f|2qt|-6y4|9
+Wierzchosławice|PL|Lower Silesia|a5|3xd|18p|9
+Wiśniew|PL|Mazovia|a5|40n|1px|9
+Wiśniowa|PL|Subcarpathia|a5|3uw|1of|9
+Winkel|CH||a7|3nx|nr|9
+Wilhoit|US||4i|2nn|-8or|9
+Wimberg|AT||a2|3ok|10j|9
+Wilhelmshausen|DE||8r|3yt|qm|9
+Wielgomłyny|PL||a5|3xp|1iw|9
+Wittring|FR||9k|3s9|ju|9
+Wilbur|US||3p|3oo|-95r|8
+Winthrop|US|Iowa|2f|39z|-72t|8
+Winslow|US|Indiana|3b|2ym|-6q9|8
+Wisborough Green|GB||9b|3xq|-1f|8
+Wilson|US|Arkansas|2f|2pt|-765|8
+Windbergen|DE||8r|465|pc|8
+Wildendürnbach|AT||a2|3rg|19u|8
+Wilczyce|PL|Świętokrzyskie|a5|3wz|1o6|8
+Winterspelt|DE||8r|3vi|ha|8
+Witheren|AU||8c|-25w|btj|8
+Willroth|DE||8r|3wh|kx|8
+Vytachiv|UA||98|3v7|2dr|8|Vytychiv;Uvetychi;Wityczew;Vitaholmr;Vitakholmr;Vyatychiv;Viatychiv;Witatschiw;Vitacsiv;Vitachëv;Vitachov
+Wilkes South|CA||5d|3uf|-7i8|8
+Wilsum|NL||8m|41x|gl|8
+Wienerherberg|AT||a2|3pi|19z|8
+Wißmannsdorf|DE||8r|3uu|hx|8
+Viytivtsi|UA||98|3th|21g|8|Viïtivtsi;Woitowzy;Wójtowce;Wijtiwci;Viitivți
+Winterbach|DE|Bavaria|8r|3qn|t4|8
+Winzenburg|DE||8r|409|rl|8
+Wilskerke|BE||8t|3y6|7w|8
+Wittenborn|DE||8r|45s|se|8
+Wigginton|GB||9b|3zu|-1s|8
+Windfall|US||38|344|-6ms|8
+Willemstad|NL||8m|3zl|cc|8
+Wiesenthal|DE||8r|3wu|s9|8
+Wiesfleck|AT||a2|3nm|18v|8
+Winningen|DE|Saxony-Anhalt|8r|3zy|vt|8
+Wielgolas|PL||a5|40j|1od|8
+Wiendorf|DE||8r|45v|xr|8
+Winnert|DE||8r|477|pk|8
+Winnebago|US|Nebraska|2f|39c|-7fz|8
+Wil|CH|Zurich|a7|3o8|nn|8
+Wilbertoord|NL||8m|3zi|g2|8
+Wilcannia|AU||8l|-2fo|b2a|8
+Wights Mountain|AU||8c|-243|bsm|8
+Wijster|NL||8m|42q|i4|8
+Wilhelminaoord|NL||8m|42u|h4|8|Wilhelminaoard;Wilhelmina Soord
+Wierzchowisko|PL||a5|3vy|1j2|8|Wierzchowiska
+Wittersham|GB||9b|3xp|1z|8
+Wierre-Effroy|FR||9k|3x2|4u|8
+Widgee|AU||8c|-20u|brf|8
+Wittbek|DE||8r|47b|pl|8
+Wittmann|US||4i|2lu|-8ol|8|Wittman;Whittman
+Wilson|US|Kansas|2f|2zv|-7lk|8
+Wigmore|GB||9b|41b|-7y|8
+Wittenbeck|DE||8r|46c|wr|8
+Wilbarston|GB||9b|41t|-28|8
+Willsboro|US||48|3f8|-5nv|8
+Willington|GB|England|9b|40t|-11|8
+Wigmore|CA||50|3o4|-42k|7
+Winsham|GB||9b|3x9|-81|7
+Wickhamford|GB||9b|40n|-5a|7
+Winton|US|North Carolina|48|2t4|-5xp|7
+Windella|AU||8l|-2iu|bos|7
+Winden|DE|Rheinland-Pfalz|8r|3vt|lr|7
+Wiórek|PL||a5|41a|1az|7
+Wickes|US||2f|2na|-7a2|7
+Wildetaube|DE||8r|3ww|xo|7
+Vinograd|BG||9v|3cd|1zr|7|Winograd;Vinngrad
+Wisch|DE||8r|475|sq|7
+Wieliczki|PL||a5|45y|1qo|7
+Wittersdorf|FR||9k|3oa|k7|7
+Wilton|US|North Dakota|2f|3n0|-7ry|7
+Wieck|DE||8r|475|yy|7
+Wilwisheim|FR||9k|3rf|kv|7
+Wittes|FR||9k|3wr|6n|7
+Wipfing|AT||a2|3ph|12v|7
+Willmars|DE||8r|3wa|sh|7
+Wiscon|US||48|27a|-6d2|7
+Widum|CH||a7|3nh|of|7
+Wild Rose|US||2f|3eq|-6vx|7|Wildrose
+Wick|GB|Wales|9b|3yw|-9v|7|Y Wig
+Wicken|GB||9b|41b|u|7
+Witzleben|DE||8r|3x6|uw|7
+Winterberg|CH||a7|3nu|o5|7|Winterbärg
+Bizeljsko|SI||9a|3jt|17l|7|Wisell
+Wilfersdorf|AT|Lower Austria|a2|3q4|18q|7
+Wicko|PL||a5|47v|1cy|7|Wiecko
+Willmenrod|DE||8r|3we|m6|7
+Winklern|AT||a2|3m7|zr|7
+Windermere Park|AU||8l|-2k0|box|7
+Wirwignes|FR||9k|3ws|4w|7
+Willow Vale|AU|New South Wales|8l|-2no|blz|7
+Wieniawa|PL||a5|3yo|1lr|7
+Wies|DE||8r|3on|ll|7
+Wilton|US|Alabama|2f|2jw|-6pc|7
+Wickliffe|US|Kentucky|2f|2uo|-6vh|7
+Winikon|CH||a7|3n8|md|7
+Willendorf am Steinfelde|AT||a2|3or|18m|7
+Wiślica|PL|Silesia|a5|3ue|1g6|7
+Wijngaarden|NL||8m|401|d8|7
+Wiślica|PL|Świętokrzyskie|a5|3vv|1lf|7
+Wimer|US||3p|3a6|-9i3|7
+Wildenau|AT||a2|3px|110|7
+Willerval|FR||9k|3vw|7w|7|Vilèrva
+Winchester|US|Wisconsin|2f|3es|-6ua|7|Neenah Settlement
+Wittgendorf|DE||8r|3xm|xv|7
+Wibaux|US||2p|3mj|-81f|7
+Wijckel|NL||8m|42x|fm|7|Wikel;Wijkel
+Wilhelminadorp|NL|Zeeland|8m|3z5|au|7
+Wimbotsham|GB||9b|426|13|7
+Winkelsett|DE||8r|42v|np|7
+Wilson Park|US||48|31a|-5wt|7
+Widuchowa|PL|Świętokrzyskie|a5|3w9|1ls|7
+Wietrzychowice|PL||a5|3vf|1lp|7
+Williamsburg|US|Colorado|2p|2ym|-843|7
+De Wilgen|NL||8m|43i|gr|7|Wilgen;De Wylgen
+Winterborne Stickland|GB||9b|3x8|-68|7
+Winterbourne Abbas|GB||9b|3wv|-72|7|Winterborne Abbas
+Wielka Wieś|PL|Świętokrzyskie|a5|3y7|1l7|7
+Wierzbica|PL|Lublin|a5|3xq|1pf|7
+Winthorpe|GB||9b|43i|-26|7
+Wittdün|DE||8r|47r|nb|7
+Wintershouse|FR||9k|3rj|le|6|Wintershausen
+Wioska|PL||a5|410|195|6
+Wickerschwihr|FR||9k|3pn|kn|6
+Winding Falls|US||3k|2yc|-6lw|6
+Winterborne Kingston|GB||9b|3x2|-64|6
+Windhaag bei Perg|AT||a2|3q5|14s|6
+Windorf|AT||a2|3mj|16s|6
+Wingo|US||2f|2ts|-6ui|6
+Winterfeld|DE||8r|42i|v8|6
+Windridge|CA||5b|3sz|-9ho|6
+Wielgie|PL|Mazovia|a5|3yc|1nq|6
+Wijthmen|NL||8m|41t|h5|6|Wijtmen
+Windischenbernsdorf|DE||8r|3xa|xe|6
+Winterstown|US||48|32o|-5wu|6
+Wittgert|DE||8r|3wa|le|6
+Wielki Buczek|PL||a5|3y1|1dx|6
+Wielen|DE||8r|41z|ip|6
+Wilroads Gardens|US||2f|2ws|-7pl|6|Wilroads Garden
+Willisville|US||2f|2xi|-6wv|6
+Wickham|AU|Northern Territory|8e|-yv|a3o|6
+Wiesbaum|DE||8r|3vu|ij|6
+Winfall|US||48|2sm|-5we|6
+Winster|GB||9b|43m|-4k|6
+Wintershoven|BE||8t|3x9|f2|6
+Wiśniowa|PL|Świętokrzyskie|a5|3wj|1n1|6|Wiśnjowa
+Wiesendangen / Steinegg|CH||a7|3o1|oe|6
+Wittau|AT||a2|3pu|1a4|6
+Winona|US|Texas|2f|2i9|-7cd|6
+Wilmer|US|Alabama|2f|2dm|-6tg|6
+Wildberg|DE|Mecklenburg-Vorpommern|8r|451|10g|6
+Więckowice|PL||a5|3va|1iw|6
+Videm|SI|Municipality of Dobrepolje|9a|3jd|14t|6|Widem
+Willemsoord|NL||8m|42r|gu|6
+Weiterswiller|FR||9k|3rp|kl|6|Witerschwiller;Weitersweiler
+Wintzingerode|DE||8r|3yw|sp|6
+Williamsdale|US||48|31k|-6it|6
+Wieden|DE||8r|3ow|lw|6
+Millières|FR||9k|3sn|-42|6|Williers
+Víceměřice|CZ||9m|3t2|1bp|6|Witzoměřitz
+Wilson|US|Louisiana|2f|2dw|-714|6
+Widemouth Bay|GB||9b|3x3|-cn|6
+Willoughby on the Wolds|GB||9b|42q|-2y|6
+Windehausen|DE||8r|3yz|u7|6
+Winnellie|AU||8e|-yj|a3l|6
+Willow Grove|AU||8j|-2xs|ba4|6
+Willyung|AU||8k|-2p2|93g|6
+Witton le Wear|GB||9b|47w|-4x|6
+Wieslet|DE||8r|3oh|lo|6
+Wilsonville|US|Illinois|2f|30j|-6xm|6
+Hucqueliers|FR||9k|3wh|5b|6|Wicquiller
+Wilkerson|US||3p|2vk|-94v|6|Tó Sido
+Witternesse|FR||9k|3wl|6k|6
+Williamsfield|US||2f|35o|-6y1|6
+Wilmington|AU||8b|-2ip|anm|6
+Winnica|PL||a5|428|1m6|6
+Wiesen|AT|Upper Austria|a2|3p7|127|6
+Wülperode|DE||8r|40e|tg|6|Wilperu’e
+Wickhambrook|GB||9b|40x|1j|6
+Wielkie Walichnowy|PL||a5|45s|1gd|6
+Wierzbno|PL|Greater Poland|a5|3zg|1d3|6
+Wilfersdorf bei Gleisdorf|AT||a2|3mv|17j|6
+Winterbach|DE|Rheinland-Pfalz|8r|3sy|kr|6
+Wingello|AU||8l|-2od|bl4|6
+Witry|BE||8t|3ui|fl|6
+Wilsleben|DE||8r|3zw|vr|6
+Wiśniowa|PL|Świętokrzyskie|a5|3x5|1ml|5
+Wirts|AT||a2|3p5|150|5
+Mladkov|CZ||9m|3v6|1a7|5|Wichstadtl
+Wiler|CH||a7|3kw|lm|5
+Virtsu|EE||9x|4ip|1tc|5|Wirtsu
+Wickett|US||2f|2fp|-7y4|5
+Witzin|DE||8r|458|x4|5
+Winchester|US|Kansas|2f|318|-7cn|5
+Widford|GB||9b|3zy|6|5
+Wielgie|PL|Kujawsko-Pomorskie|a5|438|1h2|5
+Wismes|FR||9k|3wp|5r|5|Winme
+Wittersheim|FR||9k|3ri|la|5
+Willaupuis|BE||8t|3wh|a0|5
+Wiwersheim|FR||9k|3r4|l5|5
+Wilczyce|PL|Lesser Poland|a5|3tz|1k4|5
+Willaura|AU||8j|-2wb|b0i|5
+Winfield|US|Texas|2f|2k5|-7c7|5
+Winterbach|DE|Rheinland-Pfalz|8r|3uj|l7|5
+Wistow|GB||9b|41l|-c|5
+Wiene|NL||8m|414|ih|5
+Wilmot|US|Arkansas|2f|2ju|-72d|5
+Wisełka|PL||a5|45x|14h|5
+Witkowo|PL|Kujawsko-Pomorskie|a5|42k|1ha|5
+Wischroda|DE||8r|3y4|w3|5
+Winthrop|US|New York|48|3gf|-5rr|5
+Wied|DE||8r|3wo|lk|5
+Wilmar|US||2f|2lf|-73d|5|Wilmer
+Winnemark|DE||8r|47q|rk|5
+Wilton|US|Wisconsin|2f|3dp|-6zh|5
+Wimmsiedlung|AT||a2|3p1|10g|5
+Winchester|US|Oklahoma|2f|2rf|-7en|5
+Wiśniew|PL|Mazovia|a5|416|1oc|5
+Widdington|GB||9b|40c|o|5
+Wilków Wielki|PL||a5|3wz|1at|5
+Wilmot|US|South Dakota|2f|3i5|-7h2|5
+Wisznia Mała|PL||a5|3yd|1bc|5
+Winfarthing|GB||9b|41n|32|5

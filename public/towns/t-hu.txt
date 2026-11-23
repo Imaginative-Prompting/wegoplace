@@ -1,0 +1,1044 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Foshan|CN||7i|1rz|8q9|1xrt|Phật Sơn;Fo-šan;Fu̍t-sân-sṳ;Fošanas;Fosjan;Foŝan;Hu̍t-san-chhī;Hŭk-săng;Hotokeyama;Fak San;Fuk Shan;Fut Shan;Fatshan
+Huai'an|CN||7i|2lb|96m|z5m|Huaiyin;Chuaj-an;Hwaiyin;Huai-yin
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Huainan|CN||7i|2in|910|nen
+Huizhou|CN||7i|1s7|8tu|mdl|Huệ Châu;Xuyjo shehiri;Chuej-čou;Fi-chû-sṳ;Huitsjou;Hūi-chiu-chhī;Hiê-ciŭ;Hujdžov;Hui-chou
+Yunfu|CN||7i|1rp|8n8|k5s|Hùng-pù;Jün-fu;Vân Phù;Hûn-phû-chhī;Yün-fou
+Ouagadougou|BF||1a|yd|-49|imx|Wàadúu;Uagaduguo;Uagadugú;Vagadugu;Wagadugu;Huagadugu;Uaqaduqu;Ougadougou;Ouagadouga;Uagadougou
+Houston|US|Texas|2f|2ao|-7cw|huu|Hustono;Hustonia;Hyuston;Hiustonas;Hjūstona;Hiû-sṳ̂-tûn;Hjuston
+Fuyang|CN|Anhui|7i|2je|8xq|dnd|Fu-jang;Phụ Dương;Pâiu-iòng;Hū-iông-chhī;Fuyan;Fou-yang
+Fukuoka|JP||7q|2lc|a2a|cfw|Fukuoko;Fucuoca;Hukuoka
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Khulna|BD||6a|1rd|6ws|bkv|Kulno;Xulna;Hulna
+Huế|VN||62|19q|8aw|anc|Hujė;Sun-fa-sṳ
+Huaibei|CN||7i|2md|90f|8l9|Huài-báe̤k;Chuaj-pej;Huajbej;Huaibėjus;Hoài Bắc;Hoâi-pak-chhī;Huai-pei
+Huzhou|CN||7i|2dr|99l|7u7|Hu-chou
+Huludao|CN||7i|357|9bo|7ad|Hu-lu-tao
+Hubballi|IN||6t|16n|5sp|7a6|Hubli
+Homs|SY||69|2og|2u1|5ze|Hims;Emesa;Humus;Himsa;Hums
+Al Ḩudaydah|YE||5r|154|3bb|5o3|El Hudeyda;Al Xudayda;Elhudayda;Al Hudaidha;Ḩudaydah
+Fuxin|CN||7i|38q|9dy|5bf|Fu-sin;Fusin;Fusinas;Phụ Tân;Pâiu-sĭng;Hū-sin-chhī;Fu-hsin
+Huangshi|CN||7i|2c1|8vl|5b5|Huangsji;Chuang-š;Huangŝi;Hoàng Thạch;Uòng-siŏh;N̂g-chio̍h-chhī;Khuanshi;Huan-shih;Huang-shih;Huan-shi;Hwangshih
+Hongkou|CN||7i|2et|9dh|5az|Hung-k’ou
+Huangpu|CN|Shanghai|7i|2es|9dg|52a
+Honchō|JP|Chiba|7q|2r6|asv|4z3|Funabashi;Funabasi;Hunabasi-chhī;Hunabasi;Furabeshi
+Huambo|AO||x|-zi|17q|4ld|Huambas;Huamdo
+Huaihua|CN||7i|24k|8hk|49i|Huài-huá;Chuaj-chua;Hoài Hóa;Hoâi-hoà-chhī
+Xinzhou|CN|Shanxi|7i|2yp|8p5|47b|Sin-čou;Hãn Châu;Hṳ̆ng-ciŭ;Hian-chiu-chhī
+Hongjiang|CN||7i|23b|8hk|3o8|Hungkiang
+Fukuyama|JP||7q|2ns|aah|3m8|Fukujama;Hukuyama-chhī;Hukuyama
+Huangshan|CN|Anhui|7i|2aj|94n|3k0|Chuang-šan;Hoàng Sơn;Uòng-săng
+Huancayo|PE||3o|-xj|-5sx|3ir|Vancaium;Wankayu;Huankajus;Huancaya
+Fujisawa|JP||7q|2q7|arg|3e5|Pudyisawa;Fujisava;Fudžisava;Huzisawa-chhī
+Huanggang|CN|Hubei|7i|2cl|8v3|2tw|Hwang Chow;Wangchau;Hwang Chau;Uòng-gŏng;Chuang-kang;Hoàng Cương;N̂g-kng-chhī;Wangchou;Hwangchow
+Huocheng|CN||7t|3ed|68n|2s0
+Hulunbuir|CN||7i|3sp|98o|2p2|Khölönbuir
+Hŭngnam|KP||7a|32o|9uj|2o5|Hungyam
+Khorramshahr|IR||7o|2ck|3pu|2ju|Chorramschahr;Jorramchar;Koramsjar;Khorramxahr;Chorramšahr;Horamšaher;Choremšehras;Hürremşehr;Khoramshahr;Chorramszahr;Khurramshahr;Khorramchahre
+Kingston upon Hull|GB||9b|45a|-y|2f8|Hulo;Kingston-upon-Hull;Hull
+Fukushima|JP|Fukushima|7q|2wv|au7|29q|Hukusima
+Al Hufūf|SA||7e|1yg|3tr|29g|Hofuf;Al Hofuf;Hufuf
+Hulan Ergi|CN||7i|3n4|9jf|21p
+Huayin|CN||7i|2o1|8hr|216
+Oaxaca|MX||41|1be|-7gp|1yu|Oachaka;Huaxyacac Juárez;Oaxaka de Juárez;Guaxaca;Oahaka;Ndua
+Juliaca|PE||3o|-172|-5et|1w9|Hullaqa
+Fuji|JP||7q|2pp|ap8|1w6|Fudži;Fudžis;Huzi-chhī
+Ḩalwān|EG||c|2aw|2ey|1rw|Helwan;Hilwan;Ḩulwān
+Huanren|CN||7i|36m|9o9|1rw|Huan-jen
+Chang-hua|TW||7l|1uv|9aw|1qy|Chang Hwa;Zhanghua;Jhanghua;Changhua
+Huanggang|CN|Guangdong|7i|1ts|910|1qs|Huang-kang
+Huntsville|US|Alabama|2f|2oh|-6oj|1nq|Hantsvila;Hantsvilis;Hantsvill
+Hurghada|EG||c|23q|2lx|1lj|Hurgada;Gurdaka;Urgada
+Córdoba|MX||41|1gg|-7h9|1kv|Kordoba;Huilonco;Kordov
+Al Khums|LY||1d|2ip|13m|1k3|Al-Chums;Al Ĥums;Khums;Humsas;Kums;Al-Khums;El Hums;Al Jums;El Xums;Khoms
+Huntington Beach|US||3p|2li|-93s|1k3|Hantington Byčas
+Yuen Long San Hui|HK||6i|1qb|8sr|1jk
+Huánuco|PE||3o|-rl|-5vs|1im|Vanucum;Ŭanuko;Wanuku;Huanukas
+Hub|PK||6q|1xj|55t|1id
+Humen|CN||7i|1re|8rr|1hb
+Khujand|TJ||6d|33w|5de|1h2|Chudschand;Hudžand;Khodjent;Choedzjand;Chudzjand;Xoʻjand;Chudžandas;Hucand;Khodyent;Hodjent;Khojend;Khudzhand;Khodzhent
+Huixing|CN||7i|2ag|885|1fy
+Hugli|IN||6t|1rn|6tk|1d6
+Yuen Long Kau Hui|HK||6i|1qd|8sr|1b4
+Hoshiārpur|IN||6t|2fm|5uv|1av|Hushiarpur
+Hollywood|US|California|3p|2mq|-94p|1al|Holivudo;Holivudas;Holivuda;Ruscisilva;Hollivud;Huolėvods;Gollivud;Tinseltown
+Khobar|SA||7e|210|3vh|1a2|El Huber;Al-Chubar;Hubar;Al Khubar
+Huddersfield|GB||9b|451|-4y|15e|Haddersfild;Hadersfildas
+Huyện Lâm Hà|VN||6h|wu|8cl|147|Lam Ha District;Lâm Hà
+Huelva|ES||9d|2vj|-ja|143|Onubo;Onuba
+Huadian|CN||7i|3bd|9s2|12m
+Huinong|CN||7i|30z|88l|11y
+Fujinomiya|JP||7q|2pu|ap2|10t|Fudžinomija;Fujinomija;Pudyinomiya;Huzinomiya-chhī;Fujimiya
+Sīdī Ḥusayn|TN||1e|2u4|s4|107
+Hua Hin|TH||62|yx|7po|z4|Huahin
+Huicheng|CN|Guangdong|7i|1s0|8z1|yz
+Huixquilucan|MX||41|1hs|-7nz|yo
+Huangzhou|CN||7i|2cl|8uw|y2|Huang-chou
+Huaraz|PE||3o|-qh|-5zd|x0|Varas;Waras;Huarasas;Huaras
+Hưng Yên|VN||62|1ld|86l|wy|Hong-Yen
+Narmadapuram|IN||6t|1r7|5zx|ws|Hoshangābād;Huşengabad
+Lower Hutt|NZ||ak|-36i|dhw|vq|Awakairangi;Louer Hatas;Hutt Bawah;Te Awakairangi;Loverhata;Hạ Hutt
+Hulan|CN||7i|3jh|9rm|ub
+Hadera|IL||6n|2i4|2oy|u0|Hedora;Hudeira;Khederah;Hadeyra
+Huacheng|CN||7i|1uv|8x5|s4
+Hualien City|TW||7l|1um|9ds|rn|Huālián Shì;Hua-lien-shih
+Hương Thủy|VN||6h|19m|8b0|qh
+Huazhou|CN||7i|1o3|8j6|ph|Hua-chou
+Huddinge|SE||9w|4kk|1dy|p2
+Huaidian|CN||7i|2kv|8vj|p0|Huai-tien
+Huaicheng|CN||7i|1ug|8nm|ot
+Houmt Souk|TN||1e|2m4|u6|os|Houmt El Souk;Djerba;Houmet Es Souk;Humt-Suk;Houmt Souq;Houmet Essouk
+Fukuroi|JP||7q|2oj|an4|ok|Pukuroi;Hukuroi-chhī
+Houndé|BF||1a|vy|-9s|o8|Hunde
+Hualpén|CL||4u|-2u7|-5n2|o2|Ualpen
+Huaiyang|CN||7i|2ww|8u4|mr
+Huanglou|CN||7i|2tt|95h|m9
+Huehuetenango|GT||32|16k|-723|m2|Huehuetenangas
+Huai Khwang|TH||62|12a|7re|lq
+Huankou|CN||7i|2ov|903|lm|Luan-k’ou
+Huangmei|CN||7i|2bv|8ya|lk|Hwangmei
+Hunchun|CN||7i|3b3|a24|le|Hui-ch’un;Hun-ch’ung
+Hujra Shah Muqim|PK||6q|2de|5p2|l9
+Furukawa|JP|Miyagi|7q|2z5|avk|l7|Hurukawa
+Huilong|CN|Jiangsu|7i|2gd|9dy|ks
+Huicheng|CN|Anhui|7i|2az|94z|kn
+Huayuan|CN|Jiangxi|7i|26l|91l|kh
+Hương Trà|VN||62|19x|8ak|k7
+Huangchuan|CN||7i|2ha|8vk|k7|Hwangchwan
+Huashan|CN||7i|2o7|90a|jt
+Hunedoara|RO||8u|3j3|1rm|j7|Vajdahunyad
+Huamak|TH||62|128|7rl|iu
+Huajing|CN||7i|2eg|9dd|iq
+Rockville|US|Maryland|48|30k|-5yb|im|Rockvilla;Rokvilis;Williamsburgh;Hungerfords;Owen's Ordinary;Hungerfords Tavern;Montgomery Courthouse;Hungerford's Tavern;Montgomery Court House;Williamsburg
+Huinan|CN||7i|3ae|9qq|if
+Huanan|CN||7i|3kg|a2n|id
+Huanghua|CN||7i|2rp|97u|i8
+Huaiyuan Chengguanzhen|CN||7i|2jk|91h|i7
+Fujioka|JP|Gunma|7q|2sp|aqb|hx|Huzioka-chhī
+Hull|CA||59|3i7|-5ub|hp
+Huaral|PE||3o|-vx|-5yh|ha|Waral
+Hushitai|CN||7i|38i|9j2|h8|Hu-shih-t’ai
+Huoqiu Chengguanzhen|CN||7i|2hv|8z1|h7
+Hurlingham|AR||1l|-2o3|-4iv|go
+Huntington Park|US||3p|2me|-94f|gi
+Huiqu|CN||7i|2sr|96p|gh
+Hongqiao|CN|Hunan|7i|22d|8nf|g7|Hungkiao
+Bowie|US|Maryland|48|306|-5x5|g4|Huntington City;Huntington Station
+Huangpi|CN||7i|2ds|8tq|g0|Huang-p’o;Hwangpei;Huang-pei
+Fussa|JP||7q|2ra|ar0|fs|Fusa;Hussa-chhī
+Hutang|CN||7i|2fl|97x|fo
+Huauchinango|MX||41|1k1|-7kd|fm
+Humaitá|BR|Amazonas|3t|-kw|-4v3|fl|Humaytá
+Hulu Langat|MY||6v|8n|7ut|fd|Ulu Langat
+Huangnihe|CN||7i|3d0|9vm|fa|Huang-ni-ho
+Huguo|CN||7i|27f|84p|f8
+Huyton|GB||9b|44d|-7w|f7
+Hürth|DE||8r|3xb|j3|f7|Hiurtas
+Huacho|PE|Lima region|3o|-uw|-5zl|f5|Wachu llaqta
+Huesca|ES||9d|392|-15|f0|Uesca;Osca;Oska;Hueska;Güesca
+Ciudad de Huajuapan de León|MX||41|1dh|-7jm|eq|Huajuápam;Huajuapan;Huajuápam de León;Huajuapan de León;Ciudad de Huajuapam de León;Seen
+Huntersville|US||48|2qd|-68k|en
+Hualong|CN||7i|2un|95f|en
+Huamantla|MX||41|1hn|-7k1|eg|Cuammantlah
+Futtsu|JP||7q|2q3|ase|ed|Huttu-chhī;Futtso
+Hunsūr|IN||6t|y6|5vx|e5
+Huancavelica|PE||3o|-zj|-5s9|ds|Wankawillka;Huankavelika
+Huntington|US|West Virginia|48|2yq|-6d1|di
+Upper Hutt|NZ||ak|-36a|di9|d6|Hutt Atas;Te Awa Kairangi ki Uta;Aper-Hatas;Aperhuta;Thượng Hutt
+Antigua Guatemala|GT||32|14g|-701|ct|Santiago de los Caballeros de Guatemala;Muy Noble y Muy Leal Ciudad de Santiago de los Caballeros;Antigua;Antikva Gvatemalo;Antigva Gvatemala;Huehcāuh Cuauhtēmallān
+Huangji|CN||7i|2nn|90y|by|Huang-chi
+Hutchinson|US|Kansas|2f|2xq|-7k1|bk
+Huizen|NL||8m|41a|ek|bh
+Huntsville|US|Texas|2f|2dc|-7df|bd
+Huejutla de Reyes|MX||41|1mq|-7le|b4
+Hückelhoven|DE||8r|3xu|hb|b2|Hukkelhaove
+Huaquillas|EC||33|-9o|-66v|b2
+Huixian Chengguanzhen|CN||7i|2lt|86o|b0
+Hurst|US|Texas|2f|2j6|-7hx|au
+Hưng Mỹ|VN||6h|oq|83m|ar
+Huber Heights|US||48|32o|-6ho|am
+Juanjuí|PE||3o|-jy|-5x5|ah|Chuanchui;Huwanhuy
+Juan José Castelli|AR||1n|-203|-4oe|a6|Huan Hose Kastelli
+Heunghae|KR||7h|2sb|9zb|a1|Heung-hai;Hŭnghae
+Humbe|AO||x|-1ad|15e|a0
+Humansdorp|ZA||o|-2mj|1wt|9n
+Huangdi|CN||7t|2zt|5z5|9n
+Huntington Station|US||48|35h|-5nx|96
+Höxter|DE||8r|3zu|q2|93|Huxori;Hoxaria;Huxaria;Huscaria
+Huzhai|CN||7i|2ob|911|8y
+Huilong|CN|Chongqing|7i|2ct|8ak|8x
+Huixtla|MX||3z|162|-74v|8w
+Huatusco|MX||41|1h7|-7hd|8p
+Huatabampo|MX||37|22j|-8gk|8h
+Humenné|SK||8s|3ry|1ow|8h|Homenau;Homonna
+Hufeng|CN||7i|2ak|86r|8e
+Huyanghe|CN||7t|3g6|6jn|8b
+Hurstville|AU||8l|-2md|bnq|89
+Hucknall|GB||9b|43b|-3c|89
+Husainābād|IN||6t|1w5|6hc|84
+Huşi|RO|Vaslui County|8u|3ln|25y|83
+Hupari|IN||6t|1a6|5qo|82
+Humberto de Campos|BR||2w|-78|-3cq|81
+Khust|UA||98|3pt|1sq|7w|Hust;Huszt;Khoust;Chust
+Hutan Melintang|MY||6v|as|7sd|7w|Utan Melintang
+Huruta|ET||2|mn|31b|7n|Hurruta
+Huimanguillo|MX||3z|1dj|-77f|7l
+Hunts Point|US||48|35d|-5p8|7k
+Huatugou|CN||7i|2ya|70f|7i
+Hualmay|PE||3o|-uu|-5zl|7f
+Fukagawa|JP||7q|3df|ayk|7a|Fukaqava;Hukagawa-chhī;Hukagawa
+Huntley|US||2f|395|-6tn|78
+Huolu|CN||7i|29n|8bn|76
+Huejotzingo|MX||41|1h8|-7ld|75
+Hŭkkyo-ri|KP||7a|2zs|9pf|72|Kokkyō-ri
+Bad Honnef|DE||8r|3wo|k3|71|Hunapha
+Hunucmá|MX||3z|1me|-6xo|6x
+Hudkeshwar Buzurg|IN||6t|1mk|63t|6t
+Hucheng|CN||7i|2dl|8aq|6t
+Hūn|LY||1d|28x|18b|6s|Huun;Hon
+Hualqui|CL||4u|-2up|-5mm|6r|Ualki;Gualqui
+Huntingdon|GB||9b|41d|-j|6n|Huntingtonia;Huntandūn
+Hunt Valley|US||48|31q|-5ww|6n
+H̱ura|IL||6n|2ey|2p2|6e
+Huimin|CN|Chongqing|7i|29u|88e|6e
+Hukeri|IN||6t|193|5r8|6e
+Hwacheon|KR||7h|2xv|9ur|6e|Huachon;Hwach'ŏn
+Hutto|US||2f|2cu|-7iz|6b
+Hudson|US|Ohio|48|36k|-6a8|68
+Huetamo de Núñez|MX||41|1fr|-7sa|63|Huetamo de Múñez
+Huamachuco|PE||3o|-lo|-60v|62
+Hulbuk|TJ||6d|2x1|5dh|61|Vose’
+Honglu|CN||7i|29j|85p|60|Hung-lu
+Huskvarna|SE||9w|4gj|13q|5z
+Hongzhou|CN||7i|20l|8fx|5x|Hung-chou
+Furano|JP||7q|3cf|azi|5v|Hurano-chhī;Hurano
+Hungund|IN||6t|18m|5va|5t
+Husum|DE|Schleswig-Holstein|8r|47d|p5|5s|Hüsem
+Huaura|PE||3o|-ur|-5zk|5r
+Humacao|PR||4m|1ef|-52v|5o
+Hulu Yam Lama|MY||6v|9l|7uc|5n|Ulu Yam;Ulu Yam Lama
+Huangshan|CN|Yunnan|7i|22j|7qe|5l
+Huy|BE||8t|3wc|ej|5k|Hoei
+Huntsville|CA||59|3hx|-642|5i
+Huissen|NL||8m|40a|gh|5h|Huisen
+Humberstone|GB||9b|429|-31|59
+Huby|PL||a5|3xx|1bc|57
+Fukura|JP||7q|2n6|ae8|57|Hukura
+Huanta|PE|Ayacucho|3o|-zx|-5q9|56|Wanta
+Hudiyuzi|CN||7t|3e1|6a5|55
+Hutagalli|IN||6t|ya|5wr|53
+Humanes de Madrid|ES||9d|33t|-an|51
+Huntington|US|New York|48|35j|-5nz|50|Hontingeton
+Hunting Park|US||48|336|-5sq|4x
+Huercal-Overa|ES||9d|2vv|-5e|4w|Huercal Overa
+Tebela|ET||2|in|2wx|4v|Humbbo Xabala;Tabala;Xabala
+Huilango|MX|México|41|1io|-7nq|4u
+Hummelsbüttel|DE||8r|451|rw|4u
+Huoshilafu|CN||7t|2x7|5x2|4u
+Huimin|CN|Yunnan|7i|1pu|7q0|4t
+Huntington|US|Indiana|38|35k|-6li|4r
+Hukumpeta|IN||6t|1b7|6b8|4q
+Huwei|CN||7i|2b3|8b0|4q
+Huckarde|DE||8r|3z5|km|4o|Hukrithi
+Huai Yot|TH||62|ln|7or|4m
+Hückeswagen|DE||8r|3y3|ke|4k
+Hünfeld|DE||8r|3ws|r5|4j
+Hatti|IN||6t|190|5wy|4j|Hutti
+Huarmey|PE||3o|-rz|-613|4i|Huarmei
+Hualin|CN||7i|2or|82z|4h
+Hudiksvall|SE||9w|4rh|1bj|4h|Hudicsovaldum;Hiudiksvalis
+Hunts Cross|GB||9b|448|-7z|4d
+Hueytown|US||2f|2kx|-6po|4d
+Humble|US||2f|2bc|-7cm|4d
+Husainpur|IN||6t|2ez|5t8|4c
+Hude|DE|Lower Saxony|8r|43j|nj|4c
+Humbermede|CA||59|3dj|-64y|4b
+Hurricane|US|Utah|2p|2va|-8qp|4b
+Huanuni|BO||3n|-1et|-55o|4b|Wanuni
+San Mateo Huitzilzingo|MX||41|1hf|-7mt|4a|Huitzilzingo
+Humboldtkolonie|DE||8r|3xh|jf|47
+Huchuan|CN||7i|2p1|86v|46
+Huércal de Almería|ES||9d|2uh|-6s|45
+Hudson|US|Massachusetts|48|39r|-5it|45
+Hugo|US|Minnesota|2f|3hg|-76b|40
+Humewood-Cedarvale|CA||59|3dd|-64n|40
+Hunters Creek|US||48|26s|-6a6|3z
+Huliyār|IN||6t|11q|5wm|3z
+Huangsha|CN||7i|2c2|8aa|3x
+Hutchinson|US|Minnesota|2f|3gp|-7a5|3v
+Hüllhorst|DE||8r|418|o3|3u
+Hung Hom|HK||6i|1pz|8t7|3u|Hunghom;Hóngkàn;Hung-k’an
+Hünxe|DE||8r|3zf|im|3t
+Xudat|AZ||61|37n|3r8|3s|Khudat;Hudat;Khudaf
+Hudson|US|Wisconsin|2f|3gx|-75o|3s
+Huangshui|CN||7i|2c0|8d3|3s
+Hulyaypole|UA|Zaporizhzhia|98|3of|2sq|3q|Houliaïpolé;Huliaipole;Huljajpole;Huliai-Pole;Hulyay-Pole
+Hunasamaranahalli|IN||6t|10i|5zm|3q
+Huron|US|South Dakota|2f|3f8|-7kt|3p
+Huntington Hills|CA||2s|3y0|-8sv|3n
+Huilong|CN|Chongqing|7i|2al|862|3m
+Hulikal|IN||6t|vg|5x9|3m
+Tây Đằng|VN||62|1mw|84u|3l|Huyện Ba Vì
+Hurstpierpoint|GB||9b|3xh|-i|3j
+Ḩukūmatī Azrah|AF||6o|2mx|5dh|3h|Khukumati-Azrau;Ḩokūmatī Azṟaw
+Ban Houayxay|LA||7v|1kb|7qy|3h|Houei Sai;Ban Houayxai;Hovei Sai;Huoei Sai
+Xuddur|SO||14|bg|3dx|3h|Oddur;Huddur;Hudur;Xudur
+Humber Summit|CA||59|3dk|-652|3g
+Huai Mek|TH||62|1a3|7ys|3g
+Huangmen|CN||7i|2os|86y|3e
+Hudson|US|Florida|48|26s|-6dp|3e
+Huixcolotla|MX|Puebla|41|1gk|-7jl|3d|Huizcolotla
+Huehuetoca|MX||41|1j3|-7nk|3b
+Huangjia|CN||7i|28w|8c6|3b
+Hung Shui Kiu|HK||6i|1qb|8sn|3b
+Hüyük|TR||94|2xf|2fs|37|Höyük
+Humpolec|CZ||9m|3tm|16o|37|Humpoletz
+Humahuaca|AR||1o|-1sh|-51j|36
+Huétor Vega|ES||9d|2v7|-9x|35
+Huntington|US|Virginia|48|2zr|-5y3|35
+Hua Sai|TH||62|mc|7qn|34|Hua Zai
+Huangbai|CN||7i|2dv|8dm|31|Huangbo
+Humber Heights-Westmount|CA||59|3dd|-64w|31
+Hương Khê|VN||62|1ei|85m|30
+Huangchen|CN||7i|2la|85c|2y
+Huautla de Jiménez|MX||41|1ed|-7h0|2x
+Hull|US|Massachusetts|48|39i|-5gz|2v
+Huguenot|US||48|34m|-5q3|2s
+Hutland|KY||2e|1hr|-69l|2s
+Huitán|GT||32|15t|-72k|2s
+Huangxi|CN||7i|2ap|8do|2r
+Huittinen|FI||92|4py|1r2|2o|Vittis
+Huixquilucan de Degollado|MX||41|1hs|-7nz|2o|Huixquilucan;Huixouilucan de Degollado
+Huedin|RO||8u|3m7|1s1|2m|Bánffyhunyad
+La Huacana|MX||41|1go|-7ut|2m|Huacana
+Hunters Hill|AU||8l|-2lz|bnv|2m|Hunter's Hill
+Hunstanton|GB||9b|433|1e|2l|Hanstantonas
+Huaxing|CN||7i|2a8|86n|2l
+Hurmantgökje|TM||5x|2xr|4h6|2l
+Huron East|CA||59|3d6|-69u|2l
+Huangzhu|CN||7i|2md|85k|2k
+Huldenberg|BE||8t|3x3|cq|2j
+Huétor-Tájar|ES||9d|2vc|-b9|2j|Huétor Tájar
+Huepil|CL||4u|-2vg|-5ju|2j
+Huichapan|MX||41|1km|-7ot|2j
+Hünenberg|CH||a7|3n2|ne|2i
+Huizum|NL||8m|43r|g5|2i
+Huasco|CL||4u|-273|-5hu|2i|Huaskas;Guasco
+Humlebæk|DK||8y|4bg|yt|2i
+Hurzuf|UA||9t|3fr|2n9|2h|Gurzuf;Gursuf
+Hulme|GB||9b|44j|-69|2h
+Huangping|CN||7i|2kk|84l|2h
+Hungduan|PH||71|1as|9c5|2h|Hunduan
+Huntly|NZ||ak|-2wc|dik|2h
+Huinca Renancó|AR||1n|-2os|-4yt|2e
+Hundested|DK||8y|4bg|wx|2e
+Huancabamba|PE||3o|-ek|-64p|2e
+Huntingdale|AU|Western Australia|8k|-2h4|8y5|2d
+Hunkuyi|NG||u|vb|l9|2d
+Huotong|CN||7i|22l|97q|2d|Huo-t’ung
+Humboldt|US|Tennessee|2f|2ri|-6v0|2b|Humbolt
+Humberston|GB||9b|44p|-2|2a
+Humphrey|CA||43|3k4|-4zy|2a
+Putina|PE|Puno|3o|-170|-5cv|29|Huata
+Huangying|CN||7i|295|8b5|28
+Huangtian|CN|Guangdong|7i|1qv|8s8|26
+Hacienda Huancane|PE||3o|-17y|-5gx|26|Huancane
+Huehuetán|MX|Chiapas|41|15q|-74m|26
+Hüfingen|DE||8r|3p5|nl|25
+Hubbard|US|Ohio|48|36c|-67t|25
+Hughesdale|AU||8j|-2xa|b70|24
+Huancané|PE||3o|-168|-5ds|23|Wankani llaqta;Wankani;Huankjane
+Argos Orestiko|GR||8p|34d|1n2|23|Hurpişte
+Hurbanovo|SK||8s|3oz|1ej|23|Ógyalla;Altdala
+Santa María Huatulco|MX||41|17z|-7fk|22|Huatulco;Santa María;Bahías de Huatulco
+Hughson|US||3p|2wg|-9br|22|Dzidzétsoh Łání
+Huéscar|ES||9d|2x1|-72|22|Osca
+Hudson|US|New Hampshire|48|3as|-5ig|21
+Hudsonville|US||2q|3b3|-6mj|21
+Huanchaquito Alto|PE||3o|-mh|-63q|21
+Hudson Falls|US||48|3ca|-5of|20
+Husiatyn|UA|Ternopil|98|3sb|20s|1z|Houssiatyn;Hussjatyn;Husyatyn;Gusâtın;Gusyatin;Husjatin;Husjatyn;Husiatinum;Huseatîn
+Huntingdon|US|Pennsylvania|48|34g|-60p|1y
+Huron|US|Ohio|48|370|-6dc|1y
+Ḥurfeish|IL||6n|2jq|2q7|1x|Hourfeich;Hurfaysh
+Huron|US|California|3p|2sk|-99m|1w
+Huafla|CI||0|i8|-g4|1w
+Huicungo|PE||3o|-kc|-5xa|1w
+Umag|HR||a6|3i7|11k|1w|Humacum
+Hung Hom Estate|HK||6i|1pz|8t7|1v
+Huandacareo|MX||41|1jj|-7tc|1v
+Huron Park|CA||59|3ck|-67k|1u
+Huantuo|CN||7i|30z|91w|1u
+Hurricane|US|West Virginia|48|2yr|-6bu|1t
+Barrio de San Miguel|MX|Morelos|41|1gh|-7m5|1t|Huayapan;Hueyapan
+Hudson|US|New York|48|39d|-5oz|1s
+Hulín|CZ||9m|3t0|1ci|1s
+Hustopeče|CZ||9m|3ry|1ai|1s|Hostuopečē
+Huatian|CN||7i|28f|8dy|1s
+Huningue|FR||9k|3o8|l2|1s|Hüningen
+Hudeşti|RO||8u|3pr|21m|1s
+Huntington Woods|US||2q|3a0|-6f1|1r|Hantinqton-Vuds
+Huehuetán Estación FFCC|MX||41|15p|-74p|1r|Estación Huehuetán
+Hueyapán|MX||41|1j8|-7ip|1q
+Huelma|ES||9d|2wl|-9m|1q
+Huamuxtitlán|MX||41|1dg|-7ls|1p|Huamuctitilan;Huamuxtitan
+Huayan|CN||7i|2c2|85g|1p
+Huntingburg|US||3e|2ye|-6pj|1o
+Hulha Negra|BR||4w|-2f8|-45n|1o
+Hutthurm|DE||8r|3r7|11f|1o|Huading
+Huai Khot|TH||62|16h|7oq|1n
+Huayucachi|PE||3o|-xq|-5sy|1m
+Huapinol|MX||41|1ds|-763|1m
+Hutchins|US||2f|2ip|-7gn|1l
+Hualahuises|MX||44|1x5|-7ov|1l
+Hüttlingen|DE||8r|3rt|s2|1l
+Ḩuwwārah|PS||6g|2hb|2py|1k|Huwwāra;Ḩūwārah
+Huerta Grande|AR||1n|-2ec|-4z5|1k
+Hualañe|CL||4u|-2p6|-5jg|1k|Gualañe
+Huwara|PS||6g|2hb|2py|1k|Ḩuwwārah;Huvára;Howwara;Howwarah;Hawara
+Ḩūsān|PS||6g|2g3|2pl|1j
+Hultsfred|SE||9w|4fp|180|1j
+Huanímaro|MX||41|1kl|-7ty|1j
+Hubynykha|UA||98|3rl|2py|1j|Houbynykha;Hubynycha;Gubinixa;Hubiniha;Gubınıha
+Huitel|MX||41|1k0|-7nr|1i
+Huntertown|US||38|36j|-6kl|1i
+Umberto I|AR||1n|-2dr|-4qf|1i|Humberio I
+Hueytamalco|MX||41|1je|-7i9|1h
+Hugo|US|Oklahoma|2f|2mh|-7db|1g
+Hukuntsi|BW||m|-1uo|1oi|1g
+Khutir-Mykhaylivskyi|UA||98|40l|2mb|1g|Druzhba;Khutir-Mykhailivskyi;Chutir-Mychajliwskyj;Druschba;Hutir-Mihajlivski;Khoutir-Mykhaïlivskyï
+Huayacocotla|MX||41|1l2|-7lk|1g
+Hutchinson Island South|US||48|23u|-66u|1g
+Hurdegaryp|NL||8m|43t|gi|1g
+Hueyotlipan|MX|Puebla|41|1gh|-7jv|1g
+Huitzila|MX|Hidalgo|41|1j1|-7mw|1g
+Huasahuasi|PE||3o|-vb|-5u5|1f
+Hungerford|GB||9b|3yu|-48|1f
+Hudson|CA|Quebec|59|3i9|-5pz|1f
+Hürriyet|TR|Ağrı|94|31w|3ef|1e
+Huatai|CN||7i|2ez|8gl|1e
+Huanggang|CN|Guangdong|7i|1qk|8su|1e
+Huangpu|CN|Guangdong|7i|1r4|8s8|1e
+Huayu Estate|CN||7i|1r4|8s7|1e
+Hulhumale|MV||af|bp|5oa|1e
+Hueyotlipan|MX|Tlaxcala|41|1i3|-7l7|1d
+Huyền Tụng|VN||62|1m7|87z|1d
+Humboldt|CA||4q|410|-841|1c|Humboldas;Humbolta
+Hudson|US|Texas|2f|2f0|-7ba|1c
+Huejuquilla el Alto|MX||41|1qv|-80l|1c
+Hunters Creek Village|US||2f|2ap|-7da|1c
+Humphreys Mills|CA||43|3k3|-4zw|1c
+Huhi|MX||3z|1ll|-6vo|1b
+Huehuetlan el Chico|MX||41|1f1|-7m5|1b
+Hügelsheim|DE||8r|3rk|mk|1b
+Humaitá|BR|Rio Grande do Sul|4w|-24k|-45x|1b
+Hurlstone Park|AU||8l|-2m7|bnt|1a
+Huttwil|CH||a7|3mw|lu|1a
+Huarancante|PE||3o|-17t|-5ii|1a
+Huber Ridge|US||48|33d|-6ec|1a
+Humboldt|US|Iowa|2f|3ao|-79q|1a
+Hutag|MN||7s|3t8|7x9|1a
+Hungen|DE||8r|3w7|op|1a
+Huitzilac|MX|Morelos|41|1gv|-7nr|1a
+Houaïlou|NC||b8|-1n4|cs2|1a|Huaïlu
+Hummelstown|US||48|33v|-5x3|1a
+Huntly|GB||9b|4fl|-7r|1a|Srath Bhalgaidh;Hunndaidh
+Huitziltepec|MX||41|1dc|-7oc|19|Huixiltepec
+Humbeek|BE||8t|3xl|c6|19
+San Pedro Huaquilpan|MX||41|1jj|-7mn|19|Huaquilpan
+Huarichancara|PE||3o|-17g|-5he|18
+Humpty Doo|AU||8e|-yx|a46|18
+Huari|PE||3o|-pz|-5yd|18
+Fukushima|JP|Hokkaido|7q|378|atl|18|Hukusima
+Hurstbourne|US||3k|2y8|-6lr|18
+Humniska|PL||a5|3u0|1p9|17
+Huayna Alcalde|PE||3o|-13n|-5hi|17
+Hürriyet|TR|Ağrı|94|32c|3bm|17
+Huiloapan de Cuauhtémoc|MX||41|1ga|-7hv|15
+Hudson|US|Texas|2f|2b2|-7da|15
+Huepetuhe|PE||3o|-103|-5fx|15
+Hütschenhausen|DE||8r|3ta|ks|14
+Huamancaca Chico|PE||3o|-xk|-5t1|14
+Huntfield Heights|AU||8b|-2pn|aor|14
+Hueypoxtla|MX||41|1jb|-7n8|14
+Huangyangtan|CN||7i|2y9|86e|14
+Hubbardston|US||48|39z|-5k1|14
+Hugoton|US||2f|2va|-7tj|14
+Huntingdon|US|Tennessee|2f|2s0|-6tn|13
+Huitzitzilingo|MX||41|1mt|-7m2|13
+Huarte|ES||9d|3az|-4f|13|Uharte
+Huazulco|MX||41|1g3|-7me|12
+Ḩokmābād|IR||7o|2tr|4g0|12|Hukmābād
+Hunnerberg|NL||8m|400|gc|12
+Huautla|MX|Hidalgo|41|1mf|-7l1|12
+Huanghe|CN||7i|2aw|8d0|11
+Huangala|PE||3o|-dg|-67w|11
+Huáncito|MX||41|1j5|-7vj|11
+Hudson|US|North Carolina|48|2rl|-6ae|11
+Huatajata|BO||3n|-191|-5au|11
+Huejúcar|MX||41|1q4|-7yp|10
+Hueyapan de Ocampo|MX||41|1ee|-7cb|10
+Hūshak|IR||7o|244|4t2|10
+Huitzilan|MX||41|1jh|-7jd|10|Huitzitlan
+Huxley|US||2f|38e|-780|z
+Hugo Napoleão|BR||2w|-gn|-3a8|z
+Hurley|US|New York|48|38g|-5pq|z
+Hulshout|BE||8t|3xv|db|y
+Humulești|RO||8u|3n4|217|y
+Hulubeşti|RO|Dâmbovița County|8u|3gj|1y3|y
+Hūtak|IR||7o|2cy|4e5|y|Lūtak;Hutk
+Humboldt Hill|US||3p|355|-9kz|y
+Huévar del Aljarafe|ES||9d|2vs|-hg|y
+Huhlyne|UA||98|3n0|2we|y
+Hobo|PH||71|11j|9i6|y|Hubo
+Huixtepec|MX||41|1aa|-7l2|y|Huitepec;Huistepec
+Hurstbridge|AU||8j|-2wk|b7b|y
+Hunderdorf|DE||8r|3rt|z7|y
+Hulste|BE||8t|3xc|95|x
+Huatecalco|MX||41|1fw|-7ne|x
+Huntingtown Town Center|US||48|2za|-5wu|x
+Ḩukūmatī Dahanah-ye Ghōrī|AF||6o|2rr|5a9|x
+Hubbard|US|Oregon|3p|3hi|-9h5|x
+Huncovce|SK||8s|3sg|1km|x
+Ḩūr|IR||7o|2y4|3r5|w
+Khūzī|IR||7o|249|435|w|Hūzi
+Norðurþing|IS||87|53g|-1c6|w|Húsavík;Húsavíkur;Husayik
+Hulsberg|NL||8m|3xd|ga|w
+Huizingen|BE||8t|3wz|bv|w
+Huangcaotuo|CN||7i|30u|91w|w
+Huazuntlán|MX||41|1eg|-7bb|w|Guasuntlan
+Hussigny-Godbrange|FR||9k|3th|gb|w
+Hunmanby|GB||9b|46i|-w|v
+Huangzhuang|CN|Tianjin|7i|31o|92f|v|Huang-chuang
+Huaqingbei|CN||7i|1qn|8sx|u
+Hulluch|FR||9k|3w9|7t|u
+Huiramba|MX||41|1ib|-7ts|u
+Huaquechula|MX||41|1g5|-7lq|u
+Huajicori|MX||3x|1qw|-84k|u|Huaricori
+Hudson Bend|US||2f|2ci|-7k1|u
+Hunuku|MX||3z|1lx|-6sp|u|Kunuku
+Hundzukani|ZA||o|-1x8|2f9|t
+Hunterview|AU||8l|-2ie|bny|t
+Huangzhuang|CN|Tianjin|7i|31a|916|t|Huang-chuang
+Huangzhuang|CN|Tianjin|7i|317|915|t
+Hughes|AU||8l|-2q5|bi5|t
+Huiloapan|MX||41|1hv|-7kz|t
+Huntingdon|CA|Quebec|59|3h8|-5q1|t
+Huara|CL||4u|-1jk|-5dt|t|Guara;Huari
+Huitiupán|MX||3z|1bp|-75h|t
+Hülben|DE||8r|3qs|q5|t
+Humilladero|ES||9d|2v3|-d2|s
+Huamuchapa|MX||41|1b2|-7nw|s
+Huillapima|AR||1m|-27t|-53a|s
+Huehuetla|MX|Hidalgo|41|1ku|-7kg|s
+Huangtian|CN|Fujian|7i|21g|95i|s
+Kampung Ulu Tris|MY||6v|7f|7uf|s|Kampung Hulu Teris;Hulu Teris;Ulu Tris;Kampong Ulu Tris;Kampong Ulu Teris
+Hurup|DK||8y|4dn|ne|s
+Huité|GT||32|15h|-6x8|r
+Hūyeh|IR||7o|2ii|3z4|r|Hūyyeh
+Humulani|ZA||o|-1wn|2f3|r
+Huonville|AU||8g|-3bj|bch|r
+Hurstville Grove|AU||8l|-2me|bnp|r
+San Pedro Huitzizilapan|MX||41|1hw|-7oc|r|Huitzizilapan
+Huangqiao|CN||7i|232|8jw|q|Huang-ch’iao
+Hualcaltzinco|MX||41|1hw|-7ko|q
+Hurdon|NZ||ak|-30k|dfg|q
+Huntingtown|US||48|2za|-5wt|q|Hunting Town
+El Huixmí|MX||41|1js|-7mi|q|Huixmí
+Huajintepec|MX||41|1a5|-7kv|q|Guajintepec
+Nankovo|UA||98|3pw|1t3|q|Husztköz;Nankove
+Huaniqueo de Morales|MX||41|1ja|-7ty|q
+Hūreh|IR||7o|2ig|3x9|p
+Huguley|US||2f|2j7|-6kr|p
+Huitzililla|MX||41|1fx|-7mq|p
+Huntsbury|NZ||ak|-3d1|dbl|p
+Huesa|ES||9d|2ww|-8k|p
+Huglfing|DE||8r|3op|v1|p
+Huahuaxtla|MX||41|1jc|-7j8|p
+Huancullani|PE||3o|-1a7|-5ck|p|Huacullani
+Huriel|FR||9k|3kt|6w|o|Uriac;Uriat
+Huozhuangzi|CN||7i|315|91v|o
+Hueytepec|MX||41|1kh|-7hj|o
+Hudson|US|Iowa|2f|39t|-74u|o
+Huntsville|US|Arkansas|2f|2s9|-78e|o
+Huelo|US||ax|1m2|-c1z|n
+Husum|DE|Lower Saxony|8r|421|pp|n
+Jubasan|PH||71|yo|9l9|n|Hubasan
+Husasău de Tinca|RO||8u|3m2|1ow|n|Husasăul-de-Tinca
+Huntly|AU||8j|-2tu|b4x|n
+Huttenheim|FR||9k|3qc|l2|n
+Hudson Bay Park|CA||4q|40v|-88d|m
+Hull|US|Iowa|2f|3bz|-7f1|m
+Hudson|US|Michigan|2q|38a|-6ib|m
+Huaqiao|CN||7i|24z|8hy|m|Hua-ch’iao
+Hukay|PH||71|12h|9ba|m
+Hughesville|US|Maryland|48|2z1|-5xa|m|Hughsville
+Hudson Oaks|US||2f|2j0|-7jf|m
+Huslenky|CZ||9m|3sy|1e9|m
+Huacapa y Amestoy|MX||3z|1e5|-76w|l
+Huntington|US|Texas|2f|2ew|-7aq|l
+Huklyvyi|UA||98|3rb|1sl|l|Zúgó;Huklyvyj;Huklywyj;Huklivij;Huklîvîi;Hukliva;Huklivy;Huklivé;Huklyvyy
+Hundsangen|DE||8r|3w5|m6|l
+Huafu|CN||7i|1qn|8su|l
+Hunter|US|Ohio|48|31p|-6i5|l
+Hughesville|US|Pennsylvania|48|36k|-5x4|l
+Hurlock|US||48|2za|-5up|l
+Humppila|FI||92|4p9|1sx|l
+Huaxcaleca|MX||41|1hf|-7ho|l|Huascaleca
+Hüffenhardt|DE||8r|3sx|p8|l
+Huangmapu|CN||7i|1qz|8sa|l
+Huete|ES||9d|33j|-7h|l|Huet
+Huichihuayan|MX||41|1no|-7mx|l|Huachihuayán
+Hunnebostrand|SE||9w|4ic|ve|l
+Huziyivka|UA||98|3sh|2z9|l|Nova Astrakhan;Novo-Astrakhan’;Novaya Astrakhan’;Nova Astrakhan’
+Huaxtla|MX|Jalisco|41|1ll|-7zy|k|Huastla
+Huajúmbaro|MX|Michoacán|41|1io|-7ru|k
+Hueytlalpan|MX||41|1jn|-7je|k|Hueytalpan
+Hudson|CA|Alberta|2s|44x|-8rf|k
+Huntington|US|Utah|2p|319|-8k8|k
+Huerta Nueva|ES||9d|2u3|-ca|k
+Husów|PL||a5|3uu|1px|k|Hussów
+Huyuklu|TR||94|2y8|2eg|k|Üyüklü
+Huangtukuang|CN||7i|22s|8ip|k|Huangtukeng;Huang-t’u-t’ang
+Huisseau-sur-Cosson|FR||9k|3o7|41|k|Huisseaux-sur-Cosson
+Huty|UA||98|3v9|2q6|k|Houty;Gutı;Guty
+Hutisko-Solanec|CZ||9m|3tb|1em|k
+Huta Stara B|PL||a5|3wy|1h5|j
+Huitzatarito|MX||41|1ky|-7u5|j
+Huitchila|MX||41|1fs|-7ms|j|Huitzila
+Hudi|CN||7i|1qg|8sf|j
+Huomachong|CN||7i|25g|8i7|j|Huo-ma-ch’ung
+Hukvaldy|CZ||9m|3tu|1em|j|Hochwald
+Huajoyuca|MX||41|1ff|-7k2|j
+Huanglong|CN||7i|21q|8k5|j
+El Huizache|MX|Guanajuato|41|1kq|-7sg|j|Huizache
+Huangmaoyuan|CN||7i|244|8iv|j
+Huehuetán|MX|Guerrero|41|1a8|-7ls|j
+Hunia|RO||8u|3ee|1s6|j
+Hurstbourne Acres|US||3k|2y6|-6lr|j
+Humboldt|US|Kansas|2f|2x1|-7d4|j
+Hunter|US|Tennessee|48|2t1|-6c8|j
+Hongyang|CN||7i|21p|97u|j|Hung-yang
+Hudson|US|Illinois|2f|34t|-6v7|i
+Huamúchil|MX||41|19h|-7az|i
+Huntingdale|AU|Victoria|8j|-2xb|b73|i
+Hurezani|RO||8u|3gg|1tp|i
+Huez|FR||9k|3h8|gu|i
+Huajintlán|MX||41|1fp|-7o6|i
+Huecahuasco|MX||41|1gm|-7me|i
+Hughes Springs|US||2f|2jo|-7av|i
+Hueycantenango|MX||41|1ch|-7n2|i|Hueycaitenango;Hueycatenango
+Huise|BE||8t|3xe|9z|i
+Huangxikou|CN||7i|250|8in|i|Huang-hsi-k’ou
+Huehuetla|MX|Puebla|41|1jv|-7j7|i
+Huelgoat|FR||9k|3qc|-af|i|An Uhelgoad
+Huncote|GB||9b|421|-3g|i
+Huachuca City|US||4i|2fv|-8ih|i
+Huejonapan|MX||41|1fb|-7k0|i|Huejonapa
+Hulubești|RO|Giurgiu County|8u|3ep|202|i
+Huapacal 2da. Sección (Punta Brava)|MX||41|1ek|-76t|i
+Hustopeče Nad Bečvou|CZ||9m|3tl|1dn|h
+Huisseau-sur-Mauves|FR||9k|3p1|4q|h|Huisseau-sur-Mauve
+Hürriyet|TR|Ağrı|94|324|3ch|h
+Guttau|DE||8r|3ye|14g|h|Hućina
+Huta|UA|Volyn|98|3zf|1v1|h|Guta
+Huerta de Valdecarábanos|ES||9d|32q|-a1|h
+Huixtán|MX||41|1af|-74t|h|Huistán
+Huangjinjing|CN||7i|24n|8k1|h
+Huétor Santillán|ES||9d|2ve|-9s|h
+Husnicioara|RO||8u|3g4|1rg|h
+Hunter|US|Tennessee|48|2t0|-6hq|h
+Huanusco|MX||41|1oh|-7y1|h
+Huisheim|DE||8r|3rn|tq|h
+Huijbergen|NL||8m|3yv|c6|h|Huybergen;Huibergen
+Huay-Pix|MX||2b|1fg|-6tn|g
+Huautepec|MX||41|1ea|-7gw|g
+Hueyitlalpan|MX||41|1d4|-7nu|g
+Huachichil|MX||44|1y1|-7s3|g|El Huache
+Huarina|BO||3n|-18z|-5ak|g
+Hurlach|DE||8r|3po|u1|g
+Huilacapixtla|MX||41|1k5|-7kg|g
+Husinec|CZ|Central Bohemia|9m|3vd|13y|g
+Hudson|US|Colorado|2p|33b|-82o|g
+Hui|IN||6t|27a|5v2|g
+Husum|SE||9w|4vx|1h9|g
+Huáscato|MX||41|1kw|-7w1|g
+Hurley|US|Mississippi|2f|2d6|-6tt|g
+Huimilpan|MX||41|1kl|-7qk|f|Hueyimilpan
+Huayuan|CN|Hunan|7i|22r|8j2|f
+Humber Arm South|CA||50|3s5|-4hh|f
+Hurigny|FR||9k|3kr|dc|f
+Hürriyet|TR|Ağrı|94|32k|3ak|f
+Huntsville|US|Missouri|2f|31k|-753|f
+Huazantlán del Río|MX||41|192|-7c9|f
+Huitrón|MX|Durango|44|1zu|-7z3|f
+Hudson Bay|CA||4q|42t|-7we|f
+Hurley|US|Wisconsin|2f|3l1|-6yj|f
+Hueyapa|MX||41|1ml|-7m5|f
+Huogezhuang|CN||7i|32e|921|f
+Huachinantla|MX||41|1es|-7mx|f
+Huismes|FR||9k|3n7|p|f
+Hudson|US|Maine|48|3h0|-5bc|e
+Hudson|US|Pennsylvania|48|36n|-5uo|e
+Hundling|FR||9k|3sf|je|e
+Huntington Bay|US||48|35m|-5nx|e
+Hutten|AT||a2|3pu|18f|e
+Huizachal|MX||41|18l|-78k|e|Huisachal
+Huatasani|PE||3o|-15u|-5dw|e
+Hulst|NL||8m|3yg|b9|e
+Huitepec|MX||41|1mh|-7m8|e|Hueytepec
+Hüttisheim|DE||8r|3q4|rm|e
+Huay Max|MX||2b|1jo|-6tx|e
+Hughestown|US||48|36t|-5uh|e
+Hüttwilen|CH||a7|3o9|on|e
+Husken|NL||8m|3xe|gk|e
+Huitzmaloc|MX||41|1fa|-7ha|e
+Huepaco|MX||3x|206|-8ee|e
+Hubbard|US|Texas|2f|2gh|-7gw|e
+Hummels Wharf|US||48|35f|-5xg|e
+Hut|UA||98|3q7|1qr|e
+Husarivka|UA|Kharkiv|98|3t4|2ua|e|Gusarovka
+Hurst|GB||9b|3yy|-2d|e
+Huai’an Shequ|CN||7i|20g|978|e
+Huryivka|UA||98|3mw|2gi|d|Hourïvka
+Hupalivka|UA||98|3sf|2oi|d|Gupalovka
+Husinec|CZ|South Bohemian Region|9m|3s9|12v|d|Husinetz
+Hunting Ridge|US||48|315|-5x2|d
+Hughes|US||2f|2p3|-6zb|d
+Humuya|HN||56|13l|-6rj|d
+Hundeshagen|DE||8r|3yv|sk|d
+Husiatyn|UA|Ternopil|98|3sb|20u|d
+Humanes|ES||9d|35f|-8r|d
+Hüffelsheim|DE||8r|3ue|lo|d
+H̱ulda|IL||6n|2gf|2ow|d
+Hudson Lake|US||2f|37v|-6od|d
+Huentelauquén|CL||4u|-2fq|-5ip|d|Huentalaquen
+Huissignies|BE||8t|3wh|ag|d
+Huis ter Heide|NL||8m|40r|em|d
+Huajúmbaro|MX|Michoacán|41|1j7|-7rg|d
+Huayacanes|MX||41|1ds|-7co|d
+Hugenote|ZA||o|-2m7|1h4|d
+Hurt|US||48|2v1|-64a|d
+Huixcolotla|MX|Veracruz|41|1fv|-7g2|d
+Hurley|US|New Mexico|2p|2iu|-8cd|d
+Hughenden|AU||8c|-1lw|b4k|d
+Hunwick|GB||9b|47x|-4r|c
+Hunding|DE||8r|3ro|10m|c
+Huéneja|ES||9d|2va|-87|c
+Huntsville|US|Tennessee|48|2t5|-6ip|c
+Huntingdon|CA|British Columbia|5b|3s5|-9fm|c
+Huerta del Rey|ES||9d|388|-9b|c|Puerta del Rey
+Hudlice|CZ||9m|3us|12t|c
+Huaqiu|CN||7i|264|884|c
+Huta|UA|Ivano-Frankivsk|98|3r5|1va|c|Guta
+Husarka|UA||98|3nk|2tg|c|Gusarka
+Huemetla|MX||41|1is|-7p2|c
+Hüttenrode|DE||8r|3zt|ua|c|Hüttenroe
+Huta Certeze|RO||8u|3p5|1t9|c
+Lewin Kłodzki|PL||a5|3w1|199|c|Hummelstadt;Lewin
+Huitzilac|MX|Puebla|41|1l9|-7ji|c|Huitzila
+Huitzila|MX|Veracruz|41|1g0|-7hx|c
+Hürup|DE||8r|483|qh|c|Hyrup
+Hulyaypole|UA|Dnipropetrovsk|98|3po|2mv|c|Huliaipole;Gulyay-Pole
+Huapacal 1ra. Sección|MX||41|1dt|-78h|c|Huapacal Primera Sección
+Huikas|FI||92|4qu|1u8|c
+Hörden|DE||8r|3zj|sk|b|Hürn
+Huntspill|GB||9b|3y9|-8b|b
+Herstmonceux|GB||9b|3xd|w|b|Hurstmonceaux;Hurstmonceux
+Huejotitán|MX||41|1kj|-7zh|b
+Huntley|GB||9b|403|-6o|b
+Hustisford|US||2f|3cf|-6u4|b|Hushsford
+Huppaye|BE||8t|3wt|dl|b
+Hualfín|AR||1m|-23n|-55n|b
+Huepalcalco (San Miguel)|MX||41|1gj|-7mb|b
+Hülsede|DE||8r|415|q0|b
+Humele|RO||8u|3fp|1xe|b
+Huanguitío|MX||41|1hw|-7r5|b|Hunguitio
+Huexotitla|MX||41|1lp|-7kh|b
+Hüde|DE|Lower Saxony|8r|41u|n8|b|Huede
+Hugh Town|GB||9b|3un|-hj|b|Tre Huw
+Hongtang|CN||7i|20f|977|b|Hung-t’ang
+Humansville|US||2f|2wz|-77y|a
+Hurjuieni|RO||8u|3p4|1zq|a
+Hushakert|AM||80|33c|3e1|a
+Hualula|MX||41|1lj|-7mk|a
+Hubley|CA||35|3g3|-4xa|a
+Huajimic|MX||3x|1o8|-81s|a
+Husbands Bosworth|GB||9b|41p|-2y|a
+Humoreni|RO||8u|3od|207|a|Humureni
+Huanchillas|AR||1n|-2lj|-4ws|a|Huanchilla
+Husseren-Wesserling|FR||9k|3p0|jf|a
+Huitzoltepec|MX||41|1g5|-7p8|a
+Hummelo|NL||8m|40g|hb|a
+El Huexco|MX||41|1na|-7mb|a|Huexco
+Hubbard Lake|US||2q|3gc|-6g2|a
+Huntsville|US|Tennessee|48|2re|-6i4|a
+Hulmeville|US||48|33i|-5s3|a|Hulmenville
+Hummelsta|SE||9w|4ln|1b2|a
+Huby-Saint-Leu|FR||9k|3vy|5o|a
+Vilcabamba|PE|Apurímac Department|3o|-134|-5lr|a|Huilcabamba
+Huštěnovice|CZ||9m|3sf|1ci|a
+Huhkola|FI||92|4nv|1q2|a
+Huccorgne|BE||8t|3wh|ec|a
+Hulsdonk|NL||8m|3z5|cc|a
+Huejotengo (San Marcos)|MX||41|1gi|-7mb|a
+Hundwil|CH||a7|3nk|pw|a
+Huexca|MX||41|1g8|-7mn|a|Huesca
+Huaquirca|PE||3o|-13u|-5mh|a|Huadquirca
+Hum na Sutli|HR||a6|3kd|17l|a
+Hueycuatitla|MX||41|1lz|-7kq|a|Hueycutitla
+Hubbell|US||2q|3n1|-6tn|9
+Hương Nguyên|VN||62|194|8ag|9
+Uhniv|UA||98|3vx|1tz|9|Uhnów;Huwnów
+Huachinera|MX||37|2bx|-8eo|9
+Huntington|US|Massachusetts|48|39c|-5mg|9
+Huásabas|MX||37|2b3|-8fm|9
+Huajojutla (El Azul)|MX||41|1fm|-7ol|9
+Huanca|PE||3o|-18j|-5jo|9
+Hugh|AU||8e|-1vh|ab0|9
+Huiloteapan (San José Huiloteapan)|MX||41|1hv|-7nz|9
+Huaja|PE||3o|-ic|-5x6|9
+Huejotitlán|MX||41|1nf|-7x4|9
+Huanipaca|PE||3o|-11h|-5ml|9
+Umatac Village|GU||aw|10y|b5u|9|Humåtak
+Hueytentan|MX||41|1j8|-7jq|9
+Huisquilco|MX||41|1mq|-7y2|9|Huiscuilco
+Huexoapa (San Juan Huexoapa)|MX||41|1bx|-7ld|9
+Huilango|MX|Puebla|41|1gc|-7lu|9
+Hutami|JP||7q|238|az0|9|Futami
+Hueyapita|MX||41|1jr|-7kw|9
+Huachocolpa|PE||3o|-107|-5s7|9
+Huitztipan|MX||41|1lw|-7l8|9
+Huacapampa|PE||3o|-j9|-611|9
+Huércanos|ES||9d|39v|-7i|9
+Huacao|MX||41|1jo|-7sm|9
+Huaccana|PE||3o|-117|-5op|9|Huajana
+Huanal|MX||41|1c3|-75k|9
+Huehueymico|MX||41|1j4|-7id|9
+Hullavington|GB||9b|3z6|-5z|9
+Huazamota|MX||44|1ql|-82a|9|Huasamota
+Husasău de Criș|RO||8u|3mt|1pa|9|Köröskisújfalu;Husasăul de Criş
+Huberdeau|CA||59|3jq|-5rb|9
+San Juan Huerta|MX||41|1j0|-7qx|9|San Juan;Huerta
+Huántar|PE||3o|-q9|-5ye|9
+Huskisson|AU||8l|-2pc|bmj|9
+Huntland|US||2f|2pd|-6nn|9
+Huatlatlauca|MX||41|1fw|-7kd|9|Huatlatlahuca
+Huanca Huanca|PE||3o|-zw|-5r9|9|Huancahaunca
+Huautla|MX|Morelos|41|1f8|-7n2|9|Huantla;Huaxtla
+Humboldt|US|Nebraska|2f|33k|-7ei|9
+Huaynacotas|PE||3o|-161|-5m9|8|Huaynacolas;Huainacotas;Huaynacocos
+Huest|FR||9k|3s8|3d|8
+Hüttlingen|CH||a7|3o6|oy|8
+Huapacal 2da. Sección|MX||41|1dq|-78h|8|Huapacal Segunda Sección
+Huazalingo|MX|Hidalgo|41|1ma|-7ln|8
+Hudson's Hope|CA||2o|4bn|-9en|8
+Huangjin Yaozuxiang|CN||7i|21e|8j4|8
+Huixtac|MX||41|1fa|-7ou|8
+Hubbard|US|Iowa|2f|39j|-776|8
+Huecorio|MX||41|1ia|-7ub|8
+Huangjin’ao|CN||7i|24t|8hf|8|Huang-chin-ao
+Huacachi|PE||3o|-pw|-5xq|8
+Huiztlatzala|MX||41|1cb|-7md|8
+Hungry Horse|US||2p|3qf|-8su|8
+Huta-Borovenska|UA||98|3za|1y2|8|Huta-Borovens’ka;Guta Boroven’ska
+Huata|PE||3o|-17e|-5ed|8|Huatta
+Hürriyet|TR|Samsun|94|36t|2ts|8
+Husain|HR||a6|3ib|1ap|8|Husajin;Husajn
+Huaytará|PE||3o|-11s|-5tb|8|Waytara;Huaitará
+Hulero|MX||41|1nk|-7mg|8|Huler
+Nueva Londres|PY||1y|-1yk|-4d3|8|Hugo Stroessner
+Huipiltepec|MX||41|1k1|-7hr|8|Huispiltepec
+Huancas|PE|Amazonas|3o|-h5|-60a|8
+Huruiești|RO||8u|3kj|23p|8|Hurueştii;Hurueşti
+Hurst|US|Illinois|2f|2x3|-6vm|8
+Humphrey|US|Nebraska|2f|37t|-7is|8
+Huaristemba|MX||3x|1o6|-844|8|Guaristempa;Guaristemba
+Hubkiv|UA||98|3x7|235|8|Hubków
+Huaribamba|PE||3o|-y4|-5s6|8
+Huanacastal|MX|Oaxaca|41|19r|-7af|8
+Huertas la Joya [Fraccionamiento Campestre]|MX||41|1la|-7r6|8
+Humptrup|DE||8r|48f|on|8
+Hulshorst|NL||8m|41g|fx|8
+Ḥuseinīya|IL||6n|2je|2q4|8
+Guachipilín|MX||41|15m|-74r|8|Huichipilin
+Huntleys Cove|AU||8l|-2m0|bnu|8
+Huaracayo|PE||3o|-vj|-5u3|8|Huatacayo
+Huecato|MX||41|1iv|-7vq|8
+Hüseyinli|TR||94|2xq|2yu|8
+Hundon|GB||9b|40r|1i|8
+Huanta|PE|Loreto|3o|-9p|-5k5|8
+Humosu|RO||8u|3nu|229|8
+Huasimal|PE||3o|-eb|-66p|8
+Huachos|PE||3o|-10q|-5tt|8
+Huanuara|PE||3o|-1c3|-5fc|8|Huanahuara
+Hülsten|DE||8r|3zx|jp|7
+Huerta Vieja|MX||41|1d4|-7pm|7
+Hugo|US|Colorado|2p|30q|-7zf|7
+Huasicaj|PE||3o|-ha|-649|7
+Huachis|PE||3o|-q5|-5y6|7
+Hulianka|UA||98|3no|29n|7|Hulyanka;Gulyanka
+Huabal|PE||3o|-fl|-636|7
+Hudimesnil|FR||9k|3rq|-45|7
+Otluyazı|TR||94|303|39v|7|Hulik;Hulig
+Hueyatenco|MX||41|1gh|-7pp|7|Huayatenco
+Huichila|MX||41|1in|-7hk|7
+Huépac|MX||37|2b3|-8i5|7
+Hunting Valley|US||48|379|-6a4|7
+Huilotla|MX||41|1gv|-7hp|7
+Ḩūrī|IR||7o|2wa|3jx|7
+Huntířov|CZ||9m|3x3|13q|7
+Huandoval|PE||3o|-n5|-60l|7|Huadoval
+Huppy|FR||9k|3uz|4w|7
+Hurbanova Ves|SK||8s|3pr|1cg|7
+Huncherange|LU||9c|3tk|gv|7|Hëncheréng;Hüncheringen
+Hüntwangen|CH||a7|3o8|nl|7
+Huixtitla|MX||41|1g3|-7hz|7
+Huisurez|RO||8u|3lv|1zz|7
+H̱ulata|IL||6n|2jt|2qx|7
+Hurdugi|RO||8u|3l7|25x|7
+Huanchuy|PE||3o|-q0|-613|7
+Huaypira|PE||3o|-cw|-67q|7
+Huacaltzingo|MX||41|1g8|-7ju|7
+Huasicancha|PE||3o|-y9|-5t4|7|Huasicanchi
+Huitzila|MX|Zacatecas|41|1my|-7zt|7
+Huatajo|MX||41|1k2|-7tv|7
+Huasta|PE||3o|-s4|-5yb|7
+Huertas|PE||3o|-wo|-5tn|7
+Huambo|PE|Amazonas|3o|-hv|-5ze|7
+Hulsen|NL||8m|41i|hz|7|Hulzen
+Huayllapampa|PE|Ancash|3o|-ry|-5ze|7
+Huchenneville|FR||9k|3v1|50|7
+Hurstbourne Tarrant|GB||9b|3yg|-41|7
+Huokou|CN||7i|21h|97b|7
+Hurwenen|NL||8m|3zx|es|7
+Hull|US|Texas|2f|2br|-7aw|7
+Huizache Achichipic|MX||41|1m8|-7km|7
+Hürm|AT||a2|3ps|16t|7
+Hucisko|PL||a5|3vo|1py|7|Huciska
+Hulub|RO||8u|3ov|22w|7
+Humay|PE||3o|-124|-5ut|7
+Hubbards|CA||35|3g0|-4xx|7
+Huarán|PE||3o|-10z|-5k3|6
+Humbécourt|FR||9k|3qy|dm|6
+Huautla|MX|Guerrero|41|1dl|-7q2|6
+Huanchar|PE||3o|-wz|-5t8|6
+Huehuetlán Segunda Sección|MX||41|1ej|-7ha|6
+Huși|RO|Suceava|8u|3nt|21b|6
+Huantashiri|PE||3o|-v5|-5r0|6
+Hueso de Puerco|MX||41|1df|-762|6
+Hummelshain|DE||8r|3x1|wb|6
+Huimango 3ra. Sección (Los Cerros)|MX||41|1ee|-76v|6
+Huiscolco|MX||41|1ot|-7xy|6
+Huapango|MX|Guanajuato|41|1kl|-7ro|6
+Hualcán|PE||3o|-pq|-5zl|6
+Huancaya|PE||3o|-xw|-5uk|6
+Huntington|US|Arkansas|2f|2pg|-79u|6
+Huarango Mocho|PE||3o|-13f|-5ua|6
+El Huitchaca|MX||37|22o|-8gp|6|Huitchaca;Huichaca
+Huarapa|PE||3o|-r5|-5vp|6
+Humshaugh|GB||9b|48w|-5x|6
+Huska|DE||8r|3y2|13r|6|Gaußig
+Huntsville|US|Utah|2p|36m|-8mh|6
+Hundorp|NO||9j|4r0|rm|6
+Hukok|IL||6n|2jc|2qm|6|H̱uqoq;Ḥuqqoq
+Hundelgem|BE||8t|3xd|af|6
+Huimango 1ra. Sección (El Dren)|MX||41|1ec|-76r|6
+Huitrón|MX|Querétaro|41|1kl|-7qs|6
+Huanacastal|MX|Chiapas|41|18u|-78n|6
+Huisduinen|NL||8m|433|d5|6
+Hüttschlag|AT||a2|3n2|10r|6
+Hulbert|US||2f|2rt|-7ca|6
+Hurezu Mare|RO||8u|3nv|1rg|6|Hurezul-Mare
+Skage|NO||9j|4z3|wo|6|Hunn;Skaje
+Huaxtla|MX|Puebla|41|1j5|-7iu|6
+Hurtsboro|US||2f|2hk|-6la|6
+Huaylillas|PE||3o|-mr|-5yu|6|Huailillas
+Humes-Jorquenay|FR||9k|3p2|eo|6
+Hupperath|DE||8r|3uw|iz|6
+Huamantanga|PE||3o|-vy|-5x7|6|Huamantango
+Huancacarpa Alto|PE||3o|-e9|-64w|6
+Hub|AT||a2|3mz|16u|6
+Hudia|UA||98|3pn|1s9|6|Hudya;Gődényháza;Gudya
+Hunsdorf|LU||9c|3u2|h1|6|Hënsdref
+Huizotate|MX||41|1l7|-7ix|6
+Hüffler|DE||8r|3ti|ki|6
+Hundsheim|AT||a2|3po|1b2|6
+Huapaque 1ra. Sección (Huapacón)|MX||41|1db|-772|6
+Huitzotlaco|MX||41|1mg|-7la|6
+Huttoft|GB||9b|43z|r|6
+Huayo|PE||3o|-t5|-5w5|6
+Hunting|FR||9k|3ta|hl|6
+Humboldt|US|South Dakota|2f|3d9|-7hn|6
+Huayllahuara|PE||3o|-yh|-5su|6
+Huazalingo|MX|San Luis Potosí|41|1n0|-7ml|6
+Huia|NZ||ak|-2us|dgx|6
+Huamuchititán (El Huamuchito)|MX||41|1aj|-7mw|6
+Huaylas|PE||3o|-on|-60d|6|Huailas
+Hudaýberdi|TM||5x|32y|486|6|Khudayberdy
+Husarivka|UA|Kharkiv|98|3rs|2v7|6|Gusarovka
+Huzová|CZ||9m|3ue|1c2|6
+Huancaraylla|PE||3o|-124|-5pu|6
+Hulja|EE||9x|4kv|20t|6
+Hüven|DE||8r|42n|kz|6
+Huaca Rajada|PE||3o|-iw|-654|6
+Huambo|PE|Ayacucho|3o|-120|-5q3|6
+Hucqueliers|FR||9k|3wh|5b|6|Wicquiller
+Hulsel|NL||8m|3yr|ee|6
+Hüseyinler|TR||94|2th|2mm|6
+Huttig|US||2f|2js|-742|6
+Huehuetlán|MX||41|1nv|-7mx|6
+Humble|DK||8y|48b|tq|6|Humle
+Huangashanga|PE||3o|-j2|-61h|6
+Huapalegcan|MX||41|1jf|-7jb|6
+Hutton|GB||9b|45x|-17|6
+Huancas|PE|Apurímac Department|3o|-11g|-5nt|6
+Huacho|PE|Ancash|3o|-pv|-60j|6
+Huamanguilla|PE||3o|-133|-5u9|6
+Hucisko Nienadowskie|PL||a5|3uk|1qa|6|Hucisko Nienarowskie
+Hümmel|DE||8r|3w7|iu|6
+Hübingen|DE||8r|3vw|lt|6
+Hubske|UA||98|3v6|2j7|6|Gubskoye;Hubs’ke
+Huécija|ES||9d|2up|-79|6
+Huantán|PE||3o|-ym|-5ul|5
+Huiyán|PE||3o|-rd|-5v4|5
+Huanchán|PE||3o|-rm|-5wh|5
+Hunterstown|US||48|32s|-5yc|5
+Hvammstangi|IS||87|51o|-1m6|5|Hvammstanga;Húnaþing Vestra
+Huazalinguillo|MX||41|1mb|-7kx|5|Huauzalinguillo
+Hutsonville|US||2f|30n|-6ri|5
+Hollenfels|LU||9c|3u3|gt|5|Huelmes
+Huayana|PE||3o|-131|-5oh|5
+Huehuetepec|MX||41|1bz|-7lv|5
+Huixolotepec (Huitzolotepec)|MX||41|1c9|-7mr|5
+Huasca de Ocampo|MX||41|1k4|-7lu|5
+Huta-Kaminska|UA||98|3zb|1xk|5|Huta-Kamins’ka;Huta Kamieńska;Guta Kamen’ska;Guta-Kamins’ka
+Huaylla|PE||3o|-s7|-5vn|5
+Huancayoc|PE||3o|-qe|-5xw|5
+Huc|RO||8u|3m3|245|5
+Hunawihr|FR||9k|3pu|kb|5|Hunaweier
+Huambo|PE|Arequipa|3o|-17p|-5kb|5
+Huszlew|PL||a5|40u|1rf|5|Hušlevas;Husziew
+Hunchy|AU||8c|-224|bsr|5
+El Huisache|MX||41|1ro|-7qw|5|Huisache
+Huecas|ES||9d|335|-bo|5
+Huțani|RO||8u|3oj|21l|5|Huţan
+Huayllapampa|PE|Cajamarca Department|3o|-k2|-625|5
+Humphrey|US|Arkansas|2f|2nm|-72r|5
+Huseni|RO||8u|3n2|1rc|5
+Huaynamota|MX||3x|1ow|-82b|5
+Hüsametli|TR||94|2tu|2mw|5
+Huacoy|PE||3o|-wy|-5xx|5
+Huamanquiquia|PE||3o|-125|-5qb|5|Huamanquiqui
+Hudevycheve|UA||98|3mj|2d7|5
+Hudson|US|Indiana|38|37d|-6kc|5
+Huayllati|PE||3o|-12p|-5lc|5|Huaillati
+Hüttendorf|AT||a2|3qw|19y|5
+Hueynali|MX||41|1mr|-7li|5
+Huitzacotla|MX||41|1cs|-7mr|5
+Guapalayna|MX||2g|23i|-8bp|5|Huapalaina;Guapalaina
+Huehuetecpan|MX||41|1ho|-7hg|5|Huehuetepán
+Huapango|MX|México|41|1ji|-7ox|5
+Utelle|FR||9k|3e0|k5|5|Utèla;Hutellae;Uelhs
+Huitzitzilapan|MX||41|1iq|-7j2|5

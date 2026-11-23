@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beppu|JP||7q|2kg|a5a|y2|Bepu
+Bepleu|CI|Montagnes|0|jg|-md|e
+Bépleu|CI|Montagnes|0|j2|-mv|b

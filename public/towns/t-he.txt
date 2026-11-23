@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hefei|CN||7i|2gi|91s|211f|Che-fej;Hefėjus;Hợp Phì;Hefejo;Ha̍p-pûi-chhī;Hăk-bùi;Hofej;Hozfeiz;Hefej;Hefey;Ho-fei
+Hong Kong|HK||6i|1pw|8t5|1l2h|Hongkong;Victoria;Gon Kong;Hiŏng-gē̤ng;Honkongo;Heung Gong
+Aleppo|SY||69|2sk|2v8|g6u|Alepo;Alep;Heleb;Alepas;Halep;Ḩalab;Xalab;Aleppu;Haleba;Ḥaleb;Halapia;Aleppe
+Erbil|IQ||5z|2sj|3e9|cfz|Hewlêr;Arbil;Irbil;Hawler
+Heze|CN||7i|2pw|8wr|ae3|Che-ce;Hà Trạch;Hò̤-dĕk;Hâ-te̍k-chhī
+Heshan|CN|Hunan|7i|27d|8o3|9n6
+Hengyang|CN||7i|22p|8ou|8ar|Cheng-jang;Hengjang;Fên-yòng-sṳ;Hengjangas;Xéngyang shehiri;Hành Dương;Hèng-iòng;Hêng-iông-chhī;Heng-nan
+Hezhou|CN||7i|1vs|8lx|7rb|Hô̤-ciŭ;Che-čou;Fo-chû-sṳ;Hạ Châu;Hohcouh;Hō-chiu-chhī
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Hermosillo|MX|Sonora|37|28t|-8k9|69m|Pitic;Hermosiljas
+Xingtai|CN||7i|2uy|8u1|65w|Sing-tchaj;Sintaj;Hình Đài;Hìng-dài;Hêng-tâi-chhī;Hsing-t’ai;Singtai
+Hegang|CN||7i|3nj|a1x|5qh|Che-kang;Hạc Cương;Hŏk-gŏng;Ho̍k-kong-chhī
+General Santos|PH||71|gz|9np|5kl|Siyudad na Heneral Santos;Heneral Santos
+Helsinki|FI||92|4n5|1xa|531|Khel'sinki;Helsingfors;Helsinko;Helsinky;Helsingi;Heilsincí;Helsinqui;Helsingia;Helsínquia;Helsset;Xélsinki;Èlzinki;Hel'sinki;Helsėnkis;Elsinki;Stadi
+Hoji ya Henda|AO||x|-oh|10x|4yd
+Hebi|CN||7i|2r9|8th|4wb|Che-pi;Hạc Bích;Hŏk-biáh;Ho̍k-piah-chhī
+Herāt|AF||6o|2nf|4ss|4fj|Gerat
+Hengshui|CN||7i|2wu|8xc|411|Cheng-šuej;Hành Thủy;Hèng-cūi;Hêng-chúi-chhī
+Heroica Matamoros|MX||3w|1zw|-7iu|3xv|Matamoros
+Hecun|CN||7i|2th|8sz|3tc
+Heyuan|CN||7i|1tx|8uk|3kv|Che-jüan;Hò-ngièn-sṳ;Hà Nguyên;Hô-goân-chhī;Ò̤-nguòng;Ho-yüan
+Al Ḩasakah|SY||69|2te|357|39c|Hasaka;Al-Hasakah;Hasakah;Heseke;Hesîçe;Al-Hasaka;Hassaké;Haseke;Hasakeh;El Haseke;Al-Hasakeh
+Hechuan|CN||7i|2bb|876|2ws|Ho-ch’uan
+Hechi|CN||7i|1wl|8c8|2jp
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Henderson|US|Nevada|3p|2s4|-8ve|27d
+Haifa|IL||6n|2j5|2p8|279|Hajfo;Hajfa;Ḥeyfa;Hayfa;Lungsod ng Ḥefa;Aifa;Hepha;H̱efa;Heifā
+Gelsenkirchen|DE||8r|3z3|jq|230|Gelzenkirhene;Gelsenkiärken;Helzenkirxen;Gelzenkirchenas;Gelzenkirheni
+Wolverhampton|GB||9b|423|-5w|219|Vulverhemptona;Vulverhamptonas;Heantun;Wulfrunehantona;Vulverhempton
+Chemnitz|DE||8r|3x8|zx|1wo|Saská Kamenice;Chemnicium;Kamenica;Chemnicas;Hemnica;Kamjenica
+Ḩalwān|EG||c|2aw|2ey|1rw|Helwan;Hilwan;Ḩulwān
+Heihe|CN||7i|3vk|9u5|1q6|Chej-che;Hắc Hà;Háik-ò̤;Hek-hô-chhī;Hei-ho
+Jerez de la Frontera|ES||9d|2tx|-h2|1n5|Jerez;Ĥerezo;Xérès;Cheres de la Frontera;Xeresium;Xerez de la Frontera;Jarez de la Frontera
+Khūy|IR||7o|2z3|3gv|1j8|Khoy;Her;Khoi;Khowy;Khvoy
+Hetauda|NP||6r|247|6k7|1ig|Hetaura;Hetaunda
+Alcalá de Henares|ES||9d|34g|-9c|1hu|Cómpluto;Complutum;Alkala de Henaresas
+Hepu|CN||7i|1o6|8fc|1hk|Ho-p’u
+Ciudad de Las Heras|AR||1q|-2j9|-5b8|1gj
+St Helens|GB||9b|44h|-7l|1ew|St. Helens
+Herne|DE||8r|3z6|k3|1bt

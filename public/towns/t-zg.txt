@@ -1,0 +1,33 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zgierz|PL||a5|402|1hx|g4|Zgeža;Zgežas
+Görlitz|DE||8r|3y4|15n|g2|Zhořelec;Gorlicium Germaniae;Zhorjelc;Zgórjelc;Giorlicas;Gerlica;Goerlitz
+Zgorzelec|PL||a5|3y3|15p|98|Zgoželeca;Zgoželecas;Zgorzelice
+Zgorzelisko|PL||a5|3y2|1bl|3c
+Oberwart|AT||a2|3nd|191|21|Felsőőr;Gornja Borta;Owawart;Zgornja Borta
+Zhurivka|UA||98|3wa|2ga|1d|Shuriwka;Zgurovka;Zhourivka;Zgurivka;Zhuriwka;Zghurivka
+Rzgów|PL||a5|3zi|1i5|y|Žgova
+Vecrīga|LV||9n|4e7|1uy|l|Historisch centrum van Riga;Riian vanhakaupunki;Stara Riga;Vecryga;Stare miasto;Centro Histórico de Riga;Centre historique de Riga;Riga óvárosa;Zgodovinsko središče Rige;Città vecchia di Riga;Vecpilsēta;Vekriqa
+Zgornji Duplek|SI||9a|3l7|17o|i
+Zgłobień|PL||a5|3ux|1op|f
+Zgornje Bitnje|SI||9a|3ke|13u|f
+Zgornje Pirniče|SI||9a|3k6|143|d|Oberpirnitsch
+Zgornja Polskava|SI||9a|3kz|17d|c
+Zhar|UA||98|3tx|2h6|a|Zghar
+Zgornje Škofije|SI||9a|3il|12c|9|Scoffie di Sopra
+Zgornje Poljčane|SI||9a|3km|17a|9
+Zgornja Hajdina|SI||9a|3kx|180|9
+Zgornja Velka|SI||9a|3lo|17t|8
+Zgornja Besnica|SI||9a|3kj|13o|8
+Zgornji Brnik|SI||9a|3kg|148|7|Zgornji Brnjik
+Zgornje Hoče|SI||9a|3l5|17e|7
+Zgërbonjë|AL||9y|34r|1jt|7|Zgërbonja
+Zgripcești|RO||8u|3gu|1xo|6|Sgripceşti;Zgripteşti
+Zgornja Voličina|SI||9a|3l9|17u|6
+Oberpetersdorf|AT||a2|3oa|19i|6|Gornji Peterštof;Felsőpéterfa;Zgornji Peterštof
+Zgornje Partinje|SI||9a|3lg|17s|6
+Zgornje Jezersko|SI||9a|3kv|14b|6
+Zgornja Bistrica|SI||9a|3kw|176|6
+Zgornja Kungota|SI||9a|3lk|17d|5
+Zgornja Ščavnica|SI||9a|3lm|180|5
+Zgornje Duplje|SI||9a|3kn|13p|5
+Zgornje Gorje|SI||9a|3ku|133|5

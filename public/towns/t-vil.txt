@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Paris|FR||9k|3rp|6j|gi2|Lutèce;Ville-Lumière;Parizo;Parys;Paříž;Baris;Pariis;Pariisi;Páras;Párizs;Parigi;Paräis;Paries;Paryžius;Parīze;Parijs;Paryż;Pariggi;Pari;Paname;Pantruche;Paarys;Pa-ri;Parij;Parixe;Palika;Parighji;Baariis;Lutetia;Parigge;Bahliz;Pariižu
+Villa Nueva|GT||32|14d|-6zn|4rs|Vilja Nueva
+Vilnius|LT||a3|47x|1y8|46o|Wilna;Vilno;Vilna;Wilno;Vilnüs;Vilnis;IVilnyusi;Wilñus;Vilnjûs;Vilnias;Wilnius;Vilniaus miestas;Vil'nyus;Vil'no;Vilnia
+Vũng Tàu|VN||6h|sr|89g|3l5|Cap-Saint-Jacques;Saint James;Ville du Cap;Cape Saint James;St. James
+Al Hoceïma|MA||d|2px|-ay|31w|Villa Alhucemas;Villa Sanjurjo;Alhucemas;Al-Husajma;Al-Hoceima;Alhacemas;Al Ḩusaymāt;Al Huceima
+Vila Velha|BR||4w|-1kh|-33x|31p|Vila Velja
+Tete|MZ||11|-18w|2lb|2r6|Vila-de-Santiago-Maior
+Villahermosa|MX|Tabasco|3z|1dz|-766|2q8|Villa Hermosa;Cualnezcaltepec;Viljahermosa
+Villavicencio|CO||27|bh|-5oj|2hd|Viljavisensijas
+Villa Nicolás Romero|MX||41|1ij|-7nw|26a|Ciudad Nicolás Romero
+Vila Flor|AO||x|-oy|10z|1z5
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Gurúè|MZ||11|-16z|2uq|1ay|Vila Junqueiro;Gurujė
+Vila Andrade|BR||4w|-1tn|-3lt|1av
+Villa Canales|GT||32|148|-6zh|176|Villa Anales
+Villeray–Saint-Michel–Parc-Extension|CA||59|3ik|-5oh|148
+Vila Curuca|BR||4w|-1tb|-3ky|133
+Vila Jacui|BR||4w|-1ta|-3l2|11a
+Villa Mercedes|CL||4u|-2vw|-5jy|10n
+Villeurbanne|FR||9k|3j5|dk|10i|Vilerbanas;Vilerbāna
+Vila Mariana|BR||4w|-1tj|-3lj|zd
+Villaverde|ES||9d|343|-aa|z8
+Vilkhivskyi|UA||98|3qu|314|z3|Artemivskyi rayon;Artemivskyi
+Willemstad|CW||2l|xo|-5bd|yq|Vilemstadas;Willemstêd;Vilemstado;Villemştad;Vilemstade
+Ciudad de Villa de Álvarez|MX||41|1hj|-806|wo
+Vila Medeiros|BR||4w|-1t9|-3le|vw
+Villa Lugano|AR||1l|-2oc|-4if|vo|Vilja Luganas
+Beau Bassin-Rose Hill|MU||ag|-1k7|4fn|uy|Villes sœurs;Bo Bassin-Roze Kholmi
+Perpignan|FR||9k|3am|82|ur|Perpinyà;Perpiñán;Perpinhan;Perpinhã;Villa Perpiniarum;Perpinyà la Catalana;Perpinianum;Perpinjano;Perpinyán;Perpiņāna;Perpinia;Perpinjanas
+Vilhena|BR||4l|-ze|-4n3|uh
+Vila Maria|BR|São Paulo|4w|-1tb|-3lf|u5|Villa Maria
+Dakhla|EH||k|1ts|-18c|tj|Villa Cisneros;Dajla;Villa Cisneras
+Vila Prudente|BR||4w|-1tj|-3ld|tc
+Ville-Marie|CA|Quebec|59|3ie|-5od|t5
+Vila Matilde|BR||4w|-1te|-3l8|ss
+Villa de Cura|VE||2c|rw|-57h|rp
+Villupuram|IN||6t|x6|64t|r2|Villapurum
+Villa Alemana|CL||4u|-2jt|-5i9|r1
+Villa Mercedes|AR|San Luis|1u|-2lk|-51u|qw|Vilja Mersedesas
+Villa María|AR||1n|-2i1|-4vo|pp|Vilja Marija

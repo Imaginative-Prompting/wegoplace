@@ -1,0 +1,44 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Erzurum|TR||94|32v|36o|5xa|Erzîrom;Arzirum;Erzéroum;Erzerum;Erzirum
+Erzincan|TR||94|32e|31p|15v|Erzindjan;Ezirgan;Erzincam;Erzıngan;Erzindžanas;Erzinjan;Erzincã;Arzanjan;Ersingan;Ersingjan;Ersindjan
+Arzamas|RU||9i|49w|3ds|uf|Arsamas;Arsamassium
+Arzew|DZ||3|2rl|-w|g6|Saint-Leu;Arzeu;Arzen
+Arzano|IT||9o|35n|13n|9p
+Asilah|MA||d|2qj|-gr|9g|Arcila;Colonia Augusti Iulia Constantia Zilil;Augusta Zilil;Assilah;Arzila;Assila;Asila;Arzīlah;Arcilas;Arsila
+Riccione|IT||9o|3e8|z6|93|Arzö
+Arzignano|IT||9o|3ig|vh|5w
+Wachtberg|DE||8r|3wn|jq|5k|Arzdorf
+Argentan|FR||9k|3re|-2|52|Aržantāna
+Arzgir|RU||9i|3i1|3eu|4e|Arsgir
+Arzl|AT||a2|3nc|vr|33
+Aerzen|DE||8r|40l|pq|30|Arzen
+Orzū’īyeh|IR||7o|271|4ck|1x|Arzū’īyeh;Ozū’īyeh
+Arzúa|ES||9d|3b9|-mn|1u
+Arzachena|IT||9o|364|q3|1q
+Arzberg|DE|Bavaria|8r|3v2|xv|1p
+Arzni|AM||80|33y|3fw|y
+Arthon-en-Retz|FR||9k|3mw|-5e|t|Arzhon-Raez
+Arzakan|AM||80|34d|3fx|q|Arzakyand
+Arzago d'Adda|IT||9o|3ic|qk|q
+Arzergrande|IT||9o|3hr|xh|p
+Arzana|IT||9o|32w|qh|p
+Arzberg|DE|Saxony|8r|3z5|10h|n
+Arzon|FR||9k|3o3|-82|m|Arzhon-Rewiz;Arzo
+Arzier|CH||a7|3l2|h9|j
+Arzl im Pitztal|AT||a2|3n5|tw|j
+Arzbach|DE||8r|3vy|lj|j
+Arzano|FR||9k|3p2|-9k|e|An Arzhanaou
+Arzfeld|DE||8r|3v5|hf|d
+Arzene|IT||9o|3js|zp|d|Darzin
+Arzo|CH||a7|3jg|ou|c
+Arzanaq|IR||7o|2xj|3n6|b
+Arzens|FR||9k|3c0|65|b
+Arzacq-Arraziguet|FR||9k|3cy|-15|a|Arsac;Arsac e Arrasiguet;Arzacq-Arraziquet
+Arzal|FR||9k|3o0|-6m|a|Arzhal
+Arzerello|IT||9o|3hr|xf|9
+Harzhis|AM||80|31j|3ke|7|Hardzis;Garzhis;Arzhis
+Arzberg|AT|Upper Austria|a2|3p1|148|6
+Arzona-Pizzinni|IT||9o|2zb|18l|6
+Arzercavalli|IT||9o|3ho|x6|6
+Arzviller|FR||9k|3rc|jx|5|Arzwiller;Arzchviller
+Arzberg|AT|Styria|a2|3n9|174|5

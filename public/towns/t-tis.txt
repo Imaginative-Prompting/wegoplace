@@ -1,0 +1,92 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jixi|CN||7i|3ht|a3s|346|Dzisi;Kê Tây;Ťi-si;Giĕ-să̤;Ke-se-chhī;Kisi
+Tissemsilt|DZ||3|2qx|51|id|Tissemsil
+T’īs Isat|ET||2|vw|2we|aw
+Juneau|US|Alaska|3j|4hy|-ade|8s|Džūno;Iunellum;Džunas;Cuno;Džuns;Tisaantikii Hiinii;Dzhunou
+Tisaiyanvilai|IN||6t|n6|60b|6l|Thisayanvilai
+Tiszaújváros|HU||8v|3p5|1mk|4t
+Tiszavasvári|HU||8v|3p9|1nb|3s
+Thisted|DK||8y|4e8|o5|3r|Tisted
+Tissa|MA||d|2n9|-cy|3e
+Tiszaföldvár|HU||8v|3mi|1k9|3b
+Tiszakécske|HU||8v|3md|1ju|39
+Tiszafüred|HU||8v|3oa|1lp|31|Tiszafiired
+Tišnov|CZ||9m|3t3|19m|2l|Tischnowitz
+Tisul’|RU||74|4aw|6tb|2k|Tisul;Tissul;Tyiszul
+Latisana|IT||9o|3j5|105|2h|Tisane;Latisane
+Tismana|RO||8u|3h5|1rt|26
+Ţīs|IR||7o|1yg|4oe|1r|Tīz
+Tiszalök|HU||8v|3pe|1ne|1p
+Bačko Gradište|RS||8q|3ih|1jn|1m|Földvár;Tisza-Földvár;Bácsföldvár
+Tiszalúc|HU||8v|3pg|1mj|1k
+Tiztoutine|MA||d|2p5|-8r|1g|Tistoutine
+Tisma|NI||3s|xk|-6my|1g
+Tichigan|US||2f|3az|-6t0|1f|Tishagan;Tishigan;Tischigan
+Tiszaalpár|HU||8v|3m1|1jk|1f
+Tiszacsege|HU||8v|3oi|1mc|1e
+Tisaulī|IN||6t|23y|63j|16
+Tisovec|SK||8s|3r8|1je|10|Tiszolc;Tiszolcz
+Tysovets|UA||98|3pt|1zy|10|Tișăuți
+Tishchenskoye|RU||9i|3ia|37r|y|Tisjtsjenskoje;Gishchenskoye
+Tisselt|BE||8t|3xr|c4|y|Thisselt
+Ostojićevo|RS||8q|3jh|1k1|y|Sankt Nikolaus an der Theiss;Tiszaszentmiklós;Ostrojćevo;Ostojćevo;Tisa Sent Mikloš
+Tyshkivka|UA||98|3qq|2dy|y|Tishkovka
+Tiszadob|HU||8v|3pe|1mt|x
+Bohdan|UA||98|3pg|1vm|w|Tiszabogdány;Bogdan
+Vylok|UA||98|3pn|1rg|v|Tiszaújlak;Uileacu Tisei
+Tishomingo|US||2f|2n4|-7gk|v
+Kryva|UA|Zakarpattia|98|3pt|1sk|t|Nagykirva;Tiszakirva;Kriva
+Tisdale|CA||4q|42t|-811|t
+Tiszaeszlár|HU||8v|3ph|1nn|t
+Tiszabura|HU||8v|3nt|1kv|r
+Tiszakeszi|HU||8v|3oq|1mc|r
+Tišice|CZ||9m|3vn|14f|q
+Tiszanána|HU||8v|3o5|1l1|q
+Tiszakarád|HU||8v|3pw|1oc|p
+Tiszadada|HU||8v|3pf|1n1|p
+Tiszaszentimre|HU||8v|3nw|1ll|n
+Tisztviselőtelep|HU||8v|3nw|1h2|n
+Bobovo|UA||98|3pj|1rm|m|Tiszabökény;Bobove
+Tisbury|GB||9b|3xu|-5s|m
+Tissi|IT||9o|350|ns|l
+Tyszowce|PL||a5|3wm|1tu|l|Tišovce;Typzowce
+Tiszapüspöki|HU||8v|3n6|1kg|l
+Pyiterfolvo|UA||98|3pj|1ro|l|Tiszapéterfalva;Pyyterfolvo;Piyterfolvo
+Tiszabezdéd|HU||8v|3qd|1pj|l
+Tiszabercel|HU||8v|3pr|1o5|k
+Tiszanagyfalu|HU||8v|3pl|1nn|k
+Tiszabő|HU||8v|3ne|1kw|k
+Tiszaszőlős|HU||8v|3o4|1lk|j
+Cieszanów|PL||a5|3vl|1s9|j|Tishaniv;Cešanova
+Tiszaroff|HU||8v|3no|1kt|j
+Nove Selo|UA|Zakarpattia|98|3po|1rl|h|Tiszaújhely;Novoye Selo
+Tiszasüly|HU||8v|3nm|1ko|h
+Cisownica|PL||a5|3u4|1g4|h|Tisovnice
+Tiskre|EE||9x|4l3|1wa|g
+Tîchît|MR||19|1f8|-qd|g|Tishit
+Solomonovo|UA||98|3qj|1pk|f|Tiszasalamon;Solomonowo;Šalamúnová;Solomonove
+Tistrup|DK||8y|4as|nx|e
+Ticineto|IT||9o|3ha|nr|d|Tisnèis
+Tisvilde|DK||8y|4bq|xm|d
+Tisa|RO|Maramureş|8u|3p7|1uk|d
+Kvasy|UA||98|3ps|1vg|c|Tiszaborkút;Kvasi
+Tisno|HR||a6|3do|17g|c
+Tiszabecs|HU||8v|3pm|1re|b
+Tísek|CZ||9m|3ub|1e1|a
+Tissongnénin|CI||0|j0|-kl|a
+Tissié|CI||0|mb|-7g|9
+Choma|UA||98|3pq|1qv|9|Tiszacsoma
+Tiste|DE||8r|441|qh|9
+Tiszaug|HU||8v|3m6|1jp|9
+Tisa-Silvestri|RO||8u|3ll|23e|9|Tisa-Silveşti;Tisa Silivestri
+Tysaashvan|UA||98|3qi|1pt|9|Mineral’noye;Tysaasjvan;Tyssaaschwan;Tisaaŝvanj;Tiszaásvány;Tysaašvaň;Tysaaszwań;Tîsaașvan
+Tisa|RO|Prahova|8u|3hd|215|8
+Tișăuți|RO||8u|3oa|213|8
+Tiskilwa|US||2f|36p|-6wn|8
+Tisá|CZ||9m|3x2|12z|7
+Tisău|RO||8u|3hh|21o|7
+Tysaahtelek|UA||98|3qk|1q1|7|Agovo;Ágtelek;Tiszaágtelek;Tysyanka
+Tesimo|IT||9o|3ld|v1|6|Tisens;Tesenum
+Tismice|CZ||9m|3v2|156|6
+Tīskūpān|IR||7o|1yc|4os|5|Tiazkupān
+Tissélé-Noumousso|CI||0|n4|-cm|5

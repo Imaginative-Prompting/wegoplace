@@ -1,0 +1,351 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Rio de Janeiro|BR||4w|-1rn|-3by|1g2e|Rio-de-Ĵanejro;Rio de Žaneiras;Urbs Fluminensis;Riodežaneiro;Rio-de-Janeyro;Rio de Janeiru;rios. dis. djaneiros;Riviéthe dé Janvyi;Rio dé Janéyro;Rio-de-Žaneýro;Rio de Zhaneiro;Riu de Janeiru;Rio-de-Žaneiro;Rio de Janêro;Rio dė Žaneiros;Riu de Janeiro;Rio-de-janeiro;Rio d Janeiro
+Ürümqi|CN||7t|3do|6rc|va4|Urumchi;Urumtschi;Urumĉio;Urumczi;Urumči;Ürümcsi;Urumčis;Ürümchi-sṳ;Öremçe;Dihua;Oʻrumchi;Urunchi;Dikhua;Wurumch’ih;Urumptsi;Urumtsi;Urumutsi;Ti-hua
+Belo Horizonte|BR||4w|-1jc|-3e2|l00|Bel-Horizonto;Bhte;Belo Hte;B.H.;Urbs Pulchri Horizontis;Belu Orizonti;Belu-Orizonti;Bello Horizonte
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Montevideo|UY||45|-2oy|-4c3|9sz|Montevidėjas;Montevidéu;Muntividèu;Muntividëw;Urbs Montis Videi;Montevidiejos
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Rosario|AR||1n|-2jj|-4og|7bf|Rosarijas;Rozarîyo;Urbs Rosariensis
+Ulan Bator|MN||7s|3p3|88w|6io|Ulaanbaatar;Oulan-Bator;Ulánbátar;Ulaanbaataro;Ulánbátor;Ulã Bator;Ulan Batur;Ulaan Baatar;Ulaanbaator;Ulaanbaatur;Uranbatoru
+Freetown|SL||l|nl|-10s|66y|Fritaŭno;Fritaunas;Fritonn;Urbs Libera;Fritaun;Frītauna
+Orūmīyeh|IR||7o|2wb|3h8|4gd|Urmía;Urmiya;Ûrmiye;Ourmia;Urmija;Urūmiyeh;Orumieh
+San Salvador|SV||2u|121|-6vr|424|Salvador;San-Salvador;San Salwador;San-Salvadoro;Urbs Sancti Salvatoris;Sansalvadora;San Salvadò
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Santos|BR||4w|-1uk|-3kp|38a|Baixada Santista;Urbs Sanctorum;Santusa
+San José|CR|San José|2i|rl|-6hk|2l2|San-Joseo;San Chosė;San Jusiy;San Jozé;San Xosé;San-Xose;Sanhosē;Urbs Sancti Iosephi in Costarica;San Hose
+Oral|KZ||77|3yd|3yv|2jo|Ural’sk;Uralsk;Oural;Oʻral
+Saint Paul|US|Minnesota|2f|3gu|-76l|2c8|St. Paul;Urbs Sancti Pauli de Minnesota;Sent Polas;San Pablo;Sentpola;Sint-Paul;Sent Pol;Sent Pols;Sint Pol
+Uruapan|MX|Michoacán|41|1hy|-7vi|2b7
+St. Louis|US||2f|2zb|-6yk|25p|San Luis;Saint Louis;Saint-Louis;Sankta Luiso;St Louis;Sent-Luis;Sent Luisas;Sentluisa;Urbs Sancti Ludovici;Sent Loisos;Sint-Louis;Saint Louis City;Saint Lewis
+São Carlos|BR|São Paulo|4w|-1p6|-3p1|220|Urbs Carlopolitana;San Karlosas
+San Fernando|PH|Central Luzon|71|15r|9b8|1xs|Santo Rosario;Urbs Sancti Ferdinandi
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Oruro|BO||3n|-1dx|-56d|1lz|Ururu;Oruras;Uru Uru;Gruro
+Hurghada|EG||c|23q|2lx|1lj|Hurgada;Gurdaka;Urgada
+La Plata|AR||1l|-2p0|-4gz|1ia|Urbs Platensis;La-Plata;Laplata;La Plat
+Kamensk-Ural’skiy|RU||7z|4cp|4s1|1ep|Kamensk-Uralsky;Kamensk-Uralskij;Kamensk-Uralski;Kamensk-Uraljski
+Urayasu|JP||7q|2r2|asm|1bm|Urajasu
+Ursynów|PL||a5|40v|1mh|15m
+Urdaneta|PH||71|18e|9ax|14j
+Urganch|UZ||7g|37f|4of|14a|Urgench;Ourguentch;Urgentj;Ürgenç;Yrgench
+Trois-Rivières|CA||59|3kr|-5lj|145|Trua Rivjeras;Urbs Trifluvianensis
+Uruma|JP||7q|21a|9v6|yt
+Uruguaiana|BR||4w|-2an|-4el|xk|Urugvajana;Uruguayana
+Urasoe|JP||7q|20y|9ut|w5
+Uromi|NG||u|im|hl|u6
+Ourinhos|BR||4w|-1ru|-3uj|sw|Urbs Parvauratana
+Arujá|BR||4w|-1t0|-3ko|pc|Urujá
+Saint John|CA||43|3hr|-53i|jy|Saint-Jean;Urbs Sancti Ioannis Canadensis
+Urun-Islāmpur|IN||6t|1bd|5qb|iq
+Urgut Shahri|UZ||7g|31i|56u|i5
+Urla|TR||94|2yg|22c|hi
+Ferizaj|XK||8q|39p|1ms|gj|Ferezaj;Uroševac
+Ureña|VE||2c|m0|-5l8|fp
+Uritsk|RU||9i|4m8|2bu|fa
+São Tomé|ST||1c|y|ip|et|Santo Tomé;Sao-Tomeo;San-Tome;Svätý Tomáš;Söo Tomé;San Tomė;Urbs Sancti Thomae;Santome;San Tomas;Saint Anna de Chaves;Sào Thomé
+Uriangato|MX||41|1jy|-7t2|ea
+Ursus|PL||a5|410|1m0|d5
+Urbandale|US||2f|37n|-78b|c9
+Uruará|BR||4t|-ac|-45a|c4
+Urbana|US|Illinois|2f|33f|-6t1|br
+Urmston|GB||9b|44h|-6j|bl
+Uryupinsk|RU||a4|3x5|38p|bk|Urjupinsk;Vrjupinsk
+Urus-Martan|RU||9i|3bt|3ii|bj|Ourous-Martan;Oeroes-Martan;Ẋalxa-Marta;Urus Martan
+Uruaçu|BR||4w|-14c|-3si|bc|Uruçu
+Uray|RU||7z|4n1|4zz|b3|Urai
+Uravakonda|IN||6t|15i|5yl|9w
+Urbano Santos|BR||2w|-8x|-3ck|9b
+La Oroya|PE||3o|-w0|-5uu|99|Uruya;La Oroja;Uruya llaqta
+Castro-Urdiales|ES||9d|3ci|-8y|8w|Castro Urdiales;Urdialaitz
+Urambo|TZ||h|-e3|2h1|8u
+Uran|IN||6t|1gg|5mm|8g
+Urakam|IN|Kerala|6t|up|5v3|84
+Paris 04 Hôtel-de-Ville|FR||9k|3rq|6j|7l|Urbdomo de Parizo
+Urachiche|VE||2c|s8|-5bp|7g
+Ureshinomachi-shimojuku|JP||7q|2jz|a14|76
+Urucurituba|BR||3t|-8p|-4hk|74
+Urmar|IN||6t|2g0|5u4|6i
+Urunda|TZ||h|-o1|2na|6e
+Urk|NL||8m|42a|fk|66
+Ortigueira|BR||4w|-1v9|-3xj|64|Urtigueira;Ortigeira
+Uruçuí|BR||2w|-k3|-3fs|61
+Urussanga|BR||4w|-278|-3t0|5t|Uruçanga
+Uruçuca|BR||20|-14j|-314|5o|Uryçuca
+Uruburetama|BR||2w|-a2|-31r|5m
+Urrao|CO||27|hk|-5vh|58
+Vura|SB||av|-q8|ccf|58|Wura;Ura
+Urucuia|BR||4w|-18t|-3j2|4v
+Urziceni|RO|Ialomița County|8u|3g8|21z|4o
+Ürgüp|TR||94|2zb|2oz|4m
+Uliastay|MN||6j|3om|7h0|4j|Uliastai;Uliyasutai;Oulia-Sontai;Javkhlant;Uliystoy;Uliasutay;Javhlant;Jawkhlant;Uliassutai;Uliyassutai;Uljasutai;Ulyasutay;Uriyasutai;Wu-li-ya-su-t’ai;Wu-lu-ya-su-t’ai
+Urucará|BR||3t|-72|-4gg|4h
+Urandi|BR||20|-151|-3ah|4a|Urandy
+Ovruch|UA||98|3yl|280|49|Ovroutch;Ovruč;Ovrutš;Ovrutsj;Owrucz;Zbruchyi;Vruchay;Beruchiy;Vruchev;Uruchiy;Owrutsch;Ovruci;Ovroetsj;Oŭruč;Aŭruč;Owruč;Ovrutj;Ovruča;Ovručas;Ovrucs;Vruchy
+Urzhar|KZ||5s|3mt|6ar|44|Uryzhar;Urdzhar
+Ŭrtaowul|UZ||7m|36f|5c3|3w|Urtaaul;Oʻrtaovul
+Uruobo-Okija|NG||u|ge|j0|3v
+Uruoca|BR||2w|-97|-34o|3t
+Urupês|BR||4w|-1mw|-3sx|3t
+Uruana|BR||4w|-172|-3u0|3t
+Uruzgān|AF||6o|2jh|553|3q|Orūzgān
+Urakam|IN|Kerala|6t|sz|5vq|3n|Urakom
+Florida City|US||48|1yp|-67k|3n|Urbo Florido
+Urakawa|JP||7q|394|b0m|3k
+Urbiztondo|PH||71|17y|9a9|3j|Urbistondo
+Vriezenveen|NL||8m|41l|ie|3f|Uriezenveen
+Uren’|RU||9i|4fm|3j7|3f|Uren
+Estación Manuel|MX||44|1r5|-7l4|3d|Úrsulo Galván
+La Seu d'Urgell|ES||9d|39o|42|3c|Orgellum;Orgellis civitas;Urgellum;Urgelitana sedes;La Seo de Urgel;Seo de Urgel;La Seu de Urgell;La Seo d'Urgel;Urgell
+Urlaţi|RO||8u|3gy|20v|3a
+Urbana|US|Ohio|48|33f|-6gn|37|Urbanna;Urban
+Urzhum|RU||97|4en|3uw|35|Urzjum
+Urussu|RU||9i|47o|44i|35|Urusu;Urusszu;Urıssu
+Uraí|BR||4w|-1sg|-3x4|35
+Hirson|FR||9k|3uo|bc|33|Urchon
+Suyo|PH||71|1b6|9at|31|Uzzadan;Urzadan
+Urubici|BR||4w|-25t|-3tr|30|Urubuci;Urubicy
+Urangan|AU||8c|-1y9|bsr|30
+Urupá|BR||4l|-ux|-4t9|2z|Uropá
+Urucânia|BR||4w|-1kj|-3aq|2y
+Uricani|RO|Hunedoara County|8u|3hy|1sb|2r
+Uri|IN||6t|2mp|5pn|2m
+Urengoy|RU||7z|539|61p|2m|Urengoj;Urengoi
+Urdorf|CH||a7|3nn|nf|2k
+Urbana|US|Maryland|48|319|-5yv|2k
+Urânia|BR||4w|-1k9|-3wo|2g
+Urireo|MX||41|1k5|-7s4|2f
+Urbach|DE|Baden-Wurttemberg|8r|3rm|qm|2e
+Urumita|CO||27|tc|-5mt|2d|Uramita
+Urdinarrain|AR||1n|-2it|-4jl|28
+Urgnano|IT||9o|3io|qx|27
+Urrugne|FR||9k|3cg|-4q|24|Urruña;Urrunha
+Urubamba|PE||3o|-10y|-5kc|23
+Uribia|CO||27|wk|-5kr|23
+Ura Vajgurore|AL||9y|359|1j8|20|Urë Vajgurore;Urë-Vajgurore;Ura-Vaygurore
+Labrador City|CA||2y|433|-55v|20|Urbs Estotilandiensis
+Ocean City|US|Maryland|48|2yi|-5sk|1z|Urbs Oceana
+Urraween|AU||8c|-1ya|bsi|1y
+Urazovo|RU||9i|3v4|2xo|1y|Urasowo;Urazowo;Urazova;Urazov
+Ural’skiy|RU||7z|4gx|4ab|1u|Uralskij
+Urmary|RU||9i|4ao|3p6|1r|Urmari;Urmarõ
+Urbino|IT||9o|3dh|z4|1n|Urbin;Urbinu;Urvinum Mataurense
+Urecheşti|RO|Vrancea|8u|3io|237|1n
+Urnieta|ES||9d|3c5|-5j|1m
+Urkarakh|RU||9i|394|3ob|1j
+Urbania|IT||9o|3db|ys|1j
+Urvan’|RU||9i|3ct|3dk|1j|Urvan
+Urcos|PE||3o|-121|-5iy|1j
+Urgeses|PT||99|373|-n2|1j
+Uhrichsville|US||48|347|-69z|1i|Uhrichs Mill;Uhricksville;Urichsville
+Úrsulo Galván|MX|Veracruz|41|1hx|-7fo|1h
+Urtenen|CH||a7|3mn|ku|1h
+Uryv-Pokrovka|RU||9i|3y0|30s|1f|Uryv;Uryv-Pokovka
+Urb. Santo Domingo|PE||3o|-x0|-5xz|1e
+Urt|MN||7s|3c3|7sp|1e
+Urimāri|IN||6t|1tv|6ky|1d
+Ureterp|NL||8m|43h|h5|1d|Oerterp
+Üröm|HU||8v|3o8|1gu|1c
+Urjanagar|IN||6t|1jj|64a|1b
+Urshel’skiy|RU||9i|4ao|33q|1b|Ursjelskij;Urshetskiy
+Urica|VE||2c|qz|-4xt|19
+Urjala|FI||92|4po|1td|19
+Urdoma|RU||9i|4rj|3qu|19
+Urukh|RU||9i|3c9|3eb|18
+Ortisei|IT||9o|3le|wf|17|St. Ulrich in Gröden;Urtijëi;Urticetum;St. Ulrich im Grödnertal
+Urusha|RU||7x|465|9hc|17|Urusja
+Urozhaynoye|RU||9i|3gf|3gs|16|Urozjajnoje
+Urduña / Orduña|ES||9d|3bf|-8d|15|Orduña;Urduña
+Urecheni|RO||8u|3n1|21o|14
+Urasa|JP||7q|2v9|apw|14
+Urecheşti|RO|Bacău County|8u|3k5|238|14
+Ursviken|SE||9w|4zr|1mt|13|Ursvik
+Ures municipality|MX||37|29r|-8in|13|Opština Ures;Heroica Ciudad de Ures
+Ursensollen|DE||8r|3t8|wo|11
+Urundel|AR||1s|-1tg|-4yw|10
+Ursberg|DE||8r|3q2|t1|10
+Uriu|RO||8u|3n4|1ut|10|Uri
+Sarnaghbyur|AM||80|34k|3dz|10|Urnut;Sogyutlu;Sarnaxbyur;Gyodikendi;Sogutli;Kirmizkilisa
+Urmond|NL||8m|3xn|g1|10|Uermend;Werment
+Urutaí|BR||4w|-1ci|-3pw|10
+Urma|RU||9i|3a6|3nd|z
+Urago d'Oglio|IT||9o|3ig|rf|z
+Orozbekovo|KG||65|33a|5j3|z|O‘rozbekovo;Orozbekov;Urazbekovo
+Urmitz|DE||8r|3w2|kw|z
+Urozhaynoye|UA|Crimea|9t|3h5|2mu|y|Čujunču
+Urechcha|BY||9g|433|25h|x|Urech’ye
+Uruana de Minas|BR||4w|-18m|-3kh|x
+Urubichá|BO||3n|-16r|-4uv|x|Uruvicho;Urubichi;Uribicha
+Urtsadzor|AM||80|32w|3gj|x|Urts’adzor;Urcadzor
+Urdari|RO||8u|3gg|1sq|w
+Urbar|DE|Rheinland-Pfalz|8r|3vy|l7|w
+Urda|ES||9d|31h|-ab|v
+Urzicuţa|RO||8u|3ea|1tf|v
+Urunga|AU||8l|-2cq|bt1|v
+Ursem|NL||8m|427|dl|u
+Uri|IT||9o|34w|nl|u
+Urzuf|UA||98|3mb|2v2|t|Ursuf;Ourzouf
+‘Ūrīf|PS||6g|2hc|2pu|t
+Ursel|BE||8t|3y1|9p|s
+Uras|IT||9o|32a|o6|s
+Orsières|CH||a7|3jv|ju|r|Ursiores
+Úri|HU||8v|3np|1i9|r
+Uralla|AU||8l|-2d4|bou|r
+Urupema|BR||4w|-25n|-3uj|r
+Urleta|RO||8u|3h9|1zn|q
+Uruétaro|MX|Michoacán|41|1iz|-7st|q
+Ururi|IT||9o|386|15q|q|Ruri
+Orotukan|RU||6z|4sy|bpb|q|Urutukan
+Uryū|JP||7q|3d8|ay5|p
+Urman|RU||7z|48g|4dz|p
+Uralo-Kavkaz|UA||98|3q8|32k|p
+Huriel|FR||9k|3kt|6w|o|Uriac;Uriat
+Tavullia|IT||9o|3dy|zf|n|Tumba Pisaurensium;Tavułia;Urbania
+Urville-Nacqueville|FR||9k|3tz|-4u|n
+Avellaneda|ES||9d|3c3|-8s|n|Urrestieta
+Urnäsch|CH||a7|3ng|ps|n
+Uramita|CO||27|j6|-5vl|n
+Ura|BT||7p|246|70k|n
+Urmeniş|RO||8u|3lx|1vp|n
+Úrkút|HU||8v|3mt|1d0|m
+Labaroche|FR||9k|3pn|jz|l|Urbach;La Broche
+Despotovo|RS||8q|3ia|1i9|l|Úrszentiván
+Uritai|PG||bd|-mt|b9y|l
+Ural|RU||6u|4bb|7b7|l
+Urcuit|FR||9k|3ct|-3q|j|Urketa;Urcueit
+Urazovka|RU||9i|49w|3iq|j
+Vysotsk|RU||9i|4of|27d|j|Uuras;Wyssozk;Vyssotsk;Vysock;Vısotsk;Visock;Võssotsk;Wysock;Visocka;Trångsund;Uuraa;Uras;Trongsund;Tranzund;Transund
+Urbisaglia|IT||9o|3bz|115|j
+Urzy|FR||9k|3mp|8w|j
+Urt|FR||9k|3ct|-3l|j
+Urecho|MX||41|1ld|-7pz|j
+Urdorf / Bodenfeld|CH||a7|3nn|ne|i
+San Francisco Uricho|MX||41|1id|-7uk|i|Uricho
+Urzejowice|PL||a5|3ux|1qe|i
+Urausunai|JP||7q|3cm|axy|h
+Ursk|RU||74|479|6l8|h
+Uribelarrea|AR||1l|-2pk|-4jl|h
+Urbach-Überdorf|DE||8r|3wg|l3|g
+Uralets|RU||7z|4g6|4lp|g|Uraleis
+Vrsar|HR||a6|3hf|11t|f|Orsera;Ursaria
+Úrsulo Galván|MX|Veracruz|41|1l8|-7io|f
+Urzica|RO||8u|3du|1vh|f
+Uripitio|MX||41|1jf|-7ra|f
+Urleasca|RO||8u|3he|24t|f
+Urziceni|RO|Satu Mare County|8u|3ol|1q8|f|Csanálos
+Urbana|US|Iowa|2f|39a|-737|f
+Urmatt|FR||9k|3qt|kd|e
+Uriménil|FR||9k|3pm|hs|e
+Určice|CZ||9m|3tb|1bf|e
+Uru|BR||4w|-1oi|-3sw|e
+Urén|MX||41|1j5|-7vn|e
+Urspringen|DE||8r|3um|qv|e
+Utakarra|AU||8k|-27y|8uh|d|Urakarra
+Urania|US||2f|2gi|-74e|d
+Urbana|IT||9o|3hj|vs|d
+Urik|RU||6k|41q|81k|d
+Urzulei|IT||9o|33d|qf|d|Ursulèi
+Urdorf / Moos|CH||a7|3nn|nf|d
+Urbanización Todosol|ES||9d|2vz|-4a|d
+Andermatt|CH||a7|3lk|nv|d|Ursera;Orsera
+Uriburu|AR||1s|-2tf|-4xe|c
+Uruachi|MX||2g|25f|-8cm|c
+Urawatawangoda|LK||68|gt|68k|c
+Ureki|GE||7n|38o|382|c|Urek’i;Oereki
+Urca|RO||8u|3lb|1uk|c
+Urheilupuisto|FI||92|4nw|1pu|b
+Urozhaynoye|UA|Crimea|9t|3hy|2pf|b
+Urziceanca|RO||8u|3fz|1zs|b
+Shyroke|UA|Zaporizhzhia|98|3pm|2r1|b|Ural’s’ke;Uralske;Ural’skiy;Ural’skoye
+Urbich|DE||8r|3xk|uu|b
+Urseni|RO||8u|3ix|1n7|b
+Urique|MX||2g|23l|-8bs|b
+Ursa|RO||8u|3dn|1wg|b
+Urși|RO||8u|3gz|1ux|b
+Villanueva de Valdegovía|ES||9d|3b1|-8m|b|Valdegovia;Valdegobia;Uribarri Gaubea
+Orschwihr|FR||9k|3p5|k3|a|Orschweier;Urswihr;Orschwir
+Urlingford|IE||8z|42g|-l2|a|Áth na nUrlainn
+Urbancrest|US||48|32u|-6et|a
+Urbach|DE|Thuringia|8r|3yh|th|a
+Urdorf / Oberurdorf|CH||a7|3nm|ne|a
+Urszulin|PL||a5|3yr|1sf|a|Urszula
+Urbanización Calabardina|ES||9d|2w0|-46|a
+Ursoaia|RO|Olt|8u|3ff|1wm|a
+Urozhaine|UA||98|3on|2ua|a|Urozhayne;Urozhaynoye
+Urvind|RO||8u|3mr|1pw|9
+Urshult|SE||9w|4d1|152|9
+Urrbrae|AU||8b|-2p5|ap4|9
+Úrsulo Galván|MX|Chiapas|41|198|-77h|9
+Urviș de Beiuș|RO||8u|3lp|1pk|9
+Urseiu|RO||8u|3hd|1z0|9
+Ürzig|DE||8r|3uu|jh|9
+Urdorf / Zentrum|CH||a7|3nn|ne|9
+Urechești|RO|Gorj County|8u|3gw|1sn|9
+Urișor|RO||8u|3n1|1uc|9
+Urdorf / Baumgarten|CH||a7|3nm|ne|9
+Urzelina|PT||81|2zd|-265|9
+Urzędów|PL||a5|3xn|1pi|9
+Urdorf / Fadmatt|CH||a7|3nm|nf|9
+Ursenbach|CH||a7|3my|ll|9
+Uraz|PL||a5|3yd|1at|9
+Urchfont|GB||9b|3yj|-5e|9
+Uranquinty|AU||8l|-2pr|bd1|9|Uranquintry
+Urbe|IT||9o|3fl|nv|9|L'Orba
+Urlueni|RO||8u|3fk|1wu|9|Urleni
+Ursoaia|RO|Gorj County|8u|3gh|1sh|8
+Uruétaro|MX|Guanajuato|41|1l0|-7t2|8
+Ury|FR||9k|3qa|78|8
+Urpay|PE|La Libertad|3o|-lo|-60w|8
+Urnshausen|DE||8r|3wx|s9|8
+Urbar|DE|Rheinland-Pfalz|8r|3v9|lg|8
+Urrutia|HN||56|14z|-6pr|8
+Urlucea|RO||8u|3gn|1xj|8
+Urundu|TR||94|2uo|2ee|8
+Urbanización Collados Zieschang|ES||9d|2vz|-4b|8
+Uruñuela|ES||9d|39w|-7j|8
+Urut|AM||80|363|3fc|8|Kamenka;Sugutli;Soghutli
+Urluiu|RO||8u|3e3|1xl|8
+Urgental|AT||a2|3np|16c|8
+Urdorf / Nieder-Urdorf|CH||a7|3nn|ne|7
+Urdorf / Heidenkeller|CH||a7|3nm|nf|7
+Urlings|AG||1j|1bb|-4rw|7|Urlin;Urlins
+Ururuta|MX||41|1jo|-7u9|7
+Uersfeld|DE||8r|3vl|ji|7|Ürsfeld
+Uruapilla|MX||41|1ii|-7tc|7
+Uria|IT||9o|303|1ah|7
+Urequío|MX||41|1ji|-7uh|7
+Urapa|MX||41|1h3|-7ug|7
+Uricani|RO|Iași County|8u|3mz|24d|7
+Urou-et-Crennes|FR||9k|3rf|2|7
+Urschenheim|FR||9k|3pl|ks|7
+Urzica Mare|RO||8u|3ea|1tk|6
+Ursulo Galván|MX|Nayarit|3x|1m7|-84m|6
+Uršna Sela|SI||9a|3j0|161|6|Vršna Sela
+Ursa|US||2f|33b|-71t|6
+Ursulo Galván|MX|Veracruz|41|1f3|-7ba|6
+Orzoaia de Jos|RO||8u|3h0|20v|6|Ursoaia de Jos
+Urdiáin|ES||9d|3b5|-5y|6
+Urvillers|FR||9k|3ub|97|6
+Urisiu de Sus|RO||8u|3lr|1x7|6|Urişiul-de-Sus
+Uralove|UA||98|40z|2l7|6|Uralovo;Oltar
+Ursulo Galván|MX|Sonora|37|260|-8jh|6|Ursula Galvan
+Urdiales del Páramo|ES||9d|39p|-g1|6
+Úrsulo Galván|MX|Veracruz|41|1h1|-7hl|6
+Ursprung|AT||a2|3mx|16v|6
+Urcel|FR||9k|3th|9w|6
+Ordiarp|FR||9k|3bz|-2m|6|Urdiñarbe
+Urpay|PE|La Libertad|3o|-n7|-5yz|6
+Ürküt|TR||94|30n|3bb|6
+Urtuyskiy|RU||67|3wx|8y5|6
+Urpish|PE||3o|-ps|-5x5|6
+Uraidla|AU||8b|-2p4|ape|5
+Urdinița|RO||8u|3fb|1t3|5
+Urugi|JP||7q|2pz|amj|5
+Urechești|RO|Arges|8u|3hq|1we|5
+Uruapan|MX|Baja California|58|2fu|-8zg|5
+Urșița|RO||8u|3mm|245|5
+Urdorf / Ob der Bahn|CH||a7|3nn|nf|5
+Urengüitiro (San Martín)|MX||41|1iv|-7w6|5
+Urlești|RO||8u|3jh|257|5
+Urim|IL||6n|2ey|2nw|5

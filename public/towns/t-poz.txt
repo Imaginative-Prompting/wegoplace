@@ -1,0 +1,95 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Poznań|PL||a5|41l|1b1|44y|Posen;Posnania;Pòznóń;Pô-tsṳ-nàm;Poßen
+Bratislava|SK||8s|3pr|1bj|39p|Prešporok;Bratislavo;Pozsony;Posonium;Preßburg;Bratysława;An Bhratasláiv;Bratisława;Bratisllava;Bratislav;Baratislawa;Presbourg;Presburg;Prešpurk;Preszburg
+Poza Rica de Hidalgo|MX||41|1l1|-7iq|1fg|Poza Rica;Posa Rika
+Potsdam|DE||8r|41k|10b|1fc|Poczdam;Postupim;Podstupim;Poztupimi
+Petržalka|SK||8s|3po|1bl|v8|Pozsonyligetfalu
+Pozniaky|UA||98|3w0|2d2|t0|Poznyaky
+Pozuelo de Alarcón|ES||9d|34b|-al|mw|Pozolum
+Pozzuoli|IT||9o|35g|136|mk|Pouzzoles;Puteoli;Puzzuolo
+Pozzo Strada|IT||9o|3h7|l7|f8
+Požarevac|RS||8q|3fy|1mv|bl|Pożarewac;Pozsarevác;Pasarofça;Požerevac
+Dúbravka|SK||8s|3pv|1bc|9v|Pozsonyhidegkút
+Pozzallo|IT||9o|2u1|159|52|Puzzaddu
+Pozoblanco|ES||9d|2ym|-dh|4x
+Pozo Almonte|CL||4u|-1ka|-5dv|4p
+Požega|HR||a6|3hy|1d5|4p|Pozsega;Incerum;Posega
+Pasewalk|DE||8r|44n|12v|3d|Pāzevalka;Pòzdzewôłk
+Pozantı|TR||94|2vz|2ov|2x|Pozenti
+Ivanka pri Dunaji|SK||8s|3pv|1by|20|Pozsonyivánka
+Bratislava - Vajnory|SK||8s|3px|1bt|1j|Pozsonyszőlős;Prácsa;Weinern
+Pozo del Molle|AR||1n|-2gy|-4us|1i
+Pozo Alcón|ES||9d|2wq|-85|1i|Pozo Alcor
+Pozo de Gamboa|MX||41|1rr|-7wx|1g|Pozos de Gamboa;Pozo Gamboa
+Pozzuolo Martesana|IT||9o|3if|qa|1f
+Pozzolo Formigaro|IT||9o|3gg|oe|15
+Pozo del Tigre|AR||1n|-1x6|-4nk|13
+Pozhva|RU||7z|4k5|4bt|11|Pozjva
+Pozo Azul|AR||1n|-217|-46f|z
+Pozo de Ibarra|MX||3x|1or|-84g|w
+Pozzonovo|IT||9o|3hk|wr|t|Pozzonuovo
+Pozm-e Tīāb|IR||7o|1yg|4nk|t
+Pozza|IT||9o|3fp|u9|t
+Pozzo d'Adda|IT||9o|3il|qe|s
+Pozuelo de Calatrava|ES||9d|2z6|-an|s
+Pozos|MX||41|1la|-7sa|r
+Pozzomaggiore|IT||9o|348|o2|r
+Pozo-Cañada|ES||9d|2zs|-4u|r
+Biely Kostol|SK||8s|3qd|1cp|p|Pozsonyfehéregyház
+Pozzolengo|IT||9o|3i5|tj|p
+Pozořice|CZ||9m|3sp|1an|o
+Positano|IT||9o|34v|148|n|Pusitano;Pozitano;Posidianum;Positanu
+Pozohondo|ES||9d|2zk|-5b|i
+Blatné|SK||8s|3q3|1ce|i|Pozsonysárfő
+Pozzilli|IT||9o|37b|132|i|Poczilli
+Pozzuolo del Friuli|IT||9o|3jr|10o|h|Puçui;Pocui
+Pozzale-Case Nuove|IT||9o|3de|ug|h
+Spanish Wells|BS||47|1yz|-5x8|f|İspanyol Kuyuları;Ispaniyaning Quduqlari;Sumur Spanyol;Telaga Sepanyol;Pozos Españoles;Puits Espagnols;İspan Quyuları;Spanische Brunnen;Poços Espanhóis
+Pozza di Fassa|IT||9o|3kz|wh|f
+Pozharskoye|UA||9t|3gu|2m3|e
+Poznan|UA||98|3zb|24b|e
+Jablonové|SK||8s|3qb|1bi|d|Pozsonyalmás
+Pozezdrze|PL||a5|46e|1oq|d|Pozedrze
+Pozo Dulce|MX||37|22l|-8gv|d
+Pozo de Jarillas|MX||41|1qx|-7vw|c
+Pozzoleone|IT||9o|3it|wf|c
+Pozzaglio ed Uniti|IT||9o|3hk|rx|c
+Pozlovice|CZ||9m|3sh|1dd|c
+Pozuelos|MX|San Luis Potosí|41|1pd|-7sw|b
+Pocé-les-Bois|FR||9k|3po|-3h|b|Pozieg
+Pozuelos|MX|Hidalgo|41|1kx|-7n6|b
+Pozzuolo|IT||9o|3bs|x8|a
+Poza Larga Zapotal|MX||41|1kh|-7is|a|Poza Larga
+Poza Azul de los Reyes|MX||41|1la|-7jd|a
+Borinka|SK||8s|3q2|1bh|9|Pozsonyborostyánkő
+Pozas de Santa Ana|MX||41|1rd|-7r2|9|Pozos de Santa Ana
+Pozolapa|MX||41|1aw|-7na|9
+Pozzolo|IT||9o|3hu|ts|9
+Pozzaglio|IT||9o|3hk|rx|9
+Poznanovec|HR||a6|3jx|18j|9
+Pozo de Aróstegui (Las Correas)|MX||41|1kk|-7sy|9
+Pozzo della Chiana|IT||9o|3c9|ws|8
+Pozo Hondo|MX||41|1nh|-7rh|8
+Poza Verde|MX|Veracruz|41|1l5|-7i5|8
+Pozo de Guadalajara|ES||9d|34i|-8u|8
+Pozzo|IT||9o|3jd|z1|7
+Pozolapan (Cartagena)|MX||41|1f0|-7c5|7
+Pozzarello|IT||9o|3du|u3|7
+Pozhar|XK||8q|3a6|1kj|7|Požar;Požare
+Pozuelo|ES||9d|2zt|-5u|7
+Pozowice|PL||a5|3ut|1iq|7
+Čakany|SK||8s|3po|1c9|6|Pozsonycsákány;Czakany
+Pozo de Villa|MX||3x|1on|-84i|6
+Pozo Lorente|ES||9d|30k|-47|6
+Poznanka Persha|UA||98|3p4|2b6|6|Poznanka-Persha
+Pozuelo de Zarzón|ES||9d|33j|-ht|6|Poçuelu Çarçón
+Pozzillo|IT||9o|36g|13g|6
+Pozuelo|MX||41|1gb|-7ew|6
+Pozděchov|CZ||9m|3sr|1dw|6|Pozdiechow
+Pozzale|IT||9o|3l0|yd|6
+Poza Verde|MX|Guerrero|41|1ao|-7mr|5
+Pozo Blanco|MX||41|1n4|-7rl|5
+Pozuelo del Páramo|ES||9d|395|-g1|5
+Pozzecco|IT||9o|3jo|10d|5
+Balsas de Agua|MX||41|1k7|-7hs|5|Poxo de Oro;Pozos de Oro;Bolsas de Agua;Pozo de Oro
+Pozal de Gallinas|ES||9d|36s|-dg|5

@@ -1,0 +1,26 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Žilina|SK||8s|3sq|1g2|mk|Sillein;Zsolna;Żylina;Solna;Silina;Jilina
+Târgu Jiu|RO||8u|3h5|1so|kf|Zsilvásárhely;Tirgu Žiu;Târgul-Jiu;Tîrgu Jiu
+Zschopau|DE||8r|3wz|10c|39|Cšopava
+Jibou|RO||8u|3na|1sm|34|Zsibó;Jibau
+Županja|HR||a6|3h8|1fy|2k|Zsupanya;Zsupanja
+Želiezovce|SK||8s|3ph|1ft|1u|Zselíz;Željezovce
+Zschorlau|DE||8r|3wh|z5|1n
+Žarnovica|SK||8s|3qo|1g0|1l|Zsarnóca;Žarovnica
+Zsámbék|HU||8v|3o3|1g0|1j|Schambeck;Schambek
+Zschadrass|DE||8r|3y2|zm|12
+Zschepplin|DE||8r|3z2|z0|y
+Zhuravno|UA||98|3su|1vg|x|Żurawno;Juravno;Schurawno;Jouravno;Zsuravno;Juravne;Zhuravne
+Zsombó|HU||8v|3kp|1jh|x
+Zschornewitz|DE||8r|3zo|yg|t
+Žehra|SK||8s|3s2|1lr|r|Schigra;Zsigra;Zsegra
+Zsámbok|HU||8v|3o2|1ih|p
+Zschortau|DE||8r|3z0|yc|o
+Zscherndorf|DE||8r|3zd|y3|j
+Zscherben|DE|Saxony-Anhalt|8r|3ym|x9|g
+Zscherben|DE|Saxony-Anhalt|8r|3yz|wz|g
+Zhadove|UA||98|40l|2it|c|Stary Zhadov;Zhdanovo Vtoroye;Zhdanovo Pervoye;Novy Zhadov;Zhadov;Zsadove;Zhadovo Vtoroye;Zhadovo Pervoye;Zhadovo
+Tsabit|DZ||3|26r|-m|c|Zsabit
+Zsana|HU||8v|3kx|1io|9
+Zsira|HU||8v|3nu|1ac|8|Tening;Tenning

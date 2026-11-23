@@ -1,0 +1,205 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+Mashhad|IR||7o|2su|4ll|hsw|Mashad;Maŝhado;Meszhed;Mexed;Maschhad;Masyhad;Meşhed;Mešheda;Meixad;Mešhedas;Maxhad;Maşat;Sanaabad;Alexandria
+Aleppo|SY||69|2sk|2v8|g6u|Alepo;Alep;Heleb;Alepas;Halep;Ḩalab;Xalab;Aleppu;Haleba;Ḥaleb;Halapia;Aleppe
+Porto Alegre|BR||4w|-2bf|-3yb|bhf|Puerto Alegre;Porto-Alegro;Portus Alacer;Portualegri;Portu-Alegri
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Zaporizhzhya|UA|Zaporizhzhia|98|3ox|2pk|5h9|Saporoshje;Saporischschja;Alexandrovsk;Zaporijya;Zaporijjâ;Záporoží;Zaporiyia;Zaporižžja;Zaporijjia;Zaporizzsja;Zaporižia;Zaporižja;Zaporoże;Zaporižžia;Saporoschje;Zaporožje;Zaporoye;Zaporozhye;Zaporizhzhia;Zaporiggia;Alessandrovia;Zaporizjzja
+İskenderun|TR||94|2tn|2sh|1xx|Alexandria ad Issum;Alejandreta;Aleksandretta;Lissandretta;Alexandretta;Iskanderun;İskenderon;Alexandrette;Alessandretta
+Jhelum|PK||6q|2jh|5ot|1gw|Jhelam;Alessandria Bucefala;Dželamas;Dźhelam
+Alexandra|ZA||o|-20j|262|1dw
+Pouso Alegre|BR||4w|-1pr|-3jm|191
+Alexandria|US|Virginia|48|2zs|-5y1|18b|Aleksandrija;Allexandria
+Aley|LB||64|2lx|2qw|104|Alayh;Alley
+Allentown|US|Pennsylvania|48|34t|-5tp|xe|Allenschteddel;Alentaunas;Alentaŭno
+Oleksiyivka|UA|Kharkiv|98|3v1|2sj|rx|Alekseyevka;Oleksiivka;Alekseevka
+Alessandria|IT||9o|3gr|nx|pl|Alexandrie;Lissandria;Alexandria
+Alekseyevka|RU|Moscow Oblast|9i|4aj|2x0|lo|Aleksejevka;Alekseyevo
+Alegrete|BR||4w|-2aq|-4az|ka
+Alamata|ET||2|yi|31w|jk|Alemata;Alomata;Ālamat’ā
+Aalen|DE||8r|3ro|s1|in|Ālene;Alenas;Ala
+Aleksin|RU||9i|47e|2uz|il|Alexin
+Aleksandrov|RU||9i|4co|2zj|ht|Alexandrow;Aleksandrow;Alexandrov
+‘Alemaya|ET||2|q3|38p|hp|Haramaya;Alem Maya
+Alenquer|BR||4t|-5e|-482|fv|Alemquer
+Ahlen|DE||8r|3zs|lx|fd|Ālene;Aulen;Ālna;Ālnon;Alenas;Aleno
+Alexandroupoli|GR||8p|35h|1zw|eq|Dedeağaç;Alessandropoli;Alexandropolis;Alejandrópolis;Dedéagach;Alexandhroúpolis;Dedeagatch
+Ålesund|NO||9j|4tj|h3|em|Álasund;Estrecio Anguilla;Olesiundas
+Alaşehir|TR||94|2yj|278|dd|Filadelfeia;Alašechiras;Alashehir;Ala Shehr;Alachehir;Aleşehir;Alaschehir
+Alexandria|US|Louisiana|2f|2ez|-74t|db
+Alengād|IN||6t|s4|5vy|d5
+Alès|FR||9k|3ek|bc|bs
+Alexandria|RO||8u|3e6|1yd|b8|Aleksandrija
+Alexeyevka|RU||9i|3wn|2zh|b2|Alexejewka;Aleksejevka;Alekseyevka
+Oleksandrivska Slobidka|UA||98|3w2|2co|9h|Aleksandrovskaya Slobodka
+Alençon|FR||9k|3qj|9|8k|Alenzón;Alansonas
+Além Paraíba|BR||4w|-1ot|-3am|8j|Alem Parahyba
+Alegre|BR||4w|-1lo|-37d|84
+Aleysk|RU||63|41u|6dx|7s|Aleïsk;Alejsk;Aleiskas
+Aleksandrovskoye|RU|Stavropol Kray|9i|3g7|3bg|7s|Aleksandrovskoje;Alyeksandrovskoe
+Aleshtar|IR||7o|2m2|3q2|7p|Alishtār;Alashtar
+Alexânia|BR||4w|-18o|-3qr|7i
+Aleksotas|LT||a3|48g|1uf|6r|Aleksoto;Aleksota
+‘Alem T’ēna|ET||2|n2|307|6l|Alem Tenna
+‘Alem Ketema|ET||2|s0|30f|6j|Alem Catema
+Alfter|DE||8r|3wx|ji|62|Alefte
+Aleksandrów Łódzki|PL||a5|3zy|1hm|5n|Aleksandrova Ludzka;Lodzės Aleksandruvas
+Aleg|MR||19|1bd|-12n|5c
+Lezhë|AL||9y|382|1ik|57|Lezha;Alessio;Ležė;Leş;Lezh;Lješ;Lesh;Leshe
+Yumurtalık|TR||94|2u5|2rf|4x|Ayas;Aegæ;Alexandropolis;Makrinopolis;Hadriana;Laiazzo;Lajazzo;Ajazzo;Ağkale;Aegoe
+Polyarnyy|RU||9i|5c8|2kw|4t|Aleksandrovsk;Poljarnyj;Poliarny;Polyarny;Polyarnoye;Alexandrovsk
+Alexandra Hills|AU||8c|-24h|btn|4g
+Olecko|PL||a5|463|1qj|4f|Treuburg;Alėcka
+Aleksandrovsk|RU||7z|4kc|4fx|4b|Alexandrowsk;Alexandrovsk;Aleksandrowsk;Alekszandrovszk
+Alexander City|US||2f|2ji|-6mr|43
+Aleksinac|RS||8q|3cy|1ob|42|Alexinatz
+Alexándreia|GR||8p|34v|1qc|3t|Alexándria
+Alexandria|BR||2w|-ht|-2xm|3s
+Alexandra Estate|SG||7j|3l|80e|3r
+Aleksandrów Kujawski|PL||a5|42w|1fx|3f|Aleksandrova Kujavska
+Alexandria|ZA||o|-2lh|21d|3d
+Aleksandrovsk-Sakhalinskiy|RU||7f|3xe|ayw|3c
+Alexandria|US|Minnesota|2f|3jh|-7cy|3a
+Alépé|CI||0|fa|-a6|39
+Alekseyevka|RU|Samara Oblast|9p|43x|3w9|2z|Alexejewsk
+Aleksandriyskaya|RU||9i|3ev|3cf|2v|Aleksandrijskaja
+Aleşd|RO||8u|3mq|1q8|2v
+Prokhorovka|RU||9i|3xs|2u1|2t|Aleksandrovskij;Prochorovka;Prohorovka;Aleksandrovskiy;Prochorowka
+Aleksandrov Gay|RU||9s|3va|3qx|2r
+Alekseyevskoye|RU||9i|49n|3v8|2p|Alekseyevsk
+Alenquer|PT||99|30h|-p1|2o
+Alexandria|US|Kentucky|48|308|-6if|2i
+Alella|ES||9d|379|6d|2h
+Alejal|PH||71|ki|9p2|29
+Alexandria|AU||8l|-2m6|bo0|29
+Aleksandrovskoye|RU|Tomsk Oblast|7r|4dm|6l7|28|Aleksandrovskoje
+Alexander Heights|AU||8k|-2gf|8xv|26
+Oleksandrivka|UA|Odesa|98|3kp|2d4|24|Arnautka;Olexandriwka;Ołeksandriwka;Aleksandrovka;Arnautovka
+Alexandria|GB||9b|4bj|-cr|1x|The Vale
+Adelebsen|DE||8r|3za|r3|1t|Alessen;Aalessen
+Oleksandrivsk|UA||98|3qz|30v|1s|Aleksandrovsk;Oleksandrivs’k;Aleksandrovka
+Alevūr|IN||6t|10z|5rr|1r
+Alecrim|BR||4w|-24t|-484|1p
+Alegria|PH|Caraga|71|qb|9ou|1n
+Alexandra|NZ||ak|-3hp|d2h|1m|Manuherikia
+Alegria|PH|Eastern Visayas|71|yg|9ld|1m
+Oleksandrivka|UA|Donetsk|98|3rb|2uj|1l|Aleksandrovka
+Oleksandrivka|UA|Donetsk|98|3p4|2we|1l|Aleksandrovka
+Elek|HU||8v|3l9|1n1|1j|Aletea;Renndorf
+Alezio|IT||9o|33a|1e6|1i
+Alessano|IT||9o|32t|1ex|1f
+Alexandria|US|Indiana|38|33u|-6m0|1e
+Alcocéber|ES||9d|33t|s|1e|Alcossebre;Alcocebre;Aleosebre
+Alejandro Roca|AR||1n|-2kn|-4x0|1b
+Alegrete do Piauí|BR||2w|-k4|-35i|1a
+Alexandra Headland|AU||8c|-223|bta|1a
+Alegria|PH|Caraga|71|nn|9q1|1a
+Alei Zahav|PS||6n|2h3|2pe|17|Yo’ezer
+Aleksandriya|RU||9i|3h9|3c5|16|Aleksandria
+Alekseyevskaya|RU|Volgograd Oblast|a4|3vp|396|16|Alekseevskaya
+Polski Filvarky|UA||98|3r8|21t|15|Pol's'ki Fil'varky;Polskie folwarki;Polskie folvarki;Lyads'ki fil'varky;Liadski filvarky;Liadski humnyska;Lyads'ki humnys'ka;Horni filvarky;Aleksandrovskaya sloboda;Oleksandrivs'ka sloboda
+Aleksandro-Nevskiy|RU||9i|44k|33p|14|Aleksandro-Nevskoye;Aleksandro-Nevskaya
+Aleksandrovka|RU||9i|3ct|3d9|14|Aleksandrovskaja;Nal’chik;Aleksandrovskaya
+Aleksandrovskaya|RU|St. Petersburg|9i|4mt|2ba|14|Aleksandrovskaja;Aleksandrovskiy
+Alekseyevka|RU|Bashkortostan Republic|7z|48d|49f|14|Aleksejevka
+Alexandria|US|Alabama|2f|2lt|-6ml|13|Aleksandria
+Alékro|CI||0|m5|-fd|12
+Allevard|FR||9k|3i3|gw|12|Alevârd
+Oleksandrivka|UA|Odesa|98|3lh|2dq|11|Aleksandrovka
+Alegria|BR||4w|-25b|-466|11
+Aledo|US|Illinois|2f|36g|-703|10
+Aledo|US|Texas|2f|2iu|-7j4|y|Aleda
+Alemanguan|PH||71|th|97h|x|Alimanguan
+Alejo Ledesma|AR||1n|-2ld|-4ty|x
+Alekseyevskaya|RU|Krasnodar Krai|9i|3j5|33k|x|Aleksejevskaja
+Delebio|IT||9o|3k6|qa|x|Alebium;Delebi
+Ale Gyaung|MM||7y|1a3|7eb|w|Ah Lel Chaung;Alegyaung
+Alepoú|GR||8p|322|1ja|v
+Alexandru Vlăhuţă|RO||8u|3ky|24r|v
+Aleksandrów|PL||a5|3w7|1rl|v
+Alekseyevskaya|RU|Irkutsk Oblast|6k|4gp|8d4|v
+Alexandru Odobescu|RO|Călărași County|8u|3ez|238|v
+Aleksandrovo|RS||8q|3is|1l7|v
+Alessandria della Rocca|IT||9o|2wd|11d|u|Lisciànnira di la Rocca
+Aléa|GR||8p|2w1|1qa|u|Tegea;Tegeia;Teyéa
+Alexandria|CA||59|3hv|-5rc|t
+Alexander|US|Arkansas|2f|2o7|-74s|s|Aleksander
+Alegria|PH|Western Visayas|71|tk|9hw|s
+Ålestrup|DK||8y|4dh|qd|s
+Alexandra|AU||8j|-2vb|b8r|q
+Alegria|PH|Central Visayas|71|r1|9im|p
+Alénya|FR||9k|3ag|8a|p|Alónya
+Aleksandrovskiy Zavod|RU||67|3xh|93m|p|Aleksandrovskij Zavod;Alexsandrovskiy Zavod;Aleksandrovski Zavod
+Alexeni|RO|Ialomița County|8u|3g4|226|p
+Oleksandriya|UA|Rivne Oblast|98|3wx|217|o|Oleksandriia;Aleksandria;Aleksandr’ya;Aleksandriya
+‘Ālewa Heights|US||ax|1na|-c6h|n|Alewa Heights
+Oleksandrivka|UA|Zakarpattia|98|3pp|1tb|n|Aleksandrovka
+Alixan|FR||9k|3gx|dz|m|Los Aleissans;Les Aleissans;Alexianum
+Alleins|FR||9k|3de|ec|m|Alen
+Aléria|FR||9k|38y|qf|m|Alalia
+Alekseyevka|RU|Saratov Oblast|9s|41b|3pf|l
+Alexandria|JM||3i|1ev|-5yv|j
+Oleksandrivka|UA|Odesa|98|3l0|29t|i|Alexăndreni;Oleksandriwka
+Aleksandrowice|PL|Silesia|a5|3ud|1gt|i
+Oleksiivka|UA|Kharkiv|98|3t8|2st|i|Alekseyevka;Oleksiyivka
+Alexander Bay|ZA||o|-27g|19t|h|Alexanderbaai
+Alerheim|DE||8r|3rp|ti|h
+Alekšince|SK||8s|3qd|1dv|h
+Åled|SE||9w|4dn|zx|h
+Alexandria|US|New Hampshire|48|3d5|-5jf|e
+Alejandro Gallinal|UY||45|-2m2|-4aa|e|Cerro Colorado
+Oleksandrivka|UA|Mykolaiv|98|3m4|2j0|d|Olexandriwka;Aleksandrovka;Ołeksandriwka
+Alek|IR||7o|2oo|3m5|d|Alak;Alk
+Aleksandrovka|UA|Crimea|9t|3im|2mq|d
+Ales|IT||9o|32h|oi|d|Abas;Ala
+Alejo González (Bilbao)|MX||44|1zq|-7yn|c
+Aleksandrovskaya|RU|St. Petersburg|9i|4lx|2c9|c|Aleksandrovskaja;Aleksanskoi
+Aletshausen|DE||8r|3pw|sv|b
+Alexandria Bay|US||48|3f6|-5uw|b
+Oleksandrivka|UA|Kherson|98|3k4|2l0|b|Aleksandrovka
+Allègre|FR||9k|3hk|ab|b|Alègre
+Oleksandrivka|UA|Zaporizhzhia|98|3la|2ql|a|Aleksandrovka
+Aledo|ES||9d|2wz|-4d|a
+Alesheim|DE||8r|3s9|u6|a
+Alerta|PE||3o|-we|-5cc|a
+Alexandria|US|Tennessee|2f|2s8|-6mz|a
+Oleksandrivka|UA|Kherson|98|3kl|2jx|a|Aleksandrovka
+Gharibjanyan|AM||80|356|3do|9|Gharibjanian;Aleksandrovka;Xaribjanyan;Nor Karakilisa
+Alekseyevka|UA||9t|3im|2lf|9
+Debet|AM||80|35o|3g1|9|Debed;Alereks;Khachigegh;Chanakhchi
+Alex|FR||9k|3jh|hc|9
+Alemán|MX||41|1br|-7h0|9
+Alexandru I. Cuza|RO||8u|3mx|22l|8
+Alethrikó|CY||73|2ou|2l1|8|Aletriko;Aletrike
+Alesso|IT||9o|3ko|109|8
+Alexis|US||2f|362|-6zk|8
+Ålem|SE||9w|4e7|19i|8
+Aleksandrovk’a|GE||7n|3bk|36c|8
+Alemler|TR||94|2ww|27c|8
+Alcanadre|ES||9d|39s|-5w|8|Alcandre;Alcanadro;Alecanadre
+Aleksandrowice|PL|Lesser Poland|a5|3v4|1iw|7
+Alem|TR||94|34b|3cv|7
+Allègre-les-Fumades|FR||9k|3es|bt|7|Alègre;Allègre
+Alejandro Carrillo Marcor|MX||37|28b|-8l9|7
+Alegría|PE||3o|-xo|-5c0|7
+Olefirivka|UA||98|3qj|2sa|7|Alefirovka;Olefirovka
+Alise-Sainte-Reine|FR||9k|3o2|ch|7|Alexia;Alésia
+Trialeti|GE||7n|37e|3ej|7|Alexandergilf;Rosenberg;Molotov;Molotovka;Rozenberg;Molotovo;Trialeta;T’rialet’i
+Oleksandrivka|UA|Kirovohrad|98|3rc|2ki|7|Voroshylovka;Aleksandrovka
+Alexander Mills|US||48|2q3|-6be|7
+Alleghe|IT||9o|3kx|xe|7|Aleguae;Aleghe
+Alele|WF||bk|-10t|-dle|6
+Alexandria|US|South Dakota|2f|3d9|-7jm|6
+Oleksandrivka|UA|Poltava|98|3up|2je|6|Aleksandrovka
+Alexandru Odobescu|RO|Buzău County|8u|3ig|22r|6
+Aleksandrovka|UA|Crimea|9t|3h3|2nx|6
+Alexandru cel Bun|RO||8u|3nu|23u|6|Alexandra-cel-Bun
+Aley|CI||0|jd|-fa|6
+Alex|US||2f|2oz|-7jm|6
+Alexeni|RO|Iași County|8u|3mh|241|6
+Alem|NL||8m|3zv|eu|6
+Alexander|US|Maine|48|3h9|-57f|5
+Alessandria del Carretto|IT||9o|330|19i|5
+Alexandria|US|Ohio|48|33d|-6dh|5
+Alet-les-Bains|FR||9k|3bf|6a|5
+Oleksandrivka|UA|Poltava|98|3vl|2hz|5|Aleksandrovka

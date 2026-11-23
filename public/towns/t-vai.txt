@@ -1,0 +1,73 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Daugavpils|LV||9n|4b8|21p|lp|Dünaburg;Dyneburg;Väinänlinna;Daugpilis;Duneburgum;Daugpiļs;Dźwinów;Väinalinn;Daugpėlis;Daugawpils
+Vejle|DK||8y|4ar|qi|gq|Vailė
+Slobozia|RO|Ialomița County|8u|3fs|240|bk|Netindava;Freistadt;Slobozija;Vaideei
+Vaijāpur|IN||6t|1jd|5rl|bh
+Waipahu|US||ax|1nf|-c6x|am|Vaipachu;Vaipahu
+Weißenfels|DE||8r|3y8|x9|aj|Leucopetra;Vaisenfelsas
+Vaihingen an der Enz|DE||8r|3ry|ow|80|Vaihingen-sur-lEnz
+Whitehorse|CA||5c|4oo|-af5|7u|Equus Albus;Vaythors;Vaithorsas;Uaithors;Vithorso
+Vaikam|IN||6t|r3|5w8|6g|Vaikom
+Saarwellingen|DE||8r|3t3|iw|3s|Sarrevailingue;Vailingua
+Vaires-sur-Marne|FR||9k|3rs|7c|3h
+Velankanni|IN||6t|to|65r|33|Velangann;Velānganni;Vailankanni
+Vail|US|Arizona|4i|2h1|-8jj|2u
+Vaittilingapuram|IN||6t|qc|5zl|2n
+Bellerive-sur-Allier|FR||9k|3k4|9g|2g|Vaissa
+Vaiano|IT||9o|3e5|uw|2a|Varianum;Vaianu
+Vaitele|WS||aj|-12f|-d99|28
+Vaithīsvarankoil|IN||6t|v4|65f|25
+Vaihingen-Mitte|DE||8r|3rd|pb|1w
+Valletta|MT||9e|2rq|14b|1w|La Valeto;La Valette;Valetta;Valeta;La Valeta;Valleta;Vaileite;A Valeta;Waleta;La-Valeto;La Valëtta;Vallett;La Valèt
+Vaison-la-Romaine|FR||9k|3ew|e3|1q|Vasio
+Vaileka|FJ||ar|-1ca|dqv|1o|Vailaka
+Vaitoare|PF||bg|-1ac|-boq|1n
+Vail|US|Colorado|2p|324|-87h|1j
+Vayk|AM||80|329|3ib|1j|Wajk;Vajk;Soylan;Azizbekov;Vaikas;Vaik
+Vaitape|PF||bg|-19v|-bpj|1d|Vaitapa;vaitaipe
+Vailate|IT||9o|3ia|qo|18
+Vaideeni|RO||8u|3hh|1uh|16
+Vasylivka|UA|Odesa|98|3is|283|13|Vasilivka;Wassyliwka;Vassylivka;Vaisal
+Vaiano Cremasco|IT||9o|3i1|qn|12
+Vails Gate|US||48|375|-5pq|y|Vail Gate;Vailgate;Vail's Gate;Vailsgate
+Vainī|TO||bi|-1mv|-dim|x
+Vairano-Patenora|IT||9o|36u|139|u|Vairano Patenora
+Vaiusu|WS||aj|-12f|-d97|r
+Vairão|PT||99|36t|-o3|q
+Vaimoso|WS||aj|-12g|-d96|p
+Vairao|PF||bg|-1de|-bio|o
+Vaivre-et-Montoille|FR||9k|3ob|gy|o
+Väike-Maarja|EE||9x|4k9|20x|m|Väike-Maaja
+Vailly-sur-Aisne|FR||9k|3t9|9s|l
+Vailhauquès|FR||9k|3db|ac|l
+Waitakere|NZ||ak|-2ud|dgu|i|Vaitakerė;Whitakere
+Vasīān|IR||7o|2l1|3ph|i|Vaisiyan
+Vajont|IT||9o|3k7|za|h|Vaiont
+Vaie|IT||9o|3ha|k9|f
+Vaitogi|AS||b9|-13v|-d6a|e
+Vayrac|FR||9k|3gv|4q|d|Vairac
+Vailoatai|AS||b9|-13v|-d6e|b
+Vaiges|FR||9k|3pg|-1c|b
+Vairé|FR||9k|3lg|-4w|b
+Vaida-Cămăraș|RO||8u|3m3|1uj|a
+Vaida|EE||9x|4kp|1xe|a|Vayda
+Vaiala|WS||aj|-12f|-d93|a
+Baitaly|UA||98|3ot|2au|9|Baytaly;Vaitaly
+Vailly-sur-Sauldre|FR||9k|3nu|7d|9
+Väimela|EE||9x|4gt|232|8|Vyaymela
+Vaiaau|PF||bg|-1au|-bos|8|Marahi
+Vailima|WS||aj|-12i|-d94|8
+Vailoa|WS||aj|-128|-dan|8|Vayloa
+Vaigaga|WS||aj|-12e|-d97|8
+Vaiden|US||2f|2kl|-6xa|8
+Vains|FR||9k|3r8|-3x|7
+Vaidei|RO||8u|3jf|1sq|7
+Vailly|FR||9k|3km|i6|7
+Vaidougou|CI||0|mu|-m0|7|Vahidougou
+Vaïssac|FR||9k|3eb|4d|6
+Vaïniá|GR||8p|2pa|1zl|6
+Vaisala|WS||aj|-11j|-dbo|6
+Vaida|RO||8u|3n9|1p3|6
+Vailhourles|FR||9k|3f3|5b|5
+Varese Ligure|IT||9o|3fa|qn|5|Vaise Ligure
+Vaiaku Village|TV||as|-np|dtr|5|Vaiaku

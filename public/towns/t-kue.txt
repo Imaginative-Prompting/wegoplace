@@ -1,0 +1,14 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guiyang|CN||7i|21u|88g|yrp|Guijangas;Quý Dương;Kuej-jang;Gŭijango;Kùi-iông-chhī;Gói-iòng;Queiyanga;Guyyan;Gveiyangz;Guijang;Quyinq;Kuei-yang
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Guilin|CN||7i|1y8|8ie|c4r|Quế Lâm;Kui-lìm-sṳ;Gveilinz;Kuej-lin;Gujlin;Kuei-lin
+Guigang|CN||7i|1s8|8gf|8dr|Gói-gē̤ng;Kuej-kang;Kui-kóng-sṳ;Quý Cảng;Gveigangj;Kùi-káng-chhī
+Cuenca|EC||33|-82|-63g|4wy|Kuenka;Tumipampa
+Korla|CN||7t|380|6nb|48l|Kuerle;Kurla;Kuerhlei;Koria;Kourla;K’u-erh-le;Ku’erle
+Cuernavaca|MX||41|1gl|-7nn|2m3|Cuauhnāhuac;Kuernavaka
+Yong’an|CN|Chongqing|7i|2e6|8g2|143|Kweichow;Fengjie;Feng-Chieh;K’uei-chou;Fengkieh;Kwei-chow-fu;Feng-chien
+Guiping|CN||7i|1sz|8hr|jr|Kuei-p’ing
+Cuenca|ES||9d|33b|-5x|f9|Conca;Kvenko;Kuenka
+Küssnacht|CH||a7|3mt|ng|3n|Kuessnacht;Chussenachus
+Kuyeda|RU||7z|4cr|4af|2o|Kujeda;Kueda
+Kunheim|FR||9k|3pk|kx|h|Kuenheim

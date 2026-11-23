@@ -1,0 +1,44 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pulong Santa Cruz|PH||71|13n|9cc|z8|Santa Cruz
+Santa|CI|Montagnes|0|la|-lt|1x
+Santa|CI|Woroba|0|mz|-me|z
+Santa|PH||71|1cl|9aj|n
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Santa Cruz de la Sierra|BO||3n|-1df|-4vi|e4q|Santa Cruz;Santa Cruz da Serra;Santa-Kruzo
+Agadir|MA||d|2ci|-qo|5dz|Santa Cruz;Agadair
+Feira de Santana|BR||20|-y3|-309|4r7|Feira de Sant'Anna;Feira De Saint Anna
+Florianópolis|BR||4w|-24o|-3qv|3xc|Nossa Senhora do Destêrro;Floripa;Florjanopolisa;Santa Catherina
+Santa Marta|CO||27|v8|-5q3|3uo
+Sandakan|MY||6w|g8|944|3dz|Sân-tá-kîn;Samdakan
+Santa Fe|AR||1n|-2fx|-4on|30o
+Santarém|BR||4t|-6s|-47z|2s9|Santarenas
+Santa Ana|US||3p|2lr|-93f|2e6|Santanna
+Santa Catarina|MX|Nuevo León|44|1zb|-7r2|2ch
+Santa Teresa del Tuy|VE||2c|sf|-556|25h
+Santa Maria|BR|Rio Grande do Sul|4w|-2ag|-45h|23h|Santa Marija
+Santa Clara|CU||36|1q9|-665|1xl|Santa Klara;Santa-Klaro
+Coro|VE||2c|vp|-5dk|1wj|Santa Ana de Koras;Corum;Koro
+Santa Luzia|BR|Minas Gerais|4w|-1ix|-3dt|1ov|Santa Lúcia
+Santa Rosa|PH|Calabarzon|71|13r|9cf|1o7
+Santa Cruz de Tenerife|ES||83|273|-195|1mq|Tenerife;Teneriffa;Santakrusa de Tenerife;Santa Cruz Tenerifekoa;Sancta Crux Nivariae;Santa Kruz de Tenerife;Tenerifės Santa Krusas
+Santa Bárbara d'Oeste|BR||4w|-1r7|-3np|1gn|Santa Bárbara do Oeste
+Santa Anita - Los Ficus|PE||3o|-xh|-5xt|1fa
+Santa Clarita|US||3p|2nj|-95a|1eo|Sanita Clarita
+Santa Rosa|US|California|3p|2ys|-9gv|1dh
+Santa Ana|SV||2u|12v|-6ws|1d3|Santaana;Cihuatehuahcan
+Santander|ES||9d|3cr|-ak|1c8|Sanandere;Portus Victoriae Iuliobrigensium;Santandel
+Santana de Parnaíba|BR||4w|-1t4|-3mc|19i|Sant'Ana-de-Paranaíba
+Malabo|GQ||10|ag|oe|17c|Santa Isabel;Malabas;Malaba
+Santa Rita|BR|Paraíba|2w|-jr|-2p6|15n
+Sant Andreu|ES||9d|374|63|13m
+Santa Cruz do Sul|BR||4w|-2ak|-41n|12f
+Santa Cruz|PH|National Capital Region|71|14k|9c2|z7
+Santa Clara|US|California|3p|2vr|-9es|z2|Santa Klara
+Santa Tecla|SV||2u|120|-6w0|yn|Santa Tekla
+Santa Coloma de Gramenet|ES||9d|375|65|x0
+Santana|BR|Amapá|23|-4|-3y5|x0
+Santa Maria|BR|Federal District|4w|-18j|-3pf|we
+Santana|BR|São Paulo|4w|-1t9|-3lk|w5
+Santa Lucía Cotzumalguapa|GT||32|13u|-70u|vc

@@ -1,0 +1,83 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pamplona|ES||9d|3ay|-4k|1lu|Iruña;Iruñea;Pompaelo;Pamplono;Pampelune;Iruinea;Pampeluna;Lungsod ng Iruñea;Pampalona
+Pamulang|ID||6l|-hm|88i|1ci
+Pamanukan|ID||6l|-hg|8bh|vr|Pamanoekan
+Pamekasan|ID||6l|-jw|8r7|po|Ramekasan
+Pammal|IN||6t|102|66l|l3
+Pampatar|VE||2c|uk|-4x7|i2|Pompatar;Panpatar
+Pampán|VE||2c|q9|-5fs|gl
+Pemangkat|ID||79|39|8ep|f3|Pamangka;Pamangkat
+Pamplona|CO||27|ki|-5lt|ew
+Pameungpeuk|ID||6l|-ji|8aw|df
+Pampanito|VE||2c|q5|-5fu|9y
+Pāmban|IN||6t|ps|641|8l
+Pampierstad|ZA||o|-256|1wl|61|Pampierstat
+Pāmpur|IN||6t|2mi|5s4|61
+Pāmūru|IN||6t|15y|64l|5k|Pamur
+Pampa|US||2f|2qq|-7sg|52
+Pamiers|FR||9k|3bs|4h|4q|Pàmies;Pàmias;Appamiae;Pamjē
+Pamukova|TR||94|34j|2bt|45
+Pama|BF||1a|v9|1z|3s
+Pamplona|PH|Central Visayas|71|qb|9i0|3a
+Pampa del Indio|AR||1n|-20d|-4mi|38
+Pamandzi|YT||ah|-zk|3hs|36
+Pambujan|PH||71|yw|9n1|30|Pamuhan;Pambunan;Pambuhan
+Pamukkale|TR||94|2xc|28w|2s|Hierápolis;Hieràpolis de Frígia;Hieropolis;Pamukalė;Mièn-fâ-páu
+Pamplemousses|MU||ag|-1ju|4fx|2p|Pamplemuss
+Pamel|BE||8t|3x9|bb|2k
+Pampa del Infierno|AR||1n|-21m|-4py|2a
+Pamayanang University of Philippines Employment Housing Cooperative Subdivision|PH||71|13v|9c2|20
+Pampas|PE||3o|-yg|-5rz|1j
+Pampa de Tate|PE||3o|-13b|-5u9|1g|Pachacute
+Pamplona|PH|Bicol Region|71|11r|9hw|1d
+Pampilhosa|PT||99|342|-nf|19
+Pomabamba|PE||3o|-oj|-5z7|19|Pamabamba
+Pampa de los Guanacos|AR||1n|-20v|-4rs|18
+Pamyat’ Parizhskoy Kommuny|RU||9i|4bu|3fm|14|Pamjat Parizjskoj Kommuny
+Pampamarca|PE|Cuzco Department|3o|-13b|-5ii|12
+Bamencheng|CN||7i|31y|92p|w|Pa-men-ch’eng
+Pamatácuaro|MX||41|1ip|-7wa|v
+Pampow|DE||8r|45b|z1|u
+Pamafrique|CI||0|es|-ak|u
+Pamatawan|PH||71|15h|99x|s
+Pambisan|PH||71|105|9d9|s
+Pamantingan|PH||71|in|9li|s
+Pamukören|TR||94|2xc|27a|q|Geneviş
+Pambuhan|PH||71|12t|9hw|p|Panbuhan
+Pamplona|PH|Cagayan Valley|71|1fb|9d2|l
+Pomarkku|FI||92|4rd|1p5|j|Påmark
+Pambasso|CI||0|l5|-8q|j|Panbasso
+Pampa Almirón|AR||1n|-226|-4k8|h
+Pamproux|FR||9k|3kw|-5|h
+Pamhagen|AT||a2|3oi|1az|g|Pomogy
+Pomacuarán|MX||41|1ii|-7vm|g|Pamecuaran
+Pampilhosa da Serra|PT||99|339|-m3|e
+Pameče|SI||9a|3l9|15w|d
+Paamiut|GL||4e|4s7|-3tz|d|Frederikshåb;Pamiutas;Frederikshaab;Pamiut
+Pamiatne|UA||98|3kt|2hi|d
+Pámfila|GR||8p|30s|21o|d|Pámfilla;Pámfylla
+Pamplico|US||48|2mg|-651|c
+Pama|AT||a2|3ph|1bb|c|Bijelo Selo;Lajtakörtvélyes
+Pamiątkowo|PL||a5|41z|1ac|c
+Pampanal de Bolívar|EC||33|3r|-635|b
+Pambariba|CI||0|kk|-95|a
+Pambula|AU||8l|-2ul|bkb|a|Panbula
+Pamplonita|CO||27|ko|-5ls|9
+Pamfou|FR||9k|3qm|7z|9
+Pampigny|CH||a7|3le|hv|8
+Pambassou|CI||0|kw|-f8|8|Pambasou
+Pamplona|MX||44|20i|-7z8|8
+Pampa Elera Alta|PE||3o|-d3|-66k|7
+Pampelonne|FR||9k|3ek|68|7
+Pampa Elera Baja|PE||3o|-d2|-66n|7
+Pampachiri|PE||3o|-13f|-5oa|7
+Pampas del Carmen|PE||3o|-qm|-5xc|7
+Pambula Beach|AU||8l|-2um|bke|7
+Pampaconga|PE||3o|-11c|-5l3|6
+Palmillas|MX|México|41|1gp|-7pg|6|Pamillas
+Pamal Navil|MX||41|1bg|-730|6
+Pampa Yanamayo|PE||3o|-12w|-5cg|6
+Pampachacra|PE||3o|-zk|-5s4|6
+Pampamarca|PE|Huánuco Department|3o|-qz|-5x2|5
+Pamukçular|TR||94|35b|387|5
+Pampamarca|PE|Apurímac Department|3o|-143|-5nd|5

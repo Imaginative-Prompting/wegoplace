@@ -1,0 +1,452 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Accra|GH||1|fg|-k|f5d|Akrao;Akra;Acra;Akkra;Nkran;Aakrá;Akara;Akkr
+Astana|KZ||5s|3y6|5ih|bwx|Tselinograd;Astano;Asztana;Nur-Sultan;Akmolinsk;Nour-Soultan;Nur-Sultano;Noer-Soeltan
+Akure|NG||u|k5|ef|5ms|Akuce
+Acapulco de Juárez|MX||41|1at|-7pj|52y|Acapulco;Akapulko;Acapulcum;Akapulkas;Acapolco Juárez
+Sevastopol|UA||9t|3fx|2l4|486|Sewastopol;Sebastòpol;Sebastopoli;Sebastopolis;Akyar;Aqyar;Sivastopol;Sebastopolo;Szevasztopol;Aqjar
+Aqsu|CN||7t|36e|670|44t|Aksou;Aksu;Ciudad de Aksu;A-k’o-su;Akesu
+Buda|HU||8v|3ny|1gv|3xp|Ofen;Altofen;Boeda;Budin;Budim;Akouinkon
+Aktobe|KZ||5w|3vo|4ex|3v4|Aktiube;Aqtöbe;Aktioubé;Aktyubinsk;Aktubinsk;Aktiubinsk
+Akola|IN||6t|1lj|5xw|3b5|Akula
+Kyzylorda|KZ||7d|3gl|51z|2qk|Qızılorda;Perovsk;Kzyl-Orda;Ak-Mechet;Fort Perovsky;Qysylorda;Qyzylorda;Khizilordà;Kõzõlorda;Kizilorda;Qiziloʻrda
+Alicante|ES||9d|2yj|-1c|2ox|Alacant;Alakanto;Lucentum;Alacante;Alikante;Akra Leuke;Alicant;Â-li-kham-thi̍t;Alacanti
+Simferopol|UA||9t|3gw|2mr|2lh|Symferopol;Sinferopoli;Akmescit;Aqmescit;Szimferopol;Sympheropolis;Sinferòpol;Aq Mečit;Oqmasjid
+Aksaray|TR|Aksaray|94|2yl|2mj|2j0|Aqserayiye;Aksarajus
+Akowonjo|NG||u|id|97|2dt
+Akita|JP||7q|32c|at8|2dh
+Akashi|JP||7q|2oa|af1|2cc|Akašis;Akasyi;Akasi-chhī;Akaşi
+Aachen|DE||8r|3x2|gw|21o|Aquisgrán;Aquisgrà;Cáchy;Aix-la-Chapelle;Aquisgrana;Aquisgranum;Oochen;Aoke;Aken;Akwizgran;Aquisgrano;Åxhe;Oche;Āhene;Aquae Grani;Achenas;Aaxen;Akisgran;Axın;Achen;Aquisgrão
+A Coruña|ES||9d|3ch|-nc|1xk|La Corogne;Coruña;A Cruña;Corunya;Coruñako;Corunha;La Korunja;La Coronha;La Korunya;Korunjo;In Coruña;Akoruņa;La-Korunya;The Groyne
+Akron|US|Ohio|48|364|-6ag|1iv
+Acarigua|VE||2c|qj|-5c8|1gb|Akarigva
+Sittwe|MM||7y|1jz|762|1dd|Akyab;Sitvė;Akjab;Sittvi
+Akhmīm|EG||c|21s|2g7|162
+Ciudad Delicias|MX||2g|26b|-84z|154|Delicias;Delisijasas;Delisijasa;Akitakata
+Aktau|KZ|Mangystau|5v|3da|3y5|14y|Aqtaū;Aqtaw;Aktaou;Aktav;Shevchenko;Akhtau
+Arcahaie|HT|Ouest|4j|1g5|-5lf|107|Akayè;Lakayè;Archaie
+Akishima|JP||7q|2r8|ar6|vn|Akiŝima;Akisima-chhī
+'Ākra|IQ||5z|2u1|3dw|ta|Biyuk;Biuk
+Akademicheskoe|RU||9i|4mp|2cf|sp
+Aqaba|JO||5t|2a1|2p9|qe|Akaba;Akabe
+Aksum|ET||2|138|2zk|q9|Axum;Aksoum;Akesum
+Akot|IN||6t|1mm|5y2|pq
+Akhisar|TR|Manisa|94|304|25c|nj|Thyatira;Ak Hisar;Akchisaras;Akhissar;Aq Hisar
+Akçapınar|TR|Tunceli|94|307|306|ng
+Akiruno|JP||7q|2r9|aqr|mr
+Akihabara|JP||7q|2r6|as9|lg
+Aku|NG||u|in|kc|kh
+Sokhumi|GE||9i|3bh|35v|i6|Sochumi;Sukhumi;Sujumi;Suchumi;Suhhumi;Suhumi;Soukhoumi;Sukhum;Sohumi;Suĥumo;Sohum;Akva;Suchum
+Akşehir|TR||94|2yk|2fa|hw|Philomelium;Philomelion
+Aketi|CD||y|7m|1u2|h2
+Akim Oda|GH||1|gh|-2r|gu|Akyem Oda;Oda
+Acre|IL||6n|2jh|2pg|ep|Akre;Akka;Akko;Acri;Akkon;Akrsborg;Ako;San Giuvanni d'Acri;Acra;Eka;Acco;Akas;Accho;Akkia
+Levoberezhnyy|RU||9i|4b6|2w3|eg|Aksinino;Aksin’ino;Levoberezhnaya;Levoberezh’ye
+Akademgorodok|RU||75|48d|6ev|dw
+Okhtyrka|UA||98|3vr|2ox|d4|Achtyrka;Ohtirka;Ochtyrka;Akhtyrka;Akhtirka
+Akçaabat|TR||94|35y|31x|cj
+Aksu|KZ|Pavlodar Region|5s|40k|5xp|cg|Aqsū
+Akhtubinsk|RU||8o|3q4|3k9|ce|Achtubińsk;Aĥtubinsk
+Akkarampalle|IN||6t|11x|64m|ca
+Akaiwa|JP|Okayama|7q|2op|aca|c5
+Akanda|GA||v|1p|px|bj
+Akivīdu|IN||6t|1a2|6a2|b8
+Akalkot|IN||6t|1cp|5vp|b5
+Aklūj|IN||6t|1dp|5se|b4|Aklūi
+Aksay|RU|Rostov|9i|3na|32r|at
+Oqtosh|UZ||7g|32w|535|an|Aktasj;Aktašas;Aktaş;Aktash
+Akbou|DZ||3|2ta|cl|an|Aqbu
+Ohangaron|UZ||7m|35n|5dg|ai|Okhangaron;Akhangaron
+Aghdam|AZ||61|333|3md|ah|Ağdam;Akn;Agdamas;Agʻdam
+Akbarpur|IN|Uttar Pradesh|6t|21f|6d9|a9
+Akoupé|CI||0|hq|-at|a0|Akupe
+Akçakoca|TR||94|365|2eg|9s
+Accrington|GB||9b|45b|-6k|9p|Akringtonas
+Aqsay|KZ||77|3y5|438|9o|Aksay
+Akwatia|GH||1|gs|-29|9e
+Åkersberga|SE||9w|4l8|1eu|93|Okeršberga
+Aki-takata|JP||7q|2ob|a8k|8z|Akitakata
+Akatsuka|JP||7q|2re|arw|8z
+Akçakale|TR|Şanlıurfa|94|2tz|307|8x|Hêniyê Ğezalan;Kaniya Xezalan;Akchakale;Akcekale
+Akatsi|GH||1|h1|28|8w
+Akonolinga|CM||j|ah|y1|8d|Akomolinga
+Akora Khattak|PK||6q|2mg|5kd|8a|Akora
+Akesalayi|CN||7t|2v9|65d|7m
+Akouda|TN||1e|2rn|td|7k|Akuda
+Akyurt|TR||94|33i|2jx|7e
+Aklera|IN||6t|1vt|5wp|7a|Akera
+Aksu|KZ|Turkistan|5s|39u|5dz|79|Aqsū
+Akune|JP||7q|2gy|a1o|6z
+Akyazı|TR|Sakarya|94|351|2d2|6z|Akyaz
+Ağdaş|AZ||61|34x|3nv|6j|Agʻdash;Aghdash;Akdash
+Akdağmadeni|TR||94|326|2ro|6e|Adağmadenı
+‘Aqrah|IQ||5z|2u4|3dx|6e|Akrê;Akra
+Akaltara|IN||6t|1p6|6cz|6b
+Dax|FR||9k|3df|-2x|67|Akize
+Aghsu|AZ||61|34p|3qg|67|Ağsu;Aqsu;Akhsu;Aksu
+Akaike|JP||7q|2ll|a39|5y
+Akhnūr|IN||6t|2je|5rl|5s
+Akhtyrskiy|RU||9i|3gl|2ye|5f|Akhtyrskij
+Akureyri|IS||87|52g|-1e9|5c|Akureyrar;Akureiris;Agireiri;Akureyrarbær
+Akbarpur|IN|Uttar Pradesh|6t|21a|663|58
+Akalkuva|IN||6t|1nv|5pm|4y|Akkalkuwa
+Akitsu|JP||7q|2rd|arh|4x
+Akasaka|JP||7q|2r3|as5|4w
+Akhaltsikhe|GE||7n|37o|3bf|4u|Akhalts'ikhe;Ajaltsije;Achaltsiche;Achalciche;Ahıska;Aĥalciĥo;Ahhaltsihhe;Ahalțihe;Ahalcihe;Achalziche;Akhaltsikh;Akhaltsykha;Akhaltsykhe
+Akkol’|KZ|Aqmola|5s|442|5dc|4o|Akkol;Aqköl
+Aconibe|GQ||10|3m|ue|4l|Akonibe
+Aki|JP||7q|2l2|aby|4k
+Akwanga|NG||u|or|nd|4g
+Akjoujt|MR||19|1iu|-13z|4f|Akdżawadżat;Akjout
+Akhisar|TR|Bursa Province|94|33g|29v|48
+Akçadağ|TR||94|2yi|2xh|44
+Akabira|JP||7q|3cz|ayl|3y
+Akdepe|TM|Dasoguz|5x|38u|4ky|3y|Ak-Tepe
+Akhty|RU||9i|376|3ol|3x|Ahtõ;Achty;Akhti;Akhtay
+Ak-Suu|KG||65|3a2|625|3w
+Târgu Ocna|RO||8u|3kk|21x|3n|Aknavásár;Târgul-Ocna;Tîrgu Ocna
+Uxbridge|US||48|38w|-5iz|3i|Aksbridžas
+Ak-Dovurak|RU||6u|3y6|6zo|3i|Ak-Dovoerak;Ak-Dowurak;Ak-Dovourak;Ak Dovurakas;Ak-Tovurak
+Akoda|IN||6t|21p|636|3h
+Aghstafa|AZ||61|368|3i9|3e|Ağstafa;Aqstafa;Akstafa;Akstafal
+Akodia|IN||6t|1sy|5ws|39
+Akseki|TR||94|2ux|2gb|38|Aksiki
+Akropong|GH||1|gl|-9|33|Akuropon
+Chornomorske|UA|Crimea|9t|3if|2iu|32|Ak-Mechet’;Chornomors’ke;Aqmeçit
+Akabane|JP||7q|2re|as4|32
+Akaiwa|JP|Gunma|7q|2sl|arc|31
+Aklim|MA||d|2p0|-6r|2y
+Aksu|TR|Sivas|94|33d|2xn|2x
+Akbez|TR||94|2ue|2tg|2u|Salmanuşağı;Akbaz
+Akkuş|TR||94|35b|2uu|2u
+Akil|MX||3z|1kb|-6w7|2u
+Akademmistechko|UA||98|3w7|2cc|2s
+Akim Swedru|GH||1|gd|-2u|2s
+Aktau|KZ|Karaganda|5s|3pf|5mb|2s
+Aktyubinskiy|RU||9i|489|42p|2s
+Aktas|KZ||5s|3ua|5mo|2r|Aqtas
+Akom II|CM||j|7q|td|2p
+Akhuryan|AM||80|35a|3dy|2o|Duzk’end Mets;Duzk’end;Duzk’yand;Axuryan
+Aktau|KZ|Karaganda|5s|3vj|5mz|2n|Aqtaū
+Aken|DE||8r|401|xg|2k
+Askarovo|RU||7z|445|4ik|2k|Aksarovo
+Aksubayevo|RU||9i|48d|3x4|2j|Aksubay
+Akdepe|TM|Ahal|5x|2yf|4g0|2j|Ak-Tepe;Aktepe
+Ākera|IN||6t|231|5ul|2j
+Aksay|RU|Dagestan|9i|3ch|3l0|2h|Aksaj
+Akkeshi|JP||7q|3bk|b6d|2h|Akkesi
+Ak’ordat|ER||4|177|2x8|2h|Agordat;Akordat;Agordatas;Āk’irdat;Figordat
+Solotvyno|UA||98|3p7|1ub|2e|Slatina;Sołotwyno;Aknaszlatina
+Aksu|KZ|Aqmola|5s|41o|5jw|2d|Aqsū
+Aksaray|TR|Istanbul|94|35x|28f|2d
+Akkistau|KZ||5y|3n6|3xp|2d|Aqqystau;Akkystau;Akkstau
+Akridou|CI||0|fn|-fl|2b|Akridu
+Akaa|FI||92|4px|1ub|2b|Ackas
+Akiéni|GA||v|-39|12k|2a
+Aktanysh|RU||9i|4as|467|2a|Aktanysj
+Akalla|SE||9w|4l1|1dr|2a
+Aktoprak|TR||94|2vb|2vl|25
+Akālgarh|IN|Punjab|6t|2dg|5u5|25
+Akgedik|TR|Manisa|94|2zc|23s|25
+Akka|MA||d|29n|-mx|23
+Akhalkalaki|GE||7n|371|3ct|22|Akhalk'alak'i;Arkhalkalaki;Akhalkalak;Achalkalaki
+Akranes|IS||87|4yo|-1pb|22
+Akradio|CI||0|f4|-c4|20
+Aktsyabrski|BY||9g|429|288|20
+Aksakovo|BG||9v|3c6|25a|1z|Gmina Aksakowo;Aksakov;Aksakowo
+Akaira|IN||6t|26f|5xh|1z
+Akankpa|NG||u|e9|mr|1y
+Akālgarh|IN|Punjab|6t|2au|5ut|1y
+Akhand|IR||7o|248|42j|1w|Ākhūnd
+Akdaş|TM||5x|338|43l|1w
+Aksuat|KZ||5s|3rc|6gi|1v
+Akaren|JP||7q|26o|a0x|1u|Akare
+Ake-Eze|NG||u|gg|lc|1t|Akeze;Aka Eze
+Akdoni Khurd|IN||6t|1v4|6no|1r
+Akpessékro|CI||0|io|-er|1q|Akpouéssékro
+Akko|NG||u|sl|uh|1p|Ako
+Åkarp|SE|Skåne|9w|4al|10f|1o
+Akoudzin|CI||0|gr|-b2|1n
+Akathiyūr|IN||6t|to|5vd|1m|Akathiyoor
+Akbarābād|IR|Fars|7o|299|42m|1m
+Akhmeta|GE||7n|38r|3hl|1l|Akhmet’a;Akhmeti;Akhmety
+Akati|CI||0|hs|-8x|1k
+Ak-Dzhar|KG||65|36d|5uj|1k|Ak-Jar
+Akyar|RU||7z|402|4hq|1j|Akjar
+Akarsu|TR||94|2vf|361|1i
+Åkarp|SE|Västra Götaland|9w|4hr|11x|1i
+Akgoňur|TM||5x|2xt|4ha|1i
+Akersloot|NL||8m|420|d5|1h
+Aquin|HT||4j|1es|-5nv|1g|Aken
+Akina|NZ||ak|-325|dn8|1g
+Çaçe|TM||5x|2u4|4nz|1f|Akjadepe;Akchadepe
+Åkrehamn|NO||9j|4km|ef|1e|Akrehavn;Åkrahamn
+Aqtoghay|KZ||5s|3mf|65c|1e|Aktogay
+Aqshataū|KZ||5s|3pb|5pq|1d|Aqşatau;Akchatau
+Akusha|RU||9i|39g|3ni|1c|Akusja;Agusha
+Aknoul|MA||d|2o9|-ar|1c
+Akıncılar|TR|Sivas|94|33b|2yi|1c|Ezbider;Yukarı Ezbider
+Aksu-Ayuly|KZ||5s|3rh|5on|1b|Aqsū-Ayuly
+Acăţari|RO||8u|3l4|1wf|1b|Ákosfalva;Acătar
+Akkupalle Gokavaram|IN||6t|1as|69z|1b
+Anuchino|RU||7w|3e4|a9m|1b|Anutsjino;Akuchino
+Akalékro|CI||0|fl|-df|1b
+Akana|JP||7q|2p8|a8o|1a
+Aksuat|KZ|Abai Region|5s|3oo|6e1|19|Aqsūat
+‘Aqrabā|SY||69|2jz|2s1|18|Aaqraba;Akraba
+Akabli|DZ||3|227|3u|18
+Akabréboua|CI||0|gd|-fp|18
+Akounougbé|CI||0|ee|-8u|17
+Akráta|GR||8p|2xz|1q0|16
+Akkol’|KZ|Atyrau Oblisi|5y|3rh|43q|16|Aqköl
+Ocna Şugatag|RO||8u|3oq|1uh|15|Aknasugatag
+Aketikandun|CN||7t|2yh|6lp|15
+Aknada|RU||9i|39s|3k9|15|Aknoda
+Akron|US|Pennsylvania|48|33k|-5vo|14
+Aksha|RU||67|3vo|8qp|14|Aksja
+Aksu|TR|Isparta|94|2x0|2eb|12
+Akono|CM||j|9q|vh|12
+Aka Nguessankro|CI||0|jx|-g2|12
+Akhunovo|RU||7z|46l|4lk|12|Akhunova
+Aghavnatun|AM||80|33r|3ex|12|Agavnatun;Akhavnatun
+Akababa|JP||7q|2jy|a43|12
+Aktogay|KZ||5s|3pt|5t6|11|Aqtoğai
+Aquino|IT||9o|379|123|11|Akwin;Akvino;Aquinum;Akvinas;Aquinu
+Akunk|AM|Gegharkunik|80|33k|3j1|11|Akunq
+Akhaldaba|GE|Adjara|7n|37p|393|10
+Prigorodnoye|KZ||5s|3u1|5ty|10|Aqzhol;Akzhol;Prigorodnyy
+Akréby|CI||0|h2|-9f|10|Akrébi
+Akasztó|HU||8v|3lp|1hc|z
+Acul du Nord|HT||4j|1io|-5kw|z|Akil di Nò
+Akroufra|CI||0|hm|-f9|y|Akroufla
+Akle|PH||71|15t|9cb|y|Acle
+Aktash|RU||63|3vr|6rc|y
+Akhtanizovskaya|RU||9i|3hw|2v2|x|Akhtanizovskaja
+Aksarayskiy|RU||8o|3lz|3pd|x|Aksarajskij
+Akkışla|TR||94|30c|2sh|x
+Aknalich|AM||80|33j|3ep|x
+Akkrum|NL||8m|43d|g7|w|Ankrum
+Aksakovo|RU||7z|463|46f|w
+Akroidokikro|CI||0|kc|-8q|v
+Akasaka-nakano|JP||7q|2ux|aua|u|Akasaka-nagano
+Ak-Jol|KG||65|37h|5kj|u|Ek-jol
+Akmenė|LT||a3|4c9|1r7|u
+Akadémiaújtelep|HU||8v|3nw|1he|u
+Aka|JP||7q|2lc|a3j|u
+Aquileia|IT||9o|3j5|115|t|Akwileja;Aquilée;Oglej;Aquileja
+Akgüzer|TM||5x|2vm|4sz|t
+Akkuzulu|TR||94|33p|2k2|t
+Akoungou|CI||0|fr|-db|t
+Akron|US|New York|48|3bi|-622|s
+Akademija (Kaunas)|LT||a3|48i|1u6|s
+Aka-Chantier|CI||0|fs|-99|s
+Akbaba|TR||94|36b|28w|s
+Akáki|CY||73|2pl|2k1|s
+Åkers Styckebruk|SE||9w|4kl|1bg|r
+Akowébo|CI||0|ja|-gb|r
+Acurenam|GQ||10|2v|tl|r|Akurnam;Acurenan;Acurnam;Akurenam;Akurenan;Akourenam
+Akyeniköy|TR||94|2w5|23u|r|Yeniköy
+Akkuly|KZ||5s|3yz|602|r|Aqqū;Aqqūly
+Akkol|KZ||5s|40f|5h3|q|Ak-Kul’
+Akouéboué|CI||0|kp|-bi|q
+Aksarka|RU||7z|54w|58c|q|Oksarka
+Acli|PH||71|160|9b4|q|Acle;Akli
+Akbulun|KG||65|3af|62y|p|Ak-Bulung
+Aknīste|LV||9n|4c0|1zj|p
+Akköy|TR|Denizli|94|2xg|28s|p
+Akanzakro|CI||0|l5|-e7|p
+Ak-Bulung|KG||65|3at|61b|p
+Akbulek|KG||65|3ae|62y|p
+Akkent|TR||94|2xz|29m|p
+Ākhī Jahān|IR||7o|2wz|3jm|o|Akhījahān
+Akunk|AM|Kotayk|80|33v|3g5|o|Akunq
+Akhtala|AM||80|36b|3ge|o|Axtala;Akhdala;Akhtali;Pghndzahank
+Akakro-N'Gban|CI||0|hk|-dp|o
+Akouaba|CI||0|i6|-9i|o
+Akori|AM||80|365|3fy|n|Aqori
+Akimouyaokro|CI||0|j8|-e7|n|Attimouyaokro
+Akraifnía|GR||8p|2yu|1si|n|Akraífnion
+Akouré|CI||0|ey|-af|l|Aouré
+Akakomoékrou|CI||0|kp|-9s|l|Akacomékrou;Akacomoékrou;Akakoumoékrou
+Akouai-Santai|CI||0|ex|-au|l
+Åkirkeby|DK||8y|48z|15g|l
+Akçaova|TR|Aydın|94|2w6|25v|l
+Ahmetli|TR|Diyarbakır Province|94|2wv|35r|l|Mezra Ehmed;Akhmetli
+Áchna|CY||6e|2pe|2lu|k|Akhna;Ahna;Athna
+Akyaka|TR||94|356|3d5|k|Kızılçakçak
+Akçaköy|TR||94|2xg|25u|k
+Akert|NL||8m|3yt|fg|k
+Agarak|AM|Aragatsotn|80|33y|3f0|k|Akerak;Akeran
+Akalpur|IN||6t|2e9|5ug|k
+Akossikro|CI||0|jx|-c8|j|Akouassikro
+Akbarābād|IR|Fars|7o|2bn|43j|j
+Akoye Ndénou|CI||0|k4|-e3|i|Akoue Ndénou
+Akçakonak|TR||94|2wq|241|i
+Akbakay|KZ||5s|3hd|5lv|i
+Akhaldaba|GE|Samtskhe-Javakheti|7n|38h|3ct|i
+Achinós|GR||8p|35o|1tq|i|Akhinós
+Akakro|CI|Lagunes District|0|f8|-ck|h
+Akron|US|Colorado|2p|33k|-7yp|h
+Acherítou|CY||6e|2pi|2m2|h|Akhyritou
+Akdere|TR||94|2so|2lr|h
+Akçaova|TR|Muğla|94|2vf|26m|h
+Aknashen|AM||80|33d|3f1|h
+Akçakale|TR|Diyarbakır Province|94|2xt|32a|h|Ağcakale
+Akrou|CI||0|eh|-c4|h
+Aké-Béfiat|CI||0|fr|-bm|g|Akébéfia
+Akçatekir|TR||94|2vu|2op|g
+Aghdzk|AM||80|33z|3ey|g|Akhis;Dzorap;Aghtsk
+Akékoua|CI||0|fa|-as|g
+Akalan|TR|Denizli|94|2vt|29j|g
+Akhfennir|MA||d|261|-xh|g
+Achtrup|DE||8r|487|p3|g|Agtrup;Åktoorp
+Akouai-Agban|CI||0|er|-aq|f
+Akhali Atoni|GE||7n|3bo|35e|f|Akhali-Afoni
+Akadiafoué|CI||0|l5|-fd|f
+Akgedik|TR|Mersin|94|2tx|2ke|f
+Akgedik|TR|Mersin|94|2uo|2oz|f
+Akasahebpet|IN||6t|1cm|6dd|f
+Aktaío|GR||8p|2ye|1oj|f
+Akossiom|CI||0|l1|-8a|f
+Akobakabo|CI||0|im|-c8|f
+Akron|US|Iowa|2f|3az|-7g8|f
+Akhalgori|GE||7n|390|3fk|e|Leningori
+Ākand|IR||7o|2ty|43g|e|Akant
+Akçagöze|TR||94|2vi|2vm|e
+Akrolímni|GR||8p|350|1pu|e
+Akören|TR|Istanbul|94|36g|26p|e
+Akdam|TR|Antalya|94|2ts|2gd|e
+Akýaýla|TM||5x|2wy|4jt|d
+Akimovka|UA||9t|3ig|2oq|d
+Akakro|CI|Sassandra-Marahoue|0|jh|-fg|d
+Akumal|MX||2b|1ko|-6qj|d|Acumal
+Akçay|TR||94|2to|2an|d
+Aghavnadzor|AM|Kotayk|80|34q|3g6|d|Axavnadzor;Agavnadzor;Akhavnadzor
+Bilenke|UA|Odesa|98|3jx|2ce|d|Achembet;Bilen'ke;Akembet
+Staraya Akkermanovka|RU||7z|3yd|4hs|d|Akkermanovka
+Akdam|TR|Kars Province|94|33k|3c9|c
+Agarak|AM|Lori|80|35x|3fj|c|Agrag;Agrak;Akrak;Egrak;Egrek;Ekrek;Erkek
+Akotiakro|CI||0|kg|-cr|c|Akoliakro
+Akasso|CI||0|k6|-8x|c|Akaso
+Akpınar|TR|Istanbul|94|36o|281|c|Ak-Panar
+Akkonak|TR||94|2z0|2dt|c
+Akner|AM|Syunik|80|31t|3kn|c
+Akaigawa|JP||7q|3bo|av6|c
+Akvara|GE||7n|3c4|347|c
+Haghtanak|AM||80|36i|3gr|b|Haxtanak;Tumanyani sovkhozin kits avan;Akhtanak
+Akçakaya|TR||94|31y|25f|b
+Akron|US|Indiana|38|360|-6mz|b
+Akyar|TR|Balıkesir|94|31m|25s|b
+Akabia|CI||0|gs|-f5|b
+Akdiken|TR||94|2u1|317|b
+Akriní|GR||8p|34b|1ov|b
+Ahtopol|BG||9v|38y|25m|b|Achtepol;Ahtapolu;Achtopol;Akhtopol
+Akköy|TR|Aydın|94|2w5|23r|b
+Akalan|TR|Istanbul|94|36m|26y|b
+Akhurik|AM||80|356|3dm|b|Axurik;Turki Gharakilisa
+Akoyaté|CI||0|ez|-ap|b|Ankoyaté
+Akdam|TR|Adana|94|2wb|2qy|a
+Akutan|US||1h|46d|-csi|a
+Akpuibo|CI||0|ku|-e0|a
+Akayaokro|CI||0|it|-dw|a
+Akçıra|TR||94|2zx|3bq|a
+Demirkapı|TR||94|30l|38f|a|Akrak;Akrag;Agrak
+Akçaburç|TR||94|2vh|2vo|a
+Akkuyu|TR||94|2v1|2qe|a
+Aktachy|UA||9t|3gc|2lq|a|Furmanivka;Aqtačy
+Akpla|CI||0|lt|-dz|9
+Akbarpur Kalān|IN||6t|2e8|5th|9
+Aksaağaç|TR||94|2xb|2sl|9|Ağsaağaç;Aksağaç
+Ak|TM||5x|2xz|4bw|9
+Akhisar|TR|Aksaray|94|2yd|2mq|9
+Aka Akaffoukro|CI||0|kg|-du|9
+Akören|TR|Kars Province|94|33k|3bg|9|Ağveran
+Akören|TR|Adana|94|2w1|2qh|9
+Akçakoyun|TR||94|32m|23g|9
+Aka-Ahoussikro|CI||0|j5|-bs|9
+Akyuva|TR||94|2z2|2co|9
+Akuvikro|CI||0|i7|-dh|9|Akumvikro
+Ak-Chin Village|US||4i|2jr|-8nd|9
+Akakobénankro|CI||0|jz|-8g|9
+Akyazı|TR|Mardin|94|2v8|34p|9
+Vazashen|AM||80|35w|3hs|8|Vazaşen;Laligüh;Akhgegh;Aghgyol;Ashkhigegh;Ashughi gyugh;Lal;Lala;Nor Lala;Lalakend;Lalakyandi;Lali;Nor Lali;Lalikend;Laligyukh;Laligekh;Laligokh
+Akçakent|TR||94|2xs|2mp|8
+Aksu|TR|Aydın|94|2xs|26p|8
+Akoudjé|CI||0|g5|-de|8
+Akıncılar|TR|Mardin|94|2wa|33i|8
+Akyamaç|TR||94|377|2h6|8
+Aké-Douanier|CI||0|gy|-cb|8
+Aklou Gbangbokro|CI||0|lb|-dg|8|Akroubangbokro
+Akoba|TR||94|2xe|362|8
+Akouédo|CI||0|ev|-az|8|Akouadio
+Akçatepe|TR||94|2x1|2xm|8
+Accompong|JM||3i|1en|-5zz|8|Akompong
+Akakro|CI|Vallée du Bandama District|0|lr|-dy|8|Atakro
+Akbaş|TR|Diyarbakır Province|94|2xi|362|8
+Akçakese|TR||94|35n|2bl|8
+Akçayır|TR||94|2xj|35v|8
+Akçayol|TR||94|2w9|3bi|8
+Akören|TR|Samsun|94|36f|2qi|8
+Akbaş|TR|Bartın|94|36x|2hs|7|Ağbaş
+Came|FR||9k|3cr|-33|7|Akamarre
+Akçörten|TR||94|2xc|31q|7
+Haghpat|AM||80|366|3g7|7|Akhpat;Hakhpat;Haxpat;Hakhbat;Haghbad;Haghbat
+Akhinós|GR||8p|301|1r4|7|Achinos;Ekhinós
+Akyar|TR|Antalya|94|2v8|2bu|7
+Akça|TR|Batman|94|2x5|36e|7|Gil’mis;Tilmis
+Tokashiki|JP||7q|20s|9ts|7|Akashiki;Tokasiki
+Akmanlar|TR||94|37e|2hj|7
+Akpınar|TR|Adıyaman Province|94|2ww|2wt|7
+Akbulak|TR||94|2yn|35v|7|Kemika;Qemikan
+Akdizgin|TR||94|2w0|38o|7
+Voskepar|AM||80|362|3h6|7|Aksibara;Aghzibara;Haykakan Aksibara;Verin Aksibara;Aksipara;Voskepat;Akhsibara
+Akaroa|NZ||ak|-3do|dch|7
+Akproabo|CI||0|l8|-er|7|Akroabo
+Akrotiri|GB||6e|2o4|2jk|7
+Akunk|AM|Aragatsotn|80|34b|3dy|7|Akunq
+Akakro|CI|Lacs District|0|ig|-e7|7
+Akropótamos|GR||8p|35b|1us|7|Akropotámou
+Akayao|CI||0|le|-9e|7
+Akıncılar|TR|Bartın|94|37c|2hq|7
+Akçakale|TR|Kars Province|94|34o|3aj|7
+Akanangbo|CI||0|kz|-at|7
+Aksoy|TR||94|2ve|37s|7
+Akulivik|CA||59|4ow|-618|6
+Akokoro|CI||0|iu|-9r|6
+Akropotamiá|GR||8p|30l|1me|6
+Akdilek|TR||94|30s|3bc|6
+Aktove|UA||98|3oj|2fe|6
+Akhíllio|GR||8p|30d|1rs|6|Achilleio;Kalyvia Chamakou;Achilio;Achillio
+Akiachak|US||1h|4p7|-cgf|6|Akiachuck;Akiachuak;Akiachok;Akiacuar;Akiakchak
+Akçadere|TR||94|2zb|2ba|6
+Akataki|JP||7q|2na|ahg|6
+Akkeçili|TR||94|2xd|2b7|6
+Akarçay|TR||94|2uk|2xn|6|Akarchay
+Okli Hed|UA||98|3pd|1s1|6|Aklihegy
+Achladochóri|GR|Central Macedonia|8p|36s|1te|6|Akhladokhóri
+Aklavik|CA||2s|59i|-af1|6
+Akin|TR||94|2yu|2ml|6
+Akarca|TR||94|2uf|2nl|6|Akarja
+Akvaskia|GE||7n|3ay|37h|6|Akuaskia;Akvaske
+Akrifoukro|CI||0|kt|-c3|6
+Akçalıuşağı|TR||94|2wp|2s3|6
+Akören|TR|Amasya|94|35c|2rc|6|Ahören
+Akbaş|TR|Antalya|94|2uy|2ej|6
+Akçamescit|TR||94|37d|2hw|6
+Akhlatyan|AM||80|31k|3jw|5|Akhlatian
+Akafou-Ndrikro|CI||0|l8|-c7|5
+Akayakro|CI||0|lg|-fb|5
+Akçesir|TR||94|2yt|36n|5|Akçasır
+Akçam|TR||94|32q|38m|5
+Akbulut|TR||94|30u|3bn|5
+Akçapınar|TR|Canakkale|94|32x|214|5
+Akdurak|TR||94|2w4|2x8|5
+Akziyaret|TR||94|2vc|34j|5
+Akessémossou|CI||0|ie|-d2|5
+Akçabel|TR||94|2x0|2x0|5
+Varagavan|AM||80|35s|3hz|5|Varaqavan;Axum;Hakhum;Akhum;Azizlu;Vardapeti gyugh
+Øksfjord|NO||9j|5f4|1q3|5|Akšuvuodna;Ákšovuotna
+Akeley|GB||9b|40j|-2p|5
+Aksaz|TR||94|34c|23h|5|Aksas
+Akça|TR|Batman|94|2wh|36p|5
+Akner|AM|Lori|80|364|3g5|5|Vornak;Nerkin Vornak
+Aktaş|TR||94|2xf|385|5

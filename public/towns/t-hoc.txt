@@ -1,0 +1,64 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Hezhou|CN||7i|1vs|8lx|7rb|Hô̤-ciŭ;Che-čou;Fo-chû-sṳ;Hạ Châu;Hohcouh;Hō-chiu-chhī
+Al Hoceïma|MA||d|2px|-ay|31w|Villa Alhucemas;Villa Sanjurjo;Alhucemas;Al-Husajma;Al-Hoceima;Alhacemas;Al Ḩusaymāt;Al Huceima
+Hechuan|CN||7i|2bb|876|2ws|Ho-ch’uan
+Hockenheim|DE||8r|3t0|nr|5q|Hoggene;Hokenhaimas
+Hochheim am Main|DE||8r|3ux|n7|4q
+Hochfeld|DE||8r|3yu|ir|4j
+Hockley|GB||9b|41u|-5c|3v
+Höchstadt an der Aisch|DE||8r|3u3|u1|3v|Höchstadt
+Hockessin|US||48|32j|-5ua|3r|Ockession
+Hojambaz|TM||5x|2xw|50k|3r|Joyambaz;Hocambaz
+Hockaday|CA||5b|3sy|-9h1|2w
+Höchst im Odenwald|DE||8r|3uc|p0|2u
+Höchberg|DE||8r|3ua|rg|2m
+Choceň|CZ||9m|3uw|192|2f|Hoceņa;Checeň
+Hochdorf|CH||a7|3n1|n1|2a
+Chocianów|PL||a5|3yu|186|2a|Hocjanova
+Höchst|AT||a2|3nu|qs|28
+Höchstädt an der Donau|DE||8r|3r1|td|1w
+Khojaly|AZ||61|32v|3lz|1m|Xocalı;Ivanyan;Khodjaly;Xocalı rayonu;Ĥoĝali;Xocalın piirikunta;Khojali;Daerah Khojali;Khojali Rayon;Rayon Khojali;Distrito ng Khojali;Hocalı Rayonu;Rejon Xocalı;Hojali;Joyalí;Khodzhaly;Khozhali
+Hocking|AU||8k|-2g9|8xq|1m
+Hoshcha|UA||98|3wk|224|1f|Hoschtscha;Hoszcza;Xoshcha;Hochtcha;Hošča;Goşça;Hoșcea;Hoscha;Goshcha
+Hochspeyer|DE||8r|3tc|ly|1d|Hochschbaija
+Hockinson|US||3p|3j2|-9g9|1c
+Hoctun|MX||3z|1lz|-6vs|1b
+Hochdorf|DE|Baden-Wurttemberg|8r|3r9|qa|1b
+Hoçisht|AL||9y|34t|1m3|19|Hochishte
+Hocaba|MX||3z|1lu|-6vx|15
+Chociwel|PL||a5|44j|16l|x|Friwôłd;Hocivela
+Hoceni|RO||8u|3la|25t|w
+Höckendorf|DE||8r|3ya|12n|w
+Hochfelden|FR||9k|3rg|l1|v
+Hochdorf-Assenheim|DE||8r|3ta|n0|u
+Hökåsen|SE||9w|4lr|1a2|u|Höckåsen
+Hocalar|TR||94|2z6|2b9|q
+Spodnje Hoče|SI||9a|3l6|17h|q|Hoce-Slivnica
+Hochkirch|DE||8r|3y3|14h|p|Bukecy
+Höchenschwand|DE||8r|3ol|mp|p
+Hochstadt|DE||8r|3st|mt|p
+Vysoká pri Morave|SK||8s|3q9|1az|m|Hochštetno;Nagymagasfalu;Hochstädten
+Hochdorf|DE|Baden-Wurttemberg|8r|3pf|r7|l
+Hochstatt|FR||9k|3oi|k8|k
+Hukvaldy|CZ||9m|3tu|1em|j|Hochwald
+Hochstadt am Main|DE||8r|3vb|v1|h
+Hochstetten-Dhaun|DE||8r|3uc|ku|g
+Hockley Heath|GB||9b|41f|-4y|g
+Hochpoint|AT||a2|3ps|130|f
+Hochfelden|CH||a7|3o0|no|e
+Höchheim|DE|Bavaria|8r|3vx|t1|d
+Hochwald|CH||a7|3nt|l8|d
+Hochdonn|DE||8r|463|ps|c|Hochdorn
+Höchstädt im Fichtelgebirge|DE||8r|3v6|xl|c
+Hochfilzen|AT||a2|3nv|z2|c|Hohfilcene
+Hockwold cum Wilton|GB||9b|41q|1j|c
+Hociungi|RO||8u|3m1|22e|c
+Hochtregist|AT||a2|3mu|161|b
+Hoca İbrahim Güneş Mahallesi|TR||94|32v|3e6|a
+Hochwolkersdorf|AT||a2|3oe|198|9
+Hockliffe|GB||9b|409|-1n|8
+Höchstenbach|DE||8r|3wn|li|7
+Hochstätten|DE||8r|3u9|lr|7
+Hochheim|DE|Thuringia|8r|3xk|uk|5
+Höch|AT||a2|3nl|116|5

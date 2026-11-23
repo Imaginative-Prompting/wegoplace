@@ -1,0 +1,114 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lipetsk|RU||9i|423|31v|3xl|Lipeck;Lipieck;Lipețk;Lipeckas;Ļipecka;Lipezk;Lipjeck
+Leipzig|DE||8r|3ym|yd|3wa|Lipsko;Lipcse;Lipsia;Leipcigas;Leipciga;Lipsk;Lipsca;Lajpcigu;Leypsiq;Lajpcik;Léypzig;Läipcig;Lipekika
+Lipa City|PH||71|12q|9ck|1mz|Ciudad ti Lipa;Lipa
+Liping|CN|Guizhou|7i|20v|8f5|mz
+Liepāja|LV||9n|4cy|1md|iq|Lipawa;Liepoja;Lietaja;Liyepaya;Liepaiya;Liepaya;Leepaja
+Lippstadt|DE||8r|3zj|n6|io
+Liptovský Mikuláš|SK||8s|3sc|1ii|8e|Liptowski Mikulasz;Liptószentmiklós;Liptau-Sankt-Nikolaus
+Lipkovo|MK||9u|394|1nz|7t|Lipkovë
+Lipno|PL|Kujawsko-Pomorskie|a5|42s|1ha|44
+Lipótváros|HU||8v|3ny|1gx|3d
+Liperi|FI||92|4tp|29l|3b|Libelits
+Lipova|RO|Arad County|8u|3k1|1oa|32|Lippova
+Liping|CN|Gansu|7i|2k7|83c|2v
+Li Punti-San Giovanni|IT||9o|358|nl|2p
+Lipljan|XK||8q|3a4|1mp|2i|Lipjan
+Leibnitz|AT||a2|3ly|176|2d|Lipnica
+Lypovets|UA|Vinnytsia|98|3sr|28q|2b|Lipowiec
+Lipki|RU||9i|46x|2w8|2b
+Lipník nad Bečvou|CZ||9m|3tl|1cv|28|Lipnīka pie Bečvas
+Liptovský Hrádok|SK||8s|3s8|1is|1y|Liptóújvár;Liptovski Hrādoka;Liptovski Hradok;Liptowski Gródek;Neuhäusel in der Liptau
+Lipayran|PH||71|uq|9jf|1w
+Lipovtsy|RU||7w|3es|a5w|1u|Lipovtsı;Lipowcy;Lipovtsky
+Liphook|GB||9b|3xw|-28|1t
+Lipany|SK||8s|3sj|1m8|1t|Héthárs;Lipani;Lipiany
+Lipnik|PL|Silesia|a5|3ue|1gz|1r
+Lipsko|PL||a5|3y4|1o5|1l
+Lipomo|IT||9o|3j7|pc|1j
+Lipăneşti|RO||8u|3h5|20a|1e|Lipănseti
+Lippajärvi|FI||92|4nb|1wo|19|Klappträsk;Libis;Lipis;Lippari;Lippis
+Lipovăţ|RO||8u|3ld|24y|18
+Lipowa|PL||a5|3u0|1h1|18
+Lypnyazhka|UA||98|3ql|2ec|17|Lypniazhka;Lipnyazhka
+Lipari|IT||9o|2yv|15j|17
+Lyptsi|UA||98|3vh|2t6|16|Liptsy;Lyptsy;Liptsi
+Lipa Piotrowska|PL||a5|3y5|1b7|16
+Lipiany|PL||a5|438|15l|16|Lëpienié;Lipjani
+Lipnica Wielka|PL|Lesser Poland|a5|3tf|1ik|15|Alsólipnica;Dolná Lipnica;Nižná Lipnica
+Lipin Bor|RU||9i|4ne|2xi|12
+Lipniţa|RO||8u|3ei|24o|11
+Liptovské Sliače|SK||8s|3sa|1hv|11
+Liptáktelep|HU||8v|3nt|1h8|11
+Lypcha|UA||98|3q2|1sy|10|Lipcse;Lipse;Lipcha
+Lipahan|PH||71|12g|9d8|y
+Lipolist|RS||8q|3g6|1i6|w
+Lipovu|RO||8u|3ei|1tn|w
+Lypetska Poliana|UA||98|3q9|1sw|u|Lipetska Polyana;Lypets’ka Polyana
+Lipova|RO|Bacău County|8u|3ls|23n|t
+Lipay|PH||71|16y|994|r
+Lipsheim|FR||9k|3qp|lb|q
+Lipnica Mała|PL||a5|3tk|1ij|p|Felsőlipnica
+Lipsk|PL||a5|459|1t0|p|Liepinė
+Lipnički Šor|RS||8q|3fu|1hj|m
+Lipia|RO|Ilfov|8u|3g7|20y|m
+Lipka|PL||a5|44m|1bx|m
+Lipinki|PL|Lesser Poland|a5|3tz|1n5|m
+Lipscomb|US||2f|2kv|-6ph|m
+Lipusz|PL||a5|46a|1de|l|Lëpùsz
+Lipová-lázně|CZ||9m|3vj|1bm|k
+Lipik|HR||a6|3i5|1bn|k|Lippik
+Lipnica Wielka|PL|Lesser Poland|a5|3u2|1lz|j
+Lipovljani|HR||a6|3i4|1ax|j|Lipovljane
+Lipia|RO|Buzău County|8u|3he|22a|j
+Lipinki Łużyckie|PL||a5|3zg|15o|i
+Lipnik|PL|Lesser Poland|a5|3ub|1js|g
+Liptál|CZ||9m|3sx|1ds|f|Lipthal
+Lypovets|UA|Zakarpattia|98|3q4|1sq|f|Lipovets
+Lipuntahuaca|MX||41|1jt|-7j7|f
+Lipoyo|CI||0|dw|-gq|e
+Lipov|CZ||9m|3ru|1ci|e
+Lippenhuizen|NL||8m|43a|gx|d|Lippenhuzen
+Lipnica|PL|Subcarpathia|a5|3vp|1ot|d
+Lipnica Gornja|BA||9r|3fw|1fq|d
+Lipce Reymontowskie|PL||a5|406|1je|c
+Lipci|ME||9l|3a2|1fu|c
+Lipovec|CZ||9m|3t6|1ap|c
+Lipno|PL|Greater Poland|a5|408|1a1|c
+Lippelo|BE||8t|3xs|bu|b
+Lipůvka|CZ||9m|3t2|19z|b|Lipuwka
+Lipie|PL||a5|3xp|1g8|b
+Lipovci|SI||9a|3lj|193|b|Hársliget
+Lipnica|BA||9r|3ft|1fp|a
+Lípa|CZ|Vysocina|9m|3tn|176|a
+Lipara|CI||0|ol|-ik|a
+Lipnica|PL|Greater Poland|a5|421|19s|a
+Lipovec|SK||8s|3sh|1gl|9
+Lipnica Murowana|PL||a5|3ui|1l1|9
+Lipowiec Kościelny|PL||a5|43i|1k2|9
+Lypianka|UA||98|3t6|2p9|8|Lipyanka
+Lipinki|PL|Warmia-Masuria|a5|44j|1ho|8
+Lipnica|PL|Pomerania|a5|460|1cd|7|Lëpińce
+Lipová|CZ|Olomouc Region|9m|3tl|1au|7
+Lipprechterode|DE||8r|3yy|tb|7
+Lipău|RO||8u|3ok|1s9|7
+Lípa|CZ|Zlín|9m|3sq|1dd|7
+Lipnice nad Sázavou|CZ||9m|3tt|16t|7
+Lipnik|PL|Łódź Voivodeship|a5|3yb|1gf|7
+Lipová|CZ|Ústí nad Labem Region|9m|3xp|13w|7
+Lípa nad Orlicí|CZ||9m|3v9|18q|6
+Lipnica Dolna|PL||a5|3ua|1ne|6
+Liptovská Sielnica|SK||8s|3si|1i7|6
+Lipník|SK||8s|3ri|1fz|6
+Lipová|CZ|Carlsbad Region|9m|3v0|yl|6
+Lipa|SI||9a|3lh|199|6|Kislippa;Lippa
+Platerówka|PL||a5|3xu|165|6|Nieder Linde;Platerowo;Lipy Dolne;Zalipie Dolne;Nieder Linda
+Lypove|UA||98|3tg|2iw|6|Lipovoye
+Lipovac|HR||a6|3h6|1gz|6
+Lipí|CZ||9m|3rz|13v|6
+Liparó|GR||8p|357|1pt|6
+Liptovský Trnovec|SK||8s|3sg|1ib|6
+Lipoveni|RO||8u|3ok|20v|5
+Lippe|DE||8r|3wv|me|5
+Lipno nad Vltavou|CZ||9m|3r4|13j|5
+Lipno|CZ||9m|3vq|120|5

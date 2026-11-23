@@ -1,0 +1,244 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Koshigaya|JP||7q|2rp|asb|2ny|Koshigaja;Kosyigaya;Kosigaya-chhī
+Kosti|SD||r|10k|2iq|2nv|Kusti;Costi
+Constanţa|RO||8u|3eq|27j|2ga|Konstanca;Constanza;Konstanco;Costanza;Constantia;Constança;Köstence;Konstanza;Küstence;Costansa;Konstantza;Constancia;Konstansa;Konstanta;Küstenja;Constantza;Kustenji;Kustenje
+Kostroma|RU||9i|4gh|35p|251|Kostrom;Kosztroma;Costroma;Kostromna
+Košice|SK||8s|3rb|1n2|1qi|Kaschau;Kassa;Koszyce;Cassovia;Koşitse
+Kostanay|KZ||7c|43t|4wq|1mc|Qostanay;Kustanay;Nikolayevsk;Qostanai;Kostanái;Kostanajus;Kostanaj;Qoʻstanay;Kustanaj;Qostanaj;Kustanai
+Kokshetau|KZ||5s|440|5cr|15u|Kökschetau;Kokchetaou;Kökşetaw;Kokčetau;Kokxetau;Koksetau;Kekšetau;Koksjetau;Koʻkshetau;Kokczetaw;Köshetaū;Kokchetau;Kokchetav;Kokchetar
+Koszalin|PL||a5|46j|18x|tv|Scurgum;Košalina;Köslin;Košalinas;Kòszalëno;Koshalin
+Mitrovicë|XK||8q|3b4|1lz|tq|Kosovska Mitrovica;Mitrovica
+Kosmichnyi|UA||98|3oq|2pu|nt
+Coslada|ES||9d|34a|-9w|mr|Coslata;Koslado
+Konstanz|DE||8r|3oe|pi|ml|Constanza;Kostnice;Constance;Costanza;Konstancja;Constança;Constanța;Konstanco;Konstantza;Constantia;Kostnica;Costansa;Konstancas;Konstanca;Costnitz;Kostnitz;Costanz
+Koson|UZ||7g|30g|526|j5
+Kostyantynivka|UA|Donetsk|98|3qt|2wr|iq|Kostjantyniwka;Kostiantynivka;Kostjantinivka;Kostantinovka;Konstantinowka
+Kosong|KR||7h|2ym|9wv|hc
+Kōshi|JP|Kumamoto|7q|2jd|a3a|h6
+Kosai|JP||7q|2oe|am0|gm
+Kosi|IN||6t|257|5z4|el
+Kosonsoy|UZ||7m|36l|5ir|e5
+Ko Samui|TH||62|qi|7pm|dw|Koh Samui
+Kyustendil|BG||9v|39g|1r1|d1|Kjustendil;Köstendil;Küstendil;Kiousténdil;Keustendil
+Kosamba|IN||6t|1nm|5mo|98
+Kōshū|JP||7q|2r8|aph|8r
+Kostopil|UA||98|3xc|21h|8k|Kostopol;Kostopel;Kostopol’
+Kostomuksha|RU||9i|4zd|2cy|8d|Kostomukscha;Kostomukŝa;Kostamus;Kostomuksza;Kostomuksja
+Kosan|KP||7a|2zy|9ty|6w
+Kościan|PL||a5|40p|1a9|6p|Kosten;Koscjana;Kòscan
+Koster|ZA||o|-1zu|22q|6i
+Kościerzyna|PL||a5|46c|1dy|6h|Kòscérzna;Koscežina;Koscežyna
+Kozyatyn|UA||98|3u4|284|6g|Koziatyn;Kozjatin;Kosjatyn
+Berestyn|UA||98|3t6|2qg|5y|Krasnohrad;Krasnohradas;Kostiantynohrad;Berestina;Berestin;Kostjantynohrad;Krasnograd
+Podporozh’ye|RU||9i|4p7|2mw|5g|Podporozje;Koskenala;Košenala;Podporoshje
+Kos|GR||8p|2uh|23t|5c
+Cosquín|AR||1n|-2et|-4z3|5b|Koskinas
+Kosaya Gora|RU||9i|46c|2wa|4y|Kosaja Gora
+Kostrzyn nad Odrą|PL||a5|423|14p|4y|Cüstrin;Küstrin an der Oder;Kòscérzëno;Kostrzyn ĉe Odro;Kostrin;Kostšina pie Odras;Kostšynas prie Odros
+Kozienice|PL||a5|3za|1nv|4r|Kozeņice;Kozenicai;Koschnitz;Kozenitse
+Kosovo Polje|XK||8q|3ai|1mm|4i|Fushë Kosovë;Kosovo;Fushë-Kosova
+Košíře|CZ||9m|3v3|13w|4h
+Kasumi|JP||7q|2qz|adz|4h|Kosumi
+Kosigi|IN||6t|182|5yk|4b|Kosgi;Kesigi
+Koźle|PL||a5|3vu|1ee|44|Cosel;Kosel;Kössel
+Kostyukovichi|BY||9g|447|2h1|44|Kastsyukovichy
+Kastoria|GR||8p|34k|1n2|3q|Kesriye;Kostur;Kosturi;Castória;Kastorija;Kesrie
+Kosuge|JP|Tokyo|7q|2rb|ase|3g
+Koshksarāy|IR||7o|2yu|3il|3f|Kashk Saray;Kūshg Sarāy;Koghk Sarāy;Kūshk Sarāy;Koshk Sarāy
+Kostinbrod|BG||9v|3ay|1si|3e
+Koseda|JP||7q|2cf|a2x|3b
+Kostyantynivka|UA|Zaporizhzhia|98|3m2|2qe|37|Kostiantynivka
+Kőszeg|HU||8v|3nn|19y|37|Kiseg;Ginsium;Keseg
+Kozloduy|BG||9v|3dm|1tx|35|Kosloduj;Kozlodouy;Kozlodujus;Kozłoduj;Kozloudoui;Kozludui;Koslodui;Kozlodui
+Koshi|JP|Toyama|7q|2uj|am5|33
+Kosum Phisai|TH||62|195|7yb|2z|Kosumbhisai
+Kastsyukowka|BY||9g|41y|2dw|2y|Kostyukovka
+Kusavampatti|IN||6t|v6|616|2w|Kosavampatti
+Kaišiadorys|LT||a3|48f|1vz|2r|Koszedary;Koshedary;Kaišedorys;Kashedary;Kayshadorys;Kaišiadorio
+Köşk|TR||94|2x5|25x|2p
+Kosterevo|RU||9i|4bd|321|2l|Kosterovo
+Köseköy|TR||94|356|2bd|2k
+Kosmī|IN||6t|1ok|66t|2i
+Kostrzyn|PL||a5|41k|1bv|2i|Kostšina
+Köse|TR||94|33p|325|2f
+Kosiv|UA||98|3q8|1xp|2d|Kosów;Kossiw;Kossiv;Cosău
+Koshki|RU||9p|46l|3w7|29|Kosjki
+Kosciuszko National Park|AU||8l|-2sq|bgg|27
+Kozelets|UA||98|3xf|2eg|24|Koselez;Kozelec;Kozielec;Kozeleț
+Koshekhabl’|RU||9i|3gq|34i|21|Kosjekhabl
+Kosciusko|US||2f|2ju|-6wv|20|Cosciusco
+Kosso|CI||0|e1|-g2|1x
+Kossonoukro|CI||0|gp|-9f|1v
+Koźmin Wielkopolski|PL||a5|3zz|1ch|1v|Koschmin;Kozmina Velkopolska
+Kostelec nad Orlicí|CZ||9m|3v8|191|1q
+Cosrou|CI||0|es|-cy|1p|Kosrou;Cosru
+Kosmach|UA|Ivano-Frankivsk|98|3q9|1wx|1p|Kosmatsj;Kosmatsch;Kosmatj;Kosmatch;Kosmacz;Kosmaci;Kozmacz
+Kozawa|JP||7q|3bd|aus|1m|Kosawa
+Kosh-Agach|RU||63|3uv|6uc|1l|Kosj-Agatsj
+Kosikha|RU||63|448|6iy|1k
+Kossandji|CI||0|g6|-a2|1i|Kossadji;Kossandi;Kossaji
+Kasauli|IN||6t|2du|5xt|1g|Kosauli
+Koshimizu|JP||7q|3du|b5b|1e
+Kossou|CI|Yamoussoukro|0|jg|-f8|1e
+Koskinoù|GR||8p|2t3|26e|1d
+Kosaka|JP||7q|346|aux|1c
+Kostajnica|BA||9r|3hm|19y|1b
+Keswick|GB||9b|47o|-8p|1b|Koswick
+Kossuth Ferenc-telep|HU||8v|3np|1ha|19
+Koszęcin|PL||a5|3wn|1gc|19|Kosięcin
+Kostelec nad Labem|CZ||9m|3vj|14j|19
+Kostrena|HR||a6|3hu|14b|18
+Kössen|AT||a2|3of|yh|17|Kessn
+Kostik|CN||7t|3or|6ql|17|Qostiq
+Kosivska Poliana|UA||98|3pc|1uz|16|Kosovska Polyana;Kosivs’ka Polyana
+Khoshk-e Sarā|IR||7o|2tr|3yy|16|Koshk-e Sarā;Koshkesarā
+Kostelec nad Černými lesy|CZ||9m|3uv|15a|16|Schwarzkosteletz
+Kostek|RU||9i|3ce|3m5|15|Kestek
+Kosséhoa|CI||0|gv|-hi|15|Kosséboa;Koséoa
+Kostylivka|UA||98|3pb|1v8|14|Kostylevka;Kostilovka
+Kościelisko|PL||a5|3sx|1j9|13|Koscielsko
+Kosmonosy|CZ||9m|3w4|15h|12|Kosmanos
+Kossuthfalva|HU||8v|3ns|1h4|12
+Kostroma|UA||98|3s8|2kw|12
+Koshurnikovo|RU||6u|46h|776|11
+Kozelshchyna|UA||98|3sq|2m1|10|Kozelchtchyna;Koselschtschyna;Kozelštšyna;Kozelščyna;Kozelşçına;Kozelszczyna;Kozelșciîna
+Kosina|PL||a5|3v3|1q1|10
+Kozachi Laheri|UA|Kherson|98|3lr|2jm|10|Kozatsji Laheri;Kosatschi Laheri;Kozatji Laheri;Kozači Laheri;Kozachi Lageri;Kozatši Laheri;Kozaczi Łaheri;Kazach’i Lageri
+Gostilitsy|RU||9i|4lz|2aa|10|Kosteritsa;Gostilicy;Gostilizy;Gostilitsi
+Kostino|RU|Kirov Oblast|97|4jn|43z|z
+Kostychany|UA||98|3pz|21o|z|Kostytchany;Costiceni
+Koskela|FI|North Ostrobothnia|92|50p|1yp|y
+Kossihouen|CI||0|fc|-bw|y|Kossibouen
+Koskela|FI|Uusimaa|92|4na|1xd|y|Forsby
+Kūshk-e Nār|IR||7o|23p|42v|x|Kūshk Sār;Koosh Kenar;Kush Kunār;Kūshk Nār;Koshkonār;Kūshkonār
+Kosh|AM||80|33y|3en|v
+Koshelovo|UA||98|3q0|1st|v|Keselymező;Koshelëvo;Kosheliovo;Košelovo;Kosheleve;Koshel'ovo
+Kostino|RU|Moscow Oblast|9i|4bn|2xc|u
+Kostelec na Hané|CZ||9m|3tj|1be|t
+Kasina Wielka|PL||a5|3u5|1jy|s|Kosina Wielka
+Košeca|SK||8s|3s5|1eq|s
+Košťany|CZ||9m|3wq|128|r
+Kostryzhivka|UA||98|3r5|1zf|q|Costrijeni;Kostryjivka;Kostryschiwka;Kostrijivka;Kostryživka;Kostrízhivka;Kostryżiwka;Kostryzhuvka;Kostrizhovka;Kostryzówka;Kostrizhevka
+Kostrovo|RU||9i|4b9|2tx|q
+Koszyce Wielkie|PL||a5|3uu|1m7|q
+Koslan|RU||9i|4wa|3ru|p
+Koszarawa|PL||a5|3tw|1hw|p|Koszarowa
+Kossa|DE||8r|3ze|z8|p
+Kostolište|SK||8s|3ql|1b6|o
+Kosd|HU||8v|3ot|1ha|o
+Koson|UA||98|3q1|1qe|n|Mezőkaszony;Kosson
+Kosino|RU||97|4i9|3yg|n
+Köşkerler|TR||94|2ss|2bc|n
+Kose|EE|Harjumaa|9x|4l6|1x4|m|Koze
+Kosa|RU||7z|4mj|48r|m
+Köseçobanlı|TR||94|2t8|2k2|m
+Koski Tl|FI||92|4oh|1sb|m|Koski
+Hämeenkoski|FI||92|4pi|1xv|l|Koski
+Kostyantynivka|UA|Mykolaiv|98|3ov|2ej|l|Kostiantynivka
+Kosów Lacki|PL||a5|424|1pj|l|Kosuv Lackai;Kosova Lacka
+Kostakioí|GR||8p|30q|1m8|l
+Kosawada|JP||7q|33a|atp|l
+Koshmanivka|UA||98|3tl|2p6|l|Koshmanovka
+Kößlarn|DE||8r|3qd|10g|j
+Kösbucağı|TR||94|2tx|2n5|j
+Kostohryzove|UA||98|3l6|2ja|j
+Kostomlaty nad Labem|CZ||9m|3vf|15k|j
+Kostice|CZ|South Moravian|9m|3rf|1b6|j
+Kozhanka|UA||98|3ut|2ao|i|Koschanka;Kojanka;Kožanka
+Kosava|BY||9g|42k|1xw|i|Kossovo;Kossava;Kossov
+Koserow|DE||8r|465|12w|i
+Koszyce|PL|Lesser Poland|a5|3ut|1m6|i
+Kościelec|PL|Silesia|a5|3xe|1he|h
+Košťálov|CZ||9m|3wh|16s|h
+Kosmynino|RU||9i|4fy|358|h|Kosminino
+Košute|HR||a6|3d7|1ae|h
+Kostomłoty Pierwsze|PL||a5|3xg|1l7|g
+Kossoyo|CI||0|fr|-gu|f
+Kostomłoty Drugie|PL||a5|3xh|1l5|f
+Kosmach|UA|Ivano-Frankivsk|98|3rf|1vp|f
+Kostyantynivka|UA|Kherson|98|3m3|2m3|f|Kostiantynivka
+Kostolné Kračany|SK||8s|3pa|1cu|e
+Kosivka|UA||98|3rl|2jr|e|Kosovka
+Kosova Hora|CZ||9m|3tx|147|e
+Kosel|DE||8r|47f|r4|d
+Voskevan|AM||80|368|3h6|d|Koshkotan;Ghshghtan;Ghoshkhotan;Ghoshghotan
+Kosel|MK||9u|36d|1lw|d
+Koshima|JP||7q|2bz|a2m|c
+Kostyntsi|UA||98|3q4|1z8|c|Costești
+Köseli|TR||94|2x4|34t|c|Këseli
+Koška|HR||a6|3ij|1et|c|Koszka
+Kosuriq|XK||8q|3a9|1ku|c|Kosurić
+Koshulyany|UA||98|3q1|21s|b|Kochouliany;Coșuleni
+Gosh|AM||80|355|3h0|b|Getik;Nor Getik;Kosh;Ghoshavank;Shen Ghoshavank
+Kossou|CI|Lacs District|0|jc|-dt|b
+Košecké Podhradie|SK||8s|3s1|1ev|b
+Köstendorf|AT||a2|3p7|10o|b
+Kosyno|UA||98|3qr|1rb|a
+Kosy|UA||98|3og|29y|a|Kossy
+Koš|SK||8s|3re|1fn|a
+Kostenki|RU||9i|3ys|30g|a
+Kosi|HR||a6|3i4|13x|a
+Kostryna|UA||98|3ry|1qr|a|Csontos;Chontosh;Kostriny
+Kosta|SE||9w|4dw|16s|a
+Kose-Uuemõisa|EE||9x|4kg|1xr|a
+Kostiantynopil|UA||98|3pc|2uw|a|Konstantinopol';Kostyantynopil’
+Kozłów|PL|Silesia|a5|3vr|1fk|a|Koslow
+Kostelec u Holešova|CZ||9m|3t5|1cn|a
+Koşuboğazı|TR||94|339|26h|a
+Kozolupy|CZ||9m|3u8|10t|a|Kosolup
+Kostolná pri Dunaji|SK||8s|3pv|1cg|9
+Kostychi|UA||98|3nd|2hi|9|Kostichi
+Kostomlaty pod Milešovkou|CZ||9m|3wg|12j|9
+Kościelec|PL|Greater Poland|a5|40x|1fl|9
+Koshary|UA||98|3mh|2bt|9
+Kostochkovka|UA||9t|3hw|2ob|9
+Kostelany nad Moravou|CZ||9m|3s9|1cd|9
+Košolná|SK||8s|3qi|1ci|9
+Kosoř|CZ||9m|3uv|13t|9
+Kūshk|IR|East Azerbaijan|7o|2xy|3in|9|Keshk;Kūshg;Koshk
+Kostyantynivka|UA|Mykolaiv|98|3mt|2go|8|Kostiantynivka
+Kostelec|CZ|Vysocina|9m|3t4|171|8
+Kostomłoty|PL|Lower Silesia|a5|3xt|1a5|8|Kostenblut
+Koszyce|PL|Lesser Poland|a5|3vd|1l6|8
+Koskullskulle|SE||9w|56m|1ln|8
+Kosorowice|PL||a5|3wh|1e5|8
+Kostelec|CZ|South Moravian|9m|3s7|1bn|8|Kosteletz
+Kostivere|EE||9x|4l3|1xq|8
+Kostomłoty|PL|Lublin|a5|40e|1tq|8
+Santi Cosma e Damiano|IT||9o|36q|12e|8|Tempel van Romulus;Kosmas- og Damiankirken
+Košetice|CZ||9m|3to|160|8
+Kosakowo|PL||a5|47n|1fc|8
+Kossandougou|CI||0|lf|-bl|7
+Kostelní Lhota|CZ||9m|3v9|15q|7
+Köseler|TR||94|2wq|2zb|7
+Kostarowce|PL||a5|3tr|1pf|7
+Kösetarla|TR||94|2x9|36g|7
+Kösedere|TR||94|323|20q|7|Kösdere
+Kostanjevica na Krki|SI||9a|3jd|16u|7|Landstraß;Kostanjevica ob Krki
+Košice|CZ||9m|3t1|14z|7
+Kosagi|CI||0|mt|-mi|7|Kossagui
+Kosuge|JP|Yamanashi|7q|2rc|apy|7
+Kosin|PL||a5|3x6|1ov|7
+Kościelec|PL|Kujawsko-Pomorskie|a5|42n|1eg|7
+Kostolná-Záriečie|SK||8s|3rs|1dx|7
+Chervonokostyantynivka|UA||98|3py|2ka|6|Kostiantynivka;Kostyantynivka;Chervonokostiantynivka
+Kostel|SI||9a|3if|15f|6
+Koshove|UA||98|3ls|2oo|6|Maksyma Hor’koho;Maksima Gor’kogo;Maksyma Horkoho
+Košarovce|SK||8s|3s8|1oi|6
+Koštice|CZ|Ústí nad Labem Region|9m|3w0|12q|6
+Kościelec|PL|Greater Poland|a5|407|1el|6
+Koshelivka|UA||98|3we|26k|6|Koshelëvka
+Košnica pri Celju|SI||9a|3ke|16b|6
+Kosmirá|GR||8p|31z|1lt|6
+Kostanje|HR||a6|3co|1ar|6
+Koškovce|SK||8s|3s9|1oz|6
+Kose|EE|Võrumaa|9x|4gl|234|5
+Koosa|EE||9x|4ik|237|5|Kosa
+Kostelec|CZ|Plzeň Region|9m|3tz|107|5|Kostelzen
+Kościelec|PL|Lesser Poland|a5|3vg|1kn|5
+Kostry|PL||a5|3zm|1ro|5
+Kostelní Hlavno|CZ||9m|3vm|14u|5
+Kashubivka|UA||98|3tl|2of|5|Koshubovka
+Kostkowice|PL||a5|3ub|1fy|5
+Kostrynska Roztoka|UA||98|3rx|1qv|5|Kostryns’ka Roztoka

@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+Yangon|MM||7y|1ap|7f4|yjs|Rangun;Rangoon;Rangoun;Rangūnas;Rangum;Jangona;Jangono;Ngióng-kông;Jangún;Rangon;Yanqon;Jangon;Yangjgvangh;Yankoun
+Rawalpindi|PK||6q|2lc|5mx|pwo|Ravalpindis;Ravalpindi;Ravalpindo;Ralalpindi
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Rasapūdipalem|IN||6t|1d9|6fg|dc1
+Rabat|MA||d|2mh|-iz|cry|Raba;Rbaṭ;Rabot
+Rājkot|IN||6t|1px|5gn|aqa|Radźkot;Radžkotas
+Ra’s Bayrūt|LB||64|2m6|2qk|9np
+Ranchi|IN||6t|1su|6kz|8n8|Ráňčí;Rančis;Ráncsí
+Rangpur|BD||6a|1zj|6vx|7yi|Rongpur
+Raipur|IN|Chhattisgarh|6t|1mz|6ar|7xd|Rajpuro;Rájpur;Rayapura
+Rajshahi|BD||6a|1vp|6u4|5w4|Rampur Boalia;Rampur Baolia
+Bukit Rahman Putra|MY||6v|8y|7u4|4om
+Rasht|IR||7o|2vk|3tr|4l6|Rascht;Rašt;Raszt;Rasjt;Raŝto;Reşt;Reštas;Raixt;Resht
+Ar Raqqah|SY||69|2rv|30d|43s|Raqqa;Ar-Raqqah;Rakka;Raka;Reqa;Callinicum;Raqqah
+Rahim Yar Khan|PK||6q|26y|5fa|3zm|Rahimyar Khan;Rahimjar Khan;Rahim Jar Ĥan;Rahimjarhan;Bahim Yar Khan
+Raleigh|US|North Carolina|48|2rd|-62g|3pz|Rolio;Roli;Rolis;Rolės
+Rạch Giá|VN||6h|rt|83w|3jr|Li̍t-ka-sṳ;Racža;Rach Zhia
+Rāmgundam|IN||6t|1g8|64p|3hn|Ramagundam
+Rajpur Sonarpur|IN||6t|1qc|6tn|39w|Rajpur;Sonarpur;Sonarpur Rajpur
+Tallinn|EE||9x|4l4|1wr|31g|Rääveli;Talino;Tallin;Taillinn;Talín;Castrum Danorum;Talinas;Tallina;Revel;Talini;Reval;Talins;Lindanäs;Tallidn;Revel';Kallinn
+Rajamahendravaram|IN||6t|1b9|6b6|2wj|Rajahmundry;Rajahmondry;Rajahmundri
+Ras Al Khaimah|AE||6c|1zn|4be|2pr|Ras al-Khaimah;Ra’s al-Chaima;Ras el Khaïmah;Ras el-Kheima;Ras al-Hajma;Ras al-Chajma;Ras al Hajma;Resü'l-Hayme;Ra’s al Khaymah
+West Raleigh|US||48|2rf|-62i|2m4
+Randburg|ZA||o|-20h|25s|2ln|Rendburg
+Ramiros|AO||x|-p6|109|2hw
+Rosetta|EG||c|2f8|2ci|2bu|Rosette;Rasyid;Roseta;Raŝido;Rashīd;Rašid;Ar-Rašíd;Reşid;Rozeta;Er-Rashid
+Rāmpur|IN|Uttar Pradesh|6t|281|63j|2ac
+Rourkela|IN||6t|1pq|6jq|23x|Rourkera;Rourella;Raurkella;Roukela
+Ar Rayyān|QA||7b|1y9|3yu|23p|ar-Rayyan;Al Rayyan;Al Raiyan
+Ratlām|IN||6t|1st|5sg|21l|Hatlam
+Rānipet|IN||6t|zw|64d|21f
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Ramagundam|IN||6t|1g4|64r|1vi
+Rāichūr|IN||6t|191|5yw|1t1
+Radom|PL||a5|3ys|1mr|1r0|Radům;Là-tô-mê
+Ramadi|IQ||5z|2ku|3cb|1q3|Al-Rumadi;Remadî
+Rāniganj|IN|Telangana|6t|1cf|621|1oj
+Raurkela Industrial Township|IN||6t|1po|6jq|1o4
+Rancagua|CL||4u|-2mx|-5gi|1n3|Rankagva;Rankawa;Rancaqua

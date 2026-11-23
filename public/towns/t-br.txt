@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bursa|TR||94|33o|28q|nxm|Burs;Burso;Prusa;Prusa ad Olympum;Boursa;Prousa;Brusa
+Brisbane|AU||8c|-24b|bt3|lg9|Brisbano;Brisbenas;Brisben;Brėsbens;Pu-lî-sṳ̂-pân;Brisbena;Brisbin
+Brooklyn|US|New York|48|34x|-5pf|l41|Broklino;Bruklinas;Comitatus Bruclinum;Bruklina;Brucclinu;Kings County
+Brasília|BR||4w|-17u|-3p5|h19|Braziljo;Brasiliopolis;Brazilija;Brazília;Brazíliaváros;Brazilėjė;Braxìlia;Brazilja;Bahsihleihya;Breselya
+Brazzaville|CG||a|-bv|16g|fak|Brazavilo;Braza;Brazavilis;Brazavil;Brazzavil
+The Bronx|US||48|35h|-5p7|aor|Bronx;Borough of Bronx;Bronkso
+Birmingham|GB||9b|41s|-5a|8xk|Birmingamas;Birmingema;Birmin'gxam;Birmingem;Brum
+Brussels|BE||8t|3x9|c3|7v2|Bruxelles;Brussel;Bryssel;Brusela;Bruselas;Bruselo;Brukselo;Bruseles;Brusel;Brwsel;Bruiseal;Bruxelas;Brüsszel;Bruxel;Città di Bruxelles;Bruksel;Bruxellae;Bréissel;Briuselis;Brisele;Bruksela;Bruselj;Brussele;Brisel;Brukseli;An Bhruiséil;Kota Brusel;Brasels
+Wrocław|PL||a5|3xy|1bb|56t|Breslau;Vratislavie;Breslavia;Vratislav;Vroclavo;Boroszló;Vrotslav;Vroclava;Vratislavia;Vroclavas;Breslava;Vruoclavs;Breslū;Vroclav;Wrocłow;Brassel;Vroklave;Wroklaw;Vroslav;Vrocuav;Brasloi;Breßlau;Wrosław;Breslavl’
+Brampton|CA||59|3dc|-65l|52d
+Bremen|DE||8r|43g|oh|47t|Brémy;Brême;Brema
+Naberezhnyye Chelny|RU||9i|4au|41m|3xn|Brezhnev;Nabereschnyje Tschelny;Naberezhnye Chelny;Naberežnyje Čelny;Nabereĵnije Ĉelni;Naberežnõje Tšelnõ;Naberežnyje Tšelny;Naberežnije Čelni;Naberežnye Čelny;Naberezjnye Tsjelny;Naberejnye Chelny;Yar Çallı;Yorcholli
+Bristol|GB||9b|3yy|-78|3p2|Bryste;Bristo;Bristón;Bristullu;Briostó
+Bryansk|RU||9i|43z|2nc|3ao|Brjansk;Brjansko;Briańsk;Breansk;Brianski
+Bratislava|SK||8s|3pr|1bj|39p|Prešporok;Bratislavo;Pozsony;Posonium;Preßburg;Bratysława;An Bhratasláiv;Bratisława;Bratisllava;Bratislav;Baratislawa;Presbourg;Presburg;Prešpurk;Preszburg
+Rio Branco|BR|Acre|4s|-rp|-58d|38j|Rio Brankas;Riu Branco;Riu-Branku;Riubranku
+Brno|CZ||9m|3so|1a5|34b|Brünn;Bruna;Berno
+Bradford|GB||9b|45f|-4v|2tq|Bredforda;Bradanford
+Brahmapur|IN||6t|1hn|6jj|2r2
+Brest|BY||9g|40r|1tw|2of|Brześć;Breszt;Bressicia
+Bydgoszcz|PL||a5|43k|1e1|2jo|Bydhošť;Bidgošča;Brombarg;Bydgoščius;Bydgostia;Bromberch;Bıdgoşç;Bëdgòszcza;Bıdqoş;Bromberg;Bydgoshch
+Brent|GB||9b|3z7|-u|2jf
+Brakpan|ZA||o|-20w|26t|2cx
+Brighton|GB||9b|3x7|-e|26v|Brajtono;Braitonas;Braitona
+Brāhmanbāria|BD||6a|1ul|713|25n
+Bratsk|RU||6k|4bx|7u9|1za|Brack
+Braşov|RO||8u|3it|1z5|1yc|Kronstadt;Brassó;Braszów;Kruhnen;Kronstant;Brazov
+Braunschweig|DE||8r|417|t9|1vz|Brunswick;Brunsvicum;Bronswiek;Brunszwik;Brúnsvík;Braunšveiga;Brunswyk;Brunšwik;Braunšveigas;Braunshwéyg;Brunswyck
+Brasilandia|BR|São Paulo|4w|-1t5|-3lp|1vl
+Bnei Brak|IL||6n|2h4|2or|1rw|Benei Beraq;Beney Beraq;Benai Beraq;Bené Berak;Bné Beraq;Bené Beraq;Bnei Berak;Bene Berakas;Bein Berak;Bnej-Brak;Bnei-Brak;Bené-Berac;Bnej Brak;Bney Brak
+Biskra|DZ||3|2ot|fx|1kv|Biskira;Tibeskert;Briskra
+Brescia|IT||9o|3ii|sd|1jo|Brixia;Bresia;Bressia
+Braga|PT||99|37f|-ne|1hp|Bracara Augusta
+Brownsville|US|Texas|2f|1zy|-7iu|1fv|Braunsvilis;Braunsvila
+Breda|NL||8m|3zb|da|1f5
+Bragança Paulista|BR||4w|-1rr|-3la|1d4
+Brusque|BR||4w|-23a|-3rv|175
+Brăila|RO||8u|3hr|25p|16z|İbrail;Uebereyl;Drinago;Brajla;Proilabum;Breila;Brillago;Berâil
+Bridgeport|US|Connecticut|48|36e|-5nb|150|Bridžportas;Bricport;Bridžporta;Briĝporto
+Brest|FR||9k|3qf|-ch|149

@@ -1,0 +1,6 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Anfu|CN|Chongqing|7i|29k|84z|b7
+Anfu|CN|Gansu|7i|2p5|85f|8x
+Ferbane|IE||8z|43z|-lr|c|An Féar Bán
+Falcarragh|IE||8z|495|-mi|9|An Fál Carrach;Falcaragh
+Fenit|IE||8z|418|-rf|5|An Fhianait

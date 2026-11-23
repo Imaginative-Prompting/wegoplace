@@ -1,0 +1,16 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Ostrów Wielkopolski|PL||a5|3zi|1dh|k9|Ostrovo;Ostrovia;Ostrova Velkopolska;Didžiosios Lenkijos Ostruvas;Wjelgopolski Uostrůw;Ostrowo;Astrava;Ostrów;Ostrov
+Verkhnyaya Pyshma|RU||7z|4e9|4oa|gf|Pyshma;Werchnjaja Pyschma;Verkhniaïa Pychma;Verchnjaja Pyšma;Verchnjaja Pysjma;Verxnyaya Pışma;Verĥnjaja Piŝma;Verhnjaja Põšma;Verhnjaja Pyšma;Verkhnjaja Pysjma;Wierchniaja Pyszma;Wjerchnjaja Pyšma;Aukštutinė Pyšma
+Vyaz’ma|RU||9i|49d|2na|ff|Vjazma;Wjasma;Vyazma;Vyasma
+Verkhnyaya Salda|RU||7z|4h9|4o7|dm|Verkhnjaja Salda;Werchnjaja Salda;Verkhniaïa Salda;Verchnjaja Salda;Verxnyaya Salda;Verĥnjaja Salda;Wjerchnjaja Salda;Aukštutinė Salda;Wierchniaja Sałda
+Venëv|RU||9i|46z|2ya|4d|Venyov;Wenjow;Venjov;Veniov;Wjenjow;Veniovas;Weniow
+Verkhnyaya Tura|RU||7z|4i4|4m5|2y|Verkhnjaja Tura;Werchnjaja Tura;Vérjniaya Turá;Verkhniaïa Toura;Verchnjaja Tura;Verchnjaja Toera;Verxnyaya Tura;Verĥnjaja Tura;Wjerchnjaja Tura;Aukštutinė Tura
+Vetluga|RU||9i|4gq|3j6|2d|Wetluga;Vetlouga;Vetluqa;Wjetluga
+Wilthen|DE||8r|3xy|13z|1r|Wjelećin;Viltene
+Neukirch/Lausitz|DE||8r|3xy|13r|1k|Neukirch;Wjazońca
+Welzow|DE||8r|3za|13d|16|Wjelcej;Wjeljcej
+Łęknica|PL||a5|3z6|14y|q|Wjeska;Lenkņica;Łęknice
+Werben|DE|Brandenburg|8r|3zy|13e|j|Wjerbno
+Groß Oßnig|DE||8r|3zk|13w|6|Wjeliki Wóseńk;Groß Osnig
+Groß Döbbern|DE||8r|3zh|13t|6|Wjelike Dobrynje

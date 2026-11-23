@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Yunfu|CN||7i|1rp|8n8|k5s|Hùng-pù;Jün-fu;Vân Phù;Hûn-phû-chhī;Yün-fou
+Ouagadougou|BF||1a|yd|-49|imx|Wàadúu;Uagaduguo;Uagadugú;Vagadugu;Wagadugu;Huagadugu;Uaqaduqu;Ougadougou;Ouagadouga;Uagadougou
+Vadodara|IN||6t|1py|5nd|e26|Vadodaro;Baroda
+Warsaw|PL||a5|413|1md|d4t|Warszawa;Varsovie;Warschau;Varsovia;Varsovio;Varšava;Varssavi;Varsova;Vársá;Varsó;Varsjá;Varsavia;Varšuva;Varsavja;Varshava;Barsobia;Warskou;Warszaw
+Valencia|VE||2c|s8|-58w|chv|Valencio;Balenzia;Valentzia;Valentia;Valensija;Valincia;Valensiya;Valensii
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Valencia|ES||9d|31n|-12|6cz|Valenza;Valentia;Valence;Walencja;Balenzia;Valencija;Valencie;Valencio;Valentzia;Valensia;Valensija;Valensiya;Walénsiye;Valantsa;Valensyaa;Valensėjė;Pâ-lùn-sî-â;Valensii
+São José dos Campos|BR||4w|-1se|-3jh|5lz|Vale do Paraíba;SJCampos;Vale Paraiba;San Žozė dos Kamposas
+Valenzuela|PH||71|14u|9c1|5lg
+Warangal|IN||6t|1e0|652|5fq|Varangal;Varangalas
+Washington|US|District of Columbia|48|302|-5y0|5bj|Vasingtonia;Waszyngton;Vašingtonas;Territory of Columbia;District of Columbia;Vaŝingtono
+Yuncheng|CN||7i|2pa|8kb|58w|Jün-čcheng;Vận Thành;Ông-siàng;Yun’chen
+Vancouver|CA||5b|3st|-9i0|53y|Vankuvero;Vancuverium;Vancôver;Wankuwér;Vankūvera;Venkûver;Vankuver;Fankûver;Vankuveris;Vangúve
+Wenchang|CN||7i|1ib|8js|4bt|Văn Xương;Bûn-chhiong-chhī;Wen-chiang;Wencheng
+Van|TR||94|2yx|3ci|41u|Wan
+Valledupar|CO||27|t3|-5nh|3s5|Valjeduparas
+Huancayo|PE||3o|-xj|-5sx|3ir|Vancaium;Wankayu;Huankajus;Huancaya
+West Jerusalem|IL||6n|2ga|2pu|334|Vest-Jerusalem;Vestjerusalem;Westjerusalem;Västra Jerusalem
+Wad Medani|SD||r|140|2l4|2kf|Wad Madani;Vad Madani;Vad Medeni
+Vaughan|CA||59|3ds|-64u|2hr|Vaŭno
+Varna|BG||9v|3c2|25j|2gj|Warna;Odessos;Odessus
+Marne La Vallée|FR||9k|3ro|7c|2gf
+Valladolid|ES||9d|37q|-d4|2bi|Valadolido;Vayadolid;Pucela;Vallis Tolitum;Pincia;Valladolit;Valdoletum;Valhadolid;Vaładołì;Valladolís;Valjadolidas;Valjadolida;Valyadolid
+Várzea Grande|BR|Mato Grosso|2k|-17h|-4bx|2bd
+Valparaíso|CL||4u|-2js|-5iz|26g|Valparais;Valparaisas;Valparayso;Vallis Paradisi;Valparaėsos;Wǎěr pà lái suǒ;Balparaiso
+Governador Valadares|BR||4w|-1gd|-38j|222|Valadares;Gov. Valadares
+Vantaa|FI||92|4nh|1xk|1y7|Vanda;Vantā;Vantania
+Colonia del Valle|MX||41|1hv|-7ng|1xg|Col. del Valle;Col del valle;del Valle
+Vanderbijlpark|ZA||o|-227|25c|1wk
+Valera|VE||2c|pw|-5g4|1vz
+Puente de Vallecas|ES||9d|347|-a6|1vu|Ponto de Valjeko
+Paris 15 Vaugirard|FR||9k|3ro|6e|1rt
+Varāmīn|IR||7o|2q4|3zh|1qo|Verāmin
+Puerto Vallarta|MX||41|1la|-84b|1qa|Pto Vallarta;Puerto Valarta;Puertovalarta
+NIA Valencia|PH||71|lz|9nh|1q4|Valencia City;Kota Valencia;Valencia Lakanbalen;Dakbayan sa Valencia;Lungsod ng Valencia
+Valparaíso de Goiás|BR||4w|-18n|-3pa|1oo
+Târgu Mureş|RO||8u|3la|1w8|1n4|Neumarkt am Mieresch;Tîrgu Mureș;Marosvásárhely;Novum Forum Siculorum;Neumarkt;Vásárhely;Nai Muark;Maros-Vásárhely;Târgul-Mureş;Turgul Mures;Tyrgu-Muresh
+Moreno Valley|US||3p|2ma|-91n|1kq|Moreno Valli;Moreno slėnis;Morenovaleja;Tééh Hodiłhił
+Vasyl'evsky Ostrov|RU||9i|4mi|2c1|1kf|Vasilinsaari

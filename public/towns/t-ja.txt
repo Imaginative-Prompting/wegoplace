@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Yantai|CN|Shandong|7i|2w4|9dc|1ist|Chefoo;Jen-tchaj;Jantaj;Yên Đài;Iĕng-dài;Jantai;Ian-tâi-chhī;Yen-t’ai
+Rio de Janeiro|BR||4w|-1rn|-3by|1g2e|Rio-de-Ĵanejro;Rio de Žaneiras;Urbs Fluminensis;Riodežaneiro;Rio-de-Janeyro;Rio de Janeiru;rios. dis. djaneiros;Riviéthe dé Janvyi;Rio dé Janéyro;Rio-de-Žaneýro;Rio de Zhaneiro;Riu de Janeiru;Rio-de-Žaneiro;Rio de Janêro;Rio dė Žaneiros;Riu de Janeiro;Rio-de-janeiro;Rio d Janeiro
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Yangzhou|CN|Jiangsu|7i|2i0|97s|z6m|Yangjo shehiri;Janĉĵou;Jang-čou;Dương Châu;Yangtsjou;Iông-chiu-chhī;Iòng-ciŭ;İnçiü;Jangdžov;Yangchow;Yang-chou
+Yangon|MM||7y|1ap|7f4|yjs|Rangun;Rangoon;Rangoun;Rangūnas;Rangum;Jangona;Jangono;Ngióng-kông;Jangún;Rangon;Yanqon;Jangon;Yangjgvangh;Yankoun
+Jaipur|IN||6t|22s|5uj|ni6|Dźajpur;Džaipur;Džaipuras;Džajpura;Jaypur;Ĝajpuro;Iaipura;Caypur;Dzsaipur;Jayapur
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Al Mawşil al Jadīdah|IQ||5z|2sx|3br|fxs
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Yancheng|CN||7i|2ko|99s|cgt|Jen-čcheng;Janĉengo;Diêm Thành;Sièng-siàng;Yen-ch’eng
+Kharkiv|UA||98|3uu|2sp|ayr|Charkiw;Charkiv;Ĥarkov;Harkiv;Harkova;Charcovia;Charkovas;Harkiva;Charkov;Charków;Carcóvia;Kharkov;Jarkov;Ĥarkivo;Khar’kov
+Jamshedpur|IN||6t|1rc|6nf|ac2|Ĝamŝedpur;Dzsamsedpur;Cemşidpur;Džamšedpuras;Džamšedpura;Jamshidpur;Džamšedpur;Jarnshedpur
+Yaoundé|CM||j|ar|w0|a0y|Yaundé;Jaundė;Jánde;Jaundeo;Yawunde
+Yangjiang|CN||7i|1oq|8n0|9z6|Iòng-gŏng;Jang-ťiang;Yòng-kông-sṳ;Dương Giang;Iông-kang-chhī;Yang-chiang
+Jepara|ID||6l|-ib|8jf|9pf|Japara
+Jabalpur|IN||6t|1sd|663|8ch|Dżabalpur;Džabalpuras;Ĝabalpuro;Dzsabalpur
+Khartoum North|SD||r|17h|2id|7t6|Bahri;Khartum Nord;Sjeverni Kartum;Khartoum Nord;Jartum Norte
+Jacksonville|US|Florida|48|2c9|-6au|7si|Ĝaksonvilo;Iacsonvilla;Iacsoniapolis;Džeksonvila;Džeksonvilis;Ceksonvill
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Jalandhar|IN||6t|2f1|5ty|6pd|Ĝalanĝar;Dźalandhar;Dzsálandhár;Džalandharas;Džalandhara;Calandhar
+Johor Bahru|MY||6v|43|808|6md|Johor Baharu;Džohor Baru;Sîn-sân-sṳ;Jahore Bahru;Johore Bharu;Johore Bahru;Johore Baru
+Petaling Jaya|MY||6v|8n|7u9|68f
+Yangquan|CN||7i|2x6|8rg|5n4|Iòng-ciòng;Jang-čchüan;Jancjuan;Dương Tuyền;Iông-choân-chhī;Yang-ch’üan
+Subang Jaya|MY||6v|8g|7u6|5gr
+Jājmau|IN||6t|21f|67d|51c
+Jaboatão dos Guararapes|BR||4p|-mj|-2p9|4yw
+Likasi|CD||y|-ui|22a|4wm|Jadotsville;Jadotstad;Jadotville
+Jambi City|ID||6l|-4g|7zu|4wf|Jambi;Djambi
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Khabarovsk|RU||7w|3qm|afa|4rq|Chabarowsk;Jabárovsk;Chabarovsk;Ĥabarovsk;Habarovszk;Chabarofsk;Habarovska;Chabarovskas;Xabarovsk;Khbarovsk;Khabarovka
+Yaroslavl|RU||9i|4g3|32r|4p3|Jaroslawl;Iaroslavl;Jaroslavl';Jaroslavlj;Jaroszlavl;Iaroslavia;Jaroslavlis;Jaroslavļa;Jaroslavľ;Jaroslavelj;Jarosław
+Jamnagar|IN||6t|1qf|5en|4mx|Džamnagaras;Džāmnagara;Dzsámnagar;Ĝamnagar;Camnaqar;Džámnagar;Jamnogar
+Genoa|IT||9o|3fc|ou|4h5|Genova;Genua;Janov;Ĝenovo;Gênes;Genuja;Cenova;Dženova;Zena;Xénova
+Jammu|IN||6t|2iy|5ry|4g2|Džammú;Ĝamu;Džamu
+Jalalpur Pirwala|PK||6q|29z|5hu|3uw|Dźalalpur Pirwala
+Yazd|IR||7o|2gm|471|3or|Jazd;Jazdo;Jezdas;Yasd;Jasd;Yezd
+Jardim Presidente Dutra|BR||4w|-1t3|-3kz|3lb
+Jalgaon|IN|Maharashtra|6t|1mc|5tx|3ju|Ĝalgaon
+Xalapa de Enríquez|MX||41|1i9|-7h8|3a0|Jalapa Enríquez;Xalapa;Jalapa Enriques;Jalapa;Xalapa-Enríquez

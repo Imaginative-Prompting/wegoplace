@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pa|BF||1a|z7|-az|48
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Baotou|CN||7i|34x|8h4|lb5|Bao Đầu;Pao-tchou;Baŭtoŭo;Bău-tàu;Pâu-thèu-sṳ;Paotou;Pau-thâu-chhī;Pao-t’ou;Pao-tow
+Baoshan|CN|Shanghai|7i|2f9|9dh|hhf|Pao-shan
+Paris|FR||9k|3rp|6j|gi2|Lutèce;Ville-Lumière;Parizo;Parys;Paříž;Baris;Pariis;Pariisi;Páras;Párizs;Parigi;Paräis;Paries;Paryžius;Parīze;Parijs;Paryż;Pariggi;Pari;Paname;Pantruche;Paarys;Pa-ri;Parij;Parixe;Palika;Parighji;Baariis;Lutetia;Parigge;Bahliz;Pariižu
+La Paz|BO||3n|-19u|-59b|fgv|Chukiyawu;La-Pazo;A Paz;Pax;La Pasas;Chuqiyapu;La Pas;Chuqi Yapu;Lapasa;La-Pas
+Palembang|ID||6l|-84|82z|dwe|Palimbão;Palembanq;Pelémbang
+Fuyang|CN|Anhui|7i|2je|8xq|dnd|Fu-jang;Phụ Dương;Pâiu-iòng;Hū-iông-chhī;Fuyan;Fou-yang
+Patna|IN||6t|1z3|6ki|czv
+Asunción|PY||1y|-1y9|-4g5|bfq|Assumptio;Assunção;Asunsjonas;Paraguay;Assuncion;Asúnsjón;Asounsyòn;Asunsion;Asunsjona;Asunsyun;Asunson;Asunsaun
+Pekanbaru|ID||6l|1g|7ts|90c|Pakanbaru;Pekanbaroe;Pakanbahru;Pakanbaroe
+Panjin|CN||7i|368|9f3|901
+Bengbu|CN||7i|2ji|920|7i8|Bạng Phụ;Pâung-buô;Pāng-pō-chhī;Bangbu
+Padang|ID||6l|-2n|7qr|79x
+Kitakyushu|JP||7q|2m1|a3h|79e|Kitakjúšú;Kitakyüşü;Kitakiūšiū;Kitakjūshū;Pak-kiú-chiu-chhī
+Baoshan|CN|Yunnan|7i|1xs|7ng|77w|Bō̤-săng;Pao-šan;Bảo Sơn;Pó-san-chhī;Pao-shan
+Pasig City|PH||71|14j|9ca|6kz|Pasig
+Valencia|ES||9d|31n|-12|6cz|Valenza;Valentia;Valence;Walencja;Balenzia;Valencija;Valencie;Valencio;Valentzia;Valensia;Valensija;Valensiya;Walénsiye;Valantsa;Valensyaa;Valensėjė;Pâ-lùn-sî-â;Valensii
+Panzhihua|CN||7i|21v|7uj|62o
+Paranaque City|PH||71|148|9c6|5fc
+Fuxin|CN||7i|38q|9dy|5bf|Fu-sin;Fusin;Fusinas;Phụ Tân;Pâiu-sĭng;Hū-sin-chhī;Fu-hsin
+Baise|CN||7i|1ud|887|5al|Baksaek;Pai-se
+El Paso|US|Texas|2p|2g8|-87t|58k|El Pasas;El-Paso;Elpaso;Passus
+Palermo|IT||9o|2xw|114|503|Palerm;Palerme;Panormus;Palermu;Palermas
+Panshan|CN||7i|36f|9f1|4tm
+Pallabi|BD||6a|1u7|6z1|4m0
+Banqiao|TW||7l|1xh|9df|494|Banciao;Banciao District;Pan-ch’iao;Banchiao;Panchiao;Ban Ciao
+Pasir Gudang|MY||6v|42|80n|44j
+Beihai|CN|Guangxi|7i|1no|8f4|41x|Pej-chaj;Pet-hói-sṳ;Bắc Hải;Baekhaij;Báe̤k-hāi;Beihajus;Pak-hái-chhī;Pei-hai
+Paju|KR||7h|2ww|9s5|3lc|P’aju
+Patiāla|IN||6t|2ca|5w7|3fy
+Basuo|CN||7i|1h2|8dv|3fh|Pasuo
+Palma|ES||9d|31x|7d|3dq|Ciutat de Mallorca
+Pasay|PH|National Capital Region|71|14e|9c4|37p
+Panama City|PA||4g|oz|-64w|35e|Panama-Stadt;Ciudad de Panamá;Ziudá de Panamá;Panamá;Panamurbo;Panama-Urbo;Panama-stad;Panama by;Ciutat de Panamà;Panama Hiria
+Pasto|CO||27|3d|-5yo|315|Pastas
+Palu|ID||70|-2j|98z|30c|Kabupaten Poso
+Samut Prakan|TH||62|11s|7rg|301|Paknam;Smutprakan;Pakham;Samutpraken
+Las Palmas de Gran Canaria|ES||83|262|-16u|2yj|Laspalmaso;Las Palmas;Kanaria Handiko Las Palmas;Les Palmes de Gran Canària;Laspalmasa;Palmas de Gran Canaria;Las Palmas de G.C.
+Pānihāti|IN||6t|1r1|6th|2x7
+Paulista|BR|Pernambuco|4p|-m2|-2ov|2n2

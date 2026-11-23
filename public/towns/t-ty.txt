@@ -1,0 +1,169 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tianjin|CN||7i|30q|91i|2yzo|Tiencin;Tiencsin;Thiên Tân;Tchien-ťin;Tjanĝino;Tientsin;Tiandzinas;Thiên-tsîn;Tjaņdziņa;Tyantszin;Tjandžin;Tyan'czin';T’ien-ching;T’ien-chin
+Tyumen|RU||7z|4er|521|5xg|Tjumen;Tioumen;Tiumén;Tjumen';Tjoemen;Tümen;Tyoumen;Tjumenj;Tjumeno;Tumenum;Tiumenė;Tjumeņa
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Târgu Mureş|RO||8u|3la|1w8|1n4|Neumarkt am Mieresch;Tîrgu Mureș;Marosvásárhely;Novum Forum Siculorum;Neumarkt;Vásárhely;Nai Muark;Maros-Vásárhely;Târgul-Mureş;Turgul Mures;Tyrgu-Muresh
+Tiraspol|MD||8x|3m4|2ab|17m|Tyraspol
+Tyre|LB||64|2kf|2pr|11k|Şūr;Tiro;Tyrus;Ṣurru;Ṣōr;Týros;Tyr;Tir;Tyras;Soûr
+Tychy|PL||a5|3va|1gp|104|Tihi;Tichau;tixa;Tychos
+Tyoply Stan|RU||9i|4ai|2w5|yq
+Tyler|US|Texas|2f|2hv|-7cq|st
+Tübingen|DE||8r|3qs|p5|pn|Tubinga;Tybinga;Tībingene;Tiubingenas;Tybingen
+Trnava|SK||8s|3qe|1cv|hg|Tyrnau;Nagyszombat;Trnawa
+Tynemouth|GB||9b|48u|-3z|gu
+Tiberias|IL||6n|2j3|2qp|eh|Teverya;Tabarīya;Tabariyeh;Tubaria;Tevaryā;Ṭabariyyah;Tverya;Tiberíades;Tiveriáda;Tiberiado;Tyberiada;Tibériade;Tiberijada;Tiberiya;Tiberya;Tverja;Tiberija;Tiberijas;Tiberiada
+Sovetsk|RU|Kaliningrad Oblast|96|490|1os|c1|Tilsit;Sowetsk;Sovjetsk;Tilsa;Sovyetsk;Sovietsk;Tilžė;Sowieck;Sovețk;Sowjetsk;Szovjetszk;Tylża;Til’zit
+Tynda|RU||7x|497|9mi|ad|Tinda;Tind;Tõnda
+Temryuk|RU||9i|3hr|2vw|a5|Temrjuk;Tyemryuk
+Tyldesley|GB||9b|44n|-6v|9z
+Targovishte|BG||9v|3c5|21t|9o|Targowischte;Tărgovište;Targovichté;Targovisjte;Targòvixte;Trgovište;Tergovištė;Tërgovishçe;Eski Cuma;Tyrgowiszte;Tŭrgovište;Trgovishte;Eski Džuma;Tŭrgovishte
+Terny|UA|Dnipropetrovsk|98|3pr|2l8|7s|Tyerny
+Tyrnyauz|RU||9i|3ci|3b8|5l|Tyrnyaus;Tyrnyaouz;Tyrnyaoez;Tirniauz;Tyrny-Aus
+Tysons|US||48|304|-5yj|5g
+Tyāgadurgam|IN||6t|wm|63o|56|Thiagadurgam
+Tulle|FR||9k|3hr|4x|4q|Tula;Tyll;Tutela
+Tønder|DK||8y|48l|on|4k|Tynne;Tuner
+Tyazhinskiy|RU||74|4bv|6tw|3t|Tjazjinskij;Tyazhinskoye
+Tyup|KG||65|3ap|61o|3g|Tüp;Tjup
+Tyukalinsk|RU||76|4b7|5kk|3b|Tjukalinsk
+Tyngsboro|US||48|3ak|-5ie|36
+Tyul’kubas|KZ||5s|3a1|5fa|30|Tülkibas
+Týrnavos|GR||8p|32e|1px|30|Tírnavos;Tyrnavo
+Tyul’gan|RU||7z|41e|4c0|2u|Tjulgan
+Türkan|AZ||61|344|3vi|2p|Tyurkyan;Turkyany
+Tyuratam|KZ||7c|3it|4vv|2n|Töretam
+Tysmenytsia|UA||98|3ru|1x1|2l|Tyśmienica;Tysmérnytsia
+Tisul’|RU||74|4aw|6tb|2k|Tisul;Tissul;Tyiszul
+Tyachiv|UA||98|3pd|1th|2i|Técső;Ťačiv;Tiacziw;Teceu Mare;Tiatchiv;Tjatschiw
+Týn nad Vltavou|CZ||9m|3sq|142|2b
+Temnikov|RU||9i|47r|3c2|2b|Temnikow;Tiemnikow;Tyemnyikov
+Tiéme|CI||0|qi|-kc|29|Tyémé
+Tymovskoye|RU||7f|3x9|b0a|28|Tymovskoje;Tymowskoje;Tymovskoïe;Tımovskoye;Timovskoe;Tímovskoie
+Tyrone|US|Georgia|48|2kz|-6j0|20
+Tyonlé|CI||0|jm|-lb|1y|Tionlé
+Tyrnävä|FI||92|4zw|1z9|1t
+Tyube|RU||9i|3bl|3nf|1t|Tjube
+Týniště nad Orlicí|CZ||9m|3vb|18o|1r
+Temizhbekskaya|RU|Krasnodar Krai|9i|3i9|35h|1p|Temizjbekskaja;Temijbékskaia;Tyemizhbekskaya
+Tyumentsevo|RU||63|444|6ae|1m|Tjumentsevo;Tyumentseva
+Týnec nad Sázavou|CZ||9m|3uf|14j|1l
+Tiksi|RU||7x|5j5|9xz|1l|Tyikszi
+Tyrone|US|Pennsylvania|48|34z|-61c|1i
+Tympáki|GR||8p|2pf|1wt|1h
+Tyukhtet|RU||6u|4d2|6w4|1f|Tjukhtet
+Türi|EE||9x|4jd|1yn|1f|Turgel;Tiūris;Thurgel;Tyuri;Tiri
+Tioroniaradougou|CI||0|pz|-fo|1d|Tiorhoniarhadougou;Tioroniandougou;Tiorhoniarandougou;Tioronianrandougou;Tiorhoniaradougou;Tyoronyaradougou
+Tyringe|SE||9w|4c0|11s|1b
+Tynne|UA||98|3wk|20q|15
+Tyret’ Pervaya|RU||6k|453|7w7|15
+Tyvriv|UA||98|3s5|276|14
+Tyro|US||48|2rh|-679|13
+Tëtkino|RU||9i|3yg|2n9|13|Tyotkino
+Tyubuk|RU||7z|4bq|4pa|10|Tjubuk
+Tysovets|UA||98|3pt|1zy|10|Tișăuți
+Tygda|RU||7x|43j|9qx|z
+Tygelsjö|SE||9w|4a8|104|y
+Tyczyn|PL||a5|3us|1p7|y|Tičina
+Tyshkivka|UA||98|3qq|2dy|y|Tishkovka
+Tyabb|AU||8j|-2y9|b7a|x
+Tiéma|CI||0|ma|-gz|w|Tyéma
+Tybee Island|US||48|2gw|-68l|v
+Tywyn|GB||9b|423|-bd|v
+Tyndall Air Force Base|US||2f|2bl|-6lt|u
+Tymoshivka|UA||98|3n2|2pj|u|Timoshëvka;Timoshovka
+Tyulyachi|RU||9i|4b9|3vj|t|Tjuljatsji
+Tysmenychany|UA||98|3rh|1wi|t|Tysmenichany
+Ternavka|UA||98|3po|20u|t|Târnauca;Tyrnauka
+Tykki|FI||92|4pl|26b|s
+Tynset|NO||9j|4t0|ty|s|Tönset
+Tytuvėnėliai|LT||a3|4ai|1sd|s
+Tyénigoué|CI||0|lt|-gy|r|Tiéningoué
+Tymbark|PL||a5|3u5|1kh|r
+Tõrva|EE||9x|4h4|202|r|Terva;Törwa;Tyrva
+Tyengala|CI||0|n6|-e9|q|Tiengala
+Tychowo|PL||a5|45t|196|p|Tëchòwò;Tihovo
+Tyongofolokaha|CI||0|qr|-f3|p|Tiongofolokaha
+Thiotte|HT||4j|1eo|-5jk|p|Tyòt;Thiote
+Tyrma|RU||7w|3v1|a75|o
+Tyégana|CI||0|pk|-fv|n|Tiégana
+Tílisos|GR||8p|2q2|1xi|n|Tylissos;Tílissos
+Týnec nad Labem|CZ||9m|3v0|16o|m
+Tyukod|HU||8v|3ox|1qo|m
+Tyungyulyu|RU||7x|4sr|a33|m|Tengyulyu
+Tycroes|GB||9b|3zu|-b6|m
+Tyszowce|PL||a5|3wm|1tu|l|Tišovce;Typzowce
+Tycheró|GR||8p|35z|211|k
+Tylicz|PL||a5|3t8|1me|k
+Tyésérila|CI||0|rm|-l8|k|Tiésserila
+Tymanivka|UA||98|3qx|284|j|Timanovka
+Tykocin|PL||a5|43t|1r9|j|Tikocina;Tikocinas
+Tytuvėnai|LT||a3|4ag|1sg|i|Tītuvēni;Tītovienā;Cytowiany;Tytowiany;Tituvenay;Tytavėnai;Tytevėnai
+Saint Davids|GB||9b|404|-en|i|Saint David’s;Tyddewi;St David's;St Davids;St. David’s;Sent Deividsas;Sentdeividsa;Sankta Davido;Menevia
+Thyborøn|DK||8y|4di|mt|h|Tyborøn
+Tyolohokaha|CI||0|pm|-fa|h
+Tyniec Mały|PL||a5|3xq|1b0|g
+Tytsjerk|NL||8m|43t|gf|g|Tietjerk
+Tijnje|NL||8m|43b|gn|g|De Tynje;Tynje
+Bergen an der Dumme|DE||8r|42x|ug|g|Bergen ad Dumme flumen;Djörska;Tjörska;Tÿörska
+Tiachivka|UA||98|3pg|1tj|g|Tyachivka;Tyachevka
+Tyusha|ZA||o|-2j0|23w|f
+Tynaarlo|NL||8m|43g|ie|f|Tinaarloo;Tinaarlo
+Tyarlevo|RU||9i|4lv|2cl|f|Tjarlevo;Tärölä;Tiarlevo;Târlevo
+Tylertown|US||2f|2eg|-6ye|f|Tyler Town
+Tyésan|CI||0|kg|-ki|f
+Tiolasso|CI||0|r7|-iz|e|Tyolasso
+Tyélivogo|CI||0|qg|-fx|e|Tiélivogo
+Tyéfindougou|CI||0|mn|-fx|e|Tiéfindougou
+Tigerville|US||48|2pf|-6ct|d|Tygerville
+Tysalovo|UA||98|3pu|1tz|d
+Tye|US||2f|2i6|-7pf|d
+Tylstrup|DK||8y|4ev|rn|d
+Tiébila|CI||0|r2|-g7|d|Tyébila
+Tiolo|CI||0|rn|-gw|c|Tyolo
+Tyémorokaha|CI||0|nm|-eg|c|Tiémorokaha
+Tyhee|US||28|3bb|-8of|b
+Tyler|US|Minnesota|2f|3f0|-7f1|b
+Tytarenkove|UA||98|3qj|30w|b|Chelyuskinets’;Cheliuskinets;Chelyuskinets
+Týnec|CZ||9m|3ri|1b9|b
+Tysvær|NO||9j|4kt|f9|b
+Tymákov|CZ||9m|3u4|11j|b
+Tyndall|US||2f|3bf|-7ju|a
+Tyrlaching|DE||8r|3pj|z7|a
+Tyémasoba|CI||0|lq|-hx|a|Tiémasoba;Tiémassoba
+Tyémoudougou|CI||0|na|-g3|a|Tiémoudougou
+Tymień|PL||a5|46k|181|a
+Tyndall|CA||5d|3v4|-7gi|9
+Tybava|UA||98|3qu|1s5|9|Havasalja;Tibava
+Tymchenky|UA|Cherkasy|98|3te|2ih|9|Tymchenki;Timchenki
+Tyrawa Wołoska|PL||a5|3tq|1q5|9
+Tyédyarékaha|CI||0|mb|-e6|9
+Tymchenky|UA|Kharkiv|98|3sq|2se|9|Timchenki
+Tystberga|SE||9w|4jh|1bv|9
+Týn nad Bečvou|CZ||9m|3tk|1cy|9
+Tysaashvan|UA||98|3qi|1pt|9|Mineral’noye;Tysaasjvan;Tyssaaschwan;Tisaaŝvanj;Tiszaásvány;Tysaašvaň;Tysaaszwań;Tîsaașvan
+Tiushka|UA||98|3qx|1sz|8|Tyushka
+Paralía Tyroú|GR||8p|2vh|1ri|8|Paralía;Tyrós
+Tymkove|UA||98|3oz|29c|8
+Tyristrand|NO||9j|4mx|s2|8
+Tyrone|US|Oklahoma|2f|2un|-7sr|8
+Tyers|AU||8j|-2xz|baw|8
+Tintern|GB||9b|3zm|-7g|8|Tyndyrn
+Tyronza|US||2f|2ql|-6z0|7
+Ty Ty|US||48|2ff|-6gd|7|Tyty
+Tyssedal|NO||9j|4n0|i8|7
+Tymonove|UA||98|3u6|2yt|7|Timonove;Timonovo
+Tysaahtelek|UA||98|3qk|1q1|7|Agovo;Ágtelek;Tiszaágtelek;Tysyanka
+Tytherington|GB||9b|3zb|-6w|7
+Tykhyi|UA||98|3rw|1rf|7|Tykhyy
+Tõstamaa|EE||9x|4i1|1uo|6|Tõstama;Testamaa;Testama;Toastamaa;Tystama
+Tyrone|US|New Mexico|2p|2iv|-8cu|6
+Ushkovo|RU||9i|4n8|2ab|6|Tyrisevä;Usjkovo;Tyurisevya
+Tyéso|CI||0|ng|-ib|6
+Tylove|UA||9t|3fg|2lp|6
+Tyasédougou|CI||0|n5|-g9|6|Tiassédougou
+Tyihlash|UA||98|3qp|1pr|6|Tyyhlash;Kistéglás
+Tyenko|CI||0|mv|-l1|5|Tienko
+Tyersall Park|SG||7j|3n|80d|5
+Tyalgum|AU||8l|-26s|btl|5
+Tyshiv|UA||98|3rl|1s3|5
+Tylden|AU||8j|-2vp|b55|5

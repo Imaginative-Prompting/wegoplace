@@ -1,0 +1,49 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kaohsiung|TW||7l|1qu|9a7|l4h|Takao;Gaoxiong;Cao Hùng;Kao-hsiung
+Gaomi|CN||7i|2t2|98n|30w|Kao-mi
+Gaozhou|CN||7i|1ow|8jy|296
+Gaoping|CN|Sichuan|7i|2di|86q|1ks
+Gao|ML||5|197|-4|10z|Gàwó
+Gaojing|CN||7i|2f0|9dg|zf
+Gaoyou|CN||7i|2j3|97s|p9
+Gaoliu|CN|Shandong|7i|2u8|956|ip
+Gaogou|CN||7i|2mi|973|fm
+Gaoliang|CN||7i|2dm|8cu|dq
+Gao’an|CN||7i|2c5|8ai|do|Kao-an
+Gaoliu|CN|Jiangsu|7i|2nc|958|dh|Kao-liu
+Gaoua|BF||1a|sp|-8u|cl|Gaua
+Gaojia|CN||7i|2be|8bm|c7
+Gaozuo|CN||7i|2m6|93w|c2
+Gao|BF||1a|wd|-62|7d
+Gaoqiao|CN|Chongqing|7i|2f5|8co|6k
+Gaofeng|CN|Chongqing|7i|2by|8ad|5r
+Gaofeng|CN|Chongqing|7i|2db|8cy|5g
+Gaolou|CN|Gansu|7i|2ok|82s|52
+Gaoulou|CI||0|dz|-h3|4e|Gooulou;Gaoulo
+Gaogu|CN||7i|29o|8c7|4b
+Gaosheng|CN||7i|2ak|85a|3w
+Gaotian|CN||7i|275|8ec|3s
+Gaoping|CN|Chongqing|7i|2aw|85j|3r
+Gaoyan|CN||7i|2gq|8dq|39
+Gaoxin|CN||7i|1qn|8si|2k
+Gao Fa Cheng Chi Yuan|CN||7i|1qk|8su|2i
+Gaoual|GN||f|wn|-10o|23
+Gaoguan|CN||7i|2gh|8eh|21
+Gaouroubré|CI||0|eo|-hd|1v|Gaouloubré
+Gaolou|CN|Chongqing|7i|2bh|86e|1s
+Gaoqiao|CN|Gansu|7i|2mq|86b|1p
+Gaoussoukro|CI||0|el|-89|1h
+Gaonan|CN||7i|2h9|8dg|1f
+Gweedore|IE||8z|48x|-mv|16|Gaoth Dobhair
+Gaozhuang|CN||7i|313|93q|u
+Gaoniang|CN||7i|22k|8fa|p|Kao-niang
+Gaona|AR||1s|-1y4|-4xw|m
+Gaoqiao|CN|Hunan|7i|21z|8k2|h
+Gaozeng|CN||7i|1zo|8em|h
+Gaolé-Graba|CI||0|l2|-kg|f
+Gaowu|CN||7i|1z0|8ej|c|Kao-wu
+Gaoya|CI||0|jp|-kl|c
+Gaojingzhuang|CN||7i|31i|92r|c
+Gaoyi|CN||7i|22w|8hm|b
+Gaougnagbolilié|CI||0|gc|-g9|a
+Gaotè|CI||0|lg|-kr|7

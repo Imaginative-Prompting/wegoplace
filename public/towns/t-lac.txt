@@ -1,0 +1,544 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lagos|NG||u|hx|9f|3aqg|Lacupolis;Laqos;Èkó;Laguosos;Logos
+Barcelona|ES||9d|36z|60|d0e|Barcino;Bartzelona;Barzelona;Barcelono;Barcelone;Barselóna;Barcellona;Barcillona;la Ciudad Condal;Barcelůna;Barçellonn-a;Barseloana;Bartzellona;Barseluona;Barseluna;Barslon-a;Barselon;Baselona
+Luoyang|CN|Henan|7i|2ob|8oc|aqa|Lạc Dương;Luo-jang;Luojangas;Lŭojango;Lŏk-iòng;Lojang;Lo̍k-iông-chhī;Lo-yang
+Leshan|CN||7i|2a4|808|544|Le-šan;Lạc Sơn;Lŏk-săng;Lo̍k-san-chhī;Lo-shan
+Lishui|CN|Zhejiang|7i|272|993|3he|Lisjui;Li-šuej;Lệ Thủy;Lâ̤-cūi;Lē-chúi-chhī
+A Coruña|ES||9d|3ch|-nc|1xk|La Corogne;Coruña;A Cruña;Corunya;Coruñako;Corunha;La Korunja;La Coronha;La Korunya;Korunjo;In Coruña;Akoruņa;La-Korunya;The Groyne
+La Ceiba|HN|Atlántida Department|56|17s|-6p2|1pp|La Seiba
+La Ceiba|HN|Atlántida Department|56|17t|-6p7|1o0|La Seiba
+Ajdabiya|LY||1d|2dg|1k7|10m|Adschdabiya;Adżdabija;Äcdabiya;Läcdabiän;Adžedábíja;Aĝdabija;Adzsdábija;Corniclanum;Ecdebiye;Adjdabía;Adjadabia;Agedabia
+La Concepción|VE||2c|ti|-5jk|xh
+La Cité-Limoilou|CA||59|3m3|-5hv|u4
+El Pueblito|MX|Querétaro|41|1l2|-7r0|jt|Corregidora;La Corregidora;Pueblito
+La Carlota|PH||71|sy|9hg|it|La Karlota;Lakarlota;La Calota
+La Chorrera|PA||4g|oo|-65m|h0|Chorrera
+Chaniá|GR||8p|2qn|1ur|ez|Ĥanio;La Canée;Hanya;La Canea;Hania;Càndia;Khaniá
+Laxmangarh|IN||6t|25a|5sf|eu|Lachmangarh
+La Crosse|US|Wisconsin|2f|3do|-71g|ej|Lacrosse;Lac Rosse
+La Calera|CL||4u|-2j3|-5hs|dy|La Kalera;Calera
+Lacey|US||3p|3mn|-9h6|cw
+Hell's Kitchen|US||48|358|-5pj|cr|La Cocina del Infierno;Midtown West
+Lashkar Gāh|AF||6o|2fr|4yt|c7|Laskargah;Lachkargah;Lashkargah;Lashkargakh
+La Chaux-de-Fonds|CH||a7|3mu|iz|aj|Chaux-de-Fonds;Šo de Fonas;La Chaux de Fonds
+La Courneuve|FR||9k|3rx|6o|ad
+La Ceja|CO||27|gr|-5tj|a6
+El Kala|DZ||3|2ui|ng|9u|La Calle;Port de la Calle
+La Sebala du Mornag|TN||1e|2tw|sl|9a|La Cebala du Mornag
+La Ciotat|FR||9k|3bx|fk|97|La Ciutat;Cytharista parrochia
+Encarnación de Díaz|MX||41|1nt|-7w0|6y|La Chona
+La Calera|AR||1n|-2f3|-4yq|6w
+La Castellana|PH||71|so|9hq|6s
+La Celle-Saint-Cloud|FR||9k|3rp|5z|5z|La Celle Saint-Cloud
+La Cañada Flintridge|US||3p|2n0|-94b|5m
+La Crescenta-Montrose|US||3p|2n3|-94g|5h|Lacrescenta
+Lachi|PK||6q|2kq|5i6|55
+La Chapelle-sur-Erdre|FR||9k|3ne|-4b|55|Chapel-Erzh;Chapelle-sur-Erdre
+La Cabima|PA||4g|pc|-64x|50|La Cabina
+Lackawanna|US||48|3az|-62y|50
+La Crau|FR||9k|3bv|gv|4z|Crau
+La Concepción|PA||4g|no|-6di|4x|Concepción
+La Cruz|CL||4u|-2j7|-5hv|4t
+Sparta|GR||8p|2uz|1qb|4i|Sparto;Lacedemonia;Sparte;Lacedaemon;Lakedaimon;Sparti
+Laconia|US||48|3cx|-5ij|4i
+La Cruz|MX|Sinaloa|3x|1ug|-88x|4d
+La Carolina|ES||9d|2yc|-a2|49
+La Chapelle-Saint-Luc|FR||9k|3q8|b8|42|Chapelle-Saint-Luc
+Lacombe|CA||2s|41r|-8ry|3z|Lakombė
+La Carlota|ES||9d|2wn|-dp|3o
+Laç|AL||9y|37o|1ir|3l|Liačis
+La Condamine|MC||9h|3dh|km|3e|Condamine
+La Carlota|AR||1n|-2ku|-4vu|37|La Karlota
+La Colonia|AR||1q|-2jy|-5a8|34
+La Cañada|MX|Querétaro|41|1l9|-7qp|2x|Cañada
+La Capelette|FR||9k|3c8|f1|2x
+La Calamine|BE||8t|3ww|gp|2u|Kelmis;Calmène
+La Calera|CO||27|d4|-5ph|2u
+Lackland Air Force Base|US||2f|29n|-7ly|2r
+La Consulta|AR||1q|-2lp|-5c0|2o|La Consulata
+Lachute|CA||59|3it|-5qh|2o
+La Chapelle-Saint-Mesmin|FR||9k|3p1|53|2n|Chapelle-Saint-Mesmin
+La Conception|FR||9k|3c9|ez|2n
+La Cabucelle|FR||9k|3cd|ew|2n
+Zierbena|ES||9d|3cf|-8k|2m|La Cuesta-Ciérvana;Ciérvana;La Cuesta
+Lachen|CH||a7|3n3|ol|2g
+La Cruz|CO||27|4g|-5xt|2g
+Lacombe|US||2f|2c7|-6xu|2f|Lacomb
+La Cruz|AR||1n|-292|-4dc|2e
+La Californie|FR||9k|3dc|k3|25|Californie
+La Concordia|MX|Chiapas|41|18s|-75h|24
+La Couronne|FR||9k|3ip|a|24
+Lacchiarella|IT||9o|3hw|pe|23
+La Cumbre|AR||1n|-2e2|-4z5|20
+La Concepción de los Baños|MX||41|1io|-7pe|20|Concepcion de los Baños;La Concepción los Baños
+La Chamba|CO||27|b7|-5rz|1z|Chamba
+La Cocha|AR||1v|-255|-527|1z
+La Colle-sur-Loup|FR||9k|3dd|jq|1y|Sa Còla;Sa Còla de Lop;Colle-sur-Loup
+La Concepción|NI||3s|x6|-6nf|1x|Concepción;La Cancepción
+Lacy-Lakeview|US||2f|2fv|-7hq|1u
+La Cabecera|MX||41|1hs|-7p3|1u
+Laholm|SE||9w|4cz|108|1t|Lagaholmia;Lacholmas
+La Constitución Toltepec|MX||41|1hr|-7oj|1s
+La Croix-Rouge|FR||9k|3cd|f5|1r
+La Calade|FR||9k|3ce|ev|1r
+Colonia Venustiano Carranza|MX|Baja California|58|2hj|-8vx|1p|La Carranza
+La Canonja|ES||9d|368|3a|1m
+Lachendorf|DE||8r|426|sg|1m
+Lucapon|PH||71|17m|995|1m|Lacapon;Locapon
+Lac-Mégantic|CA||59|3im|-5gw|1l
+La Curva|MX|Tabasco|3z|1dn|-74x|1l
+Lac-Brome|CA||59|3hm|-5lg|1k|Lac Brome
+La Candelaria Tlapala|MX||41|1hg|-7ml|1j
+Lachen-Speyerdorf|DE||8r|3t1|ms|1j
+La Charité-sur-Loire|FR||9k|3n2|8e|1j
+La Campana|ES||9d|2wd|-f3|1h
+La Chevrolière|FR||9k|3mt|-4h|1g|Kerc'hevrel;Kerchevrel;Caprioleria;Chevrolière
+La Casualidad|CU||36|1rw|-6ce|1f
+La Cuesta|ES||9d|364|-b0|1e|Cuesta
+La Celia|CO||27|dw|-5v4|1d
+La Crèche|FR||9k|3kt|-u|1d|Crèche
+La Crescent|US||2f|3dr|-71m|1c|LaCrescent
+La Châtre|FR||9k|3le|5j|1b|Châtre
+La Calera|MX|Guanajuato|41|1ls|-7th|1b|Las Caleras
+Lacroix-Saint-Ouen|FR||9k|3t4|7r|1a|La Croix Saint Ouen
+La Calzada de Calatrava|ES||9d|2zi|-ai|1a|Calzada de Calatrava
+La Chapelle-Basse-Mer|FR||9k|3nb|-3q|1a|Chapel-Baz-Meur;Capella Bassameri
+La Côte-Saint-André|FR||9k|3i3|em|1a|Côte-Saint-André
+Lectoure|FR||9k|3e1|1q|19|Leitora;Lactora
+Lac-Alouette|CA||59|3ja|-5pg|19
+La Concepción|MX|México|41|1ik|-7mo|19|Xometla;Xametla
+La Cruz|CR||2i|ur|-6lv|17
+La Chaussée-Saint-Victor|FR||9k|3oa|3t|17
+La Chapelle-sur-Crécy|FR||9k|3rq|85|16
+Lacco Ameno|IT||9o|357|12l|15
+La Canela|DO||4v|1i3|-5gq|14|Canela
+La Cantera|MX|Michoacán|41|1j6|-7wh|14
+Lacson|PH||71|k1|9og|14
+La Cienega|US||2p|2qs|-86t|12|La Cinega;La Cienaga
+La Concha|MX|Coahuila|44|1z8|-7z6|12
+La Concepción|MX|Veracruz|41|1ih|-7h6|11|Concepción
+La Clotilde|AR||1n|-23i|-4of|10
+La Chapelle-des-Fougeretz|FR||9k|3pu|-4t|10|Chapel-Felgeriz;Chapelle-des-Fougeretz
+La Caldera|AR||1s|-1wc|-51m|10|Caldera
+Bolsena|IT||9o|3ag|xb|z|Lacus Volsiniensis
+Lacanau|FR||9k|3gy|-30|y|La Canau
+La Curva|PH||71|yg|9c9|y
+Laceby|GB||9b|44q|-h|x
+La Chapelle-Saint-Ursin|FR||9k|3mq|6g|w
+Landa|ES||9d|3ci|-88|w|Campa;La Campa
+La Chapelle-des-Marais|FR||9k|3nt|-68|w|Chapel-ar-Geunioù;Chapelle-des-Marais
+La Center|US|Washington|3p|3je|-9gr|v|Lacenter
+La Croix-Valmer|FR||9k|3c1|i9|v|Croix-Valmer
+La Chapelle-la-Reine|FR||9k|3q8|75|u|Chapelle-la-Reine
+La Colonia|MX|Hidalgo|41|1jp|-7md|u
+La Crête|CA||2s|4hm|-8zc|t
+La Ciénaga|DO||4v|1e7|-5hj|t|La Ciénega
+Łącko|PL||a5|3to|1ks|t
+La Chaize-le-Vicomte|FR||9k|3ln|-3l|t|Chaize-le-Vicomte
+La Ciénega|MX|México|41|1go|-7om|s
+Lacaune|FR||9k|3df|7h|s
+Láchar|ES||9d|2vc|-an|s|Lacen
+Lacovia|JM||3i|1e9|-601|s
+Lacaron|PH|Davao Region|71|hx|9ou|s
+La Châtaigneraie|FR||9k|3ll|-22|q|Châtaigneraie
+Lacdayan|PH||71|11s|9gd|q
+La Chapelle-de-Guinchay|FR||9k|3kd|d8|q|Chapelle-de-Guinchay
+La Cabrera|ES||9d|35i|-a1|q
+La Ciudad|MX||44|1tx|-85l|q
+La Chapelle-en-Serval|FR||9k|3sh|71|q|Chapelle-en-Serval
+La Comunidad|MX|México|41|1jm|-7om|q
+La Couture|FR||9k|3wi|7j|q
+Lăceni|RO||8u|3eg|1yd|q
+La Colmena|PY||1y|-1zx|-4dw|q
+La Cerquilla|MX||41|1dr|-7c1|p
+La Compañia|MX|Puebla|41|1gp|-7jg|p
+Lac-Lapierre|CA||59|3ji|-5ox|p
+Laçin|TR||94|359|2ow|p
+Laces|IT||9o|3li|u6|p|Latsch;Laudes
+La Chapelle-Launay|FR||9k|3nl|-5h|p|Chapel-ar-Wern
+La Cumbre|CO||27|ac|-5v6|o
+Lacasse|FR||9k|3ck|3j|o
+Lac La Biche|CA||2s|485|-8n1|n
+Lacaron|PH|Western Visayas|71|vq|9gy|n
+Laçın|AZ||61|324|3lb|n|Abdallar;Lachin;Latchine;Berdzor
+La Concepción de Hidalgo|MX||41|1i1|-7oh|n|La Concepción Hidalgo
+La Calera|MX|Jalisco|41|1kt|-7yt|n|Calera
+La Concordia|NI||3s|10o|-6nd|m|Concordia
+Lacerdópolis|BR||4w|-23q|-3z8|m
+La Clusaz|FR||9k|3jj|hv|m|La Clusac
+La Concepción Xochicuautla|MX||41|1hu|-7o8|m|Xochicuautla
+Lacag|PH||71|10k|9jk|m
+La Chapelle-Saint-Aubin|FR||9k|3pg|g|m
+La Coronada|ES||9d|304|-fr|m|Coronada
+La Concepción Enyege|MX||41|1ic|-7pc|m
+La Concepción Coatipac (La Conchita)|MX||41|1ha|-7ol|m
+La Clayette|FR||9k|3kl|by|m
+La Camelia|MX||41|1m2|-7jl|m|Palo Blanco
+La Canourgue|FR||9k|3ff|8x|l
+Lachowice|PL||a5|3u4|1i3|l
+La Codosera|ES||9d|30x|-jx|l
+La Chapelle-Thouarault|FR||9k|3po|-57|l|Bredual
+La Capelle|FR||9k|3uu|aw|l|Capelle
+La Cuesta|MX||41|1g7|-7hx|l
+La Croix-en-Touraine|FR||9k|3ni|2r|l|Croix-en-Touraine
+La Couture-Boussey|FR||9k|3ru|3w|l
+La Chapelle-Heulin|FR||9k|3n2|-3q|k|Chapel-Huelin;Chapelle-Heulin
+La Concepción|HN||56|14u|-6nj|k
+Lac du Flambeau|US||2f|3jp|-6xp|k
+La Candelaria|MX|Chiapas|41|1ai|-750|k|Candelaria
+La Cuevita|MX||41|1ki|-7re|k
+La Ceja|MX||41|1kn|-7qj|j
+Qala|MT||9e|2s4|13r|j|La Cala;Kala
+Laconi|IT||9o|32p|p5|j
+La Cruz de Loreto|MX||41|1jl|-84y|j
+La Cueva|MX||41|1kw|-7r0|j|Joaquín Herrera
+Lacedonia|IT||9o|361|16u|j
+La Criolla|AR||1n|-2ev|-4hf|j
+La Calera|MX|Guanajuato|41|1k0|-7ti|i|Calera
+Lacon|US||2f|35y|-6wd|i
+La Campanilla|MX||41|1i7|-7pm|i
+Lacrouzette|FR||9k|3da|6j|i
+La Calmette|FR||9k|3e0|bu|i
+La Chapelle-Saint-Laurent|FR||9k|3lv|-1c|i|Chapelle-Saint-Laurent
+La Cruz|MX|Guanajuato|41|1ku|-7s0|i
+La Sidra|MX||41|1gl|-7ho|i|La Cidra
+La Cruz|MX|Hidalgo|41|1k2|-7no|h
+Lacoochee|US||48|273|-6c9|h
+La Cuchilla (Extramuros de Tesistán)|MX||41|1lq|-7ze|h
+La Concepción|MX|Jalisco|41|1kj|-7w9|h|Concepción
+La Cabecera Concepción|MX||41|1iq|-7pm|h
+Lacroix-Falgarde|FR||9k|3cu|3x|h|La Crotz e Falgarda
+La Ciénega|MX|Guanajuato|41|1n6|-7r4|h
+La Cruz|MX|Coahuila|44|22z|-7ty|h
+La Cruz|MX|Chihuahua|2g|25e|-848|h
+La Cruz de Río Grande|NI||3s|10f|-6hv|h
+Lashkivka|UA||98|3qi|1zm|g|Lachkivka;Lașchiuca
+La Candelaria|MX|Oaxaca|41|1bu|-7eh|g
+La Chartre-sur-le-Loir|FR||9k|3ol|1l|g
+Lachapelle-aux-Pots|FR||9k|3td|5a|g
+La Capelle-lès-Boulogne|FR||9k|3wx|4q|g|Lacapèle-lès-Boulonne;Capelle-lès-Boulogne
+Łączany|PL||a5|3uu|1ie|g
+La Candelaria Teotlalpan|MX||41|1hp|-7kv|g
+La Calle|MX||41|1kd|-7uc|g
+La Chapelle-de-la-Tour|FR||9k|3im|f6|g|Chapelle-de-la-Tour
+La Caja|MX|Guanajuato|41|1lj|-7ts|g
+La Capilla|MX|Zacatecas|41|1r1|-7w0|g
+La Capilla|MX|Guanajuato|41|1l4|-7te|f
+La Chapelle-sur-Loire|FR||9k|3n9|m|f
+Lacolle|CA||59|3h8|-5nt|f
+La Cañada|MX|México|41|1i5|-7oo|f
+La Colonia|MX|Tamaulipas|44|1qc|-7ka|f|Estación Colonias
+Lac-au-Saumon|CA||59|3qi|-573|f
+La Concepción|MX|Aguascalientes|41|1p7|-7w6|f
+La Concepción|MX|Veracruz|41|1ld|-7ik|f
+La Concepción|MX|México|41|1iq|-7nu|f
+La Concepción|MX|Guerrero|41|1aw|-7ot|f|Concepción
+La Concepción|MX|Zacatecas|41|1qk|-7w2|f|Concepción
+La Capilla|MX|Veracruz|41|1gh|-7fc|e|Congregación Mecayucan
+La Concha (La Concepción)|MX||3x|1ql|-84x|e
+La Cañada|MX|Hidalgo|41|1jk|-7no|e|Cañada
+La Coquille|FR||9k|3ii|2q|e
+Lachen|DE||8r|3p7|sg|e
+La Ceiba|MX|Tabasco|41|1ee|-75q|e
+La Capilla|CO||27|fu|-5o4|e
+Lacapelle-Marival|FR||9k|3g9|5d|e|La Capèla de Marival
+La Chapelle-Gauthier|FR||9k|3qv|82|e
+La Caletta|IT||9o|34t|r3|e
+La Colonia Guadalupe|MX||41|1ki|-7j6|e
+Emiliano Zapata|MX|Yucatán|3z|1k7|-6wj|e|La Cooperativa
+Lachapelle-sous-Aubenas|FR||9k|3fs|c4|e
+Łąck|PL||a5|41r|1ih|e
+La Caridad|MX||41|1jf|-7pc|d
+La Central|MX|Colima|41|1h6|-824|d
+La Cassa|IT||9o|3hi|kw|d
+La Calera (Nacimientos)|MX||41|1kc|-7u6|d
+La Conception|CA||59|3k7|-5ri|d
+La Carbonera|MX|Querétaro|41|1lt|-7q9|d|Carbonera;Carboneras
+La Ceiba|MX|Chiapas|41|1bl|-750|d
+La Couarde-sur-Mer|FR||9k|3kb|-3z|d
+La Chapelle-Janson|FR||9k|3qb|-32|d|Chapel-Yent
+La Crosse|US|Kansas|2f|2z1|-7nv|d|Lacross
+La Chapelle-du-Noyer|FR||9k|3pf|3n|d
+Lago|IT|Calabria|9o|30t|18v|d|Lacum;Lacu
+Lac-Simon|CA||59|3k8|-5rm|c
+La Clery|LC||52|12y|-4pe|c
+La Cieneguita|MX||41|1m7|-7rz|c|Cieneguita
+La Celle|FR||9k|3ck|gs|c
+La Cuesta de Peñones|MX||41|1mk|-7qf|c|Cuesta de Peñones;La Cuesta de Piñones
+Lacu Sărat|RO||8u|3hm|25h|c|Lacul-Sărat
+La Colorada|PA|Veraguas Province|4g|m9|-68y|c
+Lac-Connelly|CA||59|3ji|-5ph|c
+La Celle-sur-Morin|FR||9k|3rl|89|c|Celle-sur-Morin
+La Chambre|FR||9k|3i0|hi|c
+Lacugnano|IT||9o|3bp|y9|c
+La Cerlangue|FR||9k|3tj|15|c
+La Colonia|MX|México|41|1h6|-7mf|c
+La Cantera|MX|Nayarit|3x|1nq|-836|c|Cantera;La Cantero
+La Cluse-et-Mijoux|FR||9k|3m8|hq|c|Cluse et Mijoux
+Lackenbach|AT||a2|3o7|19r|c|Lakompak;Lakimpuh
+La Chapelle-du-Genêt|FR||9k|3n2|-2u|c
+La Chapelle-Saint-Florent|FR||9k|3nh|-2y|b|Chapelle-Saint-Florent
+La Competencia|MX|Chiapas|41|1bw|-75o|b
+La Croft|US||48|34x|-67w|b
+La Cesira|AR||1n|-2mb|-4uy|b
+La Concepción|MX|Veracruz|41|1ly|-7jc|b
+La Courtine|FR||9k|3iy|6a|b
+La Concepción (La Concha)|MX||41|1g5|-7ox|b
+La Celle-Saint-Avant|FR||9k|3mm|1o|b|Celle-Saint-Avant
+Lacapan Camallagne|MX||41|1jx|-7j9|b
+La Coste|US||2f|29f|-7mh|b|Lacoste
+Ejidal|MX||41|1gi|-7fb|b|La Candelaria
+La Cygne|US||2f|2yj|-7b8|b|Lacygne
+Cerro Colorado|MX|México|41|1h8|-7q0|b|La Compañía
+La Concepción|MX|México|41|1ig|-7mq|b|Concepción
+La California|IT||9o|3c7|ta|b
+La Corregidora|MX||3x|1nk|-835|b
+Lac du Bonnet|CA||5d|3vl|-7eu|b
+La Chapelle-Achard|FR||9k|3lf|-4l|b
+La Compañía|MX|Guanajuato|41|1kl|-7t0|b
+La Colorada|PA|Panamá|4g|pb|-64l|b
+La Cañada|MX|Puebla|41|1i6|-7jh|b
+La Chapelle-Réanville|FR||9k|3se|3u|b
+Lacandón|MX||41|1ba|-72g|b
+La Calera|MX|Guanajuato|41|1ke|-7s5|b
+La Concepción|MX|Sinaloa|3x|1sz|-86x|b|La Barrigona
+La Cavalerie|FR||9k|3e9|8s|a|La Cavalariá;Cavalerie
+La Cañada|MX|Oaxaca|41|1bf|-7gu|a
+La Ciénega|MX|Jalisco|41|1j4|-81a|a|Ciénega;La Ciénaga
+La Concordia|MX|Guerrero|41|1az|-7my|a
+La Cruz y Carrizal|MX||41|1j3|-7o6|a
+Lăculețe|RO||8u|3h2|1yn|a|Darulete
+La Cruz del Palmar|MX||41|1m9|-7s4|a|Cruz del Palmar;Cruz de Palmar
+La Caya|DO||4v|1iq|-5hk|a
+La Center|US|Kentucky|2f|2v0|-6v5|a|LaCenter
+Lăcusteni|RO||8u|3fx|24w|a
+La Criba|HN||56|11d|-6qt|a
+La Concepción|MX|Zacatecas|41|1ps|-7ux|a|Concepción
+La Ceiba|MX|Yucatán|3z|1ml|-6wz|a
+La Croix-Saint-Leufroy|FR||9k|3sf|3g|a
+La Curva|HN||56|17w|-6m9|a
+La Colorada|HN||56|17e|-6p6|a
+La Coruña|MX||44|1zw|-7yy|a|Coruña
+La Carroza|MX||41|1l5|-7u7|a
+Le Chesne|FR||9k|3tj|d8|a|La Chesne
+La Concepción Pueblo|MX||41|1jz|-7pl|a
+La Chapelaude|FR||9k|3ky|6y|a
+La Cumbre|MX|Jalisco|41|1j8|-84l|a
+Lachapelle-Saint-Pierre|FR||9k|3sv|68|a
+Lacourt-Saint-Pierre|FR||9k|3e7|3i|9
+La Campana|MX|Veracruz|41|1g2|-7fx|9|La Isla;La Ica
+La Chapelle-des-Pots|FR||9k|3j4|-1i|9|Chapelle-des-Pots
+La Cortinada|AD||8n|3a9|48|9
+La Conner|US||3p|3qf|-9ga|9|Laconner;L A Conner
+La California|MX||41|1n5|-7s2|9
+La Cruz del Padre Razo (Las Crucitas)|MX||41|1mu|-7sc|9
+La Conquista|NI||3s|wl|-6nf|9|Conquista
+La Campana|MX|Guanajuato|41|1lu|-7rm|9
+La Caudalosa|MX||41|1di|-7c3|9
+La Cinta|MX||41|1m8|-7qy|9
+La Chapelle-Gonaguet|FR||9k|3hn|1p|9|La Chapela de Gonaguet;Chapelle-Gonaguet
+La Concepción|MX|Michoacán|41|1iq|-7tf|9
+Vysochanske|UA||98|3l5|28o|9|Lak;Lac;Vysochans’ke;Wyssotschanske;Vysochanskoye
+Lačnov|CZ||9m|3sm|1e2|9
+La Calera [Fraccionamiento]|MX||41|1n3|-7wa|9
+La Cañada|MX|Michoacán|41|1j4|-7u1|9|Canada
+Kotolte|MX|Chiapas|41|1aq|-753|9|La Cañada
+La Calerilla|MX||41|1l5|-7z9|9
+La Celle-les-Bordes|FR||9k|3r4|5f|9
+La Candelaria|MX|Hidalgo|41|1mk|-7lc|9|Candelaria
+Cerrito Colorado|MX|Querétaro|41|1lb|-7qh|9|La Curva
+La Candelaria|PA||4g|ng|-67l|9
+La Cascada|MX||41|1c9|-730|9
+La Chapelle-Bouëxic|FR||9k|3p5|-5e|9|Chapel-ar-Veuzid
+La Cumbre|ES||9d|31g|-gm|9
+Lachassagne|FR||9k|3jl|d1|9
+La Chapelle-Rablais|FR||9k|3qr|89|9|Chapelle-Rablais
+La Candelaria|MX|Veracruz|41|1ex|-7c9|9|Candelaria
+Lachapelle-Auzac|FR||9k|3gt|45|9
+La Cumbrecita|AR||1n|-2gm|-4zx|9
+Lacenas|FR||9k|3jr|cw|9
+Lackovce|SK||8s|3ry|1p0|8
+La Chapelle-Chaussée|FR||9k|3q3|-56|8|Chapel-ar-Galc'hed;Chapel-ar-Galched;Chapelle-Chaussée
+La Cornuaille|FR||9k|3nz|-2q|8|Cornuaille
+La Chapelle-du-Bois|FR||9k|3py|1n|8
+La Cuestita|MX||41|1jq|-7wp|8
+La Concordia|MX|San Luis Potosí|41|1q4|-7rf|8|Concordia
+La Celle-Saint-Cyr|FR||9k|3p9|95|8
+La Curva|MX|Nayarit|3x|1nc|-838|8
+Lachlan|AU||8g|-3az|bch|8
+La Chapelle-Glain|FR||9k|3oa|-3c|8|Chapel-Glenn;Chapelle-Glain
+La Chaise-Dieu|FR||9k|3hw|aa|8|Chaise-Dieu;La Chasa de Dieu;La Chasa Dieu
+La Central|MX|Chiapas|3z|17p|-776|8|Colonia Central
+La Candelaria [Unidad Habitacional]|MX||41|1e4|-7a8|8
+La Celle-sur-Loire|FR||9k|3nv|85|8|Celle-sur-Loire
+La Chapelle-en-Vercors|FR||9k|3gx|f2|8
+San José Balsa Camarón|MX||41|1gm|-7gm|8|La Colmena
+La Comté|FR||9k|3w3|6x|8
+La Coucourde|FR||9k|3g1|da|8
+La Cañada (Cañada Grande)|MX||41|1hk|-7p6|8
+La Comunidad|MX|México|41|1h5|-7pl|8
+La Constancia|MX||44|1ug|-81n|8|Constancia
+La Colorada [Estación de Ferrocarril]|MX||41|1u5|-7wn|8
+La Campana|MX|Sinaloa|3x|1xg|-8at|8|Lacampena
+La Cabanasse|FR||9k|3a2|5v|8|La Cabanassa;Cabanasse
+La Croix-Blanche|FR||9k|3f1|1x|8
+La Calzada de la Merced|MX||41|1lr|-7uv|8|Calzada de la Merced
+Łączna|PL||a5|3xo|1ls|8
+La Cardona|MX|San Luis Potosí|41|1og|-7ru|8|Cardona
+La Ceiba|MX|Veracruz|41|1ho|-7fq|8
+La Chapelle-Saint-Rémy|FR||9k|3pn|1a|8
+La Chapelle-Vendômoise|FR||9k|3of|3g|8
+La Carbonera|MX|Oaxaca|41|1f9|-7fv|8|Carbonera
+Lachaqui|PE||3o|-w3|-5wv|8
+La Concepción|MX|Guerrero|41|1aa|-7ky|8|Concepcion
+Lacurile|RO||8u|3h8|1w6|8
+La Chapelle-Neuve|FR||9k|3oy|-86|8|Ar Chapel-Nevez
+La Capilla|MX|México|41|1it|-7og|8
+Lachambre|FR||9k|3sc|ir|8
+La Colorada|PA|Panamá Oeste Province|4g|oy|-660|7
+La Chapelle-Palluau|FR||9k|3ly|-4i|7|Chapelle-Palluau
+La Cruz|MX|Tabasco|41|1ed|-76f|7
+La Cretaz-Roisan|IT||9o|3j6|kb|7|Roisan
+La Cruz del Bajío|MX||3z|1dx|-75r|7|La Cruz
+La Cristalina|MX||3z|1g1|-70y|7
+La Chapelle-Montligeon|FR||9k|3qo|1u|7
+La Croix-en-Brie|FR||9k|3qz|8k|7
+La Croisille-sur-Briance|FR||9k|3ir|4e|7
+La Ceiba|MX|Tabasco|41|1de|-74t|7
+La Colorada|PE||3o|-i1|-668|7
+La Caja|MX|Colima|41|1ht|-80c|7
+La Copechagnière|FR||9k|3m5|-3r|7
+Laconnex|CH||a7|3k8|gr|7
+La Ceiba|MX|Veracruz|41|1lp|-7i8|7
+Lacq|FR||9k|3cl|-1q|7|Lac
+La Chevallerais|FR||9k|3nv|-4n|7|Kergaval;Chevallerais;La Chevalerais
+Lachixova|MX||41|1c4|-7el|7|Lachizora;Lachixola
+La Chapelle-Anthenaise|FR||9k|3po|-1w|7
+Candelaria|MX|Hidalgo|41|1l4|-7nv|7|La Candelapa
+La Chaussaire|FR||9k|3n4|-37|7|Chaussaire
+La Ciénega|MX|Guanajuato|41|1mg|-7qp|7
+La Chaussée-Tirancourt|FR||9k|3ur|5z|7
+La Cantera|MX|Guanajuato|41|1ma|-7qx|7
+Lac Baker|CA||43|3nh|-5ao|7
+Lacuisine|BE||8t|3u4|es|7
+La Campana|MX|San Luis Potosí|41|1ps|-7st|7
+La Chaize-Giraud|FR||9k|3ll|-52|7|Chaize-Giraud
+La Candelaria (El Rodete)|MX||41|1ld|-7tn|7
+La Chapelle-Saint-Sauveur|FR|Pays de la Loire|9k|3ns|-2q|7|Chapel-ar-Salver
+La Charmée|FR||9k|3ls|dc|7
+La Cañada|MX|Veracruz|41|1e9|-7cr|7
+La Croix-Helléan|FR||9k|3p8|-6y|7|Ar Groez-Helean
+La Concha|MX|Veracruz|41|1kw|-7i9|7
+La Cantera|MX|Guanajuato|41|1mr|-7sk|7
+La Compañía|MX|Oaxaca|41|1a0|-7gy|7|Compañía
+La Cruz (San Simón la Cruz)|MX||41|1it|-7on|7
+La Capilla|MX|Hidalgo|41|1mr|-7lo|7
+La Chaussée-sur-Marne|FR||9k|3rn|ck|7
+La Chapelle-au-Moine|FR||9k|3rb|-1m|7
+La Colorada|MX||41|1n6|-7s6|7|Colorada;El Colorada
+La Cal Grande|MX||41|1ki|-7v6|7|Cal Grande
+Lacken|AT||a2|3qe|135|7
+La Concepción|MX|Veracruz|41|1dm|-7a3|7
+La Competencia|MX|Durango|44|1zb|-7zl|7
+La Curva (La Curva de San Pedro)|MX||3x|1wp|-8aw|7
+La Chapelle-aux-Bois|FR||9k|3pg|hl|7
+La Chapelle-Saint-Sauveur|FR|Bourgogne-Franche-Comté|9k|3m5|en|7
+La Cruz|MX|Puebla|41|1jy|-7jq|7
+Lachapelle-sous-Chaux|FR||9k|3oi|iy|7
+Lacanche|FR||9k|3ms|co|7
+Miguel Hidalgo|MX|Chiapas|41|1cp|-732|7|Lacandón
+La Caldera|MX||41|1i6|-7jv|6|San Miguel;Caldera;Las Calderas
+Lecompton|US||2f|30g|-7cz|6|Lacompton;Le Compton
+La Concepción|MX|Guanajuato|41|1ml|-7t9|6
+El Sauz de Cebolletas|MX||41|1ka|-7qu|6|La Cebolleta;Cebolleta
+Lacropte|FR||9k|3h4|2b|6
+La Chapelle-en-Juger|FR||9k|3sh|-3d|6|Chapelle-en-Juger
+La Chapelle-Rousselin|FR||9k|3n5|-27|6
+La Combe-de-Lancey|FR||9k|3hm|ge|6|Combe de Lancey
+Lac-des-Aigles|CA||59|3pb|-5as|6
+La Calaverna|MX||41|1m1|-7tk|6
+Lacs|FR||9k|3lf|5m|6
+La Chapelle-Huon|FR||9k|3oy|22|6
+La Cantera|MX|Guanajuato|41|1m4|-7sr|6
+La Chapelle-Saint-Martin-en-Plaine|FR||9k|3ok|3y|6
+La Celle-Dunoise|FR||9k|3kn|4x|6|La Cela de Dun;Celle-Dunoise
+La Charca|MX||41|1gp|-7gx|6
+Lachicocana|MX||41|1be|-7f4|6
+La Calera|MX|Guerrero|41|1f6|-7sl|6
+La Chapelle-Montreuil|FR||9k|3l9|c|6
+La Chuparrosa|MX||3x|1yy|-8di|6
+La Caja|MX|Michoacán|41|1if|-7tr|6
+Lacroix-sur-Meuse|FR||9k|3s1|fb|6
+La Compuerta|MX||41|1gq|-7oo|6
+Lackendorf|AT||a2|3o7|19u|6|Lakfalva;Lakindrof
+La Colpa|PE||3o|-lr|-60u|6
+La Chapelle-Hermier|FR||9k|3lo|-4s|6
+Lacrost|FR||9k|3lc|dp|6
+La Cardona|MX|Nuevo León|44|1t0|-7pq|6|Cardona
+La Chèze|FR||9k|3pp|-7e|6|Kez
+La Cruz de Tenango|MX||41|1kc|-7kz|6
+Lachelle|FR||9k|3tc|7m|6
+La Chorrera|CO||27|-40|-5m7|6
+La Calzada de Oropesa|ES||9d|32u|-eo|6
+La Crosse|US|Virginia|48|2ty|-60y|6|LaCrosse
+La Cruz|MX|Veracruz|41|1k4|-7jb|6
+La Colmena|MX||41|1js|-7hg|6
+La Croix-aux-Mines|FR||9k|3py|jl|6|Croix-aux-Mines
+La Ciénega|MX|México|41|1gr|-7o8|6
+La Cuarta Manzana|MX||41|1k2|-7o3|6
+La Cumbre del Manzano|MX||41|1k9|-7kt|6
+La Calotterie|FR||9k|3w8|4t|6|La Caloterie
+La Casita|MX||41|1t0|-7yu|6
+La Cañada|MX|Morelos|41|1gq|-7nj|6
+La Colombe|FR||9k|3rs|-3a|6
+Lacroix-Barrez|FR||9k|3ge|7c|6
+La Carlota|MX||41|1dk|-7ec|6
+La Chispa|MX||41|1ic|-7q6|6
+La Chapelle-Blanche-Saint-Martin|FR||9k|3mt|27|6
+La Châtre-Langlin|FR||9k|3kx|3v|6|La Chastra dau Vicomte;Châtre-Langlin
+La Croixille|FR||9k|3px|-2y|6
+La Cresta|PA||4g|o0|-65w|6
+Lacona|US||48|3d8|-5vb|6
+Reforma Agraria|MX||3x|1o6|-848|6|La Colorada
+La Concepción Ejido|MX||41|1jx|-7pf|6
+la Canya|ES||9d|399|6y|6
+La Chapelle-Moulière|FR||9k|3ll|1k|6
+La Cruz de Aguilar|MX||41|1lt|-7u7|5|Cruz de Aguilar
+La Colonia|MX|Jalisco|41|1kr|-7xx|5|Colonia
+Lacomb|US||3p|3fv|-9gy|5
+La Calera|MX|San Luis Potosí|41|1ot|-7mv|5
+La Cambe|FR||9k|3t2|-2t|5
+La Chaux-du-Dombief|FR||9k|3lg|ge|5|Chaux-du-Dombief
+La Chapelle-Gaceline|FR||9k|3oq|-5v|5|Ar Chapel-Wagelin
+La Concepción|MX|Guanajuato|41|1la|-7rz|5|Concepción
+La Cruz de Eldorado (Cruz de Navito)|MX||3x|1vn|-8a5|5
+La Crosse|US|Indiana|2f|36s|-6pd|5|Lacrosse
+la Clota|ES||9d|373|5z|5
+La Curva|MX|Zacatecas|41|1we|-7tn|5
+La Concepción|MX|Guanajuato|41|1k2|-7ru|5
+La Conchita|MX||41|19q|-7ip|5
+La Candelaria|MX|Veracruz|41|1lp|-7l5|5|Tolintla
+La Chapelle-Yvon|FR||9k|3sa|y|5
+La Capilla|MX|Tamaulipas|3w|1yi|-7in|5
+La Carbonera|MX|Querétaro|41|1lt|-7r6|5|Carbonera
+La Chapelle-aux-Naux|FR||9k|3ng|17|5
+La Chapelle-de-Surieu|FR||9k|3i3|dn|5
+La Cumbre|MX|Puebla|41|1jw|-7jt|5
+La Côte|FR||9k|3oh|i9|5
+La Calavera|MX||41|1fi|-7im|5
+La Cañada|MX|México|41|1gm|-7o7|5
+La Côte-aux-Fées|CH||a7|3m7|i1|5|Côte aux Fées
+La Chapelle-sur-Oudon|FR||9k|3og|-2b|5|Chapelle-sur-Oudon
+La Coronilla|UY||45|-2l8|-45m|5|Coronilla
+La Curva Tlaltzintla|MX||41|1mp|-7lh|5
+La Cichilla|MX||41|1n5|-7m8|5|La Cuchilla
+La Concepción|MX|Puebla|41|1f3|-7kb|5
+La Cañada (San Sebastián)|MX||41|1gr|-7mx|5
+La Cruz|MX|Hidalgo|41|1kn|-7p4|5
+La Coulonche|FR||9k|3r5|-1a|5
+Lackagh|IE||8z|449|-oo|5|Lacagh;Leacach
+La Cinella|IT||9o|3c6|yg|5
+La Ciénega|MX|Guerrero|41|1dh|-7pf|5
+La Clotte|FR||9k|3hc|-f|5
+La Comunidad|MX|Hidalgo|41|1k9|-7n8|5
+La Cruz|MX|Hidalgo|41|1k6|-7nb|5

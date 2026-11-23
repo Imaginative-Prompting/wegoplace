@@ -1,0 +1,43 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Heerlen|NL||8m|3xc|gm|pv|Heële;Coriovalo
+Heerhugowaard|NL||8m|42b|dh|d8
+Heerenveen|NL||8m|434|gg|bz|It Hearrenfean;Hereveen
+Heemskerk|NL||8m|41v|cz|aw
+Heemstede|NL||8m|41f|cu|74|Hiemstee;Hemstedė
+Ngerengere|TZ||h|-ir|2xw|4s|Heerengere
+Heesch|NL||8m|3zp|fd|3k
+Heeze|NL||8m|3yq|fh|2r
+Heerde|NL||8m|41j|gs|2h
+Heek|DE||8r|40s|jq|2b|Hêk
+Heeswijk-Dinther|NL||8m|3zh|f8|28
+Heer|NL||8m|3x8|fx|24|Hier;Meer
+Heers|BE||8t|3wz|eq|1v|Hiër
+Heerstraße|DE||8r|3rd|pa|1g
+He‘eia|US||ax|1nj|-c6e|1e|Heeia
+Henndorf am Wallersee|AT||a2|3p2|10m|1d|Heedorf am Wallersee
+Heeslingen|DE||8r|444|px|1c|Heeßel
+Heel|NL||8m|3y6|gd|14
+Heerjansdam|NL||8m|400|co|12
+Heelsum|NL||8m|40e|g0|w
+Hees|NL||8m|400|g7|t
+Heestert|BE||8t|3x2|9h|t
+Heesterakker|NL||8m|3z1|fa|s
+Heeg|NL||8m|435|fl|m
+Heede|DE|Lower Saxony|8r|437|ka|m
+Heechterp|NL||8m|43t|g6|i
+Heemsen|DE||8r|42e|pq|h
+Heisdorf|LU||9c|3tz|h2|g|Heeschdrëf
+Heeßen|DE||8r|413|pa|g
+Heerle|NL||8m|3z4|c4|d
+Heere|DE||8r|40n|sh|c
+Heerewaarden|NL||8m|3zy|ez|a
+Heemskerkerduin|NL||8m|41v|cv|8
+Heer|BE||8t|3vc|df|8
+Hees|BE||8t|3x9|fl|8
+Heede|DE|Schleswig-Holstein|8r|45e|r9|7
+Heenweg|NL||8m|40e|bm|7
+Heeswijk|NL||8m|40l|dt|7
+Heeren|DE||8r|41y|x1|6
+Hee|DK||8y|4by|n0|5
+Heeseind|NL||8m|3zq|f2|5|Heescheind
+Heerstedt|DE||8r|44j|oc|5

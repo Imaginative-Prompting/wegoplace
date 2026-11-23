@@ -1,0 +1,81 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mashhad|IR||7o|2su|4ll|hsw|Mashad;Maŝhado;Meszhed;Mexed;Maschhad;Masyhad;Meşhed;Mešheda;Meixad;Mešhedas;Maxhad;Maşat;Sanaabad;Alexandria
+Makkah|SA||7e|1nj|32n|c6j|La Mecque;La Meca;Mekko;Mekao;Mekka;Mecca;A Meca;Meka;Meice;Mekkah;La Mecca;Meke;Meca;Mecka;Mekke;Mäkkä
+Meishan|CN||7i|2bg|80g|8jp|Mì-săng;Mej-šan;Mi Sơn;Bî-san-chhī;Meyshan’
+Meizhou|CN||7i|1vh|8yk|7no|Mej-čou;Mòi-chiu-sṳ;Mai Châu;Mûi-chiu-chhī;Mùi-ciŭ
+Magdeburg|DE||8r|40t|wb|1vv|Magdebourg;Meideborg;Maagdenburg;Makekepuka;Magdebörj;Dźěwin;Magdebuag;Magdeburk;Magdeborgh;Magdeborg;Madeborch;Maqdeburq
+Meiktila|MM||7y|1m0|7ea|1da|Miktila
+Meihekou|CN||7i|3a5|9p4|rm|Mei-ho-k’ou;Mei-ho-kow
+Meidling|AT||a2|3pt|19d|r4
+Maymana|AF||6o|2rs|4zy|l3|Meymaneh;Maïmana;Majmana;Meimana;Meymene;Maimanah;Mimana
+Mérignac|FR||9k|3gk|-1t|je|Meirinhac;Merignae
+Meïganga|CM||j|i4|13q|gi|Meiganda
+Meikle Earnock|GB||9b|4av|-b7|f5|Baile Hamaltan
+Mei Foo|HK||6i|1q2|8t2|cs|Meifoo
+Meiderich|DE||8r|3yz|it|cl
+Mei Foo Sun Chuen|HK||6i|1q2|8t2|ad
+Meijiang|CN||7i|26i|8ev|89
+Meissen|DE||8r|3y4|11f|7x|Miśnia;Míšeň;Mišno
+Maywood|US|Illinois|2f|38c|-6s0|6o|Meivudas;Meivuda
+Meinerzhagen|DE||8r|3xz|l9|64
+Meiningen|DE||8r|3wh|sy|60|Mainingia
+Meise|BE||8t|3xi|c1|55
+Maynooth|IE||8z|44b|-ib|4t|Maigh Nuad;Meinutas
+Merelbeke|BE||8t|3xn|af|4n|Meirelbeke
+Meilen|CH||a7|3nb|o1|3y|Meilana
+Sydney Mines|CA||2x|3kg|-4na|3g|Mèinnean Baile Shidni
+Meitingen|DE||8r|3qv|u5|34|Meitinga
+Meiziya|CN||7i|290|8dg|2o
+Meythet|FR||9k|3jk|gx|2d|Melitetum;Meithet
+Meitar|IL||6n|2f1|2p2|2c|Mejtar;Metar
+Meinersen|DE||8r|41r|sr|2b|Maanßen;Maanße;Meinße;Mānße
+Maythalūn|PS||6g|2hv|2pz|1w|Maysalūn;Meithalūn
+Mere|BE||8t|3xg|b1|1h|Meire
+Meilahti|FI||92|4n7|1x6|1g|Mejlans;Meikku
+Meijel|NL||8m|3ym|gc|1g|Mael;Meiel
+Meis|ES||9d|3a2|-ob|1e
+Meiringen|CH||a7|3lt|mr|1b|Meyringen
+Meinedo|PT||99|36l|-my|18
+Mei Tung Estate|HK||6i|1q1|8t7|18
+Meichang|CN||7i|31d|91i|14
+Meißenheim|DE||8r|3qh|ll|10
+Meiners Oaks|US||3p|2np|-97c|10|Meiners Oak
+Mei King Mansion|HK||6i|1q0|8t7|y
+Meisenheim|DE||8r|3u3|lb|t
+Meix-devant-Virton|BE||8t|3tt|f8|q|Méch-divant-Vierton
+Meisterschwanden|CH||a7|3nd|mv|p
+Meiningen|AT||a2|3ne|qm|m
+Meisir|IL||6n|2i4|2pc|k|H̱orbat Mesar;Meisar;H̱orbat Mezer
+Meipucun|CN||7i|20t|96a|j
+Meinier|CH||a7|3kh|hb|i
+Moisdon-la-Rivière|FR||9k|3oa|-3t|i|Maezon-ar-Stêr;Maedonium;Meisdon-la-Rivière
+Meira|ES||9d|3c1|-k9|i
+Meia Via|PT||99|31n|-nm|h
+Meina|IT||9o|3j7|nq|g
+Meillac|FR||9k|3qh|-51|f|Melieg
+Meilhan-sur-Garonne|FR||9k|3fo|3|f|Melhan;Meilhan
+Meistratzheim|FR||9k|3ql|ky|e
+Meillonnas|FR||9k|3kg|ev|d|Melyonâs
+Meinisberg|CH||a7|3n0|kf|c|Montménil
+Mojstrana|SI||9a|3ky|12k|c|Meistern
+Meyenheim|FR||9k|3p3|kg|b|Meienheim;Meijenheim
+Meierskappel|CH||a7|3mw|ng|b
+Meitzendorf|DE||8r|411|w4|b
+Meilhan|FR||9k|3du|-1z|b
+Meigs|US||48|2eb|-6hl|a
+Meinheim|DE||8r|3s7|u2|9
+Maisonsgoutte|FR||9k|3qb|k6|8|Meisengott;Maisegott
+Meigem|BE||8t|3xq|9u|8|Meygem
+Meillon|FR||9k|3c7|-v|8|Melhon
+Meshar|IL||6n|2ge|2oj|8|Mejšar;Meishar;Meişar;Meyshar
+Meillant|FR||9k|3ly|6z|8
+Meisenthal|FR||9k|3s1|kf|8
+Meron|IL||6n|2jn|2qg|8|Meiron;Merion
+Mei Ya Kone|MM||7y|19n|7f9|8
+Confort-Meilars|FR||9k|3ph|-cb|8|Koñforzh-Meilar;Meilars
+Meix-le-Tige|BE||8t|3tu|fw|7
+Meineweh|DE||8r|3xw|xb|7
+Meidrim|GB||9b|402|-ch|6
+Moestroff|LU||9c|3uj|hc|5|Méischtref
+Meilhards|FR||9k|3ik|4l|5
+Meilen / Halten|CH||a7|3nb|o2|5

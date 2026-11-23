@@ -1,0 +1,99 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Keelung|TW||7l|1xt|9e6|2sp|Chilung;Cơ Long;Kî-lùng-sṳ;Giĕ-lè̤ng;Ťi-lung;Ke-lâng-chhī;Chi-lung
+Tilburg|NL||8m|3z8|e5|1pn|Tilia;Tilburch
+Tlemcen|DZ||3|2ow|-3n|1c7|Tremecén;Tilimsan;Tilimsen;Termicén;Tlemsenas;Pomaria;Tlemsen
+Tilhar|IN||6t|25o|65i|fu
+Sovetsk|RU|Kaliningrad Oblast|96|490|1os|c1|Tilsit;Sowetsk;Sovjetsk;Tilsa;Sovyetsk;Sovietsk;Tilžė;Sowieck;Sovețk;Sowjetsk;Szovjetszk;Tylża;Til’zit
+Tilda Newra|IN||6t|1nv|6b8|a7
+Tillabéri|NE||18|13h|41|8k|Tillabéry
+Tallkayf|IQ||5z|2td|3bs|6j|Tall Kaif;Tall Kayf;Tilkayf
+Tilpat|IN||6t|273|5yt|5p
+Tīlīlī|ET||2|u5|2uu|5o
+Tillsonburg|CA||59|3b2|-689|56
+Tillmans Corner|US||2f|2cz|-6sx|4u
+Dilijan|AM||80|356|3gm|4f|Tili;Delizhan;Tilichan;Pokr Dili;Delijan;Dili;Dilidschan;Dilidjan;Dilican;Diliĝano;Dilidžan;Diližanas;Dilinan;Dilishan;Dilizhan;Delishan;Dilichan
+Tilst|DK||8y|4c3|s3|4c|Tiilst
+Thilogne|SN||g|188|-11y|46|Tilogne
+Tilbury|GB||9b|3yy|10|3y
+Tilang Pur Kotla|IN||6t|27l|5xz|3s
+Tilogne Tokossel|SN||g|18d|-11s|2w|Tilagne Tokossel
+Tillicum|CA||5b|3ql|-9is|2t
+Korkut|TR||94|2zl|382|29|Til
+Tilomar|TL||6b|-py|9nj|27
+Dilek|TR||94|2ys|2y9|21|Tilek
+Tilarán|CR||2i|t3|-6k1|21
+Tila|MX||3z|1c2|-74r|20
+Tileagd|RO||8u|3mr|1po|1y|Telegd
+Tilodih|IN||6t|1v9|6nl|1y|Telodih
+Tilouline|DZ||3|234|-9|1p
+Tilcara|AR||1o|-1ti|-51o|1k|Tilkara
+Tiltil|CL||4u|-2jw|-5h1|1k
+Tilisarao|AR||1u|-2ix|-51d|1j
+Tilff|BE||8t|3wg|fi|1j
+Tillicoultry|GB||9b|4bz|-ae|1g
+Tillamook|US||3p|3ia|-9k1|1e
+Tilzapotla|MX||41|1fd|-7nr|1c
+Tilbury|CA||59|39f|-6cz|1b
+Till|PS||6g|2hg|2pt|1a|Tīl;Tell;Tall
+Tillia|NE||18|18s|db|1a|Tilia
+Tilleur|BE||8t|3wm|fd|16
+Tildonk|BE||8t|3xi|cw|14|Thildonk;Thildonck
+Tilton|US|New Hampshire|48|3co|-5iv|10
+Tililan|TR||94|2vt|38r|y|Tilila
+Tiling|PH||71|rp|9gp|x
+Tīl|IR||7o|2y9|3ia|x
+Ti Law Kar Yon|MM||7y|1bc|7f1|w
+Tilton-Northfield|US||48|3co|-5iv|v
+Tillo|TR||94|2xf|38p|v
+Talfīt|PS||6g|2h5|2q1|t|Tilfīt
+Tilapa|MX|Puebla|41|1fo|-7lr|s|Tilspa;Tilopa
+Tilton|US|Illinois|2f|33e|-6rh|q
+Tilik|PH||71|12d|99w|o|Tilig;Tilic;Titik
+Tílisos|GR||8p|2q2|1xi|n|Tylissos;Tílissos
+Tillberga|SE||9w|4ls|1a6|m
+Tiltepec|MX|Chiapas|41|19j|-78r|k
+Tilichiki|RU||6p|4nv|ctb|k|Tilitsjiki;Telichiki;Tilichiky;Tilighiki
+Tilly|BE||8t|3wg|cn|k
+Tilapan|MX||41|1ez|-7ct|i
+Tilişca|RO||8u|3j8|1u9|h
+Tillson|US||48|387|-5pr|g
+Tilloy-lès-Mofflaines|FR||9k|3vo|7t|g
+Tillmitsch|AT||a2|3m1|174|e
+Teillé|FR||9k|3nu|-3k|e|Tilhieg
+Demiryol|TR||94|2xc|36b|e|Tilmere;Til’merch;Tilmerç
+Tillières|FR||9k|3my|-38|d|Tilliers
+Tiltonsville|US||48|33l|-686|d|Tiltonville
+Tilly-sur-Seulles|FR||9k|3sm|-1r|d
+Tiltepec|MX|Hidalgo|41|1kf|-7m4|d
+Tillières-sur-Avre|FR||9k|3rg|2x|d
+Le Theil-de-Bretagne|FR||9k|3p4|-3z|c|An Tilh;Tilia;Theil-de-Bretagne
+Tillé|FR||9k|3te|5v|a
+Tillmitsch Links der Laßnitz|AT||a2|3m1|174|a
+Tilques|FR||9k|3x2|64|a
+Tilecuș|RO||8u|3mm|1pq|a
+Tilleda|DE||8r|3yu|uy|9
+Tilden|US|Nebraska|2f|38t|-7jr|9
+Tillet|BE||8t|3ux|fd|9
+Tillingham|GB||9b|3zm|2g|9
+Tilden|US|Illinois|2f|2y5|-6x4|9
+Tilapa|MX|Guerrero|41|1bd|-7mb|9
+Tilgongon|CI||0|rk|-9y|9
+Teillay|FR||9k|3ot|-4a|9|Tilheg
+Til-Châtel|FR||9k|3o0|ed|8
+Tilh|FR||9k|3d2|-2c|8
+Tilstock|GB||9b|432|-7g|8
+Tilghman Island|US||48|2zi|-5w2|8
+Tilligte|NL||8m|41l|jb|7|Tilhgte
+Tilancingo|MX||41|1g2|-7o9|7
+Akça|TR|Batman|94|2x5|36e|7|Gil’mis;Tilmis
+Tilloy-lez-Cambrai|FR||9k|3vg|8y|7
+Tilaco|MX||41|1ms|-7nj|7
+Tilston|GB||9b|43e|-7t|6
+Tilica|MX||41|1fj|-7gy|6
+Talābād|IR||7o|2pp|4ia|6|Ţālebābād;Tīlehābād;Tilāābād
+Tilly|FR||9k|3sj|49|5
+Gündoğan|TR|Gaziantep|94|2ug|2wb|5|Tilbaşar
+Tilapa|MX|Veracruz|41|1ev|-7e0|5
+Tillenay|FR||9k|3n2|ev|5
+Tildenville|US||48|27a|-6ao|5

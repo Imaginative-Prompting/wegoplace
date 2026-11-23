@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bursa|TR||94|33o|28q|nxm|Burs;Burso;Prusa;Prusa ad Olympum;Boursa;Prousa;Brusa
+Pretoria|ZA||o|-1zi|26b|gav|Pretorio;Pretorija;Prétoriye;IPitoli;Pretoriya;Praetoria;Pretorii;E-Pitoli;Priturya;Pretourii;Pitori;Pretorie;Piritōria;Pretooriyaa
+Port-au-Prince|HT||4j|1fi|-5ky|9iz|Puerto Príncipe;Pòtoprens;Port o Prensas;Porto Príncipe;Portoprensa;Port au Prince;Port-o-Prins;Portoprinco;Portus Principis;Port-o-Prens
+Prague|CZ||9m|3v5|142|8zs|Praha;Praga;Prago;Prag;Praag
+Prayagraj|IN||6t|1yo|6bc|8a6|Allahabad;Alahabadas;Ilāhābād
+Ribeirão Preto|BR||4w|-1mu|-3ot|5e2|Ribeirão;Ribeiran Pretas
+Kermanshah|IR||7o|2nb|3mr|4sj|Kermānschāh;Kermanŝaho;Provinco Kermanŝah;Kirmaşan;Kermaansjaah;Kirmanşah;Kermanšah;Ḳarmīsīn;Qirmisin
+Pristina|XK||8q|3aj|1mt|48s|Prishtinë;Prishtina;Prisztina;Prisjtina;Priŝtino;Priştine;Prixtina;Prėštėna;Prištin
+São José do Rio Preto|BR||4w|-1lu|-3t6|3pg|Rio Preto;San Žozė do Rio Pretas
+Jardim Presidente Dutra|BR||4w|-1t3|-3kz|3lb
+Bratislava|SK||8s|3pr|1bj|39p|Prešporok;Bratislavo;Pozsony;Posonium;Preßburg;Bratysława;An Bhratasláiv;Bratisława;Bratisllava;Bratislav;Baratislawa;Presbourg;Presburg;Prešpurk;Preszburg
+Samut Prakan|TH||62|11s|7rg|301|Paknam;Smutprakan;Pakham;Samutpraken
+Praia Grande|BR|São Paulo|4w|-1up|-3kw|2u2
+Pravyi Bereh|UA||98|3mv|2wf|2pt|Pravyy Bereh
+Preston|GB||9b|45c|-7i|2f1
+Khmelnytskyi|UA||98|3ta|22y|249|Chmelnyzkyj;Chmielnicki;Płoskurów;Hmeljnicki;Khmel'nyts'kyy;Proscurovia;Chmielnicius;Chmel'nyc'kyj
+Probolinggo|ID||6l|-lj|8qi|1vp|Probalingga;Probalinggo
+Presidente Prudente|BR||4w|-1ph|-3yr|1t7|Prezidente Prudentė
+Puerto Princesa|PH||71|r2|95u|1pv|Puerta Princesa
+Prokop’yevsk|RU||74|45s|6ow|1ou|Prokopjevsk;Prokopyevsk;Prokopjewsk;Prokoyevsk;Prokop’yevo
+Bandundu Province|CD||t|-98|1ca|1kd|Bandundu;Provincia di Bandundu;Provinco Bandundu;Bandundu tartomány;Provinsi Bandundu;Bandundu Bölgesi;Bandundu viloyati;Wilayah Bandundu;Provincia de Bandundu;Provinz Bandundu;Bandundu Lardin;Gobolka Bandundu;Mkoa wa Bandundu
+Phra Pradaeng|TH||62|11y|7r9|1ih|Bhra Pradeng
+Prato|IT|Tuscany|9o|3dw|uu|1i7|Pratu;Prè
+Providence|US|Rhode Island|48|386|-5id|1h1|Providenco;Providensa;Providentia;Providensas;Provėdensos;Provans
+Grand Prairie|US||2f|2iz|-7hg|1g6|Grand Preris
+Praga Południe|PL||a5|414|1ml|1dy
+Spring Valley|US|Nevada|3p|2sb|-8w4|1dk|Printempa Valo
+Proddatūr|IN||6t|14z|627|1de
+Prizren|XK||8q|399|1lm|1bn|Përzeren;Perzerin
+Ban Khlong Prawet|TH||62|124|7ro|18n
+Brăila|RO||8u|3hr|25p|16z|İbrail;Uebereyl;Drinago;Brajla;Proilabum;Breila;Brillago;Berâil
+Prenzlauer Berg|DE||8r|41y|11a|15d
+Aix-en-Provence|FR||9k|3cx|f5|14s|Æx-in-Profentse;Ais de Provença;Aquae Sextiae;Aikso Provenca;Ēksanprovansa;Provanso Eksas
+Praia|CV||84|15h|-1tb|12b|Praja;Braia;Praya;Prajo;Prajė
+Pyay|MM||7y|1ga|7ci|11l|Pye;Prome;Pjajus;Pji;Pyain;Pyei
+Presnenskiy|RU||9i|4aw|2wc|xw
+Zielona Góra|PL||a5|40a|173|ww|Grünberg;Zelona Gura;Prasia Elysiorum;Zelöna Gur;Zeliona Gura;Zelonô Góra;Zelona Qura;Gruenberg
+Punta Arenas|CL||4n|-43o|-5gz|wm|Promontorium Arenosum;Puntaarenasa;Ponta Arenasos
+Provo|US||2p|33r|-8m6|w0|Provas
+Rivière-des-Prairies–Pointe-aux-Trembles|CA||59|3is|-5oe|vn

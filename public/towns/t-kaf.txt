@@ -1,0 +1,81 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Carrefour|HT||4j|1fh|-5l4|3y1|Kafou
+Kafrul|BD||6a|1u3|6z1|2md
+Kafr ash Shaykh|EG||c|2ef|2dy|1i2
+Kafr ad Dawwār|EG||c|2eh|2bp|zp|Kafr ed-Dauwâr;Kafr al-Dawar
+Kafue|ZM||z|-17t|26a|sy
+Kfar Saba|IL||6n|2hd|2oz|rm|Kafr Saba;Kefár Saba;Kefar Sava;Kfar Sava;Kefar Sawa
+Gafsa|TN||1e|2nm|oe|qg|Kafsa;Qafsa;Gafso;Qafşah
+Kafr az Zayyāt|EG||c|2dm|2dm|n5|Kafr az-Zayyat;Kafr ez Zejatas;Kafr El-Zayat;Kafr az-Zajjat;Kafraz Zayyt;Kafr el-Zaiyât;Kafr az Zayāt;Kafr ez Zaiyat
+Kafanchan|NG||u|qm|n1|m3|Kajanchan;Kafachan
+Feodosiya|UA||9t|3h3|2qa|j2|Kefe;Teodozja;Feodossija;Théodosie;Feodòssia;Teodozio;Feodosija;Teodosia;Feodosia;Feodosya;Caffa;Theodosia;Fyeodosiya;Kaffa
+Kaffrine|SN||g|137|-177|fx
+Kafr al Baţţīkh|EG||c|2f8|2g6|d4|Kafr el-Baṭṭîkh
+Kafranbel|SY||69|2qx|2tk|cp|Kafr nabel;Kafr Anbel
+Kafr al Kurdī|EG||c|2el|2g9|ch|Kafr el Kurdi
+Kafr Şaqr|EG||c|2dj|2fv|cd
+Kapan|AM||80|30x|3kx|95|Kafan;Katan
+Kafr Shukr|EG||c|2cv|2es|8l
+Kafr Qāsim|IL||6n|2h7|2p6|7s|Kufr Qāsim;Kafar Qāsem;Kafr Qassem
+Kafr Kannā|IL||6n|2iz|2q6|6c
+Kafr Takhārīm|SY||69|2sc|2tg|68|Kafar Takharim;Kafer Takhârim;Kafr Taḩārīm;Kafer Tahârim
+Kafr Mandā|IL||6n|2j5|2py|67|Kafar Manda;Kafer-Manda
+Kafr Zaytā|SY||69|2q9|2to|62|Kafr Zīta;Kafer Zaïta
+Kafr Lāhā|SY||69|2ox|2te|62|Kafer Lâha;Kufer Laha
+Kafr Qari‘|IL||6n|2ib|2pd|5v|Kafr Qara;Kafr-Qara;Kafr Kara;Kafr Qara‘;Kafr Qari
+Kafr Sa‘d|EG||c|2f4|2g0|51
+Cafayate|AR||1s|-20f|-53a|4o|Kafajatė;Cafayete
+Kafia Kingi|SS||p|pr|1vu|4g|Kafiya Kinji
+Kafin Hausa|NG||u|y0|rj|3i|Keffin Hausa;Kaffin-Hausa
+Kafr Shams|SY||69|2k0|2sb|3g|Kafer Chams;Kafr Chams
+Kafr Buhum|SY||69|2pe|2ty|3e|Kafr Abuhum;Kafr Behoum;Kafr Behūm
+Kafarati|NG||u|su|uu|37|Kafareti
+Kfar Yasif|IL||6n|2jj|2po|2x|Kefar-Yasif;Kafr Yāsīf;Kafir Yasif
+Kafr Asad|JO||5t|2ik|2r7|2a|Kufr Esad;Kufr Asad
+Kafr Rā‘ī|PS||6g|2hx|2pn|21|Kufr Rā‘i
+Kafr Sawm|JO||5t|2it|2rg|20|Kufr Saum
+Kafr Abīl|JO||5t|2i2|2r2|1r|Kufr Abîl;Kefr Abil
+Kfar Kila|LB||64|2kg|2qr|1n|Kafr Kilā;Kfarkila
+Kafr ad Dīk|PS||6g|2h3|2pg|1e|Kafr ed Dīk
+Kafr Dān|PS||6g|2i8|2px|1e
+Kafyr-Kumukh|RU||9i|3b0|3mz|17|Kafyrkumyk’;Kafyr-Kumuch
+Kafr Thulth|PS||6g|2hb|2pd|16
+Kafiné|CI|Vallée du Bandama District|0|nn|-er|15|Kaffiné
+Kafr al Labad|PS||6g|2hq|2pj|13|Kafr el Labad
+Kafr Barā|IL||6n|2h9|2p5|11|Kefar Bara
+Kazımkarabekir|TR||94|2vf|2jk|10|Kafiryat
+Kaff al-Jaa|SY||69|2ph|2sl|z
+Kafr Qaddūm|PS||6g|2hi|2pm|y|Kafr Kaddūm;Kufr Qaddūm
+Kafr Kammā|IL||6n|2iw|2qg|y|Kafr Kamā;Kafer-Kama;Kafar Kama;Kafr Qamah
+Kafr Şaghīr|SY||69|2st|2vi|v|Kafr aş Şaghīr
+Kafr Mūsá Al-Hmidiya|SY||69|2o2|2th|u
+Kafiné|CI|Savanes District|0|ov|-fl|u
+Kafr Mālik|PS||6g|2gv|2q3|t
+Panik|AM||80|34y|3e5|t|Kyavtarlu;Kaftarly;Gevdarli;Zvarchadzor
+Kafr Miṣr|IL||6n|2ip|2qe|s|Kafr Masr
+Kafukamura|JP||7q|3hu|avs|p
+Kafr Jammāl|PS||6g|2hj|2pc|p
+Kafr Qallīl|PS||6g|2hf|2q0|o|Kafr Qalīl;Kufor Qallil
+Kafr Nāsij|SY||69|2k3|2s4|o|Kefr Nasij
+Kafégué|CI||0|o3|-h4|k|Kafigué
+Kāfeh Bālūchī|IR||7o|22a|4r0|k
+Kafolo|CI||0|qm|-by|i
+Kaftarak|IR||7o|2a6|42d|h
+Kafr ‘Ayn|PS||6g|2h1|2pk|h
+Kafrāsh|IR||7o|2n2|3qa|h
+Kāfoshān|IR||7o|2ii|3z2|h|Gāh Foshān;Kāh Fashān
+Kafrī|IR||7o|29y|41t|g|Kofrī
+Kafa|CI||0|qo|-g2|g
+Kafr ‘Abbūsh|PS||6g|2hi|2ph|e
+Kafingué|CI||0|qx|-j8|e
+Kāftar|IR||7o|2cu|42h|e
+Kafoudougou|CI||0|nj|-c8|b
+Kafr Qūd|PS||6g|2i6|2pv|b
+Kafr Şūr|PS||6g|2hk|2pe|b
+Kafr Zībād|PS||6g|2hj|2pf|b
+Kafyohokaha|CI||0|qj|-f9|a
+Kafterūd|IR||7o|2vq|3tk|9|Kafteh Rūd;Kaft Rūd
+Kafr Lāqif|PS||6g|2he|2ph|8
+Kaffiné-Banbarasso|CI||0|nq|-c1|7
+Kaforo|CI||0|pt|-fr|7
+Käferheim|AT||a2|3oq|zz|5

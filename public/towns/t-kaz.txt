@@ -1,0 +1,75 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Kazan|RU||9i|4az|3sg|9lf|Qazan;Kaasan;Qozon;Casanum;Cazã;Kasã;Kasan
+Qazvin|IR||7o|2sr|3uw|2ko|Kazwin;Kazvín;Kazvinas;Qazwên
+Nazran|RU||9i|3c3|3gd|19l|Nasran;Kazran
+Kazo|JP||7q|2sc|ars|vc|Kaso
+Kāzerūn|IR||7o|2aa|3zh|v8|Kāzarūn;Kazeroun
+Kasongo|CD||y|-cb|223|mo|Kazongo
+Kazanlak|BG||9v|3ae|1yk|db|Kazanłyk;Kasanlak;Kazanluk;Kazanlık;Kazanlk;Kazanlek
+Hanawa|JP|Akita|7q|33m|av3|a9|Kazuno-chhī
+Cazombo|AO|Moxico|x|-x2|1rm|9g|Kazombo
+Kazincbarcika|HU||8v|3q1|1lb|90
+Kahramankazan|TR||94|33r|2is|6n|Kazan
+Gazakh|AZ||61|365|3i1|5s|Qazax;Kazachas;Kazah;Qazox;Kazakh;Qazakh
+Kazo|UG||q|-7|2dj|4f
+Kazygurt|KZ||5s|380|5cq|43|Qazyqurt;Qazyghurt;Kazyghurt;Kazykurt
+Kazaure|NG||u|z5|nd|3o
+Kazungula|ZM||z|-1df|1y7|3d|Kasungulu;Kasungula
+Kazarman|KG||65|370|5pn|34
+Kazanskaya|RU|Krasnodar Krai|9i|3i5|34c|30|Kazanskaja
+Kazalinsk|KZ||7d|3j4|4si|25|Qazaly;Kasalinsk
+Kazéribéri|CI||0|fo|-fl|22
+Kazım Karabekir|TR||94|32d|3bm|1y
+Kazanka|UA|Mykolaiv|98|3ov|2j7|1y|Kanzanka;Kazanko;Kazenka;Kazavka
+Kazanskoye|RU||7z|4al|5cb|1n|Kazanskoje
+Kazimierza Wielka|PL||a5|3vn|1kx|1l|Kazimeža Velka
+Kazlų Rūda|LT||a3|483|1t9|1l|Kozłowa Ruda;Kozlova-Ruda;Kazlų Rūdos
+Kazreti|GE||7n|36y|3fe|1j|Kazret'i;K’azreti
+Kazanskaya|RU|Rostov|9i|3ub|36b|1d|Kazanskaja;Kasanskaja
+Kaz|RU||74|42z|6qj|1d
+Kaztalovka|KZ||77|3u9|3r9|1c
+Kazimierz Biskupi|PL||a5|41b|1eh|17
+Kāz̧emābād|IR|Kerman|7o|2cx|4dx|15|Kāzimābād;Qāsemābād
+Kazachinskoye|RU|Krasnoyarsk Krai|6u|4ga|774|14|Kazatsjinskoje;Kazachinskiy
+Kozachi Laheri|UA|Kherson|98|3lr|2jm|10|Kozatsji Laheri;Kosatschi Laheri;Kozatji Laheri;Kozači Laheri;Kozachi Lageri;Kozatši Laheri;Kozaczi Łaheri;Kazach’i Lageri
+Kazımkarabekir|TR||94|2vf|2jk|10|Kafiryat
+Kazimierz Dolny|PL||a5|3yk|1p0|z|Kazimeždolni
+Kaźmierz|PL||a5|41v|1a2|w
+Kazaki|RU||9i|426|2ya|w|Kagaki;Kasaki
+Kāz̧emābād|IR|Razavi Khorasan|7o|2t1|4lo|v
+Kaznějov|CZ||9m|3ul|116|v
+Kazakhstan|KZ||5s|3cw|602|v|Qazaqstan
+Kazinka|RU||9i|41y|32m|u|Kasinka
+Qāẕīān Bālā Maḩalleh|IR||7o|2v1|3u0|s|Qāzīān;Ghāzīān;Kazian;Ghāzeyān;Qāzīyān
+Kazachinskoye|RU|Irkutsk Oblast|6k|4cb|8au|q|Kazatsjinskoje;Kazachinskaye
+Kazár|HU||8v|3ph|1j6|l
+Kazanbey|TR||94|30j|3b5|k|Kazan
+Kazzāz-e Bālā|IR||7o|2mg|3tc|j
+Kazhan-Haradok|BY||9g|411|231|h|Kozhan-Gorodok
+Stepantsminda|GE||7n|3ai|3g0|g|Kazbegi;Step’antsminda;St’epants’minda;Qazbegi;Kazbeg
+Mazmanlı|TR||94|2tu|2th|f|Kazmanlı
+Kāz̧emābād|IR|Razavi Khorasan|7o|2t7|4l8|f|Qāsemābād
+Casson|FR||9k|3nn|-4c|e|Kazon
+Kazancı|TR||94|2wx|34s|e
+Meghrashen|AM||80|34z|3e4|c|Ghazanchi;Kazanchi;Mexrashen
+Kozacha Lopan|UA||98|3vt|2sk|c|Kazach’ya Lopan’;Kozach’ya Lopan’
+Kozinka|RU||9i|3w6|2qw|b|Kazinka
+Kazachka|RU||9i|448|2xr|a|Kazatsjka
+Isahakyan|AM||80|34u|3dh|a|Kazarapat;Kharum;Isaakyan;Khazarapat;Isahakian
+Ka Zi Ta Dar U|MM||7y|12m|7kz|a|Kazi
+Kazım Karabekir Mahallesi|TR||94|35a|3bt|a
+Gazanbulag|AZ||61|34u|3ll|9|Qazanbulaq;Kazanbulak
+Getap|AM|Shirak|80|34x|3e7|9|Kazmali;Kasum-ali;Ghasum-Ali;Ghasmali
+Kazabazua|CA||59|3jn|-5v6|8
+Kazanovka|RU||9i|45c|2z5|8
+Kazenne|UA||98|3u0|2hs|8
+Ghazanchi|AM||80|363|3ds|8|Kazanchi;Xazanchi;Ghayghuli
+Kuruköy|TR||94|2wc|25z|7|Kazancı
+Kazıkkaya|TR||94|336|3am|7
+Kazimierz|PL||a5|3zt|1hd|7
+Kazandağı|TR||94|2y2|368|6
+Kāz̧em Kolā|IR||7o|2tx|3xy|6
+Kazyomon|CI||0|ou|-h0|6|Kazoman
+Kazanka|UA|Mykolaiv|98|3p0|2j0|5
+Kozachi Laheri|UA|Kherson|98|3me|2ml|5|Kazach’i Lageri

@@ -1,0 +1,80 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tianjin|CN||7i|30q|91i|2yzo|Tiencin;Tiencsin;Thiên Tân;Tchien-ťin;Tjanĝino;Tientsin;Tiandzinas;Thiên-tsîn;Tjaņdziņa;Tyantszin;Tjandžin;Tyan'czin';T’ien-ching;T’ien-chin
+Taipei|TW||7l|1xl|9dl|1oqn|Taipeh;Tajpeo;Taibėjus;Tajpej;Taipé;Tchaj-pej;Tayipèh;Taipėjus;Đài Bắc;Taypey;T’ai-pei
+Taiyuan|CN|Shanxi|7i|2x7|8oo|14xn|Tajuanas;Tchaj-jüan;Tajuano;Thái Nguyên;Thài-goân-chhī;Tái-nguòng;Tajjüan;Taiyuenum;Taijuaņa;Tayyuan;Daiyienz;Taijuan
+Tangshan|CN||7i|324|94a|q0p|Tangŝano;Đường Sơn;Tchang-šan;Tangšanas;Tangšan;Tongshan
+Taichung|TW||7l|1v3|9b8|lzr|Đài Trung;Teyjong shehiri;Taičungas;Tajĉungo;Thòi-chûng-sṳ;Tchaj-čung;Taizhong;Taychun;Tâi-tiong-chhī
+Tainan|TW||7l|1rv|99x|ebq|Teynen shehiri;Thòi-nàm-sṳ;Tchaj-nan;Tajnan;Đài Nam;Tajnano;Taynam;Tâi-lâm-chhī;Dài-nàng;T’ai-nan
+Taizhou|CN|Jiangsu|7i|2i9|993|cef|Taitsjou;Tchaj-čou;Tajĝou;Teyju shehiri;Thái Châu;Thài-chiu-chhī;Tái-ciŭ;T’ai-chou
+Taizhou|CN|Zhejiang|7i|27m|9db|bgn|Taitsjou;Tchaj-čou;Thòi-chû-sṳ;Thai Châu;Tâi-chiu-chhī
+Chelyabinsk|RU||7z|498|4qn|9a0|Tscheljabinsk;Cheliábinsk;Čeljabinsk;Ĉeljabinsko;Tšeljabinsk;Tcheliabinsk;Čeļabinska;Tsjeljabinsk;Czelabińsk;Tjeljabinsk;Çelyabinsk;Čeliabinskas;Celiabinsc;Celeabinsk;Cseljabinszk;Čeläbinsk;Tsyelyabinsk;Txeliabinsk;Celiabinsca
+Québec|CA||59|3m1|-5ht|43r|Kwébék Shehiri;Kvebeka;Kebeko;Kvebekas;Kebek;Tchubec;Kébéc Vile;Kebeku;Kvebek;Kwébék;Kévek táva;Kebekurbo
+Tonghua|CN||7i|37w|9pt|3xo|Tŭng-huá;Tchung-chua;Thông Hóa;Thong-hoà-chhī;T’ung-hua;Tunghwa
+Katowice|PL||a5|3vm|1gu|27q|Kattowitz;Katovice;katovitses;tcadrkatovitse;Katovicum;Katovicai;Katowihi;Katovitse;Katovîts;Katowicy;Khà-thok-vì-chṳ;Catowice
+Cherkasy|UA||98|3tc|2h2|22y|Tscherkassy;Tcherkassy;Čerkasy;Czerkasy;Cserkaszi;Tsjerkasy;Tšerkassõ;Tšerkasy;Ĉerkaso;Çerkassi;Çerkası;Čerkasai;Circassium;Tjerkasy;Txerkasy;Tcherkássi;Tsjerkasi;Txerkassi;Čerkasad;Cherkassy
+Tongchuanshi|CN||7i|2pf|8f0|1q4|Dè̤ng-chiŏng;Tchung-čchuan;Đồng Xuyên;Tâng-chhoan-chhī;T’ung-ch’uan-shih
+Charleroi|BE||8t|3w1|cc|1jl|Ŝarlero;Tchålerwè;Šarlruā;Šarlerua;Carleroé;Caroloregium
+Chirchiq|UZ||7m|377|5da|198|Tchirtchik;Čirčikas;Circik;Çirçig;Tjirtjik;Chirchik;Tschirtschik
+Taitung|TW||7l|1r8|9ci|sp|Đài Đông;Táidong;Tchaj-tung;Taito;Pinamu;Taichung;T’ai-tung
+Dschang|CM||j|f4|rx|ro|Tchang;Djang;Dchang;Chang
+Chapayevsk|RU||9p|436|3u3|jh|Tsjapajevsk;Tchapaïevsk;Čapaevsk;Ĉapajevsk;Tšapajevsk;Ceapaievsk;Czapajewsk;Tjapajevsk;Čapajewsk;Tschapajewsk;Chapaevsk
+Quimper|FR||9k|3pc|-be|hq|Kemper;Montagne-sur-Odet;Tchîmpèr;Coriosopitum;Kempēra
+Tczew|PL||a5|469|1g6|gp|Dërszewò;Tčevas;Tčeva
+Chusovoy|RU||7z|4hx|4gl|dy|Tsjusovoj;Tschussowoi;Chusovói;Tchoussovoï;Čusovoj;Çusovoy;Tšusovoi;Ciusovoi;Čusovoi;Czusowoj;Tchussovoi;Tjusovoj;Tsjoesovoj;Čusowoj;Csuszovoj;Chusovaya
+Tchaourou|BJ||1b|op|78|c7
+Taibao|TW||7l|1t6|9a9|ar|Tchaj-pao;Thai-pó-sṳ;Thái Bảo;T’ai-pao
+Chuhuyiv|UA||98|3ug|2tx|a5|Chuhuiv;Čuhujiv;Tschuhujiw;Tchouhouïv;Tschugujew;Chuguyev
+Tchibanga|GA||v|-85|ui|a1
+Chernushka|RU||7z|4cz|4bs|9z|Tsjernusjka;Tchernouchka
+Châtelet|BE||8t|3w0|cl|9s|Castellarium;Tcheslet
+Tchéboa|CM||j|p3|10m|9s|Cheboa;Tscheboa
+Cherbourg|FR||9k|3tw|-4i|7f|Cherburgo-Octeville;Kiæresburh;Coriallum;Tchidbouo;Şerburq-Oktevil
+Tchamba|TG||w|p3|3y|75|Čamba
+Tcholliré|CM||j|nc|13d|6g|Chollire;Choliré;Tcholéré;Tcholiré
+Chaudfontaine|BE||8t|3wi|fn|5u|Tchôfontinne
+Tchin Tabaradèn|NE||18|186|g4|5r|Tchin-Tabaradene;Tchintabaraden;Tchintabaradene
+Cernavodă|RO||8u|3f6|25v|55|Boğazköy;Tcherna Voda
+Chudovo|RU||9i|4k8|2g0|4u|Tsjudovo;Tiutova;Tchoudovo;Čudovo;Tsjoedovo;Tšudovo;Czudowo;Tjudovo
+Tchirozérine|NE||18|1bu|lk|3m|Tchighozerine
+Tchétaly|CI||0|h6|-jn|39
+Chaumont-Gistoux|BE||8t|3ws|d4|31|Tchåmont-Djistou
+Chausy|BY||9g|45h|2e1|2p|Chavusi;Tschawussy;Tchavoussy;Tšavusy;Čavusai;Czausy;Tjavusy;Chausi;Chavusy
+Chachersk|BY||9g|430|2dw|2h|Tchatchersk;Čačersk;Tšatšersk;Csacserszk;Čačerska;Czeczersk;Tjatjersk;Chechersk
+Chornobay|UA||98|3tz|2hs|20|Tchornobaï
+Chynadiyovo|UA||98|3qp|1rf|1w|Tchynadiïovo;Szentmiklós;Tschynadijowo;Czynadijowo;Chynadiieve;Ĉinadijovo;Čynadijovo;Çınadiyovo;Ciînadiiovo
+Chutove|UA||98|3u3|2po|1p|Tchoutové
+Cucq|FR||9k|3w8|4i|1f|Tchucq
+Chechelnyk|UA||98|3py|29k|1e|Tchétchelnyk;Tsjetsjelnyk;Tschetschelnyk;Chechel'nyk;Tšetšelnyk;Csecselnik;Čečeľnyk;Çeçelnık;Txetxelnik;Tjetjelnyk;Chechelnik;Čečel'nyk;Txetxelnyk;Czeczelnik
+Chiny|BE||8t|3u6|eu|1d|Tchini
+Tchébloguhé|CI||0|il|-i1|u
+Chulakivka|UA||98|3ks|2hv|t|Tsjulakivka;Tschulakiwka;Tjulakivka;Čulakivka;Tchoulakivka;Ciulakivka;Tsjoelakivka;Chulakovka;Chulokovka
+Tchinkoula|CI||0|h0|-kt|t
+Cayeux-sur-Mer|FR||9k|3ve|45|s|Tchéyeu
+Chornukhy|UA||98|3vn|2ji|p|Tchornoukhy;Tschornuchy;Čornuchy;Çornuhı;Czornuchy;Ciornuhî
+Tchintchébé|CI||0|er|-9w|m
+Tchédjélet|CI||0|h1|-gs|l
+Tchula|US||2f|2k6|-6ym|k
+Chopovychi|UA||98|3x7|28f|i|Chapovichi;Chopovichi;Chepovichi;Tschopowytschi;Chopovich;Tchopovytchi;Čopovyči;Çopovıçi;Czopowyczi;Ciopovîci
+Tchigouéla|CI||0|pe|-ld|h
+Ch’lou|GE||7n|3b4|379|g|Chlou;Tchlou;Chilou
+Chornobyl|UA||98|3yf|2by|g|Tschernobyl;Chernobil;Txernòbil;Chernobyl;Chornóbil;Černobyl;Tjernobyl;Ĉernobilo;Tchernobyl;Csernobil;Černobyl';Tsjernobyl;Czarnobyl;Cernobîl;Tšornobõl;Tšernobyl;Černobylis;Tsjornobyl;Chernobyl’
+Quettehou|FR||9k|3tr|-3m|f|Tchettehou
+Tchimou-Assékro|CI||0|ls|-e2|f
+Cheponosy|UA||98|3qo|217|e|Tchéponossy;Ceponosa;Cheponosa
+Chunkiv|UA||98|3qz|1zq|e|Cincău;Tchounkiv
+Tchikapika|CG||a|-3i|18y|d|Tchékapika
+Quend|FR||9k|3vs|4k|c|Tchin
+Tchamatché|CI||0|eo|-gu|c
+Tchassanankaha|CI||0|qo|-el|b
+Tchimokro|CI||0|kd|-a1|b
+Chotnyy Potik|UA||98|3qw|20c|a|Pârâul Negru;Tchornyï Potik
+Chornyy Ostriv|UA||98|3tj|22c|a|Tchornyï Ostriv;Chornyi Ostriv;Tschornyj Ostriw;Tjornyj Ostriv;Chorniy Ostriv;Černý Ostrov;Çornıy Ostriv;Czarny Ostrów
+Chernyshevskoye|RU||96|47s|1r5|8|Tschernyschewskoje;Tchernychevskoïe;Tsjernysjevskoje;Eitkūnai;Czernyszewskoje;Tjernysjevskoje;Černyševskoe;Tšernõševskoje;Txernixévskoie
+Chooz|FR||9k|3v6|dd|7|Tchô
+Chausove|UA||98|3pi|2dc|7|Tchaoussové;Chausovo
+Gambell|US||49|4x6|-d91|7|Chibukak;Tchibukak;Gambel
+Querrieu|FR||9k|3uq|6r|7|Tchériu;Ouerrieu
+Chortoryya|UA||98|3qd|1z1|7|Tchortoryïa;Ciortoria
+Tczów|PL||a5|3yl|1nl|6
+Chausove Druhe|UA||98|3pi|2db|6|Tchaoussové Drouhé
+Tchiolélévogo|CI||0|qd|-g7|6

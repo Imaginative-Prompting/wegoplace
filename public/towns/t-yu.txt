@@ -1,0 +1,331 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nanning|CN||7i|1re|8cw|1a4c|Nam Ninh;Nan-ning;Naningas;Naningo;Nàm-nèn-sṳ;Namzningz;Lâm-lêng-chhī;Nàng-nìng;Naņnina;Nannin;Nanninq;Yung-ning
+Yunfu|CN||7i|1rp|8n8|k5s|Hùng-pù;Jün-fu;Vân Phù;Hûn-phû-chhī;Yün-fou
+Puebla|MX|Puebla|41|1gx|-7kt|d22|Cuetlaxcoapan;Angelopolis;Puebl;Yucha Nchu'u;Pueblo
+Yulin|CN|Guangxi|7i|1qv|8hz|85j|Ngṳ̆k-lìng;Jü-lin;Ngiu̍k-lìm-sṳ;Ngọc Lâm;Yoglinz;Gio̍k-lîm-chhī
+Yongzhou|CN||7i|21e|8m1|7vj|Lingling;Langlin;Yung-chou
+Yueyang|CN||7i|29l|8q5|7nf|Ngo̍k-yòng-sṳ;Nhạc Dương;Juejang;Jüe-jang
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Yuncheng|CN||7i|2pa|8kb|58w|Jün-čcheng;Vận Thành;Ông-siàng;Yun’chen
+Yuanping|CN||7i|2zk|8p8|424
+Yunusobod|UZ||7m|36x|5cg|2ps|Yunusabad
+Yunlong|CN|Jiangsu|7i|2n5|91p|2ny
+Yuci|CN||7i|2wo|8p5|1tj
+Yongkang|TW||7l|1ry|9a2|1sx|Yún-không-khî;Vĩnh Khang;Éng-khong-khu;Yung-k’ang
+Yunjinghong|CN||7i|1p5|7s0|1l3|Jinghong
+Yuen Long|HK||6i|1qd|8sr|1jk|Un Long;Yuanlang
+Yuen Long San Hui|HK||6i|1qb|8sr|1jk
+Yuzhno-Sakhalinsk|RU||7f|3mf|b0i|1ja|Južno-Sachalinsk;Južno-Sahhalinsk;Južno-Sahalinsk;Yuzhno-Sajalinsk;Jużnosachalińsk;Juschno-Sachalinsk;Juzjno-Sakhalinsk;Ioujno-Sakhalinsk;Joezjno-Sachalinsk;Južno Sachalinskas;Iujno-Sahalinsk;Yujno-Saxalinsk;Suvisahalinsk;Juzsno-Szahalinszk;Juĵno-Saĥalinsk;Južnosahaļinska;Juzhno-Sakhalinsk;Iujno-Sakhalinsk;Juzjno-Sachalinsk;Yujno-Sahalinsk
+Yongchuan|CN||7i|29j|865|1hm|Yung-ch’uan;Yungchwan;Yongchang
+Khān Yūnis|PS||6f|2f2|2nb|1c4|Jan Yunís;Khan Younis;Khān Yūnus;Khan Younes;Khan Yumus
+Yuen Long Kau Hui|HK||6i|1qd|8sr|1b4
+Chertanovo Yuzhnoye|RU||9i|4af|2wg|13g
+Yushu|CN|Qinghai|7i|2jo|7hh|139
+Yuepu|CN||7i|2fb|9da|12p|Yüeh-p’u
+Yushu|CN|Jilin|7i|3gj|9ri|yn
+Yuanlin|TW||7l|1uk|9ay|yn|Yüan-lin
+Yuyao|CN||7i|2bh|9cj|vq
+Yuxi|CN|Yunnan|7i|1vo|7wu|su|Ngṳ̆k-kă̤;Jü-si;Ngọc Khê;Gio̍k-khe-chhī;Yüki
+Yuma|US|Arizona|4i|2ix|-8ue|qj
+Yuzivskyi|UA||98|3pc|2x0|q6|Voroshylovskyi Rayon;Voroshylovskyi
+Yunnanyi|CN||7i|1ym|7rp|q1|Yün-nan-i
+Tartu|EE||9x|4i6|229|pe|Dorpat;Yurev;Yur'yev;Tartto;Tarbatum
+Yulinshi|CN||7i|2yd|8gu|p9|Jü-lin;Du Lâm;Ṳ̀-lìng;Jiû-lîm-chhī;Yulin
+Yuzhou|CN||7i|2mv|8r7|og
+Yozgat|TR||94|32m|2oo|of|Yozqat;Jozgatas;Yozgad;Yuzgat
+Yurga|RU||74|4as|6jt|ne|Jurga
+Yudong|CN||7i|29n|87w|mm
+Youhao|CN||7i|3ox|9xw|ls|Yu-hao
+Yuktae-dong|KP||7a|336|9w0|l8|Yuktaedong-ni
+Yurihonjō|JP||7q|31f|at2|l5|Jurihondzsó;Yurihondyo;Yurihonzyô-chhī
+Yuanshang|CN||7i|2u5|9ab|kn
+Yunyang|CN||7i|2kx|8p3|kj
+Yüksekova|TR||94|2wd|3f1|jx|Gever;Yüsekova
+Yumbo|CO||27|9y|-5wh|ju
+Yukuhashi|JP||7q|2lp|a3u|ju|Yukuhasyi;Yukuhasi-chhī;Yukihashi
+Yongfeng|CN||7i|249|8nl|jo|Yung-feng
+Yunmen|CN||7i|2bk|87c|j3
+Blagoevgrad|BG||9v|38p|1s6|iu|Blagoewgrad;Blaqoyevqrad;Blagojevgrad;Blagojevgradas;Yukarı Cuma;Błagojewgrad
+Yuba City|US||3p|30q|-9du|il|Yuba Lakanbalen;Thành phố Yuba;Kota Yuba
+Yunmeng Chengguanzhen|CN||7i|2ea|8s1|hw
+Yucheng|CN||7i|2p1|8zj|hc
+Yongning|CN|Guangxi|7i|1r8|8dc|h5|Yung-ning
+Yuxia|CN||7i|2mm|8dr|gq
+Yutan|CN||7i|26i|8oo|fd
+Yunjin|CN||7i|28s|85g|f4
+Yucaipa|US||3p|2mj|-914|et|Tééh Haltsoii
+Yunshan|CN|Shandong|7i|2ua|99z|ei
+Jūrmala|LV||9n|4e9|1u1|eg|Riga-Strand;Rigastrand;Yurmala
+Yūki|JP||7q|2su|ask|e2
+Yuexi|CN||7i|2dv|8cg|da
+Yumbe|UG||q|9n|2et|d8
+Yuqunweng|CN||7t|3dv|6aq|d0
+Yuzawa|JP|Akita|7q|30t|aua|cb
+Yurimaguas|PE||3o|-ge|-5vg|bm|Yurimahuas
+Yuntai|CN|Chongqing|7i|2bq|89s|b7
+Yuzhnoural’sk|RU||7z|479|4q6|aw|Juzjnouralsk
+Pivdennoukrainsk|UA||98|3ov|2em|aq|Youjno'oukraïnsk;Yuzhnoukrainsk;Juschnoukrajinsk;Južnoukrajinsk;Pivdenoukrajinsk;Piwdennoukrajinsk;Pivdennoukraiinsk
+Yuanyang|CN|Chongqing|7i|2af|880|aa
+Yufu|JP||7q|2k8|a4y|94
+Pivdenne|UA|Odesa|98|3li|2ee|93|Youjné;Yuzhne;Južne;Juschne;Piwdenne;Pivdene
+Yubileyny|RU||9i|4bd|2x3|91|Jubileiny;Ioubileïny;Jubilejnyj;Yubileynıy;Iubileini;Jubilejnij;Jubileinyi;Jubilejnyj i Moskva oblast
+Yurigaoka|JP|Fukuoka|7q|2m1|a2v|8m
+Yushan|CN|Chongqing|7i|2a1|8d7|8m
+Yugorsk|RU||7z|4qb|4vx|8l
+Yujia|CN||7i|2dl|8bv|8h
+Yunlong|CN|Chongqing|7i|2cs|8b0|89
+Yunji|CN||7i|2b4|8a6|7o
+Yuanyang|CN|Gansu|7i|2on|832|7c
+Yukon|US|Oklahoma|2f|2qn|-7jk|77
+Yushkovo|RU||9i|4ac|2up|71
+Yuriria|MX||41|1k5|-7sx|70
+Yūsuf aṣ-Ṣiddīq|EG||c|29n|2cw|6o
+Yufengshan|CN||7i|2ak|88g|6n
+Yurécuaro|MX||41|1ki|-7w4|6m
+Yugawara|JP||7q|2pn|aqb|6i
+Yuli|CN||7t|36u|6nm|69|Lopnur
+Yucca Valley|US||3p|2mr|-8zf|60
+Yongning|CN|Yunnan|7i|25b|7rn|5t|Yung-ning
+Yur’yev-Pol’skiy|RU||9i|4cy|328|5j|Jurjev-Polskij;Yurev Polski
+Yonabaru|JP||7q|20s|9uv|5h|Yunabaru;Yonahara
+Yuzhnyy|RU|Altai Krai|63|43x|6gh|5f|Juzjnyj
+Balta|UA||98|3p6|2aa|55|Józefgród;Paliyeve;Palieve;Paliieve;Palieve Ozero;Paliyeve Ozero;Paliieve Ozero;Yuzefgrod;Yuzefhrad;Barta
+Yumurtalık|TR||94|2u5|2rf|4x|Ayas;Aegæ;Alexandropolis;Makrinopolis;Hadriana;Laiazzo;Lajazzo;Ajazzo;Ağkale;Aegoe
+Katerynivka|UA|Luhansk|98|3qw|30u|4p|Yuvileyne;Yuvileine
+Yujing|TW||7l|1s8|9am|4m
+Yuxi|CN|Chongqing|7i|2c8|85u|4l
+Yunshan|CN|Gansu|7i|2ok|85v|4i
+Yulong|CN|Chongqing|7i|2a3|85x|4h
+Yumare|VE||2c|tg|-5ar|4d
+Yutz|FR||9k|3t4|h7|4d|Jeutz
+Yùmén|CN||7i|33x|7hl|4c
+Yulong|CN|Gansu|7i|2l3|846|4a
+Yu Chui|HK||6i|1q6|8t9|45
+Yuzha|RU||9i|4d6|38p|43|Juzja
+Yura|JP||7q|2qk|abj|3y
+Yupan|CN||7i|2p0|83g|3y
+Yunak|TR||94|2zt|2g5|3x
+Yuza|JP||7q|30e|asp|3s|Yusa
+Slobozhanske|UA|Dnipropetrovsk|98|3qt|2pf|3s|Slobojanské;Yuvileyne
+Bunhe|UA||98|3py|2yc|3r|Yunokomunarivsk;Yunokommunarovsk
+Yuryuzan’|RU||7z|48e|4ia|3q|Jurjuzan
+Yundum|GM||7|113|-1ab|3o
+Yuet Wu|HK||6i|1q6|8sl|3h
+Yuelai|CN|Chongqing|7i|2bx|8cr|3f|Yüeh-lai
+Yuasa|JP||7q|2mk|afi|3c
+Yunguyo|PE||3o|-195|-5bw|3b
+Yulee|US||48|2d3|-6ap|37
+Yüzüncü Yıl|TR||94|32a|3bk|37
+Yur’yevets|RU||9i|4f7|3bq|37|Jurjevets;Yurevets
+Yungay|CL||4u|-2v4|-5k2|34
+Yumbel|CL||4u|-2v2|-5lk|33
+Yuntai|CN|Gansu|7i|2kx|85j|32
+Yuzhno-Sukhokumsk|RU||9i|3g2|3it|2z|Juzjno-Sukhokumsk;Juschno-Suchokumsk;Ioujno-Soukhokoumsk;Južno-Suchokumsk;Juĵno-Suĥokumsk;Južno-Suhhokumsk;Južno-Suhokumsk;Suvisuhokumsk;Juzjno-Suchokumsk
+Yuelai|CN|Chongqing|7i|2al|87y|2z
+Yuchi|CN||7i|2c3|8cm|2y
+Dashkasan|AZ||61|34k|3k0|2y|Yukarı-Daşkesen;Yuqori-Dashkesan;Yukhary-Dashkesan;Dashkezan;Dashkesan
+Jurbarkas|LT||a3|490|1r8|2u|Jurbork;Jurbarka;Yurbarkas;Jurbarko
+Yuye shequ|CN||7i|1qp|8sb|2t
+Yunoo|JP||7q|2rf|aic|2s|Yuno
+Yurigaoka|JP|Kanagawa|7q|2qw|ark|2q
+Yuanmen|CN||7i|2oo|865|2q
+Yushima|JP||7q|2r7|as9|2q
+Yuehai Residential|CN||7i|1qj|8sh|2p
+Yuanjue|CN||7i|2a4|84k|2o
+Yuli|NG||u|qy|sj|2n
+Yuehai|CN||7i|1qn|8sj|2f
+Yutsa|RU||9i|3e4|3bh|2f|Jutsa
+Yuhuang|CN||7i|2kh|84a|2d
+Yongning|CN|Fujian|7i|1wk|95p|2d|Yung-ning
+Yūzaki|JP||7q|2o3|ah6|2a
+Yue Wan Estate|HK||6i|1pv|8tc|28
+Yukhnov|RU||9i|482|2pv|27|Jukhnov
+Yuzawa|JP|Niigata|7q|2um|apl|27|Yusawa
+Yurgamysh|RU||7z|49t|4z2|27|Jurgamysj
+Yugo-Kamskiy|RU||7z|4ga|4af|26|Jugo-Kamskij
+Yuzhno-Kurilsk|RU||7f|3eb|b96|26|Juzjno-Kurilsk;Juschno-Kurilsk;Joezjno-Koerilsk;Iujno-Kurilsk;Južno-Kurilsk;Ioujno-Kourilsk;Yujno-Kurilsk;Juzhno-Kurilsk;Jujno-Kurilsk;Yuzhno-Kurl’sk
+Yuto|AR||1o|-1to|-4z3|25
+Yuvacık|TR||94|351|2b9|21
+Yūbari|JP||7q|3bk|ayc|21|Jubari
+Yuzaixue|CN||7i|1qi|8sb|1y
+Yusufeli|TR||94|35e|37e|1w
+Pivdennyi Hirnycho-Zbahachuvalnyi Kombinat|UA||98|3ow|2km|1w|Pivdennyy Hirnycho-Zbahachuval’nyy Kombinat;Yugok;Novyi Kryvyi Rih
+Yudi|CN||7i|28k|8ek|1r
+Derýneia|CY||6e|2pe|2mc|1q|Yukarı Derinya;Derinia;Derynia
+Yushu|CN|Gansu|7i|2mc|86h|1o
+Yougu|PK||6q|2pq|5vk|1o|Yugu
+Yung Shue Wan|HK||6i|1pr|8sz|1o|Yung Shu Wan
+Yurty|RU||6k|4bp|7j7|1n|Jurty
+Yuni|PH||71|119|9g8|1l
+Yura|PE||3o|-195|-5j4|1l
+Yuguan|CN||7i|2lg|86x|1k
+Yuncos|ES||9d|33d|-ar|1k
+Yuni|JP||7q|3bh|axu|1i
+Yumaguzino|RU||7z|42y|4cn|1i|Jumaguzino
+Yulin|CN|Chongqing|7i|2g0|8g5|1h
+Yūsefābād|IR||7o|2qu|3xt|1h
+Yungay|PE||3o|-pe|-5zy|1h
+Yunusemre|TR||94|310|3b4|1g
+Yue On Court|HK||6i|1ps|8t4|1g
+Yuquanying|CN||7i|2xy|86f|1e
+Yu'hu Bay|CN||7i|1qp|8s9|1e
+Yumbing|PH||71|po|9ma|1d
+Yūsefābād-e Qavām|IR||7o|2r4|3xe|1d
+Akıncılar|TR|Sivas|94|33b|2yi|1c|Ezbider;Yukarı Ezbider
+Yuty|PY||1y|-21x|-4c9|1c
+Ostrovnoy|RU||9i|591|31r|1b|Iokanga;Ostrovnoj;Ostrovnoi;Ostrownoj;Osztrovnoj;Ostrovnojus;Yukansk;Yukanski;Iokanka;Yokan’ga
+Yuezhao|CN||7i|2k2|844|1b
+Yurginskoye|RU||7z|4du|577|1a|Jurginskoje;Korginskoye
+Yuhe|CN||7i|2jo|851|19
+Yuzhnyy|RU|Krasnodar Krai|9i|3h0|34f|19
+Yūtenji|JP||7q|2r0|as1|19
+Yulei|CN||7i|2j8|83p|18
+Yukamenskoye|RU||9p|4gt|415|17|Jukamenskoje
+Verkhniy Uslon|RU||9i|4ax|3s2|17|Verkhnij Uslon;Yugarı Oslan
+Yurino|RU||9i|4cd|3km|16|Jurino
+Yushala|RU||7z|4ek|4yi|16|Jusjala
+Juuka|FI||92|4vn|299|15|Juga;Yugo;Yuga
+Yolmeh Sālīān|IR||7o|2va|481|15|Yolmeh Sālīyān;Yulmeh Sālīān
+Yurla|RU||7z|4ks|46w|15|Jurla;Yurlya
+Yunomae|JP||7q|2ho|a3u|14
+Yuyecun|CN||7i|1qp|8sb|12
+Páno Polemídia|CY||73|2of|2jn|12|Yukarı Polemitya;Pano Polemidya;Yukarı Binatlı;Pano Polemidhia
+High Rock|BS||47|21z|-61g|11|Yuqori Tosh;Batu Tinggi;Roca Alta;Rocher Haut;Batu Dhuwur;Rocha Alta
+Jüri|EE||9x|4kw|1x6|11|Yuri
+Yuma|US|Colorado|2p|33g|-7xd|10
+Yurovka|RU||9i|3hb|2vy|z|Jurovka;Yur’yevka
+Yuzhna Lomuvatka|UA||98|3qk|2z1|y
+Yuxarı Salahlı|AZ||61|36k|3hr|y
+Yuzhnyy|RU|Krasnodar Krai|9i|3g8|32s|x
+Yusuhara|JP||7q|2kq|a98|x|Yuzuhara
+Yunquera|ES||9d|2u1|-do|x
+Yunwu|CN||7i|2d0|8f5|x
+Yukarı|TR||94|338|3da|w
+Yuzhnyy|RU|Kaliningrad Oblast|96|47j|1l8|v|Juzjnyj
+Yupiltepeque|GT||32|13g|-6xf|u|Tupiltepeque
+Yue Fai Court|HK||6i|1pt|8t4|u
+Yubilyeyny|BY||9g|45i|24g|u|Yubileynyy
+Yuganets|RU||9i|4c9|3c3|u|Juganets
+Yurivka|UA|Luhansk|98|3qq|30a|t|Yur’yevka
+Yurkivka|UA||98|3s5|2ed|t|Yurkovka
+Yue Kwong Chuen|HK||6i|1pt|8t4|r
+Yushan|CN|Fujian|7i|22r|95d|q
+Yumani|BO||3n|-18k|-5c3|p
+Yuncler|ES||9d|338|-au|p
+Yunquera de Henares|ES||9d|357|-8s|o|Yunquería de Henares
+Yug|RU||7z|4gd|4c1|o|Jug;Iug
+Yubo|PH||71|sv|9hv|o
+Yuscarán|HN||56|12q|-6p9|o
+Yuhexin|CN||7i|1qp|8sc|n
+Yuzhnyy-Kospashskiy|RU||7z|4jt|4gg|n|Juzjnyj Kospasjskij
+Yulara|AU||8e|-1y4|a3v|m
+Yunus Emre Mahallesi|TR||94|32s|3e7|m
+Yuryivka|UA|Dnipropetrovsk|98|3re|2s2|m|Yourïvka
+Jumprava|LV||9n|4dg|1xd|m|Yumprava
+Yudomari|JP||7q|2bz|a2g|k|Yutomari
+Yuyama|JP||7q|2ht|a41|k
+Yücekapı|TR||94|32f|3aq|k|Hanzır
+Juodupė|LT||a3|4bt|1z5|k|Jodupe;Pojedupie;Joudopė;Yuodupe
+Yüzbaşılar|TR||94|334|3ed|j|Alut;Alıt
+Yukhari Dashkasan|AZ||61|34h|3jz|j
+Yurkivtsi|UA||98|3qq|201|i|Iurcăuți;Yourkivtsi
+Yuala|CI||0|l1|-i4|i
+Yunakivka|UA||98|3y0|2pc|h|Yunakovka
+Yusufpaşa|TR||94|34t|3bp|h
+Yustis|MX||41|1l6|-7s6|h
+Yūzbāsh Kandī|IR||7o|2v2|3k3|h
+Yunusoğlu|TR|Adana|94|2ua|2q0|h
+Yubileynyy|RU||7z|4ja|4gi|h|Jubilejnyj
+Yosypivka|UA|Kirovohrad|98|3qc|2bx|g|Iosipovka;Yuzefivka;Yuzefovka
+Yukarıgöçmez|TR||94|316|3b7|g|Yukarı Göçmez
+Yuxarı Aran|AZ||61|32d|3oe|g
+Yuvileyne|UA||98|3l5|2ka|g|Yuvileine
+Yüreğil|TR||94|30e|2e7|f
+Yuvaca|TR||94|2wl|23p|f
+Yūsef Reẕā|IR||7o|2q8|3zl|f
+Yūnakī|IR||7o|2eu|3yb|e|Yūnekī
+Yuguzhuang|CN||7i|324|920|e
+Yungaburra|AU||8c|-1bz|b8e|e
+Yuva|TR|Aksaray|94|2y8|2mv|d
+Yukarıçamurlu|TR||94|32z|3fc|d|Yukarı Çamurlu
+Yolmeh Khandān|IR||7o|2uu|47e|d|Yūlmeh Khandān
+Yushkozero|RU||9i|4zv|2h7|d|Jusjkozero;Jyskyjärvi
+Ýuwangala|TM||5x|2yt|4cy|d|Gerkez;Yuvan-Kala
+Yukarı Taşyalak|TR||94|2uo|33h|d
+Yutan|US||2f|36l|-7fs|c
+Yuzvyn|UA||98|3so|26e|c|Nekrasove;Yuzvin;Nekrasovo
+Yuvallim|IL||6n|2jc|2pz|c
+Işıklar|TR|Şanlıurfa|94|2ur|33h|c|Yusufharabası
+Yutanduchi de Guerrero|MX||41|1bc|-7ia|b|Yutanduchi;Yutandachi
+Yuzhynets|UA||98|3qu|1za|b|Youjynets;Iujineț
+Youyupu|CN||7i|24j|8f6|b|Yu-yü-p’u
+Yukarıkaşıkara|TR||94|2yj|2dr|b|Yukarıkarşikara
+Yukarı Küpkıran|TR||94|32b|3c6|b|Yukarıküpkıran
+Yukarı Kümbet|TR||94|33i|3bt|a
+Yurtsovo|RU||9i|49o|30w|a
+Yurovo|RU||9i|4a6|2yl|a|Jurovo
+Yutanino|MX||41|1an|-7iq|a|Yatanino
+Yukhnovka|BY||9g|45y|25e|a
+Yurivka|UA|Zhytomyr Oblast|98|3uq|256|9|Yurovka
+Yukarı Karataş|TR||94|2uk|33a|9
+Yucuñuti de Benito Juárez|MX||41|1d0|-7jx|9
+Yukarıdamla|TR||94|30x|3bm|9|Yukarı Damla
+Yumbatos|PE||3o|-hk|-5vy|9
+Yuryivka|UA|Mykolaiv|98|3mn|2j8|8|Yourïvka
+Yukarıtopraklı|TR||94|32v|3ff|8|Yukarı Topraklı
+Yurtbeyi|TR||94|32f|2jb|8|Yurtbey
+Yuzhno-Yeniseyskiy|RU||6u|4ja|7av|8|Juzjno-Jenisejskij
+Yukarı Süphan|TR||94|2zu|3b2|8|Yukarı Subhan;Yukarısüphan
+Yutandayoo|MX||41|19q|-7kg|8
+Yumaklar|TR||94|2v7|2e3|8
+Yūkhān|IR||7o|2df|3qj|8
+Yukarınarlı|TR||94|36e|2pz|8
+Yukarı Beğdeş|TR||94|2ud|302|8|Yukary-Tel’fidan;Yukarı Telfidan
+Yukarıtandır|TR||94|305|2ck|7|Yukarıdandırı;Yukarıdandır
+Iskivtsi|UA|Poltava|98|3vm|2k9|7|Iskovtsy;Yuskovtsy
+Yuyapichis|PE||3o|-qr|-5s9|7
+Yukarı Karafakılı|TR||94|2u8|2ta|7|Yukarı Kurufakılı;Yukarıkarafakılı
+Yurove|UA||98|3yo|25b|7|Yurovo
+Juodkrantė|LT||a3|4aa|1mo|7|Yuodkrante
+Yukarı Çarıkçı|TR||94|330|3e2|7|Yukarıçarıkçı
+Yukarı Dere|TR||94|33g|3bq|7
+Yuva|TR|Bolu|94|359|2gb|7
+Yuendumu|AU||8e|-1pu|a63|7
+Yumrukaya|TR||94|354|2fi|7
+Yukarı Dalören|TR||94|31i|3d5|7|Yukarıdalören
+Yukki|RU||9i|4mz|2c5|7|Jukki
+Yupán|PE||3o|-nx|-60l|7
+Yumrucuk|TR||94|2v4|342|7
+Stiyke|UA||98|3mr|2k9|7|Yudindorf;Stiike;Judendorf
+Yukarıazıklı|TR||94|2vj|350|7|Yukarı Azıklı
+Yukon|US|Pennsylvania|48|33p|-65c|7
+Yuliyivka|UA||98|3oi|2qg|7|Yul’yivka;Yul’yevka;Yulivka;Yuliivka
+Yukarı Balcılar|TR||94|2xc|3ac|7|Yukarıbalcılar
+Yurkino|RU||9i|4dl|2wg|7
+Arpatepe|TR||94|2v6|35c|7|Yukary-Tel’shair;Yukarı Telşair
+San Mateo Yucutindoo|MX||41|1ai|-7is|7|Yucutindoo;Yucutindo
+Yuval|IL||6n|2kd|2qw|6|Juval
+Yunuslar|TR||94|30o|29w|6
+Yutecoso Cuauhtémoc|MX||41|1b0|-7je|6
+Yukarıdüzmeydan|TR||94|31u|3cd|6|Yukarı Düzmeydan
+Beğerli|TR||94|2ww|26v|6|Yukarıbeyerli;Beyerli
+Yunda|RU||9p|4gs|42y|6|Junda
+Yutniotic|MX||41|1aq|-75d|6
+Yungar|PE||3o|-q2|-5zj|6
+Yuvinani|MX||41|1bt|-7lb|6
+Yukarı Aydınlı|TR||94|2v8|35m|6|Yukarıaydınlı
+Yuracmayo|PE||3o|-vv|-5tt|6
+Yuquín|MX||41|1bi|-75m|6
+Yüksekköy|TR||94|2vk|38i|6
+Yucatán|MX||41|1hq|-7fo|5
+Yukarı Harım|TR||94|2xc|353|5|Yukarıharım
+Yukarı Çaykuyu|TR||94|2ur|2zn|5|Yukary-Chaykuyu
+Yukarıyenigün|TR||94|31p|3bl|5|Yukarı Yenigün
+Yukarıbatak|TR||94|379|2ma|5
+San Juan Yucuita|MX||41|1cn|-7i7|5|Yucuita
+Seldiren|TR||94|2sn|2rz|5|Yukarı Çakıllıkoz
+Yukarıdere|TR||94|377|2h3|5
+Yunusoğlu|TR|Mersin|94|2un|2p6|5
+Yukarıgözlüce|TR||94|31q|3bj|5|Yukarı Gözlüce
+Yukarıkülecik|TR||94|31d|3b4|5|Yukarı Külecik
+Yumurtatepe|TR||94|2z4|39h|5

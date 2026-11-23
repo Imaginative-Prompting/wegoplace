@@ -1,0 +1,65 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pforzheim|DE||8r|3rs|o6|x5|Phorca;Pforcheimas;Porta Hercyneae
+Pflugerville|US||2f|2ck|-7j6|fv
+Pfungstadt|DE||8r|3ud|nw|72
+Pfaffenhofen an der Ilm|DE||8r|3qt|vz|6g|Pfahofa
+Pfullingen|DE||8r|3qm|pn|53
+Pfullendorf|DE||8r|3p5|pq|3p
+Pfäffikon|CH|Zurich|a7|3nk|of|3b|Pfaeffikon;Faffinchova
+Pfarrkirchen|DE||8r|3qj|zy|3b
+Pfutsero|IN||6t|1z1|79y|2w
+Pfedelbach|DE||8r|3sm|qf|2h
+Pfastatt|FR||9k|3op|ka|2c
+Pfronten|DE||8r|3o6|tb|27
+Pfäffikon|CH|Schwyz|a7|3n4|oe|21|Pfaeffikon
+Pfaffenhofen an der Roth|DE||8r|3qb|s8|20
+Farébersviller|FR||9k|3sg|j3|1z|Pfarrebersweiler
+Pfalzgrafenweiler|DE||8r|3qt|nt|1y
+Pfäffikon / Pfäffikon (Dorfkern)|CH||a7|3nl|oe|1k
+Pfreimd|DE||8r|3th|xu|1k
+Pfalzdorf|DE||8r|3zn|h4|1f
+Pfeffenhausen|DE||8r|3r6|x9|1c|Pfaffenhausen
+Phalsbourg|FR||9k|3rh|k6|1b|Pfalzburg
+Pfaffing|DE||8r|3ph|xn|12
+Pfaffstätten|AT||a2|3pe|196|z
+Pfaffenwald|DE||8r|3rf|pa|y
+Pfaffroda|DE||8r|3xa|yr|w
+Pfatter|DE||8r|3s0|ye|v
+Pfaffenhoffen|FR||9k|3ro|l5|q|Pfaffoffe;Pfaffenhofen
+Pfunds|AT||a2|3mh|tb|q|Fuond
+Pfaffenweiler|DE||8r|3p5|lj|p
+Pfaffenhausen|DE||8r|3po|t2|o
+Pfungen|CH||a7|3nz|o0|o
+Pfaffenhofen|DE|Baden-Wurttemberg|8r|3sa|oy|n
+Pfeffingen|CH||a7|3nu|l3|m
+Pforzen|DE||8r|3p5|th|l
+Pfaffnau|CH||a7|3n7|ly|k
+Pfäffikon / Irgenhausen|CH||a7|3nk|of|k
+Pfyn|CH||a7|3o8|ov|i|Fines Helvetiorum
+Falzes|IT||9o|3m1|x0|i|Pfalzen;Phalanza
+Pfaffenhofen|DE|Bavaria|8r|3qf|v5|h
+Pfaffhausen|CH||a7|3nk|ny|h|Pfaffhusen
+Mariapfarr|AT||a2|3mz|127|g|Pforch
+Pfarrweisach|DE||8r|3vb|tt|g
+Pfronstetten|DE||8r|3q4|q0|g
+Pfakofen|DE||8r|3rq|xz|f
+Pfofeld|DE||8r|3sf|u4|e
+Pfaffenthal|LU||9c|3tu|h1|d|Pafendall
+Pfaffen-Schwabenheim|DE||8r|3uh|m3|d
+Pfaffenheim|FR||9k|3pb|k9|c
+Pfulgriesheim|FR||9k|3r4|lb|c
+Pfaffenhofen|AT||a2|3ne|us|b
+Ferrette|FR||9k|3nx|kb|a|Pfirt
+Pfetterhouse|FR||9k|3ny|jx|a|Pfetterhausen
+Pfeffelbach|DE||8r|3tm|kd|a
+Prati|IT|Trentino-Alto Adige|9o|3ma|vv|a|Pfitsch
+Pflach|AT||a2|3o0|ts|9
+Pfaffstätt|AT||a2|3pk|10i|9
+Pfettisheim|FR||9k|3r6|l9|8
+Pfarrkirchen bei Bad Hall|AT||a2|3pf|13g|8
+Pfiffelbach|DE||8r|3xu|vs|7
+Pfeffikon|CH||a7|3n9|mq|7
+Pfons|AT||a2|3my|vu|6
+Pfalzfeld|DE||8r|3v7|l2|6
+Pfalzau|AT||a2|3ps|18m|5
+Pfaffendorf|AT||a2|3n2|14x|5

@@ -1,0 +1,345 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tripoli|LY||1d|2jd|10n|a1x|Trablus;Tripolo;Tripul;Trìpuli;Tarabulus;Tripole;Tripilí;Triboli;Tripoly;Trípol;Trypolis;Ṭrables;Taràbles
+Ţarţūs|SY||69|2ox|2rp|3jb|Tartous;Tortosa;Tartouss
+Tarlac City|PH||71|170|9b0|33n|Tarlac
+Taraz|KZ||5s|3b6|5i9|2ri|Taras;Talas
+Tarsus|TR||94|2uk|2ox|2pf|Tarso;Tars;Tarse;Tersus;Tarsas;Tarsos;Tarsous
+Corrientes|AR||1n|-24b|-4jf|2o7|Korjentesas;Taragui
+Adapazarı|TR||94|35a|2cg|27o|Sakarya;Tarsia;Ada Bazar
+Tarakan|ID||70|97|92n|1yx
+Ternopil|UA||98|3tn|1z3|1qk|Tarnopol;Tarnopoli;Tarnopolis
+Târgu Mureş|RO||8u|3la|1w8|1n4|Neumarkt am Mieresch;Tîrgu Mureș;Marosvásárhely;Novum Forum Siculorum;Neumarkt;Vásárhely;Nai Muark;Maros-Vásárhely;Târgul-Mureş;Turgul Mures;Tyrgu-Muresh
+Taranto|IT||9o|34e|1bx|1j6|Tarent;Tarento;Tarente;Tarentum;Tarde
+Tarija|BO||3n|-1nu|-4zt|189|Taricha;Tarixa
+Tarragona|ES||9d|368|3h|13b|Tarraco;Taragono;Tarragone;Tarrago
+Táriba|VE||2c|lq|-5km|12g
+Tarime|TZ||h|-3r|2nh|10y
+Targówek|PL||a5|419|1mh|yj
+Tarnów|PL|Lesser Poland|a5|3ux|1mb|wq|Tarnova;Tarnůw;Tarnuvas;Tarnov
+Tartu|EE||9x|4i6|229|pe|Dorpat;Yurev;Yur'yev;Tartto;Tarbatum
+Taroudant|MA||d|2cn|-oo|ob|Taroudannt;Tarudantas;Tarudante;Tarudant
+Treviso|IT||9o|3iv|y0|nu|Trévise;Tarvisium;Trevixo
+Tārūt|SA||7e|21t|3v0|nq
+Tarub|ID||6l|-j9|8f9|l1
+Târgu Jiu|RO||8u|3h5|1so|kf|Zsilvásárhely;Tirgu Žiu;Târgul-Jiu;Tîrgu Jiu
+Târgovişte|RO||8u|3gt|1yq|im|Tîrgoviște;Tergovistýe;Trhovište;Tirgovics;Targovisjte;Targowica;Targovichté;Trgovišće;Targòvixte;Trgovište;Tergowisch;Targovishte
+Tarn Taran|IN||6t|2fd|5s5|ik
+Tarnowskie Góry|PL||a5|3w5|1ge|gx|Tarnowitz;Tarnovske Gurai;Tarnowske Gůry;Tarnovske Guri
+Tartagal|AR||1s|-1qk|-4x9|gw
+Olbia|IT||9o|35o|qe|gr|Terranòa;Tarranóa
+Tarneit|AU||8j|-2x4|b5u|fo
+Tarhuna|LY||1d|2i4|11v|ek
+Tarbes|FR||9k|3c3|7|eh|Tarba;Tarbe;Tarbas
+Tarma|PE||3o|-vq|-5u9|ea
+Ţarīf Kalbā|AE||6c|1xn|4ch|e6
+Tarnobrzeg|PL||a5|3wh|1o8|e1|Tarnobžega;Tarnobjeg;Nova Tarnovia;Tarnobžegas;Tarnobrzyg
+Tarkwa|GH||1|eq|-5j|dv|Takwa
+Tarauacá|BR||4s|-mo|-5gl|c0
+Tarawa|KI||bh|3p|dci|b7
+Tarutung|ID||6l|5l|7mx|az
+Tarikere|IN||6t|123|5ul|ai
+Tahuna|ID||70|a1|9ol|9t|Taruna;Tahana
+Targovishte|BG||9v|3c5|21t|9o|Targowischte;Tărgovište;Targovichté;Targovisjte;Targòvixte;Trgovište;Tergovištė;Tërgovishçe;Eski Cuma;Tyrgowiszte;Tŭrgovište;Trgovishte;Eski Džuma;Tŭrgovishte
+Tārānagar|IN|Rajasthan|6t|27n|5sf|92
+Tarakeswar|IN||6t|1rl|6sh|8h
+Tāramangalam|IN||6t|wh|60l|8e|Tharamangalam
+Tarsadi|IN||6t|1nn|5mn|85
+Târnăveni|RO||8u|3kp|1vi|7y|Dicsőszentmárton;Tîrnăveni
+Tarui|JP||7q|2q9|aj9|7m
+Tara|RU||76|4e2|5ql|7i
+Tarāna|IN||6t|1st|5v8|6x
+Tarpon Springs|US||48|267|-6dw|6u
+Tarch’a Sodo|ET||2|jv|2v9|6r
+Tak|TH||62|1av|7nd|6p|Tark
+Tharangambadi|IN||6t|un|65t|6g|Tarangambadi;Tranguebar;Tranquebar;Trankebar
+maalot Tarshīhā|IL||6n|2jq|2pz|6e|Tarchiha;Tarshihah;Ma'alot-Tarshiha
+Târgu Neamţ|RO||8u|3n4|219|5p|Nemetvásár;Târgu-Neamţ;Târgul Neamţ;Tîrgu Neamţ
+Tartar|AZ||61|342|3md|5o|Terter
+Târgu Secuiesc|RO||8u|3js|20l|5l|Tîrgul Săcuesc;Tîrgu Secuiesc;Kézdivásárhely;Tîrgu Secuesc;Kèzoi-Vasarmely;Târgu-Săcuesc;Târgul Săcuesc
+Tarumizu|JP||7q|2fg|a32|5b|Tarumi
+Tarko-Sale|RU||7z|50c|601|56|Tarko Salė;Tarka-Sale;Tarsale
+Tarifa|ES||9d|2s1|-fl|52
+Tarakea|TZ||h|-8c|2wc|50
+Tarabya|TR||94|369|28p|4z
+Tartarugalzinho|BR||23|47|-3xf|4y
+Taradale|CA||2s|3y0|-8si|4w
+Tàrrega|ES||9d|37p|36|4l
+Taree|AU||8l|-2gn|brh|4k|Taris;Tari
+Tarqui|CO||27|5v|-5um|4h|Tanqui
+Tarancón|ES||9d|335|-8d|4d
+Taranagar|IN|Tripura|6t|1ul|71t|4b
+Tarumã|BR||4w|-1r7|-3wi|45|Turumã
+Tarascon|FR||9k|3dp|cy|43|Tarascuni;Tarascó
+Tarumirim|BR||4w|-1hk|-38p|43
+Targuist|MA||d|2p2|-c0|42
+Tarqūmyā|PS||6g|2fq|2p9|3y|Tarqūmiya;Tarqūmye;Turqumiya;Tarqūmiyah;Tarqumia
+Târgu Frumos|RO||8u|3n4|230|3u|Târgul Frumos;Târgu-Frumos;Tîrgu Frumos
+Taraclia|MD||8x|3ji|27n|3r|Tarakliya;Taraqliya;Taraqlı
+Tarrafal|CV||84|16g|-1tz|3r|Cidade de Mangui
+Taromske|UA||98|3qk|2on|3p|Taroms'ke;Taromskoye
+Târgu Ocna|RO||8u|3kk|21x|3n|Aknavásár;Târgul-Ocna;Tîrgu Ocna
+Tarashcha|UA||98|3to|2cq|3m|Taraszcza
+Taradale|NZ||ak|-31t|dn9|3l
+Tarimoro|MX|Guanajuato|41|1kd|-7rw|3e
+Tarquinia|IT||9o|39d|wo|3b|Tarkvinija;Tarkviniya;Tarchuna;Tarchonion;Corneto;Cornetum
+Tarrytown|US||48|364|-5p6|38|Tarry Town
+Tarnos|FR||9k|3cy|-42|38
+Tarazona|ES||9d|38e|-4t|34|Tarassona;Turiasso;Taraçona
+Tarboro|US||48|2rq|-5ze|34|Tawboro
+Tarragindi|AU||8c|-24h|bt5|32
+Tarare|FR||9k|3ji|cb|30
+Tarki|RU||9i|3ba|3ny|2y
+Carterton|NZ||ak|-35y|djl|2v|Taratahi
+Tarusa|RU||9i|480|2v9|2u|Taroussa;Tarussa
+Tarinkot|AF||6o|2in|530|2s|Tarīn Kowt;Tirinkot;Tareen
+Tårnby|DK||8y|4aj|z0|2s|Taarnby
+Tarlapalli|IN||6t|1gb|64t|2p
+Terralba|IT||9o|32c|o0|2o|Tarraba
+Tara|JP||7q|2jq|a1m|2j
+Tarnogaj|PL||a5|3xw|1be|2j
+Taragi|JP||7q|2hn|a3p|2j|Taraki
+Tarasovskiy|RU||9i|3rd|344|2h|Tarasovskij
+Tarecuato|MX||41|1j4|-7wn|2h
+Tavua|FJ||ar|-1cg|dq2|2g|Tarua
+Tarapur Pt VI|IN||6t|1x1|75p|2g
+Târgu Cărbuneşti|RO||8u|3gv|1tc|2e|Târgul-Cărbuneşti;Tîrgu Cărbuneşti
+Tarxien|MT||9e|2rn|14c|2e|Tarscen;Taršinas;Tirix
+Tarleton|GB||9b|454|-7v|2e
+Târgşoru Vechi|RO||8u|3gn|200|2d|Târgşorul-Vechi;Târgşorul-Vechiu;Tîrgşoru Vechi
+Tarabha|IN||6t|1ll|6gf|2b|Tarbha
+Tari|PG||bd|-g8|b13|2a|Tauri
+Tarāghin|LY||1d|200|142|2a|Traghan;Traghen
+Taringa|AU||8c|-24d|bsy|29
+Tarata|BO||3n|-1cx|-53e|28|T'arata
+Tárnok|HU||8v|3nl|1gd|28
+Tarīchar Kalān|IN||6t|1yl|635|25
+Teresva|UA||98|3pc|1tu|23|Taracköz;Tereswa
+Tarrafas|BR||2w|-ik|-32g|23
+Tārāpur|IN|Maharashtra|6t|1j6|5lw|23|Tarapore
+Tārāpur|IN|Bihar|6t|1xp|6oq|23
+Tarhjicht|MA||d|28q|-q7|21|Taghjicht;Tarjicht;Tarhjijt
+Tarkastad|ZA||o|-2gx|20y|21
+Tărlungeni|RO||8u|3ir|1zj|20|Tartrang;Târungemi;Tatrang;Tărlugeni
+Thouaré-sur-Loire|FR||9k|3nb|-40|20|Tarvieg;Tauriacus
+Tarkhovka|RU||9i|4mv|2b9|1y|Tarhovka
+Tarapur VII|IN||6t|1wx|75q|1y
+Tremseh|SY||69|2pz|2te|1x|Treimseh;Taramseh
+Starčevo|RS||8q|3gh|1lj|1v|Sztárcsova;Tárcsó
+Tarariras|UY||45|-2n7|-4g2|1u
+Tarabai|BR||4w|-1py|-3z8|1t
+Tarazona de la Mancha|ES||9d|311|-5c|1t
+Tarcento|IT||9o|3kd|10q|1t|Tarcint
+Taretan|MX|Michoacán|41|1hp|-7v4|1s
+Tarrant|US||2f|2la|-6p1|1q
+Târnova|RO|Arad County|8u|3ko|1ok|1p|Tornova;Tîrnova
+Tār|IN||6t|1yk|6ia|1p
+Tarandacuao|MX||41|1jk|-7r8|1p
+Tarímbaro|MX||41|1j0|-7t2|1o
+Tarp|DE||8r|47v|q4|1l
+Bessarabske|UA||98|3kb|28z|1l|Tarutino;Taroutyné;Tarútyne;Tarutıne;Tarutin;Besarabske
+Torkālakī|IR||7o|2hk|3rp|1l|Tar Kālakī;Torkāgakī;Torkākalī
+Tharandt|DE||8r|3xn|11q|1k|Tāranta
+Tarfaya|MA||d|25m|-zx|1k|Tarfaja;Tarfaia
+Taradell|ES||9d|38b|6d|1k
+Tarnogskiy Gorodok|RU||9i|4o2|3d2|1i|Tarnogskij-Gorodok
+Tarasivtsi|UA||98|3px|218|1h|Tarassivtsi;Tărăsăuți
+Târgu Trotuş|RO||8u|3kj|223|1h|Târgu-Trotuş;Tîrgu Trotuş
+Tarumovka|RU||9i|3eg|3la|1g
+Taghazout|MA||d|2cu|-qz|1g|Tarhazoute
+Tartaro|PH||71|165|9c6|1g|Taltaro
+Tara Hills|US||3p|2xj|-9fs|1f
+Tvrdošovce|SK||8s|3pl|1e7|1f|Tardoskedd;Tardošked
+Tărtăşeşti|RO||8u|3fu|1zp|1f
+Tarsali|IN||6t|1pu|5ne|1d
+Ţarigrad|MD||8x|3ph|254|1b|Tsar’grad;Tsaregrad
+Tarará|CU||36|1sd|-6cd|19
+Tarentum|US||48|34s|-65k|19
+Tarskoye|RU||9i|3bd|3ge|18|Tarskoje
+Tarrafal de São Nicolau|CV||84|1a1|-1vo|18|Tarrafal de San Nicolás
+Tarnowo Podgórne|PL||a5|41r|1aa|16
+Tarbagatay|RU|Buryatiya Republic|6k|3z0|8a8|16|Tarbagataj;Tarbagatai
+Târgu Bujor|RO||8u|3jf|25i|15
+Tarm|DK||8y|4bb|np|15
+Tarczyn|PL||a5|40e|1lv|13|Tarčina
+Taraklı|TR||94|348|2cp|13
+Tarpey Village|US||3p|2u7|-98i|13
+Targanice|PL||a5|3ud|1ho|13|Targanica
+Tarnów Opolski|PL||a5|3wi|1e8|12
+Tarragona|PH||71|jl|9r9|12
+Torkābād|IR||7o|2hu|45x|11|Tarkābād;Turkābād
+Tarascon-sur-Ariège|FR||9k|3b1|4h|10|Tarascon dArièja
+Tarmstedt|DE||8r|43v|p8|10|Tarms
+Tarcău|RO||8u|3m7|20l|z|Tarkő
+Tare|RW||s|-4s|2b2|y
+Tarouca|PT||99|35y|-lm|y
+Tarnogród|PL||a5|3vw|1r6|y|Tarnogrudas
+Tarcal|HU||8v|3pp|1nb|x
+Tarbaj|KE||16|65|33g|v
+Ayat|KZ||7c|42s|4to|v|Taranovskoe
+Tarusan|PH||71|o1|92f|v
+Tartas|FR||9k|3dr|-29|v
+Tarapacá|CO||27|-81|-5dq|v
+Tarasivka|UA|Zakarpattia|98|3px|1u5|v|Tarasovka
+Tarhit Ouled Hellal|DZ||3|2pg|hl|v
+Taremskoye|RU||9i|4bd|3bk|v|Taremskoje
+Tarata|PE||3o|-1cj|-5ej|v
+Tătărani|RO|Prahova|8u|3gq|20c|u|Tarani
+Târşolţel|RO||8u|3p7|1sv|u|Tîrşolţel
+Marabadjassa|CI||0|mh|-f4|u|Tarafa ya Marabadiassa;Marabadiassa;Marahadiassa;Marabadyasa
+Taroona|AU||8g|-3bb|bdb|u
+Krasna|UA|Zakarpattia|98|3pz|1ui|u|Tarackraszna
+Târguşor|RO|Constanța County|8u|3fh|26y|t|Tîrguşor
+Termeno|IT||9o|3kq|v8|t|Tramin an der Weinstrasse;Tarmèno
+Ternavka|UA||98|3po|20u|t|Târnauca;Tyrnauka
+Taviran|PH||71|js|9lc|t|Tariran
+Tarján|HU||8v|3o9|1ff|s|Tarian
+Tarasovka|RU||9i|4bg|2x4|s
+Tarangnan|PH||71|x2|9mj|s|Taranga;Tarangan
+Tarso|CO||27|ga|-5um|r
+Tarcea|RO||8u|3nt|1pm|r
+Dachne|UA|Crimea|9t|3go|2p6|q|Taraq Taş;Taraktash
+Tarporley|GB||9b|43o|-7f|q
+Tarvisio|IT||9o|3l7|11r|p|Tarvis;Trbiž;Tarvisium;Tarvizijus
+Taronik|AM||80|33h|3es|p
+Tariric|PH||71|11p|9ia|p
+Tarabuco|BO||3n|-1ha|-50c|o|Tarapuku
+Tarbagatay|RU|Zabaykalskiy (Transbaikal) Kray|67|3y6|8f2|o|Tarbagataj;Tarbagatai
+Tarong|PH||71|w1|9i1|o
+Turnasuyu|TR||94|35s|2xi|o|Tarnasuyu;Tunasuyu
+Tartiki|TJ||6d|2we|599|n|Tartki
+Tariji|PH||71|174|9b1|n
+Tarpa|HU||8v|3pm|1qm|n
+Tarvin|GB||9b|43s|-7p|n
+Tara|AU||8c|-23s|bly|n
+Tăriceni|RO||8u|3gg|205|n
+Tarcienne|BE||8t|3vr|ci|m
+Tarato|CI||0|qi|-go|m|Talato
+Taranganba|AU||8c|-1sa|bmr|m
+Tărcaia|RO||8u|3lj|1q5|l|Köröstárkány
+Tarkhankut|UA||9t|3ij|2jw|l|Tarhan Qut;Kirovske
+Tara|PH||71|12e|9hm|l
+Tarrawanna|AU||8l|-2ni|bn5|l
+Felipe Carrillo Puerto|MX|Durango|44|1vl|-80x|k|Tarabillas;Taravillas
+Târnava|RO|Teleorman County|8u|3em|1z0|k|Tîrnava
+Tar|HU||8v|3p7|1iv|k
+Tarvasjoki|FI||92|4oa|1r5|k
+Tarna Mare|RO|Satu Mare County|8u|3pl|1sf|k|Nagytarna
+Tarbolton|GB||9b|4a7|-ch|j|Tarbowton
+Tarrenz|AT||a2|3nb|tx|j
+Taraco|PE||3o|-16i|-5ee|j
+Târnova|RO|Caraș-Severin County|8u|3hy|1p5|i|Tîrnova
+Tarnaörs|HU||8v|3o7|1jp|i
+Targon|FR||9k|3ga|-q|i
+Stara Tsarychanka|UA||98|3kl|2az|i|Tsarychanka Antigua;Tăriceanca-Veche;Stara Tsarytchanka
+Tårs|DK||8y|4fe|s4|i|Taars;Tors
+Tarnalelesz|HU||8v|3ph|1k2|i
+Tarsīāb|IR||7o|2tn|418|i
+Taradeau|FR||9k|3cp|hv|i
+Taren Point|AU||8l|-2mi|bns|h
+Tarp|DK||8y|4a9|ni|h
+Targowisko|PL||a5|3uu|1kd|h
+Amonkro|CI|Lacs District|0|jo|-dz|h|Tarafa ya Lomokankro;Lomokankro
+Tarro|AU||8l|-2j4|bpb|g
+Tarakaniv|UA||98|3vy|1zf|g|Tarakanuv;Tarakanov
+Tardos|HU||8v|3oe|1f8|g
+Tarejero|MX||41|1j2|-7uj|g
+Tarforst|DE||8r|3u6|il|f
+Tarzo|IT||9o|3jq|xz|f|Larzo
+Tyarlevo|RU||9i|4lv|2cl|f|Tjarlevo;Tärölä;Tiarlevo;Târlevo
+Tatariv|UA||98|3qa|1wa|f|Tartarov
+Tarnawa Dolna|PL|Lesser Poland|a5|3ua|1id|f
+Tarbor-e Lāy Bīsheh|IR||7o|2a9|42y|f
+Tarnowiec|PL|Lesser Poland|a5|3uu|1mb|f
+Tarkio|US||2f|34c|-7cy|f
+Farakro|CI||0|lo|-b6|e|Tarakrou
+Tarsia|IT||9o|322|197|e
+Târnava|RO|Sibiu County|8u|3k6|1vh|e|Tîrnava
+Vesela Tarasivka|UA|Luhansk|98|3qt|30l|e|Tarasovka
+Tarcoola Beach|AU||8k|-281|8ue|d
+Taraš|RS||8q|3ib|1k4|d|Tarras
+Tariffville|US||48|38f|-5m4|d
+Tarasivka|UA|Poltava|98|3vl|2nf|d|Tarasovka
+Tarnówka|PL||a5|446|1at|d|Tarnowke
+Tarnow|DE||8r|45e|xe|d
+Tarnowiec|PL|Subcarpathia|a5|3u5|1ny|c
+Tarama|JP||7q|1wj|9me|c
+Tärnsjö|SE||9w|4n3|1b1|c
+Tariverde|RO||8u|3fs|27g|c|Tariverdi
+Tar|HR||a6|3hu|11v|b
+Tarbert|GB||9b|4b6|-f2|b
+San Antonio Tariácuri|MX||41|1j8|-7un|b|Tariácuri
+Taretán|MX|Guanajuato|41|1lq|-7ti|b|Tareta
+Tarasivka|UA|Kherson|98|3k6|2k0|b|Tarasovka
+Tardienta|ES||9d|38m|-1i|b
+Torkanivka|UA||98|3q8|290|b|Tarkanovka;Torkanovka
+Taro|SB||av|-in|c2g|b
+Taragual|HN||56|14z|-6ts|a
+Ţarvīzak|IR||7o|2rn|3tt|a|Tabrīzak
+Tard|HU||8v|3p0|1la|a
+Tarasivka|UA|Poltava|98|3vf|2i9|a|Tarasovka
+Tarasovo|BY||9g|45t|242|a|Tarasava
+Tarnawatka|PL||a5|3wd|1t0|a
+Tarves|GB||9b|4fd|-66|a
+Tarashany|UA||98|3pn|209|a|Tărășeni
+Ţāherābād|IR|Kerman|7o|2b7|4d6|a|Tārābād;Nārābād
+Tardona|HU||8v|3pt|1l1|a
+Târzii|RO||8u|3ld|25e|a|Tîrzii
+Tartaul|MD||8x|3kd|26o|a
+Tarum|IL||6n|2ga|2p6|9
+El Tarral|MX||3z|16a|-74m|9|Tarral
+Tarnawa Dolna|PL|Subcarpathia|a5|3tg|1pu|9
+Narmān|IR||7o|24e|439|9|Tarmān;Nermān
+Tarnogóra|PL||a5|3vx|1q0|9
+Tărpiu|RO||8u|3n3|1vt|9
+Taroom|AU||8c|-1z8|bk4|9
+Tarnawa Górna|PL||a5|3te|1pu|9
+Tarnivtsi|UA||98|3qz|1pq|9|Tarnovtsy
+Nova Tsarychanka|UA||98|3ki|2b0|8|Tariceanca Nouă;Tsarichanka Noua
+Tarasivka|UA|Luhansk|98|3ty|2yn|8|Tarasovka
+Tarantasca|IT||9o|3fl|ky|8
+Tarthun|DE||8r|409|vv|8
+Therdonne|FR||9k|3ta|60|8|Tardonne
+Tart-le-Haut|FR||9k|3n4|eg|8
+Taramundi|ES||9d|3cg|-jr|8
+Tar Taik|MM||7y|19u|7fc|8|Tataik
+Tarłów|PL||a5|3xo|1ob|8
+Taroomball|AU||8c|-1sd|bmq|8
+Tarutino|RU||7z|45g|4pj|8
+Tarandyntsi|UA||98|3v4|2j8|8|Tarandintsy
+Tărhăuși|RO||8u|3lf|20h|8
+La Traposa|PE||3o|-hu|-651|8|Taraposa
+Darchen|CN||7i|2dx|69t|8|Tarchan;Taqin
+Târlele Filiu|RO||8u|3h5|24e|8|Târlele-Filiu;Tîrlele Filiu
+Tarmassia|IT||9o|3hr|uq|7
+Tărtăria|RO||8u|3jl|1t1|7
+Tarland|GB||9b|4ep|-7y|7
+Tárbena|ES||9d|2zh|-a|7
+Tardets|FR||9k|3bs|-2e|7|Atharratze;Atharratze-Sorholüze
+Bad Tatzmannsdorf|AT||a2|3nh|193|7|Tarcsafürdő
+Târzia|RO||8u|3nf|218|7|Tîrzia
+Tartaras|FR||9k|3ij|cz|7
+Tarrafal de Monte Trigo|CV||84|1b4|-1yb|7
+Tarnowa|PL||a5|40q|1f1|7
+Tarres|IT||9o|3lh|u8|7|Tarsch
+Tarcenay|FR||9k|3n0|gz|7
+Țărățel|RO||8u|3k4|1re|6|Cerecel
+Tardajos|ES||9d|39n|-am|6
+Țărculești|RO||8u|3h7|20x|6
+Tarasenkove|UA||98|3un|2is|6
+Târgușor|RO|Bihor County|8u|3nm|1pl|6|Asszonyvására;Tîrguşor
+Țarna Mare|RO|Suceava|8u|3nv|215|6
+Ţarrāmah|PS||6g|2fg|2pb|6
+Tardelcuende|ES||9d|37j|-7c|6
+Tarnița|RO||8u|3l8|23p|6
+Torrelobatón|ES||9d|37p|-dz|6|Tarrelobatón
+Torpāq Tappeh|IR||7o|2qv|3xm|6|Taryāq Tappeh;Tarpāq Tappeh
+Târlești|RO||8u|3hp|20u|6|Tîrleşti
+Tarimoro|MX|Michoacán|41|1k8|-7wa|6
+Tarnów|PL|Lower Silesia|a5|3wi|1an|6
+Nove Tarutyne|UA||98|3l3|28w|6|Tarutino Nou;Nové Taroutyné
+Tardiano|IT||9o|33t|17r|6
+Terchești|RO||8u|3im|235|6|Tărcheşti
+Tariego|ES||9d|38e|-cg|5
+Tarbert|IE||8z|421|-q2|5|Tairbeart
+Tarmon|IE||8z|41y|-q2|5|An Tearmann
+Tarucuyo|PE||3o|-15d|-5ir|5

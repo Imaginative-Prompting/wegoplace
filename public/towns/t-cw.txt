@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Cwmbran|GB||9b|3zh|-8e|dh|Kumbranas;Cwm-brân
+Bridgnorth|GB||9b|41y|-6q|3j|Cwatbrycg
+Cuesmes|BE||8t|3w4|aw|2s|Cweme
+Cwmafan|GB||9b|3ze|-ag|1h|Cwm-avan
+Cwmtillery|GB||9b|3zq|-8p|1b
+Cwmbach|GB||9b|3zn|-9h|17
+Cwm|GB||9b|3zq|-8u|r
+Tsvitkove|UA|Cherkasy|98|3sj|2fl|c|Zwitkowe;Cvitkove;Cwitkowe;Țvitkove
+Cwmann|GB||9b|40q|-ba|9|Cwman

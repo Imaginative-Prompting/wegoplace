@@ -1,0 +1,102 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+Kayseri|TR||94|2zl|2ql|b7h|Cesarea in Cappadocia;Kajseri;Cesarea;Cesarea de Capadocia;Kaiseris;Caesarea in Cappadocia;Qayseri;Kaiseri;Caesarea;Casarea;Césarée;Kaisaria;Kaisarie
+Kaifeng|CN||7i|2oo|8tj|b79|Kai Feng;Keyféng shehiri;Khai Phong;Kchaj-feng;Kăi-hŭng;Kayfin;Khai-hong-chhī;Kai-fêng Fu
+Kashgar|CN||7t|31n|5v3|3wq|Kachgar;Kasgar;Kaszgar;Kaschgar;Kaxgar;Qeshqer;Qaşqar;Kaixgar;Kasjgar;Kašgaras;Kašgara;Kash;Qashqar;Qeshqer Shehiri;Kashi
+Kaesŏng|KP||7a|2xh|9rj|2ly|Kesongas;Kaisong;Gaeseong
+Kaili|CN||7i|21v|8by|24l
+Jiayuguan|CN||7i|32l|7l1|1sf|Gă-ṳ̆k-guăng;Ťia-jü-kuan;Gia Dục Quan;Ka-io̍k-koan-chhī;Kia-yu-kuan
+Kaiyuan|CN|Yunnan|7i|1tu|7yy|1j4
+Kaithal|IN||6t|2as|5w8|149
+Kairouan|TN||1e|2r4|s2|12n|Qairawān;Kajruano;Qayrawan;Kairuan;Cairuão;Kayravan;Al-Qayrawān;Kairuanas;Keruan;Qayruvon;Qayravan;Qairwan;Kairwan;Qairouan;Al Qayrawān;Al-Kayrawān
+Kaiyuan|CN|Liaoning|7i|3a5|9kk|v9
+Kaiserslautern|DE||8r|3tc|ll|rf|Kaizerslauternas;K-Town;Kaiserlautern;Kaiserslantern
+Kaizuka|JP||7q|2np|afz|pq|Kaitsuka
+Kairāna|IN||6t|29o|5yh|mc
+Kai|JP||7q|2r4|aor|kx
+Kaihua|CN||7i|1sx|81o|hw|Kaihwa
+Kaitong|CN||7i|3gh|9hw|hd|K’ai-t’ung
+Kayna|CD||y|-1p|291|e7|Kaïna
+Kainan|JP||7q|2mv|afl|dg
+Kai Tak|HK||6i|1q0|8t8|bu
+Caibarién|CU||36|1qk|-64r|av|Kaibarjenas;Caibairien
+Kailua|US||ax|1ng|-c66|aq
+Kaipamangalam|IN||6t|sp|5vi|9w
+Kaizu|JP||7q|2ps|ajk|9q
+Kaimganj|IN||6t|24j|64e|95
+Kaïs|DZ||3|2ql|j8|93
+Kaij|IN||6t|1fz|5vb|8j
+Ptolemaḯda|GR||8p|34j|1o8|8c|Ptolemais;Ptolemaidha;Kayılar;Ptolemak;Kailar
+Kaitaichi|JP||7q|2nh|a85|88|Kaidaichi
+Kaisarianí|GR||8p|2xg|1u1|7c
+Kailāras|IN||6t|212|5zm|77
+Kaithoon|IN||6t|1xs|5v1|6r
+Kaikalapettai|IN||6t|106|66k|6n
+Kailāshahar|IN||6t|1vl|73k|68|Kailasahar
+Kaiama|NG||u|qp|ay|63|Kaima
+Kaimukī|US||ax|1n4|-c6c|5t
+Kaikalūr|IN||6t|19z|69l|5s
+Kaimori|IN||6t|1sy|65i|5m|Kymore
+Kaimur|IN||6t|1ut|67x|5d
+Kaitang|CN||7i|228|8cd|54
+Kailahun|SL||l|n0|-td|3x
+Kaiapoi|NZ||ak|-3ci|dbk|3t
+Athmallik|IN||6t|1lk|6iu|3f|Kaintarāgarh;Athmalik;Kaintragarh
+Kailua-Kona|US||ax|1ik|-c1c|3c|Kailua Kona
+Kai Ching Estate|HK||6i|1q1|8t8|3b
+Kangiwa|NG||u|yv|am|39|Kaingiwa
+Kainuk|KE||16|4x|2qn|2x|Kainok
+Kaišiadorys|LT||a3|48f|1vz|2r|Koszedary;Koshedary;Kaišedorys;Kashedary;Kayshadorys;Kaišiadorio
+Kaindy|KG||65|3ay|5oo|2o|Kayyngdy;Kainda
+Kaikaram|IN||6t|1ap|6a1|2n
+Kailasagiri|IN||6t|zo|62n|2m
+Kaimbujae NDing|GM||7|10x|-1a6|2k
+Kaiti|NZ||ak|-2zf|dqj|2f
+Kaiping|CN||7i|1qp|8sd|2e
+Kainantu|PG||bd|-hh|b97|2d
+Kalix|SE||9w|52x|1sc|23|Kainuu;Kaihnuu
+Kain|BE||8t|3wo|9g|22
+Kainoor|IN||6t|t6|5vw|21
+Kaiparamba|IN||6t|th|5vi|20
+Kaitaa|FI||92|4n3|1wl|1x|Kaitans;Kaitis
+Kalnibolotskaya|RU||9i|3jt|34e|1u|Kalnibolotskaja;Kanibolotskaya;Kainibolotskaya
+Kaigan|JP||7q|2r1|as8|1s
+Kaivoksela|FI||92|4nf|1x3|1o|Gruvsta
+Kairangala|IN||6t|zk|5s7|1m
+Kīānābād|IR||7o|2a2|41q|1e|Kainābād;Kīnābād;Kīyân-âbâd
+Kaikohe|NZ||ak|-2qc|des|1d
+Kāipadar|IN||6t|1jx|6ln|19
+Mežaparks|LV||9n|4ec|1v4|19|Kaiserwald;Mezhaparks;Mezhapark
+Kaisheim|DE||8r|3rh|u0|17|Caesarea
+Kair|IN||6t|27i|5xo|15
+Kai Tak Garden|HK||6i|1q2|8t7|13
+Kaijonharju|FI||92|50q|1ys|13
+Kailua Town|US||ax|1nf|-c66|11
+Kaiseraugst|CH||a7|3o2|lh|10|Augusta Raurica
+Kai Tsui Court|HK||6i|1pu|8td|y
+Kairy|UA||98|3mf|2ln|y|Kayiry
+Kaisersesch|DE||8r|3vj|ju|u|Kaisersech
+Kainoúryion|GR|West Greece|8p|2z8|1np|s|Kainourgio;Kainoúrion
+Császártöltés|HU||8v|3ky|1ha|q|Tschasartet;Kaiserdamm;Tetiš;Tuotiš
+Kaisersbach|DE||8r|3rx|qs|q
+Kayhador|UA||9t|3gw|2q8|q|Kaygador;Kaihador
+Kaindorf an der Sulm|AT||a2|3lz|176|o
+Keimola|FI||92|4nm|1wy|o|Käinby
+Kaisten|CH||a7|3o2|mc|l
+Kaiaf|GM||7|118|-17e|i
+Kainbach|AT||a2|3ms|174|g
+Kaibito|US||2p|2to|-8kj|f|Kaibiito;Kaibeto;K'ai' Bii' To;Kabito
+Keitum|DE||8r|48h|n9|d|Kairem;Kejtum
+Kaidanovo|UA||98|3qn|1qp|c|Kaydanovo
+Kaindorf|AT||a2|3n7|187|b
+Kainoúryion|GR|Central Greece|8p|2zr|1r4|b|Kainourgio
+Kaipola|FI||92|4rq|1y4|9
+Käina|EE||9x|4jf|1ra|9|Keina
+Kaitangata|NZ||ak|-3kj|d3t|9
+Kaifenheim|DE||8r|3vl|k3|8
+Kaikoura|NZ||ak|-39u|deg|7
+Kayiry|UA||98|3me|2e1|7|Kaïry
+Kaistarniemi|FI||92|4ns|1pt|6|Kaistarudden
+Santa Rosa|US|Arizona|4i|2hs|-8n8|6|Kaij Mek
+Kaisersdorf|AT||a2|3o2|19j|6|Kalištrof;Császárfalu
+Kaiwaka|NZ||ak|-2sh|dgl|6

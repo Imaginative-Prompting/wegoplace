@@ -1,0 +1,43 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sarrià-Sant Gervasi|ES||9d|370|5y|153|Sarrià;sant gervasi
+Șanț|RO||8u|3nt|1x6|t|Újradna
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Santiago|CL||4u|-2ky|-5g9|11bp|Sanctiacobi;Čilės Santjagas;Santjago
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Santo Domingo|DO||4v|1fb|-5e5|gzn|Saint Domingue;Ciudad Trujillo;Santo-Dominqo
+Santa Cruz de la Sierra|BO||3n|-1df|-4vi|e4q|Santa Cruz;Santa Cruz da Serra;Santa-Kruzo
+Santiago de Querétaro|MX||41|1l7|-7qv|cau|Santjago de Keretaras;Santiago Tlachco;Santiagu di Querétaro;Queretarum;Querétaro City;Keretaro;Querétaro
+Santiago de los Caballeros|DO||4v|1i1|-5gd|99c|Santjago de los Kabaljerosas;Santiago
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+General Santos|PH||71|gz|9np|5kl|Siyudad na Heneral Santos;Heneral Santos
+Santo Domingo Oeste|DO||4v|1fe|-5eg|5et
+Santo Domingo Este|DO||4v|1fd|-5e1|5eg
+Agadir|MA||d|2ci|-qo|5dz|Santa Cruz;Agadair
+Santo André|BR|São Paulo|4w|-1tq|-3la|540
+Feira de Santana|BR||20|-y3|-309|4r7|Feira de Sant'Anna;Feira De Saint Anna
+Santiago de Cuba|CU||36|1jm|-5um|4af|Santiago de Kubo;Santiago di Cuba;Kubos Santjagas;Santyago de Kuba;Santyaqo de Kuba
+Florianópolis|BR||4w|-24o|-3qv|3xc|Nossa Senhora do Destêrro;Floripa;Florjanopolisa;Santa Catherina
+Santa Marta|CO||27|v8|-5q3|3uo
+Santo Domingo de los Colorados|EC||33|-p|-63y|3je|Santo Domingo
+Sandakan|MY||6w|g8|944|3dz|Sân-tá-kîn;Samdakan
+Santos|BR||4w|-1uk|-3kp|38a|Baixada Santista;Urbs Sanctorum;Santusa
+Santa Fe|AR||1n|-2fx|-4on|30o
+Santarém|BR||4t|-6s|-47z|2s9|Santarenas
+Santa Ana|US||3p|2lr|-93f|2e6|Santanna
+Santa Catarina|MX|Nuevo León|44|1zb|-7r2|2ch
+Santol|PH|Central Luzon|71|164|9ax|2b2
+Santa Teresa del Tuy|VE||2c|sf|-556|25h
+Santa Maria|BR|Rio Grande do Sul|4w|-2ag|-45h|23h|Santa Marija
+Santiago del Estero|AR||1n|-258|-4yi|1y2|Santjago del Esteras;Sanctus Iacobus ad Uligines
+Santiago de Surco|PE||3o|-xq|-5xx|1xw
+San Fernando|PH|Central Luzon|71|15r|9b8|1xs|Santo Rosario;Urbs Sancti Ferdinandi
+Santa Clara|CU||36|1q9|-665|1xl|Santa Klara;Santa-Klaro
+Coro|VE||2c|vp|-5dk|1wj|Santa Ana de Koras;Corum;Koro
+Sant Martí|ES||9d|372|64|1th
+Santa Luzia|BR|Minas Gerais|4w|-1ix|-3dt|1ov|Santa Lúcia
+Cabo de Santo Agostinho|BR||4p|-n1|-2pb|1oa
+Santa Rosa|PH|Calabarzon|71|13r|9cf|1o7
+Santa Cruz de Tenerife|ES||83|273|-195|1mq|Tenerife;Teneriffa;Santakrusa de Tenerife;Santa Cruz Tenerifekoa;Sancta Crux Nivariae;Santa Kruz de Tenerife;Tenerifės Santa Krusas
+Santa Bárbara d'Oeste|BR||4w|-1r7|-3np|1gn|Santa Bárbara do Oeste
+Donostia / San Sebastián|ES||9d|3cb|-5h|1fi|San Sebastián;Donostia;La Bella Easo;Sanse;Sant Sebastià;Saint-Sébastien;Donostio;São Sebastião;Donosti;Donostia-San Sebastián;Donostia San Sebasián

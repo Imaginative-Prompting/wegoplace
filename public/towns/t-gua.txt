@@ -1,0 +1,458 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Guayaquil|EC||33|-64|-65x|l0l|Gvajakilis;Guaiaquil;Gvajakila;Wayakil;Guaiaquilum;Guajakil;Gvajakilo
+Guadalajara|MX||41|1lg|-7z3|aow|Gvadalaharo;Gvadalachara;Ātemaxac;Guadalaxara;Gvadalahara;Qvadalaxara
+Guankou|CN||7i|268|8rn|anc
+Guarulhos|BR||4w|-1t6|-3l9|adq
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Ciudad Guayana|VE||2c|n7|-4u0|7jq|Cidade Guaiana;Guayana;Ciudat Guayana;Siudad Guajana;Sjudad Guajan;Ciudad Guiana
+Guang’an|CN||7i|2cn|888|6me|Kuang-an
+Guadalupe|MX|Nuevo León|44|1zc|-7qi|574
+Jaboatão dos Guararapes|BR||4p|-mj|-2p9|4yw
+Guangyuan|CN||7i|2i4|85y|3zg|Kuang-jüan;Quảng Nguyên;Guōng-nguòng;Kóng-goân-chhī;Kwangyüan;Kuan-yüan;Kuang-yüan
+Guarujá|BR||4w|-1un|-3ki|29x|Guyrajára
+Guantánamo|CU||36|1jy|-5sx|23s|Guatanamo
+Oaxaca|MX||41|1be|-7gp|1yu|Oachaka;Huaxyacac Juárez;Oaxaka de Juárez;Guaxaca;Oahaka;Ndua
+Guarenas|VE||2c|t3|-552|1x2
+Guatire|VE||2c|t3|-54u|1r9
+Guacara|VE||2c|sf|-58k|1j9
+Guarapuava|BR||4w|-1yj|-3yz|1go
+Guadalupe|MX|Zacatecas|41|1r7|-7ws|1b8
+Mogi Guaçu|BR||4w|-1q5|-3mf|18j|Mogi-Guaçu;Moji-Guaçu
+Guangshui|CN||7i|2fu|8so|170|Kuang-shui;Kwangshui
+Guarapari|BR||4w|-1lf|-34i|11v
+Guará|BR|Federal District|4w|-17x|-3p9|yx
+Guaratinguetá|BR||4w|-1re|-3hj|ws
+Heroica Guaymas|MX||37|25k|-8k2|wl|Guaymas
+Guadalajara de Buga|CO||27|au|-5vy|vr
+Guanabacoa|CU||36|1s9|-6cm|ve
+Guanare|VE||2c|p4|-5dp|v7|Gvanarė
+Guaianases|BR||4w|-1te|-3kx|ud|Guaianeses;Guaianazes
+Guaíba|BR||4w|-2bn|-3yk|ra
+Guanhu|CN||7i|2nn|93s|r5|Kuan-hu
+Guadalajara|ES||9d|34v|-8s|pz|Gvadalaharo
+Cuamba|MZ||11|-154|2ti|pi|Guamba
+Guanambi|BR||20|-13i|-3au|nl|Guanamby
+Guaynabo|PR||4m|1f0|-53n|mm
+Gualeguaychú|AR||1n|-2jp|-4ik|lv|Gualeguaiču
+Guamúchil|MX||3x|1yq|-8c8|k5
+Guanajuato|MX|Guanajuato|41|1me|-7ta|k2|Gvanachuatas;Pachtitlan;Guanaxuato
+Guasave|MX||3x|1z1|-8db|js|Guasava
+Guasdualito|VE||2c|k4|-5gh|hy|Guasdalito
+Guanyin|CN||7i|28u|81z|ho
+Guarabira|BR||2w|-j1|-2ql|fz
+Guapimirim|BR||4w|-1qm|-3be|f3|Guapy-mirim
+Guaxupé|BR||4w|-1n7|-3lr|eh
+Guanshan|CN||7i|2lw|93f|e7
+Guanzhuang|CN|Shandong|7i|2sq|973|e4|Kuan-chuang
+Guangshun|CN||7i|29l|855|dq
+Guajará Mirim|BR||4l|-ty|-51i|cy|Guajará-Mirim
+Guaramirim|BR||4w|-21j|-3s4|cq
+Guandu|CN|Chongqing|7i|2e0|8h5|bw
+Guangtong|CN||7i|1xx|7un|br
+Guaraciaba do Norte|BR||2w|-bl|-357|bp
+Guaduas|CO||27|e3|-5r7|bm
+Guarda|PT||99|34m|-k7|b5
+Guáimaro|CU||36|1mh|-5yv|ay|Guasimaro;Guaymaro
+Guaíra|BR|São Paulo|4w|-1kg|-3q7|ax|Guayra
+Guayacanes|DO||4v|1f6|-5cy|aj
+Guariba|BR||4w|-1nc|-3pz|af
+Guanarito|VE||2c|o6|-5c9|ac
+Guayaramerín|BO||3n|-u3|-51k|a0|Guajaramerinas;Wayaramirin;Guajaramerina
+Guaratuba|BR||4w|-1zw|-3qx|9h
+Guaíra|BR|Paraná|4w|-1uw|-46p|99
+Gualeguay|AR||1n|-2k2|-4kr|97|Gualeguajus
+Guanhães|BR||4w|-1g5|-3b9|8y
+Guarantã do Norte|BR||2k|-rn|-48j|8p
+Guararema|BR||4w|-1t1|-3jv|8o
+Guararapes|BR||4w|-1n2|-3wo|8m
+Guamo|CO||27|b7|-5s9|8h
+Guaçuí|BR||4w|-1lq|-37s|86
+Guanzhuang|CN|Chongqing|7i|277|8et|80
+Guasipati|VE||2c|ks|-4ry|7s
+Guangcun|CN||7i|1ik|8fr|7q
+Guabo|EC||33|-90|-65r|7e|Wapu
+Guaiúba|BR||2w|-b8|-2zc|7b|Guayuba
+Guadalupe|CR||2i|rn|-6hi|78
+Guaraí|BR||1k|-oj|-3qr|75|Guará
+Guadalupe|PE||3o|-k5|-64s|72
+Guamal|CO|Magdalena Department|27|pe|-5q6|71
+Guaporé|BR||4w|-285|-405|71
+Guanajay|CU||36|1rp|-6dp|71
+Guandu|CN|Chongqing|7i|2bk|87n|6x
+Guastatoya|GT||32|159|-6y7|6w|Gusfatoya
+Guama|VE||2c|sj|-5b6|6u
+Guabiruba|BR||4w|-239|-3s1|6t
+Hualqui|CL||4u|-2up|-5mm|6r|Ualki;Gualqui
+Guanba|CN||7i|280|88p|6n
+Guanlong|CN||7i|1qr|8si|6f
+Gualaco|HN||56|15r|-6n3|67
+Guaranda|EC||33|-4f|-63g|66|Waranta
+Guapiaçu|BR||4w|-1lr|-3sq|61|Cuapiaçu;Guapiassú
+Guayama|PR||4m|1dy|-53n|60|Quayama
+Gua Musang|MY||6v|dk|7v9|5h
+Guacarí|CO||27|ag|-5w1|5g
+Engenheiro Coelho|BR||4w|-1qh|-3n5|5g|Guaiquica
+Gualán|GT||32|160|-6w8|5e|Gualá
+Guaranésia|BR||4w|-1n6|-3m0|5c|Guarnesia
+Guápiles|CR||2i|se|-6gq|5b
+Guaratinga|BR||20|-1a2|-32i|5a
+Guazacapán|GT||32|133|-6z6|59
+Guadix|ES||9d|2vm|-8q|57|Acci;Quadix
+Guará|BR|São Paulo|4w|-1kr|-3ou|56
+Guangpu|CN||7i|29i|86v|50
+Gualaceo|EC||33|-81|-62u|4r|Walasiyu;Gulaseo
+Guapiara|BR||4w|-1v6|-3qt|4r|Guapiuru
+Guajará|BR|Amazonas|2t|-kz|-5lm|4p
+Guane|CU||36|1po|-6hl|4l
+Guadalupe Victoria|MX|Durango|44|1vx|-818|4l
+Guardamar del Segura|ES||9d|2xt|-1u|4j|Guardamar;Guardamar de la Safor;Guardamar de la Segura
+Aguadilla|PR||4m|1f7|-56j|4h|Guadilla
+Guadalupe|CO|Huila Department|27|5m|-5ug|4f
+Guamaré|BR||2w|-e7|-2sw|49|Agua Mare
+Guareí|BR||4w|-1sx|-3pu|46
+Guayos|CU||36|1p9|-64q|46
+Guajiquiro|HN||56|138|-6rz|46
+Guadarrama|ES||9d|34z|-bd|44|Guadarram
+Guanyang|CN||7i|2f2|8hb|44
+Guachochi|MX||2g|22i|-89f|41
+Goascorán|HN||56|11q|-6re|3z|Guas-Coran
+Guarne|CO||27|hg|-5tk|3z
+Guapó|BR||4w|-1ar|-3tl|3y
+Guamal|CO|Meta Department|27|as|-5ox|3v
+Guapí|CO||27|75|-60d|3v
+Guar Chempedak|MY||6v|ga|7r2|3u
+Guapé|BR||4w|-1lo|-3jk|3u
+Guansheng|CN||7i|2a6|84w|3n
+Guayape|HN||56|14w|-6p7|3l
+Guaimaca|HN||56|14d|-6p6|3l
+Guano|EC||33|-4h|-62g|3j
+Gua|IN||6t|1pp|6l7|3i
+Guanglu|CN||7i|30u|9fy|3g
+Guaraniaçu|BR||4w|-1xq|-42w|3e
+Guastalla|IT||9o|3gr|tm|39
+Gualcince|HN||56|138|-6tz|38|Gualcinse
+Guaiçara|BR||4w|-1o2|-3uc|34|Guaycára
+Guangxing|CN||7i|28q|880|34
+Guadalupe|PH|Central Visayas|71|s4|9jd|33|Guadelupe
+Guadalupe|PH|Western Visayas|71|t1|9ip|33
+Guazapa|SV||2u|12k|-6vp|32|Guasapa
+Guaraciaba|BR|Santa Catarina|4w|-21w|-44o|30
+Guaraci|BR|São Paulo|4w|-1ky|-3ry|2w|Guaracy
+Guanting|CN||7i|2ly|82d|2t|Kuan-t’ing
+Guadalupe Victoria|MX|Puebla|41|1hl|-7ie|2s
+Gorey|IE||8z|42b|-hh|2q|Guaire;Goris
+Guajará|BR|Amazonas|3t|-89|-4g7|2q
+Guaraciaba|BR|Minas Gerais|4w|-1l5|-3bh|2q
+Gualdo Tadino|IT||9o|3c3|zi|2p
+Guangming|CN||7i|1qo|8se|2o
+Guagua|PH||71|15l|9b3|2n
+Guánica|PR||4m|1dx|-55v|2k|Guanika
+Guarambaré|PY||1y|-1yt|-4fm|2j
+Huasco|CL||4u|-273|-5hu|2i|Huaskas;Guasco
+Gudauta|GE||7n|3bq|34u|2g|Gudaut'a;Goudaouta;Gudaoeta;Qudauta;Guaduta;Gudauti;Gudauty
+Guarita|HN||56|13e|-6uq|2d
+Guatambú|BR||4w|-23d|-42n|2c
+Guanqing|CN||7i|27i|8dx|2c
+Guanshan|TW||7l|1s1|9ck|2a|Kuan-shan
+Guajeru|BR||20|-14f|-38i|29
+Guardo|ES||9d|3av|-dh|27|Cuardo
+Guamiranga|BR||4w|-1xz|-3x4|27
+Guarani|BR||4w|-1nb|-3bl|25|Guarany
+Guaraçaí|BR||4w|-1mf|-3y9|22
+Guaraqueçaba|BR||4w|-1yb|-3q9|22|Guaraquiçaba
+Guarani das Missões|BR||4w|-266|-47k|22
+Guatapará|BR||4w|-1nq|-3pf|21|Guataporá
+Guadalupe|US|California|3p|2p5|-9ax|21|Guadaloupe
+Guanmian|CN||7i|2fn|8dv|1z
+Guateque|CO||27|dx|-5o3|1z
+Guácimo|CR||2i|sd|-6gh|1y
+Guareña|ES||9d|2zy|-gy|1y
+Guanzhou|CN||7i|26y|8eu|1y
+Guadalix de la Sierra|ES||9d|35a|-a9|1w
+Gualtar|PT||99|37h|-nb|1w
+Guairaçá|BR||4w|-1rp|-42d|1u
+Guadalupe|PA||4g|om|-65p|1u
+Guarda-Mor|BR||4w|-1dd|-3mu|1t
+Guarantã|BR||4w|-1ot|-3tr|1s
+Guaitarilla|CO||27|35|-5zf|1r|Guaitarrilla
+Guaymate|DO||4v|1fn|-5bm|1q|Guaimate
+Guadalupe|US|Arizona|4i|2kp|-8n0|1q
+Guadalupe Victoria|MX|Veracruz|41|1ib|-7hc|1p
+Naval Station Guantanamo Bay|CU||48|1jc|-5sq|1p|Guantanamo Bay
+Guadalupe y Calvo|MX||2g|20h|-894|1m
+Guantou|CN||7i|20m|984|1m|Kuan-t’ou
+Guaramiranga|BR||2w|-bu|-305|1l
+Hualañe|CL||4u|-2p6|-5jg|1k|Gualañe
+Guadassuar|ES||9d|30v|-1c|1k|Guadasuar
+Guanzate|IT||9o|3j1|p2|1j
+Guanaja|HN||56|19o|-6ml|1j
+Guaimbê|BR||4w|-1ov|-3um|1j
+La Guancha|ES||83|26t|-1a9|1i|Guancha
+Guatapé|CO||27|hb|-5ss|1i
+Guayabal|CO||27|dz|-5s1|1h
+Guatajiagua|SV||2u|11z|-6t0|1h
+Guatraché|AR||1s|-2wn|-4wi|1h
+Guayanilla|PR||4m|1e2|-55j|1g|Guadanilh a;Guadanillo
+Guanabo|CU||36|1sd|-6c6|1f
+Guaraciama|BR||4w|-1b9|-3db|1f
+Guagnano|IT||9o|348|1dv|1d
+Guardiagrele|IT||9o|397|13i|1c
+Guaraci|BR|Paraná|4w|-1rt|-3zh|1b
+Guardia Sanframondi|IT||9o|36m|14k|1b
+Guapirama|BR||4w|-1tc|-3v0|1a
+Gualaquiza|EC||33|-9g|-62a|1a|Gualiquiza
+Guaraní|AR||1n|-24g|-498|19
+Guática|CO||27|es|-5uk|18
+Guaribas|BR||20|-q4|-3dd|17
+Guachetá|CO||27|ey|-5op|16
+Guarani de Goiás|BR||4w|-12q|-3l4|15
+Guadalupe|PH|Central Visayas|71|uk|9kh|15
+Guachucal|CO||27|2o|-5zx|14|Guachegal
+Guayabo Dulce|DO||4v|1ft|-5cg|13|Guajabo Dulce
+Guadalupe Cachi|MX||41|1ig|-7pa|12
+Guatacalca|MX||41|1eh|-76a|10|Guatalca
+Guadalupe|MX|Veracruz|41|1ga|-7h9|10|La Patrona
+Guasca|CO||27|dj|-5p8|z
+Gualtieri|IT||9o|3gq|tj|z
+Gualaca|PA||4g|np|-6cm|z
+Guadalupe|PH|Caraga|71|nu|9p7|y
+Guadalupe Tlachco|MX||41|1hp|-7kj|y
+Guararé|PA||4g|lq|-670|w
+Huazuntlán|MX||41|1eg|-7bb|w|Guasuntlan
+Guarará|BR||4w|-1od|-3bk|v
+Sant Salvador de Guardiola|ES||9d|37s|4x|v|Guardiola
+Guadalupe|MX|Chihuahua|2h|2f7|-86r|u
+Guaminí|AR||1l|-2ut|-4te|u
+Guadalupe|PH|Central Visayas|71|r0|9is|u
+Guarromán|ES||9d|2y2|-a9|u
+Guadalupe Victoria|MX|Nayarit|3x|1o8|-84l|t
+Guanaceví|MX||44|201|-86c|t|Guaraceví
+Guaquitepec|MX||41|1b6|-74d|t
+Huara|CL||4u|-1jk|-5dt|t|Guara;Huari
+Guayatá|CO||27|ds|-5o5|t
+Guanagazapa|GT||32|13j|-6zs|s
+El Guayabal|DO||4v|1g3|-5gs|s|Guayabal
+Guadalupe Zaragoza|MX||41|1hs|-7lq|s
+Guayalejo|MX||41|1q6|-7lk|r
+Guasila|IT||9o|31w|p4|r
+Guadalupe Septién|MX||41|1l1|-7q3|q
+Guananico|DO||4v|1it|-5h0|q
+Guachipas|AR||1s|-1yw|-51z|q
+Huajintepec|MX||41|1a5|-7kv|q|Guajintepec
+Gualchos|ES||9d|2u2|-9f|q
+Guaytalpa|MX||3z|1em|-76f|p
+Guatimozín|AR||1n|-2ky|-4tg|p
+Gualmatán|CO||27|2k|-5zh|p
+Guadalupe Victoria|MX|Veracruz|41|1k1|-7h7|p
+Guardamiglio|IT||9o|3hb|qw|o
+Guayabal|PR||4m|1e8|-54q|o
+Guadalupe Victoria|MX|Sinaloa|3x|1vi|-89z|o|El Atorón
+Guardavalle Marina|IT||9o|2yw|1a2|n
+Guadalupe Victoria|MX|Guerrero|41|1ak|-7kq|n
+Guaimitas|HN||56|172|-6ro|n|Guaymitas
+Guadalupe de Atlas|MX||41|1pv|-7vf|n
+Guadalupe Victoria|MX|Tamaulipas|44|1uw|-7kv|n
+Guadalupe|ES||9d|31l|-et|n|Guadalupi;Gundalupe
+Guajayvi|PY||1y|-1w5|-4co|m|Guayaybi
+Guadalupe Santa Ana|MX||41|1e9|-7kk|m
+Guadalupe Victoria|MX|Hidalgo|41|1jn|-7kz|m
+Guaporema|BR||4w|-1su|-42m|m|Guararema
+Guaraíta|BR||4w|-17d|-3uy|m
+Guadalupe|CO|Santander Department|27|hd|-5ny|m
+Guarinos|BR||4w|-14x|-3u2|m
+Guaro|ES||9d|2tu|-df|l
+Guandu|CN|Guizhou|7i|27d|86q|l
+Guayabetal|CO||27|bp|-5p2|k
+Guadahortuna|ES||9d|2wc|-9g|k
+Guabito|PA||4g|qd|-6dh|k
+Guardavalle|IT||9o|2yz|19v|k
+Guadalupe Minerva|MX||41|1jx|-7m7|k
+Guarani d'Oeste|BR||4w|-1jr|-3vu|k
+Guatavita|CO||27|dq|-5p3|j
+Guadalupe Victoria|MX|Chiapas|41|1a7|-779|j
+Guadalupe Etla|MX||41|1bp|-7gx|j
+Guachinango|MX||41|1l6|-81y|i
+Guásimas (De Belem)|MX||37|25h|-8j6|i
+Guadalupe Victoria|MX|Chiapas|41|19l|-753|i
+Guadalupe Enríquez|MX||41|1gh|-7j3|i
+Guadalupe Totoltepec|MX||41|1hr|-7ok|i
+Guadamur|ES||9d|32l|-bj|h
+Guadalupe|CO|Antioquia|27|ix|-5t0|h
+Guasavito|MX||3x|1yz|-8d8|h
+Guadalupe|MX|Chiapas|41|15m|-74i|h
+Guatapanal|DO||4v|1i7|-5h0|h
+Guaca|CO||27|j4|-5me|g
+Guayameo|MX||41|1eu|-7ta|g
+Guadalupe Coté|MX||41|1ih|-7pq|g
+Guarumal|PA||4g|n7|-6d9|g
+Guadalupe Victoria|MX|Chiapas|41|17d|-73q|f
+Guadalupe Sarabia|MX||41|1i9|-7in|f|Guadalaupe Sarabia
+Guadalupe Victoria|MX|Puebla|41|1ic|-7ja|f
+Guaymango|SV||2u|127|-6xk|f
+Guayabal|DO||4v|1fo|-5j0|f
+Laguardia|ES||9d|3a7|-77|f|Biasteri;Guardia
+Guadalupe|MX|Guanajuato|41|1oc|-7si|f|Lequeitío;Ex-Hacienda Casco de Lequeitio
+Guadalupe Libertad|MX||41|1hb|-7ij|f
+Gualtieri Sicaminò|IT||9o|2y0|16k|f
+Gualjoco|HN||56|15k|-6t4|e|Gualjaco
+Guabiju|BR||4w|-27a|-3zl|e
+El Porvenir|MX|Baja California|58|2h4|-8zy|e|Guadalupe
+Guadalupe de Rivera|MX||41|1l9|-7tv|e
+Guadalupe Victoria|MX|Chihuahua|2h|2fl|-8ba|e
+Guadalupe|MX|Nuevo León|44|1x5|-7ob|e|La Hacienda
+Guasticce|IT||9o|3d4|sx|d
+Guaymitas|MX||37|23b|-8g0|d
+Guarizama|HN||56|15g|-6nt|d
+Guarbecque|FR||9k|3wl|6x|d|Guérbécque
+Guadalupe Hidalgo|MX|Tlaxcala|41|1hf|-7kr|d
+Guadalupe Victoria|MX|Chiapas|41|154|-749|d
+Guacamaya|HN||56|15q|-6sv|d
+Guadalcázar|ES||9d|2ww|-dq|c
+Guadalupe Hidalgo|MX|Oaxaca|41|1bn|-7gx|c|Guadalupe
+El Guantillo|HN||56|14k|-6qi|c|Guantillo
+Guadalcázar|MX||41|1qu|-7qw|c
+Guardea|IT||9o|3ae|y6|c|Guardia Tiberis
+Guadalupe Texcalac|MX||41|1i0|-7kg|c
+Guarcino|IT||9o|384|10z|c
+Guadalupe Victoria|MX|San Luis Potosí|41|1pk|-7sr|c
+La Guadalupe|MX|Veracruz|41|1en|-7f4|b|Guadalupe
+Guadalupe Victoria|MX|Oaxaca|41|1ay|-7e9|b
+La Guadalupe|MX|Guerrero|41|1ad|-7ky|b|Guadalupe
+Guándaro|MX||41|1k3|-7uz|b
+Guadalupe de Lerma|MX||41|1ki|-7wc|b
+Guataquí|CO||27|ck|-5rr|b
+Guardialfiera|IT||9o|384|153|b|Guardia Alpheria
+Guadacorte|ES||9d|2sj|-f3|b
+Guadalupe Calderón|MX||41|1gp|-7ju|b
+Guadalupe del Monte|MX||41|1l4|-7rk|b
+Guanajuatillo|MX|Zacatecas|41|1r3|-7vq|b
+Guatimapé|MX||44|1wx|-83g|b
+El Guante|HN||56|14f|-6py|b|Guante
+Guadalupe Victoria|MX|Puebla|41|1h2|-7j5|b
+Guadalupe de Paso Blanco|MX||41|1ln|-7to|b|El Ranchito
+Guadalupe Morelos|MX||41|1gv|-7jo|b
+Guadalupe Victoria|MX|Jalisco|41|1oa|-7ua|b
+Guadalupe de Támbula|MX||41|1lz|-7re|b|Tambula
+Guayabal de Síquima|CO||27|dk|-5qv|b|Guayabal Siquima
+Guadalupe Victoria|MX|Chihuahua|2g|26p|-84v|a
+La Guásima|MX|Nayarit|3x|1q9|-84r|a|Guásima
+Guadalupe Grijalva|MX||41|17m|-740|a
+Guadalupe Victoria|MX|Veracruz|41|1ia|-7i8|a
+Guadalupe Buenavista|MX||41|1ih|-7q5|a
+Guazzino|IT||9o|3c1|wq|a
+Guadalupe Tlapizalco|MX||41|1gg|-7op|a
+Guayabo de Santa Rita|MX||41|1li|-7v3|a
+Gualba de Dalt|ES||9d|37x|6y|a|Gualba de Balt
+Guanxia Miaozuxiang|CN||7i|21t|8ic|a
+Guanacastal 1ra. Sección|MX||41|157|-74v|a
+Guadalupe|MX|Sonora|37|29m|-8it|a
+Guadalupe Victoria Dos|MX||41|1bo|-75o|a
+Guadalupe Victoria|MX|Tlaxcala|41|1i0|-7k3|a
+Guayal|MX||41|1cq|-758|a
+Guatemalita|HN||56|138|-6u6|a
+Guamaggiore|IT||9o|31x|p7|9
+Guavatá|CO||27|gk|-5oq|9
+Guadalupe Victoria|MX|Tlaxcala|41|1hf|-7l5|9
+Guadalupe la Venta|MX||41|1ld|-7qe|9|Guadalupe de la Venta
+Guadalupe Victoria|MX|Oaxaca|41|18i|-7ed|9|Guadalupe Yautepec
+Guadalupe Villa Cárdenas|MX||41|1lw|-7tj|9
+Guadalupe Victoria|MX|Tamaulipas|44|1uv|-7ne|9
+Guadalupe Victoria|MX|Puebla|41|1fv|-7jf|9
+Gualdrasco|IT||9o|3hs|pk|9
+Guadalupe de Ramales|MX||41|1m5|-7tw|9
+Guadalupe Ramírez|MX||41|1dc|-7ko|9|Guadalupe de Ramírez
+Guadalupe Victoria|MX|Zacatecas|41|1ob|-7y5|9
+Guarrato|IT||9o|2xd|yv|9
+Guangping|CN||7i|22f|8gi|9|Kuang-p’ing;Guanpin
+El Guayabo|HN||56|11h|-6qw|9|Guayabo
+Guadalupe Victoria (El Norteño)|MX||44|1ya|-7k5|9
+Guadalupe de Jalpa|MX||41|1ly|-7va|9
+Gualterio|MX||41|1tj|-80i|9
+Guadiana|MX||41|1oj|-7sk|9
+Guadalupe Victoria|MX|México|41|1hf|-7o6|9
+Guardistallo|IT||9o|3cb|tj|9
+Guadalupe Victoria|MX|Puebla|41|1fi|-7jt|9
+Guadalupe Victoria|MX|Tlaxcala|41|1hk|-7lb|9
+Guadalupe Victoria|MX|Chiapas|41|18h|-762|9
+Guarda Veneta|IT||9o|3gy|ws|8
+Guadalupe Chico|MX||41|1ig|-7q5|8
+Guadalupe Palmira|MX||41|19p|-74e|8
+Guacá Arriba|PA||4g|nq|-6d5|8
+Guayparín|MX||37|22x|-8gl|8
+Guadalupito las Dalias|MX||41|1hy|-7lp|8
+Guadalupe Victoria|MX|Chiapas|41|164|-74p|8
+Guadalupe Victoria|MX|Veracruz|41|1ka|-7ih|8
+Guatiza|ES||83|28r|-11g|8|Gualiza
+Huaristemba|MX||3x|1o6|-844|8|Guaristempa;Guaristemba
+Guanaba|AU||8c|-25m|bto|8
+Guacamayas|CO||27|hy|-5le|8|Guacamaya
+Guachipilín|MX||41|15m|-74r|8|Huichipilin
+Guarda de Guadalupe|MX||41|1iu|-7q0|8
+Guarene|IT||9o|3ga|mc|8
+Guadalupe Victoria|MX|Veracruz|41|1km|-7j0|8
+Guadalupe|MX|Tamaulipas|3w|201|-7j2|7|Licenciado Jose del Bosque
+Guadalupe|MX|Guanajuato|41|1kc|-7sf|7
+Guadalupe Primero|MX||41|1kw|-7qm|7
+Guatimoc|MX||41|15t|-73z|7
+Guadalupe Relinas|MX||41|1j8|-7me|7
+Guadalupe el Terrero|MX||41|1jw|-7q7|7
+Guarapo|MX||41|1km|-7tp|7
+Guardia Mitre|AR||1s|-34b|-4wv|7
+Guadalupe de las Corrientes|MX||41|1tu|-7wq|7
+Guadalupe Monteverde|MX||41|1cn|-7jf|7
+Guanajuato|MX|Chiapas|3z|17h|-76s|7
+Gualdo|IT||9o|3ea|xw|7
+Guadalupe Nogales|MX||41|1ck|-7l3|7
+Gouramba|CI||0|mb|-je|7|Gouaramba;Guaramba
+Guadalupe Bacja|MX||41|1af|-749|7
+Guadalupe Victoria|MX|Chiapas|41|1c9|-75z|7
+Gasquet|US||3p|389|-9kd|7|Guasquet
+Guardbridge|GB||9b|4cl|-81|7
+Guadalupe Paxiljá|MX||41|1bk|-73n|6
+Guaviraví|AR||1n|-29l|-4dv|6
+Guangüitiro|MX||41|1ks|-7up|6
+Guainville|FR||9k|3rw|45|6
+Guadalupe Mano de León|MX||41|1ax|-7kp|6
+Guadalupe del Río|MX||41|1is|-7ph|6
+Guanajuatito (Cerrito de la Cruz)|MX||41|1ol|-7rw|6
+Guadalupe del Recreo|MX||41|1dg|-7l5|6|Guadalupe de Recreo
+Guadalupe Victoria|MX|Michoacán|41|1iy|-7qi|6
+Guadalupe Victoria|MX|Chiapas|41|173|-760|6
+Guazamara|ES||9d|2vr|-4y|6
+Guanajuatillo|MX|Michoacán|41|1ki|-7vc|6
+Guayabal|PA||4g|ni|-6cr|6
+Guadalupe Fresnal|MX||41|1g5|-7if|6
+Guadalupe|MX|Puebla|41|1go|-7ko|6
+Guadalupe de Trujillo|MX||41|1s3|-7yo|6|Guadalupe Trujillo
+Guadalupe Quistaj|MX||41|191|-73n|6
+Guapotá|CO||27|hj|-5no|6
+Guadalupe Cuauhtémoc|MX||41|1i8|-7kw|6
+Guardia Perticara|IT||9o|344|18q|6
+Los Guayabos|MX||41|1ko|-7x0|6|Guayabos
+Guadalupe Victoria|MX|Chiapas|41|1c4|-76s|6
+Guadalupe Victoria (Santa Lucía)|MX||2g|26v|-88n|6
+Guadalupe|MX|Sinaloa|3x|21y|-8cw|6
+Guayabal|MX||41|1b3|-74w|6
+Guadalupe Piletas|MX||41|1ga|-7im|5
+Guandian|CN||7i|26l|885|5
+Guadalupe Victoria|MX|Guerrero|41|1dy|-7lb|5
+Guadalupe Victoria|MX|Puebla|41|1ik|-7ix|5
+Guadalupe Miramar|MX||41|18w|-71k|5
+Gachantivá|CO||27|g0|-5oa|5|Guachantivá
+Guadalupe Maravillas|MX||3z|18b|-74u|5|Maravilla;Guadalupe
+Guadalupe del Pedregal la Palma|MX||41|1io|-7q3|5
+Guadalupe Nuevo Centro|MX||41|1ao|-7jy|5
+Guadalupe de Morelos|MX||41|1d4|-7kj|5|Guadalupe Morelos
+Guadalupe de los Sauces|MX||41|1q4|-7ts|5|Guadalupe los Sauces
+Guayo 3ra. Sección|MX||41|1ew|-77m|5
+Gualöv|SE||9w|4bp|142|5
+Guadalupe Victoria|MX|Guanajuato|41|1me|-7u6|5
+Guadalupe|MX|Oaxaca|41|1ai|-7de|5
+Guadalupe Victoria|MX|Oaxaca|41|1bf|-7er|5
+Guaxcuaco|MX||41|1mw|-7mo|5
+La Puerta de Guamúchil|MX||41|1kh|-7wu|5|Guamuchil;El Guamúchil
+Guapalayna|MX||2g|23i|-8bp|5|Huapalaina;Guapalaina
+Guadalupe|MX|Guanajuato|41|1ld|-7rv|5|Guadalup
+Guayabito de Pedroza|MX||41|1km|-7v9|5
+Guabas Arriba|PA||4g|nj|-66y|5

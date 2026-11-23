@@ -1,0 +1,77 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Hubert|CA||59|3ie|-5ny|mx
+Saint-Hyacinthe|CA||59|3ir|-5mo|dz|St Hyacinthe
+Saint-Herblain|FR||9k|3n5|-4l|d1|Sant-Ervlan
+Sainthia|IN||6t|1uj|6rk|c0
+Saint Helier|JE||95|3sn|-5u|7s|St Helier;St. Helier;Saint-Hélier;Sankt' Heliero
+Saint-Henri|CA|Quebec|59|3ib|-5og|4e
+Saint Helena Bay|ZA||o|-2j1|1e3|3u|Saint Helenabaai
+Saint Helens|US||3p|3je|-9h5|3l|St. Helens
+Saint Heliers|NZ||ak|-2ud|dhr|3a
+Saint-Hilaire-de-Riez|FR||9k|3ls|-5f|2m
+Saint-Hippolyte|CA||59|3jl|-5pm|29|St-Hippolyte
+Saint-Honoré|CA||59|3qt|-5hg|1s
+Saint Helena|US||3p|2yz|-9g7|1m|St. Helena;Santa Helena
+Saint-Hilaire de Talmont|FR||9k|3l3|-4g|1l|Saint-Hilaire-de-Talmont
+Saint-Henri|FR||9k|3cg|et|1k
+Saint-Hubert|BE||8t|3uz|ex|1j
+Saint-Henri|CA|Quebec|59|3lp|-5hf|1e
+Saint-Hilaire-du-Harcouët|FR||9k|3qy|-31|1c|Saint-Hilaire-du-Harcout
+Saint Hubert|MU||ag|-1kk|4g4|16
+Saint-Hilaire-de-Brethmas|FR||9k|3eg|bg|14
+Saint-Hilaire-de-Loulay|FR||9k|3mk|-3p|12
+Saint-Héand|FR||9k|3ih|c5|12
+Saint-Hippolyte-du-Fort|FR||9k|3e5|aq|11|Sent Ipolit
+Saint Helena|AU||8j|-2wq|b75|t
+Saint Helen|US||2q|3f8|-6ih|r
+Saint Helen's Park|CA||5b|3sn|-9hb|q
+Saint-Hilaire-Saint-Mesmin|FR||9k|3oz|53|q
+Saint Henry|US||48|34a|-6j4|o|St. Henry
+Saint Hedwig|US||2f|29p|-7ks|l|St. Hedwig
+Saint-Hippolyte|FR|Occitanie|9k|3au|89|k|Sant Hipòlit de la Salanca
+Saint-Herblon|FR||9k|3np|-32|k|Sant-Ervlon-ar-Roz;Sanctus Hermelandus
+Saint-Hilaire-du-Rosier|FR||9k|3ha|el|j
+Saint-Hilaire|FR|Auvergne-Rhône-Alpes|9k|3hu|gc|i
+Saint-Hilaire-des-Loges|FR||9k|3l3|-1u|i
+Saint-Hilaire-de-Chaléons|FR||9k|3mu|-57|i|Sant-Eler-Kaleon;Saint Helaire-de-Chaleons
+Saint-Hilaire-de-Clisson|FR||9k|3mq|-3n|i|Sant-Eler-Neved
+Saint-Hilaire-lez-Cambrai|FR||9k|3ve|9h|h
+Saint-Hilaire-Petitville|FR||9k|3sy|-3e|e
+Saint-Hilaire-la-Palud|FR||9k|3ki|-1z|e|Saint-Hilaire-la Pallud
+Saint-Hilaire|FR|New Aquitaine|9k|3fp|20|e
+Saint-Hippolyte|FR|New Aquitaine|9k|3jk|-2h|c
+Saint-Hilaire-de-la-Côte|FR||9k|3i3|es|c
+Saint-Hilaire-de-Villefranche|FR||9k|3jd|-1h|b
+Saint-Hippolyte|FR|Grand Est|9k|3pz|kh|b
+Saint-Hélen|FR||9k|3qn|-5g|b|Sant-Haelen
+Saint-Hippolyte|FR|Bourgogne-Franche-Comté|9k|3ng|iy|b
+Saint-Hilaire-des-Landes|FR||9k|3qb|-3s|a|Sant-Eler-al-Lann
+Saint-Hilaire-les-Andrésis|FR||9k|3ph|8d|9
+Saint-Haon-le-Vieux|FR||9k|3jz|av|9
+Saint-Hilaire-le-Vouhis|FR||9k|3lp|-35|9
+Saint-Honoré|FR||9k|3gu|g6|8
+Saint-Hilarion|FR||9k|3r2|4t|8
+Saint-Honoré-les-Bains|FR||9k|3ma|an|8
+Saint-Hilaire-sur-Helpe|FR||9k|3v9|au|8
+Saint-Hilaire-Peyroux|FR||9k|3hl|4l|8|Sent Alari e lo Peirós;Sent Alari Peiros
+Saint-Hilaire-les-Places|FR||9k|3it|38|8
+Saint-Hilaire|FR|Occitanie|9k|3cm|3k|8
+Saint-Hernin|FR||9k|3py|-a3|8|Sant-Hern
+Saint-Hilaire|FR|Occitanie|9k|3bp|6f|8
+Saint-Hilaire-Cottes|FR||9k|3wh|6p|8
+Saint-Hilaire-de-Court|FR||9k|3n5|5m|7
+Saint-Hilaire-la-Gravelle|FR||9k|3p4|3c|7
+Saint-Hilaire-Bonneval|FR||9k|3j0|3t|7
+Saint-Hymer|FR||9k|3st|h|7
+Saint-Hilaire-du-Maine|FR||9k|3pz|-2l|7
+Saint-Herménégilde|CA||59|3ha|-5j3|7
+Saint-Hilaire-de-Voust|FR||9k|3lf|-1t|7
+Saint-Hilaire-le-Châtel|FR||9k|3qw|1h|6
+Saint-Hostien|FR||9k|3h7|b9|6
+Saint-Hippolyte|FR|New Aquitaine|9k|3hz|5l|6
+Saint-Haon-le-Châtel|FR||9k|3jy|aw|6
+Saint-Hippolyte|FR|Centre-Val de Loire|9k|3mq|32|6
+Saint-Hilaire-sur-Erre|FR||9k|3q7|22|5
+Saint-Hilaire-en-Lignières|FR||9k|3lt|61|5
+Saint-Hilaire|FR|Auvergne-Rhône-Alpes|9k|3l5|8e|5
+Saint-Hilaire-sur-Yerre|FR||9k|3pf|3i|5

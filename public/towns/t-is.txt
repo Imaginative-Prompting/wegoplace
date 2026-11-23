@@ -1,0 +1,461 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+İzmir|TR||94|2yp|23e|mo7|Esmirna;Smirne;Ismir;Smyrne;Azmir
+Isfahan|IR||7o|2ip|3zj|bxs|Ispahan;Esfahan;Dakbayan sa Esfahān;İsfehan;Esfahano;Iszfahán;Yspyhan;Isfahon;Gabai;Eşfehān;Espahān;Spahan
+Hong Kong Island|HK||6i|1pu|8t6|983|Hong Kong
+Yishui|CN||7i|2re|95j|7rr|I-shui
+Dera Ismail Khan|PK||6q|2gf|5gy|5w0
+Izhevsk|RU||9p|4dx|43s|502|Ischewsk;Iževsk;Iĵevsk;Izjevsk;Iżewsk;Iževska;Izsevszk;Iževskas;Izjefsk;Ishewsk
+Islamabad|PK||6q|2lo|5mw|4n4|Iszlámábád;Islamahbad
+Iskandar Puteri|MY||6v|3v|7zu|4g0|Nusajaya
+Staten Island|US||48|34o|-5py|3m7
+Esna|EG||c|1y9|2if|3kk|Asnā;Isnā
+Ismailia|EG||c|2d0|2hn|3bb|Ismáílíja;Al-Ismā’īlīyah;İsmailiye;Iszmáilija;Ismoiliya;Ismalia;El Ismalia;Al Ismā‘īlīyah;Ismailieh;Al Ismā‘īlīya;Ismailiyah;Ismailîya
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Iseyin|NG||u|m5|a0|2th
+Islington|GB||9b|3z6|-a|2gn|İslinqton
+Isfara|TJ||6d|33h|5g7|244
+Istaravshan|TJ||6d|32v|5bo|23z|Istarawschan;Istaravchan;Istaravšan;Istarawshan;Istaravšon;Istaravšanas;Istarawszan;Istaravsjan
+Marawi City|PH||71|m8|9l8|208|Islamic City of Marawi
+Isiro|CD||y|7p|24q|1yy|Isirio
+İskenderun|TR||94|2tn|2sh|1xx|Alexandria ad Issum;Alejandreta;Aleksandretta;Lissandretta;Alexandretta;Iskanderun;İskenderon;Alexandrette;Alessandretta
+Isesaki|JP||7q|2sw|aqo|1mv|Iseaki;Isezaki
+İzmit|TR||94|358|2b5|1im|Nicomédie;Nikomedia;Nicomedia;Nikomedeia;Ismit;Izmid
+Ise-Ekiti|NG||u|kq|f2|1gt
+Izumo|JP||7q|2q9|a8t|1c0|Isumo;Itsumo
+Isparta|TR||94|2ww|2cv|1bv|Ysparta;İzparta;Isbarta;Sparta
+Ishinomaki|JP||7q|2yq|awi|12y|Iŝinomaki;Isyinomaki;Isinomaki-chhī;Ishinomachi
+Isahaya|JP||7q|2j8|a18|11n|Isahaja;Isahara
+Isidro Casanova|AR||1l|-2oe|-4ir|10o|Isidro Kazanova;Isidrokasanova
+Ise|JP||7q|2ns|ajq|yb
+Isehara|JP||7q|2qc|aqz|sq
+Eastbourne|GB||9b|3x1|s|s9|Istbornas
+Isulan|PH||71|if|9m5|s7
+Nāḩiyat al Iskandarīyah|IQ||5z|2jd|3f7|ry
+Shkodër|AL||9y|38v|1i7|qk|Shkodra;Skadar;Szkodra;Škodra;İşkodra;Scutari
+Iserlohn|DE||8r|3yq|le|pi|Iserlaun;Izerlonas
+Isieke|NG||u|hq|mc|p0
+Usol’ye-Sibirskoye|RU||6k|42j|7zx|nv|Usolje-Sibirskoje;Usolye-Sibirskoye;Ussolje-Sibirskoje;Isol’ye-Sibirskoye;Usole Sibirskoe;Usel’ye-Sibirskoye
+Sliven|BG||9v|3al|215|n9|Islimiye;Sliwen;Islimje
+Ishwardi|BD||6a|1v1|6vf|ms
+Isiolo|KE||16|z|2we|lv
+East Kilbride|GB||9b|4aw|-bm|kx|Cille Bhrìghde an Ear;Keeill Vreeshey Hiar;Ist Kilbraidas;İst Kilbrayd;East Kilbridge
+Ishioka|JP||7q|2si|atn|kb|Isioka-chhī;Isioka
+Ishimbay|RU||7z|44h|4bo|jk|Iszymbaj;Iŝimbaj;Išembai;Išimbai
+Izmayil|UA||98|3hz|284|jf|Izmaïl;Ismail;Ismajil;Hacidar;Smeilu;İşmasıl;Izmajila;Izmajilas;Izmajil;İsmailiye;Mehmedabad;Smil
+Issia|CI||0|i1|-ib|iz
+Ishim|RU||7z|4bv|5d1|iu|Ischim;Iŝim;Isjim;Ichim;Byen Isjim;Iszym;Ixim
+City of Isabela|PH||71|im|9et|ip|Isabela;Lungsod ng Isabela;Isabel
+Iskitim|RU||75|47s|6fe|h6
+Korosten|UA||98|3xj|27k|h3|Koroszteny;Iszkoroszteny;Corostenia;Corosten;Iscorosten
+Issy-les-Moulineaux|FR||9k|3rm|6c|h2|Issy-les-Moulineau
+Eastvale|US||3p|2mc|-92k|ge|Ystvalis;Īstvela
+Ishikari|JP||7q|3c4|awn|gc|İşikari;Isikari-chhī
+Islāmpur|IN|West Bengal|6t|20z|6sz|fh
+Īstgāh-e Rāh Āhan-e Garmsār|IR||7o|2pv|41b|dr|Īstgāh-e Rāh Āhan Garmsār
+East Lansing|US||2q|3aq|-6io|dh|Orienta Lansingtono;İst-Lensinq
+Shtip|MK||9u|37z|1po|df|Štip;İştip
+Ishigaki|JP||7q|1vm|9kw|d8|Išigakis;Isigaki-chhī;Isigaki;Ishigachi
+East Providence|US||48|385|-5i9|d6|Rytinis Providensas;Īstprovidensa;Đông Providence
+Izyum|UA||98|3sp|2vk|cr|Izium;Izjum;Isjum;Izioum
+Chernyakhovsk|RU||96|47r|1om|ck|Insterburg;Tschernjachowsk;Czerniachowsk;Ĉernjaĥovsk;Černjachovsk;Įsrutis;Černjakhovsk;Černiachovskas;Tšernjahovsk;Chernyakovsky
+Istres|FR||9k|3cv|dv|cc|Istre;Istras
+Islington-City Centre West|CA||59|3d7|-64y|c8
+Istālif|AF||6o|2or|5bw|bi|Istālef;Istilif
+Ishaka|UG||q|-1i|2bq|bf
+Istok|XK||8q|3au|1kx|b4|Burimi;Istog;Burim;Istogu
+Madīnat ‘Īsá|BH||60|20p|3wf|al|Isa by;Madinat Isa;Isa Town;Madinat-İsa;Medine İsa;Medinat Isa
+Issaquah|US||3p|3o1|-9ez|a1|Issquah;Isquah
+Islāmpur|IN|Bihar|6t|1xu|6kp|9w
+Isumi|JP||7q|2pv|au0|9v
+Misungwi|TZ||h|-7x|2jw|9v|Isungwi;Missungwi
+Isingiro|UG||q|-2f|2dn|9j
+Razzakov|KG||65|32o|5d5|9i|İsfana;Isfina
+Istra|RU||9i|4bc|2uf|9a
+Esik|KZ||5s|3cg|5z5|96|Jessik;Iessik;Issyk;Jesyk;Isık;Issök
+Isoka|ZM||z|-s8|2in|8t
+Izu|JP||7q|2p5|apz|8j|Idzu;Isu
+Ishigami|JP||7q|2sp|aqj|8f|Ishikami;Ishikaki
+Eshtehārd|IR||7o|2r9|3vx|8c|Īshtahard
+Isawa|JP||7q|2r1|ap3|88
+Islāmnagar|IN||6t|26p|62p|83
+Ataşehir|TR|İzmir Province|94|2yx|236|81|İstasyonaltı
+Isakogorka|RU||9i|4z1|34x|7y
+Iskandar|UZ||7m|37f|5dm|7o|Iskander
+Ismayilli|AZ||61|35a|3pr|7n|Ismailly;Ismayylly;Ismanlli
+Isla|MX||41|1e3|-7dd|7b
+Ishqoshim|TJ||6d|2u0|5ix|78|Ishkashim
+Ishii|JP||7q|2mn|adg|6z
+Sīwah|EG||c|294|1yw|6y|Siwa Oasis;Isiwan;Oase Siwa;Siwa;Siuah;Siwe
+Isleworth|GB||9b|3z0|-y|6y
+Ishige|JP||7q|2sc|ast|6x
+Isnos|CO||27|5e|-5vs|6u
+Isa|JP||7q|2h3|a2t|6t
+Ishiki|JP||7q|2oo|akm|6o|Isshiki
+Isebania|KE||16|-3f|2nq|6n
+Isla Vista|US||3p|2nl|-98y|6f
+Isernhagen Farster Bauerschaft|DE||8r|41r|rc|6a
+Eisleben Lutherstadt|DE||8r|3z5|w3|69|Eisleben;Lutherstadt Eisleben;Islebia
+Ishikawa|JP|Okinawa|7q|21e|9v2|68
+İznik|TR||94|34b|2ak|66|Nicée;Nicea;Nikaia;Nicaea;Nicäa;Nikäa;Nizäa;Isnik
+Isla Cristina|ES||9d|2vc|-kc|5x
+Isaka|TZ||h|-au|2jh|5v
+Iisalmi|FI||92|4wk|23j|5n|Iisalmo;Idensalmi;Isal'mi
+Isil’kul’|RU||76|48j|5hz|5l|Isilkul;Isil Kol
+İskilip|TR||94|356|2nr|5i
+Ijevan|AM||80|35k|3hf|5f|Istibulagh;İcevan;Karvansara;Idschewan;Idjevan;Karvansaray;Iĝevano;Idževan;Idževanas;Iczewan;Idzhevan;Karavansarai;K’aravansaray;K’arvansara
+Ishøj|DK||8y|4ai|yb|5f
+Ishikawa|JP|Fukushima|7q|2v7|au5|58
+Ystad|SE||9w|49z|12e|58|Istadas;Ystao
+Iselin|US||48|34q|-5qg|57
+Islip|US||48|355|-5nd|57
+Ischia|IT||9o|356|12r|56|Iscla
+Isle of Lewis|GB||9b|4hq|-hr|55|Lewis;Leòdhas;Eilean Leodhais
+Ischia Porto|IT||9o|356|12r|52|Porto d’Ischia
+Ishitsuka|JP||7q|2tc|aty|51|Ishizuka
+Eslam Qaleh|AF||6o|2ob|4pn|51|Eslām Qal‘eh;Eslamqal‘a;Islām Qal‘ah
+Izluchinsk|RU||7z|4pe|5xo|50|Isłuczinsk;Islutschinsk
+Istiqlol|TJ||6d|34p|5dg|4w
+L'Isle-sur-la-Sorgue|FR||9k|3e0|e1|4q|L'Isle;Isle sur Sorgue;L'Illa de Sòrga;Isle sur la Sorgue
+Isernia|IT||9o|37k|13j|4p
+Isogo|JP||7q|2qd|aru|4n
+Islamgarh|PK||6q|2k7|5p4|4n
+Easthampton|US||48|39f|-5lv|4m|İsthempton;East Hampton
+Ishinari|JP||7q|2ko|a28|4j
+Issoire|FR||9k|3ii|91|4g|Soire;Iciodurum
+Isabela|PH||71|sc|9hn|4f|Isabella
+İstinye|TR||94|367|28p|4d
+Isanlu-Itedoijowa|NG||u|mz|g8|47|Isanlu Itedoijowa
+Ismaning|DE||8r|3pz|wg|42
+Isinya|KE||16|-4o|2ud|40|Sinya
+Isny|DE||8r|3oh|rw|40|Isna
+Issoudun|FR||9k|3mf|5j|40|Essaudun;Exoldunum
+Istmina|CO||27|ec|-5x1|3u|Istmia;Istmino
+Ismāilābād|IN||6t|2bo|5wz|3t
+Ispica|IT||9o|2u7|15f|3t
+Tsogni|GA||v|-7s|s8|3t|Isogni
+La Islita|CL||4u|-2lr|-5gv|3s|Islita
+Yzeure|FR||9k|3ld|9b|3q|Isodrus
+‘Isfiyā|IL||6n|2iw|2pf|3q|H̱osefa;Issfiya;Issfiyah;Isifiya;Hoseifa
+Isla de Maipo|CL||4u|-2lr|-5gy|3o
+Ishtixon Shahri|UZ||7g|331|54p|3m
+İspir|TR||94|34g|35v|3l
+Isla Mujeres|MX||2b|1mz|-6ox|3i
+Isāgarh|IN||6t|1x0|60c|3i
+Isabela|PR||4m|1fe|-566|3h
+Islamkot|PK||6q|1wm|5ey|3g
+L'Isle-d'Abeau|FR||9k|3iq|ei|3c|Isle-d'Abeau;Ile d'Abeau;L'Isle d'Abeau
+İscehisar|TR||94|2zy|2df|3a
+Istvánmező|HU||8v|3ny|1h2|3a
+Isaszeg|HU||8v|3o1|1hw|36
+Isselburg|DE||8r|3zz|hy|34|İsselburq
+Izola|SI||9a|3ii|11y|34|Isola d'Istria;Isola;Ižla
+Isola di Capo Rizzuto|IT||9o|308|1bh|32
+Islamey|RU||9i|3dc|3cq|31|Islamej
+Isola del Liri|IT||9o|37t|11s|30|Isola di Liri
+Psebay|RU||9i|3ek|35d|2z|Psebaj;Isebay
+Islāmpur|IN|Rajasthan|6t|267|5tu|2u|Salāmpur
+Isbergues|FR||9k|3wm|6u|2t|Iberque
+Isheyevka|RU||9z|477|3q3|2r|Laisjevka
+East Oak Lane|US||48|339|-5sp|2r|İst Ouk Leyn
+İstasyon|TR|Kars Province|94|34t|3bq|2q
+Isri|IN||6t|1un|6mz|2p
+Isperih|BG||9v|3dg|22j|2p|Isperich;Isperikh
+Īsāpur|IN||6t|1j8|64d|2m
+Isabel Segunda|PR||4m|1ef|-51s|2l|Isabell II
+Eshkanān|IR||7o|23n|44x|2j|Īshkanān
+Island Resort|HK||6i|1pv|8td|2i
+Isle of Normandy|US||48|1zt|-66m|2g
+Isamba|CD||y|-b7|1p2|2f
+Isabel|PH||71|ud|9ln|2e
+Isola della Scala|IT||9o|3hr|ul|2b
+Isnapuram|IN||6t|1cq|618|2b|Isnapur
+Isara|NG||u|jf|a8|2a|Ishara
+Isla Soyaltepec|MX||41|1ek|-7g0|29|Isla San Miguel Soyaltepec
+I kaupunginosa|FI||92|4nx|1pw|29|I stadsdel;I District
+Isle|FR||9k|3j8|3f|29|Isla
+Island Lake|US||2f|39g|-6sz|29
+Islāmpur|IN|West Bengal|6t|1qp|6sm|26
+Issenye|TZ||h|-5k|2nd|26|Isenye
+Isaías Coelho|BR||2w|-li|-37s|26
+Isale|BI||b|-9b|29w|25|Isare
+Isyangulovo|RU||7z|40z|4d7|23|Isiangulovo
+Yssingeaux|FR||9k|3he|bg|21|Sinjau;Issingeaux
+Işıklar|TR|Afyonkarahisar Province|94|2zf|2de|21
+Isle of Bute|GB||9b|4b4|-e2|20|Bute;Bure
+Isetskoye|RU||7z|4cw|51g|20|Isetskoje
+Island Bay|NZ||ak|-36u|dhh|20
+Seredyna-Buda|UA||98|40z|2mk|20|Seredina-Buda;Iseredinabuda
+Islamorada|US||48|1x8|-67z|1z
+Isola delle Femmine|IT||9o|2y3|10t|1z|Isula
+Islyam-Terek|UA||9t|3hn|2ps|1z|İslâm Terek;Kirovske;Isliam-Terek
+İshakpaşa|TR||94|31v|3ef|1y
+Izvoarele|RO|Dâmbovița County|8u|3h3|1y7|1w|Isvoarele
+Isen|JP||7q|24w|9y6|1u
+Iscar|ES||9d|36w|-cl|1u
+Iskateley|RU||9i|580|43n|1t|Iskatelej
+Ishpeming|US||2q|3l5|-6rj|1t|İşpeminq
+Isenbüttel|DE||8r|41o|te|1r
+Island Harbourview|HK||6i|1q0|8t4|1q
+Isla Aguada|MX||3z|1g7|-725|1q|La Aguada;Isla de Aguada
+Islaz|RO|Teleorman County|8u|3dg|1ws|1o|Izlaz
+Ispringen|DE||8r|3rw|o3|1o
+Isla del Bosque|MX||3x|1r5|-861|1m
+Iskushuban|SO||14|sk|3vj|1m|Scusciuban;Iskušuban;Skushuban
+Istok|RU|Sverdlovsk Oblast|7z|4dr|4ou|1l
+Ispas|UA||98|3q6|1y7|1k
+Issum|DE||8r|3z5|hv|1k
+Issa|RU||9i|45n|3gm|1j
+Isniq|XK||8q|3a8|1ke|1j
+Isanti|US||2f|3id|-771|1j
+Islip Terrace|US||48|356|-5nb|1i
+Isaccea|RO||8u|3hr|273|1i
+Iseo|IT||9o|3iu|rx|1h
+Iza|UA||98|3py|1st|1g|Isa
+Isen|DE||8r|3px|xi|1g|Jarna
+Izbiceni|RO||8u|3dq|1wi|1f|Isbiceni
+Isle of Arran|GB||9b|4ae|-eh|1f|Arran;Eilean Arainn
+Ishëm|AL||9y|37f|1ig|1e|Ishm
+Islām Chumgar|AF||6o|2vm|54m|1e|Islomchumgar;Islām Chomgar;Eslām Chūngar
+Ishcherskaya|RU||9i|3df|3hd|1d|Isjtsjerskaja;Isherskaya
+Istebna|PL||a5|3to|1gj|1d|Istebno
+Iscuandé|CO||27|6t|-60m|1d|Iscandé
+Işıklı|TR|Aydın|94|2x4|258|1c
+Islay (Matarani)|PE||3o|-1b8|-5ka|1c|Islay
+Island Park|US||48|34s|-5om|1c
+Is|RU||7z|4jb|4lw|1b
+Espakeh|IR||7o|22k|4n5|1b|Ispakeh;Aspakeh;Esfakeh
+İsabeyli|TR||94|2xa|26i|1a
+Ispravnaya|RU||9i|3ef|37l|1a|Ispravnaja
+Islington|ZA||o|-1we|2ev|1a
+Ispra|IT||9o|3j9|nx|19
+Issou|FR||9k|3s3|4z|19
+Isineti|KE||16|-7m|2w7|18
+Isakly|RU||9p|46d|3z6|18
+Isasani|IN||6t|1mm|63g|18
+Isola Vicentina|IT||9o|3ir|vt|17
+Istiaía|GR||8p|308|1sb|17|Istiea
+Isabella Plains|AU||8l|-2qf|bi5|17
+Iskar|BG||9v|3cq|1ve|17|Iskŭr
+Isokyrö|FI||92|4v1|1q1|17|Storkyro
+Isla Verde|AR||1n|-2kc|-4tc|16
+Isle of Palms|US||48|2j3|-65n|15
+Jermuk|AM||80|32o|3iv|15|Istisu;Cermuk;Dschermuk;Djermouk;Džermuk;Ĝermuk;Dzjermoek;Džermukas;Dzsermuk;Dzhermuk
+Is-sur-Tille|FR||9k|3o1|e7|15
+Iztapa|GT||32|12p|-6zz|14|Istapa
+Işalniţa|RO||8u|3fc|1tx|14
+Izvoarele|RO|Olt|8u|3ez|1w4|12|Isvoarele
+Ixtahuacán|GT||32|16u|-72x|11|Istaguacán
+Yavaros|MX||37|227|-8g8|11|Isla las Viejas;Yabaros
+Istrana|IT||9o|3iw|xm|11
+Isugod|PH||71|py|944|11
+Ixhuatán|MX||41|1c1|-76d|10|Ishuatán
+Izhma|RU||9i|50l|45r|10|Izjma;Ishma
+Isorella|IT||9o|3hv|so|10
+Ischitella|IT||9o|38e|186|z
+Isabang|PH||71|12s|9dp|z
+Isle of Islay|GB||9b|4az|-hc|z|Islay;Ìle;Queen of the Hebrides
+Issenheim|FR||9k|3p2|k5|y|Eisenheim;Isenheim
+Istead Rise|GB||9b|3yt|z|y
+Iswepe|ZA||o|-22k|2cu|y
+Islandia|US||48|35c|-5n9|y
+Ishnya|RU||9i|4ev|31c|x|Isjnja
+Iset’|RU||7z|4ea|4np|w|Iset
+Isabela de Sagua|CU||36|1rq|-669|w
+Ishley|RU||9i|4bm|3mp|w|Isjlej;Ishlei
+Isigny-sur-Mer|FR||9k|3t0|-32|v
+Isigny-le-Buat|FR||9k|3r2|-39|v
+İsaağa|TR||94|31u|3db|v
+Istok|RU|Buryatiya Republic|6k|40q|875|v
+Ishkhoy-Yurt|RU||9i|3c1|3kv|v|Isjkhoj-Jurt;Balç-Evl;Išhoj-Jurt;Işxoyn-Evla
+Island Walk|US||48|20x|-6az|u
+Isernhagen-Süd|DE||8r|41o|r8|u|Isernhagen
+‘Eşmatābād|IR||7o|2rl|3v3|u|Īsmatabad
+Islington|JM||3i|1ev|-5xh|u
+Ishun’|UA||9t|3jk|2ly|t|Üjšün
+Izambré|CI||0|hf|-gq|t|Issambré
+Isili|IT||9o|32e|pb|s
+L'Île-Rousse|FR||9k|3af|ou|s|L'Isula Rossa;Lìsula;Isola Rossa;Île Rousse
+Işıklı|TR|Gaziantep|94|2v7|2vb|s
+Ísafjörður|IS||87|53j|-1s9|r|Ísafjörð;Ísafirði;Ísafjarðar;İsafyordür;Issafjörður;Isafiordr
+Isthmía|GR||8p|2xb|1rw|r
+Issaguen|MA||d|2p0|-cp|r
+Isle Of Mull|GB||9b|4ct|-g1|r|Muile
+Korčula|HR||a6|3bc|1bm|r|Curzola;Isola di Curzola
+Izvoru de Sus|RO||8u|3gi|1wh|q|Isvorul de Sus
+Èze|FR||9k|3dh|kg|q|Esa;Isia
+Istria|RO||8u|3ft|27s|q
+Spermezeu|RO||8u|3ne|1v3|q|Ispánmező;Spermezu
+Israelândia|BR||4w|-19c|-3xf|q
+Isverna|RO||8u|3gy|1qv|p|Izverna
+Isla|PH||71|186|9a6|o
+Isshōchi|JP||7q|2hk|a2w|o
+Isle of Hope|US||48|2gu|-696|o
+Isola Rizza|IT||9o|3ht|v4|o
+Isneauville|FR||9k|3ti|37|o
+Isidoro Noblía|UY||45|-2gs|-46c|n
+Isaacs|AU||8l|-2q9|bi8|n
+Izvoarele Sucevei|RO||8u|3on|1xy|n|Isvoarele Sucevii
+Isleham|GB||9b|41e|15|m
+Isles of Scilly|GB||9b|3up|-hi|m|Syllan;Enesek Syllan
+Ischia di Castro|IT||9o|3a6|wo|m
+Isaac Arriaga (Santa Ana Mancera)|MX||41|1k9|-7tx|m
+Isola del Gran Sasso d'Italia|IT||9o|3a2|11y|m|Isola del Gran Sasso
+İstiklal|TR|Kars Province|94|341|3ae|l
+Isola d'Asti|IT||9o|3gj|mq|k
+Taquile|PE||3o|-17t|-5dk|k|Isla de Taquili;Intika;Taquila
+Iscroni|RO||8u|3i2|1su|k
+Islas Agrarias Grupo A|MX||58|2il|-8wd|k
+Issé|FR||9k|3oa|-41|j|Izeg
+Iso-Heikkilä|FI||92|4nx|1pq|j|Storheikkilä
+25 de Mayo|UY||45|-2mz|-4ci|j|Veinticinco de Mayo;Isla Mala
+Islita|MX||37|2hy|-8v3|i
+Isle of South Uist|GB||9b|4f1|-kd|i|South Uist;Uibhist a Deas
+Islington|AU||8l|-2jf|bpj|i
+Sullivans Island|US||48|2j0|-65s|i|Sullivan's Island;Isola di Sullivan;Sullivanův ostrov
+Isojoki|FI||92|4sj|1p0|i|Storå
+Vilne|UA|Odesa|98|3jq|28p|h|Vyp'ne;Iserlia
+Island Heights|US||48|32y|-5pz|h
+İstiklal|TR|Ağrı|94|32k|3al|g
+Istaro|MX||41|1hp|-7un|g
+Izvaryne|UA||98|3q5|32u|g|Izvarino;Iswaryne;Izvarine;Izvarõne;Izwaryne;Izvorino
+Isla de Cañas|AR||1s|-1rm|-4zn|f
+Işıklı|TR|Mersin|94|2t3|2kp|f
+Isla Pucú|PY||1y|-1yb|-4e2|f
+Işıklar|TR|Canakkale|94|33j|21m|f
+Hajdučica|RS||8q|3hp|1m8|f|Istvánvölgy;Ajdučica;Hajdusicz;Haiduciţa;Hajdusicza
+Isayeve|UA||98|3nw|2cq|f|Issaïévé
+Isla Bastimentos|PA||4g|pu|-6c5|f|Isla de Bastimentos
+Spanish Wells|BS||47|1yz|-5x8|f|İspanyol Kuyuları;Ispaniyaning Quduqlari;Sumur Spanyol;Telaga Sepanyol;Pozos Españoles;Puits Espagnols;İspan Quyuları;Spanische Brunnen;Poços Espanhóis
+Izvoarele|RO|Giurgiu County|8u|3ep|213|f|Isvoarele
+Isla Holbox|MX||2b|1ns|-6qq|f|Holbox
+Istia D'Ombrone-Le Stiacciole|IT||9o|3au|v3|f
+Istán|ES||9d|2tm|-dr|f
+Isangel|VU||ap|-1ia|d28|e
+Isle of Cumbrae|GB||9b|4ax|-do|e|Great Cumbrae;Cumbrae;Cumaradh Mòr
+San Ignacio de Tupile|PA||4g|pu|-614|e|Dad Nakued Dupir;Kannir Dup;Isla Gallina
+Iisaku|EE||9x|4k6|23v|e|Isaku
+Isola del Giglio|IT||9o|39o|ub|e|Isla del Giglio;Giglio;Isula di u Gigliu;Giglio saar;Illa del Giglio;Igilium;Džilijas;Ìsula dû Gigghiu;Giglio Island
+Isnello|IT||9o|2xe|12x|e|Isneddu
+İshaklı|TR|Istanbul|94|36a|29e|e
+Issogne|IT||9o|3it|ld|d
+Isle of North Uist|GB||9b|4g1|-ke|d|North Uist;Uibhist a Tuath
+Islaz|RO|Ilfov|8u|3fi|21b|d
+Islantilla|ES||9d|2vd|-k4|d
+Izky|UA||98|3r5|1sw|d|Iszka;Iska;Izki
+Ischgl|AT||a2|3ml|sl|c|Išglis
+Izvoarele|RO|Mehedinți County|8u|3f3|1qy|c|Isvoarele
+Isières|BE||8t|3wq|am|c
+Isca Marina|IT||9o|2z8|1a0|c
+Isola Dovarese|IT||9o|3hh|sn|c
+Işıklar|TR|Şanlıurfa|94|2ur|33h|c|Yusufharabası
+Isques|FR||9k|3wr|4l|c
+Ysper|AT||a2|3q5|15u|b|Isper
+Island View Heights|CA||43|3hn|-53p|b
+Isolaccia|IT||9o|3l5|sl|b
+Izvoare|RO|Neamț County|8u|3mb|21j|b|Isvoare
+Issoneu|CI||0|k4|-lt|b|Isoneu
+Iskrivka|UA|Kirovohrad|98|3pv|2kq|b|Iskrovka
+Issad|RU||9i|4mv|2hu|b|Izsad
+Isoverde|IT||9o|3fp|om|b
+Issikro|CI||0|m0|-98|b|Essikro
+Izvoru Dulce|RO|Buzău County|8u|3hy|22e|b|Isvorul-Dulce;Izvorul Dulce
+Isola D'Arbia|IT||9o|3c6|vm|b
+Islas Agrarias Grupo B|MX||58|2ik|-8w7|b
+İstasyon|TR|Kars Province|94|342|3aa|b
+Tsáda|CY||73|2os|2i7|a|Isada;Tsadha
+Isahakyan|AM||80|34u|3dh|a|Kazarapat;Kharum;Isaakyan;Khazarapat;Isahakian
+Lislāmīn|SY||69|2rm|2ui|a|Islâmîne;Islāmīn
+İşgören|TR||94|2wm|34y|a
+Island City|US||3p|3hy|-93w|a|Insulurbo
+Izborsk|RU||9i|4gb|25e|a|Vana-Irboska;Irboska;Isborsk;Irbosk;Isborscum
+Izvoarele|RO|Galați County|8u|3ij|255|a|Isvoarele
+Isera|IT||9o|3jh|ul|a
+Islington|NZ||ak|-3cy|db6|a
+Isola del Cantone|IT||9o|3g1|ow|9|L’Isöa do Canton
+Izvoru Dulce|RO|Buzău County|8u|3hb|21z|9|Isvorul Dulce
+Ishanpur|IN||6t|2d4|5vg|9
+Gannirdup|PA||4g|oq|-5zu|9|Isla Venado;Coetupu;Coetupo
+İstisu|AZ||61|32z|3jo|9|Jermajur
+East Marion|US||48|369|-5ky|9|İst Marion
+Iserables|CH||a7|3k8|k4|9
+Iskākā|PS||6g|2h6|2pu|9
+Isztimér|HU||8v|3nc|1ek|9|Ißzimmer
+Iskivtsi|UA|Poltava|98|3uq|2j5|9|Iskovtsy
+Isnes|BE||8t|3wb|d5|9
+Işıklar|TR|Aydın|94|2xq|26s|9
+Işıklar|TR|Aydın|94|2wv|27u|9
+Isles-lès-Villenoy|FR||9k|3rv|7v|9
+Isgender|TM||5x|30k|4bd|9|Iskander
+Isserstedt|DE||8r|3xk|w0|8
+Issy-l'Évêque|FR||9k|3lr|b1|8
+Isleton|US||3p|2y0|-9dt|8
+Island Falls|US||48|3jt|-59n|8
+Idstedt|DE||8r|47n|qf|8|Isted
+‘Īsvand|IR||7o|28z|3xy|8
+Island Pond|US||48|3gh|-5jo|8|Islandpond
+Ispacas|PE||3o|-17s|-5mk|8
+Isla Tigre|PA|Guna Yala|4g|q7|-624|8
+Ispagnac|FR||9k|3f9|9t|8
+Izvoru Mureșului|RO||8u|3lj|1zc|8|Marosfő;Isvorul-Mureşului;Izvorul Mureşului
+Izvorani|RO|Arges|8u|3gn|1xa|8|Isvorani
+Isle|US||2f|3k6|-77n|8
+Isham|GB||9b|41g|-1y|8
+Isolalta|IT||9o|3hy|uc|8
+Isla Arena|MX||3z|1lh|-6z9|8
+Izvoarele|RO|Gorj County|8u|3g8|1t0|7|Isvoarele
+Isla Cedros|MX||58|2i3|-914|7
+Iskivtsi|UA|Poltava|98|3vm|2k9|7|Iskovtsy;Yuskovtsy
+Istochnoye|UA||9t|3jj|2mj|7
+Işıklı|TR|Adana|94|2vt|2rg|7
+Iscos|PE||3o|-xm|-5t5|7|Izcos
+Ise|NO||9j|4kq|v6|7
+İstasyon Mahallesi|TR||94|357|3d6|7
+Isla Guadalupe|MX||41|1em|-766|7
+Izvoru|RO|Vâlcea County|8u|3g9|1v5|7|Isvoru
+Islaltepec (Las Parotas)|MX||41|1a2|-7mk|7
+Issigeac|FR||9k|3g9|1p|7|Sijac
+Isles-sur-Suippe|FR||9k|3t4|bo|7|Isle-sur-Suippe
+Isenburg|DE||8r|3w8|l4|7
+Ispoure|FR||9k|3bx|-3f|7|Izpura
+Iskrivka|UA|Poltava|98|3ue|2pq|7|Iskrovka
+Ístro|GR||8p|2pk|1zi|7
+Isola|US||2f|2ke|-6zn|7
+Izeron|FR||9k|3he|ex|7|Iseron
+Isles-les-Meldeuses|FR||9k|3s4|8d|7
+Andriyivka-Klevtsove|UA||98|3ph|2tn|7|Iskra;Andriyivka;Andriivka;Andriivka-Klevtsove;Andreyevka
+Izvoru|RO|Dâmbovița County|8u|3fx|1yh|7|Isvoru
+Isla Cozumel|MX||58|2i4|-914|7
+Islip|GB||9b|3zy|-3g|7
+Iskrzyczyn|PL||a5|3uc|1g2|6
+Isenvad|DK||8y|4bu|pk|6
+Isola|IT||9o|3df|u8|6
+Islesboro|US||48|3f3|-5be|6
+Izvorani|RO|Ilfov|8u|3g6|20k|6|Isvorani
+İslahiye|TR||94|35g|2e8|6
+İstilli|TR||94|35f|2ed|6
+Eysus|FR||9k|3bu|-1n|6|Eisús;Isuazi
+Ispaster|ES||9d|3ch|-71|6|Ipazter
+Isterberg|DE||8r|41f|jv|6
+Isorelle|IT||9o|3ft|ow|6
+Issoufkro|CI||0|h9|-93|6
+Isola|FR||9k|3er|jl|6
+Is-en-Bassigny|FR||9k|3pf|f5|6
+Novozhukiv|UA||98|3wq|203|6|Iskra
+Isle aux Morts|CA||50|3o6|-4ju|6
+Is Urigus|IT||9o|30p|nl|6
+Istobensk|RU||97|4ia|3rj|6|Istobinsk
+Iskino|RU||7z|47g|4bb|6
+Isenthal|CH||a7|3mb|ns|6|Isental
+Isle-Saint-Georges|FR||9k|3g9|-1b|6|LIsla dAruan;LIsla Sent Jòrgi;Isles-Saint-Georges
+Isle-Aumont|FR||9k|3px|bh|6
+Istvándi|HU||8v|3ju|1cy|5|Išvandin
+İslâmlar|TR||94|2ts|2ao|5
+Isla Tigre|PA|Bocas del Toro Province|4g|pi|-6c0|5
+İshaklı|TR|Antalya|94|2t7|2hc|5
+Isdes|FR||9k|3of|6a|5
+Isseroda|DE||8r|3xk|v6|5
+İskender|TR||94|37n|223|5
+Isolabona|IT||9o|3dw|l8|5|L'Isora
+West Island|CC||ab|-xs|7gy|1|Isla oeste

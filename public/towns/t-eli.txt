@@ -1,0 +1,91 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+Lubumbashi|CD||y|-we|24c|h57|Élisabethville;Elizabethstad;Lubumbašis;Lubumbaši;Lumumbashi;Elizabethville
+Batman|TR||94|2x9|369|3hm|Êlih
+Elazığ|TR||94|2zf|30y|3f6|Elezîz;Elazıı;Eliazihas;Elâzız
+Ismailia|EG||c|2d0|2hn|3bb|Ismáílíja;Al-Ismā’īlīyah;İsmailiye;Iszmáilija;Ismoiliya;Ismalia;El Ismalia;Al Ismā‘īlīyah;Ismailieh;Al Ismā‘īlīya;Ismailiyah;Ismailîya
+Elche|ES||9d|2ya|-1y|1t8|Elx;Illici;Elig;Elch;Elčė
+Kropyvnytskyi|UA||98|3qr|2hn|1p1|Kirowohrad;Kirovohrad;Kirowograd;Kirovograd;Kirovoqrad;Kirovohrado;Kirovohradas;Kirovogrado;Kirovohrada;Yelisavetgrad;Jelizawietgrad;Zinowjewsk;Kropywnycki;Jelisawetgrad;Kropywnyzkyj;Kirovo;Zinovievsk;Zinovyevsk;Elisavetgrad;Elizabethgrad;Kirivograd;Kropivnicki
+Elizabeth|US|New Jersey|48|34y|-5q5|zu|Elizabetas
+Elista|RU||9i|3kn|3ey|tq|Elist;Eliszta;Elst
+Erzsébetváros|HU||8v|3ny|1gz|h8|Quận VII;Elisabethstadt;VII. Budapester Bezirk;Budapest VII. kerület
+Al Ibrāhīmīyah|EG||c|2dc|2fo|ey|El-Ibrâhîmîya
+Yelizovo|RU||6p|43r|c7y|bb|Jelizovo;Elizovo
+Elixku|CN||7t|2zj|5yx|a8|Élishqu
+El Idrissia|DZ||3|2np|71|8b
+Elizabethtown|US|Kentucky|48|2wp|-6mi|89
+Alice Springs|AU||8e|-1tu|abw|77|Springs;Elis Springsas;Alisspringsa;Alic-Fonto;Elis Springs
+Ely|GB||9b|41k|q|5q|Elig;Ilis
+Elizabeth City|US||48|2st|-5vt|50
+Elias Fausto|BR||4w|-1s0|-3nl|4x
+Elizabethton|US||48|2sz|-6cd|3u
+Elizabethtown|US|Pennsylvania|48|33j|-5ws|38|Betzischteddel
+Elivāla|IN||6t|yc|5wm|2q
+Elimäki|FI||92|4oo|21j|2g|Elimä
+Dumbrăveni|RO|Sibiu County|8u|3kf|1w9|2a|Elisabethstadt;Erzsébetváros;Ebesfalva
+Elísio Medrado|BR||20|-zz|-31s|26
+Elin Pelin|BG||9v|3aj|1tk|22
+Elin-Yurt|RU||9i|3db|3gw|20|Gvardeyskoye;Gvardejskoje;Gvardeyskoe;Èlin-Jurt;Ali-Yurt
+Eliot|US||48|3bv|-5go|1t
+Elizabeth Bay|AU||8l|-2m3|bo3|1h
+Elizabeth Downs|AU||8b|-2oe|ap9|1e
+Ilaskhan-Yurt|RU||9i|3c8|3k2|19|Beloreçenskoe;Elisxan-Yurt;Ilisxan-Yurt;Beloreč’e;Eliskhan-Yurt;Belorech’ye;Ilasxan-Yurt;Ilaskhan-Jurt
+Elizabeth Vale|AU||8b|-2oj|ap7|18
+Elizabeth East|AU||8b|-2oh|ap8|18
+Eliseu Martins|BR||2w|-mi|-3da|18
+Elifköy|TR||94|2vu|2x8|14|Elif Köyü
+Elimbah|AU||8c|-232|bsv|13|Elimba
+Elizabeth Park|AU||8b|-2of|ap9|13
+Elinso|CI||0|jf|-ac|12|Elinsso
+Elim|US||48|33y|-63a|11
+Elizabethtown|US|North Carolina|48|2o7|-62d|10
+Elizabeth North|AU||8b|-2of|ap8|z
+Elizondo|ES||9d|3bv|-48|z
+Eli Waters|AU||8c|-1y8|bsh|x
+Elisiário|BR||4w|-1mt|-3sf|v|Eliziário
+Elíxir|HN||56|170|-6nq|v
+Elixhausen|AT||a2|3oz|10b|u
+Elliant|FR||9k|3pc|-at|t|Eliant
+Elizabeth South|AU||8b|-2oh|ap6|s
+Elizabeth Hills|AU||8l|-2m6|bn1|p
+Elizabeth Grove|AU||8b|-2oi|ap7|o
+Elikesik|TR||94|2tn|2gp|l
+Elida|US||48|35b|-6hw|j
+Elikístra|GR||8p|2y6|1ok|h|Elekístra
+Elim|ZA||o|-2o3|1iw|h
+Ellijay|US||48|2od|-6io|h|Elijay;Elija;Ellija
+Elitnyy|RU|Novosibirsk Oblast|75|48j|6ef|g
+Elizabeth|US|Pennsylvania|48|33v|-65x|f
+Elizabethville|US||48|34n|-5xd|f
+Elizabeth|US|Colorado|2p|31c|-82k|e
+Elishama‘|IL||6n|2hb|2p1|c|Elišama;Elisjama i Israel;Elishama
+Elizówka|PL||a5|3yi|1qq|c
+Eljas|ES||9d|33q|-j1|b|As Ellas;Elijas
+Elías|CO||27|5l|-5uy|b
+Elitne|UA||98|3ux|2tm|b|Radhospne;Radhospnoye
+Eliseni|RO||8u|3kl|1xa|b
+Elizabeth|AU||8b|-2og|ap7|a
+Eliman|CI||0|ek|-8w|a|Elima
+Elie|GB||9b|4c3|-7u|9
+Elitnyy|RU|Krasnodar Krai|9i|3hx|2xx|9
+Eliá|GR||8p|2q2|1y3|9|Elaía
+Elizabeth|US|West Virginia|48|30i|-6a4|8
+El Ideal|MX||2b|1m0|-6r6|8
+Élincourt-Sainte-Marguerite|FR||9k|3tl|7u|8
+Elifoğlu|TR||94|2un|2xj|8
+El Infiernillo|MX||41|1kb|-7uw|8
+Eliaçık|TR|Ağrı|94|32e|3bu|8
+Eliaçık|TR|Diyarbakır Province|94|2xb|34r|8|Këpekli;Kopeklî
+Elizabethtown|US|New York|48|3eu|-5of|8
+Elizabeth|US|Illinois|2f|39k|-6ym|7
+Elyashiv|IL||6n|2hy|2oz|7|Eljašiv;Eliashiv;Elyaşiv
+Élincourt|FR||9k|3v0|9d|7
+Ekīs|IR||7o|2vh|3kd|7|Elīs
+Alibey|TR|Mardin|94|2vg|33d|7|Elîbeg
+Elifelet|IL||6n|2jj|2qr|7
+El Ixcán|MX||41|18p|-711|6
+Alibardak|TR||94|2xu|34a|6|Elîbardaxan
+Elizabeth|US|Louisiana|2f|2dr|-75r|6
+El Islote|MX||41|1gp|-7ou|5
+Glínos|GR||8p|31r|1oq|5|Elínos
+Elizabethtown|US|Indiana|38|30q|-6md|5|Elizabeth Town

@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Gdańsk|PL||a5|46z|1ft|3re|Dancigo;Danzig;Gduńsk;Gydanysg;Danzica;Gedanum;Qdansk;Dantsic;Gdanjsk
+Gdynia|PL||a5|47g|1fh|1ze|Gdingen;Gdiniô;Civitas Gdinensis;Gdynė;Gdiņa;Gdyňa;Kak-tên-nì-â;Gdinya;Qdınya
+Gdov|RU||9i|4j6|25a|1j|Oudova;Qdov;Outova;Gdow

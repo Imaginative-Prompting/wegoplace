@@ -1,0 +1,121 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bishkek|KG||65|3b3|5r7|6y0|Bischkek;Biskek;Bisjkek;Biŝkeko;Bichkek;Biškekas;Biszkek;Bisqueque;Bixkek;Biškeka;Bişqeq;Biscecum;Pishkek
+Bishan|CN|Chongqing|7i|2a7|872|1kv|Pi-shan
+Pisa|IT||9o|3df|sw|uk|Pizo;Pise;Piza
+Pesaro|IT||9o|3dz|zw|lg|Pèsaru;Pisaurum
+Pistoia|IT||9o|3e1|uc|ki|Pistoria;Pistòja
+Pisco|PE||3o|-123|-5vp|h7|Piskas;Pisqu llaqta
+Piscataway|US||48|34i|-5qo|fk|Piscattaway
+Pīshvā|IR||7o|2q3|3zp|ez|Pīchvā
+Piskent|UZ||7m|35m|5cn|9p|Pskentas;Pskent
+Písek|CZ|South Bohemian Region|9m|3sz|13b|8m|Pysekas;Piseca
+Piscinola|IT||9o|35l|13j|7n
+Pishin|PK||6q|2cy|563|6q
+Pisochyn|UA||98|3ur|2sa|6j|Pesochin
+Pissila|BF||1a|10k|-2a|6i
+Pisz|PL||a5|44z|1ol|5c|Pišas;Piša
+Pyskowice|PL||a5|3w0|1fr|5a|Piskovice;Pyskowicy
+Pīshīn|IR||7o|20g|4rj|4g
+Simeria|RO||8u|3jd|1ry|3u|Piski;Simerija
+Pyshma|RU||7z|4e7|4vp|2t|Pysjma;Pyschma;Pisma;Põšma;Pyszma;Pisjma
+Pismo Beach|US||3p|2pm|-9b4|2a|Pizmobīča
+Piskivka|UA||98|3wt|2aa|1x|Peskovka
+Pissékou|CI||0|hh|-g6|1o
+Pisticci|IT||9o|347|1a0|1o|Pesticium
+Pīshkamar|IR||7o|2w9|4af|1m
+Piste|MX||3z|1li|-6u3|1j
+Piscu Vechi|RO||8u|3dy|1sd|1i|Piscul-Vechiu;Piscu-Vechiu
+Pishchanka|UA|Vinnytsia|98|3px|288|1h|Pișceanka;Pichtchanka
+Pisogne|IT||9o|3j9|s3|1g|Piscogne
+Piscu|RO|Galați County|8u|3ie|251|1e
+Pishchane|UA|Poltava|98|3sg|2ks|1d|Peschanoye;Peschanskoye
+Pishaj|AL||9y|35k|1k2|1d
+Pisarzowice|PL|Silesia|a5|3uk|1h7|1b
+Pista|IT||9o|3gq|ny|17
+Pishchanka|UA|Dnipropetrovsk|98|3r1|2q5|16|Pishanka;Peschanka
+Marina di Pisa|IT||9o|3db|sj|14|Pisae Maris;Marina de Pisa
+Pazin|HR||a6|3ho|12q|14|Pisino;Pisinum;Pixin
+Pishchane|UA|Cherkasy|98|3u7|2gg|12|Peschanoye
+Piskavica|BA||9r|3gn|1b5|12
+Pistakee Highlands|US||2f|39t|-6t1|z
+Peaceful Valley|US||3p|3ry|-9fb|x|Pisful Vali
+Pischchana|UA||98|3pp|2al|w|Pichtchanka
+Pyzdry|PL||a5|40x|1d5|w|Pizdri;Pisdri;Pießern;Peisern
+Pişcolt|RO||8u|3o6|1py|w
+Piszczac|PL||a5|40e|1sy|v
+Pişchia|RO||8u|3ji|1na|u
+Pistsovo|RU||9i|4eu|34l|s
+Pispala|FI||92|4qu|1tv|s
+Piscina|IT||9o|3gs|kn|r
+Pisky-Radkivski|UA||98|3sv|2wh|p|Peski-Rad'kovskiye;Pisky-Rad’kivs’ki
+Pisaflores|MX|Veracruz|41|1l9|-7k1|n
+Pisky|UA|Poltava|98|3vx|2kx|m
+Piscopio|IT||9o|2ze|18r|l
+Pisaflores|MX|Hidalgo|41|1mv|-7n1|l
+Píšť|CZ||9m|3uu|1ej|l
+Pisac|PE||3o|-11a|-5jl|k
+Písek|CZ|Moravian-Silesian Region|9m|3to|1g8|j|Piasek;Piosek
+Pisky|UA|Zaporizhzhia|98|3lv|2u8|i
+Pishchane|UA|Sumy|98|3xj|2mn|h
+Pysarivka|UA|Odesa|98|3ph|28p|h|Pisarevka
+Pisarzowice|PL|Lower Silesia|a5|3y2|16b|g|Mittel Schreibersdorf;Schreibersdorf
+Pistrino|IT||9o|3cv|xr|g
+Pischelsdorf in der Steiermark|AT||a2|3n1|17x|f
+Pishchane|UA|Volyn|98|3z3|1xx|f
+Piškorevci|HR||a6|3hq|1f4|e
+Piscila|MX||41|1h8|-802|e
+Piscu Sadovei|RO||8u|3dw|1ui|d
+Pissy-Pôville|FR||9k|3tl|2r|d
+Pisignano|IT|Emilia-Romagna|9o|3ew|y3|c
+Pissotte|FR||9k|3l6|-29|c
+Piscu Nou|RO||8u|3e0|1se|c|Piscul-Nou
+Pissos|FR||9k|3f3|-26|c
+Pishcha|UA||98|3zd|1u6|c|Piszcza
+Piskorowice|PL||a5|3vk|1ql|b
+Pissoúri|CY||73|2ob|2iu|b|Pissuri
+Písečná|CZ|Moravian-Silesian Region|9m|3tp|1g7|b
+Písečná|CZ|Olomouc Region|9m|3vn|1bx|b
+Pisignano|IT|Apulia|9o|33y|1er|a
+Pishchane|UA|Poltava|98|3u6|2mv|a
+Piscoiu|RO||8u|3gl|1tz|a
+Pasjane|XK||8q|39t|1nq|a|Pisjan;Pasjan;Posjane;Pasijane
+Episkopí|GR|Crete|8p|2py|1y4|a|Piskopí
+Piscuri|RO||8u|3ge|1sz|a
+Pisky|UA|Mykolaiv|98|3nj|2hl|a
+Pișteștii din Deal|RO||8u|3h3|1t0|9|Pistesti din Deal
+Pīshkenār|IR||7o|2v6|3u3|9|Pishkanar
+Pantokrátor|GR||8p|2wt|1lv|9|Pisinóndas;Pandokrátor Pisinóndas
+Püssi|EE||9x|4kw|235|9|Piusis;Pisi;Pyussi;Puessi
+Piscu|RO|Ilfov|8u|3g9|20f|8
+Piscinas|IT||9o|30j|o3|8
+Pisarowce|PL||a5|3to|1pe|8|Pisarzowce
+Piškorovec|HR||a6|3ky|1a2|8
+Pistrialovo|UA||98|3qd|1rc|8|Pestryalovo;Pistryalove;Pistryalovo
+Pisoniano|IT||9o|38f|100|8
+Pisciotta|IT||9o|33f|16b|8
+Pisky|UA|Mykolaiv|98|3my|2gh|7|Lisky
+Pisany|FR||9k|3iy|-26|7
+Piscop|FR||9k|3s5|6j|7
+Pīsheh Var|IR||7o|2vo|3u1|7|Pīshevar;Pīseh Var
+Pysarivka|UA|Poltava|98|3ta|2o5|7|Pisarevka
+Pisgah|US|Alabama|2f|2oc|-6mh|7
+Písařov|CZ||9m|3uw|1ao|7
+Pisano|IT||9o|3j8|nn|7
+Pisgah|US|Alabama|2f|2gw|-6n8|7
+Pisculești|RO||8u|3gj|20a|7|Fisculeştii
+Piseux|FR||9k|3rh|2p|6
+Pisky|UA|Poltava|98|3uy|2jx|6|Peski
+Pisana|IT||9o|3hh|wn|6
+Pistorf|AT||a2|3lx|16p|6
+Pischchanyy Brid|UA||98|3n5|2f9|6|Pichtchanyï Brid
+Pishchanivka|UA||98|3ll|2j8|6|Maksyma Gor’koho
+Písková Lhota|CZ||9m|3vx|15b|6
+Písečné|CZ||9m|3s0|16y|6
+Pișcari|RO||8u|3od|1r5|6
+Pyshnenky|UA||98|3v3|2ns|5|Pyshnenki;Pishnenki
+Piskoshyne|UA||98|3my|2on|5
+Pischelsdorf|AT||a2|3pc|1a1|5
+Pisticci Scalo|IT||9o|34a|19z|5
+Pischeldorf|AT||a2|3lo|145|5
+Piscu Radului|RO||8u|3jo|22h|5|Piscul Radului
+Pisieu|FR||9k|3i3|e2|5

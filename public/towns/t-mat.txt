@@ -1,0 +1,392 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Moscow|RU||9i|4av|2wi|283o|Moskau;Moscou;Moscú;Moskvo;Moskou;Moskva;Mòskwa;Moscfa;Moskova;Moscó;Moscova;Moszkva;Mosca;Moskuas;Moscua;Maskva;Maskava;Moscovo;Mát-xcơ-va;Mosku;Mosko;Moskowa;Moskow;Moska;Matxcơva;Moskov;Moskovu
+Madrid|ES||9d|34a|-aa|p4f|Madril;Madrit;Matritum;Madryt;Maidrid;Los Madriles;Makelika;Mairil;Mā-dáik-lī;Mâ-tet-lî
+Madurai|IN||6t|rk|610|bb4|Maduraj;Madurajus;Mathurai;Madura
+Matola|MZ||11|-204|2i6|992
+Maturín|VE||2c|r3|-4vi|4zv
+Matsuyama|JP||7q|2m0|a8t|3y0|Macujama;Matsujama;Matuyama-chhī;Matuyama
+Heroica Matamoros|MX||3w|1zw|-7iu|3xv|Matamoros
+Matsudo|JP||7q|2re|asm|3ui|Matudo-chhī
+Ciudad López Mateos|MX||41|1ia|-7nn|3rw|Adolfo López Mateos
+Mataram|ID||70|-nu|8yk|3ej
+Machida|JP||7q|2qq|ard|3br|Mačida;Matida-chhī
+Matadi|CD||t|-g8|11e|3a9|Matidi
+Mathura|IN||6t|24e|5zr|2jt|Mandura;Madhura;Matura
+Matsumoto|JP||7q|2sn|an9|1uz|Macumoto;Matumoto-chhī;Matumoto
+Matsue|JP||7q|2qk|a9l|1kk|Macue;Macujė;Matue-chhī;Matsu;Matue
+Matuga|KE||16|-bl|31x|1hz
+Marsá Maţrūḩ|EG||c|2f3|23o|1d1|Mersa Matruh;Mersa Matrouh
+Al Maţarīyah|EG||c|2em|2gz|190|El-Maṭarîya
+Matsusaka|JP||7q|2o2|aja|187
+São Mateus|BR|São Paulo|4w|-1tl|-3l4|179
+Matanzas|CU||36|1s0|-6am|14r|Matansasas
+São Mateus|BR|Espírito Santo|4w|-1g0|-32q|11c|São Matheus
+San Mateo|PH|Calabarzon|71|14u|9cg|11b
+Matsubara|JP|Osaka|7q|2o1|agj|10d
+Mataró|ES||9d|37e|6s|za|Iluro
+São Lourenço da Mata|BR||4p|-m8|-2pa|wv|São Lourenço da Matta
+Ochakovo-Matveyevskoye|RU||9i|4ao|2w1|vo
+Ermelino Matarazzo|BR||4w|-1t9|-3l3|v7
+Matsutō|JP||7q|2tg|ajd|uo
+Matagalpa|NI||3s|zx|-6mo|ub
+Mati|PH|Davao Region|71|jc|9qm|tf
+Vila Matilde|BR||4w|-1te|-3l8|ss
+San Mateo|US||3p|2wc|-9ft|sr|Matthaeopolis;San Matheo
+Maţāy|EG||c|26y|2di|mv|Matâi
+Matão|BR||4w|-1o0|-3qd|ly|Mattão
+Matala|AO||x|-14x|15r|lo
+Matehuala|MX||41|1tp|-7rk|lh
+Matara|LK||68|gj|67q|l7|Māttaṟai
+Mateare|NI||3s|y0|-6o3|h0|Meteare
+Matera|IT||9o|34z|1a4|gs|Materia
+Mot’a|ET||2|us|2x7|ge|Mata;Motta
+Matamoros|MX|Coahuila|44|1yx|-7yr|ei
+Matilda Estate|SG||7j|3w|80m|ei
+Matli|PK||6q|1xk|5aq|e0
+Matsulu|ZA||o|-1yw|2f4|d5
+Mata de São João|BR||20|-yt|-2ye|d3|Matta de São João
+Mattanur|IN||6t|x5|5tx|d3|Mattannur
+Muţūbas|EG||c|2ex|2cs|c7|Maţūbas;Muṭûbis
+Metlaoui|TN||1e|2nc|nc|au|Matlaoui;Metlaoni
+Mateus Leme|BR||4w|-1jj|-3ff|ai|Matheus Leme
+Matozinhos|BR||4w|-1ic|-3eg|ag|Mattosinhos
+Matamey|NE||18|11a|nj|ae
+Matale|LK||68|kr|67y|a5
+Mattapan|US||48|39f|-5hh|a3|Matapan
+Mâcon|FR||9k|3kn|df|9v|Makonas;Matisco
+Matinhos|BR||4w|-1zr|-3qu|9s
+Mātuail|BD||6a|1tv|6za|9j
+Matões|BR||2w|-fc|-3c0|9f
+Mateur|TN||1e|2uw|qv|91
+Matthews|US|North Carolina|48|2pk|-688|8j
+Matveyevskoye|RU||9i|4ar|2w4|8c
+Mathba|BD||6a|1px|6xw|8a
+Matsubushi|JP||7q|2rs|asd|80
+Matosinhos|PT||99|36e|-o5|7t|Matozinjosas;Matozinhos
+Matam|SN||g|17i|-10u|7p
+Mathur|IN||6t|10l|66x|7p
+Matoury|GF||2d|dh|-41c|7c|Matoary
+Matsubase|JP||7q|2ip|a2z|7a
+Matundasi|TZ||h|-nh|2kg|79|Matundas
+Mata Grande|BR||3r|-pc|-2wt|70
+Matéri|BJ||1b|tq|2y|6t
+Matriz de Camaragibe|BR||3r|-pf|-2qp|6r
+Matai|TZ||h|-n2|2fk|6p
+Matsuura|JP||7q|2km|a0a|6k|Matuura-chhī
+Metahāra|ET||2|oq|32w|6i|Metehara;Matahārā
+Mattigiri|IN||6t|za|605|6f|Mattagiri
+Matinkylä|FI||92|4n4|1wq|6b|Mattby;Mattari;Alue 21;Masa
+Mātābhānga|IN||6t|216|6vu|6a|Mathabhanga
+Natagaima|CO||27|a2|-5sl|69|Matagaima
+Matinha|BR||2w|-8m|-3h3|64
+Matupá|BR||2k|-s9|-48l|5y
+Matui|TZ||h|-dc|2y9|5m
+Ma Tau Wai|HK||6i|1q0|8t7|5m
+Matongo|TZ||h|-43|2nw|5k
+Mátyásföld|HU||8v|3nz|1hd|5j|Matiasfold
+Matteson|US||2f|37a|-6rn|5c
+Maatmeur|TN||1e|2rb|tp|5a|Matmer;Matmeur;Maatmer
+Matías Romero Avendaño|MX||41|1aw|-7c0|59|Matías Romero
+Matiari|PK||6q|1z4|5a5|59|Matari
+Matiri|TZ||h|-tv|2oy|58
+Mátészalka|HU||8v|3p8|1q0|57|Salka
+Matipó|BR||4w|-1kc|-39m|56
+Mattoon|US||2f|31o|-6th|51
+Matelândia|BR||4w|-1y4|-45y|51|Metelândia
+Matões do Norte|BR||2w|-a3|-3fs|4u
+Mata Roma|BR||2w|-a2|-3br|4r
+Marche-en-Famenne|BE||8t|3vj|eu|4p|Måtche-el-Fåmene;Marca in Falmana
+Matsushima|JP||7q|2yl|avu|4k|Matsusima
+Matsuzaki|JP|Tottori|7q|2qj|aby|4h
+Matlock|GB||9b|43m|-4c|46
+Matatiele|ZA||o|-2ca|281|45
+Matane|CA||59|3rn|-57k|44
+Matsushige|JP||7q|2mt|adu|42
+Ma Tau Kok|HK||6i|1q0|8t7|40
+Matveyev Kurgan|RU||9i|3o5|2zz|3z|Matvejev Kurgan;Motveyev Kurgan;Matveyev-Kurgah;Matwejew-Kurgan;Matveyev-Kurgan
+Matias Barbosa|BR||4w|-1or|-3cc|3x|Mathias Barbosa
+Matu|MY||6w|7g|8lt|3p
+Matuu|KE||16|-37|2wb|3d
+Mato Verde|BR||4w|-16s|-3b3|3c|Matto Verde
+Matonga|TZ||h|-6m|2mo|3a|Matongo
+Matca|RO||8u|3jd|24h|38
+Amaturá|BR||3t|-9d|-59g|36|Maturá;Amataurá
+Mattenbach (Kreis 7)|CH||a7|3nx|ob|32
+Matino|IT||9o|337|1ee|32
+Matias Olímpio|BR||2w|-ac|-3a8|32
+Matsuda-sōryō|JP||7q|2q7|aqi|30|Matsudasoryō
+Matunda|KE||16|2c|2pm|30
+Matamba|TZ||h|-oy|2md|2y
+Matiguás|NI||3s|zo|-6le|2x
+Matina|BR||20|-12n|-3b1|2v
+Matalam|PH||71|jp|9my|2q|Matalan
+Matraville|AU||8l|-2mc|bo3|2q
+Mattan|IN||6t|2ls|5sx|2k
+Mata Verde|BR||20|-17l|-356|2j
+Matias Cardoso|BR||4w|-159|-3e0|2h|Mathias Cardoso
+Matelica|IT||9o|3c6|105|2h
+Matawan|US||48|349|-5q7|2h|Matayan;Mattawan
+Mataundh|IN||6t|1yo|66o|2e
+Mataraca|BR||2w|-ic|-2pd|2a
+Mattru Jong|SL||l|l4|-xt|2a
+Matadepera|ES||9d|37k|5n|28
+Mathurāpur|IN||6t|1zv|6mb|24
+Mataquescuintla|GT||32|14d|-6yi|23|Mataquesquintla
+Mattersburg|AT||a2|3ol|19k|21|Nagymarton;Mattasburg;Matersburgas;Walbersdorf
+Matanao|PH||71|ik|9ny|20|Matinao
+Mathibela|ZA||o|-1vj|29f|1x
+Matnog|PH|Bicol Region|71|yz|9kp|1v
+Matsubara|JP|Yamagata|7q|2xn|asv|1u|Matsuhara
+Matsuzaki|JP|Shizuoka|7q|2oj|api|1u
+Matarbari|IN||6t|1tb|726|1t
+Mattighofen|AT||a2|3pn|10j|1t|Mattigkofen
+Maracalagonis|IT||9o|315|pn|1t|Matacalagonis
+Mattydale|US||48|3bq|-5vj|1s
+Maturéia|BR||2w|-k7|-2vr|1s
+Mattapoisett|US||48|37q|-5gq|1s|Mattpoiset;Mattapoissett
+Matamata|NZ||ak|-2x1|dk8|1r
+Matsumae|JP||7q|373|at6|1r
+Matarnia|PL||a5|473|1fb|1p|Maternia
+Mota del Cuervo|ES||9d|31q|-7z|1o|Mata del Cuervo
+Mattenbach (Kreis 7) / Deutweg|CH||a7|3nx|oa|1n
+Mathangwane|BW||m|-1mc|23x|1n
+Matenveld|NL||8m|40z|go|1n
+Mathadahatti|IN||6t|13k|5w6|1n
+Matlang|PH||71|u9|9lq|1m
+Mattinata|IT||9o|37v|18l|1l|Matinata
+Mataniko|SB||av|-q8|ccc|1l|Matanikao;Matanikau
+Mătăsaru|RO||8u|3g8|1ym|1l
+Matigara|IN||6t|1u2|6ne|1l
+Māttūr|IN||6t|vg|640|1k
+Mătăsari|RO||8u|3gl|1s4|1i
+Mātherān|IN||6t|1gq|5nj|1h
+Matendonk|NL||8m|410|gp|1g
+Mattarello|IT||9o|3jt|ux|1g
+Matsavana|ZA||o|-1wy|2eu|1g
+Mathis|US||2f|261|-7jr|1e
+Ma Tau Wai Estate|HK||6i|1q0|8t7|1d
+Matenhoeve|NL||8m|40z|gp|1d
+Maturanoc|PH||71|17i|9bj|1d
+Mato Leitão|BR||4w|-2a0|-40t|1d
+Mount Victoria|NZ||ak|-36q|dhj|1c|Matairangi
+Matti|PH||71|it|9o3|1c
+Matancillas (San Isidro Matancillas)|MX||41|1ot|-7ud|1c
+Mata|BR||4w|-2a5|-47a|1b|Matta
+Mathambgwane|BW||m|-1mb|23x|1b
+Mathapanichara|BD||6a|1m0|74a|1a
+Matinhas|BR||2w|-js|-2rd|1a|Matinha;Mattinha
+Mattawa|US||3p|3lu|-992|19
+Matucana|PE||3o|-wx|-5w8|19
+Mataas Na Lupa|PH||71|13j|9bs|19
+Mat’ani|GE||7n|38w|3hk|19|Matani
+Matalom|PH||71|sk|9mn|17
+Matendreef|NL||8m|410|gn|17
+Malinao|PH|Soccsksargen|71|l0|9mf|17|Mulinao;Matinao
+Mattituck|US||48|35v|-5lh|16
+Matsieng|LS||12|-2aa|24l|16
+Matay|KZ||5s|3ji|62o|15|Motay
+Matingain|PH||71|12n|9bs|15
+Matanzas|DO||4v|1eo|-5fm|15|Matanza
+Matt Berry|CA||2s|44y|-8r4|15
+Matrinchã|BR||4w|-16w|-3wz|14
+Matacon|PH||71|111|9iw|14|Matacos
+Materlândia|BR||4w|-1fb|-3bm|14
+Matutina|BR||4w|-1he|-3jp|12
+Mati|PH|Caraga|71|r2|9oj|12
+Matlapa|MX||41|1na|-7mj|12|Matlaca
+Matviivka|UA||98|3mr|2pm|11|Matrviivka;Matviyivka
+Matten|CH||a7|3lo|lv|11
+Matsumaru|JP||7q|2kb|a8n|11
+Mathi|IT||9o|3hq|ky|11|Mati
+Matan|IL||6n|2hc|2p5|10
+Matabao|PH||71|ow|9oc|10
+Matulji|HR||a6|3i0|13t|10|Matulgi;Malulji;Matulje
+Maticmatic|PH||71|18f|9al|10
+Matfors|SE||9w|4t7|1bb|y
+Mat-i|PH||71|nc|9lf|y
+Matveyevka|RU||7z|40v|4c2|x
+Mato Rico|BR||4w|-1wn|-40v|x
+Mattsee|AT||a2|3p9|10e|x
+Mateeşti|RO||8u|3h7|1u9|w
+Matana|BI||b|-ah|2ag|w
+Mataya|PH||71|kr|9lh|v
+Matenhorst|NL||8m|410|gn|v
+Mathias Lobato|BR||4w|-1fm|-38f|u
+Matei|RO||8u|3mi|1vf|t
+Mattenbach (Kreis 7) / Gutschick|CH||a7|3nx|ob|t
+Mattapoisett Center|US||48|37r|-5gp|t
+Matagbak|PH||71|139|9bn|t
+Mateiros|BR||1k|-tb|-3ky|t
+Martfeld|DE||8r|42w|p6|t|Mattfeld
+Matangad|PH||71|nu|9lh|s
+Matnog|PH|Bicol Region|71|133|9hh|s
+Matiao|PH||71|jo|9pu|s
+Matengaarde|NL||8m|410|go|s
+Matejce|MK||9u|391|1o0|s|Matejča
+Matos Costa|BR||4w|-21j|-3y3|s
+Matayumtayum|PH||71|174|9bb|r
+Machara|GE||7n|3ba|365|q|Matchara;Madzhara
+Matmata|MA||d|2mq|-cn|q
+Matamoras|US|Pennsylvania|48|34c|-5xp|q
+Matala|PH||71|12f|9cj|q
+Matzaco|MX||41|1fk|-7ll|q
+Mato Castelhano|BR||4w|-26k|-40z|q
+Matrei in Osttirol|AT||a2|3mk|yt|p|Motre
+Matmata|TN||1e|2l6|rp|o
+Matoaca|US||48|2vf|-5z8|o
+Madrasa|AZ||61|34t|3qw|o|Medrese;Matrasa
+Matzingen|CH||a7|3o0|ot|o
+Matamoras|US|Pennsylvania|48|36x|-5ri|o
+Mataywanac|PH||71|12z|9bd|o|Matayuanac
+Matari|FI||92|4nm|1xp|n|Matar
+Matiompong|PH||71|im|9m1|n
+Matina|CR||2i|s0|-6fc|n|Matino
+Mattishall|GB||9b|42a|2v|n
+Matsamo|ZA||o|-1zg|2ft|n
+Matha|FR||9k|3jf|-w|n
+Matroska|UA||98|3hy|27y|n|Matros'ka;Matroasca-Cuhurlui
+Mátraderecske|HU||8v|3p7|1js|m
+Mmathubudukwane|BW||m|-1wc|21f|m|Mathobudukwane;Mmathubudkwane;Mathubudukwane
+Mathews|US|Louisiana|2f|2ah|-6zj|m|Matthews
+Mátraverebély|HU||8v|3p9|1iy|m
+Mater|BE||8t|3x8|a6|m|Maeter
+Mattenbach (Kreis 7) / Endliker|CH||a7|3nx|ob|m
+Mătăcina|RO||8u|3jg|22g|l
+Mathay|FR||9k|3ns|iu|l
+Mátraterenye|HU||8v|3pf|1jf|k
+Mattawa|CA||59|3ko|-62m|k
+Mathathane|BW||m|-1pv|27v|k
+Mátranovák|HU||8v|3pg|1ji|k
+Matagami|CA||59|3u8|-5zn|k
+Mattawan|US||2q|399|-6ma|j
+Materdomini|IT|Apulia|9o|34y|1dw|j
+Övertorneå|SE||9w|54f|1tp|j|Matarenki;Ylitornio;Öfver Torneå;Overtorne;Öfer Torne
+Matinella|IT||9o|34i|15v|j
+Mata Loma|MX||41|1h5|-7fi|j
+Matatlán|MX||41|1lj|-7yj|j
+Matzen|AT||a2|3qg|1ae|i
+Mato Queimado|BR||4w|-26i|-47p|i
+Matzendorf|AT||a2|3p1|191|h
+Mathieu|FR||9k|3st|-11|h
+Mattaldi|AR||1n|-2ns|-4y9|h|Mataldi
+Matachí|MX||2g|284|-8bc|h
+Mataura|NZ||ak|-3ka|d11|h
+Matanza|CO||27|kc|-5mu|h
+Matshaye|ZA||o|-1wx|2ez|g
+Matignon|FR||9k|3r0|-6d|g
+Les Matelles|FR||9k|3dh|al|g|Las Matèlas;Matelles
+Matzam|MX||41|1an|-74w|g
+Mata de Indio|MX||41|1hf|-7h0|g
+Mata Tenatito (Casco Hacienda)|MX||41|1g0|-7gi|f
+Mata Obscura|MX||41|1he|-7h1|f
+Matallana de Torío|ES||9d|3b3|-fc|f|Matachana de Toríu
+Matsliaẖ|IL||6n|2gn|2ov|f|Maẕliaẖ;Matzliah
+Matamoros|MX|Campeche|3z|1fn|-6zt|f|Matamoras
+Mătești|RO||8u|3hl|22c|e
+Martelange|BE||8t|3uf|fy|e|Måtlindje;Nartelange;Martelarge
+Matrosy|RU||9i|4rm|2lx|e|Matrossa;Matrossu;Matrosi
+Mataránga|GR||8p|2z0|1nn|d|Mataragka
+Matzenheim|FR||9k|3qf|l6|d
+Mataporquera|ES||9d|3b3|-bk|d
+Matavai|WS||aj|-12z|-d8t|d
+Matzendorf|CH||a7|3ne|l7|d
+Matheny|US|California|3p|2sh|-97j|c
+Matuizos|LT||a3|46s|1wk|c|Matuizai;Matuyzos
+Mata-Utu|WF||bk|-10w|-dld|c|Matāʻutu;Matâutu;Matauto;Mata Utu
+Matanzas|MX||41|1o3|-7ue|c
+Matsuva|IL||6n|2ju|2po|c|Maẕẕuva;Matsova;Matzuva
+Matémandia|CI||0|l0|-8d|c
+Matacapan|MX||41|1f7|-7cd|c
+Mathakola|BW||m|-1r4|23v|c|Matlakola
+Mata de Plátano|HN||56|14k|-6qg|c
+Mataguži|ME||9l|39k|1hj|b|Matagužai;Matagusha
+Mățău|RO||8u|3ho|1xo|b
+Mata Naranjo|MX|Veracruz|41|1g6|-7gn|b|El Nanche
+Mata del Nance|PA||4g|nh|-6cw|b
+Matiiovo|UA||98|3pp|1rn|a|Matiyovo;Matiyevo
+Matapozuelos|ES||9d|371|-db|a
+Mateo|HN||56|134|-6qk|a
+Matavera|CK||be|-1my|-cbp|a
+Matlahuacales Aquiles Serdán|MX||41|1iw|-7kd|a|Matlahuacales de Aquiles Serdán
+Matour|FR||9k|3kn|cg|a
+Matayaya|DO||4v|1gh|-5iv|a
+Matiashivka|UA||98|3uj|2m5|a|Matyashevka;Matyashivka;Matyashovka
+Matadamas|MX||41|1bo|-7gy|a
+Matrei am Brenner|AT||a2|3mx|vt|a
+Matcham|AU||8l|-2ku|bom|9
+Mattaincourt|FR||9k|3q4|h1|9
+Matarras|HN||56|174|-6qs|9
+Mathoura|AU||8l|-2ri|b6i|9
+Mataura|PF||bg|-1sv|-bj8|9
+Mataranka|AU||8e|-15g|a9n|9
+Matița|RO||8u|3he|20o|9
+Mata Cazuela|MX||41|1h7|-7fx|9|Mata de Cazuela
+Matta‘|IL||6n|2g4|2pe|9|Mata‘
+Mattawamkeag|US||48|3if|-59v|9
+Matautu|WS||aj|-130|-d8w|9
+Mata Gallina|MX||41|1ga|-7gd|8
+Matskivtsi|UA||98|3ul|2jk|8|Matskovtsy
+Matinecock|US||48|35k|-5oe|8
+Mătrici|RO||8u|3ll|1x6|8
+Matalascañas|ES||9d|2us|-i7|8
+Mach’at’ia|GE||7n|375|3cw|8|Machatia;Nagvazao;Matchatia
+Mazatzongo de Guerrero|MX||41|1et|-7gz|8|Matzazongo de Guerrero
+Évzonoi|GR||8p|366|1qo|8|Evzoni;Matsikovon;Matsikovo
+Matará|PE||3o|-k5|-61e|8
+Mata de Caña|MX|Oaxaca|41|1e3|-7f0|7
+Mather|US||48|32x|-66f|7
+Matzlow-Garwitz|DE||8r|44h|wi|7
+Matzenbach|DE||8r|3ti|kr|7
+Mato Gege|CV||84|15v|-1tr|7
+Maťovské Vojkovce|SK||8s|3qx|1pi|7
+Mata de Varas|MX||41|1gu|-7gj|7
+Matherville|US||2f|36m|-6zp|7
+Matata|NZ||ak|-2x8|dmz|7
+Matilla de los Caños del Río|ES||9d|35f|-gi|7
+Matías Ramos|MX||41|1s5|-7ym|7
+Matlacha|US||48|21z|-6bz|7
+Mathiston|US||2f|2l6|-6vk|7|Mathis Town
+Matougues|FR||9k|3s3|bs|7
+Mata de Pinos|MX||41|1id|-7rh|7
+Matawand Bagbeda|IN||6t|1in|6a3|7
+Mateverīj|IR||7o|2tr|41c|6
+Materdomini|IT|Campania|9o|35e|16c|6
+Villa Pesqueira|MX||37|28w|-8hh|6|Villa Pesquería;Mátape
+Matthews|US|Missouri|2f|2u4|-6wv|6
+Mattie|IT||9o|3hc|js|6
+Mata de Plátano|MX||41|1go|-7uj|6
+Matinho|CV||84|15y|-1ti|6
+Mata Ahogado|PA||4g|nz|-66i|6
+Matamoros los Hoyos|MX||41|1oo|-7ve|6
+Mathiátis|CY||73|2p4|2km|6|Matiatis;Mathiati
+Matancillas|MX||41|1pv|-7sp|6
+Matrice|IT||9o|37m|14v|6
+Mata|PT||99|32l|-od|6
+Mathews|US|Alabama|2f|2hn|-6mw|6
+Matlahuacala|MX||41|1jf|-7kb|6
+Måttsund|SE||9w|523|1ou|6
+Mata de Caña|MX|Veracruz|41|1el|-7e8|6
+Matzing|AT||a2|3p7|10b|6
+Matahau|TO||bi|-1mq|-diz|6
+Matilla|CL||4u|-1kz|-5co|6
+Matador|US||2f|2mh|-7s2|6
+Matthews|US|Indiana|38|347|-6li|6
+Mattine|IT||9o|347|15q|6
+Mathews|US|Virginia|48|2w0|-5w0|6|Matthews
+Matzleinsdorf|AT||a2|3pw|16f|6
+Metompkin|US||48|2wx|-5u0|6|Matomkin;Metomkin
+Mata Cabestro (La Víbora)|MX||41|1gj|-7ev|5
+Matang Village|KI||bh|-1v|dgl|5
+Matzaccara|IT||9o|30p|nh|5|Mazzacara
+Matraia|IT||9o|3dz|td|5
+Mattstedt|DE||8r|3xt|w0|5
+Mata de Otate|MX||41|1nb|-7k7|5|Mata de Olate
+Mataika|TO||bi|-1fq|-df9|5
+Mata de Jobo|MX||41|1hf|-7gr|5
+Matheny|US|West Virginia|48|2wm|-6ao|5
+Matigny|FR||9k|3uc|8d|5
+Mata Tejón|MX||41|1gi|-7fs|5
+Mata Naranjo|MX|Veracruz|41|1gt|-7gs|5
+Mata de Lázaro|MX||41|1g5|-7fb|5
+Matugeo|MX||41|1it|-7ua|5|Matujeo
+Matagorda|US||2f|27p|-7el|5

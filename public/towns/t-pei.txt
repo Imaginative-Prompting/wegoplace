@@ -1,0 +1,55 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Beihai|CN|Guangxi|7i|1no|8f4|41x|Pej-chaj;Pet-hói-sṳ;Bắc Hải;Baekhaij;Báe̤k-hāi;Beihajus;Pak-hái-chhī;Pei-hai
+Bei’an|CN||7i|3q3|9ro|3d8|Pei-an
+Beiliu|CN||7i|1r3|8ij|1ji|Pei-liu
+Peicheng|CN||7i|2oi|90s|1ia
+Beipiao|CN||7i|383|9bi|1gv|Pei-p’iao
+Piraeus|GR||8p|2xe|1tp|19h|Piräus;El Pireo;El Pireu;Le Pirée;Pireus;Pireu;Pireja;Pireo;Pirėjas;Peiraiás;Pireusz;Pire;Peiraiéfs;Pireas;Pirej;Lo Pirèu;Il Pireo;O Pireo;Peiraiá;Peiraieus;Piraiévs;Peiraievs;Peiraeus
+Poitiers|FR||9k|3le|y|nw|Peitieus;Pouètiérs;Pictavium;Puatjė;Piteus
+Paisley|GB||9b|4b3|-cb|lh|Pàislig;Peislis;Peysli
+Paignton|GB||9b|3w4|-9x|ir|Peintona
+Picheng|CN||7i|2nr|93p|hy|Peicheng
+Beisu|CN||7i|2xz|8ux|eo|Pei-su
+Peine|DE||8r|41c|sg|dw|Paane
+Beiwangli|CN||7i|2za|8wk|c9|Pei-wang-li
+Peixoto de Azevedo|BR||2k|-se|-48q|9c
+Beitun|CN||7t|3nj|6ry|5o|Pei-t’un
+Penicuik|GB||9b|4b3|-8z|4i|Peighinn na Cuthaig
+Peißenberg|DE||8r|3os|ur|3n
+Pierrelatte|FR||9k|3fa|d2|3j|Pèiralata
+Peiting|DE||8r|3os|ud|3d
+Peixing|CN||7i|2bp|8ao|2y
+Peixe|BR||1k|-xe|-3qu|2m
+Peixe-Boi|BR||23|-3b|-3nf|2b
+Peinnegon|MM||7y|1aw|7ey|2a
+Pétange|LU||9c|3to|gc|20|Gemeng Péiteng;Péiteng;Petanžas;Petingen
+Peishi|CN||7i|2e5|8hu|1t
+Peitz|DE||8r|402|141|1g|Picnjo
+Pierrefeu-du-Var|FR||9k|3c2|h3|1c|Pèirafuec
+Peize|NL||8m|43n|i2|17
+Peyrolles-en-Provence|FR||9k|3d9|fi|15|Peiròla;Peiròla de Provença
+Pierrevert|FR||9k|3dp|fz|10|Pèirevèrd;Peiravèrd
+Peyrehorade|FR||9k|3cy|-32|y|Peirahorada;Pèira Horada;Pevrehorade
+Pyzdry|PL||a5|40x|1d5|w|Pizdri;Pisdri;Pießern;Peisern
+Peij|NL||8m|3xx|ge|t|Pei
+Perosa Argentina|IT||9o|3gw|jz|t|Peirosa
+Peik Swei|MM||7y|1ah|7ev|p|Peikswe
+Peyruis|FR||9k|3eb|gi|o|Peirueis
+Pein Hne Kone|MM||7y|1a8|7er|n
+Bystrzyca|PL|Lower Silesia|a5|3xk|1cc|m|Peisterwitz
+Peille|FR||9k|3do|kk|l|Pelha;Pyla Nicaeensium
+Peia|IT||9o|3j8|ri|j
+Peillac|FR||9k|3oj|-66|i|Paolieg
+Pierce City|US||2f|2un|-794|d|Peirce City
+Peißen|DE|Saxony-Anhalt|8r|3zq|wo|d
+Peillon|FR||9k|3dm|ki|d|Pelhon;Pylio
+Peillonnex|FR||9k|3k5|hq|c
+Peipin|FR||9k|3em|gk|b
+Peißen|DE|Saxony-Anhalt|8r|3z2|xi|b
+Pierrefort|FR||9k|3gs|7w|a|Pèirafòrt
+Peisching|AT||a2|3ol|18r|7
+Peisey-Nancroix|FR||9k|3ij|is|7|Peisey-Nancroy
+Peissant|BE||8t|3vv|bg|6
+Peilstein im Mühlviertel|AT||a2|3r2|12m|6
+Peicani|RO||8u|3kn|25r|5

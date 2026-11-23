@@ -1,0 +1,99 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Villeray–Saint-Michel–Parc-Extension|CA||59|3ik|-5oh|148
+Michurinsk|RU||9i|42z|34g|pz|Mitschurinsk;Mitšurinsk;Mičurinsk;Miczuryńsk;Mitchourinsk;Mitsjoerinsk;Mitsjurinsk;Miciurinsk;Mitxúrinsk;Mitjurinsk;Mitschurnisk
+Micheng|CN||7i|1ye|7r5|or
+Mikhaylovsk|RU|Stavropol Kray|9i|3hd|38r|gg|Sjpakovskoje;Mihajlovsk;Michailowsk;Shpakovskoye
+Mikhaylovka|RU|Volgograd Oblast|a4|3v2|3c3|gd|Mikhajlovka;Michailowka;Mikhaïlovka;Michajlovka;Miĥajlovka;Mihhailovka;Mihailovk;Michajłowka;Mihailovka;Michalowka
+Michalovce|SK||8s|3rf|1ow|9z|Nagymihály;Großmichel;Mixalovtse;Mihalovce
+Michigan City|US||2f|37v|-6pe|8r|Miĉiganurbo;Miçiqan-Siti
+Micolene|MZ||11|-1ah|30z|89
+Michle|CZ||9m|3v1|146|5y
+Michelena|VE||2c|m4|-5ko|5p
+Michelstadt|DE||8r|3u0|p0|4t
+Mickten|DE||8r|3xw|123|3q
+Michendorf|DE||8r|41b|107|2z
+Mykonos|GR||8p|2w1|1yd|2z|Míkonos;Myconos;Chora;Miconos;Khóra
+Micheweni|TZ||h|-dt|32n|2q
+Miches|DO||4v|1gq|-5bt|2l
+Micco|US||48|25g|-67m|2j
+Mindszent|HU||8v|3l8|1k3|20|Micenta
+Michelau|DE|Bavaria|8r|3vc|uv|1w
+Micheldorf in Oberösterreich|AT||a2|3p0|139|1n
+Mitzpe Ramon|IL||6n|2d1|2oo|1m|Micpe Ramon;Mitze Ramon;Mitspe Ramon;Miẕpe Ramon
+Mikomeseng|GQ||10|5y|th|1m|Micomeseng;Mikomesen;Mikamesen;Mekomeseng
+Michanovichi|BY||9g|45a|24x|1c
+Michigan Center|US||2q|39b|-6i9|1b
+Mica|RO|Mureș County|8u|3kt|1vu|1a
+Dzhiginka|RU||9i|3hd|2vq|15|Dzjiginka;Michaelsfeld;Dzhiginsko
+Miceşti|RO|Arges|8u|3gv|1x3|15
+Mica|RO|Cluj County|8u|3mx|1uh|12
+Micula|RO||8u|3p2|1rr|11
+Michelfeld|DE||8r|3se|qw|10
+Michałowo|PL||a5|43b|1tl|10|Michalovas;Mihalovo
+Santiago Michac|MX||41|1he|-7l6|z|Michac
+Micoud|LC||52|12e|-4p6|y
+Michelbach an der Bilz|DE||8r|3sb|r4|y
+Mickleham|AU||8j|-2wa|b6i|v
+Michoacán de Ocampo|MX||58|2i7|-8wb|v
+Micleşti|RO||8u|3m2|25b|u
+Michałowice|PL|Mazovia|a5|40x|1m0|r
+Mechoacanejo|MX||41|1nu|-7x0|q|Michoacanejo
+Mykhaylivka|UA|Odesa|98|3jn|2ai|q|Mihăileni;Michajlowka;Myjailivka;Mykhaïlivka
+Micmac Village|CA||35|3g4|-4wk|o
+Micăsasa|RO||8u|3k1|1uz|o
+Méhkerék|HU||8v|3ly|1nl|n|Micherechi
+Michelbach|DE|Hesse|8r|3vj|me|m
+Michaels Park|CA||2s|44k|-8r5|m
+Micfalău|RO||8u|3jx|1zs|k
+Mickle Trafford|GB||9b|43u|-7v|i
+Michelsneukirchen|DE||8r|3sg|yv|i
+Michurinskoye|RU||9i|4o8|2ay|i|Valkjärvi;Mitsjurinskoje
+Michów|PL||a5|3z5|1pz|h
+Michelbeke|BE||8t|3x8|ag|h
+Miehikkälä|FI||92|4oj|24y|h|Michikkala
+Michałowice|PL|Lesser Poland|a5|3vc|1ji|g
+Mickleton|GB||9b|40p|-4x|g
+Micheroux|BE||8t|3wm|fw|f
+Michałów|PL|Lublin|a5|3wf|1tk|f
+Micești|RO|Alba County|8u|3k2|1tg|e
+Micolo|ST||1c|14|il|e
+Amica|IT||9o|320|1ab|e|Mica
+Mickhausen|DE||8r|3q0|tk|e
+Michac|MX||41|1j5|-7kd|d
+Michałów-Reginów|PL||a5|41m|1m9|d
+Mikhmoret|IL||6n|2i1|2ov|d|Michmoret
+Miceştii de Câmpie|RO||8u|3m7|1vk|d|Miceştii-de-Câmpie;Miceştii de Cîmpie
+Mičevec|HR||a6|3j3|18m|d
+Michimaloya|MX||41|1ju|-7o4|c
+Michałów|PL|Lublin|a5|3wy|1ry|c
+Michelau|DE|Bavaria|8r|3un|sz|b
+Michałów|PL|Świętokrzyskie|a5|3wa|1ku|b
+Michelhausen|AT||a2|3q5|18a|b
+Michal na Ostrove|SK||8s|3pe|1co|b|Szentmihályfa;Szent-Mihályfa
+Micondo|ST||1c|h|ik|a
+Michapa|MX|Morelos|41|1fy|-7oc|a
+Mīchān|IR||7o|2nc|3tv|9
+Michery|FR||9k|3q7|8z|9
+Michelmersh|GB||9b|3xr|-46|9|Michlemersh
+Michinelas|MX||41|1kw|-7s1|8
+Micheln|DE||8r|3zx|x9|8
+Micșuneștii Mari|RO||8u|3g5|218|8
+Michelbach-le-Bas|FR||9k|3o7|kr|8
+Michurinskoye|UA||9t|3h7|2of|7
+Michapa|MX|Veracruz|41|1h3|-7hb|7
+Micheldorf|AT||a2|3mb|143|7
+Miculești|RO||8u|3gi|1s1|7
+Micanopy|US||48|29y|-6ck|6|Miconopi
+Michie|US||2f|2pe|-6to|6
+Michelbach|DE|Rheinland-Pfalz|8r|3ws|lb|6
+Mickleham|GB||9b|3yf|-x|6
+Michoacán|MX||41|18v|-73q|6
+Micereces de Tera|ES||9d|38n|-gb|6
+Micești|RO|Cluj County|8u|3lk|1tm|6|Kaszoly
+Michellorie|IT||9o|3ht|vf|6
+Miclăușeni|RO||8u|3mu|22t|6
+Michałow|PL|Opole Voivodeship|a5|3wy|1cn|6|Michelau
+Mica|RO|Arges|8u|3go|1ws|5
+Micloșoara|RO||8u|3jt|1z2|5|Miklósvár
+Michelago|AU||8l|-2r8|bid|5

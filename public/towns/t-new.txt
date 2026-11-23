@@ -1,0 +1,572 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+New Territories|HK||6i|1qa|8sz|uqp|New Territory Hong Kong
+Navi Mumbai|IN||6t|1gw|5mu|k28|New Bombay;Navi Moembaai;Novmumbajo;Nova Bombaim;Navi Mumbaj
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+New South Memphis|US||2f|2ph|-6y6|4y8
+Yingkou|CN||7i|34y|9fj|4k8|Eiko;Newchwang;Yingkow
+New Kingston|JM||3i|1e1|-5xa|4i8
+Newcastle|AU||8l|-2jh|bpm|3x8|Novkastelo;Niukaslas;Niukasel;Nyukasl
+Newcastle|ZA||o|-254|2b5|34g
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+New Cairo|EG||c|2bf|2ff|2ez
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Newark|US|New Jersey|48|356|-5q1|26b|Ņuarka;Niuarkas;Novarcum
+Bedok New Town|SG||7j|3p|80q|24y|Piṭōk
+Sengkang New Town|SG||7j|3v|80l|22c|Sengkang;Shèng Gǎng
+Tampines New Town|SG||7j|3r|80r|207
+Yishun New Town|SG||7j|3z|80f|1rj
+Hougang New Town|SG||7j|3s|80l|1r8|Hougang
+Novi Beograd|RS||8q|3gh|1kq|1ma|Novi Belgrade;Nový Bělehrad;Yeni Belgrad;Novbeogrado;Nowy Belgrad;Nova Belgrado;New Belgrade
+Nnewi|NG||u|gq|j8|1hw|Newi
+Choa Chu Kang New Town|SG||7j|3u|807|1g4
+Newport News|US||48|2uq|-5wb|1fq|Newports News;Newport's News;New Port Newce;Newport Ness
+East New York|US||48|34z|-5p8|1c4
+Newport|GB|Wales|9b|3zb|-8c|18v|Casnewydd;Novus Burgus;Niuportas;Nyuport;Trefdraeth;Ņūporta
+Newton|CA|British Columbia|5b|3sh|-9h9|18a
+Ang Mo Kio New Town|SG||7j|3u|80g|189
+Bukit Batok New Town|SG||7j|3s|808|17w
+Amsterdam Nieuw-West|NL||8m|41g|dd|165|New West
+Bukit Panjang New Town|SG||7j|3u|808|12d
+Nevinnomyssk|RU||9i|3fz|38i|11b|Newinnomyssk;Nevinnomissk;Niewinnomyssk;Nevinnomõssk;Nevinomyskas;Nevinomısk;Njewinnomyssk;Nevinnomisk;Nevinnonyssk;Nevinomysk
+Rayon KhTZ|UA||98|3uq|2t1|10e|New Kharkiv;KhTZ District;KhTZ Settlement;Novyi Kharkiv;Novyy Kharkiv;Sotsmistechko Novyi Kharkiv;Sotsmistechko Novyy Kharkiv
+New Haven|US|Connecticut|48|36r|-5ml|107|Novus Portus;Ņūheivena;Nyu-Heyven;Niu Heivenas
+Newcastle under Lyme|GB||9b|438|-67|zh|Newcastle-under-Lyme
+New Mirpur City|PK||6q|2k3|5ov|yk|Mirpur
+Toa Payoh New Town|SG||7j|3q|80h|xj
+Serangoon New Town|SG||7j|3r|80j|wh
+Sri Jayewardenepura Kotte|LK||68|j4|65z|w6|Kotte;Sri Jayawardenepura;Sri Jayawardenapura;Šri Džajavardenepura;Sri Jayewardanapura Kotte;Sri Jayawardenepura Kotte;New Capital Territory;Sri Jayewardanepura;Sri Jayewardanepura Kotte
+New Bedford|US|Massachusetts|48|37o|-5h1|s3
+Newmarket|CA||59|3ed|-64r|pa
+New Plymouth|NZ||ak|-30j|dfk|p1|Nueva Plymouth;Aberplymm Nowydh;Naujasis Plimutas;Nieu-Plymouth;Ngāmotu
+Newton|US|Massachusetts|48|39m|-5ht|oo|Neŭtono;Nyuton;New Towne
+Newport Beach|US||3p|2le|-93l|o7
+New Rochelle|US||48|35n|-5oy|m6|Nouvelle-Rochelle;Nueva Rochelle
+New Westminster|CA||5b|3sp|-9hf|lx|New Westminister
+New Britain|US|Connecticut|48|37q|-5m6|k8
+New Braunfels|US||2f|2ai|-7kk|jl
+Newtownabbey|GB||9b|47u|-gf|hr|Baile na Mainistreach
+New Halfa|SD||r|16l|2qw|ho
+New Brunswick|US||48|34h|-5qt|fu|Nuevo Brunswick
+Newark|US|Ohio|48|33a|-6cw|dc|New Ark
+New Brighton|ZA||o|-2m6|1z4|db
+Newark|US|California|3p|2w9|-9f0|cl
+Salisbury|GB||9b|3xv|-50|cf|New Sarum;Caersallog;Searoburg;Sarisberia;Solsberis;Solsberi
+Newark on Trent|GB||9b|43f|-2a|c2|Newark;Newark upon Trent
+Newburn|GB||9b|48r|-4u|bh
+New City|US|Illinois|2f|385|-6ri|be
+Nowa Sól|PL||a5|3zw|17o|b8|Nova Sola;Nova Sulė;New Salz;Neusalz
+New Berlin|US|Wisconsin|2f|3be|-6sr|b2|Naujasis Berlynas;Nov-Berlino
+New Badah|PK||6q|23y|58z|at
+Newala Kisimani|TZ||h|-uf|314|al
+Niwai|IN||6t|218|5uw|ai|Newai
+Newnan|US||48|2kq|-6jk|ad|Newman
+New Achimota|GH||1|fn|-q|ab
+New Albany|US|Indiana|3k|2yd|-6me|a7
+Newton Abbot|GB||9b|3wd|-a1|a5
+New Amsterdam|GY||34|hd|-4fs|9q|Nueva Ámsterdam;Naujasis Amsterdamas
+Newala|TZ||h|-ud|316|9p
+Newark|US|Delaware|48|328|-5uf|9e
+New City|US|New York|48|36b|-5pj|9c
+Englewood|US|Colorado|2p|325|-83n|97|New Dawn Rejuvenation
+Newbury|GB||9b|3ys|-3o|97|Niuberis;Neubiria;Ulfretūn
+New Iberia|US||2f|2bc|-732|8k|Nueva Iberia;La Nouvelle-Ibérie;Nouvelle Iberie;Nuevo Iberia
+Newington|US|Connecticut|48|37u|-5m0|8i
+New Tafo|GH||1|io|-4h|8g
+New Bern|US||48|2pj|-5y0|8d|Newbern
+Newtownards|GB||9b|47n|-ft|86|Baile Nua na hArda;Niutonardsas
+New Bani Sewif City|EG||c|28o|2eg|83
+Newburgh|US|New York|48|37a|-5pl|7v
+Newton Mearns|GB||9b|4ax|-c1|7u|Baile Úr na Maoirne
+Newry|GB||9b|46i|-hm|7q|Iúir Cinn Trá;Iúr Cinn Trá;Iuorus;Niūris;Yn Euar
+New London|US|Connecticut|48|36w|-5ka|7k|Nova Londres;Nov-Londono;New-London
+Nové Město|CZ||9m|3v4|142|7j|Prager Neustadt;New Town;Città Nuova;Nieuwe Stad;Újváros;Pragako Hiri Berria;Nova Urbo;Nowe Miasto
+Newton Aycliffe|GB||9b|47q|-4d|7c
+New Lenox|US||2f|37b|-6sd|76
+New Milton|GB||9b|3x0|-4n|73
+Newport|GB|England|9b|3wu|-3l|6x
+New Yekepa|LR||15|l2|-nq|6v|Yekepa;Jekepa
+Newton-le-Willows|GB||9b|44h|-78|6u
+New Smyrna Beach|US||48|28n|-68t|6r
+Newport|US|Rhode Island|48|379|-5i3|6q|Niuportas;Ņūporta;New Port;Niew-Port
+Newtonbrook West|CA||59|3dn|-64n|6m
+New Malden|GB||9b|3ys|-q|6m
+New Lynn|NZ||ak|-2uj|dh9|6m
+Newberg|US||3p|3hu|-9hl|6c|Nyuberq
+New Fes|MA||d|2ml|-dx|69|Fès Jdid;Fès-le-Neuf;Fès le Nouveau;Méchouar Fès Jdid;Fès Djedid;Fès Jedid
+New Castle|US|Pennsylvania|48|35w|-677|68|Newcastle
+New Brighton|US|Minnesota|2f|3h7|-76w|68
+Bandar Baru Salak Tinggi|MY||6v|7t|7um|5z|Salak Tinggi;New Salak Tinggi City
+New Hope|US|Minnesota|2f|3h4|-77f|5u
+New Jeshwang|GM||7|11d|-1aa|5t
+New Springville|US||48|34r|-5q0|5s
+New Corella|PH||71|l3|9pi|5q
+Gotse Delchev|BG||9v|37h|1tx|5p|Goze Deltschew;Gotsé Deltchev;Gotse Deltsjev;Goce Delčev;Goce Delčevas;Goțe Delcev;Nevrâkop;Gotse Deltšev;Goce Dełczew;Nevrekop;Gotze Deltchev;Nevrokop;Gotsi Delchev;Newrokop
+Newmarket|GB||9b|414|14|5o
+Newquay|GB||9b|3w2|-e3|5m|Tewyn Plustry;Tewynblustri
+New Caney|US||2f|2bs|-7ch|5k
+Newburg|US|Kentucky|3k|2y0|-6ly|5k
+New Canaan|US||48|36b|-5o5|5h
+Newton|US|Kansas|2f|2xp|-7if|5c
+New Glasgow|CA||35|3im|-4u1|57|Glaschu Úr;Nova Glasgow
+Peacehaven|GB||9b|3x3|-1|56|New Anzac-on-Sea
+Newburyport|US||48|3ax|-5gw|50
+New Mills|GB||9b|449|-5k|50
+Nevel’|RU||9i|4bm|2b5|4y|Nevel;Newel
+New Castle|US|Indiana|38|32x|-6l5|4w|Newcastle
+New Philadelphia|US|Ohio|48|34h|-6a9|4v
+New Milford|US|New Jersey|48|35q|-5pm|4o
+Newtonbrook East|CA||59|3dn|-64l|4h
+New Port Richey|US||48|26g|-6ds|4e
+New Cross|GB||9b|3z0|-4|4e|Nova Kruco
+New Haven|US|Indiana|38|363|-6k5|4d|Newhaven
+Newport|US|Kentucky|48|30l|-6iq|4a
+New Territory|US||2f|2a7|-7ds|48
+Newton|US|Iowa|2f|37u|-76h|47
+Newport Pagnell|GB||9b|40p|-20|47
+New River|US||4i|2m8|-8ni|46|Newriver
+New Bongaigaon Railway Colony|IN||6t|21k|6zi|45
+Newtown|AU|New South Wales|8l|-2m6|bny|44
+New Visayas|PH||71|kw|9oy|44
+New Franklin|US|Ohio|48|35q|-6ai|3z
+New Fairfield|US||48|377|-5o5|3x
+New Cassel|US||48|358|-5od|3x
+New Barnet|GB||9b|3zh|-i|3w
+Newport|AU|Victoria|8j|-2x4|b6g|3t
+New Hamburg|CA||59|3ci|-686|3s
+New Ulm|US||2f|3f3|-7ae|3p|Nova Ulma
+Newton|US|North Carolina|48|2r3|-69m|3m
+Newington|US|Virginia|48|2zm|-5ye|3l
+New Brighton|CA||2s|3xg|-8sj|3l
+Newhaven|GB||9b|3x4|6|3l
+Nieuw Nickerie|SR||4h|gh|-4e9|3k|Yeni Nickerie;Nueva Nicaría;Yeni Nikeri;Neu-Nickerie;Sabuwar Nickerie;Nova Nickerie;New Nickerie
+New Carrollton|US||48|309|-5xk|3k|New Carrolltn
+Newport|GB|England|9b|42l|-6m|3j
+New Kensington|US||48|34p|-65k|3j
+New Providence|US||48|352|-5qo|3h
+New Baltimore|US|Michigan|2q|3ak|-6du|3g
+Newman|AU||8k|-1sw|98m|3f
+New Farm|AU||8c|-24b|bt5|3f
+New Kingman-Butler|US||4i|2pz|-8sr|3d
+Pionerskiy|RU|Kaliningrad Oblast|96|48n|1k7|3b|Neukuhren;Pionerskij;Naujieji Kuršiai;Pionerskis;New-Kuhren
+Newport East|US||48|37c|-5i1|3a
+New Toronto|CA||59|3d4|-64v|37
+Newcastle|US|Washington|3p|3o2|-9fc|36
+Newtown|GB||9b|41w|-96|36|Y Drenewydd;Neapolis;Niutaunas;Tre-Newydd
+Newtonville|US||48|39n|-5hs|35
+New Grove|MU||ag|-1kp|4g1|32
+Newman|US|California|3p|2vn|-9c6|31
+Temiskaming Shores|CA||59|3nx|-65g|2w|New Liskeard
+Newberry|US|South Carolina|48|2n7|-6aq|2v|New Berry
+Newport|US|Oregon|3p|3g0|-9kl|2v
+Newtown|NZ||ak|-36r|dhi|2t
+New Port Richey East|US||48|26i|-6dp|2s
+New Lambton|AU||8l|-2jh|bpf|2s
+Newton Highlands|US||48|39k|-5hs|2s
+New Albany|US|Ohio|48|33c|-6e1|2r
+Newtown|AU|Victoria|8j|-2xz|b4y|2q
+New Hyde Park|US||48|356|-5op|2q
+Nyu-York|UA||98|3q9|2x4|2p|Novhorodske;Niu-York;Nju Jork;Novhorodcke;Nju-Jork;Nowhorodske;Nyu York;Niou-Iork;Niu York;Ņujorka;Njoe-Jork;New York;Novgorods’ke;N’yu-York;N’yu-Iork
+New Romney|GB||9b|3xn|2m|2p
+Newtown|AU|Queensland|8c|-24k|bq1|2n
+Newcastle|US|Oklahoma|2f|2px|-7j4|2m
+Newlands|KY||2e|1hl|-69u|2m|Newland
+New Mill|GB||9b|44t|-4v|2k
+Newport|AU|New South Wales|8l|-2li|bob|2i
+New Windsor|US|New York|48|378|-5pm|2h
+New Batu Batu|PH||71|e3|990|2h
+Newlands|NZ||ak|-36i|dhm|2h
+Newark|US|New York|48|3bl|-5y6|2g
+New Albany|US|Mississippi|2f|2nt|-6v9|2g
+New Richmond|US|Wisconsin|2f|3hc|-752|2g
+New Windsor|NZ||ak|-2ui|dha|2f
+Newbury Park|GB||9b|3za|9|2e
+New Horizons|CA||5b|3sw|-9h2|2d
+New Basford|GB||9b|435|-39|2c
+Newton|SG||7j|3n|80g|2b
+New Baltimore|US|Virginia|48|2zp|-5zx|29
+New Square|US||48|36a|-5pn|29
+New Ross|IE||8z|41k|-ja|28|Ros Mhic Thriúin;Niu Rosas
+Newton|US|New Jersey|48|362|-5rn|28|Newtown;New Town
+Newport|US|Arkansas|2f|2qw|-71k|26|New Port
+New Prague|US||2f|3fq|-77y|24
+Newton Upper Falls|US||48|39j|-5hu|24
+Newcastle|GB||9b|46m|-gd|22|An Caisleán Nua
+New Shagunnu|NG||u|sq|cf|21
+New Cumberland|US|Pennsylvania|48|33r|-5xk|21
+New Dorp|US||48|34p|-5pw|21|Newdorp;Niew Dorp
+New London|US|Wisconsin|2f|3fb|-6ui|20
+New Paltz|US||48|37z|-5pt|1z|Newpaltz
+Newport|US|Tennessee|48|2rx|-6f3|1w
+Newtown Trim|IE||8z|44s|-it|1w
+New Waterford|CA||2x|3kh|-4mw|1v
+Newcastle West|IE||8z|41p|-p6|1u|An Caisleán Nua;An Caisleán Nua Thiar;Niukasl Vestas
+Newborough|AU||8j|-2y1|bad|1u
+New Milford|US|Connecticut|48|37i|-5nx|1t
+Newbridge|GB|Wales|9b|3zj|-8p|1t
+Newnham|AU||8g|-36z|bcn|1t
+New Brighton|NZ||ak|-3cw|dbt|1t
+Newarthill|GB||9b|4b2|-ay|1t
+Newbiggin-by-the-Sea|GB||9b|49b|-47|1r
+New Dorp Beach|US||48|34p|-5pu|1q
+New Town|AU||8g|-3b2|bd7|1o
+New Whiteland|US||38|31w|-6n6|1n
+New Brighton|US|Pennsylvania|48|355|-673|1n
+Newington|AU|New South Wales|8l|-2lz|bnm|1l
+New Washington|PH||71|wd|9g3|1l
+Newmains|GB||9b|4az|-ar|1l
+New Carlisle|US|Ohio|48|32y|-6hf|1l
+Newberry|US|Florida|48|2ad|-6dh|1k
+New Stevenston|GB||9b|4b2|-b1|1j
+New Alresford|GB||9b|3xx|-39|1i|Novum Forum
+New Holland|US|Pennsylvania|48|33e|-5vd|1i
+New Gloucester|US||48|3e4|-5f8|1i|New Cloucester
+New Castle|US|Delaware|48|326|-5tw|1i|Nova Kastelo;Newcastle;New Castl;Neucastle;Neu Castle;New Castel
+New Norfolk|AU||8g|-3au|bci|1i
+Newlands|ZA||o|-2me|1f9|1h|Nuweland
+New Hempstead|US||48|36b|-5pn|1h
+New Ferry|GB||9b|448|-8b|1h
+Newmarket|US||48|3bo|-5h2|1h|Newmarkit;New-Market
+New Ipswich|US||48|3ar|-5jl|1h
+New Martinsville|US||48|324|-68m|1g
+New Haven|US|Michigan|2q|3bp|-6hr|1f
+New Burlington|US||48|312|-6iw|1f
+Newton Corner|US||48|39o|-5hs|1e
+New Auckland|AU||8c|-1uc|bo4|1e
+New Boston|US|New Hampshire|48|3be|-5j5|1d
+Newmarket|AU||8c|-248|bt1|1c
+Newport|US|New Hampshire|48|3ch|-5kh|1c
+Newton|AU||8b|-2ow|ap8|1b
+New Lexington|US||48|32b|-6cd|1b
+Newport|US|North Carolina|48|2on|-5xi|1b
+Newstead|AU|Tasmania|8g|-374|bcs|1b
+New Roads|US||2f|2da|-720|1b|Newroads
+New Haven|US|Michigan|2q|3ap|-6e0|1b
+New Boston|US|Texas|2f|2ky|-7aa|1b
+New Castle|US|Colorado|2p|31x|-8aq|1b
+New Minas|CA||35|3h7|-4z3|1b
+Newton Falls|US||48|36f|-68y|1b
+New Freedom|US||48|32e|-5x2|1a
+New Northwood|US||48|31b|-5wr|19
+Newton|US|New Hampshire|48|3b3|-5hb|19
+Newport|US|Vermont|48|3gu|-5kl|18
+New Jade Garden|HK||6i|1pu|8tc|18
+Newcomb|AU||8j|-2y1|b53|18
+New Forest B|ZA||o|-1wo|2ej|18
+Newent|GB||9b|409|-6p|17
+New Tredegar|GB||9b|3zo|-90|16
+Newport-on-Tay|GB||9b|4cs|-86|16
+New Maryland|CA||43|3ji|-558|16
+Newport|US|South Carolina|48|2p7|-69a|15|New Port
+New Brighton North|NZ||ak|-3ct|dbs|15
+New Beith|AU||8c|-255|bsu|14
+Newton Stewart|GB||9b|48o|-cg|14|Baile Úr nan Stiúbhartach
+New Lebanon|US||48|32f|-6ie|14
+Kangkar Baru|MY||6v|5j|7yc|14|New Kangkar Village;Kampung Kang Kar Baharu;Kangkar Baharu
+Newtown|CA||50|3nz|-42o|14
+Newfane|US||48|3c9|-62n|12|New Fane
+New Baclayon|PH||71|ia|9o9|12
+New Hanover|ZA||o|-29k|2ct|12
+Newcomerstown|US||48|33v|-6ap|12|New Comers Town;New Camero Town;Newcommerstown;New Comerstown;Newcomers Town
+New Bohol|PH||71|kw|9pk|11
+New-Richmond|CA||59|3ps|-52y|11
+Newick|GB||9b|3xm|2|11
+New Iloilo|PH||71|i7|9mn|11
+Newtown Grant|US||48|33u|-5s7|10
+New Edinburgh|CA||59|3i8|-5u9|z|Nova Edinburgo
+Newcastle|US|Wyoming|2p|3dt|-81g|z
+Newport|US|Minnesota|2f|3gn|-76c|z
+New Hampton|US||2f|3bm|-74g|z
+New Brighton|US|New York|48|34w|-5pt|y
+Newtown|US|Hawaii|ax|1ng|-c6q|y|New Town
+New Buildings|GB||9b|48o|-kg|y|An Baile Nua
+Newton|US|Mississippi|2f|2hs|-6vo|y
+Newbern|US||2f|2sb|-6vy|x
+New Baden|US||2f|2z2|-6x6|x
+New York Mills|US|New York|48|3br|-5t5|x
+Newburgh|US|Indiana|2f|2xe|-6qt|x
+New Marske|GB||9b|47m|-2w|x
+New Holstein|US||2f|3e3|-6so|w
+New Hope|US|Mississippi|2f|2kz|-6td|w
+New Lambton Heights|AU||8l|-2jg|bpd|w
+New Panay|PH||71|iq|9m0|w
+Newtonhill|GB||9b|4ef|-5z|u
+New Britain|US|Pennsylvania|48|33y|-5su|u
+New Madrid|US||2f|2tn|-6wp|u|Nueva Madrid;Nova Madrid
+New Greens|GB||9b|3zt|-y|u
+Newmilns|GB||9b|4ah|-c0|u|Na Muilnean Ura
+New Bremen|US||48|34c|-6ie|u
+New Tazewell|US||48|2t8|-6g8|u
+Newton|CA|Alberta|2s|44t|-8r2|t
+New Cebu|PH||71|jq|9nb|t
+Newport|AU|Queensland|8c|-23l|bta|t
+Newbold Verdon|GB||9b|427|-3q|t
+Newel|DE||8r|3ud|ia|s
+New Cumnock|GB||9b|49w|-bm|s
+Newtownhamilton|GB||9b|46j|-ia|s
+Newtownmountkennedy|IE||8z|43h|-gz|s|Baile an Chinnéidigh
+Newton|US|Illinois|2f|30b|-6sw|s
+New Hope|US|Alabama|2f|2ny|-6nz|s|Newhope
+New Leyte|PH||71|ku|9pb|s
+Newmarket|NZ||ak|-2uf|dhi|s
+Newtown|US|Ohio|48|30o|-6ic|r|New Town;Newton
+Newcastle|IE|Leinster|8z|442|-i2|r|An Caisleán Nua;Novkastelo
+New Richmond|US|Ohio|48|307|-6i4|q
+Maniitsoq|GL||4e|51q|-42y|p|Sukkertoppen;Manitsoks;New Sukertop;New Sukkertoppen;Manitsoq;Maitsoq;Manitsok
+Newa Talai|IN||6t|1vn|5ov|p
+New Town|US||2f|3pa|-7wp|p|Newton
+New Egypt|US||48|33b|-5r1|p|Nov-Egiptio;Yr Aifft Newydd
+New Hope|US|Pennsylvania|48|344|-5s7|p|Coryell's Ferry;Coryells Ferry
+Newmacher|GB||9b|4f3|-62|p|Newmachar;New Machar
+New Lisbon|US||2f|3dw|-6yh|p
+Newmanstown|US||48|343|-5vp|p|Newhanstown
+New Llano|US||2f|2ef|-773|p|Newllano
+New Agutaya|PH||71|tc|97f|p
+Newton|US|Texas|2f|2dp|-78g|o
+New London|US|Ohio|48|365|-6cw|o|Nova Londres
+New Durham|US||48|3co|-5hp|o
+Newport|GB|England|9b|40e|l|o
+New Concord|US||48|333|-6b1|n
+New Gisborne|AU||8j|-2w2|b5o|n
+New Miami|US||48|31j|-6iu|n
+New Sibonga|PH||71|l0|9pt|n
+Newkirk|US||2f|2ug|-7hl|n
+New Wilmington|US||48|368|-675|m
+New Lagao|PH||71|im|9m8|m
+Newtown|US|Pennsylvania|48|33r|-5s6|m|Newton
+New Palestine|US||38|32c|-6ml|m
+Newport|US|Washington|3p|3o5|-9fe|m
+New Market|US|Virginia|48|2zd|-62j|m|Newmarket
+New Pandanon|PH||71|tc|9i3|m
+New Boston|US|Ohio|48|2zn|-6ee|m
+New Glarus|US||2f|3ax|-6x0|m|Nova Glarona;New Glaris
+Newington|GB||9b|3yn|1v|m
+Newstead|AU|Queensland|8c|-249|bt4|m
+Newport|US|Washington|3p|3pu|-914|l
+New Stanton|US||48|33q|-655|l
+New Eagle|US||48|33p|-663|l
+New Ellenton|US||48|2ku|-6ax|l
+Newfield|NZ||ak|-3ky|czq|l
+New Haven|US|Missouri|2f|2z9|-71e|l|Newhaven
+Newburgh Heights|US||48|375|-6au|l
+Newburgh|GB|Scotland|9b|4cj|-90|l
+New-Wes-Valley|CA||50|3sj|-44s|k
+Nowe Miasto|PL||a5|42a|1lb|k|New Town
+Bunclody|IE||8z|42a|-ih|k|Newtownbarry;Newtonbarry;Bun Clóidi
+New Chicago|US||2f|37g|-6qf|k
+Newtown|US|Connecticut|48|371|-5nm|k
+Newaygo|US||2q|3cm|-6mc|k
+New Athens|US||2f|2yh|-6xo|k
+New Denham|GB||9b|3z7|-1d|j
+New Johnsonville|US||2f|2s2|-6sd|j
+Newcastle Emlyn|GB||9b|40k|-cf|j|Castellnewydd Emlyn;Castell Newydd Emlyn
+New London|US|Iowa|2f|35p|-71w|j
+New Buffalo|US||2q|383|-6oy|j
+Newington|AU|Victoria|8j|-2wc|b3i|j
+New Carlisle|US|Indiana|38|37u|-6ob|j
+Newton Longville|GB||9b|40e|-25|i
+Nieu-Bethesda|ZA||o|-2gj|1w7|i|New Bethesda
+New Hartford|US|New York|48|3bn|-5t5|i
+New Line|ZA||o|-1wg|2e5|i
+Newbury|US||48|3cc|-5k4|i
+New Southwest/Mount Clare|US||48|314|-5ww|i
+Newport|IE|Munster|8z|42f|-nd|i|An Port Nua
+New Oxford|US||48|32q|-5y2|i
+Newport|US|Maine|48|3gk|-5cf|i
+Newmarket on Fergus|IE||8z|42k|-oq|i|Cora Chaitlín;Newmarket-on-Fergus
+New Forest A|ZA||o|-1wr|2eg|h
+Newton Poppleford|GB||9b|3wu|-96|h
+Newton Center|US||48|39l|-5hs|h|Newton Centre
+Newton|NZ||ak|-2ue|dhf|h
+Poriyya|IL||6n|2iy|2qq|g|Newé ‘Oved;Neveh Oved;Poriya
+New Montrose|VC||54|10k|-4q3|g
+New Market|US|Alabama|2f|2oz|-6o3|g|Newmarket
+Newtown|AU|Queensland|8c|-24q|bse|g
+New Paris|US|Ohio|48|32q|-6jj|g
+Newport|GB|England|9b|45c|-1y|g
+New Middletown|US||48|35s|-67s|g
+Newport|US|Pennsylvania|48|34g|-5y9|g
+Newfield|US|New Jersey|48|31v|-5sf|f
+New Haven|US|West Virginia|48|30b|-6bp|f|Newhaven
+New Market|US|Maryland|48|31e|-5yn|f|Newmarket
+New Marlborough|US||48|390|-5nf|f
+New Hope|US|Oregon|3p|39o|-9ip|f|Newhope
+New Plymouth|US||28|3e5|-90i|f
+New Paris|US|Indiana|38|37a|-6mf|f
+Newton|US|Alabama|2f|2f2|-6lt|f
+Newburgh|GB|Scotland|9b|4f8|-5k|f
+Newtownstewart|GB||9b|480|-ki|f
+New Sarpy|US||2f|2ba|-6z3|f
+Newberry|US|Michigan|2q|3ks|-6lj|f
+New Beaver|US||48|35k|-679|f
+New Union|US||2f|2qp|-6n4|e
+New London|US|New Hampshire|48|3cl|-5jz|e
+New Castle Northwest|US||48|35y|-678|e
+New California|US||48|33k|-6f8|e
+New Windsor|US|Maryland|48|31u|-5y7|e
+New Rockford|US||2f|3og|-7ne|e
+New Hartford Center|US||48|38c|-5mq|e
+Newfield|US|Maine|48|3d9|-5gt|e
+New Pekin|US||38|2yz|-6my|e
+Neve Yamin|IL||6n|2hd|2p2|e|Neve Jamin;Neweh Yamin;Newé Yamin
+Newell|US|West Virginia|48|34u|-67w|e
+New Berlinville|US||48|343|-5u3|e
+New Market|US|Tennessee|48|2sa|-6g3|e
+New Carlisle|CA||59|3pd|-51i|e
+New Berlin|US|Illinois|2f|32d|-6xr|e
+New Sharon|US|Maine|48|3g0|-5ei|d
+New Fairview|US||2f|2jy|-7ip|d
+Newville|US|Pennsylvania|48|33l|-5z0|d
+Newtown St Boswells|GB||9b|4ae|-7f|d
+New London|US|Minnesota|2f|3hu|-7bq|d
+New Sharon|US|Iowa|2f|377|-75d|d
+Newton Ferrers|GB||9b|3vr|-b8|d
+New Winthorpes|AG||1j|1bn|-4rp|d|Nyuu Wintrup
+Newton Lower Falls|US||48|39l|-5hx|c
+Newburg|US|Wisconsin|2f|3cn|-6sl|c
+New York Mills|US|Minnesota|2f|3l8|-7cy|c
+Newcastle|US|California|3p|2zz|-9ch|c
+Neve Yaraq|IL||6n|2h9|2p0|c|Newé Yaraq;Neve Jarak;Neve Yarak;Neve Jaraq
+New Vienna|US||48|318|-6gh|c|New Viennia
+New Waterford|US||48|35h|-67x|c
+New Richland|US||2f|3dx|-77p|c
+New Preston|US||48|37s|-5nr|c
+Newark|US|Arkansas|2f|2r6|-720|c|New Ark
+New Dundee|CA||59|3cf|-67q|c
+New Brockton|US||2f|2f7|-6mp|c|New Brocton
+New Pitsligo|GB||9b|4fz|-64|c
+Newcastle|CA||43|3mk|-525|b
+New Matamoras|US||48|31s|-697|b|New Metamoras;New Matamora
+New Summerfield|US||2f|2gu|-7c5|b
+Newtonmore|GB||9b|4ej|-bg|b|Baile Ur an t-Sléibh
+Newton|CA|Newfoundland and Labrador|50|3oe|-42g|b
+New Victoria|CA||2x|3kh|-4n1|b
+New Franklin|US|Missouri|2f|30e|-75m|b
+New Bloomfield|US|Pennsylvania|48|34a|-5yf|b
+New Castle|US|New Hampshire|48|3bn|-5gg|b|Newcastle
+Newellton|US||2f|2h3|-71g|b
+New Century|US||2f|2zu|-7bm|b
+New Hope|US|Tennessee|2f|2p9|-6ly|b
+Newtown Cunningham|IE||8z|48s|-kw|b|An Baile Nua;Newtowncunningham
+New Philadelphia|US|Pennsylvania|48|354|-5vg|b
+New Cumberland|US|West Virginia|48|34i|-67x|b
+Newark|US|Texas|2f|2jo|-7is|b
+Newport|US|Delaware|48|32b|-5u1|b|New Port
+New Shoreham|US||48|36d|-5is|a
+New Waverly|US||2f|2cu|-7d8|a
+Newark|US|Illinois|2f|37e|-6u2|a
+Newcastle East|AU||8l|-2jh|bpn|a
+New Columbia|US||48|360|-5xj|a
+Newbridge|GB|Scotland|9b|4bd|-9g|a
+Newport|US|Ohio|48|31f|-69n|a
+New London|US|Texas|2f|2hk|-7bq|a
+Newmarket|IE||8z|412|-p0|a|Áth Trasna
+New Berlin|US|New York|48|3ae|-5t9|a
+New Holland|GB||9b|456|-10|a
+New London|US|Missouri|2f|31z|-71w|a
+Neve Ilan|IL||6n|2gd|2pg|a|Newe Ilan;Neveh Ilan
+Newark Valley|US||48|39a|-5vm|a
+Neve Ziv|IL||6n|2jr|2pq|a|Newe Ziv
+New Salem|US|Massachusetts|48|3a2|-5kx|9
+New Braintree|US||48|39k|-5kd|9
+Newtownbutler|GB||9b|46i|-kg|9|An Baile Nua
+New Bethlehem|US||48|35w|-64d|9
+New Washington|US|Ohio|48|35s|-6e5|9
+New Castle|US|Kentucky|48|2yr|-6kl|9
+New Bedford|US|Pennsylvania|48|366|-67m|9
+Newcastle|IE|Leinster|8z|43f|-gv|9|An Caisleán Nua
+New Tripoli|US||48|350|-5uf|9
+New Salem|US|North Dakota|4d|3m5|-7tp|9|New Sale
+New Haven|US|Kentucky|48|2wm|-6lr|9|Novus Portus
+New Madison|US||48|331|-6jb|9
+Newell|US|Iowa|2f|3ad|-7bw|9
+New Berlin|US|Pennsylvania|48|35k|-5xv|9
+New Knoxville|US||48|34h|-6i7|9
+New Milford|US|Pennsylvania|48|38b|-5ud|9
+Newman|US|Illinois|2f|32k|-6sf|9
+Newport|GB|Wales|9b|40i|-df|9|Trefdraeth
+Newhall|US||2f|38o|-73h|9
+Nevve Mikha’el|IL||6n|2fz|2p9|8|Newé Mikha’el
+Newcastle West|AU||8l|-2jg|bpk|8
+New Holland|US|Ohio|48|31v|-6fa|8
+Newington|US|New Hampshire|48|3bq|-5gr|8
+Newstead|AU|Victoria|8j|-2v3|b46|8
+New Portland|US||48|3go|-5eq|8
+New Deal|US||2f|2lq|-7uw|8
+New Hope|US|Virginia|48|2y4|-637|8
+New Windsor|US|Illinois|2f|36g|-6z8|8
+Newton|US|Utah|2p|38a|-8n3|8
+Nevestino|BG||9v|39d|1rh|8|Newestino;Nevyestino
+Newtownforbes|IE||8z|45d|-lr|8|an Lios Breac
+New Salem|US|Pennsylvania|48|32u|-5xb|8
+Newcastleton|GB||9b|49a|-7t|8|Copshaw Holm;Baile a' Chaisteil Nuadh;Copshie;Holm
+New Harmony|US||2f|2xx|-6sa|8|Nová Harmonie;Nova Harmonia
+Newfield Hamlet|US||48|39o|-5wr|8
+New Site|US||2f|2js|-6m9|8|Newsite
+New Vineyard|US||48|3gg|-5es|8
+Newdigate|GB||9b|3y5|-t|7
+New Tulsa|US||2f|2s8|-7dr|7
+Newborn|US||48|2l4|-6gi|7
+Newtyle|GB||9b|4d4|-8r|7
+New Florence|US|Missouri|2f|303|-721|7
+Newman Grove|US||2f|37z|-7jm|7|Newmans Grove
+New Seabury|US||48|37h|-5fs|7
+New Straitsville|US||48|31y|-6cg|7
+New Market|US|Pennsylvania|48|33q|-5xh|7|Newmarket
+New Market|US|Minnesota|2f|3ft|-77b|7|Newmarket
+New Milford|US|Illinois|2f|397|-6vf|7
+New Quay|GB||9b|412|-c4|7|Y Cei Newydd
+Newlands Arm|AU||8j|-2xd|be9|7
+Newland|US||48|2s9|-6bl|7
+New Bloomfield|US|Missouri|2f|2zk|-73t|7
+New Underwood|US||2p|3eh|-7xo|7
+Newcastle|US|Maine|48|3ec|-5d6|7|New Castle
+New Florence|US|Pennsylvania|48|346|-63o|7
+New Port|AU||8b|-2os|aop|7
+New Baltimore|US|Ohio|48|312|-6j7|7
+New Deer|GB||9b|4fr|-63|7
+New England|US||2p|3la|-7xr|7|Nova Anglio
+Newton Solney|GB||9b|42r|-4e|7
+New Boston|US|Illinois|2f|36d|-70s|7
+New Jerusalem|US||48|34d|-5uf|6
+New Sweden Station|US||48|3mf|-596|6
+New Augusta|US||2f|2eo|-6vc|6
+New Hope|US|Texas|2f|2k9|-7g9|6
+New Salem|US|Pennsylvania|48|35v|-644|6
+New Market|US|Indiana|38|32z|-6pg|6|Newmarket
+New Hazelton|CA||5b|49h|-9uf|6
+Newport|IE|Connacht|8z|45p|-qj|6|Baile Uí Fhiacháin
+Newport|US|New York|48|3bz|-5sd|6
+New Chapel Hill|US||2f|2hr|-7cd|6
+New Salisbury|US||3k|2yf|-6n5|6
+New London|US|North Carolina|48|2qg|-66u|6
+New Hope (historical)|US||2f|2kb|-7hf|6
+Newton Regis|GB||9b|42b|-4f|6
+Newell|US|South Dakota|2p|3g7|-7za|6
+Newton|US|Georgia|48|2ez|-6ia|6
+New Haven|US|Ohio|48|314|-6je|6|Newhaven
+New Berrima|AU||8l|-2nu|blm|6
+New Salem|US|Pennsylvania|48|32w|-65s|6
+Newton Grove|US||48|2px|-61n|6
+New Mapoon|AU||8c|-u7|azi|6
+New Auburn|US||2f|3hk|-72c|6
+Newcastle|US|Texas|2f|2k7|-7ma|6
+New Washington|US|Indiana|3k|2z4|-6lm|6
+Newbridge on Wye|GB||9b|411|-9k|6
+Newton St Cyres|GB||9b|3x1|-9z|6
+New Lothrop|US||2q|3bs|-6h9|6
+New Alexandria|US||48|348|-64m|6
+New Hamilton|US||2f|2lq|-6to|6
+New Limerick|US||48|3k2|-58s|5
+New Road Area|BZ||24|18r|-6up|5
+Newtown Limford|GB||9b|42c|-3f|5|Newtown Linford
+New Berlin|US|Texas|2f|29u|-7ki|5|Nov-Berlino
+Newell|US|Pennsylvania|48|33c|-65y|5
+New Stuyahok|US||1h|4l5|-c4z|5|New Stuyarok
+Newville|US|Alabama|2f|2fa|-6l2|5
+New Cuyama|US||3p|2p3|-98h|5
+Newbold on Stour|GB||9b|40r|-4k|5|Newbold-upon-Stour
+New Hartford|US|Iowa|2f|3a9|-75a|5

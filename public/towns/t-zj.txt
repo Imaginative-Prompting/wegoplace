@@ -1,0 +1,49 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Zheleznodorozhnyy|RU|Moscow Oblast|9i|4au|2xm|13c|Zjeleznodorozjnyj;Zheleznodorozhny
+Zheleznogorsk|RU|Kursk Oblast|9i|41e|2q8|r7|Zjeleznogorsk;Železnogorsk;Željeznogorsk;Schelesnogorsk
+Zhukovsky|RU||9i|4ag|2xw|r0|Zjukovskij;Žukovski;Schukowski;Zhukovskiy
+Zheleznogorsk|RU|Krasnoyarsk Krai|6u|4c9|77t|q2|Zjeleznogorsk;Železnogorsk;Željeznogorsk;Schelesnogorsk;Krasnojarsk-26;Krasnoyarsk-26;Krasnoyarsk-9
+Zhigulëvsk|RU||9p|44c|3tj|fv|Zjigulevsk
+Zhovti Vody|UA||98|3qb|2l2|bp|Schowti Wody;Jovti Vody;Žovti Vody;Geltonieji Vandenys;Zjovti Vody;Jovti Vodî;Żółte Wody;Scholti Woody;Žovti Vodi;Zhovta Rika
+Zheleznogorsk-Ilimskiy|RU||6k|4d6|819|7x|Zjeleznogorsk-Ilimskij
+Oleshky|UA||98|3lj|2iw|6u|Tsyurupynsk;Olechky;Zjurupynsk;Oleschky;Oleški
+Zheleznovodsk|RU||9i|3em|3bg|6u|Zjeleznovodsk;Zheleznovodak;Zhelyednovodsk
+Zhukovka|RU|Bryansk Oblast|9i|44p|2lp|5h|Zjukovka;Schukowka
+Zhirnovsk|RU||a4|3xm|3ge|4z|Zjirnovsk
+Yemva|RU||9i|4tv|3xa|4k|Zjeleznodorozjnyj
+Zherdevka|RU||9i|401|375|4g|Zjerdevka
+Žytkavičy|BY||9g|412|25e|4e|Zhytkavichy;Jytkavitchy;Žytkavitšy;Žytkavičai;Zjytkavytjy
+Zhukov|RU||9i|48u|2u2|3f|Zjukovo
+Zhydachiv|UA||98|3t6|1v2|2w|Żydaczów;Schydatschiw;Zhidáchiv;Jydatchiv;Jıdaçiv;Žydačiv;Židačiva;Zjydatsjiv;Žõdatšiv;Žydačiw;Žydačivas;Zhidachev;Zhidechuv;Zhydachuv;Zhidachov
+Zheshart|RU||9i|4sf|3tp|2n|Zjesjart;Zhershart;Zheshert
+Zheleznodorozhnyy|RU|Irkutsk Oblast|6k|4gv|7xi|24|Zjeleznodorozjnyj
+Zhirnov|RU||9i|3pt|369|1p|Zjirnov;Zhirov
+Zhizdra|RU||9i|45b|2oi|1l|Zjizdra
+Zhigalovo|RU||6k|489|844|1h|Zjigalovo
+Zharkovskiy|RU||9i|4b5|2hn|1c|Zjarkovskij
+Zhireken|RU||67|42r|91v|12|Zjireken
+Zhemtala|RU||9i|3c8|3da|x|Zjemtala
+Zhigansk|RU||7x|55h|9iq|w|Zjigansk;Shigansk
+Zhitnevo|RU||9i|49q|2xb|w|Zjitnevo
+Zhdankovskiy|RU||9i|45b|2y2|u|Zjdankovskij
+Zhiletovo|RU||9i|47x|2s2|u|Zjiletovo;Zhiletova
+Zheleznodorozhnyy|RU|Kaliningrad Oblast|96|470|1n7|u|Gerdauen;Zjeleznodorozjnyj;Girdava;Železnodorožnas;Železnodorožnyj;Gerdauyen
+Zhavoronki|RU||9i|4al|2v2|t|Zjavoronki
+Zhuravki|UA||9t|3hd|2pu|r|Zjuravki;Juravkî;Zuravki
+Zhukovka|RU|Moscow Oblast|9i|4cw|2w8|q|Zjukovka
+Zhilëvo|RU||9i|48t|2xl|q|Zjilevo
+Zhiryatino|RU||9i|43v|2lp|n|Zjirjatino
+Zhadovka|RU||9z|44t|3mf|l|Zjadovka;Jadovka
+Zhemchug|RU||6k|3zl|7wm|i|Zjemtsjug
+Zhiguli|RU||9p|448|3sy|g|Zjiguli
+Zhvanets|UA||98|3qv|21l|f|Żwaniec;Schwanez;Žvanets;Jvaneț;Zjvanets;Jvanets
+Zharikovo|RU||7w|3fv|a5x|d|Zjarikovo;Karikovo
+Zhankhoteko|RU||9i|3d0|3c1|d|Zjankhoteko
+Žujince|RS||8q|39k|1oa|d|Zhunicë;Zjujince;Žuince
+Zhuravlevo|RU||74|486|6ka|9|Zjuravlevo;Zhuravleva
+Zhukiv|UA||98|3tj|1xa|9|Zjukiv;Jukiv;Żuków;Zhukov
+Zhelnino|RU||9i|4c4|3ch|8|Zjelnino;Zholnino
+Žitni Potok|RS||8q|3bp|1nx|8|Zhitnipotoku;Zjitni Potok
+Zhemchuzhnyy|RU||6u|47e|6yf|8|Zjemtsjuzjnyj
+Zhizhitsa|RU||9i|4cc|2f3|7|Zjizjitsa

@@ -1,0 +1,44 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Mangaluru|IN||6t|zw|5ry|3ur|Mangalore;Kudla;Kodial;Mangalor;Mangaloro;Mangalur;Mangalooru
+Koudougou|BF||1a|y1|-6l|18i|Kuduguo;Kondougou;Kudugu
+Sultan Kudarat|PH||71|k3|9l6|yq
+Kudus|ID||6l|-iw|8jw|pm
+Kudamatsu|JP||7q|2mh|a6b|fj
+Kudappanakkunnu|IN||6t|nr|5xs|bk
+Kudat|MY||6w|j5|90i|90
+Kudymkar|RU||7z|4jy|47t|8s|Kudimkar;Koudymkar;Koedymkar;Kudõmkar
+Kudrovo|RU||9i|4me|2cr|8c|Väärämäki
+Kūdligi|IN||6t|15f|5w7|7f
+Kūdlu|IN||6t|yt|5sa|7a
+Cugir|RO||8u|3jc|1sx|6v|Kudzsir;Kudžiras
+Kudachi|IN||6t|1a7|5rx|6g|Kudchi
+Kudepsta|RU||9i|3cu|32t|4q
+Kuda|IN||6t|1zx|78e|4h
+Kudāl|IN||6t|18h|5op|4g
+Kudali|IN||6t|x4|5tn|48
+Kodavasal|IN||6t|u6|64s|42|Kudavāsal;Kudavāsa
+Kudwā|IN||6t|1no|66r|37
+Mala Vyska|UA||98|3r5|2fv|2w|Kudasheve;Mała Wyska
+Kudowa-Zdrój|PL||a5|3w4|194|2u|Cudowa;Kudowa;Bad Kudowa;Kudowa-Zdrůj;Kudovazdroja
+Kudelstaart|NL||8m|413|d7|2k|Kudelstartas
+Kudus|IN||6t|1i9|5n2|20
+Kudryashovskiy|RU||75|492|6dx|13|Kudrjasjovskij;Kudryashevskiy
+Kudoyama|JP||7q|2n9|agk|13
+Kudanding|PH||71|ib|9m7|11
+Kudinovo|RU||9i|48s|2sp|y
+Kudeyevskiy|RU||7z|48g|4do|t|Kudejevskij
+Kudremukh|IN||6t|10q|5t1|m
+Kudirkos Naumiestis|LT||a3|485|1ri|k|Kudirkas Naumieste;Kodirkas Naumiestis;Kudirkos Naumestis;Władysławów;Wladislawow;Kudirkos-Naumestis
+Kūd|IN||6t|2jv|5t5|g
+Kudahuvadhoo|MV||af|7f|5mh|g
+Kudara-Somon|RU||6k|3vc|8ac|f
+Kuddewörde|DE||8r|44v|sw|d
+Kudashivka|UA||98|3q3|2mk|b|Hindenburg;Kudaschiwka;Kudaschewka;Kudashyevka
+Kūdīān|IR||7o|2ax|410|a
+Kudlovice|CZ||9m|3sh|1ci|9
+Qudula|AZ||61|36b|3mo|9|Goudoula;Kudula
+Kudrivka|UA||98|3zh|2in|8|Kudriwka;Kudrovka
+Kuden|DE||8r|45x|pj|7
+Qūdjānak|IR||7o|2je|3vq|6|Kūdanak
+Kudla|AU||8b|-2o8|apa|5

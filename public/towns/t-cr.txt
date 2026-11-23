@@ -1,0 +1,842 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Santa Cruz de la Sierra|BO||3n|-1df|-4vi|e4q|Santa Cruz;Santa Cruz da Serra;Santa-Kruzo
+Kraków|PL||a5|3v2|1je|6au|Krakau;Cracovia;Krakov;Krakovo;Krakovia;Krakova;Cracovie;Krakkó;Krokuva;Cracaû;Kraká;Krakovja;Krakůw;Krakovi;Carcovia;Cracow;Krakoo
+Christchurch|NZ||ak|-3cx|dbj|38g|Kristkirko;Ōtautahi;Kraistčērča;Kraistčerčas;Crīstcirice;Christopolis;Kraysçörç;Kraystcherch
+Puerto La Cruz|VE||2c|sd|-4zj|2us|Puerto de La Cruz;Puerto Cruz;Puerto la Krusas
+Mogi das Cruzes|BR||4w|-1tc|-3kb|2ih|Moji das Cruzes;Mogy das Cruzes
+San Cristóbal|VE||2c|ll|-5ko|28j|San Kristobalis;San Kristobal;San-Kristobal
+Krefeld|DE||8r|3ym|i7|1u4|Krieevel;Krievel;Crefeld
+Craiova|RO||8u|3f4|1u4|1t1|Krajowa;Krajova;Kraiov;Croiova
+Croix-des-Bouquets|HT||4j|1fm|-5kn|1rn|Kwadèbouke
+Criciúma|BR||4w|-27o|-3t5|1r6|Cresciúma;Creciúna
+San Cristóbal de las Casas|MX||3z|1ah|-75c|1nz|San Cristóbal;San Cristóbal las Casas
+Santa Cruz de Tenerife|ES||83|273|-195|1mq|Tenerife;Teneriffa;Santakrusa de Tenerife;Santa Cruz Tenerifekoa;Sancta Crux Nivariae;Santa Kruz de Tenerife;Tenerifės Santa Krusas
+Croydon|GB||9b|3yq|-a|1c5|Kroydon;Krojdono
+San Cristóbal|DO||4v|1f6|-5er|16s
+Crato|BR||2w|-k3|-31h|12m
+Santa Cruz do Sul|BR||4w|-2ak|-41n|12f
+Pulong Santa Cruz|PH||71|13n|9cc|z8|Santa Cruz
+Santa Cruz|PH|National Capital Region|71|14k|9c2|z7
+Crawley|GB||9b|3xz|-i|yg|Krolis
+Santa Cruz|PH|Calabarzon|71|13o|9da|u1
+Santa Cruz do Capibaribe|BR||4p|-m4|-2sk|t5
+Las Cruces|US||2p|2hr|-88m|s8
+São Cristóvão|BR||3r|-ul|-2vd|s4|San Kristovanas;São Christovão
+Cruzeiro do Sul|BR|Acre|4s|-l7|-5lw|or
+Créteil|FR||9k|3rj|6v|nk|Kretėjus
+Cruzeiro|BR|São Paulo|4w|-1qp|-3gx|my
+Cranston|US||48|382|-5ig|mj
+Crewe|GB||9b|43i|-6s|l8|Kru;Kruo
+Crateús|BR||2w|-ee|-34z|kw|Cratheús
+Cremona|IT||9o|3hd|ru|js|Crémone;Cremon-a
+Coroatá|BR||2w|-bh|-3ek|i7|Croatá
+Craigieburn|AU||8j|-2wg|b6n|i4
+Cricklewood|GB||9b|3z8|-m|i2
+Crotone|IT||9o|30k|1bl|hy|Crotona;Croton;Krotona;Cutroni;Croto;Krotonė;Krotono
+Cruz das Almas|BR||20|-z7|-30m|gr
+Cristalina|BR||4w|-1al|-3oa|gq|Cristalino;Crystallina
+Craigavon|GB||9b|479|-hr|gg|Creag Abhann
+Cruz Alta|BR||4w|-27k|-44x|gd
+Cristo Rey|DO||4v|1fe|-5e9|fv
+Krujë|AL||9y|37b|1iz|e8|Kruja;Croia;Kruya;Kroya;Cruja;Krueja;Kroïa;Krue;Kroja
+Cradock|ZA||o|-2hc|1z6|c7
+Bad Kreuznach|DE||8r|3ug|lv|c0|Cruciniacum
+Kronstadt|RU||9i|4mn|2aq|by|Cronstadt;Kroonlinn;Kronsjtadt;Kronstatti;Kronshtadt;Kronsztad;Kronštatas;Kronštate;Kronŝtato;Kronštat;Stephanopolis
+Crystal Lake|US|Illinois|2f|39c|-6tc|b8|Crystallake;Chrystal Lake
+Crailsheim|DE||8r|3sh|rz|9y|Krailsheimas
+Cravinhos|BR||4w|-1na|-3ol|99
+Cramlington|GB||9b|491|-4f|98
+Creil|FR||9k|3su|6w|8v
+Crema|IT||9o|3i0|qw|8r
+Crevillente|ES||9d|2y9|-29|82|Crevillent
+Crown Point|US|Indiana|2f|372|-6qp|81|Crownpoint
+Cruz del Eje|AR||1n|-2dd|-500|7u
+Cranberry Township|US||48|350|-66j|7t
+Crofton|US|Maryland|48|30c|-5x1|7l
+Croydon|AU|Victoria|8j|-2x0|b7k|7d
+Craíbas|BR||3r|-qq|-2u5|79|Caraíbas
+Cruzeiro|BR|Federal District|4w|-17v|-3p6|75|Cruziero
+Le Creusot|FR||9k|3m1|ca|74|Creusot
+Crowthorne|GB||9b|3yp|-27|73
+Cruces|CU||36|1q2|-66z|6x|Crues
+Cranbourne North|AU||8j|-2xs|b7m|6v
+Cranbourne East|AU||8j|-2xw|b7m|6v
+Cruzeiro do Oeste|BR||4w|-1u2|-43f|6m
+Chrudim|CZ||9m|3ur|17w|6k|Hrudima;Crudim
+Crestview|US||2f|2dg|-6oh|6h
+Crystal|US||2f|3h3|-77c|6d
+Cranford|US||48|34y|-5qe|6a
+Crowborough|GB||9b|3xu|g|61
+Croix|FR||9k|3ws|8r|5y
+Cranbourne|AU||8j|-2xv|b7k|5x
+Crisópolis|BR||20|-vz|-2xz|5w
+Crest Hill|US||2f|37f|-6sq|5w
+Cranston|CA||2s|3xd|-8sm|5t
+Croulebarbe|FR||9k|3rl|6j|5l
+Cranbrook|CA||2s|3ti|-8xl|5k
+Cranbourne West|AU||8j|-2xu|b7j|5k
+Cranendonck|NL||8m|3yi|fj|5k|Kranedonk
+Cran-Gevrier|FR||9k|3ji|gy|5e
+Oswestry|GB||9b|42u|-8h|57|Croesoswallt;Osvestris
+Cruz Machado|BR||4w|-20a|-3yn|57|Cruz Muchado
+Crocetta|IT||9o|3h6|lb|53
+Crespo|AR||1n|-2gz|-4nj|53
+Creve Coeur|US|Missouri|2f|2ze|-6z6|53
+Crimmitschau|DE||8r|3x6|yf|53|Krimmičava;Crimmitshau
+Kronach|DE||8r|3vk|vh|52|Crana
+Croatá|BR||2w|-ca|-35m|51|Coroatá
+Cristinápolis|BR||3r|-vw|-2ww|50|Cristianópolis
+La Crau|FR||9k|3bv|gv|4z|Crau
+Cronulla|AU||8l|-2mm|bnv|4x
+Cruz do Espírito Santo|BR||2w|-ju|-2ph|4v
+Crixás|BR||4w|-14f|-3ut|4r
+El Crucero|NI||3s|xb|-6nr|4l|El Cirucero;Crucero
+Crawfordsville|US||38|338|-6pb|4g
+Crépy-en-Valois|FR||9k|3sr|81|4d
+Cranebrook|AU||8l|-2ln|bmn|4c
+Zelenogradsk|RU||96|48o|1kw|4c|Cranz;Zielenogradsk;Zelenoqradsk;Krantas;Zelenogradszk;Kranz;Krants
+Cruzília|BR||4w|-1oo|-3gh|4a|Cruzilha
+Crucecita|MX||41|17t|-7f1|47
+Crofton Park|GB||9b|3yx|-3|45
+Crowley|US|Texas|2f|2ii|-7ig|45
+Kruibeke|BE||8t|3y5|bz|44|Cruybeke
+Croxteth|GB||9b|44h|-82|40
+Creutzwald|FR||9k|3sp|im|40|Kreuzwald
+Cristópolis|BR||20|-y0|-3fe|3w
+Cromwell|US|Connecticut|48|37k|-5lt|3u
+Craigieburn|ZA||o|-2bw|2df|3r
+Croxley Green|GB||9b|3zf|-19|3r
+Crissiumal|BR||4w|-24e|-46a|3p|Criciumal
+Crowley|US|Louisiana|2f|2bx|-74l|3n
+Cremlingen|DE||8r|415|tm|3k
+Český Krumlov|CZ||9m|3rl|13s|3j|Krumau;Böhmisch Krumau;Krummau;Crumlovia;Çeski Krumlov;Krumau an der Moldau;Krummau an der Moldau;Ceske Krumlov
+Crispiano|IT||9o|34s|1bv|3g
+Cranford|GB||9b|3z0|-15|3f
+Crystal Palace|GB||9b|3yu|-8|3f
+Cristais|BR||4w|-1m0|-3ig|3e|Crystaes
+Krosno Odrzańskie|PL||a5|40l|15y|3e|Crossen an der Oder;Krosno Odžaņske
+Crestmead|AU||8c|-24x|bt8|3d
+Crestwood|US|Missouri|2f|2z4|-6z2|3c
+Cruz Grande|MX||41|1ag|-7nc|3a|Florencio Villarreal
+Cross Hills|GB||9b|45r|-5i|39
+Cruzeiro do Sul|BR|Rio Grande do Sul|4w|-29z|-40f|38
+Crispano|IT||9o|35r|13p|38
+Crossville|US|Tennessee|2f|2rv|-6k7|36
+Crumpsall|GB||9b|44o|-68|36
+Crumlin|IE||8z|444|-hj|35|Cromghlinn
+Cranleigh|GB||9b|3y2|-1c|33
+Cremorne|AU|New South Wales|8l|-2lz|bo3|33
+Crestwood|US|Illinois|2f|37o|-6rq|32
+Craigmore|AU||8b|-2oe|apb|31
+Crestline|US|California|3p|2n4|-91t|30
+Croissy-sur-Seine|FR||9k|3rs|5y|30
+Croydon|AU|New South Wales|8l|-2m4|bns|2x
+Cristino Castro|BR||2w|-oi|-3eu|2x
+Krasnoyilsk|UA||98|3pe|1z0|2w|Krasnoïlsk;Crasna
+Korolevo|UA||98|3ps|1sa|2w|Craihaza;Királyháza;Korolewo
+Cristina|BR||4w|-1pp|-3hq|2w|Christina
+Crans-Montana|CH||a7|3kn|ks|2u
+Creazzo|IT||9o|3ih|vw|2t
+Crouch End|GB||9b|3za|-c|2t
+Cross Lanes|US||48|2yq|-6b7|2s|Crosslanes
+Croydon|US|Pennsylvania|48|33d|-5s2|2s
+Cristuru Secuiesc|RO||8u|3kk|1xj|2o|Székelykeresztúr
+Crystal Beach|CA||59|3b2|-63m|2n
+Crook|GB||9b|47z|-4v|2n
+Cristais Paulista|BR||4w|-1ko|-3nq|2l
+Crolles|FR||9k|3hs|gc|2i
+Crevalcore|IT||9o|3g8|uz|2i
+Craig|US|Colorado|2p|34k|-8ar|2g
+Cresskill|US||48|35q|-5pg|2g
+Cromer|GB||9b|431|3m|2g
+Cruz|BR||2w|-84|-33m|2f
+Crosne|FR||9k|3rc|6u|2e
+Crvenka|RS||8q|3iu|1i1|2d|Crevenka;Cservenka
+Crest|FR||9k|3g9|dy|2d
+Craponne|FR||9k|3j3|d4|2d
+Croton-on-Hudson|US||48|36h|-5p9|2b
+Crete|US|Illinois|2f|374|-6rf|2a
+Crozon|FR||9k|3q1|-ch|29|Kroazon;Kraozon;Crathonia
+Cruzeta|BR||2w|-ht|-2u7|28
+Crestwood Village|US||48|32z|-5qk|27
+Creston|US|Iowa|2f|362|-7a4|27
+Crediton|GB||9b|3x2|-a5|26|Cridiantūn;Cridia
+Crewkerne|GB||9b|3xc|-7s|26
+Crookston|US||2f|3op|-7gd|26
+Croydon North|AU||8j|-2wx|b7l|25
+Cristo|IT||9o|3gq|nw|24
+Cromer|AU||8l|-2lp|bo7|23
+Crystal City|US|Texas|2f|27o|-7pb|23
+Iqaluit|CA||3h|4x3|-5ac|22|Ikaluitas;Ikaluito;Ikaluita;Frobisher Bay;Crystal Two;İkaliuit
+Crucero|PE||3o|-13w|-5ei|22
+Cricova|MD||8x|3my|286|22|Krikova;Krikovo
+Cristalândia do Piauí|BR||2w|-tl|-3hj|22
+Cristal|BR||4w|-2e4|-40l|21
+Crieff|GB||9b|4cl|-ao|21|Craoibh
+Crete|US|Nebraska|2f|34v|-7hc|1y
+Criuleni|MD||8x|3n5|290|1x|Kriyleni;Kriuleni;Kriulen’;Krivleny
+Cruz Alta|AR||1n|-2jp|-4rp|1x
+Crescent City|US|California|3p|380|-9l0|1w|Crescent Lakanbalen
+Orong|PH||71|rm|9h7|1w|Crong;Orang
+Crevedia|RO||8u|3fw|201|1v
+Crissier|CH||a7|3lb|ia|1u
+Kremsmünster|AT||a2|3ph|139|1u|Cremifanum
+Crockett|US|Texas|2f|2f0|-7d6|1u|Crocket
+Cristalândia|BR||1k|-tg|-3sn|1s
+Crescent Heights|CA||2s|3xu|-8sv|1q
+Crikvenica|HR||a6|3hi|14t|1q|Cirquenizza;Cirkvenica;Crkvenica
+Crasna|RO|Sălaj County|8u|3n1|1rm|1q
+Crescentino|IT||9o|3hk|mh|1o
+Crumlin|GB|Wales|9b|3zk|-8q|1n
+Crafton|US||48|34c|-66f|1n
+Cranbrook|AU||8c|-1hn|bbn|1m
+Crnići|BA||9r|3bt|1dm|1m
+Craigie|AU||8k|-2gb|8xl|1l
+Crocetta del Montello|IT||9o|3jc|xf|1l|Crucicula Tarvisana;Croxeta del Monteło;Crocetta de Montello
+Creston|CA||2j|3se|-8zm|1k
+Crozet|US||48|2xr|-62m|1k
+Crystal Lake|US|Florida|48|25w|-6bj|1j
+Cristeşti|RO|Mureș County|8u|3l6|1w0|1j
+Črnomelj|SI||9a|3il|167|1j
+Crasna|RO|Gorj County|8u|3hh|1ta|1j
+Crucilândia|BR||4w|-1km|-3f6|1i
+Creswell|GB||9b|43y|-3e|1i|Cresswell
+Cranfield|GB||9b|40n|-1p|1i
+Crepaja|RS||8q|3h1|1lc|1i|Czrepaja
+Cross Country|US||48|31d|-5x2|1h
+Creve Coeur|US|Illinois|2f|34x|-6wv|1h|Crevecoeur
+Crisólita|BR||4w|-1bw|-35n|1h
+Crofton|GB||9b|452|-3z|1h
+Crossett|US||2f|2k1|-73g|1g
+Creswell|US||3p|3e0|-9hq|1g|Cresswell
+Cromwell|NZ||ak|-3h4|d20|1g
+Crumlin|GB|Northern Ireland|9b|47q|-h9|1f|Cromghlinn
+Craon|FR||9k|3ox|-2n|1f
+Cruz|PT||99|36d|-nu|1f
+Cristália|BR||4w|-1ag|-3b3|1f
+Kranenburg|DE|North Rhine-Westphalia|8r|3zu|gq|1f|Cranenburg
+Creel|MX||2g|253|-8az|1e
+Cradley Heath|GB||9b|41r|-5s|1e
+Crivitz|DE||8r|44t|wd|1e|Krīvica
+Crystal Springs|US|Mississippi|2f|2gv|-6z0|1d
+Crevedia Mare|RO||8u|3ff|1z7|1d
+La Crèche|FR||9k|3kt|-u|1d|Crèche
+Cranves-Sales|FR||9k|3kb|hi|1d
+Creußen|DE||8r|3ug|wb|1d|Creuszen
+Crestwood|US|Kentucky|48|2yg|-6lf|1c
+Crystal City|US|Missouri|2f|2y6|-6z2|1c|Kristalurbo
+Croydon Hills|AU||8j|-2wx|b7j|1c
+Creglingen|DE||8r|3tf|rv|1c|Kreglingen
+Cravo Norte|CO||27|hi|-5f0|1c
+Kremnica|SK||8s|3rb|1gk|1c|Körmöcbánya;Kremnjica;Kremnitz;Cremnicium;Körmöczbánya
+Cruces de Anorí|CO||27|jy|-5sj|1c
+Croydon South|AU||8j|-2x2|b7k|1c
+Cristeşti|RO|Botoșani County|8u|3ob|229|1b
+Crottendorf|DE||8r|3wc|zz|1b
+Cristiano Otoni|BR||4w|-1lv|-3dp|1b|Christiano Ottoni
+Cristóbal Obregón|MX||41|19n|-77m|1b
+Crows Nest|AU|New South Wales|8l|-2ly|bo0|1b
+Le Croisic|FR||9k|3nd|-70|1a|Ar Groazig;Crociciacum;Croisic
+Cresaptown|US||48|31z|-62z|1a
+Crestwood|AU||8l|-2q7|bii|1a
+Cross Hands|GB||9b|3zv|-bd|19
+Cruzeiro do Sul|BR|Paraná|4w|-1rs|-40w|19
+Crespellano|IT||9o|3fn|ux|18
+Crestline|US|Ohio|48|35b|-6du|18|Crest Line
+Creedmoor|US||48|2sc|-62l|18
+Crace|AU||8l|-2ps|bi7|18
+Cravolândia|BR||20|-114|-32l|18
+Crumstadt|DE||8r|3ud|nn|18
+Crawford Plains|CA||2s|44g|-8r1|18
+Cranbrook|GB||9b|3xy|1i|18
+Crespin|FR||9k|3w2|a6|18
+Cramerton|US||48|2pw|-698|17
+Crespano del Grappa|IT||9o|3jb|wv|17
+Crawley Down|GB||9b|3y0|-8|17
+Crăciunelu de Jos|RO||8u|3k9|1u7|17|Crăciunelul-de-Jos
+Crăciuneşti|RO|Mureș County|8u|3l4|1wa|17
+Cristeşti|RO|Iași County|8u|3nb|21t|17
+Cresco|US|Pennsylvania|48|36b|-5t4|16
+Crişcior|RO||8u|3k4|1rj|16|Criştior
+Crevoladossola|IT||9o|3k7|n2|16
+Crowland|GB||9b|42c|-h|16|Croyland
+Crawley|AU||8k|-2gu|8xq|16
+Crasnoe|MD||8x|3lk|2au|16|Krasnoye
+Cruzeiro do Iguaçu|BR||4w|-1z6|-43l|15
+Crégy-lès-Meaux|FR||9k|3s2|7z|15
+Cricklade|GB||9b|3zg|-56|14
+Crescent Springs|US||48|30h|-6iy|14
+Créhange|FR||9k|3sa|ia|14|Gréhange
+Cross Plains|US|Wisconsin|2f|3br|-6x2|14|Crossplains
+Croydon Park|AU||8b|-2ow|aox|13
+Crowle|GB||9b|44x|-2b|13
+Crane|US|Texas|2f|2f8|-7wb|13
+Cromínia|BR||4w|-1c1|-3t6|13
+Hillsborough|GB||9b|47a|-gw|13|Cromghlinn
+Cristineşti|RO||8u|3pm|21a|13
+Cristian|RO|Brașov County|8u|3iq|1yr|12
+Crittenden|US||48|2zq|-6j1|12
+Cresco|US|Iowa|2f|3ci|-73v|12
+Cruseilles|FR||9k|3jv|gz|12|Croueselyes;Crucellae
+Crawfordville|US|Florida|48|2bu|-6ie|11
+Cristeros [Fraccionamiento]|MX||41|1n8|-7v9|10
+Crângeni|RO||8u|3eb|1wu|z|Crăngem;Crîngeni
+Cruzeiro da Fortaleza|BR||4w|-1gn|-3ln|z
+Cristianópolis|BR||4w|-1bs|-3rb|z
+Crocetta-Nogarè|IT||9o|3jb|xf|z
+Cristian|RO|Sibiu County|8u|3j6|1ur|y
+Crângurile de Sus|RO||8u|3gd|1y4|y|Crîngurile de Sus
+Crémieu|FR||9k|3j1|el|y|Crèmiœ
+Crucea|RO|Constanța County|8u|3fp|26f|y
+Gratentour|FR||9k|3dg|3z|y|Gratentorn;Cratentour;Gratenteur
+Crestview Hills|US||48|30f|-6iy|x
+Crivina|RO|Brașov County|8u|3im|206|x
+Crach|FR||9k|3oa|-8c|w|Krac'h
+Crandall|US||2f|2in|-7fy|w
+Crâmpoia|RO||8u|3f2|1wr|w
+Crèvecœur-le-Grand|FR||9k|3ts|5s|w|Creuvetchœur-lGrand
+Cruz de Huanacaxtle|MX||21|1ln|-84q|w
+Creswick|AU||8j|-2vy|b3p|w
+Caraşova|RO||8u|3hk|1or|w|Craşova
+Qrendi|MT||9e|2rj|146|v|Crendi;Krendis;Krendi
+Créon|FR||9k|3gd|-z|v
+Cross Mountain|US||2f|2ad|-7m2|v
+Creuzier-le-Vieux|FR||9k|3k8|9j|v|Creusèir lo Vielh
+Crève Coeur|MU||ag|-1k3|4fw|v
+Crib Point|AU||8j|-2yj|b7c|v
+Crockett|US|California|3p|2xp|-9fh|v
+Crystal River|US||48|28a|-6df|v
+La Croix-Valmer|FR||9k|3c1|i9|v|Croix-Valmer
+Vrap|AL||9y|36b|1iz|u|Crap
+Creaca|RO||8u|3n4|1sl|u
+Croston|GB||9b|452|-7q|t
+Cruzmaltina|BR||4w|-1un|-3yw|t
+Crosshouse|GB||9b|4ah|-cn|t
+Crown Heights|US||48|37o|-5pd|s
+Cranham|GB||9b|3z9|r|s
+Croquet Lawn A|ZA||o|-1x1|2ex|s
+Criel-sur-Mer|FR||9k|3uy|3n|s
+Craponne-sur-Arzon|FR||9k|3hx|ap|s
+Crêches-sur-Saône|FR||9k|3kg|db|s
+Crivăț|RO||8u|3er|21g|r
+Cruz Bay|VI||53|1ex|-4zz|r|Kruz Buyu;Cruzbay;Cruxbay;Crux Bay
+Cristóbal|DO||4v|1et|-5i1|r
+Cruce de Arinaga|ES||83|25g|-16v|r
+Cristal do Sul|BR||4w|-249|-43x|r
+Crețești|RO|Ilfov|8u|3f0|20m|r
+Crab Orchard|US|West Virginia|48|2wu|-69n|r|Craborchard
+Creuzburg|DE||8r|3xt|sh|r
+Crisfield|US||48|2xi|-5up|r
+Crouy|FR||9k|3t8|9c|q
+Croom|US||48|2zn|-5x8|q
+Crestuma|PT||99|363|-nm|q|Crestume
+Crna Bara|RS|Central Serbia|8q|3gn|1hv|q
+Creţeni|RO||8u|3g4|1v6|q
+Crest|US||3p|2j5|-90n|q
+Crisnée|BE||8t|3ww|f0|q|Gerstekaove
+Crescent Park|CA||5d|3ug|-7hu|q
+Crookwell|AU||8l|-2nq|bj7|q
+Crosshaven|IE||8z|3zw|-n2|q|Bun an Tábhairne;Kroshavenas
+Crichton Park|CA||35|3g4|-4wl|q
+Crossgates|GB||9b|4bs|-9e|p
+Cruas|FR||9k|3g2|d8|p|Crudatium
+Crossfield|CA||2s|3yv|-8ss|p
+Creixell|ES||9d|36d|40|p
+Crooksville|US||48|32h|-6c1|p
+Le Crotoy|FR||9k|3vi|4j|p|Corocotinum;L’Crotoé;Crotoy
+Crombach|BE||8t|3vm|gv|p|Krombach;Grombac
+Crucişor|RO||8u|3og|1sl|p
+Crepaldo|IT||9o|3in|za|p
+Cruquius|NL||8m|41e|cv|p
+Črna na Koroškem|SI||9a|3l3|159|o
+Cremorne Point|AU||8l|-2m0|bo3|o
+Creysse|FR||9k|3gm|1l|o
+Crişeni|RO|Sălaj County|8u|3n7|1s1|o
+Cristóbal|PA||4g|pz|-65y|o|Christobal
+Crossford|GB|Scotland|9b|4bq|-9q|o
+Crosby|US|Minnesota|2f|3l4|-790|n
+Croswell|US||2q|3c8|-6di|n
+Craigburn Farm|AU||8b|-2pc|ap0|n
+Crossac|FR||9k|3np|-61|n|Kraozieg;Kroazieg
+Criquetot-l'Esneval|FR||9k|3tx|r|n
+Crosby|US|Texas|2f|2b3|-7c2|n
+Claro|CH||a7|3ki|p2|n|Cree
+Crompond|US||48|36p|-5p5|n
+Craven Arms|GB||9b|41o|-7w|n
+Crucea|RO|Suceava|8u|3nj|1z6|n
+Crownpoint|US||2p|2r4|-8cf|n
+Crestmont|CA||2s|3xx|-8te|n
+Credenhill|GB||9b|40o|-7t|n
+Credaro|IT||9o|3iu|rl|n
+Crabtree|CA||59|3jp|-5o3|m
+Crewe|US||48|2v9|-610|m
+Craigsville|US|West Virginia|48|2yh|-681|m|Craigville
+Crimora|US||48|2xz|-631|m
+Cres|HR||a6|3gw|141|m|Crepsa
+Cranbury|US||48|340|-5qz|m|Cranberry
+Creston|US|Ohio|48|35v|-6bh|m
+Crichi|IT||9o|307|1a8|m
+Cringila|AU||8l|-2nr|bn3|m
+Crissey|FR|Bourgogne-Franche-Comté|9k|3m2|dk|m
+Crows Nest|AU|Queensland|8c|-23q|bqd|m
+Craidorolţ|RO||8u|3oa|1r2|m
+Crosslake|US||2f|3lm|-79f|l|Cross Lake
+Croissy-Beaubourg|FR||9k|3rn|7f|l|Croissy-Beaucourt
+Cruzália|BR||4w|-1r6|-3x3|l|Cruz Alta
+Cringleford|GB||9b|424|3g|l
+La Croix-en-Touraine|FR||9k|3ni|2r|l|Croix-en-Touraine
+Crăcăoani|RO||8u|3mu|213|l
+Cruz del Milagro|MX||41|1dr|-7bx|l
+Cromford|GB||9b|43j|-4c|l
+Crugnola|IT||9o|3j1|ob|l
+Crestwood|CA||2s|44p|-8rh|l
+Crickhowell|GB||9b|402|-8q|l|Crucywel;Crughywel
+Cricău|RO||8u|3ka|1th|l
+Créances|FR||9k|3so|-4d|l
+Cross Lake 19A|CA||5d|47t|-7jl|k
+Crasna Vișeului|RO||8u|3ov|1vb|k
+Crespiatica|IT||9o|3hz|qm|k
+Crafers West|AU||8b|-2p7|ap8|k
+Cruz João Évora|CV||84|1ax|-1xe|k
+Cropani Marina|IT||9o|304|1ap|k
+Creola|US||2f|2dt|-6sk|k
+Cravanche|FR||9k|3od|iz|j
+Crystal Lake|US|Connecticut|48|38h|-5l2|j
+Cristo Rey|MX|Sinaloa|3x|1qq|-85o|j
+Cruz Blanca|MX|Veracruz|41|1ik|-7hx|j
+Cromdale|CA||2s|44s|-8r6|j
+Cressier|CH||a7|3mp|jj|j
+Crafers|AU||8b|-2p7|apc|j
+Crown Point|US|New York|48|3e3|-5o0|j|Crownpoint
+Crick|GB||9b|41f|-36|j
+Kruhlyk|UA|Chernivtsi|98|3qd|21h|j|Krouhlyk;Cruglic
+Cristelo|PT||99|378|-o6|j
+Crevin|FR||9k|3p6|-4m|j|Kreven
+Crystal Lawns|US||2f|37h|-6sw|j
+Crandon|US||2f|3il|-6uy|j
+Cricket|US||48|2sh|-69j|j
+Cropwell Bishop|GB||9b|42z|-2q|j
+Crossville|US|Alabama|2f|2n9|-6mv|i
+Cridersville|US||48|34x|-6hr|i|Criderville
+Creech Saint Michael|GB||9b|3xq|-8g|i
+Crostau|DE||8r|3xw|146|i|Chróstawa
+Craignish|AU||8c|-1y8|bs8|i
+Croft|GB|England|9b|420|-3h|i
+Cruz de los Milagros|AR||1n|-284|-4jx|i
+Crownsville|US||48|30f|-5ws|i|Cronsville
+Cruztón|MX|Chiapas|41|1ak|-756|i
+Criccieth|GB||9b|430|-br|i|Cricieth
+Crépy|FR||9k|3ts|9s|h
+Crooked Lake Park|US||48|25b|-6am|h
+Cross Plains|US|Tennessee|2f|2tj|-6ou|h|Crossplains
+Crofton Downs|NZ||ak|-36m|dhg|h
+Cransac-les-Thermes|FR||9k|3fo|6c|h|Cransac;Crançac
+Cropseyville|US||48|3ar|-5oc|h|Cropserville
+Crescencio Morales (San Mateo)|MX||41|1i5|-7qg|h
+Cross City|US||48|2ab|-6ex|h
+Crosbyton|US||2f|2li|-7t8|h
+Criciova|RO||8u|3ir|1pb|h|Kricsova;Cliciova
+Creil|NL||8m|42k|fq|h
+Cremella|IT||9o|3j2|pu|h|Crimela
+Cruz Quemada|MX|Guerrero|41|1b8|-7ni|h
+Crevenicu|RO||8u|3ew|1z3|h
+Crouy-sur-Ourcq|FR||9k|3sd|8k|h
+Crail|GB||9b|4ca|-7b|h|Cathair Aile
+Cruden Bay|GB||9b|4fi|-55|h
+Crossgar|GB||9b|474|-g0|h
+Crusnes|FR||9k|3tb|gg|g
+Crescent Head|AU||8l|-2en|bsx|g
+Crawinkel|DE||8r|3x2|ty|g
+Cruzaltense|BR||4w|-24v|-429|g
+Cresson|US|Pennsylvania|48|34e|-62b|g
+Crauthem|LU||9c|3tm|h3|g|Krautem;Krauthem
+Crottet|FR||9k|3kk|dl|g
+Cressona|US||48|34v|-5vn|g
+Cristóbal Colón|MX|Chiapas|41|1br|-72j|g
+Crow Agency|US||2p|3io|-8ai|g|Óoetanéno
+Cranbourne South|AU||8j|-2xy|b7g|g
+Crynant|GB||9b|3zp|-af|g
+Crothersville|US||38|2zs|-6mg|g
+Croeserw|GB||9b|3zg|-a4|g
+Crécy-sur-Serre|FR||9k|3u2|a2|g
+Crested Butte|US||2p|2zz|-897|g
+Créhen|FR||9k|3qv|-65|g|Krehen
+Creissels|FR||9k|3eh|8i|g
+Cremorne|AU|Victoria|8j|-2x3|b6r|g
+Crespières|FR||9k|3rs|5c|g|Krepjēra
+Crușovu|RO||8u|3e0|1vt|g
+Creney-près-Troyes|FR||9k|3q9|bh|g
+Crécy-en-Ponthieu|FR||9k|3vl|58|f|Kresčak;Creciacum;Carcy-in-Pontiu;Crécy-en-Ponthie
+Crescent City|US|Florida|48|29r|-6af|f
+Crugers|US||48|36j|-5pc|f
+Crescent|US|Oklahoma|2f|2rv|-7j3|f
+Crăciunești|RO|Maramureş|8u|3p8|1um|f
+Cristolţ|RO||8u|3n4|1t3|f
+Crystal Brook|AU||8b|-2kn|anx|f
+Crinitz|DE||8r|3zp|129|f|Krynica
+Crone|IT||9o|3j2|t4|f
+Croft|GB|England|9b|44f|-73|f
+Creully|FR||9k|3sw|-1i|f
+Cremosano|IT||9o|3i3|qs|f
+Crystal Lakes|US||48|32t|-6hf|f
+Cresevo|MK||9u|38t|1nr|f|Tsréchévo;Creshevo
+Crédin|FR||9k|3pf|-7p|f|Kerzhin
+Crivești|RO||8u|3ng|22e|f
+Crevacuore|IT||9o|3ix|mw|f
+Cropani|IT||9o|309|1am|f
+Crofton|CA||5b|3rr|-9jh|e
+Crossmaglen|GB||9b|468|-ic|e|Crois Mhic Lionnáin
+Crystal Falls|US||3y|3k2|-6td|e
+Crosby|US|North Dakota|2f|3rv|-7yx|e
+Crump|US||2f|2pu|-6tc|e
+Cranley|AU||8c|-24g|bq0|e
+Crişan|RO|Tulcea County|8u|3gx|29v|e
+Croy|GB|Scotland|9b|4bg|-b8|e
+Crainville|US||2f|2wv|-6vf|e
+Cristur|RO||8u|3jb|1rq|e|Csernakeresztúr
+Krasne|UA|Odesa|98|3k4|299|e|Crasna;Krasna;Krasny;Krasnoye
+Crizbav|RO||8u|3ja|1yr|e|Crisbav
+Cranwell|GB||9b|43c|-1a|e
+Crane|US|Missouri|2f|2uj|-77x|e
+Crisóstomos|MX||41|1pr|-7vc|e|Cristóstomos
+Crucea|RO|Iași County|8u|3n1|23h|d
+Crooks|US||2f|3da|-7gx|d
+Croth|FR||9k|3rp|3u|d
+Crystal Springs|US|Florida|48|26a|-6c8|d
+Crnilište|MK||9u|37d|1nh|d
+Crovu|RO||8u|3fv|1yy|d
+Cristești|RO|Iași County|8u|3n0|238|d
+Černelavci|SI||9a|3ln|18t|d|Kisszombat;Črnelavci
+Crocker|US|Washington|3p|3ms|-9f6|d
+Kerstentsi|UA||98|3qd|217|d|Cristinești
+Crézancy|FR||9k|3s9|9r|d
+Cresserons|FR||9k|3sx|-10|d
+Cristo Rey|BZ|Cayo District|24|1bl|-6vd|d
+Craig|US|Alaska|3j|4a4|-a9v|c
+Cracăul Negru|RO||8u|3mt|20w|c|Crăcău Negru
+División del Norte|MX|Michoacán|41|1h0|-7x1|c|Crucero
+Grüsch|CH||a7|3mi|qt|c|Crusch
+Crângu|RO||8u|3dt|1xn|c|Crîngu
+Crondall|GB||9b|3yb|-2e|c
+Cruïlles|ES||9d|38j|8e|c
+Hrvatini|SI||9a|3im|128|c|Crevatini;Hrvatin
+Paptalaya|HN||56|172|-6i8|c|Cruta River;Papalaya;Paktalaya
+Cruces|MX||2g|29r|-8ab|c
+Creighton|CA||5d|483|-7v2|c
+Grandas de Salime|ES||9d|3c2|-j4|c|Crandas de Salime
+Crostwitz|DE||8r|3yc|13k|c|Chrósćicy
+Crescent Beach|CA||5b|3s9|-9hc|c
+Crespino|IT||9o|3gz|x1|c
+Creys-Mépieu|FR||9k|3j1|f8|c
+Crandon Lakes|US||48|368|-5rw|c
+Črenšovci|SI||9a|3lc|19a|c
+Croisilles|FR||9k|3vg|80|c
+Croom|IE||8z|41w|-o8|c|Cromadh
+Cripple Creek|US||2p|2zn|-846|c
+Crivina|RO|Prahova|8u|3gf|20e|c
+Craig Beach|US||48|368|-68y|b
+Krumpa|DE||8r|3yi|ww|b|Crumpa
+Cristeștii Ciceului|RO||8u|3n3|1uy|b|Cristeştii-Ciceului;Cristeştii Ciceiului
+Sukholuzhzhia|UA||98|3ke|2c2|b|Sukholuzhzhya;Sukholuzh’ye;Crivda;Luiba
+Creek|KY||2e|1iu|-65l|b
+Crispi Cavour|IT||9o|3im|vy|b
+Creighton|US||2f|39z|-7jz|b
+Cretone|IT||9o|38v|za|b
+Creissan|FR||9k|3ch|8d|b
+Craiglie|AU||8c|-19y|b83|b
+Cropalati|IT||9o|31s|1ah|b
+Cremenciug|MD||8x|3lr|2af|b|Kremenchug
+Criquebeuf-sur-Seine|FR||9k|3sz|32|b
+Cressy|AU||8g|-37t|bck|b
+Crocker|US|Missouri|2f|2xf|-74a|b
+Cruet|FR||9k|3ih|gx|b
+Crăiești|RO|Galați County|8u|3jm|259|b
+Crăciunei|RO||8u|3en|1wi|b
+Crossmolina|IE||8z|46a|-pw|a|Crois Mhaoilíona
+Cerrcë|XK||8q|3au|1kt|a|Crnce;Cërrca
+Crucero las Pilas|MX||41|1on|-7xg|a
+Crisolles|FR||9k|3tu|8d|a
+Crouy-en-Thelle|FR||9k|3sp|6g|a
+Croitori|RO||8u|3fu|1yl|a
+Crofty|GB||9b|3zf|-bh|a
+Crăieşti|RO|Mureș County|8u|3km|1v7|a|Crăeşti
+La Cruz del Palmar|MX||41|1m9|-7s4|a|Cruz del Palmar;Cruz de Palmar
+Cruz Verde|MX|Veracruz|41|1h6|-7hr|a
+Cruz Blanca|MX|Sinaloa|3x|1zb|-8d1|a
+Cristóbal Colón|MX|Chiapas|41|1c7|-75e|a
+Cruz Tetela|MX||41|1fx|-7gp|a
+Cras-sur-Reyssouze|FR||9k|3kn|ed|a
+Crevedia Mică|RO||8u|3fg|1z5|a
+Croughton|GB||9b|40g|-3c|a
+Cruz Blanca|MX|Oaxaca|41|1ba|-7gs|a
+Creuzier-le-Neuf|FR||9k|3ka|9l|a|Creusèir lo Nuòu
+Crawford|US|Nebraska|2p|3ak|-7z9|a
+Cross Plains|US|Texas|2f|2h9|-7nh|a|Crossplains
+Crivitz|US||2f|3hn|-6sh|a
+Cruz Blanca Número Uno|MX||41|1lc|-7i8|a
+Cramme|DE||8r|40r|t1|a
+Crescent|US|Louisiana|2f|2c1|-71l|a
+Crânguri|RO||8u|3et|206|a|Crînguri
+Croix-Chapeau|FR||9k|3k3|-2t|a
+Cristóbal Hidalgo|MX||41|1j5|-7gs|9
+Cruz Larga|MX||41|1ha|-7o4|9
+Cruzy|FR||9k|3cg|86|9
+Crane|BB||22|10e|-4l5|9|Kren;Krayn
+Crévic|FR||9k|3r4|hs|9
+Crescent Beach|US||48|2ap|-69p|9
+Craigsville|US|Virginia|48|2xs|-64i|9
+Crivina|RO|Giurgiu County|8u|3ff|1zn|9
+Cresta|IT||9o|2xx|151|9
+Cremeaux|FR||9k|3jj|aw|9
+Cruz Grande|CV||84|161|-1tr|9
+Crocemosso|IT||9o|3is|mn|9
+Cruz de Piedra|MX|Sonora|37|25n|-8jg|9
+Crucea de Sus|RO||8u|3jk|238|9
+Craintilleux|FR||9k|3im|br|9|Craintillieux
+Crooked Tree|BZ||24|1de|-6ty|9
+Crespignaga|IT||9o|3j7|x6|9
+Cramant|FR||9k|3s3|b3|9
+Crowhurst|GB||9b|3xd|1e|9
+Crocefisso|IT||9o|377|zn|9
+Crevant-Laveine|FR||9k|3jj|9e|9
+Cravant|FR|Centre-Val de Loire|9k|3ov|4d|9
+Crivina|RO|Mehedinți County|8u|3fn|1qp|9|Krivina
+Cristo Rey|BZ|Corozal District|24|1ez|-6tu|9
+Crodo|IT||9o|3ke|n4|9
+Cruztón|MX|Chiapas|41|1b3|-74s|9
+Crémenes|ES||9d|3b6|-ea|9
+Crowell|US||2f|2me|-7p0|9
+Cravant|FR|Bourgogne-Franche-Comté|9k|3og|a9|9
+Crimond|GB||9b|4g0|-5c|9
+Crenshaw|US||2f|2nu|-6yk|9
+Crancey|FR||9k|3qs|a4|9|Grancey
+Krien|DE||8r|45j|11d|8|Crien
+Cruz de Chocamán|MX||41|1gp|-7hx|8
+Cranz|DE||8r|44q|r6|8|Kranz
+Cross Roads|US|Texas|2f|2kb|-7hg|8
+Cruzchén|MX||41|1ar|-74v|8
+Crab Orchard|US|Kentucky|48|2w2|-6ir|8
+Crehen|BE||8t|3wq|e2|8|Crehin
+Crnobuki|MK||9u|368|1n8|8|Crnobok
+Crawford|US|Georgia|48|2m4|-6ez|8
+Črešnjevci|SI||9a|3ll|18g|8|Črenjevci;Črešnovci
+Črna Vas|SI||9a|3js|147|8|Črna Vac
+Crulai|FR||9k|3ra|1v|8
+Creto|IT||9o|3jm|tk|8
+Crantock|GB||9b|3w0|-e7|8
+Cresson|US|Texas|2f|2id|-7j6|8
+Crosbies|AG||1j|1bp|-4rq|8|Kraazbee
+Crocevie|IT||9o|2xo|z5|8
+Cravant-les-Coteaux|FR||9k|3n0|z|8
+Crnča|BA||9r|3gj|1dr|8
+Crucoli|IT||9o|31j|1b8|8
+Cruz de los Esteros|MX||41|1ks|-7hi|8
+Crăiești|RO|Mureș County|8u|3lw|1vu|8|Crăeşti
+Crn Vrv|MK||9u|385|1ne|8|Crni Vrv
+Cranberry Portage|CA||5d|47n|-7tm|8
+Crassier|CH||a7|3kt|h4|8
+Craughwell|IE||8z|43v|-o9|8|Creachmhaoil;Cranghwell
+Cremenaga|IT||9o|3jr|og|8
+Cruzilles-lès-Mépillat|FR||9k|3kf|dk|8
+Cremia|IT||9o|3k1|pr|8
+Crab Orchard|US|Tennessee|2f|2rr|-6js|8
+Cruillas|MX||44|1ws|-7lq|8
+Cruces de Rojas|MX||41|1k9|-7v1|8
+Crofton|US|Kentucky|2f|2ux|-6r0|8
+Crainimăt|RO||8u|3mr|1vs|8|Királynémeti
+Cristóbal Colón|MX|Chiapas|41|1a1|-77z|8
+Crețeștii de Sus|RO||8u|3lk|25q|7|Creţeşti-de-Sus
+Suncroft|IE||8z|43i|-j2|7|Crochta na Gréine
+Croce|IT|Veneto|9o|3ir|ys|7
+Stara Krasnoshora|UA||98|3pg|1yx|7|Crăsnișoara Veche;Stara Ktasnochora;Staraya Krasnoshora
+Crackenback|AU||8l|-2t8|bgi|7
+Crawford|US|Texas|2f|2fl|-7io|7
+Cromarty|GB||9b|4g8|-b7|7|Cromba
+Crosmières|FR||9k|3on|-f|7
+Crasnaleuca|RO||8u|3ps|22w|7|Crasnalouca
+Crotenay|FR||9k|3lv|g5|7
+Crișeni|RO|Harghita County|8u|3ky|1xd|7
+Crab Hill|BB||22|110|-4lo|7
+Croppo|IT||9o|3k3|n3|7
+Cruz Blanca|PE|Tumbes|3o|-a7|-67e|7
+Crucible|US||48|32z|-664|7
+Crossville|US|Illinois|2f|2y0|-6sn|7
+Crunți|RO||8u|3g2|23b|7
+Cruz de Palma|MX||41|1ns|-7l0|7|El Carmen
+Credera|IT||9o|3hu|qt|7
+Cropredy|GB||9b|40s|-3o|7
+Cruz Naranjos|MX||41|1m9|-7io|7
+Crossford|GB|Scotland|9b|4aq|-ar|7
+Cressage|GB||9b|427|-79|7
+Črešnjevo|HR||a6|3kh|197|7
+Cruztón|MX|Chiapas|41|1as|-74i|7|Crustón
+Croydon|US|New Hampshire|48|3cp|-5kg|7
+Crucero Carmita|CU||36|1qd|-65n|7
+Crymych|GB||9b|40d|-cx|7|Crymmych
+Cretarola|IT||9o|3c3|126|7
+Cromvoirt|NL||8m|3zi|ej|7|Crumvoert;Crummert
+Cré-sur-Loir|FR||9k|3og|-g|7|Cré
+Croyde|GB||9b|3y1|-bq|7
+Crofton|US|Nebraska|2f|3ap|-7iu|7
+Cressanges|FR||9k|3l1|8s|7
+Croutelle|FR||9k|3la|t|7
+Croviana|IT||9o|3kq|ua|7
+Criș|RO||8u|3k6|1wl|7
+Crușovăț|RO||8u|3h0|1q0|7
+Crinkill|IE||8z|43g|-ly|7|Críonchoill;Crinkle
+Cruztomáhuac|MX||41|1bd|-7m0|7
+Crosbie|CA||50|3o4|-42i|7
+Cruci|IT||9o|383|zz|7
+Crna Bara|RS|Vojvodina|8q|3jp|1kc|7|Zrna Bara;Czernabara
+Cruz Quemada|MX|Chiapas|41|1aq|-75h|7
+Crémarest|FR||9k|3wu|4y|7
+Crist|IT||9o|3jp|so|7
+Cratloe|IE||8z|42e|-oc|7|An Chreatalach
+Crihalma|RO||8u|3jl|1y0|7
+Crowder|US||2f|2mx|-6ye|7
+Krombeke|BE||8t|3xf|7h|7|Crombeke
+Črneče|SI||9a|3lf|15o|7
+Cremeno|IT||9o|3jl|qb|7
+Cressa|IT||9o|3it|nn|7
+Criștelec|RO||8u|3na|1r4|7
+Crnac|HR||a6|3i8|19m|7
+Crava|IT||9o|3ff|li|7
+Cragg vale|GB||9b|457|-5k|7
+Creetown|GB||9b|48i|-c6|7|Creetoun
+Creston|US|Illinois|2f|38h|-6v4|6
+Crosano|IT||9o|3ja|uh|6
+Črni Vrh|SI||9a|3jk|130|6
+Aigrefeuille|FR||9k|3d1|4f|6|Crefuèlha
+Crystal Beach|US||48|3ax|-5ym|6
+Craco Peschiera|IT||9o|344|19u|6
+Croy|GB|Scotland|9b|4fs|-b7|6
+Crucero San Luis|MX||3z|1iq|-6xz|6|Crucero de San Luis
+Crisenoy|FR||9k|3r0|7m|6
+Cruz Pampa|PE||3o|-qz|-5x9|6
+Cruguel|FR||9k|3p0|-78|6|Krugell
+Croce|IT|Emilia-Romagna|9o|3e0|yz|6
+Črnkovci|HR||a6|3iz|1eu|6
+Crespos|ES||9d|35j|-dt|6
+Crescent|US|Iowa|2f|36x|-7ea|6
+Crook of Devon|GB||9b|4c2|-9w|6
+Crudwell|GB||9b|3zf|-5r|6
+Crawford|US|Mississippi|2f|2ki|-6u5|6
+Cravans|FR||9k|3io|-1z|6
+Cresciano|CH||a7|3kk|p0|6|Carscèi
+Cristur Crișeni|RO||8u|3na|1s6|6|Cristuri-Crişeni
+Criquetot-sur-Ouville|FR||9k|3tz|2d|6
+Crno|HR||a6|3ej|16h|6
+Croismare|FR||9k|3r0|i9|6
+Cruz Verde|MX|Veracruz|41|1kd|-7ja|6
+Cruz Vidriada|MX||41|1gs|-7os|6
+Cranesville|US||48|38f|-676|6
+Crissey|FR|Bourgogne-Franche-Comté|9k|3mr|f8|6
+Cruz da Légua|PT||99|320|-oo|6
+Cressensac|FR||9k|3h2|48|6
+Criva de Sus|RO||8u|3fa|1vk|6
+Cruceni|RO||8u|3jz|1na|6
+Crâmpotani|RO||8u|3h2|1wm|6|Crîmpoteni
+Črnec Biškupečki|HR||a6|3kj|19f|6
+Croghan|US||48|3dy|-5tf|6
+Crugny|FR||9k|3st|ae|6
+Cruztitla|MX||41|1n0|-7lo|6
+Cranborne|GB||9b|3xg|-5c|6
+Cras-Avernas|BE||8t|3wu|e8|6
+Crosio della Valle|IT||9o|3j4|od|6
+Croix-Mare|FR||9k|3ts|2d|6
+Croscombe|GB||9b|3y8|-77|6
+Crow Hill|GB||9b|40a|-70|6
+Île-aux-Moines|FR||9k|3o8|-7w|6|Crialeis insula;Enizenach;Illa dos Monxes
+Cruz Manantial|MX||41|1n9|-7k5|6
+Cristalaco|MX||41|1i4|-7jt|6|Barranca Seca;Critalaco
+Crescent City|US|Illinois|2f|359|-6s2|6
+Crampagna|FR||9k|3bj|4h|6
+Cruis|FR||9k|3ee|g8|6
+Crochte|FR||9k|3xi|6n|6
+Criț|RO||8u|3k4|1xi|6
+Crespina|IT||9o|3d1|tc|6|Crispina
+Križ|SI||9a|3j2|12j|6|Croce
+Cruz y Cruz|MX||44|1uy|-7nj|6
+Cruz Verde II|MX||41|1ae|-7l1|6
+Crăiești|RO|Bacău County|8u|3kv|23y|6
+Cramoisy|FR||9k|3su|6o|6
+Craiva|RO||8u|3le|1p1|6
+Crasna|RO|Covasna County|8u|3in|20m|6|Grasna
+Crozant|FR||9k|3kv|4i|6|Crosenc
+Crundale|GB||9b|3zy|-dr|6
+La Croix-aux-Mines|FR||9k|3py|jl|6|Croix-aux-Mines
+Cruz Blanca|MX|Mexico City|41|1ho|-7nw|6
+Crosslands|AU||8l|-2fc|bs8|6
+Crnovec|MK||9u|36c|1my|6|Crnoec
+Créquy|FR||9k|3w9|5q|6
+Crouy-sur-Cosson|FR||9k|3od|4h|6
+Crutzitzin|MX||41|1j0|-7ij|6
+Cristina|ES||9d|2zw|-gy|6
+Crețu|RO||8u|3fz|1zr|6
+Crâng|RO||8u|3hw|217|6
+Crăguești|RO||8u|3gc|1r9|6
+Cretas|ES||9d|35p|l|6|Queretes;Cretes
+Crocq|FR||9k|3jf|6l|6|Cròc
+Criva de Jos|RO||8u|3f9|1vj|6
+Cronat|FR||9k|3ls|a9|6
+El Crucero|MX|Veracruz|41|1ho|-7g4|6|Crucero
+Crețești|RO|Vaslui County|8u|3lj|25n|6
+Croquet Lawn B|ZA||o|-1wz|2eu|6
+Cruviers-Lascours|FR||9k|3e8|bo|6
+Cristo Rey|MX|Guanajuato|41|1mn|-7u6|6
+Cruztón|MX|Chiapas|41|1be|-751|6
+Cramonshagen|DE||8r|457|vb|6
+Cristești|RO|Iași County|8u|3n1|250|6
+Crișan|RO|Hunedoara County|8u|3k9|1rc|6
+Crocna|RO||8u|3kp|1py|6
+Crușeț|RO||8u|3fz|1tr|6
+Cramchaban|FR||9k|3ke|-20|6
+Crotelles|FR||9k|3o2|2c|6
+La Cruz de Aguilar|MX||41|1lt|-7u7|5|Cruz de Aguilar
+Crémines|CH||a7|3nc|ko|5
+Crotta d'Adda|IT||9o|3hg|re|5
+Crusheen|IE||8z|432|-op|5|Croisín
+Cresuia|RO||8u|3lr|1qg|5
+Crailo|NL||8m|417|eg|5
+Crimolois|FR||9k|3nb|e8|5
+Crouzilles|FR||9k|3mw|1a|5
+Cruz Blanca|MX|Sinaloa|3x|1yp|-8cr|5
+Crai Nou|RO||8u|3id|1mc|5
+Cruz Vieja|MX||41|1kx|-7zp|5
+Cristolțel|RO||8u|3n8|1t0|5|Crâstolţel
+Criteuil-la-Magdeleine|FR||9k|3ii|-m|5
+Creal Springs|US||2f|2wi|-6us|5
+Croudace Bay|AU||8l|-2jo|bp9|5
+Croxton Kerrial|GB||9b|42u|-24|5|Croxton Keyrial
+Crăciunel|RO||8u|3ka|1yn|5|Homoródkarácsonyfalva;Homoròdkaràcsonfalva
+Cruz Pilar|MX||41|1az|-74t|5
+Cremignane|IT||9o|3it|ru|5
+Crecchio|IT||9o|39i|13t|5
+Crupet|BE||8t|3vv|ds|5
+Cressat|FR||9k|3k6|5v|5
+Crissé|FR||9k|3pt|-6|5
+Cruz de Piedra|MX|México|41|1gm|-7p9|5
+Crebbio|IT||9o|3jj|px|5
+Cruz de León|MX||41|1ie|-7jv|5
+Cruz del Itacuán|MX||41|199|-7ka|5
+Cross Roads|US|Pennsylvania|48|32m|-5wq|5|Crossroads
+Cruz Blanca|PE|Lambayeque|3o|-i2|-65v|5
+Croici|RO||8u|3gj|1s6|5
+Crançot|FR||9k|3lp|fq|5
+Crosville-la-Vieille|FR||9k|3sk|2l|5
+Cremorne|AU|Tasmania|8g|-3bc|bdt|5
+Crevecoeur-en-Auge|FR||9k|3sg|2|5
+Črešnjevec|SI||9a|3ku|17e|5
+Crawfordville|US|Georgia|48|2l7|-6ea|5|Crawfordsville
+Crucitas|MX||41|1kk|-7t5|5
+Cirkvena|HR||a6|3jl|1aa|5|Crkvena
+Crasna din Deal|RO||8u|3hj|1te|5
+Crociate|IT||9o|2wv|140|5
+Crosia|IT||9o|31x|1al|5|Crosta
+Croxdale|GB||9b|481|-4f|5
+Cruz de Corazón|MX||41|1ad|-7lg|5
+Crépol|FR||9k|3hi|e3|5
+Cromwell|US|Indiana|38|370|-6lu|5
+Cruz Blanca|MX|San Luis Potosí|41|1nu|-7n0|5
+Crézancy-en-Sancerre|FR||9k|3ne|7n|5
+Cramberg|DE||8r|3vu|m2|5|Kramberg

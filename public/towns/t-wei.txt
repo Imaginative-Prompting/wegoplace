@@ -1,0 +1,187 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Weifang|CN||7i|2tz|96u|20ff|Wej-fang;Vejfang;Duy Phường;Î-hng-chhī
+Weinan|CN||7i|2nu|8g7|995|Wej-nan;Vị Nam;Ôi-nàng;Veinan;Ūi-lâm-chhī;Veynan
+Weihai|CN||7i|2w7|9f7|6ij|Uy Hải;Wej-chaj;Ŭi-hāi;Veihai;Ui-hái-chhī
+Weimar|DE||8r|3xm|vh|hz|Výmar;Vajmaro;Vajmar;Veimaras;Vimaria;Veimar;Veymar;Wehimala;Veimāra
+Alba Iulia|RO||8u|3jz|1ti|hu|Karlsburg;Apulon;Vojvodov Bjalgrad;Ciudadela Blanca;Karlovský Bělehrad;Erdeljski Biograd;Weyssenburg;Dsulafehervaru;Gyulafehérvár;Belgrad-i Erdel;Belgrada;Alba-Julia;Weißenburg;Bălgrad;Alba Julija;Alba Júlia;Àobā Yóulìyà;Erdel Belgradı;Karlov Belehrad;Fehervaru
+Weining|CN||7i|22l|81j|fr
+Weimiao|CN||7i|2o2|917|ee
+Weiji|CN||7i|2mj|93n|dd
+Weißensee|DE|State of Berlin|8r|420|11f|d9
+Wejherowo|PL||a5|47p|1eo|d0|Wejrowò;Veiherovas;Vejherovo;Veykherovo;Weiherowo
+Weinheim|DE||8r|3tn|o3|c1|Woinem
+Weiden|DE||8r|3u0|xs|bu|Weyden
+Weixinghu|CN||7i|298|864|al
+Weißenfels|DE||8r|3y8|x9|aj|Leucopetra;Vaisenfelsas
+Weituo|CN||7i|2bg|86v|a1|Wei-t’o
+Weil am Rhein|DE||8r|3o7|l6|8y|Weil-am-Rhein
+Weidian|CN||7i|2pi|859|7h
+Weiterstadt|DE||8r|3um|nv|7e
+Weinstadt-Endersbach|DE||8r|3rl|q0|7a
+Weingarten|DE|Baden-Wurttemberg|8r|3ot|qs|6m
+Weilheim|DE|Bavaria|8r|3ow|uz|6i|Wilheim
+Weirton Heights|US||48|349|-67q|5f
+Weir|IN||6t|232|5ye|5e
+Weil der Stadt|DE||8r|3rf|on|5d
+Weirton|US||48|34a|-67v|5c
+Weiwu'eryuqiwen|CN||7t|3dk|6be|57
+Weißenburg in Bayern|DE||8r|3s7|uh|53|Weissenburg;Weissenburgum Noricorum;Veisenburgas Bavarijoje
+Weilerswist|DE||8r|3wz|j1|4j
+Weißwasser|DE||8r|3z2|14o|46|Běła Woda;Veisvasere;Biała Woda;Białawoda;Bětła Woda
+Weilong|CN||7i|2aa|86h|43
+Weilburg|DE||8r|3w8|my|3u|Weilbourg;Weilborg
+Weißenhorn|DE||8r|3q7|s8|3q
+Weigelstown|US||48|332|-5xe|3l
+Weinsberg|DE||8r|3sj|pt|3b|Vaynsberq
+Weixin|CN||7i|2bh|865|31
+Bela Crkva|RS||8q|3gq|1ni|2z|Weißkirchen
+Weinböhla|DE||8r|3y5|11p|2x
+Weil im Schönbuch|DE||8r|3r2|p6|2s
+Weilheim an der Teck|DE||8r|3r2|qi|2o|Weilheim
+Weingarten|DE|Baden-Wurttemberg|8r|3s9|np|2o
+Weinfelden|CH||a7|3o5|pa|2m|Weinfeld
+Weiz|AT||a2|3n6|17e|2k
+Weinberg|DE||8r|416|t3|2h
+Wissembourg|FR||9k|3s8|m3|2g|Weißenburg;Waißebursch;Wissemborg
+Weilmünster|DE||8r|3w3|na|2f
+Weida|DE||8r|3x1|xi|2d
+Dannenberg|DE||8r|43i|ut|2c|Dannenbarg;Wajdars;Weidars;Woikam
+Paide|EE||9x|4jl|1yy|26|Weissenstein;Payde
+Weissach|DE||8r|3rp|ot|25
+Weißenthurm|DE||8r|3w2|kp|24
+Weikersheim|DE||8r|3tg|ri|24
+Veydelevka|RU||9i|3vb|2yt|21|Vejdelevka;Weidelewka;Veidelevka;Vejgyelevka;Wiejdielewka;Veidelovka
+Wick|GB|Scotland|9b|4ic|-8l|1z|Yn Ooig;Inbhir Ùige;Week;Weik;Vikas
+Weiler-Simmerberg|DE||8r|3o6|rj|1t
+Weiskirchen|DE||8r|3tn|iy|1r
+Weisendorf|DE||8r|3tu|u3|1p
+Bratislava - Vajnory|SK||8s|3px|1bt|1j|Pozsonyszőlős;Prácsa;Weinern
+Weiser|US||28|3ex|-90x|1h
+Weitramsdorf|DE||8r|3vm|u8|1g
+Weitnau|DE||8r|3oc|s5|1f
+Bojnice|SK||8s|3rj|1fn|1e|Bajmóc;Bojnjice;Weinitz
+Weisi Science & Technology Garden|CN||7i|1r0|8s2|1e
+Weismain|DE||8r|3v5|v8|1c
+Weinbach|DE||8r|3w4|n1|1c
+Weilerbach|DE||8r|3tg|l7|19
+Weir Views|AU||8j|-2wt|b5m|18
+Weiherhammer|DE||8r|3tv|xj|14
+Weißensee|DE|Thuringia|8r|3y8|ur|11
+Weil|DE||8r|3po|uc|11
+Weischlitz|DE||8r|3w5|xj|10
+Bad Weißenstadt|DE||8r|3v6|x1|z|Weißenstadt
+Weinlos|CA||2s|44i|-8r1|y
+Weidhausen bei Coburg|DE||8r|3vg|uy|x|Weidhausen
+Wellsboro|US||48|37z|-5yq|x|Weilsboro
+Weidling|AT||a2|3q5|19b|w
+Weilheim|DE|Baden-Wurttemberg|8r|3of|mv|w
+Pilisborosjenő|HU||8v|3o9|1gr|w|Weindorf
+Weichs|DE||8r|3qe|vq|v
+Weißenbrunn|DE||8r|3vg|vj|v
+Weißenberg|DE|Saxony|8r|3y8|14q|v|Wóspork;Veisenberga
+Weipa|AU||8c|-z2|ay4|s
+Weihenzell|DE||8r|3t3|ti|s
+Vejprty|CZ||9m|3w9|107|s|Weipert
+Weißenborn|DE|Saxony|8r|3wy|yn|r
+Weisenbach|DE||8r|3rd|n7|r
+Weiler|DE|Rheinland-Pfalz|8r|3us|lu|r
+Wein Nawng|MM||7y|1oo|7lv|r
+Weigelsdorf|AT||a2|3p7|19k|r
+Weißensberg|DE||8r|3o6|r1|r
+Weitbruch|FR||9k|3rf|lm|q|Widbrüech
+Weimerskirch|LU||9c|3tu|h2|p|Weimeschkierch;Wimerskirch
+Weihmichl|DE||8r|3r0|xh|p
+Weiding|DE||8r|3su|zg|p
+Weitefeld|DE||8r|3wx|m1|p
+Weiden am See|AT||a2|3p5|1av|o|Védeny
+Weilbach|DE||8r|3tz|pm|n
+Weidenbach|DE||8r|3so|tk|n
+Weichering|DE||8r|3rc|vg|m
+Weistrach|AT||a2|3ph|14i|m
+Weiwangzhuang|CN||7i|30f|928|m
+Weimar|US||2f|2ai|-7gu|m
+Weitersburg|DE||8r|3w2|l4|m
+Weibersbrunn|DE||8r|3up|q1|l
+Weisweil|DE||8r|3pw|lc|l
+Novosedlice|CZ||9m|3wq|12e|l|Weißkirchlitz
+Weißbach|DE||8r|3sy|qo|l
+Weiler|AT||a2|3ne|qt|l
+Weissach|AT||a2|3o5|xs|k
+Weidenthal|DE||8r|3ta|m8|k
+Weilersbach|DE||8r|3u7|uw|k
+Weisslingen|CH||a7|3nr|od|k
+Weinsheim|DE|Rheinland-Pfalz|8r|3uf|ll|j
+Bělá nad Radbuzou|CZ||9m|3tr|zc|i|Weissensulz
+Weiningen|CH||a7|3nq|ng|i
+Vynohradne|UA|Donetsk|98|3mt|2wp|h|Weinberg
+Villé|FR|Grand Est|9k|3qa|ka|h|Weiler;Willer
+Weissport East|US||48|35g|-5u9|g
+Weitenhagen|DE||8r|465|119|g
+Weitra|AT||a2|3ra|15c|g
+Weibern|DE||8r|3w1|jv|g
+Weingarten|DE|Rheinland-Pfalz|8r|3su|n1|f
+Weiteveen|NL||8m|42b|jf|f
+Weißenborn-Lüderode|DE||8r|3z5|sy|f
+Weißkeißel|DE||8r|3z1|14w|f|Wuskidź;Weiskeissel
+Weißandt-Gölzau|DE||8r|3zj|xj|e
+Weiltingen|DE||8r|3s8|t1|e
+Weißdorf|DE||8r|3ve|wx|e
+Weijpoort|NL||8m|40o|dc|e
+Wijbosch|NL||8m|3ze|f7|e|Weibosch
+Weißenborn|DE|Thuringia|8r|3xg|x0|d
+Wihr-au-Val|FR||9k|3ph|k0|d|Weier im Thal
+Weigendorf|DE||8r|3ti|w5|d
+Weißkirchen in Steiermark|AT||a2|3mz|14y|d
+Weidenstetten|DE||8r|3qv|rs|c
+Weissenbach am Lech|AT||a2|3ns|tk|c
+Weiten|DE||8r|3tl|i6|c
+Weisel|DE||8r|3v8|lo|c
+Weißenbach bei Liezen|AT||a2|3o5|13g|b
+Weikendorf|AT||a2|3qa|1al|b
+Weisen|DE||8r|43b|wr|b
+Weisskirchen an der Traun|AT||a2|3ps|138|b
+Weißenohe|DE||8r|3tv|v9|b
+Weikersdorf am Steinfelde|AT||a2|3ot|18u|b
+Weinsheim|DE|Rheinland-Pfalz|8r|3vj|hz|a
+Weißig|DE||8r|3yh|11c|a
+Weitendorf|AT||a2|3ma|16z|a
+Weigenheim|DE||8r|3tq|si|a
+Weiten-Gesäß|DE||8r|3u2|p5|a
+Weidman|US||2q|3dd|-6k1|a
+Weissenbach an der Triesting|AT||a2|3pa|18k|9
+Weißenkirchen in der Wachau|AT||a2|3qg|16z|9|Weißenkirchen i. d. Wachau
+Weilar|DE||8r|3x1|s7|9
+Weiach|CH||a7|3o4|nf|9
+Weichstetten|AT||a2|3po|13s|9
+Weinzierl|AT||a2|3pp|161|9
+Weißenberg|DE|Rheinland-Pfalz|8r|3ws|mj|8
+Weiach / Weiach (Dorfkern)|CH||a7|3o4|ng|8
+Weissenbach|AT|Salzburg|a2|3oi|11i|8
+Weidingen|LU||9c|3ut|gi|8|Wegdichen
+Weinolsheim|DE||8r|3ue|mz|7
+Weibern|AT||a2|3pu|122|7
+Weissbriach|AT||a2|3lo|10t|7
+Weinburg|AT||a2|3pn|175|7
+Weifa|DE||8r|3xw|13w|7|Motydło
+Weiswampach|LU||9c|3va|gw|7
+Weiner|US||2f|2qy|-70i|7
+Weidelbach|DE||8r|3x5|mz|7
+Weir|US||2f|2vn|-7b9|6
+Weilen unter den Rinnen|DE||8r|3pv|oc|6
+Weitersfeld|AT||a2|3ri|17x|6
+Weiler bei Weinsberg|DE||8r|3sg|q4|6
+Weißenbach|AT|Styria|a2|3nq|12a|6
+Weissenstein|AT||a2|3lp|125|6|Weissenstern
+Weiterswiller|FR||9k|3rp|kl|6|Witerschwiller;Weitersweiler
+Weid (bei Adetswil)|CH||a7|3ni|ol|6
+Weitensfeld|AT||a2|3m5|13f|6
+Weislingen|FR||9k|3rw|k5|6|Weisslingen
+Weidlingbach|AT||a2|3q3|195|6
+Weitersfeld an der Mur|AT||a2|3lq|17o|5
+Weidenhahn|DE||8r|3wf|lr|5
+Weißenschirmbach|DE||8r|3yj|w3|5
+Weiler|DE|Rheinland-Pfalz|8r|3vs|js|5
+Weifersdorf|AT||a2|3pp|13j|5
+Weidum|NL||8m|43n|fy|5
+Weitendorf|DE||8r|45q|vj|5
+Weinbourg|FR||9k|3rr|ko|5

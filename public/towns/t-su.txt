@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Suzhou|CN|Jiangsu|7i|2ey|9b0|1ftg|Tô Châu;Su-čou;Suĝoŭo;Sû-chû-sṳ;Sudžou;Sutsjou;Suchjou;So͘-chiu-chhī;Sŭ-ciŭ;Szucsou;Su-chou
+Surat|IN||6t|1mw|5mb|zfc
+Surabaya|ID||6l|-k5|8p7|nac|Soerabaja;Surabaja;Surabaia;Surabajo;Soerabaya;Sourabaya
+Songjiang|CN||7i|2e7|9cq|f87|Sungkiang
+Suzhou|CN|Anhui|7i|2lg|90y|cpo
+Suqian|CN||7i|2mb|94m|b3d
+Huế|VN||62|19q|8aw|anc|Hujė;Sun-fa-sṳ
+Suwon|KR||7h|2vk|9sv|9iy
+Sofia|BG||9v|3am|1ss|8w6|Ulpia Serdica;Sofio;Sofiya;Sofija;Sofie;Szófia;Serdica;Sofja;Sofya;Sofii;Sóifia;Suofėjė;Sofijo
+Sulţānah|SA||7e|1w1|31z|7az
+Sulaymaniyah|IQ||5z|2qs|3i7|6rx|Sulaimaniyya;Solimania;Silêmanî;Suleimania;Sulaymaniyya;As-Sulajmanijja;Souleimaniye;Suleimaniya;Süleymaniye;Slemani;Sulejmanija;Sulejmánie;Sulaimaniya;Suleimaniyah
+Kampung Baru Subang|MY||6v|8r|7u1|6fk
+San Pedro Sula|HN||56|173|-6sj|66l|San Pedro Zōllān
+Xuancheng|CN||7i|2dz|95w|5z3|Hsüan-ch’eng;Süancheng
+Subang Jaya|MY||6v|8g|7u6|5gr
+Suez|EG||c|2b9|2id|5eb|Sues;Suess;Suecas;Süveyş;Suesia;Szuez;Suais;Suec
+Suining|CN||7i|2cr|859|52g|Sôi-nìng;Suej-ning;Súi-nèn-sṳ;Toại Ninh;Sūi-lêng-chhī
+Siping|CN||7i|3bw|9li|4ug|Ssupingkai;Sé-bìng;S-pching;Tứ Bình;Sù-pêng-chhī;Szepingkai
+Suizhou|CN||7i|2g3|8qw|4ru|Sùi-ciŭ;Suej-čou;Tùy Châu;Suî-chiu-chhī
+Shuangyashan|CN||7i|3lo|a49|4mo|Sĕ̤ng-ák-săng;Šuang-ja-šan;Song Áp Sơn;Siang-ah-san-chhī
+Suginami|JP||7q|2sk|ato|4jg
+Surrey|CA||5b|3sf|-9h7|4dv
+Sukkur|PK||6q|24y|5ba|4cn|Sukuras;Szukkúr
+Sungai Petani|MY||6v|fp|7r5|47d|Sungai Patani;Sungei Patani
+Surakarta|ID||6l|-l0|8jv|42d|Soerakarta
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Port Sudan|SD||r|1ii|2ve|3s1|Bur Sudan;Puerto Sudán;Port-Soudan;Porto Sudan;Sudanhavenurbo;Port Szudán;Pòrt Sodan;Port-sudan;Porto Sudão;Bar'uut;Būrt Sūdān
+Caxias do Sul|BR||4w|-291|-3y6|3p8|Kašijas do Sulas;Caxius do Sul
+Sunch’ŏn|KP||7a|31j|9pt|3de
+Sultangazi|TR||94|367|287|3dd
+Sumgayit|AZ||61|34r|3tz|3am|Sumqayıt;Sumgjajet;Sumgait;Sumqoyit;Sumqayyt
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Sunshine Coast|AU||8c|-222|bt8|32s|Costa de Sunshine;Côte du Soleil;Costa do Sunshine
+Suita|JP||7q|2ok|agg|2z4|Sujta;Suika
+Seremban|MY||6v|7l|7v6|2vl|Fû-yûng-sṳ;Sungai Ujong;Soghomban;Cirampāṉ
+Sukabumi|ID||6l|-j8|891|2tl
+Sultanbeyli|TR||94|35s|29b|2ri
+Suzano|BR||4w|-1te|-3kn|2gz|Susano
+Sumbawanga|TZ||h|-m5|2fu|2cg|Sumbavanga;Zumbayanga;Zumbawanga

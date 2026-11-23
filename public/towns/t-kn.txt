@@ -1,0 +1,94 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Knoxville|US|Tennessee|48|2rw|-6h4|1gz
+Knysna|ZA||o|-2mk|1s1|j3|Knajsno
+Knurów|PL||a5|3vi|1ft|b1|Knuruvas;Knurova;Knurůw
+Knokke-Heist|BE||8t|3yn|93|9e
+Knjazevac|RS||8q|3d1|1pu|6y
+Knyahynyn|UA||98|3ry|1wn|4m|Knihynin Wieś;Knihynin;Kniahynyn
+Knowledge Village|AE||6c|1xq|498|46
+Knik-Fairview|US||1h|4qv|-bjk|45
+Knaresborough|GB||9b|461|-43|43
+Knocklyon|IE||8z|440|-hl|42|Cnoc Lín
+Knokke|BE||8t|3yn|95|40|Knocke
+Knotty Ash|GB||9b|44e|-82|40
+Knightdale|US||48|2rf|-620|3z
+Knottingley|GB||9b|457|-3i|3u|Knottingly
+Knutsford|GB||9b|442|-6l|3o
+Knittelfeld|AT||a2|3n6|156|37
+Knightsbridge and Belgravia|GB||9b|3z2|-h|32
+Knowle|GB||9b|41i|-4t|30
+Knyaze-Volkonskoye|RU||7w|3qn|ag9|2h|Knjaze-Volkonskoje
+Knaphill|GB||9b|3yk|-1q|2e
+Knin|HR||a6|3ec|190|2b|Tininum;Tinin;Tininon;Tenin;Ninia;Tinien;Tinia;Ticinium;Tinum;Tininium
+Knivsta|SE||9w|4lx|1df|28
+Knesselare|BE||8t|3y2|9h|27|Knesselaere
+Knoxfield|AU||8j|-2x9|b7h|24
+Knittlingen|DE||8r|3s6|oc|23
+Knoxville|US|Iowa|2f|36s|-76n|20
+Knyaginino|RU||9i|4b2|3h3|1x|Knjaginino;Knyayinino;Knyaginin
+Knezha|BG||9v|3cu|1uw|1x|Knesha;Knizha;Kneža
+Kneževo|BA||9r|3fl|1ca|1x
+Knetzgau|DE||8r|3uu|tb|1u
+Knottsville|US||2f|2wx|-6pe|1r|Nottsville
+Knarvik|NO||9j|4o7|eo|1n|Knarrevik;Knarrvik;Knarrviki
+Knyazhichi|UA||98|3w6|2di|1g|Knyazhychi
+Knežica|BA||9r|3hb|1ac|1c
+Knevichi|RU||7w|3ck|a77|1a|Knevitsji
+Knebworth|GB||9b|403|-i|16
+Knutange|FR||9k|3t2|gs|12
+Knighton|GB||9b|41e|-8h|11|Trefyclo
+Knox|US|Indiana|39|36q|-6on|10
+Knislinge|SE||9w|4c2|134|v|Knisslinge
+Knoxville|US|Illinois|2f|35n|-6ys|s|Knoxopolis
+Knob Noster|US||2f|2zp|-77w|s|Knobnoster
+Knyszyn|PL||a5|443|1ro|s|Knišinas;Knišina;Knisin
+Kněžmost|CZ||9m|3w9|15s|n
+Knićanin|RS||8q|3hj|1kg|m
+Knightstown|US||38|32k|-6ll|l
+Knyazhdvir|UA||98|3qw|1x8|j|Kniazhdvir;Knyazhdvor;Knyazhdvur
+Knollwood|US||2f|39h|-6s5|h
+Knutwil|CH||a7|3n4|mf|h
+Knappskog|NO||9j|4nq|e2|g
+Kozatska Sloboda|UA||98|3mw|2m2|g|Kniaze-Hryhorivka;Knyaze-Hryhorivka
+Knightsen|US||3p|2xh|-9dz|g
+Knegsel|NL||8m|3ys|ev|e
+Kniazhychi|UA||98|3vt|2bq|d|Knyazhychi;Knyazhichi
+Kneževi Vinogradi|HR||a6|3j3|1g1|d
+Kněžice|CZ||9m|3sv|17j|c
+Knäred|SE||9w|4d0|110|c
+Knox City|US||2f|2ku|-7pa|c
+Knappstad|NO||9j|4lm|un|b|Knapstad
+Knabstrup|DK||8y|4am|w3|b
+Knox|US|Pennsylvania|48|36j|-64y|b
+Kněžpole|CZ||9m|3se|1co|b
+Knonau|CH||a7|3n6|ni|b|Chnonowa
+Kníničky|CZ||9m|3ss|19x|b|Klein Kinitz
+Kněždub|CZ||9m|3rt|1cc|a
+Knittelsheim|DE||8r|3sn|mx|a
+Knights Landing|US||3p|2zs|-9e4|a|Knight's Landing
+Knyazh’i Gory|RU||9i|4bs|2pv|a|Knjazji Gory
+Knínice|CZ||9m|3tm|1ae|a
+Knock|IE||8z|45f|-os|a|An Cnoc;Cnoc Mhuire
+Kněževes|CZ|Central Bohemia|9m|3vb|11w|a
+Knowl Hill|GB||9b|3z3|-2a|9
+Knightsville|US||38|31t|-6pz|9
+Kneitlingen|DE||8r|40x|tw|9
+Knyshivka|UA||98|3w1|2ms|8|Khyshovka;Knyshevka
+Knyazhytsy|BY||9g|45x|2br|8|Knyazhitsy;Knyazhnitsy
+Kninsko Polje|HR||a6|3ee|191|8
+Knoxville|US|Arkansas|2f|2qa|-77c|7
+Knik River|US||1h|4qq|-bhn|7
+Knorrendorf|DE||8r|44z|10b|7
+Knappenrode|DE||8r|3ys|13s|7|Hórnikecy;Knappenroda
+Knutby|SE||9w|4mf|1er|7
+Knau|DE||8r|3wp|wk|7
+Knippa|US||2f|29e|-7os|7
+Knebel|DK||8y|4c5|t5|7
+Knockbridge|IE||8z|45x|-i1|7|Droichead an Chnoic
+Kněževes|CZ|Central Bohemia|9m|3v8|13m|6
+Knoxville|US|Pennsylvania|48|38k|-5z4|6
+Knocknalower|IE||8z|46o|-ra|6|Cnoc na Lobhar
+Knapendorf|DE||8r|3yq|x6|5
+Knockaderry|IE||8z|41r|-ox|5|Cnoc an Doire
+Knovíz|CZ||9m|3vh|13a|5

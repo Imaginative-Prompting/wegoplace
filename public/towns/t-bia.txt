@@ -1,0 +1,92 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mianyang|CN|Sichuan|7i|2ff|82s|byk|Mien-jang;Miên Dương;Mièng-iòng;Biân-iông-chhī;Myan’yan;Mien-yang
+Białystok|PL||a5|43l|1sc|2a5|Bjalistoko;Belostoko;Balstogė;Bjalistoka;Bjołystok;Belostok;Bialastoq;Bjelostock;Byelostok
+Bila Tserkva|UA|Kyiv Oblast|98|3uc|2bo|1ll|Bila Zerkwa;Biała Cerkiew;Bila Cerkva;Bila Cerkwa;Bila Țerkva;Belaya serkov;Belaya Tserkov’
+Bielsko-Biala|PL||a5|3ue|1gx|1d1|Bielitz-Biala;Bílsko-Bělá;Belsko-Bjala;Belsko-Biala;Bjylsko-Bjoło
+Białołeka|PL||a5|41c|1m9|zv
+Bianzhuang|CN||7i|2ot|93w|i6
+Biała Podlaska|PL||a5|40j|1s8|fz|Bjala Podlaska;Alba;Palenkės Biala;Alba Ducalis
+Bergkamen|DE||8r|3ze|l8|ej|Biärgkoamen
+Biaora|IN||6t|1ug|5xn|dn
+Bilhorod-Dnistrovskyi|UA||98|3kb|2cb|d9|Aqkermen;Cetatea Albă;Białogród nad Dniestrem;Bílhorod-Dnistrovski;Bilhorod-Dnistrovskyj;Bilhorod-Dnistrovskij;Bilhorod-Dnistrovsky;Bilhorod-Dnyisztrovszkij;Bilhorod-Dnistrovs'kyj;Moncastro;Dniestro Bilhorodas;Bilhoroda-Dņistrovska;Belgorod-Dnestrovskiy;Bilhorod-Dnjistrovski;Bilhorod-Dnistrowskyj;Nyeszterfehérvár;Dnyeszterfehérvár;Nyisztrafehérvár
+Biantang|CN||7i|2nm|92t|cv|Pien-t’ang
+Biak|ID||6m|-3a|ai0|bl
+Beckum|DE||8r|3zs|mc|ai|Biäkem;Bekemo
+Biharamulo|TZ||h|-7b|2ez|9g|Biaramulo
+Biarritz|FR||9k|3cs|-4c|98|Miarritze;Biarriz;Biarica
+Byaroza|BY||9g|41x|1xe|7s|Berëza;Biaroza
+Białogard|PL||a5|461|18f|6s|Belgard;Bjalogarda;Biôłogarda;Białogrod
+Biankouma|CI||0|li|-l5|6g
+Biancavilla|IT||9o|2wk|15b|6g
+Bianouan|CI||0|gp|-8v|4w|Byanouan;Bianuan
+Weißwasser|DE||8r|3z2|14o|46|Běła Woda;Veisvasere;Biała Woda;Białawoda;Bětła Woda
+Biao|PH|Davao Region|71|jw|9oo|3c
+Biassono|IT||9o|3ir|pr|31
+Belynichi|BY||9g|460|2aj|2o|Byalynichy;Byelinichi;Bialyničy
+Barth|DE||8r|470|zc|2l|Barta;Biardo
+Bialong|PH||71|je|9mx|2e
+Biatorbágy|HU||8v|3nv|1ga|2e|Wiehall-Kleinturwall;Bia;Torbágy
+Beauraing|BE||8t|3v7|ds|2a|Biarin
+Biaokou|CN||7i|319|92j|29|Piao-k’ou
+Białobrzegi|PL|Mazovia|a5|3zh|1m7|21|Bjalobžegi
+Biasso|CI||0|gz|-aj|20|Diasso
+Spišská Belá|SK||8s|3sn|1ku|1v|Szepesbéla;Spiška Bela;Biała Spiska
+Biao|PH|Western Visayas|71|s3|9hm|1u
+Biantouo|CI||0|jc|-mx|1q
+Białe Błota|PL||a5|43i|1ds|1o
+Biasca|CH||a7|3ks|ox|1n|Aviasca
+Biała Krakowska|PL||a5|3ue|1gx|1m
+Beaurains|FR||9k|3vn|7r|1c|Biaurins
+Biały Dunajec|PL||a5|3t5|1jl|16
+Biała Piska|PL||a5|44x|1pa|14|Gehlenburg;Bjala Piska
+Biache-Saint-Vaast|FR||9k|3vr|87|14|Biache-Saint-Waast
+Biakou|CI||0|hm|-g8|13
+Biar|ES||9d|2zb|-24|10
+Bianco|IT||9o|2xt|18v|z
+Biakalé|CI||0|kq|-ld|z|Biakéleu
+Bias Fortes|BR||4w|-1o1|-3dk|y
+Biandronno|IT||9o|3j9|o7|x
+Biała Rawska|PL||a5|3zx|1kv|w|Biala Ravska;Bjala Ravska
+Bias|FR|New Aquitaine|9k|3fe|1v|v
+Biała Wschód|PL||a5|3uf|1gy|t
+Białowieża|PL||a5|42e|1ub|r|Bialovieža;Bělověž
+Biancade|IT||9o|3it|yc|r
+Biała|PL|Opole Voivodeship|a5|3vz|1d2|q|Zülz;Bjala
+Białośliwie|PL||a5|43i|1bl|q
+Biała Północ|PL||a5|3ug|1gy|p
+Białka|PL|Lesser Poland|a5|3u1|1in|p
+Biabas|PH||71|r8|9lr|o
+Biate|IN||6t|1sl|76o|n
+Biay|PH||71|17q|993|n|Viay
+Biały Bór|PL||a5|45q|1as|m|Bjali Bora;Biôłô
+Białka Tatrzańska|PL||a5|3t7|1jv|m
+Białobrzegi|PL|Subcarpathia|a5|3v6|1q0|m
+Biars-sur-Cère|FR||9k|3gt|55|m
+Biasong|PH||71|t8|9jq|m
+Biała Śródmieście|PL||a5|3ue|1gx|l
+Beaurainville|FR||9k|3w2|5a|l|Biaurinville
+Bilohorodka|UA|Khmelnytskyi|98|3uw|220|i|Biełogródka;Białogródka;Białohorodka;Białogród;Belogorodka
+Bianhitouo|CI||0|jl|-my|i|Biahitouo;Bin Hitoulo
+Bianzè|IT||9o|3hv|mk|i|Biansé
+Biard|FR||9k|3le|v|h
+Białaczów|PL||a5|3yi|1ke|f
+Laguardia|ES||9d|3a7|-77|f|Biasteri;Guardia
+Biongouiné|CI||0|jw|-lo|f|Biangouiné
+Bialata|CI||0|jt|-hj|d
+Białobrzegi|PL|Mazovia|a5|41o|1mh|c
+Bianzone|IT||9o|3kb|s3|c
+Biandrate|IT||9o|3i9|ni|c
+Biabou|VC||54|10n|-4pu|b|Biabu;Baiabu
+Bijacovce|SK||8s|3s6|1ls|a|Biazowitz;Betendorf
+Białopole|PL||a5|3xn|1tx|9
+Biała Dolna|PL||a5|3xa|1gy|8
+Bīāshūsh|IR||7o|2op|3lc|7|Beyā Shūsh
+Biauzzo|IT||9o|3jn|zx|7
+Biaudos|FR||9k|3cz|-3n|7
+Biozat|FR||9k|3k0|93|7|Biausac
+Binatlı|TR|Şanlıurfa|94|2ul|2ym|6|Binatly;Biatlı
+Biała|PL|Mazovia|a5|425|1il|6
+Białka|PL|Subcarpathia|a5|3uj|1p8|6
+Bias|FR|New Aquitaine|9k|3en|-3e|6
+Bīāhī|IR||7o|1yr|4jv|5
+Bians-les-Usiers|FR||9k|3mg|hf|5

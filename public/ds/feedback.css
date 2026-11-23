@@ -1,0 +1,381 @@
+/* From NeedWright's design system (its design-system branch, app/ds/feedback.css), as it is there: the same
+ * classes and the same rules, on this app's tokens (public/ds/tokens.css). Changes here go into NeedWright's too, or
+ * are said beside the rule. */
+
+/* Feedback: tag, banner, tooltip, empty state, spinner, skeleton, kbd,
+ * avatar. Color here means state and never appears without a word or icon. */
+
+/* ---------- tag ---------- */
+
+.ds-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex: none;
+  height: 22px;
+  padding: 0 8px;
+  border: 1px solid transparent;
+  border-radius: var(--radius-8);
+  background: var(--gray-2);
+  color: var(--ink-2);
+  font-size: var(--size-12);
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.ds-tag > svg {
+  width: 12px;
+  height: 12px;
+  flex: none;
+}
+
+.ds-tag--positive { background: var(--positive-bg); color: var(--positive); }
+.ds-tag--warning { background: var(--warning-bg); color: var(--warning); }
+.ds-tag--negative { background: var(--negative-bg); color: var(--negative); }
+.ds-tag--info { background: var(--info-bg); color: var(--info); }
+.ds-tag--outline { background: transparent; border-color: var(--edge); }
+.ds-tag--solid { background: var(--solid); color: var(--on-solid); }
+
+/* A live state: a small dot that breathes. Still always next to a word. */
+.ds-tag-dot {
+  width: 6px;
+  height: 6px;
+  flex: none;
+  border-radius: var(--radius-full);
+  background: currentColor;
+}
+
+.ds-tag--live .ds-tag-dot {
+  animation: ds-breathe 2.4s var(--ease-standard) infinite;
+}
+
+@keyframes ds-breathe {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.45; transform: scale(0.8); }
+}
+
+/* ---------- banner ---------- */
+
+.ds-banner {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 12px 14px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-16);
+  background: var(--fill);
+  color: var(--ink-1);
+}
+
+.ds-banner > svg {
+  width: 16px;
+  height: 16px;
+  flex: none;
+  margin-top: 2px;
+  color: var(--ink-2);
+}
+
+.ds-banner-text {
+  grid-template-columns: minmax(0, 1fr);
+  flex: 1;
+  min-width: 0;
+  display: grid;
+  gap: 2px;
+}
+
+.ds-banner-title {
+  font-weight: 500;
+  color: var(--ink-1);
+}
+
+.ds-banner-body {
+  color: var(--ink-2);
+}
+
+.ds-banner-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: none;
+  margin: -4px -6px -4px 0;
+}
+
+.ds-banner--positive { border-color: var(--positive-edge); background: linear-gradient(90deg, var(--positive-bg) 0%, transparent 40%); }
+.ds-banner--positive > svg { color: var(--positive); }
+.ds-banner--warning { border-color: var(--warning-edge); background: linear-gradient(90deg, var(--warning-bg) 0%, transparent 40%); }
+.ds-banner--warning > svg { color: var(--warning); }
+.ds-banner--negative { border-color: var(--negative-edge); background: linear-gradient(90deg, var(--negative-bg) 0%, transparent 40%); }
+.ds-banner--negative > svg { color: var(--negative); }
+.ds-banner--info { border-color: var(--info-edge); background: linear-gradient(90deg, var(--info-bg) 0%, transparent 40%); }
+.ds-banner--info > svg { color: var(--info); }
+
+@media (max-width: 560px) {
+  .ds-banner { flex-wrap: wrap; }
+  .ds-banner-actions { width: 100%; margin: 4px 0 0 26px; }
+}
+
+/* ---------- tooltip ----------
+ * A tip sits on the element itself and holds a fact: an exact time, a full
+ * amount, why something is disabled, a shortcut. Never a paragraph. */
+
+.ds-tip-host {
+  position: relative;
+  display: inline-flex;
+  max-width: 100%;
+}
+
+.ds-tip {
+  position: absolute;
+  z-index: 60;
+  left: 50%;
+  bottom: calc(100% + 8px);
+  width: max-content;
+  max-width: min(260px, 80vw);
+  padding: 5px 8px;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-8);
+  background: var(--gray-2);
+  box-shadow: var(--shadow-pop);
+  color: var(--ink-1);
+  font-family: var(--type-ui);
+  font-size: var(--size-12);
+  font-weight: 500;
+  line-height: 16px;
+  text-align: left;
+  white-space: normal;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(-50%, 3px);
+  transition:
+    opacity var(--dur-150) var(--ease-standard),
+    transform var(--dur-150) var(--ease-standard),
+    visibility 0s linear var(--dur-150);
+}
+
+.ds-tip-host:focus-within > .ds-tip {
+  opacity: 1;
+  visibility: visible;
+  transform: translate(-50%, 0);
+  transition-delay: var(--tip-delay), var(--tip-delay), 0s;
+}
+
+.ds-tip-host[data-dismissed="true"] > .ds-tip,
+.ds-tip-host:has([aria-expanded="true"]) > .ds-tip {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.ds-tip--bottom {
+  top: calc(100% + 8px);
+  bottom: auto;
+  transform: translate(-50%, -3px);
+}
+
+.ds-tip--right {
+  left: calc(100% + 8px);
+  top: 50%;
+  bottom: auto;
+  transform: translate(-3px, -50%);
+}
+
+.ds-tip-host:focus-within > .ds-tip--right {
+  transform: translate(0, -50%);
+}
+
+.ds-tip--left {
+  left: auto;
+  right: calc(100% + 8px);
+  top: 50%;
+  bottom: auto;
+  transform: translate(3px, -50%);
+}
+
+.ds-tip-host:focus-within > .ds-tip--left {
+  transform: translate(0, -50%);
+}
+
+.ds-tip--start { left: 0; transform: translate(0, 3px); }
+.ds-tip-host:focus-within > .ds-tip--start { transform: none; }
+.ds-tip--end { left: auto; right: 0; transform: translate(0, 3px); }
+.ds-tip-host:focus-within > .ds-tip--end { transform: none; }
+
+@media (hover: hover) and (pointer: fine) {
+  .ds-tip-host:hover > .ds-tip {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, 0);
+    transition-delay: var(--tip-delay), var(--tip-delay), 0s;
+  }
+  .ds-tip-host:hover > .ds-tip--right {
+    transform: translate(0, -50%);
+  }
+  .ds-tip-host:hover > .ds-tip--left {
+    transform: translate(0, -50%);
+  }
+  .ds-tip-host:hover > .ds-tip--start { transform: none; }
+  .ds-tip-host:hover > .ds-tip--end { transform: none; }
+}
+
+.ds-tip .ds-kbd {
+  margin-left: 6px;
+}
+
+@media (hover: none) {
+  .ds-tip { display: none; }
+}
+
+/* ---------- empty state ---------- */
+
+.ds-empty {
+  display: grid;
+  justify-items: center;
+  gap: 6px;
+  padding: 56px 24px;
+  border: 1px solid var(--hair);
+  border-radius: var(--radius-16);
+  text-align: center;
+}
+
+.ds-empty--bare {
+  border: 0;
+  padding: 40px 16px;
+}
+
+.ds-empty-art {
+  margin-bottom: 10px;
+  color: var(--ink-3);
+}
+
+.ds-empty-art > svg {
+  width: 28px;
+  height: 28px;
+}
+
+.ds-empty-title {
+  font-size: var(--size-16);
+  font-weight: 600;
+  line-height: 24px;
+  color: var(--ink-1);
+}
+
+.ds-empty-body {
+  max-width: 34ch;
+  color: var(--ink-2);
+  text-wrap: pretty;
+}
+
+.ds-empty-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+/* ---------- spinner & skeleton ---------- */
+
+.ds-spinner {
+  display: inline-block;
+  flex: none;
+  width: 14px;
+  height: 14px;
+  border: 1.5px solid currentColor;
+  border-right-color: transparent;
+  border-radius: var(--radius-full);
+  color: var(--ink-3);
+  animation: ds-spin 700ms linear infinite;
+}
+
+@keyframes ds-spin {
+  to { transform: rotate(360deg); }
+}
+
+.ds-skeleton {
+  display: block;
+  border-radius: var(--radius-8);
+  background:
+    linear-gradient(90deg, transparent 0%, var(--glow-soft) 50%, transparent 100%) 0 0 / 200% 100% no-repeat,
+    var(--gray-2);
+  animation: ds-shimmer 1.6s var(--ease-standard) infinite;
+}
+
+@keyframes ds-shimmer {
+  from { background-position: 150% 0, 0 0; }
+  to { background-position: -50% 0, 0 0; }
+}
+
+/* ---------- kbd ---------- */
+
+.ds-kbd {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5px;
+  border: 1px solid var(--hair);
+  border-radius: 6px;
+  background: var(--gray-2);
+  color: var(--ink-2);
+  font-family: var(--type-mono);
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.ds-kbds {
+  display: inline-flex;
+  gap: 3px;
+}
+
+/* ---------- avatar ---------- */
+
+.ds-avatar {
+  position: relative;
+  display: inline-grid;
+  place-items: center;
+  flex: none;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-full);
+  background: linear-gradient(42deg, var(--gray-1), var(--gray-4));
+  color: var(--ink-1);
+  font-size: var(--size-12);
+  font-weight: 600;
+  line-height: 1;
+  user-select: none;
+}
+
+.ds-avatar > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ds-avatar--20 { width: 20px; height: 20px; font-size: 10px; }
+.ds-avatar--24 { width: 24px; height: 24px; font-size: 11px; }
+.ds-avatar--28 { width: 28px; height: 28px; font-size: 11px; }
+.ds-avatar--40 { width: 40px; height: 40px; font-size: var(--size-14); }
+.ds-avatar--56 { width: 56px; height: 56px; font-size: var(--size-18); }
+.ds-avatar--80 { width: 80px; height: 80px; font-size: var(--size-24); }
+
+.ds-avatar-wrap {
+  position: relative;
+  display: inline-flex;
+  flex: none;
+}
+
+.ds-avatar-presence {
+  position: absolute;
+  right: -1px;
+  bottom: -1px;
+  width: 9px;
+  height: 9px;
+  border: 2px solid var(--canvas);
+  border-radius: var(--radius-full);
+  background: var(--positive);
+}

@@ -1,0 +1,32 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Ciudad Guayana|VE||2c|n7|-4u0|7jq|Cidade Guaiana;Guayana;Ciudat Guayana;Siudad Guajana;Sjudad Guajan;Ciudad Guiana
+Lapu-Lapu City|PH||71|sn|9kb|3ua|Lapu-Lapu;Dakbayan sa Lapu-Lapu;Siudad ti Lapu-Lapu
+Ciudad Bolívar|VE||2c|mk|-4wj|36m|Bolívar;Ziudá Bolívar;Bolívar llaqta;Siudad Bolivaras;Syudad Bolívar;Syudad-Bolivar
+Cabanatuan City|PH||71|171|9c1|2nh|Cabanatúan;Ciudad ti Cabanatuan;Lungsod ng Cabanatuan;Siudad ti Cabanatuan;Lakanbalen ning Cabanatuan;Siyudad na Cabanatuan
+Ciudad Victoria|MX||44|1ty|-7ne|2k9|Cd. Victoria;Siudad Viktorija;Altepetl Victoria;Victoria llaqta;Victoria;Lungsod ng Victoria
+Ciudad Obregón|MX||37|24d|-8he|2ji|Cd Obregon;Cd. Obregon;Siudad Obregonas;Altepetl Obregón;Lungsod ng Obregón;Obregon
+Ciudad del Este|PY||1y|-1yu|-47t|2bu|Siudad del Estė;Sjudad Del Este;Syudad del Este;Kota del Este;Bandar del Este
+Ciudad Ojeda|VE||2c|sc|-5i3|1ur|Ciudat Ojeda;Siudad Ocheda
+Ciudad Madero|MX||44|1pt|-7js|1is|Cd Madero;Cd. Madero;Siudad Maderas
+Siuri|IN||6t|1uf|6r5|hz|Sūri
+Siu Lek Yuen|HK||6i|1q6|8t9|fx|Siu Lik Yuen
+Sīwah|EG||c|294|1yw|6y|Siwa Oasis;Isiwan;Oase Siwa;Siwa;Siuah;Siwe
+Siuliban|IN||6t|1tz|6p2|6q
+Siu Sai Wan Estate|HK||6i|1pu|8td|58|Siu Sai Wan
+Siuna|NI||3s|125|-6ji|4h
+Ciudad Rodrigo|ES||9d|34s|-i5|3x|Cidade Rodrigo;Ciarrodrigu;Siudad-Rodrigo;Ciudad-Rodrigo
+Siu Hei|HK||6i|1q5|8sl|3e
+Sioux Center|US||2f|3bo|-7f6|23|Siua Centro
+Siuntio|FI||92|4n2|1vb|1r|Sjundeå
+Siu Chik Sha|HK||6i|1py|8tf|1o
+Syumsi|RU||9p|4en|3zd|1k|Siumsi
+Siukh|RU||9i|3ac|3la|y
+Siusega|WS||aj|-12g|-d99|q
+Siurgus Donigala|IT||9o|320|pj|k
+Siurte|UA||98|3qq|1pr|j|Szurte;Syurte
+Siusi|IT||9o|3la|w4|g|Seis am Schlern
+Si’umu|WS||aj|-12x|-d96|c|Siumu Village
+Sioux Rapids|US||2f|3b5|-7cb|8|Siuaj Rapidoj
+Siutu|WS||aj|-124|-dbg|6

@@ -1,0 +1,72 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ar Raqqah|SY||69|2rv|30d|43s|Raqqa;Ar-Raqqah;Rakka;Raka;Reqa;Callinicum;Raqqah
+Rukban|JO||5t|2kj|2zi|nm|Rakban;Rikban
+Luxembourg|LU||9c|3tt|h1|lb|Luxemburg;Luxemburgo;Luksemburgo;Luksemburg;Ciudad de Luxemburgo;Ciutat de Luxemburg;Lucemburk;Luxenburgo;Lussemburgo;Lëtzebuerg;Liuksemburgas;Luksemburga;Luksemburgu;Lussimbork veye;Luxembôrg;Lucsamburg;Stad Lëtzebuerg;Stadt Luxemburg;Lüksemburq;Luksembourg;Dinas Lwcsembwrg;Luxemborj;Lúksemboarch;Lucsemburg;Liksanbou;Luxemburgum;Lüssemburgh;Rakapuō;Lussemburgu;Lussemborgh;Luksimbur;Luxembuurich;Lungsod ng Luksemburgo;Lusenburgo;Luksambuur;Letzeburg
+Rákospalota|HU||8v|3o4|1h4|ap
+Raqo|ET||2|hu|3jd|6z|Rako;Raqqo
+Rákoskeresztúr|HU||8v|3nv|1hi|6y
+Raahe|FI||92|4zo|1w0|6k|Brahestad;Rahė;Rakhe
+Rákosszentmihály|HU||8v|3o0|1h8|6f
+Rakkiyapālaiyam|IN||6t|uv|5xq|57
+Rakivka|UA||98|3s6|2ky|4u
+Rakove|UA|Khmelnytskyi|98|3t8|236|4q
+Rakovski|BG||9v|39h|1xd|4e|General Nikolaevo;Kılıçlı
+Rakovník|CZ||9m|3v6|125|4d|Rakonitz
+Rakhiv|UA||98|3ph|1v8|4c|Rahău;Rahiv;Rachiw
+Rakvere|EE||9x|4kv|218|46|Wesenberg;Rakwere;Vezenberg
+Rákoscsaba|HU||8v|3nx|1hm|45
+Rákoshegy|HU||8v|3nu|1hg|3s
+Rokiškis|LT||a3|4bg|1z3|3a|Rakischki;Rakiszki;Rokišķi;Rokiškio;Rokishkis;Rakiškis;Rakishki
+Rákoscsaba-Újtelep|HU||8v|3ny|1hl|33
+Rakitnoye|RU||9i|3x8|2rl|2y|Rakitnoje
+Rákoskert|HU||8v|3nu|1hm|2q
+Rakhabh Dev|IN||6t|1uw|5op|2k
+Rakitovo|BG||9v|38n|1ux|2c|Rakitowo
+Rakholi|IN||6t|1k6|5mv|2b
+Rakh Gadi Garh|IN||6t|2ir|5rw|24
+Rakszawa|PL||a5|3vc|1ps|1x
+Rakaw|BY||9g|45x|236|1r|Raków;Rakov;Rakuv;Rakaŭ
+Raková|SK||8s|3tc|1g2|1k
+Rákóczifalva|HU||8v|3ms|1k7|1j
+Rakamaz|HU||8v|3po|1nm|1g
+Rokosovo|UA||98|3px|1se|19|Rakasz;Rokosiv;Rokosov
+Rakkestad|NO||9j|4l3|vj|12
+Königswartha|DE||8r|3yj|13t|12|Rakecy
+Rákosliget|HU||8v|3nx|1hi|11
+Rakúsy|SK||8s|3sn|1km|y
+Rakoniewice|PL||a5|40u|197|x|Rakoņevice;Rakoniewic
+Racoviţa|RO|Timiș County|8u|3iy|1o4|x|Rakovica;Rakowitza;Rakovicza
+Rakoshyno|UA||98|3qn|1qs|v|Beregrákos;Rakosjyno;Rakoshino;Rakoŝino;Rakošín;Rakoszyno;Rakoshyn;Rakoshin
+Rakiv Lis|UA||98|3ze|1x8|u|Rakov Les
+Rakhmanovo|RU||9i|4au|2z9|r
+Rakvice|CZ||9m|3rq|1ap|n
+Rakitje|HR||a6|3j7|17y|m
+Rakek|SI||9a|3j9|13r|m
+Rákócziújfalu|HU||8v|3mr|1kb|k
+Rakhine Chaung North|MM||7y|1aa|7f6|j
+Raksila|FI||92|50l|1yt|i
+Rakhine Chaung South|MM||7y|1aa|7f6|h
+Rakaia|NZ||ak|-3dj|d9u|h
+Rakičan|SI||9a|3ll|190|g|Rakitschan;Battyánfalva;Rakitsán;Rakicsán
+Rake|GB||9b|3xs|-2e|g
+Raków|PL||a5|3wr|1mh|c
+Rakosh|UA||98|3pg|1sy|b
+Rakov Potok|HR||a6|3j2|17w|b
+Rakke|EE||9x|4ju|20x|a|Racke;Rake
+Rakove|UA|Zakarpattia|98|3po|1ts|a|Rakovo
+Raqqefet|IL||6n|2j9|2py|9|Rakkefet;Rakefet
+Rokyta|UA||98|3tr|2lg|9|Rakita;Rokita
+Rakowiec-Opatowice|PL||a5|3xx|1bi|8
+Rakovo|UA||98|3r9|1qw|8|Rakó;Rakov;Rakove
+Rakitovica|HR||a6|3j0|1ej|7
+Rakove|UA|Mykolaiv|98|3o2|2f8|7|Rakovo
+Rachóna|GR||8p|35d|1qm|7|Rakhóna
+Rakitna|SI||9a|3jh|144|7
+Rakovice|SK||8s|3qw|1da|7
+Raksta|SE||9w|4ki|1eu|6
+Rakhmanovka|RU||9i|44u|3bg|6|Rakhmalovka
+Rákhai|GR||8p|301|1ra|6|Raches;Rákhes
+Rakotinci|MK||9u|38i|1nh|6
+Ráchi|GR|Epirus|8p|30n|1m2|6|Rákhi
+Rakitovec|HR||a6|3iu|18u|6
+Ráchi|GR|Central Macedonia|8p|34g|1pp|5|Rákhi

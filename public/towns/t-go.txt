@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Gô|CI||0|mb|-ld|9
+Hong Kong|HK||6i|1pw|8t5|1l2h|Hongkong;Victoria;Gon Kong;Hiŏng-gē̤ng;Honkongo;Heung Gong
+Guiyang|CN||7i|21u|88g|yrp|Guijangas;Quý Dương;Kuej-jang;Gŭijango;Kùi-iông-chhī;Gói-iòng;Queiyanga;Guyyan;Gveiyangz;Guijang;Quyinq;Kuei-yang
+Goiânia|BR||4w|-1ac|-3st|bup|Gojanija;Goyaniya;Goianá;Goyania
+Gwangju|KR|Gwangju|7h|2pn|9sk|at8|Kwangju;Kwangdžu;Kŭangĵuo;Gouanjou;Quansua;Kvandžu;Kvanju;Kvangdzsu;Kuangju
+Nizhniy Novgorod|RU||9i|4ch|3e8|9pq|Nizjnij Novgorod;Nizhny Novgorod;Nischni Nowgorod;Nijni Novgorod;Gorkij;Nižni Novgorod;Nyizsnyij Novgorod;Nizhni Nóvgorod;Nizhni Novqorod;Nishni-Nowgorod;Gorkii;Nižnij Nowgorod;Gor'kiy;Nishnii Nowgorod;Gorki;Nizhnii Novgorod;Nishnij Nowgorod;Nijnii Novgorod
+Guigang|CN||7i|1s8|8gf|8dr|Gói-gē̤ng;Kuej-kang;Kui-kóng-sṳ;Quý Cảng;Gveigangj;Kùi-káng-chhī
+Goyang-si|KR||7h|2wm|9sc|86y|Goyang;Kojango
+Jodhpur|IN|Rajasthan|6t|20z|5mt|85e|Dźodhpur;Ĝodhpur;Džódpur;Codpur;Dzsódhpur;Džodhpuras;Džodhpura
+Qom|IR||7o|2o8|3xc|6y0|Kom;Qûm;Kum;Ĥomo;Kumas;Gōymān
+Gorakhpur|IN|Uttar Pradesh|6t|22d|6fl|57a|Korakhpur
+Golfe|AO||x|-on|10u|526
+Gold Coast|AU||8c|-25s|bu7|4y0|Costa Dorada;Gold
+Gothenburg|SE||9w|4gb|x9|4p1|Göteborg;Gotemburgo;Gothembourg;Gothoburgum;Gēteborga;Gotenburg;Gautaborg;Göteborq;Gotnburg;Geteborgas;Geŭteborgo;Goeteborg;Goteburg;Gottenborg
+Gombe|NG||u|sl|v1|4bk
+Aparecida de Goiânia|BR||4w|-1aq|-3ss|42m
+Homyel'|BY||9g|41n|2e2|3v8|Homel;Gomel;Homiel;Gomeļa;Homyel;Gomelis;Homel';Gomelj;Homelj
+Campos dos Goytacazes|BR||4w|-1of|-36t|3qb|Campos dos Goitacazes
+Gonder|ET||2|z0|2w3|3lg|Gondar;Gwonder
+Hrodna|BY||9g|454|1u7|2t1|Grodno;Gardinas;Goradnia;Grodņa
+Bandar Abbas|IR||7o|23j|4cc|2pu|Cambarão;Port Comorão;Gombroon;Gumrun;Bandar-e Abbas;Bandar Abas;Bandar-Abbász;Bender Ebbas;Bandare Abasas;Bender Abbas;Bandar-Abbas;Bandar-e ‘Abbās;Bandar ‘Abbāsī;Bandar ‘Abbās
+Honolulu|US||ax|1n7|-c6i|2pi|Honolulo;Thàn-hiông-sân;Gonolulu;Honoloulou;Honoruru
+São Gonçalo|BR||4w|-1rf|-3bl|27a|San Gonsalas
+Governador Valadares|BR||4w|-1gd|-38j|222|Valadares;Gov. Valadares
+Gómez Palacio|MX||44|1z1|-7zi|1zi
+Godomè|BJ||1b|hr|6j|1yd
+Águas Lindas de Goiás|BR||4w|-17s|-3q4|1w6
+Gorgān|IR||7o|2uc|478|1w1|Hirkanio;Gūrgān
+Golestān|IR||7o|2qo|3y6|1uo
+Horlivka|UA||98|3q6|2xm|1um|Horliwka;Qorlivka;Gorlivka;Gorłówka;Górlovka
+Georgetown|GY||34|iw|-4hk|1ta|Georgurbo;Džordžtaunas;Džordžtauna;Georgiopolis;Jòjtòn;Džordžtauns;Džordžtaun;Ĝorĝtaŭno
+Valparaíso de Goiás|BR||4w|-18n|-3pa|1oo
+Gojra|PK||6q|2ej|5lw|1ng|Goira;Godžra;Goĝra;Gorja
+Gorontalo|ID||70|1i|9hu|1l2
+Gongheyong|CN||7i|1r8|8s3|1kx
+Bandundu Province|CD||t|-98|1ca|1kd|Bandundu;Provincia di Bandundu;Provinco Bandundu;Bandundu tartomány;Provinsi Bandundu;Bandundu Bölgesi;Bandundu viloyati;Wilayah Bandundu;Provincia de Bandundu;Provinz Bandundu;Bandundu Lardin;Gobolka Bandundu;Mkoa wa Bandundu
+Paris 13 Gobelins|FR||9k|3rn|6k|1ed
+Gongzhuling|CN||7i|3cu|9mq|1e7
+Cuddalore|IN||6t|wo|65l|1c8|Gondelour
+Gisenyi|RW||s|-4q|29a|1bw|Gosenyi;Gisenjis
+Hollywood|US|California|3p|2mq|-94p|1al|Holivudo;Holivudas;Holivuda;Ruscisilva;Hollivud;Huolėvods;Gollivud;Tinseltown

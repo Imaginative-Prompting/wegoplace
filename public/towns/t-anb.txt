@@ -1,0 +1,26 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Brussels|BE||8t|3x9|c3|7v2|Bruxelles;Brussel;Bryssel;Brusela;Bruselas;Bruselo;Brukselo;Bruseles;Brusel;Brwsel;Bruiseal;Bruxelas;Brüsszel;Bruxel;Città di Bruxelles;Bruksel;Bruxellae;Bréissel;Briuselis;Brisele;Bruksela;Bruselj;Brussele;Brisel;Brukseli;An Bhruiséil;Kota Brusel;Brasels
+Antwerp|BE||8t|3ya|c8|430|Amberes;Antverpy;Antverpeno;Anvers;Antuairp;Antuerpen;Anversa;Antverpia;Antverpenas;Antverpene;Antuérpia;Anberes;Antverpen;Amberis;Anverse;Antwarp;Antverpens;Ôn-thi̍t-ví-phú;Antwyrpijo
+Bratislava|SK||8s|3pr|1bj|39p|Prešporok;Bratislavo;Pozsony;Posonium;Preßburg;Bratysława;An Bhratasláiv;Bratisława;Bratisllava;Bratislav;Baratislawa;Presbourg;Presburg;Prešpurk;Preszburg
+Anbu|CN||7i|1t5|904|19a|An-pu
+Amberg|DE|Bavaria|8r|3tc|wy|cf|Anberg
+Anbyŏn-ŭp|KP||7a|30g|9u8|8u|Anbyŏn
+Ballymena|GB||9b|48e|-hg|81|Balimena;An Baile Meánach
+‘Anbarābād|IR||7o|274|4gp|52|Ambārābād
+Anbār Ālūm|IR||7o|2v5|47q|1y|Anbār Olūm;Anbār Olom
+‘Anbarān|IR||7o|2yx|3qj|1m
+Ambar|TR||94|2x5|34l|1f|Anbar
+New Buildings|GB||9b|48o|-kg|y|An Baile Nua
+An Bá|VN||6h|15m|8ed|x
+Enfield|IE||8z|44d|-iz|w|An Bóthar Buí;Innfield
+Blarney|IE||8z|409|-nt|p|An Bhlarna
+Åndalsnes|NO||9j|4tt|ld|o|Anbalsnes
+Anbī|IR||7o|2w8|3gd|d|Ambi
+Newtown Cunningham|IE||8z|48s|-kw|b|An Baile Nua;Newtowncunningham
+Newtownbutler|GB||9b|46i|-kg|9|An Baile Nua
+Ballymore Eustace|IE||8z|43l|-id|9|An Baile Mór
+Anbār Sar|IR||7o|2vv|3v5|8
+Bruff|IE||8z|41r|-nr|8|An Brú
+Borris|IE||8z|424|-j8|7|An Bhuiríos;Buirgheas Ó nDróna
+Anbūh|IR||7o|2tu|3uv|5|Anbukh;Anbūn
+Ballyduff|IE||8z|41q|-qu|5|An Baile Dubh

@@ -1,0 +1,89 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Xi’an|CN||7i|2n6|8el|2ry1|Hsi-an;Xian;Ŝiano;Sianas;Tây An;Siaņa;Ŝingano;Šjan;Singan;Sian
+Taipei|TW||7l|1xl|9dl|1oqn|Taipeh;Tajpeo;Taibėjus;Tajpej;Taipé;Tchaj-pej;Tayipèh;Taipėjus;Đài Bắc;Taypey;T’ai-pei
+Taiyuan|CN|Shanxi|7i|2x7|8oo|14xn|Tajuanas;Tchaj-jüan;Tajuano;Thái Nguyên;Thài-goân-chhī;Tái-nguòng;Tajjüan;Taiyuenum;Taijuaņa;Tayyuan;Daiyienz;Taijuan
+Taichung|TW||7l|1v3|9b8|lzr|Đài Trung;Teyjong shehiri;Taičungas;Tajĉungo;Thòi-chûng-sṳ;Tchaj-čung;Taizhong;Taychun;Tâi-tiong-chhī
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Tainan|TW||7l|1rv|99x|ebq|Teynen shehiri;Thòi-nàm-sṳ;Tchaj-nan;Tajnan;Đài Nam;Tajnano;Taynam;Tâi-lâm-chhī;Dài-nàng;T’ai-nan
+Ta’if|SA||7e|1n3|34a|5bb|Taif;Taëf;Taifas;Tāifa;Toif;Daa'if;Taifum;Tayif
+Taytay|PH|Calabarzon|71|14g|9ch|1sb
+Sơn Tây|VN||62|1mq|853|1s2|Sontai
+Tây Hồ|VN||62|1mj|85x|1ar
+Tây Ninh|VN||6h|vf|86q|11l
+Tayabas|PH||71|12z|9dr|w1
+Taylor|US|Michigan|2q|39c|-6fb|h4
+Taylorsville|US|Utah|2p|34z|-8my|gt
+Tây Mỗ|VN||62|1mc|85r|cx
+Tây Tựu|VN||62|1mj|85p|ay
+Tayshet|RU||6k|4bd|7k7|ai|Taischet;Tajŝet;Tajsjet;Taishet
+Taymā’|SA||7e|24q|2z2|ag|Taima;Taymah
+Tāybād|IR||7o|2oi|4ou|af|Tayebad
+West Hollywood|US|California|3p|2mp|-94s|a2|Vakarų Holivudas;Vestholivuda;Okcidenta Holivudo;Tây Hollywood
+West Fargo|US||2f|3m7|-7h6|9c|Vakarų Fargas;Vestfargo;Tây Fargo
+Taiobeiras|BR||4w|-17x|-39b|97|Tayobeiras
+Ţayyibat al Imām|SY||69|2pz|2tz|85|Ţaybat al Imām
+Tayu|ID||6l|-i6|8kh|7c|Taju
+Tayga|RU||74|4br|6lu|6r|Tajga;Taiga
+Taylors|US||48|2p0|-6cm|60|Taylor
+Taió|BR||4w|-23c|-3uw|53|Tayo
+Taylor|US|Texas|2f|2cx|-7il|4n
+Taylor-Massey|CA||59|3de|-64a|4d
+Taylors Hill|AU||8j|-2wr|b63|4a
+Taylors Lakes|AU||8j|-2wq|b67|48
+Taiynsha|KZ||5s|45l|5dt|3n|Taiynşa;Taincha;Tayncha
+Tây Đằng|VN||62|1mw|84u|3l|Huyện Ba Vì
+Aţ Ţayyibah|JO||5t|2ie|2r8|3i|Ţayyibah
+Tayug|PH||71|18j|9be|38
+Taylorville|US||2f|31v|-6w1|31
+West Haven-Sylvan|US||3p|3ig|-9h1|28|Tây Haven-Sylvan
+Tayud|PH||71|su|9kh|26
+Taytay|PH|Mimaropa|71|u2|97y|25
+Tayo|CI||0|fr|-hn|21
+Taytayan|PH|Davao Region|71|lh|9re|1x
+Taylor Mill|US||48|30c|-6iq|1w
+Tayikkād|IN||6t|tf|5va|1u|Thaikkad
+Taiúva|BR||4w|-1mo|-3ql|1t|Tayuva
+Taylor|US|Pennsylvania|48|36z|-5ub|1o
+West Hattiesburg|US||2f|2f0|-6wa|1n|Tây Hattiesburg
+Taysan|PH||71|12j|9ce|1h
+Tayoltita|MX|Durango|44|1uy|-869|1f
+Tayturka|RU||6k|42v|7ze|1f|Tajturka;Taiturka
+Tayzhina|RU||74|453|6qw|1f|Tajzjina
+Tayaman|PH||71|10r|9ax|1f
+Tayabo|PH||71|17z|9c7|18
+Taylor Creek|US||48|23m|-68f|17
+West Wendover|US||3p|356|-8sv|17|Tây Wendover
+Taylor|US|Arizona|4i|2nr|-8ht|16
+Tayport|GB||9b|4ct|-80|13
+Tayirove|UA||98|3ks|2d5|12|Taïrové;Tairovo
+West Liberty|US|Iowa|2f|37h|-71i|11|Tây Liberty
+Taylor Lake Village|US||2f|2a6|-7c1|11
+Taytayan|PH|Central Visayas|71|u8|9ke|11
+Taywanak Ilaya|PH||71|13c|9bp|v
+Taypano|PH||71|n9|9m0|u
+Taytay|PH|Northern Mindanao|71|nq|9ly|s
+Taytay|PH|Calabarzon|71|139|9d8|r
+Taytsy|RU||9i|4lq|2bn|q|Tajtsy;Taaitsa;Taizy;Tajcy;Taitsõ;Taytsı
+Tayum|PH||71|1cy|9b5|p
+Taylor|US|Alabama|2f|2ek|-6lf|o
+Tayāsīr|PS||6g|2hu|2qc|n|Tayaseer
+Tayabas Ibaba|PH||71|11u|9fo|m|Tagabas
+Tayahua|MX||41|1pe|-7xr|m|Tlayahua
+Tayeeglow|SO||14|b6|3fn|l|Tayeegle;Tiyeglow
+Taylorsville|US|North Carolina|48|2rs|-69i|l
+Taylor|US|Alabama|2f|2gu|-6nj|j
+Tayan|KG||65|32u|5hj|h|Taen
+Taytay|PH|Central Visayas|71|s6|9kw|f
+Tavush|AM||80|35o|3i5|f|Tovuz;Taush;Tayuz;Tavaz;Tavuz;Tovuzkend;Touzkend;Touz;Tous;Tanush
+Tayginka|RU||7z|4ai|4o3|e|Tajginka
+Taylor|CA||2o|4bz|-9b8|d
+Taylorsville|US|Mississippi|2f|2gf|-6wf|d|Taylorville
+Taylorsville|US|Kentucky|48|2xn|-6l2|a
+Taylors Falls|US||2f|3i4|-75d|a|Taylor's Falls
+Taylorsville|US|Indiana|38|316|-6mr|9
+Tayoltita|MX|Sinaloa|3x|1ua|-88u|8
+Taylortown|US||48|2pt|-64t|8
+West Concord|US|Minnesota|2f|3en|-762|8|Tây Concord
+Taycheedah|US||2f|3dp|-6tk|7
+Taylor Springs|US||2f|30p|-6wl|7
+Taylor|US|Arkansas|2f|2jy|-77m|5

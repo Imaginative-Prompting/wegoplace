@@ -1,0 +1,86 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cusco|PE||3o|-11l|-5jx|3b1|Cuzco;Ciudad del Cuzco;Kusko;Qusqu;Kuskas;Cuschum;Cuscu;Cosco
+Kosti|SD||r|10k|2iq|2nv|Kusti;Costi
+Constanţa|RO||8u|3eq|27j|2ga|Konstanca;Constanza;Konstanco;Costanza;Constantia;Constança;Köstence;Konstanza;Küstence;Costansa;Konstantza;Constancia;Konstansa;Konstanta;Küstenja;Constantza;Kustenji;Kustenje
+Kushinagar|IN||6t|22a|6h1|248
+Kostanay|KZ||7c|43t|4wq|1mc|Qostanay;Kustanay;Nikolayevsk;Qostanai;Kostanái;Kostanajus;Kostanaj;Qoʻstanay;Kustanaj;Qostanaj;Kustanai
+Kushiro|JP||7q|3be|b51|1an|Kuširo;Kuširas;Kusyiro;Kusiro-chhī;Kushira
+Kusatsu|JP|Shiga|7q|2pa|ahp|13z|Susatsu;Kusatu
+Kousséri|CM||j|xk|15r|12m|Kusseri
+Kushtia|BD||6a|1ue|6vk|11p
+Kuznetsk|RU||9i|43k|3lg|p5|Kusnezk;Kouznetsk;Kuzneck;Kuzneckas;Kuznețk;Kuźnieck;Kuznjeck
+Kuşadası|TR||94|2x6|23q|hk|Skala Nuova;Scalanuova;Skalanova;Kush Adası;Kushadassi
+Kyustendil|BG||9v|39g|1r1|d1|Kjustendil;Köstendil;Küstendil;Kiousténdil;Keustendil
+Kushva|RU||7z|4hx|4lz|9h|Kusjva;Kuschwa;Kouchva;Kušva;Koesjva;Kušwa;Kuszwa
+Kusŏng-si|KP||7a|332|9nx|8l|Kusŏng-ŭp;Kusŏng;Guseongsi
+Kuskovo|RU||9i|4au|2x0|8c
+Kushchyovskaya|RU||9i|3lc|323|8b|Kusjtsjevskaja;Kushchëvskaya
+Kushikino|JP||7q|2g4|a1v|75|Kusiki-no;Kushigino
+Kushtagi|IN||6t|17s|5vn|6x
+Kushima|JP||7q|2fh|a4k|65|Kusima-chhī
+Kuseifa|IL||6n|2et|2ph|5v|Kuseife
+Kusa|RU||7z|49r|4l4|5i
+Kostrzyn nad Odrą|PL||a5|423|14p|4y|Cüstrin;Küstrin an der Oder;Kòscérzëno;Kostrzyn ĉe Odro;Kostrin;Kostšina pie Odras;Kostšynas prie Odros
+Kusum Pur|IN||6t|27b|5yc|4q
+Kushk|AF||6o|2ki|4s3|4q|Kus̄k
+Kushimoto|JP||7q|2kz|ah6|4i|Kusimoto
+Qusar|AZ||61|373|3qj|4g|Kusar;Kusary
+Kushālnagar|IN||6t|ym|5v0|49
+Kūshk|IR|Isfahan|7o|2io|3z2|3o
+Küssnacht|CH||a7|3mt|ng|3n|Kuessnacht;Chussenachus
+Koshksarāy|IR||7o|2yu|3il|3f|Kashk Saray;Kūshg Sarāy;Koghk Sarāy;Kūshk Sarāy;Koshk Sarāy
+Küsnacht|CH||a7|3ng|nu|37|Cussenachus
+Kushālgarh|IN||6t|1sg|5qt|2z
+Kushnarënkovo|RU||7z|493|49r|2z|Kusjnarenkovo;Kusharenkovo
+Kusavampatti|IN||6t|v6|616|2w|Kosavampatti
+Kusterdingen|DE||8r|3qs|pc|2b
+Qusmuryn|KZ||7c|41p|4zi|28|Kushmurun;Kushmura
+Kushuhum|UA||98|3oj|2pu|27|Kouchouhoum;Velyka Katerynivka;Kuschuhum;Kusjuhum;Kušuhuma;Kushugum;Kušuhum;Kuşugum;Kuszuhum
+Kusmi|IN||6t|1so|6h3|22
+Kusheriki|NG||u|ta|hw|1x|Kusherki
+Kusma|NP||6r|26e|6gg|1w
+Kuusalu|EE||9x|4l4|1yo|1t|Kusalu
+Kusatsu|JP|Gunma|7q|2tq|ap0|1r|Kusacu;Kusatu
+Kusel|DE||8r|3tm|kk|1f|Cosla
+Kūshk-e Mehdī|IR||7o|2t3|4lg|1c|Kūtoshk-e Mehdī
+Kuznechnoye|RU||9i|4ps|2b0|1b|Kaarlahti;Kuznetsjnoje;Kusnetschnoje;Kuznečnoe;Kuzneçnoye;Kuzniecznoje;Karlakhti;Kaarlakhti
+Kushnytsia|UA||98|3ql|1sm|19|Kovácsrét;Kushnitsa;Kushnytsya
+Quşrah|PS||6g|2h5|2q5|17|Kusrah;Quṣra
+Kuzguncuk|TR||94|35z|28n|16|Kuzgunyuk;Kusgunyuk
+Kushoky|KZ||5s|3vj|5nw|13
+Kuzhorskaya|RU||9i|3g4|33z|10|Kuzjorskaja;Kuschorskaja;Kužorskaja;Kujorskaya;Koezjorskaja;Kujórskaia
+Kuşçular|TR||94|2ye|22b|z
+Kūshk-e Nār|IR||7o|23p|42v|x|Kūshk Sār;Koosh Kenar;Kush Kunār;Kūshk Nār;Koshkonār;Kūshkonār
+Küsnacht / Heslibach|CH||a7|3nf|nv|w
+Küsnacht / Goldbach|CH||a7|3nh|nu|q
+Küsnacht / Itschnach|CH||a7|3nh|nw|o
+Kushelevka|RU||9i|4mn|2cc|k
+Kuskan Yaylası|TR||94|2te|2kb|i
+Kusak|RU||63|43u|639|h
+Küsnacht / Dorf|CH||a7|3ng|nu|g
+Kustolovo-Sukhodilka|UA||98|3t6|2oh|f|Kustolovo-Sukhodolka
+Küsten|DE||8r|436|uq|e
+Kusapín|PA||4g|pi|-6bh|e|Cusapín
+Kusano|JP||7q|2wq|auz|d
+Kuštilj|RS||8q|3h3|1ne|c|Kustil
+Kusey|DE||8r|422|uu|b
+Kusocha|RU||67|3wu|8x8|b
+Kuşlukçayırı|TR||94|2xa|31x|a
+Küsnacht / Schiedhalden|CH||a7|3ng|nv|a
+Kustavi|FI||92|4o7|1nc|a|Gustavs
+Kusura|TR||94|2yl|2bz|9
+Kuševac|HR||a6|3hz|1f7|9
+Kūshk|IR|East Azerbaijan|7o|2xy|3in|9|Keshk;Kūshg;Koshk
+Kūshkdar|IR||7o|2rz|3x0|9|Kūshak Zar;Kūshk-e Z̄ar;Kashk Zar;Kūshk Zar
+Kūshk-e Sar Tang|IR||7o|27v|42t|8|Kūshk-i-Sartang
+Kuşbaba|TR||94|2w1|2cj|8
+Kustolovi Kushchi|UA||98|3ss|2na|8|Kustolovo-Kushchi;Kushchi
+Kushtanovytsia|UA||98|3ql|1ra|8|Kushtanovytsya;Kushtanovitsa
+Kustulu|TR||94|2tw|2mq|8
+Kuxeb|MX||3z|1ly|-6s3|7|Kuseb
+Küsnacht / Allmend|CH||a7|3nf|nw|7
+Cușma|RO||8u|3mx|1wm|7|Kusma
+Kuşalanı|TR||94|2sa|2s1|6
+Kuślin|PL||a5|41g|19c|6
+Kasilof|US||1h|4nm|-bo7|5|Kassilow;Kussilof
+Kuşburnu|TR||94|31l|3db|5

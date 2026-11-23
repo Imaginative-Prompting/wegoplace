@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ha|BT||7p|243|6w0|e
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Harbin|CN||7i|3j3|9rt|258j|Cáp Nhĩ Tân;Ha’erbin
+Hefei|CN||7i|2gi|91s|211f|Che-fej;Hefėjus;Hợp Phì;Hefejo;Ha̍p-pûi-chhī;Hăk-bùi;Hofej;Hozfeiz;Hefej;Hefey;Ho-fei
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Hyderabad|IN||6t|1ca|61y|1hyl|Hajdarábád;Haidarabadas;Haiderabad;Hajderabad
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Haikou|CN|Hainan|7i|1jn|8ij|n5s|Xeyko shehir;Hải Khẩu;Hajkou;Hajkoŭo;Chaj-kchou;Hái-kháu-chhī;Hāi-kāu;Haijgouj;Haykou;Haikow
+Haiphong|VN||62|1ly|88c|k98|Hải Phòng;Hajfong;Hajfongo;Hayfon
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Port Harcourt|NG||u|da|jh|gcw|Port Harkortas;Ugwu Ọcha;Port Xarcourt;Port Harkurt
+Aleppo|SY||69|2sk|2v8|g6u|Alepo;Alep;Heleb;Alepas;Halep;Ḩalab;Xalab;Aleppu;Haleba;Ḥaleb;Halapia;Aleppe
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Hamburg|DE||8r|44r|rr|f8b|Hamburk;Hamborg;Hanburgo;Hampuri;Hambourg;Amburgo;Amborg;Augusta Gambriviorum;Hambuurich;Hamburch;Amburgu;Hambörj;Hamboarch;Hamepuka;Hamburq;Gamburg
+Hyderabad|PK||6q|1yk|59y|etp|Hajdarabad;Hajderabado;Haidarabadas;Haydarabad;Hiderábád;Haydarobod;Hajderabad;Haidarabad
+Erbil|IQ||5z|2sj|3e9|cfz|Hewlêr;Arbil;Irbil;Hawler
+Harare|ZW||n|-1dj|2e9|bwk|Arare
+Kharkiv|UA||98|3uu|2sp|ayr|Charkiw;Charkiv;Ĥarkov;Harkiv;Harkova;Charcovia;Charkovas;Harkiva;Charkov;Charków;Carcóvia;Kharkov;Jarkov;Ĥarkivo;Khar’kov
+Handan|CN||7i|2tp|8u1|ahb|Hàm Đan;Chan-tan;Hàng-dăng;Hân-tan-chhī;Han-tan
+Heze|CN||7i|2pw|8wr|ae3|Che-ce;Hà Trạch;Hò̤-dĕk;Hâ-te̍k-chhī
+Copenhagen|DK||8y|4ao|yx|8wg|København;Köpenhamn;Kopenhago;Copenhague;Kopenhagen;Copenaguen;Copenhaguen;Kodaň;Kòpenhaga;Kopenhaagen;Kopenage;Kopenhage;Kööpenhamina;Keypmannahavn;Cóbanhávan;Koppenhága;Kaupmannahöfn;Copenaghen;Hafnia;Kopenhāgena;Copenhaga;Kobenhaven;Kopenhag;Copenaga;Kjøpenhamn;Københámman;Kjobenhavn
+Hengyang|CN||7i|22p|8ou|8ar|Cheng-jang;Hengjang;Fên-yòng-sṳ;Hengjangas;Xéngyang shehiri;Hành Dương;Hèng-iòng;Hêng-iông-chhī;Heng-nan
+Xianyang|CN||7i|2ne|8dy|7z9|Sien-jang;Ŝjanjango;Sianjangas;Hàm Dương;Hàng-iòng;Hszienjang;Hâm-iông-chhī;Hsien-yang
+Howrah|IN||6t|1qq|6tc|7xh|Haora;Haura;Hawrah
+Hanzhong|CN||7i|2jw|89a|7rm|Chan-čung;Hán Trung;Háng-dṳ̆ng;Hàn-tiong-chhī;Han-chung
+Hezhou|CN||7i|1vs|8lx|7rb|Hô̤-ciŭ;Che-čou;Fo-chû-sṳ;Hạ Châu;Hohcouh;Hō-chiu-chhī
+Xiaogan|CN||7i|2dx|8sg|70b|Háu-gāng;Siao-kan;Hiếu Cảm;Hàu-kám-chhī;Siaokan;Hsiao-kan
+Hamamatsu|JP||7q|2oe|aml|63x|Hamamacu;Hamamatu-chhī;Hamamatu
+Hegang|CN||7i|3nj|a1x|5qh|Che-kang;Hạc Cương;Hŏk-gŏng;Ho̍k-kong-chhī
+Hebi|CN||7i|2r9|8th|4wb|Che-pi;Hạc Bích;Hŏk-biáh;Ho̍k-piah-chhī
+Khabarovsk|RU||7w|3qm|afa|4rq|Chabarowsk;Jabárovsk;Chabarovsk;Ĥabarovsk;Habarovszk;Chabarofsk;Habarovska;Chabarovskas;Xabarovsk;Khbarovsk;Khabarovka
+Ha'il|SA||7e|24g|37t|4ob|Hail;Hayil;Hael
+Hachiōji|JP||7q|2r2|ar0|4gy|Hachiouji;Haĉioĝi;Hačiodžis;Hatiôzi-chhī
+Hamilton|CA|Ontario|59|3c5|-65t|4e6|Gamilton
+Hamhŭng|KP||7a|32w|9ua|4bb|Hamheung
+Xinzhou|CN|Shanxi|7i|2yp|8p5|47b|Sin-čou;Hãn Châu;Hṳ̆ng-ciŭ;Hian-chiu-chhī
+Hamadān|IR||7o|2oo|3qr|42r|Hamedān
+Hengshui|CN||7i|2wu|8xc|411|Cheng-šuej;Hành Thủy;Hèng-cūi;Hêng-chúi-chhī
+Hannover|DE||8r|41h|r1|3z3|Hanover;Hanovro;Hanovre;Hanoveris;Hannober;Hanower;Hanovra;Hanoveri;Hannauver;Hannower;Hanowery;Hanofér;Hannova;Hànobhar;IHanoveri;Honovere
+Hāthazāri|BD||6a|1qj|731|3ue

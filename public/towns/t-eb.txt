@@ -1,0 +1,127 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Abu Dhabi|AE||6c|1vx|474|dxy|Abu Dabi;Abú Zabí;Abu-Dabio;Abou Dabi;Abu Dabis;Äbu Saby;Aboe Dhabi;Abû Daby;Abu-Dzabi;Abú Daibí;Ebu Dhabi;Abu-Dabi;Ebu Dabi;Â-pu-tha̍t-pí;Abū Z̧aby;Abū Z̧abyo;Abū Z̧abye
+Dublin|IE||8z|445|-hd|7wg|Dulyn;Baile Átha Cliath;Dyflinn;Dulenn;Eblana;Diblin;Difelin;Divlyn;Dablin
+Ebute Ikorodu|NG||u|ic|9p|44s
+Edinburgh|GB||9b|4bf|-8w|3z2|Edimburgo;Dinedin;Edimburg;Caeredin;Edinburgo;Édimbourg;Dún Éideann;Edinborg;Edimburgum;Edinburgas;Edynburg;Edinburrie;Idinburg;Edinburg;Edinburga;Edimborg;Edimburgu;Embra;Edinburq;Edimborgh;Edimbùrgh;Edinburc;Ebora;Edinbo;Doon Edin;Edinboarch
+Abha|SA||7e|1em|3a3|1ml|Abh;Ebha
+York|GB||9b|45w|-30|17d|Efrog;Jorko;Eboracum;Évèroui;Jórvík;Jorkas;Jorka;Eoforwic;Evrek;Eabhraig;Eabhrac
+Ebina|JP||7q|2qa|ar8|11x
+Ebetsu|JP||7q|3br|ax7|118|Ebecu;Ebetu-chhī
+Ébolowa|CM||j|82|uz|s6|Ebolova
+Olomouc|CZ||9m|3ts|1bx|rn|Olmütz;Ołomuniec;Wołomuc;Olomucium;Eburum;Olmic;Olomouts
+Talavera de la Reina|ES||9d|330|-df|op|Aebura;Ebora;Caesarobriga;Elbora;Ebura
+Évreux|FR||9k|3s6|37|g2|Evreus;Ebroicum;Evrieis;Evreaux
+Évora|PT|Évora|99|2z5|-ly|ew|Ébora
+East Brunswick|US||48|34b|-5qq|dh|E Brunswick
+Eberswalde|DE||8r|42r|12e|bo|Ebersvaldė;Neustadium Eberswaldum
+Ebbw Vale|GB||9b|3zu|-8x|97|Glyn Ebwy;Ebu Veilis
+Ibo Town|GM||7|11c|-1ac|7m|Eboe Town
+Ibnat|ET||2|xp|2xp|7i|Ebnāt
+Eboli|IT||9o|34u|15u|7a
+Ebebiyin|GQ||10|5z|vh|6w|Ebebijinas;Ebibeyin
+Ébano|MX||41|1pq|-7la|6r|Elbano
+Ebara|JP||7q|2qx|as2|5w
+Ebilassokro|CI||0|hq|-9b|55|Ebilassékrou;Ebillasokro
+Ebino|JP||7q|2h1|a3g|4w
+Ebersbach an der Fils|DE||8r|3rc|qg|4f|Ebersbachander Fils
+Eberbach|DE||8r|3tf|oz|4c|Ewwerbach
+Ebisu|JP||7q|2r1|as4|47
+Ebaye|MH||b1|od|cxy|46|Epjā
+Abū Sinān|IL||6n|2jk|2pp|41|Abu Snan;Ebu Sinan;Abu-Senan;Abu Senan
+Ebie|JP||7q|2oe|agb|39
+Ebikon|CH||a7|3ms|n6|37|Marcha Abinchova
+Ebersberg|DE||8r|3pk|x9|32|Ebasbeag
+Ebéjico|CO||27|hl|-5uh|2v
+Ebo|AO||x|-up|14w|2s
+Ebersbach|DE|Saxony|8r|3xp|14j|2i
+Evinayong|GQ||10|40|tb|2d|Ebinayong;Ebinayon
+Dumbrăveni|RO|Sibiu County|8u|3kf|1w9|2a|Elisabethstadt;Erzsébetváros;Ebesfalva
+Ebenthal|AT|Carinthia|a2|3lh|13w|27
+Ebeltoft|DK||8y|4c3|to|22
+Embrun|FR||9k|3fs|i2|1z|Ambrun;Eburodunum;Aebura
+Ebikro-Ndakro|CI||0|fx|-8n|1y
+Ebermannstadt|DE||8r|3ua|v2|1x
+Eberdingen|DE||8r|3rs|ox|1t|Eberdenge
+Ebersdorf|DE|Bavaria|8r|3vt|uz|1s
+Ebensfeld|DE||8r|3v3|ug|1l
+Ebstorf|DE||8r|43b|sy|1j|Ebsdorf
+Eboué|CI||0|eu|-8p|1h
+Ebreichsdorf|AT||a2|3p8|19l|1g
+Ebimpe|CI||0|fa|-bc|1f|Etimpé
+Ebersbach|DE|Saxony|8r|3yb|11x|1f
+Nesterov|RU||96|47r|1qp|1f|Ebenrode;Stallupönen;Nesterow;Niestierow;Stalupėnai;Njesterow;Stallupenen;Shtallupënen
+Ebnat-Kappel|CH||a7|3na|pc|1d|Ebnat
+Ebhausen|DE||8r|3qy|o4|1b
+Ebes|HU||8v|3nv|1nq|19
+Ebensee|AT||a2|3ot|12a|15|Emsee
+Eberhardzell|DE||8r|3pc|ra|14
+Ebelsbach|DE||8r|3uv|tn|13
+Ebounou|CI||0|e8|-ev|11|Ebonou
+Eberstadt|DE||8r|3sm|pw|x
+Ebensburg|US||48|34h|-62o|w
+Ebeleben|DE||8r|3yg|tt|w|Elsleben
+Ebergassing|AT||a2|3ph|19w|v
+Ebbs|AT||a2|3ob|xy|v
+Ebringen|DE||8r|3p8|lm|r
+Ebrāhīm Samī‘|IR||7o|308|3ln|r|Ibrāhīmsāmi;Ibragim-Sami
+Eboko|CI||0|eb|-8l|r|Aboko;Eboco
+Ebrāhīmābād|IR|Kurdistan Province|7o|2rx|3m3|r|Ibrahīmābād
+Ebi|JP||7q|2q0|aat|r
+Ebimlossou|CI||0|id|-cw|q
+Ebenfurth|AT||a2|3p0|19h|q|Ebenfurt
+Ebermannsdorf|DE||8r|3t7|x6|p
+Ebcor Town|PH||71|ko|9lk|p
+Ebmatingen|CH||a7|3nj|o0|n
+Envermeu|FR||9k|3um|3i|m|Eburomagos
+Iboundji|GA||v|2f|qn|l|Ebondji
+Ebendorf|DE||8r|40z|w5|l
+Eboissué|CI||0|iz|-9r|l|Aboissué;Eboassué
+Ebersheim|FR||9k|3q6|ku|k
+Ebergötzen|DE||8r|3z9|s3|j
+Ebersbach-Musbach|DE||8r|3p9|qm|i
+Eben im Pongau|AT||a2|3no|118|i
+Eben-Emael|BE||8t|3x3|fr|h|Eben-Emaal
+Ebrāhīmābād|IR|Markazi|7o|2n0|3v1|g
+Ebenhaeser|ZA||o|-2fq|1en|g
+Ebrāhīmābād|IR|Yazd Province|7o|2h6|46a|f|Ibrāhīmābad
+Ebertsheim|DE||8r|3tp|mj|e|Ewwerdsm
+Ebnath|DE||8r|3ur|x5|e
+Ebernhahn|DE||8r|3w7|ll|d
+Ébreuil|FR||9k|3k4|8l|c|Ebruelh;Eborolacum;Esbreule
+Eburu|MY||6w|cs|8xg|c
+Ebersbach|DE|Saxony|8r|3xy|10f|c
+Ebersdorf|DE|Lower Saxony|8r|44p|p5|c
+Eberndorf|AT||a2|3lf|14o|b|Dobrla vas
+Ebenweiler|DE||8r|3p2|qg|b
+Eberstalzell|AT||a2|3pg|12u|b
+Ebra|CI||0|eo|-ae|a|Abra
+Ebene|MU||ag|-1k8|4fp|a
+Ebenezer|AU||8l|-2l4|bn5|a
+Ebtun|MX||3z|1le|-6t6|a
+Ebrāhīmābād|IR|Qazvin Province|7o|2ri|3uj|9|Ībrāhīmābād
+Ebrāhīm Sarā|IR||7o|2vj|3ul|9|Ibragimsara;Ibrahimsara
+Ebenthal|AT|Lower Austria|a2|3qj|1am|9
+Ebini-Koidiokro|CI||0|k9|-bl|9
+Ebchester|GB||9b|48h|-54|9
+Ebersdorf|DE|Thuringia|8r|3w8|wf|9
+Ebersdorf|AT|Styria|a2|3n4|18c|8
+Ebmatingen / Bachtobel|CH||a7|3nj|o0|8
+Ebouado-Un|CI||0|ed|-92|8
+Ebly|BE||8t|3uh|fe|8
+Ebersberg|AT||a2|3pw|185|7
+Ebon|MH||b2|cq|d0m|7|Epoon
+Eberstein|AT||a2|3m1|14g|7
+Ébersviller|FR||9k|3sw|hs|7
+Eberholzen|DE||8r|40l|rd|6
+Ebotiam|CI||0|eb|-9j|6
+Ebershausen|DE||8r|3px|so|6
+Eber|TR||94|2z8|2eh|6|Doğanköy
+İncirlikuyu|TR||94|2un|2ov|6|Ebülhadi
+Ebendorf|AT||a2|3qw|1a4|6
+Ebmatingen / Lebern|CH||a7|3nj|o0|6
+Ebrāhīmābād-e Soflá|IR||7o|2t6|4ar|6
+Ebblinghem|FR||9k|3wx|6p|5
+Ebersmunster|FR||9k|3q7|kw|5|Ebermünster
+Ebersdorf|AT|Carinthia|a2|3le|152|5
+Eyburie|FR||9k|3ia|4k|5|Ebúria;Esburia
+Ebokoffi|CI||0|ff|-8x|5

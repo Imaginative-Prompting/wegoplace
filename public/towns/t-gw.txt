@@ -1,0 +1,110 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Gwangju|KR|Gwangju|7h|2pn|9sk|at8|Kwangju;Kwangdžu;Kŭangĵuo;Gouanjou;Quansua;Kvandžu;Kvanju;Kvangdzsu;Kuangju
+Gwalior|IN||6t|20v|615|84w|Gválijar
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Gonder|ET||2|z0|2w3|3lg|Gondar;Gwonder
+Gwangmyeong|KR||7h|2w4|9sf|2rb|Kwangmyŏng
+Gweru|ZW||n|-1i1|2au|17y
+Gwangyang|KR||7h|2p2|9uq|16v|Kwangyang
+Kwangyang|KR||7h|2p6|9uf|ot|Gwang-yang
+Gwangju|KR|Gyeonggi-do|7h|2vx|9ti|mq|Kwangdžu;Kóng-chû-sṳ;Kwangju
+Kagoro|NG||u|qp|nb|le|Gwoot
+Gwadar|PK||6q|1xs|4t5|jp|Gvadaras;Gvadar;Gwadur
+Gwa|MM||7y|1cv|7aq|ic|Kwa
+Vannes|FR||9k|3oe|-7o|f0|Gwened;Venetens;Dariorigum;Vanas
+Gwynn Oak|US||48|319|-5x1|d3
+Gwanda|ZW||n|-1m6|28l|7f|Gvanda
+Vertou|FR||9k|3n1|-43|6d|Gwerzhav
+Gwadabawa|NG||u|114|ek|4v
+Vitré|FR|Brittany|9k|3po|-3d|4t|Gwitreg
+Guérande|FR||9k|3nh|-6r|4l|Gwenrann;Guerrandia
+Gwarzo|NG||u|x4|m1|4j
+Gwaram|NG|Jigawa State|u|vc|rg|4e
+Gwoza|NG||u|us|122|48
+Guipavas|FR||9k|3qj|-c8|3u|Gwipavaz
+Gvardeysk|RU||96|47t|1mj|3n|Tapiau;Gwardeisk;Gwardiejsk;Gvardejsk;Gvardeiskas;Tepliava;Tapyau
+Gorē|ET||2|mn|2qp|3j|Gwore
+Hvardiyske|UA|Crimea|9t|3hc|2mi|3i|Gvardeyskoye;Hwardijśke;Gwardiejskoje;Sarabuz;Hvardiïske;Gvardeïskoïe;Hvardijske
+Le Gros-Morne|MQ||3v|14u|-4pg|32|Gwomòn;Gros-Morne
+Gwandu|NG||u|yq|cw|2s
+Guingamp|FR||9k|3qw|-8r|2i|Gwengamp;Genganas;Guengampum
+Claymont|US||48|32k|-5tm|2b|Gwinhurst
+Vern-sur-Seiche|FR||9k|3ph|-4g|29|Gwern-ar-Sec'h;Gwern-ar-Sech;Vernum
+Vallet|FR||9k|3n0|-3j|23|Gwaled
+Guilers|FR||9k|3qj|-co|21|Gwiler-Leon
+Gwasoro|NG||u|qd|9r|21|Gwasero
+Guichen|FR||9k|3p9|-50|1z|Gwizien
+Gwio Kura|NG||u|z7|ur|1z
+Gwaram|NG|Bauchi|u|sf|sl|1v
+Guer|FR||9k|3p2|-5w|1r|Gwern-Porc'hoed;Gwern-Porchoed
+Gweta|BW||m|-1k2|1y3|1j
+Ploudalmézeau|FR||9k|3qu|-cy|1g|Gwitalmeze;Plebs Telmedoviae;Ploudaimezau
+Vigneux-de-Bretagne|FR||9k|3nh|-4u|1f|Gwinieg-Breizh
+Guémené-Penfao|FR||9k|3ob|-53|1e|Gwenvenez-Penfaou;Mons Candidus;Guéméné-Pentao
+Gway Tauk Aing|MM||7y|1c1|7f7|1c
+Gwelup|AU||8k|-2gj|8xn|1a
+La Guerche-de-Bretagne|FR||9k|3p6|-3f|1a|Gwerc'h-Breizh;Gwerch-Breizh;Guerche-de-Bretagne;Guirchia
+Vezin-le-Coquet|FR||9k|3po|-4w|18|Gwezin
+Gweedore|IE||8z|48x|-mv|16|Gaoth Dobhair
+Varades|FR||9k|3nn|-2v|z|Gwared
+Guipry|FR||9k|3ov|-54|x|Gwipri;Wippericum
+Saint-Gildas-des-Bois|FR||9k|3o0|-5o|w|Gweltaz-Lambrizig
+Gwandalan|AU||8l|-2k2|bp2|w
+Gwynneville|AU||8l|-2nm|bn5|v
+Guignen|FR||9k|3p4|-56|q|Gwinien
+Audierne|FR||9k|3pe|-cm|q|Gwaien
+Guenrouet|FR||9k|3o0|-5g|q|Gwenred
+Guégon|FR||9k|3p6|-74|q|Gwegon
+Guiscriff|FR||9k|3ph|-a4|q|Gwiskri;Guiseriff
+Plounévez-Lochrist|FR||9k|3r2|-bp|p|Gwinevez;Plouvenez-Lochrist
+Besné|FR||9k|3no|-5t|m|Gwennenid;Vinduneta
+Bourg-des-Comptes|FR||9k|3p5|-4u|m|Gwikomm
+Guiclan|FR||9k|3qv|-b0|l|Gwiglann
+Gwembe|ZM||z|-19u|24p|l
+Guissény|FR||9k|3r3|-c9|j|Gwiseni
+Gwinn|US||2q|3kk|-6qw|j
+Hvizdets|UA||98|3qy|1y8|j|Gwoździec;Hwisdez;Hvizdec';Hvizdec;Gvizdets;Hvizdeț
+Guengat|FR||9k|3pg|-bp|h|Gwengad
+Gwékoro|CI||0|mx|-ma|h|Gouékoro
+Gwana|CI||0|mu|-k5|g
+Plounéventer|FR||9k|3qr|-bp|g|Gwineventer
+Guipel|FR||9k|3q6|-4s|g|Gwipedel
+Guern|FR||9k|3pf|-8l|f|Gwern
+Gaël|FR||9k|3pp|-66|f|Gwazel
+Gwoźnica Górna|PL||a5|3uf|1p4|f
+Guilliers|FR||9k|3pg|-6p|f|Gwiler-Porc'hoed
+Guerlesquin|FR||9k|3qs|-9z|f|Gwerliskin
+Plouzévédé|FR||9k|3r0|-bf|e|Gwitevede
+Vay|FR||9k|3o3|-4q|d|Gwez
+Vue|FR||9k|3n4|-58|d|Gwagenez
+Guénin|FR||9k|3p3|-8a|d|Gwennin
+Plougourvest|FR||9k|3qv|-bd|c|Gwikourvest
+Vignoc|FR||9k|3q1|-4y|c|Gwinieg
+Le Vivier-sur-Mer|FR||9k|3r0|-4y|b|Gwiver
+Gouarec|FR||9k|3pz|-8u|b|Gwareg
+Gahard|FR||9k|3q6|-48|a|Gwaharzh
+Gwoździec|PL|Lesser Poland|a5|3ul|1lo|a|Gwózdiec
+Gwynns Falls|US||48|314|-5wz|a
+Vildé-Guingalan|FR||9k|3qk|-60|9|Gwilde-Gwengalon
+Gwarini|CI||0|qv|-lp|9|Gouarini
+Guimaëc|FR||9k|3r7|-ab|9|Gwimaeg
+Guimiliau|FR||9k|3qp|-b4|9|Gwimilio
+Vritz|FR||9k|3o6|-2z|9|Gwerid
+Gwinner|US||2f|3kf|-7ja|8
+Guéhenno|FR||9k|3p1|-7c|8|Gwezhennoù
+Visseiche|FR||9k|3p8|-3m|7|Gwisec'h
+Plougar|FR||9k|3qw|-bi|7|Gwikar
+Gwoździany|PL||a5|3ww|1fh|7
+Gwalchmai|GB||9b|43y|-ca|7
+Guipronvel|FR||9k|3qp|-cp|7|Gwiproñvel
+Shahrak-e Maskūnī-ye Gawātar|IR||7o|1xw|4qu|7|Gwatar;Gvātar
+Lavau-sur-Loire|FR||9k|3nf|-5h|7|Gwal-Liger
+Gweek|GB||9b|3v6|-eh|7
+Vergéal|FR||9k|3pg|-3j|6|Gwerial
+Gwoździec|PL|Subcarpathia|a5|3vy|1p3|6
+Gausson|FR||9k|3q6|-7n|6|Gwalc'hion
+Gwynn|US||48|2w6|-5vx|6|Guynn
+Gueltas|FR||9k|3pm|-7s|6|Gweltaz
+Gvardeyskoye|RU||96|47d|1lc|6|Gvardejskoje;Gwardeiskoje;Miulhauzenas;Gwardiejskoje;Gvardeyskoe;Gvardejskoe
+Guitté|FR||9k|3q6|-5u|5|Gwitei

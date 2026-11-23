@@ -1,0 +1,136 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Berlin|DE||8r|41w|119|qfs|Berlyn;Berlëno;Berliin;Berliini;Berolinum;Berlien;Berlynas;Berlijn;Berlim;Birlinu;Beirlín;Belin
+Beirut|LB||64|2m5|2qm|es9|Bejrut;Bejruto;Beyrouth;Beiroet;Beyrut;Berytus;Bäyrut;Bêrût;Béiriút;Birut;Beirot;Bewout;Beirout;Bejruti;Beirots;Bairut
+Beira|MZ||11|-1j4|2os|5b2|Beyra
+Beihai|CN|Guangxi|7i|1no|8f4|41x|Pej-chaj;Pet-hói-sṳ;Bắc Hải;Baekhaij;Báe̤k-hāi;Beihajus;Pak-hái-chhī;Pei-hai
+Bei’an|CN||7i|3q3|9ro|3d8|Pei-an
+Bakersfield|US||3p|2q9|-96m|2vs|Beykersfild;Beikersfildas;Beikersfīlda;Baker's Field
+Beibei|CN||7i|2av|87o|1wt
+Bnei Brak|IL||6n|2h4|2or|1rw|Benei Beraq;Beney Beraq;Benai Beraq;Bené Berak;Bné Beraq;Bené Beraq;Bnei Berak;Bene Berakas;Bein Berak;Bnej-Brak;Bnei-Brak;Bené-Berac;Bnej Brak;Bney Brak
+Beiliu|CN||7i|1r3|8ij|1ji|Pei-liu
+Beipiao|CN||7i|383|9bi|1gv|Pei-p’iao
+Bet Shemesh|IL||6n|2g5|2p7|1d4|Bet Schemesch;Betxèmeix;Beit Şemeș;Bejt Šemeš;Beyt Şemeş;Beit-Shemesh
+Beining|CN||7i|37k|9eb|168
+Bern|CH||a7|3mf|kp|xs|Bundesstadt;Bann;Bèn;Beirn
+Aïn Beïda|DZ||3|2rg|kj|w9|Aïne Beïda
+Basingstoke|GB||9b|3ye|-31|tw|Beizingstokas
+Beidao|CN||7i|2o1|865|ks
+Beichengqu|CN||7i|34c|8qb|k4|Fengzhen;Feng-chen
+Beimeng|CN||7i|2to|97y|if
+Beitbridge|ZW||n|-1pq|2bc|ga|Beitbridžas;Beitbrug
+Bayt Lāhyā|PS||6f|2fn|2nu|ft|Beit Lahia;Bayt Lāhiya;Beit Lāhiya;Beit Lahya;Bayt Lāhiyah
+Beisu|CN||7i|2xz|8ux|eo|Pei-su
+Beiwangli|CN||7i|2za|8wk|c9|Pei-wang-li
+Bayt Ḩānūn|PS||6f|2fm|2ny|ae|Beit Hanoun;Beit Hanun;Beit Hānūna;Bait Hanun;Bajt Hánún;Beyt Hanun;Beit Hanoum;Beit Hanoon
+Bay City|US|Michigan|2q|3d3|-6h1|9f|Beisitija;Kota Bay
+Beigang|TW||7l|1th|9a6|99
+Beidou|TW||7l|1ub|9as|99
+Bela|PK||6q|20v|547|86|Beila
+Bethlehem|PS||6g|2g2|2ps|82|Belén;Belem;Belén de Judá;Betlehem;Betlem;Bet-Leĥem;Bethléem;Bètleyèm;Betlemme;Betlejem;Bethleem Efrata;Beitheal;Bait Lahm;Betlehim;Bayt Laḩm;Beit Lahm;Beit Lehem
+Bayt Ḩanīnā|PS||6g|2gf|2pv|7i|Beit Hanina
+Beihai|CN|Yunnan|7i|1xo|7lu|6b
+Beitun|CN||7t|3nj|6ry|5o|Pei-t’un
+Bet She’an|IL||6n|2ia|2qm|5n|Beit Shean;Beth Shan;Besan;Bet Sze'an;Bet Sche’an;Beït-Shéan;Beit She'an;Beth Shean;Bet Shean;Beit Šeanas;Bét-Seán;Bet-Sjean;Beit Še'an;Beet She'an;Bisan;Bejt Še'an;Beyt Şe'an;Beisān;Beith Sheān
+Bemerode|DE||8r|41f|rb|5f|Beimeroe;Beimeröo
+Bayt Jālā|PS||6g|2g4|2pr|4i|Beit Jālā
+Bayt Sāḩūr|PS||6g|2g2|2pv|45|Beit Saḥūr
+Beizheng|CN||7i|2xq|8sw|3o
+Bitburg|DE||8r|3ut|i5|3l|Béibreg
+Beïnamar|TD||17|o3|16q|3l
+Baytūnyā|PS||6g|2gm|2pp|3k|Beitunia;Baituniya;Bajtunija;Beytunya;Bītuniyā;Beitūnya;Betounia;Beituniyā;Betunia
+Bainbridge|US|Georgia|48|2du|-6iy|3h|Beinbridž
+Bayt Ūmmar|PS||6g|2fu|2pi|3e|Bayt ‘Umar;Beit Ummar;Bayt Immar
+Beit Jann|IL||6n|2jk|2qa|3c|Bet Jan;Bejt Džan;Beit Dżan;Beyt Jann;Bayt Jann;Beit Jan
+Beitanzhuang|CN||7i|2yz|8th|3a
+Beighton|GB||9b|445|-3p|31
+Beiuş|RO||8u|3ln|1q3|2z|Bejušas;Belényes
+Bayt Fajjār|PS||6g|2fu|2pn|2y|Beit Fajjār
+Bayt Fūrīk|PS||6g|2he|2q6|2t|Beit Fūrīk;Bayt Nūrīk
+Beilen|NL||8m|42u|i3|2n
+Beihuaidian|CN||7i|312|92k|2d
+Beicang|CN||7i|310|91c|28
+Bayt Liqyā|PS||6g|2gj|2pf|26|Beit Liqyā
+Bayt Yāfā|JO||5t|2ic|2rf|26|Beit Yāfā
+Beizhoushan|CN||7i|1ql|8sm|22
+Bet Dagan|IL||6n|2gw|2or|1z|Beit Dajan;Beit Dagon;Bayt Dajan
+Beinasco|IT||9o|3h2|l3|1t|Beinasch
+Beelen|DE||8r|409|mj|1r|Beilen
+Beith|GB||9b|4av|-cw|1q
+Beilstein|DE||8r|3s8|pv|1p
+Beit El|PS||6g|2gq|2pu|1o
+Băile Herculane|RO||8u|3go|1q9|1o|Herkulesfürdő;Beile Herkulanė;Băile Erculane;Baile Herkulane
+Bayt Kāḩil|PS||6g|2fp|2pf|1l|Beit Kāḥil
+Béinleu|CI||0|k3|-lw|1e|Beinlé
+Beiping|CN||7i|2gt|8e6|1e
+Bayt Īdis|JO||5t|2i4|2r6|1b|Beit Īdis
+Bayt ‘Ūr at Taḩtā|PS||6g|2gm|2pg|17|Beit ‘Ur at Tahta
+Beierfeld|DE||8r|3wh|zj|15
+Beishancun|CN||7i|21g|98b|11
+Bayt Sūrīk|PS||6g|2ge|2pn|11|Beit Sūrīk
+Beira Rio|BR||20|-y1|-3as|z
+Bayt Dajan|PS||6g|2hf|2q9|z|Beit Dajan
+Beiriz de Baixo|PT||99|370|-o8|w
+Beindersheim|DE||8r|3to|n4|t|Boinderschem
+Beervelde|BE||8t|3xw|at|s|Beirvelde
+Bayt Sīrā|PS||6g|2gl|2pd|r|Beit Sīrā
+Bailieborough|IE||8z|45s|-jd|r|Coill an Chollaigh;Beiliboras;Baileborough
+Beilrode|DE||8r|3z9|10b|r
+Beinette|IT||9o|3f8|l8|r
+Beimerstetten|DE||8r|3qo|rq|p
+Beica de Jos|RO||8u|3lt|1ww|m
+Bet H̱ashmonay|IL||6n|2gl|2p0|m|Beit Hashmonai
+Beigem|BE||8t|3xj|c5|k
+Beiu|RO||8u|3dv|1yq|k
+Beizhai|CN||7i|2sm|9at|j
+Bei der Höhne|DE||8r|44n|pb|i
+Beidaud|RO||8u|3g8|27d|i|Beidaut
+Beitan|CN||7i|32g|929|i
+Bayt Iksā|PS||6g|2ge|2pq|h|Beit Iksa
+Bet Yitsẖaq|IL||6n|2ht|2ox|h|Bet Yiẕẖaq;Bet Yitsẖak;Beit Yits-ḥaq
+Bayt Duqqū|PS||6g|2gi|2pl|g|Beit Duqqu
+Bet El‘azari|IL||6n|2gg|2oo|g|Beit El‘azari;Bêth-El‘āzārī;Bet Elazar
+Behiboue|CI||0|hp|-i4|g|Beibouo
+Bet Zayit|IL||6n|2ga|2po|f|Bejt Zajit;Beit Zayit;Bet Zait;Beyt Zayit
+Peuerbach|AT||a2|3qb|129|f|Beiaboch
+Bet HaShitta|IL||6n|2if|2qg|f|Beit Hashitta;Beit HaShita
+Bet H̱ilqiyya|IL||6n|2gb|2op|e|Bet H̱ilkiyya;Beit Hilqiya;Beit Hilkiya;Bet H̱ilqiya
+Beiersdorf|DE||8r|3xv|14e|e
+Beilizigu|CN||7i|31p|92b|d
+Beicaicun|CN||7i|31p|913|c
+Bet ‘Ezra|IL||6n|2g6|2oa|c|Bet Ezra;Beit Ezra
+Bet HaGaddi|IL||6n|2fb|2o5|b|Bejt ha-Gadi;Beit HaGadi;Beyt HaGadi;Beit Hagaddi;Beit Hagedi;Beit Hageddi
+Bet ‘Arif|IL||6n|2gw|2p1|b|Beit Arif;Beyt-’Arif;Bet Arif
+Beit Horon|IL||6n|2gk|2pl|b
+Bet Yehoshua‘|IL||6n|2hm|2ou|b|Bejt Jehošua;Beit Yehoshua;Beït-Yéhoshoua;Beit Jehoszua;Beyt Yehoşua;Beit Yehoshua‘;Bet Yehoshua
+Bödefeld|DE||8r|3yd|nb|b|Beifelle
+Bet Alfa|IL||6n|2ic|2qf|b|Beit Alfa;Beït-Alfa;Bejt Alfa;Beyt Alfa;Bet-Alefa
+Beignon|FR||9k|3p9|-61|b|Benion;Bidainonum
+Bayt Wazan|PS||6g|2hj|2pu|a|Beit Wazan
+Bet Qama|IL||6n|2fd|2ok|a|Bejt Kama;Beit Kama;Bet Kama;Beyt Kama;Beit Qama
+Bodio|CH||a7|3ku|or|a|Béid
+Beinsdorp|NL||8m|419|cs|a
+Bet Gamli’él|IL||6n|2gi|2ok|a|Beit Gamliel
+Baye|FR||9k|3oy|-a1|a|Bei
+Beinwil|CH||a7|3na|mt|a
+Beidenfleth|DE||8r|45o|q5|a
+Beit H̱erut|IL||6n|2hy|2ov|9|Bet H̱erut
+Bet H̱ananya|IL||6n|2id|2p1|9|Beit Hananyah;Beit Hananya
+Bet Shiqma|IL||6n|2fw|2o5|9|Beit Shiqmah;Beit Shiqma;Bet Shikma
+Behdān|IR||7o|2v6|3tt|9|Beidan;Bendan
+Bet Zera‘|IL||6n|2it|2qt|9|Beit Zera‘;Bet Zera
+Beine-Nauroy|FR||9k|3st|bq|8
+Bet HaLevi|IL||6n|2hv|2p1|8|Bejt ha-Levi;Beit HaLevi;Beyt HaLevi;Beit Halewi;Bet HaLewi
+Beidendorf|DE||8r|45j|vn|8
+Bet Hillel|IL||6n|2k9|2qx|8|Bejt Hilel;Beit Hillel;Beyt Hillel
+Bet Qeshet|IL||6n|2iw|2qc|7|Bet Keshet;Beit Qeshet
+Bayt Ijzā|PS||6g|2gh|2pn|7|Beit Ijza
+Bet Me’ir|IL||6n|2gb|2pc|7|Beit Meir;Beyt-Meyir
+Bet Neqofa|IL||6n|2gc|2pl|7|Beit Neqofa;Beit Neqofah
+Beire-le-Châtel|FR||9k|3np|eg|7
+Beisfjord|NO||9j|59y|1cw|6
+Beichlingen|DE||8r|3yb|va|6
+Bet Rabban|IL||6n|2ge|2oh|6|Beit-Raban
+Beiușele|RO||8u|3ls|1qd|6|Beinsele
+Bet H̱anan|IL||6n|2gp|2ol|5|Beit Ḥanan
+Bet Guvrin|IL||6n|2ft|2oy|5|Beyt-Guvrin;Beit Govrin;Beit Guvrin

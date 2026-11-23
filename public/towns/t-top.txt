@@ -1,0 +1,90 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Topeka|US|Kansas|2f|30h|-7ds|z0|Topīka;To-pe-ka;Topeca
+Duobao|CN||7i|2d7|8p1|p3|Topaowan;To-pao-wan
+Topi|PK||6q|2mn|5lq|kt
+Topki|RU||74|49k|6lt|8i
+Topoľčany|SK||8s|3qw|1eh|6p|Topoltschan;Nagytapolcsány;Nagy Tapolcsán;Topolçanı;Topolczany;Topoljčani
+Topliţa|RO|Harghita County|8u|3mc|1yf|3i|Maroshéviz;Topiţa
+Topçular Mahallesi|TR||94|32w|3ec|3c
+Topoloveni|RO||8u|3gi|1xo|32
+Topes de Collantes|CU||36|1ov|-66a|2p
+Topchikha|RU||63|42q|6ew|2l|Toptsjikha
+Toppenish|US||3p|3ku|-9a7|2i|Topinish
+Toprakkale|TR|Osmaniye|94|2uz|2sf|2e
+Topanga|US||3p|2mp|-95g|2b
+Toppila|FI||92|50o|1yo|25
+Topolovgrad|BG||9v|38w|215|1t|Topołowgrad
+Topolobampo|MX||3x|1z4|-8ex|1s
+Topchānchi|IN||6t|1ue|6ng|1p
+Topsham|US||48|3e1|-5ee|1n
+Topraisar|RO||8u|3ea|271|1h
+Topa|IN||6t|1ty|6lf|1e
+Topolog|RO||8u|3go|26t|1e
+Toppushi|JP||7q|3eh|b3h|1d
+Toporivtsi|UA||98|3qf|20h|18|Toporăuți
+Topliceni|RO||8u|3i6|230|18
+Topolevo|RU||7w|3qr|afi|15
+Topsham|GB||9b|3wt|-9n|10
+Topoľníky|SK||8s|3p9|1df|v
+Topolovăţu Mare|RO||8u|3j5|1o2|t|Topolovăţul-Mare
+Topleţ|RO||8u|3gg|1q7|s
+Géfyra|GR|Central Macedonia|8p|355|1r1|s|Topsín
+Topolčani|MK||9u|36j|1nj|s|Topolcane
+Topsfield|US||48|3ag|-5h3|r
+Topoľčianky|SK||8s|3qi|1f5|q
+Topolovo|BG||9v|38e|1xg|q|Topolowo
+Toporu|RO||8u|3e9|1z9|p
+Topiltepec|MX||41|1d1|-7nn|p
+Topilco de Juárez|MX||41|1hy|-7ks|n
+Topdac|PH||71|1a0|9bb|n|Topdak
+Topchyno|UA||98|3pg|1u7|m|Topchyne;Topchino
+Topile|RO||8u|3na|223|m
+Toppenstedt|DE||8r|43y|s3|l
+Topton|US||48|34i|-5ua|l
+Topia|MX||44|1y1|-881|l
+Topalu|RO||8u|3fq|25x|j|Topales;Topal
+Topallı|TR||94|2uv|2dl|i
+Toporzysko|PL|Lesser Poland|a5|3tu|1j0|i
+Topolița|RO||8u|3n1|21a|g|Topliţa
+Topolná|CZ||9m|3sg|1cq|f
+Topaz Ranch Estates|US||3p|2zm|-97y|f
+Toptepe|TR||94|2vi|36l|f
+Topsail|CA||50|3o2|-431|f
+Topolšica|SI||9a|3kw|15q|d|Topolščica
+Topaly|UA||98|3o8|29e|c
+Topana|RO||8u|3gi|1w4|c
+Topeka|US|Indiana|38|37e|-6lm|c
+Töpen|DE||8r|3vz|wz|c
+Topory|UA||98|3tx|29g|b
+Topol’noye|RU||63|3z3|6io|b|Topolnoje;Topol’naya
+Topaipí|CO||27|et|-5qe|b
+Toplița|RO|Arges|8u|3h9|1wp|b
+Oppenhuizen|NL||8m|439|ft|b|Toppenhuzen
+Topolyne|UA|Donetsk|98|3n8|2vv|a
+Toprakkale|TR|Ağrı|94|32p|3ay|a
+Tópaga|CO||27|g0|-5mb|a
+Topusko|HR||a6|3ht|18d|9|Topuszkó
+Topliţa|RO|Hunedoara County|8u|3iw|1ra|9
+Top Camp|AU||8c|-24s|bq2|8
+Toptaş|TR||94|2t5|2c8|8
+Topa de Sus|RO||8u|3m6|1pt|8
+Hatsik|AM|Shirak|80|35g|3dv|8|Topar;Toparli
+Topoľovka|SK||8s|3rw|1ol|8
+Topolovac|HR||a6|3ia|19o|7
+Topçam|TR||94|2wb|26h|7
+Toplu|TR||94|2xw|31u|7
+Topas|ES||9d|36c|-fn|7
+Topfstedt|DE||8r|3yf|uh|7
+Topçular|TR||94|2yu|348|7
+Topolyne|UA|Zaporizhzhia|98|3nc|2p9|7
+Töppeln|DE||8r|3xd|xd|7
+Toporăști|RO||8u|3lp|245|7
+Topoli|UA|Luhansk|98|3ud|2y0|6|Gopoli
+Toporzysko|PL|Kujawsko-Pomorskie|a5|43i|1et|6
+Topoli|UA|Kharkiv|98|3uy|2xc|6
+Topoli|UA|Crimea|9t|3gk|2mg|6
+Topkaya Mahallesi|TR||94|356|3d6|6
+Topești|RO||8u|3jj|22b|6
+Topluca|TR||94|37p|2hq|6
+Toprakkale|TR|Kars Province|94|33l|3bv|5
+Topa de Criș|RO||8u|3mk|1ql|5

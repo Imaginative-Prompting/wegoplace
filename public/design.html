@@ -1,0 +1,460 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+  <meta name="wgp-build" content="v170">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#000000">
+<title>WeGoPlace · Design</title>
+<link rel="icon" href="/icons/favicon.1ad16064.ico" sizes="32x32">
+<link rel="preload" href="/vendor/fonts/instrument-sans-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/vendor/fonts/bricolage-grotesque-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/vendor/fonts/geist-mono-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/ds/tokens.css">
+<link rel="stylesheet" href="/ds/base.css">
+<link rel="stylesheet" href="/ds/controls.css">
+<link rel="stylesheet" href="/ds/feedback.css">
+<link rel="stylesheet" href="/ds/structure.css">
+<link rel="stylesheet" href="/ds/overlays.css">
+<link rel="stylesheet" href="/ds/lists.css">
+<link rel="stylesheet" href="/ds/avatar.css">
+<link rel="stylesheet" href="/ds/shell.css">
+<link rel="stylesheet" href="/ds/sheets.css">
+<link rel="stylesheet" href="/ds/pad.css">
+<script>
+// The page's family before first paint, as the app's pages decide it: dark on a dark phone, light otherwise. The two
+// columns below each force their own; this colours what is round them.
+(function () {
+  var mq = matchMedia("(prefers-color-scheme: dark)");
+  function paint() {
+    document.documentElement.setAttribute("data-lum", mq.matches ? "dark" : "light");
+    var m = document.querySelector('meta[name="theme-color"]');
+    if (m) m.setAttribute("content", mq.matches ? "#000000" : "#fdfdfc");
+  }
+  paint();
+  mq.addEventListener("change", paint);
+})();
+</script>
+<style>
+/* The page itself: two columns, the system in Void and in its paper, side by side from 1100 wide, one above the other
+   under it. Everything drawn inside them is the system's own classes; this sheet only lays the page out, and it
+   writes no colour of its own. */
+html, body { margin: 0; }
+body.ds { background: var(--canvas); }
+.dz-top { padding: 32px 20px 8px; max-width: 1180px; margin: 0 auto; }
+.dz-top p { max-width: 64ch; margin-top: 8px; }
+.dz-cols { display: grid; grid-template-columns: 1fr; max-width: 1180px; margin: 0 auto; }
+@media (min-width: 1100px) { .dz-cols { grid-template-columns: 1fr 1fr; } }
+.dz-col { background: var(--canvas); color: var(--ink-1); padding: 24px 20px 64px; border-top: 1px solid var(--hair); }
+@media (min-width: 1100px) { .dz-col + .dz-col { border-left: 1px solid var(--hair); border-top-color: transparent; } .dz-col { border-top-color: transparent; } }
+.dz-col > h2 { margin: 0 0 4px; }
+.dz-sec { padding: 28px 0 0; }
+.dz-sec > h3 { margin-bottom: 14px; }
+.dz-row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.dz-pad { max-width: 350px; padding: 20px; margin: 14px 0; border: 1px solid var(--edge); border-radius: var(--radius-24); background: var(--chrome); }
+.dz-stack { display: grid; gap: 12px; max-width: 420px; }
+.dz-sw { display: grid; grid-template-columns: repeat(auto-fill, minmax(88px, 1fr)); gap: 8px; }
+.dz-sw div { border: 1px solid var(--hair); border-radius: var(--radius-12); overflow: hidden; }
+.dz-sw span { display: block; height: 40px; }
+.dz-sw small { display: block; padding: 6px 8px; font: 400 var(--size-12)/16px var(--type-mono); color: var(--ink-3); }
+.dz-list { max-width: 420px; }
+.dz-phone { position: relative; max-width: 390px; height: 360px; border: 1px solid var(--edge); border-radius: var(--radius-24); overflow: hidden; background: var(--canvas); }
+.dz-phone .dz-scrim { position: absolute; inset: 0; background: var(--backdrop); }
+.dz-sheet { position: absolute; left: 0; right: 0; bottom: 0; background: var(--chrome); border-top: 1px solid var(--edge); border-radius: var(--radius-24) var(--radius-24) 0 0; padding: 10px 20px 24px; }
+.dz-grab { width: 36px; height: 4px; border-radius: var(--radius-full); background: var(--gray-5); margin: 0 auto 18px; }
+.dz-sheet-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+.dz-toasts { display: grid; gap: 8px; max-width: 420px; }
+/* The working phone: the shell's own classes, inside a 390 x 700 frame. */
+.dz-shell { position: relative; width: 100%; max-width: 390px; height: 700px; border: 1px solid var(--edge); border-radius: 40px; overflow: hidden; background: var(--canvas); user-select: none; }
+.dz-shell .ds-head { position: absolute; left: 20px; right: 20px; top: 40px; }
+.dz-shell .dz-view { position: absolute; inset: 100px 20px 0; opacity: 0; pointer-events: none; transition: opacity var(--dur-150) var(--ease-standard); }
+.dz-shell .dz-view[data-on] { opacity: 1; pointer-events: auto; }
+.dz-shell .ds-tabbar { position: absolute; left: 16px; right: 16px; bottom: 24px; }
+.dz-shell .ds-fab { position: absolute; right: 20px; bottom: 96px; }
+.dz-shell .ds-shell-toast { position: absolute; left: 16px; right: 88px; bottom: 100px; }
+.dz-shell .ds-sheet-root { position: absolute; }
+.dz-shell .ds-sheet .dz-zone { position: absolute; left: 0; right: 84px; top: 0; height: 64px; cursor: grab; }
+.dz-grow { display: grid; grid-template-rows: 0fr; opacity: 0; transition: grid-template-rows var(--dur-320) var(--ease-standard), opacity var(--dur-200) var(--ease-standard) 80ms; }
+.dz-grow[data-open] { grid-template-rows: 1fr; opacity: 1; }
+.dz-grow > div { min-height: 0; overflow: hidden; }
+</style>
+</head>
+<body class="ds">
+<header class="dz-top">
+  <h1 class="ds-h1">The design system</h1>
+  <p class="ds-body">WeGoPlace on NeedWright's system, drawn by its own classes: what is here is what the app uses. Void and the paper, side by side.</p>
+</header>
+
+<main class="dz-cols">
+  <!-- The same content twice: one column forced to Void, one to the paper. Kept in step by the script at the foot,
+       which copies the first column into the second. -->
+  <section class="dz-col ds" data-ds-theme="dark" aria-label="Void" id="dz-dark">
+    <h2 class="ds-h2">Void</h2>
+    <p class="ds-meta">The dark canvas, a phone's default.</p>
+
+    <div class="dz-sec">
+      <h3 class="ds-h3">Type</h3>
+      <div class="dz-stack">
+        <p class="ds-number">€1,240<span class="ds-dec">.50</span></p>
+        <p class="ds-h1">Split</p>
+        <p class="ds-h2">Add a purchase</p>
+        <p class="ds-h3">Dinner at the harbour</p>
+        <p class="ds-body">Everything read or tapped is Instrument Sans, at 16.</p>
+        <p class="ds-meta">Second lines, day headers and hints are 14, quieter.</p>
+        <p class="ds-small">12 for what is smallest.</p>
+        <p class="dz-row"><span class="ds-mono">€90.00</span><span class="ds-mono">09:30</span><span class="ds-mono">AB12-CD34</span></p>
+      </div>
+    </div>
+
+    <div class="dz-sec">
+      <h3 class="ds-h3">Colour</h3>
+      <div class="dz-sw" data-swatches></div>
+      <p class="ds-meta" style="margin-top:10px">White is the one emphasis. Colour is for state, always with a word or an icon.</p>
+    </div>
+
+    <div class="dz-sec">
+      <h3 class="ds-h3">Buttons</h3>
+      <div class="dz-stack">
+        <div class="dz-row">
+          <button type="button" class="ds-button ds-button--white">Mark paid</button>
+          <button type="button" class="ds-button ds-button--gray">Everyone's balances</button>
+          <button type="button" class="ds-button ds-button--fade">Cancel</button>
+          <button type="button" class="ds-button ds-button--red">Delete</button>
+        </div>
+        <div class="dz-row">
+          <button type="button" class="ds-button ds-button--white ds-button--lg">Add purchase</button>
+          <button type="button" class="ds-button ds-button--gray ds-button--lg">Record another payment</button>
+        </div>
+        <div class="dz-row">
+          <button type="button" class="ds-button ds-button--gray ds-button--sm">Small</button>
+          <button type="button" class="ds-button ds-button--gray ds-button--icon" aria-label="Add"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></button>
+          <button type="button" class="ds-button ds-button--white" disabled>Disabled</button>
+        </div>
+        <button type="button" class="ds-button ds-button--white ds-button--lg ds-button--block">One white button on a screen</button>
+      </div>
+    </div>
+
+    <div class="dz-sec">
+      <h3 class="ds-h3">Fields</h3>
+      <div class="dz-stack">
+        <div class="ds-field">
+          <label class="ds-label" for="dz-what">What was it?</label>
+          <input class="ds-input ds-input--lg" id="dz-what" placeholder="Coffee and pastries">
+        </div>
+        <div class="ds-field">
+          <label class="ds-label" for="dz-cur">Currency</label>
+          <span class="ds-select-wrap"><select class="ds-select" id="dz-cur"><option>EUR</option><option>USD</option><option>PEN</option></select></span>
+        </div>
+        <div class="ds-field">
+          <label class="ds-label" for="dz-note">Note</label>
+          <textarea class="ds-textarea" id="dz-note" rows="2" placeholder="A booking number, what to bring"></textarea>
+          <p class="ds-help">Only the people on this trip see it.</p>
+        </div>
+        <span class="ds-switch-row"><button type="button" role="switch" class="ds-switch" aria-checked="true" data-toggle></button><label>Tell me about new messages</label></span>
+        <label class="ds-check-row"><input type="checkbox" class="ds-check" checked> <span>Ben Okafor</span></label>
+        <div class="ds-segmented ds-segmented--md" role="radiogroup" aria-label="How it is split" data-seg>
+          <button type="button" role="radio" class="ds-segment" aria-checked="true">Evenly</button>
+          <button type="button" role="radio" class="ds-segment" aria-checked="false">By amount</button>
+        </div>
+        <div class="ds-modes" style="--ds-n: 2; --ds-i: 0" role="group" aria-label="Whose things" data-modes>
+          <span class="ds-modes-hl" aria-hidden="true"></span>
+          <button type="button" class="ds-mode" aria-pressed="true">Mine</button>
+          <button type="button" class="ds-mode" aria-pressed="false">Group</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="dz-sec">
+      <h3 class="ds-h3">Lists</h3>
+      <div class="dz-list">
+        <p class="ds-day">Today</p>
+        <div class="ds-item">
+          <span class="ds-item-lead"><span class="ds-face" role="img" aria-label="Ada Reyes"><span aria-hidden="true">AR</span></span></span>
+          <span class="ds-item-main"><span class="ds-item-title">Dinner</span><span class="ds-item-sub">Ada paid</span></span>
+          <span class="ds-item-trail"><span class="ds-amount">€90.00</span><span class="ds-item-sub">your share <span class="ds-amount">€30.00</span></span></span>
+        </div>
+        <div class="ds-item">
+          <span class="ds-item-lead"><span class="ds-face ds-face--me" role="img" aria-label="Ben Okafor"><span aria-hidden="true">BO</span></span></span>
+          <span class="ds-item-main"><span class="ds-item-title">You paid Ada Reyes</span><span class="ds-item-sub">Payment</span></span>
+          <span class="ds-item-trail"><span class="ds-amount">€30.00</span></span>
+        </div>
+        <p class="ds-day">Sat, Nov 14</p>
+        <button type="button" class="ds-item">
+          <span class="ds-item-lead"><span class="ds-face" role="img" aria-label="Cleo Tran"><span aria-hidden="true">CT</span></span></span>
+          <span class="ds-item-main"><span class="ds-item-title">Taxi to the airport</span><span class="ds-item-sub">Cleo paid</span></span>
+          <span class="ds-item-trail"><span class="ds-amount">€42.10</span><span class="ds-item-sub">not yours</span></span>
+        </button>
+        <p class="ds-day">In a sheet</p>
+        <button type="button" class="ds-option"><span class="ds-option-label">Paid by</span><span class="ds-option-value">You<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="m9 5.5 7 6.5-7 6.5"/></svg></span></button>
+        <button type="button" class="ds-option"><span class="ds-option-label">Split</span><span class="ds-option-value">Everyone, evenly<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="m9 5.5 7 6.5-7 6.5"/></svg></span></button>
+      </div>
+    </div>
+
+
+    <div class="dz-sec">
+      <h3 class="ds-h3">People</h3>
+      <p class="ds-meta" style="margin-bottom:10px">Initials on gray, at 24, 32, 44 and 96, the name as the label. A picture someone drew takes their place.</p>
+      <div class="dz-row">
+        <span class="ds-face ds-face--24" role="img" aria-label="Ada Reyes"><span aria-hidden="true">AR</span></span>
+        <span class="ds-face" role="img" aria-label="Ada Reyes"><span aria-hidden="true">AR</span></span>
+        <span class="ds-face ds-face--44" role="img" aria-label="Ada Reyes"><span aria-hidden="true">AR</span></span>
+        <span class="ds-face ds-face--96" role="img" aria-label="Ada Reyes"><span aria-hidden="true">AR</span></span>
+        <span class="ds-face ds-face--44 ds-face--me" role="img" aria-label="Ben Okafor (you)"><span aria-hidden="true">BO</span></span>
+      </div>
+    </div>
+    <div class="dz-sec">
+      <h3 class="ds-h3">A picture</h3>
+      <p class="ds-meta" style="margin-bottom:10px">A picture someone drew, on their own color in its one ink, at 24, 32, 44 and 96; then one picture on each of the twenty colors; then the pad. Made-up pictures. Pick a color, draw, then Save: it takes the place of the initials below the pad.</p>
+      <div class="dz-row" data-pictures></div>
+      <div class="dz-row" data-palettes style="margin-top:10px"></div>
+      <div class="dz-pad" data-pad-host></div>
+      <div class="dz-row" data-pad-faces></div>
+    </div>
+    <div class="dz-sec">
+      <h3 class="ds-h3">State</h3>
+      <div class="dz-stack">
+        <div class="dz-row">
+          <span class="ds-tag">Plan</span>
+          <span class="ds-tag ds-tag--positive">Settled</span>
+          <span class="ds-tag ds-tag--warning">Receipt not sent</span>
+          <span class="ds-tag ds-tag--negative">Doesn't add up</span>
+          <span class="ds-tag ds-tag--info">Offline</span>
+        </div>
+        <div class="ds-banner ds-banner--warning" role="status"><div class="ds-banner-text"><p class="ds-banner-title">€2.00 still to share</p><div class="ds-banner-body">By amount, the shares come to €16.60 of €18.60.</div></div></div>
+        <div class="ds-empty"><p class="ds-empty-title">Nothing to split yet</p><p class="ds-empty-body">Add what someone paid and who was in on it. Split keeps the tally.</p><div class="ds-empty-actions"><button type="button" class="ds-button ds-button--white">Add a purchase</button></div></div>
+        <div class="dz-row"><span class="ds-skeleton" style="width:160px;height:14px;border-radius:var(--radius-8)"></span><span class="ds-spinner" role="status" aria-label="Loading"></span></div>
+      </div>
+    </div>
+
+    <div class="dz-sec">
+      <h3 class="ds-h3">Toasts</h3>
+      <div class="dz-toasts">
+        <div class="ds-toast" role="status"><span>Purchase added.</span> <button type="button" class="ds-link">Undo</button></div>
+        <div class="ds-toast" role="status"><span>Offline. 2 changes wait to be sent.</span></div>
+      </div>
+    </div>
+
+    <div class="dz-sec">
+      <h3 class="ds-h3">A sheet</h3>
+      <div class="dz-phone">
+        <div class="dz-scrim"></div>
+        <div class="dz-sheet">
+          <div class="dz-grab"></div>
+          <div class="dz-sheet-top"><p class="ds-h2">Add a purchase</p><button type="button" class="ds-button ds-button--fade ds-button--icon" aria-label="Close"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+          <p class="ds-number" style="font-size:44px">€18<span class="ds-dec">.60</span></p>
+          <button type="button" class="ds-option"><span class="ds-option-label">Paid by</span><span class="ds-option-value">You</span></button>
+          <button type="button" class="ds-option"><span class="ds-option-label">Split</span><span class="ds-option-value">Everyone, evenly</span></button>
+          <div style="margin-top:14px"><button type="button" class="ds-button ds-button--white ds-button--lg ds-button--block">Add purchase</button></div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="dz-sec">
+      <h3 class="ds-h3">The shell</h3>
+      <p class="ds-meta" style="margin-bottom:10px">It works: the tabs, the +, a sheet you can drag down, Add purchase and its Undo, and your picture, which is More.</p>
+      <div class="dz-shell" data-shell>
+        <div class="ds-head"><h1 data-title>Split</h1><div class="ds-head-end"><button type="button" class="ds-button ds-button--fade" data-cur>EUR</button><button type="button" class="head-more" aria-label="More, new changes" data-new data-more><span class="ds-face ds-face--me" role="img" aria-label="Ben Okafor"><span aria-hidden="true">BO</span></span><span class="head-more-dot"></span></button></div></div>
+        <section class="dz-view" data-view="split" data-on>
+          <p class="ds-body" style="color:var(--ink-2)">You owe <b style="color:var(--ink-1);font-weight:600">Ada Reyes</b></p>
+          <p class="ds-number" data-amt>€30<span class="ds-dec">.00</span></p>
+          <div class="dz-row" style="margin:16px 0 26px"><button type="button" class="ds-button ds-button--gray">Mark paid</button><button type="button" class="ds-button ds-button--fade">Everyone's balances <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true" width="16" height="16"><path d="m6 4 4 4-4 4"/></svg></button></div>
+          <p class="ds-day">Today</p>
+          <div class="dz-grow" data-newrow><div><div class="ds-item"><span class="ds-item-lead"><span class="ds-face ds-face--me" role="img" aria-label="Ben Okafor"><span aria-hidden="true">BO</span></span></span><span class="ds-item-main"><span class="ds-item-title">Coffee and pastries</span><span class="ds-item-sub">You paid</span></span><span class="ds-item-trail"><span class="ds-amount">€18.60</span><span class="ds-item-sub">your share <span class="ds-amount">€4.65</span></span></span></div></div></div>
+          <div class="ds-item"><span class="ds-item-lead"><span class="ds-face" role="img" aria-label="Ada Reyes"><span aria-hidden="true">AR</span></span></span><span class="ds-item-main"><span class="ds-item-title">Dinner at the harbour</span><span class="ds-item-sub">Ada paid</span></span><span class="ds-item-trail"><span class="ds-amount">€120.00</span><span class="ds-item-sub">your share <span class="ds-amount">€30.00</span></span></span></div>
+          <div class="ds-item"><span class="ds-item-lead"><span class="ds-face" role="img" aria-label="Ada Reyes"><span aria-hidden="true">AR</span></span></span><span class="ds-item-main"><span class="ds-item-title">Parking</span><span class="ds-item-sub">Ada paid</span></span><span class="ds-item-trail"><span class="ds-amount">€12.00</span><span class="ds-item-sub">your share <span class="ds-amount">€12.00</span></span></span></div>
+        </section>
+        <section class="dz-view" data-view="itinerary"><p class="ds-meta">The Itinerary moves in its own flow.</p></section>
+        <section class="dz-view" data-view="places"><p class="ds-meta">Places moves in its own flow.</p></section>
+        <section class="dz-view" data-view="photos"><p class="ds-meta">Photos moves in its own flow.</p></section>
+        <section class="dz-view" data-view="chat"><p class="ds-meta">Chat moves in its own flow.</p></section>
+        <section class="dz-view" data-view="more">
+          <button type="button" class="ds-option"><span class="ds-option-label" style="color:var(--ink-1);font-weight:600">Changes</span><span class="ds-option-value"><span class="ds-tag">3 new</span><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true" width="16" height="16"><path d="m6 4 4 4-4 4"/></svg></span></button>
+          <button type="button" class="ds-option"><span class="ds-option-label" style="color:var(--ink-1);font-weight:600">Packing</span><span class="ds-option-value" style="color:var(--ink-3)">12 of 30 packed<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true" width="16" height="16"><path d="m6 4 4 4-4 4"/></svg></span></button>
+          <button type="button" class="ds-option"><span class="ds-option-label" style="color:var(--ink-1);font-weight:600">People</span><span class="ds-option-value" style="color:var(--ink-3)">4<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true" width="16" height="16"><path d="m6 4 4 4-4 4"/></svg></span></button>
+        </section>
+        <button type="button" class="ds-fab" aria-label="Add a purchase" data-fab><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></button>
+        <div class="ds-shell-toast" role="status" data-toast><span data-toast-t></span><button type="button" class="ds-button ds-button--fade" style="color:var(--ink-1)" data-undo>Undo</button></div>
+        <nav class="ds-tabbar" aria-label="Sections" data-tabs style="--ds-i:2"><span class="ds-tab-hl"></span><a class="ds-tab" href="#" data-go="itinerary"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="3"/><path d="M4 10h16M9 3v4M15 3v4"/></svg>Itinerary<span class="ds-tab-dot"></span></a><a class="ds-tab" href="#" data-go="places"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg>Places<span class="ds-tab-dot"></span></a><a class="ds-tab" href="#" data-go="split" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21v-8M12 13 6 7M12 13l6-6M6 7h4M6 7v4M18 7h-4M18 7v4"/></svg>Split<span class="ds-tab-dot"></span></a><a class="ds-tab" href="#" data-go="photos"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="5" width="16" height="14" rx="3"/><circle cx="9.5" cy="10.5" r="1.5"/><path d="m5 17 5-4 3 2 3-3 4 4"/></svg>Photos<span class="ds-tab-dot"></span></a><a class="ds-tab" href="#" data-go="chat"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 6.5A2.5 2.5 0 0 1 7.5 4h9A2.5 2.5 0 0 1 19 6.5v7a2.5 2.5 0 0 1-2.5 2.5H11l-4 3.5V16A2.5 2.5 0 0 1 5 13.5Z"/></svg>Chat<span class="ds-tab-dot"></span></a></nav>
+        <div class="ds-sheet-root" data-sheet-root>
+          <div class="ds-scrim" data-scrim></div>
+          <div class="ds-sheet" role="dialog" aria-label="Add a purchase" data-sheet>
+            <div class="dz-zone" data-zone></div>
+            <div class="ds-grab"></div>
+            <div class="ds-sheet-head"><h2>Add a purchase</h2><button type="button" class="ds-button ds-button--gray ds-button--sm">EUR</button></div>
+            <p class="ds-number" style="font-size:44px">€18<span class="ds-dec">.60</span></p>
+            <button type="button" class="ds-option"><span class="ds-option-label">Paid by</span><span class="ds-option-value">You<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true" width="16" height="16"><path d="m6 4 4 4-4 4"/></svg></span></button>
+            <button type="button" class="ds-option"><span class="ds-option-label">Split</span><span class="ds-option-value">Everyone, evenly<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true" width="16" height="16"><path d="m6 4 4 4-4 4"/></svg></span></button>
+            <div class="ds-sheet-foot"><button type="button" class="ds-button ds-button--white ds-button--lg ds-button--block" data-addbtn>Add purchase</button></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="dz-sec">
+      <h3 class="ds-h3">Motion</h3>
+      <p class="ds-meta" style="margin-bottom:10px">150, 200 and 320 ms, a standard curve and a spring. A new row arrives where it belongs; a press answers at once.</p>
+      <div class="dz-list" data-motion>
+        <button type="button" class="ds-button ds-button--gray" data-add>Add a row</button>
+        <div data-rows style="margin-top:8px"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="dz-col ds" data-ds-theme="light" aria-label="Paper" id="dz-light"></section>
+</main>
+
+<script>
+(function () {
+  var dark = document.getElementById("dz-dark"), light = document.getElementById("dz-light");
+  // The paper column is the Void column's own content, so the two never drift.
+  light.innerHTML = dark.innerHTML.replace(/id="dz-(what|cur|note)"/g, 'id="dz-$1-l"').replace(/for="dz-(what|cur|note)"/g, 'for="dz-$1-l"');
+  light.querySelector(".ds-h2").textContent = "Paper";
+  light.querySelector(".ds-meta").textContent = "The light canvas.";
+
+  // The swatches name the tokens and show what each column's theme makes of them.
+  var NAMES = ["canvas", "chrome", "well", "gray-3", "gray-5", "hair", "edge", "edge-strong", "ink-1", "ink-2", "ink-3", "ink-4", "solid", "positive", "warning", "negative", "info"];
+  document.querySelectorAll("[data-swatches]").forEach(function (box) {
+    box.innerHTML = NAMES.map(function (n) {
+      return '<div><span style="background:var(--' + n + ')"></span><small>--' + n + "</small></div>";
+    }).join("");
+  });
+
+
+  // The working shell phone, one in each column: the shell mock-up's behaviour, on the system's classes.
+  var reduced = function () { return matchMedia("(prefers-reduced-motion: reduce)").matches; };
+  var ORDER = ["itinerary", "places", "split", "photos", "chat"];
+  var NAMES = { itinerary: "Itinerary", places: "Places", split: "Split", photos: "Photos", chat: "Chat", more: "More" };
+  document.querySelectorAll("[data-shell]").forEach(function (ph) {
+    var q = function (sel) { return ph.querySelector(sel); };
+    var view = "split", owe = 30, shown = 30, raf = 0, toastT = 0, undo = null, added = false;
+    var tabs = q("[data-tabs]"), more = q("[data-more]"), fab = q("[data-fab]"), root = q("[data-sheet-root]"), sheet = q("[data-sheet]");
+    function go(to) {
+      if (to === view) return;
+      view = to;
+      ph.querySelectorAll(".dz-view").forEach(function (v) { v.toggleAttribute("data-on", v.dataset.view === to); });
+      ph.querySelectorAll(".ds-tab").forEach(function (t) { if (t.dataset.go === to) t.setAttribute("aria-current", "page"); else t.removeAttribute("aria-current"); });
+      var i = ORDER.indexOf(to);
+      tabs.toggleAttribute("data-none", i < 0);
+      if (i >= 0) tabs.style.setProperty("--ds-i", i);
+      if (to === "more") { more.setAttribute("aria-current", "page"); more.removeAttribute("data-new"); more.setAttribute("aria-label", "More"); }
+      else more.removeAttribute("aria-current");
+      var title = q("[data-title]");
+      title.textContent = NAMES[to];
+      if (!reduced()) title.animate([{ opacity: 0 }, { opacity: 1 }], { duration: 150, easing: "cubic-bezier(0.4, 0, 0.2, 1)" });
+      q("[data-cur]").style.visibility = to === "split" ? "" : "hidden";
+      fab.toggleAttribute("data-aside", to !== "split");
+      hideToast();
+    }
+    tabs.addEventListener("click", function (e) { var t = e.target.closest(".ds-tab"); if (!t) return; e.preventDefault(); go(t.dataset.go); });
+    more.addEventListener("click", function () { go(view === "more" ? "split" : "more"); });
+    var fmt = function (n) { var p = Math.abs(n).toFixed(2).split("."); return "€" + p[0] + '<span class="ds-dec">.' + p[1] + "</span>"; };
+    function count(to) {
+      cancelAnimationFrame(raf);
+      var from = shown, t0 = performance.now(), el = q("[data-amt]");
+      if (reduced() || from === to) { shown = to; el.innerHTML = fmt(to); return; }
+      var step = function (t) {
+        var k = Math.min(1, (t - t0) / 320), e = 1 - Math.pow(1 - k, 3);
+        shown = from + (to - from) * e; el.innerHTML = fmt(shown);
+        if (k < 1) raf = requestAnimationFrame(step); else shown = to;
+      };
+      raf = requestAnimationFrame(step);
+    }
+    function toast(text, back) {
+      q("[data-toast-t]").textContent = text; undo = back;
+      q("[data-toast]").setAttribute("data-on", "");
+      clearTimeout(toastT); toastT = setTimeout(hideToast, 5000);
+    }
+    function hideToast() { clearTimeout(toastT); q("[data-toast]").removeAttribute("data-on"); }
+    q("[data-undo]").addEventListener("click", function () { if (undo) undo(); hideToast(); });
+    function show() { root.setAttribute("data-open", ""); fab.setAttribute("data-aside", ""); hideToast(); }
+    function hide() { root.removeAttribute("data-open"); root.style.removeProperty("--ds-scrim"); if (view === "split") fab.removeAttribute("data-aside"); }
+    fab.addEventListener("click", show);
+    q("[data-scrim]").addEventListener("click", hide);
+    // The sheet follows the finger; let go early and it settles back with the spring, past 140 px or flicked it leaves.
+    var zone = q("[data-zone]"), y0 = 0, t0 = 0, dy = 0, held = false;
+    zone.addEventListener("pointerdown", function (e) { held = true; y0 = e.clientY; t0 = performance.now(); dy = 0; zone.setPointerCapture(e.pointerId); sheet.setAttribute("data-drag", ""); });
+    zone.addEventListener("pointermove", function (e) {
+      if (!held) return;
+      dy = Math.max(0, e.clientY - y0);
+      sheet.style.setProperty("--ds-dy", dy + "px");
+      root.style.setProperty("--ds-scrim", String(1 - Math.min(1, dy / sheet.offsetHeight)));
+    });
+    var up = function () {
+      if (!held) return; held = false;
+      var speed = dy / Math.max(1, performance.now() - t0);
+      sheet.removeAttribute("data-drag"); sheet.style.removeProperty("--ds-dy"); root.style.removeProperty("--ds-scrim");
+      if (dy > 140 || (dy > 24 && speed > 0.6)) { hide(); return; }
+      if (!reduced() && dy > 0) { sheet.setAttribute("data-settle", ""); sheet.addEventListener("transitionend", function () { sheet.removeAttribute("data-settle"); }, { once: true }); }
+    };
+    zone.addEventListener("pointerup", up); zone.addEventListener("pointercancel", up);
+    function render() { owe = added ? 16.05 : 30; count(owe); q("[data-newrow]").toggleAttribute("data-open", added); q("[data-addbtn]").disabled = added; }
+    q("[data-addbtn]").addEventListener("click", function () {
+      hide();
+      setTimeout(function () { added = true; render(); toast("Purchase added", function () { added = false; render(); }); }, reduced() ? 0 : 200);
+    });
+  });
+  document.addEventListener("click", function (e) {
+    var sw = e.target.closest("[data-toggle]");
+    if (sw) sw.setAttribute("aria-checked", sw.getAttribute("aria-checked") === "true" ? "false" : "true");
+    var seg = e.target.closest("[data-seg] .ds-segment");
+    if (seg) seg.parentNode.querySelectorAll(".ds-segment").forEach(function (b) { b.setAttribute("aria-checked", b === seg ? "true" : "false"); });
+    var mode = e.target.closest("[data-modes] .ds-mode");
+    if (mode) {
+      var all = Array.prototype.slice.call(mode.parentNode.querySelectorAll(".ds-mode"));
+      all.forEach(function (b) { b.setAttribute("aria-pressed", b === mode ? "true" : "false"); });
+      mode.parentNode.style.setProperty("--ds-i", String(all.indexOf(mode)));
+    }
+    var add = e.target.closest("[data-add]");
+    if (add) {
+      var rows = add.parentNode.querySelector("[data-rows]");
+      var n = rows.children.length + 1;
+      var row = document.createElement("div");
+      row.className = "ds-item";
+      row.setAttribute("data-arriving", "");
+      row.innerHTML = '<span class="ds-item-lead"><span class="ds-face" role="img" aria-label="Ada Reyes"><span aria-hidden="true">AR</span></span></span><span class="ds-item-main"><span class="ds-item-title">Row ' + n +
+        '</span><span class="ds-item-sub">just now</span></span><span class="ds-item-trail"><span class="ds-amount">€' + (n * 7.5).toFixed(2) + "</span></span>";
+      rows.insertBefore(row, rows.firstChild);
+      row.addEventListener("animationend", function () { row.removeAttribute("data-arriving"); }, { once: true });
+    }
+  });
+})();
+</script>
+<script type="module">
+// The pictures and the pad, in each column. Every picture here is made up.
+import { faceHtml, personColors, setFaceDrawing } from "/ds/avatar.js";
+import { mountPad } from "/ds/pad.js";
+
+const at = (pts) => pts.map(([x, y]) => [Math.round(x * 255), Math.round(y * 255)]);
+const wave = (y) => at(Array.from({ length: 15 }, (_, i) => [0.14 + i * 0.052, y + 0.045 * Math.sin(i * 0.95)]));
+const arc = (cx, cy, r, a0, a1, n = 12) => at(Array.from({ length: n }, (_, i) => { const a = a0 + ((a1 - a0) * i) / (n - 1); return [cx + r * Math.cos(a), cy + r * Math.sin(a)]; }));
+const PEOPLE = [
+  { name: "Ada Reyes", color: "#D55E00", drawing: { palette: 4, strokes: [{ ink: 0, brush: 200, pts: at([[0.3, 0.28]]) }, { ink: 1, brush: 75, pts: at([[0.1, 0.78], [0.36, 0.44], [0.5, 0.6], [0.66, 0.34], [0.92, 0.78]]) }] } },
+  { name: "Cleo Tran", color: "#0072B2", drawing: { palette: 3, strokes: [{ ink: 0, brush: 60, pts: wave(0.48) }, { ink: 0, brush: 60, pts: wave(0.66) }, { ink: 1, brush: 140, pts: at([[0.68, 0.26]]) }] } },
+  { name: "Dev Halloran", color: "#009E73", drawing: { palette: 1, strokes: [{ ink: 0, brush: 100, pts: at([[0.36, 0.4]]) }, { ink: 0, brush: 100, pts: at([[0.64, 0.4]]) }, { ink: 1, brush: 70, pts: arc(0.5, 0.52, 0.22, 0.25, Math.PI - 0.25) }] } },
+];
+const COLORS = personColors();
+const sample = { palette: 0, strokes: [{ ink: 0, brush: 90, pts: arc(0.42, 0.5, 0.2, Math.PI * 0.9, Math.PI * 2.4) }, { ink: 1, brush: 90, pts: at([[0.52, 0.66], [0.66, 0.52], [0.8, 0.62]]) }] };
+
+for (const col of document.querySelectorAll(".dz-col")) {
+  col.querySelector("[data-pictures]").innerHTML = PEOPLE.flatMap((p) => [24, 32, 44, 96].map((size) => faceHtml({ ...p, size }))).join("");
+  col.querySelector("[data-palettes]").innerHTML = COLORS.map((c) => faceHtml({ name: `A picture on ${c.name}`, color: c.hex, drawing: sample, size: 44 })).join("");
+  const faces = col.querySelector("[data-pad-faces]");
+  const you = { name: "Ben Okafor", color: "#0F9B9B", initials: "" };
+  const paintFaces = (drawing) => {
+    faces.innerHTML = [24, 32, 44, 96].map((size) => faceHtml({ name: `${you.name} (you)`, initials: you.initials || undefined, color: you.color, size, me: true })).join("");
+    if (drawing) for (const f of faces.querySelectorAll(".ds-face")) setFaceDrawing(f, drawing);
+  };
+  paintFaces(null);
+  mountPad(col.querySelector("[data-pad-host]"), {
+    colors: COLORS,
+    color: you.color,
+    name: you.name,
+    hasPicture: true,
+    onSave: ({ drawing, color, initials }) => { you.color = color || you.color; you.initials = initials; paintFaces(drawing); },
+    onInitials: ({ color, initials }) => { you.color = color || you.color; you.initials = initials; paintFaces(null); },
+  });
+}
+</script>
+</body>
+</html>

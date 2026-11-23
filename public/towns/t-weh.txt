@@ -1,0 +1,15 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Oran|DZ||3|2r6|-1s|675|Orà;Waradinne;Wehran;Wahrān
+Weimar|DE||8r|3xm|vh|hz|Výmar;Vajmaro;Vajmar;Veimaras;Vimaria;Veimar;Veymar;Wehimala;Veimāra
+Wehr|DE|Baden-Wurttemberg|8r|3ob|ly|3m
+Wehrheim|DE||8r|3vq|nt|2m
+Wehl|NL||8m|40c|h9|1y
+Wehrda|DE||8r|3x8|oc|1l
+Znamensk|RU|Kaliningrad Oblast|96|47p|1mz|1a|Wehlau;Snamensk;Znamiensk;Vėluva
+Wehou|CI||0|fc|-9l|17
+Wehingen|DE||8r|3pr|of|11
+Wehringen|DE||8r|3q1|u0|t
+Wehr|DE|Rheinland-Pfalz|8r|3w2|k2|c
+Osiecznica|PL|Lower Silesia|a5|3yl|16u|a|Wehrau
+Wehrbleck|DE||8r|427|o5|9
+Wehnsen|DE||8r|41m|si|5|Wähnßen

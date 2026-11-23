@@ -1,0 +1,19 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Viersen|DE||8r|3yd|hr|l6|Veeëse
+Veenendaal|NL||8m|40j|fg|h1|Venendaal
+Vīrapāndi|IN||6t|uq|5yv|dz|Veerapandi
+Veendam|NL||8m|43j|j4|7u
+Verden|DE||8r|430|po|7h|Veern
+Vīrakeralam|IN||6t|ul|5xn|6m|Veerakeralam
+Veeraganur|IN||6t|vw|62q|38
+Veerle|BE||8t|3xv|dv|1l
+Veenhusen|DE||8r|441|kt|16
+Veen|NL||8m|3zu|e7|u
+Veenoord|NL||8m|42f|j1|m
+Veedersburg|US||38|33f|-6qe|l
+Veere|NL||8m|3z7|a7|g|Vere
+Veenhuizen|NL||8m|43b|hs|a|Feanhuzen
+Veelböken|DE||8r|45b|v2|8
+Veessen|NL||8m|41i|gx|7
+Veelerveen|NL||8m|43e|jt|6

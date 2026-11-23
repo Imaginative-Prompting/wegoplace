@@ -1,0 +1,24 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guiyang|CN||7i|21u|88g|yrp|Guijangas;Quý Dương;Kuej-jang;Gŭijango;Kùi-iông-chhī;Gói-iòng;Queiyanga;Guyyan;Gveiyangz;Guijang;Quyinq;Kuei-yang
+Quito|EC||33|-n|-624|lgo|Kito;Quitum;Kitas;Kitu;Quitu;Kuito
+Guilin|CN||7i|1y8|8ie|c4r|Quế Lâm;Kui-lìm-sṳ;Gveilinz;Kuej-lin;Gujlin;Kuei-lin
+Samara|RU||9p|43t|3va|8z6|Kuibyshev;Kuybyshev;Kuibyschew;Samaro;Szamara;Samar
+Guigang|CN||7i|1s8|8gf|8dr|Gói-gē̤ng;Kuej-kang;Kui-kóng-sṳ;Quý Cảng;Gveigangj;Kùi-káng-chhī
+Cuíto|AO||x|-ye|1b1|2qq|Kuito
+Quincy|US|Massachusetts|48|39d|-5h8|q0|Kuinsi
+Kuybyshev|RU||75|4a1|61k|df|Kujbysjev;Kuibyschew;Kúibyshev;Kouïbychev;Kujbyšev;Kujbiŝev;Kuibõšev;Kujbyszew;Kujbyšew
+Kuils River|ZA||o|-2ma|1fz|cz|Kuilsrivier
+Kuiya|CN||7t|2vm|658|c0
+Kui Buri|TH||62|xk|7pd|5a
+Kuz’molovskiy|RU||9i|4mz|2cp|3k|Kuzmolovskij;Kuismala
+Kuytun|RU||6k|46y|7tz|2y|Kujtun;Kuytuk;Kuitun
+Kuivasjärvi|FI||92|50r|1yu|19
+Cuijk|NL||8m|3zp|gc|10|Kuuk;Kuyc;Kuic;Kuk;Ceuclum;Kuyk
+Kipen’|RU||9i|4lr|2ax|v|Prokovsino;Kipen;Kuippina
+Kuivaniemi|FI||92|526|1xz|k
+Vyshneve|UA|Poltava|98|3uw|2in|d|Kuybysheve;Kuibysheve;Kuybyshevo
+Kuyvozi|RU||9i|4nk|2ck|c|Kujvozi;Kuivaisi
+Kuindjanda|CI||0|lh|-ez|b
+Velyka Solona|UA||98|3oc|2g3|a|Bol’shoye Solonoye;Kuibyshevka
+Kuinre|NL||8m|42n|g8|8|De Kúnder
+Pokrovske|UA|Poltava|98|3uu|2mk|5|Kuybysheve;Kuibysheve;Kuybyshevo

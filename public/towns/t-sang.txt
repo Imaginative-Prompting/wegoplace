@@ -1,0 +1,301 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Shangrao|CN||7i|271|93m|8m5|Šang-žao;Thượng Nhiêu;Sjangrao;Siông-ngièu;Song-ngièu-sṳ;Siōng-jiâu-chhī;Shang-jao
+Sanya|CN||7i|1ep|8g7|7yi|San-ja;Senya shehiri;Tam Á;Sam-a-chhī;Săng-ā;Sanj;Sama
+Changwon|KR||7h|2pv|9xg|7wx|Ch'angwŏn;Čangvonas;Cshangvon;Ĉangvono;Sangwon
+Sanmenxia|CN||7i|2om|8kv|55x|San-men-sia;Tam Môn Hiệp;Săng-muòng-hiĕk;Sam-bûn-kiap-chhī;San’myn’sya;San-men-hsia
+Sanming|CN||7i|20x|92q|4na|Senming shehiri;Săng-mìng;San-ming;Sâm-mìn-sṳ;Tam Minh;Sam-bêng-chhī
+Sāngli|IN||6t|1at|5r4|4n0|Turmeric city;Sangla
+Shanwei|CN||7i|1ra|8wf|3sm|Šan-wej;San-mî-sṳ;Sán Vĩ;Sáng-muōi
+São Gonçalo|BR||4w|-1rf|-3bl|27a|San Gonsalas
+Sangla Hill|PK||6q|2g4|5nu|st
+Sangju|KR||7h|2t6|9w0|s5
+Sangyoung|MM||7y|1ap|7f1|ow
+Sangrūr|IN||6t|2c1|5uo|om
+Sangmélima|CM||j|85|xa|m8|Sangmelina
+Sankt Gallen|CH||a7|3nq|q1|l2|St. Gallen;Saint-Gall;San Galo;Sankt-Galo;San Gallo;Sanctogallum;San Gallu;Son Gagl;Saint Gallen;Sogn Gagl;Sanggale;Sankt Qallen
+Sangāreddi|IN||6t|1cy|60x|k3
+Sangamner|IN||6t|1id|5q5|ip|Sangamnor
+Sanghar|PK||6q|20d|5bj|h8|Sangar
+Sangarédi|GN||f|uu|-129|f8|Sangaridi;Sangarehedi
+Acre|IL||6n|2jh|2pg|ep|Akre;Akka;Akko;Acri;Akkon;Akrsborg;Ako;San Giuvanni d'Acri;Acra;Eka;Acco;Akas;Accho;Akkia
+Saint John’s|AG||1j|1bk|-4rs|ed|St. John's;St Johns;Sent Džonsas;St.John.s;St John's;Sen Jaan;San Xuan;Sent Cons;Sankta Johano;Sant-Johns;Sen Jòns;San Gioàn;Saint John
+Sangkapura|ID||6l|-g9|8ox|e2|Sangkapoera
+San Gil|CO||27|i8|-5n6|cu|San Chilis
+San Giorgio a Cremano|IT||9o|35f|13u|cn
+San Germán|CU||36|1l8|-5vh|c7
+Sangarébougou|ML||5|zb|-ly|br
+Sengkurong|BN||66|dk|8uz|be|Sangkurong
+San Gabriel|US||3p|2mq|-943|b8|São Gabriel;Sangabriela;San Qabriel
+Sangariā|IN|Rajasthan|6t|2as|5qv|aq
+Sāngola|IN||6t|1cg|5sv|9j
+San Giuliano Milanese|IT||9o|3i3|pt|8n
+San Giovanni Rotondo|IT||9o|37v|17p|7j
+San Giuseppe Vesuviano|IT||9o|35g|14a|7h
+Sangzhe|CN||7i|29c|8d4|7a
+Sanger|US|California|3p|2tz|-984|6y
+San Giovanni a Teduccio|IT||9o|35g|13r|6m|San Giuanne a Teduccio
+Sangerhausen|DE||8r|3yz|ve|6h
+Sāngaria|IN|Rajasthan|6t|20r|5mv|6d
+San Giovanni la Punta|IT||9o|2we|15x|64|San Giuvanni la Punta
+Sangod|IN||6t|1x9|5vx|62
+San Giovanni Lupatoto|IT||9o|3i2|uo|5k
+San Giovanni in Fiore|IT||9o|311|1ae|4u
+Sanxenxo|ES||9d|39s|-oh|4s|Sangenjo
+San Giovanni Valdarno|IT||9o|3d1|w1|4g|S. Giovanni Valdarno;San Giovanni V.no
+Sangre Grande|TT||4k|tf|-4pt|4g|Sangre Grand
+San Giovanni in Persiceto|IT||9o|3g0|v2|4e
+Sang-e Chārak|AF||6o|2rl|54k|4a
+Sangali|PH||71|jn|9fg|43
+San Ġwann|MT||9e|2rr|148|43
+San Giorgio Ionico|IT||9o|34e|1ca|42|San Giorgio Jonico
+Sîngerei|MD||8x|3oc|266|42|Sângerei
+San Gabriel|EC||33|1n|-607|41
+San Ġiljan|MT||9e|2rs|149|3u|San Julián;St. Julian's;San Julian's;Saint Julian's;San Ġilian;Saint Julian
+Sangīn|AF||6o|2h3|504|3s
+San Gregorio Cuautzingo|MX||41|1hi|-7mm|3n
+Songan|CI||0|gz|-8x|3l|Sangan
+Sangão|BR||4w|-27k|-3sh|3l
+Sangar|IR||7o|2va|3u1|3i|Sangī Sar
+Sangān|IR||7o|2nk|4ne|3g
+San Gabriel Chilac|MX||41|1ex|-7if|3d
+San Germán|PR||4m|1e8|-568|3d|San Herman;San Jermani;San 7 ermani
+Sangalkam|SN||g|152|-1bv|3b|Sangaleam
+San Gregorio de Nigua|DO||4v|1f2|-5el|37
+Sangmeshwār|IN||6t|1l3|5r1|30
+San Gennaro Vesuviano|IT||9o|35i|14c|2z
+Sangouiné|CI||0|k7|-lm|2v|Sangoné
+Sangkhla Buri|TH||62|164|7lh|2s|Sang Kla Buri
+Sangsŏng-ni|KP||7a|30t|9sh|2r
+San Gyi Wa|MM||7y|1b2|7f2|2q
+Sangonera la Verde|ES||9d|2xd|-3d|2o
+Saint-Jean-de-Maurienne|FR||9k|3hs|hn|2n|San Giovanni di Moriana;Fanum Sancti Ioannis Maurianensis;Sent-Jian-de-Môrièna
+San Guillermo|AR||1n|-2cc|-4s0|2f
+San Gavino Monreale|IT||9o|31v|of|2e
+San Giorgio del Sannio|IT||9o|363|159|2e
+San Gaspar Tlahuelilpan|MX||41|1hg|-7oj|2d|San Gaspar Tlahuililpan
+San Giuseppe Jato|IT||9o|2xh|10n|2a
+Sângeorz-Băi|RO||8u|3nl|1wj|2a|Sîngiorz-Băi;Sîngeorz-Băi
+Sangaree|US||48|2js|-66l|2a
+Sanguéya|GN||f|tq|-13x|28|Sanguéa
+Sângeorgiu de Mureş|RO||8u|3ld|1wb|26|Marosszentgyörgy;Sângeorg-de Mureş;Sângeorgiul de Mureş
+San Giovanni Gemini|IT||9o|2wj|11w|26|San Giuvanni
+Sanger|US|Texas|2f|2ko|-7hx|25
+San Gaspar Tonatico|MX||41|1g9|-7ov|24
+Sangke|CN||7i|2pj|7wj|20
+Sîngera|MD||8x|3mc|28h|20|Sindžera;Sângera
+San Giorgio delle Pertiche|IT||9o|3ii|x1|1y
+San Jeronimito|MX||41|1ct|-7ti|1w|El Barrio;San Jerónimo;San Goronimito
+San Giorgio Su Legnano|IT||9o|3il|or|1v
+Sangramnagar|IN||6t|1dp|5sd|1t
+Sanguem|IN||6t|16b|5pz|1s
+San Giorgio di Nogaro|IT||9o|3jb|10p|1q|Sant Zorç di Noiâr;San Zorc di Nuiar
+Sangrāmpur|IN||6t|1wj|6s1|1q
+San Gabriel Tetzoyocán|MX||41|1g4|-7je|1p
+San Giorgio di Piano|IT||9o|3g1|vl|1n
+San Jerónimo|PE||3o|-11x|-5ns|1k|San Geronimo
+San Giovanni in Marignano|IT||9o|3e2|zb|1i|San Giovanni in Marianano
+Sangvi|IN||6t|1ol|5u1|1i
+Sanga-Sanga|PH||71|e3|98r|1h
+Sângeru|RO||8u|3hd|217|1h|Sîngeru
+San Giuseppe|IT|Campania|9o|35h|13l|1g
+Sangolquí|EC||33|-x|-61x|1f|Sangolkis
+San Gregorio di Catania|IT||9o|2wd|15z|1f|San Grigoriu;San Gregorio
+San Ginés de la Jara|ES||9d|2wk|-2a|1f
+San Gabriel|PH|Bicol Region|71|11p|9hy|1f
+Sangüesa/Zangoza|ES||9d|3a9|-3k|1e|Sangüesa;Zangotza;Zangoza;Sangòssa
+San Giustino|IT||9o|3cz|xu|1d
+Sângeorgiu de Pădure|RO||8u|3kz|1x0|1c|Sângeorgíul de Pădure;Sângeorgiu-de-Pădure;Sângiorgiul de Pădure;Sîngeorgiu de Pădure
+San Gabriel|PH|Ilocos|71|1ac|9ag|1b
+Sangar|RU||7x|4xk|9u3|1a
+Sangat|PH||71|s6|9jl|1a
+San Gabriel|MX|Jalisco|41|1iv|-809|1a
+Sangalhos|PT||99|34h|-nj|19
+San Gregorio Atzompa|MX||41|1gu|-7l7|18
+San Gabriel|MX|Jalisco|41|1me|-7y5|18
+San Giorgio Piacentino|IT||9o|3gv|r2|18
+Sangzi|CN||7i|32v|91g|17
+Sangdevīn|IR||7o|2us|48e|16
+Sanqaçal|AZ||61|33l|3te|16|Sangaçal;Sangachal;Sangacha;Sangachaly;Sangachly
+Sanga|MZ||11|-zv|2pd|16
+Sangatte|FR||9k|3xj|4v|16
+Zangīyān|IR||7o|23x|4ta|16|Sangīān;Zangīān
+San Gabriel|GT||32|14b|-727|15
+San Giovanni al Natisone|IT||9o|3jp|118|15|Sant Zuan dal Nadison;San Zuan dal Nadison
+San Guillermo|PH||71|1ah|9ed|13
+Sangkhom|TH||62|1e6|7w3|12
+Sangay|PH||71|hx|9kk|12
+Sanguinetto|IT||9o|3hj|uy|11
+Sangba|CN||7i|2mk|80b|z
+San Gabriel Mixtepec|MX||41|18q|-7ho|z|Mixtepec
+Sankasho|JP||7q|2is|a4h|z|Sangasho
+Sangano|IT||9o|3h3|kp|z|Sangan
+San Gregorio de Polanco|UY||45|-2im|-4b3|y
+San Giacomo|IT|Trentino-Alto Adige|9o|3l2|vh|y
+San Gregorio Magno|IT||9o|34y|16s|y
+San Giusto Canavese|IT||9o|3hw|lp|y
+San Gemini|IT||9o|3ad|yv|y|Casventum
+San Gimignano|IT||9o|3cr|un|x
+San Giovanni Suergiu|IT||9o|30n|no|w
+San Gregorio|PH||71|12z|9cu|v
+San Gabriel las Palmas|MX||41|1fp|-7nz|u
+San Genesio ed Uniti|IT||9o|3hn|pi|u|Fanum Sancti Genexii et Municipia Coniuncta;San Gines
+San Gabriel First|PH||71|17t|9am|u|San Gabriel
+San Giorgio Morgeto|IT||9o|2yn|18p|t
+San Giovanni Bianco|IT||9o|3jf|qt|s
+Sangat Kalān|IN||6t|2bk|5rw|r
+San Giuseppe|IT|Emilia-Romagna|9o|3g8|xy|r
+San Gillio|IT||9o|3he|kx|q
+San Giovanni Ilarione|IT||9o|3ig|v8|q
+Sangowāl|IN||6t|2e5|5tp|q
+San Gabriel|MX|Hidalgo|41|1k1|-7ny|q
+San Gregorio Aztotoacan|MX||41|1hi|-7ll|p
+Sanghan|PH||71|p9|9ot|p
+San Giuliano Terme|IT||9o|3dk|t0|o
+San Gregorio|IT||9o|3hy|ve|n
+Sangāchīn|IR||7o|2w8|3sz|n|Sankāchīn;Sangar Chīn;Sangarchīn
+San Gervasio Bresciano|IT||9o|3hv|s7|n
+San Gregorio d'Ippona|IT||9o|2zd|18q|n
+San Gabriel Zepayautla|MX||41|1gt|-7oj|n
+San Giorgio Canavese|IT||9o|3hy|lo|m|San Giòrs Canavèis
+San Giorgio in Bosco|IT||9o|3in|wt|m|Fanum Sancti Georgii in Bosco;San Dordi in Bosco
+Sanguinet|FR||9k|3fk|-30|m
+Sang-e Tajan|IR||7o|2tq|3z1|l
+San Gregorio|MX|Michoacán|41|1k3|-7wv|l
+Sanguéhi|CI||0|mj|-a5|l
+Sankhvāst|IR||7o|2v2|4dx|l|Sankhāst;Sangkhuast;Sankhāş
+San Giorgio a Liri|IT||9o|371|128|l
+San Giacomo|IT|Umbria|9o|3av|zf|l
+Sangkae|KH||78|12a|84o|k
+San Giorgio|IT|Apulia|9o|365|1b5|k
+Sằng Uỷ|VN||62|1r2|87z|k
+Senggarang|MY||6v|4v|7y9|k|Sang Garang
+San Giacomo|IT|Friuli Venezia Giulia|9o|3k9|102|j
+San Giorgio|IT|Sicily|9o|2y1|15j|j
+San Giovanni A Piro|IT||9o|339|16x|j
+San Gaspar|MX|México|41|1g6|-7oj|j
+San Giovanni in Croce|IT||9o|3h7|st|i
+Sangam|IN||6t|2mu|5rp|i
+San Giovanni|IT|Sicily|9o|2wu|164|i
+San Jerónimo|HN|Comayagua Department|56|14n|-6rd|i|San Geronimo
+San Giovanni-San Bernardino|IT||9o|3gf|qp|i
+San Giorgio al Tagliamento-Pozzi|IT||9o|3j8|100|i
+Sangkae Pir|KH||78|128|84i|i
+Sang Tarāshān|IR||7o|2td|43f|h
+San Giuseppe le Prata-Cotropagno|IT||9o|37s|118|h
+San Gabriele-Mondonuovo|IT||9o|3g3|w6|g
+San Gabriel Ixtla|MX||41|1hi|-7q4|g
+Sandgerði|IS||87|4xw|-1r3|g|Sangerdhi
+San Germano Vercellese|IT||9o|3hz|mx|g
+Sanguita|CI||0|nl|-8k|g
+Sangiano|IT||9o|3jg|nz|f
+San Giustino Valdarno|IT||9o|3cz|wi|f
+San Kauk|MM||7y|19x|7eo|f|San-gauk;Sankauk
+San Gaspar|MX|México|41|1gn|-7oy|f
+San Giorgio|IT|Campania|9o|36n|13r|f
+San Germano Chisone|IT||9o|3gq|k4|f
+San Giorgio in Salici|IT||9o|3i7|tz|e|San Giorgio in Salice
+San Gabriel|MX|Guanajuato|41|1mp|-7s3|e
+Sangabilé|CI||0|n8|-7l|e
+San Giovanni|IT|Friuli Venezia Giulia|9o|3ju|ys|e
+San Gregorio|MX|Hidalgo|41|1ky|-7ka|e
+Sanguinari|CI||0|oj|-8u|d|Songuinari
+San Giovanni Incarico|IT||9o|37a|11o|d
+Sangerville|US||48|3hg|-5co|d
+San Gustavo|AR||1n|-2d9|-4l0|d
+San Giorgio Monferrato|IT||9o|3hb|ne|d
+Sangau ?E?|IN||6t|1r6|76i|d
+San Giacomo delle Segnate|IT||9o|3gx|un|d
+San Genesio Atesino|IT||9o|3l9|vh|d|Jenesien
+San Giorgio Lucano|IT||9o|33f|19j|c
+San Giorgio la Molara|IT||9o|36o|15h|c
+Sânger|RO||8u|3lc|1v2|c|Sînger
+San Gregorio|MX|Michoacán|41|1hw|-7u2|c
+San Giorgio di Livenza|IT||9o|3it|zk|c
+San Gabriel y San Ignacio|MX||41|1ks|-7u9|b
+San Germán|MX|Tamaulipas|44|1y2|-7k0|b
+San Giuliano Vecchio|IT||9o|3gp|oc|b
+Sangrobo|CI||0|la|-eq|b
+San Giorgio di Lomellina|IT||9o|3hh|of|b|San Giorgio Lomellina
+Sangmu|CN||7i|26e|877|b
+San Gregorio da Sassola|IT||9o|38g|zr|b
+Sangana|CI||0|mt|-i3|b
+San Giacomo|IT|Lombardy|9o|3k8|rv|b
+San Gregorio|MX|Guerrero|41|1fr|-7on|b
+San Giovanni-Patoni|IT||9o|381|10w|b
+San Gregorio|MX|Guanajuato|41|1l3|-7ub|a
+San Giacomo|IT|Lombardy|9o|3in|t4|a
+Sang-e Vāres̄|IR||7o|2tv|3yl|a
+San Ginesio|IT||9o|3br|110|a
+San Giuliano di Puglia|IT||9o|37t|15k|a
+San Gabriel Azteca|MX||41|1j8|-7ly|a
+San Guillermo|MX|Chihuahua|2g|27f|-869|a|Santa Elena
+San Gregorio|MX|Veracruz|41|1lu|-7lb|a
+San Giacomo degli Schiavoni|IT||9o|38k|15i|9
+San Gaspar de los Reyes|MX||41|1n5|-7wq|9
+San Gregorio de las Casas|MX||41|1ad|-74n|9
+Sângeorzu Nou|RO||8u|3mh|1vp|9|Szászszentgyörgy;Sângeorzul-Nou;Sângiorzul Nou
+San Gregorio Matese|IT||9o|36z|13x|9
+San Genaro|PE||3o|-10n|-5sq|9
+San Jerónimo|MX|Michoacán|41|1fh|-7th|9|San Geronimo
+San Giovanni del Dosso|IT||9o|3gx|us|9
+San Gaspar|MX|México|41|1hf|-7q6|9
+San Germán|MX|Querétaro|41|1ku|-7py|9
+San Gallo|IT||9o|3ik|sn|8
+San Giovanni|IT|Emilia-Romagna|9o|3g9|xh|8
+San Giorio|IT||9o|3hd|jy|8
+San Guillermo la Reforma|MX||41|1jw|-7m6|8
+San Giovanni-Santa Caterina|IT||9o|356|15h|8
+San Giorgio di Pesaro|IT||9o|3dg|102|8
+San Giovanni|IT|Abruzzo|9o|3ah|12v|8
+San Gabriel|MX|Zacatecas|41|1sq|-7y3|8
+San-Gavino-di-Carbini|FR||9k|37w|pf|8|San Gavino di Carbini;San Gavinu di Càrbini
+Sanguijuelas|MX||41|1ka|-7tq|8
+San Giovanni|IT|Trentino-Alto Adige|9o|3mi|x6|8|St. Johann;St. Johann im Ahrntal
+Sangbwani|CI||0|pq|-jt|8|Sangouani
+San Giorgio della Richinvelda|IT||9o|3jx|zr|7|San Zorc de Richinvelde
+Sangué|CI||0|mi|-7u|7
+San Giovanni di Livenza|IT||9o|3jk|ys|7
+San Giorgio|IT|Basilicate|9o|359|17w|7
+San Jerónimo|MX|Chiapas|41|15s|-73y|7|San Geronimo
+San Giorgio Albanese|IT||9o|31y|19p|7|Mbuzati
+San Giuseppe|IT|Piedmont|9o|3gb|md|7
+Sangwani|CI||0|rh|-kg|7|Sangouani
+Sangbélédougou|CI||0|mo|-bm|7
+San Giovanni|IT|Tuscany|9o|3av|so|7|San Giovania
+San Giorgio|IT|Trentino-Alto Adige|9o|3ji|u6|7
+San Gabriel|MX|México|41|1j9|-7ot|7
+Sangha Khālsa|IN||6t|2ee|5tv|7
+San-Giuliano|FR||9k|39j|qg|7|San Giuliano;San Ghjulianu
+San Giacomo|IT|Calabria|9o|31t|19q|7
+San Giacomo di Musestrelle|IT||9o|3iz|y9|7
+San Giorgio in Brenta|IT||9o|3ip|wp|6
+San Giacomo|IT|Campania|9o|362|158|6
+Sanguiébo|CI||0|ml|-7d|6
+San Giovanni|IT|Abruzzo|9o|3b5|12j|6
+San Jerónimo|MX|Veracruz|41|1dy|-7du|6|San Gerónimo
+San Giacomo|IT|Calabria|9o|31q|18r|6
+San Giuliano del Sannio|IT||9o|376|14o|6
+Sanganamé|CI||0|qx|-9x|6
+San Giacomo-Marinella|IT||9o|31x|1aq|6
+San Gabriel Cuentla|MX||41|1gp|-7py|6
+San Giorgio|IT|Piedmont|9o|3hb|nd|6
+Sangadjokaha|CI||0|o3|-fr|6
+San Giuliano Nuovo|IT||9o|3gr|oc|6
+San Gabriel|MX|Sinaloa|3x|1yx|-8dc|6
+San Gregorio Ozolotepec|MX||41|18t|-7fl|6|San Gregorio;Ozolotepec
+San Gonzalo|MX||41|1m1|-7u5|6
+San Giorgio|IT|Sicily|9o|2wk|147|6
+Sângeorge|RO||8u|3i4|1n8|6|Sângeorgiu;Sîngeorge
+Sangineto Lido|IT||9o|31z|183|6
+San Gregorio Macapexco Barrio Segundo|MX||41|1ix|-7os|6
+San Gaspar Ixchil|GT||32|16r|-72t|6
+Sangis|SE||9w|52y|1ta|5
+San Giacomo del Martignone|IT||9o|3fw|v6|5
+San Gil|MX||41|1pp|-7ve|5
+San Giovanni di Gerace|IT||9o|2yl|198|5|Fanum Sancti Ioannis;San Giovanni di Jeraci
+San Giuliano|IT||9o|3h7|rr|5
+San Giovanni e Paolo|IT||9o|36e|13z|5
+San Guillermo|MX|Guanajuato|41|1ky|-7tk|5

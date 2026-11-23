@@ -1,0 +1,43 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ba|FJ||ar|-1cp|dpj|42
+Ba|VN||6h|18c|8br|1b
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Bengaluru|IN||6t|101|5zj|1tjv|Bangalore;Bengaluro;Bengalour;Bengalūras;Bangaluri;Bangalúr
+Baghdad|IQ||5z|2km|3fc|1jog|Bagdad;Bagdado;Bexda;Bagdatum;Bagdadas;Bagdá;Bağdat;Beghdad
+Bangkok|TH||62|127|7r6|13dx|Bankoko;Bankokas;Banguecoque;Bancác;The City of Angels;Màn-kuk;Banqkok;Banghok;Bancocum;Bancoque;Bankok
+Bao'an|CN||7i|1qn|8sc|yji
+Bamako|ML||5|z1|-m6|wmc|Bamaco;Bamakas;Bammaco;Bamaku;Bammako
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Baotou|CN||7i|34x|8h4|lb5|Bao Đầu;Pao-tchou;Baŭtoŭo;Bău-tàu;Pâu-thèu-sṳ;Paotou;Pau-thâu-chhī;Pao-t’ou;Pao-tow
+Baoding|CN|Hebei|7i|2zz|8wq|l53|Bawding shehiri;Bảo Định;Baodin;Bō̤-dêng;Baodina;Pó-tēng-chhī
+Bazhong|CN||7i|2gj|88i|kxl
+Bandung|ID||6l|-j8|8ax|jia|Kutha Bandhung;Banduna;Bandunq;Bandoeng
+Baku|AZ||61|346|3ul|i55|Bakı;Bakou;Bakoe;Bakó;Bacu;Baqu;Boku;Baky
+Baoshan|CN|Shanghai|7i|2f9|9dh|hhf|Pao-shan
+Brasília|BR||4w|-17u|-3p5|h19|Braziljo;Brasiliopolis;Brazilija;Brazília;Brazíliaváros;Brazilėjė;Braxìlia;Brazilja;Bahsihleihya;Breselya
+Paris|FR||9k|3rp|6j|gi2|Lutèce;Ville-Lumière;Parizo;Parys;Paříž;Baris;Pariis;Pariisi;Páras;Párizs;Parigi;Paräis;Paries;Paryžius;Parīze;Parijs;Paryż;Pariggi;Pari;Paname;Pantruche;Paarys;Pa-ri;Parij;Parixe;Palika;Parighji;Baariis;Lutetia;Parigge;Bahliz;Pariižu
+Beirut|LB||64|2m5|2qm|es9|Bejrut;Bejruto;Beyrouth;Beiroet;Beyrut;Berytus;Bäyrut;Bêrût;Béiriút;Birut;Beirot;Bewout;Beirout;Bejruti;Beirots;Bairut
+Vadodara|IN||6t|1py|5nd|e26|Vadodaro;Baroda
+Bayan Nur|CN||7i|356|8ab|dkw
+Warsaw|PL||a5|413|1md|d4t|Warszawa;Varsovie;Warschau;Varsovia;Varsovio;Varšava;Varssavi;Varsova;Vársá;Varsó;Varsjá;Varsavia;Varšuva;Varsavja;Varshava;Barsobia;Warskou;Warszaw
+Barcelona|ES||9d|36z|60|d0e|Barcino;Bartzelona;Barzelona;Barcelono;Barcelone;Barselóna;Barcellona;Barcillona;la Ciudad Condal;Barcelůna;Barçellonn-a;Barseloana;Bartzellona;Barseluona;Barseluna;Barslon-a;Barselon;Baselona
+Valencia|VE||2c|s8|-58w|chv|Valencio;Balenzia;Valentzia;Valentia;Valensija;Valincia;Valensiya;Valensii
+Baoji|CN||7i|2nh|89w|b3e
+Bozhou|CN|Anhui|7i|2m4|8xl|avi|Po-čou;Bạc Châu;Bŏk-ciŭ;Po̍k-chiu-chhī
+Bannu|PK||6q|2jn|5g4|ah7|Banu
+Basrah|IQ||5z|2cr|3oq|a8i|Basra;Basora;Bassorah;Bàssora;Al-Basra;Baçorá;Besre;Busra;Bussora;Busrah;Bassra
+Batam|ID||6l|37|80y|a0a
+Ra’s Bayrūt|LB||64|2m6|2qk|9np
+Barquisimeto|VE||2c|ry|-5co|9kn|Barkisimetas;Barquisimetum;Barkisimeto;Barquisimito
+Barranquilla|CO||27|uh|-5rq|9b3|Barankilija;Barranquilha;Barrankilya;Killa;Quilla;La Arenosa;Barankilijo
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Bandar Lampung|ID||6l|-f3|84e|8ea|Bandarlampung
+Dublin|IE||8z|445|-hd|7wg|Dulyn;Baile Átha Cliath;Dyflinn;Dulenn;Eblana;Diblin;Difelin;Divlyn;Dablin
+Khartoum North|SD||r|17h|2id|7t6|Bahri;Khartum Nord;Sjeverni Kartum;Khartoum Nord;Jartum Norte
+Bengbu|CN||7i|2ji|920|7i8|Bạng Phụ;Pâung-buô;Pāng-pō-chhī;Bangbu
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Baoshan|CN|Yunnan|7i|1xs|7ng|77w|Bō̤-săng;Pao-šan;Bảo Sơn;Pó-san-chhī;Pao-shan
+Bahawalpur|PK||6q|29o|5j4|6z2
+Benxi|CN||7i|36p|9jt|6oc|Pen-si;Bensi;Bản Khê;Pún-khe-chhī;Penki;Pen-hsi;Pen Shi

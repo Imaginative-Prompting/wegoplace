@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Los Angeles|US||3p|2ml|-94g|thd|L.A.;Los-Anĝeleso;Angelopolis;Los Andželas;Los Anxhelos;Los Anxheles;Os Ánxeles;Losandželosa;Los Anjélés;Lo̍k-chhám-kî;Los-Anceles;Los-Anjeles;Luos Andžels;Los Andželes
+Ankara|TR||94|32w|2j9|r50|Angora;Ancyra;Ankaro;Ancara;Enqere;Ăng-kā-lá;Angkara;Anqara;Ankar;Anakara;Ankura;Ankyra
+Anshan|CN||7i|368|9hn|pnq|Ansjan;Anxan;An-šan;Anŝano;Anšanas;An Sơn;Ăng-săng;An-san-chhī
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Adana|TR||94|2ur|2q5|e0o|Adanë;Edene;Adano;Antioch on Sarus
+Puebla|MX|Puebla|41|1gx|-7kt|d22|Cuetlaxcoapan;Angelopolis;Puebl;Yucha Nchu'u;Pueblo
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+San Antonio|US|Texas|2f|29q|-7ll|bs3|Sanctus Antonius;Sanantonio;San Antonijus;San-Antonio;San Antoniyo
+Antananarivo|MG||a8|-1gj|3o2|aev|Tananarive;Antananaryvas;Antananarywa;Antananarifo;Antananariwo;Antenenerivo;Antananarivu
+Antalya|TR||94|2uj|2da|aau|Antália;Antalija;Attalea;Atali;Antalja;Antaliya;Antaljo;Antaliyah;Attalia
+Anyang|CN||7i|2sa|8tq|8uk|Anjangas;An-jang;An Dương;Anjan;Ahn Yang
+Brussels|BE||8t|3x9|c3|7v2|Bruxelles;Brussel;Bryssel;Brusela;Bruselas;Bruselo;Brukselo;Bruseles;Brusel;Brwsel;Bruiseal;Bruxelas;Brüsszel;Bruxel;Città di Bruxelles;Bruksel;Bruxellae;Bréissel;Briuselis;Brisele;Bruksela;Bruselj;Brussele;Brisel;Brukseli;An Bhruiséil;Kota Brusel;Brasels
+Antipolo|PH|Calabarzon|71|14n|9cg|71t
+Ankang|CN|Shaanxi|7i|2is|8eu|6pp
+Dandong|CN||7i|33h|9lj|6an|Đan Đông;Dăng-dŭng;Tan-tong-chhī;Andong
+Anqing|CN||7i|2cr|915|67h|Anking;An Khánh;An-čching;Ančingas;Nganking;An-ch’ing;Ganking
+Anshun|CN||7i|20x|869|5wl|An-šun;Anšunas;An Thuận;Ăng-sông;An-sūn-chhī
+Andijon|UZ||7m|35a|5kz|5rq|Andijan;Andisjan;Andižan;Andizhan;Andizjan;Andican;Andidzhan
+Athens|GR||8p|2xi|1tx|54g|Athínai;Athenae;Atenas;Ateno;Atenoj;Athen;Afina;Aten;Atina;Atenes;Athény;Ateena;Athènes;Atene;An Aithin;Atena;Athena;Athina;Atėnai;Athene;Ateny;Ateni;Lungsod ng Athína;Kota Athena;Afini;Athinia;Athenai
+Santo André|BR|São Paulo|4w|-1tq|-3la|540
+Ansan-si|KR||7h|2vo|9sa|4t5|Ansan
+Anyang-si|KR||7h|2vv|9sl|4lg|Anyang
+Nasiriyah|IQ||5z|2ea|3ki|4b4|Nasiriya;An-Nasiriya;Nasirijja;Nasirija;Nasiriyeh;An Nāsirīya;Nasriye;Al-Nasiriya
+Ananindeua|BR||23|-3t|-3qd|44r
+Antwerp|BE||8t|3ya|c8|430|Amberes;Antverpy;Antverpeno;Anvers;Antuairp;Antuerpen;Anversa;Antverpia;Antverpenas;Antverpene;Antuérpia;Anberes;Antverpen;Amberis;Anverse;Antwarp;Antverpens;Ôn-thi̍t-ví-phú;Antwyrpijo
+Angeles City|PH||71|163|9ay|3qb
+Najaf|IQ||5z|2gz|3f7|3q2|Nadschaf;Naĝafo;Nadjaf;Nayaf;An-Nadżaf;Nachaf;Nadžaf;Nedzsef;Nadžafas;Necef
+The Hague|NL||8m|40o|by|3nr|Den Haag;La Haye;La Haya;Hago;Haag;La Haia;De Haach;An Háig;A Haia;L'Aia;Haga;D'n Haog;Hag;Lahey;Hague
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+Zhongxiang|CN||7i|2el|8oq|3e2|Anlu;An-lu
+Bratislava|SK||8s|3pr|1bj|39p|Prešporok;Bratislavo;Pozsony;Posonium;Preßburg;Bratysława;An Bhratasláiv;Bratisława;Bratisllava;Bratislav;Baratislawa;Presbourg;Presburg;Prešpurk;Preszburg
+Antofagasta|CL||4u|-1tp|-5fk|33f|Antofagasto;Antuofagasta;Antofagast;Antofaqasta
+Antakya|TR||94|2sl|2sg|32u|Antioquía;Antioch;Antiochia am Orontes;Antiohija;Antiochie;Antiokia;Antiochia;Antiochia di Siria;Antiochia vid Orontes;Antioche;Teopolis;Antakiya;Antiokheia;Antākiyyah;Anţākiyah
+Anqiu|CN||7i|2t7|973|2t6|An-kiu
+Anaheim|US||3p|2m0|-93j|2pf|Anahaima;Anahaym
+Annaba|DZ||3|2ui|ll|2n7|Bône;Anaba;Hippo;Hippo Regius;Aânavaen;Bona
+Anápolis|BR||4w|-19d|-3rz|2gs
+Jardim Angela|BR||4w|-1tw|-3lx|2ei
+Santa Ana|US||3p|2lr|-93f|2e6|Santanna

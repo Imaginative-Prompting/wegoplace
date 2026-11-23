@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lo|BE||8t|3xm|7n|c
+Lagos|NG||u|hx|9f|3aqg|Lacupolis;Laqos;Èkó;Laguosos;Logos
+Lahore|PK||6q|2fo|5qj|2sc9|Lahor;Lahaur;Lahoras;Lahora;Lahorium;Lohur;Lahoro
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Los Angeles|US||3p|2ml|-94g|thd|L.A.;Los-Anĝeleso;Angelopolis;Los Andželas;Los Anxhelos;Los Anxheles;Os Ánxeles;Losandželosa;Los Anjélés;Lo̍k-chhám-kî;Los-Anceles;Los-Anjeles;Luos Andžels;Los Andželes
+Madrid|ES||9d|34a|-aa|p4f|Madril;Madrit;Matritum;Madryt;Maidrid;Los Madriles;Makelika;Mairil;Mā-dáik-lī;Mâ-tet-lî
+Luanda|AO||x|-ok|10r|lf6|Loanda;Luand;Lwanda;Luando;Louanda
+Lusaka|ZM||z|-16t|26l|h2j|Lusako;Lusaca;Louzaka;Lusak
+Lomé|TG||w|h1|3e|gvw
+León de los Aldama|MX||41|1mo|-7ug|c6u|León;Leon Guanajuato
+Luoyang|CN|Henan|7i|2ob|8oc|aqa|Lạc Dương;Luo-jang;Luojangas;Lŭojango;Lŏk-iòng;Lojang;Lo̍k-iông-chhī;Lo-yang
+Luohe|CN||7i|2l9|8sr|9zq|Ták-ò̤;Luo-che;Tháp Hà;Lúi-hô-chhī;T’a-ho;Lo-he
+Maputo|MZ||11|-205|2ii|9ok|Lourenço Marques;Maputu;Mabuto;Mapouto;Mabutu
+Santiago de los Caballeros|DO||4v|1i1|-5gd|99c|Santjago de los Kabaljerosas;Santiago
+Longyan|CN||7i|1xn|912|7wr|Lṳ̀ng-ngàng;Lung-jen;Liùng-ngâm-sṳ;Longyen shehiri;Long Nham;Lêng-nâ-chhī;Lung-yen
+Luzhou|CN||7i|289|84v|7ph|Lutsjou;Lu-čou;Lô Châu;Lù-ciŭ;Lô͘-chiu-chhī;Lu-chou
+Laibin|CN||7i|1tz|8fe|70v|Lài-bĭng;Laj-pin;Lòi-pîn-sṳ;Lai Tân;Leizbingz;Lâi-pin-chhī;Lai-pin-chen;Laiping;Lai-pin
+Leshan|CN||7i|2a4|808|544|Le-šan;Lạc Sơn;Lŏk-săng;Lo̍k-san-chhī;Lo-shan
+Las Vegas|US|Nevada|3p|2sh|-8vu|4yb|Lasvegaso;Campi;Lasvegasa;Las-Veqas;Vegas;Los Vegas
+Łódź|PL||a5|3zt|1i3|4xr|Litzmannstadt;Luc;Łůdź;Lò-tsṳ
+Louisville|US|Kentucky|3k|2y9|-6m8|4tg|Ludovicopolis;Lūivila;Luisvilis;Luisvill
+Londrina|BR||4w|-1sr|-3y4|4hi
+Chợ Lớn|VN||6h|tv|88a|4bu|Sholon
+Leeds|GB||9b|45g|-4b|44z|Lidso;Lidsas;Līdsa;Ledesia;Lids;Loidis;Ritis
+Loni|IN||6t|27v|5yp|3zd
+Loudi|CN||7i|251|8n3|3u4|Lâu Để;Lèu-dī;Lô͘-té-chhī;Lou-ti
+Ciudad López Mateos|MX||41|1ia|-7nn|3rw|Adolfo López Mateos
+East London|ZA||o|-2jq|25j|3oz|KuGompo City;Yst Londonas;Buffalo City;Orient-Londono;Londinium Orientale;Tûng Lùn-tûn;EMonti
+Long Beach|US|California|3p|2lt|-94b|3np|Litus Longum;Long Byčas;Longbīča;Lonq Biç
+Longshan|CN|Jilin|7i|3b5|9nm|3l8|Lièu-nguòng;Liao-jüan;Liaojuanas;Läojuan;Liêu Nguyên;Liâu-goân-chhī;Liaoyuan
+Santo Domingo de los Colorados|EC||33|-p|-63y|3je|Santo Domingo
+Luxor|EG||c|1ze|2io|39c|Luksoro;Louxor;Luksor;Luksoras;El-Uksur;Loxòr;Lucsar;Luksora;Al Uqsur;Luqsor;Louksor;El-Aksur
+London|CA||59|3be|-69n|39b|Landona
+Alor Setar|MY||6v|h0|7qs|382|Alor Star;Loqstaq;Alur Setar;Alostar
+San Nicolás de los Garza|MX||44|1zi|-7qm|36i|San Nicolás de los Garsas
+Luhansk|UA||98|3qx|317|32h|Woroschilowgrad;Louhansk;Voroshilovgrad;Luhans'k;Loehansk;Luqansk;Lugánsk;Luhanszk
+Lobito|AO||x|-yc|11m|317|Lubitu;Lobitas;Llobín;Lobita;Lobitu
+Long Bien|VN||62|1mf|866|2om
+Logan City|AU||8c|-24s|btb|2nv|Logan;Città di Logan

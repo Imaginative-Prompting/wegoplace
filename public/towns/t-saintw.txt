@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Valery-sur-Somme|FR||9k|3ve|4j|s|Saint-Wary
+Saint-Witz|FR||9k|3sd|75|o
+Saint-Wandrille-Rançon|FR||9k|3tl|24|c

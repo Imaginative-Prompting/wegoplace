@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lagos|NG||u|hx|9f|3aqg|Lacupolis;Laqos;Èkó;Laguosos;Logos
+Lahore|PK||6q|2fo|5qj|2sc9|Lahor;Lahaur;Lahoras;Lahora;Lahorium;Lohur;Lahoro
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Lima|PE||3o|-xg|-5xz|1np6|Limo;Líoma;Lìmma;Lim
+Dalian|CN||7i|303|9ds|1lho|Lüda;Luta;Lü-ta
+Nanning|CN||7i|1re|8cw|1a4c|Nam Ninh;Nan-ning;Naningas;Naningo;Nàm-nèn-sṳ;Namzningz;Lâm-lêng-chhī;Nàng-nìng;Naņnina;Nannin;Nanninq;Yung-ning
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Lanzhou|CN||7i|2s6|80g|xmy|Lanĝoŭo;Lan Châu;Lan-čou;Lantsjou;Landžou;Lân-chiu-chhī;Làng-ciŭ;Lancsou;Lanchjou;Lanzcouh;Lançjou;Landžov;Lanchow;Lan-chou
+Los Angeles|US||3p|2ml|-94g|thd|L.A.;Los-Anĝeleso;Angelopolis;Los Andželas;Los Anxhelos;Los Anxheles;Os Ánxeles;Losandželosa;Los Anjélés;Lo̍k-chhám-kî;Los-Anceles;Los-Anjeles;Luos Andžels;Los Andželes
+Faisalabad|PK||6q|2fa|5n1|tbm|Fajsalabad;Feisalabadas;Lyallpur
+Ningbo|CN||7i|2b0|9dn|ssg|Nèn-pô-sṳ;Ninh Ba;Lêng-pho-chhī;Ninbo;Nìng-pŏ̤;Ningpo
+Lüliang|CN||7i|2w8|8kq|ptl
+Madrid|ES||9d|34a|-aa|p4f|Madril;Madrit;Matritum;Madryt;Maidrid;Los Madriles;Makelika;Mairil;Mā-dáik-lī;Mâ-tet-lî
+Quezon City|PH||71|14p|9c9|nsr|Quezon;Kezonurbo;Lungsod Quezon;Quezon-Stadt;Ciudad Quezon
+Luanda|AO||x|-ok|10r|lf6|Loanda;Luand;Lwanda;Luando;Louanda
+Linyi|CN||7i|2pe|94q|l66|Lâm Nghi;Lìng-gì;Lîm-kî-chhī;Lin-i
+Lucknow|IN||6t|22k|68s|j2o|Laknaŭo;Lakhnau;Laknau;Luknow;Laknava
+Nanchang|CN||7i|27o|8xt|i6y|Nam Xương;Nančangas;Nan-čchang;Nanĉano;Lâm-chhiong-chhī;Nàng-chiŏng;Nàm-chhông-sṳ;Nancsang;Nancianga;Naņčana;Nanzcangh;Nançan;Nančang
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Nantong|CN|Jiangsu|7i|2gz|9br|hjh|Nentung shehiri;Nan-tchung;Nam Thông;Lâm-thong-chhī;Nàng-tŭng;Nan-t’ung
+Lubumbashi|CD||y|-we|24c|h57|Élisabethville;Elizabethstad;Lubumbašis;Lubumbaši;Lumumbashi;Elizabethville
+Lusaka|ZM||z|-16t|26l|h2j|Lusako;Lusaca;Louzaka;Lusak
+Lomé|TG||w|h1|3e|gvw
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Paris|FR||9k|3rp|6j|gi2|Lutèce;Ville-Lumière;Parizo;Parys;Paříž;Baris;Pariis;Pariisi;Páras;Párizs;Parigi;Paräis;Paries;Paryžius;Parīze;Parijs;Paryż;Pariggi;Pari;Paname;Pantruche;Paarys;Pa-ri;Parij;Parixe;Palika;Parighji;Baariis;Lutetia;Parigge;Bahliz;Pariižu
+La Paz|BO||3n|-19u|-59b|fgv|Chukiyawu;La-Pazo;A Paz;Pax;La Pasas;Chuqiyapu;La Pas;Chuqi Yapu;Lapasa;La-Pas
+Lianyungang|CN||7i|2o4|976|ffu
+Tashkent|UZ||7m|36m|5ca|f9g|Taschkent;Taskent;Tasjkent;Taŝkento;Toshkent;Tachkent;Taškentas;Taszkent;Toshkent shahri;Tochkent;Taixkent;Taxkent;Taškenta;Lithopolis;Daşkent;Tashkend
+Nanchong|CN||7i|2dk|86o|ecd|Nan-čchung;Nam Sung;Lâm-chhiong-chhī;Nàng-chṳ̆ng;Nan’chun;Nan-ch’ung
+Davao|PH||71|jn|9ox|e9l|Lungsod ng Dabaw
+Nanyang|CN|Henan|7i|2jp|8on|dza|Nam Dương;Nan-jang;Nenyang shehiri;Nanyan;Nàng-iòng;Lâm-iông-chhī
+Barcelona|ES||9d|36z|60|d0e|Barcino;Bartzelona;Barzelona;Barcelono;Barcelone;Barselóna;Barcellona;Barcillona;la Ciudad Condal;Barcelůna;Barçellonn-a;Barseloana;Bartzellona;Barseluona;Barseluna;Barslon-a;Barselon;Baselona
+Lu’an|CN||7i|2g6|8zo|cor|Liu-an
+Ludhiana|IN||6t|2dv|5up|chp|Ludhijana;Ludijana
+Manila|PH||71|14k|9c2|ccg|Manilo;Manille;Manilla;Maynila;Menila;Manyl;Manillah;Mainile;Lungsod ng Maynila

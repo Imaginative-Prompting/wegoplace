@@ -1,0 +1,494 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vereeniging|ZA||o|-223|25l|3nv|Verenigingas;Verenigingo
+Mykolayiv|UA|Mykolaiv|98|3mi|2gv|3mk|Vernoleninsk;Mykolaïv;Mikołajów;Mikolajiv;Nicolopoli
+Veracruz|MX|Veracruz|41|1ha|-7f2|3az|Verakrusas;Chalchiuhcuehcān
+Verona|IT||9o|3i8|uj|1zo|Vérone;Werona
+Rio Verde|BR||4w|-1dg|-3xh|1v3
+Varāmīn|IR||7o|2q4|3zh|1qo|Verāmin
+Verhunskyi|UA||98|3qz|31d|1fk|Zhovtnevyi rayon;Zhovtnevyi
+Verāval|IN||6t|1m3|5fh|1bj
+Novoural’sk|RU||7z|4f1|4mx|q2|Verkh-Nejvinskij;Novouraljsk;Nowouralsk
+Versailles|FR||9k|3rk|5x|nq|Versalles;Versajlo;Versalia;Wersal;Versalhes;Versaliae;Versalis
+Verdun|CA||59|3ia|-5od|j8
+Verkhnyaya Pyshma|RU||7z|4e9|4oa|gf|Pyshma;Werchnjaja Pyschma;Verkhniaïa Pychma;Verchnjaja Pyšma;Verchnjaja Pysjma;Verxnyaya Pışma;Verĥnjaja Piŝma;Verhnjaja Põšma;Verhnjaja Pyšma;Verkhnjaja Pysjma;Wierchniaja Pyszma;Wjerchnjaja Pyšma;Aukštutinė Pyšma
+Verviers|BE||8t|3wj|ga|eo|Vervî;Vervjė;Vervia
+Verkhnyaya Salda|RU||7z|4h9|4o7|dm|Verkhnjaja Salda;Werchnjaja Salda;Verkhniaïa Salda;Verchnjaja Salda;Verxnyaya Salda;Verĥnjaja Salda;Wjerchnjaja Salda;Aukštutinė Salda;Wierchniaja Sałda
+Verrettes|HT||4j|1gx|-5lb|dj|Vèrèt
+Vermont Square|US||3p|2mg|-94m|d8
+Vercelli|IT||9o|3hw|ne|cr|Verceil;Vercellae
+Santiago de Veraguas|PA||4g|mi|-68y|cm|Santiago;Veragvaso Santjagas;Santjago de Veragvasa;Santiago Veraguas
+Véroia|GR||8p|34k|1po|cd|Beroia;Vérroia
+Vera Cruz|BR|Bahia|20|-100|-2z9|c5
+Vernon|CA||5b|3vn|-97b|b5
+Vršac|RS||8q|3hc|1n6|a3|Versec;Vârșeț;Versecz
+Verkhniy Ufaley|RU||7z|4bp|4nb|98|Verkhnij Ufalej
+Viernheim|DE||8r|3tm|nu|92|Vernem
+Wernigerode|DE||8r|400|ty|8y|Vernigerode
+Werl|DE||8r|3z7|lz|8x|Verl;Wiärl
+Verbania|IT||9o|3jk|nr|8n
+Vera Cruz|BR|Bahia|20|-z3|-35z|8i
+Vernier|CH||a7|3ke|gw|8d
+Vertientes|CU||36|1n2|-613|89
+Demiyivka|UA||98|3w0|2cs|84|Verkhnyolybidska Slobidka;Verkhiolybidska Slobidka;Verkhniolybidske Podviria;Verkhnyolybidske Podvirya;Nyzhnyolybidska Slobidka;Nyzhniolybidska Slobidka;Stalinka;Demiivka
+Verden|DE||8r|430|po|7h|Veern
+Vera Cruz|BR|Rio Grande do Sul|4w|-2ak|-41u|7f
+Veranópolis|BR||4w|-28e|-3z7|7d
+Vernon Hills|US||2f|39a|-6se|7b
+Vernon|FR|Normandy|9k|3sd|42|78
+Vrbas|RS||8q|3il|1ik|77|Óverbász;Verbász;Újverbász
+Verl|DE||8r|404|no|6o
+Vero Beach South|US||48|24q|-67d|6f
+Vertou|FR||9k|3n1|-43|6d|Gwerzhav
+Vereshchagino|RU||7z|4hc|47u|69|Veresjtsjagino;Bereshchagino;Bereshchangino
+Werder|DE|Brandenburg|8r|41i|zx|68|Verderis
+Vertentes|BR||4p|-ly|-2rz|64
+Verdun|FR||9k|3sk|ey|62|Ferdun;Virodunum;Verdenas;Verdena
+Beroun|CZ||9m|3us|133|61|Beraun;Verona
+Green Valley|US|Arizona|4i|2gh|-8kb|5y|Verda Valo
+Verena|ZA||o|-1ys|28n|5x
+Versmold|DE||8r|40k|mn|5u|Fersmele
+Werdau|DE||8r|3wy|ye|5p|Verdava
+Varadero|CU||36|1sc|-69o|5k|Varaderas;Veradero
+Vera|AR||1n|-29u|-4n9|5i
+Verukulambu|IN||6t|n2|5yp|5h
+Värnamo|SE||9w|4ev|130|5b|Vernamu
+Veresegyház|HU||8v|3od|1hm|51
+Veruela|PH||71|mf|9pw|51
+Veracruz|PA||4g|op|-656|4r
+Verneuil-sur-Seine|FR||9k|3s1|5g|4o
+Verrières-le-Buisson|FR||9k|3rf|6b|4o
+Vero Beach|US||48|24s|-67c|4k
+Vermoim|PT||99|36k|-nx|4e
+Verkhnodniprovsk|UA||98|3r6|2nd|4b|Verkhniodniprovsk
+Berja|ES||9d|2ud|-87|46|Berha;Vergis
+Verkhnya Telychka|UA||98|3w0|2cx|46|Verkhnia Telychka
+Rive-de-Gier|FR||9k|3ih|cu|45|Vèrs-de-Giér
+Bergara|ES||9d|3bs|-6q|43|Vergara
+Vera|ES||9d|2vg|-56|3w
+Verkhnedneprovskiy|RU||9i|48q|2kn|3v|Verkhnedneprovskij;Werchnedneprowski;Verhnedneprovski;Verjnedneprovski;Verhnedneprovskiy;Wierchniednieprowskij;Verchnedneprovskiy
+Verín|ES||9d|38i|-ko|3u
+Verona|US|New Jersey|48|35f|-5q8|3r
+Virovitica|HR||a6|3jb|1cb|3r|Verőce;Veröcze;Virovitisa
+Vera|BR||2k|-y7|-49o|3q
+Verwood|GB||9b|3xc|-57|3q
+Verona|US|Wisconsin|2f|3bf|-6wp|3h
+Võru|EE||9x|4gn|232|3g|Veri;Verava;Werro;Vıru;Wöru;Vyru;Verro;Veru
+Verkhniy Tagil|RU||7z|4fd|4mj|3g
+Verdun|ES||9d|374|62|3f
+Vermont South|AU||8j|-2x6|b7a|3c
+Vernouillet|FR|Centre-Val de Loire|9k|3rc|3t|3a
+Verde Village|US||4i|2of|-8n5|38
+Versoix|CH||a7|3kk|h4|37|Vèrsouèx
+Vernal|US||2p|34e|-8g9|34
+Vermilion-on-the-Lake|US||48|373|-6co|32
+Vermont|AU||8j|-2x4|b7b|32
+Verkhnyaya Sinyachikha|RU||7z|4h2|4rb|32|Verkhnjaja Sinjatsjikha
+Vermillion|US||2f|3au|-7h9|2z|Vermilion
+Vera Cruz|BR|Rio Grande do Norte|2w|-gs|-2qf|2z
+Verkhnyaya Tura|RU||7z|4i4|4m5|2y|Verkhnjaja Tura;Werchnjaja Tura;Vérjniaya Turá;Verkhniaïa Toura;Verchnjaja Tura;Verchnjaja Toera;Verxnyaya Tura;Verĥnjaja Tura;Wjerchnjaja Tura;Aukštutinė Tura
+Vernon|US|Texas|2f|2mw|-7nr|2y
+Vernier|FR||9k|3df|k6|2w
+Vermilion|US||48|372|-6cs|2w|Vermillion
+Verkhneural’sk|RU||7z|45o|4ki|2v|Verkhneuralsk
+Verkhivtseve|UA||98|3qo|2n4|2v|Werchiwzewe;Verjívtseve;Verhivtseve;Verchivcevė;Verhivțeve;Werchiwcewo
+Vera Cruz|BR|São Paulo|4w|-1pq|-3ue|2u
+Veradale|US||3p|3od|-91l|2s
+Vernouillet|FR|Île-de-France|9k|3s1|5i|2s
+Veyrier|CH||a7|3k9|h6|2q|Vêriér
+Verkhniye Achaluki|RU||9i|3cf|3g6|2m|Verkhnije Atsjaluki
+Verkhneyarkeyevo|RU||7z|4a1|46v|2m|Verkhnejarkejevo
+Verdejante|BR||4p|-m1|-309|2k
+Versailles|US|Kentucky|48|2xp|-6jd|2j
+Verano Brianza|IT||9o|3ix|pm|2i
+Verduron|FR||9k|3ch|ev|2g
+Verkhniy Baskunchak|RU||8o|3pz|3ls|2f|Werchni Baskuntschak;Verchnij Baskunčak;Verjni Baskunchak;Verhniy Baskunçak;Wierchnij Baskunczak;Verchniy Baskoentsjak;Verkhni Baskuntxak;Verhkniy Baskunchak;Verkhne Baskunchak;Verhniy Baskunchak
+Wieruszów|PL||a5|3yh|1eg|2f|Verušova
+Verneşti|RO|Buzău County|8u|3hm|229|2e
+Verkhotur’ye|RU||7z|4ji|4ox|2d|Verkhoturje
+Vráble|SK||8s|3q0|1ev|2c|Verebély
+Verdal|NO||9j|4x7|vw|2b
+Verkhniy Mamon|RU||9i|3vc|347|2b|Verkhnij Mamon;Verkhne Mamon
+Vert-Saint-Denis|FR||9k|3qx|7a|2b
+Vera Cruz do Oeste|BR||4w|-1xm|-45o|2a
+Vern-sur-Seiche|FR||9k|3ph|-4g|29|Gwern-ar-Sec'h;Gwern-ar-Sech;Vernum
+Verkhov’ye|RU||9i|42p|2vg|29|Verkhovje;Verkhove
+Verê|BR||4w|-1zw|-42z|27
+Verkhnyaya Khava|RU||9i|400|32y|27|Verkhnjaja Khava
+Werneuchen|DE||8r|427|125|26|Verneihene
+Verdelândia|BR||4w|-17b|-3d4|25
+Verdellino|IT||9o|3io|qp|24
+Vertente do Lério|BR||4p|-ll|-2rl|24
+Varshets|BG||9v|3bz|1sp|23|Vrshets;Vershets;Varshetz;Vŭrshets
+Verdello|IT||9o|3io|qr|22
+Verneuil-sur-Avre|FR||9k|3re|2l|20|Vernolium in Pertico
+Vereşti|RO||8u|3o8|21f|1z
+Verkhniye Kigi|RU||7z|49x|4is|1x|Verkhnije Kigi
+Verkhnedvinsk|BY||9g|4ay|25m|1w|Vyerkhnyadzvinsk;Drysa;Vierchniadzvinsk
+Verkhnebakanskiy|RU||9i|3gl|2wm|1v|Verkhnebakanskij;Verkhne Bakanskaya;Verkhniy Bakanskiy
+Verolanuova|IT||9o|3hx|s0|1v|Veralanuova
+Verbilki|RU||9i|4d1|2wg|1v
+Verna|IN||6t|16n|5pc|1u
+Verkhniye Sergi|RU||7z|4dd|4lg|1t|Verkhnije Sergi;Werchnije Sergi;Verchnije Sergi;Verhniye Sergi;Wierchnije Siergi;Verchnieje Sergi
+Vershino-Darasunskiy|RU||67|41h|8wx|1t|Versjino-Darasunskij
+Verkhneye Kazanishche|RU||9i|3aq|3my|1s|Verkhneje-Kazanisjtsje;Verkhniye Kazanishchi;Verkhniye Kazanishche
+La Verrière|FR||9k|3rf|5f|1s|Verrière
+Verkhnevilyuysk|RU||7x|4w9|9a7|1r|Verkhneviljujsk;Wercho Wiluisk
+Verkhniye Tatyshly|RU||7z|4cd|4b6|1r|Verkhnije Tatysjly
+Verstatobud|UA||98|3rg|2wf|1p
+Vereda|BR||20|-1bu|-33c|1o
+Veragua Arriba|DO||4v|1ie|-5fd|1n
+Viriat|FR||9k|3kh|ei|1n|Veriat
+Verkhovyna|UA||98|3ps|1wz|1m|Wierchowina;Verhovîna
+Vergiate|IT||9o|3j0|o6|1m|Verigate
+Vrbové|SK||8s|3r2|1d8|1k|Verbó;Vrbovje
+Verkh-Tula|RU||75|48g|6dy|1k|Verkhnyaya Tula
+Vernio|IT||9o|3ed|uz|1j
+Verkhniy Rohachyk|UA||98|3n9|2ne|1i|Verkhniï Rohatchyk
+Varazqān|IR||7o|2zg|3k3|1h|Verazqān;Varezqān;Verazgan;Varzaqān
+Verkhnye Vodyane|UA||98|3pc|1uk|1h|Verkhnie Vodiane;Felsőapsa;Vyšná Apša
+Verkh-Chebula|RU||74|4bn|6re|1g|Verkh-Tsjebula;Verkhne-Chebula
+Verkhovazh’ye|RU||9i|4or|38t|1g|Verkhovazje
+Veredinha|BR||4w|-1cc|-3aq|1g
+Verkh-Neyvinskiy|RU||7z|4f3|4n2|1g|Verkhne-Neyvinskiy
+Lakkha Nëvre|RU||9i|3d5|3hp|1e|Verkhniy Naur;Verkhnij Naur;Verxnii Naur
+Verzuolo|IT||9o|3fv|ks|1d
+Vërtop|AL||9y|34v|1jp|1d
+Vereya|RU|Moscow Oblast|9i|49q|2sh|1d|Vereja
+Vermelho Novo|BR||4w|-1jo|-39f|1d|Vermelhos Novo
+Verkhoshizhem’ye|RU||97|4h5|3sf|1c|Verkhosjizjemje
+Vimy|FR||9k|3vx|7t|1c|Vermy
+Vertova|IT||9o|3j9|rd|1b
+Vergato|IT||9o|3f0|uv|1b
+Verkhneye Dubrovo|RU||7z|4do|4pl|1a|Verkhneje Dubrovo
+Vermelles|FR||9k|3w9|7n|1a
+Vergel|ES||9d|2zx|1|19|El Verger
+Verin Getashen|AM||80|33h|3hp|19
+Vershina Tei|RU||6u|43z|6ws|18
+Verkhniy Lomov|RU||9i|44j|3cz|18
+Verdigris|US||2f|2sn|-7dt|18
+Verkhniy Uslon|RU||9i|4ax|3s2|17|Verkhnij Uslon;Yugarı Oslan
+Verneuil-en-Halatte|FR||9k|3sw|70|17
+Verona|US|Virginia|48|2y4|-63h|16
+Vernaison|FR||9k|3it|dd|16
+San Fermo della Battaglia|IT||9o|3j9|p5|16|Vergosia;San Fermo
+Vermilion|CA||2s|447|-8jy|15
+Verkhnyaya Balkariya|RU||9i|3bt|3cq|15|Verkhnjaja Balkaria
+Verchères|CA||59|3j6|-5nr|14
+Verin Artashat|AM||80|334|3fv|14
+Verpelét|HU||8v|3ox|1k7|14
+Verhunskyi Rozyizd|UA||98|3r4|31g|14|Verhunskyi Rozizd
+Vergèze|FR||9k|3di|bq|14
+Vereya|RU|Moscow Oblast|9i|4ah|2xo|13
+Vertemate Con Minoprio|IT||9o|3j1|p7|13
+Vertiyivka|UA||98|3y5|2gi|12|Vertiivka;Verkiyevka;Verteyevka;Vertiyevka
+Verkhnyaya Maksakovka|RU||9i|4r8|3xl|12|Verkhnyaya Maksatovka
+Verbky|UA|Dnipropetrovsk|98|3qz|2rq|12|Verbki
+Vergara|UY||45|-2ji|-45u|12
+Verkhnyaya Toyma|RU||9i|4sw|3h0|12|Verkhnjaja Tojma
+Verson|FR||9k|3sj|-1a|12
+Verenchanka|UA||98|3qv|1zi|11|Vrânceni;Werenczanka;Verentsjanka;Werentschanka;Verençanka
+Vermezzo|IT||9o|3i4|oy|11|Vermetium;Vermezz
+Bera|ES||9d|3c8|-4p|11|Vera de Bidasoa;Vera
+Verkhnya Syrovatka|UA||98|3x7|2p4|11|Verkhnia Syrovatka;Verkhnyaya Syrovatka
+Verkhnyachka|UA||98|3rn|2bg|10|Verkhniatchka
+Verkhnyaya Tishanka|RU||9i|3yk|34l|10|Verkhnjaja Tisjanka
+Verlaine|BE||8t|3wl|es|10
+Verneuil-sur-Vienne|FR||9k|3jd|35|10
+Gandzakar|AM||80|35g|3hg|10|Verin Aghdan;Aghdan;Qandzakar;Gandzaqar;Verin Aghtan;Verin Aghdam
+Verkhnie Synevydne|UA||98|3se|1tj|10|Verkhneye Sinevodnoye;Verkhnye Syn’ovydne;Verkhneye Sinevidnoye;Verkhnye Syn’ovyone
+Versalles|CO||27|cp|-5vo|z
+Verbivka|UA|Kharkiv|98|3th|2ub|z|Verbovka
+Verolavecchia|IT||9o|3hx|rx|z
+Verguleasa|RO||8u|3g1|1vk|y
+Verberie|FR||9k|3sz|7l|y
+Veríssimo|BR||4w|-1im|-3q7|y
+Verbivka|UA|Kharkiv|98|3ta|2qp|y|Verbovka
+Verőce|HU||8v|3ou|1gv|y
+Ashotsk|AM||80|360|3du|x|Verin Ghukasyan;Kyzylkhach;Kyzylkoch
+Verdun-sur-Garonne|FR||9k|3dt|3f|x|Verdun de Garona
+Véretz|FR||9k|3nk|29|w
+Vera Mendes|BR||2w|-l4|-378|w
+Verquin|FR||9k|3wa|7c|w
+Verkhniy Kurkuzhin|RU||9i|3de|3c7|v
+Verona|US|Mississippi|2f|2mz|-6ug|v
+Veräjämäki|FI||92|4nb|1xd|u|Grindbacka
+Verbicaro|IT||9o|32g|187|t
+Vervins|FR||9k|3ug|av|s
+Verfeil|FR||9k|3da|4m|s
+Verkhnotoretske|UA||98|3py|2x7|s|Verkhnetoretskoye;Verkhn’otorets’ke
+Vernole|IT||9o|33x|1eu|s
+Vercurago|IT||9o|3j9|q6|s
+Vértesszőlős|HU||8v|3oa|1f2|r|Vértesszőllős
+Vernou-la-Celle-sur-Seine|FR||9k|3qf|7x|r
+Verderio Inferiore|IT||9o|3iv|q7|r
+Versailles|US|Ohio|48|33q|-6io|q|Verseilles;Versailes
+Vergennes|US||48|3ep|-5nh|q|Vergeens
+Vertus|FR||9k|3rv|b4|q
+Verkhniy Avzyan|RU||7z|44p|4fu|q|Verkhnij Avzian;Verkhne-Avzyan;Verkhniy Avzyah
+Verkh-Suyetka|RU||63|442|66d|q|Verkh-Suetka
+Verolengo|IT||9o|3hj|m5|q
+Verkh-Usugli|RU||67|42e|8vx|q
+Vert-le-Petit|FR||9k|3qv|6l|q
+Verkeerdevlei|ZA||o|-283|22e|q
+Vernou-sur-Brenne|FR||9k|3nq|2d|p
+Verderio Superiore|IT||9o|3iv|q8|p
+Verres|IT||9o|3iv|ld|p
+Verona|US|Pennsylvania|48|34j|-65s|o
+Versailles|US|Missouri|2f|2yr|-75w|o
+Verkhnechusovskiye Gorodki|RU||7z|4hl|4en|o|Verkhnetsjusovskije Gorodki
+Verlinghem|FR||9k|3ws|8c|o
+Veroli|IT||9o|37t|11a|o
+Vertaizon|FR||9k|3j5|95|o
+Frelinghien|FR||9k|3ww|85|o|Verlegem
+Veringenstadt|DE||8r|3pv|pl|n
+Verkhnosadove|UA||9t|3g5|2lm|n|Verkhnyosadove
+Vârciorog|RO||8u|3mh|1py|n|Vércsorog;Vîrciorog
+Veyrier-du-Lac|FR||9k|3jg|h6|n|Vêriér;Veyrier
+Vergara|CO||27|e8|-5qj|n
+Verkhni Vorota|UA||98|3rf|1sa|n|Verkhniye Vorota
+El Vergel|MX|Durango|44|1z8|-7zk|n|Vergel
+Verapaz|MX||41|17n|-73q|m
+Verishen|AM||80|31t|3ko|m
+Verdun|MU||ag|-1k7|4fv|m
+Verton|FR||9k|3w0|4l|m
+Vernet|FR||9k|3cn|3y|m
+Vernonia|US||3p|3je|-9i7|l
+Verniolle|FR||9k|3bo|4l|l
+Vrgorac|HR||a6|3c1|1c9|l|Vergoraz
+Versailles|US|Indiana|38|30j|-6kt|l
+Vern-d'Anjou|FR||9k|3o8|-2b|l
+Vertrijk|BE||8t|3x7|df|l|Vertryck
+Vergína|GR||8p|34h|1q0|k|Æges;Verghina;Veryína
+Veriatsia|UA||98|3pt|1sc|k|Veryatsya;Veryatsa
+Verendin|RO||8u|3h8|1ps|k
+Vert-le-Grand|FR||9k|3qx|6k|k
+Verrebroek|BE||8t|3ye|bn|k
+Verkhniy Landekh|RU||9i|4dw|3ac|k
+Veřovice|CZ||9m|3tm|1eb|k
+Vernantes|FR||9k|3nn|5|k
+Verbier|CH||a7|3k2|k3|k
+Verblyany|UA||98|3v1|1t2|k|Wierzbiany;Verbyany
+Verkh-Katunskoye|RU||63|41p|6lb|k|Verkhne-Katunskoye;Verkh-Katunskoje;Verkhneye Katunskoye
+Versonnex|FR||9k|3jl|gh|k
+Veromies|FI||92|4ni|1xc|k|Skattmans
+Verkhnyaya Inta|RU||9i|53a|4nj|k|Verkhnjaja Inta;Werchnjaja Inta;Verhnjaja Inta;Verchnjaja Inta;Verhnâya İnta;Wierchniaja Inta
+Vereya|RU|Moscow Oblast|9i|4ax|30m|k|Vereja
+Vermești|RO||8u|3ky|21k|k|Verneşti
+Verin Dvin|AM||80|336|3fv|j|Verkhniy Dvin;Werin Dwin
+Vernon|US|Alabama|2f|2ls|-6sr|j
+Verd|SI||9a|3jo|13r|j|Werd
+Verkhnetulomskiy|RU||9i|5al|2gc|j|Verkhnetulomskij;Ylä-Tuuloma
+Vernoux-en-Vivarais|FR||9k|3gq|cx|j|Vernoux-d'Ardèche
+Vermiglio|IT||9o|3km|tp|j
+Verny|FR||9k|3s5|h8|i
+Verzino|IT||9o|317|1au|i
+Verona Walk|US||48|20g|-6aw|i
+Vernosc-lès-Annonay|FR||9k|3hm|d3|i|Vernòsc;Vernosc lès Annonay
+Vergongheon|FR||9k|3i1|98|i|Vergonjon
+Verkhozim|RU||9i|42f|3i6|i
+Verrières|FR|Grand Est|9k|3pz|bj|i
+Verkhni Stanivtsi|UA||98|3q5|1z3|i|Stăneștii de Sus;Oberstanestie am Czeremosch
+Verplanck|US||48|36l|-5pg|h
+Véron|FR||9k|3pp|97|h
+Vernon Center|US||48|36f|-5qy|h
+Veresayevo|UA||9t|3hv|2l2|h
+Vermeş|RO|Caraș-Severin County|8u|3ig|1o6|h|Vermus
+Vers-Pont-du-Gard|FR||9k|3e5|cl|h|Vèrç
+Vérines|FR||9k|3kb|-2p|h
+Veere|NL||8m|3z7|a7|g|Vere
+Vershino-Shakhtaminskiy|RU||67|3yi|93h|g|Versjino-Sjakhtaminskij;Verchin-Shakhtaminskiy
+Vernon Valley|US||48|36k|-5qx|g|Vernon
+Vergt|FR||9k|3h3|20|g|Lo Vern de Salon;Vern
+Vernayaz|CH||a7|3k6|jk|g
+Verkhni Petrivtsi|UA||98|3pj|1ze|g|Pătrăuții de Sus
+Vergnasco|IT||9o|3id|mh|g
+Verbiţa|RO||8u|3f2|1sd|g
+Vrbanja|HR||a6|3gy|1gl|g|Verbanya;Vrbanje
+Vergigny|FR||9k|3p9|ac|g
+Warga|NL||8m|43n|g8|g|Wergea;Vergea
+Roșia Montană|RO||8u|3kn|1s9|g|Verespatak
+Verkhnia Krynytsia|UA||98|3nw|2q0|f|Verkhnya Krynytsya
+Verkhnia Bilka|UA||98|3ue|1vi|f|Verkhnya Bilka
+Versailles|US|Pennsylvania|48|340|-65r|f
+Vernet-les-Bains|FR||9k|3a7|6n|f|Vernet
+Verrua Savoia|IT||9o|3hg|mh|f
+Verin Karmiraghbyur|AM||80|35k|3i8|f|Verin-Karmiraxpyur;Verin Karmiraxpür;Verin Kizilbulag;Verkhniy Karmragbyur;Verin Karmir aghbyur;Verin Karmirakhpyur
+Verona|US|Kentucky|48|2zu|-6j6|f
+Verkhnia Vyznytsia|UA||98|3qu|1r7|e|Verkhnya Vyznytsya
+Verdi|US||3p|31s|-99b|e
+Verea|ES||9d|38z|-m8|e
+Verkhoyansk|RU||7w|57n|aaj|e|Wierchojańsk;Werchojansk;Verĥojansk;Verkhoïansk;Verkhojansk;Verchojanskas;Verchojansk
+Veronella|IT||9o|3hw|vh|e
+Ver-sur-Mer|FR||9k|3t1|-1h|e
+Grinddal|FI||92|4nb|1xe|e|Veräjälaakso
+Verkhnii Koropets|UA||98|3qj|1rb|e|Verkhniy Koropets’;Verkhniy Koropets
+Verdikoússa|GR||8p|32i|1p2|e|Verdhikoússa;Verdhikoúsa
+Vercel-Villedieu-le-Camp|FR||9k|3n2|hs|d
+Vernègues|FR||9k|3dd|ed|d|Lo Vernegue
+Abovyan|AM|Ararat|80|339|3fr|d|Verin Agbash
+Věrovany|CZ||9m|3te|1c1|d
+Verrua Po|IT||9o|3hb|pi|d
+Vernoil-le-Fourrier|FR||9k|3nn|8|d|Vernoil
+Verhulivka|UA||98|3qg|2yx|d|Vergulëvka
+Vermenton|FR||9k|3oe|ae|d
+Verkhnii Bystryi|UA||98|3r3|1tc|c|Verkhniy Bystryy
+Verbove|UA||98|3nr|2rz|c|Werbowe;Verbovoye
+Verșeni|RO||8u|3mv|220|c
+Verdun-sur-le-Doubs|FR||9k|3ma|dy|c
+Verbovets|UA||98|3pt|1rm|c
+Verkhniy Yasenov|UA||98|3ps|1xb|c
+Verkhniy Bekhtemir|RU||63|42l|6mn|c|Verkh-Bekhtemir;Verkhniy Bakhtemir
+Vermilion Bay|CA||5d|3ui|-77f|c
+El Vergel|MX|Chiapas|41|1a2|-73s|c|Vergel
+Vernashen|AM||80|32j|3i0|c|Wernaschen;Vernašena;Wernaszen;Vernaşen
+Lavertezzo|CH||a7|3ki|ok|c|Vertezz
+Verrone|IT||9o|3if|mk|c
+Verges|ES||9d|38u|8h|c
+Verkhniye Kayrakty|KZ||5s|3r8|5nk|c|Joğarğy Qairaqty
+Vernon|US|New York|48|3bo|-5tu|c
+Vertheuil|FR||9k|3hp|-2b|c
+Verchnia Rozhanka|UA||98|3ri|1tc|b|Verkhnya Rozhanka;Verkhnyaya Rozhanka
+Verkhorechye|UA||9t|3g6|2mf|b
+Verkhnyaya Sysert’|RU||7z|4cs|4os|b|Verkhnjaja Sysert
+Zemo Gulripshi|GE||7n|3bb|36a|b|Verkhniy Gul’ripsh;Zemo-Gul’ripshi
+Ver-sur-Launette|FR||9k|3se|7g|b|Ver sur Launette;Vern;Ver
+Verkhniy Fiagdon|RU||9i|3az|3f3|b|Verkhnij Fiagdon
+Verzenay|FR||9k|3sk|bj|b
+Vermand|FR||9k|3uk|8r|b
+Vernante|IT||9o|3ew|kx|b|Vernant
+Verceia|IT||9o|3kc|q9|b
+Vergano-Villa|IT||9o|3j7|q1|b
+Verneřice|CZ||9m|3wq|13q|b
+Vert-en-Drouais|FR||9k|3rg|3l|b
+Vernioz|FR||9k|3i7|dk|b
+Verin Ptghni|AM||80|33s|3ft|b|Verin Ptxni
+Verzy|FR||9k|3sj|bk|b
+Veracruz|MX|Chiapas|41|19k|-73k|b
+Verdú|ES||9d|37l|36|b
+Veracruz|HN||56|15g|-6um|a
+Verbivka|UA|Ivano-Frankivsk|98|3ru|1ve|a|Verbovka
+Verșești|RO||8u|3l1|226|a
+Verkhniye Osel’ki|RU||9i|4nd|2cl|a|Ylä Osselki
+Veruno|IT||9o|3ix|np|a
+Verscio|CH||a7|3ka|o9|a|Versc
+Verkh-Obskiy|RU||63|41m|6k6|a|Verkh-Obskoy
+Verchain-Maugré|FR||9k|3vn|9o|a
+Veremiivka|UA||98|3tw|2kd|a|Veremiyivka;Yeremeivka
+Verkhnii Tokmak|UA||98|3n4|2t1|a|Verkhniy Tokmak;Verkhne-Tokmak
+Verkhnyaya Ivolga|RU||6k|3zr|89s|a|Verkhnjaja Ivolga
+Weppersdorf|AT||a2|3o6|19n|a|Veperd;Verpštof;Wepperschduaf;Veprštof
+Verdalle|FR||9k|3cv|60|a
+Verucchio|IT||9o|3e6|yi|9
+Verruyes|FR||9k|3l8|-t|9
+Zorakan|AM||80|36i|3gu|9|Verin Kyurplu;Kyorpili;Korplu;Kyorplu
+Verbiazh|UA||98|3rk|1sa|9|Verbyash;Verbyazh
+Veržej|SI||9a|3le|18w|9
+Keti|AM||80|35j|3dt|9|Qeti;Verin Getik
+Vermeș|RO|Bistrița-Năsăud County|8u|3mk|1vk|9|Vermiș
+Virbalis|LT||a3|47r|1re|9|Virbale;Vėrbalis;Wierzbołów;Wierzbowo;Wierzbołowo
+Verano - Voeran|IT||9o|3lg|v7|9
+Vermont|US|Wisconsin|2f|3bn|-6xf|9
+Verdelais|FR||9k|3fv|-p|9
+Veracruz|MX|Durango|44|1uq|-80o|9
+Verona|US|New York|48|3bu|-5tx|9
+La Verdière|FR||9k|3d8|gh|8|La Verdièra;Verdière
+Verrières|FR|New Aquitaine|9k|3kx|1n|8
+Verquières|FR||9k|3ds|do|8
+Vergeroux|FR||9k|3jp|-2q|8
+Veresk|IR||7o|2rq|437|8
+Verderel-lès-Sauqueuse|FR||9k|3ti|5u|8
+Verdea|RO|Vrancea|8u|3jt|22p|8
+Verneuil|FR||9k|3se|a7|8
+Verkhneblagoveshchenskoye|RU||7x|3vp|9tw|8|Verkhne-Blagoveshchenskiy;Verkhne-Blagoveshchenskoye
+Verla|IT||9o|3k8|uz|8
+Vers-sur-Selles|FR||9k|3uf|67|8|Vers-sur-Selle
+Vert|FR||9k|3ry|4p|8
+Vérac|FR||9k|3gz|-y|8
+Verdía|MX||41|1k0|-7zj|8
+Verkhnia Lanna|UA||98|3t9|2q1|8|Verkhne-Lannaya;Verkhnya Lanna
+Verrierdale|AU||8c|-21k|bt0|8
+Vermontville|US||2q|3af|-6k6|8
+Verkhniy Studenyi|UA||98|3rd|1sw|8|Felsőhidegpatak;Hidegpatak
+Vernon|US|Michigan|2q|3ba|-6hf|8
+Verkhnyaya Kutuzovka|UA||9t|3g8|2nh|8|Šuma
+Veracrucito|MX||41|1gd|-7jo|7
+Vernet-la-Varenne|FR||9k|3ib|9l|7|Lo Vernet;Lo Vernet de la Varena;Vernet
+Vershatsi|UA||98|3s5|2il|7|Vershats;Vershetsi
+Verteuil-sur-Charente|FR||9k|3jq|n|7
+Verbivtsi|UA||98|3qp|200|7|Verbăuți
+Verměřovice|CZ||9m|3ux|1a0|7
+Vercana|IT||9o|3k8|py|7
+Vrlika|HR||a6|3dz|19k|7|Verchrecha
+Verdelot|FR||9k|3rs|9d|7
+Vérin|FR||9k|3i9|d7|7
+Vereshchaki|RU||9i|42h|2fy|7|Veresjtsjaki
+Verteillac|FR||9k|3hz|11|7|Vertelhac
+Voskepar|AM||80|362|3h6|7|Aksibara;Aghzibara;Haykakan Aksibara;Verin Aksibara;Aksipara;Voskepat;Akhsibara
+Verdea|RO|Vâlcea County|8u|3g5|1vb|7
+Verin Tsaghkavan|AM||80|35q|3hx|7|Tsaghkavan;Veligegh;Veli;Tsaxkavan;Saxkavan;Verin Caxkavan;Veli gyugh
+Vérgi|GR||8p|35r|1t0|7|Véryi
+Verrières-en-Forez|FR||9k|3il|b4|7
+Verdunville|US||48|2x4|-6by|7
+Vernajoul|FR||9k|3bf|4h|7
+Vernon|US|Florida|2f|2d2|-6m3|7
+Vernoux-en-Gâtine|FR||9k|3lk|-1f|7
+Verna|IT||9o|3cf|y0|7
+Vernești|RO|Arges|8u|3hk|1wd|7
+Verneil-le-Chétif|FR||9k|3ol|t|7
+Vrbica|RS||8q|3jt|1kf|7|Verbicza
+Vertolaye|FR||9k|3it|ab|7
+Vermont|US|Illinois|2f|33x|-6z7|6
+Verzé|FR||9k|3ku|d6|6
+Vergéal|FR||9k|3pg|-3j|6|Gwerial
+Verkhnia Krasnianka|UA||98|3q3|31r|6|Verkhnya Krasnyanka;Verkhnyaya Krasnyanka
+Verbicioara|RO||8u|3f0|1sf|6
+Vernéville|FR||9k|3sj|go|6
+Vermont|VC||54|10o|-4q2|6
+Verkhnekurgannoye|UA||9t|3h9|2n4|6
+Verrens|FR||9k|3iu|hk|6
+Verkhovyna-Bystra|UA||98|3s5|1ra|6
+Verkhnetemernitzkiy|RU||9i|3nf|32e|6
+Verchaix|FR||9k|3k2|ik|6
+Vernon|FR|New Aquitaine|9k|3l0|1c|6
+Verona|US|Missouri|2f|2uo|-78k|6
+Vérargues|FR||9k|3dg|be|6
+Véranne|FR||9k|3i1|cy|6
+Varımlı|TR||94|2vb|387|6|Verimli
+Verneix|FR||9k|3kw|7f|6
+Verkhnia Manuilivka|UA||98|3t3|2lp|6|Verkhnyaya Manuylovka;Verkhnya Maynuylivka;Verkhnia Mainuilivka
+Virolyubivka|UA||98|3r1|2ws|6|Viroliubivka;Verolyubovka
+Verndale|US||2f|3kw|-7bx|6
+Vers|FR||9k|3k1|gr|6
+Vergaville|FR||9k|3ro|ir|6
+Verkh-Uymon|RU||63|3vh|6m6|6|Verkh.Ujmon
+Verkhniy Uymon|RU||63|3vh|6m6|6
+Verhuny|UA||98|3ui|2kn|6|Verguny
+Verkhy|UA||98|3yy|1xq|6|Verkhi
+Verosvres|FR||9k|3kw|cb|6
+Verbky|UA|Poltava|98|3tf|2kb|6|Verbki
+Vernons|AG||1j|1bh|-4rl|6|Vurnin
+Verkhnia Krynka|UA||98|3ps|2xz|6|Verkhnya Krynka;Verkhnyaya Krynka
+Verkh-Marushka|RU||63|430|6lv|6
+Bernadets|FR||9k|3ci|-t|6|Vernadèths
+Veredas|MX||41|1ka|-7ux|6
+Vergel de Guadalupe|MX||41|1nl|-7rn|6
+Verona|US|Maine|48|3ft|-5b3|6
+Verderonne|FR||9k|3t1|6y|6
+Verdigre|US||2f|3ac|-7kb|6|Verdigris
+Vernham Dean|GB||9b|3yj|-47|6|Vernhams Dean
+Veriora|EE||9x|4h4|23z|5
+Vrhpolje|SI||9a|3je|12s|5|Verpogliano;Oberfeld bei Wippach
+Verneuil-sur-Indre|FR||9k|3mq|2w|5
+Vernou-en-Sologne|FR||9k|3ny|4o|5|Vernou-de-Sologne
+Itéa|GR|West Macedonia|8p|35g|1nr|5|Itia;Vyrmpeni;Vërbeni;Vírbeni
+Verchocq|FR||9k|3wg|5o|5
+Verden|US||2f|2pg|-7kh|5
+Vertain|FR||9k|3vh|9s|5
+Vereshitsa|UA||98|3uv|1tn|5|Vereshnitsa
+Vézelay|FR||9k|3nv|af|5|Vezeliacus;Verzelai
+Vergnies|BE||8t|3vg|by|5
+Verje|SI||9a|3k7|142|5
+Verjux|FR||9k|3m8|ds|5
+Vernasca|IT||9o|3gg|rb|5
+Vertrieu|FR||9k|3jg|ew|5
+Vernazza|IT||9o|3em|qw|5|Vernassa

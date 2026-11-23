@@ -1,0 +1,106 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Qo‘qon|UZ||7m|34l|5h2|205|Kokand;Kokandas;Qŭqon
+Coquimbo|CL||4u|-2b7|-5i6|18t|Kokimbas;Kukimpu
+Kokshetau|KZ||5s|440|5cr|15u|Kökschetau;Kokchetaou;Kökşetaw;Kokčetau;Kokxetau;Koksetau;Kekšetau;Koksjetau;Koʻkshetau;Kokczetaw;Köshetaū;Kokchetau;Kokchetav;Kokchetar
+Kokubunji|JP||7q|2r6|arg|zw|Kokubunĝi;Kokubundžis;Kokubunzi-chhī
+Kōka|JP||7q|2p6|ai8|ow
+Kokstad|ZA||o|-2cv|29q|h6
+Kokomo|US||38|34h|-6n9|g4
+Kokubu-matsuki|JP||7q|2g5|a39|g3
+Kolokani|ML||5|11p|-mb|dk|Kokolani
+Kokkola|FI||92|4xc|1s9|dg|Gamlakarleby;Carolina Vetus;Karleby;Kokola;Kokkol;Gamla-Karlabyu
+Kohtla-Järve|EE||9x|4l0|23r|9u|Kohtla-Järvi;Kohtla Jervė;Kohtla-Jerve;Kohtla-Yarve;Kokhtla-Yarve
+Kokrajhar|IN||6t|21c|6yr|9h
+Kokhma|RU||9i|4e5|365|82|Kochma;Koxma;Koĥma
+Kokopo|PG||bd|-c2|bqz|7b|Herbertshöhe
+Kokologo|BF||1a|xv|-58|78|Kokolgho
+Hŭkkyo-ri|KP||7a|2zs|9pf|72|Kokkyō-ri
+Koksijde|BE||8t|3y0|7c|64|Coxyde;Koksijdo;Koksyde
+Kokyar|CN||7t|2ua|6ar|56
+Kokōtamangalam South|IN||6t|qw|5w4|4q
+Kokofata|ML||5|zs|-rn|3m
+Koksan-ŭp|KP||7a|2zq|9rv|3l|Koksan;Goksan-eup
+Kokoumbo|CI||0|i6|-em|2x|Kolumbo;Kokumbo
+Kokoszki|PL||a5|470|1fd|2u
+Ban Ko Kaeo|TH||62|m2|7lc|2t|Ko Kaeo;Ban Khok Kaeo;Ban Kok Kew
+Kokoshkino|RU||9i|4ag|2v9|2q
+Kokhav Ya’ir|IL||6n|2hj|2p8|2f
+Koksovyy|RU||9i|3pw|34w|2d|Koksovyj
+Kokdala|CN||7t|3dm|70m|2c|Kekedala
+Kokhav Ya‘aqov|PS||6n|2gk|2pw|2a|Kokhav Ya'akov
+Kokuy|RU||67|411|92j|26|Kokuj;Nokuy;Koduy;Kokur
+Kokemäki|FI||92|4q6|1q4|1v|Kumo
+Kokernag|IN||6t|2la|5t8|1u|Kokarnag;Kukernag;Kukarnag
+Kokoda|PG||bd|-oo|bee|1q
+Kokolopozo|CI||0|ea|-gw|1p
+Kauklahti|FI||92|4n7|1wc|1p|Köklax
+Kokpekty|KZ||5s|3rf|6cw|1g|Kökpektı
+Koktokay|CN||7t|3n6|6xi|1f|Kök Toqay;Kok-togoy
+Koki|KM||ac|-xt|3fg|1d
+Kokkinotrimithiá|CY||73|2pn|2k8|1c|Kokıno Trımıthıa;Kokkinotrimitya;Kokkini Trimithia
+Koghb|AM||80|36e|3gy|1a|Koxb;Kulbi;Kuln;Kulpi;Kochb;Kokhb
+Kokino|RU||9i|41u|2om|1a|Kokina
+Kóka|HU||8v|3nx|1ie|18
+Ternovo|UA||98|3pk|1ty|17|Kökényes;Ternove
+Kokhanovo|BY||9g|47a|2bc|17|Kokhanava
+Kokrek|RU||9i|3c4|3lt|16
+Kokor|KH||78|x6|84p|16
+Cocieri|MD||8x|3ne|28w|16|Kokieri
+Koksilah|CA||5b|3rh|-9jk|14
+Kokolilié|CI||0|fi|-g3|13
+Cockburn Town|TC||2z|1nm|-5hm|11|Kokburno;Kobern Taunas
+Kokpekty|KZ|Abai Region|5s|3rg|6cv|11|Kökpekti
+Koktobe|KZ||5s|3z5|5z7|10
+Plataiés|GR||8p|2y5|1sn|10|Plateés;Plataje;Koklati;Plataeae;Plataiaí
+Kokoun|CI||0|qd|-jk|z|Kokoum
+Kohila|EE||9x|4kd|1ws|y|Kokhila
+Kokaha|CI||0|qs|-fy|x
+Kokpa|CI||0|fr|-e0|x
+Koknese|LV||9n|4dd|1yo|t|Kokenhusen;Kokenhuza;Koaknese
+Ko Kood|TH||62|we|7wu|t|Koh Kood;Koh Kut;Ko Kut
+Koktebel|UA||9t|3gw|2px|s|Planers’ke;Köktöbel;Planerskoye
+Kokonou|CI||0|jt|-a2|r
+Kokoumba|CI||0|m5|-ca|p|Kotumba;Kokumba;Kotoumba
+Kokorevka|RU||9i|423|2n8|o
+Kokterek|KZ||5s|3a1|5f5|o
+Kokialo|CI||0|m9|-kl|m
+Kokhav HaShaẖar|IL||6n|2gs|2q7|l|Kochav ha-Šachar;Kochav HaShahar;Kochav HaShachar
+Kokou|CI||0|e8|-em|l
+Coca|ES||9d|36i|-ck|k|Kokao;Cauca
+Cetatea de Baltă|RO||8u|3kh|1v5|k|Kümelburg;Kokelburg;Küküllővár;Cuculia
+Kokkíni Cháni|GR||8p|2q5|1y6|i
+Kokrica|SI||9a|3kj|13w|g|Kokritz
+Koko|NG||u|io|7r|g
+Porumbești|RO||8u|3pa|1ru|g|Kökényesd
+Kokkinóchoma|GR||8p|35p|1vj|f|Kokkinókhoma
+Kokwo|CI||0|pc|-fi|f|Koko;Kwokwo
+Kokoflé|CI||0|lo|-fw|f
+Koktal|KZ||5s|3tx|5o8|e
+Kokotów|PL||a5|3ux|1js|e
+Kokouna|CI||0|mt|-g1|d
+Sokolyne|UA||9t|3fr|2mc|d|Kokkozy;Kökköz
+Kokouezo|CI||0|hc|-gj|c
+Köksalan|TR||94|2vk|2vg|b
+Köklüce|TR|Gaziantep|94|2w3|2wi|b
+Kokory|CZ||9m|3th|1ca|b|Kokor
+Köklüce|TR|Adana|94|2um|2qe|b
+Kokkónion|GR||8p|2xh|1ra|b|Kokkoni;Kokóni
+Kokhav Michael Sobell|IL||6n|2fv|2ob|b|Kokhav Mikha’él Sobell;Kokhav Mikha‘él;Kokhav Michael
+Kökez|TR||94|2we|2q1|a
+Koklo Kouassikro|CI||0|ki|-dp|a
+Gökçe|TR|Samsun|94|36d|2td|9|Kökçe
+Kokkári|GR||8p|2wy|22p|9|Kokari
+Kokossou|CI||0|kd|-a6|9
+Kokorénou|CI||0|kz|-ed|9
+Kokshi|RU||63|41i|6lm|9|Koksji
+Koko|CI||0|em|-c7|8
+Cockburn Town|BS||47|1ut|-5r1|8|Kokburn Shahri;Kota Cockburn;Bandar Cockburn;Pueblo Cockburn;Ville de Cockburn;Kutha Cockburn;Cidade de Cockburn
+Illinka|UA|Crimea|9t|3i1|2lu|8|Kökej
+Kókkinon|GR||8p|2yw|1sk|7
+Kopingué|CI||0|ov|-8u|7|Kokpingué
+Kokhanivka|UA||98|3o9|2be|6|Kokhanovka
+Kokoyakro|CI||0|ld|-9p|6
+Kokotikro|CI||0|m4|-f1|6
+Kokkínion|GR||8p|321|1j2|6|Kokkini
+Kokkinopilós|GR||8p|33e|1pt|5|Kokkinoplós;Kokkinopolós

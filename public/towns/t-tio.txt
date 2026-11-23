@@ -1,0 +1,40 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Changzhi|CN|Shanxi|7i|2si|8q7|9dh|Čchang-č;Ĉanĝi;Čangdži;Trường Trị;Diòng-dê;Tiông-tī-chhī;Chang-chi;Ch’ang-chih
+Zhongwei|CN||7i|2w7|847|92a|Dṳ̆ng-ôi;Čung-wej;Trung Vệ;Tiong-oē-chhī;Chung-wei
+Jiujiang|CN||7i|2ai|8y8|8zf|Ciuciang;Ťiou-ťiang;Cửu Giang;Chiu-chiang;Kiukiang
+Tyumen|RU||7z|4er|521|5xg|Tjumen;Tioumen;Tiumén;Tjumen';Tjoemen;Tümen;Tyoumen;Tjumenj;Tjumeno;Tumenum;Tiumenė;Tjumeņa
+Jiuquan|CN||7i|32e|7lo|3az|Tửu Tuyền;Ciū-ciòng;Ťiou-čchüan;Chiú-choân-chhī
+Tirana|AL||9y|36t|1j2|389|Tiranë;Tirano;Tiran;Tiorána;Theranda;Tiran-a;Tėrana
+Timbuktu|ML||5|1al|-8d|ne|Timbuctú;Tombuctú;Tombouctou;Timboektoe;Timbouctou;Timboctó;Tonbuktu;Tombutum;Tiombuctu;Tombuktu;Tumutu;Timbuctoo;Tombutu;Timboctú
+Tønsberg|NO||9j|4kn|sx|fe|Tionsbergas
+Tiom|ID||6m|-aw|aol|5x
+Tiong Bahru Estate|SG||7j|3k|80f|47
+Tionk Essil|SN||g|zj|-19w|2c
+Tyonlé|CI||0|jm|-lb|1y|Tionlé
+Tipperary|IE||8z|41r|-mo|1e|Tiobraid Árann;Tipperaria;Tiperaris
+Tioroniaradougou|CI||0|pz|-fo|1d|Tiorhoniarhadougou;Tioroniandougou;Tiorhoniarandougou;Tioronianrandougou;Tiorhoniaradougou;Tyoronyaradougou
+Tianeti|GE||7n|38z|3gx|z|T'ianet'i;Tianety;Tioneti
+Tioumoukro|CI||0|j6|-cb|y
+Tione di Trento|IT||9o|3jw|tt|x|Thionum;Tió
+Tio Hugo|BR||4w|-27e|-424|x
+Tiorotiérie|CI||0|s1|-h9|t|Tiorotiéri;Torotiéri
+Tyongofolokaha|CI||0|qr|-f3|p|Tiongofolokaha
+Tío Pujio|AR||1n|-2hp|-4vz|o
+Tiogo|CI||0|s9|-hi|k
+Mukim Tioman|MY||6v|7q|81d|j|Tioman
+Tioga|US|North Dakota|2f|3qg|-7xy|g
+Tioro|CI||0|rh|-hi|f
+Tiolasso|CI||0|r7|-iz|e|Tyolasso
+Tomozomo|CI||0|rf|-iv|d|Tamozomo;Tiomozomo
+Tiongoli|CI||0|td|-hh|d
+Tiobly|CI||0|i5|-nm|d
+Tiolo|CI||0|rn|-gw|c|Tyolo
+Tiokonou|CI||0|kn|-aw|b
+Tioga|US|Texas|2f|2kz|-7h8|9
+Tioga|US|Pennsylvania|48|38f|-5y9|7
+Tioquipa el Bascán|MX||41|1ca|-73y|7
+Tioga|US|Pennsylvania|48|335|-5st|6
+Tiontiepa Benito Juárez|MX||41|1c2|-74w|6
+Tiocuautla|MX||41|1iv|-7hq|5

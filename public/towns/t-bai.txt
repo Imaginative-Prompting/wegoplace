@@ -1,0 +1,379 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Beirut|LB||64|2m5|2qm|es9|Bejrut;Bejruto;Beyrouth;Beiroet;Beyrut;Berytus;Bäyrut;Bêrût;Béiriút;Birut;Beirot;Bewout;Beirout;Bejruti;Beirots;Bairut
+Dublin|IE||8z|445|-hd|7wg|Dulyn;Baile Átha Cliath;Dyflinn;Dulenn;Eblana;Diblin;Difelin;Divlyn;Dablin
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Baise|CN||7i|1ud|887|5al|Baksaek;Pai-se
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Santos|BR||4w|-1uk|-3kp|38a|Baixada Santista;Urbs Sanctorum;Santusa
+Baicheng|CN|Jilin|7i|3iq|9h7|2g2|Paj-čcheng;Bạch Thành;Băh-siàng;Pai-ch’eng
+Baiyin|CN||7i|2tj|81d|29s|Băh-ngṳ̀ng;Paj-jin;Bạch Ngân;Pe̍h-gîn-chhī;Pai-yin
+Baishan|CN||7i|38i|9r6|1f3|Băh-săng;Paj-šan;Bạch Sơn;Pe̍k-san-chhī
+Bayjī|IQ||5z|2p1|3ct|1c9|Baiji
+Baidoa|SO||14|8n|3d9|102|Baydhabo;Baidabo
+Bairro da Penha|BR||4w|-1sx|-3kn|wp
+Baisha|CN|Chongqing|7i|28q|86s|w6|Pai-sha
+Baidyabāti|IN||6t|1ra|6td|w3
+St. John's|CA||50|3o4|-42f|up|Saint John's;St Johns;San Juan de Terranova;Baile Naoimh Eòin;Baile Sheáin;Sent Džonsas;Sanctus Ioannes Terrae Novae;Saint John;Saint-Jean de Terre-Neuve;Saint-Jean;Sent-Jons;Sent-Cons
+Baia Mare|RO||8u|3oe|1th|u8|Nagybánya;Frauenbach;Neustadt;Rivulus Dominarum;Baja Mare
+Baía Farta|AO||x|-z0|10o|ty|Bahia Farta
+Sydney|CA||2x|3k6|-4n6|tg|Shidni;Baile Shidni;Sidnėjus;Sidneja;Sidney
+Yên Bái|VN||62|1oc|83f|ry|Yen Bay
+Bai’anba|CN||7i|2dg|8d8|pj
+Baisha|CN|Guangxi|7i|1oc|8go|oy|Pai-sha
+Baixi|CN||7i|27q|82f|oj
+Bais|PH||71|qn|9i0|oh
+Baicheng|CN|Shandong|7i|2sx|98q|lg
+Bailundo|AO||x|-ql|18f|jl
+Baiquan|CN|Heilongjiang|7i|3o9|9q8|jl
+Bayramaly|TM||5x|2wi|4sp|jk|Bairam Ali;Bayram-Ali;Bahrām Ali
+Baikonur|KZ||7c|3iq|4vw|jg|Leninsk;Baïkonour;Baykonur;Bayqomir;Leninskiy
+Bairro Parque Nossa Senhora do Carmo|BR||4w|-1t1|-3ko|jc
+Bairro Militar|GW||8|wz|-17e|i5
+Newtownabbey|GB||9b|47u|-gf|hr|Baile na Mainistreach
+Baihecun|CN||7i|1pf|89w|ho
+Baimajing|CN||7i|1ir|8fe|gk
+Baishishan|CN||7i|3d2|9ud|fu|Pai-shih-shan
+Livingston|GB||9b|4ba|-9s|fs|Baile Lèibhinn;Leivinstoun;Baile Dhún Léibhe;Livinqston;Baile Dhùnlèibhe
+Baidi|CN||7i|2ea|8gf|fm
+Hamilton|GB||9b|4ax|-b7|f5|Hamiltoun;Hamaltan;Baile Hamaltan
+Meikle Earnock|GB||9b|4av|-b7|f5|Baile Hamaltan
+Baijiantan|CN||7t|3ix|6ki|e4
+Bail-Hongal|IN||6t|17x|5ry|do|Bail Hongal
+Baião|BR||23|-7r|-3tz|dh
+Bayburt|TR||94|33u|33q|dc|Baiburt
+Baizi|CN||7i|2bl|85n|db
+Baitao|CN||7i|2a3|8al|cu
+Choibalsan|MN||7s|3pj|8u5|cg|Choybalsan;Bayan Tümen;Bajan Tumen;Čojbalsan;Çoybalsan;Bain Tumen;Bayn-Tumen;Choibolsan;Choybolsan;Pa-yin-t’u-men
+Bayonne|FR||9k|3ct|-43|cc|Bayona;Baiona;Bajono;Bajonna;Bajona
+Baichihe|CN||7i|2sc|981|bx
+Bairāgnia|IN||6t|22a|6kv|bx|Bairgania
+Baihua|CN||7i|28t|82l|bk|Pai-hua
+Baisheng|CN||7i|2at|8ab|bf
+Baihe|CN|Chongqing|7i|2eu|8da|bd
+Baishikante|CN||7t|2yu|5z8|aw
+Charlottetown|CA||35|3kf|-4vd|as|Carolinapolis;Šarlotetaunas;Şarlottaun;Ĉarlotaŭno;Baile Sheàrlot
+Bailin|CN|Chongqing|7i|27u|87q|aq|Pai-lin
+Bayt Ḩānūn|PS||6f|2fm|2ny|ae|Beit Hanoun;Beit Hanun;Beit Hānūna;Bait Hanun;Bajt Hánún;Beyt Hanun;Beit Hanoum;Beit Hanoon
+Baiyang|CN|Chongqing|7i|2dm|8dp|9q|Bayang
+Bayt al Faqīh|YE||5r|14c|3cc|9i|Bait al Faqīh;Bayt al-Fakīh
+Bairro Novo|PT||99|37e|-nd|95
+Baie-Mahault|GP||31|197|-4r3|8k|La Baie Mahault
+Baixo Guandu|BR||4w|-1i8|-35y|8j
+Newtownards|GB||9b|47n|-ft|86|Baile Nua na hArda;Niutonardsas
+Bethlehem|PS||6g|2g2|2ps|82|Belén;Belem;Belén de Judá;Betlehem;Betlem;Bet-Leĥem;Bethléem;Bètleyèm;Betlemme;Betlejem;Bethleem Efrata;Beitheal;Bait Lahm;Betlehim;Bayt Laḩm;Beit Lahm;Beit Lehem
+Baikunthpur|IN|Chhattisgarh|6t|1sm|6dc|7w|Baikunthapur
+Newton Mearns|GB||9b|4ax|-c1|7u|Baile Úr na Maoirne
+Boysun|UZ||7g|2y5|56p|7h|Baisunas;Baysun;Baisun;Bajsun
+Báigōng Jiēdào|CN||7i|2c5|8c3|7b|Chungchow;Chungchou
+Baima|CN||7i|29o|8aq|74|Pai-ma
+Bainbridge Island|US||3p|3ob|-9gc|6m|Bainbridge;Winslow;Île de Bainbridge
+Baileys Crossroads|US||48|2zx|-5y9|6k|Bailey's Crossroads;Baily's Cross Roads;Baileys Cross Roads;Bailey Crossroads
+Musselburgh|GB||9b|4be|-8h|6k|Baile nam Feusgan;Masselboro
+Báishí Zhèn|CN||7i|2c8|8bo|6i
+Athlone|IE||8z|44e|-m2|6d|Baile Átha Luain;Balley Aah Luain;Atlonas;Atlona
+Balbriggan|IE||8z|44x|-h6|61|Baile Brigín;Balbriganas
+Baie-Comeau|CA||59|3sq|-59b|5z
+Baião|PT||99|36c|-mb|5p
+Baijiawan|CN||7i|2oe|84h|5p
+Byndoor|IN||6t|12j|5rb|5n|Baindur;Baindūri
+Bailadores|VE||2c|mx|-5jj|5l
+Băicoi|RO||8u|3h3|1zt|5j
+Băileşti|RO||8u|3ea|1sv|5g
+Baijia|CN|Chongqing|7i|2be|8a5|5b
+Bailén|ES||9d|2xu|-ai|58
+Ballincollig|IE||8z|404|-nu|56|Baile an Chollaigh
+Baixa Grande|BR||20|-x8|-33l|52
+Baiguan|CN||7i|2md|83f|51
+Baihe|CN|Gansu|7i|2m3|839|51
+Bairnsdale|AU||8j|-2x2|be1|4x|Bairsdale
+Bayındır|TR|İzmir Province|94|2y6|24t|4p|Baindir
+Baitu|CN|Chongqing|7i|2d0|8e9|4o
+Baia Sprie|RO||8u|3oe|1tt|4n|Felsőbánya;Mittelstadt;Civitas in medio monte
+Baihar|IN||6t|1pe|67r|4n
+Blanchardstown|IE||8z|44b|-hq|4l|Baile Bhlainséir;Blančardstaunas;Blachardstown
+Baiersbronn|DE||8r|3qq|na|4i
+Baibli|CI||0|jy|-ka|4g
+Bayeux|FR||9k|3sw|-1y|4g|Baiocae;Baius
+Johnstone|GB||9b|4b3|-ck|4f|Baile Iain;Baile Eòin;Johnstoun
+Baildon|GB||9b|45l|-4z|4d
+Baituo|CN||7i|2ot|86g|4c
+Baie du Tombeau|MU||ag|-1jw|4fp|49
+Bailleul|FR|Hauts-de-France|9k|3wy|7m|45|Belle
+Bailu|CN||7i|2ft|8gn|45
+Baisha|CN|Gansu|7i|2of|876|42
+Baijia|CN|Chongqing|7i|2cz|8bq|3y
+Forfar|GB||9b|4dc|-81|3w|Baile Fharfair;Farfar
+Baiqiao|CN||7i|2ew|8dn|3u
+Baianópolis|BR||20|-y7|-3fq|3s
+Baixa Grande do Ribeiro|BR||2w|-lt|-3hl|3p
+Helensburgh|GB||9b|4bl|-d5|3o|Baile Eilidh;Elenesburh;Helensburgas
+Baïbokoum|TD||17|li|17l|3o|Baïbokoun;Baibokun
+Bardstown|US||48|2x1|-6lf|3n|Beardstown;Bairdstown;Bards Town
+Baytūnyā|PS||6g|2gm|2pp|3k|Beitunia;Baituniya;Bajtunija;Beytunya;Bītuniyā;Beitūnya;Betounia;Beituniyā;Betunia
+Baixa|PT||99|2zj|-pe|3k
+Bainbridge|US|Georgia|48|2du|-6iy|3h|Beinbridž
+Bairo|IN||6t|209|6ob|3f
+Saltcoats|GB||9b|4ak|-db|3f|Baile an t-Salainn
+Bairro da Madre de Deus|PT||99|2zm|-pc|3e
+Baiona|ES||9d|390|-ol|3d
+Baishi|CN|Chongqing|7i|2ag|8dk|39
+Baille|FR||9k|3c9|f0|37
+Bailin|CN|Gansu|7i|2l0|83p|33
+Palmerstown|IE||8z|447|-hq|33|Baile Phámar
+Batayporã|BR||2a|-1py|-43z|2z|Baitaporã
+Baikunthpur|IN|Madhya Pradesh|6t|1wp|6a5|2v|Baikanthpur
+Athy|IE||8z|437|-je|2p|Baile Átha Í
+Bairro Alto|PT||99|2zj|-pe|2p|Barrio Alto de Lisboa
+Bashmakovo|RU||9i|43t|3bj|2p|Baschmakowo;Bašmakovo;Bachmakovo;Baszmakowo;Baixmakovo
+Baishizhou|CN||7i|1qm|8sk|2p
+Ballymoney|GB||9b|48z|-i3|2o|Baile Monaidh
+Trim|IE||8z|44s|-iv|2o|Baile Átha Troim;Truma
+Stevenston|GB||9b|4ak|-d7|2l|Baile Steafain
+Baiyang|CN|Chongqing|7i|2b8|86o|2l
+Baía da Traição|BR||2w|-il|-2p2|2k
+Balally|IE||8z|440|-hc|2j|Baile Amhlaoibh
+Haddington|GB||9b|4bg|-7q|2i|Haddinqton;Baile Adainn
+Baissa|NG||u|k3|ti|2h|Bdissa;Ba’Issa
+Baía Formosa|BR||2w|-hp|-2p9|2g
+Baitugang|CN||7i|2x3|87e|2e
+Ballyfermot|IE||8z|446|-hn|2e|Baile Formaid
+Ballinteer|IE||8z|43z|-hd|2d|Baile an tSaoir
+Baiquan|CN|Chongqing|7i|2fr|8e6|2a
+Baishipai|CN||7i|1ql|8sf|2a
+Baldoyle|IE||8z|44c|-h1|28|Baile Dúill
+Bailey|US|Colorado|2p|31h|-84z|28|Gáagii Bikooh
+Bailuquan|CN||7i|2xr|8tf|26
+Baienfurt|DE||8r|3ov|qt|21
+Kirkwall|GB||9b|4ju|-88|20|Kerkvolas;Bágh na h-Eaglaise;Kirkwaa;Ciricewæl;Kirkvol;Baile na h-Eaglaise
+Baie-Saint-Paul|CA||59|3ns|-5fu|1z
+Booterstown|IE||8z|442|-h8|1z|Baile an Bhóthair
+Stewarton|GB||9b|4ao|-cj|1z|Baile nan Stiùbhartach
+Baiersdorf|DE||8r|3ty|uo|1z
+Walkinstown|IE||8z|445|-hm|1w|Baile Bhailcín
+Baia|RO|Suceava|8u|3nq|20u|1w
+Baillargues|FR||9k|3da|b5|1u|Balhargues
+Baisha|CN|Chongqing|7i|29l|891|1s|Pai-sha
+Ballymun|IE||8z|44c|-hf|1r|Balimunas;Baile Munna
+Băiculeşti|RO||8u|3h7|1wm|1q
+Bain-de-Bretagne|FR||9k|3ox|-4p|1p|Baen-Veur;Baionum
+Băile Herculane|RO||8u|3go|1q9|1o|Herkulesfürdő;Beile Herkulanė;Băile Erculane;Baile Herkulane
+Balerno|GB||9b|4b8|-9a|1o|Baile Àirneach
+Baiyang|CN|Gansu|7i|2k5|85u|1m
+Baillif|GP||31|18i|-4rj|1l
+Baixio|BR||2w|-ip|-2zk|1l
+Ballynahinch|GB||9b|474|-ge|1l|Baile na hInse
+Bairro do Loreto|PT||99|33r|-nh|1l
+Ballycastle|GB||9b|49c|-hc|1k|Baile an Chaistil
+Loughrea|IE||8z|43s|-nt|1k|Baile Locha Riach
+Monkstown|IE||8z|441|-h3|1k|Baile na Manach
+Heron Bay|CA||43|3pe|-54g|1j|Baie-des-Hérons
+Blessington|IE||8z|43p|-i5|1j|Baile Coimín;Bledingtonas
+Bairro Silva Braga|PT||99|36d|-nz|1j
+Baiyun|CN|Chongqing|7i|29f|8ae|1j
+Randalstown|GB||9b|483|-hi|1i|Baile Raghnaill;Baile Raghnail
+Eadestown|IE||8z|43s|-ia|1h|Baile Éide
+Neilston|GB||9b|4az|-cb|1h|Neilstoun;Baile Nèill
+Baitu|CN|Chongqing|7i|29m|8ds|1g
+Baie Sainte Anne|SC||ae|-c0|4av|1f
+Turriff|GB||9b|4fu|-6u|1f|Baile Thurra;Torraibh;Turra
+Baia|RO|Tulcea County|8u|3g8|27n|1d
+Ardee|IE||8z|45m|-i6|1d|Baile Átha Fhirdhia;Ardi
+Baishixia|CN||7i|1r0|8s6|1c
+Baie Lazare|SC||ae|-d7|4a4|1c
+Keith|GB||9b|4fu|-87|1b|Baile Ché
+Baiano|IT||9o|35r|14m|1b
+Băile Drânceni|RO||8u|3m2|262|1b|Băile Drînceni
+Galston|GB||9b|4ag|-c6|1b|Baile nan Gall
+Bishopton|GB||9b|4bb|-cj|1a|Baile an Easbaig;Bishoptoun
+Baia de Arieş|RO||8u|3ku|1so|1a
+Băile Olănești|RO||8u|3hk|1vb|1a|Cserépfürdő
+Baindt|DE||8r|3ox|qv|1a
+Athenry|IE||8z|442|-oa|18|Baile Átha an Rí;Aah yn Ree;Atenris;Athenria
+Balclutha|NZ||ak|-3kf|d3j|18|Baile Chluaidh;Iwikatea
+Baia de Fier|RO||8u|3hh|1u1|17
+Bhairabi|IN||6t|1v8|753|17|Bairabi
+Rothesay|GB||9b|4b4|-e2|17|Baile Bhòid;Rothsey
+Bailly|FR|Île-de-France|9k|3ro|5s|17
+Bairan|PH||71|sc|9jp|17
+Balagansk|RU||6k|461|7y9|16|Baiagansk
+Băiţa|RO|Hunedoara County|8u|3jv|1rm|16
+Palima|SL||l|mk|-vz|15|Baiima
+Bajram Curri|AL||9y|39o|1js|15|Bajram Curr;Bairam Curis
+Baisieux|FR||9k|3wl|91|15|Baizieux
+Milltown|IE||8z|443|-hd|14|Baile an Mhuilinn
+Newton Stewart|GB||9b|48o|-cg|14|Baile Úr nan Stiúbhartach
+Baikunthpur Barhanda|IN||6t|1zc|6m9|14
+Baie-D'Urfé|CA||59|3i5|-5pc|13
+Baiima|SL||l|mj|-wx|12
+Baykit|RU||6u|4rc|7fq|11|Bajkit;Baikit
+Mitchelstown|IE||8z|417|-mz|11|Baile Mhistéala;Mitčelstaunas
+Bailly-Romainvilliers|FR||9k|3rp|7u|11
+Tain|GB||9b|4gl|-ba|11|Baile Dhubhthaich
+Loughlinstown|IE||8z|43w|-h1|11|Baile Uí Lachnáin
+Castleblayney|IE||8z|46c|-ip|10|Baile na Lorgan;Castleblaney;Kaslbleinis
+Courtown|IE||8z|428|-hb|10|Baile na Cúirte;Kortaunas
+Bairro do Alto da Boavista|PT||99|2zm|-pl|y
+Bains-sur-Oust|FR||9k|3oi|-5r|x|Baen-Ballon;Balneum
+Bainbridge|US|Ohio|48|36z|-69y|x
+Baisy-Thy|BE||8t|3wk|cg|w
+Eaglesham|GB||9b|4au|-bv|w|Baile na h-Eaglais
+Castletown|IM||93|467|-cx|v|Kasltaunas;Balley Chashtal;Baile Chaistil;Castletoun
+Baia de Criş|RO||8u|3k9|1r4|u
+Bailan|PH||71|vu|9h7|t
+Baisha|CN|Hunan|7i|21o|8k5|t|Pai-sha
+Pitlochry|GB||9b|4dj|-ad|t|Baile Chloichridh
+Băile Govora|RO||8u|3h8|1v6|t
+Bayanday|RU||6k|43e|853|t|Bajandaj;Bainday
+Newtownmountkennedy|IE||8z|43h|-gz|s|Baile an Chinnéidigh
+Ballygowan|GB||9b|47e|-g3|s|Baile Mhic Gabhann
+Bainia|IN||6t|20m|6oj|s
+Ballinrobe|IE||8z|44z|-pn|s|Baile an Róba;Balinrobas
+Bairiki Village|KI||bh|3p|dci|s|Bairiki
+Baiqi|CN||7i|1x4|95r|s
+Baimang|CN||7i|1qv|8si|s
+Baierbrunn|DE||8r|3pe|vx|s|Baiabrunn;Baierbrun
+Bailieborough|IE||8z|45s|-jd|r|Coill an Chollaigh;Beiliboras;Baileborough
+Ballyjamesduff|IE||8z|45n|-k0|r|Baile Shéamais Dhuibh
+Băiuţ|RO||8u|3oa|1uo|r|Erzsébetbánya
+Baie aux Huîtres|MU||ag|-1ip|4w5|p
+Baïfla|CI||0|jy|-hi|p
+Thomastown|IE||8z|41x|-ju|o|Baile Mhic Andáin
+Baixas|FR||9k|3ar|7t|o
+Athboy|IE||8z|44y|-j7|o|Baile Átha Buí;Atbojus
+Bairoa|PR||4m|1eq|-53g|o
+Băişoara|RO||8u|3le|1t7|n
+Baikingon|PH||71|nj|9lz|m
+Baiyun|CN|Fujian|7i|20c|96b|m|Pai-yün
+Baia de Aramă|RO||8u|3h0|1rd|l
+Bail|PH||71|199|9ag|l
+Bais|FR|Brittany|9k|3pd|-3l|l|Baez
+Baie Des Citrons|NC||b8|-1px|cuc|l
+Bailleul-sur-Thérain|FR||9k|3t7|66|k
+Balrothery|IE||8z|44v|-h7|k|Baile an Ridire
+Baitoa|DO||4v|1hp|-5ge|k
+Baishi|CN|Guizhou|7i|22x|8g0|k
+Băiţa de sub Codru|RO||8u|3o1|1sb|j
+Ballymahon|IE||8z|44t|-ll|j|Baile Uí Mhatháin
+Băița|RO|Maramureş|8u|3oj|1t9|j
+Bayraky|UA||98|3po|20l|j|Baïraky;Mogoșești
+Băcioiu|RO||8u|3kn|23g|i|Băicioiul
+Ballivor|IE||8z|44p|-jc|i|Baile Íomhair
+Baillet-en-France|FR||9k|3sa|6e|i
+Irvinestown|GB||9b|47b|-l7|i|Baile an Irbhinigh
+Milton of Leys|GB||9b|4fl|-bm|h|Baile Muilinn an Leigheis
+Baisogala|LT||a3|4ak|1tx|h|Baisogalos;Baysogala
+Băile Tuşnad|RO||8u|3k6|1zu|h|Tusnádfürdő;Tusnad Fürdö
+Baie de Henne|HT||4j|1im|-5nd|h|Be de Èn;Baie de Haine
+Dufftown|GB||9b|4fl|-8p|h|Baile Bháinidh
+Saint-Étienne-de-Baïgorry|FR||9k|3by|-3r|g|Baigorri;Sent Estève de Baigòrri
+Baiting Hollow|US||48|35s|-5m2|g
+Bains-les-Bains|FR||9k|3pc|he|g
+Bais|FR|Pays de la Loire|9k|3q1|-11|g
+Baidland|US||48|33n|-665|g
+Băișești|RO||8u|3nw|20j|g|Baiaşeşti
+Ballymote|IE||8z|468|-no|f|Baile an Mhóta
+Baijian|CN||7i|333|91l|f
+Bailleau-le-Pin|FR||9k|3qd|3p|f
+Pittenweem|GB||9b|4c5|-7l|f|Baile na h-Uaimh
+Bailleval|FR||9k|3t3|6u|f
+Baird|US||2f|2hz|-7o3|f
+Evanton|GB||9b|4g6|-c2|e|Baile Eóghainn
+Slane|IE||8z|457|-i6|e|Baile Shláine
+Bairro Novo I|CV||84|1ak|-1rq|e
+Bainbridge|US|Pennsylvania|48|33d|-5wz|e
+Ballybunnion|IE||8z|41v|-qv|e|Baile an Bhuinneánaigh;Ballybunion
+Baisweil|DE||8r|3p6|ta|e
+Ballysadare|IE||8z|46l|-nn|e|Baile Easa Dara
+Ballisodare|IE||8z|46l|-nn|d|Baile Easa Dara
+Baincthun|FR||9k|3wv|4o|d
+Bainbridge|US|New York|48|39h|-5to|d
+Bahrām|IR||7o|2yr|3j0|d|Bagram;Bairam
+Baie Ste. Anne|CA||43|3mp|-50f|d|Baie-Sainte-Anne
+Baisi|IN||6t|1zu|6rq|d
+Baie Verte|CA||50|3up|-4c2|d
+Baignes-Sainte-Radegonde|FR||9k|3i2|-o|d
+Bairro Craveiro Lopes|CV||84|15g|-1tb|d
+Castlemartyr|IE||8z|407|-md|d|Baile na Martra
+Bairro Novo II|CV||84|1aj|-1rp|d
+Bains|FR||9k|3h1|ai|d
+Baileux|BE||8t|3uz|c6|c
+Claregalway|IE||8z|446|-ou|c|Baile Chláir;Baile an Chláir
+Mykolayivka-Novorosiyska|UA||98|3k5|2b2|c|Mykolajiwka-Noworossijska;Nikolaevka-Novorossiysk;Bairamcea;Mykolaïvka-Novorossiïska;Nicolaenil Noui;Bairamcza
+Baixa do QuinQuim|BR||2w|-ei|-2qy|c|Baixa do Quim-Quim;Baixa do Quin-Quin
+Bailleul-Sir-Berthoult|FR||9k|3vu|7x|c
+Bainville-sur-Madon|FR||9k|3qz|gy|c
+Castletown|IE||8z|42g|-h7|c|Baile an Chaisleáin
+Piltown|IE||8z|41f|-ke|c|Baile an Phoill;Pilltown
+Maryburgh|GB||9b|4fx|-cc|c|Baile Màiri
+Kentstown|IE||8z|44z|-i5|c|Baile an Cheantaigh
+Băile Borșa|RO||8u|3og|1wn|c
+Castlepollard|IE||8z|454|-ka|c|Baile na gCros;Castelpollard
+Baia|IT||9o|36q|13l|b
+Castlebellingham|IE||8z|45q|-hr|b|Baile an Ghearlánaigh;Castle Bellingham;Kaslbelinheimas
+Fivemiletown|GB||9b|472|-ka|b|Baile na Lorgan
+Bailleau-l'Évêque|FR||9k|3qp|3w|b
+Newtonmore|GB||9b|4ej|-bg|b|Baile Ur an t-Sléibh
+Bairachky|UA||98|3qf|2z8|b|Bayrachki;Bayrachky;Bajratschky;Bajrački;Bairachki;Bayraçkı;Bajraczky;Bairacikî;Bairatxki
+Baybuzivka|UA||98|3pn|2b2|b|Baïbouzivka
+Biabou|VC||54|10n|-4pu|b|Biabu;Baiabu
+Bailly-Carrois|FR||9k|3qy|8b|a
+Charlestown|IE||8z|45w|-of|a|Baile Chathail
+Bairisch Kölldorf|AT||a2|3m7|189|a
+Johnstown|IE||8z|43w|-ie|a|Baile Eoin
+Fountainstown|IE||8z|3zu|-n2|a|Baile Mhóntáin;Ballymontane
+Băița|RO|Mureș County|8u|3m4|1w5|a
+Millford|IE||8z|491|-le|a|Baile na nGallóglach;Milford
+Baimaoping|CN||7i|20y|8ik|9|Pai-mao-p’ing
+Baiso|IT||9o|3fm|tg|9
+Baitaly|UA||98|3ot|2au|9|Baytaly;Vaitaly
+Bajana|GM||7|110|-184|9|Baijana
+Baierdorf-Umgebung|AT||a2|3nd|17n|9
+Wigtown|GB||9b|48f|-cc|9|Baile na h-Ùige;Wigtoun;Wigton
+Baix|FR||9k|3g7|d8|9|Bais
+Ballyclerahan|IE||8z|41l|-lk|9|Baile Uí Chléireacháin
+Castletownbere|IE||8z|3zh|-rj|9|Castletown Bearhaven;Baile Chaisleáin Bhéarra;Castletown Berehaven
+Bainbridge|US|Ohio|48|30z|-6fb|9
+Ballaigues|CH||a7|3lt|ht|8|Baillaigues
+Baile an Mhuilinn|IE||8z|40v|-r0|8|Milltown
+Băiceni|RO||8u|3oh|222|8
+Baird|CA||50|3o4|-42j|8
+Bellocq|FR||9k|3cw|-2k|8|Bètlòc;Bailòc
+Baiti|NR||b5|-1f|cvp|8|Baitsi District;Baitsi
+Baisieux|BE||8t|3vz|aa|8
+Paulstown|IE||8z|42c|-ji|8|Baile Phóil
+Baigts-de-Béarn|FR||9k|3cv|-2c|8|Vaths de Bearn;Vaths
+Baierbach|DE||8r|3qi|xw|8|Baierboch
+Newcastleton|GB||9b|49a|-7t|8|Copshaw Holm;Baile a' Chaisteil Nuadh;Copshie;Holm
+Bainbridge|US|Indiana|38|32g|-6p5|7
+Bailey Prairie|US||2f|28z|-7db|7|Bailey's Prairie
+Ballyheige|IE||8z|41i|-rb|7|Baile Uí Thaidhg;Ballyheigue
+Ballygawley|GB||9b|47a|-jj|7|Baile Uí Dhálaigh
+Calverstown|IE||8z|43g|-iw|7|Baile an Chalbhaigh
+Bairdford|US||48|34v|-65w|7
+Bairro|PT||99|31y|-nv|7
+Bailleul-le-Soc|FR||9k|3ta|76|7
+Robertstown|IE||8z|43z|-iy|7|Baile Riobaird
+Tallanstown|IE||8z|45s|-i7|7|Baile an Tallúnaigh
+Băița|RO|Bihor County|8u|3l4|1qr|7
+Bayet|FR||9k|3kh|93|7|Baiac;Baiet
+Ballachulish|GB||9b|4dg|-ea|7|Baile a Chaolais;Balleyn Cheeylysh;Ballachuhsh
+Newport|IE|Connacht|8z|45p|-qj|6|Baile Uí Fhiacháin
+Baileyton|US||2f|2n6|-6ol|6
+Bailleul|FR|Normandy|9k|3rk|0|6
+Băile|RO||8u|3ht|240|6
+Julianstown|IE||8z|453|-hh|6|Baile Iúiliáin
+Bailly|FR|Hauts-de-France|9k|3ti|89|6
+Hacketstown|IE||8z|42u|-i8|6|Baile Haicéid;Hakestaunas
+Churchtown|IE||8z|417|-o9|6|Baile an Teampail
+Baimai|CN||7i|2c6|7eq|6
+Baillonville|BE||8t|3vp|eu|6
+Bairo|IT||9o|3i3|lk|6
+Bailey|US|North Carolina|48|2re|-610|6
+Bailleul|BE||8t|3wr|98|6
+Ballygarvan|IE||8z|3zy|-ni|6|Baile Garbháin
+Beynac-et-Cazenac|FR||9k|3gk|36|5|Bainac e Casenac
+St Johnston|IE||8z|48m|-kq|5|Saint Johnstown;Baile Suingean;St. Johnstown;Saint Johnston;St. Johnston
+Ballingarry|IE||8z|41r|-om|5|Baile an Gharraí;Ballingary
+Bailly-en-Rivière|FR||9k|3un|3q|5
+Ballycanew|IE||8z|425|-hi|5|Baile Uí Chonnmhaí

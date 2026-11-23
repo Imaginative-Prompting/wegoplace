@@ -1,0 +1,595 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Johannesburg|ZA||o|-20s|25w|20o6|Johanesburgo;Jóhannesarborg;Joanesburgo;Jo'anna;Johanesburgas;Yohannésburg;EGoli;IGoli;Xohanesburgo;Johannesbourg;Yohannesburq;Ioannesburgum;Yok-hon-nì-sṳ̂-páu;Yoxannesburg
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Yokohama|JP|Kanagawa|7q|2qf|arx|t5b|Jokohama;Jokohamo
+Jodhpur|IN|Rajasthan|6t|20z|5mt|85e|Dźodhpur;Ĝodhpur;Džódpur;Codpur;Dzsódhpur;Džodhpuras;Džodhpura
+Jos|NG||u|rl|op|80w|Dżos;Cos
+San Jose|US|California|3p|2vq|-9el|7p2|San-Joseo;San Chozė;Iosephopolis;San Xosé;Sanhosē;San-Xose
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Johor Bahru|MY||6v|43|808|6md|Johor Baharu;Džohor Baru;Sîn-sân-sṳ;Jahore Bahru;Johore Bharu;Johore Bahru;Johore Baru
+João Pessoa|BR||2w|-jr|-2ou|6b3|Ĵoan-Pesoo;Žoan Pesoa
+São José dos Campos|BR||4w|-1se|-3jh|5lz|Vale do Paraíba;SJCampos;Vale Paraiba;San Žozė dos Kamposas
+Joinville|BR||4w|-212|-3rp|54l|Žoinvilis
+São José do Rio Preto|BR||4w|-1lu|-3t6|3pg|Rio Preto;San Žozė do Rio Pretas
+São João de Meriti|BR||4w|-1rc|-3ch|3ll|San Žuan de Meritis
+Yokosuka|JP||7q|2q0|arz|35r|Jokosuka
+Yogyakarta|ID||6l|-lo|8ik|2wd|Jogjakarta;Jogjakarto;Džogjakarta;Djokjakarta;Jogyakarta;Jokyakarta;Djogjakarta;Jokjakarta
+San Jose del Monte|PH||71|155|9c9|2re|San-Joseo de la Monto
+São José dos Pinhais|BR||4w|-1yx|-3sp|2p7|São José dos Pinhaes
+San José|CR|San José|2i|rl|-6hk|2l2|San-Joseo;San Chosė;San Jusiy;San Jozé;San Xosé;San-Xose;Sanhosē;Urbs Sancti Iosephi in Costarica;San Hose
+Khorramshahr|IR||7o|2ck|3pu|2ju|Chorramschahr;Jorramchar;Koramsjar;Khorramxahr;Chorramšahr;Horamšaher;Choremšehras;Hürremşehr;Khoramshahr;Chorramszahr;Khurramshahr;Khorramchahre
+Yokkaichi|JP|Mie|7q|2p5|aji|2cu|Jokkaichi;Yokkaitsi;Yokkaiti-chhī;Yokkaiti
+São José|BR|Santa Catarina|4w|-24q|-3r3|2a5
+Yeosu|KR||7h|2ok|9um|22o|Josu;Yŏsu
+Yoshkar-Ola|RU||9i|4dc|3p1|22j|Joschkar-Ola;Joszkar-Oła;Iochkar-Ola;Joškar-Ola;Josjkar-Ola;Ioshkar Ola
+São José de Ribamar|BR||2w|-74|-3ee|200|São-José-do-Ribamar
+Juazeiro|BR||20|-q5|-34i|1z5|Joazeiro
+Timişoara|RO||8u|3j3|1mz|1xo|Freidorf;Temeschwar;Josephs-Stadt;Temeschburg;Temešvár;Temišvar;Temeswar;Timišvár;Temişoara
+Georgetown|GY||34|iw|-4hk|1ta|Georgurbo;Džordžtaunas;Džordžtauna;Georgiopolis;Jòjtòn;Džordžtauns;Džordžtaun;Ĝorĝtaŭno
+José C. Paz|AR||1l|-2nw|-4j9|1ry
+Yonkers|US||48|35p|-5pa|1jv|Jonkersas;Yonckers
+São José|BR|Santa Catarina|4w|-26d|-3sk|1jk
+Yuzhno-Sakhalinsk|RU||7f|3mf|b0i|1ja|Južno-Sachalinsk;Južno-Sahhalinsk;Južno-Sahalinsk;Yuzhno-Sajalinsk;Jużnosachalińsk;Juschno-Sachalinsk;Juzjno-Sakhalinsk;Ioujno-Sakhalinsk;Joezjno-Sachalinsk;Južno Sachalinskas;Iujno-Sahalinsk;Yujno-Saxalinsk;Suvisahalinsk;Juzsno-Szahalinszk;Juĵno-Saĥalinsk;Južnosahaļinska;Juzhno-Sakhalinsk;Iujno-Sakhalinsk;Juzjno-Sachalinsk;Yujno-Sahalinsk
+H̱olon|IL||6n|2gx|2om|1ha|Jolón
+Jōetsu|JP||7q|2v7|ao0|1gm|Zyôetu-chhī
+Yopal|CO||27|eu|-5l3|1as|Jopalis;Juopalės
+Jomvu|KE||16|-b3|321|19e|Jumvu
+York|GB||9b|45w|-30|17d|Efrog;Jorko;Eboracum;Évèroui;Jórvík;Jorkas;Jorka;Eoforwic;Evrek;Eabhraig;Eabhrac
+Yonago|JP||7q|2qf|aad|15b|Jonagas;Jonago
+Joliet|US|Illinois|2f|37d|-6so|153|Juliet
+San Jose|PH|Mimaropa|71|yb|9cb|13v
+San José del Cabo|MX||3x|1s1|-8gq|11v
+Jose Bonifacio|BR|São Paulo|4w|-1th|-3kz|zm
+Jorhat|IN||6t|22c|79o|z7
+Jombang|ID||6l|-kz|8nr|z5
+Jauharabad|PK||6q|2hp|5ks|vg|Joharabad
+Jönköping|SE||9w|4gi|13c|vc|Iunecopia;Jonšiopingas;Jenšēpinga
+West Jordan|US||2p|34t|-8my|v3|Okcidenta Jordan
+St. John's|CA||50|3o4|-42f|up|Saint John's;St Johns;San Juan de Terranova;Baile Naoimh Eòin;Baile Sheáin;Sent Džonsas;Sanctus Ioannes Terrae Novae;Saint John;Saint-Jean de Terre-Neuve;Saint-Jean;Sent-Jons;Sent-Cons
+Jolo|PH||71|gt|9c4|s2
+Jaffa|IL||6n|2h1|2oj|rs|Joppa;Jafa;Joppe;Yafah;Yaffa;Jophé;Yafo;Jafo;Yāfā;Giaffa;Yāp̄ô;Yaffo;Zafo
+Jounieh|LB||64|2me|2qy|qr|Džunije;Cünye;Joünié
+Yozgat|TR||94|32m|2oo|of|Yozqat;Jozgatas;Yozgad;Yuzgat
+Yokote|JP||7q|318|auf|ns|Jokote
+João Monlevade|BR||4w|-1j1|-3bx|n6
+Johns Creek|US||48|2mj|-6hw|n5
+Joensuu|FI||92|4tw|2ao|ls|Joensū;Ostia Carelorum;Jogensu;Jovensuu;Yoensu
+Józsefváros|HU||8v|3nx|1gz|le
+Juhaynah|EG||c|223|2fi|la|Jihaynah;Johaynah
+Jōyō|JP||7q|2os|ah9|kq
+Jonesboro|US|Arkansas|2f|2rk|-6zy|kj
+Joypur Hāt|BD||6a|1xq|6vb|kb|Jaypur Hat;Jaipur Hāt;Joypurhat
+Yorba Linda|US||3p|2m5|-939|iw|Jorbalinda;Jorba Linda
+Ixtapa-Zihuatanejo|MX||41|1d0|-7u3|iq|Zihuatanejo;Ixtapa Zihuatanejo;José Azueta
+Johnson City|US|Tennessee|48|2sv|-6cr|ic
+Johor Jaya|MY||6v|4a|80d|ic
+Villa Poeta José Gálvez Barrenechea|PE||3o|-xx|-5xn|gy|José Gálvez Barrenechea;José Gálvez
+Jōsō|JP||7q|2s4|ass|gw
+Juan-les-Pins|FR||9k|3d1|jr|go|Joan dei Pins;Jüan-le-Pen
+Jose Rizal|PH||71|oo|92e|ge|Bayan ng Rizal;Jose P. Rizal
+Jonquière|CA||59|3qi|-5hx|f8
+Joplin|US||2f|2v0|-7aj|ee|Džoplinas;Džoplina
+Yeovil|GB||9b|3xi|-7b|dy|Jouvilis;Giuela
+Jobabo|CU|Las Tunas Province|36|1m3|-5yo|dq|Jababo
+Jodhpur|IN|Gujarat|6t|1ou|5ej|d5
+Jovellanos|CU||36|1rc|-69j|d4|Jovallanos
+Jawhar|SO||14|7q|3ie|d3|Jowhar;Giohar;Cavcavcal;Javohar;Jawahar;Johar;Joowhar
+João Pinheiro|BR||4w|-1da|-3k9|d0
+Joda|IN||6t|1p6|6la|cy
+Joal|SN||g|13d|-1at|cr
+Joint Base Pearl Harbor Hickam|US||ax|1nb|-c6r|bq|Joint Base Pearl Harbor-Hickam
+Jora|IN||6t|216|605|bq|Joura
+Zhovti Vody|UA||98|3qb|2l2|bp|Schowti Wody;Jovti Vody;Žovti Vody;Geltonieji Vandenys;Zjovti Vody;Jovti Vodî;Żółte Wody;Scholti Woody;Žovti Vodi;Zhovta Rika
+Jordan|HK||6i|1pz|8t5|bj
+José de Freitas|BR||2w|-d8|-3aa|ax
+Jogbani|IN||6t|21c|6qf|ax
+Joué-lès-Tours|FR||9k|3nj|1v|af
+José Bonifácio|BR|São Paulo|4w|-1mh|-3u1|a6
+Joliette|CA||59|3ju|-5ny|9o
+José Mariano Jiménez|MX||2g|23d|-83g|9j
+Jülich|DE||8r|3xg|ho|9f|Juliers;Iuliacum;Jöllesch
+João Câmara|BR||2w|-fe|-2ri|99
+Jora Khurd|IN||6t|21l|60m|8x|Jaura Khurd
+Joaçaba|BR||4w|-23i|-3z2|8d|Juaçaba
+Johnston|US|Rhode Island|48|386|-5in|84
+Jowai|IN||6t|1yo|743|7w|Jawai
+Jogonalan|ID||6l|-le|8j2|7t
+João Alfredo|BR||4p|-lu|-2qv|7p
+Jonava|LT||a3|490|1vg|7c|Juonava;Yonawa;Yonava;Ionava
+Jaynagar Majilpur|IN||6t|1pm|6tm|77|Jaynagar;Joynagar;Jaynagar Mazilpur;Jaynagar Mojilpur;Jaynagar Mozilpur;Joynagar Majilpur;Joynagar Mazilpur;Joynagar Mojilpur;Joynagar Mozilpur;Majilpur;Majilpur Jaynagar;Majilpur Joynagar;Mazilpur;Mazilpur Jaynagar;Mazilpur Joynagar;Mojilpur;Mojilpur Jaynagar;Mojilpur Joynagar;Mozilpur;Mozilpur Jaynagar;Mozilpur Joynagar
+Yoqne‘am ‘Illit|IL||6n|2ip|2ph|6x|Yokne‘am ‘Illit;Yokneam Illit;Jokneam Illit;Yoqne'am Illit
+João Dourado|BR||20|-vi|-37q|6x
+João Lisboa|BR||2w|-f5|-3no|6v
+Josefstadt|AT||a2|3px|19f|6t
+Jurm|AF||6o|2ue|5gr|6f|Jurn;Jorm;Jarm
+Jose Pañganiban|PH||71|13p|9gt|5w
+Johnston|US|Iowa|2f|37r|-78a|5t
+Johnstown|US|Pennsylvania|48|341|-638|5k|Džonstauna
+Johannisthal|DE||8r|41p|11j|5k
+Jordaan|NL||8m|41h|dk|5f
+Joaquín V. González|AR||1s|-1xr|-4y5|5c
+José Cardel|MX||41|1ht|-7fp|5b|Ciudad Cardel
+Jouy-le-Moutier|FR||9k|3s5|5o|5b
+Jojutla|MX||41|1fp|-7ni|59
+Jocotepec|MX||41|1kd|-7zb|59
+Balta|UA||98|3p6|2aa|55|Józefgród;Paliyeve;Palieve;Paliieve;Palieve Ozero;Paliyeve Ozero;Paliieve Ozero;Yuzefgrod;Yuzefhrad;Barta
+Jorat|AZ||61|34p|3u3|55|Corat
+Jogipet|IN||6t|1dk|60v|55|Joqipet
+Joinville-le-Pont|FR||9k|3rn|6v|52
+Jocotenango|GT||32|14i|-702|4z
+Józefów|PL|Mazovia|a5|40u|1n0|4z|Juzefova
+Jobabo|CU|Holguín Province|36|1m9|-5vy|4y
+Jona|CH||a7|3n7|ok|4x|Iohanna
+Gjøvik|NO||9j|4ow|tp|4w|Jovikas
+Kholmskiy|RU||9i|3gl|2yn|4v|Cholmskaja;Xolmskaya;Jolmskaya;Kholmskaia;Holmskaja;Kholmskaya
+Joaquim Gomes|BR||3r|-pd|-2rb|4u
+Yorkton|CA||4q|3ya|-7wn|4j|Jorktonas;Jorktona
+Johi|PK||6q|225|57t|4j
+Jollyville|US||2f|2ck|-7jm|4i
+Johnstone|GB||9b|4b3|-ck|4f|Baile Iain;Baile Eòin;Johnstoun
+Jodiya Bandar|IN||6t|1r4|5f8|4e
+Joselândia|BR||2w|-dv|-3g6|45
+Johnstown|US|Colorado|2p|342|-83f|45
+Johnson City|US|New York|48|390|-5v0|44
+Jomboy Shahri|UZ||7g|32a|56d|40
+João Neiva|BR||4w|-1iw|-347|3x
+Joaíma|BR||4w|-1a9|-35z|3v
+Joaquim Pires|BR||2w|-9r|-398|3v
+Joshīmath|IN||6t|2cw|650|3v|Joshinath
+Julfa|AZ||61|307|3ir|3t|Culfa;Jolfā
+Hojambaz|TM||5x|2xw|50k|3r|Joyambaz;Hocambaz
+Jorf|MA||d|2fh|-c9|3q
+Joaquim Nabuco|BR||4p|-ny|-2qp|3q
+Joyabaj|GT||32|15n|-708|3o
+Joure|NL||8m|435|g4|3n|De Jouwer
+Joanópolis|BR||4w|-1rp|-3kk|3k|Joannopolis
+Joppatowne|US||48|31h|-5w4|3i
+Jódar|ES||9d|2x4|-9b|3e
+Johnsonville|NZ||ak|-36i|dhk|3e
+József Attila-lakótelep|HU||8v|3nu|1h4|3d
+Jork|DE||8r|44p|qw|3c
+Joaquim Távora|BR||4w|-1ta|-3up|3c
+Jobat|IN||6t|1qa|5r5|3c
+Jodoigne|BE||8t|3ww|dj|3b|Geldenaken;Djodogne
+José María Morelos|MX|Quintana Roo|2b|1iv|-6uf|3a
+Joigny|FR||9k|3pa|9g|37|Ioviniacum
+Jobner|IN||6t|22x|5tf|36
+Johin|CI||0|g4|-iu|35
+Joniškis|LT||a3|4c8|1tm|33|Janiszki;Jonišķi;Yonishkis;Jonischki;Yanishki;Ionishkis;Joniškio
+Joint Base Lewis McChord|US||3p|3mv|-9gi|32|Base de la Fuerza Aérea McChord;McChord Air Force Base;Fuorto Lewis;Fort Lewis;Joint Base Lewis-McChord
+Jobstown|IE||8z|440|-ht|30|Ráth Miontáin
+Jordbro|SE||9w|4kb|1ec|30
+Jona Pur|IN||6t|273|5yb|2y
+Joutseno|FI||92|4ps|277|2y
+Jordânia|BR||4w|-186|-33m|2v
+Jõhvi|EE||9x|4kw|246|2t|Jehvis;Jehvi;Yıhvi;Jechvi;Iohvi;Jöhwi
+Giesen|DE||8r|410|ri|2r|Iesen;Joisen
+Jocón|HN||56|16g|-6pl|2p
+Jorge Jiménez Cantú|MX||41|1hn|-7ml|2n
+Joka|IN|West Bengal|6t|1qd|6ta|2l
+Joondalup|AU||8k|-2g6|8xl|2l
+Joghtāy|IR||7o|2ts|4ej|2l|Joghatāy
+Jūraqān|IR||7o|2ow|3qv|2k|Jowraqān
+Jordão|BR||4s|-q7|-5jo|2k
+Jorethang|IN||6t|23b|6tc|2i
+Khodoriv|UA||98|3t9|1vj|2i|Chodorów;Chodoriw;Jódoriv;Hodoriv;Chodoriv;Hodoriva;Chodorov;Khodorov
+Julfa|IR||7o|306|3ir|2g|Culfa;Jolfā
+Joiţa|RO||8u|3fl|1zt|2e
+Jocotán|GT||32|156|-6wb|2c
+Jouy-en-Josas|FR||9k|3rg|61|2c
+Johnstown|US|New York|48|3bh|-5ql|2b
+Jordan|PH||71|tm|9gk|2b
+Jonacatepec de Leandro Valle|MX||41|1fw|-7mg|29
+Youghal|IE||8z|40b|-lt|28|Eochaill;Yoal;Joulas;Iogalia
+Joane|PT||99|374|-nd|27
+Yuzhno-Kurilsk|RU||7f|3eb|b96|26|Juzjno-Kurilsk;Juschno-Kurilsk;Joezjno-Koerilsk;Iujno-Kurilsk;Južno-Kurilsk;Ioujno-Kourilsk;Yujno-Kurilsk;Juzhno-Kurilsk;Jujno-Kurilsk;Yuzhno-Kurl’sk
+Khoni|GE||7n|39l|39u|25|Choni;Chonis;Honi;Joni;Xoni;Koni
+Johannesvorstadt|DE||8r|3xn|un|23
+Joubertina|ZA||o|-2lz|1ua|23
+Joshua Tree|US||3p|2mt|-8z3|22|Josuo-Arbo
+George Town|BS||47|1tc|-5uj|21|Jorj Shahri;Kota George;Bandar George;Pueblo George;Ville de George;Kutha George;Cidade de George
+Jørpeland|NO||9j|4jy|gs|20
+Jóia|BR||4w|-27l|-46c|20
+Joviânia|BR||4w|-1dh|-3tt|20
+Jovim|PT||99|367|-no|1z|Juvim
+Jœuf|FR||9k|3sr|gq|1z|Žiofas
+Jolalpan|MX||41|1ew|-7mk|1y
+Jowzdān|IR||7o|2ig|3yp|1y
+Jockgrim|DE||8r|3sd|mz|1y
+Jenāḩ|IR||7o|232|46s|1x|Janāḩ;Jonāḩ
+Jonuta|MX||41|1e9|-73y|1x
+Sovetskiy|RU|Leningradskaya Oblast'|9i|4o6|27o|1u|Johannes;Sovetskij;Iogannes;Iokhannes
+Joaquín Suárez|UY||45|-2oi|-4bn|1u
+Jokela|FI||92|4o7|1xc|1t
+Johnson Lane|US||3p|30h|-98k|1t
+Jõgeva|EE||9x|4j7|21b|1s|Jegeva;Yıgeva;Yogeva;Yygeva
+Jokiniemi|FI|Uusimaa|92|4o9|21i|1s|Ånäs
+Johnsburg|US||2f|39q|-6t4|1r
+Jordan|US|Minnesota|2f|3g3|-783|1p
+Joshua|US||2f|2i6|-7ij|1p
+Yakoruda|BG||9v|38r|1ts|1o|Jokoruda;Yokoruda;Jakoruda
+José Boiteux|BR||4w|-22w|-3tv|1o
+Khojaly|AZ||61|32v|3lz|1m|Xocalı;Ivanyan;Khodjaly;Xocalı rayonu;Ĥoĝali;Xocalın piirikunta;Khojali;Daerah Khojali;Khojali Rayon;Rayon Khojali;Distrito ng Khojali;Hocalı Rayonu;Rejon Xocalı;Hojali;Joyalí;Khodzhaly;Khozhali
+José da Penha|BR||2w|-hk|-2yc|1m
+Jonage|FR||9k|3j8|e1|1m
+Joseni|RO|Harghita County|8u|3lq|1yu|1k|Joseri
+Juva|FI||92|4ry|25d|1k|Jockas
+Johanngeorgenstadt|DE||8r|3w3|zb|1k|Johanngeorgenštate
+Jordanstown|GB||9b|47w|-ge|1j
+Joca Marques|BR||2w|-9q|-39v|1i
+Jöhlingen|DE||8r|3s7|nt|1h
+Jogindarnagar|IN||6t|2gv|5xb|1h|Joginder Nagar
+Jonesborough|US||48|2st|-6d3|1h
+Yoko|CM||j|fd|y8|1h|Joko
+Jones|PH||71|1a0|9e2|1g|Cabanuangan
+Jordanów|PL||a5|3tx|1j3|1g|Jordanova
+José Pedro Varela|UY||45|-2kx|-47i|1f
+Jordan Springs|AU||8l|-2lo|bmp|1f
+Joshipur|IN||6t|1p0|6n4|1f|Jashīpur
+Georgetown|SH||89|-m1|-141|1e|Corctaun;Džordžtaunas;Džordžtauna;Jorjtown
+Jouars-Pontchartrain|FR||9k|3rj|5a|1e
+Josenii Bârgăului|RO||8u|3n6|1wk|1e|Josenii-Bârgăului;Josenii Bîrgăului
+Johnstown|US|Ohio|48|33j|-6dp|1d
+Jokioinen|FI||92|4ow|1t8|1c|Jockis
+Jonesboro|US|Georgia|48|2l4|-6ib|1b
+Joondanna|AU||8k|-2gn|8xs|1b
+Jangīyeh|IR||7o|2es|3r2|1a|Jangeyeh;Jongīyeh
+Jonesboro|US|Louisiana|2f|2hk|-75k|1a
+Joroinen|FI||92|4sq|25b|19|Jorois
+Jonzac|FR||9k|3i9|-17|19
+Józefosław|PL||a5|40q|1mh|19
+Jonai Bazar|IN||6t|25b|7ci|19
+Joinville|FR||9k|3qk|ea|18
+Jorada|IN||6t|1m4|6kg|18
+João Ramalho|BR||4w|-1pt|-3x1|18
+Joanésia|BR||4w|-1h9|-3ak|17
+Jocoro|SV||2u|11u|-6si|17
+Jourdanton|US||2f|28c|-7lr|17
+José Raydan|BR||4w|-1em|-3a2|17
+Jonquières|FR|Provence-Alpes-Côte d'Azur|9k|3ek|dm|16|Joncquières
+Jongīyeh|IR||7o|2eu|3r2|16|Jangīyeh;Jangeyeh
+Ieud|RO||8u|3og|1vb|15|Jód;Jeud
+Joka|IN|West Bengal|6t|1qh|6sd|15
+Jodłowa|PL||a5|3uj|1n4|15
+Joutsa|FI||92|4rh|20k|15
+Jovita|AR||1n|-2nw|-4xm|15
+Gordon Heights|US||48|35i|-5mp|14|Jordan Heights
+Joquicingo de León Guzmán|MX||41|1gx|-7oh|14
+Jorochito|BO||3n|-1e6|-4w7|14|Jorochiba;Jorochita
+Kholm|RU|Novgorod Oblast|9i|4er|2em|14|Jolm;Xolm;Ĥolm;Chołm
+José Gonçalves de Minas|BR||4w|-1az|-3ac|14
+Jovellar|PH|Bicol Region|71|10b|9jc|13
+Jomulco|MX||3x|1mm|-823|13
+Johannesberg|DE||8r|3uz|pe|13
+Joaquim Felício|BR||4w|-1dc|-3ep|13
+Jodhan|IN||6t|2dk|5ug|12
+Jouarre|FR||9k|3rx|8p|11
+Jomala|AX||9f|4n3|1jf|11
+Johnson|US|Arkansas|2f|2sd|-79l|10
+Josenópolis|BR||4w|-19z|-3a4|10|Jesenópolis
+Josipovac|HR||a6|3im|1fm|10
+Johnston City|US||2f|2x2|-6v1|z
+Jouques|FR||9k|3d8|fo|z|Jocas
+Jobos|PR||4m|1dw|-53t|z
+Digdig|PH||71|18b|9c2|z|Joson
+Joachimsthal|DE||8r|436|126|z|Joahimstāle
+Zhuravno|UA||98|3su|1vg|x|Żurawno;Juravno;Schurawno;Jouravno;Zsuravno;Juravne;Zhuravne
+Jonschwil|CH||a7|3nq|p9|w|Iohannisvilaris
+Jubbega|NL||8m|438|h0|w|Jobbegea
+Jelšava|SK||8s|3r3|1k8|w|Jolsva;Velsava
+Josefina|PH||71|ms|9j5|w
+Jojoima|SL||l|lw|-tz|v|Joioima
+Jūqīn|IR||7o|2t1|3q8|v|Joqin
+Joshil|MX||41|1bx|-74k|v
+Jollas|FI||92|4n4|1xn|v
+Jocoqui|MX||41|1l6|-7rq|v|Jocoque
+San Andrés Duraznal|MX||41|1bl|-75s|u|Jotolchen;Jotelchén
+José María Morelos|MX|Jalisco|41|1io|-846|u|Agua Paloma
+João Costa|BR||2w|-nl|-39u|u
+Jones|US||2f|2qt|-7i9|t
+Jonquières-Saint-Vincent|FR||9k|3dr|co|t|Jonquièra de Sent Vincenç
+Johnson Creek|US||2f|3bo|-6ul|t|Johnson's Creek
+Kholmske|UA||98|3j4|297|t|Jolmske;Selioglu;Cholmske
+Johnsonburg|US|Pennsylvania|48|35l|-634|s
+Jokkmokk|SE||9w|551|1j2|s|Jokimukka;Jåhkåmåhkke
+Joyner|AU||8c|-23s|bsu|s
+Josselin|FR||9k|3p8|-73|s|Josilin;Iosselina
+Joachín|MX||41|1fs|-7fc|q|Juachín
+José María Morelos|MX|Chiapas|41|18k|-733|q
+Joroan|PH||71|11h|9je|q|Horoan
+Johannedal|SE||9w|4tf|1c9|q
+Kholodna Balka|UA||98|3lh|2cy|q|Holodna Balka;Chołodna Bałka;Jolodna Balka
+José María Pino Suárez (Nuevo Nahuapa)|MX||41|1jf|-84l|q
+Jonka|IN||6t|1r1|6sf|p|Joka
+Parahat|TM|Mary|5x|2w7|4pk|p|Jojukly
+Jowlarestān|IR||7o|2ii|3z7|p|Jolarestān
+York|AU||8k|-2gl|90d|p|Jorko
+Johanniskirchen|DE||8r|3qt|zz|p
+Jorobas|MX||41|1j2|-7np|o
+Józefów|PL|Lublin|a5|3w8|1s1|o|Juzefova
+Jogīghopa|IN||6t|20v|6zl|o
+Jöhstadt|DE||8r|3wb|10d|o|Jēštate
+Johnsonburg|US|Pennsylvania|48|379|-62k|o
+Jovellar|PH|Davao Region|71|jm|9ra|o
+Johnston|US|South Carolina|48|2lz|-6b8|n|Johnson
+José María Morelos|MX|Oaxaca|41|190|-7k1|n
+Jobbágyi|HU||8v|3ov|1io|n
+Joaquim Egídio|BR||4w|-1rl|-3me|n
+Jowkār|IR||7o|2nn|3r9|n|Jokar;Jow Kār
+Jonesville|US|North Carolina|48|2so|-68k|n
+Jáchymov|CZ||9m|3vw|zx|m|Joachimsthal;Jachymów;St. Joachimstal
+Jonesville|US|Michigan|2q|38m|-6j6|m
+José Batlle y Ordóñez|UY||45|-2kz|-494|m
+Jonesville|US|Louisiana|2f|2fv|-732|m
+Jokipohja|FI||92|4qs|1u5|m
+Jơ Ngây|VN||6h|189|8bd|l
+Jouy-sur-Morin|FR||9k|3rk|93|l
+José Enrique Rodó|UY||45|-2lm|-4ft|l
+José María Morelos y Pavón|MX|Sonora|37|262|-8jh|l|La Atravesada
+José María Pino Suárez|MX|Chiapas|41|19v|-78e|l
+João Dias|BR||2w|-hf|-2x0|l
+Jones Creek|US||2f|28h|-7d6|l
+Johnston|AU||8e|-yp|a3x|k
+Jūsheqān-e Estark|IR||7o|2ml|3ya|k|Jūsheqān Estark;Jūsheqān-e Estarak;Jowsheqan-e Estark
+Jonestown|US|Texas|2f|2cq|-7k0|k
+José María Pino Suárez|MX|Durango|44|1uc|-829|k
+Johnston Square|US||48|316|-5wt|k
+Juodupė|LT||a3|4bt|1z5|k|Jodupe;Pojedupie;Joudopė;Yuodupe
+Jonstorp|SE|Skåne|9w|4c7|z7|k
+Johnson City|US|Texas|2f|2c4|-7ld|k|Kota Johnson
+Jonestown|US|Pennsylvania|48|349|-5wg|k
+Jorăşti|RO|Galați County|8u|3jq|25f|j
+Johnston|GB||9b|3zs|-dw|j
+Jonchery-sur-Vesle|FR||9k|3sx|al|j
+Jouy|FR||9k|3qr|4b|j
+La Cueva|MX||41|1kw|-7r0|j|Joaquín Herrera
+Bourg de Joué-sur-Erdre|FR||9k|3ny|-3y|i|Yaoued;Joué-sur-Erdre;Ioseium
+Jodłówka|PL|Subcarpathia|a5|3ul|1qf|i
+Jopala|MX||41|1k0|-7jd|i
+Jonstorp|SE|Västra Götaland|9w|4h4|zc|i
+Jonesboro|US|Illinois|2f|2w1|-6vz|i
+Santiago Jocotepec|MX|Oaxaca|41|18t|-7io|i|Jocotepec;Jacotepec
+Józefów|PL|Mazovia|a5|40z|1li|i
+Jonadi|IT||9o|2zb|18m|i
+José María Morelos (La Yegüería)|MX||41|1j6|-7s8|i
+Johnsonville|US|Tennessee|2f|2s6|-6sb|h
+José María Morelos y Pavón|MX|Zacatecas|41|1ua|-7yi|h|La Almoloya
+Jofrito|MX||41|1ly|-7qy|h
+José Guadalupe Aguilera (Santa Lucía)|MX||44|1vx|-82v|h
+Joaquín Miguel Gutiérrez|MX|Chiapas|41|17x|-73f|h|Quespala
+Jonesboro|US|Indiana|38|34g|-6lv|h
+Jonen|CH||a7|3ne|nb|h
+John Day|US||3p|3fe|-96f|h
+Joaquín Miguel Gutiérrez|MX|Chiapas|41|19h|-77d|h
+Jocolí|AR||1q|-2ii|-5ar|g
+Joaquín Miguel Gutiérrez (Margaritas)|MX||41|177|-76l|g
+Jois|AT||a2|3p8|1ao|g|Nyulas
+Jouy-aux-Arches|FR||9k|3sa|gw|g|Gaudiacum
+Jochberg|AT||a2|3nm|yi|g
+Tamaulipas|MX||41|17t|-77h|g|Joaquín Amaro
+Jolanda di Savoia|IT||9o|3go|xa|g
+Joyeuse|FR||9k|3fk|bs|g
+Jolotichán|MX||41|1aj|-7m9|g
+Joanna|US||48|2nl|-6b9|f
+Jouy-le-Châtel|FR||9k|3r7|8p|f
+Jouet-sur-l'Aubois|FR||9k|3mp|8b|f|Jouet-sur-lAubois
+Johnsonville|US|South Carolina|48|2ly|-64p|f|Jonsonville
+Jonkowo|PL||a5|45j|1kf|f
+Joka|IN|Odisha|6t|1pc|6o7|f
+Jolimont|AU|Victoria|8j|-2x2|b6q|f
+Joba Arriba|DO||4v|1id|-5f7|f|Jobo Arriba
+Jörlanda|SE||9w|4h3|wv|f
+Jonesport|US||48|3fp|-57s|f
+José de San Martín|AR||1m|-3ed|-5fr|f
+Johnson|US|Vermont|48|3g0|-5lw|f
+Jongny|CH||a7|3l4|j0|e
+Jouy-le-Potier|FR||9k|3on|51|e
+Jodłówka|PL|Lesser Poland|a5|3uv|1l3|e
+José F. Gutiérrez|MX||41|1e2|-7at|e|José G. Gutiérrez
+Joseph City|US||4i|2p4|-8ih|e|Náyaasęęsí
+Beliş|RO||8u|3ll|1rz|e|Jósikafalva
+Joncherey|FR||9k|3o1|jg|e
+José Guadalupe Rodríguez|MX||44|1vk|-814|e|Peñuelas
+José María Morelos|MX|Puebla|41|1h6|-7ir|e
+Jokiniemi|FI|Uusimaa|92|4ni|1xm|e|Ånäs
+Jolimont|AU|Western Australia|8k|-2gr|8xp|d
+Jordan|US|New York|48|3bn|-5wf|d
+José María Morelos|MX|Durango|44|1xh|-849|d
+Johnson|US|Kansas|2f|2wd|-7un|d
+Jonquerettes|FR||9k|3e3|dp|d|Joncairetas
+Jorăști|RO|Vrancea|8u|3iz|23q|d
+Jonestown|US|Maryland|48|315|-5ws|d
+Juanicó|UY||45|-2o3|-4c9|d|Joanicó
+Joljá|MX||41|1bs|-74y|d
+Jolochero 2da. Sección|MX||41|1ec|-75s|d
+Jonzieux|FR||9k|3hv|c4|d
+José Refugio Salcido|MX||44|1uk|-82c|d
+José María Morelos (San José)|MX||41|1io|-7lu|d
+Jougne|FR||9k|3lw|hr|c
+Jons|FR||9k|3j9|e4|c
+Joševa|RS||8q|3fv|1hx|c|Joševo
+Jonacapa|MX||41|1ks|-7oh|c
+José María Morelos|MX|Tlaxcala|41|1ho|-7k6|c
+José María Morelos (Santa Mónica)|MX||41|1tl|-7yf|c
+Joldești|RO||8u|3o4|21u|c
+La Joya de Calvillo|MX||41|1ln|-7u9|c|Joya de Calvillo
+Jonestown|US|Mississippi|2f|2nc|-6za|c
+Jördenstorf|DE||8r|45o|z2|c
+Joconal|HN||56|16o|-6u7|c|Jaconal;Goconal
+José María Morelos|MX|Zacatecas|41|1ss|-7y5|c
+Verkhniye Kayrakty|KZ||5s|3r8|5nk|c|Joğarğy Qairaqty
+José María Morelos y Pavón|MX|Chiapas|41|1bw|-75i|b
+Josephine|US||2f|2ju|-7fj|b
+Joslin|AU||8b|-2oy|ap3|b
+Jolivue|US||48|2xv|-63n|b
+José Esteban Coronado|MX||2g|22a|-844|b
+Jodłówka-Wałki|PL||a5|3v1|1mp|b
+Jomanichim|MX||41|1ay|-74v|b
+Joux-la-Ville|FR||9k|3oa|aq|b
+Jose Narciso Rovirosa|MX||2b|1eb|-6uh|b
+Jolsibaquil|MX||41|1by|-74w|b
+José María Morelos|MX|Tlaxcala|41|1i3|-7ko|b
+Joudreville|FR||9k|3sx|g2|b
+Job|IN||6t|1mc|67p|b
+Jonotla|MX||41|1jn|-7j2|b
+José María Pino Suárez|MX|Hidalgo|41|1k9|-7o6|b
+Joseph|US||3p|3hz|-91n|b
+Joconoxtle (La Tuna)|MX||41|1kt|-7x8|b
+Job|FR||9k|3iq|af|b
+Józefów nad Wisłą|PL||a5|3xs|1on|a
+Johnstonville|US||3p|346|-9az|a
+Josefův Důl|CZ||9m|3x2|16b|a
+José Colomo|MX||41|1dv|-74v|a
+Josipdol|HR||a6|3hj|16h|a
+Xoconoxtle el Grande|MX||41|1m6|-7si|a|Joconoxtle Grande;El Pueblito
+Zabukovica|SI||9a|3kd|164|a|Journal of Animal Science Biology and Bioeconomy
+Johnstown|IE||8z|43w|-ie|a|Baile Eoin
+Joltealal|MX||41|1bg|-75a|a
+Joppolo Giancaxio|IT||9o|2vv|11o|a|Joppulu Giancaxiu
+Jordanów Śląski|PL||a5|3xa|1av|a
+Josefov|CZ||9m|3v5|142|a|Josefstadt
+Jonesville|US|Virginia|48|2tx|-6ev|a
+Jodłownik|PL|Lesser Poland|a5|3ua|1k8|a
+Josnes|FR||9k|3or|49|a
+Joze|FR||9k|3je|96|a
+Jol Sacún|MX||41|1bj|-736|a
+Joel|US||2f|3i0|-747|a
+John Sam Lake|US||3p|3pn|-9fl|a
+José María Pino Suárez|MX|Tabasco|3z|1eu|-746|a|San Pedro
+Joseni|RO|Buzău County|8u|3hv|222|a|Joseui
+Joltzemén|MX||41|1ap|-75a|9
+José María Morelos|MX|Zacatecas|41|1t0|-80m|9
+Jolimetz|FR||9k|3vj|a8|9
+Jocotitlán|MX||41|1fx|-7p3|9
+Jomalho|MX||41|1as|-75k|9
+Jonsered|SE||9w|4gf|xt|9
+Joka|IN|Odisha|6t|1pt|6oc|9
+José María Morelos|MX|Veracruz|41|1k6|-7iz|9
+José María Morelos y Pavón|MX|Veracruz|41|1f5|-7ci|9
+José María Morelos y Pavón|MX|Chiapas|41|1bf|-76p|9
+Jolitontic|MX||41|1bd|-75c|9
+Jowharestān|IR||7o|2i0|3ze|9
+Jörl|DE||8r|47o|pu|9
+Jonesville|US|South Carolina|48|2os|-6aw|9
+Jolivet|FR||9k|3r1|i2|9
+Jones Hill|AU||8c|-20v|bs3|9
+José María Pino Suárez|MX|Veracruz|41|1lm|-7lb|9|Pino Suárez
+Jolly Harbour|AG||1j|1bf|-4rx|9|Jaali Aaba
+Jouy-sous-Thelle|FR||9k|3t1|5i|9
+José María Morelos|MX|Michoacán|41|1iz|-7qt|8|Manzana de Guadalupe;Manzana Guadalupe
+Jobchenón (La Granadilla)|MX||41|1af|-75w|8
+José María Morelos|MX|Zacatecas|41|1pi|-7u1|8
+Jol Hic'Batil|MX||41|1bl|-73l|8
+Joloapan|MX||41|1k8|-7i8|8|Jaloapan
+Jeruco|MX||41|1jh|-7t1|8|Joruco
+Jonotal Azteca|MX||41|1lf|-7kj|8|Jonatal Azteca;Johatal Azteca
+José Castillo Tielemans|MX||41|1bn|-751|8
+Joluta|MX||41|1dy|-7v5|8
+Joaquin|US||2f|2gt|-799|8
+José María Morelos y Pavón (Las Delicias)|MX||41|1d0|-765|8|Las Delicias
+Iohanisfeld|RO||8u|3il|1ly|8|Johannisfeld;Johanisfeld;Iohannisfeld
+Xoconoxtle|MX|Guanajuato|41|1k8|-7td|8|Joconoxtle
+Jocutla|MX||41|1c6|-7ne|8
+José María Morelos y Pavón Centro|MX||41|1d4|-731|8
+Jofre|MX|Querétaro|41|1lx|-7qy|8
+Joroches (Joroches Nuevo)|MX||41|1kh|-7tz|8
+Jodoigne-Souveraine|BE||8t|3wv|dg|8
+Josse|FR||9k|3d8|-3e|8
+Dolynske|UA|Zaporizhzhia|98|3lz|2pt|8|Johannesruhe;Johannesruh;Dolyns’ke
+Dobrá Voda|SK||8s|3r0|1cq|8|Jókő;Gutwasser;Guttenstein;Bona Aqua
+Jourgnac|FR||9k|3j0|3d|8
+Joe Batt's Arm-Barr'd Islands-Shoal Bay|CA||50|3u4|-46i|8
+Jörn|SE||9w|50q|1jo|8
+Jonchery|FR||9k|3pq|e5|8
+Johannishus|SE||9w|4c6|16u|8
+Jojupango (San Miguel Jojupango)|MX||41|1ju|-7jl|8
+Jolpokitioc|MX||41|1bz|-74t|8
+Joppolo|IT||9o|2z6|186|8
+José Santos Bañuelos|MX||41|1un|-7ze|8|Nuevo;JoséSantos Bañuelos
+Joliette|MX||41|1f5|-7fq|7
+José Contreras|DO||4v|1i3|-5fp|7
+Joya Real|MX||41|1bg|-7lb|7
+Joldelund|DE||8r|47t|pd|7
+Johns Hopkins Homewood|US||48|319|-5wu|7
+José Isabel Robles|MX||44|1wg|-7yx|7
+Jolochero|MX||3z|1co|-710|7
+Jocosic|MX||41|1ak|-74u|7
+Joncret|BE||8t|3vv|cj|7
+Jonesburg|US||2f|2zx|-71n|7
+Jol Mom|MX||41|1nu|-7n5|7
+Janová|CZ||9m|3sz|1e2|7|Johanová
+Joybé|MX||41|1ba|-73z|7
+Yotvata|IL||6n|2b2|2pe|7|Jotvata
+Jössefors|SE||9w|4lr|yq|7
+Jormannsdorf|AT||a2|3nj|192|7
+José María Morelos y Pavón|MX|Tlaxcala|41|1i5|-7kd|7
+José María Luis Mora|MX||44|1qt|-7kc|7|Las Margaritas
+Jolotca|RO||8u|3m6|1yx|7
+Josipovac Punitovački|HR||a6|3i6|1f6|7
+José Santos Bañuelos (Bañuelos Viejo)|MX||41|1uo|-7zg|7
+Joya del Tejocote|MX||41|1ik|-7nz|7
+José María Morelos y Pavón|MX|Campeche|3z|1h1|-700|7
+José María Morelos|MX|Zacatecas|41|1u1|-7zr|7
+Johnshaven|GB||9b|4dr|-6i|7
+Josefa Ortiz de Domínguez (La Esmeralda)|MX||41|18f|-78c|7
+Jorba|ES||9d|37k|4b|7
+Jordans|GB||9b|3zd|-1n|7
+Johnson Siding|US||2p|3eg|-7zc|7
+Janské Lázně|CZ||9m|3wn|17u|7|Johannisbad;Jańskie Łaźnie
+Löwenstedt|DE||8r|47q|ph|7|Løvensted;Jöömst
+Joya de los Molinos|MX||41|1i5|-7u8|7
+Jordtveit|NO||9j|4hv|nn|7|Jortveid
+Johnstown Bridge|IE||8z|44c|-j2|7|Johnstownbridge
+Jofre|MX|Guanajuato|41|1kv|-7s4|6|Joffre
+José María Morelos|MX|Veracruz|41|1kg|-7im|6
+Joaquín Miguel Gutiérrez (El Manzano)|MX||41|150|-74e|6
+Joliet|US|Montana|2p|3id|-8ep|6
+Joux|FR||9k|3jh|c5|6
+José María Morelos y Pavón|MX|Chiapas|41|1bz|-745|6|José María Morelos
+Jolnachoj|MX||41|1b0|-75q|6
+Joigny-sur-Meuse|FR||9k|3ug|d8|6
+João Teves|CV||84|15v|-1tj|6
+El Jobo|MX|Veracruz|41|1h5|-7go|6|Jobo Viejo
+José Guadalupe Rodríguez (Despoblado)|MX||41|1hy|-7ft|6
+Jonesboro|US|Maine|48|3g2|-57p|6
+Jovencan|IT||9o|3iz|k7|6
+José de la Cruz Blanco|MX||3z|1fq|-706|6
+Joloniel|MX||41|1c8|-74g|6
+Jossa|DE||8r|3vk|qn|6
+José María Pino Suárez|MX|Puebla|41|1ge|-7ji|6
+Jönåker|SE||9w|4j6|1ag|6
+José María Morelos y Pavón|MX|Tabasco|41|1f6|-75x|6
+Jollain-Merlin|BE||8t|3we|9g|6
+José María Morelos y Pavón|MX|Tabasco|41|1ct|-77s|6
+Johnson City|US|Oregon|3p|3i4|-9gi|6|Thành phố Johnson
+Jonquières|FR|Hauts-de-France|9k|3t7|7l|6
+Jossigny|FR||9k|3ro|7n|6
+Jorge L. Tamayo (Poblado Dos)|MX||41|1bx|-7ax|6
+José María Pino Suárez (Providencia)|MX||44|1vr|-813|6
+Jouy-sur-Eure|FR||9k|3s9|3m|6
+José María Pino Suárez 1ra. Sección|MX||41|1db|-785|6
+Joaquín Miguel Gutiérrez|MX|Chiapas|41|1aq|-73n|6
+Jonzier|FR||9k|3jz|gn|6
+Joya de Luna|MX||41|1qb|-7qy|6
+Joya Chica|MX|Veracruz|41|1lj|-7k8|6
+João Dias|CV||84|163|-1tr|6
+Zoița|RO||8u|3hu|233|6|Joiţa
+Jodłownik|PL|Lower Silesia|a5|3wp|1a5|6
+Jopopaco|MX||37|22a|-8fj|6|Copopaco
+Joué-en-Charnie|FR||9k|3pe|-j|6
+Jorobamba|PE||3o|-g9|-62d|5
+Joiner|US||2f|2qn|-6yf|5
+Joya Chica|MX|Veracruz|41|1if|-7hi|5
+Joffre|US||48|346|-678|5
+José María Morelos|MX|Michoacán|41|1ie|-7ro|5|Ziripeo
+Jouy-Mauvoisin|FR||9k|3s2|4l|5
+Jaghdān|IR||7o|2gl|3x0|5|Joghdan
+Joljamil|MX||41|1by|-74g|5
+José María Patoni|MX||44|1x4|-825|5|José María Pathoni
+Jochinteol|MX||41|1cn|-74o|5
+Jol Tulijá|MX||41|1bp|-72r|5
+José de Jesús Aguirre|MX||41|1ns|-7wn|5
+Jorquera|ES||9d|30t|-48|5
+Joppa|US||2f|2na|-6og|5
+Joquin|US||2f|2gb|-6nc|5

@@ -1,0 +1,324 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Gaziantep|TR||94|2uy|2vu|h5c|Aintab;Dîlok;Qaziantep;Qazianteb
+Aden|YE||5r|zi|3h4|8bx|Adem;Cadan;Adan;Áidin
+Al Ain City|AE||6c|1v7|4aw|6j7|Al Ain;Al-Ain;Al-Ajn;Al-Ayn;Ainas;Al Ajn;Al Ayn;El-Ajn;El Ain;Al ‘Ayn
+Aihara|JP||7q|2qw|ar0|5lj
+Okazaki|JP||7q|2p3|al1|2yv|Aichi;Okasaki;Okadzaki
+Aizawl|IN||6t|1tx|75k|29i|Aizol;Aijal;Aizwal;Aizavlis;Ai jal;Aizal
+Haifa|IL||6n|2j5|2p8|279|Hajfo;Hajfa;Ḥeyfa;Hayfa;Lungsod ng Ḥefa;Aifa;Hepha;H̱efa;Heifā
+Aachen|DE||8r|3x2|gw|21o|Aquisgrán;Aquisgrà;Cáchy;Aix-la-Chapelle;Aquisgrana;Aquisgranum;Oochen;Aoke;Aken;Akwizgran;Aquisgrano;Åxhe;Oche;Āhene;Aquae Grani;Achenas;Aaxen;Akisgran;Axın;Achen;Aquisgrão
+Aberdeen|GB||9b|4eq|-5u|1j6|Aiberdeen;Devanha;Obar Dheathain;Aberdonia;Aberdin;Aberdon;Aberdīna;Aberdynas;Aberdīns;Â-pak-tên;Aberdino
+Laayoune|EH||k|23e|-10n|1ij|Aaiún;El Aaiún;Al-Aaiun;Ajuno;O Aaiún;Al-Ajoen;Al-Ujun;El-Aaiún;Al-Ayun;El Ayun;Al Ayoun;La’Youn;El Aiún;Aiun;Aaium
+Aihui|CN||7i|3uu|9u4|1hk|Ai-hun
+Ait Melloul|MA||d|2ca|-qe|1g5
+Aydın|TR|Aydın|94|2x5|25c|19a|Tralleis;Tralli;Aidinas;Ajdın;Aïdin;Tralles
+Aix-en-Provence|FR||9k|3cx|f5|14s|Æx-in-Profentse;Ais de Provença;Aquae Sextiae;Aikso Provenca;Ēksanprovansa;Provanso Eksas
+Aizu-Wakamatsu|JP||7q|2w5|asr|wu|Aizuwakamatsu
+Aïn Beïda|DZ||3|2rg|kj|w9|Aïne Beïda
+Airoli|IN||6t|1h7|5ms|rs
+Aïn Oussera|DZ||3|2qh|83|r9
+Airdrie|CA||2s|3yi|-8ss|p0
+Glyfáda|GR||8p|2x6|1u0|o9|Aixone;Glifádha
+Aira|JP||7q|2g9|a2r|l7
+Aïn Temouchent|DZ||3|2q2|-36|jo|Ain Temushent;Aïne Temouchent;Ain Temonchent;Aïn Témoucheni
+Ayvalık|TR|Balıkesir|94|318|225|jg|Aivali
+Aigáleo|GR||8p|2xi|1ts|jf|Aegaleo
+Aïn Harrouda|MA||d|2lg|-kp|iy|Aïn el Harrouda
+Aïn M’Lila|DZ||3|2s4|i9|i6|Aïne Mlila
+Aisai|JP||7q|2po|ajt|gw|Aiszai;Aisajus
+Eschweiler|DE||8r|3x6|hf|fi|Aischwiele;Ešveilere;Ešveileris;Eşvayler;Ascvilare;Ešveilers
+Aïn Touta|DZ||3|2qa|ge|fh
+Aïn Defla|DZ||3|2sq|5h|fd
+Ain El Aouda|MA||d|2lw|-iv|f4|Aïn el Apuda
+Ajaccio|FR||9k|38g|oa|f4|Aiacciu;Ajacciu;Ajacio;Ažaksjo;Ajačas;Adiacium
+Aïn Oulmene|DZ||3|2rs|eq|e8
+Aïn Fakroun|DZ||3|2rx|j3|dk|Aïne Fakroun
+Aībak|AF||6o|2sq|58y|da|Aybak;Eybak
+Aïn Sefra|DZ||3|2iz|-1m|d6|Aïne Sefra
+Ain Sukhna|EG||c|2a8|2hs|co|Ain El Sukhna
+Ait Ourir|MA||d|2fp|-la|bv|Ait Urir
+Asaita|ET||2|w5|374|ay|Assayta;Asayita;Asajta;Aisaita;Āysa’īta;Assayita;Asayta
+’Aïn Azel|DZ||3|2ri|fb|ak
+Aïn el Bya|DZ||3|2rg|-u|ac
+Airdrie|GB||9b|4b7|-b2|a4|Erdris;An Àrd Ruigh;An t-Árd Ruigh
+’Aïn el Turk|DZ||3|2ra|-25|a3|Aïn-et-Turk;Aïne et Turk
+’Aïn Deheb|DZ||3|2os|4b|a1
+Novokazalinsk|KZ||7d|3jd|4sn|9z|Äyteke Bī;Äiteke Bi;Eitekebija;Äjteke Bi
+Aymanam|IN||6t|qp|5wi|9l|Aimanam
+’Aïn Merane|DZ||3|2sg|2p|9k|Aïne Merane
+Aïn Taya|DZ||3|2u7|95|9c|Aïne Taya
+’Aïn el Melh|DZ||3|2os|bk|95|Aïne Melah;Aïn Melh
+Aïn Bessem|DZ||3|2st|a7|91
+In Salah|DZ||3|23k|6w|91|In Ṣaleḥ;Ain Sala;Ajn Salih
+Aïn Smara|DZ||3|2sr|i2|8x|Aïne Smara
+’Aïn el Bell|DZ||3|2ne|8y|8v|Aïn el Ibel
+Airmadidi|ID||70|3z|9n6|8q|Ayermadidi;Airmodidi;Ajer Madidi
+Ajka|HU||8v|3mu|1cs|8q|Eickau;Ayka;Aika
+’Aïn Benian|DZ||3|2u8|84|8n|Guyotville;Guyoville;Ain Berrian;Cuyotville
+Aïn Taoujdat|MA||d|2ma|-eh|8l|Aïn Taoujat;Aïn Taoudjat;Aït Taoujdate
+Aiken|US||48|2l8|-6b0|8i
+Aïn Kercha|DZ||3|2rs|im|8i|Aïne Kercha;Aïn Kercka
+Einbeck|DE||8r|3zy|rf|8a|Aimbeck
+’Aïn Abid|DZ||3|2sn|ja|87|Aïne Abid
+Airport|US||ax|1na|-c6p|81
+Ain el Hadjel|DZ||3|2r3|as|7z|Aïne el Hadjel
+Aioi|JP||7q|2oo|adj|7w
+Aiud|RO||8u|3kn|1tw|7v|Strassburg;Nagyenyed;Ajuds;Egidiopolis;Ajudas;Ajud;Straßburg am Mieresch
+Ayoun El Atrous|MR||19|1aa|-qp|7u|Aïoun el Atrouss
+’Aïn el Hammam|DZ||3|2tk|bz|7s|Aïn-el-Hamam;Aïne el Hammam;Aïn El Hamman
+Aix-les-Bains|FR||9k|3ix|gf|7p|Eks le Benas;Aquae Sabaudiae;Èx-los-Bens
+Aïn Attig|MA||d|2m5|-jd|7m
+Aïn Arnat|DZ||3|2sj|er|71|Aïne Arnat
+Aimorés|BR||4w|-1i6|-362|71|Aymorés
+Arbroath|GB||9b|4d4|-77|6k|Aiberbrothock;Obar Bhrothaig;Arbrotas
+Eysines|FR||9k|3go|-1t|5y|Aisinas
+Aichach|DE||8r|3qm|ux|5u|Ayxax
+Aytos|BG||9v|3am|23p|5u|Ajtos;Aitos
+Aígio|GR||8p|2y9|1pc|5o|Aegium
+Friesoythe|DE||8r|43a|lu|5n|Ait;Aithe
+Aistala|IN||6t|1se|6u2|5e
+Aizu-misato Machi|JP||7q|2vx|asd|5a|Aizumisato-machi
+Beni Amrane|DZ||3|2tv|9z|54|Ait Bélaid;Beni Amran
+Aydūn|JO||5t|2ib|2rm|54|Aidūn
+Acqui Terme|IT||9o|3g4|nj|4y|Àich
+Aïn Beni Mathar|MA||d|2mh|-5n|4y
+Aileu|TL||6b|-o9|9ot|4u
+Ayer Itam|MY||6v|f0|7qk|4q|Air Itam
+Aimogasta|AR||1p|-27c|-55l|4m
+’Aïn el Berd|DZ||3|2q8|-1f|4l
+Đại Lộc|VN||6h|184|8cc|4i|Ái Nghĩa
+Ait Yazza|MA||d|2cq|-og|4c|Aït Lazza
+Aykhal|RU||7x|535|8lo|49|Aihal;Ajkhal;Aichal;Aichalas;Aihala;Aïkhal;Ayhal;Ajchal;Aihhal;Ayxal
+Aikou|CN||7i|26p|8e8|46
+Aiuaba|BR||2w|-i9|-33g|3x
+Aïn Lechiakh|DZ||3|2sg|6p|3t
+Aich Noadda Shahibag|BD||6a|1u9|6yr|3q
+’Aïn el Hadjar|DZ||3|2ok|f|3m|Aïne el Hadjar
+Ainaro|TL||6b|-oz|9on|3c|Ainaru
+’Aïn Boucif|DZ||3|2rp|8s|3c|Aïne Boucif
+Aydarken|KG||65|32y|5i6|3b|Khaydarkan;Xaydarkon;Aidarken;Khaidarkan
+Aïn Cheggag|MA||d|2m5|-e0|33
+Aiseau|BE||8t|3w1|cr|31|Aujau;Åjhô
+Ayer Molek|MY||6v|64|7w8|30|Air Molek
+Aywaille|BE||8t|3w7|fs|2y|Aiwêye
+Ardrossan|GB||9b|4al|-dd|2x|Àird Rosain;Ard Rushen
+Aire-sur-la-Lys|FR||9k|3wo|6o|2w|Ariën-aan-de-Leie;Ariën;Aria super Legia;Aire-su-la-Lys
+Aigle|CH||a7|3ko|jc|2t|Âgllo
+Ainring|DE||8r|3ot|zy|2s
+Ayer Hangat|MY||6v|hu|7pa|2s|Air Hangat
+Aïne Draham|TN||1e|2u6|o5|2p|Aïn Draham
+Aydar|UA||98|3tl|30o|2o|Aidar
+‘Ayn Jannā|JO||5t|2ht|2rc|2o|Ain Janna;Ayn Janna
+‘Aiea|US||ax|1ne|-c6p|2l|Aiea;Aieja
+Aidlingen|DE||8r|3r8|oq|2l
+‘Ilūṭ|IL||6n|2iw|2py|2j|Illūt;Ailut
+Aibonito|PR||4m|1ee|-543|2h
+Airmont|US||48|366|-5pw|2h
+Aiquile|BO||3n|-1ek|-512|2a
+Aizpute|LV||9n|4dk|1o0|29|Hasenpoth;Hasenpot;Hazenpot;Ayzpute;Aispute;Gazenpot
+Aintree|AU||8j|-2ws|b5v|28
+Aipe|CO||27|8y|-5t0|28
+Ain Aicha|MA||d|2nq|-d1|26|Ain Alcha
+Airport West|AU||8j|-2ws|b6g|23
+Airāvadanallūr|IN||6t|rj|614|22|Iravadanallur
+‘Ayy|JO||5t|2eh|2r0|21|Aiy
+Airola|IT||9o|362|14g|21
+Aegina|GR||8p|2wv|1t3|1x|Egina;Aígina;Aíyina
+Ajdovščina|SI||9a|3jh|12n|1w|Aidussina;Aydovshchina
+Aaïtanît|LB||64|2l8|2r3|1w|Aïtanît;Aïtanîte
+Ayer Hitam|MY||6v|5c|7ym|1v|Bandar Seramik;Air Hitam
+Aizkraukle|LV||9n|4d8|1y6|1v|Ascheraden;Ayzkraukle
+Air Force Academy|US||2p|30b|-83a|1v
+Airway Heights|US||3p|3oc|-92n|1u
+Ayn Ibn Fuhayd|SA||7e|22d|3et|1t|Ain ibn Fuhaid
+Aizenay|FR||9k|3lu|-4h|1t|Alzenay
+Aigues-Mortes|FR||9k|3d1|bn|1t|Aigüesmortes;Aigasmòrtas;Ėgiu Mortas;Aigas Mòrtas;Aquae Mortuae
+Aish Maqām|IN||6t|2m3|5t4|1t|Aish Mugām;Aishmuquam
+Eyguières|FR||9k|3dd|dz|1t|Aiguiera
+Aiuruoca|BR||4w|-1p2|-3fw|1q|Ayuruoca
+Aire-sur-l'Adour|FR||9k|3de|-q|1q|Aira;Aira d'Ador;Aire
+Aitolikó|GR||8p|2ys|1nb|1q|Aetoliko
+Aït Ouaoumana|MA||d|2iv|-g5|1o
+Aixe-sur-Vienne|FR||9k|3j8|36|1l|Aissa;Aixe-sur-Vienna
+Airali|IT||9o|3gi|k5|1k
+Aigburth|GB||9b|449|-84|1k
+Aitape|PG||bd|-8q|azf|1j|Eitape;Berlin Harbour;Berlinhafen;Bodinhafen
+Ayora|ES||9d|30i|-2y|1j|Aiora
+‘Aiea Heights|US||ax|1nf|-c6o|1j|Aiea Heights
+Aiyetoro|NG||u|hy|9a|1i
+Aïn Leuh|MA||d|2kh|-eu|1i
+Ain Karma|MA||d|2mh|-fm|1i
+Ainslie|AU||8l|-2py|bia|1f
+Airport Heights|CA||50|3o8|-42j|1e
+Aidone|IT||9o|2vx|145|1d|Aidoni
+Aitkenvale|AU||8c|-1hm|bbp|1d
+Aiánteio|GR||8p|2xc|1t6|1d|Aiándion;Moúlki;Aiántion
+Aiffres|FR||9k|3kl|-15|1c
+Kampung Air Lanas|MY||6v|g2|7v1|1a|Ayer Lanas;Air Lanas
+Aiguillon|FR||9k|3f2|y|1a
+Aindling|DE||8r|3qr|uf|19|Oaing;Ainling
+Aiquara|BR||20|-139|-32t|18
+Aielo de Malferit|ES||9d|300|-1m|17|Ayelo de Malferit
+Aigínio|GR||8p|34i|1qm|17|Aiyínion
+Aimargues|FR||9k|3dd|bp|16
+Aichhalden|DE||8r|3q3|nc|16
+Aidanfield|NZ||ak|-3d1|dbd|16
+Idyllwild-Pine Cove|US||3p|2lq|-909|13|Aidilvaildas-Pain Kovas
+Air Khās|IN||6t|201|64v|12
+Aix-Noulette|FR||9k|3w3|7j|11
+Ain Dourij|MA||d|2o5|-ep|11|Aïn Dorij
+Aina Haina-Hawaii Loa Ridge|US||ax|1n5|-c68|10
+Airasca|IT||9o|3gs|ks|10
+Aina Haina|US||ax|1n4|-c67|10
+Aime|FR||9k|3ik|ih|z|Axima
+Aiterhofen|DE||8r|3rp|z2|z
+Eišiškės|LT||a3|46h|1xg|y|Eišėškės;Aišiškės
+Ailly-sur-Somme|FR||9k|3up|64|y|Ailly-su-Sonme
+Elgg|CH||a7|3ny|on|x|Ailaghoga
+Aït Lous|MA||d|2ef|-py|w
+Airvault|FR||9k|3m3|-e|w|Aurea Vallis
+Airville|US||48|32n|-5w9|v
+Aidenbach|DE||8r|3qx|10d|u|Oambo;Aitenbach
+Aïnâta|LB||64|2mz|2s8|u
+Aibetsu|JP||7q|3dz|b02|u
+Airds|AU||8l|-2mp|bmz|u
+Ainaloa|US||ax|1i9|-byj|u
+Ain Erreggada|MA||d|2p1|-67|t|Aïn Er Reggada
+Aigueblanche|FR||9k|3ie|i2|t|Aquae Albae
+Amacueca|MX||41|1jl|-7zs|t|Ainacueca
+Aianí|GR||8p|33k|1om|s
+Aiguefonde|FR||9k|3ct|6g|s
+Airuno|IT||9o|3j3|q7|s|Airunum;Irögn
+Aichstetten|DE||8r|3p1|s0|s
+Eymet|FR||9k|3g3|14|r|Aimet
+Aïn Jemaa|MA||d|2mj|-g3|r|Aïn Djemâa;Aïn Jema;Aïn ej Jemâa
+Ailly-sur-Noye|FR||9k|3u8|6k|r|Ailly-su-Noée
+Aigueperse|FR||9k|3ju|8w|q
+Aitrach|DE||8r|3p5|s0|q
+Alpbach|AT||a2|3no|x6|q|Åipbåch
+Aigues-Vives|FR|Occitanie|9k|3di|bm|p
+Aiguá|UY||45|-2n0|-484|p
+Aigrefeuille-sur-Maine|FR||9k|3ms|-3w|o|Kelenneg-ar-Mewan;Acrifolium
+Aiguafreda|ES||9d|381|69|n
+Aíyira|GR||8p|2xz|1q3|n|Aigeira;Aívira
+Aiudul de Sus|RO||8u|3ko|1tt|n|Aiudul-de-Sus;Aiudu de Sus
+Aitona|ES||9d|378|1b|n|Aytona
+Eischen|LU||9c|3u1|gc|m|Äischen;Eišenas
+Aiello del Friuli|IT||9o|3jf|114|m|Dael;Agellum
+Aissirimou|TL||6b|-o9|9ot|m
+Eymoutiers|FR||9k|3j2|4u|m|Aimostier
+Aix-en-Othe|FR||9k|3py|ad|m
+Airaines|FR||9k|3ut|5e|l|Araine
+Ayní|TJ||6d|31f|5ae|l|Aini;Ayny
+Ait Khallouf|MA||d|2eu|-pr|l
+‘Ein Qunīya|IL||6n|2kc|2r9|l|Aïn Qounîya
+Aicurzio|IT||9o|3is|q5|l
+Aitkin|US||2f|3l9|-78b|l
+Ayguesvives|FR||9k|3co|4g|k|Aigasvivas;Aigas Vivas;Aiguesvives
+Agny|FR||9k|3vm|7o|k|Aigny
+Aitrang|DE||8r|3ou|t9|k
+Ain Ebel|LB||64|2jz|2qc|k|Ain Ibil;Ajn Ibil;Ain Ibl;Aïn Ibel
+Aidhausen|DE||8r|3vb|sz|j
+Eygalières|FR||9k|3dk|dr|j|Aigalieras
+Aiello del Sabato|IT||9o|35l|156|j|Ajello d''o Sabbato
+Aigen im Mühlkreis|AT||a2|3r5|12t|i
+Aigialoúsa|CY||6e|2qq|2mz|i|Yeni Erenköy;Gialousa;Yenierenköy
+Airth|GB||9b|4br|-ah|i
+Ain Jaloulah|TN||1e|2rg|r8|i
+Aita Mare|RO||8u|3jp|1yz|i
+Aiglemont|FR||9k|3ua|d8|h
+Ailet Jridani|TN||1e|2pi|rv|h
+Ahaymany|UA||98|3ln|2n4|h|Frunze;Ahaimany;Aigaman;Agayman
+Aigurande|FR||9k|3kz|53|h
+Aiglsbach|DE||8r|3r9|wj|h|Oaglsboch
+Ailigandí|PA||4g|pn|-60r|h|Ailingandí
+Aillevillers-et-Lyaumont|FR||9k|3p4|hm|h
+Almaşu Mare|RO|Alba County|8u|3k3|1s8|g|Aimaşul Mare;Almaşul-Mare
+Ainsworth|US|Nebraska|2f|3a7|-7pe|g
+Ahun|FR||9k|3k1|5o|g|Aün;Aiun
+Airolo|CH||a7|3l9|nx|g|Airö;Airola
+Aillant-sur-Tholon|FR||9k|3oz|9b|f
+Ain AlBaraha|SA||7e|1ws|3dl|f
+Aínsa|ES||9d|39u|e|f
+Aislingen|DE||8r|3qr|t2|f
+Aigné|FR||9k|3pj|c|e
+Aiton|RO||8u|3lo|1tx|d|Anton
+Airlie Beach|AU||8c|-1kb|bh3|d
+Ainaži|LV||9n|4gq|1vo|d|Heinaste;Ainažē
+Aiton|FR||9k|3ik|he|d
+‘En Ayyala|IL||6n|2in|2p2|d|Ejn Ajala;Ein Ayala;Ein Ajala;Ain Ayala;En Ayala;En Ayyala
+Aidipsós|GR||8p|300|1s1|c|Aedipsos;Edipsos;Edepso;Aidhipsoú;Aidhipsós
+Aichelberg|DE||8r|3r4|qk|c|Aichelburg
+Ainzón|ES||9d|386|-48|c
+Ainay-le-Château|FR||9k|3lr|7h|c
+Aische-en-Refail|BE||8t|3wk|dg|c
+Aigre|FR||9k|3jh|1|c
+Aiserey|FR||9k|3n1|ec|c
+Aichen|DE||8r|3pz|ta|c
+Ā’īneh Varzān|IR||7o|2r2|411|c|Āyeneh Varzān
+Å i Åfjord|NO||9j|4xo|se|b|Åfjord;Åfjord kommun;Å i Åford
+Ayyelet HaShaẖar|IL||6n|2jq|2qu|b|Ajelet ha-Šachar;Ayelet HaShahar;Ajjelet ha-Szachar;Ayelet-Hashahar;Ayelet HaŞahar;Aiyelet Hashaḥar
+Aire-la-Ville|CH||a7|3kb|gs|b|Aeria Villa
+Aidar-Mykolaivka|UA||98|3s1|309|b|Aydar-Nikolayevka;Aydar-Mykolayivka
+Ayguemorte-les-Graves|FR||9k|3g7|-1c|b|Aiguemorte-les Graves
+Aixirivall|AD||8n|39y|46|a|Aixirivali;Aixirvall;Eixirivall
+Airolaf|DJ||i|wp|3ah|a
+Aigáni|GR||8p|32z|1qt|a
+Aiguebelle|FR||9k|3ii|hi|a
+Aigües|ES||9d|2yy|-z|a|Aguas de Busot
+Aix-en-Pévèle|FR||9k|3w9|96|a
+Aignan|FR||9k|3de|8|9
+Aigremont|FR||9k|3ru|5m|9
+Hailuoto|FI||92|50l|1wn|9|Karlö;Hailuotas;Ailuoto
+Áibar|ES||9d|3ab|-3s|9|Oibar
+Aincourt|FR||9k|3sb|4x|9
+Ayherre|FR||9k|3cj|-3h|9|Aiherra
+Ambarnyy|RU||9i|532|2ln|9|Aittaniemi;Aittuniemi;Ambarny
+Aita Seacă|RO||8u|3jw|1zd|9
+Aita Medie|RO||8u|3jq|1z5|9
+Ailly-le-Haut-Clocher|FR||9k|3v4|5j|9|Ailly-lclotcher
+Aigen|AT||a2|3oi|11l|8
+Airport Drive|US||2f|2v6|-7aj|8
+Aija|PE||3o|-r6|-5zl|8
+Ambasing|PH||71|1bf|9bu|8|Aimbasin;Ambassing
+Aireys Inlet|AU||8j|-2yu|b4a|8|Fairhaven
+‘Ayn Qīniyā|PS||6g|2gp|2pn|8|Ein Qiniya;Ain Qīniyā
+Eygurande|FR||9k|3iu|6t|8|Aiguranda;Eiguranda
+Ainet|AT||a2|3m7|z9|8
+Airmyn|GB||9b|458|-2i|8
+Ailano|IT||9o|36z|13h|8
+‘En Yahav|IL||6n|2d6|2pw|7|Ain Yahav;En Yahav
+Aillas|FR||9k|3fj|-7|7|Alhàs;Aliardum
+Airan|FR||9k|3se|-f|7
+Aiello Calabro|IT||9o|30o|18x|7
+Airion|FR||9k|3tb|6q|7
+Aieta|IT||9o|32x|17y|7|Ajeta
+Aiguamúrcia|ES||9d|36t|3t|7
+Aikavan|UA||9t|3h1|2mv|7|Aykavan
+Aire Libre|MX|Veracruz|41|1lu|-7ic|7|Kilómetro 15;Kilómetro Quince;El Kilómetro Quince
+Nădejdea|RO||8u|3l6|1zs|7|Ajnád;Ainad;Nădejdi;Nădejde
+Ayen|FR||9k|3hp|3p|7|Aient
+Aigneville|FR||9k|3uz|4i|7
+Pictou Landing|CA||35|3iv|-4u4|7|Àite an Luchd-Àiteachaidh
+Aguaviva|ES||9d|35e|-k|7|Aiguaviva de Bergantes
+Ainhoa|FR||9k|3cb|-46|7|Ainoa
+Aielli Stazione|IT||9o|38u|11q|7
+Ailertchen|DE||8r|3wk|m2|7
+Aigrefeuille|FR||9k|3d1|4f|6|Crefuèlha
+Aisemont|BE||8t|3w0|cx|6
+Aiguaviva|ES||9d|38i|7o|6
+Aïcirits-Camou-Suhast|FR||9k|3ce|-2u|6|Aicirits;Aiziritze;Aiziritze-Gamue-Zohazti;Aicirits-Camon-Suhast
+‘En Hod|IL||6n|2iu|2p6|6|Ein Hod;En Hod;Ejn Hod;Ain Hod
+Aingeray|FR||9k|3re|go|6
+Aizarnazabal|ES||9d|3c6|-68|6
+Aielli|IT||9o|38w|11r|6
+Aire Libre|MX|Puebla|41|1j8|-7ik|6
+Ainsworth|US|Iowa|2f|36p|-72b|6
+Aitern|DE||8r|3os|ly|6
+Aynac|FR||9k|3ge|55|6|Ainac
+Elphin|IE||8z|45l|-ms|6|Ail Finn
+Ailey|US||48|2hf|-6dd|6
+Eyzerac|FR||9k|3i3|2k|5|Aiserac
+Ayrihuanca|PE||3o|-138|-5lp|5|Airihuanca
+Aigues-Vives|FR|Occitanie|9k|3bg|58|5

@@ -1,0 +1,512 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kolkata|IN||6t|1qo|6tg|zqi|Kalkutta;Calcuta;Calcutta;Kolkato;Kalkuta;Kalkata;Caligardamana;Kalkota;Kolkat;Kalikātā
+Cali|CO||27|9j|-5wk|igp|Kalio;Kalis;Kali
+Caloocan|PH||71|14p|9c1|d7t|Kalookan
+Kallakurichi|IN||6t|wl|63c|czf
+Calgary|CA||2s|3xt|-8sx|a30|Kalgario;Kalqari;Kalgaris;Kalgari;Calgaria;Kelgery
+Kalyān|IN||6t|1hg|5n6|9qn
+Callao|PE||3o|-xh|-5y9|9gm|Kaljao;Kallaw;Kajao;Kallao;Kalyao
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Calumbo|AO||x|-pf|11a|517|Kalumbo;Columbo;Catumbo
+Calamba|PH|Calabarzon|71|13h|9cl|4fq|Kalamba
+Kozhikode|IN||6t|v9|5ui|48w|Calicut;Calecute;Kóžikkót;Calicutium;Kožikodė;Kalikuto;Kozsíkóde;Kojikode;City of Spices;Kolikod;Kozhikkot;Kalicut
+Kalaburagi|IN||6t|1c6|5xg|46v|Gulbarga;Kalburgi;Kalaburgi;Kulbarga;Gulburga
+Calabar|NG||u|ds|n5|460|Kalabaras;Kalabaro;Kalabar
+Kalininskiy|RU||9i|4mo|2cf|3w6
+Kaliningrad|RU||96|47z|1kz|3nz|Królewiec;Königsberg;Kalinjingrad;Kalinyingrád;Karaliaučius;Königsbarg;Caliningrado;Calininopolis;Königsberg in Preußen;Kaliningráu;Kalininqrad;Karaliaučios;Kraljevac;Kënisberg;Körigsberg
+Tver|RU||9i|4dy|2rq|38p|Kalinin;Twer;Tueria
+Tallinn|EE||9x|4l4|1wr|31g|Rääveli;Talino;Tallin;Taillinn;Talín;Castrum Danorum;Talinas;Tallina;Revel;Talini;Reval;Talins;Lindanäs;Tallidn;Revel';Kallinn
+Kalemyo|MM||7y|1sf|79a|2ou|Kalaymyo
+Kaluga|RU||9i|47h|2sr|2mp|Kaloega;Kalouga;Caluga;Kaluqa;Kalug;Kalyga
+Cluj-Napoca|RO||8u|3lx|1tk|27m|Klausenburg;Clausemburgo;Kolosvaru;Clūsenburg;Clus;Kluž;Kluĵo;Kolozsvár;Claudiopolis;Kluż-Napoka;Kloiznburg;Cloizânburg;Napoca;Kluža-Napoka;Castrum Clus;Municipium Aelium Hadrianum Napoca;Clausenburg;Klužas-Napoka;Cluj;Kaloşvar;Kluž Napok;Kluzh;Kluzh-Napoka;Kluža;Klužas;Koloszvár
+Karlsruhe|DE||8r|3s5|nc|26u|Carolsruha;Karlsrūe;Karlsrūjė;Kallsruh;Carlsruhe
+Kelar|IQ||5z|2o7|3hw|1xg|Klar;Kalār
+Kaliakair|BD||6a|1uv|6ym|1w3
+Calabozo|VE||2c|os|-57b|1au|Kalabosas
+Calama|CL||4u|-1qe|-5bg|1a7|Kalama
+Kalemie|CD||y|-gj|293|18q|Kalemijė;Kalemi
+Qalyub|EG||c|2bu|2ep|17g|Kalyûb;Qaliub
+Cagliari|IT||9o|30z|pc|15h|Càller;Kaljaro;Caralis;Casteddu;Castèl;Kalyari;Kagliari;Kaljaris;Kaljāri;Càliari;Cajari
+Kalaban-Koro|ML||5|yx|-ma|156|Kalaban Koro;Kalabancoro
+Kalol|IN|Gujarat|6t|1sl|5le|11c
+Daska Kalan|PK||6q|2hs|5qj|z9
+Guelma|DZ||3|2ta|kn|xc|Kalima;Galma;Calama;Gelma
+Uppal Kalan|IN||6t|1cd|628|wv
+Ashoknagar Kalyangarh|IN||6t|1ri|6u8|uz
+Kalisz|PL||a5|3zs|1e9|u8|Kalisch;Kališa;Kališas
+Kalulushi|ZM||z|-zo|261|sw|Kalulshi
+Kalynivskyi|UA||98|3pd|2x5|so|Kalininskyi Rayon;Kalininskyi;Kalynivka
+Kalmiuskyi|UA|Donetsk|98|3mv|2wa|s7|Illichivskyi rayon;Illichivskyi
+Kallang|SG||7j|3p|80j|s5|Kalang
+Kallithéa|GR|Attica|8p|2xf|1tu|ry|Kalithéa;Kalitėja
+Kalmunai|LK||68|kl|6bb|ru|Kalmunē
+Kalibo|PH||71|wj|9fw|pw|Pueblo de Calivo
+Kalyani|IN||6t|1ru|6tn|pw
+Kalaw|MM||7y|1lb|7g8|pu
+Kalamariá|GR||8p|34q|1rr|pf|Kalamarya
+Uman|UA||98|3rf|2by|mn|Kalinwar;Kalinvár;Kalynwar;Kalynvar;Kalynhorod;Oeman;Kalingorod
+Kalamazoo|US||2q|39h|-6lr|l4|Kalamazū
+Calais|FR||9k|3xj|56|ko|Kales;Calesium;Kalė;Calés
+Kalima|CD||y|-f9|26e|k3
+Kalamassery|IN||6t|ry|5w1|jq
+Calapan|PH||71|119|9cm|ic|Kalapan
+Kalush|UA||98|3s6|1vp|i3|Kalouch;Kałusz;Kaluš;Kalusch
+Kelaa Kebira|TN||1e|2rn|ta|hl|Qalaa Kebira;Kalaa Kebira;Kalaa K’bira
+Tetovo|MK||9u|38p|1m9|hk|Tetowo;Tetovas;Tetova;Kalkandelen;Qalqan Delen
+Caleta Olivia|AR||1r|-3l1|-57k|fn|Kaleta Olivija
+Kalasin|TH||62|19n|7zj|fb|Kalasim
+Kalamata|GR||8p|2uw|1pf|f1|Kalmata;Kalamato;Kalámai;Kalamae
+Kālna|IN||6t|1si|6tg|f0|Koalna
+Kalamansig|PH||71|i7|9kl|ej|Calamansig
+Kāliyāganj|IN||6t|1z7|6td|ed|Kaliaganj;Kāliyāgan
+Kālīganj|BD||6a|1t1|6vm|co|Aliganj
+Kālpi|IN||6t|20k|65h|cb
+Kalaa Srira|TN||1e|2ri|tc|ca|Kalaa-Sghira
+Calulo|AO||x|-rs|15e|c8|Kalulo
+Kalihi-Palama|US||ax|1n9|-c6k|c6|Kalihi
+Kālimpong|IN||6t|233|6u7|by|Kālimpang
+Álimos|GR||8p|2xb|1tw|bl|Kalamákion;Kalamáki
+Kalliyoor|IN||6t|nf|5xx|bc
+Kālia|BD||6a|1s0|6wz|b9
+Kallakkurichchi|IN||6t|wm|63c|b8
+Qal‘at Şāliḩ|IQ||5z|2fl|3nd|b1|Kala Salih;Qalat Saleh;Qala Salih
+Kālappatti|IN||6t|us|5y0|b0
+Kalmar|SE||9w|4de|19g|ao|Calmaria
+Kalbā|AE||6c|1xl|4cj|af|Qalba
+Kalutara|LK||68|ia|664|ab
+Kalinkovichi|BY||9g|40t|29h|a7|Kalinkavichy
+Kalalé|BJ||1b|sl|9e|9v|Kalelé
+Kālka|IN||6t|2do|5xq|9h
+Kalāleh|IR||7o|2vu|4a5|9d|Kalālah
+Calbuco|CL||4u|-381|-5n5|96|Kallfüko
+Kalyandurg|IN||6t|14f|5y7|8z|Kalyāndrug
+Kalpatta|IN||6t|w9|5vc|8s|Kalpetta
+Kalisizo|UG||q|-1i|2fu|8q|Katisizo
+Kalliyasshēri|IN||6t|xa|5tc|8n|Kalliasseri
+Kalakkādu|IN||6t|nn|5zf|8l|Kalakad
+Kalomo|ZM||z|-1bb|21k|8k
+Kallamchavadi|IN||6t|zz|66l|8j
+Kalur Kot|PK||6q|2hc|5hz|88
+Kalavoor|IN||6t|ql|5w1|88
+Kalgoorlie|AU||8k|-2df|9df|83
+Kālāvad|IN||6t|1pp|5fi|7v
+Kalwākurti|IN||6t|1aa|621|7t|Kalvakurti;Kalwakurthy
+Kalach-na-Donu|RU||a4|3r9|3cx|7n|Kalatsj-Na-Donu;Kalatsch am Don;Kalatch-na-Donou;Kalač-na-Donu;Kalač na Donu;Kalatš-na-Donu;Kalač Donal;Kalatx-na-Donú;Kalač nad Donom;Kałacz-na-Donu
+Kālānwāli|IN||6t|2aw|5s9|7m
+Kalamb|IN||6t|1gw|5pg|7l
+Kallio|FI||92|4n6|1xb|7j|Berghäll;Kaltsi
+Kalat|PK||6q|28n|54z|7f|Kelat
+Kallidaikurichi|IN||6t|o5|5z7|7c|Kallidaikurichchi
+Kālol|IN|Gujarat|6t|1qt|5o2|77
+Kaltan|RU||74|44p|6qg|77
+Kāladi|IN||6t|u2|5v5|77|Kalady
+Kallam|IN||6t|1fm|5v6|75|Kalam
+Kallūr Vadakummuri|IN||6t|sh|5w1|71
+Gelibolu|TR||94|349|223|70|Gallipoli;Galípoli;Galipolo;Callipolis;Kallipolis;Guélibolou
+Calahorra|ES||9d|39j|-5h|6w|Calagorra;Calagurris;Kalagorria
+Kalamnūri|IN||6t|1in|5yr|6w
+Kalachinsk|RU||76|48x|5r6|6p|Kalatschinsk;Kalaĉinsk;Kalatchinsk;Kalatšinsk;Kalatsjinsk;Kałaczinsk;Kalatschinek;Kalanchinsk
+Kalianget|ID||6l|-jl|8si|6n
+Kalānaur|IN|Haryana|6t|283|5w8|6h
+Kalk|DE||8r|3xi|jh|6c
+Kalispell|US||2p|3pw|-8tj|65|Calispel;Kalispel;Kalispelm
+Kalbatau|KZ||5s|3t1|6al|64|Georgīevka;Qalbataū;Georgiyevka
+Kalleribhāgam|IN||6t|p5|5wo|61|Kallelibhagom
+Kalihi Valley|US||ax|1nc|-c6g|5q
+Kaliro|UG||q|2h|2l2|5p
+Kalach|RU||9i|3w3|35y|5o|Kalatsj;Kalatsch
+Kallangur|AU||8c|-23p|bsz|5m
+Kalinjur|IN||6t|zz|63t|5i
+Kaltenkirchen|DE||8r|45j|ro|5h|Kolenkarken;Koldenkarken
+Kalmeshwar|IN||6t|1mz|638|5g
+Kalabahi|ID||70|-mu|9lz|5c|Kalaoahi;Kalabaki;Kalooahi
+Kallukuttam|IN||6t|mr|5yp|5b
+Kalininsk|RU||9s|3z2|3fk|57
+Kalāyat|IN||6t|2ag|5vu|57
+Calafat|RO||8u|3e7|1rp|56|Kalafatas
+Kalynivka|UA|Vinnytsia|98|3te|278|55|Kalyniwka;Kalınivka;Kalinówka
+Kalabo|ZM||z|-15n|1r0|55
+Kalocsa|HU||8v|3l9|1gp|52|Kaloča;Koloča
+Kalmthout|BE||8t|3yq|cg|4v|Calmpthout
+Kallūr Tekkumuri|IN||6t|sg|5w0|4v
+Calceta|EC||33|-2d|-66o|4t|Kalseta
+Kalodzishchy|BY||9g|45u|256|4q|Kolodishchi
+Kalghatgi|IN||6t|166|5s9|4p
+Qalansuwa|IL||6n|2ho|2p6|4p|Qalansawe;Kalansuva
+Kaleke Mandi|PK||6q|2gu|5og|4k
+Kalundborg|DK||8y|4ao|ut|4i|Kallundborg
+Caldera|CL||4u|-237|-5gq|4i|Kaldera
+Kalabagh|PK||6q|2jk|5ir|4g
+Kallar Kahar|PK||6q|2j2|5ly|4e|Kalar Kahar
+Calumpang|PH|National Capital Region|71|14m|9cd|4c|Kalumpang;Calumbang
+Kalher|IN||6t|1hh|5mu|4c
+Kalugumalai|IN||6t|pf|5zv|4a|Kalugumali
+Calkiní|MX||3z|1kl|-6y5|45|Kalkini
+Kalas|IN||6t|1eh|5rr|45
+Kalagyisu|MM||7y|1aw|7er|44|Ku Lar Gyi Su
+Kalasu|CN||7t|2yf|5zb|44
+Kalyazin|RU||9i|4f0|2x3|43|Kaljazin;Kaliazin
+Kalkar|DE||8r|3zq|hh|41|Calkar
+Kalilangan|PH||71|lj|9mj|41
+Kalývia Thorikoú|GR||8p|2x4|1uh|40|Kalívia Thorikoú;Thorikoú;Kouvará;Kalívia
+Călăraşi|MD||8x|3na|26n|3x|Kalaraşi;Kalarash
+Calolziocorte|IT||9o|3j8|q8|3u|Kalolciokorte
+Kalanaur|IN|Punjab|6t|2gx|5sr|3t
+Galehdār|IR||7o|24u|42a|3q|Kaleh Dār;Gilehdār;Galleh Dār
+Kalārdasht|IR||7o|2tf|3y5|3q|Kelārdasht
+Kalininskaya|RU||9i|3ic|2ze|3q|Kalininskaja;Kalininskyaya
+Kālāgarh Project Colony|IN||6t|29w|62u|3p
+California City|US||3p|2pl|-93r|3p|Kalifornija;Kalifornia City;Kaliforniurbo;Thành phố California;California BY;Jádí Bitééh;Dinas California;Lungsod ng Kaliporniya
+Khallikot|IN||6t|1ih|6kd|3m|Kallikota
+Kanīna Khās|IN||6t|26p|5vz|3m|Kalīna Khās
+Kalecik|TR||94|33e|2kt|3l
+Kalaswala|PK||6q|2hg|5rd|3i
+Kalā Chāy|IR||7o|2v0|3w0|3g|Kala Cha;Kelā Chāy
+Kaliua|TZ||h|-e2|2gb|3g
+Kaltungo|NG||u|ra|vf|3g|Kalfungo
+Kálymnos|GR||8p|2un|22y|3f|Kálimnos;Calino
+Kalajoki|FI||92|4yh|1uj|3e
+Qalāt|AF||6o|2h7|55v|3e|Kalat
+Kall|DE||8r|3we|i8|3b
+Kalmiuskyi|UA|Donetsk|98|3pc|2x1|3a|Kal'miuskyi;Kal'miuskyi mikrorayon
+Kalayagaqi|CN||7t|3ee|6ac|3a
+Kallakkudi|IN||6t|ui|63b|38
+Kal'mius'ke|UA||98|3oe|2xs|36|Karakubstroy;Komsomol’skoye;Komsomol's'ke;Kalmiouske;Karakoubstroï;Kalmiuske;Kalmiusske;Komsomolśke
+Calbe|DE||8r|407|wp|35|Calva;Kalbe
+Kālappanāyakkanpatti|IN||6t|vh|61c|30
+Kallupatti|IN||6t|r0|60b|30
+Kālīnagar|IN||6t|27i|66g|2z
+Kalombe|IN||6t|1aa|5q5|2t
+Kaldenkirchen|DE||8r|3yk|h8|2t
+Kalavai|IN||6t|zh|64m|2t|Kalaval
+Kalaoa|US||ax|1it|-c1a|2o
+Kaleybar|IR||7o|2zz|3mo|2l|Keleibar;Kalībar
+Kalawa|DE||8r|3zq|12r|2l|Calau
+Kalanchak|UA|Kherson|98|3kh|2kh|2l|Kalantchak;Kalantschak;Kalantšak;Kalantjak;Kalančaka;Kalančak;Qalançaq;Kałanczak;Kalanceak;Kalantxak
+Kalkandere|TR||94|35o|34c|2j
+Calandula|AO|Malanje|x|-p9|18b|2i|Kalandula;Nalandula
+Qala i Naw|AF||6o|2p7|4vd|2i|Kala-i Naw;Qal'ai Now;Qala-i Naw;Kalayi-Nau;Qal’eh Now;Qula-i-nau;Kalai-Naw;Qala-e-Nau;Kala Nao;Qalaenaw;Qal‘a-i-Naw;Qala Naw;Qala Nau;Qala-i-Nau;Qala-i-Naw
+Kalewa|MM||7y|1sg|79y|2g|Kalawa
+Kalety|PL||a5|3wg|1gh|2f|Kaleti
+Kalawit|PH||71|mf|9gc|2d
+Kalbajar|AZ||61|33f|3jw|2c|K’arvacharr;Kelbajar
+Kalinovskaya|RU||9i|3d1|3ig|2b|Kalinovskaja;Gal-Ġala;Galne;Kalinovski;Kalinovskoe;Kalinovskoye
+Kalaat es Senam|TN||1e|2rd|n6|29|Kalaa-Es-Senam
+Kalampáka|GR||8p|32a|1o3|29|Kalambaka;Kalabáka
+Kālundri|IN||6t|1gq|5n5|29
+Kalleh Bast|IR||7o|2ts|427|27|Kaleh Bast
+Kalifornsky|US||1h|4nu|-bo9|27|Kalifonsky;Kalifonski
+Tashir|AM||80|368|3f1|26|Kalinino;Taschir;Taširas;Tachir;Tašir;Tasjir;Vorontsovka;Taszir;Kaliniko;Kalinin
+Nikol's’ke|UA||98|3n5|2vo|26|Kal’chik;Voladarskoye;Volodars’ke;Nikolśke;Wołodarśke
+Kalloní|GR|North Aegean|8p|30z|20t|26
+Calden|DE||8r|3yt|q4|26|Kalden
+Colipapa|PH||71|qb|9gg|25|Kulipapa;Kalipapa;Culipapa;Calipapa
+Kalengwa|ZM||z|-11f|1xg|24
+Kalix|SE||9w|52x|1sc|23|Kainuu;Kaihnuu
+Kolvānaq|IR||7o|2xu|3mj|23|Kalvānā;Kolvānag;Kilvana;Kolvānā
+Calipatria|US||3p|2k1|-8wv|22|Kalipatriya;Callipatria
+Kalayaan|PH||71|13v|9dp|21|Kalavaan
+Kalefeld|DE||8r|3zw|rv|21
+Kale|TR|Denizli|94|2w0|285|21
+Calimera|IT|Apulia|9o|33t|1es|20|Kalimera
+Kalamunda|AU||8k|-2gt|8ye|20
+Chechen-Aul|RU||9i|3c0|3j7|1z|Tsjetsjen-Aul;Çeçana;Kalinovka;Čečen-Aul
+Kallettumkara|IN||6t|sq|5vv|1z
+Kaleen|AU||8l|-2pu|bi7|1z
+Kaloleni|KE||16|-al|323|1y
+Kallahti|FI||92|4n7|1xu|1x|Kallvik
+Kållered|SE||9w|4g1|xh|1w
+Kālādhūngi|IN||6t|29c|64f|1w
+Kalnibolotskaya|RU||9i|3jt|34e|1u|Kalnibolotskaja;Kanibolotskaya;Kainibolotskaya
+Khalmion|KG||65|33p|5iz|1r|Halmion;Xalmion;Kalmion
+Kelārābād|IR||7o|2ty|3ye|1r|Kalārābād
+Caldaro sulla Strada del Vino|IT||9o|3kx|v9|1q|Kaltern an der Weinstrasse;Kaltern
+Kāl Zarkesh|IR||7o|2t4|4la|1p
+Calabugao|PH||71|ni|9no|1o|Kalabugao
+Kalken|BE||8t|3xs|aw|1m
+Kalasatama|FI||92|4n7|1xe|1l
+Kalyny|UA||98|3pq|1ub|1k|Alsókálinfalva;Kaliny
+Kalevala|RU||9i|514|2en|1i|Uhtua
+Kalkaman|KZ||5s|40b|5v7|1i|Kol’-Koman;Kalkamak;Qalqaman
+Kalabulegen|CN||7t|3kx|6uc|1h
+Kalsdorf bei Graz|AT||a2|3mh|170|1g|Kalsdorf
+Kale|TR|Malatya|94|30f|2xk|1g
+Kaleva|FI||92|4qu|1u5|1f
+Kālāigaon|IN||6t|21t|73i|1f
+Ka Lok|MM||7y|1ab|7eg|1f|Kha Loke;Kalok
+Kalparapatti|IN||6t|w6|60r|1e
+Kallaroo|AU||8k|-2gb|8xj|1e
+Kalaxilike|CN||7t|3ol|6qy|1e
+Kalashnikovo|RU||9i|4f4|2pv|1e|Kalasjnikovo;Kalašnikovo;Kałasznikowo
+Kāliapāni|IN||6t|1mh|6ma|1e
+Calberlah|DE||8r|41m|ti|1e|Kalberloa;Kalberlah
+Kálamos|GR||8p|2yc|1ua|1d
+Kaliling|PH||71|rq|9g8|1c|Caliling
+Kalininaul|RU||9i|3bn|3ld|1c|Kalininaoul
+Kālu Chak|IN||6t|2iq|5s2|1b
+Kallinge|SE||9w|4c9|16h|1b
+Kalyānsingapuram|IN||6t|1i7|6ff|1b
+Kalochóri|GR||8p|34w|1ri|1a
+Kalāheo|US||ax|1ow|-cb5|1a
+Kaliawadi|IN||6t|1m7|5mn|1a
+Kaloré|BR||4w|-1u6|-3zj|1a
+Calantas|PH|Central Luzon|71|15q|9as|19|Kalantas
+Kalvarija|LT||a3|476|1si|19|Kalwaria;Kalvarėjė;Kalvarijos;Kalvariya;Kalwarja
+Kaltasy|RU||7z|4bh|488|19
+Kälviä|FI||92|4xe|1t5|18|Kelviå;Kyal'viya
+Kalwaria Zebrzydowska|PL||a5|3uj|1io|18|Kalvarja Zebžidovska;Kalvarija Zebrzydowska;Kalvarija Zebžydovska;Kalarija Zebrzydowska;Kalwarja Zebrydowska
+Kalpeni|IN||6t|s0|5ok|18
+Kalbay|PH||71|fw|9om|17
+Kalama Valley|US||ax|1n6|-c5z|17
+Kalsdonk|NL||8m|3z6|cf|17
+Novyi Kalyniv|UA||98|3to|1sr|16|Novyy Kalyniv;Kalinów Nowy
+Kalisz Pomorski|PL|West Pomerania|a5|442|187|15
+Kālikāpur|IN||6t|1qu|6np|15
+Kállósemjén|HU||8v|3oy|1oy|14
+Qalāt|IR|Fars|7o|2au|41c|14|Kalāt
+Kalinovskoye|RU||9i|3gm|3bc|14|Kalinovskoje
+Ka Lung Court|HK||6i|1pt|8t2|13
+Kaltbrunn|CH||a7|3n5|p3|12|Chaldebrunna
+Kalevanrinne|FI||92|4qt|1u5|11
+Kál|HU||8v|3ol|1kb|11
+Kalmanka|RU||63|42y|6g2|10
+Kalga|RU||67|3xh|96a|10
+Kalcheva|UA||98|3j2|281|z|Calceva;Kaltchéva;Kaltschewa
+Kalampáki|GR||8p|361|1v6|z|Kalabáki;Kalambáki
+Kalian|PH|Davao Region|71|h0|9p6|z|Calian
+Kalynivka|UA|Mykolaiv|98|3mp|2he|z|Kalinovka
+Kalinin|RU||9i|3n9|31r|y
+Kalvola|FI||92|4pq|1v0|y
+Ka Li Htaw|MM||7y|1am|7en|y
+Kalikino|RU||9i|433|32n|y|Kadikino
+Berdavan|AM||80|36h|3h0|x|Kalacha;Berda;Berdagyugh;Ghalacha;Ghalaychi
+Kalkku|FI||92|4qu|1ti|x
+Kaltenleutgeben|AT||a2|3po|190|x
+Kalaheo Hillside|US||ax|1ni|-c67|x
+Kalofer|BG||9v|3ae|1xe|w|Kaloter
+Kalaīkunda|IN||6t|1q2|6qb|w
+Kalbugan|PH||71|jc|9ma|w|Kalbungan
+Kalkara|MT||9e|2rp|14d|v
+Kalynove|UA|Kyiv Oblast|98|3t6|2ck|u|Chapayevka;Chapaievka
+Kalchreuth|DE||8r|3to|ux|u
+Kolbudy|PL||a5|46r|1fb|u|Kalbudy
+Kalkan|TR||94|2sr|29p|u
+Kalynove|UA|Luhansk|98|3qx|2z0|u|Kalinovo
+Kha Lauk Chaik|MM||7y|1as|7eu|u|Kalaukcheik
+Kalaeloa-Campbell Industrial Park|US||ax|1n7|-c75|u
+Kaloufla|CI||0|lc|-g7|u
+Kalamangog|PH||71|ip|9kn|u
+Kałuszyn|PL||a5|411|1ol|u|Kalušina;Kalushin
+Kalakala|CI||0|qb|-dp|t
+Kallithéa|GR|Central Macedonia|8p|33v|1qq|t|Kalitea
+Kalinovo|RU||7z|4ep|4n3|t
+Kallmünz|DE||8r|3sk|x8|t|Kalmunz
+Kalbaskraal|ZA||o|-2l9|1ft|t|Kalabaskraal
+Kalagi|GM||7|10t|-180|s|Kalaji
+Kalbe|DE|Saxony-Anhalt|8r|42a|vn|s|Calbe
+Kalian|PH|Zamboanga Peninsula|71|l3|9ib|s
+Kaligutan|PH||71|le|9ph|s
+Kaloyanovo|BG||9v|39n|1wp|s|Kalojanowo;Kalojanovo
+Kaloa|CI||0|rs|-gt|s
+Kaliliog|PH||71|12m|9ih|r|Kagliliog;Cagliliog
+Ka Li Htaw East|MM||7y|1bn|7fa|r
+Calilayan|PH||71|12h|9ep|r|Kalilayan Ibaba
+Qala|AZ||61|34c|3vd|r|Kala
+Kalanguy|RU||67|3xp|8zo|r|Kalanguj;Kalangui;Kolanguy
+Kalugmanan|PH||71|n0|9mu|r
+Kalkie|AU||8c|-1x0|brb|r
+Kalajärvi|FI||92|4ni|1wq|q|Kalis
+Kalbarri|AU||8k|-24z|8t5|q
+Wawaylan Calocan|PH||71|m7|9la|q|Calocan;Kalookan
+Callac|FR||9k|3qg|-9j|q|Kallag
+Levél|HU||8v|3p1|1bs|q|Kaltenstein
+Kalaat Khasba|TN||1e|2r2|nv|q
+Kalnciems|LV||9n|4ds|1tm|p
+Káloz|HU||8v|3mf|1fc|p
+Kalamon|CI||0|ra|-8t|p
+Kalona|US||2f|378|-72r|p|jus
+Kalaisan|PH||71|jh|9nd|p
+Ka Li Htaw West|MM||7y|1bm|7fa|p
+Kalino|RU||7z|4ht|4g1|p
+Kalameh|IR||7o|28e|3yy|p|Kalmeh;Kalimeh
+Kalama|US||3p|3jt|-9h8|o
+Kallo|BE||8t|3yd|bw|o
+Calumboyan|PH||71|tz|9kj|n|Kalomboyan
+Kalamare|BW||m|-1rp|21t|n
+Kalanganan|PH||71|mg|9l5|n
+Kalang|PH||71|gg|9d4|n
+Kalinovka|UA|Crimea|9t|3hw|2rb|n
+Kalevanharju|FI||92|4qt|1u2|n
+Kaliska|PL|Pomerania|a5|45r|1em|n
+Kalkım|TR||94|32l|23m|m
+Kalanipuu|US||ax|1n5|-c61|m
+Calibungan|PH||71|17c|9bc|m|Kalibungan
+Kalandagan|PH||71|ik|9mg|l
+Kalinga|AU||8c|-245|bt5|l
+Kálmánháza|HU||8v|3p0|1ny|l
+Kálna|SK||8s|3pw|1fg|l
+Kalesija|BA||9r|3fg|1gj|k
+Kalkaska|US||2q|3g9|-6km|k
+Kaltenhouse|FR||9k|3rj|lr|k|Kaltenhausen
+Kallifóni|GR||8p|314|1p0|k
+Kalein|MM||7y|1b8|7ep|k
+Kalyanpur|BD||6a|1wk|71d|k
+Kaltenengers|DE||8r|3w2|kz|j
+Qala|MT||9e|2s4|13r|j|La Cala;Kala
+Kaltennordheim|DE||8r|3wn|s8|j
+Zozocolco de Guerrero|MX||41|1ju|-7j1|j|Kalaxuxni;Zozocolco
+Sâncraiu|RO||8u|3m3|1ru|i|Kalotaszentkirály;Sâncrai;Sîncraiu
+Chauvé|FR||9k|3mz|-5j|i|Kalveg;Calva
+Kalí|GR||8p|35e|1pm|i
+Källby|SE||9w|4ij|10z|h
+Kalchyk|UA||98|3nf|2wg|h|Kal’chyk;Kal’chik
+Kelestān|IR||7o|2b1|41b|h|Kalistan;Ketestān;Golestān
+Kalej|PL||a5|3x8|1gq|h
+Kalkfeld|NA||1f|-1m1|18z|h|Kalkveld
+Kalahliia|UA||98|3kl|2cd|h|Kalahliya
+Kalinino|UA|Crimea|9t|3j2|2lu|g
+Kalávryta|GR||8p|2xn|1pf|g|Kalávrita
+Qalaikhumb|TJ||6d|2yt|5gn|g|Qalaikhum;Kala Khumb;Qala-i-Khum;Kala-I-Khamb;Kalaikhum;Kalai Khumb
+Kalajāh|IR||7o|2xd|3k1|g
+Kali|HR||a6|3ee|169|g
+Kalinkovo|SK||8s|3pi|1bx|g
+Kalida|US||48|35u|-6hw|g
+Kallnach|CH||a7|3mm|k4|f
+Kálo Chorió|CY||73|2p1|2l6|f|Kálon Chorión;Kalokhoria;Kalohoryo;Kalohorio;Kalokhorio
+Kaltenbach|AT|Upper Austria|a2|3oj|11t|f
+Kalkrand|NA||1f|-1uv|1cv|f|Khalkrand
+Kalýves|GR||8p|2qh|1v6|f|Kalívai;Kalives
+Kalāteh-ye ‘Arab|IR||7o|2tq|4g2|e|Kalāteh Arab
+Kalnybolota|UA||98|3rf|2e3|e|Kal’nibolota;Kal’nybolota;Kal’niboloto
+Kallista|AU||8j|-2xa|b7u|e
+Kalınkoz|TR||94|2v5|29g|d
+Kalashān|IR||7o|2xy|3gg|d
+Prínos|GR|East Macedonia and Thrace|8p|356|1wa|d|Kalýves;Kalývai;Kalíves;Kalívai
+Kalkhorst|DE||8r|45x|uo|d
+Kaltenbach|AT|Tyrol|a2|3nc|wz|d
+Kalýves Polygýrou|GR||8p|33x|1sz|d
+Kalós Agrós|GR||8p|367|1ux|d
+Kolā Kūb|IR||7o|2t7|4ln|d|Kālākūb;Kalakāb
+Kallithéa|GR|Central Macedonia|8p|33b|1t5|c
+Kalamákion|GR||8p|2wu|1m2|c|Kalamaki
+Kalanchak|UA|Odesa|98|3ii|27z|c|Dermendere;Kalantchak
+Hartagyugh|AM||80|35f|3ed|c|Kaltakhchi;Hartagyux;Ghaltakhchi
+Kalimna|AU||8j|-2x7|bf1|c
+Kaló Chorió|GR||8p|2pc|20o|c|Kalón Choríon;Kaló Khorió;Kalón Khoríon
+Kalinovac|HR||a6|3jv|1bk|c
+Kaleden|CA||5b|3t8|-988|c
+Kalorama|AU||8j|-2x2|b7t|c
+Kalí Vrýsi|GR||8p|36b|1uf|c|Kalí Vrísis;Kalí Vrísi
+Kallstadt|DE||8r|3th|mq|b|Kallschdadt
+Kaldırım|TR||94|2tx|2qq|b
+Kalynivske|UA||98|3mw|2jm|b|Kalinindorf;Kalininske;Velyka Seydemenukha
+Kalogo|CI||0|s7|-hc|b
+Kalá Déndra|GR||8p|366|1t2|b|Kaléndra;Kalá Dhéndhra;Kalá Dhéndra
+Kalývia|GR|Central Macedonia|8p|358|1pq|b|Kalívia
+Kalinino|UA|Crimea|9t|3io|2n2|b
+Kaleburcu|TR||94|2ul|2os|b|Kalburcu
+Kallífytos|GR||8p|36d|1va|b|Kallífiton;Kallífitos
+Kallíthiro|GR||8p|314|1ou|b
+Kalinovik|BA||9r|3cu|1f9|b
+Kållby|FI||92|4wr|1rm|b|Kolppi
+Kaltay|RU||7r|4cc|6js|b|Kaltaj;Kadtay
+Kalbar|AU||8c|-25m|bry|b
+Kalafat|TR||94|32z|20v|b
+Kalomé|CI||0|me|-8d|b
+Kaltenwestheim|DE||8r|3wl|s4|a
+Kalynivka|UA|Mykolaiv|98|3mc|2fl|a
+Kalamiá|GR||8p|30t|1m5|a|Kalamiés
+Kalaidyntsi|UA||98|3v6|2jk|a|Kalaydintsy;Kalaydyntsi;Kolaydintsy;Kalaydentsy
+Kallikomo|GR||8p|2we|1ny|a
+Budakalász|HU||8v|3oa|1gx|a|Kalasch
+Kalývia|GR|West Greece|8p|2za|1n5|a|Kalívia
+Kalakamate|BW||m|-1l7|23v|a|Kalakamati
+Kallimasiá|GR||8p|2yd|20i|a|Kalimasia;Kalamasia
+Kallithéa|GR|West Greece|8p|2wb|1om|9
+Kaluha|UA||98|3nk|2ji|9|Kaluga
+Kalynivka|UA|Mykolaiv|98|3ob|2gn|9|Kalinovka
+Kalīnak|IR||7o|2sh|3wz|9|Galīnak
+Kallitechnoúpoli|GR||8p|2xn|1uk|9
+Kalehkīn|IR||7o|2u2|3he|9
+Kalifadougou|CI||0|mn|-g1|9
+Kalisz Pomorski|PL|Pomerania|a5|464|1dg|9
+Kallithéa|GR|West Greece|8p|2xb|1pg|9
+Kalnyk|UA||98|3qs|1qs|9|Kal’nyk;Kal’nik
+Kalamotó|GR||8p|34o|1sx|9
+Kaltensundheim|DE||8r|3wl|s8|9
+Kalhausen|FR||9k|3s6|jv|9
+Kalinovka|UA|Crimea|9t|3j3|2nd|9
+Kalbī Bak|IR||7o|2gp|3xl|8|Kal Bībak;Kalbībag
+Ka Lan|KH||78|12s|88n|8
+Kale|TR|Ağrı|94|321|3bf|8
+Kalfa|TR||94|36p|270|8
+Kalana-Bawé|CI||0|r0|-bd|8
+Kalgan|AU||8k|-2ow|93t|8
+Kalbsrieth|DE||8r|3ym|vi|8
+Kalna|PL||a5|3u3|1h2|8
+Kalebaşı|TR||94|33j|3as|8|Kalebaş
+Calstock|GB||9b|3wa|-bp|8|Kalstok
+Kalasi|CI||0|o4|-l4|8|Kalassi
+Kalhor|IR||7o|2wp|3nj|8
+Kalynivka|UA|Donetsk|98|3mz|2wn|8|Kalinovka
+Kalngale|LV||9n|4ek|1v4|8|Kalngala
+Calan|FR||9k|3p0|-98|8|Kalann
+Kalwang|AT||a2|3nr|14z|8|Kallwang
+Kalochóri - Panteíchi|GR||8p|2yn|1tk|8|Kalochori;Panteichi
+Kalogrianá|GR||8p|31n|1or|8|Kalograiná
+Kalinowo|PL||a5|45n|1qz|8
+Kalynivka|UA|Mykolaiv|98|3ml|2io|7
+Kaleiçi|TR||94|34t|3bp|7
+Kalinovka|UA|Crimea|9t|3id|2it|7
+Kalāt|IR||7o|24a|42h|7
+Kaletepe|TR||94|2y8|36k|7
+Palaiókastro|GR|Central Macedonia|8p|36c|1t1|7|Kale
+Kalenborn|DE||8r|3wm|kc|7
+Kallaste|EE||9x|4iy|23g|7|Kalastė
+Kalipádhon|GR||8p|2x0|1lw|7|Kalipado;Kallipádhos
+Kalantaivka|UA||98|3ls|2c4|7|Kalantayivka;Kolontaivka;Kalantayevka
+Kallithea - Moustafádhes|GR||8p|2yf|1t4|7|Kallithea
+Kalebalta|TR||94|2z6|2n0|7
+Kalándra|GR||8p|331|1t0|7|Kalándhra
+Kalaru|AU||8l|-2u1|bkh|7
+Kalloní|GR|Attica|8p|2wa|1sp|7
+Kalavasos|CY||73|2ok|2kj|7|Kalavason;Kalavaso
+Călușeri|RO||8u|3lh|1wq|7|Kál;Călusei;Căluşer
+Kałków|PL||a5|3w1|1br|7
+Kalnivtsi|UA||98|3qa|1z2|7|Călinești
+Kaldırımbaşı|TR||94|33s|23l|7
+Kalāteh-ye Andādeh|IR||7o|2u3|4ez|6
+Akhíllio|GR||8p|30d|1rs|6|Achilleio;Kalyvia Chamakou;Achilio;Achillio
+Kallitéros|GR||8p|2ww|1m2|6
+Kalynove|UA|Donetsk|98|3q6|2wl|6|Kalinovo
+Kalpáki|GR||8p|32t|1la|6
+Kallmerode|DE||8r|3yn|sm|6
+Kaisersdorf|AT||a2|3o2|19j|6|Kalištrof;Császárfalu
+Kalenyky|UA|Poltava|98|3tl|2m1|6|Kaleniki
+Kaliska|PL|Kujawsko-Pomorskie|a5|41l|1h4|6
+Kaltenholzhausen|DE||8r|3vq|mi|6
+Kalāntar|IR||7o|30j|3nh|6
+Kateřinice|CZ|Moravian-Silesian Region|9m|3tz|1ej|6|Kaltendorf
+Kalá Nerá|GR||8p|317|1s8|6
+Kalóvatos|GR||8p|30p|1m4|6
+Kalī Kalī|IR||7o|2lm|3lc|6
+Kalachivka|UA||98|3kv|28j|6|Colăceni;Kalachovka;Kolacheni
+Kalübbe|DE||8r|46c|sk|6
+Kalynove|UA|Donetsk|98|3nu|2w3|6|Kalinine;Kalinino;Kalynowe;Kalînove
+Kalbe|DE|Lower Saxony|8r|441|qj|6
+Kalamotí|GR||8p|2y7|20d|6|Kalamuti
+Kallham|AT||a2|3q4|123|6
+Kalón Nerón|GR||8p|2vm|1oa|6|Kalo Nero
+Kalafatlı|TR||94|371|2gx|6
+Kallípoli|GR||8p|35b|1pr|6
+Kalol INA|IN||6t|1sh|5lg|5
+Kalān|IR||7o|2ks|3kk|5
+Kalenyky|UA|Cherkasy|98|3uj|2gg|5|Kaleniki
+Kalce|SI||9a|3ji|13f|5
+Calnic|RO|Covasna County|8u|3jl|1zm|5|Kálnok
+Kaleüçağız|TR||94|2sk|2ax|5
+Kalt|DE||8r|3vn|kj|5
+Kalavárda|GR||8p|2sy|25n|5|Calavarda;Kalavárdha
+Kalantaiv|UA||98|3sa|2jd|5|Kalantayiv;Kolantayev;Kalantayev
+Kalomoíra|GR||8p|32f|1nh|5
+Kaltschach|AT||a2|3li|12r|5

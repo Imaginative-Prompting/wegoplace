@@ -1,0 +1,31 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Beirut|LB||64|2m5|2qm|es9|Bejrut;Bejruto;Beyrouth;Beiroet;Beyrut;Berytus;Bäyrut;Bêrût;Béiriút;Birut;Beirot;Bewout;Beirout;Bejruti;Beirots;Bairut
+Vijayawada|IN||6t|19v|681|8tk|Widźajawada;Vidžajavada;Vijajaŭada;Vidzsajavádá;Bejawada;Bezawada;Vijayavādā;Bezwāda
+Bet Shemesh|IL||6n|2g5|2p7|1d4|Bet Schemesch;Betxèmeix;Beit Şemeș;Bejt Šemeš;Beyt Şemeş;Beit-Shemesh
+Béjaïa|DZ||3|2u4|e4|1cx|Bougie;Bijaya;Bugia;Bidschāya;Bejayd;Biǧāya
+Béja|TN||1e|2u1|pi|h4|Badža;Bace;Bedja
+Bejaâd|MA||d|2j1|-hr|e8
+Beja|PT||99|2xl|-lu|9o
+Bejuma|VE||2c|s9|-59m|9m
+Bezhetsk|RU||9i|4gi|2ty|7t|Beschezk;Bejetsk;Bežeck;Bezjetsk;Bejețk;Bežetsk;Beĵeck;Bieżeck;Bežeckas;Beshezk
+Bet She’an|IL||6n|2ia|2qm|5n|Beit Shean;Beth Shan;Besan;Bet Sze'an;Bet Sche’an;Beït-Shéan;Beit She'an;Beth Shean;Bet Shean;Beit Šeanas;Bét-Seán;Bet-Sjean;Beit Še'an;Beet She'an;Bisan;Bejt Še'an;Beyt Şe'an;Beisān;Beith Sheān
+Bejucal|CU||36|1rp|-6cv|51
+Béjar|ES||9d|347|-g0|46|Bexa
+Beit Jann|IL||6n|2jk|2qa|3c|Bet Jan;Bejt Džan;Beit Dżan;Beyt Jann;Bayt Jann;Beit Jan
+Beiuş|RO||8u|3ln|1q3|2z|Bejušas;Belényes
+Bejubang Dua|ID||6l|-4z|7z0|28
+Pöttmes|DE||8r|3qy|ut|1r|Bejmas
+Beya|RU||6u|43d|70k|1h|Beja
+Bejuco|PA||4g|nx|-65x|13
+Bejucos|MX||41|1g6|-7qz|p
+Bet Zayit|IL||6n|2ga|2po|f|Bejt Zajit;Beit Zayit;Bet Zait;Beyt Zayit
+Bejgerd|IR||7o|2i8|3z4|f
+Bejuco|HN||56|161|-6s9|d
+Bet HaGaddi|IL||6n|2fb|2o5|b|Bejt ha-Gadi;Beit HaGadi;Beyt HaGadi;Beit Hagaddi;Beit Hagedi;Beit Hageddi
+Bet Yehoshua‘|IL||6n|2hm|2ou|b|Bejt Jehošua;Beit Yehoshua;Beït-Yéhoshoua;Beit Jehoszua;Beyt Yehoşua;Beit Yehoshua‘;Bet Yehoshua
+Bet Alfa|IL||6n|2ic|2qf|b|Beit Alfa;Beït-Alfa;Bejt Alfa;Beyt Alfa;Bet-Alefa
+Bet Qama|IL||6n|2fd|2ok|a|Bejt Kama;Beit Kama;Bet Kama;Beyt Kama;Beit Qama
+Bejsce|PL||a5|3vk|1l8|9
+Bet HaLevi|IL||6n|2hv|2p1|8|Bejt ha-Levi;Beit HaLevi;Beyt HaLevi;Beit Halewi;Bet HaLewi
+Bet Hillel|IL||6n|2k9|2qx|8|Bejt Hilel;Beit Hillel;Beyt Hillel

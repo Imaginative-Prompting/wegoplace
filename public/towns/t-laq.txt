@@ -1,0 +1,19 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lagos|NG||u|hx|9f|3aqg|Lacupolis;Laqos;Èkó;Laguosos;Logos
+La Quinta|US||3p|2li|-8z3|b9
+L'Aquila|IT||9o|39n|118|9d|Áquila
+Laqiyya|IL||6n|2f0|2ou|5e|Lakiyya;Laqiya
+La Quiaca|AR||1o|-1pe|-528|44|La Kiaka
+La Queue-en-Brie|FR||9k|3rj|76|3a
+Luquillo|PR||4m|1f1|-52k|2b|Laquilo;Loquillo
+La Queue-les-Yvelines|FR||9k|3rk|4x|j|La Queue-lez-Yvelines
+La Quemada|MX|Chihuahua|2g|285|-89a|d
+La Quemada|MX|Jalisco|41|1m9|-811|c
+Laquenexy|FR||9k|3sc|hj|a
+La Quemada|MX|Zacatecas|41|1qa|-7xo|9
+La Quebrada|PE||3o|-ds|-67u|9
+La Quemada|MX|Guanajuato|41|1kc|-7se|9
+La Quinua|PE||3o|-ti|-5vm|8|Quinua
+La Quemada|MX|Guanajuato|41|1n8|-7sv|7
+La Quemada|MX|Zacatecas|41|1tb|-7xl|7
+La Quinte|FR||9k|3pi|4|7

@@ -1,0 +1,625 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lhasa|CN||7i|2ad|712|6p3|Lhassa;Lassa;Lhásza;Lasao;Lása;Lhas
+Las Vegas|US|Nevada|3p|2sh|-8vu|4yb|Lasvegaso;Campi;Lasvegasa;Las-Veqas;Vegas;Los Vegas
+Las Piñas|PH||71|145|9c2|4qz
+Las Palmas de Gran Canaria|ES||83|262|-16u|2yj|Laspalmaso;Las Palmas;Kanaria Handiko Las Palmas;Les Palmes de Gran Canària;Laspalmasa;Palmas de Gran Canaria;Las Palmas de G.C.
+North Las Vegas|US||3p|2sk|-8vs|1t8|Norda Lasvegaso;Bắc Las Vegas
+La Ceiba|HN|Atlántida Department|56|17s|-6p2|1pp|La Seiba
+La Ceiba|HN|Atlántida Department|56|17t|-6p7|1o0|La Seiba
+San Cristóbal de las Casas|MX||3z|1ah|-75c|1nz|San Cristóbal;San Cristóbal las Casas
+Las Tunas|CU||36|1m8|-5xr|1kl
+Ciudad de Las Heras|AR||1q|-2j9|-5b8|1gj
+San Pablo de las Salinas|MX||41|1in|-7n9|17e
+Tetuán de las Victorias|ES||9d|34e|-aa|172|Tetuán
+La Serena|CL||4u|-2b3|-5hx|16x|Laserena
+Lashio|MM||7y|1rq|7jj|10e|Lašijas;Lašio;Lasho
+Lasnamäe|EE||9x|4l3|1x2|vy
+Las Cruces|US||2p|2hr|-88m|s8
+Las Rozas de Madrid|ES||9d|34h|-ar|qk|Las Rozas;Rozae Matritenses
+La Spezia|IT||9o|3ei|ra|px|Speza;Spedia;Spezia
+Las Piedras|UY|Canelones|45|-2oh|-4c6|jd|Las Pjedras
+Las Cumbres|PA||4g|p9|-64y|j7
+La Seyne-sur-Mer|FR||9k|3bq|gc|hb|La Sanha;La Seyne sur Mer
+Laascaanood|SO||14|nk|3nk|gp|Las Anod;Laascanood
+Las Águilas|ES||9d|346|-ah|e9
+Lashibi|GH||1|fs|-4|do
+Lashkar Gāh|AF||6o|2fr|4yt|c7|Laskargah;Lachkargah;Lashkargah;Lashkargakh
+Las Tejerías|VE||2c|sh|-56l|c2|Tejerias
+Las Choapas|MX||41|1dr|-79e|bv
+Lasoano|ET||2|he|3i3|ak|Laasacaano;Laasocaanood;Laso Ano;Laso Anod;Laasacaanood;Laasocaano
+Las Guacamayas|MX||41|1e2|-7vx|ak
+La Sebala du Mornag|TN||1e|2tw|sl|9a|La Cebala du Mornag
+LaSalle|CA||59|39c|-6eq|93
+Las Animas|CL||4u|-32l|-5ne|8c
+Lasem|ID||6l|-il|8ll|81
+La Salud|CU||36|1rj|-6cy|80
+La Sagrera|ES||9d|372|63|7z
+Las Breñas|AR||1n|-239|-4po|7i
+Las Pintitas|MX||41|1l4|-7yy|7d
+Las Flores|AR|Buenos Aires|1l|-2s1|-4k6|6z
+Las Heras|AR||1r|-3la|-5bh|6v
+Las Pintas de Arriba|MX||41|1l6|-7z0|6c
+Las Matas de Farfán|DO||4v|1gf|-5io|62
+Kovylkino|RU||9i|464|3e0|5y|Lashma;Kowylkino;Kovilkino;Kovykino
+Las Torres de Cotillas|ES||9d|2xn|-3g|5v|La Torres de Cotillas
+Las Margaritas|MX|Chiapas|3z|19b|-73i|5s
+Las Vegas|VE||2c|qi|-5an|5m
+La Paz|UY||45|-2ok|-4c7|5j|La Pasas;Laspasa
+L.A.Sagaram|IN||6t|12m|65x|5j
+Las Rosas|MX|Chiapas|41|19h|-74l|58
+Las Varillas|AR||1n|-2gj|-4u8|56
+Łask|PL||a5|3zb|1h5|56
+Lasarte|ES||9d|3c7|-5m|4y
+Lāsalgaon|IN||6t|1jy|5q8|4u
+La Sierpe|CU||36|1oh|-647|4p
+Las Tres Torres|ES||9d|370|5x|4l
+Las Cabezas de San Juan|ES||9d|2uq|-gi|4k|Las Cabezas San Juan
+Las Gabias|ES||9d|2v6|-a7|4k
+L'Assomption|CA||59|3ja|-5nz|4f
+La Solana|ES||9d|306|-90|4b
+Las Delicias|MX|Baja California|58|2i1|-90u|4b
+Las Amapolas|MX||41|1h7|-7f8|42
+Las Varas|MX|Nayarit|3x|1mu|-842|40
+Lastoursville|GA||v|-2a|zb|40|Lastourville
+Las Nazarenas|PE||3o|-10j|-5q6|3z
+Las Matas|ES||9d|34o|-at|3y|La Mata
+Las Vegas|US|New Mexico|2p|2qv|-84a|3q
+Las Lajitas|AR||1s|-1wp|-4yb|3p
+la Salut|ES||9d|371|5z|3p
+Las Rosas|AR||1n|-2i8|-4r2|3k|Los Rosas
+La Seu d'Urgell|ES||9d|39o|42|3c|Orgellum;Orgellis civitas;Urgellum;Urgelitana sedes;La Seo de Urgel;Seo de Urgel;La Seu de Urgell;La Seo d'Urgel;Urgell
+Las Toscas|AR||1n|-26r|-4km|3a|Las Tocas
+Las Lomas|PA|Chiriquí Province|4g|nf|-6cv|39
+Las Palmas|MX|Baja California Sur|3x|1rq|-8he|38
+Lastra a Signa|IT||9o|3dl|uv|37
+Laaksolahti|FI||92|4nc|1ws|35|Dalsvik;Lasari
+Las Parejas|AR||1n|-2is|-4qw|35
+Las Cortes|ES||9d|34a|-aa|30
+Lasht-e Neshā|IR||7o|2vs|3ui|2x|Lasht Neshah;Lashteneshā;Lasht Neshā’
+Las Veredas|MX||3x|1sb|-8gr|2x
+Las Lomitas|AR||1n|-1wn|-4ob|2w
+Lassodyāmeri|IN||6t|1ra|5uv|2u
+Las Matas de Santa Cruz|DO||4v|1in|-5im|2u|La Mata de Santa Cruz
+Bastak|IR||7o|23k|471|2s|Lastak
+La Sierra|CO||27|62|-5x8|2r
+Lescar|FR||9k|3cd|-17|2p|Leskarre;Lascurris
+Las Vigas de Ramírez|MX||41|1ik|-7hq|2p
+La Salle|US|Illinois|2f|36t|-6vh|2o|LaSalle
+Las Guáranas|DO||4v|1hb|-5f1|2o
+Las Lomas|PE||3o|-cx|-66x|2n
+Las Juntas|MX|Jalisco|41|1li|-84c|2i
+Las Tablas|PA||4g|ll|-670|2h
+Las Cabras|CL||4u|-2n9|-5i3|2c
+Lasang|PH||71|k7|9p3|2b|Lasong
+Las Praderas|NI||3s|113|-6mq|26
+La Sarre|CA||59|3rk|-640|25
+Las Terrenas|DO||4v|1hn|-5d6|25|Las Terreras;Las Terenas;La Terenas
+La Selva|MX|Tabasco|41|1e2|-768|25
+Lascahobas|HT||4j|1gb|-5ju|24|Laskawobas;Las Caobas;Las Cahobes
+Las Vegas, Santa Barbara|HN||56|15c|-6sn|23|Sauce
+Decazeville|FR||9k|3fs|69|21|La Sala
+Lashkarābād|IR||7o|2rm|3wz|20|Lashgarābād
+Lassance|BR||4w|-1dp|-3fu|1z
+Las Pedroñeras|ES||9d|31l|-7f|1y
+Lascano|UY||45|-2lj|-46l|1y|Lazcano
+Las Khorey|SO||14|v0|3pw|1x|Laasqoray;Laasqorey;Lās Qóray;Las Khoreh
+Lastrup|DE||8r|42n|lv|1v
+Las Piedras|PR||4m|1ei|-52z|1v
+Lasam|PH||71|1e7|9ds|1s
+La Salvetat-Saint-Gilles|FR||9k|3d2|3j|1r|La Sauvetat de Sent Gili
+Las Jarretaderas|MX||3x|1lh|-84f|1r
+Las Trojes|HN||56|133|-6mu|1r
+Las Flores|US|California|3p|2mk|-95k|1o
+Las Flores|US|California|3p|2lb|-92r|1o
+Lasologo|CI||0|qn|-e6|1m|Lassologo
+La Souterraine|FR||9k|3kg|45|1h|La Sostrana;La Sotarrana
+Las Higueras|AR||1n|-2jx|-4yl|1h
+Lasjan|IN||6t|2mk|5rz|1h
+Las Navas del Marqués|ES||9d|34s|-c1|1e
+Lāsūr|IN||6t|1je|5sa|1e|Lassur
+Las Torres|MX||44|203|-7qo|1d
+Łaskarzew|PL||a5|3zv|1nz|1d|Laskaževa
+La Selva del Camp|ES||9d|36h|36|1b
+Las Charcas|DO||4v|1f9|-5g6|1b
+Las Lajas|AR||1s|-2z0|-5fh|1b
+La Calera|MX|Guanajuato|41|1ls|-7th|1b|Las Caleras
+Lassila|FI||92|4nb|1x4|1a|Lassas
+Las Perdices|AR||1n|-2iu|-4wy|1a
+Las Salinas|DO||4v|1er|-5i4|19|La Salina
+Las Vigas|MX|Guerrero|41|1ak|-7nn|19
+La Paloma del Espíritu Santo|PY||1y|-1v1|-47p|18|La Paloma;Las Palomas
+Lasne-Chapelle-Saint-Lambert|BE||8t|3wt|ci|17
+Murovane|UA||98|3tk|1rq|17|Laszki Murowane;Laski;Murovany;Murovanoye
+Las Garcitas|AR||1n|-21y|-4m4|16
+Las Perlas|AR||1s|-30b|-59a|16
+Las Margaritas|PA||4g|pj|-63p|16|La Margarita
+Las Huertas|MX||41|1jh|-7ok|13
+La Solana|MX||41|1ln|-7qv|13
+La Suze-sur-Sarthe|FR||9k|3p1|3|12
+La Séguinière|FR||9k|3mq|-2m|11
+Las Norias de Ojocaliente|MX||41|1ot|-7vy|11
+Lyaskelya|RU||9i|4rk|2e5|10|Läskelä;Ljaskelja
+Las Toninas|AR||1l|-2td|-4di|10
+La Sauceda|MX|Guanajuato|41|1m2|-7t3|z|Santa Fe de Guadalupe;Sauceda;La Sauceada
+Laško|SI||9a|3k7|16c|z|Tüffer
+Las Navas|PH||71|ya|9nb|y
+Las Lajas|PA|Panamá Oeste Province|4g|nr|-661|x
+Las Quintas Fronterizas|US||2f|27p|-7r3|x
+Las Quintas Fronterizas Colonia|US||2f|27p|-7r3|x
+Łasin|PL||a5|44o|1h1|x|Łôsëno;Łazin
+Halászi|HU||8v|3p1|1c5|x|Halasen;Halassen;Fischerdorf;Laslovo;Helasi
+Las Lomas|MX|Puebla|41|1j2|-7j5|x
+Las Colonias de Hidalgo|MX||41|1k4|-7k6|w
+La Sentinelle|FR||9k|3vv|9o|w
+Lastro|BR||2w|-i4|-2y2|w|Castro
+Las Lomas|US|Texas|2f|218|-7me|v
+Laslea|RO||8u|3ke|1wh|v
+Las Toscas|UY||45|-2oh|-4as|v
+Laskowa|PL||a5|3u8|1kt|v
+Lazurne|UA||98|3k0|2id|v|Novooleksiyivka;Lazourné;Lasurne
+La Soledad Salinas|MX||41|1aa|-7eo|v|Soledad Salinas
+El Cerro de la Sauceda|MX||41|1jt|-7wa|v|La Sauceda
+Las Esperanzas|MX||44|252|-7tj|u
+Las Lomas|US|California|3p|2uf|-9e5|u
+Las Lajas|HN||56|152|-6rr|u
+Las Tablas|ES||9d|34j|-a7|u
+Lashky|UA||98|3sf|2kz|u
+Playa de las Américas|ES||83|25y|-1ah|u|Las Américas
+Lascari|IT||9o|2xk|12q|t
+La Selva Beach|US||3p|2um|-9ei|s
+Lassnitzhöhe|AT||a2|3mr|17a|s
+Las Mesas|MX|Guerrero|41|1b9|-7oa|r|La Mesa
+La Salute di Livenza|IT||9o|3it|zk|r
+Lassay-les-Châteaux|FR||9k|3qk|-1e|r
+Las Grullas Margen Izquierda|MX||3x|1zt|-8fp|q
+Cenobio Moreno|MX||41|1h2|-7wq|q|Las Colonias
+Las Manzanas|MX||41|1jf|-7ok|q
+Las Mesas|ES||9d|31f|-7p|p
+La Suiza|CR||2i|rd|-6ga|o
+Las Esperanzas (El Ranchito)|MX||41|1u9|-7yh|o
+Monte Migliore La Selvotta|IT||9o|37w|yq|o|Monte Migliore;La Selvotta;Monte Migliore-La Selvotta
+Las Varas|MX|Chihuahua|2g|267|-84m|o
+Lassee|AT||a2|3py|1aq|o
+Łaszczów|PL||a5|3wd|1tx|n|Łaszców;Łaszozow
+La Sabinita|MX||41|1kk|-7or|n
+Las Animas|US||2p|2xr|-7yq|m
+Las Cañadas|MX||41|1ke|-7va|m
+La Sarrosa|HN||56|16b|-6rz|m|Sarrosa;La Zarrosa
+Las Piedras|UY|Artigas|45|-2c2|-4fy|m
+Las Brisas|MX|Sinaloa|3x|1yt|-8cp|m|Emiliano Zapata
+Las Higuerillas|MX||3w|1y6|-7io|l|Higuerillas
+Las Delicias|MX|Chiapas|41|18d|-736|l
+Las Acequias|AR||1n|-2kg|-4xq|l|Las Acequitas;Las Arequias
+Las Maravillas|MX|Chiapas|41|1bi|-761|l|Maravillas
+La Mesa|PA|Veraguas Province|4g|mn|-69i|l|Las Mesa
+Låsby|DK||8y|4bz|r9|l|Laasby
+La Saussaye|FR||9k|3su|2q|l
+La Salle|US|Colorado|2p|343|-82u|l|LaSalle
+Las Navajas|MX||41|1l1|-800|k
+Lasa|IT||9o|3li|tq|k|Laas
+Las Rosas|ES||83|25u|-1a9|k
+Las Taponas|MX||41|1kq|-7qu|k
+Las Ollas|PR||4m|1e1|-54i|j
+Salles-la-Source|FR||9k|3fg|6z|j|Las Salas del Comtal;Salas Comtals
+Las Margaritas|MX|Oaxaca|41|1ep|-7fg|j
+San Pedro Jácuaro|MX||41|1ir|-7rk|j|Las Joyas
+San Javier|MX|Querétaro|41|1ln|-7p0|j|Las Tuzas
+Macedonio Alonso|MX||41|1kb|-7jd|i|La Sabana;Sabana
+Las Arenitas|MX||3x|1vp|-8aq|i
+Las Moras|MX|Sinaloa|3x|1za|-8da|i
+Laszki|PL||a5|3uy|1rm|i
+Las Marias|PR|Añasco|4m|1et|-56j|i
+Las Lomas|MX|Veracruz|41|1ka|-7j6|i
+Las Ánimas|MX|Aguascalientes|41|1pd|-7w3|i
+La Soledad Barrio|MX||41|1jt|-7pa|i
+Pueblo Nuevo de las Raíces|MX||3z|1dk|-760|i|Las Raices
+Las Rosas|MX|México|41|1ib|-7q8|i
+La Sidra|MX||41|1gl|-7ho|i|La Cidra
+Lashma|RU||9i|48l|36a|h|Lasjma
+La Sarraz|CH||a7|3lm|i3|h
+Las Brisas|MX|Chiapas|41|174|-76o|h
+Las Cruces|MX|Guerrero|41|1b5|-7o9|h
+Lashkivka|UA||98|3qi|1zm|g|Lachkivka;Lașchiuca
+Lasseube|FR||9k|3c2|-1c|g|La Seuva
+Langsur|DE||8r|3u4|i2|g|Laser
+Las Aguamitas|MX||3x|1wa|-8bg|g
+Las Maravillas|US||2p|2oi|-88b|g
+Las Jícamas|MX|Guanajuato|41|1kc|-7tk|g|Jícamas
+Les Matelles|FR||9k|3dh|al|g|Las Matèlas;Matelles
+Las Palmas II|US||2f|20s|-7ji|g
+Las Margaritas|MX|Baja California Sur|3x|24q|-8r5|g
+Las Palmas|MX|San Luis Potosí|41|1p7|-7mn|g
+Las Flechas|MX||41|1ae|-76f|g
+Las Ánimas|MX|Guerrero|41|1b5|-7nw|g|La Ánimas
+Laskū Kalāyeh|IR||7o|2vu|3uz|g|Leskū Kelāyeh
+Las Junturas|AR||1n|-2gf|-4w9|f
+Las Lomas|MX|Veracruz|41|1i1|-7h7|f
+Las Catarinas|MX||41|1s5|-7x2|f
+La Sabana|HN||56|16p|-6s9|f
+La Subida|MX||41|1ov|-7na|f
+Las Gaviotas|CL||4u|-32r|-5nb|f
+La Saletta-Tamara|IT||9o|3go|wp|f
+Las Peñas|MX|México|41|1i1|-7ps|f
+La Sauve|FR||9k|3gd|-v|f
+Lassan|DE||8r|45v|12h|f
+Las Colinas|PA||4g|nr|-66g|e
+Las Trojas|MX||41|1lj|-7ry|e
+Las Ventas de Retamosa|ES||9d|33k|-bf|e
+Las Virginias|MX||44|1zo|-7yv|e
+Las Sabanetas|MX||41|1ed|-7e6|e
+La Scala|IT||9o|3dd|u7|e
+Las Varas (Estación Babícora)|MX||2g|29w|-8c3|e
+Las Higueras de los Natoches|MX||3x|204|-8eq|e|Higueras de los Natoches
+Las Masas (La Luz Masas)|MX||41|1l8|-7u2|e
+Las Grullas Margen Derecha|MX||3x|1zw|-8fq|e
+Las Tazas|MX||41|1ak|-72h|e
+San Vicente de Juárez|MX||41|1fw|-7my|e|Las Piedras
+Las Palas|ES||9d|2wm|-3b|e
+Las Maravillas|MX|Chiapas|41|1b4|-778|d
+Las Cieneguitas|MX||41|1k9|-7w0|d|Cieneguitas
+Las Chicharras|MX||41|17j|-745|d
+La Selle-la-Forge|FR||9k|3rd|-1i|d
+Las Quemazones|MX||3x|1zd|-8d9|d
+Lassigny|FR||9k|3tr|7w|d
+Las Ovejas|AR||1s|-2ur|-5gj|d
+Las Tunas|MX||41|1bk|-7r4|d|Las Lunas
+Las Vegas|HN||56|15q|-6qx|d
+La Sauceda|MX|Guanajuato|41|1np|-7rs|d
+La Sardina|MX||41|1m0|-7uf|d
+Las Lomas|MX|Guerrero|41|1b6|-7q1|d
+La Soledad|MX|Guerrero|41|1b0|-7kp|d
+General Francisco Villa|MX|Michoacán|41|1g2|-7w1|d|Las Cruces
+Lassy|FR||9k|3pa|-57|d|Lazig
+Las Palmas|PA||4g|mm|-6a9|d
+Las Nieves|MX||41|1ei|-7kd|d
+Lyashchivka|UA||98|3tm|2is|d|Lyashchovka;Liashchivka;Lashchevka;Lyashchevka
+Las Higueras|MX|Veracruz|41|1jo|-7ge|d
+La Salvetat-sur-Agout|FR||9k|3d4|7i|d|La Salvetat;Salvetat-sur-Agout
+La Soledad|MX|Guanajuato|41|1l9|-7tq|d|Soledad
+Las Sabanas|NI||3s|112|-6om|d|La Sabana
+Las Mojarras|AR||1m|-223|-53i|d
+La Sauceda|MX|Jalisco|41|1kt|-80d|d
+Las Huertas Tercera Sección|MX||41|1ld|-7tn|d
+Las Flores|AR|San Juan|1t|-2c8|-5c8|c
+La Soledad|MX|Querétaro|41|1k1|-7qb|c
+Las Letras|MX||41|1k7|-7tr|c
+Las Yerbitas [Aserradero]|MX||2g|20g|-88m|c
+Las Ochenta|PR||4m|1dy|-548|c
+La Sábana|MX|Tabasco|41|1f8|-760|c
+Las Lomas|MX|Veracruz|41|1dv|-7ao|c
+Las Liebres|MX|Guanajuato|41|1lw|-7tv|c|Las Libres
+La Secuita|ES||9d|36g|3k|c
+Las Sabinas|MX||41|1n8|-7jw|c
+Las Ollas|MX||41|1am|-753|c
+Lasbek|DE||8r|459|st|c
+La Monja|MX||41|1lw|-7r6|c|Las Monjas
+Salles-Curan|FR||9k|3eq|7r|c|Las Salas de Curanh;Las Salas
+La Séauve-sur-Semène|FR||9k|3hu|bt|c|Séauve-sur-Semène
+Las Coloradas|MX|Yucatán|3z|1o1|-6sf|c
+Las Mercedes [Agropecuaria]|MX||37|29k|-8k7|b
+La Soledad|MX|Michoacán|41|1i8|-7r4|b
+Las Tejeras|HN||56|154|-6u4|b
+Las Golondrinas [Fraccionamiento]|MX||41|1pf|-7yt|b
+L'Ascension-de-Notre-Seigneur|CA||59|3r8|-5j3|b
+Las Pilas|MX|Zacatecas|41|1rg|-7x1|b
+Las Cuevas|MX|Durango|44|1yu|-7zn|b
+Las Ánimas|HN||56|13l|-6oh|b
+Las Trancas|MX|Veracruz|41|1i6|-7h2|b
+Lasalle|FR||9k|3ed|ap|b
+Lastage|NL||8m|41h|dm|b
+La Salvetat-Peyralès|FR||9k|3eu|64|b|La Salvetat-Payralès
+La Soledad|MX|Tlaxcala|41|1ia|-7ly|b
+Las Compuertas|MX|Guerrero|41|1bs|-7pt|b
+Las Cañas|MX|Guanajuato|41|1ke|-7tq|b
+La Salle-et-Chapelle-Aubry|FR||9k|3n9|-2q|b
+Lasek|PL||a5|3tj|1ji|b
+La Alberca|ES||9d|34h|-gz|b|Alberca;Las Alberca
+Las Brisas|MX|Baja California|58|2e0|-8yo|b
+Las Cañas|MX|Michoacán|41|1fl|-7va|b
+La Seca|ES||9d|371|-dn|b
+La Soledad|MX|Puebla|41|1g9|-7jk|b
+Las Ánimas|MX|Guanajuato|41|1ko|-7us|b
+Hostyntseve|UA||98|3uc|1sg|b|Hostyncewe;Laszki Gościńcowe;Liashky-Hostyntsevi;Lyashky-Hostyntsevi
+La Sala (La Caliente)|MX||41|1k5|-7mn|b
+Las Bocas|MX||37|21v|-8fp|a
+Las Ranas|MX||41|1k5|-7tw|a
+La Sombra|MX||41|1iv|-7gn|a
+Las Armas|MX||41|1oa|-7mx|a
+Lasara|US||2f|21i|-7jz|a
+La Sabana|MX|Guanajuato|41|1mw|-7rp|a
+Las Lomas de Tacamichapan|MX||41|1dn|-7b3|a
+Las Barrillas|MX||41|1ej|-7as|a
+Las Marías|PR|Las Marías|4m|1ep|-563|a
+Lāsjerd|IR||7o|2qd|43h|a|Lāsgerd;Lāsjird
+Las Primaveras [Invernadero]|MX||41|1ip|-80f|a
+Las Lajitas|MX||41|1ls|-7qw|a
+Las Pintas|MX||41|1ja|-7mp|a
+Las Lajas|MX|Puebla|41|1jk|-7kf|a|Segunda Sección
+Las Varas|AR||1n|-2gc|-4ty|a
+San Antonio del Puente|MX||41|1hy|-7oq|a|Las Trojés
+Las Lajas|PA|Chiriquí Province|4g|mx|-6bf|a
+Las Plazuelas|MX||41|1av|-7p7|a
+Las Torres de Guadalupe|MX||44|1zp|-7ri|a
+Las Mercedes|HN||56|13o|-6r9|a
+Las Piedras|MX|Hidalgo|41|1nc|-7lm|a
+La Soledad|PE||3o|-mb|-5z7|a
+Las Vivianas|MX||41|1gl|-7n3|a
+La Soledad|MX|Chiapas|41|19v|-721|a
+Laskarci|MK||9u|38m|1mx|a|Laskrce;Laskarce;Laskrci
+La Sinaloa|MX||3x|1wt|-8ay|a
+La Sagne|CH||a7|3mp|ix|a
+Las Chacas|MX||41|1mx|-7lp|a
+Las Trancas|MX|Puebla|41|1it|-7j2|a
+La Saulce|FR||9k|3ff|gp|a
+Las Plazas|MX|Hidalgo|41|1j7|-7mu|a
+Lasberg|AT||a2|3qn|14e|a
+Las Puentes (Guadalupe Victoria)|MX||3x|1w5|-8aq|a
+Lassoro|CI||0|my|-bn|a|Lassorho
+La Salle-de-Vihiers|FR||9k|3n0|-1s|a
+LaScie|CA||50|3ur|-4ag|a|La Scie
+Lassnitz|AT||a2|3m3|16c|a
+La Soledad|MX|Chiapas|3z|17a|-74x|a
+Las Haldas|MX||41|1ij|-7gz|a|Las Heldas
+La Salitrera|MX||41|1d8|-7u8|9
+Las Conchas|MX||41|1aa|-7b4|9
+Las Minas|MX|Guerrero|41|1ao|-7oi|9
+Las Palmas|PE||3o|-i5|-5w2|9
+Las Colonias|MX||41|1jb|-7uk|9
+Las Lomas|MX|San Luis Potosí|41|1o3|-7m6|9
+La Soledad Ejido|MX||41|1jt|-7pd|9
+Las Palmeras|MX||41|15b|-74c|9|Las Palmas
+La Soledad|MX|Durango|44|1ws|-83h|9|Soledad
+La Sauvagère|FR||9k|3r2|-16|9
+La Santa|ES||83|28v|-11z|9
+La Sábila|MX||37|22d|-8gi|9
+Les Eyzies-de-Tayac-Sireuil|FR||9k|3gu|2t|9|Las Eisiás de Taiac;Las Aisiás de Taiac e Siruèlh
+Las Limas|MX|Veracruz|41|1fc|-7gp|9
+La Selle-Craonnaise|FR||9k|3ow|-2w|9
+La Soledad|MX|Guerrero|41|1ah|-7lc|9|Soledad
+La Soledad de Santa Ana|MX||41|1kb|-7tw|9
+Laslovo|HR||a6|3i6|1fy|9
+La Salud|MX||41|1ig|-7qk|9
+Las Minas|PA|Herrera Province|4g|lo|-68b|9
+Las Mercedes|MX|Coahuila|44|1zs|-7yy|9
+Las Juntas (La Floreña)|MX||41|1gy|-81i|9
+Las Colonias (Colonia Juárez)|MX||41|1qo|-7ur|9
+Las Piedras|MX|Zacatecas|41|1u4|-7ya|9
+Čeminac|HR||a6|3ix|1fv|9|Laschkafeld;Laskafalu
+Las Alvareñas|MX||2g|265|-84m|9|Alvareñas;Alvaceñas;Alvarehas
+Laßnitzthal|AT||a2|3ms|17h|9
+La Salle|IT||9o|3j2|jn|8|Sala
+Las Canteras|PE||3o|-io|-654|8
+Las Minas|MX|Morelos|41|1gh|-7mt|8
+Las Lagunillas|MX||41|1is|-81p|8|Lagunillas;Lagunilla
+Las Trojes|MX|Guanajuato|41|1nw|-7tp|8
+Las Américas|MX||3x|1z3|-8cv|8
+Las Adjuntas|MX|Guanajuato|41|1mi|-7qx|8
+Las Puentes|MX|Chihuahua|2g|26l|-84x|8|Los Puentes
+Las Juntas|MX|Guerrero|41|1ej|-7qu|8
+Las Trancas|MX|Sinaloa|3x|1wo|-8ba|8
+La Selle-sur-le-Bied|FR||9k|3pi|82|8|Selle-sur-le-Bied
+Las Cruces|PA||4g|lr|-67f|8
+Las Matas|PA||4g|n3|-6bf|8
+Las Lomas|PA|Coclé|4g|nn|-67a|8
+Las Palmitas|PA||4g|ll|-671|8
+La Soledad|MX|Michoacán|41|1hy|-7r5|8
+Las Puentes|MX|Hidalgo|41|1jp|-7kr|8|Los Puentes
+José María Morelos y Pavón (Las Delicias)|MX||41|1d0|-765|8|Las Delicias
+Las Tapias|HN||56|133|-6qg|8
+Las Vueltas|MX||41|1gi|-7pe|8
+Salsadella|ES||9d|34a|i|8|La Salzadella
+La Soledad|MX|Oaxaca|41|1dn|-7ec|8|Soledad
+Las Cenizas|MX||41|1l9|-7pz|8
+Las Plazas|MX|México|41|1j1|-7n3|8
+Las Puertas|MX||41|1gw|-7f9|8
+Las Cruces|MX|Guerrero|41|1ep|-7rx|8|Las Cucres
+Las Playitas|MX||37|22z|-8gh|8
+Las Cruces|MX|Guanajuato|41|1ju|-7si|8
+Las Joyas (El Poblado)|MX||41|1hd|-7tr|8
+Lazonby|GB||9b|483|-7i|8|Lasonby
+Lasbordes|FR||9k|3c9|5p|8
+Las Cañas|MX|Guanajuato|41|1mi|-7rt|8
+L'Asile|HT||4j|1f2|-5nx|8|Lazil;Asile
+Las Peñas|MX|Guerrero|41|1a7|-7n6|8
+Las Pirias|PE||3o|-fn|-631|8
+Las Jícamas|MX|Guanajuato|41|1jq|-7s4|8
+Las Raíces|MX||41|1kk|-7tr|8
+Las Anonitas|MX||41|1el|-7rd|8
+Las Delicias|MX|Puebla|41|1j4|-7ip|8
+Las Arenas (San Agustín)|MX||41|1jj|-7p1|8
+Las Cuevas|MX|San Luis Potosí|41|1nc|-7mn|8
+Lashkuta|RU||9i|3cz|3c0|8
+Las Mesas|MX|Michoacán|41|1im|-7ss|8
+Lasowice Wielkie|PL||a5|3xb|1en|8
+La Savina|ES||9d|2zl|3y|8
+Lăstuni|RO||8u|3h3|27q|8
+Las Cruces|MX|Jalisco|41|1mz|-7uy|8
+Las Grutas|MX||41|1il|-7r6|8
+Lashgarak|IR||7o|2u5|3xe|8
+Las Paredes|MX|Jalisco|41|1ix|-81l|8
+Las Mercedes Esperanza|MX||41|1bj|-754|8
+La Soledad|MX|Michoacán|41|1k7|-7vx|8
+Las Herencias|ES||9d|32r|-do|7
+Las Fincas|MX|Quintana Roo|2b|1ky|-6pg|7
+Las Peñitas|MX||41|1ee|-7f2|7
+Las Parritas|MX||3x|1z6|-8dq|7|Parritas
+Las Jarillas|MX||41|1h6|-7ou|7
+Las Yaguas|MX||41|1ew|-7fb|7
+Las Tres Gotas de Agua|MX||3x|1vu|-8a5|7
+La Selve|FR||9k|3ej|71|7
+Las Vigas|MX|Guerrero|41|1ac|-7li|7
+Lasserre|FR||9k|3d8|39|7
+Las Moras|MX|San Luis Potosí|41|1pv|-7ss|7
+Las Yerbas|MX||41|1n9|-7sc|7
+Las Cruces de Cacahuatepec|MX||41|1at|-7oq|7
+Mesas de Acosta|MX||41|1ln|-7ss|7|Las Mesas
+Las Yeguas|MX||41|1gj|-7w4|7
+Las Piedritas|MX||3x|1vt|-8a9|7
+Las Negritas|MX||41|1p3|-7v0|7
+Las Golondrinas|MX||3z|1dp|-709|7
+Las Pimientas|MX||41|1b3|-77m|7
+La Sauceda|MX|Durango|44|1w4|-82z|7|Sauceda
+Las Palmas|MX|Jalisco|41|1l4|-7wo|7
+José María Luis Mora|MX||44|1qt|-7kc|7|Las Margaritas
+La Selva Natividad|MX||41|1ak|-75h|7
+Las Delicias|MX|Chiapas|41|17f|-74y|7|Delicias
+Las Josefinas|MX||41|1fd|-7gl|7
+Las Limas|MX|Chiapas|41|1bi|-75i|7
+Las Delicias|PA||4g|nq|-679|7
+Es Souda|TN||1e|2pi|qh|7|Lassouda;Lessouda
+Las Pilas|MX|Nayarit|3x|1p7|-844|7|La Pila
+Lastaíika|GR||8p|2wp|1nh|7|Lastéïka
+Lasino|IT||9o|3ju|ui|7
+Doctor Castillo del Valle|MX||44|1xh|-83i|7|Las Huertas
+Las Cruces|MX|Veracruz|41|1n2|-7k3|7
+Las Truchas|MX||41|1iz|-7hp|7
+Las Trojes|MX|Jalisco|41|1kh|-7z1|7
+Las Labores|ES||9d|313|-9s|7
+Las Palomas|MX|Coahuila|44|1yh|-7z2|7
+Las Ánimas|MX|Oaxaca|41|1a6|-7er|7
+Las Pilas|MX|Veracruz|41|1ms|-7lc|7
+Las Fincas|MX|México|41|1h9|-7qi|7
+La Sirena|MX||41|18d|-7gh|7
+Las Ánimas|MX|Veracruz|41|1dr|-7ap|7
+Las Coloradas 2da. Sección (Ampliación las Aldeas)|MX||41|1ex|-77v|7
+Las Moras|MX|Guanajuato|41|1mj|-7q8|7
+Los Herrera|MX||44|1xw|-852|7|Las Herreras
+La Santa Cruz|MX||41|1mt|-7ub|7
+La Soledad|PA||4g|mm|-68z|7
+Las Parras|MX||37|22k|-8gs|7
+Las Guapas|MX||41|1ox|-7oa|7
+La Selle-en-Hermoy|FR||9k|3pd|82|7|Selle-en-Hermoy
+Las Cañitas|MX||41|1an|-763|7|Cañitas
+Las Zarquillas|MX||41|1jp|-7ws|7
+Las Tinajas|MX|Guerrero|41|1f0|-7rr|7
+Las Crucecitas|MX||3x|1z2|-8d8|7
+Las Trancas|MX|Guerrero|41|1d7|-7nm|7
+Las Palmas|MX|Oaxaca|41|18u|-7hl|7|La Palma
+Las Palmas|MX|Puebla|41|1gl|-7iv|7
+Las Trojes|MX|Michoacán|41|1j8|-7sq|7
+Las Coloradas|MX|Guanajuato|41|1mm|-7ty|6
+Las Cruces|MX|México|41|1h1|-7oo|6
+Las Palomas (Bajo Paloma)|MX||41|1ef|-7bm|6
+Las Piedras|MX|Nayarit|3x|1mw|-83x|6
+La Sône|FR||9k|3hb|eo|6
+Las Canoas|MX|Michoacán|41|1j1|-7uz|6
+Las Moras|MX|Hidalgo|41|1n4|-7mv|6
+La Caldera|MX||41|1i6|-7jv|6|San Miguel;Caldera;Las Calderas
+Las Cruces|MX|Jalisco|41|1me|-7yf|6
+Las Tinajas|MX|México|41|1in|-7np|6
+La Salada|MX||41|1t5|-7xs|6
+Las Jaulas|MX||41|1p6|-7w7|6
+Las Flores Cinco Poblados|MX||41|1m5|-7jm|6
+Las Mesas San Gabriel (Las Mesas)|MX||41|1nf|-7l9|6
+Las Piedras|MX|Durango|44|1yu|-7zq|6
+Las Compuertas|MX|Tamaulipas|44|1so|-7mm|6
+Las Mesas|MX|San Luis Potosí|41|1nt|-7ml|6
+Las Flores de Mamonaquihua|PE||3o|-ii|-5wf|6
+Las Guabas|PA||4g|nb|-67h|6
+Las Mesas|MX|Guerrero|41|1cn|-7sq|6
+Las Palomas (Lajillas)|MX||44|1tf|-7qa|6
+Las Delicias|MX|México|41|1gz|-7me|6
+Las Tortugas (Emiliano Zapata)|MX||41|1jy|-7tp|6
+Las Hoyas Altas|MX||41|1hf|-7tq|6
+La Sierra|MX||41|1af|-752|6
+Las Cuevas|MX|Oaxaca|41|17x|-7gd|6
+Lassinkro|CI||0|le|-eq|6|Lassikro
+La Sabana|MX|Oaxaca|41|1bs|-7k4|6
+La Soledad|MX|Tamaulipas|44|1uw|-7n8|6
+Las Mercedes|MX|Durango|44|1xk|-80h|6
+Las Carolinas|MX||41|1c5|-7ac|6
+Las Cruces|MX|Chiapas|3z|16g|-75l|6
+Las Ánimas|MX|Guerrero|41|1aa|-7nk|6
+Las Higueras|MX|Sinaloa|3x|1s1|-86c|6
+El Sitio|MX|Hidalgo|41|1kk|-7pc|6|La Fuente;Las Fuentes
+La Soledad|MX|San Luis Potosí|41|1nf|-7m8|6
+Las Placetas|MX||41|1mf|-7k9|6
+Las Mesas Huitzizilapan|MX||41|1hy|-7o9|6
+Las Paredes|MX|Veracruz|41|1iz|-7h0|6
+Lassolaz|IT||9o|3j2|l3|6
+La Soledad|MX|Guerrero|41|1cr|-7lx|6
+Las Juntas de Chamicari|MX||3x|1zc|-8d6|6
+Las Yaras|PE||3o|-1dm|-5g0|6
+Las Canoas|MX|Puebla|41|1j2|-7ip|6
+Las Juntas y los Veranos|MX||41|1kw|-84h|6
+Las Tablas|MX||41|1i6|-7ts|6
+Lascov|SK||8s|3sk|1no|6
+Las Tuzas|MX||41|1mb|-7ql|6
+Las Güeras|MX||41|1oc|-7vn|6
+La Soledad Piedra Ancha|MX||41|1e5|-7gm|6
+La Soledad|MX|México|41|1jc|-7pj|6
+Las Lomas|MX|Veracruz|41|1ii|-7h7|6
+Las Mesas|MX|Veracruz|41|1ek|-7dw|6
+Las Lajas Primera Sección|MX||41|1jl|-7kh|6
+Laškov|CZ||9m|3tq|1b8|6
+Las Barreras|PA||4g|mi|-690|6
+Las Ollas Abajo|PA||4g|ok|-65z|6
+Las Badeas|MX||41|1oe|-7ld|6
+Las Moras|MX|Chiapas|41|178|-74r|6
+Las Vinatas|MX||41|1dm|-7pd|6
+Las Puentes|MX|Michoacán|41|1gw|-7ud|6
+Las Playas (La Palma)|MX||3x|1yk|-8d6|6
+Lăschia|RO||8u|3o2|1tx|6
+La Soledad|MX|Guanajuato|41|1l3|-7tg|6
+Las Fuentes|MX||41|1k0|-7vy|6
+Las Pilas|MX|Oaxaca|41|17w|-7gk|6
+Las Cruces|MX|Chiapas|41|176|-74h|6
+La Sabanilla (Campo Preciado)|MX||3x|1z0|-8df|6
+La Salvetat-Belmontet|FR||9k|3e4|49|6
+Las Guayabas|MX||37|22q|-8gp|6
+La Sauceda de la Luz|MX||41|1o1|-7t3|6
+La Saunière|FR||9k|3k5|5e|6
+Las Huacas|PE||3o|-11h|-5vf|6
+Lasowice Małe|PL||a5|3xe|1eq|6
+Las Isabeles|MX||44|1yu|-7zo|6
+Las Milpas|MX||37|22g|-8gx|6|La Arenita
+Las Anonas|MX||41|1i5|-7r7|6
+La Soledad|MX|Tlaxcala|41|1hs|-7jd|5
+Las Norias (Norias)|MX||41|1vi|-7xa|5
+Nueva Pastoría|MX||41|1tj|-7v3|5|Las Peyitas
+Las Minas|PA|Coclé|4g|o0|-67c|5
+Las Puentes|MX|Veracruz|41|1mh|-7k8|5|La Puente;Las Fuentes
+Las Higueras|MX|Nayarit|3x|1om|-82c|5
+Las Magdalenas|MX||41|1oo|-7po|5
+Las Mónicas|PE||3o|-dp|-670|5
+Las Águilas|MX||41|1e4|-7a7|5
+Las Crucitas|MX||41|1gi|-7vz|5
+Lasinja|HR||a6|3ih|182|5
+Las Estacas|MX|Michoacán|41|1jb|-7wu|5
+Las Gallinas|MX||41|1ln|-7rr|5
+Lases|IT||9o|3k7|v6|5
+Las Tablas Abajo|PA||4g|ln|-66x|5
+Las Pilas de Puruagua|MX||41|1jo|-7qz|5
+La Sabinada|MX||41|17l|-73z|5
+La Selva|MX|Veracruz|41|1l5|-7ln|5
+Las Cruces|MX|Guanajuato|41|1l1|-7u5|5
+Las Peñas|MX|Oaxaca|41|1b8|-7er|5
+Las Pilas|MX|Chiapas|41|16y|-74a|5
+Las Tenerías (Las Tenerías de Tepetongo)|MX||41|1ja|-7q4|5
+Las Liebres|MX|Guanajuato|41|1lb|-7sw|5
+Las Flores|MX||41|1jp|-7mc|5
+Las Colonias (Colonia Ángel Flores)|MX||3x|1yl|-8d0|5
+La Mata|PA|Coclé|4g|nj|-66i|5|Las Matas
+Las Salinas|PE||3o|-yu|-5x4|5
+Fracción las Palmas|MX||41|15s|-747|5|Las Palmas
+La Soledad|MX|Oaxaca|41|19m|-7ge|5|Soledad
+La Sarna|MX||41|1kn|-7v9|5
+Las Guásimas (Las Borregas)|MX||41|1h4|-804|5
+La Sonadora|PA||4g|nr|-675|5|Sonadora
+Las Jacarandas|MX||41|1e0|-7at|5
+Los Duraznos|MX||41|1mj|-7nd|5|Las Duraznos
+La Serra|IT||9o|3d9|u1|5
+Las Delicias|MX|Nuevo León|44|1x6|-7rk|5
+Las Estacas|MX|Sinaloa|3x|20y|-8e4|5
+Las Juntas del Tanque|MX||41|1h9|-7rm|5
+Las Palomas|MX|Michoacán|41|1j2|-7rd|5|Palomas
+Las Adjuntas|MX|San Luis Potosí|41|1p0|-7py|5
+Las Canoas|MX|Veracruz|41|1l8|-7l7|5
+Las Lajas|MX|México|41|1jv|-7p3|5
+La Selle-en-Luitré|FR||9k|3q7|-35|5|Kell-Loezherieg
+La Soledad|MX|Chiapas|41|1ac|-750|5
+Las Balsas|MX||41|1li|-7jm|5
+Las Salvias|MX||3z|16x|-74f|5
+Lásenice|CZ||9m|3sb|15l|5|Lasenitz
+Nasbinals|FR||9k|3g2|8h|5|Las Binals
+Las Caldas|ES||9d|3cd|-gg|5

@@ -1,0 +1,37 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kuz’minki|RU||9i|4aq|2x0|13q
+Novyye Kuz’minki|RU||9i|4aq|2wv|13q
+Leninsk-Kuznetsky|RU||74|47u|6nd|ua|Leninsk-Kuznetskij;Leninsk-Kusnezki;Léninsk-Kuznetski;Leninsk-Kouznetski;Leninsk-Kuzneckij;Leninsk-Koeznetski;Kuznecko Leninskas;Ļeņinska-Kuzņecka;Leninsk-Kuznețki;Lenińsk Kuźniecki;Lenjinsk Kuznjecki;Leninsk-Kuznetsk;Leninsk Kuznetski;Leninsk-Kuznetskiy
+Kuznetsk|RU||9i|43k|3lg|p5|Kusnezk;Kouznetsk;Kuzneck;Kuzneckas;Kuznețk;Kuźnieck;Kuznjeck
+Varash|UA||98|3ym|1zu|bo|Kuznetsovs’k;Varaš;Warasch;Kuznetsovsk
+Kuji|JP||7q|33n|axt|9k|Kuzi
+Kuzhithurai|IN||6t|n4|5yf|5x|Kuzhittura
+Arrianá|GR||8p|364|1zd|45|Kozlukebir;Kuzlú Kebír
+Kuz’molovskiy|RU||9i|4mz|2cp|3k|Kuzmolovskij;Kuismala
+Kuzovatovo|RU||9z|44r|3oh|2e
+Kuzhener|RU||9i|4dt|3rw|1m|Kuzjener
+Kuzumaki|JP||7q|338|aww|1k
+Kuźniki|PL||a5|3y0|1b3|1k
+Kuźnia Raciborska|PL||a5|3vg|1ev|1j|Kuzņa Raciborska;Kuźnica Raciborska
+Kuzeytepe|TR||94|2sr|2sf|1d|Güzeltepe
+Kūzeh Kanān|IR||7o|2y3|3im|1b|Koozeh Kanan;Kūzeh Konān
+Kuznechnoye|RU||9i|4ps|2b0|1b|Kaarlahti;Kuznetsjnoje;Kusnetschnoje;Kuznečnoe;Kuzneçnoye;Kuzniecznoje;Karlakhti;Kaarlakhti
+Kuzguncuk|TR||94|35z|28n|16|Kuzgunyuk;Kusgunyuk
+Kuzhorskaya|RU||9i|3g4|33z|10|Kuzjorskaja;Kuschorskaja;Kužorskaja;Kujorskaya;Koezjorskaja;Kujórskaia
+Kuzedeyevo|RU||74|445|6q8|y|Kuzedejevo
+Kuzhenkino|RU||9i|4gg|2mb|y
+Kuznechikha|RU|Ivanovo Oblast|9i|4ey|39l|w|Kuznetsjikha
+Kuzino|RU|Sverdlovsk Oblast|7z|4ee|4l4|w
+Kuzemyn|UA||98|3va|2o9|k|Kuzëmino;Kuzemin
+Kuźnica|PL||a5|44n|1tp|h
+Kuzupınarlı|TR||94|2u3|2qt|f
+Kuz’minskiye Otverzhki|RU||9i|42e|31n|f
+Kuzino|RU|Vologda Oblast|9i|4m2|2yf|e
+Kuznetsovo|RU||9i|4a7|2yi|a
+Kuznetsovo-Mykhailivka|UA||98|3nu|2y5|a|Kuznetsovo-Mykhaylivka;Kuznetsovo-Mikhaylovka
+Kozluyazı|TR||94|2vb|2w7|9|Kuzluyazı
+Kuznechikha|RU|Nizhny Novgorod Oblast|9i|4cb|3ec|7
+Kuznetsove|UA||98|3on|2e1|7|Kouznétsové;Kuznetsova;Kuznetsovo
+Kuzuyatağı|TR||94|2vk|2wy|6
+Kuzucubelen|TR||94|2uc|2no|5
+Kuz’minskoye|RU||9i|48f|326|5|Kuzminskoje

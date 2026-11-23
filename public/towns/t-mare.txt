@@ -1,0 +1,58 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Satu Mare|RO|Satu Mare County|8u|3os|1ri|v9|Szatmár;Szatmár-Németi;Szatmárnémeti;Satu-Mare;Szathmar;Sathmar;Satmarinum;Satul Mare;Sătmar
+Baia Mare|RO||8u|3oe|1th|u8|Nagybánya;Frauenbach;Neustadt;Rivulus Dominarum;Baja Mare
+Marechal Deodoro|BR||3r|-qz|-2rq|hb
+Marechal Cândido Rondon|BR||4w|-1w8|-466|ev
+Marijampolė|LT||a3|47k|1sv|9q|Kapsukas;Mariampol;Marėjampuolė;Mariampolės;Mariampolė;Mariyampol’;Mariyampole;Mariampol’;Marjampol
+Marechal Thaumaturgo|BR||4s|-ou|-5m7|5d
+Marechal Floriano|BR||4w|-1kp|-350|57
+Mareth|TN||1e|2le|sl|4u|Mārith
+Mar'yinka|UA||98|3p7|2w7|2j|Mareyka;Marinka;Mar’inka;Mariinka;Marjinka
+Mareeba|AU||8c|-1b7|b7y|2e
+Marengo|US|Illinois|2f|39d|-6u5|23
+Mareno di Piave|IT||9o|3jd|ya|22
+Marereni|KE||16|-7y|33j|1z
+Merl|LU||9c|3ts|gy|1u|Märel
+Marennes|FR|New Aquitaine|9k|3ja|-33|1e
+Maarheeze|NL||8m|3yj|fm|1b|Mâres;Haarheeze;Maarheze
+Mareterra|MC||9h|3di|kn|y
+Mareil-Marly|FR||9k|3rs|5r|y
+Mareuil-sur-Lay-Dissais|FR||9k|3l9|-3f|q
+Marœuil|FR||9k|3vt|7j|q|Mareul
+Märstetten-Dorf|CH||a7|3o7|p7|q|Märstetten;Marstettin;Marestetin
+Marëvo|RU||9i|4f7|2h4|q
+Marengo|US|Iowa|2f|384|-73r|p
+Marene|IT||9o|3g2|lh|n
+Marema|BR||4w|-22g|-427|m
+Mare La Chaux|MU||ag|-1k4|4gf|l
+Satu Mare|RO|Harghita County|8u|3kq|1yi|k|Máréfalva;Satul-Mare;Sacul Mare
+Mareil-sur-Mauldre|FR||9k|3ru|57|j
+Mareuil-lès-Meaux|FR||9k|3rx|7y|i
+Maresso|IT||9o|3ix|q0|i
+Marennes|FR|Auvergne-Rhône-Alpes|9k|3iq|dn|g
+Mareuil-sur-Ourcq|FR||9k|3si|8k|f
+Morenci|US|Arizona|4i|2jt|-8fp|f|Marenci
+Maretz|FR||9k|3v1|9i|e
+Mareuil-le-Port|FR||9k|3sc|ag|d
+Mareuil-sur-Ay|FR||9k|3s9|b8|c
+Mareau-aux-Prés|FR||9k|3oz|4y|c
+Mareuil|FR||9k|3i9|19|c
+Marenne|BE||8t|3vk|f1|b
+Mareș|RO||8u|3ge|1wv|b
+Mareuil-sur-Cher|FR||9k|3nd|3p|b
+Maresches|FR||9k|3vp|9y|a
+Mareham le Fen|GB||9b|43l|-9|9
+Mareuil-Caubert|FR||9k|3v3|53|9
+Mārenj|IR||7o|2pf|3my|9|Malrenj;Mārīnj
+Marengo|US|Indiana|3a|2yl|-6nu|8
+Marentino|IT||9o|3h5|lw|8
+Maresché|FR||9k|3px|f|7
+Mareta|IT||9o|3m9|vj|7|Mareit
+Marettimo|IT||9o|2xh|xj|7
+Maren-Kessel|NL||8m|3zw|ez|6
+Mareuil-la-Motte|FR||9k|3tm|7r|6
+Mareuil-sur-Arnon|FR||9k|3m8|60|6
+Mareil-en-France|FR||9k|3sb|6r|6
+Marynychi|UA||98|3pp|1xl|5|Măreniceni;Marynytchi
+Mareil-sur-Loir|FR||9k|3oj|1|5
+Mareau-aux-Bois|FR||9k|3pm|63|5

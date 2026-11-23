@@ -1,0 +1,80 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Vigo|ES||9d|39b|-o8|29k|Vigu;Vigas;Bigo
+Béjaïa|DZ||3|2u4|e4|1cx|Bougie;Bijaya;Bugia;Bidschāya;Bejayd;Biǧāya
+Biguaçu|BR||4w|-24d|-3r6|jb|Biguassú
+Biga|TR||94|33r|23o|gz
+Big Spring|US||2f|2hl|-7tw|81|Bigspring
+Bignona|SN||g|zl|-193|7y
+Bignay Uno|PH||71|12i|9dh|68|Bignay
+Biggleswade|GB||9b|40p|-q|4m
+Bigadiç|TR||94|31f|265|48
+Bigaa|PH||71|10o|9js|41
+Big Bear City|US||3p|2n6|-90l|3f|Big Bear
+Biggin Hill|GB||9b|3yj|3|30
+Big Rapids|US||2q|3de|-6lg|2w
+Big Lake|US|Minnesota|2f|3hx|-78f|2w
+Biggera Waters|AU||8c|-25l|bu4|2h
+Big Flats Airport|US||48|395|-5xl|24
+Biganos|FR||9k|3g0|-2q|23|Viganòs
+Bilisht|AL||9y|34v|1mb|21|Bilišta;Bilištis;Billisht;Bilisthi;Biglista;Biclishta;Biklishta;Biklista
+Bigues i Riells|ES||9d|37s|67|20|Bigues
+Big Park|US||4i|2om|-8mg|1v
+Big Bend|SZ||13|-22f|2gq|1s
+Bīghāpur Khurd|IN||6t|217|682|1s
+Bigastro|ES||9d|2xq|-2i|1m|Bigastre
+Big Stone Gap|US||48|2ug|-6dv|1k|Bigstone Gap
+Biguglia|FR||9k|3af|q6|1k
+Big Flats|US||48|392|-5xq|1h|Bigflats
+Big Bear Lake|US||3p|2n4|-90r|1g|Bigbērleika
+Bigfork|US||2p|3pi|-8sv|17|Big Fork
+Big Pine Key|US||48|1wj|-69z|17
+Biga|PH|Calabarzon|71|13m|9c1|16
+Big Lake|US|Alaska|1h|4qw|-bkj|y
+Big Lake|US|Texas|2f|2en|-7tu|x
+Biga|PH|Calabarzon|71|12m|9b5|v|Vigo;Viga
+Biga|PH|Northern Mindanao|71|n8|9l6|s
+Le Bignon|FR||9k|3mu|-45|s|Bignon;Bugnonium
+Bigaan|PH||71|n4|9qs|r
+Bignan|FR||9k|3p0|-7p|p|Begnen
+Big Coppitt Key|US||48|1wc|-6au|p
+Biga|PH|Central Luzon|71|10z|9ck|o
+Biggar|GB||9b|4ai|-9s|n|Bigear
+Big Sky|US||2p|3hs|-8ld|n
+Biggar|CA||4q|40m|-8bz|l
+Big Eddy|CA||5b|3xo|-94e|k
+Big Beaver|US||48|35e|-678|j
+Big Lake|US|Washington|3p|3qg|-9fk|i
+Biglen|CH||a7|3md|l7|i|Pigiluna
+Big Pine|US||3p|2v8|-94l|i|Ńdíshchíítsoh;Bigpine
+Biggs|US||3p|31h|-9e3|h
+Big Bend|CA||5b|3so|-9hm|h
+Big Timber|US||2p|3jb|-8hg|g
+Bigolino|IT||9o|3jf|xe|f
+Bigouin|CI||0|ki|-kv|e|Bigouen
+Bichigiu|RO||8u|3nr|1vm|e|Bükkös;Bighigiu
+Big Sandy|US|Texas|2f|2ii|-7c7|e
+Big River|US||3p|2mu|-8to|d
+Big Bend|US||2f|3b4|-6t1|d
+Big Bass Lake|US||48|36l|-5to|d
+Biglerville|US||48|32x|-5yl|c
+Big Rock|US||2f|380|-6tz|c
+Tornado|US||48|2yi|-6bc|b|Andrews Heights;Big Bend;Upper Falls of Coal;Upper Falls;Upper Falls of Coal River
+Bignoux|FR||9k|3lg|1b|b
+Big Sur|US||3p|2sr|-9ed|a
+Biggenden|AU||8c|-1yv|bqc|9
+Big Fall|BZ||24|196|-6ux|8
+Big River|CA|New Brunswick|43|3o6|-52f|8
+Biga|CI||0|ie|-i1|8
+Big Wells|US||2f|27d|-7ol|8
+Biggekerke|NL||8m|3z2|9t|7|Bîkerke
+Biguilaye|CI||0|qn|-an|7
+Big River|CA|Saskatchewan|4q|45j|-89a|7
+Big Chimney|US||48|2yp|-6ai|6
+Big Run|US||48|35t|-634|6
+Big Point|US||2f|2cz|-6ts|6|Bigpoint
+Big Sandy|US|Montana|2p|3pu|-8hv|6
+Big Delta|US||1h|4y7|-b94|6
+Big Sandy|US|Tennessee|2f|2sn|-6sp|5
+Big Piney|US||2p|3a6|-8hv|5

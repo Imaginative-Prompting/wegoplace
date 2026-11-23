@@ -1,0 +1,97 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Constantine|DZ||3|2t1|id|3gg|Cirta;Constantina
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Seremban|MY||6v|7l|7v6|2vl|Fû-yûng-sṳ;Sungai Ujong;Soghomban;Cirampāṉ
+Cirebon|ID||6l|-in|8dk|2nt|Tjirebon
+Cherkasy|UA||98|3tc|2h2|22y|Tscherkassy;Tcherkassy;Čerkasy;Czerkasy;Cserkaszi;Tsjerkasy;Tšerkassõ;Tšerkasy;Ĉerkaso;Çerkassi;Çerkası;Čerkasai;Circassium;Tjerkasy;Txerkasy;Tcherkássi;Tsjerkasi;Txerkassi;Čerkasad;Cherkassy
+Chirchiq|UZ||7m|377|5da|198|Tchirtchik;Čirčikas;Circik;Çirçig;Tjirtjik;Chirchik;Tschirtschik
+Circoiscrizione II|IT||9o|3h5|l8|139|Circoiscrizione 2
+Circoiscrizione VIII|IT||9o|3h4|lb|118|Circoiscrizione VII
+Circoiscrizione III|IT||9o|3h6|l7|10b
+Circoiscrizione V|IT||9o|3ha|la|z7|Circoiscrizione 5
+Circoiscrizione VI|IT||9o|3ha|le|tu|Circoiscrizione 6
+Circoiscrizione IV|IT||9o|3h8|l7|rg|Circoiscrizione 4
+Circoiscrizione VII|IT||9o|3h8|le|ou
+Circoiscrizione I|IT||9o|3h7|ld|lt|Circoiscrizione 1
+Ciranjang-hilir|ID||6l|-iy|89y|lm
+Ciro|ET||2|lr|2y7|je|Chiro
+Ciro Redondo|CU||36|1p6|-62m|88
+Circasia|CO||27|cu|-5u4|7j|Circacia
+Kyrenia|CY||6e|2q6|2kk|7f|Kerýneia;Girne;Kyrínia på Kypros;Kerínia;Kirenija;Kirenia;Cirénia;Kérynia
+Gjirokastër|AL||9y|33c|1jy|6i|Arghirocastru;Gjirokastra;Argirocastro;Đirokastra;Girokasteris;Argyrocastrum;Jirokaster;Cirokastra;Arghyrocastro;Gjinokastra;Gjinokastrer;Agirocastro;Gjinokastre;Gjinokastër;Argyrokastro;Gjirokastrë
+Cirencester|GB||9b|3zo|-5h|5m|Cirenceaster;Ciricestria
+Ciriè|IT||9o|3hn|l4|4u
+Chirpan|BG||9v|398|1yd|47|Čirpan
+Cirò Marina|IT||9o|31d|1bk|44
+Circleville|US|Ohio|48|320|-6ef|3v
+Chīras|AF||6o|2qe|53a|3k|Cīras
+Kirkwall|GB||9b|4ju|-88|20|Kerkvolas;Bágh na h-Eaglaise;Kirkwaa;Ciricewæl;Kirkvol;Baile na h-Eaglaise
+San Felice Circeo|IT||9o|36k|10d|1t|Circeii;Kerkaiai
+Garayeri|AZ||61|35b|3kn|1r|Qarayeri;Cırdaxan;Karayeri
+Crikvenica|HR||a6|3hi|14t|1q|Cirquenizza;Cirkvenica;Crkvenica
+Cârţa|RO|Harghita County|8u|3l9|1zj|1i|Cîrţa
+Chiri-Yurt|RU||9i|3bp|3j2|1f|Tsjiri-Jurt;Cemzavod;Čiri-Jurt;Çüyrin-Evl;Nadreč’e;Nadrech’ye;Chir-Yurt
+Circle Pines|US||2f|3hf|-76r|1e
+Ciríaco|BR||4w|-26q|-404|15|Ciniaco
+Cerknica|SI||9a|3j8|13w|14|Circonio;Serknika
+Cires-lès-Mello|FR||9k|3sv|6k|z
+Cireşu|RO|Brăila County|8u|3gv|23z|z
+Dunabogdány|HU||8v|3or|1gw|v|Bogdan;Cirpi;Bohdanovce nad Dunajom
+El Ciruelo|HN||56|16h|-6tv|u|Ciruelo
+Cârligele|RO||8u|3iw|23a|t|Cârlige;Cîrligele
+Cirò|IT||9o|31e|1be|t
+Cârlogani|RO||8u|3fo|1v3|t|Cîrlogani
+Ciry-le-Noble|FR||9k|3lh|by|p
+Circle D-KC Estates|US||2f|2bs|-7i3|o
+El Ciruelo|MX||41|19c|-7ky|m|Ciruelo
+Cirimido|IT||9o|3iy|p1|k
+Cerami|IT||9o|2x1|14b|k|Cirami
+Cârlibaba|RO||8u|3o6|1xt|k|Cîrlibaba
+Çırtıman|TR||94|2th|2si|j
+Cârjoaia|RO||8u|3ni|22r|j|Cîrjoaia
+Cireșoaia|RO|Bacău County|8u|3kh|21r|i
+Cireșoaia|RO|Bistrița-Năsăud County|8u|3my|1uu|i
+Cirey-sur-Vezouze|FR||9k|3qy|jb|h|Cirey-sur-Vezouse
+Cârna|RO||8u|3dx|1tk|h|Cîrna
+Cerchio|IT||9o|38u|11s|g|Circulus;Cerchiu
+Cheresh|UA||98|3pm|1z6|e|Cireș
+Církvice|CZ||9m|3ur|16m|d
+Cârniceni|RO||8u|3ni|24f|c|Cîrniceni
+Ciré-d'Aunis|FR||9k|3jy|-2l|c
+Cârja|RO||8u|3k7|263|c|Cîrja
+Cârligi|RO||8u|3lx|22l|c|Cîrligi
+Ceritler|TR||94|2w3|2qb|b|Ciritler
+Cârţişoara|RO||8u|3j0|1wa|b|Kercisóra;Cîrţişoara
+Çiriş|TR||94|2tr|2n1|a
+Cirilo Vázquez Lagunes|MX||41|1dz|-7bo|9
+Circello|IT||9o|36v|155|9
+Cârligei|RO||8u|3hb|1tt|9|Cîrligei
+Cârţa|RO|Sibiu County|8u|3j6|1w9|9|Kerc;Cîrţa
+Cârceni|RO||8u|3g2|1sm|9|Cîrceni
+Cireașov|RO||8u|3fh|1vp|9
+Cireșa|RO||8u|3ih|1q7|8
+Cârstieni|RO||8u|3go|1xj|8|Cîrstieni
+Cireşu|RO|Mehedinți County|8u|3gi|1qm|8|Ciresiju
+Cireșu|RO|Vâlcea County|8u|3h6|1uf|8
+Ciruelar Aquiche|MX||41|1nh|-7l3|8
+Cireșanu|RO||8u|3gy|21n|8|Cireşeanu
+Cârjari|RO||8u|3hb|203|8|Cîrjari
+Ciritei|RO||8u|3md|21d|8
+Cireglio|IT||9o|3e7|u6|8
+Cirella|IT||9o|32b|17x|7
+Cireșu|RO|Arges|8u|3gc|1xk|7
+Çırakman|TR||94|36g|2t7|7
+Circamarca|PE||3o|-125|-5pw|7
+Cirkovljan|HR||a6|3kq|1a9|7
+Cârlomănești|RO||8u|3jq|24m|7|Cîrlomăneşti
+Ciry-Salsogne|FR||9k|3t4|9m|7
+Circle|US||2p|3nq|-85b|6
+Cerécuaro|MX||41|1jp|-7tj|6|Cirécuaro
+Cârjelari|RO||8u|3gw|26q|6|Cîrjelari
+Çıralık|TR||94|2x0|2z2|6|Çiraliq
+Cirignano|IT||9o|364|14o|6
+Ciron|FR||9k|3lj|3h|6
+Ciruelito|PA||4g|ni|-67h|5
+Circleville|US|Utah|2p|2y1|-8nv|5
+Cârlomanu|RO||8u|3e0|1xc|5|Cârloman;Cîrlomanu
+Cirkvena|HR||a6|3jl|1aa|5|Crkvena

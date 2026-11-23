@@ -1,0 +1,462 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Shaoxing|CN||7i|2bc|9ay|hqw|Shawshin shehiri;Ŝaosing;Šao-sing;Thiệu Hưng;Sjaoxing;Siāu-heng-chhī;Siêu-hĭng;Shao-hsing;Shaohing
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+São Luís|BR||2w|-71|-3f2|72s|San Luisas;Saun Luís;Maranham;San Luis;Maranhão;São Luiz
+São Bernardo do Campo|BR||4w|-1tt|-3lc|6hh|SBCampo
+San Francisco|US||3p|2wx|-9g2|6dv|San-Francisko;Frisco;Sanfrancisko;San Frantzisko;Kapalakiko;Franciscopolis;San Fransiskas;São Francisco;San Fransisko;San Franciscu;Khiu-kîm-sân;San-Fransisko;San Francisko;San Fransisco
+Shaoyang|CN||7i|23o|8lm|5t8|Sjaoyang;Šao-jang;Ŝaojan;Chàu-yòng-sṳ;Thiệu Dương;Siêu-iòng;Siāu-iông-chhī
+São José dos Campos|BR||4w|-1se|-3jh|5lz|Vale do Paraíba;SJCampos;Vale Paraiba;San Žozė dos Kamposas
+São José do Rio Preto|BR||4w|-1lu|-3t6|3pg|Rio Preto;San Žozė do Rio Pretas
+São João de Meriti|BR||4w|-1rc|-3ch|3ll|San Žuan de Meritis
+São José dos Pinhais|BR||4w|-1yx|-3sp|2p7|São José dos Pinhaes
+São Vicente|BR|São Paulo|4w|-1uk|-3kv|2lz|San Visentė
+São José|BR|Santa Catarina|4w|-24q|-3r3|2a5
+São Gonçalo|BR||4w|-1rf|-3bl|27a|San Gonsalas
+São Carlos|BR|São Paulo|4w|-1p6|-3p1|220|Urbs Carlopolitana;San Karlosas
+Jardim Sao Luis|BR||4w|-1ts|-3lu|202
+São José de Ribamar|BR||2w|-74|-3ee|200|São-José-do-Ribamar
+São Leopoldo|BR||4w|-2ao|-3y3|1m4
+São José|BR|Santa Catarina|4w|-26d|-3sk|1jk
+Ilhéus|BR||20|-154|-30f|1gj|São Jorgé dos Ilhéos;Iljeusas;Ilhéos
+Donostia / San Sebastián|ES||9d|3cb|-5h|1fi|San Sebastián;Donostia;La Bella Easo;Sanse;Sant Sebastià;Saint-Sébastien;Donostio;São Sebastião;Donosti;Donostia-San Sebastián;Donostia San Sebasián
+São Caetano do Sul|BR||4w|-1tm|-3lb|1bz
+São Mateus|BR|São Paulo|4w|-1tl|-3l4|179
+Sao Rafael|BR|São Paulo|4w|-1tn|-3l1|155
+Chaohu|CN||7i|2fs|93f|12h|Sào Hồ
+Sao Lucas|BR||4w|-1tj|-3la|12c
+São Mateus|BR|Espírito Santo|4w|-1g0|-32q|11c|São Matheus
+São Félix do Xingu|BR||23|-ig|-40f|10p
+São Lourenço da Mata|BR||4p|-m8|-2pa|wv|São Lourenço da Matta
+São Gonçalo do Amarante|BR|Rio Grande do Norte|2w|-g3|-2q5|w6
+São Pedro da Aldeia|BR||4w|-1rg|-38y|ur|São Pedro d'Aldeia
+São Cristóvão|BR||3r|-ul|-2vd|s4|San Kristovanas;São Christovão
+São Sebastião|BR|Federal District|4w|-186|-3oq|re
+São João del Rei|BR||4w|-1mq|-3ey|q9|São João del-Rei
+São João da Boa Vista|BR||4w|-1p1|-3m0|pi
+Sao Domingos|BR|São Paulo|4w|-1t9|-3lv|op
+São Bento do Sul|BR||4w|-20x|-3t6|n5
+São Sebastião|BR|São Paulo|4w|-1u0|-3i5|mo
+São Miguel|BR|São Paulo|4w|-1t9|-3kz|mi
+São Roque|BR||4w|-1td|-3my|m3
+São Sebastião do Paraíso|BR||4w|-1m4|-3mj|jy|São Sebastião Paraíso;São Sebastião do Paraizo
+São Miguel dos Campos|BR||3r|-r6|-2s9|h6|Sao Miguel De Campos
+Savona|IT||9o|3f3|nk|h1|Savone;Savo;Savo Oppidum Alpinum;Sann-a;Savon-a;Saona
+São Borja|BR||4w|-27m|-4bk|go
+São Miguel do Guamá|BR||23|-4j|-3nw|gk
+San Rafael|US|California|3p|2xh|-9gd|gg|São Rafael
+São Gabriel|BR|Rio Grande do Sul|4w|-2ca|-46w|g9
+São Francisco|BR|Minas Gerais|4w|-18b|-3gm|fp
+São José do Rio Pardo|BR||4w|-1o0|-3m9|fb
+São Tomé|ST||1c|y|ip|et|Santo Tomé;Sao-Tomeo;San-Tome;Svätý Tomáš;Söo Tomé;San Tomė;Urbs Sancti Thomae;Santome;San Tomas;Saint Anna de Chaves;Sào Thomé
+São Francisco do Sul|BR||4w|-20w|-3r4|en|San Francisco del Sur
+São Gabriel da Cachoeira|BR||3t|-c|-56d|ee|São Gabriel
+São Lourenço|CN||6y|1pn|8rd|ed
+São Bento do Una|BR||4p|-no|-2t8|dq
+São Gonçalo do Amarante|BR|Ceará|2w|-a1|-309|dl
+São Joaquim da Barra|BR||4w|-1l6|-3ox|di
+Saonré|BF||1a|y4|-4e|d9
+São Benedito|BR||2w|-b9|-35i|d8|São Benedicto
+Ouidah|BJ||1b|ho|5t|d8|São João Baptista de Ajudá;Fortaleza de São João Baptista de Ajudá
+São Francisco de Itabapoana|BR||4w|-1n6|-35s|d6
+São José de Mipibu|BR||2w|-gv|-2pw|d5|Sao Jose Do Mipibu
+São Domingos de Rana|PT||99|2zi|-py|cz
+São Mateus do Sul|BR||4w|-1zv|-3vy|cz
+São Lourenço|BR||4w|-1pg|-3h5|cu
+São Bento|BR|Maranhão|2w|-7i|-3gi|co
+São Sebastião do Passé|BR||20|-yr|-2yy|cc
+São Miguel d'Oeste|BR||4w|-229|-44o|cb|São Miguel do Oeste
+São Lourenço do Sul|BR||4w|-2f5|-40e|c3
+San Vicente|SV||2u|11w|-6um|bj|San Visente;São Vicente;San Vincente
+São Fidélis|BR||4w|-1o5|-37z|bg
+São Gotardo|BR||4w|-1hn|-3jx|bd|São Gothardo
+San Gabriel|US||3p|2mq|-943|b8|São Gabriel;Sangabriela;San Qabriel
+São Paulo de Olivença|BR||3t|-9e|-5bb|b5
+São Gonçalo dos Campos|BR||20|-yj|-307|az
+São Raimundo Nonato|BR||2w|-p2|-3am|at|Sao Raymundo Nonato
+São Mateus do Maranhão|BR||2w|-b8|-3fj|as
+São Francisco do Conde|BR||20|-z3|-2zg|ar
+São João da Barra|BR||4w|-1o4|-361|ar|São Joao De Barra
+São João Batista|BR|Santa Catarina|4w|-23s|-3rp|aq|São João Baptista
+São Pedro|BR|São Paulo|4w|-1qn|-3p3|an
+São Manuel|BR||4w|-1r5|-3qx|ad
+São Caitano|BR||4p|-n5|-2se|ab|São-Caetano
+Luhuan|MO||6y|1pg|8rf|a4|Coloane;São Francisco Xavier
+São José do Belmonte|BR||4p|-lu|-2zo|9o
+Elmina|GH||1|e4|-3r|9k|São Jorge da Mina;Edina;Mina Sancti Georgii
+São Domingos do Maranhão|BR||2w|-fi|-3fb|9k
+São Joaquim de Bicas|BR||4w|-1jp|-3ez|9j
+Afurada de Baixo|PT||99|36a|-o1|9j|São Pedro da Afurada
+São Desidério|BR||20|-yc|-3gx|9j
+São Luís de Montes Belos|BR||4w|-19w|-3vx|9i
+São Luiz Gonzaga|BR||4w|-26x|-48o|99
+São Lázaro|CN||6y|1po|8rf|97
+São Sebastião|BR|Alagoas|3r|-rl|-2tj|93
+Saoner|IN||6t|1nf|638|91|Savner
+São Gabriel da Palha|BR||4w|-1gu|-34m|8z|São Gabriel
+São Bento|BR|Paraíba|2w|-hg|-2wv|8y
+São Domingos do Capim|BR||23|-4n|-3op|8x
+São Miguel Arcanjo|BR||4w|-1uc|-3pc|8w|São Miguel Archanjo
+São Luís do Quitunde|BR||3r|-pw|-2qs|8u|São Luiz de Quitunde;São Luiz do Quitunde
+São José do Egito|BR||4p|-ks|-2vj|8m|São José do Egypto
+São José da Tapera|BR||3r|-qk|-2vu|8i
+São Gabriel do Oeste|BR||2a|-1hw|-47l|88
+São João dos Inhamuns|BR||2w|-go|-33w|84
+São José do Norte|BR||4w|-2gx|-40k|7p
+São Miguel do Iguaçu|BR||4w|-1yf|-46o|7o
+São Joaquim|BR||4w|-26l|-3up|7j
+São Sebastião da Boa Vista|BR||23|-4r|-3tl|7i
+São Bernardo|BR||2w|-9c|-39u|7h
+São Martinho|PT||86|2io|-1b2|7d
+São José da Lapa|BR||4w|-1iq|-3e4|79
+São João dos Patos|BR||2w|-i1|-3de|78
+São Mamede de Infesta|PT||99|36f|-nx|77|Santo Mamede de Infesta;São Mamede da Infesta
+São João Nepomuceno|BR||4w|-1nu|-3bh|74
+San Fernando|US||3p|2n8|-950|6x|São Fernando;San-Fernando
+São Lourenço do Oeste|BR||4w|-218|-42t|6w
+São Geraldo do Araguaia|BR||23|-hs|-3qv|6v
+São Sebastião do Caí|BR||4w|-2a7|-3yq|6s|São Sebastião do Cahy
+São Jerônimo|BR||4w|-2b8|-3zo|6s|São Jeronymo
+São Gonçalo do Sapucaí|BR||4w|-1ot|-3io|6o
+São João da Ponte|BR||4w|-189|-3e9|6n
+São João do Paraíso|BR|Minas Gerais|4w|-16j|-38p|6n|São João do Paraizo
+São João|BR|Pernambuco|4p|-oo|-2t1|6m
+São Miguel|BR|Rio Grande do Norte|2w|-h9|-2yy|6j
+São João de Pirabas|BR||23|-25|-3n2|6g
+São Jorge de Arroios|PT||99|2zl|-pe|6e
+São José do Vale do Rio Preto|BR||4w|-1pj|-3b8|6c|São José do Rio Preto
+São Vicente Ferrer|BR|Maranhão|2w|-81|-3go|68|Sao Vincente Ferrer
+São João da Madeira|PT||99|35m|-nl|65|São João de Madeira;São João da Madeiro;Santo João da Madeira
+São Miguel do Araguaia|BR||4w|-10v|-3vc|63
+São Francisco de Paula|BR|Rio Grande do Sul|4w|-29t|-3wi|63
+São Miguel do Guaporé|BR||4l|-wh|-4u7|60
+São João do Piauí|BR||2w|-n8|-39d|5y|São Joao Do Piauhy
+São José da Laje|BR||3r|-p1|-2s6|5w|São José da Lage
+São Domingos do Araguaia|BR||23|-fe|-3rd|5v
+São Marcos|BR||4w|-28h|-3xv|5v|São Marecas
+São Simão|BR|Goiás|4w|-1gr|-3we|5u
+Sahoua|CI|Bas-Sassandra District|0|e2|-he|5s|Saoua;Sakoua
+São João Batista|BR|Maranhão|2w|-88|-3gh|5r
+São Joaquim do Monte|BR||4p|-nf|-2rg|5o
+São Pedro|BR|Rio de Janeiro|4w|-1qa|-3bd|5o
+São José de Piranhas|BR||2w|-js|-2yy|5n
+São Felipe|BR|Bahia|20|-zp|-30l|5n|São Felippe
+São José da Coroa Grande|BR||4p|-oq|-2pn|5f
+São Tiago de Custoias|PT||99|36g|-nz|5a
+São Raimundo das Mangabeiras|BR||2w|-ji|-3ic|5a
+São João da Talha|PT||99|2zu|-pa|59
+São Gabriel|BR|Bahia|20|-v7|-38c|58
+São Benedito do Rio Preto|BR||2w|-99|-3cx|57
+São Francisco de Assis|BR||4w|-2a3|-495|52
+São Luís Gonzaga do Maranhão|BR||2w|-c6|-3g3|52
+São Caetano de Odivelas|BR||23|-23|-3pe|51|São Caetano de Odivellas
+São João do Rio do Peixe|BR||2w|-ip|-2yt|50
+São José dos Quatro Marcos|BR||2k|-17e|-4hm|4y
+São Miguel do Tapuio|BR||2w|-fa|-36s|4w
+São Domingos do Prata|BR||4w|-1j6|-3bd|4u|Sao Domingos da Prata
+São Paulo de Frades|PT||99|33t|-nb|4s
+São Sepé|BR||4w|-2bs|-44t|4q
+São Pedro da Cova|PT||99|36a|-nm|4q
+São João do Soter|BR||2w|-e7|-3dp|4p
+Saoula|DZ||3|2ty|8e|4o
+São Paulo do Potengi|BR||2w|-gd|-2rc|4o
+São Vicente Férrer|BR|Pernambuco|4p|-l3|-2ql|4n
+São Francisco do Guaporé|BR||4l|-xh|-4wl|4j
+Cesson-Sévigné|FR||9k|3po|-4g|4i|Saozon-Sevigneg;Cessonium
+São Lourenço da Serra|BR||4w|-1u9|-3me|4h
+São Pedro do Sul|BR||4w|-2aa|-46i|4c
+São João Evangelista|BR||4w|-1fj|-3as|49
+São Martinho do Bispo|PT||99|33p|-ni|49
+São Félix do Coribe|BR||20|-118|-3er|48
+São João do Triunfo|BR||4w|-1zc|-3vq|46
+São Francisco do Pará|BR||23|-39|-3os|45
+São José do Rio Claro|BR||2k|-11d|-4dk|43
+São Pedro da Água Branca|BR||2w|-e4|-3qj|3z
+São Félix do Araguaia|BR||2k|-wa|-3wr|3z
+São Pedro do Piauí|BR||2w|-gh|-3ao|3z
+São José do Cedro|BR||4w|-21h|-44l|3y
+São João d'Aliança|BR||4w|-14v|-3o0|3x
+São João do Araguaia|BR||23|-ew|-3rj|3x|São João do Araguaya
+São Ludgero|BR||4w|-26p|-3sm|3r
+São Simão|BR|São Paulo|4w|-1no|-3o3|3q
+São Benedito do Sul|BR||4p|-oh|-2rt|3n
+São Luís do Curu|BR||2w|-a7|-310|3m
+São Miguel|BR|Rio Grande do Norte|2w|-f7|-2q9|3k
+São Miguel do Tocantins|BR||1k|-ff|-3o6|3f
+São João do Carú|BR||2w|-9v|-3ki|3f
+São Francisco do Maranhão|BR||2w|-hd|-3b3|3e
+São Gonçalo do Rio Abaixo|BR||4w|-1j3|-3cg|3b
+São Gonçalo do Pará|BR||4w|-1ji|-3gm|3a
+São Miguel das Matas|BR||20|-109|-31m|39
+São Félix da Marinha|PT||99|360|-ny|39
+São Bento do Sapucaí|BR||4w|-1r1|-3j1|39|São Bento do Sapucahy
+São Sebastião do Uatumã|BR||3t|-74|-4gr|39|São Sebastião
+São João do Manhuaçu|BR||4w|-1kn|-393|34
+São Tiago|BR||4w|-1m3|-3fn|34|São Thiago
+São Brás de Alportel|PT||99|2v7|-lx|34|São Braz de Aportel;São Braz d’Alportel
+São José do Campestre|BR||2w|-hk|-2r7|33
+São Sebastião de Lagoa de Roça|BR||2w|-jr|-2rn|32
+São Félix|BR||20|-z0|-309|32|São Feliz
+São José do Calçado|BR||4w|-1mf|-37p|31
+São Jerônimo da Serra|BR||4w|-1tw|-3wy|30
+São João do Ivaí|BR||4w|-1un|-3zy|2z
+São João das Lampas|PT||99|2zz|-q4|2x
+São Sebastião da Grama|BR||4w|-1ob|-3m2|2w
+São Luís do Paraitinga|BR||4w|-1si|-3hv|2v|São Luiz do Paraitinga
+São Domingos|BR|Sergipe|3r|-tz|-2wd|2v
+São Romão|BR||4w|-19h|-3h7|2v
+São Vicente do Seridó|BR||2w|-j9|-2t4|2v
+São Carlos|BR|Santa Catarina|4w|-238|-438|2v
+São Geraldo|BR||4w|-1m4|-3az|2v
+São José de Areal|IN||6t|16d|5pl|2u
+São Miguel do Gostoso|BR||2w|-e8|-2r0|2u
+São José do Jacuípe|BR||20|-vy|-336|2u
+São João|BR|Paraná|4w|-1zr|-42h|2u
+São Filipe|CV||84|15e|-1w2|2t|Vila de São Filippe;Saint Philip;São Felipe
+São Sebastião do Maranhão|BR||4w|-1e8|-3a9|2t
+São Tomé|BR|Rio Grande do Norte|2w|-gl|-2s8|2s|São Thomé
+São João do Paraíso|BR|Maranhão|2w|-hy|-3mq|2r
+São Conrado|BR||4w|-1rw|-3c7|2p
+São Domingos|BR|Goiás|4w|-118|-3ko|2p
+São Felipe|BR|Bahia|20|-158|-36z|2o|São Filippe
+São João de Ver|PT||99|35s|-nr|2o
+São Roque|PT|Madeira|86|2ir|-1b0|2m
+São Jorge d'Oeste|BR||4w|-1zf|-430|2m
+São Domingos|BR|Santa Catarina|4w|-21s|-41x|2k
+São Francisco do Brejão|BR||2w|-e8|-3nn|2j
+São João da Baliza|BR||26|2n|-4mf|2h
+São Sebastião do Oeste|BR||4w|-1kc|-3h0|2g
+Sāori|IN||6t|1mn|64z|2g
+São José do Cerrito|BR||4w|-24u|-3wi|2f|São José do Serrito
+São Pedro do Ivaí|BR||4w|-1ub|-402|2f|São Pedro do Avaí
+São Miguel dos Milagres|BR||3r|-pr|-2q9|2f|São Miguel das Milagres
+São João do Sul|BR||4w|-296|-3ud|2f
+São Domingos do Norte|BR||4w|-1h6|-34u|2e|São Domingos
+São Domingos|BR|Bahia|20|-vv|-31t|2c
+São Bartolomeu de Messines|PT||99|2vi|-n1|2c|São Bartolomeo de Messines
+São João do Arraial|BR||2w|-al|-39x|2a
+São Vicente do Sul|BR||4w|-2ah|-47w|29
+São Sebastião da Amoreira|BR||4w|-1t7|-3x0|29
+São Sebastião do Alto|BR||4w|-1p0|-391|28
+São Domingos do Azeitão|BR||2w|-ix|-3g0|28
+São João da Pesqueira|PT||99|36b|-kk|27
+Santiago do Cacém|PT||99|2xm|-o5|26|São Tiago de Caçem;São Tiago do Cacém
+São José da Barra|BR||4w|-1lk|-3kn|26
+São Rafael|BR|Rio Grande do Norte|2w|-g4|-2uh|25|São Raphael
+São Filipe Praia|CV||84|15k|-1tc|25|Achada São Filipe
+São João Batista do Glória|BR||4w|-1lc|-3l7|25|São João Baptista da Gloria
+São José da Bela Vista|BR||4w|-1l7|-3oc|24|São José da Boa Vista;São José da Bella Vista
+Salzbergen|DE||8r|41c|kf|24|Saoltbiärgen
+São Mamede|BR||2w|-j9|-2v2|23
+Sautron|FR||9k|3na|-4n|22|Saotron;Salterona
+São Gonçalo do Abaeté|BR||4w|-1ey|-3jb|22
+São José de Ubá|BR||4w|-1nc|-38i|21
+São Luiz|BR||26|2t|-4ms|21
+São Pedro do Turvo|BR||4w|-1r7|-3u6|20
+São Pedro dos Ferros|BR||4w|-1k1|-3a4|20|São-Pedro-de-Ferros
+São Roque de Minas|BR||4w|-1k9|-3kt|1z
+São José da Lagoa Tapada|BR||2w|-ja|-2y0|1z|São José de Lagoa Tapada
+São João do Oriente|BR||4w|-1hq|-394|1z
+São Miguel de Taipu|BR||2w|-k5|-2pt|1z
+São Miguel das Missões|BR||4w|-27c|-47j|1z
+São José dos Basílios|BR||2w|-e1|-3fu|1y
+São Thomé das Letras|BR||4w|-1oc|-3gz|1x|São Thomé das Lettras;São Tomé das Letras
+São José do Ouro|BR||4w|-255|-3zb|1w
+São Vicente de Minas|BR||4w|-1ob|-3fg|1w
+São João|PT||99|35j|-nx|1w
+São Tomás de Aquino|BR||4w|-1lq|-3mu|1v|São Tomas de Aquinho;Sao Tomaz de Aquino
+São José do Piauí|BR||2w|-j3|-378|1u
+São Carlos do Ivaí|BR||4w|-1ss|-41s|1u
+São Brás|BR||3r|-s5|-2ui|1u|São Braz
+São Jorge do Patrocínio|BR||4w|-1u0|-45o|1t
+São Romão|PT||99|348|-lf|1t
+São Sebastião da Bela Vista|BR||4w|-1pk|-3j3|1s
+São Francisco de Goiás|BR||4w|-189|-3su|1s
+São Sebastião da Pedreira|PT||99|2zl|-pf|1s
+São Miguel do Anta|BR||4w|-1lj|-3ao|1r
+São Vicente|BR|Rio Grande do Norte|2w|-ha|-2tw|1r
+São João do Oeste|BR||4w|-23a|-44v|1r
+São José do Jacuri|BR||4w|-1es|-3aj|1q|São José do Jacury
+São Francisco de Paula|BR|Minas Gerais|4w|-1lj|-3gz|1q
+São José do Xingu|BR||2k|-u0|-42i|1q
+São João da Serra|BR||2w|-fb|-38e|1p
+São Cristovão do Sul|BR||4w|-23r|-3w4|1p
+São Vicente|PT|Madeira|86|2j4|-1bc|1p
+São José da Boa Vista|BR||4w|-1ug|-3tx|1o
+São Julião|BR||2w|-jo|-35f|1o
+São Domingos|GW||8|yg|-190|1o|San Domingo;San Domingos
+São João do Sabugi|BR||2w|-io|-2vc|1o|São João de Sabugy;São-João-do-Sabuji
+São Bento do Tocantins|BR||1k|-gq|-3p2|1n
+São José dos Ramos|BR||2w|-k5|-2qa|1n
+São João do Jaguaribe|BR||2w|-en|-2yb|1n
+São Paulo das Missões|BR||4w|-25u|-48m|1m
+São Gonçalo|PT||86|2iq|-1av|1m
+São Pedro do Iguaçu|BR||4w|-1xa|-45m|1m
+São Pedro dos Crentes|BR||2w|-iz|-3l9|1m
+São Pedro|BR|Rio Grande do Norte|2w|-ge|-2qz|1m
+São Pedro de Alcântara|BR||4w|-24l|-3rl|1m
+São Francisco de Sales|BR||4w|-1j6|-3u9|1l|São Francisco de Salles
+São Raimundo do Doca Bezerra|BR||2w|-e6|-3h8|1l
+São Domingos das Dores|BR||4w|-1i9|-38p|1k
+São João do Caiuá|BR||4w|-1rh|-41e|1k
+São Roque|PT|Aveiro|99|35j|-nj|1k
+São Francisco de Assis do Piauí|BR||2w|-mw|-37t|1k
+São João da Fronteira|BR||2w|-b0|-36m|1j
+São Pedro do Sul|PT||99|358|-mf|1j|Santo Pedro do Sul
+São Martinho|BR|Rio Grande do Sul|4w|-24z|-45x|1j
+São Mamede|PT||99|2zj|-pe|1i
+São Miguel do Couto|PT||99|36t|-ni|1i
+São José do Goiabal|BR||4w|-1jd|-3am|1i
+São Francisco do Piauí|BR||2w|-k5|-3a6|1i
+São João do Manteninha|BR||4w|-1g0|-36c|1h
+São José da Vitória|BR||20|-15w|-31a|1h|São José
+São Felipe d'Oeste|BR||4l|-x2|-4qu|1h
+São Tomé|BR|Paraná|4w|-1te|-423|1g
+São Jorge do Ivaí|BR||4w|-1t3|-419|1g
+São Nicolau|BR||4w|-26a|-49j|1f|São Nicolão
+São Pedro do Suaçuí|BR||4w|-1f1|-3ac|1f|São Pedro do Suassuí;São Pedro de Suaçuí
+São José de Caiana|BR||2w|-k5|-2ye|1e
+St. Moritz|CH||a7|3l6|rc|1e|Sankt Moritz;Sankta Maŭrico;Saint-Moritz;São Moritz;Saint Moritz;San Murezzan;Sankt Murezzan
+São Teotónio|PT||99|2w7|-o7|1d|São Theotonio;San Teotónio
+São Roque|PT|Azores|81|2wv|-1z8|1d
+Coxe|AO||x|-nk|153|1d|São José das Matas
+São Pedro da União|BR||4w|-1mp|-3li|1d
+São Miguel de Rio Torto|PT||99|31j|-mu|1d
+São Gonçalo do Piauí|BR||2w|-gn|-3am|1c
+São Luiz do Norte|BR||4w|-15a|-3t1|1c
+São João da Lagoa|BR||4w|-1at|-3f7|1c
+São Francisco do Glória|BR||4w|-1lr|-39f|1c|São Francisco da Gloria
+São João dos Montes|PT||99|306|-p2|1c
+São Bento Abade|BR||4w|-1ny|-3h7|1b|Eremita
+São Pedro Latada|CV||84|15i|-1tc|1a
+São José do Seridó|BR||2w|-hx|-2ug|1a|São José de Seridó
+São Roberto|BR||2w|-dy|-3gz|19
+São José da Varginha|BR||4w|-1ir|-3fs|19
+San Marino|SM||9q|3e2|yl|19|Saint-Marin;São Marino;San-Marino;San Marinas;Sità de San Marin;Ville de Saint-Marin;San Marins;Cathair San Mairíne;Sen Maren;Civitas Sancti Marini;Sanmarīno;Sant Marin;Sità ëd San Marin
+São João do Itaperiú|BR||4w|-21y|-3rh|19
+São João da Urtiga|BR||4w|-25a|-3zz|19
+São Pedro da Cadeira|PT||99|30j|-q1|19
+São José do Hortêncio|BR||4w|-2a1|-3yd|18
+São João da Ponta|BR||23|-2d|-3p4|18
+São Lourenço do Piauí|BR||2w|-ph|-3a6|18
+São Félix de Balsas|BR||2w|-jo|-3gh|18|São Félix das Balsas
+São João da Varjota|BR||2w|-j8|-38a|18
+São Braz do Piauí|BR||2w|-p6|-3bg|18
+São Bentinho|BR||2w|-j5|-2wt|17
+São João do Tigre|BR||2w|-mg|-2ud|17
+São Pedro da Cipa|BR||2k|-18g|-48k|16
+São João do Cariri|BR||2w|-kj|-2th|16|São João do Cariry
+São Sebastião do Tocantins|BR||1k|-em|-3pw|16
+São José dos Ausentes|BR||4w|-27v|-3v2|16
+São Francisco do Oeste|BR||2w|-gl|-2xz|16
+São José do Sabugi|BR||2w|-iu|-2u8|15
+São José do Alegre|BR||4w|-1q1|-3ih|15
+São José de Espinharas|BR||2w|-j1|-2vp|15|São José Espinharas
+São Brás do Suaçuí|BR||4w|-1la|-3e3|14|São Brás do Suassuí
+São João do Pacuí|BR||4w|-19y|-3fo|14
+São José das Palmeiras|BR||4w|-1x0|-466|14
+São José do Barreiro|BR||4w|-1qw|-3fu|13
+São Julião do Tojal|PT||99|2zy|-pd|12
+São José da Safira|BR||4w|-1ew|-392|12
+São Bento do Trairi|BR||2w|-hm|-2s9|12
+São Mateus|PT||81|2ze|-23r|12|São Matheus
+São Roque do Pico|PT||81|2z0|-26n|11
+São Pedro da Serra|BR||4w|-29q|-3z3|z
+São Fernando|BR||2w|-hq|-2va|z
+São José do Divino|BR||4w|-1fc|-36z|z
+São Miguel do Aleixo|BR||3r|-sv|-2vu|y
+São José de Princesa|BR||2w|-li|-2xu|y
+São José dos Cordeiros|BR||2w|-kj|-2u9|y
+São Martinho|BR|Santa Catarina|4w|-268|-3s2|y
+São Geraldo da Piedade|BR||4w|-1gc|-39h|x
+São Bento do Norte|BR||2w|-e3|-2s4|x
+São José do Peixe|BR||2w|-kt|-3a8|x
+São Sebastião do Umbuzeiro|BR||2w|-mn|-2ut|x
+São Valentim|BR||4w|-24k|-41w|x
+São Francisco|BR|Sergipe|3r|-sp|-2uh|w
+São José do Bonfim|BR||2w|-jw|-2vn|w
+São Félix de Minas|BR||4w|-1fn|-379|w|São Félix
+São Paulo|CV||84|1a4|-1rm|w
+São Geraldo do Baixio|BR||4w|-1gi|-36w|v
+São Francisco|BR|Paraíba|2w|-ie|-2xt|v
+São Pedro do Butiá|BR||4w|-264|-48h|v
+São Gonçalo do Rio Preto|BR||4w|-1e0|-3ci|u
+São Domingos|CV||84|15q|-1tg|u
+São Gonçalo do Gurguéia|BR||2w|-rv|-3hu|t
+São Bonifácio|BR||4w|-25i|-3rx|t
+São Vicente do Paul|PT||99|31b|-ny|t
+São João da Mata|BR||4w|-1ox|-3jl|t
+São Jorge|BR||4w|-276|-3zm|t
+São Martinho do Porto|PT||99|31r|-pd|t|Sao Martinho;São Martinho de Porto
+São Marçal|ST||1c|w|ip|t
+São Martinho da Serra|BR||4w|-2a1|-45l|t
+São Félix do Piauí|BR||2w|-gh|-38z|s
+Saône|FR||9k|3n6|h0|s
+São Miguel do Fidalgo|BR||2w|-l2|-39p|s
+São José do Povo|BR||2k|-19q|-46p|s
+São Domingos do Sul|BR||4w|-279|-405|s
+São José do Mantimento|BR||4w|-1jl|-37y|s
+São Paulo|PT||99|2zj|-pe|r
+São Bernardino|BR||4w|-21j|-434|r
+São Pedro do Paraná|BR||4w|-1re|-43u|r
+São João do Polêsine|BR||4w|-2a9|-44h|q
+São Francisco|BR|São Paulo|4w|-1kk|-3wu|q
+São Domingos|BR|Paraíba|2w|-iy|-2xe|q
+São Domingos do Cariri|BR||2w|-l8|-2t7|q
+São João das Duas Pontes|BR||4w|-1kn|-3vy|q
+São Valério do Sul|BR||4w|-257|-45u|p
+São José do Inhacorá|BR||4w|-250|-46d|o
+São Salvador do Tocantins|BR||1k|-ze|-3q0|o
+São José do Sul|BR||4w|-2a2|-3z0|o
+São José das Missões|BR||4w|-256|-43k|o
+São Vicente|PT|Azores|81|2x2|-1zb|o
+São Sebastião do Rio Verde|BR||4w|-1pq|-3gy|n
+São Miguel da Baixa Grande|BR||2w|-ga|-397|n
+São Vendelino|BR||4w|-29l|-3yq|n|São Verdolino
+São João do Pau d'Alho|BR||4w|-1n3|-3zj|m|São João de Pau d'Alho
+São Valentim do Sul|BR||4w|-28p|-3zt|m
+Soudan|FR||9k|3om|-3n|m|Saoudan
+Saint Joseph|DM||2r|16t|-4qm|m|Saint-Joseph;Sent Cosef;São José
+São Martinho Pequeno|CV||84|15j|-1tg|m
+São Patrício|BR||4w|-16n|-3ue|l
+São Manoel do Paraná|BR||4w|-1t0|-429|l|São Manoel
+São Sebastião|PT||81|2zf|-239|l
+São Bartolomeu|PT|Azores|81|2zf|-23t|k|São Bartholomeu
+Saonara|IT||9o|3i1|xa|k|Sabonaria
+Sahoua|CI|Lagunes District|0|hk|-ed|j|Saoua
+São João de Areias|PT||99|347|-mf|j
+São José do Herval|BR||4w|-28o|-41a|j
+São Félix do Tocantins|BR||1k|-s9|-3lm|j
+São João de Iracema|BR||4w|-1kz|-3vv|i
+São Pedro de Alva|PT||99|33y|-mp|i
+Saoundi|CI||0|lm|-en|i|Saoudi
+São Miguel da Boa Vista|BR||4w|-225|-43x|i
+São João da Paraúna|BR||4w|-1ap|-3w1|i
+São Pedro das Missões|BR||4w|-255|-43x|i
+São José do Brejo do Cruz|BR||2w|-h9|-2vr|h
+São Jorge|PT|Madeira|86|2j6|-1ay|f
+São Marcos da Serra|PT||99|2vs|-na|e
+São Sebastião do Rio Preto|BR||4w|-1hl|-3bx|d
+São Francisco|CV||84|15m|-1t9|c
+Santo António|ST||1c|4k|km|c|Santo Antonijus;San Antonio;São Antõnio
+São Pedro|CV||84|1ar|-1xn|b
+São Bartolomeu|PT|Lisbon|99|314|-ps|a
+São Luis|PT||99|2ws|-o2|a|São Luiz
+São Jacinto|PT||99|34y|-o9|a|Sao Jascinto;Sao Jocinto
+Saobli|CI||0|hv|-nb|a
+Sauzon|FR||9k|3nl|-8y|9|Saozon
+Séoulétié|CI||0|ll|-fb|9|Saourétié
+Saom Klueng|KH||78|123|8aa|9
+Praia|PT||81|30h|-25p|8|Praya;Santa Cruz da Graciosa;São Mateus
+Saom Trak|KH||78|123|8ad|7
+São Jorge da Beira|PT||99|33l|-lk|7
+São João|CV||84|1ak|-1rr|7
+Saulnières|FR|Brittany|9k|3p4|-4f|6|Saoner
+São Martinho Grande|CV||84|15g|-1th|6
+São Jorge|CV||84|15p|-1vv|6
+São Brissos|PT||99|2xr|-m3|6
+Saota-Sokoro|CI||0|qw|-bi|6
+São Matias|PT||99|2xv|-lu|6
+São Jorge|PT|Leiria|99|324|-ol|6
+Saou|FR||9k|3g1|e2|5

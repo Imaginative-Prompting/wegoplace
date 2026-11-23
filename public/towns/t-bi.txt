@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Berlin|DE||8r|41w|119|qfs|Berlyn;Berlëno;Berliin;Berliini;Berolinum;Berlien;Berlynas;Berlijn;Berlim;Birlinu;Beirlín;Belin
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Beirut|LB||64|2m5|2qm|es9|Bejrut;Bejruto;Beyrouth;Beiroet;Beyrut;Berytus;Bäyrut;Bêrût;Béiriút;Birut;Beirot;Bewout;Beirout;Bejruti;Beirots;Bairut
+Mianyang|CN|Sichuan|7i|2ff|82s|byk|Mien-jang;Miên Dương;Mièng-iòng;Biân-iông-chhī;Myan’yan;Mien-yang
+Biên Hòa|VN||6h|ue|88q|9te|Bienhoa
+Birmingham|GB||9b|41s|-5a|8xk|Birmingamas;Birmingema;Birmin'gxam;Birmingem;Brum
+Bijie|CN||7i|23u|84h|8ry|Tất Tiết;Bék-ciék;Pi-ťie;Pit-chiat-chhī
+Meishan|CN||7i|2bg|80g|8jp|Mì-săng;Mej-šan;Mi Sơn;Bî-san-chhī;Meyshan’
+Pingdingshan|CN||7i|2lp|8qs|7jz|Pingdingsjan;Pching-ting-šan;Pingdingŝano;Tekshi choqqiliq tagh shehiri;Bình Đỉnh Sơn;Bìng-dīng-săng;Pêng-téng-san-chhī;Pindinshan’;P’ing-ting-shan
+Bishkek|KG||65|3b3|5r7|6y0|Bischkek;Biskek;Bisjkek;Biŝkeko;Bichkek;Biškekas;Biszkek;Bisqueque;Bixkek;Biškeka;Bişqeq;Biscecum;Pishkek
+Pingxiang|CN|Jiangxi|7i|24q|8s9|6w8|Bìng-hiŏng;Pching-siang;Phìn-hiông-sṳ;Bình Hương;Phêng-hiong-chhī;Dingsiang;Pingsiang;P’ing-hsiang
+Benghazi|LY||1d|2h7|1jr|5uf|Banghazi;Bengasi;Bengazi;Bengazis;Bängasi;Bingazi;Benqazi;Bengazy;Benghasi;Binghāzī
+Binzhou|CN||7i|2vt|93u|59n|Bintsjou;Pin-čou;Tân Châu;Bĭng-ciŭ;Pin-chiu-chhī
+Bikaner|IN||6t|25u|5nn|4z0
+Bhilai|IN||6t|1mx|6a7|4ud|Bilaj;Bhilaj Nagar;Bhilajus
+Bình Thạnh|VN||6h|u1|88f|49e
+Bilimora|IN||6t|1lp|5mo|3xx|Bilimor
+Pingliang|CN||7i|2qq|88d|3w8|Bìng-liòng;Pching-liang;Bình Lương;Pêng-liâng-chhī
+Bissau|GW||8|wy|-17c|3e5|Bisaŭo;Bisau;Biso;Bissá;Bisava;Wisaw;Bissao
+Bida|NG||u|p8|gp|334
+Bilāspur|IN|Chhattisgarh|6t|1pc|6c8|2tk
+Bimbo|CF||6|bu|1f6|2ow|Bimo
+Long Bien|VN||62|1mf|866|2om
+Bilbao|ES||9d|3c6|-85|2oh|Bilbo;El Bocho;Bilbau;Bilbaw;Bilbaum
+Belgorod|RU||9i|3wk|2tm|2nx|Bilhorod-Dnistrovskyi;Biełgorod;Bielogroda;Belqorod;Bjelgorod;Bilhorod
+Bielefeld|DE||8r|40j|np|2k7|Builefeld;Bīlefelde;Bīlifeld;Bylefeldas;Bilivelda
+Blida|DZ||3|2tb|7v|2k6|Al-Bulajda;Buleyde;El Bouleida;Bilda
+Bydgoszcz|PL||a5|43k|1e1|2jo|Bydhošť;Bidgošča;Brombarg;Bydgoščius;Bydgostia;Bromberch;Bıdgoşç;Bëdgòszcza;Bıdqoş;Bromberg;Bydgoshch
+Vijayapura|IN|Karnataka|6t|1aq|5uc|2iy|Bîjâpur;Bidźapur;Vijapura;Districte de Bijapur;Bídzsápur;Bidžapuras;Vijayapur
+Birkenhead|GB||9b|44b|-8d|2id|Penbedw;Berkenhedas;Kione Beih
+Biñan|PH||71|13u|9cc|2bc|Binyang
+Bihār Sharīf|IN||6t|1y0|6lk|2al
+Białystok|PL||a5|43l|1sc|2a5|Bjalistoko;Belostoko;Balstogė;Bjalistoka;Bjołystok;Belostok;Bialastoq;Bjelostock;Byelostok
+Bergen|NO||9j|4nr|es|29o|Björgvin;Berga;Bargen;Bergn;Birgon
+Vigo|ES||9d|39b|-o8|29k|Vigu;Vigas;Bigo
+Binjai|ID||6l|a0|7ll|25l|Bindjai
+Birgañj|NP||6r|232|6js|22j|Birgunj

@@ -1,0 +1,129 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Gurugram|IN||6t|272|5xz|6u9|Gurgáon;Gurgaonas;Guragaona;Gurgaono
+Kahramanmaraş|TR||94|2we|2ul|2yy|Gurgum;Maraix;Kachramanmarašas;Kahromanmaros
+Gorgān|IR||7o|2uc|478|1w1|Hirkanio;Gūrgān
+Hurghada|EG||c|23q|2lx|1lj|Hurgada;Gurdaka;Urgada
+Guri-si|KR||7h|2wg|9t6|1i8|Guri;Kuri-si;Kuri
+Gurúè|MZ||11|-16z|2uq|1ay|Vila Junqueiro;Gurujė
+Qurayyat|SA||7e|2f1|2vq|sl|Gurayat
+Gurupi|BR||1k|-wl|-3sb|ob
+Gurdaspur|IN||6t|2h0|5tg|ln
+Gurlan|UZ||7g|388|4nr|e5|Gurlen
+Gursahāiganj|IN||6t|23c|65h|b6
+Görükle|TR||94|33r|284|9z|Körükle;Gürükle
+Gorizia|IT||9o|3jm|11u|9k|Gorycja;Gurize;Gorica;Görz;Gurizze
+Gurupá|BR||23|-3w|-3zg|9e
+Gurnee|US||2f|39p|-6s6|8n
+Görele|TR||94|35z|30c|8g|Gürele
+Gürpınar|TR|Istanbul|94|35v|27g|86
+Gurbetē|ET||2|vk|2un|7d|Durbete
+Güroymak|TR||94|2z6|38q|76|Göroymak
+Gursarāi|IN||6t|1z6|63y|70
+Gur’yevsk|RU|Kuzbass|74|46s|6mr|6y|Gurjevsk;Guryevsk;Gurevsk
+Gürsu|TR||94|33q|293|6t
+Łaziska Górne|PL||a5|3vb|1gc|64|Oberlazisk;Gůrne Łaźiska;Laziska Gurne;Aukštutiniai Laziskai;Oberlasisk;Laziskagorna
+Guruvāyūr|IN||6t|tf|5v8|5y|Guruvayoor
+Gurmatkāl|IN||6t|1av|5yz|5q|Gurmatkol
+Gürgentepe|TR||94|35b|2wg|58
+Guru Har Sahāi|IN||6t|2db|5qo|4s
+Gurun|MY||6v|g6|7r3|4g
+Gura Humorului|RO||8u|3o3|1zy|4d|Gura Homorului;Gura-Humourlui
+Gurh|IN||6t|1w2|6ae|42
+Gurinhém|BR||2w|-js|-2qe|3x|Curinhãem
+Gürün|TR||94|2zk|2vj|3j
+Góra|PL|Lower Silesia|a5|3zj|19x|3j|Guhrau;Gura
+Gur’yevsk|RU|Kaliningrad Oblast|96|485|1l9|37|Neuhausen;Gurjevsk;Sembų Romuva;Gurjevskas;Gurjewsk
+Góra Kalwaria|PL||a5|40e|1my|30|Gura Kalvarja;Gura-Kal'var'ya;Góra Kalwarja
+Gorgāb|IR||7o|2jb|3zc|2p|Gurgāb
+Kamenica|XK||8q|3aa|1ny|2l|Kamenicë;Gurash;Dardanë;Dardana
+Gurabo|PR||4m|1ep|-539|2i
+Hurzuf|UA||9t|3fr|2n9|2h|Gurzuf;Gursuf
+Pervomayske|UA|Crimea|9t|3j0|2m2|2d|Ğurtču;Pervomaiske
+Gurjaani|GE||7n|37y|3j8|20|Gurdjaani;Gurdzhani;Gurdzhaani
+Gurghiu|RO||8u|3lx|1x1|1r|Görgényszentimre
+Gura Văii|RO|Bacău County|8u|3kp|229|1p|Gura Văei
+Gura Viţioarei|RO||8u|3hf|20b|1n
+Gürbüz|TR||94|2ym|344|1k
+Gura Şuţii|RO||8u|3gb|1yw|1i|Gura Şuţei
+Gurinhatã|BR||4w|-1hd|-3ub|1g
+Górowo Iławeckie|PL||a5|46t|1kx|1d|Gurovo Ilavecke
+Gūrāb Zarmīkh|IR||7o|2vl|3ss|1c|Gūrāb Zarmakh
+Gurbuki|RU||9i|3ad|3o8|1a
+Gurahonţ|RO||8u|3kj|1q3|18|Gurahoncz
+Gura Teghii|RO||8u|3ic|21e|12|Gura Teohii
+Gurur|IN||6t|1lg|6a4|12
+Gura Râului|RO||8u|3j1|1um|z|Guraró;Gura Răuhui;Gura-Râului;Gura Răuhii;Gura Rîului
+Gura Bîcului|MD||8x|3md|29u|y|Gura Bâcului;Gura-Bikului
+Gurjão|BR||2w|-k5|-2td|w
+Gura Caliţei|RO||8u|3im|232|v
+Gūrzang|IR||7o|23a|4ef|v
+Gura Ocniței|RO||8u|3gu|1z1|v
+Novoselivka|UA|Odesa|98|3js|2a9|u|Guraczeligider;Satu-Nou;Novossélivka
+Gurkovo|BG||9v|3aj|1zo|t|Gurkowo
+Gūrband|IR||7o|23x|4ea|r
+Guruyan|PH||71|ze|9ka|r
+Gura Vadului|RO||8u|3h5|21j|p
+Gura Foii|RO||8u|3gb|1y8|n
+Gurb|ES||9d|38j|68|m
+Gurdon|US||2f|2m8|-76r|l
+Gürbulak|TR||94|31i|3f7|j|Gürcübulak
+Garmen|BG||9v|37k|1u6|i|Gŭrmen
+Guraidhoo|MV|Thaa Atholhu|af|6g|5no|i
+Guraidhoo|MV|Kaafu Atoll|af|au|5o3|i
+Gurrea de Gállego|ES||9d|38q|-24|h
+Gurgy|FR||9k|3oz|9w|h
+Gurbăneşti|RO||8u|3fa|226|g
+Gura Padinii|RO||8u|3dk|1vk|g|Gura Padini;Gura Padina;Gura Padinei
+Gura Văii|RO|Mehedinți County|8u|3g3|1qo|g|Gura Vai
+Kozatske|UA|Odesa|98|3kr|2bh|g|Gura-Roșie;Kozac'ke
+Gura Suhașului|RO||8u|3h9|1vi|f
+Gūrābjīr-e Şaḩrā|IR||7o|2w1|3tv|f
+Guran|RU||6k|484|7rk|f
+Gordona|IT||9o|3kl|q1|e|Gardona;Gurduna
+Gura Ialomiței|RO||8u|3g8|253|e
+Gurba|RO||8u|3l3|1oj|e
+Gura Vulcanei|RO||8u|3h2|1yk|d
+Guruieni|RO||8u|3ee|1yk|c|Gureni;Gurueni
+Gurbediu|RO||8u|3lz|1oq|c
+Gura Putnei|RO||8u|3p2|1z4|c
+Gurgurnica|MK||9u|389|1mn|c|Grgurnica
+Gura Căluiu|RO||8u|3fi|1us|b
+Gūrak Sādāt|IR||7o|28f|3xt|b|Ma‘nā’ī
+Courgevaux|CH||a7|3mb|jr|b|Cougevaux;Gurwolf
+Gura Beliei|RO||8u|3hl|1z9|a
+Gürgencik|TR||94|36p|36u|a|Koptone;Koptona
+Gura Văii|RO|Vâlcea County|8u|3hi|1vp|a|Gura-Văi
+Gurley|US|Alabama|2f|2lu|-6oo|9
+Guranda|RO||8u|3oq|237|9
+Gurk|AT||a2|3m7|13p|9
+Gurmençon|FR||9k|3bw|-1o|8
+Gürpınar|TR|Diyarbakır Province|94|2y4|364|8
+Gurskoye|RU||7w|3vr|anl|8|Gurskoje
+Gurani|RO||8u|3lg|1qn|8|Gurány
+Gurley|US|Alabama|2f|2oe|-6ny|8
+Gura Dimienii|RO||8u|3i4|22c|8|Gura Dimieni;Gura-Dimienei
+Gura Pravăț|RO||8u|3hw|1xt|7
+Gorsiān Nihāl|IN||6t|2e7|5ty|7|Gursian Nihal
+Gūrchīn|IR||7o|2xc|3m9|7
+Gyurgyan|AZ||61|348|3vu|7|Gürgan
+Gura Văii|RO|Bacău County|8u|3lp|22g|7|Gura Vaei
+Gurtnellen|CH||a7|3lu|nz|7
+Skorošice|CZ||9m|3vr|1bg|7|Gurschdorf
+Gurten|AT||a2|3q0|112|7
+Guruslău|RO||8u|3nc|1ru|6
+Gürümze|TR||94|2xj|2rg|6|Cürümze
+Ust-Putila|UA||98|3pl|1xr|6|Oust Poutyla;Gura Putilei
+Gura Haitii|RO||8u|3n4|1y6|6
+Gürbaşak|TR||94|2vh|2wx|6
+Gura Bâdiliței|RO||8u|3ne|22b|6|Gura Bîdiliţii;Gura Bîndiliţei
+Gura Bărbulețului|RO||8u|3hc|1ya|6
+Gura Văii|RO|Neamț County|8u|3mg|21h|6|Gura Văei
+Gürpınar|TR|Batman|94|2xs|373|6
+Gura Arieșului|RO||8u|3kz|1uk|5
+Gura Solcii|RO||8u|3om|20d|5
+Guri i Bardhë|AL||9y|359|1j5|5|Hallaxhia;Hollaxhia;Hollaxhi;Gur i Bardhë
+Gurișoara|RO||8u|3h8|1va|5
+Gurgl|AT||a2|3m8|un|5
+Gureni|RO||8u|3hb|1s0|5
+Gürgenli|TR||94|2xi|2zv|5
+Gura Idrici|RO||8u|3kx|25g|5

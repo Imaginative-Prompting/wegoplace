@@ -1,0 +1,88 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Santiago|CL||4u|-2ky|-5g9|11bp|Sanctiacobi;Čilės Santjagas;Santjago
+Cilegon|ID||6l|-gp|86l|3mo|Chilegon;Tjilegon;Tlilegon
+Cileungsir|ID||6l|-hr|894|28i|Tjileungsir;Cileungsi
+Cilacap|ID||6l|-lh|8et|1ze|Chilachap
+Chillán|CL||4u|-2tp|-5ka|15s|Çillan
+Cileunyi|ID||6l|-ja|8bb|uz
+East Kilbride|GB||9b|4aw|-bm|kx|Cille Bhrìghde an Ear;Keeill Vreeshey Hiar;Ist Kilbraidas;İst Kilbrayd;East Kilbridge
+Kilmarnock|GB||9b|4ah|-ci|d2|Cill Mheàrnag;Cill Mheárnaig;Kilmarnokas;Cille Mheàrnaig;Kilmarnok
+Chilecito|AR||1p|-290|-57i|bq|Čilesitas;Chilesito;Çilesito
+Bearsden|GB||9b|4bc|-c1|7x|Cille Phàdraig Ùr;Bersden
+Chilaw|LK||68|l2|65o|6v|Čilavas;Čilava;Chillaw;Chilan
+Kilkenny|IE||8z|429|-k5|60|Cill Chainnigh;Kilkenis;Keeill Chennee;Canicopolis
+Celbridge|IE||8z|446|-i6|5n|Cill Droichid;Selbridžas
+Saint Andrews|GB||9b|4ci|-7s|54|St Andrews;St. Andrews;Cill Rìmhinn
+Kilwinning|GB||9b|4al|-d3|4h|Cill Fhinnean
+Kilquade|IE||8z|43i|-gw|45|Cill Chomhaid
+Killarney|IE||8z|40m|-qf|41|Cill Airne
+Wicklow|IE||8z|436|-gt|3m|Cill Mhantáin;Cill Mantan;Cill Mhanntain;Cill Maintain
+Ashbourne|IE||8z|44n|-hs|3j|Cill Dhéagláin
+Kilsyth|GB||9b|4bi|-ba|2r|Cill Saidhe;Kilsitas
+Kildare|IE||8z|43o|-j7|2e|Cill Dara;Kilderas;Keeill Darey
+Kilbirnie|GB||9b|4av|-d1|23|Cille Bhraonaidh
+Kilkeel|GB||9b|466|-go|1s|Cill Chaoil
+Houston|GB||9b|4b7|-cn|1s|Cille Pheadair
+Cilaos|RE||ai|-1mq|4a3|1q
+Sutton|IE||8z|44b|-gz|1l|Cill Fhionntain
+Cilavegna|IT||9o|3hv|oa|1k
+Kilcock|IE||8z|44c|-ij|1j|Cill Choca;Kilkokas
+Killester|IE||8z|449|-h8|1f|Cill Easra
+Old Kilpatrick|GB||9b|4bc|-ce|1d|Cille Phádraig;Auld Kilpatrick
+West Kilbride|GB||9b|4ap|-di|1c|Cille Bhrìghde an Iar
+Kilcoole|IE||8z|43i|-gu|16|Cill Chomhghaill
+Kilcullen|IE||8z|43l|-iq|11|Cill Chuillinn
+Kilbarchan|GB||9b|4b4|-cn|10|Cill Bhearchain
+Cilieni|RO||8u|3dy|1we|10|Chilieni
+Kirkcudbright|GB||9b|48c|-b9|y|Cille Chuithbeirt;Kircudbright
+Câlnic|RO|Alba County|8u|3jg|1tr|u|Cîlnic
+Kilmaurs|GB||9b|4ak|-cl|s|Cille Mhára
+Kilrush|IE||8z|428|-qd|r|Cill Rois
+Killyleagh|GB||9b|474|-fp|q|Cill Ó Laoch
+Cillie|ZA||o|-27u|1l7|o
+Killorglin|IE||8z|40q|-r6|m|Cill Orglan;Kilorglinas
+Kirkconnel|GB||9b|49v|-b4|l|Cille Chonaill
+Kilgetty|GB||9b|3zp|-d4|k|Cilgeti
+Cilleros|ES||9d|33f|-iv|k|Cillerus
+Cilibia|RO||8u|3h7|237|j
+Kilmallock|IE||8z|41k|-nu|h|Cill Mocheallóg;Kilmailock
+Câlnic|RO|Caraș-Severin County|8u|3hy|1oq|h|Cîlnic
+Kilrea|GB||9b|48n|-i8|g|Cill Ria
+Killaloe|IE||8z|42p|-ng|f|Cill Dalua;Kiljaloė;Killaloa
+Killucan|IE||8z|44n|-ju|e|Cill Liúcainne
+Kilcreggan|GB||9b|4bi|-de|d|Cille Chreagain
+Kilbeggan|IE||8z|449|-ku|d|Cill Bheagáin;Kilbeganas
+Kilpedder|IE||8z|43j|-gz|d|Cill Pheadair
+Čilizská Radvaň|SK||8s|3ov|1d6|d
+Kilkee|IE||8z|42c|-qs|c|Cill Chaoi;Kilkė
+Killumney|IE||8z|403|-o1|b|Cill na hOmnaí
+Kilworth|IE||8z|40y|-mw|b|Cill Uird
+Kilmacanoge|IE||8z|43p|-h1|a|Cill Mocheanóg;Kilmacanogue
+Kilmeage|IE||8z|43x|-j0|a|Cill Maodhóg
+Buttevant|IE||8z|413|-o3|a|Cill na Mallach
+Čilipi|HR||a6|3a7|1es|a
+Kilcormac|IE||8z|43p|-lh|9|Cill Chormaic
+Killeagh|IE||8z|40a|-m8|9|Cill Ia;Calebachus;Kileagas
+Cilgerran|GB||9b|40m|-cv|9
+Kilsheelan|IE||8z|41g|-l2|8|Cill Síoláin
+Cill Fhíonáin|IE||8z|41g|-nj|8|Kilfinane
+Kilfinnane|IE||8z|41g|-nj|8|Cill Fhíonáin
+Kilmacrenan|IE||8z|48v|-lm|8|Cill Mhic Réanáin;Cill Mhic nÉanáin;Kilmakrenanas;Kilmacrennan
+Kilmuckridge|IE||8z|41v|-hg|7|Cill Mhucraise;Ford
+Killin|GB||9b|4cv|-c0|7|Cill Fhinn
+Jil|AM||80|34d|3i9|7|Cil
+Killinaboy|IE||8z|435|-p8|7|Cill Iníne Baoith;Kilnaboy
+Kilcornan|IE||8z|426|-oo|7|Cill Churnáin
+Fort Augustus|GB||9b|4eq|-d0|7|Cille Chuimein
+Kilconnell|IE||8z|445|-nb|7|Cill Chonaill
+Kildalkey|IE||8z|44t|-j6|7|Cill Dealga
+Cil|RO||8u|3kk|1pu|7|Csil
+Kilmessan|IE||8z|44s|-ii|7|Cill Mheasáin
+Killenaule|IE||8z|421|-lb|7|Cill Náile
+Kilmacow|IE||8z|41c|-jy|6|Cill Mhic Bhúith
+Ciliegi|IT||9o|3db|vu|6
+Kilrane|IE||8z|414|-ho|6|Cill Ruáin
+Câlnicu de Sus|RO||8u|3gw|1s0|6|Cîlnicu de Sus
+Tsilkar|AM||80|354|3et|6|Tsilk’ar;Cilqar;Tzilkar
+Killala|IE||8z|46l|-pm|6|Cill Ala
+Kilkishen|IE||8z|42p|-ob|6|Cill Chisín

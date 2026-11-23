@@ -1,0 +1,153 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Shubrā al Khaymah|EG||c|2bp|2et|9kj|Shubra al-Khayma
+Shuangyashan|CN||7i|3lo|a49|4mo|Sĕ̤ng-ák-săng;Šuang-ja-šan;Song Áp Sơn;Siang-ah-san-chhī
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Shuozhou|CN||7i|318|8oa|3ch
+Sham Shui Po|HK||6i|1q1|8t4|3br|Sam shui po;Shamshuipo
+Tin Shui Wai|HK||6i|1qe|8so|27i|Tianshui Wei
+Daliang|CN|Guangdong|7i|1rg|8ql|1mg|Shunde;Ta-liang;Shun-te
+Shulin|TW||7l|1xf|9da|1e0|Su-nà-khî;Šulinas;Şulin;Thụ Lâm;Chhiū-nâ-khu;Shu-lin
+Shujaabad|PK||6q|2b0|5i1|15z|Shujabad
+Shūnan|JP||7q|2mo|a67|15k
+Shuizhai|CN||7i|1uh|8xk|131|Shui-chai
+Shuangcheng|CN||7i|3i2|9qv|10b|Schwangcheng;Shwangcheng
+Shuanglonghu|CN||7i|2ak|885|zq
+Shunyi|CN||7i|33g|901|wo|Shun-i
+Shuifu|CN||7i|27j|821|sd
+Shūshtar|IR||7o|2h1|3rp|sb|Shooshtar;Shūstar
+Shuangliao|CN||7i|3cv|9j2|q1
+Shulan|CN||7i|3fd|9sn|li
+Shūsh|IR||7o|2hf|3q0|lf|Suza;Susa;Suse;Súsy;Suzo
+Shumen|BG||9v|3c7|22s|k3|Schumen;Šumen;Choumen;Sjumen;Şumnu;Shoumen
+Shuangfengqiao|CN||7i|2ak|887|it
+Shuikou|CN|Guangdong|7i|1um|8xy|hb
+Shulyavka|UA||98|3w5|2cl|ha|Shuliavka
+Shuangyang|CN|Jilin|7i|3cw|9p2|h9|Shwangyang;Shuang-yang-ho
+Shuya|RU|Ivanovo Oblast|9i|4dx|36z|gv|Schuja;Ŝuja;Chouïa;Şuya;Xúia;Sjuja;Șuia;Szuja
+Shujālpur|IN||6t|1t1|5x3|e8
+Shuijiang|CN||7i|299|8a0|e5|Shui-chiang
+Shuanghe|CN|Chongqing|7i|29g|859|dq
+Shuangfu|CN||7i|29p|877|dc
+Shunhe|CN||7i|2os|8zs|d5|Shun-ho
+Shuanggou|CN||7i|2mk|92m|cp|Shuang-kou
+Shuitu|CN||7i|2aq|87u|ce|Shui-t’u-t’o
+Shuanglong|CN|Sichuan|7i|271|81u|c9
+Shubrākhīt|EG||c|2e7|2db|bg|Shubra Khêt;Shubrā Khīt
+Shuanghuai|CN||7i|2bu|880|b3
+Shu|KZ||5s|3d5|5ow|b2|Chu
+Shumerlya|RU||9i|4a6|3kx|9s|Schumerlja;Ŝumerla;Šumerlja;Sjumerlja;Choumerlia;Sjoemerlja;Xúmerlia;Xumerlya;Šumerl;Szumerla
+Shu‘fāţ|PS||6g|2ge|2pv|9q
+Shuangjiang|CN|Chongqing|7i|2by|85r|9e|Shuang-chiang
+Shuanghekou|CN|Chongqing|7i|2df|8d1|9d
+Shuangfeng|CN||7i|2be|87n|99
+Shunzhou|CN||7i|21y|7rb|8x
+Shuangtang|CN||7i|2nh|953|8m
+Shūrash|IQ||5z|2qo|3gk|8c|Şoriş;Shorsh
+Shuanglong|CN|Chongqing|7i|2b8|89s|84|Shuang-lung
+Shuikou|CN|Guizhou|7i|1zz|8fn|7g|Shuikow
+Shuanglu|CN|Chongqing|7i|29x|85s|7e
+Showţ|IR||7o|30y|3gd|72|Shut;Shoţ
+Sho‘rchi|UZ||7g|2xk|58b|6y|Shŭrchi
+Shuangshi|CN||7i|29o|860|6r
+Shurugwi|ZW||n|-1in|2bd|6h|Churugwi
+Shuen Wan|HK||6i|1qf|8t9|69|Chuanwan
+Shuren|CN||7i|2bb|8ba|5u
+Shisui|JP||7q|2r8|atn|5r|Shusui
+Shui Chuen O|HK||6i|1q5|8t8|5h
+Shusha|AZ||61|32g|3lv|5e|Szusza;Şuşa;Shushe;Şuşi;Choucha;Shushi
+Shushenskoye|RU||6u|444|73e|58|Sjusjenskoje;Schuschenskoje;Šušenskoje;Sosenskis;Susenszkoje;Şuşenskoye;Sjoesjenskoje;Ŝuŝenskoe;Xuxenskoie;Szuszenskoje;Sjoesjenskoe;Shushinskoe
+Shuanglong|CN|Chongqing|7i|2en|8h8|56
+Shumikha|RU||7z|49f|4vt|55|Sjumikha;Choumikha;Šumicha;Sjoemicha;Şumixa;Ŝumiĥa;Schumicha
+Shuangjiang|CN|Guizhou|7i|205|8ek|4o|Shuang-chiang
+Snuol|KH||78|xj|87m|4l|Shuol
+Shopian|IN||6t|2lo|5rv|4k|Shupīyan
+Shuzenji|JP||7q|2p5|apw|4j|Shusenji
+Shushary|RU||9i|4m5|2ce|4b|Sjusjary;Suosaari;Šuošuari
+Shukugō|JP||7q|2k2|a0t|3z
+Shuanglu|CN|Chongqing|7i|2ay|8bd|3z
+Shumanay|UZ||7g|3ag|4jn|3w|Shamenay;Shamonay;Shumanai;Shomanay
+Shuiyang|CN||7i|2lr|86q|3m
+Shuangjinhui|CN||7i|1r1|8s3|3k
+Shuanghekou|CN|Chongqing|7i|2aa|890|3j
+Shuanglongchang|CN||7i|2bp|8b8|3g
+Shubarkuduk|KZ||5w|3si|4cw|39|Shubarqudyq;Chubar Kuduk;Shuba Kuduk
+Shūkat aş Şūfī|PS||6f|2eu|2n8|2y|Shawkat aş Şūfī
+Alleroy|RU||9i|3c2|3kk|2u|Alleroj;Şuragat;Shuragat
+Shuniah|CA||59|3qm|-6vt|2t
+Shuanghe|CN|Chongqing|7i|2a3|8b8|2q
+Shuishi|CN||7i|298|8dy|2k
+Shoshong|BW||m|-1s0|21n|2h|Shushong
+Shuangquan|CN||7i|28n|8dt|2h
+Shushicë|AL||9y|366|1jz|2f|Shushica
+Shubarshi|KZ||5w|3qy|4eu|2f
+Shuangjiang|CN|Hunan|7i|20n|8gr|2b|Shuang-chiang
+Shuanghe|CN|Chongqing|7i|2gq|8cz|27
+Shuangshan|CN||7i|2au|85z|21
+Shumilino|BY||9g|49m|2a9|20|Shumilina
+Shuvalovo|RU||9i|4mt|2c6|1o|Suvala
+Shuitian|CN||7i|29o|8e2|1o
+Shuikou|CN|Chongqing|7i|2b5|86r|1l
+Shupenzë|AL||9y|37d|1kq|1j|Shupenza;Shupenz;Shtupenza;Shëpenzë
+Shumsk|UA||98|3v8|20k|1j|Choumsk;Szumsk
+Shuangcha|CN||7i|2o0|7xn|1i
+Shuganu|IN||6t|1vi|78r|1f
+Zhurivka|UA||98|3wa|2ga|1d|Shuriwka;Zgurovka;Zhourivka;Zgurivka;Zhuriwka;Zghurivka
+Shumyachi|RU||9i|45m|2i3|1a|Sjumjatsji
+Shūrīn|IR||7o|2op|3qx|19
+Shuqbā|PS||6g|2gv|2pc|16
+Shuangxi|CN|Fujian|7i|232|96o|14|Shuang-hsi
+Shuanggang|CN||7i|30g|91v|13|Shuangjiang
+Shuikou|CN|Fujian|7i|21a|95t|12|Shui-kow
+Shuanglong|CN|Chongqing|7i|28t|8cq|10
+Shunhua|CN||7i|20h|8fi|10
+Shuiche|CN||7i|24x|8kc|10
+Shudayag|RU||9i|4wh|44x|y
+Shuangzhucun|CN||7i|21z|95l|y
+Chubu|CN||7i|2o6|7yx|y|Shubu
+Shuya|RU|Karelia|9i|4s3|2n3|x|Sjuja;Suoju
+Shuniah Township|CA||59|3qs|-6vj|w
+Shaumiani|GE||7n|36v|3gc|v|Shulaveri;Naghvarevi;Sjaumiani;Szaumiani;Shulavery;Shaumyani;Schaumjani;Saulaveri
+Shumskiy|RU||6k|48b|7nd|v|Sjumskij
+Shalyhyne|UA||98|3z9|2mt|u|Schalyhyne;Shalgino;Chalyhyne;Šalyhyne;Şalıgıne;Szałyhyne;Șalîhîne;Shalygino;Shul’gino
+Shŭrob|TJ||6d|339|5fy|t|Shorab;Shurab
+Šušanj|ME||9l|390|1h1|p|Zuccanegra;Shushani
+Shuyskoye|RU||9i|4kx|35z|o|Sjujskoje;Shuiskoe;Shayskoye
+Shugurovo|RU||9i|47f|40t|m|Sjugurovo
+Shumikhinskiy|RU||7z|4j6|4g9|m|Sjumikhinskij
+Shūfah|PS||6g|2ho|2pg|m|Shūfa
+Shuangshu|CN||7i|31w|912|l
+Shuangyang|CN|Chongqing|7i|2fg|8h2|l
+Shorabad|AZ||61|35e|3tf|l|Şuraabad;Şorabad;Shuraabad
+Shubranets|UA||98|3qg|1zx|j|Șubrănești;Choubranets
+Shutesbury|US||48|39y|-5l5|i
+Shurdington|GB||9b|402|-5w|i
+Shun’ga|RU||9i|4tv|2p3|g|Sjunga;Šun'ga
+Shuyūkh al ‘Arrūb|PS||6g|2fu|2pm|f
+Shūrekī|IR||7o|283|3y8|e|Shūrakī
+Shumeyka|RU||9s|3z8|3kh|e|Sjumejka
+Richky|UA|Lviv|98|3vo|1tp|d|Rzyczki;Vydra;Shubary
+Shubarköl|KZ||5s|3rs|5b5|c|Şūbarköl
+Shullsburg|US||2f|3a9|-6yn|c
+Shubenka|RU||63|42a|6ke|c|Sjubenka;Shubinka
+Shūrak-e Malekī|IR||7o|2s7|4na|c|Shūrak Malekī
+Shul’gin Log|RU||63|40x|6mi|b
+Shuidatian|CN||7i|25d|8gg|b|Shuitian
+Shuvakish|RU||7z|4e4|4o0|b
+Sugar Factory|AG||1j|1bh|-4rq|b|Shuga Fakchree
+Shūmīā|IR||7o|2tk|416|a|Shūmā;Shūmīyā
+Shuangxi|CN|Hunan|7i|23n|8h6|a|Shuang-hsi
+Shūr Daraq|IR||7o|2yj|3jh|a|Shordara
+Shubino|UA||9t|3hr|2pt|9|Köp Otuz
+Shūrāb|IR||7o|2z3|3h0|8|Shūr Āb
+Shungopavi|US||4i|2rh|-8j1|7|Shongopovi;Shungopovi
+Shuva|IL||6n|2fd|2ny|7|Šuva;Szuva;Shuba
+Shueyville|US||2f|389|-72l|7
+Shulvo|MX||41|1ag|-75l|7
+Shucutón|MX||41|1ar|-75d|6
+Shūrjestān|IR||7o|2f6|41n|6
+Shūfaskāj|IR||7o|2tq|3z7|6
+Shunqui|PE||3o|-r1|-5xa|6
+Shuakhevi|GE||7n|37n|397|6
+Shumba Alto|PE||3o|-fh|-62x|6|Shumba Alta
+Shuping|CN||7i|23j|8hx|6|Shupin

@@ -1,0 +1,1024 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Shiraz|IR|Fars|7o|2a9|41x|9n7|Chiraz;Sjiraz;Şiraz;Xiraz;Ŝirazo;Širazas;Šīrāza;Sziraz;Schiras;Chimaz
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Üsküdar|TR||94|35y|28l|41p|Scutari;Skutari
+Skopje|MK||9u|38o|1nj|3nx|Skopjo;Skoplje;Szkopje;Scupi;Escópia;Skopiye;Shkupi;Üsküp;Skopye;Scopia;Skopia;Skopie;Skoplie;Shkup;Skopeia;Usküb
+Szczecin|PL||a5|44f|14f|31v|Stettin;Štětín;Szczëtno;Stettino;Ščecina;Estetino;Stettin.;Ščecinas;Stettinum;Sztetin;Shchétsin;Şçetsin;Estettin;Šćećin;Shchechin
+Florence|IT||9o|3dm|v9|2u0|Florens;Firenze;Florenz;Florència;Firense;Florenco;Sciorenza;Firenz;Florencie;Fflorens;Florença;Florensya;Firenca;Florénsa;Florensiya;Floransa;Lungsod ng Florencia;Florența;Firenzi;Flórans;Firence;Florencija;Florentzia;Florencja;Florentia
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Scottsdale|US||4i|2l3|-8mu|1ts|Skotsdejlo
+Shakhty|RU||9i|3ok|33q|1ph|Schachty;Szachty;Ŝaĥti;Šahtõ;Sjachty;Shajty;Chakhty;Šachty;Şaxtı;Sjakhty;Šahty;Šachtos;Shakhti
+Skudai|MY||6v|4a|7zy|18d|Scudai;Sekudai
+Shinyanga|TZ||h|-a6|2ku|12t|Šinjanga;Schinjanga
+Schaerbeek|BE||8t|3xb|c6|10w|Schaarbeek;Ŝarbeko;Scarbeca
+Shuangcheng|CN||7i|3i2|9qv|10b|Schwangcheng;Shwangcheng
+Nablus|PS||6g|2hi|2px|107|Naplusa;Siquem;Sychem;Shechem;Sichem;Naplouse;Flavia Neapolis;Sihhem;Napouse;Schechem;Sykhem;Shekhem;Nabulus
+Schöneberg|DE|State of Berlin|8r|41u|112|y3
+Shchyolkovo|RU||9i|4bc|2xh|ve|Ščolkovo;Schtscholkowo;Shchelkovo
+Koszalin|PL||a5|46j|18x|tv|Scurgum;Košalina;Köslin;Košalinas;Kòszalëno;Koshalin
+Zhezqazghan|KZ||5s|3or|583|t0|Schesqasghan;Dzhezkazgan;Jezkazgan;Jezqazg'on;Jezqazğan;Zhezkazgan;Jez-Kazgan;Jezgazgan
+Zhanaozen|KZ||5v|3ce|42u|ss|Zhangaözen;Schangaösen
+Zheleznogorsk|RU|Kursk Oblast|9i|41e|2q8|r7|Zjeleznogorsk;Železnogorsk;Željeznogorsk;Schelesnogorsk
+Zhukovsky|RU||9i|4ag|2xw|r0|Zjukovskij;Žukovski;Schukowski;Zhukovskiy
+Schwerin|DE||8r|44z|vp|qu|Suerinum;Swerin;Šverinas;Shverini;Šverīne;Zwěrin;Shverin;Şverin
+Shkodër|AL||9y|38v|1i7|qk|Shkodra;Skadar;Szkodra;Škodra;İşkodra;Scutari
+Zheleznogorsk|RU|Krasnoyarsk Krai|6u|4c9|77t|q2|Zjeleznogorsk;Železnogorsk;Željeznogorsk;Schelesnogorsk;Krasnojarsk-26;Krasnoyarsk-26;Krasnoyarsk-9
+Scunthorpe|GB||9b|44u|-1t|mo|Skantorpas
+Shadrinsk|RU||7z|4bt|4ws|m3|Schadrinsk;Sjadrinsk;Chadrinsk;Šadrinsk;Sadrinszk
+Scranton|US|Pennsylvania|48|371|-5u6|lf|Skrantonas
+Shirbīn|EG||c|2eo|2fk|l5|Scharbin;Sherbin;Szirbin;Sharbīn
+Schiedam|NL||8m|408|c7|ky|Skiedam;Schidamas
+Schaumburg|US||2f|38r|-6so|kr|Schaumberg
+Shostka|UA||98|402|2kz|kc|Schostka;Šostka;Sosztka
+Shumen|BG||9v|3c7|22s|k3|Schumen;Šumen;Choumen;Sjumen;Şumnu;Shoumen
+Schweizer-Reneke|ZA||o|-23j|1yd|ji|Schweizer-Reineke
+Schenectady|US||48|3ax|-5pe|i5|Skenektadis
+Shendi|SD||r|1ad|2kv|hp|Schandi;Šendis;Šendi;Chendi;Xendi;Szandi;Shandi;Shindî
+Kuşadası|TR||94|2x6|23q|hk|Skala Nuova;Scalanuova;Skalanova;Kush Adası;Kushadassi
+Horad Zhodzina|BY||9g|46a|26p|hi|Zhodzina;Żodino;Schodsina;Zhodino;Žodzina
+Sopron|HU||8v|3oh|1a3|ha|Scarabantia;Ödenburg;Scarbantia
+Scarborough|GB||9b|46s|-14|h5
+Schwäbisch Gmünd|DE||8r|3rk|r8|h0|Gamundia;Švabijos Gmiundas
+Shuya|RU|Ivanovo Oblast|9i|4dx|36z|gv|Schuja;Ŝuja;Chouïa;Şuya;Xúia;Sjuja;Șuia;Szuja
+Shchëkino|RU||9i|461|2w7|gv|Shchyokino;Schekino;Shehekino
+Świdnica|PL|Lower Silesia|a5|3x8|19t|gs|Schweidnitz;Svídnice;Svidņica;Schweinitz
+Shibirghān|AF||6o|2tv|52n|fg|Şibircân;Shoburgon;Shibirgán;Chibirchan;Schibirgan;Shibarghān;Shibergan;Sheberghān
+Schweinfurt|DE||8r|3v1|se|f0|Suevofortum
+Shiogama|JP||7q|2yg|avr|en|Schiogama
+Schwerte|DE||8r|3yw|l1|e0|Švertė;Schweierte
+Speyer|DE||8r|3t0|nf|dz|Espira;Spira;Spire;Špýr;Schbaya;Spires
+Scafati|IT||9o|358|14e|dj
+Shelekhov|RU||6k|412|816|d7|Sjelekhov;Schelechow;Shélejov;Chelekhov;Šelechov;Şelexov;Ŝeleĥov;Sjelechov;Shelikhov
+Shebekino|RU||9i|3w1|2ul|ck|Sjebekino;Šebekino;Schebekino
+Scandicci|IT||9o|3dj|v3|ci|Scadicci
+Schertz|US||2f|2a3|-7kz|bz
+Sharypovo|RU||6u|4aa|6vs|bw|Sjarypovo;Scharypowo;Šarypovo;Charypovo;Ŝaripovo;Szarypowo;Xarípovo
+Zhovti Vody|UA||98|3qb|2l2|bp|Schowti Wody;Jovti Vody;Žovti Vody;Geltonieji Vandenys;Zjovti Vody;Jovti Vodî;Żółte Wody;Scholti Woody;Žovti Vodi;Zhovta Rika
+Schorndorf|DE|Baden-Wurttemberg|8r|3rl|qh|bk
+Shepetivka|UA||98|3ve|237|bc|Schepetiwka;Chépétivka;Šepetivka;Szepetówka
+Sciacca|IT||9o|2w7|10c|ba|Xaca;Sciacea
+Schwabach|DE||8r|3t1|um|aq
+Szczecinek|PL||a5|457|1ae|ap|Neustettin;Szczecënkò;Ščecinekas;Ščecineka;Neustettiu
+Sharm el-Sheikh|EG||c|25k|2nd|ap|Sharm el Sheikh;Sharm el-Sheij;Charm el-Cheikh;Scharm asch-Schaich;Šarm eš Šejh;Şarm eş-Şeyh;Sharm esh Sheikh;Sharm al Shaikh;Sherm el Sheikh;Sherm el Shekh;Sherm el Sheik
+Skövde|SE||9w|4i7|12h|a8|Schedvia;Šiovdė;Skövd;Sköfde
+Schaffhausen|CH||a7|3oi|nz|a6|Ŝafhaŭzo;Schaffhouse;Sciaffusa;Szafuza;Scafusa;Schaffusa;Sciafüsa;Šafhauzenas;Šafhauzene;Shaffxauzen;Şaffxauzen;Schofhausen
+Schwäbisch Hall|DE||8r|3sf|r2|a5|Hale Suevice;Halla Suevica
+Sheraro|ET||2|140|2xd|a1|Cheraro;Scheraro
+Setor Complementar de Indústria e Abastecimento|BR||4w|-17u|-3pb|a0|SCIA
+Shumerlya|RU||9i|4a6|3kx|9s|Schumerlja;Ŝumerla;Šumerlja;Sjumerlja;Choumerlia;Sjoemerlja;Xúmerlia;Xumerlya;Šumerl;Szumerla
+Salgótarján|HU||8v|3pm|1j0|9m|Schalgau;Schalgotarjan;Šalgov-Tarjany;Shalgo Tar'yan
+Sighișoara|RO||8u|3ke|1wv|9l|Sigišoara;Schaesburgum;Segesvár;Schäßburg
+Zhmerynka|UA||98|3s8|263|9l|Jmérynka;Şmerinca;Žmerinka;Schmerynka
+Zharkent|KZ||5s|3ep|669|9k|Scharkent;Djarkent;Jarkent
+Schio|IT||9o|3iz|vk|9d
+Schwedt (Oder)|DE||8r|43e|13o|9d|Schwedt;Ŝwedt
+Schoten|BE||8t|3yd|ci|9c|Schooten
+Schiltigheim|FR||9k|3r1|lj|8z|Schílige;schilfigheim;Schiltighein
+Goleta|US||3p|2no|-98v|8l|Goélette;Szkuner;Schoner;Skonnert;Kuunari;Skonnorta;Schooner;Schoener;Škuna;Škuner;Skonert
+Schönebeck|DE||8r|40i|wl|8g|Schönnebeck
+Śrem|PL||a5|40p|1ba|8g|Schrimm;Srim
+Schwelm|DE||8r|3yh|k9|8e
+Schnelsen|DE||8r|450|rk|8d
+Shatura|RU||9i|4ad|31t|8d|Sjatura;Chatoura;Šatura;Szatura;Schatura
+Taman Scientex|MY||6v|47|80o|8c|Scientex;Scientex Park
+Santarém|PT||99|30z|-o5|86|Scalabis
+Shelek|KZ||5s|3d4|61e|82|Schelek;Chilik;Chiliksk
+Swarzędz|PL||a5|41l|1bh|82|Svažendza;Svažendzas;Grzymolowo;Schwarsentz
+Schererville|US||2f|378|-6qx|80
+Schwandorf in Bayern|DE||8r|3t1|xn|7u
+Shakhtarske|UA||98|3qb|2t4|7o|Perchotravensk;Peršotravensk;Perschotravensk;Perschotrawensk;Schachtarske;Šahtarske;Chakhtarske;Szachtarśke;Šachtarske
+Shingū|JP|Wakayama|7q|2lp|ahq|7n|Singû-chhī;Singū;Schingu
+Schmallenberg|DE||8r|3y3|n1|79|Šmalenbergas;Smalmereg
+Szczytno|PL||a5|44s|1mb|78|Ortelsburg;Ščitno;Ščytnas;Szczyton;Ortel’sberg
+Scandiano|IT||9o|3fw|tq|77
+Shali|RU||9i|3bv|3ji|6y|Sjali;Chali;Šali;Xalí;Şela;Szali;Schali
+Scaggsville|US||48|30r|-5xm|6r
+Schleswig|DE||8r|47g|ql|6p|Slesvig;Sleeswig
+Chios|GR||8p|2yl|20m|6o|Scio;Sakız;Chóra;Quíos;el Xiu;Khíos;Kástro;Hios;Chio;Xíos;Khóra;Kastron;Castro
+Scottburgh|ZA||o|-2c5|2df|6n|Scottsburgh;Scottburg
+Shoham|IL||6n|2gw|2p3|6k|Schoham;Szoham;Šoham
+Scotch Plains|US||48|34y|-5qn|6k|Scotchplains
+Scampia|IT||9o|35m|13k|6i
+Schoemansdal|ZA||o|-1zf|2fj|6h
+Schijndel|NL||8m|3ze|f3|6g
+Scheveningen|NL||8m|40q|bw|6e|Skeveningen;Sjeveninge
+Schmargendorf|DE||8r|41s|10x|6b
+Schwetzingen|DE||8r|3t6|nu|6a|Schwetzinge
+Scharnhorst|DE|North Rhine-Westphalia|8r|3z7|ky|65
+Sceaux|FR||9k|3ri|6d|5z
+Shimanovsk|RU||7x|40g|9uo|5z|Sjimanovsk;Schimanowsk;Chimanovsk;Šimanovsk;Ximanovsk
+Schortens|DE||8r|44q|m3|5y
+Schofield-Wheeler|US||ax|1no|-c71|5p
+Schilde|BE||8t|3yc|cq|5o
+Schagen|NL||8m|42n|dc|5l|Skagen
+Schroeder|BR||4w|-21d|-3sb|5l
+Schwanewede|DE||8r|43u|nv|5k|Gemeen Swonewebel
+Zhukovka|RU|Bryansk Oblast|9i|44p|2lp|5h|Zjukovka;Schukowka
+Schmalkalden|DE||8r|3ww|t0|5g|Esmalcalda;Smalcalda;Šmalkaldy;Smalkalda;Smalcaldia
+Schwalmtal|DE|North Rhine-Westphalia|8r|3ya|hf|5e
+Schopfheim|DE||8r|3od|lq|5e
+Schwalmstadt|DE||8r|3xh|pm|5d
+Schifferstadt|DE||8r|3t6|na|5c|Schiwwerschdadd
+Schneverdingen|DE||8r|43k|r7|5c|Gemeen Snevern
+Shchigry|RU||9i|404|2uj|5c|Sjtsjigry;Chtchigry;Ščigry;Ŝĉigri;Štšigrõ;Štšigry;Szczigry;Suchigry;Schtschigry;Shchigary
+Sélestat|FR||9k|3q2|kp|59|Schlettstadt;Selestadium;Schlestadt
+Židenice|CZ||9m|3so|1a9|59|Schimitz
+Skhodnya|RU||9i|4bf|2vm|59|Skhodnja;Schodnė;Sĥodnja;Schodnia;Schodnja
+Shushenskoye|RU||6u|444|73e|58|Sjusjenskoje;Schuschenskoje;Šušenskoje;Sosenskis;Susenszkoje;Şuşenskoye;Sjoesjenskoje;Ŝuŝenskoe;Xuxenskoie;Szuszenskoje;Sjoesjenskoe;Shushinskoe
+Schwalbach|DE|Saarland|8r|3sy|iy|57
+Schramberg|DE||8r|3py|nb|56
+Shumikha|RU||7z|49f|4vt|55|Sjumikha;Choumikha;Šumicha;Sjoemicha;Şumixa;Ŝumiĥa;Schumicha
+Schkeuditz|DE||8r|3ys|xy|55|Škeidica
+Scarsdale|US||48|35x|-5oy|4z
+Scarborough|AU|Western Australia|8k|-2gm|8xk|4w
+Schmelz|DE||8r|3tb|j1|4w
+Schlüchtern|DE||8r|3vv|qh|4t
+Scarborough|TT||4k|v2|-4oq|4q|Skarboras
+Schneeberg|DE||8r|3wj|z4|4o
+Scarborough Village|CA||59|3di|-642|4n
+Scordia|IT||9o|2vm|158|4m|Scurdia
+Schofield Barracks|US||ax|1nq|-c73|4k
+Schiebroek|NL||8m|40c|cf|4j
+Shilovo|RU|Ryazan Oblast|9i|46w|35k|4i|Sjilovo;Schilowo
+Schrobenhausen|DE||8r|3qw|va|4h
+Scicli|IT||9o|2u7|14u|4h
+Świerczewo|PL||a5|44f|14b|4g|Schwarzow
+Schiffweiler|DE||8r|3t5|jt|4e
+Stjørdalshalsen|NO||9j|4wb|ud|4d|Schjordalshalsenas
+Ostrov|CZ|Carlsbad Region|9m|3vr|zy|4c|Schlackenwerth
+Schwarzenberg|DE||8r|3we|zj|4b
+Schwyz|CH||a7|3mm|o1|48|Schwytz;Svitto;Suitius;Shvits;Ŝvico;Sviz;Svit;Svittu;Şvits
+Schwarzenbek|DE||8r|44n|t4|44
+Scottsbluff|US||2p|38b|-7zz|44|Skotsblafas;Skotsblafa;Scotts Bluff
+Shahbā|SY||69|2j9|2tr|44|Schahba;Chahba;Shahaba;Shaba
+Scottsboro|US||2f|2ob|-6mz|43
+Scott Lake|US||48|202|-66v|40
+Schriesheim|DE||8r|3tf|o2|40
+Schwalbach am Taunus|DE||8r|3vb|np|3y
+Schleiden|DE|North Rhine-Westphalia|8r|3wd|i0|3y|Sjleie
+Schiffdorf|DE||8r|44p|o2|3x|Gemeen Schippdörp
+Zhovkva|UA||98|3v2|1ul|3v|Żółkiew;Schowkwa;Žovkva;Zholkva
+Schwaz|AT||a2|3nj|wj|3t
+Scierie|CI||0|hl|-fc|3t
+Schermbeck|DE||8r|3zk|j3|3t
+Schmölln|DE||8r|3xe|yb|3r
+Sławno|PL|West Pomerania|a5|470|1ac|3q|Schlawe;Slavno;Słôwno
+Schöningen|DE||8r|40u|uh|3p|Scahuningi;Sceninge;Schainich
+Schwabmünchen|DE||8r|3pu|tw|3o
+Scharnhorst-Ost|DE||8r|3z7|kx|3n
+Scheeßel|DE||8r|43p|qc|3l|Scheeßl
+Schlieren|CH||a7|3no|nh|3j
+Scorniceşti|RO||8u|3ft|1w7|3h
+Schongau|DE||8r|3ot|ua|3g|Schongium
+Schoonhoven|NL||8m|40b|dh|3g
+Schwechat|AT||a2|3pp|19r|3g
+Shlissel’burg|RU||9i|4mj|2e8|3d|Sjlisselburg;Nöteborg;Pähkinälinna;Lyyssinlinna;Schliisselburg;Schlüsselburg
+Scharbeutz|DE||8r|462|tv|3d
+Schönefeld|DE||8r|41j|11i|3c
+Scotts Valley|US||3p|2ux|-9ex|3b|Scotts Valo;Scoots Valley;Scott Valley
+Schöneiche|DE||8r|41r|121|3b
+Schiller Park|US||2f|38k|-6s3|3a|Shiller Park
+Schalksmühle|DE||8r|3yc|kx|3a
+Schotten|DE||8r|3wa|pd|38
+Schüttorf|DE||8r|41c|k3|37|Schüttrup
+Skara|SE||9w|4i7|11c|36|Scara
+Shchastya|UA||98|3re|30z|36|Shchastia;Schast’ye
+Schwarzenbach an der Saale|DE||8r|3vi|x6|36
+Schwaigern|DE||8r|3si|p6|32
+Schwieberdingen|DE||8r|3rs|p7|2z
+Schierstein|DE||8r|3v0|ms|2y
+Scottdale|US|Georgia|48|2lv|-6i2|2y
+Limín Mesoyaías|GR||8p|2x9|1uo|2x|Porto Rafti;Limin Markopoulou;Schneiderhafen
+Schüren|DE||8r|3z1|ky|2w
+Zhydachiv|UA||98|3t6|1v2|2w|Żydaczów;Schydatschiw;Zhidáchiv;Jydatchiv;Jıdaçiv;Žydačiv;Židačiva;Zjydatsjiv;Žõdatšiv;Žydačiw;Žydačivas;Zhidachev;Zhidechuv;Zhydachuv;Zhidachov
+Schlitz|DE||8r|3wr|qk|2v
+Schönaich|DE||8r|3r6|p6|2u
+Sheregesh|RU||74|430|6sf|2t|Sjeregesj;Scheregesch;Šeregešas;Šeregeš;Cheregech;Szeriegiesz
+Shyroke|UA|Dnipropetrovsk|98|3oh|2ke|2o|Chyroké;Schyroke;Sjyroke;Široke;Shiroke;Šyroke;Szyroke;Xiroke
+Shelkovskaya|RU||9i|3cv|3kq|2o|Sjelkovskaja;Sarapan;Şelkovski;Šelkovskaja;Schelkowskaja
+Sherborne|GB||9b|3xj|-70|2n|Scireburna;Scīrburna;Sherbourne
+Fiumefreddo Sicilia|IT||9o|2wz|169|2n|Fiumefreddo di Sicilia;Sciummefriddo;Ciumifriddu
+Scalby|GB||9b|45d|-20|2n
+Schieder-Schwalenberg|DE||8r|404|pk|2m
+Scalea|IT||9o|32l|17w|2l
+Schwaikheim|DE||8r|3rs|pz|2l
+Solymár|HU||8v|3o7|1gl|2k|Schaumar
+Scotchtown|US||48|378|-5qk|2k|Scotch Town
+Schlangen|DE||8r|3zx|ol|2j
+Schmitten|DE||8r|3vn|nh|2i
+Scott|US||2f|2c0|-73t|2i
+Schleiz|DE||8r|3wi|wt|2i
+Scherpenzeel|NL||8m|40o|f9|2g|Skerpenseel
+Schaafheim|DE||8r|3uo|p1|2g
+Schömberg|DE|Baden-Wurttemberg|8r|3rj|o0|2f
+Scorzè|IT||9o|3il|xn|2f
+Schellerten|DE||8r|40z|s2|2f|Castra Scelerata
+Schwarzenbruck|DE||8r|3t4|v8|2f
+Scarborough|AU|Queensland|8c|-23k|btb|2e
+Sortino|IT||9o|2v8|15r|2d|Sciurtinu
+Schwaig|DE||8r|3tf|v4|2b
+Schnaittach|DE||8r|3to|vi|2a
+Schonungen|DE||8r|3v1|sn|2a
+Shlomi|IL||6n|2jv|2pn|2a|Shelomi;Schelomi;Šlomi;Chelomi
+Schöppingen|DE||8r|40q|k3|2a
+Schifflange|LU||9c|3tj|gp|2a|Schëffleng
+Schipkau|DE||8r|3z4|12m|27|Šejkow;Tschipko;Shipkau
+Scenic Acres|CA||2s|3y0|-8ta|27
+Schübelbach|CH||a7|3n1|ot|25
+Scotia|US|New York|48|3az|-5pg|25
+Schelle|BE||8t|3y1|c2|25
+Schweich|DE||8r|3ue|ir|24
+Scobinţi|RO||8u|3no|22r|24
+Scheia|RO|Suceava|8u|3od|20v|23
+Schulzendorf|DE||8r|41g|11s|23
+Schierling|DE||8r|3rn|xq|21
+Shaftesbury|GB||9b|3xp|-63|21|Sceftonia
+Scheßlitz|DE||8r|3uu|un|20
+Scherpenheuvel|BE||8t|3xm|du|20|Montaigu
+Schelklingen|DE||8r|3qe|r1|1z
+Šlapanice|CZ||9m|3sl|1ah|1z|Schlapanitz;Lapanz;Schlappanitz
+Shabo|UA||98|3k5|2cf|1z|Szabo;Chabo;Șaba-Târg;Schabo-Kolonie;Schabo-Possad;Acha-Abag;Saba Tarc;Khabag;Sjabo;Šabo;Schabo
+Schutterwald|DE||8r|3ql|lw|1z
+Shevchenkove|UA|Kharkiv|98|3u2|2va|1z|Schewtschenkowe;Ševtšenkove;Chevtchenkove;Şevçenkove;Xevtxénkove;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Shibām|YE||5r|189|3r3|1y|Schibam;Ŝibam
+Scappoose|US||3p|3j3|-9hc|1y
+Schwanau|DE||8r|3qd|lk|1x
+Schriever|US||2f|2am|-709|1x
+Scionzier|FR||9k|3jy|i7|1w
+Sümeg|HU||8v|3mi|1c0|1v|Schimeck;Šimeg
+Scottsburg|US||38|2zh|-6m9|1v
+Schwarzheide|DE||8r|3z0|12i|1u|Carny Gózd
+Scharn|NL||8m|3x9|fx|1t
+Scorrano|IT||9o|33d|1eu|1t
+Schliersee|DE||8r|3om|wy|1s|Schliers
+Schwarzenfeld|DE||8r|3t7|xp|1s
+Schönkirchen|DE||8r|46x|sf|1s|Schönkarken
+Schöffengrund|DE||8r|3w9|nj|1r
+Schwendi|DE||8r|3pt|rq|1r
+Schlangenbad|DE||8r|3v5|mi|1r
+Scanzorosciate|IT||9o|3iz|r2|1q
+Schoorl|NL||8m|42e|d2|1q
+Schuyler|US||2f|375|-7hm|1q
+Schrozberg|DE||8r|3t3|rq|1p
+Scoresby|AU||8j|-2xa|b7f|1p
+Szczawnica|PL||a5|3ta|1kw|1o|Ščavņica
+Schepdaal|BE||8t|3x8|bo|1o|Schepdael
+Schaan|LI||a0|3n0|qf|1o|Schan
+Scorţeni|RO|Prahova|8u|3ha|1zt|1o
+Schaijk|NL||8m|3zr|fn|1o|Schaik
+Schöppenstedt|DE||8r|40u|tx|1o|Schöppenstidde
+Schönenberg-Kübelberg|DE||8r|3t9|kh|1o
+Shenkursk|RU||9i|4sj|3b6|1n|Sjenkursk;Schenkursk;Chenkoursk;Šenkursk;Sjenkoersk;Szenkursk
+Ścinawa|PL||a5|3yu|19n|1n|Steinau an der Oder;Steinau;Scinava;Steinaw an der Oder;Steinaw
+Szczyrk|PL||a5|3u4|1gv|1n|Ščirka
+Schlüsselfeld|DE||8r|3u8|ti|1m
+Schleusingen|DE||8r|3wb|tw|1m
+Schallstadt|DE||8r|3p8|lk|1m
+Iskushuban|SO||14|sk|3vj|1m|Scusciuban;Iskušuban;Skushuban
+Shchyrets|UA||98|3tx|1ua|1l|Szczerzec;Rosenberg;Chtchyrets;Ščyrec;Şçırets;Șciîreț;Sjtsjyrets;Shchyret;Shirets;Shchirets
+Šluknov|CZ||9m|3xo|145|1l|Schluckenau
+Shatsk|RU||9i|462|37w|1l|Sjatsk;Schazk;Chatsk;Šack;Šatsk;Sjatsk i Russland
+Žebětín|CZ||9m|3sp|19t|1k|Schebetein
+Shevchenkove|UA|Odesa|98|3ij|29h|1k|Schewtschenkowe;Sjevtsjenkove;Ševtšenkove;Ševčenkovė;Chevtchenkove;Sevcsenkove;Xevtxènkove;Ševčenkovo;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Scone|AU||8l|-2h1|bn3|1k
+Szczawno-Zdrój|PL||a5|3x4|196|1k|Szczawno Zdrój;Ščavnozdroja;Solice-Zdrůj;Solice Zdroj
+Śmigiel|PL||a5|40h|19x|1j|Smigela;Schmiegel
+Scaër|FR||9k|3pf|-aa|1j|Skaer
+Zsámbék|HU||8v|3o3|1g0|1j|Schambeck;Schambek
+Shenfield|GB||9b|3zf|x|1j|Scenfelda
+Mordoğan|TR||94|2z0|21y|1i|Skala Murdovan;Scala Murdovan;Morduğan;Murdağan;Murdoğan;Mürduğan
+Česká Skalice|CZ||9m|3vz|18k|1i|Böhmisch Skalitz;Scalis
+Schwaan|DE||8r|45u|xn|1h|Švāna
+Schönau am Königssee|DE||8r|3o8|103|1h|Schönau a.Königssee;Scheenau am Kenigssää
+Schönheide|DE||8r|3wa|ys|1h
+Schäftlarn|DE||8r|3pb|vu|1h
+Schlusser|US||48|33s|-5ye|1h
+Szczebrzeszyn|PL||a5|3wt|1ru|1h|Ščebžešina
+Schärding|AT||a2|3ql|11c|1h|Scharing;Schaerding
+Schladen|DE||8r|40i|ta|1h
+Scituate|US||48|398|-5gh|1g|Sityate
+Szczytna|PL||a5|3w1|19p|1g|Ščitna
+Schuylkill Haven|US||48|34v|-5vl|1g|Schuykill Haven
+Shkotovo|RU||7w|3cc|a7n|1g|Sjkotovo;Schkotowo;Shkatova
+Schliengen|DE||8r|3oo|l2|1g
+Schengen|LU||9c|3tf|ho|1g|Şengen;Šengenas
+Scarperia|IT||9o|3e7|vj|1g|Castrum Sancti Barnabae
+Schwarmstedt|DE||8r|42c|qq|1g|Ŝvarmsteto
+Schöllnach|DE||8r|3rf|10m|1f
+Ascona|CH||a7|3k7|od|1f|Scona
+Schriek|BE||8t|3xr|d1|1f|Schrieck
+Schilksee|DE||8r|476|s9|1e
+Scone|GB||9b|4cq|-9h|1e|Sgáin
+Shkurinskaya|RU||9i|3lf|31c|1e|Sjkurinskaja;Schkurinskaja;Xkurinskaia
+Scoarţa|RO||8u|3h2|1t5|1e
+Scenic Oaks|US||2f|2aj|-7m4|1e
+Schofields|AU||8l|-2lo|bn3|1e
+Schaffen|BE||8t|3xo|e5|1d
+Schitu-Goleşti|RO||8u|3hk|1xg|1d|Schitul-Goleşti
+Schönau|DE|Baden-Wurttemberg|8r|3tc|oh|1d
+Sciez|FR||9k|3kp|hq|1d|Siéz
+Schweighouse-sur-Moder|FR||9k|3rm|lh|1d|Schweighausen-sur-Moder
+Schweitenkirchen|DE||8r|3qq|w8|1d|Schweinkiacha
+Schattdorf|CH||a7|3m7|o1|1d
+Schenklengsfeld|DE||8r|3x6|rd|1c
+Schmiedeberg|DE||8r|3x8|120|1c
+Scheinfeld|DE||8r|3tz|t3|1c|Šeinfeldas
+Czarny Bór|PL||a5|3x1|18t|1c|Schwarzwaldau
+Şcheia|RO|Iași County|8u|3md|24g|1b
+Schönenwerd|CH||a7|3nl|m8|1b
+Schwarzer Berg|DE||8r|419|t7|1b
+Schinveld|NL||8m|3xl|gm|1b|Sjilvend
+Schacht-Audorf|DE||8r|46v|r0|1b
+Schömberg|DE|Baden-Wurttemberg|8r|3px|oc|1a
+Schalkhaar|NL||8m|417|h7|1a|Schalkhaap
+Swartz|US||2f|2ih|-73j|19|Schwartz
+Scott City|US|Missouri|2f|2ve|-6wo|19
+Silandro|IT||9o|3lj|tx|19|Schlanders;Schlanderna
+Schenkendöbern|DE||8r|40c|14o|19|Derbno
+Scheyern|DE||8r|3qq|vv|19|Scheyan
+Schmöckwitz|DE||8r|41i|11x|18
+Schechen|DE||8r|3p5|xo|18
+Scottsville|US|Kentucky|2f|2u3|-6nf|18
+Scarborough|US||48|3d2|-5fc|18
+Schnaittenbach|DE||8r|3tn|xc|18
+Schitu-Duca|RO||8u|3mn|255|17|Schitul-Duca
+Schelfstadt|DE||8r|44z|vq|17
+Schnapper Rock|NZ||ak|-2u3|dh9|17
+Schlotheim|DE||8r|3yd|tm|17
+Schliemannstadt Neubukow|DE||8r|463|wf|17|Neibūkova
+Schwanenstadt|AT||a2|3pi|12a|17|Schwauna;Švanenštatas
+Schonach im Schwarzwald|DE||8r|3pq|ms|17
+Scottdale|US|Pennsylvania|48|33e|-653|17
+Scânteia|RO|Iași County|8u|3mc|24l|16|Scînteia
+Scrioaştea|RO||8u|3en|1xb|16|Scriostea
+Scisciano|IT||9o|35n|147|16
+Scheidegg|DE||8r|3o6|rd|16
+Scheibbs|AT||a2|3pc|165|16
+Schwerzenbach|CH||a7|3nm|o2|16
+Scoglitti|IT||9o|2uh|143|16
+Szczucin|PL||a5|3vr|1mj|16|Ščucina
+Kostelec nad Černými lesy|CZ||9m|3uv|15a|16|Schwarzkosteletz
+Scanzano Jonico|IT||9o|33t|1ae|16
+Scandia|US||2f|3hp|-75t|15
+Schmitten|CH||a7|3m6|k5|14
+Schimatári|GR||8p|2yj|1ti|14|Skhimatári;Skimatari
+Schiltach|DE||8r|3q5|n6|14
+Schwebheim|DE||8r|3uv|sh|14
+Schwarzach|AT||a2|3nt|r4|13
+Scarness|AU||8c|-1y8|bsm|13
+Schwertberg|AT||a2|3q3|14i|13
+Schondorf am Ammersee|DE||8r|3ph|ut|13
+Schöllkrippen|DE||8r|3v5|pp|13
+Schoonebeek|NL||8m|42a|j4|12
+Szczekociny|PL||a5|3wn|1j3|12|Ščekocini
+Scott City|US|Kansas|2f|2yw|-7sb|12
+Schruns|AT||a2|3ms|rk|12
+Schlierbach|DE||8r|3r7|qg|12
+Schellebelle|BE||8t|3xp|ax|12
+Shipitsyno|RU||9i|4q8|3l8|12|Sjipitsyno;Schipizyno;Šipicyno;Spicino;Şipitsıno;Szypicyno;Sjipitsino;Shchipitsyno;Shipitsino
+Schönwald|DE|Bavaria|8r|3vg|xl|11
+Schönewalde|DE||8r|3zk|11s|11
+Schöneck|DE||8r|3vz|y9|11
+Schüpfheim|CH||a7|3mf|ma|11
+Scheldewindeke|BE||8t|3xh|aj|11
+Schlier|DE||8r|3op|qv|11
+Schipluiden|NL||8m|40e|bz|10
+Schnelldorf|DE||8r|3so|sa|10
+Scott Air Force Base|US||2f|2z2|-6xl|10|Scott AFB;Scottova letecká základna
+Schnaitsee|DE||8r|3pj|yd|10|Schnoatsee
+Szczuczyn|PL||a5|44s|1px|10|Ščučinas;Ščučina
+Schela|RO|Galați County|8u|3ie|25c|z
+Schildau|DE||8r|3yy|zx|z
+Schwarzach im Pongau|AT||a2|3ng|10j|z|Schwoschzach im Pongau
+Schwangau|DE||8r|3o6|tt|z
+Şoimuş|RO||8u|3jk|1rm|z|Marossolymos;Scholmosch
+Schwindegg|DE||8r|3q3|y2|z
+Schutsboom|NL||8m|3yy|fm|z
+Scano al Brembo|IT||9o|3j0|qp|z
+Schladming|AT||a2|3nn|121|z|Schlaming
+Shchebetovka|UA||9t|3gu|2po|y|Ŝĉebetovko;Otuz;Șcebetovka;Otuzy;Shebetovka;Otus
+Schernberg|DE||8r|3yl|tx|y
+Schänis|CH||a7|3n0|p5|y
+Scilla|IT||9o|2y9|17o|y|Scylleum;U Scigghiu
+Scorţoasa|RO||8u|3i0|222|y
+Schalkau|DE||8r|3w0|ul|y
+Schrecksbach|DE||8r|3x7|ps|x
+Schuttertal|DE||8r|3q3|m3|x
+Schöftland|CH||a7|3nf|md|x
+Schmerikon|CH||a7|3n7|ov|x
+Zhuravno|UA||98|3su|1vg|x|Żurawno;Juravno;Schurawno;Jouravno;Zsuravno;Juravne;Zhuravne
+Scharnebeck|DE||8r|441|t6|x
+Schrems|AT||a2|3rj|15v|w
+Schüpfen|CH||a7|3mo|ki|w
+Schärding Vorstadt|AT||a2|3ql|11c|w
+Schötz|CH||a7|3n1|m7|w
+Scărişoara|RO|Olt|8u|3e8|1w9|w
+Scissors|US||2f|20m|-7kd|w
+Schindellegi|CH||a7|3n1|o7|w
+Shypyntsi|UA||98|3qe|1zj|w|Șipeniț;Sjypyntsi;Schypynzi;Szypynci;Şypyntsi;Shipentsi
+Schwalmtal|DE|Hesse|8r|3ws|pm|w
+Scorţeni|RO|Bacău County|8u|3lb|221|w
+Shevchenkove|UA|Mykolaiv|98|3m6|2hg|w|Sjevtsjenkove;Schewtschenkowe;Sjevtjenkove;Ševčenkove;Shevchenkovo;Shevchenko
+Schitu|RO|Olt|8u|3f7|1w9|v
+Shaumiani|GE||7n|36v|3gc|v|Shulaveri;Naghvarevi;Sjaumiani;Szaumiani;Shulavery;Shaumyani;Schaumjani;Saulaveri
+Schweina|DE||8r|3x7|sq|v
+Žacléř|CZ||9m|3wq|187|v|Scheczler
+Scânteia|RO|Ialomița County|8u|3g9|24b|v|Scînteia
+Skaerbaek|DK||8y|498|od|v|Scherrebek
+Schkopau|DE||8r|3yr|x7|v
+Shalyhyne|UA||98|3z9|2mt|u|Schalyhyne;Shalgino;Chalyhyne;Šalyhyne;Şalıgıne;Szałyhyne;Șalîhîne;Shalygino;Shul’gino
+Schirgiswalde|DE||8r|3xw|143|u|Šěrachow
+Schwegenheim|DE||8r|3sv|n5|u
+Schlieben|DE||8r|3zo|116|u|Sliwin
+Shpykiv|UA||98|3ri|27c|u|Chpykiv;Sjpykiv;Schpykiw;Špykiv;Şpıkiv;Szpików
+Schleife|DE||8r|3z5|14d|u|Slepo
+Schmidtville|CA||35|3g0|-4wm|t
+Schnecksville|US||48|350|-5u2|t|Schneckville
+Schulen|BE||8t|3xk|ef|t|Schuelen
+Schulenburg|US||2f|2ag|-7h6|t
+Schkölen|DE||8r|3xs|wu|t
+Schwarzach|DE|Bavaria|8r|3rw|zl|t
+Schopfloch|DE|Bavaria|8r|3sg|sn|t
+Schmidgaden|DE||8r|3ta|xl|t
+Scandale|IT||9o|30o|1b4|t
+Scotter|GB||9b|44m|-1v|t
+Scullin|AU||8l|-2pv|bi0|t
+Schillingsfürst|DE||8r|3sx|si|s
+Schœneck|FR||9k|3sq|j8|s
+Scott Creek|CA||5b|3sx|-9h5|s
+Schwepnitz|DE||8r|3yl|12s|s|Sepicy
+Viničné|SK||8s|3q3|1c2|s|Švajnsbach;Hattyúpatak;Schweinsbach
+Schwallungen|DE||8r|3wt|ss|s
+Scherwiller|FR||9k|3q5|km|s|Scherweiler
+Scy-Chazelles|FR||9k|3sf|gz|s
+Schafisheim|CH||a7|3nm|mm|s
+Schlettau|DE||8r|3wg|zz|r|Šletava
+Schönsee|DE||8r|3tj|yv|r
+Shramkivka|UA||98|3va|2h9|r|Shramkovka;Schramkiwka;Šramkivka;Szramkiwka
+Žehra|SK||8s|3s2|1lr|r|Schigra;Zsigra;Zsegra
+Scena - Schenna|IT||9o|3lp|v3|r
+Sciara|IT||9o|2xc|128|q
+Scheer|DE||8r|3pj|pt|q
+Schenkon|CH||a7|3n2|ml|q
+Scutelnici|RO||8u|3gl|22s|q|Scurtelnici
+Scerni|IT||9o|38y|14h|q
+Schlieren / Spital|CH||a7|3nn|nf|q
+Schluchsee|DE||8r|3ou|mq|q
+Scaletta Zanclea|IT||9o|2xp|16z|q
+Schopfloch|DE|Baden-Wurttemberg|8r|3ql|nr|q
+Scott|CA|Quebec|59|3l6|-5hf|q
+Schwabenheim|DE||8r|3up|mi|q
+Schorndorf|DE|Bavaria|8r|3sk|yz|q
+Schönwald|DE|Baden-Wurttemberg|8r|3pn|ms|p
+Schwarme|DE||8r|42y|p2|p
+Schwanden|CH||a7|3mk|p7|p
+Scafa|IT||9o|39f|12w|p
+Schuby|DE||8r|47g|qc|p
+Schönwalde am Bungsberg|DE||8r|46j|tv|p
+Schönau im Schwarzwald|DE||8r|3or|lx|p|Schönau en la Selva Negra;Schönau
+Schenefeld|DE||8r|465|qc|p
+Scurtești|RO|Buzău County|8u|3he|22q|p
+Schwoich|AT||a2|3o3|xq|p
+Schechingen|DE||8r|3rr|rk|p
+Schmidmühlen|DE||8r|3sv|x4|p
+Świerzawa|PL||a5|3xp|186|p|Schönau am Katzbach;Svežava
+Schwörstadt|DE||8r|3o7|lw|p
+Schapen|DE|Lower Saxony|8r|41k|l0|o
+Schwanebeck|DE||8r|40d|uw|o
+Scannabue-Cascine Capri|IT||9o|3i3|qn|o
+Schiers|CH||a7|3mh|qx|o|Aschera
+Schoonaarde|BE||8t|3xo|b6|o|Schoonaerde
+Schlins|AT||a2|3n4|qy|o
+Scotts Mill|US||48|2r9|-634|o
+Scheemda|NL||8m|43p|jd|o
+Schashagen|DE||8r|46e|u8|o
+Schattendorf|AT||a2|3oj|19v|o|Šundrof;Somfalva
+Człopa|PL||a5|43h|18s|o|Schloppe;Člopa
+Scotby|GB||9b|48h|-7z|o
+Scheibenberg|DE||8r|3we|zv|o|Šeibenberga
+Schirmeck|FR||9k|3qo|k2|n
+Schafflund|DE||8r|484|pi|n
+Schimmert|NL||8m|3xf|g6|n|Sjömmert
+Scottsdale|AU||8g|-36c|bds|n
+Scăeşti|RO||8u|3fj|1ti|n
+Scorbé-Clairvaux|FR||9k|3m1|15|n
+Schagerbrug|NL||8m|42o|d8|n
+Scholes|GB||9b|45i|-3z|n
+Skhidnytsia|UA||98|3sq|1sv|n|Schodnica;Skhidnytsya;Schidnyzja;Skhodnitsa;Sxidnitsa;Szhidnicja;Sjídnytsia;Schidnycja;Shidnıtsâ;Shidnîțea
+Schitu|RO|Giurgiu County|8u|3em|1zs|m
+Primorsk|RU|Kaliningrad Oblast|96|482|1jl|m|Žuvininkai;Skanavikas;Fischhausen;Schönewick;Fishhausen
+Lapoutroie|FR||9k|3pr|jx|m|Schnierlach;La Poutroye
+Schofield|US||2f|3gr|-6ww|m
+Scundu|RO||8u|3gj|1v8|m
+Schafwiesen|AT||a2|3pt|133|m
+Scuol|CH||a7|3m0|sm|m|Schuls;Schulles
+Schwadorf|AT||a2|3pj|1a2|m
+Scarnafigi|IT||9o|3g4|l1|m|Scarnafis;Soarnafigi
+Schirrhein|FR||9k|3rk|lz|m|Schirain
+Schafstädt|DE||8r|3yq|wp|m
+Scheuerfeld|DE||8r|3x3|ls|m
+Luby|CZ||9m|3vl|yh|l|Schönbach;Schoenbach
+Schauenstein|DE||8r|3vo|wm|l
+Scheden|DE||8r|3yx|r1|l
+Schirmitz|DE||8r|3tx|xt|l
+Schönhausen|DE||8r|422|xg|l|Şönhauzen
+Šenov u Nového Jičína|CZ||9m|3tt|1dz|l|Schönau
+Scurtu Mare|RO||8u|3f7|1y7|l
+Schönau|DE|Bavaria|8r|3qo|zp|l
+Schitu Frumoasa|RO||8u|3lk|21l|l|Schitul Frumoasa;Schitu-Frumoasa
+Oberschaeffolsheim|FR||9k|3qz|l9|l|Oberschäffolsheim;Schafelse
+Schneppenhausen|DE||8r|3up|nu|l
+Sępopol|PL||a5|46r|1md|k|Schippenbeil;Sempopole;Szępopel
+Schönthal|DE||8r|3t3|z0|k
+Schwanfeld|DE||8r|3uo|s6|k
+Schoonoord|NL||8m|42t|is|k
+Schönfeld|DE|Saxony|8r|3yi|122|k|Schönefeld
+Shrub Oak|US||48|36t|-5p2|k|Scrub Oak
+Schillig|DE||8r|456|ma|k
+Schwarzach|DE|Baden-Wurttemberg|8r|3t5|oy|k
+Świętajno|PL|Warmia-Masuria|a5|44t|1my|k|Schwentainen
+Schmiedefeld am Rennsteig|DE||8r|3wl|u1|k
+Schuylkill|US||48|32y|-5sv|k
+Scerne|IT||9o|3ah|130|k
+Scottsville|US|New York|48|3bj|-5zz|k
+Scotland Neck|US||48|2sd|-5z2|k
+Schönkirchen-Reyersdorf|AT||a2|3qb|1ad|k
+Schilberg|NL||8m|3xy|gd|k
+Scurta|RO||8u|3ki|232|k
+Schwarzach|DE|Baden-Wurttemberg|8r|3rf|mc|j
+Scanno|IT||9o|38e|12k|j
+Schmalfeld|DE||8r|45o|rq|j
+Schönborn|DE|Brandenburg|8r|3zc|11h|j
+Schlieren / Engstringerquartier|CH||a7|3no|ng|j
+Schendelbeke|BE||8t|3x4|au|j
+Schondra|DE||8r|3vn|re|j
+Schleching|DE||8r|3ok|yf|j
+Schwarzenberg|AT||a2|3np|rd|j
+Shyrokolanivka|UA||98|3n1|2fb|i|Sjyrokolanivka;Schyrokolaniwka;Širokolaņivka;Šyrokolanivka;Shirokolanivka;Szyrokołaniwka;Shirokolanovka
+Schiltberg|DE||8r|3qm|v9|i
+Schenkenzell|DE||8r|3q7|n9|i
+Schomyslitsa|BY||9g|45i|249|i|Shchomyslitsa
+Scărişoara|RO|Alba County|8u|3l3|1rh|i|Scărişoar
+Schöngeising|DE||8r|3pq|v4|i
+Schönau-Berzdorf|DE||8r|3xu|15c|i
+Scheuring|DE||8r|3pt|ua|i
+Schwindratzheim|FR||9k|3rg|l4|i|Schwíngelse
+Schlierbach|AT||a2|3p6|138|i
+Skrunda|LV||9n|4dg|1p6|i|Schrunden
+Skála|GR|South Aegean|8p|2vo|21q|h|Scala
+Schinznach Dorf|CH||a7|3nt|mm|h
+Shatin|AM||80|32o|3hu|h|Shatik;Hasankand;Gasankend;Hesan Kand;Schatin;Šatina;Sjatin;Szatin;Şatin
+Spechbach|DE||8r|3t3|oo|h|Schbeeschbach
+Sciarborasca|IT||9o|3fc|ny|h
+Schísma Eloúndas|GR||8p|2py|1zh|h
+Schwendau|AT||a2|3n4|wy|h
+Schleitheim|CH||a7|3on|nk|h
+Schlat|DE||8r|3r5|qz|h
+Schellhorn|DE||8r|46n|sl|h
+Schonsee|CA||2s|44z|-8r5|h
+Šintava|SK||8s|3q4|1dc|h|Schintau
+Scarcelli|IT|Calabria|9o|31g|18i|h
+Schaalby|DE||8r|47j|qr|h
+Schönwies|AT||a2|3n4|tm|h
+Schuntersdlg - West|DE||8r|41a|ta|h
+Schörfling|AT||a2|3p7|11s|h
+Sclayn|BE||8t|3w9|dz|h
+Schlaitdorf|DE||8r|3r0|pm|h
+Schobüll|DE||8r|47f|p1|h
+Schöndorf|AT||a2|3pc|11y|h
+Scenic|US||4i|2u7|-8sp|g
+Šumvald|CZ||9m|3uf|1bl|g|Schönwald;Šumwald
+Schapen|DE|Lower Saxony|8r|418|th|g
+Scawby|GB||9b|44q|-1i|g
+Schönecken|DE||8r|3vc|hz|g
+Schalchen|AT||a2|3po|10k|g
+Scey-sur-Saône-et-Saint-Albin|FR||9k|3oe|gl|g
+Sluderno|IT||9o|3ln|te|g|Schluderns
+Schouweiler|LU||9c|3tq|gk|g|Schuller
+Scherpenisse|NL||8m|3z7|bf|g|Schaerpenisse
+Shipka|BG||9v|3an|1ye|g|Schipka;Šipka
+Schorisse|BE||8t|3x4|a8|g|Schoorisse
+Pisarzowice|PL|Lower Silesia|a5|3y2|16b|g|Mittel Schreibersdorf;Schreibersdorf
+Schwalbach|DE|Hesse|8r|3wa|nj|g
+Schoonrewoerd|NL||8m|408|e8|g|Schoonerwoerd
+Schwarzenberg|CH||a7|3mm|mp|g
+Schornsheim|DE||8r|3uh|mq|g
+Scarlino Scalo|IT||9o|3ba|u4|g
+Švihov|CZ||9m|3tg|10w|g|Schwihau
+Scharnegoutum|NL||8m|43e|fs|g|Skearnegoutum
+Schermen|DE||8r|413|wt|g
+Scano di Montiferro|IT||9o|33q|nv|g
+Schoolcraft|US||2q|38z|-6lw|g
+Schwenningen|DE|Baden-Wurttemberg|8r|3pm|p0|g
+Schinnen|NL||8m|3xi|gd|g
+Schneizlreuth|DE||8r|3og|zk|f|Schneizlreith
+Schelderode|BE||8t|3xl|ab|f
+Zhvanets|UA||98|3qv|21l|f|Żwaniec;Schwanez;Žvanets;Jvaneț;Zjvanets;Jvanets
+Scalenghe|IT||9o|3gp|kt|f
+Schopp|DE||8r|3t3|lc|f
+Schwellbrunn|CH||a7|3nj|pp|f
+Shefayim|IL||6n|2hi|2or|f|Schefajim;Šefajim;Szefajim;Şefayim;Shefayyim
+Scurtești|RO|Prahova|8u|3ho|1zy|f
+Schwarzhofen|DE||8r|3t6|ya|f|Schwoazhof
+Schaufling|DE||8r|3rp|10b|f
+Schwaförden|DE||8r|42i|oj|f|Swabern
+Schnega|DE||8r|42x|u9|f
+Schildwolde|NL||8m|43v|iy|f
+Scorţaru Nou|RO||8u|3hw|24o|f|Scorţarul Nou
+Schlitters|AT||a2|3nm|ww|f
+Schönstedt|DE||8r|3y0|te|f
+Schwenningen|DE|Bavaria|8r|3r5|tl|f
+Scortichino|IT||9o|3go|vh|f
+Schweigen-Rechtenbach|DE||8r|3s9|m4|f
+Schirnding|DE||8r|3v4|xz|f
+Schönau an der Triesting|AT||a2|3p5|195|f
+Schloßvippach|DE||8r|3xy|uz|f
+Schweinbach|AT||a2|3qa|142|f
+Scheffau am Wilden Kaiser|AT||a2|3o1|y1|e|Scheffau
+Scurcola Marsicana|IT||9o|38u|112|e
+Schalchham|AT||a2|3pc|11z|e
+Scansano|IT||9o|3al|vh|e
+Scardovari|IT||9o|3gq|yl|e
+Sciolze|IT||9o|3h9|lw|e|Siosse
+Skála Oropoú|GR||8p|2yg|1u3|e|Scalaorapou
+Scheubengrobsdorf|DE||8r|3xb|xf|e
+Scharnitz|AT||a2|3nn|va|e
+Schwarza|DE||8r|3x9|vg|e
+Schwenksville|US||48|33u|-5tm|e
+Schieren|LU||9c|3uf|gy|e
+Scotland|US|Pennsylvania|48|331|-5zj|e
+Senales|IT||9o|3lr|ub|e|Schnals
+Schützen am Gebirge|AT||a2|3ox|1a6|e|Česno;Sérc
+Schuylerville|US||48|3bq|-5oe|e|Schuylersville
+Scandriglia|IT||9o|394|zo|e
+Szlichtyngowa|PL||a5|3zn|194|e|Schlichtingsheim;Šlihtingova;Szlichtinkowo
+Schönbach|DE||8r|3xv|14h|e
+Schwabstedt|DE||8r|474|pj|e|Svavsted;Swåbstää
+Schönau|DE|Bavaria|8r|3v4|r0|e
+Schwanberg|AT||a2|3lw|169|e
+Schraplau|DE||8r|3yw|wf|e
+Schwarzau am Steinfeld|AT||a2|3ol|18x|d
+Schwabsoien|DE||8r|3ov|u3|d
+Schillingen|DE||8r|3tv|iu|d
+Schinznach Bad|CH||a7|3nt|mp|d
+Scissett|GB||9b|44v|-4i|d
+Schnürpflingen|DE||8r|3q3|rr|d
+Schöfweg|DE||8r|3ro|10r|d
+Schönenbuch|CH||a7|3o2|kv|d
+Scaltenigo|IT||9o|3ib|xk|d
+Zhuravychi|UA||98|3xm|1zg|d|Schurawytschi;Žuraviči;Żurawicze;Juravîci;Zhuraviche;Zhuravichi
+Scheia|RO|Iași County|8u|3mw|22o|d
+Scena|IT||9o|3lp|v3|d|Schenna;Schönna
+Schönberg|DE|Schleswig-Holstein|8r|454|sz|d
+Schochwitz|DE||8r|3z5|wn|d
+Schiulești|RO||8u|3hs|203|d
+Scharnstein|AT||a2|3p2|12s|d
+Schoondijke|NL||8m|3yn|9w|d|Schwòndieke;Schôondyke
+Schachen|CH||a7|3ng|nj|d
+Schermerhorn|NL||8m|424|dl|d
+Shorapani|GE||7n|38y|3bo|d|Shorap’ani;Szorapani;Sjorapani;Xoropan;Şorapani;Schorapani;Shorapan’;Schorpani;Shorpani
+Schelluinen|NL||8m|400|dp|d
+Schitu|RO|Constanța County|8u|3e2|27j|d
+Skarmagkás|GR||8p|2xl|1tk|d|Skaramangás;Skaramangá;Skaramagkas;Scaramanga
+Schwarzenborn|DE||8r|3xf|q9|d
+Celerina|CH||a7|3l7|re|c|Schlarigna
+Schlieren / Boden|CH||a7|3no|ni|c
+Scheiu de Jos|RO||8u|3gt|1y0|c|Scheiul de Jos
+Scomigo|IT||9o|3jm|y8|c
+Schmiedefeld|DE||8r|3wd|v6|c
+Schonstett|DE||8r|3pa|y1|c
+Scottville|US||2q|3e3|-6no|c
+Schlieren / Freiestrasse|CH||a7|3no|ng|c
+Schlieren / Zentrum|CH||a7|3no|nh|c
+Schlehdorf|DE||8r|3oe|vf|c|Schleedorf
+Schülp bei Rendsburg|DE||8r|46q|qr|c
+Fiumara|IT|Calabria|9o|2y5|17l|c|Caenesium;Sciumara i Muru
+Scurelle|IT||9o|3jy|vz|c
+Scarcroft|GB||9b|45n|-41|c
+Schachen bei Vorau|AT||a2|3nm|182|c
+Schneidlingen|DE||8r|405|vs|c
+Schneckenlohe|DE||8r|3vh|v3|c
+Sé|HU||8v|3n8|1a0|c|Scheibing;Šiba;Šieba
+Scalo di Baragiano|IT||9o|352|17a|c
+Šempas|SI||9a|3jl|126|b|Schönpaß;Sambasso;Schönpals
+Schmiechen|DE||8r|3py|uh|b
+Schlagsdorf|DE||8r|459|u3|b
+Schlip|NA||1f|-1ut|1bl|b
+Scala|IT||9o|34y|14l|b
+Schleid|DE||8r|3wu|rp|b
+Schönburg|DE||8r|3y5|wz|b
+Schaltin|BE||8t|3vw|e9|b
+Schenkenfelden|AT||a2|3qq|13w|b
+Schlieren / Kamp|CH||a7|3nn|ng|b
+Schuiferskapelle|BE||8t|3xr|9a|b
+Schwarzenbach|DE||8r|3ug|ye|b
+Scario|IT||9o|33a|16z|b
+Shonguy|RU||9i|5ay|2k4|b|Sjonguj;Šongui;Schongui;Shongui
+Scorțaru Vechi|RO||8u|3hm|253|b|Scorţarul Vechi
+Scheffau am Tennengebirge|AT||a2|3o7|10q|b
+Schwedelbach|DE||8r|3ti|l3|b
+Schall Circle|US||48|228|-66k|b
+Schlegel|DE||8r|3xm|15c|b
+Scharendijke|NL||8m|3zq|ao|b|Schaerendieke;Scharendeikė
+Schönberg im Stubaital|AT||a2|3n2|vq|b
+Scalloway|GB||9b|4n2|-3k|b
+Sieniawa|PL|Lubusz|a5|41g|16q|b|Schönow
+Schellenberg|LI||a0|3n7|qj|b
+Schivenoglia|IT||9o|3gz|ur|b
+Scandolara Ravara|IT||9o|3h5|sm|b
+Scharfenstein|DE||8r|3wu|10a|b
+Scotchtown|CA||2x|3kg|-4my|b
+Sciotodale|US||48|2zn|-6e7|b
+Schwerzenbach / Blatten|CH||a7|3nm|o1|b
+Schiavon|IT||9o|3iy|wd|b
+Schleedorf|AT||a2|3p7|10j|b
+Scheiu de Sus|RO||8u|3gw|1xz|b|Scheiul de Sus
+Schoeneck|US||48|33s|-5vl|b
+Schnersheim|FR||9k|3r6|l1|b
+Sculia|RO||8u|3i8|1nj|a
+Schreiber|CA||59|3rl|-6qe|a
+Scobey|US||2p|3rj|-84u|a
+Schleinbach|AT||a2|3qi|19s|a
+Scole|GB||9b|41h|38|a
+Schwerzenbach / Chimli|CH||a7|3nn|o2|a
+Schönberg|DE|Saxony|8r|3xb|yp|a
+Schönering|AT||a2|3q6|13c|a
+Scorton|GB||9b|474|-4h|a
+Scarboro|CA||2s|3xs|-8sy|a
+Scherstetten|DE||8r|3pu|tk|a
+Schlaitz|DE||8r|3zi|yj|a
+Shyroke|UA|Donetsk|98|3p8|2y7|a|Schyroke;Sjyroke;Şıroke;Chyroke
+Dobra Voda|ME||9l|38t|1h6|a|Scurta;Ujëmira
+Schuttersveld|NL||8m|3xi|gm|a
+Schleissheim|AT||a2|3ps|133|a
+Schnabelwaid|DE||8r|3ud|w6|a
+Shellman|US||48|2g8|-6j2|a|Schellman
+Scotts Hill|US||2f|2qo|-6t5|a
+Smołdzino|PL||a5|47u|1bt|a|Schmolsin
+Schlöben|DE||8r|3xd|wh|a
+Schöngrabern|AT||a2|3r0|18l|a
+Scanlon|US||2f|3lr|-74r|a
+Scheifling|AT||a2|3mz|141|a
+Scampitella|IT||9o|365|16i|a|Scampitello;Scampitelli
+Schilpario|IT||9o|3jt|s8|a
+Schlierbach|FR||9k|3og|kl|a
+Shakhtne|UA||98|3pa|2yc|a|Schachtne;Şahtne;Shakhtnoye
+Schiermonnikoog|NL||8m|44k|h3|a|Skiermûntseach
+Schönewörde|DE||8r|427|tj|a
+Scărlătești|RO||8u|3gv|243|a
+Schönberg|DE|Bavaria|8r|3pi|y5|a
+Schela|RO|Prahova|8u|3h4|1zt|a
+Schnottwil|CH||a7|3mv|kj|a
+Scăpău|RO||8u|3fi|1r4|a
+Scărișoara|RO|Buzău County|8u|3hm|21b|a
+Schmira|DE||8r|3xj|uh|a
+Schöneberg|DE|Brandenburg|8r|439|13a|a
+Schoppernau|AT||a2|3nf|ru|a
+Scauri|IT||9o|2u4|xb|9
+Schallodenbach|DE||8r|3tn|lg|9
+Schaefferstown|US||48|33y|-5vx|9|Shaefferstown
+Schwarzenbach|AT||a2|3oc|19f|9|Feketevár
+Schrick|AT||a2|3qq|1a6|9
+Schollbrunn|DE||8r|3ug|qa|9
+Scaldasole|IT||9o|3hc|or|9
+Schignano|IT|Lombardy|9o|3jl|pa|9
+Schlammersdorf|DE||8r|3uc|wl|9
+Scrignac|FR||9k|3qj|-a8|9|Skrigneg
+Schneegattern|AT||a2|3pe|10x|9
+Scido|IT||9o|2y8|189|9
+Scânteiești|RO||8u|3iw|25q|9|Scînteieşti
+Zawonia|PL||a5|3yk|1bs|9|Schawoine
+Zgornje Škofije|SI||9a|3il|12c|9|Scoffie di Sopra
+Schangnau|CH||a7|3m3|lu|9
+Schweringen|DE||8r|42j|pi|9|Swering
+Gschwandt|AT|Salzburg|a2|3om|118|9|Schwand;Gschwand
+Schwesing|DE||8r|47d|pe|9
+Scala Coeli|IT||9o|31l|1ax|9
+Schwabbruck|DE||8r|3ov|u4|9
+Schadendorf|AT||a2|3mi|16k|9
+Shakhove|UA||98|3qm|2vr|9|Oktyabrs’ke;Oktyabr’skoye;Schachowe;Oktjabrske;Chakhove;Šachove
+Schalkham|DE||8r|3qo|yi|9
+Schlüsslberg|AT||a2|3py|12j|9
+Scharmer|NL||8m|43t|in|9
+Schwartbuck|DE||8r|470|t4|9
+Scandolara|IT||9o|3ip|xm|9
+Schillsdorf|DE||8r|46c|s4|9
+Schweppenhausen|DE||8r|3up|lo|9
+Schardenberg|AT||a2|3qs|11i|9
+Scio|US|Oregon|3p|3g6|-9h9|9
+Schleswig|US||2f|395|-7d4|9
+Schalkenbach|DE||8r|3w9|jv|9
+Schellinkhout|NL||8m|428|e8|9
+Schwifting|DE||8r|3ph|ud|9
+Scarcelli|IT|Sicily|9o|2y5|16v|9
+Schnakenbek|DE||8r|44b|t6|9
+Scharans|CH||a7|3ls|qa|9|Scharons;Schraunis
+Scotts Head|AU||8l|-2df|bt0|9
+Schiefling am See|AT||a2|3lg|136|9
+Schmon|DE||8r|3ym|w2|9
+Scranton|US|South Carolina|48|2m8|-65i|9
+Schleiden|DE|North Rhine-Westphalia|8r|3xc|hc|9
+Scothern|GB||9b|440|-19|9
+Schlagenthin|DE||8r|41r|y4|9
+Schwarzenau|AT||a2|3re|16e|9
+Scholen|DE||8r|42i|od|9
+Schrassig|LU||9c|3tt|he|9|Schraasseg
+Černá v Pošumaví|CZ||9m|3re|137|9|Schwarzbach an der Moldau
+Scărișoara|RO|Bacău County|8u|3kk|23d|9
+Schönau im Mühlkreis|AT||a2|3qf|14x|9
+Schönewerda|DE||8r|3yk|vl|9
+Scotia|US|California|3p|34g|-9kq|9
+Schlossrued|CH||a7|3nd|mh|8
+Schuld|DE||8r|3w5|j5|8
+Schwemmberg|AT||a2|3no|11g|8
+Schierau|DE||8r|3zr|y4|8
+Scribner|US||2f|37r|-7gj|8
+Zhuravnyky|UA||98|3w3|1wl|8|Schurawnyky;Žuravniki;Żurawniki;Juravnîkî;Zhuravniki
+Schaldorf|AT||a2|3nv|16p|8
+Schuttrange|LU||9c|3tu|hf|8
+Schoharie|US||48|3aj|-5qf|8
+Schibler|CH||a7|3nx|nh|8
+Schlatten|AT||a2|3od|195|8
+Schroon Lake|US||48|3ds|-5ow|8
+Schwarzbach|DE||8r|3yx|12p|8
+Schönfeld|DE|Thuringia|8r|3wp|y0|8
+Schwendt|AT||a2|3ob|yf|8
+Scotland|US|South Dakota|2f|3bv|-7jg|8
+Shoval|IL||6n|2f9|2oi|8|Šoval;Schoval;Szoval
+Scarriff|IE|Munster|8z|402|-s9|8
+Scopwick|GB||9b|43j|-14|8
+Ściejowice|PL||a5|3uw|1iy|8
+Afrykanivka|UA||98|3rt|2u9|8|Afrikanivka;Afrikaniwka;Schweikert;Shvaikert;Shvaykert;Afrikanovka
+Schmalenberg|DE||8r|3t1|lh|8
+Scott|CA|Quebec|59|3ue|-5r6|8
+Schrattenberg|AT||a2|3rc|1ag|8
+Schköna|DE||8r|3zk|yu|8
+Schnifis|AT||a2|3n6|r1|8
+Schignano|IT|Tuscany|9o|3e4|uv|8
+Scharsterbrug|NL||8m|432|g2|8|Skarsterbrêge
+Schackendorf|DE||8r|45w|sj|8
+Scalo Ferroviario|IT|Calabria|9o|311|18m|8
+Scarriff|IE|Munster|8z|42z|-np|8|An Scairbh;Scariff
+Schijf|NL||8m|3z2|co|8
+Screven|US||48|2fh|-6bu|8|Screvan
+Schwerinsdorf|DE||8r|443|la|8
+Scheepvaarthuisbuurt|NL||8m|41h|dn|8
+Schoenberg|BE||8t|3vp|hf|8|Schönberg;Shomberg;Schonburg
+Schwanheide|DE||8r|44f|to|8
+Černý Důl|CZ||9m|3wn|17n|8|Schwarzenthal
+Seisdon|GB||9b|41z|-68|8|Scisdon
+Scarborough|NZ||ak|-3d1|dbx|7
+Schierke|DE||8r|3zs|tm|7
+Schweiggers|AT||a2|3r7|15v|7
+Schaller|US||2f|3a2|-7cp|7
+Schwieringhausen|DE||8r|3za|kk|7
+Schaeffersheim|FR||9k|3qj|l6|7
+Schwienau|DE||8r|439|t1|7
+Scio|US|Ohio|48|348|-698|7
+Scalp Level|US||48|33t|-631|7
+Schortewitz|DE||8r|3zh|xe|7
+Scheggia|IT||9o|3ck|z7|7
+Scurry|US||2f|2ic|-7fq|7
+Scheibenhardt|DE||8r|3s2|mm|7
+Scoreiu|RO||8u|3j4|1w5|7|Scorei
+Schönholzerswilen|CH||a7|3o0|pe|7
+Schwaderloch|CH||a7|3o7|mm|7
+Schin op Geul|NL||8m|3x9|gb|7|Sjin op Geul
+Schönborn|DE|Rheinland-Pfalz|8r|3vq|m7|7
+Scalo Ferroviario|IT|Campania|9o|36j|133|7
+Schweighouse-Thann|FR||9k|3on|jx|7
+Schoden|DE||8r|3tv|ia|7
+Scarsdale|AU||8j|-2wo|b33|7
+Scientrier|FR||9k|3k4|hk|7
+Schackensleben|DE||8r|410|vq|7
+Schadeleben|DE||8r|400|vk|7
+Scotch Creek|CA||5b|3xe|-97t|7
+Scotts Corners|US||48|36f|-5ob|7|Scott Corners
+Shamlugh|AM||80|36d|3g8|7|Shamlug;Schamlugh;Šamluhas;Ŝamlugh;Sjamlugh;Šamlug;Şamlıq;Szamluch;Shamlux;Shamblud;Shamblug
+Scharnhorst|DE|Lower Saxony|8r|433|pr|7
+Scheuren|CH||a7|3ng|o2|7
+Schlieren / Pflugstrasse|CH||a7|3no|ng|7
+Scooba|US||2f|2j7|-6ts|7
+Emyvale|IE||8z|46y|-jc|7|Scairbh na gCaorach
+Scanfs|CH||a7|3lh|rq|7|S-chanf
+Schull|IE||8z|3z4|-qj|7|Skull;An Scoil;Scoil Mhuire
+Schwerzenbach / Chropfacher|CH||a7|3nm|o2|7
+Schallbach|DE||8r|3od|l7|7
+Schwenheim|FR||9k|3rb|kl|7
+Science Hill|US||48|2va|-6j4|7
+Schellingwoude|NL||8m|41i|ds|7
+Schwerstedt|DE||8r|3y4|uc|7
+Schenkenberg|DE||8r|448|12r|7
+Schenkelberg|DE||8r|3wi|lm|7
+Schineni|RO|Vaslui County|8u|3kc|25n|7
+Scranton|US|Kansas|2f|2zq|-7dy|7
+Schwabhausen|DE||8r|3xd|tt|7
+Shepit|UA||98|3os|1xu|7|Schepit;Schipot;Shepot
+Schwemsal|DE||8r|3zf|yw|7
+Schermcke|DE||8r|40m|vd|7
+Schnackenburg|DE||8r|43c|w4|7
+Schwaighofen|AT||a2|3ov|10i|7
+Schineni|RO|Bacău County|8u|3lk|22v|7
+Schöneberg|DE|Rheinland-Pfalz|8r|3uo|lj|7
+Rothenschirmbach|DE||8r|3yy|w3|7|Rodenscerenbeke;Scrinbechiu
+Schottikon|CH||a7|3ny|oi|7
+Schurz|US||3p|307|-961|7|Schutz
+Schlossberg|AT||a2|3ll|170|7
+Scheibe-Alsbach|DE||8r|3w9|uq|7
+Schiltern|AT||a2|3qs|17e|7
+Schkortleben|DE||8r|3yc|xe|6
+Schlepzig|DE||8r|40j|12m|6|Słopišća
+Scoposeni|RO||8u|3md|262|6
+Swarzynice|PL||a5|40g|17r|6|Schwarmicz;Schwarmitz
+Schwarzburg|DE||8r|3wo|v3|6
+Schorbach|FR||9k|3sc|kl|6
+Schneckenhausen|DE||8r|3tm|lj|6
+Schönbrunn|DE||8r|3w7|wd|6
+Schwerborn|DE||8r|3xs|us|6
+Schärding Innere Stadt|AT||a2|3qm|11b|6
+Schindhard|DE||8r|3si|lq|6
+Krásná|CZ|Carlsbad Region|9m|3vj|xt|6|Schönbach bei Asch
+Schrenz|DE||8r|3zb|xj|6
+Scheiblingkirchen|AT||a2|3oe|18t|6
+Scalo|IT||9o|373|10o|6
+Schwaigen|DE||8r|3oa|uz|6
+Scarpizzolo|IT||9o|3i2|rx|6
+Schwenda|DE||8r|3z8|um|6
+Scoppito|IT||9o|39p|10u|6
+Schalkwijk|NL||8m|41g|cx|6
+Scamander|AU||8g|-376|bfu|6
+Scorcelletti|IT||9o|3cu|10l|6
+Scio|US|New York|48|395|-60m|6
+Schalkenmehren|DE||8r|3vd|j2|6
+Schöfens|AT||a2|3mx|vu|6
+Scottsville|US|Virginia|48|2x0|-622|6
+Schielo|DE||8r|3ze|v6|6
+Schwanheim|DE||8r|3sl|lw|6
+Schalkholz|DE||8r|46p|pq|6
+Smalininkai|LT||a3|490|1qq|6|Schmalleningken;Smalėninkā;Smalininki;Smalininkų;Smalininkay;Shmalleningken
+Scalo Ferroviario|IT|Calabria|9o|321|191|6
+Schnarup-Thumby|DE||8r|47t|qt|6
+Schraden|DE||8r|3yv|121|6
+Schwüblingsen|DE||8r|41l|s6|6|Swübbelingsen
+Scillato|IT||9o|2x6|12n|6
+Schela|RO|Dâmbovița County|8u|3h3|1ys|6
+Schineni|RO|Bacău County|8u|3kb|23a|6
+Schaghticoke|US||48|3b6|-5of|6
+Schmitten|AT||a2|3nh|zi|6
+Sqepur|AL||9y|35a|1j2|6|Sćepur
+Schönberg|DE|Saxony-Anhalt|8r|42x|wu|6
+Schmilau|DE||8r|452|tw|6
+Schweighofen|DE||8r|3s8|m7|6
+Sceaux-sur-Huisne|FR||9k|3pm|1m|6|Sceaux-sur-Huîne
+Schiphorst|DE||8r|457|t2|6
+Šćitarjevo|HR||a6|3j5|18s|6
+Schlieren / Halde|CH||a7|3no|ni|6
+Schram City|US||2f|30s|-6wi|6|Thành phố Schram
+Schönberg|AT||a2|3qs|17m|6
+Schwerz|DE||8r|3z9|xp|6
+Scandolara Ripa d'Oglio|IT||9o|3hm|s8|6
+Schilda|DE||8r|3zc|116|6
+Schülldorf|DE||8r|46u|r1|6
+Scotland Island|AU||8l|-2lg|bo9|6
+Schitu Poienari|RO||8u|3e7|1ys|6|Schitu-Poenari
+Scalo Teverina|IT||9o|39q|yk|6
+Scaro-Reggio-Scornavacca-Vardano|IT||9o|30z|18m|6
+Schleifen|AT||a2|3m3|157|6
+Schlesen|DE||8r|46w|sp|6
+Schit-Orășeni|RO||8u|3oc|225|6
+Schleesen|DE||8r|3zu|yp|6
+Sciecq|FR||9k|3kt|-1b|6
+Schenevus|US||48|3a7|-5ru|6
+Schönwalde|DE||8r|44q|12m|6
+Schalkham|AT||a2|3p5|10q|6
+Scalera|IT||9o|35i|17o|5
+Sclaunicco|IT||9o|3jq|10i|5
+Schauren|DE||8r|3ud|k4|5
+Schöngleina|DE||8r|3xf|wk|5
+Škaljari|ME||9l|39u|1g5|5|Škaliaris;Scagliari
+Scharwoude|NL||8m|426|dx|5
+Černá Voda|CZ||9m|3vr|1bn|5|Schwarzwasser
+Schellweiler|DE||8r|3tj|kj|5
+Schönbeck|DE||8r|44u|11p|5
+Schinteiești|RO||8u|3g6|1qz|5|Schinteeşti
+Scăueni|RO||8u|3hq|1vw|5
+Schipborg|NL||8m|43g|ij|5|Schipbork
+Schitu Scoicești|RO||8u|3gi|1xv|5|Schitul-Scoiteşti;Schitu-Scoiceşti
+Scranton|US|Iowa|2f|38q|-7an|5
+Schaprode|DE||8r|47f|10l|5
+Schweizersberg|AT||a2|3ok|13o|5
+Scopeto Madonna Gulia|IT||9o|372|100|5
+Sceaux-du-Gâtinais|FR||9k|3pn|78|5|Segeta
+Schönermark|DE||8r|439|10g|5
+Scammon Bay|US||49|4rs|-cry|5
+Scar Top|GB||9b|45j|-5l|5
+Scheidgen|LU||9c|3ua|ho|5|Scheedgen
+Schellbach|DE||8r|3xm|xo|5
+Schlieren / Industrie Ost|CH||a7|3no|ni|5
+Ściborzyce Wielkie|PL||a5|3uy|1e3|5
+Schwerzenbach / Widacher|CH||a7|3nm|o2|5
+Schœnau|FR||9k|3py|l9|5
+Shaulykha|UA||98|3s3|2cy|5|Rokoshvar;Schaulicha;Rokoschwar;Szaulicha;Rokoszwar;Rokosvár;Sauliha;Shaulikha
+Schulter|US||2f|2qn|-7ek|5

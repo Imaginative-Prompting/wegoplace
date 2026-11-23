@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Fort Worth|US||2f|2ix|-7ic|7s1|Fortvērta;Fortvortas;Arx Vorthensis;Fort Vort;Fort Uert;Fortvorto;Ft Worth
+Thessaloníki|GR||8p|34w|1rp|2ga|Salónica;Săruna;Selânik;Thessalonica;Ftohomána;I Protévoussa ton Prosfígon;Salonik;Tesalónica;Þessalóníka;Thessalonique;Saloniki;Solun;Tessalònica;Salonicco;Tesalonîkî;Salonikai;Salonic;Saluniccu;Thessaloníkē;Salonika
+Fort Collins|US||2p|34r|-83w|1bh|Fort Kolinsas;Ft Collins
+Fort Pierce|US||48|249|-675|cd|Ft. Pierce
+Fort Washington|US|Maryland|48|2zj|-5xy|6l|Ft. Washington
+Fort Walton Beach|US||2f|2ci|-6om|62|Ft Walton Beach
+Fort Saskatchewan|CA||2s|456|-8qh|46|Fort Saskačevanas;Ft Saskatchewan
+Fort Carson|US||2p|2zm|-833|3u|Ft Carson
+Fort Campbell North|US||2f|2tt|-6qy|3t|Ft Campbell
+Fort Recovery|US||48|349|-6ji|e|Ft Recovery;Recovery
+Fteliá|GR||8p|364|1v7|6
+Ftéri|GR||8p|302|1p9|5|Ptéri

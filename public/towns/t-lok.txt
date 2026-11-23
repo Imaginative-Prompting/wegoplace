@@ -1,0 +1,67 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Los Angeles|US||3p|2ml|-94g|thd|L.A.;Los-Anĝeleso;Angelopolis;Los Andželas;Los Anxhelos;Los Anxheles;Os Ánxeles;Losandželosa;Los Anjélés;Lo̍k-chhám-kî;Los-Anceles;Los-Anjeles;Luos Andžels;Los Andželes
+Luoyang|CN|Henan|7i|2ob|8oc|aqa|Lạc Dương;Luo-jang;Luojangas;Lŭojango;Lŏk-iòng;Lojang;Lo̍k-iông-chhī;Lo-yang
+Leshan|CN||7i|2a4|808|544|Le-šan;Lạc Sơn;Lŏk-săng;Lo̍k-san-chhī;Lo-shan
+Luojiang|CN||7i|2ey|82a|1my|Lokiang
+Lào Cai|VN||62|1qh|80t|10b|Ló-kiê-sṳ;Laokajus;Laos;Laokai
+Lokoja|NG||u|lo|iq|gu|Zokoja
+Lokossa|BJ||1b|ig|4s|d4|Locossa
+Lokeren|BE||8t|3xy|b3|bi
+Lokbatan|AZ||61|341|3u5|8j
+Locarno|CH||a7|3k9|og|4e|Lokarno;Lokarnas;Locarn;Locarnum;Locarnu
+Loyang|SG||7j|3u|80t|49|Lokyang
+Lok Fu|HK||6i|1q2|8t7|3y
+Lokichar|KE||16|6m|2r1|3j
+Lokot’|RU||9i|421|2o2|3b|Lokot
+Lokichokio|KE||16|bp|2nf|38|Lokichogio;Lokiehoggio;Lokkichoggio;Lokichoggio;Lokichiogio
+Lokhvytsya|UA||98|3vw|2kf|32|Lokhvytsia
+Lokomotivnyy|RU||7z|43c|4oe|2z|Lokomotivnyj
+Lok Fu Estate|HK||6i|1q2|8t7|2r
+Lokbonoun|CI||0|mf|-en|2q
+Lộc Bình|VN||62|1og|890|2m|Loc Rinh;Lok-binh
+Løkken|DK||8y|4fd|qz|2g|Lekken
+Lok Man Sun Chuen|HK||6i|1q0|8t7|2f
+Saint-Renan|FR||9k|3qj|-cu|20|Lokournan
+Kemajuan Tanah Lok Heng Barat|MY||6v|4s|815|1r|Lok Heng
+Lokossou|CI||0|ic|-ki|1k
+Loknya|RU||9i|4dv|2bq|1c|Loknja
+Lok Hin Terrace|HK||6i|1pu|8tc|18
+Locmiquélic|FR||9k|3ol|-9a|16|Lokmikaelig
+Loxton|AU||8b|-2np|auh|13|Lokston
+Lokvine|BA||9r|3es|1dm|13|Lokrine
+Lokosovo|RU||7z|4pt|5ru|13
+Loctudy|FR||9k|3ov|-bl|13|Loktudi;Locus Tudini
+Lokachi|UA||98|3wy|1wh|11|Łokacze;Lokatschi;Lokatji;Lokačiai;Lokači;Lokatchi;Lokache
+Lokve|RS||8q|3hf|1mf|z
+Loksa|EE||9x|4li|1zg|z
+Locust Valley|US||48|35k|-5og|y|Lokusta Valo
+Loket|CZ|Carlsbad Region|9m|3vf|zf|v
+Lokolo|CI||0|os|-i0|s|Sokolo;Bokolo
+Luuk Datan|PH||71|dd|98x|q|Lokdatan
+Locoal-Mendon|FR||9k|3oj|-8n|n|Lokoal-Mendon;Locus Guduali
+Lőkösháza|HU||8v|3kz|1mz|k
+Sainte-Marie|FR|Brittany|9k|3oh|-5k|j|Lokmaria-Redon
+Saint-Gildas-de-Rhuys|FR||9k|3ny|-7w|f|Lokentaz;Sanctus Gildasius Ruiensis;Saint-Gildas-de Ruis;Saint-Gildas de Ruys
+Lok|RS||8q|3hm|1k5|f|Sajkáslak;Lock;Loók
+Lokwabe|BW||m|-1v5|1on|f
+Locmariaquer|FR||9k|3o5|-87|f|Lokmaria-Kaer
+Locquirec|FR||9k|3r9|-a5|e|Lokireg;Locus Kireci
+Lokhovo|UA||98|3qr|1r0|c|Beregszőllős;Lochovo;Lokhove
+Lokavec|SI||9a|3ji|12k|b|Loccaviz;Locavizza di Aidussina;Lokovec
+Loksbergen|BE||8t|3xh|e3|a|Loxbergen
+Locmaria-Grand-Champ|FR||9k|3oo|-7r|9|Lokmaria-Gregam
+Løkken Verk|NO||9j|4vd|qz|9|Løkken;Løkken Værk
+Lokassou|CI||0|kz|-e1|9
+Locunolé|FR||9k|3p6|-9o|9|Lokunole;Locus Guengualoei
+Lokovica|SI||9a|3ks|15t|9
+Løken|NO||9j|4m4|vv|9
+Locronan|FR||9k|3pm|-bp|8|Lokorn;Locus Ronani
+Loka pri Mengšu|SI||9a|3k7|14h|8
+Lokev|SI||9a|3iu|12p|8|Corgnale
+Locquénolé|FR||9k|3r2|-aq|8|Lokenole;Locus Guenolay
+Lokpasso|CI||0|n6|-g3|8
+Lokorsko|BG||9v|3av|1t5|8
+Unterfrauenhaid|AT||a2|3o5|19u|7|Lók;Svetica
+Loker|BE||8t|3x2|7p|6|Locre
+Loket|CZ|Central Bohemia|9m|3ty|160|5
+Lokve|SI||9a|3io|165|5

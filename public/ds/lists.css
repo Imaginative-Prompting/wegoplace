@@ -1,0 +1,109 @@
+/* Lists: what a trip is mostly made of. A day's header, the rows under it (a person in them is avatar.css), and the
+ * money column. Space and hairlines group them: a hairline above each day, none between rows, no boxes. Sizes,
+ * colours and spacing all come from NeedWright's tokens. */
+
+/* A day (or any group) in a list: sentence case, quiet, a hairline above it. The first in a list has none. */
+.ds-day {
+  font-size: var(--size-14);
+  line-height: 20px;
+  color: var(--ink-2);
+  padding: 14px 0 6px;
+  border-top: 1px solid var(--hair);
+}
+.ds-day:first-child { border-top: 0; padding-top: 0; }
+
+/* A row: an optional lead (an initials mark, an icon), the words, and an optional right column (an amount). */
+.ds-item {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  column-gap: 12px;
+  align-items: center;
+  min-height: var(--control-44);
+  padding: 10px 0;
+  color: var(--ink-1);
+}
+.ds-item:not(:has(> .ds-item-lead)) { grid-template-columns: 1fr auto; }
+.ds-item-lead { display: grid; place-items: center; }
+.ds-item-main { min-width: 0; }
+/* A name wraps to a second line before it is cut, and is cut only after two. */
+.ds-item-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  font-weight: 600;
+  line-height: 22px;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+}
+.ds-item-sub {
+  display: block;
+  font-size: var(--size-14);
+  line-height: 20px;
+  color: var(--ink-2);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.ds-item-trail { text-align: right; }
+.ds-item-trail > .ds-amount { display: block; }
+.ds-item-trail .ds-item-sub { white-space: nowrap; }
+
+/* A row that opens something answers the press at once, on the whole row. */
+a.ds-item, button.ds-item {
+  border: 0;
+  background: none;
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+  border-radius: var(--radius-16);
+  margin-inline: -8px;
+  padding-inline: 8px;
+  width: calc(100% + 16px);
+  transition: background var(--dur-150) var(--ease-standard);
+}
+a.ds-item[data-press="1"], button.ds-item[data-press="1"] { background: var(--fill-hover); }
+@media (hover: hover) and (pointer: fine) {
+  a.ds-item:active, button.ds-item:active { background: var(--fill-hover); }
+}
+
+/* Money and times in a list: their digits line up on one edge. */
+.ds-amount {
+  font-family: var(--type-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+  font-size: var(--size-16);
+  font-weight: 400;
+  line-height: 22px;
+  color: var(--ink-1);
+}
+.ds-item-sub .ds-amount { font-size: var(--size-14); line-height: 20px; color: inherit; }
+
+/* A row of options in a sheet: a label at the left, the answer at the right, a chevron. A hairline between. */
+.ds-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 48px;
+  border-top: 1px solid var(--hair);
+  width: 100%;
+  background: none;
+  border-left: 0; border-right: 0; border-bottom: 0;
+  padding: 0;
+  font: inherit;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.ds-option:first-child { border-top: 0; }
+.ds-option-label { color: var(--ink-2); }
+.ds-option-value { display: inline-flex; align-items: center; gap: 6px; color: var(--ink-1); }
+.ds-option-value svg { width: 16px; height: 16px; color: var(--ink-4); }
+
+/* A new row arrives where it belongs, and the rows under it make room (the list's own code moves them; this is how
+ * the arriving one enters). Reduced motion: it is simply there (base.css). */
+@keyframes ds-arrive {
+  from { opacity: 0; transform: translateY(-6px); }
+}
+.ds-item[data-arriving] { animation: ds-arrive var(--dur-320) var(--ease-standard) both; }

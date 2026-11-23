@@ -1,0 +1,101 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sagamihara|JP||7q|2qt|aqs|5k8
+Zagreb|HR||a6|3j9|18e|54c|Záhřeb;Zágráb;Zagabria;Zagrzeb;Zagrep;Agram;Zagabbria;Sakreb;Ságrab;Zagavria;Sagreb;Zaqreb;Sagwzlwgbouh;Zagrev;Zagrabia
+Saga|JP||7q|2kb|a1y|1st
+Shagamu|NG||u|j1|a5|1nm|Sagamu
+Saqqez|IR||7o|2sp|3kj|19x|Sakezo;Seqiz;Saqqız;Sakkiz;Sakez;Saggız;Saqez;Saghghez;Sakīz;Saghez
+Saguenay|CA||59|3qi|-5hf|15d|Sagenė
+Sarh|TD||17|pf|1f2|12l|Sagh
+Türkmenbaşy|TM|Balkan|5x|336|434|ph|Turkmenbaszy;Turkmenbashi;Krasnovodsk;Turkmėnbašis;Türkmenbaşî;Turkmanboshi;Turkmenbachi;Shagadam;Türkmenbashy;Krassnowodsk;Krasnowodsk;Şagadam
+Sagaing|MM||7y|1os|7em|lv|Sagang
+Sagay|PH|Western Visayas|71|ue|9iu|k2
+Sagunto|ES||9d|328|-r|id|Sagunt;Sagonte;Saguntum;Morvedre
+Sagua la Grande|CU||36|1rd|-66f|h9
+Sāgar|IN||6t|13c|5sf|f6
+Sagrada Família|ES||9d|370|61|ec
+Saginaw|US|Michigan|2q|3cm|-6h7|dp|Saginava
+Sagae|JP||7q|2yl|atn|c3
+Sagauli|IN||6t|22c|6je|as|Sugauli;Saghauli;Saganli
+Sāgwāra|IN||6t|1ts|5pm|86
+Sagara|JP||7q|2od|anw|77
+Żagań|PL||a5|3ze|16j|75|Sagan;Zaháň;Saganum;Jaganʻ;Jaqan;Zegań
+Saginaw Township North|US||2q|3cq|-6hd|6y
+Sagurē|ET||2|lj|30r|6x|Saggure
+Saginaw|US|Texas|2f|2ja|-7ig|65
+Sagua de Tánamo|CU||36|1l6|-5t0|53|Sagua de Temamo
+Sagrada Familia|CL||4u|-2p8|-5ia|4w
+Saginomiya|JP||7q|2r8|arw|4m
+Sagalo|ML||5|xw|-tq|4e|Sagallo
+Sagana|KE||16|-1v|2vd|3m
+Sagopshi|RU||9i|3ct|3fv|3a|Sagopsji;Sagopsh
+Shagonar|RU||6u|3z5|765|36|Sjagonar;Šagaan-Aryg;Shagaan-Aryg;Shagokar;Shagan-Aryg
+Sagarejo|GE||7n|37y|3hx|2u
+Sago|CI||0|en|-gg|2q
+Sage Hill|CA||2s|3y6|-8t2|2l
+Sagboya|CI||0|gl|-j7|2k
+Sagné|MR||19|168|-zj|2c
+Sagang|PH||71|ss|9hv|29
+Saguday|PH||71|19y|9do|23
+Sagna|RO||8u|3mi|232|22
+Šahy|SK||8s|3pj|1gn|1y|Ság;Ipolyság;Ipoly Ságh;Šahi
+Sagpon|PH||71|10j|9jp|1w
+Saggez Ābād|IR||7o|2rd|3uq|1j|Sakezābād;Sagzābād;Sagezābād
+Săgeata|RO||8u|3ha|22y|1i
+Saguing|PH||71|je|9ng|1f
+Sagzī|IR||7o|2it|40s|1f|Saghzi;Sajzī;Segzī
+Sagnino|IT||9o|3jb|p4|1e
+Sées|FR||9k|3r0|h|1e|Sagii
+Sagbayan|PH||71|rj|9kp|1d
+Sāgbāra|IN||6t|1nu|5oz|19
+Şag|RO|Timiș County|8u|3it|1mu|19|Saág
+Sāghravan|IR||7o|2tg|4ks|19|Sāqravān
+Sagan-Nur|RU||6k|3ym|8d8|14
+Sagasa|PH|Western Visayas|71|t3|9hd|14
+Sagnay|PH||71|11s|9j4|12
+Sagud-Bahley|PH||71|18s|9af|12|Sagud Baley
+Şagu|RO||8u|3jx|1n4|12|Ság
+Saga|CN||7i|29g|6kr|12|Kyakyaru
+Sagamore|US||48|381|-5fx|10
+Sagvåg|NO||9j|4m2|ez|y
+Sagasa|PH|Autonomous Region in Muslim Mindanao|71|it|9m1|y
+Sagay|PH|Northern Mindanao|71|pb|9mg|x
+Saggart|IE||8z|440|-hw|v|Teach Sagard
+Sagrada|PH||71|11l|9ix|u
+Sauvo|FI||92|4nm|1r2|u|Sagu
+Sagard|DE||8r|47h|11n|t
+Sagada|PH||71|1bg|9bu|s
+Sagana|PH|Central Luzon|71|179|9cj|p|Susana
+Sagrada Família|BR||4w|-24z|-43m|p
+Sagres|BR||4w|-1os|-3xk|p
+Sagana|PH|Mimaropa|71|zc|9dh|n
+Sag Harbor|US||48|35w|-5kt|n|Sagg Harbor
+Sagurong|PH||71|12a|9hk|m
+Sagrada Familia|PH||71|10v|9is|m
+Sagunto|PH||71|190|9ar|l|Sagundo
+Sagacad|PH||71|ld|9im|l
+Saguipleu|CI||0|k1|-ll|k|Sagipleu
+Sagres|PT||99|2ut|-ou|j
+Prymorske|UA|Odesa|98|3ix|2as|i|Şagani;Prymors'ke
+Sağırın|TR||94|2ut|2er|h
+Sagliano Micca|IT||9o|3ir|mc|f
+Sagoura-Dougoula|CI||0|lr|-ji|d
+Sagalee|IN||6t|23n|77q|d
+Sagrado|IT||9o|3jf|11g|d|Sagrat
+S'Agaró|ES||9d|383|8h|c|Sagaro
+Sağlıklı|TR||94|2uv|2oz|c
+Sagy|FR|Île-de-France|9k|3s9|5f|c
+Sagy|FR|Bourgogne-Franche-Comté|9k|3lg|er|b
+Sahaydak|UA||98|3u5|2me|b|Sahaidak;Sagaydak
+Sağdıç|TR||94|31s|3ef|b
+Saegertown|US||48|37w|-66n|a|Saegers Town;Saegerstown;Sagertown;Sagerstown
+Ságújfalu|HU||8v|3pm|1io|a
+Sagarpur|IN||6t|2ed|5u4|9
+Sagriès|FR||9k|3e6|ca|9
+Saguiahui|CI||0|me|-99|9
+Sâg|RO|Sălaj County|8u|3ms|1ra|9|Sîg
+Sagiáda|GR||8p|322|1k3|8|Sayiádha
+Sagone|WS||aj|-121|-dbi|8
+Sagrada Familia|MX||41|1o6|-7m2|7
+Sagui-Konankro|CI||0|km|-d5|6
+Sågmyra|SE||9w|4oo|16g|6
+Altıntaş|TR|Bursa Province|94|32q|282|5|Sağırlar

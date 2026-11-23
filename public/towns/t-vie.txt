@@ -1,0 +1,135 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Vientiane|LA||7v|1dx|7x0|6hl|Viangchan;Wientian;Vienciana;Vientian;Viêng Quý;Viengtjan;Vientianas;Vyantyàn;Wyéntyan;Viengchan;Vjentiano;Vyentyan;Wiangcan;Vianchan;Fanhyiengh;Wiën Tsjan;Vjenčana;Ventyan;Vjentjan;Vieng-Chan;Vien Can;Vien Chang;Wiang Chan;Vieng-Cæn;Vientane;Viang chan
+Việt Trì|VN||62|1n8|84s|37d|Vietri
+Việt Yên|VN||6h|1n3|86t|1l7
+Le Vieux-Longueuil|CA||59|3ii|-5o7|11k
+Vĩnh Yên|VN||62|1n7|85c|x3|Vieh Yen
+Ciutat Vella|ES||9d|36y|61|sf|Vieille ville de Barcelone
+Viersen|DE||8r|3yd|hr|l6|Veeëse
+Viedma|AR||1s|-35e|-4v0|dl|Vjedma
+Staré Mesto|SK||8s|3pr|1bh|ct|Old Town;Vieille ville;Malnova Urbo;Stari grad;Stare Miasto;Ciudad Vieja;Bratislavan vanhakaupunki
+Wiener Neustadt|AT||a2|3os|193|cg|Dunajsko Novo mesto;Viedenské Nové Mesto;Bécsújváros;Wr. Neustadt;Bécsújhely;Német-Újhely;Vyner Noištatas;Weana Neistod;Vídeňské Nové Město;Nova civitas Vindobonensis;Bečko Novo Mjesto
+Old City|PS||6g|2ga|2pv|a0|Altstadt;Stari grad;Vieille Ville;Città Vecchia
+Viernheim|DE||8r|3tm|nu|92|Vernem
+Vienne|FR||9k|3ih|dj|8z|Viena del Delfinat;Vièna;Viana
+Vierzon|FR||9k|3n6|5r|8b
+Wieluń|PL||a5|3ya|1fl|60|Vielun;Veliunis;Veluņa
+Vienna|US|Virginia|48|302|-5yn|4l
+Viewpark|GB||9b|4b3|-ba|4g
+Breisach am Rhein|DE||8r|3pf|l2|40|Vieux-Brisach;Breisach
+Kem’|RU||9i|50g|2o3|3u|Kem;Vienan Kemi;Kemi;Ken
+View Royal|CA||5b|3qm|-9ix|38
+Vienenburg|DE||8r|40b|tc|36
+Virton|BE||8t|3tp|fd|35|Vierton
+Vieste|IT||9o|38c|18x|34
+View Park-Windsor Hills|US||3p|2mg|-94r|33
+Vieux-Condé|FR||9k|3w6|9x|30
+Viera East|US||48|26i|-687|30
+Vienna|US|West Virginia|48|319|-6aj|2y
+Voskresenskyi-1|UA||98|3w7|2d0|2o|Vietnam;V'yetnam;Việt Nam
+Wiener Neudorf|AT||a2|3pk|19b|2m|Vienos Noidorfas
+Viechtach|DE||8r|3sc|zt|2f|Veita
+Vieille Chapelle|FR||9k|3c5|ey|2a
+Viertola|FI||92|4nh|1xh|28|Bäckby
+Visp|CH||a7|3kl|lw|27|Viège
+Vieux-Habitants|GP||31|18m|-4rl|25
+Vielsalm|BE||8t|3vo|gg|21|Li Viye Såm
+Verkhnedvinsk|BY||9g|4ay|25m|1w|Vyerkhnyadzvinsk;Drysa;Vierchniadzvinsk
+Viewbank|AU||8j|-2wu|b71|1w
+Viera West|US||48|26h|-689|1u
+Vieille Ville|FR||9k|3de|k8|1s|Nizza Vecchia;Città Vecchia;Vieux Nice
+Staré Město|CZ|Prague|9m|3v5|142|1r|Prager Altstadt;Old Town;Ciudad vieja;Vieille Ville;Città Vecchia;Oude Stad;Malnova Urbo;Pragako Hiri Zaharra;Óváros;Stare Miasto;Cidade Velha;Praški stari grad
+Wieleń|PL||a5|42x|18x|1p|Vielenė;Veleņa;Filehn;Filehne
+Vieira de Leiria|PT||99|32r|-ot|1m
+Vieux-Montréal|CA||59|3if|-5oa|1j
+Vielha|ES||9d|3am|28|1i|Viella;Viella Mitg Arán
+Vieirópolis|BR||2w|-i6|-2yc|1d
+Vieux Fort|LC||52|124|-4pb|1a
+Vievis|LT||a3|485|1wx|19|Vevis;Vievio;V’yevis;Viyevis
+Viehofen|AT||a2|3pz|17g|19
+Vieques|PR||4m|1f6|-52v|17
+Vierkirchen|DE||8r|3qd|vv|16
+Vihiers|FR||9k|3mz|-1h|15|Vierium
+Viejo Daan Banua|PH||71|ua|9hu|14|Daan Banua;Da-an Banwa
+Vietri sul Mare|IT||9o|34z|14x|13
+Vienna|US|Georgia|48|2h5|-6gs|12
+Vieiras|BR||4w|-1lz|-39c|11
+Viereth-Trunstadt|DE||8r|3uo|ty|11
+Viesca|MX||44|1ye|-7xl|10
+Vieillevigne|FR||9k|3mh|-3z|z|Henwinieg
+Viewegs Garten|DE||8r|416|ta|y
+Vieremä|FI||92|4x3|232|y
+Vieux-Thann|FR||9k|3os|js|v
+Vieux-Charmont|FR||9k|3o0|j0|q
+Oud-Vossemeer|NL||8m|3z9|bo|o|Vieux-Vossemeer;Ou-Vossemaer;Oud Vosmeer
+Viesville|BE||8t|3w9|c9|n
+Vieux-Berquin|FR||9k|3wt|7c|n
+Viernau|DE||8r|3wq|tc|m
+Vieselbach|DE||8r|3xo|uz|m
+Viehhausen|AT||a2|3oq|102|l
+Vieux-Genappe|BE||8t|3wl|cc|k
+Vieil-Aklodj|CI||0|f2|-c3|k
+Viekšniai|LT||a3|4c8|1qk|j|Viekšņi;Vėikšnē;Wieksznie;Viekšnių
+Vietri di Potenza|IT||9o|34s|173|j
+Viečiūnai|LT||a3|466|1uu|i|Viecūnai
+Vieira do Minho|PT||99|37n|-mm|h
+Vienna|US|Illinois|2f|2vy|-6uy|g
+Vienne-en-Val|FR||9k|3os|5x|g
+Vieux Badien|CI||0|ex|-cu|g
+Vieux-Boucau-les-Bains|FR||9k|3dn|-3w|f
+Viesīte|LV||9n|4cj|1z0|f|Vesite;Viyesite
+Vierset-Barse|BE||8t|3w8|eq|e
+Vierumäki|FI||92|4no|1xk|e
+Viereck|DE||8r|44r|130|e
+Viesly|FR||9k|3vb|9m|e
+Viechtwang|AT||a2|3p4|12s|d
+Wiang Nuea|TH||62|1hu|7lh|d|Vieng Nuea
+Viersel|BE||8t|3y7|cx|d
+Vienna Bend|US||2f|2g5|-76g|d
+Vierpolders|NL||8m|404|bm|c
+Vieille-Église|FR||9k|3xh|5s|c
+Vieille-Brioude|FR||9k|3hq|9g|c
+Vierlanden|ZA||o|-2lx|1fu|c
+Vielmur-sur-Agout|FR||9k|3d6|5u|b|Vièlhmur
+Villes-sur-Auzon|FR||9k|3ee|ej|b|Vielas dAuson
+Vielle-Saint-Girons|FR||9k|3e3|-3m|b
+Viennay|FR||9k|3lp|-o|b
+Vierșani|RO||8u|3go|1td|a
+Vieille-Toulouse|FR||9k|3cw|40|a
+Vieru|RO||8u|3dx|1zp|a
+Vienna|US|New Jersey|48|35j|-5s1|a
+Viels-Maisons|FR||9k|3ru|9g|a
+Vierhöfen|DE||8r|43z|se|a
+Vieux Ousrou|CI||0|f2|-cm|9
+Vieux-Vy-sur-Couesnon|FR||9k|3qa|-45|9|Henwig-ar-C'houenon;Henwig-ar-Chouenon;Vieux-Vy-sur-Cuesnon
+Viemme|BE||8t|3wp|en|9
+Le Vieil-Évreux|FR||9k|3s4|3g|8|Vieil-Evreux
+Vierden|DE||8r|445|qf|8
+Vieille-Église-en-Yvelines|FR||9k|3r7|58|8
+Veitsrodt|DE||8r|3u8|ka|7|Vietsrodt
+Vieille Case|DM||2r|17d|-4ql|7|Vielle Case;Veille Case
+Vieille-Chapelle|FR||9k|3wj|7i|7
+Vielank|DE||8r|43w|uy|7
+Vieux Vouzan|FR||9k|3io|z|7|Vosan
+Viessoix|FR||9k|3ro|-28|7
+Viehdorf|AT||a2|3pr|15d|7
+Vieux-Manoir|FR||9k|3tp|3m|7
+Vieux-Rouen-sur-Bresle|FR||9k|3uf|4s|7
+Vienna Center|US||48|36j|-681|7
+Vienne-le-Château|FR||9k|3sn|dl|6
+Vieux-Moulin|FR||9k|3t7|85|6
+Vieux|FR||9k|3sf|-17|6
+Vieilley|FR||9k|3ni|gw|6
+Viehhofen|AT||a2|3nl|zd|6
+Evenskjer|NO||9j|5ai|1a1|6|Skearri;Viervá;Evenskjær
+Vienna|US|Missouri|2f|2y3|-73f|6
+Viejo Nicapa|MX||41|1ce|-76x|6
+Vielbach|DE||8r|3wb|ll|6
+Viella|FR||9k|3d4|-e|6
+Vieux-Ferrette|FR||9k|3ny|ka|6
+Vienna|US|Maine|48|3fp|-5ee|5
+Viens|FR||9k|3dx|fh|5
+Vieux-Mesnil|FR||9k|3vl|aq|5
+Vielist|DE||8r|44r|z4|5
+Vierves-sur-Viroin|BE||8t|3v4|cv|5

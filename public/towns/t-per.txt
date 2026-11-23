@@ -1,0 +1,509 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Perth|AU|Western Australia|8k|-2gr|8xu|iec|Pertas;Peairt;Perto;Pērta;Pirth;Pet;Pert
+Perm|RU||7z|4h5|4c9|7kw|Molotov
+Pereira|CO||27|dd|-5u9|3lt
+Kyzylorda|KZ||7d|3gl|51z|2qk|Qızılorda;Perovsk;Kzyl-Orda;Ak-Mechet;Fort Perovsky;Qysylorda;Qyzylorda;Khizilordà;Kõzõlorda;Kizilorda;Qiziloʻrda
+Percut|ID||6l|a3|7mm|2ef
+Parma|IT||9o|3gg|sp|1j3|Parme;Pèrma
+Peoria|US|Arizona|4i|2la|-8ns|1h2|Periora;Peorija
+Prizren|XK||8q|399|1lm|1bn|Përzeren;Perzerin
+Perbaungan|ID||6l|9x|7mw|17o
+Peristéri|GR||8p|2xm|1tt|12w
+Pervouralsk|RU||7z|4e3|4mi|114|Pervouralszk;Pervouraljsk;Perwouralsk;Pervoural’skiy;Pervoural’sk
+Perugia|IT||9o|3br|yf|xd|Pérouse;Perusa;Perusia;Perosa
+Novo-Peredelkino|RU||9i|4al|2vq|w3
+Perpignan|FR||9k|3am|82|ur|Perpinyà;Perpiñán;Perpinhan;Perpinhã;Villa Perpiniarum;Perpinyà la Catalana;Perpinianum;Perpinjano;Perpinyán;Perpiņāna;Perpinia;Perpinjanas
+Prabumulih|ID||6l|-9j|81j|sr|Prabumuli;Perabumulih
+Perdizes|BR|São Paulo|4w|-1te|-3lo|sg
+Perling|MY||6v|44|800|s5
+Pergamino|AR||1l|-2m5|-4o9|pe
+Perus|BR||4w|-1t0|-3lv|oe
+Pernik|BG||9v|3ac|1rz|mx
+Perris|US||3p|2lu|-91n|ku|Haltsooítah Béésh
+Prilep|MK||9u|36v|1nv|ki|pirlepe;Perlepé;Perlepes
+Peruíbe|BR||4w|-1vk|-3mk|j0|Peruhybe
+Przemyśl|PL||a5|3ua|1r9|im|Peremyšlis;Premislia;Pšemisla;Přemyšl;Peremyshl’;Pshemys’l’
+Perai|MY||6v|ey|7qu|i5|Prai
+Piripiri|BR||2w|-bv|-382|hq|Periperí
+Pervomaysk|UA||98|3pg|2dp|hc|Perwomajsk;Pervomaïsk;Pervomajsk;Pervomays’k
+Bergama|TR||94|30o|23i|fw|Pérgamo;Pergame;Pergamon;Pergamum;Pergamos
+Periya Semūr|IN||6t|vk|5zt|fd
+Pirojpur|BD||6a|1qq|6xy|f4|Perijpur
+Perth Amboy|US||48|34j|-5qb|en
+Peranāmpattu|IN||6t|zx|62o|e9|Peranāmbattu
+Perintalmanna|IN||6t|ui|5vr|dt|Perinthalmanna
+Perambalur|IN||6t|v7|634|ds
+Perth|GB||9b|4co|-9j|d6|Peairt;Pairth;Pertas;Pert
+Taman Permas Jaya|MY||6v|47|80e|ci|Permas Jaya
+Kampung Perak|MY||6v|ar|7wz|ci|Perak
+Perungudi|IN||6t|100|66w|bz
+Periyakulam|IN||6t|s4|5ze|by
+Perumbaikad|IN||6t|qq|5wl|bw
+Pirna|DE||8r|3xk|12q|b7|Pěrno
+Peringathur|IN||6t|wj|5tz|b7
+Pereslavl’-Zalesskiy|RU||9i|4dm|2zy|b7|Pereslavl-Zalesskij
+Pärnu|EE||9x|4i7|1w2|b6|Pernau;Piarnu;Pērnava;Parnawa;Pernavia
+Perote|MX||41|1ic|-7i4|af|Pinahuizapan
+Perunkalattu|IN||6t|zw|66g|ad
+Peringottupulam|IN||6t|un|5ve|a6
+Sokolohirsk|UA||98|3r3|2z0|a1|Pervomaysk;Pervomays’k;Pervomaisk;Pervomajsk;Perwomajsk;Sokolohirs'k;Pervomaika
+Perumanna|IN||6t|v9|5ut|9v
+Perunād|IN||6t|ov|5ww|9s
+Peruvallur|IN||6t|uu|5ux|9p
+Périgueux|FR||9k|3hj|1z|9o|Perigüers;Perigė;Petrocorium;Perigús;Périguex
+Le Perreux-sur-Marne|FR||9k|3rp|6y|8w|Perreux-Sur-Marne
+Zlatopil|UA|Kharkiv|98|3t6|2sm|7x|Pervomaiskyi;Perwomajskyj;Lichatschewo;Likacheve;Slatopil
+Perry Hall|US||48|31h|-5we|7x
+Perumbavoor|IN||6t|s3|5wf|7t
+Shakhtarske|UA||98|3qb|2t4|7o|Perchotravensk;Peršotravensk;Perschotravensk;Perschotrawensk;Schachtarske;Šahtarske;Chakhtarske;Szachtarśke;Šachtarske
+Permatang Kuching|MY||6v|f6|7qu|7k
+Perumpāvūr|IN||6t|s4|5wg|7j
+Pereiaslav|UA||98|3v3|2fd|7b|Pereyaslav;Perejaslaw;Perejaslav;Perejaslawl
+Periyanayakkanpalaiyam|IN||6t|uz|5xr|77
+Pérama|GR|Attica|8p|2xh|1th|72
+Perundurai|IN||6t|vc|5zj|6x|Perundural
+Perevalsk|UA||98|3qk|2zv|6w|Pereval’s’k;Perevaljsk;Perewalsk;Pereval’sk
+Pérez|AR||1n|-2jo|-4ot|6s
+Pereira Barreto|BR||4w|-1lc|-3xz|6p
+Perico|CU||36|1r9|-692|6p
+Berehove|UA|Zakarpattia|98|3px|1qw|6h|Berehowo;Berehowe;Beregszász;Beregove;Peregium;Bereg;Bergsaß;Lampertsháza
+Peringat|MY||6v|gr|7w4|6h
+Peravurani|IN||6t|sl|640|65|Peravurni
+Perrysburg|US||48|37g|-6gb|5y
+Perdões|BR||4w|-1ml|-3h9|5y
+Perinjanam|IN||6t|sn|5vj|5u
+Peritoró|BR||2w|-c6|-3f5|5p
+Pertuis|FR||9k|3dd|fa|5j
+Perdriel|AR||1q|-2jv|-5bd|5d
+Peraía|GR||8p|34i|1rp|53
+Periyakottai|IN||6t|tf|5yo|4u
+Perdizes|BR|Minas Gerais|4w|-1hr|-3nd|4s
+Peralassery|IN||6t|wv|5to|4o
+Péruwelz|BE||8t|3wb|9z|4m|Piérwé;Perwé-e-Hinnot
+Pèrèrè|BJ||1b|r8|8a|4f
+Persianovka|RU||9i|3o1|31i|4d|Persianovskij;Persianovskiy
+Periyapatti|IN|Tamil Nadu|6t|v5|613|4d
+Perry Vale|GB||9b|3yw|-4|4c
+Perry|US|Georgia|48|2i6|-6gl|4b
+Peribán de Ramos|MX||41|1i8|-7wi|4a
+Pereiro|BR||2w|-gs|-2yu|49
+Perchtoldsdorf|AT||a2|3po|197|46|Pädaschduaf;Petersdorf
+Peresvet|RU||9i|4cq|2y2|46|Pereswet;Pjerjeswjet;Pierieswiet
+Pérgamos|CY||73|2pc|2ln|46|Pergama
+Perole|IN||6t|y2|5sq|46
+Pervomaysk|RU||9i|48f|3do|44|Pervomajsk
+Bachi-Yurt|RU||9i|3c2|3kb|44|Batsji-Jurt;Bwaçin-Yurt;Krasnoarmeyskoe;Pervomayskoe;Bači-Jurt;Pervomayskoye;Krasnoarmeyskoye;Pervomaysk;B‘açin-Yurt
+Kuala Perlis|MY||6v|hs|7q5|3v|Perlis Port
+Perth city centre|AU||8k|-2gr|8xt|3t|Perth CBD
+Perumahan Negara Panchor|BN||66|dt|8vi|3q
+Peramangalam|IN||6t|td|5vl|3p
+Pervomayskiy|RU|Tambov Oblast|9i|43x|33x|3o|Pervomajskij
+Pervomayskiy|RU|Zabaykalskiy (Transbaikal) Kray|67|3zi|8x6|3n|Pervomajskij
+Perleberg|DE||8r|43g|wy|3n|Perlberg
+Périer|FR||9k|3c8|ey|3l
+Pyrzyce|PL||a5|43n|15d|3l|Përzëca;Pižice
+Perehinske|UA||98|3rl|1v7|3j|Perehińsko;Pereginske
+Perya|IN||6t|wv|5up|3j|Periya
+South Perth|AU||8k|-2gu|8xv|3i|Perth South
+Perafita|PT||99|36e|-mx|3h
+Periyakoduveri|IN||6t|vw|5yq|3f
+Perdigão|BR||4w|-1jf|-3h8|3f
+Pēragam|IN||6t|tg|5v6|3d
+Perşembe|TR||94|363|2wx|3a
+Pergine Valsugana|IT||9o|3jy|v8|37|Perigine Valsugana
+Pérola|BR||4w|-1u4|-454|35
+Perur|IN|Andhra Pradesh|6t|11u|64i|33
+Peri Mirim|BR||2w|-76|-3gl|33
+Peru|US|Indiana|38|357|-6n3|33
+Perrelos|PH||71|s4|9jj|32
+Pervomayskiy|RU|Tula Oblast|9i|464|2w7|31|Pervomajskij
+Pernes-les-Fontaines|FR||9k|3e8|e2|31|Pèrnas dei Fònts
+Periyapatti|IN|Tamil Nadu|6t|tw|5yn|2y
+Peraiyur|IN||6t|r2|603|2w
+Peru|US|Illinois|2f|36t|-6vl|2s
+Periyapattinam|IN||6t|pr|636|2p
+Pereshchepyne|UA||98|3s7|2q9|2p|Péréchtchépyné
+Perevolotskiy|RU||7z|404|46j|2p|Perevolotskij;Perevolotskoye;Perevolotski;Perevolotskaya;Perevolotsk
+Pero|IT|Lombardy|9o|3if|p9|2o
+Pervomayskiy|RU|Chelyabinsk|7z|48f|4px|2n|Pervomajskij
+Perl|DE||8r|3tf|hq|2m
+Persan|FR||9k|3sj|6b|2l
+Perryton|US||2f|2t4|-7s0|2l
+Perevoz|RU||9i|4ag|3fr|2k
+Piripá|BR||20|-15i|-37w|2k|Peripá
+Pervomayskoye|RU|Dagestan|9i|3e0|3lr|2j|Pervomayskiy
+Péronne|FR||9k|3up|86|2i
+Perondi|AL||9y|35a|1jc|2i|Perhondia;Perhondi
+Pervomayskoye|RU|Dagestan|9i|3a2|3p2|2h|Pervomajskoje
+Pérols|FR||9k|3d0|az|2g|Peròus
+Pereiras|BR||4w|-1s4|-3pa|2f
+Perumpāndi|IN||6t|uh|64h|2e
+Pereyaslovskaya|RU||9i|3jc|30e|2d|Perejaslovskaja;Pereyaslavskaya
+Perkasie|US||48|345|-5t5|2d|Perkasey
+Pervomayske|UA|Crimea|9t|3j0|2m2|2d|Ğurtču;Pervomaiske
+Perry Heights|US||48|35c|-6ab|2c
+Perryville|US|Missouri|2f|2ws|-6xm|2c
+Perūr|IN|Tamil Nadu|6t|ui|5xn|2b
+Perry|US|Iowa|2f|388|-79f|29
+Perros-Guirec|FR||9k|3rl|-9k|29|Perroz-Gireg;Perros
+Peresyp|UA||98|3l9|2dd|28|Peresip
+Përmet|AL||9y|33r|1kj|28|Premeti;Premetē;Prëmet
+Periyanegamam|IN||6t|tu|5y6|27
+Pervomayka|KZ||5s|3ch|5xq|27|Pervomayskīy
+Peretu|RO||8u|3ed|1xo|26
+Pereyaslavka|RU||7w|3p9|af6|26|Perejaslavka
+Perito Moreno|AR||1r|-3lf|-5h1|26
+Pérenchies|FR||9k|3wr|89|26
+Pershore|GB||9b|40r|-5s|24
+Periyākkurichchi|IN||6t|w2|64t|24
+Bahramtepe|AZ||61|32e|3p7|22|Bir May;Pervoye Maya
+Perumānallūr|IN||6t|v5|5yw|22
+Pervomaisc|MD|Transnistria|8x|3lt|2b8|21|Pervomaysk
+Peremyshliany|UA||98|3tz|1w8|21|Przemyślany;Przemyśiany;Przemysliane;Peremyshlyany
+Peralta|DO||4v|1fm|-5gl|20
+Periş|RO||8u|3g4|209|20
+Perungulam|IN||6t|o0|60o|20
+Perobal|BR||4w|-1ue|-44d|20
+Perry|US|Florida|48|2bo|-6g6|1z
+Peresichna|UA||98|3uy|2ry|1x
+Peregian Springs|AU||8c|-21l|bt8|1x
+Perené|PE||3o|-uf|-5sz|1w
+Pertek|TR||94|2zz|318|1w|Pêrtage;Pêrtag
+Perechyn|UA||98|3rd|1qg|1v|Perečín;Perecseny;Pérétchyn;Pereczyn
+Periam|RO||8u|3jx|1lz|1u
+Periquito|BR||4w|-1h8|-39c|1u
+Pereiro|PT||99|36d|-o1|1t|Pereira
+Pervomayskoye|RU|Altai Krai|63|424|6ku|1t
+Perumbākkam|IN||6t|108|65p|1t
+Périgny|FR|New Aquitaine|9k|3k7|-32|1t
+Péronnas|FR||9k|3ka|eh|1s
+Pericos|MX|Sinaloa|3x|1xo|-8b6|1r
+Perozinho|PT||99|363|-nv|1r|Perosinho
+Pérola d'Oeste|BR||4w|-1zr|-45a|1q|Pérola do Oeste
+Perseverance|SC||ae|-cs|4a2|1q
+Peralam|IN||6t|ug|65a|1p
+Peruvila|IN||6t|mr|5z0|1p
+Perdekop|ZA||o|-23h|2aa|1p|Paardekop
+Pervari|TR||94|2xe|3a7|1o
+Perstorp|SE||9w|4by|117|1m
+Përrenjas|AL||9y|363|1l3|1m|Prrenjas;Prrenjasi;Prenjasi;Prenjs;Prenjësi;Përrenjës;Prenjas
+Pervomayskoye|RU|Tomsk Oblast|7r|4ej|6nk|1m|Pervomajskoje
+Perg|AT||a2|3q1|14n|1m
+Perniö|FI||92|4n8|1s9|1m|Bjernaa;Bjärnå
+Peranamallūr|IN||6t|yx|64n|1m
+Peralta|ES||9d|39m|-50|1l|Azkoien
+Perugorría|AR||1n|-29i|-4it|1l|Perrugorría;Perugurria
+Perumagalur|IN||6t|sc|63z|1k
+Peringandūr|IN||6t|ti|5vo|1k|Peringandoor
+Perth|CA||59|3gq|-5vt|1k
+Pernem|IN||6t|17o|5p0|1k
+Perelyub|RU||9s|402|3vv|1j|Pereljub
+Perişoru|RO|Călărași County|8u|3fh|24j|1j
+Esperalvillo|DO||4v|1ga|-5ek|1i|Peralvillo;Esperalvilla
+Pereiro de Aguiar|ES||9d|39n|-lo|1i
+Perezville|US||2f|20u|-7lc|1i
+Perushtitsa|BG||9v|38t|1w7|1i|Perushchitsa
+Pervomayskoye|RU|Karachayevo-Cherkesiya Republic|9i|3e2|3a0|1h|Pervomayskiy
+Perieni|RO|Vaslui County|8u|3km|24q|1h
+Pervomayskiy|RU|Altai Krai|63|430|6au|1g|Pervomayskoye
+Pérez Millán|AR||1l|-2lt|-4mx|1f
+Pervomayskoye|RU|Altai Krai|63|458|6he|1f|Pervomajskoje
+Perry|US|Oklahoma|2f|2st|-7i9|1f
+Pervomayskiy|RU|Kirov Oblast|97|4k2|3sx|1f
+Pervomayskaya|RU||9i|3ck|3ig|1e|Pervomajskaja;Mamakhin Khotar;Mamaqay-Yurt;Mamaqin khotar;Perwomaiskaja;Pervomayskoye
+Peralillo|CL||4u|-2ns|-5ik|1e
+Péreybère|MU||ag|-1jk|4fz|1e
+Periyagaram|IN||6t|yp|624|1d
+Péronnes|BE|Wallonia|8t|3w4|bj|1d
+Pero Pinheiro|PT||99|2zy|-pw|1c
+Perez|PH||71|13f|9ep|1c
+Pernis|NL||8m|405|c7|1c
+Perry|US|Utah|2p|376|-8n7|1b
+Pervoye Maya|RU|Voronezh Oblast|9i|3xd|31z|19|Pervoje Maja
+Pervomayskoye|RU|Leningradskaya Oblast'|9i|4no|2am|19|Kivennapa;Pervomajskoje;Kivenn'apa;Pervomayskiy;Kivenapa
+Perryville|US|Maryland|48|31w|-5vb|18
+Serednye|UA||98|3qu|1qi|17|Seredné;Szerednye;Sérednié;Serednje;Peretschyn;Perezindorf
+Perlez|RS||8q|3hl|1km|17
+Peredovaya|RU||9i|3ek|378|16|Peredovaja
+Perkáta|HU||8v|3mp|1g7|16
+Pergola|IT||9o|3cz|zo|15
+Prelog|HR||a6|3kq|1a6|14|Perlacum;Prilok
+Përrenjas-Fshat|AL||9y|363|1l2|14|Prrenjas-Fshat
+Peremetnoe|KZ||77|3y8|3x9|14|Peremëtnoye
+Perieţi|RO|Olt|8u|3fc|1w7|14
+Pernå|FI||92|4nx|20b|13|Pernö
+Perovo|UA||9t|3gt|2mm|13
+Peregian Beach|AU||8c|-21k|bta|13
+Perelëshino|RU||9i|3zq|33i|12|Perelesjino
+Perişani|RO||8u|3i2|1vs|12
+Pertteli|FI||92|4nv|1sn|11
+Prychornomorske|UA||98|3lu|2dv|11|Pershotravneve;Pershotravnevoye
+Perquenco|CL||4u|-2yq|-5l2|11
+Perth|US||48|3bi|-5q3|10
+Perieţi|RO|Ialomița County|8u|3fr|23m|10
+Peralta|US||2p|2os|-88d|10
+Perry|US|New York|48|3ao|-60p|z
+Peras|MX||41|1c8|-7kw|z
+Pérasma|GR||8p|357|1nn|z|Koutskovaini
+Perevalne|UA||9t|3gl|2nb|y
+Periana|ES||9d|2ul|-bn|y
+Pernate|IT||9o|3ia|o4|y
+Perehonivka|UA||98|3qt|2cs|y|Peregonovka
+Perivólia|GR||8p|2qk|1un|x
+Pieterlen|CH||a7|3n2|ke|x|Perles
+Perham|US||2f|3lf|-7dh|x
+Le Casine-Perignano-Spinelli|IT||9o|3d4|te|x|Perignano;Spinelli;Le Casine
+Perelëshinskiy|RU||9i|3zo|33o|x|Perelesjinskij
+Perranporth|GB||9b|3vu|-ec|w|Porthpyran
+Peremyshl’|RU||9i|46q|2sg|w|Peremysjl;Peremishl;Peremyschl
+Perepravnaya|RU||9i|3f6|35a|w|Perepravnaja
+Peresadivka|UA||98|3mv|2hf|v|Péréssadivka;Peresadovka
+Pervalka|LT||a3|49x|1mm|v|Pervelka
+Perce|CA||59|3qp|-4ym|v
+Pervomayskyi|UA||98|3p9|2zr|u|Pervomaiskyi;Pervomaysk;Pervomays’kyy
+Perre|BE||8t|3xd|aq|u
+Peritiba|BR||4w|-241|-406|u
+Perlesreut|DE||8r|3ri|11c|u|Berlasreut
+Perolândia|BR||4w|-1cp|-40m|u
+Perșinari|RO||8u|3gg|1yu|t|Pierşinari
+Perosa Argentina|IT||9o|3gw|jz|t|Peirosa
+Perth|AU|Tasmania|8g|-37h|bct|t
+Bandar Permaisuri|MY||6v|fc|7xf|t|Permaisuri
+El Perelló|ES|Catalonia|9d|35j|1z|t|Perelló
+Pervomayskoye|UA|Crimea|9t|3h6|2po|t
+Perkins|US||2f|2rx|-7hj|t
+Perk|BE||8t|3xi|ci|s|Perck
+Pericei|RO||8u|3n7|1rk|s|Szilágyperecsen
+Pervomayske|UA|Mykolaiv|98|3mo|2i4|s|Pervomaïské
+Perring Loch|US||48|31b|-5wq|s
+Grundbacka|FI||92|4nh|1wp|r|Perusmäki
+Persico Dosimo|IT||9o|3hj|s3|r
+Périers|FR||9k|3sn|-3x|q
+Perwez|BE||8t|3wm|dd|q|Perwé
+Pervorossiyskoye|KZ||5s|3u4|6gx|q|Pervorosiyskiy;Pervorossīyskoe
+Perho|FI||92|4vm|1vu|q
+Penvénan|FR||9k|3rl|-96|p|Perwenan
+Prilep|XK||8q|3a3|1kg|p|Përlep;Prejlepi;Arrnjet;Arrnjeti;Prelep;Prilip;Prejlep
+Perales de Tajuña|ES||9d|33r|-9b|p
+Perreux|FR||9k|3jw|bh|o
+Permatang Pasir|MY||6v|f2|7r0|o
+Pers-Jussy|FR||9k|3k3|hf|o
+Pér|HU||8v|3o9|1dh|o
+Perístasi|GR||8p|33v|1qm|o
+Pernitz|AT||a2|3p2|18c|o
+Kvartsytne|UA||98|3yr|287|o|Perschotrawnewe;Pershotravneve;Persjotravneve;Perchotravneve;Peršotravneve;Perszotrawnewe;Perxotravneve;Pershotravnevoye
+Perryman|US||48|31n|-5vo|n
+Pernumia|IT||9o|3hq|wr|n|Pernumium;Parnùmia
+Pérignat-lès-Sarliève|FR||9k|3j2|8q|n
+Perebykivtsi|UA||98|3qz|20m|n|Perebykovtsy
+Pervomayskoye|UA|Crimea|9t|3hb|2mm|m
+Pershyi Zanasyp|UA||98|3sb|2kv|m
+Percy|FR||9k|3rw|-3b|m
+Pershagen|SE||9w|4kb|1d1|m
+Pericos|MX|Nayarit|3x|1p9|-84n|m
+Pervoye Maya|RU|Nizhny Novgorod Oblast|9i|4cq|3d9|m|Pervoje Maja
+Avdiyivske|UA||98|3pm|2wg|m|Pervomays’ke;Pervomaiske;Avdiivske;Bur'yanivka;Bur'ianivka;Pervomayskoye
+Peristeróna|CY||73|2pl|2jw|m
+Alfredo V. Bonfil|MX|Tamaulipas|3w|1z0|-7kw|m|Periquitos
+Pervoye Maya|RU|Nizhny Novgorod Oblast|9i|4c0|3g8|m
+Perbál|HU||8v|3o7|1g4|m
+Peruc|CZ||9m|3vu|12s|l
+Perry|US|Michigan|2q|3az|-6hy|l
+Perthes|FR|Île-de-France|9k|3qo|74|l
+Pertunmaa|FI||92|4qu|21k|l
+Périgny|FR|Île-de-France|9k|3ra|74|l
+Perfugas|IT||9o|35f|oo|l
+Piré-sur-Seiche|FR||9k|3pd|-3z|l|Pereg;Piriacus
+San Francisco Peribán|MX||41|1ic|-7wg|l|Peribán
+Vyshneve|UA|Odesa|98|3ic|28p|k|Pershotravneve;Pershotravnevoye
+Perdasdefogu|IT||9o|328|q8|k|Foghesu;Petrae Igneae
+Pêra|PT||99|2v4|-n6|k
+Pertegada|IT||9o|3j0|108|j
+Perches|HT||4j|1i8|-5js|j|Pèch
+Préseau|FR||9k|3vr|9x|j|Pérziau
+Perivólia|CY||73|2or|2la|j|Perivolya
+Perriers-sur-Andelle|FR||9k|3t9|3t|j
+Pérez de Galeana|MX||41|1ji|-7ne|i
+Pérama|GR|Epirus|8p|329|1lx|i
+Peregu Mare|RO||8u|3kf|1m2|i|Peregul-Mare
+Perrigny|FR||9k|3ln|fi|i
+Perelhal|PT||99|37d|-o5|h|Parelhal
+Perișor|RO|Dolj|8u|3em|1t8|h
+Perrecy-les-Forges|FR||9k|3lh|bp|h
+Péron|FR||9k|3kb|gh|h
+Perryopolis|US||48|33d|-65j|h
+Perrigny-lès-Dijon|FR||9k|3nb|dx|h
+Pervoavgustovskiy|RU||9i|413|2pe|h|Pervoavgustovskij
+Pernes|FR||9k|3w8|6p|h
+Pérama|GR|Crete|8p|2q9|1wm|h
+Perieni|RO|Iași County|8u|3nm|24b|h
+Perry Park|US||2p|312|-83n|g|Shash Bikooh
+Pernocari-Presinaci|IT||9o|2z9|18g|g
+Peach Lake|US||48|36x|-5oe|g|Persiklago
+Perry|US|Ohio|48|380|-69e|g
+Peru|US|New York|48|3fu|-5o9|g
+Peru|US|Maine|48|3fn|-5fl|g
+Perth-Andover|CA||43|3lu|-582|g
+Peraleda de la Mata|ES||9d|32p|-f6|f
+Pérdika|GR||8p|31d|1ke|f|Pérdhika
+Percoto|IT||9o|3jp|110|f|Percotto
+Perla de Acapulco|MX||41|1ao|-724|f
+Pervomayskiy|RU|Nizhny Novgorod Oblast|9i|4d9|3cg|f|Pervomajskij
+Perrusson|FR||9k|3mu|2t|f
+Perrignier|FR||9k|3kn|hw|f
+Peremoha|UA|Kyiv City|98|3w4|2cf|f
+Pericotepec|MX|Puebla|41|1fp|-7j7|f
+Peru|US|New York|48|3bo|-5w9|f
+Periyiáli|GR||8p|2xe|1rg|f|Perigiali;Periyali
+Doresópolis|BR||4w|-1kd|-3ji|f|Perobas
+Perryville|US|Arkansas|2f|2p8|-75s|e
+Peramoga|BY||9g|41k|2eb|e|Pieramoha
+Perkam|DE||8r|3rq|yk|e
+Perii Broșteni|RO||8u|3es|1y6|e|Perii-Broşteni
+Perkivtsi|UA||98|3ql|221|e|Percăuți
+Le Pertre|FR||9k|3pf|-2w|e|Ar Perzh;Pertrum;Pertre
+Perdíkkas|GR||8p|34o|1oa|e|Perdhíkas;Perdhíkkas
+Mozolevske|UA||98|3oo|2ni|e|Pershotravneve;Pershotravnevoye
+Peridot|US||4i|2kj|-8iu|e
+Péry|CH||a7|3n3|k5|d
+Perivolákion|GR||8p|356|1s0|d|Perivoláki
+Péronnes|BE|Wallonia|8t|3wf|9l|d|Peronnez
+Perroy|CH||a7|3l3|hn|d
+Pervomaisc|MD|Căuşeni|8x|3lq|28t|d|Pervomaysk
+Persenbeug|AT||a2|3pv|15x|d
+Pérignat-sur-Allier|FR||9k|3j1|8z|d
+Perfilovo|RU||6k|475|7r4|d
+Perivóli|GR||8p|31i|1jl|d
+Perego|IT||9o|3j2|q0|d|Pelegum;Peregh
+Périgneux|FR||9k|3i8|bk|d
+Prčanj|ME||9l|39y|1g2|c|Perzagno
+Perach|DE||8r|3q3|zh|c
+Pérouges|FR||9k|3ji|ee|c
+Perranwell|GB||9b|3vh|-e8|c
+Peremyliv|UA||98|3su|201|c|Peremilov
+Peri|FR||9k|38o|os|c
+Pemucho|MX||41|1mw|-7mj|c|Permucho
+Perachóra|GR||8p|2xn|1rr|b|Perakhóra
+Peralta|MX||41|1kv|-7tp|b
+Perevoloki|RU||9p|43x|3sm|b
+Perișoru|RO|Brăila County|8u|3hb|24e|b
+Pero|IT|Veneto|9o|3iz|yb|b
+Perșani|RO||8u|3j6|1y1|b
+Pervomayskiy|RU|Moscow Oblast|9i|48z|2ze|b
+Peach Springs|US||4i|2qp|-8r3|b|Persikaj Fontoj
+Pershozvanivka|UA||98|3qa|31j|b|Pershozvanovka
+Peruvian Vale|VC||54|10m|-4pu|b
+Péra|CY||73|2pb|2kd|b
+Peregu Mic|RO||8u|3kh|1m7|a|Peregul-Mic
+Péroy-les-Gombries|FR||9k|3sk|7x|a
+Peremyl|UA||98|3vz|1xw|a|Peremil’
+Pérignac|FR||9k|3iq|-1b|a
+Perșunari|RO||8u|3h6|21h|a|Persinarii
+Perekhrestove|UA||98|3ns|2as|a|Perekrestovo
+Perai|GM||7|116|-12z|a|Pirai
+Perama|GR|Ionian Islands|8p|31y|1jb|a
+Perštejn|CZ||9m|3vy|10f|a|Pürstein
+Pernau|AT||a2|3pt|130|a
+Perales del Puerto|ES||9d|33k|-ik|a
+Pernink|CZ||9m|3vx|zi|a
+Périssac|FR||9k|3h2|-w|a
+Pergusa|IT||9o|2w8|13r|a
+Pereloty|UA||98|3p3|2ao|9|Perelëty
+Pérouse|FR||9k|3oc|j5|9
+Perzacco|IT||9o|3i0|v3|9
+Pervomayske|UA|Sevastopol City|9t|3fq|2le|9|Pervomaiske
+Persac|FR||9k|3kq|1z|9
+Percy|US||2f|2xm|-6wy|9
+Perekhrestia|UA||98|3pq|1rg|9|Perekhrestya
+Périgné|FR||9k|3kb|-p|9
+Perekop|UA||9t|3k8|2ll|9
+Perry|US|Kansas|2f|30k|-7cz|9
+Pernay|FR||9k|3ns|1e|9
+Peroj|HR||a6|3gv|12c|9|Peroi
+Pérni|GR||8p|35w|1wg|9
+Pernek|SK||8s|3qd|1bm|9|Pernyek
+Perpezac-le-Noir|FR||9k|3hx|4b|9
+Perry|US|Maine|48|3gy|-56c|9
+Péronne-en-Mélantois|FR||9k|3wh|8t|9
+Peretoky|UA||98|3wi|1vr|9|Peretoki
+Perkins Homes|US||48|315|-5ws|9
+Peratáta|GR||8p|2xy|1l4|8
+Perdaxius|IT||9o|30s|nx|8
+Peru|US|Massachusetts|48|39w|-5mx|8
+Bernhardsthal|AT||a2|3r9|1av|8|Pernitál
+La Prénessaye|FR||9k|3pu|-7c|8|Perenezeg
+Perrier|FR||9k|3ij|8w|8
+Pervijze|BE||8t|3xv|7r|8|Pervyse;Pervyzje
+Péré|CI||0|lh|-ax|8
+Myrne|UA|Mykolaiv|98|3mf|2il|8|Pershotravneve
+Pertlstein|AT||a2|3me|18c|8
+Perobas|BR||2w|-el|-2qb|8|Lagoa do Fogo
+Perrex|FR||9k|3kh|du|8
+Peru|US|Nebraska|2f|34f|-7dx|8
+Perná|CZ||9m|3rp|1a6|8
+Peremyshel|UA||98|3vv|22s|8|Peremyshl’
+Pérula|MX||41|1if|-840|8
+Perișor|RO|Bistrița-Năsăud County|8u|3nf|1vb|8
+Pereima|UA||98|3pj|29y|8|Pereyma
+Perafort|ES||9d|36f|3i|8
+Perevalovka|UA||9t|3gy|2p6|8|El Buzly
+Perzów|PL||a5|3yg|1dh|8
+Peristerá|GR||8p|34n|1sd|8
+Pernarec|CZ||9m|3ug|10e|8
+Perkupa|HU||8v|3qn|1li|8
+Perryville|US|Kentucky|48|2wl|-6jz|8
+Perušić|HR||a6|3g1|16q|8
+Pérama|GR|North Aegean|8p|30g|21m|7
+Perrysville|US||48|34y|-6cn|7|Perryville
+Pertisau|AT||a2|3ns|wh|7
+Perteole|IT||9o|3jd|116|7
+Pertica Bassa|IT||9o|3j3|st|7
+Pernegg an der Mur|AT||a2|3nk|16m|7|Bereneck;Pernegg
+Leontovychi|UA||98|3q2|2v6|7|Pershe Travnya;Pershe Travnia
+Perry|US|Missouri|2f|31j|-72o|7
+Pereto|IT||9o|38u|10e|7
+Pérdhika|GR||8p|2wp|1t5|7|Perdika
+Pero|IT|Liguria|9o|3fb|nr|7
+Perouládes|GR||8p|32j|1in|7|Perouládhes
+Puryear|US||2f|2t8|-6td|7|Peryear
+Peralta de Alcofea|ES||9d|38h|-7|7|Peralta de Alcofen
+Pereruela|ES||9d|372|-gc|7
+Peremozhne|UA||98|3qg|31f|7
+Pernois|FR||9k|3v1|63|7
+Pernant|FR||9k|3t6|90|7
+Perlé|LU||9c|3ud|g1|6|Pärel
+Péran Triovasálos|GR||8p|2u2|1vw|6|Pera Triovasalos;Péra Triovásalon
+Perasdorf|DE||8r|3rz|zk|6
+Peredove|UA||9t|3fn|2lz|6
+Perca|IT||9o|3lz|xa|6|Percha;Pircha
+Péret|FR||9k|3d1|9g|6
+Pervomayske|UA|Donetsk|98|3pb|2zr|6|Pervomays’ke;Pervomaiske;Pervomayskoye
+Perticara|IT||9o|3dz|y0|6
+Perekip|UA||98|3uk|2qm|6|Perekop
+Sosnove|UA|Cherkasy|98|3tq|2fx|6|Pervomaiske
+Perthes|FR|Grand Est|9k|3r6|de|6
+Perdiguera|ES||9d|37z|-1r|6
+Perledo|IT||9o|3ju|pu|6
+Pertica Alta|IT||9o|3j2|sq|6
+Perdreauville|FR||9k|3rk|4o|6
+Pertina|IT||9o|31s|19o|6
+Perthville|AU||8l|-2l1|bjf|6
+Gaziler|TR|Iğdır|94|33c|3cp|6|Pernavut
+Brigdamme|NL||8m|3z4|a1|6|Perdaam;Perdamme
+Pereiro da Palhacana|PT||99|30g|-pb|6
+Peremoha|UA|Odesa|98|3kb|29i|6|Peremoga
+Perdido Beach|US||2f|2ca|-6r2|6
+Perervyntsi|UA||98|3uw|2hq|6|Perervantsy
+Pergine Valdarno|IT||9o|3cr|wh|6
+Perast|ME||9l|3a1|1fy|6
+Pershe viddilennya Zolotoyi Balky|UA||9t|3fp|2lb|6
+Perinaldo|IT||9o|3dv|lb|5|Preinaodo
+Perales|MX||41|1qm|-7wv|5|Penales
+Pelageivka|UA||98|3pr|2j4|5|Pershotravnevoe;Pershotravneve
+Pertusio|IT||9o|3i0|l8|5
+Bohodarivka|UA||98|3r1|2n6|5|Pershe Travnia;Bogodarovka;Pershe Travnya
+Pericotepec|MX|Guerrero|41|1dw|-7qe|5
+Perrefitte|CH||a7|3nc|ke|5
+Parryville|US||48|35e|-5u7|5|Perryville
+Pernovo|SI||9a|3kl|167|5
+Pera|IT||9o|3l0|wh|5

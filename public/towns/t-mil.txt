@@ -1,0 +1,399 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Milan|IT||9o|3ia|pj|akz|Mailand;Milaan;Milà;Mediolanum;Mediolan;Milão
+Milwaukee|US||2f|3bk|-6s7|4cj|Milvauchia;Milvokis;Milvoki;Milvokio;Miluoki;Milwahkie;Mil-wah-kie;Milwaukie
+Milton Keynes|GB||9b|40k|-24|1z8|Middeltūn þǣra de Cahaignes;Milton Keinsas;Milton Kins
+Milagro|EC||33|-5x|-653|113|Milagras
+Milton|CA||59|3cw|-65w|10y
+Mulhouse|FR||9k|3on|kd|uy|Mülhausen;Muluzo;Miluza;Miulūzas;Mylhúzy;Müihausn;Mulhusia
+Milpitas|US||3p|2vz|-9en|lk|Milpito
+Mila|DZ||3|2t9|he|hl
+Millcreek|US||2p|351|-8ms|h9
+Miryang|KR||7h|2ql|9xn|er|Mirjang;Milyang
+Milford|US|Connecticut|48|36i|-5my|eo|Millfort
+Mellit|SD||r|139|1yz|dy|Millit
+Milavittan|IN||6t|oi|60x|cr
+Miliana|DZ||3|2sv|66|c2
+Milas|TR||94|2vo|256|c0
+Millerovo|RU||9i|3rx|348|ap|Millerowo
+Milton|US|Georgia|48|2mt|-6i6|af
+Milange|MZ||11|-18q|2rd|9r
+Mildura|AU||8j|-2mz|ayw|9m
+Milazzo|IT||9o|2y6|16c|8u|Milazzu;Mylae
+Milford Mill|US||48|31b|-5x9|82
+Mill Park|AU||8j|-2wn|b6z|7z
+Milak|IN||6t|27h|63x|7x
+Millville|US|New Jersey|48|31g|-5sg|7u
+Mililani Town|US||ax|1nl|-c6y|7o
+Milton|US|Massachusetts|48|39d|-5hf|7i
+Milliken|CA||59|3dq|-64a|7e
+Milagres|BR|Ceará|2w|-kb|-307|77
+Milford|US|Massachusetts|48|392|-5io|6z
+Mile End|CA||59|3ig|-5og|6o
+Millau|FR||9k|3ei|8k|6h|Milhau;Millan
+Millbrae|US||3p|2wg|-9fz|6c
+Mīlē|ET||2|vq|358|61|Mille
+Mililani Mauka|US||ax|1no|-c6v|5v
+Milwaukie|US||3p|3i9|-9go|5s|Milvokis;Milwaukee
+Millburn|US||48|354|-5qe|5l|Milburn
+Mill Creek|US|Washington|3p|3oy|-9fg|5k
+Milledgeville|US|Georgia|48|2jw|-6f7|59
+Milpa Alta|MX||41|1hb|-7n2|53
+Mililani Mauka / Launani Valley|US||ax|1no|-c6v|51
+Milanówek|PL||a5|40s|1lf|4e|Milanuveka
+Mill Creek East|US||3p|3ow|-9ff|4d
+Mile 91|SL||l|nj|-xx|4b
+Millbrook|US|Alabama|2f|2i8|-6nw|49
+Milovice|CZ||9m|3vj|15d|42
+Mill Valley|US||3p|2xb|-9ge|40|Mil Valis
+Mildenhall|GB||9b|41e|1f|40
+Milhã|BR||2w|-fr|-30v|3x
+Millbury|US|Massachusetts|48|397|-5jc|3s
+Milford Haven|GB||9b|3zn|-dz|3s|Aberdaugleddau;Milford Heivenas
+Milngavie|GB||9b|4be|-c0|3k|Muileann Dháibhidh;Molqay
+Miller Place|US||48|35s|-5ms|3f|Miller's Place;Millerplace
+Milicz|PL||a5|3z5|1bz|35|Miliča
+Millington|US|Tennessee|2f|2q6|-6xq|32
+Milton-Parc|CA||59|3if|-5od|32
+Milagres|BR|Bahia|20|-zr|-32q|31
+Milford|US|Delaware|48|303|-5tj|2v
+Middleton|US|Massachusetts|48|3ac|-5ha|2r|Mildetuna
+Milton|US|Florida|2f|2d3|-6ps|2o
+Miltenberg|DE||8r|3u2|pr|2o
+Milevsko|CZ||9m|3td|13w|2l|Mühlhausen;Milovicium
+Mīlājerd|IR||7o|2o6|3sp|2l|Melājerd;Mīlājīrd
+Milnrow|GB||9b|44x|-5v|2k
+Millview|CA||35|3g7|-4wv|2k
+Milford|US|New Hampshire|48|3b0|-5j1|2g|Mill Ford
+Milagres do Maranhão|BR||2w|-9y|-3ad|2g
+Milaor|PH||71|11s|9i6|2g
+Miles City|US||2p|3kx|-860|2g|Maxemâhoévéhoeno
+Milton|US|Washington|3p|3n9|-9fr|2f
+Milcovul|RO||8u|3it|23p|2d
+Millersville|US|Pennsylvania|48|334|-5w3|2c
+Milişăuţi|RO||8u|3oq|208|2c|Milesăuţi
+Mill Creek|US|Pennsylvania|48|331|-5sy|2b
+Mil’kovo|RU||6p|47x|c8m|2b|Milkovo;Mul’kovo
+Milići|BA||9r|3ep|1h1|2a
+Milattūr|IN||6t|u6|644|29|Melattur
+Millis|US||48|395|-5i8|28
+Mill Plain|US||3p|3is|-9g9|27
+Milan|US|Tennessee|2f|2rs|-6uk|26
+Militello in Val di Catania|IT||9o|2vk|153|26|Militeddu in Val di Catania
+Mill End|GB||9b|3zg|-1e|25
+Milán|CO||27|3l|-5tr|23
+Mill Bay|CA||5b|3r5|-9j7|20
+Mills River|US||48|2qb|-6dd|20
+Milltown|US|New Jersey|48|34e|-5qs|1y
+Milton-Freewater|US||3p|3jl|-94v|1y|Freewater
+Miloslavov|SK||8s|3pn|1c2|1y
+Milton|US|Pennsylvania|48|35x|-5xh|1x|Mill-town
+Milford|US|Ohio|48|30u|-6i5|1x|Millford
+Milson|NZ||ak|-341|djt|1v
+Milton Upper Mills|US||48|39e|-5hi|1v
+Millersville|US|Tennessee|2f|2t1|-6ov|1v
+Millrise|CA||2s|3xg|-8sw|1v
+Melilli|IT||9o|2va|161|1u|Miliddi
+Mesudiye|TR||94|34d|2wx|1u|Milas;Melet
+Milton Brandão|BR||2w|-d2|-375|1t
+Millidgeville|CA||43|3hu|-53m|1t
+Milford|US|Michigan|2q|3ab|-6g8|1t
+Milliken|US||2p|341|-83a|1s
+Mill|NL||8m|3zl|g2|1r|Mil;Myl;Mylle
+Milse|DE||8r|40m|ny|1r
+Mila Doce|US||2f|20v|-7k4|1q
+Milford|GB||9b|3y5|-1t|1q
+Milano Due|IT||9o|3ie|pr|1p
+Milagros|PH||71|xy|9j3|1o
+Milan|US|Michigan|2q|38x|-6gg|1o
+Millom|GB||9b|46l|-93|1o
+Milharado|PT||99|307|-pk|1n
+Milton Center|US||48|39d|-5hg|1m
+Milton|US|Wisconsin|2f|3au|-6v2|1k
+Milot|HT||4j|1ih|-5kl|1j|Milo
+Milove|UA||98|3t6|33i|1i
+Milhaud|FR||9k|3dn|bz|1h
+Milford|NZ||ak|-2u5|dhh|1h
+Milton Village|US||48|39f|-5hf|1f
+Milan|US|Illinois|2f|375|-6zl|1f
+Millicent|AU||8b|-2wf|atv|1d
+Milly-la-Forêt|FR||9k|3qg|6v|1d|Mauriliacum
+Miloslavskoye|RU||9i|44u|31l|1b|Miloslavskoje
+Millinocket|US||48|3iu|-5av|19|Millinokett;Milinoket;Millinoket
+Müllrose|DE||8r|415|142|19|Miłoraz
+Milówka|PL||a5|3to|1h1|18
+Millis-Clicquot|US||48|394|-5i7|18
+Mils bei Solbad Hall|AT||a2|3nc|w1|18
+Mile End|AU||8b|-2p1|aox|18
+Milford on Sea|GB||9b|3wx|-4f|17
+Milheirós|PT||99|36h|-nv|17
+Milheirós de Poiares|PT||99|35o|-nj|17
+Miliroc|PH||71|112|9jm|17|Mariroc
+Millsboro|US|Delaware|48|2z7|-5t5|16
+Milltown|IE||8z|443|-hd|14|Baile an Mhuilinn
+Milperra|AU||8l|-2ma|bne|14
+Milton of Campsie|GB||9b|4bg|-bl|14
+Millstadt|US||2f|2yu|-6y9|13
+Millas|FR||9k|3al|7i|12|Millars
+Mills|US||2p|3b0|-87h|12
+Yalābād|IR||7o|2p3|3vr|12|Mīlābād;Valābād;Yelābād
+Mildenau|DE||8r|3wj|10b|11
+Mildstedt|DE||8r|47a|pa|11|Mildsted;Melst
+Millvale|US||48|34g|-666|11
+Mill Courtland Woodside Park|CA||59|3co|-67k|10
+Millery|FR||9k|3ir|da|10
+Miłosław|PL||a5|410|1cl|10|Miloslava
+Niltepec|MX||41|1a0|-7at|x|Miltepec
+Mileto|IT||9o|2z9|18n|x
+Milan|US|New Mexico|2p|2pp|-8bp|x
+Miller|AU||8l|-2m8|bn4|x
+Milbank|US||2f|3hm|-7gg|w|Millbank
+Millersburg|US|Ohio|48|34n|-6bk|w
+Millesimo|IT||9o|3f9|ms|v|Merexo
+Kamyane|UA|Luhansk|98|3pt|30t|v|Kamiane;Kamjane;Millerovo;Kameane
+Milton|US|New York|48|3bj|-5p5|v
+Miloşeşti|RO||8u|3g9|23n|v
+Mylau|DE||8r|3wm|y3|u|Mīlava
+Milizac|FR||9k|3qn|-cp|u|Milizag
+Milton|US|Louisiana|2f|2bm|-73s|u
+Milford|US|Iowa|2f|3cc|-7cb|u
+Milagro|ES||9d|39c|-4x|u|Miraglo
+Mileanca|RO||8u|3pk|226|u
+Miller|CA||2s|44x|-8r1|u
+Millen|US||48|2j4|-6bn|t
+Milaca|US||2f|3j4|-785|t
+Milena|IT||9o|2w3|126|s|Milocca
+Milton|US|Delaware|48|2zq|-5t7|s
+Miluvatka|UA||98|3t2|2y1|s|Melovatka
+Milborne Port|GB||9b|3xl|-6u|s
+Mitcheldean|GB||9b|402|-6x|s|Milcheldean
+Millville|US|Massachusetts|48|38r|-5iu|s
+Migliarino|IT|Emilia-Romagna|9o|3gd|x5|s|Miliarinium
+Mileb|PH||71|j6|9m2|s|Miteb
+Milyutinskaya|RU||9i|3r3|37r|r|Miljutinskaja
+Miłakowo|PL||a5|461|1jr|r|Milakovo
+Milejów|PL||a5|3yb|1ro|r
+Milltimber|GB||9b|4em|-68|r
+Milton|US|West Virginia|48|2yr|-6c5|q
+Millersburg|US|Pennsylvania|48|34m|-5xs|p
+Millbank|AU||8c|-1x4|br4|p
+Millner|AU||8e|-yf|a3i|p
+Milmort|BE||8t|3wt|fj|p
+Muhlenbach|LU||9c|3tv|h0|p|Millebaach
+Mitterfels|DE||8r|3s2|z8|o|Middafejs;Milerfels
+Miltach|DE||8r|3sk|zh|o
+Miłomłyn|PL||a5|45c|1j4|n|Milomlina
+Milton|AU|Queensland|8c|-24b|bt0|n
+Millbridge|AU||8k|-2kj|8xi|n
+Milford|US|Maine|48|3gv|-5ao|m
+Milnthorpe|GB||9b|46n|-7p|m
+Milsons Point|AU||8l|-2m1|bo1|m
+Milot|AL||9y|37s|1is|m
+Millers Creek|US||48|2sj|-69o|l|Miller Creek
+Milford|US|Nebraska|2f|359|-7hl|l
+Villefranque|FR||9k|3co|-41|l|Milafranga
+Millepini|IT||9o|3ib|py|l
+Millswood|AU||8b|-2p4|aoz|l
+Miliyeve|UA||98|3q9|1y9|l|Miliïévé;Milie
+Milsbeek|NL||8m|3zp|gj|l
+Milín|CZ||9m|3tv|131|l
+Miles|AU||8c|-222|bl7|k
+Milton|NZ||ak|-3k4|d45|k
+Miłkowice|PL||a5|3ye|18n|k|Arnsdorf
+Millville|US|Utah|2p|37s|-8mm|k
+Milotice|CZ||9m|3s0|1bm|j
+Millisle|GB||9b|47p|-fd|j
+Milnathort|GB||9b|4c7|-9i|j
+Millet|CA||2s|43h|-8r7|j
+Milan|US|Indiana|38|30o|-6kh|j
+Mile Square|CA||59|3ew|-5wu|j
+Mill City|US||3p|3gb|-9g8|j
+Milton|US|Vermont|48|3g0|-5n3|j
+Milan|US|Missouri|2f|33o|-76p|j
+Milo|US|Maine|48|3hp|-5bn|i
+Milpillas|MX|Jalisco|41|1ky|-7wt|i
+Miletino|MK||9u|38f|1me|i
+Milmersdorf|DE||8r|43j|11w|i
+Millars Well|AU||8k|-1lm|90i|i
+Millwood|US|Washington|3p|3og|-91s|i
+Milzano|IT||9o|3hr|sc|h
+Milton of Leys|GB||9b|4fl|-bm|h|Baile Muilinn an Leigheis
+Migliaro|IT||9o|3gg|x9|h|Miliarium
+Milpas Viejas|MX||3x|1q5|-850|h
+Millbrook|CA||59|3en|-61x|h
+Millgrove|AU||8j|-2ww|b8l|h
+Milton|AU|New South Wales|8l|-2q4|blw|g
+Mill Hall|US||48|367|-5z8|g
+Milly-sur-Thérain|FR||9k|3ti|5k|g
+Millen|BE||8t|3x3|fg|g
+Millers Point|AU||8l|-2m2|bo0|g
+Milis|IT||9o|339|o0|g
+Milford|US|Indiana|38|371|-6mh|g
+Millstreet|IE||8z|40m|-p6|g|Sráid an Mhuilinn
+Millmerran|AU||8c|-25g|bo7|f
+Milaş|RO||8u|3m2|1vv|f
+Millersburg|US|Oregon|3p|3g4|-9hu|f
+Milford|CA||43|3hr|-53n|f
+Milano Marittima|IT||9o|3ez|yb|f
+Milanovac|HR||a6|3j8|1cb|f
+Milroy|US|Pennsylvania|48|353|-5zj|f
+Milam|US||2f|2fb|-78p|f
+Dunasziget|HU||8v|3p6|1c7|f|Milchdorf;Širpienja;Sigete;Dobrohoštský Ostrov
+Miller|US|South Dakota|2f|3fo|-7mz|e
+Millbrook|US|New York|48|383|-5op|e
+Milan|US|New Hampshire|48|3ft|-5hr|e
+Milcovățu|RO||8u|3ez|1ze|e
+Millhill|US||48|314|-5wy|e
+Milton|US|New York|48|37q|-5pg|e
+Milheeze|NL||8m|3z2|g2|e
+Mile and a Quarter|BB||22|10v|-4lm|e
+Milan|US|Ohio|48|36q|-6dh|d
+Milagros|MX||41|1qi|-7vu|d
+Milford|US|Utah|2p|2yo|-8px|d
+Milbridge|US||48|3fq|-58k|d|Mill Bridge;Millbridge
+Milíkov|CZ||9m|3tr|1g0|d
+Miladinovci|MK||9u|38m|1o5|d|Hadžilari
+Millport|GB||9b|4av|-dp|d
+Milingimbi|AU||8e|-xm|aes|d
+Milcoiu|RO||8u|3h5|1vz|d
+Millhouse Green|GB||9b|44o|-4n|d
+Millbury|US|Ohio|48|37h|-6fq|c
+Mill Woods Town Centre|CA||2s|44i|-8r3|c
+Milford|US|Illinois|2f|34v|-6rm|c
+Milford|US|Pennsylvania|48|32z|-63q|c
+Mildmay|CA||59|3ec|-69c|c
+Millthorpe|AU||8l|-2kx|bif|c
+Milford|US|New Jersey|48|34p|-5sl|c
+Millstream|AU||8c|-1d1|b7x|c
+Millbourne|US||48|330|-5t1|c
+Millers Falls|US||48|3aa|-5ld|b
+Milanere|IT||9o|3ha|kn|b
+Milford|US|Wisconsin|2f|3bq|-6ut|b
+Miłoradz|PL||a5|461|1gk|b
+Milverton|GB||9b|3xq|-91|b
+Milanów|PL||a5|3zm|1rl|b
+Milejczyce|PL||a5|41w|1s9|b
+Milesburg|US||48|35q|-602|b|Milesboro
+Milford Station|CA||35|3h4|-4w8|b
+Milz|DE||8r|3vy|ta|b
+Milton-Montford|US||48|316|-5wq|b
+Milborne St Andrew|GB||9b|3x2|-6c|b
+Myloradove|UA||98|3ue|2oj|b|Miloradovo
+Millersport|US||48|32u|-6d9|a
+Millington|US|Michigan|2q|3c8|-6g1|a
+Balat|TR||94|2w7|23s|a|Mileto;Milet;Miletos;Miletus;Milétosz
+Milpillas|MX|Chihuahua|2g|23k|-8ds|a|Mil Pillas
+Mill Neck|US||48|35l|-5oc|a
+Milagres|PT||99|32j|-of|a
+Millport|US||2f|2l8|-6so|a
+Milledgeville|US|Illinois|2f|38k|-6xd|a
+Millfield|AU||8l|-2jd|bo6|a
+Milford|US|Pennsylvania|48|36s|-5rs|a
+Millford|IE||8z|491|-le|a|Baile na nGallóglach;Milford
+Millville|US|Pennsylvania|48|35y|-64a|a
+Milostea|RO||8u|3hc|1u8|a
+Millville|US|Pennsylvania|48|368|-5wl|a
+Milzau|DE||8r|3yq|x2|9
+Milton|GB|Scotland|9b|4fa|-ci|9|Millton
+Millerton|US||48|38j|-5o7|9
+Millersburg|US|Indiana|38|37d|-6m1|9
+San Francisco Mitepec|MX||41|1i0|-7lh|9|Mitepec;Miltepec
+Milota|HU||8v|3pm|1ra|9
+Miletín|CZ||9m|3w0|17k|9|Miletynas
+Milford Square|US||48|34c|-5tg|9
+Millheim|US||48|35l|-5z8|9|Milheim
+Millstatt|AT||a2|3m0|11q|9
+Milpoleta|MX||41|1al|-75e|9
+Milembéni|KM|Anjouan|ac|-xw|3ey|9
+Millwood|US|South Carolina|48|2m7|-67a|9
+Milltown|US|Wisconsin|2f|3ih|-74z|9
+Miličín|CZ||9m|3tp|14q|9|Milčin
+Miles|US||2f|2fs|-7qa|9
+Mili|MH||b2|gw|d92|9
+Miłoszyce|PL||a5|3xt|1c3|9
+Milang|AU||8b|-2qd|aq1|8
+Baile an Mhuilinn|IE||8z|40v|-r0|8|Milltown
+Miliá|GR||8p|35v|1pi|8|Milea;Kırlat;Karlát
+Miłocice|PL|Lesser Poland|a5|3vj|1jo|8
+Milda|DE||8r|3xa|vu|8
+Milpara|AU||8k|-2p7|93f|8
+Mīlās|IR||7o|2ff|3x2|8
+Milford Center|US||48|33m|-6fs|8|Milford Centre
+Mílos|GR||8p|2u3|1vv|8|Melos;Milo
+Miletićevo|RS||8q|3hv|1mi|8
+Milltown|US|Indiana|3a|2yi|-6no|8
+Millersburg|US|Kentucky|48|2ye|-6hr|8
+Milpillas de Santiago|MX||41|1mw|-7qa|8
+Milembéni|KM|Grande Comore|ac|-we|3c7|8
+Miltown Malbay|IE||8z|42u|-q4|8|Milltown Malbay;Sráid na Cathrach
+Milna|HR||a6|3cd|19p|8
+Mâlosu|RO||8u|3lu|23i|8|Mîlosu
+Milo|US|Iowa|2f|36p|-77k|8
+Milan|US|Georgia|48|2gy|-6eq|8
+Milton Ernest|GB||9b|40z|-1f|8
+Milford|US|Texas|2f|2h8|-7hb|7
+Milévani|KM||ac|-w3|3ca|7
+Millville|US|California|3p|34n|-9fe|7
+Milpillas|MX|Michoacán|41|1iz|-7qo|7
+Millville|US|Ohio|48|31f|-6j5|7|Milville;Melville
+Mill Creek|US|West Virginia|48|2zl|-665|7
+Millançay|FR||9k|3nt|4x|7
+Milzkalne|LV||9n|4ea|1sj|7
+Miller|US|Missouri|2f|2vd|-78o|7
+Miluta|RO||8u|3g6|1sd|7
+Mildam|NL||8m|432|go|7|Mildaam
+Milpillas de Allende|MX||41|1n9|-7zt|7
+Millerstown|US||48|34n|-5yb|7
+Millenniumtelep|HU||8v|3nm|1h3|7
+Milltown-Head of Bay D'Espoir|CA||50|3p5|-4at|7
+Millam|FR||9k|3x9|69|7
+Millsboro|US|Pennsylvania|48|333|-667|7
+Millington|US|Illinois|2f|37g|-6u4|7
+Milești|RO||8u|3fh|1u3|7
+Milnor|US||2f|3ki|-7iq|6
+Militello Rosmarino|IT||9o|2xp|14s|6|Militieddu;Militello di Rosmarino
+Miločani|ME||9l|3az|1gi|6
+Miłocice|PL|Lower Silesia|a5|3xt|1ck|6
+Miléai|GR||8p|319|1sb|6|Milies;Miliaes
+San Andrés Milpillas|MX||3x|1ri|-840|6|Milpillas San Andrés
+Milhac-de-Nontron|FR||9k|3ib|26|6|Milhac de Nontronh
+Millac|FR||9k|3kb|1x|6|Milhac
+Milešovice|CZ||9m|3sc|1at|6
+Millonfosse|FR||9k|3w3|9g|6
+Milo|IT||9o|2ws|160|6|Milu
+Millington|US|Maryland|48|312|-5uo|6
+Mýloi|GR||8p|2wb|1r4|6|Míloi;Mýli
+Milroy|US|Indiana|38|31q|-6lf|6
+Milner|US||48|2k0|-6hw|6
+Millingport|US||48|2qa|-673|6
+Milawa|AU||8j|-2t7|bar|6
+Milcoveni|RO||8u|3ff|1wo|6
+Milford|US|Kansas|2f|30t|-7h7|6
+Millville|US|Delaware|48|2z3|-5so|6
+Milavče|CZ||9m|3tf|102|6|Milavše
+Miletin|RO||8u|3nw|236|6|Meletin
+Milpillas|MX|San Luis Potosí|41|1pt|-7sx|6
+Miłki|PL||a5|45u|1os|6
+Millières|FR||9k|3sn|-42|6|Williers
+Milpillas|MX|Guerrero|41|1a2|-7li|6
+Milton|US|New Hampshire|48|3cl|-5h7|6
+Milton|US|Kentucky|48|2zk|-6l5|6
+Millares|ES||9d|311|-25|6|Millars
+Megalochóri|GR|Attica|8p|2wr|1sv|6|Agkístrion;Angístrion;Megalokhóri;Angístri;Agkístri;Megalohori;Milos
+Millwood|US|Pennsylvania|48|343|-648|6
+Milpillas de la Sierra|MX|Zacatecas|41|1s5|-800|6|Milpillas
+Mileham|GB||9b|42i|2b|6
+Milova|RO||8u|3k3|1ok|6
+Mils bei Imst|AT||a2|3n5|tn|6
+Milochóri|GR||8p|34i|1nu|6|Milokhóri
+Milho Branco|CV||84|15r|-1tc|6
+Milpillas de la Sierra|MX|Zacatecas|41|1tb|-7xf|6
+Mili San Pietro|IT||9o|2xx|171|6
+Millchester|AU||8c|-1jt|bac|5
+La Milpilla|MX||41|1jy|-7z8|5|Milpilla
+Milton|GB|Scotland|9b|4be|-ck|5
+Millaa Millaa|AU||8c|-1cn|b8h|5
+Millry|US||2f|2fv|-6tb|5
+Milcovu din Deal|RO||8u|3fb|1vr|5|Milcovul-din Deal
+Millendon|AU||8k|-2gd|8yc|5
+Miltonvale|US||2f|31b|-7ip|5|Miltonville
+Milköy|TR||94|2uc|2zq|5|Mil’këy;Mil Köyü

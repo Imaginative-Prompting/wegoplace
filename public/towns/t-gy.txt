@@ -1,0 +1,95 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Gdańsk|PL||a5|46z|1ft|3re|Dancigo;Danzig;Gduńsk;Gydanysg;Danzica;Gedanum;Qdansk;Dantsic;Gdanjsk
+Ganja|AZ||61|350|3ks|2jv|Gäncä;Gandja;Ganĝa;Gyandzha;Gändzjä;Gandża;Gence;Gändž;Gendžė;Gandzhe;Gandzha;Gandzak
+Gyeongsan-si|KR||7h|2ri|9xm|226|Gyeongsan;Kyŏngsan-si
+Gyeongju|KR||7h|2rk|9yx|1w6|Kyeng-ju;Kyŏngju
+Gyānpur|IN||6t|1yd|6d3|1jk
+Győr|HU||8v|3og|1d0|zx|Raab;Arrabona;Dėras;Jura;Ģēra;Gjur;Iaurinum;Djor;Đer;Javarin
+Gyumri|AM||80|35b|3dt|vv|Kumayri;Gjumri;Gumru;Gumri;Giumri;Gjoemri;Ghiumri;Leninakan;Gumry;Kyumayri;Gimri;Kyumri;Kümri
+Gießen|DE||8r|3wj|o4|os|Gissen;Gieseni;Gysenas;Giessa
+Gyōda|JP||7q|2se|are|nz
+Alba Iulia|RO||8u|3jz|1ti|hu|Karlsburg;Apulon;Vojvodov Bjalgrad;Ciudadela Blanca;Karlovský Bělehrad;Erdeljski Biograd;Weyssenburg;Dsulafehervaru;Gyulafehérvár;Belgrad-i Erdel;Belgrada;Alba-Julia;Weißenburg;Bălgrad;Alba Julija;Alba Júlia;Àobā Yóulìyà;Erdel Belgradı;Karlov Belehrad;Fehervaru
+Giurgiu|RO||8u|3dx|204|f6|Zurz;Gyurgyevó;Yergöğü;Fekete Gyergyó
+Gelendzhik|RU||9i|3fu|2xr|e3|Gelendzjik;Gelendschik;Guelendjik;Gelendžik;Gelendĵik;Qelencik;Gelendżyk;Gyelyendzhik;Gelyendzhik;Ghelenjik;Gelenzhik;Gelenjir;Gelendshik
+Gyzylarbat|TM||5x|30a|4cc|di|Serdar;Kyzyl-Arvat
+Gyöngyös|HU||8v|3oq|1jd|95|Dyöndyöş;Đunđuš;Đenđeš;Gengeß
+Gyula|HU||8v|3ll|1n4|8z|Đula;Jula;Giula
+Jarrow|GB||9b|48q|-44|87|Gyruum
+Gympie|AU||8c|-20r|bs2|68
+Gyál|HU||8v|3nm|1he|63
+Gevgelija|MK||9u|36a|1qi|5r|Guevgueliya;Gjevgjelia;Gevgeliya;Gewgelija;Gyevgyelija;Gevgeli;Gevgelia
+Gheorgheni|RO||8u|3ls|1z4|5i|Gyergyószentmiklós;Gyergòszentmiklòs;Gheorghieni;Gheorghem
+Gämi|TM||5x|2xb|4if|51|Geami;Gyami
+Gyomaendrőd|HU||8v|3md|1lv|48
+Gyömrő|HU||8v|3nr|1hw|3y
+Detva|SK||8s|3qw|1hy|3t|Gyetva;Djetva
+Jiangzi|CN||7i|28c|6ww|2s|Gyangze;Gyangtse
+Gilău|RO||8u|3lt|1sw|25|Gyalu
+Gymea|AU||8l|-2mk|bnp|23
+Gyárdűlő|HU||8v|3nw|1h4|23
+Ortaköy|TR|Mardin|94|2ve|35a|23|Gyul’kharin;Hirrin;Girherîn;Gülharin;Harrın
+Gypsum|US||2p|325|-893|1x
+Desna|UA|Chernihiv Oblast|98|3xh|2dh|1x|Gyeszna;Deszna
+Gymea Bay|AU||8l|-2ml|bnp|1v
+Ditrău|RO||8u|3m2|1yw|1n|Gyergyóditró;Ditró
+Giarmata|RO||8u|3jc|1n7|1i|Gyarmatha;Gyarmata
+Lichk|AM||80|33k|3hn|1h|Gyolkend
+Ghimeş-Făget|RO||8u|3le|20f|1g|Gyimesbükk
+Lunca de Jos|RO||8u|3ld|206|1g|Gyimesközéplok
+Suseni|RO|Harghita County|8u|3ln|1yz|1f|Gyergyóújfalu
+Ghiroda|RO||8u|3j4|1n6|1d|Győröd;Giroda
+Győrújbarát|HU||8v|3o9|1d1|1a
+Ciumani|RO||8u|3lo|1yw|18|Gyergyócsomafalva
+Gýtheio|GR||8p|2u4|1qo|17|Gythio;Gythion;Gýthelon
+Gyzylgaýa|TM|Lebap|5x|2zs|4xk|17
+Giroc|RO||8u|3ix|1n0|17|Gyüreg
+Gyalshing|IN||6t|23t|6t6|14|Gyalzing
+Sarnaghbyur|AM||80|34k|3dz|10|Urnut;Sogyutlu;Sarnaxbyur;Gyodikendi;Sogutli;Kirmizkilisa
+Lăzarea|RO||8u|3lv|1yx|10|Gyergyószárhegy
+Gyzylbaýyr|TM||5x|2y6|4al|z
+Deputatsky|RU||7w|5cj|asu|z|Deputatskij;Deputatski;Deputatskis;Gyeputatszkij;Deputatskiy;Dieputatskij
+Kobyletska Polyana|UA||98|3pi|1uv|z|Gyertyánliget;Kobyletska Poliana;Cărpiniș;Kobylezka Poljana;Kobyletska Poljana;Kobilecka Poljana;Kobylecka Poljana;Kobıletska Polâna;Kobyłecka Polana
+Gyan Chak|IN||6t|1yz|6ks|y
+Lunca de Sus|RO||8u|3l9|205|y|Gyimesfelsőlok
+Gyöngyössolymos|HU||8v|3ou|1je|w
+Győrszemere|HU||8v|3o3|1cs|u
+Gyenesdiás|HU||8v|3lx|1c1|s
+Gyöngyöspata|HU||8v|3ou|1iz|r
+Gyöngyöshalász|HU||8v|3om|1jd|q
+Gyöngyöstarján|HU||8v|3ot|1j7|p
+Gyhum|DE||8r|43u|pv|p|Jeem
+Kamaris|AM||80|33s|3g5|o|Gyamrez
+Jennersdorf|AT||a2|3me|18u|o|Gyanafalva
+Gyaung Waing Gyi|MM||7y|1an|7ex|n
+Gytsjerk|NL||8m|43w|ge|m|Giekerk
+Gyönk|HU||8v|3lc|1fc|l|Jink
+Gyulaháza|HU||8v|3pp|1pg|l
+Yimnón|GR||8p|2ys|1uc|k|Gymno
+Ghelari|RO||8u|3j0|1ra|h|Gyalár;Ghelar
+Gyulagarak|AM||80|35t|3fj|g|Gyulabarrak;Gyulagorak
+Sarahart|AM||80|35j|3et|f|Gyullija;Saraart
+Gyundyukoru|TR||94|2v6|34i|f|Gündükoru
+Gargar|AM||80|35s|3fg|e|Hay Gerger;Herher;Gyargyar;Haykakan Gyargyar;Hayots Gyargyar;Karkar;Haygyargyar
+Gyzylymam|TM||5x|2xz|4bo|e|Kyzyl-Imam
+Dudince|SK||8s|3pt|1gh|e|Gyűgy
+Gogaran|AM||80|35l|3es|d|Gëran;Goran;Gyogarchin
+Gheorghieni|RO||8u|3lr|1tt|c|Györgyfalva;Gheorgheni
+Gy|FR||9k|3np|g5|a
+Gyovren|BG||9v|37q|1vq|a|Gövren
+Gyzylgaýa|TM||5x|34u|4a3|a|Kızılkaya;Kizyl-Kaya
+Gündaş|TR||94|2u1|2zt|9|Gündeş;Gyundash
+Kohfidisch|AT||a2|3n1|19g|9|Gyepufüzes;Kohfedish
+Zasadbreg|HR||a6|3l1|19l|9|Gyümölcshegy
+Gyzylsuw|TM||5x|32k|439|9|Gyzyl-Suv;Kyzylsu
+Gndevaz|AM||80|32g|3iq|8|Qndevaz;Gyndewaz;Qindıvaz
+Hiunivka|UA||98|3n6|2nz|7|Hyunivka;Gyunëvka
+Gyurgyan|AZ||61|348|3vu|7|Gürgan
+Remeți pe Someș|RO||8u|3nw|1su|7|Gyökeres;Gyükeres
+Gyňov|SK||8s|3qz|1n6|7
+Gyttorp|SE||9w|4lb|15l|7
+Byurakn|AM||80|35j|3dg|7|Gyullibulag
+Gy-les-Nonains|FR||9k|3p7|7x|6
+Hyunivka|UA||98|3mp|2sz|6|Hiunivka;Gyunëvka
+Gymnótopos|GR||8p|315|1m2|6|Yimnótopos
+Gyé-sur-Seine|FR||9k|3pf|cb|5
+Gy-en-Sologne|FR||9k|3ni|4e|5

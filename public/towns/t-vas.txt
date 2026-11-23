@@ -1,0 +1,121 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Washington|US|District of Columbia|48|302|-5y0|5bj|Vasingtonia;Waszyngton;Vašingtonas;Territory of Columbia;District of Columbia;Vaŝingtono
+West Jerusalem|IL||6n|2ga|2pu|334|Vest-Jerusalem;Vestjerusalem;Westjerusalem;Västra Jerusalem
+Târgu Mureş|RO||8u|3la|1w8|1n4|Neumarkt am Mieresch;Tîrgu Mureș;Marosvásárhely;Novum Forum Siculorum;Neumarkt;Vásárhely;Nai Muark;Maros-Vásárhely;Târgul-Mureş;Turgul Mures;Tyrgu-Muresh
+Vasyl'evsky Ostrov|RU||9i|4mi|2c1|1kf|Vasilinsaari
+Ferraz de Vasconcelos|BR||4w|-1te|-3kt|1ds
+Västerås|SE||9w|4lm|19z|zi|Arosia;Vesterosa;Vesterosas
+Vasco da Gama|IN||6t|16s|5p2|rx|Vasco
+Vaasa|FI||92|4va|1o2|je|Nikolainkaupunki;Wasa;Nikolaistad;Vasa;Vas
+Vaslui|RO||8u|3lj|251|hi|Vászló;Vaslujus
+Vasastaden|SE||9w|4kv|1e3|g9|Vasastan
+Snizhne|UA||98|3pe|2zo|fg|Vasylivka;Śniažnoje;Sznizsne;Snischne;Śnieżne;Wasiliwka
+Hódmezővásárhely|HU||8v|3ky|1kh|c8|Vašrelj;Hodmezevašarhelj
+Vasto|IT||9o|38z|14v|bi
+Vasylkiv|UA||98|3ve|2c7|ab|Wassylkiw;Vassylkiv;Vasyl'kiv;Vasılkiv;Vasiļkiva;Wasylków;Vasil’kov;Vasiljkiv;Wassilkow;Vasilikov
+Vassouras|BR||4w|-1q8|-3da|9z
+Vāsudevanallūr|IN||6t|po|5z1|5y
+Västervik|SE||9w|4gg|1a8|5w|Vestrovicum;Vestervikas
+Vasind|IN||6t|1hx|5ni|5q|Vashind
+Vasil’yevo|RU||9i|4b3|3rc|4o|Vasiljevo;Vasilevo;Vasileyevo
+Vaso|IN||6t|1qy|5m4|4f
+Västra Frölunda|SE||9w|4g5|x5|4f
+Väståboland|FI||92|4ni|1py|4b|Pargas;Länsi-Turunmaa;Parainen
+Länsisatama|FI||92|4n4|1x7|41|Västra Hamnen
+Vasyurinskaya|RU||9i|3hc|31i|3k|Vasiurinskaja
+Vardenis|AM|Gegharkunik|80|33m|3j1|3j|Basargech’ar;Wardenis;Vasakashen;Geghamabak
+Vasylivka|UA|Zaporizhzhia|98|3ns|2q0|3i|Wassyliwka;Vassylivka;Vasılivka;Vassõlivka;Wasyliwka;Vasiljevka
+Vaskelovo|RU||9i|4ns|2cb|3g|Vaskela
+Vasilevo|MK||9u|377|1qx|3g
+Vasylkivka|UA||98|3px|2s2|3c|Vasyl'kivka;Vasil’kovka
+Vassala|MR||19|178|-fc|32
+Vashon|US||3p|3nt|-9g6|2y
+Vasiliká|GR||8p|34g|1sa|2o
+Wasilków|PL||a5|43s|1sh|2m|Vasilkuvas;Vasilkova
+Vásárosnamény|HU||8v|3pp|1pz|2l
+Wasilla|US||1h|4r2|-bj4|2l|Vasilla
+Länsi-Herttoniemi|FI||92|4n9|1xk|2e|Vätra Hertonäs;Västra Hertonäs
+Vyshkovo|UA||98|3ph|1t2|2a|Vychkovo;Vășcova;Visk
+Vasilaţi|RO||8u|3f1|21h|26
+Länsi-Pakila|FI||92|4nc|1x9|1y|Västra Baggböle
+Vasilikón|GR||8p|2yr|1tr|1u|Vasiliko
+Ștei|RO||8u|3l9|1qd|1t|Vaskohsziklás;Štėjus
+Vaison-la-Romaine|FR||9k|3ew|e3|1q|Vasio
+Länsimäki|FI||92|4nd|1xs|1n|Västerkulla
+Vasyshcheve|UA||98|3uf|2sx|1n|Vasishchevo
+Länsi-Pasila|FI||92|4n8|1x8|1i|Västra Böle
+Vashkivtsi|UA|Chernivtsi|98|3qe|1yw|1h|Vășcăuți;Vachkivtsi;Vashkoutsi;Vashkovtsy
+Bazas|FR||9k|3ff|-l|1f|Vasats;Basatum
+Varsenare|BE||8t|3y7|8q|1f|Vassenoare;Varssenaere
+Vasvár|HU||8v|3mp|1ao|1a|Eisenburg
+Vasoldsberg|AT||a2|3mm|178|1a
+Vassalboro|US||48|3fi|-5dk|16
+Vasaramäki|FI||92|4nw|1pz|13|Hammarbacken
+Vasylivka|UA|Odesa|98|3is|283|13|Vasilivka;Wassyliwka;Vassylivka;Vaisal
+Vasanello|IT||9o|39u|yb|13|Bassanello
+Vashkivtsi|UA|Chernivtsi|98|3qh|23d|11|Vachkivtsi;Văscăuţi
+Vaskút|HU||8v|3k3|1gr|10|Waschkut
+Wassy|FR||9k|3qq|dr|y|Vassy
+Pietroasa|RO|Bihor County|8u|3le|1qn|y|Vasaskőfalva;Petroasa
+Vasilyevichy|BY||9g|415|2av|v|Vasilevichi;Wasilewicze;Vasilevichy
+Vaşcău|RO||8u|3l3|1qf|r
+Vassar|US|Michigan|2q|3ch|-6g6|q
+Vasil’yevskiy Mokh|RU||9i|4ed|2rs|o|Vasiljevskij Mokh
+Vasse|AU||8k|-2ll|8w7|n
+Länsiranta|FI||92|4nw|1ps|n|Väststranden;IX kaupunginosa;IX Stadsdel;IX District
+Vasylivka|UA|Odesa|98|3lh|2c7|l|Vasilevka
+Vatan|FR||9k|3mr|51|k|Watan;Vasten;Vastan
+Vasīān|IR||7o|2l1|3ph|i|Vaisiyan
+Vassy|FR||9k|3rp|-1v|h
+Vassilies|GR||8p|2pz|1xu|h|Vasiliés
+Vasiutyntsi|UA||98|3td|2i6|g|Vasyutintsy;Vasyutyntsi
+Vasles|FR||9k|3le|-3|g
+Vasilikí|GR||8p|324|1oa|e
+Vasylivka|UA|Chernivtsi|98|3qt|24b|e|Vasileuți;Vassylivka
+Vasilyevka|UA||9t|3he|2og|d
+Västra Hagen|SE||9w|4fi|x6|d
+Vasyliv|UA||98|3r1|1zs|c|Vasilău;Vassyliv;Wassileu
+Vasylivka|UA|Odesa|98|3ig|290|c|Vasilivka;Aprodul Purice;Vassylivka;Wassyliwka
+Voșlăbeni|RO||8u|3ll|1z7|c|Vasláb;Voşlobeni
+Vasselay|FR||9k|3n0|6n|b
+Novoselivka|UA|Donetsk|98|3r8|2wi|b|Vasylivka
+Vășad|RO||8u|3o0|1pu|b
+Vas’kovo|RU||9i|4yx|34e|b
+Vasil’sursk|RU||9i|4bx|3ju|a|Vasilsursk;Wassilsursk;Vassilsoursk;Basiliopolis ad Suram;Wasilsursk;Vasilsoersk;Vasil Soursk
+Rotenturm an der Pinka|AT||a2|3n9|195|a|Vasvörösvár
+Vassy|KM||ac|-xz|3f6|9|Vassi
+Vastorf|DE||8r|43s|tb|9
+Vasteville|FR||9k|3ts|-4x|9
+Vāskas|IR||7o|2tn|41r|9
+Vasylivka|UA|Donetsk|98|3of|2z0|9|Vasilevka
+Vasalemma|EE||9x|4kk|1vh|9|Vazalemma
+Vascon|IT||9o|3j0|y5|9
+Vasylivka|UA|Poltava|98|3tw|2pr|9|Vasil’yevka;Vasilevka
+Vasylivka|UA|Mykolaiv|98|3mr|2ja|8
+Västra Ingelstad|SE||9w|4a5|10f|8
+Vasaj|IR||7o|2nc|3pz|8|Vasanj
+Vasile Alecsandri|RO|Galați County|8u|3i9|258|8|Vasile-Alexandri
+Västanfjärd|FI||92|4mt|1r0|8|Vestanfjärd
+Vastseliina|EE||9x|4gd|23t|8|Vastseliyna
+Vass|US||48|2py|-648|7
+Jabing|AT||a2|3n8|198|7|Vasjobbágyi
+Vasylivka|UA|Poltava|98|3tw|2oy|7|Vasil'yevka
+Vasylivka|UA|Poltava|98|3to|2kk|7|Vasil'yevka;Vasilevka
+Vasylivka|UA|Mykolaiv|98|3m0|2fa|7|Vassylivka
+Vazerac|FR||9k|3er|3l|7|Vasarac
+Vasile Alecsandri|RO|Tulcea County|8u|3gg|277|7|Vasile-Alexandri
+Vasiloúdi|GR||8p|34v|1sf|7|Leven
+Vasilópoulo|GR||8p|2z7|1ml|6
+Zarudne|UA||98|3wc|2ky|6|Vasylivka;Vasilevka
+Vășcăuți|RO||8u|3p9|20a|6
+Vasylivka|UA|Kirovohrad|98|3ro|2kg|6|Vasil'yevka;Vasil’yevsk
+Västra Karup|SE||9w|4cq|zf|6
+Vasylivka|UA|Odesa|98|3o5|2d2|6|Vassylivka
+Vasì|IT||9o|2yi|19p|5
+Vaše|SI||9a|3k5|140|5
+Vasylivka|UA|Odesa|98|3k9|29n|5|Vasilevka
+Västerfärnebo|SE||9w|4mj|198|5
+Vassar|US|Kansas|2f|2zd|-7dm|5
+Vassmolösa|SE||9w|4d8|18x|5
+Väse|SE||9w|4ky|12h|5
+Vastse-Kuuste|EE||9x|4hl|22t|5|Vaste-Kuste;Vastse-Kuste

@@ -1,0 +1,25 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Paisley|GB||9b|4b3|-cb|lh|Pàislig;Peislis;Peysli
+Peymeinade|FR||9k|3d8|j4|23
+Peypin|FR||9k|3cj|fi|1f|Puegpin
+Peyrolles-en-Provence|FR||9k|3d9|fi|15|Peiròla;Peiròla de Provença
+Peyrehorade|FR||9k|3cy|-32|y|Peirahorada;Pèira Horada;Pevrehorade
+Peynier|FR||9k|3cp|fo|v|Puegnier
+Peyrins|FR||9k|3h9|e1|p
+Pégeia|CY||73|2ow|2hy|p|Peyia;Peya
+Peyruis|FR||9k|3eb|gi|o|Peirueis
+Peyghambar|IR||7o|2qq|3xs|k
+Pey Posht|IR||7o|22o|4bd|i|Pey-ye Posht;Peyposht
+Peyrestortes|FR||9k|3ar|7x|g
+Peyrat-de-Bellac|FR||9k|3k6|2w|c
+Peyrat-le-Château|FR||9k|3j9|4x|b|Pairac dAimostier;Pairac
+Peyrilhac|FR||9k|3jn|35|b
+Peyriac-Minervois|FR||9k|3c9|75|b
+Peyriac-de-Mer|FR||9k|3bp|88|a
+Peyrelevade|FR||9k|3iy|5p|8
+Pey|FR||9k|3d7|-3c|6
+Péyétonkaya|CI||0|ot|-fq|5
+Peyrus|FR||9k|3gr|e6|5
+Peyote|MX||41|1qy|-7rh|5
+Peyula|MX||41|1mg|-7lt|5|Poyula

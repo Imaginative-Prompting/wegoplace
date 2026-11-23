@@ -1,0 +1,45 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Efon-Alaaye|NG||u|la|do|25l|Efon-Alaiye;Efon Alaaye;Efon Alaye;Effon-Alaiye
+York|GB||9b|45w|-30|17d|Efrog;Jorko;Eboracum;Évèroui;Jórvík;Jorkas;Jorka;Eoforwic;Evrek;Eabhraig;Eabhrac
+Effium|NG||u|if|me|o5
+Yefremov|RU||9i|43m|2xw|cn|Jefremov;Iefremov;Efremov;Jefriemow;Jefremow
+Effiduase|GH||1|j1|-3w|8h
+Efkarpía|GR|Central Macedonia|8p|351|1rr|4a|Evkarpía
+Ifatsy|MG||a8|-1q8|3on|46|Lfatsy;Efatsy
+Ephrata|US|Pennsylvania|48|33m|-5vm|3v|Effridaa
+Effingham|US|Illinois|2f|30o|-6ty|3i
+Effretikon|CH||a7|3nr|o5|2t
+Efrata|PS||6n|2fx|2pn|2t|Efrat
+Eforie Sud|RO||8u|3ea|27l|2n
+Eft|DE||8r|3tg|hx|2m
+Efringen-Kirchen|DE||8r|3od|l1|2a
+Efpálio|GR||8p|2yq|1ox|1j|Evpálion
+Eforie Nord|RO||8u|3ef|27j|1a
+Eflani|TR||94|372|2jk|18|Çelebiler
+Eferding|AT||a2|3q7|12y|15|Efading
+Effeltrich|DE||8r|3ty|ut|s
+Efzar|IR||7o|26r|435|r
+Effretikon / Watt|CH||a7|3nr|o6|q
+Effort|US||48|35q|-5tj|n
+Evxinoúpolis|GR||8p|30u|1r6|l|Efxeinoupoli
+Eftimie Murgu|RO||8u|3gq|1pd|i
+Effretikon / Rappenhalde-Bannhalde|CH||a7|3nq|o6|i
+Effelder|DE||8r|3yc|sh|e
+Effingham|US|New Hampshire|48|3dk|-5h8|e
+Efeköy|TR||94|2z8|2d3|c
+Efraín A. Gutiérrez|MX|Chiapas|41|19e|-744|c
+Effretikon / Rikon|CH||a7|3nr|o5|b
+Efraín A. Gutiérrez|MX|Chiapas|41|15z|-753|9|Efraína Gutiérrez
+Effiat|FR||9k|3jw|92|8
+Effretikon / Brandenriet / Vogelsang|CH||a7|3nq|o5|8
+Effretikon / Moosburg|CH||a7|3nq|o5|8
+Efland|US||48|2s8|-63x|7
+Efédron Anagénnisi|GR||8p|2xu|1u9|7
+Efraín A. Gutiérrez|MX|Chiapas|41|155|-74w|7|Efraín Gutiérrez
+Effingen|CH||a7|3nx|mi|6
+Efraín A. Gutiérrez|MX|Chiapas|41|1aw|-776|6
+Efigenia|MX||41|1tz|-7uz|6
+Effingham|US|Kansas|2f|31s|-7d0|5
+Efkarpía|GR|Central Macedonia|8p|35i|1u1|5|Evkarpía
+Efkarpía|GR|Central Macedonia|8p|363|1rn|5|Evkarpía

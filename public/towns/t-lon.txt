@@ -1,0 +1,343 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+Longyan|CN||7i|1xn|912|7wr|Lṳ̀ng-ngàng;Lung-jen;Liùng-ngâm-sṳ;Longyen shehiri;Long Nham;Lêng-nâ-chhī;Lung-yen
+Londrina|BR||4w|-1sr|-3y4|4hi
+Chợ Lớn|VN||6h|tv|88a|4bu|Sholon
+Loni|IN||6t|27v|5yp|3zd
+East London|ZA||o|-2jq|25j|3oz|KuGompo City;Yst Londonas;Buffalo City;Orient-Londono;Londinium Orientale;Tûng Lùn-tûn;EMonti
+Long Beach|US|California|3p|2lt|-94b|3np|Litus Longum;Long Byčas;Longbīča;Lonq Biç
+Longshan|CN|Jilin|7i|3b5|9nm|3l8|Lièu-nguòng;Liao-jüan;Liaojuanas;Läojuan;Liêu Nguyên;Liâu-goân-chhī;Liaoyuan
+London|CA||59|3be|-69n|39b|Landona
+Long Bien|VN||62|1mf|866|2om
+Long Xuyên|VN||6h|sv|84w|27h|Long-Shuyen
+Hạ Long|VN||62|1m7|89f|231
+Longling County|CN||7i|1wb|7m5|230
+Longueuil|CA||59|3ig|-5o3|1rp|Longejlo
+Paya Terubong|MY||6v|ex|7qk|1qz|Lóng-bué;Pāyā terupōṅ
+Longgang|CN|Guangdong|7i|1r4|8te|1nt|Liùng-kông-khî;Long Cương;Lung-kang
+Yuen Long|HK||6i|1qd|8sr|1jk|Un Long;Yuanlang
+Yuen Long San Hui|HK||6i|1qb|8sr|1jk
+Long Khánh|VN||6h|ud|89x|1bl
+Yuen Long Kau Hui|HK||6i|1qd|8sr|1b4
+Longfeng|CN|Heilongjiang|7i|3l9|9ni|169|Lung-feng
+Vĩnh Long|VN||6h|sh|86d|12b
+Le Vieux-Longueuil|CA||59|3ii|-5o7|11k
+Longshui|CN||7i|2a5|85s|xs|Lung-shui
+Longjing|CN|Jilin|7i|3at|9zi|wk
+Longjiang|CN||7i|3ni|9i8|tk
+Longonjo|AO||x|-zv|16d|pl|Congonjo
+Longmont|US||2p|33l|-83y|pl
+Longquan|CN||7i|1wj|7vs|pf
+Launceston|AU||8g|-374|bcp|pa|Lonseston;Launseston;Launcestown
+Londonderry County Borough|GB||9b|48s|-kb|o8
+Longnan|CN||7i|2ks|83g|nu
+Derry|GB||9b|48s|-kb|n9|Doire;Ker Dherow;Londonderis;Derae;Dhoire
+Longview|US|Texas|2f|2ia|-7b6|mv
+Longgang|CN|Chongqing|7i|2ai|85n|kq
+Longshan|CN|Yunnan|7i|1wc|7m6|i4
+Longfeng|CN|Hubei|7i|2cf|8g7|h7
+Long Mỹ|VN||6h|qw|859|h6
+Longgang|CN|Shandong|7i|2wl|9a9|gs|Longkou;Lung-k’ou
+Longgu|CN||7i|2oy|90h|gf
+Lonavla|IN||6t|1g3|5nx|ga|Lonavala
+Longtan|CN|Chongqing|7i|27w|8eo|g2|Lung-t’an
+Longshi|CN|Chongqing|7i|2bx|87q|fl
+Long Eaton|GB||9b|42y|-3j|db
+Lancaster|GB||9b|465|-7s|d4|Caerhirfryn;Lankastér;Lonceaster;Lankasteris
+Longshan|CN|Gansu|7i|2pb|86o|ak
+Longview|US|Washington|3p|3k6|-9hi|a8
+Longtan|CN|Chongqing|7i|29t|89i|a5|Lung-t’an
+Longxing|CN|Chongqing|7i|2ai|88n|a3
+Longhe|CN|Chongqing|7i|2aw|8bz|9x
+Longhe|CN|Chongqing|7i|2be|89q|9w
+Xã Long Hải|VN||6h|sv|89w|9s|Long Hai;Ap Long Hai
+Longqiao|CN|Chongqing|7i|2aj|8a1|9l
+Ấp Long Thạnh|VN||6h|tw|84f|9i|Long Thạnh
+Longfeng|CN|Chongqing|7i|2au|87n|9g
+Long Beach|US|New York|48|34r|-5om|9c|Longbeach
+Longju|CN||7i|2d1|8ds|8w
+Long Branch|US||48|33y|-5pj|8l|Longbranch
+Longsheng|CN|Chongqing|7i|28s|88q|8j
+Longfellow Community|US||2f|3gu|-76z|85
+Longxing|CN|Chongqing|7i|2bv|86m|7z
+Longaví|CL||4u|-2rw|-5j4|7x
+Longsha|CN|Chongqing|7i|2d4|8co|7t
+Longhua|CN||7i|295|871|7q
+Longton|GB||9b|436|-5x|7k
+Long Thành|VN||6h|tz|893|7j
+Longchi|CN|Shandong|7i|2un|97h|77
+Long Island City|US||48|356|-5pf|74|Long Island;LIC
+Longcheng|CN|Gansu|7i|2p8|86d|6z
+Longchi|CN|Chongqing|7i|27h|8ex|6w
+Longxing|CN|Chongqing|7i|2c1|867|6t
+Longowal|IN||6t|2bw|5u8|6n
+Lonar|IN||6t|1jj|5wk|6i
+Loncoche|CL||4u|-31d|-5lr|5z
+Longjumeau|FR||9k|3r9|6d|5s
+Lons-le-Saunier|FR||9k|3lo|fg|5r|Ledo Salinarius
+Longfeng|CN|Chongqing|7i|2c3|86i|5n
+Longkong|CN||7i|2bg|8br|5e
+Longmen|CN|Chongqing|7i|2dk|8b5|5e
+Longjing|CN|Chongqing|7i|2ed|8h9|5b
+Lonand|IN||6t|1e4|5q3|57
+Longchang|CN||7i|223|8bs|56
+Longlin|CN||7i|2ma|83v|51
+Long Diền|VN||6h|t4|89u|51
+Longshe|CN||7i|2a1|8cl|4s
+Londuimbali|AO||x|-y0|16k|4q
+Long’e|CN||7i|1zp|8fd|4p
+Longfield|GB||9b|3ys|u|4o
+Longxi|CN|Chongqing|7i|2ey|8gk|4j
+Longsight|GB||9b|44i|-64|4g
+Longmeadow|US||48|38t|-5lm|4e|Long Meadow
+Long Beach|US|Mississippi|2f|2cb|-6vn|4c|Longa Strando
+Loniya|IN||6t|1pa|637|46
+Longwy|FR||9k|3tk|g0|43|Lonkech;Longovicum
+Longwood|US||48|27q|-69y|3x
+Lons|FR||9k|3cc|-15|3v|Loos
+Longuenesse|FR||9k|3wx|68|3u
+Longtanzi|CN||7i|29y|85w|3p
+Lone Tree|US|Colorado|2p|31v|-83d|3o|Sola Arbo
+Löningen|DE||8r|42i|lk|3n
+Lontras|BR||4w|-23h|-3tm|3l
+Longxi|CN|Chongqing|7i|29v|8dg|3j
+Lonigo|IT||9o|3i3|vm|3d
+Long|TH||62|1e7|7pb|3a
+Longtai|CN||7i|2o4|83e|33
+Londonderry|US|New Hampshire|48|3b3|-5i9|32|Londonderri
+Lonate Pozzolo|IT||9o|3in|ob|32
+Longford|IE||8z|459|-lo|32|An Longfort
+Longdong|CN||7i|2o7|86z|30
+Longshi|CN|Chongqing|7i|2a4|85e|2x
+Longfeng|CN|Gansu|7i|2ks|83t|2u
+Longji|CN||7i|29u|84s|2t
+Long Branch|CA||59|3d3|-64x|2t
+London|US|Ohio|48|32t|-6ft|2t
+London Colney|GB||9b|3zo|-u|2q|London Olney
+Longsha|CN|Chongqing|7i|2bp|8ci|2o
+Longveaek|KH||78|wz|82z|2o|Lovek;Longvek
+Longvic|FR||9k|3nd|e2|2n
+Longido|TZ||h|-7l|2ty|2m
+Landstuhl|DE||8r|3t9|l1|2i|Londschduul
+Longdendale|GB||9b|44j|-5k|2h
+Lontra|BR||4w|-186|-3f2|2g
+Longqiao|CN|Chongqing|7i|2d2|8fs|2e
+Deutschlandsberg|AT||a2|3m2|16a|2c|Lonč;Deutschlandberg
+Longxing|CN|Gansu|7i|2lc|847|2c
+Lonato|IT||9o|3ia|t4|2a
+Long Grove|US|Illinois|2f|396|-6sg|2a
+London|US|Kentucky|48|2v5|-6hk|29
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Londontowne|US||48|305|-5wn|28|London Towne;Londontown;London Town
+Long Mountain|MU||ag|-1jz|4fx|26
+Longleng|IN||6t|21l|7be|24
+Longridge|GB|England|9b|45j|-78|23
+Lengnau|CH||a7|3n2|kh|21|Longeau
+Longboat Key|US||48|245|-6dm|21
+Longtian|CN||7i|2gt|8dr|1y
+Longwa|MM||6t|222|7ci|1v|Lungwa
+Longwood - Winton Grove|US||3p|2wm|-9f7|1v
+Longsheng|CN|Chongqing|7i|2di|8ar|1u
+Long Jetty|AU||8l|-2ko|bot|1s
+Long Ditton|GB||9b|3yq|-w|1r
+Loncura|CL||4u|-2j3|-5in|1q
+Longpont-sur-Orge|FR||9k|3r4|6d|1p|Longpont sur Orge
+Lądek-Zdrój|PL||a5|3vu|1aw|1p|Lądek Zdrój;Londekzdroja
+Londa|IN||6t|16z|5r0|1p|Landa
+Long Lama|MY||6w|ah|8ts|1n
+Longuyon|FR||9k|3tc|fl|1m
+Long Beach|US|North Carolina|48|2m7|-610|1k
+Longmen|CN|Fujian|7i|1xc|941|1i|Lung-men
+Longtang|CN||7i|28r|8bz|1h
+Long Ashton|GB||9b|3yv|-7e|1h
+Lone Grove|US||2f|2my|-7i6|1g
+Longueau|FR||9k|3uj|6k|1g|Londjeu
+Longba|CN||7i|2le|84h|1f
+Longview|US|North Carolina|48|2r9|-6a2|1d|Long View
+Lontzen|BE||8t|3ws|gp|1d|Sontzen
+Lonsee|DE||8r|3qu|rk|1c
+Londiani|KE||16|-h|2qv|1c
+Landiougou|CI||0|r6|-hh|1b|Londiougou
+Long Sutton|GB||9b|3ya|-2m|1a
+Longo|CI||0|oy|-f0|19
+Long Stratton|GB||9b|41t|3f|18
+Lonate Ceppino|IT||9o|3iz|oo|18
+Loncopué|AR||1s|-2xr|-5g5|17
+Lonoke|US||2f|2om|-73a|16
+Longding|IN||6t|22o|7cs|16
+Long Hill|US||48|36v|-5k5|16
+Long Bedian|MY||6w|ak|8up|15
+Longjing|CN|Guangdong|7i|1qo|8sl|14
+Longoni|YT||ah|-zd|3hg|14
+Longeville-lès-Metz|FR||9k|3sf|h2|14
+Longeville-lès-Saint-Avold|FR||9k|3sg|ig|13|Lubeln
+Longview Heights|US||3p|3ka|-9hk|13
+Londonderry|AU||8l|-2lh|bmq|12
+Lonsdale|US||2f|3fk|-77j|12
+Longbranch|US||3p|3n5|-9h0|12|Long Branch
+Longford|AU|Tasmania|8g|-37l|bco|12
+Long Buckby|GB||9b|41a|-30|12
+Longreach|AU||8c|-1t4|b4p|11
+Lonquimay|CL||4u|-2yt|-5i9|11|Longuimay;Lonquimai
+Long Lake|US|Illinois|2f|39p|-6st|z|Longa Lago
+Longtan|CN|Chongqing|7i|2aw|8cr|z
+Long Gully|AU||8j|-2u2|b4q|y
+Long Prairie|US||2f|3jp|-7bj|x
+Lonzo|CI||0|rw|-f0|w
+Lonneu|CI||0|jk|-mh|v
+Ấp Long Thọ|VN||6h|s5|86j|v|Long Tho
+Loncin|BE||8t|3wr|fb|v
+Lonoy|PH||71|vz|9gf|v
+Long Lawford|GB||9b|41i|-3n|u
+Londres|AR||1m|-24z|-56i|u
+Long Pond|CA||50|3nz|-435|u
+Longtown|GB|England|9b|48t|-89|u
+Long Melford|GB||9b|40n|20|t
+Longtan|CN|Hunan|7i|245|8j2|s|Lung-t’an
+Longtou’an|CN||7i|24v|8ii|s|Lungtowan;Lung-t’ou-an
+Longongara|CI||0|nn|-9j|r|Longangara
+Longtown|US||2f|2px|-7db|r
+Long Cốc|VN||62|1mo|83u|r
+Longos|PH||71|18r|9ag|q
+Loudonville|US||48|34w|-6cf|q|Lowdenville;Londonville
+Longare|IT||9o|3ic|w9|q
+Longobucco|IT||9o|31l|1a5|p
+Longlaville|FR||9k|3tl|g4|p
+Longueil-Annel|FR||9k|3tf|7y|p
+Longlisuo|CN||7i|21d|8f2|p|Lung-li-so
+Longwarry|AU||8j|-2xv|b8x|o
+Longniddry|GB||9b|4bi|-82|o
+Lunen|PH||71|ho|9my|o|Lonen
+Longyearbyen|SJ||5q|61a|17h|o|Lonqyirbyuen;Longyearbýur;Longjyrbienas;Longjērbīene
+Long Crendon|GB||9b|3zt|-2s|n
+Longara|IT||9o|3ft|ve|n
+Lónyaytelep|HU||8v|3nt|1ha|n
+Longstanton|GB||9b|418|5|n|Long Stanton
+Longperrier|FR||9k|3s9|7f|n
+Longarone|IT||9o|3kj|y6|m
+Longeville-sur-Mer|FR||9k|3ky|-46|m
+Longages|FR||9k|3cg|3g|l
+Lono|PH||71|vz|9gx|l
+Longtown|GB|England|9b|40b|-8a|l
+Longueville|AU||8l|-2lz|bnx|l
+Lone Pine|US||3p|2tp|-93y|k|Lonepine
+Long Bennington|GB||9b|437|-24|k
+Lönsboda|SE||9w|4co|13s|k
+Luh|UA||98|3p8|1uu|k|Lonka;Lug
+Long Neck|US||48|2za|-5sr|k
+Lonnerstadt|DE||8r|3u2|tx|j
+Lonneker|NL||8m|415|j7|j
+Long Valley|US||48|35b|-5rq|j
+London|US|California|3p|2tc|-97s|j|Londres
+Longueville|FR||9k|3qs|91|j
+Long Ampan Aing or Abanang|MY||6w|7e|8uq|j
+Londerzeel|BE||8t|3xo|by|i
+London Village|KI||az|5i|-c5g|i|London;Londonas;Londono
+Long Beach|US|Maryland|48|2yu|-5wf|i|Longa Strando
+Long Lake|US|Minnesota|2f|3gz|-77x|i
+Longone al Segrino|IT||9o|3j9|pp|i
+Londonderry|US|Vermont|48|3c3|-5m9|h
+Long Itchington|GB||9b|418|-3v|h
+Lonquimay|AR||1s|-2tb|-4wq|h
+Londolovit|PG||bd|-8j|bs0|g
+Lone Star|US|Texas|2f|2lv|-7cz|g
+Longny-au-Perche|FR||9k|3qt|23|g|Longny-du-Perche
+Longpré-les-Corps-Saints|FR||9k|3ux|5j|g|Longprè-chés-Corps-Saints
+Longwood|IE||8z|44h|-j8|g|Maigh Dearmhaí
+Longlier|BE||8t|3uh|f5|g
+Lone Star|US|Texas|2f|2ji|-7b3|f
+Longueil-Sainte-Marie|FR||9k|3t4|7k|f
+Longi|IT||9o|2xn|14z|f|Lonci
+Longford|AU|Victoria|8j|-2y0|bcl|e
+Longnes|FR||9k|3rw|4f|e
+Longvilly|BE||8t|3uz|g8|e
+Lone Tree|US|Iowa|2f|379|-71z|e
+Languibonou|CI||0|le|-em|e|Langüibonu;Longuibonou
+Longchamps|BE|Wallonia|8t|3v1|ft|e
+Longhoughton|GB||9b|49z|-4i|e
+Londa|IT||9o|3du|w4|e
+Long Beach|US|Washington|3p|3kr|-9kl|e|Longbeach
+Long Beach|AU||8l|-2r6|bla|e
+Longlac|CA||59|3ua|-6od|d
+Long Creek|US||2f|32l|-6ut|d|Longcreek
+Londoko|RU||7w|3s6|a6n|d|Landoko
+Longeville-en-Barrois|FR||9k|3re|eh|d
+Longastrino|IT||9o|3fv|xd|d
+Longiano|IT||9o|3ef|y9|d
+Longfossé|FR||9k|3wp|51|d
+Longuich|DE||8r|3ud|it|c
+Longecourt-en-Plaine|FR||9k|3n4|eb|c|Longecourt-en-Maine
+Longforgan|GB||9b|4cu|-8n|c
+Lone Oak|US|Tennessee|2f|2ps|-6l4|c
+Londinières|FR||9k|3uf|3w|c
+Longkamp|DE||8r|3ul|js|c
+Longchamp|FR||9k|3na|ep|c
+Lonnig|DE||8r|3vr|kl|c
+Long Beach|US|Indiana|2f|37y|-6pa|c
+Loniéné|CI||0|n3|-d7|c
+Lonaconing|US||48|31x|-63e|b
+Longwick|GB||9b|3zq|-2e|b
+Longchaumois|FR||9k|3l2|gh|b
+Lone Jack|US||2f|2zz|-79l|b|Lonejack
+Long Whatton|GB||9b|42p|-3l|b
+Longhope|GB||9b|403|-6t|b
+Long Clawson|GB||9b|42s|-2l|b
+London|US|Arkansas|2f|2q5|-771|a
+Longwang|CN||7i|2h1|86i|a
+Longcheng|CN|Hunan|7i|20b|8gy|a|Lung-ch’eng
+Longá|GR||8p|2uf|1ov|a
+Long Riston|GB||9b|45n|-t|a
+Longside|GB||9b|4fs|-5e|a
+Longueville-sur-Scie|FR||9k|3ub|33|a
+Longar|PE|Amazonas|3o|-hr|-5zf|a
+Łoniowa|PL||a5|3uo|1lh|a
+Longcross|GB||9b|3yq|-1n|9
+Longa|IT||9o|3iw|wc|9
+Lonbar|IR||7o|2wu|3qs|9
+Lončari|BA||9r|3gu|1fw|9
+Longhorsley|GB||9b|49h|-4x|9
+Longport|US||48|317|-5r0|9
+Lonzée|BE||8t|3wf|d5|9
+Long Wittenham|GB||9b|3zg|-3d|9
+Lonevåg|NO||9j|4o5|fa|9|Lonevaag
+Longframlington|GB||9b|49m|-50|9
+Longridge|GB|Scotland|9b|4b4|-a8|9
+Longádes|GR||8p|326|1m6|9|Longádhes
+Lonrai|FR||9k|3qm|4|9|Lonray
+Lone Rock|US||2f|3by|-6yk|9|Lonerock
+Longares|ES||9d|370|-39|9
+Longhu|CN||7i|1wj|95i|9
+Long Grove|US|Iowa|2f|37u|-6zm|8
+Lonjica|HR||a6|3je|19d|8
+Longes|FR||9k|3ie|d1|8
+Longueville|BE||8t|3wu|d6|8
+Longwood|SH||89|-18b|-ft|8
+Long Compton|GB||9b|40f|-4e|8
+Longobardi|IT||9o|2zi|18s|7
+Long Preston|GB||9b|462|-6a|7
+Longchamps|BE|Wallonia|8t|3wi|dm|7
+Lona-Lases|IT||9o|3k6|v6|7
+Longeault|FR||9k|3n6|el|7
+Longoteme|TO||bi|-1mu|-dil|7|Logoteme
+El Longoreño|MX||3w|1zr|-7ik|7|Longoreño
+Longeau-Percey|FR||9k|3op|eq|7
+Lóngos|GR||8p|2yd|1p6|7|Loggos
+Long|FR||9k|3v0|5i|6
+Longville|US||2f|2d1|-76z|6
+Longevelle-sur-Doubs|FR||9k|3nt|ih|6
+Longroy|FR||9k|3uv|4a|6
+Lone Oak|US|Texas|2f|2jo|-7ei|6|Loneoak
+Longues-sur-Mer|FR||9k|3t2|-1x|6
+Lonsheim|DE||8r|3ua|mg|6
+Longhena|IT||9o|3i8|ry|6
+Lønstrup|DK||8y|4fn|r8|6
+Longomapu|TO||bi|-1fs|-dfi|6|Longomabu
+Longworth|GB||9b|3zl|-40|6
+Longuesse|FR||9k|3sa|5d|6
+Longar|PE|Ica|3o|-12x|-5uf|5
+Long Lake|US|New York|48|3e5|-5qq|5|Longlake
+Longèves|FR||9k|3kf|-2r|5
+Longessaigne|FR||9k|3j7|ca|5
+Longueil|FR||9k|3uk|2p|5
+Longchamps|FR||9k|3t4|4j|5
+Longwy-sur-le-Doubs|FR||9k|3mg|ex|5

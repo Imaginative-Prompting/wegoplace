@@ -1,0 +1,987 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zaozhuang|CN||7i|2ou|92j|tr0|Cō̤-cŏng;Cao-čuang;Tảo Trang;Chó-chng-chhī
+Zapopan|MX||41|1lk|-7z7|be5|Sapopanas;Sapopano
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Zamboanga|PH||71|j7|9f3|7v0
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Zaria|NG||u|uv|lg|7k8|Zariya;Zarija
+Zarqa|JO||5t|2h3|2s9|647|Zarka;Zerka
+Zaporizhzhya|UA|Zaporizhzhia|98|3ox|2pk|5h9|Saporoshje;Saporischschja;Alexandrovsk;Zaporijya;Zaporijjâ;Záporoží;Zaporiyia;Zaporižžja;Zaporijjia;Zaporizzsja;Zaporižia;Zaporižja;Zaporoże;Zaporižžia;Saporoschje;Zaporožje;Zaporoye;Zaporozhye;Zaporizhzhia;Zaporiggia;Alessandrovia;Zaporizjzja
+Zanzibar|TZ||h|-h4|30w|5h6|Sansibar-Stadt;Sansibar;Zanjibar
+Zaragoza|ES||9d|37q|-2g|5au|Saragossa;Salduie;Saragoso;Saragosse;Saragozza;Caesarea Augusta;Saragosa;Saragoça;Zaragosa;Çaragoça;Saragoza;Saraqosa;Caesaraugusta;Zargoza
+Zagreb|HR||a6|3j9|18e|54c|Záhřeb;Zágráb;Zagabria;Zagrzeb;Zagrep;Agram;Zagabbria;Sakreb;Ságrab;Zagavria;Sagreb;Zaqreb;Sagwzlwgbouh;Zagrev;Zagrabia
+Zahedan|IR||7o|29y|4p2|49c|Zahidan
+Zaoyang|CN||7i|2h9|8p7|3pm|Tsao-yang
+Zagazig|EG||c|2cz|2fi|3bk
+Zanjan|IR||7o|2tw|3qq|2rb|Zandžan;Zandschan;Zenjān
+Zaxo|IQ||5z|2v7|3al|2al|Zakho;Zaxu
+Zliten|LY||1d|2i7|14h|1km|Zlitan;Zalitan;Ziliten
+Az Zāwīyah|LY||1d|2j0|zd|1jk|Ez Zaviye;Zawiyah;Az Zawiya
+Zango|AO||x|-p1|116|1j5
+Zabrze|PL||a5|3vs|1g7|1he|Hindenburg;Zabže;Zobrze;Zabžas;Zabje;Zaborze
+Zawiya|LY||1d|2iz|zd|1fp
+Zamora de Hidalgo|MX||41|1ji|-7w5|1fp|Zamora
+Saarbrücken|DE||8r|3sr|jh|1eu|Sarrebruck;Sarbrukeno;Saarbrécken;Sarëbryken;Saravipons;Sarbriukenas;Zārbrikene;Saarbrigge;Sárbrúch;Saarbrükken;Zaarbrükken;Saarbruecken
+Salzburg|AT||a2|3os|108|17o|Salzbourg;Salisburgo;Salisburgium;Salisburgu;Salzbursko;Salcburk;Zalcburgas;Zalcburga;Salzborg;Såizburg;Salisburgum;Saltzburg;Salisburgh;Zaltsburq
+Janzūr|LY||1d|2j6|106|16w|Zanzūr
+Zarichnyi|UA||98|3xe|2op|15v
+Zaanstad|NL||8m|41p|dd|12x
+Zama|JP||7q|2ql|ar7|10r|Sama
+Zhalantun|CN||7i|3pd|9gy|10q|Tsa-lan-t’un;Cha-lan-tun;Zalantun
+Zacatecas|MX|Zacatecas|41|1r9|-7wy|zu|Altepetl Zacatecah;Sakatekas
+Manas|KG||65|35q|5mr|y8|Dschalalabat;Jalal-Abad;Džalal-Abad;Žalal-Abad;Dzjalal-Abad;Dżalalabad;Djalalabad;Džalalabat;Žalalabad;Ĵalalabat;Žalalabat;Dzsalalabad;Džalal Abadas;Celal-Abad;Jalolobod;Džalalabada;Džalal Abad;Dzhalal-Abad
+Zābol|IR||7o|2e7|4qt|xw
+Stara Zagora|BG||9v|39v|1z8|xs|Stara Sagora;Eski Zağra;Stara-Zagora
+Lomas de Zamora|AR||1l|-2ok|-4i8|v3
+Salzgitter|DE||8r|40w|sy|t6|Zalcgiteris
+Jaffa|IL||6n|2h1|2oj|rs|Joppa;Jafa;Joppe;Yafah;Yaffa;Jophé;Yafo;Jafo;Yāfā;Giaffa;Yāp̄ô;Yaffo;Zafo
+Dhahran|SA||7e|211|3v7|rn|Dharaan;Zhahran;Dahran;Zahran;Dahahron;Dhahram
+Zárate|AR||1l|-2mq|-4jy|rj|Saratė
+Zarzis|TN||1e|2l2|uv|m1|Dzsardzsísz;Zerzis;Dżardżis;Zarzia
+Zahlé|LB||64|2m1|2rq|lp|Zahla;Sahla;Zaḩlah
+Zahir Pir|PK||6q|281|5fw|le
+Zaraza|VE||2c|pz|-51g|kk
+Zaandam|NL||8m|41o|df|jx|Zandamas
+Zahirābād|IN||6t|1d4|5zl|js
+Zadar|HR||a6|3ek|16b|ip|Jadera;Zara;Iadera;Chadra;Iader
+Zamość|PL||a5|3ww|1sl|ic|Zamostė;Zamose;Zamost’ye
+Zarechnyy|RU|Penza Oblast|9i|43s|3hj|ho|Zaretsjnyj
+Zayed City|AE||6c|1tp|457|hn|Madīnat Zāyid;Madīnat Zā’id
+Zagné|CI||0|h9|-ks|hl
+Zarechnyy|RU|Penza Oblast|9i|43l|3le|h9
+Zalaegerszeg|HU||8v|3m4|1as|h7|Zalaegersego;Jegersek;Zalaegersegas;Zalaederseg;Zalaegerseg;Egersee
+Zamora|ES||9d|37b|-fy|h6|Zamoro
+Zacapa|GT||32|15l|-6wp|gs
+Zarand|IR||7o|2dl|4d4|ge
+Zarrīn Shahr|IR||7o|2hz|3yq|fi
+Zamoskvorech’ye|RU||9i|4at|2wj|fa
+Zawiercie|PL||a5|3w9|1hy|es|Zaverce;Zavercis;Zaviercis;Zavertse
+Zaragoza|PH|Central Luzon|71|16x|9bk|er|Zaragosa
+Zabīd|YE||5r|13g|3cc|em|Zebid
+Zalău|RO||8u|3n4|1s1|ek|Zilah;Zaleu;Zelau
+Zarinsk|RU||63|457|6jy|ei|Sarinsk
+Żoliborz|PL||a5|417|1mb|e5|Zalbórz
+Zacapu|MX||41|1j2|-7ur|dx
+Zaranj|AF||6o|2e0|4ru|dv|Sarandsch;Zarandj;Zaranĝ;Zarandžas;Zerenc;Zarandż;Zaranas
+Zaječar|RS||8q|3dy|1pu|du|Zaychar;Zaiciar;Zaicear
+Zaafarana|EG||c|28v|2iq|d2|Za‘farânah;Zafarana
+Berezniaky|UA|Kyiv City|98|3w3|2d0|cs|Bereznyaky;Zatelbyn Berezniak;Zatelbyn Bereznyak
+Zagora|MA||d|2c9|-g8|c6
+Zavolzh’ye|RU||9i|4dc|3cj|bx|Zavolzje
+Zacatelco|MX||41|1he|-7kw|bq|Zacatlatelco
+Zainsk|RU||9i|49o|40n|bo|Sainsk
+Zacatecoluca|SV||2u|11j|-6uv|b0|Zakatekoluka;Sakatekoluka;Zacateccoluca
+Saña|PE||3o|-j8|-652|aw|Zaña
+Zaïo|MA||d|2p2|-7l|av
+Żary|PL||a5|3zg|162|as|Zara;Žari;Sorau;Žarow;Žarai;Soraw
+Safranbolu|TR||94|36l|2it|9s|Zafranboli
+Záběhlice|CZ||9m|3v2|14a|9s|Sabechlitz
+Zalinjay|SD||r|zv|1t7|9r|Zalingei;Zalinguei;Zalingi;Zalindži;Zalinje;Zalinji
+Same|TZ||h|-bb|2wt|9j|Zame
+Zaida|PK||6q|2mm|5lb|9i
+Zacatlán|MX||41|1je|-7k4|9d
+Zaidpur|IN||6t|22j|69x|9a
+Kerki|TM||5x|2x4|515|98|Atamyrat;Atamurat;Zamm
+Zapotlanejo|MX||41|1la|-7yb|90
+Zarqān|IR||7o|2ap|42g|8z|Zargān
+Zaqatala|AZ||61|37n|3lk|8y|Zakatala;Sakataly;Zakataly;Zakatali;Zakatalsk
+Zamānia|IN||6t|1ym|6g4|8w|Zaminia
+Zapala|AR||1s|-302|-5en|8r|Sapala
+Zarhalol|TJ||6d|2w2|59d|8j|Kommunizm
+Zagor’ye|RU||9i|4ae|2wn|8c
+Az Zabadānī|SY||69|2lo|2sa|87|Zabadani
+Zarzal|CO||27|c8|-5vb|80
+Zaventem|BE||8t|3xc|cf|7u|Saventhem
+Zanandore|BI||b|-91|2bn|7r
+Zarechnyy|RU|Sverdlovsk Oblast|7z|4dt|4qd|7q|Zaretsjnyj
+Zawyat ech Cheïkh|MA||d|2io|-gg|7p
+Zakopane|PL||a5|3sy|1jf|7l
+Zaliohouan|CI||0|iw|-hc|7j|Zaliouan;Zalihouan
+Zarya|RU|Moscow Oblast|9i|4aw|2xu|7i
+Zambezi|ZM||z|-11m|1s6|7h|Zambèze;Zambesi;Sambesi;Rio Zambeze
+Zaltbommel|NL||8m|3zx|ek|7c
+Zawyat an Nwaçer|MA||d|2kq|-l6|78
+Żagań|PL||a5|3ze|16j|75|Sagan;Zaháň;Saganum;Jaganʻ;Jaqan;Zegań
+Zavodoukovsk|RU||7z|4cy|54v|75|Sawodoukowsk;Zavodooukovsk;Zavodo-oekovsk;Zawodoukowsk;Zavodoukovszk
+Zanesville|US|Ohio|48|32y|-6bt|73
+Zărnești|RO|Brașov County|8u|3ik|1yc|6x|Zernest
+Zafar|UZ||7m|35u|5be|6w
+Zaraysk|RU||9i|484|300|6u|Zarajsk;Zaraisk
+Samborondón|EC||33|-5g|-65h|6p|Samrondón;Zamborondón
+Zaragoza|CO||27|kt|-5rz|6p
+Zaragoza|GT||32|14p|-70h|6o
+Ząbki|PL||a5|419|1mn|6j|Zombki;Zombkai
+Zacualtipán|MX||41|1ld|-7m1|6f
+Zafarwal|PK||6q|2hu|5s2|6f|Zaffarwal
+Zambrów|PL||a5|437|1ps|6d|Zambruvas;Zambrova;Zambrov
+Zapotiltic|MX||41|1ij|-7za|6c
+Zarautz|ES||9d|3c8|-61|6a|Zarauz
+Zalun|MM||7y|1ck|7dg|63
+Zabré|BF||1a|v2|-1r|61|Zabéré
+Gembloux|BE||8t|3wg|d2|61|Gembloers;Djiblou;Žamblu;Geminiacum;Jembloux
+Zacatepec de Hidalgo|MX||41|1ft|-7nj|60
+Zabrat|AZ||61|34g|3uq|5y|Sabrat
+Zaouiet Sousse|TN||1e|2rf|tj|5u|Zaouia Sousse
+Zaghouan|TN||1e|2t4|s6|5s|Zağvan;Zarhouan;Zaghwān
+Zavety Il’icha|RU|Moscow Oblast|9i|4bo|2x5|5k
+Zinjibār|YE||5r|10h|3i2|5j|Zincibar;Zinyibar;Zinjebar;Sinjibaar;Zanjibar;Zmjibar
+Žabovřesky|CZ||9m|3sp|1a1|5e
+Žatec|CZ||9m|3vt|11n|5a|Saaz
+Zaprešić|HR||a6|3je|17x|58
+Zastron|ZA||o|-2c6|238|57
+Saylac|SO||14|vj|3cr|56|Zeila;Saila;Zeilah;Zeyla;Séyla‘;Seylac;Zeylac;Zayla
+Zākīyah|SY||69|2kl|2sg|56
+Zacoalco de Torres|MX||41|1k7|-7zp|52|Capilla del Cerrito;Zacoalco de Torre
+Zapolyarnyy|RU|Murmansk|9i|5cv|2dl|4y|Zapoljarnyj
+Zaysan|KZ||5s|3nv|6jr|4w|Saissan;Zaisanas;Zaïssan;Žajsan;Zaisan
+Zaïbo|CI||0|jf|-ij|4u|Zahibo
+Zaslawye|BY||9g|461|23r|4s|Saslauje;Zasłaŭje;Zaslavje;Zasław;Zaslav;Zaslavl’
+Zarumilla|PE||3o|-9q|-66z|4p
+Zaragoza|MX|Puebla|41|1ix|-7j0|4o|Zaragosa
+Zachary|US||2f|2d5|-718|4k
+Zafra|ES||9d|2yr|-hu|4k|Çafra
+Zandvoort|NL||8m|41h|cl|4j|Landvoort
+Iziaslav|UA||98|3v8|22i|4i|Zasław;Zaslavia
+Żabbar|MT||9e|2ro|14e|4c|Zabaras
+Dzaoudzi|YT||ah|-zi|3hq|49|Zaudzi
+Zamora|EC||33|-ba|-63b|49
+Ząbkowice Śląskie|PL||a5|3wj|1ap|46|Frankenstein;Ząbkowice Szląsczé;Zombkovice Slonske
+Zavodskoy|RU||7w|3cq|a7g|45
+Żabianka-Wejhera-Jelitkowo-Tysiąclecia|PL||a5|476|1fl|41|Żôbiónka-Wejra-Jelëtkòwò-Tësąclatégò
+Zhabinka|BY||9g|410|1up|40|Żabinka;Zabinaa
+Zavidovići|BA||9r|3fh|1ef|40
+Zehak|IR||7o|2dt|4rc|3z|Zahak
+Sassenberg|DE||8r|40f|mc|3z|Zassenberq
+Zalţan|LY||1d|2jj|wz|3x
+Zag|MA||d|25u|-pt|3v
+Zarghūn Shahr|AF||6o|2j9|5a5|3t|Zaṟgūns̄ahr;Zaraghūn S̄ahr;Zaṟghun Sahr;Zargun Shahr
+Zaozërsk|RU||9i|5cs|2i5|3q
+Zdzieszowice|PL||a5|3w2|1ec|3q|Zdzešovice;Źdźyszowicy;Zagieszowice
+Zaouïa Aït Ishak|MA||d|2j0|-fx|3p|Zaouia Aït Issehak
+Zavitinsk|RU||7x|3v7|9zk|3o|Sawitinsk
+Zábřeh|CZ||9m|3uk|1av|3o|Zābržeha;Zebreh
+Zangguy|CN||7t|2vk|62t|3m
+Trastevere|IT||9o|38c|yn|3m|Trastíber;Regio Transtiberina;Zatybrze
+Zavolzhsk|RU||9i|4fo|392|3k|Zavolzjsk;Sawolschsk;Zavoljsk;Zavolžsk;Zawolžsk;Zavolzh’ye
+Zara|TR||94|32u|2ww|3k
+Zagoréta|CI||0|ik|-h3|3j
+Zaguiéta|CI||0|iv|-gu|3j
+Zaprudnya|RU||9i|4d5|2vz|3h|Zaprudnja
+Zaruma|EC||33|-a9|-655|3h
+Zaspa-Rozstaje|PL||a5|474|1fp|3g
+Saverne|FR||9k|3re|kg|3g|Zabern;Zàwere
+Zaspa-Młyniec|PL||a5|473|1fo|3g
+Zango|NG||u|109|nl|3g
+Zala|AO||x|-ls|132|3f
+Zandhoven|BE||8t|3y9|cy|3f|Santhoven
+Zakamensk|RU||6k|3vy|7yx|3f|Sakamensk;Zakamiensk
+Zajas|MK||9u|37l|1m6|3e|Zajazi;Zajac
+Zaranou|CI||0|hv|-9c|3d|Zarandu;Zaranu
+Zalanga|NG||u|th|sa|3d
+Zemetchino|RU||9i|44m|3ae|3b|Zemettsjino;Zametchino
+Zaragoza|SV||2u|11r|-6w1|39
+Zārach|IR||7o|2gv|46n|39
+Zakynthos|GR||8p|2wy|1m2|37|Zakintos;Zacinto;Zakinthos;Zante
+Zāwītah|IQ||5z|2uj|3bu|37|Zawête;Zawîte;Zāwīta
+Zamiin Uud|MN||7s|3dg|8mv|37
+Zagarolo|IT||9o|388|zm|37
+Az̧ Z̧abyah|SA||7e|1bk|3aj|35|Al Z̧abyah;Z̧abyah
+Zata|CI||0|j4|-f0|31|Zatta
+Zakrzów|PL|Lower Silesia|a5|3y5|1bm|2z|Sacrau
+Zardob|AZ||61|33q|3oj|2y
+Zabaykal’sk|RU||67|3tx|91x|2y|Zabajkalsk
+Zayukovo|RU||9i|3d6|3cd|2y|Zajukovo
+Zaki Biam|NG||u|kv|qp|2x|Zaki Biyem
+Zaragoza|MX|Coahuila|44|275|-7sc|2x
+Za Yat Kwin|MM||7y|1bn|7fj|2w|Zatkwin;Zayatkwin
+Sarnen|CH||a7|3ma|mx|2w|Sarno;Zarnenas
+Zaozyornyy|RU||6u|4bg|7b3|2v|Zaozyorny;Zaozernyj;Zaozernaya;Zaozernoye;Zaozerny;Zaozërnyy
+Zadonsk|RU||9i|41j|305|2v|Sadonsk
+Zambakro|CI||0|ip|-f1|2v
+Zacatepec|MX|Puebla|41|1hj|-7ix|2u
+Zalukokoazhe|RU||9i|3dy|3c1|2s|Zalukokoazje
+Zapadnaya Dvina|RU||9i|4ca|2h3|2s|Zapadnaja Dvina
+Zarechnyy|RU|Buryatiya Republic|6k|401|8ao|2q|Zaretsjnyj
+Zalari|RU||6k|44s|7wr|2q
+Zāhed Shahr|IR||7o|27v|45g|2p
+Zaragoza|MX|Veracruz|41|1dw|-7aw|2o
+Zambrano|CO||27|r3|-5ru|2o
+Zangué|CI||0|hv|-ew|2n|Zanguié
+Zav’yalovo|RU||63|42s|68s|2n|Zavjalovo
+Zall-Herr|AL||9y|36z|1j3|2m|Zallherraj
+Zay Kone East|MM||7y|1aw|7ez|2l
+Zacualpa|GT||32|15r|-70g|2k
+Zafferana Etnea|IT||9o|2wo|15y|2k|Zaffarana Etnea;Zafarana Etnea
+Zaadi|CI||0|hl|-fy|2k
+Zarzir|IL||6n|2ix|2pt|2j
+Zavety Il’icha|RU|Khabarovsk|7w|3s7|atm|2j
+Zeydābād|IR||7o|2a8|4aa|2j|Zaidābād;Zeid Abad
+Zafarābād|IN||6t|1ze|6dt|2j
+Az Zallāq|BH||60|20d|3w9|2j|Zallaq;Zallak;Al-Zallāk;Zellaq
+Masalovka|RU||9i|3qg|33u|2h|Zavodskoy
+Zalishchyky|UA||98|3r4|1zh|2h|Zaleszczyki;Zalișciîkî;Zalichchyky
+Zaoxia|CN|Guangdong|7i|1r1|8s4|2h
+Zaandijk|NL||8m|41r|dd|2h
+Zaza del Medio|CU||36|1p4|-64h|2f
+Zangīābād|IR|Kerman|7o|2ch|4e4|2e
+Žabalj|RS||8q|3i1|1jq|2d|Ĵabalj
+Zawadzkie|PL||a5|3wl|1fc|2c|Zavadzke;Zawadzki
+Zacapoaxtla|MX||41|1j7|-7j3|2c
+Zalla|ES||9d|3c3|-8p|2c
+Zaporizhzhya-Live|UA||98|3oz|2pt|2b|Zaporizhzhia-Live;Zaporizhia-Live
+Zayam|AZ||61|35m|3jh|2b|Dzagam;Dzegam
+Zangbawa|CN||7i|2ow|80i|29|Cangbawa
+Zāzerān|IR||7o|2ik|3z2|28
+Zalesovo|RU||63|45z|6je|27
+Zastavna|UA||98|3qs|1zs|27|Zastavka;Zastazna
+Zaouiat Djedidi|TN||1e|2ts|td|27|Zaouiet Djedidi;Zaouit Djedidi
+Zaterechnyy|RU||9i|3gf|3hl|26|Zateretsjnyj
+Zavodske|UA|Poltava|98|3w0|2ks|26
+Zayda|MA||d|2j6|-ds|26|Zaida
+Zabré|CI||0|er|-hg|26|Zaébré
+Zalaszentgrót|HU||8v|3me|1bg|26
+Zargān-e Karāneh|IR||7o|2f5|3rg|25|Zargān Garāneh
+Zell am See|AT||a2|3ng|zk|24|Zäi am See
+Zagoryanskiy|RU||9i|4bd|2xg|23|Zagorjanskij;Zagoryanskoye;Zagaryanskiy
+Zadawa|NG||u|vt|st|23
+Zangilan|AZ||61|30k|3lm|23|Ikari;Kovsakan;Zengilan;Zangilak;Zangelan
+Zavidovo|RU||9i|4d1|2th|22
+Zaragoza|PH|Ilocos|71|19j|996|22
+Zaṟah Sharan|AF||6o|2k3|5b3|22|Zara-Sharan;Zara Šaran;Zareh Sharan
+Zarichne|UA|Rivne Oblast|98|3zx|20l|21
+Zanfouénou|CI||0|in|-bf|21
+Zanica|IT||9o|3is|qx|20
+Zbąszyń|PL||a5|415|189|20|Zbonšiņa;Zabaßin;Beutschen
+Zacamulpa|MX|México|41|1hs|-7nx|1z
+Zaojiacheng|CN||7i|314|928|1z
+Zarandona|ES||9d|2xl|-33|1y
+Zacapechpan|MX||41|1gx|-7l7|1y
+Zaural’skiy|RU||7z|487|4q4|1x|Zauralskij
+Zaodrou|CI||0|jw|-jy|1x
+Żarów|PL||a5|3xi|19t|1v|Saarau;Žarova;Zarrow;Saaru
+Zaouiet Kountech|TN||1e|2qz|tx|1v
+Zavetnoye|RU|Rostov|9i|3mw|3dx|1v|Zavetnoje
+Zanè|IT||9o|3j0|vt|1u
+Zaokskiy|RU||9i|481|2vw|1t|Zaokskij;Zaokskoye
+Zhabari i Ultë|XK||8q|3b3|1lw|1t|Donje Žabare;Zabari i Ultë;Zhabar i Poshtëm;Zhabarë
+Zagorje ob Savi|SI||9a|3k5|15o|1s|Zagorė prie Savos
+Zahirogbeu|CI||0|is|-j4|1r|Zairogbe
+Za‘tarah|PS||6g|2fz|2py|1q|Za ‘Tara
+Zawoja|PL||a5|3tw|1ia|1q
+Zarichne|UA|Dnipropetrovsk|98|3rd|2q3|1q|Hvardiïské;Zarične;Saritschne;Hwardijske;Zariczne
+Zamboanguita|PH||71|pa|9i8|1q|Sab-ongan ang kogita;Zamboanguit
+Zarech’ye|RU|Moscow Oblast|9i|4ap|2vv|1p
+Tsarevo|BG||9v|395|25d|1p|Zarewo;Tzarevo
+Zăneşti|RO||8u|3m2|21r|1p
+Zapatoca|CO||27|iy|-5nj|1p
+Zarasai|LT||a3|4at|20x|1p|Zargrad;Zarasay
+Zavodskoy|KZ||5s|41r|5k2|1o
+Zāviyeh|IR||7o|2qa|3wh|1o|Zāvyeh;Zārīyeh
+Zanaga|CG||a|-7x|12f|1n
+Zaguinasso|CI||0|rx|-ho|1n|Zinguinasso
+Zāgh Marz|IR||7o|2u8|442|1n|Zagamarz
+Zalegoshch’|RU||9i|42y|2uh|1n|Zalegosjtsj
+Zaouiet ed Debarh|DZ||3|2ai|1z|1n
+Zacháro|GR||8p|2w4|1o5|1n|Zakháro
+Zakuéoua|CI||0|hd|-i3|1n|Zakoéoua
+Zarkesh|IR||7o|2t5|4la|1m
+Žamberk|CZ||9m|3v5|19r|1m
+Zákamenné|SK||8s|3t7|1hl|1l
+Žarnovica|SK||8s|3qo|1g0|1l|Zsarnóca;Žarovnica
+Zadioa|CI||0|hv|-hs|1l|Zadioua;Zadiohoa
+Zarrīn Rūd|IR||7o|2rc|3qo|1l
+Zarat|TN||1e|2lj|sr|1l
+Zavoronezhskoye|RU||9i|42w|34n|1k|Zavoronezjskoje;Zovoronezhskoye
+Zakarékro|CI||0|e7|-fk|1j|Zakareko;Zakarko
+Zaigrayevo|RU||6k|3zz|8cq|1j|Zaigrajevo;Zaigrayeva;Zaigraeve;Zaigrakvo
+Zărneşti|RO|Buzău County|8u|3hu|22n|1j
+Zagon|RO||8u|3j5|20k|1i
+Zaragoza de Guadalupe|MX||41|1h7|-7ot|1i
+Zahia|CI||0|j8|-ia|1i
+Zaouiet Medien|TN||1e|2u5|p9|1i|Zaouiet Madien
+Zarnaq|IR|East Azerbaijan|7o|2xt|3ms|1h|Zarnā;Zaraq
+Zandberg|NL||8m|3z9|da|1h
+Za'abeel|AE||6c|1y3|49n|1h|Zabeel
+Zahesi|GE||7n|386|3gb|1g
+Gantiadi|GE||7n|3ci|33c|1g|Gant'iadi;Zandrypsch;Tsandripsh;Candrypš;Tsandryphsh
+Zakharivka|UA|Odesa|98|3nh|2an|1f|Sachariwka;Zacharivka;Zaxarivka;Zaharivka;Zajarivka;Zachariwka;Zaharivca;Zakhar’yevka;Zakharovka
+Zagórz|PL||a5|3tj|1pv|1f|Zagoža
+Zapata|US||2f|22r|-7nr|1f
+Zaouiet Azmour|TN||1e|2uk|ul|1f|Zaouiet Lazmour
+Sevenum|NL||8m|3yt|gs|1e|Zaerem
+Sangüesa/Zangoza|ES||9d|3a9|-3k|1e|Sangüesa;Zangotza;Zangoza;Sangòssa
+Zapfendorf|DE||8r|3uy|ud|1e
+Zapotlán de Juárez|MX||41|1ji|-7mm|1e
+Žalec|SI||9a|3kh|164|1d
+Zaymishche|RU||9i|42h|2hj|1d|Zajmisjtsje
+Zakan-Yurt|RU||9i|3c6|3i6|1d|Zakan-Jurt;Zakin-Yurt;Sakan-Jurt
+Zalizne|UA||98|3qd|2x9|1d|Artemovskii Ruo;Artëmovo;Artemove
+Zubutli-Miatli|RU||9i|3c0|3m1|1d|Zabutli-Miatli
+Az Zāwiyah|PS|West Bank|6g|2h6|2pc|1d|Zāwiyah;Ez Zāwiya
+Zacoalpan|MX||41|1ai|-7l1|1d|Zacualpan;Zacualpa
+Zacualpan|MX|Nayarit|3x|1n1|-845|1d|Zacualpa;Zacualpam;Zacoalpán
+Seifhennersdorf|DE||8r|3xh|14k|1d|Zaruž;Wodowe Hendrichecy;Zeifhennersdorfa
+Zacatepec|MX|Oaxaca|41|1ak|-7k7|1d
+Zakogbeu|CI||0|iu|-iy|1c|Zagogbé
+Záhony|HU||8v|3qh|1pm|1c
+Zator|PL||a5|3uw|1i0|1c
+Zasechnoye|RU||9i|43j|3h8|1b|Zasetsjnoje;Zosechnoye
+Zaykovo|RU||7z|4fw|4uc|1b|Zajkovo
+Zăbala|RO||8u|3ji|20q|1b|Zabola
+Zabierzów|PL||a5|3v7|1j0|1b
+Zalafa|IL||6n|2if|2pr|1a|Zalafe
+Zavallya|UA||98|3py|2be|1a|Zavallia
+Zamaka|CI||0|j7|-9i|1a
+Bad Saarow|DE||8r|418|133|1a|Zarow
+Zakroguhé|CI||0|hm|-hz|1a
+Zasullia|UA||98|3uv|2jr|19|Zasullya;Zasul’ye
+Zāvosht|IR||7o|2vt|3k0|19
+Zătreni|RO||8u|3gd|1u9|19
+Za Bougrine|MA||d|2m2|-ch|19
+Zavetnyy|RU||9i|3gt|36a|19|Zavetnyj
+Zapolyarnyy|RU|Komi|9i|57i|4x1|19|Zapoljarnyj
+Zawīlah|LY||1d|20o|161|18
+El Zapote|MX|Jalisco|41|1mn|-7xl|18|Zapote
+Zăbrani|RO||8u|3jz|1nv|18|Guttenbrunn;Zábrány;Guttennbrunn;Gutenbrunn
+Żarki|PL|Silesia|a5|3wn|1hs|18
+Zabolottya|UA||98|3zf|1vd|17|Zabolot’ye;Zabolottia;Zablot’ye;Zablotse
+Zaozerne|UA||9t|3hg|2kg|17
+Zasosna|RU||9i|3wn|2yo|17
+Zalamea de la Serena|ES||9d|2zd|-fq|17
+Zangīābād|IR|Fars|7o|2ba|42t|17
+Zabrišće|BA||9r|3dn|1b2|17
+Żabno|PL|Lesser Poland|a5|3v9|1m1|17|Żadno
+Zăpodeni|RO||8u|3lv|24t|16
+Zăvoi|RO||8u|3ig|1qa|16
+Zawidów|PL||a5|3xr|15u|16|Zavidova
+Zangīyān|IR||7o|23x|4ta|16|Sangīān;Zangīān
+Zaḩar|JO||5t|2ih|2re|16
+Zacisze-Zalesie-Szczytniki|PL||a5|3xz|1bf|15
+Zafreh|IR||7o|2ia|3z2|14|Zefreh
+Zamānābād|IR||7o|2qr|3z4|14
+Zabolotiv|UA||98|3qn|1y9|14|Zabłotów;Sabolotiw;Zabolotyiv
+Zaitseve|UA|Donetsk|98|3qf|2xn|14|Zaytseve;Zaytsevo
+Zacate Colorado|MX|Veracruz|41|1ky|-7ix|14
+Zaffelare|BE||8t|3y1|aq|13|Saffelaere
+Zarichchia|UA|Zakarpattia|98|3q4|1rv|13|Zarichchya;Alsókaraszló
+Zavetnoye|RU|Stavropol Kray|9i|3gb|37k|13|Zavetnoje;Zavetnyy
+Tsalka|GE||7n|37k|3eh|13|Zalka;Calka;Țalka;Ts’alk’a
+Zanzansso|CI||0|kh|-as|13|Zanzanso;Zanxanso
+Zambrano|HN||56|13n|-6qs|13
+Zohor|SK||8s|3q8|1b6|12|Zahor
+Zaberfeld|DE||8r|3sa|ot|12
+Zarichchia|UA|Ivano-Frankivsk|98|3qs|1wh|12|Zaritsjtsja;Saritschtschja;Zarichchya;Zaritchtchia;Zaricscsja;Zariççâ;Zarechye;Zariččja;Zarzecze;Zaricicea;Zarech’ye
+Żarki|PL|Lesser Poland|a5|3v4|1hr|12
+Zahānah|TN||1e|2uw|rw|12
+Zanoufla|CI||0|iw|-go|12
+Zawlnuam|IN||6t|1v1|74h|11
+Zagra|RO||8u|3nh|1vg|11
+Zagyvarékas|HU||8v|3nb|1jx|11
+Zaplavnoye|RU||a4|3ra|3h2|11|Zaplavnoje
+Zahourayo|CI||0|f7|-gs|10
+Zahna|DE||8r|407|zj|10
+Zavet|BG||9v|3dk|224|10|Zavot;Zavyet;Zavjet;Zavut
+Zacango|MX||41|1go|-7oy|10
+Zanzra|CI||0|ks|-h9|10
+Zarza de Alange|ES||9d|2zu|-ha|10
+Zarcero|CR||2i|sa|-6if|10
+Zandak|RU||9i|3bm|3l2|z|Dagbaş;Zandaq̇a;Dagbash;Zandaq
+Zahvizdia|UA||98|3rw|1wi|z|Zahvizdja;Sahwisdja;Zahvizdya;Zagwóźdź;Zahvizdea
+Zatyshshya|UA||98|3nh|2b0|z|Zatychchia
+Zapotitlán de Vadillo|MX||41|1ib|-80d|z
+Zalamea la Real|ES||9d|2wo|-ii|z
+Zacualpan de Amilpas|MX||41|1g6|-7md|z|Zacualpan;Opština Zacualpan
+Zaliznychne|UA|Odesa|98|3j3|27h|z|Bulgărica;Salisnytschne;Zaliznytchné
+Zandvoorde|BE||8t|3y8|89|z
+Zăvoaia|RO||8u|3gv|24c|z
+Evrostína|GR||8p|2xr|1q7|z|Kounianika;Zacholi;Zákholi;Evrostíni
+Zapotitán de Hidalgo|MX||41|1kh|-7zg|y
+Zabok|HR||a6|3jv|186|y
+Zall-Bastar|AL||9y|373|1jd|y
+Zagorochória|GR||8p|32s|1lz|y|Zajori;Zagorohoria;Zagorokhoria
+Zavodske|UA|Ternopil|98|3s4|1zt|y|Zawodśke
+Zakroczym|PL||a5|41n|1l9|x|Zakročima;Zakrochim
+Zandweg-Oostwaard|NL||8m|40u|e1|x
+Zámutov|SK||8s|3ru|1nw|x
+Zhamashi|CN||7i|2y4|7pu|x|Zamashi
+Zachepylivka|UA|Kharkiv|98|3so|2pw|x|Satschepyliwka;Zatchepylivka;Zachepilivka;Začepylivka;Zatsjepylivka;Zaçepılivka;Zaczepyliwka;Zatxepílivka;Zachenilovka;Zachepilovka
+Zabolotovka|RU||9i|3vo|317|x
+Zarozhany|UA||98|3qi|212|x|Zarojany;Zarojani
+Zapotlán del Rey|MX||41|1kv|-7xx|x
+Zarraga|PH||71|u2|9gl|x|Zarrago
+Zarrentin am Schaalsee|DE||8r|44r|uc|w
+Zamudio|ES||9d|3c9|-7z|w|Zamudia
+Zapponeta|IT||9o|376|18c|w|Zapponétë
+Zalalövő|HU||8v|3m5|1a3|w
+Zagórzyce|PL||a5|3uy|1o8|w
+Zamostea|RO||8u|3oz|20s|w
+Zadiayo|CI||0|h4|-hd|w|Zadiahio
+Zaton|RU||63|441|6gt|w
+Zams|AT||a2|3n0|tf|v
+Żabnica|PL||a5|3tq|1h8|v
+Zalakomár|HU||8v|3la|1bq|v
+Zalesie Górne|PL||a5|40j|1mg|v
+Žacléř|CZ||9m|3wq|187|v|Scheczler
+Zabrzeg|PL||a5|3uo|1gm|v
+Zašová|CZ||9m|3tf|1e4|v
+Bad Schandau|DE||8r|3xg|13b|v|Žandow;Bādšandava
+Zarechnyy|RU|Ryazan Oblast|9i|459|31z|v|Zaretsjnyj
+Zaytā|PS||6g|2hz|2pd|v
+Zabeltitz|DE||8r|3yn|11i|u
+Zaliznychne|UA|Poltava|98|3tp|2o4|u
+Zandanakaha|CI||0|rx|-em|u
+Zaouia|DZ||3|226|3v|u
+Zahnitkiv|UA||98|3ph|289|u|Zagnitkiv;Zagnitkov
+Zaklików|PL||a5|3x0|1pe|u
+Zapopan2|MX||41|1lk|-7z8|u
+Zamora|HN||56|17f|-6n3|u
+Zaamslag|NL||8m|3yj|av|u|Zaomslag
+Zagórów|PL||a5|40x|1dq|u|Zagurova
+Zacualpan|MX|México|41|1g0|-7p6|u|Zacoalpan
+Zacazonapan|MX||41|1gz|-7qi|u
+Zagórze|PL||a5|3v5|1hw|u
+Zarichne|UA|Donetsk|98|3s6|2xd|u|Imeni Kirova;Kirova;Kirovsk;Kirovs’k;Kirovo;Kirowo;Saritschne;Zarične;Zaritchne;Zaritsjne;Zaritšne;Kirowsk;Zaricine;Kirove;Kirowe
+Závod|SK||8s|3qu|1bb|t
+Zákupy|CZ||9m|3ws|14p|t|Reichstadt
+Zembrzyce|PL||a5|3ua|1ig|t|Zambrzyce
+Zakharovo|RU||9i|471|314|t
+Suchdol nad Odrou|CZ||9m|3ty|1dt|t|Zauchtel
+Zapotlán|MX||41|1ib|-7mq|s
+Zantongouin|CI||0|l2|-ln|s|Zantongouen
+Zahinos|ES||9d|2yh|-jc|s
+Zacaola|MX||41|1gg|-7jt|s|Zanaola
+'t Zand|NL||8m|42s|d8|s|Zand
+Zákányszék|HU||8v|3kj|1j9|r
+Zanjīreh-ye ‘Olyā|IR||7o|2lx|3ld|r
+Zapoapan|MX||41|1gc|-7hf|r
+Zapotitlán|MX|Puebla|41|1ex|-7ir|r
+Zacarias|BR||4w|-1mh|-3v1|r
+Zaïpobli|CI||0|gj|-kr|r
+Zāwyat Umm ar Rakham|EG||c|2f8|235|q|Zāwiyat Umm ar Rakham
+Zărand|RO||8u|3kw|1o5|q
+Zavar|SK||8s|3qb|1d3|q
+Zanaplidougou|CI||0|s2|-ee|q|Zanaplédougou
+Zahattia|UA||98|3qg|1rr|q|Zahattya;Zagat’ye;Zahattja;Hátmeg;Zahattea
+Zarós|GR||8p|2pl|1x6|q
+Zarzecze|PL|Subcarpathia|a5|3wd|1po|p
+Zaliztsi|UA||98|3uc|1yi|p|Załośce;Załoźce
+Zalisne|UA||98|3pf|2zt|p
+Zavāraq|IR||7o|2vm|3k0|p
+El Zapotal del Norte|HN||56|174|-6sl|p|Zapotal del Norte
+Zamostochye|BY||9g|45i|25f|p
+Zastávka|CZ||9m|3sn|19g|p
+Zaborze|PL|Lesser Poland|a5|3uy|1hg|p
+Zacualpan|MX|Guerrero|41|1bh|-7qp|p|Zacualpa
+Zarubino|RU|Primorye|7w|3ah|a43|p
+Zabłudów|PL||a5|439|1su|p|Zabluduvas;Zabludova
+Zarnaq|IR|East Azerbaijan|7o|2xi|3kz|o
+Zaratán|ES||9d|37q|-da|o
+Zau de Câmpie|RO||8u|3lh|1v1|o|Mezőzáh
+Zagorá|GR||8p|31l|1s6|o
+Zarrīnābād|IR||7o|2t7|3q4|o|Zarinabad
+Żarki-Letnisko|PL||a5|3wm|1hk|n
+Zalom|UA||98|3q1|1ss|n
+Zálesie|SK|Bratislava Region|8s|3pt|1bz|n
+Zarichovo|UA||98|3rh|1qk|n|Zaricheve;Zarichevo;Zarichov;Zarechevo
+Sayulilla|MX||3x|1qc|-84r|n|Sayulita;Zayulilla
+Arpaçay|TR||94|35h|3cd|n|Zarishat;Zarehashat;Grenaderskoye;Zaruşat;Zarşat
+Khachpar|AM||80|33h|3fd|n|Zakhmet;Khachaparakh;Zakhmat
+Zálesie|SK|Prešov Region|8s|3t1|1kn|m
+Zavorychi|UA||98|3wv|2ei|m|Zavorichi
+Zalas|PL||a5|3v4|1ii|m|Zalesie
+Sayda|DE||8r|3wv|11a|m|Zaida
+Zabelê|BR|Paraíba|2w|-mg|-2v2|m
+Zavet-Leninskiy|UA||9t|3je|2nj|m
+Sauta|MX||3x|1oc|-842|m|Zauta
+Zarxoq|TJ||6d|33v|5g1|m
+Zala|CI|Sassandra-Marahoue|0|kd|-il|m|Zaala
+Zamárdi|HU||8v|3m8|1dv|m
+Zaniemyśl|PL||a5|40w|1bo|m
+Zámoly|HU||8v|3ng|1f5|m
+Zafarraya|ES||9d|2uq|-bi|m
+Zachenberg|DE||8r|3s1|104|m
+Zamou|CI||0|ns|-ah|m
+Zagkliveri|GR||8p|34p|1sp|m
+Zahibohio|CI||0|hx|-gj|m
+Zacatepec|MX|Oaxaca|41|1bo|-7ef|m
+Zarren|BE||8t|3xq|88|m|Zarrn
+Zalamea|MX||41|1kf|-7wr|l|Salaméa
+Zam|RO||8u|3js|1qd|l
+Zagórnik|PL||a5|3ug|1hu|l
+Zartonk|AM||80|33f|3eo|l|Zart’onk’;Zartonq
+Zalewo|PL||a5|45l|1ih|l|Saalfeld;Zalevo
+Zamostia|UA||98|3qb|1ym|l|Zamoste;Zamost’ye;Zamostya
+Zay Kone West|MM||7y|1ax|7ey|l
+Zaytā Jammā‘īn|PS||6g|2ha|2pr|l
+Zandobbio|IT||9o|3ix|re|l
+Zagyvaszántó|HU||8v|3oq|1in|l
+Zădăreni|RO||8u|3k5|1my|k
+Zarechnoye|UA|Crimea|9t|3gl|2n6|k|Ajan
+Zambujeira do Mar|PT||99|2w9|-oe|k
+Zanasso|CI||0|tg|-hr|k
+Afiny|UA||98|3ne|2wh|k|Zorya;Zoria;Zarya
+Zahuatlán de Morelos (San José)|MX||41|1gq|-7jv|k
+Zatoka|UA||98|3jz|2cm|k|Bugaz;Satoka
+El Zamorano|MX||41|1lt|-7q4|j|Zamorano
+Žabljak|ME||9l|3bv|1h4|j|Žabliakas;Zhabjaku
+Zagorskie Dali|RU||9i|4cn|2xj|j
+Žandov|CZ||9m|3wv|140|j|Sandau
+Zacualpan|MX|Colima|41|1hs|-80e|j
+Zaroko|CI||0|h2|-eq|j
+Zangboplé|CI||0|pw|-ga|j
+Zandt|DE||8r|3sj|zd|j
+Zâmbreasca|RO||8u|3f4|1xe|j|Zâbreasca;Zîmbreasca
+Zacapuato|MX||41|1fv|-7rh|j|Tepetates
+Záhorská Ves|SK||8s|3qe|1at|j|Uhorská Ves;Ungeraiden;Magyarfalu;Magyarfalva
+Zawātā|PS||6g|2hl|2pv|j
+Zawichost|PL||a5|3x5|1op|j|Zavihosta
+San Andrés Zautla|MX||41|1br|-7h2|j|Zautla
+Za|CI||0|io|-hv|i
+Zalazzia|UA||98|3zp|1xx|i|Zalazzya;Zalaz’ye;Zalaze
+Zaporozhye|KZ||5s|3zd|57a|i|Zaporozh’ye;Zaporozh’e
+Zacatla|MX||41|1gt|-7hu|i
+Sallgast|DE||8r|3zb|12h|i|Załhozdź
+Zarechnoye|UA|Crimea|9t|3j2|2ns|i
+Ṣandala|IL||6n|2ic|2q4|i|Sanddalah;Ẕandala
+Zapson|UA||98|3q4|1qf|i
+Zacamulpa Tlalmimilolpan|MX||41|1hv|-7o9|i|Sacamulpa Tlamimilolpan
+Zaisenhausen|DE||8r|3sf|oh|i
+Zaidín|ES||9d|37k|q|i|Saidí
+Zacisze|PL||a5|3y0|1bf|i
+Zaluzhzhia|UA||98|3qc|1rh|i|Zaluzh’ye;Zaluzh’;Zaluzha;Zaluzhzhya
+Zásmuky|CZ||9m|3ur|15r|i|Zásmuk
+Zandbergen|BE||8t|3x4|b1|i|Santbergen
+Zalakaros|HU||8v|3ld|1bk|h
+Zapotitlán|MX|Puebla|41|1jk|-7jf|h
+Zarza de Granadilla|ES||9d|33s|-gt|h
+Zamora Pico de Oro|MX||41|19d|-705|h
+Zagnańsk|PL||a5|3xm|1le|h
+Zacapalco|MX|Morelos|41|1fs|-7mw|h
+Zapotitlán Tablas|MX||41|1ce|-7me|h
+Zákopčie|SK||8s|3t9|1g1|h
+Zabierzów Bocheński|PL||a5|3v3|1kg|h
+Zarya|RU|Altai Krai|63|424|6km|h|Zarâ
+Zanakaha|CI|Savanes District|0|qs|-fo|h
+Dusyno|UA||98|3qr|1s6|h|Zajgó;Dusyna
+Žabčice|CZ||9m|3s5|1a4|h|Žabčic
+Sajan|RS||8q|3jc|1kc|h|Zaján;Szaján
+Zavydovo|UA||98|3qf|1rm|g|Zavidovo;Dávidfalva;Zavydove
+Zaratamo|ES||9d|3c2|-7z|g
+Zavetnoye|UA|Crimea|9t|3hx|2op|g
+Zagrodno|PL||a5|3y7|183|g
+Zakrzewo|PL|Greater Poland|a5|44d|1bn|g
+Zapotitlán|GT||32|13a|-6xj|g
+Zagoué|CI||0|ks|-ku|g|Zangoué
+Zarubino|RU|Novgorod Oblast|9i|4j6|2l0|g
+Zappendorf|DE||8r|3z3|ws|g
+Zarzecze|PL|Subcarpathia|a5|3uv|1qm|g
+Zaaydarivka|UA||98|3to|30m|g|Zaaidarivka;Zaaydarovka;Zagaydarovka
+Sanad|RS||8q|3jq|1jv|g|Szanád;Zanad
+Zarpen|DE||8r|45n|t8|g
+Zangokro|CI||0|lt|-fh|g|Zoungokro
+Zahara|ES||9d|2uc|-ez|g
+Zambana|IT||9o|3k7|uu|g
+Zaječí|CZ||9m|3rr|1al|g|Zaječē
+Zagarise|IT||9o|30c|1aa|g
+Zabrđe|BA||9r|3g7|1gr|g
+Zaragoza|MX|Tlaxcala|41|1ho|-7ky|f
+Zádveřice-Raková|CZ||9m|3sq|1dg|f
+Zäziwil|CH||a7|3ma|la|f
+Zakliczyn|PL||a5|3ui|1lt|f
+Zaliznyy Port|UA||98|3k4|2hq|f|Zheleznyy Port;Zaliznyi Port;Zhelezny Port
+Zacacoyuca|MX||41|1ep|-7oh|f
+Zagoué-Guiané|CI||0|lv|-kn|f
+Zar|AM||80|33u|3g9|f
+Zănoaga|RO|Dolj|8u|3eo|1uy|f
+Zacualtipanito|MX||41|1mr|-7mg|f
+Zabelê|BR|Rio Grande do Norte|2w|-ex|-2ra|f|Agrovila do Projeto de Assentamento Quilombo dos Palmares;Agrovila do PA Quilombo dos Palmares
+Zamch|PL||a5|3vs|1rz|f
+Zarza la Mayor|ES||9d|32s|-j2|f
+Çayarası|TR||94|339|3au|f|Zaraphane
+Zapotitlán Lagunas|MX||41|1dc|-7lb|f
+Zavodouspenskoye|RU||7z|4dy|50m|e|Zavodouspenskoje
+Zaječov|CZ||9m|3u9|12g|e|Zajícov;Zaječow
+Zan Hounien|CI||0|js|-mk|e
+Zaliznytsia|UA||98|3zm|1z1|e|Zaliznytsya;Zaliznitsa
+Palo Mulato|MX||3z|1e2|-78i|e|Zapotal
+Zashkiv|UA||98|3ur|1un|e|Zasjkiv;Saschkiw;Zaskiv;Zaszków;Zashkuv;Zashkov
+Zamachihue|MX||41|1qj|-7ou|e
+Zakrzówek|PL||a5|3xj|1q6|e
+Zarjān|IR||7o|28e|43t|e|Zarjūn
+Zarala|CI||0|n0|-71|e
+Zapolice|PL||a5|3z6|1gg|e
+Zaragoza|MX|Oaxaca|41|1ab|-7jn|e
+Zaritap|AM||80|324|3if|e|Pashalu;Pashaghu;Azizbekov;Zarrit’ap’;Paşalı;Zarritap
+El Zapotal|MX|Chiapas|41|1aj|-720|e|Zapotal
+Zakupne|UA||98|3sg|215|e|Zakoupné
+Zaragoza (Puerto de Medina)|MX||41|1j7|-7q4|e
+Zapoapan de Cabañas|MX||41|1ex|-7c6|e
+Ždiar|SK||8s|3sv|1ka|e|Zár;Ždjar;Zdziar
+Zacatonal de Juárez|MX||41|1bz|-75s|e
+Zangarro (Zangarro Nuevo)|MX||41|1ly|-7tb|e
+Zadní Mostek|CZ||9m|3wa|17m|e
+Zavodivka|UA||98|3n7|2dl|d|Zavodovka;Zavadovka
+Zaniza|MX||41|1aa|-7ie|d
+Zarechnyy|RU|Ivanovo Oblast|9i|4fn|39g|d|Zaretsjnyj
+Zărneștii de Slănic|RO||8u|3hs|22c|d|Zarneşti de Slanic
+Zarzalejo|ES||9d|34n|-bm|d
+Zangohoba|CI||0|pu|-k0|d
+Zabanandougou|CI||0|mz|-mp|d
+Zacacuautla|MX||41|1k6|-7kv|d
+Zabłocie|PL||a5|3um|1g6|d
+Zamishevo|RU||9i|41y|2gx|d|Zamisjevo;Zamyshevo
+Zacatula|MX||41|1e1|-7vu|d|Zacapula
+Zāvīyeh-e Ḩasan Khān|IR||7o|2z4|3go|d
+Žagarė|LT||a3|4ck|1sl|d|Żagory;Zhagare
+Zapote de Peralta|MX||41|1kt|-7tn|d
+Zakīābād|IR||7o|2rj|3wr|d|Zekīābād;Zakkiābād
+Zalesie i Stadion|PL||a5|3y0|1bh|d
+Zakoua|CI||0|iw|-hx|d
+Zaoxia|CN|Guangdong|7i|1qp|8se|d
+Zaisho|JP||7q|1zr|a4j|d
+Zamarski|PL||a5|3ua|1fv|d
+Z̄avāt-e Sharq|IR||7o|2tr|3yq|d
+Zahutyń|PL||a5|3tl|1pr|d
+Zapuyo|MX||41|1nb|-7ms|d
+Zaragoza la Montaña|MX||41|19m|-745|d|Zaragoza de la Montaña
+Zadvorsko|HR||a6|3j0|187|d
+Zaragoua|CI||0|iv|-hs|d
+Żabia Wola|PL|Mazovia|a5|40j|1lh|d
+Zabrid|UA||98|3q5|1th|d|Zabrod’
+Zabrod'|UA||98|3rx|1qe|d|Zabrid'
+Zacamixtle|MX||41|1n1|-7jg|c|Zacamuixtle
+Zapotitlán Palmas|MX||41|1dp|-7jq|c
+Zangagleu|CI||0|kp|-n2|c
+Zahidougba|CI||0|g3|-g0|c
+Zaakro|CI||0|ic|-e3|c
+Zanakaha|CI|Vallée du Bandama District|0|o6|-fe|c
+Zakoa|CI||0|h8|-hc|c
+Zahara de los Atunes|ES||9d|2se|-g9|c|Zahara
+Zarzecze|PL|Lesser Poland|a5|3vx|1iq|c
+Zaguédia|CI||0|ik|-hv|c
+Zagăr|RO||8u|3kr|1we|c
+Zarudchi|UA||98|3zt|1yx|c|Zarudche;Zaruoche
+Za Yat Kone|MM||7y|1a9|7eq|c|Zayatkon
+Zaherpur|BD||6a|1wk|71a|c
+Zamarovce|SK||8s|3rv|1e5|c
+Zavetnoye|UA|Crimea|9t|3hc|2t4|c|Köp Taqyl
+Zalesie|PL||a5|3ux|1ql|c
+Zangakatun|AM||80|32m|3h4|c
+Zátor|CZ||9m|3uz|1cv|c
+Zaragoza|MX|Chiapas|41|1b9|-72k|c
+Zăuan|RO||8u|3n6|1qy|c|Zovány;Szilágyzovány
+Zaitseve|UA|Donetsk|98|3qt|2xr|c|Zaytseve;Zaytsevo
+Zalissia|UA||98|3z7|1xb|c|Zalissya;Zales’ye;Zalesie;Zalese
+Xayacatlán de Bravo|MX||41|1eo|-7k6|c|Zayacatlán de Bravo
+Závišice|CZ||9m|3tt|1ea|c|Sawersdorf
+Zalha|RO||8u|3n2|1td|c
+Zăval|RO||8u|3dt|1u8|c
+Zabrušany|CZ||9m|3wk|12b|b
+Záryby|CZ||9m|3vi|14n|b|Zaraby
+Zanikro|CI||0|lq|-eq|b
+Zacatal|MX|Oaxaca|41|1b2|-7cg|b
+Zakrzów|PL|Lesser Poland|a5|3uf|1il|b
+Tsaghkadzor|AM||80|34l|3g8|b|Zaghkadsor;Tsachkadzor;Cachkadzoras;Țahkadzor;Cachkadzor;Konstantinovskoye;Tsakhkadzor
+Zamora|MX|Veracruz|41|1fm|-7d8|b
+Zarrendorf|DE||8r|46o|10e|b
+Żabieniec|PL||a5|40m|1mh|b
+Zapote de Cestau|MX||41|1kw|-7ug|b|Zapote de Cestao
+Zapotán|MX|Nayarit|3x|1ml|-83a|b
+Zarzecze|PL|Silesia|a5|3u4|1ha|b
+Zapotanito|MX||3x|1n7|-82l|b
+Zapote de Palomas|MX||41|1l6|-7sv|b
+Zarkī|IR||7o|2t0|4lp|b
+Zarszyn|PL||a5|3tq|1p5|b
+Zarih|UA||98|3ud|2iq|b|Zarog
+Zacate Colorado Segundo (Fraternidad)|MX||41|1fw|-7el|b
+Zaliznychne|UA|Zaporizhzhia|98|3od|2sh|b|Zaliznytchné;XX-richia Zhovtnia;Salisnytschne;Zaliznytjne;Zaļiznične;Zaliznichne;Zaliznyčne;Zaliznyczne;Zaliznîcine
+Zambla|ML||0|sg|-jf|b
+Zaitseve|UA|Dnipropetrovsk|98|3qj|2r3|b|Zaytsevo;Zaytseve;Zaitsevo;Zaytseva
+Zaafrane|TN||1e|2kw|os|b
+Zagra|ES||9d|2vi|-bl|b
+Zavadka|UA||98|3rj|1s9|b
+Zacualpa|MX|Chiapas|41|165|-75b|b
+Zăvoiu|RO||8u|3g2|1yk|b
+Zaporizhzhya|UA|Zaporizhzhia|98|3mz|2ra|b|Zaporozh’ye;Zaporizhzhia
+Zacapala|MX||41|1fn|-7kf|b|Zacalapa
+Zapote de Barajas|MX||41|1km|-7ui|b
+Zalesye|UA||9t|3gp|2mq|b
+El Zapotillo|MX|Chiapas|41|1as|-767|b|Zapotillo
+Zapotillo de Mogotes|MX||41|1km|-7t9|b
+Zagavia|RO||8u|3nq|22q|b
+Zall-Dardhë|AL||9y|385|1ki|b|Zall i Dardhës;Zall-Dardha
+Zamora|MX|Sonora|37|29a|-8k1|a
+Za Hung|VN||6h|185|8b4|a
+Zapoapan de Amapan|MX||41|1eo|-7ce|a
+Záhorovice|CZ||9m|3s6|1de|a
+Zacamulpa|MX|Hidalgo|41|1jl|-7nq|a
+Zagersdorf|AT||a2|3oo|19v|a|Cogrštof;Zárány
+Zaton|HR|Dubrovnik-Neretva|a6|3al|1e4|a
+El Zarzal|MX||41|1b9|-7c0|a|Zarzal
+Xacaxomulco|MX||41|1hb|-7hv|a|Zacaxomulco;Zacaxumulco
+Zangberg|DE||8r|3q3|yi|a
+Ignacio Zaragoza|MX|Durango|44|1xu|-7z6|a|Zaragoza
+Zasip|SI||9a|3kv|137|a|Asp
+Zaporizke|UA||98|3od|2lx|a|Zaporiz’ke
+Zhaludok|BY||9g|44w|1xe|a|Zheludok;Zholudok;Žaludok
+Zarech’ye|RU|Kaluga Oblast|9i|459|2qz|a
+Zaperedillia|UA||98|3qo|1tb|a|Zaperedillya;Zaperedel’ye
+Zacalaca|MX||2b|1jq|-6u4|a
+Zabukovica|SI||9a|3kd|164|a|Journal of Animal Science Biology and Bioeconomy
+Zarlardinge|BE||8t|3x0|an|a|Sarlardinge
+Zaborze|PL|Silesia|a5|3uj|1g8|a
+Zánka|HU||8v|3m7|1d4|a
+Zencani|RO||8u|3md|1yd|a|Zenconi;Zancani
+Zaleszany|PL||a5|3wp|1ot|a
+Zalyessye|BY||9g|476|21r|a|Zales'ye;Zalesie
+Zarzecze|PL|Subcarpathia|a5|3u0|1no|a
+Zalhanaua|RO||8u|3gq|1zr|a
+Zărnești|RO|Arges|8u|3h2|1wt|a
+Zasheyek|RU||9i|578|2if|a|Zasjejek;Nivanniska
+El Zapotillo|MX|Jalisco|41|1ij|-824|a|Zapotillo
+Zaliznychne|UA|Vinnytsia|98|3u7|27z|a|Zaliznytchné
+Zápy|CZ||9m|3vd|14s|a|Záp
+Zaķumuiža|LV||9n|4e9|1w0|a
+Tsafriyya|IL||6n|2gw|2ou|a|Tzafria;Ẕafriyya
+El Zapote|HN||56|15q|-6s1|a|Zapote
+Zaranjān|IR||7o|2l1|3w0|a|Aranjān;Zarinjān;Zarenjān;Zarengān
+Zatory|PL||a5|424|1mu|a
+Žarošice|CZ||9m|3s8|1b5|a|Žarnošice
+Zadubrivka|UA||98|3qf|201|a|Zadobruvca;Zadoubrivka
+Zanadvorovka|RU||7w|3ca|a5k|a
+Zacayo|MX||41|1n8|-7mr|a
+Zacatzonapa|MX||41|1cm|-7ny|a|Zacazonapan
+Zawady|PL||a5|3xq|1gk|a
+Zárkos|GR||8p|321|1pg|a|Zarko;Zárkon
+Zawidz|PL||a5|42r|1j7|a
+Zaragoza Segunda Sección|MX||58|2ik|-8wx|a|Zaragoza
+Zabór|PL||a5|40b|17o|a
+Zakaria|CI||0|jf|-hz|9
+Zatzio (Tzatzio)|MX||41|1he|-7u8|9
+Zacatones (San Felipe de Jesús)|MX||41|1gp|-7p6|9
+Zhabari i Epërm|XK||8q|3b2|1lv|9|Gornje Žabare;Zabari i Epërm;Zhabar i Epërm;Zhabarë
+Zaagpoortbuurt|NL||8m|41i|dk|9
+Zabdah|PS||6g|2i5|2pl|9|Zibdah
+Zaječice|CZ||9m|3un|184|9|Zajecitz
+Zangaha|CI||0|pt|-hc|9
+Zaton|HR|Šibenik-Knin|a6|3dn|17z|9|Zatton
+Zazdrist|UA||98|3t3|1yv|9|Zazdrost’;Zazdrość;Sasdrist;Zazdrost
+Zarudyntsi|UA||98|3tx|293|9
+Zaguiguia|CI||0|j8|-hy|9
+Zamami|JP||7q|20v|9tm|9
+Zasavica Prva|RS||8q|3gv|1i5|9|Zasavica I;Gornja Zasavica;Zasavica;Gornja Zasavica I
+Sveti Križ Začretje|HR||a6|3k0|187|9|Začretje;Sv. Križ Začretje
+Zabawa|PL|Lesser Poland|a5|3v8|1lu|9
+Zawonia|PL||a5|3yk|1bs|9|Schawoine
+Zakrzew|PL|Greater Poland|a5|408|1cq|9
+Zănoaga|RO|Prahova|8u|3gn|20o|9
+Zapotal 5ta. Sección|MX||41|1e2|-78f|9
+Zachepylivka|UA|Poltava|98|3sz|2ne|9|Zachepilovka
+Zahořany|CZ||9m|3tb|104|9
+Zacapalco|MX|Guerrero|41|1fi|-7o8|9
+Zagorzyn|PL||a5|3tq|1kp|9
+Zacualpa Ecatepec|MX||41|1af|-75i|9
+Zaharești|RO||8u|3o7|20n|9
+La Zarzamora|MX||41|1iq|-7wh|9|Zarzamora
+Zasadbreg|HR||a6|3l1|19l|9|Gyümölcshegy
+Żarnów|PL||a5|3yd|1k1|9
+Cerredo|ES||9d|3bb|-i1|9|Zarréu
+Zacatlamanic|MX||41|1f7|-7hk|9
+Zadobrova|SI||9a|3kj|16i|9
+Zacatecas|MX|Nuevo León|44|1zp|-7q4|9
+Zasillya|UA||98|3mm|2i3|9|Zassillia
+Zăvideni|RO||8u|3gb|1vc|9
+Vabalninkas|LT||a3|4bi|1wr|9|Vabalninka;Vabalninks;Wobolniki;Zabalninkas;Vabalninko;Vobol’niki;Vabalninkai
+Zanddijk|NL||8m|3z6|a6|9|Zanddiek
+El Zapote|MX|Guerrero|41|1b9|-7qb|8|Zapote
+Zapote de San Vicente|MX||41|1ks|-7t7|8
+Zaragoza|MX|Chiapas|41|161|-74f|8
+Żabia Wola|PL|Lublin|a5|3y0|1qj|8
+Zambléfla|CI||0|kk|-gk|8|Zanbléfla
+Zapotitla|MX|Veracruz|41|1hf|-7ha|8|Zapotilla
+Zanoukro|CI||0|kz|-c0|8
+Zásada|CZ||9m|3wu|16f|8
+Zaubertal|AT||a2|3q6|13l|8
+Zapallal|PA||4g|o1|-611|8
+Zangbopka|CI||0|pe|-g2|8|Zangbopko
+Zaliznychne|UA|Poltava|98|3tv|2of|8
+Zacate Colorado Primero (El Moral)|MX||41|1fv|-7en|8
+Zakrzewo|PL|Kujawsko-Pomorskie|a5|42k|1fr|8
+Zabolotne|UA||98|3q0|1s6|8|Zabolotnoye
+Zaragoza|MX|Michoacán|41|1ki|-7v8|8
+Zacatlaixco|MX||41|1ff|-7hl|8
+Zangbatouo|CI||0|jx|-mz|8|Zrangbatouo
+Zaprudnoye|UA||9t|3fv|2nc|8|Dermen Köj
+Berehove|UA|Crimea|9t|3gq|2le|8|Zamruq
+Záboří|CZ||9m|3uz|16n|8|Zaboř
+Žatčany|CZ||9m|3sd|1ah|8
+Zaglūjeh|IR||7o|2x0|3mb|8
+Santok|PL||a5|42i|16t|8|Zabtok
+Zaccanopoli|IT||9o|2zf|189|8|Zambrone;Zachanopolis;Zaccanòpuli
+Zarech’ye|UA||9t|3i0|2of|8
+Završje Podbelsko|HR||a6|3kd|197|8
+Zacán|MX||41|1ic|-7w5|8
+Zavoloka|UA||98|3q2|1zx|8|Zavoloca
+Samnaun|CH||a7|3me|ss|8|Samignun;Zamnaunas
+Zacatal|MX|Puebla|41|1kl|-7k6|8
+Zlatoličje|SI||9a|3l2|17v|8|Zatoliče
+Zadéhe|CI||0|mz|-8m|8
+Zapatero|PE||3o|-i5|-5wh|8
+Az Zāwiyah|PS|West Bank|6g|2hy|2pv|8|Ez Zāwiya;Zāwiyah
+Zabawa|PL|Lesser Poland|a5|3uw|1jt|8
+Zaboršt|SI||9a|3k6|14l|8
+Zadunayivka|UA||98|3jb|28v|8|Dunăreanca;Sadunajiwka;Zadounaïvka
+Zadubravlje|HR||a6|3hg|1ef|8|Zadubravje
+Záříčí|CZ||9m|3t6|1c7|7
+Zacatipan|MX|Puebla|41|1jo|-7io|7
+Žarovnica|HR||a6|3ki|18k|7
+Żarnowiec|PL||a5|3w8|1j6|7
+Záchlumí|CZ||9m|3v6|19i|7
+Zaborów|PL|Mazovia|a5|416|1lg|7
+Zakřany|CZ||9m|3sl|19d|7|Zakran
+Zámrsk|CZ||9m|3uv|18t|7
+Zanfouefla|CI||0|jt|-g6|7|Zanouofla
+Zacamitla|MX||41|1gx|-7h8|7
+Zapotal|MX||41|1k0|-7iy|7
+San Andrés Zabache|MX||41|1a4|-7h2|7|Zabache;Zegache
+Selyshche|UA|Chernivtsi|98|3px|1zb|7|Zabolottia;Zabolotie
+El Zapotito|MX||41|1i1|-7fw|7|Zapotito
+Zalnoc|RO||8u|3nl|1r1|7
+Zanapa 1ra. Sección|MX||41|1dw|-78o|7|Zanapa Segunda Sección
+Zaberezh|UA||98|3py|1tc|7|Zhovtneve;Zhovtnevoye
+Zarichchya|UA||98|3ps|1yc|7|Zaritchtchia;Zaricicea
+Zasań|PL||a5|3ue|1jp|7
+Žádovice|CZ||9m|3s5|1bs|7
+Zavalla|US||2f|2ek|-7ab|7
+Nueva Samaria|MX||41|1bs|-72h|7|Zamaria;Samaria
+Zayante|US||3p|2v1|-9f0|7
+Zacate Colorado|MX|Oaxaca|41|1ef|-7f7|7|San Isidro
+Zapotitlán|MX|Veracruz|41|1j3|-7hv|7
+Zandougou|CI||0|p8|-jq|7
+Zariečie|SK||8s|3sm|1eo|7
+San Miguel|MX|Veracruz|41|1e7|-7br|7|Zapoteca
+Zakharivka|UA|Kirovohrad|98|3rp|2jm|7|Zakhar’yevka;Zakharovka
+Zanzan|CI||0|m4|-7v|7
+Zapotal|PE||3o|-f0|-62m|7
+Zacate Limón|MX||41|1k7|-7iw|7
+Zall-Reç|AL||9y|38c|1kg|7
+Zapotillo|MX||3x|1xp|-8bk|7
+Załuczne|PL||a5|3th|1j2|7
+Zagbalédé|CI||0|e8|-eo|7|Zagbalébé
+Ranchito de Zavala|MX||3x|1zg|-8cw|7|Sanaria;Zavala
+Zavorsklo|UA||98|3te|2o7|7
+Zamfira|RO||8u|3h7|209|7
+Zakharivka|UA|Donetsk|98|3my|2uq|7|Zakhar’yevka
+Zaręby Kościelne|PL||a5|42k|1pg|7
+Zapsillya|UA|Sumy|98|3xr|2pu|7|Zapsillia
+Zaporizhzhya|UA|Zaporizhzhia|98|3mg|2pc|7|Zaporizhzhia
+Zarinja|AM||80|34g|3dm|7|Zarndzha;Zarindzha
+Zabary|UA||98|3km|2an|7|Zabara;Zăbari
+Zanikaha|CI||0|sm|-hd|7
+Zancarron|MX||41|1sx|-7vy|6
+Zavala|MX|Sinaloa|3x|1sv|-86r|6
+Zala|CI|Woroba|0|mt|-l6|6
+Zapotitlán de la Fuente (El Zapote)|MX||41|1ah|-7ly|6
+Zabalotstsye|BY||9g|461|25v|6|Zabolot’ye
+Zagvozd|HR||a6|3ck|1be|6
+Zăbrătău|RO||8u|3iq|20l|6
+Zanjas de Arena|MX||41|1k5|-7hi|6|Zanja de Arena
+Stari Slankamen|RS||8q|3he|1ka|6|Salankamen;Zalánkemén;Szalánkemén
+Zacualpan|MX|Veracruz|41|1kr|-7l7|6
+Zaichyntsi|UA||98|3tr|2kp|6|Zayichyntsi;Zaichentsy
+Zárakes|GR||8p|2ye|1v7|6
+Zapel|DE||8r|44r|wf|6
+Zahrádky|CZ||9m|3wn|14c|6
+Zakrzew|PL|Lublin|a5|3xd|1qr|6|Zakrzow
+Zapotitla|MX|Hidalgo|41|1mp|-7lh|6
+Zacamilola|MX||41|1fv|-7ho|6
+Zălan|RO||8u|3jo|1zq|6
+Zarudne|UA||98|3wc|2ky|6|Vasylivka;Vasilevka
+Záhor|SK||8s|3r2|1po|6
+Zacualpa|MX|Chiapas|41|19a|-74m|6
+Zaragoza de Solís|MX||41|1sl|-7s3|6|Solís
+Zautla|MX||41|1ir|-7jb|6
+Zanevka|RU||9i|4mi|2cr|6|Sannikko
+Zanesville|US|Indiana|38|35o|-6kw|6
+Zarza de Montánchez|ES||9d|312|-gr|6
+Zadní Třebaň|CZ||9m|3uo|13h|6
+Cabuna|HR||a6|3j3|1cu|6|Zabuna;Czabuna
+Zafer|TR||94|374|2ig|6
+Zanapkokaha|CI||0|q2|-fn|6
+Zacatipán|MX|Hidalgo|41|1lw|-7ln|6
+Z̄arāt|IR||7o|28u|42s|6
+Zanja Vieja|MX||41|1i6|-7om|6
+Żabno|PL|Subcarpathia|a5|3ws|1p1|6
+Zarkadiá|GR||8p|35y|1wg|6|Zarkadhiá
+Žabeň|CZ||9m|3u3|1eu|6
+Zanogi|RU||9i|4d1|28g|6
+Zaton|HR|Zadar|a6|3eu|165|6
+Zăicești|RO||8u|3oh|228|6
+Zabrodzie|PL||a5|41v|1ni|6
+Zakrzewo|PL|Greater Poland|a5|41j|1ah|6
+Zacajtic|MX||41|1bx|-75o|6
+Závada|CZ||9m|3ur|1eh|6
+Zacatipa|MX||41|1cj|-7lv|6|Zacalipa
+Zapsillya|UA|Poltava|98|3sp|2la|6|Zapsillia
+Záměl|CZ||9m|3v6|19a|6
+Zaragoza|MX|Hidalgo|41|1kk|-7mv|6
+Zangelān-e Pā’īn|IR||7o|2zy|3hd|6|Zangalān Pā’īn
+Platerówka|PL||a5|3xu|165|6|Nieder Linde;Platerowo;Lipy Dolne;Zalipie Dolne;Nieder Linda
+Zahoreni|RO||8u|3p8|235|6
+Zacualpan|MX|Guerrero|41|1d3|-7lw|6|Zalcualpan
+Zarzar|IR||7o|2st|3qk|6
+Zalayeta (Alchichica y el Bordo)|MX||41|1hx|-7ij|6
+Zapote de Parras|MX||41|1k8|-7uc|6
+Zacate Grande|MX||41|1mo|-7n0|6
+Zahorb|UA||98|3s6|1qz|6|Zagorb
+Zăgujeni|RO||8u|3ic|1pk|6|Zegujani
+Žalkovice|CZ||9m|3t5|1cg|6
+Zaboloteni|RO||8u|3nw|24e|6
+Zaborów|PL|Lesser Poland|a5|3vb|1lh|6
+Zarichne|UA|Sumy|98|3yi|2lv|6|Oktyabrs’ke;Oktyabr’s’ke;Oktiabrske;Oktyabr’skoye
+Zavdi’él|IL||6n|2fy|2ok|6
+Zambrone|IT||9o|2zi|18f|6
+Zappello|IT||9o|3hx|qv|6
+Zacatepec|MX|Veracruz|41|1gf|-7hb|6
+Żarki Wielkie|PL||a5|3zb|150|6
+Zapaltecatl|MX||41|1fm|-7h8|6
+Zaragoza (La Vaca)|MX||41|1us|-7sq|6
+Zapicán|UY||45|-2l4|-48m|6
+Zarzuela del Pinar|ES||9d|36m|-bm|6
+Zaboric|HR||a6|3da|18b|6
+Zagrad|ME||9l|3ar|1h1|6
+Zangī Kolā|IR||7o|2tl|41e|6
+Zabitz|DE||8r|3zv|x4|5
+Zavrazh’ye|RU||9i|4fh|3bw|5|Zavrazje
+Zahryzove|UA||98|3ti|2wr|5|Zagryzova;Zagryzovo
+Zarzyce Wielkie|PL||a5|3uk|1it|5
+Zilacatipan|MX||41|1le|-7lf|5|Tenaxcalzingo;Zalacatipan
+Zărnești|RO|Vâlcea County|8u|3gq|1up|5
+Zavala|MX|Yucatán|3z|1l9|-6vk|5
+Zondveld|NL||8m|3z9|fg|5|Zandveld
+Závadka|SK||8s|3rx|1op|5
+Emiliano Zapata|MX|Guanajuato|41|1o3|-7sg|5|Zavala
+Zangī|IR||7o|2y2|3jg|5
+Żabno|PL|Lublin|a5|3x9|1r9|5
+Zamozhne|UA||98|3t8|2lo|5|Brovarky
+La Zacualpa|MX||41|17l|-74f|5|Zacualpa
+Zachełmna|PL||a5|3uc|1ip|5
+Zaḯmi|GR||8p|316|1oy|5
+Zanoaẖ|IL||6n|2g5|2p8|5
+Zamušani|SI||9a|3ky|18j|5
+Zarrīn Kolā-ye Pā’īn|IR||7o|2tj|409|5
+Zarnekow|DE||8r|45q|zu|5
+El Zacatal|MX||41|1gn|-7fh|5|Zacatal
+Zákolany|CZ||9m|3vg|13l|5|Zakolan
+Zapotán|MX|Michoacán|41|1fz|-7zs|5
+Zarzecze|PL|Subcarpathia|a5|3ur|1ow|5
+Zarzuela del Monte|ES||9d|35d|-c2|5
+Žagrović|HR||a6|3ee|18x|5
+Zabreznica|SI||9a|3kw|13b|5
+Zapadni Mojstir|RS||8q|3b7|1kp|5|Mojstiri Perëndimor
+Zarichne|UA|Mykolaiv|98|3ma|2gn|5|Zaritchné
+Žalhostice|CZ||9m|3wc|135|5
+Zatyshne|UA||98|3q0|1qw|5
+Zapotitlán|MX|Veracruz|41|1mn|-7jp|5
+Zadzim|PL||a5|3zu|1gd|5
+Zavattarello|IT||9o|3gn|pr|5

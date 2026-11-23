@@ -1,0 +1,22 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Huai'an|CN||7i|2lb|96m|z5m|Huaiyin;Chuaj-an;Hwaiyin;Huai-yin
+Huangshi|CN||7i|2c1|8vl|5b5|Huangsji;Chuang-š;Huangŝi;Hoàng Thạch;Uòng-siŏh;N̂g-chio̍h-chhī;Khuanshi;Huan-shih;Huang-shih;Huan-shi;Hwangshih
+Hwaseong-si|KR||7h|2vd|9sa|4y1|Hwaseong
+Huanggang|CN|Hubei|7i|2cl|8v3|2tw|Hwang Chow;Wangchau;Hwang Chau;Uòng-gŏng;Chuang-kang;Hoàng Cương;N̂g-kng-chhī;Wangchou;Hwangchow
+Hwado|KR||7h|2wl|9tn|tk
+Hwasŏng|KP||7a|36m|9zp|ro
+Huangmei|CN||7i|2bv|8ya|lk|Hwangmei
+Huangchuan|CN||7i|2ha|8vk|k7|Hwangchwan
+Hwadae|KP||7a|35g|9zq|it
+Hwawŏn|KR||7h|2rg|9wy|hz
+Hwasun|KR||7h|2pe|9sr|gn|Hwason;Hwansun
+Huangpi|CN||7i|2ds|8tq|g0|Huang-p’o;Hwangpei;Huang-pei
+Hwange|ZW||n|-1f0|21m|b2|Hvangė;Wange
+Hwangju-ŭp|KP||7a|2zf|9pe|9w|Hwangju
+Hwacheon|KR||7h|2xv|9ur|6e|Huachon;Hwach'ŏn
+Haverfordwest|GB||9b|3zw|-dt|42|Hwlffordd;Haverfordvestas
+Hvardiyske|UA|Crimea|9t|3hc|2mi|3i|Gvardeyskoye;Hwardijśke;Gwardiejskoje;Sarabuz;Hvardiïske;Gvardeïskoïe;Hvardijske
+Zarichne|UA|Dnipropetrovsk|98|3rd|2q3|1q|Hvardiïské;Zarične;Saritschne;Hwardijske;Zariczne
+Hvizdets|UA||98|3qy|1y8|j|Gwoździec;Hwisdez;Hvizdec';Hvizdec;Gvizdets;Hvizdeț
+Hvožďany|CZ||9m|3tl|12d|8|Hwožďan;Hvožďan
+Hvozdavka Persha|UA||98|3p2|2bk|6|Hvozdavka Percha;Hwosdawka Perscha;Hvozdavka Perša

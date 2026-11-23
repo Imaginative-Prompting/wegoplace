@@ -1,0 +1,66 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Sidon|LB||64|2l8|2q9|19g|Sydon;Saida;Sayda;Cidono;Sidó;Sidun;Szidón
+Sayama|JP|Saitama|7q|2rl|ar9|18o|Sajama
+Cyberjaya|MY||6v|84|7ue|m0|Ciberjaya;Saybercaya
+Sayyān|YE||5r|165|3f4|ja|Saiyān
+Sayhāt|SA||7e|21k|3v1|ij|Saihat
+Sayama|JP|Osaka|7q|2nw|agk|g8
+Sayanogorsk|RU||6u|43i|71x|dv|Sajanogorsk
+Sayreville|US||48|34e|-5qk|ch
+Sayansk|RU|Irkutsk Oblast|6k|46b|7vu|c7|Sajansk
+Sayreville Junction|US||48|34f|-5qh|bx
+Saybag|CN||7t|2v7|65a|90|Sayibage
+Sayula|MX||41|1j8|-7zs|7g
+Saynshand|MN||7s|3go|8hw|5j|Sainshand;Sain-Shand;Sain Shanda;Sayn Shanda;Sayn-Shenda
+Saylac|SO||14|vj|3cr|56|Zeila;Saila;Zeilah;Zeyla;Séyla‘;Seylac;Zeylac;Zayla
+Say|NE||18|10e|6l|53
+Saýat|TM||5x|2zq|4xg|4y
+Sayville|US||48|356|-5n0|4p
+Sayō|JP||7q|2p8|ad8|4f
+Sāyla|IN||6t|1qn|5ik|4a
+Sayan|IN||6t|1n8|5mg|49
+Sayama|JP|Kyoto|7q|2ow|ah3|49
+Sayalgudi|IN||6t|ph|61x|44|Sāyalkudi
+Sayula de Alemán|MX||41|1do|-7bs|3w
+Seïada|TN||1e|2r3|u9|3t|Sayada;Saïada
+Sainyabuli|LA||7v|1hi|7uj|3r|Sayaboury;Xaignabouli;Xayaburi;Xayaboury;Xayabury
+Sawyerpuram|IN||6t|o4|60r|3k|Sayapuram;Sāyarpuram
+Sayaxché|GT||32|19w|-6yj|2j|Sayazché
+Sayadpur|IN||6t|1ll|6o0|2g
+Suya|NG||u|qb|8u|27|Saya;Souya
+Saykro|CI||0|en|-7q|1q
+Sayán|PE||3o|-ux|-5yf|1q
+Goy-Chu|RU||9i|3bm|3ip|1k|Baçin-Khotar;Goj-Ču;Ġoyçu;Komsomol’skij;Komsomol’skoe;Saadi-Xutor;Saydin-Khotar;Goichu
+Sayre|US|Pennsylvania|48|38m|-5wk|1i
+Saykhin|KZ||77|3rq|3m3|1c|Saiqyn
+Sayre|US|Oklahoma|2f|2q1|-7os|1c
+Sayaq|KZ||5s|3mk|5yn|19|Saiaq;Sayak
+Safakulevo|RU||7z|48r|4tq|16|Sayakulevo;Safakulewo
+Sayansk|RU|Krasnoyarsk Krai|6u|46f|739|14
+Säynätsalo|FI||92|4sm|1zl|x
+Saylorville|US||2f|37s|-783|x
+Şaydā|PS||6g|2hy|2pk|u
+Saysain|PH||71|14g|9af|r
+Sayat-Nova|AM||80|33c|3fc|o|Sayat’-Nova
+Sayat|FR||9k|3jb|8h|o|Saiac
+Sayulilla|MX||3x|1qc|-84r|n|Sayulita;Zayulilla
+Sayulita|MX||21|1lz|-84w|n
+Sayda|DE||8r|3wv|11a|m|Zaida
+Sayéta|CI||0|iu|-gv|h
+Sayabec|CA||59|3qw|-581|h
+Say-Otes|KZ||5v|3f5|44p|g
+Sayören|TR||94|2w5|2xz|f
+Sayani|BD||6a|1u3|6yh|f
+Sayalonga|ES||9d|2u8|-b5|e
+Saylorsburg|US||48|35m|-5t8|b
+Saygeçit|TR||94|2vh|2qz|b
+Saybrook Manor|US||48|36p|-5l4|b
+Savukoski|FI||92|56x|268|a|Suovvaguoika;Sayukoski;Saukoski
+Sai|UA||98|3wr|2mn|8|Sayi
+Sagiáda|GR||8p|322|1k3|8|Sayiádha
+Sayapullo|PE||3o|-l4|-61z|8
+Sayébo|CI||0|l7|-eq|7|Saebo
+Saybrook|US||2f|34b|-6tx|7
+Sayultepec|MX||41|1a4|-7kl|6
+Saye|CI||0|q9|-9a|6|Seye;Say

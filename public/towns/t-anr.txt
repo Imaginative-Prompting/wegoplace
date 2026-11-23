@@ -1,0 +1,10 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Rutherglen|GB||9b|4b3|-bp|8m|Ruglen;An Ruadh-Ghleann;Razerqlen
+Anröchte|DE||8r|3z9|n5|30
+An Ros|IE||8z|44o|-gy|2k|Rush;Ros Eó
+Ringsend|IE||8z|446|-hb|2a|An Rinn
+Charleville|IE||8z|41f|-o4|13|Ráth Luirc;An Ráth;Rathluirc
+Rhu|GB||9b|4bm|-d9|j|An Rubha
+Rosses Point|IE||8z|46v|-nt|8|An Ros;Ros Cheide
+Rathmore|IE||8z|40o|-pm|8|An Ráth Mhór

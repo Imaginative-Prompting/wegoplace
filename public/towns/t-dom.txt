@@ -1,0 +1,175 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Santo Domingo|DO||4v|1fb|-5e5|gzn|Saint Domingue;Ciudad Trujillo;Santo-Dominqo
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+Dombivali|IN||6t|1he|5n0|9mh|Dombivli
+Santo Domingo Oeste|DO||4v|1fe|-5eg|5et
+Santo Domingo Este|DO||4v|1fd|-5e1|5eg
+Santo Domingo de los Colorados|EC||33|-p|-63y|3je|Santo Domingo
+Dąbrowa Górnicza|PL||a5|3vt|1hc|wi|Dombrova Gurņiča;Důmbrowa;Dombrowa
+Dom Eliseu|BR||23|-bw|-3ny|hb
+Dompu|ID||70|-nq|952|fa|Dompo
+Domodedovo|RU||9i|4a0|2wv|ez|Domodedowo;Domodedova;Domodedovas;Domodiedowo
+Dome|GH||1|fp|-o|df|Dom
+Dimona|IL||6n|2eb|2pb|b0|Domona
+Domaa-Ahenkro|GH||1|k7|-7z|ae|Dormaa-Ahenkro
+Dom Pedrito|BR||4w|-2e2|-47v|aa
+Domingos Martins|BR||4w|-1kk|-34y|9u
+Dombe Grande|AO||x|-zz|10e|6y
+Dom Pedro|BR||2w|-e0|-3fg|6f
+Dombóvár|HU||8v|3ku|1ee|5r
+Domodossola|IT||9o|3k4|n1|4y
+Domont|FR||9k|3s7|6h|4n
+Domchānch|IN||6t|1vz|6m1|4e
+Dom Feliciano|BR||4w|-2da|-40r|4b
+Donaghmede|IE||8z|44c|-h4|49|Domhnach Mide
+Domalanoan|PH||71|18g|99x|47|Dumalandan;Domalandan
+Doma|NG||u|nb|n8|47
+Domžale|SI||9a|3k6|14j|3o
+Dommasandra|IN||6t|zs|5zz|3i
+Domoni|KM||ac|-y2|3fp|3f
+Dom Basílio|BR||20|-128|-381|3b
+Dąbrowa Tarnowska|PL||a5|3vd|1mb|35|Dombrowa Tarnowska
+Domažlice|CZ||9m|3tc|zx|32|Taus;Tausz
+Donnybrook|IE||8z|443|-ha|2y|Donibrukas;Domhnach Broc
+Dubove|UA|Zakarpattia|98|3pt|1ud|2r|Doubové;Dombó;Dubowe
+Dombarovskiy|RU||7z|3x0|4le|2o|Dombarovskij
+Dombasle-sur-Meurthe|FR||9k|3r2|ho|2l
+Dom Inocêncio|BR||2w|-p1|-38l|2k
+Domérat|FR||9k|3ks|71|2i
+Tuomarinkylä|FI||92|4ne|1xd|2e|Domarby;Dumi
+Dommaranandyāla|IN||6t|15a|61o|2b
+Dom Aquino|BR||2k|-17x|-48k|27
+Donnycarney|IE||8z|449|-h9|25|Domhnach Cearna
+Donabate|IE||8z|44l|-h3|22|Domhnach Bat
+Donaghadee|GB||9b|47s|-fe|22|Domhnach Daoi
+Domène|FR||9k|3hk|g7|1x
+Domat|CH||a7|3m3|q9|1w
+Domobly|CI||0|i5|-l1|1u
+Domna|RU||67|405|8qb|1u|Domno
+Domneşti-Sârbi|RO||8u|3fa|200|1s|Domneşti-Sîrbi
+Dom Expedito Lopes|BR||2w|-jc|-37o|1r
+Domusnovas|IT||9o|318|o1|1q
+Dąbrowa Białostocka|PL||a5|451|1sv|1o|Dambrava;Dombrova Bjalostocka
+Domanivka|UA||98|3ob|2e3|1o|Domaniwka
+Dömsöd|HU||8v|3mt|1gt|1n
+Domingo Arenas|MX||41|1h6|-7li|1n
+Domnești|RO|Ilfov|8u|3fc|200|1i
+Dumpay|PH||71|184|9af|1i|Dompay
+Domampot|PH||71|18g|9b5|1h|Dumanpot;Domanpot
+Dompierre-sur-Mer|FR||9k|3kb|-2y|1h
+Dom Silvério|BR||4w|-1k0|-3bd|1g
+Domeikava|LT||a3|48p|1ug|1g
+Domaniç|TR||94|32k|2a9|1e
+Dom Cavati|BR||4w|-1ht|-38z|1d
+Dom Joaquim|BR||4w|-1gp|-3c6|1d
+Domselaar|AR||1l|-2pf|-4hx|1c
+Dom Macedo Costa|BR||20|-zu|-30v|18
+Domfront|FR||9k|3qz|-1t|18
+Domangbeu|CI||0|je|-ji|18
+Dombrád|HU||8v|3pz|1ox|17
+Domaszék|HU||8v|3kh|1jl|16
+Domingos Mourão|BR||2w|-bt|-36n|15
+Dom Bosco|BR||4w|-1a9|-3kj|11
+Dompierre-sur-Besbre|FR||9k|3l8|a8|10
+Dompierre-sur-Yon|FR||9k|3lu|-3v|y
+Dompleu|CI||0|kf|-ky|y
+Domneşti|RO|Arges|8u|3hk|1wz|w
+Dommitzsch|DE||8r|3zg|zs|w|Dommiča
+Domagnano|SM||9q|3e3|yn|w|Montelupo
+Domaradz|PL|Subcarpathia|a5|3ub|1oz|v
+Dom Viçoso|BR||4w|-1pt|-3hg|v
+Dămuc|RO||8u|3m0|1zy|v|Domuc
+Dommeldange|LU||9c|3tv|h2|u|Dommeldingen;Dummeldeng
+Dom Pedro de Alcântara|BR||4w|-29l|-3uh|q
+Domegge di Cadore|IT||9o|3l2|yh|p
+Dömitz|DE||8r|43m|v9|p|Dēmica;Dööms;Döms;Doemitz
+Dombegyház|HU||8v|3kp|1mp|o|Dămbegi;Dâmbighaz
+Domdidier|CH||a7|3m7|jh|o
+Domantove|UA||98|3tz|2gn|m|Domantov;Domantova;Domantovo
+Dūmā|PS||6g|2h2|2q9|m|Dōma
+Demorest|US||48|2o1|-6g3|l|Domorest
+Domony|HU||8v|3oe|1hz|k|Domoň
+Domoszló|HU||8v|3ov|1jw|k|Domoslov
+Dominion|CA||2x|3ke|-4mq|k
+Domancy|FR||9k|3jj|ih|j
+Domio|IT||9o|3ip|12f|j
+Dommartin-lès-Remiremont|FR||9k|3pc|ig|j
+Dom Shahr|IR||7o|23r|4ed|i|Dovom Shahr;Dumshehr;Domshahr
+Domagné|FR||9k|3pj|-3v|i|Dovanieg;Domigneium
+Dommartin-lès-Toul|FR||9k|3r7|gf|h
+Dombühl|DE||8r|3st|sl|h
+Dombresson|CH||a7|3mr|jc|h
+Domalain|FR||9k|3pc|-3g|g|Domalan;Domnus Alanus
+Domarin|FR||9k|3in|el|g
+Domokós|GR||8p|30p|1py|f|Dhomokós
+Domessin|FR||9k|3ij|fu|f
+Domašinec|HR||a6|3kz|1a4|f|Damása
+Domaşnea|RO||8u|3h8|1q0|e|Domaşnia
+Domaša|SK||8s|3pd|1fu|e|Garamdamásd;Damaša
+Domburg|NL||8m|3z8|9q|e|Dombourg
+Domaso|IT||9o|3k7|px|e
+Dohoupleu|CI||0|ih|-n7|d|Domoupleu
+Domecko|PL||a5|3wm|1dm|c
+Dommelen|NL||8m|3yn|f3|c
+Dömös|HU||8v|3oo|1gj|c|Damiš;Dimiš
+Domsühl|DE||8r|44l|wp|c
+Domersleben|DE||8r|40p|vs|c|Daumerschläh
+Domnești-Târg|RO||8u|3ju|23i|c|Domnești-Tîrg
+Dombås|NO||9j|4sg|pd|c|Dombaas
+Damachava|BY||9g|3zq|1tk|c|Domaczewo;Domachëvo;Damatschawa;Damačava;Damacsava;Neubrow;Domacheva
+Dommershausen|DE||8r|3vb|kk|c
+Domart-en-Ponthieu|FR||9k|3v3|5x|b
+Domvraína|GR||8p|2y9|1ru|b|Dhomvraína;Domvrena
+Domrūstān|IR||7o|2kz|3n6|b|Dom Rāstān
+Domgermain|FR||9k|3r4|g7|b
+Domaszowice|PL|Opole Voivodeship|a5|3xs|1dp|b
+Domamyslice|CZ||9m|3tf|1bf|b
+Ploske|UA|Zakarpattia|98|3r6|1rm|b|Dombostelek;Ploskoye
+Domănești|RO||8u|3oj|1qr|b
+Dompierre-sur-Veyle|FR||9k|3jz|eg|b
+Dom-le-Mesnil|FR||9k|3u1|dc|a
+Domicella|IT||9o|35k|14j|a
+Domanín|CZ||9m|3s4|1c0|a
+Domus de Maria|IT||9o|306|om|a
+Domme|FR||9k|3gg|3d|a
+Domaszowice|PL|Świętokrzyskie|a5|3xb|1lg|a
+Domnița|RO||8u|3mm|23y|a
+Domaradz|PL|Opole Voivodeship|a5|3xj|1dm|a
+Domfront-en-Champagne|FR||9k|3pn|3|a
+Dompaire|FR||9k|3py|ha|a
+Sahilköy|TR|Istanbul|94|36g|29p|a|Domalı
+Dompierre-sur-Helpe|FR||9k|3va|aq|9
+Domakha|UA||98|3rq|2su|9
+Domaniewice|PL||a5|40h|1j0|9
+Domaslovec|HR||a6|3j9|17r|9
+Domblans|FR||9k|3lw|fk|9
+Domjean|FR||9k|3s3|-2v|8
+Domazan|FR||9k|3e1|cx|8
+Doman|RO||8u|3hr|1ow|8
+Dompierre-les-Ormes|FR||9k|3ks|cg|8
+Domnitz|DE||8r|3zf|ww|8
+Domaháza|HU||8v|3pu|1jw|8
+Domaniów|PL||a5|3xd|1bl|8
+Domasław|PL||a5|3xp|1b4|7
+Dommary-Baroncourt|FR||9k|3sw|fu|7
+Dommartin-lès-Cuiseaux|FR||9k|3l6|eq|7
+Dompierre|CH||a7|3m5|jf|7
+Domessargues|FR||9k|3e6|bl|7
+Domnești|RO|Bistrița-Năsăud County|8u|3mo|1w0|7
+Dommartin|FR|Auvergne-Rhône-Alpes|9k|3jc|d3|7
+Dommartemont|FR||9k|3rb|ha|6
+Domsten|SE||9w|4bw|z1|6
+Domoušíce|CZ||9m|3vj|125|6
+Domats|FR||9k|3pn|8j|6
+Domašov|CZ||9m|3st|19e|6
+Domanico|IT||9o|30y|191|6
+Domeño|ES||9d|326|-1v|6|Domenyo
+Domashyn|UA||98|3s1|1qn|6|Domashin
+Dominowo|PL||a5|419|1c8|5
+Domingo Arenas (La Calera)|MX||41|1i8|-7lj|5
+Domptin|FR||9k|3s6|94|5
+Dommartin|FR|Bourgogne-Franche-Comté|9k|3mc|hj|5
+Domnu Tudor|RO||8u|3em|1ss|5|Domnul Tudor
+Deh-e Shāţer|IR||7o|2ni|3qv|5|Dom-e Shāţer;Deh Shāţer;Deh-e Shāker
+Dompierre-du-Chemin|FR||9k|3q3|-36|5|Domper-an-Hent;Domnus Petrus de Limite
+Domingo Pérez|ES||9d|332|-cj|5

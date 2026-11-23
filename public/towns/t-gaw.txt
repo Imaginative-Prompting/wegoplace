@@ -1,0 +1,20 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Gao|ML||5|197|-4|10z|Gàwó
+Gawler|AU|South Australia|8b|-2o4|apf|5k|Goler;Qoler
+Gawanē|ET||2|s9|34x|35|Gawāni;Gewanē
+Gawān|IN||6t|26y|61n|2f
+Barlig|PH||71|1bc|9ce|1q|Gawana
+Gawler East|AU||8b|-2o4|apg|1h
+Gäwers|TM||5x|2wz|4j5|y
+Gawler South|AU||8b|-2o5|ape|o
+Gaweinstal|AT||a2|3qo|1a3|h|Gaunersdorf
+Gaworzyce|PL||a5|3zf|184|f
+Gawler Belt|AU||8b|-2o2|apd|9
+Gawler West|AU||8b|-2o4|apd|9
+Gavrilovka|RU||9i|4c7|3dg|9|Gawriłowka
+Gäwers bekedi|TM||5x|2x3|4j7|8
+Gawcott|GB||9b|40e|-2t|8
+Gawsworth|GB||9b|43v|-61|7
+Gawłuszowice|PL||a5|3w1|1ne|7
+Gawler city centre|AU||8b|-2o4|ape|7
+Gawler|AU|Tasmania|8g|-36f|ba0|6

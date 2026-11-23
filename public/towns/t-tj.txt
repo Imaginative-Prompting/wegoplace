@@ -1,0 +1,66 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tianjin|CN||7i|30q|91i|2yzo|Tiencin;Tiencsin;Thiên Tân;Tchien-ťin;Tjanĝino;Tientsin;Tiandzinas;Thiên-tsîn;Tjaņdziņa;Tyantszin;Tjandžin;Tyan'czin';T’ien-ching;T’ien-chin
+Chelyabinsk|RU||7z|498|4qn|9a0|Tscheljabinsk;Cheliábinsk;Čeljabinsk;Ĉeljabinsko;Tšeljabinsk;Tcheliabinsk;Čeļabinska;Tsjeljabinsk;Czelabińsk;Tjeljabinsk;Çelyabinsk;Čeliabinskas;Celiabinsc;Celeabinsk;Cseljabinszk;Čeläbinsk;Tsyelyabinsk;Txeliabinsk;Celiabinsca
+Tyumen|RU||7z|4er|521|5xg|Tjumen;Tioumen;Tiumén;Tjumen';Tjoemen;Tümen;Tyoumen;Tjumenj;Tjumeno;Tumenum;Tiumenė;Tjumeņa
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Cilegon|ID||6l|-gp|86l|3mo|Chilegon;Tjilegon;Tlilegon
+Cibinong|ID||6l|-i0|88t|2sy|Tjibinong;Chibinong;Chibinung
+Cirebon|ID||6l|-in|8dk|2nt|Tjirebon
+Cherepovets|RU||9i|4k9|2xa|2fp|Tscherepowez;Tšerepovets;Čerepovec;Czerepowiec;Ĉerepoveco;Tsjerepovets;Čerepoveca;Čerepovecas;Cerepoveț;Txerepovets;Cserepovec;Tjerepovets;Çerepovets;Čerjepowjec;Cherepovetz
+Cileungsir|ID||6l|-hr|894|28i|Tjileungsir;Cileungsi
+Chernihiv|UA||98|3z3|2ex|26j|Tschernihiw;Czernihów;Ĉernigivo;Ĉernihivo;Csernyihiv;Tsjernihiv;Tšernihiv;Czernihovia;Chernígov;Černihiv;Çernigiv;Tjernihiv;Černihiw;Černihov;Černigovas;Txerníhiv;Cernigău;Tšernigiv;Černigov;Çerniqov;Cernigovia;Tschernigow
+Cherkasy|UA||98|3tc|2h2|22y|Tscherkassy;Tcherkassy;Čerkasy;Czerkasy;Cserkaszi;Tsjerkasy;Tšerkassõ;Tšerkasy;Ĉerkaso;Çerkassi;Çerkası;Čerkasai;Circassium;Tjerkasy;Txerkasy;Tcherkássi;Tsjerkasi;Txerkassi;Čerkasad;Cherkassy
+Chernivtsi|UA|Chernivtsi|98|3q5|201|21f|Tschernowitz;Czernowitz;Cernăuți;Tsjernivtsi;Czerniowce;Tjernivtsi;Ĉernivco;Černovice;Çernivtsi;Tšernivtsi;Txernivtsí;Černivci;Csernyivci;Černovci;Czernovicum;Černivciai;Chernovsi;Cernovizza;Csarnóca;Chernovtsy
+Citeureup|ID||6l|-i1|88w|1nn|Tjiteureup;Citeurep
+Ciputat|ID||6l|-hc|88e|1lr|Tjiputat
+Chirchiq|UZ||7m|377|5da|198|Tchirtchik;Čirčikas;Circik;Çirçig;Tjirtjik;Chirchik;Tschirtschik
+Cikampek|ID||6l|-hu|8ai|zc|Chikampek;Tjikampek
+Cikarang|ID||6l|-he|89n|tl|Chikarang;Tjikarang
+Caringin|ID||6l|-in|88q|pi|Tjaringin
+Chekhov|RU|Moscow Oblast|9i|497|2w2|l0|Tsjekhov;Tschechow;Chéjov;Čechov;Çexov;Ĉeĥov;Tšehhov;Tšehov;Čehova;Tsjekhov i Moskva oblast;Czechow;Tjechov
+Chapayevsk|RU||9p|436|3u3|jh|Tsjapajevsk;Tchapaïevsk;Čapaevsk;Ĉapajevsk;Tšapajevsk;Ceapaievsk;Czapajewsk;Tjapajevsk;Čapajewsk;Tschapajewsk;Chapaevsk
+Chusovoy|RU||7z|4hx|4gl|dy|Tsjusovoj;Tschussowoi;Chusovói;Tchoussovoï;Čusovoj;Çusovoy;Tšusovoi;Ciusovoi;Čusovoi;Czusowoj;Tchussovoi;Tjusovoj;Tsjoesovoj;Čusowoj;Csuszovoj;Chusovaya
+Colomadu|ID||6l|-kx|8jn|7b|Tjolomadu
+Charentsavan|AM||80|348|3g0|65|Ch’arents’avan;Tscharenzawan;Tšarentsavan;Čarencavanas;Tjarentsavan;Ĉarencavan;Tšharentshavan;Čarencawan;Çarentsavan;Charentsawan;Charencavan;Ch’arants’avan;Choentsavan
+Chudovo|RU||9i|4k8|2g0|4u|Tsjudovo;Tiutova;Tchoudovo;Čudovo;Tsjoedovo;Tšudovo;Czudowo;Tjudovo
+Tyazhinskiy|RU||74|4bv|6tw|3t|Tjazjinskij;Tyazhinskoye
+Tjakastad|ZA||o|-207|2dm|3j
+Tyup|KG||65|3ap|61o|3g|Tüp;Tjup
+Tyukalinsk|RU||76|4b7|5kk|3b|Tjukalinsk
+Tyul’gan|RU||7z|41e|4c0|2u|Tjulgan
+Chausy|BY||9g|45h|2e1|2p|Chavusi;Tschawussy;Tchavoussy;Tšavusy;Čavusai;Czausy;Tjavusy;Chausi;Chavusy
+Chaplynka|UA||98|3ks|2l6|2p|Tšaplynka;Čaplinka;Txaplinka;Tjaplynka;Chaplinka;Tšaplõnka;Čaplynka;Czapłynka;Ceaplînka
+Tyachiv|UA||98|3pd|1th|2i|Técső;Ťačiv;Tiacziw;Teceu Mare;Tiatchiv;Tjatschiw
+Chachersk|BY||9g|430|2dw|2h|Tchatchersk;Čačersk;Tšatšersk;Csacserszk;Čačerska;Czeczersk;Tjatjersk;Chechersk
+Chakvi|GE||7n|37x|37x|1v|Ch'ak'vi;Tjakvi;Ĉakvi;Czakwi;Chakva
+Tyube|RU||9i|3bl|3nf|1t|Tjube
+Tyumentsevo|RU||63|444|6ae|1m|Tjumentsevo;Tyumentseva
+Chornukhyne|UA||98|3q8|2z0|1l|Chernukhino;Tschornuchyne;Čornuhine;Chornújine;Tšornuhhõne;Tsjornukhine;Czornuchyne;Cernuhîne;Tjornukhyne
+Chambarak|AM||80|34s|3hz|1j|Čambarakas;Tjambarak;Ĝambarak;Tšambarak;Čambarak;Czambarak;Krasnoselsk;Mikhaylovka
+Chepelare|BG||9v|37x|1wk|1j|Tsjepelare;Tšepelare;Cepelare;Czepełare;Tjepelare;Chepelari
+Tyukhtet|RU||6u|4d2|6w4|1f|Tjukhtet
+Chechelnyk|UA||98|3py|29k|1e|Tchétchelnyk;Tsjetsjelnyk;Tschetschelnyk;Chechel'nyk;Tšetšelnyk;Csecselnik;Čečeľnyk;Çeçelnık;Txetxelnik;Tjetjelnyk;Chechelnik;Čečel'nyk;Txetxelnyk;Czeczelnik
+Tjøme|NO||9j|4k7|sv|1d
+Tyubuk|RU||7z|4bq|4pa|10|Tjubuk
+Tjæreborg|DK||8y|4a2|nu|u
+Tyulyachi|RU||9i|4b9|3vj|t|Tjuljatsji
+Chulakivka|UA||98|3ks|2hv|t|Tsjulakivka;Tschulakiwka;Tjulakivka;Čulakivka;Tchoulakivka;Ciulakivka;Tsjoelakivka;Chulakovka;Chulokovka
+Chervone|UA|Zhytomyr Oblast|98|3us|287|s|Tscherwone;Tjervone;Červone;Czerwone;Chervonoye
+Detern|DE||8r|43t|la|r|Tjootern
+Chernivtsi|UA|Vinnytsia|98|3qu|264|r|Tscherniwzi;Tjernivtsi;Černivci;Çernivtsi;Czerniejowce;Cernivți
+Tjudö|AX||9f|4nl|1jf|q
+Chiprovtsi|BG||9v|3ci|1rk|j|Tschiprowzi;Ciprovți;Čiprovci;Cziprowci;Tjiprovtsi;Tschiporowzi;Chiporovtsŭ;Chiporovtsi
+Thunzini|SZ||13|-204|2g5|j|Tshaneni;Tjaneni;Tahaneni
+Chornobyl|UA||98|3yf|2by|g|Tschernobyl;Chernobil;Txernòbil;Chernobyl;Chornóbil;Černobyl;Tjernobyl;Ĉernobilo;Tchernobyl;Csernobil;Černobyl';Tsjernobyl;Czarnobyl;Cernobîl;Tšornobõl;Tšernobyl;Černobylis;Tsjornobyl;Chernobyl’
+Bergen an der Dumme|DE||8r|42x|ug|g|Bergen ad Dumme flumen;Djörska;Tjörska;Tÿörska
+Tyarlevo|RU||9i|4lv|2cl|f|Tjarlevo;Tärölä;Tiarlevo;Târlevo
+Tzummarum|NL||8m|43w|ff|e|Tjummarum;Tsjummearum
+Tzum|NL||8m|43o|fg|b|Tjum;Tsjom
+Tjuvkil|SE||9w|4gu|wl|a
+Chornyy Ostriv|UA||98|3tj|22c|a|Tchornyï Ostriv;Chornyi Ostriv;Tschornyj Ostriw;Tjornyj Ostriv;Chorniy Ostriv;Černý Ostrov;Çornıy Ostriv;Czarny Ostrów
+Tjalleberd|NL||8m|438|gi|8|Tjallebert;Tjallebird
+Tjörnarp|SE||9w|4bk|11v|8
+Chernyshevskoye|RU||96|47s|1r5|8|Tschernyschewskoje;Tchernychevskoïe;Tsjernysjevskoje;Eitkūnai;Czernyszewskoje;Tjernysjevskoje;Černyševskoe;Tšernõševskoje;Txernixévskoie
+Chervonyi Yar|UA||98|3im|295|8|Chitai;Chervonyy Yar;Tsjervonyj Jar;Tscherwonyj Jar;Tjervonyj Jar;Červonijjara;Chervony Yar;Çervonıy Yar;Chervonnyy Yar
+Tjokoronidougou|CI||0|o3|-ki|6
+Tjällmo|SE||9w|4j4|16n|5

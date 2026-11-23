@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Campo Grande|BR|Mato Grosso do Sul|2a|-1ks|-47t|6zp|Campus Magnus;Kampo Grandė;Kampu-Grandi
+Ciudad General Escobedo|MX||44|1zo|-7qo|3ie|General Escobedo;Gral. Escobedo
+Campina Grande|BR||2w|-k3|-2ro|3fb|Kampinagrando;Kampina Grandė
+Grajaú|BR|São Paulo|4w|-1u1|-3ln|2yx
+Las Palmas de Gran Canaria|ES||83|262|-16u|2yj|Laspalmaso;Las Palmas;Kanaria Handiko Las Palmas;Les Palmes de Gran Canària;Laspalmasa;Palmas de Gran Canaria;Las Palmas de G.C.
+Praia Grande|BR|São Paulo|4w|-1up|-3kw|2u2
+Hrodna|BY||9g|454|1u7|2t1|Grodno;Gardinas;Goradnia;Grodņa
+Soledad de Graciano Sánchez|MX||41|1pn|-7se|2k9
+Graz|AT||a2|3mr|16w|2c9|Štýrský Hradec;Graco;Graecia;Graca;Gradec;Grác;Gracas;Qras;Gradac;Gratz
+Várzea Grande|BR|Mato Grosso|2k|-17h|-4bx|2bd
+Grozny|RU||9i|3cb|3ix|2aj|Grosny;Grozni;Grosnij;Grozno;Groznîi;Groznâi;Grosnî;Groznõi;Groznas;Džohar;Džohhar;Sölž-Ghala;Qroznı;Groznıy;Groznij
+Greater Noida|IN||6t|276|5ze|29n|Didžioji Noida;Granda Noida
+Ponta Grossa|BR||4w|-1xp|-3vc|296|Ponta Grosa
+Greensboro|US|North Carolina|48|2s7|-65n|279|Qrinsboro;Grinsboras
+Gagnoa|CI||0|h1|-gj|24y|Ganjoa;Gragnoa
+Gravataí|BR||4w|-2b6|-3xn|21n|Karavatay;Gravatahy
+Groningen|NL||8m|43u|i9|1w0|Groninga;Groningue;Grins;Groninge;Grunneng;Qroningen;Greunienge
+Granada|ES||9d|2vb|-a1|1sv|Granado;Grenade;Granata;Grenada;Grenado;Grenayd;Gırnata;Qranada;Graná
+Oruro|BO||3n|-1dx|-56d|1lz|Ururu;Oruras;Uru Uru;Gruro
+Rio Grande|BR||4w|-2gz|-40q|1j9
+Grand Rapids|US|Michigan|2q|3bc|-6lz|1i7
+Grand Prairie|US||2f|2iz|-7hg|1g6|Grand Preris
+Oradea|RO||8u|3mp|1ow|1ev|Velký Varadín;Nagyvárad;Varadinum;Oradä;Großwardein;Oradia;Oradja;Veliki Varadin;Wardein;Várad;Varadija;Varat;Gran Varadino;Groysvardeyn
+Garden Grove|US|California|3p|2lt|-93m|1cq|Garden Grovas;Gardengrove
+Elk Grove|US||3p|2yp|-9d5|1ad|Elkgrove
+Greater Sudbury|CA||59|3l5|-68z|1a4|Grand Sudbury;Gran Sudbury;Sudbury;Sadberis;Granda Sudbury
+Grenoble|FR||9k|3hi|fv|182|Grenoblo;Grenobel;Qrönobl;Gratianopolis;Grenoblis;Grenobl
+Fazenda Rio Grande|BR||4w|-1za|-3sz|15d
+Jyväskylä|FI||92|4sw|1zg|15b|Juveskiulė;Jiveskile;Granivicus;Jüväskülä
+Cambridge|GB||9b|410|c|14h|Caergrawnt;Kembriĝo;Cantabrigia;Grantanbrycg;Kembridžas;Kiam-khiâu;Kambrij;Kembric;Kembridža
+Gràcia|ES||9d|370|60|xr
+Santa Coloma de Gramenet|ES||9d|375|65|x0
+Zielona Góra|PL||a5|40a|173|ww|Grünberg;Zelona Gura;Prasia Elysiorum;Zelöna Gur;Zeliona Gura;Zelonô Góra;Zelona Qura;Gruenberg
+Campo Grande|BR|São Paulo|4w|-1tr|-3lp|w7
+Gravesend|US||48|34s|-5ph|v6
+Gresham|US|Oregon|3p|3ie|-9g3|uq
+Greeley|US|Colorado|2p|34a|-82v|u8|Greely
+Green Bay|US||2f|3fo|-6si|t8|Grin Bėjus;Greenbay
+Grogol|ID||6l|-l4|8ju|ry

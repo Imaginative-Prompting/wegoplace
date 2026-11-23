@@ -1,0 +1,79 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Oujda|MA||d|2oc|-5b|45x|Wadżda;Uĝda;Ujda;Udžda;Wejda;Ucda;Ouja;Oudjda
+Wad Medani|SD||r|140|2l4|2kf|Wad Madani;Vad Madani;Vad Medeni
+Wādī as Sīr|JO||5t|2gr|2ri|1ec|Wadi Al Seer;Wadi Sir;Wadi es Sīr;Wādī as Sayr;Wadi Esseir
+Wadgaon Kolhati|IN||6t|1j4|5t0|i8
+Wāri|IN||6t|1mr|63h|f0|Wadi
+Wādi|IN||6t|1bd|5xv|ak
+Wadayama|JP||7q|2q4|aen|82
+Wadgaon|IN|Maharashtra|6t|1as|5qf|75|Vadgaon
+Waddinxveen|NL||8m|40l|cx|71
+Wadsworth|US|Ohio|48|35z|-6b1|63
+Wade Hampton|US||48|2oy|-6cp|5q
+Wadowice|PL||a5|3uk|1i5|5c|Vadovice
+Wadgassen|DE||8r|3sv|iu|55
+Wādī 'Utbah|LY||1d|20i|11o|4n
+Wadern|DE||8r|3tm|j5|4l
+Wadi Halfa|SD||r|1ok|2f5|4d|Ŭadi Halfa;Vadi Halfa;Vádi-Halfa;Ouadi-Halfa
+Wadgaon|IN|Maharashtra|6t|1g2|5ok|42|Vadgaon
+Wādī Mūsá|JO||5t|2c8|2qk|3w|Petra
+Wädenswil|CH||a7|3n7|o3|3p
+Wadi al-Joz|PS||6g|2gb|2pw|3m
+Wad Rāwah|SD||r|164|2k2|2v|Wad Rāwa
+Waddān|LY||1d|290|18u|2u|Uaddan
+Wadhraf|TN||1e|2me|rp|2r
+Wad az Zāki|SD||r|146|2hh|2l|Wad ez Zaki
+Wading River|US||48|35r|-5mc|25
+Wada|JP|Chiba|7q|2pc|asy|25|Wata
+Wadomari|JP||7q|242|9xd|1x|Watomari
+Vad|RU||9i|4a9|3et|1v|Wad
+Waajid|SO||14|al|3c5|1v|Wājid;Wadjid
+Wadebridge|GB||9b|3wc|-dg|1u|Ponsrys
+Wardhāmna|IN||6t|1mp|63b|1p|Waddhamana
+Wādrupnagar|IN||6t|1u1|6f5|1o|Wadrupragar;Wadrafnagar
+Wadesboro|US||48|2p5|-66g|1k
+Wadersloh|DE||8r|3zp|mx|1f
+Wadi Ratnagiri|IN||6t|1ao|5q2|1b
+Wādī as Salqā|PS||6f|2f7|2ng|1a|Wādī as Salgā
+Ouâd Nâga|MR|Trarza|19|1dv|-17m|16|Wadi an-Nāqa
+Wadena|US||2f|3l0|-7ca|16
+Waddington|GB|England|9b|43p|-1h|15
+Wadhurst|GB||9b|3xu|y|15
+Wadestown|NZ||ak|-36n|dhh|11
+Wadsworth|US|Illinois|2f|39v|-6s8|11
+Waddi|DJ||i|yb|3b9|z
+Wadalba|AU||8l|-2kf|boq|s
+Wädenswil / Büelen|CH||a7|3n7|o2|r
+Wädenswil / Dorf (Wädenswil)|CH||a7|3n7|o3|q
+Wadgaon Tejan|IN||6t|1jp|5wj|p
+Wadi Maliz|TN||1e|2tb|nr|o
+Wada|JP|Nagano|7q|2tp|anb|m
+Wadley|US|Georgia|48|2jb|-6cw|k
+Wädenswil / Untermosen-Fuhr|CH||a7|3n7|o2|k
+Wadeye|AU||8e|-13k|9zs|j|Port Keats
+Wädenswil / Leihof-Mühlebach|CH||a7|3n6|o3|i
+Waddesdon|GB||9b|401|-2k|i
+Wädenswil / Boller-Giessen|CH||a7|3n6|o4|f
+Wado|JP||7q|2s4|as2|f
+Wädenswil / Hangenmoos|CH||a7|3n7|o1|e
+Wādī Raḩḩāl|PS||6g|2fz|2pp|e
+Wadena|CA||4q|40b|-80c|d
+Wädenswil / Eichweid|CH||a7|3n6|o3|d
+Wādī Fūkīn|PS||6g|2g3|2pi|c
+Wadworth|GB||9b|44j|-36|b|Wadsworth
+Wadgaon Sarhad|IN||6t|1ja|5wg|b
+Wadowice Górne|PL||a5|3vm|1n6|b
+Wade|US|Mississippi|2f|2d4|-6u1|b
+Waddington|GB|England|9b|45p|-6p|a
+Wadébo|CI||0|ci|-ki|a
+Waddington|US||48|3gm|-5sw|a
+Waddeweitz|DE||8r|438|ug|9
+Wadsworth|US|Nevada|3p|323|-97d|8
+Wādī an Nīş|PS||6g|2fx|2po|8
+Wadley|US|Alabama|2f|2k0|-6lp|7
+Wadenoijen|NL||8m|403|ex|7|Wadenooien;Wadenooijen;Wadenoyen
+Wādī ash Shājinah|PS||6g|2ff|2pb|7
+Wądroże Wielkie|PL||a5|3y0|19d|6|Groß Wandriß
+Waddingham|GB||9b|44h|-1g|6
+Wade|US|North Carolina|48|2po|-62q|6
+Wadelincourt|FR||9k|3u1|dq|5

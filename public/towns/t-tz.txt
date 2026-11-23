@@ -1,0 +1,79 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tsévié|TG||w|hv|3d|fi|Ceviye;Tsévyé;Tzevie
+Zumpango del Río|MX||41|1d1|-7oh|6v|Tzompanco Ātōyātl
+Kadima Zoran|IL||6n|2ho|2p0|6b|Tzoran-Kadima;Kadima-Tzoran
+Tzaneen|ZA||o|-1u7|2bs|4v
+Maçka|TR||94|35d|320|3n|Tzevislik
+Dzitbalché|MX||3z|1kg|-6y6|39|Tzitbalché;Dzibalché
+Tzucacab|MX||3z|1jr|-6vd|2s|Tzucaceb
+Dzidzantun|MX||3z|1n1|-6vc|22|Tzitzantún;Dzidzantum
+Tzimol|MX||3z|18y|-743|1s
+Tsarevo|BG||9v|395|25d|1p|Zarewo;Tzarevo
+Tsur Itshak|IL||6n|2hk|2p8|1o|Tzur Yitzhak
+Dzilam González|MX||3z|1n4|-6v1|1n|Tzilam González
+Chernyshkovskiy|RU||a4|3qi|39b|1j|Tsjernysjkovskij;Tzhernyshkovskiy
+Tsovagyugh|AM||80|34v|3gw|18|Covagyux;Tsovagyukh;Tzovagyugh
+Tsar Kaloyan|BG||9v|3d6|20x|14|Tzar Kaloyan
+Irákleia|GR||8p|36e|1so|12|Tzoumagia;Barakli Cuma;Giumala de Jos;Iraklia
+Tzintzuntzan|MX||41|1ij|-7u6|z
+Dzemul|MX||3z|1mx|-6w3|w|Tzemul
+Tzicatlán|MX|Puebla|41|1f9|-7mc|v
+Tzinacapan|MX||41|1jn|-7iy|t
+Tsakkar|AM||80|33l|3hm|t|Tsakk’ar;Tzakkar
+Dzitás|MX||3z|1lw|-6tx|t|Tzitas
+'t Zand|NL||8m|42s|d8|s|Zand
+Tzintzingareo|MX||41|1iw|-7r5|r
+Tzajalá|MX||41|1bm|-74n|p
+Dzilam de Bravo|MX||3z|1nf|-6ux|o|Tzilam de Bravo
+Dzoncauich|MX||3z|1mp|-6ux|n|Tzonkauich
+Tzajalchén|MX|Chiapas|41|1as|-74u|n
+Tsaghkahovit|AM||80|34w|3eu|m|Caxkahovit;Tsakhkaovit;Tzaghkahovit
+Tz'Aquiviljok|MX||41|1au|-74u|m
+Tzeltal|MX||41|1b2|-74w|l
+Zollino|IT||9o|33p|1ep|j|Tzuddhino
+Tzompantepec|MX||41|1hu|-7kh|j|Tezonpantepec
+Chiaramonti|IT||9o|357|oi|g|Tzaramonte;Claramons
+Tschernitz|DE||8r|3za|14m|g|Tzschernitz
+Tziscao|MX||41|18o|-72n|g|Tzixcao
+Tzintzimeo|MX||41|1j7|-7si|f
+Tziritzícuaro|MX|Michoacán|41|1jg|-7r2|f|Ziritzícuaro;Nativitas
+Tzummarum|NL||8m|43w|ff|e|Tjummarum;Tsjummearum
+Saclamantón|MX||41|1an|-75b|d|Tzaclamantón
+Tzoeptic|MX||41|1aw|-755|d
+Tsofit|IL||6n|2hf|2p0|d|Cofit;Tzofit;Zofit
+Tsrufa|IL||6n|2ip|2p3|d|Tserufa;Tzrufa
+Tzopilja|MX||41|1ai|-74f|c
+Tsaghkaber|AM||80|35c|3ei|c|Avdibek;Caxkaber;Tzaghkaber;Tsakhkaber
+Tzicatlacoyan|MX||41|1gc|-7kd|c|San Juan
+Tzicatlán|MX|Veracruz|41|1lg|-7kw|b
+Tselafon|IL||6n|2gc|2p1|b|Kfar Uriyah Bet;Celafon;Tzelafon;Zelafon;Kefar Uriyah Bet
+Tzinil|MX||41|196|-74g|b
+Tzum|NL||8m|43o|fg|b|Tjum;Tsjom
+Tzitzio|MX||41|1if|-7sc|b|Zitzio
+Tsaghkunk|AM|Gegharkunik|80|34q|3go|a|Tsakhkunk;Tzaghkunk
+Tzontehuitz|MX||41|1ar|-756|a
+Tsippori|IL||6n|2iz|2q0|a|Tsipori;Ẕippori;Tzippori
+Tzobojitle Jotoaquil|MX||41|1b9|-73q|a
+Tzocohuite|MX||41|1lu|-7k1|a
+Tsafriyya|IL||6n|2gw|2ou|a|Tzafria;Ẕafriyya
+Tzinacantepec|MX||41|1j2|-7iu|9
+Tzuluwitz|MX||41|1ax|-74o|9
+Těškovice|CZ||9m|3ud|1e2|8|Tzieschkowitz
+Tziritzícuaro|MX|Michoacán|41|1fe|-7s6|7
+Tzahuinco|MX||41|1k4|-7k8|7
+Tzitzicazapa|MX||41|1k4|-7k2|7
+Tzermiádon|GR||8p|2ps|1yt|7|Tzermiádhon;Tzermiádo
+Tzoncolco|MX||41|1g5|-7ht|6|Zoncolco
+Tzajalchén|MX|Chiapas|41|1as|-75d|6
+Tzinejá Uno|MX||41|1nx|-7mx|6
+Tzacuala|MX||41|1mn|-7kv|6
+Tsilkar|AM||80|354|3et|6|Tsilk’ar;Cilqar;Tzilkar
+Tzametal|MX||41|1av|-74q|6
+Tzova|IL||6n|2ga|2pk|6|Tsova;Ẕova
+Tzunún|MX||41|1as|-74l|6
+Tzajaltetic|MX||41|1ap|-75i|6
+Tzajalha|MX||41|1a4|-74v|6|Tzajalá
+Tzunjok|MX||41|1b3|-74n|5
+Tzasibiltic|MX||41|1bn|-74d|5
+Tza'Quil|MX||41|1cc|-74v|5
+Tzeltal Mukul-Já|MX||41|1cx|-73u|5

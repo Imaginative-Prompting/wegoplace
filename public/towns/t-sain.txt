@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Santo Domingo|DO||4v|1fb|-5e5|gzn|Saint Domingue;Ciudad Trujillo;Santo-Dominqo
+Vũng Tàu|VN||6h|sr|89g|3l5|Cap-Saint-Jacques;Saint James;Ville du Cap;Cape Saint James;St. James
+Saint Paul|US|Minnesota|2f|3gu|-76l|2c8|St. Paul;Urbs Sancti Pauli de Minnesota;Sent Polas;San Pablo;Sentpola;Sint-Paul;Sent Pol;Sent Pols;Sint Pol
+St. Louis|US||2f|2zb|-6yk|25p|San Luis;Saint Louis;Saint-Louis;Sankta Luiso;St Louis;Sent-Luis;Sent Luisas;Sentluisa;Urbs Sancti Ludovici;Sent Loisos;Sint-Louis;Saint Louis City;Saint Lewis
+Saint-Marc|HT||4j|1h3|-5ly|222
+St. Petersburg|US||48|255|-6do|1zf|Saint Petersburg;Saint Pete
+Saint-Louis|SN||g|18i|-19t|1ym|Saint Louis;Sen Luji;Sen Lui
+Donostia / San Sebastián|ES||9d|3cb|-5h|1fi|San Sebastián;Donostia;La Bella Easo;Sanse;Sant Sebastià;Saint-Sébastien;Donostio;São Sebastião;Donosti;Donostia-San Sebastián;Donostia San Sebasián
+Saint-Étienne|FR||9k|3i7|c7|1cz|Sankta-Stefano;Sant-Etiève;Sent Etjenas;Sentetjēna;Sanctus Stephanus de Furano;Sant Estève;Sent-Etyen;Sainté;St Étienne;Sankta-Etjeno
+Port Saint Lucie|US||48|23t|-677|19q|Port Sint Lucie
+Saint-Denis|RE||ai|-1m0|4a1|170|St. Denis
+Saint-Quentin-en-Yvelines|FR||9k|3rh|5m|14q
+St. Catharines|CA||59|3bx|-644|120|Sainte-Catharine;Sankta Katarino;Sent Katerinsas
+Saint Peters|GB||9b|3yp|3y|yu
+Saint-Louis-de-Terrebonne|CA||59|3iy|-5oz|xb
+Sainte-Foy|CA||59|3ly|-5i1|ux
+Sainte-Foy–Sillery–Cap-Rouge|CA||59|3lw|-5i7|ux
+St. John's|CA||50|3o4|-42f|up|Saint John's;St Johns;San Juan de Terranova;Baile Naoimh Eòin;Baile Sheáin;Sent Džonsas;Sanctus Ioannes Terrae Novae;Saint John;Saint-Jean de Terre-Neuve;Saint-Jean;Sent-Jons;Sent-Cons
+Saint-Paul|RE||ai|-1md|49j|t8
+Santiago de Compostela|ES||9d|3b4|-nr|rn|Saint-Jacques-de-Compostelle;Compostelako Donejakue;Santiago di Compostela;Compostella;Santiaqo de Kompostela;Santiagu de Compostela;Santiago de Kompostela;Santiago de Compostella;Santjago de Kompostela;Compostèla;Sint-Djåke-el-Galice
+Saint-Laurent|CA||59|3ie|-5on|rg|St Laurent
+Saint-Jean-sur-Richelieu|CA||59|3hv|-5ni|r8
+Saint-Denis|FR||9k|3ry|6j|qp|Sanctus Dionysius;Sen Deni;Sendenī;Sen-Deni
+Saint-Michel de l'Atalaye|HT||4j|1ht|-5kx|qg|Sen Michèl Latalay;Saint Michel de L’Attaiaye
+St Albans|GB||9b|3zr|-x|ni|St. Albans;Fanum Sancti Albani;Sent Albanas;Sentalbana;Santa Albans;Sant Albans;Saint Albans
+Saint-Pierre|RE||ai|-1na|4a4|nd
+Saint-Hubert|CA||59|3ie|-5ny|mx
+Saint-Léonard|CA|Quebec|59|3in|-5og|m3
+Saint Joseph|US|Missouri|2f|32h|-7bh|lc|St. Joseph;Sankta Jozefo
+Sankt Gallen|CH||a7|3nq|q1|l2|St. Gallen;Saint-Gall;San Galo;Sankt-Galo;San Gallo;Sanctogallum;San Gallu;Son Gagl;Saint Gallen;Sogn Gagl;Sanggale;Sankt Qallen
+Saint-Maur-des-Fossés|FR||9k|3rj|6x|ky|Saint-Maur-les-Fossés
+Saint George|US|Utah|2p|2v2|-8ri|k9|St. George;St George
+Saint John|CA||43|3hr|-53i|jy|Saint-Jean;Urbs Sancti Ioannis Canadensis
+Sint-Niklaas|BE||8t|3y5|bi|j6|Saint-Nicolas
+Saint-Nazaire|FR|Pays de la Loire|9k|3nc|-66|in|Sant-Nazer;Fanum Sancti Nazarii in Sinnuario;Sen Nazeras
+Saint Cloud|US|Minnesota|2f|3ik|-79k|ia|St. Cloud
+Saint Charles|US|Missouri|2f|2zq|-6zc|ia|St. Charles
+Saint Clair Shores|US||2q|3a2|-6e9|gl|Saint Clr Shores;St. Clair Shores
+San Andrés|CO|San Andres y Providencia|27|yy|-6ay|g7|Saint Andrews

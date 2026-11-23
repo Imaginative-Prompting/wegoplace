@@ -1,0 +1,252 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nanjing|CN||7i|2h2|95y|1zvf|Nanking;Nankín;Nanchino;Nandžing;Nankinas;Naņdzjina;Nanchinum;Namkin;Nankingo;Nam Kinh;Nanquin;Nanquim;Nàng-gĭng;Nàm-kîn-sṳ;Nanzging;Nankijn;Nan-ching
+Nanning|CN||7i|1re|8cw|1a4c|Nam Ninh;Nan-ning;Naningas;Naningo;Nàm-nèn-sṳ;Namzningz;Lâm-lêng-chhī;Nàng-nìng;Naņnina;Nannin;Nanninq;Yung-ning
+Nanhai|CN||7i|1ry|8qa|sao
+Nanchang|CN||7i|27o|8xt|i6y|Nam Xương;Nančangas;Nan-čchang;Nanĉano;Lâm-chhiong-chhī;Nàng-chiŏng;Nàm-chhông-sṳ;Nancsang;Nancianga;Naņčana;Nanzcangh;Nançan;Nančang
+Nantong|CN|Jiangsu|7i|2gz|9br|hjh|Nentung shehiri;Nan-tchung;Nam Thông;Lâm-thong-chhī;Nàng-tŭng;Nan-t’ung
+Nanchong|CN||7i|2dk|86o|ecd|Nan-čchung;Nam Sung;Lâm-chhiong-chhī;Nàng-chṳ̆ng;Nan’chun;Nan-ch’ung
+Nanyang|CN|Henan|7i|2jp|8on|dza|Nam Dương;Nan-jang;Nenyang shehiri;Nanyan;Nàng-iòng;Lâm-iông-chhī
+Da Nang|VN||6h|18n|8cm|9ug|Danang;Thành Thái Phien
+Belgrade|RS||8q|3gg|1kv|9tt|Belgrad;Belgrado;Belgráu;Beograd;Bělehrad;Beogrado;Belgradas;Belgrada;Beogradi;Belgradu;Belogradum;Běłohród;Nándorfehérvár;Belqrad
+Nanded|IN||6t|1h8|5yr|48y|Nander
+Nansana|UG||q|10|2id|440
+Nanping|CN|Fujian|7i|221|949|3lz|Nàng-bìng;Nan-pching;Nàm-phìn-sṳ;Nenping shehiri;Nam Bình;Lâm-pêng-chhī
+Nagasaki|JP|Nagasaki|7q|2iz|a0s|35n|Nagasako;Nagaszaki;Nagasacium;Nangasaque
+Nanqiao|CN||7i|2dw|9dd|2sc|Nan-ch’iao;Nankiao
+Nantes|FR||9k|3n6|-4b|2ib|Naoned;Nanto;Portus Namnetus;Nante
+Nandyāl|IN||6t|170|620|1mq|Nandial
+Nāngloi Jāt|IN||6t|27o|5y3|1l4
+Nanchuan|CN||7i|28z|89i|1kw
+Rāj-Nāndgaon|IN||6t|1mm|693|19b|Raj Nandga;Rāj Nāndgaon
+Nanpiao|CN||7i|366|9bf|17m
+Nanjin|CN||7i|2ba|877|13y
+Nantou|CN|Guangdong|7i|1r4|8qp|108
+Nankana Sahib|PK||6q|2fd|5or|104|Nankana Sachibas;Nanakana Sahib
+Nancun|CN||7i|2th|99p|yi
+Nanbin|CN||7i|2bc|8cb|wy
+Nandurbar|IN||6t|1nd|5q8|uu
+Nantou|TW||7l|1ug|9b6|td|Nan-tchou;Nàm-thèu-sṳ;Nam Đầu;Lâm-tâu-chhī;Nantow;Nan-t’ou
+Nancy|FR||9k|3r8|h6|t7|Nancio;Nanceium;Nanzeg;Nanzig
+Nanxi|CN||7i|284|83m|qp|Nanki
+Nanaimo|CA||5b|3sl|-9ka|p5
+Nandajie|CN||7i|29i|865|op
+Nanterre|FR||9k|3rt|65|o3|Nemetodurum;Nanteras
+Nanfeng|CN|Guangdong|7i|1tx|8mk|nx
+Nanding|CN||7i|2u3|93y|nr|Nan-ting
+Nanzhang Chengguanzhen|CN||7i|2ga|8mn|n8
+Nangong|CN||7i|2vr|8wj|mw
+Nangen|KR||7h|2qd|9tv|ml|Namwon;Mangen;Namwŭn;Namweon
+Nanma|CN||7i|2si|947|ko
+Nanyuki|KE||16|1|2uz|k8
+Nanlong|CN||7i|2f3|86m|hm
+Nani Daman|IN||6t|1kp|5mb|h8
+Nandu|CN||7i|1rh|8ju|h7|Nan-tu
+Nanhu|CN||7i|2ql|97j|gy
+Nantai|CN||7i|35o|9h4|fp
+Nanzhou|CN||7i|29k|8o9|f4
+Nanjangūd|IN||6t|xo|5x0|e2
+Nanao|JP||7q|2ux|akh|dz
+Nanjian|CN||7i|1xk|7r7|dx
+Nangal|IN||6t|2f7|5w6|dh
+Nanto|JP||7q|2tf|ak9|dc
+Nanto-shi|JP||7q|2tl|akb|dc
+Nanpeng|CN||7i|29h|889|d0
+Nantong|CN|Chongqing|7i|28e|88w|cz
+Nankoku|JP||7q|2l9|ab9|cz
+Nānpāra|IN||6t|25e|6ae|cv
+Nandikotkūr|IN||6t|182|61f|cl
+Nāndūra|IN||6t|1lv|5we|cc
+Nanjō|JP||7q|20m|9ux|c8
+Nansio|TZ||h|-5x|2jt|c8
+Nadi|FJ||ar|-1dg|dou|br|Nandi
+Nanmen|CN||7i|2e0|8co|bd
+Nannambra|IN||6t|uj|5uv|b9
+Nanshu|CN||7i|2uu|9aa|b6
+Nandigāma|IN||6t|1al|671|am
+Nangli Sakrawat|IN||6t|27i|5xv|ah
+Nanuque|BR||4w|-1dk|-343|9q
+Ranam|KP||7a|37v|a08|9h|Nanam
+Nanping|CN|Chongqing|7i|28t|897|95
+Nānjikkottai|IN||6t|tt|63u|93
+Nantan|JP||7q|2pj|agd|8s
+Nanyō|JP||7q|2xo|at7|8g|Nan'yō
+Nanga Eboko|CM||j|d0|yd|7x
+Nanya|CN||7i|2ec|8c9|7w
+Nanminda|IN||6t|vq|5um|7l
+Nantuo|CN||7i|2ay|8ap|7c
+Nantou|CN|Guangdong|7i|1qm|8sg|71
+Nanchital de Lázaro Cárdenas del Río|MX||41|1e7|-7a9|71|Villa Nanchital
+Nan|TH||62|1g6|7ry|6v
+Victoria|PH|Calabarzon|71|13j|9d1|6t|Nanhaya
+Nāndgaon|IN|Maharashtra|6t|1kf|5re|6q
+Nanling|CN||7i|1r3|7ps|6p
+Nansang|MM||7y|1m1|7jg|6m|Namsang
+Nanfeng|CN|Hainan|7i|1hx|8gb|6l
+Nangomba|TZ||h|-ua|2yy|6e
+Nang Rong|TH||62|14o|7xj|64|Nang Raung
+Nandri|IN||6t|213|5n2|5s
+Nandaime|NI||3s|wo|-6n1|5s
+Nangli|IN||6t|2g1|5s1|5o
+Naantali|FI||92|4nz|1p6|5n|Nådendal;Vallis Gratiae;Nodendal';Nantali
+Nanyamba|TZ||h|-to|32n|5g
+Nanauta|IN||6t|2aj|5z2|57
+Nangwa|TZ||h|-cf|2qh|56
+Nanuet|US||48|365|-5pl|4z
+Nangavaram|IN||6t|u7|626|4w
+Nanganga|TZ||h|-su|30r|4v
+Nantwich|GB||9b|43f|-70|4s
+Nanaku|JP||7q|348|awf|4o
+Nambingué|CI||0|rx|-eu|4n|Nampingue;Nanbingué
+Nandelav|IN||6t|1oc|5ms|3s
+Nanhyanga|TZ||h|-u0|31v|3r|Nanyanga
+Nānākuli|US||ax|1nf|-c7b|3j
+Nannilam|IN||6t|u8|655|3i
+Nant Thar Kone|MM||7y|1ax|7ez|3f
+Nanyang|CN|Gansu|7i|2mc|82o|3f
+Nanyaojie|CN||7i|26w|8ds|3e
+Nantianhu|CN||7i|2ai|8bs|37
+Nanshan|CN||7i|1qm|8si|36
+Nanoro|BF||1a|z9|-63|30
+Nangavalli|IN||6t|wo|60d|30|Nangavelli
+Nandgaon|IN|Uttar Pradesh|6t|24z|5yz|2w
+Nanticoke|US||48|36h|-5v4|2v
+Nanakwada|IN||6t|1l8|5mk|2u
+Nangka|PH|Central Visayas|71|q4|9h6|2p|Nangca
+Nanandy|CI||0|iq|-jx|2n|Namandy;Nanandi
+Nānda|IN||6t|1ix|63t|2m
+Nanyuan Residential|CN||7i|1qm|8sy|2m
+Nanyou, Shenzhen|CN||7i|1qi|8sg|2l
+Nandej|IN||6t|1rm|5lw|2k
+Nancagua|CL||4u|-2o9|-5hs|2i
+Nandgad|IN||6t|17a|5r5|2g
+Nandambakkam|IN||6t|102|66f|2d
+Nāngal Chaudhri|IN||6t|25h|5vf|2d
+Nandesari INA|IN||6t|1q9|5n2|2b
+Nangis|FR||9k|3qw|8d|2b
+Nandong|CN||7i|1r4|8s7|2a
+Nandi Hills|KE||16|a|2pq|28
+Nangan|TW||7l|20n|995|26|Nan-kan
+Nanliang Nongchang|CN||7i|2zf|870|26
+Nanzhushan|CN||7i|298|89q|25
+Nantucket|US||48|36o|-5eq|22|Nantukett;Nantukes;Nantucquet;Nantuckkit
+Nanshan Residential|CN||7i|1ql|8sh|21|Nanshan District;Distrito de Nanshan;District de Nanshan;Nanshan Barrutia;Nàm-sân-khî;Nam Sơn
+Nambu|JP||7q|2q0|aol|20|Nanbu-chō
+Nanguneri|IN||6t|nl|5zq|1y
+Nanga Medamit|MY||6w|cf|8v8|1y
+Nandasmo|NI||3s|x4|-6n8|1x|Nandasma
+Nandy|FR||9k|3qy|74|1v
+Nanhe|CN||7i|2mq|81l|1u
+Nangka|PH|Central Visayas|71|tb|9kd|1u
+Nanoose Bay|CA||5b|3sv|-9kz|1t
+Nanhera|IN||6t|2c8|5xh|1o
+Nandibo Un|CI||0|eo|-do|1l|Nandibo
+Nānpur|IN||6t|1pv|5r1|1k
+Nanawa|PY||1y|-1y8|-4ga|1k|Nanawua
+Nanteuil-lès-Meaux|FR||9k|3rx|82|1j
+Nanchang, Shenzhen|CN||7i|1qs|8s8|1f
+Nané|CI|Montagnes|0|ld|-jz|1f
+Nandlstadt|DE||8r|3qu|wt|1e|Nandelstatt
+Nanbonkaha|CI||0|r2|-ec|1e|Nambonkaha
+Nandihizana|MG||a8|-1gi|3ok|1e
+Nanmu|CN||7i|27g|8e4|1a
+Nan Ti|MM||7y|1bw|7f7|1a|Nānti
+Nangrékro|CI||0|j9|-ga|19
+Nandkharki|IN||6t|1u2|6nf|18
+Nangka|PH|Central Visayas|71|t9|9jo|17
+Nantua|FR||9k|3k7|fl|17
+Nanyu|CN||7i|2lo|821|15
+Nangoniékaha|CI||0|oe|-ej|14|Nangonienkaha;Nangoyékaha
+Nandgaon|IN|Maharashtra|6t|1ja|64b|12
+Nanango|AU||8c|-223|bq8|10
+Nancamarinan|PH||71|17k|9au|10|Nancamarian
+Nanov|RO||8u|3e8|1ya|z
+Nancang|CN||7i|30w|91e|z
+Nans-les-Pins|FR||9k|3ch|g2|y|Nanç;Nans
+Nanrenfu|CN||7i|325|91j|y
+Nangan|PH||71|hz|9qc|y
+Nanteuil-le-Haudouin|FR||9k|3si|7t|y
+Nanyo|PH||71|ke|9p0|w
+Nanga Merit|MY||6w|6c|8q9|u
+Nangilickondan|IN||6t|y2|64s|u
+Naniékaha|CI||0|r6|-ea|u
+Nañgka|PH|Northern Mindanao|71|mp|9ky|t
+Nanty Glo|US||48|34f|-62z|t|Nat-Y-Glo;Nanty-Glo
+Nant Hpar|MM||7y|20f|7e4|r
+Nangka|PH|Western Visayas|71|u6|9hs|r|Nanka
+Nantes|BR||4w|-1qu|-3yc|r
+Nana|RO||8u|3ez|21u|q
+Nang Khi Lik|KH||78|10y|89n|q
+Nankovo|UA||98|3pw|1t3|q|Husztköz;Nankove
+Nanpean|GB||9b|3vx|-dj|q
+Nanyun|MM||7y|22y|7f5|o
+Năneşti|RO|Vrancea|8u|3ij|24e|o
+Nancaicun|CN||7i|31o|912|o
+Nankouroubélékaha|CI||0|qp|-f6|o
+Nanan|CI|Yamoussoukro|0|is|-ek|n|Nana
+Nangokro|CI||0|jt|-d4|n
+Namche Bazaar|NP||6r|259|6ov|n|Nanche Bazar;Namche Bazar;Namče Bazaras;Namče Bazar;Namcze Bazar
+Nanmaizhu|CN||7i|31q|932|n
+Nangalisan|PH||71|19n|9ao|n|Nagalisan
+Nanton|CA||2s|3vv|-8s1|m
+Nancalobasaan|PH||71|189|9bo|l|Nancalabasaan
+Nanlourougokaha|CI||0|qh|-fl|l
+Nangakaha|CI||0|ql|-fc|h
+Nantiat|FR||9k|3jt|39|h
+Nantzha|MX||41|1jp|-7o1|h
+Nandayure|CR||2i|rv|-6ko|g|Mandayure
+Naninne|BE||8t|3w2|dp|g
+Nanteuil|FR||9k|3kx|-h|g
+Nänikon|CH||a7|3nl|o5|g
+Nåntuna|SE||9w|4m6|1d4|f
+Nanteuil-en-Vallée|FR||9k|3js|w|e
+Nanawale Estates|US||ax|1i7|-byb|e
+Nantucket|CA||35|3g3|-4wf|e
+Nanmuping|CN||7i|23v|8go|d
+Nanzdietschweiler|DE||8r|3td|kp|d
+Nanbékaha|CI||0|pt|-ft|c
+Nána|SK||8s|3ot|1fy|c
+Nanortalik|GL||4e|4n2|-3ho|c|Nennortalik
+Nanacatlán|MX||41|1jk|-7jc|c
+Nänikon / Nänikon (Dorfkern)|CH||a7|3nl|o5|c
+Nanum|AU||8c|-z5|ay2|b
+Nanbanakaha|CI||0|or|-ec|b|Nambanakana;Nambanakaha
+Niani|CI||0|du|-gv|b|Naâni;Niana;Nani
+Nanéko|CI||0|ff|-ek|b
+Nancray|FR||9k|3n9|h6|b
+Nandékro|CI||0|kb|-cr|b
+Naniasso|CI||0|sy|-i0|a
+Nana Glen|AU||8l|-2bp|bt2|a
+Nānvā|IR||7o|2tv|4fq|a
+Nanakri|CI||0|qk|-g7|a
+Nantheuil|FR||9k|3i5|2m|a|Nantuelh de Tivier;Nantuelh
+Nanan|CI|Lagunes District|0|gm|-dc|9
+Nane|CI|Bas-Sassandra District|0|cy|-jk|9
+Nanakaha|CI||0|q1|-f7|9|Nahakaha
+Nanbatyouroukaha|CI||0|pv|-fc|9
+Nah Neh Karān|IR||7o|2yl|3qs|9|Noneh Karān;Naneh Karān
+Nannup|AU||8k|-2me|8xk|9
+Nant|FR||9k|3ea|96|9
+Nangy|FR||9k|3k7|hj|9
+Nănești|RO|Bacău County|8u|3l1|23b|8
+Nănești|RO|Maramureş|8u|3ow|1up|8
+Nançay|FR||9k|3nj|63|8
+Nanikai Village|KI||bh|3p|dck|8
+Nānesā’|IR||7o|2vz|3jl|8
+Nanaj|IR||7o|2nm|3rf|8|Nanoj;Nannaj
+Nandala|CI||0|mi|-hu|8
+Nanteau-sur-Lunain|FR||9k|3q2|7t|7
+Nangtaw|MM||7y|1oh|7mo|7
+Nandé Klokro|CI||0|kp|-cq|7|Nandékrokro
+Nanacamila|MX||41|1jl|-7kk|7
+Nandax|FR||9k|3k2|bl|6
+Nanton|FR||9k|3li|de|6
+Nanzintla|MX||41|1c5|-7na|6|Manzintla;Nanziutla
+Nandrin|BE||8t|3wb|f2|6
+Nanbirgèkaha|CI||0|qh|-ef|6|Nanbirguékaha
+Nanayatla|MX||41|1lu|-7ky|5|Namayatla
+Nanom|BF||1a|xm|-20|5
+Nantgaredig|GB||9b|403|-bn|5
+Nantilly|FR||9k|3nu|fd|5
+Nannhausen|DE||8r|3ut|ks|5
+Nangwarry|AU||8b|-2wb|av5|5
+Nanteuil-sur-Marne|FR||9k|3s2|8y|5

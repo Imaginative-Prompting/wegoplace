@@ -1,0 +1,66 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sukkur|PK||6q|24y|5ba|4cn|Sukuras;Szukkúr
+Sukabumi|ID||6l|-j8|891|2tl
+Sucre|BO||3n|-1gv|-51a|1qg|Sukri;Sukro;Sukrė;Chuqichaka;Sik
+Skikda|DZ||3|2ug|j7|1et|Sukajkida;Sukaikida;Sukaykida
+Sukrah|TN||1e|2ug|sh|18f
+Souk Ahras|DZ||3|2st|m3|16n|Souq Ahras;Souk-Ahras;Szúk Ahrász;Suk Ahrasas;Suk Ahras;Suq Ahras;Tagaste;Suk Aharas;Suk Aras;Soukaras
+Sujiatun|CN||7i|37q|9im|155|Su-chia-t’un;Sukiatun
+Sukawati|ID||70|-nl|8vl|yv
+Qal‘at Sukkar|IQ||5z|2gi|3jz|uk|Qal‘at Sikar;Qalat Sukkar
+Sukagawa|JP||7q|2vk|aty|ku
+Suva Reka|XK||8q|39o|1lv|k2|Suharekë;Suhareka;Suha Reka;Lumthatë;Sukarekë;Suharjeka;Suva Reki
+Sokaraja|ID||6l|-kq|8fl|ih|Soekaradja;Sukaradja;Sukaraja
+Sokhumi|GE||9i|3bh|35v|i6|Sochumi;Sukhumi;Sujumi;Suchumi;Suhhumi;Suhumi;Soukhoumi;Sukhum;Sohumi;Suĥumo;Sohum;Akva;Suchum
+Sukuta|GM|Western|7|119|-1af|fp|Sukuto;Sukutta
+Sukheke Mandi|PK||6q|2gj|5o7|bu
+Sukhothai|TH||62|1b9|7pa|aa|Sukhothaj;Sukotajus;Sukhotay;Sukodhai;Sukhothat;Sukauthai;Sukhobhai;Sukanthai;Sukhodhai
+Sukhoy Log|RU||7z|4e3|4sb|a3
+Sühbaatar|MN||7s|3vj|871|6b|Sükhbaatar;Sühe Baatar;Sühe Batar
+Suket|IN||6t|1wh|5v8|67|Suke
+Sukhodilsk|UA||98|3qb|32d|5o|Sukhodil’s’k;Sukhodol’sk
+Sukumo|JP||7q|2jh|a8p|5d
+Sukhinichi|RU||9i|46a|2q6|4h|Sukhinitsji;Soukhinitchi;Suchiniči;Suĥiniĉi;Suhinitši;Suchiniczi
+Sukhodol|RU||9p|45q|3y9|3z
+Sukma|IN||6t|1ex|6ar|3v
+Sukth|AL||9y|36y|1ia|3q
+Sukhpar|IN||6t|1si|5dd|3p
+Sukayama|JP||7q|2rj|aur|3o|Sugayama
+Sūknah|LY||1d|28r|17u|3d|Soknah
+Sukhpur Solhani|IN||6t|20e|6oe|2v
+Suksun|RU||7z|4er|4fg|2b|Szukszun;Soeksoen
+Sukasada|ID||70|-mm|8vq|26|Sukasade;Sukasadel
+Sukekawa|JP||7q|2zn|asi|24
+Sucúa|EC||33|-6u|-615|22|Sukuwa
+Sukhobezvodnoye|RU||9i|4eh|3gp|1o|Sukhobezvodnoje
+Suklayin|PH||71|17s|9dn|1l|Suclayin
+Sukhobuzimskoye|RU||6u|4cy|773|1a|Sukhobuzimskoje;Sukhobuzimskoe
+Stepnohirsk|UA||98|3o7|2q8|18|Yanchekrak;Sukhoivanivka
+Sükösd|HU||8v|3kk|1gs|14
+Sukpak|RU||6u|3zh|79v|10
+Sukhovolya|UA||98|3ue|1u8|10
+Sukhaya Buyvola|RU||9i|3hf|3bg|z|Sukhaja Bujvola;Sukhaya Buivola
+Sukošan|HR||a6|3ed|16k|u
+Sū Kahrīz|IR||7o|2sl|3sc|q|Sū Kārīz;Sokārīz;Sukakhrez;Sū Kahrez
+Maniitsoq|GL||4e|51q|-42y|p|Sukkertoppen;Manitsoks;New Sukertop;New Sukkertoppen;Manitsoq;Maitsoq;Manitsok
+Saharna|MD||8x|3oh|28h|o|Sakharna;Sukharna
+Suhindol|BG||9v|3bz|1xy|o|Souhyndol;Suchindol;Sukhindol
+Sukhoverkhiv|UA||98|3qm|1zj|j|Soukhoverkhiv;Suhoverca
+Sukha|UA||98|3qj|1sq|j
+Sukkozero|RU||9i|4vh|2hu|j|Sukkajärvi
+Sukko|RU||9i|3gg|2vy|h
+Sukow|DE||8r|44q|w4|f
+Sukuta|GM|Central River|7|11u|-15g|e|Sukutta
+Sukhanivka|UA|Donetsk|98|3rm|2wb|d|Andriyivka;Andriivka;Andreyevka
+Sukhyi Lyman|UA||98|3kv|2d5|d|Sukhyy Lyman;Sukhoy Liman
+Sukholuzhzhia|UA||98|3ke|2c2|b|Sukholuzhzhya;Sukholuzh’ye;Crivda;Luiba
+Hsu Ka Lat|MM||7y|19p|7ek|a|Su Ka Let
+Sukhyi Yelanets|UA||98|3nl|2gv|a|Soukhyï Yélanets;Sukhoy Yelanets
+Sŭqoq|UZ||7m|36l|5dw|a|Sukok;Sukak
+Sukhyi Tashlyk|UA||98|3pz|2d8|a|Sukhyy Tashlyk;Sukhy Tashlyk
+Sukhorabivka|UA||98|3th|2lz|a|Sukhorabovka
+Sukhanivka|UA|Dnipropetrovsk|98|3qt|2lt|8|Sukhanovka
+Sukha Balka|UA||98|3nz|2e5|8|Soukha Balka
+Sukhoverkovo|RU||9i|4db|2qs|7|Sujovérkovo;Suhoverkovo;Suchowierkowo
+Sukhaya Chemrovka|RU||63|42g|6l7|6|Sukhaja Tsjemrovka
+Sukuta|GM|Lower River|7|11l|-168|6

@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ho|GH||1|ic|1b|10b
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Hefei|CN||7i|2gi|91s|211f|Che-fej;Hefėjus;Hợp Phì;Hefejo;Ha̍p-pûi-chhī;Hăk-bùi;Hofej;Hozfeiz;Hefej;Hefey;Ho-fei
+Foshan|CN||7i|1rz|8q9|1xrt|Phật Sơn;Fo-šan;Fu̍t-sân-sṳ;Fošanas;Fosjan;Foŝan;Hu̍t-san-chhī;Hŭk-săng;Hotokeyama;Fak San;Fuk Shan;Fut Shan;Fatshan
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Hong Kong|HK||6i|1pw|8t5|1l2h|Hongkong;Victoria;Gon Kong;Hiŏng-gē̤ng;Honkongo;Heung Gong
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Fuzhou|CN|Fujian|7i|20e|97f|vld|Fucheu;Phúc Châu;Hók-ciŭ;Fudžou;Fu-čou;Fuk-chû-sṳ;Futsjou;Fuĝoŭo;Hok-chiu-chhī;Fucsou;Focheum;Fuzcouh;Fuçjou;Fužov;Fu-chou;Fuchau;Fouzhou
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Belo Horizonte|BR||4w|-1jc|-3e2|l00|Bel-Horizonto;Bhte;Belo Hte;B.H.;Urbs Pulchri Horizontis;Belu Orizonti;Belu-Orizonti;Bello Horizonte
+Houston|US|Texas|2f|2ao|-7cw|huu|Hustono;Hustonia;Hyuston;Hiustonas;Hjūstona;Hiû-sṳ̂-tûn;Hjuston
+Phoenix|US|Arizona|4i|2kx|-8nb|cqd|Fenikso;Pēniki;Féniks;Fīniksa;Finiksas;Hoozdoh;Phoeniks;Finiks;Finiksos;Phenix
+Stockholm|SE||9w|4kt|1e7|bou|Estocolmo;Stokholmo;Štokholm;Estocolm;Sztokhòlm;Estokolmo;Tukholma;Stokkhólmur;Stoccolma;Holmia;Stokholmas;Stokholma;Stokholmi;Stokgolm;Stócólm;Estocòlme;Stokolm;Stockholbma;Stoccholm;Stocólma;Stokkolma;Stuculma;Estocolmu;Stuokhuolms;Estokolma;Stockolm
+Heze|CN||7i|2pw|8wr|ae3|Che-ce;Hà Trạch;Hò̤-dĕk;Hâ-te̍k-chhī
+Biên Hòa|VN||6h|ue|88q|9te|Bienhoa
+Hong Kong Island|HK||6i|1pu|8t6|983|Hong Kong
+Huaibei|CN||7i|2md|90f|8l9|Huài-báe̤k;Chuaj-pej;Huajbej;Huaibėjus;Hoài Bắc;Hoâi-pak-chhī;Huai-pei
+Howrah|IN||6t|1qq|6tc|7xh|Haora;Haura;Hawrah
+Hezhou|CN||7i|1vs|8lx|7rb|Hô̤-ciŭ;Che-čou;Fo-chû-sṳ;Hạ Châu;Hohcouh;Hō-chiu-chhī
+Qom|IR||7o|2o8|3xc|6y0|Kom;Qûm;Kum;Ĥomo;Kumas;Gōymān
+Thanh Hóa|VN||62|1j0|85t|6k4
+Hondlon|CN||7i|34x|8gz|62t
+Homs|SY||69|2og|2u1|5ze|Hims;Emesa;Humus;Himsa;Hums
+Hegang|CN||7i|3nj|a1x|5qh|Che-kang;Hạc Cương;Hŏk-gŏng;Ho̍k-kong-chhī
+Huangshi|CN||7i|2c1|8vl|5b5|Huangsji;Chuang-š;Huangŝi;Hoàng Thạch;Uòng-siŏh;N̂g-chio̍h-chhī;Khuanshi;Huan-shih;Huang-shih;Huan-shi;Hwangshih
+Hongkou|CN||7i|2et|9dh|5az|Hung-k’ou
+Honchō|JP|Chiba|7q|2r6|asv|4z3|Funabashi;Funabasi;Hunabasi-chhī;Hunabasi;Furabeshi
+Hoji ya Henda|AO||x|-oh|10x|4yd
+Hebi|CN||7i|2r9|8th|4wb|Che-pi;Hạc Bích;Hŏk-biáh;Ho̍k-piah-chhī
+Huaihua|CN||7i|24k|8hk|49i|Huài-huá;Chuaj-chua;Hoài Hóa;Hoâi-hoà-chhī
+Hannover|DE||8r|41h|r1|3z3|Hanover;Hanovro;Hanovre;Hanoveris;Hannober;Hanower;Hanovra;Hanoveri;Hannauver;Hannower;Hanowery;Hanofér;Hannova;Hànobhar;IHanoveri;Honovere
+Homyel'|BY||9g|41n|2e2|3v8|Homel;Gomel;Homiel;Gomeļa;Homyel;Gomelis;Homel';Gomelj;Homelj
+Hongjiang|CN||7i|23b|8hk|3o8|Hungkiang
+Heyuan|CN||7i|1tx|8uk|3kv|Che-jüan;Hò-ngièn-sṳ;Hà Nguyên;Hô-goân-chhī;Ò̤-nguòng;Ho-yüan
+Huangshan|CN|Anhui|7i|2aj|94n|3k0|Chuang-šan;Hoàng Sơn;Uòng-săng
+Jayapura|ID||6m|-71|auw|365|Hollandia;Port Numbay;Djajapoera;Džajapura;Jaya Pura;Noordwijk;Djajapura
+Gujangbagh|CN||7t|2v3|661|35l|Ciudad de Jotán;Khotan;Hoten;Hotan;Xoten;Xotan;Chotan;Hotanas;Ho-t’ien;Gujiangbage
+Al Hoceïma|MA||d|2px|-ay|31w|Villa Alhucemas;Villa Sanjurjo;Alhucemas;Al-Husajma;Al-Hoceima;Alhacemas;Al Ḩusaymāt;Al Huceima
+Hechuan|CN||7i|2bb|876|2ws|Ho-ch’uan
+Huanggang|CN|Hubei|7i|2cl|8v3|2tw|Hwang Chow;Wangchau;Hwang Chau;Uòng-gŏng;Chuang-kang;Hoàng Cương;N̂g-kng-chhī;Wangchou;Hwangchow

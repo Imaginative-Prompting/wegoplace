@@ -1,0 +1,90 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Seeb|OM||72|1tr|4hn|3mt|Síb;Szíb;Sybas;As Sib;As-Sib;Al-Sīb
+As Salţ|JO||5t|2h0|2r9|tz|Salt;Es Salt;Al-Salt
+Aalst|BE|Flanders|8t|3xi|b8|lj|Alost;Alostum;Alstas;Oalst;Alósti;Halosta;Ālsta;Aals;Alst;Àosītè
+As Safīrah|SY||69|2s8|2vt|hp|Al-Safira;Safīrah
+Al Shamkhah City|AE||6c|1vr|47z|h5
+Al Sajaah|AE||6c|1yc|4aj|er
+Alsdorf|DE|North Rhine-Westphalia|8r|3xc|h4|cv|Elsdörp
+Alzira|ES||9d|30r|-17|cc|Alcira;Alchezira;Alsira
+Alsergrund|AT||a2|3py|19g|bk
+As Saţwah|AE||6c|1y2|49j|be|Al Satwa
+Alushta|UA||9t|3g4|2nl|88|Aluschta;Ałuszta;Alušta;Alshta;Aloushta
+Alsórákos|HU||8v|3o1|1h4|82
+As Samū‘|PS||6g|2f8|2pf|5e|As-Samu;Es Samu;Es Samū‘;al-Samu'
+Alsip|US||2f|37r|-6rq|5d
+Dolný Kubín|SK||8s|3sp|1hm|4x|Alsókubin;Dolnı Kubin;Unterkubin;Dolni Kubīna;Dolny Kubynas
+As Sallūm|EG||c|2fn|1xw|4l|Sollum;Al-Salum;El Sollum;Es Sollūm;Solum;Es Sallum;Sallum;Sellum
+Alsfeld|DE||8r|3wz|pr|4f
+Al Safa|AE||6c|1xx|49f|4d
+Alsterdorf|DE||8r|44x|rt|48
+Ash Shāmīyah|KW||6x|29j|3p8|3u|Al Shamiya;Shamiya
+Alsager|GB||9b|43i|-6f|3p
+Alsbach-Hähnlein|DE||8r|3u6|nw|2l
+Alsbach|DE|Hesse|8r|3u6|ny|2j
+Santiago Alseseca|MX||41|1gd|-7jf|25|Alseseca
+Altsasu|ES||9d|3b6|-61|22|Alsasua
+Sasso Marconi|IT||9o|3fc|v9|1p|Al Sâs
+Alsózsolca|HU||8v|3pj|1m0|1o
+Alsemberg|BE||8t|3wy|c2|1n
+Ålsgårde|DK||8y|4bs|yu|1m|Aalsgaarde;Aalsgaard
+AlSayid Tribe|IL||6n|2ew|2p0|1l
+Alstonville|AU||8l|-284|bu8|1l
+Mihai Viteazu|RO|Cluj County|8u|3l9|1tz|1l|Alsószentmihályfalva;Szentmihály
+Kalyny|UA||98|3pq|1ub|1k|Alsókálinfalva;Kaliny
+Hal’shany|BY||9g|46q|209|1e|Gol'shany;Alšėnai;Ol’shany;Holszany;Olshan;Haĺšany
+Alsónémedi|HU||8v|3ng|1h8|1e
+Kolochava|UA||98|3qj|1tu|1c|Alsókalocsa;Kolotsjava;Kolotschawa;Lazy;Koloĉava;Koloceava
+Galda de Jos|RO||8u|3ka|1tm|1c|Alsógáld
+Moeciu de Jos|RO||8u|3ic|1yc|1b|Alsómoécs;Al Moecs;Moeciul-de Jos
+Synevyr|UA||98|3qp|1tm|1a|Alsószinevér
+Lipnica Wielka|PL|Lesser Poland|a5|3tf|1ik|15|Alsólipnica;Dolná Lipnica;Nižná Lipnica
+Zarichchia|UA|Zakarpattia|98|3q4|1rv|13|Zarichchya;Alsókaraszló
+Alsike|SE||9w|4lz|1dd|12
+Al Sufouh|AE||6c|1xs|49a|x
+Lendava|SI||9a|3lc|19p|v|Alsólendva;Lendva
+Racoș|RO||8u|3jv|1yl|t|Alsórákos
+Alsleben|DE||8r|3zm|wg|s
+Alsting|FR||9k|3sm|jf|r
+Alsheim|DE||8r|3u9|n6|r
+Teliucu Inferior|RO||8u|3j0|1rk|p|Alsótelek;Teliucul-Inferior
+Oarda|RO||8u|3jv|1th|m|Alsóváradja
+Rona de Jos|RO||8u|3p4|1uq|l|Alsóróna
+Alstead|US||48|3bv|-5l0|l
+Alseno|IT||9o|3gq|ro|k
+Alsenz|DE||8r|3u4|lq|i
+Alsdorf|DE|Rheinland-Pfalz|8r|3x2|lx|i
+Ocna de Jos|RO||8u|3l9|1xt|h|Alsósófalva
+Donja Dubrava|HR||a6|3kn|1ap|h|Alsódomboru
+Alsóvadász|HU||8v|3q1|1m4|g
+Nyzhnia Viznytsia|UA||98|3qs|1r8|f|Alsóviznice;Vižnice Nižní;Alsó Vizsnitza;Alsó Viznicze
+Fildu de Jos|RO||8u|3md|1s3|e|Alsófüld;Fildul-de-Jos;Felsofuld
+Alsóörs|HU||8v|3mj|1dy|d
+Săliștea|RO||8u|3jj|1t0|d|Alsócsóra
+Alsópáhok|HU||8v|3lx|1bp|d
+Pianu de Jos|RO||8u|3jm|1t9|b|Alsópián;Pianul-de-Jos
+Nyzhnii Studenyi|UA||98|3ra|1sw|b|Alsóhidegpatak;Hidegpatak;Nyzhniy Studenyy
+Alsószentmárton|HU||8v|3j7|1ev|b
+Alserio|IT||9o|3j6|pk|b
+Alston|GB||9b|489|-6s|b
+Alpaugh|US||3p|2rp|-97x|a|Alspaugh
+Berechiu|RO||8u|3lk|1op|a|Alsóbarakony
+Alsunga|LV||9n|4ea|1nw|9|Alsung;Alšvanga
+Alsóberecki|HU||8v|3qb|1oa|9
+Alstermo|SE||9w|4e9|17h|8
+Alsónyék|HU||8v|3kc|1g1|8
+Timișu de Jos|RO||8u|3im|1z6|8|Alsótömös;Timişul-de-Jos
+Alster|SE||9w|4l0|11t|8
+Alsónemesapáti|HU||8v|3m5|1b2|8
+Alsónána|HU||8v|3kh|1fu|7
+Páno Kivídes|CY||73|2ok|2ja|7|Alsandık;Pano Kividhes
+Unterwart|AT||a2|3na|193|7|Alsóor
+Sălciua de Jos|RO||8u|3kw|1t2|7|Alsószolcsva
+Alsószentiván|HU||8v|3lz|1g1|7
+Alsóújlak|HU||8v|3ms|1at|6
+Dolnja Bistrica|SI||9a|3la|199|6|Alsóbeszterce;Donja Bistrica;Alsóbesztercze;Dolenja Bistrica
+Alsbach|DE|Rheinland-Pfalz|8r|3w6|la|6
+Alsópetény|HU||8v|3p0|1hg|6
+Sâmbăta de Jos|RO||8u|3j9|1wy|5|Alsószombatfalva;Sâmbăta-de Jos;Sîmbăta de Jos
+Unterrabnitz|AT||a2|3nt|19i|5|Alsórámóc;Donji Ramac;Dolnji Ramac

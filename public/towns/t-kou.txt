@@ -1,0 +1,293 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kowloon|HK||6i|1q0|8t6|h83|Koulun;Kaulunas
+Kuala Lumpur|MY||6v|8q|7uh|b7w|Kualalumpūra;Kvala Lumpūras;Kuala-Lumpuro;Gizlungzpoh;Kouala Loumpou;Kuala-Lumpur;Kuala Lumpor
+Korla|CN||7t|380|6nb|48l|Kuerle;Kurla;Kuerhlei;Koria;Kourla;K’u-erh-le;Ku’erle
+Kursk|RU||9i|3zp|2si|3gn|Koursk;Koersk
+Koumassi|CI||0|eq|-b1|36j
+Kurgan|RU||7z|4a1|51i|2dx|Kourgan;Koergan;Kurqan;Curgan
+Koutiala|ML||5|yf|-f7|1ok|Kucala;Kutiala
+Khouribga|MA||d|2jc|-j7|1ni|Kouriga;Khouribja
+Koudougou|BF||1a|y1|-6l|18i|Kuduguo;Kondougou;Kudugu
+Kousséri|CM||j|xk|15r|12m|Kusseri
+Kutaisi|GE||7n|39f|3al|11k|Kutaissi;Koutaïssi;Kutaiso;Khuthaisi;Koetaisi;Kutayıs;Kutaisk;Kutais
+Kufa|IQ||5z|2h1|3fg|uk|Koufa;Koefa;Kufe;Cufa
+Xincheng|CN|Xinjiang|7t|37v|6ed|sk|Koutcha;Kuqa;Kucha;Yëngisheher;Kuchar;Kuchi;Kocha;Kuchu;K’u-ch’e;Kuga;Kuche
+Kuznetsk|RU||9i|43k|3lg|p5|Kusnezk;Kouznetsk;Kuzneck;Kuzneckas;Kuznețk;Kuźnieck;Kuznjeck
+Kouvola|FI||92|4p3|226|lp|Kouvol
+Kumanovo|MK||9u|391|1oc|kv|Kumanovas;Kumanowo;Koumanovo;Kumanova;Kumanovë
+Kungur|RU||7z|4fh|4e9|ig|Koungour;Koengoer;Kunqur
+Korba|TN||1e|2tm|u6|i7|Kurba;Kourba
+Kumertau|RU||7z|42k|4az|i5|Kumiertau;Koumertaou;Kumjertau
+Koulikoro|ML||5|zq|-l0|ht|Kulikoras
+Koumra|TD||17|os|1cr|f1|Koumbra
+Koupéla|BF||1a|xu|-z|dq|Kupela
+Kuybyshev|RU||75|4a1|61k|df|Kujbysjev;Kuibyschew;Kúibyshev;Kouïbychev;Kujbyšev;Kujbiŝev;Kuibõšev;Kujbyszew;Kujbyšew
+Kurganinsk|RU||9i|3go|34r|d9|Kourganinsk;Kurqaninsk;Koerganinsk
+Koumbia|GN||f|ws|-11i|cs
+Koysinceq|IQ||5z|2s8|3fz|ci|Koysinjaq;Koye;Kou Senjaq;Koy Senjaq;Koi Sanjaq;Kūysinjaq;Koisnjaq
+Coatbridge|GB||9b|4b6|-b6|c8|Coatbrig;Drochaid a Chòta;Drochaid an Chóta;Koutbridžas
+Kópavogur|IS||87|4y3|-1ov|b4|Kópavogsbær;Kópavogi;Kópavog;Kópavogs;Koupavoguras
+Kulebaki|RU||9i|49x|3a5|ag|Koulebaki;Koelebaki
+Köneürgenç|TM||5x|39l|4kb|ac|Kounia-Ourguentch;Konye-Urgench;Kunya-Urgench;Kunja-Urgentj;Kunya-Urgen
+Kouango|CF||6|dv|1jg|a6|Kuango
+Kouroussa|GN||f|tl|-rg|a3|Kurussa
+Kushva|RU||7z|4hx|4lz|9h|Kusjva;Kuschwa;Kouchva;Kušva;Koesjva;Kušwa;Kuszwa
+Kudymkar|RU||7z|4jy|47t|8s|Kudimkar;Koudymkar;Koedymkar;Kudõmkar
+Koungheul|SN||g|12u|-154|8n|Koungueul
+Koulamoutou|GA||v|-36|ym|8k|Koula Mouta;Koulamotou;Koula Moubou;Koula Moutou
+Metamórfosi|GR|Attica|8p|2xr|1u0|8b|Koukouvaounes;Koukouváounai
+Kuvandyk|RU||7z|3z0|4fc|7z|Kuwandyk;Kouvandyk;Kuvandık
+Kouandé|BJ||1b|hs|5r|7k
+Kupyansk|UA||98|3u3|2wi|7k|Kupiansk;Koupiansk;Kupjanskas;Kupeansk;Kupjanska;Kupjansk;Kupenko;Kupchinka;Kupchynka;Kupetskiy;Kupetskyi;Kupetskyy;Kupensk;Kupetsky
+Kaouara|CI||0|s1|-ef|79|Kouara;Kaoura
+Kubinka|RU||9i|4ae|2ty|77|Koubinka
+Koothanallur|IN||6t|ts|64w|72|Kouthanallur;Kuthanallur;Kūttānallūr
+Kourou|GF||2d|ec|-428|6o|Kouro
+Kouri|ML||5|xu|-dc|6e|Kuri;Koury
+Koundara|GN||f|yo|-10y|67
+Koungneul Sossé|SN||g|12t|-156|5t
+Kovdor|RU||9i|57p|2co|5f|Kouteri;Koutero;Kowdor
+Kurovskoye|RU|Moscow Oblast|9i|4ae|304|5c|Kurovskoje;Kurowskoje;Kourovskoïe;Kurovskoe;Kurovskaya
+Kurakhove|UA||98|3pa|2vk|52|Kurachowe;Kourakhove;Kurahove;Kurachove;Kurakhovo
+Koungou|YT||ah|-zd|3hk|51
+Kurtamysh|RU||7z|48j|4yz|4z|Kurtamysj;Kurtamysch;Kourtamych;Kurtamyš;Koertamysj;Kurtamış
+Kouka|BF||1a|11b|-4h|4t
+Kukawa|NG||u|zw|11p|4h|Koukawa
+Koumpentoum|SN||g|12u|-14h|4d|Koumpenntoun;Koupentoun;Koumpenntoum
+Kouibly|CI||0|k6|-k4|49|Kouibli;Kouilly
+Kalývia Thorikoú|GR||8p|2x4|1uh|40|Kalívia Thorikoú;Thorikoú;Kouvará;Kalívia
+Kouto|CI||0|rh|-ht|3y
+Kouaméfra|CI||0|ib|-f2|34
+Kouétinfla|CI||0|id|-gu|31
+Kounkané|SN||g|zx|-134|30|Koukany;Koumkandé
+Kouta|CI||0|f9|-ej|2v|Kouba;Kuta
+Kouassi-Kouassikro|CI||0|ke|-d0|2t
+Koubia|GN||f|w7|-x1|2r
+Koun Sat|KH||78|tg|81o|2l
+Koulaéoué|CI||0|jk|-lx|2f
+Kupyansk-Vuzlovyi|UA||98|3tz|2wk|2a|Kupiansk-Vuzlovyi;Kupjansk-Vuzlovi;Kupjansk-Wuslowyj;Koupiansk-Vouzlovyï;Kupjanśk-Wuzłowyj;Kupyansk Uzlovoi;Kupyans'k Vuzlovyy
+Kouassi-Datékro|CI||0|lq|-9t|28
+Kushuhum|UA||98|3oj|2pu|27|Kouchouhoum;Velyka Katerynivka;Kuschuhum;Kusjuhum;Kušuhuma;Kushugum;Kušuhum;Kuşugum;Kuszuhum
+Koufália|GR||8p|35a|1qp|27
+Koulouan|CI||0|jb|-le|26
+Koujiang|CN||7i|20c|8ee|23
+Koun-Fao|CI||0|kt|-91|1z
+Kounahiri|CI||0|ln|-g7|1z|Koumahiri;Kunairi;Kounaïri
+Koudougou|CI||0|ja|-fr|1x
+Qubadlı|AZ||61|31a|3le|1x|Ghubat’ly;Sanasar;Kubadlı;Kubatli;Qubadly;Kubatly;Kubatlu;Koubatly
+Koutouba|CN||7i|2ji|83i|1w
+Bilmak|UA||98|3nk|2tt|1w|Kouïbychévé;Kuybysheve
+Kouan Houlé|CI||0|kj|-my|1s
+Kouniohou|TG||w|lb|28|1o|Kougnohou
+Kurkino|RU||9i|44f|2ze|1n|Kourkino
+Koumoudji|CI||0|ig|-fo|1m
+Kouk Trab|KH||78|vo|839|1j
+Koukoguhé|CI||0|j7|-i9|1g
+Kouénoufla Don|CI||0|kf|-ir|1g
+Kulykivka|UA|Chernihiv Oblast|98|3yp|2fx|1d|Kulykiwka;Kulivkivka;Koulykivka;Kulıkivka;Kulikovka;Kulikowka
+Koulalé|CI||0|m4|-mf|1b
+Goutou|CN||7i|32l|91k|1b|Kou-t’ou
+Koutoukro|CI||0|fm|-9y|1a
+Koudouyou|CI||0|g0|-i3|1a
+Koumibara|JP||7q|2s6|aoo|18
+Koulikoro|CI||0|lp|-jw|17
+Koupéro|CI||0|gc|-j1|17
+Kou Loab|KH||78|yu|86m|14|Phum Kou Lôăp;Phum Kou Leăp
+Kulevcha|UA||98|3jv|2b6|14|Kulewtscha;Koulevtcha;Culevcea;Kułewcza
+Kuty|UA||98|3q2|1xy|14|Kouty;Kutai;Kutı;Cuturi
+Kouakro|CI|Comoé District|0|f4|-83|14
+Kulykiv|UA|Lviv|98|3uu|1uw|14|Kulików;Kulykiw;Kulikiv;Koulykiv
+Kouego|CI||0|mc|-iq|13
+Kouadioukro|CI||0|k6|-ah|13
+Kula|BG||9v|3dx|1qk|11|Koula
+Kouléyo|CI||0|jx|-ij|11
+Pérasma|GR||8p|357|1nn|z|Koutskovaini
+Evrostína|GR||8p|2xr|1q7|z|Kounianika;Zacholi;Zákholi;Evrostíni
+Koutsopódi|GR||8p|2wo|1r3|x|Kutsopodi
+Koidioblekro|CI||0|j9|-c0|w|Kouadioblékro
+Koumac|NC||b8|-1l5|coc|v|Kumac
+Kouatchienkro|CI||0|j5|-a1|u
+Kulynychi|UA||98|3uu|2t2|u|Kulinichi;Kulynytschi;Koulynytchi;Kulynyči;Kulınıçi;Kulínitxi
+Kouasililié|CI||0|fw|-fg|t
+Koudekerke|NL||8m|3z0|9v|t
+Kunda|EE|Lääne-Virumaa|9x|4la|21p|t|Kund;Kounda
+Kouakouamékrou|CI||0|k6|-8h|s|Kua-kuamé-krou
+Koudum|NL||8m|430|f5|s
+Kouafla|CI||0|l5|-gc|r
+Koroumba|CI||0|ra|-jr|q|Kooroumba;Koouroumba;Kohoroumba;Kouroumba
+Kouakouagui|CI||0|gh|-iw|q
+Koua|CI||0|kv|-k7|p
+Kouata|CI||0|lx|-g7|o
+Kouakou|CI||0|jg|-fb|o
+Kourou|CI||0|oj|-c1|n
+Kouroundiala|CI||0|pa|-d8|n
+Koundoudougou|CI||0|nb|-cy|n
+Kouassianiaguéné|CI||0|kj|-8g|n
+Koumbala|CI||0|qg|-ed|m
+Kouakoussekro|CI||0|k9|-bj|m|Kouakou Sékro
+Konandikro|CI||0|lj|-b6|m|Kouandikro
+Koupéla|CI||0|jm|-g0|l
+Kouassi-Nawa|CI||0|mk|-83|l|Kouassi-Naoua
+Kouakoudougou|CI||0|ll|-bs|l
+Kountze|US||2f|2cd|-79z|l
+Kouaméagui|CI||0|f8|-hz|l
+Kouakoukrakro|CI||0|kr|-91|l
+Kourula|FI||92|4pl|265|k
+Kouakou-Kankrou|CI||0|m5|-a3|k
+Kautokeino|NO||9j|5bp|1s0|k|Guovdageaidnu;Guovdagæino;Koutokeino;Guovdageainnu suohkan;Guovdageaidnu vald;Guov'dagæi'dno;Kautokeini;Guovdagæidno
+Kouassiblékro|CI||0|lb|-dr|k
+Kouts|US||2f|36s|-6pr|k
+Couffé|FR||9k|3nn|-3l|j|Koufeg
+Kouvarás|GR||8p|2x3|1ul|j
+Kouakro|CI|Comoé District|0|ih|-cc|j|Krouakro
+Koulaéré|CI||0|ki|-k1|j
+Kouassidiotékro|CI||0|jt|-b0|j
+Koussorokaha|CI||0|qs|-e8|i
+Kouk Thlok|KH||78|ua|83r|i
+Kouroukono-Dioulasso|CI||0|md|-cd|i
+Koutiourou|CI||0|kn|-kf|i
+Koulotyokaha|CI||0|qp|-f2|i|Koulotiakaha
+Kouřim|CZ||9m|3uw|15m|i|Kauřim
+Kouadiotékro|CI||0|i8|-d6|i
+Koubi|CI|Lacs District|0|jt|-ee|h
+Vesele|UA|Crimea|9t|3gm|2ow|h|Koutlak;Veseloe;Qutlaq;Vesëloye;Kutlak
+Kouroulingué|CI||0|s9|-k9|h
+Kouayaguiépleu|CI||0|jb|-n2|h|Kouyaguiépleu
+Kouaïsséizra|CI||0|l0|-gf|g|Kouabisséizra
+Kouarabo|CI||0|lo|-fu|g
+Koulopankaha|CI||0|oi|-fy|g
+Kouassissérénou|CI||0|l9|-83|g
+Kouitongouiné II|CI||0|kg|-l8|g
+Kouadiokro|CI|Lacs District|0|ie|-am|g
+Koulokaha|CI||0|oq|-dz|g
+Koromabla|CI||0|mp|-g4|g|Kouroumabla
+Kouamé-Lékro|CI||0|kc|-bb|g
+Kouassidougou|CI||0|mb|-9m|g
+Kougbèré|CI||0|nd|-g5|g
+Kouban|CI||0|sg|-km|f|Kouba
+Koumokro|CI||0|jh|-cf|f
+Kouamékro|CI||0|h7|-cc|f
+Kouafo-Akidom|CI||0|ms|-7x|f
+Koundé|CI||0|ru|-h4|f
+Kuyalnyk|UA||98|3ol|2a4|f|Kouïalnyk;Kuyal’nik
+Koumouékro|CI||0|lt|-a9|f
+Kouandi-Ndakro|CI||0|l2|-b4|f
+Koudébo Dan|CI||0|li|-fd|f|Koubébodan
+Kouroukouna|CI||0|pt|-eg|e
+Kouohara|CI||0|ni|-cz|e|Konobara;Kohouara
+Koutoukounou|CI||0|jv|-b6|e
+Koubéba|CI||0|he|-cn|e
+Kouadjannikro|CI||0|l7|-d7|e|Kouadianikro
+Kouassikro|CI|Lacs District|0|l4|-c3|e
+Kouassi Kouamékro|CI||0|m0|-fv|e|Kouassi-Kouamikro
+Kouépleu|CI||0|k0|-m2|e
+Kotouba|CI||0|o5|-8v|e|Koutouba
+Koua|KM||ac|-vp|3cf|e
+Koulousson|CI||0|tp|-hp|e
+Kouwovogo|CI||0|qr|-ff|d|Kouwavogo
+Kouadio-Sakassou|CI||0|ks|-fi|d
+Kouadiokrou|CI||0|jq|-8g|d
+Kouadjokro|CI||0|go|-ck|d
+Kouablazra|CI||0|k8|-hd|d
+Kouakro-Mizron|CI||0|lr|-e4|d
+Kouadiokoto|CI||0|m4|-9n|d
+Kouénoufla|CI||0|kq|-hm|d
+Kouamé-Akaffoukro|CI||0|js|-di|c|Kouamé-Akafoukro
+Kouroudoufla|CI||0|ic|-gs|c|Kouroutoufla
+Kouinfla|CI||0|ky|-gl|c
+Koulokakaha|CI||0|qb|-fh|c
+Kouyatouo|CI||0|jl|-mh|c
+Koulinlé|CI||0|jv|-kw|c|Klinlé
+Kumari|UA|Mykolaiv|98|3p6|2d7|c|Koumari;Kumary
+Kouisra|CI||0|ju|-kp|c
+Koûta Boûyya|DJ||i|um|38k|c
+Kouloúra|GR||8p|34n|1q0|c
+Coudekerque-Village|FR||9k|3xo|6q|b|Koudekerke-Dorp;Koukerke
+Kout na Šumavě|CZ||9m|3t8|104|b|Kauth
+Kouassi-Ngatakro|CI||0|ki|-b3|b
+Koutselió|GR||8p|31z|1m3|b|Koutsolió;Koutsilió
+Kouloukorosso|CI||0|qb|-dt|b
+Kouadio-Etienkro|CI||0|iv|-d7|b|Kouadioettankro;Kouadio-Ettienkro
+Kouassi-Badoukro|CI||0|kl|-8x|b
+Kulishivka|UA||98|3qv|23k|b|Culișcăuți;Koulichivka
+Kouréfla|CI||0|kw|-gm|b
+Kouléa|CI||0|kl|-kk|b
+Koukkuniemi|FI||92|4n3|1ws|a|Krokudden
+Kountiguisso|CI||0|no|-kh|a
+Kouadioagui|CI||0|ev|-if|a
+Kouadio-Kissikro|CI||0|ko|-8e|a
+Kouassi-Périta|CI||0|ja|-fo|a
+Kouatoutou|CI||0|lf|-8j|a
+Kouakro|CI|Vallée du Bandama District|0|lo|-df|a
+Kakoubroukro|CI||0|j1|-ea|a|Kouakoubroukro
+Koukouritié|CI||0|lq|-es|a
+Kouadiodongokro|CI||0|kk|-8f|a
+Koumbara|CI||0|o9|-jj|a
+Kounouman|CI||0|q6|-ho|a|Kounoumon;Kounoumou;Kounouma
+Korondougou|CI||0|pw|-l7|a|Kourondougou
+Kounice|CZ||9m|3v7|15a|9
+Kulashi|GE||7n|399|39n|9|K’ulashi;Kulasji;Koulachi;Kulaşi;Kulaszi;Koelasji
+Kouadjo Ndrikro|CI||0|km|-cz|9|Kouadio-Ndrikro
+Kouadio-Kouassikro|CI||0|fu|-9i|9
+Kouassikro|CI|Lacs District|0|kz|-b0|9
+Kouyabli|CI||0|i6|-nd|9
+Kouakro-Bovouanso|CI||0|ls|-9l|9
+Kouakou Lékikro|CI||0|iz|-cs|9
+Kouklia|CY||73|2of|2ih|9
+Koufóvouno|GR||8p|36w|21g|9
+Skoutáros|GR||8p|315|20l|9|Skoutárion;Koustáros
+Kouadro Gbangakro|CI||0|ko|-du|8
+Kouabo|CI||0|kv|-dq|8
+Koumala|AU||8c|-1o2|bil|8
+Kouassikouma|CI||0|md|-8m|8
+Kouadi Prikro|CI||0|ko|-e8|8
+Kouakou Kouadjokro|CI||0|l0|-d1|8
+Kouadiokro|CI|Zanzan District|0|lc|-9p|8
+Koutsourás|GR||8p|2pb|203|8
+Kouroukoro|CI||0|m3|-hu|8
+Kouadiokro|CI|Vallée du Bandama District|0|lj|-f0|8
+Kouanzra|CI||0|k2|-h6|8|Kouenzra
+Koulomia|CI||0|mc|-bn|8
+Koumabo|CI|Vallée du Bandama District|0|l5|-f1|7
+Kouamébonikro|CI||0|lf|-9d|7
+Kulykivka|UA|Chernivtsi|98|3pl|20p|7|Koulykivka;Kulikovka
+Kouaminakro|CI||0|lm|-c7|7
+Kouassi Golikro|CI||0|lk|-ef|7|Kouassi-Glikro;Kouassi-Golikro
+Kuznetsove|UA||98|3on|2e1|7|Kouznétsové;Kuznetsova;Kuznetsovo
+Kouassi Kokro|CI||0|ki|-ey|7|Kouassikrokro
+Kouassi Nguessankro|CI||0|jm|-dh|7
+Kouakou Krémékro|CI||0|m7|-ep|7
+Kouéro|CI||0|r7|-9m|7
+Kouadio-Tanoukro|CI||0|kx|-e3|7
+Kouadiokro|CI|Vallée du Bandama District|0|m2|-f4|7
+Kouadjo Miankro|CI||0|lk|-dx|7
+Kouassiblédiékro|CI||0|kp|-e6|7
+Kouakou Oussoukro|CI||0|kw|-e5|7
+Kulivtsi|UA||98|3r3|1zr|6|Koulivtsi;Culeuți
+Kouamé Yaokro|CI||0|ld|-ei|6|Kouami-Yaokro
+Kourbini|CI||0|pq|-7y|6
+Kouamé-Dari|CI||0|lb|-85|6|Kouamé-Darri
+Kouami-Kofikro|CI||0|kw|-b6|6
+Koi Kouassikro|CI||0|je|-e0|6|Koua-Kouassikro
+Koumabo|CI|Vallée du Bandama District|0|kw|-e2|6|Komabo
+Koubikro|CI||0|j9|-cw|6
+Kouyafla|CI||0|kt|-h9|6|Kouiavla
+Koumingékaha|CI||0|q8|-fb|6|Kouminguékaha
+Kongwékoro|CI||0|n3|-lv|6|Koungbékoro
+Kouamé-Boussikro|CI||0|ks|-b5|6
+Kouassikrokouri|CI||0|l0|-aw|6
+Koutsounári|GR||8p|2p9|1zr|6|Koutsounára
+Kouassibilédougou|CI||0|li|-ad|6
+Kouakoublékro|CI||0|ld|-er|6
+Kourtési|GR||8p|2xi|1n8|6
+Kouffouo|CI||0|ma|-87|5
+Kouébo-Kan|CI||0|ks|-fi|5
+Kut|UA||98|3pw|20b|5|Kout;Cotul Bainschi
+Kouloumitan|CI||0|qq|-bp|5
+Koúmani|GR||8p|2wz|1of|5
+Kouamé-Bonou|CI||0|ik|-e8|5
+Kouakoutankrou|CI||0|kt|-8c|5
+Koubi|CI|Sassandra-Marahoue|0|jj|-fo|5
+Kouadio-Amanikro|CI||0|ld|-c3|5
+Kouakou Ebinikro|CI||0|jg|-d7|5
+Kouami Konlankro|CI||0|kr|-db|5

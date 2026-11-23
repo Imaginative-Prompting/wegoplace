@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+Rio de Janeiro|BR||4w|-1rn|-3by|1g2e|Rio-de-Ĵanejro;Rio de Žaneiras;Urbs Fluminensis;Riodežaneiro;Rio-de-Janeyro;Rio de Janeiru;rios. dis. djaneiros;Riviéthe dé Janvyi;Rio dé Janéyro;Rio-de-Žaneýro;Rio de Zhaneiro;Riu de Janeiru;Rio-de-Žaneiro;Rio de Janêro;Rio dė Žaneiros;Riu de Janeiro;Rio-de-janeiro;Rio d Janeiro
+Yangon|MM||7y|1ap|7f4|yjs|Rangun;Rangoon;Rangoun;Rangūnas;Rangum;Jangona;Jangono;Ngióng-kông;Jangún;Rangon;Yanqon;Jangon;Yangjgvangh;Yankoun
+Riyadh|SA||7e|1wl|3ls|wgc|Riad;Al-Riyad;Rijád;Ar-Riyāḑ;Riyad;Rijadas;Riade;Riadi;Rijāda;Ar-Riyod;Riaad;Rihad;Riadum;Riado;Ar-Riaad;Er-riyad
+Rawalpindi|PK||6q|2lc|5mx|pwo|Ravalpindis;Ravalpindi;Ravalpindo;Ralalpindi
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Rasapūdipalem|IN||6t|1d9|6fg|dc1
+Rabat|MA||d|2mh|-iz|cry|Raba;Rbaṭ;Rabot
+Recife|BR||4p|-md|-2ow|crb|Recifo;Resife;Fernambucum;Resifi
+Rājkot|IN||6t|1px|5gn|aqa|Radźkot;Radžkotas
+Ra’s Bayrūt|LB||64|2m6|2qk|9np
+Yerevan|AM||80|33m|3fn|8tz|Jerewan;Ereván;Jerevan;Erevano;Iereván;Êrîvan;Erywań;Jerevanas;Yiriwan;Jerjewan;Jerevani;Eireaván;Erevāna;Erevanum;Eriwan;Djerevan;Revan;Iravan;Erewan
+Rostov-on-Don|RU||9i|3n6|32b|8pz|Rostow am Don;Rostov del Don;Rostov na Donu;Rostov-na-Donu;Rostov Doni ääres;Rostov-sur-le-Don;Rostova pie Donas;Rostov aan de Don;Rostów nad Donem;Rostov-an-Don;Rostov-pe-Don;Rostov nad Donom;Rostov sul Don;Rostovas prie Dono;Rostov trên sông Đông;Rosztov-na-Donu;Rostov ved Don;Rostov Donal;Rostov Don;Rostow nad Donom;Rostof aan die Don;Rostov do Don;Rostov-ar-Ddon;Rostòv de Dòn;Rostov-Don;Rostov sopra-u-Donu;Rostovia ad Tanaim;Rostow na Donu
+Rui’an|CN||7i|256|9b6|8oi|Jui-an
+Ranchi|IN||6t|1su|6kz|8n8|Ráňčí;Rančis;Ráncsí
+Rangpur|BD||6a|1zj|6vx|7yi|Rongpur
+Raipur|IN|Chhattisgarh|6t|1mz|6ar|7xd|Rajpuro;Rájpur;Rayapura
+Rosario|AR||1n|-2jj|-4og|7bf|Rosarijas;Rozarîyo;Urbs Rosariensis
+Rotterdam|NL||8m|408|cg|6p5|Roterdamo;Róterdan;Roterdão;Róterdam;Roterodamum;Roterdama;Roterdamas;Roterdami
+Rohini|IN||6t|27u|5y3|6mw
+Rajshahi|BD||6a|1vp|6u4|5w4|Rampur Boalia;Rampur Baolia
+Riga|LV||9n|4e7|1uz|5qa|Rigo;Riia;Riika;Ryga;Riqa;Reiga;Ríge;Riigaa;Rigg-a;Rija
+Ribeirão Preto|BR||4w|-1mu|-3ot|5e2|Ribeirão;Ribeiran Pretas
+Rizhao|CN||7i|2qd|981|53v|Nĭk-ciéu;Ž’-čao;Nhật Chiếu;Ji̍t-chiàu-chhī
+Bukit Rahman Putra|MY||6v|8y|7u4|4om
+Kryvyy Rih|UA||98|3p3|2kr|4nr|Kryvyj Rih;Kryvyi Rih;Krywyj Rih;Kryvy Rih;Krivoy Roq;Kriví Rih;Krıvıy Rig;Krivoj Rog;Krivij Rih;Krõvõi Rig;Kryvyj Rihas;Krîvîi Rih;Krüvüy Rih;Krzywy Róg;Krivijriha;Kryvy Rig
+Rasht|IR||7o|2vk|3tr|4l6|Rascht;Rašt;Raszt;Rasjt;Raŝto;Reşt;Reštas;Raixt;Resht
+Reynosa|MX||3w|20g|-7l0|4jr|Reinosa
+Ryazan’|RU||9i|47r|32a|45q|Riazań;Rjasan;Ryazan;Rjazaň;Resania;Rjazanj
+Leeds|GB||9b|45g|-4b|44z|Lidso;Lidsas;Līdsa;Ledesia;Lids;Loidis;Ritis
+Ar Raqqah|SY||69|2rv|30d|43s|Raqqa;Ar-Raqqah;Rakka;Raka;Reqa;Callinicum;Raqqah
+Belford Roxo|BR||4w|-1r8|-3ck|400
+Rahim Yar Khan|PK||6q|26y|5fa|3zm|Rahimyar Khan;Rahimjar Khan;Rahim Jar Ĥan;Rahimjarhan;Bahim Yar Khan
+Ruiru|KE||16|-37|2uo|3s5
+Raleigh|US|North Carolina|48|2rd|-62g|3pz|Rolio;Roli;Rolis;Rolės
+São José do Rio Preto|BR||4w|-1lu|-3t6|3pg|Rio Preto;San Žozė do Rio Pretas
+Rạch Giá|VN||6h|rt|83w|3jr|Li̍t-ka-sṳ;Racža;Rach Zhia
+Rāmgundam|IN||6t|1g8|64p|3hn|Ramagundam
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+Rajpur Sonarpur|IN||6t|1qc|6tn|39w|Rajpur;Sonarpur;Sonarpur Rajpur

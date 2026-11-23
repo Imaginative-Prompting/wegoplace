@@ -1,0 +1,249 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+San Cristóbal|VE||2c|ll|-5ko|28j|San Kristobalis;San Kristobal;San-Kristobal
+St. Louis|US||2f|2zb|-6yk|25p|San Luis;Saint Louis;Saint-Louis;Sankta Luiso;St Louis;Sent-Luis;Sent Luisas;Sentluisa;Urbs Sancti Ludovici;Sent Loisos;Sint-Louis;Saint Louis City;Saint Lewis
+São Carlos|BR|São Paulo|4w|-1p6|-3p1|220|Urbs Carlopolitana;San Karlosas
+Saint-Étienne|FR||9k|3i7|c7|1cz|Sankta-Stefano;Sant-Etiève;Sent Etjenas;Sentetjēna;Sanctus Stephanus de Furano;Sant Estève;Sent-Etyen;Sainté;St Étienne;Sankta-Etjeno
+St. Catharines|CA||59|3bx|-644|120|Sainte-Catharine;Sankta Katarino;Sent Katerinsas
+Sancti Spíritus|CU||36|1ox|-64o|zb|Sankti Spiritus
+San Carlos|VE||2c|qu|-5aj|xg|San Karlosas;San-Karlos
+Rijeka|HR||a6|3hx|144|u0|Vitipolis;Sankt Veit am Pflaum;Sankt Veit am Flaum;Flumen;Rijeko;Fiume;Reka
+São Cristóvão|BR||3r|-ul|-2vd|s4|San Kristovanas;São Christovão
+San Carlos de Bariloche|AR||1s|-36b|-5i3|qi|Bariloche;San Karlos de Bariločė;Bariloĉe
+Budapest XVIII. kerület|HU||8v|3ns|1ha|pw|Sankt Lorenz-Sankt Emmerich
+San Leandro|US||3p|2ws|-9fc|p7|Sn Leandro;Sankta Leandro
+Saint Joseph|US|Missouri|2f|32h|-7bh|lc|St. Joseph;Sankta Jozefo
+San Ramon|US||3p|2wy|-9eu|l5|Sankta Rajmondo;San-Ramon
+Sankt Gallen|CH||a7|3nq|q1|l2|St. Gallen;Saint-Gall;San Galo;Sankt-Galo;San Gallo;Sanctogallum;San Gallu;Son Gagl;Saint Gallen;Sogn Gagl;Sanggale;Sankt Qallen
+Sankarankovil|IN||6t|ph|5ze|fx
+Sankt Augustin|DE||8r|3x2|k0|fl|St. Augustin
+Saint John’s|AG||1j|1bk|-4rs|ed|St. John's;St Johns;Sent Džonsas;St.John.s;St John's;Sen Jaan;San Xuan;Sent Cons;Sankta Johano;Sant-Johns;Sen Jòns;San Gioàn;Saint John
+Sankeshu|CN||7i|21s|8c7|cw
+Sankt Ingbert|DE||8r|3sw|js|ar
+Sankeshwar|IN||6t|196|5qw|9m|Sankeshvar
+San Kamphaeng|TH||62|1g2|7nc|96|Sankambhēng
+San Carlos de Bolívar|AR||1l|-2sn|-4ps|8s|San Karlos de Bolivar
+San Carlos|US|California|3p|2w7|-9fm|8b|Sankta Karolo
+Sankagiri|IN||6t|vw|60b|87|Sankari
+Saint Helier|JE||95|3sn|-5u|7s|St Helier;St. Helier;Saint-Hélier;Sankt' Heliero
+Sānkrāil|IN||6t|1qn|6t3|7n|Shankrail
+San Carlos|UY||45|-2on|-48k|7n|San Karlosas;Sankarlosa
+Sinkassé|TG||w|uu|1|7h|Cinkassé;Sankassa;Sinkasé;Sankassé
+Sankt Wendel|DE||8r|3tf|jx|7h
+Sankarapatti|IN||6t|rx|62r|7d
+Sankt Pölten|AT||a2|3px|17g|63|St. Pölten;St. Pötn;Pölten;Sanktpeltene;Sankt Peltenas;Sveti Hipolit;Sankt-Pyolten;Cetium;Saint Pölten;Sankt Pölton
+Sankt Peter|AT|Carinthia|a2|3lj|13u|5n
+Sankt Martin|AT|Carinthia|a2|3li|13o|5k
+Sankaraperi|IN||6t|ok|60z|5i
+Saint-Avold|FR||9k|3se|im|53|Sankt Avold;Sänt Avuur;Sänt Avor
+Saint Peter Port|GG||91|3te|-72|4l|Saint-Pierre-Port;St Peter Port;Saint Pierre Port;St. Peter Port;Sent Piter Port;Sanktapetrurbo;Sent Piter Portas;Sentpīterporta
+Sankt Leonhard|AT|Styria|a2|3mr|16y|4f
+Sankt Peter|AT|Styria|a2|3mp|16z|48
+San Cristóbal|AR||1n|-2c7|-4q3|3z|San Kristobal
+Shankill|IE||8z|43v|-h0|3z|Šankilis;Seanchill
+San Carlos|NI||3s|ux|-6ji|3r|San Karlosas;San Karlos
+Sankadiokro|CI||0|j2|-9p|3i|Sankouadiokro;Sankoidiokro
+Sankt Leon-Rot|DE||8r|3sv|ny|3e
+Sankheda|IN||6t|1pl|5oe|3d
+St. Georg|DE||8r|44s|rt|35|Sankt Georg
+Sankt Veit an der Glan|AT||a2|3lx|13w|30|Šentvid ob Glini;St. Veit an der Glan
+St James's|GB||9b|3z3|-e|2w|St. James’s;Sankta Jakobo;Quận St. James;Sent-Ceyms
+Sankaramanallur|IN||6t|t4|5yw|2v
+Sankt Johann in Tirol|AT||a2|3o0|yi|2m|St. Johann in Tirol
+Sankt Valentin|AT||a2|3pt|14c|2l|St. Valentin
+Saint-Vith|BE||8t|3vo|h1|2j|Sankt Vith;Sankt-Vith;Sankt Väit
+Szentgotthárd|HU||8v|3mf|197|2h|Sankt Gotthard
+Sankt Ruprecht|AT|Carinthia|a2|3lg|13s|22|Blače
+Sankt Leon|DE||8r|3sv|nw|20
+Sankarnagar|IN||6t|og|5zx|1z
+Sankt Martin|AT|Upper Austria|a2|3pz|13n|1y
+Jánossomorja|HU||8v|3or|1bm|1r|Sanktjohann;Sanktpeter;Sankt-Johann
+Kamennogorsk|RU||9i|4pb|28x|1q|Antrea;Kamiennogorsk;Sankt Andree;Kamjennogorsk;Kammenogorsk
+Svätý Jur|SK||8s|3q1|1bu|1o|Szentgyörgy;Sankt Georgen;Sanct Georgius;Sveti Jur
+San Michele|IT|Trentino-Alto Adige|9o|3l1|va|1o|Sankt Michael
+San Ildefonso|ES||9d|35m|-b5|1i|La Granja;Sankta Ildefonso
+Sankt Margrethen|CH||a7|3nt|qs|1i|St. Margrethen SG;St. Margrethen
+Saint-Imier|CH||a7|3mz|jg|1g|Sankt Immer
+Sankt Johann|DE|Baden-Wurttemberg|8r|3ql|py|1g
+St. Moritz|CH||a7|3l6|rc|1e|Sankt Moritz;Sankta Maŭrico;Saint-Moritz;São Moritz;Saint Moritz;San Murezzan;Sankt Murezzan
+Sankt Johann im Pongau|AT||a2|3nj|10o|1b|St Johann im Pongau;St. Johann im Pongau
+Pilisszentiván|HU||8v|3o9|1gi|16|Sankt-Iwan
+Sankt Blasien|DE||8r|3oo|ml|15|Saint Blasien;San Blasien;St. Blasien
+Sankt Wolfgang|DE||8r|3py|xp|15
+Sankt Peter-Ording|DE||8r|46u|o0|15|Sankt Peter-Oring
+Pannonhalma|HU||8v|3o3|1dc|15|Panónsky vrch;Martinsberg;Rábsky Svätý Martin;Sankt Martinsberg
+Sankt Stefan im Rosental|AT||a2|3ma|17n|13|Sankt Stefan im Rosenthal;Sankt Stefan im Rosenthale
+Sankt Veit im Pongau|AT||a2|3nh|10j|12|St. Veit im Pongau;St. Veit;Sankt Veit Pongau
+Sankt Georgen an der Gusen|AT||a2|3q3|145|12
+Sankt Michaelisdonn|DE||8r|45y|pc|12|Saint Michaelisdonn;St. Michaelisdonn
+Sankt Egidien|DE||8r|3x3|z2|11|Saint Egidien;St. Egidien
+Saint Louis|SC||ae|-cu|4a0|11|Sankt Louis;St.Louis
+Sankt Katharinen|DE||8r|3wi|ki|z
+Sankasho|JP||7q|2is|a4h|z|Sangasho
+Ostojićevo|RS||8q|3jh|1k1|y|Sankt Nikolaus an der Theiss;Tiszaszentmiklós;Ostrojćevo;Ostojćevo;Tisa Sent Mikloš
+Sankt Paul im Lavanttal|AT||a2|3lq|15c|x
+Lenart v Slovenskih Goricah|SI||9a|3le|17z|x|Sankt Leonhard in Windischbüheln;Lenart v slovenske Goricah
+Sankt Kilian|DE||8r|3wd|tw|w
+Sankt Florian|AT||a2|3px|13y|w
+Sankt Goar|DE||8r|3vb|lf|v|St. Goar
+Sankhwāli|IN||6t|1yr|5mg|v|Sankwāli
+Sankanan|PH||71|n4|9mu|v|Sankanam
+San Carlos|AR|Salta|1s|-1zx|-535|v|San Karlos
+Sankt Dionysen|AT||a2|3py|13l|u
+Sankt Georgen im Attergau|AT||a2|3p6|11g|u|St. Georgen im Attergau
+Sankt Georgen bei Salzburg|AT||a2|3pb|zs|u
+Sankt Wolfgang im Salzkammergut|AT||a2|3om|11d|s|St. Wolfgang im Salzkammergut
+Sankt Margarethen im Burgenland|AT||a2|3os|1a5|q|Szentmargitbánya;Sveta Margareta;St. Margarethen im Burgenland
+Saint-Amarin|FR||9k|3oz|jj|q|Sankt Amarin
+Sankt Peter|DE||8r|3pd|mb|p
+Sankt Sebastian|DE||8r|3w1|l0|p
+Sankt Lorenzen im Mürztal|AT||a2|3nw|16p|p
+Sankt Martin|AT|Styria|a2|3nt|16g|o
+Sankt Martin|AT|Carinthia|a2|3li|12f|o
+Sankt Georgen am Leithagebirge|AT||a2|3ox|19z|o|Lajtaszentgyörgy
+Sankt Niklaus|CH||a7|3ka|lo|o|St. Niklaus VS
+Ják|HU||8v|3my|1a2|n|Sankt Georgen
+Sangāchīn|IR||7o|2w8|3sz|n|Sankāchīn;Sangar Chīn;Sangarchīn
+Sankhvāst|IR||7o|2v2|4dx|l|Sankhāst;Sangkhuast;Sankhāş
+Sankt Michael im Lungau|AT||a2|3mu|11v|l|St Michael im Lungau;St. Michael im Lungau;Sankt Michael Lungau
+Sankt Peter in der Au Markt|AT||a2|3pg|14m|k
+Sankt Andreasberg|DE||8r|3zn|t8|k|Saint-Andreasberg;St. Andreasberg
+Sankt Aegyd am Neuwalde|AT||a2|3ox|179|j
+Saint George|BM||82|2hy|-4zo|j|Sankta Georgo;Sent Džordžas
+Sankt Martin|DE||8r|3sy|mj|j
+Sankt Märgen|DE||8r|3pd|mh|j|St. Märgen
+Sankt Antoni|CH||a7|3m2|k6|i|Saint-Antoine;St. Antoni FR;St. Antoni;Saint Antoni
+Sankwia|GM||7|11f|-174|i|Sankuia
+Sankt Ulrich am Pillersee|AT||a2|3o1|yx|i|St. Ulrich am Pillersee
+Sankt Gallenkappel|CH||a7|3n8|ow|i|St. Gallenkappel
+Sankt Leonhard|AT|Carinthia|a2|3lj|12i|i
+San Martino in Passiria|IT||9o|3ly|v7|i|St. Martin in Passeier;Sankt Martin in Passeier;Passirium;St Martin in Passeier;San Martino in Badia
+St Anton am Arlberg|AT||a2|3mx|si|i|Saint Anton;St. Anton am Arlberg;Sankt Antonas;St. Anton;Sankt Anton am Arlberg;Sankt Anton;St Anton
+Saint Davids|GB||9b|404|-en|i|Saint David’s;Tyddewi;St David's;St Davids;St. David’s;Sent Deividsas;Sentdeividsa;Sankta Davido;Menevia
+Sankt Pantaleon|AT|Lower Austria|a2|3px|14h|h
+Sankt Stefan|AT||a2|3m1|159|h|St. Stefan im Lavanttal
+Sankt Andrä vor dem Hagenthale|AT||a2|3q8|191|h
+San Leonardo in Passiria|IT||9o|3m1|v9|h|St. Leonhard in Passeier;Sankt Leonhard in Passeier;Fanum Sancti Leonardi;St. Leonhard im Passeiertal;St Leonhard in Passeier;Saint Leonhard in Passeier
+San Kin Gyi|MM||7y|1be|7eb|g
+Sankt Englmar|DE||8r|3s4|zn|g|St. Englmar;Englmar
+Sankt Lorenz|AT||a2|3ov|113|g
+Sankt Goarshausen|DE||8r|3vc|lf|f|Saint Goarshausen;St. Goarshausen
+San Kauk|MM||7y|19x|7eo|f|San-gauk;Sankauk
+Sankt Marien|AT||a2|3pr|13o|f
+Sankt Gallenkirch|AT||a2|3mm|rp|f|St. Gallenkirch
+Sankt Oswald bei Freistadt|AT||a2|3qq|14i|f|St. Oswald bei Freistadt
+San Vigilio|IT|Trentino-Alto Adige|9o|3lq|x5|e|Sankt Vigil;St. Vigil in Enneberg
+Šmartno pri Litiji|SI||9a|3jw|158|e|Sankt Martin;Šmartno pri Litui
+Sankt Leonhard am Wonneberg|DE||8r|3p4|zc|e
+Sankt Leonhard am Forst|AT||a2|3pq|16g|e
+Sankt Marein im Mürztal|AT||a2|3nv|16p|e|Sankt Marein im Murzthale
+Šentjernej|SI||9a|3jc|16l|e|Sankt Bartlmä;Šent Jernej
+Sankt Ulrich bei Steyr|AT||a2|3pe|144|e
+Sankt Andrä am Zicksee|AT||a2|3oq|1b2|e|Mosonszentandrás;St. Andrä am Zicksee
+Sankelmark|DE||8r|480|q8|e
+Sankt Magdalen|AT||a2|3li|12k|e
+Sankt Stephan|CH||a7|3l7|kk|e|St. Stephan;Sankt-Stefano BE
+Pärnu-Jaagupi|EE||9x|4it|1w3|d|Yakobi;Svyatogo Iakova;Sankt-Jakobi;Sankt-Jakoby;Jakobi
+Sankt Georgen am Ybbsfelde|AT||a2|3pp|15j|d
+Sankt Gangloff|DE||8r|3xa|x1|d
+Sankt Lambrecht|AT||a2|3mr|13q|d
+Sankt Andrä|AT|Carinthia|a2|3lx|156|d|Šentandraž v Labotski dolini
+Sankt Julian|DE||8r|3tu|kw|d
+Sankt Ruprecht an der Raab|AT||a2|3mz|17i|c
+San Lorenzo di Sebato|IT||9o|3lz|x3|c|St. Lorenzen;Fanum Sancti Laurentii Saevatiensis;Sankt Lorenzen;Saint Lorenzen
+San Carlos Minas|AR||1n|-2em|-50u|c|San Karlos Minas
+Sankt Peterzell|CH||a7|3ng|pi|c|St. Peterzell
+Sanka|PL||a5|3v3|1il|c
+Sankt Jakob-Breitenau|AT||a2|3nn|16v|b
+Sankt Margarethen an der Raab|AT||a2|3mp|17r|b
+Sankt Gilgen|AT||a2|3op|115|b|St. Gilgen;Saint Gilgen
+Sankt Martin im Mühlkreis|AT||a2|3qi|130|b
+Sankt Kathrein am Offenegg|AT||a2|3ne|17a|b
+Sankt Peter-Freienstein|AT||a2|3no|15r|b
+St. Martin of Tennengebirge|AT||a2|3nv|116|b|Sankt Martin am Tennengebirge;St. Martin am Tennengebirge
+Sankt Leonhard|AT|Salzburg|a2|3ol|109|b|St. Leonhard
+Sankt Margarethen|DE||8r|45p|pp|b
+Sankt Martin am Ybbsfelde|AT||a2|3ps|15q|a
+Sankt Stefan ob Leoben|AT||a2|3ng|15m|a
+Sankivtsi|UA||98|3qc|20v|a|Săncăuți
+Sankt Georgen|AT|Carinthia|a2|3lj|12c|a
+Sankt Johann|AT||a2|3m2|15b|a
+Sankt Michael in Obersteiermark|AT||a2|3ni|15q|a
+Sankt Johann|DE|Rheinland-Pfalz|8r|3vv|k0|9
+Sankt Ruprecht|AT|Carinthia|a2|3lt|136|9
+Sankt Pantaleon|AT|Upper Austria|a2|3pd|zt|9
+Sankt Peter am Wimberg|AT||a2|3qq|134|9
+Sankt Margarethen im Lavanttal|AT||a2|3m6|154|9|St. Margarethen im Lavanttal;Sankt Margarethen im Lavantthale
+Sankt Johann in der Haide|AT||a2|3nc|18j|9|St. Johann in der Haide
+Sankt Marienkirchen an der Polsenz|AT||a2|3q3|12p|9
+Sankt Jakob|AT|Carinthia|a2|3m3|157|8
+Sankt Martin bei Lofer|AT||a2|3o5|za|8|St. Martin b. Lofer
+Sankt Margarethen bei Knittelfeld|AT||a2|3n6|15b|8
+Sankt Radegund bei Graz|AT||a2|3n2|171|8
+Sankt Johann|DE|Rheinland-Pfalz|8r|3uj|m9|8
+Sankt Stefan ob Stainz|AT||a2|3md|16e|8
+Sankt Valentin-Landschach|AT||a2|3og|18i|8
+Sankt Gallen|AT||a2|3oh|14m|8
+Sankt Jakob in Haus|AT||a2|3ny|yv|8|St. Jakob in Haus
+Sankt Ulrich am Waasen|AT||a2|3md|175|8
+Sankt Michael am Bruckbach|AT||a2|3pe|14k|8
+Sankt Margarethen bei Lebring|AT||a2|3m6|175|8
+Sankt Andrä|AT|Carinthia|a2|3lk|12l|8
+Sankt Agatha|AT||a2|3qf|12k|8
+Sankt Andrä im Lungau|AT||a2|3mz|12a|8
+Sankt Marein bei Graz-Umgebung|AT||a2|3mm|17m|8
+Sankt Leonhard im Pitztal|AT||a2|3mr|u5|7|St. Leonhard im Pitztal
+Sankt Peter am Ottersbach|AT||a2|3m0|17s|7
+Sankt Nikolai ob Draßling|AT||a2|3m1|17i|7
+Sankt Peter in der Au Dorf|AT||a2|3ph|14o|7
+Sankt Josef (Weststeiermark)|AT||a2|3mb|16m|7
+Sankt Margarethen im Lungau|AT||a2|3ms|122|7|St. Margarethen im Lungau
+Sankt Veit an der Gölsen|AT||a2|3pg|17j|7
+Sankt Michael im Burgenland|AT||a2|3mx|197|7
+Sankt Marienkirchen bei Schärding|AT||a2|3qf|11d|7|Sankt Marienkirchen
+Sankt Oswald bei Plankenwarth|AT||a2|3mt|16g|7
+Sankt Anton im Montafon|AT||a2|3mw|rf|7|Montafon;St. Anton im Montafon
+Sankt Georgen|AT|Carinthia|a2|3ls|15g|7
+Sankt Aldegund|DE||8r|3v4|jt|7
+Sankt Olof|SE||9w|4aj|139|7
+Sankt Peter am Kammersberg|AT||a2|3n3|13e|7|St. Peter am Kammersberg
+Saint-Pierre-Bois|FR||9k|3q9|kg|7|Sankt Petersholz;Peeterschulz
+Sankt Jakob|AT|Carinthia|a2|3lb|132|7|St. Jakob im Rosental
+Sankertown|US||48|34f|-62b|7
+Sankt Martin|AT|Salzburg|a2|3mu|11x|6
+Sankt Veit im Mühlkreis|AT||a2|3qn|13c|6
+Sankt Ulrich|AT|Carinthia|a2|3lh|12o|6
+Sankt Andrä an der Traisen|AT||a2|3q6|17o|6|Sankt Andrä;St. Andrä an der Traisen
+Sankt Marein bei Graz-Markt|AT||a2|3mm|17l|6
+Sankt Veit am Vogau|AT||a2|3lv|17f|6
+Sankt Leonhard bei Freistadt|AT||a2|3qk|14s|6
+San Valentino alla Muta|IT||9o|3lw|t9|6|Sankt Valentin auf der Haide;San Valentino alla Mutta
+Sankt Lorenzen ob Murau|AT||a2|3mu|135|6|St. Lorenzen ob Murau
+Saint-Jean-Saverne|FR||9k|3rh|kg|6|Sankt Johann bei Zabern;Sànt Johànn
+Sankt Andrä|AT|Tyrol|a2|3mm|yd|6
+Sankt Jakob|AT|Tyrol|a2|3my|sl|6
+Sankandi|GM||7|10y|-17z|6
+Sankt Erhard|AT||a2|3nm|16x|6
+Sankt Konrad|AT||a2|3p3|12l|6
+Sankt Ulrich|AT|Carinthia|a2|3lv|138|6
+Sankt Johann in Engstetten|AT||a2|3pj|14m|6
+Sankt Georgen am Walde|AT||a2|3qc|15e|6
+Sankt Martin an der Raab|AT||a2|3mc|18t|6|St. Martin an der Raab
+Sankt Johann am Wimberg|AT||a2|3qp|139|6
+Sankt Michael|AT||a2|3m3|154|6
+Sankt Georgen in der Klaus|AT||a2|3pa|14u|6
+Sankt Kathrein am Offenegg I Viertel|AT||a2|3ne|17a|6|Sankt Kathrein am Offenegg I.Viertel
+Sankt Margarethen an der Sierning|AT||a2|3ps|171|6
+Sankt Georgen an der Stiefing|AT||a2|3m7|17a|5
+Sankt Kathrein am Offenegg II Viertel|AT||a2|3nh|179|5|Sankt Kathrein am Offenegg II.Viertel
+Sankt Peter|AT|Carinthia|a2|3ln|13e|5
+Sankt Michael ob Bleiburg|AT||a2|3le|14y|5|Sankt Michael;Smihel nad Pliberkom
+Sankt Blasen|AT||a2|3ms|13q|5
+Sankt Kathrein am Hauenstein|AT||a2|3nx|17l|5
+Sankt Bartholomä|AT||a2|3mp|16e|5
+Saint-Nabor|FR||9k|3ql|km|5|Sankt Nabor;Sant Nawer
+Sankt Salvator|AT||a2|3mh|13w|5
+Sankt Lorenzen am Wechsel|AT||a2|3ns|18b|5
+Sankt Lorenzen bei Knittelfeld|AT||a2|3n9|15e|5
+Sankt Georgen bei Neumarkt|AT||a2|3mr|144|5

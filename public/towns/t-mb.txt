@@ -1,0 +1,87 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mbuji-Mayi|CD||y|-h2|1tj|g7p
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Mbeya|TZ||h|-oq|2kx|46g|Mbeja
+Mbandaka|CD||t|5|1eq|3ie|Bandaka
+Mbour|SN||g|142|-1b4|26y|Mbur;M'bour
+Mbarara|UG||q|-1o|2d5|1ph
+Mbanza Kongo|AO||x|-hf|13k|154|Mbanza Congo;M'banza Kongo
+Mbanza-Ngungu|CD||t|-em|15a|13o
+Mbale|UG||q|30|2my|ux
+Mbombela|ZA||o|-1ys|2e1|um|Nelspruit;Nelspreyt;Naspoti
+Mbaké|SN||g|153|-187|s7|Mbacké
+Mbalmayo|CM||j|9s|vy|mw|Mbalmajo
+Mmabatho|ZA||o|-1zt|1z7|lc|Mabatho;Mbabatho
+Mbabane|SZ||13|-214|2eh|l6|Mbabano;Mbabàn;Mabane
+Mbouda|CM||j|fn|sh|jz
+Mbinga|TZ||h|-ud|2pa|gx
+Mbale|KE||16|8|2og|go
+Mbera|MR||19|182|-g3|ge
+Mbuguni|TZ||h|-9x|2un|du
+Mbulu|TZ||h|-ap|2qp|cm|Mburu
+Mbanga|CM||j|ci|ql|ca|M’Bangé
+Mbala|ZM||z|-ok|2f5|bs
+Mboro|SN||g|162|-1ax|bc
+Mbandjok|CM||j|cd|x2|85|Mbandjock
+M’Bengué|CI||0|rs|-ge|80|Mbngué;Mbenguié;Mbingué;M’Bégué;Mbengué
+M’Batto|CI||0|hz|-c4|6l|Mbato
+Mbaïki|CF||6|ar|1dz|63
+M’Bahiakro|CI||0|kq|-c2|5d|Mbayakro;M’Bakiakro;M’Bahiacro
+Mboursou Léré|TD||17|r4|13b|4r
+Mbita|KE||16|-16|2n1|45
+Mbekenyera|TZ||h|-rs|30a|3a
+Mbrés|CF||6|ij|1j0|2v
+Mbengwi|CM||j|gq|rs|2p
+Mburucuyá|AR||1n|-25x|-4hr|2i
+Mbamba Bay|TZ||h|-vc|2ol|2i
+Mberubu|NG||u|h5|l7|2h
+Mborou|CI||0|fj|-c4|22|Mbrou
+Mbigou|GA||v|-5a|x3|1z|M’bigou
+Mboutt|MR||19|18i|-yy|1v|Mbout
+Mbinda|CG||a|-5v|zr|1r
+Mbaoussiéssou|CI||0|ia|-bv|1n
+Mbumburu|SB||av|-q7|cc9|1m
+Mborla-Dioulasso|CI||0|nj|-cg|1h|Mborola-Dioulasso
+Mbéni|KM||ac|-vy|3ci|1f
+Mbouba|SN||g|18z|-12y|1d|M’Boumba
+Mbrimbo|CI||0|gr|-dj|1b|Mprimbo;Brimbo
+M’bérié|CI||0|gr|-bh|18
+Mbos|SN||g|13w|-17r|17
+Mbos Ndiamb|SN||g|147|-18n|17
+Mbumi|TZ||h|-lz|30x|17|Mbuni
+Mbini|GQ||10|4e|qp|15
+Mbagne|MR||19|18u|-12b|14
+Mborje|AL||9y|34s|1ls|13|Mborja;Mborija
+Mbala|CI|Savanes District|0|q0|-gv|z
+Mbonouan|CI||0|ff|-br|w
+M’basso agni|CI||0|hi|-9n|s
+Mbasso-Atié|CI||0|hh|-9o|q|Mbasso Attié
+M’Brago I|CI||0|fd|-bq|p|Mbrago;Mbrago I
+Mbohouin|CI||0|fh|-a4|p|Mbohoin;Bonhouin
+Mbankomo|CM||j|ai|vm|o
+Mbocayaty|PY||1y|-1zg|-4cq|n
+Mboyo|SN||g|1a8|-154|n
+Mbuyapey|PY||1y|-20u|-4do|m
+Mbékro|CI||0|j6|-eb|l|Moékro
+Binguébougou|CI||0|qg|-g5|k|M’Bengue Bougou;Benguédougou;Benguébougou
+Mbattra|CI||0|gl|-bh|j|Mbaltra;Mbatra
+Mbrati|CI||0|ec|-8r|f|Mborati
+Mbeuleukhé|SN||g|17h|-16n|f|Mbeulakhé;Mbeulekhé
+Mbutuý|PY||1y|-1xe|-4cf|f
+Mbabrasso|CI||0|lc|-b5|e
+Mbia|CI||0|qg|-gt|d
+Mbéboussou|CI||0|j1|-ci|c
+Mbang|CM||j|cq|111|c
+Mbouédio|CI||0|k2|-eb|b
+Mbala|CI|Vallée du Bandama District|0|o2|-d1|9
+Mborono|CI||0|mx|-b7|9|Mboron
+Méblala|CI||0|rn|-ju|9|M’béblala;Mbléblala
+Mborola-Banbarasso|CI||0|nj|-ch|8
+Mbéri|CI||0|jc|-cu|8
+Mbazo|CI||0|gq|-ew|8
+Mbam|CI||0|kl|-e2|8
+San Giorgio Albanese|IT||9o|31y|19p|7|Mbuzati
+Mbrakull|AL||9y|34v|1jr|7|Brakull
+M'Brakro|CI||0|if|-an|6
+Mbouini|YT||ah|-103|3he|5
+Mbambani|KM||ac|-wx|3ce|5

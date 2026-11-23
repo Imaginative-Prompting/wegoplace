@@ -1,0 +1,31 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jaunpur|IN||6t|1zj|6dp|1b4|Jawnpur;Caunpur
+Jaworzno|PL||a5|3vh|1hj|qt|Javožno;Javožnas;Âvojna;Jaworzyna
+Yavné|IL||6n|2gk|2oi|g5|Jawne;Jamnia;Javne;Yamnia
+Jawhar|SO||14|7q|3ie|d3|Jowhar;Giohar;Cavcavcal;Javohar;Jawahar;Johar;Joowhar
+Jawaharnagar|IN|Telangana|6t|1cn|629|ce
+Jawi|MY||6v|ei|7r5|a6
+Jowai|IN||6t|1yo|743|7w|Jawai
+Jawor|PL||a5|3xt|18z|6n|Jauer;Javora;Javoras
+Jāwad|IN||6t|1wc|5ry|4r
+Uliastay|MN||6j|3om|7h0|4j|Uliastai;Uliyasutai;Oulia-Sontai;Javkhlant;Uliystoy;Uliasutay;Javhlant;Jawkhlant;Uliassutai;Uliyassutai;Uljasutai;Ulyasutay;Uriyasutai;Wu-li-ya-su-t’ai;Wu-lu-ya-su-t’ai
+Jawf al Maqbābah|YE||5r|12g|3jb|3y|Jawf am Maqbābah
+Yavoriv|UA||98|3uq|1sy|3k|Jaworów;Jaworiw;Javorov;Javoriv;Javoriva;Iavoriv;Yavorov;Yavoruv
+Jawhār|IN||6t|1jb|5nf|3d
+Jāwā|JO||5t|2gh|2ru|2y
+Yavornytske|UA||98|3qg|2q0|2g|Ilarionové;Javornicke;Jawornyćke;Javornyzke;Ilarionowe
+Iāwar|IN||6t|1rx|5wi|2a|Jāwar
+Yavas|RU||9i|476|3b1|26|Javas;Iavas;Javasz;Jawas
+Jaworze|PL||a5|3ub|1gn|1v
+Jawāla Mukhi|IN||6t|2gj|5w0|1i|Jwalamukhi;Jawalanukhi
+Jaworzyna Śląska|PL||a5|3xf|19n|1g|Königszelt;Javožina Slonska
+Jāvarsīān|IR||7o|2n5|3t1|1e|Jāversīyān;Javarsiyan;Jāvarseyān;Jāversīān;Jāwar Siān
+Jawaharnagar|IN|Gujarat|6t|1q4|5n5|y
+Jaworzynka|PL||a5|3tm|1gf|v
+Jawornik|PL|Lesser Poland|a5|3ui|1j9|s
+Jawornik|PL|Subcarpathia|a5|3uh|1ot|c
+Jawornik Polski|PL||a5|3ul|1px|b
+Javornice|CZ||9m|3vd|19f|9|Jawornitz;Javornic
+Jaworznik|PL||a5|3wl|1hx|8
+Jaworowa|PL||a5|40u|1m8|8
+Jaworsko|PL||a5|3un|1ln|7

@@ -1,0 +1,396 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Puente Alto|CL||4u|-2ld|-5g2|4dt
+Buda|HU||8v|3ny|1gv|3xp|Ofen;Altofen;Boeda;Budin;Budim;Akouinkon
+Ciudad Victoria|MX||44|1ty|-7ne|2k9|Cd. Victoria;Siudad Viktorija;Altepetl Victoria;Victoria llaqta;Victoria;Lungsod ng Victoria
+Ciudad Obregón|MX||37|24d|-8he|2ji|Cd Obregon;Cd. Obregon;Siudad Obregonas;Altepetl Obregón;Lungsod ng Obregón;Obregon
+Alto Barinas|VE||2c|nv|-5f3|26z
+Altona|DE||8r|44r|rl|1xi|Altno
+Ciudad del Carmen|MX||3z|1ft|-733|1h4|Carmen;Cd Carmen;Cd. Carmen;Cd del Carmen;Cd. del Carmen;Altepetl Carmen
+Jinshanlu|CN||7t|3ox|6st|1gt|Altay;Altai
+Chincha Alta|PE||3o|-119|-5vh|16j|Činča Alta;Hanan Chincha;Chincha
+Alto Hospicio|CL||4u|-1kb|-5eq|13h
+Altamira|BR||4t|-8w|-411|12j
+Zacatecas|MX|Zacatecas|41|1r9|-7wy|zu|Altepetl Zacatecah;Sakatekas
+Ciudad Guzmán|MX||41|1iq|-7ze|v4|Cd Guzman;Cd. Guzman;Altepetl Guzman
+Los Puertos de Altagracia|VE||2c|tr|-5io|s7
+Al-Tabqa|SY||69|2rk|2z3|of|At Tabqah;Al Tabaqah
+Altamura|IT||9o|35f|19z|jl
+Altagracia de Orituco|VE||2c|re|-54e|iy
+Belize City|BZ||24|1cm|-6t0|i4|Ciudad de Belice;Belizas;Belize-stad;Belize;Thành phố Belize;Dinas Belize;Altepetl Belice;Belizurbo;Syudad han Belize;Cidade de Belize;Kota Belize;Bandaraya Belize;Belize Ceety;Beliz;Belice
+Palaió Fáliro|GR||8p|2xd|1tu|hs|Palaión Fáliron;Old Faliron;Alt Phaleron;Paleo Faliro
+Altamira|MX|Tamaulipas|44|1q7|-7k2|gj
+Carson City|US|Nevada|3p|30s|-98p|ga|Carsonurbo;Kota Carson;Karson Sitis;Thành phố Carson;Lungsod ng Carson;Kārsonsitija;Altepetl Carson;Karson-Siti
+Altuf’yevskiy|RU||9i|4b8|2we|f0
+Alt-Hohenschönhausen|DE||8r|41z|11i|dx
+Altrincham|GB||9b|44b|-6j|dt|Altrinĥam
+Alto Molocue|MZ||11|-17g|2wp|dm|Alto Molokwe
+Altos|BR||2w|-e0|-39y|d7
+Altoona|US|Pennsylvania|48|34k|-61r|cl|Altūna
+Altay|KZ||5s|3u6|6i1|ch|Zyryanovsk;Ziryanovsk;Zyranovsk
+Altamonte Springs|US||48|27m|-6a1|c0|Altamont Springs
+Altadena|US||3p|2mz|-945|bw
+Alta Gracia|AR||1n|-2fx|-4yz|b8|Alta Grasija
+Zvolen|SK||8s|3qx|1h7|b2|Altsohl;Zwoleń;Zólyom
+Altenburg|DE||8r|3xn|yk|aq|Altenbourg;Altemburgo;Starograd
+El-Tor|EG||c|26g|2le|an|Aţ Ţūr;Al-Tur;Et Tor;El-Tûr;Aṭ-Ṭūr
+Alto De Pinheiros|BR||4w|-1tf|-3lr|ae
+Alto Hama|AO||x|-xz|177|a7|Alto-Uama
+Old City|PS||6g|2ga|2pv|a0|Altstadt;Stari grad;Vieille Ville;Città Vecchia
+Óbuda|HU||8v|3o2|1gw|9e|Altofen
+Alto Alegre do Pindaré|BR||2w|-a7|-3jd|8v
+Altglienicke|DE||8r|41l|11m|88
+Altona-Altstadt|DE||8r|44r|rn|87
+Altstadt Sud|DE||8r|3xh|jc|7n
+Alton|US|Illinois|2f|301|-6yi|7i
+Altınşehir|TR||94|2wu|2y7|7a
+Altona-Nord|DE||8r|44s|rm|76
+Ciudad Altamirano|MX||41|1f0|-7rn|70|Altepetl Altamirano
+Alta Vista|CA||59|3i3|-5u6|6v
+Alto Alegre do Maranhão|BR||2w|-bp|-3fh|6o
+Altea|ES||9d|2z8|-5|6m
+Alta Floresta d'Oeste|BR||4l|-x9|-4s3|5z
+Aţ Ţaraf|SA||7e|1yg|3u5|5y|Al-Taraf
+Altinho|BR||4p|-nl|-2s6|5v
+Alto Alegre|BR|Roraima|26|82|-4qu|5v
+Altena|DE||8r|3yh|lb|5t|Altenoa
+Altotonga|MX||41|1ix|-7i5|5h
+Alton|GB||9b|3y3|-2p|5e
+Altamont|US|Oregon|3p|399|-9e6|5d
+Altus|US|Oklahoma|2f|2o8|-7nx|5c
+Altônia|BR||4w|-1ub|-45q|57
+Altona Meadows|AU||8j|-2x8|b66|55
+Altepexi|MX||41|1f1|-7ia|52
+Gamla Uppsala|SE||9w|4me|1cz|50|Alt-Uppsala;Vanha Uppsala;Gamle Uppsala
+Altstadt Nord|DE||8r|3xi|jc|4z
+Alto Araguaia|BR||2k|-1c3|-43u|4x
+Altai|MN||6j|3kt|7fe|4w|Altay
+Altinópolis|BR||4w|-1mf|-3nl|4s
+Altoona|US|Iowa|2f|37o|-77m|4q
+Alto Paraíso|BR|Rondônia|4l|-r0|-4vv|4j
+Alton|US|Texas|2f|211|-7l3|4e
+Altdorf bei Nürnberg|DE||8r|3t7|vk|49|Altdorf
+Alta|NO||9j|5ed|1sn|47|Alattio
+Alto Lucero|MX|Veracruz|41|1m7|-7io|46
+Alto Paraná|BR||4w|-1s9|-41c|45
+Artsyz|UA||98|3jr|29r|40|Arciz;Alt-Arzis;Artsız;Arcyzas;Arcyz;Brienne
+Alto Longá|BR||2w|-el|-399|3z
+Alto Santo|BR||2w|-fc|-2yb|3y
+Altes Lager|DE||8r|3qi|qi|3x
+Alterosa|BR||4w|-1n1|-3k6|3v
+Altayskoye|RU||63|40b|6l2|3v|Altayskiy;Altaiskoe
+Altınoluk|TR||94|31y|22a|3u|Altunoluk
+Alto Garças|BR||2k|-1b2|-44p|3t
+Altyn asyr|TM||5x|2vk|4om|3t|Bereket;sovhoz Tejen;Tedzhen Sovkhoz
+Altunizade|TR||94|35y|28p|3r
+Alt-Treptow|DE||8r|41t|11e|3o|Treptow
+Altınekin|TR||94|2yf|2jb|3n
+Altona North|AU||8j|-2x3|b6d|3m|North Altona
+Altpınar|TR||94|30w|2iz|3l
+Altötting|DE||8r|3pz|z8|3l|Oidäding
+Alto do Rodrigues|BR||2w|-ep|-2u4|3h
+Altenstadt|DE|Hesse|8r|3vp|ou|3g
+Altstadt|DE|Baden-Wurttemberg|8r|3oe|ph|3d
+Al Twar First|AE||6c|1y7|49s|3d
+Alto Taquari|BR||2k|-1dk|-440|38
+Altona|AU||8j|-2x7|b6b|37
+Alto Alegre dos Parecis|BR||4l|-xp|-4rt|37
+Altdorf|DE|Bavaria|8r|3pr|xu|36
+Altensteig|DE||8r|3qz|nw|35
+Al Twar 3|AE||6c|1y5|49v|34|Al Twar Third
+Alto Parnaíba|BR||2w|-pb|-3jl|33
+Alto Rio Doce|BR||4w|-1mf|-3cl|31
+Altstätten|CH||a7|3nm|qj|2y
+Alto Paraíso de Goiás|BR||4w|-13a|-3o0|2v
+Kanjiža|RS||8q|3jz|1jp|2u|Magyarkanizsa;Alt-Kanischa;Ungarisch-Kanischa;Kanizsa;Kanjiĵa;Ungarische Kanischa
+Altavilla Vicentina|IT||9o|3if|vv|2t
+Altusried|DE||8r|3os|sd|2s
+Altenberge|DE||8r|40l|kr|2q
+Altenholz|DE||8r|474|s5|2p
+Alto Piquiri|BR||4w|-1ur|-44g|2p
+Altopascio|IT||9o|3dq|to|2m
+Altdorf|CH||a7|3m8|o0|2m|Artofe
+Älta|SE||9w|4kn|1ei|2l
+Altamirano|MX|Chiapas|3z|1ah|-73o|2k
+Altlandsberg|DE||8r|421|125|2g
+Alto Jequitibá|BR||4w|-1kr|-38k|2c|Presidente Soares
+Althengstett|DE||8r|3rc|of|2a
+Altos de San Francisco|PA||4g|om|-65n|2a
+Altar|MX||37|2dc|-8mo|27
+Alta Habana|CU||36|1s2|-6cw|27
+Altrip|DE||8r|3tc|nl|26|Aldrib
+Alto Paraguai|BR||2k|-14b|-4cw|25
+Hurbanovo|SK||8s|3oz|1ej|23|Ógyalla;Altdala
+Alto Rio Novo|BR||4w|-1gy|-35y|22
+Altsasu|ES||9d|3b6|-61|22|Alsasua
+Altoona|US|Wisconsin|2f|3gg|-720|21
+Altadore|CA||2s|3xq|-8sy|21
+Altomünster|DE||8r|3qf|va|21|Altmunster
+Altofonte|IT||9o|2xo|10x|1z|Parcu;Parco
+Alta Sierra|US|California|3p|2r9|-95b|1y
+Alta Sierra|US|California|3p|30q|-9c9|1x
+Altaneira|BR||2w|-jg|-32e|1w
+Alter do Chão|BR||4t|-6y|-48n|1v
+Gulbene|LV||9n|4eu|22b|1v|Alt-Schwaneburg;Golbėnė
+Altamirano|MX|Chiapas|41|1aw|-73z|1v
+Altach|AT||a2|3nj|qt|1u
+Altentreptow|DE||8r|455|10u|1t|Stôré Trzébiatowò;Altentreptova
+Altamira do Maranhão|BR||2w|-bl|-3ib|1s
+Thal|CH||a7|3nv|ql|1s|Altenrhein
+Altbach|DE||8r|3rc|q2|1s
+Altenkirchen|DE|Rheinland-Pfalz|8r|3wt|l8|1s
+Alto Horizonte|BR||4w|-13g|-3t2|1p
+Alt-Sanitz|DE||8r|45h|11r|1n
+Alto Boa Vista|BR||2k|-wf|-3yq|1n
+Alto Caparaó|BR||4w|-1ks|-38b|1m|Caparaó Velho
+Altınyayla|TR|Sivas|94|313|2u3|1l
+Altenkunstadt|DE||8r|3v9|v9|1k
+Altud|RU||9i|3dg|3dv|1k
+Altkirch|FR||9k|3oa|k4|1k
+Alton North (historical)|US||2f|212|-7l2|1j|Alton North
+Altınkum|TR|Aydın|94|2vs|23t|1j
+Altlußheim|DE||8r|3sy|nm|1h|Altlosse
+Altendorf|CH||a7|3n3|ok|1h
+Altos del Rosario|CO||27|of|-5q1|1g
+Altenberg|DE||8r|3x1|127|1g
+Altavilla Milicia|IT||9o|2xo|11n|1g
+Alto Vista|AW||1x|yx|-5ei|1f
+Altenbeken|DE||8r|3zs|ou|1f
+AL Twar Second|AE||6c|1y6|49u|1f
+Alto del Carmen|CL||4u|-27w|-5ft|1e|Alto del Karmenas;Alto del Caimen
+Alto Salaverry|PE||3o|-mr|-63f|1e
+Altınsu|TR||94|2vo|3fr|1e
+Altınözü|TR||94|2sc|2sp|1c
+Altshausen|DE||8r|3p5|qh|1c
+Oltintopkan|TJ||6d|34x|5dc|1c|Altyn-Topkan
+Altenstadt|DE|Bavaria|8r|3ps|s3|1c
+Altos|PY||1y|-1y6|-4f1|1c
+Alto da Maia|PT||99|36h|-nt|1c
+Alto Boquete|PA||4g|oa|-6cz|1b
+Altenstadt an der Waldnaab|DE||8r|3u4|xs|1b|Oidnstod an da Woidnaab
+Alto Lucero|MX|Veracruz|41|1ii|-7gp|1b
+Altamira|DO||4v|1io|-5gs|1a
+Altedo|IT||9o|3g3|vx|19
+Altmünster|AT||a2|3p2|128|19|Oidmünsta;Altmuenster
+Altes Hochschulviertel|DE||8r|417|t9|18
+Altdorf|DE|Baden-Wurttemberg|8r|3r3|p0|18
+Althütte|DE||8r|3rw|ql|17
+Altenmarkt|DE||8r|3oq|xq|16
+Altenmarkt im Pongau|AT||a2|3nm|11a|16|Oidnmorkt im Pongau
+Altona|CA||5d|3se|-7j0|16
+Altheim|AT||a2|3q1|10r|16
+Alturas|US|Florida|48|25f|-6b0|16
+Altınyayla|TR|Burdur|94|2us|2a3|16
+Altenheim|DE||8r|3qn|lq|15
+Alten Buseck|DE||8r|3wm|ob|15
+Altafulla|ES||9d|36a|3t|14
+Alto Alegre|BR|São Paulo|4w|-1ny|-3vc|13
+Altınova|TR|Yalova|94|351|29z|13
+Altenmünster|DE||8r|3qm|tf|12
+Alto del Espino|PA||4g|ol|-65s|11
+Altunhisar|TR||94|2xj|2nh|11|Anduğu;Ortaköy;Altınhisar
+Ahtanum|US||3p|3lc|-9b2|10|Ahtahnam;Atanum;Altahnum
+Altamira do Paraná|BR||4w|-1ww|-42f|10
+Althofen|AT||a2|3m7|147|z
+Altair|BR||4w|-1l0|-3sa|z
+Altavista|US||48|2v3|-649|z|Alta Vista
+Altzayanca|MX||41|1hz|-7jo|y|Villa Atltzayanca de Hidalgo;Atltzayanca;Actlzayanca;Alzayanca;Atlzayanca
+Altavilla Irpina|IT||9o|35x|152|x
+Altenstadt|DE|Bavaria|8r|3ou|u7|x
+Altura|ES||9d|32p|-1g|w
+Altstadt|DE|Mecklenburg-Vorpommern|8r|44z|vq|w
+Alteglofsheim|DE||8r|3rw|xw|w
+San Miguel Almoloyán|MX||41|1hs|-7p8|w|Altamirano
+Alto Feliz|BR||4w|-29n|-3yj|v
+Altdöbern|DE||8r|3zh|12z|v|Stara Darbnja
+Alto Paraíso|BR|Paraná|4w|-1tb|-459|v
+Altenglan|DE||8r|3tn|kr|u
+Alzingen|LU||9c|3tp|h4|u|Alzeng;Altzingen
+Altagracia|NI||3s|w5|-6lq|s
+Stará Bystrica|SK||8s|3t3|1gn|r|Alt-Bistritz
+Altavas|PH||71|w2|9g9|r
+Altayskiy|KZ||5s|3vl|6cs|r|Altay
+Vyšší Brod|CZ||9m|3r2|13r|q|Hohenfurth;Altum Vodum
+Alter do Chão|PT||99|30w|-la|q
+Alturas|US|California|3p|379|-9au|q
+Starý Jičín|CZ||9m|3tq|1dw|o|Alttitschein
+Altınüzüm|TR||94|2ul|2tl|o|Aydınoğlu;Xolto
+Altendiez|DE||8r|3vx|m6|n
+Altamont|US|Illinois|2f|30i|-6uj|n
+Alto de la Sierra|AR||1s|-1r6|-4tm|n|Alto de Sierra
+Altura|PT||99|2va|-ku|m
+Altmittweida|DE||8r|3xl|zz|l
+Althen-des-Paluds|FR||9k|3e8|ds|l|Lei Palús;Althen-les-Paluds
+Altamira|CO||27|5q|-5uj|l
+Stare Kurowo|PL||a5|42u|17k|l|Alt Karbe;Altkarbe
+Altare|IT||9o|3f6|n5|l|Artâ
+Altus Bosques|MX||41|1l5|-7z5|l
+Altfraunhofen|DE||8r|3ql|xt|l|Oidfraunhofa
+Altenau|DE||8r|3zw|t0|k
+Altomonte|IT||9o|32a|18t|k
+Altos de Chipión|AR||1n|-2e0|-4t6|k
+Altendorf|DE|Bavaria|8r|3v4|v1|k
+Altata|MX||3x|1wf|-8bt|k
+Altınkum|TR|Diyarbakır Province|94|2ya|362|k
+Altleiningen|DE||8r|3tj|mf|k
+Altukhovo|RU||9i|42c|2nh|j|Altukhova
+Niederalteich|DE||8r|3rh|106|j|Niadaoida;Altaha inferior;Niederaltaich
+Altnau|CH||a7|3o9|pq|j
+Alta|US|Iowa|2f|3aj|-7cp|j
+Altewiek|DE||8r|416|t9|j
+Alt Duvenstedt|DE||8r|470|qs|j
+Alto Bela Vista|BR||4w|-24a|-404|j
+Alterswil|CH||a7|3m0|k6|j
+Althegnenberg|DE||8r|3pz|ur|i|Henaberg
+Altenriet|DE||8r|3qz|pm|i
+Alto Alegre|BR|Rio Grande do Sul|4w|-27x|-437|i
+Altamont|US|New York|48|3am|-5pn|h
+Altenahr|DE||8r|3wc|jf|h|Altenaras
+Altiaghaj|AZ||61|35i|3ry|h|Altıağac;Altiagach;Alyagach;Altyagach
+Alto Río Senguer|AR||1m|-3h4|-5gq|h
+Altenthann|DE||8r|3se|y6|g
+Alto Santo Cruz|CV||84|1al|-1rq|g
+Altenmedingen|DE||8r|43l|tg|g|Ohmein
+Altrich|DE||8r|3us|j7|g
+Altamira|MX|Zacatecas|41|1sy|-7y3|f
+Alta Italia|AR||1s|-2q5|-4y4|f
+el Torricó / Altorricon|ES||9d|384|15|f|el Torricó;Altorricón
+Alcsútdoboz|HU||8v|3nr|1fo|e|Altschutt
+Altenkirchen|DE|Rheinland-Pfalz|8r|3tc|kc|e
+Altdorf|DE|Baden-Wurttemberg|8r|3qz|pr|e
+Altavilla Silentina|IT||9o|34l|161|e
+Dawson City|CA||2n|4xy|-arb|e|Dawson;Altepetl Dawson
+Altivole|IT||9o|3j3|x8|e
+Altishofen|CH||a7|3n4|m5|e
+Altenbüren|DE||8r|3yr|nn|d
+Altona|VI||53|1ey|-50f|d
+Altenbuch|DE||8r|3uf|q4|d
+Altefähr|DE||8r|46x|10h|d
+Alt - Lehndorf|DE||8r|417|t4|d
+Altıntaş|TR|Aydın|94|2wi|26n|d
+Alton|US|Iowa|2f|3bf|-7ep|d
+Altınkaya|TR||94|2za|2lu|d
+Alton Downs|AU||8c|-1sq|bln|c
+Alto|US|Texas|2f|2fx|-7c3|c
+Alt Meteln|DE||8r|45b|vi|c
+Altlichtenberg|AT||a2|3qc|13m|c
+Altkirchen|DE||8r|3xh|yb|c
+Alto|US|Georgia|48|2nr|-6g5|c
+Altorf|FR||9k|3qs|kx|c|Àldorf;Altdorf
+Altenfelden|AT||a2|3qp|12t|c
+Alteveer|NL|Groningen|8m|43d|jf|c
+Altengottern|DE||8r|3y4|te|b
+Altenkrempe|DE||8r|46d|u2|b
+Altenkirchen|DE|Mecklenburg-Vorpommern|8r|47s|112|b
+Altenfeld|DE||8r|3wg|ug|b
+Alt Wallmoden|DE||8r|40i|sm|b
+Alțâna|RO||8u|3jl|1vz|b|Alzen;Alcina;Alțîna
+Stara Kornica|PL||a5|40y|1rq|b|Kornica Stara;Alt Kornica;SteraKornica
+Alto de La Estancia|PA||4g|nv|-66q|b
+Altamont|CA||5b|3t2|-9i8|b
+Altenberg bei Linz|AT||a2|3qd|13v|b
+Alto|US|Wisconsin|2f|3dc|-6uo|a
+Altamont|US|Kansas|2f|2vb|-7cq|a
+Altamira de Zináparo|MX||3z|1fm|-6yq|a
+Altynemel|KZ||5s|3f6|61x|a|Altınemel;Altön-Emel’;Altin-Emel
+Althorne|GB||9b|3zi|24|a
+Altamont|US|Tennessee|2f|2qf|-6m4|a
+Altenpleen|DE||8r|46z|100|a
+Alto Alegre|AR||1n|-2hu|-4uo|a
+Sadove|UA|Odesa|98|3ju|29c|a|Neu-elft;Ferşampenuaz-Mare;Ferșampenuazul Mare;Sadowe;Alt Elft;Sadovoye;Fershampenazul Mare
+Alt Tucheband|DE||8r|41y|14b|a
+Alto Mira|CV||84|1bi|-1y2|a
+Starý Smokovec|SK||8s|3si|1k6|a|Altschmecks;Alt Schmecks
+Altynzhar|RU||8o|3kk|3qr|a
+Alto de la Cruz|PE||3o|-ev|-68d|a
+Altos de Jecopaco|MX||37|23h|-8h9|a
+Altlengbach|AT||a2|3pr|189|a
+Alta Vista|MX||2g|250|-848|a
+Alto Quiel|PA|Chiriquí Province|4g|oh|-6d3|a
+Altenberg|AT||a2|3qa|193|9
+Altkalen|DE||8r|45q|ze|9
+Altendorf|DE|Bavaria|8r|3t9|y4|9
+Altenmarkt bei Wies|AT||a2|3ls|16d|9
+Altoona|US|Alabama|2f|2mj|-6nt|9
+Alto del Camarón|MX||41|1bd|-7om|9
+Altheimer|US||2f|2nc|-735|9|Alteymer
+Alton|US|Missouri|2f|2tx|-71w|9
+Alt Mölln|DE||8r|44y|tm|9
+Altınyurt|TR||94|2ul|2w5|9
+Alton|US|Maine|48|3h3|-5ax|8
+Altillac|FR||9k|3gy|55|8|Altilhac
+Altınkent|TR||94|30d|29u|8|Altıntaş
+San Pedro el Alto|MX|Oaxaca|41|1ap|-7hl|8|Alto
+Altica|MX||41|1jt|-7jo|8
+Alto Electra|CV||84|1ak|-1rq|8
+Alt Krenzlin|DE||8r|444|vf|8
+Altamirada|MX||41|1ht|-7i1|8
+Alteckendorf|FR||9k|3rj|l4|8|Àltackedorf
+Althornbach|DE||8r|3so|ki|8
+Alto Perú|PE|Ancash|3o|-ov|-62a|8
+Alto Perú|PE|San Martín Department|3o|-hi|-5y6|8
+Altlichtenwarth|AT||a2|3r4|1ao|8
+Altenmarkt bei Sankt Gallen|AT||a2|3ok|14p|8
+Altenbamberg|DE||8r|3ua|lr|8
+Altenberga|DE||8r|3x7|w1|7
+Altdorf|DE|Rheinland-Pfalz|8r|3sx|mu|7
+Althüttendorf|DE||8r|434|12d|7
+Altona|US|New York|48|3gp|-5om|7
+Altus|US|Arkansas|2f|2qh|-78g|7
+Kestřany|CZ||9m|3sv|133|7|Alt Kesterschan
+Alto del Moralito|MX||41|1ob|-7jq|7
+Alto|US|California|3p|2xa|-9gd|7
+Yaroslavove|UA||98|3k8|28s|7|Malojaroslawez Druhyj;Malu Mic;Maloyaroslavets Segunda;Maloïaroslavets Drouhyï;Alt-Posttal;Maroyaroslavets Druhyi;Maroiaroslavets Druhyi
+Alto Lino|PA||4g|og|-6d0|7
+Alt Lenzing|AT||a2|3p9|11u|7
+Alto Solarine|CV||84|1ax|-1xe|7
+Alto de Ventura|MX||41|1af|-7nq|7
+Alta Luz|MX||41|1h1|-7hb|7
+Alto Verá|PY||1y|-22b|-4ax|6
+Autigny|CH||a7|3lu|ji|6|Altignes
+Altenmarkt bei Fürstenfeld|AT||a2|3mr|18l|6
+Alto Bonito Colonia|US||2f|212|-7m0|6
+Alt-Dietmanns|AT||a2|3rj|16q|6
+Altwarp|DE||8r|45a|13n|6
+Altwies|LU||9c|3tj|he|6|Altwis
+Altenhof am Hausruck|AT||a2|3pp|120|6
+Alta|US|California|3p|30x|-9bl|6
+Altmerdingsen|DE||8r|41q|s5|6|Altenbringensen
+Altos de Sevilla|MX||2b|1gd|-6uc|6
+Altamont|US|Pennsylvania|48|35b|-5vq|6
+Altweerterheide|NL||8m|3ya|fs|6
+Alt Schwerin|DE||8r|44n|yb|6
+Altnagelberg|AT||a2|3rp|15o|6|Alt-Nagelberg
+Alto de Capira|PA||4g|oa|-65w|6
+Altforst|NL||8m|401|fh|6
+Alto Quiel|PA|Chiriquí Province|4g|o9|-6e9|6
+Altamirano|MX|Chiapas|41|1bj|-75s|6
+Altersbach|DE||8r|3wu|t9|6
+Alto Bonito|US||2f|213|-7m0|6
+Alteveer|NL|Drenthe|8m|42c|i1|6
+Alt Brenz|DE||8r|44a|we|6
+Altenmarkt an der Triesting|AT||a2|3pe|18g|6
+Alt Bukow|DE||8r|460|w9|6
+Altenroda|DE||8r|3yc|w4|6
+Altviller|FR||9k|3sb|ip|6|Altweiler;Altwiller;Altziller
+Alto Fontainhas|CV||84|1a0|-1vo|6
+Alto Perillo|PE||3o|-jo|-5sq|6|Nuevo Olaya;Alta Perilla
+Alto Mayo|PE||3o|-fu|-5z7|5
+Altıntaş|TR|Bursa Province|94|32q|282|5|Sağırlar
+Altınova|TR|Afyonkarahisar Province|94|2xs|2b5|5
+Alterode|DE||8r|3zk|vm|5
+Altha|US||2f|2cx|-6kh|5
+Hauteville|CH||a7|3ln|jr|5|Altavila
+Altınpınar|TR||94|35d|2er|5
+Altneudörfl|AT||a2|3lq|18d|5
+Altlandenberg|CH||a7|3nl|on|5
+Alto San Ildefonso|PE||3o|-ju|-652|5|Alto San Iidefonzo
+Altlay|DE||8r|3uv|k7|5
+Altagracia|MX||41|1bb|-75p|5
+Altona|US|Illinois|2f|367|-6yg|5
+Alt Tellin|DE||8r|45k|10s|5
+Krążkowo|PL||a5|3zw|18n|5|Alt-Kranz
+Alton|US|New Hampshire|48|3cp|-5hu|5
+Altona|US|Colorado|2p|33h|-84g|5
+Altanbulag|MN||7s|3vs|87u|5|Altyn-Bulak;Altan Bulak

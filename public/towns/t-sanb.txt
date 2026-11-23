@@ -1,0 +1,168 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+San Bernardo|CL||4u|-2lb|-5ge|1xf
+San Bernardino|US||3p|2mr|-91t|1o1
+Miraflores|PE|Lima region|3o|-xn|-5xz|1g2|san borja
+San Blas-Canillejas|ES||9d|34c|-a2|17q
+Barakaldo|ES||9d|3ca|-8b|rw|Baracaldo;Sanbi;San Bizente;Done Bikendi;San Vicente de Baracaldo
+San Bernardino Tlaxcalancingo|MX||41|1gv|-7l0|f5|San Bernandino Tlaxcalancingo
+San Bartolomé de Tirajana|ES||83|25k|-179|ew|San Bartolomé Tirajana
+San Benedetto del Tronto|IT||9o|3bc|12k|cr
+San Buenaventura|MX|México|41|1hm|-7mm|cg
+San Bruno|US||3p|2wj|-9g1|c0
+San Benito|GT||32|1b0|-6xs|8k
+San Borja|BO||3n|-159|-55f|6u|San Borcha
+San Benito|US||2f|20l|-7j7|6t
+San Buenaventura|MX|Coahuila|44|236|-7u3|5p
+San Bartolomé|ES||83|28k|-11t|55
+San Benito Abad|CO||27|ot|-5sf|52|San Benito Abab
+San Bonifacio|IT||9o|3i4|vb|4t|Sambonifacio
+San Bartolo del Llano|MX||41|1if|-7p2|3e
+Heroica Villa de San Blas Atempa|MX||41|19d|-7cj|3c|San Blas Atempa
+San Bartolomé Tlaltelulco|MX||41|1hf|-7or|33
+San Bernardo|AR||1n|-23t|-4on|33
+San Bartolo Cuautlalpan|MX||41|1j2|-7n1|32|San Bartolo Cuautlapan
+Sanba|CN||7i|2af|8bc|30
+San Blas|MX|Nayarit|3x|1nu|-84h|2u
+San Buenaventura|MX|México|41|1hj|-7ox|2s
+San Bernardo del Viento|CO||27|pz|-5uz|2i
+Álvaro Obregón|MX|Michoacán|41|1j2|-7so|2g|San Bartolo
+San Basilio|PH||71|15r|9ay|29
+San Bartolo|MX|México|41|1j3|-7nj|28
+San Bernardo del Tuyú|AR||1l|-2ty|-4dg|1y
+San Buenaventura|MX|Chihuahua|2g|2aw|-8ai|1y
+San Benito|AR||1n|-2ga|-4nw|1w
+San Bartolo Tlaxihuicalco|MX||41|1it|-7ng|1s|San Bartolo
+San Bartolomé Atlatlahuca|MX||41|1gz|-7op|1r
+San Bartolomé Milpas Altas|GT||32|14l|-6zw|1r|San Barlotomé Milpas Altas
+San Blas|MX|Sinaloa|3x|20g|-8e4|1p
+San Bartolo de Berrios|MX||41|1o1|-7sr|1n|San Bartolo de Berrio
+Saint-Vincent-de-Tyrosse|FR||9k|3da|-3m|1n|San Bisentse;Sent Vincenç de Tiròssa
+San Bartolo|PE||3o|-ye|-5xa|1l
+San Bernardino|MX|México|41|1i4|-7mq|1l
+San Bernardino|GT||32|14e|-722|1j
+San Benito Xaltocan|MX||41|1hx|-7kp|1i
+San Benedetto Po|IT||9o|3h5|ud|1h|San Benedetto
+San Benigno Canavese|IT||9o|3hn|lm|1g
+San Bartolo Oxtotitlán|MX||41|1ii|-7oq|1g|San Bartolo Ortotitlan
+San Bartolo|MX|México|41|1im|-7mq|1f
+San Bartolomé Coatepec|MX||41|1hw|-7nv|1e
+San Bartolo Cuitareo|MX||41|1il|-7rg|1e
+San Bernardino|PY||1y|-1yb|-4f6|1b
+San Bartolomeo in Galdo|IT||9o|372|15q|19|San Bartolommeo in Galdo
+San Bartolome Xicomulco|MX||41|1hd|-7n7|17|San Bartolo Xicomulco
+San Bernabé Temoxtitla|MX||41|1gs|-7l5|17
+Sankt Blasien|DE||8r|3oo|ml|15|Saint Blasien;San Blasien;St. Blasien
+San Buenaventura Tecaltzingo|MX||41|1hh|-7li|15
+San Bartolo Coyotepec|MX||41|1b4|-7gn|14
+San Brancato|IT||9o|33u|196|14
+San Bovio-San Felice|IT||9o|3ia|pv|14
+San Buenaventura|MX|Hidalgo|41|1j2|-7nx|13
+San Benedetto dei Marsi|IT||9o|38p|11u|13
+San Bartolomé Aguas Calientes|MX||41|1ky|-7rb|12
+San Bartolomé Cuahuixmatlac|MX||41|1hl|-7kn|12
+San Baltazar Guelavila|MX||41|1ao|-7fi|y|San Baltasar Guelavila
+San Bartolo|MX|Oaxaca|41|1e9|-7ez|y
+San Biagio Platani|IT||9o|2w7|11l|y|San Biaggiu Platini
+San Bartolo el Viejo|MX||41|1hm|-7pa|x
+San Bartolomeo|IT|Lazio|9o|378|12i|w
+San Bernardo|CO||27|48|-5y1|u
+San Bartolomé de la Torre|ES||9d|2w1|-jr|u
+San Basilio|AR||1n|-2l2|-4yn|t
+San Bartolomé Ayautla|MX||41|1e3|-7gj|t
+Sanbornton|US||48|3ct|-5iu|r
+San Bartolomeo al Mare|IT||9o|3e0|mi|q
+San Biagio di Callalta|IT||9o|3iw|ye|q
+San Bartolo Tutotepec|MX||41|1ko|-7ks|q
+San Benito|PH|Central Luzon|71|159|9aj|p
+San Bernardo Tlalmimilolpan|MX||41|1ic|-7mf|p|San Bernardo Tlamimilolpan
+San Baltazar Chichicápam|MX||41|1ak|-7g1|o|San Baltasar Chichicapan;San Baltazar Chichicapan
+San Bartolomé Quialana|MX||41|1ay|-7g2|o
+San Bartolomé|MX|México|41|1gt|-7ow|o|San Bartolo
+San Bernardo|PH||71|1cc|9e7|o|San Bernardino
+San Bartolo|MX|México|41|1hh|-7py|o
+San Bartolo del Llano (San Isidro)|MX||41|1hn|-7pb|n
+San Benito|PH|Caraga|71|ro|9q1|n
+San Baltazar Loxicha|MX||41|18n|-7gv|m|San Baltasar Loxicha
+San Buenaventura Atempan|MX||41|1hp|-7ku|l
+San Bassano|IT||9o|3ho|r9|l
+San Bartolomeo In Bosco|IT||9o|3g9|wc|k
+San Bautista|UY||45|-2no|-4bg|j
+San Bartolomé Hueyapan|MX||41|1gv|-7k1|j
+San Biagio|IT|Veneto|9o|3i2|wm|j
+San Bartolomé Tenango|MX||41|1hh|-7l1|i
+San Biagio|IT|Lombardy|9o|3ha|u5|i
+San Bartolo Morelos|MX||41|1iz|-7ov|h|San Bartolo
+San Bernardo Mixtepec|MX||41|1aq|-7h6|h
+San Bernabé de las Canteras|MX||41|1ix|-7t0|h
+San Biagio|IT|The Marches|9o|3cw|11i|h
+Sanborn|US|New York|48|3bu|-634|g
+San Bartolomé|MX|Puebla|41|1gk|-7j6|g
+San Bartolomé Jocotenango|GT||32|167|-710|g
+San Bartolito Tlaltelolco|MX||41|1hb|-7ok|f|San Bartolito
+San Bartolomeo|IT|Lazio|9o|385|zw|f
+San Bartolo Ozocalpan|MX||41|1k6|-7od|f|Ozocalpan
+San Buenaventura|HN||56|15q|-6sf|f
+San Buenaventura|MX|Puebla|41|1gi|-7k1|e
+San Bernardo|MX|Guanajuato|41|1m9|-7uz|e
+San Bartolo Lanzados|MX||41|1j7|-7ph|e
+San Biagio|IT|Emilia-Romagna|9o|3fv|wz|e
+San Bartolomé Loxicha|MX||41|18d|-7gn|e
+Sanborn|US|Iowa|2f|3by|-7dq|e
+San Bernardo|MX|Guanajuato|41|1kv|-7su|e
+San Bernardino de Milpillas Chico|MX||44|1sy|-843|d
+San Bartolo|GT||32|15w|-722|d
+San Bernardino Lagunas|MX||41|1fo|-7i7|d|Lagunas
+San Basilio|IT|Sardinia|9o|31u|pk|d
+San Bernardo Peña Blanca|MX||41|1ku|-7tw|c
+San Benito|MX|Michoacán|41|1ir|-7w8|c
+San Bernardino Verbano|IT||9o|3jo|no|c
+San Bartolomeo|IT|Emilia-Romagna|9o|3g3|ta|b
+San Baltazar Atlimeyaya|MX||41|1gr|-7lk|b|San Baltasar Atlimeyaya
+San Benito Encinal|MX||41|1dz|-7ef|b
+San Bartolo del Progreso|MX||41|1h3|-7o5|b|San Bartolo
+San Blas|MX|Zacatecas|41|1py|-7v7|b
+San Bernardo|MX|Sonora|37|244|-8ec|b
+Sanbornville|US||48|3cz|-5hb|b
+San Basile|IT||9o|32l|18w|a
+San Bartolomeo Val Cavargna|IT||9o|3k0|pf|9
+San Bartolomé Tepetates|MX||41|1iu|-7ls|9
+San Biagio della Cima|IT||9o|3dq|l9|9
+San Bartolomé|PE||3o|-x3|-5wl|9|San Bartollomé
+San Bernardino|MX|Oaxaca|41|17v|-7gy|9|San Bernadino
+San Baltazar|MX||41|1g7|-7jk|9
+Sânbotin|RO||8u|3hi|1vq|8|Sînbotin
+San Bartolo|MX|Hidalgo|41|1k9|-7li|8
+San Bartolo (El Puerto)|MX||41|19w|-724|8
+San Bernardo|MX|Puebla|41|1el|-7ki|8
+San Buono|IT||9o|38m|14h|8
+San Bernardino|IT|Piedmont|9o|3h4|kk|7
+San Bartolo|MX|San Luis Potosí|41|1py|-7pw|7
+San Bellino|IT||9o|3h3|w7|7
+San Basilio|IT|Sicily|9o|2xm|152|7
+San Bartolo|IT||9o|3f8|xu|7
+San Bernardo|MX|Durango|44|208|-854|7
+San Bartolo Línea|PA||4g|n3|-6e8|7
+San Bartolomé de Pinares|ES||9d|34m|-cm|7
+San Benedetto Ullano|IT||9o|31j|18s|7
+San Bartolomé del Pino|MX||41|1k2|-7pz|7|San Bartolo;San Bartolomé
+San Bernardo|MX|Guanajuato|41|1kk|-7ux|7
+San Bartolo del Escobal|MX||41|1kr|-7ja|7
+San Benedetto Val di Sambro|IT||9o|3et|v8|7
+San Blas Otzacatipan|MX||41|1hu|-7ol|6
+San Biagio|IT|Emilia-Romagna|9o|3gm|uw|6
+San Buenaventura|MX|Colima|41|1gt|-81c|6
+San Bruno|MX||3x|23g|-8nk|6
+San Briccio|IT||9o|3i9|uw|6
+San Bartolo Yautepec|MX||41|19n|-7el|6
+San Biagio della Valle|IT||9o|3bi|y5|6
+San Biase|IT||9o|30y|18p|6
+San Biagio|IT|Piedmont|9o|3fk|l5|6
+San Bernardino|IT|Emilia-Romagna|9o|3fn|x1|6
+San Benito|PE||3o|-km|-639|5
+San Benedetto|IT||9o|3el|r6|5
+San Biagio|IT|Lombardy|9o|3in|t2|5
+San Bartolo|MX|Guerrero|41|1em|-7qu|5
+San Baronto|IT||9o|3ds|uc|5
+Sanbadougou|CI||0|rq|-m4|5|Sambadougou
+San Bartolomé Coro|MX||41|1j9|-7s8|5
+San Benito|MX|Sinaloa|3x|1yy|-8bc|5

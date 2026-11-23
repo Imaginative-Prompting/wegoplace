@@ -1,0 +1,102 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Reutov|RU||9i|4aw|2x6|ls|Reutow;Reoutov;Rieutow;Rjeutow
+Rieti|IT||9o|39s|zq|av
+Rietberg|DE||8r|3zx|nf|8d
+Riesa|DE||8r|3yj|10x|86|Ryzawa;Rīza
+Rijssen|NL||8m|41b|i4|7p|Riessen
+Rēzekne|LV||9n|4cz|23y|7c|Rzeżyca;Riezeknė;Rēzne;Rositten
+Riedstadt|DE||8r|3uf|nm|6f|Ridştadt
+Riehen|CH||a7|3o6|l9|5k
+Riemst|BE||8t|3x5|fk|4e|Riempst
+Riegelsberg|DE||8r|3sy|j9|4c
+Riedisheim|FR||9k|3on|kh|3j
+Rielasingen-Worblingen|DE||8r|3ol|ok|3c
+Ried im Innkreis|AT||a2|3px|11h|3b|Riad im Innkreis;Rydas
+Redkino|RU||9i|4dd|2su|37|Riedkino
+Riesi|IT||9o|2vk|134|37
+Riehl|DE||8r|3xl|je|34
+Riedlingen|DE||8r|3pr|qc|2w|Redlinga
+Riedenberg|DE|Baden-Wurttemberg|8r|3re|pl|1r
+Ries|AT||a2|3ms|171|1m
+Riebeek-Kasteel|ZA||o|-2kq|1gi|1l
+Riedenburg|DE||8r|3s0|wh|1l|Rianbuach
+Riedering|DE||8r|3ow|xx|1h
+Riebeek West|ZA||o|-2kn|1gf|1g|Riebeek-Wes
+Rietz Neuendorf|DE||8r|413|13d|19
+Riederich|DE||8r|3qw|pr|18
+Rietkuil|ZA||o|-201|2at|18
+Riec-sur-Belon|FR||9k|3ov|-aa|16|Rieg;Rieo-sur-Belon;Riec
+Riegel|DE||8r|3pr|lj|z|Riege
+Riese Pio X|IT||9o|3j1|x4|y
+Reamstown|US||48|33p|-5vg|y|Riemeschteddel
+Rietavas|LT||a3|4at|1ow|w|Rietavo;Retavas
+Rieden an der Kötz|DE||8r|3qe|si|w
+Rieste|DE||8r|41s|m9|w
+Rieni|RO||8u|3ld|1qd|v|Rieny
+Rietschen|DE||8r|3ys|152|v|Rěčicy
+Rietvlei|ZA||o|-2cr|2av|u|Rietvley
+Ried|DE||8r|3qo|va|u
+Rieden|DE|Bavaria|8r|3t0|x6|u
+Rieumes|FR||9k|3cl|34|u|Riumas
+Rieux|FR|Brittany|9k|3o8|-5v|r|Reoz
+Riede|DE||8r|435|ov|r|Rier
+Rietheim-Weilheim|DE||8r|3pe|od|q
+Rieseby|DE||8r|47i|ra|q|Risby
+Riethoven|NL||8m|3yn|ez|p
+Rietz|AT||a2|3nd|un|n
+Rieux-Minervois|FR||9k|3c8|77|m
+Rieschweiler-Mühlbach|DE||8r|3sr|ku|m|Rieschwiller-Mihlbach
+Rieneck|DE||8r|3v5|qt|l
+Rieux-Volvestre|FR||9k|3c6|3c|l|Rius;Rieux;Rivi
+Riezlern|AT||a2|3nk|sb|k
+Rieder|DE||8r|3zp|v1|k
+Rieupeyroux|FR||9k|3f3|68|k
+Riez|FR||9k|3dq|gx|i|Reius;Riés
+Rieux|FR|Hauts-de-France|9k|3sy|70|h
+Riedlingsdorf|AT||a2|3nj|18t|g|Rödöny
+Riedholz|CH||a7|3n7|l1|g
+Riestedt|DE||8r|3z1|vk|f|Riestadt
+Rieulay|FR||9k|3vy|91|f
+Ried|IT||9o|3md|w0|e
+Rietbron|ZA||o|-2je|1sb|e
+Rieux-en-Cambrésis|FR||9k|3vg|9b|e
+Ried im Traunkreis|AT||a2|3pf|133|e
+Rieden|DE|Rheinland-Pfalz|8r|3w0|jy|d
+Ried in der Riedmark|AT||a2|3q3|14d|d
+Ried im Zillertal|AT||a2|3ne|wz|d
+Ried im Oberinntal|AT||a2|3mp|tl|d
+Rieden|DE|Bavaria|8r|3p7|tl|c
+Riegsee|DE||8r|3oi|v7|c
+Riethnordhausen|DE|Thuringia|8r|3xw|uk|b
+Riedenberg|DE|Bavaria|8r|3vs|re|b
+Riefensberg|AT||a2|3ny|ro|b
+Riepsdorf|DE||8r|46n|uh|b
+Riesel|US||2f|2ff|-7h8|a
+Riego de la Vega|ES||9d|39r|-gm|a
+Riesci|IT||9o|343|1e9|a
+Rieux-de-Pelleport|FR||9k|3bm|4h|9
+Riegelsville|US||48|34r|-5sw|9
+Riederberg|AT||a2|3q1|18q|8
+Riečka|SK||8s|3rg|1h0|8
+Riekofen|DE||8r|3rw|yb|8
+Riedt|CH||a7|3ny|nj|8
+Riedersbach|AT||a2|3pe|zp|8
+Riedenheim|DE||8r|3to|rq|8
+Rietgrabenhang|CH||a7|3nq|nu|8
+Riebelsdorf|DE||8r|3xc|pv|8
+Riegersbach|AT||a2|3nq|186|7
+Riesweiler|DE||8r|3us|l0|7
+Rienne|BE||8t|3uv|dk|7
+Riespach|FR||9k|3o2|k9|7
+Rieutort-de-Randon|FR||9k|3fz|9o|7|Rieutort
+Rieux|FR|Normandy|9k|3uq|4e|7
+Riegersburg|AT||a2|3mk|189|6
+Riedhausen|DE||8r|3p3|q7|6
+Rielves|ES||9d|330|-bn|6
+Riegelwood|US||48|2ne|-61b|6
+Riethnordhausen|DE|Saxony-Anhalt|8r|3yu|v8|6
+Riecito|PE||3o|-d4|-67n|5
+Rietmolen|NL||8m|40u|ii|5|Rietmole
+Riegersdorf|AT||a2|3lb|12a|5
+Riedikon|CH||a7|3nh|o7|5
+Riedelberg|DE||8r|3sm|kp|5

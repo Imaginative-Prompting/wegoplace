@@ -1,0 +1,255 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Foshan|CN||7i|1rz|8q9|1xrt|Phật Sơn;Fo-šan;Fu̍t-sân-sṳ;Fošanas;Fosjan;Foŝan;Hu̍t-san-chhī;Hŭk-săng;Hotokeyama;Fak San;Fuk Shan;Fut Shan;Fatshan
+Pudong|CN||7i|2es|9di|17u7|Phố Đông
+Fuzhou|CN|Fujian|7i|20e|97f|vld|Fucheu;Phúc Châu;Hók-ciŭ;Fudžou;Fu-čou;Fuk-chû-sṳ;Futsjou;Fuĝoŭo;Hok-chiu-chhī;Fucsou;Focheum;Fuzcouh;Fuçjou;Fužov;Fu-chou;Fuchau;Fouzhou
+Busan|KR||7h|2pi|9yf|pcj|Pusano;Pusan;Phủ San;Pusana;Fusan
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Puning|CN||7i|1sr|8yp|ff6|Phổ Ninh
+Fuyang|CN|Anhui|7i|2je|8xq|dnd|Fu-jang;Phụ Dương;Pâiu-iòng;Hū-iông-chhī;Fuyan;Fou-yang
+Phoenix|US|Arizona|4i|2kx|-8nb|cqd|Fenikso;Pēniki;Féniks;Fīniksa;Finiksas;Hoozdoh;Phoeniks;Finiks;Finiksos;Phenix
+Philadelphia|US|Pennsylvania|48|32z|-5ss|c57|Filadelfia;Philadelphie;Filadelfie;Filadelfio;Filadelfija;Filadelfi;Philly;Fi-sàng;Filadélfiye;Filadelfiya;Filadelfijo;Filadelfii
+Phnom Penh|KH||78|w4|83g|c53|Phnum Pénh;Nom Pen;Pnompenis;Phnom-Penh;Phnompenh;Pnom Penh;Pnom Pene;Phon Phen;Phnum Pény;Phnompen;Pnom Pen;Pnompeņa;Pnompeno;Pnompen;Phnom Pen
+Putian|CN||7i|1yo|96l|bvm|Buò-dièng;Pchu-tchien;Phù-thièn-sṳ;Putyen shehiri;Phủ Điền;Phô͘-chhân-chhī;P’u-t’ien
+Fushun|CN||7i|38d|9ka|at2|Fusjun;Fu-šun;Fuŝuno;Fušunas;Phủ Thuận;Ū-sông;Fusun;Bú-sūn-chhī;Fu-shan
+Amman|JO||5t|2gs|2rv|9uf|Amano;Aman;Amanas;Amã;Amans;Philadelphia;Amani
+Fuzhou|CN|Jiangxi|7i|25o|8z5|8er|Ū-ciŭ;Fu-čou;Vù-chû-sṳ;Phủ Châu;Bú-chiu-chhī;Fu-chou
+Pingxiang|CN|Jiangxi|7i|24q|8s9|6w8|Bìng-hiŏng;Pching-siang;Phìn-hiông-sṳ;Bình Hương;Phêng-hiong-chhī;Dingsiang;Pingsiang;P’ing-hsiang
+Fuxin|CN||7i|38q|9dy|5bf|Fu-sin;Fusin;Fusinas;Phụ Tân;Pâiu-sĭng;Hū-sin-chhī;Fu-hsin
+Puyang|CN|Henan|7i|2rc|8vk|525|Bŭk-iòng;Pchu-jang;Pujang;Bộc Dương;Phok-iông-chhī
+Fengshan|TW||7l|1qv|9ac|2r1|Fongshan District;Feng-šan;Fung-sân-khî;Fengšanas;Phượng Sơn;Feng-shan;Fongshan
+Plovdiv|BG||9v|393|1wr|2jj|Plowdiw;Philippopolis;Filibe;Filippopoli;Filipopul;Filipopol;Filippopol;Filiba;Plovdin;Philippopoli
+Phu Quoc|VN|An Giang|6h|se|80t|29s|Koh Trol
+Phú Mỹ|VN||6h|tj|89f|27r
+Thành Phố Bà Rịa|VN||6h|t6|89p|1tc|Bà Rịa;Tanh Fo Ba Ria
+Phổ Yên|VN||62|1ni|865|1sa
+Phan Thiết|VN||6h|ud|8ca|1rh|Fan Thiet;Phan Tiet
+Phan Rang-Tháp Chàm|VN||6h|w4|8er|1ls|Phan Rang;Phan Rang- Thap Cham;Phan Ranh
+Phra Pradaeng|TH||62|11y|7r9|1ih|Bhra Pradeng
+Cẩm Phả|VN||62|1md|89z|1gu
+Phusro|IN||6t|1u0|6mx|1fk
+Phúc Yên|VN||62|1n0|85m|1e0
+Phú Quốc|VN|An Giang|6h|sl|80x|1dv
+Đức Phổ|VN||6h|155|8eo|179
+Phủ Lý|VN||62|1l3|867|11z|Phu-li
+Cẩm Phả Mines|VN||6h|1me|8a2|11n
+Thành phố Sông Công|VN||6h|1no|860|zo|Sông Công
+Lat Phrao|TH||62|12c|7rh|xy
+Phasi Charoen|TH||62|123|7r0|xx
+Pforzheim|DE||8r|3rs|o6|x5|Phorca;Pforcheimas;Porta Hercyneae
+Pattaya|TH||62|zx|7s8|wc|Phattaya;Phatthaya
+Phong Điền|VN|Thừa Thiên Huế Province|62|1a2|8a8|vw
+Phool Nagar|PK||6q|2eo|5pf|vt
+City of Port Phillip|AU||8j|-2x3|b6m|vb
+Phalaborwa|ZA||o|-1ui|2ei|uf|Palabora
+Si Maha Phot|TH||62|12t|7tz|ry|Srimahābhot;Srimahapho
+Phagwāra|IN||6t|2eq|5uh|rt
+Phong Điền|VN|Can Tho City|6h|rs|85j|rc
+Phú Thọ|VN||62|1ng|84a|ph|Pho Tho;Phu To
+Phra Khanong|TH||62|122|7rg|p4|Prakanong;Phrakhnong;Phrakanhong;Bhra Khanong
+Puli|TW||7l|1ul|9c1|o0|Phû-lî-tsṳ́n;Po͘-lí-tìn;Hori;Phố Lí;P’u-li
+Phuthaditjhaba|ZA||o|-278|282|nf|Phutaditjhaba
+Phulwari Sharif|IN||6t|1z2|6kb|mp
+Phuket|TH||62|lx|7lc|m1|Pxuket;Puketo;Bhuket
+Pharr|US||2f|20r|-7kq|l9
+Khalándrion|GR||8p|2xm|1u4|km|Chalandri;Phlya;Khalándri;Khalándhrion
+Phaya Thai|TH||62|12a|7ra|ji
+Phúc Lợi|VN||62|1mh|869|ik
+Akşehir|TR||94|2yk|2fa|hw|Philomelium;Philomelion
+Phitsanulok|TH||62|1aq|7qi|he|Phitszanulok;Philtsanuloke;Pitsanulok;Pitsanuloke;Bhisanulok;Pitsanoulok
+Phalia|PK||6q|2i3|5oe|hd
+Phra Phutthabat|TH||62|14x|7s0|fu|Phra Phutthabet
+Phong Thạnh|VN||6h|pw|84n|ez
+Phaltan|IN||6t|1dz|5qr|es
+Phra Nakhon|TH||62|129|7r6|e8
+Phra Nakhon Si Ayutthaya|TH||62|13v|7re|e4|Ayutthaya;Ajuthaja;Phra Nakhon Si Ax Ayutthaya;Ayutthia;Ayuthaya;Ayuthya
+Phetchabun|TH||62|19m|7t0|e3|Pechabun;Petchabun
+Phalodi|IN||6t|23d|5l1|dv
+Phú Khương|VN||6h|vc|86t|dc
+Phetchaburi|TH||62|10f|7pm|cy|Fetçaburi;Pechaburi;Petchaburi
+Phumĭ Yoŭl Toŭng|KH|Takeo|78|vc|82y|cc
+Phumĭ Véal Srê|KH||78|ui|832|cb
+Phatthalung|TH||62|l6|7q0|c3|Phattalung;Phatalung;Patalung;Phathalung
+Fondi|IT||9o|36w|11b|b2|Fundi;Phoundoi;Phondai;Fundia
+Phú Thương|VN||62|1ml|85x|ax
+Phrae|TH||62|1ef|7q6|ap|Prae
+Phola|ZA||o|-208|28n|am
+Phultala|BD||6a|1r4|6wn|ak
+Phenix City|US||48|2i7|-6k4|ag
+Phulbāni|IN||6t|1kw|6hz|ae|Phulbam;Phulabāni
+Photharam|TH||62|121|7pd|a2|Bhōdhārām
+Phichit|TH||62|19o|7qr|9y|Pichit;Bhichit
+A Yun Pa|VN||6h|118|8d8|9r|Cheo Reo;Phú Bổn;Hậu Bổn;Ayun Pa
+Fort Bragg|US|North Carolina|48|2pm|-63h|84|Fort Liberty;Fuorto Bragg;Pháo đài Bragg;Fort-Bragg
+Foça|TR||94|2zf|22c|7y|Foujes;Phogia;Fouges;Focha;Foja
+Phuntsholing|BT||7p|22l|6wb|7p|Phuentsholing;Phuentŝolingo;Punčolingas;Phuntsoling;Phunchholing
+Phulera|IN||6t|22n|5t0|79|Phalera
+Phú Quý|VN||6h|t8|8el|71
+Phumĭ Véal Tônsay|KH||78|wi|82i|70|Phumĭ Véal Tŭnsay
+Phước An|VN||6h|zb|8cu|6z
+Phillaur|IN||6t|2e6|5uj|6v
+Phomolong|ZA||o|-25t|238|6u
+Phulpur|IN|Uttar Pradesh|6t|1yz|6c1|6d
+Ấp Phước Tĩnh|VN||6h|sw|89q|65|Phuoc Tinh
+Phanat Nikhom|TH||62|11d|7t2|63|Phanatikhom
+Phumĭ Tnaôt|KH||78|zz|82h|61
+Phayao|TH||62|1hb|7pg|5v|Fayao;Bhayao;Prayao
+Filadelfia|PY||1y|-1q2|-4mr|5j|Filadelfio;Filadelfija;Filadelfiya;Philadelphie;Philadelphia
+Phibun Mangsahan|TH||62|16c|84b|5j|Pibulmangsahan;Phimun Mangsahan;Phibun Mangdshan;Phinum Mangsahan
+Phak Hai|TH||62|146|7qt|5e
+Phan Thong|TH||62|11f|7st|57
+Phalauda|IN||6t|293|607|55|Phalawda
+Thị Trấn Ba Chẽ|VN||62|1n3|8a0|4v|Phố Ba Chè
+Phirangipuram|IN||6t|199|66y|4t
+Phu Khiao|TH||62|19i|7vp|4r|Pho Khieo;Phu Khieo
+Phaphūnd|IN||6t|21w|64q|4n
+Phoenixville|US||48|33h|-5tr|4n|Phenixville
+Phum Ânlŭng Vĭl|KH||78|10c|7ys|4l|Phumĭ Ânlŭng Vĭl;Phumĭ Ânlóng Vĭl
+Phumĭ Âmpĭl Leu|KH||78|xd|84v|4h
+Phu Kradueng|TH||62|1aw|7v0|4h|Phu Kradung
+Phanom Sarakham|TH||62|127|7tj|4h
+Phú Đô|VN||62|1me|85t|4g
+Phước Hòa|VN||6h|xm|89k|4a
+Phon Charoen|TH||62|1e3|7yl|48
+Phek|IN||6t|1zb|7ai|47
+Phú Lộc|VN|Can Tho City|6h|q7|85q|47
+Phon|TH||62|17y|7x0|42
+Phillipsburg|US|New Jersey|48|351|-5sv|41|Philipsburg
+Phelan|US||3p|2nn|-92l|3z
+Ou Char|KH||78|10f|7yn|3y|Phum Prey Chĕn
+Phumĭ Ânhchaeum|KH||78|wx|85n|3u
+Phôngsali|LA||7v|1o8|7vm|3r|Fong Sali;Phong Saly
+Phuljhuri|BD||6a|1po|6y7|3o
+Phai Sali|TH||62|17c|7rl|3n
+Phimai|TH||62|16a|7wp|3n|Pi Mai
+Phūp Kalān|IN||6t|220|633|3j
+Phanom Thuan|TH||62|139|7oy|3h
+Philippsburg|DE||8r|3sr|ni|3g|Filisburgo
+Phayuha Khiri|TH||62|16y|7q6|3f|Phayua Khiri
+Pho Thong|TH||62|14r|7qx|3e
+Ấp Phú Hòa|VN||6h|ua|841|3d|Phú Hòa
+Phú Túc|VN||6h|10o|8dx|3c
+Phụng Nghia|VN||62|1m7|85o|37|Phương Nghia
+Phrai Bueng|TH||62|14z|81w|37|Phrai Bung
+Phumĭ Ângkôr Borei|KH||78|uj|83l|33
+Đại Đồng|VN||6h|183|8c2|2z|Phước Lộc
+Fársala|GR||8p|315|1q6|2w|Pharsale;Pharsalus;Farsalos;Farsalia
+Phayakkhaphum Phisai|TH||62|174|7yn|2u
+Pyeongchang|KR||7h|2vt|9wn|2r|Pchjongčchang;Pjonĉango;Phjongcshang;Pjončano apskritis;Phjončhana;Phìn-chhông-khiùn;Pjongczang;P’yŏngch’ang
+Phang Nga|TH||62|nh|7lp|2p|Fan Nqa;Bhangnga;Phung Nga;Pan Nga;Phangnga
+Phūlpur|IN|Uttar Pradesh|6t|20g|6e8|2h
+Preaek Saman|KH||78|y4|86j|2h|Phum Prêk Samann;Phumĭ Prêk Samăn
+Phakamisa|ZA||o|-2jh|24a|2g
+Phatsima|ZA||o|-1yj|231|2g
+Roka Khnaor|KH||78|y1|85s|2g|Phum Kândal Phumĭ;Phumĭ Kândal Phumĭ
+Phumĭ Khchau|KH||78|x4|842|2f
+Phố Châu|VN||62|1ff|84u|2d
+Phamong|LS||12|-2c1|258|2c
+Philippeville|BE||8t|3vg|cm|29|Flipveye;Phillippeville
+Phúc Sơn|VN||6h|1gp|83t|25
+Phumĭ Tnaôt Chŭm|KH||78|ys|83u|25
+Khŭm Ângkôr Ban|KH||78|x8|849|25|Phumĭ Ângkôr Ban
+Philadelphia|US|Mississippi|2f|2j1|-6vk|22|Filadelfia
+Phong Châu|VN||6h|1n0|84v|21
+Phillip Island|AU||8j|-2yw|b7f|1z
+Phalombe|MW||9|-17x|2r1|1y|Palombe
+Ph’av|KH||78|xf|83k|1y|P’a Av;Pha Av;Phâav
+Phumĭ Koŭk Kóng|KH||78|wl|85a|1v|Phum Kok Kong
+Chhloung|KH||78|y2|86d|1u|Phum Chhlong;Phumĭ Chhlong;Chlong;Chhlong
+Pinglin|TW||7l|1xa|9e3|1t|Phiâng-lìm-khî;Bình Lâm;P’ing-lin
+Phumĭ Ândong Snay|KH||78|xt|82r|1s
+Damnak Khchas|KH||78|11i|7z9|1s|Phum Dâmnak Chas;Phumĭ Dâmnăk Chăs
+Pharihā|IN||6t|23w|61z|1s
+Han Chey|KH|Kratie|78|y2|86b|1s|Phum Hănchey Leu;Phumĭ Hănchey Leu
+Phulwartanr|IN||6t|1u1|6nj|1n
+Phúc Trạch|VN||6h|1ed|85t|1k
+Phrao|TH||62|1ht|7nk|1j
+Phú Lộc|VN|Hà Tĩnh Province|62|1f8|85j|1i
+Khpob Ateav|KH||78|uq|847|1i|Phum Khpôp A Téav;Phumĭ Khpôp A Téav;Phumĭ Khpôb A Téav
+Filiatrá|GR||8p|2v8|1nz|1i|Philiatra
+Phumĭ Ândong Poŭthĭ|KH||78|vk|85x|1e
+Phalempin|FR||9k|3wc|8e|1b
+Phalsbourg|FR||9k|3rh|k6|1b|Pfalzburg
+Filippiáda|GR||8p|30w|1m0|1a|Philippiáda;Filippiás
+Philomath|US||3p|3fq|-9ip|1a
+Reaksmei Sameakki|KH||78|w8|81e|1a|Phum Taông Maông;Phumĭ Taŏng Maông
+Philippsthal|DE||8r|3x8|rt|1a
+Phoenix|US|Oregon|3p|39g|-9h6|1a
+Anlong Run|KH||78|10l|7y7|19|Phum Ânlŭng Rŭn;Phumĭ Ânlŭng Rŭn
+Philippolis|ZA||o|-2c3|1y7|18
+Phoenix Lake|US||3p|2xl|-9a7|17|Tó Dah Siyíní
+Phum Krâkôr|KH||78|yq|86i|16
+Kou Loab|KH||78|yu|86m|14|Phum Kou Lôăp;Phum Kou Leăp
+Phù Ninh|VN||6h|1mk|86b|14
+Phổng Lăng|VN||6h|1nm|7zz|12
+Phương Linh|VN||6h|1nn|83y|11
+Phulra|PK||6q|2ne|5my|z|Phulera
+Frénaros|CY||6e|2pc|2m8|z|Frennaros;Frenaro;Phrenaros
+Philipstown|ZA||o|-2ck|1vz|y
+Khsach Andaet|KH||78|y1|863|x|Phum Prêk Sâmraông
+Philippi|US||48|30r|-66c|x|Phillippi;Phillippa
+Phillip|AU|Australian Capital Territory|8l|-2q7|bi5|v
+Phumĭ Nĭpéch|KH||78|zw|832|u
+Phing|CI||0|jd|-lr|t
+Phumĭ Katê Vat|KH||78|12d|89x|r
+Philipsburg|US|Pennsylvania|48|35m|-61a|r
+Stueng Chhay|KH||78|ue|80c|q|Phum Stœ̆ng Chhay;Phum Stoeng Hhay
+Lvea|KH||78|11g|803|q|Phum Lôvéa
+Phillipsburg|US|Kansas|2f|32g|-7nw|p
+Phumĭ Rôméas|KH||78|xj|82c|p
+Phoenix|US|New York|48|3c3|-5vy|n
+Phaëton|HT||4j|1io|-5jq|n
+Phippsburg|US||48|3dq|-5dx|m|Phipsburg
+Phaweni|ZA||o|-1rk|2di|l
+Phumĭ Trâpeăng Môntrei|KH||78|tq|82i|k|Trapeang Montrei;Phum Trapeang Montrey
+Kaoh Kaev|KH||78|vs|84b|k|Phum Kândal Kaôh
+Phoenix|US|Illinois|2f|37l|-6rf|k
+Phelps|US|New York|48|3bc|-5y2|j
+Phillip|AU|New South Wales|8l|-2eh|bn1|j
+Lvea Sa|KH||78|vu|847|i|Phum Lôvéa Sâr Leu
+Foros|UA||9t|3fb|2lv|i|Phoros
+Falzes|IT||9o|3m1|x0|i|Pfalzen;Phalanza
+Phalpota|IN||6t|2ee|5un|h
+Phillipston|US||48|3a7|-5kd|g
+Phumĭ Achén|KH||78|zs|86a|f
+Phumĭ Âu Lœ̆k|KH||78|11k|83v|f
+Philo|US|Illinois|2f|335|-6sw|f
+Phumĭ Prey Chék|KH||78|tl|82h|f|Prey Chek
+Phumĭ Srê Kăn|KH||78|tn|82l|e|Sre Kan
+Phumĭ Yoŭl Toŭng|KH|Kratie|78|zs|862|e|Phumĭ Yol Tong
+Phum Pir|KH||78|123|897|e
+Philipsburg|SX||3q|1e3|-4v5|e|Filipsburg;Filipsburgas;Filipsburga;Filipsburq;Philippoburgum
+Phillips|US|Wisconsin|2f|3iy|-6z4|e
+Philmont|US||48|39d|-5ol|d
+Nokor Pheas|KH||78|11x|805|d|Phum Lôbaeuk Khchar
+Philandersbron|ZA||o|-22h|1jt|d
+Phil Campbell|US||2f|2nf|-6rn|c
+Philadelphia|US|New York|48|3en|-5ub|c
+Phum Ti Muoy|KH||78|w1|7y3|c
+Phum Kaôh Trŭng|KH||78|yq|86f|a
+Phillips|US|Maine|48|3gi|-5fe|a
+Phi Phi Don|TH||62|li|7md|a
+Phú Vinh|VN||6h|193|8a2|9
+Preaek Khsach|KH||78|v9|7yb|9|Phum Prêk Khsach Thom;Phumĭ Prêk Khsach Thom;Phumĭ Prêk Khsăch Thum
+Phelps|US|Kentucky|48|2w7|-6c7|9
+Chrouy Pras|KH||78|vj|7ye|9|Phumĭ Chroŭy Prŏs
+Philipsburg|US|Montana|2p|3kp|-8qp|9
+Phaknam|KH||78|12x|88z|9|Phum Phak Nam
+Phum Buon|KH||78|125|895|9
+Kaoh Peak|KH||78|12z|88z|8|Phum Kaôh Piĕk
+Philippsreut|DE||8r|3rr|120|8
+Philip|US||2p|3ec|-7uf|8
+Phum Muoy|KH||78|11p|88i|7
+Philo|US|Ohio|48|32q|-6bj|7
+Phillip Bay|AU||8l|-2me|bo3|7
+Phum Băh Kê|KH||78|12v|889|7
+Phumĭ Rônteăh|KH||78|zy|84u|7|Phumĭ Rŭnteăh
+Phillipsburg|US|Georgia|48|2fc|-6g0|7
+Philadelphia|US|Tennessee|48|2r4|-6ig|7
+Pheasants Nest|AU||8l|-2n6|bmf|7
+Phumĭ Ta Vêng|KH||78|131|89j|6
+Phum Pakhlé|KH||78|100|87f|6
+Srae Pok Touch|KH||78|11f|88v|6|Phum Srêpôk Toch
+Phum Bei|KH||78|126|894|6
+Philadelphia|ZA||o|-2lj|1fm|6
+Phumĭ Arâng Khnay|KH||78|100|851|6
+Phillipsburg|US|Ohio|48|32u|-6ig|6

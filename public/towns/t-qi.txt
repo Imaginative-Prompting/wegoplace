@@ -1,0 +1,147 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Qingyang|CN|Gansu|7i|2r7|8b0|gee
+Qingyuan|CN|Guangdong|7i|1tu|8pz|dew|Chĭng-uōng;Čching-jüan;Chhîn-yén-sṳ;Thanh Viễn;Chheng-oán-chhī;Tsingyüan;Ch’ing-yüan
+Qinzhou|CN||7i|1p2|8dt|a03|Ginhcouh;Kĭng-ciŭ;Čchin-čou;Khîm-chû-sṳ;Khâm Châu;Khim-chiu-chhī;Ch’in-chou
+Qingpu|CN||7i|2ej|9cf|9t6
+Qiqihar|CN||7i|3ni|9kc|6t4|Cicikar;Tề Tề Cáp Nhĩ;Ĉiĉiharo;Qiqihaer;Čičiharas;Cà̤-cà̤-hăk-ī;Chhè-chhè-hâ-ngì-sṳ;Qiqiha’er;Jijihaer
+Qinhuangdao|CN||7i|32y|987|5v1|Chinxuangdaw shehiri;Tần Hoàng Đảo;Činhuangdao;Cjiņhuandao;Čchin-chuang-tao;Ĉinhŭangdaŭo;Cìng-huòng-dō̤;Chîn-hông-tó-chhī;Ch’in-huang-tao
+Qingshan|CN||7i|34y|8h8|5jt
+Kermanshah|IR||7o|2nb|3mr|4sj|Kermānschāh;Kermanŝaho;Provinco Kermanŝah;Kirmaşan;Kermaansjaah;Kirmanşah;Kermanšah;Ḳarmīsīn;Qirmisin
+Qionghai|CN||7i|1hg|8iu|42q
+Kyzylorda|KZ||7d|3gl|51z|2qk|Qızılorda;Perovsk;Kzyl-Orda;Ak-Mechet;Fort Perovsky;Qysylorda;Qyzylorda;Khizilordà;Kõzõlorda;Kizilorda;Qiziloʻrda
+Qitaihe|CN||7i|3j5|a3w|2nu
+Qibao|CN||7i|2ej|9d4|26q
+Qina|EG||c|20o|2ix|1y9|Qena;Qanā
+Qingzhou|CN||7i|2ty|954|1to
+Kırıkkale|TR||94|32p|2l3|1fy|Qırıxqele;Kirikalė
+Qianjiang|CN|Hubei|7i|2ci|8pl|1dr
+Kırşehir|TR||94|30r|2mw|15v|Qırşeher;Kirshekhir;Kirshehr
+Melitopol|UA||98|3m5|2qa|15d|Kyzyl-Yar;Novoalexandrovka;Qız Yar
+Qianjiang|CN|Chongqing|7i|2a1|8e5|13x
+Kyzyl|RU||6u|3zn|7ac|wi|Kysyl;Kizil;Kõzõl;Kizila;Këzëlli;Qizil
+Qiaotou|CN|Qinghai|7i|2um|7uf|vv|Ch’iao-t’ou
+Qingnian|CN|Shandong|7i|2uc|8xf|uk|Linqing;Lin-ch’ing;Lintsing
+Jizan|SA||7e|1ax|3a7|t8|Jāzān;Qīzān;Gizan;Gazan;Cızan;Jizon;Jaizan;Djāzān;Jezan
+Qincheng|CN||7i|23l|8zp|rs
+Qiongshan|CN||7i|1jl|8ij|od|Kiungshan
+Qiaoguan|CN||7i|2tk|968|mx
+Qinggang|CN|Chongqing|7i|29v|874|lu
+Qiuji|CN||7i|2lw|93s|l7
+Qingquan|CN|Hubei|7i|2cl|8w6|l6
+Kiryat Gat|IL||6n|2ft|2ok|k1|Qiryat Gat;Kirjat Gat;Gat
+Qipan|CN||7i|2n4|94e|ig
+Qionghu|CN||7i|284|8o4|id
+Qiantang|CN||7i|2bu|87c|ib
+Qingyang|CN|Shandong|7i|2w6|9cu|i8
+Qinggang|CN|Heilongjiang|7i|3lq|9q9|hu
+Qingshuping|CN||7i|242|8n6|hg|Tsingshuping;Ch’ing-shu-p’ing
+Qiryat Ata|IL||6n|2j5|2pj|he|Qiryat Atta;Kiryat Ata;Kiryat-Ata
+Kırklareli|TR||94|37y|23n|g6|Qırxlareli
+Qingfu|CN||7i|270|82c|fr
+Qinnan|CN||7i|2kd|993|fk
+Qishan|CN|Anhui|7i|2aw|930|ff
+Qingxichang|CN||7i|26w|8ei|ew
+Qishan|CN|Jiangsu|7i|2o7|90g|ee
+Qiryat Motsqin|IL||6n|2j8|2pg|eb|Qiryat Motskin;Qiryat Moẕqin;Qiryat Motzkin;Kiryat Motzkin
+Qing’an|CN||7i|2md|93g|de
+Qillīn|EG||c|2e9|2dp|de|Qallīn
+Qianliu|CN||7i|1rm|7qc|dd
+Karmi’el|IL||6n|2jf|2q2|db|Carmiel;Qiryat Karmiel;Karmiel
+Qiryat Bialik|IL||6n|2j7|2ph|d3|Qiryat-Beyaliq;Qiryat Bialiq;Kiryat Bialik
+Qisha|CN||7i|1ny|8dc|ce
+Qingshanquan|CN||7i|2nm|920|cb
+Qiryat Yam|IL||6n|2j9|2pf|bo|Kiryat-Yam;Kirjat Jam;Kiryat Yam
+Qina|CN||7i|213|7rj|a8
+Qīāmdasht|IR||7o|2qo|3zh|a4|Qīām Dasht
+Al Qunayţirah|SY||69|2k1|2ri|a1|Quneitra;Kunejtra;Kuneitra;Kuneytire;Qinêtra;Qouneitra;Cuneitre;Qnaïtra;El Quneitra;El Kuneitra;Qunayţirah
+Qīdar|IR||7o|2sb|3qz|9p
+Kyzyl-Kyya|KG||65|33u|5kd|8w|Kzyl-Kiya;Qizilqiya;Kizyl-Kiya;Kyzyl-Kiya
+Qingxi|CN|Chongqing|7i|2as|8ai|85
+Qingshizui|CN||7i|2w3|7tr|7y
+Qiryat Mal’akhi|IL||6n|2g5|2oj|7s|Kirjat Mal'achi;Qiryat Mal'aji;Malaquies;Kiryat Mal’akhi;Kiryat-Malakhi;Qiryat Malachi;Kiryat Malachi;Qiryat Malakhi
+Qibray|UZ||7m|36z|5cz|7q|Kibray;Kibrai
+Qinglian|CN||7i|2en|8fg|7i
+Qilian|CN||7i|2y2|7qg|74
+Qeshm|IR||7o|22v|4cb|6y|Qishm;Gheshm
+Qiryat HaYovel|IL||6n|2g9|2pp|6y|Kiryat-Hayovel
+Qiryat Shmona|IL||6n|2k9|2qt|6s|Kiryat Shemoneh;Qiryat Shemonah;Qiryat Shemona;Kiryat Shmona;Kirjat Schmona;Qiryat-Chemoná;Kirjat Šmona;Kiryat Shimona;Kiryat Shemona;Kiriat Șmona;Kirjat Sjmona;Kirjat Shmona;Qiryat Xemonà;Kirjat Szemona;Kirjat Szmona;Kiryat Şmona
+Qifţ|EG||c|208|2j6|6o|Quft
+Comrat|MD||8x|3kl|27m|6d|Komrat;Komratas;Qimli;Komrad
+Qīr Moāv|JO||5t|2em|2r6|6a
+Qingnian|CN|Chongqing|7i|287|88s|66
+Qiaotou|CN|Gansu|7i|2jz|835|5x
+Qitang|CN||7i|2aq|879|5w
+Qingping|CN||7i|2ba|87w|5w
+Qīr|IR||7o|274|43b|5k
+Qingfeng|CN||7i|29i|85z|5g
+Qiryat Tiv‘on|IL||6n|2iv|2pl|5c|Kiryat Tiv‘on;Kiryat Tivon
+Qiemo|CN||7t|2xx|6ll|59
+Qianhu|CN||7i|2oo|85a|55
+Qingyang|CN|Chongqing|7i|2a1|89s|4i
+Qinglong|CN|Chongqing|7i|2di|8fi|49
+Giaginskaya|RU||9i|3gm|33b|48|Giaginskaja;Guiaguinskaïa;Giaginszkaja;Guiaguínskaya;Qiaqin
+Qingshui|CN||7i|1xa|7li|46
+Qishan|CN|Gansu|7i|2n3|84s|45
+Qianhai Bay Area|CN||7i|1qm|8sd|3y
+Qingsheng|CN||7i|29g|853|3s
+Qinting|CN||7i|2oh|87f|3r
+Cherven Bryag|BG||9v|3c8|1uw|3m|Kızıl Çay;Qızıl Çay;Cherven-Breg;Cherven-Bryeg;Cherveni Bryag
+Qia'erbage|CN||7t|2yi|5yr|3m
+Krymskyi|UA||9t|3h5|2q9|3l|Qırım massivi
+Qiaotou|CN|Gansu|7i|2mu|83r|3i
+Qiziltepa|UZ||7g|337|505|3e|Kyzyltepa;Kızıltepe;Kyzyl Tepe;Kizil-Tepe
+Giffnock|GB||9b|4b0|-bx|3d|Qiffnok;Giofnag;Giffneck
+Qibah|SA||7e|244|3f5|37|Qibā’;Qibbah
+Qiryat ‘Eqron|IL||6n|2gi|2oq|35|Kiryat Ekron;Kirjat Ekron;Qiryath Eqron
+Qiushan|CN||7i|2ng|83e|2v
+Qingjiang|CN||7i|29c|84z|2r
+Qinglong|CN|Chongqing|7i|2bt|8be|2l
+Qiancheng|CN||7i|23j|8gx|2l
+Qingliu|CN||7i|2a7|84l|2k
+Qinglong|CN|Chongqing|7i|2aq|86u|2j
+Qiaozi|CN||7i|29p|8d3|2g
+Qiryat Ye‘arim|IL||6n|2gc|2pi|26|Kiryat Ye’arim;Kiryat-Yearim
+Qixing|CN||7i|2d8|8ak|26
+Qidu|CN||7i|22d|983|26
+Qiaotou|CN|Chongqing|7i|2bn|8cq|25
+Gizilhajili|AZ||61|34q|3m6|23|Qızılhacılı
+Qingguang|CN||7i|30w|913|22
+Qingyuan|CN|Chongqing|7i|28f|8a8|22
+Qīrah|LY||1d|24n|13v|1y
+Givrag|AZ||61|31g|3hc|1t|Qıvraq;Kivraq;Kivrag
+Qilong|CN|Chongqing|7i|29j|89u|1q
+Qiaotou Community|CN||7i|1r1|8s5|1o
+Qihama|CN||7i|2kq|7vb|1l|Qukama
+Qingquan|CN|Chongqing|7i|280|8d3|1j
+Qiongkulecun|CN||7t|2xt|6lm|1j
+Ganfeng|CN||7i|29q|899|1g|Qianfeng
+Qibyah|PS||6g|2gu|2p9|1c|Qibyā
+Qirnādah|LY||1d|2ix|1ou|16
+Qiandengyingcun|CN||7i|2se|9ax|15
+Qizilcha|UZ||7g|353|53q|y
+Qiagai|CN||7i|2os|7ze|y
+Qiaojiang|CN||7i|25m|8jg|x
+Kotzebue|US||49|55u|-cjo|x|Kotzobue;Qikiqtaġruk
+Qibu|CN||7i|21n|983|v
+Qinglang|CN||7i|23c|8e1|t
+Qiaogu|CN||7i|317|930|q
+Quime|BO||3n|-1b6|-56q|o|Q'imi llaqta
+Qigang|CN||7i|1qw|8s7|o
+Kyzyl-Bulak|KG||65|339|5ja|n|Qizil-Buloq
+Qingshancun|CN||7i|2sf|9b8|m
+Qingxi|CN|Hunan|7i|21f|8ij|j
+Qidron|IL||6n|2gd|2oo|h|Kidron
+Garaaghajli|AZ||61|35q|3ku|g|Qırmızı Samux;Samuchas;Qaraağaclı;Girmizi Samukh
+Qimeng|CN||7i|21k|8es|e
+Qilong|CN|Guangdong|7i|1qs|8se|d
+Krasnokamyanka|UA|Crimea|9t|3gs|2pg|c|Krasnokamianka;Qızıltaş;Kiziltash;Feodosiya-13;Feodosia-13;Kyzyltash
+Qīrah|PS||6g|2h8|2pp|b|Qīra
+Qingjiangqiao|CN||7i|21w|8kb|b
+Kyzyl-Korgon|KG||65|33j|5hg|9|Qizil-Go‘rg‘on
+Gizilgaya|AZ||61|34w|3kq|9|Qızılqaya
+Jān Khānī|IR||7o|2dx|3vn|9|Qīām;Jahān Khānī
+Qilā‘ Zaytā|PS||6g|2fn|2pk|9
+Gndevaz|AM||80|32g|3iq|8|Qndevaz;Gyndewaz;Qindıvaz
+Shishmaref|US||49|542|-ctb|6|Qiġiqtaq;Shismaref
+Qingtuozi|CN||7i|30o|933|5

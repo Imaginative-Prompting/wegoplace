@@ -1,0 +1,16 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Kyoto|JP||7q|2pa|ah3|bal|Kioto;Kjóto;Quioto;Kyotum;Kiotas;Kyotu;Kėjuots
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Birkenhead|GB||9b|44b|-8d|2id|Penbedw;Berkenhedas;Kione Beih
+Ang Mo Kio New Town|SG||7j|3u|80g|189
+Kyustendil|BG||9v|39g|1r1|d1|Kjustendil;Köstendil;Küstendil;Kiousténdil;Keustendil
+Køge|DK||8y|4a2|xu|an|Kiogė;Kjoge
+Kiomboi|TZ||h|-bv|2nh|6j
+Kinsale|IE||8z|3zn|-np|1h|Cionn tSáile;Kione Sailley;Kinseilis
+Afidnés|GR||8p|2y4|1u8|11|Kiourka
+Kiougou-Kandaga|BF||1a|wr|8|h
+Kiowa|US|Kansas|2f|2uu|-7ll|a
+Kiowa|US|Colorado|2p|31b|-826|7
+Kiowa|US|Oklahoma|2f|2og|-7ee|7
+Kyohan|CI||0|np|-e8|5|Kiohan

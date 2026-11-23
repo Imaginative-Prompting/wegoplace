@@ -1,0 +1,150 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Pingdingshan|CN||7i|2lp|8qs|7jz|Pingdingsjan;Pching-ting-šan;Pingdingŝano;Tekshi choqqiliq tagh shehiri;Bình Đỉnh Sơn;Bìng-dīng-săng;Pêng-téng-san-chhī;Pindinshan’;P’ing-ting-shan
+Pingxiang|CN|Jiangxi|7i|24q|8s9|6w8|Bìng-hiŏng;Pching-siang;Phìn-hiông-sṳ;Bình Hương;Phêng-hiong-chhī;Dingsiang;Pingsiang;P’ing-hsiang
+Benghazi|LY||1d|2h7|1jr|5uf|Banghazi;Bengasi;Bengazi;Bengazis;Bängasi;Bingazi;Benqazi;Bengazy;Benghasi;Binghāzī
+Binzhou|CN||7i|2vt|93u|59n|Bintsjou;Pin-čou;Tân Châu;Bĭng-ciŭ;Pin-chiu-chhī
+Bình Thạnh|VN||6h|u1|88f|49e
+Pingliang|CN||7i|2qq|88d|3w8|Bìng-liòng;Pching-liang;Bình Lương;Pêng-liâng-chhī
+Biñan|PH||71|13u|9cc|2bc|Binyang
+Binjai|ID||6l|a0|7ll|25l|Bindjai
+Binangonan|PH||71|146|9cn|1ow
+Bintulu|MY||6w|8t|8pz|164
+Bingöl|TR||94|300|34h|zt|Bingoel
+Bukit Bintang|MY||6v|8r|7uj|xh|Starhill;Star Hill
+Hòa Cường|VN||6h|18k|8ci|x6|Bình Thuận
+Bình Thủy|VN||6h|rz|85q|vk
+Hòa Bình|VN||62|1lu|84m|t9|Hoa Bin
+Qaşr Bin Ghashīr|LY||1d|2is|10m|rt
+Binga|CD||t|6l|1ky|qw
+Bình Minh|VN||6h|rz|85y|qd|Cái Vồn
+Ben Arous|TN||1e|2u3|se|oj|Ben Arus;Bin Arus;Ben Arusas;Bin ‘Arūs
+Tracy|US|California|3p|2wu|-9db|o7|Bináhaaztiinii
+Bonāb|IR||7o|2vq|3jy|np|Bināb;Bunab;Benāb
+Binonga|PH||71|tx|9hm|nc
+Bingerville|CI||0|ew|-at|n2
+Bīna|IN|Madhya Pradesh|6t|1v5|617|hx
+Bin Xian|CN||7i|3j2|9u2|h8|Binxian
+Bindura|ZW||n|-1c2|2f1|e0
+Binghamton|US||48|38y|-5uw|cs|Bingamtonas
+Binmaley|PH||71|18j|9a3|c8
+Binalbagan|PH||71|sb|9ha|aq
+Bindki|IN||6t|20c|67u|a1
+Binche|BE||8t|3w1|bk|8w|Bince;Binchium
+Binnish|SY||69|2rw|2tz|8g|Binnesh;Binnich
+Bingen am Rhein|DE||8r|3ut|ly|7b|Bingen-Am-Rhein;Bingen;Bingium
+Bintuni|ID||6m|-5v|aaw|6v|Steenkool;Steekool
+Biny Selo|AZ||61|34d|3v5|6u
+Binondo|PH||71|14k|9c1|5p
+Bingley|GB||9b|45l|-54|50
+Binyamina-Giv'at Ada|IL||6n|2ic|2p3|4e
+Binika|IN||6t|1mf|6gt|4e|Binka
+Bina|IN|Bihar|6t|20g|6on|4c
+Binyamina-Giv‘at ‘Ada|IL||6n|2ic|2p2|4c|Binyamina;Binjamina;Binyaminah
+Bin Jawwād|LY||1d|2dk|1e8|4b
+Ấp Bình Châu|VN||6h|tb|8ar|49|Binh Chau
+Bình Long|VN||6h|wd|885|46
+Binningen|CH||a7|3o2|l1|3x|Biningenas
+Binagadi|AZ||61|34f|3uf|3w|Binaghad;Binagady
+Binkolo|SL||l|ov|-xa|3v
+Bin Yauri|NG||u|ty|dd|37
+Winton|US|California|3p|2vv|-9b1|2y|Binááyołí
+Ấp Bình Chánh|VN||6h|tb|84e|2s|Binh Chanh;Ap Bin Chanh
+Bin-Houyé|CI||0|iu|-n3|2r|Binhouyé
+Xã Bình Giả|VN||6h|tl|89z|2q|Binh Gia
+Bingham|GB||9b|433|-2o|2j
+Binéfar|ES||9d|389|t|2h
+Binbrook|CA||59|3bs|-65p|2g
+Al-Bi‘na|IL||6n|2jh|2pz|2f|Bi’na;Bi’ena;Al Bi‘na;Bi‘nah;Al-Binah;Bi'ina
+Howth|IE||8z|44b|-gv|2b|Binn Éadair
+Binalonan|PH||71|18l|9az|29
+Binissalem|ES||9d|329|7w|29
+Binatang|MY||6w|61|8m3|27|Bintangor;Bandar Bintangor;Binatan
+Bingtuan Sanshiliu Tuan|CN||7t|310|6uy|24
+Bindlach|DE||8r|3uu|w9|20
+Binasco|IT||9o|3hx|p9|1z
+Benzra|CI||0|kd|-gp|1w|Binzra
+Binji|NG||u|10q|dn|1v
+Binubusan|PH||71|12t|9b4|1v|Binabusan
+Pinglin|TW||7l|1xa|9e3|1t|Phiâng-lìm-khî;Bình Lâm;P’ing-lin
+Bégbessou|CI||0|jn|-fk|1t|Bingbessou;Bengbessou
+Bent|IR||7o|211|4lc|1m|Bint
+Binuangan|PH||71|os|9mn|1m
+Bintawan|PH||71|1a2|9cn|1e|Bintauan
+Binnenstad|NL||8m|411|gk|1d
+Binahaan|PH||71|12v|9e7|1c|Binhaan;Binajaan
+Binitayan|PH||71|10x|9js|1c
+Binago|IT||9o|3j6|os|1a
+Binga|ZW||n|-1cy|23y|17
+Binantocan|PH||71|vp|9ha|16|Binantucan;Binuntucan
+Binidayan|PH||71|lp|9kx|12
+Bincoñgan|PH||71|kh|9pb|12|Bincungan
+Bingawan|PH||71|v7|9gh|11
+Binon-an|PH||71|vn|9i2|y
+Brindoukro|CI||0|j2|-94|y|Bindoukro
+Binabalian|PH||71|19m|995|x
+Bingassou|CI||0|iv|-ch|x|Bengassou
+Binic|FR||9k|3r0|-7u|x|Binig
+Bindi|SL||l|rj|-vt|w
+Binuang|PH||71|gk|9ca|w
+Binitinan|PH||71|o7|9mm|v
+Binanwanaan|PH||71|122|9ii|u
+Bingen|DE||8r|3pn|pr|u
+Binlod|PH||71|rk|9jd|t
+Binucayan|PH||71|mx|9p8|t
+Binay|PH||71|11i|9gk|s
+Binzen|DE||8r|3ob|l6|r
+Binabaan|PH||71|um|9gc|q
+Bintacay|PH||71|11i|9ek|q|Bintakay
+Binodegahan|PH||71|10a|9iy|p
+Binuatan|PH||71|l5|9im|n
+Binulasan|PH||71|14x|9e2|n|Binolasan;Binulusan
+Binalan|PH||71|1ex|9dn|n
+Binatlı|TR|Batman|94|2x5|36i|n|Bileyder
+Binday|PH||71|18t|9al|m
+Binguang|PH||71|1ci|9ec|l|Binguan
+Binetto|IT||9o|35y|1af|l
+Binguébougou|CI||0|qg|-g5|k|M’Bengue Bougou;Benguédougou;Benguébougou
+Binzikon|CH||a7|3nc|oc|j
+Bianhitouo|CI||0|jl|-my|i|Biahitouo;Bin Hitoulo
+Binoufla|CI||0|ij|-gc|i
+Binarowa|PL||a5|3u8|1mz|i
+Binpınar|TR||94|31c|38t|g
+Binaced|ES||9d|387|k|g|Binacet
+Binz|CH||a7|3nk|nz|g
+Binkom|BE||8t|3xb|dk|f
+Bingara|AU||8l|-2az|bm9|e
+Bíňa|SK||8s|3p4|1fs|e|Bény;Kisbény
+Bīneh|IR||7o|2s2|3x8|e
+Binnenhof|NL||8m|40w|cm|e
+Binswangen|DE||8r|3qw|tk|d
+Winden am See|AT||a2|3p7|1ak|d|Sásony;Binta
+Binau|DE||8r|3t5|p6|d
+Binningup|AU||8k|-2k3|8xe|c
+Bining|FR||9k|3s8|k5|c
+Bindoon|AU||8k|-2f7|8yi|c
+Bingham Farms|US||2q|3a4|-6fb|b
+Binsfeld|DE||8r|3ut|io|b
+Ben Metir|TN||1e|2u3|ob|b|Bin Metir
+Binnen|DE||8r|426|pd|b
+Bindolo|CI||0|ml|-bu|a
+Binhouléra|CI||0|l8|-gi|a
+Biniș|RO||8u|3hy|1o9|9
+Binbrook|GB||9b|44f|-i|9
+Bingoro|CI||0|m8|-ik|8
+Bingelrade|NL||8m|3xm|gh|8
+Bindernheim|FR||9k|3q4|l5|8|Bíndre
+Bingham|US||48|3h6|-5e4|8
+Bingham Canyon|US||2p|34o|-8nh|7
+Bingen|US||3p|3iz|-9de|7
+Binfield Heath|GB||9b|3z2|-2l|7
+Binningen|DE||8r|3vh|k5|7
+Binger|US||2f|2q3|-7l6|7
+Binderveld|BE||8t|3xa|ec|6
+Binatlı|TR|Şanlıurfa|94|2ul|2ym|6|Binatly;Biatlı
+Bintosun|TR||94|31a|3au|6
+Binas|FR||9k|3p2|42|6
+Binges|FR||9k|3nh|en|6
+Binnaway|AU||8l|-2fn|biy|6
+Beytābāj|IR||7o|2ml|4j1|6|Bīnābāj;Beynāvāj;Beynābāj
+Binalong|AU||8l|-2ob|bgv|5

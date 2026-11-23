@@ -1,0 +1,24 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Iwaki|JP||7q|2ux|avc|2r9|Ivaki;Banjsingz Si;Iŭaki
+Yuzhno-Sakhalinsk|RU||7f|3mf|b0i|1ja|Južno-Sachalinsk;Južno-Sahhalinsk;Južno-Sahalinsk;Yuzhno-Sajalinsk;Jużnosachalińsk;Juschno-Sachalinsk;Juzjno-Sakhalinsk;Ioujno-Sakhalinsk;Joezjno-Sachalinsk;Južno Sachalinskas;Iujno-Sahalinsk;Yujno-Saxalinsk;Suvisahalinsk;Juzsno-Szahalinszk;Juĵno-Saĥalinsk;Južnosahaļinska;Juzhno-Sakhalinsk;Iujno-Sakhalinsk;Juzjno-Sachalinsk;Yujno-Sahalinsk
+Cadiz|ES||9d|2th|-hh|wi|La tacita de plata;Cadis;Cai;Gadeira;Iungadir;Kadyks;Kadizo;Cadix;Cádice;Gades;Kadisas;Kadiz
+Jönköping|SE||9w|4gi|13c|vc|Iunecopia;Jonšiopingas;Jenšēpinga
+Iwamizawa|JP||7q|3c0|axs|nn|İvamizava;Iŭamizaŭa;Twamizawa;Iwamisawa
+Jülich|DE||8r|3xg|ho|9f|Juliers;Iuliacum;Jöllesch
+Yubileyny|RU||9i|4bd|2x3|91|Jubileiny;Ioubileïny;Jubilejnyj;Yubileynıy;Iubileini;Jubilejnij;Jubileinyi;Jubilejnyj i Moskva oblast
+Juneau|US|Alaska|3j|4hy|-ade|8s|Džūno;Iunellum;Džunas;Cuno;Džuns;Tisaantikii Hiinii;Dzhunou
+Iúna|BR||4w|-1kj|-37e|85
+Newry|GB||9b|46i|-hm|7q|Iúir Cinn Trá;Iúr Cinn Trá;Iuorus;Niūris;Yn Euar
+Jüterbog|DE||8r|40g|10c|3p|Iutrebocum;Jueterbog
+Iuiu|BR||20|-141|-3cz|32
+Jupille-sur-Meuse|BE||8t|3wp|fn|2y|Jupille;Djoupeye;Iupilia ad Mosam
+Yuzhno-Kurilsk|RU||7f|3eb|b96|26|Juzjno-Kurilsk;Juschno-Kurilsk;Joezjno-Koerilsk;Iujno-Kurilsk;Južno-Kurilsk;Ioujno-Kourilsk;Yujno-Kurilsk;Juzhno-Kurilsk;Jujno-Kurilsk;Yuzhno-Kurl’sk
+Ivisan|PH||71|w0|9gt|1e|Iuisan;Ivison
+Iuka|US||2f|2op|-6sz|u
+Yug|RU||7z|4gd|4c1|o|Jug;Iug
+Iugani|RO||8u|3mo|22j|l|Jugani
+Yurkivtsi|UA||98|3qq|201|i|Iurcăuți;Yourkivtsi
+Yuzhynets|UA||98|3qu|1za|b|Youjynets;Iujineț
+Jungholtz|FR||9k|3p0|k0|7|Junckholtz;Iungholtz;Jungholz
+Iurești|RO||8u|3ob|238|5

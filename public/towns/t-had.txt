@@ -1,0 +1,83 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nazrēt|ET||2|nr|313|3ix|Adama;Hadama;Nazareth
+Ḩadā’iq al Qubbah|EG||c|2bl|2ew|2mc
+Nadiād|IN||6t|1r1|5me|1qj|Nadiyad;Hadiad
+Sousse|TN||1e|2rj|tk|1pl|Hadrumetum;Susa;Szúsza;Sussa;Susas;Sus;Souse;Sūsah;Soussa;Sousa
+Hat Yai|TH||62|jh|7r4|1h9|Hatjajus;Hatjaj;Had Yai;Hatyai
+Edirne|TR||94|37s|21s|1e0|Adrianòpolis;Drinápoly;Adrianopoli;Hadrianopolis;Adrianopol;Andrianoplin;Jedrene;Edirnä;Drinopolje;Andrinòple;Odrín;Adrianopoja;Adrianoupolis;Adrianopel;Ederné;Adrinople;Adrianople
+Hadano|JP||7q|2q9|aqq|19i|Hatano
+Huddersfield|GB||9b|451|-4y|15e|Haddersfild;Hadersfildas
+Hadejia|NG||u|yl|rw|us
+Hadera|IL||6n|2i4|2oy|u0|Hedora;Hudeira;Khederah;Hadeyra
+Hà Đông|VN||62|1m9|85u|e5
+Hadali|PK||6q|2io|5r5|dt
+Hadero|ET||2|k0|2wn|dc
+Hadong|KR||7h|2pf|9uv|bd
+Had Soualem|MA||d|2ku|-lt|b5
+Hemer|DE||8r|3yr|ll|af|Hadamare
+Hādīshahr|IR||7o|2zx|3iu|9j|Hādī Shahr
+Hadjout|DZ||3|2tf|6p|9e
+Ḩadīthah|IQ||5z|2mu|39q|8l|Haditha
+Hadapu Zhen|CN||7i|2n3|81i|7v
+Hadagalli|IN||6t|15q|5ux|7s
+Hadgāon|IN||6t|1i6|5zq|7m
+Hadyach|UA||98|3vx|2mg|6j|Hadiatch;Hadiach;Hadjač;Hadjatsch;Hadziacz;Hagyacs
+Haderslev|DK||8y|49h|qd|64|Hadersleben
+Khadyzhensk|RU||9i|3ff|31u|61|Khadyzjensk;Chadyschensk;Jadyzhensk;Khadyjensk;Chadyžensk;Xadıjensk;Khadíjensk;Ĥadiĵensk;Hadyžensk;Hadižensk
+Hadley Wood|GB||9b|3zj|-h|60
+Hadim|TR||94|2ur|2i6|5l
+Haddington|US||48|331|-5t0|5l
+Payson|US|Utah|2p|338|-8md|5f|Hadahiilíiniikooh
+Hadleigh|GB|England|9b|3z7|1p|53
+Yumurtalık|TR||94|2u5|2rf|4x|Ayas;Aegæ;Alexandropolis;Makrinopolis;Hadriana;Laiazzo;Lajazzo;Ajazzo;Ağkale;Aegoe
+Hadley|GB||9b|42e|-6w|44
+Hadgood|IN||6t|1ql|5mq|3z
+Hadiāya|IN||6t|2c9|5tq|3h
+Hadamar|DE||8r|3w5|mc|3d
+Haddonfield|US||48|32t|-5sg|36|Haddenfield;Haddanfield;Heddonfield
+Hajeb el Aïoun|TN||1e|2qc|qi|2y|Hadjeb el Aïoune;Hadjeb el Aïoun
+Haddington|GB||9b|4bg|-7q|2i|Haddinqton;Baile Adainn
+Had Kourt|MA||d|2o6|-fy|2e|Had-Kurt;Had-Hourt
+Hadibu|YE||5r|z5|462|2d|Hadibo
+Hadsten|DK||8y|4ch|rx|2b
+Hadleigh|GB|England|9b|40k|2n|2a
+Haddon Heights|US||48|32s|-5si|23
+Hadžići|BA||9r|3dq|1el|20
+Haj Kaddour|MA||d|2lz|-f3|1z|Hadj Kaddour
+Had Oulad Zbair|MA||d|2n9|-c0|1p
+Hadfield|AU||8j|-2wr|b6m|1k
+Hadsund|DK||8y|4dj|s4|1f
+Hadley|US|Massachusetts|48|39m|-5ln|1d
+Had Beni Chiker|MA||d|2q0|-8d|1d|Beni Chiker
+Hıdırlı|TR||94|2ul|2q4|1b|Hadırlı
+Haddenham|GB|England|9b|3zt|-2l|18
+Dorneşti|RO||8u|3oz|208|18|Hadikfalva
+Haddow|CA||2s|44i|-8rk|18
+Hadston|GB||9b|49l|-4g|10
+Had Bouhssoussen|MA||d|2k3|-gw|x
+Hadzhidimovo|BG||9v|37c|1ub|w
+Haddenham|GB|England|9b|41g|f|t
+Hadlow|GB||9b|3ya|y|s
+Hadspen|AU||8g|-37a|bcj|m
+Hadol|FR||9k|3pl|i0|m
+Hadmersleben|DE||8r|40f|ve|k|Hatmersleve;Hoimerslä
+Had Abdallah Rhiat|MA||d|2fk|-ls|j|Had-Abdallah-Riate;Had-Abdallah-Rhiate
+Hadersdorf am Kamp|AT||a2|3qm|17o|h
+Hadzhidimitrovo|BG||9v|3aj|1yf|f
+Had Hrara|MA||d|2i4|-pd|e|Had Herrara;Had Harrara
+Hadlikon|CH||a7|3nd|om|d
+Miladinovci|MK||9u|38m|1o5|d|Hadžilari
+Haddon|AU||8j|-2wg|b38|c
+H̱adid|IL||6n|2gt|2p1|c
+Hadley|US|New York|48|3cc|-5p5|a
+Hadâmbu|RO||8u|3mm|24a|a|Hadîmbu
+Haderswörth|AT||a2|3om|192|9
+Hademstorf|DE||8r|42f|qr|9
+Hădăreni|RO||8u|3l3|1um|9
+Hadar ‘Am|IL||6n|2hv|2oy|9|Hadar Am
+H̱ad Nes|IL||6n|2jh|2r0|8
+Hadle Szklarskie|PL||a5|3un|1py|7
+Hadres|AT||a2|3rb|18t|7
+Bulgurlu|TR||94|33m|39e|7|Xadîk;Hadik
+Ḩadb al ‘Alqah|PS||6g|2fe|2p7|6
+Hadzynka|UA||98|3vq|283|6|Gadzinka

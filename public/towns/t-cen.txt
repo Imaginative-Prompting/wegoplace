@@ -1,0 +1,228 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Chennai|IN||6t|10d|670|104b|Madrás;Ćennaj;Ĉenajo;Čennai;Csennai;Čenaj;Maderaspatanum;Čenajus;Çenay
+Jinjiang|CN|Fujian|7i|1wy|95d|axe|Tấn Giang;Chìn-kang-chhī;Céng-gŏng;Tsìn-kông-sṳ
+Chengde|CN||7i|35r|93o|73o|Čengdė;Thừa Đức;Čcheng-te;Sìng-dáik;Sêng-tek-chhī;Chengteh;Ch’eng-te
+Genoa|IT||9o|3fc|ou|4h5|Genova;Genua;Janov;Ĝenovo;Gênes;Genuja;Cenova;Dženova;Zena;Xénova
+Jincheng|CN||7i|2qm|8pf|3oh|Tấn Thành;Céng-siàng;Chin-ch’eng;Tsincheng
+Central Coast|AU||8l|-2kv|boh|2oa|Costa Central
+Częstochowa|PL||a5|3x4|1h4|1wx|Tschenstochau;Čenstakava;Čenstohova;Čenstochová;Czenstochau;Czynstochowy;Khìm-sṳ̂-thok-khok-ngá;Çenstoxova;Chenstochov
+Centurion|ZA||o|-1zu|26b|1tq
+Centralniy|RU||9i|4mh|2cc|1nm
+Geneva|CH||a7|3kc|h3|1k1|Genf;Ginebra;Genève;Ženeva;Ĝenevo;Xenebra;Jenewa;Ginevra;Genava;Genewa;Genebra;Genevra;Cenevre;Jenwe;Janeva
+Kowloon City Centre|HK||6i|1q1|8t7|1hz
+Centro Habana|CU||36|1s9|-6ct|17y
+Madrid Centro|ES||9d|34a|-aa|15l|Madrid City Center
+Le Mans|FR||9k|3pc|k|145|Le Manas;Cenomanum;Lo Mans;Ar Mañs;Lemāna
+Bao'an Centre|CN||7i|1qq|8sg|xe
+Centennial|US||2p|31y|-83c|uh
+Centro|ES||83|265|-16v|ol|city center;Stadtzentrum
+Centreville|US|Virginia|48|2zw|-5z3|jr|Centerville
+Sonsonate|SV||2u|124|-6x8|gj|Centzonatl
+Central City|US|Arizona|4i|2kw|-8na|g6
+Center City|US|Pennsylvania|48|32z|-5ss|fw|Centro de Filadelfia
+Centenario|AR||1s|-2zv|-599|dd
+Centenario|PE||3o|-qg|-5zd|d8
+Centar Župa|MK||9u|378|1l4|cm|Merkez Jupa;Tsentar Joupa;Centar Zsupa;Qendra Zhupa
+Centre City|CA||2s|3xt|-8sv|be
+Centar|HR||a6|3j9|18e|aa|Donji grad
+Cenisia|IT||9o|3h7|l9|a0
+Central Islip|US||48|35b|-5nc|9l
+Cendajuru|BI||b|-95|2d0|91
+Centro Familiar la Soledad|MX||41|1mq|-7un|8y
+Centereach|US||48|35i|-5n2|8s
+Central|US|Louisiana|2f|2cv|-70w|7v
+Central 14th Street / Spring Road|US||48|306|-5xz|77
+Centretown|CA||59|3i6|-5ua|75
+Centerville|US|Ohio|48|323|-6hs|6n|Centreville
+Cenon|FR||9k|3gm|-1h|68|Senon
+Central St. John's|CA||50|3o5|-42g|62
+Centro|IT||9o|3h7|lc|5n
+Central Falls|US||48|38d|-5ib|5d
+Central Lonsdale|CA||5b|3t1|-9hv|55
+Cento|IT||9o|3g9|vd|52|Centum;Čentas
+Central Point|US||3p|39q|-9hg|50
+Centre de Flacq|MU||ag|-1k3|4gb|4x|Centre of Flacq
+Central Saanich|CA||5b|3qx|-9iu|4u
+Centerville|US|Utah|2p|35o|-8mr|4p
+Centralia|US|Washington|3p|3ls|-9hj|4o
+Center Point|US|Alabama|2f|2lh|-6os|4n
+Central|BR||20|-uy|-38z|4j
+Centro Novo do Maranhão|BR||2w|-5y|-3k4|4j
+Central Coquitlam|CA||5b|3su|-9h8|4b
+Çengelköy|TR||94|361|28q|3u
+Centennial Scarborough|CA||59|3dm|-63v|3q
+Centro de Readaptación Social|MX|Jalisco|41|1l3|-7yn|3n
+Centralia|US|Illinois|2f|2z1|-6vl|3j
+Central|CA||59|3cq|-67o|3j
+Centro do Guilherme|BR||2w|-6t|-3jw|3f
+Central Business District|CA||4q|40t|-88a|3d
+Centerton|US||2f|2t0|-79x|3c
+Lexington Park|US|Maryland|48|2yb|-5wd|38|Jarboesville;Centerville;Lexingtonia Saeptum
+Central 14th Street / WMATA Northern Bus Barn|US||48|306|-5xz|33
+Central|HK||6i|1pw|8t4|33|City of Victoria;Victoria City;Victoria
+Centenário do Sul|BR||4w|-1re|-3zc|30
+Centreville Chicopee|CA||59|3co|-67f|2w|Centreville-Chicopee
+Centralina|BR||4w|-1fm|-3so|2u
+Centerville|US|Massachusetts|48|37p|-5ff|2k|Centreville
+Centobuchi|IT||9o|3b6|12h|2c
+Center Line|US||2q|3a1|-6en|2b|Centerline
+Sol|ES||9d|34a|-aa|2a|Centro
+Central Moncton|CA||43|3k2|-500|28
+Centennial Place|CA||43|3k0|-502|25
+Center Moriches|US||48|35c|-5m7|24|Centre Moriches
+Centerville|US|Georgia|48|2in|-6gh|24
+Centelles|ES||9d|384|66|22
+Central do Maranhão|BR||2w|-64|-3gj|1z
+Central York|CA||43|3jt|-55v|1x
+Centerville|US|South Carolina|48|2nx|-6dq|1u
+Cents|LU||9c|3tu|h4|1t|Zens
+Cenes de la Vega|ES||9d|2v8|-9u|1r
+Central de Minas|BR||4w|-1g4|-36r|1q
+Centenary Heights|AU||8c|-24n|bq4|1o
+Cetate|RO||8u|3ei|1s1|1n|Centatea
+Central City|US|Kentucky|2f|2vl|-6q0|1n
+Centerville|US|Iowa|2f|38x|-78y|1l
+Center|US|Texas|2f|2fj|-7fu|1l
+Tsentoroy|RU||9i|3bh|3ke|1l|Tsentoroj;Catanyh;Centaroy;Tsontoroy;Centoroj
+Cenxi|CN||7i|26q|8f3|1k
+Century City|US||3p|2mm|-94y|1j
+Centerport|US|New York|48|35l|-5nu|1j|Centreport
+Centerport|US|New York|48|3bk|-5wr|1j
+Centerville|US|Iowa|2f|355|-75z|1i
+Centerville|US|South Carolina|48|2jo|-66p|1h
+Center|US|Texas|2f|2gc|-79m|1g
+Central|US|South Carolina|48|2og|-6dy|1g
+Le Cendre|FR||9k|3j0|8v|1f|Au Sandre;Cendre
+Centreville|US|Illinois|2f|2z6|-6yd|1e|Centerville
+Centuripe|IT||9o|2wi|14y|1d|Centorvu
+Central Lynn|CA||5b|3t2|-9hs|1d
+Cenei|RO||8u|3j0|1m2|1c
+Chingueṭṭi|MR||19|1ku|-yc|1b|Šingetis;Cengiṭ;Chinguiti;Chingueti;Szinkit
+Central McDougall|CA||2s|44r|-8ra|1b
+Centreville|US|Maryland|48|30g|-5vb|1a|Centerville
+Central Gardens|US||2f|2bc|-795|17
+Central Valley (historical)|US||3p|350|-9fx|17
+Central Park Heights|US||48|31a|-5wz|17
+Century City|ZA||o|-2m5|1ff|16
+Cenad|RO||8u|3k5|1l6|16|Čanád;Csanád
+Centralia|US|Missouri|2f|30x|-73y|16
+Centallo|IT||9o|3fm|l3|13|Sental
+Centerville|US|Minnesota|2f|3hg|-76i|13
+Cene|IT||9o|3j6|rb|12
+Central Frederick|CA||59|3cp|-67k|12
+Centerville|US|Tennessee|2f|2re|-6qz|10|Centreville
+Centre|US||2f|2mv|-6m0|10
+Centre Square|CA||4q|3w4|-82l|10
+Centenary|ZW||n|-1ag|2ef|y
+Cenotillo|MX||3z|1m9|-6u4|x
+San Ildefonso Tultepec|MX||41|1jy|-7po|w|Centro
+Čenta|RS||8q|3hb|1kn|w|Csenta
+Centerville|US|Pennsylvania|48|339|-666|w|Centreville
+Central Waterford|US||48|36v|-5kd|t
+Central City|US|Nebraska|2f|368|-7k8|t
+Centenário|BR|Rio Grande do Sul|4w|-254|-40g|r
+Centreville|US|Alabama|2f|2jj|-6q0|r|Centerville
+Vallée du Génie|NC||b8|-1pv|cuc|r|Centre Ville
+Cenate di Sotto|IT||9o|3iy|rb|r
+Central|US|Tennessee|2f|2rg|-6wq|r
+Central Park|US||3p|3mh|-9jl|r
+Cenobio Moreno|MX||41|1h2|-7wq|q|Las Colonias
+Centerville|US|Indiana|38|32m|-6k4|q|Centreville
+Central Heights-Midland City|US||4i|2ks|-8ju|p
+Center Point|US|Iowa|2f|397|-72z|p
+Centro de Readaptación Social|MX|Veracruz|41|1ij|-7i2|o
+Ciężkowice|PL||a5|3ub|1m9|o|Hardenberg;Cenžkovice
+Merkez|TR|Düzce|94|359|2f0|o|Center
+Centennial Park|AU|New South Wales|8l|-2m6|bo3|n
+Central|US|Tennessee|48|2sx|-6cl|n
+Center|US|Colorado|2p|2wv|-86r|m
+Centro de Readaptación Social Nuevo|MX||37|2em|-8k9|m
+Cendras|FR||9k|3en|bb|m
+Vecrīga|LV||9n|4e7|1uy|l|Historisch centrum van Riga;Riian vanhakaupunki;Stara Riga;Vecryga;Stare miasto;Centro Histórico de Riga;Centre historique de Riga;Riga óvárosa;Zgodovinsko središče Rige;Città vecchia di Riga;Vecpilsēta;Vekriqa
+Centenário|BR|Tocantins|1k|-ov|-3ni|l
+Centro1, Santa. Rosa 1, Baco, Oriental Mindoro|PH||71|115|9ca|l
+Čenej|RS||8q|3i1|1j0|l|Csenej
+Cenaia|IT||9o|3d5|ta|l
+Cenate Sopra|IT||9o|3iz|ra|l
+Espoon Keskus|FI||92|4n8|1wh|l|Esbo centrum;Centti;Sentti;Cena;Sena;Espis;Eekoo;Epekepe;Espoon Centti;Espoon Sentti;Kespoo
+Centerburg|US||48|33y|-6dq|l|Centreburg
+Cenicero|ES||9d|3a0|-7c|k|Ceracero
+Centinarola|IT||9o|3dr|103|k
+Cénac|FR|New Aquitaine|9k|3ge|-1a|j
+Cenon-sur-Vienne|FR||9k|3lx|1i|i
+Central Square|US||48|3c9|-5vj|i
+Central Valley|US|New York|48|36t|-5pw|i
+Century|US||2f|2e1|-6qe|i
+Centane|ZA||o|-2ib|26o|h
+Centro de Readaptación Social|MX|Veracruz|41|1ee|-7ak|h
+Centre District|CA||59|3cp|-67l|h
+Central Aguirre|PR||4m|1dv|-53y|g
+Centreville|US|Mississippi|2f|2ed|-70z|g|Centerville
+Cenlle|ES||9d|39m|-mh|g
+Centro Histórico|CV||84|15e|-1w2|f|Old City Center São Filipe;Old City Centre São Filipe
+Centreville|US|Michigan|2q|38g|-6ll|e|Centerville
+Cenderiang|MY||6v|bv|7t7|e|Chenderiang
+Centerfield|US|Utah|2p|30p|-8mm|e|Béégashiikágí
+Central City|US|Illinois|2f|36k|-6t8|e
+Centola|IT||9o|33b|16j|d
+Central Garage|US||48|2wu|-5y9|d
+Çengilli|TR||94|33g|3b8|d|Cengili;Çengelli
+Central City|US|Iowa|2f|398|-728|d
+Centennial Park|US||4i|2un|-8pu|d
+Centre Hall|US||48|35h|-5zt|c|Center Hall
+Centrale|IT||9o|3j1|vw|c
+Saint-Riquier|FR||9k|3v9|5f|c|Centula;Saint-Ritchier
+Cenizate|ES||9d|316|-4l|c
+Center Hill|US||48|27l|-6br|c
+Central High|US||2f|2o6|-7kh|c
+Cencenighe Agordino|IT||9o|3kr|x9|c
+Centreville|CA|Nova Scotia|35|3hd|-4z9|c
+City Center of Mindelo|CV||84|1ax|-1xf|c|Centro do Mindelo;City Centre of Mindelo
+Cénac|FR|New Aquitaine|9k|3gg|3c|b|Senac e Sent Julian
+Central City|US|Illinois|2f|2z3|-6vl|b
+Centreville-Wareham-Trinity|CA||50|3s5|-45p|b
+Čenkovce|SK||8s|3pn|1cf|b
+Central Forest Park|US||48|319|-5x1|b
+Centerfield|US|Utah|2p|351|-8mu|b
+Central City|US|Pennsylvania|48|33f|-62w|b
+Cendon|IT||9o|3is|y9|b
+Centro de Arriba|MX||41|1od|-7wq|b|El Taray
+Center Harbor|US||48|3df|-5ii|b|Centreharbor;Centre Harbor;Centre-Harbor;Senter Harbour;Center Harbour
+Los Cenotes|MX||41|1cz|-70w|a|Cenote;El Cenote
+Centro de Readaptación Social|MX|Veracruz|41|1gc|-7ha|a
+Cenobio Aguilar (La Trinidad)|MX||41|1cc|-74g|a
+Cenade|RO||8u|3jx|1uq|a
+Centro Tre Denari|IT||9o|38g|xw|a
+Centenario|MX||3z|1ft|-6yt|9
+Central Lake|US||2q|3h7|-6ku|9
+Ceneselli|IT||9o|3h1|vl|9|Cenesełi
+Centuria|US||2f|3i9|-753|9
+Çenger|TR||94|2tx|2fu|9
+Centerville|US|Texas|2f|2eu|-7em|9|Centreville
+Centerville|US|South Dakota|2f|3bs|-7hc|9|Centreville
+Čentiba|SI||9a|3lc|19u|8|Csente
+Centro de Readaptación Social Piedras Negras|MX||3w|27x|-7rg|8
+Centennial Park|AU|Western Australia|8k|-2pa|93g|8
+Centro Chich|MX||41|1bp|-73z|8
+Central City|US|Colorado|2p|32k|-853|7
+Ceniga|IT||9o|3jn|ua|7
+Center Valley|US||48|34l|-5tf|7|Centre Valley
+Centro Habitacional Burócratas de Guadalupe|MX||44|1z8|-7q7|7
+Centro (Cidade)|CV||84|15y|-1tr|7
+Central|US|Arizona|4i|2jb|-8gz|6
+Center City|US|Minnesota|2f|3i3|-75u|6
+Centrès|FR||9k|3eo|6p|6
+Central|US|Utah|2p|2vy|-8rm|6
+Cenoví|DO||4v|1hh|-5fh|6|Cenobí
+Central Bridge|US||48|3an|-5qi|6
+Cendrieux|FR||9k|3h0|2a|6|Sendrius
+Center|US|North Dakota|4c|3mw|-7te|6
+Center Ossipee|US||48|3dk|-5hn|6
+Central Valley|US|Utah|2p|2zi|-8ne|6
+Centro Urbano|IT||9o|35e|16k|5
+Centralia|US|Kansas|2f|32d|-7f1|5
+Centreville|CA|New Brunswick|43|3kz|-583|5
+Center|US|Missouri|2f|31r|-729|5
+Cenadi|IT||9o|2zk|19m|5

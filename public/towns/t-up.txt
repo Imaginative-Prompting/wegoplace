@@ -1,0 +1,134 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kingston upon Hull|GB||9b|45a|-y|2f8|Hulo;Kingston-upon-Hull;Hull
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Upper West Side|US||48|35b|-5pi|1r2|Aukštutinis Vestsaidas
+Uppsala|SE||9w|4ma|1d0|1d7|Upsala;Upsalo;Upsalia;Uppsalir;Uppsal
+Burton upon Trent|GB||9b|42p|-4k|xy|Burton-on-Trent;Burton-upon-Trent;Bertonas prie Trento
+Uppal Kalan|IN||6t|1cd|628|wv
+Upata|VE||2c|ma|-4td|va
+Pandit Deen Dayal Upadhyaya Nagar|IN||6t|1y8|6ew|uh
+Upland|US|California|3p|2mq|-92t|l8
+Upington|ZA||o|-271|1n2|ju
+Upper Gilgil|KE||16|-l|2sr|gv
+Upleta|IN||6t|1oe|5f8|gc
+Uptown|US||2f|38l|-6rh|fb|Aptaun
+Upper Hutt|NZ||ak|-36a|di9|d6|Hutt Atas;Te Awa Kairangi ki Uta;Aper-Hatas;Aperhuta;Thượng Hutt
+Upper Bicutan|PH||71|14a|9c9|d6|Bicutan
+Upplands Väsby|SE||9w|4lc|1dr|a5|Uplands Vesbis;Uplands Väsby
+Upper Arlington|US||48|333|-6eq|9p|Upper Arlngtn
+Achim|DE|Lower Saxony|8r|439|p3|95|Achem;Uphusen
+Upper Dir|PK||6q|2pt|5jo|8b|Dīr
+Upper Alton|US||2f|303|-6yf|85
+Upper Coomera|AU||8c|-25g|btt|6y
+Upper Saint Clair|US||48|342|-66g|5c|Upper Sainte Clair
+Upper Norwood|GB||9b|3yu|-9|4h|Norwood Uchaf
+Upper Grand Lagoon|US||2f|2bs|-6m6|3w
+Upanema|BR||2w|-fo|-2vi|3s
+Yliskylä|FI||92|4n6|1xl|3s|Uppby
+Upper Wong Tai Sin Estate|HK||6i|1q2|8t7|3e
+Upper Montclair|US||48|35h|-5q4|38|Upper Mont Clair
+Uppala|IN||6t|z8|5s2|37
+Uppidamangalam|IN||6t|ua|614|35
+Uppermill|GB||9b|44r|-5l|34
+Upper Roxborough|US||48|33a|-5t0|2z
+Upminster|GB||9b|3z8|q|2s
+Upi|PH|Autonomous Region in Muslim Mindanao|71|jj|9kx|2m
+Uptown|CA||5b|3sp|-9hg|2l
+Upper Mount Gravatt|AU||8c|-24k|bt8|2j
+Upper Saddle River|US||48|362|-5pu|2c
+Uptown Saint John|CA||43|3hr|-53i|2a
+Upton Lea|GB||9b|3z4|-1m|28
+Upper Riccarton|NZ||ak|-3cx|dbd|28
+Pizzo|IT||9o|2zn|18z|27|Pitium;U Pizzu
+Uppinangadi|IN||6t|zo|5t1|26
+Uppiliyapuram|IN||6t|va|623|25|Uppiliapuram
+Uppalavādi|IN||6t|wp|65m|21
+Upar Hali|IN||6t|20i|727|1z
+Auf der Horst|DE||8r|41m|qo|1z|Up de Host
+Upper Sandusky|US||48|35f|-6fc|1t
+Upwey|AU||8j|-2xa|b7p|1t
+Upton|GB|England|9b|44x|-3l|1n
+Upi|PH|Cagayan Valley|71|1bg|9ef|1k
+Úpice|CZ||9m|3wb|18i|1i
+Uporovo|RU||7z|4cf|543|1h
+Uplands|CA||4q|3w9|-82l|1h
+Upper Land|KY||2e|1hs|-6a3|1g
+Upton|US|Maryland|48|316|-5wv|1c
+Uppingham|GB||9b|423|-20|1b
+Upper Kalihi Valley|US||ax|1nb|-c6i|1b
+Upper Sileru Project Site Camp|IN||6t|1e6|6bv|1a
+Uphams Corner|US||48|39k|-5he|19
+Upwell|GB||9b|424|m|17
+Upala|CR||2i|ua|-6k5|16
+Upper Caboolture|AU||8c|-23c|bso|16
+Upper Kedron|AU||8c|-246|bss|15
+Uptown Fredericton|CA||43|3jm|-557|15
+Upper Prince’s Quarter|SX||3q|1e3|-4v3|14
+Upper Fells Point|US||48|315|-5wr|14
+Upgant-Schott|DE||8r|44n|k7|12
+Upper San Mateo|PH||71|jx|9m2|12
+Upland|US|Indiana|38|34g|-6lh|12
+Upper Klinan|PH||71|hb|9nk|12
+Upper Gullies|CA||50|3nw|-43d|z
+Upper Poppleton|GB||9b|45y|-37|z
+Upper Lynn|CA||5b|3t3|-9hq|y
+Upornaya|RU||9i|3fb|35y|y|Upornaja
+Upper Manoa|US||ax|1n8|-c6d|x
+Upland|US|Pennsylvania|48|32p|-5te|x
+Upper Palolo|US||ax|1n7|-c6b|v
+Upton|US|Massachusetts|48|395|-5iw|u
+Upper Langwith|GB||9b|43v|-3d|u
+Upland|US|Pennsylvania|48|32t|-5uh|t
+Upper Hell's Gate|BQ||3m|1d0|-4vn|s
+Upper Mount Royal|CA||2s|3xr|-8sw|r
+Upper Pauoa|US||ax|1n8|-c6g|q
+Upper Town|GI||90|2se|-ev|p
+Upig|PH||71|15r|9c3|n|Upeg
+Upper Nyack|US||48|367|-5pc|m
+Upper Miramichi|CA||43|3l3|-54h|m
+Uptar|RU||6z|4me|bn3|l|Oeptar
+Vathý|GR|North Aegean|8p|2wv|22y|j|Vati;Vathi;Upper Vathi
+Upton upon Severn|GB||9b|40m|-66|j|Upton-on-Severn
+Upper Hammonds Plains|CA||35|3gb|-4xc|i
+Upper Burnie|AU||8g|-363|b9a|i
+Upper Pohatcong|US||48|350|-5ss|i
+Upper Brookville|US||48|35g|-5od|i
+Upper Fruitland|US||2p|2u0|-8cv|h
+Upper Basildon|GB||9b|3z0|-36|e
+Upper West Lynn|CA||5b|3t1|-9hs|e
+Upchurch|GB||9b|3yq|1t|d
+Upper La Taste|GD||30|xv|-4r6|d
+Uplands|US||48|315|-5x1|d
+Upie|FR||9k|3gg|du|c
+Upper Delbrook|CA||5b|3t3|-9hw|c
+Upper Island Cove|CA||50|3od|-43t|b
+Upernavik|GL||4e|5m6|-4bz|b|Upernivik
+Upper Cumberworth|GB||9b|44t|-4p|b
+Upton|US|Wyoming|2p|3ei|-82n|b
+Tornado|US||48|2yi|-6bc|b|Andrews Heights;Big Bend;Upper Falls of Coal;Upper Falls;Upper Falls of Coal River
+Upper Bear Creek|US||2p|322|-84u|b|Adeií Shash Bikooh
+Upper Lake|US||3p|30s|-9hf|b|Upperlake
+Upper Sackville|CA||35|3gi|-4x4|a
+Upper Hartfield|GB||9b|3xx|9|a
+Upper Heyford|GB||9b|40a|-3h|a
+Upper Sturt|AU||8b|-2pa|ap8|9
+Upahl|DE||8r|45i|v6|8
+Upper Orara|AU||8l|-2c4|bt0|8
+Upper Brookfield|AU||8c|-24b|bsn|8
+Uplistsikhe|GE||7n|38l|3ep|7|Uplisziche;Uplisciche
+Poggio-di-Venaco|FR||9k|39e|pj|7|Venaco;Poggio di Venaco;U Poghju di Vènacu
+Upper Exeter|US||48|371|-5uo|7
+Upton|GB|England|9b|42a|4a|7
+Upper Denby|GB||9b|44s|-4m|7
+Upper Marlboro|US||48|2zu|-5x7|7
+Upton|US|Kentucky|48|2w3|-6ml|7
+Upham|GB||9b|3xm|-3f|7
+Upper Liard|CA||5c|4mt|-9y3|6
+Upstreet|GB||9b|3yl|3b|6
+Upper Gravenhurst|GB||9b|40h|-12|6
+Upphärad|SE||9w|4hk|y6|6
+Uplawmoor|GB||9b|4aw|-ci|6
+Upper Swan|AU||8k|-2g9|8yb|6
+Upper Lansdowne|AU||8l|-2g3|brj|6|Upper Landsdown
+Upper Lonsdale|CA||5b|3t2|-9hv|6
+Upaca|PE||3o|-tn|-5zy|5

@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Shenyang|CN||7i|383|9iv|1xzh|Šenjangas;Thẩm Dương;Senjang;Ŝenjango;Šeņjana;Šen-jang;Sjenyang;Sím-iông-chhī;Sīng-iòng;Shenyan;Swnjyangh;Şenyanq
+Shijiazhuang|CN||7i|2xo|8u0|18fk|Thạch Gia Trang;Š’-ťia-čuang;Šidziadžuangas;Ŝiĝjaĝŭango;Siŏh-gă-cŏng;Sicsiacsuang;Šidzjadžuana;Swzgyahcuengh;Chio̍h-ka-chng-chhī;Šidžjadžuang;Shicziyajuan;Şiciyajuang;Shihjiazhuang
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Chicago|US||2f|389|-6rh|kk5|Ĉikago;Sicagum;Čikaga;Şikago;Chicagu;Chikago;Kikako;Tsikago;Çikaqo;Chi-kâ-kô;Čėkaga;Shikago
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Shaoxing|CN||7i|2bc|9ay|hqw|Shawshin shehiri;Ŝaosing;Šao-sing;Thiệu Hưng;Sjaoxing;Siāu-heng-chhī;Siêu-hĭng;Shao-hsing;Shaohing
+Shangqiu|CN||7i|2nl|8xa|ecl|Shang-ch’iu;Shangkiu
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Shiraz|IR|Fars|7o|2a9|41x|9n7|Chiraz;Sjiraz;Şiraz;Xiraz;Ŝirazo;Širazas;Šīrāza;Sziraz;Schiras;Chimaz
+Shubrā al Khaymah|EG||c|2bp|2et|9kj|Shubra al-Khayma
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Shangrao|CN||7i|271|93m|8m5|Šang-žao;Thượng Nhiêu;Sjangrao;Siông-ngièu;Song-ngièu-sṳ;Siōng-jiâu-chhī;Shang-jao
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Shivaji Nagar|IN|Maharashtra|6t|1fh|5p5|7ps
+Sholapur|IN||6t|1d3|5uv|7p1|Solapur
+Charlotte|US|North Carolina|48|2pv|-68k|715|Sharlot;Carolinum;Šarlotė;Šarlota;Şarlott;Ŝarloto
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Shangyu|CN||7i|2be|9br|6h9
+Shaoyang|CN||7i|23o|8lm|5t8|Sjaoyang;Šao-jang;Ŝaojan;Chàu-yòng-sṳ;Thiệu Dương;Siêu-iòng;Siāu-iông-chhī
+Shah Alam|MY||6v|8l|7u1|5ps|Šach Alamas;Šahalama
+Shizuishan|CN||7i|30a|87j|5pe
+Shizuoka|JP||7q|2p6|aoe|5cm|Šizuoka;Šidzuoka;Sidzuok;Sizuoka-chhī;Siduoka
+Stuttgart|DE||8r|3ri|pi|4q7|Stutgarto;Stoccarda;Stutgardia;Štutgartas;Štutgarte;Estugarda;Shtutgarti;Stucarda;Shtutgart;Stocarda;Ştutqart;Stuggart
+Shuangyashan|CN||7i|3lo|a49|4mo|Sĕ̤ng-ák-săng;Šuang-ja-šan;Song Áp Sơn;Siang-ah-san-chhī
+Shekhupura|PK||6q|2g3|5pj|4ka|Sheikhu Pura;Śekhupura;Sheikhupura
+Shihezi|CN||7t|3f2|6n0|4f4|Shixenze
+Chợ Lớn|VN||6h|tv|88a|4bu|Sholon
+Sheffield|GB||9b|44a|-43|4al|Ŝefildo;Šefildas;Šefīlda;Şeffild
+Shangluo|CN||7i|2m3|8hd|43p
+Mazār-e Sharīf|AF||6o|2tz|56f|41d|Mazari Sharif;Mazār-e Šarīf;Masar-e Scharif;Mazar-i Szarif;Mazar-e-Sharif;Mezirek-i Şerif;Mazar-i Sharif;Mazar-e Charif;Mazāre S̄rīf;Mazār-i-Sharīf;Mazari-Sharif
+Siliguri|IN||6t|227|6tn|3z8|Shiliguri;Silguri;Siligun
+Sha Tin|HK||6i|1q6|8t6|3tk|Shatin
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Shanwei|CN||7i|1ra|8wf|3sm|Šan-wej;San-mî-sṳ;Sán Vĩ;Sáng-muōi
+Skopje|MK||9u|38o|1nj|3nx|Skopjo;Skoplje;Szkopje;Scupi;Escópia;Skopiye;Shkupi;Üsküp;Skopye;Scopia;Skopia;Skopie;Skoplie;Shkup;Skopeia;Usküb

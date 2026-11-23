@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mönchengladbach|DE||8r|3y7|hw|20p|Jlabbach;Menchengladbachas;Menhengladbaha;Muenchen-Gladbach
+Bergisch Gladbach|DE||8r|3xn|jt|ti|Jläbbisch
+Ilbesheim|DE||8r|3sm|md|c|Jlbesheim
+Beniamin|AM||80|351|3dt|6|Chlokhan;Jlovkhan

@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kanpur|IN||6t|21j|677|ls8|Cawnporne;Cawnpore;Kānpwr
+Cawayan|PH|Calabarzon|71|115|9gb|1j
+Cawayan Bugtong|PH||71|17f|9bi|10|Cawayan Bugtang;Kawayah Bugtong;Cawayang Bugtong
+Cawayan|PH|Western Visayas|71|wa|9g6|v|Cauayan
+Cawayan|PH|Mimaropa|71|z6|9dn|t
+Cawayan|PH|Central Visayas|71|r8|9j5|r|Cauayan;Kawayan
+Cawood|GB||9b|45j|-35|e
+Cawston|GB||9b|42l|39|c
+Cawston|CA||5b|3sm|-98o|a
+Cawthorne|GB||9b|44t|-4d|9
+Cawarral|AU||8c|-1sn|bmj|8
+Cawood|US||48|2u6|-6f7|7

@@ -1,0 +1,221 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vũng Tàu|VN||6h|sr|89g|3l5|Cap-Saint-Jacques;Saint James;Ville du Cap;Cape Saint James;St. James
+St. John's|CA||50|3o4|-42f|up|Saint John's;St Johns;San Juan de Terranova;Baile Naoimh Eòin;Baile Sheáin;Sent Džonsas;Sanctus Ioannes Terrae Novae;Saint John;Saint-Jean de Terre-Neuve;Saint-Jean;Sent-Jons;Sent-Cons
+Santiago de Compostela|ES||9d|3b4|-nr|rn|Saint-Jacques-de-Compostelle;Compostelako Donejakue;Santiago di Compostela;Compostella;Santiaqo de Kompostela;Santiagu de Compostela;Santiago de Kompostela;Santiago de Compostella;Santjago de Kompostela;Compostèla;Sint-Djåke-el-Galice
+Saint-Jean-sur-Richelieu|CA||59|3hv|-5ni|r8
+Saint Joseph|US|Missouri|2f|32h|-7bh|lc|St. Joseph;Sankta Jozefo
+Saint John|CA||43|3hr|-53i|jy|Saint-Jean;Urbs Sancti Ioannis Canadensis
+Saint-Jérôme|CA||59|3j6|-5pk|f9
+Saint John’s|AG||1j|1bk|-4rs|ed|St. John's;St Johns;Sent Džonsas;St.John.s;St John's;Sen Jaan;San Xuan;Sent Cons;Sankta Johano;Sant-Johns;Sen Jòns;San Gioàn;Saint John
+Saint-Joseph|RE||ai|-1ne|4ai|as
+Saint-Josse-ten-Noode|BE||8t|3x9|c5|7m|Sint-Joost-ten-Node;Nauda Sancti Iudoci
+Saint-Jean-de-Braye|FR||9k|3p3|5i|5j
+Saint-Jean-de-la-Ruelle|FR||9k|3p3|56|4v
+Saint-Joseph|MQ||3v|14r|-4pk|4q
+Saint John West|CA||43|3hq|-53k|49
+Saint John|US|Indiana|2f|375|-6qz|45|St. John
+Saint John East|CA||43|3ht|-53g|42
+Saint-Jean-de-Luz|FR||9k|3cj|-4m|41|San Juan de Luz;Donibane Lohizune;Sant Chuan de Luz;Sent Joan de Lus;Sant Joan Lohitzune;Fanum Sancti Ioannis de Luce;San Juan de Luze
+Saint-Just|FR|Provence-Alpes-Côte d'Azur|9k|3cc|f1|40
+Saint-Just-Saint-Rambert|FR||9k|3ie|bs|3z
+San Ġiljan|MT||9e|2rs|149|3u|San Julián;St. Julian's;San Julian's;Saint Julian's;San Ġilian;Saint Julian
+Saint James|US|New York|48|35k|-5n8|3p|St. James
+Saint-Junien|FR||9k|3jh|2i|38|Sent Junian de Chalhac;Sent Junian
+Saint-Julien-en-Genevois|FR||9k|3k6|gw|2t|Fanum Sancti Iuliani
+Saint-Jérôme|FR||9k|3cd|f2|2t
+Saint-Julien|FR|Provence-Alpes-Côte d'Azur|9k|3cb|f5|2r
+Saint-Jean-de-Maurienne|FR||9k|3hs|hn|2n|San Giovanni di Moriana;Fanum Sancti Ioannis Maurianensis;Sent-Jian-de-Môrièna
+Saint-Jean|FR|Occitanie|9k|3db|46|2j
+Saint-Jean-de-Védas|FR||9k|3d2|an|2j|Sant Joan de Vedats
+Saint-Jean-le-Blanc|FR||9k|3p1|5c|2i
+Saint James|KY||2e|1hj|-69t|2f
+Sint-Job-in-'t-Goor|BE||8t|3yi|cp|2d|Saint-Job-in 't-Goor
+Saint-Jacques-de-la-Lande|FR||9k|3pi|-4s|2d|Sant-Jakez-Al-Lann;Sanctus Iacobus de Landis
+Saint Joseph|US|Michigan|2q|38z|-6o8|2c
+Saint Johns|US|Michigan|2q|3bg|-6iw|27|St. Johns;Saint John's
+Saint Johns|US|Missouri|2f|2zj|-6yy|25|St. Johns;Saint Johm;Saint John
+Saint-Jean-de-Monts|FR||9k|3lz|-5q|22
+Saint-Jean-d'Angély|FR||9k|3jm|-1g|1z
+Saint-Juéry|FR||9k|3e3|65|1y
+Saint-Jean-d'Illac|FR||9k|3gh|-26|1w
+Saint-Julien-de-Concelles|FR||9k|3n9|-3v|1w|Sant-Juluan-Kankell;Sanctus Iulianus de Concellis
+Saint John|US|Missouri|2f|2zj|-6yz|1u
+Saint-Julien-les-Villas|FR||9k|3q3|be|1t
+Saint Joseph|US|Minnesota|2f|3ik|-7a0|1t|St. Joseph
+Saint Johns|NZ||ak|-2uf|dho|1r
+Saint-Joseph-du-Lac|CA||59|3ih|-5pk|1q
+Saint Johnsbury|US||48|3fe|-5k2|1q|St. Johnsbury
+Saint-Jean-Bonnefonds|FR||9k|3ia|cc|1p
+Saint-Just-en-Chaussée|FR||9k|3tj|6r|1m|Saint-Just-in-Cœuchie
+Saint-Jorioz|FR||9k|3jb|h4|1k
+Saint-Joseph|FR|Provence-Alpes-Côte d'Azur|9k|3cf|ey|1g
+Saint-Joseph-de-Beauce|CA||59|3km|-5gv|1e
+Saint-Jean-de-Boiseau|FR||9k|3n3|-4s|1d|Sant-Yann-ar-Granneg
+Saint-Jean-de-Matha|CA||59|3kf|-5o9|1c
+Saint James|US|Minnesota|2f|3e6|-7av|1a|St. James
+Saint-Jory|FR||9k|3di|3t|1a
+Saint James|US|Missouri|2f|2xk|-72h|16|St. James
+Saint-Jean-de-Bournay|FR||9k|3ie|ea|16
+Saint-Just-Malmont|FR||9k|3hy|bz|15
+Saint-Joachim|FR||9k|3nm|-64|15|Sant-Yoasin
+Saint Joseph|US|Illinois|2f|33f|-6sk|14
+Saint-Jean du Désert|FR||9k|3c9|f2|12
+Saint James City|US||48|21m|-6c0|12
+Saint-Jeannet|FR||9k|3dj|ju|12
+Saint Johns|US|Arizona|4i|2nv|-8fs|z|St. Johns;Saint John
+St-Jean-Port-Joli|CA||59|3n5|-5f7|x|Saint-Jean-Port-Joli
+Saint-Julien-lès-Metz|FR||9k|3sh|h8|w
+Saint Julien|MU||ag|-1k5|4g8|w
+Saint James|US|North Carolina|48|2m9|-610|w
+Saint-Jean-en-Royans|FR||9k|3h2|ep|v|Sant Joan de Roians
+Saint John|JE||95|3st|-5y|v|St. John’s Church;St. John;Saint Jean
+Saint-James|FR||9k|3qs|-3p|u
+Saint-Jeoire|FR||9k|3k6|hy|u
+Saint James|US|Maryland|48|31w|-600|u|St. James
+Saint-Jean-du-Gard|FR||9k|3ej|at|t|Sent Jan de Gardonenca;Sant Joan de Gardonenca
+Saint-Jean-de-Moirans|FR||9k|3hz|fj|t
+Saint-Just|FR|Occitanie|9k|3da|bf|s|Sant Just
+Saint-Jouan-des-Guérets|FR||9k|3r0|-5h|r|Sant-Yowan-an-Havreg
+Saint-Julien-les-Rosiers|FR||9k|3ep|bf|r
+Saint-Jean-Brévelay|FR||9k|3ox|-7k|q|Sant-Yann-Brevele;Saint-Jean-Brévalay
+Saint-Joseph|CA||59|3jo|-5ne|q
+Saint-Jacques-sur-Darnétal|FR||9k|3tc|3c|p
+Saint-Jean-de-Muzols|FR||9k|3h8|dd|p
+Saint-Just-Chaleyssin|FR||9k|3in|dw|o
+Saint-Jean-du-Falga|FR||9k|3bp|4j|o
+Saint-Julien-du-Sault|FR||9k|3pf|96|o
+Saint Joseph|DM||2r|16t|-4qm|m|Saint-Joseph;Sent Cosef;São José
+Saint-Jean-Cap-Ferrat|FR||9k|3dd|kd|l|Sant Joan de Cap Ferrat
+Saint-Just-le-Martel|FR||9k|3je|3v|k|Sent Just;Saint-Just
+St. Jean-Pla-de-Corts|FR||9k|3a3|7r|j|Sant Joan;Saint-Jean-Pla-de-Corts;Sant Joan de Pladecorts;Sant Joan de Pagès
+Saint-Julien-Chapteuil|FR||9k|3h3|ba|j|Sant Julian e Chaptuèlh
+Saint-Julien|FR|Brittany|9k|3ql|-7t|j|Sant-Juluan-Pentevr
+Saint-Jean-de-Liversay|FR||9k|3kj|-2g|i
+Saint-Jean-Pied-de-Port|FR||9k|3bw|-3g|i|Donibane-Garazi;San Juan Pie de Puerto;Fanum Sancti Ioannis Pedeportuensis;Sant Joan de Peu de Port;Donibane Garazi;Sent Joan Pè de Pòrt;Sant Chuan Piet de Puerto
+Saint-Joseph|FR|Auvergne-Rhône-Alpes|9k|3ik|cu|i
+Saint-James|MF||3u|1e6|-4v9|h
+Saint Johnsville|US||48|3bg|-5rg|h
+Saint-Jean-Baptiste|CA||59|3i2|-5pl|h
+Saint-Jacut-les-Pins|FR||9k|3oh|-65|h|Sant-Yagu-ar-Bineg;Sanctus Iacutus Pinis
+Saint-Jacques-le-Mineur|CA||59|3hs|-5ny|h
+Saint-Just-Luzac|FR||9k|3j8|-2v|h
+Saint-Julien|FR|Provence-Alpes-Côte d'Azur|9k|3dd|gf|g
+Saint-Jouin-Bruneval|FR||9k|3tw|g|g
+Saint Josephs|US||48|315|-5x0|g
+Saint-Joseph-de-Sorel|CA||59|3jv|-5n4|g
+Saint-Jean-des-Mauvrets|FR||9k|3no|-19|f
+Saint-Jean-le-Vieux|FR|Auvergne-Rhône-Alpes|9k|3jv|ez|f
+Saint-Jans-Cappel|FR||9k|3x0|7k|f|Sint-Janskappel;Sint-Jans-Kapel
+Saint-Jean|FR|Pays de la Loire|9k|3n9|-12|f
+Saint-Jean-la-Poterie|FR||9k|3oc|-5x|f|Sant-Yann-ar-Wern
+Saint-Julien-en-Born|FR||9k|3ee|-3f|e|Sent Julian de Bòrn
+Saint-Just-la-Pendue|FR||9k|3jh|bs|e
+Saint-Joachim|CA||59|3mq|-5gu|e
+Saint-Jouvent|FR||9k|3jo|3c|e
+Saint-Just-Sauvage|FR||9k|3qv|ai|e
+Saint-Jean-de-Sauves|FR||9k|3m4|9|e
+Saint-Jean-de-Thouars|FR||9k|3mg|-l|e
+Saint-Just|FR|Normandy|9k|3sf|40|e
+Saint-Jean-de-Niost|FR||9k|3jb|ei|e
+Saint-Just-en-Chevalet|FR||9k|3jj|ao|d
+Saint-Jean-les-Deux-Jumeaux|FR||9k|3rz|8e|d
+Saint-Jean-du-Cardonnay|FR||9k|3ti|2t|d
+Saint-Joseph-de-Coleraine|CA||59|3jp|-5i9|d
+Saint-Jean-de-Losne|FR||9k|3mu|en|d|Latona
+Saint-Jean-de-Gonville|FR||9k|3kd|gj|d
+Saint-Jean-de-Fos|FR||9k|3de|9v|d
+Saint John|US|Kansas|2f|2xk|-7mc|d|St. John
+Saint-Julien|FR|Bourgogne-Franche-Comté|9k|3no|ea|d
+Saint-Jean-sur-Mayenne|FR||9k|3pp|-23|d
+Saint-Just-d'Ardèche|FR||9k|3f2|ct|c
+Saint-Julien-de-Peyrolas|FR||9k|3f1|co|c
+Saint-Julien-des-Landes|FR||9k|3lk|-4r|c
+Saint-Jean-d'Aulps|FR||9k|3kf|ih|c
+Saint Joseph|US|Louisiana|2f|2go|-71f|c
+Saint-Julien-Molin-Molette|FR||9k|3hw|cu|c|Sant Julian de Moleta
+Saint-Jean-des-Champs|FR||9k|3rn|-42|b
+Saint-Just-de-Claix|FR||9k|3h8|eo|b
+Sint-Jan-in-Eremo|BE||8t|3yf|9y|b|Saint-Jean-in-Eremo
+Saint-Joseph-de-Rivière|FR||9k|3i2|fu|b
+Saint-Jean-de-Sixt|FR||9k|3jk|ht|b
+Saint Jacob|US||2f|2zj|-6xd|b|St. Jacob
+Saint-Josse|FR||9k|3w7|4m|b
+Saint-Janvier-de-Joly|CA||59|3l4|-5j3|b
+Saint-Julien-en-Saint-Alban|FR||9k|3gb|d2|b
+Saint-Jean-de-Soudain|FR||9k|3il|f3|b|Saint-Jean-de-Soudin
+Saint-Jean-sur-Veyle|FR||9k|3ki|do|b
+Saint Jo|US||2f|2ll|-7iw|a
+Saint-Just|FR|Brittany|9k|3op|-5g|a|Sant-Yust
+Saint-Jean-des-Baisants|FR||9k|3sd|-2p|a
+Sint-Jan|BE||8t|3xb|82|a|Saint-Jean
+Saint-Jean-sur-Couesnon|FR||9k|3q5|-3t|a|Sant-Yann-ar-C'houenon
+Saint-Jean-Rohrbach|FR||9k|3s7|j4|a|Saint Jean-Rorbach
+Saint-Jean-Geest|BE||8t|3wy|dm|a
+Saint-Jean-de-Marsacq|FR||9k|3d7|-3i|a|Saint-Jean-de-Marsac
+Saint-Jean-le-Vieux|FR|New Aquitaine|9k|3bx|-3b|a|Saint-Jean;Donazaharre
+Saint-Justin|CA||59|3kh|-5n1|a
+Saint-Jean-sur-Vilaine|FR||9k|3po|-3s|a|Sant-Yann-ar-Gwilen
+Saint-Julien-de-Vouvantes|FR||9k|3oc|-3g|9|Sant-Juluan-Gouwent;Sanctus Iulianus de Voantis
+Saint-Jean|FR|Provence-Alpes-Côte d'Azur|9k|3g3|ha|9|Sant Joan e Montorsièr;Sant Joan Sant Nicolau
+Saint-Julien-de-Coppel|FR||9k|3ix|97|9
+Saint-Jean-de-la-Porte|FR||9k|3ik|h1|9
+Saint-Jeoire-Prieuré|FR||9k|3ih|gn|9
+Saint-Jacut-de-la-Mer|FR||9k|3r0|-63|9|Sant-Yagu-an-Enez;Sanctus Iacutus de Insula
+Saint-Jean-la-Bussière|FR||9k|3js|c0|9
+Saint-Jean-Trolimon|FR||9k|3oz|-bw|9|Sant-Yann-Drolimon
+Saint-Jean-de-la-Motte|FR||9k|3om|6|9
+Saint-Jean-de-Verges|FR||9k|3bh|4h|9
+Saint-Just|FR|Auvergne-Rhône-Alpes|9k|3kb|eo|9
+Saint-Justin|FR||9k|3e6|-n|8
+Saint James|US|Louisiana|2f|2ba|-70b|8
+Saint-Jean-de-Maruéjols-et-Avéjan|FR||9k|3ey|bx|8|Sent Jan de Maruèjols e Avejan;Sent Joan de Maruèjols e Avejan;Saint-Jean-de-Marvejols-et-Avejan
+Saint-Jean-de-Tholome|FR||9k|3k3|hr|8
+Saint-Jeures|FR||9k|3ha|bp|8
+Saint-Julien|FR|Auvergne-Rhône-Alpes|9k|3jv|cx|8
+Saint Joseph|US|Tennessee|2f|2pc|-6r3|8
+Saint-Jean-de-Valériscle|FR||9k|3ev|bi|8|Saint-Jean-de-Valérisele
+Saint-Jean-de-Folleville|FR||9k|3tk|1f|8
+Saint-Julien-du-Serre|FR||9k|3g2|c9|8
+Saint-Joseph|FR|Normandy|9k|3tl|-49|8
+Saint-Jacut-du-Mené|FR||9k|3q4|-6w|7|Sant-Yagu-ar-Menez
+Saint-Jean-Soleymieux|FR||9k|3ie|b8|7
+Saint-Julien-Beychevelle|FR||9k|3hh|-22|7
+Saint-Jean-Kourtzerode|FR||9k|3rg|jz|7|Saint-Jean-de-Kourtzerode
+Saint-Julien-de-Chédon|FR||9k|3ne|3c|7
+Saint-Jacques-de-Leeds|CA||59|3kk|-5i6|7
+Saint-Julien-sur-Cher|FR||9k|3nc|4x|7
+Saint-Jean-de-Touslas|FR||9k|3im|cy|7
+Saint-Jean-du-Doigt|FR||9k|3ra|-ah|7|Sant-Yann-ar-Biz
+Saint-Jean-du-Bruel|FR||9k|3ea|9c|7|Sent Joan del Bruèlh
+Saint-Jory-de-Chalais|FR||9k|3ie|2i|7|Sent Jòri de Chalés;Saint-Jory-de-Chaleix;Saint-Jory-de Chalais
+Saint-Jodard|FR||9k|3jg|bh|6
+Saint-Jammes|FR||9k|3cg|-p|6|Sent Jacme
+Saint-Jean-Saint-Germain|FR||9k|3ms|2w|6
+Saint-Jean-de-Daye|FR||9k|3sr|-36|6
+Saint-Jean-sur-Reyssouze|FR||9k|3kw|e2|6
+Saint-Jean-de-Chevelu|FR||9k|3iy|g7|6|Saint Jean-le Chevelu
+Saint-Juvat|FR||9k|3qb|-5o|6|Sant-Yuvad
+Saint-Julien-le-Faucon|FR||9k|3sb|9|6
+Saint-Jean-Lasseille|FR||9k|3aa|7z|6|Sant Joan la Cella
+Saint-Jean-Saverne|FR||9k|3rh|kg|6|Sankt Johann bei Zabern;Sànt Johànn
+Saint-Julien-de-Lampon|FR||9k|3gm|3s|6
+Saint-Julien-sur-Sarthe|FR||9k|3qp|10|6
+Saint-Jal|FR||9k|3i4|4k|6
+Saint-Jean-le-Centenier|FR||9k|3fv|cm|6
+Saint-Jean-de-Thurigneux|FR||9k|3jn|dk|6
+Saint-Joseph-de-Lepage|CA||59|3qx|-59d|6
+Saint-Just|FR|Centre-Val de Loire|9k|3mj|6z|6
+Saint-Jouin-de-Marnes|FR||9k|3m8|-6|6
+Saint-Julien-sur-Veyle|FR||9k|3kc|ds|6
+Saint-Julien-de-Cassagnas|FR||9k|3et|bo|6
+Saint-Julien-sur-Reyssouze|FR||9k|3kw|e7|6|Saint-Julien-sur-Ressouze
+Saint-Julien-de-Civry|FR||9k|3kt|br|6
+Saint-Jean du Sud|HT||4j|1e8|-5p1|5|Sen Jan di Sid
+Saint John|US|Washington|3p|3mt|-92m|5
+Saint-Julien-sur-Bibost|FR||9k|3j8|ck|5
+Saint-Jean-de-Cornies|FR||9k|3dj|b4|5
+St Johnston|IE||8z|48m|-kq|5|Saint Johnstown;Baile Suingean;St. Johnstown;Saint Johnston;St. Johnston
+Saint Johnston Village|AG||1j|1bk|-4rr|5|Sen Jaanstin;Saint Johnstone Village
+Saint-Julien-aux-Bois|FR||9k|3hd|5y|5
+Saint-Jean-du-Bois|FR||9k|3oz|-4|5
+Saint Joseph|US|Wisconsin|2f|3dn|-70w|5

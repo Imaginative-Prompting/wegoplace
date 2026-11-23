@@ -1,0 +1,199 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "wegoplace",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-01",
+  // nodejs_compat: the MCP's server library (agents, src/mcp/server.js) uses node:async_hooks, as
+  // Lexicommons' does. global_fetch_strictly_public: every fetch() the Worker makes goes to the
+  // public internet only, which the OAuth library needs before it fetches an app's client metadata
+  // document (CIMD, how Claude says who it is), and which also keeps a picture fetched by address
+  // from reaching a private address. The checks' own config takes it out (checks/lib/server.mjs):
+  // their stand-ins for far sites and the rates provider are on this machine.
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  // The Worker answers only on the site's own address. No workers.dev address and no preview
+  // addresses: a second origin would be a second place to sign in, with its own passkeys.
+  "workers_dev": false,
+  "preview_urls": false,
+  // Its two addresses, wegoplace.com and www.wegoplace.com, are ROUTES on the zone's own proxied
+  // DNS records (the CNAMEs the Pages project had), attached once by the cutover's deploy:
+  //   npx wrangler deploy --route "wegoplace.com/*" --route "www.wegoplace.com/*"
+  // A route runs on a record that exists, so neither name stops resolving at the cutover (a
+  // Custom Domain can't be made where a CNAME exists, and deleting the record first would leave
+  // "no such name" cached for half an hour). They are not listed here: `wrangler dev` sends every
+  // request to a configured route's host, which would take each local server off its own
+  // address, and a deploy whose config names no routes leaves the attached ones as they are
+  // (wrangler publishes routes only when it is given some). docs/wgp-server.md, "Production
+  // steps". The second address serves the same site in full (ALSO_ORIGINS, below) for a phone
+  // whose app was added there; its pages send a new visitor to the first (public/js/www.js).
+  // A site of its own on a fresh name: a Custom Domain here instead,
+  //   "routes": [{ "pattern": "example.com", "custom_domain": true }],
+  // since there is no record to keep; routes are for a name that already serves a site.
+  // public/ is the app, served as it is (there is no build step), by Cloudflare's asset
+  // server and to anyone: the files are the same for everyone and hold nothing of anyone's.
+  // run_worker_first lists what the Worker answers instead: the API, stored files, map data,
+  // a shared board's page, the sign-in addresses, a join link's page. An address that names
+  // no file gets index.html, which is what Cloudflare Pages did for this site.
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    // "/__scheduled" only for `wrangler dev --test-scheduled`, which runs the drain there (the
+    // checks use it); anywhere else the Worker hands it to the file server like any page.
+    // The MCP's addresses (src/mcp/): /mcp itself, connecting an app (/authorize), and the
+    // OAuth provider's own (/token, /register, /.well-known/…). The site owner's page of what broke (/admin/errors).
+    "run_worker_first": ["/api", "/api/*", "/media/*", "/tiles/*", "/s/*", "/login/*", "/join/*", "/trips/*", "/t/*", "/pictures/*", "/__scheduled", "/admin/*",
+      "/mcp", "/mcp/*", "/authorize", "/token", "/register", "/.well-known/*"],
+    "not_found_handling": "single-page-application"
+  },
+  // Workers AI, for one thing only: a PDF or an office file a person gives the assistant, read as Markdown by
+  // Cloudflare's own conversion (env.AI.toMarkdown; free for those formats). Workers AI has no local simulation: from
+  // wrangler dev it runs on the account, so the checks' servers drop this binding unless a run asks for it
+  // (checks/lib/server.mjs `ai`; the bake-off's --real-ai, on its made-up fixtures only). Without it, such a file is
+  // refused in words as one this site can't read.
+  "ai": { "binding": "AI", "remote": true },
+  // People, trips and everything in them. The ids below (the database's and the OAuth store's) are placeholders: wrangler
+  // dev keeps its own local copies by binding. For a deploy of your own, `wrangler d1 create wegoplace` and
+  // `wrangler kv namespace create wegoplace-oauth`, and put their ids here.
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "wegoplace",
+      "database_id": "00000000-0000-0000-0000-000000000000",
+      "migrations_dir": "migrations"
+    }
+  ],
+  // The MCP's OAuth grants and tokens (@cloudflare/workers-oauth-provider keeps them here): the site's own store, never
+  // another site's. Locally, wrangler dev keeps its own.
+  "kv_namespaces": [{ "binding": "OAUTH_KV", "id": "00000000000000000000000000000000" }],
+  // Live updates: one room per trip (src/trips/room.js), holding its open tabs' sockets. SQLite-
+  // backed because a free account can create no other kind; it stores nothing.
+  // Each trip's map maker (src/map/map-object.js): cuts the trip's offline map from the world build
+  // when its areas change, in an alarm, one at a time per trip.
+  "durable_objects": { "bindings": [{ "name": "ROOMS", "class_name": "TripRoom" }, { "name": "MAPS", "class_name": "TripMap" }] },
+  "migrations": [{ "tag": "v1-trip-rooms", "new_sqlite_classes": ["TripRoom"] }, { "tag": "v2-trip-maps", "new_sqlite_classes": ["TripMap"] }],
+  // The guides the MCP serves (src/mcp/guides/*.md), bundled as text.
+  "rules": [{ "type": "Text", "globs": ["**/*.md"], "fallthrough": true }],
+  "r2_buckets": [
+    // Protomaps .pmtiles extracts for a trip's map areas, served by src/tiles.js with Range
+    // support so the map can fetch byte ranges out of one file.
+    { "binding": "TILES", "bucket_name": "wegoplace-tiles" },
+    // Trip photos and videos. Its own bucket: a different lifecycle and size profile from the
+    // tiles, and the thing storage limits meter.
+    { "binding": "MEDIA", "bucket_name": "wegoplace-media" }
+  ],
+  // Limits per connection (src/accounts/util.js `limited`).
+  "ratelimits": [
+    // Starting a passkey ceremony, finishing one, leaving for Google or GitHub, asking to get
+    // back in by email: each on its own count. 60 a minute, so 60 people behind one address (a
+    // hostel, an office) can sign in in the same minute.
+    { "name": "AUTH_LIMITER", "namespace_id": "7301", "simple": { "limit": 60, "period": 60 } },
+    // Cookies that find no session: a request is counted before its cookie is looked up in the
+    // database, unless this isolate saw that cookie's session good in the last 30 seconds, so
+    // guessing cookies is what spends the 1,200 a minute and a signed-in person's own use
+    // (a map's tiles, a page of photos) is not. See src/accounts/sessions.js.
+    { "name": "SESSION_LIMITER", "namespace_id": "7302", "simple": { "limit": 1200, "period": 60 } },
+    // Pictures fetched by address and upload links made, per account (src/trips/pictures.js):
+    // each a count of its own, PICTURE_FETCHES_PER_MINUTE in public/js/shared/limits.js.
+    { "name": "PICTURE_LIMITER", "namespace_id": "7303", "simple": { "limit": 20, "period": 60 } },
+    // Requests to /mcp, per account, all its apps together (src/mcp/server.js MCP_CALLS_PER_MINUTE).
+    { "name": "MCP_LIMITER", "namespace_id": "7304", "simple": { "limit": 300, "period": 60 } },
+    // A trip's map planned for areas it doesn't have yet (POST …/tiles/plan, src/map/routes.js): it
+    // reads the world build's directories, a few seconds each, so per trip, MAP_PLANS_PER_MINUTE.
+    { "name": "MAP_PLAN_LIMITER", "namespace_id": "7305", "simple": { "limit": 10, "period": 60 } },
+    // Searches for real places and their photos, per account (src/mcp/tools.js find_places and find_picture),
+    // each a count of its own: they read Protomaps' and Wikimedia's free services. FIND_CALLS_PER_MINUTE.
+    { "name": "FIND_LIMITER", "namespace_id": "7306", "simple": { "limit": 30, "period": 60 } },
+    // Bug reports (src/bug-reports.js), per account when signed in, per connection when not: BUG_REPORTS.perMinute in
+    // public/js/shared/bug-rules.js. The day's limits are in the write itself.
+    { "name": "BUG_LIMITER", "namespace_id": "7307", "simple": { "limit": 5, "period": 60 } }
+  ],
+  "vars": {
+    // Where the site lives. Passkeys are made for RP_ID and checked against the site's addresses, and
+    // Google and GitHub are told to come back to PUBLIC_ORIGIN. For local development both come
+    // from .dev.vars (see .dev.vars.example).
+    "PUBLIC_ORIGIN": "https://wegoplace.com",
+    // Other addresses that serve the same site in full (comma-separated): a page there signs in,
+    // writes and listens as at PUBLIC_ORIGIN, with a session of its own, and every address the
+    // site prints for someone else is still PUBLIC_ORIGIN's (src/accounts/util.js siteOrigins).
+    // A passkey works at both: RP_ID is the domain they share.
+    "ALSO_ORIGINS": "https://www.wegoplace.com",
+    "RP_ID": "wegoplace.com",
+    "RP_NAME": "WeGoPlace",
+    // New accounts: "open", or "paused" (nobody can make one; everyone who has one signs in).
+    "SIGNUPS": "open",
+    // Sign in with Google and GitHub. Each is offered once its client id is here and its secret
+    // is set (GOOGLE_CLIENT_SECRET, GITHUB_CLIENT_SECRET: `wrangler secret put`). Both ids are
+    // public. Each app's redirect address is PUBLIC_ORIGIN + /login/google/callback or
+    // /login/github/callback. With neither, the site has passkeys only. Empty here: a site sets its own apps' ids.
+    "GOOGLE_CLIENT_ID": "",
+    "GITHUB_CLIENT_ID": "",
+    // The address account email comes from (src/accounts/email.js): a code to get back in when
+    // every passkey is lost. Empty: no account email. It also needs the binding below.
+    "EMAIL_FROM": "",
+    // What an account may hold across the trips it hosts, in bytes (src/trips/storage.js).
+    // Empty: the free limit, 1 GiB (public/js/shared/limits.js). A site of its own may set it.
+    "STORAGE_LIMIT_BYTES": "",
+    // The plan (docs/model.md §20, src/billing/): more room across a host's trips, and the
+    // assistant on them. OFF unless "true" AND Stripe's keys and prices are set (the secrets
+    // STRIPE_SECRET_KEY and STRIPE_WEBHOOK_SECRET: `wrangler secret put`); off, nothing is shown
+    // and every plan route answers 404. A site of its own leaves it off.
+    "PLAN_ENABLED": "",
+    // "paused": the plan isn't sold (Checkout refused in words), while everyone who has it keeps it, its renewals, the
+    // Portal and the webhook. The way to stop selling for a while; empty is on sale.
+    "PLAN_SALES": "",
+    // "true" once the assistant is built and its model's key set (§20): until then the plan's card
+    // offers the room alone, and never names an assistant that isn't there.
+    "ASSISTANT_ENABLED": "",
+    // The assistant's model on OpenRouter (its id) and its prices in millionths of a dollar a token,
+    // input and output, as OpenRouter lists them: only the worst case reserved before a call uses them,
+    // and a call is charged what OpenRouter says it cost (src/assistant/). His to pick (§20); empty: off.
+    // The key is the secret OPENROUTER_API_KEY (`wrangler secret put`).
+    "ASSISTANT_MODEL": "",
+    "ASSISTANT_PRICE_INPUT": "",
+    "ASSISTANT_PRICE_OUTPUT": "",
+    // How hard the model thinks, one of OpenRouter's reasoning levels (max, xhigh, high, medium, low,
+    // minimal, none; src/assistant/provider.js EFFORTS). Empty: no reasoning field is sent, and the model
+    // thinks as its own default has it. Its thinking comes out of each call's max_tokens.
+    "ASSISTANT_REASONING_EFFORT": "",
+    // The model a call goes to once more when the first model's provider refuses it (a provider's own error: a 5xx,
+    // no endpoint, a 400 the provider sent; never a limit of ours, never a call cut short): its id, its prices as
+    // above, and its own reasoning level (empty: its default). Still only providers that keep nothing. Empty: none,
+    // and a refused call ends the ask in words, as before (src/assistant/provider.js).
+    "ASSISTANT_FALLBACK_MODEL": "",
+    "ASSISTANT_FALLBACK_PRICE_INPUT": "",
+    "ASSISTANT_FALLBACK_PRICE_OUTPUT": "",
+    "ASSISTANT_FALLBACK_REASONING_EFFORT": "",
+    // "true" offers the assistant OpenRouter's web search (Exa) beside its own tools (src/assistant/talk.js
+    // webSearch), at most ASSISTANT_WEB_SEARCH_MAX searches a call (empty: 3). SHIPS EMPTY: the search words go to
+    // Exa under its own policy, so the privacy page's "only providers that keep nothing" holds only while it's off.
+    "ASSISTANT_WEB_SEARCH": "",
+    "ASSISTANT_WEB_SEARCH_MAX": "",
+    // Stripe's prices for the plan (price_…, from his Stripe product), and the Portal's
+    // configuration (bpc_…, optional; Stripe's default otherwise). Ids, not secrets.
+    "STRIPE_PRICE_MONTHLY": "",
+    "STRIPE_PRICE_YEARLY": "",
+    "STRIPE_PORTAL_CONFIGURATION": "",
+    // "true": Stripe works out tax at Checkout (Stripe Tax must be on in his account).
+    "STRIPE_AUTOMATIC_TAX": "",
+    // His numbers (§20). Empty: the picks (50 GiB; $2.00 of model cost a month, in millionths of a dollar).
+    "PLAN_POOL_BYTES": "",
+    "PLAN_AI_ALLOWANCE_MICRO": ""
+  },
+  // The drain (src/trips/drain.js): every 15 minutes, the files whose rows are gone are removed
+  // from the bucket, and uploads abandoned past their day are aborted.
+  "triggers": { "crons": ["*/15 * * * *"] }
+  // Account email is sent by Cloudflare's Email Sending, which has to be switched on for the
+  // domain first. Then add this binding beside "vars" and set EMAIL_FROM:
+  //   "send_email": [{ "name": "EMAIL" }]
+  //
+  // Secrets (`wrangler secret put <NAME>` when deployed, a line in .dev.vars locally):
+  //   GOOGLE_CLIENT_SECRET, GITHUB_CLIENT_SECRET   see above
+  //   OPENROUTER_API_KEY   the assistant's model (src/assistant/), only with ASSISTANT_ENABLED and the plan
+  //   STRIPE_SECRET_KEY, STRIPE_WEBHOOK_SECRET   the plan (src/billing/), only with PLAN_ENABLED
+  //   VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY   the chat's notifications (src/push/); `node tools/vapid-keys.mjs --put`
+  //                 makes and sets both without showing them. Unset: nothing is sent, and the app says so.
+  //   ADMIN_ACCOUNTS   the account ids (comma-separated) that may open /admin/errors (src/admin/errors.js).
+  //                 Unset: that page is absent for everyone; errors are still counted.
+  //   AUTH_SECRET   only for a site that ran before accounts were sessions in the database: it
+  //                 signed the old sign-in cookie, and src/accounts/old-cookie.js needs it to
+  //                 honor the ones still out there. A new site doesn't set it.
+}

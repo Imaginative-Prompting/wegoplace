@@ -1,0 +1,196 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Quezon City|PH||71|14p|9c9|nsr|Quezon;Kezonurbo;Lungsod Quezon;Quezon-Stadt;Ciudad Quezon
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Davao|PH||71|jn|9ox|e9l|Lungsod ng Dabaw
+Manila|PH||71|14k|9c2|ccg|Manilo;Manille;Manilla;Maynila;Menila;Manyl;Manillah;Mainile;Lungsod ng Maynila
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Munich|DE||8r|3pq|w6|bm2|Muenchen;München;Minhen;Munic;Mnichov;Munkeno;Monaco di Baviera;Munîh;Monachium;Miunchenas;Minhene;Monaco e Baviera;Munique;Monacum;Lungsod ng München;Myunxén;Minga;Mynihu;Munike;Monacu di Baviera;Munhen;Mnichow;Munix;Minche;Mònacu;Münegh;Monaco de Baviera;Minca
+Longyan|CN||7i|1xn|912|7wr|Lṳ̀ng-ngàng;Lung-jen;Liùng-ngâm-sṳ;Longyen shehiri;Long Nham;Lêng-nâ-chhī;Lung-yen
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Oklahoma City|US||2f|2qj|-7iw|597|Oklahomaurbo;Kota Oklahoma;Oklahoma Sitis;Maxepónoe;Oklahoma Ceety;Oklaxoma Shehiri;Lungsod ng Oklahoma;Oklahomasitija;Dinas Oklahoma;Oklahoma llaqta;Cathair Oklahoma;Oklahoma Siti;Oklahoma Sitės;Caayr Oklahoma;Kutha Oklahoma;Okla city;Oklahoma Shehri
+Athens|GR||8p|2xi|1tx|54g|Athínai;Athenae;Atenas;Ateno;Atenoj;Athen;Afina;Aten;Atina;Atenes;Athény;Ateena;Athènes;Atene;An Aithin;Atena;Athena;Athina;Atėnai;Athene;Ateny;Ateni;Lungsod ng Athína;Kota Athena;Afini;Athinia;Athenai
+Kansas City|US|Missouri|2f|30m|-7aq|3o2|Kansasurbo;Kota Kansas;Kanzas Shehiri;Ìlú Kansas;Dinas Kansas;Lungsod ng Kansas;Kansas Lakanbalen;Kanzas Sitis;Kanzassitija;Kanzas Siti;Caasimada Kansas
+Bacolod City|PH||71|tn|9hj|3id|Bacolod;Ciudad ti Bacolod;Lungsod ng Bacolod;Dakbayan sa Bacolod;Syudad han Bacolod;Bacoloo City;Baclod City
+Florence|IT||9o|3dm|v9|2u0|Florens;Firenze;Florenz;Florència;Firense;Florenco;Sciorenza;Firenz;Florencie;Fflorens;Florença;Florensya;Firenca;Florénsa;Florensiya;Floransa;Lungsod ng Florencia;Florența;Firenzi;Flórans;Firence;Florencija;Florentzia;Florencja;Florentia
+Cabanatuan City|PH||71|171|9c1|2nh|Cabanatúan;Ciudad ti Cabanatuan;Lungsod ng Cabanatuan;Siudad ti Cabanatuan;Lakanbalen ning Cabanatuan;Siyudad na Cabanatuan
+Ciudad Victoria|MX||44|1ty|-7ne|2k9|Cd. Victoria;Siudad Viktorija;Altepetl Victoria;Victoria llaqta;Victoria;Lungsod ng Victoria
+Mandaue City|PH||71|so|9k8|2k1|Lungsod ng Mandaue
+Ciudad Obregón|MX||37|24d|-8he|2ji|Cd Obregon;Cd. Obregon;Siudad Obregonas;Altepetl Obregón;Lungsod ng Obregón;Obregon
+Haifa|IL||6n|2j5|2p8|279|Hajfo;Hajfa;Ḥeyfa;Hayfa;Lungsod ng Ḥefa;Aifa;Hepha;H̱efa;Heifā
+NIA Valencia|PH||71|lz|9nh|1q4|Valencia City;Kota Valencia;Valencia Lakanbalen;Dakbayan sa Valencia;Lungsod ng Valencia
+Ciudad Acuña|MX||3w|29g|-7sf|1o1|Acuña;Lungsod ng Acuña
+Salt Lake City|US||2p|358|-8mt|1nv|Sallaga Urbo;Kota Salt Lake;Solt Leik Sitis;Thành phố Salt Lake;Civitas Lacus Salsi;Soltleiksitija;Salt Lake Ceety;Sol Lek Siti;Solt Leyk Siti;Lungsod ng Salt Lake;Solt Leik Sitės;Salt Lake;Cathair Salt Lake;Salt-Lejk-Siti;Solt Lejk Siti
+Longgang|CN|Guangdong|7i|1r4|8te|1nt|Liùng-kông-khî;Long Cương;Lung-kang
+Pamplona|ES||9d|3ay|-4k|1lu|Iruña;Iruñea;Pompaelo;Pamplono;Pampelune;Iruinea;Pampeluna;Lungsod ng Iruñea;Pampalona
+Pagadian|PH||71|lr|9iw|1ld|Lungsod ng Pagad
+Tottori-shi|JP||7q|2qm|acv|1gd|Tottori-sṳ;Toturi;Totoris;Totori;Lungsod ng Tottori;Tottori-chhī;Tottori
+Ussuriysk|RU||7w|3do|a6k|17n|Ussuryjsk;Ussurijsk;Usszurijszk;Lungsod ng Ussurijsk;Ussuriisk;Oessoeriejsk
+Longfeng|CN|Heilongjiang|7i|3l9|9ni|169|Lung-feng
+Longshui|CN||7i|2a5|85s|xs|Lung-shui
+Cavite City|PH||71|148|9bu|w7|Cavite;Dakbayan sa Cavite;Bandar Cavite;Ciudad ti Cavite;Cavite Lakanbalen;Lungsod ng Kabite;Syudad han Cavite;Siyudad na Cavite;Kavite
+Herzliya|IL||6n|2hd|2or|ut|Hertsliyah;Herseliya;Herzlia B;Herzlia;Hertseliyya;Herzliyya;Lungsod ng Herẕliyya;Herclijja;Hertsliyya;Hervlia;Hervlia B
+Daly City|US||3p|2wr|-9g6|tm|Lungsod ng Daly;Dalyurbo;Thành phố Daly
+Lünen|DE||8r|3ze|kx|pa|Hliunon;Luenen
+Lund|SE||9w|4ar|10n|o8
+Dunkirk|FR||9k|3xr|6m|nz|Dunkerque;Dünkirchen;Dunkerk;Duinkerke;Dunkierka;Dunquerque;Lungsod ng Dunkerque;Dukark;Duunkerke;Dunquerca;Diunkerkas;Dunkèke;Denkerka;Dúntsjerk;Duinkerken
+Redwood City|US||3p|2w5|-9fk|np|Redwood Lakanbalen;Lungsod ng Redwood;Red Woods City
+Lüdenscheid|DE||8r|3ya|l7|m2|Lünsche;Liudolvescetha;Leudenscheid;Luedenscheid
+Nazareth|IL||6n|2iu|2q2|li|Naẕerat;Nazaret;Natzaret;Nazareto;Naatsaret;Nasaret;Nazara;Nazaretas;Nazaré;Lungsod ng Nazaret;Nasıra;Natserat;En Nāsira;Natséret;Nātsrat;Naẕẕerat
+Luxembourg|LU||9c|3tt|h1|lb|Luxemburg;Luxemburgo;Luksemburgo;Luksemburg;Ciudad de Luxemburgo;Ciutat de Luxemburg;Lucemburk;Luxenburgo;Lussemburgo;Lëtzebuerg;Liuksemburgas;Luksemburga;Luksemburgu;Lussimbork veye;Luxembôrg;Lucsamburg;Stad Lëtzebuerg;Stadt Luxemburg;Lüksemburq;Luksembourg;Dinas Lwcsembwrg;Luxemborj;Lúksemboarch;Lucsemburg;Liksanbou;Luxemburgum;Lüssemburgh;Rakapuō;Lussemburgu;Lussemborgh;Luksimbur;Luxembuurich;Lungsod ng Luksemburgo;Lusenburgo;Luksambuur;Letzeburg
+Lüneburg|DE||8r|43x|sy|jt|Lunebourg;Lümborg;Lyneburgu;Glain;Luneburk;Luneberg;Lueneburg
+City of Isabela|PH||71|im|9et|ip|Isabela;Lungsod ng Isabela;Isabel
+National City|US||3p|2is|-91a|gz|Lungsod ng National;Nacia Urbo;Tółikan Nílíní
+Longgang|CN|Shandong|7i|2wl|9a9|gs|Longkou;Lung-k’ou
+Cogan|PH||71|tf|9ki|gq|Lungsod sa Carmen;Bayan ng Carmen
+Carson City|US|Nevada|3p|30s|-98p|ga|Carsonurbo;Kota Carson;Karson Sitis;Thành phố Carson;Lungsod ng Carson;Kārsonsitija;Altepetl Carson;Karson-Siti
+Longtan|CN|Chongqing|7i|27w|8eo|g2|Lung-t’an
+Lunglei|IN||6t|1rl|75m|fu|Lungleh
+Eilat|IL||6n|2a4|2p3|fk|Elat;Ejlato;Ejlat;Lungsod ng Elat;Elatas;Elata;Elath
+Cathedral City|US||3p|2lu|-8zj|ey|Lungsod ng Cathedral
+Lundazi|ZM||z|-y5|2k6|cj
+Nonsan|KR||7h|2sk|9t0|c6|Lun-sân-sṳ;Ronsan
+Luntai|CN||7t|382|6i3|c1|Bügür;Bugar
+Jefferson City|US|Missouri|2f|2z6|-741|bu|Jeffersonurbo;Kota Jefferson;Džeferson Sitis;Džefersonsitija;Dinas Jefferson;Lungsod ng Jefferson;Jefferson Shehri
+Lūnāvāda|IN||6t|1s9|5oh|aa|Lunawada
+Longtan|CN|Chongqing|7i|29t|89i|a5|Lung-t’an
+Temple City|US||3p|2mr|-93y|a4|Lungsod ng Temple
+Lunel|FR||9k|3dc|bi|7e
+Lundu|MY||6w|4n|8h5|7c
+Břeclav|CZ||9m|3rg|1aw|76|Lundenburg;Brzecław;Brecizlavia;Bržeclavs;Bržeclavas;Bržeclava
+Lüdinghausen|DE||8r|3zt|ko|6p|Lünkhusen
+Luninyets|BY||9g|415|22g|6i|Luninets
+Lunsar|SL||l|o4|-yt|69|Lansar
+Lunéville|FR||9k|3qz|i1|60|Lunae Villa
+Lieto|FI||92|4o3|1qe|5r|Lundo
+Lunas|MY||6v|f3|7r9|52
+Nova Odesa|UA||98|3nf|2g9|3r|Nova Odessa;Nova Adesa;Nowa Odessa;Nueva Odesa;Fedorivka;Lungsod ng Nova Odessa;Fedorovka
+California City|US||3p|2pl|-93r|3p|Kalifornija;Kalifornia City;Kaliforniurbo;Thành phố California;California BY;Jádí Bitééh;Dinas California;Lungsod ng Kaliporniya
+Lunteren|NL||8m|40p|fm|3h
+L'Union|FR||9k|3da|44|3d
+Lunetten|NL||8m|40m|e9|39
+Lun Pequeño|PH||71|gs|9o0|37
+Luna|PH|Western Visayas|71|uh|9ic|35
+Labangan|PH||71|lv|9j3|30|Lungsod sa Labanga
+Lunao|PH||71|ol|9ne|2i
+Lunino|RU||9i|44v|3hn|2a
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Talagutong|PH||71|he|9p3|28|Lungsod sa Don Marcelino;Bayan ng Don Marcelino;Talaguton
+Sigaboy|PH||71|ih|9q7|28|Lungsod sa Gobernador Generoso;Bayan ng Gobernador Generoso;Segaboy
+Luna|PH|Caraga|71|r2|9om|26
+Luncaviţa|RO|Tulcea County|8u|3hs|26j|1z
+Luisburgo|BR||4w|-1ks|-38y|1y|Luizburgo;Lunburgo
+Longwa|MM||6t|222|7ci|1v|Lungwa
+Lung Poon Court|HK||6i|1q2|8t8|1u
+Rancheria Payau|PH||71|lt|9i4|1t|Lungsod sa Lakewood;Bayan ng Lakewood
+Lunca|RO|Teleorman County|8u|3dr|1wt|1t
+Lunas|PH||71|tk|9jr|1m
+Lunguleţu|RO||8u|3fy|1z9|1l
+Longmen|CN|Fujian|7i|1xc|941|1i|Lung-men
+Lunca de Jos|RO||8u|3ld|206|1g|Gyimesközéplok
+Lunzenau|DE||8r|3xk|zg|1f|Luncenava;Luncznaw
+Lungani|RO||8u|3n2|23f|1f
+Lunca|RO|Botoșani County|8u|3oa|22y|1d
+Lũng Cú|VN||6h|1sw|84k|1d|Lung Co
+Lunardelli|BR||4w|-1uw|-3zq|1d
+Luna|PH|Davao Region|71|l2|9p3|1a
+Lunetta-Frassino|IT||9o|3hg|u2|15
+Lunca Banului|RO|Vaslui County|8u|3lg|269|13
+Lungeşti|RO|Vâlcea County|8u|3ft|1v6|10
+Lunel-Viel|FR||9k|3dc|bd|10|Lo Vièlh Lunèl;Lunèl Vièlh
+Lunca Cetățuii|RO||8u|3mu|24k|y|Lunca Cetăţuiei
+Lunca de Sus|RO||8u|3l9|205|y|Gyimesfelsőlok
+Lunca Corbului|RO||8u|3g4|1ws|y
+Lunca Ilvei|RO||8u|3nl|1xe|x
+Lunga|MD||8x|3n8|293|w|Lunca
+Lungaog|PH||71|kx|9p5|w
+Nevada City|US||3p|312|-9c6|w|Nevada Lakanbalen;Thành phố Nevada;Lungsod ng Nevada
+Lunca|RO|Bihor County|8u|3l8|1qf|v
+Luncaviţa|RO|Caraș-Severin County|8u|3h8|1pv|s
+Lunca|RO|Mureș County|8u|3m5|1w9|s
+Longtan|CN|Hunan|7i|245|8j2|s|Lung-t’an
+Longtou’an|CN||7i|24v|8ii|s|Lungtowan;Lung-t’ou-an
+Luntal|PH||71|12z|9bc|s
+Lunderskov|DK||8y|4a4|pu|r
+Lunca Mureşului|RO|Alba County|8u|3kz|1ue|q|Székelykocsárd
+Luna|PH|Cagayan Valley|71|1b5|9e5|q|Puna;Antatet
+Lunestedt|DE||8r|44g|ob|q|Luunst
+Lunga-Lunga|KE||16|-cn|30o|p
+Azovs'ke|UA||98|3m0|2tw|p|Lunacharskoye;Lunachars'ke;Kutsa Berdyanka;Kuca Berdjanka;Asowske
+Lungro|IT||9o|32e|18t|p|Ungra
+Lunca|RO|Iași County|8u|3nc|22a|p
+Longlisuo|CN||7i|21d|8f2|p|Lung-li-so
+Lunen|PH||71|ho|9my|o|Lonen
+Lunenburg|CA||35|3fa|-4yo|o|Lunnenburg;Lunenburq
+Luna|RO|Cluj County|8u|3l7|1ug|o|Aranyoslóna
+Lungavilla|IT||9o|3h4|p8|o
+Lunec|PH||71|18b|9ap|n
+Luna|PH|Bicol Region|71|yv|9jp|m
+Lundin Links|GB||9b|4c5|-87|l
+Lunca Bradului|RO||8u|3mg|1xr|l
+Lungog|PH||71|1ci|9ao|l
+Luneray|FR||9k|3uf|2k|l
+Luna de Sus|RO||8u|3lu|1t4|k|Magyarlóna
+Luncoiu de Jos|RO||8u|3k0|1rb|k|Luncoiul-de-Jos
+Lungern|CH||a7|3lz|mo|j
+Lünne|DE||8r|41n|kn|i
+Lunz am See|AT||a2|3oy|15r|i
+Lunenburg|US|Massachusetts|48|3ab|-5j8|i
+Luncarty|GB||9b|4ct|-9n|h
+Lunamatrona|IT||9o|325|oq|h
+Lunden|DE||8r|46x|p3|h
+Lunga|RO|Covasna County|8u|3ju|20t|g
+Lunery|FR||9k|3me|6b|f
+Lunca|RO|Buzău County|8u|3h0|23l|f
+Lunca Priporului|RO||8u|3i8|213|e
+Lunde|NO||9j|4kq|pa|e|Bjervamoen
+Lunca|RO|Tulcea County|8u|3g9|27x|e
+Luna Pier|US||2q|385|-6fs|e
+Luncani|RO|Cluj County|8u|3l3|1uj|e
+Lunay|FR||9k|3ot|2j|d
+Lunca Leșului|RO||8u|3nf|1wu|d
+Lunca|RO|Dâmbovița County|8u|3hk|1yo|d
+Lunano|IT||9o|3dh|yk|d
+Lunenburg|US|Vermont|48|3fi|-5j4|d
+Lunca|RO|Neamț County|8u|3n7|212|c
+Lunca Jariștei|RO||8u|3ic|20x|c
+Luncșoara|RO|Bihor County|8u|3mo|1qm|b
+Lunca Prahovei|RO||8u|3h5|1zl|b
+Lunca Cernii de Jos|RO||8u|3ir|1qu|b
+Lundamo|NO||9j|4vf|sl|b|Lundemo
+Lunca la Tisa|RO||8u|3p7|1ut|a
+Lung Khung|KH||78|11z|89n|a
+Longcheng|CN|Hunan|7i|20b|8gy|a|Lung-ch’eng
+Luncile|RO|Buzău County|8u|3ie|21q|a
+Luncași|RO||8u|3mw|22h|a
+Lundsbrunn|SE||9w|4if|11d|9
+Luni Mare|IT||9o|3ee|rs|9
+Luna|ES||9d|395|-2l|9
+Lunca Frumoasă|RO||8u|3hv|21q|8
+Luna de Jos|RO||8u|3me|1u0|8
+Lundby Stationsby|DK||8y|493|wz|8
+Lunca|RO|Botoșani County|8u|3p0|20z|8
+Lunca Asău|RO||8u|3l0|21d|8
+Lunka|UA|Zakarpattia|98|3pz|1t7|8
+Luna|RO|Satu Mare County|8u|3ox|1t4|7
+Lunca Mureșului|RO|Mureș County|8u|3m7|1wv|7
+Luncani|RO|Bacău County|8u|3lh|22c|7
+Lunas|FR||9k|3df|8v|7
+Luncile|RO|Vrancea|8u|3ik|22h|7|Luneile
+Luna|MX||3z|1eu|-70i|7
+Lunca|RO|Vâlcea County|8u|3ha|1vf|7
+Luncșoara|RO|Arad County|8u|3ko|1qv|6|Lunksora;Lungsora
+Lungești|RO|Galați County|8u|3k3|253|6
+Lungoci|RO||8u|3il|24g|6
+Lunca|RO|Arges|8u|3hh|1xt|6
+Lunka|UA|Chernivtsi|98|3pu|211|6|Lunca;Lounka;Lurka
+Lünebach|DE||8r|3v9|hn|6
+Luncușoara|RO||8u|3o8|218|6
+Lunca|RO|Alba County|8u|3k3|1uv|6
+Lunca Mare|RO||8u|3hk|1zj|6
+Lunca Banului|RO|Mehedinți County|8u|3fx|1sl|6
+Luncoiu de Sus|RO||8u|3k0|1rd|5|Luncoiul-de-Sus
+Lunga|RO|Timiș County|8u|3jg|1l7|5

@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Marttila|FI||92|4oa|1rm|l|T Mårtens
+Tmourghout|MA||d|2m7|-b7|d|Tamoughout;Tmourhout;Tamourhout
+Tmaň|CZ||9m|3un|12z|a

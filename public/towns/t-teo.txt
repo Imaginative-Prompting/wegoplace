@@ -1,0 +1,43 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Antakya|TR||94|2sl|2sg|32u|Antioquía;Antioch;Antiochia am Orontes;Antiohija;Antiochie;Antiokia;Antiochia;Antiochia di Siria;Antiochia vid Orontes;Antioche;Teopolis;Antakiya;Antiokheia;Antākiyyah;Anţākiyah
+Teófilo Otoni|BR||4w|-1dm|-37b|13p
+Feodosiya|UA||9t|3h3|2qa|j2|Kefe;Teodozja;Feodossija;Théodosie;Feodòssia;Teodozio;Feodosija;Teodosia;Feodosia;Feodosya;Caffa;Theodosia;Fyeodosiya;Kaffa
+Teoloyucan|MX||41|1iv|-7ni|e9
+Teotônio Vilela|BR||3r|-rj|-2t0|aw|Feira Nova
+Teocaltiche|MX||41|1nj|-7wx|6l
+Teotihuacán de Arista|MX||41|1ip|-7mm|6h
+Teodoro Sampaio|BR|São Paulo|4w|-1ql|-40x|66
+Teofilândia|BR||20|-vw|-30c|5w
+Teo|ES||9d|3aw|-nr|4y
+Teonthar|IN||6t|1xe|6as|4q
+Teolocholco|MX||41|1hg|-7kr|4i|Teolochalco
+Teopisca|MX||3z|19y|-74v|4i|Teopisea
+Teodoro Schmidt|CL||4u|-30b|-5n1|4b
+Teolândia|BR||20|-11s|-31p|49|Rio Preto
+Teocelo|MX||41|1hv|-7hd|2s
+Teok|IN||6t|22j|7aa|2g
+Teotitlán de Flores Magón|MX||41|1ed|-7hn|24|Teotitlán
+Teodoro Sampaio|BR|Bahia|20|-y6|-2zc|1z
+Teofipol|UA||98|3ug|21e|1t
+Tivat|ME||9l|39w|1fx|1r|Teodo
+Teotlaltzingo|MX||41|1hf|-7lm|1q|Teotlalcingo;Teotlalzingo
+Theodore|US||2f|2cv|-6sy|1p|Teodoro
+Teontepec|MX||41|1fd|-7ix|1k
+Teotitlán del Valle|MX||41|1bb|-7g4|18
+Teocuitatlán de Corona|MX||41|1jt|-7z6|13
+Teopantlán|MX||41|1fz|-7ky|u
+Teotlalco|MX||41|1fb|-7me|f
+Teor|IT||9o|3jd|10a|d
+Teofani|MX||41|1kg|-7n4|c
+Teocalco|MX||41|1jt|-7nt|b
+Teora|IT||9o|35h|16d|b
+Teococuilco de Marcos Pérez|MX||41|1c7|-7gd|a
+San Mateo Teopancala|MX||41|1j1|-7mp|a|Teopancala
+Teopancingo|MX||41|1jt|-7kf|9
+Teocotitla|MX||41|1gt|-7p7|8
+Teodone|IT||9o|3m0|x7|7
+Teocaltitán de Guadalupe|MX||41|1mq|-7wg|7|Teocaltitan Guadalupe
+Teotzacualco|MX||41|1g1|-7hf|6
+Teone Village|TV||as|-nm|dts|5
+Teotongo|MX||41|1d8|-7ix|5
+Teozintla|MX||41|1bz|-7nf|5

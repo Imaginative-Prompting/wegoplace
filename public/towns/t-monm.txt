@@ -1,0 +1,7 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Monmouth|GB||9b|3zx|-7j|2t|Trefynwy;Monemuta;Menoe
+Monmouth|US|Oregon|3p|3gl|-9ib|2s
+Monmouth|US|Illinois|2f|35n|-6zt|2l
+Monmouth|US|Maine|48|3ew|-5ek|13
+Monmouth Beach|US||48|341|-5pi|w
+Monmouth Junction|US||48|346|-5r3|t

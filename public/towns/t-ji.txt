@@ -1,0 +1,421 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Yinchuan|CN||7i|2yv|877|m27|Thành phố Ngân Xuyên;Ngân Xuyên;Jin-čchuan;Inčuanas;Gîn-chhoan-chhī;Ngṳ̀ng-chiŏng;Yinzconh;Jinčuan
+Jieyang|CN||7i|1te|8z9|enm|Ťie-jang;Yết Dương;Giék-iòng;Kiat-iông-chhī;Kiehyang
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Jiading|CN||7i|2f7|9cs|ejx
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Jiangyin|CN||7i|2gn|9a2|dqb|Kiang Ying;Kiangyin;Chiang-yin
+Jinzhou|CN|Liaoning|7i|367|9ci|brg|Jintsjou;Ťin-čou;Ĝjinĝou;Dzindžou;Cẩm Châu;Gīng-ciŭ;Kím-chiu-chhī
+Jinhua|CN|Zhejiang|7i|28v|98c|bao|Ťin-chua;Kîm-fà-sṳ;Kim Hoa;Kim-hoâ-chhī;Gĭng-huà
+Jinjiang|CN|Fujian|7i|1wy|95d|axe|Tấn Giang;Chìn-kang-chhī;Céng-gŏng;Tsìn-kông-sṳ
+Yichang|CN||7i|2db|8l4|af2|Nghi Xương;Jiĉang;I-čchang;Ngì-chiŏng;Ičan;Gî-chhiong-chhī;I-chang;Ichang
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Jinzhong|CN||7i|2wo|8p7|9gq
+Jiaxing|CN||7i|2df|9bf|93s|Ťia-sing;Dziasingas;Gia Hưng;Ka-heng-chhī;Gă-hĭng
+Jiujiang|CN||7i|2ai|8y8|8zf|Ciuciang;Ťiou-ťiang;Cửu Giang;Chiu-chiang;Kiukiang
+Zhuzhou|CN||7i|25b|8qb|8pt|Jianning;Zhutsjou;Ču-čou;Ĝuĝou;Chu-chû-sṳ;Chu Châu;Chu-chiu-chhī;Çyu Cou;Tṳ̆-ciŭ;Džudžou;Džudžov;Chu-chou
+Jingzhou|CN||7i|2cb|8nn|84b|Jingtsjou;Ťing-čou;Kinh Châu;Gĭng-ciŭ;Keng-chiu-chhī
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Jing’an|CN|Shanghai|7i|2eq|9da|785
+Qiqihar|CN||7i|3ni|9kc|6t4|Cicikar;Tề Tề Cáp Nhĩ;Ĉiĉiharo;Qiqihaer;Čičiharas;Cà̤-cà̤-hăk-ī;Chhè-chhè-hâ-ngì-sṳ;Qiqiha’er;Jijihaer
+Jiaozuo|CN||7i|2pw|8qk|6oe|Ťiao-cuo;Ĝjaoĝuo;Tiêu Tác;Ciĕu-cáuk;Chiau-chok-chhī
+Jiaojiang|CN||7i|27q|9df|6dh
+Jinshan|CN|Shanghai|7i|2do|9cx|6ck
+Rizhao|CN||7i|2qd|981|53v|Nĭk-ciéu;Ž’-čao;Nhật Chiếu;Ji̍t-chiàu-chhī
+Jingmen|CN||7i|2e7|8no|4vu|Gĭng-muòng;Ťing-men;Kinh Môn;Keng-bûn-chhī;Ching-men;King mönn;Kingmen
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Jiaozhou|CN||7i|2ss|99c|4s1
+Jiamusi|CN||7i|3m0|a1z|48n|Ťia-mu-s’;Gjamusi;Dziamusi;Giai Mộc Tư;Gă-mŭk-sṳ̆;Ka-bo̍k-su-chhī
+Ji’an|CN|Jiangxi|7i|23c|8ve|45n|Kian
+Jianshui|CN||7i|1vg|7t6|3s4
+Jeju City|KR||7h|2l3|9rg|3rs|Czedżu;Jeju;Cheju;Kota Jeju;Jeju Şehri;Jeju Shahri;Jeju Gida;Kutha Jeju;Magaalaa Jeju;Magaaladda Jeju;Jiji la Jeju
+Jijiga|ET||2|pz|3aw|3q6|Djidjiga;Džidžiga;Ĝiĝiga;Dschidschiga;Jigjiga;Giggigga;Jigjigga;Djigdjiga;Giggiga;Dzhidzhiga
+Jincheng|CN||7i|2qm|8pf|3oh|Tấn Thành;Céng-siàng;Chin-ch’eng;Tsincheng
+Jingdezhen|CN||7i|29d|91l|3nk
+Jiuquan|CN||7i|32e|7lo|3az|Tửu Tuyền;Ciū-ciòng;Ťiou-čchüan;Chiú-choân-chhī
+Jixi|CN||7i|3ht|a3s|346|Dzisi;Kê Tây;Ťi-si;Giĕ-să̤;Ke-se-chhī;Kisi
+Jizhou|CN||7i|2wb|8x1|2sk
+Chinju|KR||7h|2pr|9vs|2dc|Jinju
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Chiayi City|TW||7l|1t8|9al|214|Jiayi Shi;Jiayi Shih
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Jining|CN|Inner Mongolia|7i|35z|8q7|1zw
+Jimma|ET||2|lb|2ub|1xp|Jima;Džima;Gimma;Ĝima;Dżimma
+Jimeta|NG||u|ps|ym|1wx
+Jiyuan|CN||7i|2ph|8or|1v9
+Khimki|RU||9i|4ba|2vz|1uo|Chimki;Himki;Jimki;Ximki;Chimkai
+Jiayuguan|CN||7i|32l|7l1|1sf|Gă-ṳ̆k-guăng;Ťia-jü-kuan;Gia Dục Quan;Ka-io̍k-koan-chhī;Kia-yu-kuan
+Jinchang|CN||7i|2yy|7vv|1ri|Gĭng-chiŏng;Ťin-čchang;Kim Xương;Kim-chhiong-chhī;Jinchuan
+Jingling|CN||7i|2d5|8q6|1qh
+Jiexiu|CN||7i|2uu|8mv|1pp|Giới Hưu
+Jinzhou|CN|Liaoning|7i|30m|9e4|1nu
+Jiutepec|MX||41|1gg|-7ni|1nu|Xiutepec
+Yingtan|CN||7i|26f|910|1ni|Ĭng-tàng;Jing-tchan;Yîn-thâm-sṳ;Ưng Đàm;Eng-thâm-chhī
+Yunjinghong|CN||7i|1p5|7s0|1l3|Jinghong
+Jijiang|CN||7i|29d|875|1io
+Jinshanlu|CN||7t|3ox|6st|1gt|Altay;Altai
+Jing’an|CN|Guangdong|7i|1pp|8qp|1fo
+Jizzax|UZ||7g|33h|58f|1ds|Djizak;Jizzakh;Djizaks;Džizakas;Cizzak;Dżyzak;Dzjizak;Ĝizaĥo;Jizzaq;Cizzax;Dschizak;Jizzak;Dzhizak;Jizak
+Jiutai|CN||7i|3en|9pj|1cn
+Jīnd|IN||6t|29g|5w0|1ak
+Girga|EG||c|216|2gl|161|Jirja
+Jyväskylä|FI||92|4sw|1zg|15b|Juveskiulė;Jiveskile;Granivicus;Jüväskülä
+Jieshou|CN||7i|2ke|8wg|13g
+Ji Paraná|BR||4l|-u9|-4s3|12x
+Jieshi|CN|Guangdong|7i|1rd|8xr|126
+Jiashan|CN||7i|2dp|9bx|123
+Jiagedaqi|CN||7i|3w2|9ks|123|Jagdaqi
+Jiawang|CN||7i|2nn|928|117|Chia-wang
+Jijel|DZ||3|2ua|g0|10j|Gíger;Džidželis;Igilgili;Dżidżili;Yiyel;Cical
+Jīroft|IR||7o|27o|4ge|108
+Jiazi|CN||7i|1rk|8yf|107
+Jequié|BR||20|-12i|-33d|zf|Jiquié
+Jiangyou|CN||7i|2g9|82w|zc
+Jinfeng|CN|Jiangxi|7i|26g|8zw|zb
+Jingzhi|CN||7i|2sv|97n|z7
+Jiupu|CN||7i|363|9hj|ye
+Jiaohe|CN||7i|3dg|9tp|y6
+Xiva|UZ||7g|36z|4no|vy|Chiwa;Khiva;Ĥiva;Hiiva;Chiva;Jiva;Khiwa
+Dchira El Jihadia|MA||d|2cd|-qj|ug|Dcheira El Jihadia
+Jianchang|CN||7i|24k|900|ub|Kienchang
+Jizan|SA||7e|1ax|3a7|t8|Jāzān;Qīzān;Gizan;Gazan;Cızan;Jizon;Jaizan;Djāzān;Jezan
+Jishu|CN||7i|3f4|9s8|sw
+Jishou|CN||7i|26o|8gt|sf
+Jiudian|CN||7i|2ur|99w|r4
+Jinniu|CN||7i|1zo|7rd|qx
+Jinsha|CN||7i|2h5|9cb|qk|Kinsha
+Yilan|TW||7l|1ws|9e7|q6|Ilan;Ngì-làn-sṳ;Jilanas;Nghi Lan;Gî-lân-chhī;I-lan
+Jiayue|CN||7i|2s2|972|pw
+Jinja|UG||q|18|2k8|pv|Džindža;Cinja;Jinga
+Jirapa|GH||1|ta|-7i|pd
+Yulinshi|CN||7i|2yd|8gu|p9|Jü-lin;Du Lâm;Ṳ̀-lìng;Jiû-lîm-chhī;Yulin
+Yingge|TW||7l|1xc|9d3|of|Yîn-kô-khî;Jingė;Oanh Ca;Eng-ko-khu
+Jiangshan|CN||7i|2tw|9at|o2|Chiang-shan
+Jinxiang|CN||7i|247|9b1|ne|Kinsiang
+Jinshi|CN||7i|2a8|8mr|n1
+Žilina|SK||8s|3sq|1g2|mk|Sillein;Zsolna;Żylina;Solna;Silina;Jilina
+Jishui|CN||7i|2lp|8wk|lj
+Juhaynah|EG||c|223|2fi|la|Jihaynah;Johaynah
+Jiangzhuang|CN|Shandong|7i|2td|98r|k5
+Jimo|CN||7i|2t3|9am|jn
+Jiangyan|CN||7i|2ib|99q|jk|Kiangyen
+Jiehu|CN||7i|2qq|952|j8
+Jinjiang|CN|Hainan|7i|1iu|8hl|j3
+Jiang’an|CN||7i|27t|83v|iu|Kiangan;Chiang-an
+Ji’an|CN|Jilin|7i|369|9qj|it
+Jidd Ḩafş|BH||60|20u|3wf|ii|Judd Ḩafş;Jadd Hafs;Jid Hafs
+Jietou|CN||7i|1yn|7m1|ia
+Jitra|MY||6v|hf|7qy|hn
+Jinggou|CN||7i|2ss|983|hh
+Jianguang|CN||7i|26b|8xm|h3
+Djibo|BF||1a|136|-4j|h3|Jibo
+Jiangbei|CN||7i|2al|888|gt
+Jiangkou|CN|Fujian|7i|1yt|974|gn|Chiang-k’ou;Kiang-k’ou;Kiangkow
+Jian’ou|CN||7i|234|94o|gg
+Jixian|CN||7i|3lt|a49|gg
+Jidong|CN||7i|3hq|a48|g9
+Jing'an|CN|Jiangsu|7i|2nu|90s|g2
+Jinji|CN|Guangxi|7i|1sj|8jv|fs
+Jinotega|NI||3s|10d|-6mw|fa
+Jinka|ET||2|fp|2tt|f4
+Jinding|CN||7i|21g|7o8|ex
+Jinhua|CN|Yunnan|7i|21q|7pk|ev
+Jitai|CN||7i|2u4|95u|eh
+Jihlava|CZ||9m|3t8|17b|dx|Iglau
+Jinjiang|CN|Jiangxi|7i|26w|90q|do
+Jiawang Zhen|CN||7i|2nm|92b|dm
+Jielong|CN|Chongqing|7i|299|88m|dc
+Jieshi|CN|Chongqing|7i|29n|885|d8
+Jiushan|CN||7i|2sk|953|cc|Chiu-shan
+Jintūr|IN||6t|1ih|5x1|cb
+Jilib|SO||14|1d|3av|c5
+Jingguan|CN||7i|2b2|880|c5
+Jīwanpur|IN||6t|27r|5yo|bz|Jiwan Pur
+Jiangping|CN||7i|1o0|8cf|by
+Jiguaní|CU||36|1kl|-5wb|bf
+Jisr ash Shughūr|SY||69|2rh|2sw|ax|Jisr-esh-Shughour;Jisr ash Shāghūr;Jisr esh Shughūr
+Jinzhongzi|CN||7i|2sx|97a|av
+Jiachuan|CN|Sichuan|7i|2hh|871|ao|Chia-ch’uan
+Jinshan|CN|Gansu|7i|2op|84v|ah
+Jincheng|TW||7l|1vv|94o|af|Chin-ch’eng
+Jelilyüzi|CN||7t|3e5|6ai|ac|Jililyüzi;Jiliyuzi
+Jipijapa|EC||33|-3r|-67u|9z
+Janīn|PS||6g|2i6|2q2|9n|Jenin;Dschenin;Jénine;Djenin;Jinin
+Jiulongshan|CN||7i|2en|8cp|93
+Jiangzhuang|CN|Jiangsu|7i|2nt|924|8w
+Jiuxian|CN||7i|2ay|870|8r
+Jinan-gun|KR||7h|2rf|9tz|8p
+Jinhu|TW||7l|1vw|94y|8k
+Jingui|CN||7i|2yy|87m|8a
+Jinotepe|NI||3s|wx|-6ng|87
+Jinqiao|CN|Shanghai|7i|2ev|9dr|7s
+Jilādiguda|IN||6t|1c5|625|7n
+Jiasi|CN||7i|28w|87p|7l
+Jiangxi|CN||7i|2mg|848|7j
+Jiwani|PK||6q|1xl|4rj|71
+Jarābulus|SY||69|2ua|2xl|6y|Carablus;Jerablus;Jirāblus;Jarablos;Jarablus
+Jiahanbage|CN||7t|2vc|65f|6t|Jiahan Bage
+Jiagao|CN||7i|2dt|8fa|6s
+Jiquilpan de Juárez|MX||41|1jj|-7xc|6q
+Jiuhe|CN||7i|22c|7pr|6l
+Jiaoshi|CN||7i|2ak|8aw|6j
+Gjirokastër|AL||9y|33c|1jy|6i|Arghirocastru;Gjirokastra;Argirocastro;Đirokastra;Girokasteris;Argyrocastrum;Jirokaster;Cirokastra;Arghyrocastro;Gjinokastra;Gjinokastrer;Agirocastro;Gjinokastre;Gjinokastër;Argyrokastro;Gjirokastrë
+Jirapur|IN||6t|1uq|5w6|61
+Jinlong|CN||7i|29z|86m|61
+Jiangnan|CN||7i|2ar|89c|5z
+Jimaguayú|CU||36|1n0|-607|5w
+Jēkabpils|LV||9n|4cy|1zu|5u|Jakobstadt;Jėkabpilis;Jėkabpėlės;Jākubmīsts;Jiekabpėlis
+Ji’an|CN|Chongqing|7i|290|85r|5u
+Jiangkou|CN|Chongqing|7i|298|8bo|5s
+Jining|IN||6t|26e|7bh|5r
+Jindřichův Hradec|CZ||9m|3si|15o|5o|Neuhaus;Jindržichūv Hradecas
+Jijoca de Jericoacoara|BR||2w|-81|-34d|5l
+Jiangluo|CN||7i|2m6|85y|5c
+Jiaogong|CN||7i|2l9|82p|5b
+Jirkov|CZ||9m|3wa|11d|5b
+Jiaping|CN||7i|28j|87f|59
+Xico|MX|Veracruz|41|1hy|-7hh|57|Jico
+Jiuchao|CN||7i|20h|8e5|53
+Jianlong|CN||7i|29k|86z|52
+Jiuchi|CN||7i|2dk|8d1|4x
+Jiayi|CN||7t|2ud|6as|4w
+Jianshan|CN|Chongqing|7i|2fb|8ei|4t
+Jirāba|BD||6a|1uf|6yw|4s
+Jigani|IN||6t|zj|5zo|4q
+Eilenburg|DE||8r|3yy|z3|4l|Jiłow
+Jiangjia|CN||7i|29n|88q|4l
+Jifeng|CN||7i|2li|85i|4j
+Jičín|CZ||9m|3w4|16n|4h|Jiczyn;Gitzinum
+Giruá|BR||4w|-25v|-46z|4g|Jiruá
+Jisr ez Zarqā|IL||6n|2ie|2oz|4e|Jisr Zarqa;Jisr az-Zarqa
+Jibia|NG||u|10d|k3|40|Jibiya
+Jinqiao|CN|Chongqing|7i|28p|88x|3y
+Jindaoxia|CN||7i|2bd|889|3u
+Jiujing|CN||7i|1qd|7pq|3t
+Jindayris|SY||69|2t3|2tx|3t|Jindaras;Jandarīs;Dīndaris;Jandayris;Jundayris
+Jiquiriça|BR||20|-10u|-31x|3s|Jequirica
+Jıbek joly|KZ||5s|3ch|5wu|3s|Shamalgan
+Jinfeng|CN|Chongqing|7i|2en|8dk|3q
+Jinji|CN|Gansu|7i|2o9|866|3p
+Jinjang|MY||6v|8x|7ue|3m|J-Town
+Jimboomba|AU||8c|-25b|bt3|3m
+Jiangchi|CN||7i|2b3|8c3|3d
+Jilava|RO||8u|3f5|20g|3c
+Jilotepec de Molina Enríquez|MX||41|1jf|-7oh|3a
+Jainpur|IN||6t|20n|6fi|39|Jiyanpur;Jīanpur
+Jindai|CN||7i|2d0|8b6|38
+Jīran|IN||6t|1vj|5s1|37
+Jibou|RO||8u|3na|1sm|34|Zsibó;Jibau
+Jinshan|CN|Chongqing|7i|2af|864|32
+Jijia|CN||7i|2ab|855|31|Lijia
+Jimbolia|RO||8u|3j7|1lk|31|Hatzfeld;Hacfeld;Haczfeld;Žimbolija
+Jitaúna|BR||20|-12x|-32u|30
+Khilok|RU||67|3yo|8iu|2y|Chilok;Jilok;Ĥilok;Chilokas
+Jinshan|CN|Chongqing|7i|28d|89i|2y
+Jiachuan|CN|Gansu|7i|2oe|869|2y
+Jitwārpur Nizāmat|IN||6t|1zt|6mc|2y
+Jianping|CN||7i|2e8|8hc|2x
+Gällivare|SE||9w|56h|1ld|2w|Jällivaara;Jiellevárri;Váhčir;Jiellevárre;Váhtjer;Jellivaara;Jelivarė;Jiellevári gielda
+Zhydachiv|UA||98|3t6|1v2|2w|Żydaczów;Schydatschiw;Zhidáchiv;Jydatchiv;Jıdaçiv;Žydačiv;Židačiva;Zjydatsjiv;Žõdatšiv;Žydačiw;Žydačivas;Zhidachev;Zhidechuv;Zhydachuv;Zhidachov
+Jiangzi|CN||7i|28c|6ww|2s|Gyangze;Gyangtse
+Jialing|CN||7i|2lm|870|2s
+Jiquipilas|MX||41|1ab|-785|2r|Jiquipilla;Jianipilas
+Jiraūn Kasba|IN||6t|1xs|62i|2m
+Jitwārpur Chauth|IN||6t|1zt|6md|2l
+Jiquilisco|SV||2u|110|-6u2|2j|Ilquilisco
+Jiajinlong|CN||7i|1qn|8sf|2j
+Jinxi|CN||7i|29n|8dx|2h
+Jilotzingo|MX|México|41|1j7|-7n6|2d|Jilotaingo
+Jilong|CN||7i|2ak|8c1|2d
+Jiangkou|CN|Gansu|7i|2mm|83y|2c
+Jiahe|CN||7i|2mp|81y|2b
+Jieshoucun|TW||7l|20n|997|25
+Jinonice|CZ||9m|3v1|13y|24|Jinonitz
+Jiyūgaoka|JP||7q|2qx|arz|23
+Jiribam|IN||6t|1ww|76o|21
+Jiangtai|CN||7i|2mp|821|1z
+Jindong|CN|Chongqing|7i|294|8ed|1z
+Jinjing|CN||7i|1wa|95g|1y
+Jiazhou|CN||7i|1qp|8se|1x
+Jikamshi|NG||u|xt|ll|1x
+Xixona|ES||9d|2z2|-1e|1x|Jijona
+Jimbaran|ID|Yogyakarta|6l|-m3|8jp|1w
+Jimena de la Frontera|ES||9d|2t8|-f5|1v
+Jimenez|PH||71|n6|9k0|1v
+Jiegan|CN||7i|2kh|83y|1u
+Jimaní|DO||4v|1fd|-5jl|1u
+Jindabyne|AU||8l|-2t6|bgu|1t
+Jima Abajo|DO||4v|1h5|-5fi|1r
+Jilma|TN||1e|2pz|q6|1n
+Ginoza|JP||7q|21k|9vi|1m|Jinoza
+Jilemnice|CZ||9m|3wl|173|1m
+Jijila|RO||8u|3hu|267|1m
+Jiushixia|CN||7i|1qk|8st|1l
+Jianjiang|CN||7i|21r|98o|1j
+Jindong|CN|Gansu|7i|2m7|87b|1j
+Jilikŭl|TJ||6d|2w5|5ad|1i|Dzhilikul’;Dzhil’kul’;Dzhilikol
+Jílové|CZ||9m|3x0|136|1h
+Jílové u Prahy|CZ||9m|3um|149|1h
+Jicaltepec Autopan|MX||41|1ht|-7os|1g
+Jindalee|AU|Queensland|8c|-24h|bsu|1g
+Jiangpan|CN||7i|2lu|81w|1f
+Eibau|DE||8r|3xm|14q|1f|Jiwow
+Jiuxiangling|CN||7i|1qr|8sj|1e
+Jinnīyah|SY||69|2sw|303|1e|Jennîya
+Jiana Veche|RO||8u|3fb|1qz|1e
+Jicang|CN||7i|2og|7xn|1b
+Jim Thorpe|US||48|35k|-5ud|1a
+Jitotol|MX||41|1bf|-75y|18
+Jianshan|CN|Gansu|7i|2jr|83a|18
+Jicaltepec Cuexcontitlán|MX||41|1ht|-7or|17
+Jimbaran|ID|Central Java|6l|-jw|8iv|17|Djembaran;Jembaran
+Ybbs an der Donau|AT||a2|3pt|15w|17|Jivice na Dunavu;Îps;Īpozōnalco;Íbosa do Danúbio
+El Jícaro|GT||32|15f|-6xq|16|Jicaro
+Jiawa Airikecun|CN||7t|2y1|6lj|16
+Jiquilillo|NI||3s|zf|-6qx|15|Tiguilillo
+Jielong|CN|Chongqing|7i|2a8|8bp|15
+Jiabong|PH||71|wo|9n3|15
+Jina|RO||8u|3j6|1ts|14
+Jiříkov|CZ||9m|3xo|14h|13
+Iłowa|PL||a5|3z2|168|13|Stadt Halbau;Halbau;Jiłwa;Ilova
+Jilotepec|MX|Veracruz|41|1ih|-7hb|13
+Hipadpad|PH||71|y5|9nw|12|Jipapad
+Jinhe|CN||7i|250|8gg|12
+Jilavele|RO||8u|3gd|21p|11
+Jiming|CN||7i|2g3|8do|11
+Jirlău|RO||8u|3hh|23h|y
+Jirny|CZ||9m|3v8|14u|x
+Jīsh|IL||6n|2jq|2qh|w
+Jimalalud|PH||71|rq|9i8|w|Jimalalua
+Jicolapa|MX||41|1jh|-7k5|w|Jicotapa
+Jiufen|TW||7l|1xr|9eg|v|Dziufenas;Chiufen;Cửu Phần;Jioufen;Chiu-fen
+Jiaoju|CN||7i|1qj|8se|v
+Žitište|RS||8q|3id|1l3|v|Ĵitiŝte;Begaszentgyörgy;Béga-Szent-György
+Jinping|CN||7i|2ep|8he|u
+Jiangbian|CN||7i|1ra|8s5|t
+Jibao-an|PH||71|ty|9ga|r|Jebaoan
+Jim Brown|ZA||o|-1xe|2ed|q
+Jince|CZ||9m|3ub|12u|p
+Jingfeng|CN||7i|1xd|96g|p
+Jindalee|AU|Western Australia|8k|-2fx|8xd|p
+Jibert|RO||8u|3js|1xn|p
+Ginabuyan|PH||71|v8|9lk|o|Jinabuyan;Hinabuyan
+Jinling|CN||7i|2bb|8de|o
+Jinočany|CZ||9m|3uz|13n|o
+Jīrandeh|IR||7o|2ty|3ub|n|Jarindeh;Jārandeh
+Jīt|PS||6g|2hh|2pp|m
+Jindera|AU||8l|-2rv|bc1|m
+Jiblea Veche|RO||8u|3ho|1vn|m
+Jiu-Paroșeni|RO||8u|3i0|1sm|m|Jiu Paroşeni
+Gyönk|HU||8v|3lc|1fc|l|Jink
+Jinşāfūţ|PS||6g|2he|2pl|l
+Jistebnice|CZ||9m|3th|14d|k|Jistebnitz
+Jiuwei|CN||7i|1qx|8sa|k
+Jiangwakou|CN||7i|31s|92y|k|Chiang-wa-k’ou
+Jiquipilco|MX||41|1ic|-7op|j|Xiquipilco
+Jīān|IR||7o|2be|418|j|Jīyān
+Jiménez|MX|Tabasco|41|1eg|-765|j
+Jiamaying|CN||7i|2vd|8y3|i|Cha-ma-ying;Chia-ma-ying
+Geraci Siculo|IT||9o|2x6|13b|i|Jiraci
+Jiquilpan|MX|Jalisco|41|1iy|-80a|i
+Jingili|AU||8e|-yf|a3j|i
+Jimbaran|ID|Bali|70|-of|8vw|i
+Jicomé|DO||4v|1il|-5h3|h
+Jitia|RO||8u|3im|228|h
+Jitoucun|CN||7i|21k|989|h
+Jifnā|PS||6g|2gs|2pt|h
+Jiménez del Teul|MX||41|1sl|-80c|h|Jimenes del Teul
+Yiẕhar|PS||6n|2hd|2pw|g|Jic'har;Yitzhar;Jitzhar
+Jinshiqiao|CN||7i|24m|8k6|g
+Jilliby|AU||8l|-2kb|bom|g
+Las Jícamas|MX|Guanajuato|41|1kc|-7tk|g|Jícamas
+Prymors’ke|UA||98|3ig|2a9|g|Jibrieni;Prymorske
+Jereh|IR||7o|299|40e|g|Gereh;Jireh
+Jiménez|MX|Durango|44|1zr|-7z4|g|Jimerez
+Jilotlán de los Dolores|MX||41|1ht|-7y6|f
+Jiangshi|CN||7i|23c|8gu|f
+Jindřichov|CZ|Moravian-Silesian Region|9m|3vl|1co|f
+Jimena|ES||9d|2x4|-9o|f
+Jistebník|CZ||9m|3u7|1ed|f
+Jiangkouxu|CN||7i|24x|8gu|f|Jiangkou
+El Jicaral|NI||3s|zd|-6ny|e|Jicaral;La Jicaral
+Jilotzingo|MX|Puebla|41|1jn|-7jy|e
+Jicayán de Tovar|MX||41|1bl|-7kw|e|Xicayan de Tovar
+Gangdong|CN||7i|25k|8jv|e|Jiangdong
+Jirov|RO||8u|3g3|1s5|e
+Jirnsum|NL||8m|43g|g3|e
+Jícaro Galán|HN||56|11l|-6qw|e
+Jichişu de Jos|RO||8u|3mw|1u4|d|Jichişul-de-Jos
+Jieni|RO||8u|3e3|1wb|d
+Jitzámuri|MX||3x|20u|-8fi|d
+Yinnon|IL||6n|2g6|2om|d|Jinon;Yinon;Yenon
+Jiquinlaca|HN||56|12x|-6tf|c|Jiquinlace
+Jimramov|CZ||9m|3tw|193|c
+Jiménez|MX|Coahuila|44|28r|-7ro|c
+Jicarero|MX||41|1fp|-7nm|c
+Jinzhu|CN||7i|2b8|8da|b
+Jiangfang|CN||7i|21m|8ij|b
+Jiquilpan (Estación Bonanza)|MX||41|16m|-75n|b
+Jidvei|RO||8u|3ke|1uy|b
+Jitonhueca|MX||37|236|-8gg|b
+Jindřichov|CZ|Olomouc Region|9m|3v6|1b7|b
+Jidoștița|RO||8u|3g8|1qr|a
+Jifarong|GM||7|10y|-183|a|Jiffarong
+Jieznas|LT||a3|47o|1v6|a|Jeznas
+Cicacalco|MX||41|1oc|-7yz|a|Jicacalco
+Jiefang|CN||7i|1qs|8s8|a
+Jiangtousi|CN||7i|20l|8i1|a
+Jiménez|CR||2i|s9|-6gp|a
+Jīldān|IR||7o|2vv|3ug|a
+Jistrum|NL||8m|43t|gv|a|Eestrum
+Jiliapan|MX|Hidalgo|41|1ma|-7ny|a|Jiliapa
+Jiana Mare|RO||8u|3fd|1r1|a
+Jicacal|MX||41|1el|-7at|a
+Jiřice|CZ||9m|3tn|16k|9
+Jiangkou|CN|Hunan|7i|23j|8io|9|Chiang-k’ou
+Jiblea Nouă|RO||8u|3hm|1vo|9
+Jīgheh|IR||7o|2yg|3lw|9|Jegheh
+Jiříkovice|CZ||9m|3sl|1ak|9
+Jílovice|CZ||9m|3rt|14x|9
+Jilotepec|MX|Aguascalientes|41|1p8|-7vk|9
+Jicaltepec|MX||41|1k1|-7h1|9
+Jiu’ao|MO||6y|1ph|8ri|9|Ká Hó;Povoação de Ká Hó
+Jiana|RO||8u|3fc|1r3|8
+Jinačovice|CZ||9m|3sv|19x|8
+Jigrasheni|GE||7n|36s|3cy|8|Dzhigrasheni
+Jieț|RO||8u|3i7|1t3|8
+Jiuxijiang|CN||7i|24u|8j9|8
+Xilitla|MX|Hidalgo|41|1mj|-7mh|8|Jilitla
+Jiaoxi|CN||7i|239|8dj|8
+Jimlín|CZ||9m|3vs|127|7
+Jiliapan|MX|Puebla|41|1js|-7hz|7
+Jiljīlīyā|PS||6g|2gz|2pu|7|Jiljilia;Jiljilīye
+Jiffin|GM||7|11a|-17a|7|Giffin
+Jitaru|RO||8u|3fr|1w7|7
+Jiliște|RO||8u|3io|23o|7|Ziliştea
+Jisp|NL||8m|41v|dh|7
+Jil|AM||80|34d|3i9|7|Cil
+Jilim Tantocoy Tres|MX||41|1ns|-7mz|7
+Jijia|RO||8u|3od|23a|7
+Jiřetín pod Bukovou|CZ||9m|3x0|16e|6
+Jiliapa Segundo|MX||41|1lh|-7j4|6
+Jívová|CZ||9m|3u3|1cb|6
+Jigoreni|RO||8u|3ma|23v|6
+Jindřichovice pod Smrkem|CZ||9m|3xk|16d|6|Heinersdorf an der Tafelfichte
+Jimbor|RO|Bistrița-Năsăud County|8u|3md|1v9|6
+Jiroff|GM||7|11a|-17m|6
+Jiřetín pod Jedlovou|CZ||9m|3xb|14i|6
+Jiangdong|CN||7i|22z|8g2|6
+El Jícaro|MX||41|1fi|-7fd|6|Jícaro
+Jívka|CZ||9m|3we|18r|6|Jibka
+Jíloviště|CZ||9m|3up|13u|6
+Jīrhandeh|IR||7o|2vp|3ui|6
+Jičíněves|CZ||9m|3vx|16m|6
+Jīrsar-e Vīshkā|IR||7o|2vs|3u6|6
+Jimbor|RO|Brașov County|8u|3k3|1yj|5|Székelyzsombor;Székely-Sombor;Szekelyz-Sombor
+Jindřichovice|CZ||9m|3vo|z0|5
+Jiquilpan|MX|Chiapas|3z|16k|-75s|5|Rancho Quemado
+Jilotepec|MX|Puebla|41|1j0|-7j7|5
+Jiménez|MX|Guanajuato|41|1kh|-7rb|5

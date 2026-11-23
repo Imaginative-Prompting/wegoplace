@@ -1,0 +1,137 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Chelyabinsk|RU||7z|498|4qn|9a0|Tscheljabinsk;Cheliábinsk;Čeljabinsk;Ĉeljabinsko;Tšeljabinsk;Tcheliabinsk;Čeļabinska;Tsjeljabinsk;Czelabińsk;Tjeljabinsk;Çelyabinsk;Čeliabinskas;Celiabinsc;Celeabinsk;Cseljabinszk;Čeläbinsk;Tsyelyabinsk;Txeliabinsk;Celiabinsca
+Chandigarh|IN|Chandigarh|6t|2de|5xb|7hm|Čandígarh;Czandigarh;Čandigarchas
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Jeju City|KR||7h|2l3|9rg|3rs|Czedżu;Jeju;Cheju;Kota Jeju;Jeju Şehri;Jeju Shahri;Jeju Gida;Kutha Jeju;Magaalaa Jeju;Magaaladda Jeju;Jiji la Jeju
+Cherepovets|RU||9i|4k9|2xa|2fp|Tscherepowez;Tšerepovets;Čerepovec;Czerepowiec;Ĉerepoveco;Tsjerepovets;Čerepoveca;Čerepovecas;Cerepoveț;Txerepovets;Cserepovec;Tjerepovets;Çerepovets;Čerjepowjec;Cherepovetz
+Chernihiv|UA||98|3z3|2ex|26j|Tschernihiw;Czernihów;Ĉernigivo;Ĉernihivo;Csernyihiv;Tsjernihiv;Tšernihiv;Czernihovia;Chernígov;Černihiv;Çernigiv;Tjernihiv;Černihiw;Černihov;Černigovas;Txerníhiv;Cernigău;Tšernigiv;Černigov;Çerniqov;Cernigovia;Tschernigow
+Cherkasy|UA||98|3tc|2h2|22y|Tscherkassy;Tcherkassy;Čerkasy;Czerkasy;Cserkaszi;Tsjerkasy;Tšerkassõ;Tšerkasy;Ĉerkaso;Çerkassi;Çerkası;Čerkasai;Circassium;Tjerkasy;Txerkasy;Tcherkássi;Tsjerkasi;Txerkassi;Čerkasad;Cherkassy
+Chernivtsi|UA|Chernivtsi|98|3q5|201|21f|Tschernowitz;Czernowitz;Cernăuți;Tsjernivtsi;Czerniowce;Tjernivtsi;Ĉernivco;Černovice;Çernivtsi;Tšernivtsi;Txernivtsí;Černivci;Csernyivci;Černovci;Czernovicum;Černivciai;Chernovsi;Cernovizza;Csarnóca;Chernovtsy
+Częstochowa|PL||a5|3x4|1h4|1wx|Tschenstochau;Čenstakava;Čenstohova;Čenstochová;Czenstochau;Czynstochowy;Khìm-sṳ̂-thok-khok-ngá;Çenstoxova;Chenstochov
+Chiang Mai|TH||62|1g7|7my|zc|Cziang Maj;Chiangmai;Çian May;Kiangmai;Chiengmai
+Cherkessk|RU||9i|3eu|38t|y0|Tšerkessk;Čerkessk;Czerkiesk;Tsjerkessk
+České Budějovice|CZ||9m|3s1|147|py|Budweis;Böhmisch Budweis;Česke Budejovicai;Czeskie Budziejowice;Bohemo Budvicium
+Chauk|MM||7y|1m2|7be|p9|Čokas;Czauk;Chouk
+Chiang Rai|TH||62|1jb|7pb|lw|Cziang Raj;Čiangrajus;Çian Ray;Chang Rai;Chiengrai
+Chekhov|RU|Moscow Oblast|9i|497|2w2|l0|Tsjekhov;Tschechow;Chéjov;Čechov;Çexov;Ĉeĥov;Tšehhov;Tšehov;Čehova;Tsjekhov i Moskva oblast;Czechow;Tjechov
+Chapayevsk|RU||9p|436|3u3|jh|Tsjapajevsk;Tchapaïevsk;Čapaevsk;Ĉapajevsk;Tšapajevsk;Ceapaievsk;Czapajewsk;Tjapajevsk;Čapajewsk;Tschapajewsk;Chapaevsk
+Sheptytskyi|UA||98|3vz|1vc|hv|Krystynopol;Chervonohrad;Červonohrad;Tscherwonohrad;Czerwonogród;Kristinopol’;Chervonograd;Czerwonohrad;Krvstonopol;Sheptytskyy
+Chitral|PK||6q|2rl|5jf|fw|Chetrar;Čitral;Czitral
+Charikar|AF||6o|2p9|5c5|ex|Ĉarikar;Čarikaras;Czarikar;Čahārikār;Charekar;Chāirkār;Chahārīkār
+Chusovoy|RU||7z|4hx|4gl|dy|Tsjusovoj;Tschussowoi;Chusovói;Tchoussovoï;Čusovoj;Çusovoy;Tšusovoi;Ciusovoi;Čusovoi;Czusowoj;Tchussovoi;Tjusovoj;Tsjoesovoj;Čusowoj;Csuszovoj;Chusovaya
+Chabahar|IR||7o|1y9|4og|d5|Tschahbahar;Çabahar;Čáhbahár;Chah Bahar;Czabahar
+Chernyakhovsk|RU||96|47r|1om|ck|Insterburg;Tschernjachowsk;Czerniachowsk;Ĉernjaĥovsk;Černjachovsk;Įsrutis;Černjakhovsk;Černiachovskas;Tšernjahovsk;Chernyakovsky
+Cegléd|HU||8v|3n1|1j0|ax|Czegled
+Česká Lípa|CZ||9m|3wt|14e|a4|Böhmisch-Leipa;Czeska Lipa
+Czechowice-Dziedzice|PL||a5|3un|1gs|9n|Čehovice-Dzedzice;Czechowice-Dźydźice;Čechovicės-Dzedzicės
+Czeladź|PL||a5|3vs|1h0|9j
+Czerwionka-Leszczyny|PL||a5|3vb|1fw|7z|Czerwionka;Leszczyny;Červionka-Leščynos;Červjonka-Leščini;Czyrwjůnka-Leszczyny
+Chortkiv|UA||98|3s6|1zo|7w|Czortków;Çortkiv;Csortkiv;Čortkiva;Tsjortkiv;Ciortkiv;Tschortkiw
+Český Těšín|CZ||9m|3u7|1fr|76|Czeski Cieszyn;Tschechisch Teschen;Češki Tješin;Teschen;Česki Tešīna;Česky Tešynas
+Čadca|SK||8s|3tc|1g7|6b|Csaca;Csacza;Czaca
+Chernogolovka|RU||9i|4bk|2yk|5p|Tsjernogolovka;Tschernogolowka;Černogolovka;Çernoqolovka;Txernogolovka;Tšernogolovka;Černogolowka;Czernogołowka
+Chudovo|RU||9i|4k8|2g0|4u|Tsjudovo;Tiutova;Tchoudovo;Čudovo;Tsjoedovo;Tšudovo;Czudowo;Tjudovo
+Człuchów|PL||a5|453|1c8|3q|Čluhova
+Cherrapunjee|IN||6t|1ya|72q|39|Çerapunci;Čérápuňdží;Čerapundžis;Cherapunjee;Czerapuńdżi;Cherapunji;Cherrapunji
+Czarnków|PL||a5|42y|1a0|38|Czôrnkòwò;Čarnkova;Czarnikau
+Celldömölk|HU||8v|3na|1bn|36|Kiscell;Czelldömölk
+Čáslav|CZ||9m|3un|16r|2s|Tschaslau;Czaslau;Časlau
+Chausy|BY||9g|45h|2e1|2p|Chavusi;Tschawussy;Tchavoussy;Tšavusy;Čavusai;Czausy;Tjavusy;Chausi;Chavusy
+Chaplynka|UA||98|3ks|2l6|2p|Tšaplynka;Čaplinka;Txaplinka;Tjaplynka;Chaplinka;Tšaplõnka;Čaplynka;Czapłynka;Ceaplînka
+Czarna Białostocka|PL||a5|443|1so|2o|Čarna Bialostocka;Čarna Bjalostocka
+Czersk|PL|Pomerania|a5|45g|1dy|2m|Čerska;Heiderode
+Chornobaivka|UA||98|3lq|2if|2i|Tsjornobajivka;Tschornobajiwka;Chornobayivka;Čornobajivka;Czornobajiwka;Čornobaïvka;Tšornobajivka;Txornobaivka;Çernobayevka;Ciornobaiivka;Chernovayevka;Chernobayevka;Chernoayevka
+Chachersk|BY||9g|430|2dw|2h|Tchatchersk;Čačersk;Tšatšersk;Csacserszk;Čačerska;Czeczersk;Tjatjersk;Chechersk
+Chany|RU||75|49n|5x8|2h|Tsjany;Tšany;Čany;Csani;Çanı;Czany;Tsjani
+Chop|UA||98|3qj|1po|2e|Ciop;Čop;Czop;Csap
+Chojna|PL||a5|434|143|22|Hojna;Czińsbarg
+Chagoda|RU||9i|4kc|2q5|21|Tsjagoda;Čagoda;Tšagoda;Čagod;Csagoda;Txagoda;Czagoda
+Czaplinek|PL||a5|44s|193|1x|Czôplënkò;Čaplineka
+Chynadiyovo|UA||98|3qp|1rf|1w|Tchynadiïovo;Szentmiklós;Tschynadijowo;Czynadijowo;Chynadiieve;Ĉinadijovo;Čynadijovo;Çınadiyovo;Ciînadiiovo
+Chakvi|GE||7n|37x|37x|1v|Ch'ak'vi;Tjakvi;Ĉakvi;Czakwi;Chakva
+Czarne|PL||a5|454|1b2|1o|Czôrné;Čarne
+Chornukhyne|UA||98|3q8|2z0|1l|Chernukhino;Tschornuchyne;Čornuhine;Chornújine;Tšornuhhõne;Tsjornukhine;Czornuchyne;Cernuhîne;Tjornukhyne
+Czaniec|PL||a5|3uh|1hh|1j
+Chambarak|AM||80|34s|3hz|1j|Čambarakas;Tjambarak;Ĝambarak;Tšambarak;Čambarak;Czambarak;Krasnoselsk;Mikhaylovka
+Chepelare|BG||9v|37x|1wk|1j|Tsjepelare;Tšepelare;Cepelare;Czepełare;Tjepelare;Chepelari
+Czerwonak|PL||a5|41q|1b6|1i
+Crepaja|RS||8q|3h1|1lc|1i|Czrepaja
+Chudei|UA||98|3ph|1z6|1h|Czudyn;Chudyn;Chudey
+Chemerivtsi|UA||98|3s5|216|1g|Czemerowce
+Chabany|UA||98|3vu|2cj|1f|Chabani;Čabany;Çabanı;Czabany;Ceabanî
+Czempiń|PL||a5|40u|1ak|1f|Čempiņa;Chempin’
+Starocherkasskaya|RU||9i|3n8|338|1f|Starotsjerkasskaja;Starotjerkasskaja;Staročerkasskaja;Starotcherkasskaïa;Staroçerkasskaya;Czerkask;Starocerkasskaia;Starotxerkàsskaia
+Chechelnyk|UA||98|3py|29k|1e|Tchétchelnyk;Tsjetsjelnyk;Tschetschelnyk;Chechel'nyk;Tšetšelnyk;Csecselnik;Čečeľnyk;Çeçelnık;Txetxelnik;Tjetjelnyk;Chechelnik;Čečel'nyk;Txetxelnyk;Czeczelnik
+Czarny Bór|PL||a5|3x1|18t|1c|Schwarzwaldau
+Czerwieńsk|PL||a5|40h|16u|16|Červeņska;Czerwińsk
+Czemierniki|PL||a5|3zj|1qw|11
+Czarny Dunajec|PL||a5|3tc|1j5|10|Čierny Dunajec
+Czarna Woda|PL||a5|45k|1ea|w
+Czyżowice|PL||a5|3uu|1f4|v
+Czarnowąsy|PL||a5|3wx|1dq|v|Czarnowanz
+Cherniatyn|UA||98|3r6|1yp|u|Czerniatyn;Chernyatin;Chernyatyn
+Cerna|HR||a6|3hi|1fx|u|Czerna
+Czudec|PL||a5|3uq|1oo|t
+Chervone|UA|Zhytomyr Oblast|98|3us|287|s|Tscherwone;Tjervone;Červone;Czerwone;Chervonoye
+Czernikowo|PL||a5|433|1gm|s
+Chernivtsi|UA|Vinnytsia|98|3qu|264|r|Tscherniwzi;Tjernivtsi;Černivci;Çernivtsi;Czerniejowce;Cernivți
+Czyżew|PL||a5|42o|1pz|r|Čiževo valsčius
+Czeremcha|PL||a5|41w|1sv|q
+Czerniejewo|PL||a5|41n|1cl|q|Čerņejevo
+Chokurdakh|RU||6z|5g6|beu|p|Tsjokurdakh;Tschokurdach;Tšokurdah;Čokurdachas;Čokūrdāha;Csokurdah;Çokurdah;Txokurdakh;Čokurdach;Tšokurdahh;Czokurdach;Chakurdakh;Chekyrdakh
+Chornukhy|UA||98|3vn|2ji|p|Tchornoukhy;Tschornuchy;Čornuchy;Çornuhı;Czornuchy;Ciornuhî
+Czarna|PL|Subcarpathia|a5|3v3|1n2|p
+Cizer|RO||8u|3mr|1rk|o|Czizér
+Charnawchytsy|BY||9g|412|1ty|o|Czernawczyce;Chernavchitsy;Chernavchitse
+Człopa|PL||a5|43h|18s|o|Schloppe;Člopa
+Czchów|PL||a5|3ug|1lg|n|Čhova
+Kisielice|PL||a5|44x|1hi|m|Cziselëce;Kiselice
+Czernica|PL|Silesia|a5|3v4|1f4|l
+Chiprovtsi|BG||9v|3ci|1rk|j|Tschiprowzi;Ciprovți;Čiprovci;Cziprowci;Tjiprovtsi;Tschiporowzi;Chiporovtsŭ;Chiporovtsi
+Czarków|PL||a5|3uy|1gj|j
+Staryi Chortoryisk|UA||98|3yb|1zw|i|Czartorysk;Staryy Chortoryys’k;Chartoriysk;Chartorysk;Staryy Chartoriysk
+Chopovychi|UA||98|3x7|28f|i|Chapovichi;Chopovichi;Chepovichi;Tschopowytschi;Chopovich;Tchopovytchi;Čopovyči;Çopovıçi;Czopowyczi;Ciopovîci
+Czernichów|PL|Lesser Poland|a5|3uv|1io|h
+Czarna|PL|Subcarpathia|a5|3v7|1pm|g
+Chornobyl|UA||98|3yf|2by|g|Tschernobyl;Chernobil;Txernòbil;Chernobyl;Chornóbil;Černobyl;Tjernobyl;Ĉernobilo;Tchernobyl;Csernobil;Černobyl';Tsjernobyl;Czarnobyl;Cernobîl;Tšornobõl;Tšernobyl;Černobylis;Tsjornobyl;Chernobyl’
+Czermin|PL|Subcarpathia|a5|3vu|1n9|g
+Chernelytsia|UA||98|3rl|1yn|f|Czernelica
+Czarna Góra|PL||a5|3t6|1jx|f
+Czaszyn|PL||a5|3td|1pq|e
+Czarnocin|PL|Łódź Voivodeship|a5|3zb|1io|d
+Czarnożyły|PL||a5|3yh|1fk|d
+Czapury|PL||a5|41c|1az|d
+Czarnochowice|PL||a5|3uw|1jr|c
+Czerwińsk Nad Wisłą|PL||a5|41k|1kf|c
+Czernica|PL|Lower Silesia|a5|3xt|1bx|c
+Chekhohrad|UA||98|3m3|2pk|c|Czechohrad;Čechohrad;Nowhorodkiwka;Novhorodkivka
+Czułów|PL||a5|3v2|1iq|b
+Czarna Dąbrówka|PL||a5|470|1cs|b|Czôrnô Dąbrówka
+Czajków|PL||a5|3z1|1ex|b
+Chystyliv|UA||98|3tt|1z1|b|Czystyłów
+Czerwonka|PL||a5|45s|1m2|b
+Czerniewice|PL|Kujawsko-Pomorskie|a5|41v|1h1|a
+Czastary|PL||a5|3ye|1ew|a
+Czernichów|PL|Silesia|a5|3u7|1hd|a
+Czarnogłowy|PL||a5|45d|15f|a
+Chornyy Ostriv|UA||98|3tj|22c|a|Tchornyï Ostriv;Chornyi Ostriv;Tschornyj Ostriw;Tjornyj Ostriv;Chorniy Ostriv;Černý Ostrov;Çornıy Ostriv;Czarny Ostrów
+Czermno|PL||a5|3xz|1jn|9
+Chernyshevskoye|RU||96|47s|1r5|8|Tschernyschewskoje;Tchernychevskoïe;Tsjernysjevskoje;Eitkūnai;Czernyszewskoje;Tjernysjevskoje;Černyševskoe;Tšernõševskoje;Txernixévskoie
+Czarlin|PL||a5|465|1g4|8
+Chiva|AM||80|32h|3he|8|Ch’iva;Cziwa
+Czarna|PL|Subcarpathia|a5|3t1|1qy|8
+Czermin|PL|Greater Poland|a5|40b|1db|8
+Czerniewice|PL|Łódź Voivodeship|a5|3zh|1k0|7
+Czarna|PL|Mazovia|a5|41h|1mz|7
+Czerwin|PL||a5|433|1og|7
+Crna Bara|RS|Vojvodina|8q|3jp|1kc|7|Zrna Bara;Czernabara
+Čakany|SK||8s|3po|1c9|6|Pozsonycsákány;Czakany
+Cabuna|HR||a6|3j3|1cu|6|Zabuna;Czabuna
+Czarnów|PL||a5|40m|1mm|6
+Czersk|PL|Mazovia|a5|40c|1mz|6
+Czyże|PL||a5|42l|1t2|6
+Czyżówek|PL||a5|3z3|164|5
+Czarnocin|PL|Podlasie|a5|43t|1pc|5
+Czerwonka-Parcel|PL||a5|412|1ka|5
+Tschurndorf|AT||a2|3o9|19l|5|Czundra;Csóronfalva;Čulindrof

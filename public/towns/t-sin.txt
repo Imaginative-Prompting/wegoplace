@@ -1,0 +1,420 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Xi’an|CN||7i|2n6|8el|2ry1|Hsi-an;Xian;Ŝiano;Sianas;Tây An;Siaņa;Ŝingano;Šjan;Singan;Sian
+Shenyang|CN||7i|383|9iv|1xzh|Šenjangas;Thẩm Dương;Senjang;Ŝenjango;Šeņjana;Šen-jang;Sjenyang;Sím-iông-chhī;Sīng-iòng;Shenyan;Swnjyangh;Şenyanq
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Singapore|SG||7j|3l|80h|17ib|Tumasik;Singapur;Singapour;Singapura;Sîn-kâ-po;Temasek;Dānmǎxī
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Xinyang|CN||7i|2h8|8sv|axk|Sinyang;Hsin-yang
+Chengde|CN||7i|35r|93o|73o|Čengdė;Thừa Đức;Čcheng-te;Sìng-dáik;Sêng-tek-chhī;Chengteh;Ch’eng-te
+Johor Bahru|MY||6v|43|808|6md|Johor Baharu;Džohor Baru;Sîn-sân-sṳ;Jahore Bahru;Johore Bharu;Johore Bahru;Johore Baru
+Xinyu|CN||7i|258|8v9|6h7|Sĭng-ṳ̀;Sin-jü;Sîn-yì-sṳ;Tân Dư;Sin-û-chhī
+Xingtai|CN||7i|2uy|8u1|65w|Sing-tchaj;Sintaj;Hình Đài;Hìng-dài;Hêng-tâi-chhī;Hsing-t’ai;Singtai
+Xinmin|CN|Liaoning|7i|38n|9h7|4d4|Sinmin
+Xinzhou|CN|Shanxi|7i|2yp|8p5|47b|Sin-čou;Hãn Châu;Hṳ̆ng-ciŭ;Hian-chiu-chhī
+Hsinchu|TW||7l|1ww|9c1|3hz|Sin-ču;Sîn-chuk-sṳ;Tân Trúc;Sinhcuz;Sin-tek-chhī;Xinzhu;Hsin-chu;Hsin-Chung
+Wong Tai Sin|HK||6i|1q3|8t6|3a4
+Sinjhoro|PK||6q|20b|5b5|2qj|Sinjihoro
+Sanandaj|IR||7o|2q3|3mk|2p0|Sanandadsch;Sanandij;Sanandadż;Sine;Sanandaĝo;Senendedžas;Senendec;Sinandij
+Simferopol|UA||9t|3gw|2mr|2lh|Symferopol;Sinferopoli;Akmescit;Aqmescit;Szimferopol;Sympheropolis;Sinferòpol;Aq Mečit;Oqmasjid
+Zinder|NE||18|12d|oz|2gl|Sinder
+Cincinnati|US||48|30p|-6ir|2ef|Sinsinato;Cincinnatopolis;Sinsinati;Sinsinatis;Sinsinnati
+Saint Paul|US|Minnesota|2f|3gu|-76l|2c8|St. Paul;Urbs Sancti Pauli de Minnesota;Sent Polas;San Pablo;Sentpola;Sint-Paul;Sent Pol;Sent Pols;Sint Pol
+Sinŭiju|KP||7a|33e|9lk|281|Sinidzsu;Sineidžu
+St. Louis|US||2f|2zb|-6yk|25p|San Luis;Saint Louis;Saint-Louis;Sankta Luiso;St Louis;Sent-Luis;Sent Luisas;Sentluisa;Urbs Sancti Ludovici;Sent Loisos;Sint-Louis;Saint Louis City;Saint Lewis
+Sincelejo|CO||27|pu|-5tf|256|Sinselechas;Cincelejo
+Singkawang|ID||79|2j|8eq|1yi
+Singa|SD||r|10j|2m9|1xg|Sindscha;Sindža;Sinja;Senga
+Sinfra|CI||0|ie|-gf|1w4
+Singida|TZ||h|-de|2oi|1sl
+Sinop|BR||2k|-wy|-4a6|1q6
+Xintai|CN||7i|2rq|933|1pt|Sintai
+Singrauli|IN||6t|1v8|6do|1p7
+Singosari|ID||6l|-lx|8oz|1er|Singasari
+Sinp’o|KP||7a|338|9w3|16g
+Sinch’ŏn-ŭp|KP||7a|2yj|9ok|13a|Sinch’ŏn;Sinch’ŏn-ni;Sincheoneup
+Shinyanga|TZ||h|-a6|2ku|12t|Šinjanga;Schinjanga
+Singaraja|ID||70|-mj|8vp|116|Singaradja
+Sinnūris|EG||c|29p|2dr|113
+Sennar|SD||r|11p|2l9|105|Sinnar;Sannar;Senar
+Sīnah|IQ||5z|2u9|3bk|zs|Sîne;Sīnā
+As Sinbillāwayn|EG||c|2ds|2fe|yg|As Sunbullāwayn;As-Sinbillāwayn
+Toba Tek Singh|PK||6q|2e1|5lc|y7
+Sino-Singapore Tianjin Eco-city|CN||7i|30r|936|rs
+Santiago de Compostela|ES||9d|3b4|-nr|rn|Saint-Jacques-de-Compostelle;Compostelako Donejakue;Santiago di Compostela;Compostella;Santiaqo de Kompostela;Santiagu de Compostela;Santiago de Kompostela;Santiago de Compostella;Santjago de Kompostela;Compostèla;Sint-Djåke-el-Galice
+Molenbeek-Saint-Jean|BE||8t|3x9|bz|qy|Sint-Jans-Molenbeek
+Sintang|ID||79|7|8lq|nm
+Sinwŏn-ŭp|KP||7a|2y8|9pc|n4|Sinwŏn;Sinwŏn-ni;Sinwon-eup
+Sinhyeon|KR||7h|2ow|9xb|my|Sinhyŏn
+Sindhnūr|IN||6t|17t|5x8|l2
+Xinying|TW||7l|1sr|9a7|ku|Sin-jing;Sîn-yàng-khî;Tân Doanh;Sinying;Hsin-ying
+Sint-Niklaas|BE||8t|3y5|bi|j6|Saint-Nicolas
+Sinnar|IN||6t|1j5|5pk|i5|Szinnár
+Songkhla|TH||62|k0|7rg|h6|Singgora;Sung Kla;Singorra;Singora;Songkla;Senggora
+Sindelfingen|DE||8r|3ra|p2|h1|Zindelfingen
+Sengkang|ID||70|-bh|99f|gj|Singkang
+Woluwe-Saint-Lambert|BE||8t|3x8|cb|fq|Sint-Lambrechts-Woluwe
+Sinan|KR||7h|2or|9qb|es
+Saint-Gilles|BE||8t|3x7|c2|dy|Sint-Gillis-Obbrussel;Sint-Gillis;Sint-Djîle-dilé-Brussele
+Singaparna|ID||6l|-kf|8cb|dl
+Singen|DE||8r|3oo|ok|d8
+Singkil|ID||6l|6d|7jn|d0|Singkel
+Shinshiro|JP||7q|2oy|aly|cc|Syinsyiro;Sinsiro-chhī
+Sinjai|ID||70|-e8|9a1|bc|Sinjay;Sindjai
+Sinjār|IQ||5z|2sw|38c|an|Sncar;Sincar;Sindžár;Sindschar;Sindjar
+Sint-Truiden|BE||8t|3x6|ef|aj|Saint-Trond;Sintruin;Sent-Trüden;Sint Treidens;Oppidum Sancti Trudonis;Sint Treidenas;Sinttreidena;Sint-Truudn;Sint-Trond;Sint Truijen
+Sindgi|IN||6t|1b0|5vr|ac
+Sinsheim|DE||8r|3st|oo|aa|Sinse;Zinsheimas
+Sinkat|SD||r|1gc|2uc|9w
+Sinendé|BJ||1b|sr|6m|9t|Sinindé;Sinandé
+Sinop|TR||94|38r|2po|9o|Synopa;Sınob
+Shingū|JP|Fukuoka|7q|2ln|a2b|95|Singū
+Sint-Amandsberg|BE||8t|3xu|af|8x|Mont-Saint-Amand;Mont-Saint Amand
+Singānallūr|IN||6t|uk|5xz|8o
+Synelnykove|UA||98|3q8|2qp|8i|Sineljnikove;Synelnykowe
+Xingang|TW||7l|1tg|9ab|8h|Singang
+Sint-Pieters-Leeuw|BE||8t|3x2|bs|8g|Leeuw-Saint-Pierre;Ieus
+Singojuruh|ID||6l|-n4|8tb|86|Singodjuruh
+Shīnḏanḏ|AF||6o|2ki|4sn|85|Šīndand
+Shingū|JP|Wakayama|7q|2lp|ahq|7n|Singû-chhī;Singū;Schingu
+Saint-Josse-ten-Noode|BE||8t|3x9|c5|7m|Sint-Joost-ten-Node;Nauda Sancti Iudoci
+Sinkassé|TG||w|uu|1|7h|Cinkassé;Sankassa;Sinkasé;Sankassé
+Sintra|PT||99|2zs|-q2|7a|Cintra
+Berchem-Sainte-Agathe|BE||8t|3xb|by|70|Sint-Agatha-Berchem
+Singāpur|IN||6t|1cj|611|6t
+Saint-Pol-sur-Mer|FR||9k|3xr|6i|6k|Sint-Pols-aan-Zee;Saint-Po-dsu-Mér;Sint-Pols;Saint-Pol
+Sinngu|MM||7y|1az|7ey|6d|Sint Ngu
+Sintra-Nema|GW||8|wy|-17c|5z
+Sindi|IN|Maharashtra|6t|1lm|62b|5u
+Senanga|ZM||z|-18s|1sn|5t|Sinanga
+Singānuram|IN||6t|1ga|64u|5l
+Sing Buri|TH||62|15d|7qw|5k|Singburi;Singha Buri
+Zinjibār|YE||5r|10h|3i2|5j|Zincibar;Zinyibar;Zinjebar;Sinjibaar;Zanjibar;Zmjibar
+Sinchu Alagi|GM||7|115|-1ac|5h
+Sint-Katelijne-Waver|BE||8t|3xv|cl|5f|Sint Katelijne Waver;Sint-Kathelijne-Waver
+Singur|IN||6t|1rd|6t3|5e
+Singarāyakonda|IN||6t|16b|66b|5e
+Sint-Andries|BE||8t|3y8|8u|5d
+Sinda|ZM||z|-13h|2g8|57
+Sinmak|KP||7a|2yq|9qn|57
+Saint-Omer|FR||9k|3wz|6a|53|Sint-Omaars
+Singampunari|IN||6t|sb|61u|51|Singampuneri
+Sint-Genesius-Rode|BE||8t|3wz|c4|50|Rhode-Saint-Genèse
+Sinzig|DE||8r|3we|k5|4z|Sentiacum;Zincigas
+Sin-le-Noble|FR||9k|3vw|8p|4x|Sin-le-Nope
+Sint-Gillis-Waas|BE||8t|3ya|bg|4x|Saint-Gilles-Waes;Saint-Gillis-Waas
+Sigatoka|FJ||ar|-1ee|dp3|4w|Singatoke;Singatoka
+Sint-Oedenrode|NL||8m|3z9|f6|4p
+Sindkhed Raja|IN||6t|1jf|5vh|4k
+Sint-Kruis|BE||8t|3y9|91|4g
+Sinnai|IT||9o|316|pk|4e
+Sinanju|KP||7a|320|9ox|4d|Sin-ansyū
+Malaba|KE||16|1s|2n8|4c|Singapur
+Sinazongwe|ZM||z|-1by|24a|48|Sinasongwe
+Sinfin|GB||9b|42w|-45|47
+Kinna|SE||9w|4fr|z9|46|Šina
+Sinabang|ID||6l|6w|7fq|46
+Sintansin|KR||7h|2t9|9tz|46|Shintanshin;Sint’anjin
+Sânpetru|RO||8u|3iz|1z8|46|Sînpetru
+Sinsang-ni|KP||7a|325|9tx|46|Sinsangni
+Sîngerei|MD||8x|3oc|266|42|Sângerei
+Isinya|KE||16|-4o|2ud|40|Sinya
+Sintiou Bamambé|SN||g|16p|-10h|3u|Sinntiou Bamambé;Sinthiou Bamambé
+Sindi|IN|Maharashtra|6t|1lt|635|3s
+Singapperumālkovil|IN||6t|zg|669|3s|Singaperumalkoil;Singaperumālkovil
+Sinématiali|CI||0|qm|-ey|3o
+Sint-Gillis-bij-Dendermonde|BE||8t|3xq|bf|3m|Swiviacum
+Sintok|MY||6v|hw|7r8|3l|Sintuk
+Singārbīl|BD||6a|1uf|71e|3l
+Sânnicolau Mare|RO||8u|3k0|1lb|3l|Nagyszentmiklós;Sannikolau Mare;Sânnicolaul Mare;Sînnicolau Mare;Sînnicolaul Mare
+Sines|PT||99|2xg|-on|3k
+Sântana|RO||8u|3kr|1nq|3j|Sfânta Ana;Sîntana
+Singarva|IN||6t|1ry|5ly|3h
+Saint-Martin-Boulogne|FR||9k|3wx|4i|3g|Sint-Martiny-lés-Boulonne
+Sint-Michiels|BE||8t|3y7|8x|3f|Saint-Michel-lez-Bruges
+Sinaia|RO||8u|3hz|1yz|3b|Sinaja
+Sindo|KP||7a|32l|9l3|3a
+Singhāna|IN||6t|262|5uo|36
+Sinor|IN||6t|1ov|5nq|35
+Sinzheim|DE||8r|3rh|mp|33
+Sındırgı|TR||94|310|26a|31
+Sinj|HR||a6|3de|1a8|30|Signo;Setovium
+Sindo|KE||16|-1i|2mx|2v
+Singoli|IN||6t|1xd|5t6|2n
+Síndos|GR||8p|34z|1rd|2l|Tekelí;Síndhos
+Sint-Lievens-Houtem|BE||8t|3xg|aq|2j
+Sinuapa|HN||56|144|-6vr|2j
+Sint-Stevens-Woluwe|BE||8t|3xb|cd|2i|Woluwe-Saint-Étienne
+Sint-Martens-Lennik|BE||8t|3x5|bl|2g
+Sint Willebrord|NL||8m|3z7|cr|2f|St. Willebrord
+Sinimbu|BR||4w|-2a2|-41w|2e
+Sint-Job-in-'t-Goor|BE||8t|3yi|cp|2d|Saint-Job-in 't-Goor
+Séné|FR||9k|3oa|-7m|2d|Sine
+Sint-Martens-Latem|BE||8t|3xp|a4|2b
+Sângeorz-Băi|RO||8u|3nl|1wj|2a|Sîngiorz-Băi;Sîngeorz-Băi
+Siniscola|IT||9o|34p|qy|29
+Sinchu Balla|GM||7|11s|-15r|28
+Sinchu Sorry|GM||7|117|-1ad|25
+Sint-Amands|BE||8t|3xu|bp|25|Saint-Amand
+Yssingeaux|FR||9k|3he|bg|21|Sinjau;Issingeaux
+Sîngera|MD||8x|3mc|28h|20|Sindžera;Sângera
+Sindou|BF||1a|tn|-ed|1z|Sindu
+Saint-Georges-sur-Meuse|BE||8t|3wk|ew|1w|Sint-Djôr-so-Mouze
+Sinzing|DE||8r|3s4|xf|1v
+Sint-Lenaarts|BE||8t|3yn|d0|1v
+Sinegorskiy|RU|Rostov|9i|3pd|35g|1v|Sinegorskij
+Sint-Laureins|BE||8t|3yc|9s|1v
+Sinn|DE||8r|3wp|n5|1u
+Sint-Katherina-Lombeek|BE||8t|3xb|bj|1u
+Sinalunga|IT||9o|3c1|wn|1u
+Sint-Maria-Lierde|BE||8t|3x6|ao|1s|Lierde-Sainte-Marie
+Sint-Denijs-Westrem|BE||8t|3xq|a7|1s|Saint-Denis-Westrem;Sint-Denys-Westrem;Saint Denis-Westrem
+Sini|IN||6t|1rb|6mr|1s
+Sinnamon Park|AU||8c|-24i|bsv|1r
+Sinaai|BE||8t|3y4|b8|1r
+Sândominic|RO||8u|3le|1zm|1r|Csíkszentdomokos;Sîndominic
+Shintoku|JP||7q|3bn|b0r|1r|Sintoku
+Singtam|IN||6t|23n|6tu|1p|Singtom
+Sâncrăieni|RO||8u|3kn|1zs|1p|Csikszentkiràly;Sâncráiem;Sâncrăeni;Sîncrăieni
+Sinamar|PH||71|1ay|9dp|1o
+Singair|BD||6a|1u3|6yg|1o
+Sinanpaşa|TR||94|2zm|2c0|1n|Sincanlı
+Sint Pancras|NL||8m|42a|da|1n|Sint Pankras
+Sint-Kwintens-Lennik|BE||8t|3x4|bj|1n|Lennick-Saint-Quentin
+Sânpetru Mare|RO||8u|3jx|1lu|1m|Sânpetrul-Mare;Sînpetru Mare
+Sinton|US||2f|25w|-7iv|1l
+Sindangan|PH||71|mw|9ho|1l
+Sinnersdorf|DE||8r|3xq|iy|1l
+Si Ma Cai|VN||62|1r2|81o|1l|Sin Ma Kai;Si Ma Kai
+Sincik|TR||94|2xo|2z9|1j
+Sīn|IR||7o|2j9|3zi|1j
+Sinjil|PS||6g|2gz|2pz|1i|Sindjil;Sinjel
+Sânandrei|RO||8u|3jd|1mt|1h|Sînandrei
+Singhesar Asthan|IN||6t|206|6p3|1h
+Sângeru|RO||8u|3hd|217|1h|Sîngeru
+Sinduria|IN||6t|1vr|6g8|1h
+Sinaloa de Leyva|MX||3x|1zq|-8cm|1g
+Sint Michiel Liber|CW||2l|xr|-5bm|1f|Sint Michiel
+Semur-en-Auxois|FR||9k|3nw|c1|1f|Sinemurum
+Singleton|AU|New South Wales|8l|-2ih|bnx|1f
+Sihāsa|IN||6t|1r2|5ui|1f|Sinhasa
+Sinilian First|PH||71|17l|9am|1e|Sinilian
+Sint Annaparochie|NL||8m|440|fq|1e|Annaparochie;Sint Anne;St. Annaparochie
+Sint-Antonius|BE||8t|3yf|cw|1e
+Ágioi Theódoroi|GR|Peloponnese|8p|2xd|1sa|1d|Áyioi Theódhoroi;Agii Theodori;Áji Theódori;Sindodhori;Ayioi Theodoroi
+Sinayawan|PH||71|in|9o3|1d
+Prigorodnoye|RU||9i|3c6|3j4|1d|Prigorodnoje;Komsomol’skij;Şina-Süyran-Yuq̇;Komsomol’skiy
+Sângeorgiu de Pădure|RO||8u|3kz|1x0|1c|Sângeorgíul de Pădure;Sângeorgiu-de-Pădure;Sângiorgiul de Pădure;Sîngeorgiu de Pădure
+Chingueṭṭi|MR||19|1ku|-yc|1b|Šingetis;Cengiṭ;Chinguiti;Chingueti;Szinkit
+Sint-Lambrechts-Herk|BE||8t|3xe|er|1b
+Sânzieni|RO||8u|3jx|20l|1a|Sînzieni
+Sint-Pauwels|BE||8t|3y7|be|1a
+Singleton Heights|AU||8l|-2ie|bnw|1a
+Sindala|CI||0|pa|-d7|19
+Bergues|FR||9k|3xl|6r|18|Sint-Winoksbergen;Bergn
+Sânmihaiu Român|RO||8u|3iy|1ml|17|Sînmihaiu Român;Sînmihaiu Romîn
+Sânmartin|RO|Harghita County|8u|3kj|201|17|Sînmartin
+Sineşti|RO|Iași County|8u|3mw|23i|17
+Sint-Pieters-Voeren|BE||8t|3wy|g6|16|Fouron-Saint-Pierre
+Sinking Spring|US||48|341|-5v5|15
+Singuilucan|MX||41|1jh|-7lo|15|Zinguilucan
+Sīnāwin|LY||1d|2e7|tg|15|Sinnāwin;Sīnāwan
+Sint-Eloois-Winkel|BE||8t|3xc|8u|15
+Sinawilan|PH||71|ir|9nx|14
+Sânpaul|RO|Mureș County|8u|3l1|1vn|14|Sînpaul
+Sint-Eloois-Vijve|BE||8t|3xf|9i|14
+Sindi|EE||9x|4i8|1wj|13
+Sânmartin|RO|Bihor County|8u|3ml|1p1|13|Váradszentmárton;Sântmartin;Sînmartin
+Şintereag|RO||8u|3n2|1vi|12
+Sinyavskoye|RU||9i|3nc|314|11|Sinjavskoje
+Sinisian|PH||71|12o|9bo|11
+Singrobo|CI||0|gx|-do|10
+Singac|US||48|35l|-5q8|10
+Sintea Mare|RO||8u|3l8|1o0|10
+Sins|CH||a7|3n3|nb|10
+Singleton|AU|Western Australia|8k|-2i4|8xk|10
+Sinyavino|RU||9i|4mf|2eb|10|Sinjavino;Vahriselkä
+Singureni|RO||8u|3ev|202|z
+Şinca Veche|RO||8u|3j5|1xx|y
+Sint Nicolaasga|NL||8m|430|fy|y|Sint Nikolaasga;Sint Nyk;Sint Nikelsgea
+Sânsimion|RO||8u|3kh|1zw|y|Sînsimion
+Sint-Huibrechts-Lille|BE||8t|3ya|f9|y
+Sinjë|AL||9y|34x|1j7|y|Sinja
+Sint Anthonis|NL||8m|3zf|gc|x|Sintunnis;Sint Antonis
+Sinubong|PH|Caraga|71|mf|9pt|x|Sinobong
+Sinnamary|GF||2d|ey|-434|w|Sinnama;Sinamary;Sinnamari
+Sinait|PH|Ilocos|71|1dn|9am|v
+Sinegor'ye|RU||6z|4sh|bm4|v
+Sineu|ES||9d|324|8d|v
+Sindal|DK||8y|4fn|sc|u
+Singo|CI||0|sc|-hj|u
+Sinpon|MM||7y|1b3|7f8|t
+Sint-Joris-Winge|BE||8t|3xe|dj|t
+Sindor|RU||9i|4um|405|t
+Sinajana Village|GU||aw|11e|b63|t
+Sinolon|PH||71|hc|9mp|s
+Singapay|RU||7z|4pv|5lu|s
+Sint Odiliënberg|NL||8m|3y2|go|s|Sint-Odiliënberg;Berg
+Sinala|PH||71|12d|9c1|s
+Singouiné|CI||0|jw|-lw|s|Sengouiné
+Sâncel|RO||8u|3kc|1uj|r|Sîncel
+Sint-Martens-Bodegem|BE||8t|3xa|bp|r|Bodeghem-Saint-Martin;Bodegnem-Saint-Martin
+Sântimbru|RO|Alba County|8u|3k5|1tp|r|Csíkszentimre;Sîntimbru
+Sinigo|IT||9o|3lj|v2|r
+Sinyéale|CI||0|kh|-8j|r
+Sinonoc|PH||71|n3|9k1|q|Sinonuc
+Shinuhayr|AM||80|31k|3ko|q|Şinuayr;Shinuayr;Shinuair
+Sineşti|RO|Vâlcea County|8u|3gv|1u9|q
+Sinkaha|CI||0|o9|-f2|q
+Sin Thay|MM||7y|20a|7dq|q
+Sint-Michielsgestel|NL||8m|3zg|ev|q|Saint-Michel-Gestel
+Sineşti|RO|Ialomița County|8u|3ft|21a|q
+Sinagra|AU||8k|-2g6|8xp|q
+Sinanche|MX||3z|1mz|-6vq|q|Sinamanché
+Sinuknipan|PH||71|12l|9go|p|Sinoknipan
+Sânpaul|RO|Cluj County|8u|3m8|1t2|p|Sînpaul
+Sint-Maria-Oudenhove|BE||8t|3x7|ak|p
+Sint-Denijs|BE||8t|3wz|9d|p
+Sinodskoye|RU||9s|40f|3ln|p|Sinodskoje
+Sinegorsk|RU||7f|3n1|azw|o
+Sindon|PH||71|1be|9ey|o
+Sint-Joris|BE|Flanders|8t|3xb|en|o
+Sinacaban|PH||71|n1|9k0|o|Sinakaban
+Sint-Baafs-Vijve|BE||8t|3xf|9f|o
+Sinarubai|BN||66|dg|8v3|n
+Singani|KM||ac|-wx|3cc|n
+Sinait|PH|Central Luzon|71|176|9az|n
+Sinubong|PH|Zamboanga Peninsula|71|jj|9ep|m|Sinubung
+Sintești|RO|Ilfov|8u|3f2|20k|l
+Sinceny|FR||9k|3ts|91|l|Sincency
+Sint Philipsland|NL||8m|3ze|bl|l|Sint Filipsland
+Sântimbru|RO|Harghita County|8u|3kk|1zt|l|Szentimre;Marosszentimre;Csíkszentimre;Sîntimbru
+Sint-Lievens-Esse|BE||8t|3xa|at|k|Sint-Lievens-Essche
+Sinopoli|IT||9o|2ya|184|k
+Sint Maarten|NL||8m|42l|d7|k
+Sânpetru German|RO||8u|3k3|1mh|k|Sînpetru German;Sânpetrul-German
+Sint-Joris-Weert|BE||8t|3x4|cx|j
+Zilupe|LV||9n|4cn|264|j|Zilopė;Sīnuoja;Ziluppe
+Sint-Joris|BE|Flanders|8t|3y1|9d|j
+Singhofen|DE||8r|3vn|lr|j
+Sint-Martens-Lierde|BE||8t|3x4|an|j|Lierde-Saint-Martin
+Sint-Ulriks-Kapelle|BE||8t|3xc|bq|j|Chapelle-Saint-Ulric;Cappelle-Saint-Ulric
+Sănduleşti|RO||8u|3le|1tw|j|Szind;Sind
+Sâncraiu|RO||8u|3m3|1ru|i|Kalotaszentkirály;Sâncrai;Sîncraiu
+Sindia|IT||9o|33y|o2|i
+Sindihui|MX||41|1b8|-7if|i|Xindihui
+Sânmartin|RO|Arad County|8u|3ky|1nb|i|Sînmartin
+Sânmihaiu Almaşului|RO||8u|3mn|1sn|i|Sânmihaiul-Almaşului;Sînmihaiu Almaşului
+Sinanköy|TR|Diyarbakır Province|94|2x6|35v|h
+Sânmărtin|RO|Cluj County|8u|3ma|1th|h|Sînmărtin
+Sinagra|IT||9o|2xs|159|h
+Šintava|SK||8s|3q4|1dc|h|Schintau
+Sinikosson|CI||0|j5|-8x|h
+Sint-Agatha-Rode|BE||8t|3x3|cv|g
+Sint Jacobiparochie|NL||8m|43z|fk|g|St.-Jacobiparochie
+Şincai|RO||8u|3ll|1vq|g
+Saint-Jans-Cappel|FR||9k|3x0|7k|f|Sint-Janskappel;Sint-Jans-Kapel
+Sint-Maria-Horebeke|BE||8t|3x8|a9|f
+Beşeylül|TR||94|2xd|26z|f|Sinekler
+Șinca Nouă|RO||8u|3ix|1y4|f|Újsinka
+Sântion|RO||8u|3mu|1oo|f|Sîntion
+Sint-Pieters-Kapelle|BE||8t|3wv|b3|e
+Sint-Martens|BE||8t|3x8|do|e
+Sinahua|MX||41|1es|-7rg|d
+Șindrilari|RO||8u|3j7|22o|d
+Sindéré-Sokoro|CI||0|o9|-d8|d
+Sint Joost|NL||8m|3y0|ge|d
+Sânnicoară|RO||8u|3lz|1tx|d|Sânicoară;Sînnicoară
+Şinteu|RO||8u|3mz|1qg|d
+Sinošević|RS||8q|3fy|1ik|c
+Sinarcas|ES||9d|32d|-3f|c|Sinarques
+Sintjohannesga|NL||8m|431|ga|c|Sint Johannisga;Sint Jânsgea
+Sânnicolau Român|RO||8u|3mg|1ob|c|Sânnicolaul-Român;Sînnicolau Romîn
+Sengān|IR||7o|2ut|3h6|c|Sīngān
+Sânger|RO||8u|3lc|1v2|c|Sînger
+Sint Jansklooster|NL||8m|42c|gp|c
+Sinitsyno|UA||9t|3ho|2px|b
+Sint-Pieters-Rode|BE||8t|3xh|de|b
+Sinapan|MX||41|1fh|-7cp|b
+Sint-Jan-in-Eremo|BE||8t|3yf|9y|b|Saint-Jean-in-Eremo
+Sânpetru de Câmpie|RO||8u|3ls|1ve|b|Sânpetu de Câmpie;Sânpetru-de-Câmpie;Sânpetrul de Câmpie;Sînpetru de Cîmpie
+Sâncrai|RO|Harghita County|8u|3kt|1yc|b|Székelyszentkirály;Sîncrai
+Sint-Martens-Leerne|BE||8t|3xq|9y|b
+Sânmărghita|RO||8u|3n0|1un|b|Sînmărghita
+Sindelsdorf|DE||8r|3ok|vh|a
+Sâncrai|RO|Alba County|8u|3kl|1tz|a|Sîncrai
+Sinaloa|MX|Chiapas|41|185|-73x|a
+Sint-Jan|BE||8t|3xb|82|a|Saint-Jean
+Sinești|RO|Olt|8u|3fj|1wj|a
+Sinahuisa|MX||37|22r|-8g0|a|Sinahuiza
+Sint Laurens|NL||8m|3z5|a0|a
+Sinquerim|IN||6t|172|5ox|a
+Sint Hubert|NL||8m|3zk|g5|a
+Nyzhni Synivtsi|UA||98|3pd|20l|a|Sinăuții de Jos
+Sinabelkirchen|AT||a2|3mu|17z|a
+Sintet|GM||7|10r|-17y|a
+Sânnicolau de Munte|RO||8u|3ne|1pi|a|Hegyközszentmiklós;Sânnicolaul-de-Munte;Sînnicolau de Munte
+Sinirteke|TR||94|2x5|24v|a
+Sinanköy|TR|Gaziantep|94|2uv|2we|a
+Sântămăria-Orlea|RO||8u|3in|1rt|a|Sântămăria Orlea;Sîntămăria-Orlea
+Sânmartinu Sârbesc|RO||8u|3ip|1m8|a|Sînmartinu Sîrbesc;Sânmartinul-Sârbesc
+Sindéressou|CI||0|gm|-dk|9
+Sint-Goriks-Oudenhove|BE||8t|3x9|aj|9|Audenhove-Saint-Géry;Sint Goriks-Oudehove
+Sint Geertruid|NL||8m|3x4|g1|9|Se-Gietere
+Șindrilița|RO||8u|3fn|214|9|Şindrilţa
+Sint-Huibrechts-Hern|BE||8t|3x7|f5|9
+Sinegorskiy|RU|Sverdlovsk Oblast|7z|4gt|4lc|9|Sinegorskij
+Sint Gerlach|NL||8m|3xb|g3|9
+Sinda|RU||7w|3s0|ain|9
+Sinsk|RU||7x|4pt|9sc|9
+Sint-Denijs-Boekel|BE||8t|3xb|ab|9
+Sinarádes|GR||8p|31x|1j5|9|Sinarádhes
+Sent|CH||a7|3m2|sq|8|Sins GR;Sindes
+Sinclair|AU||8k|-2m2|9ej|8
+Sânbotin|RO||8u|3hi|1vq|8|Sînbotin
+Saint-Pierre-Brouck|FR||9k|3xe|63|8|Sint-Pietersbroek;Sint-Pieters-Broek
+Sindé|CI||0|ng|-ct|8|Sendé
+Sīnāb|IR||7o|2xd|3ma|8|Sīn Āb
+Cantón Sinaí|MX||3z|168|-74g|8|Sinaí
+Sint-Martens-Voeren|BE||8t|3wz|g5|8|Fouron-Saint-Martin
+Sântionlunca|RO||8u|3ja|1zw|8|Sîntionlunca
+Sinfla|CI||0|j0|-fw|8
+Sint-Blasius-Boekel|BE||8t|3x9|ac|8
+Sânmihaiu de Câmpie|RO||8u|3m9|1vm|7|Sânmihaiul-de-Câmpie;Sînmihaiu de Cîmpie
+Sinbilimi|CI||0|mk|-88|7
+Sint Maartensbrug|NL||8m|42m|d5|7
+Sint-Margriete-Houtem|BE||8t|3x7|ds|7
+Singo|PE||3o|-eo|-64s|7
+Singouin|CI||0|ks|-kr|7
+Sinne|UA||98|3p4|2a5|7
+Sindacale|IT||9o|3iy|zs|7
+Sântandrei|RO|Hunedoara County|8u|3jd|1rt|7|Szentandrás;Sîntandrei
+Sânmihaiu German|RO||8u|3iz|1mf|7|Sânmihaiul-German;Sînmihaiu German
+Sint-Margriete|BE||8t|3yg|9v|7|Sint Margriet
+Sinaloa|MX|Chiapas|41|1a4|-783|7
+Sint-Maria-Latem|BE||8t|3xd|ab|7
+Sinsin|BE||8t|3vo|el|6
+Sinigoro|CI||0|m7|-jg|6
+Sinkoro|CI||0|n0|-lx|6
+Șindrești|RO||8u|3o9|1tu|6
+Sint Maartensvlotbrug|NL||8m|42n|d3|6
+Sinard|FR||9k|3gu|fq|6
+Sint-Antelinks|BE||8t|3x9|ax|6|Saint-Antelinkx
+Sântimreu|RO||8u|3n9|1p9|6|Sântimrău;Sîntimreu
+Sânpaul|RO|Arad County|8u|3ki|1n3|6|Sînpaul
+Sinanlı|TR||94|30t|2im|6
+Sinchi Roca|PE||3o|-dk|-67g|6
+Sinersig|RO||8u|3iv|1oc|6|Sinerseg
+Siniyuvi|MX||41|19s|-7k1|6
+Sângeorge|RO||8u|3i4|1n8|6|Sângeorgiu;Sîngeorge
+Sinclairville|US||48|39e|-646|6|Sinclearville
+Sinirci|TR||94|35d|2ek|6
+Sântioana|RO|Cluj County|8u|3mh|1up|5|Sîntioana
+Sântuhalm|RO||8u|3je|1rr|5|Sîntuhalm
+Sântioana|RO|Mureș County|8u|3kk|1w7|5|Sîntioana
+Sânpetru Mic|RO||8u|3jv|1mg|5|Sînpetru Mic;Sânpetrul-Mic
+Sint-Kornelis-Horebeke|BE||8t|3x7|aa|5
+Sinja Gorica|SI||9a|3jq|13s|5
+Sintești|RO|Timiș County|8u|3jf|1pt|5
+Sini|IT||9o|32f|oq|5

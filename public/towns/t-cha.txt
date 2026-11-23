@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Changzhou|CN||7i|2g9|997|pe5|Changtsjou;Csangcsou;Thường Châu;Čangdžou;Čchang-čou;Ĉangĝoŭo;Siông-chiu-chhī;Siòng-ciŭ;Čangdžov;Changchow;Ch’ang-chou
+Changsha|CN|Hunan|7i|26c|8pt|nvg|Ĉangŝa;Trường Sa;Cangzsah;Čchang-ša;Chhòng-sâ-sṳ;Csangsa;Changsja;Tn̂g-soa-chhī;Diòng-să;Čanša;Chansha
+Haikou|CN|Hainan|7i|1jn|8ij|n5s|Xeyko shehir;Hải Khẩu;Hajkou;Hajkoŭo;Chaj-kchou;Hái-kháu-chhī;Hāi-kāu;Haijgouj;Haykou;Haikow
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Changshu|CN||7i|2fx|9be|cxv
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Changde|CN||7i|28n|8ma|b8u|Changteh;Čchang-te;Sòng-tet-sṳ;Čangdė;Thường Đức;Siòng-dáik;Siông-tek-chhī;Ch’ang-te
+Kharkiv|UA||98|3uu|2sp|ayr|Charkiw;Charkiv;Ĥarkov;Harkiv;Harkova;Charcovia;Charkovas;Harkiva;Charkov;Charków;Carcóvia;Kharkov;Jarkov;Ĥarkivo;Khar’kov
+Zhanjiang|CN||7i|1mz|8in|at3|Trạm Giang;Chankiang
+Handan|CN||7i|2tp|8u1|ahb|Hàm Đan;Chan-tan;Hàng-dăng;Hân-tan-chhī;Han-tan
+Maoming|CN||7i|1o7|8k3|a3a|Mao-ming;Meu-miàng-sṳ;Mậu Danh;Bō͘-bêng-chhī;Chaozhou;Mâiu-mìng
+Changzhi|CN|Shanxi|7i|2si|8q7|9dh|Čchang-č;Ĉanĝi;Čangdži;Trường Trị;Diòng-dê;Tiông-tī-chhī;Chang-chi;Ch’ang-chih
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Changwon|KR||7h|2pv|9xg|7wx|Ch'angwŏn;Čangvonas;Cshangvon;Ĉangvono;Sangwon
+Hanzhong|CN||7i|2jw|89a|7rm|Chan-čung;Hán Trung;Háng-dṳ̆ng;Hàn-tiong-chhī;Han-chung
+Chandigarh|IN|Chandigarh|6t|2de|5xb|7hm|Čandígarh;Czandigarh;Čandigarchas
+Charlotte|US|North Carolina|48|2pv|-68k|715|Sharlot;Carolinum;Šarlotė;Šarlota;Şarlott;Ŝarloto
+Zhaotong|CN||7i|23w|804|62u|Čao-tchung;Chiêu Thông;Ciĕu-tŭng;Chiau-thong-chhī;Chao-t’ung
+Shaoyang|CN||7i|23o|8lm|5t8|Sjaoyang;Šao-jang;Ŝaojan;Chàu-yòng-sṳ;Thiệu Dương;Siêu-iòng;Siāu-iông-chhī
+Changzhi|CN|Shanxi|7i|2pt|8me|5eb|Ch’ang-chih
+Changning|CN|Shanghai|7i|2eq|9da|5d1
+Zhangjiakou|CN||7i|35a|8v3|5ce|Ĝanjakou;Trương Gia Khẩu;Čang-ťia-kchou;Diŏng-gă-kāu;Chang-kia-k’ou
+Changsha|CN|Guangdong|7i|1q6|8p0|5b6
+Khabarovsk|RU||7w|3qm|afa|4rq|Chabarowsk;Jabárovsk;Chabarovsk;Ĥabarovsk;Habarovszk;Chabarofsk;Habarovska;Chabarovskas;Xabarovsk;Khbarovsk;Khabarovka
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Zhangye|CN||7i|305|7r1|3wy|Trương Dịch;Diŏng-ĭk;Čang-jie;Changyen;Chang-yeh
+Veracruz|MX|Veracruz|41|1ha|-7f2|3az|Verakrusas;Chalchiuhcuehcān
+Chaoyang|CN|Liaoning|7i|37h|9am|35w|Chaiyang
+Khamis Mushait|SA||7e|1eu|3ap|2zo|Chamis Muschait;Khamis Mushayt;Chamis Mušaitas;Chamis Muszajt;Ĥamis Muŝajt;Hamis Muşayt
+Chak Jhumra|PK||6q|2fp|5na|2z0|Chak Jumra
+Chānda|IN||6t|1jf|64a|2j8|Ćandrapur;Chandrapur;Čandrapuras;Čandrapura
+Chiniot|PK||6q|2g4|5mq|2ge|Chinot;Chaniot
+Changyi|CN||7i|2ud|97n|2bx|Ch’ang-i

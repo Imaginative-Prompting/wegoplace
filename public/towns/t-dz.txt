@@ -1,0 +1,187 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Jaipur|IN||6t|22s|5uj|ni6|Dźajpur;Džaipur;Džaipuras;Džajpura;Jaypur;Ĝajpuro;Iaipura;Caypur;Dzsaipur;Jayapur
+Zunyi|CN||7i|24x|88z|fq2|Dzuni;Ĝunji;Tuân Nghĩa;Cun-i;Cŏng-ngiê;Chun-gī-chhī;Cunji;Zunji
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Jinzhou|CN|Liaoning|7i|367|9ci|brg|Jintsjou;Ťin-čou;Ĝjinĝou;Dzindžou;Cẩm Châu;Gīng-ciŭ;Kím-chiu-chhī
+Jamshedpur|IN||6t|1rc|6nf|ac2|Ĝamŝedpur;Dzsamsedpur;Cemşidpur;Džamšedpuras;Džamšedpura;Jamshidpur;Džamšedpur;Jarnshedpur
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Jiaxing|CN||7i|2df|9bf|93s|Ťia-sing;Dziasingas;Gia Hưng;Ka-heng-chhī;Gă-hĭng
+Zhuzhou|CN||7i|25b|8qb|8pt|Jianning;Zhutsjou;Ču-čou;Ĝuĝou;Chu-chû-sṳ;Chu Châu;Chu-chiu-chhī;Çyu Cou;Tṳ̆-ciŭ;Džudžou;Džudžov;Chu-chou
+Jabalpur|IN||6t|1sd|663|8ch|Dżabalpur;Džabalpuras;Ĝabalpuro;Dzsabalpur
+Jodhpur|IN|Rajasthan|6t|20z|5mt|85e|Dźodhpur;Ĝodhpur;Džódpur;Codpur;Dzsódhpur;Džodhpuras;Džodhpura
+Jos|NG||u|rl|op|80w|Dżos;Cos
+Jacksonville|US|Florida|48|2c9|-6au|7si|Ĝaksonvilo;Iacsonvilla;Iacsoniapolis;Džeksonvila;Džeksonvilis;Ceksonvill
+Jalandhar|IN||6t|2f1|5ty|6pd|Ĝalanĝar;Dźalandhar;Dzsálandhár;Džalandharas;Džalandhara;Calandhar
+Johor Bahru|MY||6v|43|808|6md|Johor Baharu;Džohor Baru;Sîn-sân-sṳ;Jahore Bahru;Johore Bharu;Johore Bahru;Johore Baru
+Jeonju|KR||7h|2ri|9t7|4xc|Chŏnju;Čondžu;Džondžu;Chunju;Chŏngju;Chenju;Jeon Ju
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Jhang Sadr|PK||6q|2ev|5kw|4oh|Jhang Sadar;Džchang Sadaras;Džhang-Sadara;Jhang
+Jamnagar|IN||6t|1qf|5en|4mx|Džamnagaras;Džāmnagara;Dzsámnagar;Ĝamnagar;Camnaqar;Džámnagar;Jamnogar
+Genoa|IT||9o|3fc|ou|4h5|Genova;Genua;Janov;Ĝenovo;Gênes;Genuja;Cenova;Dženova;Zena;Xénova
+Jammu|IN||6t|2iy|5ry|4g2|Džammú;Ĝamu;Džamu
+Jiamusi|CN||7i|3m0|a1z|48n|Ťia-mu-s’;Gjamusi;Dziamusi;Giai Mộc Tư;Gă-mŭk-sṳ̆;Ka-bo̍k-su-chhī
+Jalalpur Pirwala|PK||6q|29z|5hu|3uw|Dźalalpur Pirwala
+Jijiga|ET||2|pz|3aw|3q6|Djidjiga;Džidžiga;Ĝiĝiga;Dschidschiga;Jigjiga;Giggigga;Jigjigga;Djigdjiga;Giggiga;Dzhidzhiga
+Jayapura|ID||6m|-71|auw|365|Hollandia;Port Numbay;Djajapoera;Džajapura;Jaya Pura;Noordwijk;Djajapura
+Jixi|CN||7i|3ht|a3s|346|Dzisi;Kê Tây;Ťi-si;Giĕ-să̤;Ke-se-chhī;Kisi
+Yogyakarta|ID||6l|-lo|8ik|2wd|Jogjakarta;Jogjakarto;Džogjakarta;Djokjakarta;Jogyakarta;Jokyakarta;Djogjakarta;Jokjakarta
+Grozny|RU||9i|3cb|3ix|2aj|Grosny;Grozni;Grosnij;Grozno;Groznîi;Groznâi;Grosnî;Groznõi;Groznas;Džohar;Džohhar;Sölž-Ghala;Qroznı;Groznıy;Groznij
+Geelong|AU||8j|-2xz|b50|26k|Džilongas;Ĵelongo
+Jalālābād|AF||6o|2nn|5fp|23j|Dschalalabad;Dżalalabad;Celalabad;Jalolobod;Jelalabad;Dzhelalabad;Djelalabad
+Djelfa|DZ||3|2ob|92|21u|Dżilfa;Jelfa
+Jersey City|US||48|355|-5ps|21f|Thành phố Jersey;Dinas Jersey;Jersey Ceety;Džersi Sitis;Džērsisitija
+Jimma|ET||2|lb|2ub|1xp|Jima;Džima;Gimma;Ĝima;Dżimma
+Magdeburg|DE||8r|40t|wb|1vv|Magdebourg;Meideborg;Maagdenburg;Makekepuka;Magdebörj;Dźěwin;Magdebuag;Magdeburk;Magdeborgh;Magdeborg;Madeborch;Maqdeburq
+Al Jubayl|SA|Eastern Province|7e|232|3tu|1tx|Jubail;Al-Dschubail;Al-Jubayl;Džubail;Al-Dżubajl;El-Cübeyl;Al Jubail;Jubayl
+Georgetown|GY||34|iw|-4hk|1ta|Georgurbo;Džordžtaunas;Džordžtauna;Georgiopolis;Jòjtòn;Džordžtauns;Džordžtaun;Ĝorĝtaŭno
+Dzerzhinsk|RU|Nizhny Novgorod Oblast|9i|4c8|3cq|1sr|Dzerzjinsk;Dzerjinsk;Dzeržinsk;Dserschinsk;Dzeržinskas;Dzeržinska;Dzierżyńsk;Dzerhinsh
+El Jadida|MA||d|2ke|-nn|1n5|Mazagão;El-Jadida;El-Yadida;Al-Djadida;Al-Džadída;Džadida;Mazaghan;Castilho Real;Mazagan;Al Yadida;El Jadid;Al Jadida
+Janakpur|NP||6r|229|6mp|1ia|Džanakpuras
+Jhelum|PK||6q|2jh|5ot|1gw|Jhelam;Alessandria Bucefala;Dželamas;Dźhelam
+Jizzax|UZ||7g|33h|58f|1ds|Djizak;Jizzakh;Djizaks;Džizakas;Cizzak;Dżyzak;Dzjizak;Ĝizaĥo;Jizzaq;Cizzax;Dschizak;Jizzak;Dzhizak;Jizak
+Jaffna|LK||68|qv|669|1az|Džafna;Džafn
+George Town|MY||6v|f1|7qq|17z|Georgetown;Penang;Ĝorĝtaŭno;Khiâu-chhṳ-sṳ;Džordžtaunas;Džordžtauna;Pinang
+Jackson|US|Mississippi|2f|2hq|-6yi|16p|Džeksona;Džeksonas;Džeksons
+Jaranwala|PK||6q|2f1|5ny|15s|Jaranvala;Džaranvala;Ĝaranvala;Jarnawala
+Jijel|DZ||3|2ua|g0|10j|Gíger;Džidželis;Igilgili;Dżidżili;Yiyel;Cical
+Manas|KG||65|35q|5mr|y8|Dschalalabat;Jalal-Abad;Džalal-Abad;Žalal-Abad;Dzjalal-Abad;Dżalalabad;Djalalabad;Džalalabat;Žalalabad;Ĵalalabat;Žalalabat;Dzsalalabad;Džalal Abadas;Celal-Abad;Jalolobod;Džalalabada;Džalal Abad;Dzhalal-Abad
+Zhezqazghan|KZ||5s|3or|583|t0|Schesqasghan;Dzhezkazgan;Jezkazgan;Jezqazg'on;Jezqazğan;Zhezkazgan;Jez-Kazgan;Jezgazgan
+Gillingham|GB|England|9b|3yr|1j|s4|Džilingamas
+Jaramānā|SY||69|2l1|2sz|rs|Džaramáná;Dscharamana;Ceramana;Jéramâna;Jurmānā
+Jounieh|LB||64|2me|2qy|qr|Džunije;Cünye;Joünié
+Jinja|UG||q|18|2k8|pv|Džindža;Cinja;Jinga
+Zarzis|TN||1e|2l2|uv|m1|Dzsardzsísz;Zerzis;Dżardżis;Zarzia
+Daugavpils|LV||9n|4b8|21p|lp|Dünaburg;Dyneburg;Väinänlinna;Daugpilis;Duneburgum;Daugpiļs;Dźwinów;Väinalinn;Daugpėlis;Daugawpils
+Jaisalmer|IN||6t|22s|5gy|is|Džaisalmér;Jailsamer;Dzsaiszalmer
+Jablah|SY||69|2q8|2rt|ib|Jableh;Dschabla;Jablé;Džabla;Ceblê;Jeble
+Georgetown|US|Texas|2f|2d3|-7jc|hp|Džordžtaun
+Jahangira|PK||6q|2mc|5km|fu|Jehangira;Dżehangira
+Jamrud|PK||6q|2mg|5ia|fq|Džamrúd
+Joplin|US||2f|2v0|-7aj|ee|Džoplinas;Džoplina
+Dzerzhinsky|RU||9i|4aj|2x6|d4
+Beaumont|US|California|3p|2m9|-90y|c6|Dził Nizhóní Bigiizh
+Jefferson City|US|Missouri|2f|2z6|-741|bu|Jeffersonurbo;Kota Jefferson;Džeferson Sitis;Džefersonsitija;Dinas Jefferson;Lungsod ng Jefferson;Jefferson Shehri
+Dzhankoy|UA||9t|3iz|2nj|bl|Dschankoj;Džankoj;Dzhankoi;Canköy;Djankoï;Dzhanhoi;Dshankoi
+Dzerzhinskiy|RU||9i|4aj|2x4|bf|Dzerzjinskij
+Jesi|IT||9o|3cw|10s|aa|Iesi;Aesis;Džezis
+Dzierżoniów|PL||a5|3wx|1a9|9i|Reichenbach;Reichenbach in Schlesien;Rychbach;Reichenbach im Eulengebirge;Dzeržoņova;Dzeržoniuvas
+Zhangatas|KZ||5s|3d0|5dp|9b|Zhanatas;Dzhanatas
+Juneau|US|Alaska|3j|4hy|-ade|8s|Džūno;Iunellum;Džunas;Cuno;Džuns;Tisaantikii Hiinii;Dzhunou
+Toretsk|UA||98|3qf|2x5|8l|Dzerzhinsk;Dzerzhyns'k;Dzerzhynsk;Dzeržinsk;Toreck;Dserschynsk;Torezk
+Dzodze|GH||1|hc|2s|8l
+Jubayt|SD||r|1gn|2ub|8l|Dżubajt
+Dzyarzhynsk|BY||9g|454|23d|88|Dsjarschynsk;Dzierżyńsk;Dzerĵinsk;Dzjarzsinszk;Dziaržynskas;Dziarjynsk;Dzjaržynsk;Dziaržynsk;Dzjaržinska;Dziarzjynsk;Kojdanava;Dzerzhinsk;Koydanava
+George Town|KY||2e|1hl|-6a1|86|Georgetown;Corctaun;Georĝurbo;Džordžtaunas
+Patterson|US|California|3p|2w3|-9ch|5z|Dzidzétsoh Yázhí
+Działdowo|PL||a5|43w|1k1|5v|Dzialdovas;Dzjaldovo
+Zhosaly|KZ||7d|3id|4y0|5l|Zhusaly;Dzhusaly
+Johnstown|US|Pennsylvania|48|341|-638|5k|Džonstauna
+Dzüünharaa|MN||7s|3rp|87q|58|Dzüünkharaa
+Dzuunmod|MN||7s|3oj|893|4q|Dzun-mod;Dzun-modo;Dzuun Modo;Zun-Mod
+Đakovo|HR||a6|3hv|1f5|4p|Diakovár;Diaco;Džakovas;Djakovo;Djakowar;Deakovár;Djakovár
+Dzaoudzi|YT||ah|-zi|3hq|49|Zaudzi
+Jabal os Saraj|AF||6o|2pk|5cc|46|Dzhabal’-Ussaradzh;Jabal Saraj;Jabul Saraj;Jabalussaṟāj;Jabal us Sirāj
+Dzhalil’|RU||9i|48u|42i|44|Dzjalil
+Alpine|US|California|3p|2j8|-90d|3y|Dziłtahí
+Dzitbalché|MX||3z|1kg|-6y6|39|Tzitbalché;Dzibalché
+Edwards|US|Colorado|2p|324|-883|2v|Dzidzé Bikooh
+Jaljūlya|IL||6n|2hb|2p4|2t|Jaljulia;Jaljulija;Džaldžulja;Jaljūliya;Jaljūlye
+Georgetown|US|South Carolina|48|2kq|-649|2j|Džordžtaun;George Town;Georges Town
+Lyubymivka|UA|Luhansk|98|3ph|31k|2e|Dzerzhynskyi;Liubymivka
+Zayam|AZ||61|35m|3jh|2b|Dzagam;Dzegam
+Zhanibek|KZ||77|3ta|3m5|2a|Djanibek;Dzhanybek
+Džepčište|MK||9u|38r|1mc|2a|Džepište
+Dzerzhinskoye|RU||6u|4dv|7cj|26|Dzerzjinskoje
+Dyatlovo|BY||9g|44i|1yl|24|Dzyatlava;Dziatlava
+Dzidzantun|MX||3z|1n1|-6vc|22|Tzitzantún;Dzidzantum
+Hughson|US||3p|2wg|-9br|22|Dzidzétsoh Łání
+Dzhalka|RU||9i|3cc|3jr|1r|Dzjalka;Džalka
+Jakar|BT||7p|24j|703|1q|Džakaras;Dzakar;Cakar
+Działoszyn|PL||a5|3y0|1gf|1q|Dzjalošina
+Dzumogne|YT||ah|-zc|3hc|1p|Dzoumogne
+Zhangaqala|KZ||77|3sq|3vp|1o|Dzhangala;Zhangala
+Dzilam González|MX||3z|1n4|-6v1|1n|Tzilam González
+Dzierzgoń|PL||a5|45s|1hr|1j|Dzërzgóń;Dzežgoņa
+Jilikŭl|TJ||6d|2w5|5ad|1i|Dzhilikul’;Dzhil’kul’;Dzhilikol
+Dzhubga|RU||9i|3f4|2zj|1h|Dzjubga;Dshubga
+Georgetown|SH||89|-m1|-141|1e|Corctaun;Džordžtaunas;Džordžtauna;Jorjtown
+Cutler|US|California|3p|2tg|-97d|1e|Dził Ntsaa
+Dzan|MX||3z|1kn|-6wj|1d
+Dzhida|RU||6k|3ws|86y|1d|Dzjida
+Dzoragyugh|AM||80|33l|3hj|1c|Dzoragyux;Dzoragyukh;Dvoragyukh
+Dětmarovice|CZ||9m|3ul|1fa|19|Dittmannsdorf;Dziećmorowice
+Odzun|AM||80|361|3fx|16|Uzunlar;Vornak;Uzun;Udzna gyugh;Udzun;Utsun;Ozun;Ozunlar;Otsun;Odzna gyugh;Odzno gyugh;Dzun
+Jermuk|AM||80|32o|3iv|15|Istisu;Cermuk;Dschermuk;Djermouk;Džermuk;Ĝermuk;Dzjermoek;Džermukas;Dzsermuk;Dzhermuk
+Dzhiginka|RU||9i|3hd|2vq|15|Dzjiginka;Michaelsfeld;Dzhiginsko
+Drzewica|PL||a5|3yx|1kw|14|Dževica
+El Jebel|US||2p|31f|-89h|12|Dził
+Dzhebel|BG||9v|37a|1ya|x|Cebel;Jebel;Djebel
+Mount Pleasant|US|Utah|2p|31v|-8lm|x|Dził Hózhóonii;Mt Pleasant
+Dzemul|MX||3z|1mx|-6w3|w|Tzemul
+Jiufen|TW||7l|1xr|9eg|v|Dziufenas;Chiufen;Cửu Phần;Jioufen;Chiu-fen
+Dzoraghbyur|AM||80|33o|3fz|t|Dzoraxbyur;Dzorakhpyur;Dzoraghp’yur
+Dzegvi|GE||7n|389|3fw|t
+Dziwnów|PL||a5|463|151|t|Dzywnowò;Dzivnova
+Dzitás|MX||3z|1lw|-6tx|t|Tzitas
+Dziuche|MX||2b|1ja|-6up|t
+Dzerzhinskoye|KZ||5s|3ja|698|r|Toqzhaylaū;Dzerzhinskiy
+Dziergowice|PL||a5|3vk|1et|q|Dziergowitz
+Dzilam de Bravo|MX||3z|1nf|-6ux|o|Tzilam de Bravo
+Zeguetiela|CI||0|r9|-k1|n|Dzeguéliéla
+Dzibalchén|MX||3z|1i2|-6x9|n|Dzitbalchen
+Dzoncauich|MX||3z|1mp|-6ux|n|Tzonkauich
+Dzonot Carretero|MX||3z|1ng|-6s4|m
+Dzhebariki-Khaya|RU||7w|4st|ahd|l|Dzjebariki-Khaja;Dschebariki-Chaja;Džebariki-Haja;Džebariki Chaja;Cebariki-Haya;Dżebariki-Chaja
+Dzahadjou|KM||ac|-wx|3cf|k|Dzahadju
+Zrazkove|UA||98|3qw|30y|i|Dzerzhyns’ke
+Dzununcán|MX||3z|1lz|-6x1|i|Dzunnuncan
+Dziemiany|PL||a5|461|1dd|i|Dzemiónë
+Dziani|KM||ac|-xu|3fk|i
+Aghdzk|AM||80|33z|3ey|g|Akhis;Dzorap;Aghtsk
+Dzityá|MX||3z|1mh|-6x4|g
+Gjinoc|XK||8q|39k|1lu|g|Ðinovce;Gjinovc;Džinovce;Gjinofc
+Dzisna|BY||9g|4ad|26d|f|Disna
+Dziekanów Leśny|PL||a5|41f|1lx|f
+Tumanyan|AM||80|35w|3g1|f|Dzaghidzor;Dzagidzor;Tumanian
+Isola del Giglio|IT||9o|39o|ub|e|Isla del Giglio;Giglio;Isula di u Gigliu;Giglio saar;Illa del Giglio;Igilium;Džilijas;Ìsula dû Gigghiu;Giglio Island
+Dzikowiec|PL||a5|3vn|1oo|e
+Dzibikak|MX||3z|1m2|-6xf|e
+Dźwierzuty|PL||a5|456|1m8|e
+Dzhambul|KZ||5s|3n5|5ib|d|Zhambyl
+Dzięgielów|PL||a5|3u4|1fy|d|Děhylov
+Ozelonacaxtla|MX||41|1jp|-7j5|d|Dzelonacaxtla
+Dzików Stary|PL||a5|3vl|1rp|d
+Groß Düben|DE||8r|3z9|14h|d|Dźěwin
+Dzendzelivka|UA||98|3s0|2c1|d|Dzengelovka;Dzenzelivka
+Dzitnup|MX|Yucatán|3z|1ld|-6t4|c
+Dzula|MX||2b|1ig|-6tm|c
+Dzithankov|AM||80|34j|3dq|c|Tsityangov;Bazirkhana;Zetyhankov;Dzithanqov;Olukhlu
+Dzorakap|AM||80|34p|3dw|c
+Dzhayrakh|RU||9i|3ay|3g4|c|Dzjejrakh;Dzheyrakh
+Dziadowa Kłoda|PL||a5|3yc|1d7|c
+Dziećmorowice|PL||a5|3x1|19f|c
+Jvari|GE||7n|3ao|38t|b|Dschwari;Džvaris;Džvari;Dzsvari;Dźwari;Cvari;Dzhvari
+Dzerzhinsk|RU|Irkutsk Oblast|6k|418|81z|b
+Dziewin|PL||a5|3v4|1kt|a
+Działoszyce|PL||a5|3vx|1kj|a|Dzjalošice
+Dzietrzkowice|PL||a5|3y4|1ex|a
+Dzwola|PL||a5|3wu|1qp|9
+Dzitnup|MX|Campeche|3z|1k2|-6yb|9
+Dzitox|MX||3z|1km|-6sp|9|Dzith-Ox
+Jigrasheni|GE||7n|36s|3cy|8|Dzhigrasheni
+Dzidzibachi|MX||3z|1l5|-6yd|7
+Dziekanów Bajkowy|PL||a5|41g|1lx|7
+Dźwirzyno|PL||a5|46g|16t|7|Kolberger Deep
+Dzierzgowo|PL||a5|43n|1le|7
+Jamestown|SH||89|-188|-fw|6|Ceymstaun;Ĵamestaŭno;Iacobopolis;Džeimstaunas;Džeimstauna
+Jasper|US|Minnesota|2f|3dt|-7fs|6|Džasper
+Dzalbay|MX||3z|1lv|-6sl|6
+Dzhigurovo|BG||9v|37f|1ss|6|Dshigurowo
+Dzahani|KM||ac|-we|3c8|5
+Ǵavato|MK||9u|364|1mq|5|Đavato;Ðavat;Džavato;Djavato;Gjavato
+Nižepole|MK||9u|35x|1n1|5|Džindžopole;Nižepolje;Nižopole;Nižo Polje

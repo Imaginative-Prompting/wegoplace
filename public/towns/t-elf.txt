@@ -1,0 +1,45 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Al Fayyum|EG||c|29f|2do|406|Fajum;Fayoum;El-Fayum;Al-Fayyum;Faium;Madinat al-Fayyum;Fayyum;Faijum;Fayún;Fayyoum;El Faiyûm;Fayum;Fayoom
+El Fasher|SD||r|11v|1yf|1y6|Al-Fashir;Al-Faschir;Al-Fašir;Al Fāshir
+Al Fashn|EG||c|282|2du|ve|al-Faschn;Al-Fashan;Al-Fashn;El Fashn;Al-Faszn
+Al Farwānīyah|KW||6x|29c|3p8|o1|El Farvaniye;Al Farvaniya;Al-Farawaniyah;Al-Farwaniyyah;Al Farwania
+Al Fūlah|SD||r|wl|26s|78|Al-Fula;El Fula
+El Fahs|TN||1e|2t1|rj|6z|Al Faḩş
+Elfers|US||48|26e|-6ds|3w
+El Fuerte|MX|Sinaloa|3x|21e|-8dq|3i|Fuerte
+El Factor|DO||4v|1ho|-5e5|1y
+Al Fukhkhārī|PS||6f|2ex|2nd|1j|El Fukhkhari;Al Fakhkhārī
+Pınardere|TR|Mardin|94|2w3|35f|14|El’fan;Elfan
+El Franco|ES||9d|3d0|-j3|12
+Al Fandaqūmīyah|PS||6g|2hs|2ps|x|Al Fandaqumiya;El Fandaqūmiya
+Elfershausen|DE||8r|3vb|ro|u
+El Fuerte de la Unión|MX||41|1hz|-7j0|o
+El Fuerte|MX|San Luis Potosí|41|1ob|-7rm|h|Fuerte
+El Fuerte|MX|Zacatecas|41|1u9|-7yg|f
+El Fresno|MX|Guanajuato|41|1kb|-7r6|c|Fresno
+El Fresno|MX|Guerrero|41|1cf|-7on|b
+El Fortín|MX||41|1k2|-7x0|b
+Al Faşāyil|PS||6g|2gz|2qg|b|El Faṣāyil;Al Faşā’il
+Hondón de los Frailes|ES||9d|2yb|-2l|b|Fondó dels Frares;El Fondó dels Frares
+Figaró|ES||9d|37w|6b|a|el Figueró
+El Fresno|MX|Veracruz|41|1ik|-7he|a
+El Filo|MX||3x|1q6|-84y|9
+El Fresno|MX|Zacatecas|41|1tq|-7z3|8
+El Faisán|MX||41|1k2|-7hh|8|El Faizán
+El Farallón|MX||41|1ik|-7ft|8
+Al Funduq|PS||6g|2hf|2pm|7|El Funduq
+El Fresno San Agustín|MX||41|1hx|-7pq|7
+El Fuerte|MX|Zacatecas|41|1qx|-7xe|7
+El Fortín Alto|MX||41|1cx|-7i0|7
+El Flor|PA||4g|nt|-6d0|7
+El Fresno de la Reforma|MX||41|1jg|-7uo|6
+El Fuerte|MX|Tamaulipas|44|1qa|-7kh|6
+Elford|GB||9b|42d|-4s|6
+El Puente|MX|Guanajuato|41|1mf|-7uj|6|El Fuente
+El Fraile|MX|Nuevo León|44|1yg|-7pl|6
+El Fraile|MX|Zacatecas|41|1py|-7um|6
+El Fortín May|MX||41|1oa|-7mk|5
+El Frasno|ES||9d|371|-46|5
+El Fresno|MX|Puebla|41|1it|-7kg|5
+El Frutillo|MX||41|19t|-7jm|5
+El Fraile|MX|Guanajuato|41|1ml|-7rf|5

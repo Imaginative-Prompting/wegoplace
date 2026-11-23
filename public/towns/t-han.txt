@@ -1,0 +1,229 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Hamburg|DE||8r|44r|rr|f8b|Hamburk;Hamborg;Hanburgo;Hampuri;Hambourg;Amburgo;Amborg;Augusta Gambriviorum;Hambuurich;Hamburch;Amburgu;Hambörj;Hamboarch;Hamepuka;Hamburq;Gamburg
+Handan|CN||7i|2tp|8u1|ahb|Hàm Đan;Chan-tan;Hàng-dăng;Hân-tan-chhī;Han-tan
+Hengyang|CN||7i|22p|8ou|8ar|Cheng-jang;Hengjang;Fên-yòng-sṳ;Hengjangas;Xéngyang shehiri;Hành Dương;Hèng-iòng;Hêng-iông-chhī;Heng-nan
+Xianyang|CN||7i|2ne|8dy|7z9|Sien-jang;Ŝjanjango;Sianjangas;Hàm Dương;Hàng-iòng;Hszienjang;Hâm-iông-chhī;Hsien-yang
+Hanzhong|CN||7i|2jw|89a|7rm|Chan-čung;Hán Trung;Háng-dṳ̆ng;Hàn-tiong-chhī;Han-chung
+Xinzhou|CN|Shanxi|7i|2yp|8p5|47b|Sin-čou;Hãn Châu;Hṳ̆ng-ciŭ;Hian-chiu-chhī
+Hengshui|CN||7i|2wu|8xc|411|Cheng-šuej;Hành Thủy;Hèng-cūi;Hêng-chúi-chhī
+Hannover|DE||8r|41h|r1|3z3|Hanover;Hanovro;Hanovre;Hanoveris;Hannober;Hanower;Hanovra;Hanoveri;Hannauver;Hannower;Hanowery;Hanofér;Hannova;Hànobhar;IHanoveri;Honovere
+Heyuan|CN||7i|1tx|8uk|3kv|Che-jüan;Hò-ngièn-sṳ;Hà Nguyên;Hô-goân-chhī;Ò̤-nguòng;Ho-yüan
+Hancheng|CN||7i|2qi|8ir|32a|Khanchen
+Southampton|GB||9b|3xe|-3w|22y|Hantonne;Hantonia;Sauthemptona;Sauthempton;Sautamptonas;Saŭtamptono
+Hanam|KR||7h|2wa|9td|1yo
+Huntsville|US|Alabama|2f|2oh|-6oj|1nq|Hantsvila;Hantsvilis;Hantsvill
+Hangu|CN||7i|311|937|1lw|Han-ku
+Huntington Beach|US||3p|2li|-93s|1k3|Hantington Byčas
+Hanfeng|CN||7i|2el|8d4|1il
+Hanumāngarh|IN||6t|2a6|5qh|179
+Chincha Alta|PE||3o|-119|-5vh|16j|Činča Alta;Hanan Chincha;Chincha
+Khanna|IN||6t|2db|5vq|zl|Ĥanna
+Handa|JP||7q|2ow|akd|wr|Manda
+San Tung Chung Hang|HK||6i|1pw|8si|w8
+Handeni|TZ||h|-f3|2xm|ua
+Hanjia|CN||7i|29e|8cg|u4
+Khanty-Mansiysk|RU||7z|4pg|5br|s7|Chanty-Mansyjsk;Khanty-Mansiïsk;Chanty-Mansijsk;Ĥanti-Mansijsk;Hantõ-Mansiisk;Hanty-Mansijsk;Chanty-Mansiejsk;Khanty-Mansijsk;Janty-Mansisk;Hanti-Manszijszk;Hantî-Mansiisk;Hantimansijska;Khanti-Mansisk;Xanti-Mansi;Chanty Mansijskas;Chanti-Mansiisk;Khanty-Mansisk;Hantı-Mansiysk;Xanti-mansiysk;Khanty Mansisk
+Hanamaki|JP||7q|31e|aw0|qb
+Hanting|CN||7i|2u5|975|p6
+Hanau am Main|DE||8r|3v9|or|om|Hanau
+Hanchuan|CN||7i|2d5|8s1|od|Hanchwan
+Hānsi|IN||6t|28u|5v0|o4
+Hannō|JP||7q|2rl|ar0|mc
+Haninge|SE||9w|4kd|1ee|ku
+Hanyin Chengguanzhen|CN||7i|2jd|8de|il
+Hanyū|JP||7q|2sh|arl|gb
+Hanford|US||3p|2sx|-98d|fh
+Chaniá|GR||8p|2qn|1ur|ez|Ĥanio;La Canée;Hanya;La Canea;Hania;Càndia;Khaniá
+Hannan|JP||7q|2nd|afp|ek
+Hanyuan|CN|Shaanxi|7i|2j7|875|e0
+Hanwang|CN|Jiangsu|7i|2mz|918|d4
+Hansestadt Stade|DE||8r|44v|qb|co|Stade;Gemeen Stood
+Han’airike|CN||7t|2wa|66k|c6
+Hanover Park|US||2f|38o|-6sv|an
+Hanover|US|Maryland|48|30v|-5x4|al
+Hanyuan|CN|Gansu|7i|2mh|84h|ad
+Hanawa|JP|Akita|7q|33m|av3|a9|Kazuno-chhī
+Hang Hau|HK||6i|1q0|8tf|a5
+Hangu|PK||6q|2l5|5he|a2
+Hengchun|TW||7l|1p4|9be|89|Hèn-tshûn-tsṳ́n;Hằng Xuân;Hêng-chhun-tìn;Heng-ch’un
+Hāngal|IN||6t|150|5so|7u
+Hanwang|CN|Gansu|7i|2km|83p|7p
+Hannoversch Münden|DE||8r|3yu|qt|6z|Hann. Münden;Hannoverisch-Münden;Hann.Münden
+Hanworth|GB||9b|3yv|-12|6k
+Hanwella Ihala|LK||68|j6|66h|6d
+Hansestadt Salzwedel|DE||8r|42t|uz|5v|Salzwedel;Soltwedel;Ljaudit
+Haney|CA||5b|3sq|-9gk|5u
+Hanahan|US||48|2jg|-66a|50
+Hang Dong|TH||62|1fx|7ms|4z
+Handiā|IN||6t|1yg|6cb|4z
+Hannibal|US|Missouri|2f|32b|-71s|4y
+Hanover|US|Massachusetts|48|38z|-5gp|4p
+Hînceşti|MD||8x|3m3|27f|4p|Hâncești;Hincheshti;Khencheshti
+Hanumana|IN||6t|1wu|6c2|4o|Hanummana
+Handlová|SK||8s|3rd|1g4|4d|Nyitrabánya;Mercatoria
+Hanover|US|Pennsylvania|48|32k|-5xu|4b
+Corupá|BR||4w|-21f|-3ss|49|Hansa
+Haneda|JP||7q|2qr|as7|45
+Hennebont|FR||9k|3os|-94|3z|Henbont;Hannebotum
+Hannut|BE||8t|3wr|e4|3x|Haneu;Hannuit
+Hankey|ZA||o|-2lz|1x4|3x
+Handwāra|IN||6t|2nk|5qc|3s
+Hanımçiftliği|TR||94|2ym|2yh|3p
+Hantsavichy|BY||9g|42k|21f|3o|Hancewicze;Hanzawitschy;Hantsavitchy;Hancavičy;Hantsavitšy;Hancavičai;Hancaviči
+Hanover|US|New Jersey|48|35c|-5ql|3l
+Hansot|IN||6t|1ny|5m9|3h|Hansut
+Handen|SE||9w|4kd|1ee|37
+Hàng Trạm|VN||62|1kn|85e|37
+Hanyuan|CN|Gansu|7i|2mb|82t|37
+Hanūr|IN||6t|xl|5yq|33|Hamūr
+Hani|TR||94|2yp|347|33
+Hanlin|CN||7i|2l0|83e|30
+Hanumantanpatti|IN||6t|r7|5ys|2y
+Hanbin|CN||7t|3e2|69q|2w
+Hannié|CI||0|ef|-kf|2w
+Hanson|US|Massachusetts|48|38w|-5gw|2u
+Hanceville|CA||5b|408|-9hs|2s
+Hanko|FI||92|4m7|1rr|2s|Hangö
+Hani i Elezit|XK||8q|393|1n6|2m|Ðeneral Janković;Han i Elezit;Elez Han
+Hunstanton|GB||9b|433|1e|2l|Hanstantonas
+Hanover|US|New Hampshire|48|3de|-5kt|2e
+Hanawa|JP|Fukushima|7q|2un|au2|2c
+Hānspura|IN||6t|1xm|6iv|27
+Khankala|RU||9i|3ca|3j4|27|Xanġala;Hankala
+Hanover|CA||59|3en|-693|25
+Hanjiashu|CN||7i|30v|917|23|Han-chia-shu;Hanliushu
+Hanga Roa|CL||ao|-23f|-8fy|21|Hanaroa
+Khandyga|RU||7w|4u1|agl|1w|Chandyga;Handyga;Handiga;Khàndiga
+Han Chey|KH|Kratie|78|y2|86b|1s|Phum Hănchey Leu;Phumĭ Hănchey Leu
+Huntington Woods|US||2q|3a0|-6f1|1r|Hantinqton-Vuds
+Handewitt|DE||8r|485|px|1q|Hanved
+Hänigsen|DE||8r|41t|s1|1o|Hähnsen
+Hansaviertel|DE||8r|41w|112|1k
+Hanak|TR||94|36j|3b0|1f
+Hanwell|CA||43|3jg|-55h|1f
+Hanjiayuan|CN||7i|40m|9p9|1f
+Hangha|SL||l|m2|-uy|1e
+Hanychi|UA||98|3pp|1u6|1e
+Ḩannā|IR||7o|2eo|3zo|1d|Hanā
+Hanban|CN||7i|2m3|81e|1d
+Han Chey|KH|Kampong Cham|78|xq|855|1d
+Hana|CI||0|ft|-iy|1d
+Hanstedt|DE||8r|43y|rt|1a
+Hancock|US|Michigan|2q|3mx|-6u2|1a
+Hankensbüttel|DE||8r|42h|th|19
+Hankasalmi|FI||92|4ta|21f|19
+Hank|NL||8m|3zq|dm|17
+Han Pijesak|BA||9r|3eg|1gn|16
+Hangu|RO||8u|3mp|20b|14
+Hanamā‘ulu|US||ax|1p3|-can|12|Hanamaulu
+Hanušovce nad Topľou|SK||8s|3s7|1nq|12
+Hanover|US|Indiana|38|2zj|-6lf|z
+Hannahs Mill|US||48|2jh|-6ib|x|Hannas Mill;Hannah Mill
+Hanover|US|Minnesota|2f|3hg|-787|x|Hanovro
+Hanceville|US||2f|2mm|-6p1|x
+Handzame|BE||8t|3xr|8c|w|Hantsaeme;Ansoame;Handzaeme
+Khandagayty|RU||6u|3wx|73s|v|Khandagajty;Handagaytay
+Hanna|CA||2s|3zf|-8mu|v
+Hansville|US||3p|3p4|-9gf|v
+Hanerau-Hademarschen|DE||8r|46c|q6|v
+Hănțești|RO|Suceava|8u|3oo|219|t
+Hanušovice|CZ||9m|3v4|1b2|s|Hansovice
+Hanapēpē Heights|US||ax|1ow|-cbb|r
+Hanapēpē|US||ax|1ov|-cbb|q
+Hanches|FR||9k|3r0|4l|q
+Handeloh|DE||8r|43x|rc|p|Handörp
+Hannans|AU||8k|-2dc|9dd|p
+Hanu Conachi|RO||8u|3in|24n|p
+Handrabury|UA||98|3ok|2az|p|Gandrabura;Gandrabury
+Hanönü|TR||94|37n|2nr|o
+Hangou|CN||7i|315|919|o|Han-kou
+Jenāqerd|IR||7o|2ye|3po|n|Chenāqerd;Ḩanāqerd;Jenagherd
+Hăneşti|RO||8u|3p4|22y|n|Hânescii
+Hanhofen|DE||8r|3t0|n6|n
+Hanlon-Longwood|US||48|318|-5wz|m
+Hancock|US|Maine|48|3fp|-59l|m
+Hanley Hills|US||2f|2zh|-6yw|l
+Hanköy|TR||94|2un|33o|l|Han
+Hansbeke|BE||8t|3xv|9u|l
+Hanstholm|DK||8y|4eo|ny|l
+Khankendi|AZ||61|32m|3lv|l|Chankändi;Hankendi;Stepanakert;Xankendi;Khankendy
+Handorf|DE||8r|446|sr|l
+Yücekapı|TR||94|32f|3aq|k|Hanzır
+Hantsindzi|KM||ac|-vr|3cl|k
+Hangard|DE||8r|3t6|k1|k
+Handsworth|CA||5b|3t3|-9hy|k
+Udobne|UA||98|3ku|2bh|j|Han-Câșla;Kyshlo Hanului;Hani Câșla
+Hendūdar|IR||7o|2lu|3sr|j|Hindūdar;Hanūdār;Henūdar;Hendūdūr
+Hanslope|GB||9b|40r|-2b|j
+Handréma|YT||ah|-z8|3ha|i|Andréma
+Hanvec|FR||9k|3q9|-bk|h|Hañveg
+Hannivka|UA|Kirovohrad|98|3q0|2ky|h|Annovka
+Hancock|US|Maryland|48|32a|-616|g|Handcocks
+Handzlówka|PL||a5|3uw|1pq|f
+Hangenbieten|FR||9k|3qw|l5|f
+Storslett|NO||9j|5dt|1me|f|Hansinkenttä;Storslet
+Hanzā|IR||7o|29e|4ev|f
+Hanover|ZA||o|-2j6|24c|e
+Hangony|HU||8v|3pz|1k4|e
+Hanaskog|SE||9w|4c0|135|e
+Handel|NL||8m|3za|fv|d
+Hantsport|CA||35|3h7|-4ya|d
+Hansen|US||28|3a5|-8ti|c
+Hana|US||ax|1lo|-c1b|c
+Hanna City|US||2f|351|-6xg|c
+Hanwood|AU||8l|-2nd|b9o|c
+Havaleas|AL||9y|35e|1ja|c|Hanaleas;Havalehas
+Hanmer Springs|NZ||ak|-3a4|dc2|c
+Hanover|US|Ohio|48|33c|-6ci|b
+Han-sur-Lesse|BE||8t|3v9|ef|b
+Hanret|BE||8t|3wi|dr|b
+Hanzinelle|BE||8t|3vq|co|a
+Hannawa Falls|US||48|3fx|-5s9|a|Hannaway Falls
+Haneffe|BE||8t|3wo|es|a
+Handcross|GB||9b|3xt|-k|a
+Hańsk|PL||a5|3yt|1t0|a
+Hanstedt Eins|DE||8r|43d|st|a
+Hanzinne|BE||8t|3vr|cm|a
+Hancock|US|New York|48|38j|-5t4|a
+Hancağız|TR||94|2sf|2s8|a
+H̱annaton|IL||6n|2j2|2pw|a|Hanaton
+Hangest-en-Santerre|FR||9k|3u7|79|a|Hangi-in-Santérre
+Hanshagen|DE||8r|465|11m|9
+H̱anni’el|IL||6n|2ht|2p3|9|Ḥaniel
+Hankinson|US||2f|3jz|-7h6|9
+Hantay|FR||9k|3wd|7z|9
+Handrup|DE||8r|420|l2|9
+Hancea|RO||8u|3o8|21h|9
+Hannopil|UA||98|3w5|22q|9|Annopol’
+Hanyoundrou|YT||ah|-zu|3ha|8
+Danghu|MX||41|1kz|-7nz|8|Hanghu
+Hanna|US||2p|38b|-880|8
+Hanover|US|Illinois|2f|39e|-6ys|8
+Hanna|PL||a5|3zo|1ta|8
+H̱anita|IL||6n|2jx|2pp|8|Hanūta;Ḥannita
+Hancock|US|Minnesota|2f|3ie|-7e4|8|Henkok
+Hanno-Pokrovka|UA||98|3my|2co|7|Anno-Pokrovka
+Haniska|SK||8s|3rz|1n0|7
+Hanson|US|Kentucky|2f|2vy|-6r0|7
+Hancock|US|Massachusetts|48|3a6|-5no|7
+Hangest-sur-Somme|FR||9k|3uu|5q|7
+Hannivka|UA|Zaporizhzhia|98|3m4|2s4|7|Annovka
+Hanroth|DE||8r|3wi|l9|7
+Hanover|US|Kansas|2f|32t|-7h4|7|Hanovro
+Hannivka|UA|Odesa|98|3kx|29i|7|Hanniwka;Inculițeni
+Hanley Swan|GB||9b|40o|-6b|6
+Hantes-Wihéries|BE||8t|3vr|bm|6
+Hovit|AM||80|359|3e8|6|Pokr Kyapanak;Hankashen;Ovit
+Hannivka|UA|Dnipropetrovsk|98|3rd|2me|6|Annovka
+Hanfthal|AT||a2|3ra|19h|6
+Hannivka|UA|Kirovohrad|98|3r0|2dz|6|Serezliivka;Serezliyivka;Annovka
+Hannonville-sous-les-Côtes|FR||9k|3s8|fq|5
+Hannibal|US|New York|48|3cc|-5wq|5
+Hănțești|RO|Galați County|8u|3jo|23v|5
+Hanvoile|FR||9k|3tj|58|5
+Hankovytsia|UA||98|3r4|1s1|5|Gan’khovitsa;Han’kovytsya;Gan’kovitsa
+Hangen-Weisheim|DE||8r|3u3|mq|5
+Hankovce|SK||8s|3s7|1oz|5

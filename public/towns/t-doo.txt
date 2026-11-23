@@ -1,0 +1,35 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Edinburgh|GB||9b|4bf|-8w|3z2|Edimburgo;Dinedin;Edimburg;Caeredin;Edinburgo;Édimbourg;Dún Éideann;Edinborg;Edimburgum;Edinburgas;Edynburg;Edinburrie;Idinburg;Edinburg;Edinburga;Edimborg;Edimburgu;Embra;Edinburq;Edimborgh;Edimbùrgh;Edinburc;Ebora;Edinbo;Doon Edin;Edinboarch
+Doha|QA||7b|1y9|3z5|2nt|Doho;Ad-Dawḩah;Ad-Dauha;Dauhá;Dawḥa;Duoha;Dewhe;Doʻha;Dooxa;Doh;Ad Dawḩah;Ad Dawḩa;Ad Dowhah
+Tournai|BE||8t|3wl|9f|jc|Doornik;Turnacum;Turnė;Tornai;Doornyk;Tournay
+Dundalk|IE||8z|460|-hu|bz|Dún Dealgan;Dandolkas;Doon Jialgan
+Douglas|IM||93|46f|-cg|7a|Dubh Lios;Doolish;Daglasas;Daglasa;Duqlas;Daglaso
+Dooru Verinag|IN||6t|2l8|5sz|6e|Duru Verinag
+Doonside|AU||8l|-2lt|bn3|3q
+Doon South|CA||59|3ci|-67f|37
+Doorn|NL||8m|40j|ev|2v
+De Doornakkers|NL||8m|3yw|fb|1r|Doornakkers
+Doornkop|ZA||o|-1z5|29r|1o
+Doornsteeg|NL||8m|413|f5|1i
+Doolandella|AU||8c|-24p|bsz|1c
+Dodewaard|NL||8m|407|fq|19|Doodeward
+Doorwerth|NL||8m|40e|g4|18
+Doonan|AU||8c|-21g|bsz|y
+Doolittle|US|Texas|2f|217|-7kk|s
+Doos|PH||71|t3|9mh|r
+Donegal|IE||8z|47t|-mj|q|Dún na nGall;Doon ny Ghoal;Dungalia
+Doong|PH||71|us|9jg|q
+Dömitz|DE||8r|43m|v9|p|Dēmica;Dööms;Döms;Doemitz
+Toora-Khem|RU||6u|41r|7f0|m|Doora-Khem;Tora-Khem;Dora-Khem
+Doornenburg|NL||8m|405|go|l
+Doornspijk|NL||8m|41m|g6|g|Doornspyk
+Dorotea|SE||9w|4yi|19l|f|Döörte
+Doomadgee|AU||8c|-1du|apn|f
+Dooms|US||48|2xv|-632|d
+Doonheide|NL||8m|3z9|ft|a
+Dagebüll|DE||8r|481|o6|9|Dagebøl;Doogebel
+Doolittle|US|Missouri|2f|2xe|-738|6
+Dobb-e Hardān|IR||7o|2ey|3qr|6|Dobb-e-Harvān;Dūb-e Ḩardān;Doobe Hardan;Dūbb-e Ḩerdan
+Doon|US||2f|3c8|-7fb|6
+Dooagh|IE||8z|45x|-s5|6|Dumha Acha
+Doon|IE||8z|424|-mw|5|Dún;Dún Bleisce

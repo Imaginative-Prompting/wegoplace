@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chmistâr|LB||64|2mc|2s2|8c|Chemestar;Shmisţār
+Smithfield|US|Pennsylvania|48|32k|-65p|9|Shmithfield
+Smalininkai|LT||a3|490|1qq|6|Schmalleningken;Smalėninkā;Smalininki;Smalininkų;Smalininkay;Shmalleningken

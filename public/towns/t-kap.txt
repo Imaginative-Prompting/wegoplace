@@ -1,0 +1,120 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+San Francisco|US||3p|2wx|-9g2|6dv|San-Francisko;Frisco;Sanfrancisko;San Frantzisko;Kapalakiko;Franciscopolis;San Fransiskas;São Francisco;San Fransisko;San Franciscu;Khiu-kîm-sân;San-Fransisko;San Francisko;San Fransisco
+Kapar|MY||6v|8p|7tm|22w
+Capiatá|PY||1y|-1yg|-4fl|1j6|Kapiatã;Kapjata;Capista
+Bang Kapi|TH||62|129|7rl|152
+Cap-Haïtien|HT||4j|1iw|-5kk|11g|Cabo Haitiano;Cap Haitien;Kap Ayisyen;Haitia Kabo;Okap;Cape Haytien;Cape Haitien
+Kapurthala Town|IN||6t|2f6|5te|rh|Kapurthala;Kapurtala
+Kapiri Mposhi|ZM||z|-12t|27n|n4|Kapiri Imposhi
+Kāpas Herd|IN||6t|279|5y4|kl
+Koppal|IN||6t|16n|5vj|jn|Kappal;Kopbal
+Kaposvár|HU||8v|3kt|1dg|hv
+Kapenguria|KE||16|3g|2pj|fk|Kap-Nguria
+Kapchorwa|UG||q|3w|2np|e8
+Kapadvanj|IN||6t|1ry|5mz|dp|Kapadranj
+Kapsabet|KE||16|k|2pi|bo
+Kaputa|ZM||z|-nj|2ae|9x
+Marijampolė|LT||a3|47k|1sv|9q|Kapsukas;Mariampol;Marėjampuolė;Mariampolės;Mariampolė;Mariyampol’;Mariyampole;Mariampol’;Marjampol
+Kapit|MY||6w|5k|8pp|96
+Kapan|AM||80|30x|3kx|95|Kafan;Katan
+Znamensk|RU|Astrakhan Oblast|8o|3qy|3j1|8v|Kapustin Jar;Snamensk;Znamiensk;Kapustin Yar-1
+Kapotnya|RU||9i|4ak|2wz|88
+Kapellen|BE|Flanders|8t|3yj|cc|7c|Cappellen
+Kapellen|DE||8r|3z9|hp|6b
+Koprivnica|HR||a6|3k8|1ar|67|Kopreinitz;Kapronca;Copriunisa;Koprivnic;Kaproncza;Koprivnicza
+Káposztásmegyer|HU||8v|3o7|1h4|5z
+Kapasan|IN||6t|1x5|5qg|5t|Kapāsin
+Kāpren|IN||6t|1yl|5vb|5r
+Kapsan-ŭp|KP||7a|365|9wd|5o|Kapsan
+Kepala Batas|MY|Penang|6v|fc|7qz|4r|Kapala Batas
+Kappiyara|IN||6t|mx|5ym|4g
+Capua|IT||9o|367|13h|4a|Kapŭo;Capeva;Kapua;Capoue;Kapue;Kapuja;Kapye;Càpoa
+Kapolei Villages|US||ax|1na|-c73|4a
+Kapolei|US||ax|1na|-c72|48
+Capitán Sarmiento|AR||1l|-2mx|-4m3|45|Kapitan Sarmiento;Kapitan Sarmyento;Capitaine Sarmiento;Kapitan Sarmiyentoo;Capitão Sarmiento
+Captainganj|IN||6t|22t|6gj|3f|Kaptānganj
+Capilla del Señor|AR||1l|-2n9|-4k6|34|Kapilla del Señor;Chapelle du Seigneur;Kapelle des Herrn;Capela do Senhor
+Kapa‘a|US||ax|1pc|-cak|2z|Kapaa
+Kapuvár|HU||8v|3o7|1bb|2z|Capuvar
+Kopyl’|BY||9g|43n|239|2q|Kapyl;Kapyl’;Kopil
+Kappeln|DE||8r|47u|rl|2p|Kappel;Kappalen
+Kapatagan|PH||71|ly|9jt|2p
+Kapsowar|KE||16|2q|2qs|2k
+Capilla del Monte|AR||1n|-2dq|-4z9|2j|Kapilja del Montė
+Kapelle-op-den-Bos|BE||8t|3xp|c4|2h|Chapelle-au-Bois
+Kapelle|NL||8m|3z1|b0|2f
+Cappelle-la-Grande|FR||9k|3xo|6k|2b|Kapelle;Cappelle;Cappelle-la-Grand
+Kapuskasing|CA||59|3ta|-6cz|2b
+Käpylä|FI||92|4n9|1xb|29|Kottby;Käpis
+Kaplice|CZ||9m|3re|149|23|Kaplitz
+Kapsokwony|KE||16|2d|2oe|1z
+Kapoeta|SS||p|d9|2lb|1y
+Capri|IT||9o|34n|13k|1w|Capreae;Kapris
+Kapustin Yar|RU||8o|3qy|3j2|1t
+Kaprijke|BE||8t|3ya|a2|1p
+Kappelrodeck|DE||8r|3qz|mk|1m
+Cavnic|RO||8u|3od|1u6|1f|Kapnikbánya
+Kappel-Grafenhausen|DE||8r|3q4|ll|1d
+Capitan Ramon|PH||71|tw|9hz|1a|Kapitan Ramon
+Kaplan|US||2f|2bc|-74c|1a
+Kapaya|PH||71|i6|9m0|16
+Kapasia|BD||6a|1uz|6zk|15
+Ka Pin Gyi|MM||7y|1a5|7e7|12|Kapingyi
+Kapsoit|KE||16|-w|2pu|z
+Kapandríti|GR||8p|2y6|1uc|z
+Kapékaha|CI||0|rm|-ff|z
+Kaprémé|CI||0|pf|-fx|x|Kapéréné
+Kapfenberg|AT||a2|3ns|16h|x
+Kapcherop|KE||16|2w|2q4|w|Kapchoror
+Kápolnásnyék|HU||8v|3n8|1fw|w
+Kaprun|AT||a2|3nb|zg|w
+Kapingkong|PH||71|ik|9m7|v|Kapinkang;Kapinkong
+Kapunda|AU||8b|-2ne|apw|t
+Kapatan|PH||71|ge|9nw|t
+Kapok|BN||66|dy|8vl|s
+Kapatalan|PH||71|147|9dh|r
+Kapitanivka|UA||98|3rw|2g4|p|Kapitaniwka;Kapitanovka
+Kaposmérő|HU||8v|3ks|1d6|p
+Kapkatet|KE||16|-1r|2pr|p
+Capellen|LU||9c|3tx|gn|o|Kapellen
+Pefkochóri|GR||8p|333|1tl|m|Pefkohori;Kapsochora
+Kappl|AT||a2|3mr|su|l
+Kapolokoro|CI||0|o4|-cs|k
+Kopomá|MX||3z|1ld|-6xq|k|Kapoma;Kompoma
+Kapısuyu|TR||94|2sd|2ru|k
+Căpâlniţa|RO||8u|3kt|1yw|k|Kápolnásfalú;Käpolnasfahi;Căpîlniţa
+Kapuria|IN||6t|1uc|62r|j
+Kapélé|CI|Savanes District|0|q7|-fu|i
+Coromandel|NZ||ak|-2u4|dji|i|Kapanga
+Kapaau|US||ax|1k7|-c0s|h|Kapa‘au
+Kapūr Chāl|IR||7o|2wb|3sr|f|Kavarchal;Kopūr Chāl;Kapūrchāl
+Kopor’ye|RU||9i|4lv|28o|f|Koporje;Kaprio;Kabrio;Kopor’e
+Kapytolivka|UA||98|3sn|2vr|f|Kapitalovka;Kapitolovka
+Kaparéllion|GR||8p|2y8|1sh|f
+Kaplivka|UA||98|3ql|21n|f|Kaplevka
+Kaputan|AM||80|341|3g6|f
+Kabir|RU||9i|37g|3ph|e|Kapir
+Kapooka|AU||8l|-2po|bd4|c
+Kappelen|CH||a7|3mq|k7|b|Capella
+Kapellen|BE|Flanders|8t|3xd|dr|b|Cappellen
+Kaptol|HR||a6|3i7|1d9|a
+Kapsweyer|DE||8r|3s8|ma|a
+Kapfing|AT||a2|3nh|wx|a
+Kaplna|SK||8s|3q5|1ci|a|Erzsébetkápolna
+Kapellen-Drusweiler|DE||8r|3se|mb|9
+Kapp Heights|US||48|35m|-5xd|9
+Kappa|CI||0|hv|-fj|9
+Vorochovo|UA||98|3rb|1qd|8|Kapuszög;Vorocheve;Vorochevo
+Kapé|CI||0|np|-am|8
+Cappel|DE||8r|459|nt|8|Kappel
+Gusanagyugh|AM||80|34y|3dn|7|Kapuli;Gusanagyux;Gusanagyukh
+Kaps|AM||80|35j|3dk|7
+Kapelica|HR||a6|3h8|136|6
+Kapinovë|AL||9y|34w|1jw|6|Capinova;Kapinova;Kopinova
+Kápi|GR||8p|319|213|5
+Kappel|DE||8r|3uw|kh|5
+Kappelen|FR||9k|3oa|ko|5
+Kapaklı|TR||94|2sn|2b1|5
+Kapustyne|UA||98|3mr|2h0|5|Kapoustyné
+Kapélé|CI|Savanes District|0|tl|-hm|5

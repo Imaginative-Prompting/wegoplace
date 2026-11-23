@@ -1,0 +1,39 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kfar Saba|IL||6n|2hd|2oz|rm|Kafr Saba;Kefár Saba;Kefar Sava;Kfar Sava;Kefar Sawa
+Kfar Yona|IL||6n|2hs|2p2|8a|Kefar Yonah;Kefar Yona
+Kfar Yasif|IL||6n|2jj|2po|2x|Kefar-Yasif;Kafr Yāsīf;Kafir Yasif
+Kfar H̱abad|IL||6n|2gv|2ot|1u|Kfar Chabad;Kefar H̱abad;Kfar-Habad;Kefar H̱abbad
+Kfar Kila|LB||64|2kg|2qr|1n|Kafr Kilā;Kfarkila
+Kfar Vradim|IL||6n|2jn|2q0|1j|Kefar Weradim;Kefar Veradim
+Kefar Adummim|PS||6n|2gf|2q6|19|Kfar Adumim
+Kfar Tavor|IL||6n|2it|2qe|17|Kefar Tabor;Kefar Tavor
+Kfar NaOranim|IL||6n|2go|2pc|n|Kfar HaOranim
+Kefar Vitqin|IL||6n|2hy|2ow|k|Kfar Vitkin;Kefar Witkin;Kefar Witqin;Kefar Vitkin
+Kfar Shmaryahu|IL||6n|2hf|2oq|j|Kefar Shemaryahu;Kfar Shemaryahu;Kfar Šmarjahu;Kefar Szemarjahu;Kefar Xemaryahu;Kfar Şmaryahu;Kesar Shenaryahu;Kefar Shmaryahu
+Kfar Hess|IL||6n|2hl|2p2|g
+Kfar HaRo’e|IL||6n|2hz|2oz|f|Kefar HaRo’e;Kefar Haroeh;Kfar Haroeh
+Kfar Sirkin|IL||6n|2h4|2p1|e|Kfar Syrkin;Kefar Syrkin;Kefar Sirkin
+Kfar Menaẖem|IL||6n|2g5|2os|e|Kefar Menaẖem
+Kfar Rosh HaNiqra|IL||6n|2jx|2pk|e|Ro’sh HaNikra;Rosh Haniqrah;Rosh Haniqra;Kefar Rosh HaNiqra
+Kfar Bilu|IL||6n|2gk|2oq|d|Kefar Bilu
+Kfar Warburg|IL||6n|2g4|2og|c|Kefar Warburg
+Kfar Netter|IL||6n|2hn|2ov|c|Kefar Neter;Kefar Netter
+Kfar H̱ittim|IL||6n|2j4|2qm|c|Kefar H̱ittim;Kefar Hitim;Kefar Hittin;Kfar Hitim
+Kefar ‘Eẕyon|PS||6n|2fx|2pk|c|Kfar Etzion;Kfar Ecjon;Kfar-Etsion;Kefar Etzion;Kfar Etziyon
+Tselafon|IL||6n|2gc|2p1|b|Kfar Uriyah Bet;Celafon;Tzelafon;Zelafon;Kefar Uriyah Bet
+Kfar Pines|IL||6n|2i8|2p8|a|Kefar Pinnes;Kefar Pines
+Kfar Shouba|LB||64|2kl|2r5|a
+Kfar Shmu’el|IL||6n|2gl|2p1|a|Kefar Shemu’él;Kefar Shmuel
+Kfar Monash|IL||6n|2hv|2p0|9|Kefar Monash
+Kfar H̱oshen|IL||6n|2jp|2qg|9|Kefar H̱oshen
+Kfar Masaryk|IL||6n|2jd|2pi|9|Kefar Masaryk
+Kfar Bialik|IL||6n|2j6|2ph|9|Kefar Bialiq;Kefar Bialik
+Kfar Ahim|IL||6n|2g6|2ok|8|Kfar Achim;Kefar Aẖim
+Kfar Blum|IL||6n|2k5|2qx|8|Kefar Blum
+Kfar Szold|IL||6n|2k8|2r2|8|Kefar Sold;Kefar Szold
+Kfar Bin Nun|IL||6n|2gi|2p3|7|Kefar Bin Nun
+Kfar ‘Azza|IL||6n|2fg|2nx|7|Kefar ‘Azza;Kefar Azza
+Kfar Gil‘adi|IL||6n|2kc|2qu|7|Kefar Gil‘adi;Kfargileady;Kefar Gile‘adi
+Kfar Mordekhay|IL||6n|2gf|2ok|6|Kfar Mordekhai;Kefar Mordekhai;Kefar Mordekhay
+Kfar Kisch|IL||6n|2ir|2qh|6|Kefar Kish;Kefar Kisch
+Kfar Ruppin|IL||6n|2i6|2qs|5|Kefar Ruppin

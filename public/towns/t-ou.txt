@@ -1,0 +1,375 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ouagadougou|BF||1a|yd|-49|imx|Wàadúu;Uagaduguo;Uagadugú;Vagadugu;Wagadugu;Huagadugu;Uaqaduqu;Ougadougou;Ouagadouga;Uagadougou
+Wuhu|CN||7i|2f3|94z|cby|Wu-chu;Vuĥu;Ù-hù;Bû-hô͘-chhī;Vu Hồ;Ouhu
+Ulan Bator|MN||7s|3p3|88w|6io|Ulaanbaatar;Oulan-Bator;Ulánbátar;Ulaanbaataro;Ulánbátor;Ulã Bator;Ulan Batur;Ulaan Baatar;Ulaanbaator;Ulaanbaatur;Uranbatoru
+Ulyanovsk|RU||9z|46x|3qf|4u1|Uljanowsk;Oulianovsk;Uliánovsk;Ul'janovsk;Oeljanovsk;Oeljanofsk;Uljanovsk;Uljanovsko;Uljanovszk;Uljanovskas;Uļjanovska;Ul’yanovsk
+Orūmīyeh|IR||7o|2wb|3h8|4gd|Urmía;Urmiya;Ûrmiye;Ourmia;Urmija;Urūmiyeh;Orumieh
+Oujda|MA||d|2oc|-5b|45x|Wadżda;Uĝda;Ujda;Udžda;Wejda;Ucda;Ouja;Oudjda
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+Ulan-Ude|RU||6k|3zz|8aw|2s3|Ulan Ude;Oelan-Oede;Oulan-Oudé
+Oral|KZ||77|3yd|3yv|2jo|Ural’sk;Uralsk;Oural;Oʻral
+Oulu|FI||92|50l|1yr|1o1|Oŭlo;Uleåborg;Uloa;Uleoborg
+El Oued|DZ||3|2ko|j2|1ft|Oued Souf;Uedas;Al-Wadi;El Qued
+Ouargla|DZ||3|2gr|et|1b7|Warkala;Uargla;Varcla;Quargla
+Urganch|UZ||7g|37f|4of|14a|Urgench;Ourguentch;Urgentj;Ürgenç;Yrgench
+Ōme|JP||7q|2re|aqs|113|Oume
+Ouahigouya|BF||1a|11q|-6q|ym|Uahiguja
+Uzhhorod|UA||98|3r2|1px|w2|Ungwar;Uschgorod;Užgorod;Oujhorod;Ungvár;Użhorod;Úzhgorod;Oezjhorod;Ujhorod;Uzjhorod;Uzhorodum;Ujqorod;Ujgorod;Užhorodas;Uĵhorodo;Uschhorod
+Ourense|ES||9d|39m|-lu|t8|Orense;Orenso
+Tizi Ouzou|DZ||3|2tz|b9|sz|Tizi-Ouzou;Tizi Wuzu;Tizi Uzú;Tizi Uzou
+Oued Zem|MA||d|2ja|-i9|sw
+Ourinhos|BR||4w|-1ru|-3uj|sw|Urbs Parvauratana
+Oulad Teïma|MA||d|2cf|-pl|r4|Ouled Teima
+Ouislane|MA||d|2m7|-f9|qo
+Ouro Preto|BR||4w|-1kn|-3cv|ln|Oro Pretas
+Ouarzazate|MA||d|2dw|-j5|lk|Warzazat;Uarzazatas;Ouorzazate;Ouarzazte;Ouarzazat
+Oudtshoorn|ZA||o|-2lc|1po|kh
+Ouricuri|BR||4p|-lw|-33c|j1|Ouricury
+Oum el Bouaghi|DZ||3|2ro|jr|io|Umm el Bawaqui;Umm el Buvayi;Umm al-Bawaqui;Oum-el-Bouachi
+Oued Lill|TN||1e|2ub|rw|id
+Ouezzane|MA||d|2oo|-fi|i3|Quazzane;Ouazzane
+Umm Al Quwain City|AE||6c|1z0|4ac|gf|Oumm al Qaïwaïn;Umm al-Quwain;Umm al Qaywayn;Umm Al Quwain;Umm al Qaiwain;Umm al Qawain
+Oumé|CI||0|hq|-f2|ga|Ume
+Ouled Djellal|DZ||3|2nn|e2|g9|Oulad Djellal;Oulad Jellal
+Uzlovaya|RU||9i|45y|2y0|g9|Uzlovaja;Uslowaja;Ouzlovaïa;Uzłowaja;Uzlovaia
+Uttaradit|TH||62|1cz|7q1|g7|Utaraditas;Uttardit;Utaraditra;Uttradit;Outaradit;Utaradit
+Oued Rhiou|DZ||3|2rw|2k|fe|Oued Riou
+Ouangolodougou|CI||0|rp|-eb|do|Wangolodougou
+Quimistán|HN||56|16n|-6tl|dc|Ouimistan
+Ouidah|BJ||1b|ho|5t|d8|São João Baptista de Ajudá;Fortaleza de São João Baptista de Ajudá
+Ouenza|DZ||3|2rv|ml|d5|Quenza
+Winchester|GB||9b|3xv|-3o|ct|Wintonia;Winsjester;Caerwynt;Ouînchêtre;Vinčesteris
+Oued Fodda|DZ||3|2sj|49|cd
+Usinsk|RU||9i|53d|4ft|c9|Ussinsk;Oussinsk;Oesinsk;Uszinszk
+Urus-Martan|RU||9i|3bt|3ii|bj|Ourous-Martan;Oeroes-Martan;Ẋalxa-Marta;Urus Martan
+Ouled Moussa|DZ||3|2tw|9d|bb
+Ouesso|CG||a|4h|18l|bb
+Ouro Branco|BR|Minas Gerais|4w|-1l0|-3dd|ar
+Uglich|RU||9i|4fs|2yg|ah|Ouglitch;Uglitsch;Ugliĉ;Oeglitsj;Uglicz
+Owando|CG||a|-1c|186|9x|Ouando
+Ouro Preto do Oeste|BR||4l|-tv|-4su|9q
+Ninove|BE||8t|3x7|b7|9o|Outer
+Auderghem|BE||8t|3x6|cb|9g|Oudergem;Anderghen
+Ourilândia do Norte|BR||23|-ir|-3xw|99
+Ouro Fino|BR||4w|-1pw|-3kt|8x
+Oudenaarde|BE||8t|3x9|a1|8v|Audenarde;Aldenarda;Oudenoarde;Audenaarde;Oudenaerde
+Oued Sly|DZ||3|2sa|3c|8h|Oued Sli
+Oak Ridge|US|Tennessee|48|2s1|-6i3|85|Oukridža;Ok-Ric
+Ouled Haddaj|DZ||3|2tz|9a|82|Ouled Haddadj
+Ōuda-yamaguchi|JP||7q|2nq|ahn|7t
+Ouled Slama Fouaga|DZ||3|2tj|8n|7o|Ouled Slama Fouaka
+Oued Zenati|DZ||3|2sw|jw|7m
+Ouro Sogui|SN||g|17d|-110|7k|Ourossogui;Ouri Sogui;Ouro Soghy
+Oulad Barhil|MA||d|2d4|-nj|7d|Oulad Barrehil
+Oulad Ayad|MA||d|2hg|-iw|78
+Taman OUG|MY||6v|8j|7ug|78|OUG;Overseas Union Garden
+Oullins|FR||9k|3iz|dd|74
+Ouled Mimoun|DZ||3|2oy|-2v|72
+Outremont|CA||59|3ig|-5oh|6o
+Oulunkylä|FI||92|4nb|1xc|6n|Åggelby;Ogeli
+Oupoyo|CI||0|fg|-ib|6m
+Ouerdanine|TN||1e|2r5|to|6l
+Oupeye|BE||8t|3wv|fp|6k
+Oud-Beijerland|NL||8m|3zy|c9|6k|Oud Beierland
+Oued el Abtal|DZ||3|2qi|1x|6c
+Oued el Alleug|DZ||3|2tk|7r|5v|Oued el Alleng;Oued Alleug
+Ourolândia|BR||20|-uh|-364|5c|Ouro Branco
+Oulmes|MA||d|2kv|-go|5a
+Outram Park|SG||7j|3k|80g|53
+Ouardenine|TN||1e|2r7|tn|53|Uardenine;Ouadenine;Ouardanine
+Ourém|BR||23|-4b|-3mv|50
+Outat Oulad Al Haj|MA||d|2km|-aa|4z|Outat Oulad el Hajj
+Ouaké|BJ||1b|qu|3u|4t
+Ouinhi|BJ||1b|jo|6w|4q
+Uliastay|MN||6j|3om|7h0|4j|Uliastai;Uliyasutai;Oulia-Sontai;Javkhlant;Uliystoy;Uliasutay;Javhlant;Jawkhlant;Uliassutai;Uliyassutai;Uljasutai;Ulyasutay;Uriyasutai;Wu-li-ya-su-t’ai;Wu-lu-ya-su-t’ai
+Wadi Halfa|SD||r|1ok|2f5|4d|Ŭadi Halfa;Vadi Halfa;Vádi-Halfa;Ouadi-Halfa
+Ouessé|BJ||1b|nl|6r|4d
+Outreau|FR||9k|3wv|4f|4c|Outriauwe
+Uzhur|RU||6u|49o|6xj|4c|Uzjur;Uschur;Oujour;Užur;Uĵur
+Oulad Tayeb|MA||d|2mb|-dw|4b
+Ou Bei Choan|KH||78|129|7xe|4a|Ou Beichoan
+Ovruch|UA||98|3yl|280|49|Ovroutch;Ovruč;Ovrutš;Ovrutsj;Owrucz;Zbruchyi;Vruchay;Beruchiy;Vruchev;Uruchiy;Owrutsch;Ovruci;Ovroetsj;Oŭruč;Aŭruč;Owruč;Ovrutj;Ovruča;Ovručas;Ovrucs;Vruchy
+Udachny|RU||7x|54j|8o8|49|Udatsjnyj;Udatschny;Udachni;Oudatchny;Udačnyj;Oedatsjny;Udatxni;Udaĉnij;Udatšnyi;Udačnas;Udačnija;Udatsjnij;Udačnii;Udacznyj;Udachnaya;Udachnoye
+Ouragahio|CI||0|hj|-gh|42|Ouergahio
+Oulad Frej|MA||d|2jk|-mv|41
+Ouallam|NE||18|13s|5t|3z|Oualam
+Ou Char|KH||78|10f|7yn|3y|Phum Prey Chĕn
+Oudorp|NL||8m|427|d9|3w
+Ouargaye|BF||1a|vy|6|3q|Ouargay
+Oudenbosch|NL||8m|3zb|cl|3q
+Ouattaradougou|CI||0|ib|-k0|3l
+Ourém|PT||99|324|-nv|3j
+Ou Ruessei|KH||78|yq|86k|3j
+Ouzera|DZ||3|2sp|7x|3j
+Oud-Turnhout|BE||8t|3yk|du|3g
+Ougrée|BE||8t|3wk|fe|3c|Ougrêye
+Oulad Embarek|MA||d|2hn|-hx|3a|Ulad Embarek;Oulad Mbarek
+Oualata|MR||19|1c2|-ji|3a|Ualata
+Ouro Branco|BR|Alagoas|3r|-ph|-2vs|37
+Oued Amlil|MA||d|2n0|-bw|36
+Ouamélhoro|CI||0|sp|-fm|2z|Wamelhoro
+Ustyuzhna|RU||9i|4jg|2t7|2y|Ustjuzjna;Ustjuschna;Ustiuzhna;Oustioujna;Ustjužna;Ustjuĵna;Ustüžn;Ustiużna;Ustjushna
+Oulad Yaïch|MA||d|2i3|-hk|2y|Ouled Aïch
+Oued Laou|MA||d|2qh|-e6|2y|Oued Lao;Oued Lahou;Oued Lou
+Oud-Heverlee|BE||8t|3x8|cy|2x
+Oumache|DZ||3|2od|fs|2w|Oumach
+Ouaouizeght|MA||d|2hc|-hn|2v
+Ouroeste|BR||4w|-1jk|-3vx|2v
+Ouanaminthe|HT||4j|1ib|-5j8|2t|Wanament;Quanamenthe
+Ouani|KM||ac|-xq|3fe|2t|Ouany;Oani
+Outjo|NA||1f|-1jv|18v|2s
+Ounianga Kébir|TD||17|1gx|1kx|2s|Ounianga-Kebir
+Ou Smach|KH||78|142|802|2r
+Oudewater|NL||8m|40j|dj|2q
+Oulunsalo|FI||92|50d|1yl|2o|Uleåsalö
+Oulad M'Rah|MA||d|2jf|-k6|2n
+Quiruvilca|PE||3o|-m5|-618|2k|Ouiruvilca
+Ouistreham|FR||9k|3sw|-q|2j|Ouistrehain
+Ousseltia|TN||1e|2rl|qn|2i|Ouseltia
+Ouyabli|CI||0|kd|-k1|2i
+Ouaninou|CI||0|mw|-lv|2h|Waninou
+Ouderkerk aan de Amstel|NL||8m|41a|dn|2h|Ouderkerk-sur-l'Amstel;Auderkerkas prie Amstelio;Ouderkerk Aan Den Amstel
+Ou Svay|KH|Ŏtâr Méanchey|78|13t|81s|2g
+Oudenburg|BE||8t|3y6|8c|2g|Oednburh
+Oualidia|MA||d|2ix|-p3|2d|Qualidia;Oualidiya
+Usatove|UA|Odesa|98|3l9|2d5|2d|Oussatové;Usatowe;Ussatowe
+Ouellé|CI|Lacs District|0|ka|-b5|2d
+Oud Metha|AE||6c|1y4|49n|2b
+Ŏdŏngk|KH||78|wu|82y|28|Udong;Oudong;Ciudad de Udong;Ciutat d'Udong;Udon;Ŏdŏng
+Outes|ES||9d|3b1|-ot|27
+Waoundé|SN||g|16e|-zr|26|Ouaoundé
+Ouro Verde|BR|São Paulo|4w|-1np|-3zm|26
+Ouriçangas|BR||20|-xd|-2zb|25
+Outabgarh|IN||6t|280|5xs|24|Qutab Garh
+Outapi|NA||1f|-1cm|15m|24|Uutapi
+Oude Pekela|NL||8m|43i|jh|24
+Ou Krasar|KH||78|tc|81p|22
+Ouangani|YT||ah|-zp|3he|21
+Ouvidor|BR||4w|-1en|-3ow|20
+Ust’-Barguzin|RU||6k|44d|8ev|20|Ust-Barguzin;Ust-Bargusin;Ust Barguzinas;Oust-Bargouzine;Oest-Bargoezin;Ust Batguzin
+Ouzhou chengshi|CN||7i|1qo|8sk|1z
+Ouandérama-Dioulasso|CI||0|o1|-c8|1y
+Ouro|BR||4w|-23y|-3ze|1y
+Oulainen|FI||92|4yj|1ww|1x|Oulais
+Oued el Alennda|DZ||3|2kb|is|1w
+Ouro Verde do Oeste|BR||4w|-1wt|-45q|1w
+Oulad El Rhadabne|MA||d|2k6|-nx|1v
+Outokumpu|FI||92|4u9|28m|1s|Outakumpy
+Ouellé|CI|Denguélé District|0|ss|-ix|1s
+Staré Město|CZ|Prague|9m|3v5|142|1r|Prager Altstadt;Old Town;Ciudad vieja;Vieille Ville;Città Vecchia;Oude Stad;Malnova Urbo;Pragako Hiri Zaharra;Óváros;Stare Miasto;Cidade Velha;Praški stari grad
+Wataradougou|CI||0|o3|-g6|1p|Ouataradougou;Wattaradougou
+Ōuchi|JP||7q|2x8|av6|1p
+Ouddorp|NL||8m|3zx|ax|1n|Ouwdurp;Alddoarp
+Ouréyo|CI||0|gq|-ic|1m
+Ouro Verde de Minas|BR||4w|-1e7|-36n|1m
+Oundle|GB||9b|41s|-1b|1l
+Goa Velha|IN||6t|16w|5p9|1l|Old Goa;Goa Vieja;Oud Goa;Antiga Goa;Velha Goa;Gamle Goa;Stara Goa;Ó-Goa;Senoji Goa;Stare Goa
+Gdov|RU||9i|4j6|25a|1j|Oudova;Qdov;Outova;Gdow
+Ouellah|KM||ac|-vn|3cd|1j
+Ourouta|CI|Sassandra-Marahoue|0|ju|-hj|1j
+Ouadda|CF||6|mg|1q8|1i|Uadda;Quadda
+Oud Gastel|NL||8m|3zb|ce|1h
+Ouolo|CI||0|qj|-f2|1g
+Ouad Naga|MR|Trarza|19|1dx|-174|1g
+Oula|CN||7i|2mo|7uk|1f|Ogüra;Ou-la;Ngüra
+Ould Yenjé|MR||19|176|-wj|1f|Ould Yanja
+Outeiro de Rei|ES||9d|3bq|-l5|1e
+Oughtibridge|GB||9b|44g|-4a|1d
+Ouanadiékaha|CI||0|n8|-ed|1d
+Ouro Branco|BR|Rio Grande do Norte|2w|-im|-2un|1d
+Oussouye|SN||g|yp|-19z|1c
+Audruicq|FR||9k|3xc|5s|1b|Ouderwijk
+Houffalize|BE||8t|3v9|g3|1a|Oufalijhe
+Outeiro|ES||9d|3bu|-k9|1a
+Oukaïmedene|MA||d|2ep|-lu|18|Oukaïmden;Oukaïmeden
+Ouango|CF||6|bz|1qo|18|Uango;Quango
+Utkonosivka|UA||98|3ie|28g|17|Ion Gheorghe Duca;Erdec-Burnu;Outkonossivka;Utkonossiwka
+Oulunsuu|FI||92|50l|1yx|17
+Ouatigbeu|CI||0|ij|-j6|16
+Ouâd Nâga|MR|Trarza|19|1dv|-17m|16|Wadi an-Nāqa
+Ouréguékaha|CI||0|nh|-ef|15
+Ou Andoung|KH||78|zy|7ww|15
+Oudegem|BE||8t|3xp|ba|15|Audegem
+Ouro Verde de Goiás|BR||4w|-192|-3sn|15
+Ouderkerk aan den IJssel|NL||8m|409|cw|14|Ouderkerk aan de IJssel;Ouderkerk aan de Yssel;Ouderkerk aan den Yssel;Ouderkerk-aan-den-IJsel
+Ourimbah|AU||8l|-2kj|bod|13
+Ourégbabré|CI||0|gk|-i7|13
+Ouê‘a|DJ||i|vy|3b2|13
+Oudkarspel|NL||8m|42g|dd|12
+Woumpou|MR||19|161|-zd|11|Oumpou;Wompou
+Hondschoote|FR||9k|3xm|76|11|Hondschote;Oundschote
+Ouled Ahmed Timmi|DZ||3|25c|-t|10
+Ouassadougou|CI||0|le|-br|z
+Ouvéa|NC||b8|-1ld|cum|y|Fayaoué;Faiaoué
+Oulad Saïd|DZ||3|29q|o|y
+Ouédallah|CI||0|mq|-g3|x
+Outwell|GB||9b|425|n|x
+Oualaldé|SN||g|19v|-13g|w|Walalde
+Outer|BE||8t|3x8|b4|w
+Oussougoula|CI||0|mb|-h6|w|Dussouhoula;Oussouhoula
+Ourizona|BR||4w|-1t0|-410|w
+Ouaté|CI||0|l7|-9d|w
+Oula Xiuma|CN||7i|2n4|7sw|w|Oulaxiuma
+Oum Dreyga|EH||k|1uy|-10y|v|Um Dreiga
+Oujeft|MR||19|1jg|-10a|v
+Oude Wetering|NL||8m|411|cw|v
+Ou Kanthor|KH||78|za|838|u
+Ou Svay|KH|Stung Treng|78|12k|86g|u
+Oufouédiékro|CI||0|ja|-e8|u
+Ou Bak Roteh|KH||78|uz|80u|t
+Ouro Velho|BR||2w|-l6|-2v7|t
+Urzuf|UA||98|3mb|2v2|t|Ursuf;Ourzouf
+Oudon|FR||9k|3nj|-3l|s|Uldo
+Ouanda Djallé|CF||6|oq|1rc|s|Uanda Jale;Ouanda Djane;Ouanda-Djalé
+Oudomsouk|LA||7v|1d7|843|s
+Ouzouer-sur-Loire|FR||9k|3op|6w|r
+Ouazomon|CI||0|q5|-i2|p|Wazomon;Ouézomon
+Ouayéré|CI||0|s4|-j8|p
+Ouroux-sur-Saône|FR||9k|3ls|dr|p
+Ouarébota|CI||0|j9|-gp|p
+Ouffet|BE||8t|3w4|f7|p
+Quissac|FR||9k|3dz|b4|p|Ouissac
+Ouahieré|CI||0|ox|-hy|o|Ouaïré;Ouahiri
+Oulad Saïd|MA||d|2jl|-lp|o|Ouled Saïd
+Oud-Vossemeer|NL||8m|3z9|bo|o|Vieux-Vossemeer;Ou-Vossemaer;Oud Vosmeer
+Oulenzoué|CI||0|h2|-bv|o
+Ouyatouo|CI||0|j5|-ml|o|Oyatouo
+Osted|DK||8y|4ac|x8|n|Ousted
+Worofla|CI||0|mz|-j7|n|Ouorofla
+Outlook|CA||4q|3z1|-89e|n
+Oueproye|CI||0|ku|-g9|n
+Oulx|IT||9o|3h4|iz|n|Ols;Ors
+Ouro Verde|BR|Santa Catarina|4w|-225|-41b|m
+Ouroutara|CI||0|ls|-9s|m
+Ouégoa|NC||b8|-1kj|cor|l
+Oussou|CI|Sassandra-Marahoue|0|jd|-g4|l
+Ouveillan|FR||9k|3c9|89|k
+Oud-Loosdrecht|NL||8m|411|e4|k
+Oulad Amrane|MA||d|2hz|-no|k
+Ouéguié|CI||0|g6|-bq|j|Ouégué
+Ouhozi|KM||ac|-vo|3c8|j
+Ouanani|KM||ac|-ya|3do|j|Wanani;Oanani
+Oud-Caberg|NL||8m|3xb|fq|j
+Ouzini|KM||ac|-y3|3fk|j|Ousini
+Oudehaske|NL||8m|434|gb|j|Oldehaske;Aldehaske;Audenhaskas
+Ouassangalasso|CI||0|s9|-if|h
+Oudega|NL|Friesland|8m|43l|go|h|Aldegea
+Oussivo|KM||ac|-w6|3c7|h|Ousivo
+Ous|RU||7z|4p7|4qw|g
+Ouadane|MR||19|1m5|-wa|g|Oudane
+Ouémo|NC||b8|-1pv|cug|g|Oémo;Uémo
+Ouzouer-le-Marché|FR||9k|3p3|49|g
+Ouarhama|CI||0|lr|-im|g
+Ouroné|CI||0|l2|-kn|g
+Ouwegem|BE||8t|3xf|a0|g|Auwegem
+Ourouta|CI|Sassandra-Marahoue|0|k2|-h6|g
+Ust-Chorna|UA||98|3q8|1uh|f|Königsföüd;Usť-Čorna;Ust-Ciorna;Királymező;Oust-Tchorna;Ust-Tschorna;Ustj-Ĉorna;Ust-Czorna
+Oudeschoot|NL||8m|431|gk|f|Aldskoat
+Outarville|FR||9k|3px|5m|f
+Ouélékéi|CI||0|mg|-7n|f
+Ouéleu|CI||0|jm|-mg|f|Ouélé;Ouélleu
+Ourovéni|KM||ac|-x3|3cu|e
+Ouréitafla|CI||0|kv|-g7|e
+Oudemirdum|NL||8m|42t|fe|e|Aldemardum
+Oued el Himer|MA||d|2np|-5a|e|Ued el Heimer;Oued el Heïmer;Oued el Haïmer
+Ouaouakro|CI||0|i4|-e3|e
+Ouges|FR||9k|3na|e3|e
+Ouandégué|CI||0|pe|-it|e
+Oucques|FR||9k|3ou|3l|e|Oncques
+Oulad Aïssa|DZ||3|29q|-9|e|Ouled Aïssa
+Ounagha|MA||d|2fl|-qj|d|Ounarha
+Ousse|FR||9k|3c8|-r|d
+Oulaï-Taibli|CI||0|ho|-mk|d
+Oundjibipa|CI||0|hl|-gl|d
+Ourol|ES||9d|3b3|-l5|d|Orol
+Oughterard|IE|Connacht|8z|44e|-px|d|Uachtar Ard
+Oughterard|IE|Leinster|8z|440|-i8|d
+Ouaouassi|CI||0|lf|-ff|d
+Ouzouer-sur-Trézée|FR||9k|3of|7t|d
+Umanskiy|RU||9i|3kg|313|d|Oumanski;Umanskyi
+Oursbelille|FR||9k|3c9|4|d
+Oulaï|CI||0|k1|-ln|c
+Oupohio|CI||0|g8|-gm|c
+Ouayéri-Djélisso|CI||0|q5|-gm|c
+Oulayably|CI||0|k8|-kq|c
+Usatove|UA|Odesa|98|3l8|2d1|c|Oussatové;Usatowe
+Oua|CI||0|kp|-mp|c|Qua
+Oulaikpabli|CI||0|ia|-mj|c
+Ouyen|AU||8j|-2pf|azc|c
+Oudeschild|NL||8m|43c|dh|c|Audeşild
+Ukrayinka|UA|Mykolaiv|98|3m3|2ha|c|Oukraïnka
+Outrijve|BE||8t|3x0|9j|c
+Ouyang|CN||7i|21e|8fe|c
+Ouches|FR||9k|3ju|b3|b
+Ouénéfla|CI||0|kr|-hd|b|Uénéfla
+Ouangui|CI||0|ki|-95|b
+Oussou|CI|Lagunes District|0|he|-dp|b|Ouassou;Ouossou
+Ouédjiré|CI||0|co|-kc|b
+Ourville-en-Caux|FR||9k|3u5|1o|b
+Oulins|FR||9k|3rq|43|a
+Ou Reang|KH||78|y9|89p|a|Oreang
+Ólafsvík|IS||87|509|-1tv|a|Oulafsvikas
+Ouray|US||2p|2xm|-8b3|a
+Outrup|DK||8y|4as|n6|a|Ovtrup
+Hondeghem|FR||9k|3x0|70|a|Hondegem;Oundegem
+Oude Bildtzijl|NL||8m|442|fw|a|Oude Biltzijl;Alde Biltsyl
+Ouanguié|CI||0|ga|-br|a
+Ouandia|CI||0|i5|-i9|a
+Oualéguara|CI||0|n3|-d0|9|Oualéguéra
+Ouanzanou|CI||0|jg|-fp|9
+Ouompleupleu|CI||0|k8|-n0|9
+Ouessant|FR||9k|3qm|-e5|9
+Oulchy-le-Château|FR||9k|3sp|9d|9|Oulchy-chCatiau;Oulcy-le-Chateau
+Ouati|CI||0|l6|-ax|8
+Aldwâld|NL||8m|440|gz|8|Oudwoude
+Oudehorne|NL||8m|434|gw|8|Aldhoarne;Oldehorne
+Ouilly-le-Vicomte|FR||9k|3sm|m|8
+Outgaarden|BE||8t|3x1|do|8
+Ouchamps|FR||9k|3nv|3n|8
+Ouranoupolis|GR||8p|341|1um|8|Ouranoupoli;Ouranópolis
+Houtkerque|FR||9k|3xc|78|8|Houtkerke;Outkerke
+Ólafsfjörður|IS||87|53j|-1fs|8|Ólafsfjörð;Ólafsfiði;Ólafsfjarðar;Oulafsfjorduras
+Outram|NZ||ak|-3jf|d4v|8
+Oude Kerk en omgeving|NL||8m|41h|dm|8
+Aldtsjerk|NL||8m|43z|gd|8|Oudkerk
+Oungoni|KM||ac|-wn|3co|8
+Ousson-sur-Loire|FR||9k|3o7|7r|8
+Oudega|NL|Friesland|8m|437|ff|7
+Ou Chum|KH||78|12c|897|7
+Ouossézué|CI||0|l9|-ei|7
+Oulmes|FR||9k|3kw|-1v|7
+Oudrenne|FR||9k|3t6|hl|7|Udern;Oudren
+Ourton|FR||9k|3w6|6w|7
+Ukrayinka|UA|Mykolaiv|98|3lt|2en|7|Oukraïnka
+Oualou-Gouékan|CI||0|m9|-ln|7
+Unalakleet|US||1h|4xf|-cen|7|Unalaklik;Ounalaklik;Oonalakleet;Unalachleet;Unalakhlit;Oonalaklik;Unalaklit
+Ouinéfla|CI||0|l3|-gc|7
+Querrieu|FR||9k|3uq|6r|7|Tchériu;Ouerrieu
+Oudesluis|NL||8m|42r|dd|7
+Ouanne|FR||9k|3oe|9i|7
+Oud-Maarsseveen|NL||8m|40w|e5|7|Oudmaarseveen
+Ouroux-en-Morvan|FR||9k|3n2|az|7
+Ourouer-les-Bourdelins|FR||9k|3mc|7u|7
+Ouéréniagbéré|CI||0|m0|-cb|7
+Ouffouékro|CI||0|kt|-dc|6
+Ouagalilié|CI||0|gr|-g2|6
+Houtem|BE||8t|3xp|79|6|Houthem;Outem
+Our Town|US||2f|2j7|-6ms|6|Ourtown
+Ou Plong|KH||78|11q|88m|6
+Ouonsorikaha|CI||0|q8|-f3|6
+Ouahi|CI||0|lq|-ih|6
+Ust-Putila|UA||98|3pl|1xr|6|Oust Poutyla;Gura Putilei
+Ouerre|FR||9k|3ra|43|6
+Ulyanovka|UA||98|3nv|2do|6|Oulianovka
+Ouville-la-Rivière|FR||9k|3uj|2o|6
+Spaarndam gem. Haarlem|NL||8m|41m|cz|6|Spaarndam;Spaarndam-West;Oud Spaarndam
+Ouarville|FR||9k|3qb|4x|6
+Oud-Zuilen|NL||8m|40t|e3|6|Oud Zuilen
+Ouokoukro|CI||0|kv|-c6|5
+Oust|FR||9k|3b3|3e|5
+Oudezeele|FR||9k|3x8|6z|5
+Ouassou|CI||0|l0|-eb|5
+Ouilly-le-Tesson|FR||9k|3s3|-m|5
+Ulyanivka|UA||98|3oz|2gg|5|Oulianivka
+Ouve-Wirquin|FR||9k|3wp|5y|5|Houffe-Wirquin
+Olingen|LU||9c|3u0|hj|5|Ouljen

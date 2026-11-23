@@ -1,0 +1,436 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Kano|NG||u|xc|no|11vw|Kanas;Cano
+Kanpur|IN||6t|21j|677|ls8|Cawnporne;Cawnpore;Kānpwr
+Kunshan|CN||7i|2f6|9bz|g59|Kunšanas;Côn Sơn;Kchun-šan;Kunšan;Kan-shan
+Ganzhou|CN||7i|1zt|8v9|f99|Cám Châu;Kan-čou;Gantsjou;Gáng-ciŭ;Kàm-chû-sṳ;Kòng-chiu-chhī;Gandžov;Kan-chou
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Kampala|UG||q|w|2ii|cyu|Campala;Kampalo;Kanpala;Kambaala;Kaempaala;Kampal
+Cần Thơ|VN||6h|rw|85v|bmo|Kan Tho
+Kananga|CD||y|-ge|1qa|9t9|Kanange
+Cancún|MX||2b|1mt|-6p9|6uw|Kankunas;Kankuna
+Kanayannur|IN||6t|rp|5vv|6ki
+Kandahār|AF||6o|2ft|52j|41d|Kandehar;Qandahor;Qanḏahāṟ;Candahar;Kandhar;Kandagar
+Kasur|PK||6q|2eg|5qt|3xx|Kansūr
+Kansas City|US|Missouri|2f|30m|-7aq|3o2|Kansasurbo;Kota Kansas;Kanzas Shehiri;Ìlú Kansas;Dinas Kansas;Lungsod ng Kansas;Kansas Lakanbalen;Kanzas Sitis;Kanzassitija;Kanzas Siti;Caasimada Kansas
+Kanazawa|JP||7q|2to|aji|3lg|Canasava;Kanazaŭa
+Kampung Kangkar Teberau|MY||6v|49|807|36k
+Las Palmas de Gran Canaria|ES||83|262|-16u|2yj|Laspalmaso;Las Palmas;Kanaria Handiko Las Palmas;Les Palmes de Gran Canària;Laspalmasa;Palmas de Gran Canaria;Las Palmas de G.C.
+Canberra|AU||8l|-2q0|bi9|2u6|Kanbero;Camberra;Kanbera;Kanberra;Kamberra;Kānapera;Kambra;Kanberr;Khâm-phì-là
+Canoas|BR||4w|-2b4|-3y6|2j7|Kanoasas
+Kanchipuram|IN||6t|zo|65e|1pl|Conjevaram;Kancheepuram;Kančipuramas;Káncsipuram;Kanĉipuram;Conjeveram;Kanjippuram;Conjeeveram
+Kankan|GN||f|sv|-pv|1pi
+Kanggye|KP||7a|35t|9rn|1m7|Kang-ge
+Gangneung|KR||7h|2wv|9xz|1lu|Gangreung;Kang-neung;Kangnŭng
+Choa Chu Kang New Town|SG||7j|3u|807|1g4
+Khānaqīn|IQ||5z|2nf|3i3|1cm|Xaneqîn;Khanikin;Kanaqin;Khaniqin;Khanaqeen;Khāneqīn
+Kansas City|US|Kansas|2f|30n|-7av|16h
+Irákleion|GR||8p|2q5|1xu|124|Iraklio;Heraklion;Heraclión;Herákleion;Iraklion;Iráclio;Kandiye;Iraklija;Heraclião;Càndia;Candie;Iraclion;Irákleio;Ērakleion
+Kānchrāpāra|IN||6t|1rs|6tn|122|Kāchrāpāra;Kancharapara;Kanchrapura
+Kanhangad|IN||6t|y7|5sn|yw|Kānnangād
+Kandy|LK||68|k9|67z|v1|Kandis;Kandi
+Caen|FR||9k|3sn|-10|uq|Kāna;Kanas;Can;Caðum;Cadomum;Quaam;Kadunum;Cham;Chaem;Chaam;Catomum;Cathim;Caon;Canz;Cahem;Caem;Cadumum;Caam
+Kanpur Cantonment|IN||6t|21i|67a|u5
+Kangnyŏng|KP||7a|2xb|9on|to|Kannyon
+Kangsŏn|KP||7a|306|9ou|sg
+Kani|JP||7q|2qc|akq|sd
+Kansk|RU||6u|4c4|7dw|s7
+Kanoya|JP||7q|2f6|a3h|s3|Kanoja
+Kangding|CN||7i|2bc|7v8|rs|K'ang-ting;K'an-ting
+Kandhkot|PK||6q|26h|5c6|rk
+Kanuma|JP||7q|2tj|as5|qd
+Kanata|CA||59|3hu|-5uw|p0
+Kongolo|CD||y|-ez|230|o5|Kangolo
+Cannock|GB||9b|42d|-5n|nx|Kanokas;Kanoko
+Kanyama|CD||y|-kw|1v5|m8|Kaniama;Kamiama
+Kanasín|MX||3z|1m5|-6ws|lg|Kanacín;Kanazin
+Kannauj|IN||6t|236|660|lb|Kanauj
+Kanjia|CN||7i|2t1|986|l1
+Kanaker-Zeytun|AM||80|33q|3fq|kz|K'anak'err-Zeyt'un varch'akan shrjan;Qanaqer-Zeytun varchakan shrjan
+Cannes|FR||9k|3cz|jh|kp|Canes;Canas;Kannas;Canua;Kann;Kanai;Kannad
+Canary Wharf|GB||9b|3z3|-2|ke|Kanari-Uorf
+Ganshui|CN||7i|27u|88f|ic|Kan-shui
+Kędzierzyn-Koźle|PL||a5|3vv|1en|i8|Kendzežynas-Kozlė;Keņdzežina-Kozle;Kandrzin-Koźle
+Kangar|MY||6v|hw|7qc|hr
+Kanchanaburi|TH||62|12w|7oj|hp|Kancsanaburi;Kançanaburi
+Kannur|IN||6t|wz|5tc|hg|Cananor;Cannanore;Kanuras;Kanura;Thatta
+Gannan|CN||7i|3p4|9j2|gg|Kan-nan
+Kanbe|MM||7y|1af|7eo|g5|Kanhe
+Kan’onjichō|JP||7q|2mt|ab9|fy|Kanonji-chō
+Kandukūr|IN||6t|16a|65y|fw
+Kandi|BJ||1b|ux|86|fk
+Canterbury|GB||9b|3yg|30|fb|Cantorbery;Durovernum;Durovernum Canticorum;Cantwarebyrig;Cantwaraburg;Cantuária;Caergaint;Kantaraborg;Kenterberis;Kenterberija
+Kāndi|IN||6t|1uk|6sk|f8
+Kanakapura|IN||6t|yv|5z2|f0|Kanakpura
+Cangandala|AO||x|-r6|19n|ei|Kangandala;Cagandala
+Kangāvar|IR||7o|2nu|3p9|ea
+Kanash|RU||9i|4a7|3nx|dv|Kanasch;Kanaŝ;Kanasz;Kanach;Kanasj;Kanax
+Kānūru|IN|Andhra Pradesh|6t|19u|685|dm
+Kanye|BW||m|-1xd|1yd|dc|Kanjė
+Nagykanizsa|HU||8v|3l1|1b7|d5|Kanije;Velika Kaniža;Nadkaniža;Velika Kanjiža;Kanischa;Großkirchen
+Kannapolis|US||48|2ql|-67y|ct
+Kanevskaya|RU||9i|3k2|30a|cl|Kanevskaja;Kanevskaia;Kanewskaja
+Kanganpur|PK||6q|2dg|5pw|ci
+Kandiaro|PK||6q|236|59h|cc
+Kanyobagonga|CD||y|-1y|291|c9|Kanyabayonga;Kanyabayungu;Kanyabayongo
+Kanuru|IN|Andhra Pradesh|6t|199|69p|c5
+Kāndhla|IN||6t|29g|5yn|c2
+Kannad|IN||6t|1ka|5sq|bp
+Cañuelas|AR||1l|-2pd|-4j8|bm|Kanuelas
+Kannamangalam|IN|Kerala|6t|us|5v3|bh
+Kannabechō-yahiro|JP||7q|2o0|aam|bc
+Kansanshi|ZM||z|-xm|21f|bb|Kansenshi
+Kanegusuku|JP||7q|20s|9ut|b8|Kanigusuku
+Kandalaksha|RU||9i|56j|2i1|ao|Kannanlahti;Kandałaksza;Kandalakscha;Kandalakŝa;Kantalahti;Kandalaksja;Kannanlakši;Käddluhtt;Kandalaska
+Kanda|JP||7q|2lu|a3u|ah
+Kānker|IN||6t|1kb|6ad|ae
+Kanigiri U|IN||6t|16t|64v|ae
+Kanekomachi|JP||7q|2t5|aq4|ab
+Kantharalak|TH||62|14o|82p|a6|Kanthanalak
+Kanie|JP||7q|2pl|ak0|a5
+Cañada de Gómez|AR||1n|-2j6|-4qk|a0|Kanada de Gomez
+Kangle|CN||7i|2ef|8fz|9v
+Kaneohe|US||ax|1ng|-c6c|9m|Kāne‘ohe
+Kangasala|FI||92|4qq|1uw|9j
+Kandoeng|KH||78|vd|838|9e
+Kandana|LK||68|jl|65x|9a
+Kangkar|SG||7j|3u|80m|8z
+Kangayam|IN||6t|ul|5zg|8x
+Akçakale|TR|Şanlıurfa|94|2tz|307|8x|Hêniyê Ğezalan;Kaniya Xezalan;Akchakale;Akcekale
+Al Qanţarah|EG||c|2dq|2hr|8u|Kantara;El Qanṭara;El Kantara
+Cananea|MX||37|2e2|-8ie|8s|Kananėja
+Kannānendal|IN||6t|ro|612|8n
+Kanzakimachi-kanzaki|JP||7q|2kj|a25|8m
+Kangdong-ŭp|KP||7a|30q|9qa|81|Kangdong
+Kansad|IN||6t|1mj|5mg|7v
+Kandyagash|KZ||5w|3tf|4fi|7u|Oktyabr’sk;Kandagash;Kandagach;Qandyaghash;Oktyabr’
+Kankakee|US||2f|368|-6s2|7f
+Kāndla|IN||6t|1rz|5f2|76|Kundla
+Kantai|IN||6t|20t|6ky|6z|Kanti
+Kanigiri|IN||6t|16t|64v|6y
+Kanbalu|MM||7y|1sg|7dc|6y|Kanbala
+Kānth|IN||6t|28q|62f|6x
+Kandahār|IN||6t|1gf|5yf|6w
+Kanowit|MY||6w|5u|8nj|6v
+Kānt|IN||6t|259|65n|6s
+Canelones|UY||45|-2nw|-4cc|6q|Kanelones
+Gantang|CN|Hunan|7i|228|8gx|6o|Kan-t’ang
+Kaniv|UA||98|3u7|2ff|6j|Kaniw;Kanev;Kaniów
+Kanhān|IN||6t|1mz|644|6d
+Kanmaki|JP||7q|2o0|agz|6c
+Kant|KG||65|3b5|5rx|6a
+Kanniyākumāri|IN||6t|mh|5ze|69|Cap Comorin;Kanyakumari;Cape Comorin;Kanniakumari;Kanniyākumar
+Kantābānji|IN||6t|1kv|6ec|62
+Kanaya|JP||7q|2oq|anp|5n
+Cañete|CL|Biobio|4u|-2x0|-5nw|5m|Kanyete
+Kandalloor|IN||6t|pi|5wf|5j
+Kanjiramkulam|IN||6t|n8|5y1|5j
+Kannānkurichchi|IN||6t|wi|616|5i|Kannankurichi
+Qandala|SO||14|vv|3uj|5d|Candala;Ġandala;Kandala
+Kansāpur|IN||6t|2br|5yn|59|Kansepur
+Kannapuram|IN||6t|xa|5t6|55
+Kanaishima|JP||7q|2q6|aqg|53
+Kanamachi|JP||7q|2rd|asj|50
+Kanjari|IN||6t|1qt|5mk|4z
+Kannod|IN||6t|1qz|5x6|4x
+Kānke|IN||6t|1t3|6l0|4w
+Kantyshevo|RU||9i|3c3|3fz|4u|Kantysjevo
+Kangaba|ML||5|x5|-ne|4s|Kangara
+Kanifing|GM||7|11d|-1ab|4s
+Konārka|IN||6t|1j9|6n6|4o|Konârak;Świątynia Surji w Konarak;Konark;Kanarak
+Kanungu|UG||q|-2o|2ar|4m|Kanangu
+Kankauli|IN||6t|197|5or|4k|Kankavli;Kankavali
+Kandāri|IN||6t|1mi|5ul|4k
+Kandıra|TR||94|363|2br|4j
+Kandamkunnu|IN||6t|wz|5ty|4g
+Conyers|US||48|2lj|-6he|4f|Kanjerso
+Kannampālaiyam|IN||6t|uk|5y6|4f
+Kanō|JP||7q|2nt|ags|4d
+Kanegasaki|JP||7q|30w|aw0|4c
+Kan Nar Middle|MM||7y|1aw|7ey|4a
+Kanhirode|IN||6t|x4|5tm|4a
+Kanchanpur|IN||6t|1us|744|49
+Kanel|SN||g|171|-10m|48|Karel
+Kangeyanallur|IN||6t|zz|63v|48
+Kandānisshēri|IN||6t|tg|5vc|42
+Kankipādu|IN||6t|19o|68d|42|Kankipad
+Kansipati|PH||71|go|9cr|42|Kan Sipat
+Kantang|TH||62|kl|7og|3y|Gantang
+Kanākir|SY||69|2kf|2sa|3w
+Kannadiparamba|IN||6t|x6|5tg|3t
+Konduga|NG||u|wd|11a|3q|Kanduga
+Kannelmäki|FI||92|4nc|1x5|3p|Gamlas;Käkimäki;Kantsu
+Kānor|IN||6t|1vv|5qb|3o
+Kaniyārakōd-Kizhakumuri|IN||6t|tu|5wb|3o
+Kanakono|CI||0|sr|-hc|3n|Kanakoro
+Kanīna Khās|IN||6t|26p|5vz|3m|Kalīna Khās
+Kandé|TG||w|ro|2w|3m|Kanté
+Kanbara|JP||7q|2pk|ap1|3k|Kambara
+Kantemirovka|RU||9i|3u2|32q|3k|Kantemirowka
+Kanata-Lakes|CA||59|3hw|-5uw|3j
+Kankaanpää|FI||92|4ro|1qa|3i
+Kānkon|IN||6t|15r|5pp|3g
+Kānodar|IN||6t|1ux|5l3|3g
+Kandry|RU||7z|47l|46c|3d
+Kaniyūr|IN||6t|ut|5yc|3c
+Kangal|TR||94|30z|2vv|3b
+Kangiwa|NG||u|yv|am|39|Kaingiwa
+Kani|CI||0|nk|-id|37
+Kānjikkovil|IN||6t|vl|5zk|35|Kanjikoil
+Kānota|IN||6t|22n|5uz|35
+Kandri|IN|Maharashtra|6t|1n0|644|2y
+Kangarāli-budrukh|IN||6t|187|5qz|2x
+Kānar|IN||6t|1tr|5vl|2x|Kanad
+Kāntāphor|IN||6t|1qq|5wo|2w
+Kannivādi|IN||6t|su|607|2w
+Kanjhawāla|IN||6t|27u|5xx|2v
+Kandete|TZ||h|-pf|2lw|2v
+Kangundo|KE||16|-3m|2vr|2v|Kangundu
+Kanjiža|RS||8q|3jz|1jp|2u|Magyarkanizsa;Alt-Kanischa;Ungarisch-Kanischa;Kanizsa;Kanjiĵa;Ungarische Kanischa
+Kantagi|KZ||5s|3cx|5ai|2u|Kontagi
+Kangaroo Flat|AU||8j|-2u8|b4p|2t
+Qâna|LB||64|2k9|2q2|2s|Cana;Kana;Kanao
+kankrabari Dovan|NP||6r|24r|6le|2s
+Kanaungto|MM||7y|1ak|7ey|2s
+Kansbahal|IN||6t|1pq|6j6|2r
+Kankara|NG||u|x5|kl|2o
+Kaniyambādi|IN||6t|zl|63t|2o
+Kanébly|CI||0|ks|-jj|2n|Kanébli
+Kangra|IN||6t|2h5|5vu|2n
+Kanakpur Part-II|IN||6t|1ww|75s|2n
+Kan Nar West|MM||7y|1aw|7ex|2n
+Kantilo|IN||6t|1kk|6kn|2k
+Kannavam|IN||6t|ww|5u6|2h
+Kanoroba|CI||0|pb|-h0|2f|Kannorhoba
+Kangping|CN||7i|2e2|8fg|2d
+Kangaroo Point|AU|Queensland|8c|-24c|bt4|2c
+Kandel|DE||8r|3sc|ms|2c
+Kāndri|IN|Maharashtra|6t|1ni|648|2b
+Kangarāli-khurd|IN||6t|186|5qy|2a
+Novi Kneževac|RS||8q|3jx|1ju|2a|Kanizsa;Rév-Kanizsa;Kis-Kanizsa;Torontál-Józseffalva;Törökkanizsa;Novi Kneĵevac;Kanisa
+Kāndra|IN||6t|1rh|6n1|2a
+Kankossa|MR||19|18a|-w1|29
+Kandern|DE||8r|3oj|la|29
+Kānwat|IN||6t|24n|5ua|27
+Kannanūr|IN||6t|n0|5yp|25|Kannanoor
+Kandanūr|IN||6t|s2|62z|25
+Kananya|PH||71|v3|9m0|24|Kananga
+Chantepie|FR||9k|3pl|-4i|24|Kantpig;Cantus Picae
+Konokovo|RU||9i|3gm|36t|23|Kanokovo
+Kāngpokpi|IN||6t|1xv|791|23
+Kandanvilai|IN||6t|mt|5yt|22
+Kannamangalam|IN|Tamil Nadu|6t|zf|63v|22
+Kanisail Pt I|IN||6t|1x2|74l|22
+Kanzra|CI||0|kc|-ha|21|Kranzra
+Kantunilkín|MX||2b|1mm|-6r1|20
+Kadingilan|PH||71|l4|9mz|1y|Kandingilán;Kadañgilan;Kadingelan
+Can-asujan|PH||71|s5|9ji|1y|Kanasujan;Kanasulan
+Kazanka|UA|Mykolaiv|98|3ov|2j7|1y|Kanzanka;Kazanko;Kazenka;Kazavka
+Kandiari|PK||6q|22s|5ac|1x
+Canchungo|GW|Cacheu|8|xj|-18j|1x|Kanšungas
+Kang|BW||m|-1ts|1rb|1w
+Kantabamsuguda|IN||6t|1ew|6e8|1v
+Kandasar|IN||6t|1lw|6ki|1v
+Kanyosha|BI||b|-9h|29p|1u
+Kalnibolotskaya|RU||9i|3jt|34e|1u|Kalnibolotskaja;Kanibolotskaya;Kainibolotskaya
+Konala|FI||92|4nc|1x0|1s|Kånala
+Kangema|KE||16|-1x|2uo|1s|Cangema
+Kangagui|CI||0|fw|-ix|1s
+Kanakpur I|IN||6t|1ww|75t|1q
+Kangkong|MY||6v|go|7qq|1o
+Kanangonon|CI||0|n2|-e2|1o|Kanangona;Kanangono
+Kanapaka|IN||6t|1eb|6fl|1o
+Leondárion|GR||8p|2xj|1ua|1n|Leontarion;Leontario;Liontari;Kantza;Kándza
+Can-Avid|PH||71|xc|9oh|1n|Kanavid;Canavio
+Cancale|FR||9k|3r8|-55|1m|Kankaven
+Kango|GA||v|h|s3|1l
+Kanouan|CI||0|km|-f5|1k
+Kan Beit|MM||7y|1ag|7en|1k
+Kandragādia|IN||6t|1md|6m6|1j
+Kanahooka|AU||8l|-2nt|bmx|1i
+Kanita|JP||7q|360|auo|1i|Kanida
+Kanhchor|KH||78|y7|86k|1h|Kanchor
+Kantueu Pir|KH||78|zx|7yi|1h
+Kanadukattan|IN||6t|s9|62u|1h|Kānātukāttān;Kanadukathan
+Kannus|FI||92|4xi|1ue|1h
+Kaneyama|JP||7q|300|atu|1g|Kanayama
+Kananwolo|CI||0|oe|-er|1f
+Kangasniemi|FI||92|4s7|221|1f
+Kānwāla|IN||6t|2cb|5xb|1e|Kanwla
+Kani-Kéli|YT||ah|-zz|3ha|1d|Kani Kéli
+Kanysh-Kyya|KG||65|381|5hh|1c|Kanysh-Kiya
+Cambo-les-Bains|FR||9k|3cg|-3w|1c|Kanbo;Cambon;Cambo
+Kannapalayam|IN||6t|10d|66i|1b
+Kanheipur|IN||6t|1l6|6mu|1a
+Kanab|US||2p|2ux|-8ol|18
+Kanguélé|CI||0|mj|-7k|18
+Kanelovskaya|RU||9i|3lf|30v|17|Kanelovskaja;Konelovskaya
+Kanakeravan|AM||80|33t|3fq|16|K’anak’erravan;Qanaqeravan;Kenakeravan
+Cantao-an|PH||71|sg|9jr|16|Kantauan
+Kangare|KE||16|-28|2ug|15
+Kanáli|GR|Ionian Islands|8p|321|1j9|15
+Kanwal|AU||8l|-2kd|bot|15
+Kangkar Baru|MY||6v|5j|7yc|14|New Kangkar Village;Kampung Kang Kar Baharu;Kangkar Baharu
+Kantina|MA||d|2lp|-fi|14
+Kanlıca|TR||94|366|28r|13|Kanlija
+Kanianka|SK||8s|3rm|1fn|13
+Cantemir|MD||8x|3kk|26c|12|Qantemir;Kantemir
+Ka Nyin Kone|MM||7y|19e|7f1|12|Kanyingon
+Kanzlerfeld|DE||8r|419|t2|12
+Kangani|KM|Anjouan|ac|-y8|3fj|11
+Kane|US||48|37q|-62x|10
+Canala|NC||b8|-1ns|ct1|z|Kanala
+Kan Pyaung|MM||7y|1ac|7ft|z|Kanbyaung
+Kangly|RU||9i|3ex|3bj|z
+Kantunil|MX||3z|1ls|-6vc|z
+Kaniasso|CI||0|r9|-kv|x|Kanyaso
+Kanashevo|RU||7z|49e|4se|w|Kanasjevo
+Kandava|LV||9n|4eg|1r9|w
+Kanda-jinbōchō|JP||7q|2r6|as8|w
+Kańczuga|PL||a5|3uu|1q9|w|Kaņčuga
+Canhaway|PH||71|r3|9lr|w|Kanhaway
+Kānam|IN||6t|nq|60u|v
+Kanxoc|MX||3z|1la|-6sq|v
+Kaniów|PL|Silesia|a5|3uq|1gx|u
+Kanaura|JP||7q|3g7|axv|u
+Kancab|MX||3z|1k4|-6w7|s
+Gantang|CN|Fujian|7i|22s|98b|s|Kan-t’ang
+Gantang|CN|Fujian|7i|22g|96e|s|Kan-t’ang
+Kang Sahbu|IN||6t|2eq|5tr|r
+Canjulao|PH||71|qu|9lf|r|Kanhulao
+Kanimbla|AU||8c|-1b0|b8s|q
+Kanaláki|GR||8p|30z|1l8|o|Kanalláki
+Candabong|PH||71|r1|9ly|o|Kandabong
+Kandabong|PH||71|qx|9hv|o|Candabong
+Kanturk|IE||8z|40x|-oq|o|Ceann Toirc
+Kangduo|CN||7i|2pb|7zk|n
+Kanluran|PH||71|142|9bp|n
+Kántorjánosi|HU||8v|3p5|1pj|m
+Kanlagay|PH||71|gc|9cx|m
+Kangbapleu|CI||0|jz|-m6|m
+Candela|IT||9o|36a|174|m|Kandela
+Kannoura|JP||7q|2l7|ad2|m|Kōnoura
+Kong Noy|KH||78|vs|838|l|Kang Noy
+Kanadey|RU||9z|43p|3o1|l|Kanadej
+Kandopleu|CI||0|l3|-l6|k
+Kanta|CI||0|ju|-mo|k
+Kardania|BD||6a|1ux|6zl|k|Kāndania
+Kanayevka|RU||9i|43j|3ik|j|Kanajevka
+Kahanso|CI||0|pp|-l5|i|Kanhasso
+Kan Yin Ngu|MM||7y|1a6|7eh|i|Ka Nyin Ngu
+Canach|LU||9c|3tt|hl|h|Kanech;Kanachas
+Kangalassy|RU||7x|4t7|a10|h|Kangalasy;Kangalastsy
+Kangréta|CI||0|iw|-gs|g
+Cannole|IT||9o|33l|1f0|g|Kannula
+Kandyédougou|CI||0|nh|-gy|g|Kandiédougou
+Kangaslampi|FI||92|4t2|26h|g
+Kaniéné|CI|Vallée du Bandama District|0|o5|-d3|f|Kanyéné
+Kandaklī|IR||7o|2tl|4pm|f|Kendikli;Kandkali;Kaandakali
+Kanavayén|VE||2c|fn|-4ro|f|Kavanayén
+Kan|MM||7y|1an|7es|f
+San Ignacio de Tupile|PA||4g|pu|-614|e|Dad Nakued Dupir;Kannir Dup;Isla Gallina
+Kanchad|IN||6t|1io|5mu|e
+Kant Ma Lar|MM||7y|19l|7f9|d
+Kanitélégué|CI||0|qs|-hb|d|Kantélégué
+Chanteloup|FR|Brittany|9k|3p9|-4h|d|Kantlou
+Kandos|AU||8l|-2ja|bkl|d
+Kandor|IR||7o|2od|3q3|d
+Kānī Sūr|IR||7o|2s6|3j3|d|Kānīsūr
+Kanal|SI||9a|3k1|11v|d
+KaNdengeza|ZA||o|-1sm|2cg|d
+Kang Jāgīr|IN||6t|2ed|5un|d
+Kaniów|PL|Świętokrzyskie|a5|3xn|1le|d
+Kanéguéra|CI||0|o5|-d0|c
+Kaniéné|CI|Savanes District|0|q1|-if|c|Kanyèné
+Kaniéméné|CI||0|n0|-co|c
+Kangrassou Aluibo|CI||0|in|-d9|c
+Kankintú|PA||4g|ol|-6b9|c
+Konak|RS||8q|3hw|1m3|c|Conak;Kanak
+Kanne|BE||8t|3x5|fr|c
+Kanachut|AM||80|335|3fr|c|Kanach’ut
+Kanegem|BE||8t|3xp|9g|c
+Kanda-awajichō|JP||7q|2r6|as9|c
+Kannonkoski|FI||92|4ux|1y5|c
+Kanguérasso|CI||0|nr|-c3|c|Kanguéresso
+Kanizh|UA||98|3rc|2gp|b
+Kan-sokoura|CI||0|oi|-hf|b
+Kandersteg|CH||a7|3l5|lb|b|Pons Kanderae
+Kanice|CZ||9m|3su|1af|b
+Kandolūs|IR||7o|2sw|3z9|b|Kandelūs;Kandlūs
+Kancabchén|MX||2b|1ir|-6uu|b|Cancabchén;Kankabchén;Kankab-Chén
+Kangaroo Ground|AU||8j|-2wp|b7f|b
+Kangkar Sedili Kecil|MY||6v|4v|81b|b|Sedili Kechil;Kampung Sedili Kechil;Kangkar Sedili Kechil
+Kanatlarci|MK||9u|36h|1nq|a
+Kangani|YT||ah|-zd|3hj|a
+Kannawurf|DE||8r|3yf|ux|a|Cannawurf
+Kandrian|PG||bd|-h9|bjf|a
+Kanie|PL||a5|40u|1lp|a
+Kandergrund|CH||a7|3lc|la|a|Kendergrund
+Kanonon|CI||0|ru|-gr|a
+Camp Perrin|HT||4j|1ex|-5p7|a|Kan Peren
+Kangara|CI||0|nb|-jf|a
+Kanáli|GR|Epirus|8p|30j|1li|a
+Kancabdzonot|MX||3z|1kz|-6uf|a|Kacabdzonot;Kancabzonot;Kancabtzonot
+Kangiqsualujjuaq|CA||59|4j1|-537|a
+Kanoukro|CI|Lacs District|0|jq|-d1|a|Kanokro
+Kani Bé|YT||ah|-100|3hb|9
+Kangaroo Valley|AU||8l|-2oi|bm6|9
+Ovaköy|TR||94|2x5|25u|9|Kanyaşı
+Kaniéguéma|CI||0|nf|-ba|9|Kameguema;Kanyéguéma
+Kandara|KE||16|-2i|2us|9
+Kangrassou|CI||0|ja|-df|9|Kangrasso;Kangarassou
+Kanidiovogo|CI||0|qy|-fb|9
+Myrovychi|UA||98|3v5|2ha|9|Kantakuzivka;Kantakuzovka;Kontakuzovka
+Kanália|GR|Thessaly|8p|31q|1rl|9
+Kangré|CI||0|ku|-ew|9|Kanglé
+Kanzaq|IR||7o|2xz|3pn|9|Ganzaq;Kanzag
+Kangarilla|AU||8b|-2pn|ap6|9
+Konārjū|IR||7o|22a|4en|9|Kanār Jū;Kenārjū
+Kanoukro|CI|Vallée du Bandama District|0|kw|-dv|9
+Kangui|CI||0|k3|-m3|9|Kangi
+Kandíla|GR|West Greece|8p|2zj|1m7|9|Kandhíla
+Kan Thone Kan|MM||7y|1a2|7f2|9|Kanthongan
+Kanchevo|BG||9v|3a6|1yp|9|Kunchovo;Kŭnchevo
+Kandéna|CI||0|m9|-8k|9
+Kangani|KM|Mohéli|ac|-ya|3dq|9
+Kangiqsujuaq|CA||59|4r4|-5jw|8
+Kanfen|FR||9k|3tc|gz|8
+Ganchang|CN||7i|2i1|890|8|Kan-ch’ang
+Kansas|US|Oklahoma|2f|2sl|-7bc|8
+Kanango|CI||0|kq|-ei|8
+Konjīneh|IR||7o|2on|3r3|8|Kanjīyeh;Ganjīneh
+Kaniva|AU||8j|-2t2|awc|7
+Kansas|US|Illinois|2f|31v|-6sa|7
+Kanassi|CI||0|m2|-7v|7
+Kankassua|CI||0|l3|-8p|7
+Kanmantoo|AU||8b|-2pf|aq5|7
+Kanapleu|CI||0|k4|-mx|7
+Kangakro|CI||0|kl|-9o|7
+Kaniža|HR||a6|3hb|1dp|7
+Kanália|GR|Thessaly|8p|31g|1ok|7
+Kandíla|GR|Peloponnese|8p|2wx|1q6|7
+Kındıra|TR||94|35e|2gu|7|Kandıra
+Konakbeyi|TR||94|30r|3b2|7|Kanakbey
+Kandanga|AU||8c|-21b|bs4|7
+Kanoua|CI||0|kx|-e9|7
+Kanora|UA||98|3rd|1sh|7
+Kantens|NL||8m|449|if|7
+Qaanaaq|GL||57|5z7|-5cb|6|Thule;Kanakas;Kaanaak
+Kanepi|EE||9x|4h2|22c|6
+Kanawha|US||2f|3ba|-78j|6
+Katranlık|TR||94|2u1|2ta|6|Kantranlyk
+Kanavy|UA||98|3sd|2nr|6
+Kanzem|DE||8r|3tz|ia|6
+Konizbaltë|AL||9y|357|1j6|6|Konizbalta;Konisbalta;Konesbaltë;Kanisbalte;Konisbaltë
+Kanižarica|SI||9a|3ij|165|6|Kanjizarica
+Kanlo|CI||0|p1|-ku|6
+Kandelān|IR||7o|2nu|3ri|6|Kand Halan;Khiāndelan;Kand Helān;Kandlān;Kandehlān
+Kānī Sorkh|IR||7o|2uu|3h5|6
+Kangaroo Point|AU|New South Wales|8l|-2mg|bnq|6
+Kancabal|MX||3z|1mn|-6vy|6
+Kangaatsiaq|GL||4e|59r|-44i|5|Kangatsiak;Kangâtsiaq
+Kaning|AT||a2|3m3|123|5
+Kanzach|DE||8r|3pk|qk|5
+Kandilli|TR||94|2xj|2s4|5
+Kangerlussuaq|GL||4e|565|-3wt|5|Søndre Strømfjord;Kangerdlugssuaq
+Kana|PE||3o|-12d|-5fc|5

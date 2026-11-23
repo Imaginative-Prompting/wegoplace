@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Bengaluru|IN||6t|101|5zj|1tjv|Bangalore;Bengaluro;Bengalour;Bengalūras;Bangaluri;Bangalúr
+Baghdad|IQ||5z|2km|3fc|1jog|Bagdad;Bagdado;Bexda;Bagdatum;Bagdadas;Bagdá;Bağdat;Beghdad
+Berlin|DE||8r|41w|119|qfs|Berlyn;Berlëno;Berliin;Berliini;Berolinum;Berlien;Berlynas;Berlijn;Berlim;Birlinu;Beirlín;Belin
+Belo Horizonte|BR||4w|-1jc|-3e2|l00|Bel-Horizonto;Bhte;Belo Hte;B.H.;Urbs Pulchri Horizontis;Belu Orizonti;Belu-Orizonti;Bello Horizonte
+Bekasi|ID||6l|-hb|897|kfn|Bekaso
+Beirut|LB||64|2m5|2qm|es9|Bejrut;Bejruto;Beyrouth;Beiroet;Beyrut;Berytus;Bäyrut;Bêrût;Béiriút;Birut;Beirot;Bewout;Beirout;Bejruti;Beirots;Bairut
+Benin City|NG||u|hm|fn|dr0|Benin-Stadt;Benin;Benim;Beninas;Benin by;Benin-stad;Beninurbo;Thành phố Benin;Ìlú Benin;Ciudad de Benín;Kota Benin;Benínborg;Benin Siti;Magaalaa Benin;Magaalada Benin
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Belém|BR|Pará|23|-42|-3qq|bkk|Velẽ;Belena;Bethlehem;Belenas;Belen
+Basrah|IQ||5z|2cr|3oq|a8i|Basra;Basora;Bassorah;Bàssora;Al-Basra;Baçorá;Besre;Busra;Bussora;Busrah;Bassra
+Belgrade|RS||8q|3gg|1kv|9tt|Belgrad;Belgrado;Belgráu;Beograd;Bělehrad;Beogrado;Belgradas;Belgrada;Beogradi;Belgradu;Belogradum;Běłohród;Nándorfehérvár;Belqrad
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Vijayawada|IN||6t|19v|681|8tk|Widźajawada;Vidžajavada;Vijajaŭada;Vidzsajavádá;Bejawada;Bezawada;Vijayavādā;Bezwāda
+Bijie|CN||7i|23u|84h|8ry|Tất Tiết;Bék-ciék;Pi-ťie;Pit-chiat-chhī
+Bengbu|CN||7i|2ji|920|7i8|Bạng Phụ;Pâung-buô;Pāng-pō-chhī;Bangbu
+Benxi|CN||7i|36p|9jt|6oc|Pen-si;Bensi;Bản Khê;Pún-khe-chhī;Penki;Pen-hsi;Pen Shi
+São Bernardo do Campo|BR||4w|-1tt|-3lc|6hh|SBCampo
+Benghazi|LY||1d|2h7|1jr|5uf|Banghazi;Bengasi;Bengazi;Bengazis;Bängasi;Bingazi;Benqazi;Bengazy;Benghasi;Binghāzī
+Beira|MZ||11|-1j4|2os|5b2|Beyra
+Benoni|ZA||o|-20r|26o|4o5
+Benguela|AO||x|-yy|118|4a7|Benguella
+Beihai|CN|Guangxi|7i|1no|8f4|41x|Pej-chaj;Pet-hói-sṳ;Bắc Hải;Baekhaij;Báe̤k-hāi;Beihajus;Pak-hái-chhī;Pei-hai
+Belford Roxo|BR||4w|-1r8|-3ck|400
+Belagavi|IN||6t|181|5qy|3s4|Belgaum;Belgaumas;Belagaavi;Belagoavi;Belgaavi
+Long Beach|US|California|3p|2lt|-94b|3np|Litus Longum;Long Byčas;Longbīča;Lonq Biç
+Virginia Beach|US||48|2ud|-5v2|3ic|Litus Virginiae;Vijini Beach;Virdžīnijabīča;Virdžinija Byčas;Virciniya Biç;Virĝinijabiĉo;Virginian Bch
+Bei’an|CN||7i|3q3|9ro|3d8|Pei-an
+Beylikdüzü|TR||94|35u|27k|37d
+Ballari|IN||6t|162|5xo|360|Belaris;Bellary;Bellāri
+Brno|CZ||9m|3so|1a5|34b|Brünn;Bruna;Berno
+Bengkulu|ID||6l|-ak|7w3|32d|Benkulu;Benkulen
+Bello|CO||27|hm|-5tw|315|Beljas
+Benito Juárez|MX|Mexico City|41|1ht|-7ng|2z2
+Betim|BR||4w|-1jh|-3es|2yo
+Bakersfield|US||3p|2q9|-96m|2vs|Beykersfild;Beikersfildas;Beikersfīlda;Baker's Field
+Bafoussam|CM||j|f8|sy|2vp|Befoussam;Bafusam;Bafousam;Bafusamas;Bafusama;Bafussam
+Bến Cát|VN||6h|uz|884|2ta
+Benito Juarez|MX|Mexico City|41|1hw|-7ng|2qm
+Bandar Abbas|IR||7o|23j|4cc|2pu|Cambarão;Port Comorão;Gombroon;Gumrun;Bandar-e Abbas;Bandar Abas;Bandar-Abbász;Bender Ebbas;Bandare Abasas;Bender Abbas;Bandar-Abbas;Bandar-e ‘Abbās;Bandar ‘Abbāsī;Bandar ‘Abbās

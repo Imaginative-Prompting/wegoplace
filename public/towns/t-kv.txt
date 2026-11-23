@@ -1,0 +1,53 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Queens|US||48|350|-5p4|hvk|Kvino
+Quetta|PK||6q|2bu|564|c2v|Kweta;Kvéta;Kveto;Ketta;Kvetta
+Kuala Lumpur|MY||6v|8q|7uh|b7w|Kualalumpūra;Kvala Lumpūras;Kuala-Lumpuro;Gizlungzpoh;Kouala Loumpou;Kuala-Lumpur;Kuala Lumpor
+Gwangju|KR|Gwangju|7h|2pn|9sk|at8|Kwangju;Kwangdžu;Kŭangĵuo;Gouanjou;Quansua;Kvandžu;Kvanju;Kvangdzsu;Kuangju
+Québec|CA||59|3m1|-5ht|43r|Kwébék Shehiri;Kvebeka;Kebeko;Kvebekas;Kebek;Tchubec;Kébéc Vile;Kebeku;Kvebek;Kwébék;Kévek táva;Kebekurbo
+Kuala Terengganu|MY||6v|et|7yi|3ah|Kvala Terenganu;Kuala Trengganu
+Kwekwe|ZW||n|-1gl|2at|xb|Kvekvė
+Skhidni Kvartaly|UA||98|3qx|31e|sh|Skhid
+Cuenca|ES||9d|33b|-5x|f9|Conca;Kvenko;Kuenka
+Kwidzyn|PL||a5|458|1gl|ag|Marienwerder;Kvidzynas;Kvidzina;Kwidzëno
+Kuala Belait|BN||66|cq|8tb|8o|Kvala Belaitas;Kwala Belait
+Quedlinburg|DE||8r|3zv|uz|6f|Queddelnborg;Quedlinbourg;Kvedlinburgas;Quedlimburgo
+Myllypuro|FI||92|4na|1xn|3k|Kvarnbäcken;Pyllymuro
+Kvareli|GE||7n|38j|3ja|2u|Qvareli;Q’vareli;Kvarely
+Kvissleby|SE||9w|4t1|1ca|2g|Kvissle
+Kvasyliv|UA||98|3wg|20y|29|Kwassyliw;Kvasiliv;Kvassyliv;Kvasziliv;Kwasiłów;Kvasilov
+Quartier Militaire|MU||ag|-1k9|4g0|1s|Kvartier Militaire
+Queanbeyan|AU||8l|-2q7|bij|1r|Kvenbejanas;Kvīnbejana;Quenbeyan
+Kvinesdal|NO||9j|4hz|jc|1o
+Tetritsqaro|GE||7n|37e|3fi|1e|T'et'ri Tsqaro;Tetri Ts’q’aro;Kvishiani;Tetri-Tskaro
+Kveda Chkhorots’q’u|GE||7n|3a1|38z|18|Kveda Chkhorotsku
+Kvarkeno|RU||7z|40o|4lx|16
+Kvitok|RU||6k|4br|7lk|w
+Kvartsytne|UA||98|3yr|287|o|Perschotrawnewe;Pershotravneve;Persjotravneve;Perchotravneve;Peršotravneve;Perszotrawnewe;Perxotravneve;Pershotravnevoye
+Kvasice|CZ||9m|3ss|1cj|n
+Kvetoslavov|SK||8s|3pi|1c6|m
+Kvicksund|SE||9w|4l5|19c|m
+Kvartaly slovatskykh panelok|UA||98|3r0|1pv|l|Kvartaly slovats'kykh panel'ok
+Květnice|CZ||9m|3v2|14s|l
+Kvidinge|SE||9w|4bx|109|i
+Kværndrup|DK||8y|49a|t9|h
+Kenkhi|RU||9i|3ag|3jn|g|Kenxa;Kvanxi
+Kvasiny|CZ||9m|3vh|196|d|Kwasnei;Kwasin
+Quern|DE||8r|484|r0|d|Kværn
+Kvänum|SE||9w|4hy|10m|d
+Kvistgård|DK||8y|4bj|yq|c|Kvistgaard
+Kvasy|UA||98|3ps|1vg|c|Tiszaborkút;Kvasi
+Kvartsitnyy|RU||9i|4qt|2pb|b|Soksunranta;Kvartsitni
+Qvutsat Yavne|IL||6n|2ge|2og|a|Qevuẕat Yavne;Qevutsat Yavne;Kevutsat Yavne;Kvutzat Yavne
+Kvibille|SE||9w|4dq|zn|9
+Kvankhidatli|RU||9i|3ah|3kj|9|Kvankhidatl’
+Kvasovo|UA||98|3pv|1r9|9|Kvasove
+Kvashenki|RU||9i|4ds|2wb|9|Kvasjonki
+Kvelde|NO||9j|4kf|rp|9
+Kvam|NO||9j|4rb|qx|8
+Kvitneve|UA|Kyiv Oblast|98|3wd|2dp|8|Dymytrove
+Kvashninskoye|RU||7z|4em|4u5|7|Kvasjninskoje;Kvaŝninskoje
+Kviteseid|NO||9j|4l0|nl|6
+Kvašov|SK||8s|3sb|1en|6
+Kvitneve|UA|Zhytomyr Oblast|98|3uv|2a0|6|Zhovtneve;Zhovtnevoye
+Kvívík|FO||85|4sk|-jn|6|Kvivig
+Kvisljungeby|SE||9w|4gf|wv|6|Kvistljungby

@@ -1,0 +1,180 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Quezon City|PH||71|14p|9c9|nsr|Quezon;Kezonurbo;Lungsod Quezon;Quezon-Stadt;Ciudad Quezon
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Santo Domingo|DO||4v|1fb|-5e5|gzn|Saint Domingue;Ciudad Trujillo;Santo-Dominqo
+Benin City|NG||u|hm|fn|dr0|Benin-Stadt;Benin;Benim;Beninas;Benin by;Benin-stad;Beninurbo;Thành phố Benin;Ìlú Benin;Ciudad de Benín;Kota Benin;Benínborg;Benin Siti;Magaalaa Benin;Magaalada Benin
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Jiujiang|CN||7i|2ai|8y8|8zf|Ciuciang;Ťiou-ťiang;Cửu Giang;Chiu-chiang;Kiukiang
+Ciudad Nezahualcoyotl|MX||41|1hw|-7n1|8b8|Nezahualcóyotl;Nesahualkojotlis;Neza;Cd. Nezahualcóyotl;Cd. Neza;Ciudad Neza;Nezahualkojotlo;Netzahualcóyotl;Ciudad Netzahualcóyotl
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Ciudad Guayana|VE||2c|n7|-4u0|7jq|Cidade Guaiana;Guayana;Ciudat Guayana;Siudad Guajana;Sjudad Guajan;Ciudad Guiana
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Chihuahua|MX|Chihuahua|2g|27k|-86p|756|Čihuahua;Čiuaua;Ĉihuahuo;Chivava;Çivava
+Aqsu|CN||7t|36e|670|44t|Aksou;Aksu;Ciudad de Aksu;A-k’o-su;Akesu
+Zhoukou|CN||7i|2ld|8uh|3wc|Tsjoukou;Čou-kchou;Juko shehiri;Chu Khẩu;Ciŭ-kāu;Chiu-kháu-chhī;Chou-k’ou
+Ciudad López Mateos|MX||41|1ia|-7nn|3rw|Adolfo López Mateos
+Ciudad Apodaca|MX||44|1zm|-7qb|3ls|Apodaca;Opština Apodaca
+Ciudad General Escobedo|MX||44|1zo|-7qo|3ie|General Escobedo;Gral. Escobedo
+Bacolod City|PH||71|tn|9hj|3id|Bacolod;Ciudad ti Bacolod;Lungsod ng Bacolod;Dakbayan sa Bacolod;Syudad han Bacolod;Bacoloo City;Baclod City
+Palma|ES||9d|31x|7d|3dq|Ciutat de Mallorca
+Cusco|PE||3o|-11l|-5jx|3b1|Cuzco;Ciudad del Cuzco;Kusko;Qusqu;Kuskas;Cuschum;Cuscu;Cosco
+Jiuquan|CN||7i|32e|7lo|3az|Tửu Tuyền;Ciū-ciòng;Ťiou-čchüan;Chiú-choân-chhī
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Ciudad Bolívar|VE||2c|mk|-4wj|36m|Bolívar;Ziudá Bolívar;Bolívar llaqta;Siudad Bolivaras;Syudad Bolívar;Syudad-Bolivar
+Gujangbagh|CN||7t|2v3|661|35l|Ciudad de Jotán;Khotan;Hoten;Hotan;Xoten;Xotan;Chotan;Hotanas;Ho-t’ien;Gujiangbage
+Panama City|PA||4g|oz|-64w|35e|Panama-Stadt;Ciudad de Panamá;Ziudá de Panamá;Panamá;Panamurbo;Panama-Urbo;Panama-stad;Panama by;Ciutat de Panamà;Panama Hiria
+Cabanatuan City|PH||71|171|9c1|2nh|Cabanatúan;Ciudad ti Cabanatuan;Lungsod ng Cabanatuan;Siudad ti Cabanatuan;Lakanbalen ning Cabanatuan;Siyudad na Cabanatuan
+Ciudad Victoria|MX||44|1ty|-7ne|2k9|Cd. Victoria;Siudad Viktorija;Altepetl Victoria;Victoria llaqta;Victoria;Lungsod ng Victoria
+Ciudad Obregón|MX||37|24d|-8he|2ji|Cd Obregon;Cd. Obregon;Siudad Obregonas;Altepetl Obregón;Lungsod ng Obregón;Obregon
+Ciudad Benito Juárez|MX||44|1z9|-7q1|2dn
+Ciudad del Este|PY||1y|-1yu|-47t|2bu|Siudad del Estė;Sjudad Del Este;Syudad del Este;Kota del Este;Bandar del Este
+Villa Nicolás Romero|MX||41|1ij|-7nw|26a|Ciudad Nicolás Romero
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Ciudad Ojeda|VE||2c|sc|-5i3|1ur|Ciudat Ojeda;Siudad Ocheda
+Ciudad Lineal|ES||9d|34d|-a5|1re|Linia Urbo;ciudá Lineal
+Ciudad Acuña|MX||3w|29g|-7sf|1o1|Acuña;Lungsod ng Acuña
+Lipa City|PH||71|12q|9ck|1mz|Ciudad ti Lipa;Lipa
+Ciudad Madero|MX||44|1pt|-7js|1is|Cd Madero;Cd. Madero;Siudad Maderas
+Ciudad Lázaro Cárdenas|MX||41|1dw|-7vw|1ig|Lázaro Cárdenas
+Ciudad del Carmen|MX||3z|1ft|-733|1h4|Carmen;Cd Carmen;Cd. Carmen;Cd del Carmen;Cd. del Carmen;Altepetl Carmen
+Ciudad de Las Heras|AR||1q|-2j9|-5b8|1gj
+Ciudad Camilo Cienfuegos|CU||36|1sc|-6cp|1dg
+Ciudad Delicias|MX||2g|26b|-84z|154|Delicias;Delisijasas;Delisijasa;Akitakata
+Siem Reap|KH||78|114|80i|12r|Ciudad de Siem Riep;Khett Siem Reab;Xiêm Riệp;Siĕm Réab;Siĕmréab;Siemreabas;Sziemreap;Siemrãp
+Los Ángeles|CL||4u|-2w3|-5kz|yu|Ciudad de Los Anjeles;Los Anceles;Angelopolis;Los Anjeles
+León|ES||9d|3ac|-fh|yo|Ciudá de Llión;Lleó
+Ciudad Valles|MX||41|1p4|-7n1|ym|Ciudad de Valles
+Ciudad de Villa de Álvarez|MX||41|1hj|-806|wo
+Cavite City|PH||71|148|9bu|w7|Cavite;Dakbayan sa Cavite;Bandar Cavite;Ciudad ti Cavite;Cavite Lakanbalen;Lungsod ng Kabite;Syudad han Cavite;Siyudad na Cavite;Kavite
+Ciudad Guzmán|MX||41|1iq|-7ze|v4|Cd Guzman;Cd. Guzman;Altepetl Guzman
+Ciutat Vella|ES||9d|36y|61|sf|Vieille ville de Barcelone
+Ciudad Río Bravo|MX||44|207|-7kh|qk
+Ciudad Mante|MX||44|1r6|-7mx|nk
+Luxembourg|LU||9c|3tt|h1|lb|Luxemburg;Luxemburgo;Luksemburgo;Luksemburg;Ciudad de Luxemburgo;Ciutat de Luxemburg;Lucemburk;Luxenburgo;Lussemburgo;Lëtzebuerg;Liuksemburgas;Luksemburga;Luksemburgu;Lussimbork veye;Luxembôrg;Lucsamburg;Stad Lëtzebuerg;Stadt Luxemburg;Lüksemburq;Luksembourg;Dinas Lwcsembwrg;Luxemborj;Lúksemboarch;Lucsemburg;Liksanbou;Luxemburgum;Lüssemburgh;Rakapuō;Lussemburgu;Lussemborgh;Luksimbur;Luxembuurich;Lungsod ng Luksemburgo;Lusenburgo;Luksambuur;Letzeburg
+Ciudad Satelite|PE||3o|-19n|-5ip|l8
+Ciudad Choluteca|HN||56|10z|-6q6|l3|Choluteca
+Ciudad Real|ES||9d|30b|-ax|kr|Villa-Real;Cidade Real;Ciudá Real
+Belize City|BZ||24|1cm|-6t0|i4|Ciudad de Belice;Belizas;Belize-stad;Belize;Thành phố Belize;Dinas Belize;Altepetl Belice;Belizurbo;Syudad han Belize;Cidade de Belize;Kota Belize;Bandaraya Belize;Belize Ceety;Beliz;Belice
+Alba Iulia|RO||8u|3jz|1ti|hu|Karlsburg;Apulon;Vojvodov Bjalgrad;Ciudadela Blanca;Karlovský Bělehrad;Erdeljski Biograd;Weyssenburg;Dsulafehervaru;Gyulafehérvár;Belgrad-i Erdel;Belgrada;Alba-Julia;Weißenburg;Bălgrad;Alba Julija;Alba Júlia;Àobā Yóulìyà;Erdel Belgradı;Karlov Belehrad;Fehervaru
+Ciudad Hidalgo|MX|Michoacán|41|1ip|-7rc|gt
+Kuwait City|KW||6x|29l|3p9|gp|Ciudad de Kuwait;Kuvajto;Kuvajturbo;Kuwait-Stadt;Kuwait;Kuwait-Urbo;Al-Kuwait;Madinat al-Kuwait;Koeweit;Kuwait by;Kuwejt;Kuvajt;Kuwait Stad;Koweït;Kuväyt;Koveyit;Kota Kuwait;Kuveitas;Kuweit;Al Kuwayt;Madīnat al Kuwayt;Al Kuwait;Kuwayt
+Ciudad de Huajuapan de León|MX||41|1dh|-7jm|eq|Huajuápam;Huajuapan;Huajuápam de León;Huajuapan de León;Ciudad de Huajuapam de León;Seen
+Ciudad Bolivia|VE||2c|n7|-5g1|el
+Ciudad Piar|VE||2c|kp|-4vw|eg|Cidade Pilar
+Chusovoy|RU||7z|4hx|4gl|dy|Tsjusovoj;Tschussowoi;Chusovói;Tchoussovoï;Čusovoj;Çusovoy;Tšusovoi;Ciusovoi;Čusovoi;Czusowoj;Tchussovoi;Tjusovoj;Tsjoesovoj;Čusowoj;Csuszovoj;Chusovaya
+Ciudad Sandino|NI||3s|xs|-6nu|dw
+Staré Mesto|SK||8s|3pr|1bh|ct|Old Town;Vieille ville;Malnova Urbo;Stari grad;Stare Miasto;Ciudad Vieja;Bratislavan vanhakaupunki
+Ciudad Constitución|MX||3x|1xj|-8m6|bd
+Villamontes|BO||3n|-1n2|-4wb|b2|Villa Montes;Ciudad de Villa Montes
+Ciudad Mendoza|MX||41|1g9|-7hy|9w
+Chur|CH||a7|3m5|qh|9u|Coira;Koiro;Coire;Cuira;Cuera;Curia Raetorum;Couère;Kūra;Ciura;Kūras;Kur
+Ciudad Melchor Múzquiz|MX||44|25g|-7u0|9r
+Ciudad Vieja|GT||32|14c|-704|9a
+Ciudad Sabinas Hidalgo|MX||44|21m|-7qa|97
+Ciudad Fernández|MX||41|1oy|-7pt|8w
+Ciutadella|ES||9d|334|ao|84|Ciudadela
+Fray Bernardino de Sahagún|MX||41|1ix|-7lu|7y|Ciudad Sahagun
+Ciudad de Allende|MX||44|1y8|-7pu|79|Allende
+Ciudad Altamirano|MX||41|1f0|-7rn|70|Altepetl Altamirano
+Daliyat al Karmel|IL||6n|2it|2pd|6y|Daliyat at Karmil;Daliyat ad-Druz;Daliyat al-Karmil;Daliyah;Carmel City;Dāliyat el Karmil;Dalyat el Karmel;Daliat al karmel;Ir haKarmel;Cidade de Carmel;Ir ha-Karmel;Ciudad Carmel;Sivdad Karmel;Ir Karmel;Karmel;Kurmul City
+Ciudad Serdán|MX||41|1gr|-7ip|6m
+Ciudad Bolívar|CO||27|g9|-5v7|6i
+Floridia|IT||9o|2v0|163|65|Ciuriddia
+Ciudad Miguel Alemán|MX||44|21c|-7n3|5k|Ciudad Miguel Alamán
+José Cardel|MX||41|1ht|-7fp|5b|Ciudad Cardel
+Ciudad Nueva|DO||4v|1fb|-5e5|58
+Ciudad Jardín|ES||9d|34d|-a7|55
+Ciudad de Huitzuco|MX||41|1ev|-7nx|4v|Ciudad Huitzuco
+Ciudad Guadalupe Victoria|MX||58|2hp|-8vq|4r|Kilómetro Cuarenta y Tres
+Ciudad Universitaria|ES||9d|34e|-ae|4k
+Ciudad de Armería|MX||41|1gm|-80s|4f|Armeria
+Ciudad Hidalgo|MX|Chiapas|3z|14s|-73z|42
+Ciudad Rodrigo|ES||9d|34s|-i5|3x|Cidade Rodrigo;Ciarrodrigu;Siudad-Rodrigo;Ciudad-Rodrigo
+Ciudad Manuel Doblado|MX||41|1ll|-7v7|3w|San Pedro Piedra Gorda
+Ciudad Darío|NI||3s|zd|-6n8|3p
+Ciudad de Nanacamilpa|MX||41|1i5|-7lq|3e
+Ciudad Quesada|ES||9d|2xq|-20|38|Quesada
+Ciudad Gustavo Díaz Ordaz|MX||44|20v|-7lw|37|Ciudad Díaz Ordaz
+Ciudad Tecún Umán|GT||32|14s|-73y|36
+Ciudad del Maíz|MX||41|1q8|-7oo|2w
+Ciutat Meridiana|ES||9d|376|61|2v
+Ciudad de Chiautla de Tapia|MX||41|1eu|-7lw|2v
+Ciurea|RO||8u|3mp|24l|2t
+Ciudad Arce|SV||2u|12g|-6wh|2t
+Ciudad Tula|MX||44|1rw|-7oz|2s|Tula
+Ciudad Cuauhtémoc|MX|Veracruz|41|1pm|-7jr|2p|Villa Cuauhtemoc
+Fiumefreddo Sicilia|IT||9o|2wz|169|2n|Fiumefreddo di Sicilia;Sciummefriddo;Ciumifriddu
+Bahía Solano|CO||27|hb|-5z0|2m|Ciudad de Mutis;Ciudad Mutis
+Ciudad de Tlatlauquitepec|MX||41|1j5|-7iu|2i
+Ciudad Insurgentes|MX||3x|1y6|-8mh|2f|Fernando de la Toba;La Toba;Villa Insurgentes
+Ciudad Barrios|SV||2u|129|-6t7|2d
+Ŏdŏngk|KH||78|wu|82y|28|Udong;Oudong;Ciudad de Udong;Ciutat d'Udong;Udon;Ŏdŏng
+Ciudad Camargo|MX||44|213|-7mj|28|Camargo
+Ciudad Guerrero|MX||2g|27b|-8ak|26|Vicente Guerrero;Cuidad Guerrero
+Ciudad Coahuila|MX||58|2hf|-8vg|24|Kilómetro Cincuenta y Siete
+Ciudad de Jocotitlán|MX||41|1ir|-7p7|24
+Ciudad Cerralvo|MX||44|20h|-7oq|20
+Ciudad Apaxtla de Castrejón|MX||41|1ed|-7pl|1y
+Ciudad Ayala|MX||41|1g5|-7my|1w
+Ciudad General Terán|MX||44|1y6|-7ow|1r|General Teran
+Staré Město|CZ|Prague|9m|3v5|142|1r|Prager Altstadt;Old Town;Ciudad vieja;Vieille Ville;Città Vecchia;Oude Stad;Malnova Urbo;Pragako Hiri Zaharra;Óváros;Stare Miasto;Cidade Velha;Praški stari grad
+Ciudad de Cuetzalan|MX||41|1jm|-7iw|1o
+Ciupercenii Noi|RO||8u|3dz|1rr|1n|Ciupercenii-Noui
+Ciudad Coahuila (Kilómetro Cincuenta y Siete)|MX||58|2hg|-8vg|1k
+Ciucsângeorgiu|RO||8u|3ko|203|1c|Ciucsîngeorgiu
+Ciumani|RO||8u|3lo|1yw|18|Gyergyócsomafalva
+Ciumeghiu|RO||8u|3lt|1ny|18
+Ciucea|RO||8u|3mf|1re|18
+Ciudad Satélite del Norte|MX||44|1zz|-7qj|y|El Satélite
+Ciuani|RO||8u|3ev|1z9|x
+Chulakivka|UA||98|3ks|2hv|t|Tsjulakivka;Tschulakiwka;Tjulakivka;Čulakivka;Tchoulakivka;Ciulakivka;Tsjoelakivka;Chulakovka;Chulokovka
+Ciudad de Villaldama|MX||44|21m|-7qz|t
+Ciugud|RO||8u|3jx|1tm|q
+Ciupercenii Vechi|RO||8u|3e3|1rl|q
+Ciulniţa|RO|Ialomița County|8u|3fp|23z|p
+Ciucurova|RO||8u|3gt|274|n
+Ciudad Cuauhtémoc|MX|Chiapas|41|17j|-73k|n
+Ciudad Morelos|MX||58|2hu|-911|k
+Ciugheș|RO||8u|3l8|20k|k|Ciungheş
+Ciudad de la Paz|GQ||10|4f|u2|k|Cidade da Paz;Ciudad de le Paz
+Ciuperceni|RO|Teleorman County|8u|3dl|1xb|j
+Ciudad Antigua|NI||3s|11w|-6nr|i
+Ciuperceni|RO|Gorj County|8u|3gt|1ry|h
+Vynohradivka|UA|Odesa|98|3k0|28w|g|Ciuleni
+Ciuperceni|RO|Teleorman County|8u|3f4|1yi|g
+Ciurila|RO||8u|3ll|1tf|f|Csürülye
+Ciumbrud|RO||8u|3kn|1u0|f
+Ciudad Satélite|MX||41|1pf|-7s0|e
+Ciumești|RO||8u|3oe|1q2|e
+Ciudad Chemuyil|MX||2b|1kj|-6qn|e
+Ciuruleasa|RO||8u|3kh|1rz|d
+Ciuchici|RO||8u|3gu|1o1|c
+Fiumedinisi|IT||9o|2xn|16q|c|Ciumidinisi
+Ciușlea|RO||8u|3j7|23v|c
+Ciucani|RO|Harghita County|8u|3ki|203|b
+Ciudad Guzmán [CERESO]|MX||41|1il|-7zi|b
+Ciulnița|RO|Arges|8u|3gf|1xv|a
+Ciutelec|RO||8u|3na|1q7|a
+Ciurari|RO||8u|3ex|1xl|9|Ciuari
+Giurtelecu Hododului|RO||8u|3nq|1s5|9|Ciurtelecul Hododului;Giurtelecul Hododului;Giurtelecul-Hodotului;Giurtelecu-Hododului
+Vatican City|VA||a1|38e|yl|8|Vatican;Vatikanstaden;Vaticano;Ciudad del Vaticano;Città del Vaticano;Vatikanstadt;Staat Vatikanstadt;Staat der Vatikanstadt;État de la Cité du Vatican;Vatikanas;Grad Vatikan;Vaticaan-Stad;Vatikán
+Ciudanoviţa|RO||8u|3he|1ok|8
+Ciuguzel|RO||8u|3kk|1ua|7
+Ciupelnița|RO||8u|3gk|20v|7
+Ciuturești|RO||8u|3lp|23c|7
+Ciuta|RO||8u|3hq|21o|7
+Ciudad Maya|MX||41|1ai|-778|7
+Ciurbești|RO||8u|3mu|24i|7
+Ciudad De Dios|PE||3o|-ka|-64s|7
+Ciudad del Sol|MX||3z|1i4|-6zy|6
+Ciureștii Noi|RO||8u|3k2|24s|6
+Ciurari-Deal|RO||8u|3ff|1yn|6
+Ciucani|RO|Bacău County|8u|3kt|22t|6|Csík
+Cieutat|FR||9k|3bs|l|5|Ciutat
+Ciungetu|RO||8u|3i3|1uj|5
+Ciurești|RO||8u|3k0|24s|5

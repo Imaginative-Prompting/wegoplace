@@ -1,0 +1,139 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Brasília|BR||4w|-17u|-3p5|h19|Braziljo;Brasiliopolis;Brazilija;Brazília;Brazíliaváros;Brazilėjė;Braxìlia;Brazilja;Bahsihleihya;Breselya
+Paris|FR||9k|3rp|6j|gi2|Lutèce;Ville-Lumière;Parizo;Parys;Paříž;Baris;Pariis;Pariisi;Páras;Párizs;Parigi;Paräis;Paries;Paryžius;Parīze;Parijs;Paryż;Pariggi;Pari;Paname;Pantruche;Paarys;Pa-ri;Parij;Parixe;Palika;Parighji;Baariis;Lutetia;Parigge;Bahliz;Pariižu
+Khartoum North|SD||r|17h|2id|7t6|Bahri;Khartum Nord;Sjeverni Kartum;Khartoum Nord;Jartum Norte
+Bahawalpur|PK||6q|29o|5j4|6z2
+Johor Bahru|MY||6v|43|808|6md|Johor Baharu;Džohor Baru;Sîn-sân-sṳ;Jahore Bahru;Johore Bharu;Johore Bahru;Johore Baru
+Bahçelievler|TR|Istanbul|94|35w|286|4g8
+Rahim Yar Khan|PK||6q|26y|5fa|3zm|Rahimyar Khan;Rahimjar Khan;Rahim Jar Ĥan;Rahimjarhan;Bahim Yar Khan
+Bahir Dar|ET||2|w7|2vv|2p8|Bahar Dar;Baher Dar;Bahyr Dar;Bahr Dar
+Baicheng|CN|Jilin|7i|3iq|9h7|2g2|Paj-čcheng;Bạch Thành;Băh-siàng;Pai-ch’eng
+Bahía Blanca|AR||1l|-2zk|-4sz|2b3|Bahija Blanka
+Baiyin|CN||7i|2tj|81d|29s|Băh-ngṳ̀ng;Paj-jin;Bạch Ngân;Pe̍h-gîn-chhī;Pai-yin
+Lal Bahadur Nagar|IN||6t|1c7|628|20s|Lalbahadur Nagar
+Bahawalnagar|PK|Punjab|6q|2bc|5nh|1v7|Bahawâlpur;Bahawatnagar
+Bahawalnagar|PK|Punjab|6q|2cv|5nv|1v7
+Kampong Baharu Cheras Batu Sebelas|MY||6v|8h|7up|1sh|Kampong Baharu Cheras Batu Sa-Belas
+Kuala Kubu Baharu|MY||6v|9w|7ue|1i0|Kuala Kubu;Kuala Kubu Bharu;Kuala Kubu Baru;Kuala Kubu Bahru
+Baishan|CN||7i|38i|9r6|1f3|Băh-săng;Paj-šan;Bạch Sơn;Pe̍k-san-chhī
+Bahraigh|IN||6t|24l|6an|1em|Bahraich;Baharaich
+Baharampur|IN||6t|1uy|6t5|1e5|Bahrāmpur
+Bahadurgarh|IN||6t|27p|5xq|1bg
+Baḥarkah|IQ||5z|2sw|3ec|109|Beḧirke;Bahirka;Bahirkah;Barkah;Bharka
+Mandi Bahauddin|PK||6q|2ij|5o5|101
+Baía Farta|AO||x|-z0|10o|ty|Bahia Farta
+Bahārestān|IR|Isfahan|7o|2i9|3zt|tk|Bahristān
+Al Bahah|SA||7e|1jl|377|ok|El Baha;Baha
+Montego Bay|JM||3i|1fb|-60g|n1|Bahía Montego;Montego Bėjus;Monteqo-Bey
+Bakhmut|UA||98|3qz|2xk|md|Artemovskiy;Artemowsk;Artëmovsk;Artemivs'k;Artemivsk;Artyomovsk;Bahmut;Bachmut;Bajmut;Bakhmout;Bachmoet;Baxmut
+Bayramaly|TM||5x|2wi|4sp|jk|Bairam Ali;Bayram-Ali;Bahrām Ali
+Baheri|IN||6t|27x|64u|hs
+Bahlā’|OM||72|1ru|4f6|f3|Bahlah
+Bäherden|TM||5x|2ys|4fj|ag|Baharli;Bexerden;Beherden;Bakharden;Baharly
+Bahía de Caráquez|EC||33|-1o|-67e|ab|Bahija de Karakesas;Bahia;Bahia de Caráques
+Bahādurganj|IN||6t|20y|6ry|aa
+Bahjoi|IN||6t|26w|62f|9e
+Bahārak|AF||6o|2us|5gz|92|Bakharak
+Bahau|MY||6v|7t|7wg|8p
+Bahār|IR|Hamadan Province|7o|2oz|3qk|7y
+Bah-Bah|PH||71|nx|9pr|7y
+Bakhchysaray|UA||9t|3gc|2m2|7m|Bachtschyssaraj;Bakczysaraj;Bakhchisaray;Bachtsjisaraj;Bahçesaray;Bachtjisaraj;Baĥĉisarajo;Bachtjysaraj;Bağçasaray;Bakhtchyssaraï;Bakhtchissaraï;Bajchisarái;Bajchysarái;Bachtsjysaraj;Bakhchysarai;Bahčisaraj;Bogʻchasaroy;Bakhehisaray
+Sant Antoni de Portmany|ES||9d|30a|3m|63|San Antonio;Bahia de San Antonio;San Antonio Abad
+Bobonong|BW||m|-1p1|270|5w|Bahonong
+Bahía Honda|CU||36|1rm|-6f0|5i
+Baoutifla|CI||0|k3|-hz|4x|Baboulifla;Baoulifla;Bahoulifla
+Bahé-Blaon|CI||0|ij|-ke|4s
+Bahula|IN||6t|1tp|6q4|4j
+Bahacheve|UA||98|3s5|2e9|4e|Vatoutiné;Bahatcheve;Vatutine;Bahačeve;Bağaçeve;Bahatschewe;Watutine;Bahaczewe
+Bāh|IN||6t|22n|62b|4a
+Bahçe|TR|Adana|94|2vc|2tm|3n
+Bahārān Shahr|IR||7o|2ib|3z6|35
+Bahsūma|IN||6t|294|60l|34
+Bahçelievler|TR|Ankara|94|32w|2j7|2y
+Bahua|IN||6t|1zs|67y|2u
+Bahay Pare|PH||71|15r|9bs|2p|Banay Pari;Banay Pare;Banay Par;Bahay Pary
+Bahía Solano|CO||27|hb|-5z0|2m|Ciudad de Mutis;Ciudad Mutis
+Bahābād|IR|Yazd Province|7o|2gj|4bm|2k|Būhābād;Mahābād;Behābād
+Bahçecik|TR||94|34z|2b3|2e
+Bahnemīr|IR||7o|2tv|42k|27|Beh Namīr
+Bahman|IR||7o|2en|41s|24
+Bahramtepe|AZ||61|32e|3p7|22|Bir May;Pervoye Maya
+Santa María Huatulco|MX||41|17z|-7fk|22|Huatulco;Santa María;Bahías de Huatulco
+Bahbari Gaon|IN||6t|24c|7ct|1w
+Bahía de Kino|MX||37|282|-8my|1p|Bahía Kino
+Bahārestān|IR|Bushehr|7o|25b|41f|1o|Do Lengeh
+Bahrāmpur|IN||6t|2h9|5tg|1i|Behrampur
+Bhamdoûn el Mhatta|LB||64|2lx|2r2|1e|Bhamdoun;Bahamdun
+Bahadurpur|IN||6t|20k|6mm|18
+Baherove|UA||9t|3i1|2su|17|Bagerovo;Baguerovo
+Bahate|UA||98|3i5|28e|14|Doluchioi;Ölü Köy
+Bahnea|RO||8u|3kt|1w0|12|Bachnea
+Bahiry|CI||0|kb|-iq|11
+Bahçeköy|TR|Istanbul|94|36e|28j|11
+Bahçesaray|TR||94|2xw|3aw|11|Bahcesara
+Bahna|RO|Neamț County|8u|3ly|22e|11
+Bahlingen|DE||8r|3po|li|11
+Bahati|KE||16|-f|2sf|w
+Bahreghān|IR||7o|2bx|40i|w|Bahr Khān;Barghān
+Baho|FR||9k|3am|7u|r|Baó
+Bahādor Bayk|IR||7o|2p3|3q7|r|Bahādor Beyg
+Bahía Tortugas|MX||3x|24x|-8v5|r|Puerto San Bartolomé;Bahía de Tortugas
+Bahay|PH||71|11m|9hs|p
+Bahşiş|TR||94|2ua|2ox|o
+Bahçelievler|TR|Ağrı|94|32d|3bl|o
+Bahnhof Reken|DE||8r|3zw|jk|n
+Baheli|PH||71|rt|95x|n
+Båtsfjord|NO||9j|5g7|2ak|m|Báhcavuotna
+Bahmanābād|IR||7o|2ca|40z|l|Mahjanābād
+Bahrdorf|DE||8r|41j|uk|l|Bahrdorp;Bårdorp
+Bakhchivandzhi|RU||9i|4b8|2xs|k|Bahchivandzhi
+Bahrāmābād|IR||7o|2qt|3ye|j
+Bahrs Scrub|AU||8c|-251|bth|j
+Báhoň|SK||8s|3q7|1ch|i
+Bahatyr|UA||98|3pc|2um|h|Bogatyr'
+Bahçelievler|TR|Kars Province|94|34s|3bs|h
+Bahon|HT||4j|1i3|-5kb|g|Bawon;Bohon
+Bahçelievler Mahallesi|TR||94|32u|3e8|f
+Bahía Asunción|MX||3x|23e|-8ti|f
+Bahrynivka|UA||98|3pa|203|f|Băhrinești;Bakhrineshti
+Bahābād|IR|Razavi Khorasan|7o|2nd|4j4|e|Behābād;Bahāābād
+Bahtılı|TR||94|2uh|2cx|d
+Bahrām|IR||7o|2yr|3j0|d|Bagram;Bairam
+Bahani|KM||ac|-wc|3c8|d
+Bahrenborstel|DE||8r|421|oh|d|Bahrenbostel
+Baħar iċ-Ċagħaq|MT||9e|2ru|145|d
+Bahna|UA||98|3py|1y3|c|Bagna
+Bahār|IR|Razavi Khorasan|7o|2t5|4ll|c
+Bahşılar|TR||94|2y8|336|c|Bahşiyan
+Bahçebaşı|TR|Kayseri|94|2ym|2ql|c
+Bahar|AZ||61|32d|3ol|b|Bagar
+Bahçedere|TR||94|2zs|3ag|b
+Baẖan|IL||6n|2hv|2pa|b
+Bahrāmīyeh|IR||7o|2tu|4fs|a
+Bahuang|CN||7i|250|8eu|a
+Bahçekonak|TR||94|366|2qq|a
+Bahitipla|CI||0|m1|-g4|9
+Bahābād|IR|Razavi Khorasan|7o|2tj|4km|9|Behābād
+Băhnășeni|RO||8u|3ld|21u|9
+Bahachivka|UA|Mykolaiv|98|3pa|2cv|8|Bahatchivka
+Bāhārchara|BD||6a|1lw|74c|8|Baharchhara
+Bahçebaşı|TR|Mardin|94|2v3|36j|8
+Bahçeköy|TR|Düzce|94|35e|2ec|8
+Bahosil|MX||41|1am|-75l|8
+Bahachivka|UA|Cherkasy|98|3s9|2ee|7
+Bahérémi|CI||0|l3|-b1|7
+Bahçeli|TR||94|30x|22i|7
+Bahārān|IR||7o|2it|3zv|7
+Bahibli|CI||0|j2|-jg|7
+Bahnari|RO||8u|3lk|258|6
+Bahçeköy|TR|Bingöl|94|30y|35n|6
+Bahnele|RO||8u|3is|228|6
+Bahrenfleth|DE||8r|45n|q8|6|Barenfleth
+Bahrynova Hora|UA||98|3vz|2cu|6
+Bahna|RO|Bacău County|8u|3kf|221|6
+Bahía de los Ángeles|MX||58|28f|-8rg|6
+Bahālnagar|BD||6a|1sl|6vs|6
+Baadala|CI||0|mi|-k7|6|Banadala;Bahadala
+Bahçe|TR|Diyarbakır Province|94|2xx|366|6|Sahti;Sahte;Sihti
+Bāḩashawān|YE||5r|18a|3rj|5|Bāḩishwān;Bā Ḩashawān
+Bahachka|UA||98|3uu|2yl|5|Bogachka

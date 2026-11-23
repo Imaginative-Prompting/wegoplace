@@ -1,0 +1,196 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Barranquilla|CO||27|uh|-5rq|9b3|Barankilija;Barranquilha;Barrankilya;Killa;Quilla;La Arenosa;Barankilijo
+Keelung|TW||7l|1xt|9e6|2sp|Chilung;Cơ Long;Kî-lùng-sṳ;Giĕ-lè̤ng;Ťi-lung;Ke-lâng-chhī;Chi-lung
+Quilmes|AR||1l|-2og|-4ht|20w|Kilmesas
+Kiel|DE||8r|46w|s5|1y7|Kilonia;Kilo;Kíl;Ķīle;Kylis;Kyle
+Kilamba|AO||x|-ol|10w|1tz
+Quillacollo|BO||3n|-1cb|-544|1bw|Kiljakoljas;Killaqullu;Kiljakoljo
+Killeen|US||2f|2eg|-7jh|134|Kilinas;Killean
+Kilis|TR||94|2u0|2v4|v0|Kilita
+Kilosa|TZ||h|-iz|2uq|pj|Kilossa
+Kilifi|KE||16|-a3|32p|kn
+Quillota|CL||4u|-2jc|-5hx|iu|Kiljota
+Kilju|KP||7a|35s|9z9|hp
+Kilmarnock|GB||9b|4ah|-ci|d2|Cill Mheàrnag;Cill Mheárnaig;Kilmarnokas;Cille Mheàrnaig;Kilmarnok
+Kilakarai|IN||6t|pn|62v|ao|Kilakari
+Killarney|CA|British Columbia|5b|3sr|-9hs|85
+Kilburn|GB|England|9b|3z7|-j|82
+Kilindoni|TZ||h|-lz|326|6i
+Kilkís|GR||8p|35v|1rj|6d|Kukuš
+Kilapavoor|IN||6t|or|5z3|66
+Kīl Bhuvanagiri|IN||6t|vs|659|64
+Kilkenny|IE||8z|429|-k5|60|Cill Chainnigh;Kilkenis;Keeill Chennee;Canicopolis
+Kilwa Masoko|TZ||h|-ot|31r|5z|Masoko
+Killannur|IN||6t|tg|5vq|5n
+Kiliya|UA||98|3i8|29a|5f|Kilia;Kiliïa;Kilija;Chilia-Nouă;Kili
+Killarney|BS||47|1xl|-5z2|4x
+Killingly Center|US||48|388|-5jn|4t|Killingly
+Ciudad Guadalupe Victoria|MX||58|2hp|-8vq|4r|Kilómetro Cuarenta y Tres
+Kilwinning|GB||9b|4al|-d3|4h|Cill Fhinnean
+Rakovski|BG||9v|39h|1xd|4e|General Nikolaevo;Kılıçlı
+Kīlattingal|IN||6t|o5|5xb|48
+Kilgore|US||2f|2hz|-7bk|45
+Kilquade|IE||8z|43i|-gw|45|Cill Chomhaid
+Killarney|IE||8z|40m|-qf|41|Cill Airne
+Killai|IN||6t|vt|65l|3s
+Kilinochchi|LK||68|q4|67c|3m|Killinochchi
+Kilsyth|AU||8j|-2x0|b7o|39
+Kilgoris|KE||16|-2t|2ow|30|Kilkoris
+Kilo|FI||92|4na|1wu|2y
+Killara|AU|New South Wales|8l|-2lt|bnw|2x
+Kilsyth|GB||9b|4bi|-ba|2r|Cill Saidhe;Kilsitas
+Killamarsh|GB||9b|444|-3o|2o
+Kilkunda|IN||6t|va|5wx|2h
+Kildare|IE||8z|43o|-j7|2e|Cill Dara;Kilderas;Keeill Darey
+Kilvelur|IN||6t|tx|65i|2b|Kīl Vālur
+Kilembe|UG||q|k|2bd|27
+Kilmore|AU||8j|-2vm|b6n|27
+Kil|SE||9w|4la|10z|24
+Ciudad Coahuila|MX||58|2hf|-8vg|24|Kilómetro Cincuenta y Siete
+Kilbirnie|GB||9b|4av|-d1|23|Cille Bhraonaidh
+Kolvānaq|IR||7o|2xu|3mj|23|Kalvānā;Kolvānag;Kilvana;Kolvānā
+Killarney Vale|AU||8l|-2ko|boq|1z
+Kill Devil Hills|US||48|2s3|-5u8|1z
+Kīlpuduppākkam|IN||6t|z8|64z|1x
+Kilchberg|CH||a7|3ng|nr|1t
+Kilkeel|GB||9b|466|-go|1s|Cill Chaoil
+Kilampadi|IN||6t|v4|608|1s
+Kilómetro 30|MX||41|1b8|-7p6|1r
+Kila Ambur|IN||6t|oc|5z0|1q
+Killingworth|US||48|36w|-5lk|1q
+Kilimatinde|TZ||h|-g9|2p3|1o
+Kil’mez’|RU||97|4e6|3xu|1o
+Kilbride|CA||50|3nz|-42k|1n
+Kilkenny|CA||2s|44x|-8r5|1l
+Kilburn|GB|England|9b|439|-40|1k|Kilbourne;Kilbourn
+Kilcock|IE||8z|44c|-ij|1j|Cill Choca;Kilkokas
+Kilburn|AU||8b|-2ou|aoz|1i
+Kīlvayattanānkuppam|IN||6t|100|63f|1h
+Killester|IE||8z|449|-h8|1f|Cill Easra
+Kilbirnie|NZ||ak|-36s|dhk|1d
+Killarney Heights|AU||8l|-2lt|bo2|18
+Kilcoole|IE||8z|43i|-gu|16|Cill Chomhghaill
+Kildeer|US||2f|395|-6sl|14
+Kilmacolm|GB||9b|4b9|-cv|14
+Killarney|CA|Alberta|2s|44v|-8r8|14
+Kilimoukro|CI||0|ik|-c0|14
+Kiltan|IN||6t|vx|5ms|13
+Kilemary|RU||9i|4dq|3m6|13
+Kilcullen|IE||8z|43l|-iq|11|Cill Chuillinn
+Kilbarchan|GB||9b|4b4|-cn|10|Cill Bhearchain
+Kill|IE||8z|43x|-ib|x|An Chill
+Kilim|PH||71|tr|9mo|x
+Kilmanagh|US||2q|3dk|-6fk|t
+Kilsyth South|AU||8j|-2x2|b7o|t
+Kīlān|IR||7o|2qr|40x|t|Kilun
+Kīlauea|US||ax|1pp|-cat|s
+Kilmaurs|GB||9b|4ak|-cl|s|Cille Mhára
+Kilrush|IE||8z|428|-qd|r|Cill Rois
+Kildare|CA||2s|44w|-8r6|r
+Killyleagh|GB||9b|474|-fp|q|Cill Ó Laoch
+Kilifarevo|BG||9v|3be|1z7|p|Kilifarewo
+Kiloloran|PH||71|14o|9dt|p|Kiloloron;Kilolorum
+Kılavuz|TR||94|2w4|382|p
+Nuevo Progreso|MX|Veracruz|41|1la|-7iv|o|Kilómetro Doce;Kilómetro 12
+Killarney|CA|Manitoba|5d|3sm|-7ou|o
+Kılıçlı|TR||94|2v0|2qh|n
+Kilchberg / Kilchberg (Dorfkern)|CH||a7|3ng|nq|m
+Kiln|US||2f|2ch|-6wg|m
+Killorglin|IE||8z|40q|-r6|m|Cill Orglan;Kilorglinas
+Kilstett|FR||9k|3r8|lt|k
+Kilmia|YE||5r|xv|413|k
+Kilgetty|GB||9b|3zp|-d4|k|Cilgeti
+Kılıçkaya|TR||94|2x0|335|k
+Kilcoy|AU||8c|-22u|brt|j
+Killwangen|CH||a7|3nr|n7|i
+Kilmallock|IE||8z|41k|-nu|h|Cill Mocheallóg;Kilmailock
+Kilingi-Nõmme|EE||9x|4hj|1xc|h|Kilingi-Nymme;Kilingi-Nemme;Killingi-Nymme
+Killearn|GB||9b|4bo|-c5|h
+Kilkenny|AU||8b|-2ow|aov|g
+Kilrea|GB||9b|48n|-i8|g|Cill Ria
+Kiili|EE||9x|4kr|1x0|g|Kili
+Kılbasan|TR||94|2vo|2k7|g
+Killaloe|IE||8z|42p|-ng|f|Cill Dalua;Kiljaloė;Killaloa
+Kılçak|TR||94|36d|2f6|f
+Kilmarnock|US||48|2wr|-5w6|e
+Kilaben Bay|AU||8l|-2jq|bp3|e
+Killucan|IE||8z|44n|-ju|e|Cill Liúcainne
+Killian|US||2f|2cc|-6zn|d
+Kilcreggan|GB||9b|4bi|-de|d|Cille Chreagain
+Kilbeggan|IE||8z|449|-ku|d|Cill Bheagáin;Kilbeganas
+Kilpedder|IE||8z|43j|-gz|d|Cill Pheadair
+Killdeer|US||2p|3nl|-7xf|d
+Killybegs|IE||8z|47r|-nh|c|Na Cealla Beaga;Na Ceala Beaga
+Kilb|AT||a2|3pm|16t|c
+Kilkee|IE||8z|42c|-qs|c|Cill Chaoi;Kilkė
+Kilafors|SE||9w|4q3|1a1|c
+Kilsby|GB||9b|41d|-3a|c
+Manlio Fabio Altamirano|MX|Veracruz|41|1ln|-7ic|c|Magio Fario Altamirano;Kilómetro 25
+Kilchberg / Bächler-Stocken|CH||a7|3nh|nq|b
+Killumney|IE||8z|403|-o1|b|Cill na hOmnaí
+Miguel Hidalgo|MX|Veracruz|41|1l3|-7iu|b|Kilómetro Diecisiete;Kilómetro 17
+Kilómetro Noventa y Nueve|MX||2g|265|-85a|b|Kilómetro Noventinueve
+Kilómetro 40|MX||41|1bd|-7p5|b
+Kyllíni|GR||8p|2xe|1mr|b|Killíni;Kylíni
+Kiltamagh|IE||8z|45l|-p0|b|Coillte Mach;Kiltimagh
+Killam|CA||2s|42m|-8mp|b
+Kilworth|IE||8z|40y|-mw|b|Cill Uird
+Kyllburg|DE||8r|3v0|ib|b|Killburg
+Estación Pescaderos|MX||58|2hr|-8vu|b|Kilómetro Treinta y Nueve
+Killem|FR||9k|3xk|74|a
+Kilmacanoge|IE||8z|43p|-h1|a|Cill Mocheanóg;Kilmacanogue
+Quilly|FR||9k|3nu|-5f|a|Killig
+Killik|TR||94|2vb|2d7|a
+Kilmeage|IE||8z|43x|-j0|a|Cill Maodhóg
+Killen|US||2f|2ou|-6r6|a
+Kilder|NL||8m|40a|hb|a
+Kilham|GB||9b|466|-12|a
+Kilcormac|IE||8z|43p|-lh|9|Cill Chormaic
+Killarney|AU||8c|-26p|br1|9
+Kil|NO||9j|4jl|pu|9
+Killeagh|IE||8z|40a|-m8|9|Cill Ia;Calebachus;Kileagas
+Kılıç|TR|Yalova|94|34v|29n|9|Kılınç
+Kilmacthomas|IE||8z|411|-kn|9|Coill Mhic Thomáisín;Kilmactomas
+Kilómetro 42 (Juan N. Álvarez)|MX||41|1be|-7p4|9
+Kilkhampton|GB||9b|3xc|-cg|9
+Kilchberg / Schwanden|CH||a7|3ng|nr|9
+Killbuck|US||48|34i|-6bq|8|Kill Buck
+Kilómetro 26 (Las Panguitas)|MX||3x|1zw|-8e8|8
+Kilmington|GB||9b|3x2|-8g|8
+Kilsheelan|IE||8z|41g|-l2|8|Cill Síoláin
+Killona|US||2f|2bd|-6zc|8
+Cill Fhíonáin|IE||8z|41g|-nj|8|Kilfinane
+Kilfinnane|IE||8z|41g|-nj|8|Cill Fhíonáin
+Klawock|US||3j|4ab|-a9q|8|Klawak;Kilawak;Kiawak;Khlawak;Klawook;Lawak;Kliawak;Klawok
+Kilmacrenan|IE||8z|48v|-lm|8|Cill Mhic Réanáin;Cill Mhic nÉanáin;Kilmakrenanas;Kilmacrennan
+Kilkivan|AU||8c|-20h|bqv|7
+Kilmuckridge|IE||8z|41v|-hg|7|Cill Mhucraise;Ford
+Killin|GB||9b|4cv|-c0|7|Cill Fhinn
+Killcare Heights|AU||8l|-2l4|boh|7
+Kilchberg / Hornhalden|CH||a7|3nh|nq|7
+Killinaboy|IE||8z|435|-p8|7|Cill Iníne Baoith;Kilnaboy
+Aire Libre|MX|Veracruz|41|1lu|-7ic|7|Kilómetro 15;Kilómetro Quince;El Kilómetro Quince
+Kilómetro Treinta y Tres (Paso Real)|MX||41|1m2|-7j3|7
+Killingworth|AU||8l|-2jh|bp0|7
+Kilcornan|IE||8z|426|-oo|7|Cill Churnáin
+Kilconnell|IE||8z|445|-nb|7|Cill Chonaill
+Kildalkey|IE||8z|44t|-j6|7|Cill Dealga
+Kilmessan|IE||8z|44s|-ii|7|Cill Mheasáin
+Killenaule|IE||8z|421|-lb|7|Cill Náile
+Kilmacow|IE||8z|41c|-jy|6|Cill Mhic Bhúith
+Killenard|IE||8z|43l|-jv|6|Coill an Aird
+Killygordon|IE||8z|488|-lc|6|Cúil na gCuirridín;Killygordan
+Killara|AU|Victoria|8j|-2se|bc7|6
+Glanworth|IE||8z|40z|-n8|6|Gleannúir;Kilvortas
+Kili|MH||b2|fo|d1s|6
+Kilmichael|US||2f|2kw|-6wt|6
+Killeberg|SE||9w|4cw|136|6
+Kilrane|IE||8z|414|-ho|6|Cill Ruáin
+Kildrum|IE||8z|48q|-kl|6|Cúl Droma
+Killala|IE||8z|46l|-pm|6|Cill Ala
+Kilkishen|IE||8z|42p|-ob|6|Cill Chisín
+Kilchberg / Bendlikon|CH||a7|3ng|nr|6
+Kilakro|CI||0|ll|-cp|5
+Kılıç|TR|Batman|94|2ws|36y|5
+Kilómetro 19|MX||3x|201|-8ed|5

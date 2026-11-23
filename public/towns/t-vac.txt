@@ -1,0 +1,36 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vacoas|MU||ag|-1ke|4fo|w1|Vacoa
+Vacaville|US||3p|2yk|-9ev|qw
+Vacaria|BR||4w|-277|-3xh|hu|Vaccaria
+Vác|HU||8v|3oq|1h6|9b|Waitzen
+Văcăreşti|RO|Dâmbovița County|8u|3gl|1ys|26
+Vacha|RU||9i|4b0|3at|1u|Vatsja
+Vashkivtsi|UA|Chernivtsi|98|3qe|1yw|1h|Vășcăuți;Vachkivtsi;Vashkoutsi;Vashkovtsy
+Vacha|DE||8r|3x7|ru|13
+Vashkivtsi|UA|Chernivtsi|98|3qh|23d|11|Vachkivtsi;Văscăuţi
+Văcăreni|RO||8u|3hw|26c|n
+Văculeşti|RO||8u|3p0|21e|m
+Vacenovice|CZ||9m|3rz|1bp|m
+Václavovice|CZ||9m|3u8|1f1|l
+Vácszentlászló|HU||8v|3o5|1ia|l
+Vachendorf|DE||8r|3ow|z1|i
+Vacon|FR||9k|3r7|fk|g
+Vacov|CZ||9m|3si|125|e
+Vacquiers|FR||9k|3dm|44|c
+Vacqueyras|FR||9k|3em|du|b|Vacquevras
+Vaccheria|IT||9o|3g9|mc|b
+Vacchereccia|IT||9o|3d0|vy|a
+Vaccarizzo Albanese|IT||9o|31z|19n|a|Vakarici
+Vacil|IT||9o|3iz|y7|a
+Väckelsång|SE||9w|4db|15g|a
+Vaccarizzo-Delfino|IT||9o|2vt|15w|9
+Vachdorf|DE||8r|3wd|ta|8
+Vaccarino|IT||9o|3if|wv|8
+Văcăreasca|RO||8u|3gl|229|8
+Vachi|RU||9i|38v|3n5|7|Vatsji
+Vacheresse|FR||9k|3kp|ij|7
+Văcărești|RO|Teleorman County|8u|3el|1xi|7
+Vacy|AU||8l|-2id|bp1|7
+Văcarea|RO|Arges|8u|3hb|1xl|7
+Văcărești|RO|Harghita County|8u|3l3|1zo|6
+Văcarea|RO|Gorj County|8u|3gx|1sq|5

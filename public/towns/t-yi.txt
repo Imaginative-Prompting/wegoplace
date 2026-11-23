@@ -1,0 +1,102 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Yinchuan|CN||7i|2yv|877|m27|Thành phố Ngân Xuyên;Ngân Xuyên;Jin-čchuan;Inčuanas;Gîn-chhoan-chhī;Ngṳ̀ng-chiŏng;Yinzconh;Jinčuan
+Yiwu|CN||7i|29g|99k|bfi|I-wu
+Yichang|CN||7i|2db|8l4|af2|Nghi Xương;Jiĉang;I-čchang;Ngì-chiŏng;Ičan;Gî-chhiong-chhī;I-chang;Ichang
+Yixing|CN||7i|2f4|98u|9x6
+Yerevan|AM||80|33m|3fn|8tz|Jerewan;Ereván;Jerevan;Erevano;Iereván;Êrîvan;Erywań;Jerevanas;Yiriwan;Jerjewan;Jerevani;Eireaván;Erevāna;Erevanum;Eriwan;Djerevan;Revan;Iravan;Erewan
+Yichun|CN|Jiangxi|7i|25b|8ts|82k|I-čchun;Nghi Xuân;Ngì-chŭng;Nî-chhûn-sṳ;Gî-chhun-chhī;I-ch’un
+Yishui|CN||7i|2re|95j|7rr|I-shui
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Yibin|CN||7i|27w|82o|6gb|Nghi Tân;Ngì-bĭng;Gî-pin-chhī
+Ipoh|MY||6v|cq|7ss|5v4|Yî-pó-sṳ
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Yingkou|CN||7i|34y|9fj|4k8|Eiko;Newchwang;Yingkow
+Ghulja|CN||7t|3e0|69w|22s|Yining
+Yishun New Town|SG||7j|3z|80f|1rj
+Yintai|CN||7i|2pk|8f2|1of
+Yingtan|CN||7i|26f|910|1ni|Ĭng-tàng;Jing-tchan;Yîn-thâm-sṳ;Ưng Đàm;Eng-thâm-chhī
+Yizhou|CN||7i|1w2|8dv|17b
+Yichun|CN|Heilongjiang|7i|3ok|9y0|17a|I-čchun;Y Xuân;Ĭ-chŭng;I-chhun-chhī
+Yima|CN||7i|2oi|8ms|152|I-ma
+Jijel|DZ||3|2ua|g0|10j|Gíger;Džidželis;Igilgili;Dżidżili;Yiyel;Cical
+Yidu|CN||7i|2u5|94y|t7
+Yilan|TW||7l|1ws|9e7|q6|Ilan;Ngì-làn-sṳ;Jilanas;Nghi Lan;Gî-lân-chhī;I-lan
+Yingqiu|CN||7i|2th|96j|pq
+Yingge|TW||7l|1xc|9d3|of|Yîn-kô-khî;Jingė;Oanh Ca;Eng-ko-khu
+Yinma|CN||7i|2tu|97u|nb
+Yirga ‘Alem|ET||2|ir|2yq|mo|Irgalem;Yirgalem
+Yingjiang|CN||7i|1wn|7k2|md|Ying-chiang
+Yishan|CN||7i|2sm|95q|ls
+Yinzhu|CN||7i|2ro|99a|l1
+Yilan|CN||7i|3ko|9zw|js|I-lan
+Yingshang Chengguanzhen|CN||7i|2in|8yz|h6
+Yicheng|CN||7i|2g2|8nu|gy|I-ch’eng
+Yigou|CN||7i|2rh|8tk|gf
+Yingli|CN||7i|2uz|961|fv
+Yinggen|CN||7i|1gw|8h4|bm|Ying-ken
+Yirga Ch’efē|ET||2|h5|2y4|ba|Yrga Chafe
+Yingpan|CN||7i|21h|7nf|ae
+Yihe|CN|Chongqing|7i|2am|89u|ae
+Yizhuang|CN||7i|2mw|92n|9q
+Yishikuli|CN||7t|2yx|5yg|8b
+Yio Chu Kang|SG||7j|3v|80h|7w
+Yinqiao Zhen|CN||7i|1zj|7q4|7s
+Yitang|CN||7i|2n6|93h|7s
+Giannitsá|GR||8p|35b|1q9|7q|Yannitsa;Yiannitsá
+Yigai'erqi|CN||7t|2yi|5z7|7i|Yigaiqi
+Yihe|CN|Chongqing|7i|2ek|8c8|7b
+Ying’awati|CN||7t|2vm|65r|6k
+Yigo Village|GU||aw|11m|b6h|5p
+Yisilamu'awati|CN||7t|2we|66q|5i
+Discovery Bay|HK||6i|1py|8sq|5d|Yî-kín-vân
+Yinping|CN||7i|2cu|8au|56
+Yirkā|IL||6n|2jj|2pt|4s|Yarka
+Yiu Tung Estate|HK||6i|1pw|8ta|47
+Yinxingshu|CN||7i|2lw|86k|44
+Yiju|CN||7i|288|8dn|3s
+Yıldızlı|TR||94|35w|321|3q
+Ierápetra|GR||8p|2p9|1zi|3g|Yerapetra;Yirápetra;Ierapitna
+Giánnouli|GR||8p|327|1q8|3f|Yiánnouli
+Yirol|SS||p|i7|2cq|39
+Yingye'er|CN||7t|2vt|65m|37
+Yingwusitang|CN||7t|2yf|5yj|2y
+Ying'airike|CN||7t|2vh|65y|2v
+Jõhvi|EE||9x|4kw|246|2t|Jehvis;Jehvi;Yıhvi;Jechvi;Iohvi;Jöhwi
+Yingkiong|IN||6t|27h|7c1|1t
+Yıldızeli|TR||94|32r|2to|1s|Yenihan;Norxan
+Jõgeva|EE||9x|4j7|21b|1s|Jegeva;Yıgeva;Yogeva;Yygeva
+Yingwusitangcun|CN||7t|2y2|6la|1q
+Yizhivtsi|UA||98|3pf|1z9|1o
+Yıldız|TR|Istanbul|94|361|28m|1i
+Yingdu|CN||7i|1xd|94g|1e|Ying-tu
+Yiwa|CN||7i|2mu|7yl|1b
+Yinglin|CN||7i|1wf|95e|16
+Yiğitçavuş|TR||94|2xe|33y|n|Yiğit Çavuş;İrincil;İrincik
+Yılanlı|TR||94|31t|3e8|m
+Yimnón|GR||8p|2ys|1uc|k|Gymno
+Yesud HaMa‘ala|IL||6n|2ju|2qx|h|Yisud HaMa‘ale;Yesud Ham Ma‘alā
+Yiẕhar|PS||6n|2hd|2pw|g|Jic'har;Yitzhar;Jitzhar
+Yıprak|TR||94|2yh|2cm|g
+Yığınlı|TR||94|2ve|2vg|e
+Yif‘at|IL||6n|2is|2pu|d
+Yibeljoj|MX||41|1b4|-74y|d
+Yinnon|IL||6n|2g6|2om|d|Jinon;Yinon;Yenon
+Yıllarca|TR||94|2wu|33i|c
+Yılmazköy|TR||94|2x6|25h|a
+Yinliu|CN||7i|332|924|a
+Yitic|MX||41|1au|-75b|9|Yictic
+Yinfeng|CN||7i|1qs|8s8|9
+Gialós|GR||8p|2pw|1tn|9|Yialós
+Yinnar|AU||8j|-2yg|bah|9
+Yirrkala|AU||8e|-y1|ak9|9|Yirkala;Yirr Kala
+Yish‘i|IL||6n|2g7|2p5|8
+Yinnar South|AU||8j|-2ym|bam|7
+Yizre‘el|IL||6n|2ig|2q4|6|Yizra‘ēl;Yezre‘el;Yizr‘el
+Yiğityolu|TR||94|2x7|32s|6
+Yiftaẖ|IL||6n|2k1|2qr|6
+Giannádes|GR||8p|323|1iw|6|Yiannádhes
+Gymnótopos|GR||8p|315|1m2|6|Yimnótopos
+Giáltra|GR||8p|2zy|1ru|5|Yiáltra
+Yıldız|TR|Şanlıurfa|94|2um|2yp|5|Yildyz

@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mumbai|IN||6t|1gz|5mg|2pxi|Moembaai;Bombaj;Mumbajo;Bombaya;Bombay;Bombėjus;Mumbaja;Mumbay;Mumbaj;Bombaim;Mumbajus;Bombai;Dakbayan sa Bombay;Bůmbaj;mymbais;Numbai
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Nanjing|CN||7i|2h2|95y|1zvf|Nanking;Nankín;Nanchino;Nandžing;Nankinas;Naņdzjina;Nanchinum;Namkin;Nankingo;Nam Kinh;Nanquin;Nanquim;Nàng-gĭng;Nàm-kîn-sṳ;Nanzging;Nankijn;Nan-ching
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Nanning|CN||7i|1re|8cw|1a4c|Nam Ninh;Nan-ning;Naningas;Naningo;Nàm-nèn-sṳ;Namzningz;Lâm-lêng-chhī;Nàng-nìng;Naņnina;Nannin;Nanninq;Yung-ning
+Yangon|MM||7y|1ap|7f4|yjs|Rangun;Rangoon;Rangoun;Rangūnas;Rangum;Jangona;Jangono;Ngióng-kông;Jangún;Rangon;Yanqon;Jangon;Yangjgvangh;Yankoun
+Nairobi|KE||16|-3k|2ua|xxf|Najrobio;Najrobo;Nayrobi;Nayroobi;Nairoby;Nai-lo̍k-pí;Nayrubi;Nairóvi;Najrobi;Nayiiroobii;Nairoba
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+New Territories|HK||6i|1qa|8sz|uqp|New Territory Hong Kong
+Addis Ababa|ET||2|p2|2zn|ts8|Ādīs Ābeba;Adis-Abebo;Addis Abeba;Addis-Abeba;Addisz-Abeba;Neanthopolis;Adisabeba;Adis Ababa;Tungga;Addisaaba;Addis Abbaba
+Ningbo|CN||7i|2b0|9dn|ssg|Nèn-pô-sṳ;Ninh Ba;Lêng-pho-chhī;Ninbo;Nìng-pŏ̤;Ningpo
+Nanhai|CN||7i|1ry|8qa|sao
+Incheon|KR||7h|2w2|9rz|n9n|Inch'ŏn;Inchon;Nhân Xuyên;Inčhona;Inčchon;Incshon;Inĉono;Inčonas;Chemulpo;Inčon;İnçxon
+Yinchuan|CN||7i|2yv|877|m27|Thành phố Ngân Xuyên;Ngân Xuyên;Jin-čchuan;Inčuanas;Gîn-chhoan-chhī;Ngṳ̀ng-chiŏng;Yinzconh;Jinčuan
+Dakar|SN||g|14t|-1cg|kf5|Dacar;Ndakaaru;Dakaa
+Navi Mumbai|IN||6t|1gw|5mu|k28|New Bombay;Navi Moembaai;Novmumbajo;Nova Bombaim;Navi Mumbaj
+Nagpur|IN||6t|1mr|63o|ik9
+Nanchang|CN||7i|27o|8xt|i6y|Nam Xương;Nančangas;Nan-čchang;Nanĉano;Lâm-chhiong-chhī;Nàng-chiŏng;Nàm-chhông-sṳ;Nancsang;Nancianga;Naņčana;Nanzcangh;Nançan;Nančang
+Nagoya|JP||7q|2pq|akb|hzu|Nagoja;Nagojo;Nagoia;Naqoya
+Nantong|CN|Jiangsu|7i|2gz|9br|hjh|Nentung shehiri;Nan-tchung;Nam Thông;Lâm-thong-chhī;Nàng-tŭng;Nan-t’ung
+Accra|GH||1|fg|-k|f5d|Akrao;Akra;Acra;Akkra;Nkran;Aakrá;Akara;Akkr
+Nanchong|CN||7i|2dk|86o|ecd|Nan-čchung;Nam Sung;Lâm-chhiong-chhī;Nàng-chṳ̆ng;Nan’chun;Nan-ch’ung
+Nanyang|CN|Henan|7i|2jp|8on|dza|Nam Dương;Nan-jang;Nenyang shehiri;Nanyan;Nàng-iòng;Lâm-iông-chhī
+Bayan Nur|CN||7i|356|8ab|dkw
+Novosibirsk|RU||75|48u|6ed|cg0|Novo-Nikolaevsk;Novonikolayevsk;Nowosibirsk;Novossibirsk;Nowosybirsk;Novoszibirszk;Novosibirscum;Nowosibirski;Novo-Nikolaïevsk
+Phnom Penh|KH||78|w4|83g|c53|Phnum Pénh;Nom Pen;Pnompenis;Phnom-Penh;Phnompenh;Pnom Penh;Pnom Pene;Phon Phen;Phnum Pény;Phnompen;Pnom Pen;Pnompeņa;Pnompeno;Pnompen;Phnom Pen
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+Astana|KZ||5s|3y6|5ih|bwx|Tselinograd;Astano;Asztana;Nur-Sultan;Akmolinsk;Nour-Soultan;Nur-Sultano;Noer-Soeltan
+Manhattan|US|New York|48|35a|-5ph|bh7|nyc;Manhatano;Mannahattan;Manatans
+Nashik|IN||6t|1jk|5oz|bgt|Nasik;Nasiko;Našikas;Nászik
+Najafgarh|IN||6t|27h|5xu|aj6|Najfargharh;Najafgarli
+N'Djamena|TD||17|xn|15s|ahn|Nĝameno;Ndjamena;Ndżamena;Yamena;Indschamina;Ndjemena
+Yichang|CN||7i|2db|8l4|af2|Nghi Xương;Jiĉang;I-čchang;Ngì-chiŏng;Ičan;Gî-chhiong-chhī;I-chang;Ichang
+Niamey|NE||18|11j|5v|a7p|Niamėjus;Niameja;Niamei;Niameo;Niamè
+Da Nang|VN||6h|18n|8cm|9ug|Danang;Thành Thái Phien
+Belgrade|RS||8q|3gg|1kv|9tt|Belgrad;Belgrado;Belgráu;Beograd;Bělehrad;Beogrado;Belgradas;Belgrada;Beogradi;Belgradu;Belogradum;Běłohród;Nándorfehérvár;Belqrad
+Nizhniy Novgorod|RU||9i|4ch|3e8|9pq|Nizjnij Novgorod;Nizhny Novgorod;Nischni Nowgorod;Nijni Novgorod;Gorkij;Nižni Novgorod;Nyizsnyij Novgorod;Nizhni Nóvgorod;Nizhni Novqorod;Nishni-Nowgorod;Gorkii;Nižnij Nowgorod;Gor'kiy;Nishnii Nowgorod;Gorki;Nizhnii Novgorod;Nishnij Nowgorod;Nijnii Novgorod
+Neijiang|CN||7i|2a6|83u|9nj|Nô̤i-gĕ̤ng;Nej-ťiang;Nejĝjan;Nui-kông-sṳ;Nội Giang;Lāi-kang-chhī;Neikiang;Nei-chiang
+Nowrangapur|IN||6t|1hf|6db|9f5|Nowrangpur

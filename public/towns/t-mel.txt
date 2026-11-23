@@ -1,0 +1,283 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Melbourne|AU||8j|-2x1|b6o|15xw|Melburno;Melbournum;Melburnas;Melburna;Melben;Melborns;Melburn
+Malatya|TR||94|2yj|2yg|5sh|Meletî;Malatija;Malatja;Meletiye;Malatia;Malatiyah
+Malacca|MY||6v|64|7w0|4gu|Malakka;Malaca;Melaka;Malaka
+Beni Mellal|MA||d|2hu|-hn|1mg|Béni-Mellal;Beni Melal;Ayt Mellal;Beni Melalis;Bani Mallal
+Ait Melloul|MA||d|2ca|-qe|1g5
+Melitopol|UA||98|3m5|2qa|15d|Kyzyl-Yar;Novoalexandrovka;Qız Yar
+Malindi|KE||16|-8y|33g|xb|Melinde
+Taman Melawati|MY||6v|8x|7un|rl|Melawati;Taman Malawati;Malawati
+Melilla|ES||e|2q1|-86|nw|Melilo;Meliya;Melila;Melilya;M'lila
+Melbourne|US|Florida|48|260|-67x|nj
+Melong|CM||j|e8|ro|lb
+Melati|ID||6l|-lh|8il|in|Mlati
+Meleuz|RU||7z|434|4bd|i6|Meleus;Meleouz;Mieleuz
+Melipilla|CL||4u|-2ll|-5hu|hj|Mellipilla
+Melbourne City Centre|AU||8j|-2x2|b6p|gp|Melbourne CBD;Melbourne central business district
+Mielec|PL||a5|3vp|1ni|gj|Meleca;Melecas
+Mölndal|SE||9w|4g6|xd|gi|Miolndalas;Mēlndala
+Malārd|IR||7o|2r3|3xm|fr|Melārd;Malār
+Melo|UY||45|-2hx|-46g|fk|Melas
+Meaux|FR||9k|3s0|80|ey|Meldis
+Mellit|SD||r|139|1yz|dy|Millit
+Melle|DE||8r|410|n6|cw
+Melmadai|IN||6t|rl|613|c6
+Melur|IN||6t|rv|61m|b4
+Melun|FR||9k|3qv|7d|au|Melodunum
+Melchor Ocampo|MX|México|41|1ir|-7ne|aq
+Melito di Napoli|IT||9o|35o|13j|a9|Melito 'e Napule
+Mellunkylä|FI||92|4nb|1xq|a4|Mellungsby
+Marghera|IT||9o|3i9|xy|7y|Melica
+Melrose|US|Massachusetts|48|39y|-5hf|7s
+Lovech|BG||9v|3bt|1wo|7r|Lovetsj;Lovetj;Loveĉ;Lovetš;Melta;Lovečas;Loveci;Lofça;Łowecz;Lovetch;Lowetsch;Lovča
+Melgaço|BR||23|-50|-3wv|7r
+Melton Mowbray|GB||9b|42l|-2h|7p
+Melgar|CO||27|bo|-5rc|78
+Melouza|DZ||3|2ry|bn|75|Melouda
+Melrose Park|US|Illinois|2f|38e|-6s2|72
+Melíssia|GR||8p|2xp|1u7|6b
+Melrose|US|New York|48|35e|-5pb|69
+Mělník|CZ||9m|3vv|147|5n
+Melksham|GB||9b|3yp|-5y|5e
+Melville|US|New York|48|35b|-5ny|5a
+Mauguio|FR||9k|3d6|b5|53|Condado de Melguelh;Mauguòu;Melgorium
+Melzo|IT||9o|3ie|q6|50
+Mölnlycke|SE||9w|4g6|xo|4w|Miolnlīkė;Molnlica;Miolnliukė;Mēlnlike
+Melegnano|IT||9o|3i0|pw|4n|Marignan;Marignano
+Melenki|RU||9i|49q|37n|4f|Mjelenki;Melenkad;Mielenki
+Melsungen|DE||8r|3y1|qj|3w
+Melkbosstrand|ZA||o|-2lp|1f8|3r|Melkboschstrand
+Melfi|IT||9o|35w|17i|3n
+Melfi|TD||17|uq|1du|3l
+South Melbourne|AU||8j|-2x3|b6p|37|Melbourne South
+Melchor de Mencos|GT||32|1bf|-6vn|37|Melchor Mencos
+Mellieħa|MT||9e|2rw|13w|36
+Melton South|AU||8j|-2wr|b5l|36
+Melsele|BE||8t|3ya|bw|31
+Melle|BE||8t|3xo|al|2z
+Melchendorf|DE||8r|3xj|ur|2y
+Melvindale|US||2q|39g|-6f2|2w
+Meliana|ES||9d|31t|-x|2w
+Melres|PT||99|363|-nc|2v
+Mel’nikovo|RU||7r|4d4|6hk|2u|Melnikovo;Mel’nikova
+Melito di Porto Salvo|IT||9o|2xd|17r|2p|Melito Porto Salvo
+Melmoth|ZA||o|-27f|2f8|2m
+Mellunmäki|FI||92|4nc|1xs|2l|Mellungsbacka
+Mīlājerd|IR||7o|2o6|3sp|2l|Melājerd;Mīlājīrd
+Meltham Mills|GB||9b|44v|-54|2i
+Melton West|AU||8j|-2wo|b5l|2g
+Meythet|FR||9k|3jk|gx|2d|Melitetum;Meithet
+Mel Seval|IN||6t|o3|5zl|2c
+Milattūr|IN||6t|u6|644|29|Melattur
+Melqa el Ouidane|MA||d|2o0|-8e|28|Melga el Ouidane;Melg el Ouidane;Melqu-el-Ouidane
+Melton|AU||8j|-2wo|b5n|28
+Meltham|GB||9b|44v|-55|26
+Meldorf|DE||8r|469|p7|25|Meldörp
+Melenci|RS||8q|3ig|1kg|25|Melencze
+San Patricio|MX||41|1hf|-82u|24|Melaque
+Melrose Park|US|Florida|48|20j|-66r|23
+Melissa|US||2f|2kh|-7g9|22
+Melissano|IT||9o|331|1ec|20
+Meldola|IT||9o|3el|xi|1y
+Meleiro|BR||4w|-283|-3tw|1y
+Melloulèche|TN||1e|2pp|uo|1x|Mellounêche;Meliounèche;Melloulech
+Melekhovo|RU||9i|4cc|36p|1x|Melekhova
+Mel Pattāmbākkam|IN||6t|wr|657|1x
+Malkā|JO||5t|2is|2rb|1x|Melka;Malqá
+Melilli|IT||9o|2va|161|1u|Miliddi
+Mesudiye|TR||94|34d|2wx|1u|Milas;Melet
+Melendugno|IT||9o|33v|1ey|1s
+Melhus|NO||9j|4vt|sk|1s
+Melíki|GR||8p|34k|1q8|1s
+Mali|GN||f|xk|-y6|1r|Meli
+Mellrichstadt|DE||8r|3w3|sm|1r
+East Melbourne|AU||8j|-2x2|b6r|1q|Melbourne East
+Melfort|CA||4q|42v|-82m|1m
+Melor|MY||6v|gl|7w5|1m|Melur
+Mélykút|HU||8v|3ke|1hu|1m
+Melpedu|IN||6t|10k|66c|1l
+Melesse|FR||9k|3py|-4q|1l|Meled;Melecia
+West Melbourne|AU||8j|-2x1|b6n|1k|Melbourne West
+Melville|AU||8k|-2h0|8xo|1k
+Melbourn|GB||9b|40o|2|1b|Melborn
+Melchor Ocampo|MX|Hidalgo|41|1je|-7nt|1b
+Melicucco|IT||9o|2yr|18m|1a
+Melineşti|RO||8u|3ft|1tw|18
+Melbourne|GB|England|9b|42q|-3z|18
+Melle|FR|New Aquitaine|9k|3ke|-e|17
+Melle|NL||8m|3zi|fn|16
+Mellingen|CH||a7|3nq|mz|16|Mellinga
+Melville|CA||4q|3xg|-7xk|15
+Melioratyvne|UA||98|3r2|2qc|15
+Mellons Bay|NZ||ak|-2ug|dhx|15
+Melukote|IN||6t|z6|5wx|14|Melkote
+Melchor Ocampo|MX|Tabasco|41|1e4|-77c|12
+Melikhovo|RU||9i|493|2wl|12|Melekhovo
+Mellerud|SE||9w|4j2|yl|12
+Melk|AT||a2|3pz|16l|12|Mök;Mellicum
+Melverode|DE||8r|413|t9|11
+Melnytsya-Podilska|UA||98|3r1|20p|11|Mielnica Podolska;Melnîțea-Podilska;Melnytsia-Podilska
+Mildstedt|DE||8r|47a|pa|11|Mildsted;Melst
+Melick|NL||8m|3y4|gq|11|Melik
+Melody Hill|US||2f|2xn|-6r4|10
+Melrose|US|Minnesota|2f|3iv|-7bd|10
+Melekli|TR||94|32y|3eh|z
+Melissochóri|GR||8p|359|1rp|y
+Mellbystrand|SE||9w|4cx|zy|y
+Melbeck|DE||8r|43q|sx|y
+Melikhovskaya|RU||9i|3nw|34h|x|Melekhovskaya
+Mlu Prey Muoy|KH||78|12d|84g|x|Mulu-Prey;Melu Prey;Melouprey;Meluprei;Mlu Prei;Malu Prei;Melupre;Molu-Prei
+Melbourne Beach|US||48|25z|-67s|w
+Melen|BE||8t|3wp|fy|w
+Melgven|FR||9k|3p3|-ao|v|Mêlwenn
+Melba|AU||8l|-2pt|bi1|v
+Mellwood|US||48|2zt|-5xe|v
+Melkhoutfontein|ZA||o|-2nd|1ni|u
+Meldert|BE|Flanders|8t|3xh|bi|u
+Merlimont|FR||9k|3w6|4h|u|Méllimont
+Miluvatka|UA||98|3t2|2y1|s|Melovatka
+Melipeuco|CL||4u|-2zx|-5j5|r
+Melsbroek|BE||8t|3xg|cg|q|Melsbroeck
+Mellet|BE||8t|3wb|cg|q
+Melocheville|CA||59|3hw|-5pe|q
+Meldert|BE|Flanders|8t|3xo|ea|q
+Melrose|GB||9b|4ag|-7l|p|Maol Ros;Meall-Ros
+Meledo|IT||9o|3i8|vq|p
+Mellac|FR||9k|3p2|-9y|o|Mellag
+Melrose Park|US|New York|48|3b7|-5wm|n
+Melbu|NO||9j|5aa|154|n
+Melrose Park|AU|South Australia|8b|-2p6|aoy|m
+Melsbach|DE||8r|3w8|ks|l
+Melsomvik|NO||9j|4ki|sq|l
+Mella|DO||4v|1f0|-5ie|k
+Melpignano|IT||9o|33k|1et|k
+Melrose|MU||ag|-1kb|4g3|k
+Melchor Ocampo|MX|Sinaloa|3x|1xl|-8bp|j
+Melgar de Fernamental|ES||9d|39s|-bs|j
+Mélisey|FR||9k|3on|ia|j
+Meldreth|GB||9b|40p|1|i
+Melbourne|US|Arkansas|2f|2s6|-73b|i
+Melsdorf|DE||8r|46w|rv|i
+Mel|IT||9o|3jy|xl|h
+Melčice-Lieskové|SK||8s|3ro|1dr|h
+Monnières|FR||9k|3mx|-3s|h|Meliner
+Melrand|FR||9k|3pa|-8n|g|Mêlrant
+Mele|IT||9o|3fh|ob|g
+Melitón Albáñez Domínguez|MX||3x|1tq|-8iq|g
+Melide|CH||a7|3jn|ov|g|Melii
+Melón|ES||9d|39e|-mt|g
+Melrose Park|AU|New South Wales|8l|-2lx|bnn|g
+Mélagouin|CI||0|kg|-lo|f|Melagouen
+Melay|FR|Pays de la Loire|9k|3n2|-1x|f
+Melnyky|UA||98|3tn|2hk|f|Mel'niki;Mel’nyky
+Maël-Carhaix|FR||9k|3q4|-9i|f|Mêl-Karaez
+Meillac|FR||9k|3qh|-51|f|Melieg
+Melchnau|CH||a7|3n2|lt|f
+Meilhan-sur-Garonne|FR||9k|3fo|3|f|Melhan;Meilhan
+Mérékrou|CI||0|li|-8h|e|Mélékrou
+Meligalás|GR||8p|2ve|1p1|e|Meligalá
+Melsen|BE||8t|3xk|aa|e
+Melrose|NZ||ak|-36s|dhj|e
+Müllendorf|AT||a2|3ow|19q|e|Szárazvám;Melindoff
+Mélapleu|CI||0|kz|-l9|e|Mélapolé
+Mélin|BE||8t|3wy|df|e
+Melekyne|UA||98|3mg|2vv|e|Melekine;Melekino
+Melissa|IT||9o|317|1bb|d
+Melville|US|Rhode Island|48|37j|-5i0|d
+Meillonnas|FR||9k|3kg|ev|d|Melyonâs
+Mellau|AT||a2|3nj|rg|d
+Melara|IT||9o|3h6|v4|d
+Meslan|FR||9k|3pb|-9j|d|Mêlann
+Melcher-Dallas|US||2f|36j|-770|d|Melcher Dallas
+Melbach|DE||8r|3vy|oh|d
+Müllendorf|LU||9c|3u0|h1|c|Mëllerëf;Muellendorf
+Mellingen|DE||8r|3xi|vo|c
+Meliskerke|NL||8m|3z3|9r|c
+Melíti|GR||8p|35f|1ny|c|Vosterani;Vostarani;Ovçarani
+Mellecey|FR||9k|3m1|d5|c
+Mélékoukro|CI||0|eg|-98|c
+Melderslo|NL||8m|3yy|gx|c
+Mellenbach-Glasbach|DE||8r|3wm|uu|c
+Mellilä|FI||92|4ot|1rr|b
+Melano|CH||a7|3jk|oy|b|Mellanum;Melan
+Melchor Ocampo|MX|Veracruz|41|1ki|-7ix|b
+La Meilleraye-de-Bretagne|FR||9k|3o4|-3w|b|Melereg-Breizh
+Meldert|BE|Flanders|8t|3x3|dg|b
+Mellinghausen|DE||8r|42f|oq|b
+Melikgyugh|AM||80|34z|3f7|b|Melik’gyugh;Meliqgyux;Melikgyukh
+Saint-Étienne-de-Mer-Morte|FR||9k|3md|-4u|b|Sant-Stefan-Melveuzh;Sant-Stefan-Melveurzh;Mellomars
+Melchor Ocampo|MX|Veracruz|41|1j4|-7ib|b
+Melville Cove|CA||35|3fz|-4wp|b
+Melchow|DE||8r|42m|123|b
+Melville|US|Louisiana|2f|2d9|-72u|b
+Melita|CA||5d|3sv|-7sk|a
+Melíssi|GR|Central Macedonia|8p|359|1q3|a
+Melchor Ocampo|MX|Guerrero|41|1c8|-7lh|a
+Mełgiew|PL||a5|3yb|1ra|a|Metgiew
+Melchor Ocampo|MX|Campeche|3z|1ht|-6yn|a
+Mel’gunovka|RU||7w|3ft|a6i|a|Melgunovka
+La Melada|MX||41|1qg|-7sh|a|Melada
+Mellier|BE||8t|3u9|fc|a
+Melicuccà|IT|Calabria|9o|2ye|184|a
+Melden|BE||8t|3x5|9x|9
+Melito Irpino|IT||9o|366|15t|9
+Meslin|FR||9k|3ql|-75|9|Melin
+Melizzano|IT||9o|36c|14b|8
+Mello|IT||9o|3k7|qj|8
+Melay|FR|Bourgogne-Franche-Comté|9k|3ke|b7|8
+Melíssi|GR|Peloponnese|8p|2xp|1r0|8
+Melbourne|US|Iowa|2f|38i|-76m|8
+Mellansel|SE||9w|4w7|1ew|8
+Mílos|GR||8p|2u3|1vv|8|Melos;Milo
+Mělnické Vtelno|CZ||9m|3vv|14u|8
+Melinci|SI||9a|3ld|194|8|Muramelence;Mellincz
+Melívoia|GR||8p|32f|1rc|8|Melívia
+Meillon|FR||9k|3c7|-v|8|Melhon
+Melbourne|GB|England|9b|45p|-2e|8
+Melchor Ocampo (San Jerónimo)|MX||41|1sa|-7yk|8
+Mélida|ES||9d|39o|-4b|8
+Mélamare|FR||9k|3tm|1a|8
+Melnyky-Mostyshche|UA||98|3zl|1wz|8|Mel’nyky-Mostyshche;Mel’niki-Mostishche
+Mel’nichnoye|UA||9t|3hk|2nm|7
+Melrose|US|Oregon|3p|3c5|-9iy|7
+Melsonby|GB||9b|47b|-4p|7
+Millville|US|Ohio|48|31f|-6j5|7|Milville;Melville
+Melchor Ocampo|MX|Sonora|37|21p|-8fa|7
+Melnica|MK||9u|37o|1nz|7
+Melbourne Airport|AU||8j|-2wn|b6d|7
+Mellen|US||2f|3kp|-6zu|7
+Mellery|BE||8t|3wi|cp|7
+Melbourne Village|US||48|261|-683|7
+Mellé|FR|Brittany|9k|3qp|-3b|7
+Melicești|RO||8u|3hg|1zp|7
+Melchor Ocampo|MX|Michoacán|41|1gw|-7ta|7
+Melhorada|ST||1c|v|in|7
+Melrose|US|New Mexico|2p|2nn|-7zv|6
+Meleto|IT||9o|3d1|vv|6
+Mells|GB||9b|3yc|-6n|6
+Melenikítsi|GR||8p|36b|1t4|6
+Melč|CZ||9m|3uh|1dc|6|Meltsch
+Moulins|FR|Brittany|9k|3pc|-3t|6|Melined
+Meletole|IT||9o|3gl|te|6
+Mellach|AT||a2|3md|174|6
+Kayk|AM||80|34q|3fa|6|Mulki;Melkonkend
+Miletin|RO||8u|3nw|236|6|Meletin
+Melchor Ocampo|MX|Nuevo León|44|20e|-7oi|6
+Melchor Ocampo|MX|Zacatecas|41|1wz|-7uc|6
+Melles|BE||8t|3wp|9o|6
+Melsheim|FR||9k|3rg|kw|6
+Melicuccà|IT|Calabria|9o|2z2|18w|6|Melicoccà
+Mellösa|SE|Örebro|9w|4kg|172|6
+Mels|IT||9o|3ka|10f|5
+Melleroy|FR||9k|3p2|87|5
+Melba|US||28|3ci|-8zp|5
+Melchor Ocampo|MX|Chihuahua|2g|26b|-8d1|5
+Melchevka|RU||9i|4cv|2vw|5
+Mellis|GB||9b|41d|30|5
+Melesivka|UA||98|3tz|2gv|5
+Melleray|FR||9k|3pm|28|5
+Melgar de Tera|ES||9d|38l|-gp|5
+Melchor Ocampo|MX|Veracruz|41|1k4|-7gy|5
+Melleran|FR||9k|3k5|0|5
+Mellösa|SE|Södermanland|9w|4k6|19z|5
+Valea Cufundoasă|RO||8u|3p6|1ui|5|Mélypatak

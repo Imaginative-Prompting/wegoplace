@@ -1,0 +1,54 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Munich|DE||8r|3pq|w6|bm2|Muenchen;München;Minhen;Munic;Mnichov;Munkeno;Monaco di Baviera;Munîh;Monachium;Miunchenas;Minhene;Monaco e Baviera;Munique;Monacum;Lungsod ng München;Myunxén;Minga;Mynihu;Munike;Monacu di Baviera;Munhen;Mnichow;Munix;Minche;Mònacu;Münegh;Monaco de Baviera;Minca
+Münster|DE|North Rhine-Westphalia|8r|40c|l7|2dn|Mönster;Monasterium;Miunsteris;Minstere;Muenster
+Des Moines|US|Iowa|2f|37k|-781|1nh|Demoina;De Moinas;Monachopolis;De Moins;De-Moinso;Des Mojns
+Monastir|TN||1e|2re|u3|px|Monastyr;Monasztir;Monastyras;Munastır;Al Munastīr
+Bitola|MK||9u|35z|1na|j9|Manastiri;Manastır;Monasterium;Bitolj;Bitolya;Monastir;Bitol
+Monapo|MZ||11|-15g|33y|dx
+Monaco|MC||9h|3di|km|96|Monako;Mùnegu
+Montereau-Fault-Yonne|FR||9k|3qe|87|4q|Monasteriolum Senonum
+Montrose|GB||9b|4dk|-6v|39|Monadh Rois;Montrozas
+Mona Vale|AU||8l|-2lk|boa|31
+Monagrillo|PA||4g|m6|-67f|30
+Monaragala|LK||68|j3|69z|2u|Moneragala;Monaragalla
+Monastyryshche|UA||98|3s3|2at|2e|Monastyrychtché
+Monifieth|GB||9b|4cw|-7u|2a|Monadh Fèithe;Monadh Feith
+Monaghan|IE||8z|46p|-jd|27|Muineachán;Monachanas
+Moutier|CH||a7|3nc|kh|25|Monasterium Grandis Vallis
+Monahans|US||2f|2fr|-7xt|25
+Monachil|ES||9d|2v5|-9u|1m
+Monaca|US||48|351|-66z|1k
+Monastyryska|UA||98|3sd|1xx|1k|Monasterzyska
+Monamon|PH||71|1aw|9bs|1i
+Monash|AU|Australian Capital Territory|8l|-2qe|bi5|1h
+Monastyrshchina|RU||9i|46z|2gg|19|Monastyrsjtsjina;Monastirshchina
+Monesterio|ES||9d|2xs|-hf|18|Monasterio;Monestorio
+Monasterevin|IE||8z|43m|-jn|16|Mainistir Eimhín;Monasterevan
+Monastir|IT||9o|31e|p4|16
+Monastyrishche|RU||7w|3er|a82|16|Monastyrisjtsje
+Monastier di Treviso|IT||9o|3iu|yi|10
+Mona|CI||0|i5|-ky|v
+Monakhy|UA||98|3pa|2x9|u
+Mona Heights|JM||3i|1e1|-5x7|t
+Moonachie|US||48|35g|-5pp|s|Monachie
+Monasterace Marina|IT||9o|2yr|1a1|q
+Monaco|NZ||ak|-36q|dd5|p
+Monnetier-Mornex|FR||9k|3k8|h9|k|Monasterium Mornense
+Monastyrets|UA||98|3q5|1t3|j
+Monarch Mill|US||48|2og|-6am|i
+Monakam|DE||8r|3rj|ob|i
+Mona|US||2p|32m|-8mq|g
+Monastiráki|GR||8p|2zx|1m6|d
+Monastero di Vasco|IT||9o|3f6|lq|c
+Manasterz|PL||a5|3uq|1q3|b|Monasterz
+Monash|AU|South Australia|8b|-2n4|aug|b
+Monasterolo di Savigliano|IT||9o|3g5|l6|b
+Monaco-Ville|MC||9h|3dh|km|b
+Monasterolo|IT|Piedmont|9o|3ho|kv|a
+Montreuil-sous-Pérouse|FR||9k|3pr|-3g|a|Mousterel-ar-Veineg;Monasteriolum super Petrosam
+Monasterolo del Castello|IT||9o|3j4|rl|9
+Monashi|UA||98|3k8|2bi|9|Manaşi;Monachi;Monaszy
+Monastero Bormida|IT||9o|3g1|n5|6
+Monasterolo|IT|Lombardy|9o|3j4|rl|5
+Monārjān|IR||7o|2ew|3y0|5|Monādejān
+Monasterace|IT||9o|2yt|19z|5

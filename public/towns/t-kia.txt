@@ -1,0 +1,37 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jieyang|CN||7i|1te|8z9|enm|Ťie-jang;Yết Dương;Giék-iòng;Kiat-iông-chhī;Kiehyang
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Jiangyin|CN||7i|2gn|9a2|dqb|Kiang Ying;Kiangyin;Chiang-yin
+Ji’an|CN|Jiangxi|7i|23c|8ve|45n|Kian
+Jiayuguan|CN||7i|32l|7l1|1sf|Gă-ṳ̆k-guăng;Ťia-jü-kuan;Gia Dục Quan;Ka-io̍k-koan-chhī;Kia-yu-kuan
+Kiambu|KE||16|-39|2uc|153
+Cambridge|GB||9b|410|c|14h|Caergrawnt;Kembriĝo;Cantabrigia;Grantanbrycg;Kembridžas;Kiam-khiâu;Kambrij;Kembric;Kembridža
+Chiang Mai|TH||62|1g7|7my|zc|Cziang Maj;Chiangmai;Çian May;Kiangmai;Chiengmai
+Kaambooni|SO||14|-4k|37j|ly|Kiyambooni;Kiamboni;Kamboni
+Jiangyan|CN||7i|2ib|99q|jk|Kiangyen
+Jiang’an|CN||7i|27t|83v|iu|Kiangan;Chiang-an
+Jiangkou|CN|Fujian|7i|1yt|974|gn|Chiang-k’ou;Kiang-k’ou;Kiangkow
+Cherbourg|FR||9k|3tw|-4i|7f|Cherburgo-Octeville;Kiæresburh;Coriallum;Tchidbouo;Şerburq-Oktevil
+Gadabay|AZ||61|34p|3j9|41|Kiadabak;Kyadabek;Kedabek
+Kīāshahr|IR||7o|2vy|3ur|3w
+Kīān|IR||7o|2ho|3xd|3l
+Kiamba|PH||71|gn|9m6|32
+Kiáto|GR||8p|2xl|1r7|2q
+Kīā Kolā|IR|Māzandarān|7o|2tx|3yj|28
+Kīā Kolā|IR|Māzandarān|7o|2tm|42p|28|Kīā Kalā;Kīyā Kalā
+Kiama|AU||8l|-2ob|bn1|1w
+Kiādgira|IN||6t|1bx|5z3|1v
+Kialla|AU||8j|-2t9|b7x|1u
+Kyakhulay|RU||9i|3bd|3nw|1l|Kjakhulaj;Kjachulai;Kâhulay;Kiachułaj
+Kīānābād|IR||7o|2a2|41q|1e|Kainābād;Kīnābād;Kīyân-âbâd
+Kiambur|KE||16|15|2su|1d
+Kiama Downs|AU||8l|-2o7|bn1|1d
+Kīāsar|IR||7o|2so|44q|y|Kīya Sar
+Kianyaga|KE||16|-1e|2vr|u|Kienyagga;Kianyagga
+Kiara|AU||8k|-2gk|8y2|i
+Kiawah Island|US||48|2il|-66g|h
+Kiantone|US||48|38q|-640|d
+Kīā Pey|IR||7o|2tk|43s|8
+Kiama Heights|AU||8l|-2oe|bn0|8
+Klawock|US||3j|4ab|-a9q|8|Klawak;Kilawak;Kiawak;Khlawak;Klawook;Lawak;Kliawak;Klawok
+Kianga|AU||8l|-2sj|bl1|7

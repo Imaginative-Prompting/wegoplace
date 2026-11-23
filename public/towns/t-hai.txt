@@ -1,0 +1,108 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hyderabad|IN||6t|1ca|61y|1hyl|Hajdarábád;Haidarabadas;Haiderabad;Hajderabad
+Haikou|CN|Hainan|7i|1jn|8ij|n5s|Xeyko shehir;Hải Khẩu;Hajkou;Hajkoŭo;Chaj-kchou;Hái-kháu-chhī;Hāi-kāu;Haijgouj;Haykou;Haikow
+Haiphong|VN||62|1ly|88c|k98|Hải Phòng;Hajfong;Hajfongo;Hayfon
+Hyderabad|PK||6q|1yk|59y|etp|Hajdarabad;Hajderabado;Haidarabadas;Haydarabad;Hiderábád;Haydarobod;Hajderabad;Haidarabad
+Ha'il|SA||7e|24g|37t|4ob|Hail;Hayil;Hael
+Hai Bà Trưng|VN||62|1md|861|2cc|Hai BàTrưng
+Haifa|IL||6n|2j5|2p8|279|Hajfo;Hajfa;Ḥeyfa;Hayfa;Lungsod ng Ḥefa;Aifa;Hepha;H̱efa;Heifā
+Nianbo|CN||7i|2tc|7wi|20a|Haidong;Nyan’bo
+Hải Dương|VN||62|1m6|87d|1v2|Haidöng;Hai-Doung;Hai dzung;Hai Doong
+Blagoveshchensk|RU|Amur Oblast|7x|3vo|9u9|1qj|Blagoweschtschensk;Błagowieszczeńsk;Blagoveŝĉensk;Blagoveštšensk;Blagovješčensk;Blagovesjtsjensk;Blagoveschensk;Blagovechtchensk;Blagoveščenskas;Blagowesjtsjensk;Blagoveščenska;Blagovesjtjensk;Blagovésxensk;Blagovescsenszk;Blagovextxensk;Hailanboo;Blagovyeshchensk;Blagowjeschtschensk;Hailanpao
+Heihe|CN||7i|3vk|9u5|1q6|Chej-che;Hắc Hà;Háik-ò̤;Hek-hô-chhī;Hei-ho
+Haeju|KP||7a|2xo|9p7|1ps|Hai-ju
+Hailar|CN||7i|3so|98i|1mn|Hai-la-erh
+Haicheng|CN||7i|35h|9gz|1h9
+Hailin|CN||7i|3ft|9zf|144
+Heidelberg|DE||8r|3t9|o5|13t|Hajdelbergo;Hejdelbergo;Heidlberg;Heidlbeag;Hajdelberg;Heidelberch;Haidlbärsch;Héydélbérg;Heydelberq;Heidelbarg;Edelberga;Heidelburg
+Cap-Haïtien|HT||4j|1iw|-5kk|11g|Cabo Haitiano;Cap Haitien;Kap Ayisyen;Haitia Kabo;Okap;Cape Haytien;Cape Haitien
+Hải Châu|VN||6h|188|8cd|10i
+Haimen|CN||7i|1sf|8zx|yu|Hai-men-so;Haimun
+Heilbronn|DE||8r|3si|pm|xj|Hajlbrono;Heilbronas;Hailprunna
+Haikou|CN|Yunnan|7i|1wu|7wy|va
+Hailun|CN||7i|3nt|9sk|uj
+Highlands Ranch|US||2p|31v|-83l|qv|Hailands Rančas
+Haining|CN||7i|2cu|9b9|ji
+Haizhou|CN||7i|2o2|96x|gf|Hai-chou
+Heidenheim an der Brenz|DE||8r|3r8|s7|dx|Hoana;Heidenheim;Haidenhaim Brencal
+Haiyang|CN|Anhui|7i|2ar|94a|dl
+Haitou|CN||7i|1i7|8en|9m|Hoitou
+Hailākāndi|IN||6t|1wk|754|9c|Hailikandi;Hylakandi
+Hāyk’|ET||2|ve|328|7x|Haik;Hāyek’
+Haysyn|UA||98|3rl|29m|75|Haïssyn;Hajsyn;Haisyn;Hajsin;Hajssyn
+Haitang|CN||7i|2bt|89v|6r
+Hailsham|GB||9b|3xa|q|6i|Fairlight
+Haines City|US||48|263|-6aq|6c
+Hajnówka|PL||a5|42i|1ti|66|Hainuvka;Hajnuvka
+Haidong Zhen|CN||7i|1zf|7qi|5x
+Haiger|DE||8r|3wy|mt|5m
+Haibara-akanedai|JP||7q|2nx|ahn|55
+Hayvoron|UA|Kirovohrad|98|3qa|2az|41|Haïvoron;Gayvoron;Hajworon;Hajvoron;Hajvoronas;Haivoronske poselennia;Strunkiv;Strunkivskyi Tashlyk;Strunkivskyy Tashlyk
+Chojnów|PL||a5|3yf|18a|3y|Haynau;Hojnova;Chojnůw;Hainovia
+Nový Bor|CZ||9m|3x0|14g|35|Haida
+Haigerloch|DE||8r|3qd|og|30
+Hajdúdorog|HU||8v|3ou|1nq|2n|Haidudorog;Deroch
+Hainichen|DE||8r|3xl|10g|2n|Hainkschen
+Haïré Lao|SN||g|19k|-13s|2n|Haéré Lao;Aéré Lao
+Haiku-Pauwela|US||ax|1m4|-c27|2k|Haʻikū-Paʻuwela
+Haing Ku|MM||7y|1c0|7f7|2j|Hainggu
+Haʻikū|US||ax|1m4|-c28|2f|Haiku
+Haibach|DE||8r|3us|pl|2e
+Hailey|US||28|3cw|-8tk|29
+Haine-Saint-Pierre|BE||8t|3w6|bp|25
+Hainholz|DE||8r|41k|qz|23|Hainholt
+Haid|AT|Upper Austria|a2|3pw|13l|22
+Haine-Saint-Paul|BE||8t|3w6|bn|21
+Hainault|GB||9b|3zd|b|1z
+Hainburg an der Donau|AT||a2|3pr|1b3|1u|Hainburgo ĉe Danubo
+Haiyang|CN|Liaoning|7i|30i|9i5|1n
+Haiterbach|DE||8r|3qs|o0|1m
+Haiyang|CN|Chongqing|7i|27u|8f4|1i
+Haillicourt|FR||9k|3w8|75|1f
+Hailianting|CN||7i|1ql|8so|1e
+Haimhausen|DE||8r|3q8|w3|1b
+Haisnes|FR||9k|3wb|7r|18
+Bol’shaya Izhora|RU||9i|4mi|2a5|11|Bolsjaja Izjora;Haisevaisi
+Haidershofen|AT||a2|3pk|146|11
+Hainesville|US||2f|39n|-6sn|11|Hainsville
+Haïdra|TN||1e|2qt|ng|z
+Haina|DE|Hesse|8r|3xr|ox|y
+Haileybury|CA||59|3nt|-658|w
+Hejnice|CZ||9m|3xc|166|r|Haindorf
+Haiming|DE||8r|3py|zu|p
+Hairsine|CA||2s|44w|-8qz|p
+Haiming|AT||a2|3n9|u8|o
+Haikuotiankong|CN||7i|1ql|8si|l
+Haidl|AT||a2|3pt|131|j
+Hainfeld|AT||a2|3pf|17t|j
+Hainewalde|DE||8r|3xf|14u|i
+Hain-Gründau|DE||8r|3vk|pe|i
+Haines|US||3j|4kk|-ag9|h
+Haiden|AT||a2|3ok|11p|g
+Haillot|BE||8t|3w4|eb|f
+Hajdučica|RS||8q|3hp|1m8|f|Istvánvölgy;Ajdučica;Hajdusicz;Haiduciţa;Hajdusicza
+Haidmühle|DE||8r|3rn|12a|f
+Hainsfarth|DE||8r|3s0|ti|f
+Ternuvate|UA|Zaporizhzhia|98|3ov|2sd|d|Haichur;Ternuwate
+Haymā’|OM||72|1jg|4cc|d|Hayma;Xaymo;Haima
+Haigerseelbach|DE||8r|3x1|mq|c
+Haina|DE|Thuringia|8r|3xn|t8|b
+Haihua Park (Southwest gate)|CN||7i|1qo|8sd|a
+Hailuoto|FI||92|50l|1wn|9|Karlö;Hailuotas;Ailuoto
+Hainin|BE||8t|3w3|ah|9
+Haieu|RO||8u|3mj|1p4|8
+Hayvoron|UA|Chernihiv Oblast|98|3xm|2jg|8|Haivoron
+Haileyville|US||2f|2ot|-7di|8
+Hainspitz|DE||8r|3xk|ww|7
+Hainzenberg|AT||a2|3n6|x2|7
+Hainfeld|DE||8r|3su|mi|7
+Hailesboro|US||48|3f3|-5tl|6
+Haines Junction|CA||5c|4or|-alz|6
+Hail Weston|GB||9b|415|-t|6
+Haivka|UA||98|3mb|2b5|6|Hayivka
+Hail Creek|AU||8c|-1nx|bga|6
+Haironville|FR||9k|3r9|e5|6
+Haidemühl|DE||8r|3z7|13i|6
+Hay|UA||98|3v0|1xz|6|Hai;Gai
+Haid|AT|Salzburg|a2|3np|zm|5
+Haid|AT|Upper Austria|a2|3q9|143|5

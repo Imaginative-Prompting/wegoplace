@@ -1,0 +1,84 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Odesa|UA||98|3l5|2de|7sp|Odessa;Odessus;Udessa;Odessza;Ades;Odess;Khadjibey
+Oujda|MA||d|2oc|-5b|45x|Wadżda;Uĝda;Ujda;Udžda;Wejda;Ucda;Ouja;Oudjda
+Ujjain|IN||6t|1se|5ui|3z4|Udždžain;Uddzsaín;Udžainas;Udžaina;Ujjayn
+Udaipur|IN|Rajasthan|6t|1wb|5or|3hb|Udajpur
+Ulan-Ude|RU||6k|3zz|8aw|2s3|Ulan Ude;Oelan-Oede;Oulan-Oudé
+Ooty|IN||6t|vp|5x2|1su|Udhagamandalam;Ootacamund;Utakamand;Udagamandalam;Udhagai;Udakamandalam
+Uji|JP||7q|2ox|ah8|1hl|Udži;Udžis;Udyi;Uzi-chhī;Uĝi
+Udupi|IN||6t|111|5rn|19u|Udipi
+Udon Thani|TH||62|1ce|7xj|109|Udonthanis;Udonthani;Udon Tani;Udorndhani;Udornthani;Udaun Thani
+Udgīr|IN||6t|1f3|5y8|ss
+Udine|IT||9o|3jz|10s|ru|Udin
+Udhampur|IN||6t|2jg|5sq|nc
+Udumalaippettai|IN||6t|tf|5yl|gz
+Uto|JP||7q|2is|a2z|ae|Udo
+Uddevalla|SE||9w|4i3|x6|9o|Udevala
+Uden|NL||8m|3zi|fm|9m
+Udaipur|IN|Tripura|6t|1td|724|94
+Udomlya|RU||9i|4gs|2p9|90|Udomlja
+Udaipur|IN|Rajasthan|6t|250|5tn|8f
+Udaipurwati|IN||6t|251|5tn|84
+Uthai Thani|TH||62|16q|7pu|66|Utay Tani;Udhaidhani
+Udangudi|IN||6t|nf|60r|5h|Udankudi
+Udaipura|IN||6t|1s3|623|52
+Udalguri|IN||6t|22b|73u|4f
+Udachny|RU||7x|54j|8o8|49|Udatsjnyj;Udatschny;Udachni;Oudatchny;Udačnyj;Oedatsjny;Udatxni;Udaĉnij;Udatšnyi;Udačnas;Udačnija;Udatsjnij;Udačnii;Udacznyj;Udachnaya;Udachnoye
+Udi|NG||u|hk|km|46
+Udayendram|IN||6t|za|62e|3u|Uthayendram
+Udel’naya|RU|Moscow Oblast|9i|4ak|2xp|3q|Udel’noye
+Udala|IN||6t|1ny|6oh|3o
+Udaiyārpālaiyam|IN||6t|v3|649|3j|Udayarpalayam
+Udiyāvara|IN||6t|10y|5rm|3b|Udayavara
+Udayagiri|IN||6t|1jw|6id|35|Udaigiri
+Udono|JP||7q|2lq|aht|2v
+Udpura|IN||6t|1wp|5v2|2t
+Odugattūr|IN||6t|zh|634|2i|Odugathur;Udugattūr
+Uduma|IN||6t|yk|5se|29|Udma
+Ŏdŏngk|KH||78|wu|82y|28|Udong;Oudong;Ciudad de Udong;Ciutat d'Udong;Udon;Ŏdŏng
+Udenhout|NL||8m|3zd|ea|25
+Udeşti|RO||8u|3o5|21e|20|Uideşti
+Uddingston|GB||9b|4b2|-bc|1k
+Udobnaya|RU||9i|3er|37f|1j|Udobnaja
+Udel’naya|RU|Leningradskaya Oblast'|9i|4mq|2c8|1e
+Udiana|IN||6t|21i|72h|1a
+Odzun|AM||80|361|3fx|16|Uzunlar;Vornak;Uzun;Udzna gyugh;Udzun;Utsun;Ozun;Ozunlar;Otsun;Odzna gyugh;Odzno gyugh;Dzun
+UDistrict|CA||5b|3s7|-9fp|12
+Udarnyy|RU|Mordoviya Republic|9i|46y|3b2|10
+Uddiawan|PH||71|1a0|9cj|v
+Udimskiy|RU||9i|4pu|3jj|q|Udimskij
+Uda|RO|Arges|8u|3gs|1w9|q
+Uder|DE||8r|3yo|rz|p
+Udligenswil|CH||a7|3mt|nc|n
+Ogtongon|PH||71|tx|9j4|m|Udtongan
+Udobne|UA||98|3ku|2bh|j|Han-Câșla;Kyshlo Hanului;Hani Câșla
+Udupu|RO||8u|3fc|1xu|j
+Uddel|NL||8m|416|g2|j
+Udachne|UA||98|3q0|2ur|h|Udachnoye;Udachnaya
+Uda|RO|Iași County|8u|3ni|21t|g
+Udy|UA||98|3vz|2s6|e|Udi
+Udim|IL||6n|2hm|2ot|e
+Udhailiyah|SA||7e|1xu|3sy|e|Udhailiya;Al Udhailiya
+Udenheim|DE||8r|3ui|mp|d
+Uda-Paciurea|RO||8u|3dw|1wo|d
+Udavské|SK||8s|3s2|1p1|c
+Üdersdorf|DE||8r|3vb|iw|c
+Udenhausen|DE||8r|3yy|qa|c|Udenhusen
+Udarnyy|RU|Karachayevo-Cherkesiya Republic|9i|3f7|3a3|b|Udarnyj
+Ūdalah|PS||6g|2hb|2q0|b
+Uda-Clocociov|RO||8u|3dx|1wn|b
+Údlice|CZ||9m|3w4|11e|a
+Udanin|PL||a5|3xs|19p|a
+Udanapur|IN||6t|1jp|5wh|a
+Udachnoye|UA||9t|3i3|2n8|9
+Uderns|AT||a2|3ng|wz|8
+Udestedt|DE||8r|3xt|ux|8
+Udbina|HR||a6|3fp|17t|7
+Udeni|RO||8u|3fi|1yn|7
+Udall|US||2f|2vv|-7hr|7
+Oudrenne|FR||9k|3t6|hl|7|Udern;Oudren
+Udidgaon|IN||6t|1iq|6a8|6
+Uddeholm|SE||9w|4mq|11u|6
+Udeni-Zăvoi|RO||8u|3gj|1xg|6
+Udovychenky|UA||98|3vt|2nh|5|Udovichenki
+Udarnyy|RU|Sakhalin Oblast|7f|3sg|ayu|5|Udarnyj

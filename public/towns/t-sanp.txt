@@ -1,0 +1,421 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+San Pedro Sula|HN||56|173|-6sj|66l|San Pedro Zōllān
+San-Pédro|CI||0|d7|-ig|30j|San Pedro;San Pedras
+San Pedro|PH|Calabarzon|71|13w|9c9|2oy
+Saint Paul|US|Minnesota|2f|3gu|-76l|2c8|St. Paul;Urbs Sancti Pauli de Minnesota;Sent Polas;San Pablo;Sentpola;Sint-Paul;Sent Pol;Sent Pols;Sint Pol
+San Pablo|PH|Calabarzon|71|133|9d1|2be|San Pablas;Sanpablo
+San Pedro de Macorís|DO||4v|1f9|-5cj|1oj|San Pedro Macoris
+San Pablo de las Salinas|MX||41|1in|-7n9|17e
+San Pedro Garza García|MX||44|1za|-7qw|10p|San Pedro;Garza García
+San Pedro de la Paz|CL||4u|-2uc|-5n2|xs|Sanpedro de la Pasa
+San Pedro|US|California|3p|2lq|-94l|n8
+San Pedro de Copán|HN||56|14m|-6uv|hq
+San Pedro Ayampuc|GT||32|152|-6z9|ga
+San Pedro de Jujuy|AR||1o|-1vb|-507|g8
+San Pedro|MX|Coahuila|44|1zk|-7y2|dj
+San Pedro|AR|Buenos Aires|1l|-2lk|-4lr|d7
+San Pedro|MX|Coahuila|44|1yn|-7yq|bg
+San Pedro Sacatepéquez|GT|San Marcos|32|15l|-72w|b4|San Pedro Zacatepec
+San Pascual|PH|Calabarzon|71|12d|9c6|ay
+San Pablo|CO|Bolívar|27|rx|-5t3|ac
+San Pablo Autopan|MX||41|1hs|-7ou|9r
+San Pedro Alcántara|ES||9d|2td|-dv|9p|San Pedro;San Pedro de Alcántara
+San Pawl il-Baħar|MT||9e|2rv|142|8w|St Paul's Bay
+San Pedro de Urabá|CO||27|n0|-5w6|8h
+San Pablo|US|California|3p|2xg|-9fv|8g
+San Paolo|IT|Apulia|9o|368|1an|8a
+Sant Pere de Ribes|ES||9d|36m|4x|7w|San Pedro de Ribas
+San Pedro|CR||2i|rl|-6hh|7n
+San Pedro del Pinatar|ES||9d|2x4|-27|6l|San Pedro del Pintar
+San Pedro|AR|Misiones|1n|-21y|-46b|6l
+San Pablo|CR||2i|rs|-6hm|61
+San Pedro Totoltepec|MX||41|1hn|-7ol|5v|San Pedro Tololtepec
+San Pablo Jocopilas|GT||32|14j|-721|5o
+San Pascual|ES||9d|34c|-a5|53
+San Po Kong|HK||6i|1q2|8t8|52
+San Pa Tong|TH||62|1fr|7mq|4y
+San Pedro|BZ|Belize District|24|1ds|-6sd|4u|San Pedras
+San Pietro a Patierno|IT||9o|35l|13p|4t
+San Pedro Carchá|GT||32|170|-6yv|4k
+San Pedro de Lloc|PE||3o|-kn|-64u|4j|San Pedro Lluq
+San Pablo Oztotepec|MX||41|1hb|-7n7|4b|San Pablo Ostotepec
+Sânpetru|RO||8u|3iz|1z8|46|Sînpetru
+San Pedro Sacatepéquez|GT|Guatemala|32|14t|-6zs|3z
+Ciudad Manuel Doblado|MX||41|1ll|-7v7|3w|San Pedro Piedra Gorda
+San Pedro Pochutla|MX||41|17r|-7fz|3t
+San Pablo|GT||32|15h|-73k|3t
+San Pietro Vernotico|IT||9o|34h|1e0|3t
+San Pedro Tultepec|MX||41|1hj|-7of|3s
+San Pedro Apatlaco|MX||41|1g7|-7mw|3i
+San Pedro de los Baños|MX||41|1in|-7pc|3d|San Pedro los Baños
+San Pedro Cahro|MX||41|1jw|-7x5|3c|San Pedro Caro
+San Pedro Los Baños|MX||41|1ij|-7pa|3b
+San Prisco|IT||9o|365|13o|3b
+San Pedro Mártir|MX|Querétaro|41|1la|-7r3|38
+San Pedro de Ycuamandyyú|PY||1y|-1ux|-4el|37|San Pedro de Ykuamandyju
+San Pedro|CO|Sucre Department|27|q4|-5si|37
+San Pedro Tlaltizapan|MX||41|1hc|-7oe|37
+San Pablo Atlazalpan|MX||41|1he|-7mr|34
+San Pedro de Atacama|CL||4u|-1rn|-59g|32|San Pedro de Atakama
+San Pedro Zacapa|HN||56|150|-6sr|2x
+San Pancrazio Salentino|IT||9o|34a|1dj|2u
+San Pedro La Laguna|GT||32|14t|-71j|2p
+San Pedro Cholula|MX||41|1hi|-7od|2h
+San Pedro|CO|Antioquia|27|hy|-5tw|2g
+San Pablo Huixtepec|MX||41|1aq|-7gu|2g
+San Pedro Buenavista|MX||41|18o|-76o|2c
+San Pedro Piedra Gorda|MX||41|1qd|-7wb|2b
+San Pedro Atocpan|MX||41|1hc|-7n5|2b
+San Pablo Villa de Mitla|MX||41|1b0|-7fo|2a|Mitla
+San Pablo|PH|Western Visayas|71|ub|9i2|28
+San Pietro in Casale|IT||9o|3g6|vo|28
+San Patricio|MX||41|1hf|-82u|24|Melaque
+San Pedro Tapanatepec|MX||41|19h|-79n|22|Tapanatepec;Tepanatepec
+Solarino|IT||9o|2v2|160|20|San Paulu
+San Pedro de Tutule|HN||56|13l|-6s1|20|San Pedro Tutule
+San Pedro Arriba|MX||41|1i4|-7ok|1y|San Pedro de Arriba
+San Pietro Clarenza|IT||9o|2wd|15q|1x
+San Pedro de Coche|VE||2c|ty|-4xs|1v
+San Pablo|CO|Nariño|27|4n|-5xx|1t
+San Pablo La Laguna|GT||32|14w|-71j|1q|San Pablo Laguna
+San Pietro in Cariano|IT||9o|3ig|u9|1p
+San Pablo Viejo Abajo|PA||4g|nh|-6d6|1o
+San Pascual|PH|Bicol Region|71|10h|9hm|1n
+San Paolo di Civitate|IT||9o|37y|16e|1n|San Paolo Civitate
+San Pablo de Borbur|CO||27|fp|-5pr|1m
+Lloren|PH||71|19d|9aj|1m|San Pascual
+Sânpetru Mare|RO||8u|3jx|1lu|1m|Sânpetrul-Mare;Sînpetru Mare
+San Pedro de Cajas|PE||3o|-v9|-5uq|1m|San Pedro de Cacas
+San Pedro del Paraná|PY||1y|-22j|-4c5|1l
+San Pelayo|CO||27|ow|-5uo|1k
+San Policarpio|PH||71|xj|9m1|1k|San Policarpo
+San Pedro Abajo|MX||41|1i5|-7om|1k|San Pedro de Abajo
+San Pedro Zictepec|MX||41|1gw|-7om|1k
+San Pablo Huitzo|MX||41|1c0|-7h5|1j
+San Pedro|CO|Valle del Cauca Department|27|b3|-5vr|1j
+Santo Pipó|AR||1n|-23e|-49x|1i|San Pipo
+San Pablo Tecalco|MX||41|1in|-7mw|1h|San Mateo Tecalco
+San Pedro Tlanixco|MX||41|1gy|-7ot|1h|San Pedro Tlanisco
+San Pablo|CL||4u|-349|-5mt|1h
+San Pedro Itzicán|MX||41|1kg|-7xz|1g
+Sant Pol de Mar|ES||9d|37k|7a|1f|San Pol de Mar
+San Pedro|PH|Western Visayas|71|u0|9er|1e
+San Pedro|BO|La Paz Department|3n|-194|-5b9|1e|San Pidru Tikina
+San Pedro Amuzgos|MX||41|1a9|-7kh|1d
+San Pietro di Feletto|IT||9o|3jj|y1|1d
+San Pedro Mártir|MX|Veracruz|41|1dy|-7at|1d
+San Paolo d'Argon|IT||9o|3ix|r8|1c
+San Pedro Jicayán|MX||41|19p|-7k9|1b|San Pedro Jicayacan
+San Pedro el Alto|MX|México|41|1ie|-7pg|1b|San Pedro Alto
+Jantetelco|MX||41|1g0|-7me|1a|San Pedro
+San Pedro Nexapa|MX||41|1h0|-7ma|1a
+Sanpara|IN||6t|20c|727|19
+San Pedro de los Naranjos|MX||41|1k7|-7se|19
+San Pedro Huaquilpan|MX||41|1jj|-7mn|19|Huaquilpan
+San Pablo Guilá|MX||41|1ao|-7fw|17|Güilá
+San Pedro las Playas|MX||41|1aq|-7p1|17
+San Pedro Atlapulco|MX||41|1hg|-7o3|17
+San Pedro del Rosal|MX||41|1iy|-7p9|17
+San Pedro Xalpa|MX||41|1j3|-7ni|16
+San Polo d'Enza|IT||9o|3fz|sz|16
+San Pedro|PH|Davao Region|71|ke|9rg|15
+San Pietro a Maida|IT||9o|2zx|19e|14
+San Pedro One|PH||71|131|9cj|14
+Sânpaul|RO|Mureș County|8u|3l1|1vn|14|Sînpaul
+San Pedro Comitancillo|MX||41|19t|-7cc|13|Comitancillo
+San Pedro Zacachimalpa|MX||41|1gm|-7ko|13
+San Pellegrino Terme|IT||9o|3jb|qv|12
+San Polo|IT|Emilia-Romagna|9o|3gp|ss|12
+San Pedro Mixtepec Distrito Veintiséis|MX||41|197|-7fg|12|San Pedro Mixtepec Distrito 26
+San Pedro Lagunillas|MX||3x|1my|-82z|12
+San Pedro Tenango|MX||41|1kz|-7rj|11
+San Pablo Tolimán|MX||41|1ly|-7pi|11
+San Pablo Etla|MX||41|1bm|-7gr|11
+San Patricio|PH||71|15y|9bd|10
+San Pedro|PH|Eastern Visayas|71|ug|9mq|10
+San Pietro in Lama|IT||9o|33z|1ed|10
+San Paolo|IT|Lombardy|9o|3i1|ru|10
+San Policarpo|PH||71|xu|9on|10|San Policarpio
+San Pedro Necta|GT||32|171|-72x|10
+San Pedro Tlacotepec|MX||41|1hw|-7kd|z
+San Pablo Huantepec|MX||41|1jh|-7od|z
+San Pedro Ixcatlán|MX||41|1ef|-7g3|z|Ixcatlán;Yxcatlan
+San Pablo|PE|Cuzco Department|3o|-13g|-5i4|z
+San Paolo Bel Sito|IT||9o|35n|14f|y
+Supetar|HR||a6|3ci|19z|y|San Pietro di Brazza;Fanum Sancti Petri Brattiae
+San Pedro Muñoztla|MX||41|1hk|-7kp|y
+San Pascual|PH|Central Visayas|71|rn|9ln|y
+San Pablo|PH|Zamboanga Peninsula|71|la|9iy|x
+San Pedro Apartado|PH||71|180|9ax|x
+San Pedro Pinula|GT||32|14q|-6xl|x
+San Pablo de Tiquina|BO||3n|-192|-5b8|w|San Pablo;San Pawlu Tikina
+San Piero in Bagno|IT||9o|3du|xa|w
+San Pablito|MX||41|1ke|-7ko|w
+San Pablo de las Tunas|MX||41|1gs|-7jf|w
+San Pedro Benito Juárez|MX||41|1gn|-7lr|w
+San Possidonio|IT||9o|3gn|ui|v
+San Pablo Tacachico|SV||2u|12u|-6w6|u
+San Pedro|PH|Cagayan Valley|71|1bs|9ek|u
+San Pedro|BO|Santa Cruz Department|3n|-1et|-4m6|u
+San Piero a Sieve|IT||9o|3e4|vg|u|Plebs Sancti Petri de Sieve;San Pieru a Sievi
+San Polo di Piave|IT||9o|3j7|yf|t
+San Pietro in Gu|IT||9o|3ip|wf|t
+San Pietro|IT|Campania|9o|35e|152|t
+San Prospero|IT|Emilia-Romagna|9o|3gf|um|t
+San Pedro Huilotepec|MX||41|195|-7cb|s
+San Pedro Tepetitlán|MX||41|1ij|-7mp|s
+San Pedro Quiatoni|MX||41|1am|-7er|s
+San Pedro Ixtlahuaca|MX||41|1be|-7gy|s
+San Pedro Tenango el Nuevo|MX||41|1l1|-7rn|r
+San Pedro Limón|MX||41|1fm|-7qn|r
+San Pedro|PH|Mimaropa|71|ym|9c5|r
+San Pedro Yancuitlalpan|MX||41|1h0|-7lk|r
+San Pietro|IT|Veneto|9o|3i8|ux|r
+San Pedro Huitzizilapan|MX||41|1hw|-7oc|r|Huitzizilapan
+San Pedro Masahuat|SV||2u|11m|-6vc|r
+San Pedro Chiautzingo|MX||41|1id|-7mf|q|San Pedro Chauzingo
+San Pablo Ixayoc|MX||41|1i3|-7mg|q|San Pablo Izayoc
+San Pedro Atoyac|MX||41|19t|-7k7|p
+Sânpaul|RO|Cluj County|8u|3m8|1t2|p|Sînpaul
+San Pascual|PH|Central Luzon|71|172|9b7|p
+San Pedro de la Hortaliza (Ejido Almoloyán)|MX||41|1hv|-7pa|p
+San Pedro Xochiteotla|MX||41|1hn|-7km|o
+San Pedro|PH|Bicol Region|71|xe|9kg|n
+San Pedro Huamelula|MX||41|18j|-7dr|m
+San Pedro y San Pablo Ayutla|MX||41|1bb|-7ew|l
+San Pedro Tlaquilpan|MX||41|1je|-7mb|l
+San Pedro el Alto|MX|México|41|1jb|-7po|l
+Pivka|SI||9a|3iw|13g|l|Šent Peter;San Pietro del Carso;San Peter
+San Pablo Ahuatempa|MX||41|1gq|-7l8|l
+San Piero Patti|IT||9o|2xp|15l|l|San Pietro Patti
+San Pedro de los Metates|MX||41|1ja|-7pe|k|San Pedro los Metates
+San Pasqual|US||3p|2jx|-90v|k
+San Pedro Xalcaltzinco|MX||41|1hf|-7kv|k|San Pedro Xacaltzingo
+San Pedro de Muiños|ES||9d|38j|-m6|k
+San Polo dei Cavalieri|IT||9o|38p|zo|k|San Polo de Cavalieri
+Sânpetru German|RO||8u|3k3|1mh|k|Sînpetru German;Sânpetrul-German
+San Pablo Ixquitlán|MX||41|1ir|-7mf|j
+San Pedro de los Sauces|MX||41|1iz|-7sy|j
+San Pancrazio|IT|Emilia-Romagna|9o|3f8|xk|j|San Panerazio
+San Pedro Jácuaro|MX||41|1ir|-7rk|j|Las Joyas
+San Pedro Tlachichilco|MX||41|1k0|-7ky|j
+San Pedro Tejalpa|MX||41|1hi|-7p7|j
+San Pedro Nichtalucum|MX||41|1bb|-75l|j
+San Pierino|IT||9o|3df|u1|j
+San Pablo Anicano|MX||41|1ec|-7kh|j|San Pablo Amicano
+San Pedro Sochiápam|MX||41|1dj|-7gi|i|San Pedro Sochiapan
+San Pedro Atmatla|MX||41|1jb|-7k5|i
+San Pedro Tenayac|MX||41|1gx|-7qa|i
+San Pedro Ozumacín|MX||41|1d4|-7fb|i
+San Pablo Tejalpa|MX||41|1gf|-7on|i
+San Pedro Arriba 3ra. Sección|MX||41|1i6|-7ok|i
+San Pedro Tulixtlahuaca|MX||41|19y|-7kb|h
+San Pedro de Guasayán|AR||1n|-25n|-511|h
+San Pedro la Joya|MX||41|1gz|-7js|h
+San Pietro Capofiume|IT||9o|3g1|wd|h
+San Pier Niceto|IT||9o|2y0|16n|h
+San Pedro Guasave|MX||3x|1yy|-8da|h|El Ranchito
+San Pedro Mártir|MX|Oaxaca|41|1ai|-7gn|h|San Pedro Martín
+San Pablo|MX|Zacatecas|41|1qo|-7vm|g
+San Pietro In Vincoli|IT||9o|3f2|xr|g
+San Pedro Totolápam|MX||41|1ab|-7fi|g|San Pedro Totolapa;San Pedro Totolapan
+San Pablo de los Remedios|MX||41|1ik|-7pc|g
+San Pier d'Isonzo|IT||9o|3jc|11f|g|San Pieri dal Lusinç;San Pieri dai Sclas
+San Patricio|PY||1y|-22y|-4dv|f
+San Pietro Belvedere|IT||9o|3d1|tn|f
+San Pablo Pixtún|MX||3z|1h5|-701|f
+San Paolo|IT|Trentino-Alto Adige|9o|3l3|va|f|St. Pauls
+San Pedro Nuevo|MX||37|232|-8gj|f|San Pedro Río Mayo
+San Pietro Apostolo|IT||9o|30c|19r|f|Fanum Sancti Petri ad Tyriolum;Santu Pietru de Tiriuolu
+San Pedro|BZ|Toledo District|24|197|-6v3|f
+San Pedro Apóstol|MX||41|1ai|-7go|e
+San Pietro al Natisone|IT||9o|3k3|11g|e|San Pieri dai Sclavons
+San Pedro Petlacotla|MX||41|1kp|-7jz|e|Petlacotla
+San Pablo Huacano|MX||41|1bs|-76x|e
+San Pablo de los Gallos|MX||41|1io|-7np|e
+San Pedro Juchaltengo|MX||41|19f|-7hp|e|Juchaltengo;San Pedro;Juchatengo;San Pedro Juchatengo
+San Pietro in Guarano|IT||9o|31a|19b|e
+San Pedro Cacahuatepec|MX||41|1aq|-7ov|e
+San Pedro Tarímbaro|MX||41|1j1|-7qe|e
+San Pedro Ecatepec|MX||41|1i8|-7kn|d|Ecatepec
+San Pietro di Morubio|IT||9o|3ho|v7|d
+San Pedro del Rincón|MX||41|1i0|-7pt|d
+San Pablo Atotonilco|MX||41|1iz|-7pa|d
+San Pedro Huitzapula Norte (Huitzapula Norte)|MX||41|1cf|-7mh|d
+San Pedro Cuayuca|MX||41|1fc|-7kq|d|Cuayuca;Coayuca
+San Pedro Matamoros|MX||41|1ht|-7lr|d
+San Pedro|ES||9d|2zu|-62|d
+San Pablo Atzompa|MX||41|1bx|-7l9|d
+San Pedro Temamatla|MX||41|1gl|-7iv|d
+San Pedro Cuitlapan|MX||41|1b5|-7kx|c
+San Pietro Val Lemina|IT||9o|3gr|kb|c
+San Pedro Tesistán|MX||41|1k7|-7z9|c
+San Pedro Chimay|MX||3z|1lz|-6wu|c|San Pedro Chima
+San Pablo|BZ|Orange Walk District|24|1el|-6u1|c
+San Pablo Pejo|MX||41|1jn|-7se|c
+San Pedro Ocotepec|MX||41|1b4|-7e9|c
+San Pedro Tetitlán|MX||41|1eq|-7ic|c
+San Pablo de Pillao|PE||3o|-r7|-5v4|c
+San Pedro de Ibarra|MX||41|1no|-7u2|c|Ibarra
+San Pietro Viminario|IT||9o|3hp|wu|c|Fanum Sancti Petri in Viminario;San Piero Viminario
+San Pedro|MX|Querétaro|41|1kg|-7qk|c
+San Pedro Cajonos|MX||41|1bp|-7fe|b
+San Pietro in Volta|IT||9o|3hw|y8|b
+San Polo|IT|Emilia-Romagna|9o|3gy|r2|b
+San Potito Sannitico|IT||9o|36u|13z|b
+San Pedro Coyutla|MX||41|1my|-7lf|b
+San Pedro Denxhi Centro|MX||41|1k9|-7pp|b
+San Pietro al Tanagro|IT||9o|34d|171|b
+Sânpetru de Câmpie|RO||8u|3ls|1ve|b|Sânpetu de Câmpie;Sânpetru-de-Câmpie;Sânpetrul de Câmpie;Sînpetru de Cîmpie
+San Pablo Yaganiza|MX||41|1bm|-7fb|b
+San Pedro Taviche|MX||41|1a8|-7g6|b
+San Pedro Itztla|MX||41|1kb|-7k1|b|San Pedro Ixtla
+San Pedro de la Cueva|MX||37|29d|-8gu|b
+San Potito Ultra|IT||9o|35p|15b|b
+San Pablo el Grande|MX||41|1kk|-7ko|b
+San Pédro Jocopilas|GT||32|15y|-717|a
+San Pietro Mussolino|IT||9o|3im|va|a
+San Prospero|IT|Emilia-Romagna|9o|3ge|sw|a
+San Pedro Tlaolantongo|MX||41|1k7|-7jo|a
+San Pedro Tlapacoyan|MX||41|1jq|-7hq|a
+San Pedro Yutniotic|MX||41|18p|-71v|a
+San Pablo|PE|San Martín Department|3o|-ix|-5wp|a
+San Polo in Chianti|IT||9o|3db|vk|a
+San Pedro|MX|Jalisco|41|1lu|-812|a
+José María Pino Suárez|MX|Tabasco|3z|1eu|-746|a|San Pedro
+San Pedro Chimaltepec|MX||41|1b8|-7dq|9
+San Pedro Pedernal|MX||41|1aa|-74g|9
+San Pedro Viejo|MX||37|232|-8gi|9
+San Pedro Guegorexe|MX||41|1av|-7gj|9
+San Pablo|MX|Veracruz|41|1ku|-7hz|9
+San Pedro Teyuca|MX||41|1g3|-7lh|9
+San Pablo Mitecatlán|MX||41|1lj|-7lo|9
+San Pietro|IT|Lombardy|9o|3ki|q2|9
+San Pedro de Coris|PE||3o|-yy|-5qp|9
+San Pedro Chicozapotes|MX||41|1dd|-7hc|9|Chicozapotes;Chicozapote
+San Pedro Ocopetatillo|MX||41|1ej|-7h7|9
+San Pietro|IT|Piedmont|9o|3h1|lk|9
+San Pedro de Ruíz|MX||41|1kd|-7wx|9
+San Pedro Hueyahualco|MX||41|1fw|-7pq|9
+San Patrizio|IT||9o|3fl|wv|9
+San Pedro del Monte (La Huizachera)|MX||41|1mf|-7uj|9
+San Pedro Paredes|MX||3x|1yx|-8d8|9
+San Pedro Arriba 4ta. Sección (Cinco Reales)|MX||41|1i5|-7ol|9
+San Pietro di Cadore|IT||9o|3ld|yz|9|San Pietro Cadore
+San Pietro|IT|Emilia-Romagna|9o|3gd|uo|9
+San Pancrazio|IT|Veneto|9o|3i6|um|9
+San Pedro el Alto|MX|Oaxaca|41|1bn|-7iq|9
+San Pedro Yeloixtlahuacan|MX||41|1ec|-7kg|8
+San Pedro Nextlalpan|MX||41|1jz|-7o3|8
+San Pedro Huitzquilico|MX||41|1nm|-7n1|8
+San Pedro Ocotlán|MX||41|1nt|-7yz|8
+San Pedro Tidaá|MX||41|1c6|-7ii|8
+San Pietro Infine|IT||9o|375|12s|8
+San Pedro el Alto|MX|Oaxaca|41|1ap|-7hl|8|Alto
+San Pedro Galdames|ES||9d|3c5|-8m|8|San Pedro de Galdames;Galdames Beitia
+San Paolo Solbrito|IT||9o|3gv|m5|8
+San Pablo|US|New Mexico|2p|2hl|-88l|8
+San Pedro de Mérida|ES||9d|307|-h7|8
+San Pedro el Chico|MX||41|1ii|-7pj|8
+San Pablo Malacatepec|MX||41|1ht|-7q8|8
+San Pedro y las Garzas|MX||41|1e9|-7r8|8
+San Pablo|MX|Guanajuato|41|1k5|-7ra|8
+San Pietro Mosezzo|IT||9o|3i9|nq|8
+San Pedro Jocotipac|MX||41|1dd|-7ho|8
+San Pietro|IT|Umbria|9o|3bs|y4|8
+San Pedro Petlacala|MX||41|1cu|-7m3|8
+San Pedro Peralta|MX||2b|1fy|-6uu|8
+San Pedro Chacabal|MX||3z|1mq|-6vr|8|San Pedro Chakabal
+San Pedro la Gloria|MX||41|1jj|-7n0|8|La Gloria
+San Pablo|MX|Guanajuato|41|1lr|-7s1|8
+San Pedro Yólox|MX||41|1cv|-7g7|8
+San Pedro Mártir Quiechapa|MX||41|19l|-7fd|8
+San Pedro Aytec|MX||41|1d6|-7lp|8
+San Pietro In Bevagna|IT||9o|33z|1d4|7
+San Pablo Coatlán|MX||41|192|-7gu|7
+San Pedro la Tejería|MX||41|1ah|-74z|7
+San Paolo-Cannistrà|IT||9o|2xx|16b|7
+San Pedro|US|Texas|2f|2fg|-7cy|7
+San Pietro Piturno|IT||9o|35j|1bg|7
+San Pedro|PA|Panamá|4g|of|-64z|7
+San Pedro el Alto|MX|Oaxaca|41|18k|-7fz|7
+San Pablo|MX|Sinaloa|3x|20d|-8fk|7
+San Pablo|MX|Coahuila|44|1zh|-7yb|7
+San Pedro Ojo Zarco|MX||41|1q1|-7sm|7
+San Pedro Ixhuatepec|MX||41|1g8|-7m0|7|San Pedro Izhuatepec
+San Pedro Coatlán|MX||41|195|-7gq|7
+San Pedro Pareo|MX||41|1i9|-7uf|7
+San Pablo Xúchil|MX||41|1j1|-7mc|7
+San Pedro Ñumí|MX||41|1ca|-7jb|7|San José Numi
+San Prospero|IT|Emilia-Romagna|9o|3f8|wq|7
+San Pietro in Valle|IT||9o|37k|148|7
+San Pablo Potrerillos|MX||41|1kf|-7q0|7
+San Pedro|PA|Coclé|4g|o9|-66u|7
+San Pablo Viejo Arriba|PA||4g|nk|-6d6|7
+San Pedro Cuyaltepec|MX||41|1dd|-7gv|7|San Pedro Coyaltepec
+San Pedro Denxhi Segundo Cuartel|MX||41|1k7|-7po|7
+San Pablo de Ycuámandyyú|PY||1y|-1v3|-4ej|7
+San Pietro|IT|Lombardy|9o|3i2|pa|7
+San Potito|IT||9o|3ff|x6|7
+San Pantaleo|IT||9o|361|qb|7
+San Pedro Evangelista|MX||41|1bq|-7cm|6
+San Pedro Toxín|MX||41|1if|-80t|6
+San Pedro|PE|Piura|3o|-e5|-66b|6
+San Pedro de Ceque|ES||9d|38s|-gv|6
+San Pedro del Río|MX||41|19v|-7is|6
+San Pedro Amatlán|MX||41|19d|-7fx|6|Amatlán
+San Pedro del Gallo|MX||44|1z1|-81p|6
+San Pedro Naranjestil|MX||41|1eu|-7yh|6
+San Pedrillo|PE||3o|-dm|-671|6
+San Pedro Acatlán Grande|MX||41|1bd|-7dc|6
+San Pedro de los Agustinos|MX||41|1k7|-7rd|6|San Pedro de Agustinos;San Pedro
+San Pablo Oxtotipan|MX||41|1ki|-7o1|6|San Pedro
+Sânpaul|RO|Arad County|8u|3ki|1n3|6|Sînpaul
+San Pietro di Caridà|IT||9o|2z0|18u|6
+San Pablo Lachiriega|MX||41|1as|-7ep|6
+San Pietro|IT|Trentino-Alto Adige|9o|3lk|wg|6
+San Pedro de Latarce|ES||9d|37y|-et|6
+San Pedro|BZ|Corozal District|24|1ey|-6tt|6
+San Pablo|BZ|Toledo District|24|1a5|-6u2|6
+San Pedro Ayacaxtepec|MX||41|1bk|-7ec|6
+San Pablo|MX|Guanajuato|41|1mu|-7rp|6
+San Pier Marina|IT||9o|2y4|16l|6
+San Piero in Campo|IT||9o|3ar|sd|6|San Pietro in Campo
+San Pietro|IT|Campania|9o|35n|13d|6
+San Pedro Yaneri|MX||41|1ce|-7fn|6
+San Pedro del Romeral|ES||9d|3bs|-am|6
+San Pablo Soyatitlanapan|MX||41|1fu|-7kn|6|San Pablo Zoyatitlanapan
+San Pedro de Chonta|PE||3o|-o2|-5xk|6
+San Pietro|IT|Apulia|9o|362|1b0|6
+San Pedro Xochicuaco|MX||41|1my|-7mz|6
+San Pedro|MX|Baja California Sur|3x|1uh|-8ia|6
+San Pedro Ixcatán|MX||3x|1p8|-83h|6
+San Pablo de Rancho Grande|MX||41|1tf|-7xv|6
+San Perlita|US||2f|21m|-7j8|6
+San Pablo|MX|Querétaro|41|1jt|-7pq|6
+San Pedro de Chuparo|PE||3o|-11k|-5oo|6
+San Pedro de Chunan|PE||3o|-wl|-5tp|6
+San Pantaleone|IT||9o|2xj|180|6
+San Pedro del Espino|PA||4g|mm|-698|6
+San Pedro de Larcay|PE||3o|-13d|-5od|6
+Sânpetru Mic|RO||8u|3jv|1mg|5|Sînpetru Mic;Sânpetrul-Mic
+San Pablo Hidalgo|MX||41|1fm|-7n4|5
+San Pedro de Chinatú (Ranchería San Pedro)|MX||2g|20r|-886|5
+San Pedro el Achiote (San Pedro Mártir)|MX||41|1b8|-765|5
+San Pedro|MX|Chiapas|41|1cc|-745|5
+San Pietro in Trento|IT||9o|3f4|xk|5
+San Pedro Manrique|ES||9d|38r|-67|5
+San Pedro Calantla|MX||41|1fo|-7lc|5
+San Pedro|US|Texas|2f|206|-7j4|5
+San Pedro|PE|Amazonas|3o|-fk|-629|5
+San Pedro|PE|Ayacucho|3o|-151|-5pu|5
+San Pedro|MX|Hidalgo|41|1l9|-7og|5
+San Pablo Topiltepec|MX||41|18y|-7eq|5
+San Pedro Leapi|MX||41|19d|-7f1|5
+San Procopio|IT||9o|2yc|185|5
+San Pedro Siniyuvi|MX||41|1b6|-7js|5
+San Pedro Capula|MX||41|1kz|-7ng|5
+San Pedro|MX|Sinaloa|3x|21o|-8db|5
+San Pedro (San Pedro Carano)|MX||41|1jx|-7tz|5

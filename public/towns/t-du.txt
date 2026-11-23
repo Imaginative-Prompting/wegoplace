@@ -1,0 +1,953 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Weifang|CN||7i|2tz|96u|20ff|Wej-fang;Vejfang;Duy Phường;Î-hng-chhī
+Yangzhou|CN|Jiangsu|7i|2i0|97s|z6m|Yangjo shehiri;Janĉĵou;Jang-čou;Dương Châu;Yangtsjou;Iông-chiu-chhī;Iòng-ciŭ;İnçiü;Jangdžov;Yangchow;Yang-chou
+Dubai|AE||6c|1xo|49n|t8s|Dubajo;Dúbæ;Dubajus;Dubaj;Doubayi;Dubay;Dubayy;Dibai;Dibay
+Tangshan|CN||7i|324|94a|q0p|Tangŝano;Đường Sơn;Tchang-šan;Tangšanas;Tangšan;Tongshan
+Durban|ZA||o|-2ay|2e7|pr8|ITheku;Thekong;EThekwini;Port Natal
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Douala|CM||j|b9|qy|abp|Duala;Dualao;Dual;Doula
+Yangjiang|CN||7i|1oq|8n0|9z6|Iòng-gŏng;Jang-ťiang;Yòng-kông-sṳ;Dương Giang;Iông-kang-chhī;Yang-chiang
+Zhongwei|CN||7i|2w7|847|92a|Dṳ̆ng-ôi;Čung-wej;Trung Vệ;Tiong-oē-chhī;Chung-wei
+Dublin|IE||8z|445|-hd|7wg|Dulyn;Baile Átha Cliath;Dyflinn;Dulenn;Eblana;Diblin;Difelin;Divlyn;Dablin
+Duque de Caxias|BR||4w|-1rb|-3cb|6on|Duke de Kašijasas
+Chuzhou|CN||7i|2hs|94m|61f|Chuju shehiri;Chutsjou;Čchu-čou;Trừ Châu;Dṳ̀-ciŭ;Tû-chiu-chhī
+Deyang|CN||7i|2eh|81y|5o7|Dáik-iòng;Te-jang;Đức Dương;Tek-iông-chhī;Te-yang;Deyan
+Yangquan|CN||7i|2x6|8rg|5n4|Iòng-ciòng;Jang-čchüan;Jancjuan;Dương Tuyền;Iông-choân-chhī;Yang-ch’üan
+Dezhou|CN||7i|2w1|8z9|58r|Detsjou;Te-čou;Đức Châu;Dáik-ciŭ;Deĝoŭ;Tek-chiu-chhī;Te-chou
+Dushanbe|TJ||6d|2z2|5b2|58q|Duschanbe;Dušanbe;Dusjanbe;Duŝanbeo;Douchanbé;Doesjanbe;Duszanbe;Djuschambe;Dyushambe;Dushambe;Jushambe
+Düsseldorf|DE||8r|3ya|iu|4rv|Duseldorfo;Dusseldorpium;Diuseldorfas;Diseldorfa;Düsseldörp;Düssldorf;Dyzeldorfi;Disseldorf;Duesseldorf
+Dortmund|DE||8r|3z3|kr|4jh|Düörpm;Tremonia
+Albuquerque|US||2p|2pg|-889|4cu|Alburquerque;Duke City;The Duke City;Albukwér kwé;Albukerke;Albukerko;Methville
+Thủ Đức|VN||6h|u5|88l|41r
+Durgapur|IN|West Bengal|6t|1tc|6qj|405
+Victoria de Durango|MX||44|1uq|-82q|403|Durango;Durangas;Byen Durango
+Edinburgh|GB||9b|4bf|-8w|3z2|Edimburgo;Dinedin;Edimburg;Caeredin;Edinburgo;Édimbourg;Dún Éideann;Edinborg;Edimburgum;Edinburgas;Edynburg;Edinburrie;Idinburg;Edinburg;Edinburga;Edimborg;Edimburgu;Embra;Edinburq;Edimborgh;Edimbùrgh;Edinburc;Ebora;Edinbo;Doon Edin;Edinboarch
+Duisburg|DE||8r|3yv|it|3w4|Dīsburga;Duisborg;Duisbourg;Duisburch;Thuiscoburgum;Duisbörj;Duusbörg
+Jardim Presidente Dutra|BR||4w|-1t3|-3kz|3lb
+Dumai|ID||6l|4n|7ts|2p2
+Doha|QA||7b|1y9|3z5|2nt|Doho;Ad-Dawḩah;Ad-Dauha;Dauhá;Dawḥa;Duoha;Dewhe;Doʻha;Dooxa;Doh;Ad Dawḩah;Ad Dawḩa;Ad Dowhah
+Dihok|IQ||5z|2uf|3bf|2mp|Duhok;Dohuk;Dahúk;Dihuk;Duhuk
+Eloy Alfaro|EC||33|-61|-65s|2fp|Durán
+Damietta|EG||c|2fa|2gd|2cz|Damiette;Damieta;Dimyat;Doemjat;Dimyath;Tamiathis;Dumjatas;Dumjāta;Dumját;Dumyāţ;Dumiat;Damiata;Dumqat
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Dindigul|IN||6t|st|60m|299|Dindukkal;Dundigal
+Durg|IN||6t|1mv|69s|22o
+Durham|US|North Carolina|48|2rz|-636|1zk|Daremas
+Hải Dương|VN||62|1m6|87d|1v2|Haidöng;Hai-Doung;Hai dzung;Hai Doong
+Dudley|GB||9b|41u|-5s|1jb|Dadlis;Dadli
+Duyun|CN||7i|20z|8ao|1j5|Tu-yün
+Reims|FR||9k|3sv|b7|1im|Remeš;Rems;Durocortorum;Rheims
+Durrës|AL||9y|36s|1i1|1if|Drač;Durazzo;Dyrrachium;Duraso;Dyrrhachium;Duresis;Durazo;Durazzu;Durrazo;Dures;Drach;Durësi
+Düzce|TR|Düzce|94|35g|2ek|1hx|Dyuzje
+Dunhuang|CN||7i|33l|7b0|1fo|Dünxuang Shehiri;Tun-chuang;Đôn Hoàng;Dŭng-huòng;Tunhuang;Dunxuan;Tunghwang;Tun-huang;Tunhwang
+Cidade Dutra|BR||4w|-1tx|-3lq|1ep
+Dubréka|GN||f|r7|-11k|1en|Debreeka
+Dundo|AO||x|-kh|1lu|1dc|Dundu
+Đưc Trọng|VN||6h|wm|8d1|18s|Liên Nghĩa
+Dubai Investments Park|AE||6c|1xh|498|18g
+Đức Phổ|VN||6h|155|8eo|179
+Dunhua|CN||7i|3ch|9w7|15c|Tun-hua
+Dundee|GB||9b|4cv|-89|156|Dùn Dèagh;Dandi;Dùn Dè;Taodunum
+Dunedin|NZ||ak|-3jf|d5m|10w|Ōtepoti
+Quận Đức Thịnh|VN||6h|sn|85q|10o|Đức Thịnh Sa Đéc
+Dongxing|CN||7i|1nv|8bx|104|Đông Hưng;Dunghhingh;Tong Hing
+Dam Dam|IN||6t|1qv|6tm|y3|Dum Dum
+Dorūd|IR||7o|2l1|3sa|xs|Dow Rūd;Dūrūd
+Dubai Marina|AE||6c|1xp|497|xc|Marina de Dubái;Dubaja Jakthaveno
+Duekoué|CI||0|iq|-kf|wi
+Dąbrowa Górnicza|PL||a5|3vt|1hc|wi|Dombrova Gurņiča;Důmbrowa;Dombrowa
+Dumaguete|PH||71|pv|9ij|vj|Dumaguette;Dumagetas;Dumageta;Dumaghete;Dumageute
+Dūmā|SY||69|2l9|2t4|v3|Douma
+Dusit|TH||62|12a|7r8|tx
+Dukuhturi|ID||6l|-j6|8f0|r9
+Dogonbadan|IR||7o|2cc|3x4|qv|Gachsaran;Do Gonbadān;Dow Gonbadān;Du Gunbadān
+Ducheng|CN||7i|1sk|8lt|qj|Tu-ch’eng
+Dunhou|CN||7i|235|8v6|q8|Tun-hou
+Düren|DE||8r|3x4|i1|py
+Duitama|CO||27|g6|-5mv|pk
+Yulinshi|CN||7i|2yd|8gu|p9|Jü-lin;Du Lâm;Ṳ̀-lìng;Jiû-lîm-chhī;Yulin
+Duobao|CN||7i|2d7|8p1|p3|Topaowan;To-pao-wan
+Dubai Silicon Oasis|AE||6c|1xs|49v|p0|Silicon Oasis
+Dunkirk|FR||9k|3xr|6m|nz|Dunkerque;Dünkirchen;Dunkerk;Duinkerke;Dunkierka;Dunquerque;Lungsod ng Dunkerque;Dukark;Duunkerke;Dunquerca;Diunkerkas;Dunkèke;Denkerka;Dúntsjerk;Duinkerken
+Duluth|US|Minnesota|2f|3ly|-73v|nx|Dulutas;Dulut
+Dundee|ZA||o|-269|2bz|ng
+Dushan|CN||7i|1zr|8ap|m8|Tu-shan
+Daugavpils|LV||9n|4b8|21p|lp|Dünaburg;Dyneburg;Väinänlinna;Daugpilis;Duneburgum;Daugpiļs;Dźwinów;Väinalinn;Daugpėlis;Daugawpils
+Dubai Festival City|AE||6c|1y2|49s|le
+Duyên Hải|VN||6h|qr|87t|jg
+Duoba|CN||7i|2tu|7u1|ik
+Duramē|ET||2|k3|2x8|ib
+Dundalk|US||48|311|-5wk|ho
+Dhubri|IN||6t|20a|6xz|hm|Dubri;Dhuburi
+Dubna|RU|Moscow Oblast|9i|4dm|2vb|gu|Doebna;Doubna;Dubno
+Dubuque|US||2f|3a2|-6zu|gc
+Kampong Dungun|MY||6v|8y|7tg|gb|Dungun;Kampong Dungan
+Dublin|US|California|3p|2wq|-9eq|g1
+Dongola|SD||r|1ha|2co|fm|Dunqula;Dunkula;Donkola;Donqola;Dunqulah
+Dương Nội|VN||62|1ma|85r|fl
+Canterbury|GB||9b|3yg|30|fb|Cantorbery;Durovernum;Durovernum Canticorum;Cantwarebyrig;Cantwaraburg;Cantuária;Caergaint;Kantaraborg;Kenterberis;Kenterberija
+Dunfermline|GB||9b|4br|-9m|fa|Dunfaurlin;Danfermlinas;Dún Phárlain
+Dumyāţ al Jadīdah|EG||c|2fb|2g0|f5
+Durbanville|ZA||o|-2lz|1ft|f3
+Dullewala|PK||6q|2gf|5ig|f3|Dull-wali;Dulliwala;Dullewali
+Dumraon|IN||6t|1yz|6hr|ew
+Dunstable|GB||9b|405|-1g|eg
+Duzhou|CN||7i|2b0|89g|ef
+Châlons-en-Champagne|FR||9k|3rz|c5|e9|Châlons-sur-Marne;Šampanės Šalonas;Durocatalaunum
+Dunaújváros|HU||8v|3mg|1gm|dx|Sztálinváros;Pentela;Dunauivarošas;Duna Pentele;Stalinvaros;Dunapentele
+Dunwoody|US||48|2mb|-6i9|dj
+Durham|GB||9b|486|-4e|da|Dūnholm;Dunelmum;Daramas
+Dūngarpur|IN|Rajasthan|6t|1u8|5or|d9
+Dumka|IN||6t|1vf|6qd|d9
+Dülmen|DE||8r|3zz|k8|d7
+Douai|FR||9k|3vx|8k|cx|Dowaai;Duacum;Doï
+Dumfries|GB||9b|48z|-a1|cx|Dùn Phrìs;Damfrisas;Damfris
+Dublin|US|Ohio|48|33e|-6ev|cj
+Wiener Neustadt|AT||a2|3os|193|cg|Dunajsko Novo mesto;Viedenské Nové Mesto;Bécsújváros;Wr. Neustadt;Bécsújhely;Német-Újhely;Vyner Noištatas;Weana Neistod;Vídeňské Nové Město;Nova civitas Vindobonensis;Bečko Novo Mjesto
+Dubbo|AU||8l|-2hk|bgs|c3|Dabo;Dabbo
+Dundalk|IE||8z|460|-hu|bz|Dún Dealgan;Dandolkas;Doon Jialgan
+Dunkwa|GH||1|gk|-4y|bv
+Durian Tunggal|MY||6v|6f|7w4|bq
+Dover|GB||9b|3y1|3n|bl|Douvres;Dofras;Dubris
+Dunyapur|PK||6q|2as|5ja|bk
+Dungu|CD||t|-a2|1gd|bf|Dunge
+Durazno|UY||45|-2kq|-4d0|b7|Durasnas
+Dumila|TZ||h|-hq|2vq|b4
+Duncanville|US||2f|2ip|-7h7|b2
+Duaca|VE||2c|sl|-5c4|b1
+Dukuria|BD||6a|1tv|6z1|aj
+Duvernay|CA||59|3im|-5on|af
+Dubno|UA||98|3w1|1zk|ad|Doubno;Dubnas
+Douentza|ML||5|15p|-87|aa|Dúwanzà;Douenza
+Dunhao|CN||7i|2f1|8d0|a9
+Dunedin|US||48|25u|-6dx|a2
+Dubti|ET||2|wl|364|a1|Duftī
+Dubai International Financial Centre|AE||6c|1y1|49k|a0
+Dương Minh Châu|VN||6h|vm|873|9z
+Dúbravka|SK||8s|3pv|1bc|9v|Pozsonyhidegkút
+Dubrājpur|IN||6t|1u3|6qq|9r
+Dungun|MY||6v|da|7za|9o
+Dupnitsa|BG||9v|39e|1s8|9o|Doupnitsa;Doepnitsa;Dupnița;Dupnica;Dupnitza;Dupniza;Doupnitza
+Douz|TN||1e|2kz|p2|9i|Dūz
+Dupax Del Norte|PH||71|19b|9cf|99|Dupax
+Gyöngyös|HU||8v|3oq|1jd|95|Dyöndyöş;Đunđuš;Đenđeš;Gengeß
+Gyula|HU||8v|3ll|1n4|8z|Đula;Jula;Giula
+Dursh Khela|PK||6q|2p8|5l9|8t|Durshkhela;Durushkhela
+Dún Laoghaire|IE||8z|441|-h2|8o|Dunleary;Dún Laoire;Dan Lerė;Dunum Loigarii
+Dulce Nombre de Culmí|HN||56|15y|-6ll|8h|Dulce Nombre Culmí
+Dunakeszi|HU||8v|3oc|1h6|8e
+Silistra|BG||9v|3ek|23q|87|Silistre;Durostorum;Szilisztra;Silistria
+Duluth|US|Georgia|48|2mg|-6hq|84
+Düsseldorf-Pempelfort|DE||8r|3yc|iv|81|Pempelfort
+Rochester|GB||9b|3yr|1f|7z|Durobrivae
+Duliajan|IN||6t|240|7cs|7y|Duliāgaon
+Duliajan Oil Town|IN||6t|240|7cr|7y
+Durango|ES||9d|3bx|-7b|7u|Tavira
+Dubrovnik|HR||a6|3ag|1eb|7h|Ragusa;Dubrownik;Dubrovnique;la perla del Adriático;Pearl of the Adriatic;Respublica Ragusina;Communitas Ragusina
+Douglas|IE||8z|403|-nf|7h|Dúglas;Dúbhglas;Duqlas
+Dushi|CN||7i|28z|87x|7h
+Gurbetē|ET||2|vk|2un|7d|Durbete
+Ad Dujayl|IQ||5z|2m1|3ev|7c|Dudschail;Doujaïl;Dujail;Dudžail;Dujayl
+Durleşti|MD||8x|3mm|27w|7b|Durleshty;Dudeşti;Durlesht’
+Douglas|IM||93|46f|-cg|7a|Dubh Lios;Doolish;Daglasas;Daglasa;Duqlas;Daglaso
+Dunga Bunga|PK||6q|2an|5ng|77
+Duiven|NL||8m|40b|gp|73
+Duiwelskloof|ZA||o|-1tt|2bq|6u|Duweiskloof;Duivelskloof
+Dubai Internet City|AE||6c|1xq|498|6o
+Dudinka|RU||6u|5ct|6ne|6k|Doedinka;Doudinka;Dugyinka;Dudink
+Douako|GN||f|r1|-sa|6i|Duako
+Dubăsari|MD||8x|3nb|291|6h|Dubesaris;Dubosari;Dubossary;Dubossarı;Dubosary
+Duncan|US|Oklahoma|2f|2nu|-7k4|6g
+Dupont Circle|US||48|303|-5y0|6g
+Dooru Verinag|IN||6t|2l8|5sz|6e|Duru Verinag
+Duderstadt|DE||8r|3z3|si|6d|Dustadt;Duderstadium
+Dugda|IN||6t|1tz|6nd|6b
+Dunajská Streda|SK||8s|3pb|1cx|6b|Dunaszerdahely;Dunayska Streda;Dunaiska Streda;Duna-Szerdahely
+Dambai|GH||1|mf|i|68|Dambaé;Dumbai
+Duncan|CA||5b|3ri|-9jm|66
+Dutsen Wai|NG||u|u5|ms|65|Dutsan Wai
+Duba|SA||7e|23z|2r5|64|Diba;Ḑabā
+Duarte|US||3p|2mu|-93q|64
+Dubnica nad Váhom|SK||8s|3s0|1eh|63|Máriatölgyes;Dubnitsa nad Vahom;Dubnica prie Vaho;Dubnica pie Vāhas;Dubnjica na Vahu
+Dum Duma|IN||6t|24l|7dg|61
+Damboa|NG||u|v0|zg|60|Dumboa
+Dunbar-Southlands|CA||5b|3ss|-9i7|5w
+Dupax del Sur|PH||71|198|9cd|5w
+Dukinfield|GB||9b|44j|-5t|5w
+Dugulubgey|RU||9i|3da|3cy|5u|Dugulubgej
+Tornio|FI||92|52x|1v3|5t|Torneå;Duortnus;Tornia;Tornijas;Tornijės
+Dūrā|PS||6g|2fj|2pb|5s
+Dumbarton|GB||9b|4be|-cp|5k|Dùn Breatann;Dumbairton;Dambartonas;Dambarton
+Dübendorf|CH||a7|3no|ny|5j|Duebendorf
+Dumbéa|NC||b8|-1pk|cue|5d
+Durgāpur|IN|Maharashtra|6t|1jl|64a|56
+Do’stlik Shahri|UZ||7g|34l|58z|53|Do’stlik;Dŭstlik
+Dudelange|LU||9c|3tg|gx|50|Düdelingen;Gemeng Diddeleng;Diddeleng;Diudelanžas
+Durango|US||2p|2vk|-8bo|50|Kin Łání
+Dumont|US|New Jersey|48|35q|-5pk|50
+Dumjor|IN||6t|1qu|6t5|50
+Dunbage|CN||7t|2zy|5za|4w
+Dursunbey|TR||94|31z|27j|4v
+Ducos|MQ||3v|14i|-4pd|4u
+Durant|US|Oklahoma|2f|2mf|-7fp|4t
+Dutse|NG||u|wo|py|4r|Dutsi
+Dulsberg|DE||8r|44u|ry|4q
+Duayaw-Nkwanta|GH||1|jx|-5u|4q
+Dunaharaszti|HU||8v|3nj|1h2|4q
+Dukku|NG||u|u2|tx|4q|Duku
+Dukli|IN||6t|1u4|71m|4p
+Dorchester|GB||9b|3ww|-6r|4p|Dornwaraceaster;Durnovaria
+Dhulikhel|NP||6r|24q|6lm|4j|Dulikhel
+Dublin|US|Georgia|48|2ie|-6ea|4i
+Duffel|BE||8t|3xy|cj|4g
+Duncraig|AU||8k|-2gf|8xm|4g
+Dumra|IN|Bihar|6t|21t|6lk|4e
+Dunayivtsi|UA|Khmelnytskyi|98|3rt|22l|4d|Dunajiwzi;Dounaïvtsi;Dunajivciai;Dunajivtsi;Dunaiivți;Dunajowce
+Dure|CN||7t|3l7|6tx|49
+Deutz|DE||8r|3xh|jd|48|Düx;Divitia
+Dubovka|RU|Volgograd Oblast|a4|3sa|3gj|48|Dubowka;Doubovka;Dubovk
+Domalanoan|PH||71|18g|99x|47|Dumalandan;Domalandan
+Duxbury|US||48|38s|-5gb|47
+Dumas|US|Texas|2f|2rn|-7v9|46
+Dubai Sports City|AE||6c|1xk|49e|46
+Duuban|ET||2|ik|3jz|46
+Dương Đông|VN||6h|se|80s|46
+Dursley|GB||9b|3zk|-6j|46
+Duping|CN|Chongqing|7i|2dx|8hu|46
+Dunda|TZ||h|-mk|2n5|3x
+Duvernay-Est|CA||59|3it|-5oh|3w
+Dundonald|GB|Northern Ireland|9b|47n|-g4|3w|Dún Dónaill
+Dulwich Hill|AU||8l|-2m6|bnu|3r
+Dundigal|IN||6t|1cx|61t|3r
+Duvergé|DO||4v|1f2|-5io|3q
+Qobustan|AZ||61|33c|3t9|3q|Duvannı;Kobustan;Gobustan;Duvannyy;Duvanny
+Dunmore|US||48|372|-5u3|3q
+Dungas|NE||18|10a|py|3q|Doungas;Dengas
+Dutywa|ZA||o|-2h6|26m|3p
+Dūdhi|IN||6t|1v9|6f8|3j
+Dudhani|IN||6t|1c8|5w5|3j|Dudhni
+Half Moon Bay|US||3p|2w2|-9g3|3j|Duonluna Golfo;Halfmoon Bay
+Dueville|IT||9o|3is|w3|3i
+Dutsin-Ma|NG||u|yl|ku|3i|Dutsin Wai;Dutsinma
+Dunetha|IN||6t|1kr|5md|3h
+Duartina|BR||4w|-1q9|-3t8|3f
+Dundrum|IE||8z|441|-he|3e|Dún Droma
+Dunkirk|US|New York|48|3a0|-64d|3d
+Dungannon|GB||9b|47e|-it|3b|Danganonas;Dún Geanainn
+Ad Duraykīsh|SY||69|2oy|2se|3b|Duraykīsh
+Dubinino|RU||6u|4ai|6vh|3a
+Dufferin Grove|CA||59|3da|-64n|3a
+Đức Thọ|VN||62|1fi|85a|39
+Durmersheim|DE||8r|3rx|mz|39
+Durağan|TR||94|372|2pd|38
+Dumarkunda|IN||6t|1tv|6p3|36
+Duas Barras|BR||4w|-1p9|-3a4|36
+Dudley|US|Massachusetts|48|38t|-5jt|34
+Dugo Selo|HR||a6|3j9|194|33
+Ulcinj|ME||9l|38h|1he|30|Dulcigno;Ulqini;Ulcinium;Ulcinis
+Dugny|FR||9k|3rz|6q|2z
+Downpatrick|GB||9b|46x|-fw|2x|Dún Pádraig
+Durham|US|New Hampshire|48|3bt|-5h1|2v
+Dunbar|GB||9b|4bk|-6z|2v|Dùn Barra
+Durbuy|BE||8t|3vv|f6|2v|Derbu;Durbui
+Duque Bacelar|BR||2w|-bk|-3ba|2u
+Dulag|PH||71|uf|9nb|2u
+Denham Springs|US||2f|2cp|-70o|2t|Denhamspringsa;Dunham Springs
+Kozarska Dubica|BA||9r|3hi|1ap|2s|Dubica;Dubicza
+Daugavgrīva|LV||9n|4eg|1us|2s|Dünamünde;Dynemunt
+Dubove|UA|Zakarpattia|98|3pt|1ud|2r|Doubové;Dombó;Dubowe
+Dubliany|UA|Lviv|98|3um|1ux|2q|Dublany;Dublyany
+Dunn|US||48|2q3|-62d|2p
+Darzāb|AF||6o|2ry|51m|2o|Durzāb
+Akhuryan|AM||80|35a|3dy|2o|Duzk’end Mets;Duzk’end;Duzk’yand;Axuryan
+Dumar Kachhar|IN||6t|1sd|6c3|2n
+Dumont|BR||4w|-1n0|-3p9|2n
+DuPont|US|Washington|3p|3mu|-9gn|2m|Du Pont
+Dubrovytsya|UA||98|3z9|21s|2l|Dubrovytsia;Dubrovitsa
+Dunblane|GB||9b|4c3|-b0|2l|Dùn Bhlàthain
+Dunaföldvár|HU||8v|3m1|1gl|2j|Annamatia;Donaufeldburg
+Durga Nagar Part-V|IN||6t|1x4|760|2j
+Dhuusamarreeb|SO||14|fe|3kv|2i|Dusa Marreb;Dhuusa Mareeb;Dusa Mareb;Dhusamareb;Dusamareb
+Sandymount|IE||8z|445|-ha|2i|Dumhach Thrá
+Dumangas|PH||71|u3|9gv|2i|Dumanoa
+Dubovka|RU|Tula Oblast|9i|45v|2xq|2h
+Launceston|GB||9b|3wo|-c4|2h|Dūnhēafod;Lannstefan
+Dunn Loring|US||48|301|-5yi|2g
+Duchcov|CZ||9m|3wk|127|2f|Dux
+Dŭstí|TJ||6d|2vr|5aq|2f|Dŭsty
+Tuomarinkylä|FI||92|4ne|1xd|2e|Domarby;Dumi
+Dubai Motor City|AE||6c|1xl|49g|2e|Motor City
+Dobele|LV||9n|4da|1so|2d|Duobelė;Doubelė;Doblen
+Dubrovka|RU|Bryansk Oblast|9i|455|2l3|2c
+Duşak|TM||5x|2vc|4mq|2c|Dushak
+Duférébo|CI||0|jp|-9l|2c|Duffrèbo
+Dunavarsány|HU||8v|3nc|1gz|2b
+Đường Lâm|VN||62|1mr|84z|2b
+Dumbrăveni|RO|Sibiu County|8u|3kf|1w9|2a|Elisabethstadt;Erzsébetváros;Ebesfalva
+Dunoon|GB||9b|4bf|-dp|2a|Dùn Omhain
+Dubí|CZ||9m|3wt|12b|29
+Dulayti|CN||7t|3op|6pw|29|Dulaiti
+Dumbrăveni|RO|Suceava|8u|3od|21e|29
+Düzköy|TR|Trabzon|94|35j|31i|29
+Dubovskoye|RU||9i|3np|3at|28|Dubovskoje
+Duku|NG||u|v8|dn|28|Dukku
+Dunajská Lužná|SK||8s|3pk|1by|28
+Thurles|IE||8z|42c|-lo|27|Durlas;Dúrlas Éile;Terlsas;Durlus
+Dumbarton|US||48|2wg|-5z9|27
+Durandé|BR||4w|-1k4|-384|26
+Dorridge|GB||9b|41h|-4v|26|Durridge
+Duminichi|RU||9i|45t|2pj|26|Duminitsji
+Dubrovka|RU|Leningradskaya Oblast'|9i|4m8|2dx|26|Tuprova;Dubrowka
+Duvall|US||3p|3om|-9ev|25|Duval
+Dunbar|US|West Virginia|48|2yk|-6b2|25
+DuBois|US|Pennsylvania|48|368|-62s|24|Du Bois
+Dungarvan|IE||8z|40p|-l7|24|Dún Garbhán
+Dural|AU||8l|-2lk|bni|23
+Dunellen|US||48|34r|-5qv|22
+Durack|AU|Queensland|8c|-24n|bsz|22
+Dulao|PH||71|ta|9hi|22
+Dusheti|GE||7n|38x|3g6|22|Dushet'i;Dushet;Duscheti
+Dunboyne|IE||8z|44e|-hz|21|Dún Búinne
+Dukhān|QA||7b|1ym|3x2|21|Dukhkhān
+Düdingen|CH||a7|3m5|jz|20|Guin
+Dumbrava Roşie|RO||8u|3m8|21f|1z
+Dunlop|AU||8l|-2pr|bhy|1y
+Duntocher|GB||9b|4bc|-ca|1y
+Dunay|RU||7w|3b4|a7m|1y|Dunaj;Dunai
+Dubrowna|BY||9g|47l|2d9|1x|Dubrovka;Dubrovno;Dubroŭna
+Dúrcal|ES||9d|2ur|-9x|1x
+Dulovo|BG||9v|3dq|23f|1w|Dulowo
+Dumra|IN|Jharkhand|6t|1u4|6nh|1w
+Divjakë|AL||9y|35w|1i9|1v|Divjaka;Diviaka;Duvijaka;Divjak;Divjaca
+Durach|DE||8r|3oh|sq|1v
+Dūst Moḩammad Khān|IR||7o|2ei|4rn|1u
+Dumingag|PH||71|mp|9in|1t
+Duki|PK||6q|2br|5ah|1s
+Dul’durga|RU||67|3wr|8rj|1s|Duldurga;Duldurgh
+Dukhnah|SA||7e|1yg|3d6|1s
+Dunluce|CA||2s|44y|-8rd|1r
+Dumari urf Damodarpur Shahjahan|IN||6t|20i|6l4|1r
+Dungamal|IN||6t|1io|6km|1r
+Duarte|MX||41|1ml|-7u0|1r
+Dullstroom|ZA||o|-1ym|2bn|1r
+Dunlap|US|Indiana|38|37o|-6mo|1q
+Dubňany|CZ||9m|3rw|1bh|1q
+Dungarpur|IN|Gujarat|6t|1n5|5jc|1p
+Dunningen|DE||8r|3px|nn|1o
+Duvenstedt|DE||8r|457|s2|1o
+Dubna|RU|Tula Oblast|9i|46f|2uo|1o
+Dudley Park|AU|Western Australia|8k|-2if|8xh|1o
+Dundonald|CA||4q|40v|-88h|1o
+Düğrek|TR||94|2vd|26x|1o
+Dünyamalılar|AZ||61|32h|3oo|1o|Dun’yamalylar;Dünyamallar
+Dulce Grande|MX||41|1rw|-7vt|1o
+Du Quoin|US||2f|2xl|-6vw|1n|Duquoin
+Dukhovnitskoye|RU||9s|41s|3px|1n|Dukhovnitskoje;Duchownizkoje;Duhovnyickoje;Duhovnitskoye;Duchownickoje
+Duindorp|NL||8m|40p|bu|1n
+Dunnville|CA||59|3b6|-656|1n
+Durena|IN||6t|1q6|6df|1n
+Đurđevac|HR||a6|3jw|1bf|1m|Djurdjevac
+Duonfla|CI||0|j0|-fa|1m
+Duba-Yurt|RU||9i|3bk|3j1|1m|Duba-Jurt;Dubin-Evl;Dubin-Evla;Rodnikovoe;Rodnikovoye
+Dudeştii Vechi|RO||8u|3jx|1kw|1l
+Dudenhofen|DE||8r|3t0|nb|1l
+Duivendrecht|NL||8m|41d|dq|1l
+Dunholme|GB||9b|442|-1b|1k|Dunholm
+Doumé|CM||j|br|11d|1k|Dume
+Dūsi|IN||6t|zi|65c|1k
+Dubki|RU|Dagestan|9i|3bi|3m4|1k
+Duquesne|US|Pennsylvania|48|346|-65u|1j
+Durham|US|California|3p|325|-9ec|1j
+Debdou|MA||d|2me|-8g|1i|Debdú;Dubdu;Dabdou;Debdau
+Dumpay|PH||71|184|9af|1i|Dompay
+Dundori|KE||16|-p|2so|1i|Dondori
+Duga Resa|HR||a6|3i9|172|1i|Duga Rosa
+Dundas Valley|AU||8l|-2lv|bnl|1i
+Dundarave|CA||5b|3t2|-9i7|1i
+Domampot|PH||71|18g|9b5|1h|Dumanpot;Domanpot
+Dulangan|PH|Western Visayas|71|vu|9hk|1h
+Dusslingen|DE||8r|3ql|p6|1h
+Dalgopol|BG||9v|3bl|23z|1h|Delgopol;Dŭlgopol
+Dumfries|US||48|2z5|-5yt|1g
+Dorgeli|RU||9i|3aj|3nd|1g|Durgeli
+Duncans|JM||3i|1fb|-5ze|1g
+Dursunlu|TR||94|2sh|2sg|1f
+Dunlap|US|Tennessee|2f|2q9|-6l7|1f
+Dudpatil I|IN||6t|1x7|75r|1f
+Dungarpur|IN|Gujarat|6t|1nl|5ft|1e
+Duda|RO||8u|3lv|25w|1e
+Burang|CN||7i|2c6|69i|1e|Durang;Purang
+Čelarevo|RS||8q|3hr|1i8|1e|Čelarevas;Dunacséb
+Dubrovitsy|RU||9i|4a0|2w5|1e
+Dunsborough|AU||8k|-2ld|8vq|1e
+Duryea|US||48|36u|-5ue|1d
+Duszniki-Zdrój|PL||a5|3w0|19j|1d|Reinerz;Duszniki;Bad Reinerz;Duszniki Zdrój;Duszńiki-Zdrůj;Dušņikizdroja
+Dulceşti|RO|Neamț County|8u|3mh|22d|1d
+Dürrröhrsdorf|DE||8r|3xr|12w|1c|Dürröhrsdorf
+Dubrave Gornje|BA||9r|3fj|1g1|1c
+Dmytrivka|UA|Odesa|98|3jp|28j|1c|Dumitrești;Dmytriwka;Dimitrovka;Dmitrivka
+Duokro|CI||0|ii|-ej|1c
+Dunguan|PH||71|jb|9mu|1c|Dungguan
+Dundonald|ZA||o|-20x|2dm|1c
+Dumeşti|RO|Iași County|8u|3n2|23z|1b
+Duffield|GB||9b|437|-45|1b
+Ðurđevo|RS||8q|3hx|1jr|1b|Djurdjevo
+Dulles Town Center|US||48|30g|-5z2|1a|Dulles
+Duggan|CA||2s|44j|-8rb|19
+Dve Mogili|BG||9v|3d3|1zv|19|Duas Mogili;Dwe Mogili;Dbb Mogili
+Dumlupınar|TR|Ankara|94|33g|2ji|19|Dumlupinai
+Dukhovshchina|RU||9i|49b|2i1|19|Dukhovsjtsjina;Duchowschtschina;Dujovshina;Doukhovchtchina;Duchovščina;Doechovsjtsjina;Duxovşina;Duĥovŝĉina;Duhovštšina;Duchowszczina;Dukhovsxina;Duchowšćina;Dukhovschina
+Dumitra|RO||8u|3n6|1w0|19
+Do Kūhak|IR||7o|2ar|41m|19|Dūkūhak;Dow Kūhak
+Dumbrăviţa|RO|Brașov County|8u|3j5|1yn|18
+Dumbrăviţa|RO|Maramureş|8u|3o8|1tp|18
+Dumbrava|RO|Prahova|8u|3go|20q|18
+Dunvant|GB||9b|3zf|-b7|18|Dyfnant
+Dutch Harbor|US||1h|45p|-cum|18
+Dumas|US|Arkansas|2f|2m5|-725|17
+Dueré|BR||1k|-vi|-3sv|17
+Douvaine|FR||9k|3kn|hi|17|Duvania
+Ducats|ZA||o|-2jh|25i|16
+Duclair|FR||9k|3tg|2g|16
+Duleek|IE||8z|452|-hu|16|Damhliag;Dulikas;Dulecum
+Dunavecse|HU||8v|3mb|1gp|16|Večica
+Dumbrăveni|RO|Vrancea|8u|3ih|23c|16
+Durneşti|RO||8u|3op|23a|15
+Dundee|US|Florida|48|25u|-6aq|15
+Dumbría|ES||9d|3bh|-pb|15
+Dudeşti|RO||8u|3gp|247|15
+Dunshaughlin|IE||8z|44n|-i6|14|Dún Seachlainn;Dunšaulinas
+Macduff|GB||9b|4g7|-6y|14|An Dùn;Dùn MhicDhuibh
+Dugcal|PH||71|11u|9i4|14|Dugkal;Dugal
+Dulangan|PH|Mimaropa|71|10z|9cf|14
+Dundee|US|Michigan|2q|38k|-6ge|14
+Dumalinao|PH||71|lq|9ip|14
+Dürrlewang|DE||8r|3rc|pc|13
+Dupo|US||2f|2z0|-6yl|13
+Dusty Place|KY||2e|1hu|-6a4|13
+Durbach|DE||8r|3qp|ma|13
+Dubravica|BA||9r|3fg|1ec|13
+Duruca|TR|Mardin|94|2v1|36r|12
+Dun-sur-Auron|FR||9k|3m8|75|12|Dun-le-Roi
+Dubrave Donje|BA||9r|3fk|1fy|12
+Duo'er|CN||7i|2lw|80l|12
+Duvan|RU||7z|4ap|4gu|11
+Dueñas|PH||71|ur|9gm|11
+Dunapataj|HU||8v|3lk|1gs|11
+Nová Dedinka|SK||8s|3pv|1c8|11|Duna-Újfalu;Dunaújfalu
+Dunean|US||48|2oq|-6cy|11
+Dublin|US|Texas|2f|2h5|-7l6|11
+Dumbrăveşti|RO|Prahova|8u|3h8|208|11
+Dūzdūzān|IR||7o|2xf|3mw|10
+Dumeşti|RO|Vaslui County|8u|3m5|23s|10
+Dumanjog|PH||71|ry|9iw|10|Dumanjug
+Dulce Nombre|HN||56|159|-6ur|10
+Dumarais|PH||71|16v|9b9|10
+Dublje|RS||8q|3gg|1i7|10
+Duliby|UA||98|3sr|1u6|z
+Duyure|HN||56|11v|-6p6|z
+Dudu|CN||7i|2ab|8cb|z
+Durack|AU|Northern Territory|8e|-yn|a3t|z
+Duisburg|BE||8t|3x6|co|z|Duysbourg
+Dunham|CA||59|3hd|-5m8|z
+Durania|CO||27|lf|-5lu|z
+Durtal|FR||9k|3of|-n|y
+Dubino|IT||9o|3k9|q7|y
+Dongo|IT||9o|3k5|ps|y|Dungum;Dongh
+Dunlewy|IE||8z|48u|-mi|y|Dún Lúiche
+Dubki|RU|Yaroslavl Oblast|9i|4ft|32e|y
+Dunavtsi|BG|Vidin|9v|3e0|1re|y|Dunavtzi
+Dungiven|GB||9b|48l|-j8|x|Dún Geimhin
+Dugi Rat|HR||a6|3cp|1a8|x
+Durand|US|Michigan|2q|3b7|-6ha|x
+Duas Estradas|BR||2w|-il|-2qe|x
+Duncan|US|South Carolina|48|2p2|-6c7|x
+Dedinka pri Dunaji|SK||8s|3pu|1c7|x|Dunasáp
+Dusnok|HU||8v|3kv|1go|x|Dusšnok
+Dugopolje|HR||a6|3d2|1a4|w
+Oussougoula|CI||0|mb|-h6|w|Dussouhoula;Oussouhoula
+Dundee|US|Oregon|3p|3hs|-9hp|w
+Dumarao|PH||71|vb|9gt|w|Dumalao
+Dungon|PH||71|wk|9fs|w|Dongon
+Dumlupınar|TR|Kütahya|94|2zx|2ba|w
+Dmytrivka|UA|Odesa|98|3is|29l|v|Dmytriwka;Dumitrești
+Duingen|DE||8r|40g|qy|v
+Dubovyy Umyot|RU||9p|436|3vp|v|Dubovyj Umet;Dubovy Umet
+Duran|PH||71|va|9gj|v
+Dudarkiv|UA||98|3w5|2dz|v|Dudarkovo;Dudarkov
+Doussard|FR||9k|3j6|hb|v|Dulciarium
+Dueñas|ES||9d|38c|-cn|v
+Duffy|AU||8l|-2q5|bhz|v
+Dunabogdány|HU||8v|3or|1gw|v|Bogdan;Cirpi;Bohdanovce nad Dunajom
+Dumalag|PH||71|vf|9gm|u
+Dunières|FR||9k|3hm|c2|u
+Dommeldange|LU||9c|3tv|h2|u|Dommeldingen;Dummeldeng
+Durlangen|DE||8r|3rq|r8|u
+Dunnington|GB||9b|45v|-p|u
+Durham|US|Connecticut|48|378|-5lw|t
+Dunstable|US||48|3ak|-5ik|t
+Dūrā al Qar‘|PS||6g|2gs|2pv|t|Dūrā el Qar‘
+Duacı|TR||94|2up|2d5|s
+Due Carrare|IT||9o|3ht|wu|s
+Dumbrava|RO|Timiș County|8u|3ja|1pg|s
+Dundalk|CA||59|3ep|-67b|s
+Dufferin|CA||5b|3wr|-9ae|s
+Durusu|TR||94|36q|27o|s|Terkos
+Dugadda|IN||6t|2at|62d|s|Dogadda
+Dūdej|IR||7o|2am|42d|s
+Douongopleu|CI||0|l8|-mb|s|Duongpleu;Donangopleu
+Doljo|PH||71|qn|9jp|s|Duljo
+Dürnau|AT||a2|3pc|11w|r
+Dulce|US||2p|2ul|-898|r
+Do Asb|IR||7o|2tz|3qx|r|Dow Asb;Duasb
+Dubreuil|MU||ag|-1ke|4g0|r
+Dulian|PH||71|js|9fe|r
+Dupont|US|Pennsylvania|48|36t|-5uf|r
+Dublin|US|Virginia|48|2v3|-685|r
+Duns|GB||9b|4ay|-6j|r|Na Dùintean;An Dún
+Dürrwangen|DE||8r|3sf|sv|r
+Dundonald|GB|Scotland|9b|4ae|-cr|r
+Durham|US|New York|48|39s|-5q1|r
+Dummerstorf|DE||8r|461|xz|r
+Dulangan|PH|Mimaropa|71|11f|9c2|r
+Dumlan|PH||71|kn|9po|r
+Dumbrăviţa|RO|Timiș County|8u|3j8|1n0|q|Újszentes;Neussentesch;Uisenteş
+Dunkirk|US|Indiana|38|358|-6nz|q
+Dunaszentgyörgy|HU||8v|3l9|1ga|q
+Donegal|IE||8z|47t|-mj|q|Dún na nGall;Doon ny Ghoal;Dungalia
+Dürmentingen|DE||8r|3po|qh|q
+Dumabato|PH||71|19c|9e2|q|Dumabatu
+Dunipace|GB||9b|4bn|-av|q
+Dulig|PH||71|18g|99t|q|Dulit
+Dussen|NL||8m|3zp|ds|p
+Duttlenheim|FR||9k|3qt|l1|p
+Dunkirk Town Center|US||48|2zk|-5wy|p
+Duinzigt|NL||8m|40q|c0|p
+Dunkirk|US|Maryland|48|2zk|-5wy|p
+Duczki|PL||a5|41g|1n5|p|Duszki
+Kingscourt|IE||8z|45r|-ix|p|Dún An Ri;Dún na Rí
+Gložan|RS||8q|3hs|1id|p|Hložany;Dunagálos;Gloschein;Glozsán;Gloĵan
+Durant|US|Mississippi|2f|2jw|-6xl|p
+Dukay|PH||71|ij|9m0|p|Ducay
+Dualla|CI||0|mk|-i6|p|Dwalla;Duala
+Dudzele|BE||8t|3yf|8z|o|Dudzeele
+Dujuuma|SO||14|3h|3a9|o|Dujuma
+Dūst-e Īrān|IR||7o|2ar|3zu|o|Dūsīrān
+Dulovo|UA||98|3pq|1tj|o|Dulfalva;Dulove
+Dumalaguing|PH||71|n7|9ne|o
+Dunayivtsi|UA|Khmelnytskyi|98|3s6|22k|o|Dounaïvtsi
+Dunchurch|GB||9b|41e|-3l|o
+Dobbiaco|IT||9o|3lt|xy|o|Toblach;Duplagum
+Dunkirk|US|Indiana|38|346|-6kp|n
+Dualing|PH||71|jv|9m1|n
+Ðurđenovac|HR||a6|3ii|1e5|n
+Dudley|AU||8l|-2jn|bpg|n
+Dolzago|IT||9o|3j5|py|n|Dulciacum;Dulzàgh
+Ducey|FR||9k|3r2|-3l|n
+Dobdoban|PH||71|yx|9f7|n|Dubduban
+Dudeștii Noi|RO||8u|3jc|1mm|n
+Dumbrăvița|RO|Iași County|8u|3n9|22k|n
+Dubky|UA||9t|3gu|2mi|n
+Sungai Durian|MY||6v|c0|7sp|n|Durian River
+Ducherow|DE||8r|45c|12a|m
+Dumaguil|PH||71|ie|9m9|m
+Dolcinópolis|BR||4w|-1jw|-3wb|m|Dulcinópolis
+Du-San Pya|MM||7y|1bc|7f2|m
+Dublin|US|Pennsylvania|48|345|-5sw|m
+Dūmā|PS||6g|2h2|2q9|m|Dōma
+Dubrynychi|UA||98|3rk|1qh|m|Bercsényifalva;Dubrynich;Dubrynych
+Dunaszekcső|HU||8v|3k1|1g4|m|Sekçöy;Seetschke;Florentia;Lugio;Sečuv;Sečuj;Sečuh;Sektsche;Retschingen;Seetsche
+Dugongan|PH||71|136|9hf|l|Dugungan;Dogongan
+Dubai|IN|Uttar Pradesh|6t|238|6ed|l
+Durtol|FR||9k|3j8|8h|l|Durtòu
+Dukla|PL||a5|3to|1o8|l
+Dudchany|UA||98|3n3|2ls|l|Dudtsjany;Dudtschany;Dudčani;Doudtchany;Dudczany;Dudceanî;Doedtsjany;Dudçany;Dudchino
+Dürnau|DE||8r|3r4|qs|l
+Duszniki|PL||a5|41p|19l|l
+Duxford|GB||9b|40p|g|l
+Dubliany|UA|Lviv|98|3ti|1t0|l|Dublany;Dublyany
+Ducos|NC||b8|-1ps|cua|l
+Dukwe|BW||m|-1l6|21e|k
+Dunāi|IN||6t|25h|60j|k
+Dundowran Beach|AU||8c|-1y7|bsc|k
+Dutton Park|AU||8c|-24e|bt3|k
+Dungog|AU||8l|-2i0|bpj|k
+Dubai|IN|Uttar Pradesh|6t|213|68b|k
+Dumfries A|ZA||o|-1wt|2f0|k
+Durham|US|Oregon|3p|3i4|-9gz|j
+Dubrovka|RU|Kirov Oblast|97|4kj|3y4|j
+Duchesne|US||2p|33k|-8io|j
+Dunakiliti|HU||8v|3p9|1c1|j|Frauendorf;Kliće;Klity
+Dumbrava de Sus|RO||8u|3fo|1s8|j
+Durand|US|Wisconsin|2f|3fz|-73h|i
+Dumeni|RO||8u|3pd|21q|i
+Dunleer|IE||8z|45k|-hs|i|Dún Léire
+Durant|US|Iowa|2f|37k|-70j|i
+Dunmore East|IE||8z|40v|-jg|i|Dún Mór;Dunmore
+Dom Shahr|IR||7o|23r|4ed|i|Dovom Shahr;Dumshehr;Domshahr
+Duboka|RS||8q|3fo|1og|i
+Dumfries B|ZA||o|-1wt|2ey|i
+Earlston|GB||9b|4ak|-7f|i|Dún Airchill
+Dunnellon|US||48|28p|-6d2|i
+Duson|US||2f|2c0|-743|i
+Dowlatābād|IR|Isfahan|7o|2jg|3x0|i|Daulatābād;Dulatābād
+Durazzano|IT||9o|362|145|i
+Dublyanshchyna|UA||98|3ts|2o5|i
+Dubá|CZ||9m|3we|14e|i|Dauba
+Dürnkrut|AT||a2|3qn|1at|i
+Duquesne|US|Missouri|2f|2v0|-7ae|h
+Dunmore Town|BS||47|1yu|-5ww|h
+Dundong|CN||7i|209|8f6|h
+Dunlap|US|Ohio|48|315|-6j2|h
+Dürrlauingen|DE||8r|3qn|sz|h
+Duquesnes-Crémone|CI||0|h6|-av|h
+Dürbheim|DE||8r|3pi|of|h
+Dundaga|LV||9n|4fq|1q3|h
+Dunswell|GB||9b|45g|-11|h
+Dibrivsk|UA||98|3zl|20n|h|Dibrivs’k;Dubrovsk;Dibrovsk
+Dusyno|UA||98|3qr|1s6|h|Zajgó;Dusyna
+Dundee|US|New York|48|3a4|-5xu|h
+Dufftown|GB||9b|4fl|-8p|h|Baile Bháinidh
+Dunmanway|IE||8z|3zo|-pc|h|Dún Mánmhaí;Dúnmaonmhuí
+Dulwich|AU||8b|-2p2|ap3|h
+Dunăreni|RO||8u|3es|257|g
+Dulovce|SK||8s|3oz|1er|g|Újgyalla
+Ducklington|GB||9b|3zt|-44|g
+Duggendorf|DE||8r|3sg|x4|g
+Dumbrăvița|RO|Botoșani County|8u|3pe|21f|g
+Dunsmuir|US||3p|36h|-9fn|g
+Duppigheim|FR||9k|3qt|l3|g|Díppje
+Düzova|TR||94|2vr|38x|g
+Dublin|US|New Hampshire|48|3b7|-5k6|g
+Douglas|GB||9b|4ab|-ap|g|Dùbhghlas
+Duće|HR||a6|3co|1ab|g
+Duque|PR||4m|1eo|-52m|f
+Gardinovci|RS||8q|3hk|1jy|f|Dunagárdony;Gardinovaz;Gardinovacz;Gardinovcze;Gardinovce
+Duncannon|US||48|348|-5xy|f
+Dub nad Moravou|CZ||9m|3tg|1c0|f
+Dundas|US||2f|3ff|-76w|f
+Dunaalmás|HU||8v|3ol|1ew|f|Dunajské Jablko;Almas
+Dunasziget|HU||8v|3p6|1c7|f|Milchdorf;Širpienja;Sigete;Dobrohoštský Ostrov
+Pravda|UA||9t|3j6|2m1|f|Dürmen
+Dulac|US||2f|29n|-6zz|f
+Duizel|NL||8m|3yp|eq|f
+Dulyapino|RU||9i|4f2|35d|f|Duljapino
+Dūlāb|IR||7o|224|4a2|f
+Dümmer|DE||8r|44u|v4|e
+Dunlap|US|Illinois|2f|35i|-6x4|e
+Dunnigan|US||3p|301|-9et|e
+Durand|US|Illinois|2f|39w|-6w5|e
+Dubrovino|RU||75|4a3|6fd|e
+Dūnchāl|IR||7o|2tw|42u|e
+Dübendorf / Vogelquartier|CH||a7|3no|nx|e
+Dunaegyháza|HU||8v|3m4|1gn|e
+Duruelo de la Sierra|ES||9d|38j|-85|e
+Duisans|FR||9k|3vr|7h|e
+Dudince|SK||8s|3pt|1gh|e|Gyűgy
+Duino|IT||9o|3j5|11s|e
+Düngenheim|DE||8r|3vm|jx|e
+Dunkeswell|GB||9b|3xa|-8y|e
+Dunnstown|US||48|36b|-5z2|e
+Dūzeh|IR||7o|27q|434|d
+Dug|IN||6t|2gb|5r5|d
+Dunes City|US||3p|3dw|-9ks|d
+Dunkeld|GB||9b|4d5|-9z|d|Dùn Chailleann
+Dugny-sur-Meuse|FR||9k|3sf|ez|d
+Dulcești|RO|Constanța County|8u|3dz|27b|d
+Dumbrava|RO|Bacău County|8u|3kn|22p|d
+Düzce|TR|İzmir Province|94|2y8|22i|d
+Duenweg|US||2f|2v0|-7a9|d
+Daba Kunda|GM||7|110|-13q|d|Dula Kunda;Doba Kunda
+Dukora|BY||9g|454|25m|d
+Dübendorf / Kunklerstrasse|CH||a7|3no|nz|d
+Dushnik|AL||9y|355|1jf|d|Dyshnik
+Dubrava|HR|Zagreb County|a6|3jb|18m|d
+Duhanas|AL||9y|354|1jj|d|Dutanasi
+Dury|FR||9k|3uh|6b|d
+Dunedoo|AU||8l|-2gy|biz|d
+Dünsen|DE||8r|431|o0|d
+Due West|US||48|2nd|-6cv|c|Duewest
+Dubrava|HR|Zagreb County|a6|3jc|19y|c
+Dubivtsi|UA||98|3qb|1zf|c|Doubivtsi;Dubăuți
+Dubynove|UA||98|3pp|2c5|c|Doubynové
+Dürrhennersdorf|DE||8r|3xt|14k|c|Suche Hendrichecy
+Duck Hill|US||2f|2lf|-6x7|c|Duckhill
+Duin en Bosch|NL||8m|420|cx|c
+Duboistown|US||48|36i|-5y0|c|Dubbistown
+Dubová|SK||8s|3qd|1c6|c|Cserfalu
+Duncansville|US||48|34a|-61v|c
+Dugenta|IT||9o|369|145|c
+Duras|FR||9k|3g4|i|c
+Dukat|RU||6z|4tt|bzj|c
+Dürrenäsch|CH||a7|3ng|mo|c
+Dumeny|UA||98|3py|21m|c|Doumény;Dumeni
+Dubaso|CI||0|l4|-hi|c|Dubasso
+Dumbrava|RO|Iași County|8u|3ms|24j|c
+Dungloe|IE||8z|48n|-n8|c|An Clochán Liath
+Dunlop|GB||9b|4ar|-cm|c
+Duba|UA||98|3rp|1v4|c
+Dubiecko|PL||a5|3uf|1q7|c|dubetsk
+Dossenheim-sur-Zinsel|FR||9k|3rl|kk|b|Dossenheim an der Zinsel;Duusne
+Dubné|CZ||9m|3s2|13w|b
+Dumbrava|RO|Neamț County|8u|3n6|21i|b
+Dubrivka|UA|Zakarpattia|98|3q6|1s5|b|Dubrovka;Dibrivka
+Dutlwe|BW||m|-1um|1ue|b
+Dun-le-Palestel|FR||9k|3kn|4n|b
+Dubrava|HR|Šibenik-Knin|a6|3di|18b|b
+Dunum|DE||8r|44w|l9|b
+Durnal|BE||8t|3vu|dv|b
+Bogdaniec|PL||a5|42d|15v|b|Dühringshof
+Dubovany|SK||8s|3qt|1d9|b
+Dunloy|GB||9b|48t|-ht|b
+Dundrum|GB||9b|46q|-g8|b
+Dunmore|CA||2s|3ut|-8j8|b
+Duttenberg|DE||8r|3st|pj|b
+Dubicko|CZ||9m|3uf|1b4|b
+Dubai|IN|Uttar Pradesh|6t|238|6b3|b
+Ðurići|RS||8q|3dt|1hx|b
+Duomo|IT||9o|3ih|ru|b
+Dubova|RO||8u|3fy|1pv|b
+Dudu|RO|Teleorman County|8u|3e6|1wk|b
+Dudeldorf|DE||8r|3ut|ig|b
+Durrenbach|FR||9k|3ru|ll|b
+Dübendorf / Wasserfurren|CH||a7|3nn|nx|b
+Dulverton|GB||9b|3xs|-9v|b
+Dubova (Driloni)|XK||8q|3an|1kl|b|Dubovë;Dubova
+Dumbrăvița|RO|Suceava|8u|3no|217|a
+Dudașu|RO||8u|3g1|1r2|a|Dudaşi
+El Durazno|MX|Durango|44|1yr|-891|a|Durazno
+Dubienka|PL||a5|3xt|1ud|a|Dubno;Dębno
+Duagbo|CI||0|hy|-fw|a|Douagbo
+Dumitrești|RO|Olt|8u|3g4|1vk|a
+Dürrenroth|CH||a7|3mt|ln|a|Rota
+Dürnten|CH||a7|3nc|ok|a
+Dumbrava|RO|Satu Mare County|8u|3ow|1s4|a
+Dunbar|US|Pennsylvania|48|332|-655|a
+Dübendorf / Sonnenberg|CH||a7|3nn|nz|a
+Dūsh|IR||7o|2vv|3k6|a
+Dubford|GB||9b|4ex|-5u|a
+Dūzān|IR||7o|2km|3ud|a|Dīzān
+Duruköy|TR||94|2ve|38g|a
+Obava|UA||98|3qs|1rd|a|Dunkófalva
+Dublovice|CZ||9m|3tz|13w|a
+Dubois|US|Wyoming|2p|3cx|-8gj|a
+Dunbogan|AU||8l|-2fx|bsi|a
+Dunnavant|US||2f|2l1|-6oe|a
+Dubach|US||2f|2iu|-75e|a
+Durette|FR||9k|3k6|cy|a
+Dunlap|US|Iowa|2f|389|-7dk|a
+Dobrovnik|SI||9a|3ll|19f|a|Dobronak;Dubrovnik
+Dubeninki|PL||a5|46t|1qo|a|Dubininkai
+Dunaszentbenedek|HU||8v|3lf|1gh|a|Sabendak
+Dudleyville|US||4i|2jg|-8jl|a
+Dubodiel|SK||8s|3rg|1eb|a
+Dibrivka|UA|Poltava|98|3v0|2l4|a|Dubrovka
+Dunzweiler|DE||8r|3ta|kb|9
+Do Dehak|IR||7o|2mu|3wh|9|Dūdehak;Dow Dehak
+Duonéfla|CI||0|kw|-h8|9
+Dunes|FR||9k|3eh|25|9
+Duravel|FR||9k|3fo|30|9
+La Dulcita|MX||41|1rk|-7va|9|Dulcita
+Dunlop|CA||43|3oh|-52l|9
+Dunning|GB||9b|4cf|-9z|9
+Durmenach|FR||9k|3o1|ke|9
+Düztaş|TR||94|2w4|335|9
+Duli|CN||7i|318|92x|9
+Dunajov|SK||8s|3t4|1ga|9
+Dübendorf / Im Zwinggarten|CH||a7|3no|ny|9
+Dübendorf / Eglishölzli|CH||a7|3np|nz|9
+Dudescu|RO||8u|3gv|247|9
+Duping|CN|Guizhou|7i|23t|8d7|9
+Dugger|US||38|30j|-6qe|9
+Duneau|FR||9k|3pj|1g|9
+Dunzhai|CN||7i|21m|8fj|9
+Dulov|SK||8s|3s8|1eq|9
+Duingt|FR||9k|3jb|h8|9|Duingium
+Dūkštas|LT||a3|4a8|214|9|Dūkšta;Dūkšts;Dukszty;Dukshty;Dukshtas
+Dürndorf|AT||a2|3p8|12y|9
+Dumenza|IT||9o|3ju|of|9
+Duncan Falls|US||48|32r|-6bj|9|Duncans Falls;Duncans Flls
+Dundowran|AU||8c|-1y9|bsd|9
+Düdenbüttel|DE||8r|44v|pz|9
+Dunolly|AU||8j|-2ue|b39|9
+Duibo|CI||0|jr|-ep|9
+Dumadumana|BW||m|-1wb|1zv|9
+Durchhausen|DE||8r|3pg|o3|9
+Dunkirk|US|Ohio|48|35b|-6gc|9
+Dorfulija|MK||9u|381|1ot|9|Durfulija
+Dunjkovec|HR||a6|3kv|19h|9
+Duchnice|PL||a5|410|1ls|9
+Dumbrăveni|RO|Bistrița-Năsăud County|8u|3nc|1un|9
+Duraklı|TR||94|2vh|2wv|9
+Dukovany|CZ||9m|3sc|18z|9|Dukowan
+Durrenentzen|FR||9k|3pl|ku|9|Dürrenenzen
+Dumanlar|TR||94|2ut|2du|9
+Dübendorf / Birchlen|CH||a7|3no|nx|9
+Dunwich|AU||8c|-24e|bu4|8
+Dublin|SL||l|mm|-10n|8
+Dumbrava|RO|Mureș County|8u|3me|1ww|8
+Dunkerton|US||2f|3a9|-740|8
+Dumovec|HR||a6|3j8|18w|8
+Dunlavin|IE||8z|43e|-im|8|Dún Luáin
+Durrow|IE||8z|42s|-kj|8|Darú
+Düzköy|TR|Düzce|94|35o|2ej|8
+Dusetos|LT||a3|4av|1zt|8|Dustos
+Dubove|UA|Chernivtsi|98|3q3|1zr|8|Doubové;Dubova
+Dumbutu|GM||7|113|-17z|8|Dumbuttu
+Dursunlar|TR||94|36z|2hh|8
+Durabeyler|TR||94|327|27h|8
+Dunkovytsia|UA||98|3q8|1rn|8|Dunkovytsya;Dunkovitsa
+Dübendorf / Stägenbuck|CH||a7|3no|ny|8
+Dumfries C|ZA||o|-1wr|2ez|8
+Dubrivka|UA|Zakarpattia|98|3qq|1qi|8|Dibrovka;Dubrovka
+Dumbrăvița|RO|Bistrița-Năsăud County|8u|3na|1v6|8
+Dumanlı|TR|Şırnak|94|2vt|37t|8
+Ðulovac|HR||a6|3iv|1cf|8|Djulovac
+Duncan|US|Arizona|4i|2iw|-8f3|8
+Dübendorf / Heugatterstrasse|CH||a7|3no|nx|8
+Durfort-Lacapelette|FR||9k|3eq|35|8
+Dunseith|US||2f|3rl|-7py|8
+Dugway|US||2p|33q|-8p6|8
+Dübendorf / Zelgli|CH||a7|3nn|nx|8
+Ðurmanec|HR||a6|3kc|180|8|Gjurmanec;Djurmanec
+Dugna|RU||9i|475|2ud|8
+Dibrivka|UA|Chernivtsi|98|3q1|1z0|8|Dumbrava
+Doneraile|IE||8z|412|-nu|8|Dún ar Aill;Donaraile
+Duttendorf|AT||a2|3pr|zp|8
+Duzlydepe|TM||5x|2ye|4dm|8
+Drmoul|CZ||9m|3uq|z7|8|Dürrmaul
+Duck Run 3|BZ||24|1by|-6vc|8
+Duanoufla|CI||0|l0|-gw|8
+Dun-sur-Meuse|FR||9k|3t6|ef|8
+Dunărea|RO||8u|3fg|264|8|Boascic;Boasgic
+Dunston|GB||9b|43n|-15|8
+Dublin|US|Indiana|38|32l|-6kp|8
+Düzoba|TR||94|2vv|36n|8
+Donore|IE||8z|455|-hu|8|Dún Uabhair
+Duck Run|BZ||24|1bu|-6va|8
+Dumitrești|RO|Vrancea|8u|3ij|22t|8
+Dudu|RO|Ilfov|8u|3fi|207|8
+Dūlmarz|IR||7o|2u3|43r|8
+Dübendorf / Frickenbuck|CH||a7|3nn|nz|8
+Zadunayivka|UA||98|3jb|28v|8|Dunăreanca;Sadunajiwka;Zadounaïvka
+Dunbar-Broadway|US||48|316|-5ws|7
+Dunajský Klátov|SK||8s|3pf|1d6|7
+Dubrovčan|HR||a6|3jx|17w|7
+Duran|FR||9k|3db|1l|7
+Dübendorf / Aesch|CH||a7|3nn|nz|7
+Dullatur|GB||9b|4bh|-b5|7
+Dübendorf / Gfenn|CH||a7|3nn|o1|7
+Dumbrava|RO|Iași County|8u|3nj|228|7
+Dutovlje|SI||9a|3j4|12f|7|Duttogliano;Duttigliano;Dotovlje
+Dulceanca|RO||8u|3eh|1xr|7
+Dunavățu de Jos|RO||8u|3gz|296|7|Dunăvăţul-de-Jos
+Dürnberg|AT||a2|3qa|13h|7
+Duerne|FR||9k|3iw|cl|7
+Dubyno|UA||98|3qu|1rb|7|Dubino
+Dümpelfeld|DE||8r|3w3|jb|7
+Ðurđekovec|HR||a6|3jg|18s|7|Djurdjekovec;Ðurđukovec
+Dubenec|CZ||9m|3vy|17w|7|Dubenetz
+Dotnuva|LT||a3|49t|1uc|7|Datnów;Duotnova;Dotnava;Dotnovo
+Dumitrița|RO||8u|3mr|1wf|7
+Dunaiv|UA||98|3tu|1wy|7|Dunajów;Dunayiv;Dunayuv;Dunayev
+Düzköy|TR|Artvin|94|36y|37l|7
+Dürboslar|DE||8r|3xe|he|7
+Dumitrana|RO||8u|3f4|208|7
+Durak|TR||94|2w8|2y4|7
+Dubrovskoye|UA||9t|3i3|2ms|7
+Dubyna|UA||98|3t3|2nj|7
+Dunoon|AU||8l|-27o|btw|7
+Dumbrăveni|RO|Gorj County|8u|3hf|1tb|7
+Durango|MX|Chiapas|41|18u|-78r|7|Victórico R. Grajales
+Dualchi|IT||9o|33r|oq|7
+Duhort-Bachen|FR||9k|3dg|-w|7
+Chervona Dibrova|UA||98|3pp|201|7|Dumbrava Roșie
+Durban-Corbières|FR||9k|3bg|7u|7
+Duddon|GB||9b|43q|-7l|7
+Dunkeld|AU||8j|-2wl|aze|7
+Durfort-et-Saint-Martin-de-Sossenac|FR||9k|3e7|b0|7|Durfort-Saint Martin-de Sossenac
+Dustin Acres|US||3p|2pu|-97n|7
+Dudley Park|AU|South Australia|8b|-2ow|aoy|7
+Ndouakro|CI||0|lo|-eo|6|Duakro
+Dobkovice|CZ||9m|3wv|13f|6|Dubkovice
+Dușești|RO||8u|3m4|1pm|6
+Duved|SE||9w|4w4|zr|6|Dufed
+Dudașu Schelei|RO||8u|3g0|1qs|6
+Düzlük|TR||94|2y4|33s|6
+Dumbrava|RO|Bacău County|8u|3ky|23z|6
+Durningen|FR||9k|3r8|l1|6
+Dumont|US|Iowa|2f|3ar|-76a|6
+Dunford Bridge|GB||9b|44o|-4w|6
+Dunaivka|UA||98|3ld|2qe|6|Dunayivka;Dunayevka
+Dubovce|SK||8s|3rh|1bx|6
+Dufur|US||3p|3i9|-9ch|6|Dulfur
+Duck Key|US||48|1wt|-68r|6
+Dumitreștii Gălății|RO||8u|3ml|256|6
+Dulces Nombres|MX||44|1zh|-7q1|6|La Lajita
+Dūrbīnī|IR||7o|22a|4am|6|Dūrbonī;Dūrbenī
+Duraklar|TR||94|35b|2eg|6
+Dumitreni|RO||8u|3kw|1ws|6|Szentdemeter;Mettersdorf
+Ducor|US||3p|2rp|-96p|6
+Dunbeg|GB||9b|4cs|-f4|6
+Durango Daboxtha|MX||41|1l2|-7n7|6
+Dubois|US|Idaho|28|3eq|-8nr|6
+Dumbrăveni|RO|Constanța County|8u|3e1|25q|6
+Dubrovki|RU||9i|45j|3cc|6
+Duck Run 2|BZ||24|1bw|-6vb|6|Duck Run II
+Dung|FR||9k|3ny|ir|6
+Dunmore|IE||8z|44y|-o9|6|Dún Mór
+Dobb-e Hardān|IR||7o|2ey|3qr|6|Dobb-e-Harvān;Dūb-e Ḩardān;Doobe Hardan;Dūbb-e Ḩerdan
+Dubenskiy|RU||7z|3yx|4db|6|Dubenskij;Dubinskiy
+Dushore|US||48|37c|-5w8|6
+Dudswell|GB||9b|3zu|-1o|6
+Dučice|ME||9l|3ao|1h4|6
+De Valls Bluff|US||2f|2om|-722|6|DeValls Bluff;Devall Bluff;De Vall's Bluff;De Vall Bluff;Duvall's Bluff
+Duchroth|DE||8r|3ua|lh|6
+Durhamville|US||48|3bs|-5u7|6
+Dübendorf / Meiershofstrasse|CH||a7|3no|nx|6
+Dooagh|IE||8z|45x|-s5|6|Dumha Acha
+Dugandan|AU||8c|-25u|bs3|6
+Dumbrava|RO|Bihor County|8u|3lz|1pb|6
+Dubreuilville|CA||59|3qd|-6it|6
+Dumbleton|GB||9b|40i|-5i|6
+Duntzenheim|FR||9k|3rb|ky|6
+Dubrava Zabočka|HR||a6|3ju|18b|6
+Dudley|US|Georgia|48|2ie|-6er|6
+Dürrenbüchig|DE||8r|3s6|o1|6
+Duruca|TR|Kilis|94|2u4|2uv|6|Qernebî
+Düvier|DE||8r|462|10b|6
+Duraznotla|MX||41|1ka|-7k6|6
+Durenque|FR||9k|3ej|7a|6
+Dübendorf / Neuhausstrasse|CH||a7|3no|ny|6
+Durdyhan|TM||5x|2ym|4dm|6|Durdykhan
+Düdenköy|TR||94|2tw|2b3|6|Düden
+Dugurk|TR||94|2vf|34b|5
+Dumbrăvești|RO|Arges|8u|3gw|1wl|5
+Dud|RO||8u|3km|1oq|5
+Dulong|AU||8c|-21z|bsr|5
+Dulbanu|RO||8u|3gr|21w|5
+Duraznal|MX|Oaxaca|41|1bf|-7hd|5
+Dübendorf / Grüzenstrasse|CH||a7|3nn|ny|5
+Dumanlı|TR|Mardin|94|2vp|33k|5
+Düğer|TR||94|2we|2bf|5|Düver
+Dunavtsi|BG|Stara Zagora|9v|3ah|1ya|5
+Dumbrava|RO|Vrancea|8u|3jj|23b|5
+Duns Creek|AU||8l|-2in|bp7|5
+Dūzāl|IR||7o|2zy|3kf|5|Dozal
+Dubnice|CZ||9m|3wx|155|5
+Dunatetétlen|HU||8v|3lw|1h2|5|Tatilan
+Dupree|US||2p|3h5|-7u8|5
+Dun|FR||9k|3bj|50|5
+El Duraznal|MX||41|1bb|-7f5|5|Duraznal
+Doon|IE||8z|424|-mw|5|Dún;Dún Bleisce
+Durankaya|TR||94|2xj|396|5
+Duri|AU||8l|-2ep|bmy|5
+Durlinsdorf|FR||9k|3nx|k4|5
+Duraznal|MX|Veracruz|41|1im|-7hf|5
+Dubravice|HR||a6|3dt|18a|5|Dubravica
+Durango|MX|Hidalgo|41|1m2|-7nn|5
+Durchholzen|AT||a2|3ob|y4|5
+Durbe|LV||9n|4d7|1nd|5|Dorbiany
+Durazno del Rosario|MX||41|1dc|-7q4|5
+Dunham on the Hill|GB||9b|43x|-7r|5
+Duvensee|DE||8r|456|td|5

@@ -1,0 +1,939 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Tianjin|CN||7i|30q|91i|2yzo|Tiencin;Tiencsin;Thiên Tân;Tchien-ťin;Tjanĝino;Tientsin;Tiandzinas;Thiên-tsîn;Tjaņdziņa;Tyantszin;Tjandžin;Tyan'czin';T’ien-ching;T’ien-chin
+Shenyang|CN||7i|383|9iv|1xzh|Šenjangas;Thẩm Dương;Senjang;Ŝenjango;Šeņjana;Šen-jang;Sjenyang;Sím-iông-chhī;Sīng-iòng;Shenyan;Swnjyangh;Şenyanq
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Shijiazhuang|CN||7i|2xo|8u0|18fk|Thạch Gia Trang;Š’-ťia-čuang;Šidziadžuangas;Ŝiĝjaĝŭango;Siŏh-gă-cŏng;Sicsiacsuang;Šidzjadžuana;Swzgyahcuengh;Chio̍h-ka-chng-chhī;Šidžjadžuang;Shicziyajuan;Şiciyajuang;Shihjiazhuang
+Taiyuan|CN|Shanxi|7i|2x7|8oo|14xn|Tajuanas;Tchaj-jüan;Tajuano;Thái Nguyên;Thài-goân-chhī;Tái-nguòng;Tajjüan;Taiyuenum;Taijuaņa;Tayyuan;Daiyienz;Taijuan
+Bangkok|TH||62|127|7r6|13dx|Bankoko;Bankokas;Banguecoque;Bancác;The City of Angels;Màn-kuk;Banqkok;Banghok;Bancocum;Bancoque;Bankok
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Durban|ZA||o|-2ay|2e7|pr8|ITheku;Thekong;EThekwini;Port Natal
+Changzhou|CN||7i|2g9|997|pe5|Changtsjou;Csangcsou;Thường Châu;Čangdžou;Čchang-čou;Ĉangĝoŭo;Siông-chiu-chhī;Siòng-ciŭ;Čangdžov;Changchow;Ch’ang-chou
+Yinchuan|CN||7i|2yv|877|m27|Thành phố Ngân Xuyên;Ngân Xuyên;Jin-čchuan;Inčuanas;Gîn-chhoan-chhī;Ngṳ̀ng-chiŏng;Yinzconh;Jinčuan
+Taichung|TW||7l|1v3|9b8|lzr|Đài Trung;Teyjong shehiri;Taičungas;Tajĉungo;Thòi-chûng-sṳ;Tchaj-čung;Taizhong;Taychun;Tâi-tiong-chhī
+Shaoxing|CN||7i|2bc|9ay|hqw|Shawshin shehiri;Ŝaosing;Šao-sing;Thiệu Hưng;Sjaoxing;Siāu-heng-chhī;Siêu-hĭng;Shao-hsing;Shaohing
+Tainan|TW||7l|1rv|99x|ebq|Teynen shehiri;Thòi-nàm-sṳ;Tchaj-nan;Tajnan;Đài Nam;Tajnano;Taynam;Tâi-lâm-chhī;Dài-nàng;T’ai-nan
+Thāne|IN||6t|1hc|5mo|e7j|Thana;Tane
+Benin City|NG||u|hm|fn|dr0|Benin-Stadt;Benin;Benim;Beninas;Benin by;Benin-stad;Beninurbo;Thành phố Benin;Ìlú Benin;Ciudad de Benín;Kota Benin;Benínborg;Benin Siti;Magaalaa Benin;Magaalada Benin
+Qingyuan|CN|Guangdong|7i|1tu|8pz|dew|Chĭng-uōng;Čching-jüan;Chhîn-yén-sṳ;Thanh Viễn;Chheng-oán-chhī;Tsingyüan;Ch’ing-yüan
+Taizhou|CN|Jiangsu|7i|2i9|993|cef|Taitsjou;Tchaj-čou;Tajĝou;Teyju shehiri;Thái Châu;Thài-chiu-chhī;Tái-ciŭ;T’ai-chou
+Dazhou|CN|Sichuan|7i|2ep|8ai|c9i|Ta-čou;Đạt Châu;Dăk-ciŭ;Tha̍t-chû-sṳ;Ta̍t-chiu-chhī
+Cần Thơ|VN||6h|rw|85v|bmo|Kan Tho
+Taizhou|CN|Zhejiang|7i|27m|9db|bgn|Taitsjou;Tchaj-čou;Thòi-chû-sṳ;Thai Châu;Tâi-chiu-chhī
+Changde|CN||7i|28n|8ma|b8u|Changteh;Čchang-te;Sòng-tet-sṳ;Čangdė;Thường Đức;Siòng-dáik;Siông-tek-chhī;Ch’ang-te
+The Bronx|US||48|35h|-5p7|aor|Bronx;Borough of Bronx;Bronkso
+Luohe|CN||7i|2l9|8sr|9zq|Ták-ò̤;Luo-che;Tháp Hà;Lúi-hô-chhī;T’a-ho;Lo-he
+Da Nang|VN||6h|18n|8cm|9ug|Danang;Thành Thái Phien
+Shangrao|CN||7i|271|93m|8m5|Šang-žao;Thượng Nhiêu;Sjangrao;Siông-ngièu;Song-ngièu-sṳ;Siōng-jiâu-chhī;Shang-jao
+Tbilisi|GE||7n|37t|3gj|83j|Tiflis;Tbilissi;Tbiliso;Thbilisi;Tbilisy;Tibîlîsî;Tiblíssi;Triphelis;Tbiliszi;Tiblisi;Tbilsi;Tblisi;Tpilisi
+Teni|IN||6t|rt|5z8|7zf|Theni
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Chengde|CN||7i|35r|93o|73o|Čengdė;Thừa Đức;Čcheng-te;Sìng-dáik;Sêng-tek-chhī;Chengteh;Ch’eng-te
+Teresina|BR||2w|-e5|-3aw|6pz|Theresina;Therezina;Terezina
+Thanh Hóa|VN||62|1j0|85t|6k4
+Thiruvananthapuram|IN||6t|nl|5xr|62z|Trivandrum;City of Lord Anantha;Tiruvanantapuram;Tiruvanantapuramas;Tiruvananantapuram
+Shaoyang|CN||7i|23o|8lm|5t8|Sjaoyang;Šao-jang;Ŝaojan;Chàu-yòng-sṳ;Thiệu Dương;Siêu-iòng;Siāu-iông-chhī
+Cheonan|KR||7h|2u9|9t7|530|Ch'ŏnan;Čchonan;Thiên-ôn-sṳ
+Thuận An|VN||6h|uc|88f|4ji
+Albuquerque|US||2p|2pg|-889|4cu|Alburquerque;Duke City;The Duke City;Albukwér kwé;Albukerke;Albukerko;Methville
+Bình Thạnh|VN||6h|u1|88f|49e
+Mirpur Model Thana|BD||6a|1u5|6z0|47t
+Cangzhou|CN||7i|2yf|90l|42l|Thương Châu;Canĝou;Cchang-čou;Cangzou;Chŏng-ciŭ;Chhong-chiu-chhī
+Thủ Đức|VN||6h|u5|88l|41r
+Thembisa|ZA||o|-208|26f|3y5|Tembisa
+Tonghua|CN||7i|37w|9pt|3xo|Tŭng-huá;Tchung-chua;Thông Hóa;Thong-hoà-chhī;T’ung-hua;Tunghwa
+Duisburg|DE||8r|3yv|it|3w4|Dīsburga;Duisborg;Duisbourg;Duisburch;Thuiscoburgum;Duisbörj;Duusbörg
+The Hague|NL||8m|40o|by|3nr|Den Haag;La Haye;La Haya;Hago;Haag;La Haia;De Haach;An Háig;A Haia;L'Aia;Haga;D'n Haog;Hag;Lahey;Hague
+Buôn Ma Thuột|VN||6h|z7|8c4|3cn|Metuotas;Buôn Mê Thuột
+Thái Nguyên|VN||62|1nz|861|38o
+Tirana|AL||9y|36t|1j2|389|Tiranë;Tirano;Tiran;Tiorána;Theranda;Tiran-a;Tėrana
+Thoothukudi|IN||6t|od|611|364|Thoothukkudi;Tuticorin
+Thủ Dầu Một|VN||6h|ui|889|2vn
+Honolulu|US||ax|1n7|-c6i|2pi|Honolulo;Thàn-hiông-sân;Gonolulu;Honoloulou;Honoruru
+Hoa Lư|VN||62|1ka|86e|2gn|Thành Phố Ninh Bình;Ninh Binh;Nin Bin;Ninbinh
+Thessaloníki|GR||8p|34w|1rp|2ga|Salónica;Săruna;Selânik;Thessalonica;Ftohomána;I Protévoussa ton Prosfígon;Salonik;Tesalónica;Þessalóníka;Thessalonique;Saloniki;Solun;Tessalònica;Salonicco;Tesalonîkî;Salonikai;Salonic;Saluniccu;Thessaloníkē;Salonika
+Thiès|SN||g|153|-1b1|2ga
+Thrissur|IN||6t|t8|5vq|2fs|Trichur
+Thanh Xuân|VN||62|1mb|85w|29h
+Thanjavur|IN||6t|tz|63u|28v|Tanjavûr;Tandžavuras;Tandžavura;Tandzsávúr;Tanĝavur;Thandžavur;Taňčávúr;Tańdźawur
+Sfax|TN||1e|2oi|tw|25y|Safakis;Sfaksas;Thaenae;Sfakso;Safakes;Szfaksz;Ṣfaqes;Sfaks;Şafāqis
+Khomeynī Shahr|IR|Isfahan|7o|2it|3z6|251|Three Castles;Khomeynīshahr
+Mỹ Tho|VN||6h|ss|87g|237|Mitho
+Hà Tĩnh|VN||62|1ey|867|21z|Ha Thin;Hò-tshin-sṳ;Thành Sen;Ha Tin
+Jersey City|US||48|355|-5ps|21f|Thành phố Jersey;Dinas Jersey;Jersey Ceety;Džersi Sitis;Džērsisitija
+Tongliao|CN||7i|3d5|9fn|20j|Thông Liêu;Tŭng-lièu;Thûng-liàu-sṳ;Thong-liâu-chhī;T’ung-liao
+Stoke-on-Trent|GB||9b|438|-63|1zs|The Potteries;Stok-on-Trent;Stoka pie Trentas;Stokas prie Trento;Stok-on-Trento;Stoke-upon-Trent
+Thiès Nones|SN||g|152|-1b5|1y3
+Thika|KE||16|-2v|2uz|1xu|Dhika
+A Coruña|ES||9d|3ch|-nc|1xk|La Corogne;Coruña;A Cruña;Corunya;Coruñako;Corunha;La Korunja;La Coronha;La Korunya;Korunjo;In Coruña;Akoruņa;La-Korunya;The Groyne
+Thị Trấn Đông Triều|VN||62|1mk|87v|1x5
+Thuqbah|SA||7e|20y|3vg|1x5|Thuqba
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Thành Phố Bà Rịa|VN||6h|t6|89p|1tc|Bà Rịa;Tanh Fo Ba Ria
+Phan Thiết|VN||6h|ud|8ca|1rh|Fan Thiet;Phan Tiet
+Trondheim|NO||9j|4w7|sw|1o5|troneim;Þrándheimur;Nidaros;Nidrosia;Troandin;Tronheima;Truondhėims;Trondhjem;Drontheim
+Salt Lake City|US||2p|358|-8mt|1nv|Sallaga Urbo;Kota Salt Lake;Solt Leik Sitis;Thành phố Salt Lake;Civitas Lacus Salsi;Soltleiksitija;Salt Lake Ceety;Sol Lek Siti;Solt Leyk Siti;Lungsod ng Salt Lake;Solt Leik Sitės;Salt Lake;Cathair Salt Lake;Salt-Lejk-Siti;Solt Lejk Siti
+Phan Rang-Tháp Chàm|VN||6h|w4|8er|1ls|Phan Rang;Phan Rang- Thap Cham;Phan Ranh
+Thanh Khê|VN||6h|18n|8cj|1jw
+Thuận Thanh|VN||62|1mh|86o|1jg
+Toruń|PL||a5|439|1fo|1ip|Thorn;Thorunium;Torń
+Shulin|TW||7l|1xf|9da|1e0|Su-nà-khî;Šulinas;Şulin;Thụ Lâm;Chhiū-nâ-khu;Shu-lin
+Thị Trấn Đại Từ|VN||6h|1o3|85g|1ds
+Teresópolis|BR||4w|-1qa|-3be|1d3|Therezopolis
+Bang Khun Thian|TH||62|11y|7qz|19z|Bangkhunthien
+Thenali|IN||6t|194|680|19t|Tenali
+Thốt Nốt|VN||6h|sj|855|17y|Tho Not
+Chom Thong|TH|Bangkok|62|120|7r4|17w
+Tuy Hòa|VN||6h|10e|8fo|17b|Toy Hoa;Thuy Hoa
+Thānesar|IN||6t|2b9|5xf|174
+Thị Trấn Thuận Châu|VN||6h|1nk|801|16i
+Hòa Thành|VN||6h|vd|86t|151
+Taishan|CN||7i|1pt|8pa|14e|Đài Sơn;Thòi-sân-sṳ;Toishan
+Tobruk|LY||1d|2h5|1uj|13b|Tobrouk;Tobruch;Tobroek;Tubruk;Thubruq;Tubrukas;Ţubruq;Tobruuk;Tobruck
+Thandwe|MM||7y|1fb|7a5|113
+Thornton|US|Colorado|2p|32r|-83l|113
+Surat Thani|TH||62|pe|7nx|10o|Szuratthani;Surathanis;Surat Tani
+Quận Đức Thịnh|VN||6h|sn|85q|10o|Đức Thịnh Sa Đéc
+Udon Thani|TH||62|1ce|7xj|109|Udonthanis;Udonthani;Udon Tani;Udorndhani;Udornthani;Udaun Thani
+Pingxiang|CN|Guangxi|7i|1pe|88k|102|Bằng Tường;Bằng Tường thị;Thị xã Bằng Tường;P’ing-hsiang;Pingsiang
+Thousand Oaks|US||3p|2mx|-964|zx
+Thành phố Sông Công|VN||6h|1no|860|zo|Sông Công
+Thaton|MM||7y|1b0|7ih|yd|Thadôn;Tha-tun
+Chơn Thành|VN||6h|vr|888|xn
+Madhyapur Thimi|NP||6r|24w|6l7|xc|Thimi
+Thon Buri|TH||62|125|7r5|x9|Thonhuri;Dhonhuri;Dhonburi
+Thung Khru|TH||62|11v|7r7|wd
+Thornhill|CA|Ontario|59|3dq|-64m|w1
+Wang Thonglang|TH||62|12b|7rh|vw
+Gorzów Wielkopolski|PL||a5|42h|16b|vu|Landsberg;Landsberg an der Warthe;Gožova Velkopolska;Gožuvas;Landsbergum;Lãdzbarg;Gorzůw Wjelgopolski;Gožuv-Velkopolski;Thai Pô-làn Thi-khî Kô-yî-fû;Gorzow Velikopolski
+Bình Thủy|VN||6h|rz|85q|vk
+Thới Lai|VN||6h|rz|858|uh
+Thunder Bay|CA||59|3qe|-6vx|u8|Tander Bėjus
+Thohoyandou|ZA||o|-1rr|2co|tr
+Daly City|US||3p|2wr|-9g6|tm|Lungsod ng Daly;Dalyurbo;Thành phố Daly
+Nakhon Si Thammarat|TH||62|nf|7pp|se|Nakhon Si Tammarat;Nakhon Szi Thammarat;Naxon Si Tamarat;Nakhaun Si Thammarat;Nakhonsithamrat;Nakon Sitamarat;Nakon Sritamarat;Nakhon Si Thammarht;Nakon Sri Tammarat;Nakhon Srithamarat
+Thākurgaon|BD||6a|20b|6tr|rw|Thakus Gaon;Thākurgaom
+Thimphu|BT||7p|24b|6x0|rf|Timbuo;Thimphou;Thimpu;Thimbu;Timbu;Timpu;Timphu;Timfou;Timfú;Tėmpu
+Thayetmyo|MM||7y|1ho|7ce|ra|Thyatmyo;Thayetmo
+Tha Raeng|TH||62|12j|7rl|r5
+Tellicherry|IN||6t|wn|5tp|r0|Thalassery;Telíčerí;Tellicherri;Tellichery;Talasseri
+The Woodlands|US||2f|2bs|-7d9|q2|Woodlands
+Thakhèk|LA||7v|1cd|837|p8|Thakhet;Thakhok;Tha Khaek
+Thul|PK||6q|26g|5b2|om
+Thượng Cát|VN||62|1ml|85p|oa
+Dien Bien Phu|VN||62|1nf|7y6|nj|Thièn-piên-fú;Dienbjenfu
+Akhisar|TR|Manisa|94|304|25c|nj|Thyatira;Ak Hisar;Akchisaras;Akhissar;Aq Hisar
+Thanhlyin|MM||7y|1am|7fd|lv|Syriam
+Thawi Watthana|TH||62|12a|7qu|l8
+Thanh Liệt|VN||62|1m9|85y|l6
+Union City|US|California|3p|2wg|-9ey|kp|Thành phố Union
+Thaba Nchu|ZA||o|-295|22k|k7
+Thị Trấn Mạo Khê|VN||6h|1mi|883|k0|Mạo Khê
+Thenkasi|IN||6t|ow|5ys|jl|Tenkāsi
+Thanlyin|MM||7y|1al|7fd|ja
+Feodosiya|UA||9t|3h3|2qa|j2|Kefe;Teodozja;Feodossija;Théodosie;Feodòssia;Teodozio;Feodosija;Teodosia;Feodosia;Feodosya;Caffa;Theodosia;Fyeodosiya;Kaffa
+Tomaszów Mazowiecki|PL||a5|3z5|1jl|io|Tomašova Mazovecka;Thomasovia;Mazovijos Tomašuvas
+Yuba City|US||3p|30q|-9du|il|Yuba Lakanbalen;Thành phố Yuba;Kota Yuba
+Thái Hòa|VN||6h|1gk|83l|id
+Belize City|BZ||24|1cm|-6t0|i4|Ciudad de Belice;Belizas;Belize-stad;Belize;Thành phố Belize;Dinas Belize;Altepetl Belice;Belizurbo;Syudad han Belize;Cidade de Belize;Kota Belize;Bandaraya Belize;Belize Ceety;Beliz;Belice
+Thành Phố Uông Bí|VN||6h|1mf|88l|hq
+Kannur|IN||6t|wz|5tc|hg|Cananor;Cannanore;Kanuras;Kanura;Thatta
+Thiruvarur|IN||6t|tx|658|gc|Tiruvarur;Tiruvālūr
+Carson City|US|Nevada|3p|30s|-98p|ga|Carsonurbo;Kota Carson;Karson Sitis;Thành phố Carson;Lungsod ng Carson;Kārsonsitija;Altepetl Carson;Karson-Siti
+Tiruvalla|IN||6t|q2|5wp|fw|Thiruvalla
+Thanbyuzayat|MM||7y|18d|7jh|fw|Thanbyuzat;Thanbyuxayat
+Tennala|IN||6t|uj|5uy|fp|Thennala
+Tiruvallur|IN||6t|10i|65z|fl|Thiruvallur
+Tiruttangal|IN||6t|qc|607|fe|Thiruthangal
+Tharyarwady|MM||7y|1d1|7e3|f4
+Chystyakove|UA||98|3pg|2z8|ev|Chistyakovo;Tschistjakowo;Tores;Torezas;Thorez;Toreza;Sloboda Alekseevka;Tschistjakowa;Torez;Chystiakove
+Thái Bình|VN||62|1kt|87e|er|Thai Bin;Taibinh
+Tha Maka|TH||62|12m|7p5|ep
+Thongwa|MM||7y|1ak|7g4|el|Thon-Khwa
+Thodupuzha|IN||6t|rh|5x4|eg
+Thomazeau|HT||4j|1ft|-5k9|eg|Tomazo
+Thị Trấn Phước Bửu|VN||6h|t9|8ac|ef
+Tachilek|MM||7y|1kt|7pg|ec|Tachileik;Tha Chi Lek
+The Villages|US||48|28d|-6bo|ea
+Tirumangalam|IN||6t|ra|60m|e8|Thirumangalam
+The Trails of Frisco|US||2f|2k4|-7h3|e7
+The Hammocks|US||48|1zb|-67g|e6
+Thị Trấn Ngải Giao|VN||6h|tl|89x|dn
+Upper Hutt|NZ||ak|-36a|di9|d6|Hutt Atas;Te Awa Kairangi ki Uta;Aper-Hatas;Aperhuta;Thượng Hutt
+Thị Trấn Đầm Hà|VN||62|1nb|8aw|d3
+Thoubāl|IN||6t|1wg|794|cr
+el Raval|ES||9d|36y|61|cp|The Raval
+Karlovy Vary|CZ||9m|3vj|zr|cn|Karlsbad;Karlovi Varai;Karlowe Wary;Karlove Vary;Karlovı Varı;Thermae Carolinae;Karlowé Warë;Carlsbad
+Thiruthani|IN||6t|10m|656|cg|Tirutani;Tiruttani
+Thị Trấn Sao Vàng|VN||62|1j9|84y|ce
+Thionville|FR||9k|3t4|h4|cb|Diedenhofen;Diddenuewen;Theudonevilla;Diedenhoven;Didehove
+Thatta|PK||6q|1wr|58o|cb|Tata;Tatta
+Thun|CH||a7|3lv|l6|c5|Thoune;Tune;Tunas;Timium
+Turda|RO|Cluj County|8u|3ld|1u2|c1|Thorenburg;Potaisa;Torda;Potaissa
+Balykchy|KG||65|39y|5vn|bx|Balyktschy;Balikci;Balyktchy;Balykčy;Balõktšõ;Baliksi;Thalasseupolis;Balykči;Balyktsjy;Bałykczy;Balikcsi;Balyktjy
+Tuusula|FI||92|4ns|1xj|bu|Tusby;Thusby
+Tha Yang|TH||62|100|7pj|bu
+Thān|IN||6t|1qp|5hs|bt
+Thin Gan Kyun Gyi|MM||7y|1b4|7f4|bs
+Budapest VI. kerület|HU||8v|3ny|1gz|bp|Theresienstadt;VI. Budapester Bezirk
+The Colony|US||2f|2jx|-7h5|bm
+Thottada|IN||6t|ww|5ti|bc
+Thakurdwara|IN||6t|293|632|b3
+Atlantic City|US||48|31c|-5qq|ax|Kota Atlantic;Atlantikurbo;Atlantik Sitis;Thành phố Atlantic;Atlantiksitija
+Tuvāgudi|IN||6t|tv|62y|at|Thuvakudi
+The Acreage|US||48|22f|-66z|ar
+Taibao|TW||7l|1t6|9a9|ar|Tchaj-pao;Thai-pó-sṳ;Thái Bảo;T’ai-pao
+Thới Bình|VN||6h|q0|83y|al|Thot Binh
+Thanatpin|MM||7y|1c1|7ga|al|Tanatpin
+Tozeur|TN||1e|2m8|ml|ae|Thusuros;Tauzaras;Tuzer;Tauzar;Tawzar
+Oregon City|US||3p|3i0|-9gl|9y|Thành phố Oregon
+Tha Bo|TH||62|1dl|7wy|9t
+Theunissen|ZA||o|-26x|226|9n
+Thabazimbi|ZA||o|-1wb|245|9m
+Tudiyalūr|IN||6t|us|5xq|9f|Tudiyallur;Thudiyalur
+Throgs Neck|US||48|35e|-5p2|9d|Throg's Neck
+Thāna Bhawan|IN||6t|2a7|5z2|9b
+Foster City|US||3p|2wc|-9fn|9b|Foster Sitis;Foster-Siti;Thành phố Foster
+Chicago Loop|US||2f|38c|-6rf|9a|Loop;The Loop
+Thị Trấn Lam Sơn|VN||6h|1ja|84t|97
+Thị Trấn Phố Lu|VN||6h|1q0|81f|94
+Thuraiyur|IN||6t|uz|62c|90
+Thívai|GR||8p|2yh|1ss|90|Thēbai;Thíva;Thebae;Thebes;Tebas;Tebo;Teboj;Theben;Teba
+Thenhippalam|IN||6t|ux|5us|8w
+Thamesmead|GB||9b|3z2|c|8u
+Tienen|BE||8t|3x5|dq|8t|Tirlemont;Thienen;Thenae
+Thonon-les-Bains|FR||9k|3kt|i0|8t|Tonon le Benas;Tonon;Thononum;Thonon
+Thanneermukkom|IN||6t|qu|5w6|8r
+Thornton-Cleveleys|GB||9b|45n|-8e|8o
+Tāramangalam|IN||6t|wh|60l|8e|Tharamangalam
+Thiais|FR||9k|3rg|6o|89
+Thomson|SG||7j|3r|80g|86
+Thal|PK||6q|2qk|5ko|85|Tāl
+Thung Song|TH||62|mo|7ow|7u|Dhūng Song;Tungsong
+Tharād|IN||6t|1vs|5iz|7s
+Trittāla|IN||6t|u0|5vh|7q|Tritala;Thrithala
+Theniet el Had|DZ||3|2rn|5n|7o|Teniet-el-Ha;Teniet el Haad;Teniet el Had
+Thomasville|US|North Carolina|48|2ro|-66g|7j|Thomas Village
+Thuwal|SA||7e|1pw|30n|7i|Tūwal
+Tha Muang|TH||62|12s|7os|7f
+Thodiyoor|IN||6t|p8|5wq|77
+Tha Kham|TH||62|pb|7nn|76
+Thetford-Mines|CA||59|3k1|-5i3|75
+The Palm Jumeirah|AE||6c|1xs|496|73|Palm Jumeirah
+Thatcham|GB||9b|3ys|-3i|73
+Thamaga|BW||m|-1wj|1yy|71
+Thazhecode|IN||6t|vg|5v2|6z
+Thetford|GB||9b|41m|23|6w
+Thirunavaya|IN||6t|u7|5v3|6w
+Tattānkuttai|IN||6t|vs|5zw|6v|Thathankuttai
+Tiruppuvanam|IN||6t|rb|61e|6u|Thirupuvanam
+Thiruthuraipoondi|IN||6t|t9|657|6s
+Tbeng Meanchey|KH||78|12d|83m|6s|Thbeng Meanchey;Tbaeng Mean Chey
+Thị Trấn Na Dương|VN||6h|1oa|894|6s
+Thị Trấn Vân Du|VN||62|1jz|85p|6p
+Tisaiyanvilai|IN||6t|n6|60b|6l|Thisayanvilai
+Thornlie|AU||8k|-2h2|8y4|6l
+Tūnēri|IN||6t|wi|5u3|6i|Thuneri
+thị xã Quảng Trị|VN||6h|1aj|89q|6i|Quảng Trị
+Tharangambadi|IN||6t|un|65t|6g|Tarangambadi;Tranguebar;Tranquebar;Trankebar
+Thiruvankulam|IN||6t|rn|5w5|6g
+Tiruverumbūr|IN||6t|tz|62t|6g|Thiruverumbur
+Termini Imerese|IT||9o|2xi|122|6e|Thermae Himerarae;Tèrmini
+The Crossings|US||48|1zb|-67c|6c
+Tha Mai|TH||62|z2|7vc|68
+Triparappu|IN||6t|nb|5yn|68|Thirparappu
+Thornaby-on-Tees|GB||9b|47h|-3m|68|Thornaby;Thornaby on Tees
+Thị Trấn Tiên Yên|VN||6h|1n9|8ad|66
+The Beaches|CA||59|3db|-64a|60
+Tammampatti|IN||6t|vs|621|5z|Thammampatti
+Thiene|IT||9o|3iz|vw|5v
+Thorncliffe Park|CA||59|3df|-64f|5v
+Hsipaw|MM||7y|1qu|7ia|5t|Thibaw
+Thaikkattussery|IN||6t|r5|5w2|5t|Thycattusserry
+Tewkesbury|GB||9b|40f|-60|5o|Theoci Curia;Tuksburjo
+Thị Trấn Nước Hai|VN||6h|1r6|86v|5n
+Thomastown|AU||8j|-2wo|b6u|5m
+Thị Trấn Đất Đỏ|VN||6h|t5|89z|5m
+Thiadiaye|SN||g|142|-1ae|5m|Tiadiaye;Tiadaye;Tiadiay
+Thị Trấn Thất Khê|VN||6h|1pu|87r|5m
+Thambon Na Mueang|TH||62|132|7tl|5j|Na Mueang
+Telavi|GE||7n|38g|3ib|5j|T'elavi;Telawi;Thelavi;Telav
+Tiruppālai|IN||6t|rq|611|5d|Thiruppalai
+Tielt|BE|Flanders|8t|3xo|99|5d|Thielt
+The Peak|HK||6i|1pu|8t4|5c
+Tha Ruea|TH||62|14h|7rt|5b|Tha Rua
+Thornbury|AU||8j|-2ww|b6t|5a
+Tiruvattār|IN||6t|n5|5yn|5a|Thiruvattar
+Tādikombu|IN||6t|t0|60j|58|Thadikombu
+Thorold|CA||59|3bs|-640|58
+Thomasville|US|Georgia|48|2do|-6ha|57
+Tyāgadurgam|IN||6t|wm|63o|56|Thiagadurgam
+Tondi|IN||6t|r2|63i|55|Thondi
+Thoen|TH||62|1cx|7nm|55
+Thākurganj|IN||6t|21f|6st|53
+Thāsra|IN||6t|1rc|5nd|53
+Thala|TN||1e|2qt|o3|52|Tala
+Thara|IN||6t|1ul|5ji|51
+Thị Trấn Trùng Khánh|VN||6h|1rg|87w|4y
+Tharu Shah|PK||6q|22u|598|4x
+Thị Trấn Ba Chẽ|VN||62|1n3|8a0|4v|Phố Ba Chè
+Thorne|GB||9b|44x|-2o|4t
+Devínska Nová Ves|SK||8s|3px|1b6|4s|Theben-Neudorf;Dévényújfalu
+Achkhoy-Martan|RU||9i|3bz|3hs|4o|Atsjkhoj-Martan;Ačhoj-Martan;Theẋa-Marta;Waşxoyn-Marta;Novosel’skoe;Açxoy-Martan;Atschchoi-Martan;Atchkhoï-Martan;Aczchoj-Martan;Novosel’skoye;Achkhoi-Martan
+Thaba-Tseka|LS||12|-2a0|27h|4o
+Thorapadi|IN||6t|zt|63s|4n
+Thap Than|TH||62|16y|7ph|4m|Dhapdhan
+The Gap|AU|Queensland|8c|-248|bsu|4k
+Thimiri|IN||6t|zn|64b|4i|Timiri
+Thenia|DZ||3|2u1|9w|4i
+Thiruvaiyaru|IN||6t|u8|63q|4i
+Tevāram|IN||6t|ri|5yo|4h|Thevaram
+Thị Trấn Việt Quang|VN||62|1qa|835|4h
+Thulamahashi|ZA||o|-1wo|2eo|4g
+Thubelihle|ZA||o|-20u|29d|4f
+Thandla|IN||6t|1rx|5r6|4e
+Boulder City|US||3p|2ry|-8uz|4c|Thành phố Boulder;Boulder
+Thap Khlo|TH||62|18w|7rg|4b
+Tindal|IN||6t|vg|5zr|4a|Thindal
+The Dalles|US||3p|3in|-9cm|49
+Thekkumkara|IN||6t|sk|5vp|49
+Tirunāgeswaram|IN||6t|ug|64n|47|Thirunageswaram
+Three Lakes|US|Florida|48|1z8|-67c|46
+Thilogne|SN||g|188|-11y|46|Tilogne
+Thompson|CA|British Columbia|5b|3sl|-9i5|46
+Troon|GB||9b|4aa|-cy|46|The Truin;An t-Sròn
+Thottiyam|IN||6t|uj|61l|45
+Thiruvidaimaruthur|IN||6t|uk|64p|44
+Thuin|BE||8t|3vu|bx|43|Twin
+Thornton Heath|GB||9b|3ys|-a|43
+Thazhakara|IN||6t|pp|5wp|42
+Thibodaux|US||2f|2as|-70a|42|Thibodeaux
+Tengampudūr|IN||6t|mk|5z6|41|Thengampudur
+Thornlands|AU||8c|-24k|btq|41
+Kalývia Thorikoú|GR||8p|2x4|1uh|40|Kalívia Thorikoú;Thorikoú;Kouvará;Kalívia
+That Phanom|TH||62|1b2|82v|40
+Thérmi|GR||8p|34n|1ry|40
+Tanakkangulam|IN||6t|rh|60s|3z|Thanakkankulam
+Thurayur|IN||6t|w1|5u7|3y
+Thị Trấn Na Sầm|VN||6h|1pa|886|3x
+Thổ Tăng|VN||62|1n2|851|3w
+Tenambākkam|IN||6t|zl|65h|3w|Thenambakkam
+Takkolam|IN||6t|106|65h|3w|Thakkolam
+Thiers|FR|Auvergne-Rhône-Alpes|9k|3je|9v|3t|Tièrn
+Thompson|CA|Manitoba|5d|4au|-7ju|3t|Tompsonas;Tompsona
+Thụy Phương|VN||62|1mk|85u|3t
+Tirupporūr|IN||6t|zd|66r|3t|Tiruporur;Thiruporur
+Thạch Hà|VN||62|1f1|862|3s
+The Boldons|GB||9b|48m|-41|3s|Boldon
+Timmāpur|IN||6t|1gx|62g|3r|Thimmapur
+Thisted|DK||8y|4e8|o5|3r|Tisted
+Thale|DE||8r|3zr|uo|3q|Talė
+Thulamahashe|ZA||o|-1wo|2ep|3p
+Thị Trấn Bình Liêu|VN||62|1ns|8ac|3p
+Thalwil|CH||a7|3nd|ns|3p
+California City|US||3p|2pl|-93r|3p|Kalifornija;Kalifornia City;Kaliforniurbo;Thành phố California;California BY;Jádí Bitééh;Dinas California;Lungsod ng Kaliporniya
+Tórshavn|FO||85|4s9|-it|3o|Þórshöfn;Torshamn;Thorshavn;Torshaunas;Thori Portus;Touršhavna;Þunreshæfen;Torŝavno
+Tholey|DE||8r|3tg|jk|3o|Theulegium
+Thônex|CH||a7|3kb|h8|3n|Tounèx;Toneksas
+The Glebe|CA||59|3i4|-5u9|3n
+Thị Trấn Ba Hàng|VN||62|1ni|863|3m
+Thonotosassa|US||48|25y|-6cm|3m
+Thirukattupalli|IN||6t|u4|63c|3m|Tirukattupalli
+Thirumittacode-II|IN||6t|tt|5vk|3l
+Ban Dong Phra Ram|TH||62|133|7to|3j|Thambon Dong Phra Ram;Ban Dong Phram
+Shimen|TW||7l|1y9|9dp|3i|Sa̍k-mùn-khî;Šimenas;Thạch Môn;Chio̍h-mn̂g-khu;Shihmen;Shih-men
+Fraserburgh|GB||9b|4g9|-5m|3i|Freizerburgas;A' Bhruaich;A Bhruaich;The Broch;Faithlie;Frazerburgh
+Thummalamenta|IN||6t|15r|60q|3g
+Tāmaraikkulam|IN||6t|s3|5zg|3g|Thamaraikulam
+Tharīke|IN||6t|2dr|5ui|3f
+Thị Trấn Yên Bình|VN||6h|1od|83k|3f
+Arkansas City|US||2f|2uy|-7hk|3d|Arkansasurbo;Thành phố Arkansas
+The Mountain|KY||2e|1hp|-69k|3c
+Timgad|DZ||3|2ql|hz|3a|Thamugadi;Marciana Traiana Thamugadi
+Thornbury|GB||9b|3zd|-70|39
+The Ponds|AU||8l|-2lm|bn7|38
+Theux|BE||8t|3wd|g5|38|Teu;Thieux
+Thouars|FR||9k|3mi|-l|37|Toarcium
+Thondamuthur|IN||6t|uj|5xg|37
+Royse City|US||2f|2jm|-7fl|37|Thành phố Royse
+Thame|GB||9b|3zr|-2q|35
+The Wharf|US||48|300|-5xy|35
+Thị Trấn Na Hang|VN||62|1q3|84q|31|Na Hang
+Thongju|IN||6t|1ws|78y|30
+Thumanë|AL||9y|37f|1io|2z|Thumani;Thumana
+Lambton Shores|CA||59|3bx|-6bl|2y|Thedford
+Thamarīt|OM||72|1d3|463|2y
+The Pinery|US||2p|31m|-82x|2x
+Thistletown-Beaumond Heights|CA||59|3di|-650|2w
+Thạnh Phú|VN||6h|rn|87w|2v
+Thirsk|GB||9b|46n|-3q|2s
+Thorigny-sur-Marne|FR||9k|3rt|7k|2r
+Baker City|US||3p|3gd|-93b|2q|Thành phố Baker
+Thanniyam|IN||6t|sy|5vh|2p
+Thị Trấn Mường Khương|VN||62|1r8|818|2p
+Tiruvennanallūr|IN||6t|wy|64h|2o|Tiruvenneynallur;Thiruvennainallur
+Therwil|CH||a7|3ny|l0|2o
+The Hamptons|CA||2s|44l|-8rs|2m
+The Village|US||2f|2qs|-7iz|2m
+Hsenwi|MM||7y|1sq|7k5|2m|Theinni;Thinni;Hsinwi
+The Blue Mountains|CA||59|3fs|-67i|2m
+Thompson|US|Connecticut|48|38k|-5jm|2m
+Tiruvalam|IN||6t|102|647|2k|Tiruvallam;Thiruvalam
+Thị Trấn Đông Khê|VN||62|1qb|87n|2j
+Thị Trấn Bình Minh|VN||62|1jj|86m|2i
+Thomaston|US|Georgia|48|2jd|-6i9|2i
+Tāzhakudi|IN||6t|mv|5z5|2i|Thazhakudy
+Thị Trấn Đồng Đăng|VN||6h|1oz|88e|2h
+Thị Trấn Phố Ràng|VN||6h|1pr|828|2h
+Vallée des Colons|NC||b8|-1pw|cue|2h|The Valley
+Thyolo|MW||9|-18n|2pm|2g
+Tiruppālaikudi|IN||6t|qj|638|2g|Tiruppālaikkudi;Tirupalakudi;Thiruppalaikudi
+Thị Trấn Tân Yên|VN||62|1pb|83r|2g|Tân Yên
+Thief River Falls|US||2f|3po|-7f6|2g
+Thorncliffe|CA||2s|3xy|-8sv|2f
+Thị Trấn Cao Lộc|VN||62|1or|88l|2f
+Thompsonville|US|Connecticut|48|38o|-5lo|2e
+Thiers|FR|Provence-Alpes-Côte d'Azur|9k|3de|k6|2e
+Thevūr|IN||6t|w0|5zz|2d
+Thann|FR||9k|3ot|jq|2c
+Tomazina|BR||4w|-1u2|-3ur|2c|Thomazina;Tomasina
+Thornleigh|AU||8l|-2lp|bno|2c
+Thurgoona|AU||8l|-2s4|bcc|2c
+Than-Khamharia|IN||6t|1ok|69y|2c
+Tha Pyay Kone|MM||7y|1ah|7f2|2b
+Tiruvengadam|IN||6t|pq|5zr|2b|Thiruvenkadam
+The Parks At Walter Reed|US||48|309|-5xz|2b
+Tidāvūr|IN||6t|vx|62m|2a|Thedavur
+Theobroma|BR||4l|-sg|-4t8|29
+Thorpe Hamlet|GB||9b|427|3n|29|Thorpe
+Thị Trấn Yên Minh|VN||62|1s8|842|29
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Thaon-les-Vosges|FR||9k|3q1|hu|28
+Thuần Thiện|VN||62|1fb|85v|27|Trường Tiến
+Thurles|IE||8z|42c|-lo|27|Durlas;Dúrlas Éile;Terlsas;Durlus
+Thuir|FR||9k|3af|7o|27|Tuir
+Thị Trấn Đồng Văn|VN||62|1so|84o|27
+Three Rivers|CA|Prince Edward Island|35|3ka|-4tt|27
+Thornton|AU||8l|-2j2|bp7|27
+Three Rivers|US|Michigan|2q|38i|-6lv|26
+Thaikattussery|IN||6t|t2|5vs|25|Thycattusserry
+Thousand Palms|US||3p|2ly|-8zb|25
+Park City|US|Kansas|2f|2x0|-7ic|24|Thành phố Park
+Terūr|IN||6t|mp|5z7|24|Therur
+Tholen|NL||8m|3z5|bq|23|Tole;Tolen
+Tholur|IN||6t|td|5vh|23
+Tha Wun Taw|MM||7y|1ak|7ei|22|Thawundaw
+Thurso|GB||9b|4ir|-9t|22|Inbhir Theórsa;Thursa
+Shiding|TW||7l|1xf|9dy|22|Sa̍k-tàng-khî;Šidingas;Thạch Đĩnh;Chio̍h-tēng-khu;Shihding;Shih-ting
+Thrakomakedónes|GR||8p|2xx|1u0|21
+Tha Khanon|TH||62|p3|7mv|21|Dhā Khanōhn;Tha Khanaun
+Thamewali|PK||6q|2j2|5je|21|Thammewali
+The Belcher's|HK||6i|1pw|8t1|21
+Thenzawl|IN||6t|1ss|75n|21
+Tālera|IN||6t|1yc|5ud|20|Thālera
+Thị Trấn Thanh Hà|VN||62|1l7|85k|20
+Thouaré-sur-Loire|FR||9k|3nb|-40|20|Tarvieg;Tauriacus
+Thames|NZ||ak|-2v6|djm|1z
+Tham Phannara|TH||62|ne|7o4|1z
+Thrapston|GB||9b|41k|-1i|1z
+Alexandria|GB||9b|4bj|-cr|1x|The Vale
+Thelepte|TN||1e|2p6|nv|1x
+Thị Trấn Mèo Vạc|VN||6h|1sc|84t|1x
+Thalwil / Dorfkern|CH||a7|3nd|nt|1w
+Thomson|US|Georgia|48|2kz|-6d6|1v
+t Harde|NL||8m|41m|gc|1v|Harde
+Thermalito|US||3p|31r|-9dr|1u
+Thornhill|GB|Wales|9b|3z6|-8v|1u
+Thị Trấn Khánh Yên|VN||6h|1pd|81l|1u
+Tayikkād|IN||6t|tf|5va|1u|Thaikkad
+Thị Trấn Nguyên Bình|VN||62|1qx|86c|1u
+Thị Trấn Cái Rồng|VN||62|1mj|8ae|1u
+Thiên Lộc|VN||62|1fe|85t|1u
+Thurmont|US||48|322|-5z1|1t
+Thal|CH||a7|3nv|ql|1s|Altenrhein
+Thinadhoo|MV||af|1h|5ms|1s
+Thannhausen|DE||8r|3q4|t3|1r
+Thames Ditton|GB||9b|3yr|-y|1r
+Thanh Nguyên|VN||62|1kp|869|1r
+Tadikārakonam|IN||6t|n5|5z1|1q|Thadikarankonam
+Tumbe|IN||6t|zr|5sb|1q|Thumbe
+Theodore|US||2f|2cv|-6sy|1p|Teodoro
+Thônes|FR||9k|3jg|hl|1o
+Thabana Morena|LS||12|-2b8|246|1o
+Thalheim|DE|Saxony|8r|3wu|zp|1o
+Thabakgolo|ZA||o|-1ww|2e7|1n
+Thirroul|AU||8l|-2nc|bn8|1n
+Thum|DE||8r|3wr|zz|1n|Tuma
+Thornton|GB|England|9b|45f|-55|1n
+Thị Trấn Tĩnh Túc|VN||62|1qx|864|1n
+The Village of Indian Hill|US||48|30u|-6ia|1m
+Tālakkudi|IN||6t|u7|62o|1l|Thalakudi
+Thekashu Pt.-II|IN||6t|206|707|1k
+Tharandt|DE||8r|3xn|11q|1k|Tāranta
+Thị Trấn Sìn Hồ|VN||62|1q5|7yr|1k
+The Pacifica|HK||6i|1q1|8t3|1k
+Thourotte|FR||9k|3tg|80|1k
+Three Points|US||4i|2h4|-8l7|1k
+The Range|AU||8c|-1sz|bm2|1k
+Thị Trấn Vĩnh Tuy|VN||62|1pv|83d|1k
+The Pas|CA||5d|45i|-7t8|1j|Le Pas
+Thanna Mandi|IN||6t|2l6|5qm|1j|Thanamandi
+Than Uyên|VN||62|1p0|80k|1j|Than Huyen;Than Uvên
+Thorpe|GB||9b|3yt|-1i|1j
+Thalmässing|DE|Bavaria|8r|3sd|v6|1i
+Theix|FR||9k|3ob|-7d|1i|Teiz
+Thyez|FR||9k|3k0|i6|1i
+Thiers|FR|Provence-Alpes-Côte d'Azur|9k|3ca|ey|1h
+Thariāl|IN||6t|2hv|5u1|1f
+Türi|EE||9x|4jd|1yn|1f|Turgel;Tiūris;Thurgel;Tyuri;Tiri
+Tielt|BE|Flanders|8t|3xi|dn|1f|Thielt
+Thiells|US||48|36h|-5pm|1e
+East Boldon|GB||9b|48m|-3z|1e|The Boldons
+Thornhill|ZA||o|-2m6|1xu|1e
+Thượng Lộc|VN||62|1f3|85m|1e
+Thatcher|US|Arizona|4i|2j9|-8gw|1e
+Chisago City|US||2f|3i1|-761|1d|Thành phố Chisago
+Thomassique|HT||4j|1h0|-5jk|1d|Tomasik
+Thường Nga|VN||62|1f9|85j|1c|Thuong Ngo
+Tirumalpur|IN||6t|zz|65c|1c|Thirumalpur
+Thar Yar Kone|MM||7y|1oq|7eu|1c
+Thị Trấn Bảo Lạc|VN||62|1rr|85k|1c
+The Vines|AU||8k|-2g7|8y8|1c
+Thiên Cầm|VN||62|1es|86o|1c
+Thedinghausen|DE||8r|434|p2|1b|Thänhusen
+Baldwin City|US||2f|2zq|-7cf|1b|Thành phố Baldwin
+Thanh Lộc|VN||62|1fc|85n|1b
+Thanganellūr|IN||6t|ti|5vn|1a
+Thị Trấn Xuân Hoà|VN||62|1rm|86o|19
+Thurnau|DE||8r|3uz|vn|19
+The Basin|AU||8j|-2x5|b7o|19
+The Long Beach|HK||6i|1q0|8t4|19
+Thoiry|FR|Auvergne-Rhône-Alpes|9k|3kg|gm|18
+Thekashu Pt-I|IN||6t|206|706|18
+Theog|IN||6t|2eg|5yw|18
+Feofaniya|UA||98|3vv|2co|17|Feofania;Feofaniia;Theophania
+Thalheim bei Wels|AT||a2|3pr|12z|17
+Three Kings|NZ||ak|-2ui|dhf|16
+Thornliebank|GB||9b|4b0|-c0|16|Bruach nan Dealgan
+Thayngen|CH||a7|3on|o7|15
+Thyrnau|DE||8r|3r2|11l|15
+Thorndon|NZ||ak|-36o|dhi|15
+Thomasville|US|Alabama|2f|2gn|-6rq|15
+Theereheide|NL||8m|3zg|eu|14
+The Entrance|AU||8l|-2km|bou|14
+The Waterfront|HK||6i|1py|8t4|14
+Thôn La Vang Chinh|VN||6h|1ag|89v|14|La Vang
+The Meadows|US||48|240|-6d3|14
+Three Rivers|CA|New Brunswick|43|3jj|-50z|14
+Thaur|AT||a2|3nd|vw|14
+Tildonk|BE||8t|3xi|cw|14|Thildonk;Thildonck
+Thirlmere|AU||8l|-2n0|bm9|14
+Throop|US||48|375|-5u1|14
+Tielen|BE||8t|3yc|dm|13|Thielen
+The Common|KY||2e|1hu|-6a4|13
+Thallwitz|DE||8r|3yv|z8|13
+The Central Park|HK||6i|1q0|8t4|13
+Thierhaupten|DE||8r|3qx|ub|12|Diahappn
+Theydon Bois|GB||9b|3zj|a|12
+Thị Trấn Đình Cả|VN||62|1of|86o|12
+Tielrode|BE||8t|3xz|bm|12|Thielrode
+Thompson's Station|US||2f|2rg|-6pf|12|Thompson Station;Thompsons Station
+Thornwood|US||48|368|-5oy|12
+Thiviers|FR||9k|3i6|2k|12|Tivier
+Theodore|AU|Australian Capital Territory|8l|-2qh|bi8|11
+The Vale|MU||ag|-1jn|4g0|11
+Thorneside|AU||8c|-24d|btk|11
+Thomonde|HT||4j|1gu|-5jw|11|Tomond
+Thompsonville|US|Massachusetts|48|39k|-5hq|10
+Three Oaks|US|Florida|48|21j|-6b7|10
+Thierville-sur-Meuse|FR||9k|3sl|ev|z
+Thompsonville|US|Pennsylvania|48|33x|-66j|z
+Thaleischweiler-Fröschen|DE||8r|3sv|l2|z
+Thorncliff|CA||2s|44o|-8rm|z
+Theresienfeld|AT||a2|3ox|193|z
+'t Hofke|NL||8m|3yx|fc|z
+Thumeries|FR||9k|3w8|8i|z
+Story City|US||2f|397|-780|y|Thành phố Story
+Tisselt|BE||8t|3xr|c4|y|Thisselt
+Thorndale|US|Pennsylvania|48|333|-5uf|y
+Tha Khut Pin|MM||7y|1a5|7fb|y|Thakutpin
+Thurø By|DK||8y|48x|tm|y|Turö By
+Thesprotikó|GR||8p|311|1lr|x
+Thalmassing|DE|Bavaria|8r|3rv|xs|x
+Thomery|FR||9k|3qh|7r|x
+Tione di Trento|IT||9o|3jw|tt|x|Thionum;Tió
+The Latitude|HK||6i|1q1|8t8|x
+Thimister|BE||8t|3wq|ga|x
+Thásos|GR||8p|35a|1wn|w|Thassos;Thasas
+Three Lakes|US|Washington|3p|3p6|-9ex|w
+Thiensville|US||2f|3c4|-6se|w
+Thise|FR||9k|3nc|gw|w
+Nevada City|US||3p|312|-9c6|w|Nevada Lakanbalen;Thành phố Nevada;Lungsod ng Nevada
+Tollembeek|BE||8t|3wy|b5|w|Thollembeek
+Themar|DE||8r|3wa|ti|v
+The Plains|US||48|31d|-6c5|v
+Rush City|US||2f|3ix|-769|v|Thành phố Rush
+Tha Nat Pyin|MM||7y|1bg|7fk|v|Thanatpyin
+Three Hills|CA||2s|3zm|-8qn|v
+Than Pu Yar Khon|MM||7y|1b2|7ek|v
+Thabeban|AU||8c|-1x6|br7|u
+Three Rivers|US|Oregon|3p|3dq|-9df|u
+The Hideout|US||48|373|-5tb|u
+Thermopolis|US||2p|3d9|-8cl|u
+Thiesi|IT||9o|34k|o8|u|Tiesi
+Thorngumbald|GB||9b|458|-h|u|Thorngumbold
+Thurston|GB||9b|415|29|u
+Thị Trấn Trạm Tấu|VN||6h|1nn|81y|t
+Three Rivers|US|Massachusetts|48|396|-5l0|t
+Tha Yet Pin Chaung|MM||7y|1az|7fm|t|Thayetpingyaung;Thayetpinchaung
+Thermal|US||3p|2lg|-8ym|t
+Terezín|CZ||9m|3wb|13b|t|Theresienstadt
+Osage City|US||2f|2zb|-7e7|s|Thành phố Osage
+Thuré|FR||9k|3m3|1a|s
+Theale|GB||9b|3yw|-30|s
+Thorens-Glières|FR||9k|3js|hd|s
+Thị Trấn Phố Bảng|VN||6h|1sl|846|s
+Thursday Island|AU||8c|-te|az2|s|Île Thursday;Thursday;Wyspa Thursday;Ilha Thursday;Torsdagsön
+Loutrópoli Thermís|GR||8p|30u|21l|s|Thermí;Loutrópolis Thermís
+Thio|NC||b8|-1o2|ctq|r
+Thüngersheim|DE||8r|3uk|rd|r
+Thizy-les-Bourgs|FR||9k|3jv|bz|r
+Thabo Mbeki|ZA||o|-1su|25t|r
+Thouría|GR||8p|2v0|1p9|r
+Thomaston|US|New York|48|35b|-5or|q
+Thiant|FR||9k|3vq|9l|q
+Thamesford|CA||59|3bm|-690|q
+Thunderbolt|US||48|2gz|-695|q|Thunder Bolt
+Thurins|FR||9k|3iw|cw|q
+Thulin|BE||8t|3w3|ae|q
+The Hills|US||2f|2cb|-7k7|q
+Thusis|CH||a7|3lq|q8|q|Tusaun;Tosanna
+Thaxted|GB||9b|40b|y|p
+The Oaks|AU||8l|-2mo|bm9|p
+Thornton|US|Illinois|2f|37h|-6rd|p
+Them|DK||8y|4bt|qj|p|Tem
+Thurso|CA||59|3io|-5t1|p
+The Merton|HK||6i|1pw|8t1|p
+Thiotte|HT||4j|1eo|-5jk|p|Tyòt;Thiote
+Thurmansbang|DE||8r|3rh|110|p
+Thornley|GB||9b|483|-3z|p
+Thomastown|IE||8z|41x|-ju|o|Baile Mhic Andáin
+Thézan-lès-Béziers|FR||9k|3cm|8t|o
+Thalgau|AT||a2|3ow|10t|o
+Thy-le-Château|BE||8t|3vo|cb|o
+The Mountain|CO||27|115|-6a0|o
+Le Tholonet|FR||9k|3cw|fb|o|Lo Tolonet;Tholonet
+Firá|GR||8p|2t6|1yn|o|Thera;Thíra
+Liberty City|US||2f|2i5|-7br|o|Thành phố Liberty
+Thommen|BE||8t|3vi|gv|n
+Theilheim|DE||8r|3u7|rv|n
+Citrus City|US||2f|215|-7lb|n|Thành phố Citrus
+Thiendorf|DE||8r|3yh|126|n|Theindorf
+Thorn|NL||8m|3y4|g8|n|Toear;Torn
+Than Man Chaung|MM||7y|1ab|7f2|n
+The Bight Settlements|TC||2z|1oi|-5kk|n
+The Gap|AU|Northern Territory|8e|-1tv|abv|n
+Thal|AT||a2|3ms|16o|n
+Thalla|IN||6t|2e9|5uq|n|Thala
+Thayer|US|Missouri|2f|2tg|-72a|m
+Thüringen|AT||a2|3n4|r5|m
+Tha Yet Kone|MM||7y|1wz|7fo|m
+Thornhill|CA|Nova Scotia|35|3fw|-4wp|m
+Three Rivers|US|California|3p|2t8|-96a|m|Threerivers
+Thembisile|ZA||o|-1z4|289|m
+Thurlby|GB||9b|42i|-12|m
+Thiméon|BE||8t|3w9|cb|l
+Devín|SK||8s|3pt|1b6|l|Theben;Dévény;Deven
+Thiersheim|DE||8r|3v4|xp|l
+Thornton|GB|Scotland|9b|4c1|-8r|l
+Théding|FR||9k|3sh|j5|l
+The Rocks|AU||8l|-2m2|bo1|l
+Thon Gwa|MM||7y|19m|7en|l|Thone Gwa;Thon-khwa;Thongwa
+Diesdorf|DE||8r|40t|w4|l|Thieterisdorf
+Thorsby|US||2f|2jg|-6ow|k
+Thierachern|CH||a7|3lv|l1|k|Tierachern
+Þorlákshöfn|IS||87|4xe|-1ne|k|Þorlákshafnar
+The Valley|AI||1i|1em|-4v6|k|El Valle;La-Valo;Valis
+Thakutpin|MM||7y|1ba|7fn|k
+Thegur|IN||6t|10x|5uh|k
+Thieu|BE||8t|3w7|bd|k
+Thuli|ZA||o|-219|28c|k
+Thuillies|BE||8t|3vq|c1|k
+Theißen|DE||8r|3xx|xn|k
+Thal|DE||8r|3xg|sv|k
+Three Rivers|US|Texas|2f|272|-7kq|k
+Thornton|US|New Hampshire|48|3dx|-5j4|k
+Thuine|DE||8r|41u|kt|k
+Thérmo|GR||8p|2z5|1o7|k
+Three Forks|US||2p|3jh|-8lv|j
+The Gemfields|AU||8c|-1td|bek|j
+Thomaston|US|Connecticut|48|37r|-5mz|j|Thomas Town
+Thury-Harcourt|FR||9k|3s2|-1c|j
+Thunzini|SZ||13|-204|2g5|j|Tshaneni;Tjaneni;Tahaneni
+Thalwil / See|CH||a7|3nd|nt|j
+Thomaston|US|Maine|48|3eg|-5c6|j|Thomoston
+Thoreau|US||2p|2qc|-8cm|j
+The Hill|AU||8l|-2jh|bpm|i
+Burghead|GB||9b|4ga|-9p|i|Am Broch;Burgheid;The Broch;Burg Head
+Thổ Châu|VN||6h|pu|7zg|i
+Denigomodu|NR||b5|-1h|cvn|i|The Location
+Thulusdhoo|MV||af|c5|5ol|i
+Thouarcé|FR||9k|3nb|-1e|i
+Thalfang|DE||8r|3u7|jg|i
+Thornton Dale|GB||9b|46o|-20|i|Thornton-le-Dale
+Thorsø|DK||8y|4ce|r7|i|Torsø
+Thalwil / Nord|CH||a7|3ne|ns|i
+Thorney|GB||9b|426|-b|h
+Theys|FR||9k|3hu|go|h
+Thorembais-Saint-Trond|BE||8t|3wn|da|h
+Tha Meit|MM||7y|19q|7eb|h
+Thyborøn|DK||8y|4di|mt|h|Tyborøn
+Three Way|US||2f|2re|-6uu|h
+Tha Yaw Tan|MM||7y|1a9|7ex|h|Thayawdan
+Thiberville|FR||9k|3si|1a|h
+Thorp|US||2f|3gw|-708|g
+Thang|IN||6t|2p1|5xb|g
+Thil|FR|Grand Est|9k|3tf|gf|g
+Thurmond|US||48|2t1|-68t|g
+Thornhill|GB|Scotland|9b|49f|-ah|g|Bàrr na Driseig
+Thuellin|FR||9k|3is|fb|g
+Thomson|AU||8j|-2y1|b52|g
+Le Tholy|FR||9k|3pk|iq|g|Tholy
+Thrapsanón|GR||8p|2pr|1y8|g|Thrapsanós;Thrapsanó
+Three Crosses|GB||9b|3zf|-ba|g
+Three Oaks|US|Michigan|2q|384|-6ol|g
+Tha Byu San|MM||7y|19w|7en|g|Tha Pyu San;Thabyusan
+Thalwil / Berg|CH||a7|3nd|ns|g
+Thymianá|GR||8p|2yf|20l|g|Thimianá
+Thorigné-sur-Dué|FR||9k|3pg|1i|g
+Tha Bawt Chaung|MM||7y|1bg|7eh|g|Thabawchaung
+Thalheim|DE|Saxony-Anhalt|8r|3zh|xz|g
+Thulani|ZA||o|-1wg|2f9|g
+Thune|DE||8r|41d|t7|f
+Thorp Arch|GB||9b|45s|-3o|f|Thorpe Arch
+Thoissey|FR||9k|3k9|dc|f
+Three Legged Cross|GB||9b|3x9|-58|f
+Thorntown|US||38|33h|-6ol|f
+Thénezay|FR||9k|3ls|-3|f
+Thembalethu|ZA||o|-24q|2gz|f
+Thisnes|BE||8t|3wr|e0|f
+Bryson City|US||48|2qf|-6ft|f|Thành phố Bryson
+Thür|DE||8r|3vw|k8|f
+The Entrance North|AU||8l|-2km|bou|e
+Thespiés|GR||8p|2ye|1sb|e|Thespiae;Thespiaí
+Thaon|FR||9k|3su|-1a|e
+Thebarton|AU||8b|-2p0|aox|e
+Thorner|GB||9b|45m|-3z|e
+Thorpe le Soken|GB||9b|402|39|e
+Théza|FR||9k|3ag|87|e|Tesà
+Tha Nat Pin Chin|MM||7y|1a4|7fi|e|Thanatpingyin
+Thüngen|DE||8r|3uq|re|e
+Flying Fish Cove|CX||aa|-sy|85k|e|The Settlement;Flayinq Fiş Kouv
+Théoule-sur-Mer|FR||9k|3cv|ja|d|Teula de Mar
+Theillay|FR||9k|3nf|5o|d
+Thompson Falls|US||2p|3o7|-8we|d
+Thairé|FR||9k|3jz|-2s|d
+Thorndale|US|Texas|2f|2d1|-7i1|d
+Thorigny-sur-Oreuse|FR||9k|3q5|9g|d
+The Moorings|KY||2e|1it|-65m|d
+Thusang|ZA||o|-1we|28o|d
+Thenon|FR||9k|3he|2z|d|Tenon
+Thierstein|DE||8r|3v7|xm|d
+Thomasburg|DE||8r|43v|tm|d
+Tha Yet Taw|MM||7y|19v|7fe|d|Thayettaw
+Theisseil|DE||8r|3u1|xz|d
+Thalwil / Süd|CH||a7|3nc|nt|d
+Thomas|US|Oklahoma|2f|2ra|-7mb|c
+Thénac|FR||9k|3iv|-1t|c
+Le Theil-de-Bretagne|FR||9k|3p4|-3z|c|An Tilh;Tilia;Theil-de-Bretagne
+Thésée|FR||9k|3ng|3n|c|Thézée
+Theresa|US|Wisconsin|2f|3cw|-6tp|c
+The Rock|AU||8l|-2pz|bcn|c
+Thundorf in Unterfranken|DE||8r|3vg|so|c|Thundorf i. Unterfranken;Thundorf i. Ufr.;Thundorf
+Third Lake|US||2f|39p|-6sh|c
+Thundorf|CH||a7|3o3|ow|c
+Thilouze|FR||9k|3n6|1m|c
+Thessalon|CA||59|3kh|-6g5|c
+Thiron Gardais|FR||9k|3q8|2q|c
+Thiverny|FR||9k|3st|6s|b
+Thomasboro|US||2f|33s|-6sy|b
+Theuma|DE||8r|3w7|xy|b
+Thornton|US|California|3p|2y7|-9da|b
+Theizé|FR||9k|3jm|cu|b
+Thiaumont|BE||8t|3u4|fx|b
+Thilay|FR||9k|3uj|dd|b
+Thurlton|GB||9b|41x|4c|b
+Thérouanne|FR||9k|3wo|6a|b|Therwane;Terwoan
+Thun-Saint-Amand|FR||9k|3w7|9l|b
+The Galena Territory|US||2f|39r|-6yx|b
+Thiverval-Grignon|FR||9k|3rp|5c|b|Thivernal-Grignon
+Thueyts|FR||9k|3g4|bq|b
+Thélus|FR||9k|3vv|7s|a
+Tha Min Chan|MM||7y|19t|7fc|a|Thamingyan
+Thanstein|DE||8r|3t6|yn|a
+Thomm|DE||8r|3u6|iw|a|Tumba
+Thil|FR|Auvergne-Rhône-Alpes|9k|3j9|dy|a
+The Junction|AU||8l|-2ji|bpk|a
+Thorigné|FR||9k|3kl|-p|a
+Thieusies|BE||8t|3wc|b9|a
+Thiers-sur-Thève|FR||9k|3sj|75|a
+The Patch|AU||8j|-2x9|b7w|a
+Thoiry|FR|Île-de-France|9k|3rr|50|a
+Thumersbach|AT||a2|3nh|zm|a
+Thompson|US|North Dakota|2f|3op|-7hr|a
+Thornport|US||48|32v|-6cx|a
+Theodóriana|GR||8p|31k|1mx|a|Theodhóriana
+The Palms|AU||8c|-20s|brv|a
+Thornville|US||48|32u|-6cy|a
+Thivars|FR||9k|3qe|41|a
+Thornton|GB|England|9b|42b|-3n|a
+Thagoona|AU||8c|-24r|brz|a
+Thorsby|CA||2s|43v|-8st|a
+Théziers|FR||9k|3dy|cu|a
+The Pinehills|US||48|38d|-5g4|a
+The Gardens|AU||8e|-yl|a3g|9
+Thiel-sur-Acolin|FR||9k|3l8|9y|9
+Thorigny|FR||9k|3lh|-3g|9
+Clay City|US|Illinois|2f|2zh|-6tf|9|Thành phố Clay
+Thrall|US||2f|2cz|-7ia|9
+Thil|FR|Occitanie|9k|3df|38|9
+Thoré-la-Rochette|FR||9k|3or|2o|9
+Dallas City|US||2f|34w|-719|9|Thành phố Dallas
+Thaining|DE||8r|3p9|ug|9
+Thorembais-les-Béguines|BE||8t|3wq|de|9
+Thurton|GB||9b|420|3z|9
+Thenay|FR|Centre-Val de Loire|9k|3lj|3z|9
+Thurcaston|GB||9b|42d|-38|9
+Thiennes|FR||9k|3wp|6v|9
+Thusy|FR||9k|3jn|gj|9
+Thorey-en-Plaine|FR||9k|3n6|e9|9
+Virginia City|US||3p|317|-98d|9|Virginiurbo;Thành phố Virginia
+Thivencelle|FR||9k|3w4|a3|9
+Thursby|GB||9b|48c|-8h|8
+The Willows|CA||4q|40o|-889|8
+Thon|BE||8t|3w6|dx|8
+Theresa|US|New York|48|3eu|-5uk|8
+Thonnance-lès-Joinville|FR||9k|3ql|ed|8
+Therdonne|FR||9k|3ta|60|8|Tardonne
+Thening|AT||a2|3q2|13d|8
+Thenay|FR|Centre-Val de Loire|9k|3nn|3l|8
+Thaung Gyi|MM||7y|1a8|7fp|8
+Theologòs|GR|South Aegean|8p|2t2|25v|8
+Thurlaston|GB||9b|423|-3i|8
+Thalheim|CH||a7|3ns|mi|8
+Throckmorton|US||2f|2k6|-7ni|8
+Termen|CH||a7|3kp|ma|8|Thermen
+Turze|PL||a5|3vf|1eq|8|Thurze
+Thatcher|US|Utah|2p|37t|-8nx|8
+Tholós|GR||8p|35w|1u2|8
+Teurthéville-Hague|FR||9k|3tq|-4t|8|Theurthéville-Hague
+Thea Kone Tan|MM||7y|19q|7f8|8
+Thangool|AU||8c|-1w1|bm9|8
+Thieulain|BE||8t|3wm|a1|8
+Thieux|FR||9k|3s5|7f|8
+Thýrio|GR||8p|2zy|1ma|8
+Thal-Marmoutier|FR||9k|3ra|kf|8
+Thaling|AT||a2|3pu|147|8
+Thèze|FR||9k|3cs|-z|8
+Thalhausen|DE||8r|3wa|l2|7
+Thießen|DE||8r|40c|y6|7
+Thurageau|FR||9k|3lx|o|7
+Thorndike|US||48|3fu|-5cg|7
+Tahdzibichén|MX|Yucatán|3z|1m1|-6ww|7|Thadzibichen
+Thiescourt|FR||9k|3tp|80|7
+Thymári|GR||8p|2wq|1ui|7
+Thoard|FR||9k|3en|h3|7|Toard
+Thüringerberg|AT||a2|3n5|r6|7
+Thollon-les-Mémises|FR||9k|3kv|in|7
+Thundridge|GB||9b|400|-3|7
+Thuret|FR||9k|3jp|92|7
+Thorée-les-Pins|FR||9k|3oh|4|7
+Thurleigh|GB||9b|411|-1a|7
+The Caves|AU||8c|-1se|blz|7
+Téra|CI||0|kr|-ha|7|Théra
+Thayer|US|Illinois|2f|31u|-6xc|7
+Theisbergstegen|DE||8r|3tk|kp|7
+Thompsontown|US||48|34o|-5yk|7
+Thouarsais-Bouildroux|FR||9k|3li|-2g|7|Thouarsais-Bouilldroux
+Thorverton|GB||9b|3x5|-9t|7
+Thoury-Férottes|FR||9k|3q5|86|7
+Thirimont|BE||8t|3vm|bs|7
+The Lakes|US||2f|3em|-7dr|7
+Theópetra|GR||8p|327|1o8|7
+Tal|AT||a2|3nb|qy|7|Thal
+Thonhausen|DE||8r|3x7|y8|7
+Thaxton|US||2f|2nb|-6vq|7
+Thorndon|GB||9b|418|35|6
+Thammānwāl|IN||6t|2e6|5u7|6
+Tholopotámi|GR||8p|2ye|20f|6
+Qaanaaq|GL||57|5z7|-5cb|6|Thule;Kanakas;Kaanaak
+Thodure|FR||9k|3hw|ed|6
+Thornborough|GB||9b|40g|-2k|6
+Theológos|GR|East Macedonia and Thrace|8p|34y|1wl|6
+Thiembronne|FR||9k|3wm|5q|6
+Thury-sous-Clermont|FR||9k|3t4|6h|6
+Thurlestone|GB||9b|3vn|-aq|6|Thurleston
+Thiézac|FR||9k|3h1|7e|6
+The Narrows|AU||8e|-yj|a3i|6
+Thernberg|AT||a2|3od|18y|6
+The Leap|AU||8c|-1mk|bhy|6
+Thuilley-aux-Groseilles|FR||9k|3qx|gl|6
+Thmei|KH||78|11e|899|6
+Thiéblemont-Farémont|FR||9k|3r9|d5|6
+Thaya|AT||a2|3rp|16h|6
+Toreby|DK||8y|483|wr|6|Thoreby
+Thiéfosse|FR||9k|3p9|ip|6
+Thorntonhall|GB||9b|4ax|-bt|6
+Thurston|US||48|32o|-6db|6
+Three Lakes|US|Wisconsin|2f|3j8|-6vo|6
+Thénioux|FR||9k|3na|5e|6
+Hill City|US|Minnesota|2f|3mj|-780|6|Thành phố Hill
+Thierrens|CH||a7|3lq|is|6
+Thallichtenberg|DE||8r|3to|kf|6
+Thines|BE||8t|3wk|c5|6
+Theiss|AT||a2|3qg|17l|6
+Theodorákeio|GR||8p|35r|1pn|6|Theodorákion
+Theil-sur-Vanne|FR||9k|3pt|9j|6
+Thrussington|GB||9b|42i|-2w|6
+Johnson City|US|Oregon|3p|3i4|-9gi|6|Thành phố Johnson
+Thourie|FR||9k|3oy|-44|6|Tourig
+Teana|IT||9o|33h|18v|6|Theana
+Schram City|US||2f|30s|-6wi|6|Thành phố Schram
+Thenelles|FR||9k|3uf|9n|6
+The Orchards|US||48|31d|-5wv|6|Orchards
+Thomas|US|West Virginia|48|30r|-64u|6
+Thomson|US|Illinois|2f|38k|-6ya|6
+The Ballagh|IE||8z|41s|-hu|6
+Thenneberg|AT||a2|3pe|18d|6
+Thoirette|FR||9k|3kj|fd|6
+Thézan-des-Corbières|FR||9k|3bq|7p|6
+Théhillac|FR||9k|3o5|-5w|6|Tehelieg
+Theodore|AU|Queensland|8c|-1xb|bkv|5
+Tharang Chong|KH||78|12b|897|5
+Thimory|FR||9k|3p4|78|5
+Thornhill|GB|Scotland|9b|4c1|-bj|5
+Thompsonville|US|Illinois|2f|2xc|-6uk|5
+Thulendorf|DE||8r|469|y6|5
+Thondorf|AT||a2|3ml|170|5
+Thevenard|AU||8b|-2hb|ab9|5
+The Dawn|AU||8c|-20w|bs4|5
+Theeßen|DE||8r|414|xh|5
+Theresa Park|AU||8l|-2mh|bmf|5
+Thorne|CA||59|3j2|-5w7|5
+Thornton|US|Texas|2f|2f9|-7g9|5
+Thorntonville|US||2f|2fq|-7xw|5
+Tenno|IT||9o|3jk|u3|5|Thennum;Ten
+Thelkow|DE||8r|464|yw|5
+Thorndale|ZA||o|-1wh|2fd|5
+Tharbogang|AU||8l|-2n7|b9j|5
+Thankerton|GB||9b|4aj|-a3|5
+Thoricourt|BE||8t|3wl|az|5
+The Silos|US||2p|3kv|-8lz|5
+Thor|AT||a2|3nq|zo|5
+Thalgauberg|AT||a2|3oy|10u|5
+Thumby|DE||8r|47n|rj|5|Tumby

@@ -1,0 +1,10 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Skopje|MK||9u|38o|1nj|3nx|Skopjo;Skoplje;Szkopje;Scupi;Escópia;Skopiye;Shkupi;Üsküp;Skopye;Scopia;Skopia;Skopie;Skoplie;Shkup;Skopeia;Usküb
+Shkodër|AL||9y|38v|1i7|qk|Shkodra;Skadar;Szkodra;Škodra;İşkodra;Scutari
+Shklov|BY||9g|46l|2c5|43|Shklow
+Shklo|UA||98|3us|1te|1p|Szkło
+Shkotovo|RU||7w|3cc|a7n|1g|Sjkotovo;Schkotowo;Shkatova
+Shkurinskaya|RU||9i|3lf|31c|1e|Sjkurinskaja;Schkurinskaja;Xkurinskaia
+Lusarat|AM||80|32r|3fv|r|Shkhlar;Lusarrat;Shikhlar
+Shkilne|UA||9t|3h6|2m6|l|Şkilne
+Skagway|US||3j|4l6|-afv|c|Skakvey;Skaguay;Skagwa;Shkagway

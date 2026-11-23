@@ -1,0 +1,260 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Kazan|RU||9i|4az|3sg|9lf|Qazan;Kaasan;Qozon;Casanum;Cazã;Kasã;Kasan
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Kasur|PK||6q|2eg|5qt|3xx|Kansūr
+Kashgar|CN||7t|31n|5v3|3wq|Kachgar;Kasgar;Kaszgar;Kaschgar;Kaxgar;Qeshqer;Qaşqar;Kaixgar;Kasjgar;Kašgaras;Kašgara;Kash;Qashqar;Qeshqer Shehiri;Kashi
+Caxias do Sul|BR||4w|-291|-3y6|3p8|Kašijas do Sulas;Caxius do Sul
+Kashiwa|JP||7q|2rm|asu|3ce|Kaşiva;Kashiva;Kasiwa-chhī
+Kassala|SD||r|16x|2t4|33j|Kaszala;Kasala;Cassala
+Cascavel|BR|Paraná|4w|-1xc|-44i|2ua|Naer-ourouler;Ular derik;Serpentes tintinnabulati;Kaskavelas
+Kasugai|JP||7q|2px|akh|2dr
+Kashan|IR|Isfahan|7o|2me|3yv|2cl|Qashan;Kâšân
+Kāshān|IR|Isfahan|7o|2mg|3yw|2cl|Kachan
+Kasangati|UG||q|18|2ik|255
+Kasulu|TZ||h|-cq|2bm|1u7|Kasulo
+Kasukabe|JP||7q|2ry|as7|1ru
+Košice|SK||8s|3rb|1n2|1qi|Kaschau;Kassa;Koszyce;Cassovia;Koşitse
+Cajamarca|PE||3o|-jw|-622|1jx|Kaŝamarko;Caxamarca;Kachamarka;Qashamarka;Kashamarka;Qajamarka;Kajamarka
+Cachoeiro de Itapemirim|BR||4w|-1lx|-367|1j3|Kašoeiro de Itapemirinas;Cachoeiro do Itapemirim
+Kassel|DE||8r|3yk|qe|1is|Cassel;Kaselo;Castellum;Kaseli;Cassala;Kasele;Kaselis
+Kasama|ZM||z|-sd|2em|1dw
+Caxias|BR||2w|-di|-3cg|19f|Kašijasas
+Khasnahzān|IQ||5z|2sk|3em|14q|Kesnezan-î Îsma‘îl;Kesnezan Teḧsîn;Kasnazān
+Kāshmar|IR||7o|2pw|4if|10j|Khashmar
+Kastamonu|TR||94|36y|2lu|yw|Castamena;Qestamonu;Castamonu;Castamuni;Kastamuni;Castamoni;Castamon;Kastamouni
+Kashihara-shi|JP||7q|2nv|ah7|yl
+Kashiwara|JP||7q|2np|ah5|xl|Kashiwabara;Kashihara
+Kasese|UG||q|i|2bk|w2
+Kazo|JP||7q|2sc|ars|vc|Kaso
+Kasuga|JP||7q|2l5|a2e|uu
+Castelar|AR||1l|-2o9|-4iw|ty|Kastelaras;Kastelara
+Kashipur|IN||6t|295|63c|sn
+Kāsganj|IN||6t|259|62h|rn|Kasganĝ
+Cáceres|ES||9d|31o|-hp|qp|Norba Caesarina;Caçris;Kaseresas;Kaseresa
+Cáceres|BR||2k|-18n|-4g8|ox|Cárceres;Kaseresas
+Kasoa|GH||1|fd|-16|o4|Oduponkpehe
+Kasihan|ID||6l|-lr|8ih|ny
+Kashiwazaki|JP||7q|2vt|aov|ny|Kasyiwasaki;Kasiwazaki-chhī
+Kasserine|TN||1e|2pp|ok|ng|Kaserinas;Kassarin;Al-Kasrajn;Qasserine;Kasserin;Al Qaşrayn
+Kaspiysk|RU||9i|3b4|3oc|mq|Kaspijsk
+Kasongo|CD||y|-cb|223|mo|Kazongo
+Kashihara|JP||7q|2o2|agq|lz|Kashiwara
+Kashiba|JP||7q|2nx|agz|lp|Kaŝiba;Kasyiba;Kasiba-chhī
+Kasama|JP||7q|2t2|atn|kh
+Kāsipālaiyam|IN|Tamil Nadu|6t|vg|5zv|ke
+Kashima-shi|JP||7q|2rx|auo|im
+Kasungu|MW||9|-107|2l0|ie
+Kāsībugga|IN||6t|1g4|6ii|fz
+Kas|SD||r|yr|1vh|fd
+Kāsaragod|IN||6t|yq|5sb|f2
+Kasba Tadla|MA||d|2ik|-hf|ed|Kasbah Tadla
+Kasaoka|JP||7q|2nv|aau|dy
+Kazanlak|BG||9v|3ae|1yk|db|Kazanłyk;Kasanlak;Kazanluk;Kazanlık;Kazanlk;Kazanlek
+Kasangulu|CD||t|-cq|165|cm
+Khashm al Qirbah|SD||r|15l|2rs|bx|Hašm el Kirba;Khashm El Girba;Chaszm al-Kirba;Khashim al Qirba;Khasha al Qirbah;Khash al Qirbah;Khasm el Gerba;Khasm el Qirba;Kashm el Girba
+Kasai|JP||7q|2p1|ael|bv
+Kasanje|UG||q|f|2i0|br
+Castro|CL||4u|-39z|-5ox|bl|Kastro;Kastras
+Kasumigaura|JP||7q|2sf|atl|b5
+Kashira|RU||9i|48d|2y2|b5|Kasjira;Kaschira;Kachira;Kašira;Kaszyra
+Kaseda-shirakame|JP||7q|2fa|a20|au
+Kassambya|TZ||h|-3c|2fd|aa
+Castelo|BR||4w|-1l8|-36e|a9|Kastelo;Castello
+Cascais|PT||99|2zi|-q6|a4|Kaškaišas;Cascaes
+Kasimov|RU||9i|48m|370|9u|Kassimow;Kassimov;Cassim;Kasimow
+Kashmor|PK||6q|26z|5da|9d
+Casilda|AR||1n|-2js|-4pw|8w|Kasilda
+Castelvetrano|IT||9o|2wo|zj|8t|Castelvetranu;Castedduvitranu;Castrum Veteranum;Kastelvetranas
+Kasba|IN||6t|1zu|6r6|8g|Qasba
+Kashima|JP||7q|2jz|a1d|8e|Kasima
+Kasaali|UG||q|-1q|2fn|82|Kasali
+Kasempa|ZM||z|-11e|1zr|81
+Kasamwa|TZ||h|-7x|2i3|7p
+Kasozi|UG||q|2|2cq|6t
+Al Qaşşāşīn|EG||c|2cw|2gp|6s|Kassassin;El-Qaṣṣâṣîn;Qaṣṣâṣîn;Al-Qaṣṣāṣīn;Al-Qaṣāṣīn
+Chios|GR||8p|2yl|20m|6o|Scio;Sakız;Chóra;Quíos;el Xiu;Khíos;Kástro;Hios;Chio;Xíos;Khóra;Kastron;Castro
+Castricum|NL||8m|41z|cz|6m|Kastrikum
+Kasrāwad|IN||6t|1ph|5u1|6c
+Kasamatsuchō|JP||7q|2q9|ajx|67
+Kasongo-Lunda|CD||t|-i0|1aq|5l
+Castries|LC||52|12w|-4ph|5k|Kastrizo;Kastris;Kastrys;Kastri
+Kastanayevo|RU||9i|4as|2w6|5k
+Kaset Wisai|TH||62|17i|7zq|56
+Kasli|RU||7z|4b9|4or|4z
+Kasterlee|BE||8t|3yc|dt|4y|Casterle
+Kasanda|UG||q|1k|2gc|4q|Kassanda
+Kaset Sombun|TH||62|198|7v7|4q
+Kashin|RU||9i|4fc|2wh|4m|Kasjin;Kachine;Kašin;Kaszyn;Kaschin
+Kasumi|JP||7q|2qz|adz|4h|Kosumi
+Kasambya|UG||q|17|2er|4d
+Kasāra|IN||6t|1il|5o3|4c
+Kežmarok|SK||8s|3si|1kr|49|Käsmark;Kesmark;Kieżmark;Kejmarok
+Kostyukovichi|BY||9g|447|2h1|44|Kastsyukovichy
+Kasdol|IN||6t|1o2|6cy|3x
+Kastoria|GR||8p|34k|1n2|3q|Kesriye;Kostur;Kosturi;Castória;Kastorija;Kesrie
+Kastel|DE||8r|3ux|n0|3q
+Kasin|MM||7y|1ax|7ew|3p
+Castlebar|IE||8z|45l|-pu|3n|Caisleán an Bharraigh;Kaslbaras
+Châteaubriant|FR||9k|3ok|-3u|3m|Kastell-Briant;Castrum Brientii;Béré
+Kaspi|GE||7n|38h|3fe|3f|K’asp’i;Kasni
+Kasaishi|JP||7q|2vg|atu|3f
+Koshksarāy|IR||7o|2yu|3il|3f|Kashk Saray;Kūshg Sarāy;Koghk Sarāy;Kūshk Sarāy;Koshk Sarāy
+Kasumkent|RU||9i|37s|3pr|3e
+Kazungula|ZM||z|-1df|1y7|3d|Kasungulu;Kasungula
+Obiliq|XK||8q|3al|1mj|38|Obilić;Kastriot;Gllaboder
+Kashaf|IR||7o|2t1|4li|37
+Kastsyukowka|BY||9g|41y|2dw|2y|Kostyukovka
+Kasséré|CI||0|rb|-ha|2v|Kassiré
+Kastav|HR||a6|3i2|13v|2u
+Kaišiadorys|LT||a3|48f|1vz|2r|Koszedary;Koshedary;Kaišedorys;Kashedary;Kayshadorys;Kaišiadorio
+Kasinagar|IN||6t|1ge|6h0|2p
+Kasane|BW||m|-1dg|1xw|2j
+Kāsipālaiyam|IN|Tamil Nadu|6t|vu|5yt|2j
+Kasbate El Djena|DZ||3|232|2x|28
+Castelli|AR||1l|-2s9|-4gl|27|Kastelli
+Roihuvuori|FI||92|4n8|1xm|27|Kasberget
+Kaş|TR||94|2sk|2ac|26
+Kashiwabara|JP||7q|2u8|anv|25|Kashiwahara
+Kazalinsk|KZ||7d|3j4|4si|25|Qazaly;Kasalinsk
+Saint-Pol-de-Léon|FR||9k|3r8|-b3|24|Kastell-Paol;Fanum Sancti Pauli Leonensis
+Cascade|SC||ae|-cz|4a6|21|Kaskad
+Kaštel Stari|HR||a6|3cz|19f|1y
+Kasakh|AM||80|33s|3fh|1w|K’asakh;Qasax
+Kaštel Sućurac|HR||a6|3cz|19n|1t
+Kaštel Novi|HR||a6|3cz|19e|1t
+Castle Donington|GB||9b|42s|-3q|1s|Kasel-Doningtono;Castle Donnington
+Kashary|RU||9i|3s8|35w|1r|Kasjary
+Châteaugiron|FR||9k|3ph|-46|1r|Kastell-Geron
+Kasson|US||2f|3eb|-75n|1p
+Kashitashi|CN||7t|2su|65z|1p
+Castelsardo|IT||9o|35n|o7|1o|Caltheddu;Castrum Sardum;Casteddu Sardu;Kastelsardo
+Kastal|TR||94|2sp|2so|1k
+Châteaulin|FR||9k|3pw|-bd|1i|Kastellin;Castrolinum
+Kashkhatau|RU||9i|3cc|3d5|1i|Kasjkhatau;Kashkatau
+Châteaubourg|FR||9k|3pn|-3w|1i|Kastell-Bourc'h
+Kastellaun|DE||8r|3v3|ko|1h
+Kaštel Lukšić|HR||a6|3d0|19h|1g
+Kasauli|IN||6t|2du|5xt|1g|Kosauli
+Kassiri|SL||l|ou|-10g|1g|Kasiri
+Kasipet|IN||6t|1gv|64o|1f
+Kaser|US||48|368|-5pr|1f
+Kashimpur|BD||6a|1sj|6vs|1f|Kāsimpur
+Kaštel Kambelovac|HR||a6|3cz|19i|1f|Kaštel Kamblelovac
+Kazanskaya|RU|Rostov|9i|3ub|36b|1d|Kazanskaja;Kasanskaja
+Qasr Abu Hadi|LY||1d|2ea|1aa|1d|Abu Hadi;Qasr Abou Hadi;Kasr Abu Hadi
+Kasināyakkampatti|IN||6t|yo|625|1c
+Kaštel Gomilica|HR||a6|3cz|19k|1b
+Kashirskoye|RU||9i|3yt|31z|1a|Kasjirskoje
+Kastornoye|RU||9i|3zz|2xx|18|Kastornoje
+Kacha|UA||9t|3ge|2l6|17|Katcha;Qaçı;Kaĉo;Kascsa;Katsja;Kacza
+Kíssamos|GR||8p|2ql|1tp|16|Kastelli;Cisamus;Kastelli Kissamou;Císsamos;Kastéllion
+Keshāvarz|IR||7o|2uc|3ks|15|Kashāvar
+Kassiongo-Koura|CI||0|ru|-fh|14
+Ermióni|GR||8p|2vu|1sl|13|Kastrí
+Châteauneuf-du-Faou|FR||9k|3pv|-al|12|Kastell-Nevez-ar-Faou
+Kaspichan|BG||9v|3cc|23h|10|Kaspitchan
+Casay|PH|Central Visayas|71|ra|9j7|10|Kasay
+Castleblayney|IE||8z|46c|-ip|10|Baile na Lorgan;Castleblaney;Kaslbleinis
+Kashechewan|CA||59|419|-6as|x
+Sapernoye|RU||9i|4on|2b8|x|Sapernoje;Kasarmila
+Kazaki|RU||9i|426|2ya|w|Kagaki;Kasaki
+Kasrik|TR||94|2vw|396|w
+Castletown|IM||93|467|-cx|v|Kasltaunas;Balley Chashtal;Baile Chaistil;Castletoun
+Kazinka|RU||9i|41y|32m|u|Kasinka
+Kashperivka|UA|Kyiv Oblast|98|3tb|2ag|u|Kashpirovka;Kashperovka
+Kassita|MA||d|2ox|-ad|t
+Krasnaye|BY||9g|46o|238|t|Krasnoye;Kasnoye;Krasne;Krasnaje
+Kaštel Štafilić|HR||a6|3cz|19d|s
+Kasina Wielka|PL||a5|3u5|1jy|s|Kosina Wielka
+Kassándreia|GR||8p|339|1t1|s|Kassandra;Kassandria
+Kesra|TN||1e|2rh|q0|r|Kasra
+Kastl|DE|Bavaria|8r|3t5|wg|r
+Kastl|DE|Bavaria|8r|3pw|za|r
+Kasendorf|DE||8r|3v0|vj|q
+Kassiguié|CI||0|fs|-bt|p|Kassigué
+Cassel|FR||9k|3x4|6x|o|Kassel
+Limenária|GR||8p|34v|1wa|o|Kastro;Hamidieh
+Kasivobara|RU||6z|3wr|c1o|o|Severo-Kuril'sk;Severo-Kurilsk
+Casekow|DE||8r|43t|13h|o|Kasekow
+Kasuku|KE||16|-d|2t2|m
+Kassiongokro|CI||0|s3|-fx|l|Kassiongo-Koro
+Kassiné|CI||0|mk|-dp|l
+Kasrīneh|IR||7o|2py|4i8|l
+Kaszaper|HU||8v|3l3|1lv|l
+Kastu|FI||92|4nz|1pw|k
+Kås|DK||8y|4ew|qv|k|Kaas
+Kaszów|PL||a5|3v0|1is|k
+Castlebridge|IE||8z|41j|-hx|i|Droichead an Chaisleáin;Kaslbridžas
+Kastélli|GR||8p|2pt|1ye|i|Kastéli
+Châtillon-en-Vendelais|FR||9k|3py|-3a|h|Kastellan-Gwennel
+Castellane|FR|Provence-Alpes-Côte d'Azur|9k|3dt|i3|g|Castelana;Kastelanas
+Kassam|CI||0|kx|-8m|g
+Kasaba|TR||94|2sv|2al|g
+Kasseedorf|DE||8r|46h|ts|g
+Castelrotto|IT|Trentino-Alto Adige|9o|3ld|w4|f|Kastelruth;Castrum Ruptum
+Castlecomer|IE||8z|42p|-k1|f|Caisleán an Chomair;Kaslkomeris
+Kassiapleu|CI||0|kg|-l6|f
+Castledermot|IE||8z|42z|-j0|f|Díseart Diarmada;Kasldermotas;Diseart Diarmad
+Cast|FR||9k|3ps|-bi|f|Kast
+Kastl|DE|Bavaria|8r|3uf|x2|e
+Kasbach-Ohlenberg|DE||8r|3wi|k7|e
+Kašina|HR||a6|3jj|18s|e
+Kastélla|GR||8p|2z5|1tn|e
+Kašperské Hory|CZ||9m|3si|11o|e
+Kasejovice|CZ||9m|3te|126|d|Kasejowitz
+Kaşlıca|TR||94|2x1|2xg|d
+Kasagi|JP||7q|2oj|ahl|d
+Kaskinen|FI||92|4ta|1my|d|Kaskö;Kaskë
+Kasel|DE||8r|3u8|ip|c
+Châteauneuf-d'Ille-et-Vilaine|FR||9k|3qw|-5d|c|Kastell-Noez;Châteauneuf-dIlle-et-Vilaine
+Kastráki|GR|Thessaly|8p|32c|1o2|c
+Kastorf|DE||8r|45b|td|b
+Castlebellingham|IE||8z|45q|-hr|b|Baile an Ghearlánaigh;Castle Bellingham;Kaslbelinheimas
+Kass Wollof|GM||7|12a|-15h|b
+Qasigiannguit|GL||4e|5b6|-3y7|b|Christianshåb;Kasigianguits;Kasigianguit;Qasigianguit;Christianshaab
+Kasséligué|CI||0|rm|-gq|b
+Kaslo|CA||5b|3uo|-90s|a
+Kashtanove|UA||9t|3gj|2mm|a|Kashtanovoye
+Kaskantyú|HU||8v|3ln|1hv|a
+Casteren|NL||8m|3ys|ek|a|Kasteren
+Châtelaudren|FR||9k|3qu|-89|a|Kastellaodren
+Kastráki|GR|Central Greece|8p|2yq|1ou|9
+Kassel’skiy|RU||7z|45g|4lh|9|Kasselskij;Kasselski
+Kašava|CZ||9m|3sy|1df|9
+Getap|AM|Shirak|80|34x|3e7|9|Kazmali;Kasum-ali;Ghasum-Ali;Ghasmali
+Kashtany|UA||9t|3gn|2lv|9
+Kūshkdar|IR||7o|2rz|3x0|9|Kūshak Zar;Kūshk-e Z̄ar;Kashk Zar;Kūshk Zar
+Kasaze|SI||9a|3kf|168|8
+Kástron|GR||8p|2yx|1sc|8
+Kashkū|IR||7o|2u5|3x6|8
+Kassiopi|GR||8p|32j|1jc|8|Kasiópi
+Kāshī Kolā|IR||7o|2t0|427|8|Kāshī Kalā
+Kastanéa|GR||8p|31z|1j8|8|Kastania
+Kasel-Golzig|DE||8r|409|122|8
+Kaster|BE||8t|3x5|9q|8|Caster
+Käshofen|DE||8r|3t1|km|7
+Kassérégué|CI||0|sl|-fo|7
+Kashperivka|UA|Vinnytsia|98|3uj|289|7|Kashperovka
+Kasyanivka|UA||98|3ne|2w9|7|Kas’yanovka;Kasianivka
+Kastaniés|GR||8p|37p|21k|7
+Kastrí|GR||8p|31v|1kb|7
+Kassiogouiné|CI||0|jx|-l6|7
+Kasota|US||2f|3f1|-790|7
+Cașva|RO||8u|3ly|1x4|6|Kaşva
+Boscastle|GB||9b|3ws|-d1|6|Kastell Boterel
+Kastanás|GR||8p|35e|1qy|6|Kastaniá
+Kaštel|HR||a6|3i7|11z|6
+Kashtany|RU||9i|3cx|32u|6|Kasjtany
+Kastanoússa|GR||8p|36o|1rl|6
+Kasigluk|US||49|4p6|-cjg|6|Kassigluq;Kasigoluk;Kasiglook;Kaseglok;Kasiglok
+Micești|RO|Cluj County|8u|3lk|1tm|6|Kaszoly
+Kastrítsa|GR||8p|323|1m4|6
+Kasseburg|DE||8r|44t|sy|6
+Kasilof|US||1h|4nm|-bo7|5|Kassilow;Kussilof
+Kırkat|TR||94|2wc|36q|5|Kiryas;Kasrik;Kyrkat
+Kastaniá|GR||8p|33l|1p6|5|Kastanéa
+Kassanblé|CI||0|ny|-cr|5
+Kashpero-Mykolayivka|UA||98|3nm|2hf|5|Kachpero-Mykolaïvka
+Kashubivka|UA||98|3tl|2of|5|Koshubovka
+Hasan|TM||5x|33m|44p|5|Kasan

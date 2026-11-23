@@ -1,0 +1,272 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Navi Mumbai|IN||6t|1gw|5mu|k28|New Bombay;Navi Moembaai;Novmumbajo;Nova Bombaim;Navi Mumbaj
+Nova Iguaçu|BR||4w|-1r8|-3cp|6i6|Nova Iguasu;Nova Iguassú
+Nova Vida|AO||x|-or|10q|3l6
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+Newark|US|New Jersey|48|356|-5q1|26b|Ņuarka;Niuarkas;Novarcum
+Novi Beograd|RS||8q|3gh|1kq|1ma|Novi Belgrade;Nový Bělehrad;Yeni Belgrad;Novbeogrado;Nowy Belgrad;Nova Belgrado;New Belgrade
+Nova Friburgo|BR||4w|-1pw|-3a5|1gr|Nueva Friburgo
+Neuss|DE||8r|3y8|il|16d|Novaesium;Nüüß;Nüss;Noisas;Nuus
+Nova Lima|BR||4w|-1jj|-3dt|xm
+Nova Serrana|BR||4w|-1j8|-3gy|vw
+Novara|IT||9o|3i9|ny|sb|Novare;Novaria;Nuara;Nuvara
+Novaya Balakhna|RU||9i|4cx|3d4|hj|Balakhna;Balachna;Balaĥna
+Nova Odessa|BR||4w|-1ra|-3ne|h8
+Novato|US||3p|2xv|-9gh|ff
+Neu-Ulm|DE||8r|3qf|rt|ea|Nuevo Ulm;Nuova Ulma;Neu Ulm;Nöa Ulma;Nei-Ulm;Nova Ulma
+Tarnobrzeg|PL||a5|3wh|1o8|e1|Tarnobžega;Tarnobjeg;Nova Tarnovia;Tarnobžegas;Tarnobrzyg
+Nova Venécia|BR||4w|-1fz|-348|e0
+Nova Zabudova|UA||98|3w3|2cs|dm
+Nova Andradina|BR||2a|-1pr|-446|di
+Nova Mutum|BR||2k|-12f|-4bs|d0
+Nova Darnytsya|UA||98|3w2|2d6|cp|Nova Darnytsia
+Wiener Neustadt|AT||a2|3os|193|cg|Dunajsko Novo mesto;Viedenské Nové Mesto;Bécsújváros;Wr. Neustadt;Bécsújhely;Német-Újhely;Vyner Noištatas;Weana Neistod;Vídeňské Nové Město;Nova civitas Vindobonensis;Bečko Novo Mjesto
+Nova Kakhovka|UA||98|3lw|2ko|cc|Nowa Kachowka;Nova Kajovka;Nova Kachovka;Naujoji Kachovka;Nova Kahovka
+Nova Viçosa|BR||20|-1dp|-31d|c6
+Nowa Sól|PL||a5|3zw|17o|b8|Nova Sola;Nova Sulė;New Salz;Neusalz
+Nova Olinda do Norte|BR||3t|-at|-4k6|ak
+Nova Cruz|BR||2w|-i0|-2qf|9j
+Nova Russas|BR||2w|-d3|-34o|90
+Nova Mamoré|BR||4l|-sw|-51h|8q
+Louvain-la-Neuve|BE||8t|3wr|ct|87|Novum Lovanium;Li Noû Lovén;Nová Lovaň
+Nova Santa Rita|BR|Rio Grande do Sul|4w|-2ax|-3yg|82|Santa Rita
+Nova Prata|BR||4w|-27y|-3zd|7o
+New London|US|Connecticut|48|36w|-5ka|7k|Nova Londres;Nov-Londono;New-London
+Nové Město|CZ||9m|3v4|142|7j|Prager Neustadt;New Town;Città Nuova;Nieuwe Stad;Újváros;Pragako Hiri Berria;Nova Urbo;Nowe Miasto
+Nova Soure|BR||20|-v7|-2yw|7i
+Nova Esperança|BR||4w|-1se|-410|7e
+Nowa Ruda|PL||a5|3wi|19u|6w|Neurode;Nova Ruda;Nowo Ruda;Naujoji Ruda;Nowy Ruda
+Novo Mesto|SI||9a|3j8|165|6s|Rudolfswerth;Nova Urbs;Rudolfswert;Novo Mestas;Nova Mesta
+Nova Zagora|BG||9v|3a0|20a|6k|Yeni Zağra;Nowa Zagora;Eni Zagra;Ienizagra;Nowa Sagora;Jeni Zagra;Yeni Sagra
+Nova Petrópolis|BR||4w|-29m|-3xz|6h
+Nova Milanese|IT||9o|3in|pk|67
+Novaya Usman’|RU||9i|3zg|31h|66
+Nova Alvorada do Sul|BR||2a|-1nn|-472|62
+Nova Xavantina|BR||2k|-14q|-41g|5t
+Nova Esperança do Piriá|BR||23|-6b|-3mh|5p
+Nova Hartz|BR||4w|-2a6|-3xe|5l
+Novaya Derevnya|RU||9i|4mn|2c5|5k|Uusikylä
+Novate Milanese|IT||9o|3ih|pe|5i
+Nova Granada|BR||4w|-1l1|-3sz|5e|Novo Granaoa
+New Glasgow|CA||35|3im|-4u1|57|Glaschu Úr;Nova Glasgow
+Nova Bavariya|UA||98|3ur|2sf|4w|Nova Bavaria
+Nova Era|BR||4w|-1iv|-3bk|4u
+Nova Ipixuna|BR||23|-do|-3sc|4p
+Nova Resende|BR||4w|-1mp|-3ky|4k
+Nova Olímpia|BR|Mato Grosso|2k|-154|-4f5|4j
+Novaliches Proper|PH||71|14w|9c9|4h|Novaliches
+New Cross|GB||9b|3z0|-4|4e|Nova Kruco
+Nova Timboteua|BR||23|-3d|-3nn|4b|Novo Timboteua
+Nova Pazova|RS||8q|3gu|1k6|4b
+Nova Olinda|BR|Ceará|2w|-jp|-328|4a
+Nova Ponte|BR||4w|-1h7|-3of|42
+Nova Olinda do Maranhão|BR||2w|-7t|-3iy|3z
+Novaya Lyalya|RU||7z|4k1|4ob|3y|Novaja Ljalja
+Nova Bandeirantes|BR||2k|-rd|-4gl|3y
+Nova Aurora|BR|Paraná|4w|-1w5|-43y|3u
+Nova Trento|BR||4w|-23t|-3rx|3t
+Nova Canaã|BR||20|-153|-33i|3t
+Nova Veneza|BR|Santa Catarina|4w|-27k|-3ti|3t
+Nova Odesa|UA||98|3nf|2g9|3r|Nova Odessa;Nova Adesa;Nowa Odessa;Nueva Odesa;Fedorivka;Lungsod ng Nova Odessa;Fedorovka
+New Ulm|US||2f|3f3|-7ae|3p|Nova Ulma
+Moldova Nouă|RO||8u|3ga|1o7|3p|Nová Moldava;Újmoldova
+Nova Gorica|SI||9a|3jo|11x|3m|Nuova Gorizia;Gnove Gurize;Goritia Nova
+Nova Crixás|BR||4w|-136|-3vt|3l
+Nova Londrina|BR||4w|-1r9|-436|3l
+Nieuw Nickerie|SR||4h|gh|-4e9|3k|Yeni Nickerie;Nueva Nicaría;Yeni Nikeri;Neu-Nickerie;Sabuwar Nickerie;Nova Nickerie;New Nickerie
+Nova Prata do Iguaçu|BR||4w|-1z7|-447|3j
+Nova Ubiratã|BR||2k|-107|-49h|3d
+Nova Olinda|BR|Tocantins|1k|-l7|-3qi|3b
+Nova Canaã do Norte|BR||2k|-tk|-4ar|3a
+Nova Laranjeiras|BR||4w|-1yb|-41y|37
+Nowa Dęba|PL||a5|3w3|1of|37|Nova Demba
+Novaya Igirma|RU||6k|4ep|80n|2z|Novaya Igrima
+Nova Vodolaha|UA||98|3u4|2rm|2x|Nowa Wodolaha;Nova Vodolaga;Novaya Vodolaga
+Nová Dubnica|SK||8s|3rx|1ef|2w|Kiskelecsény;Újtölgyes
+Nova Gradiška|HR||a6|3hq|1ca|2q|Nova Gradisska;Nova Újgradiska
+Nova Floresta|BR||2w|-hy|-2sk|2p
+Novaya Ladoga|RU||9i|4my|2hq|2p|Novaja Ladoga;Uusi Laatokka;Nowoja-Ladoga
+Nova Bassano|BR||4w|-27s|-3zm|2o
+Nova Veneza|BR|Goiás|4w|-19h|-3t0|2n
+Nova Europa|BR||4w|-1oi|-3qw|2l
+Nová Paka|CZ||9m|3w9|174|2k
+Nova Campina|BR||4w|-1v0|-3ru|2d
+Nova Monte Verde|BR||2k|-rq|-4ft|2d
+Nova Santa Rosa|BR||4w|-1vz|-45v|2b
+Nova Glória|BR||4w|-162|-3tp|2b
+Nova Fátima|BR|Bahia|20|-w9|-323|28
+Nova Itarana|BR||20|-107|-33b|26
+Nova Redenção|BR||20|-zm|-363|23|Redenção
+Nova Zburivka|UA||98|3l1|2i5|23
+Nova Fátima|BR|Paraná|4w|-1t3|-3wg|20
+Nova Lacerda|BR||2k|-148|-4ll|1y
+Nová Baňa|SK||8s|3qi|1fs|1x|Újbánya;Nova Banja
+Nova Tebas|BR||4w|-1vw|-40b|1w
+Nova Mayachka|UA||98|3lg|2ka|1w|Nova Maïatchka
+Nova Cantu|BR||4w|-1wj|-421|1w
+Novo Brdo|XK||8q|3ae|1nj|1v|Artanë;Artana;Novobërdë;Novobërda;Novaberd
+Nova Porteirinha|BR||4w|-17w|-3ca|1v
+Nova Aliança|BR||4w|-1me|-3ti|1v
+Nova Praha|UA||98|3qx|2je|1u
+Nova Ibiá|BR||20|-12d|-323|1t
+Novaya Mayna|RU||9z|46f|3u7|1s|Novaja Majna
+Nowa Sarzyna|PL||a5|3vs|1q2|1r|Nova Sažina
+Nova União|BR|Rondônia|4l|-ua|-4ts|1q
+Novaya Bukhtarma|KZ||5s|3tv|6g0|1o|Zhanga Buqtyrma
+Nova União|BR|Minas Gerais|4w|-1ip|-3d2|1n
+Nova Olímpia|BR|Paraná|4w|-1t7|-43h|1m
+Nova Olinda|BR|Paraíba|2w|-ks|-2xo|1m
+Nova Maringá|BR||2k|-107|-4ej|1m
+Nova Mokošica|HR||a6|3aj|1ec|1l
+Nova Esperança do Sudoeste|BR||4w|-1zz|-43y|1k
+Nova Palma|BR||4w|-29v|-44j|1k
+Novallas|PH||71|qf|9i0|1j|Novollas
+Nova Borova|UA||98|3wt|27j|1j|Nowa Borowa;Yangi Borova;Bobryk Nowy
+Novaci|RO|Giurgiu County|8u|3f2|207|1i
+New Castle|US|Delaware|48|326|-5tw|1i|Nova Kastelo;Newcastle;New Castl;Neucastle;Neu Castle;New Castel
+Nova Erechim|BR||4w|-22q|-42z|1g
+Novaya Tavolzhanka|RU||9i|3vv|2ub|1f
+Nova Colinas|BR||2w|-js|-3ki|1e
+Nova Araçá|BR||4w|-27m|-3zq|1e
+Nieuw Amsterdam|SR||4h|gd|-491|1d|Nieuw-Amsterdam;Yeni Amsterdam;Nueva Ámsterdam;Neu-Amsterdam;Sabuwar Amsterdam;Nova Amsterdã
+Nova Esperança do Sul|BR||4w|-29p|-48b|1d
+Nova Siri Scalo|IT||9o|33h|1a8|1d
+Novaya Bryan’|RU||6k|3zn|8cq|1d|Novaja Brjan;Novoy Bryan
+Novaya Lyada|RU||9i|42f|37o|1d|Novaja Ljada;Nowaja Ljada;Novaïa Liada;Novaya Lâda;Nowaja Lada
+Noves|FR||9k|3dw|dm|1b|Nòvas
+Nova Independência|BR||4w|-1mm|-3z1|1a
+Nova Guarita|BR||2k|-sn|-49x|1a
+Novaya Maka|RU||9i|381|3qc|19|Novaja Maka
+Nova Itaberaba|BR||4w|-22u|-42p|19
+Nova Nazaré|BR||2k|-12v|-3zw|19
+Nova Santa Helena|BR||2k|-u5|-49a|18
+Novais|BR||4w|-1mb|-3rw|18
+Novaya Chara|RU||67|4ds|94j|18|Novaja Tsjara
+Nova Iorque|BR||2w|-ip|-3ec|17
+Nová Role|CZ||9m|3vn|zi|17|Neu-Rohlau
+Nova Palmeira|BR||2w|-ik|-2t6|17
+Novaya Zaimka|RU||7z|4cx|55w|16|Novozaimka
+Nova Santa Bárbara|BR||4w|-1tj|-3x0|16
+Nova Santa Rita|BR|Piauí|2w|-mf|-38t|15
+Nováky|SK||8s|3rb|1fh|15|Navaky
+Nova Ushytsya|UA||98|3ro|23r|15|Nova Ouchytsia
+Novafeltria|IT||9o|3dx|y5|13
+Nova Brasilândia|BR||2k|-15k|-48p|13
+Nova Karakuba|UA||98|3o4|2uz|12|Krasna Polyana;Krasna Poliana;Novaya Karakuba;Novo-Karakuba;Krasnaya Polyana
+Nová Dedinka|SK||8s|3pv|1c8|11|Duna-Újfalu;Dunaújfalu
+Nova Marilândia|BR||2k|-13x|-4e9|11
+Nova Módica|BR||4w|-1f8|-37a|11
+New Edinburgh|CA||59|3i8|-5u9|z|Nova Edinburgo
+Nova Dilnytsya|UA||98|3pc|2x0|z|Nova dil'nytsya;Nova Dilnytsia
+Nova Roma do Sul|BR||4w|-28j|-3yt|z
+Nova Rosalândia|BR||1k|-td|-3rv|y
+Nová Bystřice|CZ||9m|3s6|15y|y|Nový Bystřice
+Novaya Malykla|RU||9z|46k|3up|x
+Nova América da Colina|BR||4w|-1st|-3ww|x
+Nova Belém|BR||4w|-1fc|-35y|w
+Nova Roma|BR||4w|-126|-3m8|v
+Nova Candelária|BR||4w|-24p|-46b|v
+Nova Bréscia|BR||4w|-295|-40j|u
+Zhana-Omir|KZ||77|3xu|3z9|u|Novaya Zhīzn’;Zhana Omir
+New Madrid|US||2f|2tn|-6wp|u|Nueva Madrid;Nova Madrid
+Nova Iguaçu de Goiás|BR||4w|-13p|-3t7|u
+Nová ľubovňa|SK||8s|3sv|1lg|u
+Novaya Chigla|RU||9i|3ya|34g|u
+Nova Basan|UA||98|3wh|2fj|t|Nowa Bassan;Nova Bassan;Nowa Basań;Nowo Bessan;Novaya Basan’
+Nova Luzitânia|BR||4w|-1ly|-3vm|s
+Nova Crnja|RS||8q|3iv|1l9|r|Magyarcsernye
+Novaci|RO|Gorj County|8u|3hi|1tr|r
+Nová Bystrica|SK||8s|3t2|1gt|q
+Novara|MX||41|1ek|-7ez|p
+Nova Mambone|MZ||11|-1mb|2pa|p
+Novar Gardens|AU||8b|-2p5|aot|p
+Nuevo Berlín|UY||45|-2jm|-4ha|p|Nova Berlino;Novo Berlim
+Nová Včelnice|CZ||9m|3ss|15v|o
+Novalja|HR||a6|3fs|15d|o|Novaglia
+Novazzano|CH||a7|3jc|oy|o|Novazzan
+New London|US|Ohio|48|365|-6cw|o|Nova Londres
+Nova Znamianka|UA||98|3sj|2kt|o|Chervona Znamianka;Nova Znamyanka
+Nova Zhuchka|UA||98|3qa|204|o|Neuzuczka;Neu Zuchka;Jucica Nouă;Żuczka Nowa
+Novaci|MK||9u|360|1nm|o|Novatsi
+Nova Pádua|BR||4w|-28n|-3yj|n
+Nova América|BR||4w|-15q|-3um|n
+Nova Dmytrivka|UA||98|3u1|2gx|n
+Nova Sintra|CV||84|15b|-1wm|m
+Nova Haleshchyna|UA||98|3sl|2ls|m|Nova Haléchtchyna
+New Glarus|US||2f|3ax|-6x0|m|Nova Glarona;New Glaris
+Nova Ramada|BR||4w|-25z|-456|m
+Novaya Huta|BY||9g|40q|2e2|m|Novaja Huta;Novaya Guta
+Nova Guataporanga|BR||4w|-1n9|-3zg|m
+Nova Aurora|BR|Goiás|4w|-1e6|-3q1|l
+Huziyivka|UA||98|3sh|2z9|l|Nova Astrakhan;Novo-Astrakhan’;Novaya Astrakhan’;Nova Astrakhan’
+Nova Nekrasivka|UA||98|3i0|27q|l|Necrasovca-Nouă;Necrasovca Nowa;Nekrasovka-Noua
+Nova Boa Vista|BR||4w|-25r|-436|k
+Nova Canaã Paulista|BR||4w|-1kn|-3xj|k
+Nova Ivanivka|UA||98|3jk|28s|k
+Novaki|HR||a6|3j8|17w|k
+Nova Pryluka|UA||98|3t5|27q|j|Nowe Przyłuki
+Nova Sloboda|UA||98|3yp|2mt|g|Nowa Sloboda;Novaya Sloboda
+Novalaise|FR||9k|3in|g2|g
+Nová Ves|CZ|Central Bohemia|9m|3vi|14e|f
+Nová Lesná|SK||8s|3sg|1kb|f
+Nova Ponente|IT||9o|3kx|vr|f|Deutschnofen;Nova Teutonica
+Nova Levante|IT||9o|3kz|w2|f|Welschnofen;Nova Latina
+Novate Mezzola|IT||9o|3ke|q9|e|Novatum;Nuvaa;Novate Mezoła
+Nová Ves I|CZ||9m|3v1|162|e|Nová Ves;Nová Ves 1
+Nová Ves nad Žitavou|SK||8s|3q5|1ew|e
+Nova Dofinivka|UA||98|3le|2dv|d|Novaya Dofinivka
+Nova Aliança do Ivaí|BR||4w|-1se|-424|d|Nova Aliança do Avaí
+Novagli|IT||9o|3i3|t0|d
+Nova Dacha|UA||98|3qw|2sm|d|Novaya Dacha
+Nova Dolyna|UA||98|3kw|2cy|d
+Nová Cerekev|CZ||9m|3ta|160|c
+Nova Berezivka|UA||98|3ul|2sa|b
+Novaky|UA|Poltava|98|3v3|2jg|b|Novaki;Povaki
+Nova Castilho|BR||4w|-1lo|-3vu|b
+Nová Ves|CZ|Central Bohemia|9m|3vr|13r|a
+Nova Siri|IT||9o|33j|19y|a
+Nová Bošáca|SK||8s|3rs|1dg|a
+Neuberg im Burgenland|AT||a2|3n1|196|a|Nova Gora;Újhegy
+Novaretto|IT||9o|3hc|kg|9
+Novara di Sicilia|IT||9o|2xm|161|9|Nuvara;Noara;Novara Sicilia
+Nová Ves nad Nisou|CZ||9m|3wx|169|9
+Nova Pokrovka|UA||98|3is|28s|9|Pocrovca-Nouă
+Nova Tsarychanka|UA||98|3ki|2b0|8|Tariceanca Nouă;Tsarichanka Noua
+Novaya Kupavna|RU||9i|4b1|2xv|8
+Nová Ves|CZ|South Moravian|9m|3sf|19b|8
+Nová Říše|CZ||9m|3si|178|8|Neureisch
+Nova Ves|HR||a6|3ko|193|8
+Novaki Bistranski|HR||a6|3jg|182|8
+Novallas|ES||9d|38j|-4q|8
+Novaggio|CH||a7|3jt|om|8|Nuvasg
+Nova Kapela|HR||a6|3hk|1d0|8
+Nová Ves|CZ|South Bohemian Region|9m|3rw|14d|8
+New Harmony|US||2f|2xx|-6sa|8|Nová Harmonie;Nova Harmonia
+Nová Ves pod Pleší|CZ||9m|3uf|13o|8
+Nová Hradečná|CZ||9m|3ug|1bg|8
+Novăcești|RO||8u|3h3|1zm|7
+Novīn|IR||7o|2pr|3ks|7|Nowīn;Novan;Navīn
+Novaya Zhizn’|UA||9t|3iu|2nu|7
+Nová Ves|CZ|Liberec Region|9m|3x8|15p|7
+Novakovec|HR||a6|3l1|1a1|7
+Novaledo|IT||9o|3ju|vl|7
+Nová Ves u Nového Města na Moravě|CZ||9m|3tm|18o|7
+Novi Yarylovychi|UA||98|40j|2e5|7|Novyye Yarylovichi;Novi Iarîlovîci;Novaja Jaryłavičy;Novi Jaryłavyčy
+Nová Ves nad Popelkou|CZ||9m|3wc|16t|7
+Novaky|UA|Zhytomyr Oblast|98|3xh|27y|7|Novaki
+New England|US||2p|3la|-7xr|7|Nova Anglio
+Nova Bukovica|HR||a6|3iu|1dd|6
+Nova Štifta|SI||9a|3kj|14z|6
+Nová Pec|CZ||9m|3ri|12p|6
+Nová Lhota|CZ||9m|3rq|1cv|6
+Novachykha|UA||98|3up|2kn|6|Novachikha;Novachikhi
+Nova Vas|HR||a6|3hq|11y|6
+Nova Subocka|HR||a6|3i1|1b0|6
+Nová Ves u Chotěboře|CZ||9m|3u7|17h|6
+Nová Ves u Světlé|CZ||9m|3tx|16w|6
+Novacella|IT||9o|3lu|wd|5|Neustift
+Nova Kochubeyivka|UA||98|3u8|2p3|5|Nova Kochubeivka;Novo-Kochubeyevka
+Nova Kuban|UA||98|3mv|2kn|5|Novo-Kuban’;Novaya Kuban’

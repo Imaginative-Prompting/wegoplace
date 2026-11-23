@@ -1,0 +1,18 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vsevolozhsk|RU||9i|4mq|2d7|de|Vsevolozjsk;Seuloskoi;Wsewoloschsk;Vsevolojsk;Vsevoložsk;Wsiewołożsk;Wsewoložsk;Vsevoložska
+Vsetín|CZ||9m|3t2|1e0|6y|Vsetynas;Wsetin
+V.S.K.Valasai (Dindigul-Dist.)|IN||6t|so|613|4z
+Wschowa|PL||a5|3zx|19c|41|Fraustadt;Vshova;Fräwstadt;Zchowa
+Itäranta|FI||92|4nw|1ps|11|V kaupunginosa;V stadsdel;Öststranden;V District
+Všetaty|CZ||9m|3vo|14j|p
+Všenory|CZ||9m|3up|13q|h
+Všestary|CZ||9m|3vm|17s|f
+Všemina|CZ||9m|3sw|1do|b|Wschemin;Wschemina
+Všeruby|CZ|Plzeň Region|9m|3ug|10r|a
+Všemyslice|CZ||9m|3sq|13w|a
+Všechovice|CZ||9m|3te|1dc|9
+Všeruby|CZ|Plzeň Region|9m|3t2|102|9|Neumark
+Vselyub|BY||9g|458|1zo|6|Usyelyub
+Všechlapy|CZ||9m|3vi|15r|6
+Všejany|CZ||9m|3vl|15j|6
+Všelibice|CZ||9m|3wp|15j|5

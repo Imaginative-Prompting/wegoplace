@@ -1,0 +1,68 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Chioggia|IT||9o|3hm|y4|d2|Cióxa
+Chortkiv|UA||98|3s6|1zo|7w|Czortków;Çortkiv;Csortkiv;Čortkiva;Tsjortkiv;Ciortkiv;Tschortkiw
+Zion|US|Illinois|2f|39x|-6rz|6p|Ciono
+Csongrád|HU||8v|3lr|1jy|56|Ciongrad;Tschongrad
+Chornobaivka|UA||98|3lq|2if|2i|Tsjornobajivka;Tschornobajiwka;Chornobayivka;Čornobajivka;Czornobajiwka;Čornobaïvka;Tšornobajivka;Txornobaivka;Çernobayevka;Ciornobaiivka;Chernovayevka;Chernobayevka;Chernoayevka
+Chop|UA||98|3qj|1po|2e|Ciop;Čop;Czop;Csap
+Tsiolkovskiy|RU||7x|3zt|9vw|20|Uglegorsk;Tsiolkovsky;Svobodny-18;Ciolkovskij;Tsiolkovski;Ciolkovskii;Klolowsi;Ziolkowski;Ciolkowskij;Ciołkowski;Svobodnyy-18
+Cioranii de Jos|RO||8u|3gi|21e|1y|Ciorani-de-Jos
+Ciorescu|MD||8x|3mx|289|1x
+Ciocăneşti|RO|Dâmbovița County|8u|3fw|1zt|1i
+Kinsale|IE||8z|3zn|-np|1h|Cionn tSáile;Kione Sailley;Kinseilis
+Ciorogârla|RO||8u|3fg|1zw|1e|Ciorogîrla
+Ciocăneşti|RO|Călărași County|8u|3es|237|1d
+Ciolpani|RO||8u|3g9|20g|19
+Ciorteşti|RO||8u|3ma|25b|18
+Ciorăşti|RO|Vrancea|8u|3i7|23u|13
+Ciochina|RO||8u|3fu|237|10
+Ciobanu|RO||8u|3g8|25r|z
+Ciocile|RO||8u|3gi|23n|v
+Ciocârlia|RO|Constanța County|8u|3ei|26k|u|Ciocîrlia
+Kinnegad|IE||8z|44h|-jq|r|Cionn Átha Gad;Kinegadas
+Ciofrângeni|RO||8u|3h8|1w5|q|Ciofrânceni;Ciofrîngeni
+Cioranii de Sus|RO||8u|3gk|21b|q|Ciorani-de-Sus
+Chornukhy|UA||98|3vn|2ji|p|Tchornoukhy;Tschornuchy;Čornuchy;Çornuhı;Czornuchy;Ciornuhî
+Ciohorăni|RO||8u|3my|225|j|Cichoreni
+Chopovychi|UA||98|3x7|28f|i|Chapovichi;Chopovichi;Chepovichi;Tschopowytschi;Chopovich;Tchopovytchi;Čopovyči;Çopovıçi;Czopowyczi;Ciopovîci
+Nadrichne|UA|Odesa|98|3kt|28v|f|Cioara Murza;Nadritchné
+Ciomăgeşti|RO||8u|3gj|1vx|e
+Chortomlyk|UA||98|3oa|2mu|d|Chortomlik;Čortomlyk;Çortomlık;Ciortomlîk
+Ciocănari|RO||8u|3g6|206|d
+Ciocârlia de Sus|RO||8u|3ek|26p|c|Ciocârlia-de-Sus;Ciocîrlia de Sus
+Ciochiuța|RO||8u|3fw|1s8|c|Ciochiuţ;Ciochiutu
+Ciofliceni|RO||8u|3g4|20k|c
+Ciorăști|RO|Galați County|8u|3k3|249|c|Ciorăşcii
+Ciocănești|RO|Suceava|8u|3nw|1y8|c
+Ciorani|RO||8u|3jr|23m|b
+Kinlough|IE||8z|479|-n0|a|Cionn Locha
+Cioroboreni|RO||8u|3fb|1r8|a|Ciorobereni
+Ciolăneștii din Vale|RO||8u|3f2|1xq|a|Ciolăneşti-din-Vale
+Cioroiași|RO||8u|3eg|1t5|a
+Ciocănești|RO|Dolj|8u|3eo|1v4|9
+Cioroiu|RO||8u|3ew|1vq|9
+Ciocotiș|RO||8u|3o4|1u4|9
+Ciocaia|RO||8u|3ni|1p9|9|Ciocara
+Ciocadia|RO||8u|3hc|1tl|9
+Ciocârlia|RO|Ialomița County|8u|3gg|223|9|Ciocîrlia
+Ciocănești|RO|Arges|8u|3gl|1xd|9
+Cioceni|RO||8u|3gr|211|9
+Cioboți|RO||8u|3gl|1vh|9
+Ciocmani|RO||8u|3nd|1sv|7
+Cioflanu|RO||8u|3eh|1w8|7
+Ciocani|RO||8u|3ki|24k|7
+Ciorăști|RO|Vâlcea County|8u|3gw|1v4|7
+Cioroiu Nou|RO||8u|3ee|1t3|7|Cioroiul Nou
+Chortoryya|UA||98|3qd|1z1|7|Tchortoryïa;Ciortoria
+Ciorani|IT||9o|35d|14x|7
+Cioroiașu|RO||8u|3ew|1vp|6
+Ciobănești|RO||8u|3gn|1wq|6
+Ciolt|RO||8u|3nx|1tb|6
+Ciobănuș|RO||8u|3l1|216|6
+Ciocănăi|RO||8u|3gl|1wv|6
+Cocani|RO||8u|3fz|1zy|6|Ciocani
+Ciocești|RO||8u|3fh|1wu|5
+Cicănești|RO||8u|3hp|1wd|5|Ciocăneşti

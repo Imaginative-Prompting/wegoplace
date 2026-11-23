@@ -1,0 +1,6 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kunming|CN||7i|1xk|7xc|19wy|Côn Minh;Kchun-ming;Khun-bêng-chhī;Kŏng-mìng;Kuņmina;Gvwnhmingz;Kunminq
+Kunshan|CN||7i|2f6|9bz|g59|Kunšanas;Côn Sơn;Kchun-šan;Kunšan;Kan-shan
+Kaifeng|CN||7i|2oo|8tj|b79|Kai Feng;Keyféng shehiri;Khai Phong;Kchaj-feng;Kăi-hŭng;Kayfin;Khai-hong-chhī;Kai-fêng Fu
+Kharagpur|IN|Bihar|6t|1xs|6og|8q|Kcharagpuras
+Kcynia|PL||a5|437|1cl|1b|Kciņa

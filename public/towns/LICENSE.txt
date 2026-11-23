@@ -1,0 +1,7 @@
+The files in this folder (index.json, near.txt and every t-*.txt) are made from the GeoNames
+geographical database (https://www.geonames.org/), which is licensed under the Creative Commons
+Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/).
+
+Snapshot of 2026-11-15. What was changed: only towns of 500 people or more and capitals are kept, with
+their names in Latin letters, their country, region, time zone, position and population, rounded
+and cut into files by the first letters of each name. Made by scripts/make_towns.mjs.

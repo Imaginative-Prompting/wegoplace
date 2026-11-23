@@ -1,0 +1,15 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Huangshi|CN||7i|2c1|8vl|5b5|Huangsji;Chuang-š;Huangŝi;Hoàng Thạch;Uòng-siŏh;N̂g-chio̍h-chhī;Khuanshi;Huan-shih;Huang-shih;Huan-shi;Hwangshih
+Huangshan|CN|Anhui|7i|2aj|94n|3k0|Chuang-šan;Hoàng Sơn;Uòng-săng
+Huanggang|CN|Hubei|7i|2cl|8v3|2tw|Hwang Chow;Wangchau;Hwang Chau;Uòng-gŏng;Chuang-kang;Hoàng Cương;N̂g-kng-chhī;Wangchou;Hwangchow
+Walsall|GB||9b|423|-5i|1bt|Volslas;Uolsoll;Walhshalh;Wallsall
+Opava|CZ||9m|3uq|1dq|f9|Troppau;Opawa;Oppavia;Uopawa
+Uozu|JP||7q|2u8|alo|cq|Uosu;Uozo;Oozu
+Uonuma|JP||7q|2vg|aq0|9l
+Strzelce Opolskie|PL||a5|3wb|1eu|5m|Opolės Stšelcės;Stšelce Opolske;Groß Strehlitz;Uopolske Strzelce;Gross Strohlitz
+Olesno|PL|Opole Voivodeship|a5|3xc|1f6|2u|Uoleszno
+Wagga Wagga|AU||8l|-2pl|bdb|25|Wagga;Vaga Vaga;Uoaqqa-Uoaqqa
+Opatów|PL|Świętokrzyskie|a5|3x4|1nj|1w|Uopatůw;Opatova;Opatov
+Aasiaat|GL||4e|5av|-42u|u|Egedesminde;Uosiuots;Osiotas
+Ål|NO||9j|4of|ns|n|Uolis
+U of S Lands South Management Area|CA||4q|40t|-886|b

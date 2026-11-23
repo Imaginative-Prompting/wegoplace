@@ -1,0 +1,280 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Auckland|NZ||ak|-2ud|dhg|bxs|Oklandas;Oklenda;Awklanda;Tāmaki-makau-rau;Aucopolis;Aucland;Aŭklando;Oklan
+Sanya|CN||7i|1ep|8g7|7yi|San-ja;Senya shehiri;Tam Á;Sam-a-chhī;Săng-ā;Sanj;Sama
+Sanmenxia|CN||7i|2om|8kv|55x|San-men-sia;Tam Môn Hiệp;Săng-muòng-hiĕk;Sam-bûn-kiap-chhī;San’myn’sya;San-men-hsia
+Sanming|CN||7i|20x|92q|4na|Senming shehiri;Săng-mìng;San-ming;Sâm-mìn-sṳ;Tam Minh;Sam-bêng-chhī
+Tamale|GH||1|q4|-2c|3kz
+Taman Petaling|MY||6v|8w|7ud|39j
+Tampa|US||48|25n|-6d2|375|Tampo
+Toamasina|MG||a8|-1ef|3t8|2nv|Tamatave
+Barueri|BR||4w|-1tb|-3m8|2fx|Tamboré
+Tampico|MX||44|1px|-7jw|2du|Tampikas
+Damietta|EG||c|2fa|2gd|2cz|Damiette;Damieta;Dimyat;Doemjat;Dimyath;Tamiathis;Dumjatas;Dumjāta;Dumját;Dumyāţ;Dumiat;Damiata;Dumqat
+Tambov|RU||9i|42i|374|29l|Tambow;Tambof
+Tampines Estate|SG||7j|3s|80q|21p|Tampines
+Tampere|FI||92|4qu|1u3|20e|Tammerfors;Tammerforsia
+Tampines New Town|SG||7j|3r|80r|207
+Danshui|TW||7l|1xx|9dc|1gl|Tamsui;Danshuei;Tan-shui
+Tambaram|IN||6t|zw|66l|1ck
+Tam Kỳ|VN||6h|179|8db|19w|Tanky
+Tambacounda|SN||g|129|-11z|15f|Tambakunda;Tanbakunda
+Tama|JP||7q|2r0|arf|157
+Almirante Tamandaré|BR||4w|-1yc|-3sz|xa
+Sanxia|TW||7l|1x9|9d5|w0|Sâm-hia̍p-khî;Sansija;Tam Hạp;Sam-kiap-khu;Sansia
+Sembawang Estate|SG||7j|41|80f|ul|Tambuwang
+Taman Melawati|MY||6v|8x|7un|rl|Melawati;Taman Malawati;Malawati
+Tamworth|GB||9b|427|-4q|ms|Tomtun;Tamvertas
+Le Tampon|RE||ai|-1n4|4a8|mr|Tampon
+Tamanghasset|DZ||3|1rb|fc|mq|Tamanrasset;Tamanrasetas;Tamenghasset;Tamahrasset
+Tallaght|IE||8z|441|-hp|mi|Tamhlacht;Talagtas
+Damiao|CN|Jiangsu|7i|2n6|920|lg|Ta-miao
+Taman Senai|MY||6v|4g|7zw|kc
+Ţāmiyah|EG||c|29w|2e0|kb|Tāmīya
+Tamano|JP||7q|2nw|ac3|iu
+Tamarac|US||48|20t|-66x|hz
+Taman Senawang Indah|MY||6v|7h|7vb|hx|Senawang
+Tamana|JP||7q|2jj|a2p|hv|Tamano
+Tamba|JP||7q|2pp|af3|h3
+Tamiami|US||48|1zk|-67c|fd
+Kuchai Lama|MY||6v|8k|7uh|dw|Kuchai;Taman Kuchai
+Taman Melati|MY||6v|8y|7uk|dw
+Tamlūk|IN||6t|1py|6s9|di
+Taman Permas Jaya|MY||6v|47|80e|ci|Permas Jaya
+Damyang|KR||7h|2q4|9sq|cg|Tamyang
+Tamworth|AU||8l|-2ed|bn9|c7|Tamvort
+Tamu|MM||7y|1va|79z|c5|Tammu;Tama
+Taman Greenwood|MY||6v|8z|7ui|bl|Greenwood;Greenwood Park
+Taman Sri Sinar|MY||6v|8v|7ud|b4
+Tamba-Sasayama|JP||7q|2pf|afm|b0
+Tambopata|PE||3o|-z7|-5co|au
+Taman Tun Dr Ismail|MY||6v|8r|7ub|af|Ttdi
+Tamra|IL||6n|2j9|2ps|a9
+Tamamura|JP||7q|2su|aqg|a4
+Serangoon Garden|SG||7j|3s|80i|a1|Taman Serangoon
+Tambolaka|ID||70|-q7|978|9y
+Tamura|JP||7q|2vz|auk|9s
+Tamalous|DZ||3|2uc|ig|92
+Taman Pelangi|MY||6v|6r|7x8|8w
+Taman Seremban Jaya|MY||6v|7g|7v9|8m
+Tamesna|MA||d|2ly|-j8|8j
+Tambo Grande|PE||3o|-dp|-676|8c
+Taman Scientex|MY||6v|47|80o|8c|Scientex;Scientex Park
+Taman Universiti|MY||6v|49|7zu|8c
+Tambunan|MY||6w|fw|8zc|85
+Tame|CO||27|hy|-5ja|83
+Tampin|MY||6v|6v|7vz|7u
+Tam O'Shanter-Sullivan|CA||59|3dm|-64a|7m
+Tamansourt|MA||d|2g8|-mj|7m
+Tamboril|BR||2w|-df|-340|7a|Tambari
+Temse|BE||8t|3y1|bp|79|Tamse
+Taman OUG|MY||6v|8j|7ug|78|OUG;Overseas Union Garden
+Taman Desa|MY||6v|8n|7uh|6y
+Tamazunchale|MX||41|1n2|-7mf|6u
+Tamandaré|BR||4p|-oc|-2pi|6k
+Sanzhi|TW||7l|1y6|9di|6j|Sâm-chṳ-khî;Sandži;Tam Chi;Sam-chi-khu
+Tamboril|DO||4v|1i5|-5g5|6h
+Tam Giang|VN||6h|og|846|6h
+Tammampatti|IN||6t|vs|621|5z|Thammampatti
+Tambaú|BR||4w|-1oa|-3nb|5y|Tambahú
+Tambuwal|NG||u|yh|cx|5t|Tambawal;Tambawel
+Tamuning|GU||aw|11h|b66|5h|Tamuneng;Maria Christina
+Tamuning-Tumon-Harmon Village|GU||aw|11h|b66|5h
+Tamenglong|IN||6t|1xi|77p|5e
+Tamazula de Gordiano|MX||41|1io|-7yt|58
+Tamallalt|MA||d|2ge|-kv|51
+Tamuín|MX||41|1p5|-7me|4j
+Tammenga|SR||4h|g7|-49c|4e
+Tamaru|JP||7q|2ns|ajj|46
+Tamarana|BR||4w|-1tw|-3xy|46
+Ekenäs|FI||92|4ml|1t3|40|Tammisaari;Tammisari
+Tamaraceite|ES||83|262|-16z|3r
+Tāmaraikkulam|IN||6t|s3|5zg|3g|Thamaraikulam
+Temirlanovka|KZ||5s|3ac|5ce|3e|Temirlan;Tamerlanovka
+Tamagawa|JP||7q|2qy|aru|3e
+Tamm|DE||8r|3rw|pc|3d
+Tamarakutamkudiyiruppu|IN||6t|mi|5z9|3b
+Tamanar|MA||d|2e4|-qw|38
+Tamalpais-Homestead Valley|US||3p|2x8|-9ge|2z
+Ţammūn|PS||6g|2ho|2qa|2t
+Taman Ikan Emas|MY||6v|8o|7uk|2s|Ikan Emas;Golden Fish
+Taman Rajawali|MY||6w|gd|93x|2s
+Tameslouht|MA||d|2fh|-mi|2r|Tameslout;Tamesloht
+Tamási|HU||8v|3lj|1es|2p
+Tambura|SS||p|fk|24b|2n|Tumbura;Tembura
+Taman|RU||9i|3hl|2u0|2m
+Tampakan|PH|Soccsksargen|71|i1|9ng|2i|Tampacan
+Tamanoi|JP||7q|2w9|atx|2h
+Tamulté de las Sabanas|MX||3z|1eg|-75q|2g
+Tampakan|PH|Autonomous Region in Muslim Mindanao|71|do|98r|2b|Tampacan
+Tămăşeni|RO|Neamț County|8u|3mi|22t|2b
+Tamugan|PH||71|k3|9oa|2b
+Tamala|RU||9i|41y|3c5|28
+Tambovka|RU|Amur Oblast|7x|3v6|9vq|26
+Tamborine Mountain|AU||8c|-25p|btk|25
+Tamines|BE||8t|3w3|ct|23
+Tambulig|PH||71|mf|9j5|23|Tambuig
+Tamzāwah|LY||1d|24l|13g|22|Tamzaua;Tamzānah;Tamzána
+Tamalpais Valley|US||3p|2x8|-9gf|1y
+Tamaqua|US||48|35c|-5v1|1w
+Tanbi|CI||0|mv|-75|1v|Tambi
+Tamanredjo|SR||4h|g3|-48u|1u|Tamanridjo
+Tamayo|DO||4v|1f3|-5hs|1s
+Támesis|CO||27|fq|-5ub|1s
+Tamarindo|CR||2i|sm|-6mg|1s|Tamarindas
+Tamaşi|RO|Bacău County|8u|3l4|22y|1r|Tămaş
+Tamnag|PH||71|i9|9mw|1r
+Templer Bestari|MY||6v|95|7uc|1r|Templer;Templer Park;Taman Templer
+Tammela|FI|Pirkanmaa|92|4qu|1u2|1o
+Tammela|FI|Kanta-Häme|92|4ox|1u1|1m
+Tamayo|PH||71|184|9a4|1m
+Tamayong|PH||71|jt|9oa|1l|Tomayong
+Dannevirke|NZ||ak|-33p|dl6|1k|Tāmaki-nui-a-Rua
+Tampella|FI||92|4qu|1u1|1k|Naistenlahti
+Tamgaon|IN||6t|1a9|5qe|1g
+Tamontaka|PH||71|jy|9l3|1g|Tamontaca
+Tamaki|NZ||ak|-2uh|dhq|1g
+Tamiahua|MX||41|1n4|-7ip|1f
+Tambo|PE||3o|-154|-5pc|1e
+Tamazulapam Villa del Progreso|MX||41|1d4|-7j1|1e|Tamazulapan del Progreso;Tamazulápam del Progreso
+Tamalín|MX||41|1na|-7jp|1e
+Tamalameque|CO||27|ol|-5p1|1e
+Tamboara|BR||4w|-1sg|-41u|1d
+Tamentit|DZ||3|254|-q|1c
+Tambilil|PH||71|gk|9mb|1b|Tamblil
+Tamer-e Qarah Qūzī|IR||7o|2w6|4a6|19
+Taman Kota Sarang Semut|MY||6v|gm|7qw|19|Kota Sarang Semut
+Tambach-Dietharz|DE||8r|3x3|ti|19
+Tamarin|MU||ag|-1kh|4fd|18
+Tamasopo|MX||41|1ow|-7o3|17
+Tamabo|CI||0|f1|-de|17
+Taman Mount Austin|MY||6v|4c|80a|15|Mount Austin
+Tamborine|AU||8c|-25g|btd|13
+Taman Sepang Putra|MY||6v|7a|7ui|13|Sepang Putra;Pantai Sepang Putra
+Tamos|MX||41|1pq|-7k8|13
+Tampocon|PH||71|rd|9i1|12
+Tâmna|RO||8u|3ft|1ry|11|Tîmna
+Tamarit de Llitera / Tamarite de Litera|ES||9d|38b|16|11|Tamarit de Llitera;Tamarite de Litera;Tamarit de Litera
+Tampilisan|PH||71|ma|9gs|10
+Tambaca|MX||41|1p0|-7nu|10
+Tambovka|RU|Astrakhan Oblast|8o|3ng|3nm|z
+Tamsweg|AT||a2|3mx|12d|z|Tambsweg
+Tammisto|FI||92|4nf|1xc|z|Rosendal;Tamsku
+Tammela A|FI||92|4qu|1u2|y
+Liisankallio|FI||92|4qu|1u3|y|Tammelan vainiot
+Tamafrou|CI||0|ob|-h7|y|Tamanfrou
+Tampate|MX||41|1o4|-7n3|y|Tampote
+Saintfield|GB||9b|47a|-g7|x|Tamhnaigh Naomh
+Tambo|PH|Bicol Region|71|11n|9hs|x
+Tombongon|PH||71|jo|9pv|w|Tambongon
+Tamazula|MX|Sinaloa|3x|1yp|-8da|w
+Tambo|PH|Central Visayas|71|ri|9hu|w
+Tamchekett|MR||19|1bw|-tn|v|Tâmchekket;Tamchakett;Tamchaket
+Tampamolón Corona|MX||41|1nw|-7mi|v
+Tambo|PH|Bicol Region|71|10u|9ih|u
+Tambalisa|PH||71|vb|9i5|u|Tambaliza
+Tamboril do Piauí|BR||2w|-nc|-3b7|t
+Ta Man Gyi Ta Khun Taing|MM||7y|1ao|7eq|t
+Taminango|CO||27|4d|-5yo|t
+Tamiso|PH||71|qr|9hx|t|Tamisu
+Tamisan|PH||71|j0|9qu|t
+Tampayan|PH||71|yp|9gd|s
+Tama|US||2f|38l|-756|s
+Tamazulápam del Espíritu Santo|MX||41|1be|-7ev|s
+Tamaghzah|TN||1e|2nj|m2|s|Tamerza
+Tamarau|NZ||ak|-2zg|dql|r
+Tambac|PH||71|wf|9g1|r|Tambak
+Támara|HN||56|13d|-6qm|r
+Tamworth|US||48|3du|-5hy|r
+Tambongon|PH||71|uh|9k8|q
+Tămădău Mare|RO||8u|3fj|21t|q|Tămădăul-Mare
+Tampico Alto|MX||41|1pf|-7jo|q
+Tammela B|FI||92|4qu|1u2|q
+Tam O'Shanter Ridge|CA||35|3g5|-4wh|p
+Tambong|PH||71|100|9dg|p
+Tamorong|PH||71|1c5|9aj|o
+Tamparan|PH||71|lw|9ld|o
+Tambo|PH|Davao Region|71|jw|9p6|o
+Taman Naga Emas|MY||6v|8k|7ui|o|Naga Emas;Golden Dragon
+Tamarack|CA||2s|44i|-8qw|n
+Tamazula de Victoria|MX||44|1xd|-895|n
+Tamlang|PH||71|u3|9ix|n
+Tambak|PH||71|ip|9m6|n|Tambac
+Tammisalo|FI||92|4n7|1xn|m|Tammelund;Tammari
+Taman Dusun Setia|MY||6v|7j|7v8|m
+Tambalan|PH||71|rj|9hx|m|Tambulan
+Tamsalu|EE||9x|4kc|20k|l|Tamsal
+Tamcuime|MX||41|1o0|-7n1|l
+Tammerkoski|FI||92|4qu|1u0|k|Keskikaupunki
+Támara|CO||27|g7|-5kg|k
+Tamoowoug|MM||7y|18j|7jz|k
+Santiago Tamazola|MX||41|1d3|-7ku|k|Tamazola
+Tamassint|MA||d|2pf|-b0|k|Tamasin;Tamasint
+Tampemoche|MX||41|1o9|-7n8|j|Tampenoche
+Tampacán|MX||41|1ng|-7m9|i
+Tamai|IT||9o|3jk|yx|i
+Tamarama|AU||8l|-2m6|bo7|h
+Tamaulipas|MX||41|17t|-77h|g|Joaquín Amaro
+Tambores|UY||45|-2gk|-4c8|g
+Ta Mar Ta Kaw Ah Htet|MM||7y|1aq|7et|g
+El Tamarindo|MX|Nayarit|3x|1p0|-84b|f|Tamarindo
+Tamándaro|MX||41|1jf|-7w5|f
+Tamazulita|MX||41|1k4|-80t|f
+Sansha|CN||7i|1as|8o2|e|Tam Sa;Tam Sa thị
+Tamași|RO|Ilfov|8u|3fu|209|e
+Tomozomo|CI||0|rf|-iv|d|Tamozomo;Tiomozomo
+Tamazula|MX|Guanajuato|41|1ks|-7u3|d
+Tmourghout|MA||d|2m7|-b7|d|Tamoughout;Tmourhout;Tamourhout
+Tamania|CI||0|t9|-hp|c
+Tamán|MX||41|1mz|-7mo|c
+Tamins|CH||a7|3m3|q5|c|Tumein
+Tămașda|RO||8u|3lk|1nw|c
+Kampung Parit Belahan Tampok|MY||6v|4m|7yn|b|Tampok
+Tamest|DZ||3|247|-o|b
+Tamasane|BW||m|-1qa|244|b
+Tampiquito|MX||44|1u7|-7kr|b|Soto la Marina
+Tamaryne|UA||98|3mm|2jo|b|Tamarino
+Guadalupe de Támbula|MX||41|1lz|-7re|b|Tambula
+Vvedenka|UA|Odesa|98|3k9|2a1|a|Tamur;Vădeni;Wedenskoje
+Tamahú|GT||32|16j|-6yo|a
+Tamápatz|MX||41|1nx|-7n8|a
+Tampoi|MY||6v|46|802|a
+Tămaia|RO||8u|3o7|1sx|a
+Tămășeu|RO||8u|3n6|1ox|a|Paptamási;Tamási;Tamasău
+Tamames|ES||9d|34y|-gz|a
+Tampochocho|MX||41|1np|-7mn|a
+Tămăoani|RO||8u|3iw|25z|a
+Tamácuaro|MX||41|1fd|-7rl|9
+Tamoyón I|MX||41|1me|-7kx|9|Tamayón;Tamoyón
+Tamchāl|IR||7o|2vn|3us|9|Tīmchāl;Temīchāl;Tomchal
+Tampamachoco|MX||41|1m9|-7id|9|La Mata de Tepamachoco;Tampamochoco
+Tampuchón|MX||41|1nr|-7mv|9
+Tampajal|MX||41|1ns|-7n5|9|Tampachal
+Tamaree|AU||8c|-20l|bs2|9
+Tamarindo|MX||41|1hq|-7g1|8
+Tamarisi|GE||7n|374|3ga|8|T'amarisi
+Tambana|GM||7|11j|-18x|8
+Tamaloya|MX||41|1ca|-7mi|8
+El Tamarindo|MX|Guerrero|41|1at|-7of|8|Tamarindo
+Tampico|US||2f|37n|-6xf|8
+Tam Đảo|VN||62|1nf|85d|7
+Tamala|MX||41|1mc|-7mg|7
+Tămășești|RO||8u|3h0|1sf|7
+Tâmpa|RO||8u|3jb|1rx|7|Tompa;Tîmpa
+El Tambor|MX|Nayarit|3x|1of|-83s|7|Tambor
+Tamacol|MX||41|1mz|-7mi|7
+Tamboya|PE||3o|-ed|-65m|6
+Tameapa|MX||3x|1z8|-8aa|6|Tamiapa
+Tametate|MX||41|1n8|-7kv|6
+Tamaroa|US||2f|2xy|-6vv|6
+Tambo|PA||4g|o2|-671|6
+Tamacuas (El Ranchito)|MX||41|1e3|-7vu|6
+Tamerville|FR||9k|3tl|-41|6
+Tamarindo|PE||3o|-kb|-64o|6
+Tamanché|MX||3z|1mq|-6x0|6
+Tamașfalău|RO||8u|3jg|20k|6|Tamàsfalva
+Tampuche|MX||41|1pb|-7kn|6
+Tambo Real|PE||3o|-11g|-5ko|5
+Tammneeme|EE||9x|4ld|1x5|5|Tamneem
+Tamcuem|MX||41|1nu|-7n8|5
+Tamalayo|MX||41|1jd|-7is|5
+Tămășeni|RO|Satu Mare County|8u|3pe|1sa|5

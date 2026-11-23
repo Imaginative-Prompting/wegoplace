@@ -1,0 +1,271 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Zibo|CN||7i|2u7|93y|10ap|Truy Bác;C-po;Cṳ̆-báuk;Chu-phok-chhī
+Huai'an|CN||7i|2lb|96m|z5m|Huaiyin;Chuaj-an;Hwaiyin;Huai-yin
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Huizhou|CN||7i|1s7|8tu|mdl|Huệ Châu;Xuyjo shehiri;Chuej-čou;Fi-chû-sṳ;Huitsjou;Hūi-chiu-chhī;Hiê-ciŭ;Hujdžov;Hui-chou
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Zunyi|CN||7i|24x|88z|fq2|Dzuni;Ĝunji;Tuân Nghĩa;Cun-i;Cŏng-ngiê;Chun-gī-chhī;Cunji;Zunji
+La Paz|BO||3n|-19u|-59b|fgv|Chukiyawu;La-Pazo;A Paz;Pax;La Pasas;Chuqiyapu;La Pas;Chuqi Yapu;Lapasa;La-Pas
+Ciudad Juárez|MX||2h|2g4|-87q|bo5|Juarezo;Chuaresas;Juárez;Lungsod Juárez;Siudad Chuaresas;Altepetl Juárez;Huaresa
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Zigong|CN||7i|29i|832|9ql|Tự Cống;C-kung;Cê̤ṳ-góng;Chū-kòng-chhī
+Zhongwei|CN||7i|2w7|847|92a|Dṳ̆ng-ôi;Čung-wej;Trung Vệ;Tiong-oē-chhī;Chung-wei
+Zhuzhou|CN||7i|25b|8qb|8pt|Jianning;Zhutsjou;Ču-čou;Ĝuĝou;Chu-chû-sṳ;Chu Châu;Chu-chiu-chhī;Çyu Cou;Tṳ̆-ciŭ;Džudžou;Džudžov;Chu-chou
+Huaibei|CN||7i|2md|90f|8l9|Huài-báe̤k;Chuaj-pej;Huajbej;Huaibėjus;Hoài Bắc;Hoâi-pak-chhī;Huai-pei
+Chuzhou|CN||7i|2hs|94m|61f|Chuju shehiri;Chutsjou;Čchu-čou;Trừ Châu;Dṳ̀-ciŭ;Tû-chiu-chhī
+Zhuanghe|CN||7i|32a|9hn|5q9|Chuang-ho
+Huangshi|CN||7i|2c1|8vl|5b5|Huangsji;Chuang-š;Huangŝi;Hoàng Thạch;Uòng-siŏh;N̂g-chio̍h-chhī;Khuanshi;Huan-shih;Huang-shih;Huan-shi;Hwangshih
+Jeonju|KR||7h|2ri|9t7|4xc|Chŏnju;Čondžu;Džondžu;Chunju;Chŏngju;Chenju;Jeon Ju
+Chunian|PK||6q|2e1|5pi|4w6
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Chuxiong|CN||7i|1xk|7u3|4a7
+Huaihua|CN||7i|24k|8hk|49i|Huài-huá;Chuaj-chua;Hoài Hóa;Hoâi-hoà-chhī
+Zhoukou|CN||7i|2ld|8uh|3wc|Tsjoukou;Čou-kchou;Juko shehiri;Chu Khẩu;Ciŭ-kāu;Chiu-kháu-chhī;Chou-k’ou
+Zhucheng|CN||7i|2rz|97o|3up|Chu-ch’eng
+Huangshan|CN|Anhui|7i|2aj|94n|3k0|Chuang-šan;Hoàng Sơn;Uòng-săng
+Huanggang|CN|Hubei|7i|2cl|8v3|2tw|Hwang Chow;Wangchau;Hwang Chau;Uòng-gŏng;Chuang-kang;Hoàng Cương;N̂g-kng-chhī;Wangchou;Hwangchow
+Kwai Chung|HK||6i|1q5|8t2|2k4
+Chuncheon|KR||7h|2x8|9ut|275|Ch'unch'ŏn;Čchunčchon;Čunčonas;Ĉunĉon;Chhûn-chhôn-sṳ;Çunçeon
+Chula Vista|US||3p|2io|-918|21u|Čula Vista;Chulavista
+Suihua|CN||7i|3ll|9sp|1y2|Suej-chua;Tuy Hóa;Chŭi-huá;Sui-hoà-chhī;Sui-hwa
+Sucre|BO||3n|-1gv|-51a|1qg|Sukri;Sukro;Sukrė;Chuqichaka;Sik
+Chungju|KR||7h|2uq|9vd|1m7|Čchungdžu;Chûng-chû-sṳ;Čungdžu;Çungcu;Ch’ungju
+Chāpra|IN|Bihar|6t|1zm|6jf|1k8|Chupra;Chhapra
+Khujand|TJ||6d|33w|5de|1h2|Chudschand;Hudžand;Khodjent;Choedzjand;Chudzjand;Xoʻjand;Chudžandas;Hucand;Khodyent;Hodjent;Khojend;Khudzhand;Khodzhent
+Choa Chu Kang New Town|SG||7j|3u|807|1g4
+Chūō|JP|Tokyo|7q|2r3|asa|1b0
+Khenifra|MA||d|2jh|-fq|zn|Jenifra;Chenifra;Chunajfira;Xnifra
+Chũ|VN||62|1nd|881|zj
+Chūru|IN||6t|26m|5s9|xe
+San Tung Chung Hang|HK||6i|1pw|8si|w8
+Chunga|ZM||z|-16k|26j|w3
+Tung Chung|HK||6i|1px|8si|vp
+Chumakivskyi|UA||98|3p8|2xe|sm|Proletarskyi Rayon;Proletarskyi;Chumakove
+Chust|UZ||7m|35w|5hw|ru
+Niagara Falls|CA||59|3bq|-63n|rq|Chutes Niagara;Niagara Akvofalo;Niagara Folsas;Cataratas del Niágara;Rhaeadr Niagara
+Junín|AR|Buenos Aires|1l|-2o3|-4pb|ob|Chuninas
+Qufu|CN||7i|2qw|90z|nn|Cjujfu;Čchü-fu;Csüfu;Khúc Phụ;Chü-fu
+Cukai|MY||6v|bt|7za|mw|Chukai
+Chuhar Kana|PK||6q|2g7|5p0|j9|Chūhar Kānd
+Chulucanas|PE||3o|-e5|-66o|j4|Chulucana
+Chumphon|TH||62|t6|7ni|fi|Chumpon;Čumphonas;Csumphon;Çumfon;Chumporn;Chumphaun
+Chusovoy|RU||7z|4hx|4gl|dy|Tsjusovoj;Tschussowoi;Chusovói;Tchoussovoï;Čusovoj;Çusovoy;Tšusovoi;Ciusovoi;Čusovoi;Czusowoj;Tchussovoi;Tjusovoj;Tsjoesovoj;Čusowoj;Csuszovoj;Chusovaya
+Ch’iko|ET||2|ia|2yh|dr|Chuko
+Churāchāndpur|IN||6t|1vl|787|da
+Chum Phae|TH||62|19y|7vm|cv
+Curup|ID||6l|-9n|7ws|cu|Churup
+Chone|EC||33|-1y|-66h|cg|Čonė;Chuni
+Zhushan|TW||7l|1u0|9b8|c9|Jhushan;Chu-shan
+Köniz|CH||a7|3mc|kl|bm|Chunicis
+Chunggang|KP||7a|382|9sf|be
+Shu|KZ||5s|3d5|5ow|b2|Chu
+Juanjuí|PE||3o|-jy|-5x5|ah|Chuanchui;Huwanhuy
+Jungpyong|KR||7h|2u6|9ue|ac|Jeungpyeong;Chŭngp’yŏng
+Chuhuyiv|UA||98|3ug|2tx|a5|Chuhuiv;Čuhujiv;Tschuhujiw;Tchouhouïv;Tschugujew;Chuguyev
+Chunār|IN||6t|1xt|6e8|a5
+Chur|CH||a7|3m5|qh|9u|Coira;Koiro;Coire;Cuira;Cuera;Curia Raetorum;Couère;Kūra;Ciura;Kūras;Kur
+Victoria Falls|ZW||n|-1dt|1zr|9s|Chutes Victoria;Viktoria Akvofalo
+Church-Yonge Corridor|CA||59|3da|-64i|8p
+Chūō|JP|Yamanashi|7q|2qv|aoq|8o
+Chuk Yuen|HK||6i|1q3|8t7|7y|Chuk Un
+Khust|UA||98|3pt|1sq|7w|Hust;Huszt;Khoust;Chust
+Báigōng Jiēdào|CN||7i|2c5|8c3|7b|Chungchow;Chungchou
+Chumukedima|IN||6t|1zq|78i|77
+Jumilla|ES||9d|2yw|-3o|75|Jumella;Chumiella
+Churi|IN||6t|1tp|6k5|6x
+Shurugwi|ZW||n|-1in|2bd|6h|Churugwi
+Shuen Wan|HK||6i|1qf|8t9|69|Chuanwan
+Chuka|KE||16|-x|2wl|68
+Zhongchao|CN||7i|20m|8fe|65|Chung-ch’ao
+Jumunjin|KR||7h|2x9|9xv|5q|Chumonjin;Chūmonshin;Chumunjin
+Chunchupally|IN||6t|1co|67w|5j
+Chubek|TJ||6d|2wh|5dn|5g
+Chunghwa|KP||7a|2zy|9pg|5d
+Chuhar Jamali|PK||6q|1vr|58v|57
+Chudovo|RU||9i|4k8|2g0|4u|Tsjudovo;Tiutova;Tchoudovo;Čudovo;Tsjoedovo;Tšudovo;Czudowo;Tjudovo
+Chuk Yuen North Estate|HK||6i|1q3|8t7|4q
+Chunskiy|RU||6k|4bt|7os|4i|Tsjunskij
+Churhat|IN||6t|1vv|6av|46|Chorhāt
+Chubbuck|US||28|3b8|-8of|40|Chubbock
+Chuk Yuen South Estate|HK||6i|1q2|8t7|3x
+Chuguyevka|RU||7w|3eo|abv|3q|Tsjugujevka
+Churchdown|GB||9b|404|-61|3p
+Küssnacht|CH||a7|3mt|ng|3n|Kuessnacht;Chussenachus
+Chuanwang|CN||7i|2ph|86w|3h
+Chūndal|IN||6t|ti|5vd|3h|Choondal
+Churriana de la Vega|ES||9d|2v6|-a5|3c
+Chulym|RU||75|491|68x|3c|Tsjulym;Chulim
+Shubarkuduk|KZ||5w|3si|4cw|39|Shubarqudyq;Chubar Kuduk;Shuba Kuduk
+Church Street|GB||9b|3z4|-h|39
+Qulukay|CN||7t|3e4|6au|2w|Chuluqay
+Chul’man|RU||7x|4dx|9mz|2u|Tsjulman
+Chupaca|PE|Junin|3o|-xj|-5t4|2r
+Chui|UY||45|-2lm|-44i|2p|Chuy
+Zhongliao|TW||7l|1uz|9au|2p|Jhongliao;Chung-liao
+Chuckey|US||48|2sm|-6dp|2o|Chucky
+Chutes-Lavie|FR||9k|3cb|ez|2n
+Chupinguaia|BR||4l|-yv|-4p6|2l
+Mittenwalde|DE||8r|416|11m|2f|Chudowina;Mitenvalde
+Chucher-Sandevo|MK||9u|38y|1ne|2e|Çuçer-Sandevo
+Churton Park|NZ||ak|-36h|dhl|2b
+Chūbīn Dar|IR||7o|2sn|3ur|29|Choobindar;Chundar;Jūbīn Dar
+Chū’ebdeh-ye Yek|IR||7o|2bw|3qv|27
+Chuhal|IN||6t|2fr|5v1|21|Chohal
+Churapcha|RU||7x|4s8|a7v|21|Tsjuraptsja
+Chuarrancho|GT||32|156|-6zg|1z
+Church Hill|US|Tennessee|48|2tg|-6dr|1v
+Chuí|BR||4w|-2ll|-44i|1u|Chuy
+Chutove|UA||98|3u3|2po|1p|Tchoutové
+Chavār|IR||7o|2lm|3km|1m|Chūār;Chawār
+Chumbicha|AR||1m|-285|-540|1k|Çumbiça
+Chūbar|IR|Gilan Province|7o|2y2|3rt|1k|Chūbor
+Chudniv|UA||98|3v1|264|1i|Chudnov
+Chulisshēri|IN||6t|tf|5vn|1i
+Chukhloma|RU||9i|4j7|3al|1i|Tsjukhloma
+Chugānwān|IN||6t|2g3|5re|1i|Chogawan
+Chudei|UA||98|3ph|1z6|1h|Czudyn;Chudyn;Chudey
+Khutir-Mykhaylivskyi|UA||98|40l|2mb|1g|Druzhba;Khutir-Mykhailivskyi;Chutir-Mychajliwskyj;Druschba;Hutir-Mihajlivski;Khoutir-Mykhaïlivskyï
+Churchill Park|CA||50|3o6|-42g|1f
+Chun Man Court|HK||6i|1q0|8t6|1d
+Churra|ES||9d|2xm|-35|1d
+Churchill|AU|Victoria|8j|-2yf|bap|1b
+Churumuco de Morelos|MX||41|1fu|-7ud|1b
+Chunhuhub|MX||2b|1if|-6u3|1a|Chunhuhu
+Chuvisca|BR||4w|-2dg|-40e|1a
+Church Point|US||2f|2cg|-746|19|Churchpoint
+Chuchkovo|RU||9i|46r|375|18|Tsjutsjkovo
+Chuquitira|PE||3o|-1c1|-5ek|16
+Churchville|US|Pennsylvania|48|33n|-5sc|15
+Church|GB||9b|45b|-6n|15
+Chudleigh|GB||9b|3wk|-a0|14
+Chupa|RU||9i|543|2jt|14|Tsjupa;Tšuuppa;Čuuppa;Tšuupa;Chup
+Chaparrosa|MX||41|1s4|-7w4|12|Chuparrosa
+Chuāri Khās|IN||6t|2i3|5v5|12
+Church Stretton|GB||9b|41y|-7s|11|Čerč Stretonas
+Chumi|CN||7i|26f|88r|z
+Chubu|CN||7i|2o6|7yx|y|Shubu
+Churchlands|AU||8k|-2go|8xn|x
+Kampung Chui Chak|MY||6v|b9|7t1|x|Chui Chak;Chui Chok;Kampong Chui Chok
+Chunoyar|RU||6u|4fl|7id|w|Tsjunojar
+Chumayel|MX||3z|1kr|-6w2|v
+Chowari|IN||6t|2i3|5v5|u|Chuari Khas
+Chumalovo|UA||98|3pv|1tf|u|Csománfalva;Chumaliovo;Chumaleve;Chumal'ovo;Chumalevo
+Churchill|US|Pennsylvania|48|34c|-65s|u
+Chulumani|BO||3n|-19l|-57l|u|Çulumani
+Chulakivka|UA||98|3ks|2hv|t|Tsjulakivka;Tschulakiwka;Tjulakivka;Čulakivka;Tchoulakivka;Ciulakivka;Tsjoelakivka;Chulakovka;Chulokovka
+Chupaderos|MX||41|1sc|-7w9|r
+Chufarovo|RU||9z|46a|3ni|r|Tsjufarovo
+Churintzio|MX|Michoacán|41|1jz|-7vj|q
+Chuluota|US||48|27k|-69c|p
+Chuniapan de Arriba|MX||41|1ez|-7ce|o
+Fedorivka|UA|Zaporizhzhia|98|3o3|2tj|m|Chubarëvka;Chubarivka;Fëdorovka
+Chuwar|AU||8c|-24l|bse|m
+Churchill|US|Ohio|48|36c|-682|l|Church Hill
+Chulum Juárez|MX||41|1c5|-751|l
+Chuzelles|FR||9k|3im|dk|l
+Churipitzeo|MX||41|1kp|-7um|l|Chiripitzio
+Chupio|MX||41|1ha|-7tt|l
+Chūrs|IR||7o|2zv|3h3|l|Chors
+Chuheki|IN||6t|2eg|5u0|l
+Churchville|US|New York|48|3bq|-60c|k
+Cuch Holoch|MX||3z|1ks|-6ya|k|Cuch-Holoch;Chuc-Holoch
+Chute-aux-Outardes|CA||59|3sg|-5a0|k
+Chucena|ES||9d|2vs|-hr|k
+Chupryakovo|RU||9i|4ab|2tr|k
+Chuburná|MX||3z|1n2|-6xg|j
+Churchill|AU|Queensland|8c|-24s|bsb|i
+Chūpānān|IR||7o|2le|472|i
+Chunox|BZ||24|1eu|-6tg|i
+Churubusco|US||38|36j|-6l0|i|Cherubusco
+Chūzūk|IR||7o|2su|3qj|i|Chizuk;Chūzok;Chūzak
+Chumatlán|MX||41|1k5|-7j3|h
+Chuhynka|UA||98|3rw|327|h|Chugynka;Chuginka
+Chula Vista|MX||44|234|-7z5|h
+Church Hill|US|Pennsylvania|48|350|-5zk|g
+Chucarit|MX||37|233|-8ge|g
+Chucándiro|MX||41|1ja|-7th|g
+Çukuroba|TR||94|2u4|2v6|g|Chukurobakëy
+Churuquita Grande|PA||4g|nw|-66z|f|Churiquita Grande
+Chunkiv|UA||98|3qz|1zq|e|Cincău;Tchounkiv
+Churchill|GB||9b|3ym|-7q|e
+Zhongfang|CN|Hunan|7i|245|8hd|e|Chung-fang
+Church Fenton|GB||9b|45j|-3e|e
+Churovichi|RU||9i|40x|2gv|d|Tsjurovitsji
+Chuchelná|CZ|Moravian-Silesian Region|9m|3uv|1ec|d|Kuchelna
+Chumikan|RU||7w|480|afw|d|Tsjumikan;Chumukan
+El Aguacatal|MX||3z|1el|-727|d|El Aguacate;Chumpán
+Churwalden|CH||a7|3ly|qi|c|Curvalda;Silva Augeria
+Chualar|US||3p|2tl|-9dk|c
+Zhongfang|CN|Fujian|7i|21w|97r|c|Chung-fang
+Churuquita Chiquita|PA||4g|nt|-670|b|Churiquita Chiquita
+Church Rock|US||2p|2qp|-8do|b
+Chulum Cárdenas|MX||41|1ca|-755|b
+Chudleigh Knighton|GB||9b|3wj|-a3|b
+Chutivka|UA||98|3u2|2it|b|Chutovka;Chulovka
+Churt|GB||9b|3y2|-26|b
+Chunchucmil|MX||3z|1lc|-6yl|b|Chunchumil;Chumchucmil
+Chunchintok|MX||3z|1hs|-6wu|b|Chunchintoc
+Chūbar|IR|Gilan Province|7o|2v1|3ta|b|Chuber;Chobar
+Chulmleigh|GB||9b|3xf|-ar|a
+Chusclan|FR||9k|3en|d0|a
+Chuandong|CN||7i|259|8fe|a|Ch’uan-tung
+Chūlāb|IR||7o|2vi|3uk|a
+Chuelles|FR||9k|3pc|89|a
+Chowtāsh|IR||7o|2os|3q1|a|Chartāsh;Chootash;Chūtāsh
+Church Point|AU||8l|-2lh|bo8|a
+Chum Creek|AU||8j|-2wh|b85|a
+Chuniapan de Abajo|MX||41|1f0|-7ci|a
+Chigtón|MX||41|1as|-75z|a|Chugton
+Chuchucruz Primera Sección|MX||41|1c2|-74b|a
+Chuchiltón Anexo Potobtic Dos|MX||41|1b5|-75x|9|La Guayaba
+Chums Corner|US||2q|3g3|-6ly|9
+Chuchelna|CZ|Liberec Region|9m|3wk|16i|9
+Chuparrosa|MX||41|19q|-7kd|9
+Churchill|US|Montana|2p|3j3|-8l6|9|Church Hill
+Churchill|CA||5d|4j9|-79l|9|Čerčilis
+Chuikivka|UA||98|40j|2mg|9|Chuykivka;Chuykovka
+Chintipán|MX||41|1le|-7kr|9|Chuntipán
+Chunkanán|MX||3z|1k9|-6yo|9
+Khulo|GE||7n|37p|39j|9|Chulo
+Chuchupate|PA||4g|ng|-6e6|9
+Chumatskyi Shlyakh|UA||98|3lk|2mk|9|Chumatskyi Shliakh
+Chumuckla|US||2f|2di|-6qc|9
+Chuisnes|FR||9k|3ql|3d|8
+Chuprene|BG||9v|3cw|1qz|8|Tschuprenä;Chupreni;Čuprene;Čupren
+Chuquis|PE||3o|-qw|-5x3|8
+Chuderov|CZ||9m|3wt|131|8
+Chun-Yah|MX||2b|1ju|-6s9|8
+Churubé Abajo|PA||4g|nc|-67q|8
+Chulilla|ES||9d|325|-2g|8|Xulella
+Chupícuaro|MX||41|1jk|-7t1|8
+Church Hill|US|Maryland|48|30q|-5v3|7
+Chūnchenān|IR||7o|2w0|3uh|7|Chūnehchenān;Chūnechenān;Chunchunīān
+Chumpón|MX||2b|1jk|-6rx|7
+Chudenice|CZ||9m|3tf|10l|7|Chudenitz
+Chucutitán|MX||41|1e2|-7wn|7|Chucutitlán
+Churintzio|MX|Michoacán|41|1jh|-7wn|7
+Church End, Eversholt|GB||9b|40e|-1l|7|Church End
+Gals|CH||a7|3mn|jl|7|Chules
+Chudčice|CZ||9m|3sx|19q|7
+Chuco|PE||3o|-kc|-60x|7
+Chugunash|RU||74|42v|6ru|7|Tsjugunasj
+Churchill Falls|CA||2y|44p|-4xt|7
+Chupampa|PA||4g|mg|-68e|6
+Chupaca|PE|Huancavelica|3o|-ys|-5rv|6
+Chuquibamba|PE||3o|-j9|-609|6
+Chudenín|CZ||9m|3sx|10e|6
+Chulna|MX||41|1an|-742|6
+Churchtown|IE||8z|417|-o9|6|Baile an Teampail
+Chuyer|FR||9k|3ia|d1|6
+Chuchiltón|MX||41|1b4|-75v|6
+Chubivka|UA||98|3od|2a6|6|Chubovka
+Chumpón|PE||3o|-lg|-64c|6
+Chumaky|UA||98|3kl|2he|6|Suvorovka
+Chunhuás|MX||2b|1ij|-6t1|6
+Chungui|PE||3o|-10q|-5oi|6|Chunqui
+Çukurýurt|TM||5x|2y7|4e1|5|Chekur-Yurt;Chukur-Yurt
+Chulutan|MX||3z|1l5|-6sc|5
+Chullune|PE||3o|-17y|-5ef|5
+Chuchuclumil|MX||41|1cb|-74c|5
+Chusis|PE||3o|-fc|-68h|5

@@ -1,0 +1,131 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Yerevan|AM||80|33m|3fn|8tz|Jerewan;Ereván;Jerevan;Erevano;Iereván;Êrîvan;Erywań;Jerevanas;Yiriwan;Jerjewan;Jerevani;Eireaván;Erevāna;Erevanum;Eriwan;Djerevan;Revan;Iravan;Erewan
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Dushanbe|TJ||6d|2z2|5b2|58q|Duschanbe;Dušanbe;Dusjanbe;Duŝanbeo;Douchanbé;Doesjanbe;Duszanbe;Djuschambe;Dyushambe;Dushambe;Jushambe
+Jambi City|ID||6l|-4g|7zu|4wf|Jambi;Djambi
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Jijiga|ET||2|pz|3aw|3q6|Djidjiga;Džidžiga;Ĝiĝiga;Dschidschiga;Jigjiga;Giggigga;Jigjigga;Djigdjiga;Giggiga;Dzhidzhiga
+Juba|SS||p|dh|2fq|3h0|Djouba;Dschuba
+Jayapura|ID||6m|-71|auw|365|Hollandia;Port Numbay;Djajapoera;Džajapura;Jaya Pura;Noordwijk;Djajapura
+Yogyakarta|ID||6l|-lo|8ik|2wd|Jogjakarta;Jogjakarto;Džogjakarta;Djokjakarta;Jogyakarta;Jokyakarta;Djogjakarta;Jokjakarta
+Jalālābād|AF||6o|2nn|5fp|23j|Dschalalabad;Dżalalabad;Celalabad;Jalolobod;Jelalabad;Dzhelalabad;Djelalabad
+Djelfa|DZ||3|2ob|92|21u|Dżilfa;Jelfa
+Jizzax|UZ||7g|33h|58f|1ds|Djizak;Jizzakh;Djizaks;Džizakas;Cizzak;Dżyzak;Dzjizak;Ĝizaĥo;Jizzaq;Cizzax;Dschizak;Jizzak;Dzhizak;Jizak
+Győr|HU||8v|3og|1d0|zx|Raab;Arrabona;Dėras;Jura;Ģēra;Gjur;Iaurinum;Djor;Đer;Javarin
+Manas|KG||65|35q|5mr|y8|Dschalalabat;Jalal-Abad;Džalal-Abad;Žalal-Abad;Dzjalal-Abad;Dżalalabad;Djalalabad;Džalalabat;Žalalabad;Ĵalalabat;Žalalabat;Dzsalalabad;Džalal Abadas;Celal-Abad;Jalolobod;Džalalabada;Džalal Abad;Dzhalal-Abad
+Jizan|SA||7e|1ax|3a7|t8|Jāzān;Qīzān;Gizan;Gazan;Cızan;Jizon;Jaizan;Djāzān;Jezan
+Dschang|CM||j|f4|rx|ro|Tchang;Djang;Dchang;Chang
+Djougou|BJ||1b|qz|4n|qc
+Houmt Souk|TN||1e|2m4|u6|os|Houmt El Souk;Djerba;Houmet Es Souk;Humt-Suk;Houmt Souq;Houmet Essouk
+Djibo|BF||1a|136|-4j|h3|Jibo
+Djemmal|TN||1e|2qy|tw|fd|Djemmel;Djemal;Jemmal
+Dzhankoy|UA||9t|3iz|2nj|bl|Dschankoj;Džankoj;Dzhankoi;Canköy;Djankoï;Dzhanhoi;Dshankoi
+Djugu|CD||y|5c|2cq|bi
+Gjorče Petro|MK||9u|38p|1nb|be|Gorče Petrov;Djorče Petrov
+Djenné|ML||5|12n|-cn|b9|Jene
+Djapadji|CI||0|ep|-iy|b1
+Djamaa|DZ||3|2l5|gn|9p|Djama;Djemâa
+Janīn|PS||6g|2i6|2q2|9n|Jenin;Dschenin;Jénine;Djenin;Jinin
+Zharkent|KZ||5s|3ep|669|9k|Scharkent;Djarkent;Jarkent
+Djidiouia|DZ||3|2rt|2b|8w|Djidioua;Djidjiouia;Jdiouia
+Dyurtyuli|RU||7z|4a5|48e|8n|Djurtjuli;Dyrtyli
+Jarash|JO||5t|2ho|2rq|7i|Jerash;Gerasa;Jerasa;Djerash
+Gibraltar|GI||90|2se|-ev|7d|Xibraltar;Gibilterra;Calpe;Kamaka;Gibbilterra;Cebelitarık;Djibraltar
+Dyat’kovo|RU||9i|44w|2ne|6y|Djatkovo;Dyatkovo;Djatkowo;Djatkowa
+Djidja|BJ||1b|ke|5d|6m
+Gembloux|BE||8t|3wg|d2|61|Gembloers;Djiblou;Žamblu;Geminiacum;Jembloux
+Gilly|BE||8t|3w2|cg|5k|Djilî
+Jambes|BE||8t|3w6|dj|5h|Djambe
+Djakotomé|BJ||1b|j6|4s|5f|Djakatomé
+Đakovo|HR||a6|3hv|1f5|4p|Diakovár;Diaco;Džakovas;Djakovo;Djakowar;Deakovár;Djakovár
+Djambala|CG||a|-72|14z|4a|Djamballa;Dambala
+Genappe|BE||8t|3wl|cd|3z|Djinape
+Detva|SK||8s|3qw|1hy|3t|Gyetva;Djetva
+Jodoigne|BE||8t|3ww|dj|3b|Geldenaken;Djodogne
+Jemeppe-sur-Meuse|BE||8t|3wm|fa|35|Djimepe-so-Mouze
+Jemappes|BE||8t|3w5|at|30|Djumappes;Djumape;Gamapium
+Jupille-sur-Meuse|BE||8t|3wp|fn|2y|Jupille;Djoupeye;Iupilia ad Mosam
+Jabrayil|AZ||61|31g|3mn|2o|Mekhakavan;Jrakan;Jabrail;Jebrail;Cebrail;Djebrail;Jebrayil;Jäbrayyl;Jebraiele
+Jurbise|BE||8t|3wd|av|2n|Jurbeke;Djurbize
+Djigbagui|CI||0|fl|-j3|2m
+Djursholm|SE||9w|4l0|1e6|2h
+Djiguenni|MR||19|17p|-o3|2b|Djiguéni;Djigéni
+Zhanibek|KZ||77|3ta|3m5|2a|Djanibek;Dzhanybek
+Djalabango|GM||7|10w|-1ac|29
+Djélisso|CI||0|sb|-ez|29
+Jalhay|BE||8t|3wg|gl|25|Djalhé
+Djowol|MR||19|18m|-115|24|Djovol
+Djebibina|TN||1e|2sc|s2|24
+Givet|FR||9k|3va|df|22|Djivet
+Djebel Abiod|TN||1e|2uq|p8|21|Djebel-Abiodh;Djebel Abiot
+Djebeniana|TN||1e|2pb|ub|20|Djebaniana;Djebiniana;Djebeliana;Jebeniana;Jebiniana
+Ndiamakouta|SN||g|110|-17f|20|Djamakouta;Diamakouta
+Djidoubaye|CI||0|gx|-kt|1u|Djidobaye
+Jammā‘īn|PS||6g|2h9|2ps|1q|Djemmain;Jemmā‘īn
+Gesves|BE||8t|3w0|e3|1q|Djeve
+Jemeppe-sur-Sambre|BE||8t|3w7|cz|1p|Djimepe-so-Sambe
+Đurđevac|HR||a6|3jw|1bf|1m|Djurdjevac
+Djidjikro|CI||0|er|-dk|1l
+Djibrosso|CI||0|od|-jg|1i
+Djékanou|CI||0|i0|-e8|1g|Diékahou
+Djidji|CI||0|h3|-ft|1f
+Guesnain|FR||9k|3vv|8r|1e|Djésnain
+Djiroutou|CI||0|ex|-k8|1e|Guiroutou
+Djebilet Rosfa|DZ||3|2ou|2b|1d
+Djohong|CM||j|iz|14u|1c
+Djébonoua|CI||0|kw|-e3|1b
+Ðurđevo|RS||8q|3hx|1jr|1b|Djurdjevo
+Djiro-Gnépahio|CI||0|dh|-if|1a
+Gedinne|BE||8t|3uu|dq|18|Djedene
+Jimbaran|ID|Central Java|6l|-jw|8iv|17|Djembaran;Jembaran
+Jermuk|AM||80|32o|3iv|15|Istisu;Cermuk;Dschermuk;Djermouk;Džermuk;Ĝermuk;Dzjermoek;Džermukas;Dzsermuk;Dzhermuk
+Djédana|CI||0|pl|-dk|14
+Djiminikoffikro|CI||0|ep|-9l|12
+Djagnadou|CI||0|fa|-gr|10|Diaguadou
+Djimprédouo|CI||0|nt|-8f|z
+Djékouamékro|CI||0|gg|-e4|y
+Dzhebel|BG||9v|37a|1ya|x|Cebel;Jebel;Djebel
+Djugun|AU||8k|-1dv|9fj|t
+Djimon|CI||0|g6|-fk|r
+Dembéni|KM||ac|-wz|3ck|r|Djembeni;Debeni
+Djahio|CI||0|dj|-is|q
+Djénzoukro|CI||0|jt|-cp|n|Dienzoukro
+Djurås|SE||9w|4o8|161|l
+Djoyézi|KM||ac|-y7|3dl|l|Djoiezi
+Djéka|CI||0|ek|-kd|k
+Djamandioké|CI||0|cb|-kr|h
+Djétéoa|CI||0|h7|-hf|h|Djétéhoa
+Djélébélé|CI||0|ql|-du|h
+Djegbé|CI||0|pl|-hr|g|Diegbé
+Digila|CI||0|lr|-i2|g|Djiguila
+Bergen an der Dumme|DE||8r|42x|ug|g|Bergen ad Dumme flumen;Djörska;Tjörska;Tÿörska
+Djinbala|CI||0|qe|-dt|f
+Djurö|SE||9w|4kt|1fz|e
+Djanhankro|CI||0|kl|-d7|e
+Djagoboua|CI||0|gl|-fx|d
+Djégnéné|CI||0|pi|-cg|c
+Djihimbo|CI||0|cx|-k2|c
+Djougbosso|CI||0|gu|-am|c
+Djédjédigbeupa|CI||0|h9|-gb|a
+Djoutou|CI||0|ca|-kv|a
+Gerpinnes|BE||8t|3vu|cl|8|Djerpene
+Ðulovac|HR||a6|3iv|1cf|8|Djulovac
+Djonan Yakro|CI||0|k1|-cs|8|Dionayakro
+Djamalakro|CI||0|l5|-de|8|Diamélakro
+Ðurmanec|HR||a6|3kc|180|8|Gjurmanec;Djurmanec
+Djom|CI||0|m4|-8i|8
+Ðenovići|ME||9l|39w|1fo|8|Ðenović;Djenovići
+Djembé|CI||0|p8|-hq|7
+Djé Nzoukre|CI||0|k2|-dv|7
+Ðurđekovec|HR||a6|3jg|18s|7|Djurdjekovec;Ðurđukovec
+Djurmo|SE||9w|4o7|166|7
+Dji d'Sal|CV||84|1aw|-1xf|7
+Djidjiri|CI||0|g6|-fm|7
+Djandoubango|CI||0|lw|-8x|6
+Djéléboué|CI||0|gb|-fx|6
+Djéyénin|CI||0|ql|-dv|5
+Djongo|CI||0|q6|-e1|5
+Ǵavato|MK||9u|364|1mq|5|Đavato;Ðavat;Džavato;Djavato;Gjavato
+Djavahana|CI||0|pl|-lw|5
+Djobri|CI||0|mr|-8l|5

@@ -1,0 +1,499 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Los Angeles|US||3p|2ml|-94g|thd|L.A.;Los-Anĝeleso;Angelopolis;Los Andželas;Los Anxhelos;Los Anxheles;Os Ánxeles;Losandželosa;Los Anjélés;Lo̍k-chhám-kî;Los-Anceles;Los-Anjeles;Luos Andžels;Los Andželes
+Madrid|ES||9d|34a|-aa|p4f|Madril;Madrit;Matritum;Madryt;Maidrid;Los Madriles;Makelika;Mairil;Mā-dáik-lī;Mâ-tet-lî
+León de los Aldama|MX||41|1mo|-7ug|c6u|León;Leon Guanajuato
+Santiago de los Caballeros|DO||4v|1i1|-5gd|99c|Santjago de los Kabaljerosas;Santiago
+Leshan|CN||7i|2a4|808|544|Le-šan;Lạc Sơn;Lŏk-săng;Lo̍k-san-chhī;Lo-shan
+Las Vegas|US|Nevada|3p|2sh|-8vu|4yb|Lasvegaso;Campi;Lasvegasa;Las-Veqas;Vegas;Los Vegas
+Santo Domingo de los Colorados|EC||33|-p|-63y|3je|Santo Domingo
+San Nicolás de los Garza|MX||44|1zi|-7qm|36i|San Nicolás de los Garsas
+Los Mochis|MX||3x|1zn|-8es|1za
+Los Teques|VE||2c|sr|-568|1y2|Los Tekesas;Los-Tekes
+Santa Anita - Los Ficus|PE||3o|-xh|-5xt|1fa
+San Juan de los Morros|VE||2c|rj|-573|18p|San-Juan-de-los-Morros;San Juan de los Moros
+Lausanne|CH||a7|3l8|if|12n|Lausana;Laŭzano;Losanna;Lozanna;Lausonium;Lozan;Losena;Lozana
+San Nicolás de los Arroyos|AR||1l|-2kl|-4n9|11a|San Nikolas de los Arojosas;San Nicolás;San Nikolas de los Aroyos
+East Los Angeles|US||3p|2mi|-949|z5|Este de Los Ángeles;Orienta Losanĝeleso;Doğu Los Angeles
+Les Cayes|HT||4j|1ej|-5ov|yy|Okay;Los Cayos;Le Kajus
+Los Ángeles|CL||4u|-2w3|-5kz|yu|Ciudad de Los Anjeles;Los Anceles;Angelopolis;Los Anjeles
+Los Baños|PH||71|13d|9cs|wi
+Los Puertos de Altagracia|VE||2c|tr|-5io|s7
+Los Rastrojos|VE||2c|rv|-5cc|rx
+Los Reyes Acaquilpan|MX||41|1hs|-7my|nq|Los Reyes La Paz;Reyes la Paz
+Lost Mountain|US||48|2ma|-6ja|kd
+Los Andes|CL||4u|-2j7|-5g4|hi
+Los Patios|CO||27|ls|-5le|gb
+Los Dos Caminos|VE||2c|t5|-55n|g6
+Lozova|UA||98|3rt|2sv|f0|Losowa;Łozowa;Losowaja
+Los Polvorines|AR||1l|-2nu|-4j3|eu|Los Palverines
+Los Reyes de Salgado|MX||41|1if|-7wn|aw
+Los Rosales|ES||9d|344|-a9|ai
+Los Banos|US||3p|2uy|-9bp|af|Haltsooítah Háálį́
+Los Palacios y Villafranca|ES||9d|2v8|-gg|a8
+Los Realejos|ES||83|26u|-1a2|a4
+Los Angeles|ES||9d|344|-aa|9o
+Los Gatos|US||3p|2vf|-9et|8j
+Los Altos|US||3p|2vv|-9f7|8j
+Losal|IN||6t|244|5s4|7x
+Los Palacios|CU||36|1qr|-6f9|75
+Lučenec|SK||8s|3q9|1in|70|Losonc;Losoncz
+Líšeň|CZ||9m|3sp|1ad|6u|Lösch
+Los Barrios|ES||9d|2si|-f9|6j
+Losser|NL||8m|416|jg|68
+Losino-Petrovskiy|RU||9i|4b7|2y3|65|Losino-Petrovskij
+Los Reyes Acozac|MX||41|1ix|-7my|63|Reyes Acozac
+Loschwitz|DE||8r|3xt|12d|5r
+Los Llanos de Aridane|ES||83|27m|-1ds|5m|Llanos de Aridane
+Los Álamos|CL||4u|-2wj|-5o2|5f
+Los Vilos|CL||4u|-2gn|-5im|53
+Los Toldos|AR|Buenos Aires|1l|-2p8|-4pk|4y
+Lospalos|TL||6b|-no|9ss|4s|Lospalus;Los Palos
+Los Reyes de Juárez|MX||41|1gn|-7jo|4n
+Losheim|DE||8r|3tj|ir|4n
+Los Alcázares|ES||9d|2wu|-2d|4d
+Los Lunas|US||2p|2op|-88h|49
+Los Palmitos|CO||27|q2|-5t3|40
+Los Osos|US||3p|2q3|-9bn|3z
+Castelsarrasin|FR||9k|3ec|33|3p|Los Sarrasins;Castellum Sarracenum
+Lowshān|IR||7o|2tr|3tj|3m|Loshan;Looshan
+Las Rosas|AR||1n|-2i8|-4r2|3k|Los Rosas
+Los Arabos|CU||36|1r5|-688|3h
+Løsning|DK||8y|4b0|qy|3e
+Los Alamos|US|New Mexico|2p|2rp|-87b|3c
+Los Corrales de Buelna|ES||9d|3c6|-bb|37|Corrales
+Los Alamitos|US||3p|2lw|-93z|36
+Lößnitz|DE||8r|3wm|zd|2w
+Los Lagos|CL||4u|-32q|-5m9|2l
+Los Altos Hills|US||3p|2vu|-9fa|2c
+Los Santos de Maimona|ES||9d|2yt|-hq|29
+Los Muermos|CL||4u|-370|-5o2|27
+Los Aquijes|PE||3o|-136|-5u9|26
+Losoncinegyed|HU||8v|3nw|1h0|25|Losonci negyed
+Los Olivos|MX|Jalisco|41|1ks|-7ys|24
+Los Ruiseñores|MX||41|1lj|-801|23
+Łosice|PL||a5|411|1r4|20
+Los Sauces|CL||4u|-2xi|-5mb|20
+Los Barreros|ES||9d|2wj|-2s|1z
+Los Serranos|US||3p|2md|-92z|1z|Los Seranos
+Los Corralitos|AR||1q|-2je|-5au|1x
+Lossiemouth|GB||9b|4gc|-94|1w|Inbhir Losaidh
+Los Frentones|AR||1n|-21d|-4ql|1u|Los Frontones
+Los Fresnos|US||2f|20f|-7is|1u
+Loßburg|DE||8r|3qg|nh|1t|Betzweiler-Wälde
+Loshnitsa|BY||9g|46s|27w|1t
+Los Barriales|AR||1q|-2jy|-5ah|1t
+Balaruc-les-Bains|FR||9k|3co|a8|1s|Los Banhs de Balaruc
+Los Yébenes|ES||9d|31y|-ar|1q
+Losone|CH||a7|3k9|oc|1p|Loson
+Los Ranchos de Albuquerque|US||2p|2po|-888|1p|Los Ranchos;Los Ranchitos
+Los Santos|PA||4g|m1|-67d|1o
+Los Zacatones|MX||41|1rs|-7vi|1n
+Los Berros|AR||1t|-2gr|-5ap|1l
+Los Altos|AR||1m|-25x|-51y|1k
+Los Gabatos|ES||9d|2wj|-2s|1k
+Los Llanos|DO||4v|1fq|-5d2|1j
+Los Arcos|MX|Morelos|41|1gh|-7n2|1i
+Los Chavez|US||2p|2oh|-88k|1i|Los Chaves
+Los Copeles|NI||3s|xx|-6kz|1i
+Los Dolores|ES||9d|2wk|-2s|1i|Los Doloras
+Los Villares|ES||9d|2wp|-am|1h
+Los Tuzos|MX||41|1jp|-7mc|1f
+Primero de Mayo|MX|Veracruz|41|1pr|-7jq|1e|Los Mangos
+Los Algodones|MX||58|2iu|-8up|1d
+Los Montesinos|ES||9d|2xn|-23|1c|Els Montesins;Els Montesinos
+Los Altos|MX|Veracruz|41|1nr|-7jk|1c
+Los Silos|ES||83|26t|-1aq|1c
+Los Torrentes|MX||41|1hc|-7f9|1b
+Los Antiguos|AR||1r|-3lb|-5iz|1b
+Los Guerra|MX||44|21b|-7n8|1a
+Lost Creek|US||2f|2c6|-7js|19
+Losevo|RU|Voronezh Oblast|9i|3ws|339|19|Losewo
+Los Molinos|ES||9d|354|-bb|19
+Los Ríos|DO||4v|1fg|-5iv|18
+Loseto|IT||9o|360|1at|17|Losetum
+Los Ángeles|MX|Sinaloa|3x|1z4|-8dc|16
+Los Menucos|AR||1s|-35g|-595|16
+Los Algarrobos|PA|Chiriquí Province|4g|nm|-6cy|16
+Los Angeles|PH||71|p1|9ox|15
+Los Botados|DO||4v|1g1|-5eg|15
+Los Reyes|MX|México|41|1io|-7p4|14
+Los Laureles|CL||4u|-2ya|-5my|14
+Los Corrales|ES||9d|2v2|-du|14
+Los Altos|MX|Veracruz|41|1i1|-7i0|13
+Los Reyes|MX|Hidalgo|41|1k0|-7ko|13
+Lostorf|CH||a7|3nm|m3|11
+Los Algarrobos Arriba|PA||4g|no|-6cy|11|Algarrobos Arriba
+Los Helechos|AR||1n|-24k|-490|10
+Losynivka|UA||98|3x8|2go|10|Losinovka
+Los Naranjos|MX|Veracruz|41|1ez|-7f5|10|Los Naranjo
+Los Olvera|MX||41|1l1|-7qx|z
+Los Tigres (San Marcos)|MX||41|1dp|-7cv|y
+Los Amates|GT||32|16e|-6vi|y
+Los Charrúas|AR||1n|-2el|-4hn|y
+Łososina Dolna|PL||a5|3u7|1lb|y
+Los Prietos|MX||41|1l6|-7tb|y|El Cajón
+Los Chiles|CR||2i|un|-6jc|x
+Lustadt|DE||8r|3ss|mz|x|Loschd
+Łasin|PL||a5|44o|1h1|x|Łôsëno;Łazin
+Los Molinos|MX||41|1ig|-7i2|w
+Los Juríes|AR||1n|-272|-4sj|w
+Lososina|RU||7w|3s4|ats|w
+Losar de la Vera|ES||9d|33g|-fk|v
+Los Valles|MX||58|2hz|-90v|v
+Los Robles|MX|Veracruz|41|1gp|-7f0|v
+Loštice|CZ||9m|3u6|1b1|v
+Los Cafetales|MX||41|15b|-74e|v
+Los Negros|BO||3n|-1d9|-4w7|u
+Lossan|CI||0|dz|-hj|u
+Los Molares|ES||9d|2v8|-fw|s
+Los Hidalgos|DO||4v|1it|-5hb|s|Los Hidalagos
+Los Surgentes|AR||1n|-2jm|-4sa|s
+Los Rodríguez|MX|Guanajuato|41|1mg|-7rk|s
+Los Rodríguez|MX|Guanajuato|41|1m6|-7tk|s
+Los Navalmorales|ES||9d|32d|-cw|s
+Los Cedrales|PY||1y|-1za|-480|s|Cedrales
+Los Navalucillos|ES||9d|327|-cw|r
+Les Vans|FR||9k|3fd|bh|r|Los Vans
+Los Gigantes|ES||83|26g|-1as|r
+Los Cóndores|AR||1n|-2hs|-4yk|r
+Los Mangos|MX|Veracruz|41|1eo|-7c8|r|Hilario C. Salas
+Lostwithiel|GB||9b|3w1|-cz|r|Lostwydhyel
+Mesón de los Sauces|MX||41|1nx|-7vq|q|Los Sauces
+Los Cerrillos|UY||45|-2o4|-4ck|p
+Los Ramírez|MX|Guanajuato|41|1me|-7uc|p
+Los Gavilanes|MX||41|1l5|-7zd|p
+Los Cedros|MX|Jalisco|41|1kn|-7yr|o
+Lost Hills|US||3p|2qy|-98h|o|Lost Hill
+Los Belones|ES||9d|2wi|-26|o
+Los Naranjos|MX|Chiapas|41|1by|-75a|n
+Los Reyes Quiahuixtlan|MX||41|1hq|-7kx|n
+Los Llanos|PR||4m|1e6|-54h|n
+Los Pocitos|MX|Querétaro|41|1ls|-7qn|n
+Los Laureles|MX|Campeche|3z|1i5|-6xz|n
+Los Ángeles Tetela|MX||41|1gh|-7kp|m
+Los Arcos|PH||71|nz|9pz|m
+Alixan|FR||9k|3gx|dz|m|Los Aleissans;Les Aleissans;Alexianum
+Los Hueros|ES||9d|34c|-9b|m
+Los Azulitos|MX||41|1op|-7v9|m
+Los Cerritos|MX|Querétaro|41|1l4|-7py|m
+Losinyy|RU||7z|4eq|4pn|m|Losinyj
+Los Cavazos|MX||3w|20n|-7l7|m
+Los Ramírez|MX|Zacatecas|41|1u9|-7y7|m
+Lozhki|RU||9i|4bt|2v3|l|Lozjki;Loshki
+Los Aztecas|MX||44|1qi|-7lx|l
+Los Molinos|US||3p|336|-9f6|k
+Los Telares|AR||1n|-28j|-4w9|k
+Lostau|DE||8r|411|wm|k
+Los Ocotes|MX|Guanajuato|41|1kq|-7v8|k
+Los Córdobas|CO||27|op|-5w3|k
+Los Plátanos|MX||41|1b9|-75m|k|Plátanos
+Los Algarrobos|PA|Veraguas Province|4g|mj|-692|k
+Los Varela|AR||1m|-25l|-52z|j
+Los Alamos|US|California|3p|2oi|-9a4|j
+Los Remedios|MX|Michoacán|41|1ji|-7x8|j
+Los Tepetates|MX||41|1be|-7np|j
+Los Ángeles|MX|Guanajuato|41|1l3|-7se|i
+Los Dolores (Las Quince Letras)|MX||41|1n8|-7rd|i
+Los Taxtes|MX||3x|200|-8em|i|Taxtes
+Los Parques|MX||44|1zn|-7r3|h
+Los Riegos|MX||41|19a|-73w|h
+Les Mages|FR||9k|3ev|bl|h|Los Mages
+Los Reyes Tlanechicolpan|MX||41|1gv|-7l7|h
+Los Naranjos|HN||56|15i|-6sk|h
+Los Cerritos|MX|Veracruz|41|1e8|-7au|h
+Los Nietos|ES||9d|2wl|-26|h
+Los Tepames|MX||41|1h1|-7zu|h
+Los Fierros|MX||41|1k3|-7rw|g
+Los Cues|MX||41|1ky|-7qi|g
+Los Ángeles|MX|Durango|44|1yw|-7zo|g
+Losingé|CI||0|q8|-jj|g|Lossingué
+Losenstein|AT||a2|3p4|144|g
+Los Romeros|MX||41|1jn|-7le|g|Los Remeros
+Łosiów|PL||a5|3x3|1ct|g
+Los Arana|MX||41|1ir|-7oe|g
+Los Herreras|MX||44|1zz|-7o5|g
+Los Cristales (Talican)|MX||41|1j7|-7j3|g
+Los Pescados|MX||41|1ic|-7hv|g
+Los Laureles|AR||1n|-29l|-4ly|f
+Los Órganos de San Agustín|MX||41|1b1|-7pa|f|El Quemado
+Los Saucitos|MX||41|1b7|-7nu|f
+Los Nicolases|MX||41|1ly|-7tg|f
+Los Roques|VE||2c|x7|-558|f
+Los Saucos|MX||41|1h9|-7ps|f
+Los Santos de la Humosa|ES||9d|34i|-91|f
+Los Pozos|MX|Chiapas|41|1a9|-74p|e
+Los Limones|MX|Michoacán|41|1ig|-7wt|e
+Los Tangos|HN||56|163|-6uc|e
+Losiná|CZ||9m|3tz|11d|e
+Los Pollos|PA||4g|nd|-66o|e
+Los Condes|MX||41|1u8|-7yc|e
+Los Charcos|MX||41|1kb|-7wh|e
+Los Martínez|ES||9d|2x2|-30|e
+Losne|FR||9k|3mu|em|e
+Los Blancos|AR||1s|-1tl|-4tw|e
+Los Berros|MX||41|1hw|-7py|e
+Los Lorenzos|MX||41|1mj|-7tm|e
+Los Galvanes|MX|Guanajuato|41|1mj|-7s0|e|Los Galvan
+Los Nogales|MX||41|1j6|-7vs|e
+Loshchynivka|UA||98|3ib|282|e|Cairaclia;Loschynivka;Lochtchynivka
+Los Lotes|PA||4g|pd|-649|d
+Los Sabinos|MX||41|1kh|-7m2|d
+Los Planes|HN||56|131|-6si|d
+Los Santos|CO||27|jx|-5n1|d
+Los Bahuises|MX||37|23c|-8g3|d
+Colonia Juárez|MX|México|41|1hl|-7ob|d|Juárez;Los Chirinos
+Los Arcos|ES||9d|3a9|-63|d
+Los Guajes|MX|Michoacán|41|1ka|-7vq|d
+Los Lirios|MX|Veracruz|41|1fe|-7cz|d
+Los Mancera|MX||41|1kv|-7s0|d
+Loss|ZA||o|-262|2dm|d
+Los Mogotes|MX||41|1b2|-7q0|d
+Los Pilares|MX|Tlaxcala|41|1hj|-7k3|d
+Los Pinos|MX|Veracruz|41|1f8|-7ck|d
+Los Encinos|MX|Puebla|41|1ha|-7lc|d
+Nostang|FR||9k|3on|-8v|d|Lostenk
+Los Dulces Nombres|MX||41|1ld|-7sg|d
+Los Cides|MX||41|1j0|-7lo|c
+Los Palacios|MX||41|15a|-74a|c
+Los Conquistadores|AR||1n|-2cz|-4if|c
+Los Otates|MX|Guanajuato|41|1ko|-7tw|c|Otates
+Los Pilares|MX|Michoacán|41|1kh|-7wd|c
+Los Almendros|MX||41|1cx|-7ts|c
+Los Ídolos|MX||41|1hx|-7g4|c
+Los Arcos|MX|Guanajuato|41|1mh|-7uh|c
+Los Barriles|MX||3x|1ts|-8gq|c
+Los Ramones|MX||44|1ze|-7oq|c
+Los Achotes|MX||41|1cw|-7tq|c
+Los Caños|MX||41|1oi|-7wn|c
+Los Caminos|HN||56|15j|-6se|b|Los Cominos
+Los Dolores|MX|Michoacán|41|1jq|-7qo|b|Dolores
+Los Hucuares|MX||41|1ja|-7wq|b
+Los Ángeles|MX|Oaxaca|41|1cb|-7cd|b
+Los Sauces|MX|Guerrero|41|1er|-7pc|b
+Los Naranjos Esquipulas|MX||41|18e|-7fy|b
+Los Álamos|MX||44|26s|-7sf|b
+Los Naranjos|MX|Veracruz|41|1ex|-7ck|b
+Los Olivos|US||3p|2ob|-99n|b
+Los Garcías|MX||41|1g8|-7ij|b
+Los Arquitos|MX||41|1ow|-7wf|b
+Los Divorciados|MX||2b|1h0|-6tq|b
+Los Benitos|MX||41|1lh|-7po|b
+Los Indios|US||2f|20d|-7ji|b
+Los Anastacios|PA||4g|np|-6cy|b
+Los Pozos|MX|Sinaloa|3x|1rx|-86v|b
+Los Conos|MX||41|1ou|-7vc|b
+Los Reyes Acatlixhuayan|MX||41|1hd|-7mo|b|Los Reyes Acatlizhuayan
+Los Corazones|MX||41|191|-79b|b
+Los Hinojosos|ES||9d|320|-7v|b
+Los Sauces|MX|Tabasco|41|1e3|-764|b
+Los Toldos|AR|Salta|1s|-1pw|-4zq|b|Toldos
+Los Liros|MX||41|1ai|-7ku|b
+Los Aguajes|MX||3x|1mn|-81v|b
+Los Hoyos|MX|Sonora|37|2bo|-8gy|b
+Los Pinos|MX|Chiapas|41|1b0|-73v|b
+Los Olivos|MX|Jalisco|41|1hd|-7xq|b
+Los Cenotes|MX||41|1cz|-70w|a|Cenote;El Cenote
+Los Llanitos|HN||56|10x|-6ql|a|Los Llanos
+Los Cocos|AR||1n|-2dx|-4z6|a
+Los Cajones|MX||41|1hd|-7v3|a
+Los Amores|AR||1n|-262|-4mm|a
+Los Pocitos|MX|Jalisco|41|1l2|-80q|a
+Los Desmontes|MX||41|1jg|-7ru|a
+Los Remedios|MX|Guanajuato|41|1mv|-7qc|a|Cerro Grande
+Los Otates|MX|Nayarit|3x|1oa|-84q|a
+Los Ángeles de San Rafael|ES||9d|35a|-bp|a
+Los Uveros|PA||4g|np|-67b|a
+Los Lobos Segunda Sección|MX||41|1ic|-7q4|a
+Los Reyes (Las Chiveras)|MX||41|1d0|-7tx|a
+Los Urrutias|ES||9d|2wo|-2b|a
+Lo de Reyes|MX||3x|1ws|-8bd|a|Los de Reyes
+Los Boquerones|PA||4g|mg|-68l|a
+Los Canelos|PA||4g|mk|-687|a
+Los Pilares|MX|México|41|1jl|-7p0|a
+Los Reyes|MX|Veracruz|41|1fv|-7hk|a|Coxcatlán
+Los Manantiales (El Río Chiquito)|MX||41|1gl|-7o8|a
+Los Volcanes|MX|Jalisco|41|1kh|-82e|a
+Los Ajos|MX||41|1mv|-7km|a|Santa Clara
+Los Álamos II|MX||41|1is|-7ne|9
+Los Álvarez|MX||41|1l3|-7q6|9
+Los Arroyos|HN||56|14p|-6uw|9|Los Arrollos
+Los Alamitos|MX||41|1pu|-7w1|9|Alamitos
+Los Reyes Teolco|MX||41|1g2|-7m5|9
+Los Mangos|MX|Veracruz|41|1ga|-7gs|9
+Los Luceros|US||2p|2sb|-86l|9
+Los Ángeles|MX|Durango|44|1uj|-819|9
+Los Ángeles|MX|Chiapas|41|197|-784|9
+Lostock|GB||9b|44u|-6y|9
+Los García|MX||2g|26s|-84v|9
+Los Llanos de Temalhuacán (Los Llanos)|MX||41|1dn|-7um|9
+Los Moreno|MX||41|1pt|-7sl|9
+Los Otates|MX|Hidalgo|41|1mr|-7l7|9
+Los Fresnos|MX|Oaxaca|41|1bw|-7cu|9
+Los Dolores|MX|Jalisco|41|1ls|-7wt|9
+Losogo|CI||0|re|-m6|9|Lossogo
+Los Sauces|MX|Michoacán|41|1iv|-7qu|9
+Lossa|DE||8r|3ya|vp|9
+San Matías|MX||41|1gj|-7h8|9|Los Mangos
+Los Cacaos|MX||41|16r|-75e|8
+Los Bancos|MX||41|1ha|-7vx|8
+Los Gómez|MX||41|1pj|-7s8|8
+Los Ángeles|MX|Tamaulipas|44|21a|-7mz|8
+La Troje|MX||41|1od|-7v2|8|Los Nogales
+Los Remedios|MX|Michoacán|41|1j0|-7qc|8
+Las Puentes|MX|Chihuahua|2g|26l|-84x|8|Los Puentes
+Los Corchos|MX||3x|1od|-84z|8
+Los Amoles|MX||41|1lr|-7ub|8
+Los Campos|MX||41|1p7|-7uw|8
+Los Cedros Suchitepec|MX||41|1i7|-7pw|8
+Las Puentes|MX|Hidalgo|41|1jp|-7kr|8|Los Puentes
+Losson della Battaglia|IT||9o|3ir|yo|8
+Los Razos de Ancón|MX||41|1lg|-7sz|8
+Los Villarreales|MX||44|20d|-7qp|8
+Los Llamas|MX||41|1nq|-7yd|8
+Los Hacheros|MX||41|1h6|-7u5|8
+Los Hoyos|MX|Guerrero|41|1d4|-7q5|8
+Los Haros|MX||41|1r9|-7y0|8|Los Aros
+Los Quiotes (San José los Quiotes)|MX||41|1ln|-7px|8
+Los Naranjos|MX|Guanajuato|41|1mt|-7ub|8
+Los Llanitos (El Ranchito)|MX||41|1km|-7st|8
+Los Reyes|MX|Michoacán|41|1k6|-7tq|8
+Los Freseros (Los Sabinos)|MX||41|1kq|-7ym|8
+Los Magueyitos|MX||41|1bf|-7nr|8
+Los Volcanes|MX|Baja California|58|2hs|-911|8
+Los Magueyes|MX||41|1cz|-7nh|8
+Los Martínez|MX|Guanajuato|41|1ke|-7tn|8
+Los Laureles|MX|México|41|1hy|-7ob|8
+Los Mérida|MX||41|1f2|-7co|8
+Los Santos|ES||9d|34m|-g4|8
+Los Olmos|MX||44|1zh|-7q6|8
+Lost City|US||2f|2rz|-7ca|8
+Los Morales|MX||44|20c|-7qo|8
+Los Ricardos|MX||41|1gi|-7in|8
+Luzzana|IT||9o|3j0|rg|8|Locosiana;Lössàna
+El Pozo|MX|Chiapas|41|1at|-755|8|Los Pozos
+Los Remedios|MX|Hidalgo|41|1l2|-7nk|8|Remedios
+Los Horcones|MX||41|180|-7ga|7
+Los Griegos|MX||41|1qd|-7vy|7|Griegos
+Los Guerrero|MX||41|1ks|-80m|7
+Los Fresnos|MX|Michoacán|41|1ho|-7wi|7
+Los Filtros|MX||41|1k6|-7n9|7
+Los Galvanes|MX|Guanajuato|41|1ld|-7rr|7
+Los Tambos|BZ||24|1c4|-6v9|7
+Lost Nation|US||2f|38f|-6w9|7
+Los Arrecifes|MX||41|1fh|-7bi|7
+Jumeaux|FR||9k|3i7|9a|7|Los Gemèis;Minzuddi
+Los Guajes|MX|Jalisco|41|1jt|-80z|7
+Los Angeles|PE||3o|-gi|-5xx|7
+Los Girasoles|MX||58|2i7|-90e|7
+Los Díaz|MX||41|1no|-7t2|7
+Los Sabinos Número Dos|MX||41|1pe|-7my|7
+Los Robles|MX|Jalisco|41|1l8|-7vz|7
+Lostallo|CH||a7|3kn|pk|7
+Los Hatillos|PA||4g|m1|-67q|7
+Los Pastores (Pastores Segundo Barrio)|MX||41|1j6|-7pq|7
+Los Mangos|MX|Veracruz|41|1fr|-7fp|7
+Los Ramírez|MX|Aguascalientes|41|1p1|-7w8|7
+Los Amates|MX|Guerrero|41|1cr|-7nj|7
+Los Espinos|MX|Jalisco|41|1jj|-806|7
+Los Encinos|MX|Chiapas|41|15c|-748|7
+Los Capomos|MX||3x|21e|-8dg|7
+Los Ciriancitos|MX||41|1fx|-7vc|7|Lázaro Cárdenas
+Los Fresnos|MX|Veracruz|41|1gn|-7hu|7
+Los Herrera|MX||44|1xw|-852|7|Las Herreras
+Los Medina|MX|Nayarit|3x|1p4|-84o|7
+Los Amiales|MX||41|1l9|-7yr|7
+Los Arenales|MX||41|1p0|-7w8|7
+Los Tumines|MX||41|1h8|-7uk|7
+Los Suárez|MX||3x|203|-8fb|7
+Los Manantiales|MX||41|1e7|-79f|7
+Los Marías|MX||41|1g0|-7ja|7
+Los Mártires Uno|MX||3x|23z|-8qi|7
+Los Naranjos 1ra. Sección (Campechito)|MX||41|1dt|-77c|6
+Los Masos|FR||9k|3af|6t|6|els Masos
+Los Lobos|MX||41|1kv|-7t4|6
+Los Luceros 2da. Sección|MX||41|1cp|-74q|6
+Los Vázquez|MX||41|1p1|-7w9|6
+Los Berros|US||3p|2pg|-9au|6
+Los Limones|MX|Guerrero|41|1ez|-7rj|6
+Los López|MX||41|1m5|-7rz|6
+Los Medanos|PE||3o|-19t|-5ji|6
+Losevo|RU|Leningradskaya Oblast'|9i|4po|28i|6|Järvenkylä
+Los Cerritos|MX|Jalisco|41|1kw|-7xh|6
+Los Cuatillos|MX||44|1xq|-809|6|Hacienda de Pedriceña
+Los Fresnos|MX|Jalisco|41|1kp|-7vk|6
+Los Corrales|MX|Michoacán|41|1kg|-7u5|6|Corrales
+Los Otates|MX|Michoacán|41|1h9|-7uv|6
+Los Ángeles|MX|Oaxaca|41|1bo|-7jo|6
+Loscouët-sur-Meu|FR||9k|3pu|-68|6|Loskoed-ar-Mozon
+Los Hernández|MX||41|1lh|-7sy|6
+Los Espinos|MX|Michoacán|41|1ja|-7uq|6
+Los Ranchos de San José|MX||41|1gw|-7ou|6
+Lošonec|SK||8s|3qo|1cc|6
+Les Cars|FR||9k|3iw|2z|6|Los Cars;Cars
+Los Tanques|MX||37|23l|-8eh|6
+Los Planes (Cerro Gordo)|MX||41|1im|-7h9|6
+Los Olivos|PA||4g|m0|-67l|6
+Los Naranjos [Fraccionamiento]|MX||41|1df|-7jm|6
+Los Álamos de Cerro Prieto|MX||2g|26b|-89i|6
+Los Palillos|MX||41|1ia|-7wu|6
+Los Asmoles|MX||41|1h4|-809|6|Los Amoles
+Los Ocotes|MX|Jalisco|41|1kq|-839|6
+Los Otates|MX|San Luis Potosí|41|1p3|-7ng|6
+Los Hornos|MX|Michoacán|41|1h1|-7wj|6
+Los Juárez|MX||41|1lz|-7ot|6
+Los Medina|MX|Nuevo León|44|1up|-7qu|6
+Los Ranchos (Rinconada)|MX||41|1is|-7kr|6
+Los Corrales|MX|Oaxaca|41|1f7|-7ge|6|Corrales
+Los Llanos|MX||41|1j3|-7v9|6
+Les Assions|FR||9k|3fe|bl|6|Los Assions
+Los Arcos|MX|Hidalgo|41|1k2|-7lh|6
+Los Ocotes|MX|Oaxaca|41|1a5|-7go|6
+Los Santiagos|MX||41|1o6|-7y0|6
+Los Ángeles|MX|Chiapas|41|15q|-745|6
+Los Pinos|MX|Puebla|41|1k7|-7k1|6
+Los Naranjos 2da. Sección|MX||41|1do|-77e|6
+Los Barbechos|MX||41|1io|-7od|6
+Los Reyes de Ocampo|MX||41|1gx|-7js|6
+Los Cedros|MX|Colima|41|1hk|-81k|6|Cedros
+Los Alcatraces|MX||58|2i2|-911|6
+Los Pozos|MX|Zacatecas|41|1rw|-7wp|6
+Los Limones|MX|Morelos|41|1g7|-7mk|6
+Los Lirios|MX|Coahuila|44|1yj|-7rf|6
+Los Retes|MX||41|1pt|-7sq|6
+Los Ángeles|MX|Chiapas|41|1bc|-75n|6
+Losine|IT||9o|3jq|so|6
+Los Guayabos|MX||41|1ko|-7x0|6|Guayabos
+Losensteinleiten|AT||a2|3po|13w|6|Losensteinleithen
+Los Reyes (Zorrillos)|MX||41|1gq|-812|6
+Los Frailes|MX||41|1ea|-7hb|6
+Los Miranda (El Xoconoxtle de Abajo)|MX||41|1lc|-7sy|6
+Los Ocotes|MX|México|41|1h0|-7pl|6
+Los Pozos|MX|Michoacán|41|1gj|-7vw|6
+Los Zarates|MX||41|1eb|-7g3|5
+Los Hornos|MX|México|41|1hs|-7mm|5
+Los Rosales|MX||41|1hj|-7oz|5
+Los Ailes|MX||41|1il|-7ns|5
+Los Aldamas|MX||44|20e|-7nk|5|Los Aldama
+Los Linderos|MX||41|1my|-7qf|5
+Los Bálsamos|MX||41|1ez|-7ef|5
+Los Magueyes (Fraccionamiento el Sereno)|MX||41|1l5|-7zc|5
+Los Remedios|PA||4g|mm|-692|5
+Los Puentes|MX||41|1mg|-7l3|5
+Los Voladores|MX||41|1io|-7ll|5|Voladores
+Los Cerritos|PA||4g|lo|-67x|5
+Los Tejocotes|MX||41|1ha|-7o4|5
+Los Amates|MX|Chiapas|41|16n|-75h|5
+Los González|MX||41|1m6|-7pp|5
+Los Coyotes|MX||41|1ec|-7w4|5
+Los Reyes|MX|Michoacán|41|1iw|-7qi|5
+Emiliano Zapata|MX|Chiapas|41|161|-755|5|Los Cocos
+Los Pájaros|MX||41|1dr|-73s|5
+Los Colonos|MX||41|1je|-809|5
+Los Martínez|MX|Guanajuato|41|1n3|-7to|5
+Los Adobes|MX||44|1xb|-7r9|5
+Los Chiricanos|PA||4g|oy|-6cd|5
+Los Duraznos|MX||41|1mj|-7nd|5|Las Duraznos
+Los Castillos|PA||4g|ma|-69c|5
+Los Arredondo (Los Arredondo de San Pedro)|MX||3x|1wu|-8av|5
+Los Pozos|PA||4g|ln|-681|5|Los Pozo
+Los Hules|MX||41|159|-743|5

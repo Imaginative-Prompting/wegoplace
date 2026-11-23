@@ -1,0 +1,90 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wenzhou|CN||7i|25s|9b7|kg4|Wen-čou;Venĝou;Wénju shehiri;Wentsjou;Vûn-chû-sṳ;Ôn Châu;Un-chiu-chhī;Ŭng-ciŭ;Vencsou;Vendžou;Yongjia;Wen-chou
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Wenchang|CN||7i|1ib|8js|4bt|Văn Xương;Bûn-chhiong-chhī;Wen-chiang;Wencheng
+Wenshan City|CN||7i|1sw|81l|3h0
+Wensu|CN||7t|36o|66w|n3|Onsu;Aqsu Konasheher;Aqsu Kona Shahr
+Wenjiang|CN||7i|26v|82g|j0
+Wenling|CN||7i|26u|9d6|iq|Wenlin
+Wenshang|CN||7i|2r9|8zm|gj
+Wendo|ET||2|ic|2yq|gh|Wondo;Wando
+Wenxing|CN||7i|27o|8pk|fv|Siang Tin;Siangtin;Siangyin;Xiangyin;Hsiang-yin;Siang-Yin
+Venice|IT||9o|3i8|y9|e9|Venetia;Venedig;Venècia;Venecio;Venecija;Benátky;Venezia;Venetsia;Venise;Velence;Venesia;Venizia;Venedeg;Venies;Venetië;Wenecja;Veneza;Vinezzia;Benetke;Venediku;Venedik;Venezsia;Benezia;Vignesie;V'nise;Feneyjar;an Veinéis;Mleci;Venesiya
+Wankyi|GH||1|li|-5u|cr|Wenchi
+Wenquan|CN|Chongqing|7i|2f4|8dg|ay|Wen-ch’üan
+Wentzville|US||2f|2zt|-70d|9w
+Wenatchee|US||3p|3nq|-9a7|9c|Wenache;Wenatche
+Ventspils|LV||9n|4ff|1nw|93|Windau;Ventspilis;Wentspils;Vindau
+Wenquan|CN|Inner Mongolia|7i|3n2|997|8z|Arxan
+Wenxian Chengguanzhen|CN||7i|2jj|82s|8p
+Wenfeng|CN||7i|2f8|8ff|8p
+Wendou Borou|GN||f|vr|-12k|70
+Wenceslau Guimarães|BR||20|-121|-31o|6t|Venceslau Guimarães
+Wondelgem|BE||8t|3xx|ab|6j|Wendelghem
+Wenago|ET||2|hk|2yb|6c|Wonago
+Wenheng|CN||7i|1zb|90b|5p
+Wenceslau Braz|BR|Paraná|4w|-1ub|-3uc|5e|Venceslau Braz
+Wenquan|CN|Gansu|7i|2o9|83t|53
+Wenjī|ET||2|nh|314|4r|Wonji
+Wendelstein|DE||8r|3t3|uz|4k
+Wendlingen am Neckar|DE||8r|3r7|q2|4d
+Venëv|RU||9i|46z|2ya|4d|Venyov;Wenjow;Venjov;Veniov;Wjenjow;Veniovas;Weniow
+Cēsis|LV||9n|4f7|1y7|46|Wenden;Kieś;Cėsys;Ciesis;Sesis;Venden;Tsesis
+Wendouree|AU||8j|-2w9|b3j|46
+Wendong|CN||7i|1sd|7pi|41
+Wennigsen|DE||8r|417|ql|3x
+Weno|FM||an|kp|bps|3v|Moen
+Węgrów|PL||a5|41k|1p6|3h|Vengruvas;Vengrova;Vengaruva;Wengrow;Vengrov
+Wenhua|CN||7i|2dl|8bd|3g
+Wentorf bei Hamburg|DE||8r|44m|sh|3d|Wentorf près de Hambourg;Wentorf apud Hamburgo;Wentorf
+Wenigenjena|DE||8r|3xh|w8|3b
+Wentworthville|AU||8l|-2lx|bnd|35
+Wendeburg|DE||8r|41d|sv|2t|Wenneborg
+Wenzenbach|DE||8r|3sc|xw|29
+Wendover|GB||9b|3zs|-22|25
+Wentworth Point|AU||8l|-2lz|bnn|1x
+Wenfu|CN||7i|29c|8bv|1x
+Wendell|US|North Carolina|48|2re|-61p|1r|Wendel
+Wentworth Falls|AU||8l|-2ln|blq|1n
+Wenshui|CN||7i|271|87x|1j
+Wenden|DE|North Rhine-Westphalia|8r|3xl|lv|1f
+Wenham|US||48|3ac|-5gx|19
+Laventie|FR||9k|3wn|7p|19|L’Vintille;Wentie
+Wenden|DE|Lower Saxony|8r|41c|t7|14
+Wenduine|BE||8t|3yi|8k|14|Wendune;Wenduyne
+Vendychany|UA||98|3r2|257|12|Vendîceanî;Vendytchany;Wendytschany;Vendiĉani;Vendyčany;Wendyczany
+Venta|LT||a3|4c3|1r2|x|Vyanta;Wenta
+Wentworth|US|North Carolina|48|2t4|-65l|s
+Wendell|US|Idaho|28|3au|-8um|r
+Wenceslau Braz|BR|Minas Gerais|4w|-1ql|-3i0|o|Bicas do Meio;Venceslau Bras
+Wenonah|US||48|32j|-5sr|n
+Wendake|CA||59|3m6|-5i8|m|Vendako
+Wenns|AT||a2|3n1|tt|k
+Wendisch Evern|DE||8r|43u|t3|g
+Wenceslao Escalante|AR||1n|-2k5|-4ud|f
+Wincheringen|DE||8r|3tt|hv|f|Wëncher
+Wentworth|AU||8l|-2mr|ay7|f
+Wendéné|CI||0|nt|-bd|f|Windéné
+Wendisch Rietz|DE||8r|412|12x|f
+Wendelsheim|DE||8r|3u9|m8|f
+Wendover|US||2p|356|-8ss|e|Áshįįh Bił Hahazteel
+Weng|DE||8r|3r6|yd|e
+Wendover|CA||59|3il|-5sp|d
+Wenzendorf|DE||8r|447|r5|d
+Wenvoe|GB||9b|3yx|-92|c
+Wendtorf|DE||8r|475|sl|b
+Wendorf|DE||8r|46q|10c|b
+Wendell|US|Massachusetts|48|3a7|-5l4|a
+Wenona|US||2f|361|-6vd|a
+Wengelsdorf|DE||8r|3yg|xg|a
+Wentworth|US|New Hampshire|48|3dv|-5jr|9
+Wensin|DE||8r|45y|sy|8
+Wenden|US||4i|2ly|-8re|7
+Wentorf|DE||8r|454|t3|7
+Weng im Innkreis|AT||a2|3q0|10m|7
+Wenzlow|DE||8r|41a|yl|6
+Wenze|DE||8r|420|ux|6
+Wendisch Baggendorf|DE||8r|467|zy|6
+Wengi|CH||a7|3ms|kk|6
+Wentzwiller|FR||9k|3o3|ks|6
+Weng im Gesäuse|AT||a2|3o8|14a|5

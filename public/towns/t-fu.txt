@@ -1,0 +1,407 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Foshan|CN||7i|1rz|8q9|1xrt|Phật Sơn;Fo-šan;Fu̍t-sân-sṳ;Fošanas;Fosjan;Foŝan;Hu̍t-san-chhī;Hŭk-săng;Hotokeyama;Fak San;Fuk Shan;Fut Shan;Fatshan
+Fuzhou|CN|Fujian|7i|20e|97f|vld|Fucheu;Phúc Châu;Hók-ciŭ;Fudžou;Fu-čou;Fuk-chû-sṳ;Futsjou;Fuĝoŭo;Hok-chiu-chhī;Fucsou;Focheum;Fuzcouh;Fuçjou;Fužov;Fu-chou;Fuchau;Fouzhou
+Busan|KR||7h|2pi|9yf|pcj|Pusano;Pusan;Phủ San;Pusana;Fusan
+Fuyang|CN|Anhui|7i|2je|8xq|dnd|Fu-jang;Phụ Dương;Pâiu-iòng;Hū-iông-chhī;Fuyan;Fou-yang
+Fukuoka|JP||7q|2lc|a2a|cfw|Fukuoko;Fucuoca;Hukuoka
+Fushun|CN||7i|38d|9ka|at2|Fusjun;Fu-šun;Fuŝuno;Fušunas;Phủ Thuận;Ū-sông;Fusun;Bú-sūn-chhī;Fu-shan
+Fuzhou|CN|Jiangxi|7i|25o|8z5|8er|Ū-ciŭ;Fu-čou;Vù-chû-sṳ;Phủ Châu;Bú-chiu-chhī;Fu-chou
+Fuxin|CN||7i|38q|9dy|5bf|Fu-sin;Fusin;Fusinas;Phụ Tân;Pâiu-sĭng;Hū-sin-chhī;Fu-hsin
+Honchō|JP|Chiba|7q|2r6|asv|4z3|Funabashi;Funabasi;Hunabasi-chhī;Hunabasi;Furabeshi
+Tucson|US||4i|2hi|-8k5|46q|Tuksonas;Tūsona;Takson;Tuson;Tugson;Tuison;Lucson;Teuson;Fucson;Tuczon
+Fukuyama|JP||7q|2ns|aah|3m8|Fukujama;Hukuyama-chhī;Hukuyama
+Fujisawa|JP||7q|2q7|arg|3e5|Pudyisawa;Fujisava;Fudžisava;Huzisawa-chhī
+Seremban|MY||6v|7l|7v6|2vl|Fû-yûng-sṳ;Sungai Ujong;Soghomban;Cirampāṉ
+Fengshan|TW||7l|1qv|9ac|2r1|Fongshan District;Feng-šan;Fung-sân-khî;Fengšanas;Phượng Sơn;Feng-shan;Fongshan
+Fukushima|JP|Fukushima|7q|2wv|au7|29q|Hukusima
+Fuling|CN||7i|2aj|8ab|22n|Fuchow;Fou-ling;Fuchou
+Fuchū|JP|Tokyo|7q|2r3|arg|210
+Fukui-shi|JP||7q|2s6|aie|20v
+Fuji|JP||7q|2pp|ap8|1w6|Fudži;Fudžis;Huzi-chhī
+Fuencarral|ES||9d|34i|-a8|1uc
+Fuencarral-El Pardo|ES||9d|34i|-ad|1p5
+Passo Fundo|BR||4w|-26i|-41l|1no
+Fuding|CN||7i|23x|99x|1hg|Fu-ting
+Fuenlabrada|ES||9d|33w|-aj|1gx|Fons Laborata
+Fu’an|CN||7i|239|98c|16w
+Pécs|HU||8v|3k0|1en|14d|Fünfkirchen;Pecz;Päťkostolie;Pech;Cinquechiese;Pēča;Pečuh;Pėčas;Sopianae;Peč;Pečuj;Fuenfkirchen;Peçuy-
+Fujieda|JP||7q|2ov|ao3|14a
+Fukayachō|JP||7q|2sk|aqw|139
+Fullerton|US|California|3p|2m3|-93l|134|Fulertonas
+Fuyu|CN|Jilin|7i|3hi|9mq|12j
+Funtua|NG||u|w0|kb|120|Puntua
+Fujinomiya|JP||7q|2pu|ap2|10t|Fudžinomija;Fujinomija;Pudyinomiya;Huzinomiya-chhī;Fujimiya
+Fürth|DE|Bavaria|8r|3tg|uj|10o|Fiurtas;Fuerth
+Fuji|CN||7i|28z|84p|10n
+Foumban|CM||j|fx|ua|107|Fumban;Foumbam
+Acilia-Castel Fusano-Ostia Antica|IT||9o|380|y9|zy
+Fujairah|AE||6c|1xs|4ci|x1|Fudschaira;Fuĵajro;Al-Fujayrah' emiraat;Fudžajra;Füceyre;Fujaira;Fujayrah
+Funza|CO||27|d4|-5q5|wh
+Fujimino|JP||7q|2rq|ark|vk|Fujimi
+South Fulton|US|Georgia|48|2lb|-6j7|tu
+Funchal|PT||86|2ir|-1b1|te|Funšalis;Funshal;Funšala
+Riacho Fundo II|BR||4w|-186|-3ph|t8
+Fuwwah|EG||c|2eo|2cv|py|Fuwah;Fuvva;Fouah;Fuwwa;Fuwa;Fawwah
+Fujin|CN||7i|3n9|a6r|ou|Fukin
+Fusagasugá|CO||27|c2|-5qk|oo
+Fūlād Shahr|IR||7o|2i9|3ys|ok|Pūlād Shahr
+Fukuroi|JP||7q|2oj|an4|ok|Pukuroi;Hukuroi-chhī
+Fulham|GB||9b|3z0|-k|o8|Fulhem
+Fukuchiyama|JP||7q|2q2|afc|lh|Fukučijama
+Fuorigrotta|IT||9o|35f|13g|l9|Forerotta
+Fünfhaus|AT||a2|3pw|19c|l8
+Furukawa|JP|Miyagi|7q|2z5|avk|l7|Hurukawa
+Fuyu|CN|Heilongjiang|7i|3or|9lq|kv
+Fuentes del Valle|MX||41|1ij|-7ne|kl
+Fuengirola|ES||9d|2ti|-cu|jv
+Fuyang|CN|Zhejiang|7i|2bh|997|ji|Puyang
+Fuefuki|JP||7q|2r0|ap4|jb
+Fuqing|CN||7i|1zh|97l|iq
+Fukutsu|JP||7q|2lu|a2h|im
+Fujioka|JP|Gunma|7q|2sp|aqb|hx|Huzioka-chhī
+Fulda|DE||8r|3wf|qw|hq
+Fujiidera|JP||7q|2o1|ago|hp
+Fundación|CO||27|t8|-5q3|gg
+Fussa|JP||7q|2ra|ar0|fs|Fusa;Hussa-chhī
+Futtsu|JP||7q|2q3|ase|ed|Huttu-chhī;Futtso
+Fuchū|JP|Hiroshima|7q|2nj|a83|e8
+Fuchūchō|JP||7q|2o1|aa4|e3
+Fungurume|CD||y|-ti|214|dx
+Fujiyoshida|JP||7q|2qg|apk|dk
+Fundong|CM||j|hg|sk|c3
+Fondi|IT||9o|36w|11b|b2|Fundi;Phoundoi;Phondai;Fundia
+Furmanov|RU||9i|4f1|367|ao|Furmanow;Fourmanov
+Fūman|IR||7o|2ve|3sz|9y|Fumen
+Funaishikawa|JP||7q|2tb|auh|9t
+Formigine|IT||9o|3ft|u5|9j|Furmèżen
+Fusō|JP||7q|2q8|akb|9h
+Fuxing|CN||7i|2au|880|9c
+Fürstenwalde|DE||8r|41g|132|9b
+Fürstenfeldbruck|DE||8r|3pu|v9|9b|Fiurstenfeldbrukas
+Fujishiro|JP||7q|2rs|at8|97
+Futian|CN|Chongqing|7i|2eq|8gr|8z
+Fushimi|JP||7q|2pj|apu|8t
+Fuyuan|CN||7i|3qc|ad2|8c
+Fort Bragg|US|North Carolina|48|2pm|-63h|84|Fort Liberty;Fuorto Bragg;Pháo đài Bragg;Fort-Bragg
+Fukiage-fujimi|JP||7q|2sa|ard|7v
+Funabori|JP||7q|2r4|asj|7g
+Fukuechō|JP||7q|2iu|9xx|7e|Fukuego
+Fujikawaguchiko|JP||7q|2ql|ap9|7d|Fudzsikavagucsiko
+Fukagawa|JP||7q|3df|ayk|7a|Fukaqava;Hukagawa-chhī;Hukagawa
+Fuhuan|CN||7i|283|88k|70
+Fuzuli|AZ|Fuzuli District|61|320|3mz|6z|Fizuli
+Funyan Bīra|ET||2|q4|39k|6y|Fugnanbira
+Fuquay-Varina|US||48|2qu|-62w|6n|Fuquay Varina
+Fujia|CN||7i|2ly|86b|6l
+Funehikimachi-funehiki|JP||7q|2w1|aui|6j
+Furukawa|JP|Gifu|7q|2sn|al2|69|Hida-shi
+Buan|KR||7h|2r9|9s1|67|Fuan;Puan
+Fubang|CN||7i|1rm|7p8|62
+Furano|JP||7q|3cf|azi|5v|Hurano-chhī;Hurano
+Fuente del Berro|ES||9d|34a|-a6|5t
+Fulu|CN|Chongqing|7i|2d5|8bx|5m
+Fuyun|CN||7t|3mj|6wo|5i
+Fukumitsu|JP||7q|2tk|ak7|5f
+Fukura|JP||7q|2n6|ae8|57|Hukura
+Fujioka|JP|Tochigi|7q|2sp|arx|53
+Fulwood|GB||9b|447|-4b|52
+Futog|RS||8q|3ho|1ir|50|Futak;Ófutak
+Fundão|BR||4w|-1jd|-348|50
+Fuki|JP||7q|2o7|agy|50
+Fushë-Krujë|AL||9y|378|1is|4z|Fushë-Kruja;Fuš e Krujs;Fush’ e Krujës;Fushë e Krujës;Fush-Kruja
+Fomboni|KM||ac|-y5|3di|4t|Fumboni
+Fuyong|CN||7i|1qz|8s6|4t|Fu-yung
+Fudong|CN||7i|1s8|7ps|4o
+Hondarribia|ES||9d|3ch|-50|4l|Hondarribi;Fontarabie;Fuenterrabía
+Kosovo Polje|XK||8q|3ai|1mm|4i|Fushë Kosovë;Kosovo;Fushë-Kosova
+Fu Cheong Estate|HK||6i|1q1|8t3|4d
+Füssen|DE||8r|3o5|tq|4c|Abdiacum;Fiusenas;Fiassa
+Furzedown|GB||9b|3yu|-f|4b
+Fukawa|JP||7q|2rl|atb|49
+Fullerton|US|Pennsylvania|48|34v|-5tn|45
+Fujisaki|JP||7q|34x|aua|45
+Funes|AR||1n|-2jg|-4ox|44
+Fuke|JP||7q|2nc|aff|43
+Fujimi|JP||7q|2rq|ao1|41
+Fucecchio|IT||9o|3dh|u0|41
+Furukawamen|JP||7q|2kc|a05|3v
+Futrono|CL||4u|-33h|-5l3|3t
+Fulu|CN|Chongqing|7i|2a9|86t|3s
+Furaydis|IL||6n|2ik|2p3|3r|Fureidīs
+Fuk Loi|HK||6i|1q5|8sz|3r
+Fuhlsbüttel|DE||8r|44z|ru|3p
+Fulton|US|Missouri|2f|2zx|-73f|3l
+El Fuerte|MX|Sinaloa|3x|21e|-8dq|3i|Fuerte
+Numakunai|JP||7q|331|awa|3f|Fumakunai;Numakunni
+Fuldatal|DE||8r|3yq|ql|3e
+Fuguo|CN||7i|2ai|86l|3e
+Fung Tak Estate|HK||6i|1q2|8t8|3d
+Further Ground|KY||2e|1hq|-69k|3c
+Veurne|BE||8t|3xv|7f|3c|Furna;Veurn
+Futaba|JP||7q|2qw|as4|3a
+Fulton|US|New York|48|3cc|-5wa|38
+Fürth|DE|Hesse|8r|3tx|oe|34
+Fulkumari|IN||6t|1tc|726|34
+Fuvahmulah|MV||af|-u|5ny|33|Fuvahmulaku;Fuvammulah
+Joint Base Lewis McChord|US||3p|3mv|-9gi|32|Base de la Fuerza Aérea McChord;McChord Air Force Base;Fuorto Lewis;Fort Lewis;Joint Base Lewis-McChord
+Futian|CN|Guangdong|7i|1qk|8su|32
+Fuensalida|ES||9d|339|-bp|32
+Fuente Palmera|ES||9d|2wq|-e6|30
+Fürstenau|DE||8r|41w|lc|2r|Försnau
+Foix|FR||9k|3bd|4h|2r|Fois;Fuxium;Fuā
+Fiľakovo|SK||8s|3q3|1j2|2p|Fülek;Filjakovo;Filek
+Fundão|PT||99|33i|-ku|2p
+Furtwangen|DE||8r|3ph|mt|2p
+Funado|JP||7q|2rf|as0|2o
+Fuente-Álamo de Murcia|ES||9d|2ws|-39|2n|Fuente Álamo;Fuente Álamo de Murcia
+Furth im Wald|DE||8r|3sz|zo|2n
+Fuzeta|PT||99|2ux|-lj|2l|Fuseta
+Fullview Garden|HK||6i|1pu|8td|2k
+Fultondale|US||2f|2lc|-6p3|2i
+Fuller Heights|US||48|25j|-6bs|2g
+Fujita|JP||7q|2x8|auf|2e
+Füzesabony|HU||8v|3on|1kq|2a
+Fuyugi|JP||7q|2sa|as7|29
+Fushou|CN||7i|29b|89f|28
+Futian Residential District|CN||7i|1qk|8su|27
+Fukaura|JP||7q|34w|asp|27
+Fuveau|FR||9k|3cq|fg|26|Fuvèu
+Furze Platt|GB||9b|3z6|-22|26
+Fürstenzell|DE||8r|3qs|110|25|Fiaschtnzei
+Fuentes de Andalucía|ES||9d|2w2|-ev|21|Ukraine;Ucrania
+Fuhua|CN||7i|1qr|8sd|1z
+Fürstenberg|DE|Brandenburg|8r|43r|10j|1w
+Fuente del Maestre|ES||9d|2z1|-hx|1v
+Furnace Green|GB||9b|3xz|-h|1v
+Fubao|CN|Guangdong|7i|1qk|8st|1v
+Fundulea|RO||8u|3fj|21o|1v|Fundulele;Fundule
+Füzesgyarmat|HU||8v|3mu|1my|1s
+Fürstenfeld|AT||a2|3mp|18o|1r|Fölöstöm
+Funafuti|TV||as|-no|dtr|1r|Fongafale
+Fusignano|IT||9o|3fj|x8|1q
+Fundy Albert|CA||43|3j8|-4zm|1p
+Fulham Gardens|AU||8b|-2oz|aor|1p
+Fujisato|JP||7q|2pe|aju|1o
+Fully|CH||a7|3k6|jr|1n|Fuliacum
+Fulshear|US||2f|2ah|-7ee|1n
+Fumel|FR||9k|3fm|2p|1m
+Fuping|CN||7i|2dh|8bo|1k
+Fu Shan Estate|HK||6i|1q2|8t9|1k
+Fussels Corner|US||48|25x|-6be|1k
+Fuente el Saz|ES||9d|34v|-9r|1j
+Fulchur|IN||6t|1nk|66s|1j
+Fulnek|CZ||9m|3u3|1dq|1j
+Fuente Obejuna|ES||9d|2yb|-f2|1j|Fuenteovejuna
+Fundeni|RO|Călărași County|8u|3fa|217|1i
+Fudaba|JP||7q|2kx|aa0|1h
+Fundy-St. Martins|CA||43|3i5|-51s|1g
+Funagata|JP||7q|2zh|ats|1f
+Fuente de Cantos|ES||9d|2y9|-hi|1e
+Funilândia|BR||4w|-1ht|-3ee|1b
+Fumay|FR||9k|3uv|d3|1b|Fumwè;Fumaeum
+Füllinsdorf|CH||a7|3nz|lh|18
+Fukushima|JP|Hokkaido|7q|378|atl|18|Hukusima
+Furulund|SE|Skåne|9w|4ax|10d|18
+Furiani|FR||9k|3ai|q5|17
+Fullarton|AU||8b|-2p3|ap3|17
+Fursy|UA||98|3uc|2bc|16|Furszi
+Furukuchi|JP||7q|2zm|ata|16
+Fuentes de Ebro|ES||9d|37b|-1r|16
+Fundu Moldovei|RO||8u|3o1|1yk|15|Fundul Moldovei
+Fulton|US|Mississippi|2f|2n7|-6tl|15
+Fuyongzhen|CN||7i|1qz|8s5|14
+Fuente Vaqueros|ES||9d|2ve|-ai|14|Fuente Vagueros
+Fundeni|RO|Galați County|8u|3ii|24i|14
+Furulund|SE|Västra Götaland|9w|4gc|xp|13
+Fußach|AT||a2|3nw|qu|13
+Fulga de Sus|RO||8u|3gq|21h|12
+Fulbourn|GB||9b|40y|m|11
+Funyula|KE||16|s|2ms|10
+Fuente de Oro|CO||27|9m|-5oi|10
+Fu Keung Court|HK||6i|1q2|8t6|10
+Futatsuimachi|JP||7q|33p|atj|z|Futatsui-machi
+Fubao|CN|Sichuan|7i|27x|86o|z|Fu-pao
+Fürstenstein|DE||8r|3rc|111|z
+Fuente el Fresno|ES||9d|30z|-ah|z|Fuente del Fresno
+Fulton|US|Illinois|2f|38b|-6yg|y
+Fung Wah Estate|HK||6i|1pu|8tb|x
+Furubira|JP||7q|3c7|auo|x
+Furth|DE|Bavaria|8r|3qh|ye|w
+Fuensanta de Martos|ES||9d|2wl|-av|w
+Oșorhei|RO||8u|3mn|1p9|w|Fugyivásárhely
+Funabashi|JP||7q|2tz|alf|v|Funahashi
+Fulpmes|AT||a2|3mz|vj|u|Vulpmes
+Fornovo di Taro|IT||9o|3g5|s2|u|Fornoue;Fornova Di Taro;Fornova de Taro;Furnovo-Ditaro
+Furci Siculo|IT||9o|2xg|16q|u|Furci Siculu
+Funadhoo|MV||af|h3|5nl|t
+Fujikoto|JP||7q|33w|atm|t|Fujisato
+Fuentezuelas|MX||41|1l4|-7pq|t|Fuentesuelas
+Fuenmayor|ES||9d|39z|-74|s
+Funagoshi|JP||7q|2sb|a9h|s|Funakoshi
+Fuente-Álamo|ES||9d|2zh|-3z|r
+Fundeni|RO|Ilfov|8u|3fi|20p|r
+Fuentes de León|ES||9d|2xr|-i6|r
+Fulham|AU|South Australia|8b|-2p1|aor|q
+Fügen|AT||a2|3nj|wx|q
+Pfunds|AT||a2|3mh|tb|q|Fuond
+Fuerte|PH||71|1cp|9ad|q|Feurte;Fuarte
+Fumane|IT||9o|3ii|u9|q
+Fustiñana|ES||9d|38q|-45|q
+Fundación|DO||4v|1et|-5hq|p
+Funes|CO||27|2s|-5z5|p
+Fülöpszállás|HU||8v|3m2|1hg|p
+Fudai|JP||7q|334|ay4|p
+Fuerte Olimpo|PY||1y|-1mg|-4gr|p|Fuerte Olimpas
+Fundeni|RO|Buzău County|8u|3ht|22o|o
+Fushë-Arrëz|AL||9y|38u|1jm|o|Fushe-Ares;Fushë-Arëzi;Fushë-Arrësi;Fushe Arrezi
+Fußgönheim|DE||8r|3te|n1|o|Fußgennem
+Funes|ES||9d|39k|-50|o
+Funes - Villnoess|IT||9o|3lk|wg|o|Villnöss
+Furuya-hongō|JP||7q|2rr|arm|o
+Furao|PH||71|1bb|9ec|n
+Fundy Heights|CA||43|3hp|-53j|n
+Fuglebjerg|DK||8y|49n|w3|n|Fuglebærg
+Futaleufú|CL||4u|-3by|-5jn|n|Futalelfú
+Fürstenberg|DE|Baden-Wurttemberg|8r|3oh|pg|n
+Fulton Place|CA||2s|44r|-8r2|m
+Fulton|US|Kentucky|2f|2te|-6uv|m
+Fürstenhausen|DE||8r|3ss|j3|m
+Fuente de Piedra|ES||9d|2v6|-d5|l
+Fundy Shores|CA||43|3hh|-54f|l
+Fulton|US|Maryland|48|30r|-5xo|k
+La Font de la Figuera|ES||9d|2zs|-2g|k|Fuente la Higuera
+Floriana|MT||9e|2rq|14b|k|Furjana;Il-Furjana
+Fussy|FR||9k|3my|6r|k
+Furnari|IT||9o|2xu|160|j
+Fuentealbilla|ES||9d|313|-4b|j
+Fuenlabrada de los Montes|ES||9d|30p|-dq|j|Fuentelabrada de los Montes
+Fundu Răcăciuni|RO||8u|3ks|22p|j
+Fuencaliente de la Palma|ES||83|275|-1dl|j
+Fuentesaúco|ES||9d|36j|-fa|j
+Al Funayţīs|KW||6x|297|3pm|j|Al Fanaitis;Funayţīs;Al Funaitis
+Funama|JP||7q|3c9|auk|i
+Fulga de Jos|RO||8u|3go|21g|i
+Fuchsstadt|DE||8r|3v7|rl|i
+Fulacunda|GW||8|wq|-165|i|Falacunda
+Fuchsmühl|DE||8r|3uo|xr|i|Fuchsmuehl
+El Fuerte|MX|San Luis Potosí|41|1ob|-7rm|h|Fuerte
+Fua'amotu|TO||bi|-1n2|-dii|h
+Fuentidueña de Tajo|ES||9d|33g|-8s|h
+Furukamaya|JP||7q|37b|avk|g
+Furth bei Göttweig|AT||a2|3qd|17d|g
+Furnas|PT||81|2wy|-1yb|g
+Furtei|IT||9o|31w|ov|g
+Fürfeld|DE||8r|3ua|lx|g
+Forano|IT||9o|39i|yz|f|Furrianum;Foranu
+Fuglafjørður|FO||85|4sw|-ix|f
+Fulton|US|Texas|2f|25y|-7hk|f
+Fuentes de Oñoro|ES||9d|34r|-ix|f
+Fulenbach|CH||a7|3nb|lr|f
+Fuschl am See|AT||a2|3os|10y|f
+Fürnitz|AT||a2|3lc|12e|f
+Furmanivka|UA||98|3is|297|f|Furmaniwka;Fourmanivka;Furmanca;Furmanovka;Furmanowka
+Fuzhuang|CN||7i|313|93l|f
+Furcenii Noi|RO||8u|3j9|23y|f
+Funagatōge|JP||7q|2jg|a8z|e|Funegatōge
+Furculești|RO||8u|3dv|1xu|e
+Fünfstetten|DE||8r|3rn|tx|e
+Fumone|IT||9o|37x|10v|d
+Fuwayriţ|QA||7b|20b|3yp|d
+Fuente de Pedro Naharro|ES||9d|32w|-8d|d
+Fürthen|DE||8r|3x2|lb|d
+Fullerton|US|Nebraska|2f|36w|-7k5|d
+Fuorni|IT||9o|34w|159|c
+Fulda|US||2f|3dv|-7dk|c
+La Fuliola|ES||9d|37v|2u|c|Fuliola
+Fuencaliente|ES||9d|30v|-b7|c
+Fubine|IT||9o|3gw|nf|c|Fubin-i
+Fuerte del Rey|ES||9d|2x7|-as|c
+Fuig|PR||4m|1dz|-55w|c
+Furato|IT||9o|3if|oo|c
+Fuensaldaña|ES||9d|37v|-d9|c
+Fundy Bay|CA||43|3ga|-55g|c
+Fülöpjakab|HU||8v|3lu|1is|c
+Fulgencio Yegros|PY||1y|-21i|-4co|b
+Fublaines|FR||9k|3ry|86|b
+Furtunești|RO||8u|3ia|21c|b
+Funny River|US||1h|4o2|-bms|b
+Fuscaldo|IT||9o|31h|18j|b
+Full Sutton|GB||9b|45z|-2f|b
+Fundura|CV||84|165|-1tu|b
+Fulgatore-Torretta|IT||9o|2xf|z9|b
+Funzi|KE||16|-cq|31k|b
+Skelivka|UA||98|3tm|1rt|b|Felsztyn;Fulsztyn;Skeliwka;Felstin;Fel’shtin;Fel’shtyn;Skelevka
+Furdenheim|FR||9k|3r1|l0|b
+Fürsteneck|DE||8r|3rc|11f|b
+Fürstenberg|DE|Lower Saxony|8r|3zp|q4|a
+Fuhlendorf|DE||8r|470|z0|a
+Furnissdale|AU||8k|-2ig|8xk|a
+Fuller Acres|US||3p|2q2|-96b|a
+Fundata|RO||8u|3i9|1ya|a
+Fuentepelayo|ES||9d|36i|-bm|a
+Fuerte de Guadalupe|MX||41|1h0|-7l1|a
+Fumureni|RO||8u|3fy|1v4|a
+Fulham|AU|Victoria|8j|-2xu|bca|a
+Aktachy|UA||9t|3gc|2lq|a|Furmanivka;Aqtačy
+Funäsdalen|SE||9w|4tr|yu|a|Bienjedaelie
+Fuentelapeña|ES||9d|36l|-ey|9
+Furci|IT||9o|38p|14j|9
+Funtana|HR||a6|3hh|11t|9|Funtane
+Fundición|MX||37|23x|-8gu|9
+Fughiu|RO||8u|3mq|1p9|9
+Hutami|JP||7q|238|az0|9|Futami
+Futani|IT||9o|33j|16k|9
+Fundeanu|RO||8u|3jr|251|9
+Funkstown|US||48|321|-5zu|9|Funks Town
+Fünfing bei Sankt Ruprecht an der Raab|AT||a2|3my|17i|9
+Fuenteguinaldo|ES||9d|34b|-ik|9
+Furești|RO||8u|3gt|1xr|8
+Fülöpháza|HU||8v|3m8|1hy|8
+Fundenii Noi|RO||8u|3im|24j|8
+Furore|IT||9o|34u|14f|8
+Saint-Étienne-de-Fursac|FR||9k|3k6|47|8|Sent Estefe de Furçac;Furçac
+Fuente-Tójar|ES||9d|2w7|-bj|8
+Furnicoși|RO||8u|3he|1xg|8
+Fuzuli|AZ|Şǝmkir|61|35e|3k5|8
+Fundeni|RO|Prahova|8u|3hc|20a|8
+Saint-Pierre-de-Fursac|FR||9k|3k7|47|8|Sent Peir de Furçac;Furçac
+Fultonville|US||48|3bb|-5ql|8
+Fuentes de Nava|ES||9d|38w|-da|8
+Fusi|WS||aj|-12l|-d8q|8
+Fuendejalón|ES||9d|380|-43|8
+Fuenterrobles|ES||9d|31y|-3r|7
+Fuente del Arco|ES||9d|2xz|-ge|7
+Fügenberg|AT||a2|3nj|ww|7
+Fundătura|RO|Cluj County|8u|3mg|1u2|7
+Fundu Herții|RO||8u|3pn|213|7|Fundu Herţa
+Fumo|IT||9o|3h2|pf|7
+Furuvik|SE||9w|4oh|1c5|7
+Fuerte de Anaya|MX||41|1ke|-7hd|7
+Nikitsch|AT||a2|3o2|1aa|7|Filež;Füles
+Futiga|AS||b9|-13v|-d6b|7
+Fuentespina|ES||9d|37n|-a8|7
+Fundoaia|RO|Harghita County|8u|3m9|1yr|7|Fundoja
+Fulford|GB||9b|432|-5r|7
+Fundătura|RO|Vaslui County|8u|3lp|24h|6
+Fuerte Viejo|MX||41|1nx|-7ti|6
+Fusea|RO||8u|3g2|1yx|6
+Fundoaia|RO|Bacău County|8u|3kn|23k|6
+Fumal|BE||8t|3wj|ee|6
+Furduești|RO||8u|3g8|1xr|6|Fundueşti
+Fužine|HR||a6|3hv|14w|6|Fusine
+Furna|CV||84|15d|-1wk|6|Furno
+Fusine|IT||9o|3k7|r3|6
+Fuentes de Ropel|ES||9d|38o|-ff|6
+Fúquene|CO||27|f0|-5p0|6
+Fuentes Claras|ES||9d|35i|-3o|6
+Furneux Pelham|GB||9b|409|8|6
+Fullerton Cove|AU||8l|-2j8|bps|6
+Fundătura|RO|Vaslui County|8u|3m0|25u|5
+Fulton|US|California|3p|2yy|-9h1|5
+Fuentes del Sol|MX||58|2i3|-914|5
+Fundu Tutovei|RO||8u|3lq|23j|5|Fundul-Tutovei
+Fundres|IT||9o|3m9|wj|5
+Pucheni|RO|Dâmbovița County|8u|3hn|1yn|5|Fucheni
+Fulstow|GB||9b|44i|0|5
+Furnicari|RO||8u|3l7|230|5
+Fuentes|ES||9d|331|-5m|5

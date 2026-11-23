@@ -1,0 +1,7 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Willoughby|US||48|37o|-6a5|6a|Vilobi
+Vilonia|US||2f|2pg|-745|18|Vilsonia
+Viloco|BO||3n|-1b3|-57n|j
+Vilovatovo|RU||9i|4c1|3lg|d
+Vilovo|RS||8q|3hp|1k0|b|Vilova
+Valoria la Buena|ES||9d|384|-cl|7|Valoria la Bueno;Viloria la Buena

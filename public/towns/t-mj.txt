@@ -1,0 +1,23 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Myeik|MM||7y|yk|7lw|1c5|Mergui;Mjeikas;Mjeika;Mjejk;Merguj
+Myingyan|MM||7y|1nm|7cz|13d|Mjindžanas;Mjindžana;Myringyan;Myingan
+Myitkyina|MM||7y|1yi|7ik|p9|Mjičina;Mitkina;Myitkyin
+Megion|RU||7z|4pj|5vf|dj|Miegion;Meguion;Meqion;Mjegion
+Merseburg|DE||8r|3yn|xb|9o|Mersebourg;Mjezybor
+Menen|BE||8t|3x4|8o|8v|Menin;Mjeenn;Mêenn;Meenen
+Mednogorsk|RU||7z|3yt|4fz|8j|Mednoqorsk;Mjednogorsk;Miednogorsk
+Melenki|RU||9i|49q|37n|4f|Mjelenki;Melenkad;Mielenki
+Mjölby|SE||9w|4i1|160|3l|Miolbis
+Miastko|PL||a5|460|1b6|32|Miásztkó;Mjastko
+River Rouge|US||2q|39f|-6ex|23|Rouge River;Mji wa Mto Rouge
+Miasteczko Śląskie|PL||a5|3wa|1gm|1y|Mjastečko Slonske
+Myurego|RU||9i|39t|3oh|19|Mjurego;Myuregi
+Meshchovsk|RU||9i|46w|2q0|18|Mesjtsjovsk;Meschtschowsk;Mechtchovsk;Meščovsk;Meštšovsk;Mješćowsk;Mieszczowsk;Meshovsk
+Mjimandra|KM||ac|-xv|3f9|v|M’Jimanda
+Myaundzha|RU||6z|4v4|bcu|k|Mjaundzja;Mjaundscha;Mjaundža;Mâunca;Miaundża;Mjaoendzja;Miàundja
+Myatlevo|RU||9i|48i|2r4|k|Mjatlevo;Mjatlewo
+Mjamaoué|KM||ac|-xv|3f3|f|Jamaué
+Mjällby|SE|Blekinge|9w|4bp|14s|d|Mjelbiu
+Mjällby|SE|Halland|9w|4dg|zh|d
+Myaksa|RU||9i|4jl|2y3|b|Mjaksa

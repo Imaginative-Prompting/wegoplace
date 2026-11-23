@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Anshan|CN||7i|368|9hn|pnq|Ansjan;Anxan;An-šan;Anŝano;Anšanas;An Sơn;Ăng-săng;An-san-chhī
+Anxiang|CN||7i|2ym|8u6|an
+Lanciano|IT||9o|39b|13z|9o|Anxanum
+Anxi|CN||7i|2a4|86k|1p

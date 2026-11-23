@@ -1,0 +1,302 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Stockholm|SE||9w|4kt|1e7|bou|Estocolmo;Stokholmo;Štokholm;Estocolm;Sztokhòlm;Estokolmo;Tukholma;Stokkhólmur;Stoccolma;Holmia;Stokholmas;Stokholma;Stokholmi;Stokgolm;Stócólm;Estocòlme;Stokolm;Stockholbma;Stoccholm;Stocólma;Stokkolma;Stuculma;Estocolmu;Stuokhuolms;Estokolma;Stockolm
+Jayapura|ID||6m|-71|auw|365|Hollandia;Port Numbay;Djajapoera;Džajapura;Jaya Pura;Noordwijk;Djajapura
+Holguín|CU||36|1m1|-5vu|2gn|Holginas;Holgun;Holquin
+Velikiy Novgorod|RU||9i|4ik|2ev|1px|Novgorod;Weliki Nowgorod;Veliki Nóvgorod;Velikij Novgorod;Novogardia Magna;Naugard;Nowogród Wielki;Veliky Novgorod;Naugardas;Hólmgarður;Šuuri Novgorodi;Nowgorod
+H̱olon|IL||6n|2gx|2om|1ha|Jolón
+Hollywood|US|California|3p|2mq|-94p|1al|Holivudo;Holivudas;Holivuda;Ruscisilva;Hollivud;Huolėvods;Gollivud;Tinseltown
+Hollywood|US|Florida|48|209|-66n|15l
+Holosiyiv|UA||98|3vu|2cv|ha|Holosiiv;Holosiivskyi Rayon;Holosiivskyi District;Holoszijivszkij kerület
+Holloway|GB||9b|3z7|-c|bh
+Holyoke|US|Massachusetts|48|398|-5lq|bb
+Holešovice|CZ||9m|3v6|145|ah
+Hollister|US|California|3p|2ud|-9d8|af
+Holland|US|Michigan|2q|3av|-6n7|9d|Misi-páwastik
+Holstebro|DK||8y|4ck|ny|8x
+Holly Springs|US|North Carolina|48|2r1|-62z|8q
+Holladay|US||2p|34z|-8mm|8l
+Cholargós|GR||8p|2xk|1u4|8k|Holargos;Kholargós
+Holenarasipura|IN||6t|zj|5vs|8c|Hole Narsipur
+Holbæk|DK||8y|4as|wj|88|Holbekas;Hollbæk
+Holmesburg|US||48|338|-5sf|7s
+Holbrook|US|New York|48|35d|-5n0|7k
+Holubivka|UA|Luhansk|98|3r4|2zc|7f|Kirovsk;Kirovs’k;Kirowsk;Golubovka
+Holt|US|Michigan|2q|3ag|-6is|6o
+Hollola|FI||92|4pg|1yu|6c
+Holiday|US||48|26b|-6du|68
+Holzminden|DE||8r|3zz|q9|5u|Holtisminni;Holtsminne
+Hola|KE||16|-44|337|5t|Galole
+Hollis|US|New York|48|353|-5ox|5n
+Holtsville|US||48|35e|-5mx|5h
+Holzwickede|DE||8r|3z2|l7|4y
+Kholmskiy|RU||9i|3gl|2yn|4v|Cholmskaja;Xolmskaya;Jolmskaya;Kholmskaia;Holmskaja;Kholmskaya
+Holden|US|Massachusetts|48|39n|-5jm|4q
+Holzkirchen|DE|Bavaria|8r|3p0|wi|4o|Hoizkiacha
+Holalkere|IN||6t|130|5vm|4e
+Holambra|BR||4w|-1qv|-3mq|47
+Hollogne-aux-Pierres|BE||8t|3wo|f7|45
+Höllviken|SE||9w|49x|100|45
+Hollins|US|Virginia|48|2vq|-662|43
+Holliston|US||48|398|-5ie|3w
+Hola Prystan|UA||98|3l9|2ic|3r
+Holywood|GB||9b|47s|-g6|3n|Ard Mhic Nasca
+Holborn|GB||9b|3z4|-c|3m|Holburnia
+Holiday City-Berkeley|US||48|330|-5qc|3k
+Hollinwood|GB||9b|44o|-5x|3f
+Holland Drive|SG||7j|3n|80b|3c
+Holboca|RO||8u|3mz|24y|3c
+Holly Hill|US|Florida|48|298|-694|3b
+Holzgerlingen|DE||8r|3r4|p1|38
+Holešov|CZ||9m|3t1|1cu|37
+Holyhead|GB||9b|443|-cv|36|Caergybi;Holihedas
+Holíč|SK||8s|3rl|1bo|32
+Holland Village|SG||7j|3n|80b|30
+Holbrook|US|Massachusetts|48|394|-5h9|30
+Holly Springs|US|Georgia|48|2mx|-6iq|2z|Hollysprings
+Holywell|GB|England|9b|3zh|-17|2r
+Holmen|US||2f|3e4|-71i|2p
+Holma|NG||u|ri|109|2k
+Holsbeek|BE||8t|3xg|d8|2j
+Holzen|DE|North Rhine-Westphalia|8r|3yw|kx|2g
+Halen|BE||8t|3xj|e7|2d|Hôle;Haelen
+Hōlualoa|US||ax|1ii|-c17|2d
+Holmwood|CA||4q|40s|-87y|2d
+Holland Park|AU||8c|-24g|bt7|28
+Holbeach|GB||9b|42o|1|27|Holbičas
+Holly Springs|US|Mississippi|2f|2f0|-6xy|27
+Hollerich|LU||9c|3ts|gz|26|Hollerech
+Hollis|US|New Hampshire|48|3aq|-5iv|25
+Hollymead|US||48|2xw|-61w|25
+Holly Springs|US|Mississippi|2f|2ol|-6wh|24
+Holle|DE||8r|40p|s8|21
+Holywell|GB|Wales|9b|43z|-8z|1y|Treffynnon;Holivelis
+Hollabrunn|AT||a2|3qv|18o|1x
+Holmivskyi|UA||98|3qg|2xs|1w|Gol'movskiy;Hol’mivs’kyy
+Holdorf|DE||8r|422|ml|1u
+Holtville|US|California|3p|2j5|-8wi|1s
+Holland Park West|AU||8c|-24h|bt6|1r
+Holice|CZ||9m|3v3|18f|1q
+Holly|US|Michigan|2q|3av|-6gb|1q
+Holmestrand|NO||9j|4l9|so|1p
+Holmsund|SE||9w|4wz|1kk|1o
+Holovanivsk|UA|Kirovohrad|98|3qf|2cm|1n|Hołowaniewskie
+Halor|IR||7o|22x|4bs|1m|Holor
+Hollidaysburg|US||48|34b|-61r|1m|Holidaysburg
+Holsworthy|AU||8l|-2me|bnd|1m
+Holdenville|US||2f|2pg|-7fs|1m
+Holmes Chapel|GB||9b|43s|-6k|1k|Holms Čapel
+Holdrege|US||2f|34c|-7o1|1k|Holdredge
+Holbeck|GB||9b|45e|-4d|1j
+Sisimiut|GL||4e|55y|-453|1g|Holsteinsborg;Holstānburg;Holsteinborg;Holstenborg;Holstensborg
+Hollfeld|DE||8r|3uq|vd|1g
+Hollick-Kenyon|CA||2s|44y|-8r2|1g
+Holytown|GB||9b|4b2|-b1|1f
+Holbrook|US|Arizona|4i|2oy|-8i0|1e
+Hal’shany|BY||9g|46q|209|1e|Gol'shany;Alšėnai;Ol’shany;Holszany;Olshan;Haĺšany
+Yamky|UA||98|3w4|2cp|1e|Yama;Yams'ka Sloboda;Holubivka;Jamki;Jamky
+Hollywood|US|South Carolina|48|2ix|-66w|1e
+Holýšov|CZ||9m|3tr|10e|1b|Holeischen
+Hollis Center|US||48|3d5|-5g3|1a|Hollis Centre
+Hollandscheveld|NL||8m|42f|i6|1a|Holanseveldas
+Holt|AU||8l|-2pu|bhx|19
+Hollister|US|Missouri|2f|2tq|-76y|19
+Holoby|UA||98|3xx|1xh|16|Golobi;Holobi;Goloby
+Holmes Beach|US||48|24e|-6dr|16
+Holtville|US|Alabama|2f|2io|-6nt|15
+Holliston|CA||4q|40r|-887|15
+Goleszów|PL||a5|3u6|1g2|14|Holešov
+Kholm|RU|Novgorod Oblast|9i|4er|2em|14|Jolm;Xolm;Ĥolm;Chołm
+Yayladere|TR||94|30z|33b|13|Holhol;Xorxol
+Holhol|DJ||i|vf|3b9|13|Holl-Holl;Hol Holl
+Holt|GB|England|9b|42z|31|12
+Holzheim|DE|Bavaria|8r|3qr|t9|12
+Holton le Clay|GB||9b|44n|-6|11
+Holiday City South|US||48|32z|-5q8|11
+Holden Heights|US||48|276|-6a3|11
+Holt|US|Alabama|2f|2kb|-6r0|10
+Holts Summit|US||2f|2zc|-73w|10
+Holod|RO||8u|3ly|1ph|z
+Holyrood|CA|Alberta|2s|44p|-8r5|x
+Hollywood Park|US||2f|2a8|-7ll|x
+Holton|US||2f|31n|-7dy|x
+Holzweißig|DE||8r|3zc|y7|x|Holzweiddig;Holzweißlig
+Holden Hill|AU||8b|-2ot|ap7|w
+Holywell Green|GB||9b|453|-57|w
+Holovne|UA||98|3ym|1uw|w
+Kholmy|UA||98|403|2ik|v|Cholmy;H’olmy;Xolmi;Holmı
+Holm|DE||8r|44y|qv|v
+Hollenstedt|DE||8r|449|r0|v|Gemeen Hullnst
+Holloman Air Force Base|US||2p|2j9|-86q|v
+Holsted|DK||8y|4a7|os|u
+Holden|US|Maine|48|3gb|-5as|t
+Holtzheim|FR||9k|3qw|l8|t
+Hout-Blerick|NL||8m|3yo|h1|t|Holtblerick;Houtblerik
+Holiday Shores|US||2f|304|-6xu|t
+Hollywell|AU||8c|-25i|bu4|s
+Holubyne|UA||98|3qx|1rt|s|Galambos
+Holly Lake Ranch|US||2f|2iv|-7cg|s
+Hollihaka|FI||92|50l|1yq|r
+Holsworthy|GB||9b|3x5|-c3|q
+Kholodna Balka|UA||98|3lh|2cy|q|Holodna Balka;Chołodna Bałka;Jolodna Balka
+Hollandale|US||2f|2k5|-70d|p
+Holder|AU||8l|-2q5|bi1|p
+Holly Hills|US||2p|327|-83g|p
+Holyrood|CA|Newfoundland and Labrador|50|3nm|-43l|p
+Hollingworth|GB||9b|44i|-5j|o
+Holz|NL||8m|3xa|gv|o
+Holloways Beach|AU||8c|-1as|b8u|o
+Holiday Island|US||2f|2td|-78d|o
+Hollenbach|DE||8r|3qo|ur|o
+Holmview|AU||8c|-250|bth|n
+Holvasti|FI||92|4qs|1uh|n
+Holtze|AU||8e|-yl|a3x|n
+Holzhausen|DE||8r|3wy|mm|n
+Holden|US|Missouri|2f|2zj|-793|n
+Holyoke|US|Colorado|2p|34q|-7w6|n
+Hölstein|CH||a7|3nq|ll|m|Hėlšteinas
+Holtland|DE||8r|440|l2|m
+Holovkivka|UA||98|3qy|2jv|m|Holowkiwka;Golovkovka
+Holubice|CZ|Central Bohemia|9m|3vg|13p|m
+Holzmaden|DE||8r|3r3|qg|m
+Holcomb|US|Kansas|2f|2xj|-7sj|m
+Holice|SK||8s|3pb|1ck|m
+Vineyard Haven|US||48|375|-5g4|l|Holmes Hole;Homes Hole
+Holiday Heights|US||48|32z|-5q9|l
+Holly Ridge|US||48|2nu|-5zf|l
+Holderness|US||48|3dh|-5iv|l|Holdernes
+Holcá|MX|Yucatán|3z|1lo|-6v1|k
+Holmfirth|GB||9b|44t|-4z|k
+Holzdorf|DE|Thuringia|8r|3xi|vc|k
+Hollis|US|Oklahoma|2f|2od|-7pj|k
+Holtgast|DE||8r|44z|l2|i
+Holovyne|UA||98|3w7|283|i|Holowyne;Holovine;Golovıne;Hołowin;Golovino;Golovin
+Holt|GB|England|9b|3yo|-64|i
+Holzheim|DE|Bavaria|8r|3qe|s2|h
+Holleben|DE||8r|3yw|x2|h
+Holley|US|New York|48|3c3|-60r|h
+Hollins Market|US||48|315|-5wv|h
+Holliday|US||2f|2ly|-7m6|h
+Holland|US|Ohio|48|37m|-6gj|h
+Holbrook|AU||8l|-2r8|bd8|h
+Hollstadt|DE||8r|3vv|sm|h
+Holiday Park|CA||4q|40r|-88e|h
+Holwert|NL||8m|449|ge|g
+Holma|UA||98|3p5|2ax|g
+Holley|US|Florida|2f|2cl|-6pf|g
+Holubivka|UA|Luhansk|98|3qf|2z0|g|Komisarivka;Komissarovka
+Holiday Valley|US||48|32q|-6h9|f
+Holbav|RO||8u|3iu|1yj|f
+Holytsya|UA||98|3j3|28j|f|Golița;Holytsia
+Holthausen|DE|North Rhine-Westphalia|8r|3z9|ko|f
+Isla Holbox|MX||2b|1ns|-6qq|f|Holbox
+Hölö|SE|Stockholm|9w|4jy|1cp|f
+Holland|US|Massachusetts|48|38u|-5kg|f
+Holoubkov|CZ||9m|3ua|121|f|Holoubkau
+Kholodne|UA||98|3pf|2xq|e|Sverdlove;Sverdlovo;Cholodne;Holodne
+Holasice|CZ||9m|3sc|1a5|e
+Holstein|US||2f|3a1|-7de|e
+Holasovice|CZ||9m|3uw|1dh|e
+Holcomb|US|New York|48|3b6|-5z2|e
+Holeby|DK||8y|47z|vu|e
+Holetown|BB||22|10n|-4lo|e|Holltaun;Holtaun
+Holnon|FR||9k|3ui|8y|d
+Holtsee|DE||8r|474|re|d
+Holmesville|AU||8l|-2jg|bp2|d
+Hollandsche Rading|NL||8m|40y|ee|d
+Holzdorf|DE|Saxony-Anhalt|8r|3zu|10h|d
+Hollum|NL||8m|44g|fo|d|Holiumas
+Holiatyn|UA||98|3r4|1t3|d|Holyatyn;Golyatyn;Golyatin
+Holzhausen an der Haide|DE||8r|3vi|lz|d
+Holroyd|AU||8l|-2lz|bng|d
+Hollain|BE||8t|3we|9j|d
+Holt|RO||8u|3le|22x|c
+Holly Hill|US|South Carolina|48|2kk|-67d|c
+Holland|US|New York|48|3ag|-626|c
+Hölö|SE|Stockholm|9w|4ko|1fv|c
+Holler|DE||8r|3w2|lr|c
+Holtum|NL||8m|3xt|g6|c
+Holzgünz|DE||8r|3pf|si|c
+Holiday Lakes|US||2f|295|-7dc|c
+Novofastiv|UA||98|3tq|29t|c|Novyy Fastiv;Nowochwastów;Hołochwastów;Hołochwasty
+Holland|US|Texas|2f|2ds|-7ik|b
+Holtzwihr|FR||9k|3pn|km|b|Holzweier
+Holving|FR||9k|3s5|jd|b
+Holzappel|DE||8r|3vv|ly|b
+Holgate|US||48|36l|-6hp|b
+Holmwood|GB||9b|3y6|-w|b
+Holbrook|GB||9b|40e|38|b
+Hollingstedt|DE||8r|47a|py|a
+Holzheim bei Oder|DE||8r|3sv|xt|a
+Holbeach Clough|GB||9b|42q|-1|a|Holbeach Plough
+Hollywood|US|Alabama|2f|2og|-6mt|a
+Holwierde|NL||8m|448|j3|a|Holwierda
+Holzdorf|DE|Schleswig-Holstein|8r|47j|ri|a
+Holungen|DE||8r|3z1|sv|a
+Holubov|CZ||9m|3rt|13s|a
+Holcombe|GB||9b|3yd|-6v|9
+Holda|RO||8u|3na|1zc|9
+Holgate|AU||8l|-2ks|bom|9
+Hollywood|US|Alabama|2f|2kz|-6p2|9
+Hollnseth|DE||8r|44u|pa|9
+Holzkirchen|DE|Bavaria|8r|3ua|qw|9
+Holque|FR||9k|3x9|64|9
+Holzheim|DE|Rheinland-Pfalz|8r|3vv|md|9
+Hollange|BE||8t|3un|ft|9
+Holden|US|West Virginia|48|2x2|-6by|9
+Holldorf|DE||8r|44j|10v|9
+Holthusen|DE||8r|44q|vj|9
+Hollen|DE||8r|44e|o6|9
+Holovach|UA||98|3tf|2o4|9|Golovach
+Holohlavy|CZ||9m|3vr|182|8|Holohlau
+Holubice|CZ|South Moravian|9m|3sm|1ap|8|Holubitz
+Hollogne-sur-Geer|BE||8t|3ws|eg|8
+Holly Pond|US||2f|2mx|-6om|8|Hollypond
+Hollow Creek|US||3k|2xz|-6lu|8
+Holovanivsk|UA|Kirovohrad|98|3qc|2cf|8
+Holsbybrunn|SE||9w|4fj|168|8
+Holguera|ES||9d|32u|-hn|8
+Newcastleton|GB||9b|49a|-7t|8|Copshaw Holm;Baile a' Chaisteil Nuadh;Copshie;Holm
+Holdenstedt|DE||8r|3z0|vt|8
+Holm|SE||9w|4dm|zp|8
+Holly|US|Colorado|2p|2xp|-7vo|8
+Holmesfield|GB||9b|442|-48|8
+Holzbronn|DE||8r|3r6|oa|8
+Holzem|LU||9c|3tu|gn|7
+Holčovice|CZ||9m|3vc|1cl|7
+Holycross|IE||8z|428|-lu|7|Mainistir na Croiche
+Holdingford|US||2f|3j1|-7af|7|Holding's Ford
+Hollow Rock|US||2f|2s4|-6t7|7
+Holderbank|CH||a7|3nh|lj|7
+Hollister|US|North Carolina|48|2sq|-60i|7
+Holzen|DE|Lower Saxony|8r|409|qv|7
+Holzhausen|AT||a2|3py|136|7
+Hollebeke|BE||8t|3x5|86|7
+Holoborodka|UA||98|3vl|2ii|7|Holoborod’ka
+Holoborodkivske|UA||98|3th|2ph|7|Holoborod’kivs’ke;Galoborod’novskoye
+Holthausen|DE|North Rhine-Westphalia|8r|3zb|j6|6
+Holme|GB||9b|41s|-p|6
+Holden Beach|US||48|2m7|-61i|6
+Holme|NO||9j|4lp|ec|6
+Holland|US|Indiana|3e|2y9|-6ps|6
+Holactun|MX||3z|1m0|-6w5|6
+Holland|US|Vermont|48|3gx|-5k0|6
+Hollis Crossroads|US||2f|2l4|-6lw|6
+Holcomb|US|Missouri|2f|2t4|-6y2|6|Halcomb
+Holcomb|US|Mississippi|2f|2ls|-6xy|6
+Holiday Hills|US||2f|39h|-6t2|6
+Hollesley|GB||9b|40l|3z|6
+Holmbury St Mary|GB||9b|3y7|-15|6
+Hollenstein an der Ybbs|AT||a2|3os|151|6
+Holcá|MX|Yucatán|3z|1ml|-6t7|6
+Hollyvilla|US||3k|2xt|-6m7|6
+Holland|US|Arkansas|2f|2pp|-74b|5
+Holly Grove|US||2f|2o4|-71c|5|Hollygrove
+Hollins|US|Alabama|2f|2k0|-6na|5
+Holsthum|DE||8r|3ul|ht|5
+Holdița|RO||8u|3na|1ze|5
+Holín|CZ||9m|3w5|16k|5
+Hollenfels|LU||9c|3u3|gt|5|Huelmes
+Guri i Bardhë|AL||9y|359|1j5|5|Hallaxhia;Hollaxhia;Hollaxhi;Gur i Bardhë
+Holzbach|DE||8r|3ur|kx|5
+Holonga|TO||bi|-1mv|-dii|5
+Holiday Beach|US||2f|269|-7hh|5

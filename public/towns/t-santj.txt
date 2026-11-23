@@ -1,0 +1,48 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Santiago|CL||4u|-2ky|-5g9|11bp|Sanctiacobi;Čilės Santjagas;Santjago
+Santiago de Querétaro|MX||41|1l7|-7qv|cau|Santjago de Keretaras;Santiago Tlachco;Santiagu di Querétaro;Queretarum;Querétaro City;Keretaro;Querétaro
+Santiago de los Caballeros|DO||4v|1i1|-5gd|99c|Santjago de los Kabaljerosas;Santiago
+Santiago del Estero|AR||1n|-258|-4yi|1y2|Santjago del Esteras;Sanctus Iacobus ad Uligines
+Santiago de Compostela|ES||9d|3b4|-nr|rn|Saint-Jacques-de-Compostelle;Compostelako Donejakue;Santiago di Compostela;Compostella;Santiaqo de Kompostela;Santiagu de Compostela;Santiago de Kompostela;Santiago de Compostella;Santjago de Kompostela;Compostèla;Sint-Djåke-el-Galice
+Saint John’s|AG||1j|1bk|-4rs|ed|St. John's;St Johns;Sent Džonsas;St.John.s;St John's;Sen Jaan;San Xuan;Sent Cons;Sankta Johano;Sant-Johns;Sen Jòns;San Gioàn;Saint John
+Santiago de Veraguas|PA||4g|mi|-68y|cm|Santiago;Veragvaso Santjagas;Santjago de Veragvasa;Santiago Veraguas
+Sant Joan Despí|ES||9d|36x|5q|8w
+Sant Joan d'Alacant|ES||9d|2yo|-18|63|San Juan de Alicante
+Sant Just Desvern|ES||9d|36y|5r|4e
+Saint-Jean-de-Luz|FR||9k|3cj|-4m|41|San Juan de Luz;Donibane Lohizune;Sant Chuan de Luz;Sent Joan de Lus;Sant Joan Lohitzune;Fanum Sancti Ioannis de Luce;San Juan de Luze
+Sant Joan de Vilatorrada|ES||9d|37z|50|30|San Joan de Vilatorrada
+Saint-Jean-de-Védas|FR||9k|3d2|an|2j|Sant Joan de Vedats
+Saint-Jacques-de-la-Lande|FR||9k|3pi|-4s|2d|Sant-Jakez-Al-Lann;Sanctus Iacobus de Landis
+Sant Julià de Lòria|AD||8n|39y|45|28|San Julià
+Saint-Julien-de-Concelles|FR||9k|3n9|-3v|1w|Sant-Juluan-Kankell;Sanctus Iulianus de Concellis
+Sant Joan de Labritja|ES||9d|30k|47|1c|San Juan Bautista
+Saint-Gilles|FR|Brittany|9k|3pr|-53|12|Sant-Jili-Roazhon
+Sant Joan de les Abadesses|ES||9d|39b|6d|10
+Saint-Jean-en-Royans|FR||9k|3h2|ep|v|Sant Joan de Roians
+Saint-Jean-du-Gard|FR||9k|3ej|at|t|Sent Jan de Gardonenca;Sant Joan de Gardonenca
+Saint-Just|FR|Occitanie|9k|3da|bf|s|Sant Just
+Sant Joan les Fonts|ES||9d|399|6z|q
+Sant Jordi|ES|Balearic Islands|9d|31w|7q|q
+Sant Josep de sa Talaia|ES||9d|304|3l|n|San Jose de la Atalaya;San Jose
+Saint-Jean-Cap-Ferrat|FR||9k|3dd|kd|l|Sant Joan de Cap Ferrat
+Saint-Germain-en-Coglès|FR||9k|3qh|-3i|k|Sant-Jermen-Gougleiz
+San Juan de Moró|ES||9d|33a|-e|j|Sant Joan de Moro
+Sant Joan de Mediona|ES||9d|378|4h|j
+St. Jean-Pla-de-Corts|FR||9k|3a3|7r|j|Sant Joan;Saint-Jean-Pla-de-Corts;Sant Joan de Pladecorts;Sant Joan de Pagès
+Saint-Julien-Chapteuil|FR||9k|3h3|ba|j|Sant Julian e Chaptuèlh
+Saint-Julien|FR|Brittany|9k|3ql|-7t|j|Sant-Juluan-Pentevr
+Saint-Georges-de-Reintembault|FR||9k|3qr|-3g|i|Sant-Jord-Restembaod;Sanctus Georgius Renistembaldi
+Saint-Jean-Pied-de-Port|FR||9k|3bw|-3g|i|Donibane-Garazi;San Juan Pie de Puerto;Fanum Sancti Ioannis Pedeportuensis;Sant Joan de Peu de Port;Donibane Garazi;Sent Joan Pè de Pòrt;Sant Chuan Piet de Puerto
+Sant Julià de Cerdanyola|ES||9d|39a|59|c
+Saint-Julien-Molin-Molette|FR||9k|3hw|cu|c|Sant Julian de Moleta
+Sainte-Geneviève-sur-Argence|FR||9k|3gg|7o|a|Sent Jurvèva;Sant Jurvèva
+Saint-Gérand|FR||9k|3pn|-81|a|Sant-Jelan
+Saint-Julien-de-Vouvantes|FR||9k|3oc|-3g|9|Sant-Juluan-Gouwent;Sanctus Iulianus de Voantis
+Saint-Jean|FR|Provence-Alpes-Côte d'Azur|9k|3g3|ha|9|Sant Joan e Montorsièr;Sant Joan Sant Nicolau
+Châtillon-Saint-Jean|FR||9k|3h9|e9|9|Sant Jan dOctavion
+Saint-Germain-sur-Ille|FR||9k|3q1|-4m|8|Sant-Jermen-an-Il
+Sant Jaume de Llierca|ES||9d|39a|7a|7
+Saint-Germain-du-Pinel|FR||9k|3pd|-39|7|Sant-Jermen-ar-Bineg
+Sant Jordi|ES|Valencia|9d|34j|x|6|San Jorge
+Saint-Jean-Lasseille|FR||9k|3aa|7z|6|Sant Joan la Cella
+Saint-Jean-Saverne|FR||9k|3rh|kg|6|Sankt Johann bei Zabern;Sànt Johànn

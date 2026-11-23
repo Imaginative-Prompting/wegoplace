@@ -1,0 +1,19 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+Maoming|CN||7i|1o7|8k3|a3a|Mao-ming;Meu-miàng-sṳ;Mậu Danh;Bō͘-bêng-chhī;Chaozhou;Mâiu-mìng
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Zhaotong|CN||7i|23w|804|62u|Čao-tchung;Chiêu Thông;Ciĕu-tŭng;Chiau-thong-chhī;Chao-t’ung
+Chaoyang|CN|Liaoning|7i|37h|9am|35w|Chaiyang
+Chaohu|CN||7i|2fs|93f|12h|Sào Hồ
+Zhaoyuan|CN|Shandong|7i|2vs|9ah|xc|Chao-yüan
+Zhaozhou|CN||7i|3iz|9nz|vo|Chao-chou
+Zhaoyuan|CN|Heilongjiang|7i|3ig|9ng|pz|Chao-yüan
+Chaoyang|CN|Jilin|7i|3ai|9q3|kx
+Chaozhou|TW||7l|1qn|9au|et|Chaojhou;Ch’ao-chou;Chaochou
+Chaotian|CN||7i|2io|865|86|Ch’ao-t’ien;Ch’ao-t’ien-i
+Chaoyang|CN|Chongqing|7i|2f9|8ex|3r
+Chão Bom|CV||84|16e|-1ty|1d
+Chão de Matias|CV||84|1ak|-1rq|1a|Chã de Matias
+Chaource|FR||9k|3pi|bi|b|Caduscia
+Chaourse|FR||9k|3u2|b4|5

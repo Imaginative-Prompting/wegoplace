@@ -1,0 +1,758 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ürümqi|CN||7t|3do|6rc|va4|Urumchi;Urumtschi;Urumĉio;Urumczi;Urumči;Ürümcsi;Urumčis;Ürümchi-sṳ;Öremçe;Dihua;Oʻrumchi;Urunchi;Dikhua;Wurumch’ih;Urumptsi;Urumtsi;Urumutsi;Ti-hua
+Ordos|CN||7i|321|8gy|gm8|Erdos
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Oran|DZ||3|2r6|-1s|675|Orà;Waradinne;Wehran;Wahrān
+Cagayan de Oro|PH||71|nk|9m9|5q0|Kagajan de Oras
+Orūmīyeh|IR||7o|2wb|3h8|4gd|Urmía;Urmiya;Ûrmiye;Ourmia;Urmija;Urūmiyeh;Orumieh
+Orenburg|RU||7z|3zt|492|4cw|Orenbourg;Oremburgo;Orenburq
+East London|ZA||o|-2jq|25j|3oz|KuGompo City;Yst Londonas;Buffalo City;Orient-Londono;Londinium Orientale;Tûng Lùn-tûn;EMonti
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+Tapachula de Córdova y Ordóñez|MX||3z|15f|-74a|2q9|Tapachula
+Orlando|US||48|27a|-6a2|2l1|Orlandas
+Oral|KZ||77|3yd|3yv|2jo|Ural’sk;Uralsk;Oural;Oʻral
+Orël|RU||9i|435|2s8|2cd|Orjol;Orzeł;Oryol;Oriolas;Oriol
+Århus|DK||8y|4c0|sd|279|Arhuzo;Orhūsa;Árósar
+Orsk|RU||7z|3yb|4ih|1wk
+Ormoc|PH||71|ul|9m5|1u9|Oromoc
+Ordu|TR||94|35u|2x9|1ro|Cotyora
+Oruro|BO||3n|-1dx|-56d|1lz|Ururu;Oruras;Uru Uru;Gruro
+Ahmadpur East|PK||6q|28y|5hy|1in|Ahmedpur East;Ahmedpur Sharqia;Timur Ahmedpur;Orienta Ahmedpur;Ahmedpur Śarki
+Oradea|RO||8u|3mp|1ow|1ev|Velký Varadín;Nagyvárad;Varadinum;Oradä;Großwardein;Oradia;Oradja;Veliki Varadin;Wardein;Várad;Varadija;Varat;Gran Varadino;Groysvardeyn
+Ila Orangun|NG||u|ma|dm|1ds
+Orai|IN||6t|207|64p|17z
+Örebro|SE||9w|4kn|169|17c|Erebru
+Orekhovo-Borisovo|RU||9i|4ah|2wt|140
+Orange|US|California|3p|2lv|-93d|136
+Orekhovo-Borisovo Severnoye|RU||9i|4ai|2wo|zk
+East Los Angeles|US||3p|2mi|-949|z5|Este de Los Ángeles;Orienta Losanĝeleso;Doğu Los Angeles
+Orléans|CA||59|3ia|-5tq|yz
+Orizaba|MX|Veracruz|41|1gd|-7hq|y8
+Livoberezhnyi|UA||98|3mv|2wk|xy|Ordzhonikidzevskyi rayon;Ordzhonikidzevskyi
+Orekhovo-Zuyevo|RU||9i|4b1|30b|xc|Orechowo-Sujewo;Oreĥovo-Zujevo;Orekhovo-Zouïevo;Orehhovo-Zujevo;Oriechowo-Zujewo;Oréjovo-Zúyevo;Orechovo-Zuevo;Orechovo-Zoejevo;Orekhovo-Zujevo;Orehovozujeva;Orechovas-Zujevas;Orehovo-Zuevo;Orexovo-Zuyevo;Orechovo-Zujevo;Orehovo-Zuyevo;Orjechowo Sujewo;Orekhovo-Zuevo
+Orléans|FR||9k|3p2|5a|wb|Orleano;Aurelianum;Orlean;Orleães;Orliens;Orleāna;Orleanas
+Esuk Oron|NG||u|dc|mx|v4
+Orkney|ZA||o|-22y|223|ul
+Ourense|ES||9d|39m|-lu|t8|Orense;Orenso
+Orsha|BY||9g|47f|2cg|s9|Orŝa;Vorsja;Orsza;Orscha
+Orihuela|ES||9d|2xs|-2m|s5|Oriola;Aurariola;Auraiola;Oriuela
+Orem|US||2p|33y|-8m9|q9|Tsétis Deezlíní Biyáázh
+Ŏrang|KP||7a|375|a06|oe
+San Ramón de la Nueva Orán|AR||1s|-1sa|-4yo|o5|Orán
+Ouro Preto|BR||4w|-1kn|-3cv|ln|Oro Pretas
+Oriximiná|BR||4t|-4x|-4b7|kk
+Sunzha|RU|Ingushetiya Republic|9i|3cc|3h5|jy|Sleptsovskaya;Ordzhonikidzevskaya;Ordzjonikidzevskaja;Sunža;Sunzja;Slepzowskaja;Sunscha;Sunschenskaja;Sunzhenskaya;Sounja;Sunja;Sipso-Ġala;Slyeptsovskaya;Ordzhonikidzevskoye
+Oroquieta|PH||71|nl|9jw|ju|Oroguieta
+Orita-Eruwa|NG||u|l0|9k|jq|Orita Eruwa
+Orion|PH||71|14m|9ay|hi
+Oroqen Zizhiqi|CN||7i|3wh|9jo|h4|Alihe;A-li-ho
+Orland Park|US||2f|37n|-6s1|ga
+Lorient|FR||9k|3on|-9d|g5|An Oriant;Lorjanas;Oriens
+Orito|CO||27|1v|-5xj|g2
+Orhangazi|TR|Bursa Province|94|34h|29f|ee
+East Honolulu|US||ax|1n5|-c64|dv|Orienta Honoluluo
+Ruzayevka|RU||9i|466|3gv|dp|Ruzajevka;Orozay;Ruzaevka;Rusaevka
+East Lansing|US||2q|3aq|-6io|dh|Orienta Lansingtono;İst-Lensinq
+Oro Valley|US||4i|2hz|-8k9|cl
+Orani|PH||71|154|9au|ch
+East Boston|US||48|39q|-5hc|bz|Bostonia Orientalis;Orient-Bostono
+Arkalyk|KZ||7c|3vl|55u|bo|Arqalyk;Arqalyq;Arkalik;Orqaliq
+Orange|AU||8l|-2kg|bi6|bn|Orandža;Oranĝo;Orinc;Orains
+La Orotava|ES||83|26v|-19w|bm|Orotava;Villa de Orotava
+Or Yehuda|IL||6n|2gz|2ot|bf|Or Jehuda
+Ormond Beach|US||48|29d|-696|be
+Oranienburg|DE||8r|42j|10t|bc|Arausionis castrum
+Errenteria|ES||9d|3cb|-5a|as|Rentería;Orereta
+Orlândia|BR||4w|-1lk|-3p1|an
+Pokrov|UA||98|3od|2mr|af|Ordzhonikidze;Pokrow
+Arys|KZ||5s|39v|5b5|a3|Arıs;Oris
+Oregon City|US||3p|3i0|-9gl|9y|Thành phố Oregon
+Aurillac|FR||9k|3gt|6s|9n|Orlhac;Aureliacum
+Orange|US|New Jersey|48|359|-5q7|9l
+Irvine|GB||9b|4ai|-cy|9h|Irbhinn;Irvin;Örvin
+Orangevale|US||3p|2zg|-9cr|9g|Orange Vale
+Orodara|BF||1a|ui|-do|9a
+Örnsköldsvik|SE||9w|4vt|1g0|91|Övik;Ernšioldsvikas;Ērnšeldsvīka
+Puerto de la Cruz|ES||83|26y|-19z|8y|Puerto de la Krusas;Orotava
+Oristano|IT||9o|32u|nv|8t|Oristany;Oristanum;Aristanis
+Orosháza|HU||8v|3ld|1lf|8q|Orosházi
+Orillia|CA||59|3fx|-64m|8o
+Ortaköy|TR|Aksaray|94|2zm|2mk|8n
+Orangeville|CA||59|3e0|-66i|8j
+Orange|FR||9k|3em|dd|8h|Oranžas;Aurenja;Arausio
+Oer-Erkenschwick|DE||8r|3zg|k6|8g|Or-Erkenşvik
+Oranjestad|AW||1x|ys|-5ej|8c|Oranjestêd;Playa
+Orcutt|US||3p|2ov|-9ak|81
+East Chicago|US||2f|37o|-6qx|7z|Orienta Ĉikago
+Argun|RU||9i|3c9|3jf|7t|Kolxoznoe;Orga;Argoun;Argoen;Ustrada-Ġala;Arqun
+Orlová|CZ||9m|3uh|1f7|7m|Orłowa
+Arlon|BE||8t|3u0|g6|7a|Arel;Aarle;Aarlen;Orolaunum
+Szczytno|PL||a5|44s|1mb|78|Ortelsburg;Ščitno;Ščytnas;Szczyton;Ortel’sberg
+Or Akiva|IL||6n|2ib|2p0|77|Or ‘Aqiva;Or ‘Aqīvāh;Or ‘Aqiba
+Ōwa|JP||7q|2sk|arh|73|Ōra
+Orvault|FR||9k|3nb|-4i|71|Orvez;Orsvaldum
+Orhei|MD||8x|3nn|283|6x|Orhėjus;Orgiejów;Várhely;Őrhely;Orxey
+Orta di Atella|IT||9o|35s|13n|6w
+Ormskirk|GB||9b|44t|-80|6p
+Gherla|RO||8u|3mn|1ug|6l|Szamosújvár;Armenopolis;Armenierstadt;Örményváros;Neuschloss
+Orleans|BR||4w|-26s|-3sx|6l
+Orcasitas|ES||9d|345|-ab|6f
+Orobó|BR||4p|-li|-2qw|68
+Orahovac|XK||8q|39s|1ld|64|Rahovec;Rahoveci;Rahavec
+Ortigueira|BR||4w|-1v9|-3xj|64|Urtigueira;Ortigeira
+Orbassano|IT||9o|3h1|ky|62|Orbassan
+Orós|BR||2w|-hc|-303|5y|Onos
+Golden Valley|US|Minnesota|2f|3h1|-77b|5x|Ora Valo
+Oraiókastro|GR||8p|355|1ro|5t
+Orăştie|RO||8u|3jb|1sg|5s
+Orly|FR||9k|3rf|6n|5p
+Oroszlány|HU||8v|3nx|1ev|5n
+Oregon|US|Ohio|48|37o|-6fx|5l
+Orunia Górna-Gdańsk Południe|PL||a5|46w|1fq|5i|Higher Orunia and Gdańsk South
+Ortaca|TR|Muğla|94|2uc|27w|5h
+Orchards|US||3p|3iv|-9gg|5g
+Orange|US|Texas|2f|2bl|-78e|5d
+Orlovskiy|RU|Rostov|9i|3m7|38t|5d|Orlovskij;Orlovskaya
+Orinda|US||3p|2x8|-9fe|5d
+Orzesze|PL||a5|3vc|1g6|54|Ožeše
+Oria|ES|Basque Country|9d|3c6|-5m|4y
+Orsay|FR||9k|3ra|63|4y
+Ovrīn|IR||7o|2qr|3y1|4w|Orīn
+East Cleveland|US|Ohio|48|37d|-6am|4t|Orient-Klevlando
+Orta Nova|IT||9o|36t|17n|4n
+Oroville|US|California|3p|31r|-9do|4j
+Orestiáda|GR||8p|37a|21p|4i|Orestiás
+Ora-dong|KR||7h|2l0|9rf|4g
+Orient Heights|US||48|39r|-5h8|4d
+Orizona|BR||4w|-1bb|-3q6|4d|Arizona
+Orimattila|FI||92|4ow|1zh|4c
+Orange Walk|BZ||24|1e8|-6u0|49
+Orpington|GB||9b|3yp|a|48
+Oria|IT||9o|34i|1d0|43
+Orikhiv|UA||98|3o6|2re|41|Orichiw;Orihiv
+Orcasur|ES||9d|345|-aa|40
+Storozhynets|UA||98|3ps|1zg|3y|Storojineț;Storojynets;Storożyniec;Storozynetz;Sztorozsinyec;Őrvásár
+Ormeau|AU||8c|-255|bto|3y
+Orunia-Św. Wojciech-Lipce|PL||a5|46v|1fs|3x
+Orumanayūr|IN||6t|td|5v7|3x
+Ŭrtaowul|UZ||7m|36f|5c3|3w|Urtaaul;Oʻrtaovul
+Orange|US|Connecticut|48|36o|-5mv|3w
+Ore|NG||u|ir|dk|3v
+Orocó|BR||4p|-ny|-320|3s
+Orangeburg|US|South Carolina|48|2l1|-68m|3r
+Uruzgān|AF||6o|2jh|553|3q|Orūzgān
+Ortona|IT||9o|39n|140|3p
+Ovidiu|RO||8u|3ey|27c|3p|Oridiu
+Ormara|PK||6q|1y1|4zk|3m|Tahsil
+Orīkkai|IN||6t|zk|65f|3i
+Ordes|ES||9d|3bo|-nd|3i
+Orewa|NZ||ak|-2tm|dh8|3i
+Orşova|RO|Mehedinți County|8u|3g8|1q8|3g|Orschowa;Dierna
+Oraviţa|RO||8u|3h3|1o9|3f|Oravicabánya;Oravicsa;Oravica;Oravitza;Oravicza
+La Seu d'Urgell|ES||9d|39o|42|3c|Orgellum;Orgellis civitas;Urgellum;Urgelitana sedes;La Seo de Urgel;Seo de Urgel;La Seu de Urgell;La Seo d'Urgel;Urgell
+Orthez|FR||9k|3ct|-25|3b|Ortès;Ortesium;Orthe
+Országút|HU||8v|3nz|1gv|39
+Orchha|IN||6t|1yf|62g|37|Órčha;Órcsha;Orachha
+Yalıkavak|TR||94|2v3|23u|34|Ortakent
+Orange City|US|Florida|48|28f|-69u|34
+Ordubad|AZ||61|303|3ju|30|Ordoubad;Ordoubat;Ordubat
+Ordynskoye|RU||75|470|6bh|2v|Ordynskoje;Ordynskoe;Ordynskoïé;Ordinszkoje;Ordınskoye;Ordinskoe;Ordinskoje;Ordiinskoe
+Orathanadu|IN||6t|ti|645|2u|Orattanad;Orattanādu
+Oratorio|GT||32|13j|-6yi|2u
+Oregon|US|Wisconsin|2f|3b9|-6wa|2s
+Orange Farm|ZA||o|-21k|25f|2s
+Orzinuovi|IT||9o|3i4|rk|2s|Castrum Urceorum Novorum
+Oriental|MX||41|1hu|-7j6|2s
+Ormesson-sur-Marne|FR||9k|3rj|72|2r
+Kačanik|XK||8q|39b|1n2|2q|Orhanye
+Orange Cove|US||3p|2tq|-97f|2o
+Orono|US|Maine|48|3go|-5ar|2n
+Orneta|PL||a5|46b|1jx|2m
+Orchomenós|GR||8p|2yx|1ru|2m|Orchomène;Orcómeno;Orchomenus;Orkhomenós
+Orlu|NG||u|g4|jk|2m
+Orczynegyed|HU||8v|3nx|1h1|2k|Orczy negyed
+Ortenberg|DE|Hesse|8r|3vw|p6|2k|Ortenburg
+Oras|PH||71|xq|9og|2i
+Orhaneli|TR||94|32u|28j|2i
+Oranit|PS||6g|2h9|2p7|2i
+Orivesi|FI||92|4rc|1vo|2g|Orihvesi
+Oropesa del Mar|ES||9d|33d|e|2g|Orpesa
+Oromocto|CA||43|3jc|-54o|2g
+Orosi|US||3p|2ti|-97d|2g|Łitsooí Bił Hahazteel
+Orange Park|US||48|2bt|-6az|2f
+Golden Hills|US||3p|2pm|-955|2f|Oraj Montoj
+Orapa|BW||m|-1n7|1yi|2e
+Orodo|NG||u|fm|jj|2d
+Oranjemund|NA||1f|-27b|19n|2d|Orangemund;Oranjemond
+Orrville|US||48|35g|-6b4|2d|Orville
+Orizânia|BR||4w|-1kz|-399|2c
+Orlov|RU||97|4im|3rt|2c|Orlow
+Ortuella|ES||9d|3cb|-8i|2c
+Ormond|AU||8j|-2xa|b6w|2b
+Oroville East|US||3p|31r|-9dg|2b
+Oradell|US||48|35s|-5po|2a
+Orkanger|NO||9j|4vv|rd|2a
+Orbeasca de Sus|RO||8u|3en|1yc|2a
+Orono|US|Minnesota|2f|3gx|-780|28
+Ordnance Factory Itarsi|IN||6t|1qp|60b|27
+Orichi|RU||97|4i8|3sa|26|Oritsji
+Kotkavuori|FI||92|4n4|1x4|25|Örnberget
+Orchies|FR||9k|3w7|8z|25
+Orland|US|California|3p|32f|-9fg|24
+Oress-Krobou|CI||0|fx|-c7|23|Oress Krobous;Orès-Krobou
+Ortaköy|TR|Mardin|94|2ve|35a|23|Gyul’kharin;Hirrin;Girherîn;Gülharin;Harrın
+Orting|US||3p|3mu|-9fg|22
+Ormond-by-the-Sea|US||48|29j|-697|22
+Origgio|IT||9o|3io|p2|22
+Orstad|NO||9j|4jb|fu|22
+Ortenburg|DE||8r|3qv|10q|21|Otnbuag
+Orland Hills|US||2f|37j|-6s0|20
+Orange Lake|US||48|37e|-5pu|1y
+Ortega|CO||27|ax|-5sy|1x
+Orzū’īyeh|IR||7o|271|4ck|1x|Arzū’īyeh;Ozū’īyeh
+Orchard Mesa|US||2p|30h|-8dh|1w
+Orong|PH||71|rm|9h7|1w|Crong;Orang
+Orshanka|RU||9i|4e4|3p2|1w|Orsjanka
+Oraşu Nou|RO||8u|3ov|1so|1v|Avasújváros;Oraşul Nou
+Or|SE||9w|4kx|1dy|1u
+Oran|IN||6t|1yh|68a|1t
+Orden|NL||8m|410|gh|1s
+Oroso|ES||9d|3be|-nf|1s
+Ørsta|NO||9j|4ss|h1|1r
+Orange City|US|Iowa|2f|3bh|-7eu|1q
+Oranjeville|ZA||o|-22z|26d|1q
+Diósd|HU||8v|3np|1gn|1q|Orasch
+Orotina|CR||2i|rj|-6is|1p
+Orlovista|US||48|27a|-6aa|1p
+Oriente|BR||4w|-1pj|-3v5|1p
+Orbánhegy|HU||8v|3ny|1gt|1p
+Orta|TR|Çankırı|94|34u|2jz|1p
+O Rosal|ES||9d|38i|-ok|1o
+Orindiúva|BR||4w|-1k2|-3t3|1o
+Oropolí|HN||56|12e|-6p6|1o
+Orzysz|PL||a5|45h|1oz|1o|Arys;Ožiša
+Orzu|TJ||6d|2wc|5b6|1o
+Ordaklū|IR||7o|2yr|3j9|1o
+Orerokpe|NG||u|fo|gd|1n|Orerukpe
+Orinoco A|ZA||o|-1ws|2eb|1n
+Orange Beach|US||2f|2c5|-6r9|1n
+Orla|IN||6t|1tw|6lh|1m
+Orosei|IT||9o|346|qx|1m
+Orbetello|IT||9o|39w|v6|1m|Orbetellu
+El Oro de Hidalgo|MX||41|1j0|-7q5|1m|Oro de Hidalgo;El Oro Hidalgo
+Oreland|US||48|33g|-5su|1l
+Ormiston|AU||8c|-24g|btp|1l
+Órgiva|ES||9d|2ui|-9i|1k
+Orcopampa|PE||3o|-16f|-5ky|1k
+Orahovica Donja|BA||9r|3g1|1f1|1k
+Őrbottyán|HU||8v|3oh|1hk|1j
+Orvieto|IT||9o|3ao|xn|1i
+Orvad|IN||6t|1kt|5mk|1i
+Oerlenbach|DE||8r|3vb|s5|1i|Örlenbach
+Orsa|SE||9w|4ps|14m|1h
+Le Loroux-Bottereau|FR||9k|3n8|-3r|1h|Lavreer-Botorel;Al Lavreer-Botorel;Oratorium Boterelli;Le Louroux-Bottereau
+Ormsby Place|CA||2s|44m|-8ro|1h
+Ornontowice|PL||a5|3vf|1g3|1h|Ornontowitz
+Orda|RU||7z|4ev|4e2|1h|Il’inskiy Ostrozhek
+Kampung Oran|MY||6v|hz|7qh|1g|Oran
+Orchard Homes|US||2p|3m6|-8st|1g
+Örkelljunga|SE||9w|4cc|10w|1g
+Orbe|CH||a7|3lt|i5|1f
+Örkény|HU||8v|3mx|1hz|1f
+Orgeval|FR||9k|3rw|5i|1f
+Ardāq|IR||7o|2s5|3ue|1e|Ardag;Ordāq
+Oryahovo|BG||9v|3di|1uk|1e|Orechovo;Orekhovo;Orehovo;Orjahovo
+Oranmore|IE||8z|43z|-os|1e|Órán Mór;Úarán Mór
+Orange|US|Virginia|48|2y9|-60z|1d
+Denisovka|KZ||7c|41p|4rj|1d|Ordzhonīkīdze;Denīsov;Denisovski
+Oratórios|BR||4w|-1kr|-3ax|1d|Oratório
+Oran Park|AU||8l|-2mh|bmq|1b
+Orël-Izumrud|RU||9i|3cq|32w|1a
+Orgao|IN||6t|173|5pg|1a
+Orlea|RO||8u|3dj|1vq|1a
+Orio|ES||9d|3c8|-5x|1a
+Örnek|TR||94|34r|3bp|1a
+Orangeburg|US|New York|48|361|-5pf|1a|Orangburgh
+Orelia|AU||8k|-2hj|8xq|19
+Ornago|IT||9o|3io|q6|19
+Orangetree|US||48|211|-6an|18
+Oraison|FR||9k|3e0|gg|18
+Orgtrud|RU||9i|4c2|34t|18
+Rusovce|SK||8s|3ph|1bm|18|Karlburg;Orosháza;Oroszvár;Rosvar
+Orguz|BA||9r|3dl|1au|18
+Oranzherei|RU||8o|3jd|3o5|18|Oranzjerei;Oranzherey
+Orosi|CR||2i|r8|-6gx|18
+Orgosolo|IT||9o|33p|pz|17
+Ortisei|IT||9o|3le|wf|17|St. Ulrich in Gröden;Urtijëi;Urticetum;St. Ulrich im Grödnertal
+Orizari|MK||9u|38g|1qd|17|Orizare
+Ornans|FR||9k|3mv|h2|16|Ornacum
+Ormýlia|GR||8p|33x|1te|16|Ormília
+Strážske|SK||8s|3rr|1oo|16|Őrmező;Straške
+Orcotuna|PE||3o|-x9|-5t7|16
+Ormidhia|CY||73|2p7|2lu|16|Ormideia;Ormidia;Ormiteia;Ormidya
+Orbeni|RO||8u|3kk|232|15
+Orbaff|CI||0|f0|-c9|15|Orbaf
+Oracabessa|JM||3i|1f4|-5xr|15
+Orti|IT||9o|3gt|ny|15
+Urduña / Orduña|ES||9d|3bf|-8d|15|Orduña;Urduña
+Orlovo|RU||9i|3zs|31z|14
+Orţişoara|RO||8u|3jo|1mw|14
+Oravská Polhora|SK||8s|3tl|1i0|14
+Oropesa|PE||3o|-11r|-5jc|14
+Orange|US|Massachusetts|48|3ab|-5kv|14
+Orkoien|ES||9d|3ay|-4q|14|Orcoyen
+Ivaylovgrad|BG||9v|37d|20k|14|Ivaïlovgrad;Ortaköy;Iwajłowgrad;Orta-K’oy;Ivajlovgrad;Orta-Kioï;Orta-Kiöj;Ivatlovgrade;Orta-Kyoy;Iwailowgrad;Ortaköi
+Orte|IT||9o|39y|yf|13
+Orašac|BA||9r|3fz|18n|13
+Ortaköy|TR|Istanbul|94|366|26u|12
+Orzhiv|UA||98|3wz|20k|12|Orschiw;Orjiv;Orživ;Orzew;Orzhev
+Orazow|TM||5x|2xw|4i3|12
+Oraovica|MK||9u|37n|1qj|12|Orahovica
+Orbey|FR||9k|3pp|jw|11
+Oracle|US||4i|2il|-8jp|11
+Druzhnaya Gorka|RU||9i|4ko|2bp|11|Druzjnaja Gorka;Orinansavotta
+Orrington|US||48|3g9|-5b7|11
+Altunhisar|TR||94|2xj|2nh|11|Anduğu;Ortaköy;Altınhisar
+Orašje|BA||9r|3h3|1fx|10|Orashye
+Orscholz|DE||8r|3tj|i5|10
+Oregon|US|Illinois|2f|38p|-6w5|10
+Orsago|IT||9o|3jl|yj|z
+Rykove|UA||98|3kp|2oj|z|Partyzany;Orta Quyu;Rykowe;Rikove;Partîzanî
+Oranga|NZ||ak|-2uj|dhj|z
+Orozbekovo|KG||65|33a|5j3|z|O‘rozbekovo;Orozbekov;Urazbekovo
+Orsogna|IT||9o|39a|13o|z
+Orzhytsya|UA||98|3ub|2iu|z|Orjytsia
+Orry-la-Ville|FR||9k|3sh|6z|z
+Oranienbaum|DE||8r|3zw|yh|z
+Orgovány|HU||8v|3lv|1i3|z
+Oravská Lesná|SK||8s|3t5|1ha|z
+Voróklini|CY||73|2p6|2li|y|Oroklini;Vorglini;Voroglini
+Orahovica|HR||a6|3ih|1do|y
+Oreye|BE||8t|3wx|ew|y
+Orleşti|RO||8u|3gg|1va|y
+Ortum|KE||16|40|2q8|y
+Ortakapı|TR||94|34s|3bp|y
+Ormeniş|RO||8u|3ju|1yz|x
+Cevizli|TR|Denizli|94|2uu|29e|x|Orta
+Ortenberg|DE|Baden-Wurttemberg|8r|3ql|m5|x
+Orange|US|Ohio|48|375|-6ac|x
+Orcines|FR||9k|3j6|8d|x
+Oroslavje|HR||a6|3js|188|x
+Orte Scalo|IT||9o|39v|yh|x
+Ordzhonikidzevskiy|RU||9i|3ds|38e|w|Ordzjonikidzevskij
+Orhon|MN||7s|3uf|86u|w|Orkhon
+Orlovka|RU||9i|3g5|3ep|w
+Ormes|FR||9k|3p6|52|w
+Orchard Park|US||48|3at|-62q|w
+Ora|IT||9o|3kr|ve|w|Auer;Auer bei Bozen
+Orellana la Vieja|ES||9d|30d|-fd|w
+Orlat|RO||8u|3j3|1ul|w
+Orgères|FR||9k|3pc|-4n|v|An Heizeg
+Oriolo Romano|IT||9o|394|xq|v
+Ormeau Hills|AU||8c|-258|btq|v
+Orsingen-Nenzingen|DE||8r|3ow|ow|v
+Ordino|AD||8n|3a8|49|v
+Ornavasso|IT||9o|3jp|ne|v
+Orofino|US||3p|3l4|-8yy|v
+Orikhove|UA||9t|3hd|2lf|u
+Orlivka|UA|Odesa|98|3hw|270|u|Cartal;Orliwka;Aliobrix
+Orchard City|US||2p|2zv|-8bx|u
+Orwigsburg|US||48|34x|-5ve|u
+Oravské Veselé|SK||8s|3tf|1hu|u
+Orlianske|UA||98|3nh|2pi|u|Orlyanskoye;Orlyans’ke;Or’yansk;Orlyansk
+Orgon|FR||9k|3dn|e0|u
+Arpke|DE||8r|41j|s2|u|Orpke
+Ornex|FR||9k|3kj|gy|t
+Orani|IT||9o|33t|pi|t
+Orinoco C|ZA||o|-1wq|2ee|t
+Orocué|CO||27|db|-5i6|s
+Orbeasca de Jos|RO||8u|3ek|1yd|s
+Oropesa|ES||9d|32w|-ed|s
+Oreoí|GR||8p|307|1s5|s
+Orchidlands Estates|US||ax|1ic|-bym|s
+Ormesby St Margaret|GB||9b|42c|4p|s
+Orcet|FR||9k|3iy|8t|s
+Orativ|UA||98|3sn|2a1|s
+Orgaz|ES||9d|325|-as|s
+Orsières|CH||a7|3jv|ju|r|Ursiores
+Rohrbach bei Mattersburg|AT||a2|3oj|19n|r|Orbuh;Fraknónádasd
+Orbec|FR||9k|3s6|16|r
+Ordona|IT||9o|36s|17f|r
+Oranjewijk|NL||8m|40l|cx|r
+Sekili|TR||94|2uq|2wn|q|Orol;Orul
+Storozhnytsia|UA||98|3r0|1pr|q|Storozhnytsya;Storozjnytsia;Storoĵnicja;Őrdarma;Storožnycja;Storožnica;Storojnîțea;Storojnytsia;Storozhnitsa
+Fizeşu Gherlii|RO||8u|3mm|1um|q|Ördöngösfüzes;Fizeşul-Gherlei
+Orikum|AL||9y|341|1i3|q|Oriku
+Ortaca|TR|Mardin|94|2w3|37g|q
+Orilske|UA||98|3qz|2op|q|Partyzans’ke;Partizanskoye;Partîzanske;Partyzanske
+Orotukan|RU||6z|4sy|bpb|q|Urutukan
+Oro Verde|AR||1n|-2ge|-4o4|p
+Orange Bay|JM||3i|1f1|-61j|p
+Ortaköy|TR|Muğla|94|2va|26y|p
+Orsara di Puglia|IT||9o|36o|16f|p
+Oropi|NZ||ak|-2x4|dlc|p
+Ortrand|DE||8r|3yq|128|p|Wótrań
+Orp-le-Grand|BE||8t|3wu|dv|p
+Orpund|CH||a7|3my|kb|p|Orpond
+Orilla del Monte|MX||41|1im|-7i9|p
+Orăştioara de Sus|RO||8u|3j1|1sd|o|Orăstiora de-Sus
+Orikhivka|UA|Odesa|98|3j9|28a|o|Orijivka;Orekhovka
+Oronogo|US||2f|2vb|-7af|o
+Oria|ES|Andalusia|9d|2w5|-6d|o
+Orroli|IT||9o|329|pp|o
+Orshivtsi|UA||98|3qi|1z7|o|Orășeni;Orshovtsy;Orshevtsy
+Ořechov|CZ|South Moravian|9m|3sf|19w|o
+Orcq|BE||8t|3wk|9b|o
+Orgerus|FR||9k|3ro|4q|o
+Orzivecchi|IT||9o|3i6|ro|o
+Orune|IT||9o|349|q1|n
+Orica|HN||56|14u|-6pj|n
+Ordoñez|AR||1n|-2j8|-4un|n
+Orvieto Scalo|IT||9o|3ao|xp|n
+Orsha|RU||9i|4e3|2sn|n|Orsja;Orşa;Orsza
+Oulx|IT||9o|3h4|iz|n|Ols;Ors
+Orchard Lake|US||2q|3aa|-6fk|m
+Ormelle|IT||9o|3j6|yi|m
+Oreavu|RO|Buzău County|8u|3i1|232|m
+Orland|US|Maine|48|3ft|-5ay|m
+Oriolo|IT||9o|339|19p|m
+Oratia|NZ||ak|-2uk|dh2|m
+Ormož|SI||9a|3kx|18v|m|Ormoš;Ormob
+Orbost|AU||8j|-2wq|bge|m
+Orlovat|RS||8q|3ho|1l6|m
+Orotelli|IT||9o|33z|pc|l
+Oravais|FI||92|4vu|1q6|l|Oravainen
+Orsenigo|IT||9o|3j6|pi|l|Orsenigum;Orsenigh
+Orleans|US|Indiana|38|2ze|-6o5|l
+Orcera|ES||9d|2yg|-7e|l
+Orlyne|UA||9t|3fh|2lu|l|Bajdar
+Orba|ES||9d|2zq|-6|l
+Orliénas|FR||9k|3iu|d4|l
+Oradour-sur-Glane|FR||9k|3jl|2v|l|Orador de Glana
+Orth an der Donau|AT||a2|3pr|1ae|l|Orth a.d.Donau
+Arnoldstein|AT||a2|3lb|123|l|Oristagn;Podklošter
+Partizanskoye|UA||9t|3gj|2mo|l|Orta Sobla
+Orania|ZA||o|-2at|1vt|l
+Orcenico Inferiore|IT||9o|3jn|zg|l
+Orinoco B|ZA||o|-1wp|2eb|l
+Ord|US||2f|37k|-7mt|l
+Oracon|PH||71|t4|9gi|k
+Orlovskiy|RU|Zabaykalskiy (Transbaikal) Kray|67|3xs|8v1|k|Orlovskij
+Orient Hills|ZA||o|-20b|24o|k
+Ormiston|GB||9b|4bb|-86|k
+Orana|AU||8k|-2p8|93e|k
+Örbyhus|SE||9w|4na|1d6|k
+Orval|FR|Centre-Val de Loire|9k|3lt|6v|k
+Orlik|RU||6k|41w|7pb|k
+Ortabağ|TR||94|2vw|3b7|k
+Orio Litta|IT||9o|3hg|qj|k
+Oriente 1ra. Sección|MX||41|1ey|-76w|k|Oriente Segunda Sección
+Orchard Hills|US||48|34r|-64x|k
+Orzech|PL||a5|3w3|1gk|j
+Örencik|TR|Şanlıurfa|94|2vd|302|j
+Orgiano|IT||9o|3hx|vu|j
+Orchard Hills|AU||8l|-2lu|bmn|j
+Oerel|DE||8r|44k|p6|j|Örel
+Orion|US||2f|36v|-6z2|i
+Ortonville|US|Minnesota|2f|3hu|-7fw|i
+Orléat|FR||9k|3je|9i|i
+Orehovica|HR||a6|3kp|19v|i
+Ormalingen|CH||a7|3nv|lv|i
+Ørslev|DK||8y|48w|x9|i
+Orebić|HR||a6|3be|1br|i|Sabbioncello;Sabiončelo
+Origny-Sainte-Benoite|FR||9k|3uf|9q|i
+Ortucchio|IT||9o|38k|11x|i
+Orlyk|UA||98|3rq|2n3|i|Orlik
+Orgelet|FR||9k|3l8|fl|i
+Orleix|FR||9k|3c8|c|i
+Ørbæk|DK||8y|49i|tn|h
+Ormstown|CA||59|3hd|-5pk|h
+Ornbau|DE||8r|3sm|tm|h
+Orechová Potôň|SK||8s|3pe|1cq|h
+Ørje|NO||9j|4l8|we|h
+Oradour-sur-Vayres|FR||9k|3j1|2f|h|Oradour-sur-Vavres
+Orchard Grass Hills|US||48|2yg|-6lk|h
+Orota|RU||9i|3ai|3la|h
+Oroville|US|Washington|3p|3ry|-97s|h
+Orentano|IT||9o|3dm|tm|h
+Orchamps-Vennes|FR||9k|3mx|i4|h
+Orio al Serio|IT||9o|3iv|qx|h
+Orikhivka|UA|Luhansk|98|3q5|30w|h|Orekhovka
+Orocuina|HN||56|11g|-6py|h
+Orranteño|MX||2g|26a|-84m|g|Ranteño
+Orikhivka|UA|Poltava|98|3ut|2kf|g|Orekhovka
+Ørnes|NO||9j|55r|123|g
+Orleans|US|Massachusetts|48|383|-5ef|g
+Orwell|US||48|37e|-68n|g
+East Cleveland|US|Tennessee|48|2po|-6jq|g|Orient-Klevlando
+Öregrund|SE||9w|4nl|1f7|g
+Oranjewoud|NL||8m|433|gj|g|It Oranjewâld
+Orjonikidze|AZ||61|324|3oj|g|Orconikidze
+Orzechówka|PL||a5|3u5|1oz|g
+Orduña de Abajo|MX||41|1lo|-7ry|f
+Vrsar|HR||a6|3hf|11t|f|Orsera;Ursaria
+Orbetello Scalo|IT||9o|39x|v9|f
+Orthen|NL||8m|3zn|eq|f
+Ørum|DK||8y|4cw|qr|f
+Teeriniemi|FI||92|4va|1oa|f|Orrnäs
+Orfordville|US||2f|3af|-6vx|f
+Oriovac|HR||a6|3hh|1dc|f
+Ruska Mokra|UA||98|3qb|1ue|f|Oroszmokra;Rus'ka Mokra
+Ormosbánya|HU||8v|3qb|1ld|f
+Ortonville|US|Michigan|2q|3b1|-6fs|f
+Origny-en-Thiérache|FR||9k|3ul|b6|f
+Orizaba|MX|Durango|44|1uk|-813|f
+Oriental Bay|NZ||ak|-36p|dhj|f
+Oronoco|US||2f|3ep|-751|e
+Ora|IL||6n|2g8|2po|e
+Oriole Beach|US||2f|2cd|-6px|e
+Orphelinat|NC||b8|-1pw|cuc|e|Orfelinat
+Orciano di Pesaro|IT||9o|3dd|101|e
+Orba (Infiernito)|MX||3x|1zd|-8d0|e
+Oriente 6ta. Sección (Los Mulatos)|MX||41|1eh|-770|e
+Orangeville|US|Utah|2p|30z|-8kh|e
+Ordzhonikidze|RU||6u|4ie|7d6|e|Ordzjonikidze
+Őr|HU||8v|3p9|1pn|e
+Oriskany|US||48|3bw|-5t9|e
+Orle|PL||a5|47s|1eh|e
+Oravský Podzámok|SK||8s|3su|1hs|e|Orawskie Zamki;Árvaváralja;Arwaburg
+Orce|ES||9d|2ws|-6w|d
+Orange Grove|US||2f|25o|-7k2|d
+Orud’yevo|RU||9i|4cr|2w9|d|Orudjevo
+Oropéndolas|HN||56|15q|-6s9|d|Oropendolo
+Örenkaya|TR||94|2yl|2bs|d
+Oermingen|FR||9k|3s4|jt|d|Ormingen
+Ourol|ES||9d|3b3|-l5|d|Orol
+Orenhofen|DE||8r|3um|ih|d
+Mayisyan|AM|Shirak|80|35h|3ds|d|Ortakilisa;Maisyan;Maisian
+Ormoy|FR|Île-de-France|9k|3qx|6t|d
+Orcheta|ES||9d|2z4|-q|d|Orxeta
+Örsundsbro|SE||9w|4lx|1c2|d|Orundsbro
+Orgeo|BE||8t|3uf|er|d
+Oripää|FI||92|4p1|1r0|d
+Orlamünde|DE||8r|3x1|w0|d
+Oran|US||2f|2v1|-6x2|d
+Ormea|IT||9o|3en|lz|d
+Orhanlı|TR||94|2y1|22v|d
+Ärla|SE||9w|4ko|1ac|d|Örla
+Orsett|GB||9b|3z3|11|d
+Andermatt|CH||a7|3lk|nv|d|Ursera;Orsera
+Ortueri|IT||9o|338|oz|d
+Oriente 1ra. Sección (Santo Domingo)|MX||41|1eq|-76w|c
+Orangeville|AU||8l|-2mj|bmc|c
+Ortgraben|AT||a2|3nt|18l|c
+Örtülüce|TR||94|346|23l|c
+Orduña de Arriba|MX||41|1lp|-7rz|c
+Oriente 2da. Sección (Palma Huaca)|MX||41|1ex|-76v|c
+Oroftiana|RO||8u|3pu|217|c
+Orchowo|PL||a5|41v|1e2|c
+Oriente 2da. Sección (San Cayetano)|MX||41|1ej|-76z|c
+Orońsko|PL||a5|3yj|1mb|c|Orońske;Orońsk
+Orsant’ia|GE||7n|39z|37r|c|Orsantia
+Oron-la-Ville|CH||a7|3ld|iz|c
+Orodel|RO||8u|3ev|1sj|c
+Ortaffa|FR||9k|3aa|85|c|Ortafà
+Ore City|US||2f|2j4|-7b4|c
+Orvin|CH||a7|3n0|k1|c
+Orashac|MK||9u|38u|1ok|c
+Orbais|BE||8t|3wo|d8|c
+Orevița Mare|RO||8u|3fi|1rn|c
+Orford|US||48|3dz|-5ke|c
+Original Northwood|US||48|31a|-5ws|c
+Ornaisons|FR||9k|3by|7w|b
+Orsan|FR||9k|3el|cz|b
+Ormeignies|BE||8t|3wk|af|b
+Kolosky|UA||9t|3hr|2ki|b|Oraz;Koloski
+Ortiz|MX||37|26l|-8jj|b
+Oropós|GR|Attica|8p|2ye|1u0|b|Oropus
+Orlove|UA||98|3mr|2qu|b|Orlov;Orlovo
+Orla|PL||a5|42f|1st|b|Orlos valsčius
+Oranjestad|BQ||3m|1ck|-4uz|b|Orange Town;Oranjestêd
+Orešje|HR||a6|3ja|17w|b
+Orival|FR||9k|3u4|3d|b
+Ornäs|SE||9w|4o3|176|b
+Örencik|TR|Ankara|94|32i|2j7|b
+Orgères-en-Beauce|FR||9k|3pr|4o|b
+Orissaare|EE||9x|4io|1s4|b|Orrisar;Orisaara;Orissare;Orisar;Orissaar;Orrissaar;Orrissar;Orisare;Orisaare
+Orgueil|FR||9k|3dz|3x|a
+Orlea Nouă|RO||8u|3dk|1vo|a
+Orschwihr|FR||9k|3p5|k3|a|Orschweier;Urswihr;Orschwir
+Orchamps|FR||9k|3mz|fq|a
+Orchard Ridge|US||48|317|-5wo|a
+Ormanlı|TR||94|36z|271|a
+Orwell|GB||9b|40u|-1|a
+Orsaria|IT||9o|3jw|116|a
+Orășa|RO||8u|3ky|22a|a
+Ordway|US||2p|2y6|-808|a
+Orășeni-Deal|RO||8u|3og|224|a|Orăşenii-Deal
+Orizabita|MX||41|1l6|-7nl|a
+Ormankadı|TR||94|33j|271|a
+Ornós|GR||8p|2vy|1yc|a
+Ortaköy|TR|Şırnak|94|2vp|3c8|a
+Orzignano|IT||9o|3dl|sy|a
+Orlovskoye|UA||9t|3j9|2md|a
+Ou Reang|KH||78|y9|89p|a|Oreang
+Ortelle|IT||9o|337|1f3|a
+Oriental de Zapata|MX||41|1jj|-7n3|a
+Orły|PL||a5|3uj|1rc|a
+Ortovero|IT||9o|3ed|mi|a|Ortoê
+Orawka|PL||a5|3tj|1is|a
+Orphin|FR||9k|3qy|4y|a
+Vahan|AM||80|34q|3i4|a|Orconikidze
+Örenşehir|TR||94|2ty|2fy|a
+Ořech|CZ||9m|3uy|13q|a
+Orevo|RU||9i|4cr|2w3|a
+Ortaşar|TR||94|2wu|33x|a
+Ordeñita de Barajas|MX||41|1kj|-7uf|a|La Ordeña;Ordeña de Barajas
+Orhaniye|TR||94|34j|2ae|a
+Oriente 5ta. Sección (La Candelaria)|MX||41|1em|-76y|a
+Orocovis|PR||4m|1en|-54f|9
+Ormoy-la-Rivière|FR||9k|3qh|5z|9
+Ortomatera|IT||9o|318|191|9
+Ortho|BE||8t|3v8|fl|9
+Orroir|BE||8t|3wz|9o|9
+Ordingen|BE||8t|3x5|ej|9
+Oriente Aguanaval|MX||44|1x6|-7ys|9
+Orhangazi|TR|Düzce|94|35r|2f6|9
+Oratino|IT||9o|37j|14j|9
+Orsomarso|IT||9o|32k|187|9
+Orsmaal-Gussenhoven|BE||8t|3x5|e2|9|Orsmael-Gussenhoven
+Orchard|SG||7j|3m|80f|9
+Ortacesus|IT||9o|31u|p9|9
+Örencik|TR|Istanbul|94|36t|274|9
+Órmos Korthíou|GR||8p|2wx|1xb|9|Kórthion;Kordion
+Ortadamla|TR||94|30w|3bk|9
+Orosiievo|UA||98|3ps|1re|9|Orosiyevo
+Ortaköy|TR|Şırnak|94|2vc|39x|9
+Orosaniso|CI||0|oi|-lh|9|Vorosanisso
+Oersdorf|DE||8r|45k|rr|9|Örsdorf
+Orlinda|US||2f|2to|-6ow|9
+Orchaise|FR||9k|3o7|3c|9
+Oriental|US||48|2pb|-5x1|9
+Orcemont|FR||9k|3qz|51|9
+Orcières|FR||9k|3g5|hk|9
+Ortadirek|TR||94|31q|3e7|9
+Ortignano Raggiolo|IT||9o|3dc|wn|9
+Orlivka|UA|Sevastopol City|9t|3g9|2la|8|Orlovka
+Oreana|US||2f|32y|-6uv|8
+Orval|FR|Normandy|9k|3s5|-43|8
+Oreanda|UA||9t|3fi|2mu|8|Oreando
+Ortasu|TR||94|2vt|3bc|8
+Orleans|US|Vermont|48|3gi|-5kn|8
+Ordan-Larroque|FR||9k|3dd|1a|8
+Örencik|TR|Kastamonu|94|37t|2lg|8
+Orco Feglino|IT||9o|3eu|n4|8
+Orșova|RO|Mureș County|8u|3lv|1x7|8
+Orrick|US||2f|30x|-79g|8
+Orthevielle|FR||9k|3cz|-37|8
+Orio Canavese|IT||9o|3hx|lu|8
+Orman|RO||8u|3mp|1u6|8
+Orsennes|FR||9k|3l4|4o|8
+Orlovka|UA||9t|3iv|2kp|8
+Ölmanäs|SE||9w|4fc|xl|8|Örmanäs
+Oropós|GR|Epirus|8p|30s|1lk|8
+Ort im Innkreis|AT||a2|3q8|11b|8
+Ororbia|ES||9d|3ay|-4v|8
+Orta|TR|Iğdır|94|339|3da|8
+Oregon|US|Missouri|2f|333|-7ca|8
+Ortapınar|TR||94|2z1|2cq|8
+Ors|FR||9k|3v6|a3|8
+Orășeni-Vale|RO||8u|3oe|223|8
+Or HaNer|IL||6n|2fo|2o4|8|Or ha-Ner
+Oresmaux|FR||9k|3u9|6b|8
+Orrefors|SE||9w|4dw|17r|8
+Orbigny|FR||9k|3n5|3f|8
+Orcier|FR||9k|3kn|i1|8
+Oris|IT||9o|3lj|tl|8
+Orojalari|GE||7n|36q|3d6|8|Orojolari
+Orillas del Río|PA||4g|n8|-6d7|8|Orilla del Río
+Öregcsertő|HU||8v|3l8|1h4|8
+Orangeville|US|Illinois|2f|39z|-6x0|8
+Orménio|GR||8p|37w|20u|8
+Oratia|RO||8u|3i8|232|7
+Orta Mahallesi|TR||94|35h|3cd|7
+Orbeil|FR||9k|3ik|94|7
+Orbis|DE||8r|3u2|m8|7
+Ossès|FR||9k|3c4|-3k|7|Orzaize;Ortzaize;Osés
+Orient|US||48|36a|-5ku|7
+Orašac|HR||a6|3am|1e1|7
+Ortaova|TR||94|35d|2qo|7
+Örentaht|TR||94|2w9|26s|7
+Orino|IT||9o|3jg|o8|7
+Golden City|US||2f|2vv|-79d|7|Ora Urbo
+Ordanivka|UA||98|3um|2ne|7|Iordanovka;Ordanovka
+Orusco|ES||9d|33w|-8x|7
+Ormoy|FR|Bourgogne-Franche-Comté|9k|3p7|9x|7
+Orford|GB||9b|40q|49|7
+Orezu|RO||8u|3fu|22z|7
+Oriskany Falls|US||48|3ba|-5tm|7
+Ormindea|RO||8u|3jx|1ri|7
+Örenkuyu|TR||94|2xh|31j|7
+Orlické Podhůří|CZ||9m|3uw|19f|7
+Oroúnta|CY||73|2pi|2jx|7|Kato Mom;Orounda
+Vrbova|HR||a6|3hm|1cu|7|Orbova
+Örençay|TR||94|2zb|30h|7
+Orvișele|RO||8u|3mx|1pr|7|Orvisel
+Orel|CZ||9m|3uo|180|7
+Orta San Giulio|IT||9o|3j8|nd|7
+Ořechov|CZ|Zlín|9m|3s7|1c2|7
+Orfánio|GR||8p|35a|1uj|7|Orfáni
+Orheiu Bistriței|RO||8u|3mu|1wb|6|Orheiul Bistriţei
+Órma|GR||8p|35r|1ox|6
+Orroroo|AU||8b|-2ix|ap1|6
+Orane|UA||98|3xt|2bp|6|Orannoye;Oranoye
+Orria|IT||9o|33y|165|6
+Orford|AU||8g|-3a8|ber|6
+Orignolles|FR||9k|3hn|-n|6
+Orleans|US|Iowa|2f|3cp|-7c5|6
+Orly-sur-Morin|FR||9k|3ru|8z|6
+Ortaköy|TR|Şırnak|94|2ve|38i|6
+Orzoaia de Jos|RO||8u|3h0|20v|6|Ursoaia de Jos
+Origny-le-Sec|FR||9k|3qn|ah|6
+Orikhovytsia|UA||98|3r5|1q8|6|Orikhovytsya
+Ortakolo|RU||9i|3aj|3kv|6|Ortokolo
+Orient Point|AU||8l|-2oz|bmr|6
+Orange Grove Mobile Manor|US||4i|2ik|-8ui|6
+Orrouy|FR||9k|3sx|7y|6
+Ořešín|CZ||9m|3sw|1a5|6
+Oristà|ES||9d|38h|5r|6
+Orihuela del Tremedal|ES||9d|34n|-4l|6
+Oruçlu|TR||94|2xc|2r4|6
+Orzano|IT||9o|3jz|113|6
+Orist|FR||9k|3d8|-3a|6
+Orvillers-Sorel|FR||9k|3tq|7j|6
+Oreiní|GR||8p|36g|1tj|6|Oriní
+Or HaGanuz|IL||6n|2jp|2qh|6|Or ha-Ganuz
+Orestopil|UA||98|3p8|2ta|6|Orestopol’
+Orleton|GB||9b|41a|-7n|6
+Orzeni|RO||8u|3n2|24x|6
+Orestivka|UA||98|3qr|21a|6|Aresteuca
+Orschwiller|FR||9k|3q0|ki|6|Orschweiler
+Orekhovo|RU||7r|4ey|6ot|6
+Oroër|FR||9k|3ti|60|6
+The Orchards|US||48|31d|-5wv|6|Orchards
+Oreavu|RO|Vrancea|8u|3in|23f|6
+Örenlı|TR||94|2uq|314|6|Kısayır;Oranlı
+Orderville|US||2p|2vk|-8ow|6
+Ordiarp|FR||9k|3bz|-2m|6|Urdiñarbe
+Oreše|MK||9u|37m|1ni|6|Orešje
+Orègue|FR||9k|3cj|-35|6|Oragarre
+La Ordeña|MX|Guanajuato|41|1ju|-7tc|6|Ordeña
+Othón P. Blanco|MX||2b|1ii|-6v8|6|Orthón P. Blanco
+Orezzo|IT||9o|3j9|ra|5
+Oran|MX||41|1ul|-7xv|5
+Orange Grove|AU||8k|-2gz|8y9|5
+Ortaköy|TR|Antalya|94|2t9|2c4|5
+Orgita|EE||9x|4jp|1vv|5
+Ortoaia|RO||8u|3nj|1yn|5
+Oriente Meridiano|MX||41|1kd|-7it|5|Oriente
+Orlianka|UA||9t|3ho|2l9|5|Orlyanka
+Orgov|AM||80|343|3ey|5
+Ormandalı|TR||94|2xe|3a1|5
+Orosfaia|RO||8u|3m5|1vu|5
+Oriente Medio Día|MX||41|1kc|-7is|5
+Orangeville|US|Pennsylvania|48|364|-5w9|5
+Orubica|HR||a6|3hf|1ci|5
+Ordas|HU||8v|3lk|1gn|5

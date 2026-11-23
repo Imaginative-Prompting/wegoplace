@@ -1,0 +1,73 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Oujda|MA||d|2oc|-5b|45x|Wadżda;Uĝda;Ujda;Udžda;Wejda;Ucda;Ouja;Oudjda
+Ujjain|IN||6t|1se|5ui|3z4|Udždžain;Uddzsaín;Udžainas;Udžaina;Ujjayn
+Ajman|AE||6c|1yk|4a4|3s4|Ujman;Adschman;Adżman;Acman;Ajmã
+Novi Sad|RS||8q|3hp|1j4|1nu|Újvidék;Nowy Sad;Novisada;Neusatz;Nový Sad
+Uji|JP||7q|2ox|ah8|1hl|Udži;Udžis;Udyi;Uzi-chhī;Uĝi
+Budapest XI. kerület|HU||8v|3nw|1gw|12m|Újbuda
+Uzhhorod|UA||98|3r2|1px|w2|Ungwar;Uschgorod;Užgorod;Oujhorod;Ungvár;Użhorod;Úzhgorod;Oezjhorod;Ujhorod;Uzjhorod;Uzhorodum;Ujqorod;Ujgorod;Užhorodas;Uĵhorodo;Uschhorod
+Ukhta|RU||9i|4wl|455|se|Uchta;Uhta;Ujtá;Oechta;Uht
+Újpest|HU||8v|3o5|1h0|rz
+Nowy Sącz|PL||a5|3tu|1li|ng|Neusandez;Újszandec;Novi Sonča;Naujasis Sončas;Nowi Sóncz;Nowy Sůncz;nowy.sontc;Neu Sandez;Neu-Sandec;Novy-Sonch
+Ujhāni|IN||6t|25s|63h|fn
+Újlipótváros|HU||8v|3o0|1gx|a9
+Újpalota|HU||8v|3o2|1h6|a3
+Ujiie|JP||7q|2tw|ast|8g
+Ujeścisko-Łostowice|PL||a5|46w|1fo|8a
+Bačka Palanka|RS||8q|3hp|1hw|86|Palanka;Ópalánka;Újpalánka
+Nové Město|CZ||9m|3v4|142|7j|Prager Neustadt;New Town;Città Nuova;Nieuwe Stad;Újváros;Pragako Hiri Berria;Nova Urbo;Nowe Miasto
+Vrbas|RS||8q|3il|1ik|77|Óverbász;Verbász;Újverbász
+Újszeged|HU||8v|3kh|1k1|71
+Ujar|AZ||61|34k|3od|4d|Ucar
+Uzhur|RU||6u|49o|6xj|4c|Uzjur;Uschur;Oujour;Užur;Uĵur
+Újhegy|HU||8v|3nv|1h9|45
+Újfehértó|HU||8v|3os|1o8|3r|Új Fejertó
+Moldova Nouă|RO||8u|3ga|1o7|3p|Nová Moldava;Újmoldova
+Uyar|RU||6u|4b1|7a1|3o|Ujar
+Újpéteritelep|HU||8v|3np|1hb|2z
+Újezd nad Lesy|CZ||9m|3v4|14q|2w
+Nová Dubnica|SK||8s|3rx|1ef|2w|Kiskelecsény;Újtölgyes
+Uyuni|BO||3n|-1ku|-55n|2v|Ujūnis
+Ujalaiwadi|IN||6t|1ab|5qb|2j
+Uyskoye|RU||7z|472|4mo|25|Ujskoje
+Újlak|HU||8v|3o1|1gw|1y
+Újpest városközpont|HU||8v|3o4|1h1|1x|Újpest-központ
+Nová Baňa|SK||8s|3qi|1fs|1x|Újbánya;Nova Banja
+Újszász|HU||8v|3ne|1js|1x
+Újkígyós|HU||8v|3le|1mf|1k
+Ujalpur|BD||6a|1u5|6u6|19
+Uivar|RO||8u|3iu|1m3|18|Újvár
+Leopoldov|SK||8s|3ql|1dc|13|Újvároska
+Ujście|PL||a5|43d|1ah|13|Ùscé;Ujsce;Ußcie;Ush;Uscz
+Nove Davydkovo|UA||98|3qk|1qu|13|Nowe Dawydkowo;Nove Davidkovo;Újdávidháza;Nove Davydkove;Novoye Davidkovo;Novoye Davydkovo
+Ilok|HR||a6|3hm|1hu|12|Újlak
+Uyemskiy|RU||9i|4z3|35h|10|Ujemskij
+Újezd u Brna|CZ||9m|3se|1ak|y
+Ujong Pasir|MY||6v|63|7w3|w|Tanjonpacer;Tanjung Pasir
+Ujan|AM||80|33y|3et|v|Vzhan
+Ishun’|UA||9t|3jk|2ly|t|Üjšün
+Șanț|RO||8u|3nt|1x6|t|Újradna
+Újhartyán|HU||8v|3n6|1hv|t
+Újszilvás|HU||8v|3nb|1jc|r
+Dumbrăviţa|RO|Timiș County|8u|3j8|1n0|q|Újszentes;Neussentesch;Uisenteş
+Ujsoły|PL||a5|3tg|1h6|o
+Szigetújfalu|HU||8v|3n7|1gl|m|Inselneudorf;Ujfluch
+Novobarovo|UA||98|3pm|1ta|k|Újbárd;Novobarove
+Ujazd|PL|Łódź Voivodeship|a5|3zc|1jc|h
+Ujazd|PL|Opole Voivodeship|a5|3vz|1ez|g
+Dulovce|SK||8s|3oz|1er|g|Újgyalla
+Újszentiván|HU||8v|3kb|1k2|g|Új-Szent-Ivány
+Șinca Nouă|RO||8u|3ix|1y4|f|Újsinka
+Tohanu Nou|RO||8u|3ij|1yj|e|Újtohán;Tohanul-Nou
+Újezd|CZ|Olomouc Region|9m|3u8|1bq|d
+Újezd|CZ|Zlín|9m|3sl|1dr|c
+Ujmisht|AL||9y|38f|1kj|b
+Slovenské Nové Mesto|SK||8s|3qg|1o7|b|Újhely
+Tușnadu Nou|RO||8u|3kb|1zx|a|Újtusnád
+Dobra Voda|ME||9l|38t|1h6|a|Scurta;Ujëmira
+Neuberg im Burgenland|AT||a2|3n1|196|a|Nova Gora;Újhegy
+Újezdeček|CZ||9m|3wp|12b|9
+Ujezna|PL||a5|3v3|1qr|9
+Újcsanálos|HU||8v|3pp|1me|7
+Újdombrád|HU||8v|3pw|1or|7
+Újezd|CZ|Central Bohemia|9m|3uf|12g|6

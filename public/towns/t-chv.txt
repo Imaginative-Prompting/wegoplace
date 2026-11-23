@@ -1,0 +1,11 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Khvalynsk|RU||9s|41t|3pn|3q|Chwalynsk;Jvalynsk;Chvalynsk;Xvalınsk;Khvalinsk;Ĥvalinsk;Hvalynsk
+Chvaletice|CZ||9m|3uz|16u|w|Chavaletice
+Chvalčov|CZ||9m|3t7|1d7|g
+Chvalšiny|CZ||9m|3rp|13h|c
+Chválenice|CZ||9m|3tw|11g|8
+Chvalíkovice|CZ||9m|3ul|1dr|7
+Chvalkovice|CZ||9m|3w1|18e|6
+Chvojenec|CZ||9m|3v7|18a|6|Chwojenec;Chvojenice
+Chvatěruby|CZ||9m|3vj|13u|6
+Chvaleč|CZ||9m|3wk|18k|6

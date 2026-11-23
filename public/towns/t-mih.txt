@@ -1,0 +1,64 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mihara|JP||7q|2nk|a9o|p6|Mihama
+Mindelo|CV||84|1ax|-1xe|j6|Mindelas;Mihdelo;Mindello
+Mikhaylovsk|RU|Stavropol Kray|9i|3hd|38r|gg|Sjpakovskoje;Mihajlovsk;Michailowsk;Shpakovskoye
+Mikhaylovka|RU|Volgograd Oblast|a4|3v2|3c3|gd|Mikhajlovka;Michailowka;Mikhaïlovka;Michajlovka;Miĥajlovka;Mihhailovka;Mihailovk;Michajłowka;Mihailovka;Michalowka
+Mihe|CN||7i|2tq|959|dr
+Michalovce|SK||8s|3rf|1ow|9z|Nagymihály;Großmichel;Mixalovtse;Mihalovce
+Miharu|JP||7q|2vz|au8|4v
+Mihona|IN||6t|210|63e|4p|Mehona
+Mihail Kogălniceanu|RO|Constanța County|8u|3f9|272|2s|Mihail Cogălniceanu
+Mihalgazi|TR||94|337|2cy|2p
+Mihăileşti|RO|Giurgiu County|8u|3f5|1zz|23
+Mihăeşti|RO|Vâlcea County|8u|3h3|1vd|1r
+Mihail Kogălniceanu|RO|Ialomița County|8u|3g4|251|1q|Mihail-Cogălniceanu
+Mihăeşti|RO|Arges|8u|3hc|1xg|1m
+Mihai Viteazu|RO|Cluj County|8u|3l9|1tz|1l|Alsószentmihályfalva;Szentmihály
+Mihăileni|RO|Botoșani County|8u|3p9|20n|1e
+Mihintale|LK||68|n8|67n|1e
+Mihăileşti|RO|Buzău County|8u|3gs|223|11
+Myhove|UA||98|3ps|1yi|11|Mihowa;Myhowe;Mihova;Mikhova
+Michałowo|PL||a5|43b|1tl|10|Michalovas;Mihalovo
+Mihalţ|RO||8u|3k7|1tx|10
+Mihai Viteazu|RO|Constanța County|8u|3fz|27o|x|Mihaiu Viteazul;Mihai-Viteazul
+Mihail Kogălniceanu|RO|Tulcea County|8u|3h3|27t|w|Mihail-Cogălniceanu
+Taxa Cheya|IQ||5z|2uw|3dk|s|Taxa Çêya;Taxê Çêya;Mihela Çêya;Nav Doskiya;Chey;Cheyi
+Mihai Bravu|RO|Giurgiu County|8u|3em|20e|r
+Mihai Bravu|RO|Tulcea County|8u|3gv|27l|q|Mihai-Bravul
+Mihăileni|RO|Harghita County|8u|3l3|1zq|q
+Mykhaylivka|UA|Odesa|98|3jn|2ai|q|Mihăileni;Michajlowka;Myjailivka;Mykhaïlivka
+Mihălăşeni|RO||8u|3p0|237|o|Mihălăşceni
+Mihla|DE||8r|3xw|sp|o
+Mihoveni|RO||8u|3og|20q|m
+Mikhalkove|UA||98|3qx|23u|l|Mihăileanca;Mykhalkové
+Mihai Vodă|RO||8u|3fg|1zq|k
+Petrashivka|UA||98|3pm|20i|k|Mihoreni;Pétrachivka
+Mihăeşti|RO|Olt|8u|3el|1wu|k
+Mihai Bravu|RO|Brăila County|8u|3ge|250|g|Mihai-Bravul
+Mykolayivka|UA|Odesa|98|3jj|2by|f|Nicolaenii-Noui;Nicolăeni;Mykolaïvka;Nikolaevka;Mihăileni;Balabanka;Balabanca-Mică
+Mehdīābād|IR|Qazvin Province|7o|2sh|3uk|f|Mihdiābād
+Mykhalcha|UA||98|3q1|1zt|f|Mikhal’chi;Mikhal’che;Mikhal’cha;Mihalcea;Mykhaltsja;Mychaltscha;Mychalcza;Myhalça
+Mihovljan|HR|Međimurje|a6|3kx|19p|e|Drávaszentmihály
+Mihatovići|BA||9r|3fq|1fl|e
+Mihajlovo|RS||8q|3ib|1kq|d
+Mihai Bravu|RO|Bihor County|8u|3na|1oy|c
+Mihályi|HU||8v|3nz|1bi|b
+Mihăiești|RO||8u|3o0|20u|b
+Mihăileni|RO|Sibiu County|8u|3jq|1vn|b
+Mihai Viteazu|RO|Călărași County|8u|3f7|237|a|Mihai-Viteazul
+Mihălceni|RO||8u|3i8|23u|a|Mihăileni
+Mihovljan|HR|Krapina-Zagorje|a6|3k5|18d|a|Mihovlan
+Mihăița|RO||8u|3fb|1tr|9
+Mihotići|HR||a6|3i0|13r|9
+Mihail Kogălniceanu|RO|Iași County|8u|3nj|246|9
+Mykhaylivka|UA|Chernivtsi|98|3po|205|7|Mykhaïlivka;Mihuceni
+Mihuacán|MX||41|1h3|-7mh|7
+Mihaljevci|HR||a6|3i2|1d3|6
+Mihail Kogălniceanu|RO|Galați County|8u|3ie|25l|6
+Mihăileni|RO|Hunedoara County|8u|3ka|1rm|6|Mihăleni
+Mykhaylivka|UA|Chernivtsi|98|3qe|21x|6|Mykhaïlivka;Mihăileanca
+Mihovci pri Vel. Nedelji|SI||9a|3kx|18r|6|Mihovci pri Veliki Nedelji
+Taxe Nerwa Doskiya|IQ||5z|2uv|3dn|6|Taxa Nerwe Doski;Mihala Nerwa Doskiya;Nerwa Doskiya
+Mihăieni|RO||8u|3o4|1r6|6|Mihăeni
+Mehrābād|IR|Hamadan Province|7o|2nd|3re|6|Mīhrābād;Mahrābād
+Mihai Viteazu|RO|Botoșani County|8u|3p5|22e|5|Mihai Viteasu

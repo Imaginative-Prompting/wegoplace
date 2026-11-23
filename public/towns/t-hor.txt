@@ -1,0 +1,353 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Belo Horizonte|BR||4w|-1jc|-3e2|l00|Bel-Horizonto;Bhte;Belo Hte;B.H.;Urbs Pulchri Horizontis;Belu Orizonti;Belu-Orizonti;Bello Horizonte
+Khorramshahr|IR||7o|2ck|3pu|2ju|Chorramschahr;Jorramchar;Koramsjar;Khorramxahr;Chorramšahr;Horamšaher;Choremšehras;Hürremşehr;Khoramshahr;Chorramszahr;Khurramshahr;Khorramchahre
+Horlivka|UA||98|3q6|2xm|1um|Horliwka;Qorlivka;Gorlivka;Gorłówka;Górlovka
+Hortolândia|BR||4w|-1ri|-3n6|1tq
+Harburg|DE|Hamburg|8r|44i|rq|1b0|Horborg;Bezirk Horborg
+Horta-Guinardó|ES||9d|372|61|1ap
+Hortaleza|ES||9d|34f|-a4|18x|Hortalezo
+Puli|TW||7l|1ul|9c1|o0|Phû-lî-tsṳ́n;Po͘-lí-tìn;Hori;Phố Lí;P’u-li
+Hawr al ‘Anz|AE||6c|1y8|49q|nj|Hor al Anz
+Horizonte|BR||2w|-be|-2yx|jq
+Horad Zhodzina|BY||9g|46a|26p|hi|Zhodzina;Żodino;Schodsina;Zhodino;Žodzina
+Horsens|DK||8y|4b6|rd|gz
+Horsham|GB||9b|3xu|-x|eb
+Horishni Plavni|UA||98|3s5|2lf|dv|Komsomol'sk;Komsomoļska;Komsomolsk i Ukraina;Komsomolsk;Horichni Plavni;Horišni Plavni;Horischni Plawni;Horisnyi Plavnyi;Komsomolsk-na-Dnipri
+Hørsholm|DK||8y|4b8|yq|d9|Hiorsholmas
+Horn|DE|Hamburg|8r|44r|s1|aj
+Horki|BY||9g|46t|2e3|7y|Horkai;Gorki
+Horikiri|JP||7q|2rb|asf|7x
+Hörde|DE||8r|3z0|ku|7p|Hoerde
+Hōryūji|JP||7q|2o5|ah2|7o|Ikaruga-chō
+Horten|NO||9j|4l2|t4|7k
+Horn Lake|US||2f|2p4|-6y3|7h
+Horta|ES||9d|374|60|7e
+Horb am Neckar|DE||8r|3qk|o5|75
+Hornchurch|GB||9b|3z8|m|73|Cornutum Monasterium
+Horgen|CH||a7|3na|nw|6b|Horga
+Hornsby|AU||8l|-2lm|bnq|69
+Horley|GB||9b|3y5|-g|5w
+Hörstel|DE||8r|41a|l3|5j
+Horizontina|BR||4w|-24r|-46v|5e
+Horsforth|GB||9b|45k|-4k|5e|Horsfordia
+Horizon City|US||2p|2g1|-871|5d
+Horizon Hills|MY||6v|42|7zx|58
+Horwich|GB||9b|44w|-73|57
+Horasan|TR||94|338|394|4r
+Horsham|AU||8j|-2tz|az0|4q|Horšamas;Horšama
+Horodok|UA|Khmelnytskyi|98|3sl|21s|4g
+Horodok|UA|Lviv|98|3ua|1tp|4g|Gródek Jagielloński;Gorodok;Gródek;Gródok Jagielloński
+Horní Měcholupy|CZ||9m|3v1|14h|49
+Horsham|US||48|33m|-5sp|44
+Horní Počernice|CZ||9m|3v7|14l|3z
+Horizon West|US||48|26z|-6aq|3w
+Horikoshi|JP||7q|2nq|ad2|3v
+Horodyshche|UA|Cherkasy|98|3sx|2fc|3s|Horodychtché
+Horst|NL||8m|3yx|gt|3q|Haors
+Hornsey|GB||9b|3zb|-c|3j
+Horw|CH||a7|3mm|n3|3f
+Hormigueros|PR||4m|1ee|-56h|3b
+Horodnia|UA||98|405|2fs|37|Horodnya;Gorodnya
+Khor|RU||7w|3p0|aew|37|Chor;Hor
+Gorodok|BY||9g|4a2|2ba|35|Haradok;Haradokas;Haradoka;Horodek
+Horqueta|PY||1y|-1su|-4eh|2x
+Horbury|GB||9b|452|-4c|2u
+Mscislau|BY||9g|462|2g4|2s|Mszislau;Mstsislau;Mscislavas;Mścisław;Horad Mstsislaŭ;Mstsislaw
+Horodenka|UA||98|3r7|1yu|2n
+Zhovtneve|UA|Donetsk|98|3rd|2w8|2l|Hora;Gora
+Ḩorr|IR||7o|2ha|3qf|2k
+Horana South|LK||68|io|66e|2i
+Hornu|BE||8t|3w3|an|2g
+Hornby|NZ||ak|-3cz|db9|2g
+Hørning|DK|Central Jutland|8y|4bt|rw|2e
+Horokhiv|UA||98|3wa|1ws|2c|Horochów;Gorokhuv;Gorokhov
+Hornsea|GB||9b|45r|-h|2c
+Hořice|CZ||9m|3vx|17f|2c|Horžicės
+Hørning|DK|Central Jutland|8y|4cp|sc|2c
+Horacio Zeballos Gamez|PE||3o|-19t|-5in|2c
+Hornell|US||48|39l|-5zq|2b
+Hořovice|CZ||9m|3ug|12m|2a|Horowitz;Horschowitz
+Horsley|AU||8l|-2nt|bmu|29
+Chorvátsky Grob|SK||8s|3pz|1c1|28|Horvátgurab;Horvatský Grob
+Horadiz|AZ||61|31l|3nh|25|Goradiz
+Horawala Junction|LK||68|i0|66l|23
+Hörby|SE||9w|4b5|11y|23
+Khoroshiv|UA||98|3wj|270|21|Choroschiw;Volodarsk-Volynskyï;Chorošiv;Horoşiv;Wołodarsk Wołyński;Volodarsk-Volînskîi;Khoroshov
+Horomui|JP||7q|3bn|axh|21
+Horn|DE|North Rhine-Westphalia|8r|403|ov|1y|Häoern
+Horstmar|DE||8r|40o|kb|1w
+Horncastle|GB||9b|43t|-c|1w
+Hornsby Bend|US||2f|2c1|-7j2|1w
+Horezu|RO|Vâlcea County|8u|3hf|1uq|1v
+Horseheads|US||48|395|-5xe|1u
+Horta|PT||81|2z2|-27j|1u
+Hornostayivka|UA||98|3ml|2lp|1t|Hornostaïvka
+Hornslet|DK||8y|4cg|so|1s
+Hörbranz|AT||a2|3o3|r3|1r
+Horcajo|ES||9d|349|-a3|1r
+Hradyzk|UA||98|3ss|2k2|1q|Hradysk;Gradizhsk;Hradizk;Gradızk;Horodyshche;Gorodishche
+Hornsby Heights|AU||8l|-2lj|bnp|1q
+Horgen / Horgen (Dorfkern)|CH||a7|3na|nw|1p
+Hormoz|IR||7o|23a|4ct|1n|Hormuz
+Horní Slavkov|CZ||9m|3va|zl|1m
+Horažďovice|CZ||9m|3t0|122|1l
+Piana degli Albanesi|IT||9o|2xj|10w|1l|Chiana;Hora e Arbereshevet
+Horoměřice|CZ||9m|3v9|13u|1k|Horoměřitz
+Horneburg|DE||8r|44n|qm|1j
+Horn|AT||a2|3r6|17i|1j
+Choroszcz|PL||a5|43m|1rv|1i|Choroščas;Horošča
+Horbourg-Wihr|FR||9k|3pk|kj|1i
+Horenka|UA||98|3wg|2c9|1i|Gorenka
+Horodnytsia|UA||98|3x5|23v|1g|Horodnyzja;Horodnytsya;Gorodnitsa;Horodnycja;Horodnica;Horodnîțea;Horodnicja
+Horst|DE|Schleswig-Holstein|8r|45h|qq|1g
+North Horr|KE||16|98|2uz|1g|Horr Kaskazini
+Horodkivka|UA||98|3qe|27p|1f|Gorodkovka
+Horodnic de Sus|RO||8u|3ow|1zq|1f
+Horodnye|UA|Odesa|98|3jh|285|1f|Ciișia;Horodnje;Horodnie
+Horšovský Týn|CZ||9m|3tl|zy|1d
+Hornachuelos|ES||9d|2x3|-ej|1b
+Horgeşti|RO||8u|3kz|237|1b
+Horgenzell|DE||8r|3ot|qe|1b
+Horonda|UA||98|3qe|1qp|19|Gorond;Goronda
+Hornberg|DE||8r|3px|mv|19
+Horní Bříza|CZ||9m|3ug|114|19
+Horton|US|Alabama|2f|2n0|-6nq|19
+Khorosheve|UA||98|3uh|2sn|18|Choroschewe;Xorosheve;Ĥoroŝeve;Khorocheve;Choroševe;Khoroshevo
+Hœrdt|FR||9k|3ra|lm|17|Hördt;Herdt
+Horní Suchá|CZ||9m|3uc|1fc|17|Sucha Górna;Gorna Sucha
+Horsford|GB||9b|42e|3g|16
+Horní Těrlicko|CZ||9m|3u7|1fc|15|Tierlitzko;Górne Cierlicko
+Polski Filvarky|UA||98|3r8|21t|15|Pol's'ki Fil'varky;Polskie folwarki;Polskie folvarki;Lyads'ki fil'varky;Liadski filvarky;Liadski humnyska;Lyads'ki humnys'ka;Horni filvarky;Aleksandrovskaya sloboda;Oleksandrivs'ka sloboda
+Horgen / Allmend|CH||a7|3n9|nx|12
+Hornachos|ES||9d|2z3|-gv|12
+Hort|HU||8v|3oh|1iz|12
+Horcajo de Santiago|ES||9d|32o|-8c|12
+Horodyshche|UA|Rivne Oblast|98|3wo|219|12|Gorodyshche;Horodyszcze;Gorodishche
+Horrabridge|GB||9b|3wb|-be|11
+Horningsea Park|AU||8l|-2ma|bn1|11
+Horodniceni|RO||8u|3o1|20p|11
+Horicon|US||2f|3cp|-6u7|11
+Hornbæk|DK||8y|4bt|ym|10
+Horseshoe Bay|US||2f|2cu|-7l9|10
+Kyrylivka|UA||98|3kt|2q9|z|Stepok;Horile
+Hora|UA|Kyiv Oblast|98|3vx|2dq|z
+Horná Poruba|SK||8s|3ry|1eu|y|Horní Poruba;Hornia Poruba
+Horia|RO|Neamț County|8u|3mb|22s|x
+Horná Súča|SK||8s|3s1|1dy|x|Hornia Súča;Horní Súča
+Horné Saliby|SK||8s|3po|1dc|x|Hornie Saliby;Horní Saliby
+Hordel|DE||8r|3z2|jy|x
+Jarovce|SK||8s|3pi|1bj|v|Horvathjarfalu;Horbátjárfalu;Kroatisch Jahrndorf;Hrvatski Jandrof;Horvátjárfalu
+Horleşti|RO||8u|3mw|241|v
+Hornstein|AT||a2|3p0|19o|u|Vorištan;Szarvkő
+Hörnsheim|DE||8r|3wc|nz|u
+Hornaing|FR||9k|3vx|9a|u
+Horbova|UA||98|3pw|20p|u
+Horinchovo|UA||98|3q3|1t3|u|Gorinchovo;Horinchove;Horinčovo
+Horiult|MN||7s|3hk|7rx|t
+Horseheads North|US||48|397|-5xd|s
+Horodok|UA|Zhytomyr Oblast|98|3wj|29u|s|Makariv-1
+Horishni Sherivtsi|UA||98|3qg|203|s|Horichni Chérivtsi
+Horoatu Crasnei|RO||8u|3mx|1rk|s|Horoatul Crasnei
+Høruphav|DK||8y|48j|ri|r
+Horodok|UA|Rivne Oblast|98|3wt|20p|r|Gorodok
+Hortonville|US||2f|3f5|-6u8|r
+Horyniec-Zdrój|PL||a5|3vf|1sw|r|Horyniec Zdrój
+Horgen / Scheller-Stockerstrasse|CH||a7|3nb|nv|r
+Hornburg|DE||8r|40j|tg|r
+Horka nad Moravou|CZ||9m|3tw|1bt|r
+Horné Srnie|SK||8s|3s3|1ea|q|Hornie Srnie;Horní Srnie
+Joroan|PH||71|11h|9je|q|Horoan
+Horní Bludovice|CZ||9m|3u7|1f8|q
+Hortelã de Cima|CV||84|1aj|-1rq|q
+Horace|US||2f|3lw|-7h6|p
+Horgen / Oberdorf|CH||a7|3na|nv|p|Horgen Oberdorf;Oberdorf
+Hörnefors|SE||9w|4wq|1jb|p
+Horgau|DE||8r|3qg|to|p
+Hörtendorf|AT||a2|3lj|140|o
+Horní Bečva|CZ||9m|3tb|1et|o
+Horrues|BE||8t|3wl|b8|o
+Horonobe|JP||7q|3h2|ay1|o|Poronobu;Horonobu
+Hördt|DE||8r|3sl|n5|o
+Horshchyk|UA||98|3xe|26m|o|Gorshchik
+Horodyshche|UA|Luhansk|98|3q8|2zc|o|Gorodishche
+Hørve|DK||8y|4av|vt|o|Hørv
+Obergurig|DE||8r|3y1|140|o|Hornja Hórka
+Horse Shoe|US||48|2q6|-6dc|o|Horseshoe;Horsehoe
+Horse Cave|US||2f|2va|-6mn|n
+Horn|CH||a7|3nx|qa|n
+Horse Pasture|US||48|2tr|-663|m
+Horní Benešov|CZ||9m|3ut|1cw|m
+Horia|RO|Arad County|8u|3kd|1nm|m
+Horam|GB||9b|3xi|o|m
+Horsunlu|TR||94|2xb|27f|m
+Horom|AM||80|34y|3dx|m
+Horoušany|CZ||9m|3v7|14y|m
+Hörsching|AT||a2|3pz|13e|m|Hoersching
+Horná Potôň|SK||8s|3pg|1cl|l
+Horseshoe Bend|US|Arkansas|2f|2sn|-72w|l
+Hormiguero|MX||44|1zc|-7z2|l
+Horka|DE||8r|3ye|13m|l|Hórki
+Horodnic de Jos|RO||8u|3oz|1zq|k
+Horní Jiřetín|CZ||9m|3wh|11n|k
+Meisir|IL||6n|2i4|2pc|k|H̱orbat Mesar;Meisar;H̱orbat Mezer
+Hörgertshausen|DE||8r|3qv|wz|j
+Horní Planá|CZ||9m|3rh|12z|j|Oberplan
+Horseshoe Bay|CA||5b|3t5|-9if|j
+Horné Orešany|SK||8s|3qn|1cg|j|Hornie Orešany;Horní Orešany
+Horion-Hozémont|BE||8t|3wn|ez|j
+Horhausen|DE||8r|3wj|kx|j
+Horoshova|UA||98|3qv|20i|j|Horoszowa;Goroshovo;Goroshova;Gorosheva
+Horná Kráľová|SK||8s|3q1|1dr|j|Hornia Král’ová
+Horní Cerekev|CZ||9m|3t0|16l|j
+Horche|ES||9d|34o|-8i|j
+Horcasitas|MX||41|1ax|-7mb|i|Iorcasitas
+Horsley Park|AU||8l|-2m0|bn1|i
+Horní Jelení|CZ||9m|3v1|18o|i
+Horní Branná|CZ||9m|3wl|179|i
+Horrenberg|DE||8r|3sw|oe|i
+Horodyshche|UA|Luhansk|98|3sa|325|i|Gorodyshche;Gorodishche
+Hortobágy|HU||8v|3o6|1mr|h|Hârtibaciu;Harbachtal
+Horní Sloupnice|CZ||9m|3uo|19e|h
+Horný Vadičov|SK||8s|3sw|1gh|h|Horní Vadičov
+Horton|US|Kansas|2f|326|-7dd|h
+Hornbach|DE||8r|3sn|kh|h
+Hornhausen|DE||8r|40l|v1|h
+Horní Moštěnice|CZ||9m|3t9|1ci|h
+Hormersdorf|DE||8r|3wr|zs|g
+Hornsyld|DK||8y|4aw|re|g
+Hortelã de Baixo|CV||84|1ak|-1rq|g
+Horsmonden|GB||9b|3y2|17|g
+Horndon on the Hill|GB||9b|3z4|14|g
+Horia|RO|Tulcea County|8u|3h2|271|g
+Horní Stropnice|CZ||9m|3rg|14y|g
+Harka|HU||8v|3ob|1a4|g|Horka
+Hornoy-le-Bourg|FR||9k|3uh|5a|f|Hornoè-l’Bourq
+Horvati|HR|Zagreb|a6|3iy|17y|f
+Hrochoť|SK||8s|3r6|1hn|e|Horhát
+Horb|UA||98|3ql|1tu|e
+Horvati|HR|Zagreb|a6|3j0|17y|e
+Horitschon|AT||a2|3o7|19z|e|Haracsony;Haračun
+Horstedt|DE|Lower Saxony|8r|43q|pn|e
+Horokanai|JP||7q|3e9|ayv|e
+Horjul|SI||9a|3ju|13q|d
+Horní Lideč|CZ||9m|3sm|1e6|d
+Hörselgau|DE||8r|3xg|te|d|Hoerselgau
+Horta Seca|CV||84|1av|-1xe|d
+Hornstorf|DE||8r|45r|w1|d
+Horný Bar|SK||8s|3p7|1ci|d|Horní Bar
+Horia|RO|Constanța County|8u|3fz|264|c
+Horton Kirby|GB||9b|3yr|o|c
+Hordain|FR||9k|3vm|97|c
+Horred|SE||9w|4fb|yo|c
+Horsted Keynes|GB||9b|3xs|-3|c
+Hornitos|MX||41|1i2|-7fu|c
+Horní Počaply|CZ||9m|3w2|13z|b
+Hörden|DE||8r|3zj|sk|b|Hürn
+Hortlax|SE||9w|51c|1nh|b
+Horndal|SE||9w|4ni|19m|b
+Horodło|PL||a5|3xd|1us|b
+Hornby Island|CA||5b|3tl|-9mb|b
+Horning|GB||9b|42e|42|b
+Horoshivtsi|UA||98|3qo|206|b|Horoșăuți;Horochivtsi
+Horssen|NL||8m|402|fl|b|Horsen
+Horodok|UA|Volyn|98|3yp|1yr|b|Gorodok
+Horben|DE||8r|3p5|lv|b
+Horatio|US||2f|2ma|-7a4|b
+Hornówek|PL||a5|419|1lt|b
+Hornepayne|CA||59|3sp|-6ji|b
+Höri|CH||a7|3nz|nn|a
+Horgues|FR||9k|3bz|9|a
+Hornostaypil|UA||98|3xv|2c1|a|Hornostaipil;Hornostajpil;Hornostajpol;Gornostaypol’
+Horton|GB||9b|3yz|-1i|a
+Horokhivske|UA||98|3mg|2iu|a
+Horní Čermná|CZ||9m|3ut|1a5|a
+Horní Město|CZ||9m|3un|1bt|a
+Horní Beřkovice|CZ||9m|3vw|13v|a
+Horodnye|UA|Kharkiv|98|3v7|2pw|a|Horodnie;Gorodnoye
+Hörgas|AT||a2|3mz|16i|a
+Horodiștea|RO|Botoșani County|8u|3q0|228|a
+Horovce|SK||8s|3s9|1eq|9
+Hörnum|DE||8r|484|n1|9|Hörnem
+Horní Štěpánov|CZ||9m|3tn|1an|9|Stefansdorf
+Horné Lefantovce|SK||8s|3qi|1ee|9|Hornie Lefantovce;Hornie Lefantovice
+Horconcitos|PA||4g|n3|-6c7|9|Horoncitos
+Hornussen|CH||a7|3ny|me|8
+Horia|RO|Ialomița County|8u|3fq|22g|8
+Horbivtsi|UA||98|3pb|20i|8|Gărbăuți
+Hoornsterzwaag|NL||8m|438|h5|8|Hornsterzwaag;Hoarnstersweach
+Horoshyne|UA||98|3ty|2iz|8|Goroshino;Goroshin
+Hörmsdorf|AT||a2|3lp|16e|8
+Horine|US||2f|2yb|-6z6|8
+Horcones|MX||41|1mj|-7jj|8
+Horgen / Käpfnach|CH||a7|3n9|nx|8
+Horní Němčí|CZ||9m|3rx|1cy|8
+Horbanivka|UA||98|3tn|2nt|8
+Horní Ředice|CZ||9m|3v4|18c|8
+Hörvik|SE||9w|4bo|150|8
+Horrweiler|DE||8r|3um|m5|8
+Horbachevo-Mykhailivka|UA||98|3ox|2xl|8|Horbachevo-Mykhaylivka;Horbačevo-Mychajlivka;Horbatschewo-Mychajliwka;Horbatjevo-Mychajlivka;Gorbaçevo-Mıhaylivka;Horbačevo-Mihajļivka
+Horonhlab|UA||98|3q7|1q4|8
+Hořice na Šumavě|CZ||9m|3rh|13e|8|Höritz im Böhmerwalde
+Horringer|GB||9b|412|1v|8
+Horbok|UA||98|3q7|1rk|8|Gorbok
+Horné Dubové|SK||8s|3qs|1cs|8|Hornie Dubové
+Hora|UA|Poltava|98|3tm|2o1|8
+Horstermeer|NL||8m|415|e4|8
+Horbachi|UA||98|3tr|1uf|8|Horbacze;Gorbache;Gorbachi
+Höringen|DE||8r|3to|lo|8
+Horní Podluží|CZ||9m|3xc|14f|7
+Horstedt|DE|Schleswig-Holstein|8r|47g|p7|7
+Hořín|CZ||9m|3vu|146|7
+Horbach|DE|Rheinland-Pfalz|8r|3vx|lt|7
+Knappenrode|DE||8r|3ys|13s|7|Hórnikecy;Knappenroda
+Horseshoe Bay|AU||8c|-1h4|bby|7
+Horcajo de las Torres|ES||9d|362|-e5|7
+Horní Blatná|CZ||9m|3vz|zh|7
+Horsarrieu|FR||9k|3dc|-1o|7|Horcsarriu;Horcs Arriu
+Horseshoe Bend|US|Idaho|28|3dz|-8ys|7|Horse Shoe Bend
+Hořiněves|CZ||9m|3vr|17t|7
+Horstdorf|DE||8r|3zy|yj|7
+Horní Police|CZ||9m|3wu|140|7
+Horpaz|RO||8u|3mv|24j|7
+Horta (San Antonio de Horta)|MX||41|1lb|-7tz|7
+Hořátev|CZ||9m|3vb|15s|7
+Horní Dunajovice|CZ||9m|3rz|18w|7
+Karşıyaka|TR|Bitlis|94|2zt|3bc|7|Horans
+Horno de Cal|MX||41|1m2|-7pk|6
+Hörsingen|DE||8r|418|uz|6
+Horná Mičiná|SK||8s|3ra|1hd|6|Horní Mičiná;Hornia Mičiná
+Horní Dubenky|CZ||9m|3su|16k|6
+Hörup|DE||8r|482|pa|6
+Horezu|RO|Olt|8u|3fj|1uk|6
+Hornersville|US||2f|2s4|-6yb|6
+Hořepník|CZ||9m|3tj|15z|6
+Horby|UA||98|3tb|2ju|6|Gorby
+Hornos|ES||9d|2x9|-8v|6
+Horní Třešňovec|CZ||9m|3uq|1a4|6
+Horbky|UA||98|3pr|1sf|6
+Horia|RO|Botoșani County|8u|3po|22x|6
+Horní Bojanovice|CZ||9m|3rz|1ao|6
+Horní Lhota|CZ|Moravian-Silesian Region|9m|3uh|1e7|6
+Ustya-Zelene|UA||98|3s7|1xd|6|Uście Zielone;Ustia-Zelene;Uście Różane;Horożane;Us’tse Zelene;Ust’ye Zelene
+Horăști|RO||8u|3gf|1rx|6
+Horntown|US||48|2xh|-5tm|6|Horn Town
+Horslunde|DK||8y|48j|v6|6
+Horbach|DE|Rheinland-Pfalz|8r|3t1|l9|6
+Horn|AU||8c|-th|az8|6
+Horní Domaslavice|CZ||9m|3u2|1fa|6
+Horyslavtsi|UA||98|3so|2kl|6
+Horn|SE|Västmanland|9w|4la|198|5
+Horn|SE|Östergötland|9w|4gu|17z|5
+Horní Bělá|CZ||9m|3ul|10u|5
+Horní Lhota|CZ|Zlín|9m|3sj|1dg|5
+Horodiștea|RO|Iași County|8u|3nj|22r|5
+Horst|DE|Mecklenburg-Vorpommern|8r|45o|xb|5
+Horodeshchyne|UA||98|3ra|2w3|5
+Horpmaal|BE||8t|3x0|eu|5|Horpmael
+Horsfield Bay|AU||8l|-2l1|boa|5
+Horní Věstonice|CZ||9m|3rr|1a7|5
+Horbelev|DK||8y|48a|xi|5|Horbelöv
+Horní Kruty|CZ||9m|3uo|15k|5
+Horton Bay|US||2q|3hs|-6kc|5
+Horní Dvořiště|CZ||9m|3r0|141|5
+Horný Lieskov|SK||8s|3sa|1f8|5

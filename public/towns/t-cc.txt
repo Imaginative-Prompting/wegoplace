@@ -1,0 +1,31 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Changzhou|CN||7i|2g9|997|pe5|Changtsjou;Csangcsou;Thường Châu;Čangdžou;Čchang-čou;Ĉangĝoŭo;Siông-chiu-chhī;Siòng-ciŭ;Čangdžov;Changchow;Ch’ang-chou
+Changsha|CN|Hunan|7i|26c|8pt|nvg|Ĉangŝa;Trường Sa;Cangzsah;Čchang-ša;Chhòng-sâ-sṳ;Csangsa;Changsja;Tn̂g-soa-chhī;Diòng-să;Čanša;Chansha
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Qingyuan|CN|Guangdong|7i|1tu|8pz|dew|Chĭng-uōng;Čching-jüan;Chhîn-yén-sṳ;Thanh Viễn;Chheng-oán-chhī;Tsingyüan;Ch’ing-yüan
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Changde|CN||7i|28n|8ma|b8u|Changteh;Čchang-te;Sòng-tet-sṳ;Čangdė;Thường Đức;Siòng-dáik;Siông-tek-chhī;Ch’ang-te
+Qujing|CN||7i|1ys|80a|av9|Čchü-ťing;Khúc Tĩnh;Kuóh-cêng;Khiok-chēng-chhī
+Qinzhou|CN||7i|1p2|8dt|a03|Ginhcouh;Kĭng-ciŭ;Čchin-čou;Khîm-chû-sṳ;Khâm Châu;Khim-chiu-chhī;Ch’in-chou
+Changzhi|CN|Shanxi|7i|2si|8q7|9dh|Čchang-č;Ĉanĝi;Čangdži;Trường Trị;Diòng-dê;Tiông-tī-chhī;Chang-chi;Ch’ang-chih
+Chengde|CN||7i|35r|93o|73o|Čengdė;Thừa Đức;Čcheng-te;Sìng-dáik;Sêng-tek-chhī;Chengteh;Ch’eng-te
+Quzhou|CN||7i|28g|967|6ys|Čchü-čou;Cù Châu;Kû-chiu-chhī;Gṳ̀-ciŭ
+Chuzhou|CN||7i|2hs|94m|61f|Chuju shehiri;Chutsjou;Čchu-čou;Trừ Châu;Dṳ̀-ciŭ;Tû-chiu-chhī
+Qinhuangdao|CN||7i|32y|987|5v1|Chinxuangdaw shehiri;Tần Hoàng Đảo;Činhuangdao;Cjiņhuandao;Čchin-chuang-tao;Ĉinhŭangdaŭo;Cìng-huòng-dō̤;Chîn-hông-tó-chhī;Ch’in-huang-tao
+Cheonan|KR||7h|2u9|9t7|530|Ch'ŏnan;Čchonan;Thiên-ôn-sṳ
+Cangzhou|CN||7i|2yf|90l|42l|Thương Châu;Canĝou;Cchang-čou;Cangzou;Chŏng-ciŭ;Chhong-chiu-chhī
+Chifeng|CN||7i|39f|96g|2ob|Tschiföng;Xích Phong;Chiáh-hŭng;Čch’-feng;Chhak-fûng-sṳ;Chhek-hong-chhī;Ch’ih-feng
+Chongjin|KP||7a|384|a0i|2iu|Ch’ŏngjin;Cshongdzsin;Čondžinas;Cheongjin;Čchongdžin;Ĉongĵin;Chonjin
+Chuncheon|KR||7h|2x8|9ut|275|Ch'unch'ŏn;Čchunčchon;Čunčonas;Ĉunĉon;Chhûn-chhôn-sṳ;Çunçeon
+Chungju|KR||7h|2uq|9vd|1m7|Čchungdžu;Chûng-chû-sṳ;Čungdžu;Çungcu;Ch’ungju
+Qufu|CN||7i|2qw|90z|nn|Cjujfu;Čchü-fu;Csüfu;Khúc Phụ;Chü-fu
+Ccaquiracunca|PE||3o|-13o|-5ih|15
+Ccolo|PE||3o|-173|-5il|13
+Ccuntuma|PE||3o|-139|-5id|z
+Ccapi|PE||3o|-12h|-5k8|9|Capi
+Ccatca|PE||3o|-11t|-5is|5|Ccatsa;Catca
+Ccarancalla|PE||3o|-11x|-5nw|5

@@ -1,0 +1,100 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Addis Ababa|ET||2|p2|2zn|ts8|Ādīs Ābeba;Adis-Abebo;Addis Abeba;Addis-Abeba;Addisz-Abeba;Neanthopolis;Adisabeba;Adis Ababa;Tungga;Addisaaba;Addis Abbaba
+Naples|IT||9o|35h|13n|70i|Napoli;Neapel;Nápoles;Nàpols;Neapol;Napolo;Nápoly;Neapolis;Neapole;Napule;Napels;Nàpuli;Neapelj;Napulj;Noapels;Napul;Nappoli
+Piatra Neamţ|RO||8u|3mc|215|sj|Piatra-Neamt
+Near North Side|US||2f|38e|-6rf|nt
+Ílion|GR||8p|2xn|1tu|nk|Nea Liosia
+Évosmos|GR||8p|34z|1rn|kr|Nea Coclutsa;Taousán Lófos;Harmanköj;Harmankioi;Évosmo;Évosmon
+Néa Smýrni|GR||8p|2xf|1tv|kb|Néa Smírni
+Néa Ionía|GR|Attica|8p|2xo|1u0|in
+Neath|GB||9b|3zi|-ak|ct|Castell Nedd;Nitas;Castell-nedd
+Néa Ionía|GR|Thessaly|8p|31e|1rp|8v
+Neapoli|GR|Central Macedonia|8p|34x|1rq|76
+Néa Filadélfeia|GR|Attica|8p|2xn|1ty|75|Néa Filadhélfia
+Near South Side|US||2f|38a|-6re|68|Nir Saut Sajd
+Naples|US|Florida|48|20m|-6b8|5z|Neapolis
+Néa Erythraía|GR||8p|2xt|1u6|56|Néa Erithraía
+Néa Mákri|GR||8p|2xt|1um|51
+Novhorod-Siverskyi|UA||98|40h|2ke|48|Nowhorod-Siwerskyj;Nóvgorod-Síverski;Siverų Naugardas;Severų Naugardas;Severianų Naugardas;Novhoroda-Siverska;Novogardia Severiae;Neapolis Scytharum;Novhorod-Sivers'kyj;Novogardia di Severia;Novgorod-Seversk;Novgorodul de Nord;Novgorod-Siverskıy;Novhorod-Siverskõi;Novhorod-Sziverszki;Nowogród Siewierski;Novhorod;Noŭharad-Sievierski;Novy Horod;Novyy Horod;Novyi Horod;Novhorodok;Novogorod-Severskiy;Novgorod-Severskiy;Novhorod-Sivers’kyy
+Néa Alikarnassós|GR||8p|2q6|1xw|42|Néa Alikarnasós
+Nealtican|MX||41|1gx|-7lf|37
+Newtown|GB||9b|41w|-96|36|Y Drenewydd;Neapolis;Niutaunas;Tre-Newydd
+Néa Michanióna|GR||8p|34e|1ri|30|Nea Mechaniona;Néa Mikhanióna
+Néa Artáki|GR||8p|2z0|1tn|2v
+Néa Kallikráteia|GR||8p|33z|1s2|2t|Néa Kallikrátia
+Néa Moudhaniá|GR||8p|33s|1so|2s|Nea Moudania
+Néa Chalkidóna|GR||8p|2xn|1tx|2q|Néa Khalkidóna;Nea Chalchidona;Nea Chalkidon;Nea Halkidona
+Néa Péramos|GR|Attica|8p|2xl|1t2|21|Megálo Péfko;Megálo Pévko
+Neápoli|GR|Peloponnese|8p|2tf|1s2|20|Neópolis
+Néa Pentéli|GR||8p|2xq|1ua|1x
+Néa Anchiálos|GR||8p|314|1re|1n|Néa Ankhíalos
+Neápoli|GR|Crete|8p|2py|1z4|17
+Néa Magnisía|GR||8p|351|1rh|15|Araplí
+Néa Raidestós|GR||8p|34k|1s1|15|Néa Raidhestós
+Neiafu|TO||bi|-1ft|-dfa|12|Nei-afo;Neafu
+Néa Manoláda|GR||8p|2xp|1ne|11|Néa Manolás
+Néa Palátia|GR||8p|2yg|1u4|11
+Néa Péramos|GR|East Macedonia and Thrace|8p|35g|1vi|z
+Neápoli|GR|West Macedonia|8p|33z|1nf|w|Lapçişte;Nasliç;Lapsista
+Néa Tírins|GR||8p|2wh|1re|w|Nea Tiryntha
+Néa Tríglia|GR||8p|33z|1sh|v
+Neauphle-le-Château|FR||9k|3rl|5b|t
+Néa Kíos|GR||8p|2wf|1r6|s
+Neang Sav|KH||78|yv|829|q|Neang Sau
+Néa Zíchni|GR||8p|35z|1u7|p|Néa Zíkhna;Néa Zíkhni
+Néa Mesimvría|GR||8p|357|1r9|n
+Néa Málgara|GR||8p|34t|1r0|m
+Néa Lámpsakos|GR||8p|2ys|1tn|m
+Néa Karváli|GR||8p|35s|1w3|k
+Néa Kerasiá|GR||8p|34g|1rj|j
+Néa Fókaia|GR||8p|33h|1t0|j
+Néa Vrasná|GR||8p|353|1tu|i
+Néa Výssa|GR||8p|37i|21q|h|Néa Víssi;Néa Vísa;Néa Víssa
+Néa Apollonía|GR||8p|34v|1t4|h|Egri Butzak;Egrí Buják
+Neagra Șarului|RO||8u|3n8|1yd|g
+Néa Flogitá|GR||8p|33u|1si|g|Flogita;Floyitá
+Néa Pélla|GR||8p|359|1qh|g
+Néa Sánta|GR||8p|35g|1ro|g|Néa Sánda
+Néa Iraklítsa|GR||8p|35i|1vk|g|Néa Praklitsa;Néa Irakleítsa
+Néa Potídhaia|GR||8p|33n|1st|g|Nea Potidaia;Nea Potidea
+Néa Poteídaia|GR||8p|33n|1st|f|Nea Potidaia;Néa Potídhaia
+Neaua|RO||8u|3l4|1wz|f
+Neápolis|GR||8p|2zf|1nc|e|Neapoli
+Néa Karyá|GR||8p|35n|1wn|e|Néa Kariá;Néa Korná
+Néa Mádytos|GR||8p|34u|1tg|e|Néa Mádhitos
+Néa Éfesos|GR||8p|33r|1qi|d
+Néa Seléfkeia|GR||8p|31s|1ka|c|Néa Selévkia
+Néa Róda|GR||8p|346|1ug|c|Néa Ródha
+Néa Plágia|GR||8p|33v|1sg|b|Néa Pláyia
+Neaufles-Saint-Martin|FR||9k|3sw|4t|b
+Néa Stíra|GR||8p|2y2|1v9|a|Nea Styra
+Néa Anatolí|GR||8p|2p9|1za|a
+Néa Kerasoúnta|GR||8p|30s|1ly|9
+Néant-sur-Yvel|FR||9k|3pd|-6h|9|Neant
+Néa Epídavros|GR||8p|2wo|1s9|9|Néa Epídhavros
+Neah Bay|US||3p|3qd|-9m6|9|Baadah;Neahbay
+Neauphlette|FR||9k|3rx|49|8
+Néa Irákleia|GR||8p|343|1ry|8|Néa Iráklia
+Néa Skióni|GR||8p|32z|1td|8
+Néa Nikomídeia|GR||8p|34r|1pt|8|Néa Nikomídhia
+Néa Sílata|GR||8p|341|1s9|8|Néa Silláta
+Néa Filadélfeia|GR|Central Macedonia|8p|35c|1rg|8|Néa Filadhélfia
+Néa Avórani|GR||8p|2z9|1nl|8|Avorani
+Neau|FR||9k|3ps|-1c|7
+Neauphle-le-Vieux|FR||9k|3rm|56|7
+Neajlovu|RO|Giurgiu County|8u|3f3|1zj|7
+Néa Báfra|GR||8p|35v|1uq|7|Nea Mpafra
+Néa Tirolóï|GR||8p|367|1sy|7|Nea Tyroloi;Néa Tirolór
+Néa Lykógianni|GR||8p|34p|1ps|6|Néa Likóyianni
+Néa Politeía|GR||8p|2ye|1u3|6|Nea Politia
+Néa Sampsoúnta|GR||8p|30l|1lm|6
+Neatârnarea|RO||8u|3gb|277|6|Neatîrnarea
+Neápoli Spáton|GR||8p|2xh|1um|6
+Néa Léfki|GR||8p|34j|1n0|6
+Néa Sinópi|GR||8p|30k|1lk|6
+Neagra|RO|Neamț County|8u|3m8|206|6|Negra
+Neajlovu|RO|Dâmbovița County|8u|3g2|1y7|5
+Néa Kerdýlia|GR||8p|35b|1u8|5|Néa Kerdhília
+Néa Zoí|GR||8p|2xs|1t8|5
+Neagra|RO|Suceava|8u|3n8|1ze|5
+Néa Trapezoúnta|GR||8p|341|1qk|5

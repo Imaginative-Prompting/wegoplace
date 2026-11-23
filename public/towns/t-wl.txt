@@ -1,0 +1,23 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vladivostok|RU||7w|3br|a6b|4o1|Wladiwostok;Władywostok;Vlagyivosztok;Uładzivastok;Vladyvostok
+Vladimir|RU||9i|4by|348|2r6|Wladimir;Volodimiria;Władymir;Włodzimierz;Vlagyimir
+Vladikavkaz|RU||9i|3bk|3g3|2d3|Wladikawkas;Vladicáucaso;Władykaukaz;Wladikafkaz;Vladikaukazas;Vladikaukāza;Vladiqafqaz;Wladikawkaz
+Włocławek|PL||a5|429|1gz|xf|Vloclaveka;Vloclavekas
+Vlorë|AL||9y|34f|1i4|w1|Avlonya;Avlona;Avlon;Valona;Vlora;Wlora;Vliorė;Vlyora;Vallona;Vlona;Vlonë;Au’lon;Vljora
+Wodzisław Śląski|PL||a5|3uw|1fb|dr|Silezijos Vodzislavas;Władźisłůw;Vodzislava Slonska;Wodisław-Śląski
+Volodymyr-Volynskyi|UA||98|3x9|1vk|aj|Włodzimierz;Vladimir;Włodzimierz Wołyński;Lodomeria;Volodymyr;Wolodymyr;Wolodymyr-Wolynskyj;Volodimir;Volodymir-Volyns’kyy;Włodzimierzec;Volodymyr-Volyns’kyy
+Włochy|PL||a5|40y|1m7|a3
+Władysławowo|PL||a5|487|1f4|45|Wiôlgô Wies;Vladislavovo
+Włodawa|PL||a5|3z7|1tf|3n
+Włoszczowa|PL||a5|3x9|1jh|2z|Vloščova;Włoszczowo
+Volodymyrets|UA||98|3yu|20m|2l|Włodzimierzec;Wolodymyrets;Volodımırets;Vladimirets;Volodymyrec';Volodymyrec;Volodîmîreț;Vladimirei;Volodymerets’
+Vlasivka|UA|Kirovohrad|98|3sg|2kg|24|Vlassivka;Ulasivka;Wlassiwka
+Vladimirskaya|RU||9i|3fr|35b|21|Vladimirskaja;Wladimirskaja;Vladimirovskaya
+Włoszakowice|PL||a5|409|19g|w
+Kudirkos Naumiestis|LT||a3|485|1ri|k|Kudirkas Naumieste;Kodirkas Naumiestis;Kudirkos Naumestis;Władysławów;Wladislawow;Kudirkos-Naumestis
+Wleń|PL||a5|3xq|17j|j
+Władysławów|PL||a5|40q|1fc|g
+Włosienica|PL||a5|3uy|1ho|f
+Włodowice|PL|Silesia|a5|3wg|1i1|c
+Vladislav|CZ||9m|3sp|18f|c|Wladislau
+Włodowice|PL|Lower Silesia|a5|3wi|19s|8|Walditz

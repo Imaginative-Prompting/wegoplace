@@ -1,0 +1,79 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Montréal|CA||59|3if|-5of|dlp|Mont-real;Monreyal;Mons Regius;Monrealis;Monreāla;Monreal
+Monterrey|MX|Nuevo León|44|1zc|-7qo|8rf|Monterejo;Monterrei;Tlahtoāntepēc;Monterėjus;Monterreja;Mons Regis
+Münster|DE|North Rhine-Westphalia|8r|40c|l7|2dn|Mönster;Monasterium;Miunsteris;Minstere;Muenster
+Montpellier|FR||9k|3d5|as|1wz|Montpelhièr;Montpeller;Monpeljė;Monspessulanus;Montpelyiér;Monpelye;Monpeljeo
+Móstoles|ES||9d|340|-aq|1lj|Mostolo;Monsteles
+Montgomery|US|Alabama|2f|2hx|-6nq|1i9|Montgomeri;Montgomeris;Mons Gomerici;Montqomeri
+Kreuzberg|DE||8r|41u|118|16j|Kreizberg;Mons Crucis
+Monza|IT||9o|3im|pr|yk|Modicia;Munscia;Monsa
+Mons|BE||8t|3w5|az|qh|Bergen;Mont;Montes;Mon;Bergn;Berge
+Montauban|FR||9k|3ea|3r|ek|Montalban;Montobanas;Mons Albanus
+Monte Alto|BR||4w|-1n2|-3qq|e4|Mons Altus
+Monsanto|PT|Santarém|99|31m|-o7|dw
+Montluçon|FR||9k|3kq|78|ci|Mons Luzonis
+Montbéliard|FR||9k|3nz|iw|81|Monbeljaras;Mons Biliardi;Mömpelgard;Montoeliard
+Monsefú|PE||3o|-j3|-65v|75
+Mons-en-Barœul|FR||9k|3wn|8o|6e
+Montceau-les-Mines|FR||9k|3ln|c5|5m|Monso le Minas
+Monserrato|IT||9o|312|pe|5m|Monserratu
+Monção|PT||99|38w|-nk|5h|Monsão
+Monselice|IT||9o|3ho|wn|57
+Monsey|US||48|367|-5pr|54
+Morlaix|FR||9k|3qy|-an|4v|Montroulez;Mons Relaxus
+Montargis|FR||9k|3pc|7l|4v|Mons Argii
+Monsenhor Tabosa|BR||2w|-db|-33a|4r
+Monschau|DE||8r|3wf|hc|3l|Mondjoye;Montjoie
+Monsummano Terme|IT||9o|3dv|u1|3l|Monsumanno Terme
+Montabaur|DE||8r|3w4|lq|3f|Mons Tabor;Montebaur
+Monte Argentario|IT||9o|39v|uw|3d|Mons Argentarius;Munti Argintario
+Saint-Amand-Montrond|FR||9k|3ls|6y|3c|Sant Amand Montrond;Mons Rotundus;Saint-Amand-Mont-Rond
+Monster|NL||8m|40j|bm|38
+Monsenhor Gil|BR||2w|-fg|-3ad|2v
+Montignoso|IT||9o|3ea|s9|2s|Mons Tiniosus;Muntignusu
+Monson|US|Massachusetts|48|38y|-5kw|2d
+Monsenhor Paulo|BR||4w|-1og|-3ii|2b
+Montmorillon|FR||9k|3kz|2f|28|Mons Morillonis
+Monserrat|ES||9d|31d|-1o|24|Montserrat d'Alcalà;Montserrat
+Monsenhor Hipólito|BR||2w|-jg|-35z|24
+Montlhéry|FR||9k|3r4|6b|1s|Mons Lehericus
+Montfort-sur-Meu|FR||9k|3pq|-5g|1o|Moñforzh;Monsfortis;Monfort-sur Meu
+Mönsterås|SE||9w|4eg|19o|1e
+Guémené-Penfao|FR||9k|3ob|-53|1e|Gwenvenez-Penfaou;Mons Candidus;Guéméné-Pentao
+Mons-lez-Liège|BE||8t|3wm|f6|1d
+Munshāt ‘Alī Āghā|EG||c|2ek|2da|12|Monshaat Ali Agha;Munshāh ‘Alī Āghā;Monshāt ‘Alī Āghā
+Montsoult|FR||9k|3sb|6g|z|Monsoult
+Montepulciano|IT||9o|3bq|wr|y|Mons Politianus
+Moncoutant|FR||9k|3ls|-1n|u|Mons Constantis
+Montgermont|FR||9k|3ps|-4s|u|Menezgervant;Mons Germundi
+Mönsheim|DE|Baden-Wurttemberg|8r|3rr|on|s
+Monserrate|PR||4m|1f8|-54c|s
+Monsheim|DE|Rheinland-Pfalz|8r|3tw|mt|q
+Monsano|IT||9o|3d0|10t|n
+Monsempron|FR||9k|3fl|2m|n|Montsempron e Libós;Montsempron
+Montalcino|IT||9o|3bl|vx|l|Mons Ilcinus;Muntalcinu
+Monson Center|US||48|38y|-5ku|l
+Mons-en-Pévèle|FR||9k|3w8|8m|l|Mons-en Peyele;Mont-en-Pévèle
+Monswiller|FR||9k|3rg|ki|j
+Guggisberg|CH||a7|3lx|kd|g|Mons Guchani
+Monségur|FR||9k|3g1|8|g
+Mons|FR|Occitanie|9k|3ek|bl|f
+Müntschemier|CH||a7|3mk|jv|d|Monsmier
+Mont-Saxonnex|FR||9k|3jx|hz|d|Mons Saxonensis
+Mons|FR|Occitanie|9k|3d5|4d|c
+Montemagno|IT||9o|3gy|n5|a|Mons Magnus;Montmagn
+Monsols|FR||9k|3ke|ck|a
+Mons|AU||8c|-225|bt3|9
+Monte Giardino|SM||9q|3dz|yo|9|Montegiardino;Mons Viridarium;Montedžardinas;Mondesciardìne;Montejardin
+Montriond|FR||9k|3kc|il|8|Mons Rotundus Caballiciensium
+Monsanto|PT|Castelo Branco|99|338|-jr|8|Mossanto
+Monsireigne|FR||9k|3lu|-2n|8
+Monsoreto|IT||9o|2z0|18x|8
+Monsampietro Morico|IT||9o|3bn|11o|7
+Mons|FR|Provence-Alpes-Côte d'Azur|9k|3dd|in|7
+Monteleone Sabino|IT||9o|39b|zq|7|Mons Leonis Sabinus;Muntiliuni Sabinu
+Monson|US|Maine|48|3ht|-5d2|7
+Mons|FR|Occitanie|9k|3d1|88|6
+Monsteroux-Milieu|FR||9k|3i7|dr|6
+Monsampolo del Tronto|IT||9o|3b6|12b|5
+Monstab|DE||8r|3xo|yb|5

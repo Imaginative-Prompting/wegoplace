@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Gaza|PS||6f|2fi|2nr|35w|Gazze;Gàsa;Gaesa;Gaz;Xeze;Gaaza;Ghazze
+Garissa|KE||16|-19|325|19e|Garisa;Gaarisa
+Gaalkacyo|SO||14|it|3nr|h0|Galcaio;Gaal Kacyo;Gallacaio;Galkayo;Gaalkayo;Galkajo;Galkacyo;Galka‘yo’;Gallacai
+Gharyan|LY||1d|2hd|106|a1|Garyan;Garián;Qaryan;Gaariyaan;Garião
+Gasperich|LU||9c|3tr|h0|2u|Gaasperech
+Haapsalu|EE||9x|4jq|1te|2o|Hapsal;Hāpsalu;Hapsalia;Haap;Haapsula;Gaapsalu;Khaapsalyu;Gapsal’;Khapsalu
+Bailey|US|Colorado|2p|31h|-84z|28|Gáagii Bikooh
+Gaanderen|NL||8m|409|hn|1k
+Gaaden|AT||a2|3ph|190|g
+Ga‘ash|IL||6n|2hj|2oq|8
+Caaschwitz|DE||8r|3xj|xc|7|Gaaschwitz

@@ -1,0 +1,10 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Nazaire|FR|Pays de la Loire|9k|3nc|-66|in|Sant-Nazer;Fanum Sancti Nazarii in Sinnuario;Sen Nazeras
+Sanary-sur-Mer|FR||9k|3bs|g4|5c|Sant Nari
+Saint-Nolff|FR||9k|3oi|-7d|10|Sant-Nolf
+Saint-Nicolas-de-Redon|FR||9k|3oc|-5r|v|Sant-Nikolaz-an-Hent
+Saint-Nazaire|FR|Occitanie|9k|3aj|8b|q|Sant Nazari
+Saint-Nicolas-du-Pélem|FR||9k|3q7|-8t|k|Sant-Nikolaz-ar-Pelem
+Saint-Vougay|FR||9k|3qz|-bi|8|Sant-Nouga
+Saint-Nazaire-de-Pézan|FR||9k|3d8|bg|6|Sant Nasari;Sant Nazari de Pesan
+Saint-Nabor|FR||9k|3ql|km|5|Sankt Nabor;Sant Nawer

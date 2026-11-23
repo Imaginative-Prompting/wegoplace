@@ -1,0 +1,27 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Thomas Mount|IN||6t|104|66s|c6|Saint Thomas’s Mount
+St. Thomas|CA||59|3at|-69i|at|Saint Thomas
+Sint-Truiden|BE||8t|3x6|ef|aj|Saint-Trond;Sintruin;Sent-Trüden;Sint Treidens;Oppidum Sancti Trudonis;Sint Treidenas;Sinttreidena;Sint-Truudn;Sint-Trond;Sint Truijen
+Saint-Tronc|FR||9k|3c7|f2|40
+Saint-Thibault-des-Vignes|FR||9k|3rr|7g|1t
+Saint-Tropez|FR||9k|3c7|ig|1n|Sant Tropetz;Heraclea Cacabaris
+Saint-Tite|CA||59|3lt|-5ll|13
+Saint-Thomas|CA||59|3ju|-5nr|w
+Saint-Thibéry|FR||9k|3ck|9i|p
+Saint-Thégonnec|FR||9k|3qs|-az|o|Sant-Tegoneg
+Saint-Thuriau|FR||9k|3pe|-87|k|Sant-Turiav
+Saint-Thurial|FR||9k|3pf|-5d|i|Sant-Turiav-Porc'hoed
+Saint-Trivier-sur-Moignans|FR||9k|3jz|dm|h
+Saint-Trojan-les-Bains|FR||9k|3jc|-3d|f
+Saint-Thonan|FR||9k|3qo|-c2|c|Sant-Tonan
+Saint-Trivier-de-Courtes|FR||9k|3l2|e4|a
+Saint-Thurien|FR||9k|3p8|-a2|9|Sant-Turian
+Saint-Thibaud-de-Couz|FR||9k|3ie|g8|8
+Saint-Théophile|CA||59|3jl|-5fs|7
+Saint-Thois|FR||9k|3ps|-as|7|Santoz
+Saint-Tricat|FR||9k|3xd|53|6
+Saint-Thual|FR||9k|3qa|-5d|6|Sant-Tual
+Saint-Thierry|FR||9k|3sz|b1|6
+Saint-Thomas-la-Garde|FR||9k|3il|bc|5
+Saint-Thomas|FR||9k|3cv|30|5
+Saint-Thomas-en-Royans|FR||9k|3h5|ep|5

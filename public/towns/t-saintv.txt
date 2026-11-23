@@ -1,0 +1,70 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Vincent de Paul|FR||9k|3rs|6k|5n
+Saint-Vincent-de-Paul|CA||59|3iq|-5ol|48
+Saint-Vallier|FR|Bourgogne-Franche-Comté|9k|3lk|c5|2p
+Saint-Vith|BE||8t|3vo|h1|2j|Sankt Vith;Sankt-Vith;Sankt Väit
+Santa Venera|MT||9e|2rp|147|24|Saint Venera;St. Venera;Santa Vennera
+Saint-Victoret|FR||9k|3cm|ej|1z|Sant Vitoret;Sant Victoret
+Saint-Vaast|BE||8t|3w5|bk|1s
+Saint-Vincent-de-Tyrosse|FR||9k|3da|-3m|1n|San Bisentse;Sent Vincenç de Tiròssa
+Saint-Valery-en-Caux|FR||9k|3uj|21|1e|Saint-Vallery-en-Caux
+Saint-Vit|FR||9k|3n2|g6|19
+Saint-Vallier|FR|Auvergne-Rhône-Alpes|9k|3hh|de|14
+Saint-Vincent|IT||9o|3j3|l9|14
+Sveti Vlas|BG||9v|3an|254|13|Saint Vlas;St. Vlas;Sweti Wlas
+Saint-Venant|FR||9k|3wm|72|y|Fanum Santi Venantii
+Saint-Vrain|FR||9k|3qu|6h|s
+Saint-Valery-sur-Somme|FR||9k|3ve|4j|s|Saint-Wary
+Saint-Vincent-de-Paul|FR|New Aquitaine|9k|3di|-2t|q
+Saint-Varent|FR||9k|3m9|-n|q
+Saint-Vallier-de-Thiey|FR||9k|3de|j1|o
+Saint-Victor|CA|Quebec|59|3k7|-5gy|n
+Saint-Vaast-la-Hougue|FR||9k|3tr|-3i|l
+Saint-Vaury|FR||9k|3kc|4w|k
+Saint-Victor|FR|Auvergne-Rhône-Alpes|9k|3kw|79|k
+Saint-Viaud|FR||9k|3na|-5m|k|Sant-Widel-Skovrid
+Saint-Vigor-le-Grand|FR||9k|3sw|-1x|k
+Saint-Victor-de-Cessieu|FR||9k|3ii|ez|i
+Saint-Victor-la-Coste|FR||9k|3ee|cw|h
+Saint-Valérien|FR||9k|3pu|8m|g
+Saint-Vivien-de-Médoc|FR||9k|3i7|-2w|g
+Saint-Vérand|FR|Auvergne-Rhône-Alpes|9k|3hh|et|g
+Saint-Victurnien|FR||9k|3jg|2t|f
+Saint-Vincent-de-Mercuze|FR||9k|3i1|gj|f|Saint Vincent-de Mercuse
+Saint-Viance|FR||9k|3hm|41|f
+Saint-Vincent-des-Landes|FR||9k|3oe|-46|e|Sant-Visant-al-Lann
+Saint-Vite|FR||9k|3fj|2m|d
+Saint-Victor|CA|Quebec|59|3ip|-5o8|c
+Saint-Viâtre|FR||9k|3o0|5d|c
+Saint-Vincent-sur-Oust|FR||9k|3oi|-5z|c|Sant-Visant-an-Oust;Sant-Visant-an-Oud
+Saint-Vincent-de-Paul|FR|New Aquitaine|9k|3gv|-1b|b
+Saint-Vincent-sur-Graon|FR||9k|3l8|-3v|b
+Saint-Valère|CA||59|3jz|-5ka|b
+Saint-Vérand|FR|Auvergne-Rhône-Alpes|9k|3jk|cl|a
+Saint-Vincent|FR||9k|3he|av|a
+Saint-Victor-de-Morestel|FR||9k|3iy|fa|9
+Saint-Vincent-sur-Jard|FR||9k|3kx|-4b|9
+Saint-Victor-sur-Rhins|FR||9k|3js|bw|9|Saint-Victor-sur-Reins
+Saint-Vincent-de-Boisset|FR||9k|3jt|bg|9
+Saint-Valérien|CA||59|3qa|-5aq|9
+Saint-Vivien|FR||9k|3k0|-2x|9
+Saint-Vulbas|FR||9k|3jb|ep|9
+Saint-Vincent-du-Lorouër|FR||9k|3ov|1d|9
+Saint-Victor|FR|Auvergne-Rhône-Alpes|9k|3ha|cz|9
+Saint-Vaast-en-Cambrésis|FR||9k|3vg|9i|9
+Saint-Vaast-lès-Mello|FR||9k|3sv|6n|9
+Saint-Vougay|FR||9k|3qz|-bi|8|Sant-Nouga
+Saint-Victor-Malescours|FR||9k|3ht|bz|7|Sant Victor de Malascorts
+Saint-Vran|FR||9k|3q0|-6s|7|Sant-Vran
+Saint-Vincent-de-Barbeyrargues|FR||9k|3df|as|6|Saint-Vincent-de Barberragues
+Saint-Vincent-Sterlanges|FR||9k|3lu|-31|6
+Saint-Vincent|BE||8t|3u0|f8|6
+Saint-Vincent-de-Barrès|FR||9k|3g2|d3|6|Sant Vincenç de Barrés;Sant Vincent de Barrès
+Saint-Vital|FR||9k|3ir|hi|6
+Saint-Victor-de-Malcap|FR||9k|3ex|bq|6
+Saint-Vincent-la-Châtre|FR||9k|3ke|-4|6
+Saint-Vaast-d'Équiqueville|FR||9k|3ue|3j|6
+Saint-Vaast-en-Chaussée|FR||9k|3ut|64|6
+Saint-Vaast-de-Longmont|FR||9k|3sy|7m|6
+Saint-Vincent-de-Connezac|FR||9k|3hg|14|5
+Saint-Vincent-Cramesnil|FR||9k|3ti|10|5

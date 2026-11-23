@@ -1,0 +1,9 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vaqueros|AR||1s|-1wm|-51p|21
+Vaquerías|MX|Jalisco|41|1oh|-7ud|b
+Vaquilla|PA||4g|o6|-66s|a
+Vaquerías|MX|Guanajuato|41|1ms|-7to|a|Vaquería
+Vaquerías|MX|Querétaro|41|1kk|-7q4|8
+Vaquería|MX||41|1ho|-7hc|7
+Vaquería|PE|La Libertad|3o|-lk|-60l|6
+Vaquería|PE|Tumbes|3o|-ab|-67h|6

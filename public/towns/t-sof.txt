@@ -1,0 +1,32 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sofia|BG||9v|3am|1ss|8w6|Ulpia Serdica;Sofio;Sofiya;Sofija;Sofie;Szófia;Serdica;Sofja;Sofya;Sofii;Sóifia;Suofėjė;Sofijo
+Södermalm|SE||9w|4kr|1e8|zd|Maria-Gamlastan;Maria gamla stan;Katarina-Sofia;Sofia gamla stan
+Sofifi|ID||6m|22|9uc|7o
+Sofiivska Borschahivka|UA||98|3w1|2cc|77|Sofiyivska Borshchahivka
+Sofo-Birnin-Gwari|NG||u|um|iu|68
+Sofrino|RU||9i|4bz|2xd|49
+Vilnyansk|UA||98|3p7|2qg|46|Sofiyivka;Krasnoarmiyske;Chervonoarmiyske;Villniansk;Vilniansk;Wilnjansk;Viljnjansk
+Sofiyivka|UA|Donetsk|98|3q2|2y0|37|Rudnik Imeni Karla Marksa;Karlo-Marksove;Sofiivka;Karlo-Marksovo
+Sofiyivka|UA|Dnipropetrovsk|98|3ph|2m3|1u|Sofijewka;Sofiïvka
+Sofiyivska Borschagivka|UA||98|3w1|2cd|1u
+Souflí|GR||8p|36f|212|15|Sofulu
+Sofiyivka|UA|Crimea|9t|3h9|2mg|z|Sofiyevka;Sofiivka;Sofijivka
+Søften|DK||8y|4c8|s1|w
+Safyany|UA||98|3i4|288|u|Safjany;Sofian-Trubaiovca;Safiany
+Şofronea|RO||8u|3kj|1n6|p|Şofronia
+Sofikón|GR||8p|2wz|1s1|h|Sofiko
+Sofiyivka|UA|Kirovohrad|98|3ri|2fv|g|Sofiivka
+Sofiivka|UA|Mykolaiv|98|3pk|2eb|d|Sofiyivka;Sofiyevka
+Sofiyivka|UA|Mykolaiv|98|3og|2hw|d|Sofiïvka
+Sofibouafla|CI||0|kq|-gm|c
+Sofiyivka|UA|Zaporizhzhia|98|3mb|2sx|b|Kolarovka;Kolarivka;Bolharka;Sofiivka;Bolgarka
+Sofiyivka|UA|Donetsk|98|3qp|2vu|9|Artemivka;Artëmovka;Sofiivka;Sofijivka;Sofijiwka;Ssofijiwka
+Sofiyivka|UA|Donetsk|98|3pd|2jz|9|Valove;Sofiivka;Sofiyevka;Valovoye
+Sofiyivka|UA|Dnipropetrovsk|98|3re|2w7|9|Sofiivka;Sofiyevka
+Sofiyivka|UA|Cherkasy|98|3ud|2ga|7|Szofijivka;Sofievka;Sofiyevka;Sofiivka
+Sofiysk|RU||7w|416|ac7|7|Sofijsk
+Sofía de Arriba|MX||44|202|-7yj|6
+Sofular|TR|Ankara|94|316|2jx|6
+Sófre|PA||4g|ny|-66u|6
+Sofiivka|UA|Odesa|98|3jx|2c5|5|Sofiental;Sofiyivka;Sofijiwka;Sofienthal;Sofiyental’;Sofiyevka;Sot Yental
+Sofular|TR|Samsun|94|36c|2pi|5

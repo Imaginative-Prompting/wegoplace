@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Navi Mumbai|IN||6t|1gw|5mu|k28|New Bombay;Navi Moembaai;Novmumbajo;Nova Bombaim;Navi Mumbaj
+Novosibirsk|RU||75|48u|6ed|cg0|Novo-Nikolaevsk;Novonikolayevsk;Nowosibirsk;Novossibirsk;Nowosybirsk;Novoszibirszk;Novosibirscum;Nowosibirski;Novo-Nikolaïevsk
+Phnom Penh|KH||78|w4|83g|c53|Phnum Pénh;Nom Pen;Pnompenis;Phnom-Penh;Phnompenh;Pnom Penh;Pnom Pene;Phon Phen;Phnum Pény;Phnompen;Pnom Pen;Pnompeņa;Pnompeno;Pnompen;Phnom Pen
+Astana|KZ||5s|3y6|5ih|bwx|Tselinograd;Astano;Asztana;Nur-Sultan;Akmolinsk;Nour-Soultan;Nur-Sultano;Noer-Soeltan
+Nizhniy Novgorod|RU||9i|4ch|3e8|9pq|Nizjnij Novgorod;Nizhny Novgorod;Nischni Nowgorod;Nijni Novgorod;Gorkij;Nižni Novgorod;Nyizsnyij Novgorod;Nizhni Nóvgorod;Nizhni Novqorod;Nishni-Nowgorod;Gorkii;Nižnij Nowgorod;Gor'kiy;Nishnii Nowgorod;Gorki;Nizhnii Novgorod;Nishnij Nowgorod;Nijnii Novgorod
+Neijiang|CN||7i|2a6|83u|9nj|Nô̤i-gĕ̤ng;Nej-ťiang;Nejĝjan;Nui-kông-sṳ;Nội Giang;Lāi-kang-chhī;Neikiang;Nei-chiang
+Nowrangapur|IN||6t|1hf|6db|9f5|Nowrangpur
+Nouakchott|MR||19|1e9|-18e|951|Nuakchot;Núaksjott;Nawakszut;Nävakjut;Nuakšotas;Nuakšott;Nuakxot;Nuakşot;Nawakshot;Nuakšota;Nuakŝoto;Nwaqcuṭ;Nuakshot;Nouakchot;Nouakchat
+Pointe-Noire|CG||a|-da|wy|7yo|Puent Nuaras
+Khartoum North|SD||r|17h|2id|7t6|Bahri;Khartum Nord;Sjeverni Kartum;Khartoum Nord;Jartum Norte
+Dnipro|UA||98|3qn|2pc|7h1|Dnjepropetrovsk;Dněpropetrovsk;Dniepropetrovskas;Dnjipropetrovsk;Dniepr;Dnyipro;Dnepr;Novyy Kodak;Katerynoslav;Novorosiynsk;Sicheslav;Dnjipro;Catherinoslav;Caterinoslavia
+Naples|IT||9o|35h|13n|70i|Napoli;Neapel;Nápoles;Nàpols;Neapol;Napolo;Nápoly;Neapolis;Neapole;Napule;Napels;Nàpuli;Neapelj;Napulj;Noapels;Napul;Nappoli
+Nova Iguaçu|BR||4w|-1r8|-3cp|6i6|Nova Iguasu;Nova Iguassú
+Novokuznetsk|RU||74|45c|6q2|45w|Nowokusnezk;Novokuzněck;Novokuznjeck;Novokoeznetsk;Nowokuźnieck;Novokouznetsk;Novokuzneckas;Cusnezia;Novokuznețk;Nowokoeznetsk;Novokuzņecka;Novokusnetsk;Novokuznyeck
+Nuremberg|DE||8r|3td|us|3z7|Nürnberg;Norymberga;Norimberk;Nurenbergo;Norimberga;Niurnbergas;Nirnberga;Nürnbarg;Neurenberg;Norimberg;Nyrëmberg;Nyurnbérg;Niamberg;Nürnberq;Neurenberch;Nuremburg;Nurenberg;Nurenburg;Nuernberg
+Florianópolis|BR||4w|-24o|-3qv|3xc|Nossa Senhora do Destêrro;Floripa;Florjanopolisa;Santa Catherina
+Newcastle|AU||8l|-2jh|bpm|3x8|Novkastelo;Niukaslas;Niukasel;Nyukasl
+Nova Vida|AO||x|-or|10q|3l6
+Nuevo Laredo|MX||3w|24c|-7og|37l|Nuevo Laredas;Novum Laredum;Novo Laredo
+Jayapura|ID||6m|-71|auw|365|Hollandia;Port Numbay;Djajapoera;Džajapura;Jaya Pura;Noordwijk;Djajapura
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+Nukus|UZ||7g|39y|4ll|2kd|Noukous;Nokis
+Nottingham|GB||9b|433|-37|2hw|Notinghamo;Nottigham
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+Hamburg-Nord|DE||8r|44v|rq|2fn|Hamburgo-Norte;Hamburgum Septentrionale;Arrondissement de Hambourg-Nord;Hamborg-Noord
+Juazeiro do Norte|BR||2w|-k1|-318|2cv|Žuazeiro do Nortė
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Greater Noida|IN||6t|276|5ze|29n|Didžioji Noida;Granda Noida
+Noida|IN||6t|27e|5yt|29n
+Newark|US|New Jersey|48|356|-5q1|26b|Ņuarka;Niuarkas;Novarcum
+Neihu|TW||7l|1xo|9dr|249|Nui-fù-khî;Nội Hồ;Lāi-ô͘-khu;Nei-hu
+Nagar Naluākot|BD||6a|1v4|705|23u|Nogor Noluakot
+Nogales|MX|Sonora|37|2ez|-8k6|21k
+Porto-Novo|BJ||1b|i2|78|21f|Porto Novo;Porto Novas;Pòto-Novo;Portus Novus;Pòrto Neuvo;Portonovo;Borto-Novo
+North Shore|NZ||ak|-2u8|dhf|1zv
+Mueang Nonthaburi|TH||62|12i|7r7|1yo|Nonthaburi;Nondaburi;Nondha Buri
+Novo Hamburgo|BR||4w|-2ag|-3y1|1yi|Novo Hamburg
+Thiès Nones|SN||g|152|-1b5|1y3

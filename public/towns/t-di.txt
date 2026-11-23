@@ -1,0 +1,1020 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Delhi|IN||6t|27l|5yj|2d56|Delis;Deli;Dillí;Dellium;Šáhdžahanabád;Déhli;Dilhi;Dähli
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Ürümqi|CN||7t|3do|6rc|va4|Urumchi;Urumtschi;Urumĉio;Urumczi;Urumči;Ürümcsi;Urumčis;Ürümchi-sṳ;Öremçe;Dihua;Oʻrumchi;Urunchi;Dikhua;Wurumch’ih;Urumptsi;Urumtsi;Urumutsi;Ti-hua
+Dubai|AE||6c|1xo|49n|t8s|Dubajo;Dúbæ;Dubajus;Dubaj;Doubayi;Dubay;Dubayy;Dibai;Dibay
+Changsha|CN|Hunan|7i|26c|8pt|nvg|Ĉangŝa;Trường Sa;Cangzsah;Čchang-ša;Chhòng-sâ-sṳ;Csangsa;Changsja;Tn̂g-soa-chhī;Diòng-să;Čanša;Chansha
+Gaziantep|TR||94|2uy|2vu|h5c|Aintab;Dîlok;Qaziantep;Qazianteb
+Diyarbakır|TR||94|2xb|33q|e5d|Dijarbakiro;Amed;Amida;Diyarbekır;Dijarbakyras;Dijarbakira;Diyarbekr;Diyarıbekir;Diyarıbakır;Diari-Békir;Diarbekir;Diarbekr
+Chaozhou|CN||7i|1tp|8zy|did|Triều Châu;Čchao-čou;Ĉaoĝou;Čaodžou;Chhèu-chû-sṳ;Chaotsjou;Tiô-chiu-chhī;Dièu-ciŭ;Ch’ao-chou;Chaochow
+Yancheng|CN||7i|2ko|99s|cgt|Jen-čcheng;Janĉengo;Diêm Thành;Sièng-siàng;Yen-ch’eng
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+Zhaoqing|CN||7i|1s1|8oe|bzf|Čao-čching;Sau-khin-sṳ;Triệu Khánh;Tiāu-khèng-chhī;Diêu-kéng;Shiu Hing;Shiuhingfu;Chao-ch’ing;Shiuhing;Chao-king
+San Diego|US|California|3p|2iw|-91g|au5|San-Diego;Didacopolis;San Diegas;San-Dieqo;Sandjego;San Diegu;San Diyégo
+Changzhi|CN|Shanxi|7i|2si|8q7|9dh|Čchang-č;Ĉanĝi;Čangdži;Trường Trị;Diòng-dê;Tiông-tī-chhī;Chang-chi;Ch’ang-chih
+Luohu District|CN||7i|1qn|8t1|8tq
+Gqeberha|ZA||o|-2mc|1z5|83p|Port Elizabeth;Puerto Elizabeth;die Baai;Porto Elizabeth;Port Elizabetas;Portus Elisabethae;Portelizabeta;Ibhayi;Port Elisabeth;Port Elizabet
+Dublin|IE||8z|445|-hd|7wg|Dulyn;Baile Átha Cliath;Dyflinn;Dulenn;Eblana;Diblin;Difelin;Divlyn;Dablin
+Bobo-Dioulasso|BF||1a|v2|-bx|6zd|Bobo Dioulasso;Bobodjulaso;Bobo Diulasas;Bobo-Diulasso
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Pingxiang|CN|Jiangxi|7i|24q|8s9|6w8|Bìng-hiŏng;Pching-siang;Phìn-hiông-sṳ;Bình Hương;Phêng-hiong-chhī;Dingsiang;Pingsiang;P’ing-hsiang
+Zhangjiakou|CN||7i|35a|8v3|5ce|Ĝanjakou;Trương Gia Khẩu;Čang-ťia-kchou;Diŏng-gă-kāu;Chang-kia-k’ou
+Washington|US|District of Columbia|48|302|-5y0|5bj|Vasingtonia;Waszyngton;Vašingtonas;Territory of Columbia;District of Columbia;Vaŝingtono
+Oklahoma City|US||2f|2qj|-7iw|597|Oklahomaurbo;Kota Oklahoma;Oklahoma Sitis;Maxepónoe;Oklahoma Ceety;Oklaxoma Shehiri;Lungsod ng Oklahoma;Oklahomasitija;Dinas Oklahoma;Oklahoma llaqta;Cathair Oklahoma;Oklahoma Siti;Oklahoma Sitės;Caayr Oklahoma;Kutha Oklahoma;Okla city;Oklahoma Shehri
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Düsseldorf|DE||8r|3ya|iu|4rv|Duseldorfo;Dusseldorpium;Diuseldorfas;Diseldorfa;Düsseldörp;Düssldorf;Dyzeldorfi;Disseldorf;Duesseldorf
+Edinburgh|GB||9b|4bf|-8w|3z2|Edimburgo;Dinedin;Edimburg;Caeredin;Edinburgo;Édimbourg;Dún Éideann;Edinborg;Edimburgum;Edinburgas;Edynburg;Edinburrie;Idinburg;Edinburg;Edinburga;Edimborg;Edimburgu;Embra;Edinburq;Edimborgh;Edimbùrgh;Edinburc;Ebora;Edinbo;Doon Edin;Edinboarch
+Zhangye|CN||7i|305|7r1|3wy|Trương Dịch;Diŏng-ĭk;Čang-jie;Changyen;Chang-yeh
+Duisburg|DE||8r|3yv|it|3w4|Dīsburga;Duisborg;Duisbourg;Duisburch;Thuiscoburgum;Duisbörj;Duusbörg
+Kansas City|US|Missouri|2f|30m|-7aq|3o2|Kansasurbo;Kota Kansas;Kanzas Shehiri;Ìlú Kansas;Dinas Kansas;Lungsod ng Kansas;Kansas Lakanbalen;Kanzas Sitis;Kanzassitija;Kanzas Siti;Caasimada Kansas
+Dĩ An|VN||6h|ub|88l|3km
+Nam Định|VN||62|1kr|86y|3gi|Nam Din
+Zhangjiajie|CN||7i|28x|8iw|3eq|Čang-ťia-ťie;Chông-kâ-kie-sṳ;Trương Gia Giới;Diŏng-gă-gái
+Dingxi|CN||7i|2qt|82m|38u
+Diadema|BR||4w|-1tt|-3li|344
+Diepsloot|ZA||o|-201|25t|2p8
+Dire Dawa|ET||2|qn|38b|2na|Dire Daua;Daredawa;Dirediua;Diré-Daoua;D’ire Daua;Dire Daba;Dire Dewa;Direaoua
+Dihok|IQ||5z|2uf|3bf|2mp|Duhok;Dohuk;Dahúk;Dihuk;Duhuk
+Vijayapura|IN|Karnataka|6t|1aq|5uc|2iy|Bîjâpur;Bidźapur;Vijapura;Districte de Bijapur;Bídzsápur;Bidžapuras;Vijayapur
+Yanji|CN||7i|3b5|9zq|2iu|Diên Cát
+Al Diwaniyah|IQ||5z|2gv|3gt|2gk|Diwaniya;Ad Diwaniyah;Díváníja;Diwaniyya;Ed-Divaniye;Dîwaniye;ad-Dīwānīyah
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+Damietta|EG||c|2fa|2gd|2cz|Damiette;Damieta;Dimyat;Doemjat;Dimyath;Tamiathis;Dumjatas;Dumjāta;Dumját;Dumyāţ;Dumiat;Damiata;Dumqat
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Greater Noida|IN||6t|276|5ze|29n|Didžioji Noida;Granda Noida
+Dindigul|IN||6t|st|60m|299|Dindukkal;Dundigal
+Eixample|ES||9d|36z|60|221|Distrito del Ensanche;Distrikt Ensanche
+Dezful|IR||7o|2hy|3qh|21j|Dezfoul;Dīzfūl
+Jersey City|US||48|355|-5ps|21f|Thành phố Jersey;Dinas Jersey;Jersey Ceety;Džersi Sitis;Džērsisitija
+Digri|PK||6q|1xw|5bz|1t6
+Divinópolis|BR||4w|-1jy|-3gp|1s7
+Diez de Octubre|CU||36|1s5|-6cs|1r5
+Điện Bàn|VN||6h|185|8cp|1qy|Vĩnh Điện
+Ba Dinh|VN||62|1mg|85z|1pn
+Dinajpur|BD||6a|1z7|6u8|1la
+El Dibir|SO||14|wp|3ya|1jk
+Mwene-Ditu|CD||y|-jh|1t5|1gk
+Dixinn|GN||f|qj|-11z|1fu
+Dinapur Nizamat|IN||6t|1z8|6k9|1eo
+Chalco de Díaz Covarrubias|MX||41|1hi|-7mq|1av
+Dijon|FR||9k|3nf|dx|18f|Diĝono;Digione;Divio;Diviodunum;Dižonas;Dižona;Digion;Dižon
+Dīla|ET||2|hu|2yg|184|Dilla
+Diourbel|SN||g|14p|-194|17s|Diurbelis;Jurbel;Diourbei
+Dinapore|IN||6t|1z8|6k9|16h
+Dingzhou|CN||7i|2yz|8vf|16h
+Dili|TL||6b|-ns|9ot|15o|Dilo;Dily;Dilhi;Dilly;Dilli
+Disūq|EG||c|2eh|2d5|15h|Dasūq
+Dibrugarh|IN||6t|24c|7bn|14f
+Antsiranana|MG||a8|-y8|3sx|122|Diego-Suarez;Diego Soarez;Antsirana;Antseranana
+Divo|CI||0|g8|-ew|11y|Divas
+Dimāpur|IN||6t|1zz|78c|11r
+Dimitrovgrad|RU||9z|46l|3tu|10q|Dimitrowgrad;Dimitrovqrad
+Din Daeng|TH||62|12b|7rd|106
+Port Dickson|MY||6v|70|7us|x5
+Dinaig|PH||71|jx|9l1|wg
+Digos|PH||71|ir|9o8|w9
+Phong Điền|VN|Thừa Thiên Huế Province|62|1a2|8a8|vw
+Didao|CN||7i|3hz|a3g|ug
+Dikirnis|EG||c|2ed|2fr|s3|Dekernes;Dikinis
+Juan Díaz|PA|Panamá|4g|p4|-64o|ry
+Dipalpur|PK||6q|2d7|5ol|rr|Depalpur
+Deventer|NL||8m|416|h4|r1|Dimter;Daventria
+Dijkot|PK||6q|2eq|5ms|qx
+Dearborn|US|Michigan|2q|39k|-6f2|qg|Dīrborna
+Dipolog|PH||71|nt|9il|pz
+Soran|IQ||5z|2tu|3fq|pg|Diyane;Diyana;Diana
+Dinga|PK||6q|2io|5os|oz
+Dunkirk|FR||9k|3xr|6m|nz|Dunkerque;Dünkirchen;Dunkerk;Duinkerke;Dunkierka;Dunquerque;Lungsod ng Dunkerque;Dukark;Duunkerke;Dunquerca;Diunkerkas;Dunkèke;Denkerka;Dúntsjerk;Duinkerken
+Định Công|VN||62|1ma|85z|nr
+Dien Bien Phu|VN||62|1nf|7y6|nj|Thièn-piên-fú;Dienbjenfu
+Diyarb Najm|EG||c|2df|2fc|mi|Diyarb Nigm;Diyarb Nijm
+Deerfield Beach|US||48|214|-66i|m6|Dirfild Bičas
+Luxembourg|LU||9c|3tt|h1|lb|Luxemburg;Luxemburgo;Luksemburgo;Luksemburg;Ciudad de Luxemburgo;Ciutat de Luxemburg;Lucemburk;Luxenburgo;Lussemburgo;Lëtzebuerg;Liuksemburgas;Luksemburga;Luksemburgu;Lussimbork veye;Luxembôrg;Lucsamburg;Stad Lëtzebuerg;Stadt Luxemburg;Lüksemburq;Luksembourg;Dinas Lwcsembwrg;Luxemborj;Lúksemboarch;Lucsemburg;Liksanbou;Luxemburgum;Lüssemburgh;Rakapuō;Lussemburgu;Lussemborgh;Luksimbur;Luxembuurich;Lungsod ng Luksemburgo;Lusenburgo;Luksambuur;Letzeburg
+Ostrów Wielkopolski|PL||a5|3zi|1dh|k9|Ostrovo;Ostrovia;Ostrova Velkopolska;Didžiosios Lenkijos Ostruvas;Wjelgopolski Uostrůw;Ostrowo;Astrava;Ostrów;Ostrov
+Dias d'Ávila|BR||20|-z1|-2ye|jv
+Dialakorodji|ML||5|za|-m4|jm|Dialakoroji
+Dimbokro|CI||0|ih|-d3|ji
+Dinslaken|DE||8r|3z8|iq|im
+Dinalupihan|PH||71|15c|9al|ij|Dinalupihari;Dinalupian;Dinalupinan;Dinalupijan
+Belize City|BZ||24|1cm|-6t0|i4|Ciudad de Belice;Belizas;Belize-stad;Belize;Thành phố Belize;Dinas Belize;Altepetl Belice;Belizurbo;Syudad han Belize;Cidade de Belize;Kota Belize;Bandaraya Belize;Belize Ceety;Beliz;Belice
+Dishnā|EG||c|20k|2i7|hz|Dashnā;Deshna
+Diphu|IN||6t|1zs|77j|h6|Diphn
+Dewsbury|GB||9b|455|-4j|gy|Diusberis
+Dingjia|CN||7i|29p|86u|gu
+District of Taher|DZ||3|2u5|ge|gs
+Dayr al Balaḩ|PS||6f|2fa|2nf|gj|Deir el-Balah;Dier El Balah
+Dilling|SD||r|xh|2ad|gf
+Dingtao|CN||7i|2pf|8x1|g6|Ting-t’ao
+Diamond Bar|US||3p|2mj|-939|ft
+Dibaya-Lubwe|CD||t|-bk|1j6|fh|Dibaya Lubue
+Deglur|IN||6t|1fj|5zi|f5|Dīglūr
+Diffa|NE||18|110|z1|f1|Difa
+Dīdwāna|IN||6t|244|5r6|ex
+Dianbu|CN||7i|2ty|9ab|em
+Dianzi|CN|Shandong|7i|2ui|98z|e9
+Diamniadio|SN||g|14w|-1bq|da|Diamnadio;Diam Niadia
+Diamantina|BR||4w|-1ep|-3d4|d9
+Diaoyucheng|CN||7i|2bc|877|d4
+Debark’|ET||2|10k|2xa|d0|Dibark;Dabārk’;Debarek;Devark
+Myrnohrad|UA||98|3q7|2vj|ct|Dimitrovo;Dimitrova;Dimitrov;Dymytrov;Dymytrow;Mîrnohrad;Mırnograd;Mirnohrada;Novoekonomične;Hrodivka
+Diobahika|TZ||h|-9a|2fk|ci
+Dīg|IN||6t|24b|5yt|ci
+Digras|IN||6t|1ju|5zw|cg
+Thionville|FR||9k|3t4|h4|cb|Diedenhofen;Diddenuewen;Theudonevilla;Diedenhoven;Didehove
+Diégonéfla|CI||0|hh|-fh|c3|Diégonéfra
+Diglipur|IN||6t|10v|76c|bx|Adakamaranahalli
+Jefferson City|US|Missouri|2f|2z6|-741|bu|Jeffersonurbo;Kota Jefferson;Džeferson Sitis;Džefersonsitija;Dinas Jefferson;Lungsod ng Jefferson;Jefferson Shehri
+Dīnhāta|IN||6t|20m|6wi|bs
+Diamond Harbour|IN||6t|1pn|6sz|bm|Hajipur
+Diwek|ID||6l|-l2|8nr|bl
+Dimona|IL||6n|2eb|2pb|b0|Domona
+Dilbeek|BE||8t|3x9|bu|az|Zibbeek
+Dimitrovgrad|BG||9v|38t|1z4|ak|Dimitrowgrad
+Dibai|IN||6t|26d|61e|aj
+Monopoli|IT||9o|35r|1c2|ah|Diria
+Dīndārpur|IN||6t|27g|5xv|9z|Dīndārput
+Dieppe|FR||9k|3uo|30|9x|Dgieppe
+Dinar|TR||94|2xr|2bt|9u
+Diriamba|NI||3s|wy|-6nk|9q|Diriambo
+Dinskaya|RU||9i|3hm|30z|9m|Dinskaja
+Dīvāndarreh|IR||7o|2rr|3mm|9g|Dīvan Darra;Dīwān Darreh
+Dipayal|NP||6r|29a|68u|9g
+Dianra|CI||0|ou|-hd|9b
+Delījān|IR||7o|2mf|3ws|9b|Dalijān;Dilījān
+Dietzenbach|DE||8r|3ux|oe|99
+Didy|MG||a8|-1ec|3qt|96
+Dikhil|DJ||i|uu|39p|94|Dikilis;Dikil;Dikkil;Dakhīl
+Dighwāra|IN||6t|1zi|6k5|93
+Desnogorsk|RU||9i|46f|2kg|91|Desnoqorsk;Diesnogorsk
+Diré|ML||5|196|-9g|8p
+Diéma|ML||5|14e|-pj|8i|Jema;Diéna
+Divnogorsk|RU||6u|4bg|74m|8c|Diwnogorsk
+Dibba Al-Fujairah|AE||6c|1z3|4ca|8c
+Upper Dir|PK||6q|2pt|5jo|8b|Dīr
+Didcot|GB||9b|3zd|-3g|85
+Dikwa|NG||u|xg|12o|82|Dikoa
+Dinapur Cantonment|IN||6t|1z8|6k6|7z
+Târnăveni|RO||8u|3kp|1vi|7y|Dicsőszentmárton;Tîrnăveni
+Dịch Vọng|VN||62|1mf|85w|7s
+Dieppe|CA||43|3k0|-4zp|7l
+Dedovsk|RU||9i|4b7|2v4|7i|Dedowsk;Diedowsk
+Dix Hills|US||48|35c|-5nq|7h
+Diourou|ML||5|121|-g7|7e
+Dibba Al-Hisn|AE||6c|1z6|4cb|7c|Dabā al-Ḥiṣn;Dībā al Ḩişn;Dibbā Al Ḩişn
+Diawala|CI||0|s3|-f7|7a|Diaouala
+Diaoubé|SN||g|zw|-13d|7a
+Dimbaza|ZA||o|-2j7|23m|79|Dimbasa
+Didim|TR||94|2vu|23q|78|Yenihisar
+Didouche Mourad|DZ||3|2t9|ig|76
+Diébougou|BF||1a|ug|-91|75|Diebugu
+Diego Martin|TT||4k|ts|-4r1|72
+Dimtu|ET||2|j9|2xx|71|Dinttuwa
+Diemen|NL||8m|41e|ds|6s
+Dharampur|IN|Gujarat|6t|1l2|5n9|6q|Dharampore;Dilarampur
+Dianella|AU||8k|-2gl|8xv|6q
+Ditzingen|DE||8r|3rn|p7|6p
+Diu|IN||6t|1lj|5h6|6o|Diva
+Dīnānagar|IN||6t|2ha|5tn|6o
+Dickinson|US|North Dakota|2p|3m8|-7xj|6m|Dikinsòn;Dick
+Dinuba|US||3p|2ti|-97n|6l
+Dioïla|ML||5|yp|-iw|6j|Doïla
+Gjirokastër|AL||9y|33c|1jy|6i|Arghirocastru;Gjirokastra;Argirocastro;Đirokastra;Girokasteris;Argyrocastrum;Jirokaster;Cirokastra;Arghyrocastro;Gjinokastra;Gjinokastrer;Agirocastro;Gjinokastre;Gjinokastër;Argyrokastro;Gjirokastrë
+Divichibazar|AZ||61|36g|3s3|6g
+Dillenburg|DE||8r|3wy|n1|6e|Dillenboarch;Dillenberg
+Dixiana|US||2f|2lq|-6op|6d
+Diest|BE||8t|3xn|e1|69|Distas
+Diamantino|BR||2k|-141|-4ct|69|Diamentina
+Dianópolis|BR||1k|-wb|-3m2|68
+Deoli|IN|Rajasthan|6t|1zk|5te|65|Devli;Dioli
+Digih Habar Es|ET||2|hw|3jq|64
+Duba|SA||7e|23z|2r5|64|Diba;Ḑabā
+Środa Wielkopolska|PL||a5|413|1c0|62|Sroda Velkopolska;Didžiosios Lenkijos Sroda
+Digboi|IN||6t|243|7dm|61|Digbor;Digbol
+Diễn Thành|VN||62|1gq|85c|60
+Dillingen|DE||8r|3t4|ip|5z|Dillengen
+Dindori|IN||6t|1rq|698|5x
+Dibate|ET||2|tl|2sm|5x|Dibati
+Dippa Kunda|GM||7|11c|-1ad|5w|Dipa Kunda
+Dinguiraye|GN||f|vd|-tr|5u|Dinguiray
+Dietikon|CH||a7|3no|nc|5t
+Divino|BR||4w|-1l9|-393|5r
+Diinsoor|SO||14|6p|3be|5k|Dinsor;Dinsoor;Dhiinsoor
+Dickinson|US|Texas|2f|29u|-7c1|5j
+Dinnington|GB|England|9b|449|-3c|5j
+Diamond Head / Kapahulu / Saint Louis Heights|US||ax|1n4|-c6d|5i
+Diamante|AR||1n|-2h3|-4og|5f
+Dingshi|CN||7i|27y|8dj|5f
+Dixon|US|California|3p|2yt|-9ee|5e
+Discovery Bay|HK||6i|1py|8sq|5d|Yî-kín-vân
+Dizangué|CM||j|ah|rq|5c|Dizanqué
+El Dividive|VE||2c|qc|-5gh|5c|Dividive
+Digne-les-Bains|FR||9k|3eh|hb|5a|Dinha;Dinia
+Diyadin|TR||94|31u|3db|59|Giyadîn
+Dīzīcheh|IR||7o|2hz|3z3|59
+Dingolfing|DE||8r|3r4|yp|58|Dinglfing;Dingelfing
+Dillingen an der Donau|DE||8r|3qy|t6|57|Dilinga
+Mead Valley|US||3p|2lz|-91u|55|Díłdánii Bikooh
+Dianshui|CN||7i|29c|8c9|53
+Dikodougou|CI|Savanes District|0|p7|-g1|51|Dikodugu
+Debar|MK||9u|37c|1l0|51|Dibra;Debre;Bebar
+Diósgyőr|HU||8v|3pm|1lg|51
+Dudelange|LU||9c|3tg|gx|50|Düdelingen;Gemeng Diddeleng;Diddeleng;Diudelanžas
+Didam|NL||8m|40a|h1|4y
+Diepenbeek|BE||8t|3xf|f2|4x
+Discovery Park|HK||6i|1q6|8sz|4t
+Bicholim|IN||6t|17b|5pf|4q|Dicholi
+Dirba|IN||6t|2bj|5v4|4q
+Đakovo|HR||a6|3hv|1f5|4p|Diakovár;Diaco;Džakovas;Djakovo;Djakowar;Deakovár;Djakovár
+Devizes|GB||9b|3yn|-5j|4o|Divisae
+Diepholz|DE||8r|425|n9|4o|Deefholt
+Diourouzon|CI||0|j5|-kw|4n
+Đinh Văn|VN||6h|wr|8co|4g
+Dianga|CN||7i|2mm|7yp|4g
+Dilijan|AM||80|356|3gm|4f|Tili;Delizhan;Tilichan;Pokr Dili;Delijan;Dili;Dilidschan;Dilidjan;Dilican;Diliĝano;Dilidžan;Diližanas;Dilinan;Dilishan;Dilizhan;Delishan;Dilichan
+Divnoye|RU||9i|3jj|3cf|4d|Divnoje;Diwnoje
+Dignago|CI||0|hh|-hg|4c
+Diadi|PH||71|1ah|9d4|4c
+Diapaga|BF||1a|xj|4z|4b
+Diksmuide|BE||8t|3xr|7y|4b|Dixmude;Diksmude;Smude;Dixmuide;Dixmuiden
+Dickson|US|Tennessee|2f|2s8|-6qr|4a
+Dixon|US|Illinois|2f|388|-6wk|49
+Diéhiba|CI||0|j6|-kl|49
+Deutz|DE||8r|3xh|jd|48|Düx;Divitia
+Dieburg|DE||8r|3um|ol|48
+Dionísio Cerqueira|BR||4w|-20x|-450|46|Dyonisio Cerqueira
+Diyodar|IN||6t|1uz|5jd|45|Diodār
+Diancun|CN||7i|2lt|85y|45
+Dieren|NL||8m|40l|gy|44
+Didsbury|GB||9b|44e|-67|3z
+Dikili|TR||94|30j|22p|3x|Dikeli
+Dianra-Village|CI||0|oc|-hc|3w
+Żnin|PL||a5|42t|1d8|3w|Dietfurt
+Diego de Almagro|CL||4u|-21b|-5el|3v
+Grodzisk Wielkopolski|PL||a5|413|19h|3u|Didžiosios Lenkijos Grodziskas;Grodziska Velkopolska
+Jindayris|SY||69|2t3|2tx|3t|Jindaras;Jandarīs;Dīndaris;Jandayris;Jundayris
+Dison|BE||8t|3wl|g9|3s
+Diagonal Mar|ES||9d|371|66|3q
+Dindima|NG||u|sf|s7|3q
+Discovery Bay|US||3p|2xb|-9ds|3q
+California City|US||3p|2pl|-93r|3p|Kalifornija;Kalifornia City;Kaliforniurbo;Thành phố California;California BY;Jádí Bitééh;Dinas California;Lungsod ng Kaliporniya
+Dingle|GB||9b|44a|-88|3o
+Diangobo|CI|Lagunes District|0|h3|-a4|3o
+Digapahandi|IN||6t|1ht|6ix|3o|Digapanahdi
+Divriği|TR||94|31d|2xv|3n|Dêwrığe
+Dicle|TR|Diyarbakır Province|94|2yl|33a|3m
+Dinant|BE||8t|3vm|dn|3l|Dionantum
+Digboi Oil Town|IN||6t|243|7dm|3j
+Diping|CN||7i|1zk|8fg|3j
+Dinklage|DE||8r|42a|ml|3i
+Diamond Creek|AU||8j|-2wn|b77|3h
+Jabicunda|GW||8|y8|-14f|3g|Diabi Cunda;Âbikunda
+Orşova|RO|Mehedinți County|8u|3g8|1q8|3g|Orschowa;Dierna
+Dinkelsbühl|DE||8r|3sb|so|3f|Dinkelsbiulis
+Dinan|FR||9k|3qm|-5p|3e|Dinnanum
+Digora|RU||9i|3bw|3eo|3c|Kristonghæw
+Dinard|FR||9k|3r3|-5q|3c|Dinarzh
+Distracción|CO||27|ua|-5mh|3b
+Diavatá|GR||8p|351|1ri|3b|Dhiavatá
+Diplo|PK||6q|1vz|5da|38
+D'Iberville|US||2f|2cj|-6ux|36|Diberville
+Diofior|SN||g|13f|-1aa|35
+Diwākari|IN||6t|24k|5wy|34
+Divinolândia|BR||4w|-1o6|-3lu|34
+Diabo|CI||0|ln|-ed|32|Dihabo
+Diamond Springs|US||3p|2zh|-9bl|32|Diamond Spring
+Dippoldiswalde|DE||8r|3xe|11z|32|Dipoldisvalde
+Diliskelesi|TR||94|35a|2a1|31
+Diez|DE||8r|3vx|m9|30|Dietz
+Diarabana|CI||0|mr|-id|30|Dyarabara;Diaralaba;Diarabala;Diarabara
+Dispur|IN||6t|20m|730|30|Dishpur
+Diss|GB||9b|41i|33|2z
+Dierkow-Neu|DE||8r|46b|xt|2y
+Diédrou|CI||0|jf|-lm|2x
+Dingley Village|AU||8j|-2xi|b75|2x|Dingley
+Dibobli|CI||0|iq|-ji|2v
+Didiévi|CI||0|jt|-dm|2v
+Diphupar 'A'|IN||6t|1zu|78h|2u
+Dimaruguri|IN||6t|217|75j|2u
+Divisópolis|BR||4w|-17p|-35w|2u
+Diriomo|NI||3s|x0|-6n1|2t
+Dießen am Ammersee|DE||8r|3p7|uu|2t
+Diedorf|DE||8r|3qb|ty|2s
+Dishman|US||3p|3oe|-91s|2s
+Diafla|CI||0|km|-j3|2r|Dyafla
+Digah|AZ||61|34h|3uj|2q
+Diassa|CI||0|hu|-im|2n
+Dissen|DE||8r|40s|ms|2l
+Didoko|CI||0|gq|-er|2k|Didokro
+Díon|GR||8p|33l|1qg|2j
+Dielheim|DE||8r|3sw|oa|2i
+Dialakoro|CI||0|mr|-g8|2i|Dialakono
+Digoin|FR||9k|3l4|b2|2h
+Tikkurila|FI||92|4nh|1xk|2g|Dickursby
+Demidov|RU||9i|49j|2fk|2d|Demidow;Diemidow
+Diby|CI||0|fq|-8a|2d|Dibi
+Denbigh|GB||9b|43q|-9i|2d|Dinbych
+Dimako|CM||j|c6|11p|2d
+Dingshan|CN||7i|27r|883|2c
+Didymóteicho|GR||8p|36v|21l|2b|Didymóteikhon;Didymotichon
+Dīzaj Dīz|IR||7o|2yu|3h2|2b|Dizadiz;Dīz Jadīz
+Discovery Bay|JM||3i|1fa|-5z0|2b
+Dinxperlo|NL||8m|402|i1|2a
+Dioundiou|NE||18|z2|9u|2a|Dioundou;Eioundiou
+Diamondhead|US||2f|2cf|-6w8|29
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Dietmannsried|DE||8r|3ot|sl|28
+Diapé|CI||0|gp|-ax|28
+Ditang|CN||7i|2a9|8cm|27
+Dinas Powys|GB||9b|3yv|-8x|25|Dinas Powis
+Diok’nisi|GE||7n|37n|39r|25|Dioknisi
+Dinghaicun|CN||7i|210|98r|24
+Dittelbrunn|DE||8r|3v3|se|24
+Acırlı|TR||94|2w2|36q|24|Derizbin;Dirizbin
+Diawara|SN||g|15q|-yu|23|Diawora;Diaouara
+Dinan Bashnoian Wala|PK||6q|2ap|5nj|23|Dinan Wala
+Dighomi|GE||7n|381|3g9|23|Digomi
+Dilek|TR||94|2ys|2y9|21|Tilek
+Nanshan Residential|CN||7i|1ql|8sh|21|Nanshan District;Distrito de Nanshan;District de Nanshan;Nanshan Barrutia;Nàm-sân-khî;Nam Sơn
+Dingalan|PH||71|16r|9d7|21
+Divinópolis do Tocantins|BR||1k|-r8|-3sp|21
+Diekirch|LU||9c|3uj|h3|21|Dikrech;Dykirchas;Diekirkh;Diekirk
+Divion|FR||9k|3w7|6z|21
+Dih|IN||6t|20m|6a5|21
+Divičani|BA||9r|3f9|1c5|21
+Ndiamakouta|SN||g|110|-17f|20|Djamakouta;Diamakouta
+Biasso|CI||0|gz|-aj|20|Diasso
+Diamarakro|CI||0|hc|-98|1z|Dambarakro;Diambarakrou;Diambarakru
+Diangbanasso|CI||0|p8|-cw|1z
+Dinahican|PH||71|14w|9e4|1z
+Dirceu Arcoverde|BR||2w|-py|-39v|1z|Bom Jardim
+Dixcove|GH||1|dc|-5f|1y
+Dianoufla|CI||0|iw|-gp|1y
+Diekholzen|DE||8r|40q|rk|1x
+Diacohou-Sud|CI||0|iv|-gb|1x
+Dingras|PH||71|1ea|9ba|1x
+Dionísio|BR||4w|-1j4|-3au|1w
+Digal|PH||71|ir|9mo|1w
+Divonne-les-Bains|FR||9k|3ks|h1|1w
+Dinkelscherben|DE||8r|3qb|tf|1v
+Pignon|HT||4j|1hq|-5kc|1v|Piyon;Dignon
+Delbarān|IR||7o|2px|3pb|1v|Dīlbarān
+Divjakë|AL||9y|35w|1i9|1v|Divjaka;Diviaka;Duvijaka;Divjak;Divjaca
+Dayr Dibwān|PS||6g|2gn|2pz|1v|Deir Dibwān;Dier Dibwan
+Dillon|US|South Carolina|48|2nm|-64h|1v
+Dietenheim|DE||8r|3px|rz|1u
+Diangobo|CI|Comoé District|0|i9|-9a|1u
+Diosig|RO||8u|3ne|1p4|1t|Bihardiószeg;Diószeg
+Divinolândia de Minas|BR||4w|-1g8|-3ad|1t
+Diéouzon|CI||0|jw|-kc|1t|Dyéouzon
+Diveyevo|RU||9i|48w|3c5|1s|Divejevo
+Divisa Alegre|BR||4w|-17o|-36u|1r
+Diamante|BR||2w|-kn|-2ya|1r
+Dighton|US|Massachusetts|48|385|-5hk|1r
+Diaguily|MR||19|159|-yf|1r|Diaguili
+Diogountourou|MR||19|151|-y1|1q|Diogoutourou
+Dingle|PH||71|uk|9gr|1q
+Diósd|HU||8v|3np|1gn|1q|Orasch
+Dietfurt|DE||8r|3s8|w7|1q|Diefurt
+Digvijaygram|IN||6t|1qb|5dz|1q
+Dietlikon / Dietlikon (Dorf)|CH||a7|3nq|ny|1p
+District Heights|US||48|2zy|-5xl|1p
+Dilsen|BE||8t|3xs|fw|1p
+Tittmoning|DE||8r|3pi|zh|1p|Didtmoning;Titamanninga;Tittmaning;Tittmening
+Dianambroufla|CI||0|ii|-fm|1p
+Dynów|PL||a5|3ue|1pr|1p|Dinova
+Daraj|LY||1d|2bt|t2|1p|Derj;Derg;Dirj
+Dierdorf|DE||8r|3wf|l9|1o
+Diasson|CI||0|gl|-ad|1o|Diasso
+Yorodougou|CI||0|lm|-lw|1o|Diorodougou
+Diboké|CI||0|hw|-mj|1o|Dibohé
+Dyougoublé|CI||0|qh|-gh|1o|Diougoubélé
+Dighāwāni|IN||6t|1pp|62x|1o
+Diouloulou|SN||g|109|-1a4|1n
+Dives-sur-Mer|FR||9k|3sw|-a|1n
+Divnomorskoye|RU||9i|3fm|2xx|1n|Divnomorskoje
+Dickson City|US||48|377|-5u1|1n
+Ditrău|RO||8u|3m2|1yw|1n|Gyergyóditró;Ditró
+Divisa Nova|BR||4w|-1nr|-3kc|1n
+Disina|NG||u|vw|rk|1m
+Khojaly|AZ||61|32v|3lz|1m|Xocalı;Ivanyan;Khodjaly;Xocalı rayonu;Ĥoĝali;Xocalın piirikunta;Khojali;Daerah Khojali;Khojali Rayon;Rayon Khojali;Distrito ng Khojali;Hocalı Rayonu;Rejon Xocalı;Hojali;Joyalí;Khodzhaly;Khozhali
+Dīshmūk|IR||7o|2ey|3w0|1m|Dīshmook;Dīshmok
+Digaru Gaon|IN||6t|20o|73j|1m
+Divenié|CG||a|-7g|xl|1l|Divanié
+Didizo|CI||0|fp|-f6|1l
+Dietenhofen|DE||8r|3t8|tp|1l
+Diónysos|GR||8p|2xu|1uc|1l|Dhiónisos
+Dībāj|IR||7o|2t7|46m|1k
+Dimawso|MM||7y|1ib|7hw|1k|Dimawhso
+Diakoptó|GR||8p|2y4|1po|1k|Dhiakoftó;Dhiakoptón
+Dibao|CN||7i|2d6|8ei|1j
+Dina Huapi|AR||1s|-363|-5ho|1j
+Sládkovičovo|SK||8s|3pw|1d0|1i|Diószeg
+Diepoldsau|CH||a7|3nn|qu|1i
+Diboll|US||2f|2en|-7ba|1i
+Dingwall|GB||9b|4g0|-cb|1i|Inbhir Pheofharain;Dingvolas
+Differdange|LU||9c|3tk|gd|1h|Gemeng Déifferdeng;Déifferdeng;Diferdanžas;Differdingen
+Digheli|IN||6t|21g|722|1h
+Dietramszell|DE||8r|3ox|w8|1h
+Dingden|DE||8r|3zt|id|1g
+Diguvametta|IN||6t|16s|62z|1g
+Djékanou|CI||0|i0|-e8|1g|Diékahou
+Diamante do Norte|BR||4w|-1qy|-42u|1f
+Diano Marina|IT||9o|3dz|mg|1f
+Dinteloord|NL||8m|3zg|c5|1f
+Dioulabougou-Boléko|CI||0|ev|-ed|1f
+Divino de São Lourenço|BR||4w|-1la|-37s|1f
+Diegem|BE||8t|3xe|cb|1e|Dieghem
+Dib Dibba|OM||72|20s|4ca|1e
+Die|FR||9k|3gb|ex|1d|Diá
+Dīzaj|IR||7o|2vd|3gt|1d
+Dbarwa|ER||4|15y|2zv|1d|Debarwa;Deebaroa;Dibarwa;Debaroa
+Dingelstädt|DE||8r|3yk|so|1d
+Dieulouard|FR||9k|3ro|gv|1d
+Dibombari|CM||j|bm|qu|1c
+Diorholé|CI||0|lo|-hp|1c|Dyorolé
+Dmytrivka|UA|Odesa|98|3jp|28j|1c|Dumitrești;Dmytriwka;Dimitrovka;Dmitrivka
+Dianzi|CN|Gansu|7i|2o7|7zy|1b
+Tenby|GB||9b|3zj|-d2|1b|Dinbych-y-pysgod
+Dielsdorf|CH||a7|3nw|ni|1b
+Dinganen|PH||71|kd|9li|1a|Dinganan
+Digbam|CI||0|ht|-hc|1a
+Diamante d’Oeste|BR||4w|-1xa|-46a|1a
+Dischingen|DE||8r|3ra|st|1a
+Diébly|CI||0|jq|-k2|19
+Dětmarovice|CZ||9m|3ul|1fa|19|Dittmannsdorf;Dziećmorowice
+Dirksland|NL||8m|3zr|be|19
+Diamankani|CI||0|tc|-i5|19|Diamakani
+Dichato|CL||4u|-2tj|-5mm|19
+Delvār|IR||7o|27w|3xv|18|Dilwar;Del Vāz;Delbār;Dilbār
+Digbeuguhé|CI||0|hk|-ip|18|Digbéguhé
+Dibulla|CO||27|vb|-5nn|18
+Diakhao|SN||g|146|-199|18|Diakao;Diarhao
+Dilworth|US||2f|3m8|-7gm|18
+Diattakounda|SN||g|yx|-17k|18|Diatakounda
+Digkilaan|PH||71|mx|9lc|17|Dikilan
+Divina Pastora|BR||3r|-tp|-2v7|17
+Dianzi|CN|Gansu|7i|2ka|852|17
+Discovery Ridge|CA||2s|3xq|-8t9|17
+Diatokro|CI||0|f0|-9a|17
+Dimataling|PH||71|kx|9ip|17|Dimatalin
+Divinésia|BR||4w|-1mb|-3bg|16|Divino de Ubá
+Dilley|US||2f|27n|-7nh|16
+Dillon|US|Montana|2p|3hm|-8ow|16
+Dimmitt|US||2f|2nz|-7w7|16
+Divino das Laranjeiras|BR||4w|-1g6|-378|16|Divino de Laranjeiras
+Dieviessou|CI||0|l1|-fm|16
+Débélé|CI||0|th|-ic|16|Dabélé;Débété;Diébélé
+Dīzajābād|IR||7o|2tr|3qz|16
+Dietikon / Oberdorf|CH||a7|3no|nb|15
+Dieuze|FR||9k|3rl|io|15
+Didsbury|CA||2s|3zj|-8t2|15
+Dīzaj Ḩoseyn Beyg|IR||7o|2yv|3iq|15|Dīzaj Ḩosey Beyk;Dīzaj-e Ḩoseyn Beyk;Dīzaj-e Ḩoseyn Beyg
+Dilan|PH||71|18p|9as|14
+Diaz|PH||71|181|9bn|14
+Dickens Heath|GB||9b|41j|-54|14
+Dietingen|DE||8r|3pw|o1|14
+La Digue|SC||ae|-c4|4b4|13|La-Dig;Dig;La-Dih;Dih
+Diriá|NI||3s|x0|-6n2|13
+Thierhaupten|DE||8r|3qx|ub|12|Diahappn
+Dițești|RO||8u|3gy|1zh|12
+Diliman Primero|PH||71|15q|9bz|12|Diliman
+Dirāng|IN||6t|23x|74b|12
+Dimandougou|CI||0|m9|-ah|11
+Diabugu|GM||7|116|-140|11
+Diai|CI||0|i4|-n6|11
+Dingli|MT||9e|2rm|13y|11
+Diempleu|CI||0|lc|-mf|11
+Diespeck|DE||8r|3ts|tj|11
+Dărmăneşti|RO|Arges|8u|3h2|1x6|11|Dîrmoneşti;Dârmoneşti
+Digha|IN||6t|1o3|6r4|11
+Dianalund|DK||8y|4a9|vx|10
+Digbapia I|CI||0|j0|-ic|10|Digbapia
+Dixmoor|US||2f|37n|-6ri|10
+Djagnadou|CI||0|fa|-gr|10|Diaguadou
+Diléya|CI||0|iq|-jb|10|Déléya
+Diogo de Vasconcelos|BR||4w|-1kx|-3c0|z
+Diénédian|CI||0|mg|-h0|z
+Dicabisagan|PH||71|1bg|9g2|z|Dicaoisagan
+Dicomano|IT||9o|3dx|w0|z
+Deputatsky|RU||7w|5cj|asu|z|Deputatskij;Deputatski;Deputatskis;Gyeputatszkij;Deputatskiy;Dieputatskij
+Dillonvale|US|Ohio|48|30y|-6ig|z
+Digdig|PH||71|18b|9c2|z|Joson
+Dinaodi|CI||0|ml|-8z|y|Dinaoudi
+Dipperz|DE||8r|3we|r8|y
+Dingleydale A|ZA||o|-1wm|2eg|y
+Dilove|UA||98|3p6|1v5|y|Fehérpatak;Fejérpatak;Terebesfejérpatak
+Dioşti|RO||8u|3ek|1v6|y
+Didi Lilo|GE||7n|37y|3gw|x
+Diplahan|PH||71|lg|9hq|x
+Dyshne-Vedeno|RU||9i|3bc|3k4|x|Dysjne-Vedeno;Dişnini Vedana;Dişni-Vedeno;Dišne Vedeno;Dyšni-Vedeno;Dyshni-Vedeno;Dyshny-Vedeno;Dişni-Vedana
+Dion-le-Mont|BE||8t|3wu|cz|x
+Didia|CI||0|hw|-g9|x
+División del Norte|MX|Campeche|3z|1fh|-705|x
+Dieulefit|FR||9k|3fp|e2|w|Dieulofet
+Donskoye|RU|Kaliningrad Oblast|96|48m|1jh|w|Donskoje;Diržkaimis;Donskoe
+Dârlos|RO||8u|3ka|1vs|w|Dîrlos
+Dian-ay|PH||71|u3|9j7|w
+Dynivtsy|UA||98|3q8|211|w|Dynivtsi;Dinăuți;Dinauts’;Dinautsy
+Dimaluna|PH||71|mk|9jw|w|Dimaluno
+Diamante do Sul|BR||4w|-1xk|-42c|w|Diamante
+Disley|GB||9b|448|-5o|w
+Dīzaj Khalīl|IR||7o|2xz|3j1|v|Dīza-Khalīl;Dizeh Khalīl;Dīzaj-e Khalīl
+Dieskau|DE||8r|3yw|xg|v
+Vodnjan|HR||a6|3gw|12h|v|Dignano;Adinianum
+Dietersburg|DE||8r|3qp|zw|v|Diederschburg
+Diamante|IT||9o|328|17y|v
+Diahouin|CI||0|j0|-kl|v|Diahouen
+Dângeni|RO||8u|3ox|22x|v|Dîngeni
+Dirmstein|DE||8r|3to|mw|v|Dermschdä
+Diana Malari|SN||g|zp|-16d|v|Diana Malary;Dianah Malari
+Débrimou|CI||0|ex|-c7|u|Debrimu;Dibrimou
+Ditton Hill|GB||9b|3yq|-v|u
+Dimasalang|PH||71|xv|9k2|u
+Downtown|IO||a9|-k6|5l2|u|Diego Garcia
+Dârvari|RO|Mehedinți County|8u|3es|1s1|u|Dîrvari
+Dīzaj-e ‘Olyā|IR||7o|2yo|3j6|t|Dizj Olya;Dīzaj-e Olyā;Dīzaj ‘Olya
+Diaraoula|CI||0|g1|-kj|t
+Dirkiesdorp|ZA||o|-23h|2cg|t
+Dienfé|CI||0|m2|-jd|s
+Dietikon / Hofacker|CH||a7|3no|ne|s
+Diessen|NL||8m|3z0|ee|s|Diesen
+Dilermano de Aguiar|BR||4w|-2aj|-46l|s
+Dissay|FR||9k|3lq|17|s
+Diakhāli|BD||6a|1ui|6yw|s
+Diggers Rest|AU||8j|-2wj|b60|s
+Digbohouo|CI||0|i0|-fu|s
+Diamalabo|CI|Yamoussoukro|0|j8|-eu|s
+Diósjenő|HU||8v|3p6|1gw|r|Janov
+Dyéliso|CI||0|of|-i2|r|Diéliso;Diélisso
+Ditroudra Béoué|CI||0|ho|-kx|r
+Déinneu|CI||0|je|-n0|r|Dinneu
+Diogo|CI||0|q7|-ik|r|Dyogo
+Dieppe-Westerra|CA||4q|3w6|-82s|r
+Dipolo|PH||71|lm|9i0|r|Dipalo
+Dixon Lane-Meadow Creek|US||3p|2vv|-94y|q|Haltsotah Tóńlį́
+Diomandougou|CI||0|ok|-j2|q|Dyomandougou
+Bozcaada|TR||94|32o|20f|q|Tenedos;Distretto di Tenedo;Bozkada;Bozca;Tenedo;Castro;Boğçaada
+Dingouin|CI||0|la|-l5|q|Dengouen
+Dietikon / Vorstadt|CH||a7|3np|nc|q
+Dinagat|PH||71|ro|9ov|q
+Dimayon|PH||71|mf|9kv|q
+Dillsburg|US||48|33f|-5xz|q
+Diembisédougou|CI||0|m1|-bv|q
+Dickson|AU||8l|-2px|bia|q
+Dirinon|FR||9k|3qg|-bv|p
+Dihinébo|CI||0|kf|-9c|p|Diinébo
+Divalá|PA||4g|nd|-6dr|p|Davalá
+Dittewal|PK||6q|2ik|5pj|p|Dittawal
+Diamond|US|Illinois|2f|36p|-6t5|p
+Dieblich|DE||8r|3vr|kr|p
+Bol’shakovo|RU||96|48g|1o5|o|Bolsjakovo;Didieji Skaisgiriai;Bol’šakovo
+Dingtoucun|CN||7i|22k|98e|o
+Diémoz|FR||9k|3in|e5|o
+Dillingham|US||1h|4k0|-c86|o|Curyuk
+Dibuluan|PH||71|19w|9e8|o
+Diakovce|SK||8s|3pp|1dk|o
+Dilisk’a|GE||7n|373|3cq|o|Diliska
+Dicamay|PH||71|1ak|9ew|o|Dicamy
+Diamantina|PH||71|1b0|9dv|o|Diamantino
+Diatar|SN||g|1a7|-15g|o
+Dīkshitpur|IN||6t|1xw|6eh|n
+Didablé|CI||0|hv|-de|n
+Diélé|CI||0|sb|-fu|n
+Dikkelvenne|BE||8t|3xg|aa|n|Dickelvenne
+Diga gaw|SO||14|fu|3qn|n
+Dīnārābād|IR||7o|2p4|3qm|n|Dandarābād;Dindarābād
+Djénzoukro|CI||0|jt|-cp|n|Dienzoukro
+Digor|TR||94|345|3cl|n
+Dida|CI||0|j6|-cf|m
+Dietersdorf|AT||a2|3n5|14q|m
+Disraeli|CA||59|3ji|-5i7|m
+Diénédoufla|CI||0|ih|-g5|m
+Dihi|NP||6r|25g|6h5|m
+Dio|CI||0|lm|-l2|m
+Disentis|CH||a7|3lq|ol|m|Mustér
+Diever|NL||8m|42t|hk|m
+Dittelsheim-Heßloch|DE||8r|3u6|mw|m
+Diezué|CI||0|m6|-as|m
+El Diamante de Echeverría|MX||41|18r|-760|m|Diamante de Echeverría
+Dirlewang|DE||8r|3pc|t6|l
+Dietersheim|DE||8r|3to|ta|l
+Dsegh|AM||80|35s|3g1|l|Dsekh;Tumanyan;Disigi;Disikh;Drsegh
+Dyéifla|CI||0|lg|-go|l|Diéifla
+Didakouadiokro|CI||0|hs|-de|l
+Diékadiokro|CI||0|i2|-c9|l|Diékadiékro
+Dietikon / Almend|CH||a7|3no|nb|l
+Dióni|GR||8p|2xm|1uh|l
+Dingelsdorf|DE||8r|3om|pg|l
+Disod|PH||71|my|9hq|l
+Dyviziya|UA||98|3jm|2b9|l|Divizia;Dyviziïa;Dywisija;Dewedgi
+Dicayong|PH||71|mu|9hr|l|Dicoyong
+Dicky Beach|AU||8c|-22e|bte|l
+Divisoria|PH||71|1co|9e9|l
+Diang|CM||j|bt|ru|l
+Diorama|BR||4w|-193|-3ye|l
+Diesdorf|DE||8r|40t|w4|l|Thieterisdorf
+Dingle|IE||8z|40u|-sj|l|An Daingean;Dinglis;Yn Dein;Daingean Uí Chuis
+Dios Padre|MX|Hidalgo|41|1ku|-7nk|k
+Diemtigen|CH||a7|3ll|l0|k
+Digby|CA||35|3fy|-52o|k
+Dienheim|DE||8r|3ug|n7|k
+Diaradougou|CI|Vallée du Bandama District|0|md|-cj|k|Dyaradougou
+Diemlach|AT||a2|3nr|16g|k
+Dílesi|GR||8p|2yi|1tr|k|Dhílesi
+Dingbé|CI||0|jn|-b0|k
+Dinéault|FR||9k|3py|-bl|k|Dineol
+Diamond|VC||54|10i|-4px|k
+Velykomykhaylivka|UA||98|3p9|2tb|k|Velykomykhailivka;Dibrivka;Dibrovka
+Dietikon / Kreuzacker|CH||a7|3no|nc|k
+Dīvān|IR||7o|21u|47m|j
+Dienguesso|CI||0|no|-cz|j|Dinguesso;Diengueso
+Diétiguisso|CI||0|na|-g1|j
+Diakohou|CI||0|l8|-fe|j|Diakoou
+Diloboua|CI||0|i5|-hk|j
+Didiassa|CI||0|jo|-c4|j
+Diepenheim|NL||8m|410|i8|j
+Ditchingham|GB||9b|41r|40|j
+Dârza|RO||8u|3fw|203|j|Dârzea;Dîrza
+Dizy|FR||9k|3sb|b1|j
+Dymka|UA||98|3pl|205|j|Dimca
+Ditfurt|DE||8r|3zz|v4|i
+Didenheim|FR||9k|3ok|ka|i
+Dichiseni|RO||8u|3ev|24h|i
+Dionkro|CI||0|ln|-b3|i
+Dioulatiédougou|CI||0|ox|-k3|i
+Diangobo|CI|Comoé District|0|i4|-cm|i
+Dittenheim|DE||8r|3sa|tz|i
+Didayaokro|CI||0|ht|-de|i
+Diemeringen|FR||9k|3ry|jz|i|Deemeringe
+Diapleu|CI||0|k1|-l6|i|Diapieu
+Dieci|RO||8u|3ko|1pt|h|Diécs
+Diamond Harbour|NZ||ak|-3d7|dbt|h
+Diggle|GB||9b|44t|-5k|h
+Diebling|FR||9k|3sf|ja|h
+Dicle|TR|Şırnak|94|2vl|38v|h
+Dirkshorn|NL||8m|42j|da|h|Dirckshorn
+Guimbo Ndolikro|CI||0|k2|-co|h|Dimbo-Ndolikro
+Dibrivsk|UA||98|3zl|20n|h|Dibrivs’k;Dubrovsk;Dibrovsk
+Dimboola|AU||8j|-2ta|ayj|h
+Dârvari|RO|Ilfov|8u|3fe|1zw|h|Dîrvari
+Diotouo|CI||0|jz|-ml|h|Diétouo
+Dílar|ES||9d|2uz|-a0|h
+Djegbé|CI||0|pl|-hr|g|Diegbé
+Diegten|CH||a7|3np|lp|g
+Digila|CI||0|lr|-i2|g|Djiguila
+Nevetlenfolu|UA||98|3pe|1rw|g|D’yakovo;Nevetlefalu;Dyakove;D’yakov;Diakovo;Dyakovo
+Dirce Reis|BR||4w|-1kv|-3wl|g
+Torony|HU||8v|3n8|19y|g|Dienling;Turnice
+Diou|FR||9k|3l9|ae|g
+Duppigheim|FR||9k|3qt|l3|g|Díppje
+Gjinoc|XK||8q|39k|1lu|g|Ðinovce;Gjinovc;Džinovce;Gjinofc
+Diano Castello|IT||9o|3e0|mf|g
+Digbeugnoa|CI||0|h2|-gu|g
+Diendana-Sokoura|CI||0|mn|-c6|f
+Diddillibah|AU||8c|-220|bt5|f
+Dieciocho de Marzo|MX|Michoacán|41|1hf|-7xb|f
+Digosville|FR||9k|3tv|-49|f
+Diez de Octubre|MX||44|1wp|-82o|f
+Dzisna|BY||9g|4ad|26d|f|Disna
+Dixon|US|Missouri|2f|2xj|-73t|f
+Dikkebus|BE||8t|3x6|7v|f
+Dinnington|GB|England|9b|48x|-4o|f
+Dyakobou|CI||0|mu|-g5|f|Diakobou
+Ditchling|GB||9b|3xg|-c|f|Ditchelling
+Castledermot|IE||8z|42z|-j0|f|Díseart Diarmada;Kasldermotas;Diseart Diarmad
+Dyégon|CI||0|p6|-fu|f|Diégon
+Dindéresso|CI||0|rv|-ic|f|Dinndéresso
+Dimovo|BG||9v|3di|1r5|f
+Dingé|FR||9k|3qc|-4s|f|Dingad
+Dieue-sur-Meuse|FR||9k|3sb|f2|e
+Distington|GB||9b|47o|-9u|e
+Dingleydale B|ZA||o|-1wk|2ei|e
+Distroff|FR||9k|3t1|hf|e|Diesdorf
+Dâmbu|RO|Prahova|8u|3h5|1zx|e|Dîmbu
+Dinsheim-sur-Bruche|FR||9k|3qu|kn|e|Dinsheim;Dínse
+Dibbesdorf|DE||8r|41a|tg|e
+Diula|UA||98|3pf|1s4|e|Dyula
+Dingbi|CI||0|mi|-8g|e|Dinbi
+Dianfla|CI||0|jt|-ga|e
+Divignano|IT||9o|3iu|nw|e
+Dil Sher Brohi|PK||6q|25x|593|e
+Dietach|AT||a2|3pl|142|e
+Digba|CI||0|is|-ht|e
+Dirac|FR||9k|3io|p|e
+Dietlikon / Eichwiesen|CH||a7|3nq|ny|e
+Dimoulé|CI||0|d8|-io|e
+Distré|FR||9k|3n6|-b|e
+Dihintédouo|CI||0|oc|-8g|e
+Dibri-Assirikro|CI||0|l3|-ed|e
+Divišov|CZ||9m|3ub|15c|e
+Dyémédougou|CI||0|nr|-h1|e|Diémédougou;Diémbédougou
+Divača|SI||9a|3iw|12t|e|Divaccia
+Diarratiédougou|CI||0|rt|-el|e
+Didderse|DE||8r|41i|sw|e|De'esse
+Dyoronakaha|CI||0|q0|-ea|d|Dioronakaha
+Diseröd|SE||9w|4gx|xf|d
+Diamba|CI||0|lp|-97|d
+Dillsboro|US||48|30e|-6ka|d
+Dietikon / Guggenbühl|CH||a7|3no|nd|d
+Dikodougou|CI|Woroba|0|nm|-gb|d
+Diané|CI||0|l0|-ko|d
+Dyadkovychi|UA||98|3wl|20d|d|Dyad’kovychi;Diadkovychi;Dyatkovichi;Dyad’kovichi
+Diavatós|GR||8p|34n|1pv|d|Dhiavatós
+Dignac|FR||9k|3ik|s|d|Dinhac
+Dihtiari|UA||98|3wi|2j1|d|Degtyari;Dihtyari;Degtyary
+Dike|US||2f|39y|-75b|d
+Dâmbovicioara|RO|Dâmbovița County|8u|3g4|1yz|d|Dîmbovicioara
+Dietachdorf|AT||a2|3pk|143|d
+Diamond Head|US||ax|1n2|-c6c|d
+Diéta|CI||0|k8|-n5|d
+Dingolshausen|DE||8r|3un|sv|d
+Dikbıyık|TR||94|36i|2tq|d
+Dickson|US|Oklahoma|2f|2mz|-7he|d
+Dipignano|IT||9o|310|195|d
+Diaz|US||2f|2r0|-71j|c|Diez
+Dietwiller|FR||9k|3oh|kk|c|Dietweiler
+Dimondale|US||2q|3ah|-6j5|c|Diamondale
+Diékabo|CI||0|i3|-ck|c
+División del Norte|MX|Michoacán|41|1h0|-7x1|c|Crucero
+Diérissonkaha|CI||0|qb|-fe|c
+Yarove|UA||98|3jw|28u|c|Diulmeni
+Dâmbău|RO||8u|3ko|1vb|c|Dîmbău
+Dietikon / Schönenwerd|CH||a7|3no|nf|c
+Dyakivtsi|UA||98|3pm|20x|c|Diakivtsi;Probotești
+Dâmbroca|RO||8u|3hc|22w|c|Dîmbroca
+Dömös|HU||8v|3oo|1gj|c|Damiš;Dimiš
+Diabugu Basilla|GM||7|111|-12r|c
+Diale|CI||0|jl|-fm|c|Diali
+Dimaro|IT||9o|3kp|u7|c
+Dierkow-West|DE||8r|46b|xr|c
+Dilkon|US||2p|2qb|-8ig|c|Dilcon
+Diesen|FR||9k|3sm|ik|c
+Dieciséis de Septiembre|MX|Chiapas|41|19a|-76t|c
+Diesseits|AT||a2|3q5|11c|c
+Diebach|DE||8r|3sz|sb|c
+Discovery Harbor|US||ax|1gw|-c0b|c|Discovery Harbour
+Diangokro|CI|Lacs District|0|is|-cq|c
+Dimăcheni|RO||8u|3p3|21r|c|Damăcheni
+Dârjiu|RO||8u|3kc|1y0|c|Székelyders;Dîrjiu
+Diablo|US||3p|2x3|-9es|c
+Diamond Ridge|US||1h|4ls|-bp0|c
+Dimitrov|AM||80|335|3fl|c
+Divernon|US||2f|31x|-6x2|c
+Diso|IT||9o|335|1f3|b
+Dippach|DE||8r|3xg|rw|b
+Dingsheim|FR||9k|3r3|lb|b
+Dubrivka|UA|Zakarpattia|98|3q6|1s5|b|Dubrovka;Dibrivka
+Diangokokokro|CI||0|jb|-d2|b
+Dioșod|RO||8u|3nd|1ry|b
+Dimata|CI||0|kx|-ho|b
+Dinner Plain|AU||8j|-2uu|bd0|b
+Diolala|CI||0|sc|-ke|b
+Dikson|RU||6u|5o7|67p|b
+Dieciocho de Marzo|MX|Jalisco|41|1no|-7us|b
+Dixmont|US||48|3g4|-5c4|b
+Dios Padre|MX|México|41|1ih|-7py|b
+Diges|FR||9k|3ol|9g|b
+Dickleburgh|GB||9b|41k|3a|b
+Dierks|US||2f|2ms|-796|b
+Dieterskirchen|DE||8r|3ta|yi|b
+Dikouéhipalényoa|CI||0|gt|-gb|b
+Dixfield|US||48|3fp|-5fq|b
+Digoualé|CI||0|lg|-kw|b
+Dihi Kanejpur|BD||6a|1si|6vs|b
+Dyenfé|CI||0|ln|-i0|b|Dienfé
+Dida-N'Glossou|CI||0|hw|-d7|b
+Dikmen|TR|Antalya|94|2uj|2e4|b
+Dioulé|CI||0|jr|-kz|b
+Dídyma|GR||8p|2w2|1sd|a|Dhídhima;Dhídhimoi
+Dâmbovicioara|RO|Arges|8u|3i9|1y3|a|Dîmbovicioara
+Dickeyville|US|Wisconsin|2f|3af|-6zn|a|Dickeysville
+Dimbulah|AU||8c|-1bn|b73|a
+Dietzhausen|DE||8r|3wk|tf|a
+Dingtuna|SE||9w|4lh|19j|a
+Dioman|CI||0|ml|-kz|a
+Dingy-Saint-Clair|FR||9k|3jj|hb|a|Dingi;Tincia Anniciensium;Dingy
+Diangoménou|CI||0|ir|-dz|a
+Dyobala|CI||0|lp|-ht|a|Diobala
+Dickerldorf|AT||a2|3pu|132|a
+Dykhtynets|UA||98|3pi|1xk|a|Dihtineț;Dikhtenets
+Dūzān|IR||7o|2km|3ud|a|Dīzān
+Yasnaya Polyana|RU|Kaliningrad Oblast|96|47l|1qd|a|Jasnaja-Poljana;Jasnaja Poljana;Trakehnen;Didieji Trakėnai;Iasnaïa Poliana;Jasnaja Polana;Trakenen
+Dighton|US|Kansas|2f|2yw|-7r3|a
+Dirgenler|TR||94|2t0|2ar|a
+Dimitrítsi|GR||8p|35v|1t1|a|Dhimitrítsion
+Dieciocho de Julio|UY||45|-2lk|-44r|a|Diez y Ocho de Julio
+Didiébou|CI||0|js|-dk|a
+Diédou|CI||0|l6|-8q|a
+Ovacık|TR|Mersin|94|2si|2lj|a|Dibekli
+Dih|CI||0|qe|-fy|a
+Díaz Ordaz|MX||3x|24t|-8r5|a
+Dietikon / Fondli|CH||a7|3np|nb|a
+Dinamita|MX||44|1zg|-7zy|a
+Dillon|US|Colorado|2p|323|-86k|a
+La Dichosa|MX||41|1p8|-7vn|a|Dichosa
+Diniaș|RO||8u|3it|1md|a|Dinjas;Dinyás
+Dibrivka|UA|Poltava|98|3v0|2l4|a|Dubrovka
+Dibrivka|UA|Poltava|98|3w7|2lb|a|Dibrivne;Dibrovka
+Dietwil|CH||a7|3mz|nb|a
+Dissay-sous-Courcillon|FR||9k|3of|1b|a
+Diépleu|CI||0|iu|-mz|9
+Dispilió|GR||8p|34g|1n5|9|Dhispílion
+Tími|CY||73|2oh|2ic|9|Dimi
+Diamond Beach|AU||8l|-2h0|brp|9
+Dīzaj-e Parvāneh|IR||7o|2vo|3k5|9
+Dittweiler|DE||8r|3tb|ke|9
+Dikici|TR||94|2xn|2bv|9
+Dixon|US|New Mexico|2p|2sk|-865|9
+Diamond|US|Missouri|2f|2us|-7a0|9
+Dibykro|CI||0|gf|-dm|9
+Dingersjö|SE||9w|4sz|1ca|9
+Diö|SE||9w|4db|13i|9
+Dingle|SE||9w|4il|w6|9
+Dikboğaz|TR||94|2wp|38z|9
+Dixon|US|Kentucky|2f|2w8|-6rl|9
+Dickenreishausen|DE||8r|3p7|s9|9
+Dieciocho de Marzo|MX|Sinaloa|3x|1zu|-8f0|9
+Divundu|NA||1f|-1ea|1nv|9
+División del Norte|MX|Tamaulipas|44|1q7|-7mn|9
+Dillstädt|DE||8r|3wi|t9|9
+Diahibly|CI||0|id|-mv|9
+Digny|FR||9k|3qu|37|9
+Dielmissen|DE||8r|40d|qp|9
+Dinmore|AU||8c|-24o|bsj|9
+Dianivka|UA||98|3nq|2vw|9|Kirovs’ke;Kirovskoye;Kirovskoe;Dianiwka;Dianowka
+Dipșa|RO||8u|3mg|1vw|8
+Morkoyun|TR||94|2y5|32u|8|Morqoyun;Dîwanevlerî
+Dixmont|FR||9k|3pk|9h|8
+Dindești|RO||8u|3o1|1q6|8
+Dişlibaşak|TR||94|2wn|333|8
+Dioungonou|CI||0|lm|-dn|8|Diongonou
+Dialektó|GR||8p|31z|1o5|8|Dhialektón
+Diáva|GR||8p|329|1ny|8|Dhiáva
+Dibble|US||2f|2pb|-7j7|8
+Diablo Grande|US||3p|2vw|-9cw|8
+Ditton Priors|GB||9b|41u|-76|8
+Dittelstedt|DE||8r|3xk|us|8
+Dimas López|MX||41|1k0|-7j8|8
+Ampezzo|IT||9o|3kx|zk|8|Dimpeç
+Divisaderos|MX||37|2a9|-8g3|8|Divisadero
+Diezma|ES||9d|2vo|-99|8
+Dubrivka|UA|Zakarpattia|98|3qq|1qi|8|Dibrovka;Dubrovka
+Dikköy|TR||94|2zw|34x|8
+Dippach|LU||9c|3tr|gm|8
+Diecimo|IT||9o|3e4|t7|8
+Dildo|CA||50|3o5|-44r|8
+Diangokro|CI|Lacs District|0|k3|-dx|8
+Dinami|IT||9o|2z1|18u|8
+Diakpo|CI||0|jb|-ca|8|Diapo
+Dizy-le-Gros|FR||9k|3tv|b6|8
+Djonan Yakro|CI||0|k1|-cs|8|Dionayakro
+Djamalakro|CI||0|l5|-de|8|Diamélakro
+Dienci|RO||8u|3gc|1vo|8
+Karnut|AM||80|35a|3e4|8|Diraklar;Dirak;Tirekler
+Diamond City|US||2f|2ta|-764|8|Diamanturbo
+Dieupentale|FR||9k|3du|3j|8
+Dibrivka|UA|Chernivtsi|98|3q1|1z0|8|Dumbrava
+Dignano|IT||9o|3k0|zy|8|Dignan;Adinianum
+Dymokury|CZ||9m|3vl|168|8|Dimokur
+Dikmen|TR|Antalya|94|2up|2ga|8
+Dienville|FR||9k|3qb|cl|8
+Diembékaha|CI||0|os|-fh|8
+Baloğlu|TR||94|2yv|367|8|Dimilyan
+Diyamigili|MV||af|6i|5nq|8
+Diollé|CI||0|ic|-na|8
+Dienten am Hochkönig|AT||a2|3nm|104|8
+Diafouéfla|CI||0|kv|-g8|8|Diabouéfla;Diafouéffa
+Diekhof|DE||8r|45n|yc|8
+Dietikon / Rütematt|CH||a7|3nn|nc|8
+Dieya|CI||0|if|-mp|8
+Dietikon / Unterdorf|CH||a7|3np|nd|7
+Dennehotso|US||2p|2ud|-8h5|7|Denehotso;Dinnehotso
+Dieteren|NL||8m|3xw|g9|7
+Distrito Federal|MX||41|1a3|-76f|7
+Dilektepe|TR||94|2xn|2yz|7
+Dimitsána|GR||8p|2wg|1p8|7|Dhimitsána
+Diamondville|US||2p|382|-8j2|7
+Díkaia|GR||8p|37v|211|7|Dhíkaia
+Dickeyville|US|Maryland|48|318|-5x2|7
+Elm|CH||a7|3mc|ph|7|Dialma
+Dinégouiné|CI||0|jv|-kx|7
+Didibobli|CI||0|j4|-je|7
+Dilináta|GR||8p|2y6|1l0|7|Dhilianáta;Dhilináta
+El Diezmo|MX||41|1kr|-7sm|7|Diezmo
+Dichtelbach|DE||8r|3ux|le|7
+Diangala|CI||0|ph|-de|7
+Diano d'Alba|IT||9o|3g1|mb|7
+Dienzoukro|CI||0|kj|-ba|7
+Diepswal|NL||8m|43n|hp|7
+Direk|AU||8b|-2og|ap0|7
+Dikilitaş|TR||94|2xv|2ph|7
+Diokagouiné|CI||0|k0|-ln|7
+Diacceto|IT||9o|3dm|vy|7
+Diamalabo|CI|Comoé District|0|ia|-d0|7
+Diogo Simão|ST||1c|v|il|7
+Dieciséis de Septiembre|MX|Nuevo León|44|1z3|-7q7|7
+Dicastillo|ES||9d|3ac|-5n|7
+Diganteh|GM||7|115|-16v|7|Digante
+Dietenberg|AT||a2|3mk|16a|7
+Dienersdorf|AT||a2|3n8|186|7
+Dima|KM||ac|-x1|3cl|7
+Dinton|GB||9b|3xw|-5i|7
+Didivshchyna|UA||98|3vb|2ao|7|Didovshchina
+Diekhusen-Fahrstedt|DE||8r|45t|p2|7
+Dicmo Kraj|HR||a6|3d8|1a2|7
+División del Norte|MX|Tamaulipas|44|1ww|-7kc|7
+Deh Now|IR|Tehran|7o|2qn|3yr|7|Deh-e Now;Dih Now
+Dingen|DE||8r|45w|pd|7
+Dickenschied|DE||8r|3um|km|7
+Diéval|FR||9k|3w4|6t|7
+Dīv Kotī|IR||7o|2to|43d|7
+Diors|FR||9k|3m3|53|7
+Dikme|TR||94|34i|3be|7
+Dillbrecht|DE||8r|3x5|ms|7
+Dibinou|CI||0|lt|-f4|7|Diinou
+Diseworth|GB||9b|42q|-3p|7
+Divripo|CI||0|fv|-dy|7
+Dietmanns|AT||a2|3rd|15h|7
+Dieneț|RO||8u|3ko|237|7
+Divnynske|UA||98|3lm|2qs|7|Divnyns’ke
+Dyègbè|CI||0|qe|-fo|7|Diégbè
+Diktepe|TR||94|2xc|362|7
+Haut Divajeu|FR||9k|3g6|dy|7|Divajeu
+Dikmen|TR|Mardin|94|2v1|349|7
+Diocheți-Rediu|RO||8u|3jl|23e|7
+Diégokro Akété|CI||0|ku|-ej|7
+Dikmen|TR|Aksaray|94|2y0|2mr|7
+Dırazlar|TR||94|379|2hq|7
+Diculești|RO||8u|3fv|1un|7
+Dibrova|UA||98|3uc|2n6|7|Chapayevka;Prochsurady;Chapaievka
+Diongonoua|CI||0|kz|-el|6
+Dirranbandi|AU||8c|-27f|bfr|6
+Dihovo|MK||9u|35z|1n2|6
+Didi Arakali|GE||7n|36r|3da|6|Didi Arak’ali
+Dillonvale|US|Ohio|48|33o|-68e|6|Dillonville
+Diogo Vaz|ST||1c|w|i2|6
+Dipevler|TR||94|2zl|2ee|6|Diperler;Dibevler
+Dyédougou|CI||0|n4|-gk|6|Diodougou
+Diamond Cove|CA||2s|3xj|-8sq|6
+Dieffenbach-au-Val|FR||9k|3q8|kd|6|Dieffenbach im Tal;Diefebach;Dieffenbach
+Dilnyche|UA||98|3nq|2gj|6|Dilnytché
+Diakoro|CI||0|lz|-ci|6|Diakora
+Digby|GB||9b|43g|-13|6
+Dianu|RO||8u|3h9|1ui|6
+Dâmbu|RO|Mureș County|8u|3lu|1vf|6|Dîmbu
+Dīkhū’īyeh|IR||7o|282|4ca|6|Dikhoo’yeh
+Dioziamba|CI||0|js|-l2|6
+Dienguéré|CI||0|ok|-lj|6
+San Juan Diquiyu|MX||41|1ct|-7js|6|Diquiyu
+Dicmo Prisoje|HR||a6|3d7|1a5|6
+Dieterich|US||2f|30i|-6ti|6
+Diecinueve de Abril|MX||41|1bl|-7jm|6
+Dillendorf|DE||8r|3uo|ki|6
+Dmitrovskoye|RU||9i|4av|2v4|6|Dimitrovskoye
+Diékékro|CI||0|i6|-dy|6
+Dingwall|CA||35|3ma|-4nz|6
+Diédou Ahounzé|CI||0|lv|-et|6|Diédou Aounzé
+Digo|CI||0|gp|-f7|6
+Diéigalafla|CI||0|kz|-gd|6
+Dielkirchen|DE||8r|3tz|lq|6
+Dieppe Bay Town|KN||51|1cd|-4uh|6
+Dârvari|RO|Prahova|8u|3gs|20o|6|Dîrvari
+División del Norte (Santa Rosa)|MX||41|1gb|-7gp|6
+Dingdan|CN||7i|1zu|8cr|6
+Dizimieu|FR||9k|3j0|eq|6
+Dyéndana|CI||0|qg|-fk|6|Diénana
+Dibektaş|TR||94|2y1|322|6
+Dissé-sous-le-Lude|FR||9k|3o9|f|6
+Dierbach|DE||8r|3sc|mf|6
+Diensdorf-Radlow|DE||8r|414|132|6
+Dion-le-Val|BE||8t|3ww|cy|6
+Dill City|US||2f|2q0|-7ne|6
+Yayıklı|TR||94|34a|3ai|6|Divik;Tivik
+Diaradougou|CI|Woroba|0|p3|-hn|6
+Diez de Abril|MX||44|1w8|-7zg|6
+Diezmeros|MX||41|1m0|-7pn|6
+Diambo|SN||g|1a1|-159|6|Dianbo
+Diano San Pietro|IT||9o|3e1|mf|6
+Diyangping|CN||7i|20z|8gg|6|Ti-yang-p’ing
+Dímitra|GR||8p|32z|1o6|5
+Dions|FR||9k|3e1|by|5
+Diestelow|DE||8r|44r|xj|5
+Diego Sánchez|MX||41|1gb|-7pn|5
+Dila-Kouakoukro|CI||0|lw|-ex|5
+Dívčice|CZ||9m|3sf|13r|5
+Diatényoa|CI||0|gt|-gh|5
+Diaconești|RO||8u|3h9|1yp|5
+Diamélanzué|CI||0|kz|-fd|5
+Didești|RO||8u|3eu|1x4|5
+Ditak|AM||80|339|3fo|5
+Dickel|DE||8r|428|nj|5
+Dinhard|CH||a7|3o4|od|5
+Diebolsheim|FR||9k|3q5|la|5|Díwelse
+Dierre|FR||9k|3nj|2o|5
+Dilston|AU||8g|-36t|bcj|5
+Dingirie|GM||7|129|-15g|5
+Dinoša|ME||9l|39u|1hq|5|Dineša;Dinoši
+Dietersdorf bei Fürstenfeld|AT||a2|3mm|18q|5
+Dırazali|TR||94|348|2aj|5|Drazali
+Didenkove|UA||98|3qx|2mr|5
+Dyèwarakaha|CI||0|qc|-dy|5|Diéwarakaha

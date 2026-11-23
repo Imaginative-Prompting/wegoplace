@@ -1,0 +1,33 @@
+-- 0015: an event can belong to ONE branch of a contingency, instead of to the itinerary.
+--
+-- WHY. Plans change under a trip: a trek closes and the operator offers fallbacks, a flight may
+-- or may not run. For a few days the itinerary is then not one plan but several, and which one
+-- happens is decided later — sometimes only once the group is already on the way, with the app
+-- in their pockets.
+--
+-- WHY A COLUMN AND NOT SEVERAL TRIPS. The alternatives share the trip's spine: the same
+-- flights, the same hotels either side, the same days after the branch rejoins. A
+-- second trip row would fork all of it and leave two copies of every unaffected day to keep in
+-- sync. What actually differs is a contiguous run of legs in the middle, so what varies is
+-- tagged and everything else is left alone.
+--
+-- NULL IS THE DEFAULT AND IT MEANS "ALWAYS". Every event that existed before this migration
+-- keeps scenario NULL and therefore keeps rendering under every branch, which is the correct
+-- reading of the rows that have nothing to do with the branch. Only rows explicitly tagged
+-- are branch-specific. That also makes the migration safe to apply before the seed re-import:
+-- between the two the app renders exactly what it rendered yesterday.
+--
+--   NULL       shows under every scenario   (what all the branches share)
+--   'a key'    shows only under that branch (the booking as planned, or one of its fallbacks)
+--
+-- The selection itself is NOT here. Which branch you are looking at is a per-device view
+-- preference — a thing you flick between while deciding, not a fact about the trip — so it
+-- lives in localStorage next to the other view state and syncs to nobody. When the decision is
+-- real it will be made by re-importing the seed with one branch's rows untagged, not by
+-- writing a winner into this column.
+ALTER TABLE events ADD COLUMN scenario TEXT;
+
+-- The agenda filters the whole event list by scenario on every paint. The trip+start index
+-- already carries the ordering; this one keeps the branch lookup off a table scan once a few
+-- branches roughly double the row count for their days.
+CREATE INDEX IF NOT EXISTS idx_events_scenario ON events(trip_id, scenario);

@@ -1,0 +1,39 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zwolle|NL||8m|41v|gx|102|Swol;Svolla;Zvolė;Zvolle
+Zvishavane|ZW||n|-1kh|2bj|gl|Shabani;Shavani
+Zvyahel|UA||98|3wj|24p|fj|Nowogród Wołyński;Novohrad-Volynskyi;Nowohrad-Wolynskyj;Novohrad-Volinski;Swjahel;Zvjahelj;Zviahel;Zwiahel;Zvâgel;Zvjahel;Zwiahl;Zvyagel’;Novograd Volynski;Nowograd Wolynsk;Novohrad-Volyns’kyy
+Zvolen|SK||8s|3qx|1h7|b2|Altsohl;Zwoleń;Zólyom
+Zverevo|RU||9i|3pf|33g|6y|Swerewo;Zwjerjewo;Zwieriewo;Zvyereva
+Zvečan|XK||8q|3b7|1lw|4q
+Zvenyhorodka|UA|Cherkasy|98|3sc|2e0|4l|Swenyhorodka;Zvenıgorodka;Zvenõgorodka;Zvenîhorodka;Zwinogródka
+Zvenigorod|RU||9i|4at|2ue|4k|Zveniqorod;Zwienigorod;Zwjenigorod;Svenigorod;Swenigorod
+Zvenigovo|RU||9i|4bh|3pe|3h|Swenigowo;Zveniqovo;Zwjenigowo;Zvenyigovo;Zwienigowo
+Zvëzdnyy|RU|Perm Krai|7z|4gd|4cf|2q|Zvezdnyj
+Zwoleń|PL||a5|3yo|1nz|28|Zvoleņa
+Zvornik|BA||9r|3fb|1h2|28|Zvonik
+Zvoriştea|RO||8u|3ov|210|1r
+Zvëzdnyy Gorodok|RU||9i|4b8|2xv|1k|Zvezdnyi Gorodok
+Zvečka|RS||8q|3g0|1k0|1h
+Zvirynets|UA||98|3w2|2cv|19
+Zverinogolovskoye|RU||7z|479|505|18|Zverinogolovskoje;Zveringolovskoye;Zverinogolovskiy
+Zwierzyniec|PL||a5|3wl|1ru|x|Zvežiņeca
+Panik|AM||80|34y|3e5|t|Kyavtarlu;Kaftarly;Gevdarli;Zvarchadzor
+Zwaanshoek|NL||8m|41b|cu|n|Zvanshukas
+Zvole|CZ|Central Bohemia|9m|3up|142|k
+Zhvanets|UA||98|3qv|21l|f|Żwaniec;Schwanez;Žvanets;Jvaneț;Zjvanets;Jvanets
+Zvanivka|UA||98|3rl|2xs|d|Swaniwka;Zvonovka;Zvanovka
+Zvenyhorod|UA||98|3u6|1vd|c
+Zvëzdnyy|RU|Irkutsk Oblast|6k|4dn|87s|c|Zvezdnyj
+Zvenyhorodka|UA|Kirovohrad|98|3r2|2k2|b|Swenigorodka;Swenyhorodka
+Zvončín|SK||8s|3qg|1cn|a|Harangfalva
+Zvirove|UA||98|3q1|2v5|a|Swirowe
+Zvenyachyn|UA||98|3r3|1zh|a|Zvéniatchyn;Zvineace
+Zvoleněves|CZ||9m|3vj|13e|9
+Zhvan|UA||98|3r2|24c|9|Jvan;Žvan
+Zvole|CZ|Olomouc Region|9m|3ug|1az|8
+Zvorsca|RO||8u|3e7|1v6|7
+Zvekovica|HR||a6|3aa|1eo|7
+Žvan|MK||9u|36p|1mo|7
+Zviriv|UA||98|3x2|1z1|7|Swiriw;Zwierów
+Zvole|CZ|Vysocina|9m|3th|18x|6
+Zvyzhen|UA||98|3ui|1y4|5|Zvyzhin;Zvizhen

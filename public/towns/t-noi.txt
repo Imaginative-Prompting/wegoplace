@@ -1,0 +1,35 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Neijiang|CN||7i|2a6|83u|9nj|Nô̤i-gĕ̤ng;Nej-ťiang;Nejĝjan;Nui-kông-sṳ;Nội Giang;Lāi-kang-chhī;Neikiang;Nei-chiang
+Pointe-Noire|CG||a|-da|wy|7yo|Puent Nuaras
+Greater Noida|IN||6t|276|5ze|29n|Didžioji Noida;Granda Noida
+Noida|IN||6t|27e|5yt|29n
+Neihu|TW||7l|1xo|9dr|249|Nui-fù-khî;Nội Hồ;Lāi-ô͘-khu;Nei-hu
+Neuss|DE||8r|3y8|il|16d|Novaesium;Nüüß;Nüss;Noisas;Nuus
+Bangkok Noi|TH||62|128|7r4|wq
+Neubrandenburg|DE||8r|44s|10u|ix|Neubrandenbourg;Nuevo Brandeburgo;Noibrandenburgas;Neibrandenburga
+Noisy-le-Grand|FR||9k|3rp|74|hc
+Neunkirchen|DE|Saarland|8r|3t2|jy|du|Noinkirchenas
+Noisy-le-Sec|FR||9k|3rt|6u|au
+Noicattaro|IT||9o|35z|1b7|64
+Noisiel|FR||9k|3rp|7a|4a
+Noisy-le-Roi|FR||9k|3ro|5q|2a
+Noyelles-sous-Lens|FR||9k|3w3|7z|23|Noïelles-dsous-Lins
+Noirmoutier-en-l'Île|FR||9k|3mk|-68|1c|Noirmoutier;Nerium Monasterium;Nŭarmutjeo
+Noiseau|FR||9k|3ri|73|15
+Nuing|PH||71|fn|9og|q|Nuin;Noing
+Noidans-lès-Vesoul|FR||9k|3o9|h1|m
+Noyant|FR||9k|3nz|c|k|Noiant
+Noisy-sur-École|FR||9k|3qd|6z|j
+Noirétable|FR||9k|3ja|ag|h
+Le Noirmont|CH||a7|3n6|jc|g|Noirmont
+Berestove|UA||98|3rg|2y9|d|Birkenfeld;Berestowe;Neu-Nikolaifeld;Noy-Nikolayfeld;Noi-Nikolaifeld;Berestovoye
+Noiseux|BE||8t|3vq|ey|c
+Nointot|FR||9k|3ts|1c|b
+Noizay|FR||9k|3nq|2h|b
+Noisseville|FR||9k|3sh|hf|a
+Noiron-sous-Gevrey|FR||9k|3n3|e4|7
+Nointel|FR||9k|3sh|6d|7
+Noisy-sur-Oise|FR||9k|3si|6h|7
+Noidans-le-Ferroux|FR||9k|3o5|gj|6|Noidans-le-Ferreux
+Noisy-Rudignon|FR||9k|3qa|85|5
+Noiraigue|CH||a7|3mg|io|5

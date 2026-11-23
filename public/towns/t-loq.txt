@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Alor Setar|MY||6v|h0|7qs|382|Alor Star;Loqstaq;Alur Setar;Alostar
+Luquillo|PR||4m|1f1|-52k|2b|Laquilo;Loquillo
+Loqueb Este|PH||71|18a|9al|1p|Loqueb
+San Francisco Logueche|MX||41|19f|-7fq|b|Loqueche;San Francisco;San Francisco Loqueche

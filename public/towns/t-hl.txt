@@ -1,0 +1,81 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hlaingthaya|MM||7y|1at|7ev|5b3|Hlaing Tharyar;Hlaing Thar Yar
+Chlef|DZ||3|2sh|3p|1dm|Ech Cheliff;Castellum Tingitanum;Šelifas;Szalif;asch-Schalif;al-Asnām;ash-Shalif;Hlef;El Asnam;aš-Šalif
+Lünen|DE||8r|3ze|kx|pa|Hliunon;Luenen
+Głogów|PL||a5|3zi|18o|i6|Glogau;Glogovia;Hlohov;Glogova;Hłohow;Głogůw;Gloguvas
+Hlotse|LS||12|-287|25x|c8|Leribe
+Hladkivka|UA|Donetsk|98|3pg|2x1|bj|Gladkovka
+Hlegu|MM||7y|1bi|7fa|as
+Leer|DE||8r|43v|kq|9f|Lier;Hleri;Leri
+Hlukhiv|UA||98|3zk|2m8|8u|Hluchiw;Hlújiv;Hloukhiv;Hloechiv;Gluhiv;Hluhiv;Głuchów;Hluchiv;Hluchivas;Hluhiva;Glucovia;Gluchoff
+Lübbecke|DE||8r|41b|nx|7g|Hlidbeki
+Hlubočepy|CZ||9m|3v0|140|6j
+Hlanganani|ZA||o|-1xc|2el|5z
+Glauchau|DE||8r|3x6|yu|5y|Hłuchow;Glaucha;Glauhava
+Hlohlolwane|ZA||o|-28c|24l|5v
+Hlohovec|SK||8s|3qj|1dg|5j|Galgóc
+Hlybokaye|BY||9g|496|24x|4y|Hlybokaje
+Lom Sak|TH||62|1am|7t8|4t|Hlomsak
+Głuchołazy|PL||a5|3vs|1ca|47|Hlucholazy;Gluholazi;Gůchołazy
+Hlaw Kar|MM||7y|1b8|7ev|3y
+Hloubětín|CZ||9m|3v7|14e|3x|Hlaupětin
+Głubczyce|PL||a5|3vg|1dj|3t|Hlubčice;Glubčice;Leobschütz
+Hlučín|CZ||9m|3um|1ej|3o
+Hluvukani|ZA||o|-1wh|2f2|2o
+Hlinsko|CZ||9m|3u8|187|2n
+Hlyboka|UA||98|3pl|201|2m|Adancata;Khliboka;Glyboka;Adynkata
+Hlobyne|UA||98|3t6|2kg|2l
+Hlevakha|UA||98|3vn|2c9|2f|Glevakha
+Hledan|MM||7y|1ar|7f1|2e
+Glusk|BY||9g|42y|27o|26|Hlusk;Glussk
+Hluti|SZ||13|-23m|2fr|1w
+Chlórakas|CY||73|2oo|2i1|1s|Chloraka;Hiloraka;Klorakas;Hloraka;Khlorakas
+Lommatzsch|DE||8r|3y8|10z|1o|Hłomač;Lommača
+Hluboká nad Vltavou|CZ||9m|3s9|143|1l
+Hlybokyi Potik|UA||98|3pi|1ue|1j|Hlybokyy Potik;Glubokyy Potik
+Hluhluwe|ZA||o|-25u|2hn|1a
+Hlobane|ZA||o|-250|2e4|19
+Hluk|CZ||9m|3s3|1cp|16|Hluck
+Hlubočky|CZ||9m|3tu|1cb|16
+Hlengesha|ZA||o|-1zj|2fm|14
+Hlipiceni|RO||8u|3o8|23f|12
+Hlynyany|UA||98|3ue|1w3|y|Gliniany;Hlyniany;Glinyany
+Hlukhivtsi|UA||98|3u9|27t|x|Hloukhivtsi
+Hlynne|UA||98|3z5|245|w
+Hlabisa|ZA||o|-267|2gk|u|Hiabisa
+Hladkivka|UA|Kherson|98|3kx|2io|t|Gladkovka
+Hlathikhulu|SZ||13|-22y|2f1|r|Hlatikulu
+Hlybochytsya|UA||98|3vo|27y|r|Hlybochytsia
+Hlodosy|UA||98|3qm|2f0|r|Glodosy
+Khlibodarske|UA||98|3l4|2cz|q|Khlibodars’ke;Hlibodarske;Chlibodarśke
+Hlavekisa|ZA||o|-1wf|2f6|q
+Hlavani|UA||98|3jc|293|p|Glăvani;Hlawani
+Gložan|RS||8q|3hs|1id|p|Hložany;Dunagálos;Gloschein;Glozsán;Gloĵan
+Hle Seik|MM||7y|1bw|7ec|l|Hlezeik
+Hlyns'k|UA||98|3v2|1ue|h|Glińsko
+Hlynsk|UA||98|3rz|2je|h|Glinsk;Hlyns’k
+Hlynytsya|UA||98|3q9|1zf|g|Hlynytsia;Hlinița
+Hlusha|BY||9g|43h|286|e|Glusha
+Hlohovec|CZ||9m|3rh|1ak|d
+Hlalanathi|ZA||o|-24d|2he|d
+Hlyboke|UA|Odesa|98|3j1|2a9|c|Eschipolos;Eskipolos;Eskhiopolos
+Hlušovice|CZ||9m|3tw|1c0|b
+Hlăpești|RO||8u|3mo|21w|b
+Hladkivshchyna|UA||98|3u9|2g6|b
+Hlebine|HR||a6|3k8|1b4|b
+Hlalakahle|ZA||o|-1we|2fb|a
+Lüttringen|DE||8r|3z0|m3|a|Hlutteringhūson
+Hladké Životice|CZ||9m|3u0|1dw|9
+Bilsk|UA||98|3v5|2o8|8|Bil’s’k;Hlynsk;Bilszk;Gelonus;Gelono;Bel’sk
+Hlušice|CZ||9m|3vm|16s|8
+Hluboké Mašůvky|CZ||9m|3rw|18j|7
+Hlynka|UA||98|3o3|2y9|7
+Hlapičina|HR||a6|3l8|19k|6|Lapány;Novi Dvori;Hlapčina
+Hlavnice|CZ||9m|3uo|1d9|6
+Hlybokyi Yar|UA||9t|3gf|2m8|6|Ulaqly;Hlybokyy Yar
+Hlyboke|UA|Zakarpattia|98|3qv|1qa|6
+Hlubočany|CZ||9m|3sr|1b8|6
+Hlubočec|CZ||9m|3ug|1dx|5|Tiefengrund
+Hluboš|CZ||9m|3u7|12y|5
+Hlásná Třebaň|CZ||9m|3uo|13g|5
+Hlybochok|UA||98|3ol|29x|5|Glubochok

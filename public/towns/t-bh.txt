@@ -1,0 +1,211 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Belo Horizonte|BR||4w|-1jc|-3e2|l00|Bel-Horizonto;Bhte;Belo Hte;B.H.;Urbs Pulchri Horizontis;Belu Orizonti;Belu-Orizonti;Bello Horizonte
+Bhopal|IN||6t|1sl|5z0|dvi|Bopal;Bhojpal
+Bhubaneswar|IN||6t|1kb|6mf|6ty|Bhubaneshwar
+Bhiwandi|IN||6t|1hm|5my|6qs|Bhivandi;Bhiwndi
+Bhayandar|IN||6t|1hm|5md|68u|Bhayundar;Bhayndar;Bhayander
+Bhilai|IN||6t|1mx|6a7|4ud|Bilaj;Bhilaj Nagar;Bhilajus
+Bhavnagar|IN||6t|1og|5kf|4ob|Baunagar;Bhaunagar;Bharnagar;Bhunagar
+Kota Bharu|MY||6v|h0|7w0|4e1|Kota Bahru;Bharu;Kô-tá-ha̍p-lû-sṳ;Khota Bahru;Khota Baharu;Kota Baharu
+Pindi Bhattian|PK||6q|2gm|5nj|3t0|Pindi Battian;Pindi Bhatian
+Bhātpāra|IN||6t|1rj|6tk|3q7
+Bhāgalpur|IN||6t|1y4|6pl|335
+Bhawana|PK||6q|2fp|5lt|2vu|Banava;Bhavana;Bhanawa;Bawana;Bhowana
+Bharatpur|NP||6r|24w|6ik|2um|Baratpuras;Baratpura
+Bhilwara|IN||6t|1yf|5rc|2rv
+Bhatara|BD||6a|1u4|6z9|2i3
+Bharatpur|IN||6t|23m|5z9|1y8|Baratpuras
+Bhind|IN||6t|21t|62v|1iw
+Bhālswa Jahangirpur|IN||6t|27u|5yd|1ir
+Phra Pradaeng|TH||62|11y|7r9|1ih|Bhra Pradeng
+Bhiwāni|IN||6t|27z|5vi|1ih
+Bhusawal|IN||6t|1mg|5uj|1g2|Bhusāval
+Bhetia|IN||6t|1rb|6na|1cg
+Bharūch|IN||6t|1o9|5mq|1ay|Bharoch
+Bhadrāvati|IN|Karnataka|6t|12h|5ub|19j
+Bhuj|IN||6t|1sl|5dj|15c|Bhuĝ
+Bhimavaram|IN|Andhra Pradesh|6t|19y|6ag|14u|Bheemavaram
+Bhisho|ZA||o|-2j9|248|125|Bisho;Bišo
+Bhakkar|PK||6q|2fv|5he|10l
+Baḥarkah|IQ||5z|2sw|3ec|109|Beḧirke;Bahirka;Bahirkah;Barkah;Bharka
+Bhadreswar|IN||6t|1re|6te|xt
+Bhadrak|IN||6t|1mh|6oc|xp
+Bhairab Bāzār|BD||6a|1ut|70q|tb
+Bhiwadi|IN||6t|26d|5xi|t5|Bhivadi
+Bhola|BD||6a|1r1|6zs|rj
+Bhilai Charoda|IN||6t|1my|6aa|r8
+Bhandāra|IN||6t|1mt|659|pi
+Phra Khanong|TH||62|122|7rg|p4|Prakanong;Phrakhnong;Phrakanhong;Bhra Khanong
+Bhimdatta|NP||6r|28g|66q|ok|Mahendranagar;Mahen Dkanagar
+Phuket|TH||62|lx|7lc|m1|Pxuket;Puketo;Bhuket
+Bhadohi|IN||6t|1yk|6dd|lu
+Bhalwal|PK||6q|2hn|5mi|kr|Balvalas;Bhalvala;Bhalval;Bhalwai
+Bhawānipatna|IN||6t|1jb|6f1|j6
+Phitsanulok|TH||62|1aq|7qi|he|Phitszanulok;Philtsanuloke;Pitsanulok;Pitsanuloke;Bhisanulok;Pitsanoulok
+Bhadravati|IN|Maharashtra|6t|1ju|63r|gu
+Bhātāpāra|IN||6t|1oe|6bn|fz
+Bhīmunipatnam|IN||6t|1dp|6ft|fb|Bheemunipatnam
+Bhamo|MM||7y|1vd|7i3|f7|Banmaw
+Bhongīr|IN||6t|1co|635|et
+Bhabhua|IN||6t|1xk|6g9|dy|Bhabua
+Bhadrāchalam|IN||6t|1d3|68p|dx
+Bhaisa|IN||6t|1h3|60k|du|Bhainsa
+Bhīnmāl|IN||6t|1xg|5kr|db
+Bhanga|BD||6a|1sz|6xy|c0
+Bhātpāra Abhaynagar|BD||6a|1rx|6wg|bv|Abhaynagar
+Bhupalpally|IN||6t|1f7|65u|bs
+Bhawāni Mandi|IN||6t|1vu|5uo|br
+Bharthana|IN||6t|22b|642|bf
+Bhādra|IN||6t|28u|5st|bb
+Bhālki|IN||6t|1e4|5yh|b7
+Bhavāni|IN||6t|vt|5zs|b1
+Bhachāu|IN||6t|1sq|5fe|az|Bachau
+Bherāmāra|BD||6a|1uq|6v7|am|Bhairamara
+Bhadgaon|IN||6t|1lf|5sz|ac
+Photharam|TH||62|121|7pd|a2|Bhōdhārām
+Phichit|TH||62|19o|7qr|9y|Pichit;Bhichit
+Bhādāsar|IN||6t|26n|5qd|96
+Bhokar|IN||6t|1he|5zr|95
+Bhatkal|IN||6t|12v|5r4|8w
+Bhera|PK||6q|2i8|5mj|8u|Bwera
+Dharamsala|IN||6t|2hi|5w0|8k|Dharmshala;Dharamshala;Bhagsu;Daramsala;Dharmasála;Dharmsāla
+Bhāndāria|BD||6a|1qh|6y6|8e
+Bhongaon|IN||6t|23q|63y|8b
+Bhimber|PK||6q|2jl|5ps|7o|Bhimbar
+Bhelai|IN||6t|1pz|6dh|7k
+Bhawanipur|IN||6t|21h|6pr|7i
+Bagha Purana|IN||6t|2d9|5sm|70|Baghaparana;Bhagha Purana
+Bhānder|IN||6t|1zi|62r|70
+Bholav|IN||6t|1oc|5mt|6u
+Bhokardan|IN||6t|1ka|5uh|6s
+Bhawānīgarh|IN||6t|2c3|5v8|67
+Bhuban|IN||6t|1m0|6mf|66
+Bhānvad|IN||6t|1ox|5du|65
+Bhinga|IN||6t|24y|6bl|64
+Bhābhar|IN||6t|1uv|5iw|63|Bhābbar;Bhābar
+Bhaun|PK||6q|2ja|5m4|61
+Phayao|TH||62|1hb|7pg|5v|Fayao;Bhayao;Prayao
+Bhānpura|IN||6t|1w3|5uf|5u
+Bhadauni|IN||6t|1x4|6ll|5r
+Bhanjanagar|IN||6t|1jd|6iy|5q
+Bhikkiwind Uttār|IN||6t|2f3|5ri|5p
+Bhusawar|IN||6t|234|5y1|5j|Bhasāwar
+Bhadrapur|NP||6r|21q|6sp|5f
+Bhāyāvadar|IN||6t|1oq|5f5|5f|Bhayawadar;Bhāyāradar;Bhaya nadar
+Bhit Shah|PK||6q|1zp|5a9|5d
+Bhitarwār|IN||6t|1zn|60z|5b
+Bhor|IN||6t|1ef|5p4|5a
+Bhati|IN||6t|26z|5yj|59
+Bhadaur|IN||6t|2co|5t9|56
+Bhoom|IN||6t|1fa|5u6|56|Bhūm
+Bhogpur|IN||6t|2fn|5u4|50
+Bhattiprolu|IN||6t|18q|68e|50
+Bhindār|IN||6t|1w2|5q3|4z
+Bhīkhi|IN||6t|2bi|5tu|4y
+Bhuwāna|IN||6t|1we|5or|4x
+Bhundsi|IN||6t|26r|5y2|4u|Bhondsi
+Bhopalwala|PK||6q|2i3|5qk|4t
+Bhānpurī|IN||6t|1ml|68t|4t
+Bhikshāndārkovil|IN||6t|u8|62m|4t
+Bhan|PK||6q|21s|584|4q
+Bharwāri|IN||6t|1z0|6ad|4k
+Bhainsdehi|IN||6t|1o4|5zn|4k
+Bhikangaon|IN||6t|1or|5v0|4i
+Bhiloda|IN||6t|1u1|5nh|4h
+Bharanikāvu Tekku|IN||6t|pi|5wo|4f
+Bhudgaon|IN||6t|1az|5r8|4d|Budhgaon
+Bhauri|IN||6t|1wi|5mj|49|Bhavri
+Bhucho Mandi|IN||6t|2bx|5sm|46
+Bhalpara|IN||6t|1m3|5fj|43
+Bhag|PK||6q|28o|58e|42
+Bhagta|IN||6t|2co|5sm|41
+Bhīmnagar|IN||6t|1lk|62a|40
+Bhiria|PK||6q|22r|59f|40
+Bhānumukkala|IN||6t|16j|61b|3z|Banumukkala
+Bhairāpura|IN||6t|xy|5xm|3z
+Bhalil|MA||d|2m1|-dj|3y|Behalil
+Bhulwāl|IN||6t|2j8|5ru|3y|Bhalwal
+Bhīmavaram|IN|Telangana|6t|1e3|64y|3u|Bhimaram
+Bhadarwāh|IN||6t|2jm|5uc|3q|Bhaderwah;Bhadarwab;Bhadrawah
+Bhadkodara|IN||6t|1o0|5mt|3o
+Bhamiān Kalān|IN||6t|2dw|5uy|3o
+Bhagur|IN||6t|1j8|5p3|3g
+Bhagdawada|IN||6t|1kr|5mj|3f
+Bhonrāsa|IN||6t|1rv|5vp|3e|Bhaurasa
+Bhagowal|PK||6q|2i4|5rf|3c|Pagowāl
+Bhim|IN||6t|1zi|5ps|38
+Bhatgaon|IN|Chhattisgarh|6t|1sw|6ek|34
+Bhattiān|IN||6t|2e0|5un|33
+Bhābhra|IN||6t|1ql|5qh|32|Bhābra
+Bhagwānpur Desua|IN||6t|1zp|6mg|32
+Bhimpur|IN||6t|1kt|5mg|31|Bhimpore
+Bhuja Bhuja Nellore|IN||6t|13z|662|31|Buja Buja Nellore
+Bhankarpur|IN||6t|2d1|5xg|30
+Bhulath Gharbi|IN||6t|2fm|5tr|2z
+Bharwelī|IN||6t|1oo|66v|2w
+Bhākli|IN||6t|26y|5wg|2s|Bhakali
+Bhuragaon Rev. Town|IN||6t|21c|748|2q
+Phang Nga|TH||62|nh|7lp|2p|Fan Nqa;Bhangnga;Phung Nga;Pan Nga;Phangnga
+Bhalukdubi|IN||6t|20o|6zp|2o
+Bhilakhedi|IN||6t|1qs|5zu|2n
+Bhānūr|IN||6t|1cl|616|2k
+Bhojudih|IN||6t|1to|6o4|2j
+Bogādi|IN||6t|y6|5ws|2i|Bhogadi
+Bhairamgarh|IN||6t|1gt|696|2i
+Bhilad|IN||6t|1kc|5mh|2i
+Bhuwaneshwar|IN||6t|1f7|5n4|2h
+Bicholi Hapsi|IN||6t|1r4|5uy|2g|Bhicholi Hapsi
+Bhigvan|IN||6t|1eu|5rp|2g
+Bhorgarh|IN||6t|283|5y6|2e
+Bhokra|IN||6t|1mz|63n|2e|Bhokara
+Bhānupratāppur|IN||6t|1kf|697|29
+Bhatgaon|IN|Chhattisgarh|6t|1mr|6ay|28
+Bhimarayanagudi|IN||6t|1ah|5xc|28
+Bhavanisagar|IN||6t|vw|5y9|25
+Bhūgor|IN||6t|24g|5wt|25
+Bhakhāra|IN||6t|1m2|6ao|23|Bhakhra
+Bhādson|IN||6t|2cr|5vt|21
+Bhakarsahi|IN||6t|1k3|6mx|1z
+Bhat|IN||6t|1s6|5ls|1w
+Bherāghāt|IN||6t|1s9|65o|1v
+Bhīm Tāl|IN||6t|29i|650|1u
+Bhuindhara|IN||6t|1zt|6m8|1u
+Bhagwantnagar|IN||6t|20u|68c|1u
+Bhapur|IN||6t|1k1|6mx|1s
+Bhore|IN||6t|2ir|5rv|1s
+Bhāgal Jagāna|IN||6t|1v1|5l3|1r
+Bhagwānpur Kamla|IN||6t|1zl|6ma|1n
+Bhuma|IN||6t|256|5s5|1l
+Bhurivel|IN||6t|1mz|5oe|1l
+Bhowali|IN||6t|29n|64u|1l
+Bharthana Kosad|IN||6t|1n3|5mf|1l
+Bhuran|IN||6t|29j|5wj|1k
+Bhattarai Danda|NP||6r|25g|6h5|1j
+Bhāgīrathpur|IN|Bihar|6t|1zx|6ma|1h
+Bhardua|IN||6t|1x8|6gr|1h
+Bhim Kanari|IN||6t|1u4|6nf|1g
+Bhainsa|IN||6t|1ua|62p|1f
+Bhandārdaha|IN||6t|1qt|6sz|1f
+Bhamdoûn el Mhatta|LB||64|2lx|2r2|1e|Bhamdoun;Bahamdun
+Bhisiyāna|IN||6t|2c4|5rp|1d
+Bhatli|IN||6t|1nm|6g2|1d
+Bhamal|IN||6t|1u2|6ox|1c
+Bhandra|IN||6t|1uc|6n6|1a
+Bhuntar|IN||6t|2gi|5yb|19
+Bhopālpatnam|IN||6t|1ge|67b|18|Bhopalpattanam
+Bhairabi|IN||6t|1v8|753|17|Bairabi
+Bhata|PK||6q|2ku|5nm|16
+Bhagirathpur|IN|Bihar|6t|20z|6n2|z
+Bharuch INA|IN||6t|1od|5mt|x
+Bhojpur|NP|Koshi|6r|23h|6pt|x
+Bhunya|SZ||13|-21q|2e5|u|Bunya
+Bhojpur|NP|Lumbini Province|6r|25w|6cm|q
+Bha Lê|VN||6h|18d|8an|n|B Ha Lêê
+Bhamdoun|LB||64|2lw|2r1|f|Bhamdourn;Biḩamdūn;Bḩamdūn
+Bhota|IN||6t|2ft|5wo|f
+Bhatpal|IN||6t|1in|6aa|c
+Bhandal Himmat|IN||6t|2eg|5ty|9
+Bhullar|IN||6t|2ee|5tg|9
+Bhandal Būta|IN||6t|2eg|5ty|7
+Bhangtar|BT||7p|22i|72s|7
+Bhodipur|IN||6t|2eh|5tg|5

@@ -1,0 +1,210 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+São Luís|BR||2w|-71|-3f2|72s|San Luisas;Saun Luís;Maranham;San Luis;Maranhão;São Luiz
+San Luis Potosí|MX|San Luis Potosí|44|1pj|-7sh|5ks|San-Luis-Potosi
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+St. Louis|US||2f|2zb|-6yk|25p|San Luis;Saint Louis;Saint-Louis;Sankta Luiso;St Louis;Sent-Luis;Sent Luisas;Sentluisa;Urbs Sancti Ludovici;Sent Loisos;Sint-Louis;Saint Louis City;Saint Lewis
+San Lorenzo|PY||1y|-1ye|-4fr|1rb|San Lorensas;San Lorenso
+San Luis Río Colorado|MX||37|2i6|-8ut|1d3
+San Luis|AR||1u|-2kh|-548|1b7|Sanctus Ludovicus
+San Leandro|US||3p|2ws|-9fc|p7|Sn Leandro;Sankta Leandro
+San Leonardo|PH||71|16o|9c0|j8
+Sanlúcar de Barrameda|ES||9d|2u6|-hn|iw|San Lucar de Barrameda;Sunlucar de Barrameda
+San Luis|CU|Santiago de Cuba Province|36|1k3|-5up|ip
+San Luis de la Paz|MX||41|1n6|-7r7|dv
+San Lorenzo|IT|Campania|9o|35i|13m|dd
+San Lorenzo|AR|Corrientes|1n|-265|-4j9|d8
+San Luis Obispo|US||3p|2q0|-9b6|d5
+San Luis|PH|Central Luzon|71|15s|9bj|9b
+San Lorenzo|AR|Salta|1s|-1wq|-51x|8s
+San Luis|US|Arizona|4i|2i9|-8uu|8r
+San Luis de Sincé|CO||27|po|-5sr|8k
+San Luis Jilotepeque|GT||32|14p|-6x8|6v
+San Luis|HN|Santa Bárbara Department|56|161|-6to|6u
+San Lorenzo|US||3p|2wn|-9f9|6j
+San Lorenzo Acopilco|MX||41|1hp|-7nx|6e
+San Lazzaro|IT||9o|3fj|vp|68
+San Lorenzo|HN||56|11a|-6qx|67
+San Lucas Sacatepéquez|GT||32|14l|-6zu|5r
+San Lorenzo de Esmeraldas|EC||33|3l|-630|5m
+San Lorenzo de El Escorial|ES||9d|34r|-bj|4z|Eskorialo;El Escorial;San Lorenzo del Escorial
+San Lorenzo|CO||27|46|-5yi|4n
+San Luis del Palmar|AR||1n|-24f|-4io|49
+San Lucas Tolimán|GT||32|14j|-717|41
+San Leone Mosè|IT||9o|2vi|11q|3p
+Almecatla|MX||41|1h6|-7kw|3o|San Lorenzo;Almacatla;Almacatlán
+Sanlúcar la Mayor|ES||9d|2vv|-h8|3j
+San Lorenzo|PE|Loreto|3o|-de|-5ws|2x
+San Lucas ( Pueblo Nuevo de Colan)|PE||3o|-dn|-696|2r
+San Lorenzo|PR||4m|1ej|-538|2m
+San Luis|PE||3o|-xk|-5xv|2h
+San Lorenzo|NI||3s|ye|-6lz|2f
+San Luis|MX|Baja California|58|2i3|-90v|2e
+San Lucas el Grande|MX||41|1hn|-7lk|2d
+San Lorenzo|VE||2c|se|-4xk|2b
+San Luis Acatlán|MX||41|1ap|-7m9|2b
+San Luis|MX|Baja California|58|26z|-8rz|27
+Sanluri|IT||9o|31w|oq|25|Sullurium
+San Lorenzo Tlacotepec|MX||41|1j1|-7pj|24
+San Lorenzo Chiautzingo|MX||41|1hc|-7lj|23
+San Lorenzo Cacaotepec|MX||41|1bl|-7gw|22
+San Luis|PH|Caraga|71|nk|9pa|1z
+Sant Lluís|ES||9d|32p|bu|1x|San Luis
+San Luis|GT||32|190|-6wg|1w
+San Luis|CU|Pinar del Río|36|1pw|-6go|1v
+San Luis|PH|Northern Mindanao|71|nk|9n8|1s
+San Lucas Ojitlán|MX||41|1e6|-7fs|1r|Ojitlán
+San Luis Apizaquito|MX||41|1hz|-7kk|1p
+San Lorenzo Oyamel|MX||41|1hz|-7om|1m
+San Luis Tecuautitlán|MX||41|1ix|-7mp|1l|San Luis Tecuhautitlán
+San Lorenzo Tlalmimilolpan|MX|México|41|1in|-7mn|1i|San Lorenzo Tlamimilopan
+San Luis de la Loma|MX||41|1bz|-7s9|1f
+San Lorenzo Axocomanitla|MX||41|1he|-7kx|1e
+San Leon|US||2f|29w|-7bo|1e
+San Luis Tehuiloyocan|MX||41|1gw|-7l6|1d|San Luis Tehuiloyacan
+San Lucas|MX|Chiapas|41|1a5|-75k|1b
+San Luis San Pedro|MX||41|1bz|-7s8|16
+San Lucido|IT||9o|317|18l|16
+San Luis|CO||27|bh|-5sl|16
+San Lorenzo|MX|Michoacán|41|1i9|-7vn|14
+Mariano Escobedo|MX|Michoacán|41|1jg|-7sq|13|San Lorenzo
+San Lucas Totolmaloya|MX||41|1k0|-7pi|12|Primer Cuartel;San Lucas Totomaloya
+San Luca|IT||9o|2xz|18n|11|Fanum Sancti Lucae;Santu Luca
+San Luis Ayucan|MX||41|1i6|-7o0|11|Ayucán
+San Lorenzo Tlacoyucan|MX||41|1ha|-7n3|11
+San Lucas Amalinalco|MX||41|1hj|-7mm|10
+San Luis Soyatlán|MX||41|1k4|-7yz|z
+San Lorenzo Toxico|MX||41|1i7|-7p4|x
+San Lorenzo Malacota|MX||41|1il|-7op|x
+San Lorenzo Cuauhtenco|MX||41|1hc|-7or|w|San Lorenzo Cuautenco
+San Lucas|MX|Michoacán|41|1fn|-7ry|v
+San Lucas Pío|MX||41|1iz|-7sc|v
+San Lucas Ocotepec|MX||41|1io|-7pp|u
+San Lucas Camotlán|MX||41|1b2|-7dv|s|Camotlán;Camatlan
+San Lorenzo Tlalmimilolpan|MX|México|41|1he|-7mh|r|San Lorenzo Tlalmimiolpan
+San Lucas Tecopilco|MX||41|1i5|-7ky|q
+Sanlibo|PH||71|188|9av|q
+San Luis de Gaceno|CO||27|de|-5n9|q|San Luis Gaceno
+San Lorenzo Queréndaro|MX||41|1in|-7r5|p
+San Lucas Evangelista|MX||41|1kp|-7z4|p
+San Lorenzo|PH|Central Luzon|71|171|998|p
+San Lucas Atzala|MX||41|1h2|-7lk|p
+San Lorenzo del Vallo|IT||9o|327|19a|o|San Lorenzo de Vallo
+San Luis Ajajalpan|MX||41|1gm|-7k1|o
+San Leonardo de Yagüe|ES||9d|387|-8j|o
+San Lorenzo in Campo|IT||9o|3d4|zy|n
+San Lucas Huitzilhuacán|MX||41|1if|-7mo|n
+San Lorenzo Sayula|MX||41|1jj|-7l2|n
+San Liberale|IT||9o|3ij|ya|n
+San Lucas|PH||71|123|9i8|n
+San Lucas Tlacochcalco|MX||41|1hq|-7kn|n
+San Luis|PH|Davao Region|71|ko|9rj|m
+San Lorenzo|PH|Ilocos|71|1ed|9b3|m
+San Luis|PH|Cagayan Valley|71|1b4|9ef|m
+San Lorenzo|GT|Suchitepeque|32|149|-727|m
+San Luis Taxhimay|MX||41|1j4|-7o4|l
+San Lorenzo Huehuetitlán|MX||41|1h5|-7oc|l
+San Lorenzo|MX|Oaxaca|41|19j|-7jv|l
+San Luis de Palenque|CO||27|f2|-5j9|k
+San Lorenzo Nenamicoyan|MX||41|1jy|-7os|k
+Barrio San Luis|CO||27|cz|-5pm|k|San Luis vía La Calera
+Sanlo|CI||0|mv|-ag|k
+San Luis|HN|Comayagua Department|56|14z|-6qt|k
+San Lorenzo Tlaxipehuala|MX||41|1jx|-7k5|k
+San Lorenzo Nuovo|IT||9o|3al|x3|j|Fanum Sancti Laurentii Novi;San Lorenzo Novu
+San Lorenzo Maggiore|IT||9o|36l|14m|i
+San Luis Coyotzingo|MX||41|1hc|-7lg|i
+San Lorenzo Achiotepec|MX||41|1l8|-7kf|h
+San Lucas Quiaviní|MX||41|1ay|-7fz|h|Quiavini;Quiaxini
+San Leonardo in Passiria|IT||9o|3m1|v9|h|St. Leonhard in Passeier;Sankt Leonhard in Passeier;Fanum Sancti Leonardi;St. Leonhard im Passeiertal;St Leonhard in Passeier;Saint Leonhard in Passeier
+San Lorenzo Joya de Rodríguez|MX||41|1gx|-7jt|g
+San Leucio del Sannio-Cavuoti|IT||9o|363|150|g|San Leucio del Sannio
+San Lorenzo|MX|Michoacán|41|1jj|-7ud|g
+San Lorenzo|MX|Coahuila|44|1zg|-7yj|g
+San Luis del Cordero|MX||44|1ym|-81o|g
+San Luis Anáhuac (Toriles)|MX||41|1j0|-7o4|g
+San Lucas|MX|México|41|1gq|-7ou|g
+San Lorenzo Isontino|IT||9o|3jl|11l|f|San Laurinc di Mosse
+San Lucas del Pulque|MX||41|1h2|-7pv|f
+San Lorenzo Albarradas|MX||41|1az|-7fe|f
+San Lucas el Viejo|MX||41|1fw|-7jg|f|San Lucas Viejo
+San Lucas Texcaltitlán|MX||41|1hm|-7q9|e
+San Luis Boro|MX||41|1j1|-7pe|e
+Santa Lucia di Serino|IT||9o|35j|15c|e|San Lucia di Serino
+San Lucas|MX|Guanajuato|41|1kd|-7rb|e
+San Lorenzo di Rovetta|IT||9o|3jg|rq|e
+San Lorenzo Vista Hermosa|MX||41|1dw|-7kf|e|San Lorenzo Villahermosa
+San Lucas Huarirapeo (La Mesa de San Lucas)|MX||41|1io|-7ri|d
+San Lorenzo al Mare|IT||9o|3dt|m4|d
+San Lorenzo de la Parrilla|ES||9d|32p|-6k|d|San Lorenzo de la Parilla
+San Lucas|HN||56|125|-6pj|d
+San Lorenzo di Sebato|IT||9o|3lz|x3|c|St. Lorenzen;Fanum Sancti Laurentii Saevatiensis;Sankt Lorenzen;Saint Lorenzen
+San Lazaro|BZ||24|1e4|-6ua|c
+San Lorenzo|MX|Oaxaca|41|1cu|-7e2|c
+San Luis de Lozada|MX||3x|1nq|-82v|c
+San Lorenzo|MX|Guanajuato|41|1kv|-7rs|c
+San Lorenzo Itzícuaro|MX||41|1io|-7tc|b
+San Luis de Planes|HN||56|15m|-6st|b|San Luis Planes
+San Lorenzo in Dorsino|IT||9o|3k0|ub|b
+San Luis del Agua Caliente|MX||41|1km|-7xm|b|San Luis de Agua Caliente
+San Lucas|MX|México|41|1hi|-7ps|b
+San Lorenzo|MX|Puebla|41|1kj|-7k2|b
+San Lorenzo|MX|Guerrero|41|1er|-7rh|b
+San Lorenzo|IT|Campania|9o|357|14j|b
+San Lorenzo Tenochtitlán|MX||41|1dc|-7b8|a
+San Lorenzo|PA||4g|n3|-6c2|a
+San Lorenzo Sóltepec|MX||41|1ig|-7l3|a
+San Luis de Letras|MX||41|1pi|-7w6|a
+San Luqueño|MX||41|18h|-78p|a
+San Lorenzo Xaltelulco|MX||41|1hq|-7kj|a
+San Leoncio Jamaya|MX||41|1kf|-7j2|a
+San Lorenzo|MX|Veracruz|41|1ki|-7ic|a
+San Luis de Shuaro|PE||3o|-u9|-5t5|9
+San Lorenzo|GT|San Marcos|32|15r|-72u|9
+San Lucas|NI||3s|119|-6ol|9
+San Luis de Custique|MX||41|1p2|-7xr|9|San Luis de Gustique
+San Lorenzo in Noceto|IT||9o|3eo|xd|9
+San Lázaro Etla|MX||41|1bu|-7gz|9
+San Luis el Alto|MX||41|1hm|-7pk|9
+San Lorenzo|MX|Guanajuato|41|1jn|-7r5|9|Sabino Seco
+Juan Lucas|MX||41|1k2|-7tf|8|San Lucas
+San Luis del Jánamo (El Morado)|MX||41|1l7|-7tt|8
+San Lucas Tepango|MX||41|1il|-7mm|8
+San Lorenzo|MX|Chihuahua|2g|2at|-89g|8
+San Lorenzo|MX|Nayarit|3x|1oy|-83w|8
+Plan de San Luis|MX|Oaxaca|41|1c2|-7bu|8|San Luis
+San Lucas Teacalco|MX||41|1ji|-7o0|8
+San Luis Gonzaga|MX||41|1pb|-7td|8
+San Luis Morelia|MX||41|1d6|-7kt|8
+San Lorenzo Viejo|MX||3x|203|-8fm|8
+San Lucas|MX|Zacatecas|41|1v7|-7ye|8|El Conejo
+San Luis Rey|MX||41|1l5|-7rz|8
+San Lorenzo Cuaunecuiltitla|MX||41|1el|-7h7|8|San Lorenzo
+San Lorenzello|IT||9o|36o|14e|8
+San Leonardo di Cutro|IT||9o|307|1b6|8
+San Luis Amatlán|MX||41|19j|-7g2|7|Amatlán;Amatán
+San Leonardo|IT||9o|3k2|z8|7
+San Lucas|MX|Puebla|41|1f0|-7j6|7
+San Lupo|IT||9o|36m|14o|7
+San Lázaro|PY||1y|-1pf|-4h0|7
+San Lorenzo Pápalo|MX||41|1do|-7h4|7|San Lorenzo;Pápalo
+San Lorenzo|PE|Cajamarca Department|3o|-fe|-62y|7
+San Lorenzo|MX|San Luis Potosí|41|1qo|-7rl|7
+San Lorenzo Octeyuco|MX||41|1jg|-7oo|7
+San Leonel|MX||3x|1nb|-82u|7
+San Luis Potosí|MX|Chiapas|41|1a4|-72l|6
+San Lucas|MX|México|41|1ir|-7o9|6
+San Lorenzo Bellizzi|IT||9o|32t|19d|6
+San Luis|US|Colorado|2p|2vc|-84u|6
+San Lucas|MX|Guanajuato|41|1m3|-7se|6
+San Liberato|IT||9o|3a0|yk|6
+San Lorenzo|IT|Friuli Venezia Giulia|9o|3js|104|6
+Capitán Luis Ángel Vidal|MX||3z|17c|-75b|6|San Luis;Luis A. Vidal;Capitán Luis A. Vidal
+San Luis (Guadalupe)|MX||41|1b2|-72j|6
+San Leopoldo|MX||41|1f2|-7cr|5
+San Leanna|US||2f|2br|-7jq|5
+San Lawrenz|MT||9e|2s6|13g|5|Saint Lawrence;San Laurenz
+San Lucas Tlanichico|MX||41|1b5|-7gx|5|Tlanichico
+San Lorenzo|MX|San Luis Potosí|41|1ov|-7s7|5
+San Lorenzo|IT|Piedmont|9o|3f7|l3|5
+San Lorenzo Victoria|MX||41|1d3|-7kk|5|San Lorenzo
+San Lorenzo el Chico|MX||41|1ka|-7p5|5

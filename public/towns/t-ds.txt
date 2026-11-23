@@ -1,0 +1,24 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Djibouti|DJ||i|w7|3bv|4u1|Yibuti;Dżibuti;Dschibuti;Ĝibuto;Gibuti;Džibutis;Jibuti;Cibuti;Djiboeti;Dinas Jibwti;Dzjibûty;Diobúití;Xibutí;Dzsibuti;Sita Jibouti;Gibutum;Jiboti;Jabuuti;Mbanza ya Djibuti;Djibuti;Jibouti
+Jijiga|ET||2|pz|3aw|3q6|Djidjiga;Džidžiga;Ĝiĝiga;Dschidschiga;Jigjiga;Giggigga;Jigjigga;Djigdjiga;Giggiga;Dzhidzhiga
+Juba|SS||p|dh|2fq|3h0|Djouba;Dschuba
+Jalālābād|AF||6o|2nn|5fp|23j|Dschalalabad;Dżalalabad;Celalabad;Jalolobod;Jelalabad;Dzhelalabad;Djelalabad
+Dzerzhinsk|RU|Nizhny Novgorod Oblast|9i|4c8|3cq|1sr|Dzerzjinsk;Dzerjinsk;Dzeržinsk;Dserschinsk;Dzeržinskas;Dzeržinska;Dzierżyńsk;Dzerhinsh
+Jizzax|UZ||7g|33h|58f|1ds|Djizak;Jizzakh;Djizaks;Džizakas;Cizzak;Dżyzak;Dzjizak;Ĝizaĥo;Jizzaq;Cizzax;Dschizak;Jizzak;Dzhizak;Jizak
+Manas|KG||65|35q|5mr|y8|Dschalalabat;Jalal-Abad;Džalal-Abad;Žalal-Abad;Dzjalal-Abad;Dżalalabad;Djalalabad;Džalalabat;Žalalabad;Ĵalalabat;Žalalabat;Dzsalalabad;Džalal Abadas;Celal-Abad;Jalolobod;Džalalabada;Džalal Abad;Dzhalal-Abad
+Jaramānā|SY||69|2l1|2sz|rs|Džaramáná;Dscharamana;Ceramana;Jéramâna;Jurmānā
+Dschang|CM||j|f4|rx|ro|Tchang;Djang;Dchang;Chang
+Jablah|SY||69|2q8|2rt|ib|Jableh;Dschabla;Jablé;Džabla;Ceblê;Jeble
+Alba Iulia|RO||8u|3jz|1ti|hu|Karlsburg;Apulon;Vojvodov Bjalgrad;Ciudadela Blanca;Karlovský Bělehrad;Erdeljski Biograd;Weyssenburg;Dsulafehervaru;Gyulafehérvár;Belgrad-i Erdel;Belgrada;Alba-Julia;Weißenburg;Bălgrad;Alba Julija;Alba Júlia;Àobā Yóulìyà;Erdel Belgradı;Karlov Belehrad;Fehervaru
+Dzhankoy|UA||9t|3iz|2nj|bl|Dschankoj;Džankoj;Dzhankoi;Canköy;Djankoï;Dzhanhoi;Dshankoi
+Janīn|PS||6g|2i6|2q2|9n|Jenin;Dschenin;Jénine;Djenin;Jinin
+Toretsk|UA||98|3qf|2x5|8l|Dzerzhinsk;Dzerzhyns'k;Dzerzhynsk;Dzeržinsk;Toreck;Dserschynsk;Torezk
+Dzyarzhynsk|BY||9g|454|23d|88|Dsjarschynsk;Dzierżyńsk;Dzerĵinsk;Dzjarzsinszk;Dziaržynskas;Dziarjynsk;Dzjaržynsk;Dziaržynsk;Dzjaržinska;Dziarzjynsk;Kojdanava;Dzerzhinsk;Koydanava
+Byblos|LB||64|2ms|2r1|5s|Biblos;Gebal;Gubla;Biblo;Jbeil;Büblosz;Dschubail;Bibl;Cübeyl;Jebeil;Byblus;Jebaïl;Jbaïl;Bīblūs
+Dzhubga|RU||9i|3f4|2zj|1h|Dzjubga;Dshubga
+Jermuk|AM||80|32o|3iv|15|Istisu;Cermuk;Dschermuk;Djermouk;Džermuk;Ĝermuk;Dzjermoek;Džermukas;Dzsermuk;Dzhermuk
+Dsegh|AM||80|35s|3g1|l|Dsekh;Tumanyan;Disigi;Disikh;Drsegh
+Dzhebariki-Khaya|RU||7w|4st|ahd|l|Dzjebariki-Khaja;Dschebariki-Chaja;Džebariki-Haja;Džebariki Chaja;Cebariki-Haya;Dżebariki-Chaja
+Jvari|GE||7n|3ao|38t|b|Dschwari;Džvaris;Džvari;Dzsvari;Dźwari;Cvari;Dzhvari
+Dzhigurovo|BG||9v|37f|1ss|6|Dshigurowo

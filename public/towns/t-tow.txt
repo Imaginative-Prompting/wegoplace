@@ -1,0 +1,64 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Tabriz|IR||7o|2xs|3kl|azq|Tauris;Täbris;Tebriz;Tewrêz;Tebrizas;Tebrīza;Töwriz;Tabrezē;Tabrezion;Tawrēž
+Bedok New Town|SG||7j|3p|80q|24y|Piṭōk
+Sengkang New Town|SG||7j|3v|80l|22c|Sengkang;Shèng Gǎng
+Jurong Town|SG||7j|3p|804|20z
+Tampines New Town|SG||7j|3r|80r|207
+Yishun New Town|SG||7j|3z|80f|1rj
+Hougang New Town|SG||7j|3s|80l|1r8|Hougang
+Raurkela Industrial Township|IN||6t|1po|6jq|1o4
+Townsville|AU||8c|-1hj|bbt|1jx|Taunsvilis
+Choa Chu Kang New Town|SG||7j|3u|807|1g4
+Tsing Yi Town|HK||6i|1q3|8sy|1el|Tsing Yi
+Ang Mo Kio New Town|SG||7j|3u|80g|189
+George Town|MY||6v|f1|7qq|17z|Georgetown;Penang;Ĝorĝtaŭno;Khiâu-chhṳ-sṳ;Džordžtaunas;Džordžtauna;Pinang
+Bukit Batok New Town|SG||7j|3s|808|17w
+Enfield Town|GB||9b|3zh|-8|17l|Enfield
+Spanish Town|JM||3i|1dz|-5xs|14a|Spaniš Taunas;Hispanurbo
+Teshi Old Town|GH||1|fi|-b|140|Teshie
+Bukit Panjang New Town|SG||7j|3u|808|12d
+Toa Payoh New Town|SG||7j|3q|80h|xj
+Serangoon New Town|SG||7j|3r|80j|wh
+Model Town|PK||6q|2fg|5qh|rs
+Town 'n' Country|US||48|25t|-6de|ls|Town n Country
+Towada|JP||7q|34u|aw9|gv|Toŭada
+Towson|US||48|31g|-5ws|fc
+Townline|CA||5b|3sa|-9fw|5v
+Tower Hill|JM||3i|1e1|-5wx|3e
+Town and Country|US|Missouri|2f|2z9|-6za|33
+Towcester|GB||9b|40t|-2r|2j
+Town Plat|CA||43|3jo|-555|1p
+Taos|US|New Mexico|2p|2t5|-859|1l|Tówoł
+Townsend|GB||9b|3zs|-y|1l
+Town and Country|US|Washington|3p|3ol|-926|1d
+Town Hall Crescent|KY||2e|1ht|-6a5|z
+Tower|IE||8z|409|-nx|y
+Tovste|UA||98|3rp|1zh|w|Tłuste;Towste
+Town Area|GI||90|2sc|-ev|w
+Towradgi|AU||8l|-2nj|bn6|v
+Towanda|US|Pennsylvania|48|381|-5wc|s|Towandee
+Town Line|US||48|3b5|-62a|o
+Towamensing Trails|US||48|35x|-5ty|n
+Townsend|US|Delaware|48|31g|-5u9|m
+Tow Law|GB||9b|482|-51|l
+Townview|AU||8c|-1ll|ari|l
+Townsend|US|Montana|2p|3ko|-8ls|k
+Town Row|GB||9b|3xt|n|i
+Ţowlash|IR||7o|2wb|3qu|i|Ţūlāsh
+Towanda|US|Kansas|2f|2x0|-7hg|e
+Tower City|US||48|34r|-5wn|d
+Tower Lake|US||2f|39b|-6sv|d
+Townhill|GB||9b|4bt|-9k|c
+Townshend|US||48|3bl|-5lv|c|Townsend
+Townsend|US|Massachusetts|48|3aj|-5j7|b
+Towaoc|US||2p|2vc|-8e1|b
+Town Creek|US||2f|2oc|-6qt|b|Towncreek
+Towanda-Grantley|US||48|31a|-5wz|a
+Townsend|AU||8l|-29v|btm|9
+Town of Pines|US||2f|37s|-6pk|7
+Ţowqdār|IR||7o|2u6|43b|7|Ţowq Vār
+Tower Hill|US||2f|31f|-6v4|6|Towerhill
+Town Yetholm|GB||9b|4ab|-6d|6
+Towner|US||2f|3qb|-7qx|6
+Ţovīr|IR||7o|2t3|3ye|5|Ţavīr;Tuvīr;Ţowvīr

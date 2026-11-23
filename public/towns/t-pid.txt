@@ -1,0 +1,39 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pidugurālla|IN||6t|19s|65x|hj|Pidugurāla
+Pidhorodnye|UA|Dnipropetrovsk|98|3qx|2pi|5b|Pidhorodné;Pidhorodnie
+Pedara|IT||9o|2wi|15u|3d|Pidara
+Podvirky|UA||98|3uu|2s9|27|Pidmonastyrskyi podvirok;Podvorki
+Pidvolochysk|UA||98|3tl|20m|26|Podwołoczyska;Pidvolotchysk
+Piding|DE||8r|3op|zw|1h
+Pidvynohradiv|UA||98|3pq|1rt|16
+Pidlypne|UA||98|3y8|2k9|14|Podlipnoye
+Piddig|PH||71|1eh|9bc|z|Pidding
+Pidhaytsi|UA|Volyn|98|3wv|1yk|v|Pidhaitsi;Pidgaytsi
+Pidbuzh|UA||98|3t1|1sl|r|Podbuż;Podbuzh
+Pidigan|PH||71|1ct|9az|r
+Pidhaytsi|UA|Ternopil|98|3sv|1xt|r|Podhajce;Pidhajci;Pidhaïtsi
+Pidsandawan|PH||71|j9|9m3|p
+Pidhorodna|UA||98|3pn|2dt|m|Pidjorodna;Pidgorodna
+Pidkamin|UA||98|3ur|1yc|j|Podkamień;Podkamen’;Pidkamien
+Pidhirne|UA|Odesa|98|3kh|28o|i|Culmea
+Pidlyman|UA||98|3t2|2wg|f|Podliman
+Pidhorodnye|UA|Ternopil|98|3tm|1yw|d|Pidhorodne;Pidhorodnie
+Pidplesha|UA||98|3pp|1u4|c|Podplesha
+Puddletown|GB||9b|3wz|-6j|c|Piddletown
+Pidhaytsi|UA|Kirovohrad|98|3qz|2hl|b|Pidhaitsi
+Pidhirtsi|UA||98|3ur|1xe|b
+Pidhirne|UA|Zakarpattia|98|3qg|1rz|b
+Pidlisne|UA|Kirovohrad|98|3ri|2hl|a
+Pidlisne|UA|Mykolaiv|98|3nv|2g6|a
+Pidhirne|UA|Zaporizhzhia|98|3ns|2q7|9|Pidgirne
+Pidkormillia|UA||98|3zw|1yw|8|Pidkormillya;Podkormil’ye;Podkormol’ye
+Pidpolozzia|UA||98|3re|1ry|8|Pidpolozzya;Podpoloz’ye;Pudpoloz’ye;Podpolz’ye
+Pidhaytsi|UA|Rivne Oblast|98|3w9|1ze|8|Pidhaitsi
+Pidtsyria|UA||98|3zb|1xc|8|Podtsir’ye;Podtsyre;Podtsyr’ya
+Pidvalne|UA||98|3pp|20n|7|Becești
+Pidrichchia|UA||98|3za|1ww|7|Pidrichchya;Podrech’ye
+Pidhirne|UA|Odesa|98|3ki|2be|6|Babei
+Pidborochchia|UA||98|3zs|1xa|6|Pidborochchya;Podboroch’ye;Podboroche
+Piddubne|UA||98|3pd|2tx|5
+Pidhaytsi|UA|Ternopil|98|3uu|1zv|5|Pidhaitsi
+Pidhora|UA||98|3sh|2mw|5

@@ -1,0 +1,18 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Gijang|KR||7h|2pw|9yx|1d0|Kijang
+Kiyosu|JP||7q|2pu|ak3|iq|Kijosu
+Zhongxing New Village|TW||7l|1uk|9b9|73|Zhongxing Yeni Köy;Zhongxing Yangi Qishloq;Desa Baru Zhongxing;Kampung Baru Zhongxing;Aldea Nueva Zhongxing;Village Nouveau Zhongxing;Zhongxing Neudorf;Zhongxing Sabuwar Gida;Deso Anyar Zhongxing;Zhongxing Baayina Giddugaleessa;Vila Nova Zhongxing;Zhongxing Tuulo Cusub;Kijiji Kipya cha Zhongxing
+San Jose Village|MP||bf|15l|b8i|46|San Jose;San Jose Köyü;San Jose qishlog'i;Desa San Jose;Kampung San Jose;Pueblo San Jose;San Jose Gida;Gandaa San Jose;Vila San Jose;Tuulo San Jose;Kijiji cha San Jose
+Kyjov|CZ||9m|3s5|1bk|2x|Kijova
+Kiyevskoye|RU||9i|3h4|2x9|1b|Kijevskoje;Kiewskoje
+Kijabe|KE||16|-2n|2to|1b
+Kizhaba|AZ||61|2z1|3rl|1a|Kijoba;Kijäba
+Kijini|TZ||h|-g9|318|11
+Kiyasovo|RU||9p|4cj|43k|x|Kijasovo
+Kijkduin|NL||8m|40n|bq|f
+Blowing Point Village|AI||1i|1ei|-4v9|9|Blowing Point Köyü;Puflash Nuqta Qishlog'i;Desa Blowing Point;Kampung Blowing Point;Pueblo Blowing Point;Village de Blowing Point;Blowing Point Dorf;Kauyeni Blowing;Gandaa Blowing Point;Vila Blowing Point;Tuulo Blowing Point;Kijiji cha Blowing Point
+Kije|PL||a5|40q|176|9
+East End Village|AI||1i|1en|-4v0|7|East End Köyü;Sharqiy Soʻng Qishlog'i;Desa East End;Kampung East End;Pueblo East End;Village de East End;East End Dorf;Kauyeni East End;Gandaa East End;Vila East End;Tuulo East End;Kijiji cha East End
+Savave Village|TV||as|-mb|drb|6|Savave Köyü;Savave qishlog'i;Desa Savave;Kampung Savave;Aldea Savave;Village de Savave;Dorf Savave;Gidan Savave;Tuula Savave;Aldeia Savave;Tuulo Savave;Kijiji cha Savave
+Atafu Village|TK||aq|-nq|-db8|5|Atafu;Atafu Köyü;Atafu qishlog'i;Desa Atafu;Kampung Atafu;Pueblo de Atafu;Village d'Atafu;Dorf Atafu;Atafu gida;Tuulo Atafu;Aldeia de Atafu;Kijiji cha Atafu

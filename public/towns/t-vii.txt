@@ -1,0 +1,46 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Circoiscrizione VIII|IT||9o|3h4|lb|118|Circoiscrizione VII
+Vyborg|RU||9i|4on|27v|lu|Wyborg;Víborg;Viiburi;Viipuri;Viborgas;Viburgum;Viborga;Víobórg;Vipuri;Wiborg
+Erzsébetváros|HU||8v|3ny|1gz|h8|Quận VII;Elisabethstadt;VII. Budapester Bezirk;Budapest VII. kerület
+Viikki|FI||92|4na|1xi|48|Vik
+Vyritsa|RU||9i|4l1|2cb|33|Wyriza;Vyrica;Võritsa;Viiritsa;Viiričča
+Port Arthur|FI||92|4nx|1ps|1s|VIII kaupunginosa;VIII Stadsdel;VIII District;Portsa
+Viitasaari|FI||92|4v7|1zv|1m
+Viişoara|RO|Cluj County|8u|3lb|1ug|1m
+Viiala|FI|Pirkanmaa|92|4q1|1u1|1j
+Viişoara|RO|Neamț County|8u|3md|20v|1e
+Viitivka|UA||98|3qi|2a2|18|Viytivka
+VII kaupunginosa|FI||92|4nx|1pu|18|VII stadsdel;VII District
+Viişoara|RO|Vaslui County|8u|3ku|25g|13
+VII Dwór|PL||a5|473|1fl|12
+Viile Satu Mare|RO||8u|3of|1rr|w
+Viimsi|EE|Harjumaa|9x|4lb|1x1|r
+Vistino|RU||9i|4m2|274|o|Viistinä;Wistino;Vistina
+Viişoara|RO|Botoșani County|8u|3pt|229|n
+Viişoara|RO|Teleorman County|8u|3dm|1xx|m
+Viile|RO|Galați County|8u|3j9|25n|h
+Viişoara|RO|Mureș County|8u|3kk|1wc|g
+Viișoara|RO|Constanța County|8u|3eg|26b|g
+Viiala|FI|Pirkanmaa|92|4qs|1ua|f
+Viimsi|EE|Harjumaa|9x|4la|1x2|f
+Viişoara|RO|Bihor County|8u|3nm|1qd|d
+Viiratsi|EE||9x|4i4|1z8|d
+Viikinranta|FI||92|4na|1xf|d|Viksstranden
+Viikin Tiedepuisto|FI||92|4na|1xh|d|Viks Forskarpark
+Viinikka|FI||92|4qt|1u2|d
+Viișoara|RO|Dâmbovița County|8u|3go|1yn|c
+Viișoara|RO|Bacău County|8u|3kk|222|c
+Viile Tecii|RO||8u|3md|1w0|b|Kolozsnagyida;Nagyida
+Viișoara|RO|Bistrița-Năsăud County|8u|3mu|1vx|b
+Viile|RO|Constanța County|8u|3eo|254|a
+Viișoara|RO|Vrancea|8u|3jx|23a|a
+Viișoara|RO|Vrancea|8u|3jk|22i|9
+Viytivtsi|UA||98|3th|21g|8|Viïtivtsi;Woitowzy;Wójtowce;Wijtiwci;Viitivți
+Vichten|LU||9c|3uc|go|8|Viichten
+Viișoara|RO|Arges|8u|3gl|1xc|7
+Viișoara|RO|Bacău County|8u|3kf|22o|6
+Viile Apei|RO||8u|3oq|1sp|6
+Viișoara Mică|RO||8u|3pr|22f|6
+Viișoara|RO|Vaslui County|8u|3lk|257|6
+Viișoara|RO|Dolj|8u|3ev|1uz|5

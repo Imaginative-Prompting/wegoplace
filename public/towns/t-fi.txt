@@ -1,0 +1,484 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Huizhou|CN||7i|1s7|8tu|mdl|Huệ Châu;Xuyjo shehiri;Chuej-čou;Fi-chû-sṳ;Huitsjou;Hūi-chiu-chhī;Hiê-ciŭ;Hujdžov;Hui-chou
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Phoenix|US|Arizona|4i|2kx|-8nb|cqd|Fenikso;Pēniki;Féniks;Fīniksa;Finiksas;Hoozdoh;Phoeniks;Finiks;Finiksos;Phenix
+Philadelphia|US|Pennsylvania|48|32z|-5ss|c57|Filadelfia;Philadelphie;Filadelfie;Filadelfio;Filadelfija;Filadelfi;Philly;Fi-sàng;Filadélfiye;Filadelfiya;Filadelfijo;Filadelfii
+Florence|IT||9o|3dm|v9|2u0|Florens;Firenze;Florenz;Florència;Firense;Florenco;Sciorenza;Firenz;Florencie;Fflorens;Florença;Florensya;Firenca;Florénsa;Florensiya;Floransa;Lungsod ng Florencia;Florența;Firenzi;Flórans;Firence;Florencija;Florentzia;Florencja;Florentia
+Plovdiv|BG||9v|393|1wr|2jj|Plowdiw;Philippopolis;Filibe;Filippopoli;Filipopul;Filipopol;Filippopol;Filiba;Plovdin;Philippopoli
+Fīrozābād|IN||6t|23f|61s|2d4
+Fianarantsoa|MG||a8|-1nl|3mt|1kf|Fianarancua
+Santa Anita - Los Ficus|PE||3o|-xh|-5xt|1fa
+Punto Fijo|VE||2c|wh|-5f0|13d
+Fürth|DE|Bavaria|8r|3tg|uj|10o|Fiurtas;Fuerth
+Simões Filho|BR||20|-zi|-2yo|vu
+Firozpur|IN||6t|2dx|5r9|un|Ferozepur;Fērūzpur
+Rijeka|HR||a6|3hx|144|u0|Vitipolis;Sankt Veit am Pflaum;Sankt Veit am Flaum;Flumen;Rijeko;Fiume;Reka
+Villingen-Schwenningen|DE||8r|3pi|nl|mq|Villingen Schwenningen;Filingenas-Šveningenas
+Fiumicino|IT||9o|381|y0|mf
+Fili|RU||9i|4av|2w5|m8
+Fishers|US||38|330|-6mx|lc
+Buchanan|LR||15|gc|-rx|l3|Fish Town;Grand Bassa;Byukenen;Biukenenas
+Ferkessédougou|CI||0|qn|-ef|k5|Ferekesedugu;Serkessedougou;Firkessédougou
+Finlyandskiy|RU||9i|4ml|2cc|k3
+Fiditi|NG||u|lf|aw|jv
+Finchley|GB||9b|3zc|-k|ia
+Fīrūzābād|IR|Fars|7o|284|421|i6
+Fier-Çifçi|AL||9y|354|1id|gy
+Financial District|US|New York|48|353|-5pl|gy
+Villach|AT||a2|3lh|12i|gd|Villaco;Beljak;Vilac;Fillaha;Filachas;Santicum
+Finote Selam|ET||2|tq|2vj|g8|Fenote Selam
+Fichē|ET||2|r8|2zl|fv|Fitche;Fice;Fechē;Ficce
+Fier|AL||9y|355|1ic|fn|Fearica;Fijer
+Ficksburg|ZA||o|-287|25g|dq
+Fylí|GR||8p|2xu|1tr|de|Filí
+Alaşehir|TR||94|2yj|278|dd|Filadelfeia;Alašechiras;Alashehir;Ala Shehr;Alachehir;Aleşehir;Alaschehir
+Figueira da Foz|PT||99|33j|-om|cy|Figueira de la Foç;Figeira da Fosas
+Figueres|ES||9d|39f|88|cw
+Filadelfia|IT|Piedmont|9o|3h2|l8|cn
+Filderstadt|DE||8r|3r6|pm|c4
+Findlay|US|Ohio|48|360|-6gd|bf
+Fitchburg|US|Massachusetts|48|3aa|-5jg|b9
+Fürstenfeldbruck|DE||8r|3pu|v9|9b|Fiurstenfeldbrukas
+Fianga|TD||17|rj|162|8t
+Figuil|CM||j|r4|12s|8s|Fīgil
+Fırat|TR||94|32c|3bj|82
+Ferdows|IR||7o|2mi|4hl|82|Tūn;Firdovs;Firdevs;Ferdous
+Fitchburg|US|Wisconsin|2f|3bc|-6wj|7s
+Filakit|ET||2|wf|2zs|7d|Filaket;Filatit;Filagit
+Fischeln|DE||8r|3yi|ib|78
+Fuzuli|AZ|Fuzuli District|61|320|3mz|6z|Fizuli
+Fīrozpur Jhirka|IN||6t|257|5xq|6w|Fērozpur Jhirka;Ferozepur-Jhirka
+Finnkolo|ML||5|vb|-fb|6q|Fenkolo;Finkolo
+Fougères|FR||9k|3qb|-3c|6l|Felger;Filiceriae
+Al Finţās|KW||6x|291|3po|6f|Finţās;Al Fantas
+Victoria|SC||ae|-cu|4a2|6d|Viktorija;Viktoria;Viktorio;Fiktoria;Viktorya;Wiktoria;Viktoriya;Viktorii
+Inglewood-Finn Hill|US||3p|3ok|-9fj|6b|Finn Hill
+Fécamp|FR||9k|3u8|11|64|Fécan;Fiscamnum;Sècamp
+Fidenza|IT||9o|3gn|ry|64
+Ferūnābād|IR||7o|2qo|3ze|61|Farnābād;Farenābād;Fir‘aunābād
+Protaras|CY||6e|2p9|2mm|5m|Fig Tree Bay
+Filadelfia|PY||1y|-1q2|-4mr|5j|Filadelfio;Filadelfija;Filadelfiya;Philadelphie;Philadelphia
+Finglas|IE||8z|44b|-hi|5i|Fionnghlas;Tinglas
+Filiaşi|RO||8u|3fr|1tc|5a|Filiaş
+Finsterwalde|DE||8r|3zf|123|59|Grabin
+Firmat|AR||1n|-2ky|-4qs|53
+Five Corners|US||3p|3iw|-9gi|52
+Fermo|IT||9o|3bw|124|51|Firmum Picenum
+Firminy|FR||9k|3i3|bx|4z
+Filadélfia|BR|Bahia|20|-tu|-33h|4z
+Fiddlesticks|CA||59|3cj|-671|4w
+Fīrūzkūh|IR||7o|2rc|42l|4v
+Filingué|NE||18|13v|98|4l
+Fishtown|US||48|331|-5sq|4j
+Fiorano|IT||9o|3fq|u1|4j
+Füssen|DE||8r|3o5|tq|4c|Abdiacum;Fiusenas;Fiassa
+Fillmore|US|California|3p|2nk|-96c|4b
+Fisantekraal|ZA||o|-2lv|1fz|44
+Five Forks|US||48|2oo|-6cf|3x
+Fish Hawk|US||48|25d|-6cd|3x
+Firminópolis|BR||4w|-1a2|-3vq|3q
+Filomeno Mata|MX|Veracruz|41|1k4|-7je|3p
+Figline Valdarno|IT||9o|3d6|vv|3p|Figline e Incisa Valdarno
+Fiorenzuola d'Arda|IT||9o|3gs|rj|3o
+Fgura|MT||9e|2rn|14b|3l|Figura
+Finspång|SE||9w|4j3|17t|3k|Finspongas
+Fitzroy North|AU||8j|-2wz|b6q|3k
+Finneytown|US||48|30w|-6is|3j|Finnetytown
+Figuig|MA||d|2h7|-3f|3h|Figuiq
+Philippsburg|DE||8r|3sr|ni|3g|Filisburgo
+Figtree|AU|New South Wales|8l|-272|bsp|3f|Pigtree
+Senjān|IR||7o|2ml|3tu|3e|Fījān;Zenjān;Senījān;Fenjān
+Firestone|US||2p|33f|-83i|3c
+Finkenwerder|DE||8r|44p|re|39|Finkwarder;Finkenwärder
+Figeac|FR||9k|3fx|5n|37|Fijac;Figiacum
+Fiano Romano|IT||9o|394|yz|36
+Figtree|AU|New South Wales|8l|-2no|bn2|36
+Ficarazzi|IT||9o|2xt|11e|36
+Fitzroy|AU|Victoria|8j|-2x0|b6q|2w
+Filipeştii de Pădure|RO||8u|3h0|1zj|2u
+Fife|US||3p|3n8|-9fw|2s
+Fingeshwar|IN||6t|1m9|6bw|2q
+Fiľakovo|SK||8s|3q3|1j2|2p|Fülek;Filjakovo;Filek
+Filadelfia|CO||27|eq|-5tw|2o
+Finale Ligure|IT||9o|3ep|n6|2n|O Finâ
+Fiumefreddo Sicilia|IT||9o|2wz|169|2n|Fiumefreddo di Sicilia;Sciummefriddo;Ciumifriddu
+Fiuggi|IT||9o|384|10q|2l
+Fiume Veneto|IT||9o|3jl|ze|2l|Vile di Flum
+Finike|TR||94|2su|2bq|2l
+Five Dock|AU||8l|-2m3|bnt|2k
+Fīrūraq|IR||7o|2z6|3gk|2k|Farūraq;Forūraq
+Finale Emilia|IT||9o|3gj|vd|2i
+Fitzgerald|US||48|2g3|-6f9|2i
+Fiassé|CI||0|h4|-a4|2i
+Ak’ordat|ER||4|177|2x8|2h|Agordat;Akordat;Agordatas;Āk’irdat;Figordat
+Fīrūzābād|IR|Tehran|7o|2qr|3z0|2g
+Fiães|PT||99|35v|-np|2f|Fiãis
+Portes-lès-Valence|FR||9k|3go|dj|2f|Fiançac;Pòrtas;Portes
+Finkenstein am Faaker See|AT||a2|3lc|12j|2c|Bekštanj
+Fino Mornasco|IT||9o|3j2|p5|2c
+Firebaugh|US||3p|2ue|-9am|2b
+Fisksätra|SE||9w|4kp|1ep|29
+Figueira|BR||4w|-1u9|-3w0|29
+Filadélfia|BR|Tocantins|1k|-ke|-3nx|26
+Filipeştii de Târg|RO||8u|3gy|1zm|26|Filipeştii de Tîrg
+Fürstenzell|DE||8r|3qs|110|25|Fiaschtnzei
+Fieni|RO||8u|3hd|1ym|24
+Fittja|SE||9w|4kl|1dm|23
+Fishersville|US||48|2xu|-63d|23|Fisherville
+Philadelphia|US|Mississippi|2f|2j1|-6vk|22|Filadelfia
+Fiesso|IT||9o|3i6|xf|22
+Filothéi|GR||8p|2xn|1u2|22
+Feijenoord|NL||8m|407|cj|21|Fijenoord
+Firgas|ES||83|263|-178|1z
+Firhouse|IE||8z|440|-hm|1x|Teach na Giúise;Teach Giúise
+Filandia|CO||27|cz|-5u6|1x|Finlandia
+Fircrest|US||3p|3n8|-9gc|1v
+Filey|GB||9b|46l|-t|1t
+Findon|AU||8b|-2oy|aot|1q
+Filipstad|SE||9w|4lv|13d|1p
+Wieleń|PL||a5|42x|18x|1p|Vielenė;Veleņa;Filehn;Filehne
+Finley|US||3p|3k7|-96n|1o
+Filmski Grad|RS||8q|3gc|1ks|1o
+Fīrūzeh|IR||7o|2wg|4jb|1n
+Fiesso d'Artico|IT||9o|3i6|xf|1m
+Fischamend|AT||a2|3po|1a5|1l
+Filottrano|IT||9o|3co|113|1k
+Finderne|US||48|34o|-5r6|1k|Findern
+Fântânele|RO|Arad County|8u|3k4|1ne|1k|Fîntînele
+Fitzgibbon|AU||8c|-23y|bt3|1k
+Fiambalá|AR||1m|-24v|-57u|1j
+Fíliro|GR||8p|351|1rw|1j|Yalijík;Filyro
+Fischbachau|DE||8r|3ok|x7|1j
+Fiékon|CI||0|jq|-j1|1i
+Fismes|FR||9k|3sz|a9|1i
+Fīshvar|IR||7o|258|454|1i|Fīsh Var
+Fish Town|LR||15|eg|-lw|1i|Gida Gida
+Filiatrá|GR||8p|2v8|1nz|1i|Philiatra
+Figueirópolis|BR||1k|-xp|-3sl|1h
+Findimanou|CI||0|iz|-bc|1g
+Fīrūzān|IR||7o|2ng|3po|1g
+Fisterra|ES||9d|3b6|-pq|1e|Finisterre
+Fântânele|RO|Mureș County|8u|3ky|1wr|1e|Fîntînele
+Firthcliffe|US||48|374|-5pp|1d
+Fântânele|RO|Suceava|8u|3o0|214|1d|Fîntînele
+Firmino Alves|BR||20|-15n|-32w|1d
+Fijnaart|NL||8m|3zg|cf|1d
+Fischach|DE||8r|3q5|tm|1b
+Fischamend-Markt|AT||a2|3po|1a4|1b
+Fishhook|US||1h|4ri|-bik|1b
+Filipeşti|RO|Bacău County|8u|3lv|22o|1b
+Fīlābād|IR||7o|2hq|3wa|1b
+Filippiáda|GR||8p|30w|1m0|1a|Philippiáda;Filippiás
+Finta Mare|RO||8u|3gg|1zo|1a
+Figino Serenza|IT||9o|3iz|pd|1a
+Figueiró|PT||99|36q|-mp|1a
+Fărtăţeşti|RO||8u|3ge|1uo|1a|Fîrtăţeşti
+Fīlestān|IR||7o|2qf|3zj|18|Palestine;Fīlistān
+Fitzherbert|NZ||ak|-346|djv|18
+Finedon|GB||9b|41e|-1t|17
+Fiumicello|IT||9o|3j7|119|17
+Fieberbrunn|AT||a2|3nw|yu|17
+Fitzwilliam|GB||9b|44z|-3u|17
+Fizankoro|CI||0|ni|-h8|16|Finiankoro;Finyankoro
+Felino|IT||9o|3g6|sg|16|Filinum
+Finsing|DE||8r|3py|wu|15
+La Ferté-Alais|FR||9k|3qo|6j|15|Firmitas Adelaidis
+Fig Tree Pocket|AU||8c|-24h|bsw|14
+Finestrat|ES||9d|2z5|-l|13
+Finnsnes|NO||9j|5cb|1dy|13|Finsnes
+Fairview|IE||8z|449|-hc|12|Fionnradharc
+Fitzroy|NZ||ak|-30h|dfm|11
+Finiş|RO||8u|3lj|1q0|10|Várasfenes;Fenis
+Five Cays Settlement|TC||2z|1og|-5kr|10
+Fiesso Umbertiano|IT||9o|3gw|w9|10
+Finnentrop|DE||8r|3y5|m5|10
+Figueirão|BR||2a|-1fw|-450|z
+Finningley|GB||9b|44l|-2r|z
+Fishguard|GB||9b|40f|-du|y|Abergwaun
+Five Rivers|CA||43|3lc|-50a|y
+Halászi|HU||8v|3p1|1c5|x|Halasen;Halassen;Fischerdorf;Laslovo;Helasi
+Fengolo|CI|Denguélé District|0|rl|-j7|w|Fangolo;Fingolo
+Filimonovo|RU||6u|4c4|7d6|v
+Figueirópolis dOeste|BR||2k|-16w|-4j6|v
+Fiorano al Serio|IT||9o|3j8|rc|v
+Fizzonasco|IT||9o|3i1|pj|u
+Fintel|DE||8r|43p|qv|u
+Fântânele|RO|Dâmbovița County|8u|3g8|1zv|t|Fîntînele
+Fig Tree|KN||51|1bl|-4tw|t|Figtree
+Fichtenberg|DE||8r|3s3|qz|t
+Fichtenwalde|DE||8r|418|zs|t|Fiwa;Klaistower Heide
+Fisher|AU||8l|-2q8|bi2|t
+Fitioneşti|RO||8u|3jq|235|t
+Firsanovka|RU||9i|4bf|2vg|s
+Firovo|RU||9i|4fo|2lm|r
+Fiesole|IT||9o|3do|vd|r|Faesulae
+Fillinges|FR||9k|3k8|hm|r
+Filer|US||28|3a9|-8ud|r
+Firmi|FR||9k|3fq|6f|r|Firmy
+Filadelfia|IT|Calabria|9o|2zq|199|q
+Fīrūzī|IR||7o|2ck|43z|q
+Finneu|CI||0|jg|-mn|q|Fineu
+Fizeşu Gherlii|RO||8u|3mm|1um|q|Ördöngösfüzes;Fizeşul-Gherlei
+Fiampleu|CI||0|jy|-m8|q|Fiempleu;Fyempleu
+Fishburn|GB||9b|47w|-40|q
+Fiskdale|US||48|390|-5kb|q
+Fīrūz Sālār|IR||7o|2wz|3jl|q
+Filago|IT||9o|3is|qk|q
+Foglianise|IT||9o|36c|14r|q|Figlianese
+Fischingen|CH||a7|3np|ox|p
+Fitz-James|FR||9k|3t7|6r|p
+Fiorentino|SM||9q|3dz|ym|p|Florentinum;Fiorentinas;Fiorendìne;Fiorentin
+Fillmore|US|Utah|2p|309|-8o0|p
+Fifth Street|US||2f|2a8|-7df|p
+Finley|AU||8l|-2r1|b8d|p
+Filipeni|RO||8u|3l9|23i|o
+Figanières|FR||9k|3d1|i2|o
+Fiñana|ES||9d|2v9|-7w|o|Piñana
+Finström|AX||9f|4nf|1jd|o|Finstroem
+Firá|GR||8p|2t6|1yn|o|Thera;Thíra
+Fântânele|RO|Prahova|8u|3h1|21a|n|Fântânela;Fîntînele
+Fântânele|RO|Teleorman County|8u|3dg|1y9|n|Fîntînele
+Fishbourne|GB||9b|3x8|-2a|n
+Fitzwilliam|US||48|3au|-5ke|n
+Fierbinții de Sus|RO||8u|3g5|21c|n|Fierbinţii-de-Sus;Fierbinţi de Sus
+Filipów|PL||a5|46i|1qu|m|Pilypavas
+Primorsk|RU|Kaliningrad Oblast|96|482|1jl|m|Žuvininkai;Skanavikas;Fischhausen;Schönewick;Fishhausen
+Fitero|ES||9d|38u|-56|m
+Fizanlouma|CI||0|mb|-gx|m
+Fârliug|RO||8u|3id|1op|m|Fîrliug
+Fife Heights|US||3p|3na|-9fv|l
+Firavitoba|CO||27|fr|-5mr|l|Firavitova
+Filsum|DE||8r|43w|l7|l
+Fishkill|US||48|37e|-5pa|l
+Filiátes|GR||8p|320|1kf|l|Filati;Filiátai
+Fichtelberg|DE||8r|3uw|wx|l
+Firing Range|US||48|2kw|-6dp|l
+Filipowice|PL||a5|3vc|1id|l
+Fisching|AT||a2|3py|143|k
+Filippovka|RU||7z|4fk|4ee|k
+Ficarolo|IT||9o|3gv|vs|k
+Firmo|IT||9o|32c|18w|k|Ferma
+Fisher|US||2f|33z|-6tf|k
+Fines|ES||9d|2vs|-6a|k
+Fârdea|RO||8u|3j1|1pl|j|Fârdia;Fîrdea
+Fiano|IT||9o|3hm|kx|j|Fian
+Findon|GB||9b|3xb|-15|j
+Fântânele|RO|Iași County|8u|3np|23i|j|Fîntînele
+Pfyn|CH||a7|3o8|ov|i|Fines Helvetiorum
+Fitabro|CI||0|ln|-f9|i
+Foieni|RO||8u|3oi|1q6|i|Mezőfény;Fienen;Foeni
+Five Points|US|Ohio|48|31x|-6hv|i
+Fingolo|CI||0|op|-ir|i|Fingoro
+Finale|IT||9o|2xm|13c|i
+Fitzroy Crossing|AU||8k|-1ek|9ot|i
+Filótas|GR||8p|34v|1ob|i
+Fântânele|RO|Galați County|8u|3iy|25s|i|Fîntînele
+Firenzuola|IT||9o|3ek|vm|i
+Filabusi|ZW||n|-1l1|29d|i|Emfelabuso
+Fierbinți|RO||8u|3fn|1y9|i|Ferbinti
+Fitjar|NO||9j|4mg|es|i
+Finningen|DE||8r|3r5|t6|h
+Fântânele|RO|Constanța County|8u|3fx|27e|h|Fîntînele
+Fischbach|DE|Rheinland-Pfalz|8r|3sd|lf|h
+Findern|GB||9b|42v|-4a|h
+Fiumana|IT||9o|3em|xb|g
+Fischerbach|DE||8r|3q5|mj|g
+Fingal Bay|AU||8l|-2iz|bqp|g
+Fibiș|RO||8u|3jp|1ni|g|Febiş
+Financial District|US|Hawaii|ax|1n7|-c6i|g
+Fincastle|US|Tennessee|48|2t5|-6hh|g
+Filótion|GR||8p|2ux|1yu|g|Filoti
+Fiesse|IT||9o|3hn|so|g
+Figino|IT||9o|3id|p8|g
+Finlayson|FI||92|4qu|1tz|g|Näsi
+First Mesa|US||4i|2rk|-8im|g
+Figueiró dos Vinhos|PT||99|32u|-n0|g
+Fethard|IE||8z|41r|-ld|f|Fiodh Ard
+Five Oak Green|GB||9b|3y6|10|f
+Florinas|IT||9o|34x|o3|f|Fiolinas;Florinae
+Fílla|GR||8p|2ys|1ts|f|Fylla
+Figliaro|IT||9o|3j6|ou|f
+Fildu de Jos|RO||8u|3md|1s3|e|Alsófüld;Fildul-de-Jos;Felsofuld
+Figari|FR||9k|379|pd|e
+Finsterbergen|DE||8r|3x7|tf|e
+Finkenberg|AT||a2|3mz|wu|e
+Fierbinții de Jos|RO||8u|3g6|21c|e|Fierbinţii-de-Jos;Fierbinţi de Jos
+Le Fief-Sauvin|FR||9k|3n6|-2w|e|Fief Sauvin
+Firle|AU||8b|-2oy|ap5|e
+Finkenstein|AT||a2|3lc|12j|e
+Philipsburg|SX||3q|1e3|-4v5|e|Filipsburg;Filipsburgas;Filipsburga;Filipsburq;Philippoburgum
+Fitilieu|FR||9k|3ij|fg|e
+Filettole|IT||9o|3dp|sw|e
+Fintona|GB||9b|47e|-kc|e|Fionntamhnach
+Filogaso|IT||9o|2zg|193|e
+Filasso|CI||0|na|-h1|d|Filaso
+Finiq|AL||9y|32v|1jq|d|Finik;Firiq
+Filimonki|RU||9i|4ac|2vr|d
+Fivizzano|IT||9o|3ew|s5|d
+Fiè Allo Sciliar|IT||9o|3l8|vy|d|Völs am Schlern
+Filia|RO||8u|3k6|1z6|d
+Five Points|US|Florida|48|2bx|-6dk|d
+Fișer|RO||8u|3k0|1xv|c
+Fioletovo|AM||80|354|3g8|c|Nikitino;Fialetovo;Nikitin;Nikitinka
+Fiumara|IT|Calabria|9o|2y5|17l|c|Caenesium;Sciumara i Muru
+Fiumedinisi|IT||9o|2xn|16q|c|Ciumidinisi
+Feuchy|FR||9k|3vp|7w|c|Filciacum
+Findochty|GB||9b|4ga|-82|c
+Figueira das Naus|CV||84|166|-1tx|c|Figueira da Naus
+Fivepointville|US||48|33m|-5v9|c|Druckne
+Fitii|PF||bg|-1ai|-bnj|c
+Fırdan|TR||94|306|29l|b
+Acquaformosa|IT||9o|32c|18p|b|Firmoza
+Figueruelas|ES||9d|381|-39|b
+Fillé|FR||9k|3p2|d|b
+Fisa|CI||0|m9|-8q|b|Fissa
+Fino del Monte|IT||9o|3jh|rr|b
+Filiaș|RO||8u|3kj|1xi|b
+Fivemiletown|GB||9b|472|-ka|b|Baile na Lorgan
+Fīrūzbahrām|IR||7o|2qz|3yd|b|Fīrūz Bahrām
+Fântânele|RO|Suceava|8u|3o5|21p|b|Fîntînele
+Fíki|GR||8p|31s|1o6|b|Fýki
+Fiesco|IT||9o|3hy|r6|b
+Fishtoft|GB||9b|434|3|b
+Fila Faraba|CI||0|os|-hk|b
+Fiecht|AT||a2|3nj|wi|b
+Fizeș|RO|Caraș-Severin County|8u|3i0|1o0|b
+Finca Blanco|PA||4g|na|-6e7|b
+Filioara|RO||8u|3n0|210|b
+Finschhafen|PG||bd|-ic|bep|b|Finschafen;Finschaven
+Fillýra|GR||8p|368|1z7|a|Fillíra
+Finchampstead|GB||9b|3yo|-2e|a
+Figaró|ES||9d|37w|6b|a|el Figueró
+Fish Lake|US||2f|37h|-6of|a
+Fiss|AT||a2|3mq|ti|a
+Finhan|FR||9k|3dz|3e|a
+Fiesch|CH||a7|3kw|mm|a
+Firlej|PL||a5|3z8|1qj|a
+Fındıkpınarı|TR||94|2uk|2nh|a|Fendik Pınarı;Fındıklıpınarı
+Fishing Point|AU||8l|-2jt|bp3|a
+Fântâna Mare|RO||8u|3np|212|a|Fântâna-Mare;Fîntîna Mare
+Fântânele|RO|Gorj County|8u|3ge|1sr|9|Fîntînele
+Filipești|RO|Brăila County|8u|3hb|23z|9
+Fischbach|DE|Rheinland-Pfalz|8r|3u5|kk|9
+Fylenkove|UA||98|3uf|2p8|9|Filenkovo
+Figline Vegliaturo|IT||9o|30z|19d|9
+Fílippoi|GR||8p|35z|1vm|9
+Finsing|AT||a2|3nh|wy|9
+Fiorina|SM||9q|3e4|yo|9
+Findhorn|GB||9b|4g6|-a1|9
+Fischbach|DE|Rheinland-Pfalz|8r|3td|m0|9
+Fieldale|US||48|2ty|-662|9
+Fischbach|AT||a2|3ns|17h|9
+Fília|GR|East Macedonia and Thrace|8p|36a|1xg|9
+Fieldbrook|US||3p|35t|-9kk|9
+Filpișu Mare|RO||8u|3lv|1wb|9|Filipisul Mare;Filipişu Mare
+Fimana|CI||0|ln|-hu|9
+Finișel|RO||8u|3lo|1t3|8
+Ficulle|IT||9o|3az|xj|8
+Fincastle|US|Kentucky|3k|2yf|-6lm|8
+Allenwood Cross Roads|IE||8z|440|-j2|8|Fiodh Alúine
+Filea|RO||8u|3me|1x5|8
+Filattiera|IT||9o|3f5|rl|8
+Fiennes|FR||9k|3x7|53|8
+Felicity|US||48|2zw|-6hm|8|Feel City;Feelicity;Filicity
+Fiorano Canavese|IT||9o|3ib|lr|8
+Fixin|FR||9k|3n9|dt|8
+Firrel|DE||8r|445|la|8
+Fize-Fontaine|BE||8t|3wj|eo|8
+Filstroff|FR||9k|3t0|i6|8
+Fiumaretta di Ameglia|IT||9o|3ed|rr|8
+Fințești|RO||8u|3h9|21i|8
+Fifth Ward|US||2f|2eh|-741|8
+Fish Creek|AU||8j|-2zg|b9s|8
+Ficarra|IT||9o|2xv|157|8
+Finteușu Mic|RO||8u|3o5|1t5|8|Finteuşul Mic
+Filighera|IT||9o|3hh|pw|8
+Feins|FR||9k|3q9|-4k|8|Finiou;Fines
+Filby|GB||9b|42a|4k|8
+Fitzroy|AU|South Australia|8b|-2oy|aoz|8
+Filzmoos|AT||a2|3nr|11k|8
+Fíkhtion|GR||8p|2ws|1r4|8|Fichti;Fíkhtia
+Ficarazzelli-Bagni Italia|IT||9o|2xt|11d|8
+Filfili|AZ||61|368|3o8|7|Fil’fili
+Finteușu Mare|RO||8u|3o2|1t6|7|Finteuşul-Mare
+Fiac|FR||9k|3de|5b|7
+Fiumalbo-Dogana|IT||9o|3eq|tl|7|Fiumalbo
+Fitalssou|CI||0|ks|-dl|7|Fitessou
+Figeholm|SE||9w|4fd|19z|7
+Filiano|IT||9o|35d|17n|7
+Fischingen|DE||8r|3od|l4|7
+Fitou|FR||9k|3b5|8a|7
+Figueras|ES||9d|3cy|-jj|7
+Finchingfield|GB||9b|40d|19|7
+Fisciano|IT||9o|359|153|7
+Fischbeck|DE||8r|41y|xe|7
+Lambrivka|UA||98|3kp|29d|7|Hofman;Hofmana;Fil'varok Hofmana;Hoffmann;Lambriwka;Lambrovka;Gofmana;Lambrovca;Gofman
+Fillongley|GB||9b|41s|-4f|7
+Filsbäck|SE||9w|4ih|10t|7
+Five Points|US|North Carolina|48|2pa|-64g|7|Five Point
+Nikitsch|AT||a2|3o2|1aa|7|Filež;Füles
+Fittleworth|GB||9b|3xk|-1k|7
+Fântânele|RO|Bistrița-Năsăud County|8u|3me|1vf|7|Fîntînele
+Finésséguédougou|CI||0|n3|-cp|7
+Fingal Head|AU||8l|-26c|bul|7
+Fânațe|RO||8u|3o1|1u1|7|Kővárfonác;Fînaţe
+Fiavè|IT||9o|3js|u4|7
+Pisculești|RO||8u|3gj|20a|7|Fisculeştii
+Firsovo|RU||63|444|6h7|7|Firsova
+Findlay|US|Illinois|2f|31s|-6uj|7
+Fília|GR|North Aegean|8p|312|20m|7
+Fish Springs|US||3p|307|-98d|6
+Filomeno Mata|MX|Quintana Roo|2b|1j6|-6tj|6
+Fedorivka|UA|Poltava|98|3tg|2lo|6|Fëdorovka;Fidrovka;Fedrovka
+Finja|SE||9w|4c1|120|6
+Fivehead|GB||9b|3xo|-84|6
+Fillmore|US|New York|48|39z|-610|6
+Filsen|DE||8r|3vk|l2|6
+Filecchio|IT||9o|3ed|t5|6
+Fiefbergen|DE||8r|472|sq|6
+Fiquefleur-Équainville|FR||9k|3t8|w|6
+Fienvillers|FR||9k|3v8|67|6
+Firth|US||2f|34l|-7gd|6
+Fideris|CH||a7|3mc|r2|6|Fadrein
+Fighille|IT||9o|3cw|xn|6
+Finnerödja|SE||9w|4jp|143|6
+Foinikounta|GR|Peloponnese|8p|2u9|1ol|6|Finikounda
+Fiumara|IT|Sicily|9o|2xz|159|6
+Fiamenga|IT||9o|3bb|z6|6
+Fieries|IE||8z|40x|-qo|6|Cordal;Na Foidhrí
+Filsdorf|LU||9c|3tl|hd|6|Fëlschdref
+Fiéla|CI||0|rn|-kp|5
+Finzel|US||48|32b|-63b|5
+Figueroles|ES||9d|33g|-n|5
+Filóteia|GR||8p|35z|1pj|5|Filótia
+Filzbach|CH||a7|3mw|pd|5
+Fizeș|RO|Sălaj County|8u|3mu|1r8|5
+Ficheux|FR||9k|3vj|7m|5
+Filetto|IT||9o|39b|13l|5
+Fia|CI||0|oo|-bi|5
+Filare-Boschetto-Miniera|IT||9o|3b9|ua|5
+Fieldsboro|US||48|33i|-5rl|5
+Figueiral|CV||84|1bo|-1xq|5
+Filipești|RO|Bacău County|8u|3ke|228|5
+Fiscut|RO||8u|3jv|1ng|5
+Fillmore|US|Indiana|38|327|-6oz|5
+Fildu de Sus|RO||8u|3md|1rs|5|Fildul-de-Sus
+Fizești|RO||8u|3ii|1s5|5
+Fildu de Mijloc|RO||8u|3mc|1rw|5|Fildul-de-Mijloc
+Fiumefreddo Bruzio|IT||9o|310|18n|5
+Finca Corredor|PA||4g|n7|-6e7|5
+Findéné|CI||0|o2|-d9|5
+Higueruelas|ES||9d|32i|-2d|5|Figueroles
+Filatovka|UA||9t|3k0|2lv|5
+Filettino|IT||9o|38d|111|5
+Fingal|AU||8j|-2yp|b6d|5
+Fillièvres|FR||9k|3vs|60|5
+Fillan|NO||9j|4wp|ox|5
+Finch Hatton|AU||8c|-1mq|bgv|5
+Fingig|LU||9c|3ts|ge|5|Féngeg;Féingig
+Finisterre|MX||44|207|-7yq|5
+Fiera di Primiero|IT||9o|3ka|wv|5
+Fieupleu|CI||0|jt|-mx|5
+Fiorino|IT||9o|3cc|ta|5
+Filisur|CH||a7|3ln|qx|5|Filisour
+Finca Balsa|PA||4g|nf|-6ea|5

@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Nanjing|CN||7i|2h2|95y|1zvf|Nanking;Nankín;Nanchino;Nandžing;Nankinas;Naņdzjina;Nanchinum;Namkin;Nankingo;Nam Kinh;Nanquin;Nanquim;Nàng-gĭng;Nàm-kîn-sṳ;Nanzging;Nankijn;Nan-ching
+Nanning|CN||7i|1re|8cw|1a4c|Nam Ninh;Nan-ning;Naningas;Naningo;Nàm-nèn-sṳ;Namzningz;Lâm-lêng-chhī;Nàng-nìng;Naņnina;Nannin;Nanninq;Yung-ning
+Nairobi|KE||16|-3k|2ua|xxf|Najrobio;Najrobo;Nayrobi;Nayroobi;Nairoby;Nai-lo̍k-pí;Nayrubi;Nairóvi;Najrobi;Nayiiroobii;Nairoba
+Nanhai|CN||7i|1ry|8qa|sao
+Navi Mumbai|IN||6t|1gw|5mu|k28|New Bombay;Navi Moembaai;Novmumbajo;Nova Bombaim;Navi Mumbaj
+Nagpur|IN||6t|1mr|63o|ik9
+Nanchang|CN||7i|27o|8xt|i6y|Nam Xương;Nančangas;Nan-čchang;Nanĉano;Lâm-chhiong-chhī;Nàng-chiŏng;Nàm-chhông-sṳ;Nancsang;Nancianga;Naņčana;Nanzcangh;Nançan;Nančang
+Nagoya|JP||7q|2pq|akb|hzu|Nagoja;Nagojo;Nagoia;Naqoya
+Nantong|CN|Jiangsu|7i|2gz|9br|hjh|Nentung shehiri;Nan-tchung;Nam Thông;Lâm-thong-chhī;Nàng-tŭng;Nan-t’ung
+Nanchong|CN||7i|2dk|86o|ecd|Nan-čchung;Nam Sung;Lâm-chhiong-chhī;Nàng-chṳ̆ng;Nan’chun;Nan-ch’ung
+Nanyang|CN|Henan|7i|2jp|8on|dza|Nam Dương;Nan-jang;Nenyang shehiri;Nanyan;Nàng-iòng;Lâm-iông-chhī
+Nashik|IN||6t|1jk|5oz|bgt|Nasik;Nasiko;Našikas;Nászik
+Najafgarh|IN||6t|27h|5xu|aj6|Najfargharh;Najafgarli
+Da Nang|VN||6h|18n|8cm|9ug|Danang;Thành Thái Phien
+Belgrade|RS||8q|3gg|1kv|9tt|Belgrad;Belgrado;Belgráu;Beograd;Bělehrad;Beogrado;Belgradas;Belgrada;Beogradi;Belgradu;Belogradum;Běłohród;Nándorfehérvár;Belqrad
+Nouakchott|MR||19|1e9|-18e|951|Nuakchot;Núaksjott;Nawakszut;Nävakjut;Nuakšotas;Nuakšott;Nuakxot;Nuakşot;Nawakshot;Nuakšota;Nuakŝoto;Nwaqcuṭ;Nuakshot;Nouakchot;Nouakchat
+Shivaji Nagar|IN|Maharashtra|6t|1fh|5p5|7ps
+Nay Pyi Taw|MM||7y|1iv|7f1|74y|Naypyidaw;Naypyitaw;Naipidau;Nepjido;Ne Pyi Daw
+Naples|IT||9o|35h|13n|70i|Napoli;Neapel;Nápoles;Nàpols;Neapol;Napolo;Nápoly;Neapolis;Neapole;Napule;Napels;Nàpuli;Neapelj;Napulj;Noapels;Napul;Nappoli
+Natal|BR||2w|-g3|-2pt|6x3
+Naucalpan de Juárez|MX||41|1i4|-7no|6fs|Naucalpan;Nauhcalpan Juárez
+Narela|IN||6t|285|5y5|668
+Nampula|MZ||11|-160|313|5y0
+Namangan|UZ||7m|35w|5j3|5i4|Nemengan;Namangã
+Nashville|US|Tennessee|2f|2sh|-6p2|5bi|Naŝvilo;Nasburgum;Našvila;Nešvilis;Nashwil;Neşvill;Našvėlis;Nashfile;Neshvill;Nachville
+Madīnat an Naşr|EG||c|2bj|2ey|55o
+Nha Trang|VN||6h|y1|8fb|4gu|Ņačana;Ngà-tsông-sṳ;Niačangas;INhatrang
+Nakuru|KE||16|-v|2s7|4ej
+Nasiriyah|IQ||5z|2ea|3ki|4b4|Nasiriya;An-Nasiriya;Nasirijja;Nasirija;Nasiriyeh;An Nāsirīya;Nasriye;Al-Nasiriya
+Nanded|IN||6t|1h8|5yr|48y|Nander
+Nansana|UG||q|10|2id|440
+Naberezhnyye Chelny|RU||9i|4au|41m|3xn|Brezhnev;Nabereschnyje Tschelny;Naberezhnye Chelny;Naberežnyje Čelny;Nabereĵnije Ĉelni;Naberežnõje Tšelnõ;Naberežnyje Tšelny;Naberežnije Čelni;Naberežnye Čelny;Naberezjnye Tsjelny;Naberejnye Chelny;Yar Çallı;Yorcholli
+Najrān|SA||7e|1cl|3el|3wh|Necran;Nacran;Najraan
+Najaf|IQ||5z|2gz|3f7|3q2|Nadschaf;Naĝafo;Nadjaf;Nayaf;An-Nadżaf;Nachaf;Nadžaf;Nedzsef;Nadžafas;Necef
+Nanping|CN|Fujian|7i|221|949|3lz|Nàng-bìng;Nan-pching;Nàm-phìn-sṳ;Nenping shehiri;Nam Bình;Lâm-pêng-chhī
+Nazrēt|ET||2|nr|313|3ix|Adama;Hadama;Nazareth
+Namp’o|KP||7a|2zm|9od|3ie|Nampo
+Nam Định|VN||62|1kr|86y|3gi|Nam Din
+Nagasaki|JP|Nagasaki|7q|2iz|a0s|35n|Nagasako;Nagaszaki;Nagasacium;Nangasaque
+Nagano|JP|Nagano|7q|2tt|anu|2vk

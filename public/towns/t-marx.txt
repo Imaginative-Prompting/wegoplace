@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Marks|RU||9s|3zn|3lv|95|Marx
+Marxheim|DE||8r|3re|uf|q
+Marxen|DE||8r|443|rs|d
+Merxheim|FR||9k|3p3|k9|c|Marxen

@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mumbai|IN||6t|1gz|5mg|2pxi|Moembaai;Bombaj;Mumbajo;Bombaya;Bombay;Bombėjus;Mumbaja;Mumbay;Mumbaj;Bombaim;Mumbajus;Bombai;Dakbayan sa Bombay;Bůmbaj;mymbais;Numbai
+Moscow|RU||9i|4av|2wi|283o|Moskau;Moscou;Moscú;Moskvo;Moskou;Moskva;Mòskwa;Moscfa;Moskova;Moscó;Moscova;Moszkva;Mosca;Moskuas;Moscua;Maskva;Maskava;Moscovo;Mát-xcơ-va;Mosku;Mosko;Moskowa;Moskow;Moska;Matxcơva;Moskov;Moskovu
+Mogadishu|SO||14|5o|3hy|jyo|Muqdisho;Mogadiŝo;Mogadisxo;Mogadischu;Mogadiscio;Mogadišas;Mogadiszu;Mogaidisiú;Mogadişu;Mogadixo;Moqadişo;Mogadiš;Mogadisjoe;Mogadisjû;Mugadiss;Mogadiss;Moukdicho;Mugadishu;Mugadiccu;Mogadixu;Mogadìsciu;Mogadiscium;Mogadisho;Mogandísio;Mogaadisiyo;Muqdishow;Mogadiisho;Muqdishu;Mogadish;Maqdishu;Magadiscio
+Montréal|CA||59|3if|-5of|dlp|Mont-real;Monreyal;Mons Regius;Monrealis;Monreāla;Monreal
+Mosul|IQ||5z|2sy|3bs|czi|Mossul;Mossoul;Mûsil;Mosoel;Musul;Moszul;Mausilium;Moussoul
+Ecatepec de Morelos|MX||41|1ig|-7n5|cp2|Ecatepec;Ekatepeko;Ecatepec Morelos
+Monrovia|LR||15|hi|-u0|bwh|Monrowia;Monrovio;Monrovija;Monrofia;Monroviya;Monrovii
+Munich|DE||8r|3pq|w6|bm2|Muenchen;München;Minhen;Munic;Mnichov;Munkeno;Monaco di Baviera;Munîh;Monachium;Miunchenas;Minhene;Monaco e Baviera;Munique;Monacum;Lungsod ng München;Myunxén;Minga;Mynihu;Munike;Monacu di Baviera;Munhen;Mnichow;Munix;Minche;Mònacu;Münegh;Monaco de Baviera;Minca
+Montevideo|UY||45|-2oy|-4c3|9sz|Montevidėjas;Montevidéu;Muntividèu;Muntividëw;Urbs Montis Videi;Montevidiejos
+Mombasa|KE||16|-b9|326|9bn|Mombaso;Mombassa;Mombaça;Mombaaso
+Monterrey|MX|Nuevo León|44|1zc|-7qo|8rf|Monterejo;Monterrei;Tlahtoāntepēc;Monterėjus;Monterreja;Mons Regis
+Meizhou|CN||7i|1vh|8yk|7no|Mej-čou;Mòi-chiu-sṳ;Mai Châu;Mûi-chiu-chhī;Mùi-ciŭ
+Perm|RU||7z|4h5|4c9|7kw|Molotov
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Pietermaritzburg|ZA||o|-2aa|2cf|6h5|Pitermaricburgas;Petromaritzburgum;Mokokotlofo;Pitermaricburg;Pietermaritsburg
+Morelia|MX||41|1iq|-7t2|5qh|Morelija
+Amsterdam|NL||8m|41h|dl|5q0|Amsŭt'erŭdam;Amsteladamum;Amesterdã;Amestelledamme;Aemsterdam;Amseutereudam;Amsterodam;Ámsterdan;Amszterdam;Amusuterudamu;Amstelodamum;Mokum Aleph;Mokum;Amesterdão;Amstyerdam;Amsterdã;Aemstelredamme;Amstelodhámon;Damsko;Amstèdam;Amistardam;Amstardam;Amstadem;Âmesterdâm
+Morādābād|IN||6t|284|62u|5kb|Murādābād
+Mirpur Model Thana|BD||6a|1u5|6z0|47t
+Sahiwal|PK|Punjab|6q|2d7|5n2|45j|Montgomery;Sahivalas
+Mohammadpur|BD||6a|1x6|6tx|42k|Muhammadpur;Mahammadpur
+Montería|CO||27|ob|-5us|3sd|Monterija
+Modīnagar|IN||6t|283|5zh|3o6
+Morogoro|TZ||h|-iy|2wm|3my|Morogoras;Murogoro;Mrogoro
+Mawlamyine|MM||7y|19t|7j7|3dx|Moulmein;Maulamiain;Molamjainas;Mulmejn;Mawlamyaing;Mulmain;Molamyaing
+Montes Claros|BR||4w|-1ah|-3du|3dk
+Thủ Dầu Một|VN||6h|ui|889|2vn
+San Jose del Monte|PH||71|155|9c9|2re|San-Joseo de la Monto
+Mahilyow|BY||9g|45r|2ca|2q1|Mogilëv;Mahilioŭ;Mahiloŭ;Mogiliovas;Mogiļeva;Mohylew;Mahiljoŭ;Maguilov;Mahiljov;Mogiliavas;Mahiljow;Moguilev;Mahilëŭ;Mogiljow;Mogiljov;Mogilew
+Quận Mười Một|VN||6h|tw|888|2kd
+Mogi das Cruzes|BR||4w|-1tc|-3kb|2ih|Moji das Cruzes;Mogy das Cruzes
+Münster|DE|North Rhine-Westphalia|8r|40c|l7|2dn|Mönster;Monasterium;Miunsteris;Minstere;Muenster
+Mannheim|DE||8r|3th|nj|2dk|Manhejmo;Manheimas;Manhemium;Manhajmi;Manheima;Monnem;Man'géym
+Murmansk|RU||9i|5bl|2jy|2a2|Muurmanski;Mourmansk;Moermansk;Murmanszk;Semenova;Romanov-on-Murman;Romanov;Muurmanni
+Morioka|JP||7q|32a|aw3|28r
+Port Moresby|PG||bd|-qc|bcr|26t|Puerto Moresby;Port Morsbis;Pot Mosbi;Port Morsbi;Port-Moresbo;Pò Moresbi;Portus Moresbiensis;Portmorsbi
+Mokpo|KR||7h|2op|9r3|22k|Mogpo;Moppo;Mok-pho;Mokp’o
+Mossoró|BR||2w|-ef|-2vq|21i
+Mönchengladbach|DE||8r|3y7|hw|20p|Jlabbach;Menchengladbachas;Menhengladbaha;Muenchen-Gladbach
+Los Mochis|MX||3x|1zn|-8es|1za

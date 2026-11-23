@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Khombole|SN||g|150|-1ad|5n|Kbombole;Rhombol;Kombole
+Kbombole|SN||g|151|-1ae|4c
+Kbely|CZ||9m|3v9|14f|20

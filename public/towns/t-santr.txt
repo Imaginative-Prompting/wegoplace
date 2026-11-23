@@ -1,0 +1,8 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Santrampur|IN||6t|1sf|5pa|5f
+Saint-Rémy-de-Provence|FR||9k|3dn|df|2y|Sant Romieg de Provença;Sant Romieg;Saint Remy Provence
+Saint-Rémy-sur-Durolle|FR||9k|3jh|9z|i|Sant Remic dau Montelh
+Saint-Rémy-en-Rollat|FR||9k|3ka|9f|f|Sant Remai
+Saint-Romain-en-Viennois|FR||9k|3ey|e7|8|Sant Roman;Sant Roman de Vienés;Saint-Romain-en Viennais;Saint Romain
+Saint-Rémy-du-Plain|FR||9k|3qd|-4d|6|Sant-Revig-ar-Plaen;Saint-Rémy-du-Plein
+Sant Rafel del Maestrat|ES||9d|34s|z|5|San Rafael del Rio;Sant Rafel del Riu

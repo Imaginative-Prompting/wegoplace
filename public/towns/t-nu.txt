@@ -1,0 +1,541 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mumbai|IN||6t|1gz|5mg|2pxi|Moembaai;Bombaj;Mumbajo;Bombaya;Bombay;Bombėjus;Mumbaja;Mumbay;Mumbaj;Bombaim;Mumbajus;Bombai;Dakbayan sa Bombay;Bůmbaj;mymbais;Numbai
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Bayan Nur|CN||7i|356|8ab|dkw
+Astana|KZ||5s|3y6|5ih|bwx|Tselinograd;Astano;Asztana;Nur-Sultan;Akmolinsk;Nour-Soultan;Nur-Sultano;Noer-Soeltan
+Neijiang|CN||7i|2a6|83u|9nj|Nô̤i-gĕ̤ng;Nej-ťiang;Nejĝjan;Nui-kông-sṳ;Nội Giang;Lāi-kang-chhī;Neikiang;Nei-chiang
+Nouakchott|MR||19|1e9|-18e|951|Nuakchot;Núaksjott;Nawakszut;Nävakjut;Nuakšotas;Nuakšott;Nuakxot;Nuakşot;Nawakshot;Nuakšota;Nuakŝoto;Nwaqcuṭ;Nuakshot;Nouakchot;Nouakchat
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Villa Nueva|GT||32|14d|-6zn|4rs|Vilja Nueva
+Iskandar Puteri|MY||6v|3v|7zu|4g0|Nusajaya
+Nuremberg|DE||8r|3td|us|3z7|Nürnberg;Norymberga;Norimberk;Nurenbergo;Norimberga;Niurnbergas;Nirnberga;Nürnbarg;Neurenberg;Norimberg;Nyrëmberg;Nyurnbérg;Niamberg;Nürnberq;Neurenberch;Nuremburg;Nurenberg;Nurenburg;Nuernberg
+Nuevo Laredo|MX||3w|24c|-7og|37l|Nuevo Laredas;Novum Laredum;Novo Laredo
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+Nukus|UZ||7g|39y|4ll|2kd|Noukous;Nokis
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Newark|US|New Jersey|48|356|-5q1|26b|Ņuarka;Niuarkas;Novarcum
+Neihu|TW||7l|1xo|9dr|249|Nui-fù-khî;Nội Hồ;Lāi-ô͘-khu;Nei-hu
+Ñuñoa|CL||4u|-2kx|-5g2|1z2
+Nova Friburgo|BR||4w|-1pw|-3a5|1gr|Nueva Friburgo
+Numazu|JP||7q|2pi|apr|1gn|Numasu;Numadu
+Newport|GB|Wales|9b|3zb|-8c|18v|Casnewydd;Novus Burgus;Niuportas;Nyuport;Trefdraeth;Ņūporta
+Neuss|DE||8r|3y8|il|16d|Novaesium;Nüüß;Nüss;Noisas;Nuus
+Nusantara|ID||70|-2p|907|14y
+Nouadhibou|MR||19|1m6|-1bc|14k|Nuadibú;Nawazibu;Port-Étienne;Nouadibou;Port Ettienne;Port Etienne
+Van Nuys|US||3p|2mz|-951|11w
+New Haven|US|Connecticut|48|36r|-5ml|107|Novus Portus;Ņūheivena;Nyu-Heyven;Niu Heivenas
+An Nu‘mānīyah|IQ||5z|2ig|3i5|uk
+An Nuhūd|SD||r|za|26z|u0|An-Nahud;En Nahud;En Nahudas;Ennahuda;An-Nuhud;An Nahūd
+Jalai Nur|CN||7i|3td|92y|ty|Dalaynur;Dalainur
+Novara|IT||9o|3i9|ny|sb|Novare;Novaria;Nuara;Nuvara
+Nouméa|NC||b8|-1pv|cud|pv|Numea;Numėja;Numeo;Nomea
+New Plymouth|NZ||ak|-30j|dfk|p1|Nueva Plymouth;Aberplymm Nowydh;Naujasis Plimutas;Nieu-Plymouth;Ngāmotu
+Nusaybin|TR||94|2uz|36h|oq|Nisibis;Nisibin;Nuseybin
+Nuneaton|GB||9b|41w|-43|oo|Nonne Etone
+Nenjiang|CN||7i|3sl|9nu|o8|Mergen;Nunkiang;Nen-chiang;Nenkiang
+New Rochelle|US||48|35n|-5oy|m6|Nouvelle-Rochelle;Nueva Rochelle
+Numan|NG||u|qa|xf|lk
+Nutana Sector|CA||4q|40q|-888|k6
+Nungua|GH||1|fk|-8|jl|Nungwa;Nungoa
+Núi Thành|VN||6h|16v|8du|ja
+Neubrandenburg|DE||8r|44s|10u|ix|Neubrandenbourg;Nuevo Brandeburgo;Noibrandenburgas;Neibrandenburga
+Nunukan|ID||70|bi|92t|im
+Nūrābād|IR|Lorestan Province|7o|2mn|3p9|i7
+Nūzvīd|IN||6t|1an|68l|ga
+Nūrābād|IR|Fars|7o|2bn|3z4|fv
+New Brunswick|US||48|34h|-5qt|fu|Nuevo Brunswick
+Nuevo Casas Grandes|MX||2g|2ci|-8br|fg|Nuevo Kasas Grandesas;Nuevo Kasasa Grandesa;Nueva Casas Grandes
+Nuevitas|CU||36|1nu|-5ym|f0
+Nueva Guinea|NI||3s|wh|-6im|ep
+Tŭytepa|UZ||7m|35z|5co|ea|Nurafshon;Nurafşon;Toytepa
+Neu-Ulm|DE||8r|3qf|rt|ea|Nuevo Ulm;Nuova Ulma;Neu Ulm;Nöa Ulma;Nei-Ulm;Nova Ulma
+Numancia|ES||9d|348|-a6|dj
+Nushki|PK||6q|2a3|53e|di
+Numata|JP|Gunma|7q|2tr|aq9|d1
+Nurmijärvi|FI||92|4ny|1wx|cm
+Nueve de Julio|AR|Buenos Aires|1l|-2qg|-4p4|bp
+Nürtingen|DE||8r|3r3|py|b6|Nurtinga
+Nuevo San Carlos|GT||32|14j|-72p|b0
+Nūrpur|IN|Uttar Pradesh|6t|28z|61t|av
+Nueva Rosita|MX|Coahuila|44|25m|-7t6|am|Nueva-Rosita
+An Nuşayrāt|PS||6f|2fd|2nj|a1|Nuşayrāt
+Nuoro|IT||9o|340|px|9z|Nùgoro
+Nusle|CZ||9m|3v2|144|9s
+New Amsterdam|GY||34|hd|-4fs|9q|Nueva Ámsterdam;Naujasis Amsterdamas
+Nurlat|RU||9i|477|3x5|9l|Nourlat;Noerlat
+Nueva Italia de Ruiz|MX||41|1gu|-7vl|91
+Nuevo Imperial|PE||3o|-10c|-5w0|8z
+Nurota|UZ||7g|34o|52h|8z|Nurata
+Northeim|DE||8r|3zn|rs|8l|Nuurten
+Nungwi|TZ||h|-fx|316|8k
+New Iberia|US||2f|2bc|-732|8k|Nueva Iberia;La Nouvelle-Ibérie;Nouvelle Iberie;Nuevo Iberia
+Nuozhadu|CN||7i|1qq|7qj|89
+Nueva Imperial|CL||4u|-2zm|-5mn|86
+Nuevo México|MX|Jalisco|41|1lo|-7zc|7t
+Nutley|US||48|35e|-5q0|7o
+Nuwara Eliya|LK||68|jd|68e|7n|Nuwara Elija;Nuwari Eliya
+Nūr|IR||7o|2tl|40i|7h
+Núi Sập|VN||6h|si|84f|74
+Nubl|SY||69|2t2|2ur|73
+Nueva España|ES||9d|34e|-a8|6t
+Newport|US|Rhode Island|48|379|-5i3|6q|Niuportas;Ņūporta;New Port;Niew-Port
+Nueva Loja|EC||33|9|-5xm|6q|Nueva Locha;Musuq Loja
+Nuevo Belén|PA||4g|p9|-64j|6p
+Nuenen|NL||8m|3yz|ff|6g
+Nuku‘alofa|TO||bi|-1mq|-dio|68|Nukualofa;Nucualofa;Nukualofo;Niukalofa;Nuku‘aloia;Nukalofa
+Núcleo Bandeirante|BR||4w|-183|-3p9|60
+Nueva Gerona|CU||36|1ot|-6e1|5n|Nueva Cherona
+Nu‘ayjah|QA||7b|1y5|3z5|5k
+Nueva Bolivia|VE||2c|pe|-5hh|5j
+Nukui|JP||7q|2ra|arv|5i
+Nunspeet|NL||8m|41i|g3|5f
+Nunungan|PH||71|lq|9kd|58
+Nuofu|CN||7i|1pq|7oy|55
+Noto|IT||9o|2uh|15v|54|Netum;Nuotu
+Nueva Granada|CO||27|r8|-5qn|4v|Granada
+Nümbrecht|DE||8r|3xe|ky|4u
+Nūh|IN||6t|262|5xw|4j
+Nuuanu - Punchbowl|US||ax|1na|-c6f|4i
+Nuevo Arraiján|PA||4g|ot|-65g|45|Nueva Arraiján
+Nuuk|GL||4e|4ya|-3zo|44|Godthåb;Godhopa;Nuko;Nūka;Nukas;Godthaab;Nuk
+Nuevo San Juan Parangaricutiro|MX||41|1hy|-7vp|44
+Nūrmahal|IN||6t|2ee|5tz|42
+Numabukuro|JP||7q|2r8|arz|3u
+Nova Odesa|UA||98|3nf|2g9|3r|Nova Odessa;Nova Adesa;Nowa Odessa;Nueva Odesa;Fedorivka;Lungsod ng Nova Odessa;Fedorovka
+Nules|ES||9d|32p|-g|3r
+Nova Gorica|SI||9a|3jo|11x|3m|Nuova Gorizia;Gnove Gurize;Goritia Nova
+Adolfo Ruiz Cortines|MX|Sinaloa|3x|1ze|-8e0|3m|Ruíz Cortines;Número Dos;Adolfo Ruiz Cortinez
+Nurdağı|TR||94|2v9|2u2|3k
+Nieuw Nickerie|SR||4h|gh|-4e9|3k|Yeni Nickerie;Nueva Nicaría;Yeni Nikeri;Neu-Nickerie;Sabuwar Nickerie;Nova Nickerie;New Nickerie
+Strel'na|RU||9i|4m9|2bg|3k|Strelna;Nuolijoki;Stryelna
+Nueva Esperanza|PY||1y|-1w3|-48e|3j
+Nunawading|AU||8j|-2x2|b79|3g
+Numakunai|JP||7q|331|awa|3f|Fumakunai;Numakunni
+Nuea Khlong|TH||62|mf|7n0|3e
+Nūshābād|IR||7o|2mo|3yw|3a|Noshābād
+Nundah|AU||8c|-244|bt6|3a
+Nubarashen|AM||80|33d|3fr|34
+Nueva Concepción|GT||32|13g|-71m|33
+Nuevo Ideal|MX||44|1x5|-83v|31|Patos
+Nußloch|DE||8r|3t0|o6|30
+Nueva Palestina|MX|Chiapas|41|1aq|-71i|2y
+Nūkān|IR||7o|2ng|3n1|2w|Naūkān
+Nuevo Progreso|MX|Tamaulipas|44|20d|-7k3|2v
+Nueva Santa Rosa|GT||32|13y|-6ys|2t
+Nueva Helvecia|UY||45|-2na|-4ez|2t
+Nuevo León|GT||32|17v|-711|2s
+Nueva Concepción|SV||2u|139|-6w2|2s
+Nueva Palmira|UY||45|-2m3|-4i9|2r
+Nūrpur|IN|Himachal Pradesh|6t|2hq|5us|2q
+Nyu-York|UA||98|3q9|2x4|2p|Novhorodske;Niu-York;Nju Jork;Novhorodcke;Nju-Jork;Nowhorodske;Nyu York;Niou-Iork;Niu York;Ņujorka;Njoe-Jork;New York;Novgorods’ke;N’yu-York;N’yu-Iork
+Nūrpur Kalān|IN||6t|2el|5wg|2m
+Nueva Esperanza|PA||4g|pb|-64d|2l
+Nuvem|IN||6t|16k|5pe|2l
+Nurmes|FI||92|4wi|28y|2h
+Nueva Ocotepeque|HN||56|143|-6vq|2g
+Nurhak|TR||94|2xg|2w0|2e
+Nuwerus NC|ZA||o|-273|1n3|2d
+Nūshīn|IR||7o|2wt|3h5|2c
+Nuevo Necaxa|MX||41|1k5|-7k9|2a
+Nuevo Progreso|GT||32|153|-73c|29|Nuevo Progresso
+Nuevo Celilac|HN||56|15m|-6td|29|Nueva Celilac
+Nuapatna|IN||6t|1kt|6lf|29
+Nurmijärven kirkonkylä|FI||92|4ny|1wx|26|Nurmijärvi
+Nuestra Señora del Rosario de Caá Catí|AR||1n|-253|-4g2|24|Nossa Senhora do Rosário de Caá Catí
+Nuporanga|BR||4w|-1ll|-3on|22
+Numāligarh|IN||6t|21y|78c|22
+Nurpur|IN|Bihar|6t|1ym|6n0|20
+Nuevo Baztán|ES||9d|345|-90|1z
+Nura|KZ||5s|3vm|5ir|1y
+Nummi|FI||92|4ny|1pz|1y
+Nýřany|CZ||9m|3u3|10p|1y|Nürschan
+Nünchritz|DE||8r|3yi|117|1w
+Nuevo Cuscatlán|SV||2u|11x|-6vz|1t
+Nuevo|US||3p|2lw|-91f|1s
+Nutana|CA||4q|40s|-88a|1r
+Nuriootpa|AU||8b|-2nr|aq4|1q
+Nūa|IN||6t|25w|5t3|1o
+Nūāhatā|IN||6t|1lw|6kr|1n
+Nunkiní|MX||3z|1ko|-6yf|1n
+Nueva Guadalupe|SV||2u|11l|-6tf|1m
+Nueva-Carteya|ES||9d|2wf|-cf|1k
+Nurillo|US||2f|20z|-7kk|1j|Murillo
+Nueva Villa de Padilla|MX||44|1ut|-7mq|1j
+Nuevo Sullana|PE||3o|-do|-689|1j
+Nueve de Julio|AR|San Juan|1t|-2fz|-59z|1i
+Nuşfalău|RO||8u|3n4|1r5|1i
+Newlands|ZA||o|-2me|1f9|1h|Nuweland
+Nuits-Saint-Georges|FR||9k|3my|dr|1h
+Nūkābād|IR||7o|27a|4os|1h|Nok Abad
+Nufringen|DE||8r|3r2|op|1g
+Nueil-les-Aubiers|FR||9k|3md|-1m|1g|Aubiers
+Nuwaybi‘a|EG||c|28p|2oa|1e|Nueiba;Nuweiba;Nuwaiba;Nuwaiba‘;Nuweibeh
+Nu‘uuli|AS||b9|-13s|-d66|1e|Nuuuli
+Nueva Santa Rosa|MX||41|1if|-7mw|1e
+Nüziders|AT||a2|3n1|r8|1e
+Numarán|MX||41|1ka|-7v7|1d|Aumarán
+Nieuw Amsterdam|SR||4h|gd|-491|1d|Nieuw-Amsterdam;Yeni Amsterdam;Nueva Ámsterdam;Neu-Amsterdam;Sabuwar Amsterdam;Nova Amsterdã
+Nuevo Progreso|MX|Campeche|3z|1fq|-74d|1d
+Noyal-sur-Vilaine|FR||9k|3pn|-48|1c|Noal-ar-Gwilen;Nulliacum super Vicenoniam
+Noirmoutier-en-l'Île|FR||9k|3mk|-68|1c|Noirmoutier;Nerium Monasterium;Nŭarmutjeo
+Nulti|EC||33|-84|-631|1a
+Nuth|NL||8m|3xg|gd|1a|Nut
+Nuanquan|CN||7i|2zu|86z|1a|Nuan-ch’üan
+Nuland|NL||8m|3zp|f3|1a
+Numurkah|AU||8j|-2s9|b80|18
+Nucet|RO|Dâmbovița County|8u|3ge|1yz|17
+Nūbā|PS||6g|2ft|2pb|17
+Nueva Ciudad Guerrero|MX||44|21s|-7nn|17
+Numansdorp|NL||8m|3zp|cc|17|Numansdurp;Niemansdorp
+Nüdlingen|DE||8r|3vi|s4|17
+Nuñoa|PE||3o|-148|-5g8|17
+Nuova Gibellina|IT||9o|2x1|zr|17|Gibellina;Gibbellina
+Nueva Esperanza|MX|Chiapas|41|1bx|-74u|15
+Nuevo Ixcatlán|MX||41|1d0|-7d4|12
+Nurio|MX||41|1im|-7vp|11
+Numancia de la Sagra|ES||9d|33b|-ap|11|Azaña
+Nuevo León|MX|Baja California|58|2i1|-8vz|11
+Nueva Gorgona|PA||4g|nr|-65v|z
+Nudgee|AU||8c|-241|bt8|z
+Nuvolento|IT||9o|3ij|sv|z
+Nueva Palestina|MX|Chiapas|3z|17w|-75n|z
+Nuradilovo|RU||9i|3c8|3l2|y
+Nuvolera|IT||9o|3ih|st|y
+Nurluca|TR||94|35z|35n|y
+Nowbarān|IR||7o|2pl|3u3|x|Nūbarān
+Nuevo Tampaón|MX||41|1pa|-7lt|x
+Nurma|RU||9i|4lf|2e6|x|Nurmi
+Nuşeni|RO||8u|3mu|1v8|w|Apanagyfalu
+Numata|JP|Hokkaido|7q|3do|aya|w
+Nuci|RO||8u|3g8|212|w
+Nuštar|HR||a6|3hx|1gc|v
+Nutana Park|CA||4q|40p|-887|v
+Nueva Vida Sur|PH||71|r6|9kx|v
+Nuevo San Miguel|MX||3x|204|-8ex|u
+Nutana Urban Centre|CA||4q|40q|-885|u
+Nuevo México|MX|Chiapas|41|19r|-77k|u
+New Madrid|US||2f|2tn|-6wp|u|Nueva Madrid;Nova Madrid
+Noling|PH||71|ii|9kq|u|Nuling
+Norcia|IT||9o|3av|10e|u|Nursja
+Nuevo Vicente Guerrero|MX||3z|18k|-76a|t
+Nugas|PH||71|qy|9iw|s
+Nueva Italia|PY||1y|-1z5|-4fn|s
+Nulvi|IT||9o|35a|oa|s|Nuivi;Nujvi
+Nuevo León|MX|Chiapas|41|19t|-755|s
+Nouamou|CI||0|ee|-82|s|Nuamou
+Nuquí|CO||27|fv|-5yn|r|Nugui
+Nueva Valencia|PH||71|t7|9gd|r
+Nutfield|GB||9b|3yd|-e|r
+Nueve de Julio|AR|Corrientes|1n|-284|-4jf|r
+Nucleo Industriale di Bazzano|IT||9o|39m|11f|q
+Nuing|PH||71|fn|9og|q|Nuin;Noing
+Nußdorf am Inn|DE||8r|3om|xs|q|Nußdorf a. Inn;Nußdorf
+Nuanangonfla|CI||0|js|-hj|q|Nianangofla;Nianangonfla
+Nullagine|AU||8k|-1ot|99n|q
+Nunguan|PH||71|jt|9md|q
+Nueva Esparta|SV||2u|12a|-6s0|p
+Nusa Dua|ID||70|-og|8w3|p
+Nueva Toltén|CL||4u|-30u|-5n8|p
+Nußdorf|DE||8r|3p3|z0|p
+Nuevo Berlín|UY||45|-2jm|-4ha|p|Nova Berlino;Novo Berlim
+Nuevo Progreso|MX|Veracruz|41|1la|-7iv|o|Kilómetro Doce;Kilómetro 12
+Nučice|CZ||9m|3uy|13j|o
+Nufăru|RO||8u|3hf|28c|o
+Nueva Apolonia|MX||44|1qi|-7lz|o|Nueva Polonia
+Naisano Dua|ID||70|-qo|9jt|n|Nusa Dua
+Nueve de Julio Kilómetro 20|AR||1n|-21d|-47e|n
+Nuraminis|IT||9o|31k|p1|n
+Numaligarh Refinery Township|IN||6t|21v|78e|n
+Nürensdorf|CH||a7|3nt|o1|n
+Nunguni|KE||16|-4z|2vs|n
+Nuevo Zirosto|MX||41|1ib|-7wb|m
+Nuevo Morelos|MX|Tamaulipas|44|1qm|-7nm|m
+Nuyo|PH||71|km|9ll|m
+Nuevo Paso Nazareno (Chichicazapa)|MX||41|1eu|-7fn|m
+Nueva Fuerza|PH||71|rd|9kx|m
+Otepää|EE||9x|4ha|21m|m|Otepė;Otepya;Otepea;Odenpe;Odenpäh;Odenpä;Nustago
+Nuevo Vigía|PA||4g|po|-655|m
+Nupaky|CZ||9m|3uv|14k|l|Nupak
+Nueva Esperanza|HN||56|16f|-6rc|l
+Nurri|IT||9o|32b|pn|l
+Nukunuku|TO||bi|-1mp|-diy|l
+Nuevo Sitalá|MX||41|1bm|-74w|l
+Nuevo Chamelecón|HN||56|16q|-6si|l|Nuvo Chameleco
+Nuevo Vicente Guerrero (El Chichonal)|MX||41|19t|-75z|l
+Nuevo Emperador|PA||4g|p0|-65h|k
+Nueva Independencia|MX|Chiapas|41|17u|-745|k|Lajerío
+Nurzec-Stacja|PL||a5|41q|1s5|k|Stacja Nurzec;Nurzec
+Nuxco|MX||41|1bt|-7rw|k
+Nuevo Limar|MX||41|1ci|-74o|k
+Nunningen|CH||a7|3nn|l6|j
+Nukerke|BE||8t|3x4|9z|j
+Nuevo Tantoán|MX||44|1qb|-7lt|i
+Nus|IT||9o|3j2|kr|i
+Nuevo Milenio Valdivia|MX||41|172|-767|i
+Nusco|IT||9o|35l|15x|i
+Nūr ‘Alī Beyg|IR||7o|2pd|3vp|i|Nūr ‘Alī Beg
+Nuevo México|MX|Puebla|41|1i1|-7j6|i
+Nurachi|IT||9o|331|nq|i|Nuragis
+Nuevo San Carlitos|PA||4g|ni|-6d0|h
+Nuevo Balsas|MX||41|1e3|-7p4|h
+Nucşoara|RO||8u|3hx|1wu|h
+Nuevo San Juan Chamula|MX|Chiapas|41|18u|-720|h|El Pacayal
+Nuino|UA||98|3z7|1x7|h|Nuyno;Nujno
+Nübbel|DE||8r|46r|qq|h
+Nuevo Centro de Población Agrícola el Chacón|MX||41|1jr|-7ma|h|El Chacón
+Nueva Tenochtitlán (Rizo de Oro)|MX||41|19s|-79c|g
+Nueva División del Bayo (Guatemala)|MX||41|1dk|-74x|g
+Nunziata|IT||9o|2ww|165|g
+Nuevo Juan del Grijalva|MX||41|1cf|-77d|g
+Nuevo Amatenango|MX||41|173|-73v|g
+Nutter Fort|US||48|312|-674|g
+Nueva Colombia|MX||41|17m|-75k|g
+Nuñomoral|ES||9d|349|-hd|f
+Nuovo Centro Urbano Poggioreale|IT||9o|2ww|108|f|Poggioreale
+Nuevo Torno Largo|MX||41|1f7|-76s|f|Torno Largo
+Nucet|RO|Bihor County|8u|3l5|1qo|f
+Nueva Jarilla|ES||9d|2u4|-gr|f
+Nuevo San Juan|PA||4g|pn|-65b|f
+Nooksack|US||3p|3rx|-9fs|f|Nuksak;Nooksachk;Nooksahk;Nooksacht;Nooksak
+Nõo|EE||9x|4hw|21q|f|Nüggen;Neo;Niggen’;Nyo
+Nuevo León|MX|Coahuila|44|1zg|-7yy|f
+Nuaillé|FR||9k|3mt|-28|e
+Nuevo Pumpuapa (Cereso)|MX||41|15h|-74l|e
+Nule|IT||9o|34e|pj|e
+Nuevo Michoacán (Estación Riíto)|MX||37|2hd|-8vc|e
+Nuevo Francisco León|MX||41|1bb|-71o|e
+Nuevo Guerrero|MX||41|1en|-7r9|e
+Nuestra Señora de Talavera|AR||1s|-1yq|-4x6|e
+Nueil-sur-Layon|FR||9k|3mw|-11|e
+Nuevo Xochimilco|MX||41|1ch|-77d|e
+Nueva Armenia|HN|Atlántida Department|56|17w|-6oa|e
+Tindu|NC||b8|-1pr|cua|e|Numbo-Koumourou
+Nieul|FR||9k|3jl|39|e|Nuèlh
+Novate Mezzola|IT||9o|3ke|q9|e|Novatum;Nuvaa;Novate Mezoła
+Nuevo Nicapa|MX||41|1cz|-76j|d
+Nueva Libertad|MX|Chiapas|41|17s|-744|d|Candelaria
+Nunda|US||48|3aa|-60i|d
+Nuevo Urecho|MX||41|1h9|-7uz|d
+Numana|IT||9o|3cv|11u|d
+Nuevo Vallarta|MX||21|1li|-84h|d
+Nueva Independencia|MX|Chiapas|41|17j|-756|d
+Nunchía|CO||27|fo|-5kk|d
+Nueva Primavera|MX||41|1ov|-7mm|d
+Nurallao|IT||9o|32j|p8|c
+Nudol’|RU||9i|4bu|2tg|c|Nudol
+Nuijamaa|FI||92|4pc|27b|c
+Nuevo San Martín|MX||41|1cu|-7dc|c
+Nūrābād|IR|Fars|7o|245|439|c|Noor Abad
+Nuevo San José Independencia|MX||41|1f3|-7eu|c
+Nueva Libertad (El Colorado)|MX||41|186|-73q|c
+Nuxis|IT||9o|30r|oa|c
+Nützen|DE||8r|45m|rk|c
+Nuevo Volcán Chichonal|MX||41|1dd|-76n|c|Nuevo Chichonal
+Nuraxinieddu|IT||9o|32y|nw|c|Nuraxinteddu
+Nuevo Cereso Regional de Altamira|MX||44|1qe|-7k9|c
+Nulsen|AU||8k|-2m2|9ej|c
+Nuntași|RO||8u|3fq|27l|b
+Nuevo Xcán|MX||2b|1lz|-6rc|b
+Nuevo Naranjo|MX||41|1bn|-77j|b
+Nueva Palestina|MX|Chiapas|41|19t|-783|b
+Nuillé-sur-Vicoin|FR||9k|3pb|-26|b
+Nueva Jalapa|HN||56|15g|-6td|b|Nuevo Jalapa
+Nueva Frontera|MX||41|1ax|-7pa|b
+Nueva América|MX|Chiapas|41|188|-74f|b
+Nudersdorf|DE||8r|409|z0|a
+Nueva Morelia|MX|Chiapas|41|17e|-73z|a
+Nuevo Renacer|NI||3s|yo|-6o8|a
+Nuevo Pacayal|MX||3z|17i|-74f|a
+Nusse|DE||8r|452|te|a
+Nuevo Carmen Tonapac|MX||41|1ae|-768|a
+Nuevo Crucitas|MX||41|1pf|-7nk|a
+Nueva Libertad|MX|Chiapas|41|18p|-75t|a
+Nuevo Refugio de Afuera (Nuevo Refugio)|MX||41|1l3|-7xb|a
+Nueva Ameyalco|MX||41|1hm|-7oe|a
+Nuevo Renacimiento 2000|MX||41|1ks|-7hn|a
+Nousseviller-Saint-Nabor|FR||9k|3sg|jd|a|Nussweiler
+Nuevo Orizaba|MX||41|18o|-6zr|a
+Nuevo Teapa|MX||41|1e7|-7a0|a
+Nußdorf am Haunsberg|AT||a2|3p8|105|a
+Nucșoara de Jos|RO||8u|3ht|20j|a
+Nuevo Huixtán|MX||41|18w|-71x|9|Nuevo Huistan
+Nieuil|FR||9k|3jg|1e|9|Nuelh
+Nueva Granada|HN||56|160|-6sq|9
+Nuffield|GB||9b|3za|-2v|9
+Nueva Palestina (Nandayacuti)|MX||41|1aa|-769|9
+Nuevo Poza Rica|MX||41|18w|-71x|9|Nueva Poza Rica
+Nuevo Mieleras|MX||44|1yo|-7z1|9
+Nueva Colonia Copalillo (El Atorón)|MX||41|1ln|-7tm|9
+Nuevo Resplandor|MX||41|18c|-74e|9|Nuevo Retiro
+Nuragus|IT||9o|32i|p4|9
+Nuevo Pescadito de Abajo|MX||41|1eo|-7fn|9|Pescadito de Abajo
+Nuevo Ahuacatitla|MX||41|1ox|-7m1|9|Nuevo Aguacatilla
+Nuevo Momón|MX||41|19d|-72u|9
+Novara di Sicilia|IT||9o|2xm|161|9|Nuvara;Noara;Novara Sicilia
+Nussbach|AT||a2|3p9|13c|9
+Nueva Florida|HN||56|16z|-6r2|9
+Nueva Tenochtitlán|MX||41|167|-74p|9
+Nuevo Lindero|MX||41|1m8|-7uc|9
+Nuevo Pescadito de Abajo Dos|MX||41|1ef|-7fs|9
+Nuevo Cuyutlán|MX||41|1gu|-818|9
+Nuevo San Miguel Mitontic (Punta de Piedad)|MX||41|1ao|-767|9
+Nuevo Guararé|PA||4g|ou|-65g|9|Nueva Guarare
+Nueva Esperanza|MX|Veracruz|41|1cm|-79k|9|Cerro Nanchital
+Nueva Victoria|MX||3z|15q|-74v|9|Nuevo Victoria
+Nueva Armenia|HN|Copán Department|56|15r|-6vi|9
+Nugola|IT||9o|3d2|t0|9
+Nuevo Atoyac|MX||41|1d2|-7a8|9
+Nuevo Uruapan|MX||58|2bj|-8xf|9
+Ñumi|PY||1y|-203|-4ch|9
+Nuevo Colón|CO||27|ev|-5o2|9
+Nuevo Valle de Moreno|MX||41|1mx|-7tq|9
+Nuevo Graseros|MX||44|1y6|-806|9
+Nuevo Morelos|MX|Tamaulipas|44|1uo|-7l5|9|Adolfo López Mateos
+Nuevo Pescadito de Málzaga (La Breña)|MX||41|1ez|-7fq|9
+Santa María Nutío|MX||41|19t|-7jy|8|Nutio
+Nurnus|AM||80|343|3fw|8|Nurrnus
+Nunney|GB||9b|3y9|-6m|8
+Nueva Galilea|MX||41|1c4|-735|8|Galilea
+Nuevo Llano Grande|MX||41|17y|-73c|8
+Nucourt|FR||9k|3sk|55|8
+Nünschweiler|DE||8r|3sq|kv|8
+Nuevo Centro de Población Tlachichuca|MX||41|1hk|-7j1|8
+Nughedu San Nicolò|IT||9o|34o|p2|8
+Nuevo Progreso|MX|Baja California|58|2i7|-90e|8
+Núñez|MX||41|1r1|-7r7|8
+Nueva Londres|PY||1y|-1yk|-4d3|8|Hugo Stroessner
+Nuevo Progreso|MX|Oaxaca|41|19w|-7jx|8
+Nueva Libertad|MX|Chiapas|41|16t|-75j|8|La Libertad;Libertad
+Nucetu|RO||8u|3fb|22q|8|Nucet
+Novaggio|CH||a7|3jt|om|8|Nuvasg
+Nūrsar|IR||7o|2tx|3yl|8|Nūr-e Sar
+Nucșoara de Sus|RO||8u|3hs|20j|8
+Nuevo Veracruz|MX||41|18p|-6zw|8
+Nuevo Capirio|MX||41|1ge|-7vo|8
+Nuevo Miramar|MX||41|1ne|-7n3|8
+Nuevo Galeana|MX||41|1fj|-7rj|8
+Nuevo Centla|MX||41|1fq|-751|8|Nuevo Centía
+Nußdorf|AT||a2|3m3|zk|8
+Nuevo Reque|PE||3o|-j4|-65q|8
+Nūq|IR||7o|2n9|4hk|8|Nūk
+Santo Tomás de los Plátanos|MX||41|1ha|-7qi|8|Nuevo Santo Tomás
+Nuevo Chicayán|MX||41|1og|-7kp|8
+El Edén|MX|Chiapas|41|1bz|-72c|8|Nuevo Edén
+Nuevo Santa Elena de Aceves (El Capricho)|MX||41|1kv|-7va|8
+Nur|PL||a5|42b|1q0|8
+Nuevo Tejamanil|MX||41|1lk|-7ij|8
+Nuevo Centro de Población Ejidal el 30|MX||3x|1wd|-8ab|8
+José Santos Bañuelos|MX||41|1un|-7ze|8|Nuevo;JoséSantos Bañuelos
+Nuevo Progreso|MX|Oaxaca|41|1bm|-7c1|7
+Nuevo Cantón|MX||41|1c4|-7al|7
+Nuevo Celedin|PE||3o|-ib|-5wm|7
+Nusnäs|SE||9w|4pd|14n|7
+Nueva Vida|PE||3o|-ff|-5x1|7
+Nueva Rosita|MX|Campeche|3z|1et|-702|7
+Nueva Vaquería|MX||41|1h1|-7i1|7
+Nueva Providencia|MX||41|19i|-71s|7
+Nuh|TR||94|2z8|2c9|7
+Nuevo Zoquiapan|MX||41|1ks|-7jk|7
+Nulkaba|AU||8l|-2j5|bof|7
+Nuevo Chespal|MX||41|15z|-745|7
+Nueva Samaria|MX||41|1bs|-72h|7|Zamaria;Samaria
+Nuevo Valle (Ex-Hacienda del Valle)|MX||41|1kv|-7wz|7
+Nueva Patria|MX||41|1ev|-7fv|7|La Patria
+Nucla|US||2p|2yb|-8dj|7
+Nueva Granada|MX||41|15m|-74c|7
+Nueva Sabanilla|MX||41|197|-71e|7|Nuevo Sabanilla
+Nuevo Paraíso|MX||41|1ax|-73r|7
+Nueva Esperanza|PE||3o|-a4|-67x|7
+Nuevo Paraíso|PA||4g|pt|-6cx|7
+Nueva Esperanza|MX|Tabasco|41|1dn|-752|7
+Nuova Conza della Campania|IT||9o|35i|16m|7|Conza della Campania
+Noorvik|US||1h|55o|-cfb|7|Nuurvik;Nurvik
+Nuevo Progreso|MX|Tamaulipas|44|1se|-7k3|7
+Nucatilí|MX||41|1ad|-764|7
+Nueva Luz|PE||3o|-vv|-5mv|7
+Nuevo Carrizal|MX||41|1ky|-7jx|7
+Nuis|NL||8m|43n|hj|7
+Nueva Colombia|PY||1y|-1xz|-4f7|7
+Nuevo Chihuahua|MX||41|196|-6ze|7
+Nuevo Aquismón|MX||41|1q1|-7mi|7
+Nueva Tabasqueña|MX||41|1co|-794|7
+Nuevo Cueytzén|MX||41|1oa|-7mn|7
+Nuevo Villaflores|MX||41|182|-73i|7
+Nuevo México|MX|Chiapas|41|17l|-73u|7
+Nuangola|US||48|36c|-5v2|7
+Nuevo Mazapa|MX||41|17u|-73y|7
+Nuevo Mezcalapa|MX||41|1b5|-77l|7
+Nuevo Progreso Dos|MX||3z|1fq|-70k|7
+Nuevo México|MX|Chiapas|41|1a1|-73t|7
+Nuevo Rocafuerte|EC||33|-2l|-5tg|7
+Nunderi|AU||8l|-26o|bua|7
+Nuevo Bosque|MX||41|1i6|-7pv|7
+Nuevo Copaltepec|MX||41|1f2|-7ql|7
+Nuevo Pescadito de Enmedio|MX||41|1er|-7fq|7|Nuevo Pescadito
+Nueva Chontalpa|MX||3z|1fc|-711|6
+Nuevo Paso Nacional|MX||41|1eo|-7fs|6
+Nußbach|DE||8r|3tv|le|6
+Nuevo Mundo|MX||41|1r5|-7vw|6
+Nubia|IT||9o|2xi|yr|6
+Nuez de Ebro|ES||9d|37j|-1v|6
+Nueva Coapa (Estación Echegaray)|MX||41|17f|-76t|6
+Nuevo Amanecer|MX||41|1k3|-7q4|6
+Nüzhetiye|TR||94|34w|2ay|6
+Nuevo Andoas|PE||3o|-7t|-5wd|6
+Nuevo Mariscal|MX||41|1b6|-71a|6
+Nueva Esperanza|MX|Chiapas|41|191|-775|6
+Nuevo Israel|MX||41|1li|-7yv|6
+Nueva Morelia|MX|Chiapas|41|17s|-74t|6
+Nuevo Brasil|MX||41|168|-751|6
+Nueva Esperanza Uno|MX||41|16w|-748|6
+Nuevo Zinacantán|MX||41|1a4|-750|6
+Nuevo Sonora|MX||41|1ce|-739|6
+Nuevo Cerro Mojarra|MX||41|1ch|-7ct|6
+Nuevo Vicencio|MX||41|1hl|-7jd|6
+Nueva Independencia (Ampliación Calera)|MX||41|169|-74j|6
+Nuevo Tonosí|PA||4g|qk|-655|6
+Nuevo Ayotoxco|MX||41|1nm|-7mk|6
+Nussdorf ob der Traisen|AT||a2|3qb|17m|6|Nussdorf an der Traisen
+Nueva Costa Rica|MX||41|16z|-75t|6|Costa Rica
+Nueva Libertad|MX|Chiapas|41|197|-74c|6
+Nueva Esperanza (La Esperanza)|MX||41|1bj|-72o|6
+Nuevo Poblado el Hato|MX||41|1du|-7bt|6
+Nuevo San Carlos|MX||41|1ad|-73h|6
+Nuevo San Diego (El Caballo)|MX||44|1xb|-86d|6
+Nuevo Becar|MX||2b|1g0|-6vl|6
+Nussdorf am Attersee|AT||a2|3p0|11k|6
+Nūrā’ī-ye Now|IR||7o|240|43k|6|Nīrā’ī;Nūrā’ī
+Nuevo Horizonte|PE||3o|-g8|-625|6
+Nuraxi Figus|IT||9o|30y|nf|6
+Alto Perillo|PE||3o|-jo|-5sq|6|Nuevo Olaya;Alta Perilla
+Nuevo Potrero|MX||41|1ea|-7dl|6
+Nueva Colonia San Carlos|MX||41|1mh|-7u7|6
+Nueva Pastoría|MX||41|1tj|-7v3|5|Las Peyitas
+Nuevo Progreso (Casas Viejas)|MX||41|1jp|-7ud|5
+Nuevo Rodulfo Figueroa|MX||41|192|-71i|5|Rodolfo Figueroa;Rodulfo Figueroa;Rodullo Figueroa
+Nutiví|PA||4g|on|-6bc|5
+Nuevo Jerusalén|MX||41|1ay|-73n|5
+Nuelles|FR||9k|3jd|cu|5
+Nuevo Tenancingo|MX||41|1kq|-7k0|5
+Nukunonu|TK||aq|-pk|-d9d|5
+Nueva América|MX|Chiapas|41|16g|-74s|5
+Nuevo San Gregorio|MX||41|180|-73i|5
+La Nueva Unión|MX||41|18p|-705|5|Nueva Unión
+Nueva Reforma|MX||41|18z|-6zn|5
+Nunapitchuk|US||49|4p6|-cja|5
+Nuevo Santo Tomás|MX||41|190|-71x|5
+Nundle|AU||8l|-2fe|bnt|5
+Nuevo San Joaquín|MX||41|1c0|-72w|5
+Noatak|US||49|57p|-ckp|5|Nuataaq
+Nueva Libertad|MX|Chiapas|41|1bi|-71n|5
+Nuevo México|MX|Chiapas|41|1bt|-77y|5
+Nuevo Poblado el Caracol|MX||41|1dw|-7pu|5
+Nucet|RO|Prahova|8u|3hg|211|5
+Nughedu Santa Vittoria|IT||9o|33e|ov|5|Nughedu San Vittoria
+Nuevo Jericó|MX||41|1bl|-72a|5
+Nuevo San Juan Chamula|MX|Chiapas|41|1ay|-77s|5
+Nuevo Conhuás|MX||3z|1fi|-6xs|5
+Nuevo Matzám|MX||41|18s|-71s|5|Nuevo Matzán
+Nueva Santa Cruz|PE||3o|-gb|-5z2|5

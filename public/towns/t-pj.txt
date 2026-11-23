@@ -1,0 +1,31 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Piura|PE||3o|-ee|-682|4v0|Pjuro;Piwra
+Petrozavodsk|RU||9i|4rm|2nf|25k|Petrosawodsk;Petroskoi;Petrozawodzk;Petroskoj;Pietrozawodsk;Äänislinna;Petrozawodsk;Petrosavodsk;Pjetrozawodsk;Petrozavodszk
+Pyatigorsk|RU||9i|3ed|3bl|13p|Pjatigorsk;Piatigorsk
+Pyay|MM||7y|1ga|7ci|11l|Pye;Prome;Pjajus;Pji;Pyain;Pyei
+Pyinmana|MM||7y|1iu|7f9|r2|Pjinmana;Pyinmank
+Piotrków Trybunalski|PL||a5|3yt|1iq|m9|Pjotrkova Tribunalska;Petrakavas
+Peterhof|RU||9i|4mc|2b2|kc|Petergof;Pietarhovi;Pjetergof;Petrodvorets
+Piekary Śląskie|PL||a5|3vy|1gl|gm|Pekarai;Pekari Slonski;Pjekary
+Piaseczno|PL||a5|40o|1me|a3|Pjasečno;Piasečnas
+Petrovsk|RU|Saratov Oblast|9s|41b|3i3|9c|Pjetrowsk;Petrowsk
+Piešťany|SK||8s|3qz|1dj|7h|Pieszczany;Pöstyén;Pještjani
+Piastów|PL||a5|40y|1lw|6h|Piastuvas;Pjastova
+Pionki|PL||a5|3z0|1nl|5k|Pjonki;Pionkos
+Pyatykhatky|UA||98|3qh|2ln|51|Piatykhatky;Pjatychatky;Piatyjatky;Pjatykhatky i Dnipropetrovsk oblast;Peatîhatkî;Pyatıhatkı
+Pestovo|RU||9i|4ir|2rg|4f|Piestowo;Pjestowo;Pestowo
+Peresvet|RU||9i|4cq|2y2|46|Pereswet;Pjerjeswjet;Pierieswiet
+Petrov Val|RU||a4|3va|3hl|45|Petrow Wal;Pjetrow Wal;Pietrow Wał
+Pechory|RU||9i|4gm|24p|3o|Petseri;Petsjory;Petschory;Petchory;Pečory;Petzuria;Peĉori;Pieczory;Pječory;Pechery
+Pyeongchang|KR||7h|2vt|9wn|2r|Pchjongčchang;Pjonĉango;Phjongcshang;Pjončano apskritis;Phjončhana;Phìn-chhông-khiùn;Pjongczang;P’yŏngch’ang
+P. J. Cholapuram|IN||6t|ub|61g|23
+Pieńsk|PL||a5|3yd|15t|1m|Penzig;Pjeńsk;Peņska
+Piotrków Kujawski|PL||a5|41z|1fe|1e|Pjotrkova Kujavska
+Pyatigorskiy|RU||9i|3e5|3c6|1e|Pjatigorskij
+Pyatnitskoye|RU||9i|3w2|2x3|1d|Pjatnitskoje
+Pjanići|BA||9r|3gz|17y|z
+P'yatypill'ya|UA||98|3pe|2xu|w|Proletariy;Proletarskoye;Proletars’ke;Pjatypillja;Pyatıpillâ;Pyatipol’ye;P'jatypill'ja;Piatypillia;Proletarskij;Proletarssky;Proletarsky
+Pyatovskiy|RU||9i|47x|2s6|r|Pjatovskij
+Pyaozerskiy|RU||9i|52p|2ed|p|Pjaozerskij;Pääjärvi;Piäjärvi
+Pjescana uvala|HR||a6|3gk|12h|6

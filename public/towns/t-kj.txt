@@ -1,0 +1,21 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Kyoto|JP||7q|2pa|ah3|bal|Kioto;Kjóto;Quioto;Kyotum;Kiotas;Kyotu;Kėjuots
+Copenhagen|DK||8y|4ao|yx|8wg|København;Köpenhamn;Kopenhago;Copenhague;Kopenhagen;Copenaguen;Copenhaguen;Kodaň;Kòpenhaga;Kopenhaagen;Kopenage;Kopenhage;Kööpenhamina;Keypmannahavn;Cóbanhávan;Koppenhága;Kaupmannahöfn;Copenaghen;Hafnia;Kopenhāgena;Copenhaga;Kobenhaven;Kopenhag;Copenaga;Kjøpenhamn;Københámman;Kjobenhavn
+Kyustendil|BG||9v|39g|1r1|d1|Kjustendil;Köstendil;Küstendil;Kiousténdil;Keustendil
+Køge|DK||8y|4a2|xu|an|Kiogė;Kjoge
+Kajaani|FI||92|4yf|251|a5|Kajana;Caianeburgum;Kajanis;Kajani;Kjana;Kajauni;Kayani
+Kyonpyaw|MM||7y|1c2|7cg|6o|Kjonpja;Kjonpiava;Kyunpyaw;Kyônbyaw
+Kyurdarmir|AZ||61|342|3ps|5b|Kürdemir;Kyurdamir;Kjurdamir
+Kyakhta|RU||6k|3vv|87p|54|Kjakhta
+Chiasso|CH||a7|3jb|p3|29|Chiaso;Ciass;Civasium;Chiassu;Kjasas
+Kerteminde|DK||8y|4a1|tm|1l|Kjerteminde;Kierteminde
+Kyakhulay|RU||9i|3bd|3nw|1l|Kjakhulaj;Kjachulai;Kâhulay;Kiachułaj
+Kjellerup|DK||8y|4cd|q8|19|Kellerup
+Köyliö|FI||92|4ps|1pz|t|Kjulo
+Kjøpsvik|NO||9j|596|19h|a|Gásluokta;Kjönsvik
+Poggio di Chiesanuova|SM||9q|3dy|yi|a|Poggio Chiesanuova;Chiesanuova;Ecclesia Nova;Kjezanuova;Puggiu Crèsianova;Ciesanova
+Kjøllefjord|NO||9j|5h3|23z|9
+Kjulaås|SE||9w|4ky|1ab|9
+Kettinge|DK||8y|47y|wl|5|Kjettinge;Kiettinge
+Grundarhverfi|IS||87|4yg|-1oo|5|Kjalarnes

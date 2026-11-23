@@ -1,0 +1,151 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Riga|LV||9n|4e7|1uz|5qa|Rigo;Riia;Riika;Ryga;Riqa;Reiga;Ríge;Riigaa;Rigg-a;Rija
+Ryazan’|RU||9i|47r|32a|45q|Riazań;Rjasan;Ryazan;Rjazaň;Resania;Rjazanj
+Reno|US|Nevada|3p|31t|-98t|21e|Rīno;Rynas
+Lille|FR||9k|3wn|8i|1ub|Lila;Lilla;Lilo;Rijsel;Rysel;Insula;Lile;Lil;lil.;Lilis;Risel;Lill
+Rybinsk|RU||9i|4h9|2zw|1o7|Ribinsko;Ribinsk;Rõbinsk;Ribinska
+Oxford|GB||9b|3zr|-3i|191|Oxnaford;Rhydychen;Oksfordo;Rhedicina;Rysoghen;Oxonia;Oksfordas;Oksford;Uxavað;Oxonium;Öxnafurða;Oxenford;Oxenaforda;Àth nan Damh;Oksforda;Oksfuords;Oxenaford;Oxneford
+Rybnik|PL||a5|3v6|1fi|13l|Ribņika
+Ryazanskiy|RU||9i|4at|2wx|s2
+Ryūgasaki|JP||7q|2rq|ate|nu
+Rechytsa|BY||9g|41g|2cf|hz|Retschyza;Rechysta;Rechitsa;Ryechitsa
+Rîbniţa|MD||8x|3op|28l|ff|Râbnița;Rybnica;Ribņica;Rıbnitsa;Rybnitsa;Rybniza
+Rybatskoye|RU||9i|4m8|2cq|fb
+Ryōgoku|JP||7q|2r8|atx|dt
+East Providence|US||48|385|-5i9|d6|Rytinis Providensas;Īstprovidensa;Đông Providence
+Ryūō|JP|Yamanashi|7q|2r1|aoq|c0
+Redruth|GB||9b|3vj|-ei|bv|Ryd Ruth;Resrudh
+Râmnicu Sărat|RO||8u|3i2|235|ap|Rymnik;Rümnick;Rimnik
+Dzierżoniów|PL||a5|3wx|1a9|9i|Reichenbach;Reichenbach in Schlesien;Rychbach;Reichenbach im Eulengebirge;Dzeržoņova;Dzeržoniuvas
+Riesa|DE||8r|3yj|10x|86|Ryzawa;Rīza
+Ryde|AU||8l|-2ly|bnr|7c
+Ryde|GB||9b|3wx|-38|6p
+Ryazhsk|RU||9i|457|33c|64|Rjazjsk;Rjaschsk;Riazhsk;Riajsk;Rjažsk;Rjaĵsk
+Rydułtowy|PL||a5|3v2|1f6|63|Ridultovi;Rydultovai
+Rybnoye|RU|Ryazan Oblast|9i|481|31r|5c|Rybnoje;Rybnoe
+Ryl’sk|RU||9i|3z9|2oc|4q|Rylsk
+Rypin|PL||a5|43f|1hx|4m|Ripina;Ripin
+Ryōtsu-minato|JP||7q|2xs|aok|4k
+Ryton|GB||9b|426|-6j|4h
+Rye|US|New York|48|35u|-5oo|4g|Ray
+Ryhope|GB||9b|48f|-3t|3w
+Ryonggang-ŭp|KP||7a|2zy|9oe|3q|Yonggang-ŭp
+Rîşcani|MD||8x|3p7|24l|3l|Rishkan;Ryshkany;Râşcani
+Ried im Innkreis|AT||a2|3px|11h|3b|Riad im Innkreis;Rydas
+Ryūō|JP|Shiga|7q|2pe|ai4|3a
+Rychnov nad Kněžnou|CZ||9m|3vc|197|39|Reichenau an der Knieschna;Richnovas prie Knežnos
+Rijkevorsel|BE||8t|3yn|d8|2y|Ryckevorsel
+Ryki|PL||a5|3zf|1ox|2o|Riki
+Rye Brook|US||48|35y|-5oo|2o
+Rye|AU||8j|-2yn|b69|2m
+Rye|GB||9b|3xj|21|2i
+Ryūmaichō|JP||7q|2ss|ara|2f
+Ryers|US||48|33a|-5sl|28
+Rijnsburg|NL||8m|40z|cc|28|Rynsburch;Reinsburgum
+Rychvald|CZ||9m|3uj|1f2|26|Rychwald
+Rýmařov|CZ||9m|3up|1bz|25|Rīmaržova
+Ryzdvyanyy|RU||9i|3hr|388|24|Ryzdvyany;Ryzdvjanyj;Ryzdvyannyy
+Rybnaya Sloboda|RU||9i|4a2|3va|20|Rybnaja Sloboda;Ribnaja Szloboda;Rıbnaya Sloboda
+Ry|DK||8y|4bt|r5|20
+Rydalmere|AU||8l|-2lx|bnk|1u
+Rzepin|PL||a5|41f|157|1t|Reppen;Rypin Lubuski;Žepina
+Rydebäck|SE||9w|4bh|zh|1n
+Rijmenam|BE||8t|3xo|cq|1m|Rymenam
+Rye|US|New Hampshire|48|3bh|-5gl|1h
+Ryazanskaya|RU||9i|3gw|31z|1g|Rjazanskaja;Riazánskaya;Riazanskaia;Rayazanskaya;Ryazanskoye
+Ryhill|GB||9b|44y|-3x|1g
+Rybalskyi Ostriv|UA||98|3w8|2ct|1c|Rybalskyi pivostriv
+Rybie|PL||a5|40v|1m6|15
+Rydal|US||48|2ne|-6jc|15
+Rytro|PL||a5|3th|1lf|11
+Rymanów|PL||a5|3tq|1or|10|Rimanova
+Rykove|UA||98|3kp|2oj|z|Partyzany;Orta Quyu;Rykowe;Rikove;Partîzanî
+Rybarzowice|PL||a5|3u5|1h2|y
+Ryabovo|RU||9i|4l0|2eh|x|Rjabovo;Rääpyä
+Rykhtychi|UA||98|3t7|1tg|w|Rikhtichi;Rykhtichi
+Richnava|SK||8s|3rx|1m4|w|Rychnava
+Ryn|PL||a5|45u|1nv|u|Rina
+Ryjewo|PL||a5|45k|1go|t
+Rychnov u Jablonce nad Nisou|CZ||9m|3ws|163|t
+Ryglice|PL||a5|3uk|1mq|s
+Ryomgård|DK||8y|4cm|t6|s|Ryumgård;Ryomgaard;Ryumgaard
+Rydzyna|PL||a5|3zv|1ab|r|Ridzina;Ridzin;Reißen
+Ryczów|PL||a5|3uu|1ib|q
+Rygge|NO||9j|4ky|tv|q
+Rybno|PL|Warmia-Masuria|a5|44a|1jd|q
+Ryggebyen|NO||9j|4ky|tv|o
+Rychwał|PL||a5|40n|1eh|o|Rihvala
+Camelford|GB||9b|3wm|-d0|n|Gafolford;Ryskammel
+Räpina|EE||9x|4he|24a|l|Rapino;Rapin;Ryapina
+Ryslinge|DK||8y|49g|ta|k
+Ryczywół|PL|Greater Poland|a5|42p|1ar|k|Ricziwoł
+Rymättylä|FI||92|4nq|1oy|k|Rimito
+Rytwiany|PL||a5|3wd|1mx|i
+Ryton on Dunsmore|GB||9b|41h|-3z|i
+Rybnoye|RU|Moscow Oblast|9i|4cp|2wi|i
+Rypefjord|NO||9j|5g8|1tr|h
+Rybakivka|UA||98|3li|2f4|g|Rybakovka
+Rycerka Górna|PL||a5|3tc|1gu|g
+Rydaholm|SE||9w|4ea|13r|g
+Rybitví|CZ||9m|3v2|17m|f
+Riga Quarter|UA||98|3z5|2df|f|Ryzkyi kvartal
+Rycerka Dolna|PL||a5|3tg|1gy|f
+Ryd|SE|Kronoberg|9w|4cv|14s|f
+Ryhall|GB||9b|42d|-1b|f
+Ryd|SE|Östergötland|9w|4iz|15w|e
+Rybach'e|UA||9t|3gd|2o4|e
+Rydsgård|SE||9w|4a3|11r|e
+Ryydynpohja|FI||92|4qx|1tq|e
+Rijkhoven|BE||8t|3x7|fb|d|Ryckhoven
+Rychtal|PL||a5|3y3|1dl|d
+Ryczywół|PL|Mazovia|a5|3zl|1ni|d|Ryczymół
+Ryder Lake|CA||5b|3se|-9ek|d
+Rybí|CZ||9m|3ts|1e8|d|Reimlich;Reimrich
+Rybne|UA||98|3qb|1y8|c|Rybno
+Riaske|UA||98|3sm|2oz|c|Ryasskoye;Ryazhskoye;Ryas’ke
+Rynhach|UA||98|3q7|20w|c|Rynhatch;Ryngach
+Rymań|PL||a5|45u|175|b|Roman
+Ryland Heights|US||48|308|-6im|a
+Richvald|SK||8s|3sw|1mv|a|Rychvald
+Rydboholm|SE||9w|4g5|zs|a
+Rybachiy|RU||96|497|1lx|a|Rossitten;Rybatsjij;Rasytė;Rybačij;Rossiten
+Rybachyi|UA||98|3k6|2kj|a|Rybachiy;Rybachyy
+Rybalche|UA||98|3l4|2hk|a|Rybal’che
+Rybotyn|UA||98|3z8|2jf|a|Rybotin
+Ryasnopil|UA||98|3mr|2en|9|Riasnopil;Rasnopol’
+Rylstone|AU||8l|-2j4|bkl|9
+Rymarivka|UA||98|3w5|2me|9|Rymarovka;Rymarevka
+Rybno|PL|Greater Poland|a5|425|1c1|9
+Rybkhoz|RU||9i|4az|2xx|9
+Rybczewice|PL||a5|3xr|1rh|8
+Rychliki|PL||a5|45z|1i9|8
+Ryan|US||2f|2mi|-7k4|8
+Ryptsjerk|NL||8m|43u|gg|8|Riperkerk;Rijperkerk
+Ryasno, Рясно, Расна|BY||9g|457|2d2|8
+Rybník|CZ||9m|3ul|19r|8
+Rõngu|EE||9x|4hj|20x|7|Ryngu
+Rynoltice|CZ||9m|3x3|156|7
+Rynholec|CZ||9m|3va|12o|7
+Rybniště|CZ||9m|3xc|14c|7
+Rysakovo|UA||9t|3it|2nd|7
+Rybnica|PL||a5|3xg|17e|7
+Ryssby|SE|Kronoberg|9w|4dz|13d|7
+Ryssby|SE|Jönköping|9w|4gc|14p|7
+Rysum|DE||8r|44a|jk|7
+Ryzha|UA||98|3pa|1xl|7|Ryja
+Rychwałd|PL||a5|3un|1m6|7
+Rynárec|CZ||9m|3t7|16b|7
+Rykene|NO||9j|4i9|o0|6|Rygene
+Ry|FR||9k|3tf|3q|6
+Rybno|PL|Mazovia|a5|414|1ju|6
+Rychnov na Moravě|CZ||9m|3uf|1a8|6
+Rybalske|UA||98|3j6|2av|6|Martaza;Rybal's'ke
+Rydbo|SE||9w|4l6|1ej|6
+Rychnovek|CZ||9m|3vw|18d|6
+Ryžoviště|CZ||9m|3uk|1c8|6
+Ryákia|GR||8p|348|1q7|6|Riákia
+Rymice|CZ||9m|3t2|1cp|6
+Rycroft|CA||2s|4av|-95s|6
+Rybno|PL|Mazovia|a5|421|1nh|5
+Rybno|PL|Pomerania|a5|47w|1e9|5
+Riadove|UA||98|3pz|2l5|5|Ryadove;Ryadovoye

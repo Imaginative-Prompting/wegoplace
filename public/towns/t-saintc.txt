@@ -1,0 +1,141 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Cloud|US|Minnesota|2f|3ik|-79k|ia|St. Cloud
+Saint Charles|US|Missouri|2f|2zq|-6zc|ia|St. Charles
+Saint Clair Shores|US||2q|3a2|-6e9|gl|Saint Clr Shores;St. Clair Shores
+Saint Croix|VI||53|1d9|-4zv|e2|St Croix;Santa Cruz;Sainte-Croix;Sancta Crux;Sanct Croix;Sainte Croix
+Saint-Chamond|FR||9k|3ic|cj|ak|Senšamona;Saint Chamond
+Saint Charles|US|Maryland|48|2z8|-5xq|a4|St. Charles
+Saint Cloud|US|Florida|48|26h|-69s|9s|St. Cloud
+Saint-Cloud|FR||9k|3rp|64|80|Sanctus Clodoaldus;Sen Klu;Senklū
+Saint-Constant|CA||59|3i1|-5od|7m
+Saint-Cyr-sur-Loire|FR||9k|3no|1v|4t
+Saint-Cyr-l'École|FR||9k|3rk|5r|4k
+Saint-Charles-Borromée|CA||59|3jx|-5o3|49
+Saint-Claude|FR||9k|3kv|ga|3g
+Saint-Cyr-sur-Mer|FR||9k|3by|fu|3e|Sant Ceri de Mar;St-Cyr-sur-Mer
+Saint-Canut|CA||59|3j0|-5ps|2y
+Saint-Claude|GP||31|18j|-4re|2t
+Saint-Cyprien-Plage|FR||9k|3af|8f|2m
+Saint-Charles|FR||9k|3ca|ey|2d
+Saint-Chamas|FR||9k|3cz|e0|1x|St Chamas
+Saint-Christol-les-Alès|FR||9k|3eg|bc|1p|Sent Cristòu dAlèst;Sent Cristòu dAlès;Saint Christol les Alès
+Saint-Césaire|CA||59|3i5|-5ms|1o
+Saint Clair|US|Michigan|2q|3ay|-6d5|1j
+Saint-Clément-de-Rivière|FR||9k|3dc|an|1g|Sant Clamenç
+Saint Clairsville|US||48|33c|-68q|1g|St. Clairsville
+Saint-Cannat|FR||9k|3d6|eq|1d|Sant Canat
+Saint Clair|US|Missouri|2f|2yj|-70q|1b|St. Clair
+Saint-Chéron|FR||9k|3qv|5w|1b
+Saint Catherine|EG||c|27c|2mb|1a|St. Catherine
+Saint-Chély-d'Apcher|FR||9k|3gg|94|16
+Saint-Calais|FR||9k|3p4|22|15
+Saint-Clair-du-Rhône|FR||9k|3i8|d9|13
+Saint-Céré|FR||9k|3gm|59|13|Sant Seren
+Saint Charles|US|Minnesota|2f|3e5|-73q|11|St. Charles
+Saint Columb Major|GB||9b|3w3|-dq|11|Saint Columb;St. Columb;St Columb;Synt Colom Veur;Synt Colom Gwartha
+Saint-Cyr-en-Val|FR||9k|3ov|5h|z
+Saint-Cézaire-sur-Siagne|FR||9k|3d9|iv|y|Sant Cesari de Sianha;Saint-Césaire-sur-Siagne
+Saint-Ciers-sur-Gironde|FR||9k|3ht|-1p|y
+Saint-Cast-le-Guildo|FR||9k|3r3|-6a|y|Sant-Kast-ar-Gwildoù
+Saint-Chef|FR||9k|3is|ew|x
+Saint-Clément|FR|Bourgogne-Franche-Comté|9k|3py|96|u
+Saint Clair|US|Pennsylvania|48|354|-5vn|u
+Saint-Christophe|IT||9o|3j3|kf|u
+Saint-Clair-de-la-Tour|FR||9k|3il|f8|t
+Saint-Cergues|FR||9k|3kf|hk|s
+Saint-Caprais-de-Bordeaux|FR||9k|3gb|-18|r|Sent Caprasi de Bordèu;Sent Caprasi
+Saint-Christophe-du-Bois|FR||9k|3mn|-2n|r
+Saint-Coulomb|FR||9k|3r8|-5b|o|Sant-Kouloum
+Saint Clair|NZ||ak|-3jk|d5k|o
+Saint-Côme--Linière|CA||59|3jz|-5fw|m
+Saint-Cyprien|FR|Auvergne-Rhône-Alpes|9k|3ih|br|m
+Saint Croix Falls|US||2f|3i5|-75c|l
+Saint-Contest|FR||9k|3sp|-14|l
+Saint Charles|US|Michigan|2q|3ca|-6hq|l
+Saint-Chinian|FR||9k|3cm|87|k
+Saint-Cosme-en-Vairais|FR||9k|3q3|1a|k|Saint-Cosme-de-Vair;Saint Cosme-de-Vair;Saint-Gosme-de-Vair
+Saint-Christoly-de-Blaye|FR||9k|3hd|-1f|k
+Saint-Christophe-du-Ligneron|FR||9k|3m2|-4w|j
+Saint-Cergue|CH||a7|3l1|h4|i
+Saint-Cyr-sur-Morin|FR||9k|3rv|8u|i
+Saint-Chaffrey|FR||9k|3gt|id|h
+Saint-Claude-de-Diray|FR||9k|3oa|3y|g
+Saint-Cyprien|FR|New Aquitaine|9k|3gn|2w|g
+Saint Clears|GB||9b|3zy|-ci|g
+Saint-Charles|CA||59|3iy|-5ob|f
+Saint-Crespin-sur-Moine|FR||9k|3mu|-3b|f
+Saint-Clément-de-la-Place|FR||9k|3o1|-23|f
+Saint-Cyr-sur-Menthon|FR||9k|3kk|dt|f
+Saint-Christo-en-Jarez|FR||9k|3ij|ch|e
+Saint-Christol|FR|Occitanie|9k|3dh|bc|e
+Saint-Chaptes|FR||9k|3e5|bw|d
+Saint-Cyrille-de-Wendover|CA||59|3jl|-5l7|d
+Saint-Carreuc|FR||9k|3qg|-7l|d|Sant-Kareg
+Saint-Ciers-d'Abzac|FR||9k|3h3|-s|c
+Saint-Caradec|FR||9k|3pv|-7x|c|Sant-Karadeg
+Saint-Cyr|FR|Auvergne-Rhône-Alpes|9k|3hp|d5|c
+Saint-Cyr-en-Bourg|FR||9k|3n4|-6|b
+Saint-Cernin|FR||9k|3h6|6q|b
+Saint-Cyr-sur-le-Rhône|FR||9k|3ig|dh|b
+Saint-Claud|FR||9k|3ji|1a|b|Sent Claud
+Saint-Crépin-Ibouvillers|FR||9k|3su|5s|b
+Saint-Clément-des-Levées|FR||9k|3nh|-i|b
+Saint-Christophe-Vallon|FR||9k|3fj|6p|b
+Saint Cyrus|GB||9b|4dq|-6q|b
+Saint-Cassien|FR||9k|3i0|ff|b|Saint Cassient
+Saint-Clément|FR|New Aquitaine|9k|3hy|4p|a
+Saint-Cyr-sous-Dourdan|FR||9k|3qx|5n|a
+Saint-Christophe-sur-le-Nais|FR||9k|3oa|1c|a
+Saint-Clar|FR||9k|3dx|25|a|Sent Clar
+Saint-Clair|FR||9k|3hs|d0|a
+Saint-Clar-de-Rivière|FR||9k|3cr|3e|a
+Saint-Christophe|FR||9k|3k7|-2n|a
+Saint-Christophe-sur-Dolaizon|FR||9k|3h0|am|a|Saint-Christophe-sur-Dolaison
+Saint-Christophe-en-Bresse|FR||9k|3lv|dv|9
+Saint Clare|AG||1j|1bg|-4rq|9|Sen Klier;Saint Claire
+Saint-Célestin|CA||59|3ke|-5l7|9
+Saint-Carné|FR||9k|3qi|-5r|9|Sant-Karneg
+Saint-Clair-sur-l'Elle|FR||9k|3sn|-2v|9
+Saint Clair|US|Minnesota|2f|3eg|-78q|9|St. Clair
+Saint-Corneille|FR||9k|3pj|y|9
+Saint-Clair-de-Halouze|FR||9k|3r8|-1r|9
+Saint-Cyr-les-Vignes|FR||9k|3iv|by|9
+Saint-Clément|FR|Grand Est|9k|3qt|ic|8
+Saint-Clair-sur-Epte|FR||9k|3sp|4o|8
+Saint-Cyr|FR|New Aquitaine|9k|3ls|18|8
+Saint-Cyprien-sur-Dourdou|FR||9k|3fr|6p|8|Saint-Cyprien-sur-Dourdon
+Saint-Clet|FR||9k|3r6|-8p|8|Sant-Kleve
+Saint-Cyr-de-Favières|FR||9k|3jp|bd|8
+Saint-Castin|FR||9k|3ci|-v|8|Sent Castin
+Saint-Ciers-de-Canesse|FR||9k|3h8|-1p|8
+Saint-Christophe-sur-Guiers|FR||9k|3i8|g1|8
+Saint-Christol|FR|Provence-Alpes-Côte d'Azur|9k|3eb|f9|8
+Saint-Cybardeaux|FR||9k|3j5|-3|8
+Saint-Cassin|FR||9k|3ii|gd|7
+Saint-Congard|FR||9k|3op|-6g|7|Sant-Kongar
+Saint-Clément-des-Baleines|FR||9k|3kf|-4a|7
+Saint-Cyr-du-Ronceray|FR||9k|3s9|u|7
+Saint-Cornier-des-Landes|FR||9k|3rc|-20|7
+Saint-Charles-de-Bourget|CA||59|3qx|-5i9|7
+Saint Combs|GB||9b|4g6|-5b|7
+Saint Charles|US|Iowa|2f|36p|-78l|7
+Saint-Cyr|FR|New Aquitaine|9k|3j8|2o|6
+Saint-Côme-et-Maruéjols|FR||9k|3dr|bo|6
+Saint-Cricq-Chalosse|FR||9k|3d9|-1w|6
+Saint-Constant|FR||9k|3g4|67|6|Saint-Constans
+Saint-Clément-Rancoudray|FR||9k|3r7|-2g|6
+Saint-Cyr|FR|Bourgogne-Franche-Comté|9k|3lo|dl|6
+Saint-Christophe-du-Luat|FR||9k|3pp|-1a|6
+Saint-Clément-sur-Valsonne|FR||9k|3jk|cd|6|Saint-Clément-sous-Valsonne
+Saint-Crépin|FR||9k|3g7|id|6
+Saint-Clair-sur-les-Monts|FR||9k|3tt|27|6
+Saint-Clément-les-Places|FR||9k|3j3|ca|6
+Saint-Christophe-des-Bardes|FR||9k|3gq|-c|6
+Saint-Ciers-du-Taillon|FR||9k|3i6|-1s|6
+Saint-Capraise-de-Lalinde|FR||9k|3gk|1t|6|Sent Grapasi de la Linda;Saint-Caprais-de-Lalinde
+Saint-Chartier|FR||9k|3ll|5i|5
+Saint-Chamant|FR||9k|3hd|5a|5
+Saint-Christophe-en-Brionnais|FR||9k|3kl|bm|5
+Saint-Cyr-des-Gâts|FR||9k|3ld|-2g|5
+Saint-Christophe-des-Bois|FR||9k|3pz|-3h|5|Sant-Kristol-ar-C'hoad
+Saint-Cyr-le-Gravelais|FR||9k|3pf|-2v|5

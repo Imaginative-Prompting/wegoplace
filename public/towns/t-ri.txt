@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rio de Janeiro|BR||4w|-1rn|-3by|1g2e|Rio-de-Ĵanejro;Rio de Žaneiras;Urbs Fluminensis;Riodežaneiro;Rio-de-Janeyro;Rio de Janeiru;rios. dis. djaneiros;Riviéthe dé Janvyi;Rio dé Janéyro;Rio-de-Žaneýro;Rio de Zhaneiro;Riu de Janeiru;Rio-de-Žaneiro;Rio de Janêro;Rio dė Žaneiros;Riu de Janeiro;Rio-de-janeiro;Rio d Janeiro
+Riyadh|SA||7e|1wl|3ls|wgc|Riad;Al-Riyad;Rijád;Ar-Riyāḑ;Riyad;Rijadas;Riade;Riadi;Rijāda;Ar-Riyod;Riaad;Rihad;Riadum;Riado;Ar-Riaad;Er-riyad
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Riga|LV||9n|4e7|1uz|5qa|Rigo;Riia;Riika;Ryga;Riqa;Reiga;Ríge;Riigaa;Rigg-a;Rija
+Ribeirão Preto|BR||4w|-1mu|-3ot|5e2|Ribeirão;Ribeiran Pretas
+Rizhao|CN||7i|2qd|981|53v|Nĭk-ciéu;Ž’-čao;Nhật Chiếu;Ji̍t-chiàu-chhī
+Kryvyy Rih|UA||98|3p3|2kr|4nr|Kryvyj Rih;Kryvyi Rih;Krywyj Rih;Kryvy Rih;Krivoy Roq;Kriví Rih;Krıvıy Rig;Krivoj Rog;Krivij Rih;Krõvõi Rig;Kryvyj Rihas;Krîvîi Rih;Krüvüy Rih;Krzywy Róg;Krivijriha;Kryvy Rig
+Ryazan’|RU||9i|47r|32a|45q|Riazań;Rjasan;Ryazan;Rjazaň;Resania;Rjazanj
+Leeds|GB||9b|45g|-4b|44z|Lidso;Lidsas;Līdsa;Ledesia;Lids;Loidis;Ritis
+São José do Rio Preto|BR||4w|-1lu|-3t6|3pg|Rio Preto;San Žozė do Rio Pretas
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+Rio Branco|BR|Acre|4s|-rp|-58d|38j|Rio Brankas;Riu Branco;Riu-Branku;Riubranku
+Ribeirão das Neves|BR||4w|-1ix|-3eh|2oe
+Riverside|US|California|3p|2mb|-924|2g5|Riversaida;Riversayd
+Rufisque|SN||g|14w|-1bz|2a3|Rufisko;Riufiskas;Tëngéej;Riufiska
+Reno|US|Nevada|3p|31t|-98t|21e|Rīno;Rynas
+Riobamba|EC||33|-4n|-62i|21c|Rispampa
+Rishon LeTsiyyon|IL||6n|2gt|2on|201|Rishon le Ziyon;Rishon le Siyon;Rishon Letsiyon;Rishon Lsiyon;Rishon Le Zion;Rischon LeZion;Riszon le-Cijjon;Rishon LeZion;Risjon Letsion;Riŝon-Le-Ciono;Rishon LeZiyyon;Richon le Sion
+São José de Ribamar|BR||2w|-74|-3ee|200|São-José-do-Ribamar
+Richards Bay|ZA||o|-27y|2h0|1ya|Ricardusbaia;Richardsbaai
+Rivne|UA|Rivne Oblast|98|3wm|20w|1vr|Riwne;Równe;Rivno;Eractum;Rovno;Ruvne
+Rio Verde|BR||4w|-1dg|-3xh|1v3
+Lille|FR||9k|3wn|8i|1ub|Lila;Lilla;Lilo;Rijsel;Rysel;Insula;Lile;Lil;lil.;Lilis;Risel;Lill
+Thành Phố Bà Rịa|VN||6h|t6|89p|1tc|Bà Rịa;Tanh Fo Ba Ria
+Richmond|US|Virginia|48|2wb|-5z6|1qy|Ričmonda;Ricmondia;Ričmonds;Ričmondas;Riĉmondo
+Regina|CA||4q|3w5|-82m|1qw|Reĝino;Redžaina;Ridžaina;Rejina
+Rybinsk|RU||9i|4h9|2zw|1o7|Ribinsko;Ribinsk;Rõbinsk;Ribinska
+Richmond|CA|British Columbia|5b|3sl|-9i2|1mb|Ričmondas
+Richmond Hill|CA||59|3dv|-64o|1k4
+Rio Claro|BR|São Paulo|4w|-1q9|-3o4|1jy
+Rio Grande|BR||4w|-2gz|-40q|1j9
+Riohacha|CO||27|w2|-5mj|1g8|Rio de la Hacha;Riochacha
+Pinar del Río|CU||36|1qa|-6gi|1fy
+Poza Rica de Hidalgo|MX||41|1l1|-7iq|1fg|Poza Rica;Posa Rika
+Reggio Calabria|IT||9o|2xv|17i|1ep|Reggio di Calabria;Reggio de Calabre;Rhegium;Regio;Regio de Calabria;Reggio de Calàbria;Riggiu Calabbria
+La Rioja|AR||1p|-29p|-55q|1dp|La Riocha;Larjoha;Rioja;A Rioxa
+San Luis Río Colorado|MX||37|2i6|-8ut|1d3
+Rio das Ostras|BR||4w|-1ql|-38i|1ap
+Río Cuarto|AR||1n|-2k1|-4yr|17m|Rio Kuartas;Rio-Kuarto
+Santa Rita|BR|Paraíba|2w|-jr|-2p6|15n

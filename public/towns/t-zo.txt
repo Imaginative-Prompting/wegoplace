@@ -1,0 +1,294 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhongshan|CN|Guangdong|7i|1qk|8qy|tn7|Čung-šan;Chûng-sân-sṳ;Trung Sơn;Jongshen shehiri;Xiangshan;Žongšan
+Zoucheng|CN||7i|2qc|90x|8m7|Trâu Thành
+João Pessoa|BR||2w|-jr|-2ou|6b3|Ĵoan-Pesoo;Žoan Pesoa
+Joinville|BR||4w|-212|-3rp|54l|Žoinvilis
+Soyapango|SV||2u|123|-6vm|2jl|Sojapangas;Zoyapanco;Soyopango
+Deir ez-Zor|SY||69|2q6|33i|23i|Dayr al-Zawr;Der Ezzor;Deir Azzor;Deir el-Zor;Deir al-Zor;Dajr az-Zaur;Dair az-Zaŭr;Deir ez Zor;Dajr ez-Zaur;Deir ez Zoras;Deyrizor;Dayr az-Zawr;Dayr az Zawr;Dayr uz-Zur;Deir al-Zour;Dêrezor;Deir-es-Sor;Deyrez-Zor;Deir Zzor;Dayr az Zūr;Dayr al-Zor;Deir ez Zoar
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Zabrze|PL||a5|3vs|1g7|1he|Hindenburg;Zabže;Zobrze;Zabžas;Zabje;Zaborze
+Solingen|DE||8r|3y5|jo|19o|Zolingenas;Zolingene;Solich
+Zomba|MW||9|-16r|2q4|ww
+Zoetermeer|NL||8m|40m|ch|w6|Zeutermaer
+Zonguldak|TR||94|375|2gb|s9|Zonquldak;Songuldak;Zunguldak;Zonguldaq
+Zográfos|GR||8p|2xi|1u1|jq|Zografou
+Żory|PL||a5|3v1|1fy|hk|Sohrau;Žori;Žoros
+Horad Zhodzina|BY||9g|46a|26p|hi|Zhodzina;Żodino;Schodsina;Zhodino;Žodzina
+Lokoja|NG||u|lo|iq|gu|Zokoja
+Zouérat|MR||19|1r6|-yn|fc|Zuérate;Zuwirat;Zueratas;Zouîrât;Zoueïratt
+Żoliborz|PL||a5|417|1mb|e5|Zalbórz
+Zongo|CD||t|c2|1fn|dj
+Sombor|RS||8q|3j5|1h3|dh|Zombor
+Zouzhuang|CN||7i|2o4|93x|cn
+Keşan|TR||94|35i|21z|ce|Zorlanae
+Zouila|TN||1e|2qm|uq|cb|Zuila
+Zuénoula|CI||0|kn|-gt|c9|Zénoula;Zouénoula
+Zhovti Vody|UA||98|3qb|2l2|bp|Schowti Wody;Jovti Vody;Žovti Vody;Geltonieji Vandenys;Zjovti Vody;Jovti Vodî;Żółte Wody;Scholti Woody;Žovti Vodi;Zhovta Rika
+Zvolen|SK||8s|3qx|1h7|b2|Altsohl;Zwoleń;Zólyom
+Zorgo|BF||1a|y1|-1q|9u|Zorogo;Zorgho
+Sopot|PL||a5|478|1fk|9q|Zoppot
+Zuwarah|LY||1d|2jh|xk|9f|Zouara;Zuara;Zuwaraa;Zuwara;Zuáva
+Zug|CH||a7|3n1|no|8h|Zoug;Tugium
+Zouan-Hounien|CI||0|j8|-mt|88|Zoum Hounien;Zoun-Hounien
+Zolotonosha|UA||98|3tz|2h0|7q|Zolotonocha;Zolotonoša;Solotonoscha
+Zomin Shaharchasi|UZ||7g|330|5a0|7j
+Zouma|CN|Chongqing|7i|2cx|8d8|78
+Zou|CI||0|je|-lo|70
+Zottegem|BE||8t|3xb|al|6s|Sottegem
+Ząbki|PL||a5|419|1mn|6j|Zombki;Zombkai
+Zolochiv|UA|Lviv|98|3ud|1x6|6a|Złoczów;Solotschiw;Zolotchiv;Zoloçiv;Zolotsjiv;Zolotšiv;Zolotjiv;Zoločiva;Zoločiw;Zolocsiv;Zoločivas;Zołocziw;Zlochuv;Zlochev;Zolochev
+Zonhoven|BE||8t|3xn|ex|5j|Zoneve
+Zuhres|UA||98|3pd|2yb|4z|Zugres;Suhres;Zouhres
+Amorebieta|ES||9d|3c2|-7l|4y|Zornotza
+Zolder|BE||8t|3xq|er|4t
+Zossen|DE||8r|412|11d|4r|Sosny
+Solothurn|CH||a7|3n5|ky|4o|Soleure;Solura;Soloturno;Soletta;Solodurum;Soleura;Zoloturnas;Soloturn;Suleta;Solloturni
+Zola Predosa|IT||9o|3fl|v6|4g
+Zoukougbeu|CI||0|is|-j2|4a|Zoukougbe
+Ząbkowice Śląskie|PL||a5|3wj|1ap|46|Frankenstein;Ząbkowice Szląsczé;Zombkovice Slonske
+Żabianka-Wejhera-Jelitkowo-Tysiąclecia|PL||a5|476|1fl|41|Żôbiónka-Wejra-Jelëtkòwò-Tësąclatégò
+Zofío|ES||9d|346|-ac|40
+Zhovkva|UA||98|3v2|1ul|3v|Żółkiew;Schowkwa;Žovkva;Zholkva
+Zolote|UA||98|3ra|2z0|3m|Zolotoye
+Zouan|CI||0|i7|-l4|3l
+Zouma|CN|Chongqing|7i|29q|8da|3j
+Zorritos|PE||3o|-a8|-684|3f
+Myślibórz|PL||a5|430|15b|3d|Myslibužas;Misliboža;Żôłdzëno
+Zofingen|CH||a7|3nd|m3|39|Zofingue;Zofingo;Zofinguen
+Zonnebeke|BE||8t|3xb|8b|38|Zunnebeke;Sonnebeca
+Zoualet|MA||d|2ma|-f7|32
+Someren|NL||8m|3yr|fv|2z|Zomere
+Zoroyo|CI||0|ge|-ih|2w
+Zhydachiv|UA||98|3t6|1v2|2w|Żydaczów;Schydatschiw;Zhidáchiv;Jydatchiv;Jıdaçiv;Žydačiv;Židačiva;Zjydatsjiv;Žõdatšiv;Žydačiw;Žydačivas;Zhidachev;Zhidechuv;Zhydachuv;Zhidachov
+Zoersel|BE||8t|3yf|d3|2s
+Zoukouboué|CI||0|jr|-iu|2p
+Zorleni|RO||8u|3kj|250|2n
+Zollikofen|CH||a7|3mk|kq|2j
+Zōshigaya|JP||7q|2r8|as4|2j
+Zorneding|DE||8r|3pk|wu|2e
+Zohoa|CI||0|hk|-h4|2d
+Zona Colonial|DO||4v|1fb|-5e5|2d
+Zorzor|LR||15|lm|-q7|2c
+Zounké|BJ||1b|ie|71|2b
+Zomergem|BE||8t|3y0|9w|2a|Somergem
+Zoutleeuw|BE||8t|3x7|e6|27|Zoutleew
+Zolochiv|UA|Kharkiv|98|3vn|2ry|25|Zoloçiv;Solotschiw;Zołoczow;Zolotsjiv;Zolotchiv;Zolochev
+Zovuni|AM||80|33r|3fn|23
+Zubtsov|RU||9i|4c2|2o3|22|Subzow;Zoubtsov;Zubcov;Zoebtsov;Zubcow
+Zouhounou|CI||0|id|-95|21|Zougounou;Zoungounou
+Zorynsk|UA||98|3qh|2za|1z|Zoryns’k;Zorinsk
+Zongolica|MX||41|1fv|-7hg|1x
+Zolakar|AM||80|33h|3i2|1t|Zolak'ar;Zolaqar
+Zougouzoa|CI||0|h9|-ib|1t
+Zonlé I|CI||0|kg|-ll|1t
+Zona Industriale|IT|Campania|9o|35h|13o|1q
+Zollikon|CH||a7|3ni|nt|1m
+Zogno|IT||9o|3j7|qu|1l
+Souanké|CG||a|5q|139|1l|Zouanké
+Zavoronezhskoye|RU||9i|42w|34n|1k|Zavoronezjskoje;Zovoronezhskoye
+Kayabağlar|TR||94|2xj|37r|1k|Zokayit
+Zoar|ZA||o|-2l2|1nk|1k
+Sotuta|MX||3z|1l8|-6v9|1j|Zotuta
+Zorya|UA||98|3jr|2ah|1j|Camcic;Zoria;Camcicu;Kamczyk;Sorja
+Zogbodoua|CI||0|fx|-hj|1g
+Zons|DE||8r|3y0|j0|1g
+Simmerath|DE||8r|3wk|hi|1g|Sömmert;Zömmert
+Żołynia|PL||a5|3vc|1pz|1f
+Zokoguhé-Didéguhé|CI||0|jn|-hy|1f
+Zoo|DE||8r|41i|r5|1d
+Zolotukhino|RU||9i|40p|2t2|1d
+Zoumi|MA||d|2oo|-eu|1c|Zumi
+Zasechnoye|RU||9i|43j|3h8|1b|Zasetsjnoje;Zosechnoye
+Zozutla|MX||41|1g3|-7j9|18
+Zokolilié|CI||0|g0|-fo|17
+Zolotarovo|UA||98|3pu|1ta|17|Ötvösfalva;Zolotareve;Zolotariovo;Zolotar'ovo;Zolotarevo
+Zongozotla|MX||41|1ji|-7jh|17
+Zonnemaat|NL||8m|409|gu|17
+Zoola Danangoro|CI||0|jy|-gg|16
+Zoeterwoude-Dorp|NL||8m|40s|ci|16
+Zollikerberg|CH||a7|3nj|nw|16
+Zörbig|DE||8r|3zf|xo|15
+Zolling|DE||8r|3ql|wp|14
+Zorofla|CI||0|k4|-he|14
+Zortéa|BR||4w|-249|-3z8|13
+Soyatitán|MX||41|199|-74q|13|Zoyatitan
+Zohor|SK||8s|3q8|1b6|12|Zahor
+Zóquite|MX||41|1rb|-7wi|12
+Zolotkovo|RU||9i|4a9|367|11
+Zougounéfla|CI||0|lf|-gh|10
+Zébénou|CI||0|iy|-9x|10|Zobénou
+Zyryanka|RU||6z|52m|bn5|10|Syrjanka;Zyrjanka;Zyrianka;Zirjanka;Zırânka;Zõrjanka
+Zornheim|DE||8r|3ul|mu|10
+Zouzoua|CI||0|i8|-hn|z
+Zogouiné|CI||0|jq|-m6|z|Zougouiné
+Zonderwijk|NL||8m|3yt|ez|y
+Zotirpada|IN||6t|1fn|5n2|y
+Zonal’noye|RU||63|42b|6jy|x|Zonalnoje;Zonal’naya
+Zozocolco de Hidalgo|MX||41|1jy|-7j2|w
+Zouata|CI||0|kr|-kf|v|Zouaté
+Zozo Oliziriboué|CI||0|fx|-fs|u|Zoro Oliziriboué
+Zoandié|CI||0|la|-kc|t
+Zoquitlán|MX|Puebla|41|1ey|-7hi|t
+Zona Urbana Ejido Isla Mujeres|MX||2b|1my|-6p9|r
+Zopoco|MX||41|1j4|-7vk|q
+Zoatecpan|MX||41|1jd|-7j6|q
+Zolotoye Pole|UA||9t|3hd|2p7|p
+Zonneu|CI||0|jx|-mf|p
+Zoupleu|CI||0|la|-mf|p
+Zona 179|IT||9o|35w|17e|p
+Zonūz|IR||7o|2z7|3jb|p
+Sontecomapan|MX||41|1fe|-7c0|o|Zontecompapán;Zoutecomapan
+Zougoussou|CI||0|j8|-fi|o
+Zobia|CI|Sassandra-Marahoue|0|il|-ig|o
+Zolotyi Potik|UA||98|3rv|1ye|o|Potok Złoty;Zolotîi Potik
+Zoerle-Parwijs|BE||8t|3xx|dj|n|Zoerle-Parwys
+Zomba|HU||8v|3kx|1fl|n
+Zotoltitlán|MX||41|1d8|-7nt|m
+Zoppola|IT||9o|3jp|zh|m|Copule
+Zougourouta|CI||0|ih|-g6|m
+Zorak|AM||80|33d|3fb|m
+Zougounou|CI||0|j3|-f7|m
+Zoagli|IT||9o|3f6|pr|l|Zoaggi
+Zoupangbeu|CI||0|iw|-it|l|Zoupangbe;Zoukpangbeu
+Zoccorino-Vergo|IT||9o|3iy|pp|l
+Żórawina|PL||a5|3xm|1bc|l|Żórawin;Żurawina;Zurawin
+Zoba|CI||0|k9|-lj|l
+Zonno|GH||1|ty|-26|k
+Afiny|UA||98|3ne|2wh|k|Zorya;Zoria;Zarya
+Żołędowo|PL||a5|43u|1e6|k
+Zollino|IT||9o|33p|1ep|j|Tzuddhino
+Zomplou|CI||0|ie|-mn|j|Zompleu
+Zonza|FR||9k|37z|ph|j
+Zoziv|UA||98|3t0|28l|j|Sosiw;Zozov
+Zozocolco de Guerrero|MX||41|1ju|-7j1|j|Kalaxuxni;Zozocolco
+Zoboua|CI||0|im|-i8|i
+Zolfo Springs|US||48|24d|-6b8|i
+Zolotnyky|UA||98|3sx|1yi|i|Solotnyky;Zolotniki;Złotniki
+Zorita|ES||9d|315|-fu|i
+Zocca|IT||9o|3f7|uj|i
+Zohouéleu|CI||0|jm|-mp|h|Zohouoileu;Zohouélé
+Zoravan|AM||80|344|3fo|h|Pokravan
+Zoquiapan|MX||41|1ho|-7ml|h
+Zouzousso II|CI||0|lq|-l9|h
+Zorlesco|IT||9o|3hk|qq|h
+Zöblitz|DE||8r|3wq|10r|h
+Zona Urbana Ejidal|MX||41|1fh|-7gb|h
+Lyman|UA|Odesa|98|3iv|2am|g|Zolokari
+Zol’noye|RU||9p|44g|3uc|g|Zolnoje
+Železná Ruda|CZ||9m|3si|10s|g|Markt Eisenstein;Žolezná Ruda
+Zangokro|CI||0|lt|-fh|g|Zoungokro
+Zédékan|CI||0|l7|-fh|g|Zodékan
+Zongopleu|CI||0|js|-n0|f
+Zoukoubré|CI||0|hk|-h9|f
+Zothé|MX||41|1kl|-7p0|f|Xothé
+Zovreti|GE||7n|397|3bk|f|Zovret’i
+Zoquitlán|MX|Guerrero|41|1c6|-7mv|f
+Zovaber|AM||80|34p|3gf|f
+Zona Industriale|IT|The Marches|9o|3c6|11h|f
+Zougban|CI||0|le|-d7|f|Sougban
+Zolé|CI||0|k0|-mp|e
+Zoquiapa|MX||41|1cq|-7ns|e
+Zoumènè|CI||0|q9|-gb|e
+Zona Tenda|CV||84|162|-1te|e
+Zoquitipán|MX||41|1m3|-7lf|d
+Zou-Yahi|CI||0|hl|-mw|d
+Zoutelande|NL||8m|3z2|9o|d|Zoetelande
+Zozea|MX||41|1kr|-7o0|d|Zocea
+Tureň|SK||8s|3pv|1cb|d|Torony;Zonctorony
+Zopilotepe|HN||56|14k|-6nn|d
+Tsofit|IL||6n|2hf|2p0|d|Cofit;Tzofit;Zofit
+Zorești|RO||8u|3hi|226|d
+Zoyatitla|MX||41|1j2|-7jq|d
+Zolotarivka|UA|Donetsk|98|3pc|2y3|c|Solotariwka;Zolotarevka;Zolotorëvka
+Zougoussi|CI||0|hd|-dz|c
+Zocoteaca de León|MX||41|1a8|-7k8|c|Zocoteaca
+Zouar|TD||17|1ku|19x|c
+Zokoma|CI||0|ln|-lu|c|Zokomba
+Zorge|DE||8r|3zf|tj|c
+Zoutkamp|NL||8m|446|hi|c|Sâltkamp
+Zonianá|GR||8p|2q2|1wz|c
+Zokrodépié|CI||0|if|-hw|c
+Zorlenţu Mare|RO||8u|3i9|1p0|c|Zorlenţul Mare;Zorlenczmáre
+Zăuan|RO||8u|3n6|1qy|c|Zovány;Szilágyzovány
+Zolonquiapa|MX||41|1fm|-7lp|c
+Zone industriel Ducos|NC||b8|-1ps|cud|c
+Zotro Darra|CI||0|j9|-n0|b
+Zoyatlán|MX||41|1af|-7m9|b
+Zelocotitlán|MX||41|1ch|-7nb|b|Zolocotitlán
+Zorkino|UA||9t|3ij|2of|b
+Zorile|RO|Giurgiu County|8u|3fa|1zp|b
+Zotoluca|MX||41|1ih|-7ln|b|Veloz
+Zoh-Laguna|MX||3z|1fn|-6we|b|Álvaro Obregón;Zoh Laguna
+Zöschen|DE||8r|3yo|xo|b
+Zoyotla|MX||41|1jd|-7jd|b
+Zodri|CI||0|jg|-lk|a
+Zona Militar|CV||84|1ay|-1xf|a
+Zoquiopan|MX||41|1jl|-7j4|a|Zoquiapan
+Zoelen|NL||8m|407|f0|a
+Zoldo Alto|IT||9o|3ku|xp|a
+Zoyatla de Guerrero|MX||41|1ke|-7kl|a
+Zoquitipa|MX||41|1cq|-7ni|a
+Zörnigall|DE||8r|403|zg|a
+Sotk|AM||80|33o|3jf|9|Zod;Sot’k’;Sotq;Sodk’
+Zorakan|AM||80|36i|3gu|9|Verin Kyurplu;Kyorpili;Korplu;Kyorplu
+Zobia|CI|Sassandra-Marahoue|0|i0|-ic|9
+Zorile|MD||8x|3nu|27u|9
+Zopo Norte|MX||41|1d0|-74q|9
+Zorbau|DE||8r|3y7|xe|9
+Zone|IT||9o|3j4|s4|9
+Zorivka|UA||98|3ue|2hk|9
+Xoyatla|MX||41|1g3|-7lb|8|Zoyatla
+Zug|EH||k|1nx|-136|8|Zoûg;Sug
+Zorykivka|UA||98|3t8|32o|8|Zorikovka;Zorynivka
+Zovk|AM||80|33p|3g5|8|Zovq
+Zona Laurin|IT||9o|3lo|uy|8
+Żółkiewka|PL||a5|3xf|1rf|8
+Zocohuite|MX||41|1p5|-7ne|8
+Zona P.E.E.P.|IT||9o|3ad|132|8
+Zöbing|AT||a2|3qp|17l|8
+Zompantle|MX||41|1dc|-7pt|8
+Zoloti Prudy|UA||98|3rd|2uu|7|Soloti Prudy;Zoloti Prudi
+Zonzonapa|MX||41|1lh|-7lg|7
+Zoyacuautla|MX||41|1ie|-7ga|7|Soyacuautla
+Zöschingen|DE||8r|3r7|sp|7
+Zovenj|IR||7o|2q7|3l8|7
+Zöbern|AT||a2|3nz|18t|7
+Zöllnitz|DE||8r|3xb|wc|7
+Zodji|CI||0|gq|-av|7
+Zogbeu|CI||0|iv|-n1|7
+Zölkow|DE||8r|44s|wu|7
+Zona Artigianale Foroni|IT||9o|3hy|tu|7
+Zontecomapa|MX||41|1c4|-7ml|7
+Zontecomatlán de López y Fuentes|MX||41|1lo|-7l6|7
+Zolongo|CI||0|na|-98|7
+Zorile|RO|Constanța County|8u|3eg|25l|7
+Zoquitlán Viejo|MX||41|1gb|-7hl|7
+Zona Industriale|IT|Veneto|9o|3j0|vp|6
+Zotzenheim|DE||8r|3uj|m5|6
+Tzoncolco|MX||41|1g5|-7ht|6|Zoncolco
+Zodofouma|CI||0|nf|-me|6
+Zoljan|HR||a6|3ic|1e6|6
+Zolotarivka|UA|Kirovohrad|98|3s3|2jx|6|Zolotarëvka
+Zorile|RO|Caraș-Severin County|8u|3id|1pa|6
+Zolotarivka|UA|Luhansk|98|3rs|2yb|6|Zolotarëvka;Solotariwka
+Zoufftgen|FR||9k|3te|h1|6|Cousftgen
+Zonnemaire|NL||8m|3zn|az|6
+Zompeltepec|MX||41|1cs|-7n6|6
+Żółtnica|PL||a5|453|1ap|6
+Tzova|IL||6n|2ga|2pk|6|Tsova;Ẕova
+Zoueupleu|CI||0|k4|-ml|6
+Zonnegem|BE||8t|3xh|av|6
+Zopilostoc|MX||41|1da|-7pr|6
+Zoyatepec|MX||41|1c5|-7ok|6|Zoyaltepec
+Zotes del Páramo|ES||9d|39f|-fy|6
+Zorlești|RO||8u|3h9|1tw|6
+Zo|CI||0|mp|-l4|6
+Zoița|RO||8u|3hu|233|6|Joiţa
+Zoelmond|NL||8m|40a|er|6
+Zolotinka|RU||7x|4c2|9mu|5|Solotinka
+Zondveld|NL||8m|3z9|fg|5|Zandveld
+Zoatzingo|MX||41|1it|-7i5|5
+Zohuala|MX||41|1mz|-7lk|5|Sohuala
+Zoquitlanzacualco|MX||41|1ex|-7hj|5
+Zona de Granjas (Granjas Mica)|MX||37|24g|-8h6|5
+Zoodóchos|GR||8p|329|1lo|5|Zoodhókhos

@@ -1,0 +1,243 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Changzhou|CN||7i|2g9|997|pe5|Changtsjou;Csangcsou;Thường Châu;Čangdžou;Čchang-čou;Ĉangĝoŭo;Siông-chiu-chhī;Siòng-ciŭ;Čangdžov;Changchow;Ch’ang-chou
+Changsha|CN|Hunan|7i|26c|8pt|nvg|Ĉangŝa;Trường Sa;Cangzsah;Čchang-ša;Chhòng-sâ-sṳ;Csangsa;Changsja;Tn̂g-soa-chhī;Diòng-să;Čanša;Chansha
+Changshu|CN||7i|2fx|9be|cxv
+Changde|CN||7i|28n|8ma|b8u|Changteh;Čchang-te;Sòng-tet-sṳ;Čangdė;Thường Đức;Siòng-dáik;Siông-tek-chhī;Ch’ang-te
+Zhanjiang|CN||7i|1mz|8in|at3|Trạm Giang;Chankiang
+Handan|CN||7i|2tp|8u1|ahb|Hàm Đan;Chan-tan;Hàng-dăng;Hân-tan-chhī;Han-tan
+Changzhi|CN|Shanxi|7i|2si|8q7|9dh|Čchang-č;Ĉanĝi;Čangdži;Trường Trị;Diòng-dê;Tiông-tī-chhī;Chang-chi;Ch’ang-chih
+Changwon|KR||7h|2pv|9xg|7wx|Ch'angwŏn;Čangvonas;Cshangvon;Ĉangvono;Sangwon
+Hanzhong|CN||7i|2jw|89a|7rm|Chan-čung;Hán Trung;Háng-dṳ̆ng;Hàn-tiong-chhī;Han-chung
+Chandigarh|IN|Chandigarh|6t|2de|5xb|7hm|Čandígarh;Czandigarh;Čandigarchas
+Changzhi|CN|Shanxi|7i|2pt|8me|5eb|Ch’ang-chih
+Changning|CN|Shanghai|7i|2eq|9da|5d1
+Zhangjiakou|CN||7i|35a|8v3|5ce|Ĝanjakou;Trương Gia Khẩu;Čang-ťia-kchou;Diŏng-gă-kāu;Chang-kia-k’ou
+Changsha|CN|Guangdong|7i|1q6|8p0|5b6
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Zhangye|CN||7i|305|7r1|3wy|Trương Dịch;Diŏng-ĭk;Čang-jie;Changyen;Chang-yeh
+Chānda|IN||6t|1jf|64a|2j8|Ćandrapur;Chandrapur;Čandrapuras;Čandrapura
+Chiniot|PK||6q|2g4|5mq|2ge|Chinot;Chaniot
+Changyi|CN||7i|2ud|97n|2bx|Ch’ang-i
+Chandler|US|Arizona|4i|2kj|-8mo|20g|Čandleris;Çandler;Čandlera
+Changle|CN|Shandong|7i|2tz|963|200|Ch’ang-lu;Ch’ang-lo
+Changzheng|CN||7i|2es|9d5|1rv
+Chang-hua|TW||7l|1uv|9aw|1qy|Chang Hwa;Zhanghua;Jhanghua;Changhua
+Changhua|TW||7l|1uv|9av|1qy|Pasua;Chiang-hòa
+Chāndpur|BD||6a|1sj|6zt|1my|Chadpur
+Changam-ch’on|KP||7a|34t|9xq|1ll
+Changji|CN||7t|3e9|6qi|1j8|Sanji;Sanji Shehiri;Ch’ang-chi;Changki
+Changyuan|CN||7i|29o|85b|1fv
+Chandannagar|IN||6t|1ri|6th|1e6|Ĉandanagaro;Chandan Nagar;Chandernagor;Čandanagar;Čandarnagar;Chandernagore
+Fengcheng|CN|Chongqing|7i|2av|89e|1cs|Changshohein
+Chhatarpur|IN|Madhya Pradesh|6t|1x8|653|13h|Čatarpur;Chhattarpur;Chkatarpur;Chantarpur
+Mian Channun|PK||6q|2ck|5l0|12x|Mian Channu
+Ban I Chang|TH||62|123|7pi|xb|Ban Ichang
+Chanduasi|IN||6t|271|62u|va|Chandausi
+Taling Chan|TH||62|12a|7r2|t9
+Khanty-Mansiysk|RU||7z|4pg|5br|s7|Chanty-Mansyjsk;Khanty-Mansiïsk;Chanty-Mansijsk;Ĥanti-Mansijsk;Hantõ-Mansiisk;Hanty-Mansijsk;Chanty-Mansiejsk;Khanty-Mansijsk;Janty-Mansisk;Hanti-Manszijszk;Hantî-Mansiisk;Hantimansijska;Khanti-Mansisk;Xanti-Mansi;Chanty Mansijskas;Chanti-Mansiisk;Khanty-Mansisk;Hantı-Mansiysk;Xanti-mansiysk;Khanty Mansisk
+Chanthaburi|TH||62|z1|7vm|rq|Čanthaburis;Chantaburi;Chandha Buri;Chandaburi
+Dschang|CM||j|f4|rx|ro|Tchang;Djang;Dchang;Chang
+Changping|CN|Beijing|7i|33q|8yv|pw
+Çankırı|TR||94|34s|2le|p6|Chankiri;Changri
+Changqing|CN||7i|2tk|909|my|Changtsing;Ch’ang-ch’ing
+Changning|CN|Sichuan|7i|27e|83g|mk
+Chiang Rai|TH||62|1jb|7pb|lw|Cziang Raj;Čiangrajus;Çian Ray;Chang Rai;Chiengrai
+Changnyeong|KR||7h|2qq|9wy|kr|Ch’angnyŏng
+Zhangzhai|CN||7i|2o6|90v|ko|Chang-chai
+Chāndpur|IN|Uttar Pradesh|6t|28x|61f|kg
+Channapatna|IN||6t|z5|5yh|jz|Ĉannapatna;Channapatan
+Changtu|CN||7i|3au|9kq|jt|Chantu
+Saraburi|TH||62|14d|7sc|iu|Changwat Sara Buri
+Changli|CN||7i|32b|970|hx
+Changcheng|CN||7i|2s9|97t|hk
+Changle|CN|Guangxi|7i|1on|8fy|hg
+Changbai|CN||7i|372|9w4|g7|Chang-pai
+Changleng|CN||7i|27q|8xq|fo
+Changling|CN|Jilin|7i|3ez|9ke|fi
+Chaniá|GR||8p|2qn|1ur|ez|Ĥanio;La Canée;Hanya;La Canea;Hania;Càndia;Khaniá
+Chenārān|IR||7o|2tt|4k8|ez|Chanārān;Chinārān
+Zhangfeng|CN||7i|1v7|7jo|eu|Chang-feng
+Changanācheri|IN||6t|q8|5wm|ea|Changanassery;Changanacherry;Changanasseri
+Khagrachhari|BD||6a|1s7|73h|e0|Changrachhari;Khagrāchari
+Changdian|CN||7i|2om|8zu|du
+Changsha|CN|Chongqing|7i|2e4|8cu|d4
+Channarāyapatna|IN||6t|zv|5w7|b8|Chanzarayapatna
+Changyŏn|KP||7a|2y9|9ni|ay
+Channelview|US||2f|2aq|-7c7|an
+Chan Kasem|TH||62|12e|7re|al
+Changshouhu|CN||7i|2b3|89w|ai
+Changling|CN|Chongqing|7i|2dh|8dc|9q
+Jangheung|KR||7h|2oc|9sj|9l|Changhŭng
+Chand Chaur|IN||6t|1zh|6mb|9b
+Chanderi|IN||6t|1wn|612|97
+Chanika|TZ||h|-f2|2xm|8l
+Chandrapura|IN||6t|1tz|6n8|7m
+Chanpatia|IN||6t|22u|6iu|7j
+Chancay|PE||3o|-w5|-5yn|7i
+Chāndur|IN|Maharashtra|6t|1it|63x|7g
+Changsu|KR||7h|2r1|9u8|7d
+Cangkat Jong|MY||6v|b3|7sw|74|Changkat Jong
+Chāndor|IN||6t|1kh|5q8|71|Chāndwar
+Chanhassen|US||2f|3gm|-77t|71
+Changxin|CN||7i|2zf|87d|6z
+Chandauli|IN||6t|1y6|6fb|6y
+Changdao|CN||7i|2n0|84m|6n
+Chantilly|US||48|301|-5z3|6e
+Chandrakona|IN||6t|1r5|6r4|63
+Channagiri|IN||6t|12y|5ux|5x
+Chāndūr|IN|Maharashtra|6t|1lt|60m|5i
+Changloon|MY||6v|hv|7qz|59|Changlun;Canglun
+Chāndūr Bāzār|IN||6t|1n0|5zz|58
+Chanod|IN||6t|1kj|5ml|58
+Chandili|IN||6t|1hh|6fp|56
+Changuinola|PA||4g|q7|-6d8|50
+Changtan|CN|Chongqing|7i|2de|8do|4z
+Chanaje|IN||6t|1ge|5mn|4n|Chanje
+Changlong|CN||7i|2c7|8ad|4m
+Chāndāmeta|IN||6t|1pn|62p|4l
+Chānasma|IN||6t|1tv|5kb|4f
+Chandia|IN||6t|1tq|687|4f
+Changba|CN|Chongqing|7i|29h|8aj|49|Ch’ang-pa
+Cheung Sha Wan|HK||6i|1q1|8t4|46|Changsha Wan
+Chandāpuram|IN||6t|mo|5yw|42
+Chang’an|CN|Jilin|7i|3bj|a07|40
+Changtan|CN|Chongqing|7i|29j|8cm|40
+Chandla|IN||6t|1xn|66r|3k
+Channel Land|KY||2e|1hq|-69m|3i
+Channahon|US||2f|373|-6t3|3i
+Changba|CN|Gansu|7i|2kv|84v|3h
+Chandkapur|IN||6t|1n4|63q|3d
+Chandwā|IN||6t|1ts|6je|3c
+Chang’an|CN|Chongqing|7i|2dn|8gc|3c
+Khanskaya|RU||9i|3g4|330|35|Khanskaja;Chanskaja
+Chandūr|IN|Telangana|6t|1dn|60y|34
+Chantilly|FR||9k|3sn|6v|33
+Chandūr|IN|Telangana|6t|1b6|63m|31
+Chiang Saen|TH||62|1kc|7q1|30|Chang Saen;Chieng Sen
+Chāndarun|IN||6t|22t|5qi|2z
+Chêne-Bougeries|CH||a7|3kc|h7|2x|Châno-Bugeries
+Changchuan|CN||7i|2og|7zb|2s
+Chāndbāli|IN||6t|1lq|6oy|2r
+Chanteloup-les-Vignes|FR||9k|3s2|5n|2n
+Chantada|ES||9d|3ad|-ll|2l
+Chanute|US||2f|2wo|-7d6|2l
+Chandīman|IN||6t|2dd|5xm|2j
+Chanco|CL||4u|-2ra|-5lh|2i
+Chany|RU||75|49n|5x8|2h|Tsjany;Tšany;Čany;Csani;Çanı;Czany;Tsjani
+Chandrapur|IN|Gujarat|6t|1qs|5h4|2h
+Changping|CN|Chongqing|7i|2ck|8cp|2e
+Chantonnay|FR||9k|3lp|-2x|2c
+Chandler|CA||59|3qb|-4zo|27
+Chandrapada|IN||6t|1hs|5mg|26
+Changsheng|CN||7i|29j|8cw|25
+Changlingpi|CN||7i|1qs|8sp|25
+Chandrapur|IN|Chhattisgarh|6t|1ob|6f7|25
+Chantepie|FR||9k|3pl|-4i|24|Kantpig;Cantus Picae
+Chantongia|IN||6t|21r|7b1|23|Changtongya
+Chanal|MX|Chiapas|41|1aa|-74a|1y
+Kampung Cangkat Jering|MY||6v|da|7rs|1x|Changkat Jering
+Khandyga|RU||7w|4u1|agl|1w|Chandyga;Handyga;Handiga;Khàndiga
+Chandan Hola|IN||6t|273|5ye|1w
+Zhangwan|CN||7i|227|987|1u|Chang-wan
+Chanāri|IN||6t|1x8|6gs|1u
+Changlang|IN||6t|23d|7dx|1q
+Chandra|KM||ac|-xv|3fi|1k|Chanda
+Chañar Ladeado|AR||1n|-2kl|-4sc|1k
+Chandigarh|IN|Tripura|6t|1ta|71q|1k
+Chanal|MX|Chiapas|41|1ag|-74o|1k
+Chāndpur|IN|Odisha|6t|1je|6l9|1k|Chandapur
+Changé|FR|Pays de la Loire|9k|3pb|s|1j
+Chāngsāri|IN||6t|20y|72o|1i
+Changé|FR|Pays de la Loire|9k|3pm|-27|1g
+Chandrapur Baghicha|IN||6t|20w|73d|1f
+Chanhe|CN||7i|2l6|85i|1d
+Chāndil|IN||6t|1rs|6n1|1c
+Changgui|CN||7i|2fh|8ft|1c
+Chancelade|FR||9k|3hl|1v|15|Chancelada
+Channel-Port aux Basques|CA||50|3o5|-4ka|z|Port aux Basques;Channel-Port-aux-Basques
+Chaniers|FR||9k|3j0|-1k|z
+Chandler|US|Indiana|2f|2xo|-6qp|y
+Chandrai|IN||6t|1yn|5mm|w
+Chandler|US|Oklahoma|2f|2r6|-7h4|w
+Changqiao|CN||7i|22i|964|w|Ch’ang-ch’iao
+Chantraine|FR||9k|3pt|hw|v
+Channel Islands Beach|US||3p|2mw|-976|v
+Changata|MX||41|1er|-7rf|v
+Chandler|US|Texas|2f|2hr|-7d8|t
+Chanceaux-sur-Choisille|FR||9k|3nv|1z|t
+Changtun|CN||7i|31k|917|o
+Changar Talai|IN||6t|2fd|5wk|o
+Chan Cenote|MX||3z|1mb|-6ru|m
+Chanas|FR||9k|3hw|de|l
+Cantalupa|IT||9o|3gv|kd|l|Chantaloba;Cantaluva
+Khankendi|AZ||61|32m|3lv|l|Chankändi;Hankendi;Stepanakert;Xankendi;Khankendy
+Chañar Punco|AR||1m|-228|-53j|k
+Chanteloup-en-Brie|FR||9k|3rp|7m|j
+Changi Village|SG||7j|3v|80v|j
+Chantal|HT||4j|1ek|-5p9|i
+Changchi|CN||7i|2hc|88a|i|Ch’ang-ch’ih
+Channel Lake|US||2f|3a0|-6su|h
+Chanteheux|FR||9k|3r0|i5|h
+Chancy|CH||a7|3k7|gl|h
+Changsha|CN|Guizhou|7i|27p|86f|h
+Chandul|IN||6t|1qz|6sr|f
+Chanonat|FR||9k|3ix|8l|f|Chanonac
+Changy-les-Bois|FR||9k|3oy|7h|e
+Chandon|FR||9k|3k7|bp|e
+Chandler|AU||8c|-24f|btf|e
+Chambellan|HT||4j|1fj|-5qf|e|Chanbèlan
+Chantôme|FR||9k|3kx|4c|e
+Chanteloup|FR|Brittany|9k|3p9|-4h|d|Kantlou
+Chanteau|FR||9k|3p9|5h|d
+Chanu|FR||9k|3rd|-1w|c
+Geghanist|AM|Shirak|80|350|3ea|c|Golgat;Geghadir;Gexanist;Gholghat;Chanka;Gekhadir;Gekhanist
+Changra|ST||1c|z|il|c
+Chanac|FR||9k|3fj|9a|c
+Chantenay-Saint-Imbert|FR||9k|3lt|8u|c
+Kampung Cangkat Keruing|MY||6v|c6|7rp|c|Changkat Keruing;Changkat Kruing;Kampong Changkat Keruing
+Chancenay|FR||9k|3r7|dv|b
+Chantelle|FR||9k|3kg|8r|b
+Changis-sur-Marne|FR||9k|3s0|8e|a
+Chanos-Curson|FR||9k|3h6|do|a
+Chanzeaux|FR||9k|3na|-1s|a
+Chançay|FR||9k|3nt|2f|a
+Chanteloup|FR|New Aquitaine|9k|3lx|-1g|9
+Chanat-la-Mouteyre|FR||9k|3jb|8d|9|Chanat-la-Monteyre
+Chantemerle-les-Blés|FR||9k|3hc|dm|9
+Chaniotis|GR||8p|334|1ti|9|Chanioti
+Debet|AM||80|35o|3g1|9|Debed;Alereks;Khachigegh;Chanakhchi
+Chang’anying|CN||7i|20y|8ht|9
+Chanchen Primero|MX||2b|1ko|-6sd|9|Chanchen;Chan Chén
+Chan Chen|BZ||24|1f7|-6tm|9
+Chantenay-Villedieu|FR||9k|3p4|-g|8
+Canchayllo|PE||3o|-ws|-5uc|7|Canchaillo;Chancayllo
+Chantasco|MX||41|1mt|-7mb|7
+Chañe|ES||9d|36u|-cb|7
+Chanovice|CZ||9m|3t8|124|7
+Chandlers Hill|AU||8b|-2ph|ap2|7
+Chanteloup-les-Bois|FR||9k|3mt|-1w|7
+Chanay|FR||9k|3jt|g2|6
+Channay-sur-Lathan|FR||9k|3nw|q|6
+Chantrigné|FR||9k|3qi|-1l|6
+Chaneins|FR||9k|3k2|dh|6
+Chanavayita|CL||4u|-1lj|-5ez|6
+Changy|FR||9k|3k6|at|6
+Chan Pine Ridge|BZ||24|1e4|-6u2|6
+Chan X-Cail|MX||3z|1kk|-6su|6
+Chaniro (Xhaniro)|MX||41|1ir|-7wk|6
+Chan Santa Cruz|MX||2b|1ht|-6td|6
+Chanly|BE||8t|3v4|eb|6
+Chandpura|IN||6t|1u9|5yq|6
+Chandai|FR||9k|3rf|22|5
+Chanoz-Châtenay|FR||9k|3kb|dz|5
+Chan Laguna|MX||3z|1fc|-6yl|5|Chen Laguna
+Chandlerville|US||2f|339|-6yg|5
+Chanteix|FR||9k|3hv|4k|5
+Chânes|FR||9k|3kh|d8|5
+Chanaz|FR||9k|3j9|g3|5
+Chana|MX||41|1ax|-74w|5
+Chanac-les-Mines|FR||9k|3hq|52|5
+Chantignan|IT||9o|3j3|kl|5
+Chandiablo|MX||41|1hc|-81u|5

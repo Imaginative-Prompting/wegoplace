@@ -1,0 +1,94 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Qinhuangdao|CN||7i|32y|987|5v1|Chinxuangdaw shehiri;Tần Hoàng Đảo;Činhuangdao;Cjiņhuandao;Čchin-chuang-tao;Ĉinhŭangdaŭo;Cìng-huòng-dō̤;Chîn-hông-tó-chhī;Ch’in-huang-tao
+Cincinnati|US||48|30p|-6ir|2ef|Sinsinato;Cincinnatopolis;Sinsinati;Sinsinatis;Sinsinnati
+Sincelejo|CO||27|pu|-5tf|256|Sinselechas;Cincelejo
+Chingola|ZM||z|-yt|25g|1za|Čingola
+Chincha Alta|PE||3o|-119|-5vh|16j|Činča Alta;Hanan Chincha;Chincha
+Pécs|HU||8v|3k0|1en|14d|Fünfkirchen;Pecz;Päťkostolie;Pech;Cinquechiese;Pēča;Pečuh;Pėčas;Sopianae;Peč;Pečuj;Fuenfkirchen;Peçuy-
+Jinja|UG||q|18|2k8|pv|Džindža;Cinja;Jinga
+Chinhoyi|ZW||n|-1c9|2bw|p8|Činhojis;Chinoyi
+Chino|US||3p|2mh|-92x|ns|Čino Hilsas;Čino;Haltso
+Cinisello Balsamo|IT||9o|3ik|pl|l3
+Chino|JP||7q|2rz|anr|fo|Ĉino;Tino-chhī
+Cintalapa de Figueroa|MX||41|1ac|-78c|bt
+Chinsali|ZM||z|-ta|2h4|as|Çinsali;Chinsala
+Sinkassé|TG||w|uu|1|7h|Cinkassé;Sankassa;Sinkasé;Sankassé
+Cinco Saltos|AR||1s|-2zu|-592|7c
+Sintra|PT||99|2zs|-q2|7a|Cintra
+Chinoz|UZ||7m|35q|5b0|6l|Chinaz;Çinaz
+Çine|TR||94|2wh|25y|5x
+Cinkansé|BF||1a|uw|1|5i
+Cinco Ranch|US||2f|2am|-7e0|53
+Ciney|BE||8t|3vp|e6|44|Cînè
+Cinnaminson|US||48|334|-5sb|42
+Cinq Avenues|FR||9k|3ca|f0|3u
+Cinderford|GB||9b|3zy|-6y|3l
+Cinisi|IT||9o|2y0|10e|39
+Çınarcık|TR||94|34x|28w|24
+Chinarli|AZ||61|35a|3k3|21|Çinarlı
+Chynadiyovo|UA||98|3qp|1rf|1w|Tchynadiïovo;Szentmiklós;Tschynadijowo;Czynadijowo;Chynadiieve;Ĉinadijovo;Čynadijovo;Çınadiyovo;Ciînadiiovo
+Cintruénigo|ES||9d|38w|-50|1v|Zentroniko;Cintruénico
+Cinkota|HU||8v|3o0|1hf|1u
+Çinarlı|AZ||61|377|3mc|1t|Chinarly
+Cinquefrondi|IT||9o|2yq|18o|1o
+Chinchón|ES||9d|33i|-9i|1l|Ĉinĉono
+Ciríaco|BR||4w|-26q|-404|15|Ciniaco
+Cingoli|IT||9o|3ci|10p|y
+Cuichapa|MX|Veracruz|41|1g5|-7h3|w|Cinchapa
+Siegendorf im Burgenland|AT||a2|3oq|19y|u|Siegendorf;Cinfalva;Cindrof
+Cinq-Mars-la-Pile|FR||9k|3nj|1a|t
+Cintolese|IT||9o|3dt|u3|q
+Cintegabelle|FR||9k|3cb|49|p|Senta Gabèla
+Cinto Caomaggiore|IT||9o|3jb|zi|o
+Cinco de Mayo|MX|Durango|44|1uy|-82h|m
+Cinco de Mayo|MX|Sinaloa|3x|1zt|-8eo|m
+Cintsa Mouth West|ZA||o|-2j9|264|l
+Cinco de Mayo|MX|Puebla|41|1jx|-7j7|j
+Nagycenk|HU||8v|3o8|1ae|j|Groß-Zinkendorf;Großzinkendorf;Cinka;Cienka;Cienjka
+Çınarlı|TR||94|339|21b|i
+Cincu|RO||8u|3jk|1ww|i|Großschenk;Gross-Schenk
+Cinqueux|FR||9k|3t0|71|g
+Cintré|FR||9k|3pn|-57|g|Kentreg
+Cintalapa|MX|Chiapas|41|1b0|-71s|g
+Çınarlık|TR||94|36k|2tj|g
+Cinzano|IT||9o|3g5|m0|g
+Chunkiv|UA||98|3qz|1zq|e|Cincău;Tchounkiv
+Çınaraltı|TR||94|2vv|35i|d
+Çinik|TR||94|36f|2tb|d
+Cintei|RO||8u|3l0|1nx|c
+Cinco de Febrero|MX|Durango|44|1uw|-82a|b
+Çınarköy|TR||94|2wj|33e|b
+Cincinnatus|US||48|3a6|-5uu|b
+Cintra|AR||1n|-2hr|-4u1|b
+Cinco Señores|MX||41|1f1|-7ho|a
+El Yucateco|MX||3z|1el|-796|9|Cinco Presidentes
+Cintalapa|MX|Chiapas|41|16m|-75a|9
+Cinco Caminos|MX||41|1gs|-7o6|9
+Cinco de Febrero|MX|Campeche|3z|1ge|-6zr|8
+Cinque Strade-Cimpello|IT||9o|3jk|za|8
+Chinari|AM||80|35h|3im|8|Chinar;Çinari;Chinarli
+Cingia de' Botti|IT||9o|3h9|sk|8|Cingia de'Botti
+Cinco Pinos|NI||3s|10r|-6pb|8
+Cinciș-Cerna|RO||8u|3iy|1rl|8
+Cinco de Febrero|MX|Chiapas|41|1b7|-72t|8
+Cinco de Mayo|MX|Guanajuato|41|1me|-7qy|7
+Cinco de Octubre|MX||41|1k9|-7jt|7
+Çinçin|TR||94|2wt|254|7
+Çınarönü|TR||94|2wg|350|7|Çınarözü
+Cinco Palos|MX||41|1i6|-7hf|7
+Cinquegrana|IT||9o|2w3|14r|7
+Cinco de Mayo|MX|Puebla|41|1hg|-7ho|7
+Cinigiano|IT||9o|3b5|vn|6
+Cineto Romano|IT||9o|38t|100|6
+Kinvarra|IE||8z|43m|-ot|6|Cinn Mhara;Kinvara
+Cinco de Mayo|MX|Veracruz|41|1kf|-7ht|6
+Cinco de Mayo|MX|Durango|44|1vq|-808|6|San Angel
+Cincșor|RO||8u|3jc|1wz|6|Kissink
+Cinco de Mayo|MX|Nayarit|3x|1o9|-83x|6
+Cinco de Mayo|MX|Puebla|41|1f5|-7i7|6
+Cinco de Mayo (Agua Blanca)|MX||3x|1z7|-8dm|5
+Cintello|IT||9o|3ja|zq|5
+Cinctorres|ES||9d|34q|-m|5
+Çınardüzü|TR||94|356|2ek|5

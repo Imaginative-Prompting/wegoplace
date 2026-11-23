@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Mumbai|IN||6t|1gz|5mg|2pxi|Moembaai;Bombaj;Mumbajo;Bombaya;Bombay;Bombėjus;Mumbaja;Mumbay;Mumbaj;Bombaim;Mumbajus;Bombai;Dakbayan sa Bombay;Bůmbaj;mymbais;Numbai
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Moscow|RU||9i|4av|2wi|283o|Moskau;Moscou;Moscú;Moskvo;Moskou;Moskva;Mòskwa;Moscfa;Moskova;Moscó;Moscova;Moszkva;Mosca;Moskuas;Moscua;Maskva;Maskava;Moscovo;Mát-xcơ-va;Mosku;Mosko;Moskowa;Moskow;Moska;Matxcơva;Moskov;Moskovu
+Melbourne|AU||8j|-2x1|b6o|15xw|Melburno;Melbournum;Melburnas;Melburna;Melben;Melborns;Melburn
+Bangkok|TH||62|127|7r6|13dx|Bankoko;Bankokas;Banguecoque;Bancác;The City of Angels;Màn-kuk;Banqkok;Banghok;Bancocum;Bancoque;Bankok
+Chennai|IN||6t|10d|670|104b|Madrás;Ćennaj;Ĉenajo;Čennai;Csennai;Čenaj;Maderaspatanum;Čenajus;Çenay
+Madrid|ES||9d|34a|-aa|p4f|Madril;Madrit;Matritum;Madryt;Maidrid;Los Madriles;Makelika;Mairil;Mā-dáik-lī;Mâ-tet-lî
+Minhang|CN||7i|2ef|9d5|kym|Ming-hang
+Navi Mumbai|IN||6t|1gw|5mu|k28|New Bombay;Navi Moembaai;Novmumbajo;Nova Bombaim;Navi Mumbaj
+Mogadishu|SO||14|5o|3hy|jyo|Muqdisho;Mogadiŝo;Mogadisxo;Mogadischu;Mogadiscio;Mogadišas;Mogadiszu;Mogaidisiú;Mogadişu;Mogadixo;Moqadişo;Mogadiš;Mogadisjoe;Mogadisjû;Mugadiss;Mogadiss;Moukdicho;Mugadishu;Mugadiccu;Mogadixu;Mogadìsciu;Mogadiscium;Mogadisho;Mogandísio;Mogaadisiyo;Muqdishow;Mogadiisho;Muqdishu;Mogadish;Maqdishu;Magadiscio
+Medan|ID||6l|9y|7m3|j6n
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Mashhad|IR||7o|2su|4ll|hsw|Mashad;Maŝhado;Meszhed;Mexed;Maschhad;Masyhad;Meşhed;Mešheda;Meixad;Mešhedas;Maxhad;Maşat;Sanaabad;Alexandria
+Manaus|BR||3t|-8m|-4mq|h4k|Manáos;Manos
+Multan|PK||6q|2bw|5ik|gqr
+Mbuji-Mayi|CD||y|-h2|1tj|g7p
+Al Mawşil al Jadīdah|IQ||5z|2sx|3br|fxs
+Medellín|CO||27|hd|-5tx|ffk|Medeljino;Medelim;Medeljinas;Medeljina
+Benin City|NG||u|hm|fn|dr0|Benin-Stadt;Benin;Benim;Beninas;Benin by;Benin-stad;Beninurbo;Thành phố Benin;Ìlú Benin;Ciudad de Benín;Kota Benin;Benínborg;Benin Siti;Magaalaa Benin;Magaalada Benin
+Montréal|CA||59|3if|-5of|dlp|Mont-real;Monreyal;Mons Regius;Monrealis;Monreāla;Monreal
+Maracaibo|VE||2c|tk|-5ix|diu|Marakajbo;Marakaibas;Marakaypu;Marakaybo;Marakaaya
+Minsk|BY||9g|45q|24l|dfx|Minscum;Minszk;Minsc
+Mosul|IQ||5z|2sy|3bs|czi|Mossul;Mossoul;Mûsil;Mosoel;Musul;Moszul;Mausilium;Moussoul
+Ecatepec de Morelos|MX||41|1ig|-7n5|cp2|Ecatepec;Ekatepeko;Ecatepec Morelos
+Manila|PH||71|14k|9c2|ccg|Manilo;Manille;Manilla;Maynila;Menila;Manyl;Manillah;Mainile;Lungsod ng Maynila
+Makkah|SA||7e|1nj|32n|c6j|La Mecque;La Meca;Mekko;Mekao;Mekka;Mecca;A Meca;Meka;Meice;Mekkah;La Mecca;Meke;Meca;Mecka;Mekke;Mäkkä
+Mianyang|CN|Sichuan|7i|2ff|82s|byk|Mien-jang;Miên Dương;Mièng-iòng;Biân-iông-chhī;Myan’yan;Mien-yang
+Monrovia|LR||15|hi|-u0|bwh|Monrowia;Monrovio;Monrovija;Monrofia;Monroviya;Monrovii
+Munich|DE||8r|3pq|w6|bm2|Muenchen;München;Minhen;Munic;Mnichov;Munkeno;Monaco di Baviera;Munîh;Monachium;Miunchenas;Minhene;Monaco e Baviera;Munique;Monacum;Lungsod ng München;Myunxén;Minga;Mynihu;Munike;Monacu di Baviera;Munhen;Mnichow;Munix;Minche;Mònacu;Münegh;Monaco de Baviera;Minca
+Manhattan|US|New York|48|35a|-5ph|bh7|nyc;Manhatano;Mannahattan;Manatans
+Makassar|ID||70|-eb|97r|bdk|Makasaras;Makasar;Macassar;Makasser
+Madurai|IN||6t|rk|610|bb4|Maduraj;Madurajus;Mathurai;Madura
+Milan|IT||9o|3ia|pj|akz|Mailand;Milaan;Milà;Mediolanum;Mediolan;Milão
+Maoming|CN||7i|1o7|8k3|a3a|Mao-ming;Meu-miàng-sṳ;Mậu Danh;Bō͘-bêng-chhī;Chaozhou;Mâiu-mìng
+Madinah|SA||7e|1vz|321|a14|Medina;Medino;Mediina;Médine;Medyna;Mädinä;Medin;El Medina;Al Medina;Al Madina
+Montevideo|UY||45|-2oy|-4c3|9sz|Montevidėjas;Montevidéu;Muntividèu;Muntividëw;Urbs Montis Videi;Montevidiejos
+Maputo|MZ||11|-205|2ii|9ok|Lourenço Marques;Maputu;Mabuto;Mapouto;Mabutu
+Meerut|IN||6t|28i|5zv|9fs|Merath;Miratas;Mirát

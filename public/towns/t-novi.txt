@@ -1,0 +1,91 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New Taipei City|TW||7l|1xm|9de|uwc|New Taipei;Xinbei City;Nová Tchaj-pej;Neu-Taipeh;Novi Taipei;Nueva Taipéi;Nouveau Taipei;Nuova Taipei;Nieuw Taipei;Nowe Tajpej;Nova Taipé;Yeni Taipei;Novi Tajpej
+Novi Sad|RS||8q|3hp|1j4|1nu|Újvidék;Nowy Sad;Novisada;Neusatz;Nový Sad
+Novi Beograd|RS||8q|3gh|1kq|1ma|Novi Belgrade;Nový Bělehrad;Yeni Belgrad;Novbeogrado;Nowy Belgrad;Nova Belgrado;New Belgrade
+Novyy Urengoy|RU||7z|53k|5wv|q6|Novy Urengoy;Noviy Urengoi;Novi Urengoj;Nowy Urengoi
+Novi Pazar|RS||8q|3bu|1kz|nw|Yenipazar;Yeni Pazar
+Nowy Sącz|PL||a5|3tu|1li|ng|Neusandez;Újszandec;Novi Sonča;Naujasis Sončas;Nowi Sóncz;Nowy Sůncz;nowy.sontc;Neu Sandez;Neu-Sandec;Novy-Sonch
+Neuilly-sur-Seine|FR||9k|3rs|6b|h1|Neijī pie Sēnas;Noviliacum ad Sequanam;Neuilly sur Seine;Nöyi-sür-Sen
+Novi|US||2q|3a0|-6fw|gb
+Nowy Targ|PL||a5|3tg|1jn|9e|Naujasis Targas;Novi Targa;Nový Targ;Novyy Targ
+Neuchâtel|CH||a7|3mj|j9|9b|Neuenburg;Neŭŝatelo;Nôchâthél;Novicastrum;Nešatelis;Neyshatel;Neşatel
+Novyi Rozdil|UA||98|3tf|1v1|7v|Novyy Rozdil;Novi Rozdil;Nowyj Rosdil;Nowy Rozdół;Novyy Rozdol;Novyy Razdol
+Nowy Dwór Mazowiecki|PL||a5|41n|1lk|7o|Novi Dvora Mazovecka;Mazovijos Novy Dvuras
+Novi Ligure|IT||9o|3gc|of|78
+Novy Oskol|RU||9i|3x0|2x6|5u|Novyj Oskol;Novi Oskol;Nowy Oskol;Novo Oskol;Novyy Oskol
+Nyon|CH||a7|3ku|hc|4o|Noviodunum
+Nowy Tomyśl|PL||a5|41c|18t|48|Novi Tomisla;Neu Tomischel;Neu Tomiśl
+Noyon|FR||9k|3tq|8c|47|Noviomum;Noéyon;Nyon
+Novi Kodaky|UA||98|3qp|2p4|46|Novi Kaydaky;Novi Kaidaky;Novyi Kodak
+Novyi Buh|UA||98|3oh|2ib|46|Novyï Bouh;Novyy Buh;Novi Bug;Nowyi Bug;Novyy Bug;Novy Bug
+Novi Pazar|BG||9v|3cf|23k|3p|Nowi Pasar;Novi-Paza
+Nogent-le-Rotrou|FR||9k|3q8|2a|3n|Novigentum Rotroudi
+Novyi Melitopol|UA||98|3m5|2q5|3c|Novyy Melitopol’;Noviy Melitopol’
+Novi Travnik|BA||9r|3ep|1d2|2s
+Nowy Dwór Gdański|PL||a5|46l|1h4|2q|Novi Dvora Gdaņska;Nowi Dwór;Nowy Dwór;Nowy Dwn Gdanski
+Novi Grad|BA||9r|3h5|19i|2h
+Środa Śląska|PL||a5|3y4|1a4|2h|Stradau;Sroda Slonska;Noviforum
+Novi Sanzhary|UA||98|3t1|2nb|2a|Novi Sanjary
+Novi Kneževac|RS||8q|3jx|1ju|2a|Kanizsa;Rév-Kanizsa;Kis-Kanizsa;Torontál-Józseffalva;Törökkanizsa;Novi Kneĵevac;Kanisa
+Novi Petrivtsi|UA||98|3wn|2ck|25|Nowi Petriwzi;Nowi Petriwci;Novi Petrivți
+Novyye Lapsary|RU||9i|4br|3n5|24|Novye Lapsary;Nowyje Lapsary;Novıye Lapsarı
+Novyy Rogachik|RU||a4|3r8|3ee|24|Novij Rogatsjik;Nowy Rogatschik;Novyj Rogačik;Novıy Rogaçik;Nowyj Rogaczik;Novy Rogachik
+Novi Basy|UA||98|3xa|2ow|21
+Nogent-sur-Seine|FR||9k|3qp|9q|1p|Novigentum ad Sequanam
+Novi di Modena|IT||9o|3gp|ua|1l
+Novi Zagreb|HR||a6|3j6|18e|1e
+Novichikha|RU||63|411|6a3|19|Novitsjikha
+Novi Šeher|BA||9r|3fn|1e3|18
+Nowy Staw|PL||a5|46e|1gt|18|Nitëch;Novi Stava
+Novi Troyany|UA||98|3jm|286|16|Traianu-Nou;Traian;Nowi Trojany;Novi Troïany
+Nogent-le-Roi|FR||9k|3r5|49|15|Novigentum Regis
+Novi Banovci|RS||8q|3gw|1kc|14
+Novytsia|UA||98|3s0|1vl|10|Nowyzja;Novytsya;Nowica;Novîțea;Novitsa
+Novyye Zori|RU||63|43x|6fr|z|Novıye Zori;Novye Zori
+Nivillac|FR||9k|3o1|-6c|y|Nivilieg;Noviliacum
+Novi Vinodolski|HR||a6|3hd|153|x
+Novi Bilokorovychi|UA||98|3y0|25x|x
+Novi Slankamen|RS||8q|3hd|1k8|w
+Novi Karlovci|RS||8q|3h8|1k2|v|Novi Karlovec
+Novyi Yarychiv|UA||98|3um|1vi|s|Jaryczów;Nowyj Jarytschiw;Novyy Yarychiv;Nowyj Jarycziw;Noviy Yarychiv;Novyï Iarytchiv;Novyj Jaryčiv;Novıy Yarıçiv;Novîi Iarîciv;Novyy Yarychev;Jarychow
+Güssing|AT||a2|3mq|19c|r|Németújvár;Novi Grad;Guessing
+Novi Kozarci|RS||8q|3j6|1la|r
+Novi Žednik|RS||8q|3jm|1in|o
+Novigrad|HR||a6|3hw|11o|n|Aemonia Nova
+Noville|BE|Wallonia|8t|3v2|g0|l
+Novi Velia|IT||9o|33q|16h|k
+Nóvita|CO||27|ds|-5wt|j
+Novi Marof|HR||a6|3k8|19d|i|Novi Morof
+Noviglio|IT||9o|3i0|p5|i|Novilium;Novej
+Novki|RU||9i|4ck|365|g|Noviki
+Novigrad Podravski|HR||a6|3k0|1b3|g
+Novillars|FR||9k|3nc|h1|g
+Novi Itebej|RS||8q|3ik|1li|g
+Noville|BE|Wallonia|8t|3wq|ey|f
+Novi Broskivtsi|UA||98|3py|1ze|f|Broscăuții Noi
+Noville-les-Bois|BE||8t|3wg|du|e
+Novy|RU||9i|3gt|33l|d|Novi;Nowy;Novıy
+Novyi Svit|UA|Crimea|9t|3gj|2oz|c|Yañı Dünya;Novıy Svit;Paradyz
+Novi Chervyshcha|UA||98|3zb|1yk|c
+Novikovo|RU|Altai Krai|63|426|6ms|c
+Novi Chobruchi|UA||98|3m7|2bj|b
+Novi Martynovychi|UA||98|3vy|2i4|a
+Novi Borovychi|UA||98|409|2gi|a|Novyye Borovichi
+Novillero|MX||3x|1q6|-85i|a
+Noville-sur-Méhaigne|BE||8t|3wl|dl|a
+Novi Strilyscha|UA||98|3tk|1vs|9
+El Novillo|MX||41|1p6|-7vc|9|Novillo
+Novikovo|RU|Sakhalin Oblast|7f|3ks|b29|8
+Novi Strilyshcha|UA||98|3tk|1vs|8|Strzeliska Nowe;Strilyshcha;Novi Strllyshcha
+Jublains|FR||9k|3q2|-1e|7|Noviodunum
+Novīn|IR||7o|2pr|3ks|7|Nowīn;Novan;Navīn
+Novi Jankovci|HR||a6|3ho|1gi|7|Nove Jankovci
+Novi Kaplany|UA||98|3ka|29r|7|Cașpalat
+Novi Yarylovychi|UA||98|40j|2e5|7|Novyye Yarylovichi;Novi Iarîlovîci;Novaja Jaryłavičy;Novi Jaryłavyčy
+Novillas|ES||9d|38h|-3v|7
+Novi Drachyntsi|UA||98|3q6|1zf|6|Novi Dratchyntsi;Drăcineții Noi
+Hlapičina|HR||a6|3l8|19k|6|Lapány;Novi Dvori;Hlapčina
+Novi Mikanovci|HR||a6|3ht|1fn|5
+Novi Shompoly|UA||98|3m5|2dd|5|Novo-Shampoly
+Markt Neuhodis|AT||a2|3ne|19k|5|Városhodász;Novi Hodas
+Novillero 4ta. Sección|MX||41|1ep|-76n|5

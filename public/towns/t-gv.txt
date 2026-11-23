@@ -1,0 +1,26 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Kunming|CN||7i|1xk|7xc|19wy|Côn Minh;Kchun-ming;Khun-bêng-chhī;Kŏng-mìng;Kuņmina;Gvwnhmingz;Kunminq
+Guiyang|CN||7i|21u|88g|yrp|Guijangas;Quý Dương;Kuej-jang;Gŭijango;Kùi-iông-chhī;Gói-iòng;Queiyanga;Guyyan;Gveiyangz;Guijang;Quyinq;Kuei-yang
+Guayaquil|EC||33|-64|-65x|l0l|Gvajakilis;Guaiaquil;Gvajakila;Wayakil;Guaiaquilum;Guajakil;Gvajakilo
+Guilin|CN||7i|1y8|8ie|c4r|Quế Lâm;Kui-lìm-sṳ;Gveilinz;Kuej-lin;Gujlin;Kuei-lin
+Guadalajara|MX||41|1lg|-7z3|aow|Gvadalaharo;Gvadalachara;Ātemaxac;Guadalaxara;Gvadalahara;Qvadalaxara
+Guigang|CN||7i|1s8|8gf|8dr|Gói-gē̤ng;Kuej-kang;Kui-kóng-sṳ;Quý Cảng;Gveigangj;Kùi-káng-chhī
+Gwalior|IN||6t|20v|615|84w|Gválijar
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Guanare|VE||2c|p4|-5dp|v7|Gvanarė
+Guadalajara|ES||9d|34v|-8s|pz|Gvadalaharo
+Guanajuato|MX|Guanajuato|41|1me|-7ta|k2|Gvanachuatas;Pachtitlan;Guanaxuato
+Gwadar|PK||6q|1xs|4t5|jp|Gvadaras;Gvadar;Gwadur
+Gwanda|ZW||n|-1m6|28l|7f|Gvanda
+Gvardeysk|RU||96|47t|1mj|3n|Tapiau;Gwardeisk;Gwardiejsk;Gvardejsk;Gvardeiskas;Tepliava;Tapyau
+Hvardiyske|UA|Crimea|9t|3hc|2mi|3i|Gvardeyskoye;Hwardijśke;Gwardiejskoje;Sarabuz;Hvardiïske;Gvardeïskoïe;Hvardijske
+Elin-Yurt|RU||9i|3db|3gw|20|Gvardeyskoye;Gvardejskoje;Gvardeyskoe;Èlin-Jurt;Ali-Yurt
+Hvizdets|UA||98|3qy|1y8|j|Gwoździec;Hwisdez;Hvizdec';Hvizdec;Gvizdets;Hvizdeț
+Gvardinița|RO||8u|3fc|1sb|h|Gvardeniţa
+Gvat|IL||6n|2is|2pt|9|Gevat
+Gvarv|NO||9j|4kz|ph|9
+Vrginmost|HR||a6|3hz|183|9|Gvozd
+Hvardiiske|UA||9t|3in|2me|8|Gvardeyskoye;Aqçora;Ğijen Sofu
+Shahrak-e Maskūnī-ye Gawātar|IR||7o|1xw|4qu|7|Gwatar;Gvātar
+Gvardeyskoye|RU||96|47d|1lc|6|Gvardejskoje;Gwardeiskoje;Miulhauzenas;Gwardiejskoje;Gvardeyskoe;Gvardejskoe

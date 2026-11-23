@@ -1,0 +1,12 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bnei Brak|IL||6n|2h4|2or|1rw|Benei Beraq;Beney Beraq;Benai Beraq;Bené Berak;Bné Beraq;Bené Beraq;Bnei Berak;Bene Berakas;Bein Berak;Bnej-Brak;Bnei-Brak;Bené-Berac;Bnej Brak;Bney Brak
+Bni Bouayach|MA||d|2pj|-ao|5k
+Bni Drar|MA||d|2ou|-5j|3b|Beni Drar
+Bni Tajjit|MA||d|2hp|-9n|2l|Beni Tajjite;Beni Tadjit;Beni Tajit
+Bnei Ayish|IL||6n|2gb|2ok|1u
+Bni Hadifa|MA||d|2pa|-bi|o|Beni Hadifa
+Bne Re’em|IL||6n|2g9|2on|e|Bene Re’ém;Benei Reem;Bnei Re'em
+Bne Dror|IL||6n|2hm|2oy|d|Benei Dror;Bene Deror;Bnei Dror
+Bne Tsiyon|IL||6n|2hi|2ov|c|Bené Ẕiyyon;Bené Tsiyyon;Bnei Zion;Benei Tsiyon;Benei Zion
+Bne Darom|IL||6n|2ge|2od|b|Bené Darom;Bani Darom
+Bne ‘Atarot|IL||6n|2gy|2oz|9|Bené ‘Atarot;Bené Atarot;Benei ‘Atarot;Bnei Atarot

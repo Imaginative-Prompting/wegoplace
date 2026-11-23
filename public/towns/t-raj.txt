@@ -1,0 +1,83 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rājkot|IN||6t|1px|5gn|aqa|Radźkot;Radžkotas
+Raipur|IN|Chhattisgarh|6t|1mz|6ar|7xd|Rajpuro;Rájpur;Rayapura
+Rajshahi|BD||6a|1vp|6u4|5w4|Rampur Boalia;Rampur Baolia
+Rajpur Sonarpur|IN||6t|1qc|6tn|39w|Rajpur;Sonarpur;Sonarpur Rajpur
+Rajamahendravaram|IN||6t|1b9|6b6|2wj|Rajahmundry;Rajahmondry;Rajahmundri
+Raebareli|IN||6t|20v|69n|1fs|Rae Bareli;Rajbareli
+Rāj-Nāndgaon|IN||6t|1mm|693|19b|Raj Nandga;Rāj Nāndgaon
+Raigarh|IN||6t|1ou|6fo|15o|Rajgarh
+Bandar Bukit Raja|MY||6v|8l|7tr|14p|Bukit Raja
+Rajapalayam|IN||6t|q9|5zf|108|Rājapālaiyam
+Raja Jang|PK||6q|2eq|5q9|rs|Baja Jang
+Ratchaburi|TH||62|11m|7pa|po|Raçaburi;Rat Buri;Rajburi
+Rajpura|IN||6t|2co|5wr|pn|Kajpura
+Rājbirāj|NP||6r|21q|6oz|je
+Rājsamand|IN||6t|1xn|5p8|iu
+Rajin|KP||7a|39e|a1w|ie|Rasin;Najin
+Rājgarh|IN|Rajasthan|6t|27k|5tf|gg
+Rāzampeta|IN||6t|13g|63w|f1|Rājampet
+Rajgangpur|IN||6t|1po|6iy|ea|Rajagangapur
+Rajanpur|PK||6q|28u|5fd|e3
+Rāzām|IN||6t|1f9|6ge|bq|Rājām
+Rājgīr|IN||6t|1xj|6la|bk
+Rajapolah|ID||6l|-k2|8cj|b2|Radjapolah;Radjapoloh
+Rājula|IN||6t|1mg|5ig|ap
+Rajakilpakkam|IN||6t|zw|66p|aj
+Rājpīpla|IN||6t|1or|5o6|9u
+Rājāsan|BD||6a|1u9|6yr|9s|Rajason
+Rājākhera|IN||6t|22q|615|9d
+Rajauli|IN||6t|1wg|6li|8e
+Rājgarh|IN|Madhya Pradesh|6t|1up|5x5|89
+Rājūra|IN||6t|1iy|64g|89
+Rajaori|IN||6t|2kq|5qf|87|Rājauri
+Alirajpur|IN||6t|1py|5qk|7x|Rājpur;Ali Rajpur
+Rājaldesar|IN||6t|25v|5qv|7m
+Rājgarh|IN|Rajasthan|6t|23o|5wu|7i
+Rājgurunagar|IN||6t|1gf|5pa|6z
+Rajākheri|IN||6t|1ua|62v|6q
+Raychikhinsk|RU||7x|3uc|9zg|6l|Rajtsjikhinsk;Raitschichinsk;Raïtchikhinsk;Rajčichinsk;Raitxíkhinsk;Rajĉiĥinsk;Raičihinsk;Raychikhihsk
+Rājmahal|IN||6t|1xl|6rz|69
+Rajpur|IN||6t|1oy|5sq|5t
+Rayevskiy|RU||7z|466|48l|5l|Rajevskij
+Raja Pur Khurd|IN||6t|27k|5xz|5d
+Rijokri|IN||6t|277|5y8|5b|Rajokri
+Rājgarh|IN|Madhya Pradesh|6t|1r0|5s6|4r
+Rajopatti urf Kota Bazar|IN||6t|21u|6lj|42
+Rājāsingamangalam|IN||6t|qs|631|42
+Rāja Sānsi|IN||6t|2g4|5rs|3z
+Rājnagar|IN||6t|1x5|65z|3z
+Rājim|IN||6t|1m8|6bg|3x
+Rājāpur|IN|Uttar Pradesh|6t|1yj|69f|3w
+Rājur|IN||6t|1jv|635|3b
+Rajgamar|IN||6t|1q6|6e3|37
+Raj Pur Khurd|IN||6t|275|5yf|34
+Rājāpur|IN|Maharashtra|6t|1aa|5o8|2z
+Rajal Norte|PH||71|16w|9bq|2v
+Rāja Ranapur|IN||6t|1jq|6l2|2s
+Rājābhita|IN||6t|1ub|6nt|2g|Rajbhita
+Rayevskaya|RU||9i|3gk|2wc|2d|Rajevskaja
+Rajcë|AL||9y|365|1l6|2c|Rajca
+Rajo Khanani|PK||6q|1xe|5b9|25
+Rajec|SK||8s|3sd|1fs|1m
+Rajka|HU||8v|3pc|1bs|1g|Ragendorf
+Rajakylä|FI|Uusimaa|92|4nd|1xq|15|Råby
+Rajhrad|CZ||9m|3sd|1a4|15
+Rajakylä|FI|North Ostrobothnia|92|50r|1ym|13
+Rájec-Jestřebí|CZ||9m|3t9|1a8|11|Rājeca-Jestršebi
+Raja|SS||p|nj|1zc|11|Raga;Ragaa
+Rajcza|PL||a5|3tj|1h3|y
+Rājgarh|IN|Himachal Pradesh|6t|2dp|5yq|v
+Rajecké Teplice|SK||8s|3sh|1fx|u
+Rajince|RS||8q|39q|1oa|k|Rajnice;Raincë;Rajinca
+Rhayader|GB||9b|41a|-9r|i|Rhaeadr Gwy;Rajaderis
+Rajgród|PL||a5|459|1r3|h|Raigardas
+Rajhradice|CZ||9m|3sd|1a7|g
+Rajsko|PL||a5|3ux|1hb|e
+Ráječko|CZ||9m|3t7|1a8|e
+Raiding|AT||a2|3o5|19x|9|Doborján;Rajnof
+Rajić|HR||a6|3hu|1bj|8
+Rājūb|IR||7o|2ud|3wz|7|Rājū
+Rajevo Selo|HR||a6|3gs|1g6|7
+Rajani|IN||6t|1jt|5wg|6|Rajni
+Rajnochovice|CZ||9m|3t9|1dh|5

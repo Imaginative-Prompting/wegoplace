@@ -1,0 +1,50 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bucharest|RO||8u|3ff|20j|ehg|București;Bucarest;Bukareŝto;Bukarest;Bukurešť;Bucaresta;Bukareštas;Bukareste;Boekarest;Bukareszt;Bucareste;Bukureshta;Bükreş;Bukureshti;Buxarest;Bukarešta
+Budapest|HU||8v|3ny|1gw|dfm|Budimpešta;Boedapest;Budapescht;Budapeszt;Budapésht;Búdaipeist;Boedapes;Boudapès;Ofen-Pest
+Buda|HU||8v|3ny|1gv|3xp|Ofen;Altofen;Boeda;Budin;Budim;Akouinkon
+Burgas|BG||9v|3a3|24b|1mi|Bourgas;Boergas;Burgaz;Burqas;Burghaz
+Borås|SE||9w|4gc|zy|jx|Boerosia;Burosas;Burosa
+Buynaksk|RU||9i|3ay|3mx|hf|Buinaksk;Bujnaksk;Boejnaksk
+Boende|CD||t|-s|1m0|e4
+Boedo|AR||1l|-2o7|-4ia|de|Boedas
+Böblingen|DE||8r|3r8|p1|cv|Bilbonium;Boeblingen
+Bucha|UA||98|3wf|2bx|br|Boetsja;Butsja;Buča;Butscha
+Bulakamba|ID||6l|-j3|8eo|7m|Boelakamba
+Boeng Kak Pir|KH||78|w5|83d|6x
+Buinsk|RU|Tatarstan Republic|9i|48p|3q5|5n|Bouïnsk;Boeinsk;Bua
+Burshtyn|UA||98|3st|1wf|43|Bursztyn;Burschtyn;Bourchtyn;Burštyn;Boersjtyn;Bursjtyn;Hổ phách;Burştın;Burština
+Boeng Kak Muoy|KH||78|w6|83e|3v
+Boerne|US||2f|2ar|-7m9|3t
+Buchach|UA||98|3sa|1yj|3e|Buczacz;Butschatsch;Bučač;Butjatj;Bitshutsh;Boutchatch;Boetsjatsj;Butšatš;Bučačas;Bučača;Butsjatsj;Buceaci
+Boechout|BE||8t|3y4|ch|3d|Bouchout
+Bösel|DE||8r|438|m3|23|Böäsel;Boesel
+Böhlen|DE|Saxony|8r|3y8|yf|1y|Boehlen
+Boekel|NL||8m|3zc|fs|1j
+Bueng Na Rang|TH||62|18x|7q5|1d|Bung Narang;Boeng Narang
+Boé|FR||9k|3eo|1r|1b
+Boën-sur-Lignon|FR||9k|3j3|b5|w
+Büddenstedt|DE||8r|40x|um|v|Böönstidde;Böenste'e;Böenstidde
+Boé Sowada|CI||0|hn|-fr|u|Boé Sovoda
+Boe Yin Ka Lay|MM||7y|1bc|7fe|u
+Boeng Mealea|KH||78|11f|81j|r|Beng Melea;O Beng Mea Lea;Beng Mea Lea
+Boecillo|ES||9d|37e|-d2|q
+Bohechío|DO||4v|1g6|-5h7|n|Boechío
+Bœrsch|FR||9k|3qo|ko|n|Börsch;Bersch
+Boekhoute|BE||8t|3ye|ac|l
+Boeschepe|FR||9k|3x4|7i|l
+Boezinge|BE||8t|3xe|7x|l|Boesinghe;Boesynge
+Boe Ba|MM||7y|1a2|7g4|i
+Boëge|FR||9k|3kd|hs|g|Bouèjo;Bovitium
+Boelenslaan|NL||8m|43o|h2|c|Surhuisterveensterheide;Boelensloane
+Boet Din|MM||7y|19r|7f3|c
+Boe Hpyu Chaung|MM||7y|1a7|7f5|c
+Bovekerke|BE||8t|3xt|88|a|Bovenkerke;Boevekerke;Bovekercke;Bovenkercke
+Boeil-Bezing|FR||9k|3c2|-r|a|Buelh-Vesing;Buelh e Vesinc
+Boe|NR||b5|-1i|cvn|a
+Boekend|NL||8m|3yq|h0|9
+Böel|DE||8r|47t|r0|8
+Boeslunde|DK||8y|49m|vb|8|Boslunde
+Boëssé-le-Sec|FR||9k|3pp|1k|6
+Boevange-sur-Attert|LU||9c|3u9|gq|6
+Boësse|FR||9k|3mi|-1b|5
+Boerdonk|NL||8m|3z8|fn|5

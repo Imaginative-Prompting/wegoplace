@@ -1,0 +1,7 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Zandhoven|BE||8t|3y9|cy|3f|Santhoven
+Santhià|IT||9o|3i1|mp|29
+Saint-Hippolyte|FR|Occitanie|9k|3au|89|k|Sant Hipòlit de la Salanca
+Saint-Hélen|FR||9k|3qn|-5g|b|Sant-Haelen
+Saint-Hernin|FR||9k|3py|-a3|8|Sant-Hern

@@ -1,0 +1,95 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Aachen|DE||8r|3x2|gw|21o|Aquisgrán;Aquisgrà;Cáchy;Aix-la-Chapelle;Aquisgrana;Aquisgranum;Oochen;Aoke;Aken;Akwizgran;Aquisgrano;Åxhe;Oche;Āhene;Aquae Grani;Achenas;Aaxen;Akisgran;Axın;Achen;Aquisgrão
+Ooty|IN||6t|vp|5x2|1su|Udhagamandalam;Ootacamund;Utakamand;Udagamandalam;Udhagai;Udakamandalam
+Oldenburg|DE||8r|43m|mt|188|Oldenbourg;Ollnborg;Aldinborg;Ooldenbuurich;Oldenbörj;Oldemburgh;Aldenboarch;Oldemburgo
+Amsterdam-Oost|NL||8m|41f|dp|11q|Amsterdam East
+Ostend|BE||8t|3ya|85|j6|Oostenn
+Oosterhout|NL|North Brabant|8m|3zh|di|er
+Uozu|JP||7q|2u8|alo|cq|Uosu;Uozo;Oozu
+Osterholz-Scharmbeck|DE||8r|43v|of|8q|Oosterholt-Scharmbeek
+Oisterwijk|NL||8m|3za|ef|78|Oosterwijk
+Oostkamp|BE||8t|3y3|8z|5z|Oostcamp
+Oosterzele|BE||8t|3xj|ak|3o|Oosterzeele
+Oosterbeek|NL||8m|40f|g9|33
+Oosterpark|NL||8m|43u|ib|2y
+Oosteinde|NL||8m|418|dc|2x
+Oirschot|NL||8m|3z3|er|2w|Oorschot
+Oost-Souburg|NL||8m|3yy|a0|2w|Oostsoeburg
+Oodi|BW||m|-1w9|20b|2v
+Hooglede|BE||8t|3xm|8k|2r|Ooglee
+Oostzaan|NL||8m|41o|dk|2q|Eastsaan
+Oosterwolde|NL|Friesland|8m|437|hh|2k|Easterwâlde;Oosterwoolde
+Oostduinkerke|BE||8t|3y0|7g|2d|Ostdünkirchen;Ostdunkerque;Ostdunkerca;Ôostduunkerke;Oost-Dunkerke
+Oostakker|BE||8t|3xy|ah|27|Oostacker
+Oostrozebeke|BE||8t|3xg|9a|23|Oostroosebeke;Oostroozebeke
+Oostmalle|BE||8t|3yi|d5|1y
+Oye-Plage|FR||9k|3xm|5o|1l|Ooie
+Oodweyne|SO||14|q5|3h6|1j|Odweyne;Codweyne;Odweine;Oodweeyne;Odweina
+Oostham|BE||8t|3xy|ee|1h
+Oostvoorne|NL||8m|407|be|1a
+Unalaska|US||1h|45n|-cul|19|Iluulux̂;Iliuliuk;Oonalaska;Iluulax
+Ootmarsum|NL||8m|41l|j6|19
+Oostburg|NL||8m|3yl|9p|18|Wòstburg
+Oog in Al|NL||8m|40p|e4|16
+Oosthuizen|NL||8m|421|dw|12
+Oirsbeek|NL||8m|3xj|gf|10|Oeësjbik;Oorsbeek
+Oostnieuwkerke|BE||8t|3xi|8i|10
+Ooigem|BE||8t|3xd|9a|y
+Hoymille|FR||9k|3xl|6t|x|Hooimille;Ooimille
+Ooralea|AU||8c|-1mt|bib|w
+Oostermeenthe|NL||8m|42n|h1|v
+Oordegem|BE||8t|3xk|au|u
+Oostendorp|NL||8m|41p|g9|u|Oostdorp
+Oostburg|US||2f|3d6|-6rv|u
+Oosseld|NL||8m|40b|hj|s|Oosselt
+Oosteeklo|BE||8t|3y7|a9|r|Oost-Eecloo
+Otegem|BE||8t|3x5|9i|q|Ooteghem
+Oostrum|NL||8m|3z5|gq|o
+Oosterhout|NL|Gelderland|8m|404|g7|n
+Ooyerhoek|NL||8m|40t|ha|n
+Carlin|US||3p|353|-8yi|n|Óola Haagééd
+Oosterhoogebrug|NL||8m|43v|ic|m
+Oosterzij|NL||8m|423|d3|l
+Ooij|NL||8m|401|gi|l|Ooi
+Oosterland|NL||8m|3zh|b8|l
+Oostdorp|NL||8m|40v|c7|j
+Oosterhesselen|NL||8m|42j|io|h
+Oonoonba|AU||8c|-1hm|bbu|g|Oonoobah
+Crow Agency|US||2p|3io|-8ai|g|Óoetanéno
+Oosterblokker|NL||8m|42b|e8|g
+Oostkapelle|NL||8m|3z9|9v|f
+Ootischenia|CA||5b|3sw|-92s|d
+Oostvleteren|BE||8t|3xh|7m|c
+Oirlo|NL||8m|3z3|gs|c|Oorlo
+Oost-Vlieland|NL||8m|442|e3|c
+Oologah|US||2f|2t9|-7dv|c|Oolagah
+Oosterholt|NL||8m|420|gk|c
+Oorbeek|BE||8t|3x4|dl|c|Oirbeek
+Oolitic|US||38|302|-6od|c
+Oostelbeers|NL||8m|3yz|en|b
+Ooy|NL||8m|408|gu|b|Ooi
+Oosteind|NL||8m|3zg|dm|a
+Oosterwolde|NL|Gelderland|8m|41r|gd|a
+Ostereistedt|DE||8r|442|ph|a|Oostereis
+Moenkopi|US||4i|2sb|-8ky|a|Oozéí hayázhí;Moenkapi;Moencopie
+Oostwold|NL||8m|43s|jl|a
+Oosterend|NL|North Holland|8m|43h|dk|9|Oostereind
+Ooievaarsnest|NL||8m|3yu|f3|9
+Oosterzee|NL||8m|42v|g2|9
+Oosterend|NL|Friesland|8m|43i|fm|9|Easterein
+Oostwoud|NL||8m|42h|e5|9
+Oosterhuizen|NL||8m|40w|gp|9|Osterhuzen
+Oostwinkel|BE||8t|3y3|9t|8
+Qom Tappeh|IR||7o|2y6|3jt|8|Oom Tappeh;Qūm Tapeh;Qūm Tappeh
+Kykotsmovi Village|US||4i|2rn|-8ja|7|Oozéí Biyázhí
+Unalakleet|US||1h|4xf|-cen|7|Unalaklik;Ounalaklik;Oonalakleet;Unalachleet;Unalakhlit;Oonalaklik;Unalaklit
+Oost|NL||8m|3x4|fv|7
+Ooltewah|US||48|2pg|-6ka|7|Ooltawah
+Oostkerke|BE||8t|3yg|96|6
+Oostknollendam|NL||8m|41w|db|6
+Oosterstreek|NL||8m|42y|h4|6|Easterstreek
+Oosterbierum|NL||8m|43v|fb|6|Easterbierrum
+Oostdijk|NL||8m|3yw|bc|5|Eastdyk;Oôsdiek
+Oevenum|DE||8r|47z|np|5|Ööwenem;Övenum
+Oosterdokseiland|NL||8m|41i|dn|5

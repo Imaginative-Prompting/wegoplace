@@ -1,0 +1,399 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Suzhou|CN|Jiangsu|7i|2ey|9b0|1ftg|Tô Châu;Su-čou;Suĝoŭo;Sû-chû-sṳ;Sudžou;Sutsjou;Suchjou;So͘-chiu-chhī;Sŭ-ciŭ;Szucsou;Su-chou
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Sapporo|JP||7q|3bn|awn|f8a|Sapporum;Saporas;Saporo;Szapporo
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Stockholm|SE||9w|4kt|1e7|bou|Estocolmo;Stokholmo;Štokholm;Estocolm;Sztokhòlm;Estokolmo;Tukholma;Stokkhólmur;Stoccolma;Holmia;Stokholmas;Stokholma;Stokholmi;Stokgolm;Stócólm;Estocòlme;Stokolm;Stockholbma;Stoccholm;Stocólma;Stokkolma;Stuculma;Estocolmu;Stuokhuolms;Estokolma;Stockolm
+Shiraz|IR|Fars|7o|2a9|41x|9n7|Chiraz;Sjiraz;Şiraz;Xiraz;Ŝirazo;Širazas;Šīrāza;Sziraz;Schiras;Chimaz
+Srinagar|IN|Jammu and Kashmir|6t|2mp|5rt|9b4|Caspira;Szrinagar;Srinigar
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Samara|RU||9p|43t|3va|8z6|Kuibyshev;Kuybyshev;Kuibyschew;Samaro;Szamara;Samar
+Sofia|BG||9v|3am|1ss|8w6|Ulpia Serdica;Sofio;Sofiya;Sofija;Sofie;Szófia;Serdica;Sofja;Sofya;Sofii;Sóifia;Suofėjė;Sofijo
+Salem|IN||6t|wd|614|72u|Selam;Szálem
+Saratov|RU||9s|3z6|3jr|6ip|Saratow;Szaratov;Saratof;Saratuovs;Saretow
+Suez|EG||c|2b9|2id|5eb|Sues;Suess;Suecas;Süveyş;Suesia;Szuez;Suais;Suec
+Sarajevo|BA||9r|3dt|1f0|5dj|Saraxevo;Sarajeva;Sarajewo;Saraybosna;Szarajevó;Sarajevas;Sarayevo;Saarayego;Seraium;Serayevo;Sarayevu;Sairéavó;Sarajevs;Saraevo;Sarajevu
+Siping|CN||7i|3bw|9li|4ug|Ssupingkai;Sé-bìng;S-pching;Tứ Bình;Sù-pêng-chhī;Szepingkai
+Sukkur|PK||6q|24y|5ba|4cn|Sukuras;Szukkúr
+Sevastopol|UA||9t|3fx|2l4|486|Sewastopol;Sebastòpol;Sebastopoli;Sebastopolis;Akyar;Aqyar;Sivastopol;Sebastopolo;Szevasztopol;Aqjar
+Skopje|MK||9u|38o|1nj|3nx|Skopjo;Skoplje;Szkopje;Scupi;Escópia;Skopiye;Shkupi;Üsküp;Skopye;Scopia;Skopia;Skopie;Skoplie;Shkup;Skopeia;Usküb
+Seeb|OM||72|1tr|4hn|3mt|Síb;Szíb;Sybas;As Sib;As-Sib;Al-Sīb
+Szczecin|PL||a5|44f|14f|31v|Stettin;Štětín;Szczëtno;Stettino;Ščecina;Estetino;Stettin.;Ščecinas;Stettinum;Sztetin;Shchétsin;Şçetsin;Estettin;Šćećin;Shchechin
+Samba|AO||x|-oo|10o|2te|Szamba
+Simferopol|UA||9t|3gw|2mr|2lh|Symferopol;Sinferopoli;Akmescit;Aqmescit;Szimferopol;Sympheropolis;Sinferòpol;Aq Mečit;Oqmasjid
+Smolensk|RU||9i|486|2h1|2jo|Smolenscum;Szmolenszk
+Saransk|RU||9i|46i|3hh|2gk|Szaranszk
+Surgut|RU|Khanty-Mansia|7z|4q6|5ny|2bg|Soergoet;Sourgout;Surqut;Szurgut
+Sfax|TN||1e|2oi|tw|25y|Safakis;Sfaksas;Thaenae;Sfakso;Safakes;Szfaksz;Ṣfaqes;Sfaks;Şafāqis
+Sterlitamak|RU||7z|450|4bf|228|Stärletamaq;Sztyerlitamak
+Sumy|UA||98|3xg|2oo|1z9|Soemy;Soumy;Szumi;Sumî;Sumõ;Sumai;Sumio;Soemi;Sumae;Sumad
+Sari|IR||7o|2tk|43e|1yy|Szári
+Syktyvkar|RU||9i|4ra|3x6|1w3|Syktywkar;Sõktõvkar;Siktivkar;Siktifkar;Sziktivkar;Siktivkara
+Ivano-Frankivsk|UA||98|3rw|1wn|1u6|Ivano-Frankovsk;Stanislau;Iwano-Frankiwsk;Stanisław;Stanisławów;Stanislaopoli;Stanislaopolis;Sztanyiszló;Ivano-Frankivszk;Sztanyiszlav;Sztaniszlaviv;Ivano-Frankivs'k;Stanislav;Stanislavov
+Sylhet|BD||6a|1x6|737|1tu|Silôţ;Silhatas;Srihotto;Szilhet;Silhet;Sileţ;Silhatta
+Sousse|TN||1e|2rj|tk|1pl|Hadrumetum;Susa;Szúsza;Sussa;Susas;Sus;Souse;Sūsah;Soussa;Sousa
+Shakhty|RU||9i|3ok|33q|1ph|Schachty;Szachty;Ŝaĥti;Šahtõ;Sjachty;Shajty;Chakhty;Šachty;Şaxtı;Sjakhty;Šahty;Šachtos;Shakhti
+Chlef|DZ||3|2sh|3p|1dm|Ech Cheliff;Castellum Tingitanum;Šelifas;Szalif;asch-Schalif;al-Asnām;ash-Shalif;Hlef;El Asnam;aš-Šalif
+Sidon|LB||64|2l8|2q9|19g|Sydon;Saida;Sayda;Cidono;Sidó;Sidun;Szidón
+Szeged|HU||8v|3kh|1jz|18o|Segedin;Szeghed;Seghedin;Seghedino
+Salavat|RU||7z|44a|4bb|18f|Salawat;Salauat;Szalavat
+Souk Ahras|DZ||3|2st|m3|16n|Souq Ahras;Souk-Ahras;Szúk Ahrász;Suk Ahrasas;Suk Ahras;Suq Ahras;Tagaste;Suk Aharas;Suk Aras;Soukaras
+Siem Reap|KH||78|114|80i|12r|Ciudad de Siem Riep;Khett Siem Reab;Xiêm Riệp;Siĕm Réab;Siĕmréab;Siemreabas;Sziemreap;Siemrãp
+Sibiu|RO||8u|3j8|1v3|11b|Hermannstadt;Härmeschtat;Nagyszeben;Sybin;Szeben;Cibinium;Hermanştat;Hermestatt;Sibiň;Nagy-Szében
+Surat Thani|TH||62|pe|7nx|10o|Szuratthani;Surathanis;Surat Tani
+Satu Mare|RO|Satu Mare County|8u|3os|1ri|v9|Szatmár;Szatmár-Németi;Szatmárnémeti;Satu-Mare;Szathmar;Sathmar;Satmarinum;Satul Mare;Sătmar
+Sirte|LY||1d|2ep|1a3|tn|Syrte;Syrta;Surt;Surtän;Surtiän;Sirto;Surtas;Szurt;Sirta;Siirtee;Sirt;Sert
+Székesfehérvár|HU||8v|3n3|1f5|s8|Stolni Biograd;Albareale;Stoličný Belehrad;Alba Regia;Stuhlweißenburg;Sēkešfehērvāra;Sėkešfehėrvaras;Alba Regalis;Sekešfehervar;Fehérvár
+Solikamsk|RU||7z|4lr|4dm|s0|Szolikamszk;Usol’ye Kamskoye;Sol’ Kamskaya
+Subotica|RS||8q|3k2|1in|rs|Maria-Theresiopel;Szabadka;Subotiza;Zubotica;Maria-Theresianopel
+Šiauliai|LT||a3|4bd|1ss|rn|Šauļi;Szawle;Ŝjaulaj;Şyaulyay;Shawllay;Šiaulē;Shyaulyay;Shaulyay;Šiaulių
+Siverskodonetsk|UA||98|3ry|2yx|rj|Syeverodonets'k;Syevyerodonets’k;Sievierodonetsk;Sjevjerodoneck;Severodonjeck;Sjewjerodonezk;Sziverszkodoneck;Szjevjerodoneck;Severodonetsk
+Sarapul|RU||9p|4cw|45g|rg|Sarapoul;Sarapoel;Szarapul
+Soligorsk|BY||9g|42n|24i|qs|Salyhorsk;Salihorsk;Salihorskas;Saligorsk;Szalihorszk;Saļihorska
+Shkodër|AL||9y|38v|1i7|qk|Shkodra;Skadar;Szkodra;Škodra;İşkodra;Scutari
+Sarov|RU||9i|48n|3cc|og|Sarow;Szarov
+Essaouira|MA||d|2fj|-r5|nn|Mogador;Esauira;As-Shawirah;As-Sawíra;Medino de Esaŭiro;Essauira;Szavíra;Amegdul;Savira;Suvayr;Es Suira;Mogadar;Magador
+Suceava|RO||8u|3ob|20x|nf|Suczawa;Szucsáva;Sučava;Sucha
+Drobeta-Turnu Severin|RO||8u|3fz|1qx|m7|Drobeta Turnu Severin;Drobeta Turnu-Severin;Szörényvár;Drobeta;Drubeta
+Szombathely|HU||8v|3n7|1a6|lo|Savaria;Steinamanger;Sombotel;Sambotel;Sombathėjus;Sombathel;Sombathelj;Sabaria
+Shirbīn|EG||c|2eo|2fk|l5|Scharbin;Sherbin;Szirbin;Sharbīn
+Szolnok|HU||8v|3n2|1k4|jt|Solnoca;Solnokas;Solnok
+Sinnar|IN||6t|1j5|5pk|i5|Szinnár
+Shendi|SD||r|1ad|2kv|hp|Schandi;Šendis;Šendi;Chendi;Xendi;Szandi;Shandi;Shindî
+Smederevo|RS||8q|3g2|1m5|h8|Semendria;Szendrő;Smederevas;Semendire;Smederewo;Smedere
+Stryi|UA||98|3su|1u9|h2|Stryj;Strij;Stria;Sztrij;Stry;Stryy
+Shuya|RU|Ivanovo Oblast|9i|4dx|36z|gv|Schuja;Ŝuja;Chouïa;Şuya;Xúia;Sjuja;Șuia;Szuja
+Sérres|GR||8p|364|1tf|g7|Serrae;Serrai;Serez;Ser;Széresz;Seres;Serra
+Snizhne|UA||98|3pe|2zo|fg|Vasylivka;Śniažnoje;Sznizsne;Snischne;Śnieżne;Wasiliwka
+Šabac|RS||8q|3gb|1ip|fb|Szabács;Böğürdelen
+Severomorsk|RU||9i|5bv|2kt|ez|Siewieromorsk;Seweromorsk;Szeveromorszk;Sewjeromorsk
+Safaga|EG||c|22b|2ma|ew|Safadża;Szafaga;Būr Safājah
+Svyatoshyn|UA||98|3w6|2cb|eq|Szvjatosinszkij kerület;Szvjatosin
+Dunaújváros|HU||8v|3mg|1gm|dx|Sztálinváros;Pentela;Dunauivarošas;Duna Pentele;Stalinvaros;Dunapentele
+Salekhard|RU||7z|54t|551|do|Salechard;Saleĥardo;Salehard;Salechardas;Salejard;Szalehard;Saleharda;Salechardum
+Sidi Bouzid|TN||1e|2pc|qc|d8|Sídí Bú Zíd;Sidi-Bouzid;Szidi Bú Zid;Sidi Bu Zeyd;Sidi Bu Zajd;Sidi Bou Zid;Sīdī Bū Zayd
+Slavonski Brod|HR||a6|3hg|1e2|ci|Brod;Marsonia;Szlavónbród
+Sovetsk|RU|Kaliningrad Oblast|96|490|1os|c1|Tilsit;Sowetsk;Sovjetsk;Tilsa;Sovyetsk;Sovietsk;Tilžė;Sowieck;Sovețk;Sowjetsk;Szovjetszk;Tylża;Til’zit
+Sharypovo|RU||6u|4aa|6vs|bw|Sjarypovo;Scharypowo;Šarypovo;Charypovo;Ŝaripovo;Szarypowo;Xarípovo
+Shepetivka|UA||98|3ve|237|bc|Schepetiwka;Chépétivka;Šepetivka;Szepetówka
+Szczecinek|PL||a5|457|1ae|ap|Neustettin;Szczecënkò;Ščecinekas;Ščecineka;Neustettiu
+Schaffhausen|CH||a7|3oi|nz|a6|Ŝafhaŭzo;Schaffhouse;Sciaffusa;Szafuza;Scafusa;Schaffusa;Sciafüsa;Šafhauzenas;Šafhauzene;Shaffxauzen;Şaffxauzen;Schofhausen
+Odorheiu Secuiesc|RO||8u|3km|1ya|a5|Székelyudvarhely;Areopolis;Odorheju Sekujeskas;Odorheiul Secuiesc
+Shumerlya|RU||9i|4a6|3kx|9s|Schumerlja;Ŝumerla;Šumerlja;Sjumerlja;Choumerlia;Sjoemerlja;Xúmerlia;Xumerlya;Šumerl;Szumerla
+Slavuta|UA||98|3vq|22n|9r|Slavouta;Szlavuta;Sławuta
+Cherchell|DZ||3|2to|63|9k|Sersell;Caesarea Iol;Szarszal;Cercal;Iol Caesarea;Şerşel;Shershel;Cherchez;Shershell;Cherche;Cherchel
+Szekszárd|HU||8v|3kr|1fz|9i|Seksar;Seksardas;Seksard;Sechsard;Sechshard
+Sambir|UA||98|3tk|1sg|9i|Sambor;Szambir;Nowy Sambor;Sombor;Szambor;Pohonych;Pogonycz;Pogonicz
+Solomyanka|UA||98|3w3|2cl|91|Solomyanskyi Rayon;Szolomjanszkij kerület;Solom'ianka;Solom'yanka
+Šibenik|HR||a6|3dh|185|8n|Sebenico;Szybenik;Shibeniku;Sebenicum;Sibenning;Szebenikó
+Goleta|US||3p|2no|-98v|8l|Goélette;Szkuner;Schoner;Skonnert;Kuunari;Skonnorta;Schooner;Schoener;Škuna;Škuner;Skonert
+Shatura|RU||9i|4ad|31t|8d|Sjatura;Chatoura;Šatura;Szatura;Schatura
+Silistra|BG||9v|3ek|23q|87|Silistre;Durostorum;Szilisztra;Silistria
+Sosnogorsk|RU||9i|4wo|45p|85|Szosznogorszk
+Saky|UA||9t|3hd|2lc|7v|Saq;Sako;Szaki;Sakai;Sakî
+Szentes|HU||8v|3lm|1ka|7r
+Sisak|HR||a6|3ib|19i|7r|Siscia;Sissek;Sziszek;Sisek;Segesta;Sisseg
+Shakhtarske|UA||98|3qb|2t4|7o|Perchotravensk;Peršotravensk;Perschotravensk;Perschotrawensk;Schachtarske;Šahtarske;Chakhtarske;Szachtarśke;Šachtarske
+Szczytno|PL||a5|44s|1mb|78|Ortelsburg;Ščitno;Ščytnas;Szczyton;Ortel’sberg
+Shali|RU||9i|3bv|3ji|6y|Sjali;Chali;Šali;Xalí;Şela;Szali;Schali
+Szigetszentmiklós|HU||8v|3ni|1gw|6x|Szigetsentmiklos
+Slavutych|UA||98|3z4|2dc|6t|Slawutytsch;Slavoutytch;Slavutyč;Slavoetytsj;Slavutıç;Slavutõtš;Slavutytš;Szlavutics;Slavutich;Slavutyčius;Slavutiča;Slavutytsj;Slavutîci;Sławutycz;Slavutytj
+Gherla|RO||8u|3mn|1ug|6l|Szamosújvár;Armenopolis;Armenierstadt;Örményváros;Neuschloss
+Szentendre|HU||8v|3of|1h0|6k|Senandrija;Svätý Ondrej;Sentandreja
+Shoham|IL||6n|2gw|2p3|6k|Schoham;Szoham;Šoham
+Snina|SK||8s|3s3|1pj|66|Szinna;Snjina
+Sortavala|RU||9i|4rf|2db|5s|Sordavala;Sortawala;Sortaval;Szortavala;Sordovala;Sorravala
+Senta|RS||8q|3jl|1js|5n|Zenta;Szénta;Szintarév
+Senec|SK||8s|3py|1cc|5l|Szenc;Senets;Senjec
+Shusha|AZ||61|32g|3lv|5e|Szusza;Şuşa;Shushe;Şuşi;Choucha;Shushi
+Senica|SK||8s|3r8|1c9|5e|Szenice;Senjica
+Shchigry|RU||9i|404|2uj|5c|Sjtsjigry;Chtchigry;Ščigry;Ŝĉigri;Štšigrõ;Štšigry;Szczigry;Suchigry;Schtschigry;Shchigary
+Shushenskoye|RU||6u|444|73e|58|Sjusjenskoje;Schuschenskoje;Šušenskoje;Sosenskis;Susenszkoje;Şuşenskoye;Sjoesjenskoje;Ŝuŝenskoe;Xuxenskoie;Szuszenskoje;Sjoesjenskoe;Shushinskoe
+Szamotuły|PL||a5|425|1a2|56|Šamotuli;Samter;Shamotuly
+Szczepin|PL||a5|3y0|1b9|55
+Szarvas|HU||8v|3m7|1l3|52|Sarvaš;Sarwasch;Hirschfeld
+Sovetsk|RU|Kirov Oblast|97|4fz|3s0|4z|Sowetsk;Sovjetsk;Sowjetsk;Szovjetszk
+Stowbtsy|BY||9g|44k|22a|4w|Stoŭbcy;Stoubtsy;Sztovbci;Stolbtzy;Stolpcai;Stovbci;Stołpce;Stolbtsy;Stolptsy
+Százhalombatta|HU||8v|3nh|1gm|4w
+Svalyava|UA||98|3qv|1rv|4r|Svaliava;Svaleava;Swalawa;Svaľava;Szolyva;Swaljawa;Svaljava
+Samobor|HR||a6|3j8|17o|4p|Szamobor
+Şimleu Silvaniei|RO||8u|3n7|1rc|4d|Szilágysomlyó;Simleul Silvaiei
+Suzun|RU||75|45e|6co|4a|Susun;Souzoun;Szuzun;Soezoen
+Sereď|SK||8s|3q5|1d9|48|Szered
+Silute|LT||a3|49r|1no|46|Heydekrug;Szyłokarczma;Shilute;Heidekrug
+Svirsk|RU||6k|43h|7z2|43|Swirsk;Szvirszk
+Storozhynets|UA||98|3ps|1zg|3y|Storojineț;Storojynets;Storożyniec;Storozynetz;Sztorozsinyec;Őrvásár
+Szerszenie|PL||a5|41k|1rs|3w
+Srednyaya Akhtuba|RU||a4|3rb|3gn|3v|Srednjaja Akhtuba;Srednjaja Achtuba;Szrednyaja Ahtuba;Srednâya Ahtuba;Sriedniaja Achtuba;Srednjaja Achtoeba
+Szigethalom|HU||8v|3ng|1gs|3n
+Szprotawa|PL||a5|3z9|176|3k|Sprotawa;Šprotava
+Surčin|RS||8q|3gf|1kc|3i|Szurcsin városi község;Szurcsin;Surchin;Surcsin
+Sosnovka|RU|Kirov Oblast|97|4c9|3yg|3g|Sosnowka;Szosznovka
+Szydłowiec|PL||a5|3yb|1ly|3d|Šydlovecas;Šydloviéc;Šidloveca
+Sovata|RO||8u|3le|1xn|37|Szováta
+Szigetvár|HU||8v|3jx|1dh|35|Siget;Sigethum;Zigetvar
+Agnita|RO||8u|3jp|1we|2x|Szentágota
+Moldava nad Bodvou|SK||8s|3r1|1mc|2v|Szepsi;Moldava pie Bodvas;Moldava nad Bodvu
+Sheregesh|RU||74|430|6sf|2t|Sjeregesj;Scheregesch;Šeregešas;Šeregeš;Cheregech;Szeriegiesz
+Szerencs|HU||8v|3ps|1mx|2s
+Szeghalom|HU||8v|3mn|1mt|2s
+Stropkov|SK||8s|3so|1o5|2q|Sztropkó
+Sztum|PL||a5|45s|1gv|2q|Štumas;Štuma;Sztëm
+Shyroke|UA|Dnipropetrovsk|98|3oh|2ke|2o|Chyroké;Schyroke;Sjyroke;Široke;Shiroke;Šyroke;Szyroke;Xiroke
+Cristuru Secuiesc|RO||8u|3kk|1xj|2o|Székelykeresztúr
+Siret|RO||8u|3p7|20f|2k|Szeretvásár;Seret
+Szubin|PL||a5|439|1da|2k
+Smižany|SK||8s|3rz|1l0|2i|Szepessümeg
+Szentgotthárd|HU||8v|3mf|197|2h|Sankt Gotthard
+Slatina|HR||a6|3iy|1d6|2f|Szlatina
+Hrushovo|UA||98|3pd|1u1|2d|Szentmihálykörtvélyes;Grushevo;Hrusheve
+Sargatskoye|RU||76|4ah|5o6|2b|Sargatskoje;Szargatszkoje;Sargatskoe
+Suksun|RU||7z|4er|4fg|2b|Szukszun;Soeksoen
+Svit|SK||8s|3sa|1k5|25|Świt;Szvit
+Slawharad|BY||9g|44g|2e4|24|Slauharad;Szlavharad;Sławograd;Prapojsk;Propoysk;Propoisk
+Surami|GE||7n|38q|3d0|23|Szurámi;Suram
+Szemeretelep|HU||8v|3ns|1hd|23
+Floreşti|RO|Cluj County|8u|3lv|1t9|22|Szászfenes
+Susuman|RU||6z|4ue|bfj|22|Sussuman;Soussouman;Soesoeman;Szuszuman;Susman
+Surskoye|RU||9z|47c|3ls|21|Surskoje;Sourskoïe;Szurszkoje
+Szentlőrinc|HU||8v|3jw|1dz|1z
+Shabo|UA||98|3k5|2cf|1z|Szabo;Chabo;Șaba-Târg;Schabo-Kolonie;Schabo-Possad;Acha-Abag;Saba Tarc;Khabag;Sjabo;Šabo;Schabo
+Shevchenkove|UA|Kharkiv|98|3u2|2va|1z|Schewtschenkowe;Ševtšenkove;Chevtchenkove;Şevçenkove;Xevtxénkove;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Săcueni|RO|Bihor County|8u|3nj|1pe|1z|Székelyhíd;Sacuieni;Secueni
+Szent Imre-kertváros|HU||8v|3nr|1hd|1y
+Szklarska Poręba|PL||a5|3x7|174|1y|Šklarska Poremba;Szklarska Porbe
+Sivac|RS||8q|3iy|1hu|1y|Szivác
+Vlăhiţa|RO||8u|3kr|1yx|1x|Szentegyháza
+Chynadiyovo|UA||98|3qp|1rf|1w|Tchynadiïovo;Szentmiklós;Tschynadijowo;Czynadijowo;Chynadiieve;Ĉinadijovo;Čynadijovo;Çınadiyovo;Ciînadiiovo
+Spišská Belá|SK||8s|3sn|1ku|1v|Szepesbéla;Spiška Bela;Biała Spiska
+Starčevo|RS||8q|3gh|1lj|1v|Sztárcsova;Tárcsó
+Szabadszállás|HU||8v|3m8|1he|1u
+Szécsény|HU||8v|3pk|1i8|1s|Széchény
+Săcălaz|RO||8u|3j4|1mn|1q|Szakálháza
+Shklo|UA||98|3us|1te|1p|Szkło
+Szczawnica|PL||a5|3ta|1kw|1o|Ščavņica
+Staraya Kulatka|RU||9z|42h|3oa|1o|Staraja Kulatka;Staraïa Koulatka;Sztaraja Kulatka
+Sonta|RS||8q|3in|1h2|1o|Szonta
+Svätý Jur|SK||8s|3q1|1bu|1o|Szentgyörgy;Sankt Georgen;Sanct Georgius;Sveti Jur
+Szikszó|HU||8v|3pw|1m5|1o
+Sharkovshchina|BY||9g|49t|24b|1n|Sharkowshchyna;Szarkowszczyna;Szarkowszczyzna;Sharkovshchyzna;Sharkovshchizna;Sharkawshchyna
+Shenkursk|RU||9i|4sj|3b6|1n|Sjenkursk;Schenkursk;Chenkoursk;Šenkursk;Sjenkoersk;Szenkursk
+Szczyrk|PL||a5|3u4|1gv|1n|Ščirka
+Svislach|BY|Grodnenskaya|9g|43b|1uy|1n|Svislatch;Svisłač;Svislatš;Szviszlacs;Svisločius;Svislača;Svislatj;Svisloch’;Świsłocz
+Sobrance|SK||8s|3re|1pm|1m|Szobránc
+Shchyrets|UA||98|3tx|1ua|1l|Szczerzec;Rosenberg;Chtchyrets;Ščyrec;Şçırets;Șciîreț;Sjtsjyrets;Shchyret;Shirets;Shchirets
+Smidovich|RU||7w|3qz|abp|1l|Smidovitsj;Smidowitsch;Smidovič;Szmidovics;Smidowicz;Smidovitj
+Sălişte|RO||8u|3j8|1ud|1l|Szelistye
+Mihai Viteazu|RO|Cluj County|8u|3l9|1tz|1l|Alsószentmihályfalva;Szentmihály
+Shevchenkove|UA|Odesa|98|3ij|29h|1k|Schewtschenkowe;Sjevtsjenkove;Ševtšenkove;Ševčenkovė;Chevtchenkove;Sevcsenkove;Xevtxènkove;Ševčenkovo;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Staryi Sambir|UA||98|3tc|1rw|1k|Stary Sambor;Staremiasto;Staryy Sambir;Ószambor;Sztarij Szambir;Staryy Sambor
+Szczawno-Zdrój|PL||a5|3x4|196|1k|Szczawno Zdrój;Ščavnozdroja;Solice-Zdrůj;Solice Zdroj
+Skuodas|LT||a3|4cb|1nt|1j|Szkudy;Skoda
+Stanišić|RS||8q|3jm|1h9|1j|Sztanisics
+Shumsk|UA||98|3v8|20k|1j|Choumsk;Szumsk
+Smolyaninovo|RU||7w|3c9|a7x|1h|Smoljaninovo;Smoljaninowo;Smolianinovo;Szmoljanyinovo;Smolâninovo;Smoljanikowe;Smolyaniovo;Smolyan’novo
+Szczebrzeszyn|PL||a5|3wt|1ru|1h|Ščebžešina
+Szczytna|PL||a5|3w1|19p|1g|Ščitna
+Skalité|SK||8s|3ti|1gi|1g|Sziklaszoros;Skalitje
+Slănic-Moldova|RO||8u|3ke|21j|1e|Szlanikfürdő
+Szentmártonkáta|HU||8v|3nt|1iq|1d
+Sliač|SK||8s|3r2|1h6|1c|Szliács;Sljača;Sljač
+Széchenyitelep|HU||8v|3o7|1gt|1c
+Chingueṭṭi|MR||19|1ku|-yc|1b|Šingetis;Cengiṭ;Chinguiti;Chingueti;Szinkit
+Szirmabesenyő|HU||8v|3pr|1ls|1b
+Sartmahmut|TR||94|2yy|25w|1b|Sart;Sardes;Sered;Sard;Sardy;Sardeso;Sardeis;Sfarad;Szardeisz;Sardi;Sarudi;Sardîs;Sfard;Sparda
+Szabadbattyán|HU||8v|3mw|1f1|19
+Szegvár|HU||8v|3lf|1k6|18
+Sződliget|HU||8v|3ol|1h7|18
+Serednye|UA||98|3qu|1qi|17|Seredné;Szerednye;Sérednié;Serednje;Peretschyn;Perezindorf
+Hărman|RO||8u|3j0|1zc|17|Szászhermány;Herman
+Svyatohirsk|UA||98|3s8|2wd|17|Sviatohirsk;Banno-Tat’yanovka;Sviatohirskas;Szvjatohirszk;Świętogórsk;Banno-Tetianivka;Banno-Tetyanivka;Banne;Bannivs'ke;Slov'yanohirs'k;Slov'ianohirs'k;Swjatohirsk;Sviatogirsk;Svjatohirs'k;Svâtoğirsk;Sviatahirsk;Śviatahorsk;Bánnaŭskaje;Słavianahórsk;Svyatogorsk qalası;Svyatogorsk;Swýatogorsk;Sviatogorsk
+Szendrő|HU||8v|3qg|1ll|17
+Szamocin|PL||a5|43b|1bl|17
+Szirma|HU||8v|3pj|1lv|16
+Sokyrnytsia|UA||98|3po|1t0|16|Sokyrnytsya;Sokyrnyzja;Sokirnicja;Szeklence;Sekernice;Seclenț;Sokirnitsa
+Szatymaz|HU||8v|3kq|1jo|16
+Szczucin|PL||a5|3vr|1mj|16|Ščucina
+Strâmtura|RO|Maramureş|8u|3oq|1v1|16|Szurdok;Strîmtura
+Szajol|HU||8v|3n2|1ke|14
+Szczekociny|PL||a5|3wn|1j3|12|Ščekocini
+Shipitsyno|RU||9i|4q8|3l8|12|Sjipitsyno;Schipizyno;Šipicyno;Spicino;Şipitsıno;Szypicyno;Sjipitsino;Shchipitsyno;Shipitsino
+Századosnegyed|HU||8v|3nx|1h3|12|Százados negyed
+Spišské Podhradie|SK||8s|3s4|1ln|12|Szepesváralja;Spišske Podhradje;Spiskie Podgrodzie;Spiśkie Podhradie
+Săcel|RO|Maramureş|8u|3ob|1vv|11|Szacsal;Izaszacsal
+Szczuczyn|PL||a5|44s|1px|10|Ščučinas;Ščučina
+Slavske|UA||98|3rp|1t5|z|slawskoye;Slavskoye;Slavs’ke;Slawske;Slavsko;Szlavszke;Sławsko
+Szent Lőrinc-lakótelep|HU||8v|3nr|1h9|z
+Padej|RS||8q|3jb|1k0|z|Padé;Szerb-Padé;Magyarpadé
+Szada|HU||8v|3ob|1ho|y
+Spišské Vlachy|SK||8s|3rz|1ls|x|Szepesolaszi;Spišske Vlahi;Spiške Vlahi;Spiskie Włochy
+Szczerców|PL||a5|3yl|1h3|x
+Lovćenac|RS||8q|3iw|1ip|w|Lovcjenac;Szeghegy
+Shypyntsi|UA||98|3qe|1zj|w|Șipeniț;Sjypyntsi;Schypynzi;Szypynci;Şypyntsi;Shipentsi
+Szynwałd|PL||a5|3ut|1mo|v
+Shaumiani|GE||7n|36v|3gc|v|Shulaveri;Naghvarevi;Sjaumiani;Szaumiani;Shulavery;Shaumyani;Schaumjani;Saulaveri
+Szob|HU||8v|3ou|1gf|v
+Sződ|HU||8v|3ok|1h9|v
+Shalyhyne|UA||98|3z9|2mt|u|Schalyhyne;Shalgino;Chalyhyne;Šalyhyne;Şalıgıne;Szałyhyne;Șalîhîne;Shalygino;Shul’gino
+Hornstein|AT||a2|3p0|19o|u|Vorištan;Szarvkő
+Sztutowo|PL||a5|46x|1ha|u|Štutovas
+Szalkszentmárton|HU||8v|3mi|1gt|u
+Shpykiv|UA||98|3ri|27c|u|Chpykiv;Sjpykiv;Schpykiw;Špykiv;Şpıkiv;Szpików
+Szabadkígyós|HU||8v|3li|1mm|u
+Sadky|UA||98|3s5|2kz|t|Sadkî;Szadki
+Szakoly|HU||8v|3op|1ow|t
+Sefkerin|RS||8q|3h1|1kw|s|Sevkerin;Szeffkerin;Shefkerin;Szefkerin
+Szentgálpuszta|HU||8v|3kt|1fr|s
+Pericei|RO||8u|3n7|1rk|s|Szilágyperecsen
+Sic|RO||8u|3md|1uc|r|Szék
+Svätý Peter|SK||8s|3ow|1ep|r|Szentpéter;Komáromszentpéter
+Shramkivka|UA||98|3va|2h9|r|Shramkovka;Schramkiwka;Šramkivka;Szramkiwka
+Szászvár|HU||8v|3kk|1f2|r
+Stegersbach|AT||a2|3n1|18x|r|Santalek;Szentelek
+Sankt Margarethen im Burgenland|AT||a2|3os|1a5|q|Szentmargitbánya;Sveta Margareta;St. Margarethen im Burgenland
+Szentistván|HU||8v|3op|1lf|q
+Lunca Mureşului|RO|Alba County|8u|3kz|1ue|q|Székelykocsárd
+Simeyiz|UA||9t|3fd|2mh|q|Simejis;Simeïz;Simeizo;Szimejiz;Simejiz
+Székkutas|HU||8v|3l6|1l1|q
+Zeleneč|SK||8s|3q9|1cw|q|Szelincs
+Szank|HU||8v|3lc|1im|p
+Szedres|HU||8v|3l4|1fw|p
+Viscri|RO||8u|3jy|1xp|p|Szászfehéregyháza
+Szigetcsép|HU||8v|3na|1gp|p|Tschip
+Svodín|SK||8s|3p3|1fe|o|Szőgyén;Szölgyén
+Szárliget|HU||8v|3o0|1fd|n
+Šenkovec|HR|Međimurje|a6|3kx|19m|n|Szentilona
+Szepietowo|PL||a5|42v|1qm|n|Šepetovas;Šepetovo;Szepetowo
+Suchá nad Parnou|SK||8s|3qh|1cl|n|Szárazpatak
+Szany|HU||8v|3nu|1c2|n
+Skhidnytsia|UA||98|3sq|1sv|n|Schodnica;Skhidnytsya;Schidnyzja;Skhodnitsa;Sxidnitsa;Szhidnicja;Sjídnytsia;Schidnycja;Shidnıtsâ;Shidnîțea
+Szerzyny|PL||a5|3ud|1n1|m
+Szaflary|PL||a5|3tb|1jn|m
+Szigetújfalu|HU||8v|3n7|1gl|m|Inselneudorf;Ujfluch
+Szczerbice|PL||a5|3v5|1f9|l
+Zemné|SK||8s|3pa|1dz|l|Szimő
+Szihalom|HU||8v|3op|1kw|l
+Sântimbru|RO|Harghita County|8u|3kk|1zt|l|Szentimre;Marosszentimre;Csíkszentimre;Sîntimbru
+Szamosszeg|HU||8v|3ph|1q5|l
+Sępopol|PL||a5|46r|1md|k|Schippenbeil;Sempopole;Szępopel
+Szentkirályszabadja|HU||8v|3mq|1dx|k
+Szomód|HU||8v|3og|1ey|k
+Szadek|PL||a5|3zl|1gq|k|Šadeka
+Saschiz|RO||8u|3ka|1xd|k|Szászkézd;Chizd;Keisd
+Szentlőrinckáta|HU||8v|3o0|1iv|k
+Serne|UA||98|3qc|1qd|k|Szernye
+Szentkirály|HU||8v|3mc|1jc|k
+Szurdokpüspöki|HU||8v|3oy|1ip|j
+Siurte|UA||98|3qq|1pr|j|Szurte;Syurte
+Szilvásvárad|HU||8v|3pm|1ko|j
+Szpetal Górny|PL||a5|42c|1h2|j
+Sănduleşti|RO||8u|3le|1tw|j|Szind;Sind
+Shyrokolanivka|UA||98|3n1|2fb|i|Sjyrokolanivka;Schyrokolaniwka;Širokolaņivka;Šyrokolanivka;Shirokolanivka;Szyrokołaniwka;Shirokolanovka
+Bronka|UA||98|3qh|1sn|i|Bron’ka;Szuhabaranka
+Seleuš|RS||8q|3hd|1m3|i|Szelleus;Selleush
+Shatin|AM||80|32o|3hu|h|Shatik;Hasankand;Gasankend;Hesan Kand;Schatin;Šatina;Sjatin;Szatin;Şatin
+Szczurowa|PL||a5|3v8|1lc|h
+Szczepanów|PL|Lower Silesia|a5|3y8|1a5|h
+Samoš|RS||8q|3hk|1lp|h|Számos
+Sarvaš|HR||a6|3ih|1gc|h|Szarvas
+Sajan|RS||8q|3jc|1kc|h|Zaján;Szaján
+Șaroș pe Târnave|RO||8u|3kc|1w7|g|Szászsáros;Şaroş pe Tîrnave
+Szemud|PL||a5|47d|1em|g|Szëmôłd
+Poiana Ilvei|RO||8u|3nk|1wq|g|Szentjózsef
+Stavne|UA||98|3s3|1r2|g|Sztavna;Stavna;Stavnoye
+Nou|RO||8u|3jb|1vg|g|Szászújfalu
+Svyatylivka|UA||98|3te|2j6|g|Sviatylivka;Swiatyliwka;Szvjatilivka;Svyatilovka
+Sanad|RS||8q|3jq|1jv|g|Szanád;Zanad
+Slunj|HR||a6|3hb|17a|g|Szluin
+Shelestove|UA||98|3qo|1r7|g|Szélestó;Szelesztó
+Shefayim|IL||6n|2hi|2or|f|Schefajim;Šefajim;Szefajim;Şefayim;Shefayyim
+Szczaniec|PL||a5|417|17k|f
+Suskovo|UA||98|3qu|1rn|f|Szuszkóújfalu;Suskove
+Szeremle|HU||8v|3k6|1gg|e
+Skotarske|UA||98|3rd|1sn|e|Kisszolyva;Szkotárszka;Skotarsko;Skotars’ke;Skotarskoye
+Sătmărel|RO||8u|3ol|1rc|e|Szatmárzsadány
+Shoresh|IL||6n|2gc|2pf|e|Hagshama;Lehageshamah;Hageshamah;Lehagshama;Hagshamah;Šoreš;Szoresz
+Müllendorf|AT||a2|3ow|19q|e|Szárazvám;Melindoff
+Sâniob|RO||8u|3na|1ph|e|Szentjobb
+Szlichtyngowa|PL||a5|3zn|194|e|Schlichtingsheim;Šlihtingova;Szlichtinkowo
+Szarów|PL||a5|3uw|1kb|d
+Svätý Anton|SK||8s|3qi|1gm|d|Szentantal;Svätý Antol
+Shorapani|GE||7n|38y|3bo|d|Shorap’ani;Szorapani;Sjorapani;Xoropan;Şorapani;Schorapani;Shorapan’;Schorpani;Shorpani
+Sieggraben|AT||a2|3od|19i|c|Szikra
+Nireș|RO||8u|3mv|1um|c|Szásznyíres;Nyíres
+Siedlec|PL|Greater Poland|a5|40u|18g|c|Szilk
+Szlachta|PL||a5|45d|1eb|c
+Szreńsk|PL||a5|439|1jw|c
+Szakmár|HU||8v|3lc|1h0|c
+Zăuan|RO||8u|3n6|1qy|c|Zovány;Szilágyzovány
+Dârjiu|RO||8u|3kc|1y0|c|Székelyders;Dîrjiu
+Szelevény|HU||8v|3m0|1k4|b
+Sâncrai|RO|Harghita County|8u|3kt|1yc|b|Székelyszentkirály;Sîncrai
+Zhdeniyevo|UA||98|3rh|1rt|b|Żdenijewo;Jdéniïévo;Szarvasháza
+Szumowo|PL||a5|430|1pc|b
+Szydłów|PL||a5|3wj|1md|b
+Szirák|HU||8v|3ov|1i9|b
+Špindlerův Mlýn|CZ||9m|3wx|17d|b|Spindlermühle;Szpindlerowy Młyn;Spindelmühle
+Michal na Ostrove|SK||8s|3pe|1co|b|Szentmihályfa;Szent-Mihályfa
+Sobatyn|UA||98|3q8|1rw|a|Szombati;Szobatin;Sobatin
+Szastarka|PL||a5|3xa|1q0|a
+Szakcs|HU||8v|3la|1eb|a
+Selnica|HR|Međimurje|a6|3l5|19j|9|Szelenczehegy;Szelencze
+Szczepanów|PL|Lesser Poland|a5|3ux|1ld|9
+Săcădat|RO|Mureș County|8u|3li|1xm|9|Szakadàt
+Shave Shomeron|PS||6n|2hm|2pq|9|Šavej Šomron;Shavei Shomron;Szavei Szomron
+Szuhakálló|HU||8v|3q4|1ld|9
+Sztabin|PL||a5|454|1s6|9
+Svätý Kríž|SK||8s|3s9|1i9|9|Szentkereszt;Święty Krzyż;Sveti Križ
+Smolari|MK||9u|36x|1rm|9|Szmolari;Smollari;Smolare
+Sângeorzu Nou|RO||8u|3mh|1vp|9|Szászszentgyörgy;Sângeorzul-Nou;Sângiorzul Nou
+Stanovo|UA||98|3qi|1ri|9|Szánfalva;Stanove
+Staro Konjarevo|MK||9u|36x|1rs|9|Staro Konyarevo;Sztaro Konyarevo;Konjareva e Vjetër
+Troița|RO||8u|3l4|1wt|9|Szentháromság
+Shoval|IL||6n|2f9|2oi|8|Šoval;Schoval;Szoval
+Shekhanya|IL||6n|2j9|2px|8|Šechanja;Szechanija;Şekhanya
+Szigliget|HU||8v|3m0|1cg|8
+Românești|RO|Satu Mare County|8u|3oq|1s8|8|Szatmárgörbed;Rumăneşti;Romîneşti
+Šiaulėnai|LT||a3|4ao|1t0|8|Szawlany;Shaulenay;Šiaulėnų
+Szydłowo|PL|Greater Poland|a5|43o|1a5|8
+Shyroka Balka|UA||98|3la|2cb|7|Karstal’;Șîroka Balka;Szyroka Bałka
+Szczodre|PL||a5|3y7|1bq|7
+Săbed|RO||8u|3lm|1vx|7|Szabèd
+Shamlugh|AM||80|36d|3g8|7|Shamlug;Schamlugh;Šamluhas;Ŝamlugh;Sjamlugh;Šamlug;Şamlıq;Szamluch;Shamlux;Shamblud;Shamblug
+Szczytniki|PL|Greater Poland|a5|3zl|1ex|7
+Shuva|IL||6n|2fd|2ny|7|Šuva;Szuva;Shuba
+Snakov|SK||8s|3t0|1mh|7|Szánkó
+Sântandrei|RO|Hunedoara County|8u|3jd|1rt|7|Szentandrás;Sîntandrei
+Petanjci|SI||9a|3ll|18n|7|Szécsénykút;Széchénykút
+Šack|BY||9g|44f|24y|7|Shatsk;Szack
+Szymanowo|PL||a5|3zd|1ax|7
+Sărămaș|RO||8u|3iz|20c|7|Szaramás
+Sofiyivka|UA|Cherkasy|98|3ud|2ga|7|Szofijivka;Sofievka;Sofiyevka;Sofiivka
+Szudziałowo|PL||a5|442|1tp|7
+Stari Slankamen|RS||8q|3he|1ka|6|Salankamen;Zalánkemén;Szalánkemén
+Bisericani|RO||8u|3kt|1y4|6|Székelyszentlélek
+Szczawin|PL||a5|406|1i5|6
+Szczutowo|PL||a5|432|1id|6|Szszutowo
+Dumitreni|RO||8u|3kw|1ws|6|Szentdemeter;Mettersdorf
+Szabás|HU||8v|3kl|1ch|6
+Sotin|HR||a6|3hu|1h2|6|Sotting;Szata;Szotin
+Szálka|HU||8v|3kk|1fs|6
+Szczytniki|PL|Lower Silesia|a5|3xz|1bg|6
+Szczyglice|PL||a5|3v5|1j3|6
+Szydłowo|PL|Mazovia|a5|43g|1kt|6
+Szlembark|PL||a5|3tg|1k5|6
+Sharona|IL||6n|2ix|2qj|6|Šarona;Szarona;Saronah
+Szczyrzyc|PL||a5|3ua|1k3|6
+Shoqeda|IL||6n|2fa|2nw|6|Šokeda;Shokeda;Szokeda
+Vágfüzes|SK||8s|3ox|1e5|6|Vrbová nad Váhom;Sziget;Keszegfalusi Sziget
+Szczytniki|PL|Lesser Poland|a5|3ut|1k7|6|Saczytniki
+Var|RO||8u|3n8|1sq|6|Szamosőrmező
+Jimbor|RO|Brașov County|8u|3k3|1yj|5|Székelyzsombor;Székely-Sombor;Szekelyz-Sombor
+Strajane|MK||9u|37w|1mc|5|Strayané;Sztrajane;Strajani
+Grosswarasdorf|AT||a2|3o2|19z|5|Veliki Borištof;Szabadbáránd
+Szanda|HU||8v|3p5|1i0|5
+Shorashim|IL||6n|2jd|2py|5|Šorašim;Szoraszim
+Shaulykha|UA||98|3s3|2cy|5|Rokoshvar;Schaulicha;Rokoschwar;Szaulicha;Rokoszwar;Rokosvár;Sauliha;Shaulikha

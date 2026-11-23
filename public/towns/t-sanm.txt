@@ -1,0 +1,533 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sanmenxia|CN||7i|2om|8kv|55x|San-men-sia;Tam Môn Hiệp;Săng-muòng-hiĕk;Sam-bûn-kiap-chhī;San’myn’sya;San-men-hsia
+Sanming|CN||7i|20x|92q|4na|Senming shehiri;Săng-mìng;San-ming;Sâm-mìn-sṳ;Tam Minh;Sam-bêng-chhī
+San Miguel de Tucumán|AR||1v|-22i|-515|48h|Tucumán;Tukumanas;Sanctus Michael Tucumanensis;San Migel De Tukuman
+Shanwei|CN||7i|1ra|8wf|3sm|Šan-wej;San-mî-sṳ;Sán Vĩ;Sáng-muōi
+San Miguelito|PA||4g|p5|-64r|2hb
+San Miguel|SV||2u|11g|-6sy|1wn|San Miquel
+San Miguel de Allende|MX||41|1m4|-7ru|1ci|San Migel de Aljendė;San Miguel Allende
+San Miguel|AR|Buenos Aires|1l|-2ny|-4j3|1aw
+San Miguel del Padrón|CU||36|1s6|-6cp|189
+San Martin Texmelucan de Labastida|MX||41|1hk|-7lg|179|San Martin Texmelucan
+San Mateo|PH|Calabarzon|71|14u|9cg|11b
+San Martin|PE||3o|-ef|-683|104
+San Mateo|US||3p|2wc|-9ft|sr|Matthaeopolis;San Matheo
+San Marcos|US|California|3p|2k2|-91h|pt
+San Martín|AR||1q|-2jw|-5a7|mx
+San Mateo Atenco|MX||41|1hi|-7oh|iv
+San Miguel|PH|Central Luzon|71|162|9c2|i9|San Muigel Mayumo
+San Miguel|PE|Puno|3o|-170|-5es|gx
+San Marcos|CO||27|o2|-5sp|gv
+San Marcos|US|Texas|2f|2b0|-7k2|gv
+San Marcos|SV||2u|11y|-6vq|f6
+San Miguel Zinacantepec|MX||41|1hk|-7p2|f2|San Miguel Zicantepec
+San Mateo|VE|Aragua|2c|sd|-57a|e0
+Sanmu|JP||7q|2qz|au2|dg|Sammu
+San Marcos|GT||32|15k|-72z|d3|San Markosas
+San Martín|SV||2u|12a|-6v0|ay
+Sanmiao|CN||7i|2c0|86t|9z
+San Martín Azcatepec|MX||41|1ip|-7mx|9u
+San Miguel Topilejo|MX||41|1hc|-7ne|9m
+San Miguel Ajusco|MX||41|1he|-7nk|8a
+San Miguel|CR||2i|rf|-6hi|80
+San Miniato Basso|IT||9o|3dd|u4|7c|San Miniato;San Miniatu
+San Miguel el Alto|MX||41|1mf|-7wg|6o
+San Martín de los Andes|AR||1s|-33k|-5i7|6j|Andų San Martinas
+San Martín Cuautlalpan|MX||41|1hj|-7mj|6j
+San Marcos|NI||3s|x3|-6ng|6h
+San Mateo Otzacatipan|MX||41|1hp|-7oo|6b
+San Miguel Coatlinchán|MX||41|1i1|-7mn|6a|San Miguel Coatlinchoan
+San Martín|CO|Meta Department|27|aa|-5oq|67
+San Miguel del Monte|AR||1l|-2qg|-4jd|62|San Miguel de Monte
+San Martín|CO|Cesar Department|27|m8|-5o7|5p
+Santa María Totoltepec|MX||41|1hm|-7on|58|San María Totoltepec
+San Marcelino|PH||71|15l|99s|57
+San Mariano|PH|Davao Region|71|ku|9q0|57
+San Miguel|PH|Central Luzon|71|16w|9b0|56
+San Mauro Torinese|IT||9o|3ha|ll|55|San Mò
+San Martín de la Vega|ES||9d|33p|-9x|53
+San Miniato|IT||9o|3dc|u5|4p
+San Martín de Pangoa|PE||3o|-vr|-5qx|4j
+San Mateo|PH|Cagayan Valley|71|1aw|9dr|4i
+San Miguel De Abona|ES||83|262|-1a6|4i
+San Mateo Huitzilzingo|MX||41|1hf|-7mt|4a|Huitzilzingo
+San Miguel Canoa|MX||41|1h7|-7ki|45
+San Manuel de Colohete|HN||56|145|-6ub|42|San Manuel Colohete
+San Miguel Chicaj|GT||32|15x|-6z3|3t
+San Marino|US||3p|2ms|-943|3r|San-Marino
+San Marco in Lamis|IT||9o|37v|17g|3q
+San Miguel Octopan|MX||41|1l5|-7rv|3p|San Miguel Actopan
+San Marcos|MX|Guerrero|41|1ao|-7o3|3p
+San Mateo Ixtatán|GT||32|17z|-724|3o
+San Martín de las Pirámides|MX||41|1iq|-7mj|3k
+San Marcos|MX|Hidalgo|41|1jn|-7ny|3k
+San Miguel de Bolívar|EC||33|-4r|-63k|3i
+San Marcellino|IT||9o|35v|13e|3i
+San Mariano|PH|Cagayan Valley|71|1b6|9ex|3g|San Mariana;Angela
+San Marcos Huixtoco|MX||41|1hm|-7mm|3e
+San Martino Buon Albergo|IT||9o|3i6|uu|3a
+San Mateo|VE|Anzoátegui|2c|r2|-4zb|39
+San Miguel Xoxtla|MX||41|1h9|-7l3|35|Xoxtla
+San Matias Tlalancaleca|MX||41|1hp|-7lm|33
+San Martino di Lupari|IT||9o|3it|wy|31
+San Miguel|EC||33|-2x|-62b|30|Salcedo
+San Mateo Tezoquipan Miraflores|MX||41|1he|-7mh|2r|Miraflores
+San Marcos Tlacoyalco|MX||41|1fv|-7j4|2r|Tlacoyalco
+San Manuel|PH|Cagayan Valley|71|1ba|9dw|2r|Callang
+San Martín Jilotepeque|GT||32|152|-707|2q
+San Mateo Mexicaltzingo|MX||41|1hd|-7on|2p|San Mateo Mexicalcingo
+San Marzano sul Sarno|IT||9o|35a|14i|2m
+San Mateo Xoloc|MX||41|1iq|-7np|2i
+San Marzano di San Giuseppe|IT||9o|34d|1cm|2h|Shen Marcani
+San Marcos de Colón|HN||56|11b|-6p4|2g|San Marco de Colon
+San Maurizio|IT|Piedmont|9o|3hm|l7|2f
+San Miguel|PH|Western Visayas|71|ty|9g7|2c
+San Miguel Dueñas|GT||32|14c|-708|2c
+San Miguel|PE|Ayacucho|3o|-105|-5pi|2c
+San Mauro Pascoli|IT||9o|3ej|yi|2c
+Tepetitla|MX|Tlaxcala|41|1hj|-7la|2b|San Mateo
+San Miguel Totocuitlapilco|MX||41|1hf|-7on|2a
+San Martín Hidalgo|MX||41|1ks|-80p|29|San Martín de Hidalgo
+San Miguel Vindho|MX||41|1jj|-7nx|28
+San Miguel Sigüilá|GT||32|15e|-72h|24
+San Miguel Cuyutlán|MX||41|1kq|-7z7|23
+San Miguel|AR|Corrientes|1n|-25s|-4fz|22
+San Marcos de León|MX||41|1hy|-7hc|21
+San Miguel Tlaixpan|MX||41|1i7|-7mh|1z
+San Martin|US||3p|2v0|-9dt|1y
+San Martín de Valdeiglesias|ES||9d|344|-c8|1y|San Martin de Valdieglesias
+Sammichele di Bari|IT||9o|35l|1b3|1u|San Michele di Bari
+Temascal|MX||41|1eo|-7fs|1u|San Miguel Soyaltepec
+San Manuel|HN||56|16l|-6s8|1s
+San Matías|BO||3n|-19g|-4i8|1s
+San Marco Evangelista|IT||9o|360|13u|1r
+San Miguel de Salinas|ES||9d|2xi|-27|1r|Sant Miquel de Salines;San Miguel
+San Matías Cuijingo|MX||41|1h0|-7ml|1r
+San Martino in Rio|IT||9o|3g9|ty|1p|Fanum Sancti Martini ad Rivum
+San Miguel Zapotitlán|MX|Sinaloa|3x|203|-8ex|1o
+San Manuel|PH|Central Luzon|71|171|9b7|1o
+San Michele|IT|Trentino-Alto Adige|9o|3l1|va|1o|Sankt Michael
+San Michele Salentino|IT||9o|34v|1cz|1n
+San Marcos Yachihuacaltepec|MX||41|1ho|-7ow|1n
+San Miguel Tenochtitlán|MX||41|1iw|-7pk|1m
+San Miguel Contla|MX||41|1hs|-7kl|1m
+San Mateo del Mar|MX||41|191|-7bu|1l
+Cuanalá|MX||41|1h3|-7l5|1l|San Mateo
+San Mariano|PH|Central Luzon|71|16k|9bs|1l
+San Miguel Panixtlahuaca|MX||41|196|-7ii|1l
+San Mateo|GT||32|15a|-72f|1j
+Santa Monica|PH|Central Luzon|71|16o|9bc|1j|San Monica
+San Miguel Totoltepec|MX||41|1hp|-7om|1j
+San Miguel Ameyalco|MX||41|1hn|-7oa|1i
+San Marcos|HN|Ocotepeque Department|56|141|-6v4|1h
+San Pablo Tecalco|MX||41|1in|-7mw|1h|San Mateo Tecalco
+San Miguel de Cauri|PE||3o|-s6|-5wu|1h
+San Mateo Atarasquillo|MX||41|1ho|-7oa|1h
+San Mateo Ixtacalco|MX||41|1iq|-7nh|1h
+San Miguel|PH|Northern Mindanao|71|mb|9mj|1f
+San Martín Caltenco|MX||41|1gg|-7jq|1e
+San Mateo|PH|Central Luzon|71|168|9bj|1e
+St. Moritz|CH||a7|3l6|rc|1e|Sankt Moritz;Sankta Maŭrico;Saint-Moritz;São Moritz;Saint Moritz;San Murezzan;Sankt Murezzan
+San Miguel Mimiapan|MX||41|1i0|-7ob|1d|San Miguel Mimlapan
+San Miguel Almaya|MX||41|1hd|-7o8|1d
+San Miguel Balderas|MX||41|1h3|-7ot|1d
+San Mariano|PH|Mimaropa|71|z4|9dc|1c
+San Martino Bassa|IT||9o|3a4|139|1b
+San Mateo Texcalyacac|MX|México|41|1h5|-7oe|1a
+San Marino|SM||9q|3e2|yl|19|Saint-Marin;São Marino;San-Marino;San Marinas;Sità de San Marin;Ville de Saint-Marin;San Marins;Cathair San Mairíne;Sen Maren;Civitas Sancti Marini;Sanmarīno;Sant Marin;Sità ëd San Marin
+San Mateo Tlalchichilpan|MX||41|1hq|-7p4|19|San Mateo Tlalchichilpa
+San Miguel|PH|Western Visayas|71|tg|9gj|19|San Migual
+La Piedad|MX|Querétaro|41|1l6|-7qi|18|San Miguel Colorado
+San Martín Zapotitlán|GT||32|14l|-72h|18
+San Mateo Mozoquilpan|MX||41|1hz|-7ok|18|San Mateo Mezoquilpan
+San Miguel Hila|MX||41|1if|-7nx|18
+San Miguel|PH|Soccsksargen|71|i1|9me|17
+Sânmihaiu Român|RO||8u|3iy|1ml|17|Sînmihaiu Român;Sînmihaiu Romîn
+San Miguel Totolapan|MX||41|1eg|-7qv|17|San Miguel Totolopan
+San Martino in Pensilis|IT||9o|38c|15q|17
+Sânmartin|RO|Harghita County|8u|3kj|201|17|Sînmartin
+San Marcos|CR||2i|qu|-6he|17
+San Miguel Tenextatiloyan|MX||41|1ir|-7j4|16|Tenextatiloyan
+San Miguelito|NI||3s|vo|-6ju|16|San Miguellito
+San Marcos Nepantla|MX||41|1in|-7mt|15
+San Martino Siccomario|IT||9o|3hg|pe|15
+San Mateo Texcalyacac|MX|México|41|1h9|-7ob|14
+San Marcos|HN|Santa Bárbara Department|56|16i|-6tm|13
+San Marcos Contla|MX||41|1hc|-7ks|13
+San Miguel Quetzaltepec|MX||41|1b6|-7e0|13
+Sânmartin|RO|Bihor County|8u|3ml|1p1|13|Váradszentmárton;Sântmartin;Sînmartin
+San Miguel|PH|Western Visayas|71|sy|9hq|12
+San Michele al Tagliamento|IT||9o|3j4|103|11|San Michel dal Tiliment;San Micele al Tagliamento
+Paso de Cuarenta|MX||41|1nq|-7un|11|San Miguel de Cuarenta
+Saint-Maurice|CH||a7|3ke|jg|11|San Mauricio;Sent-Môris;Agaunum
+San Miguel Jaltocan|MX||41|1is|-7n5|11|Xaltocan;Jaltocán
+San Miguel Ixtahuacán|GT||32|16f|-72v|11
+San Martín Sacatepéquez|GT||32|156|-72k|11
+San Manuel|US||4i|2ik|-8jb|10
+San Martin|PH||71|ns|9ml|y
+San Marcos de la Loma|MX||41|1i6|-7po|y
+San Miguel|PH|Eastern Visayas|71|vb|9mr|y
+San Marcos|MX|Jalisco|41|1lr|-81g|y
+San Mateo Ayecac|MX||41|1hk|-7lb|y
+San Marcos|MX|Jalisco|41|1i1|-7zj|y
+San Martino in Strada|IT||9o|3hr|qh|y
+San Marcos Sierra|AR||1n|-2di|-4zk|y
+San Michele di Ganzaria|IT||9o|2vk|143|x|San Micheli di Ganzaria
+San Miguel Tianguistenco|MX||41|1hl|-7lp|x
+San Miguel de la Victoria|MX||41|1jr|-7on|w
+San Miguel Tecomatlán|MX|México|41|1gq|-7oh|w
+San Miguel Almoloyán|MX||41|1hs|-7p8|w|Altamirano
+San Miguel Tilquiápam|MX||41|1am|-7ga|w|San Miguel Tilquiapan
+San Miguel|PH|Bicol Region|71|11a|9it|v
+San Miguelito|MX|Querétaro|41|1lm|-7r6|v
+San Mauro|IT||9o|3dn|uw|v
+San Miguel|PH|Calabarzon|71|12j|9co|u
+San Miguel|PH|Caraga|71|ox|9pv|u
+San Miguel|PH|Mimaropa|71|vx|98z|u|Bayan ng Linapacan
+San Mateo Coapexco|MX||41|1go|-7ow|u
+San Martín Chalchicuautla|MX||41|1nd|-7m2|t
+San Mateo Tecalco|MX||41|1gx|-7mg|t
+San Miguel|PH|Davao Region|71|kt|9p4|t
+San Martín Coapaxtongo|MX||41|1gr|-7ol|t
+San Miguel del Valle|MX||41|1ba|-7fu|s|San Miguel
+San Michele All'Adige|IT||9o|3kb|ux|s
+Juan Martín|MX||41|1kv|-7rv|s|San Martin
+San Mateo Capulhuac|MX||41|1i3|-7oh|s|San Mateo Capuluac
+San-Martino-di-Lota|FR||9k|3ap|q8|s|San Martino di Lota;San Martinu di Lota
+San Miguel Acatán|GT||32|17m|-72g|s
+San Miguel|PH|Central Visayas|71|pm|9ih|s
+San Miguel|MX|México|41|1j7|-7nd|s
+San Miguel de la Paz|MX||41|1kl|-7x6|s
+San Martín Toltepec|MX||41|1hr|-7oz|s
+San Mateo Ozolco|MX||41|1h2|-7lo|r
+San Marcos La Laguna|GT||32|14x|-71i|r
+San Maurizio D'Opaglio|IT||9o|3j5|nc|r
+San Martino in Campo|IT||9o|3bk|yg|r
+San Miguel|PH|Zamboanga Peninsula|71|l9|9if|r
+San Martino Valle Caudina|IT||9o|35z|14q|r
+San Mateo Yoloxochitlán|MX||41|1ee|-7h3|r|San Mateo Eloxochitlán
+San Martino di Venezze|IT||9o|3hd|wz|q
+San Manuel Chaparrón|GT||32|14c|-6xd|q
+San Miguel|PH|Calabarzon|71|13g|9d5|q
+San Marcos|MX|Zacatecas|41|1pw|-7v7|q
+San Martino|IT|Emilia-Romagna|9o|3ge|w7|q
+San Marco Argentano|IT||9o|31w|18s|p
+San Miguel Agua Bendita|MX||41|1ij|-7q0|p
+San Matías Atzala|MX||41|1hh|-7lk|p
+San Mateo de Gállego|ES||9d|387|-25|p
+San Marcos Tlazalpan|MX||41|1j1|-7p0|o|San Marcos Tlazalpa
+San Martín de Zula|MX||41|1kp|-7xd|o
+San Miguel|PH|Central Visayas|71|rh|9ld|o
+San Miguel Enyege|MX||41|1id|-7pe|o|San Miguel Enyegue
+San Miguel del Progreso|MX||41|1jj|-7jb|o
+Tlacotepec de Mejía|MX||41|1hb|-7h0|o|San Martín
+San Miguel|PH|Central Visayas|71|rr|9le|o
+San Miguel Tianguizolco|MX||41|1h8|-7lg|o
+San Martino al Cimino|IT||9o|39p|xp|n
+San Matías Tepetomatitlán|MX||41|1hr|-7kr|n
+San Miguel|US|California|3p|2rb|-9ba|n
+San Mateo Capultitlán|MX||41|1hc|-7le|n
+San Mateo Ixtlahuaca|MX||41|1ih|-7p8|n
+San Martín de Bolaños|MX||41|1o8|-80d|n
+San Miguel Espejo|MX||41|1h2|-7kf|n
+San Mateo Parra|MX||41|1gr|-7ju|n
+San Martín|MX|Michoacán|41|1k6|-7ua|m
+San Miguel Zapotitlán|MX|Jalisco|41|1kn|-7y3|m
+San Mateo|MX|Hidalgo|41|1k2|-7kx|m
+San Miguel Tlalpoalán|MX||41|1iu|-7i3|m
+San Miguel Mecatepec|MX||41|1l1|-7it|m|Manantial
+San Mauro Marchesato|IT||9o|30n|1b1|m
+San Miguel|PH|Western Visayas|71|ta|9hw|m
+San Martín Cachihuapan|MX||41|1ir|-7o7|l
+San Miguel Xochitecatitla|MX||41|1hg|-7l7|l
+San Miguel|PH|Western Visayas|71|v5|9ge|l
+Acteopan|MX||41|1g4|-7m7|l|San Marcos;Actiopan
+San Mateo|PH|Cagayan Valley|71|1bm|9e7|l
+San Miguel Atlamajac|MX||41|1iv|-7mt|l|San Miguel Atlamaja
+San Marco dei Cavoti|IT||9o|36r|15c|k|San Marco de' Cavoti
+San Miguel Panán|GT||32|14d|-71t|k
+San Miguel Tlacamama|MX||41|19m|-7ke|k
+San Mango Piemonte|IT||9o|352|158|k
+San Miguel Cerezo (El Cerezo)|MX||41|1k0|-7m9|k
+San Michele Tiorre|IT||9o|3g5|si|k
+San Miguel Ahuehuetitlán|MX||41|1d3|-7l4|k|Ahuehuetitlán
+San Martín Tuchicuitlapilco|MX||41|1jt|-7ot|j
+San Miguel Coatlán|MX||41|190|-7gl|j
+San Miguel Monteverde|MX||41|1cp|-7jn|j
+San Martín Ejido|MX||41|1jr|-7oy|j
+San Marco d'Alunzio|IT||9o|2xr|14u|i
+San Martín Toxpalan|MX||41|1ea|-7hm|i|San Martín Toxpalam
+San Miguel de Cruces|MX||44|1vt|-860|i
+San Miguel Suchixtepec|MX||41|18p|-7fz|i|Suchixtepec
+San Marcos Guaquilpan|MX||41|1ig|-7lz|i|San Marcos
+San Miguel Ocotenco|MX||41|1gz|-7ip|i
+San Martino in Passiria|IT||9o|3ly|v7|i|St. Martin in Passeier;Sankt Martin in Passeier;Passirium;St Martin in Passeier;San Martino in Badia
+Sânmartin|RO|Arad County|8u|3ky|1nb|i|Sînmartin
+Sânmihaiu Almaşului|RO||8u|3mn|1sn|i|Sânmihaiul-Almaşului;Sînmihaiu Almaşului
+San Mateo|MX|México|41|1hk|-7pu|i
+San Miguel del Centro|MX||41|1is|-7q3|h
+San Miguel Tetepelcingo|MX||41|19k|-7jy|h|Tetepelcingo;San Miguel Tetepelungo
+San Martín Tilcajete|MX||41|1au|-7gm|h
+San Mateo Almomoloa|MX||41|1h7|-7pl|h|San Mateo Almomoloha;San Mateo Almoloa
+Sânmărtin|RO|Cluj County|8u|3ma|1th|h|Sînmărtin
+San Martino|IT|Calabria|9o|2yk|18e|h
+San Martino della Battaglia|IT||9o|3i8|tg|h
+San Miguel Eménguaro|MX||41|1k0|-7s9|h
+San Miguel Aloápam|MX||41|1cd|-7gl|h|Aloapam;San Miguel;San Miguel Aloapan;Aloapan
+San Martín Totolán|MX||41|1jj|-7x8|h
+San Martín Ahuatepec|MX||41|1io|-7m9|h
+San Michele dei Mucchietti|IT||9o|3fn|tv|g
+San Mauro Forte|IT||9o|34g|195|g
+San Martín Tlamapa|MX||41|1gq|-7lc|g
+San Mateo|CO||27|hs|-5lj|g
+San Miguel Tlacotepec|MX||41|1ci|-7k9|g
+San Marcos Atesquilapan|MX||41|1ip|-7h5|g
+San Martino|IT|Veneto|9o|3jj|ya|g
+San Marcello Pistoiese|IT||9o|3ee|tz|g
+San Martino Dall'Argine|IT||9o|3ha|t8|g|San Martino dell'Argine
+San Martino in Trignano|IT||9o|3aq|z7|g
+San Miguel Tecuiciapan|MX||41|1dw|-7o5|g
+San Miguel|MX|México|41|1gr|-7ov|g
+San Martín|MX|Puebla|41|1iy|-7ie|g
+San Mauro Castelverde|IT||9o|2xb|13f|f|Santu Mauru
+San Miguel Papaxtla|MX||41|1gy|-7lb|f
+San Mateo Soltepec|MX||41|1h2|-7jk|f
+San Miguel Tecpan|MX||41|1i9|-7o4|f
+San Martín Obispo (San Martín San Pedro)|MX||41|1ho|-7pz|f
+San Miguel Analco|MX||41|1ha|-7l6|f
+San Miguel Yuxtepec|MX||41|1ia|-7oz|f|San Miguel Yustepec
+San Marino|IT|Emilia-Romagna|9o|3gh|ub|f|Sam Marino
+San Mango d'Aquino|IT||9o|30i|18z|e
+San Miguel Chimalapa|MX||41|1af|-7b7|e|Chimalapa
+San Miguel Tecuitlapa|MX||41|1h4|-7iz|e|Tecuitlapa
+San Miguel Axoxuca|MX||41|1cr|-7m2|e
+San Martín|MX|Querétaro|41|1lk|-7pp|e
+San Miguel Xooltepec|MX||41|1hh|-7q1|e|San Miguel Xoltepec;San Miguel Cooltepec
+San Martín Tlapala|MX||41|1gp|-7li|e
+San Miguel de Meruelo|ES||9d|3cq|-9z|e
+San Miguel Atlapulco|MX||41|1g7|-7kr|e
+San Mateo el Viejo|MX||41|1jb|-7pj|e
+Tecuanipa|MX||41|1gg|-7ly|e|San Miguel;Tecuinapa
+San Miguel|MX|Chiapas|41|1c8|-73l|e
+San Michele Mondovì|IT||9o|3fa|lz|e
+San Miguel Epejan|MX||41|1jr|-7uu|e
+Saint-Martin-Vésubie|FR||9k|3ef|k6|d|San Martino Lantosca;Sant Martin de Lantosca;Sant Martin de Vesubiá;Fanum Sancti Martini Lantuscanorum;Saint-Martin-de-Vésubie
+San Michele|IT|The Marches|9o|3da|104|d
+San Manuel|MX||41|1d1|-77e|d
+San Martin|MX|Zacatecas|41|1tr|-807|d
+San Michele di Serino|IT||9o|35k|159|d
+San Martín Itunyoso|MX||41|1bv|-7jw|d
+San Miguel|MX|Coahuila|44|1ze|-7xz|d
+San Marcello|IT||9o|3d2|10p|d
+San Miguel Oxtotilpan|MX||41|1h6|-7pi|d
+San Martino al Tagliamento|IT||9o|3ju|zr|d|San Martin dal Tiliment
+San Miguel Tenango|MX|Puebla|41|1jb|-7k1|d
+San Martín de Elines|ES||9d|3az|-ar|d
+San Matías|HN||56|12u|-6on|d
+San Miguel Ixtapan|MX||41|1g9|-7q7|d
+San Marcos|MX|Jalisco|41|1kg|-7zl|c
+San Mauro a Mare|IT||9o|3eo|yl|c
+San Miguel del Arenal|MX||41|1mb|-7tx|c
+San Miguel Atepoxco|MX||41|1iv|-7ma|c
+San Miguel|PY||1y|-21q|-4eg|c
+San Miguel de las Palmas|MX||41|1ep|-7nk|c
+San Martín|MX|Guerrero|41|1ci|-7nt|c
+San Martino in Freddana-Monsagrati|IT||9o|3dz|t0|c
+San Marco|IT|Campania|9o|33v|15i|c
+San Martino in Argine|IT||9o|3fv|w9|c
+San Miguel Peras|MX|Oaxaca|41|1b2|-7hh|c
+San Miguel Amazcala|MX||41|1ln|-7qg|c
+San Martino dei Mulini|IT||9o|3eb|ym|c
+San Miguel|US|New Mexico|2p|2hc|-88h|c
+San Marcos|MX|Coahuila|44|1zb|-7y5|c
+San Martín Esperilla|MX||41|1g1|-7iz|b
+San Miguel el Grande|MX|Guerrero|41|1bx|-7kw|b|San Miguel Grande
+San Martín Pachivia (Pachivia)|MX||41|1f5|-7p7|b
+San Miguel Figueroa|MX||41|17v|-7fs|b
+San Michele di Piave|IT||9o|3j8|yb|b
+San Marcos de la Cruz|MX||41|1hb|-7ot|b
+San Miguel del Milagro|MX||41|1hg|-7l5|b
+San Marcos Eloxochitlán|MX||41|1jn|-7jv|b
+San Miguel Aguacomulican|MX||41|1ga|-7lr|b
+San Miguel la Sardina|MX||41|1c1|-77b|b
+Sânmărghita|RO||8u|3n0|1un|b|Sînmărghita
+San Marcos|MX|Guerrero|41|1c7|-7n0|b
+San Marco la Catola|IT||9o|37c|15p|b
+San Martín Mazateopan|MX||41|1f9|-7gy|b
+San Miguel Zoapan|MX||41|1h0|-7if|b
+San Martín Lachila|MX||41|1a5|-7h1|b
+San Miguelito|MX|Guerrero|41|1d0|-7ts|b
+San Marcos Arteaga|MX||41|1d8|-7ju|b
+San Marcial Ozolotepec|MX||41|18p|-7ft|b|Ozolotepec
+San Miguel Laderas|MX||41|1gg|-7ox|b
+San Martín Tequesquipan (Tequesquipan)|MX||41|1gy|-7pn|a
+San Miguel el Grande|MX|Oaxaca|41|1bd|-7j6|a|San Miguel
+San Marcos Zacatepec|MX||41|18u|-7ig|a
+San Maurizio|IT|Piedmont|9o|3io|n1|a
+San Marcos Tecomaxusco|MX||41|1gq|-7mc|a
+San Martín Florida|MX||41|1lo|-7pa|a
+San Martín Ojo de Agua|MX||41|1gt|-7ij|a|San Martín
+San Miguel Tlamahuco|MX||41|1ho|-7kw|a
+San Mateo Nejápam|MX||41|1d2|-7le|a|Nejapam;San Mateo;Nejapan;San Mateo Nejapan
+San Michele e Grato|IT||9o|3gm|le|a
+San Miguel Dehetí|MX||41|1k5|-7q4|a
+San Martino|IT|Veneto|9o|3jo|ya|a
+San Miguel Tlapéxcatl|MX||41|1hm|-7hf|a
+San Mateo Teopancala|MX||41|1j1|-7mp|a|Teopancala
+San Marcos Tlapazola|MX||41|1az|-7g4|a|San Marcos Tlapasola
+Sânmartinu Sârbesc|RO||8u|3ip|1m8|a|Sînmartinu Sîrbesc;Sânmartinul-Sârbesc
+San Miguel|PA|Panamá|4g|ni|-63a|a
+San Martín de Trevejo|ES||9d|33p|-iw|a
+San Miguel Tecomatlán|MX|Guerrero|41|1ew|-7qw|a
+San Mateo (San Mateo Guayatenco)|MX||41|1fr|-7q7|a
+San Michele|IT|Piedmont|9o|3gt|nu|9
+San Miguel Regla|MX||41|1k6|-7ls|9
+San Miguel Bocanegra|MX||41|1j4|-7nb|9
+San Miguel Nocutzepo|MX||41|1i9|-7ui|9
+San Miguel Taimeo|MX||41|1j4|-7s0|9
+San Martino-Sant'Anzino|IT||9o|38w|z1|9
+San Miguel Acambay|MX||41|1kc|-7n5|9
+San Miguel Centro|PA||4g|oa|-66r|9
+San Mateo|MX|Guerrero|41|1ek|-7r7|9
+San Miguel de Eneñas|PE||3o|-tv|-5sy|9
+San Miguel|MX|Guerrero|41|1ci|-7nu|9
+San Marcos|MX|Durango|44|1vi|-7zm|9|Veinticuatro de Febrero
+San Miguel del Monte|MX||41|1ii|-7sx|9
+San Martino delle Scale|IT||9o|2xt|10t|9
+San Miguel Cañadas|MX||41|1is|-7nz|9
+San Miguel|MX|San Luis Potosí|41|1og|-7sf|9
+San Marino|IT|Emilia-Romagna|9o|3fw|vq|9
+San Martín|MX|Querétaro|41|1k9|-7qa|9
+San Miguel las Minas|MX||41|1fg|-7l5|9
+San Margos|BZ||24|192|-6uy|9|San Marcos
+San Miguel Tlaltepexi|MX||41|1ds|-7le|9|Tlatepexi
+San Miguel (San Miguel Tenextepec)|MX||41|1hi|-7pv|9
+San Miguel Comitlipa|MX||41|1dx|-7lr|9
+San Miguel la Toma|MX||41|1fh|-7lu|9
+San Martín Morelos|MX||41|1i9|-7ow|9
+San Matías|MX||41|1gj|-7h8|9|Los Mangos
+San Martín Rinconada|MX||41|1h4|-7jb|8
+San Miguel Hojas Anchas|MX||41|1hl|-7pc|8
+San Miguel Curinhuato|MX||41|1ji|-7re|8|San Miguel Curianhuato
+San Mateo Río Hondo|MX||41|18u|-7fx|8|Río Hondo
+San Miguel Reyes|MX||41|1b0|-7jx|8
+San Miguel|BZ||24|199|-6v1|8
+San Miguel Tamácuaro|MX||41|1hg|-7ts|8
+San Mateo Peñasco|MX||41|1bn|-7ix|8
+San Marcos de Begoña|MX||41|1lw|-7s0|8
+San Miguel Ejutla|MX||41|1a2|-7gq|8
+San Martín de las Cañas|MX||41|1m7|-80i|8
+San Melchor Betaza|MX||41|1bx|-7f3|8
+San Miguel del Arroyo|ES||9d|374|-ce|8
+San Martín de Pusa|ES||9d|32i|-cv|8
+San Martín Chamizal|MX||41|1bz|-72h|8
+San Martín|MX|Zacatecas|41|1pq|-7tm|8
+San Martín|MX|Veracruz|41|1lh|-7k2|8
+San Miguel|MX|Guanajuato|41|1jo|-7rl|8
+San Miguel del Puerto|MX||41|188|-7f5|8
+San Martín|MX|San Luis Potosí|41|1ow|-7q2|8
+San Martinito|MX||41|1hr|-7ls|8
+San Mateo Tlacoxcalco|MX||41|1et|-7id|8
+San Miguel del Guaricho|MX||41|1lw|-7u2|8
+San Martino Destra|IT||9o|3id|yi|8
+San Miguel Mixtepec|MX||41|1am|-7hc|8
+San Miguel del Yuco|PA||4g|nq|-6di|8
+San Macario|IT||9o|3ip|od|8
+San Miguel Ecatepec|MX||41|196|-7e0|8
+San Miguel Tinajab|MX||41|198|-73u|8
+Sânmihaiu de Câmpie|RO||8u|3m9|1vm|7|Sânmihaiul-de-Câmpie;Sînmihaiu de Cîmpie
+San Martín de Montalbán|ES||9d|32a|-c7|7
+San Martín Comalapa|MX||41|1hj|-7hg|7
+San Miguel|MX|Querétaro|41|1lz|-7po|7
+San Miguel|MX|Chiapas|41|1ao|-735|7
+San Martin|MX|Puebla|41|1gw|-7kh|7
+San Martín Zacatempa|MX||41|1gh|-7lx|7
+San Miguel|MX|Nayarit|3x|1q1|-84g|7
+San Michele|IT|Emilia-Romagna|9o|3ec|yj|7
+San Miguel Buenavista|MX||41|1hr|-7kf|7
+San Marcos|MX|Guanajuato|41|1m6|-7ti|7
+San Matías Petacaltepec|MX||41|18x|-7ed|7|Petalcatepec;Petaldatepec;Petacaltepec
+San Martín de Terreros|MX||41|1m3|-7sn|7
+San Miguel|MX|Veracruz|41|1e7|-7br|7|Zapoteca
+Francisco I. Madero|MX|Chihuahua|2g|2aj|-8bg|7|San Miguel
+San Marco|IT|Veneto|9o|3i5|wk|7
+San Mateo Mixtepec|MX||41|1am|-7ha|7
+San Martino Spino|IT||9o|3gt|v7|7
+San Martín|MX|Puebla|41|1jl|-7j8|7
+San Marcos Xinicuesta|MX||41|1c1|-7kk|7
+San Miguel de Ocampo|MX||41|1h2|-7oh|7
+San Miguel del Resgate|MX||41|1k7|-7kq|7
+San Miguel Copala|MX||41|1be|-7k1|7
+San Matteo|IT||9o|3h2|tj|7
+San Miguel Caltepantla|MX||41|1kw|-7oq|7|San Miguel Caltompantla
+San Miguel Viejo|MX||41|1m3|-7ry|7
+San Miguel Número Dos (El Quemado)|MX||3x|1on|-84r|7
+San Miguel|MX|Puebla|41|1f5|-7id|7
+San Miguel Amatitlán|MX||41|1dp|-7ka|7
+Sânmihaiu German|RO||8u|3iz|1mf|7|Sânmihaiul-German;Sînmihaiu German
+San Miguel Tecolacio|MX||41|1f8|-7m3|7
+San Mateo Yucutindoo|MX||41|1ai|-7is|7|Yucutindoo;Yucutindo
+San Mateo|MX|Jalisco|41|1ie|-83x|6
+San Miguel de Sema|CO||27|fc|-5os|6|San Miguel Sema
+San Mango sul Calore|IT||9o|35s|15l|6|Fanum Sancti Magni;San Mangu supra lu Caluri
+San Miguel|MX|Veracruz|41|1m7|-7iz|6
+San Miguel Yogovana|MX||41|198|-7gf|6|Yogovana
+La Caldera|MX||41|1i6|-7jv|6|San Miguel;Caldera;Las Calderas
+San Miguel|MX|Puebla|41|1gz|-7ju|6
+San Miguel Tenango|MX|Oaxaca|41|197|-7dj|6
+San Martín Zacatepec|MX||41|1dh|-7ke|6
+San Martino alla Palma|IT||9o|3dj|uy|6
+El Llano|MX|Michoacán|41|1h7|-7sa|6|San Miguel Canario
+San Miguel Charahuén|MX||41|1i3|-7ui|6
+San Miguel Peras|MX|Guerrero|41|1c4|-7kw|6
+San Miguel|CO||27|ia|-5lt|6
+San Mateo Zoyamazalco|MX||41|1f6|-7jo|6
+San Martino Pizzolano|IT||9o|3hg|qq|6
+San Miguel Ayotempa|MX||41|1ma|-7ml|6|San Miguel
+San Miguel el Alto (El Puerto)|MX||41|1j5|-7qi|6
+San Martino Di Campagna|IT||9o|3jz|z5|6
+San Miguel el Alto (San Miguelito)|MX||41|1k5|-7t2|6
+San Marcos Oacatzingo|MX||41|1dt|-7oc|6
+San Miguel Tlanichico|MX||41|1b1|-7gu|6
+San Miguel|MX|Jalisco|41|1io|-82x|6
+San Miguel 2da. Sección|MX||41|1dr|-76t|6
+San Martino Sinistrac|IT||9o|3ic|yi|6
+San Marcos|MX|Chiapas|41|1b4|-745|6
+San Marco|IT|Campania|9o|36i|12y|6
+San Marcos|MX|Veracruz|41|1kj|-7j4|6
+San Martino|IT|Trentino-Alto Adige|9o|3ly|x2|6
+San Martín Ocoxochitepec (San Martín)|MX||41|1hj|-7qi|6
+San Mateo Coatepec|MX||41|1g9|-7m1|6
+San Miguel del Brete|MX||41|1l3|-7ts|6
+San Miguel|MX|Oaxaca|41|1au|-7d3|6
+San Miguel Ixitlán|MX||41|1e0|-7jl|6|San Miguel Ixtlán
+San Michele|IT|Emilia-Romagna|9o|3fc|xn|6
+San Miguel Palmas|MX||41|1mm|-7pp|6|Misión de Palmas
+San Marco|IT|The Marches|9o|3c1|127|6
+San Marcos Jilotepec|MX||41|1hu|-7l9|6
+San Miguel Adentro 1ra. Sección|MX||41|1d8|-75j|6|San Miguel Adentro
+San Miguel Nopalapa|MX||41|1jm|-7m7|6
+San Miguel Yotao|MX||41|1c9|-7fm|5
+San Martino d'Agri|IT||9o|33s|18l|5
+San Miguel|MX|Michoacán|41|1jo|-7uc|5
+San Michele in Bosco|IT||9o|3hb|td|5
+San Miguel (San Miguel Huaixtita)|MX||41|1pb|-81s|5
+San Miguel|MX|Oaxaca|41|18m|-7j5|5
+San Mamete|IT||9o|3jv|p5|5
+San Miguel|PA|Panamá|4g|pn|-646|5
+San Michele|IT|Veneto|9o|3j6|wh|5
+San Martino|IT|Liguria|9o|3fb|no|5
+San Martín Jolalpan|MX||41|1d8|-7m3|5
+San Miguel Reagui|MX||41|1ci|-7fb|5
+San Miguel Cuevas|MX||41|1bx|-7kd|5
+San Michele|IT|Campania|9o|34u|14f|5
+San Miguel|MX|Hidalgo|41|1lu|-7lr|5
+San Miguel de Buenavista|MX||3x|1mm|-81u|5
+San Miguel Santa Flor|MX||41|1ds|-7gw|5
+San Marcos de Abajo|MX||41|1me|-7sm|5
+San Marcos|MX|Chiapas|41|1a7|-72s|5
+San Miguel Huautla|MX||41|1da|-7hu|5
+San Miguelito|MX|Guanajuato|41|1mi|-7rf|5
+San Martín|MX|Hidalgo|41|1kl|-7m2|5
+San Martín del Progreso (La Punta)|MX||41|1jw|-7jm|5
+San Martino sulla Marrucina|IT||9o|39a|13i|5

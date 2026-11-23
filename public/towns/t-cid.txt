@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Ciudad Guayana|VE||2c|n7|-4u0|7jq|Cidade Guaiana;Guayana;Ciudat Guayana;Siudad Guajana;Sjudad Guajan;Ciudad Guiana
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Cidade Ademar|BR||4w|-1tr|-3lm|1x8
+Al ‘Āshir min Ramaḑān|EG||c|2c6|2g7|1wd|Stadt des 10. Ramadan;Cidade do Ramadão;Kota 10 Ramadan;Urbo de la Deka de Ramadaanon;Città del decimo Ramadan;Ciudad del Ramadon 10;Thành phố 10th of Ramadan;Ville de 10 Ramadan;Madinat al-Ashir min Ramadân;Madinat Al Ashir min Ramadan
+Cidade Tiradentes|BR||4w|-1ti|-3kw|1he
+Cidade Dutra|BR||4w|-1tx|-3lq|1ep
+Sidon|LB||64|2l8|2q9|19g|Sydon;Saida;Sayda;Cidono;Sidó;Sidun;Szidón
+Cidade Lider|BR||4w|-1tg|-3l5|11z
+Cidade Ocidental|BR||4w|-18r|-3p5|pi
+Ciudad Real|ES||9d|30b|-ax|kr|Villa-Real;Cidade Real;Ciudá Real
+Belize City|BZ||24|1cm|-6t0|i4|Ciudad de Belice;Belizas;Belize-stad;Belize;Thành phố Belize;Dinas Belize;Altepetl Belice;Belizurbo;Syudad han Belize;Cidade de Belize;Kota Belize;Bandaraya Belize;Belize Ceety;Beliz;Belice
+Chidambaram|IN||6t|vo|65d|ha|Ćidambaram;Chitdambaram
+Ciudad Piar|VE||2c|kp|-4vw|eg|Cidade Pilar
+Cidade Universitária|PT||99|2zn|-pg|aa
+Cheadle Hulme|GB||9b|44a|-63|82|Ĉidilo-Hjumo
+Daliyat al Karmel|IL||6n|2it|2pd|6y|Daliyat at Karmil;Daliyat ad-Druz;Daliyat al-Karmil;Daliyah;Carmel City;Dāliyat el Karmil;Dalyat el Karmel;Daliat al karmel;Ir haKarmel;Cidade de Carmel;Ir ha-Karmel;Ciudad Carmel;Sivdad Karmel;Ir Karmel;Karmel;Kurmul City
+Cidreira|BR||4w|-2bu|-3vh|4r
+Cidelândia|BR||2w|-ed|-3oq|44
+Ciudad Rodrigo|ES||9d|34s|-i5|3x|Cidade Rodrigo;Ciarrodrigu;Siudad-Rodrigo;Ciudad-Rodrigo
+Polonnaruwa|LK||68|m2|690|3v|Polonnâruvâ;Polonaruva;Cidade Antiga de Polonnaruva;Polaṉṉaṟuvai
+Tarrafal|CV||84|16g|-1tz|3r|Cidade de Mangui
+Cidade Gaúcha|BR||4w|-1sy|-432|3k
+Cide|TR||94|38d|2jo|3d
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+George Town|BS||47|1tc|-5uj|21|Jorj Shahri;Kota George;Bandar George;Pueblo George;Ville de George;Kutha George;Cidade de George
+Staré Město|CZ|Prague|9m|3v5|142|1r|Prager Altstadt;Old Town;Ciudad vieja;Vieille Ville;Città Vecchia;Oude Stad;Malnova Urbo;Pragako Hiri Zaharra;Óváros;Stare Miasto;Cidade Velha;Praški stari grad
+Cidra|PR||4m|1ei|-53s|1f|Sidra
+Cidade Nova|BR||4w|-1rn|-3c0|1b
+Cidade Velha|CV||84|15g|-1tl|x|Sidade Velja;Old City
+Ciudad de la Paz|GQ||10|4f|u2|k|Cidade da Paz;Ciudad de le Paz
+Clarence Town|BS||47|1s6|-5sa|i|Klarnens Shahri;Kota Clarence;Bandar Clarence;Pueblo Clarence;Ville de Clarence;Kutha Clarence;Cidade de Clarence
+Arthur’s Town|BS||47|1we|-5u7|c|Artur Shahri;Kota Arthur;Bandar Arthur;Pueblo Arthur;Ville d'Arthur;Kutha Arthur;Cidade de Arthur;Arthur Town
+Cidreag|RO||8u|3pb|1rs|b|Csedreg
+Alice Town|BS||47|1zh|-64a|9|Alisa Shahri;Kota Alice;Bandar Alice;Pueblo Alice;Ville d'Alice;Kutha Alice;Cidade de Alice
+Cockburn Town|BS||47|1ut|-5r1|8|Kokburn Shahri;Kota Cockburn;Bandar Cockburn;Pueblo Cockburn;Ville de Cockburn;Kutha Cockburn;Cidade de Cockburn

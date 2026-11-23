@@ -1,0 +1,70 @@
+# Cloudflare Pages served every static asset with `public, max-age=14400` by default — four
+# hours. For ordinary assets that is right and the service worker precaches with
+# {cache: "reload"} anyway, so it never reads stale bytes.
+#
+# The two "MEASURED" notes below were measured on Pages. The site is now a Worker with static
+# assets, and locally (wrangler dev) the Worker's asset server honors every rule here: /sw.js
+# answers `public, max-age=0, must-revalidate`, the icons `no-cache`, and a file with no rule of its
+# own `public, max-age=0, must-revalidate`. On production they are unmeasured until the first
+# day's watch list reads them.
+#
+# sw.js is the exception, and it is the one file where four hours is dangerous: it is the gate
+# every update passes through.
+#
+# MEASURED, do not trust the rule below: Cloudflare Pages IGNORES this directive for /sw.js and
+# serves `public, max-age=14400, must-revalidate` regardless of what is written here. The rule is
+# kept because it costs nothing and may start working, but the ACTUAL fix is on the registration
+# side — both index.html and auth.js register with { updateViaCache: "none" }, which makes the
+# browser bypass its HTTP cache for the worker script. That is not overridable by the host.
+#
+# The manifest rule below DOES take effect.
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Same reasoning for the manifest: it names the start_url and the icons, and a stale one sends
+# an installed app to the wrong entry point.
+/manifest.webmanifest
+  Cache-Control: no-cache
+
+# THE BRAND ASSETS, WHICH ARE UNVERSIONED BY NECESSITY. /icons/icon-192.png, /favicon.ico and
+# the wordmark are named in the manifest, in <link rel="icon">, and inside a fetch() — none of
+# which can carry a content hash, because a manifest icon URL is also what an ALREADY INSTALLED
+# home-screen app re-reads. Four hours of edge cache on those means redrawing the mark and
+# finding the old one still being served, which is exactly what happened: icon-512 updated and
+# icon-192 did not, from the same deploy.
+#
+# `no-cache` does not mean "do not store" — it means revalidate before use. The bytes still come
+# from cache when they have not changed; the browser just asks first. For four small files that
+# change only when the logo does, that would be the right trade.
+#
+# MEASURED, AND IT DOES NOT TAKE: Cloudflare Pages ignores these three rules exactly as it
+# ignores the /sw.js one above, and still answers `max-age=14400`. Checked against production
+# after the deploy that added them. The rules stay for the same reason that one does — they cost
+# nothing and may start working — but the honest statement is that a redrawn icon can be up to
+# four hours behind at the edge, and the real mitigations are the ones that do not depend on the
+# host: the service worker precaches these with {cache: "reload"}, and a VERSION bump replaces
+# the shell outright. If an icon ever needs to change RIGHT NOW, purge the cache in the
+# Cloudflare dashboard; nothing in this file can do it.
+/icons/*
+  Cache-Control: no-cache
+
+/favicon.ico
+  Cache-Control: no-cache
+
+/img/wordmark.svg
+  Cache-Control: no-cache
+
+# EVERY FILE. The app's files are served without running the Worker, so the two headers the
+# Worker used to add to them are given here: a referrer that never carries a path to another
+# site, and a ban on guessing a file's type. The pages the Worker hands to the asset server (a
+# trip's address, the sign-in and join pages) get them too.
+#
+# And no other site may show a page of the app inside its own (clickjacking: /account or a trip,
+# framed out of sight, under a click meant for something else). Both forms, for browsers that
+# know only the older one. A shared board's page (/s/) is the Worker's own answer, not a file, so
+# it stays one anyone may embed: it is public and has nothing to press.
+/*
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Content-Security-Policy: frame-ancestors 'none'

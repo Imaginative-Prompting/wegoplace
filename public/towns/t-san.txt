@@ -1,0 +1,47 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cabo San Lucas|MX||3x|1rl|-8hb|1kb|Kabo san Lukas;Kabo Sanlukasa;Mys svätého Lukáša
+Yuen Long San Hui|HK||6i|1qb|8sr|1jk
+Donostia / San Sebastián|ES||9d|3cb|-5h|1fi|San Sebastián;Donostia;La Bella Easo;Sanse;Sant Sebastià;Saint-Sébastien;Donostio;São Sebastião;Donosti;Donostia-San Sebastián;Donostia San Sebasián
+San|ML||5|10y|-dm|so
+San|CI||0|sv|-hw|1x
+San|MM||7y|1ae|7ep|p
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Chengdu|CN||7i|2d7|813|4hk2|Txengdu;Čcheng-tu;Thành Đô;Čengdu;Čendu;Csengtu;Ĉengduo;Sàng-tû-sṳ;Sêng-to͘-chhī;Sìng-dŭ;Chendu;Cwngzduh;Tin fu;Ch’eng-tu
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Sydney|AU||8l|-2m3|bo1|17ic|Sidnejo;Sidney;Sidnėjus;Sydneium;Sidneja;Sanctus Dionysius;Syd;Sidni;Sėdniejos;Sit-nì;Sék-nà̤;Sidnei
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Santiago|CL||4u|-2ky|-5g9|11bp|Sanctiacobi;Čilės Santjagas;Santjago
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Buenos Aires|AR||1l|-2o5|-4i6|mb3|Buenos Ayres;Bwènozè;Buenosairesa;Buenos-Aýres;Bonaero;Bos Aires;Bonaëropolis;buenosaires;Baires;Ciudad de La Santísima Trinidad y Puerto de Santa María del Buen Ayre;Santa María del Buen Ayre;Bouonézâr;Buenos Ares
+Xining|CN||7i|2tr|7uo|j1k|Sining;Shining shehiri;Tây Ninh;Sinino;Si-ning;Siningas;Se-lêng-chhī;Să̤-nìng;Sî-nèn-sṳ;Hszining;Sihningz;Sinin;Siningfu;Hsi-ning
+Mashhad|IR||7o|2su|4ll|hsw|Mashad;Maŝhado;Meszhed;Mexed;Maschhad;Masyhad;Meşhed;Mešheda;Meixad;Mešhedas;Maxhad;Maşat;Sanaabad;Alexandria
+Santo Domingo|DO||4v|1fb|-5e5|gzn|Saint Domingue;Ciudad Trujillo;Santo-Dominqo
+Sanaa|YE||5r|16n|3et|ey7|Sana'a;Şana‘ā';Sana;Sanao;San'a;Şan‘ā’;San’ah
+Santa Cruz de la Sierra|BO||3n|-1df|-4vi|e4q|Santa Cruz;Santa Cruz da Serra;Santa-Kruzo
+Santiago de Querétaro|MX||41|1l7|-7qv|cau|Santjago de Keretaras;Santiago Tlachco;Santiagu di Querétaro;Queretarum;Querétaro City;Keretaro;Querétaro
+San Antonio|US|Texas|2f|29q|-7ll|bs3|Sanctus Antonius;Sanantonio;San Antonijus;San-Antonio;San Antoniyo
+San Diego|US|California|3p|2iw|-91g|au5|San-Diego;Didacopolis;San Diegas;San-Dieqo;Sandjego;San Diegu;San Diyégo
+Santiago de los Caballeros|DO||4v|1i1|-5gd|99c|Santjago de los Kabaljerosas;Santiago
+Shangrao|CN||7i|271|93m|8m5|Šang-žao;Thượng Nhiêu;Sjangrao;Siông-ngièu;Song-ngièu-sṳ;Siōng-jiâu-chhī;Shang-jao
+Sanya|CN||7i|1ep|8g7|7yi|San-ja;Senya shehiri;Tam Á;Sam-a-chhī;Săng-ā;Sanj;Sama
+Changwon|KR||7h|2pv|9xg|7wx|Ch'angwŏn;Čangvonas;Cshangvon;Ĉangvono;Sangwon
+San Jose|US|California|3p|2vq|-9el|7p2|San-Joseo;San Chozė;Iosephopolis;San Xosé;Sanhosē;San-Xose
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Sanhe|CN|Hebei|7i|332|917|7g3|San-ho
+São Luís|BR||2w|-71|-3f2|72s|San Luisas;Saun Luís;Maranham;San Luis;Maranhão;São Luiz
+San Francisco|US||3p|2wx|-9g2|6dv|San-Francisko;Frisco;Sanfrancisko;San Frantzisko;Kapalakiko;Franciscopolis;San Fransiskas;São Francisco;San Fransisko;San Franciscu;Khiu-kîm-sân;San-Fransisko;San Francisko;San Fransisco
+San Pedro Sula|HN||56|173|-6sj|66l|San Pedro Zōllān
+São José dos Campos|BR||4w|-1se|-3jh|5lz|Vale do Paraíba;SJCampos;Vale Paraiba;San Žozė dos Kamposas
+San Luis Potosí|MX|San Luis Potosí|44|1pj|-7sh|5ks|San-Luis-Potosi
+General Santos|PH||71|gz|9np|5kl|Siyudad na Heneral Santos;Heneral Santos
+Zanzibar|TZ||h|-h4|30w|5h6|Sansibar-Stadt;Sansibar;Zanjibar
+Santo Domingo Oeste|DO||4v|1fe|-5eg|5et
+Santo Domingo Este|DO||4v|1fd|-5e1|5eg
+Agadir|MA||d|2ci|-qo|5dz|Santa Cruz;Agadair
+Sanmenxia|CN||7i|2om|8kv|55x|San-men-sia;Tam Môn Hiệp;Săng-muòng-hiĕk;Sam-bûn-kiap-chhī;San’myn’sya;San-men-hsia
+Santo André|BR|São Paulo|4w|-1tq|-3la|540
+Feira de Santana|BR||20|-y3|-309|4r7|Feira de Sant'Anna;Feira De Saint Anna
+Sanming|CN||7i|20x|92q|4na|Senming shehiri;Săng-mìng;San-ming;Sâm-mìn-sṳ;Tam Minh;Sam-bêng-chhī
+Sāngli|IN||6t|1at|5r4|4n0|Turmeric city;Sangla
+Santiago de Cuba|CU||36|1jm|-5um|4af|Santiago de Kubo;Santiago di Cuba;Kubos Santjagas;Santyago de Kuba;Santyaqo de Kuba
+San Miguel de Tucumán|AR||1v|-22i|-515|48h|Tucumán;Tukumanas;Sanctus Michael Tucumanensis;San Migel De Tukuman

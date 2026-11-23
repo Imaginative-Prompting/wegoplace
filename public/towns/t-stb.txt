@@ -1,0 +1,8 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sankt Blasien|DE||8r|3oo|ml|15|Saint Blasien;San Blasien;St. Blasien
+Saint Bonifacius|US||2f|3gr|-78f|n|St. Bonifacius
+Saint Bonaventure|US||48|38w|-620|k|St. Bonaventure
+Wartberg|AT||a2|3o1|170|k|St. Barbara
+Saint Bees|GB||9b|47d|-9z|g|Saint Bega;St Bees;St. Bees
+Saint Bernice|US||38|32b|-6r4|6|St. Bernice
+St-Bruno|CA||59|3nu|-5dr|5

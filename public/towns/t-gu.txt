@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Guiyang|CN||7i|21u|88g|yrp|Guijangas;Quý Dương;Kuej-jang;Gŭijango;Kùi-iông-chhī;Gói-iòng;Queiyanga;Guyyan;Gveiyangz;Guijang;Quyinq;Kuei-yang
+Giza|EG||c|2bd|2ep|xp5|Gizeh;Guiza;Gizo;Gizé;Ghizeh
+Guayaquil|EC||33|-64|-65x|l0l|Gvajakilis;Guaiaquil;Gvajakila;Wayakil;Guaiaquilum;Guajakil;Gvajakilo
+Gujranwala|PK||6q|2hc|5q3|jdj|Qucranvala;Gudžranvala;Gudźranwala
+Zhuhai|CN|Guangdong|7i|1pw|8rh|h13|Juxey shehiri;Châu Hải;Chu Hải;Ĝuhaj;Ču-chaj;Chû-hói-sṳ;Chu-hái-chhī;Ciŏ-hāi;Zyu Hoi;Chyu Hoy;Chu Hoi;Chu-hai
+Zunyi|CN||7i|24x|88z|fq2|Dzuni;Ĝunji;Tuân Nghĩa;Cun-i;Cŏng-ngiê;Chun-gī-chhī;Cunji;Zunji
+Guilin|CN||7i|1y8|8ie|c4r|Quế Lâm;Kui-lìm-sṳ;Gveilinz;Kuej-lin;Gujlin;Kuei-lin
+Guadalajara|MX||41|1lg|-7z3|aow|Gvadalaharo;Gvadalachara;Ātemaxac;Guadalaxara;Gvadalahara;Qvadalaxara
+Guankou|CN||7i|268|8rn|anc
+Guarulhos|BR||4w|-1t6|-3l9|adq
+Gustavo Adolfo Madero|MX||41|1i5|-7nb|95e|Delegación Gustavo A. Madero;Gustavo A. Madero
+Zhuzhou|CN||7i|25b|8qb|8pt|Jianning;Zhutsjou;Ču-čou;Ĝuĝou;Chu-chû-sṳ;Chu Châu;Chu-chiu-chhī;Çyu Cou;Tṳ̆-ciŭ;Džudžou;Džudžov;Chu-chou
+Guigang|CN||7i|1s8|8gf|8dr|Gói-gē̤ng;Kuej-kang;Kui-kóng-sṳ;Quý Cảng;Gveigangj;Kùi-káng-chhī
+Guatemala City|GT||32|14o|-6zf|7od|Santiago de Guatimala;Nueva Guatemala de la Asunción;Nueva Guatemala;New Guatemala;Guatemala-Stadt;Ciudad Guatemala;Ciutat de Guatemala;Gvatemalurbo;Guatemala;Guatemala-Urbo;Città del Guatemala;Gvatemala;Guatemala-stad;Guatemala by;Gwatemala;Cidade da Guatemala;Ciudad de Guatemala;Guatemala Hiria;Guate
+Ciudad Guayana|VE||2c|n7|-4u0|7jq|Cidade Guaiana;Guayana;Ciudat Guayana;Siudad Guajana;Sjudad Guajan;Ciudad Guiana
+Guli|CN||7i|288|99f|7fu
+Guwahati|IN||6t|20q|72v|7fb|Gauhati;Guvahati;Guvahatis
+Quzhou|CN||7i|28g|967|6ys|Čchü-čou;Cù Châu;Kû-chiu-chhī;Gṳ̀-ciŭ
+Gurugram|IN||6t|272|5xz|6u9|Gurgáon;Gurgaonas;Guragaona;Gurgaono
+Guang’an|CN||7i|2cn|888|6me|Kuang-an
+Guadalupe|MX|Nuevo León|44|1zc|-7qi|574
+Guntur|IN|Andhra Pradesh|6t|19a|67i|565
+Jaboatão dos Guararapes|BR||4p|-mj|-2p9|4yw
+Gujrat|PK||6q|2ih|5ps|4fi|Gudžrat
+Kalaburagi|IN||6t|1c6|5xg|46v|Gulbarga;Kalburgi;Kalaburgi;Kulbarga;Gulburga
+Pasir Gudang|MY||6v|42|80n|44j
+Guangyuan|CN||7i|2i4|85y|3zg|Kuang-jüan;Quảng Nguyên;Guōng-nguòng;Kóng-goân-chhī;Kwangyüan;Kuan-yüan;Kuang-yüan
+Guyuan|CN||7i|2s1|878|36f|Ku-yüan
+Gujangbagh|CN||7t|2v3|661|35l|Ciudad de Jotán;Khotan;Hoten;Hotan;Xoten;Xotan;Chotan;Hotanas;Ho-t’ien;Gujiangbage
+Gumi|KR||7h|2sb|9wi|34f
+Kahramanmaraş|TR||94|2we|2ul|2yy|Gurgum;Maraix;Kachramanmarašas;Kahromanmaros
+Bandar Abbas|IR||7o|23j|4cc|2pu|Cambarão;Port Comorão;Gombroon;Gumrun;Bandar-e Abbas;Bandar Abas;Bandar-Abbász;Bender Ebbas;Bandare Abasas;Bender Abbas;Bandar-Abbas;Bandar-e ‘Abbās;Bandar ‘Abbāsī;Bandar ‘Abbās
+Guédiawaye|SN||g|151|-1cc|2jl
+Gundupālaiyam|IN||6t|x6|65o|2bd
+Guarujá|BR||4w|-1un|-3ki|29x|Guyrajára
+Gunpo|KR||7h|2vt|9sn|27l|Kunp’o
+Gebze|TR||94|35c|29r|266|Libyssa;Guebze
+Guantánamo|CU||36|1jy|-5sx|23s|Guatanamo
+Gunsan|KR||7h|2ry|9rz|21j|Kunsanpo;Kunsan;Gunzan;Kunzan

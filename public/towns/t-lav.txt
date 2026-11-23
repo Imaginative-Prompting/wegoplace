@@ -1,0 +1,226 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Lviv|UA||98|3ug|1uq|5j9|Lemberg;Lwów;Leópolis;Lvov;Lavov;Leopoli;Lvovas;Ļvova;Liov;Lwiw;Lwif;Lemburg;İlbav;Ljviv;Leopul;Lembärsch;Liòpuli;Lwůw;Leopolo;Ilyvó;L'vov
+Laval|CA||59|3il|-5op|3ds
+Dehiwala-Mount Lavinia|LK||68|j0|65v|1p2|Dehivala-Maunt Lavinija;Mount Lavinia;Dehivala-Maunt Lavinia;Mount Laviniya;Mount Lavania;Mount Lavina
+Leverkusen|DE||8r|3xr|je|197|Lävverkuuse;Leverkūzene;Lėverkuzenas
+Larache|MA||d|2pr|-h4|11x|Laraxe;Al-Araisz;Larraix;Laraŝo;Larašas;Al ‘Arā’īsh;Lavache;El Araish
+La Victoria|VE||2c|sf|-571|z7|La Viktorija
+Lavras|BR||4w|-1n1|-3h0|ur
+La Vega|DO||4v|1he|-5fx|sg
+La Villa del Rosario|VE||2c|sp|-5kv|n0|Villa del Rosario
+la Vila de Gràcia|ES||9d|370|60|e5
+Laval|FR||9k|3pj|-25|e1
+Portugalete|ES||9d|3cc|-8e|cq|Portu;la villa jarrillera;Portugaleto;Portus Gallorum
+Lavapiés|ES||9d|349|-aa|ce
+Ocozocoautla de Espinosa|MX||3z|1ak|-77d|aw|La Ventosa
+Laval-des-Rapides|CA||59|3ik|-5oq|a9
+La Vergne|US||2f|2s2|-6oi|9o|Lavergne;Laveren
+La Vela de Coro|VE||2c|vu|-5d9|9n
+Villajoyosa|ES||9d|2yz|-n|9e|La Vila Joiosa
+La Verne|US||3p|2mq|-935|93
+Lavras da Mangabeira|BR||2w|-ir|-308|8r
+la Verneda i la Pau|ES||9d|372|64|85
+La Virginia|CO||27|dm|-5us|77
+La Valette-du-Var|FR||9k|3bu|gm|6f|La Valeta;La Valette
+Lavradio|PT||99|2zf|-p5|63
+Laventille|TT||4k|tl|-4qu|5u
+Lavinio|IT||9o|37a|yz|5k|Lavinium
+Lavāsān|IR||7o|2ri|3zg|51
+La Vista|US||2f|36e|-7er|4p
+Lavello|IT||9o|361|17v|3n|Lavelo;Forentum;Labellum;Lavellu
+Port Lavaca|US||2f|27i|-7gf|3g|Lavaca
+Lavington|AU||8l|-2s4|bc6|3f
+Lauingen|DE||8r|3qx|sz|37|Lavinoen
+Lavagna|IT|Liguria|9o|3f3|pz|37
+Lavandevīl|IR||7o|2yf|3rr|34|Lavandvīl;Lavandavil
+Lauffen am Neckar|DE||8r|3sb|pf|33|Laviacum
+La Victoria|CO||27|ck|-5v8|33|Victoria
+Lavaur|FR||9k|3de|51|2t
+La Valbarelle|FR||9k|3c8|f5|2q
+Lavender|SG||7j|3n|80i|2p
+Lavínia|BR||4w|-1mt|-3xs|2p
+Lavra|PT||99|36m|-o8|2o
+la Vila Olímpica del Poblenou|ES||9d|36z|64|2m
+Pola de Laviana|ES||9d|3c5|-fg|2j|Laviana;Llaviana;Pola de Labiana;Labiana
+La Victoria de Acentejo|ES||83|26z|-19q|2i
+La Venta|MX|Tabasco|3z|1ea|-799|2g
+Lavaltrie|CA||59|3jg|-5nk|2g
+Lovosice|CZ||9m|3wc|131|2f|Lobositz;Lavosice
+Lavachha|IN||6t|1ke|5mr|2d
+La Villette|FR||9k|3cb|ex|2b
+Laveno|IT||9o|3jj|ny|29
+Lavras do Sul|BR||4w|-2dl|-45p|22
+Lavelanet|FR||9k|3b9|55|22|LAvelhanet;Avellanetum
+Lavrinhas|BR||4w|-1qp|-3gq|20
+Lávrio|GR||8p|2wr|1uu|1z|Laurium;Lavrium
+Valletta|MT||9e|2rq|14b|1w|La Valeto;La Valette;Valetta;Valeta;La Valeta;Valleta;Vaileite;A Valeta;Waleta;La-Valeto;La Valëtta;Vallett;La Valèt
+La Viste|FR||9k|3cg|ew|1w
+La Verrière|FR||9k|3rf|5f|1s|Verrière
+Lavis|IT||9o|3k6|uv|1s
+La Ville-du-Bois|FR||9k|3r6|6b|1q|Ville-du-Bois
+La Verpillière|FR||9k|3ir|eb|1q
+Laventure|MU||ag|-1jz|4g8|1q
+Lavagno|IT||9o|3i8|ux|1o
+Laveen|US||4i|2ko|-8nl|1n
+La Vega|CO|Cundinamarca|27|dw|-5qi|1l
+La Venta del Astillero|MX||41|1ll|-7zn|1k
+La Valla|MX||41|1ky|-7pv|1k|Familia Álvarez Monroy
+la Vall d'Hebron|ES||9d|373|5z|1j
+Le Loroux-Bottereau|FR||9k|3n8|-3r|1h|Lavreer-Botorel;Al Lavreer-Botorel;Oratorium Boterelli;Le Louroux-Bottereau
+Roveredo in Piano|IT||9o|3jt|z2|1h|Lavoreit
+Vazzola|IT||9o|3jc|yh|1h|Lavazola;Vazoła
+Lavena Ponte Tresa|IT||9o|3jp|om|1h
+La Voulte-sur-Rhône|FR||9k|3gg|da|1f|La Vòuta;La Voulte
+Laverton|AU|Victoria|8j|-2x6|b65|1e
+La Ville-aux-Dames|FR||9k|3no|25|1d
+La Ventosa|MX||41|19z|-7br|1d
+Laventie|FR||9k|3wn|7p|19|L’Vintille;Wentie
+Lavos|PT||99|33d|-oj|16
+Lavezares|PH||71|yt|9ld|15|Lavezaras
+LaVerkin|US||2p|2vc|-8qn|15|La Verkin
+Lazeshchyna|UA||98|3q3|1vu|14|Lazeshchina;Laveshchina
+Thôn La Vang Chinh|VN||6h|1ag|89v|14|La Vang
+Labenne|FR||9k|3d3|-3z|10|La Vena
+La Verrie|FR||9k|3mg|-2s|10
+La Vale|US||48|326|-62x|10|LaVale
+La Vega|CO|Cauca Department|27|5k|-5xa|z
+Villavieja|ES||9d|32p|-i|y|La Vila Vella
+La Valentine|FR||9k|3ca|f8|w
+Lavezzola|IT||9o|3fs|x0|u
+La Verde|AR||1n|-23d|-4ky|u
+Lavon|US||2f|2jr|-7fv|t
+Lavérune|FR||9k|3d3|al|s|La Veruna
+Lavernose-Lacasse|FR||9k|3ck|3i|r|La Vernosa e la Caça
+La Villa|US||2f|212|-7k1|q
+Lawigan|PH||71|t5|9f0|q|Lauigan;Lavigan
+La Victoria|MX|Zacatecas|41|1pu|-7ub|p
+Lavrica|SI||9a|3js|14g|o
+Lavaca|US||2f|2q6|-79l|o
+Lavardac|FR||9k|3eq|u|o
+La Victoria|ES||9d|2wo|-dh|n
+La Viña|AR||1s|-1yr|-525|m
+Lavonia|US||48|2no|-6ev|m
+La Venta|MX|Oaxaca|41|1a1|-7be|m
+Laverton|AU|Western Australia|8k|-27j|9g0|l
+Lavia|FI||92|4r4|1qr|l
+The Valley|AI||1i|1em|-4v6|k|El Valle;La-Valo;Valis
+Lavumisa|SZ||13|-23v|2gl|k
+Lavans-lès-Saint-Claude|FR||9k|3ku|g2|k
+La Ventana|MX|Coahuila|44|1yd|-7zg|k|Ventana
+La Victoria|MX|Sonora|37|28w|-8k1|k
+La Versolilla|MX||41|1lz|-7qu|j
+La Victoria|MX|Veracruz|41|1f1|-7c8|i|Victoria
+Lavallette|US||48|331|-5pr|i
+La Ventilla|MX|San Luis Potosí|41|1oh|-7sn|h|Ventilla
+La Victoria (La Peñita)|MX||41|1m6|-7ih|h
+Lavandeira|BR||1k|-zj|-3l7|h
+Lavit|FR||9k|3e4|2k|h
+La Vega|MX|Jalisco|41|1l6|-80i|h
+Villata|IT||9o|3i3|nf|g|La Vilata
+Lavilledieu|FR||9k|3fu|cd|f
+La Varenne|FR||9k|3nf|-3o|f
+La Villedieu-du-Clain|FR||9k|3l2|11|e
+Lavenham|GB||9b|40r|28|e
+Lavinaio-Monterosso|IT||9o|2wk|15y|e
+Laverne|US||2f|2tz|-7ph|e
+La Virtud|HN||56|132|-6ud|d|Virtud
+Lavendon|GB||9b|40x|-1u|d
+Lavky|UA||98|3qo|1r2|d|Lavki
+La Vernia|US||2f|29k|-7kk|d
+Lavrentiya|RU||5u|526|-d70|c|Lavrentia
+La Ville-aux-Clercs|FR||9k|3p4|31|c|La Ville-aux-Clers;La Ville-Aux-Clères
+La Valle - Wengen|IT||9o|3lm|x4|c
+Lavault-Sainte-Anne|FR||9k|3kn|78|c
+Laviano|IT||9o|35b|16j|c
+Lavochne|UA||98|3rl|1su|c|Lavochnoye
+Lavertezzo|CH||a7|3ki|ok|c|Vertezz
+La Victoria|MX|Tabasco|41|1fn|-75b|c|Victoria
+Lavalette|FR|Occitanie|9k|3by|6b|c
+La Vraie-Croix|FR||9k|3oh|-72|b|Langroez;Vraie-Croix
+Villevocance|FR||9k|3hm|cr|b|La Vila de Vaucança
+Laval-Pradel|FR||9k|3et|bb|b|La Val;Laval
+Lavalette|US||48|2yg|-6d1|b|Lavelette
+Lavoux|FR||9k|3lg|1h|b
+La Vaupalière|FR||9k|3th|2s|a
+Laval-en-Belledonne|FR||9k|3hp|gh|a
+La Vespière|FR||9k|3s6|15|a
+La Victoria (Kilómetro 47)|MX||41|1l8|-7im|a
+La Virginia|MX||41|1aw|-741|a
+Laversines|FR||9k|3ta|64|a
+La Venta|MX|Guanajuato|41|1mo|-7rz|a
+La Villita|US||2p|2sa|-86l|a
+Laveyron|FR||9k|3hl|de|9|Lavairon
+Lavāsān-e Bozorg|IR||7o|2ri|3zu|9|Lavāsān Bozorg
+La Valle Agordina|IT||9o|3kk|xj|9
+Lavariano|IT||9o|3jo|10r|9
+Lavender Bay|AU||8l|-2m0|bo1|9
+La Villa|IT||9o|3lf|x2|9|Stern
+La Victoria|MX|Campeche|3z|1fd|-70k|9|Victoria
+Lavaveix-les-Mines|FR||9k|3jz|5t|9
+La Verdière|FR||9k|3d8|gh|8|La Verdièra;Verdière
+La Valla-en-Gier|FR||9k|3i6|ck|8|La Valla-en Gier
+La Virgen|MX|Michoacán|41|1j8|-7up|8
+La Vicomté-sur-Rance|FR||9k|3qp|-5i|8|Kerveskont
+La Viña|MX||41|1hj|-7tv|8
+La Virgen|MX|Guanajuato|41|1jy|-7sa|8
+Lavington|CA||5b|3vj|-96u|8
+La Vecchia|IT||9o|3ft|t9|8
+Lavaré|FR||9k|3ph|1s|8
+La Veta|US||2p|2w7|-83p|8
+La Ventana|MX|San Luis Potosí|41|1rx|-7qi|8|Ventana
+Lávara|GR||8p|36n|21b|7
+Lavausseau|FR||9k|3lc|7|7
+La Ville-ès-Nonais|FR||9k|3qv|-5f|7|Kerlean
+Lavelle|US||48|358|-5w6|7
+Lavoûte-sur-Loire|FR||9k|3hc|av|7
+La Viña|PE|Piura|3o|-e1|-66o|7
+La Viña|PE|Lambayeque|3o|-hp|-65k|7
+La Vuelta|MX|Querétaro|41|1n4|-7no|7
+Lavacherie|BE||8t|3v1|fb|7
+La Vencedora|MX||41|1e5|-78o|7
+La Vernelle|FR||9k|3n9|4a|7
+La Vallée|FR||9k|3jh|-2c|7
+Laveline-devant-Bruyères|FR||9k|3pv|is|7
+Lavardin|FR||9k|3pk|6|7
+La Villita|MX|Jalisco|41|1l2|-7zu|7
+Lavalette|FR|Occitanie|9k|3d8|4g|7
+Lavau-sur-Loire|FR||9k|3nf|-5h|7|Gwal-Liger
+La Victoria|MX|Veracruz|41|1do|-7e0|7
+La Voivre|FR||9k|3q9|j6|7
+La Vergne|FR||9k|3jo|-1k|6
+La Victoria|PE||3o|-ju|-5x6|6
+La Vuelta|MX|Sinaloa|3x|1wo|-8b7|6
+La Venta (Barrio la Venta)|MX||41|1jc|-7p6|6
+La Ventilla|MX|Guanajuato|41|1mo|-7sd|6
+La Vieille-Lyre|FR||9k|3rw|23|6
+Laval-sur-Vologne|FR||9k|3pv|in|6
+Lavilletertre|FR||9k|3so|5d|6
+La Vigueta|MX||41|1kh|-7h4|6|Vigueta
+La Victoria|MX|Chiapas|41|156|-74y|6
+La Victoria|MX|Veracruz|41|1dm|-7aw|6
+Lavagna|IT|Lombardy|9o|3ia|q8|6
+La Venada|MX||3w|1zn|-7j3|6
+La Victoria|MX|Veracruz|41|1fa|-7fk|6|San Joaquín
+Laveissière|FR||9k|3hc|7t|6|La Vaissièra
+La Vega|MX|Hidalgo|41|1kx|-7nx|6
+La Venta de Mochitiltic|MX||41|1me|-81b|6|La Venta de Nochitiltic
+Lavaiano|IT||9o|3d7|te|6
+Lavoriškės|LT||a3|47z|1z8|6|Lavuorėškės;Ławaryszki;Lavorishkes;Lavariškės;Lovoriškės
+Le Loroux|FR||9k|3qf|-2z|6|Lavreer-an-Dezerzh
+Lavergne|FR||9k|3fv|14|6
+La Villeneuve-en-Chevrie|FR||9k|3s5|49|6
+La Ventana|MX|Chiapas|41|1al|-75i|6
+La Victoria|MX|Aguascalientes|41|1pq|-7w0|6
+La Villita|MX|Jalisco|41|1l7|-81d|5
+La Vittoria|IT||9o|37r|11b|5
+Lavassaare|EE||9x|4ij|1vr|5|Lavasāre;Lavassare;Lavasaare
+La Veuve|FR||9k|3s7|c0|5
+La Vacherie|FR||9k|3sh|35|5
+La Victoria|MX|Hidalgo|41|1ka|-7l1|5
+La Victoria|MX|Coahuila|44|1zu|-7ym|5
+Lavelanet-de-Comminges|FR||9k|3c6|34|5|LAvereit de Comenges;LAvereit de Comenge
+Lavci|MK||9u|35x|1n6|5|Lahci
+Emiliano Zapata|MX|Tamaulipas|44|1r8|-7pq|5|La Viga
+La Venta|MX|Guerrero|41|1dh|-7pj|5
+Lavenone|IT||9o|3j2|t0|5

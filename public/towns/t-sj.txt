@@ -1,0 +1,179 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Xi’an|CN||7i|2n6|8el|2ry1|Hsi-an;Xian;Ŝiano;Sianas;Tây An;Siaņa;Ŝingano;Šjan;Singan;Sian
+Shenyang|CN||7i|383|9iv|1xzh|Šenjangas;Thẩm Dương;Senjang;Ŝenjango;Šeņjana;Šen-jang;Sjenyang;Sím-iông-chhī;Sīng-iòng;Shenyan;Swnjyangh;Şenyanq
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Shiyan|CN|Hubei|7i|2ip|8jq|qp4|Š-jen;Thập Yển;Sĕk-iēng;Cha̍p-ián-chhī
+Shaoxing|CN||7i|2bc|9ay|hqw|Shawshin shehiri;Ŝaosing;Šao-sing;Thiệu Hưng;Sjaoxing;Siāu-heng-chhī;Siêu-hĭng;Shao-hsing;Shaohing
+Xiangyang|CN||7i|2h0|8ni|9zn|Xiangfan;Siang-jang;Hsziangjang;Šjangjang;Tương Dương;Hsiang-fan;Siangyang;Hsiang-yang;Siangfan
+Shiraz|IR|Fars|7o|2a9|41x|9n7|Chiraz;Sjiraz;Şiraz;Xiraz;Ŝirazo;Širazas;Šīrāza;Sziraz;Schiras;Chimaz
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Shangrao|CN||7i|271|93m|8m5|Šang-žao;Thượng Nhiêu;Sjangrao;Siông-ngièu;Song-ngièu-sṳ;Siōng-jiâu-chhī;Shang-jao
+Xianyang|CN||7i|2ne|8dy|7z9|Sien-jang;Ŝjanjango;Sianjangas;Hàm Dương;Hàng-iòng;Hszienjang;Hâm-iông-chhī;Hsien-yang
+Khartoum North|SD||r|17h|2id|7t6|Bahri;Khartum Nord;Sjeverni Kartum;Khartoum Nord;Jartum Norte
+Ciudad Guayana|VE||2c|n7|-4u0|7jq|Cidade Guaiana;Guayana;Ciudat Guayana;Siudad Guajana;Sjudad Guajan;Ciudad Guiana
+Xiangtan|CN||7i|25d|8pm|7eh|Siang-tchan;Sjantan;Siong-thâm-sṳ;Tương Đàm;Siong-thâm-chhī;Siŏng-tàng;Siangtan;Hsiang-tan
+Shaoyang|CN||7i|23o|8lm|5t8|Sjaoyang;Šao-jang;Ŝaojan;Chàu-yòng-sṳ;Thiệu Dương;Siêu-iòng;Siāu-iông-chhī
+São José dos Campos|BR||4w|-1se|-3jh|5lz|Vale do Paraíba;SJCampos;Vale Paraiba;San Žozė dos Kamposas
+Ciudad del Este|PY||1y|-1yu|-47t|2bu|Siudad del Estė;Sjudad Del Este;Syudad del Este;Kota del Este;Bandar del Este
+Strasbourg|FR||9k|3qy|lj|24c|Straßburg;Estrasburgo;Strasburgo;Argentoratum;Strasburg;Straatsburg;Estrasburg;Strasburgu;Štrasburk;Strasbwrg;Strassborg;Strasbūras;Strasbūra;Strazburg;Strasbôrg;Stroossbuerg;Strasburq;Estrasborg;Stroosburi;Estrasbou;Strǣtburg;Strasborgh;Strossburg;Straasbuurich;Estrasburgu;Straasburch;Strażburgu;Sjtraasburg;Stroatsburg;Strassbourg;Straszburg
+Shakhty|RU||9i|3ok|33q|1ph|Schachty;Szachty;Ŝaĥti;Šahtõ;Sjachty;Shajty;Chakhty;Šachty;Şaxtı;Sjakhty;Šahty;Šachtos;Shakhti
+Cienfuegos|CU||36|1pj|-67h|1fu|Sjenfuegosas;Sienfuegos
+Shahrisabz|UZ||7g|30i|55n|13n|Chakhrisabz;Sachrisabz;Xahrisabz;Šachrizabz;Ŝahrisabz;Šahrisabzas;Şehr-i-Sebz;Sjachrisabz;Shakhrisabzs;Shakhrisabz;Shakhrisyabz;Shahri-i-Sabz
+Šiauliai|LT||a3|4bd|1ss|rn|Šauļi;Szawle;Ŝjaulaj;Şyaulyay;Shawllay;Šiaulē;Shyaulyay;Shaulyay;Šiaulių
+Siverskodonetsk|UA||98|3ry|2yx|rj|Syeverodonets'k;Syevyerodonets’k;Sievierodonetsk;Sjevjerodoneck;Severodonjeck;Sjewjerodonezk;Sziverszkodoneck;Szjevjerodoneck;Severodonetsk
+Shadrinsk|RU||7z|4bt|4ws|m3|Schadrinsk;Sjadrinsk;Chadrinsk;Šadrinsk;Sadrinszk
+Shumen|BG||9v|3c7|22s|k3|Schumen;Šumen;Choumen;Sjumen;Şumnu;Shoumen
+Shuya|RU|Ivanovo Oblast|9i|4dx|36z|gv|Schuja;Ŝuja;Chouïa;Şuya;Xúia;Sjuja;Șuia;Szuja
+Mikhaylovsk|RU|Stavropol Kray|9i|3hd|38r|gg|Sjpakovskoje;Mihajlovsk;Michailowsk;Shpakovskoye
+Stolberg|DE|North Rhine-Westphalia|8r|3x1|hb|g1|Sjtolberg;Stolbersch
+Shelekhov|RU||6k|412|816|d7|Sjelekhov;Schelechow;Shélejov;Chelekhov;Šelechov;Şelexov;Ŝeleĥov;Sjelechov;Shelikhov
+Shebekino|RU||9i|3w1|2ul|ck|Sjebekino;Šebekino;Schebekino
+Sharypovo|RU||6u|4aa|6vs|bw|Sjarypovo;Scharypowo;Šarypovo;Charypovo;Ŝaripovo;Szarypowo;Xarípovo
+Serdobsk|RU||9i|41q|3eu|a7|Sierdobsk;Sjerdobsk
+Shumerlya|RU||9i|4a6|3kx|9s|Schumerlja;Ŝumerla;Šumerlja;Sjumerlja;Choumerlia;Sjoemerlja;Xúmerlia;Xumerlya;Šumerl;Szumerla
+Shatura|RU||9i|4ad|31t|8d|Sjatura;Chatoura;Šatura;Szatura;Schatura
+Shar’ya|RU||9i|4i5|3ig|8a|Sjarja
+Shcherbinka|RU||9i|4a6|2wc|7t|Sjtsjerbinka;Shcherbinki
+Shali|RU||9i|3bv|3ji|6y|Sjali;Chali;Šali;Xalí;Şela;Szali;Schali
+Scheveningen|NL||8m|40q|bw|6e|Skeveningen;Sjeveninge
+Shakhun’ya|RU||9i|4g8|3lh|68|Sjakhunja
+Shimanovsk|RU||7x|40g|9uo|5z|Sjimanovsk;Schimanowsk;Chimanovsk;Šimanovsk;Ximanovsk
+Sheksna|RU||9i|4kh|2yz|5w|Sjeksna
+Shchigry|RU||9i|404|2uj|5c|Sjtsjigry;Chtchigry;Ščigry;Ŝĉigri;Štšigrõ;Štšigry;Szczigry;Suchigry;Schtschigry;Shchigary
+Shushenskoye|RU||6u|444|73e|58|Sjusjenskoje;Schuschenskoje;Šušenskoje;Sosenskis;Susenszkoje;Şuşenskoye;Sjoesjenskoje;Ŝuŝenskoe;Xuxenskoie;Szuszenskoje;Sjoesjenskoe;Shushinskoe
+Shumikha|RU||7z|49f|4vt|55|Sjumikha;Choumikha;Šumicha;Sjoemicha;Şumixa;Ŝumiĥa;Schumicha
+Shilovo|RU|Ryazan Oblast|9i|46w|35k|4i|Sjilovo;Schilowo
+Shushary|RU||9i|4m5|2ce|4b|Sjusjary;Suosaari;Šuošuari
+Schleiden|DE|North Rhine-Westphalia|8r|3wd|i0|3y|Sjleie
+Shijak|AL||9y|36v|1id|3x|Šijaku;Šijak;Shjak;Šjak;Shejak
+Shilka|RU||67|401|8yb|3x|Sjilka
+Shlissel’burg|RU||9i|4mj|2e8|3d|Sjlisselburg;Nöteborg;Pähkinälinna;Lyyssinlinna;Schliisselburg;Schlüsselburg
+Shalushka|RU||9i|3cx|3d1|38|Sjalusjka
+Shipunovo|RU||63|412|6cj|36|Sjipunovo
+Shagonar|RU||6u|3z5|765|36|Sjagonar;Šagaan-Aryg;Shagaan-Aryg;Shagokar;Shagan-Aryg
+Shakhovskaya|RU||9i|4bn|2qn|2w|Sjakhovskaja
+Sheregesh|RU||74|430|6sf|2t|Sjeregesj;Scheregesch;Šeregešas;Šeregeš;Cheregech;Szeriegiesz
+Shakhtërsk|RU||7f|3sl|ays|2t|Sjakhtersk
+Sherlovaya Gora|RU||67|3wd|8z4|2t|Sjerlovaja Gora;Shirlovaya Gora
+Sholokhovskiy|RU||9i|3q4|361|2t|Sjolokhovskij
+Shyroke|UA|Dnipropetrovsk|98|3oh|2ke|2o|Chyroké;Schyroke;Sjyroke;Široke;Shiroke;Šyroke;Szyroke;Xiroke
+Shelkovskaya|RU||9i|3cv|3kq|2o|Sjelkovskaja;Sarapan;Şelkovski;Šelkovskaja;Schelkowskaja
+Shira|RU||6u|47d|6xx|2m|Sjira
+Shatki|RU||9i|49b|3ek|2g|Sjatki
+Shamkhal|RU||9i|3bm|3ni|2c|Sjamkhal;Shamkal
+Sharlyk|RU||7z|431|482|29|Sjarlyk
+Shchuch’ye|RU||7z|49s|53l|28|Sjtsjutsje
+Sjöbo|SE||9w|4aj|123|27
+Sherbakul’|RU||76|47r|5l4|21|Sjerbakul
+Shabo|UA||98|3k5|2cf|1z|Szabo;Chabo;Șaba-Târg;Schabo-Kolonie;Schabo-Possad;Acha-Abag;Saba Tarc;Khabag;Sjabo;Šabo;Schabo
+Shevchenkove|UA|Kharkiv|98|3u2|2va|1z|Schewtschenkowe;Ševtšenkove;Chevtchenkove;Şevçenkove;Xevtxénkove;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Sharanga|RU||9i|4eu|3la|1v|Sjaranga
+Shalya|RU||7z|4f1|4j5|1v|Sjalja
+Shikhany|RU||9s|40s|3n4|1v|Sjikhany
+Shemysheyka|RU||9i|42x|3i3|1u|Sjemysjejka;Shemyshleyka
+Sianów|PL||a5|46n|199|1u|Sjanova;Sanowò
+Shentala|RU||9p|477|3yz|1u|Sjentala
+Sharkan|RU||9p|4f6|45n|1t|Sjarkan
+Sheremet’yevskiy|RU||9i|4bi|2w5|1t|Sjeremetjevskij
+Shatrovo|RU||7z|4d0|4zj|1r|Sjatrovo
+Siuntio|FI||92|4n2|1vb|1r|Sjundeå
+Shenkursk|RU||9i|4sj|3b6|1n|Sjenkursk;Schenkursk;Chenkoursk;Šenkursk;Sjenkoersk;Szenkursk
+Shemordan|RU||9i|4c3|3w0|1n|Sjemordan
+Shirochanka|RU||9i|3lm|2yi|1n|Shirochanskoye;Sjirotsjanka
+Shamkhal-Termen|RU||9i|3bj|3nf|1m|Sjamkhal-Termen
+Shchyrets|UA||98|3tx|1ua|1l|Szczerzec;Rosenberg;Chtchyrets;Ščyrec;Şçırets;Șciîreț;Sjtsjyrets;Shchyret;Shirets;Shchirets
+Shatsk|RU||9i|462|37w|1l|Sjatsk;Schazk;Chatsk;Šack;Šatsk;Sjatsk i Russland
+Shevchenkove|UA|Odesa|98|3ij|29h|1k|Schewtschenkowe;Sjevtsjenkove;Ševtšenkove;Ševčenkovė;Chevtchenkove;Sevcsenkove;Xevtxènkove;Ševčenkovo;Sjevtjenkove;Szewczenkowe;Shevchenkovo
+Sharan|RU||7z|48a|45z|1k|Sjaran
+Shalazhi|RU||9i|3bp|3i0|1h|Sjalazji;Makane-Khotar;Podgornoe;Konëv;Podgornoye
+Shigony|RU||9p|44b|3r7|1h|Sjigony
+Shkotovo|RU||7w|3cc|a7n|1g|Sjkotovo;Schkotowo;Shkatova
+Shvartsevskiy|RU||9i|469|2xj|1f|Sjvartsevskij
+Shkurinskaya|RU||9i|3lf|31c|1e|Sjkurinskaja;Schkurinskaja;Xkurinskaia
+Shebalino|RU||63|3yi|6m0|1d|Sjebalino;Shebilano
+Schinveld|NL||8m|3xl|gm|1b|Sjilvend
+Shumyachi|RU||9i|45m|2i3|1a|Sjumjatsji
+Shelabolikha|RU||63|44e|6dh|17|Sjelabolikha
+Shalinskoye|RU||6u|4as|78f|16|Sjalinskoje
+Shimorskoye|RU||9i|49p|38r|15|Sjimorskoje;Şimorskoye;Zhimorskoye
+Shatalovo|RU||9i|46x|2i5|15|Sjatalovo
+Shabrovskiy|RU||7z|4dc|4oa|13|Sjabrovskij
+Shablykino|RU||9i|42u|2ps|12|Sjablykino
+Shovgenovskiy|RU||9i|3h2|33r|12|Sjovgenovskij
+Shipitsyno|RU||9i|4q8|3l8|12|Sjipitsyno;Schipizyno;Šipicyno;Spicino;Şipitsıno;Szypicyno;Sjipitsino;Shchipitsyno;Shipitsino
+Shimsk|RU||9i|4hp|2dc|12|Sjimsk
+Shemursha|RU||9i|48h|3o0|11|Sjemursja
+Shamary|RU||7z|4fa|4hq|10|Sjamary
+Shelopugino|RU||67|3zh|92k|y|Sjelopugino;Shelopushno;Shelapugino
+Spaubeek|NL||8m|3xi|g8|y|Sjpawbik;Spanbeek
+Shaturtorf|RU||9i|4ad|31i|x|Sjaturtorf
+Shuya|RU|Karelia|9i|4s3|2n3|x|Sjuja;Suoju
+Shaami-Yurt|RU||9i|3c3|3i3|w|Sjaami-Jurt;Šaami-Jurt;Şaman-Yurt;Şawmin-Yurt;Zelënaja Rošča;Shama-Yurt;Zelenaya Rosha;Shaman-Yurt
+Shypyntsi|UA||98|3qe|1zj|w|Șipeniț;Sjypyntsi;Schypynzi;Szypynci;Şypyntsi;Shipentsi
+Shalanky|UA||98|3pz|1rk|w|Sjalanky;Shalanki;Ŝalanki;Salánk;Šalankõ;Šalanky
+Shepsi|RU||9i|3ec|30r|w|Sjepsi
+Shevchenkove|UA|Mykolaiv|98|3m6|2hg|w|Sjevtsjenkove;Schewtschenkowe;Sjevtjenkove;Ševčenkove;Shevchenkovo;Shevchenko
+Shedok|RU||9i|3eu|35h|v|Sjedok;Shchedok
+Shaumiani|GE||7n|36v|3gc|v|Shulaveri;Naghvarevi;Sjaumiani;Szaumiani;Shulavery;Shaumyani;Schaumjani;Saulaveri
+Shcheglovo|RU||9i|4mr|2df|v|Sjtsjeglovo;Sieklova
+Shumskiy|RU||6k|48b|7nd|v|Sjumskij
+Shikhazany|RU||9i|4ac|3nn|v|Sjikhazany
+Shchelkun|RU||7z|4ce|4pb|u|Sjtsjelkun
+Shpykiv|UA||98|3ri|27c|u|Chpykiv;Sjpykiv;Schpykiw;Špykiv;Şpıkiv;Szpików
+Shakhta|RU||7z|4k5|4g6|s|Sjakhta
+Shalakusha|RU||9i|4su|33t|r|Sjalakusja
+Shafranovo|RU||7z|45x|485|q|Sjafranovo
+Sjömarken|SE||9w|4gc|zn|q
+Shabel’skoye|RU||9i|3m5|2yv|p|Shabel'sk;Sjabelskoje;Shabei’sk
+Shuyskoye|RU||9i|4kx|35z|o|Sjujskoje;Shuiskoe;Shayskoye
+Shiringushi|RU||9i|45l|3at|o|Sjiringusji
+Shitkino|RU||6k|4cl|7l7|o|Sjitkino;Shitkina
+Sheragul|RU||6k|47a|7sb|o|Sjeragul;Sharagul
+Schimmert|NL||8m|3xf|g6|n|Sjömmert
+Skhidnytsia|UA||98|3sq|1sv|n|Schodnica;Skhidnytsya;Schidnyzja;Skhodnitsa;Sxidnitsa;Szhidnicja;Sjídnytsia;Schidnycja;Shidnıtsâ;Shidnîțea
+Shugurovo|RU||9i|47f|40t|m|Sjugurovo
+Sjuntorp|SE||9w|4ho|xy|m
+Shumikhinskiy|RU||7z|4j6|4g9|m|Sjumikhinskij
+Shangaly|RU||9i|4pt|3cd|m|Sjangaly
+Shil’da|RU||7z|3zx|4m1|l|Sjilda
+Shyrokolanivka|UA||98|3n1|2fb|i|Sjyrokolanivka;Schyrokolaniwka;Širokolaņivka;Šyrokolanivka;Shirokolanivka;Szyrokołaniwka;Shirokolanovka
+Shirokovskiy|RU||7z|4jg|4gj|i|Sjirokovskij
+Shatin|AM||80|32o|3hu|h|Shatik;Hasankand;Gasankend;Hesan Kand;Schatin;Šatina;Sjatin;Szatin;Şatin
+Åsele|SE||9w|4y8|1c7|h|Sjeltie
+Shamanka|RU||6k|40n|80e|h|Sjamanka
+Shakhi|RU||63|446|6fk|h|Sjakhi
+Sharalday|RU||6k|3xq|8b0|g|Sjaraldaj;Sheralday
+Shun’ga|RU||9i|4tv|2p3|g|Sjunga;Šun'ga
+Sjøholt|NO||9j|4tk|ix|g|Söholt
+Shirokiy|RU|Amur Oblast|7x|3u8|9zs|f|Sjirokij
+Sheberta|RU||6k|47s|7ph|f|Sjeberta;Shebreta
+Sjølyststranda|NO||9j|4mg|to|f
+Shumeyka|RU||9s|3z8|3kh|e|Sjumejka
+Sherkaly|RU||7z|4uc|51w|e|Sjerkaly;Sharkaly
+Shtykovo|RU||7w|3cj|a7o|d|Sjtykovo
+Shorapani|GE||7n|38y|3bo|d|Shorap’ani;Szorapani;Sjorapani;Xoropan;Şorapani;Schorapani;Shorapan’;Schorpani;Shorpani
+Shal’skiy|RU||9i|4ro|2s2|c|Sjalskij
+Shubenka|RU||63|42a|6ke|c|Sjubenka;Shubinka
+Shebunino|RU||7f|3kz|ay2|c|Sjebunino
+Shaburnovo|RU||9i|4d3|2xd|c|Sjaburnovo
+Shirokaya Rechka|RU||7z|4ds|4o1|b|Sjirokaja-Retsjka
+Shonguy|RU||9i|5ay|2k4|b|Sjonguj;Šongui;Schongui;Shongui
+Sheltozero|RU||9i|4qh|2q9|a|Sjeltozero;Soutjärvi
+Shyroke|UA|Donetsk|98|3p8|2y7|a|Schyroke;Sjyroke;Şıroke;Chyroke
+Sjövik|SE|Västra Götaland|9w|4gw|yd|9
+Sjövik|SE|Dalarna|9w|4n3|19c|9
+Shaygino|RU||9i|4gh|3m6|9|Sjajgino
+Shelomy|RU||9i|421|2gh|8|Sjelomy;Shelomi
+Sjøvegan|NO||9j|5bb|1dl|8
+Schin op Geul|NL||8m|3x9|gb|7|Sjin op Geul
+Shamlugh|AM||80|36d|3g8|7|Shamlug;Schamlugh;Šamluhas;Ŝamlugh;Sjamlugh;Šamlug;Şamlıq;Szamluch;Shamlux;Shamblud;Shamblug
+Sharapova Okhota|RU||9i|48w|2w4|7|Sjarapova Okhota;Sharanova-Okhota
+Sjörröd|SE||9w|4cc|12o|7
+Shilovo|RU|Tula Oblast|9i|43r|2z3|7|Sjilovo
+Shestikhino|RU||9i|4gy|2y8|6|Sjestikhino
+Sianky|UA||98|3s7|1rm|6|Syanky;Sjanky;Sjanki;Sianki;Seankî;Syanki
+Sjötorp|SE||9w|4l8|13l|6
+Shirokiy|RU|Magadan Oblast|6z|4v8|bf8|5|Sjirokij
+Shelokhovskaya|RU||9i|4rz|30m|5|Sjelokhovskaja

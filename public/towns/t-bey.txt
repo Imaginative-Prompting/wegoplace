@@ -1,0 +1,64 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Beirut|LB||64|2m5|2qm|es9|Bejrut;Bejruto;Beyrouth;Beiroet;Beyrut;Berytus;Bäyrut;Bêrût;Béiriút;Birut;Beirot;Bewout;Beirout;Bejruti;Beirots;Bairut
+Beira|MZ||11|-1j4|2os|5b2|Beyra
+Beylikdüzü|TR||94|35u|27k|37d
+Bakersfield|US||3p|2q9|-96m|2vs|Beykersfild;Beikersfildas;Beikersfīlda;Baker's Field
+Beersheba|IL||6n|2et|2on|1fu|Be'er Sheva;Be’er Scheva;Beerxeba;Beer-Sheva;Beér-Seva;Beer Ševa;Beër Sjeva;Beer Szewa;Bersebá;Beer Sheba;B’er Sheva‘;Beerseba;Bersyeba;Beer-Xeva;Beer Sheva;Beerševa;Beer Ŝeba;Beer Scheva;Be'er Sheva`;B'eyr-Sheva'
+Bet Shemesh|IL||6n|2g5|2p7|1d4|Bet Schemesch;Betxèmeix;Beit Şemeș;Bejt Šemeš;Beyt Şemeş;Beit-Shemesh
+Beypore|IN||6t|v1|5ul|jo
+Beyşehir|TR||94|2wo|2g4|cd
+Beypazarı|TR||94|33l|2go|as
+Bayt Ḩānūn|PS||6f|2fm|2ny|ae|Beit Hanoun;Beit Hanun;Beit Hānūna;Bait Hanun;Bajt Hánún;Beyt Hanun;Beit Hanoum;Beit Hanoon
+Beykonak|TR||94|2sx|2c6|8f
+Bet She’an|IL||6n|2ia|2qm|5n|Beit Shean;Beth Shan;Besan;Bet Sze'an;Bet Sche’an;Beït-Shéan;Beit She'an;Beth Shean;Bet Shean;Beit Šeanas;Bét-Seán;Bet-Sjean;Beit Še'an;Beet She'an;Bisan;Bejt Še'an;Beyt Şe'an;Beisān;Beith Sheān
+Beyla|GN||f|o5|-o1|5i
+Beylagan|AZ||61|32i|3oa|4c
+Beyneu|KZ||5v|3hw|49c|3y
+Baytūnyā|PS||6g|2gm|2pp|3k|Beitunia;Baituniya;Bajtunija;Beytunya;Bītuniyā;Beitūnya;Betounia;Beituniyā;Betunia
+Beit Jann|IL||6n|2jk|2qa|3c|Bet Jan;Bejt Džan;Beit Dżan;Beyt Jann;Bayt Jann;Beit Jan
+Beyne-Heusay|BE||8t|3wm|fr|38
+Beytüşşebap|TR||94|2wc|3bx|2c|El’ki;Beytüşşebab;Elki;Beytisebap;Beytüşebap
+Beynes|FR||9k|3rq|57|27
+Beyram|IR||7o|247|44n|21|Beyrom
+Beyẕā|IR||7o|2bd|41g|21
+Beya|RU||6u|43d|70k|1h|Beja
+Beynost|FR||9k|3jc|dw|1g
+Beylerbeyi|TR||94|360|28p|1g
+Beylikova|TR||94|329|2ep|1f
+Beymelek|TR||94|2sp|2be|11
+Béyo|CI||0|fn|-gn|r
+Böyük Qaramurad|AZ||61|34q|3is|r|Bëyuk-Karamurad
+Byala|BG||9v|3b3|25h|n|Beyala;Byela;Bjala
+Beychac|FR||9k|3go|-14|j
+Bet Zayit|IL||6n|2ga|2po|f|Bejt Zajit;Beit Zayit;Bet Zait;Beyt Zayit
+Beynat|FR||9k|3hc|4s|c
+Bet HaGaddi|IL||6n|2fb|2o5|b|Bejt ha-Gadi;Beit HaGadi;Beyt HaGadi;Beit Hagaddi;Beit Hagedi;Beit Hageddi
+Bet ‘Arif|IL||6n|2gw|2p1|b|Beit Arif;Beyt-’Arif;Bet Arif
+Bet Yehoshua‘|IL||6n|2hm|2ou|b|Bejt Jehošua;Beit Yehoshua;Beït-Yéhoshoua;Beit Jehoszua;Beyt Yehoşua;Beit Yehoshua‘;Bet Yehoshua
+Bet Alfa|IL||6n|2ic|2qf|b|Beit Alfa;Beït-Alfa;Bejt Alfa;Beyt Alfa;Bet-Alefa
+Bet Qama|IL||6n|2fd|2ok|a|Bejt Kama;Beit Kama;Bet Kama;Beyt Kama;Beit Qama
+Beylerce|TR||94|36i|2ty|a
+Beylikköprü|TR||94|320|2gr|9
+Baysu|TR||94|2xz|33e|9|Beysu
+Beyköy|TR||94|2x5|25u|9
+Bet HaLevi|IL||6n|2hv|2p1|8|Bejt ha-Levi;Beit HaLevi;Beyt HaLevi;Beit Halewi;Bet HaLewi
+Beyssac|FR||9k|3i1|3w|8
+Bet Hillel|IL||6n|2k9|2qx|8|Bejt Hilel;Beit Hillel;Beyt Hillel
+Beyernaumburg|DE||8r|3yz|vn|8
+Beynam|TR||94|329|2je|8
+Bīāshūsh|IR||7o|2op|3lc|7|Beyā Shūsh
+Beylice|TR||94|2v1|2ol|7
+Beyton|GB||9b|413|2b|7
+Bet Me’ir|IL||6n|2gb|2pc|7|Beit Meir;Beyt-Meyir
+Beynac|FR||9k|3j5|39|6
+Bey|FR||9k|3m2|dt|6
+Beğerli|TR||94|2ww|26v|6|Yukarıbeyerli;Beyerli
+Beylerli|TR||94|2wq|2ac|6
+Beykent|TR||94|2x8|37t|6
+Beytābāj|IR||7o|2ml|4j1|6|Bīnābāj;Beynāvāj;Beynābāj
+Beyreli|TR||94|2t7|2hj|5
+Beynac-et-Cazenac|FR||9k|3gk|36|5|Bainac e Casenac
+Beycik|TR||94|2td|2ck|5
+Bet Guvrin|IL||6n|2ft|2oy|5|Beyt-Guvrin;Beit Govrin;Beit Guvrin
+Beyrie-sur-Joyeuse|FR||9k|3cc|-2z|5|Bithiriña;Veiria

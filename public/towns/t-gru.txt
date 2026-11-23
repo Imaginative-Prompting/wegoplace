@@ -1,0 +1,109 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Groningen|NL||8m|43u|i9|1w0|Groninga;Groningue;Grins;Groninge;Grunneng;Qroningen;Greunienge
+Oruro|BO||3n|-1dx|-56d|1lz|Ururu;Oruras;Uru Uru;Gruro
+Zielona Góra|PL||a5|40a|173|ww|Grünberg;Zelona Gura;Prasia Elysiorum;Zelöna Gur;Zeliona Gura;Zelonô Góra;Zelona Qura;Gruenberg
+Grudziądz|PL||a5|44k|1g3|pq|Graudenz;Grudzjondza;Grudziondzas;Grëdządz;Grudźůndz;Grudzëndz
+Grugliasco|IT||9o|3h7|l2|a7|Grujasch
+Grumo Nevano|IT||9o|35q|13m|4z
+Grójec|PL|Mazovia|a5|402|1lz|45|Grujeca
+Grünberg|DE||8r|3wj|ow|3y
+Grünstadt|DE||8r|3to|mo|3y|Grinnschdadt;Gruenstadt;Gruenspadt
+Grumo Appula|IT||9o|35x|1af|3i
+Grunewald|DE|State of Berlin|8r|41s|10v|38
+Grünwald|DE||8r|3pg|w0|30|Gruenwald
+Hrushovo|UA||98|3pd|1u1|2d|Szentmihálykörtvélyes;Grushevo;Hrusheve
+Grünheide|DE||8r|41m|12d|24
+Grünau|DE||8r|41m|11q|20
+Gruiu|RO|Ilfov|8u|3g9|20v|20
+Grumello del Monte|IT||9o|3is|rg|1q
+Kaivoksela|FI||92|4nf|1x3|1o|Gruvsta
+Grudki|PL||a5|43h|1tr|1m|Gródek
+Grotte|IT||9o|2vw|122|1k|Grutti
+Grumăzeşti|RO||8u|3mx|219|1i
+Martan-Chu|RU||9i|3bm|3ik|1i|Martan-Tsju;Gruşevoe;Martançu;Grushevoye
+Gruiten|DE||8r|3ya|jh|1h
+Grums|SE||9w|4kv|10f|1e
+Grubbenvorst|NL||8m|3yu|h3|1d|Grevors
+Grude|BA||9r|3ch|1cd|1a
+Grushevskaya|RU||9i|3ns|32z|14|Grusjevskaja
+Grunuovo-Campomaggiore San Luca|IT||9o|36n|12d|13
+Grunwaldzkie|PL||a5|3ue|1gy|13
+Grünburg|AT||a2|3p9|13m|12
+Grünsfeld|DE||8r|3tt|r3|12
+Gruitrode|BE||8t|3xx|fj|11
+Gruissan|FR||9k|3br|8l|x|Grussan
+Grub|DE||8r|3v6|x5|v
+Gruia|RO||8u|3ez|1r2|v
+Grünkraut|DE||8r|3om|qu|v
+Grunji|RO||8u|3ie|221|u
+Gruchet-le-Valasse|FR||9k|3tn|1d|s|Gruchet-le-Valass
+Grundy Center|US||2f|39o|-75p|r
+Gruaro|IT||9o|3jb|zo|r|Gruar
+Grundbacka|FI||92|4nh|1wp|r|Perusmäki
+Grünhain|DE||8r|3wi|zl|q
+Grubišno Polje|HR||a6|3iy|1bp|q|Grubisnopolye
+Hrushivka|UA|Crimea|9t|3h2|2p5|n|Grushevka
+Gruibingen|DE||8r|3qz|qs|n
+Grumolo delle Abbadesse|IT||9o|3ig|wf|m|Grumolo delle Badesse
+Grünau im Almtal|AT||a2|3ox|12s|l
+Grünendeich|DE||8r|44t|qp|l
+Grône|CH||a7|3kh|kq|k|Grôna;Gruona
+Hrubna|UA||98|3qm|237|j|Grubna;Grubno
+Grünbach|DE||8r|3w5|yc|j
+Gruetli-Laager|US||2f|2q9|-6lu|i
+La Grulla|US||2f|20z|-7m1|h|Grulla
+Grunthal|CA||5d|3t9|-7h2|h
+Gruyères|CH||a7|3le|jo|g|Greyerz;Grejerco;Qruyer;Grueria
+Gruta|PL||a5|44h|1go|g
+Grua|NO||9j|4ne|tm|g
+Grüt|CH||a7|3nf|oe|g
+Krzeszów|PL|Lower Silesia|a5|3wx|18n|f|Grüssau
+Grudusk|PL||a5|43e|1la|f
+Grünbach am Schneeberg|AT||a2|3os|18f|f
+Gruaro-Bagnara|IT||9o|3jc|zp|f
+Grumello Cremonese|IT||9o|3hj|re|e
+Grupiara|BR||4w|-1fd|-3ok|e
+Grünhainichen|DE||8r|3x1|10j|e
+Grundisburgh|GB||9b|40r|3h|e
+Gruffy|FR||9k|3j7|gu|e|Grôfi;Gruffium
+Grünenbach|DE||8r|3ob|rt|e
+Grüsch|CH||a7|3mi|qt|c|Crusch
+Gruson|FR||9k|3wk|8x|c
+Gruver|US||2f|2sr|-7tp|c
+Gruszów Wielki|PL||a5|3vf|1mf|c
+Hrushivka|UA|Chernivtsi|98|3pu|205|c|Hrouchivka;Grușăuți
+Grumento Nova|IT||9o|33w|185|b
+Grumolo Pedemonte|IT||9o|3j0|vx|a
+Grube|DE||8r|46n|uo|a
+Grugny|FR||9k|3tu|33|a
+Grund|LU||9c|3tt|h2|a|Gronn
+Grundhof|DE||8r|485|qt|a|Grumtoft
+Hrushuvatka|UA||98|3qc|2lu|a|Grushevatka
+Grundy|US||48|2vk|-6c2|a
+Gruziny|RU||9i|4e6|2pd|a
+Gruiu|RO|Călărași County|8u|3ev|21e|9
+Gruyere|AU||8j|-2wt|b81|9
+Grugies|FR||9k|3ud|93|9
+Grundarfjörður|IS||87|50c|-1sm|9|Grundarfirði;Grundarfjarðar
+Gruda|HR||a6|3a4|1f1|9|Grudi
+Grubine|HR||a6|3cn|1bo|8
+Grussenheim|FR||9k|3pr|kt|8
+Grunwald|PL||a5|44k|1jt|8
+Grues|FR||9k|3kw|-3m|8
+Gruiu|RO|Arges|8u|3ga|1xn|7
+Grupčin|MK||9u|38l|1mp|7
+Gruchet-Saint-Siméon|FR||9k|3ue|2h|7
+Grumezoaia|RO||8u|3lc|25w|7|Grumăzoaia
+Grury|FR||9k|3lo|av|7
+Grundsund|SE||9w|4hp|vq|6
+Grünewald|DE|Brandenburg|8r|3ys|12w|6
+Grub|AT||a2|3pk|18r|6
+Grutti|IT||9o|3b1|yo|6
+Grünbach|AT||a2|3qu|14e|6
+Grünbichl|AT||a2|3qb|14c|6
+Grünebach|DE||8r|3x2|ly|6
+Grumbach|DE||8r|3tx|l1|5
+Grundviller|FR||9k|3s8|jd|5
+Grundarhverfi|IS||87|4yg|-1oo|5|Kjalarnes
+Gruzinskoye Ushchel’ye|GE||7n|3c9|33w|5
+Grünau|NA||1f|-251|1f2|5

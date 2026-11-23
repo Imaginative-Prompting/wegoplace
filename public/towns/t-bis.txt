@@ -1,0 +1,176 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Meishan|CN||7i|2bg|80g|8jp|Mì-săng;Mej-šan;Mi Sơn;Bî-san-chhī;Meyshan’
+Bishkek|KG||65|3b3|5r7|6y0|Bischkek;Biskek;Bisjkek;Biŝkeko;Bichkek;Biškekas;Biszkek;Bisqueque;Bixkek;Biškeka;Bişqeq;Biscecum;Pishkek
+Bissau|GW||8|wy|-17c|3e5|Bisaŭo;Bisau;Biso;Bissá;Bisava;Wisaw;Bissao
+Biysk|RU||63|41x|6ko|1nu|Bijsk;Biscum;Biisk;Biejsk;Viysk;Biyusk;Bisk
+Bishoftu|ET||2|ob|30a|1lm|Biscioftù
+Bishan|CN|Chongqing|7i|2a7|872|1kv|Pi-shan
+Biskra|DZ||3|2ot|fx|1kv|Biskira;Tibeskert;Briskra
+Bizerte|TN||1e|2vj|rf|12g|Bizerta;Biserta;Bizert
+Bhisho|ZA||o|-2j9|248|125|Bisho;Bišo
+Besançon|FR||9k|3n9|gq|zo|Bisanz;Besanzón;Bezanson;Bezansono;Chrysopolis;Besanzone;Bysantium;Vesontio;Vesanção;Bezansona;Besanção;Bisontion;Besontio;Vesuntio;Bezansonas
+Tekirdağ|TR||94|35u|24f|xz|Bisanthe;Rhaedestus;Tekfur Dağı;Rodosto;Tekfur Dagh;Rodosçuk;Tekfurdağ;Tekirdahas;Tekirdaa;Raedestum
+Bīshah|SA||7e|1jk|3ad|w3|Bisha
+Bislig|PH|Caraga|71|mu|9qw|rr
+Bishan New Town|SG||7j|3r|80h|o9|Bishan
+Bistriţa|RO|Bistrița-Năsăud County|8u|3mx|1w2|lx|Bistritz;Beszterce;Bistrica;Bistritza;Bistrisa;Besztercze
+Bismarck|US|North Dakota|2f|3m1|-7ry|kv|Bismarko;Bismarka;Bismarkas;Bismàk;Bismarks;Bismark
+Bismil|TR||94|2x5|34y|kp
+Bīsalpur|IN||6t|26l|65o|j0
+Bishnupur|IN|West Bengal|6t|1s3|6qk|hs|Vishnupur
+Bisceglie|IT||9o|36k|19u|fe
+Biswān|IN||6t|24e|690|el
+Bishrāmpur|IN|Jharkhand|6t|1vd|6h5|bx|Bisrāmpur
+Bishops Stortford|GB||9b|403|g|bd|Bishop's Stortford;Bishops Strotford
+Bisauli|IN||6t|26n|63a|8y
+Bissikrima|GN||f|u5|-ud|80|Bissikrinia
+Bishop Auckland|GB||9b|47u|-4o|79
+Bishopbriggs|GB||9b|4bb|-bq|6l|Coille Dobhair;Bişopbriqqs
+Bissāu|IN||6t|26h|5sk|6g
+Bisālgarh|IN||6t|1ts|71k|5v
+Bet She’an|IL||6n|2ia|2qm|5n|Beit Shean;Beth Shan;Besan;Bet Sze'an;Bet Sche’an;Beït-Shéan;Beit She'an;Beth Shean;Bet Shean;Beit Šeanas;Bét-Seán;Bet-Sjean;Beit Še'an;Beet She'an;Bisan;Bejt Še'an;Beyt Şe'an;Beisān;Beith Sheān
+Bsharri|LB||64|2n5|2s1|5k|Bischarri;Bcharré;Bšari;Bişerri;Bšarré;Becharri;Bsherri;Besherri;Bcharreh;Basharrī;Bcharrī;Bisharri
+Biskupin-Sępolno-Dąbie-Bartoszowice|PL||a5|3xz|1bh|5k
+Biswanath Chariali|IN||6t|229|76r|5b
+Beshkent|UZ||7g|2zu|52d|59|Bish-Kent
+Bishan|CN|Chongqing|7i|2dh|8ai|51
+Bishopstoke|GB||9b|3xl|-3p|4x
+Bischheim|FR||9k|3r2|lj|4u
+Bissendorf|DE||8r|413|mp|40
+Bisokhar|IN||6t|285|5zi|3z
+Bishops Cleeve|GB||9b|40b|-5q|3y|Bishop's Cleeve
+Bisee|LC||52|12y|-4pd|3m
+Bissorã|GW|Oio|8|xy|-16x|3j
+Bischwiller|FR||9k|3rh|lt|3f|Bischweiler
+Bishnupur|IN|Manipur|6t|1wf|78g|3e
+Bischofsheim|DE||8r|3uv|n9|3d
+Bissorã|GW|Oio|8|xg|-16v|3c
+Bishnāh|IN||6t|2il|5ry|38|Bishna
+Bishopsworth|GB||9b|3yt|-7a|38
+Bishrampur|IN|Chhattisgarh|6t|1sf|6ek|36
+Biskupin|PL||a5|3xy|1bi|35
+Bisenda Buzurg|IN||6t|1yk|67y|33
+Bisert’|RU||7z|4dy|4k1|33|Bisert
+Biscarrosse|FR||9k|3fb|-39|2z|Biscarròssa;Biscarosse
+Bischofswerda|DE||8r|3y1|13e|2y|Biskopicy;Bišofsverda
+Bystrzyca Kłodzka|PL||a5|3vq|1a8|2w|Habelschwerdt;Bistšica Klodzka
+Biskupiec|PL|Warmia-Masuria|a5|45m|1m8|2v|Biskupeca
+Bishopdale|NZ|Canterbury|ak|-3cs|dbe|2r
+Bishunpur Hakīmābād|IN||6t|1zt|6mg|2p|Bisunpur Hakimabad
+Bisingen|DE||8r|3q7|os|2l
+Bystřice nad Pernštejnem|CZ||9m|3tk|196|2i|Bistršice pie Pernštejnas
+Bissamcuttack|IN||6t|1i7|6fz|2c|Bissamcutack
+Basmat Ṭab‘ūn|IL||6n|2iy|2po|2b|Bismat Taba’un
+Bystřice pod Hostýnem|CZ||9m|3t8|1d3|27|Bistršice pie Hostīna
+Bischofswiesen|DE||8r|3ob|102|23|Bischofswiesn
+Bishunpur Urf Mahārājganj|IN||6t|20y|6ew|23
+Bischofshofen|AT||a2|3nq|10q|23|Behofn;Bischofhofen;Bischofshogen
+Bispingen|DE||8r|43g|rs|1r|Gemeen Bissen
+Bishops Waltham|GB||9b|3xk|-3d|1r|Bishop's Waltham
+Bischberg|DE||8r|3un|u3|1m
+Bishkul|KZ||5s|486|5by|1i|Besköl
+Bissegem|BE||8t|3x6|8z|1h|Bisseghem
+Bisbee|US||4i|2fd|-8hd|1g
+Bischofsheim in der Rhön|DE||8r|3w0|rt|1g
+Bisignano|IT||9o|31r|198|1f
+Bistra|RO|Alba County|8u|3ku|1s6|1d
+Bishungarh|IN||6t|1uq|6m8|1c|Bishnugarh
+Bisambharpur|IN||6t|1st|6fp|1c
+Bistrica|MK||9u|35u|1nd|1c
+Bishopton|GB||9b|4bb|-cj|1a|Baile an Easbaig;Bishoptoun
+Bisacquino|IT||9o|2wq|10u|1a|Busacchinu
+Bistra|RO|Maramureş|8u|3oz|1v8|17|Petrovabisztra;Bystryi
+Bzenec|CZ||9m|3s1|1bz|17|Bisenz
+Bisamberg|AT||a2|3q9|19g|15
+Bisuschio|IT||9o|3jf|on|15
+Bisset|CA||2s|44i|-8r0|12
+Bishop|US|California|3p|2vs|-94w|12
+Bissingen an der Teck|DE||8r|3r0|qd|11
+Bishopston|GB||9b|3za|-b9|10
+Bissingen|DE||8r|3rc|ti|10
+Bischoffen|DE||8r|3wu|nh|z
+Bismark|DE||8r|42a|w3|x
+Bishopville|US|South Carolina|48|2n2|-66x|x
+Bischofsmais|DE||8r|3rw|10c|w
+Bishopthorpe|GB||9b|45s|-32|w|Bishopthorne
+Biscayne Park|US||48|1zw|-66q|w
+Bisbin|TR||94|2vq|3a9|w|Besbin
+Bischweier|DE||8r|3ro|n0|w
+Bishop|US|Texas|2f|24n|-7jo|w
+Bischoffsheim|FR||9k|3qp|kt|v|Bischofsheim
+Bissaguhé|CI||0|ih|-i8|v|Bisaguhé
+Bishop's Falls|CA||50|3s6|-4a4|v
+Bistrica pri Tržiču|SI||9a|3kr|13p|u
+Bisidougou|CI||0|o2|-gb|u|Bissidougou
+Bisoca|RO||8u|3ih|226|t
+Bislig|PH|Eastern Visayas|71|ur|9nb|r|Bitlig
+Bishopdale|NZ|Nelson Region|ak|-36p|dda|q
+Bissen|LU||9c|3ub|gv|p
+Bissassé|CI||0|kv|-8h|p
+Bisztynek|PL||a5|469|1m2|p|Bischofstein;Bištineka;Bischsteen
+Bistreț|RO||8u|3dy|1ta|o
+Vizal San Pablo|PH||71|15u|9bu|n|Visal;Bisal
+Bishopsteignton|GB||9b|3wf|-9u|m
+Bischofferode|DE||8r|3z2|t0|l
+Bischofsgrün|DE||8r|3v1|ws|l
+Bishops Lydeard|GB||9b|3xu|-8v|k
+Biskamzha|RU||6u|44h|6wp|k|Biskamzja
+Biskupiec|PL|Warmia-Masuria|a5|44m|1hr|j
+Biszcza|PL||a5|3w0|1qx|j
+Bishop's Castle|GB||9b|41t|-8c|j|Bishops Castle
+Bischbrunn|DE||8r|3uj|qd|j
+Bisaccia Nuova|IT||9o|35x|16o|i
+Bâscenii de Jos|RO||8u|3hp|214|i|Bîscenii de Jos
+Bistrița|RO|Neamț County|8u|3mf|212|h
+Biscoe|US||48|2q8|-65m|h
+Bystré|CZ||9m|3tv|19f|h|Bistre
+Bâscoveni|RO||8u|3ew|1yg|g|Bîscoveni
+Bischleben-Stedten|DE||8r|3xh|ui|g
+Bismarck|US|Missouri|2f|2wx|-6zq|f
+Biscoitos|PT||81|2zq|-23p|e|Biscoutos
+Bisira|PA||4g|oq|-6be|e|Bisiria
+Bistrița|RO|Mehedinți County|8u|3fv|1rb|e
+Bistrica ob Dravi|SI||9a|3lb|177|e
+Bâsca Rozilei|RO||8u|3i9|216|e|Bâsca Rozilii;Bâsca-Roziliei;Bîsca Rozilei
+Bistrița|RO|Vâlcea County|8u|3hj|1us|d
+Bistrinci|HR||a6|3ix|1f4|d|Bistrince
+Bistagno|IT||9o|3g2|n9|d|Bistagn
+Bâsca Chiojdului|RO||8u|3i1|20q|d|Bîsca Chiojdului
+Bishop Sutton|GB||9b|3yl|-77|c
+Bishop Middleham|GB||9b|47w|-45|c
+Biskupice Radłowskie|PL||a5|3v8|1ly|b
+Bistra|RO|Bihor County|8u|3n9|1qa|b
+Bistra Mureșului|RO||8u|3mg|1x7|b
+Bize-Minervois|FR||9k|3cc|7z|b|Bisa
+Bâscenii de Sus|RO||8u|3hr|20z|a|Bîscenii de Sus
+Bistrețu Nou|RO||8u|3dy|1t7|9
+Bisley|GB||9b|3zr|-5y|9
+Bischwihr|FR||9k|3pm|ko|9
+Bisaccia|IT||9o|35x|16q|9
+Biskupice|PL||a5|3us|1jw|9
+Biškupec Zelinski|HR||a6|3jo|193|9
+Mīshen|IR||7o|2mw|3rx|8|Bīshen;Mīshīn;Mīshan;Meshen
+Bistricioara|RO||8u|3mp|201|8
+Bishop Monkton|GB||9b|469|-46|8
+Bischofrode|DE||8r|3z1|w1|8
+Bistrița Nouă|RO||8u|3fc|1vb|7
+Bischheim|DE||8r|3tz|mb|7
+Biskupice|CZ||9m|3sc|1d7|7
+Bistrovicë|AL||9y|354|1j3|7|Bistrovica;Bestrovicë
+Bistrețu|RO||8u|3fh|1qu|7
+Bischofroda|DE||8r|3xu|ss|7
+Biscayne|BZ||24|1d8|-6tq|7
+Bishop Burton|GB||9b|45l|-1e|7
+Bishampton|GB||9b|40w|-5m|7
+Bristol|US|Texas|2f|2i6|-7g9|7|Bistol
+Bisseuil|FR||9k|3s9|bd|6
+Bischofstetten|AT||a2|3po|16z|6
+Bischoffingen|DE||8r|3pm|l7|6
+Bisericani|RO||8u|3kt|1y4|6|Székelyszentlélek
+Feistritz an der Gail|AT||a2|3le|11t|6|Feistris;Bistrica na Zilji;Feistritz
+Bisel|FR||9k|3o2|k2|6
+Bisenti|IT||9o|3a5|12c|6
+Bismoen|NO||9j|4rw|mz|6
+Bismarck|US|Illinois|2f|33u|-6rd|6|Bismark
+Bishop Wilton|GB||9b|45z|-26|6
+Bishopville|US|Maryland|48|2ys|-5sv|5

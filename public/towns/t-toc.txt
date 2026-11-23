@@ -1,0 +1,52 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tokyo|JP||7q|2r5|as1|233p|Edo;Tokio;Tóquio;Tocio;Tokijas;Tokija;Tochiu
+Suzhou|CN|Jiangsu|7i|2ey|9b0|1ftg|Tô Châu;Su-čou;Suĝoŭo;Sû-chû-sṳ;Sudžou;Sutsjou;Suchjou;So͘-chiu-chhī;Sŭ-ciŭ;Szucsou;Su-chou
+Tashkent|UZ||7m|36m|5ca|f9g|Taschkent;Taskent;Tasjkent;Taŝkento;Toshkent;Tachkent;Taškentas;Taszkent;Toshkent shahri;Tochkent;Taixkent;Taxkent;Taškenta;Lithopolis;Daşkent;Tashkend
+Tuxtla|MX|Chiapas|3z|1aj|-76o|4nt|Tochtlan Gutiérrez;Tustla Gutjeresas
+Tacloban|PH||71|v8|9n8|202|Taklobanas;Taklobana;Takloban;Tocloban;Taclaban
+Tochigi|JP||7q|2t2|as5|187|Totigi-chhī
+Tokat|TR||94|33z|2tj|101|Tocat;Evdokia;Eudoxia;Tukat;Toqat
+Tocoa|HN||56|17k|-6mw|v4
+El Tocuyo|VE||2c|r7|-5dv|ks|Tocuyo
+Tocumen|PA||4g|p9|-64i|e4
+Tocache|PE||3o|-mr|-5wk|82
+Tocopilla|CL||4u|-1pd|-5f0|72|Tokopilija
+Tochio-honchō|JP||7q|2w4|aq4|6e
+Tocantinópolis|BR||1k|-hl|-3nq|6c
+Tonantins|BR||3t|-7z|-58c|59|Tocantins
+Tocantins|BR||4w|-1mt|-3bi|4i
+Tocancipá|CO||27|dt|-5pb|4a
+Tocaima|CO||27|ce|-5rb|3s
+Tocuyo de La Costa|VE||2c|uo|-59x|2n
+Tocina|ES||9d|2wh|-fx|2j
+Toccoa|US||48|2o2|-6fh|2b
+Tocantínia|BR||1k|-qk|-3qe|26|Tocantinea
+Tochtepec|MX||41|1gc|-7jq|1u
+Tocatlán|MX||41|1hv|-7kb|1k
+Dos Ríos|MX|Veracruz|41|1gn|-7hj|1c|Tocuila
+Tocha|PT||99|33z|-ob|14
+Toca|CO||27|fg|-5na|13
+Tocos do Moji|BR||4w|-1q5|-3k2|12
+Toszek|PL||a5|3w5|1fg|10|Tošeka;Toczek
+Tochimilco|MX||41|1gh|-7lt|x
+Tocok|PH||71|17r|9a6|v
+Tocumwal|AU||8l|-2rh|b8d|q
+Tocco da Casauria|IT||9o|399|12o|n|Tocco Casauria
+Tococ East|PH||71|17y|9aj|n
+Tocob Leglemal|MX||41|1bv|-74m|l
+Tocumbo|MX||41|1iq|-7ws|i
+Tocane-Saint-Apre|FR||9k|3hp|1d|f|Sent Abre;Tooane-Saint-Abre
+Töcksfors|SE||9w|4lb|ww|c
+Tochylove|UA||98|3op|2an|c|Tochilovo
+Tocileni|RO||8u|3oj|22f|b
+Tocoy|MX||41|1o4|-7mn|b
+Toculești|RO||8u|3h3|1yk|a
+Toctitlán|MX||41|1md|-7lu|a
+Toceno|IT||9o|3k6|nj|7
+Tocuaro|MX||41|1ia|-7uh|7
+Toceni|RO||8u|3e4|1uj|7
+Tochimpa|MX||41|1j3|-7iv|7
+Točná|CZ||9m|3ut|143|7
+Tocco Caudio|IT||9o|369|14n|7
+Tochovice|CZ||9m|3ts|12v|6
+Toc|RO||8u|3jt|1q0|5|Tok

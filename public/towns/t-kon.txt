@@ -1,0 +1,362 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Hong Kong|HK||6i|1pw|8t5|1l2h|Hongkong;Victoria;Gon Kong;Hiŏng-gē̤ng;Honkongo;Heung Gong
+Kunming|CN||7i|1xk|7xc|19wy|Côn Minh;Kchun-ming;Khun-bêng-chhī;Kŏng-mìng;Kuņmina;Gvwnhmingz;Kunminq
+Ganzhou|CN||7i|1zt|8v9|f99|Cám Châu;Kan-čou;Gantsjou;Gáng-ciŭ;Kàm-chû-sṳ;Kòng-chiu-chhī;Gandžov;Kan-chou
+Conakry|GN||f|qi|-120|evo|Konakrio;Konakris;Konakri;Konakry;Conacri
+Jiangmen|CN||7i|1qq|8q4|dur|Kông-mùn-sṳ;Ĝjanmen;Ťiang-men;Dziangmenas;Kang-mn̂g-chhī;Gĕ̤ng-muòng;Kongmoon;Giang Môn;Chiang-men;Kongmun
+Konya|TR||94|2x7|2i8|b2b|Konjao;Iconium;Iconio;Qonya;Qonye;Konija;Konja;Koʻniya;Qonia;Konia
+Hong Kong Island|HK||6i|1pu|8t6|983|Hong Kong
+Guangyuan|CN||7i|2i4|85y|3zg|Kuang-jüan;Quảng Nguyên;Guōng-nguòng;Kóng-goân-chhī;Kwangyüan;Kuan-yüan;Kuang-yüan
+Kaliningrad|RU||96|47z|1kz|3nz|Królewiec;Königsberg;Kalinjingrad;Kalinyingrád;Karaliaučius;Königsbarg;Caliningrado;Calininopolis;Königsberg in Preußen;Kaliningráu;Kalininqrad;Karaliaučios;Kraljevac;Kënisberg;Körigsberg
+Konak|TR||94|2yo|23a|2kb
+Constanţa|RO||8u|3eq|27j|2ga|Konstanca;Constanza;Konstanco;Costanza;Constantia;Constança;Köstence;Konstanza;Küstence;Costansa;Konstantza;Constancia;Konstansa;Konstanta;Küstenja;Constantza;Kustenji;Kustenje
+Quảng Ngãi|VN||6h|160|8e7|25d|Kóng-ngi-sṳ;Kwang Ngai
+Concepción|CL||4u|-2ub|-5mx|1q4|Koncepciono;Konsepsion;Konsepsjuons;Konsepsyon;Conceptio;Konsepsjonas;Konsepsjons;Konsepsjona;Concepcioun;Konsepsjon;Konsepsi
+Konibodom|TJ||6d|33x|5fn|1mn
+Kon Tum|VN||6h|13v|8c1|1l6
+Kunduz|AF||6o|2u1|5ba|18z|Kundus;Qunduz;Konduz;Kondôz;Qondūz
+Koudougou|BF||1a|y1|-6l|18i|Kuduguo;Kondougou;Kudugu
+Mbanza Kongo|AO||x|-hf|13k|154|Mbanza Congo;M'banza Kongo
+Concordia|AR||1n|-2f7|-4h6|14c|Konkordija;Konkordiya
+Conselheiro Lafaiete|BR||4w|-1le|-3dn|12l|Konseljeiro Lafajetė;Conselheiro Lafayete
+Kōnosu|JP||7q|2s7|ark|wg
+Khon Kaen|TH||62|19p|7xn|vt|Khonken;Khonkenas;Khohn Ken;Khon Kan;Khonkhaen;Khon Khen;Khonkean;Konkahen
+Kontagora|NG||u|sw|f7|rg
+Kōnan|JP|Aichi|7q|2q5|ak7|rb
+Hradec Králové|CZ||9m|3vh|17z|p6|Königgrätz;Reginogradecium;Kraljičin Gradac
+Kongolo|CD||y|-ez|230|o5|Kangolo
+Konotop|UA||98|3yb|2k8|nk
+Gwangju|KR|Gyeonggi-do|7h|2vx|9ti|mq|Kwangdžu;Kóng-chû-sṳ;Kwangju
+Konstanz|DE||8r|3oe|pi|ml|Constanza;Kostnice;Constance;Costanza;Konstancja;Constança;Constanța;Konstanco;Konstantza;Constantia;Kostnica;Costansa;Konstancas;Konstanca;Costnitz;Kostnitz;Costanz
+Konin|PL||a5|412|1ep|ml
+Kondoa|TZ||h|-dm|2re|mc
+Konnagar|IN||6t|1r3|6te|l5
+Gongju|KR||7h|2ta|9t4|k4|Kongju;Kong Tjou
+Concepción del Uruguay|AR||1n|-2i8|-4hr|iv|Konsepsion del Urugvajus;Konsepsyon del Urugvay;Konsepsi del Uruguay;Konsepsyon del Uruguay;Konsepsyon del Uruqvay;Konsepsyon del Urugway;Konsepsyon del Uruguway
+Kostyantynivka|UA|Donetsk|98|3qt|2wr|iq|Kostjantyniwka;Kostiantynivka;Kostjantinivka;Kostantinovka;Konstantinowka
+Konan|JP|Shiga|7q|2p8|ai2|f6
+Kongoussi|BF||1a|111|-49|ew
+Konch|IN||6t|207|63v|eo|Kūnch
+Královské Vinohrady|CZ||9m|3v3|144|dk|Königliche Weinberge
+Concepción|PY||1y|-1t0|-4fj|dd|Konsepsjonas;Conceição;Kontsepsyon;Konsepsi;Konsepsyon
+Kongtan|CN||7i|28y|82r|d3|K’ung-t’an
+Concord|US|New Hampshire|48|3c1|-5iq|c8|Konkordas;Konkord;Konkorda;Konkords
+Konongo|GH||1|ie|-3e|c4
+Konārak|IR||7o|1yg|4ns|c1|Kunārak;Kenārak
+Konakovo|RU||9i|4di|2u5|bq|Konakowo
+Konayev|KZ||5s|3dv|5y2|bq|Konaev;Qonayev
+Köniz|CH||a7|3mc|kl|bm|Chunicis
+Königswinter|DE||8r|3ws|jz|bg|Königsvinter;Konigsvintero
+Chojnice|PL||a5|456|1cs|as|Konitz;Chònice;Choinicės;Hojņice;Conitz
+Kondapalle|IN||6t|1a6|67q|ar|Kondapalli
+Kondli|IN||6t|27h|5yt|am
+Köneürgenç|TM||5x|39l|4kb|ac|Kounia-Ourguentch;Konye-Urgench;Kunya-Urgench;Kunja-Urgentj;Kunya-Urgen
+Kondopoga|RU||9i|4ss|2n7|9k|Kontupohja;Kondupohju;Kondopog;Tonopoga
+Starokostyantyniv|UA||98|3u8|23l|9i|Starokostiantyniv;Starokonstantynów;Konstantynów;Starokostjantiniv;Starokostjantyniw
+Königs Wusterhausen|DE||8r|41a|11v|91|Parsk;Kēnigsvusterhauzene
+Kondagaon|IN||6t|1if|6au|8l|Kondegaon
+Konéfla|CI|Sassandra-Marahoue|0|ih|-fl|8e|Konéfra
+Kondotty|IN||6t|uy|5v1|80|Kondotti
+Königsbrunn|DE||8r|3q4|u9|7r
+Congleton|GB||9b|43o|-65|7a|Kongletono
+Královo Pole|CZ||9m|3sr|1a3|6q|Königsfeld
+Kone Ta La Paung|MM||7y|1b9|7f3|6b
+Concarneau|FR||9k|3p0|-aw|5y|Konk-Kerne
+Kondasamudram|IN||6t|zz|634|5x
+Conda|AO||x|-uv|13u|5x|Konda
+Cognac|FR||9k|3iy|-x|5t|Conhac;Konjak
+Końskie|PL||a5|3y7|1kp|5s
+Kondalampatti|IN||6t|wb|610|5n
+Kontich|BE||8t|3y1|cd|5n|Condacum;Contich
+Konnūr|IN||6t|190|5rn|5e
+Konstantinovsk|RU||9i|3o6|365|59|Konstantinowsk
+Konz|DE||8r|3u2|ia|55|Conz
+Konstantynów Łódzki|PL||a5|3zr|1hp|53|Lodzės Konstantynuvas;Konstantinova Ludzka
+Konaklı|TR|Antalya|94|2tn|2gm|50
+Kongsberg|NO||9j|4lr|qt|4x
+Konārka|IN||6t|1j9|6n6|4o|Konârak;Świątynia Surji w Konarak;Konark;Kanarak
+Concord|US|Massachusetts|48|39y|-5i7|4o|Konkordo;Konkord
+Kwun Tong|HK||6i|1pz|8ta|4o|Koon Tong;Kun Tong;Kung Tong;Kon Tong
+Medvezh’yegorsk|RU||9i|4ur|2nq|4m|Medvezjegorsk;Karhumäki;Karhumägi;Kondimägi;Medvezhogorsk;Medvezhegorsk
+Konstancin-Jeziorna|PL||a5|40p|1mo|4l|Konstancina-Jezjorna;Kůnstanćin-Jeźorno
+Kochenëvo|RU||75|48t|6cd|4k|Konchenevo;Kochenova
+Königslutter am Elm|DE||8r|415|u2|4k|Luttera Regalis
+Konjic|BA||9r|3d9|1dw|4g
+Königstein im Taunus|DE||8r|3ve|nj|4d
+Kong|CI|Savanes District|0|pf|-ct|49
+Kontiolahti|FI||92|4uc|2ax|47|Kontiolax
+Kondalwādi|IN||6t|1g9|601|44
+Kondrovo|RU||9i|489|2rt|41|Kondrowo;Kondrova
+Kontula|FI||92|4nc|1xo|3x|Gårdsbacka;Kontsa
+Congaz|MD||8x|3k3|27f|3q|Kongaz
+Konduga|NG||u|wd|11a|3q|Kanduga
+Konédougou|CI|Bas-Sassandra District|0|gs|-ij|3q
+Kondūr|IN||6t|wn|65e|3h
+Konosha|RU||9i|4pd|33u|3g|Konosja
+Kongsvinger|NO||9j|4n7|xc|3f
+Kongwa|TZ||h|-h8|2t6|3a
+Kondovo|MK||9u|38p|1n7|39|Kondovë
+Konaje|IN||6t|zk|5tr|36
+Concepción|PE||3o|-x4|-5t7|35|Kunsipsyun;Konsepsjonas
+Kongens Lyngby|DK||8y|4ax|yq|2y
+Kondhi|IN||6t|1jl|649|2x
+Konobeyevo|RU||9i|49x|2ze|2w|Konobejevo
+Kondichettippatti|IN||6t|v4|614|2v
+Königstädten|DE||8r|3us|nh|2u
+Kantagi|KZ||5s|3cx|5ai|2u|Kontagi
+Königsbach-Stein|DE||8r|3s1|nx|2r
+Kondamallapally|IN||6t|1ag|63g|2p
+Konanūr|IN||6t|z3|5v9|2o
+Konde|TZ||h|-dr|32f|2n
+Köngen|DE||8r|3r8|q1|2n
+Konganāpuram|IN||6t|w5|60e|2l
+Konrā|IN||6t|1vj|6la|2b
+Koni-Djodjo|KM||ac|-xz|3fk|29|Koni Djodjo
+Kong|CI|Lagunes District|0|gz|-a5|29
+Kontcha|CM||j|m5|xz|28|Koncha;Kontscha
+Konuklu|TR|Şanlıurfa|94|2v5|2zx|26
+Kūhnānī|IR||7o|2ks|3nh|26|Kūnānī;Konānī
+Konkwesso|NG||u|u5|be|25|Konkweso
+Khoni|GE||7n|39l|39u|25|Choni;Chonis;Honi;Joni;Xoni;Koni
+Cornillon|HT||4j|1fw|-5jv|24|Kòniyon
+Konokovo|RU||9i|3gm|36t|23|Kanokovo
+Königsbronn|DE||8r|3re|s3|22
+Konstantinovskaya|RU|Stavropol Kray|9i|3ed|3bw|1z
+Koni|IN||6t|1pg|6c5|1z
+Konta|IN||6t|1dg|6a3|1y
+Königsee|DE||8r|3wq|uu|1y|Königssee
+Concepción de la Sierra|AR||1n|-25q|-4a8|1x|Konsepsyon de la Syerra;Konsepsi de la Sierra;Konsepsyon de la Sierra
+Kondamanāyakkanpatti|IN||6t|wj|616|1x
+Kodiébouman|CI||0|ha|-cm|1x|Kondiébouma;Kondiébouman
+Konaklı Mahallesi|TR||94|32t|3ef|1v
+Kondor|IR|Razavi Khorasan|7o|2pt|4hj|1t|Kondowr
+Konala|FI||92|4nc|1x0|1s|Kånala
+Koniecpol|PL||a5|3x1|1ip|1r|Koņecpole
+Wołczyn|PL||a5|3xq|1e5|1q|Konstadt;Volčina
+Königsfeld im Schwarzwald|DE||8r|3pq|ne|1q|Königsfeld
+Königsbau|DE||8r|3og|pj|1q
+Kongaso|CI||0|lq|-gw|1p|Kongasso
+Konradshöhe|DE||8r|423|10r|1o
+Konsoy|TJ||6d|34h|5dm|1o
+Konstantinovskoye|RU||9i|3hu|3ag|1m|Konstantinovskoje
+Kondoros|HU||8v|3lx|1ls|1m
+Konstantinovskiy|RU||9i|4gn|31z|1l|Konstantinovskij
+Konstantinovka|RU||7x|3tu|9vj|1l
+Komborodougou|CI||0|px|-f3|1k|Komboro-Dougou;Konborodougou
+Kondratovo|RU||7z|4h2|4bv|1k|Kondratowo
+Kąty Wrocławskie|PL||a5|3xr|1al|1i|Konti Vroclavske
+Konacık|TR||94|2uw|245|1h
+Könnern|DE||8r|3zj|wp|1h
+Shalazhi|RU||9i|3bp|3i0|1h|Sjalazji;Makane-Khotar;Podgornoe;Konëv;Podgornoye
+Jaworzyna Śląska|PL||a5|3xf|19n|1g|Königszelt;Javožina Slonska
+Konoha|JP||7q|2jg|a2v|1e|Konona
+Konini|NZ||ak|-2ul|dh4|1d
+Königsbrück|DE||8r|3ye|12n|1c|Kēnigsbrika
+Concepción|AR||1n|-26v|-4gt|1c|Konsepsyon;Konsepsi
+Konso|ET||2|el|2w4|1a
+Koné|NC||b8|-1mi|cpz|1a
+Konolfingen|CH||a7|3m8|l6|1a
+Concarán|AR||1u|-2ig|-518|19|Konkaran;Concoran
+Kanelovskaya|RU||9i|3lf|30v|17|Kanelovskaja;Konelovskaya
+Koningshooikt|BE||8t|3xy|ct|17|Koningshoyckt
+Kondinskoye|RU||7z|4lp|579|16|Kondinskoje
+Konstantinovskaya|RU|Krasnodar Krai|9i|3gk|355|15|Konstantinovskaja;Konstantinowskaja
+Konyshëvka|RU||9i|400|2q1|14|Konysjevka;Konishevka
+Conwy|GB||9b|440|-an|13|Konvis;Conway
+Kondhar|TN||1e|2rt|sm|12
+Konstantinovo|BY||9g|47u|29b|12
+Königswartha|DE||8r|3yj|13t|12|Rakecy
+Kondol’|RU||9i|42q|3h6|10|Kondol
+Koniaków|PL||a5|3tn|1gn|10
+Konstantinovo|RU||9i|4d3|2xn|10
+Konradsreuth|DE|Bavaria|8r|3vn|wx|z
+Kinetspil|UA||98|3pc|2dj|z|Konetspol’;Kinets’pil’
+Konče|MK||9u|37a|1q7|z|Kontché;Konča
+Koni|CI||0|qn|-ft|y|Kono
+Konbolokoura|CI||0|px|-gd|x|Kombolokoura
+Kon Wet Chaung|MM||7y|1ad|7eg|x|Kone Wet Chaung;Konwetchaung
+Kończyce Małe|PL||a5|3ui|1fr|x
+Koni-Ngani|KM||ac|-xy|3fk|x|Kone N’Goni
+Königheim|DE||8r|3tu|qo|x
+Konakridee|SL||l|o6|-10s|v
+Königstein|DE|Saxony|8r|3xg|133|u|Kralowc;Kēnigšteina;Koenigstein
+Konëvo|RU||9i|4sk|319|u
+Kónitsa|GR||8p|339|1lo|t
+Königsdorf|DE||8r|3ou|vw|t
+Konopiska|PL||a5|3wx|1gt|t
+Könekesir|TM||5x|2y6|4e4|s|Kënekesyr;Kënekesir;Koynekesir
+Konsou|CI||0|l9|-fl|s
+Kongonoussou|CI||0|lb|-fk|r
+Konayo|CI||0|h0|-h8|r
+Konice|CZ||9m|3tr|1ax|q|Konitz
+Kóny|HU||8v|3ob|1c8|q
+Kongo|CI|Vallée du Bandama District|0|kc|-fe|q
+Le Conquet|FR||9k|3qc|-d9|p|Konk-Leon;Conquestus;Conquet;Le Conque;Le Concue
+Konepaja|FI||92|4n7|1xa|p|Machine Shop
+Kongonekro|CI||0|l6|-e0|p
+Königswalde|DE||8r|3wf|109|p
+Konnevesi|FI||92|4ty|214|o
+Königstetten|AT||a2|3q6|18u|o
+Konalga|TR||94|2x7|3bl|o
+Kongolo|CI||0|pc|-ch|o|Kongoto
+Conop|RO||8u|3k2|1os|n|Konop
+Konyár|HU||8v|3ng|1o7|n
+Kondorobo|CI||0|lr|-fz|m
+Konia|CY||73|2on|2i6|m
+Końskowola|PL||a5|3yt|1p9|m|Konskovolya;Konskovolė;Konskovolâ;Konskovolia;Końska Wola
+Kannoura|JP||7q|2l7|ad2|m|Kōnoura
+Konankofikro|CI||0|jd|-ek|m|Konankoffikro
+Konandikro|CI||0|lj|-b6|m|Kouandikro
+Kongola|CI||0|ll|-f6|m
+Kong Noy|KH||78|vs|838|l|Kang Noy
+Kongoti|CI|Lacs District|0|km|-bb|l
+Konza|KE||16|-4u|2v5|k
+Kontenko|RU||9i|3i0|2ub|k
+Konéfla|CI|Sassandra-Marahoue|0|iy|-g2|k|Konufla;Konoufla
+Kœnigsmacker|FR||9k|3t7|hg|k|Königsmachern;Koenigsmacher
+Konradsreuth|DE|Bavaria|8r|3u6|y6|j
+Konaklı|TR|İzmir Province|94|2xv|25s|j
+Konan n’drikro|CI||0|k3|-cf|j|Konandikro;Konandrikro
+Kondorobango|CI||0|mi|-as|j
+Kongodian|CI|Vallée du Bandama District|0|lu|-ff|i|Kongodjian
+Kończyce Wielkie|PL||a5|3ug|1fs|i|Velké Kunčice
+Konossou|CI||0|lg|-cj|i|Kondossou
+Kondé Yaokro|CI||0|jp|-ej|i
+Konzell|DE||8r|3sb|zb|i
+Kongotty|CI||0|ht|-cc|i
+Koncha-Zaspa|UA||98|3vq|2cx|i
+Kuchyňa|SK||8s|3qh|1bo|i|Konyha
+Königsfeld|DE|Saxony|8r|3xv|zf|i
+Königstein|DE|Bavaria|8r|3tt|wb|i
+Könitz|DE||8r|3wp|vx|h
+Konoplyane|UA||98|3mp|2co|h|Konopliané;Konoplyanoye
+Konankro-Mizron|CI||0|lr|-e4|h
+Kontokáli|GR||8p|324|1j5|h|Kondókali
+Kongobanadougou|CI||0|ne|-cg|g
+Konzo|CI||0|kq|-e2|g
+Kongossou|CI|Vallée du Bandama District|0|l9|-fg|g
+Ust-Chorna|UA||98|3q8|1uh|f|Königsföüd;Usť-Čorna;Ust-Ciorna;Királymező;Oust-Tchorna;Ust-Tschorna;Ustj-Ĉorna;Ust-Czorna
+Koningsbosch|NL||8m|3xt|gk|f
+Khonkholoy|RU||6k|3y1|8cn|f|Khonkholoj;Konkholoi;Khonkhaloy
+Kongonoua|CI||0|iz|-ca|f
+Konieczkowa|PL||a5|3ug|1ox|f
+Kontariótissa|GR||8p|33r|1qe|f|Kondariótissa
+Konstantynów|PL||a5|411|1s5|e
+Kouohara|CI||0|ni|-cz|e|Konobara;Kohouara
+Konotop|PL||a5|409|186|e
+Köngernheim|DE||8r|3uh|mx|e
+Kondrokro|CI||0|je|-dg|e|Kondokro
+Kondor|IR|Qazvin Province|7o|2sq|3u4|e|Kondar
+Königsfeld|DE|Bavaria|8r|3ur|v1|e
+Kongo|CI|Sassandra-Marahoue|0|jf|-fu|e
+Konstantinovka|UA||9t|3gm|2ms|e
+Konispol|AL||9y|326|1k2|d|Konispoje
+Koninksem|BE||8t|3x1|f4|d
+Konyiba|CI||0|kf|-mv|d
+Konékouamékro|CI||0|k2|-a5|d
+Konima|CI||0|n5|-k9|d
+Konan Kuikro|CI||0|js|-et|d
+Kongossou|CI|Vallée du Bandama District|0|lx|-fb|d|Kongoussou
+Konawa|US||2f|2p4|-7gr|d
+Konbalasso|CI||0|me|-bp|d|Kombolasso
+Königshain|DE||8r|3y6|15b|d|Kralowski haj
+Kongossou-Koidiokro|CI||0|ma|-f9|d
+Kontsovo|UA||98|3qx|1pt|d|Kontsove
+Königswiesen|AT||a2|3qg|158|d
+Koningslust|NL||8m|3yo|gn|d
+Konguidougou|CI||0|le|-bu|d
+Konan|CI||0|n7|-m7|c|Kona
+Konak|RS||8q|3hw|1m3|c|Conak;Kanak
+Kongodjan|CI||0|eq|-9j|c
+Kongolila|CI||0|sp|-kk|b
+Tsaghkadzor|AM||80|34l|3g8|b|Zaghkadsor;Tsachkadzor;Cachkadzoras;Țahkadzor;Cachkadzor;Konstantinovskoye;Tsakhkadzor
+Konary|PL|Greater Poland|a5|3zi|1bc|b
+Konan-Kékrékro|CI||0|jd|-dl|b|Konan Kékréko
+Kondytsioner|UA||98|3rc|2w7|b
+Könegümmez|TM||5x|2ym|4e8|b
+Konarak-e ‘Olyā|IR||7o|2gc|3y3|b
+Konanmoukro|CI||0|ku|-f1|b|Konamoukro
+Kondoubo|CI||0|lj|-eb|b
+Shirak|AM||80|35g|3e0|a|Konakhkran;Kunakhkran
+Conquereuil|FR||9k|3oa|-4v|a|Konkerel
+Korisós|GR||8p|34i|1ne|a|Konisós;Korissós
+Kontovázaina|GR||8p|2x0|1ou|a|Kontovázena;Kondovazena;Kondovázaina
+Kostiantynopil|UA||98|3pc|2uw|a|Konstantinopol';Kostyantynopil’
+Kondéhinou|CI||0|lb|-el|a
+Colonia 1 Mai|RO||8u|3iu|1yl|9|Konkordia bányatelep
+Kongoti|CI|Vallée du Bandama District|0|m7|-f1|9
+Konursu|TR||94|347|33t|9|Konorsu
+Konjšćina|HR||a6|3jx|18x|9
+Konstantinovy Lázně|CZ||9m|3uk|102|9
+Myrovychi|UA||98|3v5|2ha|9|Kantakuzivka;Kantakuzovka;Kontakuzovka
+Staro Konjarevo|MK||9u|36x|1rs|9|Staro Konyarevo;Sztaro Konyarevo;Konjareva e Vjetër
+Kontinkangas|FI||92|50l|1yw|9
+Konopiště|CZ||9m|3ua|14q|9
+Konārjū|IR||7o|22a|4en|9|Kanār Jū;Kenārjū
+Konan Lékikro|CI||0|j6|-cv|9|Konanlélikro
+Konéla|CI||0|sm|-l5|9|Koméla
+Kongodian|CI|Vallée du Bandama District|0|n2|-ci|9
+Kindrativka|UA||98|3y2|2ol|9|Kondratovka
+Kongora|BA||9r|3ch|1c7|9
+Konanblékro|CI||0|lv|-ec|9
+Konary|PL|Lesser Poland|a5|3uq|1jc|9
+Kondrat’yevo|RU||9i|4of|269|9|Säkkijärvi;Kondratjevo
+Konédougou|CI|Montagnes|0|iw|-jp|8
+Kononivka|UA||98|3vf|2h5|8|Kononovka
+Konopnica|PL|Łódź Voivodeship|a5|3yn|1ga|8
+Kindrashivka|UA||98|3u9|2we|8|Kondrashovka;Kondrashevka
+Konti Kunda Niji|GM||7|11p|-17u|8
+Kondratowice|PL||a5|3x1|1b1|8
+Königerode|DE||8r|3zc|v4|8
+Konuklu|TR|Aydın|94|2x8|25d|8
+Konogo|CI||0|np|-ja|8
+Kondratyevo|UA||9t|3ir|2nr|8
+Konankro|CI||0|kj|-eu|8|Konakro
+Kongofon|CI||0|f8|-ap|8
+Konken|DE||8r|3tj|kf|8
+Konaklı|TR|Hatay|94|2u9|2st|8
+Konakpınar|TR||94|2xc|37n|8
+Konjīneh|IR||7o|2on|3r3|8|Kanjīyeh;Ganjīneh
+Confort-Meilars|FR||9k|3ph|-cb|8|Koñforzh-Meilar;Meilars
+Konopnica|PL|Lublin|a5|3yb|1qe|7
+Königsdorf|AT||a2|3mk|18x|7
+Kong Thum|KH||78|120|8a4|7
+Konin Żagański|PL||a5|3z7|168|7
+Končanica|HR||a6|3is|1bp|7|Konchanicza;Koncsanica
+Concoret|FR||9k|3pi|-65|7|Konkored
+Konakbeyi|TR||94|30r|3b2|7|Kanakbey
+Konyatyn|UA||98|3pg|1xa|7|Koniatyn;Coniatin
+Koningbélo|CI||0|oz|-lw|7
+Konárovice|CZ||9m|3v0|16g|7
+Kondoukro|CI||0|kq|-e3|7
+Konchanskoye-Suvorovskoye|RU||9i|4iy|2mn|6|Kontsjansko-Suvorovskoje
+Kona|CI||0|om|-km|6
+Kongoué Kouadjokro|CI||0|jj|-dg|6|Kongoué-Kouadiokro
+Königseggwald|DE||8r|3p5|q6|6
+Komchén|MX|Campeche|3z|1if|-6xl|6|Konchén
+Konradsheim|AT||a2|3p7|14w|6|Konradshaim
+Konovka|UA||98|3qr|228|6|Cofa;Kofa;Konówka
+Königsborn|DE||8r|40u|wn|6|Koenigsborn
+Königsmoor|DE||8r|43v|qw|6
+Königsbrunn im Weinviertel|AT||a2|3qb|19l|6
+Königsfeld|DE|Rheinland-Pfalz|8r|3wa|jy|6
+Kongokro|CI||0|m3|-f0|6
+Konizbaltë|AL||9y|357|1j6|6|Konizbalta;Konisbalta;Konesbaltë;Kanisbalte;Konisbaltë
+Konovalivka|UA||98|3so|2oo|6|Konovalovka
+Königsberg|AT||a2|3o6|18t|6
+Koneck|PL||a5|42m|1g0|6
+Kongwékoro|CI||0|n3|-lv|6|Koungbékoro
+Kondo-Koffikro|CI||0|jf|-cd|6
+Königshütte|DE||8r|3zq|tx|6
+Königsheim|DE||8r|3pm|on|5
+Konan-Tchimoukro|CI||0|ji|-d6|5
+Königsmark|DE||8r|42o|ww|5
+Kontakaíika|GR||8p|2x0|22a|5|Kondakeika
+Konarzyny|PL||a5|45i|1ca|5|Gmina Kònôrzënë
+Konoplivtsi|UA||98|3qk|1r8|5|Konoplevtsy
+Konzié|CI||0|qb|-9g|5
+Konstantía|GR||8p|35w|1pl|5|Gustulüp;Konstandía
+Konary|PL|Lower Silesia|a5|3xs|19j|5

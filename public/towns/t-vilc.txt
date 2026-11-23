@@ -1,0 +1,23 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vincennes|FR||9k|3rp|6s|cr|Vilcenia;Vensen;Vensenas
+Vilcún|CL||4u|-2zf|-5kn|69
+Vilches|ES||9d|2y5|-9r|1d
+Wiltz|LU||9c|3ut|gh|1c|Wolz;Vilcas;Vilts;Wilz
+Vilshanka|UA|Kirovohrad|98|3pz|2dr|1a|Vilchanka
+Vilshana|UA||98|3sq|2eq|u|Vilchana;Wilschana;Vilšana
+Vâlcelele|RO|Buzău County|8u|3hy|23z|j|Vâlcele;Vîlcelele
+Vâlcele|RO|Buzău County|8u|3h9|21z|i|Vîlcele
+Vilcha|UA||98|3vl|2um|h
+Vilce|LV||9n|4cq|1tf|f
+Vâlcelele|RO|Călărași County|8u|3fb|23f|e|Vîlcelele
+Vâlcele|RO|Bacău County|8u|3km|21w|d|Vîlcele
+Vâlcele|RO|Olt|8u|3f0|1w6|b|Vîlcele
+Vâlcelele de Sus|RO||8u|3f0|1w8|b|Vîlcelele de Sus
+Vilcabamba|PE|Apurímac Department|3o|-134|-5lr|a|Huilcabamba
+Vilshanka|UA|Odesa|98|3pq|2bs|a|Vilchnka
+Vâlcele|RO|Cluj County|8u|3lp|1tp|9|Bányabükk;Vîlcele
+Vilcabamba|PE|Huánuco Department|3o|-r6|-5vm|9
+Vilcabamba|PE|Junin|3o|-vk|-5u3|7
+Vâlcelele|RO|Prahova|8u|3gu|21a|7|Vîlcelele
+Vilcacoto|PE||3o|-xe|-5su|5
+Vâlcele|RO|Bacău County|8u|3kn|23d|5|Vîlcele

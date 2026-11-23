@@ -1,0 +1,93 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ratlām|IN||6t|1st|5sg|21l|Hatlam
+Pathānkot|IN||6t|2hn|5u5|1cf|Rathankot
+Regensburg|DE||8r|3s6|xm|162|Ratisbona;Řezno;Ratisbonne;Ratyzbona;Rengschburg;Regensbörj;Ratisbon
+Nakhon Ratchasima|TH||62|15l|7vm|z4|Nakhon Ratczasima;Nakhon Ratchasim;Nakhon Ratčasima;Nakhon Ratcsaszima;Nakhonratčasima;Nakhonratčasim;Nakhon Ratchsima;Nakonratchasima;Nakhonratsima
+Ubon Ratchathani|TH||62|16c|839|y1|Ubon Ratczathani;Ubonratčathanis;Ubon Raçatani;Ubol Rachatani;Ubonrajathani;Ubon Rachatani;Ubon Rachpani
+Ratchaburi|TH||62|11m|7pa|po|Raçaburi;Rat Buri;Rajburi
+Ratingen|DE||8r|3yi|j1|pg
+Rat Burana|TH||62|120|7r7|o3|Ratburanah
+Ratodero|PK||6q|258|59p|mr|Ratoderas
+Ratnagiri|IN||6t|1b7|5nn|l6
+Ratchathewi|TH||62|128|7r9|ka
+Ratangarh|IN|Rajasthan|6t|260|5ra|jr
+Rāth|IN||6t|1z3|651|h5
+Racibórz|PL||a5|3v5|1em|g9|Ratibor;Raciboža;Raćibůrz;Racibužas;Ratsibuj;Ratiboria;Rasibuj;Racėbužos;Ratihor
+Ratnapura|LK||68|il|67c|da|Ratnapur
+Rezé|FR||9k|3n3|-4d|aw|Reudied;Ratiatum
+Ratia|IN||6t|2ah|5ty|ac
+Rathenow|DE||8r|425|ya|7j|Ratenovia
+Ratanpur|IN||6t|1px|6c9|6u
+Rātu|IN||6t|1t2|6kp|68
+Rathfarnham|IE||8z|442|-hg|4t|Ráth Fearnáin;Ratfarnemas
+Ratekau|DE||8r|45v|tt|4f
+Ratzeburg|DE||8r|456|tx|3s|Ratzebourg;Raceburgum
+Ratannagar|IN||6t|26d|5s8|3k|Ratonnagar
+Rathmines|IE||8z|444|-he|32|Ráth Maonais
+Rath|DE||8r|3xg|jp|32
+Jobstown|IE||8z|440|-ht|30|Ráth Miontáin
+Ratne|UA||98|3zj|1w5|2p|Ratno;Rafno
+Ratoath|IE||8z|44n|-hy|2i|Ráth Tó
+Rathgar|IE||8z|443|-hf|2c|Ratgar;Ráth Garbh;Ratqar
+Ratangarh|IN|Madhya Pradesh|6t|1wy|5so|28
+Rathdrum|US||3p|3ot|-90q|23
+Raheny|IE||8z|44b|-h6|20|Ráth Eanaigh;Rahenis
+Rathian|IN||6t|2je|5sp|1s
+Raton|US||2p|2ui|-824|1q
+Ratnu Chak|IN||6t|2ir|5s5|1g
+Rättvik|SE||9w|4p5|160|1g
+Rattelsdorf|DE||8r|3uy|u9|1a
+Ratby|GB||9b|429|-3g|19
+Racines|IT||9o|3m7|ve|18|Ratschings;Rasinae
+Ratíškovice|CZ||9m|3rw|1bp|14
+Charleville|IE||8z|41f|-o4|13|Ráth Luirc;An Ráth;Rathluirc
+Rathcoole|IE||8z|440|-hz|y|Ráth Cúil;Ratkulas
+Ratkovo|RS||8q|3ia|1hq|y
+Răteşti|RO|Arges|8u|3g9|1xt|y
+Råtorp|SE||9w|4l0|11h|x
+Rotunda|RO|Olt|8u|3e6|1vk|w|Rătunda
+Ratnāpuram|IN||6t|1fr|64z|w|Ratnapur
+Rathnew|IE||8z|437|-gx|u|Ráth Naoi
+Ratholo|BW||m|-1r4|24l|o|Ratolo
+Rathangan|IE||8z|43u|-jf|o|Ráth Iomgháin
+Rathfriland|GB||9b|46p|-h5|l|Ráth Fraoileann;Rathfryland
+Rattenberg|DE||8r|3sd|zf|i
+Rathmines|AU||8l|-2js|bp2|i
+Rathcormac|IE||8z|40o|-n0|i|Ráth Chormaic;Ratkormakas
+Ratho|GB||9b|4bc|-9e|h
+Ratiboř|CZ||9m|3t5|1dr|h
+Ratzersdorf an der Traisen|AT||a2|3pz|17j|g
+Rath-Anhoven|DE||8r|3xz|hl|g
+Rathdrum|IE||8z|431|-hb|g|Ráth Droma
+Rathkeale|IE||8z|41w|-ou|g|Ráth Caola
+Rattiszell|DE||8r|3s7|z6|e
+Rativtsi|UA||98|3qs|1pv|d|Ratovtsy
+Ratina|FI||92|4qt|1u1|d
+Ratho Station|GB||9b|4be|-9f|d
+Ramelton|IE||8z|48w|-l9|d|Ráth Mealtain;Rathmelton
+Rathwire|IE||8z|44n|-ju|c|Ráth Ghuaire
+Rathdowney|IE||8z|42t|-l2|c|Ráth Domhnaigh
+Raphoe|IE||8z|48f|-l4|c|Ráth Bhoth
+Rathmannsdorf|DE|Saxony|8r|3xh|13a|c
+Ratowice|PL||a5|3xr|1bz|b|Ralowice
+Rataje|CZ||9m|3sv|1c6|a
+Rattenkirchen|DE||8r|3q0|y8|9
+Rathvilly|IE||8z|42w|-il|9|Ráth Bhile
+Gratteri|IT||9o|2xh|12t|8|Ratteri
+Ratshausen|DE||8r|3pv|og|8
+Rätzlingen|DE|Saxony-Anhalt|8r|41k|uv|8
+Rathmore|IE||8z|40o|-pm|8|An Ráth Mhór
+Rătești|RO|Satu Mare County|8u|3o6|1rk|8
+Ratibořské Hory|CZ||9m|3te|151|7
+Rathmannsdorf|DE|Saxony-Anhalt|8r|3zy|wb|7
+Rătești|RO|Buzău County|8u|3hu|221|7
+Rateče|SI||9a|3l3|123|6
+Ratschendorf|AT||a2|3lu|17y|6
+Rataje nad Sázavou|CZ||9m|3ug|15k|6
+Ratapiko|NZ||ak|-30w|dg8|6
+Rathard|IE||8z|401|-oa|6
+Ratboř|CZ||9m|3uu|164|5
+Rățoaia|RO||8u|3gl|1zc|5
+Ratenice|CZ||9m|3v5|15u|5
+Radkov|CZ||9m|3uf|1dd|5|Ratkau
+Rätzlingen|DE|Lower Saxony|8r|436|to|5

@@ -1,0 +1,21 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Dnipro|UA||98|3qn|2pc|7h1|Dnjepropetrovsk;Dněpropetrovsk;Dniepropetrovskas;Dnjipropetrovsk;Dniepr;Dnyipro;Dnepr;Novyy Kodak;Katerynoslav;Novorosiynsk;Sicheslav;Dnjipro;Catherinoslav;Caterinoslavia
+The Hague|NL||8m|40o|by|3nr|Den Haag;La Haye;La Haya;Hago;Haag;La Haia;De Haach;An Háig;A Haia;L'Aia;Haga;D'n Haog;Hag;Lahey;Hague
+Dniprovskyi|UA||98|3w5|2d0|2rf|Dnyiprovszkij kerület
+Kamyanske|UA|Dnipropetrovsk|98|3qs|2o5|1r0|Dniprodzerzhynsk;Kamianské;Kamjanske;Kam''jans'ke;Dniprodzeržyns'k;Kamieńskie;Dnieprodzierżyńsk;Kamjanszke;Dnyiprodzerzsinszk
+Bilhorod-Dnistrovskyi|UA||98|3kb|2cb|d9|Aqkermen;Cetatea Albă;Białogród nad Dniestrem;Bílhorod-Dnistrovski;Bilhorod-Dnistrovskyj;Bilhorod-Dnistrovskij;Bilhorod-Dnistrovsky;Bilhorod-Dnyisztrovszkij;Bilhorod-Dnistrovs'kyj;Moncastro;Dniestro Bilhorodas;Bilhoroda-Dņistrovska;Belgorod-Dnestrovskiy;Bilhorod-Dnjistrovski;Bilhorod-Dnistrowskyj;Nyeszterfehérvár;Dnyeszterfehérvár;Nyisztrafehérvár
+Denain|FR||9k|3vt|9f|5y|Dnain;Dononium
+Dniprorudne|UA||98|3nn|2p8|4x|Dniprohrad;Dniproroudné
+Dhakuākhanā|IN||6t|23k|7ae|3r|Dnakuākhana
+De Haan|BE||8t|3yf|8f|3a|D'n Aone;D'n Oane;Den Haan
+Dnestrovsc|MD||8x|3li|2b3|2w|Dnestrovskas;Dnestrowsk;Dněstrovsk
+Dno|RU||9i|4gn|2b9|2o
+Dniprovske|UA||98|3qz|2nl|1k
+Dnipryany|UA||98|3lv|2kf|16|Brytany;Dnipriany
+Dniprovka|UA|Zaporizhzhia|98|3nr|2o6|13|Dneprovka
+Dneprovskaya|RU||9i|3iq|2zt|w|Dneprovskaja;Dnjeprowskaja
+Dniprovka|UA|Crimea|9t|3iz|2ng|l|Çoqraqlı Şeyh Eli;Vyselky;Chokrakly-Sheykh-Eli;Chokrakly-Sheikh-Eli;Sheikh-Eli;Sheykh-Eli
+Dnistrivka|UA||98|3qu|22t|c|Resteu-Atachi;Resteu Atakhi;Dnestrovka
+Dnipro Quarter|UA||98|3z5|2dg|c|Dniprovskyi kvartal;Byelhorodskyi kvartal;Bielhorodskyi kvartal;Bilhorodskyi kvartal
+Dněsice|CZ||9m|3ts|10u|7
+Dniprovokamianka|UA||98|3rj|2mi|6

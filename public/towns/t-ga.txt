@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Jaipur|IN||6t|22s|5uj|ni6|Dźajpur;Džaipur;Džaipuras;Džajpura;Jaypur;Ĝajpuro;Iaipura;Caypur;Dzsaipur;Jayapur
+Kaohsiung|TW||7l|1qu|9a7|l4h|Takao;Gaoxiong;Cao Hùng;Kao-hsiung
+Gazipur|BD||6a|1uo|6z6|kmz
+Gaziantep|TR||94|2uy|2vu|h5c|Aintab;Dîlok;Qaziantep;Qazianteb
+Havana|CU||36|1s9|-6cu|gp2|Havanna;La Habana;Havano;La Havane;A Habana;L'Avana;Hawana;LAvana;Habana;LAvann-a;LAvan-a;LHabana;La Ahuana;Hafana;La Avàn;Hahvaxnaz;Gavana;Havan
+Ganzhou|CN||7i|1zt|8v9|f99|Cám Châu;Kan-čou;Gantsjou;Gáng-ciŭ;Kàm-chû-sṳ;Kòng-chiu-chhī;Gandžov;Kan-chou
+Hamburg|DE||8r|44r|rr|f8b|Hamburk;Hamborg;Hanburgo;Hampuri;Hambourg;Amburgo;Amborg;Augusta Gambriviorum;Hambuurich;Hamburch;Amburgu;Hambörj;Hamboarch;Hamepuka;Hamburq;Gamburg
+Isfahan|IR||7o|2ip|3zj|bxs|Ispahan;Esfahan;Dakbayan sa Esfahān;İsfehan;Esfahano;Iszfahán;Yspyhan;Isfahon;Gabai;Eşfehān;Espahān;Spahan
+Jamshedpur|IN||6t|1rc|6nf|ac2|Ĝamŝedpur;Dzsamsedpur;Cemşidpur;Džamšedpuras;Džamšedpura;Jamshidpur;Džamšedpur;Jarnshedpur
+Ghāziābād|IN||6t|27n|5z4|994|Gaziabade;Ghazibad
+Jiaxing|CN||7i|2df|9bf|93s|Ťia-sing;Dziasingas;Gia Hưng;Ka-heng-chhī;Gă-hĭng
+Jabalpur|IN||6t|1sd|663|8ch|Dżabalpur;Džabalpuras;Ĝabalpuro;Dzsabalpur
+Jacksonville|US|Florida|48|2c9|-6au|7si|Ĝaksonvilo;Iacsonvilla;Iacsoniapolis;Džeksonvila;Džeksonvilis;Ceksonvill
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Guwahati|IN||6t|20q|72v|7fb|Gauhati;Guvahati;Guvahatis
+Jalandhar|IN||6t|2f1|5ty|6pd|Ĝalanĝar;Dźalandhar;Dzsálandhár;Džalandharas;Džalandhara;Calandhar
+Anqing|CN||7i|2cr|915|67h|Anking;An Khánh;An-čching;Ančingas;Nganking;An-ch’ing;Ganking
+Zhangjiakou|CN||7i|35a|8v3|5ce|Ĝanjakou;Trương Gia Khẩu;Čang-ťia-kchou;Diŏng-gă-kāu;Chang-kia-k’ou
+Gothenburg|SE||9w|4gb|x9|4p1|Göteborg;Gotemburgo;Gothembourg;Gothoburgum;Gēteborga;Gotenburg;Gautaborg;Göteborq;Gotnburg;Geteborgas;Geŭteborgo;Goeteborg;Goteburg;Gottenborg
+Jamnagar|IN||6t|1qf|5en|4mx|Džamnagaras;Džāmnagara;Dzsámnagar;Ĝamnagar;Camnaqar;Džámnagar;Jamnogar
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Jammu|IN||6t|2iy|5ry|4g2|Džammú;Ĝamu;Džamu
+Hamilton|CA|Ontario|59|3c5|-65t|4e6|Gamilton
+Jiamusi|CN||7i|3m0|a1z|48n|Ťia-mu-s’;Gjamusi;Dziamusi;Giai Mộc Tư;Gă-mŭk-sṳ̆;Ka-bo̍k-su-chhī
+Gaya|IN||6t|1ww|6k4|3np
+Jalgaon|IN|Maharashtra|6t|1mc|5tx|3ju|Ĝalgaon
+San Nicolás de los Garza|MX||44|1zi|-7qm|36i|San Nicolás de los Garsas
+Gaza|PS||6f|2fi|2nr|35w|Gazze;Gàsa;Gaesa;Gaz;Xeze;Gaaza;Ghazze
+Gaomi|CN||7i|2t2|98n|30w|Kao-mi
+Gauriganj|IN||6t|20t|6ax|30g
+Al Qadarif|SD||r|12z|2qa|2t3|Al-Qadarif;Gedaref;Gadarif;Gadaref;El-Gadarif;Al-Kadarif;Al Kadarif;El Gedaref
+Hrodna|BY||9g|454|1u7|2t1|Grodno;Gardinas;Goradnia;Grodņa
+Kaesŏng|KP||7a|2xh|9rj|2ly|Kesongas;Kaisong;Gaeseong
+Ganja|AZ||61|350|3ks|2jv|Gäncä;Gandja;Ganĝa;Gyandzha;Gändzjä;Gandża;Gence;Gändž;Gendžė;Gandzhe;Gandzha;Gandzak
+Gatineau|CA||59|3ic|-5ua|2bc|Gatino
+Gandhinagar|IN|Gujarat|6t|1si|5lw|29c|Ghandinagar;Ghandhinagar
+Gaozhou|CN||7i|1ow|8jy|296
+Gagnoa|CI||0|h1|-gj|24y|Ganjoa;Gragnoa

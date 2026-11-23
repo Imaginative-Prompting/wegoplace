@@ -1,0 +1,705 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Kinshasa|CD||t|-c1|16j|3fgg|Kinsasa;Kinszasa;Quinxassa;Kinŝaso;Kinsjasa;Kinchasa;Kincasa;Kinxasa;Kinšas;Kinchassa
+Guiyang|CN||7i|21u|88g|yrp|Guijangas;Quý Dương;Kuej-jang;Gŭijango;Kùi-iông-chhī;Gói-iòng;Queiyanga;Guyyan;Gveiyangz;Guijang;Quyinq;Kuei-yang
+Quezon City|PH||71|14p|9c9|nsr|Quezon;Kezonurbo;Lungsod Quezon;Quezon-Stadt;Ciudad Quezon
+Quito|EC||33|-n|-624|lgo|Kito;Quitum;Kitas;Kitu;Quitu;Kuito
+Gujranwala|PK||6q|2hc|5q3|jdj|Qucranvala;Gudžranvala;Gudźranwala
+Queens|US||48|350|-5p4|hvk|Kvino
+Santiago de Querétaro|MX||41|1l7|-7qv|cau|Santjago de Keretaras;Santiago Tlachco;Santiagu di Querétaro;Queretarum;Querétaro City;Keretaro;Querétaro
+Guilin|CN||7i|1y8|8ie|c4r|Quế Lâm;Kui-lìm-sṳ;Gveilinz;Kuej-lin;Gujlin;Kuei-lin
+Quetta|PK||6q|2bu|564|c2v|Kweta;Kvéta;Kveto;Ketta;Kvetta
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Kyoto|JP||7q|2pa|ah3|bal|Kioto;Kjóto;Quioto;Kyotum;Kiotas;Kyotu;Kėjuots
+Qujing|CN||7i|1ys|80a|av9|Čchü-ťing;Khúc Tĩnh;Kuóh-cêng;Khiok-chēng-chhī
+Gwangju|KR|Gwangju|7h|2pn|9sk|at8|Kwangju;Kwangdžu;Kŭangĵuo;Gouanjou;Quansua;Kvandžu;Kvanju;Kvangdzsu;Kuangju
+Barranquilla|CO||27|uh|-5rq|9b3|Barankilija;Barranquilha;Barrankilya;Killa;Quilla;La Arenosa;Barankilijo
+Guigang|CN||7i|1s8|8gf|8dr|Gói-gē̤ng;Kuej-kang;Kui-kóng-sṳ;Quý Cảng;Gveigangj;Kùi-káng-chhī
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Quzhou|CN||7i|28g|967|6ys|Čchü-čou;Cù Châu;Kû-chiu-chhī;Gṳ̀-ciŭ
+Qom|IR||7o|2o8|3xc|6y0|Kom;Qûm;Kum;Ĥomo;Kumas;Gōymān
+Cochabamba|BO||3n|-1ca|-53s|6hp|Kuchawampa;Quchapampa;Kočabamba;Kočabamb
+Kikolo|AO||x|-oe|111|5ma|Quicolo
+Québec|CA||59|3m1|-5ht|43r|Kwébék Shehiri;Kvebeka;Kebeko;Kvebekas;Kebek;Tchubec;Kébéc Vile;Kebeku;Kvebek;Kwébék;Kévek táva;Kebekurbo
+Qui Nhon|VN||6h|12a|8fe|408|Quy Nhơn;Qui Nhan;Quinton
+Guangyuan|CN||7i|2i4|85y|3zg|Kuang-jüan;Quảng Nguyên;Guōng-nguòng;Kóng-goân-chhī;Kwangyüan;Kuan-yüan;Kuang-yüan
+Kima Kieza|AO||x|-oj|10y|3b5|Quima Quieza
+Cusco|PE||3o|-11l|-5jx|3b1|Cuzco;Ciudad del Cuzco;Kusko;Qusqu;Kuskas;Cuschum;Cuscu;Cosco
+Oakland|US|California|3p|2x0|-9fn|38h|Oklandas;Oklenda;Quercupolis
+Quận Mười|VN||6h|tx|88b|32u
+Kollam|IN||6t|oo|5wq|2tz|Quilon;Coulão;Kolamo
+Quelimane|MZ||11|-1do|2uh|2p6|Kelimanė
+Ḩadā’iq al Qubbah|EG||c|2bl|2ew|2mc
+Quận Mười Một|VN||6h|tw|888|2kd
+Phu Quoc|VN|An Giang|6h|se|80t|29s|Koh Trol
+Quảng Ngãi|VN||6h|160|8e7|25d|Kóng-ngi-sṳ;Kwang Ngai
+Quận Sáu|VN||6h|tv|889|23b
+Quilmes|AR||1l|-2og|-4ht|20w|Kilmesas
+Qo‘qon|UZ||7m|34l|5h2|205|Kokand;Kokandas;Qŭqon
+Hami|CN||7t|3az|77r|1wg|Kumul;Qumul;Komul;Kha-mi
+Quthbullapur|IN||6t|1cm|61y|1qq|Qutubullapur
+Quận Ba|VN||6h|tx|88d|1p8
+Quevedo|EC||33|-2v|-64q|1ne|Kevedas
+Quilicura|CL||4u|-2kp|-5gf|1mg
+Quận Bốn|VN||6h|tx|88f|1jd
+Quận Năm|VN||6h|tw|88b|1g3
+Quarto Oggiaro|IT||9o|3if|pe|1el
+Quetzaltenango|GT||32|158|-728|1e7|Kecaltenangas;Quetzaltenānco;Ketzaltenango;Quezaltenango;Quexaltenango
+Phú Quốc|VN|An Giang|6h|sl|80x|1dv
+Gulu|UG||q|7p|2hq|1da|Qulu
+Quillacollo|BO||3n|-1cb|-544|1bw|Kiljakoljas;Killaqullu;Kiljakoljo
+Ouargla|DZ||3|2gr|et|1b7|Warkala;Uargla;Varcla;Quargla
+Kunduz|AF||6o|2u1|5ba|18z|Kundus;Qunduz;Konduz;Kondôz;Qondūz
+Queimados|BR||4w|-1r4|-3d0|15f
+Saint-Quentin-en-Yvelines|FR||9k|3rh|5m|14q
+Al Qurnah|IQ||5z|2e6|3nr|11a|Qurnah;Al Qurna
+Quận Đức Thịnh|VN||6h|sn|85q|10o|Đức Thịnh Sa Đéc
+Quilpué|CL||4u|-2jt|-5ig|107
+Zugló|HU||8v|3o0|1h3|104|Quận XIV;Budapest XIV. kerület;Lerchenfeld
+Quibdó|CO||27|ft|-5wy|zw|Kibdo
+Bắc Quang|VN||6h|1qg|83b|wz|Ban Quong;Bac Kwang;Tân Quang;Bac Quong
+Queenstown|ZA||o|-2gm|22o|wy|EKomani
+Quezon|PH|Northern Mindanao|71|lh|9ni|vt
+Qūchān|IR||7o|2v3|4ij|v2|Qūčān
+Bokhtar|TJ||6d|2x4|5b2|us|Kurgan-Tyube;Qurghān Tyube
+Caen|FR||9k|3sn|-10|uq|Kāna;Kanas;Can;Caðum;Cadomum;Quaam;Kadunum;Cham;Chaem;Chaam;Catomum;Cathim;Caon;Canz;Cahem;Caem;Cadumum;Caam
+Tuyên Quang|VN||62|1om|849|t2|Tuyen Kang;Tuyen Kwang
+Queluz|PT||99|2zo|-pp|sq|Kelusas
+Qurayyat|SA||7e|2f1|2vq|sl|Gurayat
+Queenstown Estate|SG||7j|3l|80c|s7
+Qubo Saeed Khan|PK||6q|25f|583|rl
+Quvasoy|UZ||7m|33y|5jy|qx|Quwasoy
+Quincy|US|Massachusetts|48|39d|-5h8|q0|Kuinsi
+Guliston|UZ||7m|34i|5b2|p4|Goulistan;Gulistano;Gulistanas;Gülistan;Qulıstan
+Quissecula|AO||x|-vn|15x|p0
+Quixadá|BR||2w|-dt|-30e|oj
+Qorveh|IR||7o|2pp|3ot|og|Qurveh
+Gubkin|RU||9i|3yg|2wa|o6|Goubkine;Qubkin
+Qufu|CN||7i|2qw|90z|nn|Cjujfu;Čchü-fu;Csüfu;Khúc Phụ;Chü-fu
+Qūş|EG||c|200|2j0|ng|Qous
+Quixeramobim|BR||2w|-eg|-315|mu
+Qŭnghirot|UZ||7g|3bk|4jg|m9|Kungrad;Kungirot
+Kőbánya|HU||8v|3nw|1h6|ls|Budapesti X rajoon;Quận X;Budapest X. kerülete
+Quatre Bornes|MU||ag|-1ka|4fo|lh
+Gouda|NL||8m|40i|d3|k0|Gaudanum;Quda;Guda
+Koyilandy|IN||6t|vs|5u9|jz|Quilandy;Koyilāndi;Quilāndi
+Quillota|CL||4u|-2jc|-5hx|iu|Kiljota
+Quartu Sant'Elena|IT||9o|30z|pp|ii|Cuartu Santa Alèni;Quarto Sant'Elena
+Quwaysinā|EG||c|2cw|2ek|i9|Quweisna;Quesna;Kuweisna
+Ouezzane|MA||d|2oo|-fi|i3|Quazzane;Ouazzane
+Quimper|FR||9k|3pc|-be|hq|Kemper;Montagne-sur-Odet;Tchîmpèr;Coriosopitum;Kempēra
+Qurayyāt|OM||72|1sm|4jo|hj|Quraiyat;Qurayāt;Quryāt
+Erzsébetváros|HU||8v|3ny|1gz|h8|Quận VII;Elisabethstadt;VII. Budapester Bezirk;Budapest VII. kerület
+Ferencváros|HU||8v|3nw|1h1|gf|Quận IX;Budapest IX. kerület
+Colcapirhua|BO||3n|-1cb|-540|en|Kolkapirua;Qullqapirwa;Colcapirua
+Queens Village|US||48|355|-5ou|ef
+Quíbor|VE||2c|rl|-5de|ea
+Qulsary|KZ||5y|3mf|462|e8|Kul'sary
+Quimistán|HN||56|16n|-6tl|dc|Ouimistan
+Queimadas|BR|Paraíba|2w|-kg|-2rq|d9|Queimada
+Ouenza|DZ||3|2rv|ml|d5|Quenza
+Quva|UZ||7m|34k|5k7|cw|Kuva;Quwa
+Quinte West|CA||59|3ej|-5zh|c4
+Qushi|CN||7i|1y2|7lw|bs
+Quxu|CN||7i|29k|701|bn
+Al Quşayr|SY||69|2nv|2tm|bf|Quşayr
+Quincy|US|Illinois|2f|32y|-71x|bc
+Quarto|IT|Campania|9o|35k|13a|ah
+Chieri|IT||9o|3h1|lq|a7|Cher;Carrea Potentia;Quiers
+Quán Hàu|VN||62|1cc|888|a2
+Al Qunayţirah|SY||69|2k1|2ri|a1|Quneitra;Kunejtra;Kuneitra;Kuneytire;Qinêtra;Qouneitra;Cuneitre;Qnaïtra;El Quneitra;El Kuneitra;Qunayţirah
+Quimbaya|CO||27|cu|-5ug|9u
+Queen Creek|US||4i|2kd|-8m3|9m
+Quinchía|CO||27|eu|-5ud|9h
+Quthing|LS||12|-2cg|24y|9f
+Gudermes|RU||9i|3cf|3k2|94|Goudermes;Goedermes;Belaya;Belka;Gums;Gümse;Gümsex;Qudermes
+Quiapo|PH||71|14k|9c2|8y|Kiyabo
+Quitilipi|AR||1n|-22n|-4na|8x
+Quţūr|EG||c|2e1|2e0|8w|Qotur
+Al Qaryatayn|SY||69|2n3|2vg|8t|Quayatein;Qaryatayn;Kuryatein
+Gumdag|TM||5x|30w|47n|8l|Qumdogʻ shahri;Qumdağ;Kum-Dag
+Quedas do Iguaçu|BR||4w|-1yp|-42y|8j
+Quelele|GW||8|wz|-17f|81
+Quezaltepeque|SV||2u|12f|-6vz|81|Quezaltepque
+Gusev|RU||96|47n|1po|7z|Gumbinnen;Gussew;Gusiew;Goussev;Gussev;Gumbinė;Goesev;Qusev;Gusew;Gumbinen
+Queensbury|US||48|3ci|-5oh|7p
+Quijingue|BR||20|-tv|-30x|7o
+Quesada|CR||2i|sp|-6ij|7l|Kesada
+Quibala|AO||x|-tt|15m|7j
+Quakers Hill|AU||8l|-2lp|bn4|7h
+Quảng Phú|VN||6h|zm|8c8|7f
+Gubakha|RU||7z|4jg|4fv|7e|Gubacha;Gubaja;Goubakha;Goebacha;Qubaxa;Gubaĥa;Gubah
+Quinze-Vingts|FR||9k|3rp|6l|7b
+Qo‘rg‘ontepa|UZ||7m|355|5m4|77|Qŭrghontepa
+Quinta Do Conde|PT||99|2z5|-p4|74
+Quart de Poblet|ES||9d|31o|-18|73|Cuart de Poblet
+Quintana|ES||9d|34c|-a5|73
+Queimadas|BR|Bahia|20|-ui|-323|72
+Querecotillo|PE||3o|-dg|-681|72
+Quillabamba|PE||3o|-zq|-5lx|71
+Quang Minh|VN||6h|1mv|85t|6y
+Al Quşayr|EG||c|20j|2n8|6v|El Quseir;El Qoseir;Quseir;Al-Quṣayr
+Barri Gòtic|ES||9d|36y|62|6t|Gòtic;Barrio Gótico;Gótico;Gothic Quarter;gothische Viertel;Barrio Gótico de Barcelona;Quartier gothique;El Gòtic
+Quarteira|PT||99|2uz|-mi|6s
+Qifţ|EG||c|208|2j6|6o|Quft
+Chios|GR||8p|2yl|20m|6o|Scio;Sakız;Chóra;Quíos;el Xiu;Khíos;Kástro;Hios;Chio;Xíos;Khóra;Kastron;Castro
+Quatro Barras|BR||4w|-1yh|-3sc|6n
+Qualiano|IT||9o|35o|13b|6m
+thị xã Quảng Trị|VN||6h|1aj|89q|6i|Quảng Trị
+Quedlinburg|DE||8r|3zv|uz|6f|Queddelnborg;Quedlinbourg;Kvedlinburgas;Quedlimburgo
+Quissamã|BR||4w|-1pf|-377|6f|Quiçamã
+Quipungo|AO||x|-156|14e|6e
+Quattromiglia|IT||9o|31a|194|6d
+Quaraí|BR||4w|-2cf|-4ct|6a|Kuarajus
+Quba|AZ||61|36w|3qr|68|Kuba;Kuwa
+Quirinópolis|BR||4w|-1f9|-3w5|67
+Quixeré|BR||2w|-e3|-2xj|67
+Quintero|CL||4u|-2j3|-5ip|66
+Quellón|CL||4u|-3bs|-5oi|62
+Guayama|PR||4m|1dy|-53n|60|Quayama
+Querenburg|DE||8r|3yx|k7|5x
+Quickborn|DE||8r|459|rj|5o
+Quiterianópolis|BR||2w|-g8|-352|5m
+Queensdale|ZA||o|-2gj|22y|5k
+Carouge|CH||a7|3ka|h2|5d|Carroge;Quadruvium;Karužas
+Quispamsis|CA||43|3i6|-537|58
+Guadix|ES||9d|2vm|-8q|57|Acci;Quadix
+Quaregnon|BE||8t|3w4|ar|55|Couargnon;Cargnon
+Quezon|PH|Central Luzon|71|177|9bl|55
+Quitandinha|BR||4w|-1zv|-3ti|54
+Quankou|CN||7i|2vr|7um|53
+Querência|BR||2k|-z0|-410|4z
+Qo’shko’pir|UZ||7g|37d|4nn|4y|Qŭshkŭpir
+Quipapá|BR||4p|-oj|-2s1|4x
+Quisqueya|DO||4v|1fk|-5ct|4x
+Quillón|CL||4u|-2u3|-5lb|4v
+Quelfes|PT||99|2uy|-lq|4t
+Al Quţayfah|SY||69|2lq|2to|4h|Quţayfah
+Qusar|AZ||61|373|3qj|4g|Kusar;Kusary
+Quartiere Otto|IT||9o|3id|pe|4g|QT8;Quartiere Triennale 8
+Quixelô|BR||2w|-hd|-30w|4f
+Queenstown|GB||9b|3z0|-f|4c
+Quadrilatero|IT||9o|3h8|lb|46
+Quỳnh Lôi|VN||62|1ma|863|46|Quinh Loi
+Quepem|IN||6t|169|5ps|44
+Quiroga|MX||41|1im|-7u0|43
+Quierschied|DE||8r|3t0|jl|41
+Quixico|AO||x|-m7|142|41
+Quartier du Port|FR||9k|3de|k9|41
+Qukou|CN||7i|2ei|8dc|40
+Quatis|BR||4w|-1q9|-3ey|3y
+Cobh|IE||8z|401|-n1|3x|Queenstown;Kovas
+Quartieri Spagnoli|IT||9o|35g|13l|3w|Quartieri Spagnuoli
+Quicunzo|AO||x|-mq|145|3u|Quicunza
+Quilenda|AO||x|-vv|139|3t
+Quatipuru|BR||23|-2i|-3ml|3t
+Quilalí|NI||3s|11p|-6mz|3s
+Quatá|BR||4w|-1pt|-3wu|3o
+Quimoh|IN||6t|2lo|5sl|3n
+Kulan|KZ||5s|3b7|5m0|3n|Qulan
+Quivicán|CU||36|1re|-6cs|3l
+Queen's Park|GB||9b|3z5|-l|3k
+Quemado de Güines|CU||36|1rb|-66x|3j
+Quintanar de la Orden|ES||9d|31z|-8g|3j|Quintanar la Orden
+Quchi|CN||7i|2e8|8gv|3j
+Quakenbrück|DE||8r|42b|m3|3j|Quokenbrügge
+Quzhang|CN||7i|1op|8gd|3g
+Quimperlé|FR||9k|3oz|-9v|3f|Kemperle;Quimperlium
+Querência do Norte|BR||4w|-1s4|-44k|3e
+El Quetzal|GT||32|151|-732|3d|Quetzal
+Quissico|MZ||11|-1wo|2oi|3d
+Queenswood Heights|CA||59|3ib|-5tr|3c
+Qabala|AZ||61|35u|3ox|3b|Gabala;Kabala;Qutqaşen;Qutqashen
+Kuryk|KZ||5v|3by|3zk|3a|Quryq
+Quezon|PH|Western Visayas|71|t0|9ie|39
+Ciudad Quesada|ES||9d|2xq|-20|38|Quesada
+Qugaona|CN||7i|2kv|82n|38
+Quartucciu|IT||9o|311|pi|35|Quartuccio
+Quebrangulo|BR||3r|-pw|-2tb|34
+Quarry Bay|HK||6i|1px|8t9|34
+Kurman|UA||9t|3ie|2na|33|Krasnohvardiyske;Qurman;Krasnohvardiiske
+Quilombo|BR||4w|-229|-42g|32
+Queensborough|CA||5b|3sm|-9hh|32
+Quisao|PH||71|143|9d1|32
+Quimilí|AR||1n|-24t|-4te|32
+Qunli|CN||7i|2c6|860|32
+Quartz Hill|US||3p|2o9|-94e|31
+Quicabo|AO||x|-n3|12f|31
+Qulukay|CN||7t|3e4|6au|2w|Chuluqay
+Queenstown|NZ||ak|-3h3|d0i|2w
+Quetigny|FR||9k|3ng|e8|2w
+St James's|GB||9b|3z3|-e|2w|St. James’s;Sankta Jakobo;Quận St. James;Sent-Ceyms
+Qushui|CN||7i|2d8|8c2|2w
+Quecholac|MX||41|1gn|-7ja|2u
+Ouanaminthe|HT||4j|1ib|-5j8|2t|Wanament;Quanamenthe
+Chipindo|AO||x|-12d|17v|2s|Quipindo
+Quesnel|CA||5b|436|-9g9|2r
+Quarrata|IT||9o|3dt|ui|2q
+Quezon|PH|Cagayan Valley|71|1c3|9dt|2n
+Quixabeira|BR||20|-vp|-33h|2n
+Quéven|FR||9k|3or|-9i|2l|Kewenn
+Qualicum Beach|CA||5b|3t3|-9lo|2l
+Quiruvilca|PE||3o|-m5|-618|2k|Ouiruvilca
+Queluz|BR||4w|-1qm|-3gd|2k
+Quinta do Anjo|PT||99|2z5|-ou|2j|Quinta da Anjo
+Queréndaro|MX||41|1j1|-7s9|2j
+Querfurt|DE||8r|3yq|w8|2i
+Qala i Naw|AF||6o|2p7|4vd|2i|Kala-i Naw;Qal'ai Now;Qala-i Naw;Kalayi-Nau;Qal’eh Now;Qula-i-nau;Kalai-Naw;Qala-e-Nau;Kala Nao;Qalaenaw;Qal‘a-i-Naw;Qala Naw;Qala Nau;Qala-i-Nau;Qala-i-Naw
+Queensferry|GB||9b|4bj|-9g|2i|Cas Chaolas;Cas Chaolais
+Queensbury|GB||9b|45d|-55|2h
+Quakertown|US||48|34c|-5ta|2h
+Queijas|PT||99|2zk|-pq|2g
+Gudauta|GE||7n|3bq|34u|2g|Gudaut'a;Goudaouta;Gudaoeta;Qudauta;Guaduta;Gudauti;Gudauty
+Queimada Nova|BR||2w|-nu|-372|2f
+Quesería|MX||41|1hv|-7zp|2e
+Qaffīn|PS||6g|2i3|2pg|2d|Quffīn
+Oualidia|MA||d|2ix|-p3|2d|Qualidia;Oualidiya
+Quinns Rocks|AU||8k|-2fz|8xe|2c
+Maloye Ganyushkino|KZ||5y|3lg|3sv|2c|Qūrmanğazy
+Quibaxe|AO||x|-nm|14j|2b|Quibaxi
+Quatiguá|BR||4w|-1th|-3un|29|Quantigua
+Qusmuryn|KZ||7c|41p|4zi|28|Kushmurun;Kushmura
+Quinta do Gato|PT||99|34v|-ny|28
+Quirihue|CL||4u|-2ss|-5li|28
+Chêne-Bourg|CH||a7|3kc|h7|28|Quercus;Šen Buras
+Quezon|PH|Mimaropa|71|po|93v|27
+Quincy|US|Florida|48|2cz|-6iy|26
+Quepos|CR||2i|q7|-6hs|26
+Quincy-sous-Sénart|FR||9k|3r7|71|26
+Quévy-le-Petit|BE||8t|3vx|ay|25
+Quail Hill|US||3p|2lh|-936|25
+Outabgarh|IN||6t|280|5xs|24|Qutab Garh
+Quinta de Tilcoco|CL||4u|-2ng|-5h5|24
+Quintanar del Rey|ES||9d|319|-5d|23
+Qoţbābād|IR||7o|27k|450|23|Kowtbābād;Qutbābād
+Queen Mary Park|CA||2s|44r|-8rc|22
+Quincy|US|Washington|3p|3n7|-98x|22
+Quinpool District|CA||35|3g0|-4wo|20
+Quilo-quilo|PH||71|12i|9cq|1z
+Quebo|GW||8|vh|-15h|1z
+Quintana|BR||4w|-1pb|-3vr|1y
+Qubadlı|AZ||61|31a|3le|1x|Ghubat’ly;Sanasar;Kubadlı;Kubatli;Qubadly;Kubatly;Kubatlu;Koubatly
+Queula|IN||6t|16r|5pj|1x|Quela
+Quezon|PH|Calabarzon|71|12x|9fe|1w
+Quinto di Treviso|IT||9o|3is|xt|1w|Quinto di Trevisio
+Quinhámel|GW||8|x1|-182|1u
+Quiévrain|BE||8t|3w1|a8|1u
+Quixabá|BR|Pernambuco|4p|-lg|-2x5|1u
+Queens Park|AU|Western Australia|8k|-2gw|8y3|1t
+Quesnoy-sur-Deûle|FR||9k|3wv|8c|1t|Kénoé-su-Deule;Kiezenet
+Quilmaná|PE||3o|-zz|-5w6|1s|Quillmana
+Quartier Militaire|MU||ag|-1k9|4g0|1s|Kvartier Militaire
+Questembert|FR||9k|3oe|-6t|1s|Kistreberzh
+Grabs|CH||a7|3n2|q8|1s|Quaravedes
+Queanbeyan|AU||8l|-2q7|bij|1r|Kvenbejanas;Kvīnbejana;Quenbeyan
+Quiévrechain|FR||9k|3vz|a7|1q
+Quang Lộc|VN||62|1f4|85t|1p
+Queen Village|US||48|32x|-5sr|1p
+Quinzano d'Oglio|IT||9o|3hv|rt|1p
+Quadrivio|IT||9o|34u|15y|1p
+Copacabana|BO||3n|-18x|-5bw|1o|Qupakawana;Kopakabana;Qupaqhawana;Capacabana
+Gustavia|BL||4z|1dq|-4ul|1o|Qustaviya;Gustavio;Gustavija;Guthavia
+Quesada|ES||9d|2x4|-8j|1o
+Qumbu|ZA||o|-2ek|287|1n
+Quarto d'Altino|IT||9o|3im|yd|1n
+Quinto Barrio (Ejido Cahuacán)|MX||41|1ii|-7o6|1m
+Quilá|MX||3x|1vu|-89u|1m|Quilla
+Quatre Cocos|MU||ag|-1k4|4gh|1l
+Quechultenango|MX||41|1cd|-7no|1l
+Quinta del Cedro|MX||58|2i4|-917|1l
+Quilchena|CA||5b|3ss|-9i3|1l
+Querqueville|FR||9k|3ty|-4p|1l
+Qihama|CN||7i|2kq|7vb|1l|Qukama
+Quiage|AO||x|-nn|15j|1k|Quiege
+Quebradillas|PR||4m|1fb|-55y|1k
+Ouadda|CF||6|mg|1q8|1i|Uadda;Quadda
+Quiberon|FR||9k|3nw|-8o|1i|Kiberen
+Quintana de la Serena|ES||9d|2zn|-fr|1g
+Qūlonjī|IR||7o|2xd|3gz|1g
+Quintín Arauz|MX||3z|1f1|-76x|1g|Quintín Arau
+Quinta de Santo António|PT||99|2zd|-po|1g
+Quiindy|PY||1y|-206|-4ez|1f
+Quán Hành|VN||62|1g6|85h|1f
+Qumaym|JO||5t|2ih|2r9|1f
+Quezon|PH|Cagayan Valley|71|19u|9cv|1f
+Quorndon|GB||9b|42i|-39|1f
+Quincy-Voisins|FR||9k|3ru|80|1e
+Quinta do Sol|BR||4w|-1u9|-40t|1e|Quinta do Sul
+Queen Alexandra|CA||2s|44n|-8rb|1b
+Queensland|CA||2s|3xi|-8sq|1a
+Quilino|AR||1n|-2bx|-4z6|19
+Quảng Nhâm|VN||6h|193|89q|19
+Quatro Pontes|BR||4w|-1w9|-45y|19
+Quwa|CN||7i|2m8|80v|18
+Ouango|CF||6|bz|1qo|18|Uango;Quango
+Quşrah|PS||6g|2h5|2q5|17|Kusrah;Quṣra
+Quarto Centenário|BR||4w|-1vg|-43g|16
+Quezaltepeque|GT||32|14o|-6wg|15|Quetzaltepeque
+Quiroga|ES||9d|3a0|-k7|15
+Quemú Quemú|AR||1s|-2s5|-4wl|15
+Queanbeyan East|AU||8l|-2q7|bil|14
+Kiganjo|KE||16|-14|2us|14|Quiganjo
+Querum -  Wabenkamp|DE||8r|419|td|14
+Quirijnstok|NL||8m|3za|e6|14
+Campamento Colquiri|BO||3n|-1cb|-56h|13|Colquiri;Qullqiri
+Quinze de Novembro|BR||4w|-27v|-43h|13
+Quillan|FR||9k|3b4|62|13|Quilhan
+Quitman|US|Georgia|48|2di|-6g4|13
+Quilaco|CL||4u|-2wo|-5k0|13
+Quistello|IT||9o|3h1|ui|11
+Quart d'Onyar|ES||9d|38i|7w|10
+Quartzsite|US||4i|2li|-8tb|10|Quartsite;Quarzite;Quartzite
+Quipot|PH|Calabarzon|71|12s|9d0|10
+Quessoy|FR||9k|3qi|-7e|10|Kesoue
+Quípama|CO||27|fc|-5q2|10
+Quiling|PH||71|1e7|9au|10
+Quarona|IT||9o|3j4|mz|10
+Queenborough|GB||9b|3yu|22|z
+Quatre Soeurs|MU||ag|-1ke|4gh|z
+Quinipot|PH||71|jy|9fi|z|Quiniput;Quinput
+Qalansīyah|YE||5r|z9|44l|z|Qalansiyyah;Qalansiya;Qalansyah;Qulansiyah
+Queromarca|PE||3o|-13e|-5ia|z
+Quinapundan|PH||71|v0|9oo|z|Quinapondan
+Isle of Islay|GB||9b|4az|-hc|z|Islay;Ìle;Queen of the Hebrides
+Quimichis|MX||3x|1q4|-856|y
+Quadra|BR||4w|-1sq|-3ph|y
+Quruqsoy|TJ||6d|34q|5cq|y|Obshoron
+Quartier d’Orléans|MF||3u|1e7|-4v4|y
+Quarouble|FR||9k|3vz|a2|y
+Quirindi|AU||8l|-2fj|bmk|y
+Quevaucamps|BE||8t|3wc|a8|x
+Quévert|FR||9k|3qm|-5t|x|Kever
+Charolles|FR||9k|3kz|bw|x|Quadrigellae
+Queenscliff|AU|New South Wales|8l|-2lu|bo8|x
+Queiroz|BR||4w|-1ok|-3vk|x
+Künzing|DE||8r|3r7|10c|x|Quintanis
+Quenast|BE||8t|3wr|bk|w
+Guzanli|AZ||61|33k|3n1|w|Quzanlı
+Quartel Geral|BR||4w|-1hj|-3ik|w
+Quilahuani|PE||3o|-1c4|-5f6|w
+Quintong|PH||71|18c|9a8|w
+Queanbeyan West|AU||8l|-2q7|big|v
+Quart|IT||9o|3j2|km|v
+Queen Victoria|MU||ag|-1k6|4gb|u
+Queens Park|AU|New South Wales|8l|-2m6|bo5|u
+Quetchehueca|MX||37|23q|-8hf|u|Quechehueca
+Quintin|FR||9k|3qg|-83|u|Kintin
+Quipot|PH|Western Visayas|71|vc|9ho|t
+Guiling|PH||71|180|9b2|t|Quiling
+Qu’ao|CN||7i|2qb|7xw|t
+Quebracho|UY||45|-2gq|-4gu|t
+Queidersbach|DE||8r|3t5|l7|s
+Quincieux|FR||9k|3jj|da|s
+Quiliano|IT||9o|3f1|nd|s|Cuggiœn
+Quattro Castella|IT||9o|3fz|t3|s
+Queen Elizabeth|CA||4q|40q|-88a|s
+Queens Park|CA||5b|3sq|-9hf|s
+Quincampoix|FR||9k|3tl|3b|s
+Quipot|PH|Calabarzon|71|12a|9d8|s
+Quarryville|US||48|32u|-5vk|r
+Quebrada de Arena|HN||56|17t|-6mo|r|Quebrada Arena
+Quarten|CH||a7|3mv|po|r|Quartus
+Kinatakutan|PH||71|12s|9g7|r|Quinatacutan
+Quinceo|MX||41|1if|-7vc|r
+Queenwood|NZ||ak|-2wv|div|q
+Quinabigan|PH||71|103|9dg|q
+Queen's Terrace|HK||6i|1px|8t3|q
+Quinarayan|PH||71|1cg|9an|q
+Quatretonda|ES||9d|307|-14|p|Cuatretonda
+Quevedos|BR||4w|-29j|-467|p
+Quissac|FR||9k|3dz|b4|p|Ouissac
+Queue-du-Bois|BE||8t|3wo|fs|p
+Quanah|US||2f|2na|-7p2|o
+Quime|BO||3n|-1b6|-56q|o|Q'imi llaqta
+Kinalaglagan|PH||71|12w|9ce|o|Quinalaglagan;Kinalaglagon
+Quibal|PH||71|1d8|9ed|o
+Qūrūjān|IR||7o|2v9|3k5|o|Qūrījān;Qurucan
+Coroico|BO||3n|-18z|-585|o|Koroikas;Quruyqu
+Queniborough|GB||9b|42f|-2x|n
+Quebrantadero|MX||41|1fg|-7mf|n|San José
+Quarry Hill|AU||8j|-2u6|b4s|n
+Quartier Latin|NC||b8|-1pw|cud|n|Latin Quarter
+Quatrième Kilomètre|NC||b8|-1pt|cue|n
+Querumer Forst|DE||8r|41a|tc|n
+Quesada|GT||32|13n|-6y4|n|Quezada
+Quebrada Seca|HN||56|17i|-6sb|m
+Quebrada Bonita Adentro|PA||4g|pu|-65f|m
+Quitman|US|Mississippi|2f|2h0|-6uh|m
+Querétaro|MX||41|180|-75o|m
+Quezon|PH|Bicol Region|71|z0|9kb|m
+Quinagaringan|PH||71|uw|9gj|m|Kinagaringan
+Kinalansan|PH||71|122|9j7|l|Quinalansan;Guinalansan
+Quijorna|ES||9d|34b|-ba|l
+Kuchak|AM||80|34k|3fb|l|K’uch’ak;Quchak;Krchak
+Quitang|PH||71|11n|9ht|l
+Quilleco|CL||4u|-2w3|-5jy|k
+Quinto|ES||9d|372|-1e|k
+Quel|ES||9d|39b|-5p|k
+Quarto Inferiore|IT|Piedmont|9o|3gr|n1|k
+Quimiac|FR||9k|3np|-6w|k
+Querobabi|MX||37|2bh|-8kf|k|Querobal
+Quinto Vicentino|IT||9o|3im|wb|k
+Quezalguaque|NI||3s|yr|-6pe|k|Quesalguaque
+Quartier de Mont-Boron|FR||9k|3dd|ka|j
+Queenland|US||48|2zt|-5xb|j
+Quinsac|FR||9k|3gc|-1d|j
+Quattro Strade|IT|Lombardy|9o|3iy|q2|j
+Santiago de Cotagaita|BO||3n|-1lu|-52e|j|Qutaqayta;Cotagaita
+Quipile|CO||27|d7|-5r1|j
+Quadrelle|IT||9o|35r|14o|j
+Quem-Quem|BR||4w|-18g|-3cx|j
+Queenstown|AU|South Australia|8b|-2ou|aor|j
+Quintanar de la Sierra|ES||9d|38m|-8g|i
+Quitman|US|Texas|2f|2j4|-7d5|i
+Quelaines-Saint-Gault|FR||9k|3p5|-28|i
+Quero|IT||9o|3jk|x5|i
+Queenstown|AU|Tasmania|8g|-38w|b8c|i
+Quarnbek|DE||8r|46x|rr|i
+Quechulac|MX||41|1ht|-7if|i|Quecholac
+Queluzito|BR||4w|-1lm|-3dw|i
+Quiévy|FR||9k|3vd|9j|i
+Questa|US||2p|2ty|-85c|i
+San Lucas Quiaviní|MX||41|1ay|-7fz|h|Quiavini;Quiaxini
+Quixaba|BR|Paraíba|2w|-jj|-2v7|h
+El Quelite|MX||3x|1tg|-87r|h|Quelite
+Quindici|IT||9o|35i|14p|h
+Colchane|CL||4u|-1hk|-5ao|h|Qullchani
+Quincy|US|California|3p|32y|-9bz|h|Quinsy
+Colquechaca|BO||3n|-1fy|-53c|h|Qullqichaka
+Quitzdorf|DE||8r|3yg|151|h|Kwětanecy
+Joaquín Miguel Gutiérrez|MX|Chiapas|41|17x|-73f|h|Quespala
+Qūşīn|PS||6g|2hk|2pq|h|Qūṣein
+Querrien|FR||9k|3p8|-9u|h|Kerien
+Macho de Agua|MX||41|1i0|-7qg|h|Quinta Manzana de Crescencio Morales
+Quarto Inferiore|IT|Emilia-Romagna|9o|3fp|vq|h
+Vesele|UA|Crimea|9t|3gm|2ow|h|Koutlak;Veseloe;Qutlaq;Vesëloye;Kutlak
+Quetzalapa|MX|Guerrero|41|1an|-7lm|g
+Quincy|US|Michigan|2q|38i|-6js|g
+Quail Creek|US||2f|27y|-7ho|g
+Quaderni|IT||9o|3hx|tz|g
+Quintero|MX||44|1qy|-7n4|g
+Quidi Vidi|CA||50|3o6|-42c|g
+Quiamoloapan|MX||41|1e6|-7bw|g|Zelandia;Quiamolopan;Quiamolapan
+Quatro Irmãos|BR||4w|-25b|-41l|g
+Quitupan|MX||41|1jd|-7xr|g
+Quail Valley|US||3p|2ln|-91p|f
+Querendas|MX||41|1ey|-7rj|f
+Quismondo|ES||9d|33f|-c0|f
+Queis|DE||8r|3z0|xp|f
+Quettehou|FR||9k|3tr|-3m|f|Tchettehou
+Quinton Heights|CA||43|3hp|-53o|f
+Quarante|FR||9k|3cf|88|f
+Qūdejān|IR||7o|2kg|3vs|f|Qud Jān
+Qūrūq|IR|West Azerbaijan|7o|2yu|3gt|f|Qorūq
+Queen City|US|Texas|2f|2k3|-79j|f
+Santiago Quiavicuzas|MX||41|1au|-7dw|f|Quiavicusas
+Queen's|CA||59|3ev|-5wi|f|University District
+Quinlan|US||2f|2jf|-7f2|e
+Quebradas|HN||56|14a|-6qn|e
+Quartell|ES||9d|32e|-q|e|Cuartell
+Quartiano|IT||9o|3i0|q6|e
+Quetame|CO||27|c1|-5p6|e|Quetarre
+Qūrchī Bāshī|IR||7o|2lk|3uk|e
+Quern|DE||8r|484|r0|d|Kværn
+Quintenas|FR||9k|3hj|d1|d
+Quattro Strade|IT|Tuscany|9o|3df|tm|d
+Quistinic|FR||9k|3p2|-8p|d|Kistinid
+El Quiteño|PA||4g|nj|-6cv|d|Quinteño;Quiteno
+Quindalup|AU||8k|-2lg|8vv|d
+Quartier Morin|HT||4j|1iq|-5kg|d|Katye Moren;Qartier-Morin
+Quarata|IT||9o|3cu|wv|d
+Queen Anne|US||48|302|-5x0|d
+Queenton|AU||8c|-1jr|bac|d
+Quaregna|IT||9o|3im|mo|d
+Quirós|AR||1m|-27z|-50v|d
+Quettreville-sur-Sienne|FR||9k|3s1|-43|d
+Quintana Roo|MX|Chiapas|41|1a5|-77w|c
+Quero|ES||9d|31r|-91|c
+Queenscliff|AU|Victoria|8j|-2yb|b5u|c
+Quend|FR||9k|3vs|4k|c|Tchin
+Quattro Strade|IT|Tuscany|9o|3di|us|c
+Quebrada Larga|HN||56|136|-6nx|c
+Quincié-en-Beaujolais|FR||9k|3k4|cu|c
+Oua|CI||0|kp|-mp|c|Qua
+Queimada Guincho|CV||84|15s|-1vl|c
+Quinnesec|US||3y|3j9|-6sf|c
+Quorn|AU||8b|-2hv|ang|c
+Quattordio|IT||9o|3gq|nc|c|Quatòrdi
+Questelles|VC||54|10m|-4q5|c
+Quéménéven|FR||9k|3pn|-bg|c|Kemeneven
+Sonyachnohirske|UA||9t|3gb|2ny|c|Soniachnohirske;Quru Özen
+Quintanilla de Onésimo|ES||9d|37m|-c4|b
+Québriac|FR||9k|3qb|-53|b|Kevrieg
+Quinebaug|US||48|38q|-5jv|b
+Quebrada|PR||4m|1f0|-55n|b
+Quaëdypre|FR||9k|3xi|6t|b
+Quezailica|HN||56|15c|-6uh|b|Quesailica;Quezailaca
+Quamila|MX||41|1k1|-7k0|b|Cuamila
+Quingey|FR||9k|3mu|gc|b
+Quincey|FR||9k|3o9|h7|b
+Quetzalapa|MX|México|41|1gm|-7oo|b
+Quemper-Guézennec|FR||9k|3ra|-8n|b|Kemper-Gwezhenneg;Quemper-Guézennac
+Quédillac|FR||9k|3q1|-5y|b|Kedilieg
+Quiriego|MX||37|24g|-8fh|b
+Quarantoli|IT||9o|3gs|uu|b
+Quillebeuf-sur-Seine|FR||9k|3tf|1h|b
+Quartesana|IT||9o|3gg|wm|b
+Quinicuena|MX||41|19x|-7iw|b|Quincuaná
+Quargnento|IT||9o|3gv|nl|a|Quargnent
+Quail Ridge|US||48|26r|-6dc|a
+Quercianella|IT||9o|3cq|st|a
+Quiers-sur-Bézonde|FR||9k|3pc|6s|a
+Quinssaines|FR||9k|3kp|6z|a|Quins-Sames;Quinssaimes
+Quelové|MX||41|18e|-7gk|a|Guelové
+Quarryville|CA||43|3m3|-52q|a
+Quevauvillers|FR||9k|3ue|5s|a
+Quincinetto|IT||9o|3ik|lp|a|Quinsné
+Quellendorf|DE||8r|3zr|xp|a
+Quéntar|ES||9d|2vb|-9n|a
+Quintana del Castillo|ES||9d|3ai|-gt|a
+Queen Square|CA||43|3jo|-554|a
+Quinton|US|Oklahoma|2f|2pk|-7cx|a
+Quer|ES||9d|34t|-94|a
+Quilly|FR||9k|3nu|-5f|a|Killig
+Quandeba|ER||4|173|300|a
+Quart de les Valls|ES||9d|32d|-r|a|Cuart de les Valls
+Quogue|US||48|35e|-5lp|a
+Quintal|FR||9k|3jc|gw|a
+Quartiere Repubblica|IT||9o|3ib|os|a
+Quadring|GB||9b|42w|-i|a
+Quinter|US||2f|30j|-7qf|9
+Quiringüicharo|MX||41|19m|-6zz|9|Chiringuicharo
+Quévreville-la-Poterie|FR||9k|3t4|3b|9|Quévreville-le Poterie
+Quinby|US||48|2n4|-65h|9
+Quintana Roo|MX|Yucatán|3z|1lz|-6u7|9
+Quin|IE||8z|42q|-on|9|Cuinche
+Kechut|AM||80|32k|3iv|9|Kech’ut;Quşçu;Keçud
+Quarndon|GB||9b|434|-46|9
+Quingentole|IT||9o|3h4|up|9
+Quiruelas de Vidriales|ES||9d|38q|-g7|9
+Quequeña|PE||3o|-1a0|-5ih|9
+Quainton|GB||9b|403|-2k|9
+Quarto|IT|Emilia-Romagna|9o|3h0|qu|9
+Quapaw|US||2f|2un|-7bb|9
+Quintano|IT||9o|3i6|qq|9
+Quartiere Sarmazzano|IT||9o|3i1|py|9
+Querocotillo|PE||3o|-hf|-63k|9|Querecotillo
+Quija|MX||41|197|-73z|9|Cuija
+Quebrada de Yoro|HN||56|16v|-6ru|9
+Quenstedt|DE||8r|3zm|vu|9
+Querévalo|PA||4g|n9|-6d8|9|Querebalo
+Qudula|AZ||61|36b|3mo|9|Goudoula;Kudula
+El Quelital|MX||41|1qn|-7qb|9|Quelital
+Queropalca|PE||3o|-sa|-5xc|9
+Kishuara|PE||3o|-121|-5n4|9|Quishuara
+Quishuar|PE||3o|-y0|-5rq|9
+Quetzalapa|MX|Guerrero|41|1ex|-7nj|8|Quelzalapa
+Quinzanello|IT||9o|3i6|s2|8
+Quadri|IT||9o|38g|13p|8
+Quérénaing|FR||9k|3vp|9r|8
+La Quinua|PE||3o|-ti|-5vm|8|Quinua
+Santa María Quiegolani|MX||41|198|-7et|8|Quiegolani;Santa Marí Quiegolani
+Quibou|FR||9k|3sb|-3c|8
+Quattropani|IT||9o|2yy|15g|8
+Quiogue|US||48|35e|-5lr|8|Quioque
+Quetzal Edzná|MX||3z|1i2|-6ya|8
+Quintela de Leirado|ES||9d|392|-mi|8
+Quesera de Cortés|MX||41|1ko|-7ve|8
+Quinches|PE||3o|-y7|-5vi|8
+Quaix-en-Chartreuse|FR||9k|3hp|fw|8
+Queige|FR||9k|3j0|hy|8
+Quiéry-la-Motte|FR||9k|3vx|8a|8
+Quincy|FR||9k|3mx|60|8
+Queen Valley|US||4i|2ki|-8l5|8
+Qunaba|AU||8c|-1wz|bre|8
+Qom Tappeh|IR||7o|2y6|3jt|8|Oom Tappeh;Qūm Tapeh;Qūm Tappeh
+Quyquyhó|PY||1y|-20v|-4eb|8|Quyquyó
+Quarré-les-Tombes|FR||9k|3nl|b4|8
+Quebradanegra|CO||27|e8|-5qw|8
+Quarrier's Village|GB||9b|4b7|-cu|8
+Quarter|GB||9b|4au|-b7|8
+Ejido el Quemadito|MX||3x|1wm|-8ad|7|Quemadito;El Quemadito;Quemado
+Quévy-le-Grand|BE||8t|3vw|az|7
+Quesa|ES||9d|30o|-22|7
+Quitman|US|Arkansas|2f|2qa|-746|7
+El Quemado|MX|Sinaloa|3x|1td|-87s|7|Quemado
+Quispe|PE||3o|-h9|-61h|7
+Quiñota|PE||3o|-13r|-5ke|7
+Quirnheim|DE||8r|3tq|ml|7
+Quatzenheim|FR||9k|3r3|l1|7
+Quio|PE||3o|-se|-5w5|7
+Kwaremont|BE||8t|3x2|9s|7|Quaremont
+Quinhagak|US||1h|4lz|-chs|7|Quinahak;Kwinhagak
+Quilamula|MX||41|1ff|-7n2|7
+Querrieu|FR||9k|3uq|6r|7|Tchériu;Ouerrieu
+Quincy|US|Ohio|48|33y|-6h9|7
+Santo Tomás Quieri|MX||41|19f|-7f6|7|Quieri;Ovieri
+Quintanares|MX||41|1l1|-7q6|7
+Quiriceo|MX||41|1ks|-7tf|7|Quiriseo
+Quetzalcóatl (Cuatro Poblados)|MX||41|1dj|-70y|7
+Quintana y Congosto|ES||9d|39e|-gs|7
+Quattro Strade|IT|Tuscany|9o|3d5|td|7
+Quadroni-Fontolfi-Impicciaturo-Maligni|IT||9o|38z|13y|7
+Quilcata|PE||3o|-16d|-5o1|7
+Quins|FR||9k|3ev|6l|7
+Quichuas|PE||3o|-yn|-5rp|7
+Quechee|US||48|3d9|-5l6|7
+Quichas|PE||3o|-te|-5x9|7
+Quiestède|FR||9k|3ws|6h|7|Questède
+Qualso|IT||9o|3ka|10s|7
+Queenstown|US|Maryland|48|30b|-5vk|7|Queens-Towne
+Qūrūq|IR|Kurdistan Province|7o|2pb|3mq|7|Qūreq;Qūroq
+Qukës-Shkumbin|AL||9y|365|1kt|7
+Quilpie|AU||8c|-21x|b4r|6
+Quiers|FR||9k|3r1|89|6
+Queaux|FR||9k|3kp|1v|6
+Sandy Hill|AI||1i|1em|-4v1|6|Qumli Tepa
+Quairading|AU||8k|-2gx|924|6
+Quillupampa|PE||3o|-mr|-60t|6
+Quevillon|FR||9k|3ta|2n|6
+Quiches|PE||3o|-nc|-5z9|6
+Querobal|PE||3o|-ls|-60h|6
+Qūdjānak|IR||7o|2je|3vq|6|Kūdanak
+Queenstown|US|Maryland|48|307|-5xs|6
+Quipran|PE||3o|-qe|-5x9|6
+Quenington|GB||9b|3zq|-4z|6
+Quebrada Pastor|PA||4g|pl|-6ct|6
+Quistajito|MX||41|193|-73l|6
+Quilcene|US||3p|3ou|-9hc|6
+Quillo|PE||3o|-px|-60s|6
+Quentin|US||48|33w|-5wc|6
+Queen City|US|Missouri|2f|349|-755|6
+Quintanilla-Vivar|ES||9d|39u|-a9|6
+Quemazon|PE||3o|-i4|-665|6
+Quinton|US|New Jersey|48|31v|-5th|6
+Quendorf|DE||8r|41e|jz|6
+Querenhorst|DE||8r|41d|uh|6
+Queen Camel|GB||9b|3xq|-76|6
+Quesques|FR||9k|3wu|5d|6
+Quettetot|FR||9k|3th|-4n|6
+Cretas|ES||9d|35p|l|6|Queretes;Cretes
+Quesnoy-le-Montant|FR||9k|3v7|4p|6
+Quintana Redonda|ES||9d|37o|-79|6
+Quéant|FR||9k|3ve|8a|6|Quéeun
+Quittebeuf|FR||9k|3sf|2u|6
+Quasqueton|US||2f|39r|-72w|5
+Quirla|DE||8r|3xb|wp|5
+Queienfeld|DE||8r|3w5|t2|5
+Quelneuc|FR||9k|3ou|-5r|5|Kelenneg
+Quattro Strade|IT|Lazio|9o|37j|10x|5
+Quirnbach|DE|Rheinland-Pfalz|8r|3tf|km|5
+Quartes|BE||8t|3wp|9r|5
+Quinistaquillas|PE||3o|-1aj|-5gw|5|Quinistaquilla
+Queenzieburn|GB||9b|4bh|-bd|5
+Quilate Nuevo|MX||41|1j7|-7he|5
+Quathiaski Cove|CA||5b|3v1|-9nu|5
+Quarto|IT|Piedmont|9o|3gr|n1|5
+Querciagrossa|IT||9o|3f3|u3|5
+Quilcate|PE||3o|-iy|-62o|5
+Santiago Quetzalapa|MX||41|1dk|-7gf|5|Quetzalapa
+Querco|PE||3o|-12u|-5sa|5
+Quintana del Marco|ES||9d|399|-g9|5
+Quirnbach|DE|Rheinland-Pfalz|8r|3wc|lo|5
+El Quechuleño|MX||41|1fl|-7fx|5|Quechuleño
+Quebrada Honda|PA||4g|o0|-60z|5
+Queyssac|FR||9k|3gr|1j|5|Caissac

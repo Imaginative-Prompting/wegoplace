@@ -1,0 +1,88 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Dnipro|UA||98|3qn|2pc|7h1|Dnjepropetrovsk;Dněpropetrovsk;Dniepropetrovskas;Dnjipropetrovsk;Dniepr;Dnyipro;Dnepr;Novyy Kodak;Katerynoslav;Novorosiynsk;Sicheslav;Dnjipro;Catherinoslav;Caterinoslavia
+Novi Sad|RS||8q|3hp|1j4|1nu|Újvidék;Nowy Sad;Novisada;Neusatz;Nový Sad
+Novi Beograd|RS||8q|3gh|1kq|1ma|Novi Belgrade;Nový Bělehrad;Yeni Belgrad;Novbeogrado;Nowy Belgrad;Nova Belgrado;New Belgrade
+Novyye Kuz’minki|RU||9i|4aq|2wv|13q
+Rayon KhTZ|UA||98|3uq|2t1|10e|New Kharkiv;KhTZ District;KhTZ Settlement;Novyi Kharkiv;Novyy Kharkiv;Sotsmistechko Novyi Kharkiv;Sotsmistechko Novyy Kharkiv
+Novyye Cherëmushki|RU||9i|4aq|2we|s2
+Novyy Urengoy|RU||7z|53k|5wv|q6|Novy Urengoy;Noviy Urengoi;Novi Urengoj;Nowy Urengoi
+Nowy Sącz|PL||a5|3tu|1li|ng|Neusandez;Újszandec;Novi Sonča;Naujasis Sončas;Nowi Sóncz;Nowy Sůncz;nowy.sontc;Neu Sandez;Neu-Sandec;Novy-Sonch
+Novyy Turtkul’|UZ||7g|37f|4pi|dl
+Novyi Lviv|UA||98|3ue|1ur|b4|Novyy Lviv
+Nowy Targ|PL||a5|3tg|1jn|9e|Naujasis Targas;Novi Targa;Nový Targ;Novyy Targ
+Novyi Rozdil|UA||98|3tf|1v1|7v|Novyy Rozdil;Novi Rozdil;Nowyj Rosdil;Nowy Rozdół;Novyy Rozdol;Novyy Razdol
+Nový Jičín|CZ||9m|3tr|1e1|6b|Neutitschein
+Novy Oskol|RU||9i|3x0|2x6|5u|Novyj Oskol;Novi Oskol;Nowy Oskol;Novo Oskol;Novyy Oskol
+Lyepyel’|BY||9g|48g|27q|4u|Liepieĺ;Novy Liepieĺ
+Novhorod-Siverskyi|UA||98|40h|2ke|48|Nowhorod-Siwerskyj;Nóvgorod-Síverski;Siverų Naugardas;Severų Naugardas;Severianų Naugardas;Novhoroda-Siverska;Novogardia Severiae;Neapolis Scytharum;Novhorod-Sivers'kyj;Novogardia di Severia;Novgorod-Seversk;Novgorodul de Nord;Novgorod-Siverskıy;Novhorod-Siverskõi;Novhorod-Sziverszki;Nowogród Siewierski;Novhorod;Noŭharad-Sievierski;Novy Horod;Novyy Horod;Novyi Horod;Novhorodok;Novogorod-Severskiy;Novgorod-Severskiy;Novhorod-Sivers’kyy
+Novi Kodaky|UA||98|3qp|2p4|46|Novi Kaydaky;Novi Kaidaky;Novyi Kodak
+Novyi Buh|UA||98|3oh|2ib|46|Novyï Bouh;Novyy Buh;Novi Bug;Nowyi Bug;Novyy Bug;Novy Bug
+Novyy Gorodok|RU||74|46v|6np|41
+Novyi Melitopol|UA||98|3m5|2q5|3c|Novyy Melitopol’;Noviy Melitopol’
+Nový Bor|CZ||9m|3x0|14g|35|Haida
+Nový Lískovec|CZ||9m|3sm|1a0|2o
+Novyi Svit|UA|Donetsk|98|3ot|2xm|2n|Novyy Svit;Novyy Svet;Novy Svet
+Novyye Lyady|RU||7z|4ha|4d9|2j|Novye Ljady
+Novyye Atagi|RU||9i|3bu|3j5|2g|Novye Atagi;Deẋa Ataġa;Mayskii;Mayskoe;Mayskoye;Novyy Atagi
+Novyy Khushet|RU||9i|3b6|3o4|27|Novyj Khusjet
+Novyi Svit|UA|Donetsk|98|3rc|2we|26
+Novyye Lapsary|RU||9i|4br|3n5|24|Novye Lapsary;Nowyje Lapsary;Novıye Lapsarı
+Novyy Rogachik|RU||a4|3r8|3ee|24|Novij Rogatsjik;Nowy Rogatschik;Novyj Rogačik;Novıy Rogaçik;Nowyj Rogaczik;Novy Rogachik
+Novyy Chirkey|RU||9i|3bw|3mq|24|Novyj Tsjirkej
+Nový Bydžov|CZ||9m|3vk|171|20|Novy Budžov
+Novyy Urgal|RU||7w|3xv|a8c|1z|Novyj Urgal
+Pivdennyi Hirnycho-Zbahachuvalnyi Kombinat|UA||98|3ow|2km|1w|Pivdennyy Hirnycho-Zbahachuval’nyy Kombinat;Yugok;Novyi Kryvyi Rih
+Novyye Burasy|RU||9s|40t|3k0|1t|Novyye Burassy
+Novyy|RU||7w|3ch|a6q|1o
+Novobelokatay|RU||7z|4ar|4js|1n|Novobelokataj;Novyy Belokatay
+Novyy Toryal|RU||9i|4ec|3rd|1k|Nov.Torjal;Novy Tor’yal
+Novyy Sulak|RU||9i|3c1|3m2|1j
+Novyi Starodub|UA||98|3qr|2k5|1c|Novyy Starodub;Novo-Starodub;Novy Starodub
+Novyi Kalyniv|UA||98|3to|1sr|16|Novyy Kalyniv;Kalinów Nowy
+Novyy Uoyan|RU||6k|4c0|8mb|16|Novyj Uojan
+Novyy Kostek|RU||9i|3ce|3m2|14|Novyj Kostek
+Novyy Yegorlyk|RU||9i|3kv|38b|11|Novy-Yegorlyk
+Khojavend|AZ||61|32j|3mv|11|Novyy Karanlug;Yeni Karanlig;Yangi Karanliq
+Nový Malín|CZ||9m|3uq|1bb|10
+Novyy Nekouz|RU||9i|4gu|2xr|10|Novyj Nekouz
+Novytsia|UA||98|3s0|1vl|10|Nowyzja;Novytsya;Nowica;Novîțea;Novitsa
+Novyy Buyan|RU||9p|455|3v1|z|Novy Buyan
+Novyye Zori|RU||63|43x|6fr|z|Novıye Zori;Novye Zori
+Nová Bystřice|CZ||9m|3s6|15y|y|Nový Bystřice
+Novyye Vikri|RU||9i|39i|3pb|x
+Novyy Byt|RU||9i|48y|2wh|t
+Novyye Gorki|RU||9i|4dl|362|t
+Novyi Yarychiv|UA||98|3um|1vi|s|Jaryczów;Nowyj Jarytschiw;Novyy Yarychiv;Nowyj Jarycziw;Noviy Yarychiv;Novyï Iarytchiv;Novyj Jaryčiv;Novıy Yarıçiv;Novîi Iarîciv;Novyy Yarychev;Jarychow
+Nový Hrozenkov|CZ||9m|3t2|1ek|r
+Novyi Korets|UA||98|3wl|23e|n|Novyy Korets’;Novyy Korets
+Nový Život|SK||8s|3pn|1cj|n
+Novyy Vasyugan|RU||7r|4ip|5wi|n|Nov.Vasiugan
+Novy Svyerzhan’|BY||9g|44h|229|m|Novyy Sverzhen’;Novy S’verzhen’;Novy Svieržań
+Novyy Karachay|RU||9i|3dq|38e|m|Novyj Karatsjaj
+Novyi Bykiv|UA||98|3wk|2fz|k|Novyy Bykiv;Novyy Bykov;Novy Bykov
+Novyy Zagan|RU||6k|3xr|8bc|k|Novyj Zagan
+Nový Šaldorf-Sedlešovice|CZ||9m|3rn|18m|j
+Nový Knín|CZ||9m|3ub|13p|i
+Novyy Izborsk|RU||9i|4gh|25p|f|Novoizborsk;Novyj Izborsk
+Nowy Żmigród|PL||a5|3ts|1ns|e|Novy Żmigród
+Novyi Bilous|UA||98|3z6|2en|e|Novyy Bilous;Novy Belous;Novyy Belous
+Novyy Ropsk|RU||9i|41a|2hr|d|Nov.Ropsk;Novy Ropsk
+Novy|RU||9i|3gt|33l|d|Novi;Nowy;Novıy
+Novyi Svit|UA|Crimea|9t|3gj|2oz|c|Yañı Dünya;Novıy Svit;Paradyz
+Zhadove|UA||98|40l|2it|c|Stary Zhadov;Zhdanovo Vtoroye;Zhdanovo Pervoye;Novy Zhadov;Zhadov;Zsadove;Zhadovo Vtoroye;Zhadovo Pervoye;Zhadovo
+Novofastiv|UA||98|3tq|29t|c|Novyy Fastiv;Nowochwastów;Hołochwastów;Hołochwasty
+Novi Borovychi|UA||98|409|2gi|a|Novyye Borovichi
+Nový Rychnov|CZ||9m|3t6|16p|a
+Partyzanskyi|UA||98|3rb|2wb|9|Novyi Poshtovyi
+Novyi Korotych|UA||98|3us|2s1|8|Komunar
+Nový Hrádek|CZ||9m|3vw|194|7|Neubürgles
+Novi Yarylovychi|UA||98|40j|2e5|7|Novyye Yarylovichi;Novi Iarîlovîci;Novaja Jaryłavičy;Novi Jaryłavyčy
+Nový Oldřichov|CZ||9m|3x1|144|7
+Novyye Bobovichi|RU||9i|426|2g5|6|Novye Bobovitsji;Novyye Babovichi
+Novyy Milet|RU||9i|4ar|2xq|6|Novy Milet
+Novy Mir|UA||9t|3hs|2ov|6
+Novy-Chevrières|FR||9k|3tm|cc|6
+Novyi Donbas|UA||98|3ql|2va|5|Novyy Donbas;Novyy-Donbass
+Novyi Komar|UA||98|3p0|2uc|5|Novyy Komar;Novy Komar’;Novy Komar
+Nový Kostel|CZ||9m|3vi|yl|5
+Nový Jáchymov|CZ||9m|3uu|12q|5

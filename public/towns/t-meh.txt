@@ -1,0 +1,78 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Mahesāna|IN||6t|1tk|5l2|1h0|Mehsāna
+Mahābād|IR||7o|2u4|3j0|1as|Mehabad
+Mehestan|IR||7o|2rz|3wz|no
+Mechelen|BE||8t|3xr|cg|lj|Malinas;Mecheln;Meĥleno;Malines;Mechele;Mechlinia
+Izmayil|UA||98|3hz|284|jf|Izmaïl;Ismail;Ismajil;Hacidar;Smeilu;İşmasıl;Izmajila;Izmajilas;Izmajil;İsmailiye;Mehmedabad;Smil
+Mahdia|TN||1e|2qm|uq|ee|Mahdija;Mehdiye;Al-Mahdijja;Mahdiya;Mahedia;Mehdia
+Mehkar|IN||6t|1jz|5wp|ck|Mehekar
+Méhana|NE||18|13z|35|ba|Mehanna;Méana
+Mehendiganj|BD||6a|1re|6zh|ay
+Mehidpur|IN||6t|1t9|5u6|9k|Mahidpur
+Mahrīz|IR||7o|2fq|478|9i|Mehrīz
+Mehdia daira de meghila|DZ||3|2qf|4w|8q
+Mehdya|MA||d|2n6|-ij|8p|Mehediyah;Mehedyia;Mehediya;Mehdaia;Mehedia;Mehdia;Mehdiya
+Mehar|PK||6q|23i|58e|8g
+Mehoni|ET||2|zk|324|84
+Mehlville|US||2f|2yz|-6yw|7w
+Mahna|IN||6t|2bz|5sb|7p|Mehna
+Mehsi|IN||6t|218|6kd|78
+Mehndāwal|IN||6t|22y|6ev|73|Mehdawal;Mahdawal
+Mehal Mēda|ET||2|sn|326|6x|Maha Meda;Mahil Mēda
+Mahdishahr|IR||7o|2r7|447|5u|Mehdīshahr
+Mehdiabad|AZ||61|34i|3uh|5p|Mekhdiabad
+Mehtar Lām|AF||6o|2ob|5f1|4t|Mextar Lam;Metarlam;Mekhtarlam
+Mihona|IN||6t|210|63e|4p|Mehona
+Mehnagar|IN||6t|1zw|6ew|45
+Mehrabān|IR||7o|2xs|3mx|3l|Mehrevān;Mehravān
+Mehrestān|IR||7o|23d|4rb|3e
+Meharrize|EH||k|20n|-ur|3c|Mehaires
+Mehrān|IR||7o|2k0|3k8|3a
+Miechów|PL|Lesser Poland|a5|3vw|1jn|39|Mehova
+Mehsāri|IN||6t|1zh|6mh|38
+Mehmood Pora|IN||6t|2ll|5sc|31
+Mehrīān|IR||7o|2da|3z8|2m|Mehrabān;Mehreyān
+Mehatpur Basdehra|IN||6t|2f9|5w2|2k
+Mae Hong Son|TH||62|1hm|7k5|2j|Mehongsonas;Mae Hung Son;Mae Hingsorn
+Mehmand|IN||6t|1p8|6cc|2a
+Mohr|IR||7o|24j|42w|26|Mohur;Mehr
+Mehmet Akif Ersoy|TR||94|32b|3bn|24
+Mehun-sur-Yèvre|FR||9k|3my|65|21|Magdunum
+Mehatpur|IN||6t|2e9|5to|1m
+Mahrāgaon|IN||6t|1qt|600|1k|Meharagaon
+Mehrhoog|DE||8r|3zq|i3|1i
+Mehrābād|IR|Tehran|7o|2r7|407|1h|Mehrāhād
+Mehinli|TM||5x|2w3|4l2|1f|Mekhenli;Mekhinli
+Mehmand Chak|PK||6q|2j3|5p2|1e
+Mehadia|RO||8u|3gq|1q5|17|Mehadija;Mebadia
+Mehlingen|DE||8r|3th|lt|13
+Mehrnbach|AT||a2|3px|11c|o
+Méhkerék|HU||8v|3ly|1nl|n|Micherechi
+Mehring|DE|Bavaria|8r|3pu|zi|m
+Mehring|DE|Rheinland-Pfalz|8r|3uc|iz|m
+Mehdī Rajeh|IR||7o|2ty|452|k
+Mehlebān|IR||7o|2ts|41w|i|Mehlabān
+Mehltheuer|DE||8r|3wf|xg|g
+Mehdīābād|IR|Qazvin Province|7o|2sh|3uk|f|Mihdiābād
+Mehrstetten|DE||8r|3qe|ql|f
+Mehlmeisel|DE||8r|3ut|wy|e
+Mehren|DE|Rheinland-Pfalz|8r|3ve|j4|e
+Mehmet Akif Ersoy Mahallesi|TR||94|32z|3eh|d
+Mehringen|DE||8r|3zp|vz|c
+Mehlbach|DE||8r|3tk|lg|c
+Mehr|IR||7o|2kv|3l3|b
+Mehdīābād|IR|Isfahan|7o|2j5|3xn|a
+Mehmāndār-e Soflá|IR||7o|2uy|3k4|a
+Méhapleu|CI||0|in|-n2|a
+Mehmāndār|IR||7o|2w7|3jn|9
+Mehdīlū|IR||7o|2xi|3jh|9|Mehdīnlū;Mahdīnlū
+Mehadica|RO||8u|3h3|1pv|9
+Mehrn|AT||a2|3nq|x0|8
+Mehamn|NO||9j|5hc|25d|8|Mehavn
+Mehragān-e ‘Olyā|IR||7o|22c|48c|7
+Mehaigne|BE||8t|3wj|dk|6
+Méhidan|CI||0|r4|-ai|6
+Mehrābād|IR|Hamadan Province|7o|2nd|3re|6|Mīhrābād;Mahrābād
+Méharicourt|FR||9k|3uc|7l|5
+Mehren|DE|Rheinland-Pfalz|8r|3ws|ku|5

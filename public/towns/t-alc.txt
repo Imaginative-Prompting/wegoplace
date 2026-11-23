@@ -1,0 +1,105 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Al Khums|LY||1d|2ip|13m|1k3|Al-Chums;Al Ĥums;Khums;Humsas;Kums;Al-Khums;El Hums;Al Jums;El Xums;Khoms
+Alcalá de Henares|ES||9d|34g|-9c|1hu|Cómpluto;Complutum;Alkala de Henaresas
+Alcorcón|ES||9d|343|-am|1bw|Alkorkono;Alkorkonas
+Khobar|SA||7e|210|3vh|1a2|El Huber;Al-Chubar;Hubar;Al Khubar
+Algeciras|ES||9d|2sd|-f5|xq|Algésiras;Alxeciras;Algecires;Alchezira;Algesires;Alchesirasas
+Alcobendas|ES||9d|34n|-a4|w8|Alcovendae;Alkobendasas
+Alchevsk|UA||98|3qn|2zs|th|Alchevs'k;Alčevsk;Alcsevszk
+Alcalá de Guadaira|ES||9d|2vq|-g8|ji
+Alcoy|ES||9d|2zj|-1b|h4|Alcoi;Alkojus;Alcodium;Alco
+Alcamo|IT||9o|2xi|100|cc|Àrcamu
+Alzira|ES||9d|30r|-17|cc|Alcira;Alchezira;Alsira
+Alcantarilla|ES||9d|2xh|-3e|bf
+Alcabideche|PT||99|2zl|-q5|99|Aloabidèche
+Alcázar de San Juan|ES||9d|31f|-8x|8j|Alcázar de Consuegra
+Alcalá la Real|ES||9d|2w2|-aw|6c
+Alcobaça|BR||20|-1co|-30w|69
+Alcalde Díaz|PA||4g|pc|-650|5n|Alcaldedíaz
+Alcântara|PT||99|2zi|-ph|5n
+Alcúdia|ES||9d|32p|8o|5i
+Al Khawr|QA||7b|1zc|3z3|59|Al Khor;Municipio de Jor;Chauras;Al-Chaur;Al-Khaur
+Alcântara|BR||2w|-6o|-3fe|55
+Khasab|OM||72|20q|4c9|4z|al-Chasab;Chasab;Chasabas;Hasab;Xasab;Al Khasal
+Alcañiz|ES||9d|361|-d|4k|Alcanyís;Alcanyiz
+Alcobaça|PT||99|31v|-oy|4e|Alkobasa
+L'Alcúdia|ES||9d|30w|-1f|3b|Alcudia de Carlet;Alcudia
+Alcântaras|BR||2w|-9z|-34n|36
+Alcaudete|ES||9d|2wf|-bc|33
+Alcalá del Río|ES||9d|2w8|-gm|31
+l'Alcora|ES||9d|33b|-k|2w|Alcora
+Alcàsser|ES||9d|31d|-18|2r
+Alcochete|PT||99|2zo|-ow|2p
+Alcanar|ES||9d|34m|1c|2m
+Alcoa|US||48|2rf|-6h9|2l
+Alcácer do Sal|PT||99|2yl|-nn|2k|Alcácer da Sal
+Alcalá|CO||27|cz|-5ui|2j|Acalá
+Alcala|PH|Ilocos|71|181|9as|2h
+Alcester|GB||9b|412|-57|1x
+Alcalà de Xivert|ES||9d|33y|n|1u|Alcala de Chivert;Alcalá de Chisvert
+Alacranes|CU||36|1r9|-6al|1m|Alcranes
+Alcalá de los Gazules|ES||9d|2ta|-fw|1k
+Alcantil|BR||2w|-li|-2s6|1k
+Alcalá del Valle|ES||9d|2ui|-ed|1h
+Alcarràs|ES||9d|37h|1g|1f|Alcarraz
+Alcanede|PT||99|31i|-oi|1e
+Alcocéber|ES||9d|33t|s|1e|Alcossebre;Alcocebre;Aleosebre
+Alcantarilha|PT||99|2v5|-n7|1e
+L'Alcúdia de Crespìns|ES||9d|309|-1m|1c|Alcudia de Crespins
+Alcala|PH|Cagayan Valley|71|1dq|9dy|1b|Acala
+Alcains|PT||99|32w|-kq|1a
+Alcinópolis|BR||2a|-1ew|-457|19
+Alcantara|PH|Central Visayas|71|rq|9it|18
+Alcover|ES||9d|36m|39|18|Alcober
+Alcanena|PT||99|31m|-o3|18
+Alcoentre|PT||99|30x|-ow|13
+Alcorisa|ES||9d|35l|-12|10|Alcoriza
+Alcolea del Río|ES||9d|2wi|-fr|x
+Alcuéscar|ES||9d|30u|-hb|v
+Alcoy|PH||71|qz|9j3|u
+Alcoitão|PT||99|2zl|-q3|q|Alcoutão
+Alcozauca de Guerrero|MX||41|1ci|-7la|p
+Alchichica|MX||41|1hz|-7ij|p
+Alcantara|PH|Mimaropa|71|y2|9f1|n
+Alcoletge|ES||9d|37p|1x|k
+Alconchel|ES||9d|2z0|-jn|k
+Alcara Li Fusi|IT||9o|2xm|14u|k
+Alcaraces|MX||41|1hs|-7zq|i
+Alcaraz|ES||9d|2zf|-6x|i
+Alcántara|ES||9d|32c|-j4|h|Alkantara
+Alcaucín|ES||9d|2ui|-bf|h
+Alcolea de Calatrava|ES||9d|30b|-bg|g
+Alconbury|GB||9b|41h|-q|g
+Alcanhões|PT||99|316|-o2|f
+Alcaracejos|ES||9d|2ym|-dt|f|Alcaraces;Alcarazejos
+Alcsútdoboz|HU||8v|3nr|1fo|e|Altschutt
+Alcalá del Júcar|ES||9d|30v|-3z|e|Alcalá de Jucar
+Alcàntera de Xúquer|ES||9d|30j|-1j|e|Alcántara de Júcar
+Alcalalí|ES||9d|2zn|-4|d|benarossa gardens
+Alcozacán|MX||41|1cm|-7n9|d
+Alcolea de Cinca|ES||9d|37w|c|d
+Alcocer|MX||41|1lz|-7rq|c
+Acalco|MX||41|1cm|-7nh|b|Alcalco
+Alțâna|RO||8u|3jl|1vz|b|Alzen;Alcina;Alțîna
+Alcañices|ES||9d|37u|-hn|b|Alcanizes
+Alcholoa|MX||41|1bn|-7qx|b
+Alcı|TR||94|2v7|293|b
+Alcolea|ES||9d|2up|-88|a
+Alcholoya (El Salto de Alcholoya)|MX||41|1k7|-7lh|9
+el Campell / Alcampell|ES||9d|38f|17|8|el Campell;Alcampell
+Alcolea de Tajo|ES||9d|32l|-eb|8
+Alcublas|ES||9d|32k|-1y|8|Les Alcubles
+Alcadozo|ES||9d|2zd|-5i|8
+Alconera|ES||9d|2yo|-hz|8
+Alcester|US||2f|3bi|-7gf|8
+Alcanadre|ES||9d|39s|-5w|8|Alcandre;Alcanadro;Alecanadre
+Alcoba|ES||9d|312|-cg|7
+Alcanterini|IT||9o|35j|1bq|7
+Alcazarén|ES||9d|36x|-cz|7
+Alcabón|ES||9d|334|-c5|7
+Alcubillas|ES||9d|2zn|-8p|7
+Alcóntar|ES||9d|2vq|-78|7
+Alcalde Mayor|MX||41|1d8|-74f|7
+Alchenstorf|CH||a7|3mw|l8|5
+Alcalá de la Selva|ES||9d|345|-20|5

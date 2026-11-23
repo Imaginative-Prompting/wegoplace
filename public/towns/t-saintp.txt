@@ -1,0 +1,210 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Saint Paul|US|Minnesota|2f|3gu|-76l|2c8|St. Paul;Urbs Sancti Pauli de Minnesota;Sent Polas;San Pablo;Sentpola;Sint-Paul;Sent Pol;Sent Pols;Sint Pol
+St. Petersburg|US||48|255|-6do|1zf|Saint Petersburg;Saint Pete
+Saint Peters|GB||9b|3yp|3y|yu
+Saint-Paul|RE||ai|-1md|49j|t8
+Saint-Pierre|RE||ai|-1na|4a4|nd
+Saint Peters|US||2f|2zs|-6zr|em
+Saint-Priest|FR|Auvergne-Rhône-Alpes|9k|3iy|dq|bk
+Saint-Pol-sur-Mer|FR||9k|3xr|6i|6k|Sint-Pols-aan-Zee;Saint-Po-dsu-Mér;Sint-Pols;Saint-Pol
+Sankt Pölten|AT||a2|3px|17g|63|St. Pölten;St. Pötn;Pölten;Sanktpeltene;Sankt Peltenas;Sveti Hipolit;Sankt-Pyolten;Cetium;Saint Pölten;Sankt Pölton
+Saint Pierre|MU||ag|-1k6|4ft|4n
+Saint Peter Port|GG||91|3te|-72|4l|Saint-Pierre-Port;St Peter Port;Saint Pierre Port;St. Peter Port;Sent Piter Port;Sanktapetrurbo;Sent Piter Portas;Sentpīterporta
+Saint-Pierre-des-Corps|FR||9k|3nn|23|49
+Saint-Paul-lès-Dax|FR||9k|3dh|-2x|3a|Sent Pau dAcs;Sent Pau de Dacs
+Saint Peter|US|Minnesota|2f|3f4|-790|34|St. Peter
+Saint-Pancrace|FR||9k|3di|k4|2u
+São Filipe|CV||84|15e|-1w2|2t|Vila de São Filippe;Saint Philip;São Felipe
+Saint Pete Beach|US||48|251|-6du|2l|St. Pete Beach
+Saint-Pierre|FR|Provence-Alpes-Côte d'Azur|9k|3c9|f1|2g
+Saint-Pierre-lès-Elbeuf|FR||9k|3sw|2w|2e
+Saint-Paul-Trois-Châteaux|FR||9k|3f7|d8|28|Sant Paul de Tricastin;Sanctus Paulus Tricastinorum;Sant Pau de Tricastin
+Saint-Pierre-de-Féric|FR||9k|3dg|k4|27
+Saint-Pierre-du-Mont|FR||9k|3dw|-1g|25
+Saint-Pol-de-Léon|FR||9k|3r8|-b3|24|Kastell-Paol;Fanum Sancti Pauli Leonensis
+Saint-Philippe|CA||59|3i2|-5o4|24
+Saint-Prix|FR|Île-de-France|9k|3s6|6b|20
+Saint-Péray|FR||9k|3gv|dh|1x
+Saint-Philbert-de-Grand-Lieu|FR||9k|3mo|-4k|1w|Sant-Filberzh-Deaz;Saint Philbert de Grand-Lieu;Sanctus Philibertus de Grandi Lacu
+Saint-Pierre-d'Oléron|FR||9k|3jm|-3n|1w
+Saint-Pierre-lès-Nemours|FR||9k|3q3|7g|1s
+Kodiak|US||1h|4gj|-brd|1r|Saint Paul Harbor;Saint Paul;St. Paul Harbor;St. Paul;Kadiak
+Saint-Pierre|PM||42|3ly|-4c2|1q|Saint Pierre;St Pierre
+Saint-Pierre-du-Perray|FR||9k|3r1|6x|1p
+Saint-Priest-en-Jarez|FR||9k|3ib|c6|1n
+Saint-Pierre-d'Irube|FR||9k|3cr|-41|1n|Hiriburu
+Saint-Pol-sur-Ternoise|FR||9k|3vy|6h|1k|Saint-Po-su-Térnoèse
+Saint-Pourçain-sur-Sioule|FR||9k|3kn|95|1j|Sant Porçanh de Siula;Sanctus Portianus
+Saint-Philippe|RE||ai|-1nc|4ax|1i|Saint Phillippe
+Saint-Pie|CA||59|3ie|-5mj|1i
+Saint-Pryvé-Saint-Mesmin|FR||9k|3p0|57|1i
+Saint-Pathus|FR||9k|3sb|7s|1h
+Saint Paul Park|US||2f|3gk|-76b|1h|St. Paul Park
+Saint-Pée-sur-Nivelle|FR||9k|3cg|-4b|1b|Senpere;Sant Per dIbarra;Sent Pèr de Nivela
+Saint-Privat-des-Vieux|FR||9k|3em|bh|19
+Saint-Prex|CH||a7|3l4|hy|19
+Saint-Pierre-de-Chandieu|FR||9k|3it|dx|18|Saint Pierre Chandieu
+Saint-Pierre|MQ||3v|14y|-4py|15|Sen Pjeras;Fort Saint Pierre;Senpiè
+Saint-Paul-en-Jarez|FR||9k|3id|cp|14
+Saint-Père-en-Retz|FR||9k|3n5|-5o|13|Sant-Pêr-Raez;Sanctus Petrus
+Saint-Pantaléon-de-Larche|FR||9k|3he|41|13
+Saint-Pair-sur-Mer|FR||9k|3rl|-4d|11
+Saint-Pierre-sur-Dives|FR||9k|3s6|-3|11
+Saint-Palais-sur-Mer|FR||9k|3is|-31|11
+Saint-Prosper|CA||59|3kd|-5fs|10
+Saint-Pascal|CA||59|3o0|-5dw|z
+Saint-Pierre-Montlimart|FR||9k|3nb|-2v|w|Saint-Pierre-Montlimard
+Saint Peters|AU||8l|-2m8|bny|w
+Saint-Paul-de-Vence|FR||9k|3de|js|u|Saint-Paul i Alpes-Maritimes;St Paul de Vence;Sant Pau;Saint-Paul de Vence;Oppidum Sancti Pauli
+Saint-Pierre|IT||9o|3iz|k3|s
+Saint-Pons-de-Thomières|FR||9k|3cs|7p|s
+Saint-Priest-Taurion|FR||9k|3jh|3w|r
+Saint-Parres-aux-Tertres|FR||9k|3q6|bg|r
+St. Peter's|CA||35|3iu|-4p3|q|St Peters;Saint Peter's
+Saint Paul’s|KN||51|1cd|-4uk|p|Saint Paul Capisterre
+Saint-Philbert-de-Bouaine|FR||9k|3mj|-48|o
+Saint-Prest|FR||9k|3qp|49|o
+Saint-Pierre-Quiberon|FR||9k|3o0|-8p|n|Sant-Pêr-Kiberen;Saint Pierre Quiberon
+Saint-Pierre-de-Varengeville|FR||9k|3ti|2l|n
+Saint Paul|US|Nebraska|2f|36h|-7li|n
+Saint-Pamphile|CA||59|3mg|-5du|n
+Saint-Pierre-de-Plesguen|FR||9k|3ql|-5b|m|Sant-Pêr-Plewenn
+Saint-Paulien|FR||9k|3he|al|m
+Saint-Paul-de-l'Île-aux-Noix|CA||59|3hd|-5nk|l
+Saint-Pierre-la-Palud|FR||9k|3j7|ct|l
+Saint Paris|US||48|33h|-6h8|l|St. Paris
+Saint-Paul-de-Fenouillet|FR||9k|3ax|6y|k|Sant Pau de Fenolhet;Sant Pau de Fenollet
+Saint-Palais|FR|New Aquitaine|9k|3cd|-2v|k|Donapaleu
+Saint Pauls|US||48|2op|-63d|k
+Saint-Pierre-le-Moûtier|FR||9k|3lz|8o|k
+Saint-Père-Marc-en-Poulet|FR||9k|3qz|-5c|k|Sant-Pêr-Poualed;Saint-Père
+Saint Pierre du Bois Parish|GG||91|3td|-7c|k
+Saint-Paul-de-Varces|FR||9k|3h7|fo|k
+Saint-Paul-en-Chablais|FR||9k|3ku|ie|j
+Saint Paul|US|Missouri|2f|2zy|-702|i
+Saint-Pierre-Église|FR||9k|3tz|-3w|i
+Saint-Pal-de-Mons|FR||9k|3hp|bv|i|Sant Paul de Mònç;Saint-Pal-de-Mans
+Saint-Pierre-des-Nids|FR||9k|3qg|-a|i
+Saint-Placide|CA||59|3ih|-5q4|i
+Saint-Pierre|BE||8t|3um|ez|i
+Saint-Paulet-de-Caisson|FR||9k|3ey|cs|h|Sent Paulet de Caisson;Saint-Paulet-des-Caissons
+Saint-Pierre-la-Cour|FR||9k|3pn|-2v|h
+Saint-Paterne|FR||9k|3qi|b|h
+Saint-Paul-lès-Romans|FR||9k|3h7|e9|g
+Saint-Paterne-Racan|FR||9k|3o8|1c|g
+Saint-Pabu|FR||9k|3qw|-cs|g|Sant-Pabu
+Saint-Pargoire|FR||9k|3cx|9s|f|Sant Pargòli;Sant Pargòri
+Saint-Pierre-du-Chemin|FR||9k|3lq|-1y|f
+Saint-Priest-sous-Aixe|FR||9k|3ja|32|f
+Saint-Paul|FR|Hauts-de-France|9k|3tb|5l|f
+Saint-Privat|FR|Auvergne-Rhône-Alpes|9k|3fz|c9|f
+Saint Peter|US|Wisconsin|2f|3ds|-6te|f
+Saint-Porchaire|FR||9k|3ja|-26|e
+Saint-Pierre-du-Vauvray|FR||9k|3sr|3e|e
+Saint-Privat-la-Montagne|FR||9k|3sn|gs|e
+Saint-Pé-de-Bigorre|FR||9k|3bq|-g|e
+Saint-Prouant|FR||9k|3lw|-2o|e
+Saint-Paul|FR|Auvergne-Rhône-Alpes|9k|3i4|br|e|Saint Paul
+Saint-Philibert|FR||9k|3o7|-8c|d|Sant-Filberzh
+Saint-Pardoux|FR||9k|3ld|-v|d
+Saint-Pierre-des-Fleurs|FR||9k|3st|2p|d
+Saint-Pierre-de-Bœuf|FR||9k|3i2|d7|d
+Saint-Pierre-d'Aurillac|FR||9k|3ft|-j|d
+Saint-Parize-le-Châtel|FR||9k|3m5|8u|d
+Saint-Paul-de-Jarrat|FR||9k|3b7|4m|d
+Saint-Paul-de-Varax|FR||9k|3k2|e9|d
+Saint-Pierre-des-Échaubrognes|FR||9k|3mj|-22|d
+Saint-Pierre-du-Regard|FR||9k|3ro|-1j|d
+Saint-Pardoux-Isaac|FR||9k|3fx|11|d
+Saint-Paër|FR||9k|3tj|2g|c
+Saint-Paul-en-Forêt|FR||9k|3d1|il|c
+Saint-Philbert-du-Peuple|FR||9k|3nn|-4|c
+Saint-Priest|FR|Auvergne-Rhône-Alpes|9k|3g8|cn|c
+Saint-Paul|FR|New Aquitaine|9k|3j3|3z|c
+Saint-Planchers|FR||9k|3rm|-49|c
+Saint-Pardoux-la-Rivière|FR||9k|3id|23|b|Sent Pardol de la Ribiera;Sent Pardol la Ribiera
+Saint-Perreux|FR||9k|3of|-5v|b|Sant-Pereg
+Saint-Paul-des-Landes|FR||9k|3gu|6f|b
+Saint-Privat|FR|New Aquitaine|9k|3he|5u|b
+Saint-Piat|FR||9k|3qv|4e|b
+Saint-Porquier|FR||9k|3e8|3a|b
+Saint-Pacôme|CA||59|3no|-5eb|b
+Saint-Perdon|FR||9k|3dv|-1n|b
+Saint-Pouange|FR||9k|3pz|b8|b
+Saint Paul|US|Texas|2f|2js|-7g7|b
+Saint-Père-sur-Loire|FR||9k|3op|6l|b
+Saint-Pierre-en-Val|FR||9k|3uy|41|b
+Saint-Projet|FR||9k|3j2|10|a|Sent Proget e Sent Constanç
+Saint-Python|FR||9k|3vf|9o|a
+Saint Paul|US|Indiana|38|31j|-6lv|a|St. Paul
+Saint-Prime|CA||59|3qz|-5ky|a
+Saint-Paul-Cap-de-Joux|FR||9k|3d9|5i|a
+Saint-Paul-en-Pareds|FR||9k|3m2|-2r|a
+Saint-Pierre-de-Bailleul|FR||9k|3sg|3v|a
+Saint-Pierre-des-Landes|FR||9k|3q3|-2v|a
+Saint-Parres-lès-Vaudes|FR||9k|3pt|bq|a
+Saint Paul|US|Virginia|48|2uj|-6cn|a|St. Paul
+Saint-Pierre-de-Maillé|FR||9k|3lo|2c|a
+Saint-Prim|FR||9k|3i9|da|9
+Saint-Pierre-le-Vieux|FR||9k|3kv|-23|9
+Saint-Pierre-la-Garenne|FR||9k|3sj|3w|9
+Saint-Pierre-du-Bosguérard|FR||9k|3su|2g|9|Saint-Pierre-du-Bosgnérord;Saint-Pierre-de-Bosguerard
+Saint-Pierre-Eynac|FR||9k|3h5|b7|9|Sant Pèire dAenac;Sant Pèire-Aenac;Saint-Pierre-Aynac
+Saint-Paul|FR|New Aquitaine|9k|3hf|-1p|9
+Saint-Pierre-de-Chartreuse|FR||9k|3hy|g6|9
+Saint-Pierre-de-Varennes|FR||9k|3m4|ci|9
+Saint-Pern|FR||9k|3q5|-5j|9|Sant-Pern;Sanctus Paternus
+Saint-Paul-et-Valmalle|FR||9k|3d7|a8|8
+Saint-Pierre-de-la-Rivière-du-Sud|CA||59|3mc|-5g7|8
+Saint-Philbert-sur-Risle|FR||9k|3sy|1t|8
+Saint-Pierre-Brouck|FR||9k|3xe|63|8|Sint-Pietersbroek;Sint-Pieters-Broek
+Saint-Papoul|FR||9k|3cd|5o|8
+Saint-Pompain|FR||9k|3l0|-1o|8
+Saint-Pierre-de-Chignac|FR||9k|3hc|2e|8|Sent Peir de Chinhac
+Saint-Pierre-en-Port|FR||9k|3ud|1e|8
+Saint-Paul-lès-Durance|FR||9k|3dd|fv|8|Sant Pau de Durènça;Saint-Paul-lez-Durance
+Saint-Prix|FR|Auvergne-Rhône-Alpes|9k|3kf|a5|8
+Saint-Pandelon|FR||9k|3db|-2w|8|Sent Pandelon
+Saint-Paul-le-Jeune|FR||9k|3f6|bj|8
+Saint-Pierre-de-Manneville|FR||9k|3t7|2l|8
+Saint-Pierre-de-Fursac|FR||9k|3k7|47|8|Sent Peir de Furçac;Furçac
+Saint-Pôtan|FR||9k|3qw|-6d|8|Sant-Postan
+Saint-Pierre-de-Clairac|FR||9k|3eq|24|8
+Saint-Pierre-les-Étieux|FR||9k|3lt|7a|8|Saint-Pierre-des-Estieux
+Saint-Pierre-de-Mésage|FR||9k|3h5|g3|7
+Saint-Priest-des-Champs|FR||9k|3jr|7o|7|Sant Prist e Vilamanha
+Saint-Priest-Bramefant|FR||9k|3jv|9k|7|Sant Prist de Varenas
+Saint-Pierre-de-Bressieux|FR||9k|3hw|ep|7
+Saint-Pierre|FR|Hauts-de-France|9k|3sy|7e|7
+Saint-Paul-les-Fonts|FR||9k|3eg|ct|7
+Saint-Paul-du-Vernay|FR||9k|3sn|-24|7
+Saint-Patrice|FR||9k|3nc|t|7
+Saint-Pey-de-Castets|FR||9k|3gh|-6|7
+Saint-Privat-des-Prés|FR||9k|3hn|l|7
+Saint-Pierre-Bois|FR||9k|3q9|kg|7|Sankt Petersholz;Peeterschulz
+Saint-Pierre-de-Trivisy|FR||9k|3dk|6r|6|Saint-Pierre-de Trivisy-et-Sénégas;Saint-Pierre-de Trivisy-et-Sénégats;Saint-Pierre-de-Trivizy
+Saint-Philbert-des-Champs|FR||9k|3sp|s|6
+Saint-Puy|FR||9k|3dw|1a|6
+Saint Paul|US|Kansas|2f|2w8|-7cd|6|St. Paul
+Saint-Priest-la-Feuille|FR||9k|3kc|4a|6
+Saint-Palais|FR|Centre-Val de Loire|9k|3n7|6q|6
+Saint-Pardoux-du-Breuil|FR||9k|3fk|j|6|Saint-Pardoux-de-Breuil
+Saint-Paul-sur-Isère|FR||9k|3io|hw|6
+Saint-Péravy-la-Colombe|FR||9k|3pc|4q|6
+Saint-Pierre-de-Rivière|FR||9k|3bc|4c|6
+Saint-Paul-du-Bois|FR||9k|3ms|-1i|6
+Saint-Paul-la-Roche|FR||9k|3ic|2s|6|Sent Pau de la Ròcha;Sent Pau la Ròcha
+Saint Paul|US|Texas|2f|262|-7j0|6
+Saint-Priest-Ligoure|FR||9k|3it|3l|6
+Saint-Paul|FR|Normandy|9k|3re|-1r|6
+Saint-Pierre|FR|Grand Est|9k|3qe|kr|6
+Saint-Pons-de-Mauchiens|FR||9k|3cv|9r|6
+Saint-Pierre-sur-Orthe|FR||9k|3px|-l|6
+Saint-Pois|FR||9k|3rf|-2z|5
+Saint-Pierreville|FR||9k|3gi|ch|5
+Saint-Pierre-de-Véronne-à-Pike-River|CA||59|3hc|-5mz|5
+Saint-Paul-Mont-Penit|FR||9k|3m0|-4m|5
+Saint-Pierre-du-Val|FR||9k|3t8|11|5
+Saint-Paul-en-Gâtine|FR||9k|3lj|-1q|5
+Saint-Privé|FR||9k|3og|8c|5

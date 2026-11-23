@@ -1,0 +1,597 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Shenzhen|CN|Guangdong|7i|1qn|8sv|3qzk|Thâm Quyến;Šen-čen;Sencsen;Šenžden;Ŝenĵeno;Chhṳ̂m-chun-sṳ;Šendženas;Šenžen;Şençjen;Sam Zan;Sham Chan;Sham Chun;Sham Chun Hu;Shumchün;Shen-chun;Shiem Chun;Shen-chen;Shenzen
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Shantou|CN||7i|1sv|904|tmd|Sán Đầu;Ŝantoŭo;Sjantou;Šan-tchou;Šantou;Sân-thèu-sṳ;Sáng-tàu;Šantov;Ciu San;Santau;San Tau;Shantow
+Shaoxing|CN||7i|2bc|9ay|hqw|Shawshin shehiri;Ŝaosing;Šao-sing;Thiệu Hưng;Sjaoxing;Siāu-heng-chhī;Siêu-hĭng;Shao-hsing;Shaohing
+Shangqiu|CN||7i|2nl|8xa|ecl|Shang-ch’iu;Shangkiu
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Shangrao|CN||7i|271|93m|8m5|Šang-žao;Thượng Nhiêu;Sjangrao;Siông-ngièu;Song-ngièu-sṳ;Siōng-jiâu-chhī;Shang-jao
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Charlotte|US|North Carolina|48|2pv|-68k|715|Sharlot;Carolinum;Šarlotė;Šarlota;Şarlott;Ŝarloto
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Shangyu|CN||7i|2be|9br|6h9
+Shaoyang|CN||7i|23o|8lm|5t8|Sjaoyang;Šao-jang;Ŝaojan;Chàu-yòng-sṳ;Thiệu Dương;Siêu-iòng;Siāu-iông-chhī
+Shah Alam|MY||6v|8l|7u1|5ps|Šach Alamas;Šahalama
+Shangluo|CN||7i|2m3|8hd|43p
+Mazār-e Sharīf|AF||6o|2tz|56f|41d|Mazari Sharif;Mazār-e Šarīf;Masar-e Scharif;Mazar-i Szarif;Mazar-e-Sharif;Mezirek-i Şerif;Mazar-i Sharif;Mazar-e Charif;Mazāre S̄rīf;Mazār-i-Sharīf;Mazari-Sharif
+Sha Tin|HK||6i|1q6|8t6|3tk|Shatin
+Shanwei|CN||7i|1ra|8wf|3sm|Šan-wej;San-mî-sṳ;Sán Vĩ;Sáng-muōi
+Eslamshahr|IR||7o|2qr|3yc|3h0|Eslamšaher;Shadshahr;Eslamschahr;Eslamchahr
+Şanlıurfa|TR||94|2v9|2zr|3gv|Edessa;Edesa;Rıha;Urfa;Shanllëurfa;Urha;Edesija;Édesse;Edesses;Edessza;Sanli Urfa;Šanlijurfa;Urhây;Ŝanlijurfo;Shanliurfa;Antiochia;Justinianopolis;Ourfa;Orfa
+Shyamnagar|IN||6t|1rf|6th|3es|Shamnagar;Syāmnagar
+Sham Shui Po|HK||6i|1q1|8t4|3br|Sam shui po;Shamshuipo
+Shāhjānpur|IN||6t|25g|65z|2h0|Shahjahanpur
+Shahrīār|IR||7o|2r2|3xu|2e0|Shahriyār;Shahreyār
+Bihār Sharīf|IN||6t|1y0|6lk|2al
+Khomeynī Shahr|IR|Isfahan|7o|2it|3z6|251|Three Castles;Khomeynīshahr
+Shahkot|PK||6q|2fp|5o5|1w1|Shāh kot
+Shakhty|RU||9i|3ok|33q|1ph|Schachty;Szachty;Ŝaĥti;Šahtõ;Sjachty;Shajty;Chakhty;Šachty;Şaxtı;Sjakhty;Šahty;Šachtos;Shakhti
+Ma On Shan|HK||6i|1q9|8tc|1ns|Ma’an Shan
+Shagamu|NG||u|j1|a5|1nm|Sagamu
+Shashamane|ET||2|k0|2z8|1lw|Shashemene;Shashamanna;Shashamana;Shashamanni;Shāshamani
+Qā’em Shahr|IR||7o|2tb|42v|1ky
+Nasīm Shahr|IR||7o|2qt|3y4|1jo
+Kafr ash Shaykh|EG||c|2ef|2dy|1i2
+Shangri-La|CN||7i|25b|7oz|1fs|Shangelila
+Ash Shaţrah|IQ||5z|2f9|3k9|1em
+Shahuwadi|IN||6t|1az|5pf|1e3
+Saki|NG||u|o3|9f|1dn|Shaki
+Shāhīn Shahr|IR||7o|2ja|3z7|1c5
+Shahrud|IR||7o|2t6|48q|19u|Emamshahr;Shārūd
+Ash Sharqāt|IQ||5z|2qo|3c3|18g
+Shāntipur|IN||6t|1sl|6tn|15o|Sāntipur
+Shahrisabz|UZ||7g|30i|55n|13n|Chakhrisabz;Sachrisabz;Xahrisabz;Šachrizabz;Ŝahrisabz;Šahrisabzas;Şehr-i-Sebz;Sjachrisabz;Shakhrisabzs;Shakhrisabz;Shakhrisyabz;Shahri-i-Sabz
+Shanhaiguan|CN||7i|334|98n|12w|Shan-hai-kuan;Shanhaikwan
+Shahreẕā|IR||7o|2gx|402|11i|Shahriza
+Shangzhi|CN||7i|3hl|9vk|10e|Shang-chih
+Shahr-e Kord|IR||7o|2ht|3xa|zw|Shahr Kord;Shahr Kurd;Shahrekord
+Sātkhira|BD||6a|1r3|6vf|zt|Shatkhira
+Shache|CN||7t|2yq|5yk|zl|Yarkand;Yeken;Yarkant;Yarkend;Yarkent
+Shajing|CN||7i|1r7|8s6|zb|Shatsing;Sha-ching
+Shakargarh|PK||6q|2hm|5ss|z7|Shakargarr
+Shahecheng|CN||7i|2um|8u3|yr
+Shahr-e Ṣadrā|IR||7o|2as|41u|xy|Shahre sadra
+Shahdad Kot|PK||6q|25d|58n|xj|Shāhdādkot
+Moḩammad Shahr|IR||7o|2rc|3xg|x6
+Shaoshan|CN||7i|25k|8ok|ws
+Shahre Jadide Andisheh|IR||7o|2r4|3xq|w9
+Shahdadpur|PK||6q|201|5am|vh
+Shaowu|CN||7i|23y|92c|va
+Shaping|CN|Guangdong|7i|1r9|8ps|tw|Sha-p’ing
+Shāhzādpur|BD||6a|1v6|6ww|sg|Sahzadpur
+Shabqadar|PK||6q|2n2|5ir|sf|Shabkadar;Shapqadar
+Shahrak-e Pardīsān|IR||7o|2o0|3x4|rs
+Šiauliai|LT||a3|4bd|1ss|rn|Šauļi;Szawle;Ŝjaulaj;Şyaulyay;Shawllay;Šiaulē;Shyaulyay;Shaulyay;Šiaulių
+Shāmli|IN||6t|29t|5yr|r8
+Türkmenbaşy|TM|Balkan|5x|336|434|ph|Turkmenbaszy;Turkmenbashi;Krasnovodsk;Turkmėnbašis;Türkmenbaşî;Turkmanboshi;Turkmenbachi;Shagadam;Türkmenbashy;Krassnowodsk;Krasnowodsk;Şagadam
+Shahdol|IN||6t|1sp|6a0|ot|Sahdol
+Shanting|CN||7i|2pg|92a|mg
+Sha Tin Wai|HK||6i|1q6|8t8|m8|Shatianwei
+Shadrinsk|RU||7z|4bt|4ws|m3|Schadrinsk;Sjadrinsk;Chadrinsk;Šadrinsk;Sadrinszk
+Shap Pat Heung|HK||6i|1qa|8ss|lm
+Shirbīn|EG||c|2eo|2fk|l5|Scharbin;Sherbin;Szirbin;Sharbīn
+Shangmei|CN||7i|252|8l6|kw
+Shancheng|CN||7i|2oo|8yg|kp
+Shibīn al Qanāţir|EG||c|2c7|2f0|kh|Shibîn el-Qanâṭir;Shabīn al Qanātir
+Shāhābād|IN|Uttar Pradesh|6t|24s|662|kg
+Shakhtarsk|UA||98|3pi|2ys|jx|Shakhtërsk;Shakhtars’k
+Shangsi|CN||7i|1pk|8by|jv|Shang-ssu;Shangsze
+Shahrixon|UZ||7m|353|5k6|ju|Shahrikhon;Shakhrikhan
+Shankou|CN||7i|1o0|8gs|ji
+Shājāpur|IN||6t|1t3|5vw|j9
+Sheki|AZ||61|36f|3n1|j0|Şeki;Shaki
+Shajing Town|CN||7i|1r6|8s5|in
+Shaozhuang|CN||7i|2u3|94o|ij
+Shangkou|CN||7i|2up|968|ia
+Shawnee|US|Kansas|2f|30g|-7b4|i2
+Shendi|SD||r|1ad|2kv|hp|Schandi;Šendis;Šendi;Chendi;Xendi;Szandi;Shandi;Shindî
+Shanwang|CN||7i|2tj|95r|hk
+Sheikhpura|IN||6t|1xu|6mg|hh|Shaikhpura
+Shāhāda|IN||6t|1nv|5qv|h2
+Zvishavane|ZW||n|-1kh|2bj|gl|Shabani;Shavani
+Shanhecun|CN||7i|3iz|9x6|g0|Shan-ho-t’un;Shanhetun
+Sharifabad|PK||6q|2kv|5ns|fa
+Shāhpur|IN|Karnataka|6t|1ae|5xg|eu
+Shāhābād|IN|Karnataka|6t|1bl|5xq|eq
+Shahr-e Bābak|IR||7o|2bo|494|ec|Shahr-i-Bābak;Shahr Bābak
+Shanji|CN||7i|2n0|92o|e2
+Cha-am|TH||62|zk|7pp|dq|Sha-am
+Shakiso|ET||2|g0|303|d7
+Shaji|CN||7i|2m6|945|cz
+Shangyun|CN||7i|1s1|7pb|ch
+Cyangugu|RW||s|-6w|28b|c7|Shangugu;Ciangugu
+Shefar‘am|IL||6n|2j5|2pp|c7|Shefa-'Amr;Shfar’am;Shafa ‘Amr
+Sharypovo|RU||6u|4aa|6vs|bw|Sjarypovo;Scharypowo;Šarypovo;Charypovo;Ŝaripovo;Szarypowo;Xarípovo
+Shāhābād|IN|Haryana|6t|2bt|5xj|bu|Shahbad
+Shādegān|IR||7o|2d5|3r6|bl|Shādgān
+Shakhtinsk|KZ||5s|3u3|5ln|bk
+Shāhīn Dezh|IR||7o|2tw|3ld|bi|Sahin Dazh;Şā’īn Dezh
+Shamkhir|AZ||61|35f|3ju|bh|Şamxor;Şamkır;Shamkhor
+Shamakhi|AZ||61|34v|3r4|b7|Şamaxı;Şamahı;Shamakhy;Shemakha
+Shakopee|US||2f|3gg|-77t|b4
+Sharm el-Sheikh|EG||c|25k|2nd|ap|Sharm el Sheikh;Sharm el-Sheij;Charm el-Cheikh;Scharm asch-Schaich;Šarm eš Šejh;Şarm eş-Şeyh;Sharm esh Sheikh;Sharm al Shaikh;Sherm el Sheikh;Sherm el Shekh;Sherm el Sheik
+Shawinigan|CA||59|3ld|-5m3|am
+Shahbazpur|IN||6t|213|6qh|ak
+Shahe|CN|Guangdong|7i|1qn|8sm|ah
+Schaffhausen|CH||a7|3oi|nz|a6|Ŝafhaŭzo;Schaffhouse;Sciaffusa;Szafuza;Scafusa;Schaffusa;Sciafüsa;Šafhauzenas;Šafhauzene;Shaffxauzen;Şaffxauzen;Schofhausen
+Dragash|XK||8q|38r|1ld|9q|Dragaš;Dagash;Sharr;Sharri
+Shāhābād|IN|Uttar Pradesh|6t|27d|63h|9q|Sāhābād
+Salgótarján|HU||8v|3pm|1j0|9m|Schalgau;Schalgotarjan;Šalgov-Tarjany;Shalgo Tar'yan
+Shāhpura|IN|Rajasthan|6t|243|5v0|9f
+Shawei|CN||7i|1qk|8sr|96
+Shaqlāwah|IQ||5z|2t4|3f5|92|Sheqławe;Shaglāwa;Shaklawa;Shaqlāwa;Shaqlwah
+Shamshabad|IN||6t|1bx|61u|92
+Shaodian|CN||7i|2mt|94z|90|Shao-tien
+Shaqra|SA||7e|1y4|3hp|8y|Shagra
+Shafi Pur Ranhola|IN||6t|27m|5y0|8v
+Sharqpur Sharif|PK||6q|2fe|5pu|8v
+Shawnee|US|Oklahoma|2f|2q5|-7h9|8p|Šonī
+Shambu|ET||2|ql|2v2|8n|Shambo;Shembu
+Shamsābād|IN|Uttar Pradesh|6t|232|610|8m
+Shaping|CN|Chongqing|7i|2cn|8ag|8l
+Shagang|CN||7i|1o7|8ev|8j
+Shangpa|CN||7i|22s|7mv|8d|Shang-p’a;Shangba
+Shatura|RU||9i|4ad|31t|8d|Sjatura;Chatoura;Šatura;Szatura;Schatura
+Chato|TZ||h|-7c|2g9|8c|Shato
+Shar’ya|RU||9i|4i5|3ig|8a|Sjarja
+Shahrak-e Qods|IR||7o|2rc|3yq|8a
+Shāhbāzpur Town|BD||6a|1ut|719|8a
+Shāhpura|IN|Rajasthan|6t|1z6|5s4|85
+Shahhat|LY||1d|2j4|1or|84|Shahat
+Shangi|RW||s|-6o|28l|7t
+Shanwa|TZ||h|-8t|2lt|7s
+Shaker Heights|US||48|377|-6ai|7o
+Shakhtarske|UA||98|3qb|2t4|7o|Perchotravensk;Peršotravensk;Perschotravensk;Perschotrawensk;Schachtarske;Šahtarske;Chakhtarske;Szachtarśke;Šachtarske
+Sānkrāil|IN||6t|1qn|6t3|7n|Shankrail
+Shalqar|KZ||5w|3ov|4lm|7m
+Shakaskraal|ZA||o|-29t|2eq|7l|Chakaskraal
+Shalkar|KZ||5y|3pf|3ru|7j|Chalkhar
+Shāhganj|IN||6t|20d|6do|7d
+Shaykh Miskīn|SY||69|2j7|2sg|77|Sheikh Miskīn;Shaykh Maskīn
+Sham Tseng|HK||6i|1q5|8st|77|Shan Tseng
+Shahrak-e Ţāleqānī|IR||7o|2do|3vg|76
+Shanghuang|CN||7i|2f0|8g4|74
+Shāhedshahr|IR||7o|2qt|3xx|73
+Shardara|KZ||5s|36m|58t|72|Chardara
+Shamsābād|IN|Uttar Pradesh|6t|24i|64o|71
+Shali|RU||9i|3bv|3ji|6y|Sjali;Chali;Šali;Xalí;Şela;Szali;Schali
+Shahe|CN|Chongqing|7i|2dn|8cz|6x
+Shāmgarh|IN||6t|1v7|5u4|6u
+Shandan|CN||7i|2oj|837|6q
+Shahriston|TJ||6d|32h|5b5|6d|Shakhristan
+Sheno|ET||2|px|315|6d|Shano
+Shakhun’ya|RU||9i|4g8|3lh|68|Sjakhunja
+Shabestar|IR||7o|2y2|3iy|66|Shabistar;Shabiastar
+Shahrak-e ‘Alā’īn|IR||7o|2qu|3yy|60
+Shawan|CN|Gansu|7i|2lf|82g|60
+Shahpur Chakar|PK||6q|20n|5ap|5y|Shāhpur Chaka;Shahpur Chaker
+Shangchong|CN||7i|20x|8du|5y
+Shāzand|IR||7o|2m9|3t9|5w|Shah Zand
+Shama Junction|GH||1|dy|-4m|5t
+Arvin|US||3p|2pt|-963|5t|Shash Bidziil
+Shanghe|CN||7i|2bs|869|5r
+Sheung Shui|HK||6i|1qk|8t0|5p|Shangshui
+Sharīfābād|IR|Qazvin Province|7o|2sl|3vb|5n
+Shāhpur|IN|Madhya Pradesh|6t|1n0|5vr|5h
+Shaoyun|CN||7i|2ba|86e|5c
+Shāhpur|IN|Uttar Pradesh|6t|29j|5zf|59
+Shādīpur Julāna|IN||6t|28w|5w9|58
+Szamotuły|PL||a5|425|1a2|56|Šamotuli;Samter;Shamotuly
+Shafter|US||3p|2qm|-97b|53
+Shaoyu|CN||7i|2mm|84p|53
+Shāhpur|IN|Bihar|6t|1z4|6ig|4y
+Shaw|US|District of Columbia|48|303|-5xy|4w
+Shajing Residential District|CN||7i|1r5|8s5|4r
+Shaktinagar|IN|Karnataka|6t|19g|5yw|4r
+Segev Shalom|IL||6n|2eo|2os|4n|Shaqib al-Salam;Segev Šalom;Segev-Szalom;Seguev Xalom;Şakib el-Salam;Shqeb al-Salam
+Shāhgarh|IN||6t|1vj|63s|4j
+Shahr Sultan|PK||6q|2a6|5ha|4i
+Shahrak-e Mohandesī-ye Zerā‘ī|IR||7o|2rd|3xk|4h|Agricultural Engineering Town
+Shāhi|IN||6t|27b|64c|4h
+Shahrak|AF||6o|2mr|4yn|4g|Şahrak;Shakhrak;Sharak;Shāhrag
+Shan Chaung|MM||7y|1au|7ex|4f|Shangyaung
+Shāl|IR||7o|2rq|3u9|49|Chāl
+Shadwell|GB|England|9b|3z3|-6|47
+Shanto|ET||2|ji|2x6|46|Shantto
+Shahbā|SY||69|2j9|2tr|44|Schahba;Chahba;Shahaba;Shaba
+Shatian|CN||7i|1ns|8gm|43
+Shāhkot|IN||6t|2ec|5ta|41
+Shani|NG||u|se|xi|3z
+Shankill|IE||8z|43v|-h0|3z|Šankilis;Seanchill
+Shahpur|PK||6q|2hn|5lb|3y
+Shankargarh|IN||6t|1xy|6aq|3x
+Shumanay|UZ||7g|3ag|4jn|3w|Shamenay;Shamonay;Shumanai;Shomanay
+Sharonville|US||48|313|-6ih|3u|Sharon Village
+Ash Shāmīyah|KW||6x|29j|3p8|3u|Al Shamiya;Shamiya
+Jıbek joly|KZ||5s|3ch|5wu|3s|Shamalgan
+Shāhpura|IN|Madhya Pradesh|6t|1sa|65a|3s
+Sharon|US|Pennsylvania|48|36j|-67l|3s
+Shāhpur|IN|Jharkhand|6t|1ur|6hh|3r|Shah Pur
+Shaktinagar|IN|Gujarat|6t|1po|5di|3r
+Shau Kei Wan|HK||6i|1pw|8tb|3q|Sau Ke Wan;Sau Ki Wan;Shau Ki Wan
+Shazi|CN||7i|2bf|8d5|3p
+Shakhan|KZ||5s|3ue|5lt|3p|Shaqan;Shakan
+Shāhpur|IN|Madhya Pradesh|6t|1ud|63l|3n
+Shahritus|TJ||6d|2vi|59a|3m|Shahrtuz;Shaartuz;Shaarfuz
+Shadow Hills|US||3p|2n6|-94r|3m
+Shaliuhe|CN||7i|2vp|7q5|3m|Sha-liu-ho
+Shāhpur|IN|Gujarat|6t|1pk|5gl|3l|Shapur
+Shalateen|EG||c|1s9|2qv|3g|Asch-Schalatin;Šalatynas;Šalatina;Shalatin;Bir Szalatin
+Shalātīn|EG||c|1sa|2qw|3g
+Sharāfat|IR||7o|2h5|3rh|3a|Sharaft
+Shatou Residential|CN||7i|1ql|8ss|39
+Shaydon|TJ||6d|34z|5ff|39|Shaydan
+Shāhāpur|IN||6t|1i1|5np|38
+Shalushka|RU||9i|3cx|3d1|38|Sjalusjka
+Shady Hills|US||48|26x|-6da|37
+Shailer Park|AU||8c|-24t|bti|37
+Shagonar|RU||6u|3z5|765|36|Sjagonar;Šagaan-Aryg;Shagaan-Aryg;Shagokar;Shagan-Aryg
+Shaba|CN|Chongqing|7i|29w|8ds|36
+Shahr-e Emām|IR||7o|2hj|3qj|36
+Shamsābād|IN|Madhya Pradesh|6t|1u5|5za|35
+Shamsābād|IR|Khuzestan|7o|2hq|3qj|31
+Shakawe|BW||m|-1f1|1oo|2y
+Shūkat aş Şūfī|PS||6f|2eu|2n8|2y|Shawkat aş Şūfī
+Shakhovskaya|RU||9i|4bn|2qn|2w|Sjakhovskaja
+Shamva|ZW||n|-1c3|2fq|2v|Tsamvi;Tsambvi
+Shāpūr Jān|IR||7o|2a1|41r|2v|Shāhpūrjān
+Shannon|IE||8z|42e|-om|2v|An tSionna;Sionainn;Šanonas
+Shasta Lake|US||3p|350|-9fx|2u|Lake Shasta
+Shayu|CN||7i|2c0|87h|2t
+Shaba|CN|Gansu|7i|2lp|858|2t
+Shakhtërsk|RU||7f|3sl|ays|2t|Sjakhtersk
+Shangde|CN||7i|2jf|831|2r
+Shāhjahānpur|IN||6t|25s|5wd|2q
+Shayan|KZ||5s|3bj|5cq|2n|Chayan
+Shanmen|CN|Gansu|7i|2od|87g|2n
+Shahrak-e Ja‘farīyeh|IR||7o|2r2|3xo|2n
+Shāhpur|IN|Madhya Pradesh|6t|1ry|690|2m
+Shahe Residential|CN||7i|1qm|8sm|2l
+Shatale|ZA||o|-1ww|2e9|2k
+Shawano|US||2f|3ge|-6u5|2j
+Shar|KZ||5s|3tr|695|2j
+Shawnessy|CA||2s|3xf|-8sw|2j
+Shahr-e Pīr|IR||7o|26n|46x|2h|Shahr Pīr
+Shamshi|IN||6t|2gj|5yb|2h
+Sharīfābād|IR|Tehran|7o|2qf|3zu|2h
+Shatki|RU||9i|49b|3ek|2g|Sjatki
+Shaughnessy|CA||5b|3st|-9i1|2c
+Shamkhal|RU||9i|3bm|3ni|2c|Sjamkhal;Shamkal
+Shaft|IR||7o|2v9|3t8|2a
+Shaţḩah|SY||69|2qn|2so|29
+Sharlyk|RU||7z|431|482|29|Sjarlyk
+Shanklin|GB||9b|3wn|-3a|29
+Shabānkāreh|IR||7o|29v|3xo|27
+Shangus|IN||6t|2lm|5t4|27
+Sharïngol|MN||7s|3ss|87n|26|Sharyngol
+Sha‘ab|IL||6n|2jd|2pw|26|Sha‘av;Shaav;Sha‘b
+Şatlyk|TM||5x|2wh|4r3|25|Shatlyk
+Sha'biyyat Al Hiyar|AE||6c|1wa|4av|24|Shabiat Al Hayer;Shabiat Al Hiyar
+Shahrak-e Goldasteh|IR||7o|2qw|3yf|24
+Yreka|US||3p|37y|-9gn|24|Shasta Butte City
+Shajin|CN||7i|2mf|835|24
+Shahbāz|IR||7o|2m4|3tl|23
+Sharur City|AZ||61|31v|3gy|23|Norashen;Sharur;Şarur;Charur;Bash-Norashen;Ilyichevsk;Il’ichëvsk
+Shanga|NG||u|v5|cq|23
+Shālāsh|IR||7o|2uj|45t|22
+Shaftesbury|GB||9b|3xp|-63|21|Sceftonia
+Nyyazow|TM||5x|388|4n1|21|Şabat;Shabat
+Xiaoliang|CN||7i|2ls|83x|20|Shaoliang
+Shamil’kala|RU||9i|3al|3m7|20
+Shamokin|US||48|35b|-5wo|20|Šamokinas
+Shahrak-e Shāţarreh|IR||7o|2qv|3yh|20
+Shabo|UA||98|3k5|2cf|1z|Szabo;Chabo;Șaba-Târg;Schabo-Kolonie;Schabo-Possad;Acha-Abag;Saba Tarc;Khabag;Sjabo;Šabo;Schabo
+Sharhorod|UA||98|3re|260|1z|Charhorod
+Shangxing|CN||7i|1r5|8s7|1y
+Shortandy|KZ||5s|3zm|5h7|1y|Shartandy
+Shalamzār|IR||7o|2h1|3x6|1x
+Shanyang|CN||7i|223|975|1w
+Shangzi|CN||7i|1qq|8sf|1w
+Shanling|CN||7i|2am|8dq|1w
+Sharanga|RU||9i|4eu|3la|1v|Sjaranga
+Shalya|RU||7z|4f1|4j5|1v|Sjalja
+Shanwangping|CN||7i|28z|8a3|1t
+Sharkan|RU||9p|4f6|45n|1t|Sjarkan
+Shakhbout City|AE||6c|1vp|47s|1t
+Shaffa|NG||u|t7|y9|1t
+Shahrak-e Pābedānā|IR||7o|2eh|4co|1t
+Shahrak-e Salmān Fārsī|IR||7o|2hg|3q4|1s|Shahrak-e Salmān-e Fārsī
+Shajiang|CN||7i|22e|999|1r|Sha-chiang
+Shatrovo|RU||7z|4d0|4zj|1r|Sjatrovo
+Shahe|CN|Chongqing|7i|2c4|8at|1q
+Shankrampet|IN||6t|1e5|60f|1q|Shankarampet A
+Shahrak-e Madanī|IR||7o|2cv|3su|1p
+Sharkovshchina|BY||9g|49t|24b|1n|Sharkowshchyna;Szarkowszczyna;Szarkowszczyzna;Sharkovshchyzna;Sharkovshchizna;Sharkawshchyna
+Shāhpūrābād|IR||7o|2j8|3zq|1n|Shāpūrābād
+Shashe Mooke|BW||m|-1mv|242|1n
+Shawmont|US||48|339|-5t0|1n
+Shady Side|US||48|2zw|-5wj|1m|Shadyside
+Shamkhal-Termen|RU||9i|3bj|3nf|1m|Sjamkhal-Termen
+Shahrak-e Qamşar|IR||7o|2qn|3ys|1l
+Sharon Hill|US||48|32v|-5t3|1l
+Shatsk|RU||9i|462|37w|1l|Sjatsk;Schazk;Chatsk;Šack;Šatsk;Sjatsk i Russland
+Shangping|CN||7i|2my|83a|1l
+Sharon|US|Massachusetts|48|390|-5hq|1l
+Shankar|IN||6t|2ej|5tt|1k
+Shantobe|KZ||5s|41p|59d|1k|Shangtöbe;Shantyube
+Sharan|RU||7z|48a|45z|1k|Sjaran
+Shādbād-e Mashāyekh|IR||7o|2xj|3ks|1j|Shāh Ābād-e-Mashāyekh;Shādābād-e Mashāyekh
+Shangan|CN||7i|28s|8cz|1i
+Shahrak-e Emām Ḩasan|IR||7o|2ql|3yn|1i
+Shahrinav|TJ||6d|2z5|59t|1i|Shakhrinay;Shakhrinau;Shakhrinav
+Shalazhi|RU||9i|3bp|3i0|1h|Sjalazji;Makane-Khotar;Podgornoe;Konëv;Podgornoye
+Shatsk|UA||98|3z2|1ui|1h|Shats’k
+Zharrëz|AL||9y|353|1il|1g|Sharreza;Zharrësi;Zharrësa;Zharrës
+Shahdād|IR||7o|2ci|4gb|1g
+Shaqqā|SY||69|2je|2ty|1f|Chaqqa
+Shaw Heights|US||2p|32p|-83s|1f
+Shalmān|IR||7o|2v8|3vh|1f|Shalimān
+Shohimardon|UZ||65|332|5jh|1f|Shaymardan;Chakhimardan;Şahimerdan;Shakhimardan;Shakimardan;Shahimardan
+Shazui|CN||7i|1qk|8sr|1f
+Shannon|CA||59|3m8|-5in|1f
+Shahe Jiangong|CN||7i|1qn|8sn|1f
+Shanor-Northvue|US||48|35n|-660|1f
+Shady Hollow|US||2f|2bs|-7ju|1e
+Goth Shams Pir|PK||6q|1x0|55w|1e|Shams Pīr
+Sha Tau Kok|HK||6i|1qn|8ta|1e
+Sharabīān|IR||7o|2x8|3mu|1d|Sharabeyān;Sharabīyān
+Shahrak-e Bābā Salmān|IR||7o|2r2|3y0|1d
+Sha'biyyat Milе̄hah|AE||6c|1xu|4b8|1c
+Shazikou|CN||7i|2sc|9au|1c|Sha-tzu-k’ou
+Shahr Derāz|IR||7o|23i|4op|1a|Shāh Derāz;Shahderāz;Shahrdarāz
+Shahbuz|AZ||61|31h|3il|1a|Şahbuz;Sahnuz;Shakhbuz
+Shām Churāsi|IN||6t|2fi|5uf|18
+Shahumyan|AM|Ararat|80|32y|3ft|18|Shaumyan;Shahumian
+Shaijing|CN||7i|2mf|856|18
+Shabelkivka|UA||98|3rf|2w5|18|Shabel'kovka;Shabel’kivka
+Shāhpur|IN|Madhya Pradesh|6t|1po|60f|17
+Sharpsville|US|Pennsylvania|48|36m|-67j|17
+Shahrak-e Almahdī|IR||7o|2kw|3th|17
+Shahrak-e Shahīd Moḩammad Nūrī|IR||7o|2gx|3rn|17
+Sharafkhāneh|IR||7o|2y2|3id|16|Sharifkhane;Sheraf-Khane;Sharifkhaneh
+Shalinskoye|RU||6u|4as|78f|16|Sjalinskoje
+Shatalovo|RU||9i|46x|2i5|15|Sjatalovo
+Shabāb|IR||7o|2lr|3lk|15
+Sharlston|GB||9b|453|-3x|14
+Shangwei Yuanxin|CN||7i|1qs|8s9|14
+Shakar|IN||6t|2gt|5si|14|Shikar
+Shallotte|US||48|2md|-61r|14
+Shawnigan Lake|CA||5b|3r5|-9jg|13
+Shabla|BG||9v|3cy|279|13|Şabla
+Shabrovskiy|RU||7z|4dc|4oa|13|Sjabrovskij
+Shahjangi|IN||6t|1y3|6pj|13
+Shablykino|RU||9i|42u|2ps|12|Sjablykino
+Shahrak-e Emam|IR||7o|285|48u|12
+Shangani|ZW||n|-1iy|29l|12
+Shalqīya|KZ||7d|3e9|579|12|Shalkiya
+Shahrabad|IR|Bushehr|7o|28m|3yd|12|Ābād
+Shannon Hills|US||2f|2o6|-74o|12
+Shahrak-e Mohājerīn|IR||7o|2hv|3qm|12|Shahrak-e Mohājerān
+Shadyside|US||48|331|-68b|11|Shady Side
+Shark River Hills|US||48|33n|-5pp|11
+Shan Te Gyi Upper|MM||7y|1bc|7fi|10
+Shamary|RU||7z|4fa|4hq|10|Sjamary
+Shavano Park|US||2f|2a6|-7lr|z
+Shalvey|AU||8l|-2lp|bmx|y
+Sharpes|US||48|26z|-68c|y
+Sharpsburg|US|Pennsylvania|48|34h|-661|y
+Shackelford|US||3p|2wh|-9c3|y
+Shannondale|US||48|30y|-605|y
+Shapu|CN||7i|1ra|8s7|x
+Shaturtorf|RU||9i|4ad|31i|x|Sjaturtorf
+Sha Bwa|MM||7y|1a5|7ei|x|Shar Bwar;Shabwa
+Shaami-Yurt|RU||9i|3c3|3i3|w|Sjaami-Jurt;Šaami-Jurt;Şaman-Yurt;Şawmin-Yurt;Zelënaja Rošča;Shama-Yurt;Zelenaya Rosha;Shaman-Yurt
+Shabian|CN||7i|1qs|8s9|w
+Shahriyar|AZ||61|34t|3r4|w
+Shalanky|UA||98|3pz|1rk|w|Sjalanky;Shalanki;Ŝalanki;Salánk;Šalankõ;Šalanky
+Shanmen|CN|Hunan|7i|23n|8jh|v
+Shangqi Village|TW||7l|1vt|94e|v
+Shaumiani|GE||7n|36v|3gc|v|Shulaveri;Naghvarevi;Sjaumiani;Szaumiani;Shulavery;Shaumyani;Schaumjani;Saulaveri
+Shanxia|CN||7i|1xa|968|v
+Shata|ZA||o|-1wt|2e8|v
+Sha Tin Pass Estate|HK||6i|1q3|8t8|v
+Sharga|MN||7s|3s8|7vl|u
+Shalyhyne|UA||98|3z9|2mt|u|Schalyhyne;Shalgino;Chalyhyne;Šalyhyne;Şalıgıne;Szałyhyne;Șalîhîne;Shalygino;Shul’gino
+Shamīl-e Bālā|IR||7o|266|4bt|u
+Shady Spring|US||48|2wr|-69a|u|Shadyspring
+Shady Cove|US||3p|3ad|-9h5|t
+Shady Shores|US||2f|2k5|-7hj|t
+Shackle Island|US||2f|2t1|-6om|s
+Shangecun|CN||7i|1qq|8se|s
+Shakhta|RU||7z|4k5|4g6|s|Sjakhta
+Shnogh|AM||80|36b|3gk|s|Shnox;Shanikh;Shen;Shiniz;Shinikh;Shinogh;Shnoz;Shnokh
+Shalakusha|RU||9i|4su|33t|r|Sjalakusja
+Shafranovo|RU||7z|45x|485|q|Sjafranovo
+Shamsābād|IR|Chaharmahal and Bakhtiari|7o|2hd|3x9|q|Shamshābād
+Shallowater|US||2f|2ll|-7vc|q
+Shabel’skoye|RU||9i|3m5|2yv|p|Shabel'sk;Sjabelskoje;Shabei’sk
+Shahumyan|AM|Lori|80|359|3fr|p|Shaumyan;Shahumian
+Shahrak-e Towḩīd|IR||7o|2hp|3qj|p
+Shapleigh|US||48|3cy|-5gt|o
+Shuyskoye|RU||9i|4kx|35z|o|Sjujskoje;Shuiskoe;Shayskoye
+Shahrestān|IR||7o|2vy|3ud|o|Shagrestan
+Sharovechka|UA||98|3ta|22s|o|Sharovochka
+Sheragul|RU||6k|47a|7sb|o|Sjeragul;Sharagul
+Shawbury|GB||9b|42n|-7e|n
+Shahrak-e Kheybar|IR||7o|2hb|3qt|n
+Shādbād-e ‘Olyā|IR||7o|2xi|3ky|m|Shādābād-e ‘Olyā
+Sharan|AF||6o|2k6|5ax|m|Şaran
+Shawnee Hills|US|Ohio|48|325|-6gr|m
+Shangaly|RU||9i|4pt|3cd|m|Sjangaly
+Shad Bay|CA||35|3fo|-4x7|l
+Shawnee Slopes|CA||2s|3xh|-8sw|k
+Sha‘ar Efrayim|IL||6n|2hp|2p8|k|Sha'ar Efraim
+Shavertown|US||48|36s|-5uy|k
+Sharpton/Glenvale|CA||59|3f5|-5wu|k
+Sharpsburg|US|North Carolina|48|2rn|-607|k
+Shahrak-e Nahāl Va Baz̄r|IR||7o|2rf|3xj|k
+Shamrock|US|Texas|2f|2pt|-7qh|k
+Sha‘alvim|IL||6n|2gj|2p7|k
+Shahrak-e Kūlūrī|IR||7o|2hv|3qn|j|Shahrak-e Kalūlī
+Koti|AM||80|369|3hd|j|Shavarshavan;Şavarşevan;Kot;Kotkend;Noti
+Sha‘abjereh|IR||7o|2e9|4c5|j|Shabjereh
+Shawnee Land|US||48|30v|-61n|j|Shawneeland
+Shannon|US|Georgia|48|2ne|-6kb|j
+Shevīr|IR||7o|2so|3sd|j|Shavīr
+East End|KY||2e|1hm|-69c|i|Sharq Uchi
+Shaw|US|Mississippi|2f|2lc|-705|i
+Shaowa|CN||7i|2p6|7zo|i
+Sharnbrook|GB||9b|413|-1i|i
+Shadeland|US||38|345|-6pj|i
+Shahrak-e Beheshtī|IR||7o|2v8|48p|i
+Shatoy|RU||9i|3b3|3ix|i|Šatoj;Sovetskoe;Şüyta-Ġala;Xatoi;Șatoi;Şüyta;Sovetskoye;Shatoi
+Shamsābād|IR|Sistan and Baluchestan|7o|23j|4np|i|Shemsābād
+Aromatne|UA|Crimea|9t|3h4|2nk|i|Şaban Oba;Shaban-Oba;Rosenthal
+Shannon|US|Mississippi|2f|2ms|-6uf|i
+Shasta|US||3p|34s|-9g9|i
+Shaganappi|CA||2s|3xs|-8t1|i
+Shatin|AM||80|32o|3hu|h|Shatik;Hasankand;Gasankend;Hesan Kand;Schatin;Šatina;Sjatin;Szatin;Şatin
+Shamrock|US|Texas|2f|2ik|-7h5|h
+Shamokin Dam|US||48|35h|-5xe|h|Shanokin Dam
+Shamanka|RU||6k|40n|80e|h|Sjamanka
+Sharivka|UA|Kharkiv|98|3uy|2qh|h|Sharovka
+Shakhi|RU||63|446|6fk|h|Sjakhi
+Shāhīnī|IR||7o|2p1|3lz|h|Shaīnī
+Shaunavon|CA||4q|3tx|-8d6|h
+Shannon|US|Georgia|48|2ks|-6in|h
+Perry Park|US||2p|312|-83n|g|Shash Bikooh
+Shannon|NZ||ak|-34n|dja|g
+Sharalday|RU||6k|3xq|8b0|g|Sjaraldaj;Sheralday
+Sharakpur|IN||6t|2ei|5tr|g
+Sharon|US|Wisconsin|2f|3a2|-6uh|g
+Shanglin|TW||7l|1vv|94f|g|Shang-lin
+Shabīlū-ye Soflá|IR||7o|2ut|3k7|f|Shīblū-ye Soflá
+Shabīlū-ye ‘Olyā|IR||7o|2us|3k7|f|Shīblū-ye ‘Olyā
+Shamrayeve|UA||98|3q6|2by|f|Shamraieve
+Shahrak-e Nāmjū|IR||7o|23y|4ch|e
+Şahman|TM||5x|2yp|47a|e|Shakhman
+Sharon|US|Mississippi|2f|2gb|-6vi|e
+Sharbot Lake|CA||59|3gd|-5x1|e
+Shattuck|US||2f|2ss|-7pg|e
+Shahr Kolā|IR||7o|2tj|40g|e
+Sherkaly|RU||7z|4uc|51w|e|Sjerkaly;Sharkaly
+Shadwell|GB|England|9b|45l|-43|e
+Shave Tsiyyon|IL||6n|2jm|2pg|d|Shavé Ẕiyyon;Shavei Tzion;Shave Zion;Shavei Zion;Shavei Tsiyon;Shave Tsiyon
+Shangcang|CN||7i|32u|923|d|Shang-ts’ang
+Shawsville|US||48|2v9|-66y|d
+Sharon|AU||8c|-1x4|bqz|d
+Shandon|US||3p|2r2|-9ae|d
+Shadoxhurst|GB||9b|3xz|2a|d
+Shamsābād-e Borzū|IR||7o|2b9|42t|d
+Shahumyan|AM|Armavir|80|33p|3f2|d|Shaumyan;Shahumian
+Shamsī|IR||7o|2h6|46b|d
+Shayi Community|CN||7i|1r6|8s4|d
+Shap|GB||9b|47h|-7g|d
+Sharp-Leadenhall|US||48|314|-5wu|d|Sharp Leadenhall
+Shawville|CA||59|3io|-5wg|c
+Sarchapet|AM||80|36g|3fa|c|Sharshabek
+Shal’skiy|RU||9i|4ro|2s2|c|Sjalskij
+Shakar Pur Baramad|IN||6t|27i|5yo|c
+Shahīd Kāmjū|IR||7o|2t3|4lo|c
+Shamiram|AM||80|33w|3ei|c|Shamiran
+Shawneetown|US||2f|2wr|-6sz|c
+Shaburnovo|RU||9i|4d3|2xd|c|Sjaburnovo
+Shaki|AM||80|31w|3js|c|Shak’i;Shaqi
+Shamsābād|IR|Kerman|7o|248|4gu|c
+Shalīvand|IR||7o|2vv|3l0|b|Shalilvand
+Shāhānpur|BD||6a|1tz|6vj|b|Shāhāpur;Sahapur
+Ashaghi Aghjakand|AZ||61|34a|3lc|b|Shaumyanovsk;Chahoumian;Aşağı Ağcakend;Shahoumian
+Shanghua|CN||7i|1qq|8se|b
+Vahagni|AM||80|35n|3fx|b|Shagali;Shahali;Vaagni
+Shafer|US||2f|3i3|-75n|a
+Shandryholove|UA||98|3sd|2ws|a|Shandrigolovo
+Sharpness|GB||9b|3zo|-6w|a
+Shaw|GB||9b|44t|-5s|a
+Shaybah|SA||7e|1qr|46a|a
+Shady Point|US||2f|2pl|-7ay|a|Shadypoint
+Sharnford|GB||9b|41w|-3l|a
+Shanglian|CN||7i|20c|95l|a
+Shawan|CN|Hunan|7i|23k|8hn|a|Shavan’
+Shakhtne|UA||98|3pa|2yc|a|Schachtne;Şahtne;Shakhtnoye
+Shaked|PS||6n|2i7|2pp|a
+Shahrak-e Dastgheyb|IR||7o|27r|42e|a
+Shahrak-e Valī‘aşr|IR||7o|2km|3mj|9|Shahrak-e Valī-ye ‘Aşr
+Schaefferstown|US||48|33y|-5vx|9|Shaefferstown
+Shabbona|US||2f|381|-6uw|9
+Monteavan|AM||80|33p|3f3|9|Shahumyani t'rrch'nafabrika;Mont'eavan;Shahumyani Trchnafabrika
+Shave Shomeron|PS||6n|2hm|2pq|9|Šavej Šomron;Shavei Shomron;Szavei Szomron
+Shavand|IR||7o|2q9|3sp|9|Shāhvand;Shāhvend
+Shamir|IL||6n|2k5|2r2|9|Šamir;Xamir
+Shafir|IL||6n|2g2|2oh|9|Šafir
+Sharon|US|Tennessee|2f|2sn|-6uq|9
+Shakhove|UA||98|3qm|2vr|9|Oktyabrs’ke;Oktyabr’skoye;Schachowe;Oktjabrske;Chakhove;Šachove
+Shaghap|AM||80|32s|3gp|9|Shaxap
+Shakgwe|BW||m|-1s7|23f|9|Shakwe;Shakawe
+Shaẖar|IL||6n|2fu|2og|9
+Sheykh Maḩalleh|IR||7o|2x8|3rv|9|Shaikh Mahalleh
+Shaygino|RU||9i|4gh|3m6|9|Sjajgino
+Shahsavārān|IR||7o|2mx|3uy|9|Shāhsavār
+Shāh Manz̧ar|IR||7o|29g|402|9
+Shamsābād|IR|Fars|7o|27s|474|8
+Shabtīn|PS||6g|2gt|2pd|8|Shebtin
+Shaker Church|US||3p|3ph|-9fj|8
+Shahrābād|IR|Tehran|7o|2rg|42d|8
+Shalimar|US||2f|2cl|-6oi|8
+Shangjiang|CN||7i|202|8cb|8
+Shakhvorostivka|UA||98|3uw|2l2|8
+Sharon Springs|US|Kansas|2p|302|-7un|8
+Shareshill|GB||9b|42a|-5s|8
+Sharivka|UA|Kirovohrad|98|3qq|2j3|8|Sharovka
+Šiaulėnai|LT||a3|4ao|1t0|8|Szawlany;Shaulenay;Šiaulėnų
+Sha‘ar Ha‘Amaqim|IL||6n|2iw|2pj|7|Sha‘ar Ha‘Amakim;Sha‘ar ‘Amaqim
+Sharīfābād|IR|Yazd Province|7o|2hr|463|7
+Shawnee Hills|US|Ohio|48|33k|-6ex|7
+Shaghat|AM||80|31x|3jj|7|Shagat
+Sharon|US|Connecticut|48|38c|-5o4|7
+Shannon|US|Illinois|2f|393|-6xa|7
+Shamlugh|AM||80|36d|3g8|7|Shamlug;Schamlugh;Šamluhas;Ŝamlugh;Sjamlugh;Šamlug;Şamlıq;Szamluch;Shamlux;Shamblud;Shamblug
+Sharapova Okhota|RU||9i|48w|2w4|7|Sjarapova Okhota;Sharanova-Okhota
+Shamjārān|IR||7o|2tr|3z6|7|Sham‘ Jārān
+Sharpsburg|US|Maryland|48|31m|-5zz|7
+Shangolābād|IR||7o|2xy|3iu|7|Shingilabad;Shengelābād
+Shahrak-e Maskūnī-ye Gawātar|IR||7o|1xw|4qu|7|Gwatar;Gvātar
+Shadmot Dvora|IL||6n|2iu|2qg|7|Shadmot Devorah;Shadmot Devora
+Shadforth|AU||8k|-2p4|91r|7
+Shāhvāneh|IR||7o|2v0|3hd|7
+East End Village|AI||1i|1en|-4v0|7|East End Köyü;Sharqiy Soʻng Qishlog'i;Desa East End;Kampung East End;Pueblo East End;Village de East End;East End Dorf;Kauyeni East End;Gandaa East End;Vila East End;Tuulo East End;Kijiji cha East End
+Šack|BY||9g|44f|24y|7|Shatsk;Szack
+Shahrak-e Dūrak|IR||7o|2gb|3wx|7
+Shahīd|IR||7o|2do|3zq|7
+Shatan|CN||7i|263|877|7
+Shāmpur|IN||6t|2ec|5u6|7
+Shaptej|XK||8q|3a2|1km|7|Šaptelj;Šaptej;Shailei
+Shawnee|US|Ohio|48|320|-6cd|6
+Jajur|AM||80|35h|3e3|6|Shatjur
+Sharptown|US||48|2z2|-5uc|6|Sharp Town;Sharpetown
+Shardlow|GB||9b|42v|-3s|6
+Shaver Lake|US||3p|2v2|-97g|6
+Chāvoshī|IR||7o|27o|3yc|6|Shāvoshkī;Chavushki;Chāh Voshī
+Sharkivshchyna|UA||98|3uw|2kt|6|Sharkovshchina
+Shalfleet|GB||9b|3wu|-3y|6
+Shangliang|CN||7i|2ie|88s|6
+Shāhīk|IR||7o|2lm|4kf|6
+Shonto|US||2p|2tn|-8je|6|Shanto
+Sharpsville|US|Indiana|38|346|-6n5|6
+Shomrat|IL||6n|2jj|2ph|6|Shimrath;Shimrat;Shamerat
+Sha‘ar Menashe|IL||6n|2i5|2pa|6
+Sharona|IL||6n|2ix|2qj|6|Šarona;Szarona;Saronah
+Sharī Marī|IR||7o|2fq|3rs|6|Sherī Merī
+Shānejān|IR||7o|2y7|3j0|6|Shānjān
+Shalbourne|GB||9b|3yo|-4b|6|Shalbourn
+Shady Grove|US||2f|2ru|-7c5|6
+Shahrestānak|IR|Tehran|7o|2rx|3yn|6|Shahristānak
+Shahrestānak|IR|Tehran|7o|2qj|3y6|6|Shahrestān
+Sharow|GB||9b|46e|-47|6
+Sharon|US|South Carolina|48|2p3|-69y|6
+Siá|CY||73|2p4|2kr|6|Sha
+Sha‘ar HaGolan|IL||6n|2it|2qw|5
+Shanagarry|IE||8z|401|-mb|5|An Seangharraí
+Shapwick|GB||9b|3y2|-7v|5
+Shaian|UA||98|3pi|1su|5|Shayan
+Sharānlū|IR||7o|2v8|3jv|5|Şaranlı
+Sharon Springs|US|New York|48|3aw|-5ra|5
+Shaw|AU||8c|-1hi|bbi|5
+Shabelnyky|UA||98|3u1|2g9|5|Shabel’niki
+Shalva|IL||6n|2fo|2ol|5|Šalva;Shalwa
+Shaulykha|UA||98|3s3|2cy|5|Rokoshvar;Schaulicha;Rokoschwar;Szaulicha;Rokoszwar;Rokosvár;Sauliha;Shaulikha

@@ -1,0 +1,155 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+St. Louis|US||2f|2zb|-6yk|25p|San Luis;Saint Louis;Saint-Louis;Sankta Luiso;St Louis;Sent-Luis;Sent Luisas;Sentluisa;Urbs Sancti Ludovici;Sent Loisos;Sint-Louis;Saint Louis City;Saint Lewis
+Saint-Louis|SN||g|18i|-19t|1ym|Saint Louis;Sen Luji;Sen Lui
+Saint-Louis-de-Terrebonne|CA||59|3iy|-5oz|xb
+Saint-Laurent|CA||59|3ie|-5on|rg|St Laurent
+Saint-Léonard|CA|Quebec|59|3in|-5og|m3
+Arzew|DZ||3|2rl|-w|g6|Saint-Leu;Arzeu;Arzen
+Saint-Louis|RE||ai|-1n5|49x|ez
+Saint Louis Park|US||2f|3gv|-77b|cl|St. Louis Park
+Saint-Leu|RE||ai|-1mt|49l|9p
+Saint-Laurent-du-Var|FR||9k|3db|jz|87|Sant Laurenç de Var
+Saint-Leu|FR||9k|3lt|ci|85
+Saint-Laurent-du-Maroni|GF||2d|fa|-463|6r|Sen Loren du Maroni
+Saint-Lô|FR||9k|3sg|-31|61|Briovera
+Saint-Louis|FR|Grand Est|9k|3o7|l0|5t|St. Ludwig;St. Louis
+Saint-Lazare|CA||59|3i4|-5px|5j
+Saint-Lin-Laurentides|CA||59|3jd|-5ox|4v
+Saint-Loup|FR|Provence-Alpes-Côte d'Azur|9k|3c8|f3|4h
+Saint-Leu-la-Forêt|FR||9k|3s6|69|4h
+Saint-Louis du Nord|HT||4j|1jd|-5m0|3a|Sen Lwi di Nò
+Saint-Lazare|FR||9k|3cb|ex|2t
+Saint Leonards-on-Sea|GB||9b|3xa|1j|2s|St Leonards-on-Sea;St Leonards on Sea;St Leonards;St. Leonards-on-Sea
+Saint-Lambert|FR||9k|3c9|ew|2n
+Saint-Louis|FR|Provence-Alpes-Côte d'Azur|9k|3cf|ew|2k
+Saint-Laurent-de-la-Salanque|FR||9k|3at|8b|2b|Sant Llorenç de la Salanca
+Saint-Loubès|FR||9k|3gs|-17|25|Sent Lobés;St Loubès
+Saint Louis|US||2q|3cl|-6j1|23
+Saint-Lys|FR||9k|3cv|3a|1p|Sent Lis;St.-Lys
+Saint-Laurent-Blangy|FR||9k|3vp|7t|1l|Saint-Leurint-Blangy
+Saint-Laurent-sur-Sèvre|FR||9k|3mg|-2h|1c
+Saint-Laurent-de-Mure|FR||9k|3ix|e0|1c
+Saint-Léonard-de-Noblat|FR||9k|3jc|45|1b|Sent Liunard
+Saint-Laurent-du-Pont|FR||9k|3i3|fx|1a
+Saint-Lubin-des-Joncherets|FR||9k|3rh|3e|19
+Saint-Loup-sur-Semouse|FR||9k|3p0|hg|18
+Saint-Léonard|FR|Hauts-de-France|9k|3wt|4j|15
+Saint-Laurent-Nouan|FR||9k|3ok|4g|12
+Saint Louis|SC||ae|-cu|4a0|11|Sankt Louis;St.Louis
+Saint-Lyphard|FR||9k|3no|-6f|z|Sant-Lefer
+Saint-Léger-du-Bourg-Denis|FR||9k|3tb|38|w
+Saint-Léger|BE|Wallonia|8t|3tt|fq|v
+Saint-Léger-sous-Cholet|FR||9k|3mt|-2j|s
+Saint-Lyé|FR||9k|3qd|b4|r
+Saint-Léonard|CA|New Brunswick|43|3n0|-58o|r|Saint Leonard
+Saint-Lunaire|FR||9k|3r3|-5v|p|Sant-Luner
+Saint-Lambert-de-Lauzon|CA||59|3lf|-5ht|o
+Saint Leonards|AU|Victoria|8j|-2y1|b60|o
+Saint-Lambert-la-Potherie|FR||9k|3nw|-1w|o
+Saint-Lupicin|FR||9k|3kw|g3|m
+Saint-Léger-des-Vignes|FR||9k|3m4|9l|l
+Saint-Liguori|CA||59|3jt|-5od|l
+Saint-Louis-de-Montferrand|FR||9k|3gv|-1h|k|Sent Loís de Montferrand;Sent Loís de Mont Ferrand;Saint Louis-De Monferrand
+Saint-Léon-sur-l'Isle|FR||9k|3hb|1e|k
+Saint Leonards|AU|Tasmania|8g|-376|bcw|k
+Saint-Louis-de-Gonzague|CA||59|3hl|-5pk|k
+Saint-Léonard|CH||a7|3kh|km|j
+Saint-Loup-Cammas|FR||9k|3de|44|j
+Saint-Laurent-de-Chamousset|FR||9k|3j2|ce|j
+Saint-Laurent-des-Arbres|FR||9k|3ed|d2|j|St Laurent des Arbres;Sent Laurenç deis Aubres
+Saint Lawrence|US||48|341|-5ur|i
+Saint-Laurent-sur-Saône|FR||9k|3kn|dg|i
+Saint-Léger-lès-Domart|FR||9k|3v1|5y|i
+Saint-Laurent-en-Grandvaux|FR||9k|3le|gj|i
+Saint-Liboire|CA||59|3it|-5m4|i
+Saint-Lumine-de-Coutais|FR||9k|3mp|-4t|i|Sant-Leven-ar-C'hoad;Sant-Leven-ar-Choad
+Saint-Léonard|FR|Normandy|9k|3u6|10|h
+Saint-Lizier|FR||9k|3bg|36|h|Sent Líser;Lugdunum Consoranorum
+San Leonardo in Passiria|IT||9o|3m1|v9|h|St. Leonhard in Passeier;Sankt Leonhard in Passeier;Fanum Sancti Leonardi;St. Leonhard im Passeiertal;St Leonhard in Passeier;Saint Leonhard in Passeier
+Saint-Laurent-de-la-Plaine|FR||9k|3ng|-28|g
+Saint-Laurent-des-Autels|FR||9k|3nd|-3b|g
+Saint-Lucien|CA||59|3jf|-5kr|g
+Saint-Lambert-du-Lattay|FR||9k|3ne|-1r|g|Saint-Lambert-de-Lattay
+Saint-Laurent-de-l'Île-d'Orléans|CA||59|3m6|-5h8|f
+Saint-Laurent-de-Brévedent|FR||9k|3tl|p|f
+Saint-Louis du Sud|HT||4j|1eq|-5ob|f|Sen Lwi di Sid
+Saint-Laurent-sur-Gorre|FR||9k|3j5|2o|f
+Saint-Léger-des-Bois|FR||9k|3nu|-1z|f
+Saint-Laurent-de-la-Prée|FR||9k|3jq|-2w|f
+Saint-Lumine-de-Clisson|FR||9k|3ms|-3q|f|Sant-Leven-Klison
+Saint-Léger-en-Yvelines|FR||9k|3rc|4x|e|Sanctus Leodegarius in Acquilina;Saint-Léger-en Yveline
+Saint-Laurent-du-Pape|FR||9k|3gi|d9|e
+Saint-Laurent-en-Royans|FR||9k|3h3|et|d|Sant Laurenç de Roians
+Saint Leo|US||48|26q|-6ci|d
+Saint-Léonard-d'Aston|CA||59|3k3|-5l1|d
+Saint Lucia|ZA||o|-26u|2i1|d|St Lucia;St. Lucia
+Saint-Léger-sur-Dheune|FR||9k|3m5|cw|d
+Saint-Louis-du-Ha! Ha!|CA||59|3of|-5bm|d
+Sant Llorenç de Cerdans|FR||9k|39q|79|d|Saint-Laurent-de-Cerdans
+Saint-Léger-les-Vignes|FR||9k|3my|-4t|c|Sant-Lezer-ar-Gwiniegi
+Saint-Léonard|FR|Grand Est|9k|3py|ja|c
+San Lorenzo di Sebato|IT||9o|3lz|x3|c|St. Lorenzen;Fanum Sancti Laurentii Saevatiensis;Sankt Lorenzen;Saint Lorenzen
+Saint-Laurent|FR|Grand Est|9k|3u8|d9|c
+Saint-Léger-de-Montbrun|FR||9k|3mk|-d|c
+Saint-Lattier|FR||9k|3h9|eg|b
+Saint-Louis-de-Blandford|CA||59|3kh|-5k1|b
+Saint-Lary-Soulan|FR||9k|3ay|w|b|Sent Lari e Sola;Sainte-Lary-Soulan
+Saint-Léger-sur-Roanne|FR||9k|3jw|b4|a
+Saint-Lon-les-Mines|FR||9k|3d5|-35|a
+Saint-Lyé-la-Forêt|FR||9k|3pg|5i|a
+Saint-Louis de Kent|CA||43|3lu|-50h|a
+Saint-Léon-le-Grand|CA||59|3qe|-57j|a
+Saint-Laurent-de-Cognac|FR||9k|3iy|-15|a
+Saint-Loup-de-Naud|FR||9k|3qt|8w|9
+Saint-Laurent-des-Hommes|FR||9k|3h4|p|9|Sent Laurenç daus Urmes
+Saint-Lager|FR||9k|3k3|cz|9
+Saint-Loup|FR|Auvergne-Rhône-Alpes|9k|3jh|ch|9
+Saint-Laurent-les-Tours|FR||9k|3go|5a|9
+Saint-Langis-lès-Mortagne|FR||9k|3qs|1j|9
+Saint-Laurent-de-Neste|FR||9k|3bo|1c|9
+Saint-Luperce|FR||9k|3qk|3o|9
+Saint-Léger-aux-Bois|FR||9k|3tg|88|9
+Saint-Léon|FR|Occitanie|9k|3ck|4c|8
+Saint-Lormel|FR||9k|3qv|-67|8|Sant-Loheñvel
+Saint-Lubin-de-la-Haye|FR||9k|3rm|4d|8
+Saint-Laurent-sur-Manoire|FR||9k|3hf|27|8|Sent Laurenç de Manoira;Sent Laurenç de Manoire
+Saint-Laurent-des-Vignes|FR||9k|3gi|19|8|Sent Laurenç de Brageirac;Sent Laurenç de las Vinhas
+Saint-Lubin-en-Vergonnois|FR||9k|3o9|3f|8
+Saint-Louis|CA||59|3je|-5mq|8
+Saint-Laurent-d'Oingt|FR||9k|3jm|co|8|Saint-Laurent-dOingt
+Saint-Laurent-de-Céris|FR||9k|3jm|1c|8|Sent Laurenç
+Saint-Loup-Géanges|FR||9k|3mf|dm|8
+Saint-Laurent-en-Gâtines|FR||9k|3o7|26|8
+Saint-Laurent-les-Églises|FR||9k|3jn|46|7|Saint-Laurent-les Eglise
+Saint-Laurent-du-Mottay|FR||9k|3nj|-2n|7
+Saint-Laurent-en-Caux|FR||9k|3u7|2g|7
+Saint Leonard|US||48|2yv|-5wj|7|St. Leonard
+Saint-Laurent-de-la-Cabrerisse|FR||9k|3bo|7i|7
+Saint-Louis|FR|Grand Est|9k|3rc|jz|7
+Saint-Léger|BE|Wallonia|8t|3wv|97|7
+Saint-Lager-Bressac|FR||9k|3g5|d3|7
+Saint-Lézin|FR||9k|3n9|-25|7
+Saint Leon|US||48|315|-6k0|7
+Saint-Laurent|FR|Auvergne-Rhône-Alpes|9k|3jx|ho|7
+Saint-Léon|FR|Auvergne-Rhône-Alpes|9k|3kw|a9|7
+Saint-Léger-près-Troyes|FR||9k|3q0|bc|6
+Saint-Laurent-la-Vernède|FR||9k|3ej|ce|6
+Saint Libory|US||2f|2yk|-6x7|6
+Saint-Léolin|CA||43|3op|-511|6
+Saint-Loup|FR|Auvergne-Rhône-Alpes|9k|3kr|9e|6
+Saint Lucie|US||48|24d|-676|6
+Saint-Laurent-de-Terregatte|FR||9k|3qx|-3i|6
+Saint-Livres|CH||a7|3l7|hr|6
+Saint-Lieux-lès-Lavaur|FR||9k|3dl|4w|6
+Saint-Louis-lès-Bitche|FR||9k|3s3|kf|6|Münzthal-Saint-Louis
+Saint-Léger-Magnazeix|FR||9k|3kl|3h|6|Saint-Léger-Magnozeix
+Saint-Laurent-la-Conche|FR||9k|3iw|bp|6
+Saint-Léonard-en-Beauce|FR||9k|3ov|3u|6
+Saint-Laurent|FR|New Aquitaine|9k|3k9|5g|5
+San Lawrenz|MT||9e|2s6|13g|5|Saint Lawrence;San Laurenz
+Saint-Loup|FR|Normandy|9k|3r7|-3m|5
+Saint-Léger|FR||9k|3iq|-1m|5
+Saint-Léger-sous-Beuvray|FR||9k|3mc|be|5
+Saint-Léger-du-Bois|FR||9k|3ml|cd|5
+Saint-Laurent-de-Gosse|FR||9k|3cx|-3j|5
+Saint-Léonard-des-Bois|FR||9k|3qb|-8|5

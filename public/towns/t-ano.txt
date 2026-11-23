@@ -1,0 +1,57 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Lorient|FR||9k|3on|-9d|g5|An Oriant;Lorjanas;Oriens
+Áno Liósia|GR||8p|2xs|1tu|9c
+Omagh|GB||9b|47o|-ka|5v|An Ómaigh;Oma;Omey
+Annonay|FR||9k|3ho|cz|54|Anonė;Anonai
+Anori|BR||3t|-ah|-4r8|4z|Anory
+Anoka|US||2f|3hk|-77f|4u
+Pallíni|GR||8p|2xl|1uc|44|Áno Kharváti;Palinis;Palini;Pallene
+Anonkoua|CI||0|f3|-b9|3y
+Anolaima|CO||27|d8|-5qu|3e
+Anoumaba|CI||0|hm|-ck|24|Anumaba
+Anno|CI||0|ga|-c6|24|Ano
+Anoixi|GR||8p|2xx|1ua|1u|Anixi;Bojati;Aniksi;Boyáti
+Anonang|PH||71|uk|9kj|1l
+Añover de Tajo|ES||9d|333|-ah|1f
+Ano Arhanes|GR||8p|2pv|1xx|13|Áno Arkhánes
+Anougbakro|CI||0|jc|-ae|12|Anombakro;Anoumbakro
+Anor|FR||9k|3uv|be|w
+Anould|FR||9k|3pv|jb|u
+Anoumabo|CI||0|jp|-az|u
+Anoring|PH||71|v9|9hr|t
+Anoumabou|CI||0|fm|-e7|r
+Anopog|PH||71|sh|9id|r
+Anuling|PH|Bicol Region|71|10p|9jk|r|Anoling
+Anógeia|GR||8p|2q1|1x4|p|Anoghia;Anógia
+Annone di Brianza|IT||9o|3j8|px|m|Annonum;Anon
+La Fresnais|FR||9k|3r0|-54|l|An Onneg
+Anopino|RU||9i|4aq|34z|k
+Hôpital-Camfrout|FR||9k|3q9|-bs|i|An Ospital
+Añora|ES||9d|2yq|-dm|f
+Áno Merá|GR||8p|2w1|1yj|f
+Anonkro|CI||0|fi|-9v|e
+Áno Kómi|GR||8p|33r|1on|d
+Áno Lekhónia|GR||8p|319|1s1|c
+Áno Sýros|GR||8p|2w1|1xa|b|Ano Syra;Áno Síros
+Anoia Superiore|IT||9o|2yr|18q|b
+Anouanze Bokaha|CI||0|jh|-dg|b
+Annot|FR||9k|3e5|ij|b|Anòt
+Anoia Inferiore|IT||9o|2ys|18o|b|Anoia
+Áno Korakiána|GR||8p|32b|1iz|9
+Áno Poróïa|GR||8p|36p|1s0|8|Áno Porróïa
+Áno Stavrós|GR||8p|34x|1tu|8
+Áno Kastrítsi|GR||8p|2yb|1oo|7
+A Nông|VN||6h|18d|8aj|7
+Anouan Kouamikro|CI||0|k3|-dv|7
+Áno Zervochóri|GR||8p|34y|1pq|7|Áno Zervokhóri
+Anonu|TR||94|37l|2hf|7
+Áno Yerakaríon|GR||8p|2x2|1ls|7|Ano Gerakari;Áno Yerakári
+Anógeio|GR||8p|31d|1m6|7
+Áno Kamíla|GR||8p|362|1t2|7
+Anost|FR||9k|3ms|be|7
+Año de Juárez|MX||41|1by|-75x|7
+Skopiá|GR||8p|358|1nh|6|Ano Nevoliani;Nevolani
+Áno Vólos|GR||8p|31e|1ru|5
+Áno Ágios Ioánnis|GR||8p|340|1qh|5|Áno Áyios Ioánnis
+Áno Kalésia|GR||8p|2q0|1xm|5|Áno Kalésa

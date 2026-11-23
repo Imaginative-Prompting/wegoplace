@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Kunming|CN||7i|1xk|7xc|19wy|Côn Minh;Kchun-ming;Khun-bêng-chhī;Kŏng-mìng;Kuņmina;Gvwnhmingz;Kunminq
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Zaozhuang|CN||7i|2ou|92j|tr0|Cō̤-cŏng;Cao-čuang;Tảo Trang;Chó-chng-chhī
+Brooklyn|US|New York|48|34x|-5pf|l41|Broklino;Bruklinas;Comitatus Bruclinum;Bruklina;Brucclinu;Kings County
+Coimbatore|IN||6t|ul|5xt|ghl|Koimbatur;Kojambuttúr;Koyambattūr;Koyamuttūr;Koimbatore
+Córdoba|AR||1n|-2f9|-4yb|g97|Kordobo;Kordoba;Córdova;Kordova;Corduba;Kuorduoba;Kordov
+Kunshan|CN||7i|2f6|9bz|g59|Kunšanas;Côn Sơn;Kchun-šan;Kunšan;Kan-shan
+Zunyi|CN||7i|24x|88z|fq2|Dzuni;Ĝunji;Tuân Nghĩa;Cun-i;Cŏng-ngiê;Chun-gī-chhī;Cunji;Zunji
+Curitiba|BR||4w|-1yn|-3sv|f1a|Kurytyba;Kuritibo;Kuritiwa;Kuritiba;Kuriytýva;kuritcibas;Kuritiyba;Kuritib;Curityba;Curytiba;Corityba
+Conakry|GN||f|qi|-120|evo|Konakrio;Konakris;Konakri;Konakry;Conacri
+Copenhagen|DK||8y|4ao|yx|8wg|København;Köpenhamn;Kopenhago;Copenhague;Kopenhagen;Copenaguen;Copenhaguen;Kodaň;Kòpenhaga;Kopenhaagen;Kopenage;Kopenhage;Kööpenhamina;Keypmannahavn;Cóbanhávan;Koppenhága;Kaupmannahöfn;Copenaghen;Hafnia;Kopenhāgena;Copenhaga;Kobenhaven;Kopenhag;Copenaga;Kjøpenhamn;Københámman;Kjobenhavn
+Jodhpur|IN|Rajasthan|6t|20z|5mt|85e|Dźodhpur;Ĝodhpur;Džódpur;Codpur;Dzsódhpur;Džodhpuras;Džodhpura
+Jos|NG||u|rl|op|80w|Dżos;Cos
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Columbus|US|Ohio|48|330|-6ek|71o|Kolumbas;Kolumbus;Kolumbusa;Kolumbu;Kolumbs;Columbopolis;Kolumbo
+Cochabamba|BO||3n|-1ca|-53s|6hp|Kuchawampa;Quchapampa;Kočabamba;Kočabamb
+Bukavu|CD||y|-6x|284|6aw|Costermansville;Costermansstad
+Culiacán|MX||3x|1ww|-8ab|68k|Kuljakanas;Cōlhuahcān Rosales;Kulyakan;Cuilacan
+Cotonou|BJ||1b|hp|6q|58m|Kotonu;Cotonú;Kútọnu;Kotonuo;Kotonou;Catonou
+Calumbo|AO||x|-pf|11a|517|Kalumbo;Columbo;Catumbo
+Colombo|LK||68|ja|65t|500|Kolombo;Kolombas;Kolonbo;Columbum;Columbo
+Gold Coast|AU||8c|-25s|bu7|4y0|Costa Dorada;Gold
+Jeonju|KR||7h|2ri|9t7|4xc|Chŏnju;Čondžu;Džondžu;Chunju;Chŏngju;Chenju;Jeon Ju
+Comilla|BD||6a|1t6|71b|4wb|Kumilla;Komila
+Kochi|IN||6t|rm|5vu|4w0|Koczin;Cochim;Cochín;Ernakulam
+Contagem|BR||4w|-1jd|-3ed|4u7
+Coyoacán|MX||41|1hr|-7ng|4qo
+Zhoukou|CN||7i|2ld|8uh|3wc|Tsjoukou;Čou-kchou;Juko shehiri;Chu Khẩu;Ciŭ-kāu;Chiu-kháu-chhī;Chou-k’ou
+Santo Domingo de los Colorados|EC||33|-p|-63y|3je|Santo Domingo
+Colorado Springs|US||2p|2zv|-836|3iu|Kolorado Springsas;Kolorādospringsa;Fontes Coloratenses;Kolorado Sprinqs;Colorado Spgs
+Constantine|DZ||3|2t1|id|3gg|Cirta;Constantina
+Cusco|PE||3o|-11l|-5jx|3b1|Cuzco;Ciudad del Cuzco;Kusko;Qusqu;Kuskas;Cuschum;Cuscu;Cosco
+Sunshine Coast|AU||8c|-222|bt8|32s|Costa de Sunshine;Côte du Soleil;Costa do Sunshine
+Vitória da Conquista|BR||20|-15b|-35g|326|Vitorija da Konkista
+Cotabato|PH||71|k2|9l5|2yi|Kotabato;Kota-Bato;Cottabato;Catabate;Catabato
+Kollam|IN||6t|oo|5wq|2tz|Quilon;Coulão;Kolamo
+Keelung|TW||7l|1xt|9e6|2sp|Chilung;Cơ Long;Kî-lùng-sṳ;Giĕ-lè̤ng;Ťi-lung;Ke-lâng-chhī;Chi-lung

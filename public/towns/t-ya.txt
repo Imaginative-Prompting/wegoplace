@@ -1,0 +1,817 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jakarta|ID||6l|-h9|88t|1tw9|Batavia;Yakarta;Ĝakarto;Iacarta;Džakarta;Giacarta;Cakarta;Xhakarta;Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî;Yajgyadaz;Xacarta;Big Durian;Sakata;New York Van Java;Jakartè;Sundapura;Sunda Kelapa;Koningin van het Oosten;Jogkarta;Jacarta;Jayakarta
+Yantai|CN|Shandong|7i|2w4|9dc|1ist|Chefoo;Jen-tchaj;Jantaj;Yên Đài;Iĕng-dài;Jantai;Ian-tâi-chhī;Yen-t’ai
+Yangzhou|CN|Jiangsu|7i|2i0|97s|z6m|Yangjo shehiri;Janĉĵou;Jang-čou;Dương Châu;Yangtsjou;Iông-chiu-chhī;Iòng-ciŭ;İnçiü;Jangdžov;Yangchow;Yang-chou
+Yangon|MM||7y|1ap|7f4|yjs|Rangun;Rangoon;Rangoun;Rangūnas;Rangum;Jangona;Jangono;Ngióng-kông;Jangún;Rangon;Yanqon;Jangon;Yangjgvangh;Yankoun
+Yancheng|CN||7i|2ko|99s|cgt|Jen-čcheng;Janĉengo;Diêm Thành;Sièng-siàng;Yen-ch’eng
+N'Djamena|TD||17|xn|15s|ahn|Nĝameno;Ndjamena;Ndżamena;Yamena;Indschamina;Ndjemena
+Yaoundé|CM||j|ar|w0|a0y|Yaundé;Jaundė;Jánde;Jaundeo;Yawunde
+Yangjiang|CN||7i|1oq|8n0|9z6|Iòng-gŏng;Jang-ťiang;Yòng-kông-sṳ;Dương Giang;Iông-kang-chhī;Yang-chiang
+Yangpu|CN||7i|2eu|9dk|9cc
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Yangquan|CN||7i|2x6|8rg|5n4|Iòng-ciòng;Jang-čchüan;Jancjuan;Dương Tuyền;Iông-choân-chhī;Yang-ch’üan
+Ya'an|CN||7i|2bb|7y4|4q1
+Yaroslavl|RU||9i|4g3|32r|4p3|Jaroslawl;Iaroslavl;Jaroslavl';Jaroslavlj;Jaroszlavl;Iaroslavia;Jaroslavlis;Jaroslavļa;Jaroslavľ;Jaroslavelj;Jarosław
+Rahim Yar Khan|PK||6q|26y|5fa|3zm|Rahimyar Khan;Rahimjar Khan;Rahim Jar Ĥan;Rahimjarhan;Bahim Yar Khan
+Naberezhnyye Chelny|RU||9i|4au|41m|3xn|Brezhnev;Nabereschnyje Tschelny;Naberezhnye Chelny;Naberežnyje Čelny;Nabereĵnije Ĉelni;Naberežnõje Tšelnõ;Naberežnyje Tšelny;Naberežnije Čelni;Naberežnye Čelny;Naberezjnye Tsjelny;Naberejnye Chelny;Yar Çallı;Yorcholli
+Yazd|IR||7o|2gm|471|3or|Jazd;Jazdo;Jezdas;Yasd;Jasd;Yezd
+Yan’an|CN||7i|2to|8g5|3o0|Yen-an
+Iaşi|RO||8u|3n1|24o|2xa|Jassy;Jasy;Jászvásár;Jasi;Yashi;Yaş;Jaßenmarkt;Iassium;Jasai;Jaš;Yassı;Yassy;Ilasi
+Yanzhou|CN||7i|2qr|90j|2wb|Yenzhou
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+Yangsan|KR||7h|2q6|9yf|2rh|Jangsan
+Yanji|CN||7i|3b5|9zq|2iu|Diên Cát
+Yangshuo|CN||7i|1wu|8ix|2bc|Yangso
+Yamoussoukro|CI||0|iy|-eo|24l|Jamusukro;Yamusukro;Jamusukras;Yamousoukro;Yamosukro;Yamoussokro;Yamussukro
+Yao|JP||7q|2o6|ago|23w
+Yamagata|JP|Yamagata|7q|2y7|atx|1x4
+Yamato|JP||7q|2qj|ard|1v9
+Yakutsk|RU||7x|4sb|a0c|1tg|Jakutsk;Iakoutsk;Yerkutsk
+Yamuna Nagar|IN||6t|2bp|5yo|1ob|Yamunanagar;Jamna Nagar
+Yanghang|CN||7i|2f5|9dc|1ku
+Yanbu|SA||7e|1ux|2xq|1jm|Yambo;Yenbo
+Yachiyo|JP|Chiba|7q|2ra|at8|1jf|Jachijo;Yatiyo-chhī
+Yamaguchi|JP||7q|2my|a57|1hw|Jamaguči;Yamaguti
+Hat Yai|TH||62|jh|7r4|1h9|Hatjajus;Hatjaj;Had Yai;Hatyai
+Yawnghwe|MM||7y|1le|7h9|1g9
+Yangcheng|CN||7i|2bc|876|1fq
+Yasenevo|RU||9i|4ah|2w8|1e0
+Yangju|KR||7h|2x3|9sy|1dz
+Yangchun|CN||7i|1pl|8mi|16n|Yeungchun
+Yaizu|JP||7q|2ov|ao8|12s|Jaizu;Yaisu;Yaidu
+Jacmel|HT||4j|1eo|-5li|12c|Jakmèl;Yáquimo
+Bat Yam|IL||6n|2gy|2oj|zz|Bat Jam;Bat Jamas;Bat-Yam
+Yavatmāl|IN||6t|1kn|611|zm
+Shache|CN||7t|2yq|5yk|zl|Yarkand;Yeken;Yarkant;Yarkend;Yarkent
+Honmachi|JP|Kumamoto|7q|2ia|a2s|y7|Jacuširo;Jatsushiro;Yatsuşiro;Yatusiro-chhī;Yatusiro;Yatsushiro
+Möng Yang|MM||7y|1op|7ow|wj
+Yakeshi|CN||7i|3sw|9bd|wb|Ya-k’o-shih
+Yaritagua|VE||2c|s0|-5c0|vh
+Yautepec|MX||41|1gg|-7n7|te
+Jaffa|IL||6n|2h1|2oj|rs|Joppa;Jafa;Joppe;Yafah;Yaffa;Jophé;Yafo;Jafo;Yāfā;Giaffa;Yāp̄ô;Yaffo;Zafo
+Yanjia|CN|Chongqing|7i|2av|898|rs
+al-Yarmūk|SY||69|2kz|2su|rs|Yarmouk;Yarmouk Camp;Jarmúk;Al Yarmūk
+Zelenodolsk|RU||9i|4b4|3qs|ro|Selenodolsk;Zelenodol'sk;Zelenodoljsk;Zielonodolsk;Yashiloʻzan;Zelendol’sk
+Yasuj|IR||7o|2d7|3zb|qw|Yasudsch;Yasuc;Jásúdž;Yesūj
+Yakima|US||3p|3lg|-9ar|q1
+Yala|TH||62|i6|7tc|q0
+Yashio|JP||7q|2ri|asg|py
+Yatou|CN||7i|2v8|9g4|pf|Yai-t’ou
+Yaroslavskiy|RU|Moscow|9i|4b8|2ws|pa
+Yangp'yŏng|KR||7h|2w5|9u5|n6|Yanp'yŏng;Yangpyeong
+Yamatokōriyama|JP||7q|2o5|ah5|n5
+Yacuiba|BO||3n|-1p6|-4ww|n0
+Yan Nawa|TH||62|122|7ra|mn|Yan Nava
+Yanta|CN||7i|2so|8xb|m0
+Yalta|UA|Crimea|9t|3fm|2mx|le|Jalta;Jalto;Ialta
+Yaxing|CN||7i|1i1|8fi|l8
+Yangliuqing|CN||7i|30q|910|l8|Yang-liu-ch’ing
+Yanggu|CN||7i|2sb|8xm|kr|Yang-ku
+Yadgir|IN||6t|1al|5ya|kn
+Yawata|JP||7q|2ov|agy|jx|Yavata;Jaŭata;Javata;Yahata
+Yalova|TR||94|34y|29c|jt|Jalov;Yaluva
+Yachimata|JP||7q|2r1|ats|j4|Yatimata-chhī
+Yanghe|CN|Ningxia|7i|2yc|875|iv|Yang-ho
+Yan Besar|MY||6v|g4|7qt|it
+Yaoji|CN||7i|2mn|93a|ib
+Ioánnina|GR||8p|326|1lx|i8|Ioánina;Janina;Giannina;Yanya;Yannina;Yanina
+Yanagawa|JP||7q|2k5|a28|hx
+Yangzhou|CN|Shaanxi|7i|2ka|8aq|hv
+Yangcun|CN||7i|31c|916|hq|Yang-ts’un
+Yambol|BG||9v|3a0|21m|hp|Jambol;Iambol;Jamboli
+Yangambi|CD||y|25|1vw|h9
+Yamato-Takada|JP||7q|2nw|ah3|h5
+Yangiyŭl|UZ||7m|367|5bt|h5|Yangiyoʻl
+Yanliang|CN||7i|2oa|8ff|gx|Yen-liang
+Yazman|PK||6q|28w|5ja|gv
+Yaowan|CN||7i|2my|93z|gv
+Yame|JP||7q|2kb|a2x|gu
+Yamethin|MM||7y|1kr|7f2|gn
+Yagoua|CM||j|sq|16b|gf|Yagua
+Yavné|IL||6n|2gk|2oi|g5|Jawne;Jamnia;Javne;Yamnia
+Yantongshan|CN||7i|3c9|9q1|fz|Yen-t’ung-shan
+Yashan|CN||7i|1po|8he|fq
+Yanam|IN||6t|1ah|6cd|fg
+Yangtun|CN||7i|2ow|90o|eu
+Yartsevo|RU||9i|48y|2iu|en|Jartsevo;Yartseva
+Yasu|JP||7q|2pi|ahu|e3
+Yanghe|CN|Shandong|7i|2se|993|e0
+Yamaga|JP||7q|2jq|a31|dn|Jamaga
+Yanguan|CN||7i|2n6|84y|ci
+Yangiyer|UZ||7m|33w|5b6|ca|Yangier
+York|US|Pennsylvania|48|330|-5x5|c8|Yarrick
+Yatomi|JP||7q|2pj|ajt|by
+Yaguajay|CU||36|1q1|-644|bq
+Yaţţā|PS||6g|2fd|2ph|bi|Jatta
+Yabrūd|SY||69|2md|2tu|b9|Yabroûd
+Yambio|SS||p|cp|26v|b8|Yambiyo
+Yagry|RU||9i|4zf|32l|b4
+Yalvaç|TR||94|2ye|2em|av
+Yasugichō|JP||7q|2qe|aa4|at
+Yako|BF||1a|100|-6a|ar
+Jasło|PL||a5|3u7|1nn|aj|Jaslas;Yaslo;Jasto
+Yasynuvata|UA||98|3pp|2x6|ag|Yasinovataya;Jassynuwata;Yassynouvata;Jasynuvata;Jasinoevata;Iasinovàtaia;Yasınuvata;Jassõnuvata;Jasinuvata;Jasnuvata;Iasînuvata;Jasynuwata;Yasinovatara
+Yāval|IN||6t|1mt|5ua|a7|Yawal
+Yabēlo|ET||2|dk|2xs|a3|Yavelo;Yeabelo;Yābalo;Yebelo
+Yaita|JP||7q|2u8|asp|a3
+Yamarugley|ET||2|ix|3k0|a0|Yamaaruglay;Yamarugle;Yamaarugley;Yamaruglay
+Yalutorovsk|RU||7z|4dd|546|9z|Jalutorovsk
+Jarosław|PL||a5|3uy|1r0|9v|Jaroslau;Jaroslavas;Jaroslava;Yaroslav
+Yakami|JP||7q|2mu|adm|9s
+Yau Tong|HK||6i|1py|8tc|9o
+Yanamalakuduru|IN||6t|19t|683|9i|Yenamalakuduru
+Yawa|CN||7t|2vx|64v|9f
+Yamanashi|JP||7q|2r3|apa|9a
+Yablonovskiy|RU||9i|3gz|306|9a|Yablonovsky;Jablonovskij;Jablonowski;Yablonovski;Jablonovski;Jabłonowskij;Jablonovskis
+Yarīm|YE||5r|13q|3fa|97|Yerim
+Yanai|JP||7q|2md|a70|91
+Yamashita|JP||7q|2l9|abe|8y
+Yamoto|JP||7q|2yr|aw9|8w
+Yawatahama|JP||7q|2ky|a7v|8w
+Yanqi|CN||7t|38u|6oh|8u|Qarasheher;Qara Shahr
+Valdepeñas|ES||9d|2zo|-9e|8n|Yaldepenas
+Yaring|TH||62|j3|7tl|8n|Jaring
+Yaese|JP||7q|20l|9uu|8l
+Yany Kapu|UA||9t|3jo|2lv|8j|Yañı Qapı;Krasnoperekops’k;Krasnoperekopsk;Bromzavod;Krasno-Perekopsk;Yani Kapu;Jany Kapu
+Yanwo|CN||7i|2c9|86n|8g
+Yantai|CN|Chongqing|7i|2br|8a4|89
+Yau Ma Tei|HK||6i|1pz|8t5|88|Yau Ma Ti
+Yamaguma|JP||7q|2ku|a2t|88
+Yara|CU||36|1kb|-5xr|81
+Yakuplu|TR||94|35v|27o|80
+Yangiqo‘rg‘on|UZ||7m|36f|5j8|7w|Yangiqŭrghon
+Yahaba|JP||7q|321|aw3|7t
+Yanaul|RU||7z|4cb|48l|7s|Janaul
+Yaguachi Nuevo|EC||33|-5u|-65d|7r
+Giannitsá|GR||8p|35b|1q9|7q|Yannitsa;Yiannitsá
+Yamagata|JP|Gifu|7q|2qk|ajx|7m
+Yalgo|BF||1a|zx|-2d|7b
+Yabayo|CI||0|gi|-ic|78
+Yanzibu|CN||7i|2nv|92y|75
+Yehud Monosson|IL||6n|2gz|2ox|74|Yehud;Yahud;Yhud;Jehud;Jehudas
+Yarmouth|US|Massachusetts|48|37v|-5f3|70
+Yamazakichō-nakabirose|JP||7q|2p8|adr|6z
+Yahyalı|TR||94|2xu|2q8|6y
+Yangiobod|UZ||7m|368|5ep|6x|Jangiabad;Yangiabad;Yangiabod
+Yaypan|UZ||7m|346|5gq|6x|Yaipan
+Yanjing|CN||7i|2b6|87f|6v
+Yanfolila|ML||5|v2|-mn|6s
+Yanacancha|PE|Pasco|3o|-tn|-5vu|6p
+Yanggu|KR||7h|2xv|9vj|6o
+Yauri|PE||3o|-153|-5id|6n
+Yate|GB||9b|3z6|-6q|6l
+Yanacancha|PE|Huánuco Department|3o|-sg|-5wx|6g|Yanacocha
+Yakınca|TR|Malatya|94|2yf|2y8|6f
+Yafran|LY||1d|2h2|yt|6b|Yefren;Jefren;Iefren;Yafrin
+Yarumal|CO||27|jc|-5ti|68
+Yatsuomachi-higashikumisaka|JP||7q|2tl|akx|66
+Yabu|JP||7q|2qc|aed|66
+Yaloké|CF||6|es|1bi|61|Yalouké
+Yasothon|TH||62|17v|81b|60|Yasotxon;Yasotawn;Yasotorn;Yasodhorn
+Yamaranguila|HN||56|13o|-6t4|60
+Yashiro|JP||7q|2p0|aex|60
+Yarovoye|RU||63|431|62a|5w|Yarovoy;Jarovoje
+Yachiyo|JP|Ibaraki|7q|2si|asl|5u
+Yanagawamachi-saiwaichō|JP||7q|2x5|auk|5s
+Yateley|GB||9b|3ym|-2b|5n
+Yauco|PR||4m|1e3|-55p|5n|Yauko
+Yamata|JP||7q|2s8|ar5|5h
+Jakobstad|FI||92|4wv|1r2|5h|Pietasaari;Pietarsaari;Yakobstad
+Yajiang|CN|Chongqing|7i|29t|8a9|5g|Ya-chiang
+Yaransk|RU||97|4f6|3oz|5g|Jaransk
+Yarm|GB||9b|47e|-3s|5c
+Yatağan|TR||94|2vq|266|5a
+Yahotyn|UA||98|3vo|2g8|5a
+Yāfā|IL||6n|2it|2q0|58|Yafi‘a;Yafi
+Yasnogorsk|RU|Tula Oblast|9i|47c|2wq|50|Jasnogorsk
+Yagoona|AU||8l|-2m6|bni|4z
+Yae|JP||7q|2oc|a85|4y
+Yachi|JP||7q|2yq|atr|4w
+Yangjiaying|CN||7i|31o|8m9|4w|Yang-chia-ying
+Yasnyy|RU||7z|3xs|4mb|4u|Jasnyj
+Yabuki|JP||7q|2vc|ats|4t
+Yirkā|IL||6n|2jj|2pt|4s|Yarka
+Yangirabot|UZ||7g|337|538|4q|Yenirabat;Yangirabad;Yangirabod
+Yajalón|MX||41|1bp|-74h|4m
+Yanqul|OM||72|1tj|4d2|4m
+Yabase|JP||7q|2qm|abc|4k
+Yaiza|ES||83|28g|-129|4j
+Yakumo|JP||7q|39d|atn|4e
+Yamjāl|IN||6t|1bz|62a|4d|Yemjal
+Yarraville|AU||8j|-2x2|b6i|4c
+Yadagirigutta|IN||6t|1cv|63a|48
+Yashkino|RU||74|4b7|6lb|48|Jasjkino;Jaschkino;Jaškino;Iachkino;Yaşkino;Jaszkino
+Yamada|JP|Iwate|7q|31n|ayb|48
+Ialoveni|MD||8x|3me|27y|45|Yaloveni;Yaloveny;Yaloven’
+Yakassé-Attobrou|CI||0|h6|-a5|45
+Yangjiao|CN||7i|29o|8ax|43
+Yaletown|CA||5b|3sw|-9i0|42
+Yankton|US||2f|3b3|-7ik|42
+Yashikira|NG||u|r5|9g|41|Yashikera
+Yangi Marg‘ilon|UZ||7m|34b|5j8|3x
+Yau Yat Chuen|HK||6i|1q1|8t5|3x|Yau Yat Tsuen;Yau Yat;Yauyattsuen
+Yakage|JP||7q|2o7|ab3|3w|Yakake
+Yan’anxiang|CN||7i|2nq|83g|3v
+Yamanobe|JP||7q|2yd|atn|3t
+Yahualica de González Gallo|MX||41|1mu|-7xt|3t
+Yaguaraparo|VE||2c|td|-4uj|3s
+Yaoudé|CI||0|i8|-kp|3s
+Yamada|JP|Kumamoto|7q|2iu|a3s|3r
+Ya‘bad|PS||6g|2i5|2pp|3r|Ya‘bud
+Yanghe|CN|Gansu|7i|2nw|83p|3q
+Yang Talat|TH||62|19k|7z5|3q|Bang Talat
+Yaya|RU||74|4c4|6o3|3o|Jaja
+Yanxi|CN||7i|2c6|8cd|3o
+Azor|IL||6n|2gy|2op|3n|Yazir;Azur;Yāzūr
+Yamabuki|JP||7q|2qu|an2|3k
+Yavoriv|UA||98|3uq|1sy|3k|Jaworów;Jaworiw;Javorov;Javoriv;Javoriva;Iavoriv;Yavorov;Yavoruv
+Yakassémé|CI||0|g5|-az|3j|Yakassé;Yakossé-Mé;Yakassé-Mé
+Yakhroma|RU||9i|4ce|2w2|3j|Jakhroma
+Yagoori|SO||14|ob|3mg|3e|Yagori;Yaguri
+Yamakiya|JP||7q|2wh|auq|3e
+Yāripur|IN||6t|2lo|5se|3d|Yari Pora
+Sakamoto|JP||7q|2xc|ave|3c|Yamamoto
+Yajiang|CN|Chongqing|7i|272|8fa|3b
+Yamasá|DO||4v|1g5|-5ej|38
+Yabe|JP||7q|2qt|ar7|38
+Yangba|CN|Gansu|7i|2jp|85t|38
+Yazoo City|US||2f|2ja|-6z5|34
+Yalıkavak|TR||94|2v3|23u|34|Ortakent
+Joniškis|LT||a3|4c8|1tm|33|Janiszki;Jonišķi;Yonishkis;Jonischki;Yanishki;Ionishkis;Joniškio
+Yangī Qal‘ah|AF||6o|2w3|5dd|33|Yangi Qala;Yangi Kala;Yangī Qal‘eh;Yengī Qal‘eh
+Yakymivka|UA||98|3lq|2po|33
+Yaotsu|JP||7q|2qj|akz|32
+Yampil|UA|Vinnytsia|98|3q0|26k|32|Iampol;Kremenchuk
+Yacopí|CO||27|f6|-5qi|31
+Yadrin|RU||9i|4be|3kd|2z|Jadrin
+Yayva|RU||7z|4kt|4f2|2y|Jajva
+Yacuanquer|CO||27|34|-5z0|2y|Yacauquer;Yaquanquer
+Yandong|CN|Guizhou|7i|20i|8ep|2x
+Ýagtyýol|TM||5x|2x0|4sa|2x|Yagty-yel
+Yāmchī|IR||7o|2z0|3is|2w
+Yakakent|TR|İzmir Province|94|2yz|237|2v
+Yacheng|CN||7i|2nc|842|2v
+Yatton|GB||9b|3yr|-7u|2v
+Yak'airike|CN||7t|2y4|5xt|2u
+Yangri|CN||7i|2g6|8jt|2t
+Yangliujie|CN||7i|219|8am|2t
+Ineu|RO|Arad County|8u|3kz|1oo|2t|Yanova;Borosjenő;Janopol
+Yangshi|CN||7i|2dl|8ex|2s
+Yaroslavskiy|RU|Primorye|7w|3er|a7b|2s|Jaroslavskij
+Yamuna Vihar|IN||6t|27q|5yn|2s
+Yaou|CI||0|g4|-8q|2s|Yau
+Yantzaza|EC||33|-an|-62s|2s
+Yakassé-Feyassé|CI||0|jc|-9h|2r
+Yanshan|CN||7i|2cv|8cv|2q
+Yanhanshan|CN||7i|1qm|8sm|2q
+Yamakita|JP||7q|2q8|aqc|2q
+Yairipok|IN||6t|1wk|799|2o
+Moe|AU||8j|-2y2|baa|2m|Yallourn
+Yarula|HN||56|138|-6so|2k|Jarula
+Yaxley|GB||9b|41w|-q|2k
+Yacoéoua|CI||0|gm|-i1|2k|Yakoéoua
+Yauya|PE||3o|-oz|-5yp|2j
+Yamada|JP|Fukuoka|7q|2li|a2h|2j
+Yasnogorsk|RU|Zabaykalskiy (Transbaikal) Kray|67|3xb|8xe|2h
+Yavornytske|UA||98|3qg|2q0|2g|Ilarionové;Javornicke;Jawornyćke;Javornyzke;Ilarionowe
+Yanwan|CN||7i|2eo|8g9|2f
+Jalasjärvi|FI||92|4tl|1r8|2f|Yalas’yarvi
+Ýaňgala|TM||5x|2xw|4gz|2f|Yankala
+Yanchep|AU||8k|-2fn|8x7|2e|Yancher
+Yasinya|UA||98|3q3|1vo|2e|Jasiňa;Frasin;Kőrösmező;Yasinia
+Yapleu|CI||0|jp|-lf|2d|Iapleu
+Yaycı|AZ||61|306|3j1|2d|Yaydzhy;Yaydzhi
+Yanjia|CN|Gansu|7i|2p0|87h|2b
+Yayladağı|TR||94|2rq|2s6|2b|Yayladağ;Yayladği
+Yagunovskiy|RU||74|49k|6mu|2a|Jagunovskij
+Ýaşlyk|TM||5x|2wy|4jl|2a|Yashlyk
+Yavuzeli|TR||94|2vo|2wd|2a
+Yaremche|UA||98|3ql|1w7|29|Jaremcze;Yaremtché;Jaremcse;Jaremcsa
+Yarega|RU||9i|4w8|44u|29|Jarega
+Yasnohirka|UA||98|3rh|2wb|28|Yasnogorka
+Yachigoya|JP||7q|2x8|avf|27
+Yangyong|CN||7i|2o9|7zf|26
+Yasnaya|RU||67|3x7|8xo|26
+Yavas|RU||9i|476|3b1|26|Javas;Iavas;Javasz;Jawas
+Yandev|NG||u|kg|p4|26
+Yahiko|JP||7q|2wq|apn|25
+Yallahs|JM||3i|1dn|-5wo|24
+Yao|TD||17|zp|1cs|24
+Yarrawonga|AU||8l|-2s2|b9k|24
+Yardımlı|AZ||61|303|3q0|24|Yardymly
+Yabassi|CM||j|ce|rp|24|Jabassi;Yabasi
+Yarmolyntsi|UA||98|3sn|22j|22|Jarmolińce
+Yandong|CN|Chongqing|7i|29d|8co|21
+Yangebup|AU||8k|-2h8|8xq|21
+Yashkul’|RU||9i|3k9|3hy|20|Jasjkul;Jaschkul;Yashkuly
+Yampil’|UA|Sumy|98|40b|2lv|20|Yampol’
+Yardville|US||48|33m|-5re|20|Jardville
+Yaguarón|PY||1y|-1z0|-4f5|20|Yaquaron
+Yar|RU||9p|4ht|40r|1z|Jar
+Yamrat|NG||u|s3|rb|1z
+Yabucoa|PR||4m|1e5|-530|1y
+Yarkovo|RU|Tyumen Oblast|7z|4fg|56b|1x|Jarkovo
+Yamba|AU||8l|-29s|bu0|1x
+Yajiwa|NG||u|vn|zc|1x
+Yarmouth|CA||35|3dr|-53o|1w
+Yanuah Jat|IL||6n|2jm|2pw|1v|Yanuh-Jat
+Yacimientos Río Turbio|AR||1r|-3z6|-5ky|1v|Yacimientos de Río Turbio;Yacimiento Río Turbio
+Yanuh-Jat|IL||6n|2jn|2px|1u
+Ýaşyldepe|TM||5x|2x0|4jg|1u
+Yass|AU||8l|-2os|bhn|1t
+Yapraklı|TR|Çankırı|94|358|2lu|1s
+Yala|CI||0|ki|-iz|1r
+Yalga|RU||9i|46d|3hd|1q
+Yalıntaş|TR|Bursa Province|94|336|26w|1q
+Yalıhüyük|TR||94|2vm|2h5|1p
+Yangsha|CN||7i|2or|7zz|1o
+Yakoruda|BG||9v|38r|1ts|1o|Jokoruda;Yokoruda;Jakoruda
+Yanahuanca|PE||3o|-t8|-5wi|1o
+Yaphank|US||48|35g|-5mk|1n
+Yazykovo|RU|Bashkortostan Republic|7z|49e|4by|1n|Jazykovo
+Yanda Bayo|NG||u|vz|tv|1n|Yando Bayo
+Yarmouth|US|Maine|48|3do|-5ez|1n
+Gugark|AM||80|35c|3fq|1m|Yaghublu;Meghrut;Gugarq;Yeghapli;Yeghaplu;Yeghubli;Yeghublu;Yaghubli;Yaghuplu;Megrut
+Yavuz|TR||94|32c|3bl|1m
+Yaguará|CO||27|7e|-5ts|1l
+Yayas de Viajama|DO||4v|1fp|-5h1|1l
+Yaguate|DO||4v|1ey|-5ey|1k
+Iargara|MD||8x|3kz|26z|1k|Jargara;Iagara;Yargara
+Yanga|MX||41|1gb|-7gw|1k
+Janja|BA||9r|3g3|1hh|1j|Jania;Yayna
+Yantarnyy|RU||96|48f|1je|1j|Jantarnyj;Palvininkai;Jantarnas
+Yaobou|CI||0|fv|-c9|1j
+Yalta|UA|Donetsk|98|3mg|2vj|1j|Jalta;Ialta
+Fíliro|GR||8p|351|1rw|1j|Yalijík;Filyro
+Nova Borova|UA||98|3wt|27j|1j|Nowa Borowa;Yangi Borova;Bobryk Nowy
+Yapton|GB||9b|3x6|-1p|1j
+Yaroslavskaya|RU||9i|3fx|34e|1j|Jaroslavskaja;Yaroslavskoye
+Yanhe|CN||7i|2h2|8d4|1i
+Yarmouth Port|US||48|37u|-5f5|1h|Yarmouthport
+Yagoshima|JP||7q|2vj|asl|1h
+Yamanaka|JP||7q|2qe|apo|1g
+Yazıhan|TR||94|2z7|2y1|1g
+Yarkovo|RU|Novosibirsk Oblast|75|489|6dg|1f|Jarkovo;Yarkova
+Yakakent|TR|Samsun|94|37n|2qp|1f
+Yasnaya Polyana|RU|Stavropol Kray|9i|3ea|3ar|1f
+Yamky|UA||98|3w4|2cp|1e|Yama;Yams'ka Sloboda;Holubivka;Jamki;Jamky
+Yengī Emām|IR||7o|2ru|3ww|1e|Yangī Emām;Yangi Imām
+Yakovlevka|RU||7w|3ff|aas|1e|Jakovlevka
+Yadamah|SA||7e|1fh|3es|1e
+Yavlenka|KZ||5s|46z|5a6|1d
+Yazykovo|RU|Ulyanovsk|9z|46t|3nn|1d|Jazykovo;Yazıkovo;Jazykowo
+Yarkoye Pole|UA|Crimea|9t|3hl|2ps|1d
+Yar-Sale|RU||7z|55r|5gs|1d|Jar-Sale
+Yasenskaya|RU||9i|3ks|2yb|1d|Jasenskaja;Iasenskaia
+Yamanto|AU||8c|-24u|bsa|1c
+Yavne’el|IL||6n|2iv|2qm|1c|Yavniel;Yabneel;Yavni’el
+Yarqā|JO||5t|2gu|2r6|1c|Yerqa
+Yashalta|RU||9i|3kq|39f|1b|Jasjalta
+Yahşeli|TR||94|2za|23b|1b
+Yadio|CI||0|gv|-bb|1a|Yado
+Yasségouiné|CI||0|kx|-m9|19
+Yaonahuac|MX||41|1j7|-7ir|19
+Yanino-1|RU||9i|4mj|2cw|19|Nikol’skoye;Koloniya Yanino;Koloniya Yanina;Yanino Pervoye;Jaanila;Saksan Jaanila;Janino-1
+Youorédoula|CI||0|kc|-in|18|Yaourédoula
+Stepnohirsk|UA||98|3o7|2q8|18|Yanchekrak;Sukhoivanivka
+Strátos|GR||8p|2zf|1n8|18|Yanica;Stratus;Sorovigli
+Yad Binyamin|IL||6n|2gc|2oq|17|Merkaz H̱anukhi;Jad Binjamin
+Yakovlevskoye|RU||9i|4a0|2xf|17|Jakovlevskoje;Yakovleyskoye;Yakovlevskaya
+Yauhquemehcan|MX||41|1hx|-7kq|16|San Dionisio
+Yallambie|AU||8j|-2wt|b71|16
+Yasky|UA||98|3l7|2bk|15|Iaskî;Jaśky;Yasko
+Santiago Yaitepec|MX||41|193|-7i7|15|Yaitepec;Yautepec
+Ivaniv|UA||98|3th|26q|15|Yaniv;Janów;Yanov;Ivanov
+Yanase|JP|Kumamoto|7q|2hi|a3b|15
+Yalkhoy-Mokhk|RU||9i|3br|3kb|15|Jalkhoj-Mokhk;Jalhoj-Mohk
+Yağlıdere|TR||94|34m|31t|15
+Yago|MX||3x|1oo|-83u|14
+Yaresky|UA||98|3ug|2m7|14|Yares'ki;Yares’ky;Yeres’ki
+Yarensk|RU||9i|4sp|3se|13|Jarensk
+Yayladere|TR||94|30z|33b|13|Holhol;Xorxol
+Yagodnoye|RU||6z|4tp|bjn|13|Jagodnoje;Yagodnyy;Yagodnöy
+Yanaoca|PE||3o|-13i|-5if|13
+Yalí|CO||27|ij|-5rv|13
+Yalābād|IR||7o|2p3|3vr|12|Mīlābād;Valābād;Yelābād
+Ţād|IR||7o|2i5|3z4|11|Yād
+Yaffo-Abongoua|CI||0|ib|-b7|11
+Yangezhuang|CN||7i|334|92x|11
+Khojavend|AZ||61|32j|3mv|11|Novyy Karanlug;Yeni Karanlig;Yangi Karanliq
+Yangdian|CN||7i|2m9|87n|11
+Yavaros|MX||37|227|-8g8|11|Isla las Viejas;Yabaros
+Yangon Rubber Chan|MM||7y|1ac|7ei|11
+Yakoucun|CN||7i|1wj|95k|11
+Yangzhong|CN||7i|227|97l|10|Yang-chung
+Yasynivka|UA||98|3pp|2xe|10|Yasinovka
+Yarrabilba|AU||8c|-259|btb|10
+Yālqūz Āghāj|IR||7o|2yw|3it|z|Yālgūz Āghāj;Yālqūz Āqāj
+Yāsūkand|IR||7o|2ss|3on|z
+Yandyki|RU||8o|3j5|3mx|y|Jandyki
+Yārāda|IN||6t|1d2|6fb|y
+Yaksatovo|RU||8o|3kg|3pe|y|Jaksatovo
+Yantikovo|RU||9i|4b2|3p3|x
+Yarrow|CA||5b|3sc|-9f1|x
+Yanaizu|JP||7q|2w8|as4|x
+Yam|RU||9i|4a5|2wu|w
+Yamae|JP||7q|2hl|a39|w
+Yablanitsa|BG||9v|3bj|1uy|w|Ablanitsa
+Yae Kyaw|MM|Yangon|7y|1am|7ep|w
+Yala|KE||16|9|2ny|w|Ialá
+Yamnytsia|UA||98|3s3|1wn|w|Jamnytsia;Yamnytsya;Jamnyzja;Jamnytsja;Jamnycja;Jamnica;Iamnîțea;Yamnitsa
+Yantian|CN||7i|22l|98y|w
+Yae Kyaw|MM|Yangon|7y|1ae|7fm|v
+Yarumela|HN||56|13u|-6rh|v
+Yae Kyaw Su|MM||7y|1ac|7es|u|Yae Kyaw
+Yaxcabá|MX||3z|1l3|-6ur|u
+Yanis’yarvi|RU||9i|4rx|2dz|u|Jänisjärvi;Janisiarvi
+Yarralumla|AU||8l|-2q2|bi7|t
+Yadkinville|US||48|2sd|-682|t
+Yangjiapo|CN||7i|315|93h|t
+Yatmā|PS||6g|2h7|2pz|t
+Yarra Glen|AU||8j|-2wm|b7t|t
+Yaxkukul|MX||3z|1mi|-6we|s
+Yalkoba|MX||3z|1lr|-6sk|s|Yalcobá
+Yakapınar|TR||94|2up|2qy|s|Misis
+Yakamia|AU||8k|-2p8|93g|s
+Yakassé|CI||0|lm|-9r|r|Yacassé
+Yarrawarrah|AU||8l|-2ml|bnk|r
+Yaxe|MX||41|1ah|-7fz|r
+Yakimovo|BG||9v|3d7|1sv|r
+Yakovlevo|RU|Belgorod Oblast|9i|3x9|2t9|q|Jakovlevo
+Yasuda|JP||7q|2kw|ac7|q
+Yarma|TR||94|2x1|2jc|q
+Yalizava|BY||9g|44c|28k|q|Yelizovo
+Yaniklar|TR||94|2tz|28p|q
+Yae Twin Kone|MM|Yangon|7y|1aq|7ek|q
+Yarrabah|AU||8c|-1b7|b9a|q
+Yarnton|GB||9b|3zw|-3n|p
+Yanghou|CN||7i|220|957|p
+Yarra Junction|AU||8j|-2wy|b8h|p
+Yaouda|CI||0|i1|-ff|p|Yoouda
+Yalıköy|TR|Aydın|94|2vy|23m|p
+Yabārak|IR||7o|2qy|3xn|p
+Yangon Pauk|MM||7y|1af|7et|p
+Yagunovo|RU||74|49h|6mx|p|Jagunovo;Yagunova
+Yaokimkroum|CI||0|l4|-8c|p
+Yakushyntsi|UA||98|3su|26s|p|Yakushintsy
+Yapak|PH||71|x7|9ep|p
+Yaponka|UA||9t|3i1|2ta|p
+Yardley|US||48|33t|-5rx|o
+Yazdekān|IR||7o|2yp|3gg|o
+Yanglong|CN||7i|2zt|7lf|o
+Yanıqlı|AZ||61|35g|3iw|o
+Yalyalup|AU||8k|-2lj|8wl|o
+Yazdel|IR||7o|2mp|3yo|o|Yazdal
+Yantal’|RU||6k|4dx|84d|o|Jantal
+Yandina|AU||8c|-21s|bsw|o
+Yantarne|UA||9t|3i7|2n2|o|Tašly Dajyr
+Yaogotouo|CI||0|j1|-n0|o
+Yampil’|UA|Donetsk|98|3ry|2xg|n|Yampol';Jampil
+Yanantifla|CI||0|ib|-gs|n|Yanantinfla
+Yalagüina|NI||3s|11g|-6o9|n
+Yaldhurst|NZ||ak|-3cw|db8|n
+Yapo-Gare|CI||0|g4|-bi|m
+Yaokro|CI|Zanzan District|0|ka|-8y|m
+Yāşīd|PS||6g|2hq|2q0|m
+Yasna Polyana|UA||98|3re|2w9|m|Yasna Poliana;Yasnaya Polyana
+Yān Cheshmeh|IR||7o|2ir|3wx|m|Yātcheshmeh;Yān Chashmeh
+Yaqqir|PS||6n|2hb|2pk|m
+Yadibikro|CI||0|jq|-ew|m
+Yapeyú|AR||1n|-29v|-4du|l
+Yatayti Calle|AR||1n|-28n|-4jn|l|Yataity Calle
+Yarram|AU||8j|-2z4|bbg|l
+Yablochnyy|RU||7f|3mz|aym|l|Jablotsjnyj
+Yayladüzü|TR||94|32m|39i|l|Bolükbaşı
+Yale Heights|US||48|314|-5x1|k
+Yabluniv|UA|Ivano-Frankivsk|98|3qg|1xa|k|Jabłonów;Yablouniv;Jabluniw;Jablunivas;Jabluniv;Iabluniv
+Yanoshi|UA||98|3q1|1qv|k|Ivanovka;Ivanivka;Makkosjánosi;Janoschi;Janosji;Janoŝi;Ianoși;Yanoşi
+Yaylacık|TR|Bursa Province|94|33l|28a|k
+Yalakdere|TR||94|34t|2a4|k|Yalakdera
+Yanceyville|US||48|2t4|-64e|k
+Yabian|CN||7i|1r6|8s5|k
+Yakivtsi|UA||98|3tv|2o1|k
+Yablunytsia|UA||98|3q7|1w0|k|Yablunytsya
+Yátova|ES||9d|31e|-28|k|Iàtova
+Yabrasso|CI||0|ko|-9n|k
+St. Jacobs|CA||59|3cx|-67s|k|Yaakobschteddel
+Jaunjelgava|LV||9n|4d9|1xo|j|Yaun-Yelgava;Yaunelgava
+Yasenove Druhe|UA||98|3p2|2bd|j|Yassénové Drouhé
+Yangjinzhuang|CN||7i|32t|924|j
+Yale|US|Michigan|2q|3bt|-6e0|j
+Yafi-Kouamékro|CI||0|jl|-by|j
+Yashanal|MX||41|1ar|-74t|j
+Yampil|UA|Khmelnytskyi|98|3us|20w|j|Jampol;Januszpol
+Yaté-Barrage|NC||b8|-1pj|cvk|j
+Yamkino|RU||9i|4bc|2yo|j|Jamkino
+Yasha|MX||41|19j|-73r|j
+Yanguileu|CI||0|lc|-mj|j
+Bourg de Joué-sur-Erdre|FR||9k|3ny|-3y|i|Yaoued;Joué-sur-Erdre;Ioseium
+Yaokro|CI|Lacs District|0|lj|-b3|i
+Yayvantepe|TR||94|2vm|37c|i
+Yaplassou|CI||0|ks|-en|i|Yablassou
+Yarkoye|UA|Crimea|9t|3ix|2n6|i
+Yazıkent|TR||94|2wp|26v|i
+Yakovlevo|RU|Leningradskaya Oblast'|9i|4nh|29x|i|Mustamäki;Jakovlevo;Mustamyaki
+Yaffo-Attié|CI||0|i6|-ax|i
+Yashchykove|UA||98|3qg|2zm|i|Yashchikovo
+Yackandandah|AU||8j|-2sv|bbw|i
+Yavrudoğan|TR||94|2ug|2ez|h
+Yaylakonak|TR||94|2x2|2xs|h
+Yaffo-Agni|CI||0|i7|-ay|h
+Yaviza|PA||4g|mo|-5zt|h|Yavisa
+Yango|CI||0|lf|-8b|h
+Yacolt|US||3p|3jf|-9g1|h
+Javené|FR||9k|3q8|-3e|h|Yaoueneg
+Yae Twin Kone|MM|Yangon|7y|1bk|7ef|h
+Yaltem|MX||41|1as|-75r|h|Yalten
+Ya|CI||0|jx|-c5|g
+Yaxhachen|MX||3z|1jp|-6wt|g
+Yambirno|RU||9i|46c|38x|g|Jambirno;Yambirino
+Yarragon|AU||8j|-2y5|b9q|g
+Yarışlı|TR|Afyonkarahisar Province|94|2z3|2d5|g
+Yāsūf|PS||6g|2h7|2pw|g|Yasouf
+Yanmen|CN||7i|25e|8gu|g|Yen-men
+Yaylı|TR||94|2vc|357|g
+Yaoshi|CN|Hunan|7i|211|8jr|g
+Yaroomba|AU||8c|-21r|bta|g
+Yapokpa|CI||0|g5|-bi|f|Yapo Kpa;Yapo - Kpa
+Yarrambat|AU||8j|-2wk|b75|f
+Yasuoka|JP||7q|2qa|amx|f
+Santa María Yucunicoco|MX||41|1bw|-7k0|f|Yacunicoco;Santa María
+Yagur|IL||6n|2iy|2pg|f|Jagur
+Yanışlı|TR||94|2sg|2l2|f
+Yallourn North|AU||8j|-2y0|bak|f
+Ivanivka|UA|Chernihiv Oblast|98|3yq|2ex|f|Ivanovka;Yanovka
+Yalıköy|TR|Istanbul|94|378|26m|f
+Yaprakbaşı|TR||94|2wl|34n|f
+Yae Hpyu Twin|MM||7y|1a6|7ex|f
+Yalankoz|TR|Gaziantep|94|2ve|2vx|f|Yalangöz
+Yaurel|PR||4m|1e3|-53i|f
+Yakpabo-Sakassou|CI||0|j9|-dl|f
+Ýasga|TM||5x|32b|4ac|f
+Yablunivka|UA||98|3pd|1tb|f|Yablonovka
+Yaguacire|HN||56|12y|-6qa|e
+Yaka|TR||94|2xu|2e8|e
+Yalçınkaya|TR||94|30u|3b1|e|Kızılkaya
+Yağca|TR||94|2uy|2cw|e
+Il’ichëvo|RU|Leningradskaya Oblast'|9i|4nf|2an|e|Ilitsjevo;Jalkala;Yalkala
+Yahualica|MX||41|1m7|-7la|e|Yahualca
+Yataity del Norte|PY||1y|-1x1|-4ck|e|Colonia Felipe Matiauda
+Yavkyne|UA||98|3nb|2il|e
+Yapokoi|CI||0|g5|-a8|e
+Yaroslavka|UA||98|3k0|2az|e|Jaroslava;Iaroslava
+Yatunpu|CN||7i|20o|8gj|e|Yatunbu;Ya-t’un-pao
+Yalding|GB||9b|3ya|17|e
+Yalaha|US||48|27u|-6b9|e|Yallaha
+Yamatohama|JP||7q|26s|9zf|e
+Yauyupe|HN||56|126|-6pu|e
+Yaoshi|CN|Hunan|7i|24s|8g9|e|Yao-shih
+Pärnu-Jaagupi|EE||9x|4it|1w3|d|Yakobi;Svyatogo Iakova;Sankt-Jakobi;Sankt-Jakoby;Jakobi
+Yakhnyky|UA||98|3w2|2kd|d|Yachnyky;Yashnyky
+Lälezar|TM||5x|2vn|4sx|d|Ýapagy
+Yatala|AU||8c|-250|btm|d
+Yates Center|US||2f|2x8|-7dx|d
+Yakasinek|TR||94|2z3|2el|d|Yakasenek
+Yakovlivka|UA|Donetsk|98|3rb|2xz|d|Yakovlevka
+Yabligué|CI||0|jj|-kl|d
+Nyaungshwe|MM||7y|1le|7h9|d|Yawnghwe;Nyaung Shwe
+Yaylalı|TR||94|2tf|2h7|d
+Yangor|NR||b5|-1i|cvn|d
+Yana|MM||7y|1z6|7d4|d
+Yépleu|CI|Montagnes|0|k4|-mz|d|Yapleu
+Novyi Svit|UA|Crimea|9t|3gj|2oz|c|Yañı Dünya;Novıy Svit;Paradyz
+Yad Rambam|IL||6n|2gm|2oy|c|Jad Rambam
+Ya‘qūb Lengeh|IR||7o|2uc|447|c|Yaqub Lengeh
+Yastrubynove|UA||98|3nz|2f7|c|Yastroubynové
+Yamachiche|CA||59|3kk|-5mb|c
+Yağınözü|TR||94|36d|2qc|c
+Yarove|UA||98|3jw|28u|c|Diulmeni
+Yale|US|Oklahoma|2f|2sb|-7gm|c
+Yarivka|UA||98|3qc|21p|c|Hajdeu de Sus
+Yakassé-Akidom|CI||0|lo|-80|c
+Yahilnytsia|UA||98|3ry|1zj|c|Jagielnica;Yahil’nytsya
+Yavuzlu|TR||94|2ty|2vj|c
+Yaropolets|RU||9i|4bx|2rj|c|Jaropolets
+Yarẖiv|IL||6n|2hb|2p5|c|Jarchiv
+Yengī Kand-e Seyyedlar|IR||7o|2t9|3q2|c|Yengī Kand Seyyedlar;Yangī Kand-e Seyyedlar
+Yainville|FR||9k|3td|2b|c
+Yaxcopoil|MX||3z|1ln|-6x8|b|Yaxcopeel
+Yangtou|CN||7i|24x|8fx|b
+Yashresh|IL||6n|2go|2ot|b|Jašreš;Jaszresz;Yaşreş
+Yazır|TR||94|2tc|2b9|b
+Yaruchel|HN||56|14d|-6uq|b
+Yaren|NR||b5|-1j|cvp|b|Jareno;Jarenas;Jarena
+Yabli-Guinglo|CI||0|jj|-kp|b
+Yamhill|US||3p|3hy|-9i7|b
+Yaégo|CI||0|n8|-88|b
+Yarravel|AU||8l|-2e8|bsc|b
+Narganá|PA||4g|q8|-62b|b|Yandup
+Yarrow Point|US||3p|3od|-9fi|b
+Yarımca|TR|Elazığ|94|2ze|32g|b
+Yağcılar|TR||94|2zf|23t|b
+Yahşiler|TR||94|2wk|288|b|Yağlılar
+Yanishpole|RU||9i|4sj|2n7|b|Janisjpole;Jänispelto;Jänišpuoli;Yanezh-Pole
+Santo Domingo Xagacía|MX||41|1bo|-7ff|a|Xagacía;Yagacia
+Yarraman|AU||8c|-22k|bq6|a
+Yakacık|TR|Amasya|94|35m|2qf|a
+Yallingup|AU||8k|-2lh|8vk|a
+Jaunpils|LV||9n|4dl|1rx|a|Neuenburg;Yaunpils
+Yamaçoba|TR||94|2v9|2v1|a
+Yasnaya Polyana|RU|Kaliningrad Oblast|96|47l|1qd|a|Jasnaja-Poljana;Jasnaja Poljana;Trakehnen;Didieji Trakėnai;Iasnaïa Poliana;Jasnaja Polana;Trakenen
+Yacochi|MX||41|1bm|-7et|a
+Yakovlivka|UA|Odesa|98|3m6|2b8|a|Yakovlevka
+Yaotroukro|CI||0|la|-aa|a
+Yanyshivka|UA||98|3p4|2c1|a|Yanishevka
+Yamango|PE||3o|-ee|-65j|a|Yamange
+Ýaňyajy|TM||5x|336|445|a
+Yakovlivka|UA|Donetsk|98|3pl|2x3|a|Yakozlevka;Yakovlevka
+Yad H̱anna|IL||6n|2ht|2p9|a|Yad Hanah
+Yanco|AU||8l|-2o4|bap|a
+Yach|DE||8r|3ps|mh|a
+Yutanino|MX||41|1an|-7iq|a|Yatanino
+Ýartygala|TM||5x|2y0|4c8|a|Yarty-Kala
+Yacango|PE||3o|-1bh|-5gu|a
+Yarkoye Pole|UA|Crimea|9t|3ip|2nc|9
+Avigdor|IL||6n|2g3|2oi|9|Ya‘el;Avigedor
+Yārījān-e Khāleşeh|IR||7o|2uw|3js|9
+Yanıkkaya|TR||94|2y9|36q|9
+Yamatoulo|CI||0|m5|-l8|9|Yamatouto
+Yanuv|IL||6n|2hr|2p3|9|Januv
+Yaoglogleu|CI||0|j0|-n2|9
+Yaolu|CN||7i|1yp|8c6|9
+Yaupon Beach|US||48|2m6|-60w|9
+Yagel|IL||6n|2gv|2ow|9|Jagel
+Yarusyacán|PE||3o|-t5|-5vo|9
+Yanas|PE|Ancash|3o|-pg|-5xc|9
+Yarmouth|GB||9b|3wv|-46|9
+Yangping|CN||7i|23f|8e8|9
+Yalı|TR||94|36n|2ti|9
+Yaossédougou|CI||0|mx|-bt|9|Yaosédougou
+Yazçiçeği|TR||94|2wg|346|9
+Ýankel|TM||5x|2yr|4ck|9
+Yanamuclo|PE||3o|-wz|-5te|9
+Yankalilla|AU||8b|-2qi|aob|9
+Yabteclum Fracción Dos|MX||41|1b1|-754|9
+Yanas|PE|Huánuco Department|3o|-qz|-5x7|9
+Yae Tein|MM||7y|19s|7ex|9
+Yaloba|CI||0|ll|-l0|9
+Yarova|UA||98|3sa|2wj|9
+Yapraklı|TR|Adıyaman Province|94|2x3|2zv|9
+Yakokoroko|CI||0|mf|-8k|9
+Pārām|IR||7o|2y7|3mj|9|Yārām;Paran
+Yavşan|TR||94|2vc|38m|9
+Yas‘ur|IL||6n|2je|2pp|9
+Yarmakaya|TR||94|2ws|2y1|9
+Yalyntsi|UA||98|3sk|2kj|9
+Yao|CI|Vallée du Bandama District|0|lt|-cw|9
+Yaobilikouro|CI||0|l3|-9r|9
+Yaraş|TR||94|2v9|274|8
+Yaxché de Peón|MX||3z|1mg|-6xb|8
+Yauli|PE||3o|-wj|-5tn|8
+Yarramundi|AU||8l|-2le|bmj|8
+Yakınca|TR|Ağrı|94|326|3bn|8
+Yatton Keynell|GB||9b|3z1|-63|8
+Yatsits|IL||6n|2gi|2ou|8
+Yaltzi Tres Lagunas|MX||41|19a|-74a|8
+Yassıçalı|TR||94|2vs|2rj|8
+Yağızlar|TR||94|2vf|2qr|8
+Yapraktepe|TR||94|2x2|3au|8
+Yao|CI|Zanzan District|0|lb|-96|8
+Yakovlivka|UA|Kharkiv|98|3uf|2se|8|Yakovovka;Yakovlevka
+Yauyucán|PE||3o|-ik|-62y|8
+Yangba|CN|Sichuan|7i|2i7|88m|8
+Yasnaya Polyana|RU|Tula Oblast|9i|467|2w8|8|Jasnaja Poljana;Yasmaya Polyana
+Yablonovo|RU||67|400|8p8|8|Jablonovo;Jablonowo
+Yaxnic|MX||3z|1lr|-6wy|8|Yaxnik
+Yalchitom|MX||41|1ap|-75t|8|Yalchitón;Yachiton
+Yavorivka|UA||98|3v9|2h2|8|Yavorovka
+Yaqum|IL||6n|2hl|2os|8|Yakum;Jakum
+Yakouakoukro|CI||0|ke|-f0|8|Yakakoukro
+Yakymove|UA||98|3u8|2lk|8|Yakimova;Yakimovo
+Yaylageriş|TR||94|367|2t9|8
+Güzelcehisar|TR||94|37p|2hg|8|Yaylacık
+Yalıntaş|TR|Bitlis|94|2z3|37r|8
+Ya‘ara|IL||6n|2jv|2pr|8|Ya’rah
+Yanase|JP|Kochi|7q|2le|acj|7|Yanaze
+Yardley Hastings|GB||9b|411|-21|7
+Yablunytsya|UA||98|3pf|1x8|7|Yablounytsia;Iablonița
+Yandina Creek|AU||8c|-21q|bt4|7
+Yaycı|TR||94|32z|3e5|7
+Yasnohorodka|UA||98|3vw|2be|7|Yasnogorodka
+Yad Mordekhay|IL||6n|2fr|2o0|7|Yad Mordekhai
+Yakhini|IL||6n|2fg|2o4|7|Jachini;Jakchini
+Yalosovetske|UA||98|3u0|2ku|7|Yalosovets’ke;Yalosovetski;Yalosovetskoye
+Yasynuvatka|UA||98|3re|2je|7|Yasinovatka
+Yarımca|TR|Adana|94|2uz|2qs|7
+Yelapa|MX||41|1kx|-84x|7|Yalapa
+Yanaz|TR||94|37h|2i3|7
+Yarok|UA||98|3r4|1qc|7
+Yasnopolyanskoye|UA||9t|3jm|2nf|7
+Yavaşlar|TR||94|2yz|2b8|7
+Yabulu|AU||8c|-1hc|bb7|7
+Yachats|US||3p|3f3|-9kq|7
+Yenguébo|CI||0|l4|-d4|7|Yanguébo
+Yaroslavove|UA||98|3k8|28s|7|Malojaroslawez Druhyj;Malu Mic;Maloyaroslavets Segunda;Maloïaroslavets Drouhyï;Alt-Posttal;Maroyaroslavets Druhyi;Maroiaroslavets Druhyi
+Yaaltz'Unun|MX||41|1ap|-75p|7
+Yazno|BY||9g|49z|268|7|Jazno;Yazna
+Yalnız|TR||94|2tb|2bo|7
+Yanvo|CI||0|lk|-8n|7
+Ya‘ad|IL||6n|2jc|2pw|7
+Yakabaşı|TR||94|35h|2e2|7
+Yawng Au|MM||7y|1o5|7ms|7
+Yao Kouadiokro|CI||0|i0|-e2|7|Yaokouadiakro
+Järve|EE||9x|4l1|23v|7|Yarve
+Yaokro|CI|Lacs District|0|kk|-dz|7|Yaakro
+Yalgoo|AU||8k|-26q|904|7
+Yardımcılar|TR||94|31z|3ci|7
+Yates City|US||2f|35a|-6y1|7
+Yazıkarakuyu|TR||94|2wc|2xm|7
+Yakutat|US||5e|4lf|-as5|7|Yakudat;Yakitat
+Yambrasbamba|PE||3o|-fy|-60g|7
+Yazermi|CI||0|hy|-gp|7|Yasermi
+Yohaltún|MX||3z|1gt|-6yv|7|Yahaltún
+Yanderra|AU||8l|-2nc|bma|7
+Yarbaşı|TR||94|2vv|38a|7
+Yağcı|TR|Samsun|94|367|2qo|7
+Yağcı|TR|Afyonkarahisar Province|94|2zg|2bf|7
+Santos Reyes Yucuna|MX||41|1de|-7k8|6|Yacuna
+Yapo Kouakoukro|CI||0|lh|-dm|6
+Yarnell|US||4i|2n2|-8p7|6
+Yanaca|PE||3o|-13j|-5n8|6
+Yavirironi|PE||3o|-us|-5rk|6
+Yabluniv|UA|Zakarpattia|98|3qf|1ri|6|Yablonov
+Derenti|TR||94|333|238|6|Yazıbaşı
+Yabrūd|PS||6g|2gt|2px|6
+Yarımkaş|TR||94|2wr|33i|6
+Yakacık|TR|Gaziantep|94|2ui|2wa|6
+Yaylapınar|TR||94|2v5|29a|6
+Yasenovo|BG||9v|3ak|1y5|6
+Yayıktaş|TR||94|2vh|2vy|6
+Yatesville|US|Pennsylvania|48|35f|-5vl|6
+Yaxunah|MX||3z|1l2|-6uc|6|Yaxuná
+Yazlovets|UA||98|3s1|1yo|6|Yablunivka;Jazłowiec;Jazlovets;Jaslowez;Yablonovka;Jazlovecas;Jazlovec;Iasloviecia;Iazloveț
+Yardibi|TR||94|2x6|2sa|6
+Hovuni|AM||80|35j|3do|6|Yasaul;Yesaul;Pyunik;Ovuni
+Yājur|IL||6n|2j0|2pd|6
+Yatesville|US|Pennsylvania|48|36q|-5uj|6
+Yapoidiovogo|CI||0|qy|-f8|6
+Yaxley|MX||2b|1ix|-6t0|6
+Yalentay (San Joaquín)|MX||41|1ai|-75o|6
+Yaykın|TR||94|336|23d|6|Reşadiye
+Yalınkaya|TR||94|34u|3c6|6
+Janjar|AL||9y|32a|1ka|6|Yanjar
+Yatır|TR||94|2xz|33k|6
+Yaseny|UA||98|3q4|1zb|6|Yassény;Căbești
+Yazılı|TR||94|2ud|2w2|6
+Yakaköy|TR|Afyonkarahisar Province|94|2x7|2bh|6
+Yah-ta-hey|US||2p|2qz|-8e6|6
+Yao Bango|CI||0|lp|-9e|6
+Yaylacık|TR|Mardin|94|2w0|350|6|Keferdel’;Keferdel
+Yaylasaray|TR||94|350|2sf|6
+Yanacancha|PE|Junin|3o|-xw|-5tf|6
+Yasenove Pershe|UA||98|3p3|2bd|6|Yassénové Perché
+Yāseh Chāh|IR||7o|2in|3x9|6|Yāseh Chā
+Yakaköy|TR|Düzce|94|35n|2ei|6|Yaka
+Yalmanlı|TR||94|2ui|2q2|6
+Yabteclum (Pueblo Viejo)|MX||41|1b2|-755|6
+Yarpuzlu|TR||94|2xp|2z0|6
+Yakaköy|TR|Aydın|94|2wk|26s|6
+Yangas|PE||3o|-wi|-5xh|6
+Yarkoye|UA|Crimea|9t|3hg|2lx|6|Yarke
+Yakbedougou|CI||0|ox|-l2|6
+Yaxalumil|MX||41|1b0|-756|6
+Yayıklı|TR||94|34a|3ai|6|Divik;Tivik
+Yalahui|MX||41|1cd|-7f2|6
+Yanama|PE||3o|-p2|-5z7|6
+Yalcoc|MX||41|19e|-73j|6
+Yanaquihua|PE||3o|-17u|-5mg|6|Yanaquinua;Yanaquigua
+Yanacocha|PE||3o|-t3|-5wi|6
+Yassuikro|CI||0|jf|-d1|5|Yasuikro
+Yapokro|CI||0|ex|-9g|5
+Yaşarköy|TR||94|2v0|34m|5
+Yaem|KH||78|11y|89v|5
+Yakpabo-Kpangbassou|CI||0|jf|-dn|5
+Yaylacık|TR|Diyarbakır Province|94|2xi|314|5
+Yazman|TR||94|2vh|380|5
+Yalankoz|TR|Diyarbakır Province|94|2x3|334|5
+Yarışlı|TR|Burdur|94|2wg|2b6|5
+Yağlıca|TR||94|33v|3cg|5|Zıhcı
+Yarroweyah|AU||8j|-2rs|b8c|5
+Yarmasu|TR||94|2t2|2jx|5|Yarmusu Yaylası
+Yanchukan|RU||6k|4c9|8pc|5|Jantsjukan
+Yangliugou|CN||7i|24a|8e7|5|Yang-liu-kou
+Yağlı|TR||94|32o|3dh|5
+Yamanlı|TR||94|2y2|2so|5
+Yağmurlu|TR||94|2us|31a|5
+Yama|CI||0|qo|-hj|5
+Yallal|GM||7|11n|-17m|5|Yallol
+Yasne|UA||98|3mn|2r1|5
+Yazıbaşı|TR||94|372|2h9|5
+Yarımca|TR|Mardin|94|2ur|33x|5
+Yated|IL||6n|2ep|2nd|5|Jated
+Yarımtepe|TR||94|2tz|315|5
+Yae Paw Thaung|MM||7y|1bv|7e9|5
+Yayalar|TR||94|2y5|36s|5
+Yankeetown|US||48|28n|-6ds|5
+Yatsyny|UA||98|3vq|2j0|5|Yatsiny
+Yaylagöne|TR||94|35m|22c|5|Yaylagüne

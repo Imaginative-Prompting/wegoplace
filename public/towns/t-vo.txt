@@ -1,0 +1,582 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wuxi|CN|Jiangsu|7i|2fp|9a5|xxc|Usis;Wu-si;Vô Tích;Vuŝio;Vuhszi;Bû-sek-chhī;Ù-sék;Vuzsiz;Vuši;Usi;Wu-hsi;Wusih
+Voronezh|RU||9i|3zj|30v|82z|Woronesch;Voroněž;Voroneĵo;Voronej;Voronežas;Voroņeža;Voronezj;Woroneż;Voronjež;Woronesh
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Luhansk|UA||98|3qx|317|32h|Woroschilowgrad;Louhansk;Voroshilovgrad;Luhans'k;Loehansk;Luqansk;Lugánsk;Luhanszk
+Vladimir|RU||9i|4by|348|2r6|Wladimir;Volodimiria;Władymir;Włodzimierz;Vlagyimir
+Wŏnsan|KP||7a|30r|9u0|2jg|Gensan;Vonsanas;Vonsan;Onsan;Genzan
+Volzhsky|RU||a4|3rj|3ge|2ht|Volzjskij;Volžski;Wolschski;Volzh Sky;Volzhskiy
+Vologda|RU||9i|4ki|32s|2es|Wologda;Vologd
+Wollongong|AU||8l|-2nm|bn5|25u|Vulongongas;Vulongongo;Vollonggong
+Volta Redonda|BR||4w|-1qk|-3ei|25s|V Redonda
+Walsall|GB||9b|423|-5i|1bt|Volslas;Uolsoll;Walhshalh;Wallsall
+Volgodonsk|RU||9i|3nz|393|1al|Wolgodonsk;Volqodonsk
+Warren|US|Michigan|2q|3a1|-6el|119|Vorenas;Vorena
+Votorantim|BR||4w|-1tf|-3ns|113|Voturantim
+Watford|GB||9b|3zi|-14|yx|Votfordas
+Wolfsburg|DE||8r|41m|ty|y7|Wolfsbourg;Wolfsbörj;Wulfsborg;Volfsburgas;Wolfsbuurich
+Worthing|GB||9b|3x6|-12|vn|Vortingo
+Woking|GB||9b|3yk|-1k|sv|Vokingas
+Orsha|BY||9g|47f|2cg|s9|Orŝa;Vorsja;Orsza;Orscha
+Votuporanga|BR||4w|-1kq|-3ut|ry
+Votkinsk|RU||9p|4eh|45z|re|Wotkińsk;Votkinszk
+Vostochnoe Degunino|RU||9i|4b8|2wc|qe
+Yuzivskyi|UA||98|3pc|2x0|q6|Voroshylovskyi Rayon;Voroshylovskyi
+Volos|GR||8p|31d|1rr|nw|Bolus;Wolos;Volo
+Voznesenskyi|UA||98|3p5|2wj|nq|Petrovskyi;Petrovskyi rayon;Petrovskoye;Petrovskiy
+Voskresenka|UA|Kyiv City|98|3w8|2d0|ne|Woskresenka
+Worms|DE||8r|3tv|n8|mj|Vormatia;Wormacja;Wormatia;Woms;Vormsa;Vormsas
+Vorkuta|RU||9i|57j|4xz|m8|Workuta;Vorkouta;Vorkoeta;Vorkut;Vorcuta
+Voskresensk|RU||9i|49n|2zh|lf|Woskressensk;Voskressensk;Woskriesiensk;Woskrjesensk
+Walvis Bay|NA||1f|-1rs|14b|kg|Walfischbucht;Walvisbaai;Volvis Bėjus
+Vol’sk|RU||9s|40k|3nm|jl|Volsk;Wolsk
+Alba Iulia|RO||8u|3jz|1ti|hu|Karlsburg;Apulon;Vojvodov Bjalgrad;Ciudadela Blanca;Karlovský Bělehrad;Erdeljski Biograd;Weyssenburg;Dsulafehervaru;Gyulafehérvár;Belgrad-i Erdel;Belgrada;Alba-Julia;Weißenburg;Bălgrad;Alba Julija;Alba Júlia;Àobā Yóulìyà;Erdel Belgradı;Karlov Belehrad;Fehervaru
+Waterford|IE||8z|416|-jr|gp|Voterfordas;Port Láirge;Purt Largey
+Volzhsk|RU||9i|4b7|3qc|g4|Volzjsk;Volžsk
+Forest|BE||8t|3x6|c1|fn|Vorst
+Wolfenbüttel|DE||8r|40w|ta|f7|Wulfenbüttel;Guelpherbytum;Volfembutel
+Voi|KE||16|-9g|2z4|eu
+Wodzisław Śląski|PL||a5|3uw|1fb|dr|Silezijos Vodzislavas;Władźisłůw;Vodzislava Slonska;Wodisław-Śląski
+Volkhov|RU||9i|4mg|2hu|cp|Wolchow;Volĥov;Olhava;Vóljov;Volchov;Volchovas;Volhova
+Vomero|IT||9o|35g|13j|cg|Vommero
+Volksrust|ZA||o|-241|2b0|c2|Volkrust
+Vaukavysk|BY||9g|43o|1vx|be|Vawkavysk;Waukawysk;Volkovisk;Vaŭkavisk;Vavkaviszk;Valkaviskas;Vavkaviska;Volkovysk
+Völklingen|DE||8r|3st|j2|be
+Voghera|IT||9o|3gz|p1|ap|Iria
+Voorburg|NL||8m|40n|c4|ak|Vorbiurgas;Vorburga;Forum Hadriani
+Volodymyr-Volynskyi|UA||98|3x9|1vk|aj|Włodzimierz;Vladimir;Włodzimierz Wołyński;Lodomeria;Volodymyr;Wolodymyr;Wolodymyr-Wolynskyj;Volodimir;Volodymir-Volyns’kyy;Włodzimierzec;Volodymyr-Volyns’kyy
+Warwick|GB||9b|418|-4e|ad|Vorikas;Warwicum
+Wołomin|PL||a5|41e|1n0|a6|Volomina;Volominas
+Voerde|DE||8r|3zc|il|9x
+Voznesensk|UA||98|3o4|2f2|9a|Wosnessensk;Voznessensk;Voznesens'k;Woznesenśk
+Voluntari|RO||8u|3fl|20p|8f
+Vorob’yovo|RU||9i|4as|2w9|8c
+Vostryakovo|RU|Moscow Oblast|9i|4an|2w1|8c
+Voúla|GR||8p|2x4|1u2|7w
+Vohipaho|MG||a8|-1tf|3ny|7i|Vohipaha
+Wągrowiec|PL||a5|42p|1bs|74|Vongroveca;Vongrovecas;Wongrowitz;Wongrowiec
+Vohibinany|MG||a8|-1c7|3s7|71
+Volokolamsk|RU||9i|4bn|2rx|6y|Wołokołamsk
+Saint-Dié-des-Vosges|FR||9k|3q4|jb|6u|Sen-Dye-de-Voj;Sanctus Deodatus;Sendjēdevoža;Vogėzų Sen Djė;Saint-Dié
+Voinjama|LR||15|ne|-r3|6f|Voinyamai;Vonjama
+Volla|IT||9o|35j|13u|6d
+Voorschoten|NL||8m|40t|cd|69
+Voiron|FR||9k|3i0|fj|65
+Volendam|NL||8m|41u|e3|64
+Hulbuk|TJ||6d|2x1|5dh|61|Vose’
+Volnovakha|UA||98|3o8|2w5|5w|Volnovaja;Volnovaha;Volnovacha;Volnovahha;Wołnowacha;Volovakha
+Ampasimanolotra|MG||a8|-1ga|3sb|5u|Brickaville;Vohibinany
+Volksdorf|DE||8r|451|sa|5r
+Vogan|TG||w|hl|49|5q|Voga;Wogan
+Kojomkul|KG||65|3b3|5qs|5m|Voyenno-Antonovka;Voyenno-Antonovskoye
+Neu Wulmstorf|DE||8r|44j|r7|5m|Vosshusen;Neu-Wulmstorf
+Vondrozo|MG||a8|-1re|3nc|5j
+Vorgashor|RU||9i|57q|4x7|59|Vorgasjor
+Volochysk|UA||98|3tm|20t|55|Wolotschysk;Wolotschisk;Volotchysk;Voloçısk;Wołoczyska;Voločys'k;Woločysk
+Vordingborg|DK||8y|48t|x3|4z
+Vobkent Shahri|UZ||7g|334|4z6|4y
+Volgorechensk|RU||9i|4fk|36c|4x|Volgoretsjensk
+Vovchansk|UA||98|3vp|2um|4v|Vovchans'k;Vovčansk;Volchansk
+Penrith|GB||9b|47v|-7o|4n|Píoraid;Voreda
+Vostryakovo|RU|Moscow Oblast|9i|49w|2x1|4l|Vostrjakovo
+Vohipeno|MG||a8|-1q3|3ov|4c|Vohipeao
+Voznesenivka|UA||98|3pk|32j|48|Chervonopartizansk;Chervonopartyzans’k;Chervonopartyzansk;Chervonopartzansk;Voznesenka
+Volpiano|IT||9o|3hk|lm|40|Volpian
+Wąbrzeźno|PL||a5|440|1gn|3v|Vombžezno
+Vuktyl|RU||9i|4xd|4f7|3t|Wuktyl;Vouktyl;Voektyl;Vuktıl;Vuktõl
+Wolsztyn|PL||a5|40s|18s|3t|Volština;Wolßtin;Wollstein
+Voisins-le-Bretonneux|FR||9k|3rg|5p|3r
+Vöhringen|DE|Bavaria|8r|3q4|s0|3o
+Vostochnyy|RU|Moscow|9i|4b2|2x7|3m
+Wolgast|DE||8r|465|129|3j|Wołogoszcz;Volgaste;Wòlëgòszcza
+Wolin|PL||a5|45k|14l|3g|Wòlëń;Wollin;Volina
+Volokonovka|RU||9i|3w9|2x6|3g|Wolokonowka
+Võru|EE||9x|4gn|232|3g|Veri;Verava;Werro;Vıru;Wöru;Vyru;Verro;Veru
+Vorsma|RU||9i|4bj|3c7|3g|Worsma
+Wołów|PL||a5|3ym|1a8|3f|Volova
+Volosovo|RU||9i|4l5|29x|3d|Volossovo;Volossova;Wołosowo;Volosova;Wolossowo
+Vom|NG||u|r1|of|3c
+Zymna Voda|UA||98|3uf|1uc|36|Vodyane;Zimna Woda
+Volchikha|RU||63|40i|678|34|Voltsjikha;Voltchikha
+Vyritsa|RU||9i|4l1|2cb|33|Wyriza;Vyrica;Võritsa;Viiritsa;Viiričča
+Vytegra|RU||9i|4ph|2t9|33|Võtegra;Vitegr;Wytiegra;Vitegra;Wytegra
+Vokovice|CZ||9m|3v6|13u|33
+Vorotynsk|RU||9i|477|2s5|32
+Volodarsk|RU||9i|4c7|3by|31|Wolodarsk;Volodary
+Volda|NO||9j|4sn|gv|30
+Nadvoitsy|RU||9i|4xh|2n6|30|Vojatsu;Nadovitsy;Nadvoytsy
+Volchansk|RU||7z|4mi|4mw|2w|Voltsjansk;Volchanka
+Vosselaar|BE||8t|3yj|dl|2v|Vosselaer
+Volcán|PA||4g|oe|-6dk|2v
+Voreppe|FR||9k|3ht|fn|2u
+Staryye Atagi|RU||9i|3bs|3j2|2u|Starye Atagi;Çaxker-Yurt;Şaẋgiri-Evl;Şaẋ-Giriyn-Evla;Seẋa Ataġa;Vozdviženskaja;Vozdviženskoe ukreplenie;Vozdvizhenskaya;Staryy Atagi;Vozdvijenskaia;Starye Otagi
+Voskresenskyi-2|UA||98|3w8|2d0|2t|Kambodzha
+Volozhin|BY||9g|469|21p|2q|Wołożyn;Valozhyn;Volozhy’n;Valožyn
+Voorthuizen|NL||8m|40z|fl|2p
+Voskresenskyi-1|UA||98|3w7|2d0|2o|Vietnam;V'yetnam;Việt Nam
+Volkach|DE||8r|3ui|sf|2o
+Volodarskiy|RU||8o|3kw|3qu|2n|Volodarskij
+Voitsberg|AT||a2|3mo|163|2m
+Volodymyrets|UA||98|3yu|20m|2l|Włodzimierzec;Wolodymyrets;Volodımırets;Vladimirets;Volodymyrec';Volodymyrec;Volodîmîreț;Vladimirei;Volodymerets’
+Wolbrom|PL||a5|3vy|1iw|2j|Volbroma
+Wojkowice|PL||a5|3vx|1gw|2h|Vojkovice
+Vogošća|BA||9r|3dy|1ey|2a
+Vorona Teodoru|RO||8u|3o3|21w|28
+Vado Ligure|IT||9o|3ez|nf|28|Voœ
+Volya|RU||9i|3zt|31u|27|Volja
+Tashir|AM||80|368|3f1|26|Kalinino;Taschir;Taširas;Tachir;Tašir;Tasjir;Vorontsovka;Taszir;Kaliniko;Kalinin
+Nikol's’ke|UA||98|3n5|2vo|26|Kal’chik;Voladarskoye;Volodars’ke;Nikolśke;Wołodarśke
+Vostochnyy|RU|Kirov Oblast|97|4jb|415|24|Vostotsjnyj
+Vohenstrauß|DE||8r|3tu|ya|24|Vohenstrausz
+Vottem|BE||8t|3wr|fi|23|Votem
+Vojens|DK||8y|49h|pv|23
+Vorchdorf|AT||a2|3pc|12o|23
+Vodňany|CZ||9m|3sj|13e|23
+Volodarka|UA||98|3tl|2b3|22
+Khoroshiv|UA||98|3wj|270|21|Choroschiw;Volodarsk-Volynskyï;Chorošiv;Horoşiv;Wołodarsk Wołyński;Volodarsk-Volînskîi;Khoroshov
+Vokhtoga|RU||9i|4jd|362|1z|Vakhtoga
+Vozdvizhenka|RU||7w|3dx|a6j|1z|Vozdvizjenka
+Vohburg an der Donau|DE||8r|3rh|wa|1z|Vohbuag an da Doana
+Volzhskiy|RU||9p|44f|3v8|1y|Volzjskij;Volžski;Voljskiy;Wołżskij
+Voznesenskaya|RU|Krasnodar Krai|9i|3fr|35z|1y|Voznesenskaja;Voznesenskaia
+Volovăţ|RO||8u|3ou|1zy|1y
+Vösendorf|AT||a2|3po|19e|1y|Voesendorf
+Voznesenskaya|RU|Ingushetiya Republic|9i|3cy|3gb|1y|Voznesenskaja
+Vaals|NL||8m|3x1|gq|1y|Vols
+Volkmarsen|DE||8r|3yt|pc|1y
+Berd|AM||80|35k|3i3|1x|Tovuzkala;Shlorut;Volorut;Tovuzqala;Tovuzghala;Tovuzkale;Bert;T’avuzghala;T’auzkala
+Volterra|IT||9o|3ck|u6|1x
+Vorzel|UA||98|3we|2br|1x|Worsel;Worzel
+Vorst|BE||8t|3xw|dy|1w
+Vorozhba|UA||98|3y5|2n3|1w
+Völs|AT||a2|3n9|vh|1v
+Vozhega|RU||9i|4nz|33q|1v|Vozjega
+Vodice|HR||a6|3dk|17u|1u|Arausa
+Vol’no-Nadezhdinskoye|RU||7w|3ch|a6o|1u|Volno-Nadezjdinskoje;Vol’no-Nadyezhdinskoye
+Voronizh|UA||98|3zu|2ky|1u|Voronezh
+Voronovytsya|UA|Vinnytsia|98|3sf|27p|1t|Voronovytsia
+Vodnyy|RU||9i|4we|44d|1r|Vodnyj
+Vöhl|DE||8r|3y9|ov|1r
+Vörå|FI||92|4ve|1pt|1r|Vöyri
+Voznesenskoye|RU||9i|48h|3as|1r|Voznesenskoje
+Wołczyn|PL||a5|3xq|1e5|1q|Konstadt;Volčina
+Voineşti|RO|Iași County|8u|3mr|246|1q
+Voineşti|RO|Dâmbovița County|8u|3h7|1y5|1q|Voinestu
+Vorotynets|RU||9i|4bq|3jf|1q|Worotynez
+Vogeltown|NZ|Taranaki Region|ak|-30k|dfk|1p
+Volodymyrivka|UA|Donetsk|98|3ol|2vv|1o|Vladimirovka
+Voskresenskoye|RU|Nizhny Novgorod Oblast|9i|4dw|3i7|1o|Voskresenskoje
+Vohimanitra|MG||a8|-1oa|3oi|1o
+Volney|US||48|3ce|-5w4|1m
+Vogtsburg|DE||8r|3pm|l8|1l
+Vodiane|UA||98|3nx|2nu|1l|Vodyane
+Vorst|DE||8r|3y9|ia|1l
+Volvera|IT||9o|3gv|kv|1l
+Vostochnyy|RU|Sverdlovsk Oblast|7z|4jc|4rp|1k|Vostotsjnyj
+Voss|NO||9j|4of|ht|1k
+Voronovo|BY||9g|46f|1yb|1j|Voranava;Varanavas;Voronuv;Voronov
+Vol’ginskiy|RU||9i|4bf|310|1j|Volginskij
+Völkendorf|AT||a2|3lh|12f|1j
+Vobarno|IT||9o|3is|t6|1i
+Voat Angk Khang Tboung|KH||78|ts|82d|1i
+Voat Angk Khang Cheung|KH||78|tu|82c|1h
+Vomp|AT||a2|3nh|wg|1h
+Vogelwijk|NL||8m|40o|bt|1g
+Volovets|UA||98|3rb|1sf|1f|Volóc;Wołowiec;Volovec;Ökeör Mezeö
+Vorontsovka|RU|Voronezh Oblast|9i|3wl|343|1f|Vorortsovka
+Vosketap|AM||80|32s|3g1|1f
+Voleykiv|UA||98|3w7|2cj|1e|Voleikiv
+Vol’nyy Aul|RU||9i|3cs|3d7|1e
+Vogelkwartier|NL||8m|410|gl|1e
+Vorë|AL||9y|36z|1im|1e|Vora;Vorra;Vorrë
+Vouziers|FR||9k|3t8|d2|1d
+Voznesenka|UA||98|3m7|2qi|1d|Voznesensk
+Vorden|NL||8m|40r|hj|1d
+Fornosovo|RU||9i|4lh|2cv|1c|Vornasuo;Fornossowo;Fornosowo
+Vodskov|DK||8y|4en|ru|1c
+Voskhod|UA||9t|3if|2nj|1c
+Votice|CZ||9m|3tw|14o|1c
+Vónitsa|GR||8p|304|1m1|1b
+Voskevaz|AM||80|33w|3f2|1b
+Voskresenske|UA||98|3ml|2hb|1b|Voskressenské
+Workum|NL||8m|436|f5|1b|Warkum;Vorkumas
+Voorhout|NL||8m|412|cg|1b
+Vokhma|RU||9i|4jp|3lw|1b
+Völkermarkt|AT||a2|3lm|14n|1b|Velikovec;Voelkermarkt
+Varāvī|IR||7o|24b|43d|1a|Vorāvī;Waravi
+Vogt|DE||8r|3op|r5|19
+Voila|RO||8u|3ja|1x0|19
+Völkermarkter Vorstadt|AT||a2|3li|13s|19
+Volta Mantovana|IT||9o|3hw|tm|19
+Vorniceni|RO||8u|3pa|223|19|Voriuceni
+Volvic|FR||9k|3jf|8g|19
+Volta Grande|BR||4w|-1oh|-3a6|18
+Vouneuil-sous-Biard|FR||9k|3ld|r|18
+Vojka|RS||8q|3gu|1jz|17
+Vouliagméni|GR||8p|2x1|1u2|17
+Voykovo|UA|Crimea|9t|3i2|2t8|17
+Vovale|IN||6t|1gq|5my|17
+Vorokhta|UA||98|3q5|1w8|16|Worochta
+Odzun|AM||80|361|3fx|16|Uzunlar;Vornak;Uzun;Udzna gyugh;Udzun;Utsun;Ozun;Ozunlar;Otsun;Odzna gyugh;Odzno gyugh;Dzun
+Vöhringen|DE|Baden-Wurttemberg|8r|3q9|o2|16
+Vodstroy|RU||a4|3ro|3fs|16|Vodstroj;Vodstroi
+Vöhrenbach|DE||8r|3ph|n2|16
+Volo|US||2f|39l|-6sx|16
+Vouéboufla|CI||0|l6|-gj|16
+Woldegk|DE||8r|44i|11q|15|Voldegka
+Voinka|UA||9t|3jf|2mf|15
+Volovo|RU|Tula Oblast|9i|44s|2xk|15
+Volkmarode|DE||8r|419|tg|15
+Volovo|RU|Lipetsk Oblast|9i|40j|2x8|14
+Volchanets|RU||7w|3b7|a8s|14|Voltsjanets
+Voronkiv|UA||98|3vi|2du|14|Voronkov;Woronkiw
+Vollenhove|NL||8m|42c|gj|14|Veno;Volenhovė;Follenhove
+Wojcieszów|PL||a5|3xj|188|13|Vojcešova
+Voyskovitsy|RU||9i|4ld|2b6|13|Vojskovitsy;Voiskovitsa
+Volpago del Montello|IT||9o|3j6|xo|13
+Vorukh|TJ||6d|32p|5g2|12|Wārōx;Varukh
+Vöcklabruck|AT||a2|3pc|11y|12|Féklabruk
+Voineşti|RO|Vaslui County|8u|3ld|246|12
+Vossem|BE||8t|3x8|co|12
+Voljevac|BA||9r|3dw|1d2|12
+Volders|AT||a2|3nc|w5|12
+Voyvozh|RU||9i|4up|48o|11|Vojvozj
+Jrashen|AM|Lori|80|35b|3er|11|Vortnav;Vordnav;Vardnav;Vartanli
+Volary|CZ||9m|3rv|12l|11|Wallern
+Vorselaar|BE||8t|3y8|d9|10|Vorsselaer
+Volkel|NL||8m|3zg|fp|10
+Voskresenka|UA|Zaporizhzhia|98|3nv|2t0|z|Chapayevka;Chapaievka;Woskresenka;Ceapaievka
+Volodarskogo|RU||9i|4a6|2xe|z|Volodarskiy;Volodarskij
+Volga|RU||9i|4gz|2yn|z
+Vostok|RU|Primorye|7w|3l1|ahb|z
+Voróklini|CY||73|2p6|2li|y|Oroklini;Vorglini;Voroglini
+Vonkoro|CI||0|ph|-7m|y
+Voldöpp|AT||a2|3ns|x0|y
+Voujeaucourt|FR||9k|3nw|it|x|Voujaucourt
+Vordorf|DE||8r|41h|t8|x|Wurthorp
+Vouvry|CH||a7|3kq|j5|x
+Vostan|AM||80|331|3fs|x
+Voroshnëvo|RU||9i|3zh|2s5|w|Vorosjnevo
+Voskehat|AM|Armavir|80|33i|3f5|w|Voskeat
+Voskresenskoye|RU|Saratov Oblast|9s|3zy|3me|w
+Vollersode|DE||8r|445|or|w
+Vozuća|BA||9r|3f8|1ez|w
+Vouvray|FR||9k|3np|28|w
+Voitinel|RO||8u|3p0|1zk|w
+Volturara Irpina|IT||9o|35k|15g|v
+Vodnjan|HR||a6|3gw|12h|v|Dignano;Adinianum
+Volano|IT||9o|3jk|uq|v
+Vogtareuth|DE||8r|3p7|xu|u
+Voves|FR||9k|3q3|4j|u
+Volyně|CZ||9m|3sl|12l|u
+Voerendaal|NL||8m|3xc|gh|u
+Voloka|UA||98|3pw|202|u|Voloki
+Hornstein|AT||a2|3p0|19o|u|Vorištan;Szarvkő
+Voznesenskiy|RU||6k|48i|7na|u
+Vodélobly|CI||0|h4|-kt|u|Vodéloby
+Vouillé|FR|New Aquitaine|9k|3lk|h|u
+Volkhovskiy|RU||9i|4iq|2f0|u|Volkhovskij
+Vouillé|FR|New Aquitaine|9k|3kn|-11|t
+Vourles|FR||9k|3iu|d9|t
+Volx|FR||9k|3dw|g8|t|Vòus
+Voorheesville|US||48|3ah|-5pd|s
+Volodymyrivka|UA|Mykolaiv|98|3o0|2jh|s
+Wąsosz|PL|Lower Silesia|a5|3z8|1ad|s|Herrnstadt;Vonsoša
+Voldijn|NL||8m|3ys|f7|s
+Vörstetten|DE||8r|3pj|lt|s
+Volkertshausen|DE||8r|3ou|on|s
+Vostok|RU|Sakhalin Oblast|7f|3s2|b10|s
+Vormedal|NO||9j|4kw|es|s
+Wąchock|PL||a5|3xv|1md|r|Vonhocka
+Volketswil / Volketswil (Dorf)|CH||a7|3nn|o5|r|Volketswil
+Voznesen’ye|RU||9i|4ph|2qk|r|Voznesenje;Syvärinniska;Vozneseniye
+Vonnas|FR||9k|3ke|dv|r|Vonâs
+Volgo-Kaspiyskiy|RU||8o|3kc|3p4|r|Volgo-Kaspijskij;Wolgo-Kaspijski;Wolgo-Kaspiski;Volgo-Kaspiski
+Vonihove|UA||98|3pj|1tc|r|Vonigovo
+Voinyliv|UA||98|3sh|1w1|q|Wojniłów
+Wolbórz|PL||a5|3z2|1j3|q|Volboža
+Turnu Roşu|RO||8u|3ir|1vi|q|Vöröstorony;Turnul Roşu
+Volcano|US||ax|1i0|-bz7|q
+Vouani|KM||ac|-y0|3f9|p|Voani
+Vorona|RO||8u|3o6|21z|p
+Vostochny|RU||9i|3f3|3es|p
+Voisalmi|FI||92|4po|267|p
+Vovkovyntsi|UA||98|3sp|24u|p
+Volgelsheim|FR||9k|3pd|kz|o
+Voiteg|RO||8u|3ib|1n0|o
+Wommels|NL||8m|43j|fj|o|Vomelsas
+Vólakas|GR||8p|36s|1uo|o
+El Volador|MX||41|1lc|-7i5|n|Volador
+Voznesenske|UA|Cherkasy|98|3u8|2hc|n|Voznesens’ke
+Voltana|IT||9o|3fq|x6|n
+Voineasa|RO|Olt|8u|3f0|1v1|n
+Vögelsen|DE||8r|43z|sr|n
+Vojnik|SI||9a|3kl|16i|n
+Vougoué|CI||0|kl|-ks|n|Vongoué
+Volot|RU||9i|4gx|2da|n
+Voh|NC||b8|-1m9|cpi|n
+Vondelwijk|NL||8m|40l|cx|m
+Vozsiyatske|UA||98|3oe|2h7|m|Vozsiïatské
+Vogelenzang|NL||8m|41c|cq|m
+Vöcklamarkt|AT||a2|3pc|11g|l
+Voyutychi|UA||98|3to|1s5|l|Voyutyche;Voyutichi
+Volkovo|RU||7x|3vl|9uy|l
+Edwards Air Force Base|US||3p|2p0|-93m|l|Base de la Fuerza Aérea Edwards;Edwards légitámaszpont;Vojna zrakoplovna baza Edwards;Edwardsova letecká základna;Edwards AFB;Edwards Aire Armadaren basea
+Mvouti|CG||a|-bt|yp|l|Vouti;Mvuti
+Staryy Vovchynets|UA||98|3pc|201|k|Volcineț;Staryï Vovtchynets;Wolczynetz
+Vojvoda Stepa|RS||8q|3ix|1le|k
+Vogeltown|NZ|Wellington Region|ak|-36r|dhh|k
+Voronky|UA||98|3vh|2jr|k|Voron'ki;Voron’ky
+Voskresenskoye|RU|Bashkortostan Republic|7z|43k|4bz|k|Voskresenskoje
+Voivozi|RO|Bihor County|8u|3n6|1q7|k
+Vol’noye|UA||9t|3il|2na|k
+Voinivka|UA||98|3rb|2ju|k|Voynovka;Voynivka
+Volochayevka Vtoraya|RU||7w|3qx|adu|k|Volotsjajevka-Vtoraja
+Vouneuil-sur-Vienne|FR||9k|3ls|1i|k
+Vollezele|BE||8t|3x0|b6|k|Vollezeel
+Voivodeni|RO|Mureș County|8u|3lq|1wf|j
+Vonyarcvashegy|HU||8v|3lw|1c3|j
+Vorokomle|UA||98|3zn|1xn|j|Vorokome;Worokomle
+Voinești|RO|Arges|8u|3hu|1xn|j
+Vodytsia|UA||98|3pj|1uj|j|Vodytsya;Voditsa
+Vysotsk|RU||9i|4of|27d|j|Uuras;Wyssozk;Vyssotsk;Vysock;Vısotsk;Visock;Võssotsk;Wysock;Visocka;Trångsund;Uuraa;Uras;Trongsund;Tranzund;Transund
+Volga|US||2f|3f4|-7h9|j
+Voskehask|AM||80|358|3dl|i|Musakan;Molla Musa;Voskeask
+Voltlage|DE||8r|41n|lj|i
+Vorra|DE||8r|3to|vx|i
+Valvasone|IT||9o|3jr|zr|i|Voleson
+Volmerange-les-Mines|FR||9k|3tc|gw|i
+Voulx|FR||9k|3q4|89|i
+Voiceşti|RO||8u|3fw|1vg|i
+Vockerode|DE||8r|401|yb|h
+Völkenrode|DE||8r|41a|t0|h
+Voiehoshcha|UA||98|3zi|1xp|h|Voyehoshcha;Voyegoshche;Voyegoshcha
+Vodyanske|UA||98|3qh|2v3|h|Vodianske;Vodyanskoye;Vodyanoye
+Voineasa|RO|Vâlcea County|8u|3i6|1uj|h|Voineasca
+Voykovo|UA|Crimea|9t|3if|2m3|h|Ajbar
+Void-Vacon|FR||9k|3r8|fm|h
+Vourey|FR||9k|3hw|fc|h
+Voderady|SK||8s|3q4|1cs|h
+Vordemwald|CH||a7|3nc|ly|h
+Voyager Point|AU||8l|-2mc|bnd|h
+Volturino|IT||9o|378|160|g
+Volkenschwand|DE||8r|3r0|x0|g
+Vođinci|HR||a6|3hs|1fp|g|Vodjinci
+Vorstenbosch|NL||8m|3zh|ff|g
+Völpke|DE||8r|40u|uu|g
+Volonne|FR||9k|3ej|gp|g|Volona
+Vodice|SI||9a|3kb|149|g
+Volochayevskoye|RU||96|47y|1k6|g
+Voloder|HR||a6|3ij|1ac|g
+Vougy|FR|Auvergne-Rhône-Alpes|9k|3k2|bg|g
+Voloshka|RU||9i|4qd|33d|g|Volosjka
+Voglans|FR||9k|3iq|gd|g
+Vorey|FR||9k|3hj|av|f
+Voorhees|US||48|34g|-5qx|f
+Volstroff|FR||9k|3sz|he|f
+Voorst|NL||8m|40x|h2|f
+Vœuil-et-Giget|FR||9k|3im|f|f
+Vonore|US||48|2qv|-6i0|f
+Voyevodske|UA||98|3pj|2er|f|Voïévodské
+Vorsha|RU||9i|4bp|33c|e|Vorsja
+Vogogna|IT||9o|3jt|n1|e
+Vosselare|BE||8t|3xr|9w|e|Vosselaere
+Voulangis|FR||9k|3rp|82|e
+Vounoplagiá|GR||8p|329|1lr|e|Vounoplayiá
+Voronivka|UA||98|3oe|2f9|e
+Voutezac|FR||9k|3ht|40|e|Vautezac
+Voloske|UA|Dnipropetrovsk|98|3q7|2pm|e|Volosskoye;Voloskoye;Voloshskoye;Volos’ke
+Vovchyk|UA||98|3v4|2k7|d
+Voorde|BE||8t|3x6|az|d
+Vovchanski Khutori|UA||98|3vq|2uv|d|Volchanskiye Khutora;Vovchans’ki Khutory
+Voskevan|AM||80|368|3h6|d|Koshkotan;Ghshghtan;Ghoshkhotan;Ghoshghotan
+Vovchynets|UA|Chernivtsi|98|3qm|22s|d|Volchinets
+Vozdvyzhivka|UA||98|3on|2s8|d|Harnenke;Shelekhivka;Vozdvizhevka
+Vorau|AT||a2|3np|185|d
+Fiè Allo Sciliar|IT||9o|3l8|vy|d|Völs am Schlern
+Volkstedt|DE||8r|3z8|w4|d|Vulchistedin
+Voetin|RO||8u|3i8|23f|d
+Vò|IT|Veneto|9o|3hx|wc|d
+Võhma|EE||9x|4iv|1yz|d|Vıhma;Vehma;Vekhma;Wöhma;Vechma
+Vorbasse|DK||8y|4aj|p8|d
+Vorderthiersee|AT||a2|3o6|xm|d
+Volduchy|CZ||9m|3ua|11u|d|Wolduch
+Vouzon|FR||9k|3od|5q|c
+Voisenon|FR||9k|3qx|7e|c
+Volargne|IT||9o|3ii|u2|c
+Melíti|GR||8p|35f|1ny|c|Vosterani;Vostarani;Ovçarani
+Voievodeasa|RO||8u|3os|1zj|c|Voevodeasa;Voivodeasa
+Völkershausen|DE||8r|3x4|rx|c
+Vojkovice|CZ|South Moravian|9m|3s9|1a5|c
+Voșlăbeni|RO||8u|3ll|1z7|c|Vasláb;Voşlobeni
+Von Ormy|US||2f|29d|-7m0|c
+Voskehat|AM|Aragatsotn|80|33w|3f0|c|Voskeat
+Voghiera|IT||9o|3gc|wn|c
+Vyshnivchyk|UA|Ternopil|98|3sr|1yh|b|Vysjnivtsjyk;Wiśniowczyk;Võšnivtšõk;Vîșnivciîk;Vyşnivçyk;Vishnivchik;Vis’niovchik
+Vogau|AT||a2|3lt|17d|b
+Vozokany|SK||8s|3qx|1dz|b
+Voznesenske|UA|Mykolaiv|98|3oa|2fl|b|Voznessenské
+Kopani|UA||98|3oo|2yi|b|Voykovskiy;Voykovs'kyy;Voikovskyi;Wojkowskyj;Woikowski;Kopany
+Vojnić|HR||a6|3hw|17m|b
+Vorobyovo|UA||9t|3hx|2kd|b
+Voroux-lez-Liers|BE||8t|3wt|ff|b|Voroux-les-Liers
+Vorwerk|DE||8r|43r|pf|b
+Volodymyrivka|UA|Kirovohrad|98|3q5|2kw|b
+Vorţa|RO||8u|3ju|1r0|b
+Vougy|FR|Auvergne-Rhône-Alpes|9k|3jz|hz|b
+Voigtstedt|DE||8r|3yr|vf|b
+Volxheim|DE||8r|3ue|m1|b
+Vorbach|DE||8r|3ue|wm|b
+Vordernberg|AT||a2|3nx|15n|a
+Voznesenka Persha|UA||98|3k5|29w|a|Voznesenka;Vosneșeni;Voznessenka Percha
+Volodymyrivka|UA|Zaporizhzhia|98|3lm|2po|a
+Voinykha|UA||98|3us|2jv|a|Voynykha
+Vorontsovka|RU|Krasnodar Krai|9i|3ll|2xs|a
+Vogar|IS||87|4xq|-1q6|a|Voga;Vogum
+Volpedo|IT||9o|3gp|oz|a
+Vokhaïkó|GR||8p|2xf|1rb|a|Vochaiko
+Vorderthal|CH||a7|3mw|oq|a|Vordertal
+Volkovce|SK||8s|3qa|1fa|a
+Voltago Agordino|IT||9o|3kj|xd|a
+Voreinó|GR||8p|35z|1pc|a
+Vorontsovka|RU|Sverdlovsk Oblast|7z|4lq|4nc|a
+Vouvant|FR||9k|3ld|-25|a
+Voghjaberd|AM||80|33l|3g1|a|Oghjaberd;Voxjaberd
+Volytsia|UA||98|3zk|1y8|a|Volytsya;Volitsa
+Voćin|HR||a6|3iq|1cr|a
+Volodarskoye|KZ||5s|42a|550|a|Volodarskoe
+Vostochnyy|RU|Sakhalin Oblast|7f|3q3|b06|9|Vostotsjnyj;Vostochnaya
+Zillingtal|AT||a2|3ot|19l|9|Celindof;Völgyfalva
+Volmunster|FR||9k|3sg|kf|9|Wollmünster;Wolmünster
+Voroux-Goreux|BE||8t|3wp|f3|9
+Vo|IT|Veneto|9o|3ia|vt|9
+Lermontovo|AM||80|358|3fz|9|Voskresenovka;Voskresenka;Voskresensk;Lermontov
+Vouvray-sur-Loir|FR||9k|3oi|1a|9
+Voloska Balakliya|UA||98|3tu|2vp|9|Volos’ka Balakliya;Voloska Balakliia;Shchenyache;Shcheniache;Voloskaia Balakleia;Voloskaya Balakleya;Volosskaia Balakleika;Voloskaia Balakleika;Volosskaya Balakleya;Voloskaya Balakleyka;Volosskaya Balakleyka
+Orosaniso|CI||0|oi|-lh|9|Vorosanisso
+Voivres-lès-le-Mans|FR||9k|3p5|7|9
+Vogrsko|SI||9a|3jj|122|9|Voghersca;Vogersko
+Voormezele|BE||8t|3x6|80|9|Voormezeele
+Volodymyrivka|UA|Kherson|98|3k4|2ip|9
+Vovchanske|UA||98|3le|2pi|9|Vovchans’ke
+Vodnoye|UA||9t|3gu|2m1|9
+Voutré|FR||9k|3pq|-t|9
+Vozarci|MK||9u|373|1ow|9
+Vabalninkas|LT||a3|4bi|1wr|9|Vabalninka;Vabalninks;Wobolniki;Zabalninkas;Vabalninko;Vobol’niki;Vabalninkai
+Voievoda|RO||8u|3ds|1xu|8|Voivoda;Voevoda
+Vorochovo|UA||98|3rb|1qd|8|Kapuszög;Vorocheve;Vorochevo
+Karpivka|UA|Dnipropetrovsk|98|3of|2k0|8|Vol’naya Karpovka
+Vodochody|CZ||9m|3vh|140|8
+Volochayevskiy|RU||9i|3la|3ah|8|Volotsjajevskij
+Voka|EE||9x|4l1|24m|8
+Vollsjö|SE||9w|4aq|12b|8
+Valy|RU||9p|445|3t9|8|Voly
+Volokhiv Yar|UA||98|3ts|2uq|8|Volokhov Yar;Volkhov Yar
+Vojkovice|CZ|Moravian-Silesian Region|9m|3u0|1fb|8
+Vogelsang|DE||8r|40y|14q|8
+Voynegovtsi|BG||9v|3aw|1t2|8|Voinegovtsi;Voynyagovtsi
+Wall Lake|US||2f|39f|-7c5|8|Voll-Leyk
+Voiteur|FR||9k|3lv|fl|8
+Vovchynets|UA|Chernivtsi|98|3pu|1yn|8|Vovtchynets;Volcineț
+Voloshkove|UA||98|3qo|24e|8|Volochkové;Voloșcova
+Vogüé|FR||9k|3fr|c9|8
+Voskresenka|UA|Zaporizhzhia|98|3m1|2ro|8
+Vogelsberg|DE||8r|3y1|v9|8
+Voitove|UA||98|3w7|2fp|8|Voytove;Woytowe;Voytovo;Voikove;Wojtowe;Voykove;Vojkove;Voykovo
+Vokzal-Horodnia|UA||98|407|2fw|7|Vokzal-Horodnya;Vokzal-Gorodnya
+Vordersee|AT||a2|3on|10t|7
+Volčja Draga|SI||9a|3jj|120|7|Valvolciana
+Voronove|UA||98|3ru|2z5|7|Voronovo;Woronowe;Voronov;Voronova
+Volnay|FR||9k|3p5|1b|7
+Vojvodinci|RS||8q|3h2|1nb|7|Vojvodincz
+Vóroi|GR||8p|2pf|1wx|7|Vórroi
+Vollore-Ville|FR||9k|3j6|a0|7
+Voúnargo|GR||8p|2wu|1nh|7
+Vojnův Městec|CZ||9m|3u0|184|7
+Vodiana Balka|UA||98|3um|2ns|7|Vodyana Balka;Vodyanaya Balka
+Voorweg|NL||8m|40p|cu|7
+Vornholz|AT||a2|3no|17z|7
+Vieux Vouzan|FR||9k|3io|z|7|Vosan
+Voskepar|AM||80|362|3h6|7|Aksibara;Aghzibara;Haykakan Aksibara;Verin Aksibara;Aksipara;Voskepat;Akhsibara
+Vorona Mare|RO||8u|3o4|21y|7
+Vopnafjörður|IS||87|52o|-157|7|Vopnafjörð;Vopnafirði;Vopnafjarðar
+Volodymyrivka|UA|Mykolaiv|98|3o7|2dr|7
+Oleksandrivka|UA|Kirovohrad|98|3rc|2ki|7|Voroshylovka;Aleksandrovka
+Voskobiynyky|UA||98|3uz|2mw|7|Voskobiinyky
+Vorderweidenthal|DE||8r|3sh|lw|7
+Volodymyrivka|UA|Donetsk|98|3qk|2vr|7
+Vononloho|CI||0|s4|-go|7
+Voskresenskoye|RU|Lipetsk Oblast|9i|44r|2zw|7|Voskresenskoje;Voskrenskoye
+Voislova|RO||8u|3ih|1qe|7
+Voglje|SI||9a|3ke|144|7
+Völkersweiler|DE||8r|3sl|m1|7
+Volfířov|CZ||9m|3sf|16p|7
+Vocance|FR||9k|3hk|cn|7|Vaucança
+Voděrady|CZ|Hradec Králové Region|9m|3vh|18v|7
+Voronovytsya|UA|Chernivtsi|98|3qv|223|7|Voronovytsia;Voronovița
+Voznica|SK||8s|3qm|1fy|7|Hvozdnica
+Vojkovice|CZ|Central Bohemia|9m|3vq|13y|6
+Volya-Baranetska|UA||98|3tu|1s9|6|Volya-Baranets’ka
+Vornychany|UA||98|3qi|21k|6|Vornytchany;Vorniceni
+Voloske|UA|Khmelnytskyi|98|3sp|24c|6|Voloskiye
+Vodo|IT||9o|3ky|y1|6
+Võnnu|EE||9x|4hw|235|6|Vennu;Vynnu
+Červený Kameň|SK||8s|3sd|1ei|6|Vörökö;Bibersburg;Rotenstein
+Vovkivske|UA||98|3m2|2ds|6|Vovkivs’ke
+Vorstadt|AT||a2|3n4|13o|6
+Vorderweissenbach|AT||a2|3qv|13i|6
+Volodymyrivka|UA|Zaporizhzhia|98|3lt|2rm|6
+Voskresenka|UA|Kherson|98|3ko|2mw|6|Voskresenovka
+Vozrozhdeniye|UA||9t|3hh|2pb|6
+Vorderschneeberg|AT||a2|3my|10f|6
+Voyennes|FR||9k|3u9|8b|6|Voéyenne
+Völschow|DE||8r|45o|112|6
+Volfartice|CZ||9m|3wx|145|6
+Voyevodivka|UA||98|3s2|2yt|6|Voievodivka;Voyevodovka
+Vozhd’ Proletariata|RU||9i|4a0|316|6|Vozjd Proletariata
+Vostochnoye|UA||9t|3hm|2pb|6|Üč Quju
+Voulgaréli|GR||8p|31d|1mu|6|Vourgaréli
+Volče|SI||9a|3ka|123|6
+Vojkovice|CZ|Carlsbad Region|9m|3vq|106|6
+Voineșița|RO||8u|3i6|1ul|6
+Vollmersbach|DE||8r|3u5|kc|6
+Vomperbach|AT||a2|3nh|wf|6
+Volesvres|FR||9k|3l3|bk|6
+Voltaggio|IT||9o|3fy|ok|6
+Vodicë|AL||9y|350|1jl|6|Vodica
+Vonoklasy|CZ||9m|3ur|13o|6
+Vouillé-les-Marais|FR||9k|3kv|-2o|6
+Volente|US||2f|2cj|-7jy|6
+Volkesfeld|DE||8r|3w0|jv|6
+Voděrady|CZ|South Moravian|9m|3tg|1a0|6
+Vorderbruck|AT||a2|3p0|187|6
+Vorovești|RO||8u|3my|24a|6
+Voivodeni|RO|Brașov County|8u|3j6|1x2|6
+Vochov|CZ||9m|3u8|10w|6
+Voǵani|MK||9u|36o|1na|6|Vogjani;Vođani
+Volenice|CZ||9m|3st|127|5
+Voroveni|RO||8u|3h3|1xm|5
+Voinsles|FR||9k|3r9|8c|5
+Voivozi|RO|Bihor County|8u|3nv|1p8|5
+Vollrathsruhe|DE||8r|450|yp|5
+Zmajevac|HR||a6|3j8|1g9|5|Vörösmart
+Vogelgrun|FR||9k|3pd|l1|5
+Volongo|IT||9o|3hl|sm|5
+Los Voladores|MX||41|1io|-7ll|5|Voladores
+Voerså|DK||8y|4ex|t5|5|Vorså
+Vorderschroffenau|AT||a2|3os|10n|5
+Voskresenka|UA|Donetsk|98|3p7|2ts|5
+Vouzeron|FR||9k|3na|66|5
+Vouvopótamos|GR||8p|317|1l9|5|Vouvopótamon
+Voze|IT||9o|3et|nc|5
+Võiste|EE||9x|4if|1w0|5
+Nikomidinó|GR||8p|34w|1so|5|Vorénos
+Võisiku|EE||9x|4iv|200|5
+Voulmentin|FR||9k|3me|-1f|5
+Vovkove|UA||98|3qs|1qf|5
+Bondarevske|UA||98|3ox|2yd|5|Vondarevs’ke;Vondarevske
+Vodyano-Loryne|UA||98|3o5|2h6|5|Vodiano-Loryné
+Voklo|SI||9a|3ke|142|5
+Volckerinckhove|FR||9k|3x8|6f|5|Volcherinckhove;Volkerinckhove
+Akner|AM|Lori|80|364|3g5|5|Vornak;Nerkin Vornak
+Vœgtlinshoffen|FR||9k|3pe|k8|5|Voegtlinshofen

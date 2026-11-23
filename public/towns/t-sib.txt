@@ -1,0 +1,79 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sevilla|ES||9d|2vu|-gl|5ar|Seville;Sebilla;Sevilo;Siviglia;Hispalis;Seviya;Sevilija;Sevilja;Sewilla;Sevilha;Sevilia;Séwéliye;Sivilja;Sevila;Sibilia;Sevilya;Sevilėjė
+Seeb|OM||72|1tr|4hn|3mt|Síb;Szíb;Sybas;As Sib;As-Sib;Al-Sīb
+Shibganj|BD|Rajshahi Division|6a|1xg|6w4|2x7|Sibganj
+Sibu|MY||6w|6e|8mm|1j2
+Sibiu|RO||8u|3j8|1v3|11b|Hermannstadt;Härmeschtat;Nagyszeben;Sybin;Szeben;Cibinium;Hermanştat;Hermestatt;Sibiň;Nagy-Szében
+Shibata|JP||7q|2xf|ar1|qq|Syibata;Sibata-chhī;sibata
+Sibolga|ID||6l|4u|7me|pm
+Shibukawa|JP||7q|2tc|aq4|l5|Šibukawa;Sibukawa-chhī
+Sibi|PK||6q|2a2|58k|ht
+Sibsāgar|IN||6t|22y|7aw|h9
+Sibay|RU||7z|42g|4iz|h4|Sibai;Sibaj
+Shibirghān|AF||6o|2tv|52n|fg|Şibircân;Shoburgon;Shibirgán;Chibirchan;Schibirgan;Shibarghān;Shibergan;Sheberghān
+Sibonga|PH||71|ru|9je|f6
+Shibganj|BD|Rajshahi Division|6a|1wl|6sw|a0|Sibganj
+Sibu Jaya|MY||6w|68|8n1|9q
+Sibiti|CG||a|-a8|113|97|Sibidi
+Sibut|CF||6|fw|1gz|8w
+Šibenik|HR||a6|3dh|185|8n|Sebenico;Szybenik;Shibeniku;Sebenicum;Sibenning;Szebenikó
+Shibushi|JP||7q|2fg|a46|8e|Šibuši;Sibusi-chhī
+Sibulan|PH|Central Visayas|71|q0|9ih|7t
+Siburan|MY||6w|3t|8io|7l
+Sibi|ML||5|ye|-n6|7e|Siby
+Sibaté|CO||27|ch|-5qa|6g
+Sibbo|FI||92|4nq|1y7|6d|Sipoo;Sibbå
+Shibetsu|JP|Hokkaido|7q|3da|b75|61|Shibe’tsu;Sibetu;Sibetsu
+Sibanicú|CU||36|1n0|-5zd|4p
+Si Bun Rueang|TH||62|1b5|7w4|3k|Si Bun Ruang
+Sibirskiy|RU||63|44u|6gp|3c|Sibirskoye;Sibirskij
+Sibundoy|CO||27|3c|-5xo|2n
+Sibulan|PH|Davao Region|71|j9|9oi|2i
+Sibul|PH|Central Luzon|71|165|9ca|2a
+Sibassor|SN||g|13f|-18w|29|Sibassar;Lyndiane;Linndiane
+Sibalom|PH||71|tz|9ey|21
+Shibām|YE||5r|189|3r3|1y|Schibam;Ŝibam
+Sibirtsevo|RU||7w|3es|a7y|1x
+Subusub|PH||71|193|9aq|1x|Sibusob;Subusob
+Sibagat|PH||71|oi|9p6|1d
+Sibabli|CI||0|ja|-jw|1b
+Sible Hedingham|GB||9b|40e|1n|11
+Sibulan|PH|Calabarzon|71|14z|9ep|10
+Sibutao|PH||71|nv|9j1|y|Sibutad
+Sibuco|PH||71|k9|9f3|x|Sibuko
+Sibulao|PH||71|kc|9fk|t
+Sibucao|PH||71|sy|9hd|s|Gibucao
+Sibbesse|DE||8r|40l|ri|s
+Sibley|US|Iowa|2f|3ck|-7dz|r
+Şibot|RO||8u|3jn|1st|o
+Sibul|PH|Central Luzon|71|17w|9c4|o
+Sibaguan|PH||71|w4|9gv|m
+Sibinj|HR||a6|3hj|1dr|l
+Sibari|IT||9o|32f|19q|k
+Sibinal|GT||32|163|-73p|h|Sabinal;Sivinal
+Sibsey|GB||9b|43c|2|f
+Sibret|BE||8t|3ut|fn|e
+Sibbhult|SE||9w|4cb|13g|e
+Sibaniljá Pocolum|MX||41|1aw|-74u|e
+Sibacá|MX||41|1b1|-73y|e
+Sibirikaha|CI||0|q0|-f3|d
+Sibiril|FR||9k|3r6|-ba|c
+Sibley|US|Louisiana|2f|2ie|-776|c
+Sibilia|GT||32|15n|-72i|c
+Sé|HU||8v|3n8|1a0|c|Scheibing;Šiba;Šieba
+Sibřina|CZ||9m|3v2|14r|b
+Sibirinakaha|CI||0|p0|-gx|a
+Sibbe|NL||8m|3x8|g7|a
+Sobolo|CI||0|nb|-by|a|Sibolo;Sebolo
+Sibraguhé|CI||0|iy|-ii|a|Sibraguié
+Sibiciu de Sus|RO||8u|3hy|218|a|Sibiciul-de-Sus
+Siberia|MX||41|1a6|-74d|a
+Sijbekarspel|NL||8m|42f|dw|9|Sibekarspel
+Šibice|HR||a6|3je|17u|8
+Sibito|GM||7|116|-17p|7|Sibitto
+Sibiciu de Jos|RO||8u|3hw|21a|7|Sibiciul de Jos
+Sibișel|RO||8u|3j3|1sl|6|Ósebeshely
+Šiba|SK||8s|3sr|1mz|6
+Sibajahui|MX||3x|20n|-8e2|6|Sivajahui
+Sībon|IR||7o|2ua|3u6|5|Sībūn
+Sibayo|PE||3o|-171|-5ii|5|Sivayo

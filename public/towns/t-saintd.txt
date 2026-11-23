@@ -1,0 +1,59 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Santo Domingo|DO||4v|1fb|-5e5|gzn|Saint Domingue;Ciudad Trujillo;Santo-Dominqo
+Saint-Denis|RE||ai|-1m0|4a1|170|St. Denis
+Saint-Denis|FR||9k|3ry|6j|qp|Sanctus Dionysius;Sen Deni;Sendenī;Sen-Deni
+Saint-Dizier|FR||9k|3r4|dr|8v|Sanctus Desiderius
+Saint-Dié-des-Vosges|FR||9k|3q4|jb|6u|Sen-Dye-de-Voj;Sanctus Deodatus;Sendjēdevoža;Vogėzų Sen Djė;Saint-Dié
+Saint-Doulchard|FR||9k|3mu|6j|2m
+Saint Dennis|US||3k|2y3|-6mh|2k
+Saint-Denis-en-Val|FR||9k|3oz|5h|24
+Sint-Denijs-Westrem|BE||8t|3xq|a7|1s|Saint-Denis-Westrem;Sint-Denys-Westrem;Saint Denis-Westrem
+Saint-Denis-lès-Bourg|FR||9k|3kc|ef|1d
+Saint-Denis-de-Pile|FR||9k|3gz|-l|19|Saint-Denis-de Pilles
+Saint-Didier-en-Velay|FR||9k|3hu|bw|v
+Saint-Didier-sur-Chalaronne|FR||9k|3ka|de|p
+Saint Dennis|GB||9b|3vy|-dk|m|Saint Denis
+Saint-Denis-en-Bugey|FR||9k|3jn|et|l
+Saint-Dolay|FR||9k|3o2|-5z|l|Sant-Aelwez
+Saint-Didier|FR|Provence-Alpes-Côte d'Azur|9k|3e8|e7|k
+Saint-Drézéry|FR||9k|3dh|b2|k
+Saint-Denis-la-Chevasse|FR||9k|3m2|-3s|i
+Saint-Désir|FR||9k|3si|l|i
+Saint-Denis-de-Gastines|FR||9k|3qa|-2e|i
+Saint Davids|GB||9b|404|-en|i|Saint David’s;Tyddewi;St David's;St Davids;St. David’s;Sent Deividsas;Sentdeividsa;Sankta Davido;Menevia
+Saint-Didier-de-Formans|FR||9k|3jo|da|h
+Saint David|US|Arizona|4i|2gm|-8i5|h
+Saint-Denis-les-Ponts|FR||9k|3pj|3m|g
+Saint-Denis|BE|Wallonia|8t|3w9|b6|g
+Saint-Domineuc|FR||9k|3qd|-58|g|Landoveneg
+Saint-Didier-de-la-Tour|FR||9k|3ik|f8|f
+Saint-Donan|FR||9k|3qn|-81|e|Sant-Donan
+Saint-Didier|FR|Brittany|9k|3pl|-3t|e|Sant-Ider
+Saint-Denis|BE|Wallonia|8t|3we|da|e
+Saint-Damase|CA||59|3ih|-5ms|d
+Saint-Denis-de-Cabanne|FR||9k|3k9|bp|d
+Saint David’s|GD||30|xh|-4rb|d
+Saint-Didier-sous-Riverie|FR||9k|3io|ct|c
+Saint-Donat-de-Montcalm|CA||59|3ko|-5q6|c
+Saint-Denis-d'Oléron|FR||9k|3jv|-3u|c
+Saint-Dyé-sur-Loire|FR||9k|3oe|45|b
+Saint-Denis-sur-Sarthon|FR||9k|3ql|-5|b
+Saint-Denis-sur-Richelieu|CA||59|3j6|-5n7|b
+Saint-Denis-sur-Loire|FR||9k|3oa|3v|9
+Saint-Désert|FR||9k|3lv|d3|9
+Saint-Dizier-Leyrenne|FR||9k|3jv|4r|9
+Saint-Denis-lès-Rebais|FR||9k|3ro|8x|9
+Saint-Denis-de-Méré|FR||9k|3rr|-1g|8
+Saint-Didier-des-Bois|FR||9k|3ss|2v|8
+Saint-Didier-sous-Aubenas|FR||9k|3fx|ca|7
+Saint-Désirat|FR||9k|3hq|da|7
+Saint-Dionisy|FR||9k|3dp|br|7|Saint Dionizy;Saint-Dionizy
+La Rouge|FR||9k|3q5|1z|7|Saint-Didier-sous-Écouves
+Saint-Denis-lès-Sens|FR||9k|3pz|93|7
+Saint-Denis-le-Vêtu|FR||9k|3s3|-3w|6
+Saint-Derrien|FR||9k|3qv|-bm|6|Sant-Derc'hen;Sant-Derchen
+Saint David|US|Illinois|2f|34h|-6y5|6
+Saint-Dizant-du-Gua|FR||9k|3i7|-1y|6
+Saint-Dier-d'Auvergne|FR||9k|3iw|9o|6
+Saint-Denis-sur-Coise|FR||9k|3ip|cb|6
+Saint-Denis-le-Thiboult|FR||9k|3te|3s|5

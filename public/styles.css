@@ -1,0 +1,1890 @@
+/* WeGoPlace — one stylesheet, mobile only, designed at 390x844.
+   There are no desktop breakpoints because nobody is bringing a laptop up a mountain trail.
+
+   Two lighting conditions drive every colour decision here, and they are not hypothetical:
+   4am inside a tent at 4,000 m with fully dilated pupils, and noon on an exposed pass where
+   the UV index is 14 and the screen is behind polarised sunglasses. So: the dark theme is a
+   warm near-black rather than #000 (pure black behind #fff text at 4am is a camera flash),
+   and every text token clears WCAG AA against every surface it is allowed to sit on — the
+   ratios were measured, not eyeballed. Nothing is left at a "looks fine on my desk" grey.
+
+   THEME PATTERN, and this one is not negotiable:
+     :root                                              complete LIGHT palette
+     @media (prefers-color-scheme: dark) :root:not([data-theme])   token overrides
+     :root[data-theme="void"]                                              token overrides
+   Every colour is DECLARED in bare :root. Declaring one only inside a media query is how a
+   PWA ends up with black-on-black for the one user whose phone is in the other mode.
+
+   COLOUR IS NEVER THE ONLY SIGNAL. --ok and --warn are teal and gold rather than green and
+   red, which keeps them apart under red-green colour blindness, but state must still carry
+   an icon or a word as well. Do not ship a bare coloured dot.
+*/
+
+/* ── fonts ─────────────────────────────────────────────────────────────────────────────
+   Self-hosted, latin subset, ~125 KB together. Not linked from fonts.googleapis.com: the app
+   has to render correctly on day one of a four-day blackout, and a third-party stylesheet
+   is a request the service worker would have to cache cross-origin and opaquely. These are
+   the fontsource npm builds (SIL OFL, licences beside the files).
+
+   Two faces, each with one job. Bricolage Grotesque is the headings: a screen's title, a
+   day's heading, a sheet's title, the one big number. It is a grotesque with some warmth,
+   clearly not Inter, set at 600 from 18 px up (500 for the big number, from 40 px), with
+   tighter tracking from 20 px, and never below 18 px or in italic: under that, Inter at 600.
+   Its optical-size axis is left to the browser (font-optical-sizing on body), so a 20 px
+   title gets the cut drawn for 20 px. Inter is everything read or tapped: every time, label,
+   note and button, because it was drawn for exactly this: small sizes, dense rows, glanceable.
+
+   The heading face is --font-display alone, so it can be changed in one place.
+
+   'Bricolage Grotesque Fallback' is Arial, scaled and set to Bricolage's measures, so the
+   lines a heading takes and where they sit don't move when the real face arrives (measured
+   against the font files: weight 600 at 24 px on Arial Bold, weight 500 at 44 px on Arial). */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200 800;
+  src: url('/vendor/fonts/bricolage-grotesque-latin-opsz-normal.woff2') format('woff2-variations');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+                 U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+                 U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Bricolage Grotesque Fallback';
+  font-weight: 100 549;
+  src: local('Arial'), local('ArialMT');
+  size-adjust: 104.3%;
+  ascent-override: 89.2%;
+  descent-override: 25.9%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Bricolage Grotesque Fallback';
+  font-weight: 550 900;
+  src: local('Arial Bold'), local('Arial-BoldMT');
+  size-adjust: 100.2%;
+  ascent-override: 92.8%;
+  descent-override: 26.9%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url('/vendor/fonts/inter-latin-wght-normal.woff2') format('woff2-variations');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+                 U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+                 U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* ── tokens: light ─────────────────────────────────────────────────────────────────────
+   Warm adobe paper. Measured against --ground / --surface / --surface-2:
+   ink 16.2 / 18.3 / 14.5 · ink-2 8.5 / 9.5 / 7.5 · ink-3 5.7 / 6.4 / 5.0
+   accent 5.1 / 5.7 / 4.6 · warn 5.3 / 5.9 / 4.7 · ok 5.5 / 6.1 / 4.9 — all AA or better. */
+:root {
+  color-scheme: light dark;
+
+  --ground: #fdfdfc;
+  --surface: #ffffff;
+  --surface-2: #ece4d6;
+  --line: #d9cfbc;          /* hairline separators, decorative */
+  /* functional borders: inputs, checkboxes. The documented 3.7:1 was measured against --surface
+     only; on --surface-2 the old #8f836b came to 2.96:1, just under the non-text minimum it
+     claimed to meet. One step darker clears all three grounds: 3.55 / 3.99 / 3.16.
+     Caught by scripts/theme_contrast.js, which is why that script exists. */
+  --line-strong: #8a7e66;
+
+  --ink: #17150f;
+  --ink-2: #4c4535;
+  --ink-3: #665f4a;
+
+  /* ACCENT. The one accent, a muted slate blue, written into bare :root (the dark blocks give its dark set). The six
+     accents a person could pick retired with Appearance's System, Light, Dark; the screens still on the old
+     look use this one until their flows move them onto the system's solid. */
+  --accent: #476786;        /* slate blue — 5.25 / 5.91 / 4.68 on the three light grounds */
+  --accent-ink: #ffffff;    /* text ON an accent fill — 5.91 on --accent */
+  --accent-soft: #e1e8f0;   /* accent-tinted chip background — --accent reads 4.79 on it */
+
+  --warn: #8a5a00;          /* gold, not red — see the colour-blindness note above */
+  --warn-soft: #faf0ce;
+  --ok: #0a6e63;            /* deep teal */
+  --ok-soft: #d6efe9;
+
+  /* ── event-kind tints ───────────────────────────────────────────────────────────────
+     Six kinds — flight, transit, meal, lodging, activity, plan — each get a wash and an ink
+     for the glyph that sits on it. They exist because only 46 of 312 places carry a licensed
+     photograph: on a trek day roughly a third of the cards have no picture, and a card with
+     no picture has to be a SECOND finished treatment rather than a hole. The tinted tile is
+     that treatment.
+
+     Chosen for LIGHTNESS separation as much as hue, because under deuteranopia the sienna
+     and the gold collapse toward each other and the violet drifts toward the blue. The tile
+     always carries the kind's own glyph, so the colour is the second signal and never the
+     only one — the same rule the --ok / --warn pair is built on.
+
+     Glyph-on-wash ratios, measured not eyeballed: flight 6.8 · transit 5.1 · meal 5.2 ·
+     lodging 6.4 · activity 4.8 · plan 6.3. The lowest clears text AA and every one of them
+     clears the 3:1 non-text minimum the glyph actually has to meet. */
+  --kind-flight: #1b4f86;    --kind-flight-soft: #dde8f6;    /* blue */
+  --kind-transit: #0a6e63;   --kind-transit-soft: #d6efe9;   /* teal */
+  --kind-meal: #8a5a00;      --kind-meal-soft: #faf0ce;      /* gold */
+  --kind-lodging: #56409b;   --kind-lodging-soft: #e8e3f6;   /* violet */
+  --kind-activity: #b3400e;  --kind-activity-soft: #fbe7dc;  /* sienna, the app's own hue */
+  --kind-plan: #57503e;      --kind-plan-soft: #e9e3d5;      /* neutral */
+
+  /* ── place-category tints ───────────────────────────────────────────────────────────
+     The seven PLACE categories: practical green, food red, drink purple,
+     sight tan, activity orange, lodging brown, transit blue. Separate from --kind-* above,
+     which tints the six EVENT kinds; a place row and the event that happens there are
+     different objects and the design tints them on different axes.
+
+     Three tokens each, because a category colour is asked to do three jobs:
+       --cat-X        ink on a plain surface — list glyph, chip text, map pin FILL
+       --cat-X-soft   the wash --cat-X is allowed to sit on — soft tile, selected chip
+       --cat-X-on     ink that sits ON --cat-X when it is used as a background (pin glyph)
+
+     Measured, not eyeballed. Every --cat-X clears 4.5:1 on all three surfaces
+     (--ground / --surface / --surface-2), on its own -soft, and against its -on:
+       practical 5.81/6.53/5.18 soft 5.27 on 6.53   food     6.44/7.25/5.74 soft 5.69 on 7.25
+       drink     6.73/7.57/6.00 soft 5.92 on 7.57   sight    5.58/6.28/4.98 soft 5.09 on 6.28
+       activity  5.49/6.18/4.90 soft 4.97 on 6.18   lodging  7.27/8.17/6.48 soft 6.26 on 8.17
+       transit   7.15/8.04/6.37 soft 6.42 on 8.04
+
+     AND THE PART THAT MATTERS: simulated under deuteranopia these seven collapse into two
+     clusters — practical/food/sight/activity/lodging all land on a yellow-brown within
+     1.1:1 of each other, drink and transit on a blue-violet. That is not a palette that can
+     be fixed by choosing better hues; seven hues do not survive dichromacy. It is the reason
+     icons.js gives every SUBcategory its own glyph and why the filter chips carry the
+     category as a word. Colour here is reinforcement for the people who can see it and is
+     never the only thing distinguishing two rows. */
+  --cat-practical: #1a6b3d;  --cat-practical-soft: #d7ecdd;  --cat-practical-on: #ffffff;
+  --cat-food: #a81d38;       --cat-food-soft: #fadde1;       --cat-food-on: #ffffff;
+  --cat-drink: #6a3ba4;      --cat-drink-soft: #e8e0f7;      --cat-drink-on: #ffffff;
+  --cat-sight: #7d5a12;      --cat-sight-soft: #f2e7c6;      --cat-sight-on: #ffffff;
+  --cat-activity: #a04705;   --cat-activity-soft: #fbe2d1;   --cat-activity-on: #ffffff;
+  --cat-lodging: #6d4630;    --cat-lodging-soft: #ecdfd5;    --cat-lodging-on: #ffffff;
+  --cat-transit: #1a5289;    --cat-transit-soft: #dbe7f6;    --cat-transit-on: #ffffff;
+
+  /* Ink and veil for text laid OVER a photograph. Declared once and deliberately NOT
+     re-declared in either dark block: a photograph is not themed, so the credit line over it
+     must not flip to dark ink the moment the phone does.
+     Alpha raised .66 -> .82 after measuring white 10px type against the actual pixels of all
+     eleven hero crops: a sand dune came out at 3.0:1 mean, under AA for small text,
+     and every crop had bright patches at ~2:1. This is an attribution line, so legible is the
+     requirement rather than the ambition. The veil alone still cannot carry a blown-out
+     highlight; --on-shot-halo is the second layer, applied as a text-shadow at the point of
+     use, and the two together hold the worst pixel above 4.5:1. */
+  --on-shot: #ffffff;
+  --on-shot-veil: rgba(10, 8, 6, .82);
+  --on-shot-halo: rgba(6, 5, 4, .92);
+
+  --bar: rgba(246, 241, 232, .92);          /* translucent chrome over scrolling content */
+  --shadow: 0 1px 2px rgba(23, 21, 15, .07), 0 6px 18px rgba(23, 21, 15, .06);
+  --shadow-lift: 0 2px 6px rgba(23, 21, 15, .10), 0 14px 34px rgba(23, 21, 15, .12);
+  --scrim: rgba(23, 21, 15, .48);
+  --press: rgba(23, 21, 15, .06);           /* :active wash on tappable surfaces */
+
+  --r-sm: 8px;
+  --r-md: 14px;
+  --r-lg: 22px;
+
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+
+  --font-display: 'Bricolage Grotesque', 'Bricolage Grotesque Fallback', system-ui, sans-serif;
+  --font-ui: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  /* The type scale, as `font` shorthands with their tracking beside them:
+       font: var(--t-hero); letter-spacing: var(--t-hero-track);
+     hero: the one big number (and the amount being typed); title: a screen's words when there
+     is no number; head: a sheet's title; body: rows, fields, buttons (600 for a row's first
+     line); meta: second lines and day headers (600), in --ink-2. */
+  --t-hero: 500 44px/1.05 var(--font-display);
+  --t-hero-track: -0.02em;
+  --t-title: 600 28px/1.15 var(--font-display);
+  --t-title-track: -0.02em;
+  --t-head: 600 20px/1.25 var(--font-display);
+  --t-head-track: -0.01em;
+  --t-body: 400 16px/1.45 var(--font-ui);
+  --t-meta: 400 14px/1.4 var(--font-ui);
+
+  --tap: 44px;              /* Apple's minimum, and about right for a cold thumb in a glove */
+  --bar-h: 52px;
+  /* The tab bar's own height, EXCLUDING the bottom inset (--sa-bottom). Declared rather than
+     measured because the bottom-left dock is position:fixed and has to be told where the
+     bar ends; a JS measurement would be one frame late on every rotation. */
+  --tabbar-h: 60px;
+  --back-h: 46px;           /* the back button, and the dock's row height */
+
+  /* ── the four safe-area insets, in ONE place each ──────────────────────────────────────
+     env() is the one value in CSS that a stylesheet cannot override and script cannot set.
+     So every raw env(safe-area-inset-*) sitting in a rule was a number this machine could
+     never reproduce: the app has only ever been rendered with all four at 0, which is why
+     the installed-PWA framing — status bar over the top, home indicator under the bottom —
+     went unchecked in desktop browsers.
+
+     Reading each env() exactly once, HERE, turns the insets into ordinary custom properties.
+     scripts/standalone_check.mjs sets --sa-top/--sa-right/--sa-bottom/--sa-left on <html>
+     and the whole app renders as it will on a notched phone, in this browser, forever.
+
+     The 0px fallback is not decoration: env() with no fallback is an EMPTY substitution in a
+     browser that does not know the keyword, and an empty term poisons the whole calc() it
+     sits in. With the fallback, "no notch" and "no env() support" land on the same number.
+
+     RULE, held by scripts/safe_area_tokens_check.mjs (npm run check:safe-area): no new
+     declaration may name env(safe-area-inset-*). Route it through these four, or it is a
+     number nobody can test. The uses not routed yet are listed there, and that list only shrinks. */
+  --sa-top: env(safe-area-inset-top, 0px);
+  --sa-right: env(safe-area-inset-right, 0px);
+  --sa-bottom: env(safe-area-inset-bottom, 0px);
+  --sa-left: env(safe-area-inset-left, 0px);
+
+  /* ── the top inset, in ONE place ────────────────────────────────────────────────────
+     The device inset (--sa-top) is 0 in every desktop browser and in the iOS Simulator, so
+     a notch cannot be tested by looking at it — without simulating one, content risks
+     scrolling through the status bar. --sim-inset is the older, top-only test
+     knob and stays for console verification: setting
+     it in the console (document.documentElement.style.setProperty('--sim-inset','59px'))
+     still moves the status-bar backdrop, the scroller's top padding and the sticky day strip
+     together, because all three read --safe-top and nothing reads env() directly.
+     max(), so whichever of the two is larger wins and the harness's --sa-top needs no
+     cooperation from the knob. 0px on a real phone with no notch, 47-59px on one with. */
+  --sim-inset: 0px;
+  --safe-top: max(var(--sa-top), var(--sim-inset));
+
+  /* Vertical space the tab bar occupies at the foot of the viewport, home indicator
+     included. Everything anchored above the bar — the dock, the sync line — is positioned
+     off THIS rather than off --tabbar-h, so that when the keyboard hides the bar
+     (body[data-kb="1"]) they drop with it in one declaration. */
+  --tabbar-space: calc(var(--tabbar-h) + var(--sa-bottom));
+}
+
+/* Keyboard open: the tab bar is gone, so the space it reserved is gone too. Declared here,
+   next to the token, rather than buried beside the tab bar rules. */
+body[data-kb="1"] { --tabbar-space: 0px; }
+
+/* ── tokens: dark, system preference ───────────────────────────────────────────────────
+   :not([data-theme]) — this applies in SYSTEM mode only. It used to be :not([data-theme="light"]),
+   which was right while "dark" was the only named theme and wrong the moment there were others:
+   a dark OS would have repainted every named theme with the night palette. An explicitly chosen
+   theme now owns its own colours outright, whatever the OS is doing.
+
+   THIS IS VOID: a dark phone with nothing chosen gets the black ground, the cleanest of the
+   dark themes, and the one the app is shown in. Night (warm) and Slate (cool grey, the default
+   before) are a tap away in Settings and nothing about them changed.
+
+   It is a verbatim copy of :root[data-theme="void"] below, and stays a copy on purpose: this
+   block is the one path that works with no JavaScript at all, so it cannot be expressed as a
+   selector list with the explicit rule. scripts/theme_contrast.js measures the two
+   independently and diffs them token for token, so a copy that drifts is a failing check
+   rather than a surprise at 4am. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+
+    --ground: #000000;
+    --surface: #0c0c0e;
+    --surface-2: #16161a;
+    --line: #26262c;
+    --line-strong: #6e6e78;
+
+    --ink: #f4f4f6;
+    --ink-2: #b2b2bd;
+    --ink-3: #8c8c99;
+
+    --accent: #8fb4d6;
+    --accent-ink: #0d1620;
+    --accent-soft: #1d2937;
+
+    --warn: #e8b44a;
+    --warn-soft: #372c13;
+    --ok: #4fd6be;
+    --ok-soft: #10312e;
+
+    --kind-flight: #86bcf2;    --kind-flight-soft: #16283d;
+    --kind-transit: #4fd6be;   --kind-transit-soft: #10312e;
+    --kind-meal: #e8b44a;      --kind-meal-soft: #372c13;
+    --kind-lodging: #b6a2f0;   --kind-lodging-soft: #262040;
+    --kind-activity: #ff8b52;  --kind-activity-soft: #3a2116;
+    --kind-plan: #b0a695;      --kind-plan-soft: #2a2620;
+
+    --cat-practical: #5fc98a;  --cat-practical-soft: #12301f;  --cat-practical-on: #0f0d0b;
+    --cat-food: #ff8fa0;       --cat-food-soft: #3d1a22;       --cat-food-on: #0f0d0b;
+    --cat-drink: #b6a2f0;      --cat-drink-soft: #262040;      --cat-drink-on: #0f0d0b;
+    --cat-sight: #e0bb63;      --cat-sight-soft: #332a12;      --cat-sight-on: #0f0d0b;
+    --cat-activity: #ff9a4d;   --cat-activity-soft: #3a2116;   --cat-activity-on: #0f0d0b;
+    --cat-lodging: #d2a384;    --cat-lodging-soft: #332319;    --cat-lodging-on: #0f0d0b;
+    --cat-transit: #86bcf2;    --cat-transit-soft: #16283d;    --cat-transit-on: #0f0d0b;
+
+    --bar: rgba(0, 0, 0, .94);
+    /* ELEVATION AS AN EDGE. Not a shadow softened until it disappears — an actual hairline, so a
+       card still reads as a separate object against a ground it cannot cast onto. */
+    --shadow: 0 0 0 1px #26262c;
+    --shadow-lift: 0 0 0 1px #34343c;
+    --scrim: rgba(0, 0, 0, .74);
+    --press: rgba(244, 244, 246, .10);
+
+    /* Tighter corners, because a flat surface with a big radius reads as a sticker. */
+    --r-sm: 6px;
+    --r-md: 10px;
+    --r-lg: 16px;
+  }
+}
+
+/* ── tokens: void ──────────────────────────────────────────────────────────────────────
+   TRUE BLACK, and cool rather than warm — the two things "Night" is not. Night is a brown-black
+   because the app is printed on adobe paper; this one is for an OLED screen at night, where a
+   #000 pixel is an OFF pixel and the warm cast reads as a smudge.
+
+   It is also the theme that changes the ELEMENTS, not just their colour. On a pure black ground
+   a drop shadow has nothing to fall on — it is invisible below the surface and muddy above it —
+   so elevation is drawn as a hairline instead, and the radii tighten to match: a flat, engraved
+   look rather than a lifted one. Everything below --press is doing that job.
+
+   Measured on --ground / --surface / --surface-2 (#000 / #0c0c0e / #16161a):
+   ink 19.12 / 17.79 / 16.43 · ink-2 10.00 / 9.30 / 8.59 · ink-3 6.33 / 5.89 / 5.44
+   line-strong 4.16 / 3.88 / 3.58 — all well clear, and re-checked by scripts/theme_contrast.js.
+
+   The chromatic sets are the night palette's, unchanged and deliberately so: they were measured
+   against a dark ground, every one of them gains contrast on a darker one, and their soft washes
+   are self-contained pairs whose internal ratios do not move. Re-tuning twenty tints to be a
+   little cooler would have been twenty new numbers to get wrong for no legibility gained. */
+:root[data-theme="void"] {
+  color-scheme: dark;
+
+  --ground: #000000;
+  --surface: #0c0c0e;
+  --surface-2: #16161a;
+  --line: #26262c;
+  --line-strong: #6e6e78;
+
+  --ink: #f4f4f6;
+  --ink-2: #b2b2bd;
+  --ink-3: #8c8c99;
+
+  --accent: #8fb4d6;
+  --accent-ink: #0d1620;
+  --accent-soft: #1d2937;
+
+  --warn: #e8b44a;
+  --warn-soft: #372c13;
+  --ok: #4fd6be;
+  --ok-soft: #10312e;
+
+  --kind-flight: #86bcf2;    --kind-flight-soft: #16283d;
+  --kind-transit: #4fd6be;   --kind-transit-soft: #10312e;
+  --kind-meal: #e8b44a;      --kind-meal-soft: #372c13;
+  --kind-lodging: #b6a2f0;   --kind-lodging-soft: #262040;
+  --kind-activity: #ff8b52;  --kind-activity-soft: #3a2116;
+  --kind-plan: #b0a695;      --kind-plan-soft: #2a2620;
+
+  --cat-practical: #5fc98a;  --cat-practical-soft: #12301f;  --cat-practical-on: #0f0d0b;
+  --cat-food: #ff8fa0;       --cat-food-soft: #3d1a22;       --cat-food-on: #0f0d0b;
+  --cat-drink: #b6a2f0;      --cat-drink-soft: #262040;      --cat-drink-on: #0f0d0b;
+  --cat-sight: #e0bb63;      --cat-sight-soft: #332a12;      --cat-sight-on: #0f0d0b;
+  --cat-activity: #ff9a4d;   --cat-activity-soft: #3a2116;   --cat-activity-on: #0f0d0b;
+  --cat-lodging: #d2a384;    --cat-lodging-soft: #332319;    --cat-lodging-on: #0f0d0b;
+  --cat-transit: #86bcf2;    --cat-transit-soft: #16283d;    --cat-transit-on: #0f0d0b;
+
+  --bar: rgba(0, 0, 0, .94);
+  /* ELEVATION AS AN EDGE. Not a shadow softened until it disappears — an actual hairline, so a
+     card still reads as a separate object against a ground it cannot cast onto. */
+  --shadow: 0 0 0 1px #26262c;
+  --shadow-lift: 0 0 0 1px #34343c;
+  --scrim: rgba(0, 0, 0, .74);
+  --press: rgba(244, 244, 246, .10);
+
+  /* Tighter corners, because a flat surface with a big radius reads as a sticker. */
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 16px;
+}
+
+:root[data-theme="light"] { color-scheme: light; }
+
+/* ── base ──────────────────────────────────────────────────────────────────────────────
+   Bare element selectors live here and nowhere else (CONTRACTS.md). View modules use the
+   classes below or their own owner-prefixed ones. */
+*, *::before, *::after { box-sizing: border-box; }
+
+/* The `hidden` attribute is only a UA rule `[hidden]{display:none}`, so ANY author display
+   declaration silently beats it — .pill{display:inline-flex} left the offline badge on
+   screen forever with el.hidden === true. Every view here toggles visibility with .hidden,
+   so this needs to win outright. */
+[hidden] { display: none !important; }
+
+/* TEXTURE. A theme may set --texture to a repeating background-image; everything that paints
+   --ground paints it too, and there are three such surfaces (html for the safe-area strips and
+   the overscroll gutter, body, and the fixed status strip). They must agree, or the texture
+   seams exactly where the eye is drawn — along the notch and at the bottom of the scroll.
+   It is a background-image on surfaces that already exist rather than an overlay element,
+   deliberately: an overlay would need a stacking position among the sheet (20), the dock (8),
+   the status strip (7) and the toast (30), and the body's transform would capture it. Themes
+   that want no texture simply never set the token and this resolves to `none`. */
+html {
+  background-color: var(--ground);        /* paints the safe-area strips and the overscroll gutter */
+  background-image: var(--texture, none);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;                       /* only #view scrolls; the bars never move */
+  background-color: var(--ground);
+  background-image: var(--texture, none); /* see html, above */
+  color: var(--ink);
+  font: 400 16px/1.5 var(--font-ui);
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;              /* no rubber-band on the shell itself */
+}
+/* Installed, there is no browser chrome to collapse, and 100dvh initialises short on a cold
+   start on iOS — the tab bar lands a toolbar's height above the bottom of the screen and
+   stays there. 100vh is stable once the chrome is gone. */
+@media (display-mode: standalone) { body { height: 100vh; } }
+
+h1, h2, h3, h4, p, figure, ul, ol, dl { margin: 0; }
+ul, ol { padding: 0; list-style: none; }
+a { color: var(--accent); text-decoration: none; }
+img, svg { max-width: 100%; }
+b, strong { font-weight: 650; }
+
+button, input, select, textarea {
+  font: inherit;
+  color: inherit;
+  margin: 0;
+  touch-action: manipulation;             /* kills the 300ms double-tap-zoom delay */
+}
+button { background: none; border: 0; padding: 0; cursor: pointer; }
+
+/* iOS zooms the whole viewport when a focused field is under 16px and never zooms back
+   out. Every text entry in this app is therefore >= 16px, forever. */
+input, select, textarea { font-size: 16px; }
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: var(--r-sm);
+}
+/* ...but never on a container the USER never navigated to. tabindex="-1" means exactly that:
+   out of the tab order, focusable only by script. The app does this in two places — .sh-sheet
+   when a drawer opens and .pk-sform when its editor does — so that focus does not fall back to
+   the page behind. WebKit then matches :focus-visible on the container and draws an accent ring
+   around the whole drawer or the whole form, which reads as "why is this thing selected?".
+   Keyed off tabindex rather than off those two selectors, because the next container to do this
+   should not have to rediscover the bug. Real controls keep their ring: a button or a field is
+   in the tab order, so it is not matched here. */
+[tabindex="-1"]:focus, [tabindex="-1"]:focus-visible { outline: none; }
+
+::selection { background: var(--accent-soft); color: var(--ink); }
+
+@media (prefers-reduced-motion: reduce) {
+  /* Zeroing the duration alone leaves an `infinite` animation looping forever at 0.01ms,
+     which is a busy main thread rather than a still screen.
+     Transitions get 0s, not a very short time. With any length at all, every style a script
+     writes STARTS a transition (the property is `all` by default), and a box measured in the
+     same task is still the old box: a map fitted to where its panel used to be, a field
+     scrolled to where the sheet used to end. With 0s no transition starts, so what is
+     written is what is measured. The delay goes to 0s with it: a transition of no length
+     that waits first still starts, and still holds the old box until it ends. Nothing then
+     fires `transitionend`: whatever waits for one has a deadline of its own (sheet.js). */
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0s !important;
+    transition-delay: 0s !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ── app shell ──────────────────────────────────────────────────────────────────────────
+   Flex column, not fixed overlays: with a fixed bar the scroller has to reserve space for it
+   in padding, and every mistake in that number shows up as content hidden under the notch.
+   Here the safe-area insets are padding on the bar itself and cannot be wrong.
+
+   NO TOP BAR. There is no .app-bar, .brand or .bar-tools
+   any more; the trip name, the date range and the theme control all live on the Settings
+   screen. The one thing the bar carried that could not simply move is the connectivity
+   state, which is now the .netline rule above the tab bar, below. */
+
+#view {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: contain;          /* stops a bounce at the top from feeling like a reload */
+  scrollbar-width: none;
+  /* The top inset is padding on the SCROLLER, not on a bar, because there is no bar: the
+     first row starts below the notch, and everything after it scrolls up past it. What that
+     padding CANNOT do is hide the rows that scroll through the inset — that is .statusbar's
+     job, below. */
+  padding: calc(var(--sp-4) + var(--safe-top)) max(var(--sp-4), var(--sa-right))
+           var(--foot-clear) max(var(--sp-4), var(--sa-left));
+}
+#view::-webkit-scrollbar { width: 0; height: 0; }
+
+/* ── status-bar backdrop ───────────────────────────────────────────────────────────────
+   With no top app bar, a backdrop keeps a solid layer behind the iOS
+   status bar; scrolled content showed through at the top.
+
+   apple-mobile-web-app-status-bar-style=black-translucent plus viewport-fit=cover is what
+   makes env(safe-area-inset-*) return anything at all, and the price is that the web view
+   is drawn UNDER the status bar. Padding the scroller keeps the first row clear on the
+   first frame and does nothing whatsoever once you scroll — the clock and the battery end
+   up sitting on top of a photograph or a day heading.
+
+   So: one fixed strip, exactly the height of the top inset, painted in --ground. Not a
+   resurrected app bar ("maybe its fine to have the most minimal thing ever") — it has no
+   height of its own, no content, and eats no taps.
+
+   z-index 7 puts it over every scrolling thing (the agenda's sticky day strip is 4) and
+   under the dock (8), the sheet (20) and the toast (30). It reads --safe-top, so
+   --sim-inset drives it in a desktop browser where env() is flat 0.
+
+   MEASURED, with --sim-inset:59px in the browser: the agenda's sticky day strip pins at
+   y=59 — exactly the bottom edge of this strip — so the two meet with no overlap and no
+   gap at any scroll offset. */
+.statusbar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--safe-top);
+  z-index: 7;
+  background-color: var(--ground);
+  background-image: var(--texture, none); /* see html, above */
+  pointer-events: none;
+}
+
+/* The +'s room at the foot of a page that has one (router.js sets data-fab), so scrolled to the
+   end the + stands below the last card, never on it (the layouts, 16 Nov; before, Places, Split
+   and Packing each kept 76px of their own, and the Itinerary none). The + is 56px tall and stands
+   --sp-3 over the bar's room; the page's foot already keeps --sp-6 there, so with 56px more the
+   last card ends --sp-3 above the +. */
+:root { --fab-room: 0px; --dock-room: 0px; }
+body[data-fab="1"] { --fab-room: 56px; }
+
+/* Shared foot clearance: every scroller (#view, two-pane .rt-pane, Places' map sheet) clears
+   the tab bar, floating +, and dock (Back and/or Offline pill) through one rule. */
+body[data-back="1"], body[data-netpill="1"] { --dock-room: calc(var(--back-h) + var(--sp-2)); }
+body[data-back="1"][data-netpill="1"] { --dock-room: calc(var(--back-h) * 2 + var(--sp-4)); }
+body { --foot-clear: calc(var(--sp-6) + max(var(--bar-under), var(--tabbar-space)) + var(--fab-room) + var(--dock-room)); }
+
+/* ── bottom tabs ───────────────────────────────────────────────────────────────────────
+   Bottom, not top. A 390x844 phone held one-handed puts the top 200px outside comfortable
+   thumb reach, and this app is used walking. The bar is on the design system
+   (public/ds/shell.css: the pill, the five, the highlight that slides); what is here is where it
+   sits, how it leaves, and its shape beside the page (THE LAYOUTS, below). */
+.tabbar {
+  flex: 0 0 auto;
+  z-index: 3;
+  transition: transform var(--dur) var(--ease-out), opacity var(--dur-fast) var(--ease-out);
+}
+
+/* KEYBOARD OPEN — hide the bottom nav while the virtual keyboard is open
+   so it does not push the tab bar over content.
+
+   The bar slides out of the viewport instead of being display:none'd, and that is the point:
+   the box keeps its 60px of layout, so #view does not resize and the list under the user's
+   finger does not reflow the instant they tap a field. What they see is the bar leaving.
+   The space it vacates is --ground, and it is behind the keyboard anyway.
+
+   The dock does NOT hide with it. The back button is a control you use WHILE typing — the
+   note composer sits beside it — so it stays, and it drops to the bottom
+   because --tabbar-space went to 0. */
+body[data-kb="1"] .tabbar {
+  transform: translateY(100%);
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* ── the one line: connectivity AND sync ───────────────────────────────────────────────
+   ONE sync indicator app-wide (no 'Sending' toast): a subtle pulsing
+   line above the bottom nav whenever writes are in flight (notes, packing, everything).
+
+   So there is exactly one 2px rule in the app and it carries both facts. It used to be
+   .tabbar::before; it is its own fixed element now for one reason — the tab bar slides away
+   when the keyboard opens, and typing a note is precisely when there is something to sync.
+   Nothing exports it and nothing may draw a second one.
+
+   THREE STATES, THREE SHAPES. Hue is the second signal, never the only one:
+   simulated under deuteranopia the accent and the gold land within 1.15:1 of each other, so
+   a colour-only difference here is no difference at all for a person who sees that way.
+     idle    solid                     online, nothing queued
+     busy    a highlight sweeping L->R online, writes queued or a flush in flight
+     offline long dashes, static       no radio — nothing is being sent, so nothing pulses
+   Offline wins over busy because a pulse means "going out right now", which offline is not. */
+.netline {
+  position: fixed;
+  left: 0; right: 0;
+  /* -1px so it sits ON the tab bar's own hairline border rather than a pixel above it,
+     which is where the old ::before was. --tabbar-space collapses to 0 with the keyboard,
+     and max() is what stops that -1px from pushing the line off the bottom of the screen
+     when it does — measured: without the clamp only 1px of it was left on screen. */
+  bottom: max(0px, calc(var(--tabbar-space) - 1px));
+  height: 2px;
+  z-index: 4;
+  pointer-events: none;
+  background-color: var(--accent);
+  background-repeat: no-repeat;
+  transition: background-color var(--dur) var(--ease-out);
+}
+
+/* Busy: a single soft band travelling across a solid accent rule. --accent-soft is the
+   opposite lightness end of --accent in BOTH themes (pale wash on light, near-black tint on
+   dark), so the sweep reads as a moving highlight either way with no theme-specific colour. */
+.netline[data-sync="busy"] {
+  background-image: linear-gradient(90deg,
+    transparent 0%, var(--accent-soft) 38%, var(--accent-soft) 62%, transparent 100%);
+  background-size: 46% 100%;
+  animation: netsweep 1.5s linear infinite;
+}
+@keyframes netsweep { from { background-position: -60% 0; } to { background-position: 160% 0; } }
+
+/* Offline: long dashes. The transparent gaps let --ground show through, so this is a dashed
+   rule rather than a two-tone one. --warn at full alpha is 5.3:1 light / 9.9:1 dark. */
+body[data-net="off"] .netline {
+  background-color: transparent;
+  background-image: repeating-linear-gradient(90deg, var(--warn) 0 9px, transparent 9px 15px);
+  background-size: auto;
+  animation: none;
+}
+
+/* Reduced motion. The global block zeroes the duration, which would leave "busy" as a
+   frozen gradient indistinguishable from idle — the state would then be carried by nothing
+   at all. Give it a static SHAPE instead: fine 4px dots, which no one can confuse with
+   either the solid idle rule or the 9px offline dashes. */
+@media (prefers-reduced-motion: reduce) {
+  .netline[data-sync="busy"] {
+    background-image: repeating-linear-gradient(90deg,
+      var(--accent-soft) 0 4px, transparent 4px 8px);
+    background-size: auto;
+    animation: none;
+  }
+}
+/* ── shared kit ────────────────────────────────────────────────────────────────────────
+   The vocabulary every view module builds from. Owner-prefixed classes (.ag-*, .pl-*,
+   .pk-*, .mp-*) are for things only one view needs; anything that appears in two views
+   belongs here so the app does not drift into four visual dialects. */
+
+/* type */
+.h1 { font: var(--t-title); letter-spacing: var(--t-title-track); }
+.h2 { font-family: var(--font-display); font-weight: 600; font-size: 21px; line-height: 1.2; letter-spacing: -.01em; }
+.h3 { font-weight: 650; font-size: 16.5px; line-height: 1.3; letter-spacing: -.005em; }
+.lead { font-size: 16px; line-height: 1.55; color: var(--ink-2); }
+.meta { font-size: 13px; line-height: 1.45; color: var(--ink-3); }
+.muted { color: var(--ink-3); }
+.strong { color: var(--ink); font-weight: 600; }
+/* Times, distances, counts. Tabular figures so a column of departure times lines up — with
+   proportional digits a 21-row agenda looks like it was set by hand, badly. */
+.num { font-variant-numeric: tabular-nums; font-feature-settings: "tnum" 1; letter-spacing: .01em; }
+.eyebrow {
+  font-size: 12px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--ink-3);
+}
+.wrap-any { overflow-wrap: anywhere; }
+
+/* layout */
+.stack { display: flex; flex-direction: column; gap: var(--sp-3); }
+.stack-tight { display: flex; flex-direction: column; gap: var(--sp-2); }
+.row { display: flex; align-items: center; gap: var(--sp-2); }
+.row-top { display: flex; align-items: flex-start; gap: var(--sp-3); }
+.spread { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-3); }
+.grow { flex: 1 1 auto; min-width: 0; }
+.wrap { flex-wrap: wrap; }
+
+/* surfaces */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  padding: var(--sp-4);
+  box-shadow: var(--shadow);
+}
+.card-flat { background: var(--surface-2); border: 1px solid transparent; box-shadow: none; }
+/* Any card that is itself a link or button. display:block so it can wrap a whole row. */
+a.card, button.card, .card-tap {
+  display: block;
+  width: 100%;
+  text-align: left;
+  color: inherit;
+  transition: transform var(--dur-fast) var(--ease-out), box-shadow var(--dur-fast) var(--ease-out);
+}
+a.card[data-press="1"], button.card[data-press="1"], .card-tap[data-press="1"] {
+  transform: scale(.985);
+  box-shadow: none;
+  background: var(--surface-2);
+}
+@media (hover: hover) and (pointer: fine) {
+  a.card:active, button.card:active, .card-tap:active {
+    transform: scale(.985);
+    box-shadow: none;
+    background: var(--surface-2);
+  }
+}
+.hr { height: 1px; background: var(--line); border: 0; margin: var(--sp-4) 0; }
+
+/* section heading with a rule that fills the remaining width */
+.section-head {
+  display: flex; align-items: center; gap: var(--sp-3);
+  margin: var(--sp-5) 0 var(--sp-3);
+}
+.section-head:first-child { margin-top: 0; }
+.section-head::after { content: ""; flex: 1 1 auto; height: 1px; background: var(--line); }
+
+/* controls */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: var(--sp-2);
+  min-height: var(--tap);
+  padding: 0 var(--sp-4);
+  border-radius: var(--r-sm);
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink);
+  font-size: 15px; font-weight: 600;
+  transition: background var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
+}
+.btn[data-press="1"] { transform: scale(.97); background: var(--surface-2); }
+.btn[disabled] { color: var(--ink-3); background: var(--surface-2); border-color: var(--line);
+                 pointer-events: none; }  /* never opacity on text */
+.btn-primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.btn-primary[data-press="1"] { background: var(--accent); filter: brightness(.92); }
+.btn-ghost { background: transparent; border-color: transparent; color: var(--accent); }
+.btn-ghost[data-press="1"] { background: var(--accent-soft); }
+@media (hover: hover) and (pointer: fine) {
+  .btn:active { transform: scale(.97); background: var(--surface-2); }
+  .btn-primary:active { background: var(--accent); filter: brightness(.92); }
+  .btn-ghost:active { background: var(--accent-soft); }
+}
+/* An action that destroys something reads in the warning color before it is armed, the way
+   the account page's delete and Split's armed Delete do; the word on it is the other carrier. */
+.btn-danger { color: var(--warn); border-color: var(--line-strong); }
+.btn-block { width: 100%; }
+/* Visually small, but 44px to a thumb: the expander the codebase already uses elsewhere.
+   .btn-sm visually sits at 34px, and it carries "Open in Maps" — the primary action on the
+   event screen — so shrinking the target was never a real trade. */
+.btn-sm {
+  position: relative;
+  min-height: 36px; padding: 0 var(--sp-3); font-size: 13.5px; border-radius: var(--r-sm);
+}
+/* The height is written as a number, not as an inset: a pseudo-element is positioned against
+   the PADDING box, so "-4px" on a 36px button with a 1px border reaches 42px and falls
+   2px short of the 44px touch target. The expander is VERTICAL ONLY: two .btn-sm side by
+   side ("Open in Maps" / "Place details") are 175px wide with 8px between them, and ±4px of
+   horizontal expansion spent that gap down to 1.5px (below target-spacing minimums). A 175px control
+   does not need help being wide. */
+.btn-sm::before { content: ""; position: absolute; left: 0; right: 0;
+  top: 50%; height: var(--tap); transform: translateY(-50%); }
+
+.icon-btn {
+  display: inline-grid; place-items: center;
+  width: var(--tap); height: var(--tap);
+  margin: 0 calc(var(--sp-2) * -1);        /* 44px hit area without 44px of visual bulk */
+  border-radius: 50%;
+  color: var(--ink-2);
+}
+.icon-btn svg { width: 21px; height: 21px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.icon-btn[data-press="1"] { background: var(--press); color: var(--accent); }
+@media (hover: hover) and (pointer: fine) {
+  .icon-btn:active { background: var(--press); color: var(--accent); }
+}
+
+/* chips, pills, badges */
+.chip {
+  display: inline-flex; align-items: center; gap: var(--sp-1);
+  /* 44px touch target (not 32px): the shortest primary control in the
+     app, and it is the filter — the thing you tap most while walking. */
+  min-height: var(--tap); padding: 0 var(--sp-4);
+  border-radius: 999px;
+  /* --line-strong, not --line. An unselected chip is a control whose boundary is its only
+     affordance, and --line against the chip's own fill is 1.5:1 in both themes — under the
+     3:1 non-text minimum — while the fill itself is only 1.1:1 off the page. The whole edge
+     went missing in exactly the state you have to find in order to tap it. --line-strong is
+     3.7 light / 3.6 dark and is already what .btn and .pk-box use for the same reason;
+     --line stays for the genuinely decorative separators. */
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-2);
+  font-size: 13.5px; font-weight: 600;
+  white-space: nowrap;
+}
+/* A chip is as wide as its words and never shrinks below them: in a row of chips (a flex row) WebKit shrank each chip
+   under its icon and words, which then ran past its edge (20 Nov, seen on an iPhone).
+   A chip wider than its row stops at the row's width and ends its words with an ellipsis, inside itself. */
+.chip { flex-shrink: 0; max-width: 100%; min-width: 0; }
+.chip > svg, .chip > .ico, .chip > img { flex: 0 0 auto; }
+.chip > span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.chip[data-press="1"] { background: var(--surface-2); }
+@media (hover: hover) and (pointer: fine) {
+  .chip:active { background: var(--surface-2); }
+}
+.chip[aria-pressed="true"], .chip-on {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.chip-row {
+  display: flex; gap: var(--sp-2);
+  overflow-x: auto; scrollbar-width: none;
+  /* bleed to the screen edges so the last chip is not visually clipped by the page gutter */
+  margin: 0 calc(var(--sp-4) * -1);
+  padding: var(--sp-1) var(--sp-4);
+  scroll-padding: var(--sp-4);
+}
+.chip-row::-webkit-scrollbar { display: none; }
+
+.pill {
+  display: inline-flex; align-items: center; gap: 5px;
+  padding: 3px var(--sp-2);
+  border-radius: 999px;
+  font-size: 12px; font-weight: 700; letter-spacing: .02em;
+  background: var(--surface-2); color: var(--ink-2);
+  white-space: nowrap;
+}
+.pill-accent { background: var(--accent-soft); color: var(--accent); }
+.pill-warn { background: var(--warn-soft); color: var(--warn); }
+.pill-ok { background: var(--ok-soft); color: var(--ok); }
+.pill svg { width: 12px; height: 12px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+
+.badge {
+  min-width: 18px; height: 18px; padding: 0 5px;
+  display: inline-grid; place-items: center;
+  border-radius: 999px;
+  background: var(--warn); color: var(--ground);
+  font-size: 12px; font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Locked rows: seeded itinerary, someone else's packing line. Struck-through affordances
+   are worse than absent ones, so views should HIDE edit controls rather than disable them;
+   this is for the rare case where the row itself needs to read as not-yours.
+
+   NOT an opacity. A whole-row alpha dims the row's quietest text along with everything else,
+   and --ink-3 sits close enough to the AA floor by design that it needs alpha >= 0.96 to
+   survive one — i.e. any alpha strong enough to see is an alpha that fails. So the row
+   recedes by dropping to the sunken surface and one step of ink instead: --ink-2 on
+   --surface-2 is 7.5 light / 7.6 dark, and --ink-3 inside it is 5.0 / 4.8. Both clear AA at
+   full strength, and neither is carried by hue. */
+.locked { background: var(--surface-2); color: var(--ink-2); }
+
+/* forms */
+.field { display: flex; flex-direction: column; gap: 5px; }
+.field > label { font-size: 12.5px; font-weight: 650; letter-spacing: .03em; color: var(--ink-3); text-transform: uppercase; }
+.input, input[type="text"], input[type="search"], input[type="number"],
+input[type="url"], input[type="date"], input[type="time"], select, textarea {
+  width: 100%;
+  min-height: var(--tap);
+  padding: 10px var(--sp-3);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--r-sm);
+  background: var(--surface);
+  color: var(--ink);
+  -webkit-appearance: none;
+  appearance: none;
+}
+textarea { min-height: 90px; resize: vertical; line-height: 1.5; padding-top: var(--sp-3); }
+select {
+  /* chevron drawn inline so the control needs no image request offline */
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%),
+                    linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position: calc(100% - 18px) 50%, calc(100% - 12px) 50%;
+  background-size: 6px 6px, 6px 6px;
+  background-repeat: no-repeat;
+  padding-right: var(--sp-6);
+}
+input::placeholder, textarea::placeholder { color: var(--ink-3); opacity: 1; }
+.check { display: flex; align-items: flex-start; gap: var(--sp-3); min-height: var(--tap); }
+.check input[type="checkbox"] {
+  flex: 0 0 auto;
+  width: 23px; height: 23px; margin-top: 10px;
+  accent-color: var(--accent);
+}
+
+/* states */
+.empty {
+  display: flex; flex-direction: column; align-items: center; gap: var(--sp-3);
+  padding: var(--sp-6) var(--sp-4);
+  text-align: center;
+  color: var(--ink-3);
+}
+.empty .h3 { color: var(--ink-2); }
+.err { color: var(--ink-2); }
+.err-detail {
+  max-width: 100%; overflow-x: auto;
+  margin: 0; padding: var(--sp-3);
+  border-radius: var(--r-sm);
+  background: var(--surface-2);
+  color: var(--ink-3);
+  font: 12px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace;
+  white-space: pre-wrap; overflow-wrap: anywhere;
+}
+.banner {
+  display: flex; align-items: flex-start; gap: var(--sp-2);
+  padding: var(--sp-3);
+  border-radius: var(--r-sm);
+  background: var(--warn-soft);
+  color: var(--warn);
+  font-size: 13.5px; font-weight: 550; line-height: 1.4;
+}
+.banner svg { flex: 0 0 auto; width: 16px; height: 16px; margin-top: 1px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+
+.skeleton {
+  border-radius: var(--r-sm);
+  background: linear-gradient(90deg, var(--surface-2) 25%, var(--line) 50%, var(--surface-2) 75%);
+  background-size: 300% 100%;
+  animation: shimmer 1.4s ease-in-out infinite;
+}
+@keyframes shimmer { from { background-position: 150% 0; } to { background-position: -50% 0; } }
+
+/* Transient message, inverted so it reads at a glance in either theme. Sits above the tab
+   bar rather than at the top, because that is where the thumb and the eye already are.
+   pointer-events:none — it must never swallow a tap meant for the list underneath.
+
+   Centered by its margins between the two edges, NOT by left: 50% and a transform: a fixed
+   box placed at left: 50% can only ever be as wide as the half of the screen to its right,
+   so on a phone a sentence was squeezed into 160 to 195 px and ran to five lines. */
+.toast {
+  position: fixed;
+  left: max(var(--sp-4), var(--sa-left));
+  right: max(var(--sp-4), var(--sa-right));
+  margin-inline: auto;
+  width: fit-content;
+  max-width: min(100%, 420px);
+  /* Never over the chat's box: while the chat is on screen it publishes its height (--ch-box-h, chat.js; 0 when it
+     isn't), and a message sits above it. A guest's held line covered the box and its send button on a desktop. */
+  bottom: max(calc(var(--tabbar-space) + var(--sp-4)),
+    calc(var(--tabbar-space) + var(--kb-h, 0px) + var(--ch-box-h, 0px) + var(--sp-3)));
+  /* Above the sheet (20): a write that failed while a sheet is open has to be readable
+     without dismissing the sheet first. */
+  z-index: 30;
+  /* What it looks like is the design system's (it is a .ds root, index.html): what just happened, in the
+     chrome above the bar, rising into place (200 ms). */
+  padding: var(--sp-3) var(--sp-4);
+  border-radius: var(--radius-16);
+  background: var(--chrome);
+  color: var(--ink-1);
+  border: 1px solid var(--edge);
+  font-size: var(--size-14); font-weight: 500; line-height: 1.4; text-align: start;
+  box-shadow: var(--shadow-pop);
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity var(--dur-200) var(--ease-standard), transform var(--dur-200) var(--ease-standard);
+  pointer-events: none;
+}
+.toast.toast-in { opacity: 1; transform: translateY(0); }
+/* Where the screen is too narrow for the message to sit beside a screen's round + button
+   (.fab: 56 px, --sp-3 above the tab bar), it sits above the button and takes the width. */
+@media (max-width: 600px) {
+  .toast { bottom: max(calc(var(--tabbar-space) + var(--sp-3) + 56px + var(--sp-3)),
+    calc(var(--tabbar-space) + var(--kb-h, 0px) + var(--ch-box-h, 0px) + var(--sp-3))); }
+}
+/* Messages that arrived together: one sentence a line, a hairline between them. */
+.toast-line { overflow-wrap: anywhere; }
+.toast-line + .toast-line, .toast-ok + .toast-line { margin-top: var(--sp-2); padding-top: var(--sp-2); border-top: 1px solid var(--hair); }
+/* Lines that stay until tapped (toastHold in js/toast.js): the message takes the tap, reads
+   from the left like the paragraph it is, and says so with a button, not with color. */
+.toast.toast-held { pointer-events: auto; cursor: pointer; text-align: start; }
+.toast-ok {
+  display: block; margin: var(--sp-3) 0 0 auto;
+  min-width: 64px; min-height: 44px; padding: 0 var(--sp-4);
+  border: 1.5px solid currentColor; border-radius: var(--r-sm);
+  background: none; color: inherit; font: inherit; font-weight: 700; cursor: pointer;
+}
+.toast-ok:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+/* An action toast (Undo, Open) carries one tap button beside its line. Only the button takes taps. */
+.toast-row { display: flex; align-items: center; justify-content: space-between; gap: var(--sp-3); }
+.toast-row .toast-line { min-width: 0; }
+.toast-act {
+  pointer-events: auto; flex: 0 0 auto;
+  min-height: var(--control-44); padding: 0 var(--sp-3);
+  margin: calc(var(--sp-2) * -1) calc(var(--sp-2) * -1) calc(var(--sp-2) * -1) 0;
+  border: 0; border-radius: var(--radius-12);
+  background: var(--ring-soft); color: var(--ink-1);
+  font: inherit; font-weight: 600; white-space: nowrap; cursor: pointer;
+}
+.toast-act[data-press="1"] { background: var(--fill-active); }
+@media (hover: hover) and (pointer: fine) {
+  .toast-act:hover { background: var(--fill-hover); }
+  .toast-act:active { background: var(--fill-active); }
+}
+.toast-act:focus-visible { outline: 2px solid var(--ring); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) {
+  .toast, .toast.toast-in { transform: none; transition: none; }
+  .toast-act { transition: none; }
+}
+
+/* Screen-reader-only. Kept because the tab labels and icon buttons need accessible names
+   and a phone user with VoiceOver is exactly who is walking while using this. */
+.sr-only {
+  position: absolute; width: 1px; height: 1px;
+  padding: 0; margin: -1px; overflow: hidden;
+  clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; border: 0;
+}
+
+/* ── shared icon rule ──────────────────────────────────────────────────────────────────
+   Every glyph icons.js emits, plus the ones the shell and Settings draw inline. 1em square
+   so an icon sizes with the text beside it instead of needing a width at each call site.
+   The `fill:none` is a default, not a law: glyphs that need a filled dot say so per element
+   (fill="currentColor" stroke="none"), which is why this uses the bare selector rather than
+   `.ico *`. */
+.ico {
+  width: 1em; height: 1em;
+  flex: 0 0 auto;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+}
+
+/* ── bottom-left dock: universal back + connectivity ───────────────────────────────────
+   Universal back button, bottom-left, sticky, avoiding awkward top-left
+   one-handed reach on large phones.
+
+   Fixed rather than sticky-in-the-scroller: #view is the only scrolling element and a
+   sticky child of it would still ride the content on a rubber-band overscroll. Fixed to the
+   viewport, offset above the tab bar and clear of the home indicator, it does not move at
+   all — which is the whole point of a control you reach for without looking.
+
+   It stacks UPWARD from the bottom and stays on the left half. The bottom-RIGHT quadrant is
+   deliberately left empty for view-owned FABs; a view that puts a FAB bottom-left will
+   collide, and the fix is to move the FAB, not this. */
+.dock {
+  position: fixed;
+  z-index: 8;
+  left: max(var(--sp-4), var(--sa-left));
+  /* --tabbar-space, not --tabbar-h + inset: when the keyboard hides the tab bar the token
+     collapses to 0 and the dock drops with it in the same frame.
+     ...and then + --kb-h, which it was missing. The comment above this block says the back
+     button is "a control you use WHILE typing" and that the composer parks beside it — but the
+     composer rode --kb-h and the dock did not, so with the keys up the dock DROPPED by the
+     collapsed tab-bar space and landed behind the keyboard. Measured: 726..772 -> 786..832 with
+     the keys starting at 508: the composer and the back button just
+     disappeared. They are one row; they ride together. */
+  /* Rides --kb-h with the composer beside it — see the note on .ag-comp in agenda.js. */
+  bottom: calc(var(--tabbar-space) + var(--sp-3) + var(--kb-h, 0px));
+  /* No transition: --kb-h is sampled per frame while the keys move. See .ag-comp. */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--sp-2);
+  pointer-events: none;              /* the gap between the two must not eat a tap */
+}
+.dock > * { pointer-events: auto; }
+
+.backbtn, .netpill {
+  display: inline-flex; align-items: center; gap: var(--sp-2);
+  height: var(--back-h);
+  padding: 0 var(--sp-4) 0 var(--sp-3);
+  border-radius: 999px;
+  border: 1px solid var(--line-strong);
+  background: var(--bar);
+  -webkit-backdrop-filter: saturate(150%) blur(14px);
+  backdrop-filter: saturate(150%) blur(14px);
+  box-shadow: var(--shadow-lift);
+  font-size: 15px; font-weight: 650; letter-spacing: -.005em;
+  color: var(--ink);
+  white-space: nowrap;
+  transition: transform var(--dur-fast) var(--ease-out), background var(--dur-fast) var(--ease-out);
+}
+.backbtn .ico { width: 20px; height: 20px; stroke-width: 2.1; }
+.backbtn[data-press="1"], .netpill[data-press="1"] { transform: scale(.96); background: var(--surface-2); }
+@media (hover: hover) and (pointer: fine) {
+  .backbtn:active, .netpill:active { transform: scale(.96); background: var(--surface-2); }
+}
+/* A page of its own (People and settings, Your account, Your trips, the legal pages: js/page-back.js) has no tab bar: its
+   dock sits at the foot, and the page keeps room for it so the Back never covers the last row. */
+.page-dock { bottom: calc(var(--sp-4) + env(safe-area-inset-bottom, 0px)); }
+body[data-page-dock="1"] { padding-bottom: calc(var(--back-h) + var(--sp-6) + env(safe-area-inset-bottom, 0px)); }
+
+.netpill .ico { width: 18px; height: 18px; stroke-width: 2; }
+.netpill { font-size: 13.5px; font-weight: 650; }
+/* Offline is the ONLY state this pill has now — in-flight writes live in the sync line
+   and deleted the badge that used to announce it. Colour agrees with the glyph; the glyph
+   and the word are what carry the meaning. */
+.netpill-off { color: var(--warn); border-color: var(--warn); }
+
+/* ── settings ──────────────────────────────────────────────────────────────────────────
+   Owner prefix .st-*, matching the .ag-/.pl-/.pk-/.mp- convention. */
+/* THE WORDMARK, on Settings and on the login screen. It is an inline <svg> so it inherits
+   --ink and --accent and follows the theme; all this has to do is give
+   it a width and stop it shifting the page while it loads. The min-height is the mark's own
+   aspect ratio (818.87 x 140) at the max-width, so the space is the right shape before it lands. */
+.lg-brand { --mark-w: 200px; }
+.lg-brand svg { display: block; width: 100%; height: auto; }
+
+
+.st-title {
+  font: var(--t-title); letter-spacing: var(--t-title-track);
+  margin-bottom: var(--sp-4);
+}
+.st-head { margin: var(--sp-5) 0 var(--sp-2); }
+
+/* ── More, on the design system (chat-more-mock.html) ─────────────────────────────────
+   The trip, you, then a plain list: a symbol, the name, what it holds at the right, the way on. Appearance is one
+   three-way switch across the page; "This app" says what the app is doing on this phone. Hairlines, no cards. */
+.st-more .ds-head { margin-bottom: 18px; }
+.st-tripsum { padding: 0 0 18px; }
+.st-tripsum p { margin: 0; }
+.st-tripname { font: 500 var(--size-20)/1.25 var(--type-head); letter-spacing: var(--track-head); color: var(--ink-1); }
+.st-you {
+  grid-template-columns: 44px 1fr 16px; column-gap: 14px;
+  padding: 14px 0; border-top: 1px solid var(--hair); border-bottom: 1px solid var(--hair); margin-bottom: 8px;
+}
+.st-list { display: block; }
+.st-list .st-row {
+  grid-template-columns: 20px 1fr auto; column-gap: 14px; width: 100%;
+  min-height: 52px; padding: 0; border-top: 1px solid var(--hair); color: var(--ink-1); font: inherit;
+}
+.st-list .st-row:first-child { border-top: 0; }
+.st-ico svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; color: var(--ink-2); }
+.st-hold { display: inline-flex; align-items: center; gap: 14px; font-size: var(--size-14); line-height: 20px; color: var(--ink-2); white-space: nowrap; }
+.st-hold > [data-note]:not(:empty) { display: inline-flex; align-items: center; gap: 7px; }
+.st-hold .st-new { color: var(--ink-1); }
+.st-hold .st-new::before { content: ""; width: 7px; height: 7px; border-radius: 999px; background: var(--ink-1); }
+.st-mono { font-family: var(--type-mono); font-variant-numeric: tabular-nums; letter-spacing: var(--track-number); }
+.ds .st-go { width: 16px; height: 16px; color: var(--ink-4); flex: none; }
+.st-list .st-row:disabled { cursor: progress; }
+.st-label { padding: 22px 0 8px; border-top: 0; }
+.st-look { display: grid; grid-template-columns: repeat(3, 1fr); width: 100%; }
+.st-look .ds-segment { height: 32px; font-size: var(--size-14); font-weight: 600; line-height: 20px; }
+@media (pointer: coarse) { .st-look .ds-segment { height: var(--control-44); } }
+
+/* .st-note is gone with the copy it carried: the standing rule is that an explainer
+   sentence under a control is a defect, and every one of Settings' five was explaining a
+   control that already names itself. Nothing renders the class any more — the rule went
+   with it rather than sitting here waiting to be re-used for the same mistake.
+   .st-intro survives for the one line the credits page still needs: recede by ink token
+   and weight, never by alpha (contrast failures happen when
+   `opacity:` stacked on an already-quiet colour). */
+.st-intro { font-size: 15px; line-height: 1.55; color: var(--ink-2); margin-bottom: var(--sp-4); }
+
+/* ── the add button ────────────────────────────────────────────────────────────────────
+   ONE spec, here, because two views draw this button and they had drifted: Pack's was 52px
+   with a 2.4 stroke and a scale(.96) press, Memories' was 56px with a 2.1 stroke and a
+   scale(.94) press, so switching tabs visibly resized it. It is shell chrome — it lives in
+   the router's fixed layer, at the same coordinates, on both screens — so the shell owns
+   what it looks like and the views own only what it does.
+
+   --tabbar-space, not --tabbar-h + the inset: the tab bar hides while the keyboard is up and
+   collapses that token to 0, so the button drops with the bar instead of floating a bar's
+   height above nothing. */
+.fab {
+  position: fixed;
+  right: max(var(--sp-4), var(--sa-right));
+  bottom: calc(var(--tabbar-space) + var(--sp-3));
+}
+/* Its look is the design system's on every screen (.ds-fab, public/ds/shell.css): the system's solid in both themes. */
+/* ON A WIDE WINDOW it stands at the column's corner, just outside it, not at the window's (a
+   stranger's walk, 16 Nov: at 1440 the + was 360px from the 720px column it adds to). 760 is the
+   widest column a section keeps (Split's; the rest are 720), so it clears every one by 16px or more.
+   Only where there is that room beside the column. */
+/* The column is centered in what the bar beside the page (--rail-w, styles' layouts) leaves of the
+   window; where that leaves no room beside it, the window's corner. */
+.fab { right: max(var(--sp-4), var(--sa-right), calc((100vw - var(--rail-w) - 760px) / 2 - 56px - var(--sp-4))); }
+/* Photos keeps no column (its feed and its view switch span the window): the window's corner. */
+.fab.me-fab { right: max(var(--sp-4), var(--sa-right)); }
+.fab.ds-fab .ico { width: 24px; height: 24px; }
+
+/* THE TRIP'S REFERENCE LIST'S BUTTON (js/references.js): the + mirrored on the left, the same button at the same height,
+   on exactly the screens that draw a + (body[data-fab], router.js), at a wide window outside the column's left edge as
+   the + is outside its right. The bottom-left is the dock's (the one Back, the Offline pill) and the Back keeps its
+   place: while the dock shows anything the button stands on top of it, --dock-room above the +'s line. Gone while the
+   keys are up, as the dock's room is the composer's then. */
+.rf-fab {
+  position: fixed;
+  z-index: 8;
+  display: none;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: 1px solid var(--edge);
+  border-radius: var(--radius-full);
+  background: var(--fill);
+  -webkit-backdrop-filter: blur(16px) saturate(1.4);
+  backdrop-filter: blur(16px) saturate(1.4);
+  color: var(--ink-1);
+  box-shadow: var(--shadow-pop);
+  cursor: pointer;
+  transition: transform var(--dur-320) var(--ease-spring);
+  /* The +'s centre line: 4 px up from its foot, as it is 8 px shorter. */
+  left: max(var(--sp-4), var(--sa-left), calc(var(--rail-w) + var(--sp-4)), calc(var(--rail-w) + (100vw - var(--rail-w) - 760px) / 2 - 56px - var(--sp-4)));
+  bottom: calc(var(--tabbar-space) + var(--sp-3) + 4px);
+}
+.rf-fab[data-press="1"] { transform: scale(0.94); transition-duration: var(--dur-150); }
+@media (hover: hover) and (pointer: fine) { .rf-fab:active { transform: scale(0.94); } .rf-fab:hover { background: var(--fill-hover); } }
+.rf-fab:focus-visible { outline: 2px solid var(--ring); outline-offset: 2px; }
+body[data-fab="1"] .rf-fab { display: grid; }
+body[data-fab="1"]:is([data-back="1"], [data-netpill="1"]) .rf-fab { bottom: calc(var(--tabbar-space) + var(--sp-3) + var(--dock-room) + 4px); }
+body[data-kb="1"] .rf-fab { display: none; }
+.rf-fab svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+/* The sheet it opens: the items as the app's rows (a title, its text with the line breaks kept, a quiet pencil),
+   "+ Add" at the top beside the title; an item's form with Save there, and Remove inside it. */
+.rf { display: grid; gap: var(--sp-4); }
+.rf-empty, .rf-full { margin: 0; color: var(--ink-2); font-size: var(--size-14); line-height: 20px; }
+.rf-list { list-style: none; margin: 0; padding: 0; }
+.rf-item { padding: 8px 0 16px; }
+.rf-item + .rf-item { border-top: 1px solid var(--hair); }
+.rf-item:first-child { padding-top: 0; }
+.rf-title { margin: 0; }
+/* The whole title row is the way into the item: 44 px at least, the pencil at its end its sign. */
+.rf-open {
+  display: flex; align-items: center; gap: var(--sp-2); width: 100%; min-height: var(--control-44); margin: 0; padding: 0;
+  border: 0; border-radius: var(--radius-8); background: none; color: var(--ink-1); text-align: left; cursor: pointer;
+  font: 600 var(--size-16)/22px var(--type-ui);
+}
+.rf-title-t { flex: 1 1 auto; min-width: 0; overflow-wrap: anywhere; }
+.rf-pencil { flex: none; display: grid; place-items: center; width: 28px; height: 28px; color: var(--ink-3); }
+.rf-pencil svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.rf-open:focus-visible { outline: 2px solid var(--ring); outline-offset: 2px; }
+.rf-open[data-press="1"] .rf-title-t { opacity: 0.7; }
+@media (hover: hover) and (pointer: fine) { .rf-open:hover .rf-pencil { color: var(--ink-1); } }
+/* Ink-1: it is read in a hurry (an emergency number); the titles' 600 still leads. */
+.rf-text { margin: 2px 0 0; white-space: pre-wrap; overflow-wrap: anywhere; font-size: 15px; line-height: 22px; color: var(--ink-1); }
+.rf-text a { color: inherit; font-weight: 600; text-decoration: underline; text-decoration-color: var(--edge-strong); text-underline-offset: 3px; }
+.rf-foot.ds .btn.ds-button--white {
+  background: var(--solid); color: var(--on-solid); border: 1px solid transparent; border-radius: var(--radius-full);
+  min-height: var(--control-44); padding: 0 18px; font-family: var(--type-ui); font-size: var(--size-14); font-weight: 600; white-space: nowrap;
+}
+.rf-foot.ds .btn.ds-button--white:disabled { background: var(--fill); color: var(--ink-4); cursor: not-allowed; }
+.rf-form { display: grid; gap: 18px; padding-bottom: 12px; }
+.rf-said { margin: 0; color: var(--negative, var(--danger)); font-size: var(--size-14); font-weight: 600; }
+.rf-said:empty { display: none; }
+.rf-remove { margin-top: 8px; padding-top: 18px; border-top: 1px solid var(--hair); display: grid; gap: 12px; }
+.rf-ask { margin: 0; font-size: var(--size-14); line-height: 20px; color: var(--ink-1); font-weight: 600; }
+.rf-askrow { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+
+.st-licences { margin-bottom: var(--sp-3); }
+
+/* ── image credits ─────────────────────────────────────────────────────────────────────
+   This page is the app's entire CC BY / CC BY-SA compliance, so it is built
+   to be read rather than skimmed past: the photographer is the second line, at full ink
+   weight, not a whispered caption. */
+.cr-list { display: flex; flex-direction: column; gap: 0; }
+.cr-item {
+  display: flex; align-items: flex-start; gap: var(--sp-3);
+  padding: var(--sp-3) 0;
+  border-top: 1px solid var(--line);
+}
+.cr-thumb {
+  flex: 0 0 auto;
+  width: 56px; height: 56px;
+  border-radius: var(--r-sm);
+  object-fit: cover;
+  background: var(--surface-2);
+}
+.cr-name { font-size: 15px; font-weight: 650; line-height: 1.3; }
+.cr-by { font-size: 14px; line-height: 1.4; color: var(--ink-2); }
+.cr-lic { font-size: 12.5px; line-height: 1.4; color: var(--ink-3); }
+.cr-src {
+  display: inline-flex; align-items: center; gap: 5px;
+  position: relative;                /* the 44px expander below */
+  margin-top: 3px;
+  font-size: 13px; font-weight: 650;
+  color: var(--accent);
+}
+/* -13px, not -12px: the link's own box is 19.5px tall at 13px/650, so a 12px expander lands
+   the hit area on 43.5px — half a pixel under the 44px floor, measured in the running app in
+   both themes. 13px puts it at 45.5px. The horizontal 8px is unchanged; width was never the
+   problem (the label plus its icon is 78.7px). */
+.cr-src::before { content: ""; position: absolute; inset: -13px -8px; }
+.cr-ext { width: 13px; height: 13px; }
+
+/* ── bottom sheet (public/js/sheet.js) ─────────────────────────────────────────────────
+   Shell-owned because it is shared chrome, not one view's furniture: every
+   sheet in the app uses this container. The styles live here rather than being injected by
+   the module so the first sheet of a session paints in one frame, with no flash of an
+   unstyled panel sliding up.
+
+   Prefix .sh-*, matching the .ag-/.pl-/.pk-/.mp-/.st- convention.
+
+   Three custom properties are written onto .sh-root by sheet.js from visualViewport and
+   are read only here:
+     --sh-kb   height of the software keyboard, 0 when it is closed
+     --sh-vh   height of the VISUAL viewport, which is what is actually on screen
+     --sh-dy   the finger's travel during a drag, 0 otherwise */
+/* THE FRAME IS ON THE DESIGN SYSTEM (sheet.js makes the root a .ds root): the scrim, the chrome surface with its
+   edge and 24 px corners, the grab, the title, the ×, and its motion (rising 320 ms on the standard curve, let go
+   early it settles back on the spring). What a screen puts in it keeps that screen's own look until the screen moves:
+   the body and the foot set back the three tokens the two systems both name, and the app's face, size and ink. */
+:root { --app-ink-2: var(--ink-2); --app-ink-3: var(--ink-3); --app-ease-spring: var(--ease-spring); }
+
+.sh-body, .sh-foot {
+  --ink-2: var(--app-ink-2); --ink-3: var(--app-ink-3); --ease-spring: var(--app-ease-spring);
+  font-family: var(--font-ui); font-size: 16px; line-height: 1.5; color: var(--ink);
+}
+.sh-root {
+  position: fixed;
+  inset: 0;
+  z-index: 20;                       /* over the dock (8) and the status strip (7), under the toast (30) */
+  --sh-kb: 0px;
+  --sh-vh: 100%;
+  --sh-dy: 0px;
+  --sh-h: auto;                      /* the live height of an upward drag; unset at rest */
+  --sh-max: 100000px;                /* no cap unless the caller passes maxFraction */
+}
+.sh-scrim {
+  position: absolute;
+  inset: 0;
+  background: var(--backdrop);
+  opacity: 0;
+  /* Opacity rides the shared tokens; the background-color .18s is sheet.js's own tuned
+     window (its focus path toggles transition-property around exactly this duration). */
+  transition: opacity var(--dur) var(--ease-out), background-color .18s ease;
+}
+.sh-root[data-open="1"] .sh-scrim { opacity: 1; }
+/* The scrim stays TRANSLUCENT, always. It used to go fully opaque with the keyboard up, which
+   was not a design decision — it was hiding the page behind jumping around while you typed. The
+   jump is fixed at its source now (see the tall-state handler in sheet.js), so the page behind
+   stays visible and shaded, which is what a drawer should look like. */
+
+.sh-sheet {
+  position: absolute;
+  left: 0; right: 0;
+  /* Anchored to the bottom of the SCREEN, always — the keyboard is an overlay on top of the
+     drawer, not a shelf the drawer has to stand on. Riding --sh-kb was what lifted the whole
+     drawer clear of the keys and left the app showing through the gap above it. */
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  /* Bounded by the SCREEN, not by the space left over above the keyboard. --sh-vh excluded the
+     keyboard, so focusing a field turned a half-height drawer into a sliver with the app
+     peeking out above it. The keyboard is an overlay: the drawer keeps its full height and its
+     foot simply passes behind the keys, which is also what makes scrolling inside it work. */
+  max-height: min(var(--sh-max), calc(100dvh - var(--sp-5)));
+  border-radius: var(--radius-24) var(--radius-24) 0 0;
+  background: var(--chrome);
+  border-top: 1px solid var(--edge);
+  box-shadow: none;
+  padding-bottom: var(--sa-bottom);
+  transform: translateY(100%);
+  /* The system's longest move, on its standard curve. sheet.js's EXIT_MS fallback deadline (360) is sized
+     against this — change together. */
+  transition: transform var(--dur-320) var(--ease-standard);
+  will-change: transform;
+}
+.sh-root[data-open="1"] .sh-sheet { transform: translateY(0); }
+/* WITH THE KEYS UP the drawer goes full height and its foot sits behind them. The scrollport
+   pads itself by the keyboard's height so every field — and the button at the bottom of the
+   form — can still be scrolled into the visible band by an ordinary flick, instead of the app
+   trying to compute a "correct" scroll position and jerking there. */
+/* 100% of .sh-root (inset:0, so the layout viewport) — NOT 100dvh. dvh stays at the
+   keyboard-down height, which on iOS 26 is nearly twice the visible area with the keys up. */
+/* THE TALL STATE. Set when a text field inside the drawer is tapped, and it STAYS set — closing
+   the keyboard does not drop the drawer back down, because a drawer that collapses under you the
+   moment you stop typing is the thing that makes editing feel unstable. It clears when the drawer
+   is dragged down or closed, and nowhere else. */
+/* HEIGHT as well as a cap. The drag settles onto an explicit pixel height and then hands back
+   to this rule; with only a max-height the handover would drop a short form back to its content
+   height and the drawer would visibly pop down at the very end of the gesture. It also gives the
+   tall state the behaviour a drawer wants when a field near the foot is focused: extend with
+   empty space rather than refuse to scroll far enough. */
+.sh-root[data-tall="1"] .sh-sheet {
+  /* CLEAR OF THE STATUS BAR, not 24px from the top of the screen. .sh-root is inset:0 on a
+     viewport-fit=cover page, so its 100% includes the notch — and --sp-5 (24px) is smaller
+     than the top inset on every device that has one, which put the drawer's rounded top and
+     its grab handle underneath the clock. --safe-top is the real height of that band (it also
+     carries the simulator's override), so the drawer now stops a --sp-3 gap below it. */
+  height: calc(100% - var(--safe-top) - var(--sp-3));
+  max-height: calc(100% - var(--safe-top) - var(--sp-3));
+}
+/* Room to scroll the last field clear of the keys. Without it a field near the foot of the form
+   simply cannot come up far enough, and WebKit resorts to moving the whole page to reveal it. */
+.sh-root[data-kb="1"] .sh-body { padding-bottom: calc(var(--sh-kb) + var(--sp-4)); }
+/* No keyboard padding either — same measurement as .ag-comp. The drawer is anchored to the
+   bottom of a layout viewport that has ALREADY shrunk by the keyboard, so its foot is not behind
+   the keys and padding it by --sh-kb would just add a keyboard's worth of dead space inside. */
+.sh-root[data-kb="1"] .sh-body { padding-bottom: calc(var(--sh-kb) + var(--sp-4)); }
+/* While a finger is down the sheet follows it exactly and the transition is off, or every
+   frame would be chasing a 260ms curve and the sheet would feel like wet string. */
+.sh-root[data-drag="1"] .sh-sheet { transition: none; transform: translateY(var(--sh-dy)); }
+/* SELECTION vs THE DRAG, on a form drawer. Blank space in these is a drag surface, and iOS
+   starts a text selection from a press-and-hold BEFORE any movement — so the selection handles
+   and the Copy / Look Up callout come up and the drag never happens. preventDefault on touchmove
+   cannot undo that; it has already begun. The fields stay selectable, which is the text anyone
+   would actually want to copy out of a form. Prose sheets (dragFrom:"body", e.g. reading a note)
+   carry no data-handle and are untouched — there, selecting the text is the point. */
+.sh-root[data-handle="1"] .sh-body { -webkit-user-select: none; user-select: none; }
+.sh-root[data-handle="1"] .sh-body input,
+.sh-root[data-handle="1"] .sh-body textarea,
+.sh-root[data-handle="1"] .sh-body [contenteditable="true"] {
+  -webkit-user-select: text; user-select: text;
+}
+/* THE DRAG'S OWN HEIGHT, written per frame by sheet.js while an upward pull is in progress and
+   removed the instant it ends. It has to beat BOTH resting caps, so it sets height as well as
+   max-height and is declared after them. Height is a layout property and motion rules keep
+   animation on transform/opacity — which is exactly why this is only ever set while a finger is
+   down, with the transition off. Nothing here animates; it tracks. */
+.sh-root[data-lift="1"] .sh-sheet {
+  height: var(--sh-h);
+  max-height: var(--sh-h);
+}
+/* ...and on release, --sh-h keeps driving but now toward a detent, over --dur, so letting go
+   mid-drag settles instead of snapping half a screen. height is a layout property and motion rules
+   usually keep ANIMATION on transform/opacity — this is the settle of a direct manipulation, the
+   shortest path back to a resting state, and it is the only place in the app that animates one.
+   The reduced-motion block earlier in this file zeroes the duration, which is the right answer:
+   the drawer simply arrives. */
+.sh-root[data-settle="1"] .sh-sheet {
+  transition: transform var(--dur-320) var(--ease-spring),
+              height var(--dur) var(--ease-out),
+              max-height var(--dur) var(--ease-out);
+}
+
+/* Grab handle. A real 44px touch target wrapped around a 4px bar — the bar is the
+   affordance, the padding is the thing you can actually hit walking downhill. */
+.sh-grab {
+  flex: 0 0 auto;
+  display: grid; place-items: center;
+  height: 30px;
+  padding-top: 12px;
+  cursor: grab;
+  touch-action: none;                /* the drag is ours; the browser must not also scroll */
+  /* A press-and-drag on the drawer's chrome is a drag, never a text selection. Without this,
+     holding the handle or the title for a moment before moving pops iOS's selection handles and
+     the Copy / Look Up callout over the sheet. The body is deliberately left selectable — a note
+     in there is text a person may well want to copy. */
+  -webkit-user-select: none; user-select: none;
+}
+.sh-grab::before {
+  content: "";
+  width: 36px; height: 4px;
+  border-radius: var(--radius-full);
+  background: var(--gray-5);
+}
+.sh-head {
+  -webkit-user-select: none; user-select: none;   /* see .sh-grab */
+  flex: 0 0 auto;
+  display: flex; align-items: center; gap: var(--sp-2);
+  padding: var(--sp-1) var(--sp-4) var(--sp-3);
+}
+.sh-title {
+  flex: 1 1 auto; min-width: 0;
+  font: 500 var(--size-20)/1.25 var(--type-head);
+  letter-spacing: var(--track-head);
+  color: var(--ink-1);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.sh-x {
+  flex: 0 0 auto;
+  display: grid; place-items: center;
+  width: var(--tap); height: var(--tap);
+  margin-right: -10px;               /* optical alignment; the target keeps its full 44px */
+  border-radius: 50%;
+  color: var(--ink-2);
+}
+.sh-x[data-press="1"] { background: var(--fill-hover); color: var(--ink-1); }
+@media (hover: hover) and (pointer: fine) {
+  .sh-x:active { background: var(--fill-hover); color: var(--ink-1); }
+}
+.sh-x .ico { width: 20px; height: 20px; stroke-width: 2.1; }
+/* A sheet that didn't ask for a × has one only as a dialog (the rule with .sh-grab's below). */
+.sh-x[data-dialog-only] { display: none; }
+
+.sh-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  /* `none`, not `contain`. contain stops the scroll CHAINING to the page but keeps this
+     element's own rubber-band, and that bounce fights the dismiss drag frame for frame at
+     the top of the list — which is exactly where the dismiss gesture lives. */
+  overscroll-behavior: none;
+  -webkit-overflow-scrolling: touch;
+  padding: 0 var(--sp-4) var(--sp-4);
+}
+
+/* The pinned footer slot (sheet.js `footEl`). A sibling of .sh-body, not a sticky child of
+   it: the body is the only flexible row in the sheet, so this bar is always the last thing on
+   screen no matter how far the form above it scrolls, keeping Save pinned at
+   the sheet's bottom and always visible. */
+.sh-foot {
+  flex: 0 0 auto;
+  padding: var(--sp-3) var(--sp-4) var(--sp-4);
+  background: var(--chrome);
+  border-top: 1px solid var(--hair);
+}
+/* The drawer's FOOT may pass behind the keyboard; its ACTION BAR may not. The body scrolls and
+   the keys can cover as much of it as they like, but Save has to stay where a thumb can reach
+   it — otherwise you type into a form you cannot submit without dismissing the keyboard first.
+   margin-bottom, not bottom: the foot is a flex sibling of the scrollport, so lifting it by the
+   keyboard's height also shortens the scrollport above it by exactly the same amount. */
+/* The action bar lives in the HEAD now, so it needs none of the foot's band styling and none of
+   the keyboard lift it used to need — it is nowhere near the keys. */
+.sh-head .sh-foot {
+  flex: 0 0 auto;
+  margin: 0 0 0 auto;              /* pushed to the right of the title */
+  padding: 0;
+  background: none;
+  border-top: 0;
+}
+.sh-head .sh-foot .btn { white-space: nowrap; }
+/* A BLOCK of actions (sheet.js `footRow`) takes the row under the title and the close button,
+   at the head's own width: it wraps inside that, and no line of it can widen the head. A grid,
+   not a wrapping flex row: the block is capped on a wide screen, and a capped flex item would
+   fit back on the title's line, after the close button. */
+.sh-sheet[data-foot-row="1"] .sh-head {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; column-gap: var(--sp-2);
+}
+.sh-sheet[data-foot-row="1"] .sh-head .sh-title { grid-area: 1 / 1; }
+.sh-sheet[data-foot-row="1"] .sh-head .sh-x { grid-area: 1 / 2; }
+.sh-sheet[data-foot-row="1"] .sh-head .sh-foot {
+  grid-row: 2; grid-column: 1 / -1;
+  min-width: 0; max-width: 560px;
+  margin: var(--sp-2) 0 0;
+}
+/* With a footer the body's own bottom padding would double the gap above the bar. Flagged by
+   a class rather than :has(), which is the only selector of its kind this stylesheet would
+   contain and is not worth being the first. */
+.sh-sheet[data-foot="1"] .sh-body { padding-bottom: var(--sp-2); }
+/* …but not while the keys are up: then the body keeps the keyboard's room at its foot, so the last field of a sheet
+   whose action is in its head can scroll clear of the keys (20 Nov, on an iPhone: a lower field was typed into under the
+   keys; the rule above, coming later at the same weight, had taken that room from every such sheet).
+   The same line wgp-server found for Split's sheets. */
+.sh-root[data-kb="1"] .sh-sheet[data-foot="1"] .sh-body { padding-bottom: calc(var(--sh-kb) + var(--sp-4)); }
+
+/* Reduced motion: no slide, no scrim fade. The sheet is simply there. The DRAG still works —
+   direct manipulation is not animation, and taking it away would remove the dismiss gesture
+   rather than calm it. */
+@media (prefers-reduced-motion: reduce) {
+  .sh-sheet { transition: none; }
+  .sh-scrim { transition: none; }
+}
+
+/* Day-pill centring moved out of shell styles to live
+   where .ag-pill does: agenda.js's AG_CSS. */
+
+/* ── motion tokens ─────────────────────────────────────────────────── owned by motion.js ──
+   The whole app's motion vocabulary, and the only copy of these numbers. motion.js reads
+   them back out of the computed root style, so a change here changes the JS animations too —
+   there is no second table of durations in a module to forget about.
+
+   They live in a BARE :root and are never redefined in a media query or under [data-theme].
+   They are timing, not colour; a duration has no light and dark variant, and the theme
+   audit's rule — every custom property declared in an unthemed context — is satisfied by
+   this one declaration.
+
+     --dur-fast    crossfades, icon morphs, the checkmark tick
+     --dur         page slides, list moves, FLIP — the default for anything that reorders
+     --dur-slow    sheets and the pack regroup. Nothing in this app exceeds it.
+     --ease-out    decelerate. Entrances, and anything arriving somewhere.
+     --ease-spring slight overshoot. Settles and toggles — things that land with weight.
+
+   Reduced motion does NOT need to touch these: the global @media block earlier in this file
+   zeroes every CSS duration whatever the token says, and motion.js checks the media query
+   itself before it starts a player (WAAPI ignores CSS animation-duration entirely). */
+:root {
+  --dur-fast: 120ms;
+  --dur: 220ms;
+  --dur-slow: 320ms;
+  --ease-out: cubic-bezier(.2, .8, .2, 1);
+  --ease-spring: cubic-bezier(.34, 1.3, .64, 1);
+}
+
+/* ── theme / accent crossfade ───────────────────────────── owned by settings.js ──
+   Accent/theme change from Settings: 200ms colour crossfade on the token
+   transition. The stamp is set by settings.js's applyTheme()/applyAccent() and removed one
+   --dur later, so this rule is live for ~220ms after a tap in Settings and at no other time —
+   the app never transitions colour otherwise, and the boot path (index.html, before first
+   paint) never sets the attribute, so a cold start still cannot fade anything in.
+
+   Colour only. transform and opacity are deliberately absent: an element that owns a
+   transform transition keeps it, because this rule never names that property. The global
+   prefers-reduced-motion block earlier in this file zeroes the duration, and settings.js
+   additionally refuses to set the attribute at all under reduce. */
+:root[data-tokenfade],
+:root[data-tokenfade] * {
+  transition-property: background-color, color, border-color, fill, stroke;
+  transition-duration: var(--dur);
+  transition-timing-function: linear;
+}
+
+/* THE APP'S OWN ADDRESS "/", before it has gone on to the trip (index.html sets data-home before
+   anything is drawn): no tab bar and no placeholder cards, which would offer taps for a trip not
+   known yet. Words only if it takes more than a moment; on a good connection the page has gone
+   before they show. */
+.home-wait { display: none; }
+html[data-home] .tabbar, html[data-home] #view > .stack { display: none; }
+html[data-home] .home-wait {
+  display: block; margin: 30vh 0 0; text-align: center; font-size: 15px; color: var(--ink-3);
+  animation: home-wait-in .3s ease-out .7s both;
+}
+@keyframes home-wait-in { from { opacity: 0; } to { opacity: 1; } }
+
+/* ══ THE LAYOUTS ══════════════════════════════════════════════════════════════════════════
+   One bar, three shapes by the screen's width, and the page arranged around it. Its look is the
+   design system's (public/ds/shell.css); its places and its leaving are here.
+
+     under 768     a floating pill at the foot, the page running under it to the foot of the
+                   screen; it ducks on the way down a page (js/tabs.js, duckOnScroll)
+     768 to 1023   a rail at the left: symbol over name
+     from 1024     a sidebar: symbol beside name
+
+   A phone on its side (landscape, no taller than 420, and from 480 wide) has the rail whatever its width: at
+   667 x 375 a 72 px pill at the foot left a place's card and the map above it less room than they need, and
+   844 x 390 has the rail already. Every phone on its side is wider than 480 (the smallest, 568), and every phone
+   held upright narrower: the width keeps an upright phone whose keys shrink its page in a browser tab (390 x 377)
+   on the pill. Every rule here for "from 768" holds there too, with the same query: (min-width: 768px),
+   (orientation: landscape) and (max-height: 420px) and (min-width: 480px); the pill's is its complement.
+   tabs.js's RAIL is that query for the scripts.
+
+   --bar-under is the room the page leaves at its foot for a bar that floats over it (0 where
+   the bar is beside the page, and while the keys are up). --rail-w is the room at the left
+   for a bar beside the page; what is fixed to the left edge starts after it. */
+:root {
+  --bar-h: 60px;
+  --bar-gap: max(10px, calc(var(--sa-bottom) - 10px));
+  --bar-under: 0px;
+  --rail-w: 0px;
+}
+
+/* MORE IS YOU, at the top right of a main screen (index.html .head-more; its look is public/ds/shell.css).
+   Not on a screen that has Back (a plan, a place: there is a way back instead), nor while the keys are up. */
+.head-more { position: fixed; z-index: 9; top: calc(var(--sa-top) + 10px + var(--head-more-dy, 0px)); right: calc(var(--sa-right) + 14px); }
+/* While a sheet is open your picture steps out (a sheet's own head holds its title and its controls there), and comes
+   back with the same fade when it closes. */
+.head-more { transition: opacity var(--dur-200) var(--ease-standard), visibility 0s, transform var(--dur-150) var(--ease-standard); }
+body:has(.sh-root[data-open="1"]) .head-more {
+  opacity: 0; visibility: hidden; pointer-events: none;
+  transition: opacity var(--dur-200) var(--ease-standard), visibility 0s var(--dur-200);
+}
+/* On a screen whose head hasn't moved onto the design system yet, your picture sits on that head's row: one offset a
+   screen, measured at 390 with a phone's insets (the picture's centre line on the row's). Each line goes when its
+   screen's head moves; then the picture is in the head's own end (.ds-head-end). */
+body:has(#view .sp-head) { --head-more-dy: 12px; }
+body[data-back="1"] .head-more, body[data-kb="1"] .head-more { display: none; }
+/* In a moved screen's head (index.html places it there on a phone): beside the screen's own controls. */
+.ds-head-end > .head-more { position: relative; top: auto; right: auto; bottom: auto; left: auto; }
+
+@media (max-width: 767.98px) and (orientation: portrait), (max-width: 767.98px) and (min-height: 420.02px), (max-width: 479.98px) {
+  /* One level deeper than a main screen, a page's top right is its own (tabs.js placeMoreFor). */
+  .head-more[data-away] { display: none; }
+  :root {
+    --tabbar-space: calc(var(--bar-h) + var(--bar-gap) + var(--sp-2));
+    --bar-under: var(--tabbar-space);
+  }
+  body[data-kb="1"] { --bar-under: 0px; }
+
+  .tabbar {
+    position: fixed;
+    left: 0; right: 0; bottom: var(--bar-gap);
+    width: min(calc(100% - 32px), 480px);
+    margin-inline: auto;
+  }
+  /* Near-solid, not the system's 88% fill: with no blur behind it (a browser without one) a list's line read
+     through 88% between the names. bar_check 2b holds it. */
+  .tabbar.ds-tabbar { background: color-mix(in srgb, var(--chrome) 94%, transparent); }
+  /* No blur behind it in this browser: a solid fill, so nothing behind can be read. */
+  @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+    .tabbar { background: var(--canvas); }
+  }
+  /* A tab's focus ring inside its own box, so the pill's round ends never cut it. */
+  .tab:focus-visible { outline-offset: -2px; }
+
+  /* Room at the right of each main screen's head for you (.head-more), so its own controls stand clear of it. */
+  body:not([data-back="1"]):not(:has(.head-more[data-away])) #view :is(.sp-head) { padding-right: 52px; }
+
+  /* The sync line: the screen's foot. */
+  .netline { bottom: 0; }
+
+  /* IT DUCKS. Away, the bar is below the screen and what floated on it rides down to the
+     foot, by `translate` (not `bottom`: the dock and the note field follow the keys through
+     that every frame, without a transition; not `transform`: theirs to press and arrive
+     with). The keyboard's own rule wins while the keys are up. */
+  body[data-tabs="away"]:not([data-kb="1"]) .tabbar { transform: translateY(calc(100% + var(--bar-gap) + 12px)); }
+  .dock, .fab, .rf-fab, .toast { translate: 0 0; }
+  body[data-tabs="away"]:not([data-kb="1"]) :is(.dock, .fab, .rf-fab, .toast) { translate: 0 calc(var(--tabbar-space) - var(--sa-bottom)); }
+  .dock, .fab, .rf-fab { transition: translate var(--dur) var(--ease-out); }
+  .fab.ds-fab { transition: translate var(--dur) var(--ease-out), transform var(--dur-320) var(--ease-spring), opacity var(--dur-150) var(--ease-standard); }
+  .toast { transition: opacity var(--dur) var(--ease-out), transform var(--dur) var(--ease-out), translate var(--dur) var(--ease-out); }
+}
+
+/* The rail's logo, its trip and what More lists (index.html): nothing on a phone, where the bar is a pill; the logo
+   from 768, the rest from 1024. */
+.rail-brand, .rail-trip, .rail-rest { display: none; }
+
+/* A bar beside the page: a rail at the left. The body is a column (the page, then the bar); here it
+   is a row with the bar first. The pill's shape gives way to a column of tabs; the one you are on
+   is filled, as a row is (the sliding highlight is the pill's). You, More, stand at its foot. */
+@media (min-width: 768px), (orientation: landscape) and (max-height: 420px) and (min-width: 480px) {
+  :root { --rail-w: 84px; --tabbar-space: var(--sa-bottom); }
+  body { flex-direction: row-reverse; }
+  /* The bar moved before the page in the document (tabs.js barInReadingOrder): the same picture. */
+  body[data-bar="first"] { flex-direction: row; }
+  #view { flex: 1 1 0; min-width: 0; }
+  .tabbar.ds-tabbar {
+    flex: 0 0 var(--rail-w);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    height: auto;
+    padding: calc(var(--sp-4) + var(--safe-top)) var(--sp-2) calc(var(--sp-4) + 60px);
+    border: 0;
+    border-right: 1px solid var(--hair);
+    border-radius: 0;
+    /* The page's own ground, so the rail and the page are one surface with a hairline between. */
+    background: var(--ground);
+    -webkit-backdrop-filter: none; backdrop-filter: none;
+  }
+  .tabbar .ds-tab-hl { display: none; }
+  .tab.ds-tab { padding: var(--sp-2) 2px; border-radius: var(--radius-12); font-size: var(--size-12); }
+  /* The logo at its top: the W and its hikers, centred over the five. */
+  .rail-brand[data-is] { display: block; align-self: center; margin-bottom: var(--sp-4); }
+  .rail-brand[data-is="mark"] > svg { display: block; width: 44px; height: 44px; }
+  .tab.ds-tab svg { width: 24px; height: 24px; }
+  .tab.ds-tab[aria-current="page"] { background: var(--ring-soft); }
+  body[data-kb="1"] .tabbar { transform: none; opacity: 1; pointer-events: auto; }
+  .netline { left: var(--rail-w); bottom: 0; }
+  .dock { left: calc(var(--rail-w) + var(--sp-4)); }
+  .toast { left: calc(var(--rail-w) + var(--sp-4)); }
+  .head-more { top: auto; right: auto; bottom: calc(var(--sp-4) + var(--sa-bottom)); left: calc(var(--sa-left) + 20px); }
+  body[data-back="1"] .head-more { display: grid; }
+}
+/* A phone on its side: the rail stands in the left safe area (the notch, or the camera's corner) and takes it
+   into its own width, so its symbols and names are clear of it; the page beside the rail then needs no inset
+   of its own on that side. --rail-w is a registered length so it computes to pixels where it is set (the root,
+   with the real inset), not to a calc() resolved again inside #view, where the inset is 0. */
+@property --rail-w { syntax: "<length>"; inherits: true; initial-value: 0px; }
+@media (min-width: 768px), (orientation: landscape) and (max-height: 420px) and (min-width: 480px) {
+  :root { --rail-w: calc(84px + var(--sa-left)); }
+  .tabbar.ds-tabbar { padding-left: calc(var(--sp-2) + var(--sa-left)); padding-bottom: calc(var(--sp-4) + 60px + var(--sa-bottom)); }
+  #view { --sa-left: 0px; }
+}
+/* A short screen on its side (390 tall, the home bar 21 below): the five draw closer (each still 44 tall to tap). */
+@media (min-width: 768px) and (max-width: 1023.98px) and (max-height: 500px), (orientation: landscape) and (max-height: 420px) and (min-width: 480px) and (max-width: 1023.98px) {
+  .tabbar.ds-tabbar { gap: 0; padding-top: calc(var(--sp-2) + var(--safe-top)); }
+  .tab.ds-tab { padding: 4px 2px; gap: 1px; min-height: 44px; }
+  /* No room for the logo over the five here. */
+  .rail-brand[data-is] { display: none; }
+}
+/* From 1024 the rail holds everything (the shell mock-up's wide screen): the wordmark, the trip and its dates, the
+   five as rows, then what More lists (Changes, Packing, People, Settings), and you at its foot, which stands in for
+   your picture at the top right. */
+@media (min-width: 1024px) {
+  :root { --rail-w: calc(248px + var(--sa-left)); }
+  .tabbar.ds-tabbar {
+    align-items: stretch;
+    gap: 0;
+    /* Its width is the rail's, whatever a long trip name would ask for (the name is cut short with an ellipsis). */
+    min-width: 0;
+    width: var(--rail-w);
+    padding: calc(22px + var(--safe-top)) 12px calc(14px + var(--sa-bottom)) calc(12px + var(--sa-left));
+  }
+  .tab.ds-tab {
+    display: grid; grid-template-columns: 20px 1fr; justify-items: start; align-items: center; column-gap: 12px;
+    min-height: 36px; padding: 0 8px;
+    font-size: var(--size-14); font-weight: 500; color: var(--ink-2);
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .tab.ds-tab:hover { background: var(--fill-hover); color: var(--ink-1); }
+  }
+  .tab.ds-tab[aria-current="page"] { color: var(--ink-1); }
+  .tab.ds-tab svg { width: 18px; height: 18px; justify-self: center; }
+  .tab.ds-tab .ds-tab-dot { left: 20px; top: 6px; }
+  /* The wordmark, 26 tall, at the rows' own left edge. */
+  .rail-brand[data-is] { align-self: flex-start; margin: 0 8px 26px; }
+  .rail-brand[data-is="word"] > svg { display: block; width: auto; height: 26px; }
+  .rail-trip { display: block; }
+  .rail-trip .ds-rail-trip { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .rail-trip .ds-rail-dates:empty { display: none; }
+  .rail-rest { display: flex; flex-direction: column; flex: 1 1 auto; }
+  .rail-rest hr { border: 0; border-top: 1px solid var(--hair); margin: 10px 8px; }
+  .rail-rest .ds-nav-note { display: none; }
+  :root[data-changes-new] .rail-rest .ds-nav-note { display: inline-flex; }
+  .ds-rail-you .rail-you-words { display: grid; min-width: 0; }
+  .rail-you-name { font-weight: 600; line-height: 20px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .ds-rail-you .ds-meta { font-size: var(--size-12); line-height: 16px; }
+  /* You are at the rail's foot here. */
+  .head-more, body[data-back="1"] .head-more { display: none; }
+}
+/* The wide rail's rows by pointer, not by width: the mock-up's 36 for a mouse or a trackpad, a tap's 44 for a finger
+   (a tablet on its side is 1024 and more, and is touched). */
+@media (min-width: 1024px) and (pointer: coarse) {
+  .tab.ds-tab, .rail-rest .ds-nav, .ds-rail-you { min-height: var(--control-44); }
+}
+
+/* THE NAMED ADD in a screen's head (Split, Packing, Photos): from 768 it takes the floating +'s
+   place, which stood on a list's words at rest; a phone keeps the +. */
+.head-add { display: none; }
+@media (min-width: 768px), (orientation: landscape) and (max-height: 420px) and (min-width: 480px) {
+  .head-add {
+    display: inline-flex; flex: none; align-items: center; min-height: 36px; padding: 0 var(--sp-3);
+    border-radius: 999px; background: var(--accent); color: var(--accent-ink);
+    font-size: 14px; font-weight: 650; white-space: nowrap;
+    margin-left: auto;             /* beside the head's own control on the right, not between */
+  }
+  .head-add[data-press="1"] { filter: brightness(.92); }
+  @media (hover: hover) and (pointer: fine) {
+    .head-add:active { filter: brightness(.92); }
+  }
+  .head-add[hidden] { display: none; }
+  .fab.sp-fab, .fab.pk-fab, .fab.me-fab { display: none; }
+}
+
+/* TWO PANES (router.js, from 1024): the Itinerary and Places keep their list on the left and
+   draw, on the right, the page the address names (a plan, a place) or the list's map. #view
+   holds the two and doesn't scroll; each pane is its own scroller with #view's own padding, so
+   what is sticky or bleeds inside a list (the day strip, a place's head) sits as it does alone.
+   The + belongs to the list: it stands at the list pane's corner; the back button at the page
+   pane's. */
+@media (min-width: 1024px) {
+  :root { --pane-a: clamp(360px, calc((100vw - var(--rail-w)) * .4), 520px); }
+  /* As heavy as body[data-back][data-netpill] #view, and later: those feet are the panes' now. */
+  body #view[data-two="1"][data-route] {
+    display: grid; grid-template-columns: var(--pane-a) minmax(0, 1fr);
+    padding: 0; overflow: hidden;
+  }
+  .rt-pane {
+    min-width: 0; min-height: 0; height: 100%;
+    overflow-x: hidden; overflow-y: auto; overscroll-behavior-y: contain;
+    padding: calc(var(--sp-4) + var(--safe-top)) var(--sp-4) var(--foot-clear) var(--sp-4);
+  }
+  /* Pane B: its head (Close ×) over the page's own scroller. */
+  .rt-side { min-width: 0; min-height: 0; height: 100%; display: flex; flex-direction: column; border-left: 1px solid var(--line); }
+  .rt-panehead { flex: none; display: flex; justify-content: flex-end;
+    padding: calc(var(--sp-2) + var(--safe-top)) var(--sp-3) var(--sp-2); border-bottom: 1px solid var(--line); background: var(--ground); }
+  .rt-panehead[hidden] { display: none; }
+  .rt-close { display: inline-flex; align-items: center; gap: var(--sp-1); min-height: 40px; padding: 0 var(--sp-3);
+    border-radius: 999px; font-size: 14px; font-weight: 650; color: var(--ink-2); }
+  @media (hover: hover) and (pointer: fine) {
+    .rt-close:hover { background: var(--press); color: var(--ink); }
+  }
+  .rt-close svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
+  .rt-side .rt-pane-b { flex: 1 1 auto; height: auto; }
+  .rt-panehead:not([hidden]) + .rt-pane-b { padding-top: var(--sp-4); }
+  .rt-pane-b[data-rest="1"] { padding: 0; overflow: hidden; }
+  body[data-two="1"] .fab { right: calc(100vw - var(--rail-w) - var(--pane-a) + var(--sp-4)); }
+  /* The way out of a page beside the list is its head's Close: the floating Back is not drawn. */
+  body[data-two="1"] #backbtn { display: none; }
+  body[data-two="1"] .dock { left: calc(var(--rail-w) + var(--pane-a) + var(--sp-4)); }
+}
+
+/* A sheet, where the screen has room, is a dialog: in the middle of the page, as wide as a
+   form needs, all four corners round. Nothing to drag, so no handle: it closes by its ×, by a
+   tap outside it, or Escape. It keeps the sheet's own way in (up, with the scrim). */
+@media (min-width: 768px), (orientation: landscape) and (max-height: 420px) and (min-width: 480px) {
+  .sh-sheet,
+  .sh-root[data-tall="1"] .sh-sheet {
+    left: var(--rail-w); right: 0; top: 0; bottom: 0;
+    width: min(560px, calc(100% - var(--rail-w) - 2 * var(--sp-6)));
+    height: fit-content;
+    max-height: min(var(--sh-max), calc(100% - 2 * var(--sp-6)));
+    margin: auto;
+    border-radius: var(--radius-24);
+    border: 1px solid var(--edge);
+    box-shadow: var(--shadow-pop);
+    padding-bottom: 0;
+  }
+  .sh-grab { display: none; }
+  .sh-x[data-dialog-only] { display: grid; }
+}

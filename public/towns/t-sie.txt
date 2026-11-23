@@ -1,0 +1,178 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shaoxing|CN||7i|2bc|9ay|hqw|Shawshin shehiri;Ŝaosing;Šao-sing;Thiệu Hưng;Sjaoxing;Siāu-heng-chhī;Siêu-hĭng;Shao-hsing;Shaohing
+Santa Cruz de la Sierra|BO||3n|-1df|-4vi|e4q|Santa Cruz;Santa Cruz da Serra;Santa-Kruzo
+Yancheng|CN||7i|2ko|99s|cgt|Jen-čcheng;Janĉengo;Diêm Thành;Sièng-siàng;Yen-ch’eng
+Xianyang|CN||7i|2ne|8dy|7z9|Sien-jang;Ŝjanjango;Sianjangas;Hàm Dương;Hàng-iòng;Hszienjang;Hâm-iông-chhī;Hsien-yang
+Shaoguan|CN||7i|1ww|8ri|7xp|Ŝaoguan;Sèu-kôan-sṳ;Thiều Quan;Šao-kuan;Sièu-guăng;Siâu-koan-chhī;Chao-kuan;Shao-kuan;Shaokwan
+Seattle|US||3p|3o9|-9ft|60y|Seattlum;Sietlas;Sietla;Sietl;Séatl;Siyaatil;Seatlo
+Shaoyang|CN||7i|23o|8lm|5t8|Sjaoyang;Šao-jang;Ŝaojan;Chàu-yòng-sṳ;Thiệu Dương;Siêu-iòng;Siāu-iông-chhī
+Xiantao|CN||7i|2cd|8r4|1ui|Sientaochen;Hsien-t’ao-chen
+Severodvinsk|RU||9i|4zc|32n|1hz|Sewerodwinsk;Siewierodwińsk;Sewjerodwinsk
+Cienfuegos|CU||36|1pj|-67h|1fu|Sjenfuegosas;Sienfuegos
+Ciego de Ávila|CU||36|1oo|-62s|13g|Siebo de Avila
+Siem Reap|KH||78|114|80i|12r|Ciudad de Siem Riep;Khett Siem Reab;Xiêm Riệp;Siĕm Réab;Siĕmréab;Siemreabas;Sziemreap;Siemrãp
+Serpukhov|RU||9i|48k|2vy|zm|Serpuchow;Serpuĥov;Sierpuchow;Serpuhhov;Serpuchov;Serpoechov;Sierpukhovo
+Seversk|RU||7r|4d8|6jt|ui|Sewersk;Siewiersk;Sewjersk
+Sergiyev Posad|RU||9i|4cf|2xy|ud|Sergijew Possad;Sergijev Posad;Sergiev Posad;Siergijew Posad;Sergijev Possad
+Siegen|DE||8r|3xb|ma|ts
+Siverskodonetsk|UA||98|3ry|2yx|rj|Syeverodonets'k;Syevyerodonets’k;Sievierodonetsk;Sjevjerodoneck;Severodonjeck;Sjewjerodonezk;Sziverszkodoneck;Szjevjerodoneck;Severodonetsk
+Serov|RU||7z|4lk|4ob|rc|Serow;Sierow
+Siedlce|PL|Mazovia|a5|40x|1px|lg|Sedlce;Sedlcos
+Siemianowice Śląskie|PL||a5|3vt|1gv|kb|Semjanovice Slonske;Śymjanowicy;Silezijos Semianovicai
+Severomorsk|RU||9i|5bv|2kt|ez|Siewieromorsk;Seweromorsk;Szeveromorszk;Sewjeromorsk
+Siena|IT||9o|3cc|vh|ez|Sieno;Sienne;Saena Julia;Séna;Saena Iulia;Sien-a;Sienna
+Skien|NO||9j|4kh|qp|e2|Šienas;Šėins
+Sieradz|PL||a5|3zc|1g1|cc|Seradza;Seradzas;Seradz
+Sertolovo|RU||9i|4n2|2bw|c4|Sierattala;Sertolowo;Siertołowo;Sertolova
+Sierra Vista|US||4i|2fn|-8ie|c2
+Siegburg|DE||8r|3x4|k1|av|Sieburch;Ziqburq
+Sestroretsk|RU||9i|4my|2b8|ac|Systerbäck;Siestarjoki;Sestroreck;Sestroreckas;Sestrorețk;Sestrorjeck;Sestrorecka;Systerpekki;Sestrorezk;Siestrorieck
+Serdobsk|RU||9i|41q|3eu|a7|Sierdobsk;Sjerdobsk
+Six-Fours-les-Plages|FR||9k|3bp|g6|9o|Sièis Forns;Sieisforns de Mar;Six-Fours-la-Plage
+Semiluki|RU||9i|3zk|30f|7b|Semilouki;Siemiłuki
+Sierpc|PL||a5|42u|1in|59|Serpca
+Sierre|CH||a7|3kl|ky|4o|Siders;Siérro
+Siemiatycze|PL||a5|41n|1ri|4a|Semiatičė;Semjatiče
+Sierra Vista Southeast|US||4i|2fd|-8i6|44
+Sienna Plantation|US||2f|29x|-7db|3t
+Selenginsk|RU||6k|40h|88u|3o|Selenguinsk;Sielenginsk
+Siemensstadt|DE||8r|41y|10u|3j
+Siedlce|PL|Pomerania|a5|46z|1fq|3h
+Syeverne|UA||98|3pm|2zg|35|Sieverne
+Sierra Madre|US||3p|2mw|-93x|34
+Siétinfla|CI||0|iz|-fx|2w
+Siegsdorf|DE||8r|3ou|z4|2a|Siagsdorf
+Siegfriedviertel|DE||8r|419|t9|23
+Siebnen|CH||a7|3n1|oq|1z
+Sierakowice|PL||a5|46z|1dp|1z|Gmina Srôkòjce
+Sierra Grande|AR||1s|-37l|-51k|1y
+Senno|BY||9g|489|2ai|1y|Syanno;Sienno;Sianno;Syenno
+Sebezh|RU||9i|4cd|274|1v|Sebezj;Sebesch;Sebej;Sebež;Sebežas;Siebież
+Siesta Key|US||48|23r|-6db|1u
+Sieraków|PL||a5|429|18o|1p|Serakova
+Siem Reab|KH||78|vo|83a|1j|Siem Reap
+Siewierz|PL||a5|3w7|1hf|1i|Seveža
+Sciez|FR||9k|3kp|hq|1d|Siéz
+Sierra View|US||48|35x|-5tm|1c
+Sievi|FI||92|4xi|1w2|1b
+Siempurgo|CI||0|qg|-h7|17|Sienpurgo
+Siechnice|PL||a5|3xr|1bn|17
+Siepraw|PL||a5|3un|1jg|16
+Sierning|AT||a2|3pg|13r|14
+Siempre Viva|PH||71|1bv|9dv|13
+Şieu-Măgheruş|RO||8u|3ms|1vq|12
+Siéblo Oula|CI||0|fr|-ki|z
+Seymchan|RU||6z|4ut|brb|z|Sejmtsjan;Seimtschan;Sejmtjan;Sejmčan;Seimchán;Seimtxan;Seymçan;Siejmczan;Seimcian;Semchan
+Sieci|IT||9o|3dn|vn|y
+Siegenburg|DE||8r|3rf|wx|y|Sigenburg
+Sierra de Yeguas|ES||9d|2v4|-dj|x
+Séndou|SN||g|14r|-1bs|v|Sienndou;Siendou
+Şieu|RO|Bistrița-Năsăud County|8u|3mm|1wc|v
+Shcheglovo|RU||9i|4mr|2df|v|Sjtsjeglovo;Sieklova
+Sierra Bullones|PH||71|r9|9l9|u|Sierra Bollones
+Siegendorf im Burgenland|AT||a2|3oq|19y|u|Siegendorf;Cinfalva;Cindrof
+Tierra Blanca|MX|Querétaro|41|1lq|-7qu|u|Sierra Blanca
+Siezenheim|AT||a2|3ou|103|u|Stezenheim
+Siershahn|DE||8r|3w9|lm|t
+Siersdorf|DE||8r|3xe|hb|s
+Siébly|CI||0|ka|-k2|s
+Şieuţ|RO||8u|3mi|1wh|s|Sieu
+Siennica|PL||a5|40p|1o2|q
+Șieu|RO|Maramureş|8u|3ok|1va|q
+Siedove|UA||98|3ms|2xz|q|Syedove;Sedowo;Sedove;Sedovo;Sedova
+Sierentz|FR||9k|3oe|kp|q|Sierenz
+Şieu-Odorhei|RO||8u|3mz|1vh|p|Şieul Odorhei
+Siedliska|PL|Lesser Poland|a5|3uj|1mc|o
+Siégouékou|CI||0|hm|-ge|n
+Siékro|CI||0|fs|-dk|n
+Sieniawa|PL|Subcarpathia|a5|3ve|1qt|m|Seņava
+Sieghartskirchen|AT||a2|3q2|18h|k
+Sierra de Guadalupe|MX||41|1if|-7ng|k
+Sista-Palkino|RU||9i|4m4|28b|k|Siesta-Palkkina;Sisto-Palkino
+Sierra de Fuentes|ES||9d|31k|-hf|k
+Sierra de Agua|MX|Veracruz|41|1ig|-7i0|k
+Siek|DE||8r|450|sm|k
+Sieniawa|PL|Lesser Poland|a5|3tm|1jd|j
+Sierck-les-Bains|FR||9k|3tc|ho|j|Bad Sierck;Sierk;Sierck
+Siedlinghausen|DE||8r|3yd|nj|j
+Siemiechów|PL||a5|3uh|1m3|j
+Siesta Acres|US||2f|27w|-7r5|j
+Sierra de la Ventana|AR||1l|-2xy|-4ro|i
+Siedlisko|PL|Lubusz|a5|3zt|17x|i|Carolat;Karolat;Carolath
+Siekierczyn|PL||a5|3y0|167|i|Geibsdorf
+Sietesz|PL||a5|3uv|1q3|i
+Sieraków Śląski|PL||a5|3x4|1fm|h
+Siedliska|PL|Subcarpathia|a5|3ur|1oz|h
+Sierra Colorada|AR||1s|-34r|-588|h|Serra Koloarado;Sierra Colorado
+Siegelsbach|DE||8r|3sv|p9|h
+Sieverstedt|DE||8r|47s|qb|h
+Siersleben|DE||8r|3zc|w2|g
+Sierndorf|AT||a2|3qj|18x|f
+Sierksdorf|DE||8r|467|tx|f
+Siénandi|CI||0|lv|-9x|f
+Sielenbach|DE||8r|3qg|v1|e|Sialabo
+Serhiivka|UA|Odesa|98|3js|2b8|e|Serghieşte;Serhiyivka;Siergiejewka
+Siesta Shores|US||2f|22m|-7np|e
+Siedenburg|DE||8r|42d|ou|d|Sie’enborg
+Siefersheim|DE||8r|3uc|m3|d
+Sieggraben|AT||a2|3od|19i|c|Szikra
+Siete Aguas|ES||9d|31n|-2k|c|Setaigües
+Siedlec|PL|Greater Poland|a5|40u|18g|c|Szilk
+Sigless|AT||a2|3oq|19k|c|Cikleš;Siklósd;Siegless
+Sievershütten|DE||8r|45k|s3|c
+Sé|HU||8v|3n8|1a0|c|Scheibing;Šiba;Šieba
+Siedleczka|PL||a5|3us|1q6|c
+Sieradza|PL||a5|3v9|1m5|b
+Sierra de Agua|MX|Veracruz|41|1g3|-7i4|b
+Sierra Papacal|MX||3z|1mo|-6x9|b
+Siemkowice|PL||a5|3y8|1gi|b
+Sieniawa|PL|Lubusz|a5|41g|16q|b|Schönow
+Sieniawa Żarska|PL||a5|3zg|15u|b
+Sieniawa|PL|Subcarpathia|a5|3tp|1ox|b
+Sienré|CI||0|r9|-gu|b|Syenré
+Sierra Gorda|CL||4u|-1rl|-5ck|b
+Sierra-Engarcerán|ES||9d|33v|-2|b
+Siebeldingen|DE||8r|3sp|md|b
+Sieroszewice|PL||a5|3zf|1dx|a
+Siedlisko|PL|Greater Poland|a5|437|19j|a
+Siennica Różana|PL||a5|3xo|1ss|a
+Sieciechowice|PL||a5|3vk|1jh|a
+Siengui-Sogo|CI||0|m0|-8w|a
+Siorac-en-Périgord|FR||9k|3gi|2r|9|Sieurac de Perigòrd
+Sierville|FR||9k|3tr|2w|9
+Siedliszcze|PL|Lublin|a5|3yg|1to|9
+Siedlec Duży|PL||a5|3wn|1h5|9
+Siegerswoude|NL||8m|43i|hc|8|Sigerswoude;Sigerswâld
+Siempre Viva|MX||37|2df|-8od|8
+Siedliszcze|PL|Lublin|a5|3y7|1sc|8
+Siedlec|PL|Lesser Poland|a5|3ur|1kg|8
+Siemianice|PL||a5|3y6|1ee|8
+Sienno|PL||a5|3xx|1no|8
+Sietzsch|DE||8r|3z1|xu|7
+Siedenbollentin|DE||8r|459|116|7
+Siegenfeld|AT||a2|3pg|18y|7
+Siedlce|PL|Lesser Poland|a5|3u1|1lq|7
+Siersthal|FR||9k|3s8|kf|7
+Sièn|BF||1a|z9|-82|7|Sion
+Sienso-Koroni|CI||0|pv|-jq|7
+Sieniawka|PL||a5|3xe|158|7|Kleinschönau
+Sietow|DE||8r|44h|yw|7
+Sieti|IT||9o|356|15e|7
+Siebigerode|DE||8r|3z8|vr|6
+Siebenhaus|AT||a2|3p5|193|6
+Siebenbäumen|DE||8r|45b|t9|6
+Siestedt|DE||8r|41c|ut|6
+Sien|DE||8r|3u1|ku|6
+Siedlce|PL|Świętokrzyskie|a5|3wy|1kx|6
+Siedlung|AT||a2|3pk|11o|6
+Siegersdorf|AT||a2|3p2|19f|6
+Siemień|PL||a5|3zf|1r9|6
+Siedlec|PL|Greater Poland|a5|3zv|1bl|6
+Siempre Viva|PE||3o|-fz|-62j|6
+Sierra Blanca|US||2p|2el|-84o|6
+Siete Iglesias de Trabancos|ES||9d|36v|-ee|5
+Sieniczno|PL||a5|3vn|1ih|5
+Siétamo|ES||9d|390|-s|5|Sietemo
+Siemyśl|PL||a5|463|175|5
+Siebenhirten|AT||a2|3r0|19x|5
+Siedlec|PL|Silesia|a5|3wt|1ht|5

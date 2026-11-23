@@ -1,0 +1,557 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sharjah|AE||6c|1yd|49x|dw0|Schardscha;Sarja;Charjah;Szardża;Xarjah;Ŝarĵo;Ash-Shāriqah emiraat;Sharja;Šardžá;Xarja;Sardzsa;Şarika;Sharga;Shārijah;Shāriqah
+Sargodha|PK||6q|2h5|5lv|7j3|Sargoda
+Charlotte|US|North Carolina|48|2pv|-68k|715|Sharlot;Carolinum;Šarlotė;Šarlota;Şarlott;Ŝarloto
+Saratov|RU||9s|3z6|3jr|6ip|Saratow;Szaratov;Saratof;Saratuovs;Saretow
+Sarajevo|BA||9r|3dt|1f0|5dj|Saraxevo;Sarajeva;Sarajewo;Saraybosna;Szarajevó;Sarajevas;Sarayevo;Saarayego;Seraium;Serayevo;Sarayevu;Sairéavó;Sarajevs;Saraevo;Sarajevu
+Zaragoza|ES||9d|37q|-2g|5au|Saragossa;Salduie;Saragoso;Saragosse;Saragozza;Caesarea Augusta;Saragosa;Saragoça;Zaragosa;Çaragoça;Saragoza;Saraqosa;Caesaraugusta;Zargoza
+Saransk|RU||9i|46i|3hh|2gk|Szaranszk
+Thessaloníki|GR||8p|34w|1rp|2ga|Salónica;Săruna;Selânik;Thessalonica;Ftohomána;I Protévoussa ton Prosfígon;Salonik;Tesalónica;Þessalóníka;Thessalonique;Saloniki;Solun;Tessalònica;Salonicco;Tesalonîkî;Salonikai;Salonic;Saluniccu;Thessaloníkē;Salonika
+Sariwŏn-si|KP||7a|2yz|9pc|2e5|Sariwŏn;Sarivon;Sariwŏn-ŭp
+Sari|IR||7o|2tk|43e|1yy|Szári
+Charleroi|BE||8t|3w1|cc|1jl|Ŝarlero;Tchålerwè;Šarlruā;Šarlerua;Carleroé;Caroloregium
+Saarbrücken|DE||8r|3sr|jh|1eu|Sarrebruck;Sarbrukeno;Saarbrécken;Sarëbryken;Saravipons;Sarbriukenas;Zārbrikene;Saarbrigge;Sárbrúch;Saarbrükken;Zaarbrükken;Saarbruecken
+Sarrià-Sant Gervasi|ES||9d|370|5y|153|Sarrià;sant gervasi
+Savannah|US|Georgia|48|2h4|-69a|152|Savanna;Sawanna;Sarannah;Savanah
+Sarh|TD||17|pf|1f2|12l|Sagh
+Schaerbeek|BE||8t|3xb|c6|10w|Schaarbeek;Ŝarbeko;Scarbeca
+Siracusa|IT||9o|2v0|16h|xs|Syracuse;Syrakuzy;Syrakus;Syrakusy;Sirakuzo;Syrakusa;Syracusae;Siracuza;Sarausa;Sirakuze;Siraküza;Sirakuz;Siracuxa;Sioracús;Sirakūzas;Sirakūzai;Sirakusa
+Sarandi|BR|Paraná|4w|-1t4|-403|wx
+Zárate|AR||1l|-2mq|-4jy|rj|Saratė
+Sarapul|RU||9p|4cw|45g|rg|Sarapoul;Sarapoel;Szarapul
+Sardārshahr|IN||6t|270|5qx|qn
+Sarov|RU||9i|48n|3cc|og|Sarow;Szarov
+Sārni|IN||6t|1pe|615|nx
+Sarishābāri|BD||6a|1wr|6xj|ml|Sarsabari;Sarisabari;Sarisabar
+Sarqant|KZ||5s|3i5|660|ld|Sarqan;Sarkand
+Sarai Alamgir|PK||6q|2je|5ow|kk
+Sarnia|CA||59|3be|-6cw|k1
+Deva|RO||8u|3jg|1rm|iu|Sargetia
+Saraburi|TH||62|14d|7sc|iu|Changwat Sara Buri
+Enrique B. Magalona|PH||71|u8|9hm|hv|Saravia
+Sarandí|AR||1l|-2oc|-4i3|gw
+Sarāvān|IR|Sistan and Baluchestan|7o|241|4t5|go
+Sarpsborg|NO||9j|4ko|uv|ge|Sarpsbuorgs
+Sarcelles|FR||9k|3s4|6m|g4
+Sarasota|US||48|23y|-6d9|fb
+Sartrouville|FR||9k|3rz|63|f0
+Charleville-Mézières|FR||9k|3u9|d4|ek|Charleville;Caroli Villa;Šarlevilis-Mezjeras;Şarlevil Mezyer
+Zarinsk|RU||63|457|6jy|ei|Sarinsk
+Sar-e Pul|AF||6o|2sm|535|eh|Sari Pul;Saripo'l;Sar-e Poul;Sar-i-Pul;Sar-e Pol
+Sardhana|IN||6t|28z|5zl|dv
+Zaranj|AF||6o|2e0|4ru|dv|Sarandsch;Zarandj;Zaranĝ;Zarandžas;Zerenc;Zarandż;Zaranas
+Charlottesville|US||48|2xn|-620|cy|Šarlotsvilis;Charlottesvle
+Sarakhs|IR||7o|2ti|4pw|cx|Sarahs;Serakhs
+Sardasht|IR|West Azerbaijan|7o|2sg|3ic|cw
+Sarpol-e Z̄ahāb|IR||7o|2nq|3je|cn|Sar-e Pol-e Z̄ahāb
+Sarāb|IR|East Azerbaijan|7o|2xe|3o2|ci
+Sariaya|PH||71|12s|9dl|ci
+Salisbury|GB||9b|3xv|-50|cf|New Sarum;Caersallog;Searoburg;Sarisberia;Solsberis;Solsberi
+Sarikei|MY||6w|5w|8ls|c8
+Chartres|FR||9k|3ql|45|c6|Chartrez;Carnotes;Šartras;Şartr;Šartra
+Sharypovo|RU||6u|4aa|6vs|bw|Sjarypovo;Scharypowo;Šarypovo;Charypovo;Ŝaripovo;Szarypowo;Xarípovo
+Saran|KZ||5s|3uc|5mb|bu|Soran;Sorang
+Charlottetown|CA||35|3kf|-4vd|as|Carolinapolis;Šarlotetaunas;Şarlottaun;Ĉarlotaŭno;Baile Sheàrlot
+Sharm el-Sheikh|EG||c|25k|2nd|ap|Sharm el Sheikh;Sharm el-Sheij;Charm el-Cheikh;Scharm asch-Schaich;Šarm eš Šejh;Şarm eş-Şeyh;Sharm esh Sheikh;Sharm al Shaikh;Sherm el Sheikh;Sherm el Shekh;Sherm el Sheik
+Saarlouis|DE||8r|3sz|ir|an|Sarrelouis;Sarljo
+Saronno|IT||9o|3ir|p4|al
+Saray|AZ||61|34l|3u4|ai|Sarai
+Sārangpur|IN||6t|1th|5wf|ae
+Sarzedo|BR||4w|-1jo|-3em|a8
+Sarankhola|BD||6a|1pz|6xf|a5
+Saraqib|SY||69|2rm|2u9|9i|Seraqib;Saraquib;Sarâqeb
+Srvanampatti|IN||6t|us|5xw|95|Saravanampatti
+Salisbury|US|Maryland|48|2yk|-5u0|95|Sarisberia;Salsbury
+Şarkîkaraağaç|TR||94|2xs|2f5|94
+Sarahs|TM||5x|2tg|4q1|8p|Sarakhs
+Saratoga|US|California|3p|2vi|-9ey|8m
+Sarkhej|IN||6t|1ru|5le|8f
+Sardrūd|IR||7o|2xn|3k7|89|Sardārūd;Sard Rood
+Sarny|UA||98|3ym|21x|81|Sarnı;Sarnv
+Sarno|IT||9o|35d|14m|80
+Sa Kaeo|TH||62|12d|7vj|7x|Sakaeo;Sa Kaew;Sara Kaeo;Sa Keo
+Saratoga Springs|US|New York|48|3bo|-5oy|7q|Saratoga Spgs
+Sarubetsu|JP||7q|3b3|b26|76|Makubetsu
+Saratoga Springs|US|Utah|2p|343|-8mu|72
+Saraj|MK||9u|38o|1n9|72
+Saryaghash|KZ||5s|376|5c5|6z|Saryagach;Saryagash
+Sarrià|ES|Catalonia|9d|370|5w|6w
+Sarandi|BR|Rio Grande do Sul|4w|-25m|-430|6w
+Sarreguemines|FR||9k|3sf|jn|6s|Saargemünd;Germunda;Sarrequemines;Saargemuend
+Şarkışla|TR||94|31b|2t5|6m
+Sarjamda|IN||6t|1r7|6nj|6m
+Sarandë|AL||9y|32s|1jk|6a|Ayii Saranda;Saranda;Santi Quaranta;Onchesmus;Saranta;Santa Quaranta
+Sarapāka|IN||6t|1d5|68n|65
+Sarauli|IN||6t|275|63p|5t|Saranli
+Sarzana|IT||9o|3ej|ro|5o
+Sarwar|IN||6t|20w|5sp|5o
+Žďár nad Sázavou|CZ||9m|3to|18a|5m|Ždiaras prie Sazavos;Zdziar nad Sazawą;Zdar;Sar;Ždjāra pie Sāzavas;Saar
+Saraipali|IN||6t|1n8|6el|5k|Saraipaili
+Charlotte Amalie|VI||53|1ey|-50d|5k|Carlota Amalia;Şarlotta Amaliya;Ĉarlotamalio;Šarlotė Amalija;Charlotte Amalia
+Sarigam INA|IN||6t|1kd|5md|5j
+Sarāt ‘Abīdah|SA||7e|1e9|3bt|5j
+Sarai Naurang|PK||6q|2j7|5gm|5h
+Sardulgarh|IN||6t|2ah|5t0|5c
+Saratok|MY||6w|4t|8l9|5a|Seratok
+Sarayköy|TR|Denizli|94|2xc|28d|59
+Sarstedt|DE||8r|413|rd|57
+Sarvestān|IR||7o|29b|43u|52|Sarvistān
+Szarvas|HU||8v|3m7|1l3|52|Sarvaš;Sarwasch;Hirschfeld
+Sarāi Mīr|IN||6t|20b|6ec|4y
+Sarāi Ākil|IN||6t|1yi|6af|4u
+Saraktash|RU||7z|3zv|4ck|4u|Saraktasj
+Sartell|US||2f|3iq|-79p|4o
+Sarangpore|IN||6t|1o4|5mx|4n
+Saran|FR||9k|3p7|58|4i
+Sarigerme|TR||94|2u0|27q|4g
+Sarai Sidhu|PK||6q|2cz|5jx|4c
+Sarıkamış|TR||94|341|3ab|4a
+Sárvár|HU||8v|3n9|1b2|49|Kotenburg;Rotenturm an der Raab;Mala Sela;Savar
+Sāram|IN||6t|1u0|6mf|48
+Sarykemer|KZ||5s|3bh|5in|47|Mikhaylovka;Sarykamar
+Sārangarh|IN||6t|1nz|6es|46
+Sarriguren|ES||9d|3ax|-4g|44
+Sarrebourg|FR||9k|3re|jm|43|Saarburg;Saraburgum;Sarrebourc
+Sarasota Springs|US||48|23v|-6d4|40
+Saraikela|IN||6t|1r2|6mp|3z|Seraikella
+Sarmi|ID||6m|-55|apf|3x|Sarmo
+Saryozek|KZ||5s|3f8|60l|3v|Sary-Uzek;Saro-Ozak
+Saraland|US||2f|2dm|-6sn|3v
+Sarāyān|IR||7o|2m2|4ik|3u|Sarā’īān
+Sar Bu Taung|MM||7y|1bt|7fb|3s|Sabudaung
+Saarwellingen|DE||8r|3t3|iw|3s|Sarrevailingue;Vailingua
+Sarria|ES|Galicia|9d|3au|-kl|3r|Sorria
+Sárbogárd|HU||8v|3m9|1fq|3q
+Sarezzo|IT||9o|3iu|sc|3p
+Saruhanlı|TR||94|2zl|24l|3l|Sarıhanlı
+Sarıgöl|TR||94|2y8|27q|3k
+Hvardiyske|UA|Crimea|9t|3hc|2mi|3i|Gvardeyskoye;Hwardijśke;Gwardiejskoje;Sarabuz;Hvardiïske;Gvardeïskoïe;Hvardijske
+Sarābleh|IR||7o|2lt|3ld|3g
+Sarıhamzalı|TR||94|2uq|2pv|3c
+Sárospatak|HU||8v|3q8|1nx|3b|Šarišský Potok;Patak am Bodrog;Blatný Potok
+Sarjāpur|IN||6t|zq|603|3a
+Sargūr|IN||6t|xc|5w8|36|Saragur
+Sarakagui|CI||0|g6|-iw|36
+Sarāb-e Tāveh|IR||7o|2d0|3za|34|Sarābtāveh
+Saraykent|TR||94|329|2qn|34
+Sarlat-la-Canéda|FR||9k|3gp|3e|33|Sarlat e la Canedat;Sarlat;Sarlatum
+Sarafand|LB||64|2kx|2q2|32
+Sarkad|HU||8v|3lv|1ne|2z
+Sarai Ekdil|IN||6t|22a|63p|2y
+Sarpang|BT||7p|22m|6yr|2w|Sarbhāng
+Saravli|IN||6t|1iy|5m3|2w
+Sarapuí|BR||4w|-1to|-3ou|2w|Sarapuhy
+Sarnen|CH||a7|3ma|mx|2w|Sarno;Zarnenas
+s'Arenal|ES||9d|31q|7n|2u|El Arenal;l'Arenal
+Sarayönü|TR||94|2ya|2i0|2u
+Sardão|PT||99|368|-nv|2t
+Sartana|UA||98|3n2|2wp|2t|Primorskoye
+Sardis|CA||5b|3sh|-9er|2s
+Sarājīq|IQ||5z|2mi|3ga|2s
+Sarupathar|IN|Assam|6t|20r|78q|2r
+Sarupathar|IN|Assam|6t|20t|7gx|2q
+Shelkovskaya|RU||9i|3cv|3kq|2o|Sjelkovskaja;Sarapan;Şelkovski;Šelkovskaja;Schelkowskaja
+Sarmakovo|RU||9i|3dj|3c0|2o
+Sarushi|JP||7q|2ka|a1l|2o
+Saron|ZA||o|-2k6|1gt|2m
+Sa Rài|VN||6h|u7|84z|2i
+Saarijärvi|FI||92|4u6|1y5|2g|Saaijärvi;Sariyarvi
+Sarupathar Bengali|IN||6t|23y|7cr|2g
+Sarbīsheh|IR||7o|2ii|4m4|2f
+Sarıyahşi|TR||94|30a|2m0|2f
+Sarıçam|TR|Adana|94|2v7|2qn|2c|Sarıçah
+Sarmiento|AR||1m|-3in|-5bv|2b|Sarmjentas;Sarmyento
+Sargatskoye|RU||76|4ah|5o6|2b|Sargatskoje;Szargatszkoje;Sargatskoe
+Saraiya|IN||6t|1ww|6hk|2b
+Sarbhog|IN||6t|21l|70g|29
+Sarimpur|IN||6t|1z3|6hb|28
+Sarīla|IN||6t|1zm|65c|28
+Sardinata|CO||27|mg|-5m8|27
+Sarmeola|IT||9o|3i6|wu|26
+Sarkhonkalāteh|IR||7o|2uh|47l|24|Sarkhon Kalāteh;Sorkhan Kalāteh
+Sarıveliler|TR||94|2ty|2im|23
+Sarangani|PH||71|f0|9oi|23
+Sharur City|AZ||61|31v|3gy|23|Norashen;Sharur;Şarur;Charur;Bash-Norashen;Ilyichevsk;Il’ichëvsk
+Sargaon|IN||6t|1ou|6bq|23
+Sarichioi|RO||8u|3gv|285|23|Sarikioi
+Sarukhan|AM||80|33x|3hd|23|Saruxan
+Edremit|TR|Van|94|2yq|3c6|23|Sarmansuyu
+Sărmaşu|RO||8u|3lv|1v5|22|Sărmaş
+Sardārpur|IN||6t|1qz|5sa|21
+Sāragaon|IN||6t|1p3|6dw|20
+Sarandí del Yi|UY||45|-2kn|-4aj|20
+Sarzeau|FR||9k|3o1|-7p|1z|Sarzhav
+Sarai Khas|IN||6t|2f9|5tr|1y
+Saria|IN||6t|1o4|6fk|1x|Sariya
+Sarthebari|IN||6t|218|71e|1x
+Sardasht|IR|Khuzestan|7o|2c9|3vi|1x|Sār Dasht
+Sardarapat|AM||80|33h|3e9|1t|Hoktember;Oktember
+Sarpara|IN||6t|20i|728|1t
+Sarayi|RU||9i|459|35w|1s|Sarai
+Saranga|IN||6t|1m5|6ku|1s
+Şărmăşag|RO||8u|3nj|1rf|1s
+Sarmanovo|RU||9i|49h|423|1r|Sarman;Sarmany
+Saruhashi|JP||7q|2qy|aq2|1q
+Saarburg|DE||8r|3tt|i6|1q|Sarrebourg
+Zarichne|UA|Dnipropetrovsk|98|3rd|2q3|1q|Hvardiïské;Zarične;Saritschne;Hwardijske;Zariczne
+Sarnico|IT||9o|3iv|ro|1q
+Sargans|CH||a7|3mp|q8|1p|Senegaunis
+Sarandí Grande|UY||45|-2lp|-4ch|1p
+Saratovskaya|RU||9i|3g7|30y|1p|Saratovskaja;Saràtovskaia
+Sartich’ala|GE||7n|37w|3hi|1o|Sart'ichala;Marienfeld;Petersdorf
+Sār|BH||60|20r|3w8|1o|Saar
+Sarkār Periyapālaiyam|IN||6t|ux|5z0|1o
+Sarugamori|JP||7q|36p|aws|1o
+Sarikhosor|TJ||6d|2z2|5dz|1n|Sary-Khasor;Sarykhosor
+Sarna|IN||6t|2hm|5ty|1m
+Sarrat|PH||71|1eg|9b5|1m
+Sarrians|FR||9k|3eg|dt|1m|Sarrian
+Sarhala|CI||0|ne|-h5|1l
+Sarāvān|IR|Gilan Province|7o|2uy|3ty|1j
+Sarina|AU||8c|-1ni|bii|1j
+Salavan|LA||7v|17o|87m|1j|Saravane;Saravan
+Sara'eyn|IR||7o|2xz|3pj|1j
+Sars|RU||7z|4d3|4eq|1i
+Sarıoğlan|TR||94|30k|2rx|1i
+Sarabia|MX||41|1l0|-7sq|1h
+Saranac Lake|US||48|3f5|-5px|1h
+Sardārān|IR||7o|2gy|3rj|1g
+Saranap|US||3p|2x8|-9f4|1g|Sacanap
+Saraura Kalān|IN||6t|246|68k|1g
+Sarūk|IR||7o|2d2|3zd|1f|Serūk
+Sarvābād|IR||7o|2q3|3kt|1f|Sarrābād
+Sardoá|BR||4w|-1g6|-39o|1f
+Sarauni|IN||6t|1wy|6qj|1e
+Şarfā|JO||5t|2f1|2r1|1d|Ṣirfa
+Sarka Ghāt|IN||6t|2g2|5x6|1b
+Sarralbe|FR||9k|3s4|jj|1b|Saravi Alba;Saaralben
+Sartmahmut|TR||94|2yy|25w|1b|Sart;Sardes;Sered;Sard;Sardy;Sardeso;Sardeis;Sfarad;Szardeisz;Sardi;Sarudi;Sardîs;Sfard;Sparda
+Saraváli|GR||8p|2y3|1og|1a
+Saryg-Sep|RU||6u|3z1|7dg|1a|Saryye-Sep;Saryy-Sey
+Sar Ta Lin|MM||7y|1be|7fj|1a|Sādalin
+Sergeant Bluff|US||2f|39s|-7fo|19|Seargeante Bluff;Sergeants Bluff;Sargent Bluff
+Săvădisla|RO||8u|3lo|1t5|18|Tordaszentlászló;Sărădisla
+Sersale|IT||9o|30d|1ah|18|Sersalis;Sarsale
+Saryshaghan|KZ||5s|3k4|5oh|18|Saryschaghan;Saryšagan;Saryshagan;Sarychagan;Saryszagan
+Şaru Dornei|RO||8u|3nc|1yf|17|Şarul Dornei
+Sarata|UA||98|3ju|2ae|17
+Sara-et|PH||71|s5|9ha|16
+Sardara|IT||9o|321|oi|15
+Sărmaş|RO||8u|3m8|1yp|15
+Sara|PH||71|va|9hp|15
+Sariñena|ES||9d|383|-g|15
+Sarāb Ḩammām|IR||7o|2jz|3oh|15|Sarāy Ḩammām;Sarab Hamman;Sarāi Hamām;Sarāb-e-Hammān
+Sarykamys|KZ||5s|3oq|62o|14
+Sarroch|IT||9o|30j|p1|14
+Sarteano|IT||9o|3bf|wy|14
+Sarrià de Ter|ES||9d|38q|7v|14
+Sarız|TR||94|2yw|2te|14
+Sar Hpyu Su|MM||7y|1at|7ej|13
+Sardoal|PT||99|31t|-mo|13
+Sarjū’īyeh|IR||7o|248|4f0|13
+Zarichchia|UA|Ivano-Frankivsk|98|3qs|1wh|12|Zaritsjtsja;Saritschtschja;Zarichchya;Zaritchtchia;Zaricscsja;Zariççâ;Zarechye;Zariččja;Zarzecze;Zaricicea;Zarech’ye
+Saratoga|AU||8l|-2l0|bof|12
+Sarutaiá|BR||4w|-1sn|-3tg|11|Sarutai;Sarutaya
+Sartène|FR||9k|37m|oy|11|Sartè;Sartena
+Sargé-lès-le-Mans|FR||9k|3pf|o|11|Sargé-lès-le Mans
+Sarcedo|IT||9o|3iy|w1|10
+Sariegos|ES||9d|3ah|-fn|10
+Sarre-Union|FR||9k|3ry|jp|10|Saarunion;Buckenum;Saar-Buckenheim;Saar-Union
+Sarnaghbyur|AM||80|34k|3dz|10|Urnut;Sogyutlu;Sarnaxbyur;Gyodikendi;Sogutli;Kirmizkilisa
+Saré Yoba Diéga|SN||g|zh|-15z|10
+Sarteneja|BZ||24|1ez|-6sv|10|Santeneja
+Sarnitsa|BG||9v|37y|1uq|z|Sarniza;S’rnitsa;Sŭrnitsa
+Sárosd|HU||8v|3mo|1fs|z
+Saracena|IT||9o|32i|18w|z
+Saronída|GR||8p|2wv|1uf|y|Saronís
+Sarih|IN||6t|2ei|5tw|y
+Sarbandān|IR||7o|2r0|41b|y
+Sāruberā|IN||6t|1u6|6mw|x
+Sarafovo|BG||9v|3a8|24g|x|Sarafowo;Sarefovo
+Sarabetsu|JP||7q|3ai|b1r|x
+Sardinal|CR||2i|t8|-6lx|x
+Sary-Tyuz|RU||9i|3dy|38e|w|Sary-Tjuz
+Sarıseki|TR||94|2tv|2sl|w
+Săruleşti|RO|Călărași County|8u|3fe|221|v
+Sarıgül|TR||94|31u|3ei|v|Sarıdana;Zengezor
+Sárrétudvari|HU||8v|3n7|1mw|u
+Sart-Dames-Avelines|BE||8t|3wh|ch|u
+Saranpaul’|RU||7z|4yi|4p6|u|Saranpaul
+Särö|SE||9w|4fr|x5|u
+Zarichne|UA|Donetsk|98|3s6|2xd|u|Imeni Kirova;Kirova;Kirovsk;Kirovs’k;Kirovo;Kirowo;Saritschne;Zarične;Zaritchne;Zaritsjne;Zaritšne;Kirowsk;Zaricine;Kirove;Kirowe
+Sarteshnīz|IR||7o|2h7|3xd|t|Sar-i-Tīshnīz;Sar-e Teshnīz
+Sárisáp|HU||8v|3og|1fw|t
+Sárszentmihály|HU||8v|3mz|1ey|s
+Sar Mashhad|IR||7o|29d|3zm|s|Sar Meshad
+Şarrah|PS||6g|2hh|2pr|s|Ṣarra
+Saraya|SN||g|zn|-wn|r
+Sarıkemer|TR||94|2wd|240|r
+Sarmato|IT||9o|3h6|qe|r
+Sarāb Bāgh|IR||7o|2je|3o5|r
+Sarana|RU||7z|4cw|4gd|q
+Saraza|PH||71|oa|936|p
+Şarţah|PS||6g|2h6|2ph|p|Sarta
+Sargėnai|LT||a3|48n|1uc|p
+Sarıdibek|TR||94|367|2pf|p
+Saravale|RO||8u|3jz|1lm|p|Saravele
+Sarasău|RO||8u|3p8|1u7|o
+Sárkeresztúr|HU||8v|3ml|1fi|o
+Sārū Kolā|IR||7o|2ta|42x|o
+Sarrās|IR||7o|24d|4fs|o|Sar Rā’s
+Sare|FR||9k|3cb|-4e|n|Sara
+Sarmenstorf|CH||a7|3nf|mx|n
+Sáránd|HU||8v|3no|1o3|n
+Sarentino|IT||9o|3lk|vj|n|Sarnthein;Sarntal;Vallis Serenae
+Sarzeh|IR|Sistan and Baluchestan|7o|23l|4oo|n
+Sykiá|GR|Central Macedonia|8p|338|1ui|n|Sarto;Sikiá
+Sar Chāhān-e Janūbī|IR||7o|25y|4b8|n
+Sharan|AF||6o|2k6|5ax|m|Şaran
+La Sarrosa|HN||56|16b|-6rz|m|Sarrosa;La Zarrosa
+Šardice|CZ||9m|3s0|1bb|m
+Sarry|FR||9k|3rw|c9|l
+Sărata|RO|Dolj|8u|3dl|1ur|l
+Sar Korreh|IR||7o|294|3y9|l|Sar Kūreh;Sarkurreh;Sarkorreh
+Sarilhos Pequenos|PT||99|2zg|-oy|k
+Sarbāz|IR|Sistan and Baluchestan|7o|21z|4q6|k
+Sar Āsīab-e Shesh|IR||7o|2ct|4e8|k|Sar Āsyāb-e Shesh
+Saruja|GM||7|11n|-15g|k
+Sarras|FR||9k|3hj|dc|j
+Sarrola|FR||9k|38r|ok|j
+Sarratt|GB||9b|3zk|-1d|j
+Sarıca|TR||94|2y1|33t|j
+Sarnano|IT||9o|3bj|10y|j
+Sarantáporo|GR||8p|33b|1p9|j|Sarandáporon
+Șard|RO||8u|3k5|1te|j
+Sármellék|HU||8v|3lr|1bp|i
+Sarıyer|TR||94|359|2ez|i
+Sargazy|RU||7z|48u|4q5|i
+Khashtarak|AM||80|35q|3hi|i|Khashdirak;Xashtarak;Khach gyugh;Khachdarak;Khachtaragh;Khachtaraki;Sarhatlu;Sarhatu
+Sărulești-Gară|RO||8u|3fg|222|i
+Sarnów|PL|Silesia|a5|3vx|1h7|i
+Sarule|IT||9o|33r|ph|i
+Sarreaus|ES||9d|38x|-l4|i
+Sardis City|US||2f|2mx|-6n8|i
+Sârbeni|RO||8u|3fj|1yi|h|Sîrbeni
+Sardasht|IR|Hormozgan|7o|21i|4gu|h
+Sarāb-e Dūreh|IR||7o|2l8|3pe|h|Sarāb-e Do Rah;Sarāb-e Dowreh;Sarāb Doreh
+Sărata|RO|Bacău County|8u|3l6|22n|h
+Sarandara|CI||0|q8|-ce|h
+Sary|UA||98|3vr|2m9|h
+Sārlī Makhtūm|IR||7o|2vk|49e|h|Sārlī Makhdūm
+Sarsina|IT||9o|3e0|xq|h
+Saratoga|US|Wyoming|2p|375|-88p|h
+Sartirana Lomellina|IT||9o|3hb|o3|h
+Sar Chāh|IR||7o|2gw|3wd|h
+Saršoni|HR||a6|3i3|141|h
+Sardis|US|Mississippi|2f|2no|-6xs|h
+Sarvaš|HR||a6|3ih|1gc|h|Szarvas
+Șaroș pe Târnave|RO||8u|3kc|1w7|g|Szászsáros;Şaroş pe Tîrnave
+Sarısu|TR||94|30y|3b1|g
+Sartano|IT||9o|31r|18y|g|Sarcano
+Sarzeh|IR|Hormozgan|7o|21g|4f2|g
+Sărățeni|RO|Mureș County|8u|3lc|1xh|g
+Sarafinești|RO||8u|3oa|21x|g
+Sar Gol|IR||7o|2qa|3zj|g
+Săruleşti|RO|Buzău County|8u|3ie|22b|g
+Sarego|IT||9o|3i5|vo|f
+Sarahart|AM||80|35j|3et|f|Gyullija;Saraart
+Sarāhan|IN||6t|2fj|603|f
+Sarni|PK||6q|2nc|5mx|f
+Sarāy|IR|East Azerbaijan|7o|2y7|3md|f|Seray;Sarai
+Saraiu|RO||8u|3g8|267|f|Sarai
+Sarmast|IR||7o|22z|4el|f
+Sars-Poteries|FR||9k|3vd|b7|f
+Sar Kahūrān|IR||7o|23g|4ot|f|Sar Kūhurān
+Sar Ḩowẕak|IR||7o|2py|4i6|e
+Sărățeni|RO|Ialomița County|8u|3fz|22t|e
+Sarāb|IR|Ilam Province|7o|2ls|3ks|e
+Sarţāf|IR||7o|2lb|3ku|e
+Salafchegān|IR||7o|2ns|3w6|e|Salafchakān;Sarafchekān;Salafchagan
+Sardang-e Komīz|IR||7o|243|4ez|e
+Sarmizegetusa|RO||8u|3ig|1ra|e|Sarmisegethuza;Sarmisegetuza;Sarmizegetuza
+Sariego|ES||9d|3ck|-fd|e|Sariegu
+Sartaguda|ES||9d|39q|-5q|e
+Sarachy|BY||9g|42n|25u|e|Sarachi
+Sārūq|IR||7o|2nl|3ti|d
+Saranac|US||2q|3b9|-6kp|d
+Sartilly|FR||9k|3rf|-42|d
+Sara Kunda|GM||7|11l|-16u|d|Sarra Kunda
+Sart-Bernard|BE||8t|3w0|ds|d
+Sarcoxie|US||2f|2uz|-79g|d
+Sarreinsming|FR||9k|3sd|jr|d|Sarreinsmeing
+Saratak|AM||80|34z|3dv|d|Imirkhan;Imrkhan
+Sarigyugh|AM||80|360|3he|d|Sarigyukh;Sarıgüh;Sarigyux;Glechkent;Kelejkend;Klechkend;Klich;Klichkend;Ghelejkend;Ghlechkend;Ghlichkend;Ghlijkend;Ghlijkyand;Noragegh;Seri;Sri;Srikend
+Sargezeh|IR||7o|2vw|3kx|d|Sargīzeh
+Saralanj|AM||80|34u|3ea|d|Bashkend;Bashkeg
+Sarala|CI||0|nx|-cw|d
+Sârbi|RO|Botoșani County|8u|3p6|22s|d|Sîrbi
+Sârbi|RO|Bihor County|8u|3n3|1pg|c|Sîrbi
+Sardis|US|Georgia|48|2j4|-6j4|c
+Sarany|RU||7z|4ii|4jk|c
+Sarakakro|CI|Vallée du Bandama District|0|le|-d5|c
+Sar Taing Hmut|MM||7y|19y|7fd|c|Sadainghmut
+Sarchapet|AM||80|36g|3fa|c|Sharshabek
+Sarnaki|PL||a5|41c|1rl|c|Sarnakų valsčius
+Sarzeh|IR|Hormozgan|7o|24k|4bw|c
+Sari-Solenzara|FR||9k|388|q1|c|Sari è Sulinzara
+Saracalarçiftliği|TR||94|33b|2jl|b|Saracalar
+Sarıçubuk|TR||94|2zf|30o|b|Sarıcabük;Bizmişen
+Sarazhinka|UA||98|3pl|29t|b|Sarajynka
+Sarleinsbach|AT||a2|3qv|12m|b
+Serhiyi|UA||98|3pb|1xw|b|Sârghieni;Serhiï
+Sarconi|IT||9o|33t|185|b
+Sărăuad|RO||8u|3nw|1qv|b
+Sarrewerden|FR||9k|3rw|jo|b
+Sarıbelen|TR||94|2sr|29w|b
+Saramej|AM||80|359|3eu|b|Chotur;Saramech
+Sargento López 2da. Sección (El Chuzo)|MX||41|1ek|-775|b
+Sarmede|IT||9o|3jq|yf|b
+Sardínia|GR||8p|301|1mx|b|Sardhínina;Sardhínia
+Sarrión|ES||9d|33i|-2a|b
+Sarıabalı|TR||94|2uo|2el|b
+Sarbazan|FR||9k|3ea|-v|b
+Sarıköy|TR||94|2vs|36q|b
+Sárti|GR||8p|33d|1um|b
+Sart-Saint-Laurent|BE||8t|3w0|d6|a
+Sârbi|RO|Maramureş|8u|3oo|1ui|a|Sîrbi
+Sarıkaraman|TR||94|2zp|2n0|a
+Särevere|EE||9x|4jb|1yn|a|Serrefer
+Saroleh|IR||7o|2f3|3ui|a
+Paso Real de Sarabia|MX||41|1bf|-7c1|a|Sarabia
+Saryk|TM||5x|2xh|4jc|a
+Sargé-sur-Braye|FR||9k|3p4|2d|a
+Sarabash|UA||98|3oo|2wz|a|Stalinskoye;Stalinskiy;Kommunarovka;Komunarivka;Sarabasch;Ssarabasch;Sarabaš
+Zarlardinge|BE||8t|3x0|an|a|Sarlardinge
+Sarasa|RU||63|404|6l4|a
+Sarnów|PL|Lublin|a5|402|1py|a
+Old Sarum|GB||9b|3xy|-4z|a|Salisberie;Sarum
+Sardis|US|Georgia|48|2jm|-6b4|a
+Sardinia|US||48|30d|-6gt|a
+Sarmaşık|TR||94|2yc|33l|9
+Sarow|DE||8r|45f|10e|9
+Sarāy|IR|East Azerbaijan|7o|2x6|3ik|9|Sarai
+Sarawina|BZ||24|1b5|-6t7|9
+Saračino|MK||9u|38m|1mg|9|Sarakinë;Saracince;Sarakince;Sarakino
+Sărata-Monteoru|RO||8u|3hf|220|9
+Sarnaq|IR||7o|2xy|3gd|9
+Sardagna|IT||9o|3jy|uu|9
+Sarceaux|FR||9k|3rc|-4|9
+Sărata|RO|Bistrița-Năsăud County|8u|3mr|1vw|9
+Sáric|MX||37|2ee|-8le|9
+Sa Ràpita|ES||9d|31d|86|9
+Sarāgāh|IR||7o|2x2|3rs|9
+Šaratice|CZ||9m|3sg|1ao|9
+Sarāb-e Kalān|IR||7o|2l9|3ls|9
+Sarid|IL||6n|2iq|2pu|9
+Sârca|RO||8u|3n7|23i|9|Sîrca
+Sarapulka|RU||7z|4dz|4pm|9
+Sarepta|US||2f|2jd|-77l|9
+Särkänniemi|FI||92|4qu|1ty|9
+Startex|US||48|2p1|-6c2|9|Sartex
+La Roquette-sur-Var|FR||9k|3dr|k0|9|Sa Roqueta;Rupecula ad Varum;Sa Roqueta de Var
+Sărata|RO|Bacău County|8u|3ld|21r|8
+Sârbi|RO|Vrancea|8u|3jf|237|8|Sîrbi
+Sars-la-Buissière|BE||8t|3vu|bp|8
+Sarcey|FR||9k|3jg|cn|8
+Sars-la-Bruyère|BE||8t|3vx|ar|8
+Sary-Bash|UA||9t|3il|2lv|8|Sary Baš;Sarıbaş;Tanino
+Sarıbuğday|TR||94|2xy|35a|8
+Sarpi|GE||7n|37c|37f|8|Sarp'i;Sarp
+Sărdănești|RO||8u|3gd|1sw|8
+Sardent|FR||9k|3jx|56|8
+Sart-Eustache|BE||8t|3vy|cs|8
+Sarraltroff|FR||9k|3ri|jm|8|Saaraltdorf
+Sarrigné|FR||9k|3ny|-13|8
+Sahlāvar|IR||7o|25e|4g5|8|Sarlāvar
+Sărbătoarea|RO||8u|3f2|1tp|8
+Zhovtyi Yar|UA||98|3jf|2b5|8|Sārāria;Zhëltyy Yar;Zhovtyy Yar;Sarariya
+Sargstedt|DE||8r|40a|uj|8
+Sarıharman|TR||94|2ws|2yu|8
+Sar Āb Bīz-e Bālā|IR||7o|2cf|3xw|8|Sarābīz-e Bālā
+Sărmășel-Gară|RO||8u|3lz|1v9|8
+Sarayköy|TR|Ankara|94|33a|2in|7|Saray
+Sarzbüttel|DE||8r|46c|pi|7
+Sarín|PE||3o|-lz|-60e|7
+Sar Sakhtī-ye ‘Olyā|IR||7o|2lz|3t4|7
+Sărmășel|RO||8u|3lw|1v6|7|Sarinasel
+Sarrancolin|FR||9k|3bd|12|7|Sarraneolin
+Sarakakro|CI|Vallée du Bandama District|0|ku|-e2|7|Sarakro
+Saramon|FR||9k|3cw|24|7
+Sarıalan|TR||94|36f|2pr|7
+Sārūjlū|IR||7o|2qx|3rt|7|Sārījlū;Sārījehlū
+Sárpilis|HU||8v|3kh|1g2|7
+Sargento López 3ra. Sección (San Jorge)|MX||41|1el|-772|7
+Sarīzjān|IR||7o|29c|40h|7|Sīrīzḩān;Serīzjān;Sīrīzjān
+Sarıkavak|TR||94|2v3|2oc|7
+Sarıyaprak|TR||94|2wf|2wr|7
+Särna|SE||9w|4rd|10i|7
+Sarbast|IR||7o|29o|3ya|7
+Sardón de Duero|ES||9d|37l|-cb|7
+Sarbāz|IR|Isfahan|7o|2dz|3zc|7
+Sărămaș|RO||8u|3iz|20c|7|Szaramás
+Sardieu|FR||9k|3i1|eh|7
+Sarıkaya|TR||94|2u4|2mr|7
+Saraycık|TR||94|36j|2pu|7
+Sarnonico|IT||9o|3ky|uy|6
+Șoard|RO||8u|3ki|1x9|6|Şard
+Sarıoba|TR||94|32r|2h4|6
+Sarraméa|NC||b8|-1o5|csp|6|Saraméa
+Sarıçam|TR|Aydın|94|2xj|262|6
+Sarchūb|IR||7o|247|4oy|6
+Sarakinádhon|GR||8p|2wz|1lx|6|Sarakinado
+Nor Khachakap|AM||80|35g|3f8|6|Saral;Nor Xachakap
+Sarina Beach|AU||8c|-1nf|bir|6
+Sarıhacılar|TR||94|2uu|2g9|6
+Sarasdorf|AT||a2|3pe|1ac|6
+Sarrīgān|IR||7o|23j|4e8|6
+Sarsfield|AU||8j|-2wv|bec|6
+Sark|GG||91|3tb|-6k|6
+Sartimbamba|PE||3o|-le|-5zy|6|Sartibamba
+Sarıtoprak|TR||94|2x4|34f|6
+Sarıcaali|TR||94|35v|21a|6|Sarıcalı
+Sarıtepe|TR||94|2vv|2x4|6
+Šared|SI||9a|3if|11x|6
+Sările|RO||8u|3ih|22b|6
+Sarrouilles|FR||9k|3c4|d|6
+Sarayköy|TR|Gaziantep|94|2uv|2xg|6|Saray
+Sharona|IL||6n|2ix|2qj|6|Šarona;Szarona;Saronah
+Sarıgün|TR||94|34n|3ac|6
+Sardis|US|Ohio|48|322|-68r|6
+Sarbinowo|PL|West Pomerania|a5|46p|18c|6
+Șardu|RO||8u|3m6|1sz|6
+Sırımkesen|TR||94|2wu|337|6|Sarımkesen
+Sarezzano|IT||9o|3gn|or|6
+Sărișoru Mare|RO||8u|3nb|1yd|6
+Sarakorodougou|CI||0|pe|-kw|6
+Sarighiol de Deal|RO||8u|3g6|277|6
+Dar Kūh|IR||7o|220|49v|6|Sarkūh
+Sarāb Bas-e Seyyed ‘Alī|IR||7o|2ok|3kq|5
+Sarıcaeli|TR||94|33g|21g|5|Sarıcaili;Sarıcalı
+Sarbinowo|PL|Kujawsko-Pomorskie|a5|42t|1d3|5|Sarbenau
+Sarteneja|MX||41|1ts|-7uj|5
+Sârbi|RO|Maramureş|8u|3o7|1su|5|Sîrbi
+Sar Kārīz|IR||7o|2q6|4ki|5
+Sarmstorf|DE||8r|45k|xx|5
+Sharānlū|IR||7o|2v8|3jv|5|Şaranlı
+Sarche|IT||9o|3jx|uf|5
+Sarrazac|FR||9k|3h2|4f|5
+Sârbi|RO|Bacău County|8u|3kf|23y|5|Sîrbi
+Saramäki|FI||92|4o3|1pz|5
+Sărand|RO||8u|3mk|1pg|5
+Sarlhusen|DE||8r|462|r7|5
+Sārīmsāqlū|IR||7o|2u4|3qd|5|Sāremsāqlū
+Sarinasuf|RO||8u|3h1|28q|5
+Lesnoy|RU|Kaliningrad Oblast|96|48t|1la|5|Lesnoj;Šarkuva;Lesnoi;Ļesnoje
+Saro|ES||9d|3c6|-ao|5
+Sarakap|AM||80|34n|3dh|5|Bozdogan;Bozdoghan
+Sargenroth|DE||8r|3up|kw|5
+Sarbinowo|PL|West Pomerania|a5|42a|14s|5
+Zeytinoba|TR||94|2u0|2t8|5|Şarklı
+Sârbești|RO||8u|3hc|1u2|5|Sîrbeşti
+Sargent|US||2f|37o|-7o1|5
+Sarvelāt|IR||7o|2un|3wf|5|Sar Velāyat
+Saraçlı|TR||94|2ud|2fr|5
+Sarımeşe|TR||94|34r|2s8|5|Sarıçeşme
+Şarköy|TR||94|31o|22y|5
+Sarmego|IT||9o|3ie|wf|5
+Sârbi|RO|Hunedoara County|8u|3jo|1r3|5|Sîrbi

@@ -1,0 +1,100 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rạch Giá|VN||6h|rt|83w|3jr|Li̍t-ka-sṳ;Racža;Rach Zhia
+Si Racha|TH||62|10l|7sd|1dp|Sriracha;Srirachi
+Errachidia|MA||d|2gp|-cb|s1|Ksar es-Souk;Er-Rachidía;Al-Rashidiyya;Rachidia;Rašidija;Er Rachidia;Ar-Raszidijja;ar-Rachīdīya
+Ratchaburi|TH||62|11m|7pa|po|Raçaburi;Rat Buri;Rajburi
+Racine|US|Wisconsin|2f|3ap|-6ru|ll|Rasinas
+Racibórz|PL||a5|3v5|1em|g9|Ratibor;Raciboža;Raćibůrz;Racibužas;Ratsibuj;Ratiboria;Rasibuj;Racėbužos;Ratihor
+Rakhiv|UA||98|3ph|1v8|4c|Rahău;Rahiv;Rachiw
+Ratzeburg|DE||8r|456|tx|3s|Ratzebourg;Raceburgum
+Rạch Gốc|VN||6h|nx|83p|3n
+Raceland|US|Louisiana|2f|2al|-6zo|2u
+Raceview|AU||8c|-24r|bse|2o
+Racale|IT||9o|330|1e9|2n
+Ráckeve|HU||8v|3n0|1gm|2k
+Racconigi|IT||9o|3gd|lc|2k|Racunis
+Răcăciuni|RO||8u|3kp|22y|26
+Racalmuto|IT||9o|2vw|125|1z|Recalmutu;Ragalmutu
+Răcari|RO||8u|3fz|1zh|1w
+Răchitoasa|RO||8u|3kz|241|1e
+Raciąż|PL|Mazovia|a5|42m|1jw|1b|Racjonža
+Racines|IT||9o|3m7|ve|18|Ratschings;Rasinae
+Răchiţi|RO||8u|3op|224|17
+Rácalmás|HU||8v|3mm|1gm|15|Ráczalmas
+Racines - Ratschings|IT||9o|3m8|vm|14
+Râciu|RO|Mureș County|8u|3lo|1vs|11|Rîciu
+Racova|RO||8u|3lq|22b|z
+Răcoasa|RO||8u|3js|22o|z
+Racoviţa|RO|Timiș County|8u|3iy|1o4|x|Rakovica;Rakowitza;Rakovicza
+Rackwitz|DE||8r|3yv|ye|v
+Ráckeresztúr|HU||8v|3nb|1gb|v
+Race Course|JM||3i|1dk|-5yp|u
+Rekola|FI||92|4nl|1xn|u|Räckhals
+Râches|FR||9k|3w2|8q|t
+Racoș|RO||8u|3jv|1yl|t|Alsórákos
+Racoviţa|RO|Sibiu County|8u|3iw|1vn|s
+Rače|SI||9a|3l1|17k|r
+Rokytne|UA|Chernivtsi|98|3q9|20r|p|Răchitna
+Raceland|US|Kentucky|48|2z2|-6dt|o
+Raczki|PL||a5|45z|1ra|n|Račkos
+Racquinghem|FR||9k|3wt|6k|l|Racquinghin
+Răcăşdia|RO||8u|3gz|1o2|l
+Racoviţa|RO|Vâlcea County|8u|3i6|1vk|i
+Rączna|PL||a5|3ux|1ix|h
+Răchiteni|RO||8u|3mp|22s|h
+Rackheath|GB||9b|42a|3u|g
+Gârlenii de Sus|RO||8u|3ll|22f|g|Rácsila;Racila
+Raciążek|PL||a5|42u|1g9|g
+Racławice Śląskie|PL||a5|3vr|1de|g
+Racovița|RO|Arges|8u|3gx|1xe|g
+Raciu|RO|Dâmbovița County|8u|3gi|1yo|g
+Racławice|PL|Lesser Poland|a5|3vf|1io|f
+Răchitova|RO||8u|3io|1r7|f|Rechitova
+Racoviţeni|RO||8u|3i1|22q|f
+Racoviţa|RO|Brăila County|8u|3hu|249|e
+Račice-Pístovice|CZ||9m|3sw|1aw|e
+Racovița|RO|Dâmbovița County|8u|3gk|1z6|d
+Racławice|PL|Subcarpathia|a5|3wb|1pl|c
+Răchita|RO|Timiș County|8u|3jc|1pf|c
+Räckelwitz|DE||8r|3ye|13i|c|Worklecy
+Răcăuți|RO||8u|3ke|22f|c|Răcăuţul
+Rachieri|RO||8u|3gv|20l|c
+Răcarii de Sus|RO||8u|3fq|1tg|c
+Racu|RO||8u|3l1|1zk|c
+Racour|BE||8t|3wy|dz|c
+Rashkiv|UA||98|3qr|20z|c|Rachkiv;Rașcov;Rashkov
+Rachelu|RO||8u|3ht|26o|a|Rachel
+Rakke|EE||9x|4ju|20x|a|Racke;Rake
+Rachanie|PL||a5|3we|1tf|a
+Răcarii de Jos|RO||8u|3fo|1ti|a
+Sremska Rača|RS||8q|3gs|1hl|9|Srijemska Rača;Racsa;Raca
+Răchițele|RO||8u|3lr|1rm|9
+Racoșul de Sus|RO||8u|3k0|1yx|9|Felsőrákos
+Raciechowice|PL||a5|3ug|1jy|9
+Râca|RO||8u|3ff|1xk|9|Rîca
+Racławice|PL|Lesser Poland|a5|3u7|1mv|9
+Raciąż|PL|Kujawsko-Pomorskie|a5|452|1df|8
+Rachecourt-sur-Marne|FR||9k|3qs|e6|7
+Răchita|RO|Alba County|8u|3jg|1tc|7
+Racovița|RO|Vâlcea County|8u|3h8|1vs|7
+Răchitașu|RO||8u|3j1|22h|7|Răchitiş;Richitişu
+Recea|RO|Neamț County|8u|3m5|22v|7|Răcea
+Rachóna|GR||8p|35d|1qm|7|Rakhóna
+Racková|CZ||9m|3sw|1cy|7
+Rackith|DE||8r|3zw|z9|7
+Racrange|FR||9k|3rx|ij|7
+Rachecourt|BE||8t|3tr|fx|7
+Racine|US|Ohio|48|309|-6bj|7
+Rákhai|GR||8p|301|1ra|6|Raches;Rákhes
+Raccuja|IT||9o|2xq|15f|6
+Racovița|RO|Gorj County|8u|3hh|1u8|6
+Racovița|RO|Olt|8u|3f4|1v0|6
+Ráchi|GR|Epirus|8p|30n|1m2|6|Rákhi
+Răchițele de Jos|RO||8u|3gp|1wi|6
+Răcăștia|RO||8u|3j5|1rj|6
+Răchita de Jos|RO||8u|3f7|1t0|5
+Răchițele de Sus|RO||8u|3gr|1wh|5
+Račinovci|HR||a6|3gm|1go|5
+Racine|US|Minnesota|2f|3dm|-74w|5
+Racławice|PL|Lesser Poland|a5|3vt|1k8|5
+Ráchi|GR|Central Macedonia|8p|34g|1pp|5|Rákhi

@@ -1,0 +1,809 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Hong Kong|HK||6i|1pw|8t5|1l2h|Hongkong;Victoria;Gon Kong;Hiŏng-gē̤ng;Honkongo;Heung Gong
+Xiamen|CN||7i|1w0|940|zml|Amoy;Sia-men;Hạ Môn;Ha-mùn-sṳ;Siamenas;Â-muòng;Hsziamen;Hiyamin;Sjamen;Ē-mn̂g-chhī;Hsia-men;Shamen;Siamen
+Huizhou|CN||7i|1s7|8tu|mdl|Huệ Châu;Xuyjo shehiri;Chuej-čou;Fi-chû-sṳ;Huitsjou;Hūi-chiu-chhī;Hiê-ciŭ;Hujdžov;Hui-chou
+Houston|US|Texas|2f|2ao|-7cw|huu|Hustono;Hustonia;Hyuston;Hiustonas;Hjūstona;Hiû-sṳ̂-tûn;Hjuston
+Hyderabad|PK||6q|1yk|59y|etp|Hajdarabad;Hajderabado;Haidarabadas;Haydarabad;Hiderábád;Haydarobod;Hajderabad;Haidarabad
+Hiroshima|JP||7q|2nk|a7x|99k|Hirošima;Hiroŝimo;Hiroxima;Hiroszima
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Xiaogan|CN||7i|2dx|8sg|70b|Háu-gāng;Siao-kan;Hiếu Cảm;Hàu-kám-chhī;Siaokan;Hsiao-kan
+Xingtai|CN||7i|2uy|8u1|65w|Sing-tchaj;Sintaj;Hình Đài;Hìng-dài;Hêng-tâi-chhī;Hsing-t’ai;Singtai
+Homs|SY||69|2og|2u1|5ze|Hims;Emesa;Humus;Himsa;Hums
+Sevilla|ES||9d|2vu|-gl|5ar|Seville;Sebilla;Sevilo;Siviglia;Hispalis;Seviya;Sevilija;Sevilja;Sewilla;Sevilha;Sevilia;Séwéliye;Sivilja;Sevila;Sibilia;Sevilya;Sevilėjė
+Xinzhou|CN|Shanxi|7i|2yp|8p5|47b|Sin-čou;Hãn Châu;Hṳ̆ng-ciŭ;Hian-chiu-chhī
+Himeji|JP||7q|2oq|ae6|43d|Himeci;Himeĝi;Himezi-chhī;Himezi;Himedi
+Higashiosaka|JP||7q|2ob|agm|3t7|Higaŝiosaka;Osaca Orientalis;Higashi-ōsaka
+Al Hillah|IQ||5z|2i6|3fe|3il|Hilla;Al Hilla;Hillah;Hila;El-Hille;Hille;al-Ḥillah
+Hirakata|JP||7q|2op|agt|34v
+Wellington|NZ||ak|-36p|dhi|2y3|Welintòn;Whanga-nui-a-Tara;Vellinqton;Weolingtūn;Velingtono;Velingtonas;Velingtona;Vellingtonia;Ueligitone;Te Whanga-nui-a-Tara;Wellinton;Hiê-lìng-dóng;Vellington
+Miguel Hidalgo|MX|Mexico City|41|1hz|-7nk|2vl
+Annaba|DZ||3|2ui|ll|2n7|Bône;Anaba;Hippo;Hippo Regius;Aânavaen;Bona
+Xingyi|CN|Guizhou|7i|1xq|83f|2hp|Hing-yi
+Hisar|IN||6t|28z|5uc|2da|Hissar
+Gijón|ES||9d|3cy|-fq|23i|Xixón;Ĥiĥono;Kixoi;Gigia;Chichonas
+Hiratsuka|JP||7q|2q5|ar2|1zs|Hiracuka;Hiratuka-chhī;Hiratuka
+Gorgān|IR||7o|2uc|478|1w1|Hirkanio;Gūrgān
+Khimki|RU||9i|4ba|2vz|1uo|Chimki;Himki;Jimki;Ximki;Chimkai
+Hialeah|US||48|1zu|-670|1tv|Hajalija
+Ḩalwān|EG||c|2aw|2ey|1rw|Helwan;Hilwan;Ḩulwān
+Richmond Hill|CA||59|3dv|-64o|1k4
+Higashihiroshima|JP||7q|2nl|a8q|1im
+Khirdalan|AZ||61|34d|3u8|1ii|Xirdalan;Hırdalan;Khurdalan;Khyrdalan
+Zabrze|PL||a5|3vs|1g7|1he|Hindenburg;Zabže;Zobrze;Zabžas;Zabje;Zaborze
+Hino|JP|Tokyo|7q|2r3|ar8|1gw|Hinas
+Zamora de Hidalgo|MX||41|1ji|-7w5|1fp|Zamora
+Poza Rica de Hidalgo|MX||41|1l1|-7iq|1fg|Poza Rica;Posa Rika
+Hitachi|JP||7q|2to|aup|1ch|Hitati-chhī;Hidachi
+Hirosaki|JP||7q|34r|au7|1av|Hiroszaki
+Hitachi-Naka|JP||7q|2t4|aud|17i|hitachinaka
+Higashimurayama|JP||7q|2rb|arf|166|Higashi-Murayama
+Hindupur|IN||6t|12f|5z9|165
+Spanish Town|JM||3i|1dz|-5xs|14a|Spaniš Taunas;Hispanurbo
+Al Hindīyah|IQ||5z|2ie|3eu|12s
+Hinthada|MM||7y|1d1|7d6|11h|Henzada;Hintada;Hithada
+High Wycombe|GB||9b|3zf|-23|110|Magna Wycombe
+Hua Hin|TH||62|yx|7po|z4|Huahin
+Salvaleón de Higüey|DO||4v|1fq|-5av|ye|Higüey;Salvaleon de Higueey
+Himamaylan|PH||71|s2|9hb|wl
+Higashikurume|JP||7q|2rb|arj|wi
+Xiva|UZ||7g|36z|4no|vy|Chiwa;Khiva;Ĥiva;Hiiva;Chiva;Jiva;Khiwa
+Hikone|JP||7q|2px|aih|vk
+Beau Bassin-Rose Hill|MU||ag|-1k7|4fn|uy|Villes sœurs;Bo Bassin-Roze Kholmi
+High Point|US|North Carolina|48|2rw|-669|un
+Hirnytskyi|UA||98|3pe|2xh|ts
+Hindaun|IN||6t|229|5y0|tb
+Hidalgo del Parral|MX||2g|22t|-85j|t4|Parral
+Sangla Hill|PK||6q|2g4|5nu|st
+Hildesheim|DE||8r|40v|rn|sn|Hilmessen;Hildesia
+Hillsboro|US|Oregon|3p|3ig|-9hn|sf
+Hinganghāt|IN||6t|1l3|630|sa
+Xingcheng|CN||7i|34u|9bc|ri|Hsing-ch’eng;Hingcheng
+Highlands Ranch|US||2p|31v|-83l|qv|Hailands Rančas
+High Peak|GB||9b|449|-55|pr|Dark Peak
+Higashi-Matsuyama|JP||7q|2s3|ara|pi|Higashimatsuyama
+Hingoli|IN||6t|1ir|5ya|nn
+Higashiyamato|JP||7q|2rc|ard|nb|Higašijamatas;Higasyiyamato;Higasiyamato-chhī;Higashi-yamato
+Hilversum|NL||8m|412|ee|n8|Hilfertsom
+Himatnagar|IN||6t|1tk|5mp|mj
+Jelenia Góra|PL||a5|3xe|17p|li|Hirschberg im Riesengebirge;Hirschberg in Schlesien;Hirschberg;Jeleņa Gura
+Hihyā|EG||c|2d7|2fr|ks
+Herten|DE||8r|3zc|ju|i5|Hiätten;Hėritono
+Herford|DE||8r|40r|o3|i1|Hiarwede
+Hita|JP||7q|2kk|a3q|i1|Hida
+Hilden|DE||8r|3y5|j9|fq|Hilde
+Hiriyūr|IN||6t|12q|5wu|fo
+Hidaka|JP|Saitama|7q|2rs|ar4|fd
+Highland|US|California|3p|2mt|-91l|f9
+Hürth|DE||8r|3xb|j3|f7|Hiurtas
+Himimachi|JP||7q|2ue|akj|f5
+Hietzing|AT||a2|3pv|19a|f3
+Hilsa|IN||6t|1yc|6kw|e7
+Hikari|JP||7q|2mc|a6j|e6
+Hinckley|GB||9b|41y|-3u|e3
+Hitachi-ota|JP||7q|2tj|aud|di
+Higashine|JP||7q|2ys|au0|d9|Higasine-chhī
+Hørsholm|DK||8y|4b8|yq|d9|Hiorsholmas
+Himora|ER||4|13q|2tp|ct
+Hinatuan|PH||71|n9|9qx|cd
+Himi|JP||7q|2ud|aki|c8
+Hilo|US||ax|1it|-byt|c1|Hilas;Hido
+Hisai-motomachi|JP||7q|2ob|aj3|bk
+Hicksville|US|New York|48|359|-5o9|bj
+Hiré|CI||0|h7|-ep|bi
+Higuerote|VE||2c|t4|-53m|bi
+Hilton Head Island|US||48|2hf|-68a|b9|Île de Hilton-Head;Hilton's Head Island
+Hickory|US|North Carolina|48|2r9|-69y|b8
+Hirai|JP||7q|2r7|asg|b8
+Hinigaran|PH||71|sj|9h9|b0
+Hitachiomiya|JP||7q|2tk|au0|ax
+Higashimatsushima|JP||7q|2yp|aw6|av
+Hillsborough|US|New Jersey|48|34j|-5rf|an
+Hitoyoshi|JP||7q|2hi|a37|ak|Hitoyosi-chhī;Hitoyosi
+Hilton Head|US||48|2hi|-68b|ab|Hiltonhead
+Hınıs|TR||94|31c|37t|9v|Xinûs
+Hillerød|DK||8y|4bd|y6|9u
+Hitchin|GB||9b|40b|-s|9s
+Hirara|JP||7q|1ww|9o2|9k
+Hikiso|JP||7q|2ny|ah2|9e
+Hilliard|US|Ohio|48|337|-6f0|9c
+Higashinozoe|JP||7q|2og|aeo|9c
+Hinesville|US||48|2gh|-6ao|9a
+Hisua|IN||6t|1wz|6la|92
+Hizume|JP||7q|31v|aw5|8x
+Hīt|IQ||5z|2lg|3az|8v
+Hispanoamérica|ES||9d|34e|-a8|8r
+Hirado|JP||7q|2kp|9zv|8o|Hirato
+Hirakawa|JP||7q|34r|auh|8l|Hirakaŭa
+Hīrākud|IN||6t|1nt|6gz|8e
+Highland Park|US|Illinois|2f|396|-6rw|89|Haylend-Park
+Kirovsk|RU|Murmansk|9i|57t|2lj|88|Hiipinä;Kirowsk
+Hendījān|IR||7o|2c0|3u3|82|Hindīān;Hindijan;Hendeyān;Hendīān;Hendījār
+Hiji|JP||7q|2kp|a5d|7x|Hizi;Higi
+Higashikagawa|JP||7q|2n1|ad6|7v
+Hiratachō|JP||7q|2qf|a8y|7u
+Heiligenhaus|DE||8r|3yl|jd|7p|Hayligenhaus;Hillijehoes
+Hıdırbey|TR||94|2sl|2sd|7j|Çekmece
+Hiragi|JP||7q|2n7|acl|7h
+Highbury|GB||9b|3z7|-a|7f
+Hikarigaoka|JP||7q|2rc|arv|79
+Heemstede|NL||8m|41f|cu|74|Hiemstee;Hemstedė
+Hénin-Beaumont|FR||9k|3w1|88|72|Hinnin-Biaumont
+Hindley|GB||9b|44p|-76|6y
+Hillside|US|New York|48|353|-5oz|6w
+Hinjilicut|IN||6t|1i4|6je|6v|Hinjilikatu
+Hitokawame|JP||7q|34w|aww|6r
+Hīrna|ET||2|pm|366|6q
+Hisor|TJ||6d|2z1|5af|6o
+Chios|GR||8p|2yl|20m|6o|Scio;Sakız;Chóra;Quíos;el Xiu;Khíos;Kástro;Hios;Chio;Xíos;Khóra;Kastron;Castro
+Hialeah Gardens|US||48|1zv|-674|6n
+High Park-Swansea|CA||59|3d9|-64r|6n
+Hinakallu|IN||6t|y9|5ws|6g
+Highland|US|Indiana|2f|37f|-6qx|6d
+Furukawa|JP|Gifu|7q|2sn|al2|69|Hida-shi
+Hida|JP||7q|2so|al1|69
+Hingorja|PK||6q|23l|5a2|67
+High Park North|CA||59|3da|-64r|66
+Hillside|US|New Jersey|48|352|-5q7|66
+Hidrolândia|BR|Goiás|4w|-1b4|-3sr|65|Hydrolandia
+Higashigō|JP||7q|2k7|a1i|65
+Hino|JP|Shiga|7q|2p8|aih|5v
+Hiddenhausen|DE||8r|40x|ny|5s
+Haramachi|JP||7q|2lt|a8v|5p|Hiraimachi
+Hidrolândia|BR|Ceará|2w|-c9|-348|5l
+Hirokawa|JP||7q|2kc|a2n|5k
+Orunia Górna-Gdańsk Południe|PL||a5|46w|1fq|5i|Higher Orunia and Gdańsk South
+Hirekerūr|IN||6t|146|5tg|5c
+Hinche|HT||4j|1h6|-5k1|56|Ench;Hincha
+Hillegom|NL||8m|419|cq|54
+Highton|AU||8j|-2y1|b4v|54
+Szarvas|HU||8v|3m7|1l3|52|Sarvaš;Sarwasch;Hirschfeld
+Highland|US|Utah|2p|34b|-8mj|50
+Hinsdale|US|Illinois|2f|384|-6sa|4w
+Hillside|AU||8j|-2wp|b62|4t
+Hilvan|TR||94|2wf|308|4q
+Hillcrest Village|CA||59|3do|-64f|4p
+Hînceşti|MD||8x|3m3|27f|4p|Hâncești;Hincheshti;Khencheshti
+High Blantyre|GB||9b|4ay|-be|4n
+Hille|DE||8r|41d|ob|4m
+Hitoto|JP||7q|2ur|aka|4l
+Hidalgo|MX|Nuevo León|44|205|-7r1|4l
+Hillcrest Heights|US||48|2zv|-5xs|4l
+Hilchenbach|DE||8r|3xo|mj|4l
+Hibbing|US||2f|3nr|-766|4i|Hibbins
+Highland Village|US||2f|2jx|-7hl|4h|Làng Highland;Highland Vlg
+Hudiksvall|SE||9w|4rh|1bj|4h|Hudicsovaldum;Hiudiksvalis
+Hindoria|IN||6t|1ue|651|4g
+Highland Springs|US||48|2wb|-5yt|4d
+Higashigotanda|JP||7q|2qz|as5|4c
+Hizan|TR||94|2y6|39u|49|Karasu
+Highview|US||3k|2xy|-6lu|48
+Hiệp Đức|VN||6h|17a|8cb|45|Tân An
+Höganäs|SE||9w|4c4|yw|44|Hioganesas
+Hima|UG||q|z|2bs|43
+Highland Park|US|New Jersey|48|34i|-5qq|3z
+Hing Wah Estate (I & II)|HK||6i|1pu|8tc|3z
+Higashimorichō|JP||7q|38z|auk|3z
+High River|CA||2s|3wi|-8sb|3z
+Hirobaba|JP||7q|2t6|aq1|3y
+Hickory Hills|US|Illinois|2f|37x|-6rz|3x
+Hīdaj|IR||7o|2sq|3sh|3u
+Hindalgi|IN||6t|183|5qv|3t
+Hidalgo|US||2f|20i|-7ky|3t
+Hønefoss|NO||9j|4n5|si|3t|Hionefosas
+Hikawadai|JP||7q|2rc|arz|3q
+Higashiagatsuma|JP||7q|2tl|apn|3p
+Hillsborough|NZ|Auckland|ak|-2uk|dhf|3p
+Hilpoltstein|DE||8r|3sn|v3|3n
+Highland West|CA||59|3cn|-67q|3n
+Highland Creek|CA||59|3dn|-63y|3h
+Hillingdon|GB||9b|3z5|-19|3g
+Hipólito Yrigoyen|AR|Salta|1s|-1sl|-4yk|3d
+Highett|AU||8j|-2xf|b6x|3c
+High Wycombe|AU||8k|-2gq|8y8|3c
+Hirao|JP|Yamaguchi|7q|2ma|a6v|3b|Hirau
+Hildburghausen|DE||8r|3w3|tt|38
+Hidden Valley|CA||2s|3y3|-8sz|37
+Hirschaid|DE||8r|3ue|uj|37
+Hillcrest|NZ||ak|-2u7|dhd|37
+Hinjawadi|IN||6t|1fn|5ot|37
+Hillsborough|US|California|3p|2wd|-9fy|37
+Shichijō|JP||7q|2ms|add|36|Hichijō
+Highams Park|GB||9b|3zd|-1|36
+Hirao|JP|Nagano|7q|2u3|aoi|36
+Hârlău|RO||8u|3nr|22q|35|Hîrlău
+Hinchinbrook|AU||8l|-2m8|bn2|34
+Hillarys|AU||8k|-2gd|8xi|34
+Hinwil|CH||a7|3nd|ok|33|Hinvilis
+Hirson|FR||9k|3uo|bc|33|Urchon
+Gistel|BE||8t|3y4|88|33|Histel
+Highgate|GB||9b|3z9|-g|32
+Highland Park|US|Michigan|2q|39t|-6eu|31
+Highland City|US||48|25p|-6bg|30
+Hiranai|JP||7q|35o|avk|30
+Khilok|RU||67|3yo|8iu|2y|Chilok;Jilok;Ĥilok;Chilokas
+Hillsdale|US|New Jersey|48|35w|-5po|2y
+Hachīrūd|IR||7o|2tw|3ym|2w|Hecherūd;Hachrūd;Hechrūd;Hīch Rūd
+Hirnyk|UA|Donetsk|98|3pi|2vt|2w|Gornyak
+Hillcrest|US|District of Columbia|48|2zy|-5xs|2u
+Hilter|DE||8r|40u|mn|2u
+Higashikagura|JP||7q|3de|azp|2t
+Hârşova|RO|Constanța County|8u|3g5|25n|2t|Hâroşora;Hîrşova
+Hijuelas|CL||4u|-2j4|-5hn|2s|Ichuelasas
+Pamukkale|TR||94|2xc|28w|2s|Hierápolis;Hieràpolis de Frígia;Hieropolis;Pamukalė;Mièn-fâ-páu
+Hithadhoo|MV|Seenu|af|-1o|5n0|2r
+Historic Downtown|CA||5b|3s9|-9fp|2r
+Hinton|CA||2s|44c|-92n|2r
+Highland|US|Illinois|2f|2zm|-6x3|2q
+Hindarkh|AZ||61|33b|3n5|2q|Hindarx;Gindarch;Gindarkh
+Higuera de Zaragoza|MX||3x|205|-8fm|2o|Higueras de Zaragoza
+Hillcrest Park|SG||7j|3p|80d|2n
+Hirānagar|IN||6t|2i5|5t3|2m
+Hirschberg an der Bergstraße|DE||8r|3tj|o2|2l
+Hirske|UA||98|3re|2yy|2l|Gorskoye;Hirs’ke
+Highland Park|US|Texas|2f|2j7|-7gv|2k
+Hibarigaoka|JP||7q|2rb|arm|2i
+Hīv|IR||7o|2s3|3wp|2f
+Hinnerup|DK|Central Jutland|8y|4dl|p6|2e
+Hikiji|JP||7q|2kb|a4e|2d
+Highland Heights|US|Ohio|48|37f|-6ac|2c
+Hillsboro|US|Texas|2f|2gx|-7ht|2b
+Higashikawa|JP||7q|3de|azv|2b
+Hilzingen|DE||8r|3op|oe|2b
+Hinnerup|DK|Central Jutland|8y|4cb|ry|2a
+Hillsdale|US|Michigan|2q|38g|-6j3|2a
+Hillside|US|Illinois|2f|38c|-6s6|2a
+Pesochnyy|RU||9i|4n0|2bs|29|Pesotsjnyj;Hiekka;Ruavski;Pesochnoye;Pesochnaya
+Hirdepur|IN||6t|1u7|64m|29
+Hillview|US||48|2xr|-6m1|29
+Highfields|AU|Queensland|8c|-24a|bq3|27
+Hisarya|BG||9v|3a2|1wm|27
+Highworth|GB||9b|3zf|-4r|27
+Hillside-Quadra|CA||5b|3qk|-9io|27
+Hilvarenbeek|NL||8m|3z1|ea|27
+Hintonburg|CA||59|3i4|-5ud|26
+Hinna|NG||u|sm|vy|26
+Hitchcock|US||2f|29j|-7by|24
+Heer|NL||8m|3x8|fx|24|Hier;Meer
+Histon|GB||9b|415|b|24
+Hillcrest|US|New York|48|369|-5po|24
+Hinojosa del Duque|ES||9d|2yy|-eb|24
+Highlands|US|Texas|2f|2au|-7c2|23
+Ortaköy|TR|Mardin|94|2ve|35a|23|Gyul’kharin;Hirrin;Girherîn;Gülharin;Harrın
+Hilongos|PH||71|st|9mj|21
+Hillsborough|US|Nebraska|2f|36q|-7f1|21
+Hinte|DE||8r|44d|k0|21
+Hirwaun|GB||9b|3zq|-9r|20|Hirwain
+Higashiando|JP||7q|2o5|ah4|20|Higashi-ando
+Hiawatha|US|Iowa|2f|38s|-72o|20
+Highland Heights|US|Kentucky|48|30f|-6il|20
+Hiroo|JP||7q|39g|b22|20|Biroo
+High Barnet|GB||9b|3zi|-l|1z
+Hickam Field|US||ax|1na|-c6s|1x
+Higashiemi|JP||7q|2pe|at2|1w|Higashi-emi
+Higashinaka|JP||7q|2mi|afi|1w
+Hillsdale|CA||4q|3w2|-82l|1v
+Heers|BE||8t|3wz|eq|1v|Hiër
+Hiramandalam|IN||6t|1fv|6h7|1u
+Hillsboro|US|Ohio|48|30w|-6g9|1u|Hillsbury
+Nizao|DO||4v|1ep|-5f1|1t|Hizao
+Highland Park|AU||8c|-25t|btx|1s
+Highbury|AU||8b|-2ot|apa|1s
+Chlórakas|CY||73|2oo|2i1|1s|Chloraka;Hiloraka;Klorakas;Hloraka;Khlorakas
+Hillsborough|US|North Carolina|48|2s8|-63q|1s
+Hirāpur|IN||6t|1oo|66w|1r
+Hirschau|DE||8r|3tm|x7|1r
+Higham Ferrers|GB||9b|41b|-1n|1q
+Hiwasaura|JP||7q|2lp|adq|1q
+Hjo|SE||9w|4hy|13p|1q|Hiovia
+Hillvue|AU||8l|-2eh|bn7|1q
+Hindhead|GB||9b|3xz|-21|1q
+Highgate Hill|AU||8c|-24d|bt2|1p
+Hing Tung Estate|HK||6i|1pw|8ta|1p
+Hīrāpur Hamesha|IN||6t|1nw|65n|1p
+Hillandale|US||48|30f|-5xt|1o
+Hing Man Estate|HK||6i|1pv|8tb|1o
+Hilton|US||48|3c9|-603|1n
+Ḩizmā|PS||6g|2gf|2py|1n
+Saint-Pierre-d'Irube|FR||9k|3cr|-41|1n|Hiriburu
+High Springs|US||48|2av|-6dg|1m
+Hillsboro|US|Illinois|2f|30s|-6wm|1l
+Hingham|US|Massachusetts|48|39c|-5gx|1l
+Highland|US|New York|48|37w|-5pg|1k
+Higashi-nihombashi|JP||7q|2r5|asb|1k
+Hillcrest|AU|Queensland|8c|-24v|bt3|1k
+Hidden Valley Lake|US||3p|2zt|-9gg|1k
+Hightstown|US||48|33v|-5r0|1j
+High Rock|KY||2e|1hl|-69d|1j
+High Rock Estates|KY||2e|1hm|-69f|1j
+Highway 11|CA||5b|3s8|-9fo|1j
+Hillhurst|CA||2s|3xt|-8sx|1j
+Hillsdale|AU||8l|-2mb|bo3|1i
+Higashidate|JP||7q|2uf|au3|1i|Higashitate
+Hidden Valley|US||48|30s|-6jo|1i
+Highwood|US||2f|398|-6rx|1i
+Hiekkaharju|FI||92|4ni|1xk|1h|Sandkulla;Hiekkis
+Himberg|AT||a2|3pk|19n|1h
+Hildegarde|CA||43|3k4|-505|1h
+Hirtshals|DK||8y|4fz|ro|1h
+Hibaiyo|PH||71|sj|9ik|1g
+Hilmar-Irwin|US||3p|2vw|-9bp|1g
+HIgashifushimi|JP||7q|2r9|aro|1g
+Hitzacker|DE||8r|43n|uo|1g|Ljauci
+Hirmi|IN||6t|1nu|6bm|1f
+Hippolytushoef|NL||8m|42z|ds|1f|Hipolytušuvas
+Hingene|BE||8t|3xy|bv|1e
+Hilgen - Dünweg|DE||8r|3xy|jv|1e
+Highland|US|Massachusetts|48|39h|-5ho|1e
+Hiseti|BA||9r|3gc|1bq|1e
+Hilders|DE||8r|3wh|rs|1e|Hiltrica
+Highland Lake|US||48|36e|-5qu|1d
+Hârtieşti|RO||8u|3hc|1xq|1d|Hîrtieşti
+Highways|IN||6t|qt|5yw|1d
+Highlands|US|New Jersey|48|348|-5pj|1d
+Himmelpforten|DE||8r|44x|pv|1c|Himmelpoorten
+Hidaka|JP|Kochi|7q|2l5|aah|1c
+Hidalgo|MX|Tamaulipas|3w|20d|-7ks|1c
+Hikawa|JP||7q|2rg|aqe|1c
+Hıdırlı|TR||94|2ul|2q4|1b|Hadırlı
+Hietalahti|FI||92|4v8|1o2|1b|Sandviken
+Higginsville|US||2f|30j|-78c|1b
+Highbridge|GB||9b|3ya|-8a|1a
+Himarë|AL||9y|33e|1iu|1a|Himara;Chimara;Kheimara;Imara
+Higuerón|MX||41|1fm|-7ni|1a|Higueras
+Hillbank|AU||8b|-2oi|ap9|1a
+Hidalgo|MX|Tamaulipas|44|1vd|-7o8|1a
+Hittarp|SE|Skåne|9w|4bu|z3|19|Hiltarp
+Highland|US|Indiana|2f|2xp|-6r8|19
+Hinesburg|US||48|3f5|-5n3|18
+Hiromi|JP||7q|2j7|a8o|18
+High Ridge|US||2f|2yu|-6zi|17|Highridge
+Héric|FR||9k|3np|-4l|17|Hierig
+La Higuera|CL||4u|-29z|-5hs|17|Higuera;La Higuara
+Hilario Ascasubi|AR||1l|-31e|-4u1|16|Ilario Ascasubi
+Hidalgo|MX|Coahuila|44|1yt|-7yi|15
+Hickory Creek|US|Texas|2f|2k0|-7hk|15
+Barry Farms|US||48|2zy|-5xw|15|Hillsdale;Barrys Farm;Barry Farm
+Hindang|PH||71|sz|9mh|15
+Highland Park|CA||2s|3xw|-8sv|15
+Khyriv|UA||98|3tl|1rh|15|Chyrów;Chyriw;Hıriv;Hiriva;Khyruv;Khyrov
+Hilversumse Meent|NL||8m|417|ea|15
+Highland Park|NZ||ak|-2ui|dhu|15
+Highlands-Baywood Park|US||3p|2w8|-9fv|14
+Hirschfelde|DE||8r|3xi|15d|14
+Highgrove|US||3p|2mi|-91x|14|High Grove
+Hidalgotitlán|MX||41|1dd|-7ax|14
+Highland Mills|US||48|36v|-5px|14
+Hillion|FR||9k|3qr|-7f|13|Hilion
+Highland Lakes|US||2f|2ks|-6op|13
+Hinojos|ES||9d|2vl|-hq|13
+Hillsborough|GB||9b|47a|-gw|13|Cromghlinn
+Himaao|PH||71|11m|9ii|13|Imaao;Himado
+Hilton|AU|Western Australia|8k|-2h2|8xm|13
+Highland Falls|US||48|36x|-5ph|12
+Hilterfingen|CH||a7|3lu|la|12
+Hittarp|SE|Skåne|9w|4cc|138|12
+Hipadpad|PH||71|y5|9nw|12|Jipapad
+Hiram|US|Georgia|48|2m4|-6jg|12
+Hinda|CG||a|-ct|xg|12|Inda
+High Rock|BS||47|21z|-61g|11|Yuqori Tosh;Batu Tinggi;Roca Alta;Rocher Haut;Batu Dhuwur;Rocha Alta
+Highland Beach|US||48|21c|-66f|11
+Hirschhorn|DE|Hesse|8r|3td|oq|11
+High Point|US|Florida|48|27b|-6d8|11
+Hilişeu-Horia|RO||8u|3pf|20x|11
+Hinchley Wood|GB||9b|3yp|-y|11
+Hinokage|JP||7q|2ip|a50|11
+Hinvi|BJ||1b|it|61|10|Henvi
+High Bridge|US||48|34z|-5s2|10|Highbridge
+Hidrolina|BR||4w|-14w|-3te|z
+Hinton|GB|England|9b|3z1|-6m|z
+Himmelkron|DE||8r|3v3|w8|z
+Hiezu|JP||7q|2qg|aai|z
+Hinton|GB|England|9b|40x|-3e|z
+Hidden Meadows|US||3p|2kb|-91b|z
+Hildrizhausen|DE||8r|3r2|ox|z
+Hinterbrühl|AT||a2|3pl|195|z
+Hill Air Force Base|US||2p|367|-8n2|z
+Highland Acres|US||48|30o|-5ts|z
+Hicksville|US|Ohio|48|36p|-6jg|z|Hickville
+Hillview|CA||2s|44j|-8r3|y
+Higashikanagawa|JP||7q|2qk|arw|y|Higashi-kanagawa
+Hilantagaan|PH||71|v3|9jx|y|Gilantagaan
+Hillcrest|AU|South Australia|8b|-2ou|ap4|x
+Himaya|PH||71|t1|9h7|x
+Hidişelu de Sus|RO||8u|3mf|1p9|x|Hidişelul-de Sus
+Hilgertshausen-Tandern|DE||8r|3qj|vj|x
+Hillegem|BE||8t|3xe|ap|x
+Hinton|US|Oklahoma|2f|2qj|-7l8|w
+Hierden|NL||8m|41g|fs|w
+Hillesheim|DE|Rheinland-Pfalz|8r|3vp|ij|w
+Highland|US|Washington|3p|3k5|-96v|w
+High Level|CA||2s|4ik|-91e|w
+Hilliard|US|Florida|48|2d9|-6bk|w
+Himanka|FI||92|4xy|1tp|v|Himango
+Highley|GB||9b|41p|-6m|v
+Gitagum|PH||71|nw|9ll|v|Hitagum;Gitagun
+Hickory Hills|US|Mississippi|2f|2cm|-6u8|v
+Hiukkavaara|FI||92|50m|1z2|v
+Hiawatha|US|Kansas|2f|32p|-7de|v
+Hideaway|US||2f|2i9|-7d6|v
+Hida|RO||8u|3mr|1so|v
+Hillsboro|US|Missouri|2f|2y7|-6zk|v
+Hillshaven|ZA||o|-218|24u|v
+Hickory Creek|US|Texas|2f|2f6|-7cs|v
+Hirka Polonka|UA||98|3ws|1y7|u|Gor’kaya Polonka;Górka Połonka;Girka Polonka
+Hőgyész|HU||8v|3l6|1f6|u|Hedjeß;Hidjeß;Hidjes
+Hirzenhain|DE||8r|3w0|pd|u
+Hiju, Maco|PH||71|kj|9pj|u|Hiju;Hijo
+Hickory Withe|US||2f|2pw|-6wv|u
+Higgins|AU||8l|-2pv|bhz|u
+Hirrlingen|DE||8r|3qh|op|u
+Hlabisa|ZA||o|-267|2gk|u|Hiabisa
+Hildale|US||2p|2us|-8pt|t|Hilldale
+Hilotongan|PH||71|uy|9jg|t|Gilutongan;Hilutangan
+Highlandtown|US||48|315|-5wp|t
+Hīchān|IR||7o|217|4mv|t|Ichān;Hīshān
+Hindås|SE||9w|4ga|yl|t
+Highlands|CA|British Columbia|5b|3t2|-9hy|t
+High Prairie|CA||2s|49z|-8zl|t
+Hillsmere Shores|US||48|306|-5wh|t
+Hillsboro|US|Kansas|2f|2yj|-7i0|t
+Hârseşti|RO||8u|3fp|1wu|s|Hîrseşti
+Hirnyk|UA|Lviv|98|3vt|1v8|s
+Hinova|RO||8u|3fq|1ra|s
+Hinlayagan Ilaud|PH||71|rv|9ld|s
+Hindustan Paper Corporation Ltd. Township|IN||6t|1x2|758|r
+Higashichichibu|JP||7q|2s6|aqn|r
+Los Mangos|MX|Veracruz|41|1eo|-7c8|r|Hilario C. Salas
+Hinapalanan|PH||71|o0|9mv|r|Hinaplanan
+Hinundayan|PH||71|sr|9nx|r
+Hillscheid|DE||8r|3w1|le|r
+Highfield Park|CA||35|3g5|-4wn|r
+Hillsville|US||48|2u4|-689|r
+Hienghène|NC||b8|-1lg|cq5|r|Hiengherie
+Hillerse|DE||8r|3zl|rn|r
+Hidalgo|MX|Coahuila|44|1zq|-7yw|r
+Hill Top|AU||8l|-2nf|bm2|q
+Hinterzarten|DE||8r|3p2|mj|q
+Hilal|TR||94|2w3|3av|q|Helal
+Highlands|CA|Alberta|2s|44t|-8r3|q
+Hirtenberg|AT||a2|3p5|18y|q
+Hinterschmiding|DE||8r|3rm|11s|q
+Hillsborough|NZ|Canterbury|ak|-3d0|dbn|q
+Hinton|US|West Virginia|48|2wn|-68p|p
+Hidalgo Joshil|MX||41|1bv|-74j|p|Hidalgo Yoshil
+Higuera la Real|ES||9d|2xy|-il|p
+Gibgos|PH||71|12i|9jt|p|Hibgos
+Hispania|CO||27|g4|-5uv|p
+Highcoems|GB||9b|3ym|-3u|p
+Miguel Hidalgo|MX|Chiapas|41|18q|-72y|o|Hidalgo
+Ginabuyan|PH||71|v8|9lk|o|Jinabuyan;Hinabuyan
+Hipona|PH||71|vq|9hc|o
+Highspire|US||48|33p|-5xb|o|High Spire
+Hidalgo|MX|Zacatecas|41|1um|-7zy|o
+Himensulan|PH||71|tg|9l8|n
+Hipasngo|PH||71|tm|9mp|n|Hiposngo;HipusNgo
+Hill Town|IN||6t|1vm|789|n
+Hibberdene|ZA||o|-2cx|2cx|n
+Hidden Spring|US||28|3dg|-8yx|n
+High Valleyfield|GB||9b|4bq|-a0|n
+Hidas|HU||8v|3ki|1fe|n|Idoš
+Hilsenheim|FR||9k|3q5|l0|m|Hílse
+Highlands|CA|British Columbia|5b|3qs|-9j2|m
+Hinges|FR||9k|3wh|7a|m
+Hilgermissen|DE||8r|42s|pf|m
+Highwood|CA||2s|3xx|-8sw|m
+Hickman|US|Kentucky|2f|2tl|-6vr|m
+Hârşeni|RO||8u|3j3|1xi|m|Hîrşeni
+Highgate|AU|Western Australia|8k|-2gq|8xv|m
+Hisar|TR||94|2wg|36j|m|Hesar;Hasar
+Higuera de Vargas|ES||9d|2yt|-je|m
+Hitzkirch|CH||a7|3n6|my|m
+Hirsingue|FR||9k|3o7|k5|m|Hirsingen
+Hingham|GB||9b|422|2q|m
+Vecrīga|LV||9n|4e7|1uy|l|Historisch centrum van Riga;Riian vanhakaupunki;Stara Riga;Vecryga;Stare miasto;Centro Histórico de Riga;Centre historique de Riga;Riga óvárosa;Zgodovinsko središče Rige;Città vecchia di Riga;Vecpilsēta;Vekriqa
+Las Higuerillas|MX||3w|1y6|-7io|l|Higuerillas
+High Etherley|GB||9b|47t|-4u|l
+Hillen|US||48|31a|-5wr|l
+Hirschberg|DE||8r|3w1|wu|l
+Hickman|US|Nebraska|2f|34u|-7gf|l
+Hightown|GB||9b|44o|-8i|l
+Hinckley|US|Illinois|2f|381|-6u8|l
+Hiironen|FI||92|50i|1yw|l
+H̱ispin|IL||6n|2j9|2rf|l|Haspin
+Hirvensalmi|FI||92|4r7|22g|k
+Ḩesāmābād|IR||7o|2oi|3pd|k|Hīsāmābād
+Hârtop|RO||8u|3nx|219|k|Hîrtop
+Himeville|ZA||o|-2an|29z|k
+Hittisau|AT||a2|3nu|ro|k
+Hingatungan|PH||71|te|9nr|k|Hinatungan
+Hillsboro Beach|US||48|211|-66g|k
+Hildebran|US||48|2r7|-6a6|k
+Sandsund|FI||92|4wt|1r5|k|Hietasalmi
+Hindelbank|CH||a7|3mo|ky|k
+Colonia Hidalgo|MX|Durango|44|1v4|-82i|k|Hidalgo
+Ydes|FR||9k|3hz|6s|k|Eidas;Hisde
+Hillsborough|US|New Hampshire|48|3br|-5jq|k
+Hibaldstow|GB||9b|44n|-1g|k
+Hill 'n Dale|US||48|278|-6cm|j|Hill n Dale;Hill and Dale
+Hidden Hills|US||3p|2mw|-95l|j
+Híjar|ES||9d|36d|-19|j
+Hendūdar|IR||7o|2lu|3sr|j|Hindūdar;Hanūdār;Henūdar;Hendūdūr
+El Higueral|MX||3x|1vj|-8a7|j|Higueral
+Hinsdale|US|Massachusetts|48|39w|-5n5|j
+Higuera de Arjona|ES||9d|2xh|-b3|j
+Hildisrieden|CH||a7|3mz|mv|j
+Hide-A-Way Lake|US||2f|2cw|-6x0|j
+Himbergen|DE||8r|43h|tt|j
+Hitiaa|PF||bg|-1cw|-biq|i|Hitia
+Hinckley|US|Minnesota|2f|3jt|-766|i
+Hikurangi|NZ||ak|-2qw|dg6|i
+Himmelstadt|DE||8r|3uo|r8|i
+Hillman|AU||8k|-2ho|8xk|i
+Hilton|ZA||o|-2a3|2c6|i
+Hipólito Bouchard|AR||1n|-2og|-4wf|i
+Hillerstorp|SE||9w|4f7|12k|h
+Hinterweidenthal|DE||8r|3so|lj|h
+Highvale|AU||8c|-241|bsg|h
+Hıdırbeyli|TR||94|2x9|24n|h
+Higganum|US||48|37a|-5lk|h
+High Bentham|GB||9b|46c|-6z|h
+Hīdūj|IR||7o|230|4sk|h
+High Halstow|GB||9b|3yx|1k|h
+Hegykő|HU||8v|3oa|1ao|h|Hiećka;Hečkon;Hečkur;Heiligenstein
+Higueras de Abuya|MX||3x|1ve|-89f|g
+Hidalgo|MX|Chiapas|41|164|-75b|g
+Hidalgo|MX|Coahuila|44|257|-7pg|g
+Hipólito Yrigoyen|AR|Misiones|1n|-239|-49l|g
+Highgate|AU|South Australia|8b|-2p4|ap2|g
+Hiltpoltstein|DE||8r|3ty|vg|g
+Khizi|AZ||61|35n|3sb|g|Xızı;Hızı;Khizy
+Girvas|RU||9i|4tk|2lk|g|Hirvas
+Hillsboro|US|North Dakota|2f|3no|-7hm|g
+Hinsdale|US|New Hampshire|48|3av|-5ld|f
+Hiltenfingen|DE||8r|3ps|ts|f
+Higuerillas|MX||41|1m4|-7p5|f
+Hines|US||3p|3d0|-96s|f
+Ḩilf|OM||72|1le|4jj|f
+Hilbert|AU||8k|-2he|8y6|f
+Hillsdale|US|Missouri|2f|2zg|-6ys|f
+Highpoint|US||48|315|-6ib|f|High Point
+Hittnau / Hittnau (Dorf)|CH||a7|3nk|oi|f|Hittnau
+Hilbersdorf|DE||8r|3x9|zz|f
+Hyeranyony|BY||9g|46c|1z2|f|Geranony;Geranëny;Geranainys;Hieraniony
+Hiram|US|Maine|48|3dw|-5go|f
+Hill City|US|Kansas|2f|31c|-7pc|f
+Higueras|MX||44|204|-7pu|f|Migueras
+Hilgert|DE||8r|3w6|ld|e
+Hillston|AU||8l|-2l0|b8a|e
+Hindisheim|FR||9k|3qn|l8|e|Híndse
+Hirschfeld|DE|Brandenburg|8r|3yq|11u|e
+Hillsboro|US|Wisconsin|2f|3d9|-6yy|e
+Hirne|UA||98|3pi|2y4|e
+Las Higueras de los Natoches|MX||3x|204|-8eq|e|Higueras de los Natoches
+Hicks Bay|NZ||ak|-2wg|dra|e
+Highland Park|US|Pennsylvania|48|34u|-5zh|e
+Hippach|AT||a2|3n4|wz|e
+High Park|CA||2s|44r|-8ri|e
+Higuera Blanca|MX||21|1ls|-84z|e
+Hirschegg|AT|Vorarlberg|a2|3nj|s9|e
+Higueruela|ES||9d|308|-40|e
+Hillsborough|CA||43|3jk|-4zm|d
+Hindmarsh Island|AU||8b|-2qn|apr|d
+Hico|US||2f|2gu|-7kb|d
+Hinterleiten|AT||a2|3pt|18d|d
+H̱innanit|PS||6n|2i8|2pp|d|Hinanit
+Hârtoape|RO||8u|3ng|228|d|Hîrtoape
+Hirsivka|UA||98|3lk|2qb|d|Girsovka
+Hikkaduwa|LK||68|h2|66i|d
+Hirschbach|DE||8r|3tn|w1|d
+Hipstedt|DE||8r|44k|ox|d
+Hirnytske|UA||98|3pd|2zv|d|Hirnyts’ke
+Hirel|FR||9k|3r1|-50|d
+Hirschfeld|DE|Saxony|8r|3wm|ym|d
+Hillcrest|US|Illinois|2f|38j|-6ve|d
+Hemmatābād|IR|Razavi Khorasan|7o|2su|4ie|d|Himmatābād
+Hiram|US|Ohio|48|36r|-69e|d
+Higuera de los Vega|MX||3x|1za|-8bw|d
+Hilldale|US||48|36p|-5uo|c
+Hidalgo Amajac|MX||41|1m3|-7j7|c
+Hirtzbach|FR||9k|3o8|k2|c
+La Higuera|MX|Jalisco|41|1hy|-7z9|c|Higuera
+Khīvalī|IR||7o|2uz|47z|c|Ḩīvalī;Khīvahlī
+Hırkatolu|TR||94|2yp|2m9|c
+Hitzhusen|DE||8r|45s|rd|c
+Hidalgo|MX|Chiapas|41|16n|-75m|c
+Hinx|FR||9k|3de|-2l|c
+Higinio Olivo|MX||41|1p2|-7om|c|La Labor
+Xiajiang|CN||7i|1zk|8dx|c|Hiakiang
+Ḩīq|IR||7o|2ym|3o6|c
+Himmelreich|AT||a2|3or|103|c
+Pueblo Hidalgo|MX|Hidalgo|41|1mn|-7m4|c|Hidalgo
+Hillsborough Park|CA||35|3kj|-4vb|c
+High Ongar|GB||9b|3zn|q|c
+Hillside|GB||9b|4dm|-6v|c
+High Halden|GB||9b|3xy|1z|c
+Hiller|US||48|335|-65y|c
+High Legh|GB||9b|447|-6t|b
+Hillsboro|US|Mississippi|2f|2i6|-6wn|b
+Hitzendorf|AT||a2|3mn|16i|b
+Nyzhnii Studenyi|UA||98|3ra|1sw|b|Alsóhidegpatak;Hidegpatak;Nyzhniy Studenyy
+Kudashivka|UA||98|3q3|2mk|b|Hindenburg;Kudaschiwka;Kudaschewka;Kudashyevka
+Highfield-Cascade|US||48|32c|-5z8|b|Highfield Cascade
+Higuera de la Serena|ES||9d|2zd|-fy|b
+Hickmann|AR||1s|-1sh|-4wl|b|Hickman
+Hinteregg|CH||a7|3nf|o4|b
+Hilbert|US||2f|3em|-6sw|b
+Hiland Park|US||2f|2bw|-6lv|b
+Hinterglemm|AT||a2|3nm|z0|b
+Hilltop Lakes|US||2f|2ec|-7f8|b
+Hiddensee|DE||8r|47l|10e|b
+Hillside Lake|US||48|37l|-5p0|b
+Hières-sur-Amby|FR||9k|3j8|ep|b
+Hill Country Village|US||2f|2a6|-7ll|b
+Hill|US||48|3cw|-5j6|b
+Highland|US|Arkansas|2f|2ss|-728|b
+Hilton|GB||9b|418|-b|b
+Hinterberg|AT||a2|3nk|15v|b
+Hiersac|FR||9k|3iv|0|a
+Highland|US|Maryland|48|30u|-5xs|a
+Hirtzfelden|FR||9k|3p3|kp|a|Hirzfelden
+Highland|US|Kansas|2f|32q|-7cn|a
+Hirm|AT||a2|3or|19p|a|Félszerfalva
+Himmetli|TR||94|2x7|2s6|a
+Himmelried|CH||a7|3nq|l4|a
+Hillcrest|AU|Tasmania|8g|-362|b99|a
+Hillsborough|GD||30|yo|-4qq|a
+Hisarköy|TR||94|2v7|2ui|a|Hisar Köy
+Hill City|US|South Dakota|2p|3e1|-7zq|a|Hills City
+Hillsdale|US|North Carolina|48|2s1|-67g|a
+Hillburn|US||48|368|-5q1|a|Hilburn
+Hidasnémeti|HU||8v|3qq|1mz|a|Hidaš Nemta;Nemnica;Hidaš Nemnica
+Highland Hills|US||48|375|-6ag|a
+Hilișeu-Crișan|RO||8u|3pg|20w|a
+Highland|US|Kansas|2f|30x|-7bf|a
+Highlandville|US||2f|2ul|-774|a
+Himesháza|HU||8v|3k1|1fl|a|Nimmersch;Imeš;Imešaz;Nemišaz;Nimeš;Nimmesch
+Hinton|US|Iowa|2f|3af|-7fh|9
+Highlands|US|North Carolina|48|2pd|-6f4|9
+Ḩeşār|IR||7o|2ay|3vm|9|Ḩaşār;Hisar
+Hiawassee|US||48|2p3|-6go|9|Hiwassee
+Hiltsi|UA||98|3vt|2jj|9|Gil'tsy;Hil’tsi
+Hicaque|HN||56|17o|-6qp|9
+Hitiaș|RO||8u|3iz|1o0|9|Hitiş;Hityiás;Hittyiás
+Hīdūch-e Pā’īn|IR||7o|231|4sk|9
+Hingham|US|Wisconsin|2f|3d8|-6s7|9
+Higueral|MX||41|1m8|-7iu|9
+Hittbergen|DE||8r|446|tf|9
+Hillside|US|New York|48|38g|-5po|9
+Hilgay|GB||9b|420|13|9
+Hindeloopen|NL||8m|432|f0|9|Hylpen
+Hârja|RO||8u|3ie|22i|9|Hîrja
+Hinstock|GB||9b|42s|-6u|9
+Hi-Nella|US||48|32o|-5se|9
+Hilsprich|FR||9k|3s5|j8|9
+Hingeon|BE||8t|3wd|dx|8
+Hinrichshagen Hof Eins|DE||8r|467|112|8
+Highland|US|Wisconsin|2f|3bl|-6z2|8
+Higham on the Hill|GB||9b|420|-40|8
+High Bickington|GB||9b|3xl|-b3|8
+Hilton|AU|South Australia|8b|-2p1|aow|8
+High Rolls|US||2p|2jj|-860|8|Bįįh Hanabitiiní
+Hillersleben|DE||8r|418|vw|8|Hilleslevo;Hilersleben
+Hills|US|Iowa|2f|37f|-729|8
+Highfields|AU|New South Wales|8l|-2jj|bpf|8
+Hilshire Village|US||2f|2ar|-7d9|8
+Hilkenbrook|DE||8r|437|lf|8
+Hierba de Matancillas|MX||41|1or|-7uf|8
+Hirschhorn|DE|Rheinland-Pfalz|8r|3tk|lc|8
+Hide-A-Way Hills|US||48|325|-6d4|8|Hideaway Hills
+Highmore|US||2f|3fo|-7o8|8
+Hinojosa de Duero|ES||9d|35v|-iw|8
+Hirky|UA||98|405|1y8|8
+Hitcham|GB||9b|40s|2h|8
+Helmdange|LU||9c|3u1|h2|8|Hielem;Helmdingen
+Hipsheim|FR||9k|3qn|lc|8
+Hidișel|RO||8u|3m3|1pu|8
+Hilița|RO||8u|3ml|25a|8
+Hisaraltı|TR||94|2vw|33n|8
+Hingë|AL||9y|35g|1iy|8|Hinga;Hinkë;Mingë
+Verkhniy Studenyi|UA||98|3rd|1sw|8|Felsőhidegpatak;Hidegpatak
+High Easter|GB||9b|3zx|z|8
+Hidden Trails|US||3p|2k2|-912|8
+Hilora|IQ||5z|2us|3dt|8
+Hilltop|US|Minnesota|2f|3h5|-771|7
+Hindman|US||48|2vq|-6ei|7
+Hickory|US|Pennsylvania|48|33y|-673|7
+Hightsville|US||48|2n7|-60h|7
+Hiesendorf|AT||a2|3pv|148|7
+Hillcrest|US|Texas|2f|29n|-7cm|7
+Hârlești|RO||8u|3m2|22o|7|Hîrleşti
+Hıdırlar|TR||94|377|2hs|7|Hizilar;Hızırlar
+H̱ibbat Tsiyon|IL||6n|2i0|2oz|7|H̱ibbat Ẕiyyon;Hibat Tsiyon;Ḥibbat Zion;Ḥibat Tsion
+High Shoals|US||48|2qc|-69k|7
+Hiunivka|UA||98|3n6|2nz|7|Hyunivka;Gyunëvka
+Hideout|US||2p|34w|-8lh|7
+Hızırkâhya|TR||94|2sz|2c1|7
+Hisarçandır|TR||94|2u4|2cl|7
+Hinojosas de Calatrava|ES||9d|2z9|-bi|7
+Higuera de Calatrava|ES||9d|2x0|-bk|7
+Hidalgo|MX|Chiapas|41|15c|-74k|7
+Hinckley|US|Utah|2p|318|-8oz|7
+Hippach-Schwendberg|AT||a2|3n4|wx|7
+High Ercall|GB||9b|42j|-78|7
+Higashi|JP||7q|21u|9tf|7
+Hithadhoo|MV|Laamu|af|50|5nv|7
+Hintersdorf|AT||a2|3q6|192|7
+Hill Mountain|GB||9b|3zq|-dp|7
+Hills|US|Minnesota|2f|3cx|-7fo|7
+Hillier|AU||8b|-2o6|ap8|7
+Hillman|US||2q|3h6|-6h2|7
+Hirnsdorf|AT||a2|3n3|17z|7
+Hidalgo Norte|MX||41|1aw|-7c1|7
+Hissop|US||2f|2jd|-6nb|7
+Hilișeu-Cloșca|RO||8u|3pe|215|7
+Khiitola|RU||9i|4q4|2ah|7|Hiitola;Khijtola;Hitola;Khitola;Khiytola
+Hârsova|RO|Vaslui County|8u|3ln|24j|7|Hîrsova
+Higginson|US||2f|2pr|-72r|7
+Hidalgo|MX|Oaxaca|41|1aq|-7jf|6
+Hickman|US|California|3p|2wi|-9bf|6
+Hijken|NL||8m|42y|i2|6
+Hillared|SE||9w|4g3|10j|6
+Hisarcık|TR|Bilecik|94|34e|2b4|6
+Hillsborough|AU||8l|-2jl|bpb|6
+Highfill|US||2f|2sq|-7a4|6
+Hillhead|GB||9b|4a1|-ch|6
+High Falls|US||48|387|-5px|6|Highfalls
+Hingen|NL||8m|3xz|ge|6
+Highland Meadows|US||2p|2p2|-89p|6
+Hilltop|US|West Virginia|48|2xe|-69f|6
+High Bonnybridge|GB||9b|4bj|-as|6
+Hinderwell|GB||9b|47i|-25|6
+Hirschegg|AT|Styria|a2|3mm|15k|6
+Hrip|RO||8u|3ok|1rv|6|Hirip
+Hirișești|RO||8u|3hi|1to|6
+Hyunivka|UA||98|3mp|2sz|6|Hiunivka;Gyunëvka
+Hill City|US|Minnesota|2f|3mj|-780|6|Thành phố Hill
+Hindolveston|GB||9b|42q|2u|6
+Hipólito Landeros (Zacatal)|MX||41|1dw|-7bd|6
+Hiers|FR||9k|3jd|-30|6
+Hințești|RO||8u|3gh|1x1|6
+Hillesheim|DE|Rheinland-Pfalz|8r|3ua|my|6
+Hieflau|AT||a2|3o9|14z|6
+Hildenborough|GB||9b|3yb|o|6
+Hillwood|AU||8g|-36k|bca|6
+Hemelum|NL||8m|42w|f6|6|Himmelum
+Himmelberg|AT||a2|3lw|12z|6
+Hickory Hills|US|Pennsylvania|48|360|-5um|6
+Hidalgo|MX|Oaxaca|41|18c|-7i5|6
+Hinojosa del Valle|ES||9d|2yw|-h6|6
+Hindon|GB||9b|3xx|-5x|6
+Hickory Flat|US||2f|2o6|-6vr|6
+Hinoemata|JP||7q|2uu|ar7|6
+Higbee|US||2f|316|-74z|6
+Hirsk|UA||98|40i|2gh|6|Hirs’k
+Highland Holiday|US||48|30w|-6fv|6
+Himmaste|EE||9x|4hc|237|5
+Hideaga|RO||8u|3o7|1t2|5
+Hillsboro|US|Indiana|38|33f|-6q7|5
+Himatangi|NZ||ak|-347|dj0|5
+Hiddenite|US||48|2rq|-699|5
+Hickory|US|Mississippi|2f|2hs|-6vb|5
+Hilltop|US|Ohio|48|36c|-68a|5
+La Higuera|MX|Sinaloa|3x|1wb|-89q|5|Higuera;La Higuerita
+Hicattee|BZ||24|198|-6uw|5|Hicatee
+Hilbesheim|FR||9k|3ri|jq|5
+Higinio Tanguma|MX||44|1rh|-7kx|5
+Hisarcık|TR|Aydın|94|2xo|26t|5
+Hicaco|PA||4g|l9|-69k|5
+Hiadeľ|SK||8s|3rl|1ho|5
+Higueruelas|ES||9d|32i|-2d|5|Figueroles
+Hillsboro|US|Alabama|2f|2o8|-6q7|5
+Hinsdorf|DE||8r|3zo|xr|5
+Hirschbach|AT||a2|3re|161|5
+Hillsdale|US|Illinois|2f|37l|-6yh|5
+Hitzing|AT||a2|3q3|13g|5
+Himmetoğlu|TR||94|33s|2di|5
+Ḩeşār-e Bālā|IR||7o|2r3|40k|5|Hisār Bāla
+Hidiș|RO||8u|3ly|1pu|5
+Hinterthiersee|AT||a2|3o6|xj|5

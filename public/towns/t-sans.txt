@@ -1,0 +1,141 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zanzibar|TZ||h|-h4|30w|5h6|Sansibar-Stadt;Sansibar;Zanjibar
+San Salvador|SV||2u|121|-6vr|424|Salvador;San-Salvador;San Salwador;San-Salvadoro;Urbs Sancti Salvatoris;Sansalvadora;San Salvadò
+San Salvador de Jujuy|AR||1o|-1v7|-51d|1zo|San Salvador de Chuchujus;Sanctus Salvator Soteriae
+Donostia / San Sebastián|ES||9d|3cb|-5h|1fi|San Sebastián;Donostia;La Bella Easo;Sanse;Sant Sebastià;Saint-Sébastien;Donostio;São Sebastião;Donosti;Donostia-San Sebastián;Donostia San Sebasián
+Sanshui|CN||7i|1sb|8pl|16p
+Sanxia|TW||7l|1x9|9d5|w0|Sâm-hia̍p-khî;Sansija;Tam Hạp;Sam-kiap-khu;Sansia
+San Sebastián de los Reyes|ES||9d|34o|-a3|l3|Sanse;S.S. de los Reyes;SS de los Reyes;Sanctus Sebastianus Regum;San Sebastian de los Rejesas
+San Salvador Tizatlalli|MX||41|1hi|-7on|h2
+San Severo|IT||9o|37t|16q|ef
+San Salvario|IT||9o|3h5|lc|9w
+San Sebastián de Mariquita|CO||27|eg|-5s1|99|Mariquita
+Saint-Sébastien-sur-Loire|FR||9k|3n5|-46|84|Sant-Sebastian-an-Enk;San Sebastián sobre Loira;Engnia;Sen Sebastjan sür Luar
+San Sebastián|GT||32|14g|-72l|84
+San Simon|PH||71|15o|9bi|82
+San Sebastián el Grande|MX|Jalisco|41|1l1|-7zb|7t
+San Sebastiano|IT||9o|3it|si|6g
+Sansheng|CN||7i|2b1|887|5d
+San Salvador El Seco|MX||41|1h5|-7j8|4t
+San Salvador Atenco|MX||41|1ib|-7ms|4r
+San Salvo|IT||9o|38s|14x|4r
+San Salvador Cuauhtenco|MX||41|1hb|-7n9|3v
+Sanski Most|BA||9r|3gd|1ab|3s
+San Sebastián Chimalpa|MX||41|1hu|-7mv|3m
+San Siro|IT|Lombardy|9o|3ic|pd|3k
+Sansepolcro|IT||9o|3d1|xq|3g
+San Salvador|AR||1n|-2fu|-4ij|38
+San Sebastián|PR||4m|1ey|-563|38|San Sebastião
+San Sebastián|HN|Lempira Department|56|13l|-6tu|31
+Sans Souci|AU||8l|-2mf|bnt|2u
+San Sebastiano al Vesuvio|IT||9o|35g|13w|2k
+San Sebastián de la Gomera|ES||83|261|-1bj|2i|La Gomeros San Sebastianas
+San Severino Marche|IT||9o|3c3|10m|2f
+Sans Souci|US||48|2ow|-6cy|27
+San Sebastián|SV||2u|125|-6ur|21
+San Sperate|IT||9o|31c|p1|20|Santi Sperate;Santo Sperate
+San Stino di Livenza|IT||9o|3j1|z9|1z|Santo Stino di Livenza;San Stin;Santo Stimo di Livenza
+Yehualtepec|MX||41|1g8|-7ja|1x|San Simón
+San Sebastián de Aparicio|MX||41|1h2|-7ko|1u
+Atoyatempan|MX||41|1ga|-7jz|1q|San Salvador;Atoyateipan;Atoyateinpan
+San Sebastián|MX|México|41|1iy|-7n6|1n
+Sansari|IN||6t|1jb|5p4|1m
+San Sebastián Xolalpa|MX||41|1io|-7mk|1i
+San Simón de la Laguna|MX||41|1hl|-7q0|1e|San Simón de Laguna
+San Simón|MX|Puebla|41|1gp|-7jf|1e
+Sansom Park|US||2f|2j5|-7ik|1d
+Sansarpur|IN||6t|2ev|5u2|1b
+Sansikhara|IN||6t|1tz|6nu|1a
+San Sebastián Tutla|MX||41|1be|-7gk|19
+San Sebastián de Yalí|NI||3s|10z|-6nf|19
+San Secondo Parmense|IT||9o|3gs|sf|16
+San Salvatore|IT|Liguria|9o|3f5|pz|16
+San Sebastián|MX|Puebla|41|1j6|-7ih|13
+Sansare|GT||32|14z|-6yc|12
+San Simón Atzitzintla|MX||41|1hi|-7lk|y
+Sânsimion|RO||8u|3kh|1zw|y|Sînsimion
+San Saba|IT||9o|38c|yp|y
+San Salvatore Monferrato|IT||9o|3gz|nt|x
+San Saba|US||2f|2eo|-7m8|u
+San Sebastián Buenos Aires|MX||41|1it|-7oo|t
+San Simeón Xipetzingo|MX||41|1i4|-7l1|t
+San Simón Tlatlahuquitepec|MX||41|1hw|-7ku|s|San Simón Tlatlauhquitepec
+San Salvador|PH||71|uk|9h8|s
+San Sebastian|PH|Ilocos|71|1cy|9ac|s
+San Salvador el Verde|MX||41|1hj|-7lo|s
+San Simón el Alto|MX||41|1gs|-7oe|q
+San Salvador (Naranjillo)|MX||41|1j3|-7ib|o
+San Sebastián Teteles|MX||41|1gv|-7jn|o
+San Salvatore Telesino|IT||9o|36k|14a|m
+San Sebastián|MX|Michoacán|41|1id|-7wo|m
+San Sebastián Tenochtitlán|MX||41|1kc|-7ox|m|San Sebastián Tenoxtitlán
+San Sebastian|PH|Bicol Region|71|125|9jb|l
+San Simón|VE||2c|n7|-5jl|l
+San Simonito|MX||41|1gr|-7oi|k
+San Sebastian|PH|Eastern Visayas|71|wj|9na|k
+San Sebastián|MX|México|41|1hf|-7oi|k
+San Sebastián Etla|MX||41|1bo|-7gu|k|Etla;San Sebastián
+San Sebastián|MX|México|41|1iv|-7nl|j
+San Sebastián del Salitre|MX||41|1mm|-7r4|j|San Sebastián de Salitre
+San Sebastián [Fraccionamiento]|MX||41|1om|-7w3|j
+Santo Stefano al Mare|IT||9o|3ds|ly|i|San Stefano al Mare
+San Sebastián Teitipac|MX||41|1b3|-7gd|h|San Sebastián;San Sebastián Teitipal
+San Salvo Marina|IT||9o|38v|151|h
+San Sebastián Alcomunga|MX||41|1f8|-7hj|h
+San Siro|IT|Lombardy|9o|3jz|pr|h|Fanum Sancti Syri;San Sir;Siro
+San Isidro|PA||4g|np|-6e3|g|San Sidro
+Sen Sen|IR||7o|2n5|3yg|g|Sansen
+San Sebastián del Monte|MX||41|1d4|-7ka|f
+San Sebastián|HN|Comayagua Department|56|13l|-6rg|f
+San Sebastián Abasolo|MX||41|1b7|-7gb|f
+San Secondo di Pinerolo|IT||9o|3gn|ka|e
+Sansha|CN||7i|1as|8o2|e|Tam Sa;Tam Sa thị
+San Salvador Torrecillas|MX||41|1l4|-7sg|e|Torrecilla
+San Sebastián Nicananduta|MX||41|1co|-7jc|d|San Sebastián Nicanandula
+San Sebastián Huehuetenango|GT||32|16r|-72i|d
+San Simón Almolongas|MX||41|19l|-7go|d
+San Sosti|IT||9o|326|18j|d
+San Sebastián Coatlán|MX||41|190|-7gz|d
+San Sebastián|MX|Veracruz|41|1my|-7kl|d
+San Secondo|IT||9o|3ck|xz|c
+San Sebastián de las Barrancas Sur|MX||41|1kb|-7pm|c|San Sebastián de Las Barrancas;San Sebastián de la Barranca
+San Simón|MX|Tabasco|41|1eo|-76f|b
+Sansac-de-Marmiesse|FR||9k|3go|6j|b
+San Salvador|MX|Hidalgo|41|1kc|-7n1|b
+San Simón de Guerrero|MX||41|1gu|-7pt|a
+San Sebastián Río Hondo|MX||41|18y|-7fz|a|Río Hondo
+San Simón|MX|México|41|1g3|-7q9|a
+San Savino|IT|Emilia-Romagna|9o|3e2|z0|a
+San Sossio Baronia|IT||9o|363|168|9
+San Sebastián|CO||27|54|-5x9|9
+San Sebastián de las Grutas|MX||41|1a7|-7hc|9
+San Sebastián de los Ballesteros|ES||9d|2wl|-de|9
+San Sebastián el Grande|MX|México|41|1hm|-7py|9
+San Sebastián Coatán|GT||32|17q|-72c|8
+San Sebastián|MX|México|41|1gq|-7oc|8
+San Sabino|IT||9o|3cr|11j|8
+San Salvatore|IT|Tuscany|9o|3dt|tp|8
+Patlanoaya|MX||41|1fe|-7l0|8|San Salvador Patlandaya
+San Simón Coatepec|MX||41|1gk|-7jx|8
+Don Sebastián|MX||41|1ms|-7s9|7|Sebastián;San Sebastián
+San Silvestro|IT||9o|3b3|125|7
+San Sebastián|MX|Veracruz|41|1g1|-7ha|7
+San Severino Lucano|IT||9o|336|18u|7
+San Savino|IT|Umbria|9o|3br|xv|7
+Sansarak|TR||94|34h|2av|7
+San Salvatore di Fitalia|IT||9o|2xr|152|7
+Sansais|FR||9k|3kj|-1n|7
+San Sebastián del Oeste|MX||41|1lo|-839|7
+Sanson|NZ||ak|-33q|dja|7
+San Silvestre de Guzmán|ES||9d|2vv|-kf|6
+San Sostene Marina|IT||9o|2zd|19z|6
+San Sebastián Número Dos|MX||3x|1zb|-8d4|6
+San Silverio|MX||2b|1kk|-6sk|6
+San Sigismondo|IT||9o|3m1|ws|6
+San Sebastián Progreso|MX||41|1dh|-7jd|6
+San Sebastiano da Po|IT||9o|3hh|m4|5
+San Sebastián el Chico|MX||41|1hj|-7pu|5
+San Sebastián de Juárez|MX||41|1k1|-7oh|5
+San Simón|MX|Jalisco|41|1mb|-80x|5
+Santo Stefano d'Aveto|IT||9o|3fr|q9|5|San Steva d’Aveto
+San Salvador|MX|Chiapas|41|1b5|-738|5

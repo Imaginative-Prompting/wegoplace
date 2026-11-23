@@ -1,0 +1,82 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Salem|US|Oregon|3p|3gu|-9hs|1cr|Seilema
+Seinäjoki|FI||92|4uf|1rf|ik|Östermyra;Seinejokis;Seinjogi
+Zeist|NL||8m|40p|ej|gx|Seist
+Skien|NO||9j|4kh|qp|e2|Šienas;Šėins
+Sehnde|DE||8r|41b|rp|6f|Seinje
+Seirō|JP||7q|2xi|aqu|3z
+Seikgyi|MM||7y|1ak|7f0|3v
+Seïada|TN||1e|2r3|u9|3t|Sayada;Saïada
+Séitifla|CI||0|ko|-io|2w
+Seini|RO||8u|3on|1so|2w
+Seybaplaya|MX||3z|1ik|-6zx|2f|Ceibaplaya;Seibaplaya
+Seisui|JP||7q|266|9z9|2d
+Seiersberg|AT||a2|3mk|16s|25
+Seia|PT||99|34a|-lf|1z
+Ceiba|PR|Ceiba|4m|1eq|-52d|1r|Seiba
+Sejny|PL||a5|46b|1sv|1n|Seinai
+Seilles|BE||8t|3wa|e5|1m
+Seichamps|FR||9k|3rb|he|1k
+Chapelizod|IE||8z|447|-hm|1h|Seipeal losoid;Séipéal Iosóid
+Seifhennersdorf|DE||8r|3xh|14k|1d|Zaruž;Wodowe Hendrichecy;Zeifhennersdorfa
+Scheinfeld|DE||8r|3tz|t3|1c|Šeinfeldas
+Şeíca Mare|RO||8u|3ju|1v3|1b
+Lincoln Park|US|Colorado|2p|2yr|-84a|z|Séí Bikooh
+Seymchan|RU||6z|4ut|brb|z|Sejmtsjan;Seimtschan;Sejmtjan;Sejmčan;Seimchán;Seimtxan;Seymçan;Siejmczan;Seimcian;Semchan
+Seitenstetten Markt|AT||a2|3pf|14p|y
+Seileu|CI||0|jq|-mp|y
+Şeitin|RO||8u|3k2|1lx|t
+Seignosse|FR||9k|3dd|-3t|t|Senhòssa
+Seixal|PT|Setúbal|99|2zc|-pa|s
+Seiffen|DE||8r|3wp|11d|q
+Seiches-sur-le-Loir|FR||9k|3o5|-10|p
+Seis de Enero|MX|Zacatecas|41|1sx|-7yb|o
+Seilh|FR||9k|3dd|3s|o
+Scheibenberg|DE||8r|3we|zv|o|Šeibenberga
+Seitingen-Oberflacht|DE||8r|3pe|o8|n
+Seillans|FR||9k|3d8|ig|n|Celhan;Selhan
+Seidu|SL||l|p2|-tf|m
+Seimeni|RO||8u|3fa|25z|m
+Sixt-sur-Aff|FR||9k|3oq|-5s|l|Seizh
+Seis de Octubre (Santo Niño)|MX||44|1zk|-7ys|l
+Seydougou|CI||0|qf|-m6|k|Sédougou;Seïdougou
+Seine-Port|FR||9k|3qw|73|j
+Seine Bight Village|BZ||24|1a1|-6tg|j
+Seingbouse|FR||9k|3sf|iz|i|Seingbousse
+Sexbierum|NL||8m|43u|f8|i|Sixbierum;Seisbierrum
+Seilhac|FR||9k|3i1|4r|h
+Seixezelo|PT||99|35z|-nr|h|Seixezello
+Şeica Mică|RO||8u|3jx|1v1|h
+Séipleu|CI||0|ig|-na|h
+Siusi|IT||9o|3la|w4|g|Seis am Schlern
+Seignelay|FR||9k|3p3|a0|g
+Séizra|CI|Sassandra-Marahoue|0|kw|-h6|g
+Seis de Octubre|MX||44|1zp|-7zp|f
+Seinnan|MM||7y|202|7dl|f|Sein Nan
+Sheynovo|BG||9v|3ak|1yc|f|Sheinovo;Seinovo
+Seibersbach|DE||8r|3ut|lg|f
+Seyne-les-Alpes|FR||9k|3f7|ho|e|Sèina;Sanha;Seyne
+Seis de Enero|MX|Durango|44|1yw|-7zs|e
+Seik Gyi|MM||7y|19k|7eq|d|Seikkyi
+Seigy|FR||9k|3na|3w|b
+Seinsheim|DE||8r|3tw|se|b
+Séibli|CI||0|i1|-ng|b
+Žužemberk|SI||9a|3jb|15h|b|Seisenberg;Žužemperk
+Seissan|FR||9k|3ct|1n|a
+Sellero|IT||9o|3jx|sr|a|Seilero
+Seyches|FR||9k|3fr|v|9|Sèishas
+Seiling|US||2f|2sf|-7ms|9
+Seimenii Mici|RO||8u|3f9|25z|9|Seimeni-Mici
+Séizaibli|CI||0|i9|-ne|8
+Seirijai|LT||a3|46n|1u6|8|Seirijų
+Seis de Enero|MX|Veracruz|41|1id|-7gz|8
+Seisdon|GB||9b|41z|-68|8|Scisdon
+Seix|FR||9k|3b2|3c|7|Sèish
+Séizra|CI|Sassandra-Marahoue|0|kp|-gq|7
+Howard|US|Colorado|2p|2yt|-860|7|Séíyílį́
+Seigertshausen|DE||8r|3xf|q0|7
+Seixal|PT|Madeira|86|2j6|-1bj|7
+Životice u Nového Jičína|CZ||9m|3to|1e5|7|Seitendorf bei Neutitschein
+Semenivka|UA|Odesa|98|3kj|2bp|6|Seimeni;Seimental;Seimeny
+Seibersdorf am Hammerwald|AT||a2|3nh|18f|6
+Seibersdorf|AT||a2|3p8|19w|5

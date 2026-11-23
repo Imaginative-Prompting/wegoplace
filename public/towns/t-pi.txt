@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Pyongyang|KP||7a|30f|9pb|ov0|Pjöngjang;Pionyang;Pchjongjang;Pjongjango;Pchenjanas;Pionguiangue;Phenjan;Bình Nhưỡng;Piongiang;Phenjana;P'yŏngyang;Pyeongyang;Pxenyan;Phenian;Pjongian;P'yŏngyang-si;Pingyang;Hpyeng-yang;Phyeng-yang;P-hjöng-jang;Phyong-yang;Pienyang
+Perth|AU|Western Australia|8k|-2gr|8xu|iec|Pertas;Peairt;Perto;Pērta;Pirth;Pet;Pert
+Pretoria|ZA||o|-1zi|26b|gav|Pretorio;Pretorija;Prétoriye;IPitoli;Pretoriya;Praetoria;Pretorii;E-Pitoli;Priturya;Pretourii;Pitori;Pretorie;Piritōria;Pretooriyaa
+Pimpri-Chinchwad|IN||6t|1fq|5p0|dbx|Pimpri Chinchwad;Pimpri-Ĉinĉvad;Pimpris-Činčvadas;Pimpri-Csincsvád
+Pimpri|IN||6t|1fq|5p1|9wu
+Pikine|SN||g|150|-1cb|918
+Bijie|CN||7i|23u|84h|8ry|Tất Tiết;Bék-ciék;Pi-ťie;Pit-chiat-chhī
+Pingdingshan|CN||7i|2lp|8qs|7jz|Pingdingsjan;Pching-ting-šan;Pingdingŝano;Tekshi choqqiliq tagh shehiri;Bình Đỉnh Sơn;Bìng-dīng-săng;Pêng-téng-san-chhī;Pindinshan’;P’ing-ting-shan
+Bishkek|KG||65|3b3|5r7|6y0|Bischkek;Biskek;Bisjkek;Biŝkeko;Bichkek;Biškekas;Biszkek;Bisqueque;Bixkek;Biškeka;Bişqeq;Biscecum;Pishkek
+Pingxiang|CN|Jiangxi|7i|24q|8s9|6w8|Bìng-hiŏng;Pching-siang;Phìn-hiông-sṳ;Bình Hương;Phêng-hiong-chhī;Dingsiang;Pingsiang;P’ing-hsiang
+Pietermaritzburg|ZA||o|-2aa|2cf|6h5|Pitermaricburgas;Petromaritzburgum;Mokokotlofo;Pitermaricburg;Pietermaritsburg
+Hermosillo|MX|Sonora|37|28t|-8k9|69m|Pitic;Hermosiljas
+Binzhou|CN||7i|2vt|93u|59n|Bintsjou;Pin-čou;Tân Châu;Bĭng-ciŭ;Pin-chiu-chhī
+Piura|PE||3o|-ee|-682|4v0|Pjuro;Piwra
+Las Piñas|PH||71|145|9c2|4qz
+Pingdu|CN||7i|2u6|997|46m|P’ing-tu
+Pingliang|CN||7i|2qq|88d|3w8|Bìng-liòng;Pching-liang;Bình Lương;Pêng-liâng-chhī
+Jalalpur Pirwala|PK||6q|29z|5hu|3uw|Dźalalpur Pirwala
+Pindi Bhattian|PK||6q|2gm|5nj|3t0|Pindi Battian;Pindi Bhatian
+Piracicaba|BR||4w|-1r5|-3od|3eg|Pirasykava;Pirasikaba
+Pingyin|CN||7i|2ss|8zh|2w5
+São José dos Pinhais|BR||4w|-1yx|-3sp|2p7|São José dos Pinhaes
+Pizhou|CN||7i|2nb|93n|2ne
+Pittsburgh|US||48|34c|-668|2ck|Pitsburgo;Pittsburgum;Pitsburgas;Pittsbarig;Pitsburga;Pittsburq;Pittsburg;Pitts-Bourg
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Valladolid|ES||9d|37q|-d4|2bi|Valadolido;Vayadolid;Pucela;Vallis Tolitum;Pincia;Valladolit;Valdoletum;Valhadolid;Vaładołì;Valladolís;Valjadolidas;Valjadolida;Valyadolid
+Petrozavodsk|RU||9i|4rm|2nf|25k|Petrosawodsk;Petroskoi;Petrozawodzk;Petroskoj;Pietrozawodsk;Äänislinna;Petrozawodsk;Petrosavodsk;Pjetrozawodsk;Petrozavodszk
+Bedok New Town|SG||7j|3p|80q|24y|Piṭōk
+Polokwane|ZA||o|-1ue|29v|23p|Pietersburg;Polokvanė;Petriburgum;Pietrsburg
+Tanjung Pinang|ID||6l|2k|826|1r9|Tanjungpinang;Kota Tanjungpinang;Kutha Tanjungpinang;Tandjungpinang
+Pskov|RU||9i|4gm|26p|1mh|Pleskau;Pskow;Pihkva;Pihkova;Pscovia;Pskof;Pleskava;Pszkov
+Bishan|CN|Chongqing|7i|2a7|872|1kv|Pi-shan
+La Pintana|CL||4u|-2la|-5g7|1jw
+Petropavl|KZ||5s|48f|5c3|1jt|Petropawl;Pietropawłowsk;Kızılyar;Petropawlowsk
+Plano Piloto|BR||4w|-17v|-3p0|1j7
+Pilsen|CZ||9m|3u7|116|1g7|Plzeň;Pilzenas;Pilzno;Plzeņa;Pilsna;Pilzeń
+Pinar del Río|CU||36|1qa|-6gi|1fy
+Petropavlovsk-Kamchatsky|RU||6p|43e|c8n|1ec|Petropawlowsk-Kamtschatski;Petropávlovsk-Kamchatski;Petropavlovsk-Kamtchatski;Pietropawłowsk Kamczacki;Petropàvlovsk-Kamtxatski;Petropavlovsk-Kamčatskij;Petropavlovsk-Kamtšatski;Petropavlovsk-Kamtsjatski;Petropavlovsk Kamciațki;Petropavlovsk-Kamtsjatskij;Petropavlovsk-Kamchatskiy;Petropawlofsk-Kamtsjatski;Petropavlovsk-Kamçatski;Petropavlovsk-Kamtjatskij;Petropavlovszk-Kamcsatszkij;Petropavlovsk Kamchatsky;Petropaulovscum Camtschaticum;Kamčiatkos Petropavlovskas;Petropavlovska-Kamčatska;Petropavlovsk Kamčatski;Petropavlovsk Kamčatkal;Petropavlovsk Kamchatski

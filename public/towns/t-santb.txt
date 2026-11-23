@@ -1,0 +1,13 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sant Boi de Llobregat|ES||9d|36u|5o|mw
+Saint-Brieuc|FR||9k|3qs|-7p|eo|Sant-Brieg;Fanum Sancti Brioci;Saint-Brieu
+Saint-Brevin-les-Pins|FR||9k|3n9|-61|2w|Sant-Brewenn;Sanctus Brevenus
+Saint-Brice-en-Coglès|FR||9k|3qh|-3t|q|Sant-Brizh-Gougleiz;Sanctus Bricius de Coglesio
+Saint-Benoît-de-Carmaux|FR||9k|3ed|5x|o|Sant Benesech de Carmauç
+Saint-Briac-sur-Mer|FR||9k|3r2|-5x|j|Sant-Briag;Sanctus Briacus;Saint-Briac
+Zandbergen|BE||8t|3x4|b1|i|Santbergen
+Saint-Bonnet-le-Château|FR||9k|3i6|bb|g|Sant Bonet dau Chastèl
+Saint-Bonnet-en-Champsaur|FR||9k|3g4|gw|g|Sant Bonet;Sant Bonet de Champsaur
+Saint-Barnabé|FR|Brittany|9k|3pq|-7i|e|Sant-Barnev
+Saint-Broladre|FR||9k|3qz|-4m|a|Sant-Brewalaer
+Saint-Bonnet-de-Rochefort|FR||9k|3k7|8q|7|Sant Bonet de Ròchafòrt

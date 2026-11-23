@@ -1,0 +1,132 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hangzhou|CN||7i|2c5|99s|2k3k|Hàng Châu;Hangcsou;Hangtsjou;Hangĝoŭo;Handžou;Hangdžou;Chang-čou;Hâng-chiu-chhī;Hòng-ciŭ;Hòng-chû-sṳ;Xanchjou;Hancheum;Hančžou;Hangzcouh;Xangzhou;Hang-chou;Hangchow
+Hanoi|VN||62|1me|860|1q55|Hà Nội;Hanoj;Hanojo;Hanojus;Hanoy;Hò-nui-sṳ;Anòy;Hanoja;Ha Nui;Thăng Long;Kecho;Kẻ Chợ;Kesciò;Keicho
+Hong Kong|HK||6i|1pw|8t5|1l2h|Hongkong;Victoria;Gon Kong;Hiŏng-gē̤ng;Honkongo;Heung Gong
+Hong Kong Island|HK||6i|1pu|8t6|983|Hong Kong
+Hondlon|CN||7i|34x|8gz|62t
+Hongkou|CN||7i|2et|9dh|5az|Hung-k’ou
+Honchō|JP|Chiba|7q|2r6|asv|4z3|Funabashi;Funabasi;Hunabasi-chhī;Hunabasi;Furabeshi
+Hannover|DE||8r|41h|r1|3z3|Hanover;Hanovro;Hanovre;Hanoveris;Hannober;Hanower;Hanovra;Hanoveri;Hannauver;Hannower;Hanowery;Hanofér;Hannova;Hànobhar;IHanoveri;Honovere
+Hongjiang|CN||7i|23b|8hk|3o8|Hungkiang
+Heyuan|CN||7i|1tx|8uk|3kv|Che-jüan;Hò-ngièn-sṳ;Hà Nguyên;Hô-goân-chhī;Ò̤-nguòng;Ho-yüan
+Honolulu|US||ax|1n7|-c6i|2pi|Honolulo;Thàn-hiông-sân;Gonolulu;Honoloulou;Honoruru
+Kakogawachō-honmachi|JP||7q|2ol|aej|23g|Kakogawa
+Honggang|CN||7i|3kw|9mw|154
+Honmachi|JP|Kumamoto|7q|2ia|a2s|y7|Jacuširo;Jatsushiro;Yatsuşiro;Yatusiro-chhī;Yatusiro;Yatsushiro
+Hưng Yên|VN||62|1ld|86l|wy|Hong-Yen
+Hồng Ngự|VN||6h|u0|84n|s4
+Hongseong|KR||7h|2to|9ru|os|Hongsŏng;Hongsung
+Honghe|CN|Shandong|7i|2t4|96c|ol
+Honjō|JP|Saitama|7q|2so|aqn|lu|Hondyo;Honzyô-chhī
+Hongch’ŏn|KR||7h|2wp|9v9|kx
+Hongwŏn|KP||7a|337|9vg|jp
+Hongqiao|CN|Hunan|7i|22d|8nf|g7|Hungkiao
+Honiara|SB||av|-q7|ccb|fn|Honiaro
+Hondomachi-hondo|JP||7q|2i6|a1l|bc
+Hồng Lĩnh|VN||62|1fh|85n|a9
+Honghu|CN||7i|2bc|893|8g
+Honchō|JP|Hokkaido|7q|38d|aut|7x
+Honda|CO||27|eh|-5rm|7u
+Hong Kah|SG||7j|3s|804|7a
+Hūn|LY||1d|28x|18b|6s|Huun;Hon
+Honglu|CN||7i|29j|85p|60|Hung-lu
+Hongzhou|CN||7i|20l|8fx|5x|Hung-chou
+Hongbao|CN||7i|2oj|86m|5t
+Hong Lok Yuen|HK||6i|1qe|8t4|5o
+Hongqiao|CN|Yunnan|7i|247|7s0|5l
+Honnavar|IN||6t|13o|5qs|5b|Honavar;Honawar
+Honjō|JP|Miyazaki|7q|2gu|a4t|54
+Hong’an|CN||7i|276|8fj|52
+Huntington|US|New York|48|35j|-5nz|50|Hontingeton
+Honnāli|IN||6t|13k|5u5|4z
+Hongguang Qidui|CN||7i|2zl|879|4u
+Hondarribia|ES||9d|3ch|-50|4l|Hondarribi;Fontarabie;Fuenterrabía
+Hongtu|CN||7i|2eg|8f2|41
+Hongō|JP|Chiba|7q|2qe|atv|3u
+Hung Hom|HK||6i|1pz|8t7|3u|Hunghom;Hóngkàn;Hung-k’an
+Hønefoss|NO||9j|4n5|si|3t|Hionefosas
+Honiton|GB||9b|3x4|-8v|3e
+Honghe|CN|Gansu|7i|2nl|84r|3b
+Honmachi|JP|Hokkaido|7q|3dz|b5v|3b
+Hongchuan|CN||7i|2lr|865|2w
+Hongfa Centre|CN||7i|1qn|8sd|2v
+Hondo|US||2f|29j|-7ne|2j
+Honfleur|FR||9k|3ta|n|29|Honnefluctus
+Honaz|TR||94|2ww|29b|28|Chonai
+Hongō|JP|Fukui|7q|2qk|agq|27
+Khoni|GE||7n|39l|39u|25|Choni;Chonis;Honi;Joni;Xoni;Koni
+Honselersdijk|NL||8m|40h|bq|22|Honselerdijk
+Muang Hôngsa|LA||7v|1iq|7ti|1o|Hongsa;Muong Hong Sa
+Hongor|MN|Darhan Uul|7s|3sr|866|1n
+Hönö|SE||9w|4g9|wd|1h
+Honchō|JP|Hokkaido|7q|3ax|b31|1e
+Honchō|JP|Hokkaido|7q|3de|b42|1e
+Hongtianxin|CN||7i|1r3|8s9|1e
+Hongchun|CN||7i|2dp|8gr|1e
+Honório Serpa|BR||4w|-20m|-41j|1d
+Hondagua|PH||71|12r|9fk|1a
+Honchō|JP|Hokkaido|7q|391|b10|19
+Høng|DK||8y|4a7|vd|18
+Honesdale|US||48|37i|-5t2|16
+Hongshulin|CN||7i|1ql|8se|14
+Hongū|JP||7q|2lz|ah5|12
+Hondschoote|FR||9k|3xm|76|11|Hondschote;Oundschote
+Hondelage|DE||8r|41b|th|11
+Hondo Valle|DO||4v|1g0|-5j6|11
+Honea Path|US||48|2np|-6cv|11|Honey Path;Honeapath
+Honcharivske|UA||98|3yi|2dw|x|Honcharivs’ke
+Honmura|JP||7q|2nq|ac8|v|Hommura
+Hongō|JP|Aichi|7q|2pf|ami|t
+Honeoye Falls|US||48|3bb|-5zj|r
+Honaunau-Napoopoo|US||ax|1i2|-c0y|q
+Honningsvåg|NO||9j|5h6|205|p|Sondre Honningsvaag;Honnesváhki;Honingsvogas;Hönningsvaag
+Hondón de las Nieves|ES||9d|2yf|-2d|p|Fondó de les Neus
+Houdemont|FR||9k|3r4|h6|o|Hondimont
+Honalo|US||ax|1ib|-c15|o
+Honoka‘a|US||ax|1js|-bzv|n|Honokaa
+Hồng Vân|VN||6h|19g|89k|l
+Hongyang|CN||7i|21p|97u|j|Hung-yang
+Hönigsberg|AT||a2|3o6|17g|i
+Hongor|MN|East Gobi Aymag|7s|3j8|8kw|i
+Honey Brook|US||48|33d|-5uv|i|Honeybrook
+Hồng Thượng|VN||6h|18z|89y|h
+Honey Grove|US||2f|2la|-7ef|h|Honeygrove
+Honrubia|ES||9d|321|-6c|h
+Honkajoki|FI||92|4s6|1pv|g
+Hồng Bắc|VN||6h|198|89q|f
+Homalin|MM||7y|1x3|7bn|f|Hônmalin;Hommalinn
+Honeyville|US||2p|37o|-8nc|f
+Hồng Kim|VN||6h|19e|89w|f
+Honaker|US||48|2uu|-6bp|e
+Honeybourne|GB||9b|40q|-53|e
+Hồng Hạ|VN||6h|19a|8a3|c
+Honey|MX||41|1k8|-7kt|b
+Hone|IT||9o|3ip|li|b
+Hồng Thái|VN||6h|18y|89t|b
+Hongtang|CN||7i|20f|977|b|Hung-t’ang
+Hondón de los Frailes|ES||9d|2yb|-2l|b|Fondó dels Frares;El Fondó dels Frares
+Hondelange|BE||8t|3tv|g7|a
+Hondeghem|FR||9k|3x0|70|a|Hondegem;Oundegem
+Honfleur|CA||59|3ll|-5gw|9
+Hönigthal|AT||a2|3ms|179|8|Hönigtal
+Hontheim|DE||8r|3v3|je|8
+Hondah|US||4i|2mp|-8hd|8
+Hon-Hergies|FR||9k|3vt|am|8
+Fontet|FR||9k|3fs|-3|8|Hontet
+Honoria|PE||3o|-od|-5rj|8
+Hontoria del Pinar|ES||9d|389|-8s|8
+Hondouville|FR||9k|3si|34|8
+Honnecourt-sur-Escaut|FR||9k|3uz|8w|8|Honnecourt-sur-l'Escaut
+Honorata|UA||98|3ou|29r|7|Gonorata
+Honguemare-Guenouville|FR||9k|3t5|29|7
+Hondainville|FR||9k|3t2|6e|6|Houdainville
+Honeymoon Bay|CA||5b|3rm|-9kx|6
+Hondol|RO||8u|3jr|1rv|6
+Honcharne|UA||9t|3fj|2lm|6
+Honeoye|US||48|3av|-5zc|6
+Hontanx|FR||9k|3dq|-r|6
+Hontiv Yar|UA||98|3ue|2qu|5|Gontov-Yar
+Honnechy|FR||9k|3v3|9n|5
+Honomu|US||ax|1j7|-byv|5
+Honduras de la Sierra|MX||41|17b|-74w|5|Honduras
+Honeywood|AU||8g|-3ap|bd4|5

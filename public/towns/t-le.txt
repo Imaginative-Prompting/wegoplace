@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Ningbo|CN||7i|2b0|9dn|ssg|Nèn-pô-sṳ;Ninh Ba;Lêng-pho-chhī;Ninbo;Nìng-pŏ̤;Ningpo
+León de los Aldama|MX||41|1mo|-7ug|c6u|León;Leon Guanajuato
+Liupanshui|CN||7i|21v|837|a6w|Lĕ̤k-buàng-cūi;Liou-pchan-šuej;Lục Bàn Thủy
+Longyan|CN||7i|1xn|912|7wr|Lṳ̀ng-ngàng;Lung-jen;Liùng-ngâm-sṳ;Longyen shehiri;Long Nham;Lêng-nâ-chhī;Lung-yen
+Laibin|CN||7i|1tz|8fe|70v|Lài-bĭng;Laj-pin;Lòi-pîn-sṳ;Lai Tân;Leizbingz;Lâi-pin-chhī;Lai-pin-chen;Laiping;Lai-pin
+Lviv|UA||98|3ug|1uq|5j9|Lemberg;Lwów;Leópolis;Lvov;Lavov;Leopoli;Lvovas;Ļvova;Liov;Lwiw;Lwif;Lemburg;İlbav;Ljviv;Leopul;Lembärsch;Liòpuli;Lwůw;Leopolo;Ilyvó;L'vov
+Leshan|CN||7i|2a4|808|544|Le-šan;Lạc Sơn;Lŏk-săng;Lo̍k-san-chhī;Lo-shan
+Leeds|GB||9b|45g|-4b|44z|Lidso;Lidsas;Līdsa;Ledesia;Lids;Loidis;Ritis
+Lyon|FR||9k|3j3|dh|40o|León do Roine;Lió;Liono;Lión;Lione;Lugdunum;Liona;Lionas;Lioni;Liyon;Liun
+Leipzig|DE||8r|3ym|yd|3wa|Lipsko;Lipcse;Lipsia;Leipcigas;Leipciga;Lipsk;Lipsca;Lajpcigu;Leypsiq;Lajpcik;Léypzig;Läipcig;Lipekika
+Loudi|CN||7i|251|8n3|3u4|Lâu Để;Lèu-dī;Lô͘-té-chhī;Lou-ti
+Liverpool|GB||9b|44d|-8a|3u0|Lerpwl;Liverpulo;Liverpulis;Liverpūle;Learpholl;Liwérpol;Poll a' Ghrùthain;Liverpul;Lerphoyll;Liverpuil;Liverpolium
+Lishui|CN|Zhejiang|7i|272|993|3he|Lisjui;Li-šuej;Lệ Thủy;Lâ̤-cūi;Lē-chúi-chhī
+Lekki|NG||u|hx|9o|33h
+Las Palmas de Gran Canaria|ES||83|262|-16u|2yj|Laspalmaso;Las Palmas;Kanaria Handiko Las Palmas;Les Palmes de Gran Canària;Laspalmasa;Palmas de Gran Canaria;Las Palmas de G.C.
+Leicester|GB||9b|428|-35|2ue|Caerlŷr;Lecestro;Lestera;Lesteris;Lester;Leicestria;Léyséstér;Leiscester
+Lexington|US|Kentucky|48|2xj|-6io|2gz|Lexintonia;Leksingtonas;Leksingtono;Leksinqton;Leksingtona
+Lexington-Fayette|US||48|2xp|-6im|2fd
+Lianshan|CN|Liaoning|7i|358|9bp|2f0|Lien-shan;Leinshan
+Rishon LeTsiyyon|IL||6n|2gt|2on|201|Rishon le Ziyon;Rishon le Siyon;Rishon Letsiyon;Rishon Lsiyon;Rishon Le Zion;Rischon LeZion;Riszon le-Cijjon;Rishon LeZion;Risjon Letsion;Riŝon-Le-Ciono;Rishon LeZiyyon;Richon le Sion
+Lijiang|CN||7i|22n|7qe|1mo|Lệ Giang;Liszyan;Li-ťiang;Lâ̤-gŏng;Lidziangas;Lē-kang-chhī;Li-chiang
+São Leopoldo|BR||4w|-2ao|-3y3|1m4
+Linz|AT||a2|3q7|13p|1kw|Linec;Lentia;Lincas;Linca
+Nicosia|CY||73|2pp|2kn|1jp|Lefkosía;Nikozio;Nikosia;Nicosie;Nikozija;Nikozja;Nikózia;Lefkoşa;Nikosija;Nikósie;An Leafcóis;Nikosiya;Nikozi;Nikosii;Nicoséa;Nėkosėjė;Nicusìa;Niqusya;Leucosia
+Lengshuijiang|CN||7i|24x|8lj|1j3|Lãnh Thủy Giang;Leng-shui-chiang
+Liège|BE||8t|3wn|fh|1i9|Lüttich;Lieja;Lieĝo;Liegi;Léck;Luuk;Luik;Lidje;Liex;Ljēža;Leodicum;Lutych;Leodium;Lježas;Ljež;Sùguru;Lēodic;Lige
+Leganés|ES||9d|341|-ag|1gc|Legamar
+Le Havre|FR||9k|3th|b|1fo|El Havre;Havro;La Havro;Hawr;Havre;Franciscopolis;An Havr Nevez;Le port de Grâce;An Havr-Nevez;O Havre;Havras;Havra;Havr
+Lembang|ID||6l|-ix|8ay|1ev
+Legaspi|PH||71|10i|9jq|1dv|Legazpi City;Legazpi
+Piraeus|GR||8p|2xe|1tp|19h|Piräus;El Pireo;El Pireu;Le Pirée;Pireus;Pireu;Pireja;Pireo;Pirėjas;Peiraiás;Pireusz;Pire;Peiraiéfs;Pireas;Pirej;Lo Pirèu;Il Pireo;O Pireo;Peiraiá;Peiraieus;Piraiévs;Peiraievs;Peiraeus
+Leverkusen|DE||8r|3xr|je|197|Lävverkuuse;Leverkūzene;Lėverkuzenas
+Livorno|IT||9o|3cy|sp|17m|Leghorn;Livourne;Liorna;Livornu;Levuorno;Labro;Livornas;Livorn
+Nek’emtē|ET||2|p8|2tj|17c|Lekemte;Nekempti;Nekempte;Nekemt
+Limassol|CY||73|2oc|2js|16s|Lemesós;Limasol;Limisso;Limasolo;Limasolis;Lemessus
+Médéa|DZ||3|2sq|7n|14e|Lemdiyyet;Medėja;Al-Madijja
+León|NI||3s|yk|-6pc|145

@@ -1,0 +1,119 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hamburg|DE||8r|44r|rr|f8b|Hamburk;Hamborg;Hanburgo;Hampuri;Hambourg;Amburgo;Amborg;Augusta Gambriviorum;Hambuurich;Hamburch;Amburgu;Hambörj;Hamboarch;Hamepuka;Hamburq;Gamburg
+Jamshedpur|IN||6t|1rc|6nf|ac2|Ĝamŝedpur;Dzsamsedpur;Cemşidpur;Džamšedpuras;Džamšedpura;Jamshidpur;Džamšedpur;Jarnshedpur
+Jamnagar|IN||6t|1qf|5en|4mx|Džamnagaras;Džāmnagara;Dzsámnagar;Ĝamnagar;Camnaqar;Džámnagar;Jamnogar
+Jammu|IN||6t|2iy|5ry|4g2|Džammú;Ĝamu;Džamu
+Hamilton|CA|Ontario|59|3c5|-65t|4e6|Gamilton
+Jiamusi|CN||7i|3m0|a1z|48n|Ťia-mu-s’;Gjamusi;Dziamusi;Giai Mộc Tư;Gă-mŭk-sṳ̆;Ka-bo̍k-su-chhī
+Gama|BR||4w|-18j|-3pj|12r
+Novo Gama|BR||4w|-18m|-3pg|tx
+Vasco da Gama|IN||6t|16s|5p2|rx|Vasco
+Gambēla|ET||2|mx|2o2|r4|Gambella;Gambeila
+Gambat|PK||6q|23z|5ac|q3|Gampat
+Gamboru|NG||u|yd|13h|nj|Gambaru
+Gamagōri|JP||7q|2or|al7|m9
+Gama|AO||x|-nt|11g|ie
+Gamping Lor|ID||6l|-lo|8ih|id
+Schwäbisch Gmünd|DE||8r|3rk|r8|h0|Gamundia;Švabijos Gmiundas
+Gamonal|ES|Castille and León|9d|39o|-a7|go
+Kamphaeng Phet|TH||62|19s|7og|gc|Kamfenq Pet;Gamphaeng Phet
+Gampengrejo|ID||6l|-lk|8n8|dn|Gampengredjo;Gampengredja
+Kokkola|FI||92|4xc|1s9|dg|Gamlakarleby;Carolina Vetus;Karleby;Kokola;Kokkol;Gamla-Karlabyu
+Gamboma|CG||a|-58|182|7f
+Gampola|LK||68|jw|67t|6r|Gambpola
+Gambiran Satu|ID||6l|-nb|8t3|69
+Gämi|TM||5x|2xb|4if|51|Geami;Gyami
+Gamla Uppsala|SE||9w|4me|1cz|50|Alt-Uppsala;Vanha Uppsala;Gamle Uppsala
+Gameleira|BR||4p|-nu|-2qb|4w|Camelleira;Gamelleira
+Ga-Malakhe|ZA||o|-2dl|2c9|4p
+Gammel Virum|DK||8y|4az|yn|46|Old Virum
+Gamdi|IN||6t|1qp|5mp|42
+Gamawa|NG||u|xp|ta|3r
+Gambissar|GM||7|110|-12r|3q|Gembissara
+Kannelmäki|FI||92|4nc|1x5|3p|Gamlas;Käkimäki;Kantsu
+Ngama|TD|Hadjer-Lamis|17|wr|1bo|3n|Gama
+Gamboula|CF||6|bg|162|3m|Gamoula
+Gamba|GA||v|-7d|rs|3i
+Gamarra|CO||27|n4|-5ou|3g
+Gamboa|BR||4w|-1rm|-3bz|36
+Jemappes|BE||8t|3w5|at|30|Djumappes;Djumape;Gamapium
+Gambettola|IT||9o|3ek|ya|2s
+Gampaha|LK||68|jp|667|2m|Qampaha;Gampacha
+Vanha munkkiniemi|FI||92|4n8|1x4|2l|Gamla munksnäs
+Gamō|JP||7q|2rn|asc|2l
+Gamay|PH||71|yf|9o2|2j
+Gamharia|IN|Madhya Pradesh|6t|1ua|62x|28
+Gambolò|IT||9o|3hq|om|27
+Gamhāria|IN|Jharkhand|6t|1rd|6n6|23|Gamaria
+Kambūt|LY||1d|2gm|1w0|1y|Kambot;Gambut
+Gambetta|FR||9k|3de|k5|1x
+Gammertingen|DE||8r|3q1|pm|1w
+Goa Velha|IN||6t|16w|5p9|1l|Old Goa;Goa Vieja;Oud Goa;Antiga Goa;Velha Goa;Gamle Goa;Stara Goa;Ó-Goa;Senoji Goa;Stare Goa
+Gamu|PH||71|1bd|9eg|1j
+Chambarak|AM||80|34s|3hz|1j|Čambarakas;Tjambarak;Ĝambarak;Tšambarak;Čambarak;Czambarak;Krasnoselsk;Mikhaylovka
+Camindangan|PH||71|rk|9gn|1f|Gamindangan;Camindagan
+Gamina|CI||0|jd|-ih|1e
+Gambo|CF||6|cx|1pu|1e
+Gammelstad|SE||9w|52c|1p5|1d
+Gameleiras|BR||4w|-15w|-3bs|1c|Gamelleiras;Gamelleira
+Vanha-Mankkaa|FI||92|4n7|1wu|1b|Gamla Mankans
+Gamovo|RU||7z|4gr|4bv|18
+Gambara|IT||9o|3hp|sl|15
+Gambsheim|FR||9k|3r9|lw|15|Gàmbse;Cambsheim
+Gamewell|US||48|2rn|-6ao|14
+Ga-Maotole|ZA||o|-1wd|2e3|12|Maotole
+Gamba|TZ||h|-ge|316|10
+Gamut|PH|Caraga|71|np|9qo|z|Ganut
+Gameleira de Goiás|BR||4w|-19t|-3r5|z
+Gambang|PH||71|1aj|9bi|y
+Gamlingay|GB||9b|40w|-j|w
+Gama|CI|Montagnes|0|l6|-le|v
+Gamaches|FR||9k|3uv|4c|v|Gamapium
+Gama|CI|Savanes District|0|p6|-ha|v
+Gámbara|MX||41|1gl|-7vn|u
+Gamla Stan|SE||9w|4kt|1e7|u|Tukholman vanha kaupunki;Tukholman vanhakaupunki
+Gams|CH||a7|3n4|q8|u
+Gambrills|US||48|30k|-5wy|s
+Vanha Ruskeasuo|FI||92|4n8|1x7|s|Gamla Brunakärr
+Gamleby|SE||9w|4gt|19l|s
+Gambellara|IT||9o|3ia|vi|q
+Gammad|PH||71|1d7|9e6|q
+Gambier|US||48|346|-6cw|o
+Gambalidio|PH||71|11u|9hd|n|Cambalidió
+Gamut|PH|Caraga|71|p0|9qh|m
+Gameren|NL||8m|3zw|eg|m
+Gambais|FR||9k|3rh|4n|m
+Gamyşlyja|TM||5x|2yn|462|l|Gamyshlyja
+Gaming|AT||a2|3p5|15x|l
+Gambassi Terme|IT||9o|3cy|uf|l
+Gambo|CA||50|3ri|-46l|k
+Gámeza|CO||27|g4|-5m9|h
+Gamprin|LI||a0|3n6|qf|h|Gambrin
+Gamlitz|AT||a2|3ls|177|g
+Gāmīshlī Yelqī|IR||7o|2ur|47j|f|Gomīshlī Yelqī
+Gammelsdorf|DE||8r|3qv|x7|f|Gamelsdorf
+Gammelshausen|DE||8r|3r4|qt|e
+Gampel|CH||a7|3ko|li|e
+Gamzali|AZ||61|35w|3os|e
+Vanhakartano|FI||92|4ne|1wq|d|Gammelgård;Gamski;Vanhis
+Gambatesa|IT||9o|37b|15f|c|Gambalesa
+Gambino|MX||3x|1z9|-8d3|c
+Gamasb|IR||7o|2mk|3qm|b|Gāmāsp
+Gambang|MY||6v|ab|7ye|a
+Gamonal|ES|Castille-La Mancha|9d|330|-ds|a
+Gamarde-les-Bains|FR||9k|3dh|-2f|a
+Kamand|IR||7o|2xv|3l2|9|Gamand;Gomand
+Gămăcești|RO||8u|3hp|1x9|9
+Vanhakaupunki|FI||92|4na|1xe|8|Gammelstaden;Gammeli;Gammelstad
+Gambulaga|IT||9o|3ga|wr|8
+Gámbita|CO||27|gj|-5nq|7
+Gamstädt|DE||8r|3xj|u9|7
+Gampelen|CH||a7|3ml|jm|7|Champion
+Gampern|AT||a2|3pb|11n|7
+Gambell|US||49|4x6|-d91|7|Chibukak;Tchibukak;Gambel
+Gardenstown|GB||9b|4g7|-6i|7|Gamraidh;Gamrie
+Gama|CO||27|d8|-5oh|6
+Gamlen|DE||8r|3vj|k0|6
+Gammelby|DE||8r|47e|r7|6
+Gamzigrad|RS||8q|3dz|1pm|5
+Gams bei Hieflau|AT||a2|3of|152|5

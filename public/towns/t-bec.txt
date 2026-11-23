@@ -1,0 +1,89 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vienna|AT||a2|3px|19h|d1v|Wien;Vídeň;Bécs;Vienne;Vieno;Viena;Vín;Vínarborg;Wiedeń;Beč;Viyana;Dunaj;Wenen;Viedeň;Vindobona;Viin;Fiena;Wean;Vyana;Wene;Vena;Veen;Vīne;Vjenna;Vjena;Wjedźyń;Viên
+Béchar|DZ||3|2fu|-66|19w|Wilaya de Beshar;Basyar;Bešaras;Baszszar;Bexar;Beşar
+Becontree|GB||9b|3z7|d|rs
+Zrenjanin|RS||8q|3i2|1km|m6|Nagybecskerek;Zrenianinas;Becicherecul Mare;Becicherecu Mare
+Beckenham|GB||9b|3yt|-3|gv
+Wiener Neustadt|AT||a2|3os|193|cg|Dunajsko Novo mesto;Viedenské Nové Mesto;Bécsújváros;Wr. Neustadt;Bécsújhely;Német-Újhely;Vyner Noištatas;Weana Neistod;Vídeňské Nové Město;Nova civitas Vindobonensis;Bečko Novo Mjesto
+Beckum|DE||8r|3zs|mc|ai|Biäkem;Bekemo
+Bečej|RS||8q|3iq|1jn|76|Óbecse;Becsej;Becse;Beçe
+Becerril|CO||27|qy|-5nk|5p
+Bécédi-Brignan|CI||0|gf|-b5|5n|Béssédi-Brignan;Bécédi-Mbrignan
+Bsharri|LB||64|2n5|2s1|5k|Bischarri;Bcharré;Bšari;Bişerri;Bšarré;Becharri;Bsherri;Besherri;Bcharreh;Basharrī;Bcharrī;Bisharri
+Beckley|US||48|2wy|-69j|4r
+Bechem|GH||1|jp|-5m|4q
+Beckingen|DE||8r|3t8|im|4g
+Beccles|GB||9b|41q|4c|3v
+Becharaji|IN||6t|1ta|5k4|3i
+Bécancour|CA||59|3kq|-5l7|33
+Beclean|RO|Bistrița-Năsăud County|8u|3n2|1v6|31
+Beccacivetta|IT||9o|3i0|ug|2w
+Bécouéfin|CI||0|i0|-ap|2u|Békouéfin;Bekuefin;Bécouéfi
+Bécédi|CI||0|fo|-cq|2n|Békédi
+Beckett Ridge|US||48|31b|-6ik|2k
+Beckenham|AU||8k|-2gy|8y4|22
+Bécal|MX||3z|1ks|-6y3|1t
+Becerril de la Sierra|ES||9d|354|-b3|1r
+Betxí|ES||9d|32x|-k|1n|Bechi
+Beceni|RO||8u|3i2|22e|1e
+Beckett|US||48|32f|-5tc|1c
+Becicherecu Mic|RO||8u|3jb|1mh|1c|Becicherecul-Mic
+Bechyně|CZ||9m|3sy|147|1c|Bechin;Beching;Pechin;Bechyn
+Becker|US||2f|3i3|-78s|1b
+Biecz|PL||a5|3u6|1n2|1a|Beča;Bjecz
+Bessan|FR||9k|3cg|9i|19|Beçan
+Bechet|RO||8u|3dm|1uk|12
+Pöchlarn|AT||a2|3px|169|z|Bechlarn
+Becerreá|ES||9d|3b2|-jw|y
+Beckenried|CH||a7|3mh|nk|v
+Bessines-sur-Gartempe|FR||9k|3k3|3t|s|Becinas
+Beselare|BE||8t|3x9|8e|q|Becelaere
+Beckdorf|DE||8r|44d|qp|p|Beekdörp
+Bécon-les-Granits|FR||9k|3ny|-28|p
+Beckenham|NZ||ak|-3d0|dbk|p
+Bečmen|RS||8q|3ge|1k5|p
+Becerril|PH||71|qt|9iv|o
+Bechhofen|DE||8r|3t3|kk|n
+Becsehely|HU||8v|3l1|1am|n
+Bečov|CZ||9m|3w5|124|l
+Besse-sur-Issole|FR||9k|3cf|h6|j|Beça;Bessa dIssòla
+Bechtheim|DE||8r|3u5|n1|j
+Becket|US||48|39l|-5n0|i
+Becanchén|MX|Yucatán|3z|1j7|-6vu|h
+Besse-et-Saint-Anastaise|FR||9k|3ig|85|g|Beça e Sant Anastasi;Bessa e Sant Anastasía;Bessa;Besse
+Beckedorf|DE||8r|41f|pw|g
+Beclean|RO|Brașov County|8u|3jb|1x8|f
+Bechtolsheim|DE||8r|3uc|mr|f
+Beciu|RO||8u|3e8|1wj|e
+Béclers|BE||8t|3wm|9q|e
+Bechlín|CZ||9m|3w2|13u|c
+Beckingham|GB||9b|44c|-2b|b
+Bechtsrieth|DE||8r|3tw|xx|b
+Becerril de Campos|ES||9d|38z|-cw|a
+Beckemeyer|US||2f|2z9|-6wg|a
+Bęczarka|PL||a5|3uk|1j7|a
+Becanchén|MX|Campeche|3z|1il|-6xn|a|Santa Rita
+Bečváry|CZ||9m|3us|15w|a
+Bečov nad Teplou|CZ||9m|3v4|zo|a
+Bechtelsville|US||48|345|-5u3|9
+Beckeln|DE||8r|42u|nu|9
+Bečići|ME||9l|39g|1gf|9|Bečić
+Beckington|GB||9b|3ye|-6d|8
+Beckville|US||2f|2hk|-7ae|8
+Bechinești|RO||8u|3gf|1zq|8|Becheineşti;Becheneştii;Beghineşti
+Pidvalne|UA||98|3pp|20n|7|Becești
+Bécherel|FR||9k|3q6|-5f|7|Begerel
+Beckermet|GB||9b|479|-9s|7
+Bech-Kleinmacher|LU||9c|3tl|ho|7|Bech-Maacher
+Beckerich|LU||9c|3u5|gc|7
+Becquincourt|FR||9k|3un|7u|7
+Becheln|DE||8r|3vp|lg|7
+Bekkerzeel|BE||8t|3xd|bs|7|Beckerzeel
+Bec-de-Mortagne|FR||9k|3u2|19|6
+Béceleuf|FR||9k|3l3|-1f|6
+Beseit / Beceite|ES||9d|35f|i|6|Beseit;Beceite
+Bechtsbüttel|DE||8r|41e|ta|6|Bechtbuettel;Becksbüttel
+Becheni|RO||8u|3nt|1qd|5
+Béchy|FR||9k|3s3|hq|5
+Bechijtic|MX||41|1am|-75h|5
+Bęczyn|PL||a5|3uq|1im|5

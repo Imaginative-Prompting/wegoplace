@@ -1,0 +1,8 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ciudad Nezahualcoyotl|MX||41|1hw|-7n1|8b8|Nezahualcóyotl;Nesahualkojotlis;Neza;Cd. Nezahualcóyotl;Cd. Neza;Ciudad Neza;Nezahualkojotlo;Netzahualcóyotl;Ciudad Netzahualcóyotl
+Ciudad Victoria|MX||44|1ty|-7ne|2k9|Cd. Victoria;Siudad Viktorija;Altepetl Victoria;Victoria llaqta;Victoria;Lungsod ng Victoria
+Ciudad Obregón|MX||37|24d|-8he|2ji|Cd Obregon;Cd. Obregon;Siudad Obregonas;Altepetl Obregón;Lungsod ng Obregón;Obregon
+Ciudad Madero|MX||44|1pt|-7js|1is|Cd Madero;Cd. Madero;Siudad Maderas
+Ciudad del Carmen|MX||3z|1ft|-733|1h4|Carmen;Cd Carmen;Cd. Carmen;Cd del Carmen;Cd. del Carmen;Altepetl Carmen
+Ciudad Guzmán|MX||41|1iq|-7ze|v4|Cd Guzman;Cd. Guzman;Altepetl Guzman
+C.da Ponticello|IT||9o|2xh|123|8

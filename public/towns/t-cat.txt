@@ -1,0 +1,221 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ho Chi Minh City|VN||6h|u2|887|301m|Thành phố Hồ Chí Minh;Hô Chi Minh Ville;Hô-Chi-Minh-Ville;Ho-Chi-Minh-Stadt;Ciudad Ho Chi Minh;Ho Chi Minh;Ho Či Minovo Město;Ho Chi Minh-byen;Ho-Ĉi-Min-urbo;Hồ Chí Minhin kaupunki;Cathair Ho Chi Minh;Ho Si Minh-város;Kota Hồ Chí Minh;Ho Chi Minh-borg;Hošimina;Ho Chi Minhstad;Cidade de Ho Chi Minh;Hočiminovo Mesto;Hošiminh;TPHCM;HCMV;Saïgon;Sài Gòn;Ho Chi Minh-staden;Ho Ši Min Grad;Sajgon;Ho Ši Min;Hoşimin;Sayqon;T.P. Hồ Chí Minh;TP Ho Chi Minh
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Algiers|DZ||3|2u1|8l|i8q|Alger;Argel;Alĝero;Algier;Aljir;Aljer;Algeirsborg;Algeri;Icosium;Alžyras;Alžír;Cäsair;Alžiir;Arjel;Algê;Cezayir;Alse;Zzayer;Argièr;Algír;Alje;Alžěr;Arhel;Alcher;Alxer;Alžīra;Alžīrs;Cathair na hAilgéire;Arxel;Jazoir
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Yekaterinburg|RU||7z|4dy|4oe|bjb|Ekaterinburg;Ekaterinburgo;Jekaterinburg;Ekaterinbourg;Catharinoburgum;Jekaterinburgas;Jekaterinburga;Jekaterinenburg;Jekaterynburg;Ekaterimburgo;Jekatyerinburg;Yekaterinburq
+Kathmandu|NP||6r|24y|6l0|b4n|Katmandú;Katmanduo;Katmandou;Catmandu;Kathmandau;Kathmandou;Katmandoe;Katemandu;Catmandum;Katmandó;Khatmandu
+Dnipro|UA||98|3qn|2pc|7h1|Dnjepropetrovsk;Dněpropetrovsk;Dniepropetrovskas;Dnjipropetrovsk;Dniepr;Dnyipro;Dnepr;Novyy Kodak;Katerynoslav;Novorosiynsk;Sicheslav;Dnjipro;Catherinoslav;Caterinoslavia
+Oklahoma City|US||2f|2qj|-7iw|597|Oklahomaurbo;Kota Oklahoma;Oklahoma Sitis;Maxepónoe;Oklahoma Ceety;Oklaxoma Shehiri;Lungsod ng Oklahoma;Oklahomasitija;Dinas Oklahoma;Oklahoma llaqta;Cathair Oklahoma;Oklahoma Siti;Oklahoma Sitės;Caayr Oklahoma;Kutha Oklahoma;Okla city;Oklahoma Shehri
+Cotonou|BJ||1b|hp|6q|58m|Kotonu;Cotonú;Kútọnu;Kotonuo;Kotonou;Catonou
+Calumbo|AO||x|-pf|11a|517|Kalumbo;Columbo;Catumbo
+Cotabato|PH||71|k2|9l5|2yi|Kotabato;Kota-Bato;Cottabato;Catabate;Catabato
+Bến Cát|VN||6h|uz|884|2ta
+Catania|IT||9o|2w5|15v|2ek|Katanio;Catane;Katania;Catina;Katānija
+Santa Catarina|MX|Nuevo León|44|1zb|-7r2|2ch
+Katowice|PL||a5|3vm|1gu|27q|Kattowitz;Katovice;katovitses;tcadrkatovitse;Katovicum;Katovicai;Katowihi;Katovitse;Katovîts;Katowicy;Khà-thok-vì-chṳ;Catowice
+Salt Lake City|US||2p|358|-8mt|1nv|Sallaga Urbo;Kota Salt Lake;Solt Leik Sitis;Thành phố Salt Lake;Civitas Lacus Salsi;Soltleiksitija;Salt Lake Ceety;Sol Lek Siti;Solt Leyk Siti;Lungsod ng Salt Lake;Solt Leik Sitės;Salt Lake;Cathair Salt Lake;Salt-Lejk-Siti;Solt Lejk Siti
+Chattanooga|US||48|2pd|-6kz|1eb|Čatanuga
+Catamarca|AR||1m|-273|-52r|187|Katamarka
+Chhatarpur|IN|Madhya Pradesh|6t|1x8|653|13h|Čatarpur;Chhattarpur;Chkatarpur;Chantarpur
+Catacamas|HN||56|159|-6ml|131
+St. Catharines|CA||59|3bx|-644|120|Sainte-Catharine;Sankta Katarino;Sent Katerinsas
+Kingston|CA|Ontario|59|3ev|-5wg|10t|Cataraqui
+Catchiungo|AO||x|-yx|193|xj|Cachiungo;Katchiungo
+Catanduva|BR||4w|-1mq|-3s1|x5
+Catalão|BR||4w|-1eh|-3p7|vs
+Caen|FR||9k|3sn|-10|uq|Kāna;Kanas;Can;Caðum;Cadomum;Quaam;Kadunum;Cham;Chaem;Chaam;Catomum;Cathim;Caon;Canz;Cahem;Caem;Cadumum;Caam
+Catbalogan|PH||71|wq|9mx|tz
+Catia La Mar|VE||2c|th|-567|to|Catia de la Mar
+Niagara Falls|CA||59|3bq|-63n|rq|Chutes Niagara;Niagara Akvofalo;Niagara Folsas;Cataratas del Niágara;Rhaeadr Niagara
+Catarman|PH|Eastern Visayas|71|yq|9m8|r5
+Catumbela|AO||x|-yj|11n|qe|Katumbela;Catumbella
+Chatham|GB||9b|3yq|1h|me|Čatamas
+Catanzaro|IT||9o|300|1a4|ly|Catanzaru;Catanzara
+Carlisle|GB||9b|48i|-86|lt|Caerliwelydd;Cathair Luail;Carliolum;Karlailas;Luel
+Cataguases|BR||4w|-1nf|-3am|if|Cataguazes
+Catacaos|PE||3o|-en|-684|fx
+Cathedral City|US||3p|2lu|-8zj|ey|Lungsod ng Cathedral
+Catalina Foothills|US||4i|2hq|-8k4|e4
+Catu|BR||20|-yb|-2ym|dd
+Catford|GB||9b|3yw|-2|ch
+Catonsville|US||48|313|-5x5|bk
+Çatalca|TR||94|36a|272|b1|Chatalja
+Catende|BR||4p|-o3|-2r8|97
+Catolé do Rocha|BR||2w|-hm|-2wv|8j|Catulé-do-Rocha
+Cát Bà|VN||6h|1ll|89d|8c|Cac Ba
+Cativá|PA||4g|q0|-65r|88
+Catabola|AO||x|-xr|1c0|80|Katabola
+Cataño|PR||4m|1f8|-53o|7t|Katano
+Catemaco|MX||41|1f6|-7c7|7o
+Catarroja|ES||9d|31g|-14|7i
+Catanauan|PH||71|11r|9fs|7g|Catanuan
+Cachan|FR||9k|3rk|6i|7d|Caticantus;Cachon
+Catandica|MZ||11|-1e6|2k5|77|Catambica
+Katrineholm|SE||9w|4jw|191|6h|Cathrineholm
+Catete|BR||4w|-1rp|-3by|67
+Caterham|GB||9b|3yg|-8|5u
+Catarina|BR||2w|-h1|-32s|5t
+Kirkintilloch|GB||9b|4be|-bj|5g|Cathair Cheann Tulaich;Kirkintillox;Cair Cheann Tulaich
+Chaville|FR||9k|3rl|63|57|Cativilla
+Catamayo|EC||33|-b3|-64g|56
+Cattolica|IT||9o|3e4|ze|4i
+Çat|TR|Erzurum|94|321|35u|4c
+Catriel|AR||1s|-2x8|-58b|48
+Carluke|GB||9b|4au|-an|3u|Cathair MoLuaig
+Catemu|CL||4u|-2in|-5hb|3p
+Catterick Garrison|GB||9b|472|-4s|3a
+Catacocha|EC||33|-b9|-659|31|Katakucha
+Catanduvas|BR|Santa Catarina|4w|-237|-3zi|2y
+Catunda|BR||2w|-cx|-33o|2w
+Chatteris|GB||9b|41q|5|2v|Čaterisas
+Catanduvas|BR|Paraná|4w|-1y0|-43o|2u
+Catió|GW||8|vc|-16d|2r
+Cataraqui Westbrook|CA||59|3ez|-5ws|2q
+Catarama|EC||33|-4d|-64r|2p
+Caturama|BR||20|-111|-39h|2g
+Cathcart|ZA||o|-2hq|23e|2g
+Catuípe|BR||4w|-26h|-461|2f|Cafuipe
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Catmon|PH|Central Visayas|71|ts|9kg|26
+Cataingan|PH||71|xc|9kf|26|Cataigan
+Catalina|US||4i|2ib|-8k4|24
+Cathedral|CA||4q|3w5|-82n|21
+Catoosa|US||2f|2sj|-7dz|1z
+Catuji|BR||4w|-1c2|-37c|1y
+Catiguá|BR||4w|-1mh|-3sa|1y
+Cateel|PH||71|ln|9r9|1u
+Catasauqua|US||48|34x|-5tn|1t|Catasaqua
+Westport|IE||8z|45g|-qg|1q|Cathair na Mart;Caair ny Mart
+Catral|ES||9d|2y0|-28|1p
+Tsentoroy|RU||9i|3bh|3ke|1l|Tsentoroj;Catanyh;Centaroy;Tsontoroy;Centoroj
+Cataraqui North|CA||59|3ey|-5wn|1k
+Catas Altas|BR||4w|-1jr|-3cl|1j|Cattas Altas
+Kotor|ME||9l|39u|1g5|1h|Cattaro;Cattoro
+Caturité|BR||2w|-km|-2s3|1h
+Caturaí|BR||4w|-19p|-3th|1g
+Cato Ridge|ZA||o|-2al|2cy|1g|Cato Bridge
+Catablan|PH||71|18e|9aq|1f
+Catuti|BR||4w|-16o|-3bc|1b
+Catubig|PH||71|yh|9nd|1b
+Katidtuan|PH||71|jz|9lc|1b|Catidtuan;Catictuan
+Cato|PH||71|180|994|19
+San Marino|SM||9q|3e2|yl|19|Saint-Marin;São Marino;San-Marino;San Marinas;Sità de San Marin;Ville de Saint-Marin;San Marins;Cathair San Mairíne;Sen Maren;Civitas Sancti Marini;Sanmarīno;Sant Marin;Sità ëd San Marin
+Catingueira|BR||2w|-jt|-2wh|19
+Catenanuova|IT||9o|2wd|14t|18
+Caticlan|PH||71|x5|9es|16|Ticlan
+Çatkaya|TR||94|36n|2sn|15
+Calipan|MX||41|1eu|-7hw|15|Catipan;Calipa;Caipan
+Katico|PH||71|is|9mh|13|Catico
+Cattolica Eraclea|IT||9o|2w0|117|13|Cattolica Eraclia;Catòlica Eraclìa
+Catskill|US||48|39a|-5p6|13
+Cotiporã|BR||4w|-28j|-3zm|12|Catiporã
+Catayauan|PH||71|1eg|9dx|12|Catayuan
+Catriló|AR||1s|-2t5|-4w6|11|Katrilo
+Căteasca|RO||8u|3gd|1xo|11
+Catarman|PH|Central Visayas|71|qo|9k2|11
+Ca' Tiepolo|IT||9o|3gv|ya|11
+Catabangan|PH||71|12k|9gq|11
+Catoira|ES||9d|3aj|-o8|z
+Catalina|RO||8u|3jp|20n|z
+Catolândia|BR||20|-y8|-3gm|y
+Catungawan Sur|PH||71|r6|9lr|x
+Çatalzeytin|TR||94|38j|2n2|x
+Caltabellotta|IT||9o|2we|10q|x|Cataviddotta
+Cataraqui River East|CA||59|3ex|-5we|x
+Çatax|AZ||61|355|3ik|w
+Catterick|GB||9b|472|-4j|w
+Catas Altas da Noruega|BR||4w|-1lh|-3cu|v|Cattas Altas de Noruega
+Catarina|GT||32|159|-73s|u
+Catazajá|MX||41|1d8|-73l|u
+Catmondaan|PH||71|tp|9kh|t
+Cătina|RO|Buzău County|8u|3hu|20x|r
+Caticugan|PH||71|pa|9ho|q
+Catarman|PH|Northern Mindanao|71|pd|9mc|p
+Caţa|RO||8u|3k0|1y7|p
+Catadau|ES||9d|313|-1l|p
+Catmon|PH|Eastern Visayas|71|w2|9ln|p
+Cathcart|US||3p|3ox|-9f6|p
+Cățelu|RO||8u|3fc|20u|o
+Cattenom|FR||9k|3t9|hc|o|Kattenhofen;Kettenuewen
+Caton|GB||9b|468|-7k|o
+Catarina|NI||3s|x3|-6n3|n
+Catungan|PH||71|tx|9ex|n
+Catalina|AU||8l|-2r9|bl6|n
+Catrine|GB||9b|4a6|-c1|m
+Caterman|PH||71|1bu|9ai|m|Catarman
+Cătina|RO|Cluj County|8u|3m5|1v6|m
+General Andrés Figueroa|MX||41|1ke|-7zt|m|Catarina Dos
+Catuday|PH||71|199|98t|l
+Catterall|GB||9b|45o|-7o|k
+Chorges|FR||9k|3fr|hg|k|Chaurjas;Caturigomagus;Chorge;Chorces
+Catlin|US||2f|33b|-6rm|k
+Catarino Rodríguez|MX||44|1x0|-7qo|j
+Catlettsburg|US||48|2yo|-6dg|i
+Cătămărești-Deal|RO||8u|3op|21w|i
+Catcliffe|GB||9b|44b|-3s|i
+Crail|GB||9b|4ca|-7b|h|Cathair Aile
+Catherine Field|AU||8l|-2mg|bmt|g
+Cato|US|Wisconsin|2f|3em|-6s2|f
+Catena|IT||9o|3ds|um|f
+Catawissa|US||48|35r|-5we|f
+Caherconlish|IE||8z|423|-nj|f|Cathair Chinn Lis
+Çatalçam|TR||94|2y3|2s8|e
+Catawba|US|South Carolina|48|2ot|-68r|d
+Cătina|RO|Prahova|8u|3h1|1zm|d
+Çatağıl|TR||94|2wp|2cf|d
+Catishtic|MX||41|1am|-75m|d
+Cataloi|RO||8u|3ha|27t|d|Kataloi
+Roussillon|FR|Provence-Alpes-Côte d'Azur|9k|3dy|ep|d|Rosellón;Rossiglione;Comtat del Rosselló;Rossilhão;Catalogna Nord
+Carmunnock|GB||9b|4az|-bs|d|Cathair Mhanach
+Čataj|SK||8s|3q3|1ck|c
+Catenoy|FR||9k|3t5|6z|c
+Catahoula|US||2f|2bx|-72r|b
+Catanele|RO||8u|3fa|1w8|b
+Cahersiveen|IE||8z|40b|-se|a|Cathair Saidhbhín;Kersivinas;Cahirciveen;Cahersween
+Čata|SK||8s|3p7|1ft|a
+Cát Cát|VN||62|1q1|80e|a
+Catus|FR||9k|3fs|3q|a
+Çatbahçe|TR||94|2xh|2z9|a
+Catalán del Refugio (Catalanes)|MX||41|1n8|-7ru|a
+Cattaraugus|US||48|39l|-633|9
+Catmis|MX||3z|1jg|-6v3|9|Calmis
+Çatalpınar|TR||94|2ub|2qt|9
+Calana|PE||3o|-1du|-5ez|9|Catana
+Catillon-sur-Sambre|FR||9k|3v3|a4|9
+Catí|ES||9d|34f|2|8
+Catalina|CA||50|3qs|-43g|8
+Catheys Valley|US||3p|2vz|-99m|8|Cathey's Valley
+Cattai|AU||8l|-2l7|bn7|8
+Cătunu|RO|Dâmbovița County|8u|3ga|1zx|8
+Çat|TR|Kocaeli|94|35r|2at|8
+Çamlıdere|TR|Aydın|94|2wh|26z|7|Çataldere
+Catignano|IT||9o|39n|12r|7
+Cătunu|RO|Prahova|8u|3gq|20m|7
+Catedral de Chiapas|MX||41|1cg|-776|7
+Cattenstedt|DE||8r|3zu|uh|7
+Blennerville|IE||8z|415|-r1|7|Cathair Uí Mhóráin
+Catache|PE||3o|-ij|-63j|7|Catachi
+Catllar|FR||9k|3af|6q|7|Catllà de Conflent;Catllà
+Catfield|GB||9b|42i|49|7
+Cattenières|FR||9k|3v9|99|7
+Catenay|FR||9k|3tj|3p|7
+Çamkalabak|TR||94|31r|20r|7|Çatpaoba
+Benito Juárez|MX|Jalisco|41|1kc|-7zs|6|Catarina Uno
+Cattle Creek|US||2p|31m|-89y|6|Béégashii Bikooh
+Cătămărești|RO||8u|3on|21t|6|Cătămărăşti
+Catsfield|GB||9b|3xe|19|6
+Catawba|US|North Carolina|48|2r7|-698|6
+Cataeggio|IT||9o|3kd|qs|6|Cattaeggio
+Cathan|US||3p|3pn|-9fo|6
+Coatzonco|MX||41|1mb|-7l2|5|Catzonco
+Catillon-Fumechon|FR||9k|3tk|6l|5
+Ccatca|PE||3o|-11t|-5is|5|Ccatsa;Catca
+Çatalözü|TR||94|2v2|36h|5
+Catsop|NL||8m|3xi|g1|5|Katsep
+Cathlamet|US||3p|3kc|-9iq|5|Katalamet;Cathlamah;Kathlamet
+Cătiașu|RO||8u|3i3|20v|5|Cătieaşul
+Catalan Bay|GI||90|2se|-eu|5|East Side
+Cato|US|New York|48|3bx|-5wp|5

@@ -1,0 +1,363 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Chattogram|BD||6a|1q2|733|u8y|Chittagong;Ćottogram;Čitagongas;Čitagonga;Chôţţogram;Çittaqonq;Čėtagons;Çitagong;Čattagrám;Ĉitagongo;Csittagong;Čitágáon
+Zaozhuang|CN||7i|2ou|92j|tr0|Cō̤-cŏng;Cao-čuang;Tảo Trang;Chó-chng-chhī
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Quanzhou|CN||7i|1x7|95f|bc4|Zayton;Chinchew;Chinchu;Čiuandžou;Chüenju shehiri;Čchüan-čou;Chhièn-chû-sṳ;Tuyền Châu;Ciòng-ciŭ;Quantsjou;Chôan-chiu-chhī;Ch’üan-chou
+Cheonan|KR||7h|2u9|9t7|530|Ch'ŏnan;Čchonan;Thiên-ôn-sṳ
+Jeonju|KR||7h|2ri|9t7|4xc|Chŏnju;Čondžu;Džondžu;Chunju;Chŏngju;Chenju;Jeon Ju
+Chongming|CN||7i|2fu|9e2|4x7
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Chợ Lớn|VN||6h|tv|88a|4bu|Sholon
+Cangzhou|CN||7i|2yf|90l|42l|Thương Châu;Canĝou;Cchang-čou;Cangzou;Chŏng-ciŭ;Chhong-chiu-chhī
+Zhoukou|CN||7i|2ld|8uh|3wc|Tsjoukou;Čou-kchou;Juko shehiri;Chu Khẩu;Ciŭ-kāu;Chiu-kháu-chhī;Chou-k’ou
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Zhangjiajie|CN||7i|28x|8iw|3eq|Čang-ťia-ťie;Chông-kâ-kie-sṳ;Trương Gia Giới;Diŏng-gă-gái
+Gujangbagh|CN||7t|2v3|661|35l|Ciudad de Jotán;Khotan;Hoten;Hotan;Xoten;Xotan;Chotan;Hotanas;Ho-t’ien;Gujiangbage
+Chongzuo|CN||7i|1q6|8a9|2yx
+Khorramshahr|IR||7o|2ck|3pu|2ju|Chorramschahr;Jorramchar;Koramsjar;Khorramxahr;Chorramšahr;Horamšaher;Choremšehras;Hürremşehr;Khoramshahr;Chorramszahr;Khurramshahr;Khorramchahre
+Chongjin|KP||7a|384|a0i|2iu|Ch’ŏngjin;Cshongdzsin;Čondžinas;Cheongjin;Čchongdžin;Ĉongĵin;Chonjin
+Cholula|MX||41|1gy|-7l2|29d|Čolula;Cholollan
+Çorum|TR||94|34n|2p3|22w|Chorum
+Chōfu|JP||7q|2r2|arn|1ve
+Chon Buri|TH||62|114|7si|1ow|Chor Buri;Cholburi;Chonburi
+Changam-ch’on|KP||7a|34t|9xq|1ll
+Çorlu|TR||94|36c|258|1ka|Çorum;Chorlu
+Khujand|TJ||6d|33w|5de|1h2|Chudschand;Hudžand;Khodjent;Choedzjand;Chudzjand;Xoʻjand;Chudžandas;Hucand;Khodyent;Hodjent;Khojend;Khudzhand;Khodzhent
+Choa Chu Kang New Town|SG||7j|3u|807|1g4
+Tacheng|CN||7t|3lv|6eg|18q|Chöchek;Tachen;Tancheng;Tahcheng
+Chom Thong|TH|Bangkok|62|120|7r4|17w
+Nong Chok|TH||62|12i|7s6|17n|Hnongchok
+Ch’ŏngdan-ŭp|KP||7a|2xh|9pu|13m|Ch’ongdan;Cheongda-eup
+Choloma|HN||56|17d|-6sb|12n
+Göttingen|DE||8r|3z5|rl|xx|Gotinga;Gottinga;Chöttingen;Getynga;Getingenas;Getingene;Goettingen
+Chơn Thành|VN||6h|vr|888|xn
+Chorzów|PL||a5|3vr|1gp|vi|Hožova;Chorzůw;Chožuvas;Cherzów
+Chóngfú|CN||7i|2ct|9aj|v5
+Choma|ZM||z|-1ap|22z|ri|Çoma
+Chomedey|CA||59|3ih|-5ov|q4
+Chauk|MM||7y|1m2|7be|p9|Čokas;Czauk;Chouk
+Chosica|PE||3o|-x6|-5x3|om
+Cottbus|DE||8r|3zs|13t|nk|Chóśebuz;Chociebuż;Choćebuz;Kotbusas;Cotbusium;Kotbusa;Chotěbuz;Kottbus
+Ciudad Choluteca|HN||56|10z|-6q6|l3|Choluteca
+Chokolivka|UA||98|3w2|2cl|kg
+Chopda|IN||6t|1n1|5t6|k8
+Shumen|BG||9v|3c7|22s|k3|Schumen;Šumen;Choumen;Sjumen;Şumnu;Shoumen
+Chokwé|MZ||11|-1w5|2jm|hp|Chokué
+La Chorrera|PA||4g|oo|-65m|h0|Chorrera
+Shuya|RU|Ivanovo Oblast|9i|4dx|36z|gv|Schuja;Ŝuja;Chouïa;Şuya;Xúia;Sjuja;Șuia;Szuja
+Chonglong|CN||7i|2aq|839|g8
+Choshi|JP||7q|2r9|av7|g8|Chosi
+Chornomors’k|UA||98|3km|2d6|g4|Chornomorsk;Čornomorsk;Tschornomorsk;Illitschiwsk;Illichivsk;Csornomorszk;Illicsivszk;Il’ichëvsk;Illichivs’k
+Chongwe|ZM||z|-16l|27o|fy
+Chortoq|UZ||7m|363|5ji|eu
+Cholet|FR||9k|3mq|-2g|es|Šolė;Cauletum
+Choudwar|IN||6t|1l2|6mo|eq
+Chautārā|NP||6r|256|6m3|e9|Choutarā
+Comal|ID||6l|-j7|8g9|e7|Chomal
+Chodov|CZ|Prague|9m|3v0|14a|dw
+Chong Nonsi|TH||62|121|7rb|df
+Chomutov|CZ||9m|3w6|11a|cy|Komotau
+Choibalsan|MN||7s|3pj|8u5|cg|Choybalsan;Bayan Tümen;Bajan Tumen;Čojbalsan;Çoybalsan;Bain Tumen;Bayn-Tumen;Choibolsan;Choybolsan;Pa-yin-t’u-men
+Chone|EC||33|-1y|-66h|cg|Čonė;Chuni
+Ch’ŏsal-li|KP||7a|31g|9on|c4|Ch’ŏsan-ni;Cheosalli
+Choornikkara|IN||6t|s1|5w2|c0
+Chongxing|CN|Ningxia|7i|2xn|87a|bg
+Cheorwon|KR||7h|2y5|9te|ba|Ch’ŏrwŏn;Cheolwan
+Choa Saidan Shah|PK||6q|2iw|5mr|b4|Choa Saidanshah
+Chojnice|PL||a5|456|1cs|as|Konitz;Chònice;Choinicės;Hojņice;Conitz
+Choi Wan|HK||6i|1q1|8t9|ao
+Chōrōd|IN||6t|wb|5tz|am
+Choisy-le-Roi|FR||9k|3rh|6q|9w
+Shumerlya|RU||9i|4a6|3kx|9s|Schumerlja;Ŝumerla;Šumerlja;Sjumerlja;Choumerlia;Sjoemerlja;Xúmerlia;Xumerlya;Šumerl;Szumerla
+Chorley|GB||9b|451|-7a|9f|Čorlis
+Chockli|IN||6t|wl|5tw|9d
+Chomphon|TH||62|12c|7rc|99
+Chocope|PE||3o|-ln|-642|90
+Cheongsong gun|KR||7h|2t7|9yi|8p|Ch'ŏngsong-gun
+Cholargós|GR||8p|2xk|1u4|8k|Holargos;Kholargós
+Chŏngju-si|KP||7a|329|9nt|83|Chŏngju-ŭp;Chŏngju;Jeongjusi
+Chodavaram|IN||6t|1dj|6ee|82
+Chortkiv|UA||98|3s6|1zo|7w|Czortków;Çortkiv;Csortkiv;Čortkiva;Tsjortkiv;Ciortkiv;Tschortkiw
+Chongkan|CN||7i|2bs|85d|7p
+Chorakhe Bua|TH||62|12g|7rh|7n
+Choi Wan Estate (I & II)|HK||6i|1q1|8t9|70
+Chios|GR||8p|2yl|20m|6o|Scio;Sakız;Chóra;Quíos;el Xiu;Khíos;Kástro;Hios;Chio;Xíos;Khóra;Kastron;Castro
+Chok Chai|TH||62|14x|7vt|6h|Choc Chai
+Tcholliré|CM||j|nc|13d|6g|Chollire;Choliré;Tcholéré;Tcholiré
+Chorwād|IN||6t|1mf|5f3|6b|Chorwar;Chorvad
+Sholavandan|IN||6t|ru|60k|6a|Cholavandān
+Charentsavan|AM||80|348|3g0|65|Ch’arents’avan;Tscharenzawan;Tšarentsavan;Čarencavanas;Tjarentsavan;Ĉarencavan;Tšharentshavan;Čarencawan;Çarentsavan;Charentsawan;Charencavan;Ch’arants’avan;Choentsavan
+Zhouzhuang|CN||7i|2eg|9bo|64|Chou-chuang
+Chotila|IN||6t|1qa|5hs|5y
+Chhor|PK||6q|1yv|5du|5w|Chor
+Chełmno|PL||a5|447|1f7|5q|Helmno;Kulmas;Kulm;Chôłmno
+Chorfa|DZ||3|2t1|c1|5q
+Zhuoshui|CN||7i|29e|8e5|5o|Cho-shui
+Chorozinho|BR||2w|-by|-2yy|5n
+Chodzież|PL||a5|438|1b0|5i|Hodzeža
+Chopera|ES||9d|347|-aa|5i
+Shusha|AZ||61|32g|3lv|5e|Szusza;Şuşa;Shushe;Şuşi;Choucha;Shushi
+Chopinzinho|BR||4w|-1zu|-41w|5c
+Choghādak|IR||7o|28j|3xs|57|Chaghādak;Chagbadak;Choqādak
+Chowchilla|US||3p|2v4|-9a2|55
+Shumikha|RU||7z|49f|4vt|55|Sjumikha;Choumikha;Šumicha;Sjoemicha;Şumixa;Ŝumiĥa;Schumicha
+El Chorrillo|PA||4g|ov|-64z|53|Chorrillo
+Chortiátis|GR||8p|34t|1s6|4z|Khortiátis;Chortiáti;Khortiátis i Thessaloníki
+Choi Hung Estate|HK||6i|1q2|8t9|4y
+Chon Daen|TH||62|18z|7s6|4w
+Kholmskiy|RU||9i|3gl|2yn|4v|Cholmskaja;Xolmskaya;Jolmskaya;Kholmskaia;Holmskaja;Kholmskaya
+Chongoyape|PE||3o|-ig|-64j|4h
+Choszczno|PL||a5|43p|16u|4d|Chòsczno;Hoščno
+Chokkanāthapuram|IN||6t|rr|5yw|4c
+Chełmża|PL||a5|43q|1fo|4a|Helmža;Chôłmżô
+Chom Bueng|TH||62|11u|7on|47|Chohm Boeng;Chom Bung
+Churhat|IN||6t|1vv|6av|46|Chorhāt
+Chowwara|IN||6t|s5|5w7|45
+Choi Hung|HK||6i|1q2|8t9|44
+Chota|PE||3o|-i7|-62h|3y
+Cholpon-Ata|KG||65|3ah|5y4|3y|Chalpan-Ata
+Chojnów|PL||a5|3yf|18a|3y|Haynau;Hojnova;Chojnůw;Hainovia
+Chopan|IN||6t|1w4|6em|3s
+Lazurnyi|UA|Donetsk|98|3rf|2wi|3r|Chornobyl
+Chongxing|CN|Chongqing|7i|2bc|8an|3n
+Choele Choel|AR||1s|-315|-52e|3m|Çoele Çoel
+Khoyniki|BY||9g|407|2ba|3m|Choiniki;Khoynki
+Chonchi|CL||4u|-3ae|-5oy|3m|Trongchü;Chonch
+Chodov|CZ|Carlsbad Region|9m|3vk|zf|3i
+Chợ Mới|VN|An Giang|6h|tb|84s|3h
+Chūndal|IN||6t|ti|5vd|3h|Choondal
+Chom Thong|TH|Chiang Mai|62|1f6|7m3|3h
+Choró|BR||2w|-dg|-30q|3g
+Choctaw|US|Oklahoma|2f|2qm|-7i7|3e
+Chongoroi|AO||x|-11p|12q|3c|Chingoroi
+Chorleywood|GB||9b|3zh|-1f|3b
+Qongkur|CN||7t|3po|6pz|3b|Chongqur;Chonghu'er
+Chos Malal|AR||1s|-2vu|-5f7|39|Čos Malalis;Ços Malal
+Khor|RU||7w|3p0|aew|37|Chor;Hor
+Chorrochó|BR||20|-oy|-30m|34|Chorochó
+Chornomorske|UA|Crimea|9t|3if|2iu|32|Ak-Mechet’;Chornomors’ke;Aqmeçit
+Choglamsar|IN||6t|2mr|5zj|30
+Chocamán|MX||41|1gt|-7hj|2z
+Mykonos|GR||8p|2w1|1yd|2z|Míkonos;Myconos;Chora;Miconos;Khóra
+Choyr|MN|Govĭ-Sumber|7s|3ks|8d0|2w|Çoyr
+Choyr|MN|Govĭ-Sumber|7s|3k5|8dt|2w|Choïr
+Chottanikkara|IN||6t|rm|5w6|2l
+Choix|MX||3x|227|-8cx|2l
+Chotěboř|CZ||9m|3u4|17j|2j|Hoteborža
+Chornobaivka|UA||98|3lq|2if|2i|Tsjornobajivka;Tschornobajiwka;Chornobayivka;Čornobajivka;Czornobajiwka;Čornobaïvka;Tšornobajivka;Txornobaivka;Çernobayevka;Ciornobaiivka;Chernovayevka;Chernobayevka;Chernoayevka
+Khodoriv|UA||98|3t9|1vj|2i|Chodorów;Chodoriw;Jódoriv;Hodoriv;Chodoriv;Hodoriva;Chodorov;Khodorov
+Khotyn|UA||98|3qr|21l|2h|Chocim;Chotyn;Ĥotin;Khotin;Chocimi csata
+Choceň|CZ||9m|3uw|192|2f|Hoceņa;Checeň
+Chop|UA||98|3qj|1po|2e|Ciop;Čop;Czop;Csap
+Chontaul|RU||9i|3ca|3m6|2a|Tsjontaul
+Chocianów|PL||a5|3yu|186|2a|Hocjanova
+Chūbīn Dar|IR||7o|2sn|3ur|29|Choobindar;Chundar;Jūbīn Dar
+Chorvátsky Grob|SK||8s|3pz|1c1|28|Horvátgurab;Horvatský Grob
+Honaz|TR||94|2ww|29b|28|Chonai
+Chorvátsky Grob - Čierna Voda|SK||8s|3py|1bv|27|Feketevízpuszta
+Chōnan|JP||7q|2qc|atk|25
+Khoni|GE||7n|39l|39u|25|Choni;Chonis;Honi;Joni;Xoni;Koni
+Chogoria|KE||16|-n|2wj|24
+Chocontá|CO||27|ea|-5op|24
+Chojna|PL||a5|434|143|22|Hojna;Czińsbarg
+Khoroshiv|UA||98|3wj|270|21|Choroschiw;Volodarsk-Volynskyï;Chorošiv;Horoşiv;Wołodarsk Wołyński;Volodarsk-Volînskîi;Khoroshov
+Chontalpa|MX||41|1d3|-77o|21
+Chuhal|IN||6t|2fr|5v1|21|Chohal
+Chornobay|UA||98|3tz|2hs|20|Tchornobaï
+Chornomorske|UA|Odesa|98|3le|2dx|1y
+Choozhal|IN||6t|n3|5y9|1w
+Cholapuram|IN|Tamil Nadu|6t|up|64l|1w
+Chong Chien Court - Wyler Gardens|HK||6i|1q0|8t7|1v
+Khorostkiv|UA||98|3sp|200|1v|Chorostków
+Cholapuram|IN|Tamil Nadu|6t|pz|5zh|1u
+Chorbogh|TJ||6d|31j|588|1s|Chorbog;Chorbok
+Chota Haibor|IN||6t|215|75h|1r
+Choiseul|LC||52|129|-4pl|1p|Choiseuil
+Cholul|MX||3z|1mg|-6ws|1n
+Karlino|PL||a5|464|184|1m|Chòrzelëno;Karlin
+Chorbane|TN||1e|2q1|sv|1l|Chourbane
+Chornukhyne|UA||98|3q8|2z0|1l|Chernukhino;Tschornuchyne;Čornuhine;Chornújine;Tšornuhhõne;Tsjornukhine;Czornuchyne;Cernuhîne;Tjornukhyne
+Chocznia|PL||a5|3uj|1i1|1j
+Shumsk|UA||98|3v8|20k|1j|Choumsk;Szumsk
+Choroszcz|PL||a5|43m|1rv|1i|Choroščas;Horošča
+Chŏng Kal|KH||78|12s|7zp|1i|Ghong Kal
+Chugānwān|IN||6t|2g3|5re|1i|Chogawan
+Chaupāran|IN||6t|1vr|6kt|1i|Choparan
+Chackbay|US||2f|2b0|-708|1g|Chockbay;Chagbay;Chackbe;Chicbay;Chackby;Chackbaie
+Cholīcheh|IR||7o|2hj|3wn|1d|Chelīcheh;Chelecheh
+Chorlton cum Hardy|GB||9b|44g|-6a|1b|Chorlton-cum-Hardy;Chorlton
+Cholul Cantón|MX||3z|1md|-6w1|1b|Cholul;San José Cholul
+Chocholá|MX||3z|1ln|-6xj|19
+Khorosheve|UA||98|3uh|2sn|18|Choroschewe;Xorosheve;Ĥoroŝeve;Khorocheve;Choroševe;Khoroshevo
+Kholmogory|RU||9i|4yf|37p|18|Cholmogory
+Choachí|CO||27|cl|-5pc|17
+Chob Ta Trav|KH||78|11v|80e|16
+Chornoye|RU||9i|4av|2xr|14|Chërnoye
+Kholm|RU|Novgorod Oblast|9i|4er|2em|14|Jolm;Xolm;Ĥolm;Chołm
+Choi Fai Estate|HK||6i|1q2|8ta|13
+Andros|GR||8p|2x4|1xa|13|Chóra
+Cholchol|CL||4u|-2z8|-5md|13
+Choisy-au-Bac|FR||9k|3tc|80|12
+Chhotedongar|IN||6t|1i1|69x|12|Chota Dongar;Chhota Dongar
+Chomon|IN||6t|2fb|5ue|11
+Chợ Rã|VN||6h|1qd|85m|11|Cho Ba
+Chornianka|UA||98|3ll|2ko|y|Chernyanka;Chornyanka
+Chociwel|PL||a5|44j|16l|x|Friwôłd;Hocivela
+Kholmy|UA||98|403|2ik|v|Cholmy;H’olmy;Xolmi;Holmı
+Chopwell|GB||9b|48k|-52|v
+Cholsey|GB||9b|3z9|-37|v
+Choppington|GB||9b|497|-4g|u
+Chowari|IN||6t|2i3|5v5|u|Chuari Khas
+Chocques|FR||9k|3we|75|u|Choques
+Chornoliztsi|UA||98|3rn|1x6|u
+Kholmske|UA||98|3j4|297|t|Jolmske;Selioglu;Cholmske
+Chobham|GB||9b|3yn|-1p|s
+Chorzele|PL||a5|43y|1m2|s|Hožele
+Choccolocco|US||2f|2li|-6m2|s
+Chornohuzy|UA||98|3q3|1y3|s|Chernoguzy;Chornoguzy
+Chongru|CN||7i|22v|995|s
+Chorna Tysa|UA||98|3q7|1vl|r
+Chomérac|FR||9k|3g7|cy|r|Chaumeirac;Chaumairac
+Chotěšov|CZ||9m|3tx|10o|r
+Chouani|KM||ac|-wu|3c9|q
+Chorin|DE||8r|42y|12j|q
+Chóra|GR|Peloponnese|8p|2ux|1oc|q|Ligoudista;Khóra i Messinía;Khóra;Lygudista;Ligoudhísta
+Kholodna Balka|UA||98|3lh|2cy|q|Holodna Balka;Chołodna Bałka;Jolodna Balka
+Chornomorka|UA||98|3lk|2fi|q|Chernomorka
+Choristí|GR||8p|369|1v9|p|Khoristí
+Chokurdakh|RU||6z|5g6|beu|p|Tsjokurdakh;Tschokurdach;Tšokurdah;Čokurdachas;Čokūrdāha;Csokurdah;Çokurdah;Txokurdakh;Čokurdach;Tšokurdahh;Czokurdach;Chakurdakh;Chekyrdakh
+Chornukhy|UA||98|3vn|2ji|p|Tchornoukhy;Tschornuchy;Čornuchy;Çornuhı;Czornuchy;Ciornuhî
+Chợ Mới|VN|Thai Nguyen|62|1os|85t|o
+Chornivka|UA||98|3qi|209|o|Cernăuca
+Chontla|MX||41|1n6|-7k0|n
+Chomonyn|UA||98|3qg|1qe|n|Csongor;Chomonin
+Czchów|PL||a5|3ug|1lg|n|Čhova
+Chornotysiv|UA||98|3pk|1s1|m|Feketeardó
+Chouzé-sur-Loire|FR||9k|3n8|c|m
+Chorna|UA||98|3oa|29i|m|Chërnaya;Cherna
+Cherna|UA||98|3pq|1sf|l|Chorna
+Chouteau|US||2f|2sj|-7cu|l|Choteau
+Chūrs|IR||7o|2zv|3h3|l|Chors
+Dniprovka|UA|Crimea|9t|3iz|2ng|l|Çoqraqlı Şeyh Eli;Vyselky;Chokrakly-Sheykh-Eli;Chokrakly-Sheikh-Eli;Sheikh-Eli;Sheykh-Eli
+Chorges|FR||9k|3fr|hg|k|Chaurjas;Caturigomagus;Chorge;Chorces
+Choghāmīsh|IR||7o|2hh|3qv|k|Choghā Mīsh
+Chowki Jamali|PK||6q|25u|58o|k
+Chozas de Abajo|ES||9d|3a3|-ft|k
+Chochkan|AM||80|36e|3gj|k
+Chaulnes|FR||9k|3ue|7s|k|Chonne
+Choya|RU||63|40h|6of|j|Tsjoja;Chaya
+Chozas de Canales|ES||9d|33e|-b8|j
+Chodecz|PL||a5|41l|1gv|j|Hodeča
+Shubranets|UA||98|3qg|1zx|j|Șubrănești;Choubranets
+Fotolívos|GR||8p|362|1ut|i|Chotolibos;Fotolívi
+Chouzy-sur-Cisse|FR||9k|3o1|3h|i
+Chodová Planá|CZ||9m|3ul|zd|i
+Chowplū|IR||7o|2tf|3mf|i|Choplū
+Chotoviny|CZ||9m|3tg|14s|i
+Chopovychi|UA||98|3x7|28f|i|Chapovichi;Chopovichi;Chepovichi;Tschopowytschi;Chopovich;Tchopovytchi;Čopovyči;Çopovıçi;Czopowyczi;Ciopovîci
+Chosto de los Jarros|MX||41|1j6|-7pj|i
+Bellegarde|FR|Centre-Val de Loire|9k|3pa|6r|h|Soisy;Soisy-aux-Loges;Choisy-aux-Loges
+Chocz|PL||a5|40e|1dn|h
+Choteau|US||2p|3ot|-8nm|h|Chouteau;Shouteau
+Chocholná-Velčice|SK||8s|3rr|1dv|g
+Chornobyl|UA||98|3yf|2by|g|Tschernobyl;Chernobil;Txernòbil;Chernobyl;Chornóbil;Černobyl;Tjernobyl;Ĉernobilo;Tchernobyl;Csernobil;Černobyl';Tsjernobyl;Czarnobyl;Cernobîl;Tšornobõl;Tšernobyl;Černobylis;Tsjornobyl;Chernobyl’
+Chotepe|HN||56|16u|-6se|g
+Choctaw Lake|US||48|330|-6fw|f
+Choisy|FR||9k|3jr|gu|f
+Chodel|PL||a5|3xz|1ph|f
+Chokhatauri|GE||7n|38q|39c|f|Ch'okhatauri;Chokhat’auri;Chakhatauri
+Chorotis|AR||1n|-25k|-4qk|e
+Chonhar|UA||98|3jv|2nz|e|Chongar
+Kholodne|UA||98|3pf|2xq|e|Sverdlove;Sverdlovo;Cholodne;Holodne
+Chotěbuz|CZ||9m|3u9|1fl|e|Kocobędz;Kozobentz;Kotzobenz
+Ch’ Ơm|VN||6h|17w|89z|e|Ch'ơm
+Chornoholova|UA||98|3rp|1qs|d|Cornoholovo;Chornogolovo;Chernogolova
+Chortomlyk|UA||98|3oa|2mu|d|Chortomlik;Čortomlyk;Çortomlık;Ciortomlîk
+Choczewo|PL||a5|482|1dp|d
+Chorna Hora|UA||98|3w1|2cv|d
+Choisy-en-Brie|FR||9k|3rg|8y|d
+Choroń|PL||a5|3ws|1hi|c
+Chóra|GR|North Aegean|8p|2wq|22q|c|Khóra
+Chonegal|MX||41|1fm|-7cz|c
+Chontalcoatlán|MX||41|1ft|-7ol|c|Chontalcuatlán
+Choulex|CH||a7|3ke|hb|c
+Choum|MR||19|1n6|-10b|c
+Saramej|AM||80|359|3eu|b|Chotur;Saramech
+Chornyi Potik|UA|Zakarpattia|98|3pu|1rm|b|Feketepatak;Chornyy Potik;Chornyy Potok
+Chūbar|IR|Gilan Province|7o|2v1|3ta|b|Chuber;Chobar
+Choisey|FR||9k|3mq|f6|a
+Chornyi Potik|UA|Zakarpattia|98|3qg|1rw|a|Chërnyy-Potok;Chornyy Potik;Chernyy Potok
+Chornorudka|UA||98|3ug|28q|a|Chernorudka
+Chotnyy Potik|UA||98|3qw|20c|a|Pârâul Negru;Tchornyï Potik
+Chotěvice|CZ||9m|3wc|17t|a
+Kostryna|UA||98|3ry|1qr|a|Csontos;Chontosh;Kostriny
+Chocerady|CZ||9m|3uj|154|a
+Choceń|PL||a5|41t|1gt|a
+Chowtāsh|IR||7o|2os|3q1|a|Chartāsh;Chootash;Chūtāsh
+Chornyy Ostriv|UA||98|3tj|22c|a|Tchornyï Ostriv;Chornyi Ostriv;Tschornyj Ostriw;Tjornyj Ostriv;Chorniy Ostriv;Černý Ostrov;Çornıy Ostriv;Czarny Ostrów
+Choudrant|US||2f|2id|-74z|a|Choudron
+Cholerzyn|PL||a5|3v2|1iw|9
+Choma|UA||98|3pq|1qv|9|Tiszacsoma
+Choltice|CZ||9m|3uv|17e|9|Choltitz
+Khorly|UA||98|3k0|2ki|9|Chorly;Khorli
+Chouilly|FR||9k|3s7|b5|9
+Cholewiana Góra|PL||a5|3vv|1pc|9
+Chozeau|FR||9k|3iy|eg|9
+Choctaw|US|Louisiana|2f|2aw|-6zx|9
+Chojno|PL||a5|3zf|1b9|9
+Chotyně|CZ||9m|3x8|15b|9
+Chornice|CZ||9m|3tz|1ai|8
+Chotětov|CZ||9m|3vu|154|8
+Chodów|PL||a5|415|1gt|8
+Chongos Alto|PE||3o|-y7|-5t5|8
+Chocowinity|US||48|2qn|-5y6|8|Chockowinity
+Chomoni|KM||ac|-wc|3cj|8
+Chorkówka|PL||a5|3tx|1o7|8
+Chotíkov|CZ||9m|3ub|110|8
+Choungui|YT||ah|-100|3hd|8
+Chota Bālihāra|BD||6a|1zk|6tq|7
+Chooz|FR||9k|3v6|dd|7|Tchô
+Chouppes|FR||9k|3m1|g|7
+Chosgón|PE||3o|-gh|-60p|7
+Chojata|PE||3o|-19j|-5gh|7|Choiata
+Choapa|MX||41|1g2|-7hc|7
+Choritiro|MX||41|1ht|-7wf|7
+Chorýgio|GR||8p|35w|1r5|7|Chorygi;Chorigi
+Choryně|CZ||9m|3ti|1dq|7
+Chortoryya|UA||98|3qd|1z1|7|Tchortoryïa;Ciortoria
+Chornozemne|UA||98|3ly|2or|7
+Chotusice|CZ||9m|3ur|16r|7|Chotusitz
+Chodov|CZ|Plzeň Region|9m|3ta|zn|7
+Choratan|AM||80|35i|3id|7|Çoratan;Charatan;Charetan;Choratlu;Chortan;Chortanshen
+Cholina|CZ||9m|3ty|1bd|7
+Shostakove|UA||98|3n6|2g4|7|Chostakové
+Choccecancha|PE||3o|-120|-5ni|6
+Chomutice|CZ||9m|3vw|172|6|Chomutitz
+Chohodarivka|UA||98|3nl|2bj|6
+Chodouny|CZ||9m|3w7|13l|6
+Ichocán|PE||3o|-kh|-611|6|Chocan
+Chorrerón|CU||36|1qm|-65f|6
+Choustníkovo Hradiště|CZ||9m|3w3|184|6
+Choquecancha|PE||3o|-107|-5k3|6
+Chorohui|MX||3x|1yw|-8da|6
+Chochoh|MX||3z|1mb|-6wj|6|Chochó;Chochón
+Choue|FR||9k|3pc|2l|6
+Choisel|FR||9k|3r9|5m|6
+Chovno-Fedorivka|UA||98|3uw|2nn|6|Chelno-Fëdorovka
+Chožov|CZ||9m|3w0|12i|6
+Xuchiatipa|MX||41|1me|-7mv|6|Chotipa;Xochiatipa;Xochiatipan
+Cholupice|CZ||9m|3uv|145|6|Cholupitz
+Chojchow|MX||41|1az|-74k|6
+Chorio|IT||9o|2xj|17x|5|Ghorio
+Chorbivka|UA||98|3sp|2nd|5|Chorbovka
+Chorey-les-Beaune|FR||9k|3mp|dj|5
+Choirokoitía|CY||73|2oo|2km|5
+Chotylub|PL||a5|3vk|1sj|5
+Chocenice|CZ||9m|3tn|11k|5
+Choustník|CZ||9m|3t1|158|5|Chausnik
+Chomelix|FR||9k|3hq|an|5
+Choňkovce|SK||8s|3ri|1ps|5
+Chorteró|GR||8p|36i|1sx|5|Khorteró;Khorterón
+Chornohirka|UA||98|3mo|2dr|5
+Choipa|MX||3x|1z7|-8cv|5

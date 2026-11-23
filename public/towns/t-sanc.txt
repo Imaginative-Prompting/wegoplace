@@ -1,0 +1,292 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Shanghai|CN||7i|2eq|9de|5bxl|Xangai;Šanghaj;Ŝanhajo;Sjanghæ;Šanchajus;Šanhaja;Sjanghai;Szanghaj;Şanghay;Thượng Hải;Şangay;Schanghai;Şanxay;Shang-hai;Šangaj;Shangai;Seung hoi;Sheung Hoi;Gaa Ding;Ka Ting;Shanxay
+Sydney|AU||8l|-2m3|bo1|17ic|Sidnejo;Sidney;Sidnėjus;Sydneium;Sidneja;Sanctus Dionysius;Syd;Sidni;Sėdniejos;Sit-nì;Sék-nà̤;Sidnei
+Santiago|CL||4u|-2ky|-5g9|11bp|Sanctiacobi;Čilės Santjagas;Santjago
+San Antonio|US|Texas|2f|29q|-7ll|bs3|Sanctus Antonius;Sanantonio;San Antonijus;San-Antonio;San Antoniyo
+San Jose|US|California|3p|2vq|-9el|7p2|San-Joseo;San Chozė;Iosephopolis;San Xosé;Sanhosē;San-Xose
+San Miguel de Tucumán|AR||1v|-22i|-515|48h|Tucumán;Tukumanas;Sanctus Michael Tucumanensis;San Migel De Tukuman
+Sancaktepe|TR||94|35w|297|3s2
+San Juan|PR||4m|1fb|-53n|385|San Chuanas;San Xoán;San-Juano;Sanhuana;San Xuan;San Huan
+San José|CR|San José|2i|rl|-6hk|2l2|San-Joseo;San Chosė;San Jusiy;San Jozé;San Xosé;San-Xose;Sanhosē;Urbs Sancti Iosephi in Costarica;San Hose
+Soledad de Graciano Sánchez|MX||41|1pn|-7se|2k9
+San Cristóbal|VE||2c|ll|-5ko|28j|San Kristobalis;San Kristobal;San-Kristobal
+San Salvador de Jujuy|AR||1o|-1v7|-51d|1zo|San Salvador de Chuchujus;Sanctus Salvator Soteriae
+Santiago del Estero|AR||1n|-258|-4yi|1y2|Santjago del Esteras;Sanctus Iacobus ad Uligines
+San Cristóbal de las Casas|MX||3z|1ah|-75c|1nz|San Cristóbal;San Cristóbal las Casas
+Santa Cruz de Tenerife|ES||83|273|-195|1mq|Tenerife;Teneriffa;Santakrusa de Tenerife;Santa Cruz Tenerifekoa;Sancta Crux Nivariae;Santa Kruz de Tenerife;Tenerifės Santa Krusas
+Saint-Étienne|FR||9k|3i7|c7|1cz|Sankta-Stefano;Sant-Etiève;Sent Etjenas;Sentetjēna;Sanctus Stephanus de Furano;Sant Estève;Sent-Etyen;Sainté;St Étienne;Sankta-Etjeno
+San Luis|AR||1u|-2kh|-548|1b7|Sanctus Ludovicus
+San Cristóbal|DO||4v|1f6|-5er|16s
+Sancti Spíritus|CU||36|1ox|-64o|zb|Sankti Spiritus
+San Carlos del Zulia|VE||2c|p0|-5jt|z4
+San Carlos|VE||2c|qu|-5aj|xg|San Karlosas;San-Karlos
+St. John's|CA||50|3o4|-42f|up|Saint John's;St Johns;San Juan de Terranova;Baile Naoimh Eòin;Baile Sheáin;Sent Džonsas;Sanctus Ioannes Terrae Novae;Saint John;Saint-Jean de Terre-Neuve;Saint-Jean;Sent-Jons;Sent-Cons
+San Juan|AR||1t|-2fm|-5ad|ub|San Chuanas;Sanctus Ioannes a Cuio
+Santa Rosa|AR|La Pampa|1s|-2tq|-4yl|sl|Sancta Rosa
+San Chaung|MM||7y|1bi|7ey|ro|Sanchaung
+Saint-Denis|FR||9k|3ry|6j|qp|Sanctus Dionysius;Sen Deni;Sendenī;Sen-Deni
+San Carlos de Bariloche|AR||1s|-36b|-5i3|qi|Bariloche;San Karlos de Bariločė;Bariloĉe
+Santa Monica|US||3p|2mi|-955|pw|Sancta Monica;Santa Monika;Santamonika;Santa-Monika
+Santa Fe|US|New Mexico|2p|2r5|-86a|ob|Yootó;Sanctae Fidei fanum;Santafē;Yoo'to
+San Sebastián de los Reyes|ES||9d|34o|-a3|l3|Sanse;S.S. de los Reyes;SS de los Reyes;Sanctus Sebastianus Regum;San Sebastian de los Rejesas
+Sankt Gallen|CH||a7|3nq|q1|l2|St. Gallen;Saint-Gall;San Galo;Sankt-Galo;San Gallo;Sanctogallum;San Gallu;Son Gagl;Saint Gallen;Sogn Gagl;Sanggale;Sankt Qallen
+San Carlo All'Arena|IT||9o|35j|13m|j7
+Sanchazi|CN||7i|38w|9ro|ii|San-ch’a-tzu;San-ch’a-tze
+San Clemente|US||3p|2kv|-92p|i7
+San Cristobal|CU||36|1r4|-6eq|gk
+Sanchuan|CN||7i|22b|7rm|fn
+Sanzhuang|CN||7i|2qm|971|ei|San-chuang
+Saint Croix|VI||53|1d9|-4zv|e2|St Croix;Santa Cruz;Sainte-Croix;Sancta Crux;Sanct Croix;Sainte Croix
+San Gil|CO||27|i8|-5n6|cu|San Chilis
+Santyoku|KR||7h|2w0|9yt|bp|Samcheok;Sanchoku;Samch’ŏk
+Saint-Germain-en-Laye|FR||9k|3ru|5t|bf|Sanctus Germanus in Laya;Saint Germain en Laye
+Sanjiang|CN||7i|28e|88f|b2|San-chiang
+San Clemente|CL||4u|-2qq|-5il|az
+San Juan|US|Texas|2f|20r|-7ko|a6|San Chuanas;Sanhuana
+San José de Mayo|UY||45|-2ne|-4dj|9z|San Chose de Majas
+Sanjiao|CN|Chongqing|7i|28p|88i|9v|San-chiao
+Sānchor|IN||6t|1wr|5jd|95
+Saint-Dizier|FR||9k|3r4|dr|8v|Sanctus Desiderius
+San Carlos de Bolívar|AR||1l|-2sn|-4ps|8s|San Karlos de Bolivar
+San Carlos|CL||4u|-2t6|-5jw|8r
+San Carlos|US|California|3p|2w7|-9fm|8b|Sankta Karolo
+Saint-Cloud|FR||9k|3rp|64|80|Sanctus Clodoaldus;Sen Klu;Senklū
+Sanctorum|MX|Puebla|41|1h2|-7kx|7r|Sanctorium
+San Carlos|UY||45|-2on|-48k|7n|San Karlosas;Sankarlosa
+Sanchez-Mira|PH||71|1fk|9cr|7b
+Sanchaba|GM||7|11a|-1af|6z
+Saint-Dié-des-Vosges|FR||9k|3q4|jb|6u|Sen-Dye-de-Voj;Sanctus Deodatus;Sendjēdevoža;Vogėzų Sen Djė;Saint-Dié
+San Carlos|CO|Córdoba|27|og|-5ua|6j
+San Cataldo|IT|Sicily|9o|2w4|12v|65|San Cataldu
+Sancoale|IN||6t|16q|5pa|63
+Saint-Mandé|FR||9k|3ro|6q|5x|Sanctus Mandetus;Sant Manden
+San Cristóbal Verapaz|GT||32|16p|-6zc|5h
+San Cristobal|ES||9d|342|-a9|4t
+Sant Celoni|ES||9d|37t|6x|4p|San Celoni
+San Carlos Park|US||48|21j|-6b8|4o
+San Clemente|PE||3o|-11z|-5vj|4e
+Sant Carles de la Ràpita|ES||9d|34u|1o|4b|San Carlos des la Rapida
+San Carlos|CO|Antioquia|27|ln|-5rp|41
+San Cristóbal|AR||1n|-2c7|-4q3|3z|San Kristobal
+San José de Jáchal|AR||1t|-2c0|-5az|3u|San Chose de Chačalis;San Xose de Jachal
+San Carlos|AR|Mendoza|1q|-2lt|-5bs|3t
+San Carlos|DO||4v|1fc|-5e5|3r
+San Carlos|NI||3s|ux|-6ji|3r|San Karlosas;San Karlos
+San Cipriano d'Aversa|IT||9o|35w|139|3q
+Sancang|CN||7i|2jp|840|3k
+San Carlos de Guaroa|CO||27|ab|-5ng|37|San Carlos de Guarda
+Sánchez|DO||4v|1hf|-5dd|36
+Sanjiaocheng|CN||7i|2uh|7sk|34|San-chiao-ch’eng
+San Clemente del Tuyú|AR||1l|-2sz|-4dl|34
+San Cesareo|IT||9o|386|zk|2x
+San Carlos Centro|AR||1n|-2g5|-4pp|2x
+Saint-Brevin-les-Pins|FR||9k|3n9|-61|2w|Sant-Brewenn;Sanctus Brevenus
+San Cristóbal Cucho|GT||32|15f|-72y|2k
+Saint-Jacques-de-la-Lande|FR||9k|3pi|-4s|2d|Sant-Jakez-Al-Lann;Sanctus Iacobus de Landis
+Sānchi|IN||6t|1t9|5zy|2c
+Basse-Goulaine|FR||9k|3n6|-43|2a|Goueled-Goulen;Sanctus Bricius de Golena
+Saint-Paul-Trois-Châteaux|FR||9k|3f7|d8|28|Sant Paul de Tricastin;Sanctus Paulus Tricastinorum;Sant Pau de Tricastin
+Sanclerlândia|BR||4w|-190|-3vr|27
+San Carlos|CO|Antioquia|27|h7|-5sb|25
+San Cesario di Lecce|IT||9o|33y|1eg|1y
+San Ciro de Acosta|MX||41|1o5|-7pa|1y
+Sanctuary Point|AU||8l|-2pi|bmf|1y
+San Colombano al Lambro|IT||9o|3hi|qd|1x
+San Carlos Sija|GT||32|15m|-72b|1w
+Saint-Étienne-de-Montluc|FR||9k|3nc|-4y|1w|Sant-Stefan-Brengoloù;Sanctus Stephanus de Monteluci
+San Clemente|ES||9d|31g|-6r|1w
+Saint-Julien-de-Concelles|FR||9k|3n9|-3v|1w|Sant-Juluan-Kankell;Sanctus Iulianus de Concellis
+Saint-Philbert-de-Grand-Lieu|FR||9k|3mo|-4k|1w|Sant-Filberzh-Deaz;Saint Philbert de Grand-Lieu;Sanctus Philibertus de Grandi Lacu
+San Cristóbal Nexquipayac|MX||41|1ie|-7mt|1v
+San Zenón|CO||27|po|-5qy|1t|San Cenon
+San Casciano in Val di Pesa|IT||9o|3da|v2|1q|San Casciano Val di Pesa
+Sâncraiu de Mureş|RO||8u|3lb|1w5|1q|Maros Szent Király;Sâncraiul-de-Mures;Marosszentkiràly
+Sâncrăieni|RO||8u|3kn|1zs|1p|Csikszentkiràly;Sâncráiem;Sâncrăeni;Sîncrăieni
+Svätý Jur|SK||8s|3q1|1bu|1o|Szentgyörgy;Sankt Georgen;Sanct Georgius;Sveti Jur
+Sanchursk|RU||97|4e6|3n9|1j|Santsjursk
+Puerto San Carlos|MX||3x|1wv|-8nf|1j|San Carlos
+Saint-Pourçain-sur-Sioule|FR||9k|3kn|95|1j|Sant Porçanh de Siula;Sanctus Portianus
+Haute-Goulaine|FR||9k|3n4|-3z|1h|Gorre-Goulen;Sancta Radegundis de Golena
+Sainte-Menehould|FR||9k|3sd|dm|1g|Sancta Manechildis
+San Cipirello|IT||9o|2xg|10m|1f|San Ciupirreddu
+San Clemente|MX|Querétaro|41|1kz|-7q1|1d
+San Cristóbal|CO||27|rg|-5t1|1b
+Sanctórum|MX|Tlaxcala|41|1i5|-7lj|1b|Sanctorium
+San Carlos|PH|Calabarzon|71|12g|9cs|1a
+San Cristóbal|MX|Guanajuato|41|1le|-7tw|18
+San Cosme|AR||1n|-241|-4ij|18
+San Cayetano|MX|Nayarit|3x|1nl|-835|17
+San Cristóbal Totonicapán|GT||32|15g|-720|16
+San Carlos|BO||3n|-1cc|-4x1|16
+San Carlo-Condofuri Marina|IT||9o|2xd|183|16
+San Carlos|US|Arizona|4i|2kn|-8mp|15
+San Cristóbal Amatlán|MX||41|19c|-7ft|15
+San Carlos|US|Arizona|4i|2kn|-8iu|14|Sengaa
+Saint-Méen-le-Grand|FR||9k|3pv|-63|14|Sant-Meven;Sanctus Mevennus;Saint-Méen
+Saint-Père-en-Retz|FR||9k|3n5|-5o|13|Sant-Pêr-Raez;Sanctus Petrus
+Sainte-Pazanne|FR||9k|3mu|-51|11|Santez-Pezhenn;Sancta Pisenia
+San Calogero|IT||9o|2z5|18i|10|Fanum Sancti Calogeris;Santu Calòjaru
+Sancoins|FR||9k|3m3|84|10
+San Carlos|CO|Córdoba|27|oa|-5ub|y
+San Carlos|AR|Corrientes|1n|-253|-4ba|y
+San Cristobal|PH||71|177|9bh|w
+Sant Carles de Peralta|ES||9d|30f|4d|w|San Carlos
+San Cesario sul Panaro|IT||9o|3fs|uo|w
+San Carlos|PH|Northern Mindanao|71|m4|9ng|w
+San Carlos|US|Texas|2f|212|-7kf|v
+San Carlos|AR|Salta|1s|-1zx|-535|v|San Karlos
+San Clemente|PH||71|17n|9ac|u
+San Carlo Canavese|IT||9o|3ho|l5|u
+Saint-Molf|FR||9k|3nn|-6r|t|Sant-Molf;Sanctus Madulfus
+San Casimiro|PH||71|177|9bi|s
+Sâncel|RO||8u|3kc|1uj|r|Sîncel
+San Cono|IT||9o|2vl|13x|r|Santu Conu
+Sanchakou|CN||7i|32i|91w|q
+San Carlos|PH|Central Luzon|71|15s|9bg|q
+Saint-Brice-en-Coglès|FR||9k|3qh|-3t|q|Sant-Brizh-Gougleiz;Sanctus Bricius de Coglesio
+San Carlos|PH|Central Luzon|71|176|9bt|p
+San Cristóbal|MX|Guanajuato|41|1ma|-7ui|p
+San Cipriano Picentino|IT||9o|354|15b|p
+San Cristóbal de Segovia|ES||9d|35r|-bc|o
+Sancha|CN||7i|2o3|808|o
+San Cosme Atlamaxac|MX||41|1hg|-7kv|o
+San Candido|IT||9o|3lt|y4|n|Innichen;India
+San Carlos|MX|Sonora|37|25o|-8kg|n
+San Cosme y Damián|PY||1y|-23w|-4ch|m
+San Celestio|PH||71|12p|9cr|m|San Celestino
+San Ciro-Ulmi-Filci|IT||9o|2x3|zi|m
+San Quirino|IT||9o|3jv|z8|m|San Cuarin
+San Costanzo|IT||9o|3dl|10b|m
+San Cristóbal Acasaguastlán|GT||32|15g|-6xn|m
+San Cristóbal Zapotitlán|MX||41|1k7|-7z5|l
+San Costantino Calabro|IT||9o|2zb|18o|l
+San Calixto|CO||27|nc|-5nd|l
+San Cassiano|IT|Apulia|9o|33a|1ex|l
+San Cipriano-S.Barbara-Centinale|IT||9o|3d1|vw|k
+Saint-Herblon|FR||9k|3np|-32|k|Sant-Ervlon-ar-Roz;Sanctus Hermelandus
+Saint-Briac-sur-Mer|FR||9k|3r2|-5x|j|Sant-Briag;Sanctus Briacus;Saint-Briac
+San Carlos|MX|Puebla|41|1i0|-7jd|j
+San Carlo|IT|Emilia-Romagna|9o|3gg|vp|j
+Sancé|FR||9k|3kq|df|i
+Saint-Georges-de-Reintembault|FR||9k|3qr|-3g|i|Sant-Jord-Restembaod;Sanctus Georgius Renistembaldi
+Sancerre|FR||9k|3nh|7v|i
+Saint-Geniès-de-Comolas|FR||9k|3ee|d4|i|Sent Genièis de Comolaç;Sanctus Genesius de Comolacio
+San Cayetano|MX|Chiapas|41|1b4|-75o|i
+Sâncraiu|RO||8u|3m3|1ru|i|Kalotaszentkirály;Sâncrai;Sîncraiu
+Sanchahe|CN||7i|276|87n|i|San-ch’a
+San Canzian d'Isonzo|IT||9o|3j8|11f|h
+Saint-Jacut-les-Pins|FR||9k|3oh|-65|h|Sant-Yagu-ar-Bineg;Sanctus Iacutus Pinis
+San Cristóbal de Entreviñas|ES||9d|38t|-fn|g
+San Caralampio|MX|Chiapas|41|17z|-73o|g
+Saint-Gildas-de-Rhuys|FR||9k|3ny|-7w|f|Lokentaz;Sanctus Gildasius Ruiensis;Saint-Gildas-de Ruis;Saint-Gildas de Ruys
+San Cristóbal|MX|Zacatecas|41|1qr|-7vz|f
+San Cristóbal|MX|Veracruz|41|1gb|-7hs|f
+San Chirico Nuovo|IT||9o|350|18o|f
+San Cayetano|CO|Norte de Santander Department|27|lw|-5lq|e
+Saint-Sulpice-la-Forêt|FR||9k|3py|-4e|e|Sant-Suleg-ar-C'hoad;Sant-Suleg-ar-Choad;Sanctus Sulpicius de Abbatia
+Saint-Aubin-des-Châteaux|FR||9k|3ok|-45|e|Sant-Albin-ar-C'hestell;Sant-Albin-ar-Chestell;Sanctus Albinus de Castris
+Saint-Léger-en-Yvelines|FR||9k|3rc|4x|e|Sanctus Leodegarius in Acquilina;Saint-Léger-en Yveline
+San Cassiano|IT|Lombardy|9o|3kk|q4|e
+San Cristóbal|MX|Guerrero|41|1aq|-7lc|d
+San Cristóbal Hidalgo|MX||41|1gu|-7jp|d
+San Cristóbal|MX|Guerrero|41|1eh|-7r5|d
+San Cristóbal Lachirioag|MX||41|1c6|-7f4|c
+San Cristóbal los Nava|MX||41|1gs|-7jr|c
+San Carlos Minas|AR||1n|-2em|-50u|c|San Karlos Minas
+San Carlos del Valle|ES||9d|2zw|-90|c
+San Carlos Autopan|MX||41|1hv|-7ox|c
+San Clemente|MX|Jalisco|41|1js|-81l|c
+San Cristóbal Chacón|MX||41|1js|-7m9|b
+San Carlos|MX|Puebla|41|1ff|-7lo|b
+San Carlos|MX|Tamaulipas|44|1wa|-7mu|b
+Sâncrai|RO|Harghita County|8u|3kt|1yc|b|Székelyszentkirály;Sîncrai
+San Cristóbal|MX|Jalisco|41|1o8|-7v6|b
+San Chirico Raparo|IT||9o|33n|18o|b
+San Cristóbal Honduras|MX||41|19d|-7hk|b
+Sancey-le-Grand|FR||9k|3nd|ia|b
+San Cristóbal Xochimilpa|MX||41|1jr|-7jz|b
+San Castrese|IT||9o|36m|12j|b
+San Cristóbal|MX|Guerrero|41|1c0|-7pm|b
+San Cayetano|MX|Guanajuato|41|1l8|-7s2|a
+Sâncrai|RO|Alba County|8u|3kl|1tz|a|Sîncrai
+San Clemente de Lima|MX||21|1lm|-84f|a
+Sánchez|MX||41|1oj|-7rq|a
+San Cristóbal|MX|Hidalgo|41|1lc|-7mj|a
+Sankivtsi|UA||98|3qc|20v|a|Săncăuți
+San Claudio|IT||9o|3c8|11i|a
+Sancti Spíritus|ES||9d|353|-hs|a|Santi-Spiritus;Sancti-Espiritus
+San Cataldo|IT|Basilicate|9o|356|17j|a
+Saint-Julien-de-Vouvantes|FR||9k|3oc|-3g|9|Sant-Juluan-Gouwent;Sanctus Iulianus de Voantis
+San Clemente|MX|Guanajuato|41|1lt|-7u2|9
+Saint-Suliac|FR||9k|3qx|-5h|9|Sant-Suliav;Sanctus Sulianus
+San Cristóbal de la Polantera|ES||9d|39r|-gf|9
+San Cayetano|MX|México|41|1hu|-7q2|9
+San Cristóbal|MX|Guanajuato|41|1kn|-7to|9
+San Cristóbal|MX|Hidalgo|41|1m8|-7m2|9
+Saint-Jacut-de-la-Mer|FR||9k|3r0|-63|9|Sant-Yagu-an-Enez;Sanctus Iacutus de Insula
+San Cristóbal|MX|Guanajuato|41|1ky|-7ri|9
+San Cayetano|MX|Tamaulipas|44|1uf|-7na|9
+San Cayetano|MX|Nayarit|3x|1qd|-85l|9
+Laignelet|FR||9k|3qd|-37|9|Kernoanig;Sanctus Martinus de Agnello
+San Clemente|IT|Campania|9o|36u|12s|9
+San Carlos Yautepec|MX||41|19u|-7ez|9
+San Cristobal|PE|Moquegua Department|3o|-1ai|-5gf|9
+San Cristóbal|MX|Oaxaca|41|19p|-7dd|9
+San Cristóbal de la Barranca|MX||41|1mg|-7zb|9
+San Carlos|PA||4g|nj|-664|9
+Saint-Pern|FR||9k|3q5|-5j|9|Sant-Pern;Sanctus Paternus
+San Cristóbal|PE|Junin|3o|-wl|-5va|8
+Sanchonuño|ES||9d|36s|-bz|8
+San Chiaffredo|IT||9o|3fk|ku|8
+Benito Juárez|MX|Zacatecas|41|1r2|-7xe|8|San Cayetano
+Saint-Servant|FR||9k|3p4|-6z|8|Sant-Servant-an-Oud;Sanctus Servacius
+San Cirilo|MX||41|1kp|-7qc|8
+Sanchidrián|ES||9d|35l|-cq|8
+San Colombano|IT|Lombardy|9o|3j9|st|8
+Bieuzy|FR||9k|3pa|-8i|8|Bieuzhi-an-Dour;Bizhui-an-Dour;Sanctus Bilcus
+San Cristóbal Colhuacán|MX||41|1iy|-7mi|8
+San Cristobal (El Colorado)|MX||41|1l4|-7qh|8
+San Clemente|IT|Tuscany|9o|3dg|vu|7
+Sancor|PE||3o|-dv|-66o|7
+Sancergues|FR||9k|3mz|83|7
+San Cristóbal|MX|Zacatecas|41|1se|-7ya|7
+Sancheville|FR||9k|3pv|4e|7
+San Costantino|IT||9o|2zj|18g|7
+San Cristóbal|MX|Veracruz|41|1dh|-7am|7
+Sanchey|FR||9k|3pu|ho|7
+San Caralampio|MX|Chiapas|41|1ai|-71z|7
+San Carlos del Apa|PY||1y|-1pt|-4f5|7
+San Cayetano|MX|Guanajuato|41|1js|-7rm|7
+San Cristóbal Buenavista|MX||41|154|-74m|7
+San Cayetano|CO|Cundinamarca|27|eq|-5pr|7
+San Carlitos|PA||4g|nl|-6d2|7
+Saint-Ébremond-de-Bonfossé|FR||9k|3sb|-37|7|Sanctus Ebremundus
+San Cristobal de Jacas Chico|PE||3o|-rh|-5wi|7
+San Carlo|IT|Campania|9o|36r|12o|7
+San Cristóbal|MX|Oaxaca|41|19s|-7jv|7
+Sancarlı|TR||94|2vi|34v|6
+San Cristobalito|MX||41|1az|-75u|6
+San Colombano|IT|Emilia-Romagna|9o|3ei|xh|6
+San Cristobal|MX|Tlaxcala|41|1id|-7m2|6
+Saint-Ybard|FR||9k|3i9|48|6|Sent Ibarç;Sanch Ibarch
+San Clemente|IT|Emilia-Romagna|9o|3e1|z3|6
+Saint-Firmin-sur-Loire|FR||9k|3ob|7l|6|Sanctus Firminus ad Ligerim
+San Cataldo|IT|Lombardy|9o|3h7|ty|6
+San Carlos|MX|Veracruz|41|1d4|-7b3|6
+San Cristoforo|IT||9o|3g5|ob|6
+San Cosmo Albanese|IT||9o|31y|19l|6|Strighari
+San Clemente|MX|Hidalgo|41|1ko|-7kn|6
+San Cristóbal de la Cuesta|ES||9d|35z|-fm|6
+Sancrox|AU||8l|-2fb|bsg|6
+San Carlos del Jagüey|MX||41|1m3|-7uc|6
+San Crisanto|MX||3z|1nb|-6vp|6
+San Cristóbal|PE|Piura|3o|-f1|-653|5
+San Claudio|ES||9d|3cf|-gg|5
+San Costantino Albanese|IT||9o|338|19a|5|Shen Kostadini
+San Caralampio|MX|Chiapas|41|1a0|-73h|5
+San Cayetano|MX|Puebla|41|1gk|-7j7|5
+San Casciano dei Bagni|IT||9o|3b3|x0|5|San Casciano de'Bagni
+Sancos|PE||3o|-15u|-5pf|5
+San Cristóbal|PA||4g|ps|-6cj|5
+San Cipriano|IT||9o|39l|119|5
+San Cayetano de Vacas|MX||44|1uj|-7qz|5

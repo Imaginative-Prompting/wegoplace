@@ -1,0 +1,42 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Da|CI||0|jd|-kz|19
+Beijing|CN||7i|32v|8zc|42av|Peking;Pekín;Pequín;Pekino;Pechino;Pecinum;Pekinas;Pequim;Pechinu;Bắc Kinh;Baekging;Pechinum;Pekina;Béising;Pechin;Peken;beidjin;Pekini;Pet-kîn;Bejdżing;Beyjing;Beixín;Báe̤k-gĭng;Pekin';Bejing;Péycing;Pikkin;Bak Ging;Bak Ping;Yin Ging;Dai Dou;Peping;Pei-ching
+Mumbai|IN||6t|1gz|5mg|2pxi|Moembaai;Bombaj;Mumbajo;Bombaya;Bombay;Bombėjus;Mumbaja;Mumbay;Mumbaj;Bombaim;Mumbajus;Bombai;Dakbayan sa Bombay;Bůmbaj;mymbais;Numbai
+Delhi|IN||6t|27l|5yj|2d56|Delis;Deli;Dillí;Dellium;Šáhdžahanabád;Déhli;Dilhi;Dähli
+Dhaka|BD||6a|1tv|6z5|27wt|Daca;Dacca;Dako;Daka;Dakka;Dakk;Deka;Dakah
+Taipei|TW||7l|1xl|9dl|1oqn|Taipeh;Tajpeo;Taibėjus;Tajpej;Taipé;Tchaj-pej;Tayipèh;Taipėjus;Đài Bắc;Taypey;T’ai-pei
+Dalian|CN||7i|303|9ds|1lho|Lüda;Luta;Lü-ta
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Singapore|SG||7j|3l|80h|17ib|Tumasik;Singapur;Singapour;Singapura;Sîn-kâ-po;Temasek;Dānmǎxī
+Dar es Salaam|TZ||h|-iy|313|15jh|Daressalam;Dar es-Salam;Dar es-Salaam;Dar-es-Salaam;Dar es Salamas;Dar es Salam;Daresalamo;Daressalaam;Dar es Salams;Dárasalám;Dāresalāma;Darüsselam
+Taiyuan|CN|Shanxi|7i|2x7|8oo|14xn|Tajuanas;Tchaj-jüan;Tajuano;Thái Nguyên;Thài-goân-chhī;Tái-nguòng;Tajjüan;Taiyuenum;Taijuaņa;Tayyuan;Daiyienz;Taijuan
+Casablanca|MA||d|2lb|-l5|sac|Kazablanko;Kasablanka;Kazablanka;Ad Dar al Bayda;Kasablank;Casabranca;Darul Baidha;White House;Tigemmi Tamellalt;Dâr-ül-Beydâ;Ad Dār al Bayḑā’;Dar-el-Beida;Casa Branca
+Datong|CN|Shanxi|7i|33d|8qp|nyo|Daido;Ta-tchung;Đại Đồng;Ta-t’ung
+Taichung|TW||7l|1v3|9b8|lzr|Đài Trung;Teyjong shehiri;Taičungas;Tajĉungo;Thòi-chûng-sṳ;Tchaj-čung;Taizhong;Taychun;Tâi-tiong-chhī
+Dakar|SN||g|14t|-1cg|kf5|Dacar;Ndakaaru;Dakaa
+Daegu|KR||7h|2rn|9x8|i93|Teguo;Taegu;Đại Khâu;Tägu;Tegu
+Tashkent|UZ||7m|36m|5ca|f9g|Taschkent;Taskent;Tasjkent;Taŝkento;Toshkent;Tachkent;Taškentas;Taszkent;Toshkent shahri;Tochkent;Taixkent;Taxkent;Taškenta;Lithopolis;Daşkent;Tashkend
+Tainan|TW||7l|1rv|99x|ebq|Teynen shehiri;Thòi-nàm-sṳ;Tchaj-nan;Tajnan;Đài Nam;Tajnano;Taynam;Tâi-lâm-chhī;Dài-nàng;T’ai-nan
+Davao|PH||71|jn|9ox|e9l|Lungsod ng Dabaw
+Daqing|CN||7i|3le|9n8|cdk|Ta-čching;Dacin;Đại Khánh;Dâi-kéng;Tāi-khèng-chhī;Taching;Dačing
+Dazhou|CN|Sichuan|7i|2ep|8ai|c9i|Ta-čou;Đạt Châu;Dăk-ciŭ;Tha̍t-chû-sṳ;Ta̍t-chiu-chhī
+Damascus|SY||69|2l3|2st|c3y|Damasco;Damasko;Damaskus;Damasc;Damašek;Damaskos;Damas;Damask;Damaskas;Damaszek;Şam;Damascu;Dimäjk;Damsyik;Domás;An Damaisc;Ndamáko;Kamakeko;Damaszkusz;Damasch;Damaska;Damaskosy;Damasiko;Dimishiq;Damasku;Dameski;Dimäşq;Damashq;Dimashq;Dimishq
+Isfahan|IR||7o|2ip|3zj|bxs|Ispahan;Esfahan;Dakbayan sa Esfahān;İsfehan;Esfahano;Iszfahán;Yspyhan;Isfahon;Gabai;Eşfehān;Espahān;Spahan
+Daejeon|KR||7h|2sz|9tu|b4c|Taejŏn;Daejon;Daiĝono
+Dallas|US|Texas|2f|2j2|-7gx|a8d|Dalaso;Dalasas;Dalasa;Dalas
+Da Nang|VN||6h|18n|8cm|9ug|Danang;Thành Thái Phien
+Dammam|SA||7e|21f|3v6|9nx|Damamas;Ad-Damman;Damam;Damman
+Dublin|IE||8z|445|-hd|7wg|Dulyn;Baile Átha Cliath;Dyflinn;Dulenn;Eblana;Diblin;Difelin;Divlyn;Dablin
+Cebu City|PH||71|so|9k5|7g5|Cebu;Dakbayan sa Sugbo;City of Cebu;Ciudad de Cebú;Cebo;Cebu Şehri;Cebu Shahri;Kota Cebu;Garin Cebu;Magaalaa Cebu;Cidade de Cebu;Magaalada Cebu;Jiji la Cebu
+Daye|CN||7i|2bk|8vb|6q0
+Dandong|CN||7i|33h|9lj|6an|Đan Đông;Dăng-dŭng;Tan-tong-chhī;Andong
+Amsterdam|NL||8m|41h|dl|5q0|Amsŭt'erŭdam;Amsteladamum;Amesterdã;Amestelledamme;Aemsterdam;Amseutereudam;Amsterodam;Ámsterdan;Amszterdam;Amusuterudamu;Amstelodamum;Mokum Aleph;Mokum;Amesterdão;Amstyerdam;Amsterdã;Aemstelredamme;Amstelodhámon;Damsko;Amstèdam;Amistardam;Amstardam;Amstadem;Âmesterdâm
+Deyang|CN||7i|2eh|81y|5o7|Dáik-iòng;Te-jang;Đức Dương;Tek-iông-chhī;Te-yang;Deyan
+Ta’if|SA||7e|1n3|34a|5bb|Taif;Taëf;Taifas;Tāifa;Toif;Daa'if;Taifum;Tayif
+Dezhou|CN||7i|2w1|8z9|58r|Detsjou;Te-čou;Đức Châu;Dáik-ciŭ;Deĝoŭ;Tek-chiu-chhī;Te-chou
+Daxing’anling|CN||7i|41d|9mf|40g
+Kota Damansara|MY||6v|8r|7u6|3uw
+Lapu-Lapu City|PH||71|sn|9kb|3ua|Lapu-Lapu;Dakbayan sa Lapu-Lapu;Siudad ti Lapu-Lapu
+Gdańsk|PL||a5|46z|1ft|3re|Dancigo;Danzig;Gduńsk;Gydanysg;Danzica;Gedanum;Qdansk;Dantsic;Gdanjsk
+Taoyuan|TW||7l|1xf|9cy|3o6|Đào Viên
+Bacolod City|PH||71|tn|9hj|3id|Bacolod;Ciudad ti Bacolod;Lungsod ng Bacolod;Dakbayan sa Bacolod;Syudad han Bacolod;Bacoloo City;Baclod City

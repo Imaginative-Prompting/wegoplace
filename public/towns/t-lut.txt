@@ -1,0 +1,87 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Dalian|CN||7i|303|9ds|1lho|Lüda;Luta;Lü-ta
+Paris|FR||9k|3rp|6j|gi2|Lutèce;Ville-Lumière;Parizo;Parys;Paříž;Baris;Pariis;Pariisi;Páras;Párizs;Parigi;Paräis;Paries;Paryžius;Parīze;Parijs;Paryż;Pariggi;Pari;Paname;Pantruche;Paarys;Pa-ri;Parij;Parixe;Palika;Parighji;Baariis;Lutetia;Parigge;Bahliz;Pariižu
+Luzhou|CN||7i|289|84v|7ph|Lutsjou;Lu-čou;Lô Châu;Lù-ciŭ;Lô͘-chiu-chhī;Lu-chou
+Luton|GB||9b|404|-16|1ql
+Lutsk|UA||98|3x0|1yf|1o0|Łuck;Luzk;Lucko;Loutsk;Luckas;Loetsk;Luceoria;Lucioria;Luc'k;Luts’k
+Liège|BE||8t|3wn|fh|1i9|Lüttich;Lieja;Lieĝo;Liegi;Léck;Luuk;Luik;Lidje;Liex;Ljēža;Leodicum;Lutych;Leodium;Lježas;Ljež;Sùguru;Lēodic;Lige
+Rutoma|UG||q|-1l|2ce|nx|Lutoma
+Lütgendortmund|DE||8r|3z2|kf|6f
+Eisleben Lutherstadt|DE||8r|3z5|w3|69|Eisleben;Lutherstadt Eisleben;Islebia
+Luchegorsk|RU||7w|3l0|ad1|62|Lutsjegorsk;Lutschegorsk;Lučegorsk
+Lutz|US||48|267|-6d2|5d
+Lutuhyne|UA||98|3qg|30x|4r|Lutugino;Lutúgine;Loutouhyne;Lutugõne;Lutuhine;Loutougino
+Königslutter am Elm|DE||8r|415|u2|4k|Luttera Regalis
+Lutes Mountain|CA||43|3k7|-50b|4j
+Lutherville-Timonium|US||48|31k|-5wt|4e
+Lutayan|PH||71|ie|9mw|3n|Lutavan
+Loutráki|GR|Peloponnese|8p|2xi|1ru|38|Lutraki
+Lutterworth|GB||9b|41q|-3c|2r
+Lutry|CH||a7|3l6|il|2g
+Lodève|FR||9k|3dh|98|23|Lodeva;Luteva
+Lützelbach|DE||8r|3u6|od|21
+Lutang|CN||7i|2a0|8cx|1w
+Lutherville|US||48|31i|-5wv|1t
+Lutzville|ZA||o|-2fo|1ey|1r
+Lutterbach|FR||9k|3oo|k8|1q
+Lütjenburg|DE||8r|46t|tf|1m
+Lützelflüh|CH||a7|3ml|ld|14
+Lützen|DE||8r|3ye|xq|11
+Luttre|BE||8t|3wb|c8|z
+Hūtak|IR||7o|2cy|4e5|y|Lūtak;Hutk
+Lutcher|US||2f|2bg|-6zy|y
+Lutwyche|AU||8c|-246|bt3|y
+Luterbach|CH||a7|3n5|l2|x
+Lutkun|RU||9i|378|3oh|x
+Lutín|CZ||9m|3to|1bm|v
+Lütjensee|DE||8r|451|ss|u|Lütiensee
+Lutécia|BR||4w|-1q2|-3vz|r
+Lutter am Barenberge|DE||8r|40f|sj|o|Lutter am Barje;Lutter an Barenbarge
+Lut-od|PH||71|si|9jf|o
+Lutana|AU||8g|-3az|bd7|o
+Luttelgeest|NL||8m|42i|g9|n
+Lutjebroek|NL||8m|42e|eg|m
+Lutovynivka|UA||98|3ss|2m6|k|Lutovinovka;Lutovînivka
+Loţfābād|IR||7o|2w8|4ku|j|Lutfābād
+Lautenbach|FR||9k|3p6|jw|h|Lutterbach
+Lutzelhouse|FR||9k|3qs|k9|g|Lützelhausen;Lítzelhüse
+Lützow|DE||8r|451|v2|g
+Luther|US||2f|2r2|-7i0|f
+Lutoryż|PL||a5|3ut|1ov|f
+Lutomiersk|PL||a5|3zr|1hd|f
+Lütisburg|CH||a7|3nn|p8|f
+Lutzerath|DE||8r|3v9|jh|f
+Lututów|PL||a5|3yp|1f7|e
+Luthern|CH||a7|3mq|m0|e
+Luchki|RU||7w|3f1|a7e|b|Lutsjki
+Luttrell|US||48|2sk|-6gm|b
+Lutrano|IT||9o|3j9|yn|a
+Lutynia|PL||a5|3y2|1am|a
+Lüttringen|DE||8r|3z0|m3|a|Hlutteringhūson
+Lutzingen|DE||8r|3r5|tb|a
+Lützeln|DE||8r|3ww|mi|9
+Luttenbach-près-Munster|FR||9k|3pf|js|8
+Lutocin|PL||a5|436|1ix|8
+Luthersville|US||48|2k9|-6je|8|Lutherville
+Lutago|IT||9o|3mf|x4|8|Luttach
+Lütetsburg|DE||8r|44w|k5|8
+Lutzhorn|DE||8r|45i|r5|8
+Lutița|RO||8u|3kh|1xz|8
+Lutton|GB||9b|42p|c|8
+Luttange|FR||9k|3sv|hj|8
+Lutjewinkel|NL||8m|42l|dk|8
+Lutter|DE||8r|3yl|s4|8
+Lüttgenrode|DE||8r|40d|tm|8
+Lutowiska|PL||a5|3st|1r1|8|Liutoviska;Lyutoviska
+Lutjegast|NL||8m|43v|he|7
+Lutzelbourg|FR||9k|3re|k5|7
+Lüttchendorf|DE||8r|3z2|wb|7|Luzilendorpf
+Zhabky|UA||98|3w5|2jv|7|Lutsenki;Lutsenky;Zhabki
+Lütau|DE||8r|44f|tb|7
+La Petite-Pierre|FR||9k|3rq|kc|6|Lützelstein;Lítzelstain;Petite-Pierre
+Lütjenwestedt|DE||8r|46e|qd|6
+Lutzmannsburg|AT||a2|3nu|1a8|6|Locsmánd;Lucman
+Luthenay-Uxeloup|FR||9k|3m5|93|6
+Lutopecny|CZ||9m|3sy|1c6|6
+Lutom|PL||a5|427|18u|5
+Lutoasa|RO||8u|3k1|20v|5

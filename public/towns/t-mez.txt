@@ -1,0 +1,126 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mazār-e Sharīf|AF||6o|2tz|56f|41d|Mazari Sharif;Mazār-e Šarīf;Masar-e Scharif;Mazar-i Szarif;Mazar-e-Sharif;Mezirek-i Şerif;Mazar-i Sharif;Mazar-e Charif;Mazāre S̄rīf;Mazār-i-Sharīf;Mazari-Sharif
+Mezhdurechensk|RU|Kuzbass|74|455|6sm|s2|Mezjduretsjensk;Meschduretschensk;Mejdouretchensk;Meždurečensk;Mezjdoeretsjensk;Mejdurétxensk;Meĵdureĉensk;Mežduretšensk;Meždurečenskas;Meždurečenska;Mezjduretsjensk i Kemerovo oblast;Mieżdurieczensk;Mejdurechensk;Mezjduretjensk
+Maaseik|BE||8t|3xy|g2|70|Mezeik
+Mezcales|MX||21|1ll|-84g|5l
+Mezőtúr|HU||8v|3mk|1lb|5c
+Mezőkövesd|HU||8v|3ou|1l6|4x
+Mezgor'e|RU||7z|465|4gm|4f
+Mežciems|LV||9n|4e9|1vb|40
+Mezdra|BG||9v|3bu|1tv|3c|Mesdra;Mezhdra
+Mezőberény|HU||8v|3m2|1mf|35
+Mezhdurechenskiy|RU||7z|4lk|535|33|Mezjduretsjenskij
+Alkhan-Kala|RU||9i|3c6|3ii|2u|Meždugor’e;Walxan-Ġala;Mezhdugor’ye;Alhan-Kala
+Muzayri‘|AE||6c|1sa|45f|2s|Mezaira’a;Mozayri‘
+Mèze|FR||9k|3cn|a1|2e|Mesa
+Mezzouna|TN||1e|2o2|rc|22|Merzouna
+Mezhova|UA||98|3q1|2u1|1y|Meschowa;Mejova;Mežova;Mezjova;Meżowa
+Mezőkovácsháza|HU||8v|3kw|1m4|1x
+Mezzolombardo|IT||9o|3kd|uu|1w|Metalongobardica
+Mezőcsát|HU||8v|3ou|1m4|1t
+Mezhozërnyy|RU||7z|46f|4kx|1t|Mezjozernyj
+Mezapa|HN|Atlántida Department|56|17a|-6rh|1r
+Mezőhegyes|HU||8v|3ko|1lu|1q
+Medzilaborce|SK||8s|3sv|1ou|1m|Boró;Mezőlaborc;Mezőlaborcz
+Mezhevoy|RU||7z|499|4ja|1f
+Mezcala|MX|Jalisco|41|1ki|-7y6|1e
+Mezzocorona|IT||9o|3kd|uw|1e
+Mezőfalva|HU||8v|3md|1g5|1d
+Meziboři|CZ||9m|3wm|11s|1a
+Mežaparks|LV||9n|4ec|1v4|19|Kaiserwald;Mezhaparks;Mezhapark
+Mezhyrich|UA|Dnipropetrovsk|98|3qw|2rd|16|Mezherich;Mizhirich’;Mezherichi;Mezhirich
+Mezőkeresztes|HU||8v|3ov|1li|15
+Mezzago|IT||9o|3ir|q8|15
+Mezraa|TR|Şırnak|94|2wl|3bz|12|Mezrea;Mezra
+La Mézière|FR||9k|3py|-4v|12|Magoer;Maceria;Mézière
+Mezcala|MX|Guerrero|41|1dt|-7oo|12|Mexcala
+Mezen’|RU||9i|52w|3ex|11|Mezen
+Mézières-sur-Seine|FR||9k|3s0|4z|z
+Mezhdurechensk|RU|Samara Oblast|9p|43z|3sf|z|Mezjduretsjensk;Mejdureçensk;Mezsdurecsenszk
+Mésanger|FR||9k|3nr|-3f|y|Mezansker
+Mežica|SI||9a|3l8|159|x|Mezitsa
+Mezzate|IT||9o|3i8|pt|u
+Vary|UA||98|3po|1r3|u|Mezővári;Wary;Vari
+Mezzano|IT|Emilia-Romagna|9o|3fj|xl|s
+Meziměstí|CZ||9m|3wm|194|s|Halbstadt;Mesiměstí
+Międzylesie|PL|Lower Silesia|a5|3vb|1ab|s|Mittelwalde;Mendzilese;Mezilesí
+Mezzojuso|IT||9o|2x7|11f|q|Munxifsi;Mezzoiuso
+Mezőzombor|HU||8v|3pr|1n3|p
+Messac|FR||9k|3ou|-51|p|Mezeg
+Metsovo|GR||8p|32h|1mu|p|Mezzovo;Mecovo;Metsowo;Aminciu
+Zau de Câmpie|RO||8u|3lh|1v1|o|Mezőzáh
+Koson|UA||98|3q1|1qe|n|Mezőkaszony;Kosson
+Mezőszilas|HU||8v|3m1|1fc|n
+Mezquitic|MX||41|1q7|-805|n
+Velyki Mezhyrichi|UA||98|3wp|22n|m|Międzyrzecz;Międzyrzec Korecki;Velyki Mezjyritsji;Welyki Meschyritschi;Veliki Mejirichi;Mezhirichi;Velyki Mejyrytchy;Velyki Mežyriči;Velîki Mejîrici;Mezritch;Mejiriçi;Mezherichi;Menzhirichi
+Mezinovskiy|RU||9i|4a6|344|l
+Mézériat|FR||9k|3kg|e1|l
+Mezhvodnoye|UA||9t|3in|2j9|l
+Mezcala|MX|Jalisco|41|1m7|-7xp|l
+Ahmetli|TR|Diyarbakır Province|94|2wv|35r|l|Mezra Ehmed;Akhmetli
+Mézy-sur-Seine|FR||9k|3s4|58|j
+Mezhdurechensk|RU|Komi|9i|4vp|3qv|j
+Foieni|RO||8u|3oi|1q6|i|Mezőfény;Fienen;Foeni
+Myazhysyatki|BY||9g|45e|2bu|i|Mezhisyatki
+Mezhyrich|UA|Sumy|98|3wu|2nt|i|Mezhirich;Mezairich;Mezhirichi;Mezherichi
+Mezapa la Fábrica|MX||41|1ha|-7o9|i
+Mezquite Gordo|MX||41|1lu|-7tx|h
+Mezquititlán|MX||41|1l1|-7m0|h|Metzquititlau;Metzquititlán
+Ceuașu de Câmpie|RO||8u|3lj|1w4|h|Mezőcsávás;Ceuaşu de Cîmpie
+Mezzolara|IT||9o|3fv|w4|g|Mezzolaro
+Mezquitic de la Magdalena|MX||41|1my|-7w6|g|Mezquitic
+Mezel|FR|Auvergne-Rhône-Alpes|9k|3j4|90|g
+Mézeray|FR||9k|3ov|-2|g
+Mézin|FR||9k|3ee|q|f|Mesin
+Mezhyrich|UA|Rivne Oblast|98|3vr|21k|f|Mezherichi;Mezhirich
+Mezzogoro|IT||9o|3gq|xm|f
+Mezzano|IT|Trentino-Alto Adige|9o|3k7|wt|f
+Meziad|RO||8u|3lu|1qb|d
+Mezzanego|IT||9o|3fa|q2|d|Mezànego
+Méziré|FR||9k|3o1|j8|d
+Mezquite de Sotelo|MX||41|1md|-7ty|d
+Mezzano Inferiore|IT||9o|3gr|t2|d
+Mezenivka|UA||98|3wn|2q3|d|Mezenovka;Mezenevka
+Mezquite de Luna|MX||41|1ke|-7v1|c
+Mézières-en-Brenne|FR||9k|3m2|3d|c
+Mezquital del Oro|MX||41|1my|-7z4|b
+Mezzomerico|IT||9o|3iq|nx|b
+Mézières-en-Drouais|FR||9k|3rc|3y|b
+Mézières|CH||a7|3lo|j9|b
+Mezmay|RU||9i|3es|330|a|Mezmaj;Mezmái
+Papiu Ilarian|RO||8u|3lb|1v8|a|Mezőbodon
+Mezzanino|IT||9o|3hc|pk|a
+Mezzane di Sotto|IT||9o|3ic|ux|a
+Mezzegra|IT||9o|3jq|pl|a|Mezegra
+Mezapa|HN|Atlántida Department|56|177|-6qq|9
+Mezzavia|IT||9o|3hw|wt|9
+Mézières-sur-Issoire|FR||9k|3k3|2j|9
+Mézières-sur-Couesnon|FR||9k|3q5|-3z|9|Magoerioù-ar-C'houenon
+Myezhava|BY||9g|47r|2c7|9|Mezhëvo;Miežava
+Mezquitán|MX||41|1j2|-81t|9|San Francisco de Abajo
+Mézos|FR||9k|3eg|-38|9
+Silivașu de Câmpie|RO||8u|3ly|1vi|9|Mezőszilvás;Silvaşul-de-Câmpie;Silvaşu de Cîmpie
+Mezcalitos|MX||21|1lj|-84g|8
+Mezraa|TR|Kahramanmaraş|94|2vx|2vu|7|Mezrea
+Mezzana|IT||9o|3ko|u0|7
+Mezzano Superiore|IT||9o|3gt|sy|7
+Mezzane|IT||9o|3hz|sw|7
+Mezzana Mortigliengo|IT||9o|3ir|mr|6
+Mézières-lez-Cléry|FR||9k|3ou|50|6|Maceriae iuxta Cleriacum
+Mézières-en-Vexin|FR||9k|3sl|46|6
+Mezzenile|IT||9o|3ht|kk|6
+Mezquites|MX||3x|1m4|-82e|6
+Mezouň|CZ||9m|3uw|13h|6
+Mezzana Bigli|IT||9o|3h6|ol|6
+Mézangers|FR||9k|3pv|-17|6
+Mézilles|FR||9k|3oi|8u|6
+Mézières-sur-Oise|FR||9k|3ua|9g|6
+Mézel|FR|Provence-Alpes-Côte d'Azur|9k|3e8|h8|6|Mesèu
+Bağdere|TR||94|2wv|2y4|6|Mezgitlî;Mazgirtli
+Mezquitillo|MX||41|1tk|-7wq|6|Mexquitillo
+Mezquite Grande|MX||41|1kk|-7vx|5
+Mezhdurech'e|UA||9t|3go|2ot|5|Aj Serez
+Mezquite Mata del Tigre|MX||41|1nh|-7kv|5
+Mecé|FR||9k|3q0|-3m|5|Mezieg
+Mezquitlán|MX||41|1e2|-7mu|5|Mexquitlán
+Mézières-en-Santerre|FR||9k|3ub|73|5

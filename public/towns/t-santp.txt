@@ -1,0 +1,32 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Sant Pere de Ribes|ES||9d|36m|4x|7w|San Pedro de Ribas
+Sant Pere, Santa Caterina i La Ribera|ES||9d|36y|62|6d|Born;el Born;borne
+Sāntpur|IN||6t|1vz|5m5|2k
+Saint-Paul-Trois-Châteaux|FR||9k|3f7|d8|28|Sant Paul de Tricastin;Sanctus Paulus Tricastinorum;Sant Pau de Tricastin
+Santpoort-Noord|NL||8m|41n|cw|21
+Saint-Pourçain-sur-Sioule|FR||9k|3kn|95|1j|Sant Porçanh de Siula;Sanctus Portianus
+Sant Pol de Mar|ES||9d|37k|7a|1f|San Pol de Mar
+Saint-Pée-sur-Nivelle|FR||9k|3cg|-4b|1b|Senpere;Sant Per dIbarra;Sent Pèr de Nivela
+Saint-Père-en-Retz|FR||9k|3n5|-5o|13|Sant-Pêr-Raez;Sanctus Petrus
+Santpoort-Zuid|NL||8m|41m|cv|y
+Saint-Paul-de-Vence|FR||9k|3de|js|u|Saint-Paul i Alpes-Maritimes;St Paul de Vence;Sant Pau;Saint-Paul de Vence;Oppidum Sancti Pauli
+Saint-Pierre-Quiberon|FR||9k|3o0|-8p|n|Sant-Pêr-Kiberen;Saint Pierre Quiberon
+Sant Pere de Torelló|ES||9d|38w|6e|n
+Saint-Pierre-de-Plesguen|FR||9k|3ql|-5b|m|Sant-Pêr-Plewenn
+Sant Pere de Riudebitlles|ES||9d|375|4q|l
+Saint-Paul-de-Fenouillet|FR||9k|3ax|6y|k|Sant Pau de Fenolhet;Sant Pau de Fenollet
+Saint-Père-Marc-en-Poulet|FR||9k|3qz|-5c|k|Sant-Pêr-Poualed;Saint-Père
+Saint-Pal-de-Mons|FR||9k|3hp|bv|i|Sant Paul de Mònç;Saint-Pal-de-Mans
+Saint-Pabu|FR||9k|3qw|-cs|g|Sant-Pabu
+Saint-Pargoire|FR||9k|3cx|9s|f|Sant Pargòli;Sant Pargòri
+Saint-Perreux|FR||9k|3of|-5v|b|Sant-Pereg
+Saint-Pierre-Eynac|FR||9k|3h5|b7|9|Sant Pèire dAenac;Sant Pèire-Aenac;Saint-Pierre-Aynac
+Sant Privat d'en Bas|ES||9d|393|6p|9|Sant Privat
+Saint-Pern|FR||9k|3q5|-5j|9|Sant-Pern;Sanctus Paternus
+Saint-Paul-lès-Durance|FR||9k|3dd|fv|8|Sant Pau de Durènça;Saint-Paul-lez-Durance
+Saint-Pôtan|FR||9k|3qw|-6d|8|Sant-Postan
+Saint-Priest-des-Champs|FR||9k|3jr|7o|7|Sant Prist e Vilamanha
+Saint-Priest-Bramefant|FR||9k|3jv|9k|7|Sant Prist de Varenas
+Sant Pau de Segúries|ES||9d|39e|6l|6
+Sant Pere Molanta|ES||9d|36v|4u|6

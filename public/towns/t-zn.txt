@@ -1,0 +1,17 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Znojmo|CZ||9m|3rq|18l|9t|Znaim;Znoyma;Znaym;Znoimas;Znain
+Znamensk|RU|Astrakhan Oblast|8o|3qy|3j1|8v|Kapustin Jar;Snamensk;Znamiensk;Kapustin Yar-1
+Znamyanka|UA|Kirovohrad|98|3rc|2iq|68|Znamianka;Snamjanka
+Żnin|PL||a5|42t|1d8|3w|Dietfurt
+Znamenskoye|RU|Omsk Oblast|76|4ep|5p3|3p|Znamenskoje
+Znamenka|RU|Oryol oblast|9i|42y|2ry|3c
+Znamenskoye|RU|Chechnya|9i|3dc|3hd|2o|Znamenskoje;Znamenka;Ç̇ulga-Yurt
+Znamenka|RU|Tambov Oblast|9i|41m|373|2h
+Znamyanka Druha|UA||98|3rb|2ik|1e|Znamianka Drouha
+Znamensk|RU|Kaliningrad Oblast|96|47p|1mz|1a|Wehlau;Snamensk;Znamiensk;Vėluva
+Znamyanka|UA|Odesa|98|3mm|2c5|15|Znamianka;Chervonoznamianka;Chervonoznamenka
+Znamenskoye|RU|Oryol oblast|9i|440|2r4|k|Znamenskoje
+Znob Novhorodske|UA||98|416|2lc|i|Znob-Novhorods'ke;Znob’-Novgorodskoye;Znob’-Novgorodskaya;Ziob’-Novgorodskoye;Novogorodskoye
+Znyats’ovo|UA||98|3qo|1qj|h|Zniatsovo;Ignéc
+Znamenka|BY||9g|404|1tq|d
+Znaur|GE||7n|397|3dl|8

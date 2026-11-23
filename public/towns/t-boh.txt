@@ -1,0 +1,91 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Bochum|DE||8r|3z0|k2|2z5|Bohuma;Baukem;Bōkhêm
+Bohuniya|UA||98|3vo|27h|14x|Bohuniia;Bohunia;Bohunskyi;Bohunskyi rayon;Boguniya
+Bohicon|BJ||1b|jy|5r|q1
+České Budějovice|CZ||9m|3s1|147|py|Budweis;Böhmisch Budweis;Česke Budejovicai;Czeskie Budziejowice;Bohemo Budvicium
+Bohodukhivskyi|UA||98|3p9|2x6|p6|Budyonnivskyi Rayon;Budyonnivskyi;Budionnivskyi;Budionnivskyi Rayon
+Česká Lípa|CZ||9m|3wt|14e|a4|Böhmisch-Leipa;Czeska Lipa
+Bochnia|PL||a5|3ut|1kr|84|Bohņa;Bochńa
+Bohu|CN||7t|38m|6on|67|Baghrash;Po-hu
+Bohumín|CZ||9m|3um|1f0|5n|Bogumin;Bohumynas
+Bohodukhiv|UA||98|3vc|2qo|4y|Bohoduchiw;Bohodoukhiv;Bohodochiv;Bogoduhiv;Bohoduchiv;Bohoduchivas;Bohoduhiv;Bogodukhov;Bododukhov;Bogoduchow
+Bohnice|CZ||9m|3v9|142|4k
+Bohuslav|UA||98|3tn|2dr|4e|Bohusław;Boguslaw;Boguslav
+Bohunice|CZ||9m|3sl|1a2|3t
+Bohmte|DE||8r|41h|n4|3o
+Český Krumlov|CZ||9m|3rl|13s|3j|Krumau;Böhmisch Krumau;Krummau;Crumlovia;Çeski Krumlov;Krumau an der Moldau;Krummau an der Moldau;Ceske Krumlov
+Bohnsdorf|DE||8r|41j|11p|3b
+Buhodle|SO||14|mv|3kp|36|Bohodle;Bohodleh;Buuhoodle
+Böhl-Iggelheim|DE||8r|3t6|n2|30|Beel-Igglem
+Bohemia|US||48|359|-5n4|2u
+Boh|IN||6t|2ce|5xk|2d
+Bohari|IN||6t|20x|716|2b
+Bohorodchany|UA||98|3rl|1w6|2a|Bohorodtchany;Bohorodczany;Brodshin
+Bohinou|CI||0|jx|-iz|27|Bobinou;Boinou
+Böhlen|DE|Saxony|8r|3y8|yf|1y|Boehlen
+Bohain-en-Vermandois|FR||9k|3uv|9l|1r|Bohain-in-Vérmindos
+Böhmenkirch|DE||8r|3r8|rl|1m
+Česká Skalice|CZ||9m|3vz|18k|1i|Böhmisch Skalitz;Scalis
+Bohdanivka|UA|Dnipropetrovsk|98|3qq|2sc|1e|Bogdanovka;Bohdaniwka
+Bóly|HU||8v|3jp|1fg|10|Bohl
+Stari Bohorodchany|UA||98|3rn|1w5|y|Stari Bohorodtsjany;Stari Bohorodtschany;Stari Bohorodtjany;Bohorodczany Stare;Stari Bohorodceanî;Stari Bohorodçany;Stare-Bogorodchany
+Bohars|FR||9k|3qj|-cj|y|Boc'harzh;Bocharzh
+Bohoubli|CI||0|hz|-n9|x|Bohobli
+Bohle Plains|AU||8c|-1hn|bbh|w
+Bohdan|UA||98|3pg|1vm|w|Tiszabogdány;Bogdan
+Dunabogdány|HU||8v|3or|1gw|v|Bogdan;Cirpi;Bohdanovce nad Dunajom
+Český Dub|CZ||9m|3wq|15o|r|Böhmisch Aicha
+Böheimkirchen|AT||a2|3pw|17s|q
+Bohdanivka|UA|Kyiv Oblast|98|3wn|2dv|q|Bogdanovka
+Bohušovice nad Ohří|CZ||9m|3w9|13b|p
+Bohuňovice|CZ||9m|3ty|1c1|p
+Bohodukhivka|UA||98|3u7|2hw|p|Bogodukhovka
+Bohners Lake|US||2f|3ae|-6t8|o
+Böhönye|HU||8v|3kx|1ca|o
+Bohechío|DO||4v|1g6|-5h7|n|Boechío
+Bohizra|CI||0|kt|-gq|k
+Bohdanivka|UA|Mykolaiv|98|3ou|2eh|i|Bogdanovka
+Bohuslavice|CZ|Moravian-Silesian Region|9m|3uq|1ed|i
+Bohinjska Bistrica|SI||9a|3kj|12r|i|Bohinskaya Bistritsa
+Bahon|HT||4j|1i3|-5kb|g|Bawon;Bohon
+Bohibli|CI||0|ib|-mw|f
+Bohutín|CZ|Central Bohemia|9m|3ty|12q|f
+Bohdanovce nad Trnavou|SK||8s|3qj|1cq|f
+Bohotin|RO||8u|3me|25q|e
+Bohuslavka|UA||98|3tf|2wo|d|Boguslavka
+La Bohalle|FR||9k|3nq|-14|d|Bohalle
+Bohdíkov|CZ||9m|3ux|1ay|d
+Boho|CI||0|jp|-kf|c
+Bohi|CI||0|m0|-7y|b
+Bohdalov|CZ||9m|3tg|184|b|Bohdalau
+Bohynivka|UA||98|3qp|2sz|b|Brahynivka
+Bohn|CI||0|es|-ch|b
+Bohouléma|CI||0|mf|-h2|b
+Bohuslavice|CZ|Hradec Králové Region|9m|3vr|18p|a
+Böhlerwerk|AT||a2|3pa|14z|a
+Bohdalice-Pavlovice|CZ||9m|3sq|1bc|a
+Bohdanivka|UA|Zaporizhzhia|98|3lu|2rs|a|Bogdanovka
+Böhme|DE||8r|42n|qc|9
+Bohrāz|IR||7o|2od|3pl|9
+Bohuslavets|UA||98|3u3|2hb|9
+Bohutín|CZ|Olomouc Region|9m|3ur|1aw|9
+Bohas-Meyriat-Rignat|FR||9k|3k8|ez|8
+Bohorodychne|UA||98|3s6|2w7|8
+Bohmstedt|DE||8r|47m|p5|8|Bomsted;Bååmst
+Bohunove|UA||98|3mn|2cm|8|Bohounové
+Bohunice|SK||8s|3s6|1ek|8
+Bohuslavice u Zlína|CZ||9m|3sl|1d0|7
+Böhlen|DE|Thuringia|8r|3wj|uo|7
+Böhen|DE||8r|3p0|sm|7
+Bohfla|CI||0|l8|-gi|7
+Bohutice|CZ||9m|3s3|19g|6
+Bohdany|UA||98|3up|2gk|6|Bogdany
+Bohdanove|UA||98|3px|2c1|6
+Bohinjska Bela|SI||9a|3kr|132|5
+Bohonal de Ibor|ES||9d|32i|-f8|5
+Bohal|FR||9k|3oq|-6s|5
+Bohioué|CI||0|lj|-kt|5
+Boharyně|CZ||9m|3vg|17f|5
+Bohdanivka|UA|Poltava|98|3tz|2jw|5|Bogdanovka
+Bohodarivka|UA||98|3r1|2n6|5|Pershe Travnia;Bogodarovka;Pershe Travnya
+Boharevytsia|UA||98|3q5|1ro|5|Boharevytsya

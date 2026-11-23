@@ -1,0 +1,96 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sadr City|IQ||5z|2kr|3fi|9cm
+Jhang Sadr|PK||6q|2ev|5kw|4oh|Jhang Sadar;Džchang Sadaras;Džhang-Sadara;Jhang
+Lubango|AO||x|-15g|11h|4mw|Sá da Bandeira;Lubangas
+Saddiqabad|PK||6q|26n|5et|246|Sādikābād;Sādiqābād
+Novi Sad|RS||8q|3hp|1j4|1nu|Újvidék;Nowy Sad;Novisada;Neusatz;Nový Sad
+Sa Dec|VN||6h|sl|85s|1nm
+Greater Sudbury|CA||59|3l5|-68z|1a4|Grand Sudbury;Gran Sudbury;Sudbury;Sadberis;Granda Sudbury
+Shahr-e Ṣadrā|IR||7o|2as|41u|xy|Shahre sadra
+Ambala Sadar|IN||6t|2ca|5xi|t6
+Sādatpur Gujran|IN||6t|27t|5yl|r4
+Shadrinsk|RU||7z|4bt|4ws|m3|Schadrinsk;Sjadrinsk;Chadrinsk;Šadrinsk;Sadrinszk
+Sa'dah|YE||5r|1b2|3dk|ef|Sa'da;Sada;Sadah;Caadah;Sadaa;Saada
+Sado|JP|Niigata|7q|2xm|aoc|eb
+Sadasivpet|IN||6t|1cy|60j|db|Sadāseopet;Sadashivpet
+Sadao|TH||62|ig|7qy|cu|Sendawa
+Sadābād|IN||6t|248|60s|a1
+Saddat al Hindīyah|IQ||5z|2iw|3f0|9x
+Sādpalli|IN||6t|1bt|68k|8v
+Sādri|IN||6t|1xz|5o1|7m
+Saddleworth|GB||9b|44r|-5k|72
+Sadulshahar|IN||6t|2b3|5q2|6y
+Saddle Ridge|CA||2s|3y1|-8sj|6s
+Sadalgi|IN||6t|1a0|5r1|6m|Sadalga
+Sadabe|MG||a8|-1fr|3oi|4q
+Sādhaura|IN||6t|2cf|5yi|44|Sadaura
+Sada|ES||9d|3cg|-my|41
+Saddle Brook|US||48|35m|-5pt|3n|Saddlebrook
+Saddlebrooke|US||4i|2ie|-8k2|3i
+Sādāt|IN||6t|1zb|6fe|34
+Zadonsk|RU||9i|41j|305|2v|Sadonsk
+Sada|YT||ah|-zp|3ha|2q
+Sadova|RO|Dolj|8u|3dy|1uj|2b
+Sa‘dābād|IR||7o|29m|3xz|2a
+Sade|NG||u|vk|tn|2a
+Sadamitsu|JP||7q|2mj|acf|25
+Sadjoavato|MG||a8|-z2|3t3|24|Sadjovato
+Sadakhlo|GE||7n|36k|3gf|21|Sadachlo;Sadajlo;Sadaxlı
+Satikran|CI||0|iz|-ae|1t|Sadikran
+Sudova Vyshnia|UA||98|3ub|1sx|1t|Sądowa Wisznia;Sudova Vyshnya
+Sudden Valley|US||3p|3rc|-9fv|1s|Saden Vali
+Sadovoye|RU|Kalmykiya Republic|9i|3op|3fn|1r|Sadovoje;Sadowoje
+Sadikyüzi|CN||7t|3e1|6ak|1g|Sadikeyuzi
+Sadovoye|RU|Voronezh Oblast|9i|3z5|34i|1e|Sadovoje;Sadovoe
+Sar Ta Lin|MM||7y|1be|7fj|1a|Sādalin
+Sado|JP|Yamagata|7q|2zs|ati|13
+Sad|IN||6t|1z5|61d|x
+Sadská|CZ||9m|3va|15n|x
+Sadzhavka|UA||98|3qx|1ww|x|Sadschawka;Sadzawka;Sadjavka;Sadzavka;Sazhovka
+Sadirac|FR||9k|3ge|-15|x
+Saddle River|US||48|35z|-5pu|x
+Sadleir|AU||8l|-2m8|bn5|v
+Sadky|UA||98|3s5|2kz|t|Sadkî;Szadki
+Sadovoye|UA||9t|3hv|2o9|t
+Sadsadan|PH||71|1b1|9br|s
+Sadovo|BG||9v|391|1xa|r|Sadowo;Sadova
+Sadova|RO|Suceava|8u|3o1|1yu|p
+Sadu|RO||8u|3iv|1v6|o|Cód
+Sad|UA||98|3xc|2of|n
+Sadsalan|PH||71|iz|9m5|n
+Sadovyy|RU||75|496|6eh|m
+Sadadeen|AU||8e|-1tu|aby|l
+Szadek|PL||a5|3zl|1gq|k|Šadeka
+Sadki|PL||a5|43o|1ch|k|Sadke
+Sadlinki|PL||a5|453|1gf|k
+Sèvres-Anxaumont|FR||9k|3ld|1b|k|Sadebria
+Sádaba|ES||9d|39g|-3j|j
+Sedarak|AZ||61|32b|3go|j|Sadarak;Sederek
+Şadrābād|IR|Yazd Province|7o|2h3|46a|f
+Sadina|RO||8u|3fd|1yx|e
+Sadliers Crossing|AU||8c|-24p|bsb|e
+Sadov|CZ||9m|3vn|zu|d
+Sar Taing Hmut|MM||7y|19y|7fd|c|Sadainghmut
+Sadlers|KN||51|1cc|-4uf|c
+Sadowne|PL||a5|428|1op|c|Sadovnės valsčius
+Sadove|UA|Odesa|98|3ju|29c|a|Neu-elft;Ferşampenuaz-Mare;Ferșampenuazul Mare;Sadowe;Alt Elft;Sadovoye;Fershampenazul Mare
+Sadove|UA|Odesa|98|3kf|2bx|a|Neu-Seimeny;Dox;Sadovoye
+Sadali|IT||9o|32l|pr|9
+Saddle Rock|US||48|35b|-5ov|9
+Sadove|UA|Mykolaiv|98|3mf|2iz|9
+Şadrābād|IR|Qazvin Province|7o|2ri|3v3|8
+Sadon|RU||9i|3b1|3e9|8
+Zadunayivka|UA||98|3jb|28v|8|Dunăreanca;Sadunajiwka;Zadounaïvka
+Sadove|UA|Mykolaiv|98|3p8|2eu|7
+Sadove|UA|Kherson|98|3ks|2hf|7|Sadovoye
+Sādātābād|IR||7o|2el|3yq|7
+Sadipara|IN||6t|1r0|6st|6
+Sadroc|FR||9k|3hs|4b|6
+Sadove|UA|Zaporizhzhia|98|3ly|2q9|6|Sadovoye
+Belencik|TR||94|33n|3ao|6|Şadivan;Şadvan
+Sadiadougou|CI||0|e6|-gs|6
+Sadowie|PL||a5|3x9|1nd|6
+Sadkowice|PL||a5|3zp|1kz|6
+Sada-Chihoué|KM||ac|-vz|3ci|6
+Şadāqeh|IR||7o|2wc|3hc|5
+Sadoveni|RO||8u|3pb|23d|5

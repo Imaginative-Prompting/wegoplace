@@ -1,0 +1,122 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+São Paulo|BR||4w|-1tf|-3lk|2noi|San-Paŭlo;San Paulo;San Paolo;Urbs Paulistana;San Paulas;Sanpaulu;San Pawlo;Sampa;Saun Paulu;San Pàul ëd Brasil;São Paolo;San Poło del Braxil;San Poulo;San Paulu;San-Paulu;San Pauluw;sankt. paulos;San Paulu dû Brasili;Sawo Pålo
+Baotou|CN||7i|34x|8h4|lb5|Bao Đầu;Pao-tchou;Baŭtoŭo;Bău-tàu;Pâu-thèu-sṳ;Paotou;Pau-thâu-chhī;Pao-t’ou;Pao-tow
+Bengbu|CN||7i|2ji|920|7i8|Bạng Phụ;Pâung-buô;Pāng-pō-chhī;Bangbu
+Paulista|BR|Pernambuco|4p|-m2|-2ov|2n2
+Saint Paul|US|Minnesota|2f|3gu|-76l|2c8|St. Paul;Urbs Sancti Pauli de Minnesota;Sent Polas;San Pablo;Sentpola;Sint-Paul;Sent Pol;Sent Pols;Sint Pol
+Itaim Paulista|BR||4w|-1ta|-3kv|1l1
+Bragança Paulista|BR||4w|-1rr|-3la|1d4
+Paulo Afonso|BR||20|-q5|-2y5|x6
+Várzea Paulista|BR||4w|-1sh|-3m3|w6
+Paulínia|BR||4w|-1r8|-3mz|up|Pauliniya;Paulinjo;Paulinija
+Saint-Paul|RE||ai|-1md|49j|t8
+Pau|FR||9k|3cb|-10|mz
+Paudalho|BR||4p|-ly|-2pq|fr
+Paungde|MM||7y|1fd|7db|aa|Paung-deh
+Pau dos Ferros|BR||2w|-gz|-2y4|8h|Dao Dos Ferros;Pão dos Ferros
+Pauk Kone|MM||7y|1b3|7f3|8a
+Paung|MM||7y|1a6|7iq|86
+Pauri|IN||6t|2br|62u|7d
+Pawni|IN||6t|1lr|658|6j|Pauni
+Paulistana|BR||2w|-mm|-36b|5q|Paulista
+Paulo Ramos|BR||2w|-cd|-3ho|5n
+Pauini|BR||3t|-lf|-562|5f
+Paulino Neves|BR||2w|-7k|-3a5|4r
+Pavlovsk|RU|St. Petersburg|9i|4ls|2cj|4h|Pauluskoi;Pawlowsk;Pavlovszk;Paviosk
+Pomáz|HU||8v|3oc|1gv|45|Paumasch
+Paulpietersburg|ZA||o|-246|2dm|3n
+Paola|IT||9o|31c|18k|3i|Paula
+Paulista|BR|Paraíba|2w|-ib|-2wi|3a
+Paullo|IT||9o|3i6|q4|31
+Pau Brasil|BR||20|-16y|-325|2m
+Paulo Lopes|BR||4w|-25o|-3r8|2j
+Pavullo nel Frignano|IT||9o|3f5|u4|2j|Paullo nel Frignano
+Paola|MT||9e|2rn|14a|2f|Paula;Pawla
+Paula Cândido|BR||4w|-1lz|-3be|2f
+Pauli-Brousse|CI||0|ds|-h7|2d
+Paulsstadt|DE||8r|44z|vo|2b
+Paulicéia|BR||4w|-1n8|-3zz|28
+Paulo de Faria|BR||4w|-1jn|-3t9|22
+Paul Roux|ZA||o|-26m|25n|22
+Pau d'Arco|BR|Pará|23|-lr|-3v0|1x
+Păuneşti|RO||8u|3jv|23a|1w
+Paulo Jacinto|BR||3r|-q1|-2t1|1v
+Pauna|CO||27|fq|-5pi|1s
+Paulo Frontin|BR||4w|-20c|-3x8|1r|Paulo-de-Frontin
+Pauls Valley|US||2f|2oi|-7i2|1q
+Paulsboro|US||48|32n|-5t0|1o
+Pauillac|FR||9k|3hk|-23|1m|Paulhac
+Paula Freitas|BR||4w|-20t|-3xi|1l|Paulo Freitas
+Pawcatuck|US||48|36y|-5jj|1k|Paquatuck;Paucatuck
+Paulden|US||4i|2ox|-8of|1g
+Pauoa|US||ax|1n8|-c6g|1g
+Păuleşti|RO|Prahova|8u|3h0|204|1f
+Pula|IT||9o|30d|p0|1d|Pauli Norae
+Pauktaw|MM||7y|1aw|7ex|1d|Pauk Taw
+Paulton|GB||9b|3yi|-6y|1d
+Paucartambo|PE||3o|-tx|-5ul|18
+Paulistas|BR||4w|-1f7|-3b3|18
+Păuleşti|RO|Satu Mare County|8u|3oq|1ro|17
+Pau d'Arco|BR|Tocantins|1k|-ky|-3t5|15
+Păuliş|RO||8u|3k4|1ny|14
+Pausa|DE||8r|3wi|xc|13
+Pau d’Arco do Piauí|BR||2w|-el|-39r|13
+Păuşeşti-Măglaşi|RO||8u|3hd|1vd|12|Păuşeşti-Măglaş;Păuşeştii-Maglaşti
+Paulding|US||48|36a|-6iy|z
+Paulba|PH|Bicol Region|71|123|9id|y
+Pavlovo|RU|Leningradskaya Oblast'|9i|4m5|2du|x|Paulova;Pawlowo
+Paulhan|FR||9k|3cy|9m|w
+Paulba|PH|Bicol Region|71|10m|9iy|p
+Pau|PH||71|15r|9bc|o
+Paulilatino|IT||9o|33c|oc|n
+Pauléoula|CI||0|g6|-kk|n
+Pawili|PH||71|11k|9ig|m|Pauili
+Paurito|BO||3n|-1do|-4uu|m
+Păuca|RO||8u|3ju|1ue|m
+Paulo Bento|BR||4w|-24y|-41m|l
+Paulistânia|BR||4w|-1qq|-3t8|l
+Posada|IT||9o|34v|r0|k|Pasada;Pausada
+Povoletto|IT||9o|3k4|10x|k|Paulet
+Păuleni-Ciuc|RO||8u|3kw|1zr|h|Csíkpálfalva
+Paunzhausen|DE||8r|3qn|w4|f
+Pauk Taw|MM||7y|1ad|7ep|f|Pauktaw
+Păușești|RO||8u|3n0|23x|f
+Paularo|IT||9o|3l9|10g|f|Paular
+Paulx|FR||9k|3mg|-4w|f|Palud
+Paudex|CH||a7|3l7|ij|e
+Păulești|RO|Vrancea|8u|3jh|225|d
+Paulinenaue|DE||8r|42c|zb|d
+Paujiles|HN||56|15y|-6qn|c
+Paul|US||28|3ad|-8s2|c
+Paulina|US||2f|2bf|-6zz|c
+Petropavlivka|UA|Odesa|98|3kq|2a4|b|Păuleni
+Pauanui|NZ||ak|-2uu|dkj|b
+Paulhaguet|FR||9k|3hl|9r|a
+Paulhac|FR|Occitanie|9k|3dk|4c|a
+Pauatahanui|NZ||ak|-366|dhw|a
+Paullina|US||2f|3be|-7dt|a
+Pautovo|RU||63|412|6i3|a
+Paucourt|FR||9k|3pg|7s|9
+Paudorf|AT||a2|3qb|17e|9
+Paul do Mar|PT||86|2j0|-1bv|9
+Paucas|PE||3o|-pf|-5xm|9
+Pauly-Chantier|CI||0|dw|-hg|8
+Paulstown|IE||8z|42c|-ji|8|Baile Phóil
+Paucarbamba|PE||3o|-yv|-5r1|8
+Păuleasca|RO|Teleorman County|8u|3dp|1yq|8
+Păun|RO||8u|3mu|24u|7
+Paucar|PE||3o|-st|-5wd|7
+Păuleasca|RO|Arges|8u|3h1|1x0|7|Păuleasa
+Paule|FR||9k|3q0|-9l|7|Paoul
+Paupisi|IT||9o|36g|14q|7|Popisi
+Paul Smiths|US||48|3fg|-5q9|7|Paul Smith's
+Paulhac|FR|Auvergne-Rhône-Alpes|9k|3hu|9b|7
+Paulerspury|GB||9b|40q|-2n|6
+Păuleasca|RO|Arges|8u|3h2|1wz|6
+Paucarcolla|PE||3o|-17q|-5em|6
+Pauli Arbarei|IT||9o|326|os|6
+Paüls|ES||9d|35o|14|6
+Paulinet|FR||9k|3dt|6r|6
+Pauilhac|FR||9k|3dw|1p|5
+Păușa|RO||8u|3mt|1sb|5
+Păucea|RO||8u|3ke|1vo|5

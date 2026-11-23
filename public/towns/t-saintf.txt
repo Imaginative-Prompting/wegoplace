@@ -1,0 +1,62 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Fons|FR||9k|3iz|dh|4h
+Saint-François|FR||9k|3ky|av|3s
+Saint-François|GP||31|195|-4q7|3j
+Saint-Fargeau-Ponthierry|FR||9k|3qw|71|3d
+Saint-Félicien|CA||59|3r5|-5l9|2v
+Saint Francis|US|Wisconsin|2f|3bd|-6s4|2m
+Saint-Flour|FR||9k|3h3|8l|23
+Saint Francis|US|Minnesota|2f|3i3|-77c|20|St. Francis
+Saint-Florent-sur-Cher|FR||9k|3mk|69|1z
+Saint-Félix-de-Valois|CA||59|3k9|-5nz|1o
+Saint-Florentin|FR||9k|3pc|ac|1o
+Saintfield|GB||9b|47a|-g7|x|Tamhnaigh Naomh
+Saint-Fulgent|FR||9k|3m5|-3a|x
+Saint-Florent-le-Vieil|FR||9k|3nk|-2u|s
+Saint-Florent-des-Bois|FR||9k|3lf|-3o|r
+Saint-Féliu-d'Avall|FR||9k|3ak|7m|o|Sant Feliu d'Avall;Saint-Feliu-d'Aval
+Saint-Folquin|FR||9k|3xi|5w|l
+Saint-Fulgence|CA||59|3ql|-5gy|l
+Saint-Félix|FR|Auvergne-Rhône-Alpes|9k|3j8|gm|i
+Saint Francisville|US|Louisiana|2f|2di|-71u|i|St. Francisville
+Saint-Fargeau|FR||9k|3oc|8j|h|Saint Fageau
+Saint-Fort|FR||9k|3os|-20|h
+Sainte-Féréole|FR||9k|3hn|4e|g|Saint-Féréole
+Saint-Florent|FR||9k|3ak|pu|g|San Fiurenzu
+Saint-Félix-Lauragais|FR||9k|3cp|59|f
+Saint-Forgeux|FR||9k|3je|cf|e
+Saint Francis|US|Kansas|2f|32h|-7us|d
+Sainte-Foy-l'Argentière|FR||9k|3iz|cf|d|Saint-Foy-l'Argentière
+Saint-Félicien|FR||9k|3h9|cv|d
+Saint-Florent-sur-Auzonnet|FR||9k|3ew|bf|c
+Saint-Fiacre-sur-Maine|FR||9k|3my|-3y|b|Sant-Fieg-ar-Mewan
+Saint-Faustin|CA||59|3k4|-5qw|a
+Saint-Flavien|CA||59|3l7|-5iw|a
+Saint-Front-de-Pradoux|FR||9k|3h6|10|a|Sent Front de Pradon
+Saint-Fraimbault-de-Prières|FR||9k|3qb|-1m|a
+Saint-Fort-sur-Gironde|FR||9k|3ia|-20|9
+Saint-Fuscien|FR||9k|3ug|6f|9|Saint-Fuschien
+Saint-Firmin-des-Prés|FR||9k|3ow|33|9
+Saint-Ferréol|FR||9k|3j4|hj|9
+Saint-Félix-de-Lodez|FR||9k|3da|9m|8|Saint-Félix-de-Lodès
+Saint-Faust|FR||9k|3c7|-19|8|Sent Haust
+Saint-Fiel|FR||9k|3kd|59|8
+Saint-Firmin|FR||9k|3m3|cf|8
+Saint Fergus|GB||9b|4fw|-54|8
+Saint-Féliu-d'Amont|FR||9k|3al|7k|7|Saint-Féliu;Sant Feliu d'Amunt
+Saint Francis|US|South Dakota|2f|3bu|-7sb|7
+Saint Francisville|US|Illinois|2f|2z7|-6rh|7
+Saint-Fraimbault|FR||9k|3qo|-1y|7
+Saint-Fromond|FR||9k|3sq|-31|7
+Saint-Flovier|FR||9k|3mh|2v|7
+Saint-Ferréol-des-Côtes|FR||9k|3ih|ab|6|Saint-Féréol des Côtes
+Saint-Front-sur-Lémance|FR||9k|3fu|2p|6
+Saint Francis|US|Maine|48|3n1|-5bd|6
+Saint-Firmin-sur-Loire|FR||9k|3ob|7l|6|Sanctus Firminus ad Ligerim
+Saint-Fortunat-sur-Eyrieux|FR||9k|3gj|d0|6|Saint-Fortunat-sous-Eyrieux
+Saint-Frégant|FR||9k|3r0|-c5|6|Sant-Fregan
+Saint-Forget|FR||9k|3ra|5k|5
+Saint-Forgeot|FR||9k|3mk|by|5
+Saint-Front|FR||9k|3gy|bi|5
+Saint-Front-la-Rivière|FR||9k|3ib|21|5|Sent Front de la Ribiera;Sent Front la Ribiera
+Saint-Félix|FR|Hauts-de-France|9k|3t4|6c|5

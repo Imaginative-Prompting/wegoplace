@@ -1,0 +1,360 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cairo|EG||c|2bi|2et|224l|Kairo;El Caire;Káhira;Le Caire;Cairus;Kairas;Kaherah;Kair;Cairu;Kahire;Kaira;Caire;Lo Cayiro;Kayro;El Kahira
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Al Jubayl|SA|Eastern Province|7e|232|3tu|1tx|Jubail;Al-Dschubail;Al-Jubayl;Džubail;Al-Dżubajl;El-Cübeyl;Al Jubail;Jubayl
+Elche|ES||9d|2ya|-1y|1t8|Elx;Illici;Elig;Elch;Elčė
+Elgin|US|Illinois|2f|38s|-6t8|v5|Eldžinas;Elcin
+El Cajon|US||3p|2j3|-90w|st|Elkachona;Elkahona;Tsétah Tééh;Elcajon
+El Cafetal|VE||2c|t3|-55n|m8
+El Carmen de Bolívar|CO||27|r0|-5so|dc
+El Centro|US||3p|2j3|-8x0|c8|El Centras
+El Cerrito|CO||27|a9|-5vz|ao|Cerrito
+el Camp de l'Arpa del Clot|ES||9d|371|62|an
+el Camp d'en Grassot i Gràcia Nova|ES||9d|371|61|9k
+El Carmel|ES||9d|372|60|8q
+El Charco|CO||27|6w|-60z|7z|Charco
+El Copey|CO||27|s7|-5pg|7y
+El Campello|ES||9d|2yr|-14|7r|Campello
+el Clot|ES||9d|371|63|7h
+Al Jahrā’|KW||6x|29i|3oe|6r|Al Jahra;El Chra;Al Jahrah;Al-Jaharah;Al Jahara
+El Cerrito|US||3p|2xc|-9fr|6j|El Cerito
+El Calafate|AR||1r|-3vu|-5ks|6c|Calafate;El Kalafatė
+El Chorrillo|PA||4g|ov|-64z|53|Chorrillo
+El Carmen de Chucurí|CO||27|im|-5o7|4w
+El Crucero|NI||3s|xb|-6nr|4l|El Cirucero;Crucero
+El Camino Real|US||3p|2lm|-936|4g
+Villa de El Carmen Tequexquitla|MX||41|1ho|-7j9|3y|El Carmen Tequesquitla;Tequexquitla;Tequixquitla
+el Congrés i els Indians|ES||9d|372|62|3y
+El Carril|AR||1s|-1xn|-51x|3n|Carril
+El Colorado|AR||1n|-213|-4kx|3k
+El Carmen|CL|Ñuble|4u|-2ui|-5k3|3f
+El Carmen|CL|Biobio|4u|-2st|-5k4|3f
+El Carmen|CO|Norte de Santander Department|27|nn|-5o1|3c|Carmen
+El Coco|PA|Panamá Oeste Province|4g|oo|-65p|3b
+El Campo|US||2f|294|-7ff|38|Elcampo
+Elhovo|BG||9v|395|21t|2w|Elchovo;Elkhovo
+El Colomo|MX|Colima|41|1gy|-81m|2v
+El Casar|ES||9d|2z1|-gh|2s
+Etchojoa|MX||37|22r|-8gj|2p|Elchojoa
+El Congo|SV||2u|12n|-6wm|2h
+El Cerrillo Vista Hermosa|MX||41|1ho|-7oi|2f
+El Cuervo|ES||9d|2ud|-gs|25
+el Coll|ES||9d|372|5z|21|Coll
+El Campanario y Oradel|MX||3w|24b|-7oq|1y
+El Coacoyul|MX||41|1d0|-7tw|1x|Coacoyul
+El Cóporo|MX||41|1hk|-7pc|1p
+El Castillo|MX|Veracruz|41|1ib|-7h3|1g
+El Cerrito Corona|US||3p|2m0|-92g|1f
+El Coronil|ES||9d|2v0|-fn|1e|El Goronil
+Ejido la Ventana|MX||3x|1up|-88t|1d|El Carrizo
+El Cobre|CU||36|1jp|-5uz|1c|El Kobre
+El Centenario|MX|Baja California Sur|3x|1uy|-8ip|1b
+El Cerro Mission|US||2p|2ok|-888|1b
+El Caney|CU||36|1n6|-620|1a
+El Carpio|ES||9d|2xe|-ci|19
+Villa Emiliano Zapata|MX|Veracruz|41|1hs|-7gi|19|Emiliano Zapata;El Carrizal
+El Chote|MX|Veracruz|41|1ko|-7ie|15
+Castellazzo Bormida|IT||9o|3gk|nu|15|Ël Castlass
+Elche de la Sierra|ES||9d|2yt|-5p|13
+El Cedro|MX|Tabasco|41|1e3|-767|12
+El Cambio|MX||44|1z8|-7z1|12
+El Cazadero|MX|Querétaro|41|1ke|-7pf|y|Cazadero
+Los Prietos|MX||41|1l6|-7tb|y|El Cajón
+El Cenizo|US||2f|23z|-7od|x
+El Cantón de San Pablo|CO||27|eu|-5x5|x
+El Cairo|CO||27|d8|-5vq|x
+El Capulín|MX|Guanajuato|41|1mg|-7qo|x|Capulin
+El Crucero de Santa María|MX||41|1km|-80i|w
+El Control|MX||3w|204|-7jp|v
+El Carrizal Grande|MX||41|1lj|-7tf|v|Carrizal Grande
+El Cerro de la Sauceda|MX||41|1jt|-7wa|v|La Sauceda
+El Castillo|MX|Sinaloa|3x|1w6|-8b6|u
+El Ciruelo|HN||56|16h|-6tv|u|Ciruelo
+El Cerro|US||2p|2ol|-88e|u
+Cauchy-à-la-Tour|FR||9k|3wa|6t|t|El-Cauchie-à-lTour
+El Colorado|MX|Sinaloa|3x|1zk|-8fo|t
+El Castillo|MX|Guanajuato|41|1l6|-7r5|t
+El Cocuy|CO||27|ht|-5l9|r
+El Cabezón|MX||41|1ky|-80r|r
+El Plan|MX|Jalisco|41|1kq|-7zt|r|El Cerrito
+El Carril|DO||4v|1f9|-5ej|q|El Corral
+El Cerro de Andévalo|ES||9d|2wu|-ja|q
+El Carmen Aztama|MX||41|1hf|-7ku|q
+El Castillo|CO||27|9w|-5oz|q
+El Cid|MX||41|1j7|-7mt|q
+El Carrizalito|MX||41|1li|-7th|p
+El Chico|MX|Veracruz|41|1i3|-7h0|p
+El Capulín|MX|Michoacán|41|1k7|-7wp|o|El Cepulín
+El Chol|GT||32|15k|-6zd|o
+El Cháuz|MX||41|1gh|-7vg|o
+El Cuervero (Cuerveros)|MX||41|1oq|-7x8|o
+El Curtidor|MX||41|1hl|-7pb|n
+El Carmen|CO|Chocó|27|gd|-5ss|n|Carmen
+El Ceñidor|MX||41|1gs|-7vv|m
+El Ciruelo|MX||41|19c|-7ky|m|Ciruelo
+El Castillo|MX|Sinaloa|3x|1sf|-87e|m|Castillo
+El Coyul|MX|Oaxaca|41|187|-7e5|m|El Coyol
+El Carmen (El Limón)|MX||41|1dp|-76t|m
+El Carpio de Tajo|ES||9d|32t|-cd|m
+El Camarón|MX|Oaxaca|41|1a0|-7er|m
+El Carretón|MX||41|1o3|-7si|m|Carretón
+El Corte|MX|Veracruz|41|1fa|-7dy|l
+El Contadero de Matamoros|MX||41|1hg|-7p9|l|San José el Contadero;Contadero de Matamoros
+El Capulín|MX|San Luis Potosí|41|1on|-7pw|k|Capulín
+El Copalar|MX||41|1aw|-76x|k
+El Corte|MX|Nayarit|3x|1oc|-84c|k
+Capulín de Bustos|MX||41|1m0|-7tf|k|El Capulín
+El Cacao|DO||4v|1fh|-5fa|k
+El Cortijo|MX|Guerrero|41|1b7|-7nf|k
+El Carmen Xalpatlahuaya|MX||41|1hv|-7k6|j
+El Cahulote de Santa Ana|MX||41|1h0|-7u6|j
+El Chante|MX||41|1is|-81g|j
+El Chaltén|AR||1r|-3t1|-5mh|j|El Čaltenas
+El Chayote|MX||41|1px|-7w0|i
+El Carrizo|MX|Oaxaca|41|195|-7kb|h|Carrizo
+El Copalillo|MX||41|1ll|-7tj|h
+El Cerrito|MX|México|41|1hs|-7nz|h
+El Carmen|MX|Guanajuato|41|1lc|-7tl|h
+El Cocuite|MX||41|1g0|-7ex|h|Cocuite;El Cucuite
+El Congo|MX||41|1dj|-74s|h
+El Chichicaste|HN||56|133|-6nq|h|Chichicaste
+Nuevo Centro de Población Agrícola el Chacón|MX||41|1jr|-7ma|h|El Chacón
+El Castillo de las Guardas|ES||9d|2wp|-hk|g|El Castello de las Guardas
+El CERESO|MX||41|1me|-7uh|g
+El Cuyo|MX||3z|1ns|-6rk|g
+El Carmen|MX|Jalisco|41|1ld|-80n|g|El Capulín;Carmen
+El Capulín|MX|Hidalgo|41|1jl|-7l0|g
+El Chinaco (El Pujido)|MX||41|1l0|-7sc|f
+El Censo|MX||41|1au|-72c|f
+El Colomo|MX|Jalisco|3x|1lz|-844|f
+El Capomal|MX||3x|1oo|-840|f|Capomal
+El Conchero|MX||41|1b2|-7po|e
+El Carmen|MX|Chiapas|41|17a|-76p|e
+El Coto|MX||41|1ko|-7q5|e
+El Copetillo|MX||41|1pi|-7vc|e
+El Casar de Escalona|ES||9d|339|-cl|e
+El Ciervo|MX|Querétaro|41|1la|-7pf|e|Ciervo
+El Coyote|MX|Sonora|37|2dn|-8ou|d
+El Coloso|MX||41|1h2|-7oo|d
+El Corcovado|MX||41|1j5|-81o|d|Corcovado
+Santa Gertrudis Miramar|MX||41|18m|-7cz|d|El Carrizal
+El Cubolero|HN||56|11f|-6rj|d|El Cubulero
+El Carmen|MX|Guerrero|41|1b3|-7kw|d
+El Calvario|MX|Chiapas|41|1bu|-754|d
+El Ranchito|MX|Jalisco|41|1ll|-843|d|El Colesio
+El Capulín|MX|Guanajuato|41|1kc|-7sj|c|Capulín
+Magdaleno Cedillo|MX||44|1rb|-7pm|c|El Coronel;Coronel
+El Cayaco|MX||41|1bd|-7qj|c|Cayaco
+El Cortés|MX||41|1am|-7oe|c
+El Carmen|MX|México|41|1j9|-7mw|c
+El Césped|MX||41|1j8|-7q6|c
+El Chacal|MX||41|1k6|-7iq|c|Chacal
+El Corpús|HN||56|14u|-6uz|c
+El Carmen Ocotepec|MX||41|1ip|-7pp|c
+El Cotillo|ES||83|27o|-12x|c
+El Cazadero|MX|Zacatecas|41|1tr|-7yg|c|Cazadero
+El Colegio|MX||41|1ix|-7t2|c
+El Cuenqueño|MX||41|1kh|-7wm|c
+El Copé|PA||4g|ny|-67u|c
+El Carmen|MX|Querétaro|41|1l5|-7ql|c
+El Canario|MX||41|1k0|-7ti|c
+El Cortezo|PA||4g|n7|-67v|c|Cortezo
+El Carmen|MX|Puebla|41|1hg|-7i0|c
+El Chimbo|HN||56|13a|-6q0|b|Chimbo
+El Consuelo|MX||44|1z1|-7yw|b
+El Copal|MX|Chiapas|41|1b5|-765|b|Copal
+El Cuitzillo Grande|MX||41|1iy|-7sw|b
+El Caño|PA||4g|nd|-67o|b
+El Chocolate|MX||41|1b1|-7c5|b|Cocolate
+El Cabi|MX||41|1hb|-7ml|b
+El Cortijo|MX|Jalisco|41|1kv|-7za|b
+El Carmen|MX|Jalisco|41|1kp|-7wi|b
+El Carrizal|MX|San Luis Potosí|41|1q2|-7t1|b|Carrizal
+El Colorado|MX|Hidalgo|41|1k6|-7n0|b
+El Capulín (La Nueva Pochota)|MX||41|1en|-7fg|b
+El Caracol|MX|Guanajuato|41|1l5|-7si|b
+Los Cenotes|MX||41|1cz|-70w|a|Cenote;El Cenote
+El Camalote|MX|Oaxaca|41|183|-7ge|a
+El Conejo|MX|Veracruz|41|1i9|-7hv|a
+El Corozal|HN||56|15v|-6u6|a
+El Carricito|MX||3x|206|-8el|a|Carricitos
+El Carmen (El Desierto del Carmen)|MX||41|1gk|-7ok|a
+El Colorado|MX|Jalisco|41|1lp|-844|a
+El Capulo (La Quebradora)|MX||41|1gn|-7kz|a
+El Coco|PA|Coclé|4g|nc|-677|a
+El Cuije|MX||44|1ze|-7z2|a
+El Colorado|MX|México|41|1ju|-7p4|a
+El Capomo|MX||3x|1mn|-840|a
+El Caracol|MX|Sinaloa|3x|1yt|-8e3|a
+El Carmen|PE||3o|-12t|-5ud|a
+El Cristo|PA||4g|mx|-67y|a
+El Copal|MX|Veracruz|41|1la|-7j1|a
+El Coyul|MX|Guerrero|41|1be|-7kx|a
+El Camarón|MX|Oaxaca|41|1eb|-7f8|a|Camarón Salsipuedes
+El Campamento|MX|Veracruz|41|1jf|-7hx|9
+El Cocal|PA||4g|li|-670|9
+Elciego|ES||9d|3a4|-7a|9|Eltziego
+El Corralito|MX||41|1aq|-749|9
+Luis Echeverría Álvarez|MX|Quintana Roo|2b|1fu|-6t2|9|El Cocal
+El Carmen|MX|Guerrero|41|1ap|-7mc|9
+El Carmen|MX|Chiapas|41|1b9|-73o|9
+El Carrizal|MX|Chiapas|41|1bo|-76k|9
+El Carrizal|MX|Chiapas|41|1c7|-74q|9
+El Chavarín|MX||41|1hc|-82g|9|Chavarín
+El Carrizal|MX|Hidalgo|41|1ky|-7nk|9
+El Claro|MX||37|2cl|-8kw|9
+El Carmen|MX|México|41|1gj|-7p0|9
+El Calvario|MX|Chiapas|41|1c3|-75x|9
+El Chico|MX|Jalisco|41|1ic|-82g|9
+El Campanario|MX|Veracruz|41|1g5|-7hz|9
+El Colorado|MX|Oaxaca|41|17o|-7g0|8
+El Carmen|MX|Hidalgo|41|1ke|-7pb|8
+El Campesino|MX||3x|1ze|-8dx|8
+El Calvario|MX|México|41|1h7|-7oq|8
+El Calvario|MX|Michoacán|41|1j0|-7sp|8
+El Conejal|MX||41|1ow|-7vx|8|Conejal
+El Camalote|MX|Sinaloa|3x|1vq|-8a2|8|Camalote
+el Campell / Alcampell|ES||9d|38f|17|8|el Campell;Alcampell
+El Chanal|MX||41|1hl|-803|8
+El Capulín|MX|Veracruz|41|1iu|-7go|8
+El Centinela|MX||41|1pb|-7m1|8
+El Cerrito Itzícuaro|MX||41|1in|-7tc|8
+El Chapo|MX||41|1e5|-7a3|8
+El Congo|PA||4g|ng|-67e|8
+El Centro|MX||41|1sz|-7yy|8
+Ignacio Zaragoza|MX|Veracruz|41|1ji|-7hb|8|El Chorro
+El Chaparrón|MX||41|15m|-749|8
+San Lucas|MX|Zacatecas|41|1v7|-7ye|8|El Conejo
+El Carmen|MX|Chiapas|41|15r|-740|8
+El Camarón|MX|Oaxaca|41|1e6|-7gw|8
+El Clavo|MX||41|1ca|-72j|8
+El Cacalote|MX|Oaxaca|41|18b|-7if|8|Cacalotepec
+El Cajón|MX||41|1kn|-7or|8
+El Coyote|MX|Sinaloa|3x|1zb|-8co|8|Coyote
+El Cabellal|MX|Veracruz|41|1k9|-7hf|8
+El Carrizal|MX|San Luis Potosí|41|1mv|-7mk|8
+El Cedral|MX|Quintana Roo|2b|1m7|-6r7|8
+El Coyol|MX||41|1mi|-7n0|8
+El Cedral|MX|Oaxaca|41|1e2|-7ev|7
+El Caracol|MX|Michoacán|41|1id|-7rv|7
+El Cardo|PE||3o|-1a4|-5m1|7
+El Cedro|MX|Veracruz|41|1kw|-7i1|7
+El Resplandor|MX||41|1mc|-7u9|7|El Chorro;El Chorizo
+El Corozal|MX||41|1e0|-75n|7|El Corosal
+El Castillo de La Concepción|NI||3s|um|-6ig|7
+El Chipilín|MX||41|160|-74r|7
+El Capulín|MX|Tabasco|3z|1d7|-711|7
+El Carmelo|MX||41|1b1|-76o|7
+El Colongo|MX||41|1ju|-7wd|7
+Cruz de Palma|MX||41|1ns|-7l0|7|El Carmen
+El Ciervo|MX|Veracruz|41|1jn|-7gt|7
+El Carmen|MX|Guanajuato|41|1n0|-7qo|7|Carmen
+El Chaparral|MX||41|1j7|-7gh|7
+El Chamizal|MX|Hidalgo|41|1k1|-7mt|7
+El Chino|MX||41|1q0|-7ue|7
+Ejido Vega de San Marcos|MX||41|1k4|-7ha|7|El Cuerillal;Cuerillo
+El Carasol|MX||41|19v|-7jm|7|El Caracol
+El Cabellal|MX|Veracruz|41|1l3|-7ig|7
+El Cambil|MX||41|16v|-74g|7|Cambil
+El Chapaneal|MX||41|1gn|-7pn|7
+El Ciruelar|MX||41|1bp|-7qz|7
+El Cerrito|MX|San Luis Potosí|41|1og|-7rp|7|Cerrito
+El Carricillo|MX||41|1n8|-7pb|7
+El Centenario|MX|Nayarit|3x|1qj|-84o|7
+El Cocoyult (Coacoyul)|MX||41|1ak|-7od|7
+El Correo|MX||41|1ij|-7tq|7
+El Caro|MX||37|22n|-8gs|7
+El Campanario|MX|Veracruz|41|1g5|-7he|7
+El Cuarenteño|MX||3x|1nm|-83r|7|Cuarenteño
+El Crucero|MX|Chiapas|41|1ao|-755|7
+El Crucero|MX|Sonora|37|2dh|-8jz|7
+El Cerrito|MX|México|41|1io|-7oe|7
+El Colorado|MX|Michoacán|41|1k1|-7v6|7
+El Carrizal|MX|San Luis Potosí|41|1o0|-7mb|7|Carrizal
+La Colorada|MX||41|1n6|-7s6|7|Colorada;El Colorada
+El Coahuayote (El Arco)|MX||41|1ih|-7z4|7
+El Crucero (Estación Pedernales)|MX||41|1pm|-7k3|7
+El Calvario|MX|Guerrero|41|1et|-7pa|7
+El Capulín|MX|Guerrero|41|1c1|-7mg|7
+El Caulote|MX||41|1h4|-7vp|7
+El Campito|MX||41|14s|-742|6
+El Cerrito del Arenal|MX||41|1m9|-7r0|6
+El Castillo|MX|Jalisco|41|1kl|-7vy|6
+El Cerro de las Huertas|MX||41|1a1|-7gm|6
+El Capulín Primera Sección|MX||41|1hm|-7po|6
+El Caudillo del Sur|MX||41|1ge|-7n9|6
+El Capulín|MX|Michoacán|41|1j8|-7q7|6
+El Cachanilla|MX||3x|1tw|-8ic|6
+El Chaparro|MX||41|1ii|-7rh|6|Chaparro
+El Charcón|MX||41|1lm|-7v3|6
+El Coco|MX|Morelos|41|1fn|-7nv|6
+El Carrizal|MX|Baja California Sur|3x|1u2|-8if|6|Carrizal
+El Congreso|MX||41|18l|-78j|6
+El Chamizal|MX|Tabasco|3z|1cm|-70x|6
+El Costoche|MX||41|19k|-7fr|6
+El Cedral|MX|Oaxaca|41|1f1|-7g0|6
+El Charco|MX|Guanajuato|41|1jy|-7sx|6
+El Carrizo|MX|Guerrero|41|1b0|-7nm|6
+El Cacalote|MX|Jalisco|41|1j4|-81o|6
+El Cedral|MX|Veracruz|41|1k9|-7ie|6
+El Chirimoyo|MX||41|1c6|-7mp|6
+El Capulín|MX|Guerrero|41|1b0|-7lg|6
+El Carrizal|MX|Oaxaca|41|19x|-7io|6|Carrizal
+El Carrizal|MX|Guerrero|41|1b4|-7q6|6
+El Cañón|MX||41|1nk|-7n0|6
+El Cafetal|MX|Veracruz|41|1ip|-7gn|6
+El Castillo|MX|Durango|44|1zb|-7zb|6
+El Carrizal|MX|Oaxaca|41|1ea|-7h2|6
+El Carrizal|MX|Chiapas|41|16s|-74e|6
+El Cariño|MX||44|1z7|-7zc|6
+El Coyote|MX|Guanajuato|41|1ly|-7t9|6|Coyote
+El Chalahuite|MX||41|1i3|-7fp|6
+El Cafetal|MX|Veracruz|41|1mw|-7j9|6
+El Caimán|MX||3x|1zv|-8cy|6|Margen Derecho;Caiman
+El Cerrito|MX|Querétaro|41|1kw|-7pi|6
+El Capulín|MX|Tlaxcala|41|1i1|-7jz|6
+El Charquito|MX||41|1qv|-7rp|6
+El Crestón|MX||41|1jq|-7o1|6
+El Crucero|MX|Veracruz|41|1ho|-7g4|6|Crucero
+El Custodio|MX||41|1qx|-7pp|6|Custodio
+El Calvario|CO||27|c3|-5or|6
+El Cuitabón|MX||3x|1z6|-8d7|6
+El Carmen de Sánchez|MX||41|1lr|-7u5|6|Carmen de Sánchez
+El Calabozo Segunda Fracción|MX||41|1ix|-7qr|6
+El Coquillo|MX||41|1ah|-7mt|6
+El Campamento|MX|Chiapas|41|19a|-73g|5
+El Castillo|MX|Michoacán|41|1iz|-7s7|5
+El Chupadero|MX||41|1hb|-7ub|5
+El Marcial|MX||41|1dy|-7ds|5|El Coyolar;Marcial
+El Centenario|MX|San Luis Potosí|41|1oh|-7sf|5
+El Capulín Chocolate|MX||41|1ab|-7mc|5
+El Charco|MX|Guerrero|41|1be|-7ns|5
+El Cerrito Parado|MX||41|1m4|-7po|5|Cerrito Parado
+El Chote|MX|Veracruz|41|1ol|-7lj|5
+El Coco|MX|Guerrero|41|1et|-7rr|5
+El Campanario|MX|México|41|1gv|-7qy|5
+El Campamento|MX|Baja California Sur|3x|1te|-8go|5
+El Chico|MX|Jalisco|41|1hq|-81p|5
+El Chirú|PA||4g|nc|-66r|5
+El Carmen|MX|Tabasco|41|1em|-76r|5
+El Conejo|MX|Guanajuato|41|1ll|-7tq|5
+El Cerrito|MX|México|41|1ip|-7nq|5
+El Cubo de Don Sancho|ES||9d|35l|-hj|5
+El Capulín|MX|México|41|1k7|-7qs|5
+El Cerrito de Catipuato (Cerrito de Ortiz)|MX||41|1jn|-7w4|5
+El Cascalote|MX||41|1ea|-7n5|5|El Cascaiote
+El Cerro|ES||9d|340|-gg|5
+Miguel de la Madrid|MX||44|1u2|-7jj|5|El Canal
+El Capire|MX||41|1ex|-7pm|5
+El Carrizo|MX|San Luis Potosí|41|1oi|-7me|5
+El Capulín Tercera Sección|MX||41|1hk|-7pk|5|Palo Mancornado
+El Crucero|MX|Chiapas|41|1c9|-74u|5
+El Camaleón|MX||41|1m1|-7ub|5
+El Cuy|AR||1s|-32x|-59u|5
+El Contento|MX||41|1fr|-7f8|5
+El Crucero|MX|Veracruz|41|1k6|-7je|5
+El Carrizo|MX|Guerrero|41|1a8|-7n3|5
+El Conchal|MX||3x|1vc|-8a5|5
+El Cantón|MX||41|1ax|-7oo|5
+El Ciprés|MX||41|1ht|-7i1|5
+El Colorado|MX|Guanajuato|41|1nq|-7s1|5

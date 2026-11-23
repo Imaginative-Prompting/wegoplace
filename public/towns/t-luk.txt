@@ -1,0 +1,91 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lucknow|IN||6t|22k|68s|j2o|Laknaŭo;Lakhnau;Laknau;Luknow;Laknava
+Luxor|EG||c|1ze|2io|39c|Luksoro;Louxor;Luksor;Luksoras;El-Uksur;Loxòr;Lucsar;Luksora;Al Uqsur;Luqsor;Louksor;El-Aksur
+Banja Luka|BA||9r|3ge|1bt|1pf|Bania Luka;Baņa Luka;Banya Luka;Banjaluka;Banjaluko;Bagnaluka;Banialuca;BanjaLucka
+Lucapa|AO||x|-ne|1lm|uk|Lukapa
+Velikiye Luki|RU||9i|4ci|2cu|sn|Welikije Luki;Velikije Luki;Wielkie Łuki;Velikije Loeki;Velikie Luki
+Lubu|CN||7i|1sd|8nw|qm|Luk Pu;Luk Po;Lu-pu
+Lucca|IT||9o|3ds|t6|mp|Lucques;Lukka;Luca;Locca
+Luxembourg|LU||9c|3tt|h1|lb|Luxemburg;Luxemburgo;Luksemburgo;Luksemburg;Ciudad de Luxemburgo;Ciutat de Luxemburg;Lucemburk;Luxenburgo;Lussemburgo;Lëtzebuerg;Liuksemburgas;Luksemburga;Luksemburgu;Lussimbork veye;Luxembôrg;Lucsamburg;Stad Lëtzebuerg;Stadt Luxemburg;Lüksemburq;Luksembourg;Dinas Lwcsembwrg;Luxemborj;Lúksemboarch;Lucsemburg;Liksanbou;Luxemburgum;Lüssemburgh;Rakapuō;Lussemburgu;Lussemborgh;Luksimbur;Luxembuurich;Lungsod ng Luksemburgo;Lusenburgo;Luksambuur;Letzeburg
+Ełk|PL||a5|45j|1q4|fi|Lyck;Lukas
+Lukula|CD||y|-ar|1uc|cx|Lukule
+Lukavac|BA||9r|3fq|1fh|cd
+Lukwatini|ZA||o|-20e|2dm|ae
+Lukaya|UG||q|-b|2gh|94
+Lukhovitsy|RU||9i|48q|30g|90|Luchowizy;Lujovitsy;Loukhovitsy;Luchovicy;Luhovitsy;Luxovitsı;Luhovițî;Luĥovici;Łuchowicy;Lukhovitsi
+Lukyanivka|UA|Kyiv City|98|3w7|2co|8q|Lukianivka
+Łuków|PL||a5|409|1q6|8h|Lukuv;Lukova;Lukuvas;Lukov
+Lukuledi|TZ||h|-td|2zs|89
+Lukulu|ZM||z|-13x|1sk|5d
+Lugu|TW||7l|1tz|9bf|4x|Lu-ku
+Lukut|MY||6v|75|7uv|4l
+Lukolela|CD||t|-2y|1bq|46
+Luk Yeung|HK||6i|1q5|8t0|3y
+Lukoyanov|RU||9i|48v|3fk|3l|Lukojanov;Lukozanov
+Glückstadt|DE||8r|45f|q6|3d|Lukkstaður
+Luckau|DE|Brandenburg|8r|401|123|2x|Łukow;Luccavia;Lukava
+Lukovit|BG||9v|3c0|1v5|2q|Loukovit;Lukowit
+Lukhovka|RU||9i|46f|3hq|2h
+Loukoléla|CG||a|-2w|1bj|24|Lukolela
+Glücksburg|DE||8r|48c|qj|1q|Lyksborg;Lukkuborg
+Luksuhin|PH||71|136|9bs|1a
+Luklukan|PH||71|13t|9gv|17
+Lucsuhin|PH||71|12k|9b4|16|Luksuhin
+Lukavica|BA||9r|3gc|1eh|15
+Lukino|RU||9i|4cs|3d7|10|Loukino
+Luka-Meleshkivska|UA||98|3sm|275|10
+Laki|BG||9v|389|1wy|x|Lŭki
+Luka nad Jihlavou|CZ||9m|3t5|17m|w
+Lukh|RU||9i|4ed|39e|w
+Lukiv|UA|Volyn|98|3yb|1vm|v|Maciejów;Lukiw;Maciejowice;Lukov
+Lukiv|UA|Volyn|98|3xt|1yk|u|Lukuv;Lukov
+Lukonmäki|FI||92|4qr|1u9|s
+Gheorghe Doja|RO|Mureș County|8u|3l3|1w2|s|Lukafalva
+Lukashin|AM||80|33n|3e8|s
+Lukovetskiy|RU||9i|4ym|38g|r|Lukovetskij
+Luknovo|RU||9i|4c2|38s|q
+Lukavtsi|UA||98|3pw|1yl|q|Loukavtsi;Lucavăț;Lukavets
+Łukowa|PL|Lublin|a5|3vx|1rq|q
+Lukatan|PH||71|jh|9r6|q|Lucatan
+Łukowica|PL||a5|3tt|1kw|m
+Lukićevo|RS||8q|3hy|1ky|m
+Lukov|CZ||9m|3sx|1d9|i
+Lukachukai|US||2p|2t6|-8ff|h
+Lluka e Eperme|XK||8q|3a7|1kf|f|Llukë e Epërme;Luka e Epërme
+Lukovo|UA||98|3q8|1sh|f
+Lukovo|MK||9u|36v|1l9|e
+Lukovytsya|UA|Chernivtsi|98|3pw|20g|e|Loukovytsia;Lucovița
+Lukavec|HR||a6|3iy|18f|d|Lukanec
+Lukiantsi|UA||98|3vl|2tf|c|Luk’yantsy;Luk’yantsi
+Lukavice|CZ|Pardubice Region|9m|3v2|19s|c
+Łukowa|PL|Lesser Poland|a5|3v5|1ma|c
+Lukáčovce|SK||8s|3qg|1du|c
+Lukanivka|UA||98|3p3|2cn|b|Loukanivka;Lukanovka
+Luka|UA|Poltava|98|3w6|2kh|a
+Lukarišće|HR||a6|3j9|198|a
+Łukta|PL||a5|45h|1js|a
+Lukavec|CZ||9m|3tp|15n|a
+Lukashivka|UA|Cherkasy|98|3tu|2i8|9|Lukashëvka
+Lukavice|CZ|Olomouc Region|9m|3ue|1b0|9
+Lukunor Village|FM||an|fb|bva|9
+Luká|CZ||9m|3tx|1b3|9
+Lūkh|IR||7o|2vu|3v8|9
+Lúky|SK||8s|3sn|1en|9|Luki
+Łukowa|PL|Świętokrzyskie|a5|3ww|1l2|8
+Lukachivka|UA||98|3qe|22v|8|Loukatchivka;Lucăceni
+Lukashivka|UA|Mykolaiv|98|3pt|2d9|7|Loukachivka
+Lukavice|CZ|Pardubice Region|9m|3ul|180|7
+Luka Vrbovečka|HR||a6|3jg|19i|7|Luka
+Luka|UA|Kyiv Oblast|98|3tg|2d7|7
+Lukino Selo|RS||8q|3hu|1kr|7|Lukinić Selo
+Luková|CZ||9m|3uk|1a5|7
+Lukov|SK||8s|3sx|1mk|7
+Łukowe|PL||a5|3tb|1ps|6
+Lukavci|SI||9a|3la|18v|6
+Lukimia|UA||98|3ue|2je|6|Lukom'ye
+Lukovytsya|UA|Chernivtsi|98|3pw|20h|6|Loukovytsia;Lucovița
+Łukowa|PL|Subcarpathia|a5|3vt|1q5|6
+Lukyanivka|UA|Mykolaiv|98|3nw|2ha|6|Loukianivka
+Lukovany|CZ||9m|3sk|19a|5
+Lukavice|CZ|Hradec Králové Region|9m|3vg|199|5|Lukawitz
+Lukovica pri Brezovici|SI||9a|3ju|13z|5

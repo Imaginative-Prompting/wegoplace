@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Vilyuchinsk|RU||6p|431|c81|70|Viljutsjinsk;Wiljutschinsk;Vilioutchinsk;Viljučinsk;Viljoetsjinsk;Viluĉinsk;Viljutšinsk;Viljucsinszk;Wiluczinsk
+Vilyuysk|RU||7x|4x3|9dv|2r|Viljujsk;Wiljuisk;Viliúisk;Viliouïsk;Viljoejsk;Vilujsk;Viljuisk;Viljujszk;Viliujskas;Viļujska;Vilüisk;Wilujsk;Vilyuisk;Vilyusk
+Vilufushi|MV||af|6y|5nn|l

@@ -1,0 +1,12 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Laurent-du-Var|FR||9k|3db|jz|87|Sant Laurenç de Var
+Saint-Laurent-de-la-Salanque|FR||9k|3at|8b|2b|Sant Llorenç de la Salanca
+Sant Lluís|ES||9d|32p|bu|1x|San Luis
+Saint-Lyphard|FR||9k|3no|-6f|z|Sant-Lefer
+Saint-Lunaire|FR||9k|3r3|-5v|p|Sant-Luner
+Saint-Lumine-de-Coutais|FR||9k|3mp|-4t|i|Sant-Leven-ar-C'hoad;Sant-Leven-ar-Choad
+Saint-Lumine-de-Clisson|FR||9k|3ms|-3q|f|Sant-Leven-Klison
+Saint-Laurent-en-Royans|FR||9k|3h3|et|d|Sant Laurenç de Roians
+Sant Llorenç de Cerdans|FR||9k|39q|79|d|Saint-Laurent-de-Cerdans
+Saint-Léger-les-Vignes|FR||9k|3my|-4t|c|Sant-Lezer-ar-Gwiniegi
+Saint-Lormel|FR||9k|3qv|-67|8|Sant-Loheñvel

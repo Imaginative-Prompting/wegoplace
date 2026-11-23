@@ -1,0 +1,525 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+The Bronx|US||48|35h|-5p7|aor|Bronx;Borough of Bronx;Bronkso
+Port Said|EG||c|2ev|2hq|60t|Puerto Saíd;Port-Saïd;Porto Said;Bursaid;Būr Sa‘īd;Bor Sa‘īd
+Wrocław|PL||a5|3xy|1bb|56t|Breslau;Vratislavie;Breslavia;Vratislav;Vroclavo;Boroszló;Vrotslav;Vroclava;Vratislavia;Vroclavas;Breslava;Vruoclavs;Breslū;Vroclav;Wrocłow;Brassel;Vroklave;Wroklaw;Vroslav;Vrocuav;Brasloi;Breßlau;Wrosław;Breslavl’
+Borivli|IN||6t|1hf|5me|4pc|Borivali
+Borama|SO||14|rm|3by|4m2|Boorama;Boramo
+Bornova|TR||94|2yw|23o|3hp|Burnova
+Barddhamān|IN||6t|1sm|6s2|2bt|Bordhoman;Bardhaman;Burdwan
+Bordeaux|FR||9k|3gk|-1m|21p|Burdeos;Bordele;Bordozo;Burdigala;Bordeus;Bordeos;Bordèu;Bourdel;Bordo;Bordôx;Burdeus
+Porto-Novo|BJ||1b|i2|78|21f|Porto Novo;Porto Novas;Pòto-Novo;Portus Novus;Pòrto Neuvo;Portonovo;Borto-Novo
+Borūjerd|IR||7o|2m6|3rf|1y0|Būrūjīrd
+Borshchahivka|UA||98|3w3|2cf|1dz
+Bournemouth|GB||9b|3ww|-58|19g|Bornmuto;Bornmutas;Bornmut
+Bordj Bou Arreridj|DZ||3|2s7|d8|184|Bordj-Bou-Arreridj;Burdż Bu Urajridż;Bordj Bou Arerridj
+Port Louis|MU||ag|-1k0|4fq|174|Port-Louis;Puerto Louis;Port Luisas;Pò-Loui;Portluī;Portus Ludovici;Port-Luiso;Port Luiz;Port Luis;Bort Lois;Port Lois;Port-lui;Port Lui
+Borough Park|US||48|34v|-5pk|15g
+Orekhovo-Borisovo|RU||9i|4ah|2wt|140
+Barysaw|BY||9g|46n|277|115|Borisov;Borissow;Barysaŭ
+Orekhovo-Borisovo Severnoye|RU||9i|4ai|2wo|zk
+Mykilska Borshchahivka|UA||98|3w3|2cd|ze
+Bordj el Kiffan|DZ||3|2u3|8v|y8|Bordj El Kifan
+Borāzjān|IR||7o|29b|3ya|uq|Borāzjūn;Borazdjan
+San Francisco De Borja|PE||3o|-xl|-5xw|t7
+Boryeong|KR||7h|2sz|9ro|q6|Poryŏng
+Berdsk|RU||75|483|6eu|p3|Bierdsk;Bjerdsk;Bordsk
+Borås|SE||9w|4gc|zy|jx|Boerosia;Burosas;Burosa
+Borongan|PH||71|w9|9of|ju
+Borisoglebsk|RU||9i|3yp|38y|j2|Borissoglebsk;Borysoglebsk;Borisoqlebsk
+Bourges|FR||9k|3ms|6o|iw|Borges;Buržas;Avaricum Biturigum;Burža
+Boryspil|UA||98|3vv|2dz|ht|Boryspol;Borispilo;Borispilj;Borispol’
+Borsad|IN||6t|1q9|5mi|hm
+Bor|RU|Nizhny Novgorod Oblast|9i|4ck|3ef|gu
+Borūjen|IR||7o|2gt|3yh|fv|Borūjān
+Borovichi|RU||9i|4i7|2m8|fq|Borovitsji;Borowitschi;Borovitchi;Boroviči;Borovitši;Borovičiai;Borowicze;Borovitji
+Boghni|DZ||3|2ti|az|f7|Borhni;Būghnī
+Bordj el Bahri|DZ||3|2u7|91|eo
+Porvoo|FI||92|4nr|1zb|ef|Borgå;Porvas;Porvō;Borgoa;Borgo
+Bornheim|DE|North Rhine-Westphalia|8r|3x0|jf|dh
+Borgerhout|BE||8t|3y9|cc|ct
+Bourg-en-Bresse|FR||9k|3kd|ej|cl|Bourg;Bôrg;Borg de Bressa;Burgus Bressiae;Burganbresa
+Bordj Menaïel|DZ||3|2u2|ac|ce
+Borlänge|SE||9w|4o1|16w|bo|Borlaenge;Burlengė
+Borba|BR||3t|-c7|-4lj|bl
+Birsk|RU||7z|49y|4aa|be|Böre;Birszk
+Borken|DE|North Rhine-Westphalia|8r|400|j2|bd|Buorken
+Bor|RS||8q|3ef|1pe|ay
+Borehamwood|GB||9b|3zh|-s|a3
+Burriana|ES||9d|32t|-8|9l|Borriana
+Bordj Ghdir|DZ||3|2rq|dm|9h|Bordj Rédir;Bordj Rhedir;Bordj R’dir
+Borgo San Paolo|IT||9o|3h6|l8|9a
+Boryslav|UA||98|3sx|1t3|91|Borysław;Borıslav;Borõslav;Boriszlav;Borislava;Borysxaw;Borislau
+Bor|TR||94|2x9|2o0|90
+Borj Cedria|TN||1e|2ty|sv|8v
+Burgdorf|DE||8r|41p|rt|8n|Bortärpe;Borchdörp;Bortörp
+Borzya|RU||67|3vz|8zp|8g|Borzia;Borzja
+Burj Islām|SY||69|2r3|2rg|8c|Bourj Islam;Burdż Islam;Buruç İslam;Borj Islâm
+Borşa|RO|Maramureş|8u|3oe|1wi|7i
+Bor|SS||p|h9|2fo|7g
+Borāwar|IN||6t|232|5rg|6y
+Boriziny|MG||a8|-177|3of|6n
+Borne|NL||8m|41a|ir|6n|Boorn
+Bogotol|RU||6u|4c4|6wp|6k|Borotol
+Boronia|AU||8j|-2x7|b7k|6k
+Sant Pere, Santa Caterina i La Ribera|ES||9d|36y|62|6d|Born;el Born;borne
+Borssele|NL||8m|3yu|ad|67|Borsele;Bossele
+Boraure|VE||2c|sh|-5b1|60
+Burunday|KZ||5s|3cg|5xh|5u|Boralday;Baranday
+Bordon|GB||9b|3xz|-2e|5u
+Bobrov|RU||9i|3xy|337|5q|Borrov;Bobrow
+Borgomanero|IT||9o|3iy|ni|5o
+Boromo|BF||1a|wn|-85|5m|Borom
+Bornem|BE||8t|3xy|bs|5k|Bornhem
+Boriavi|IN||6t|1qt|5ml|5j
+Bordj Zemoura|DZ||3|2sr|di|5i
+Borgaon|IN|Maharashtra|6t|1lk|62c|5i
+Borodino|RU||6u|4bb|7bn|5g|Borodinas
+Borna|DE||8r|3y0|yq|58|Borno;Bornis
+Bormujos|ES||9d|2vt|-gv|56
+Borikhan|LA||7v|1fk|805|54|Borikane;Berikhane;Borikham;Bolikhan
+Borda da Mata|BR||4w|-1pv|-3k9|4u|Borda da Matta
+Bortnychi|UA||98|3vy|2da|4b|Bortnichi
+Boroon|PH||71|mq|9ky|4b
+Borovskiy|RU||7z|4eg|52k|4a|Borovskij
+Taka-Töölö|FI||92|4n6|1x8|49|Bortre Tölö
+Borotou-Koro|CI||0|nl|-jy|49
+Borgo Vittoria|IT||9o|3ha|lc|44
+Borborema|BR|São Paulo|4w|-1o2|-3sb|3y
+Borisovka|RU|Belgorod Oblast|9i|3wk|2s2|3x|Borissowka
+Borodianka|UA||98|3wo|2b4|3u|Borodjanka;Borodyanka;Borodânka;Borodzianka;Borodeanka
+Bo Rai|TH||62|yx|7wu|3s
+Borkherī|IN||6t|1m7|63i|3p
+Borger|US||2f|2r3|-7to|3m
+Borken|DE|Hesse|8r|3xt|ps|3f
+Borī|IN||6t|1m3|63g|3d
+Borgata Paradiso|IT||9o|3h8|l4|3c|Borgià Paradis;Paradis;Paradiso
+Borek|PL|Lower Silesia|a5|3xw|1b9|3b
+Bori|NG||u|d0|kh|39
+Borovsk|RU||9i|49c|2td|38|Borowsk
+Borgaro Torinese|IT||9o|3hf|la|35|Borghi
+Borjomi|GE||7n|389|3ck|34|Bordshomi;Bordżomi;Bordschomi;Bordjomi;Bordzjomi;Borcomi;Boržomis;Borshom;Borzhomi
+Borgo San Dalmazzo|IT||9o|3f6|kt|33
+Borgosesia|IT||9o|3j0|mz|32
+Borshchiv|UA||98|3rk|20b|2y|Borszczów;Borchtchiv;Borșciv
+Borculo|NL||8m|40s|i4|2w|Berkelland;Borkulo
+Borsbeek|BE||8t|3y8|ch|2v
+Ineu|RO|Arad County|8u|3kz|1oo|2t|Yanova;Borosjenő;Janopol
+Borgata Lesna|IT||9o|3h6|l6|2s
+Borgloon|BE||8t|3x5|eu|2s|Looz;Loeën;Loon
+Borçka|TR||94|36w|37r|2r
+Bora|IN||6t|1tq|5xd|2r|Boda
+Burlington|US|New Jersey|48|33b|-5ry|2q|Burling Town;Borlington;Buzlington
+Borigumma|IN||6t|1gx|6db|2q|Boriguma
+Borgo San Lorenzo|IT||9o|3e4|vn|2p
+Borgentreich|DE||8r|3z9|po|2p|Bentreike
+Borovskoy|KZ||7c|45f|4ya|2p
+Borcea|RO||8u|3f5|253|2n
+Borzna|UA||98|3yd|2i3|2n|Borsna
+Borskoye|RU||9p|43b|3zm|2j|Borskoje
+Borgata Monginevro|IT||9o|3h6|l7|2j
+Bordighera|IT||9o|3dm|la|2i
+Borleşti|RO|Neamț County|8u|3lx|21k|2i
+Borolong|BW||m|-1mm|23y|2h
+Bor-Öndör|MN||7s|3kj|8g0|2h
+Borāj|IN||6t|21h|5r9|2g
+Borgholzhausen|DE||8r|40q|n2|2g
+Borsdorf|DE||8r|3yn|yt|2d
+Borgosatollo|IT||9o|3ic|sg|2d
+Borpukhuri|IN||6t|20a|75x|2b
+Borim|IN||6t|16p|5pk|2b
+Boron|CI||0|o5|-gl|28
+Boronia Heights|AU||8c|-24x|bt2|26
+Bornos|ES||9d|2ua|-fy|26
+Borrazópolis|BR||4w|-1ui|-3zb|25
+Bordesholm|DE||8r|46i|rv|25
+Walbersdorf|AT||a2|3om|19m|23|Vujbrštof;Borbolya
+Borgaon|IN|Madhya Pradesh|6t|1nw|62x|23
+Borgo a Buggiano|IT||9o|3dw|tt|21|Buggiano
+Borova|UA|Kyiv Oblast|98|3ve|2bm|20
+Borsigwalde|DE||8r|423|10z|1z
+Borgfelde|DE||8r|44r|rv|1z
+Borio|IN||6t|1xj|6rb|1y
+Borlai Panchaitan|IN||6t|1eh|5ms|1y|Borlai-Panchatan;Borlai Panchaitar
+Bormes-les-Mimosas|FR||9k|3bv|hm|1x|Bòrmas;Bòrma dei Mimòsas;Bormes
+Borovikha|RU||63|44n|6gw|1v
+Borgo Valsugana|IT||9o|3jx|vu|1u
+Borca|RO||8u|3n2|1zl|1u
+Borj el Amri|TN||1e|2tz|rg|1t
+Borj Mejen Bel Abbès|TN||1e|2oj|no|1t
+Borodinskiy|RU||9i|460|2x2|1s
+Borgo Maggiore|SM||9q|3e2|yl|1s|Mercatale;Burgus Maior;Borgo Madžorė;Borgo Majore
+Borgetto|IT||9o|2xp|10i|1r|Lu Burgettu
+Borgoricco-San Michele delle Badesse-Sant'Eufemia|IT||9o|3ii|x6|1o|Borgoricco
+Borinskoye|RU||9i|41q|31d|1o|Borinskoje
+Borovoy|RU|Kuzbass|74|49z|6n4|1n|Borovoj;Borovaya
+Borodulikha|KZ||5s|3ww|68t|1n
+Boradigah|AZ||61|305|3rb|1n|Boradigyakh
+Borisoglebskiy|RU||9i|4f2|30r|1m|Borisoglebskij
+Bornu Yassu|NG||u|y4|yx|1m
+Borgo Po|IT||9o|3h5|le|1m
+Borivali Tarf Rahur|IN||6t|1hu|5na|1m
+Borgonovo Valtidone|IT||9o|3h1|q8|1m|Borgonovo Val Tidone
+Medzilaborce|SK||8s|3sv|1ou|1m|Boró;Mezőlaborc;Mezőlaborcz
+Borrowash|GB||9b|42z|-3u|1l
+Borivske|UA||98|3rr|2z5|1l|Borivs’ke;Borovskyi Horodok
+Borla|IN||6t|1pk|69m|1l|Bodla
+Borgo|FR||9k|3a7|q7|1j|U Borgu;Borgu
+Borgo Val di Taro|IT||9o|3fl|r5|1j
+Borduşani|RO||8u|3fk|25i|1h
+Borogontsy|RU||7x|4u3|a4d|1h|Borogontsi
+Borgolai Grant No.11|IN||6t|23t|7dw|1g
+Borkum|DE||8r|44u|il|1g|Boarkum
+Borova|UA|Kharkiv|98|3t6|2wi|1g
+Boretto|IT||9o|3gq|tb|1f
+Borup|DK|Zealand|8y|4ap|wb|1f
+Borup|DK|Zealand|8y|4a5|xa|1f
+Barybino|RU||9i|49j|2x9|1e|Boribino
+Borovlyany|BY||9g|460|24w|1e
+Pornainen|FI||92|4o0|1yh|1e|Borgnäs
+Borghetto Santo Spirito|IT||9o|3ej|mw|1d
+Borigam|IN||6t|1hs|6jl|1d
+Krasnyy Bor|RU||9i|4ls|2d7|1d|Krasnyj Bor;Punaporu;Krasny Bor;Krasnıy Bor;Bor;Krasni Bor;Krasnõi Bor
+Bor|CZ||9m|3u3|zi|1c
+Boroaia|RO||8u|3nj|215|1b
+Boracéia|BR||4w|-1pn|-3ri|1b
+Borbon|PH|Central Visayas|71|u4|9kj|1b
+Borba|PT||99|2zt|-kp|1a|Borda
+Borger|NL||8m|430|iv|1a
+Burg|DE|Brandenburg|8r|3zz|13b|19|Bórkowy;Wobsedne Bórkowy
+Borso del Grappa|IT||9o|3j9|wp|18
+Borel|FR||9k|3cg|ex|18
+Utqiagvik|US||1h|5i1|-c3j|18|Borrou;Barrow
+Borja|ES||9d|387|-49|18
+Borne Sulinowo|PL||a5|44u|19x|17|Sulinowo;Lëpa;Borne Sulinovas;Borne Sulinovo
+Prundu Bârgăului|RO||8u|3n6|1wq|17|Borgóprund;Burgau;Borgo-Prund;Groß-Borgo;Prundul-Bârgăului;Prundu Bîrgăului
+Borgholm|SE||9w|4e0|1aa|17
+Borough Green|GB||9b|3yh|u|17
+Ferlach|AT||a2|3l9|13q|17|Borovlje;Ferlah
+Borriol|ES||9d|338|-7|17
+Borgne|HT||4j|1j5|-5lg|17|Obòy
+Borgustanskaya|RU||9i|3ed|3a5|17|Borgustanskaja
+Borgo Stazione|IT||9o|3c8|11w|16
+Borzoy|RU||9i|3b0|3ir|16|Borzoj;Al’pijskoe;Borze;Al’piyskoye;Barzoy
+Borgonuovo|IT|Emilia-Romagna|9o|3fg|vb|16|Borgonuova;Borgo Nuovo
+Borborema|BR|Paraíba|2w|-iw|-2qu|16|Barborema
+Borovany|CZ||9m|3ru|14o|16
+Boroughbridge|GB||9b|469|-3w|16
+Borgia|IT||9o|2zv|19v|15
+Borod|RO||8u|3mi|1qv|15
+Boromlia|UA||98|3wm|2p5|15|Boromlya;Boromlja;Boromla;Boromlea
+Borgo Ticino|IT||9o|3ix|nw|14
+Boroumba|CI||0|md|-7a|14|Borumba;Boromba
+Borský Mikuláš|SK||8s|3r3|1bt|13
+Bormio|IT||9o|3l3|st|13|Aquae Bormiae
+Bordentown|US||48|33j|-5rj|13|Bordenton;Burdenstown;Borden Town
+Borzęcin|PL||a5|3v3|1lj|13
+Börnsen|DE||8r|44k|sk|12
+Barwice|PL||a5|45a|19g|12|Bôrwica;Barvice
+Borgo San Giacomo|IT||9o|3hz|rp|11
+Bort-les-Orgues|FR||9k|3i4|6y|11|Bòrt
+Borăscu|RO||8u|3g6|1so|10
+Burlin|KZ||77|3yv|42f|10|Börili;Börli;Burli
+Borgele|NL||8m|418|h3|10
+Børkop|DK||8y|4ak|qt|10
+Borovo|HR||a6|3i5|1gq|10
+Bornhöved|DE||8r|467|sf|z
+Boroniava|UA||98|3ps|1sz|z|Boronyava
+Borkhera|IN||6t|1yw|5u4|y
+Bornel|FR||9k|3so|65|y
+Borrego Springs|US||3p|2ke|-8za|y
+Bormida-Genepro|IT||9o|3fb|ms|y
+Bourganeuf|FR||9k|3jn|4w|y|Borgonnuòu;Borgon Nuòu
+Velyki Birky|UA||98|3tk|1zj|y|Borki Wielkie;Welyki Birky;Velikiye Borki;Veliki Birki
+Borş|RO||8u|3mw|1om|x
+Borghetto Lodigiano|IT||9o|3hl|qe|x
+Boreham|GB|England|9b|3y8|-61|x
+Boreham|GB|England|9b|3zs|1i|w
+Borgo Santa Maria|IT|The Marches|9o|3dw|zk|w
+Borghetto|IT||9o|3d4|10x|w
+Borshchivka|UA||98|3ti|2up|v|Borshchovka;Borshchevka
+Bordány|HU||8v|3ko|1jc|v
+Borino|BG||9v|37t|1vh|v|Boriio
+Boroşneu Mare|RO||8u|3ja|208|v|Boroşnaul-Mare;Boroşneul-Mare
+Borgo Hermada|IT||9o|36r|10l|u|Borgo Ermada
+Bornato|IT||9o|3in|rw|u
+Bordei Verde|RO||8u|3h8|24l|u|Bordeiu-Verde;Bordeiul Verde
+Borensberg|SE||9w|4ip|16g|t
+Borovan|BG||9v|3cn|1tz|t|Borowan
+Bobrowniki|PL|Silesia|a5|3vy|1gr|t|Borowniki
+Borgofranco d'Ivrea|IT||9o|3ig|lu|t|Borghfranch;Borgofranco
+Borzhavske|UA||98|3q2|1rz|t|Borzhavs’ke;Borzhavskoye
+Bordertown|AU||8b|-2sv|av1|t
+Borotou|CI||0|o9|-kt|t
+Bourg-Argental|FR||9k|3hu|cp|s|Lo Borg dArgentau;Bôrg-Argental
+Börger|DE||8r|42z|ky|s
+Borsec|RO||8u|3mf|1z1|s|Borszék
+Boronów|PL||a5|3wr|1gj|s
+Borsodnádasd|HU||8v|3po|1k9|s
+Börezli|TR||94|31q|233|r
+Borebi|BR||4w|-1qp|-3s1|r|Boreby
+Bordo Blanco|MX||41|1ky|-7pl|r
+Borgo|IT|Lazio|9o|38e|ym|r
+Borgo Pilonetto|IT||9o|3h4|lc|r
+Borovoy|RU|Karelia|9i|4zh|2hl|q|Borovoj;Borovoi;Borovaya
+Borox|ES||9d|33b|-ae|q
+Birbash|KG||65|3a5|61o|p|Börü-Bash
+Borek Wielkopolski|PL||a5|408|1bw|p|Borck;Berck;Borek
+Baruny|BY||9g|46w|20m|p|Boruny
+Bor|RU|Krasnoyarsk Krai|6u|4bp|6yx|p
+Borgo Santa Maria Immacolata|IT||9o|3ad|131|p
+Borgarello|IT||9o|3ho|pe|p|Bulgarellum;Burgaré
+Borno|IT||9o|3jn|sc|p
+Born|NL||8m|3xr|g5|o|Bor
+Brid|UA||98|3qb|1rw|o|Boród;Brüd;Brod
+Borchtlombeek|BE||8t|3x9|bi|o
+Borsbeke|BE||8t|3xf|at|o
+Le Grand-Bornand|FR||9k|3jm|hv|n|Grand-Bornand;Bornantium Anniciense;Grand Bornand
+Bor|RU|Krasnoyarsk Krai|6u|4r4|6y2|n
+Borgo d'Ale|IT||9o|3hz|md|n
+Börßum|DE||8r|40n|te|n
+Bœrsch|FR||9k|3qo|ko|n|Börsch;Bersch
+Boron|US||3p|2p8|-92t|n|Boro
+Boršice|CZ||9m|3sa|1c7|m
+Borovo|BG||9v|3cu|1zp|m
+Borgo Tossignano|IT||9o|3f0|w8|m|Borgo di Tossignano
+Boran-sur-Oise|FR||9k|3sl|6k|m
+Borgio|IT||9o|3eo|n3|m
+Borore|IT||9o|33q|og|m
+Borovnica|SI||9a|3jk|13w|m|Borovnitsa
+Borohrádek|CZ||9m|3v6|18p|m
+Borgo San Michele|IT||9o|374|101|l
+Borgo Vercelli|IT||9o|3i0|ni|l
+Borbon|PH|Caraga|71|nk|9pp|l
+Boršov nad Vltavou|CZ||9m|3rw|143|l
+Bording Kirkeby|DK||8y|4c1|po|l
+Bordes|FR|New Aquitaine|9k|3c4|-s|l
+Borgagne|IT||9o|33s|1f2|l
+Borstel-Hohenraden|DE||8r|454|ra|l
+Borgo San Giovanni|IT||9o|3hs|q7|l
+Bordelum|DE||8r|47r|ot|l|Boorlem
+Borgo Crimea|IT||9o|3h6|ld|k
+Borgo Sabotino-Foce Verde|IT||9o|372|zn|k
+Borgolavezzaro|IT||9o|3hw|o6|k
+Borănești|RO||8u|3g2|21x|k
+Bordeasca Veche|RO||8u|3ii|23w|k
+Borello|IT||9o|3ee|xu|j
+Borgarnes|IS|West|87|4za|-1ow|j|Borganes;Borqarnes;Borgarbyggð
+Borgarnes|IS|West|87|4zc|-1ou|j
+Borghetto-Melara|IT||9o|3ei|rr|j
+Borgone Susa|IT||9o|3hc|k4|j|Borgon
+les Borges del Camp|ES||9d|36d|2u|i|Borjas del Campo
+Borşa|RO|Cluj County|8u|3md|1tr|i
+Borove|UA||98|3y0|23u|i|Borivski Budky;Okopy
+Borkheide|DE||8r|412|zp|i
+Borovoy|RU|Komi|9i|4vn|42x|i|Borovyj;Borovyy
+Börtlingen|DE||8r|3rf|qr|i
+Arkhanhelske|UA||98|3nr|2kt|i|Borozna
+Boornbergum|NL||8m|43g|gt|i|Boarnburgum;Bornbergumas
+Bordeşti|RO||8u|3ij|235|i
+Borysivka|UA||98|3j7|2ac|i|Borisovka
+Borok|RU||9i|4hb|2y8|i
+Borgo Melano|IT||9o|3h2|l2|i
+Börgerende-Rethwisch|DE||8r|46e|x5|h
+Borgharen|NL||8m|3xc|ft|h
+Borshchi|UA|Odesa|98|3oz|29x|h
+Boronda|US||3p|2ty|-9dz|h
+Borokodala|CI||0|nd|-gb|h
+Bordenii Mari|RO||8u|3h9|1zv|g|Bordeni-Mari
+Borotapia|CI||0|i2|-i7|g
+Borgo Podgora|IT||9o|37b|zp|g
+Borosoaia|RO||8u|3nu|23a|g
+Borivtsi|UA||98|3qz|1z8|g|Borovtsy;Borovtse
+Borský Svätý Jur|SK||8s|3r1|1bd|g|Búrsky Sväty Jur
+Vultureni|RO|Cluj County|8u|3mh|1th|g|Borsaújfalu
+Budzhak|UA||98|3km|298|f|Borodino;Budschak;Budžak;Bugeac;Budyak
+Borlova|RO||8u|3i1|1q3|f
+Borgo a Mozzano|IT||9o|3e6|ta|f
+Borkenes|NO||9j|5b1|18x|f
+Borzhava|UA||98|3ps|1r4|f
+Borowa|PL||a5|3vz|1nb|f
+Borgstedt|DE||8r|46x|qz|e
+Bordils|ES||9d|38s|83|e
+Borkwalde|DE||8r|415|zn|e
+Borgo San Martino|IT|Piedmont|9o|3h9|no|e
+Borstel|DE||8r|42b|ox|e
+Borne|DE||8r|40b|w4|e
+Borynia|UA||98|3sb|1rx|e|Borynya
+Bornasco|IT||9o|3hr|pm|e
+Borowno|PL||a5|3xh|1hj|e
+Borstendorf|DE||8r|3x1|10m|e
+Borgo|IT|Campania|9o|35g|152|e
+Bortigali|IT||9o|33w|ok|d
+Borota|HU||8v|3kj|1he|d
+Borgo Massano|IT||9o|3dq|z8|d
+Bornheim|DE|Rheinland-Pfalz|8r|3sq|mo|d
+Bořitov|CZ||9m|3tb|1a3|d
+Borgo Cittadella|IT||9o|3gs|nx|d
+Bořetice|CZ||9m|3rv|1at|d
+Borzano|IT||9o|3fw|tk|d
+Borzeshābād|IR||7o|2t1|4m1|d
+Borth|GB||9b|41t|-b9|d
+Borzęta|PL||a5|3ui|1ji|d
+Bor|SE||9w|4eo|13d|d
+Borucin|PL||a5|3ux|1eg|c
+Borča|RS||8q|3gn|1kt|c|Borcea;Borcsa
+Borovce|SK||8s|3qx|1db|c
+Bords|FR||9k|3ji|-28|c
+Borek|PL|Lesser Poland|a5|3uy|1l1|c
+Borgo|IT|Piedmont|9o|3g7|m4|c
+Birky|UA|Poltava|98|3v8|2mx|c|Borki
+Borgo Fornari-Pieve|IT||9o|3fv|ou|c
+Borek|CZ||9m|3s6|14a|c
+Born|DE||8r|473|yt|b
+Burgeta|IL||6n|2hs|2p4|b|Burgata;Bourgata;Borgata;Buregeta;Burgatah;Borgatah
+Börnichen|DE||8r|3wz|10i|b
+Bora Bassa|IT||9o|3ed|xu|b
+Borgo Grappa|IT||9o|370|100|b
+Bornich|DE||8r|3v9|ll|b
+Borrentin|DE||8r|45h|101|b
+Borgoforte|IT||9o|3h5|tv|a|Borchfòrt
+Borgo di Terzo|IT||9o|3j0|rh|a
+Borgo Lotti|IT||9o|380|yw|a
+Borisova Griva|RU||9i|4mx|2e2|a
+Borgata Marina|IT||9o|331|1a6|a
+Borcut|RO||8u|3nw|1u8|a
+Bournoncle-Saint-Pierre|FR||9k|3hy|98|a|Bornoncle de Sant Pèire
+Boroyaradougou|CI||0|m3|-ci|a
+Borsodszentgyörgy|HU||8v|3pu|1k4|a
+Bornstedt|DE||8r|3z0|vw|a
+Borek Szlachecki|PL||a5|3us|1iy|a
+Bořanovice|CZ||9m|3ve|148|a
+Borrby|SE||9w|4a2|13e|a|Borrdy
+Bornerbroek|NL||8m|41b|ih|a|Bornebroek
+Börrstadt|DE||8r|3tq|m2|a
+Borumlaca|RO||8u|3n6|1qg|a
+Bernstein|AT||a2|3np|196|a|Borostyánko
+Borroloola|AU||8e|-18n|ain|a
+Borge|ES||9d|2u9|-bs|9
+Borisovo|RU||9i|49y|2s5|9|Borissowo
+Borinka|SK||8s|3q2|1bh|9|Pozsonyborostyánkő
+Borkowice|PL|Opole Voivodeship|a5|3xi|1eg|9
+Borrisokane|IE||8z|438|-ml|9|Buiríos Uí Chéin
+Borgo Quinzio|IT||9o|394|zb|9
+Borodaivka|UA||98|3rf|2ms|9|Borodayivka;Borodayevka
+Borgo Carso|IT||9o|37d|zt|9
+Bogoria|PL||a5|3wp|1n2|9|Bogoryja;Borgoria;Bogorja
+Borlești|RO|Satu Mare County|8u|3og|1su|9
+Bordușelu|RO||8u|3fs|234|9
+Borough of Far Hills|US||48|351|-5ra|9
+Borová|CZ||9m|3u6|18w|9|Borowa
+Borá|BR||4w|-1pv|-3wd|9
+Borzytuchom|PL||a5|46k|1c9|9
+Borów|PL||a5|3xc|1b7|9
+Borgo Montello|IT||9o|37b|zi|9
+Borden|US||3k|2yv|-6mr|9
+Borșa|RO|Iași County|8u|3nq|240|9|Morsa
+Borgo Piave|IT||9o|378|zq|9
+Boroșești|RO|Iași County|8u|3me|24n|9
+Boroșești|RO|Vâlcea County|8u|3g2|1v9|9
+Borisovka|RU|Lipetsk Oblast|9i|42s|331|9
+Bourg-Saint-Bernard|FR||9k|3d4|4r|9|Borg de Sant Bernat;Le Borg de Sant Bernat
+Borgo Velino|IT||9o|39t|10a|9
+Borghetto di Borbera|IT||9o|3g9|ou|9
+Stari Trg pri Ložu|SI||9a|3iz|147|9|Borgovecchio di Olisa
+Borsfleth|DE||8r|45j|q7|8
+Borohila|CI||0|nb|-ad|8
+Boren|DE||8r|47q|ra|8
+Borex|CH||a7|3ku|h6|8
+Borzonasca|IT||9o|3fe|q3|8|Borsonasca
+Boruk|TR||94|365|2q7|8
+Borzont|RO||8u|3lq|1yp|8
+Borgorose|IT||9o|397|10r|8
+Borgo Carillia|IT||9o|34l|15u|8
+Boršice u Blatnice|CZ||9m|3rx|1ct|8
+Borovets|BG||9v|38z|1ry|8|Borovec;Boroveț;Borovetz
+Borden-Carleton|CA||35|3ki|-4wv|8
+Bourdeilles|FR||9k|3hw|1n|8|Bordelha
+Börzow|DE||8r|45m|uw|8
+Borsodbóta|HU||8v|3py|1ko|8
+Borčice|SK||8s|3s2|1ee|8
+Borriana|IT||9o|3if|mc|8|Borian-a;Boriana
+Börm|DE||8r|475|q2|8
+Borden|GB||9b|3yl|1y|7
+Borșani|RO||8u|3k7|22y|7
+Borgo Bainsizza|IT||9o|378|zj|7
+Borgomasino|IT||9o|3i0|m7|7|Borghmasin
+Borkovany|CZ||9m|3s7|1ap|7|Borkowan
+Boraboy|TR||94|35d|2si|7|Gölbeyli
+Borki|PL||a5|3zo|1qk|7
+Bourseville|FR||9k|3v7|49|7|Borséville
+Borgwedel|DE||8r|47e|qv|7
+Borgo San Siro|IT||9o|3ho|or|7
+Borj|IR||7o|2w0|4fb|7
+Borgo Revel|IT||9o|3hj|ma|7
+Bornheim|DE|Rheinland-Pfalz|8r|3ua|me|7
+Bougarber|FR||9k|3ck|-1b|7|Borg Garbèr
+Borgo San Martino|IT|Piedmont|9o|3g6|lx|7
+Borzești|RO|Bacău County|8u|3kg|22i|7
+Borrisoleigh|IE||8z|42j|-m3|7|Buiríos Ó Luigheach
+Borgonuovo|IT|Lombardy|9o|3kp|q8|7
+Borlo|BE||8t|3wy|ee|7
+Borozel|RO||8u|3ml|1qo|7
+Bordères|FR||9k|3c0|-m|7|Bordèras
+Burdignin|FR||9k|3ke|hu|7|Bôrdegnin;Burdeninum
+Borkowice|PL|Mazovia|a5|3yk|1lg|7
+Borgo Faiti|IT||9o|377|104|7|Borgo Fanti
+Borris|IE||8z|424|-j8|7|An Bhuiríos;Buirgheas Ó nDróna
+Borgo Verde|IT||9o|3io|y2|6
+Bordeștii de Jos|RO||8u|3ii|234|6
+Borgo Santa Maria|IT|Lazio|9o|376|zk|6
+Bordonal|MX||41|1e1|-7w7|6
+Borgo San Pietro|IT||9o|3a1|zs|6
+Borgo Europa|IT||9o|2ul|147|6
+Bor|RU|Kirov Oblast|97|4kf|43g|6
+Bordenii Mici|RO||8u|3h8|1zv|6|Bordeni-Mici
+Borlovenii Vechi|RO||8u|3gw|1pf|6
+Borgo Sant'Agata|IT||9o|3dy|m9|6
+Bordolano|IT||9o|3ht|rr|6
+Borca|IT||9o|3kz|xy|6
+Borghetto di Vara|IT||9o|3eu|r0|6
+Bornum|DE||8r|40e|xw|6
+Bordes|FR|Occitanie|9k|3c0|m|6
+Borgo Santa Maria|IT|Lazio|9o|393|z8|6
+Bordano|IT||9o|3ko|10f|6|Bordan
+Borovkivka|UA||98|3qv|2n1|6|Borovkovka
+Borzești|RO|Botoșani County|8u|3p3|22b|6
+Bruniquel|FR||9k|3ed|4m|6|Borniquèl
+Borkel|NL||8m|3yi|f4|6
+Borobadougou|CI||0|o5|-jc|6|Borobédougou
+Børgen|NO||9j|4mx|v5|6
+Borlovenii Noi|RO||8u|3gx|1pi|6|Borlovenii-Noui
+Borod|DE||8r|3wr|lf|6
+Borkowice|PL|Opole Voivodeship|a5|3wy|1d8|6
+Bordeaux-Saint-Clair|FR||9k|3u2|p|6
+Borrassà|ES||9d|39a|85|6
+Borsuky|UA||98|3pg|29q|6|Borsuki
+Borgoratto Alessandrino|IT||9o|3gk|nq|6|Borgorat
+Borjeleh|IR||7o|2ku|3tc|6|Borjlah
+Borova|HR||a6|3j7|1ci|6
+Borgo Vodice|IT||9o|36u|10e|6|Borgo Vòdica
+Boroșteni|RO||8u|3ha|1rz|6
+Borodino|UA||9t|3is|2oc|6
+Bogoba|CI||0|mv|-j7|6|Booba;Boroba
+Borleasa|RO||8u|3nj|1v6|6
+Bordovice|CZ||9m|3tn|1ef|6
+Borlești|RO|Arges|8u|3gv|1ws|6
+Borozonba|CI||0|nb|-g8|6
+Borre|FR||9k|3wx|76|6
+Börgenek|TR||94|2wp|2xu|6|Börkenek
+Borkow|DE||8r|452|x7|5
+Vânători|RO|Cluj County|8u|3mf|1ri|5|Börvény;Vînători
+Borgo|IT|Piedmont|9o|3fd|m2|5
+Borgo Flora|IT||9o|37f|zn|5
+Borjas|MX||2g|279|-8ae|5
+Borbona|IT||9o|3a3|10h|5|Barbona
+Borgo Celano|IT||9o|37u|17i|5
+Borgonato|IT||9o|3iq|ru|5
+Borshchi|UA|Odesa|98|3ov|29x|5|Borshtchy
+Borgo Fra' Diavolo|IT||9o|35l|1ah|5
+Bordelonville|US||2f|2ef|-73b|5
+Borja|PE||3o|-cf|-5ze|5
+Borotín|CZ||9m|3tj|14l|5
+Borgaccio|IT||9o|3di|zv|5
+Borysławice|PL||a5|3zh|1f7|5
+Borris in Ossory|IE||8z|432|-l8|5|Buiríos Mór Osraí;Borris-in-Ossory;Osorio Borisas
+Borkowo Łostowickie|PL||a5|46u|1fo|5

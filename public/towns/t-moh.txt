@@ -1,0 +1,79 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mohammadpur|BD||6a|1x6|6tx|42k|Muhammadpur;Mahammadpur
+Mahilyow|BY||9g|45r|2ca|2q1|Mogilëv;Mahilioŭ;Mahiloŭ;Mogiliovas;Mogiļeva;Mohylew;Mahiljoŭ;Maguilov;Mahiljov;Mogiliavas;Mahiljow;Moguilev;Mahilëŭ;Mogiljow;Mogiljov;Mogilew
+Mohammedia|MA||d|2ll|-ki|1ra|Fedala;Mohamedio;Mohamedija;Muhammediye;Al-Muhammadijja;Fedhala;Sedala;Mohammadia;Fdala;Fedalah
+Mainz|DE||8r|3uu|n0|1px|Maguncia;Mohuč;Majenco;Mayence;Magonza;Moguntiacum;Moguncja;Mogúncia;Mogontiacum;Mainca;Magunza;Maiança;Mayns;Maincas;Maganza;Majnci;Meenz;Maguntzia;Määnz;Ments;Maiența;Meginsborg;Magontia;Mainc
+Mohali|IN||6t|2d8|5x4|1ad
+Moḩammad Shahr|IR||7o|2rc|3xg|x6
+Moḩammadīyeh|IR|Qazvin Province|7o|2sm|3ve|p5
+Mobara|JP||7q|2qf|atq|oj|Mohara
+Mohammed Bin Zayed City|AE||6c|1vn|47j|nm
+La Mohammedia|TN||1e|2tv|s8|ii|Mohammedia
+Mohammadia|DZ||3|2qv|7|hc
+Mohale's Hoek|LS||12|-2br|24c|cy
+Mohnyin|MM||7y|1wu|7fp|99|Monjinas;Monjina;Mohnjin;Mohnyn
+Mohyliv-Podilskyy|UA||98|3qk|258|8i|Mohyliv-Podilskyï;Mohylów Podolski;Moghilău;Mohiljiv-Podiljski;Mohyliw-Podilskyj
+Mohács|HU||8v|3jr|1fx|57|Mohacz;Mohač;Mohatsch
+Auhammadpur Mājri|IN||6t|27t|5y0|4v|Mohammad Pur Majri
+Mohiuddinnagar|IN||6t|1z1|6lz|45|Mohiuddinagar
+Morąg|PL||a5|45s|1jd|43|Mohrungen;Moronga;Morongas
+Mohān|IN||6t|22e|683|43
+Mohanūr|IN||6t|uq|612|3z
+Möhnesee|DE||8r|3z2|ml|38
+Mohgaon|IN||6t|1o4|62q|2w
+Mohammadān|IR||7o|23k|4o8|2v
+Mohelnice|CZ||9m|3ua|1b0|2r|Müglitz
+Mohpada|IN||6t|1gi|5na|2p
+Möhlin|CH||a7|3o4|ls|2m
+Moḩammad Yār|IR||7o|2ur|3ig|2l|Muhammadiar
+Mol|RS||8q|3j4|1jx|28|Mohol;Mohorréve
+Mohr|IR||7o|24j|42w|26|Mohur;Mehr
+Mohājerān|IR||7o|2pg|3r2|21|Mahājerān;Muhājīrān
+Mohpa|IN||6t|1n7|62z|1z
+Mokhsogollokh|RU||7x|4qk|9y6|1x|Mochsogolloch;Mohsogolloh;Mochsogolochas
+Mohanpur|IN|Bihar|6t|21x|6lk|1m
+Mohmaiki|IN||6t|220|783|1k
+Moḩammadī|IR||7o|23w|4ta|1k|Muhammadī
+Mohanpur|IN|Uttar Pradesh|6t|26h|66w|1k
+Moḩammadābād-e A‘lā|IR||7o|2qf|3z7|1h
+Mohana|IN||6t|1i0|6i2|1g
+Moḩammadābād|IR|Golestan|7o|2ui|477|1g
+Moḩammadābād|IR|Razavi Khorasan|7o|2pj|4ku|19
+Möhrendorf|DE||8r|3tv|uk|17
+Mojave|US||3p|2pd|-949|16|Mohave
+Mohyliv|UA||98|3rr|2nt|15
+Moḩīābād|IR||7o|2bk|4et|13|Mohyābād
+Mohlsdorf|DE||8r|3wr|y3|u
+Mohnton|US||48|33x|-5v2|u
+Moamé|CI||0|ed|-9v|u|Mohamé
+Mohawk|US||48|3bh|-5sc|q
+Mohave Valley|US||4i|2p1|-8ub|q
+Möhlau|DE||8r|3zp|yb|m
+Moḩammadābād|IR|Isfahan|7o|2mq|3yq|l
+Mohoro|KM||ac|-wv|3cp|k
+Mohale|LS||12|-29w|25y|j
+Moheda|SE||9w|4ec|14h|j
+Mohoneras|MX||41|1bw|-7og|i|Mojoneras
+Moha|BE||8t|3wf|ef|h
+Moḩammad Şāleḩī|IR||7o|2ad|3wl|f|Muhammad Sālehī
+Mohelno|CZ||9m|3sf|18z|e
+Moḩammadīyeh|IR|Isfahan|7o|2j6|3xo|e|Muhammadīyeh
+Moḩammad Qolī Ākhūnd|IR||7o|2vk|49h|c
+Mohrkirch|DE||8r|47v|qz|a
+Mohi-Moussadougou|CI||0|p4|-l7|a|Moi-Mousadougou
+Mohon|FR||9k|3ph|-71|a|Mozhon
+Moḩammadābād|IR|Fars|7o|2do|40i|9
+Mohill|IE||8z|45s|-lv|9|Maothail;Mohilas
+Mohall|US||2f|3rg|-7tz|8
+Moḩammadābād|IR|Alborz Province|7o|2rj|3wm|8|Muhammadābād
+Möhrenbach|DE||8r|3wm|uk|7
+Mohu|RO||8u|3j2|1vb|7|Móh
+Mohylivka|UA||98|3pr|20z|7|Movila
+Mohrytsia|UA||98|3xr|2pj|7|Mohrytsya
+Moḩammadābād|IR|Razavi Khorasan|7o|2pz|4hw|7
+Moholm|SE||9w|4it|130|6
+Mokhnatushka|RU||63|43v|6g6|6|Mohnatuşka
+Moḩsenābād|IR||7o|2vu|3va|6
+Mohedas de la Jara|ES||9d|320|-ea|6
+Mohed|SE||9w|4qa|1ap|6
+Möhnsen|DE||8r|44s|t3|5

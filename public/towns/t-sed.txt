@@ -1,0 +1,89 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sydney|AU||8l|-2m3|bo1|17ic|Sidnejo;Sidney;Sidnėjus;Sydneium;Sidneja;Sanctus Dionysius;Syd;Sidni;Sėdniejos;Sit-nì;Sék-nà̤;Sidnei
+Sejong|KR||7h|2tn|9tl|31m|Yeongi;Sedżong
+Mohammedia|MA||d|2ll|-ki|1ra|Fedala;Mohamedio;Mohamedija;Muhammediye;Al-Muhammadijja;Fedhala;Sedala;Mohammadia;Fdala;Fedalah
+Siedlce|PL|Mazovia|a5|40x|1px|lg|Sedlce;Sedlcos
+Sedrata|DZ||3|2sd|kx|cl
+Sedam|IN||6t|1bq|5yp|ax|Seram
+Sderot|IL||6n|2fl|2o4|ac|Sederot;Shederot
+Sitten|CH||a7|3kf|kg|9n|Sion;Sedunum;Sionas;Sião;Sion i Sveits
+Sédhiou|SN||g|zb|-178|8r|Sedhiu
+Sedalia|US|Missouri|2f|2zi|-76z|5z
+Sedan|FR||9k|3u2|dq|5q
+Seddouk|DZ||3|2tj|d1|5j
+Sedeh Lanjān|IR||7o|2hy|3yk|5b
+Sedriano|IT||9o|3id|ox|30
+Sedro-Woolley|US||3p|3qq|-9fk|30|Sedro Woolley;Sedro-Wooley;Sedro Wooly
+Sedona|US||4i|2ov|-8mg|2w
+Sedgefield|ZA||o|-2mi|1rd|2t
+Sedaví|ES||9d|31j|-12|2g
+Sedlčany|CZ||9m|3ty|143|26|Selčan
+Sedaikavundanūr|IN||6t|wc|616|26
+Sidqābād|AF||6o|2pa|5cn|22|Sidkabad;Sidqobod;Seḏqābāḏ;Sedgābād
+Sędziszów Małopolski|PL||a5|3v3|1oa|1z|Seņdzišova Malopolska
+Sędziszów|PL||a5|3wh|1jq|1w|Seņdzišova
+Sejenane|TN||1e|2uy|po|1l|Sedjenane
+Sedico|IT||9o|3k3|xl|1j
+Seddon|AU||8j|-2x1|b6h|1e
+Sedgefield|GB||9b|47t|-41|19
+Sedeh|IR||7o|2or|4md|17|Sehdeh
+Seden|DK||8y|49z|t0|11
+Šeduva|LT||a3|4av|1u0|x|Sheduva;Šedava
+Sedco Hills|US||3p|2lg|-91t|w
+Saulieu|FR||9k|3nc|br|u|Sedolocum
+Sedlec-Prčice|CZ||9m|3tp|14d|u
+Sede Nova|BR||4w|-24r|-45v|r
+Sédibia|CI||0|hh|-ir|q
+Siedove|UA||98|3ms|2xz|q|Syedove;Sedowo;Sedove;Sedovo;Sedova
+Sédiogo|CI||0|qf|-f8|n
+Sedilo|IT||9o|33l|os|m
+Sedbergh|GB||9b|46w|-71|m
+Sedkyrkeshch|RU||9i|4rg|3xj|k|Sedkyrkesjtsj
+Seydougou|CI||0|qf|-m6|k|Sédougou;Seïdougou
+Sedarak|AZ||61|32b|3go|j|Sadarak;Sederek
+Sedliště|CZ||9m|3u4|1f1|h
+Sedgwick|US|Kansas|2f|2xc|-7im|h
+Sde ‘Uziyyahu|IL||6n|2g8|2oc|g|Sede ‘Uziyyahu
+Sedlnice|CZ||9m|3ty|1e9|d|Sedlnitz
+Sde Warburg|IL||6n|2hg|2oz|d|Sedeh Warburg;Sede Warburg
+Sédia|CI||0|li|-8j|d
+Sedrina|IT||9o|3j6|qq|d
+Sedlarevo|MK||9u|38c|1mp|d|Salarevo
+Sedini|IT||9o|35h|oi|c
+Seda|LT||a3|4c1|1pd|c
+Sedlice|CZ|South Bohemian Region|9m|3rh|13z|c
+Sedlice|CZ|South Bohemian Region|9m|3t6|12q|c
+Sedlyshche|UA||98|3zj|1yh|c|Sedlishche
+Sedegliano|IT||9o|3jt|102|c|Sedean;Sedigliano
+Sde Neẖemya|IL||6n|2k7|2qy|b|Sedé Neẖemya;Sde Nehemia;Sedeh Nehemyah
+Sedgwick|US|Maine|48|3f2|-5am|b
+Sedlec|CZ|Central Bohemia|9m|3us|16h|b|Sedletz
+Sdot Yam|IL||6n|2i9|2ox|b|Sdot Jam;Sedot Yam
+Seda|LV||9n|4g5|1zj|b
+Sde Ya‘aqov|IL||6n|2iu|2pm|b|Sde Yaakov;Sdeh Yaakov;Sdey-Ya’aqov;Sedeh Ya‘aqov;Sede Ya‘aqov
+sedeyen-e Yek|IR||7o|2f4|3rm|b|Sedeyyen-e Yek
+Sedniv|UA||98|3zg|2fo|b|Sednëv;Sedniw
+Kangkar Sedili Kecil|MY||6v|4v|81b|b|Sedili Kechil;Kampung Sedili Kechil;Kangkar Sedili Kechil
+Sde H̱emed|IL||6n|2hc|2p2|a|Sedé H̱emed;Sdei Hemed;Sedei Hemed
+Sedan|US||2f|2v5|-7f7|a
+Sedlescombe|GB||9b|3xh|1h|9
+Sedgeberrow|GB||9b|40l|-5h|8
+Sędziejowice|PL||a5|3z3|1gv|8
+Sde Eli‘ezer|IL||6n|2jt|2qs|8|Sedé Eli‘ezer
+Sde Naẖum|IL||6n|2id|2qk|8|Sedé Naẖum;Sedeh Nahum
+Sedillo|US||2p|2pi|-87a|8
+Sedlec|CZ|South Moravian|9m|3ri|1ad|8
+Sedici Pini-La Macchiozza|IT||9o|37p|yp|7
+Sde Eliyyahu|IL||6n|2i4|2qn|7|Sde Elijahu;Sde Eliyahu;Sdé Eliahou;Sede Eliyahu;Sedeh Eliyahu;Sde Eliahu;Sede Eliyyahu
+Sde Yiẕẖaq|IL||6n|2i1|2p7|7|Sede Yiẕẖaq
+Sde Ẕevi|IL||6n|2fd|2of|7|S’de Zvi;Sede Ẕevi
+Sedalia|US|North Carolina|48|2s7|-656|7
+Sedgeford|GB||9b|42y|1j|6
+Sde Dawid|IL||6n|2fq|2oc|6|Sede Dawid
+Sde Ilan|IL||6n|2iz|2qe|6|Sedé Ilan;Sedeh Ilan
+Sędziszowa|PL||a5|3xr|184|6
+Seddon|NZ||ak|-37r|dfk|6
+Sedena|IT||9o|3id|t3|6
+Sedano|ES||9d|3ao|-af|5
+Sedgwick|AU||8j|-2ug|b4w|5
+Sedrano|IT||9o|3jx|z6|5

@@ -1,0 +1,21 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Oklahoma City|US||2f|2qj|-7iw|597|Oklahomaurbo;Kota Oklahoma;Oklahoma Sitis;Maxepónoe;Oklahoma Ceety;Oklaxoma Shehiri;Lungsod ng Oklahoma;Oklahomasitija;Dinas Oklahoma;Oklahoma llaqta;Cathair Oklahoma;Oklahoma Siti;Oklahoma Sitės;Caayr Oklahoma;Kutha Oklahoma;Okla city;Oklahoma Shehri
+Kansas City|US|Missouri|2f|30m|-7aq|3o2|Kansasurbo;Kota Kansas;Kanzas Shehiri;Ìlú Kansas;Dinas Kansas;Lungsod ng Kansas;Kansas Lakanbalen;Kanzas Sitis;Kanzassitija;Kanzas Siti;Caasimada Kansas
+Caála|AO||x|-zp|178|104|Cahala;Kaala
+Cabudwaaq|SO||2|hd|3ke|xc|Cabuud Waaq;Caabudwaaq;Abudwaq;Abudwaaq
+Caen|FR||9k|3sn|-10|uq|Kāna;Kanas;Can;Caðum;Cadomum;Quaam;Kadunum;Cham;Chaem;Chaam;Catomum;Cathim;Caon;Canz;Cahem;Caem;Cadumum;Caam
+Caacupé|PY||1y|-1yj|-4eq|ft|Kaakupe
+Caaguazú|PY||1y|-1yr|-4bm|f8
+Sa'dah|YE||5r|1b2|3dk|ef|Sa'da;Sada;Sadah;Caadah;Sadaa;Saada
+Caarapó|BR||2a|-1qv|-48a|8i
+Caazapá|PY||1y|-20s|-4cl|6o|Kaasapa;Kaazapa
+Caaporã|BR||2w|-kw|-2oz|64
+Caapiranga|BR||3t|-99|-4q1|3p
+Chaah|MY||6v|69|7y9|3a|Caah
+Caatiba|BR||20|-15m|-349|1q
+Westport|IE||8z|45g|-qg|1q|Cathair na Mart;Caair ny Mart
+Caabiangan|PH||71|18p|994|p
+Caapucú|PY||1y|-20w|-4eu|n
+Caaschwitz|DE||8r|3xj|xc|7|Gaaschwitz
+Caan|DE||8r|3w7|l6|7
+Ca' Acquabuona|IT||9o|3eb|yy|5

@@ -1,0 +1,629 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+London|GB||9b|3z3|-d|1x5g|Londinium;Londres;Londra;Londen;Lunden;Londrez;Londýn;Llundain;Lontoo;Londain;Lunnainn;Loundres;Londe;Lunnon;Luân Đôn;Londro;Lundúnir;Londri;Landen;Lākana;Londn;Rānana;Lundra;Lunnin;Londar;Lonn;Lůndůn;Lùng-dŭng;Londye;Londin;Lodoni;Lùn-tûn;Landan
+Lanzhou|CN||7i|2s6|80g|xmy|Lanĝoŭo;Lan Châu;Lan-čou;Lantsjou;Landžou;Lân-chiu-chhī;Làng-ciŭ;Lancsou;Lanchjou;Lanzcouh;Lançjou;Landžov;Lanchow;Lan-chou
+Yongzhou|CN||7i|21e|8m1|7vj|Lingling;Langlin;Yung-chou
+Langfang|CN||7i|31s|907|6p5
+London|CA||59|3be|-69n|39b|Landona
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+Lanús|AR||1l|-2of|-4i7|1mz
+Cao Lãnh|VN||6h|t2|85f|1mv|Kao Lanh
+Lạng Sơn|VN||62|1op|88k|1jl
+Lengshuijiang|CN||7i|24x|8lj|1j3|Lãnh Thủy Giang;Leng-shui-chiang
+Langsa|ID||6l|cf|7k5|1f4
+Lander|VE||2c|sa|-55a|1cz
+Lang'ata|KE||16|-3t|2u1|1by
+Ongata Rongai|KE||16|-3w|2u4|1by|Langata Rongai
+Lancaster|US|California|3p|2oe|-946|18r
+Nakhodka|RU||7w|3b0|a98|14t|Nachodka;Naĥodka;Nahhodka;Najodka;Naxodka;Nahotk;Langouwai
+Langley|CA||5b|3se|-9gq|10u
+Gorzów Wielkopolski|PL||a5|42h|16b|vu|Landsberg;Landsberg an der Warthe;Gožova Velkopolska;Gožuvas;Landsbergum;Lãdzbarg;Gorzůw Wjelgopolski;Gožuv-Velkopolski;Thai Pô-làn Thi-khî Kô-yî-fû;Gorzow Velikopolski
+Lansing|US|Michigan|2q|3ap|-6iw|va
+Landstraße|AT||a2|3pw|19j|rc
+Lankaran|AZ||61|2zn|3rp|ot|Lenkoran;Lencoran;Lenkoran'
+Langarūd|IR||7o|2vc|3vb|m2|Langarood;Langerūd
+Lanxi|CN|Zhejiang|7i|296|97v|kh
+Lanxi|CN|Heilongjiang|7i|3ki|9qs|k5|Lansi
+Landshut|DE||8r|3qt|xs|jz|Landishuta;Landshuad
+North Hollywood|US||3p|2mx|-94u|hy|Toluca;Lankershim
+Langzhong|CN||7i|2fn|86f|gt|Lang-chung
+Lancaster|US|Pennsylvania|48|338|-5vz|gh|Lengeschder
+Langenfeld|DE|North Rhine-Westphalia|8r|3xz|jb|gf|Langefääl
+Langtoucun|CN||7i|338|9le|ge|Lang-t’ou-chen
+la Nova Esquerra de l'Eixample|ES||9d|36y|5z|g1
+Langxiang|CN||7i|3mf|9xz|fx|Lang-hsiang
+Lanshan|CN||7i|2ma|931|fe
+Langenhagen|DE||8r|41o|r2|e0|Langenhogen
+Llanelli|GB||9b|3zk|-bk|ds|Lanelis;Llanelly
+Lancaster|GB||9b|465|-7s|d4|Caerhirfryn;Lankastér;Lonceaster;Lankasteris
+Langford|CA||5b|3ql|-9j2|cy
+Langenhorn|DE|Hamburg|8r|453|ru|cv
+Lankwitz|DE||8r|41o|113|c4
+l'Antiga Esquerra de l'Eixample|ES||9d|36z|60|bn
+Landau in der Pfalz|DE||8r|3so|mk|bk|Landau
+Langepas|RU||7z|4q5|5sx|b4
+Sama|ES||9d|3ca|-fs|b4|Langreo;Llangréu
+Lancaster|US|Ohio|48|32b|-6dg|b2
+Lancaster|US|Texas|2f|2ij|-7gs|as
+Langen|DE|Hesse|8r|3uv|o3|as
+Lagkadás|GR||8p|357|1s3|aa|Lagadás;Langadas;Langaza
+Lanka|IN||6t|201|767|a8
+Langao Chengguanzhen|CN||7i|2hq|8eh|9t
+Lanciano|IT||9o|39b|13z|9o|Anxanum
+Landskrona|SE||9w|4b7|zn|8y|Landscrone;Coronia;Landskrūna
+Langendreer|DE||8r|3yy|kd|8w
+Land O' Lakes|US||48|26e|-6d2|8w
+Láng Thượng|VN||6h|1me|85w|8p
+New Iberia|US||2f|2bc|-732|8k|Nueva Iberia;La Nouvelle-Ibérie;Nouvelle Iberie;Nuevo Iberia
+Laon|FR||9k|3to|a3|7z|Laudunum;Lāna
+Lansing|US|Illinois|2f|37g|-6r6|7v
+Lancy|CH||a7|3kb|gz|7l|Lanciacus;Lanci
+Landsberg am Lech|DE||8r|3ph|u8|7i|Landsbergium
+Lanaken|BE||8t|3xd|fp|6w|Lanaeken
+Lanester|FR||9k|3oo|-9a|6s|Lannarstêr
+Lanyang|CN||7i|1i2|8gm|6l
+Landover|US||48|305|-5xm|6f
+Lunsar|SL||l|o4|-yt|69|Lansar
+Langwarrin|AU||8j|-2y1|b79|65
+Kamienna Góra|PL||a5|3x2|18j|61|Landeshut;Kamena Gura;Kamenna Gura
+Lannion|FR||9k|3rd|-9m|5z|Lannuon
+Langue|HN||56|11u|-6rh|5t
+Langgar|CN||7t|2ty|6ae|5f
+Langen|DE|Lower Saxony|8r|44x|nw|59
+Langley Park|US||48|30b|-5xu|58
+Lancing|GB||9b|3x7|-w|57
+Łańcut|PL||a5|3v3|1pr|53|Landshut
+Lanham-Seabrook|US||48|309|-5xh|52|Lanham
+la Nucia|ES||9d|2z9|-d|4z
+Lansdowne|ZA||o|-2mf|1fe|4u
+L'Ancienne-Lorette|CA||59|3lz|-5i7|4l
+Lansdale|US||48|33s|-5t4|4l
+Langru|CN||7t|2uh|656|4l|Lang-ju;Lang-lu;Langhru
+Zandvoort|NL||8m|41h|cl|4j|Landvoort
+Lansing-Westgate|CA||59|3dj|-64m|4i
+Highland Village|US||2f|2jx|-7hl|4h|Làng Highland;Highland Vlg
+Lang Suan|TH||62|rn|7n8|4h
+Landerneau|FR||9k|3ql|-bt|4h|Landerne;Landernacum
+Väståboland|FI||92|4ni|1py|4b|Pargas;Länsi-Turunmaa;Parainen
+Bay Village|US||48|378|-6bk|4a|Làng Bay
+Landsdale|AU||8k|-2gd|8xv|4a
+Llandudno|GB||9b|444|-an|4a|Landidnas;Llundadno
+Lancenigo-Villorba|IT||9o|3iz|y2|49
+Cacongo|AO||x|-ek|xq|46|Landana
+Landau an der Isar|DE||8r|3r7|z9|44|Landavium ad Isaram
+Langwedel|DE|Lower Saxony|8r|436|pi|44
+Länsisatama|FI||92|4n4|1x7|41|Västra Hamnen
+Landen|BE||8t|3wz|e4|41
+Lānja|IN||6t|1au|5ob|40
+Langenthal|CH||a7|3n6|lo|3y|Langental
+Langenau|DE||8r|3qq|s4|3y
+Langerwehe|DE||8r|3x6|hn|3w
+Lan Sak|TH||62|16x|7om|3v
+Lānjī|IN||6t|1nq|67q|3s
+Langtang|NG||u|pe|r7|3o
+Langelsheim|DE||8r|40a|sp|3o|Langelheim
+Landeh|IR||7o|2e2|3w2|3k|Lendeh;Lindeh
+Langenselbold|DE||8r|3ve|p4|3j
+Lane Cove|AU||8l|-2ly|bnx|3g
+Langgöns|DE||8r|3wa|o3|3f|Lang Göns
+Lanqiao|CN||7i|26b|8er|3d
+Lansing|US|Kansas|2f|311|-7bm|3a
+Landenberg|US||48|32i|-5uh|3a|Landenburg
+Lane Cove North|AU||8l|-2lx|bnx|35
+Lantana|US|Florida|48|21v|-66d|33|Lantona
+Lancaster Gate|GB||9b|3z3|-j|32
+Lăng Cô|VN||6h|194|8c8|30
+Lankow|DE||8r|451|vl|30
+Lansdowne|US|Pennsylvania|48|32y|-5t3|2y
+Langenzenn|DE||8r|3th|tz|2y
+Landsmeer|NL||8m|41n|do|2w|Lânsmar
+Lancaster|US|New York|48|3b6|-62j|2v
+Lanham|US||48|309|-5xi|2u
+Langebaan|ZA||o|-2jy|1e3|2r
+Lanškroun|CZ||9m|3un|1a5|2q
+Lana|IT||9o|3lh|v0|2k|Lugugnanum
+Landázuri|CO||27|ha|-5p1|2k
+Landstuhl|DE||8r|3t9|l1|2i|Londschduul
+Lancaster|US|South Carolina|48|2og|-68d|2i
+Launceston|GB||9b|3wo|-c4|2h|Dūnhēafod;Lannstefan
+Languyan|PH||71|em|99k|2h
+Landquart|CH||a7|3mf|ql|2h
+Lanark|GB||9b|4an|-ai|2h|Lanrik;Lannraig
+Landvetter|SE||9w|4g9|xx|2g
+Langnau|CH||a7|3me|ln|2g
+Llandaff|GB||9b|3z1|-8y|2g|Landava;Llandaf
+Landivisiau|FR||9k|3qr|-bb|2f|Landivizio
+Langcangan|PH||71|nk|9js|2f
+Langres|FR||9k|3oy|et|2e
+Länsi-Herttoniemi|FI||92|4n9|1xk|2e|Vätra Hertonäs;Västra Hertonäs
+Lanivtsi|UA||98|3ui|20h|2c|Łanowce
+Lansdowne|US|Maryland|48|311|-5wy|2c|Lansdown
+Langenberg|DE|North Rhine-Westphalia|8r|3zt|n4|2a
+Lansdowne|IN||6t|2aw|62k|2a
+Langenzersdorf|AT||a2|3q6|19g|29
+La Negreta|MX||41|1l1|-7r1|29|La Negrita;La Negrete
+Lanchyn|UA||98|3qv|1wr|27|Łanczyn;Lantchyn;Lantschyn;Lančyn;Lançın;Lanciîn
+Landeck|AT||a2|3my|td|25
+Lander|US||2p|3az|-8e1|25
+Langweid|DE||8r|3qp|u5|25
+Lan Krabue|TH||62|1a4|7pd|24|Lan Krabu
+Lanco|CL||4u|-31l|-5m5|24
+Langenargen|DE||8r|3o8|qi|23|Arguna
+Lancaster|US|Massachusetts|48|39y|-5j3|23
+Langdorp|BE||8t|3xo|dj|23
+Langping|CN||7i|28s|8dj|21
+Kings Langley|GB||9b|3zn|-19|20|Langeleia Regis
+Langon|FR|New Aquitaine|9k|3fr|-p|1z
+Lançon-Provence|FR||9k|3d3|e9|1y|Lançon de Provença
+Länsi-Pakila|FI||92|4nc|1x9|1y|Västra Baggböle
+Langley Green|GB||9b|3y1|-k|1y
+Langnau am Albis|CH||a7|3nd|nq|1y|Langnau ĉe Albis
+Languidic|FR||9k|3ov|-8s|1y|Langedig
+Lanot|PH||71|w0|9h0|1x
+Lantana|US|Texas|2f|2jx|-7hs|1x
+Langueux|FR||9k|3qq|-7k|1w|Langaeg
+Landen|US||48|317|-6i4|1w
+L’ang|KH||78|tu|81v|1w
+Lannemezan|FR||9k|3bt|12|1u|Lanamesa;Lanamesán
+Lanuvio|IT||9o|37r|z9|1t
+Lanett|US||3k|2jb|-6kn|1t
+Landing|US||48|35n|-5rf|1s
+Lanchkhuti|GE||7n|38x|38s|1q
+Londa|IN||6t|16z|5r0|1p|Landa
+Port-La Nouvelle|FR||9k|3bi|8h|1o|La Novella;La Novèla;La Nouvelle;Port-la-Nouvelle
+Langhirano|IT||9o|3fy|sj|1n
+Langgar|MY||6v|h3|7qz|1n
+Länsimäki|FI||92|4nd|1xs|1n|Västerkulla
+Lancusi-Penta-Bolano|IT||9o|358|153|1m
+Lanton|FR||9k|3g7|-2w|1m
+Lanzara|IT||9o|359|14s|1l
+Langford|AU||8k|-2h0|8y2|1k
+Langtad|PH|Central Visayas|71|sb|9jp|1j|Angtad
+Länsi-Pasila|FI||92|4n8|1x8|1i|Västra Böle
+Langxi|CN||7i|28r|8ce|1i
+Lang's Farm|CA||59|3ck|-676|1h
+Landri Sales|BR||2w|-k7|-3e1|1g
+Laneuveville-devant-Nancy|FR||9k|3r6|hb|1g
+Langquaid|DE||8r|3rm|xh|1g
+Languedoc|ZA||o|-2m6|1gp|1f
+Langemark|BE||8t|3xf|84|1f|Langemarck
+Langmusi|CN||7i|2mp|7x3|1f|Lang-mu-ssu;Lang-mu-su
+Lantapan|PH||71|m8|9nb|1e
+Landriano|IT||9o|3hv|pq|1e
+Lanusei|IT||9o|32s|qi|1d
+Lanzo Torinese|IT||9o|3hs|ks|1d|Lans
+Llangefni|GB||9b|43y|-bz|1d|Langevnis
+Mount Hood Village|US||3p|3i0|-9eu|1d|Villages at Mount Hood;Làng Núi Hood
+Langenlois|AT||a2|3qn|17j|1c
+Langnau / Langnau (Dorf)|CH||a7|3nd|nq|1b
+Landiougou|CI||0|r6|-hh|1b|Londiougou
+Olszyna|PL||a5|3xv|16p|1b|Langenöls
+Lannilis|FR||9k|3qx|-ck|1b|Lanniliz
+Längenfeld|AT||a2|3mr|uh|1a
+Landsberg|DE||8r|3z5|xs|1a
+Langley Park|GB||9b|488|-4n|19
+Langeskov|DK||8y|49s|te|19
+Lanklaar|BE||8t|3xq|fx|19|Lanklaer
+Lanoraie|CA||59|3jp|-5ne|18
+Landskron|AT||a2|3lj|12k|17
+La Norville|FR||9k|3qy|6a|16|Norville
+Lanstrop|DE||8r|3za|l1|16
+Darda|HR||a6|3ir|1fy|16|Lanzenau
+Lanipao|PH||71|m4|9ju|15
+Langeais|FR||9k|3nh|14|14
+Landrecies|FR||9k|3v8|a9|14
+Langeac|FR||9k|3ha|9p|14
+Langui|PE||3o|-143|-5hz|14
+Langenbernsdorf|DE||8r|3x0|y9|14
+La Ñora|ES||9d|2xj|-3c|13
+Lancaster|US|Kentucky|48|2wi|-6iy|13
+Landsborough|AU||8c|-22h|bsw|12
+Lantzville|CA||5b|3st|-9ko|12
+Langerringen|DE||8r|3pr|tw|12
+Lansford|US||48|35f|-5us|12
+Langewiesen|DE||8r|3wr|uh|12
+Lancaster|US|Wisconsin|2f|3b1|-6zz|12
+Langenwetzendorf|DE||8r|3ws|xl|12
+Lanjarón|ES||9d|2uk|-9o|12
+Langenbach|DE||8r|3qj|wx|12
+Anse-Vata|NC||b8|-1py|cuc|11|l'Anse Vata;Anse Vata
+Langenberg|DE|Thuringia|8r|3xg|xi|11
+Langenbrettach|DE||8r|3sr|q6|11
+Langenlonsheim|DE||8r|3um|ly|11
+Lansing|US|New York|48|3a0|-5wg|10
+L'Ange-Gardien|CA||59|3mc|-5hg|10
+Lancaster|CA||43|3ho|-53q|10
+Lanžhot|CZ||9m|3rc|1b5|10
+Langholzfeld|AT||a2|3q0|13l|10
+Langiden|PH||71|1cu|9aw|10
+Landmark|US||2f|2o5|-74g|10|Parkers-Iron Springs
+Lanchester|GB||9b|48a|-4u|z
+Landang Laum|PH||71|jd|9fl|z
+Langatian|PH||71|no|9ib|z
+Langendorf|CH||a7|3n6|kv|z
+La Neuveville|CH||a7|3mr|jq|z
+Langogne|FR||9k|3g9|aq|z|Langònha
+Langenenslingen|DE||8r|3pr|q2|z
+Lanna|PH||71|1d6|9e2|y
+Landegem|BE||8t|3xu|9y|y
+Hosszúhetény|HU||8v|3k8|1ez|x|Hetting;Hetinj;Etinj;Hetin;Jetin;Heting;Langheting;Langhetting
+Lanvallay|FR||9k|3qm|-5n|x|Lanvalae
+Landa|ES||9d|3ci|-88|w|Campa;La Campa
+Langenhorn|DE|Schleswig-Holstein|8r|47v|os|v|Langhorn;E Hoorne
+Láncara|ES||9d|3b2|-ke|v
+Langenwang|AT||a2|3o5|17e|v
+Landis|US||48|2qr|-67x|v
+Lantangan|PH|Western Visayas|71|w7|9il|v
+Lanai City|US||ax|1lv|-c3w|v|Lāna‘i City;Lanai
+Langford|GB||9b|40l|-r|v
+Landéda|FR||9k|3qz|-cp|v
+Langport|GB||9b|3xs|-7v|v
+Lanesborough|US||48|3a4|-5nf|u
+Lañgub|PH||71|u0|9j5|u|Langud
+Tréguier|FR||9k|3ri|-8z|u|Landreger;Trecorium
+Landesbergen|DE||8r|420|pd|u
+Llanidloes|GB||9b|41p|-9u|t|Lanidloisas
+Langå|DK||8y|4cn|rh|t
+Pitkämäki|FI||92|4ny|1pr|t|Långbacka
+Lanao|PH||71|va|9ki|t
+Langob|PH||71|te|9jp|t|Langub
+Langensendelbach|DE||8r|3tw|ur|s
+Lanigay|PH||71|110|9j2|s
+Lánycsók|HU||8v|3jt|1fr|r|Lantschuk
+Le Landreau|FR||9k|3n4|-3n|r|Lannerell
+Lanying|CN||7i|2fb|8h0|r
+Lantian|CN|Chongqing|7i|2go|8eh|q
+Linguékoro|CI||0|q7|-cv|q|Languékoro
+Lansargues|FR||9k|3d9|bb|q
+Lane Cove West|AU||8l|-2ly|bnv|q
+Langendorf|DE|Saxony-Anhalt|8r|3y6|x8|q
+Landenne|BE||8t|3wc|e3|p
+Langenstein|AT||a2|3q1|148|p
+Lansvale|AU||8l|-2m6|bnb|p
+Langtad|PH|Central Visayas|71|rh|9jc|p
+Lanas|PH|Mimaropa|71|xh|9eo|p
+Langenpreising|DE||8r|3qj|x9|p|Langapreising
+Landrum|US||48|2pq|-6cb|p
+Langenaltheim|DE||8r|3rt|ud|p
+Lancefield|AU||8j|-2vk|b62|o
+La Noria|MX|Oaxaca|41|195|-7ci|o
+Langdale|CA||5b|3tb|-9j0|o
+Lantebung|ID||70|-e4|97v|o
+Lantangan|PH|Bicol Region|71|xw|9if|o
+Langpas|PH||71|gm|9bz|o
+Lans-en-Vercors|FR||9k|3hd|fj|o
+Lanurile|RO|Brăila County|8u|3h4|253|n
+Lanas|PH|Central Visayas|71|sj|9jp|n
+Länsiranta|FI||92|4nw|1ps|n|Väststranden;IX kaupunginosa;IX Stadsdel;IX District
+Landas|FR||9k|3w7|96|n
+Langlingen|DE||8r|420|sk|n|Langeln
+Padstow|GB||9b|3we|-dq|n|Lannwedhenek
+Lanvéoc|FR||9k|3q5|-ce|n|Lañveog
+Landévant|FR||9k|3oo|-8o|n
+Lány|CZ||9m|3v8|12r|n|Lana
+Lantangan|PH|Western Visayas|71|vn|9hd|n
+Langholm|GB||9b|497|-8c|n|Langaim
+Lantz|CA||35|3gy|-4wc|m
+Landi Kotal|PK||6q|2mq|5hm|m
+Langfurth|DE||8r|3se|t1|m
+Lanmeur|FR|Brittany|9k|3r5|-ac|m|Lanneur
+Karaçalı|TR|Düzce|94|359|2ey|m|Darkbush;Landbush
+Lanat|PH||71|17v|9b0|m
+Langoiran|FR||9k|3g7|-14|m
+Lanmeur|FR|Brittany|9k|3ov|-ac|l
+Lanjaghbyur|AM||80|33v|3he|l|Lanjaxbyur
+Mevagissey|GB||9b|3vn|-db|l|Lannvorek
+Lanckorona|PL||a5|3ug|1is|l
+Landscheid|DE||8r|3uu|it|l
+Langonnet|FR||9k|3pm|-9p|l|Langoned;Langonetum
+Lanuza|PH||71|pn|9q6|k
+Langho|GB||9b|45g|-6t|k
+Langlade|FR||9k|3do|bt|k
+Lanquín|GT||32|17a|-6xy|k
+Laneffe|BE||8t|3vo|ch|k
+Langenstein|DE||8r|402|uj|k
+Langeoog|DE||8r|45b|ks|k|Langereach;Langeooch
+Lanna|UA||98|3t3|2py|k
+Lancaster Mill|US||48|2of|-68f|k
+Dlouhá Loučka|CZ|Olomouc Region|9m|3ue|1br|k|Langendorf
+Langtoft|GB||9b|42e|-y|k|Langfoft
+Landeronde|FR||9k|3lm|-4d|j
+Lăng|VN||6h|17z|8ai|j
+L'Anse|US||2q|3lw|-6tp|j|L Anse
+Langenbogen|DE||8r|3z0|wq|j
+Landisville|US||48|33e|-5w9|j
+Lanzendorf|AT|Lower Austria|a2|3pn|19p|j
+Langestraat en omgeving|NL||8m|41i|dl|j
+Lanikai|US||ax|1nf|-c63|i
+Landín|MX||41|1ln|-7sb|i
+Langston|US||2f|2rv|-7i6|i
+Langar|IR||7o|2bk|4f2|i
+Langenburg|DE||8r|3st|re|i|Langenbourg
+Landover Hills|US||48|306|-5xl|i
+Lánov|CZ||9m|3wm|17i|i
+Langdon|US|North Dakota|2f|3rg|-7l9|i
+Landser|FR||9k|3oh|kj|i
+Langenneufnach|DE||8r|3q3|tg|i
+Lancaster|US|New Hampshire|48|3fl|-5it|h
+Lannoy|FR||9k|3wr|8x|h
+La Nueva Victoria|MX||41|1fu|-7cm|h
+La Norita|MX||41|1l3|-7r8|h
+Langenoord|NL||8m|40z|ey|h|Langeroord
+Langrune-sur-Mer|FR||9k|3t0|-11|h
+Lansallos|GB||9b|3vu|-cp|h
+Lantriac|FR||9k|3h0|b4|h
+Langenleuba-Niederhain|DE||8r|3xk|yz|h
+La Noria|MX|Querétaro|41|1kz|-7qr|h
+Lanli|CN||7i|25h|8hc|h
+Landiras|FR||9k|3ft|-16|g
+Långsele|SE|Västernorrland|9w|4vi|1bf|g
+Lanouée|FR||9k|3pc|-76|g|Lannoez
+Längelmäki|FI||92|4r9|1pe|g
+Langsur|DE||8r|3u4|i2|g|Laser
+Langenaubach|DE||8r|3ww|mq|g
+Långsele|SE|Västerbotten|9w|502|1k9|g
+Landa de Matamoros|MX||41|1mu|-7nw|g
+Långshyttan|SE||9w|4nx|18k|g
+Langhorne|US||48|33l|-5s4|g
+Lagnes|FR||9k|3dx|e7|g|Lanhas
+Saint-Domineuc|FR||9k|3qd|-58|g|Landoveneg
+Canjáyar|ES||9d|2ut|-7m|g|Lanjavar
+Landemont|FR||9k|3nb|-3g|g
+Landrévarzec|FR||9k|3pl|-ba|g|Landrevarzeg
+Langendernbach|DE||8r|3we|md|g
+Lang Lang|AU||8j|-2yb|b8c|f
+Langeneichstädt|DE||8r|3yn|wm|f
+Langballig|DE||8r|488|qs|f|Langballe
+Langenmosen|DE||8r|3r1|v5|f|Langenmoosen
+Langham|CA||4q|41g|-894|f
+Langenorla|DE||8r|3wy|w6|f
+Lancrăm|RO||8u|3jr|1tg|f
+Lanjazat|AM||80|33a|3fu|f
+Lanvollon|FR||9k|3r3|-8b|f|Lannolon
+Lanaja|ES||9d|381|-x|f
+Lanesborough|IE||8z|453|-m6|f|Béal Átha Liag
+Langenhahn|DE||8r|3wi|m0|f
+Langley|US|South Carolina|48|2l4|-6bc|e
+Lanobre|FR||9k|3i8|71|e
+Landunvez|FR||9k|3qt|-d5|e
+Landsbro|SE||9w|4fd|15e|e
+Landaul|FR||9k|3on|-8k|e|Landaol
+Langhorne Manor|US||48|33l|-5s4|e
+Langenlebarn-Oberaigen|AT||a2|3q9|18r|e
+Langon|FR|Brittany|9k|3ok|-55|e|Landegon
+Languibonou|CI||0|le|-em|e|Langüibonu;Longuibonou
+Langen|AT||a2|3o0|ra|e
+Langenboom|NL||8m|3zm|fx|e|Lange Boom;Langenboem
+Landete|ES||9d|32u|-3t|e
+Landsberied|DE||8r|3pt|v1|e|Landschbariad;Maisach
+Langen|DE|Lower Saxony|8r|41y|kr|e
+Lanark|US||2f|38y|-6xj|e
+Lanta|FR||9k|3d0|4l|e
+Langwedel|DE|Schleswig-Holstein|8r|46l|rl|e
+Langham|GB||9b|42d|-23|e
+Lanzada|IT||9o|3kj|rf|e
+Lanrivoaré|FR||9k|3qn|-cw|d|Lanriware
+Landivy|FR||9k|3qo|-2v|d
+Lanzo d'Intelvi|IT||9o|3jq|p2|d
+Lannach|AT||a2|3mf|16m|d
+Langenrohr|AT||a2|3q6|18h|d
+Langama|CI||0|lv|-e9|d
+Landéan|FR||9k|3qh|-37|d
+Londoko|RU||7w|3s6|a6n|d|Landoko
+Landmark|CA||5d|3tz|-7gy|d
+Landounou|CI||0|kj|-de|d
+Lantian|CN|Guizhou|7i|233|8fl|d|Lan-t’ien
+Saint-Urbain|FR|Brittany|9k|3qg|-br|d|Lannurvan
+Lantrativka|UA||98|3uq|2ya|d|Lantratovka
+Lancieux|FR||9k|3r1|-5z|d|Lanseeg;Lansiocus
+Lancaster Ridge|CA||35|3g5|-4wl|c
+La Noria de San Antonio|MX||3x|1tb|-87b|c|La Noria
+Lansdowne|CA||2s|44l|-8rf|c
+Landudec|FR||9k|3pc|-c2|c|Landudeg
+Långvik|SE|Stockholm|9w|4kl|1fg|c
+Lanigan|CA||4q|401|-83r|c
+Langeheit|NL||8m|41t|d8|c
+Langwarrin South|AU||8j|-2y3|b7b|c
+Langba Okohou|CI||0|l4|-d0|c
+Landolfshausen|DE||8r|3z5|s2|c
+Lanvénégen|FR||9k|3pc|-9u|c|Lannejenn
+Landelies|BE||8t|3vy|c3|c
+La Méaugon|FR||9k|3qq|-7w|c|Lanvealgon;Meaugon
+Lantic|FR||9k|3r1|-80|c|Lannidig
+Langenburg|CA||4q|3x9|-7uk|c
+Landédougou|CI||0|o7|-co|c
+Langnau / Vitaquartier|CH||a7|3nd|nq|c
+Landé|CI||0|ng|-9o|c
+Landero y Coss|MX||41|1it|-7h1|c|Landero y Cos;Landero y Coos
+La Vraie-Croix|FR||9k|3oh|-72|b|Langroez;Vraie-Croix
+Langula|DE||8r|3y3|sy|b
+Langenegg|AT||a2|3nv|ri|b
+Lanrodec|FR||9k|3qs|-8f|b|Lanrodeg
+Langoat|FR||9k|3rf|-94|b|Langoad
+Langeln|DE||8r|407|tz|b
+Landrake|GB||9b|3w2|-bx|b
+Lans|AT||a2|3n8|vr|b
+Lannon|US||2f|3bv|-6sx|b
+Länghem|SE||9w|4g0|10r|b
+Landegg|AT||a2|3p2|19k|b
+Langley|US|Washington|3p|3pg|-9g1|b
+Lambira|CI||0|nv|-9d|b|Lanbira
+Lantosque|FR||9k|3e5|kb|b|Lantosca;Lantusca
+La Nueva Era|MX||41|1d6|-7e5|b
+Langezwaag|NL||8m|436|go|b|Langsweagen
+Langenbach bei Marienberg|DE||8r|3wo|m3|b
+Langweer|NL||8m|434|fw|b|Langwar
+Langenbruck|CH||a7|3nj|ll|a
+La Noria|MX|Sinaloa|3x|1zf|-8dd|a
+Langstedt|DE||8r|47q|q2|a
+Lanquetot|FR||9k|3tr|1h|a
+Langrickenbach|CH||a7|3o7|pp|a
+Landeleau|FR||9k|3pz|-ad|a|Landelo;Lanna Teliavi
+Landéhen|FR||9k|3qj|-72|a
+Langenfeld|DE|Bavaria|8r|3tu|t8|a
+Landres|FR||9k|3t0|g4|a
+Lanouaille|FR||9k|3i3|36|a|La Noalha
+Lancrans|FR||9k|3k5|g7|a
+Lanzahita|ES||9d|33o|-dq|a
+Lanivet|GB||9b|3w4|-d8|a
+Langshan|CN||7i|21a|8jt|a
+Langdon Place|US||3k|2yd|-6lq|a
+Lanhouarneau|FR||9k|3qy|-bp|a|Lanhouarne
+Langensoultzbach|FR||9k|3s1|lh|a|Langensulzbach;Làngesulzbàch
+La Nava de Santiago|ES||9d|30i|-i3|9
+Langenwolschendorf|DE||8r|3wo|x7|9
+Landos|FR||9k|3gk|an|9
+La Neuville-en-Hez|FR||9k|3t8|6h|9|Neuville-en-Hez
+Lansing|US|Iowa|2f|3cg|-71e|9
+Langhassou|CI||0|lo|-dj|9|Langouassou;Langbasso
+Landersdorf|AT||a2|3qi|17f|9
+Landrethun-le-Nord|FR||9k|3x9|4y|9
+La Noria Hidalgo|MX||41|1ew|-7kr|9
+La Noria|MX|Jalisco|41|1kl|-7w8|9
+La Noria de Gallegos|MX||41|1ki|-7rz|9
+Langbank|GB||9b|4bc|-cr|9
+La Neuville-Roy|FR||9k|3tg|76|9
+La Noë-Blanche|FR||9k|3os|-4u|9|Ar Wazh-Wenn;Noé-Blanche
+Landorthe|FR||9k|3bt|26|9
+Lanz|DE||8r|43f|w8|9
+Lanrelas|FR||9k|3q1|-6d|9|Lanrelaz
+La Noria|MX|Veracruz|41|1kc|-7j0|9
+Landschach|AT||a2|3n4|157|9
+Lanurile|RO|Constanța County|8u|3ef|26u|9|Canurile
+Lanildut|FR||9k|3qn|-d7|9|Lannildud;Lanna Hilduti
+Landrienne|CA||59|3qv|-60j|9
+Landelles-et-Coupigny|FR||9k|3rt|-2s|9
+Langa de Duero|ES||9d|37l|-9g|9|Larga de Duero
+Llangwm|GB||9b|3zr|-dn|9|Langwm
+Saint-Benoît-des-Ondes|FR||9k|3r2|-55|9|Lanwezoù
+Lans|FR||9k|3lx|do|9
+La Noria|MX|Jalisco|41|1kt|-7xp|9|El Mirador
+Lanurile|RO|Buzău County|8u|3hr|239|9
+Langewahl|DE||8r|41d|136|9
+Landkern|DE||8r|3vf|jv|9
+Landevieille|FR||9k|3lk|-51|9
+Lanchères|FR||9k|3vc|4c|8
+Llangoed|GB||9b|441|-bd|8|Langoes
+Laufersweiler|DE||8r|3um|kb|8|Langersweiler
+La Noria|MX|Guanajuato|41|1mo|-7qu|8
+Langan|FR||9k|3q0|-55|8
+Languenan|FR||9k|3qr|-5x|8|Langenan
+Lanzenkirchen|AT||a2|3om|194|8
+Lanzendorf|AT|Lower Austria|a2|3qx|1a1|8
+Lanzendorf|AT|Lower Austria|a2|3qw|1a2|8
+La Norteña|MX||2g|2ac|-8d9|8
+Langley|US|Oklahoma|2f|2ta|-7c1|8
+Langossou|CI||0|hy|-eh|8
+Laniscat|FR||9k|3q0|-8o|8|Lanniskad
+Adair Village|US||3p|3g3|-9ia|8|Làng Adair
+Lagkadikia|GR||8p|34w|1sl|8|Langadhíkia;Langavuk
+Langon|FR|Centre-Val de Loire|9k|3nc|53|8
+Lawampleu|CI||0|j8|-mp|8|Lanvampleu
+Lanvaudan|FR||9k|3p2|-92|8|Lanvodan
+La Nopalera|MX||41|1g8|-7n6|8|Nopalera
+Landisacq|FR||9k|3rg|-1t|8
+Lanzè|IT||9o|3in|we|8
+Langenfeld|DE|Rheinland-Pfalz|8r|3vy|jp|8
+Lagkáda|GR||8p|2yw|20k|8|Lagadha;Langádha
+Langwiesen|CH||a7|3og|o2|8
+Laurenan|FR||9k|3pw|-72|8|Lanreunan
+Port-de-Lanne|FR||9k|3d0|-3a|8|Lanne
+Landujan|FR||9k|3q1|-5k|7
+Langston Hughes|US||48|31a|-5x0|7
+Landskouter|BE||8t|3xl|aj|7|Landscauter
+Landudal|FR||9k|3pi|-b2|7|Landuval
+Lantin|BE||8t|3wt|fc|7
+Landfall|US||2f|3gv|-76a|7
+Langeraar|NL||8m|40z|d3|7
+La Nueva Unidad|MX||41|1ld|-7pe|7
+Lanesboro|US||2f|3dg|-73i|7
+Langevåg|NO||9j|4ll|ej|7
+Landensberg|DE||8r|3qj|t8|7
+Langolen|FR||9k|3pj|-av|7
+Lancaster|US|Missouri|2f|34k|-751|7
+Langba|CI||0|jd|-d0|7
+Langeloth|US||48|345|-67d|7
+Lantéfontaine|FR||9k|3st|gf|7
+Langendorf|DE|Lower Saxony|8r|43i|va|7
+Lancié|FR||9k|3k9|d3|7
+Langhagen|DE||8r|455|yk|7
+Langrolay-sur-Rance|FR||9k|3qv|-5k|7
+Lanjik|AM||80|34j|3du|7|Muslugli;Musloghli
+Länna|SE||9w|4mb|1dv|7
+Lansac|FR||9k|3h6|-1i|7
+Kostanjevica na Krki|SI||9a|3jd|16u|7|Landstraß;Kostanjevica ob Krki
+Lano|WS||aj|-11u|-dac|7|Lauo
+La Noria|MX|Michoacán|41|1j4|-7sw|7
+Lancelin|AU||8k|-2e6|8we|7
+L'Anse-au-Loup|CA||50|3z4|-4dv|7
+Lázaro Cárdenas|MX|Jalisco|41|1j3|-844|7|La Nancy
+Landry|FR||9k|3il|iq|7
+Lanhélin|FR||9k|3qm|-53|7|Lanhelen
+Lampaul-Ploudalmézeau|FR||9k|3qw|-cy|7|Lambaol-Gwitalmeze;Lanna Pauli in Plebe Telmedoviae
+Langast|FR||9k|3q4|-7e|7|Lanwal
+Lantignié|FR||9k|3k7|cu|7
+Noria de Barajas|MX||41|1ki|-7uf|7|La Noria
+La Neuville|FR||9k|3w9|8h|7
+Lanim|MX||41|1o1|-7n0|7
+Landiswil|CH||a7|3mg|lc|7
+La Nueva|MX||41|1bd|-76t|6
+Langwathby|GB||9b|47y|-7f|6
+Lantziego / Lanciego|ES||9d|3a8|-6z|6|Lanciego;Lantziego
+La Nava de Ricomalillo|ES||9d|325|-dv|6|Nava de Ricomalillo
+Lanuéjouls|FR||9k|3ff|60|6
+Langourla|FR||9k|3q4|-6q|6
+Lansing|US|Ohio|48|33c|-68f|6
+Łanięta|PL||a5|41g|1hk|6
+Lansdowne|AU|Northern Territory|8e|-143|a7r|6
+Langschlag|AT||a2|3qx|15c|6
+Langeweg|NL||8m|3zh|cz|6
+Langau|AT||a2|3rn|17o|6
+Langdon|US|New Hampshire|48|3bx|-5l2|6
+Lantheuil|FR||9k|3sv|-1g|6
+Blandinsville|US||2f|34o|-70f|6|landinville
+Landrethun-lès-Ardres|FR||9k|3x7|5g|6
+La Noria|PE||3o|-dc|-68b|6
+Laning|FR||9k|3s8|it|6
+Landscha bei Weiz|AT||a2|3n7|17f|6
+Landes-le-Gaulois|FR||9k|3od|3a|6
+Lanslebourg-Mont-Cenis|FR||9k|3ht|j4|6|Lens-le-Bôrg;Lanslebourg
+La Neuve-Lyre|FR||9k|3rv|23|6
+La Noria|MX|San Luis Potosí|41|1p6|-7q4|6
+Lanaye|BE||8t|3x2|fu|6
+Lanare|US||3p|2t7|-995|6
+Land-Übelbach|AT||a2|3n6|16e|6
+Landi-Pedica|IT||9o|37o|zc|6
+Langouet|FR||9k|3q1|-52|6|Langoed
+Lantremange|BE||8t|3wv|eq|6
+Landiona|IT||9o|3ie|ne|6
+La Nueva Raza|MX||41|1ch|-7cc|6
+Langwies|AT||a2|3op|124|6
+Lanne|FR||9k|3bw|1|6
+Languira|CI||0|lc|-d0|6|Lenguéra
+Landrais|FR||9k|3jz|-2e|6
+Lanesville|US||3k|2y8|-6mv|6
+Langenscheid|DE||8r|3vw|m3|6
+Lansdowne|AU|New South Wales|8l|-2ga|brp|6
+La Nueva Esperanza|PE||3o|-wv|-5t9|6
+Landes|FR||9k|3jr|-1o|6
+Lannepax|FR||9k|3do|n|6
+Lancova Vas|SI||9a|3kt|182|6
+Landelles|FR||9k|3qn|3c|6
+Lanvellec|FR||9k|3r2|-9u|6|Lanvaeleg
+Langa|ES||9d|35x|-di|6
+Langa|PE||3o|-xp|-5wa|5
+Lanrivain|FR||9k|3qb|-8x|5|Larruen
+Landouzy-la-Ville|FR||9k|3ui|b9|5
+Lanquais|FR||9k|3gi|1v|5|Lencais
+Långås|SE||9w|4ea|yl|5
+La Noria|MX|Michoacán|41|1k3|-7vm|5
+Långvik|SE|Norrbotten|9w|53o|1pr|5
+Langford Budville|GB||9b|3xo|-93|5
+La Nueva Unión|MX||41|18p|-705|5|Nueva Unión
+Lanneray|FR||9k|3pl|3g|5
+Lanzac|FR||9k|3gn|44|5
+Landreville|FR||9k|3pj|cf|5
+Lankau|DE||8r|453|tn|5
+Álvaro Obregón|MX|Tamaulipas|44|1sd|-7ox|5|La Noria
+Langangen|NO||9j|4k5|r8|5
+Langui Kouadiokro|CI||0|ju|-dk|5
+Lankio|CI||0|rg|-9i|5|Lankie

@@ -1,0 +1,174 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tianjin|CN||7i|30q|91i|2yzo|Tiencin;Tiencsin;Thiên Tân;Tchien-ťin;Tjanĝino;Tientsin;Tiandzinas;Thiên-tsîn;Tjaņdziņa;Tyantszin;Tjandžin;Tyan'czin';T’ien-ching;T’ien-chin
+Jieyang|CN||7i|1te|8z9|enm|Ťie-jang;Yết Dương;Giék-iòng;Kiat-iông-chhī;Kiehyang
+Jiaozuo|CN||7i|2pw|8qk|6oe|Ťiao-cuo;Ĝjaoĝuo;Tiêu Tác;Ciĕu-cáuk;Chiau-chok-chhī
+Tieling|CN||7i|39h|9k0|3js|T’ieh-ling;T’e-ling
+Tieli|CN||7i|3mi|9vp|tw|Teli;T’ieh-li
+Hà Tiên|VN||6h|su|829|ry
+Tiébo|SN||g|14n|-193|rv
+Tiefu|CN||7i|2nx|93v|od
+Tianliu|CN||7i|2us|95y|io|T’ien-liu
+Tierra Blanca|MX|Veracruz|41|1f9|-7fo|da
+Tieqiao|CN||7i|2e8|8cd|bp
+Tiel|NL||8m|405|f3|bb
+Tietê|BR||4w|-1s6|-3oj|ah
+Tienen|BE||8t|3x5|dq|8t|Tirlemont;Thienen;Thenae
+Tierralta|CO||27|mp|-5va|7a|Tierra Alta
+Tianwei|TW||7l|1ud|9as|79|T’ien-wei
+Tsim Sha Tsui|HK||6i|1py|8t5|6u|Tsimshatsui;Cimŝacuj;Tiêm Sa Chủy
+Tiébissou|CI||0|jw|-ei|6s|Tiebissu
+Tékane|MR||19|1a4|-16n|64|Tiékane
+Tielt|BE|Flanders|8t|3xo|99|5d|Thielt
+Tieshan|CN||7i|2ah|852|4d
+Tiergarten|DE||8r|41w|115|45
+Thiers|FR|Auvergne-Rhône-Alpes|9k|3je|9v|3t|Tièrn
+Tierra Amarilla|CL||4u|-24b|-5f6|3l
+Tierra Colorada|MX|Guerrero|41|1bp|-7oh|37
+Tiégba|CI||0|hb|-fp|35
+Tiémélékro|CI||0|i1|-cu|31
+Tielt-Winge|BE||8t|3xg|dk|2z
+Tieupleu|CI||0|jk|-mn|2s|Téapleu;Tiépleu
+Tiéningboué|CI||0|mq|-fw|2p|Tiéningbué
+Tiébiéssou|CI||0|ev|-dl|2p|Téviéssou
+Tiékou-Carrefour|CI||0|ho|-bx|2b
+Temnikov|RU||9i|47r|3c2|2b|Temnikow;Tiemnikow;Tyemnyikov
+Tielou|CN||7i|2jf|826|2a
+Tié-Iné|CI||0|j6|-l4|2a
+Tiéme|CI||0|qi|-kc|29|Tyémé
+Tiefeng|CN||7i|2e1|8d4|27
+Tiegang|CN||7i|1qs|8sc|1w
+Tierp|SE||9w|4nm|1co|1m
+Tierra Buena|US||3p|30r|-9dz|1m|Terra Buena
+Tiefenbronn|DE||8r|3rm|og|1k
+Tierra Nueva|MX|San Luis Potosí|41|1o7|-7rd|1h|Tierranueva
+Tiemen|CN||7i|2cq|8b7|1g
+Tieganlike|CN||7t|30f|6sz|1g
+Kiémou|CI||0|p6|-ff|1f|Tiémou
+Tielt|BE|Flanders|8t|3xi|dn|1f|Thielt
+Tiefenort|DE||8r|3x8|s9|17
+Horní Těrlicko|CZ||9m|3u7|1fc|15|Tierlitzko;Górne Cierlicko
+Tiagba|CI||0|em|-d4|14|Tiegba;Tiagbé
+Tienko|CI||0|se|-ks|14
+Tielen|BE||8t|3yc|dm|13|Thielen
+Tiercé|FR||9k|3oa|-1b|13
+Tielrode|BE||8t|3xz|bm|12|Thielrode
+Tiến Lộc|VN||62|1f7|85w|11
+Tierra Verde|US||48|24x|-6ds|11
+Tién Oula|CI||0|iq|-jk|11
+Tiefenbach|DE|Bavaria|8r|3qq|xm|z
+Tierra Fría|MX||41|1ku|-7so|y
+Tiégbayo|CI||0|hz|-gm|x|Tiegbahio
+Tiéouléoula|CI||0|fy|-kk|x
+Tiekuang|CN||7i|298|8ag|w
+Tié-N'Diékro|CI||0|kn|-d9|w
+Tiéma|CI||0|ma|-gz|w|Tyéma
+Tien|KH||78|vs|839|v
+Tiédio|CI||0|lw|-94|v
+Thiesi|IT||9o|34k|o8|u|Tiesi
+Tierra Blanca|MX|Querétaro|41|1lq|-7qu|u|Sierra Blanca
+Tyénigoué|CI||0|lt|-gy|r|Tiéningoué
+Tyengala|CI||0|n6|-e9|q|Tiengala
+Tierra y Libertad|MX|Chiapas|41|19i|-78q|q
+Tiébly|CI||0|kt|-k1|p
+Tierras Nuevas Poniente|PR||4m|1fa|-54p|o
+Tielmes|ES||9d|33t|-97|o
+Tierra Blanca|MX|Zacatecas|41|1q3|-7vi|n
+Tiény-Séably|CI||0|ki|-kp|n
+Tyégana|CI||0|pk|-fv|n|Tiégana
+Tienguédougou|CI||0|nb|-d7|n
+Tiefenbach|DE|Bavaria|8r|3sn|y8|m
+Tiep|PH||71|194|98y|m
+Tienkouakrou|CI||0|k2|-8i|l
+Tierra Blanca|MX|Guanajuato|41|1mm|-7q8|l|Tierrablanca
+Thierachern|CH||a7|3lv|l1|k|Tierachern
+Tyésérila|CI||0|rm|-l8|k|Tiésserila
+Tierra Blanca|MX|Veracruz|41|1ms|-7k0|h
+Tiévopleu I|CI||0|jo|-mm|h|Tievopleu
+Tieri|AU||8c|-1s0|bg2|h
+Tytsjerk|NL||8m|43t|gf|g|Tietjerk
+Tiédrou|CI||0|kl|-kk|g
+Tierra Blanca Booxter|MX||41|1mb|-7jg|g|Tierra Blanca Boxtel;Tierra Blanca Boxter
+Tiefgraben|AT||a2|3oz|10z|g
+Tiépa|CI||0|hc|-gg|g
+Tiegem|BE||8t|3x5|9n|g|Tieghem
+Tienvolokaha|CI||0|oc|-hr|f
+Tierras Coloradas|MX|Jalisco|41|1ll|-7xq|f
+Tiébi|CI||0|sq|-hs|f
+Tyélivogo|CI||0|qg|-fx|e|Tiélivogo
+Tyéfindougou|CI||0|mn|-fx|e|Tiéfindougou
+Tierra Blanca|MX|México|41|1i7|-7om|e
+Tierra Blanca|MX|Zacatecas|41|1u7|-7yc|e
+Tierra Colorada|MX|Veracruz|41|1hf|-7fp|d
+Tieton|US||3p|3lq|-9bg|d
+Tiébila|CI||0|r2|-g7|d|Tyébila
+Tierra Blanca|MX|México|41|1gp|-7on|c
+Tiépli|CI||0|ky|-dx|c
+Tierra Nueva|MX|Veracruz|41|1je|-7hi|c
+Tyémorokaha|CI||0|nm|-eg|c|Tiémorokaha
+Tierra Blanca|MX|Veracruz|41|1m0|-7iq|c
+Tierra Nueva|MX|Veracruz|41|1el|-7by|c
+Tierras Coloradas (San Pedro)|MX||41|1is|-7rl|b
+Tierra Colorada|MX|Guerrero|41|1er|-7oc|b
+Tierra Negra|MX|Puebla|41|1k8|-7k4|b
+Tiérouma|CI||0|lx|-gl|b|Tiélouma
+Tiefinzo|CI||0|sw|-ks|b
+Tierra Blanca|MX|Sonora|37|23j|-8fr|b
+Tièkpoloupleu|CI||0|k4|-mo|b
+Tierra Larga (Campo Nuevo)|MX||41|1ge|-7mv|b
+Tienray|NL||8m|3z2|gx|a|Tienraai
+Tiéssou|CI||0|kw|-fq|a
+Tiefthal|DE||8r|3xq|uf|a
+Tyémasoba|CI||0|lq|-hx|a|Tiémasoba;Tiémassoba
+Tiéviessou|CI||0|ma|-em|a
+Tierra Amarilla 3ra. Sección|MX||41|1e7|-762|a
+Tyémoudougou|CI||0|na|-g3|a|Tiémoudougou
+Tierra Colorada|MX|Oaxaca|41|1bn|-7ks|a
+Tierra Colorada|MX|Guerrero|41|1ck|-7pb|a
+Tiengarakaha|CI||0|q4|-ej|9
+Tiémpa|CI||0|sz|-i6|9
+Tierra Blanca|MX|Guerrero|41|1a5|-7l4|9
+Tierra Blanca|MX|Guerrero|41|1bn|-7n6|9
+Tiembly-Gloplou|CI||0|jc|-ks|9
+Tierra Blanca|MX|Oaxaca|41|1bb|-7et|9
+Tierra Blanca|MX|Guanajuato|41|1li|-7rh|9
+Tiefenthal|DE||8r|3tm|mi|8
+Tiédougou|CI||0|s2|-gm|8|Tiétougou
+Tierra Blanca|MX|Guerrero|41|1bz|-7lj|8
+Tierra Blanca|MX|Oaxaca|41|1bn|-7jz|8
+Tierra Colorada|MX|Guerrero|41|19p|-7m0|8
+Tiéménin|CI||0|pt|-cg|8|Tiémini
+Tiepo|CN||7i|24a|8im|8
+Tiefurt|DE||8r|3xn|vj|8
+Tiefenbach|DE|Rheinland-Pfalz|8r|3uq|ky|8
+Tierra Colorada|MX|Chiapas|41|1b9|-763|8
+Tiemopa|MX||41|1cf|-744|8
+El Jaral|MX|México|41|1i8|-7or|8|Tierra Montón
+Tiékorodougou|CI||0|p3|-k7|8
+Tiètan|CI||0|m0|-8j|7
+Tiékouboura|CI||0|ln|-9k|7
+Tierra y Libertad|MX|Chiapas|41|194|-78a|7
+Tiesso|CI||0|kw|-fc|7
+Tiendiebo|CI||0|l4|-ff|7|Tiendebo
+Tierras Blancas|MX|México|41|1j7|-7pe|7
+Tierra Colorada|MX|Veracruz|41|1lc|-7ks|7
+Tierra Blanca|MX|Veracruz|41|1is|-7gj|6
+Tierra Negra|MX|Oaxaca|41|1bu|-7d4|6
+Tierras Peleadas (Tierras Amigas)|MX||41|1ef|-76g|6|Tierras Peleadas
+Tierra Blanca|MX|México|41|1id|-7ow|6
+Tierritas Blancas|MX||41|1pg|-7v4|6
+Tierra y Libertad|MX|Chiapas|41|18x|-72l|6
+Tierra y Libertad|MX|Chiapas|41|14h|-749|6
+Tierra y Libertad|MX|Chiapas|41|18z|-6zy|6
+Tierra Colorada 1ra. Sección|MX||41|1dp|-789|6|Tierra Colorada Primera Sección
+Tierras Coloradas|MX|San Luis Potosí|41|1ou|-7oe|6
+Tyenko|CI||0|mv|-l1|5|Tienko
+Hlubočec|CZ||9m|3ug|1dx|5|Tiefengrund
+Tierra y Libertad|MX|Oaxaca|41|1bs|-7h1|5
+Tierras Blancas|MX|Michoacán|41|1jf|-7vs|5|Tierra Blanca
+Tiékélédougou|CI||0|n8|-d4|5
+Tientiul Grande 2da. Sección (Agua Potable)|MX||41|1ca|-749|5
+Tiefenbach|DE|Baden-Wurttemberg|8r|3pk|qt|5
+Tierra Blanca|MX|Guerrero|41|1ex|-7rp|5
+Tiercelet|FR||9k|3te|gc|5
+Tiétiékro|CI||0|jf|-fl|5
+Tierra y Libertad (San Blas)|MX||41|1t5|-7wf|5

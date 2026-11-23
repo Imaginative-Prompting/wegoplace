@@ -1,0 +1,40 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wuhan|CN||7i|2cy|8tf|2y0e|Vuhano;Uhaņa;Vũ Hán;uuxan;Uxan;Vú-hon-sṳ;Wu-chan;Uhanas;Vuhan;Vuhani;Vujhan;Bú-hàn-chhī;Ū-háng;Uhan
+Wuhu|CN||7i|2f3|94z|cby|Wu-chu;Vuĥu;Ù-hù;Bû-hô͘-chhī;Vu Hồ;Ouhu
+Wuhai|CN||7i|328|88q|1oo|Ŭ-hāi;Wu-chaj;Vuhajo;Vû-hói-sṳ;Uhajus;Ô Hải;O͘-hái-chhī
+Ukhta|RU||9i|4wl|455|se|Uchta;Uhta;Ujtá;Oechta;Uht
+Uherské Hradiště|CZ||9m|3sb|1ci|6x|Ungarisch Hradisch;Magyarhradis;Ungarisch-Hradisch
+Uherský Brod|CZ||9m|3s7|1d1|4j|Ungarisch Brod;Magyarbród;Uherski Broda;Vehersky Brod
+Uhingen|DE||8r|3ra|qn|3w
+Uhříněves|CZ||9m|3uz|14k|32
+Uhldingen-Mühlhofen|DE||8r|3ol|pp|28|Unteruhldigen
+Kalevala|RU||9i|514|2en|1i|Uhtua
+Uhrichsville|US||48|347|-69z|1i|Uhrichs Mill;Uhricksville;Urichsville
+Ühlingen-Birkendorf|DE||8r|3ok|n4|1h
+Uherský Ostroh|CZ||9m|3s3|1cb|19|Magyarsárvár;Uherski Ostroha
+Huarte|ES||9d|3az|-4f|13|Uharte
+Uhlia|UA||98|3pr|1tn|v|Uhlya;Uglya
+Uhlířské Janovice|CZ||9m|3uk|15u|v
+Uhryniv|UA||98|3s0|1wl|v|Ugryniv
+Uehlfeld|DE||8r|3tz|ts|t|Ühlfeld
+Záhorská Ves|SK||8s|3qe|1at|j|Uhorská Ves;Ungeraiden;Magyarfalu;Magyarfalva
+Uhroidy|UA||98|3xa|2q0|i|Uhroyidy;Ugroyedy
+Uhersko|UA||98|3sy|1uf|h|Uhers’ko
+Uherce Mineralne|PL||a5|3te|1q8|e
+Úhonice|CZ||9m|3v0|13f|d
+Uhyst|DE||8r|3yo|14b|c|Delni Wujězd
+Uhwiesen|CH||a7|3of|o0|b
+Uherčice|CZ||9m|3s1|1a9|b
+Uhland|US||2f|2b8|-7jn|b
+Uehrde|DE||8r|40q|tx|a|Ührde
+Uhniv|UA||98|3vx|1tz|9|Uhnów;Huwnów
+Uhrwiller|FR||9k|3rs|l2|7
+Uhřice|CZ||9m|3s9|1b3|7
+Uhlwiller|FR||9k|3rm|lb|7
+Uchanie|PL||a5|3xf|1tp|7|Uhanie
+Uhrynychi|UA||98|3zk|1yk|6
+Uhart-Cize|FR||9k|3bw|-3g|6|Uhart;Uharte-Garazi;Cisa;Uharte Garazi;Uhart de Cisa
+Uhřičice|CZ||9m|3t5|1c1|6
+Úholičky|CZ||9m|3vc|13u|6
+Ulen|US||2f|3ms|-7fe|6|Uhlen
+Uhelná Příbram|CZ||9m|3u9|17b|5

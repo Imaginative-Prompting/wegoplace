@@ -1,0 +1,102 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Kabul|AF||6o|2nx|5c5|y7u|Kaboul;Cabul;Kâbil;Kaboel;Caboul;Cabura;Kabol;Kobul;Caubul;Kabura;Cabool
+Cabinda|AO||x|-fg|xv|48s|Kabinda;Kabenda
+Jiamusi|CN||7i|3m0|a1z|48n|Ťia-mu-s’;Gjamusi;Dziamusi;Giai Mộc Tư;Gă-mŭk-sṳ̆;Ka-bo̍k-su-chhī
+Palu|ID||70|-2j|98z|30c|Kabupaten Poso
+Cabimas|VE||2c|sw|-5ih|2pp|Kabimasas
+Kabwe|ZM||z|-145|271|286|Kabvė
+Kabinda|CD||y|-h2|1w0|1oy
+Kabankalan|PH||71|rq|9h5|1ml
+Cabo San Lucas|MX||3x|1rl|-8hb|1kb|Kabo san Lukas;Kabo Sanlukasa;Mys svätého Lukáša
+Abū Kabīr|EG||c|2dd|2fz|16x|Abu Kebîr;Abū Kibīr
+Kabin Buri|TH||62|12r|7uk|12x
+Kabal|PK||6q|2on|5ks|10s
+Gabès|TN||1e|2m4|s2|ul|Kabis;Qabes;Abes;Qābis;Gābis
+Katumba|TZ||h|-pn|2le|u6|Kabumba
+Kabirwala|PK||6q|2cg|5jm|pj
+Kabalo|CD||y|-gt|22r|mk
+Kabanjahe|ID||6l|8m|7ll|kg|Kabandjahe
+Koboko|UG||q|9h|2e0|hx|Kaboko
+Kabale|UG||q|-3h|2bb|es
+Kabbasin|SY||69|2t7|2wd|e8|Qabbāsīn
+Kabba|NG||u|lr|gw|dv
+Kebri Dahar|ET||2|iq|3f0|cr|Qabridahare;K’abradaharē;Kebri Dekhar;K’ebrī Dehar
+Kabeya-Kamwanga|CD||y|-go|1sl|c9
+Kabkābīyah|SD||r|11x|1uw|bs|Kebkābiya;Kabkabiyya
+Kabnur|IN||6t|1ae|5qs|al
+Kabare|CD||y|-6y|27z|aa
+Kabacan|PH||71|jr|9mr|8u|Kabakan
+Kabaty|PL||a5|40t|1mk|8c
+Kabrāi|IN||6t|1yk|668|6w|Kabral
+Kabarnet|KE||16|1d|2ra|6v
+Kabala|ML||5|yt|-mb|6q
+Kabanovo|RU||9i|4av|306|6i|Kabanova
+Kabanga|TZ||h|-7c|2cn|5e
+Kabūdarāhang|IR||7o|2pt|3rc|5c|Kabūtarāhang;Kabūd Rāhang
+Kabala|SL||l|qn|-w3|4z|unguwance a kaduna;Kaballa
+Kabo|CF||6|le|1fr|4j
+Kabilpor|IN||6t|1m7|5mo|4d
+Kabompo|ZM||z|-11r|1v8|47
+Kābūl|IL||6n|2jb|2pt|3i|Kaboel;Kavul
+Qabala|AZ||61|35u|3ox|3b|Gabala;Kabala;Qutqaşen;Qutqashen
+Kāb|IN||6t|1yj|6jj|2t
+Cabinteely|IE||8z|43z|-h4|2s|Kabintilis;Cábán tSíle
+Kabala|TR||94|2vr|35c|2l
+Kabataş|TR||94|357|2w1|2j
+Kābāw|LY||1d|2gh|vh|25
+Kabardinka|RU||9i|3g1|2xe|22|Kaberdinka
+Kabri|IN||6t|29r|5xq|1y
+Cabugao|PH|Ilocos|71|1df|9am|1x|Kabugao
+Kaba|HU||8v|3nj|1n4|1s
+Kabansk|RU||6k|40l|889|1r
+Krasnorichenske|UA||98|3sq|2y5|1i|Krasnorichens'ke;Kabannye;Kabannie;Kabane;Kabanje;Kaban’ye
+Kovilj|RS||8q|3hn|1jm|1h|Kabol
+Kabalen|PH||71|hk|9n9|1d|Kablen
+Kabac|PH||71|v8|9jm|15|Cabac;Kabak
+Kabatabandha|IN||6t|1m0|6my|15
+Cabaret|HT||4j|1g2|-5l6|14|Kabarè
+Kabulusan|PH||71|13w|9d8|12
+Cabourg|FR||9k|3sx|-b|11|Kabūra
+Kabakouma|CI||0|lg|-ld|11|Kambakouma
+Kabadüz|TR||94|35i|2x8|10
+Kabalantian|PH||71|n9|9ld|w|Cabalantian
+Kabakovo|RU||7z|47i|4bz|v|Kabakowo;Kabanovo
+Kaboro|CF||6|jd|1cp|t
+Cabalawan|PH||71|tu|9kb|t|Kabalawan
+Kablalan|PH||71|g2|9ns|r|Cablallan
+Cabilao|PH||71|w2|9i2|r|Kabilao
+Kabulohan|PH||71|mc|9o0|q|Cabulohan
+Kabuynan|PH||71|us|9na|q|Cabuynan;Kaboynan
+Cabilauan|PH||71|u9|9gq|q|Kabilaoan;Cabilawan;Kabilauan
+Kavati|KE||16|-3f|2xc|o|Kabati
+Cabatuan|PH|Eastern Visayas|71|ys|9nu|o|Cabatoan;Kabatoan
+Kabugao|PH||71|1e2|9cm|n
+Kabungahan|PH||71|t8|9ke|n|Cabungahan
+Kaba|CN||7i|2me|7zh|n
+Kabukicho|JP||7q|2r5|as2|n
+Kabelvåg|NO||9j|59h|148|n|Váhki;Kabelvaag
+Kabasalan|PH||71|jn|9m9|m
+Kabilauan|PH||71|u6|9gh|l|Kabilaoan;Cabilauan
+Kabéhoa|CI||0|h8|-hb|l|Kabéoa
+Kahoka|US||2f|34a|-72s|k|Cahoka;Kaboka
+Kabakça|TR||94|36j|26t|i
+Kabakum|TR||94|30p|22p|i
+Kabangbe|CI||0|s6|-kz|h|Kabangoué
+Kabasakal|TR||94|2uy|2pv|g
+Kabrankro|CI||0|in|-ag|f
+Kaibito|US||2p|2to|-8kj|f|Kaibiito;Kaibeto;K'ai' Bii' To;Kabito
+Kopor’ye|RU||9i|4lv|28o|f|Koporje;Kaprio;Kabrio;Kopor’e
+Kabir|RU||9i|37g|3ph|e|Kapir
+Kabolokoro|CI||0|q9|-gm|b|Kobolokoro
+Kobersdorf|AT||a2|3o8|19j|b|Kabold
+Kabri|IL||6n|2jq|2pn|b|Kābirī;Cabri
+Kabalak|TR||94|35r|2el|a
+Kabūd Gonbad|IR||7o|2qj|3zr|8
+Cabauw|NL||8m|40c|dm|7|Kabauw
+Kabogo|CI||0|sp|-g1|7
+Kabagöz|TR||94|37m|2hz|7
+Kabia|CI||0|gv|-g7|7
+Kabévogo|CI||0|q4|-gd|6
+Kabalı|TR||94|36i|2qs|5
+Kabala|CI||0|qj|-m0|5|Kobala

@@ -1,0 +1,43 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Sint-Niklaas|BE||8t|3y5|bi|j6|Saint-Nicolas
+Saint-Nazaire|FR|Pays de la Loire|9k|3nc|-66|in|Sant-Nazer;Fanum Sancti Nazarii in Sinnuario;Sen Nazeras
+Saint Neots|GB||9b|412|-r|8k|St Neots;St. Neots
+Saint-Nicolas|BE||8t|3wn|fd|6a
+Saint-Nicolas-de-Port|FR||9k|3r3|hi|25|Saint-Nicolas-du-Port
+Saint-Nicolas|FR||9k|3vq|7q|1m|Saint Nicolas Les Arras;St. Nicolas Les Arras
+Saint-Nom-la-Bretêche|FR||9k|3rq|5m|1c
+Saint-Nicolas-d'Aliermont|FR||9k|3uk|3e|14
+Saint-Nabord|FR||9k|3ph|ia|14
+Saint-Nolff|FR||9k|3oi|-7d|10|Sant-Nolf
+Saint-Nicolas-de-Redon|FR||9k|3oc|-5r|v|Sant-Nikolaz-an-Hent
+Saint-Nazaire|FR|Occitanie|9k|3aj|8b|q|Sant Nazari
+Saint-Nazaire-les-Eymes|FR||9k|3hp|g9|p
+Saint-Nicolas-de-la-Grave|FR||9k|3ee|2u|l|Sent Micolau;Sent Micolau de la Grava;Saint-Nicolas-la-Grave
+Saint-Nicolas-du-Pélem|FR||9k|3q7|-8t|k|Sant-Nikolaz-ar-Pelem
+Saint-Nazaire-d'Aude|FR||9k|3c4|81|i
+Saint-Narcisse|CA||59|3lc|-5lb|i
+Saint-Nizier-sous-Charlieu|FR||9k|3k7|bg|g
+Saint-Nauphary|FR||9k|3e4|3z|d
+Saint-Norbert-d'Arthabaska|CA||59|3k1|-5jd|c
+Saint-Nicolas-de-Bourgueil|FR||9k|3nc|d|c
+Saint-Nazaire|FR|Occitanie|9k|3es|cu|c
+Saint-Narcisse-de-Beaurivage|CA||59|3l4|-5hv|c
+Saint-Nicolas-de-la-Taille|FR||9k|3tj|1b|b
+Saint-Norbert|CA||59|3k9|-5nn|b
+Saint-Nazaire-sur-Charente|FR||9k|3jm|-2x|9
+Saint-Nizier-du-Moucherotte|FR||9k|3hh|fn|9
+Saint-Nexans|FR||9k|3gg|1j|9
+Saint-Nicolas-de-Macherin|FR||9k|3i4|fk|9
+Saint-Nazaire-d'Acton|CA||59|3j2|-5lq|8
+Saint Nazianz|US||2f|3e9|-6s8|8
+Saint-Nic|FR||9k|3pw|-bw|7|Sant-Vig
+Saint-Nérée-de-Bellechasse|CA||59|3lt|-5gg|7
+Saint-Nectaire|FR||9k|3in|8b|7
+Saint-Nizier-d'Azergues|FR||9k|3k1|cf|7|Saint-Nizier-d'Avergues
+Saint-Nizier-de-Fornas|FR||9k|3i4|bc|6
+Saint-Nazaire-de-Pézan|FR||9k|3d8|bg|6|Sant Nasari;Sant Nazari de Pesan
+Saint-Nizier-le-Bouchoux|FR||9k|3l2|eb|6
+Saint-Nazaire-en-Royans|FR||9k|3h6|el|5
+Saint-Nizier-le-Désert|FR||9k|3jy|eb|5
+Saint-Nabor|FR||9k|3ql|km|5|Sankt Nabor;Sant Nawer
+Saint-Nicolas-de-Bliquetuit|FR||9k|3tj|21|5|Saint Nicolas-de Bliquetuil

@@ -1,0 +1,5 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Newtown|GB||9b|41w|-96|36|Y Drenewydd;Neapolis;Niutaunas;Tre-Newydd
+Ydes|FR||9k|3hz|6s|k|Eidas;Hisde
+Ýdra|GR||8p|2vr|1t7|j
+Yde|NL||8m|43k|ib|8|Ide

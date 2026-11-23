@@ -1,0 +1,195 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Ningbo|CN||7i|2b0|9dn|ssg|Nèn-pô-sṳ;Ninh Ba;Lêng-pho-chhī;Ninbo;Nìng-pŏ̤;Ningpo
+Longyan|CN||7i|1xn|912|7wr|Lṳ̀ng-ngàng;Lung-jen;Liùng-ngâm-sṳ;Longyen shehiri;Long Nham;Lêng-nâ-chhī;Lung-yen
+Linz|AT||a2|3q7|13p|1kw|Linec;Lentia;Lincas;Linca
+Lengshuijiang|CN||7i|24x|8lj|1j3|Lãnh Thủy Giang;Leng-shui-chiang
+Gyumri|AM||80|35b|3dt|vv|Kumayri;Gjumri;Gumru;Gumri;Giumri;Gjoemri;Ghiumri;Leninakan;Gumry;Kyumayri;Gimri;Kyumri;Kümri
+Leninsk-Kuznetsky|RU||74|47u|6nd|ua|Leninsk-Kuznetskij;Leninsk-Kusnezki;Léninsk-Kuznetski;Leninsk-Kouznetski;Leninsk-Kuzneckij;Leninsk-Koeznetski;Kuznecko Leninskas;Ļeņinska-Kuzņecka;Leninsk-Kuznețki;Lenińsk Kuźniecki;Lenjinsk Kuznjecki;Leninsk-Kuznetsk;Leninsk Kuznetski;Leninsk-Kuznetskiy
+Oleksandrivskyi|UA||98|3p9|2x0|rv|Leninskyi rayon;Leninskyi;Oleksandrivka
+Lankaran|AZ||61|2zn|3rp|ot|Lenkoran;Lencoran;Lenkoran'
+Lengshuitan|CN||7i|21d|8m0|op|Leng-shui-t’ang
+Shevchenkivskyi|UA|Luhansk|98|3qw|319|ob|Leninskyi;Leninskyi rayon
+Baikonur|KZ||7c|3iq|4vw|jg|Leninsk;Baïkonour;Baykonur;Bayqomir;Leninskiy
+Lençóis Paulista|BR||4w|-1qs|-3rk|j6
+Leninogorsk|RU||9i|47o|41p|if|Leninoqorsk;Leninogorszk
+Lancaster|US|Pennsylvania|48|338|-5vz|gh|Lengeschder
+Lenexa|US||2f|307|-7b5|el
+Leningradskaya|RU||9i|3ko|31f|ar|Leningradskaja
+Lens|FR||9k|3w3|7v|an
+Leh|IN||6t|2mx|5zi|af|Len
+Lenbe|HT||4j|1ir|-5l4|92
+Lend|AT|Styria|a2|3ms|16u|8n
+Leninskiye Gory|RU||9i|4aq|2wd|8c
+Lennestadt|DE||8r|3y0|mf|7t
+Lentini|IT||9o|2vl|15o|6p|Leontini;Lintini
+Lensk|RU||7x|4oo|8v9|6l
+Lennox|US|California|3p|2ma|-94r|6c
+Lengerich|DE|North Rhine-Westphalia|8r|40z|lu|6b
+Łęczna|PL||a5|3yi|1rk|61|Lenčna
+Lindlar|DE||8r|3xq|ki|61|Lenkeln
+Lenger|KZ||5s|396|5e5|5w|Lengir
+Lents|US||3p|3ic|-9gh|5m
+Lenoir|US||48|2rr|-6ai|4z
+Lędziny|PL||a5|3va|1h5|4j|Leņdzini;Lyńdźiny
+Łęczyca|PL|Łódź Voivodeship|a5|40m|1hc|4b|Lenčica
+Leninsk|RU|Volgograd Oblast|a4|3ra|3hk|48
+Lenyenye|ZA||o|-1ul|2c3|41
+Leninkent|RU||9i|3bd|3nj|3v
+Lenggeng|MY||6v|7y|7v6|3n|Lengging
+Lengede|DE||8r|410|sn|3m
+Landeh|IR||7o|2e2|3w2|3k|Lendeh;Lindeh
+Lenggong|MY||6v|e7|7sh|3j
+Lenvik|NO||9j|5cw|1eg|39
+Lençóis|BR||20|-yw|-36z|37|Lençóes
+Pola de Lena|ES||9d|3bw|-g7|33|Lena;Llena;Pola de Llena
+Lentate sul Seveso|IT||9o|3iw|pc|32
+Lenzburg|CH||a7|3nn|mq|2y|Lencburgo;Lenzbourg
+Leno|IT||9o|3i1|se|2u
+Lentvaris|LT||a3|47s|1xl|2s|Lentvare
+Leninskiy|RU|Tula Oblast|9i|46t|2w2|2q|Leninskij
+Lenggries|DE||8r|3og|w5|2m|Lenggrias
+Lent|NL||8m|402|gb|2k|Tent
+Lenoir City|US||48|2rg|-6i2|2j
+Leninskiy|KZ||5s|415|5xa|2e|Atameken
+Lenzie|GB||9b|4bd|-bj|2e
+Lenti|HU||8v|3li|19y|2c
+Lempdes|FR||9k|3j5|8v|2b|Lende e Marmilhac;Lende
+Lengenfeld|DE||8r|3wh|yc|29
+Lenningen|DE||8r|3qv|qc|28
+Leninaul|RU||9i|3bp|3ld|23
+Lendinara|IT||9o|3h8|w8|23
+Yedy-Kuyu|UA||9t|3hu|2re|22|Lenino;Yedi Kuyu;Yedi Quyu;Lenine;Sim Kołodiaziw;Yedy Kuyu;Yedy-Kuiu
+L'Entregu/El Entrego|ES||9d|3c9|-fo|22|L'Entregu;El Entregu;El Entrego
+Lengshuiguan|CN||7i|29m|89m|21
+Lengnau|CH||a7|3n2|kh|21|Longeau
+Leninskoye|RU|Jewish Autonomous Oblast|7w|3p6|a8e|1w|Leninskoe
+Lentsweletau|BW||m|-1vd|1zt|1v
+Lennox Head|AU||8l|-27z|bun|1r
+Lengshui|CN||7i|2bp|8dj|1q
+Lenah Valley|AU||8g|-3b3|bd4|1n
+Sint-Kwintens-Lennik|BE||8t|3x4|bj|1n|Lennick-Saint-Quentin
+Lendak|SK||8s|3sr|1kk|1l
+Lenauheim|RO||8u|3jf|1ls|1k
+Lentävänniemi|FI||92|4qx|1tv|1i
+Lendelede|BE||8t|3xd|90|1i|Lendlee
+Leninskoye|RU|Kirov Oblast|97|4i0|3mt|1h|Leninskoje;Leninskiy
+Lenina|RU||9i|3jz|32i|1h
+Lenzkirch|DE||8r|3oz|ms|1f
+Lensahn|DE||8r|46m|u8|1f
+Lentilly|FR||9k|3ja|cy|1f
+Lenchwe Le Tau|BW||m|-1vq|1zt|1e
+Lengefeld|DE|Saxony|8r|3ww|10n|1c
+Lennoxtown|GB||9b|4bh|-bo|15
+Hrushivka|UA|Dnipropetrovsk|98|3o6|2mi|14|Leninske;Leninskoye
+Le Neubourg|FR||9k|3sj|2j|13
+Lens|BE||8t|3wg|au|13
+Lenwood|US||3p|2ow|-91a|z
+Lens|CH||a7|3kk|kp|z
+Lengyeltóti|HU||8v|3ln|1d0|y
+Valyanivske|UA||98|3pj|31v|x|Leninske;Valianivske;Leninskiy;Leninskoye
+Lenart v Slovenskih Goricah|SI||9a|3le|17z|x|Sankt Leonhard in Windischbüheln;Lenart v slovenske Goricah
+Lengpui|IN||6t|1u7|75b|x
+Lennec|PH||71|17k|9bd|v|Lenec
+Lendava|SI||9a|3lc|19p|v|Alsólendva;Lendva
+Lenzing|AT|Upper Austria|a2|3p9|11t|u
+Le Nouvion-en-Thiérache|FR||9k|3uy|aj|u
+Lendékro|CI||0|ll|-b6|u
+Myrne|UA|Zaporizhzhia|98|3ls|2py|t|Leninske;Leninskoye
+Lenola|IT||9o|370|11e|t
+Lena|US|Illinois|2f|39q|-6xi|s
+Lengerich|DE|Lower Saxony|8r|41z|kx|r
+Lenzen|DE||8r|43h|vv|r
+Lengdorf|DE||8r|3q2|xh|q
+Lenzerheide|CH||a7|3ls|qk|q|Lai
+Łęknica|PL||a5|3z6|14y|q|Wjeska;Lenkņica;Łęknice
+Lenguazaque|CO||27|er|-5or|q
+Lens-sur-Geer|BE||8t|3ww|ev|p
+Lencloître|FR||9k|3m1|x|o
+Lentföhrden|DE||8r|45n|rh|n
+Lennox|US|South Dakota|2f|3cf|-7h5|n
+Lenk|CH||a7|3l2|ko|n
+Lentigione-Sorbolo a Mane|IT||9o|3gn|t4|m
+Lenham|GB||9b|3yc|20|m
+Lenkivtsi|UA||98|3qr|22c|m|Lencăuţi
+Leninskiy|RU|Sakha|7x|4ip|9og|k|Leninskij
+Lendrum Place|CA||2s|44l|-8rc|j
+Lenno|IT||9o|3jp|pj|i|Lenn;Łeno
+Lenughi|AM||80|33h|3e4|i|Lenuxi
+Lenhovda|SE||9w|4ec|16g|i
+Leninskoye|UA|Crimea|9t|3hr|2ml|h
+Leninsk|RU|Chelyabinsk|7z|48i|4mb|h
+Leens|NL||8m|448|hq|h|Liens;Lèns
+Lenox|US|Massachusetts|48|39o|-5nk|h
+Leninskoye|UA|Crimea|9t|3hp|2rs|h
+Lenguézan|CI||0|le|-ax|h
+Samuxlu|AZ||61|34j|3n1|g|Leninabad
+Le Noirmont|CH||a7|3n6|jc|g|Noirmont
+Lyntupy|BY||9g|48x|213|g|Lentupis;Lintupis
+Lenguédougou|CI||0|oz|-hc|g|Linguédougou
+Leninskoye|RU|Leningradskaya Oblast'|9i|4na|2ax|g|Leninskoje;Haapala
+Lengfelden|AT||a2|3ox|109|f
+Lentiai|IT||9o|3jx|xe|e|Linteayum;Lentiei
+Akhalgori|GE||7n|390|3fk|e|Leningori
+Lengenfeld|AT||a2|3qn|17c|e
+Leńcze|PL||a5|3um|1iu|e
+Pivdenne|UA|Donetsk|98|3qc|2xd|e|Leninske;Leninskoye
+Lengkuas|MY||6v|gr|7qu|e
+Lentigny|FR||9k|3jr|b2|e
+Lenox|US|Iowa|2f|35k|-7ao|e
+Lengenwang|DE||8r|3oi|tg|e
+Lenešice|CZ||9m|3vy|129|d
+Lent|FR||9k|3k4|ef|c
+Lena|NO||9j|4oj|u1|c
+Lens-Saint-Remy|BE||8t|3wp|e9|c
+Lenartov|SK||8s|3sz|1me|c
+Stavky|UA|Zhytomyr Oblast|98|3w2|296|c|Lenine;Lenino
+Lenape Heights|US||48|358|-64w|c
+Lengbé Kouassiblékro|CI||0|kc|-cw|c
+Lenhausen|DE||8r|3y8|m5|b
+Ch’iauri|GE||7n|37u|3k7|a|Ul’yanovka;Ulianovka;Leninovk’a
+Gančani|SI||9a|3lj|195|a|Lendvarózsavölgy
+Lentekhi|GE||7n|3av|3ao|a|Lent’ekhi
+L'Ènova|ES||9d|30h|-1c|a|Énova
+Lendorf|AT||a2|3m4|11b|9
+Léngué Kouadjokro|CI||0|k9|-cu|9|Léngoué-Kouadiokro
+Lentiscosa|IT||9o|336|16q|9
+Lennisheuvel|NL||8m|3z9|es|9
+Lenox|US|Georgia|48|2ev|-6fu|9
+Leneva|AU||8j|-2sm|bc2|8
+Lenta|IT||9o|3ik|na|8
+Lénaré|CI||0|mi|-9c|8
+Shikharkh|AZ||61|341|3m9|8|Şıxarx;Leninavan
+Lengefeld|DE|Saxony-Anhalt|8r|3y0|wj|8
+Lembeye|FR||9k|3cp|-b|8|LEnveja
+Lénagnora|CI||0|qs|-bj|8
+Lenne|DE||8r|405|qw|8
+Lengau|AT||a2|3pd|10q|7
+Lens-Lestang|FR||9k|3ht|e0|7
+Leningradskiy|RU||5u|5co|drk|7|Leningradskij
+Lennon|FR||9k|3pv|-au|7
+Gomilica|SI||9a|3lg|19b|7|Steinberg;Lendvaszentjózsef;Gumilicza
+Lengyel|HU||8v|3kt|1f1|7
+Lenora|CZ||9m|3rw|12b|7
+Lendavske Gorice|SI||9a|3lc|19r|6|Lendvahegy
+Lenzing|AT|Salzburg|a2|3nt|zm|6
+Linger|LU||9c|3tp|gd|6|Lénger
+Renkovci|SI||9a|3lk|19a|6|Neulimbach;Lendvaerdő
+Lengékro|CI||0|lt|-ih|6
+Lend|AT|Salzburg|a2|3ne|109|6
+Lanslebourg-Mont-Cenis|FR||9k|3ht|j4|6|Lens-le-Bôrg;Lanslebourg
+Le Nayrac|FR||9k|3fx|7e|6
+Stepove|UA|Cherkasy|98|3tm|2ig|6|Lenins’ke;Leninske
+Lentella|IT||9o|38o|14s|6
+Lenin|BY||9g|41e|24d|6|Lyenin;Lienin
+Languira|CI||0|lc|-d0|6|Lenguéra
+Lenartovce|SK||8s|3q6|1kf|6|Linhartovce
+Le Neufbourg|FR||9k|3r6|-2n|6
+Lenkerville|US||48|34l|-5xs|6
+Lena|US|Wisconsin|2f|3gv|-6sl|5
+Lanquais|FR||9k|3gi|1v|5|Lencais
+Lenswood|AU||8b|-2p0|apn|5
+Lędyczek|PL||a5|44q|1b4|5|Lendyczek
+Lenna|IT||9o|3jm|qw|5|Lèna
+Vynohradne|UA|Mykolaiv|98|3lq|2er|5|Leninka
+Lennon|US||2q|3be|-6h5|5

@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kinshasa|CD||t|-c1|16j|3fgg|Kinsasa;Kinszasa;Quinxassa;Kinŝaso;Kinsjasa;Kinchasa;Kincasa;Kinxasa;Kinšas;Kinchassa
+Kyiv|UA||98|3w5|2cs|ms3|Kijivo;Kyiw;Kijów;Kiev;Kyjev;Kiiev;Kiova;Kijev;Kiovia;Kiew;Kijevas;Kijeva;Chijv;Kyiiv;Kijv;Kiyiw;Kænugarður;Kiyev;Kievi;Küyiv;Kieu;Kijew;Kyjiw;Kjiv;Kiëf;Cív;Kijůw;Kyèv;Kijiv;Chiovia;Ki ép;Kíjó
+Quito|EC||33|-n|-624|lgo|Kito;Quitum;Kitas;Kitu;Quitu;Kuito
+Brooklyn|US|New York|48|34x|-5pf|l41|Broklino;Bruklinas;Comitatus Bruclinum;Bruklina;Brucclinu;Kings County
+Chicago|US||2f|389|-6rh|kk5|Ĉikago;Sicagum;Čikaga;Şikago;Chicagu;Chikago;Kikako;Tsikago;Çikaqo;Chi-kâ-kô;Čėkaga;Shikago
+Jieyang|CN||7i|1te|8z9|enm|Ťie-jang;Yết Dương;Giék-iòng;Kiat-iông-chhī;Kiehyang
+Jilin|CN||7i|3dt|9rk|emn|Dzilinas;Cát Lâm;Ĝilino;Ťi-lin;Kiat-lîm-chhī;Gék-lìng;Csilin;Džilin;Kilin;Chi-lin
+Jiangyin|CN||7i|2gn|9a2|dqb|Kiang Ying;Kiangyin;Chiang-yin
+Kisangani|CD||y|1g|1xz|cd1|Stanleystad;Stanleyville
+Jinzhou|CN|Liaoning|7i|367|9ci|brg|Jintsjou;Ťin-čou;Ĝjinĝou;Dzindžou;Cẩm Châu;Gīng-ciŭ;Kím-chiu-chhī
+Jinhua|CN|Zhejiang|7i|28v|98c|bao|Ťin-chua;Kîm-fà-sṳ;Kim Hoa;Kim-hoâ-chhī;Gĭng-huà
+Kyoto|JP||7q|2pa|ah3|bal|Kioto;Kjóto;Quioto;Kyotum;Kiotas;Kyotu;Kėjuots
+Qinzhou|CN||7i|1p2|8dt|a03|Ginhcouh;Kĭng-ciŭ;Čchin-čou;Khîm-chû-sṳ;Khâm Châu;Khim-chiu-chhī;Ch’in-chou
+Barranquilla|CO||27|uh|-5rq|9b3|Barankilija;Barranquilha;Barrankilya;Killa;Quilla;La Arenosa;Barankilijo
+Jiujiang|CN||7i|2ai|8y8|8zf|Ciuciang;Ťiou-ťiang;Cửu Giang;Chiu-chiang;Kiukiang
+Kigali|RW||s|-5f|2bi|8qn|Kigaly;Kigalo;Kiqali;Kigale
+Jingzhou|CN||7i|2cb|8nn|84b|Jingtsjou;Ťing-čou;Kinh Châu;Gĭng-ciŭ;Keng-chiu-chhī
+Kirkuk|IQ||5z|2qj|3fb|7ye|Kirkouk;Kerkûk;Kirkoek;Karkúk;Kerkouk
+Köln|DE||8r|3xh|jb|7wm|Cologne;Colonia;Keulen;Kolín nad Rýnem;Kolonjo;Colonia Agrippina;Kölle;Ķelne;Kolonia;Culonia;Kolín nad Rýnom;Kelnas;Lungsod ng Cologne;Këlni;Colonia Claudia Ara Agrippinensium;Colonha;Cwlen;Cołogna;Kolon;Oppidum Ubiorum;Kyoln;Koloin;Kiolns;Koeln
+Kitakyushu|JP||7q|2m1|a3h|79e|Kitakjúšú;Kitakyüşü;Kitakiūšiū;Kitakjūshū;Pak-kiú-chiu-chhī
+Kingston|JM||3i|1e0|-5xb|78h
+Kikolo|AO||x|-oe|111|5ma|Quicolo
+Kitwe|ZM||z|-zk|26d|550|Kitvė
+Chisinau|MD||8x|3ml|286|4wo|Kiŝinevo;Kiszyniów;Kišinjev;Kišiněv;Kisinyov;Kishinev;Kišiniovas;Kišiņeva;Kišiňov;Kischinew;Kishinef;Kishiniv;Kiscinev
+Jingmen|CN||7i|2e7|8no|4vu|Gĭng-muòng;Ťing-men;Kinh Môn;Keng-bûn-chhī;Ching-men;King mönn;Kingmen
+Kermanshah|IR||7o|2nb|3mr|4sj|Kermānschāh;Kermanŝaho;Provinco Kermanŝah;Kirmaşan;Kermaansjaah;Kirmanşah;Kermanšah;Ḳarmīsīn;Qirmisin
+New Kingston|JM||3i|1e1|-5xa|4i8
+Kerman|IR||7o|2c4|4ek|4gf|Kermon;Kirman
+Ji’an|CN|Jiangxi|7i|23c|8ve|45n|Kian
+Kimhae|KR||7h|2pv|9y0|43s|Gimhae;Kŭmhae;Gimhae-si
+Kikwit|CD||t|-e0|1ga|3xi|Kikvitas;Kikvita;Kitwit
+Kirov|RU|Kirov Oblast|97|4is|3ty|3ww|Kirow;Kirof
+Kota Kinabalu|MY||6w|gl|8yf|3v0
+Kira|UG||q|14|2in|3kl
+Kima Kieza|AO||x|-oj|10y|3b5|Quima Quieza
+Barra da Tijuca|BR||4w|-1rw|-3ch|392|Kiki
+Jixi|CN||7i|3ht|a3s|346|Dzisi;Kê Tây;Ťi-si;Giĕ-să̤;Ke-se-chhī;Kisi
+Kisumu|KE||16|-a|2ok|32k|Kisumo
+Keelung|TW||7l|1xt|9e6|2sp|Chilung;Cơ Long;Kî-lùng-sṳ;Giĕ-lè̤ng;Ťi-lung;Ke-lâng-chhī;Chi-lung
+Kyzylorda|KZ||7d|3gl|51z|2qk|Qızılorda;Perovsk;Kzyl-Orda;Ak-Mechet;Fort Perovsky;Qysylorda;Qyzylorda;Khizilordà;Kõzõlorda;Kizilorda;Qiziloʻrda

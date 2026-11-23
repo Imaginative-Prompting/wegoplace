@@ -1,0 +1,12 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wuhan|CN||7i|2cy|8tf|2y0e|Vuhano;Uhaņa;Vũ Hán;uuxan;Uxan;Vú-hon-sṳ;Wu-chan;Uhanas;Vuhan;Vuhani;Vujhan;Bú-hàn-chhī;Ū-háng;Uhan
+Oxford|GB||9b|3zr|-3i|191|Oxnaford;Rhydychen;Oksfordo;Rhedicina;Rysoghen;Oxonia;Oksfordas;Oksford;Uxavað;Oxonium;Öxnafurða;Oxenford;Oxenaforda;Àth nan Damh;Oksforda;Oksfuords;Oxenaford;Oxneford
+Uxbridge|GB||9b|3z7|-1c|jg
+Uxbridge|CA||59|3ei|-63s|5w
+Uxbridge|US||48|38w|-5iz|3i|Aksbridžas
+Uxegney|FR||9k|3pw|hp|j|Uxegny
+Üxheim|DE||8r|3vv|ir|e
+Uxem|FR||9k|3xq|6w|b
+Uxdejhé|MX||41|1l6|-7ov|8
+Uxtuapan|MX||41|1nc|-7mx|6
+Uxeau|FR||9k|3lm|b6|6

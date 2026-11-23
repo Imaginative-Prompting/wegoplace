@@ -1,0 +1,790 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Bengaluru|IN||6t|101|5zj|1tjv|Bangalore;Bengaluro;Bengalour;Bengalūras;Bangaluri;Bangalúr
+Bangkok|TH||62|127|7r6|13dx|Bankoko;Bankokas;Banguecoque;Bancác;The City of Angels;Màn-kuk;Banqkok;Banghok;Bancocum;Bancoque;Bankok
+Bandung|ID||6l|-j8|8ax|jia|Kutha Bandhung;Banduna;Bandunq;Bandoeng
+Bannu|PK||6q|2jn|5g4|ah7|Banu
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Bandar Lampung|ID||6l|-f3|84e|8ea|Bandarlampung
+Bengbu|CN||7i|2ji|920|7i8|Bạng Phụ;Pâung-buô;Pāng-pō-chhī;Bangbu
+Benxi|CN||7i|36p|9jt|6oc|Pen-si;Bensi;Bản Khê;Pún-khe-chhī;Penki;Pen-hsi;Pen Shi
+Bangui|CF||6|c4|1fj|69o|Bangis;Bangi
+Benghazi|LY||1d|2h7|1jr|5uf|Banghazi;Bengasi;Bengazi;Bengazis;Bängasi;Bingazi;Benqazi;Bengazy;Benghasi;Binghāzī
+Banjarmasin|ID||70|-98|8ub|52p|Banjermasin;Banyermasin;Bandjermasin;Bandjarmasin
+Banqiao|TW||7l|1xh|9df|494|Banciao;Banciao District;Pan-ch’iao;Banchiao;Panchiao;Ban Ciao
+Banan|CN||7i|29m|87y|3xb
+Mbandaka|CD||t|5|1eq|3ie|Bandaka
+Bhawana|PK||6q|2fp|5lt|2vu|Banava;Bhavana;Bhanawa;Bawana;Bhowana
+Iwaki|JP||7q|2ux|avc|2r9|Ivaki;Banjsingz Si;Iŭaki
+Bandar Abbas|IR||7o|23j|4cc|2pu|Cambarão;Port Comorão;Gombroon;Gumrun;Bandar-e Abbas;Bandar Abas;Bandar-Abbász;Bender Ebbas;Bandare Abasas;Bender Abbas;Bandar-Abbas;Bandar-e ‘Abbās;Bandar ‘Abbāsī;Bandar ‘Abbās
+Ciudad del Este|PY||1y|-1yu|-47t|2bu|Siudad del Estė;Sjudad Del Este;Syudad del Este;Kota del Este;Bandar del Este
+Banjarbaru|ID||70|-9k|8v0|29h|Bandjarbaru
+Banī Suwayf|EG||c|28r|2ee|23w
+Banda Aceh|ID||6l|fe|7ct|22g|Banda Atjeh;Banda Acheh;Banda Achém
+Điện Bàn|VN||6h|185|8cp|1qy|Vĩnh Điện
+Banja Luka|BA||9r|3ge|1bt|1pf|Bania Luka;Baņa Luka;Banya Luka;Banjaluka;Banjaluko;Bagnaluka;Banialuca;BanjaLucka
+Bandar Seri Alam|MY||6v|46|80k|1p4|Seri Alam;Seri Alam City
+Beni Mellal|MA||d|2hu|-hn|1mg|Béni-Mellal;Beni Melal;Ayt Mellal;Beni Melalis;Bani Mallal
+Banjar|ID|West Java|6l|-k0|8af|1ma|Bandjar
+Bandundu Province|CD||t|-98|1ca|1kd|Bandundu;Provincia di Bandundu;Provinco Bandundu;Bandundu tartomány;Provinsi Bandundu;Bandundu Bölgesi;Bandundu viloyati;Wilayah Bandundu;Provincia de Bandundu;Provinz Bandundu;Bandundu Lardin;Gobolka Bandundu;Mkoa wa Bandundu
+Bandar Sunway|MY||6v|8j|7u9|1jk|Sunway City
+Bandar Utama|MY||6v|8r|7u9|1jk
+Bang Khae|TH||62|121|7qx|1hm
+Banhā|EG||c|2cm|2em|1en|Benha
+Bang Khun Thian|TH||62|11y|7qz|19z|Bangkhunthien
+Banjaran|ID||6l|-jl|8av|19u|Bandjaran
+Bandar-e Māhshahr|IR||7o|2cw|3sn|198|Bandar Mah-Shahr
+Trảng Bàng|VN||6h|un|87g|18y
+Ban Khlong Prawet|TH||62|124|7ro|18n
+Batu Pahat|MY||6v|55|7xx|17e|Bandar Penggaram
+Bānda|IN|Uttar Pradesh|6t|1ys|675|16a
+Malatia-Sebastia|AM||80|33l|3fh|15t|Malat’ia-Sebastia varch’akan shrjan;Malat’ia-Sebastia;Bangladesh
+Bandar Tasik Puteri|MY||6v|95|7tv|15o|Tasik Puteri;Puteri Lake City
+Bang Kapi|TH||62|129|7rl|152
+Bandar Bukit Raja|MY||6v|8l|7tr|14p|Bukit Raja
+Bueng Kum|TH||62|12b|7rn|14i|Ban Cum
+Bānkura|IN||6t|1sj|6pv|118
+Pingxiang|CN|Guangxi|7i|1pe|88k|102|Bằng Tường;Bằng Tường thị;Thị xã Bằng Tường;P’ing-hsiang;Pingsiang
+Bang Sue|TH||62|12d|7r9|yu
+Ban Samae Dam|TH||62|11r|7qv|yr|Ban Same Dam
+Bern|CH||a7|3mf|kp|xs|Bundesstadt;Bann;Bèn;Beirn
+Ban I Chang|TH||62|123|7pi|xb|Ban Ichang
+Bắc Quang|VN||6h|1qg|83b|wz|Ban Quong;Bac Kwang;Tân Quang;Bac Quong
+Bandar-e Anzalī|IR||7o|2w3|3te|wy|Enzeli;Bandar Anzali;Enceli
+Bangkok Noi|TH||62|128|7r4|wq
+Banyuwangi|ID||6l|-mv|8to|wo|Banjuwangi
+Banfora|BF||1a|tk|-d7|wn
+Los Baños|PH||71|13d|9cs|wi
+Cavite City|PH||71|148|9bu|w7|Cavite;Dakbayan sa Cavite;Bandar Cavite;Ciudad ti Cavite;Cavite Lakanbalen;Lungsod ng Kabite;Syudad han Cavite;Siyudad na Cavite;Kavite
+Banī Mazār|EG||c|275|2dl|w6|Beni Mazâr
+Bangaon|IN|West Bengal|6t|1s1|6ur|v1|Bongaon
+Bāneh|IR||7o|2s0|3jh|um|Bane
+Bānsbāria|IN||6t|1rr|6tk|u5|Bansberia
+Bandırma|TR||94|343|25q|tw|Panderma;Banderma
+Bang Bon|TH||62|11y|7qw|t8
+Bānswāra|IN||6t|1te|5qs|s2
+Bandar Mahkota Cheras|MY||6v|8h|7us|rs
+Bang Rak|TH||62|125|7r8|rl
+Bang Na|TH||62|11z|7rk|qn
+Bandar Kinrara|MY||6v|8h|7uc|q2|Kinrara
+Banco Filipino Homes|PH||71|143|9c6|ps|BF Homes
+Bang Phlat|TH||62|12b|7r6|pn|Bangprat
+Banga|PH|Soccsksargen|71|hu|9mm|pf
+Banjar|ID|Bali|70|-mr|8vd|oq|Bandjar
+Bantayan|PH|Central Visayas|71|v1|9jo|oa|Banatayan
+Ban Mai|TH||62|k0|7rb|o5
+Bangkalan|ID||6l|-jl|8p6|nz|Pangkalan
+Bangil|ID||6l|-l4|8pe|nr
+Bani Yas City|AE||6c|1vj|47r|md
+Bang Sue subdistrict|TH||62|12d|7r9|m2
+Bandar-e Emam Khomeyni|IR||7o|2ck|3se|ls|Bandar Šâhpur;Bandar-e Imam Chomeini;Bandar Jomeiny;Bandar Imam Khomeini;Bandar Imam;Bandar-e Homeini;Bandare Chomeinis;Bender İmam Humeyni;Bandar-e Chomejni;Bandar-e Shahpur;Bandar Shahpur
+Bang Kruai|TH||62|12d|7r3|lr|Bang Krai
+Bunbury|AU||8k|-2kl|8x8|l9|Banberis;Bunberi;Banberi
+Banská Bystrica|SK||8s|3re|1h7|kq|Besztercebánya;Bańska Bystrzyca;Banska Bistrica;Neusohl;Neosolium;Banska Bistritsa;Beszterczebánya
+Bosaso|SO||14|vc|3sm|kn|Boosaaso;Bandar Qasim;Bosasso;Bosasas;Bandar Kassim;Boosaso
+Bundaberg|AU||8c|-1x3|br7|kh|Bandaberga
+Bonao|DO||4v|1gm|-5fl|kd|Banao
+Bangkok Yai|TH||62|124|7r4|k3
+Bandar Saujana Utama|MY||6v|8x|7tw|k0|Saujana Utama;Saujana Utama City
+Ban Ko Sire|TH||62|lx|7lf|jt|Ban Sire
+Bondowoso|ID||6l|-lz|8s6|je|Bandowoso
+Banepā|NP||6r|24r|6lk|is|Panepa
+Baní|DO||4v|1es|-5fd|ij|Bany;Banti
+Ban Khoan|LA||7v|1kj|7q1|i5|Ban Kwan;Złoty Trójkąt
+Belize City|BZ||24|1cm|-6t0|i4|Ciudad de Belice;Belizas;Belize-stad;Belize;Thành phố Belize;Dinas Belize;Altepetl Belice;Belizurbo;Syudad han Belize;Cidade de Belize;Kota Belize;Bandaraya Belize;Belize Ceety;Beliz;Belice
+Bandar Seri Begawan|BN||66|dl|8va|hw|Brunei Town;Brunei;Bruni;Bandar-Seri-Begavano;Bandar Seri Begavanas;Bandar Seri Begavan;Bandarseribegavana;Bandar Sery Begawan;Banda Seri;Bandar Seri Begauan;Bandar-Seri-Begavan
+Bantul|ID||6l|-lx|8ih|hw
+Bāngarda Chhota|IN||6t|1r6|5ul|hu
+Banfield|AR||1l|-2oj|-4i7|gz
+Ban Tha Kham|TH||62|11w|7r0|gy
+Bangor|GB|Northern Ireland|9b|47u|-fr|gy|Beannchar
+Ban Lam Luk Ka|TH||62|12u|7ry|gv
+Bandar-e Kangān|IR||7o|25b|40m|gq
+Bangaon|IN|Bihar|6t|1zv|6ob|go
+Bang Khae Nuea|TH||62|123|7qv|gm
+Bañga|PH|Soccsksargen|71|hu|9mm|gd
+Ban Pong|TH||62|12e|7pg|g0
+Bandō|JP||7q|2s7|asj|fv
+Bankra|IN||6t|1qs|6t8|fn
+Bandar Labuan|MY||6w|eo|8w5|f8
+Bhamo|MM||7y|1vd|7i3|f7|Banmaw
+Bāndarban|BD||6a|1po|746|f5|Bardarban
+Bangassou|CF||6|d6|1re|f1|Bangasu;Bangassu
+Bandar-e Torkaman|IR||7o|2ui|467|f0|Bandar-e Torkeman;Bandar-e Torkman
+Banes|CU||36|1m8|-5uc|er
+Bandar-e Genāveh|IR||7o|2a6|3wc|eo|Bandar-e-Gonāveh;Bandar-e Ganāveh;Bandar Ganāveh
+Ban Talat Yai|TH||62|lw|7lc|ei|Talat Yai
+Ban Lak Song|TH||62|121|7qw|eh
+Banbury|GB||9b|40m|-3q|dj|Banberis
+Bandar Sri Damansara|MY||6v|8v|7u9|di|Sri Damansara City
+Banyumas|ID||6l|-kv|8fl|dg|Banjumas
+Bangued|PH||71|1cx|9b4|df
+Banting|MY||6v|7t|7ty|de
+Bangkok Riverside|TH||62|127|7r8|de
+Banyo|CM||j|ir|wu|db|Banjo
+Banstead|GB||9b|3yk|-l|cv
+Banī ‘Ubayd|EG||c|25n|2di|ct
+Bānka|IN||6t|1x4|6pg|cs
+Bani Walid|LY||1d|2g7|12u|cp|Beni Ulid;Beni Valid;Bani Valíd;Bani Validas;Beniulid
+Bangi|MY||6v|82|7uq|ci
+Bangarapet|IN||6t|103|616|cg
+Bāndīkūi|IN||6t|235|5wp|cf
+Bandar Baharu|MY||6v|e9|7r6|cc|Bandar Bahru;Bandar Bharu
+Bangangté|CM||j|ea|t9|c5|Banganté
+Ban Phaeo|TH||62|11r|7q3|bn|Ban Pheo
+Bang Bua Thong|TH||62|12o|7qy|bk
+Bang Phai|TH||62|123|7qv|b7
+Ban Na|TH||62|1ba|7p1|b6
+Bantvāl|IN||6t|zt|5sf|b6|Bantwall;Bantyal;Bartval
+Bandar Tun Hussein Onn|MY||6v|8h|7uo|b4|Tun Hussein Onn
+Bangsar|MY||6v|8p|7uf|b4
+Bānsi|IN||6t|23i|6ed|b3
+Beni Saf|DZ||3|2q2|-3u|b1|Bani Ṣāf;Beni Sat
+Bang Lamung|TH||62|109|7sd|b0|Bang La-muang
+Bāniyās|SY||69|2pq|2rv|av|Banijas;Banias
+Bandar Country Homes|MY||6v|99|7u1|au|Country Homes;Country Homes City
+Ban Sang|TH||62|12w|7t6|am|Ban Chang
+Baniachang|BD||6a|1w4|71s|ai|Baniyachong;Banivachong;Bāniyāchung
+Banikoara|BJ||1b|ve|6s|ag
+Bāngarmau|IN||6t|22p|66t|ae
+Banjul|GM||7|11d|-1a2|ad|Bathurst;Bandžulis;Bandżul;Banyul;Banjoul;Bandžula;Bathurstopolis
+Bantay|PH|Ilocos|71|1cu|9af|ab
+Bandipura|IN||6t|2nm|5rc|ab|Bandipur;Bandapur;Bandipore
+Ban Ang Sila|TH||62|112|7sd|a1
+Bang Khlo|TH||62|122|7r7|9y
+Ban Phai|TH||62|18m|7xd|9w
+Bukit Kerinchi|MY||6v|8n|7uf|9q|Bangsar South
+Bankstown|AU||8l|-2m8|bnj|9p
+Ban Ratsada|TH||62|lz|7lc|9b
+Bangor|US|Maine|48|3gg|-5b1|90
+Ban Khlong Bang Phran|TH||62|11y|7qv|8z
+Banī Suwayf al Jadīdah|EG||c|28n|2ef|8z
+Banigbé|BJ||1b|ih|7j|8w|Banibe
+Bandar Nabawan|MY||6w|e0|8zf|8u|Nabawan;Nebawan
+Bandjoun|CM||j|ey|sx|8u
+Bang Khun Si|TH||62|127|7r3|8t
+Bandar|ID||6l|5p|7p3|8q
+Bandeirantes|BR|Paraná|4w|-1s7|-3vx|8p
+Banī Suhaylā|PS||6f|2f2|2nc|8p|Bani Suheila;Baní Suhajla;Bani Süheyla;Banī Suhayl
+Ban Khlong Bang Sao Thong|TH||62|11w|7s3|8o
+Banning|US||3p|2m9|-90o|8l
+Banda|IN|Madhya Pradesh|6t|1us|63c|8l
+Banamba|ML||5|11n|-kp|8i|Bananba
+Ban Aranyik|TH||62|1ar|7qk|8h
+Bandar-e Lengeh|IR||7o|21s|48g|8g|Bandar-e-Langeh;Bandar Langeh
+Banmankhi Bazar|IN||6t|1zx|6q7|8f
+Bankass|ML||5|134|-9s|8e|Bankas
+Bang Phae|TH||62|121|7pl|87
+Ban Phan Don|TH||62|1bm|7y1|84
+Ban Chang Lo|TH||62|127|7r4|83
+Bamba|ML||5|su|-jv|7x|Banba
+Bānswāda|IN||6t|1f2|60c|7w
+Bang Bo District|TH||62|11q|7s2|7w
+Ban Chang|TH||62|zc|7sq|7u
+Ban Bang Kadi|TH||62|12w|7rb|7r
+Banbury-Don Mills|CA||59|3di|-64f|7p
+Baynjiwayn|IQ||5z|2qy|3jn|7j|Pênciwên;Banjiwayn;Penjwen
+Banmankhi|IN||6t|1zx|6q7|7g|Banmanki
+Bandiagara|ML||5|13v|-a1|7d|Bánjagara
+Bank Colony|BD||6a|1u8|6yp|79
+Bandar Sri Sendayan|MY||6v|7f|7uz|79|Sri Sendayan City;Sendayan;Sri Sendayan
+Ban Talat Bueng|TH||62|10b|7sk|79
+Bandar-e Deylam|IR||7o|2bh|3vc|75|Bandar Deylam;Bandar-e Delam;Bandar e Deilam;Bandar Deilam
+Bang Pakong|TH||62|11m|7sj|74
+Bannūr|IN||6t|y9|5xi|73
+Banganapalle|IN||6t|16k|61b|71|Banganapilly;Banaganapalli
+Ban Xénô|LA||7v|1ac|83n|6z
+Bandar Puncak Alam|MY||6v|90|7tr|6y|Puncak Alam
+Bangbontai|TH||62|11x|7qt|6x
+Bang Yi Khan|TH||62|128|7r5|6v
+Bang O|TH||62|12g|7r2|6q
+Bandar-e Deyr|IR||7o|25c|40a|6p|Bandar-e Deyyer
+Ban Khlong Bang Bon|TH||62|11w|7qu|6o
+Buôn Trấp|VN||6h|yo|8c3|6l|Ban Trap
+Banko|GN||f|ts|-ts|6k
+Ban Bueng|TH||62|10z|7sv|6j|Ban Boeng
+Bangolo Tahouake|CI||0|jk|-jx|6i
+Ban Talat Nua|TH||62|lw|7lb|6i
+Bandar Tun Razak|MY||6v|82|7xt|6g|Tun Razak;Bandar Jengka
+Banqiao|CN|Chongqing|7i|29z|86b|6b
+Bang Kho Laem|TH||62|121|7r6|6b
+Bang Kho Laem subdistrict|TH||62|121|7r6|6b
+Bang Bon Nuea|TH||62|11x|7qs|6a
+Bankāpur|IN||6t|15g|5t2|69
+Ban Kamala|TH||62|m4|7l0|67|Kamala Beach;Kamala;Mu Ban Jasmine Kamala;Kamara;Ban Gāmara;Ban Kammara;Ban Kamara;Ban Kammala
+Ban Na San|TH||62|og|7o0|63
+Bangolo|CI||0|jh|-kt|63
+Ban Nong Wua So|TH||62|1bz|7yq|61
+Beni Khiar|TN||1e|2tb|ty|60|Banī Khiyār;Beni Khaar;Beni Kriar
+Banat|IN||6t|29u|5yv|60
+Bandar Baru Salak Tinggi|MY||6v|7t|7um|5z|Salak Tinggi;New Salak Tinggi City
+Bānsdīh|IN|Uttar Pradesh|6t|1zw|6hy|5z
+Bansalan|PH||71|iv|9nt|5y|Dansalan
+Ban Laongam|LA||7v|16z|86x|5x
+Bananeiras|BR||2w|-ir|-2qz|5x
+Bangkit|SG||7j|3u|809|5u
+Banga|IN||6t|2en|5v3|5t
+Bangawan|IN||6t|1sf|6c5|5t
+Bandariba|CW||2l|xl|-5b7|5s
+Bandar-e Gaz|IR||7o|2u5|45v|5r|Bandar-i-Jaz;Bandar-i-Gaz;Bander Gaz;Bandar Gaz
+Bang Pa-in|TH||62|13j|7re|5p
+Bandar Putra Kulai|MY||6v|4l|7zv|5i|Putra Kulai
+Ban Khlong Bang Ramat|TH||62|129|7qz|5i
+Banī Na‘īm|PS||6g|2fk|2po|5i
+Banderilla|MX||41|1if|-7ha|5g
+Bagnols-sur-Cèze|FR||9k|3eo|cu|5g|Banhòus;Banhòus de Céser
+Banyoles|ES||9d|390|7p|5g|Bañolas
+Ban Dung|TH||62|1d6|7yu|5f
+Bandar-e Kong|IR||7o|21w|48m|5c|Bandar-e Gong
+Bang Krathum|TH||62|1a2|7qm|59|Bang Krathem;Bang Kathum
+Banūr|IN||6t|2cv|5x4|58
+Bānk|IN||6t|1r2|5uk|55
+Ban Bang Bamru|TH||62|12a|7r4|55
+Ban Tak|TH||62|1bc|7n8|54
+Bangor|GB|Wales|9b|43v|-bh|53
+Ban Chalong|TH||62|ls|7l6|51|Chalong
+Bang Len|TH||62|12y|7q9|4z
+Banté|BJ||1b|nd|59|4x
+Bānki|IN||6t|1km|6ll|4v
+Bānapur|IN||6t|1iy|6kl|4v|Bānpur
+Ban Phe|TH||62|z3|7ts|4u|Bān Bhe;Ban Pe;Ban Pho
+Ban Selaphum|TH||62|18i|80r|4u
+Banabuiú|BR||2w|-er|-304|4s
+Banaz|TR||94|2zm|2an|4r
+Banlung|KH||78|126|897|4q|Bŭng Lŭng;Ban Lŭng
+Bang Rakam|TH||62|1ak|7q4|4o
+Bản Na Hỷ|VN||6h|1ic|82d|4n|Na Hỷ
+Bang Ban|TH||62|13x|7r5|4m|Bāng Bāl
+Bánovce nad Bebravou|SK||8s|3rc|1eq|4l|Banovtse nad Bebravou;Bán;Bānovce pie Bebravas;Banovce na Bebravi
+Banbridge|GB||9b|46z|-hg|4i|Droichead na Banna
+Ban Mo|TH||62|14m|7rt|4g
+Banora Point|AU||8l|-26d|bui|4f
+Bāngarda|IN||6t|1r8|5uk|4e
+Ban Kèngkok|LA||7v|19o|848|4d
+Bang Mun Nak|TH||62|18j|7qu|4c|Ban Mun Nak
+Ban Houakhoua|LA||7v|1k9|7r1|4b|Ban Houayxay
+Beni Khalled|TN||1e|2tt|tf|4a|Beni Kraled;Banī Khallād
+Ban Phra|TH||62|135|7tn|4a|Ban Pra
+Ban Huai Thalaeng|TH||62|15m|7x5|4a
+Bandar-e Khamīr|IR||7o|22v|4af|49
+Bang Racham|TH||62|15d|7qo|49
+Bāntva|IN||6t|1np|5eo|49|Bantwa
+Bandar Tenggara|MY||6v|57|7zu|49|Tenggara
+Bà Nà|VN||6h|18e|8by|49
+Bang Saphan|TH||62|v5|7of|47|Bangsabhan
+Bange|JP||7q|2wc|ase|47
+Ramos|PH||71|17j|9b4|47|Bani
+Banissa|KE||16|ay|342|46
+Bānkner|IN||6t|285|5y4|44
+Ban Thai Tan|TH||62|14m|7r5|40
+Bhānumukkala|IN||6t|16j|61b|3z|Banumukkala
+Bānsgāon|IN||6t|21r|6fj|3z
+Ban Su-ngai Pa Di|TH||62|gv|7uz|3z
+Banak|IR||7o|25f|40j|3x|Bank;Banag
+Ban Lak Xao|LA||7v|1ej|83l|3x
+Ban Thatèng|LA||7v|16v|87i|3w|Ban Tateng
+Bang Yai|TH||62|12g|7qs|3w
+Bansud|PH||71|zr|9de|3u
+Bandarbeyla|SO||14|qd|3x5|3u|Bender Beyla
+Ban I Let|TH||62|su|7no|3t|Ban I Laet
+Bandar-e ‘Asalūyah|IR||7o|24b|425|3s|Bandar-e ‘Asalūyeh
+Ban Khlong Bang Phrom|TH||62|128|7qx|3s
+Bang Khla|TH||62|124|7t5|3r|Bāng Glā
+Ban Sam Chuk|TH||62|14y|7q2|3q
+Yang Talat|TH||62|19k|7z5|3q|Bang Talat
+Bandh Dih|IN||6t|1tq|6my|3o
+Bandabou|CW||2l|y3|-5bv|3n
+Ben|IR||7o|2ie|3wz|3m|Ban
+Bandar Laguna Merbok|MY||6v|ft|7r6|3l|Laguna Merbok
+Kampong Merbok|MY||6v|fw|7qy|3l|Bandar Merbok
+Banasthali|IN||6t|21c|5ur|3k
+Bandora|IN||6t|16t|5pi|3k
+Bandlaguda|IN||6t|1c7|61r|3j
+Ban Dong Phra Ram|TH||62|133|7to|3j|Thambon Dong Phra Ram;Ban Dong Phram
+Ban Houayxay|LA||7v|1kb|7qy|3h|Houei Sai;Ban Houayxai;Hovei Sai;Huoei Sai
+Ban Siphôm|LA||7v|1ic|7rx|3h|Ban Sipnôm
+Banbalah|TN||1e|2r6|u0|3g
+Ban Nam Yuen|TH||62|rg|7mn|3f
+Ea Hiao|VN||6h|10p|8cw|3f|Buôn Hiao;Ban Hiao
+Benifaió|ES||9d|314|-17|3e|Benifayó;Banifaió
+Ban Bachiang|LA||7v|16d|869|3d
+Proton City|MY||6v|ae|7u2|3c|Proton;Bandar Raya Proton;Bandaraya Proton
+Bandar 16 Sierra|MY||6v|89|7ud|3c
+Banza Damba|AO||x|-j5|15q|3c|Banza Domba
+Banzaê|BR||20|-te|-2z9|3c
+Bankimnagar|IN||6t|1u6|71z|3b
+Bandar Baru Enstek|MY||6v|7n|7up|38|Baru Enstek;Enstek New Town;Enstek
+Bandarulanka|IN||6t|1a2|6bo|37
+Banxi|CN||7i|27t|8ea|34
+Bānskhoh|IN||6t|22j|5vj|34|Bānskho
+Ban Muang-Nan|LA||7v|1i6|7v0|33
+Bangar|PH||71|1ax|9ai|33
+Bandar Springhill|MY||6v|78|7uy|32|Springhill;Springhill City
+Bannewitz|DE||8r|3xn|124|31
+Ban Na Saton|TH||62|mi|7qn|30
+Banshō|JP||7q|2s0|aqy|2x
+Bānposh|IN||6t|1pt|6jl|2w|Panposh;Bānposi
+Bandar Baru Ayer Itam|MY||6v|ez|7qk|2v|Farlim
+Ban Ko Kaeo|TH||62|m2|7lc|2t|Ko Kaeo;Ban Khok Kaeo;Ban Kok Kew
+Bandar Penawar|MY||6v|4b|81j|2s|Desaru
+Ban Khlong Chak Phra|TH||62|129|7r1|2s
+Bandar-e Shīrīnū|IR||7o|24r|41s|2s
+Bananal|BR||4w|-1r0|-3f4|2s
+Banket|ZW||n|-1ca|2cg|2q
+Bandbahāl|IN||6t|1of|6h0|2p
+Bahay Pare|PH||71|15r|9bs|2p|Banay Pari;Banay Pare;Banay Par;Bahay Pary
+Bang Khun Non|TH||62|128|7r3|2n
+Bansang|GM||7|11b|-14p|2n
+Baños|EC||33|-3w|-61u|2n
+Banská Štiavnica|SK||8s|3ql|1gj|2m|Selmecbánya;Bańska Szczawnica;Banska Štjavnica;Selmeczbánya
+Huedin|RO||8u|3m7|1s1|2m|Bánffyhunyad
+Ban Noen Hom|TH||62|13e|7tj|2l
+Ban Khao Nang Sang Hua|TH||62|14e|7p5|2l
+Ban I Loet|TH||62|1b8|7t9|2k|Bān i Lart
+Bansko|BG||9v|388|1t9|2k|Banskas;Banjsko;Banysko
+Bani Bangou|NE||18|15s|7i|2k
+Banksia Grove|AU||8k|-2g2|8xp|2k
+Bangkirohan|PH||71|10a|9jr|2i|Banquerohan;Banquarohan;Bankerohan;Bankiruhan
+Bandar Parklands|MY||6v|89|7tu|2i|Parklands;Parklands City;Bandar Bukit Tinggi 3;Bukit Tinggi 3;Bukit Tinggi 3 City;Bayuemas
+Bagnères-de-Bigorre|FR||9k|3bm|f|2i|Banheras;Banhèras de Bigòrra;Banyeras de Bigorra;Vicus Aquensis
+Beni Hassane|TN||1e|2qt|u1|2g|Beni Hassan;Banī Ḩassān
+Bandau|MY||6w|i4|90b|2f
+Bandar Botanic|MY||6v|8b|7ts|2f|Botanic City;Bandar Botanik
+Bang Nam Priao|TH||62|12h|7sp|2e|Bang Nam Prio;Bang Nam-priew;Bang Nam Prieo
+Bandhi|PK||6q|21v|59q|2e
+Bandiay|CI||0|k0|-h6|2e
+Bandol|FR||9k|3bu|fz|2d|Bandòu
+Bankeryd|SE||9w|4gq|138|2d
+Ban Nong Pradu|TH||62|149|7oz|2c
+Banff|CA||2s|3y6|-8x1|2b|Banfo;Banfas
+Banaybanay|PH||71|12p|9cg|2b
+City of London|GB||9b|3z3|-9|29|Kêr Londrez;Londres;Cité de Londres;Londra;Bandaraya London;Ceety o Lunnon;Lungsod ng Londres;London;Cidade de Londres;Cathair Londan;Thành phố Luân Đôn;Lontoon City;Londonas Sitija;Lundúnaborg;Dakbayan sa Londres;Londono Sitis;Civitas Londinium;Dinas Llundain;Londra Şehri;Idolobha weLondon;Lundenceaster;Lûn-tun Chhī;Kota London;Square Mile;London City
+Ban I Toeng|TH||62|1b8|80o|28|Ban Toeng;Ban Ikeng;Ban I Thoeng
+Ban Sai Khao|TH||62|me|7qd|28
+Ban Ao Nang|TH||62|md|7mh|28|Ao Nang
+Bandeirantes|BR|Mato Grosso do Sul|2a|-1jc|-470|27
+Ban Mae Thalop|TH||62|1is|7ni|27|Bān Mea Thalop
+Binatang|MY||6w|61|8m3|27|Bintangor;Bandar Bintangor;Binatan
+Bandraboua|YT||ah|-za|3hc|27
+Bandhgora|IN||6t|1tm|6nb|27
+Ban Thung Klang|TH||62|1gu|7se|27
+Bānāvar|IN||6t|119|5vk|26
+Bānār Hāola|BD||6a|1uz|6zk|25|Banarhaola
+Band|RO||8u|3le|1vq|24
+Bansoa|CM||j|f5|sn|24
+Ngou|CM||j|eg|sv|24|Banjou
+Ban I Pat|TH||62|yu|7w6|23
+Banchory|GB||9b|4eh|-6x|22|Beannchar;Banchry
+George Town|BS||47|1tc|-5uj|21|Jorj Shahri;Kota George;Bandar George;Pueblo George;Ville de George;Kutha George;Cidade de George
+Bangoua|CI||0|ke|-9n|21|Bongoua
+Banqiao|CN|Chongqing|7i|27q|8e0|20
+Banovići|BA||9r|3fd|1fh|20|Banović
+Banbasa|IN||6t|28j|66g|1z
+Banjul NDing|GM||7|115|-1aa|1z
+Ban Karon|TH||62|lt|7l2|1z
+Bonaigarh|IN||6t|1om|6jz|1z|Banaigarh
+Severo-Vostotchnyi Bank|AZ||61|31h|3st|1z|Banke;Bank;Severo-Vostochnyy Bank
+Bangjun|CN||7i|333|91q|1z
+Bannockburn|GB||9b|4bt|-av|1y|Allt a Bhonnaich;Allt a' Bhonnaich
+Bandar-e Sīraf|IR||7o|24v|41f|1y
+Bandon|IE||8z|3zr|-oa|1y|Droichead na Bandan
+Bank Town|BD||6a|1u6|6yq|1x
+Banteay Meas Khang Kaeut|KH||78|ti|82p|1w
+Bankul|IN||6t|1qz|6ss|1w
+Ayer Hitam|MY||6v|5c|7ym|1v|Bandar Seramik;Air Hitam
+Banda|IN|Maharashtra|6t|17x|5p6|1u
+Banyan Garden|HK||6i|1q1|8t3|1t
+Bandrele|YT||ah|-zv|3hj|1s
+Banatski Karlovac|RS||8q|3h5|1me|1r
+Banguié I|CI||0|ge|-bo|1r
+Bandar-e Rīg|IR||7o|29x|3wn|1r|Bandar Rīg
+Ban Xamtai|LA||7v|1jj|82n|1q|Ban Xamti
+Bangor Trident Base|US||3p|3ok|-9gv|1p
+Bandeira do Sul|BR||4w|-1od|-3kv|1n
+Banksia Beach|AU||8c|-234|bte|1n
+Bangaon|IN|Assam|6t|21e|71p|1n
+Bandar Al-Muktafi Billah Shah|MY||6v|ct|7yp|1n|Al-Muktafi Billah Shah;Al-Muktafi Billah Shah City
+Banneu|CI||0|jn|-mx|1m
+Ban Non Hom|TH||62|134|7ts|1m|Ban Nong Hom
+Ban Dan Lan Hoi|TH||62|1b9|7ol|1m
+Bangramanjēshvara|IN||6t|zb|5s1|1m|Bangra Manjeshwar
+Bangomunda|IN||6t|1ki|6eb|1m
+Banisilan|PH||71|kt|9mg|1l
+Bana|CM||j|eb|sk|1l
+Bankim|CM||j|gw|vx|1l|Bankin;Bamkim
+Banyo|AU||8c|-242|bt8|1l
+Ban Phru Nai|TH||62|m3|7lv|1l|Ban Pru Nai;Ban Phlu Nai
+Băneşti|RO|Prahova|8u|3ha|1zl|1k
+Banca|RO||8u|3km|258|1k
+Băneasa|RO|Giurgiu County|8u|3ed|20e|1k
+Ban Hat Lek|TH||62|we|7xv|1j
+Ban Mae Waen|TH||62|1hn|7nj|1j
+Bangor|AU||8l|-2mi|bnj|1j
+Bānsātārkheda|IN||6t|1u3|64e|1j
+Banī Zayd|PS||6g|2h0|2pi|1i
+Bantilan|PH||71|150|9dz|1i
+Bantogon|PH||71|i5|9kj|1i
+Bankilaré|NE||18|14i|21|1h
+Bānkoli|IN||6t|281|5ya|1h|Bankauli
+Băneasa|RO|Constanța County|8u|3ef|24y|1h
+Banoufla|CI||0|js|-hk|1h
+Bangor|US|Pennsylvania|48|35j|-5sx|1g
+Bannockburn|AU|Victoria|8j|-2xp|b4h|1g
+Benfeld|FR||9k|3qd|l3|1g|Banfald
+Bankview|CA||2s|3xr|-8sy|1f
+Bandoli|CI||0|nv|-7j|1f
+Bannalec|FR||9k|3p5|-aa|1f|Banaleg
+Banī Zayd ash Shārqīyah|PS||6g|2h1|2pp|1e
+Banyuls de la Marenda|FR||9k|3a0|8p|1e|Banyuls-sur-Mer;Banyuls
+Ban Kata|TH||62|lq|7l3|1e
+Ban Mai Khao|TH||62|ml|7l3|1e
+Banki|NG||u|we|12y|1e
+Banks|AU||8l|-2qj|bi6|1d
+Band-e Zarak|IR||7o|237|4ea|1c|Bandarak;Bandzarak
+Band|IR||7o|2w6|3h0|1c
+Bandeira|BR||4w|-184|-34o|1b
+Ban Tha Ngam|TH||62|12z|7tp|1b|Ban Tahngam
+Bantuanon|PH||71|ma|9nf|1b|Bantoanon
+Bandar-e Lāft|IR||7o|22q|4aw|1b
+Bandakanyi-Sokoura|CI||0|mj|-a3|1a
+Bangad|PH|Central Luzon|71|172|9c7|19
+Banloc|RO||8u|3i3|1mq|19|Banlok
+Bānsdih|IN|Bihar|6t|206|6mo|19|Bans Dih
+Banaba|PH|Calabarzon|71|13i|9bp|18
+Gbangbossou|CI||0|ky|-de|17|Bangbossou
+Svyatohirsk|UA||98|3s8|2wd|17|Sviatohirsk;Banno-Tat’yanovka;Sviatohirskas;Szvjatohirszk;Świętogórsk;Banno-Tetianivka;Banno-Tetyanivka;Banne;Bannivs'ke;Slov'yanohirs'k;Slov'ianohirs'k;Swjatohirsk;Sviatogirsk;Svjatohirs'k;Svâtoğirsk;Sviatahirsk;Śviatahorsk;Bánnaŭskaje;Słavianahórsk;Svyatogorsk qalası;Svyatogorsk;Swýatogorsk;Sviatogorsk
+Bancal|PH||71|w4|9i4|17|Bankal
+Banteay Ampil|KH||78|13k|7yh|16
+Banabo|CI||0|im|-bx|15|Banab
+Bantog|PH||71|18h|9b9|15|Bantug
+Bandar-e Chārak|IR||7o|229|46r|15|Band-e Chārak
+Bancroft|CA||59|3h6|-60a|15
+Banilad|PH|Calabarzon|71|133|9bd|14
+Bannach|BR||23|-kf|-3w0|14
+Banyliv-Pidhirnyi|UA||98|3pk|1ys|14|Bănila Moldovenească;Bănila pe Siret;Moldauisch Banilla
+Banff|GB||9b|4g6|-71|14|Banbh
+Baniocha|PL||a5|40i|1mq|14
+Ban Khok Mai Lai|TH||62|13a|7tf|14|Ban Kok Mai Lai
+Bantayan|PH|Eastern Visayas|71|ys|9mr|14
+Bangar|BN||66|d3|8vn|14
+Banocboc|PH||71|13q|9gi|14
+Bankaw|PH||71|dy|99d|13
+Bangao|PH||71|1aq|9bo|13
+Banihāl|IN||6t|2kw|5sw|13
+Banyliv|UA||98|3qd|1yf|13|Russisch Banilla;Banyliw;Bănila pe Ceremuș;Russish Banilya
+Ban Don Kaeo|TH||62|1he|7qo|13
+Ban Boun-Nua|LA||7v|1o4|7v2|13
+Bandakagni-Tomora|CI||0|m9|-96|12
+Sandovo|RU||9i|4ie|2t6|12|Bandovo
+Banff Trail|CA||2s|3xv|-8sz|12
+Bondārūz|IR||7o|297|3y9|11|Bandārūz
+Banog Sur|PH||71|18x|992|11
+Bánov|SK||8s|3ph|1ej|11
+Bancasi|PH||71|ox|9oj|10|Bancosi;Bancase
+Banks|GB||9b|454|-84|10
+Ban Nambak|LA||7v|1lb|7wl|10|Ban Nam Bac
+Ban Phônsavang-Nua|LA||7v|1a3|830|10
+Bandeirantes do Tocantins|BR||1k|-lk|-3qy|z
+Ban Nahin|LA||7v|1eo|81h|z|Ban Na Inh
+Bangan-Oda|PH||71|18r|98v|z
+Ban Nalaotay|LA||7v|1a1|831|y
+Bagnères-de-Luchon|FR||9k|3av|1n|y|Luchon;Bagnères de Luchon;Banhèras de Luishon;Balneum Lixonense;Banyeras de Luixón
+Banksia|AU||8l|-2mb|bnu|x
+Ban Aen Mai|TH||62|1e4|7lz|x
+Banatsko Veliko Selo|RS||8q|3ja|1l9|x
+Bangad|PH|Bicol Region|71|xs|9is|x
+Bantacan|PH||71|l4|9qd|x
+Banchette|IT||9o|3i9|lu|x
+Banksia Park|AU||8b|-2op|ape|w
+Banhui|CI||0|n5|-8j|w
+Bandeirante|BR||4w|-22d|-450|v
+Ban Bang Decha|TH||62|12x|7th|v|Ban Bang Dexa
+Bandon|US||3p|3bs|-9ll|v
+Bani|PH||71|17a|995|v
+Banawa|PH||71|jv|9mv|v|Bannawag
+Bannerman|CA|Alberta|2s|44w|-8qy|u
+Gbanleu|CI||0|l5|-me|u|Banleu
+Bandar-e Shenās|IR||7o|21p|488|u
+Banandjé|CI||0|oi|-ir|u|Banandjyé;Banankie;Banandjié
+Ban Wat Bot|TH||62|130|7ti|t
+Bandar Permaisuri|MY||6v|fc|7xf|t|Permaisuri
+Ban Nongdeun|LA||7v|1a6|832|t|Ban Nong Deun
+Banatsko Karađorđevo|RS||8q|3in|1l4|t
+Bantay|PH|Cordillera|71|1cg|9bg|s
+Banugao|PH||71|14z|9du|s|Banogao;Banugaw;Banugaa
+Banaba|PH|Calabarzon|71|12m|9cp|s
+Banag|PH||71|116|9jm|s
+Bangahan|PH||71|lo|9mh|r
+Bantry|IE||8z|3zk|-q9|r|Beanntraí;Bantris
+Banilad|PH|Central Visayas|71|ps|9ih|r
+Bānūj|IR||7o|27l|47h|r|Bāynūj
+Bang Rak Subdistrict|TH||62|125|7r7|r
+Bangonay|PH||71|pv|9or|q
+Baños de la Encina|ES||9d|2y1|-ah|q|Baños de Encina
+Mikrorayon Fabryky Banknotnoho Paperu|UA||98|3x0|297|q|Banknotka
+Banganan|PH||71|19b|9c9|q
+Banino|PL||a5|473|1f5|q
+Banaue|PH||71|1az|9ca|p|Banawe
+Bānsdih|IN|Bihar|6t|1zw|6jr|p|Bans Dih
+Bansin|DE||8r|45x|13a|p
+Nacip Raydan|BR||4w|-1fa|-39d|p|Bananal
+Bangui|PH||71|1fi|9bh|p|Bangi
+Ban Simuangngam|LA||7v|1kf|7q9|o
+Bansko|MK||9u|36y|1r6|o|Banjsko
+Bann|DE||8r|3t6|l6|o
+Bănişor|RO||8u|3mu|1rg|o
+Banknock|GB||9b|4bj|-b0|o
+Banhigan|PH||71|re|9ir|o
+Banjar Wangsian|ID||70|-nl|8wm|o
+Banos|PH||71|z5|9bv|n
+Banalo|PH||71|11x|9cm|n
+Bande|ES||9d|38r|-m5|n
+Bangorédoukou|CI||0|eo|-e9|n|Bangorédougou;Bangrédougou
+Banawang|PH||71|14l|9af|n|Bangwang
+Bangkal|PH||71|gv|9cb|n
+Ban Thakham|LA||7v|1ay|833|n
+Babanango|ZA||o|-26u|2ed|n|Babanago;Banbanango
+Banzkow|DE||8r|44o|w0|m
+Ban Khlong Sakae|TH||62|125|7ri|m
+Geneston|FR||9k|3mq|-47|m|Banaleg-ar-Gevred
+Bangad|PH|Cagayan Valley|71|1cm|9ea|m
+Băneasa|RO|Galați County|8u|3jl|25l|m
+Bánov|CZ||9m|3s3|1d8|m
+Pakkading|LA||7v|1ew|80v|m|Ban Paknamkading;Pak Ca Dinh;Ban Pak Nam Krading
+Banquero|PH||71|1ba|9ea|m|Banguero
+Bandito|IT||9o|3g8|lq|m
+Bañga|PH|Western Visayas|71|wc|9ft|l
+Banzano|IT||9o|35g|154|l
+Bantifla|CI||0|ir|-gz|l
+Ban I Lup|TH||62|15v|7oc|l|Bān-ī-Dup;Ban I Luk
+Ban Vangluang|LA||7v|1fl|7y7|l|Ban Van Luong;Ban Vang Luong
+Banga|PH|Western Visayas|71|t6|9h7|l
+Ban Hatxao|LA||7v|1l5|7x1|k|Nong Khiaw;Nong-Khiaw;Nong Kiau
+Ban Achung|LA||7v|198|88x|k
+Bantiqui|PH||71|uc|9lm|k|Bantique;Bantigui;Bantigue
+Ban Ko Lan|TH||62|zw|7rz|k|Ban Ko San;Ban Kok San
+Banian|PK||6q|2im|5pj|k
+Banjup|AU||8k|-2ha|8xx|k
+Banatski Despotovac|RS||8q|3i1|1le|k
+Baños de Molgas|ES||9d|39c|-lb|k
+Bangalow|AU||8l|-27p|bug|k
+Banie|PL||a5|43i|14q|k
+Banwell|GB||9b|3yl|-7z|k
+Bănia|RO||8u|3gq|1p8|j|Banja
+Banks|US||3p|3iq|-9hz|j
+Bandamadji-Domba|KM||ac|-wr|3cp|j
+Kemajuan Tanah Bukit Easter|MY||6v|4v|814|j|FELDA Bukit Easter;Bandar Easter;Bukit Easter;Easter City
+Bangofla|CI||0|ld|-gh|j
+Ban Muang-Èt|LA||7v|1lt|80w|j
+Ban Dansavan|LA|Savannakhet Province|7v|1a6|882|j
+Bangor|US|Michigan|2q|39j|-6n7|j
+Bānsont|IR||7o|1yx|4ni|i|Bānesont;Bānsunt
+Bandajou|KM||ac|-xv|3f1|i
+Bagnols-en-Forêt|FR||9k|3cy|im|i|Banhòus
+Ban Wang Man|TH||62|1bt|7n9|i
+Banraeaba Village|KI||bh|3r|dcn|i
+Banagher|IE||8z|43r|-m7|i|Beannchar
+Clarence Town|BS||47|1s6|-5sa|i|Klarnens Shahri;Kota Clarence;Bandar Clarence;Pueblo Clarence;Ville de Clarence;Kutha Clarence;Cidade de Clarence
+Pangai|TO||bi|-1j1|-dgb|h|Bangai
+Bandar Sungai Mati|MY||6v|5z|7wx|h|Death River
+Banovo Polje|RS||8q|3gr|1i1|h
+Banjol|HR||a6|3gb|151|h
+Ban Khao Lak|TH||62|ny|7kw|h|Khao Lak
+Baños de Río Tobía|ES||9d|39m|-7o|h
+Banteln|DE||8r|40n|r3|h
+Bannerman|CA|Newfoundland and Labrador|50|3o5|-42f|h
+Bandar-e Rostamī|IR||7o|27d|3xw|h
+Bant|NL||8m|42l|fz|h
+Gbambélédougou|CI||0|mg|-ce|h|Banbélédougou;Bembélédougou;Bambélédougou
+Bantzenheim|FR||9k|3ou|kv|g
+Bangalidougou|CI||0|fn|-gs|g
+Bangs|US||2f|2g4|-7nd|g
+Bangokro|CI||0|ir|-cn|g
+Bannockburn|US||2f|397|-6s3|g
+Ban Khangviang|LA||7v|1if|7yy|g
+Ban Nakay-Tai|LA||7v|1db|841|f
+Ban Botèn|LA||7v|1mu|7uf|f
+Turnišče|SI||9a|3lj|19b|f|Bántornya;Turnischa
+Ban Khlong Yai Tho|TH||62|131|7tm|f
+Banie Mazurskie|PL||a5|46p|1p8|f|Benkaimis
+Banner Hill|US||48|2sd|-6cy|f
+Bangor|US|Wisconsin|2f|3dx|-70r|f
+Ban Mueang Pon|TH||62|1g2|7k1|f|Ban Muang Pon
+Ban Lin Thin|TH||62|14h|7mh|f
+Banatska Topola|RS||8q|3iv|1kv|f|Banatska Topla
+Bangdong|CN||7i|22y|8fb|f
+Bánica|DO||4v|1h0|-5j7|e
+Bandpey|IR||7o|2tp|3za|e
+Bangert|NL||8m|42i|ee|e|Bangerd
+Banderaló|AR||1l|-2p9|-4w2|e
+Ban Antoum|LA||7v|14z|89z|e
+Banjār|IN||6t|2fw|5yu|e
+Banzi|IT||9o|35i|18h|e
+Bana|CI|Zanzan District|0|n9|-84|e
+Banatski Dvor|RS||8q|3ig|1kz|e
+Banājūy-e Shomālī|IR||7o|2vm|3ju|e|Yengikand-e Khaneh-ye Barq;Yêngîkend Xanêberq
+Băniţa|RO||8u|3i9|1sn|e
+Ban Vanghin|LA||7v|1hq|7uo|d
+Bancu|RO||8u|3km|202|d
+Bancali|IT||9o|356|ni|d
+Ban Acholaosa|LA||7v|1n8|7vs|d
+Ban Hin Laem|TH||62|14o|7m4|d
+Ban Lixingxô|LA||7v|1nd|7vw|d
+Banus Vallarta (Verde Vallarta)|MX||41|1lk|-84a|d
+Banderas|MX||41|1mb|-7ij|d
+Bañado de Ovanta|AR||1m|-263|-51g|d
+Ban Bang Boribun|TH||62|12z|7tr|d
+Băneasa|RO|Teleorman County|8u|3e2|1xb|d
+Banite|BG||9v|37m|1xi|d
+Banderas del Águila|MX||44|1uh|-84m|d
+Ban Vangthoum|LA||7v|1ep|7tj|d|Ban Vang Thum
+Bankfoot|GB||9b|4cy|-9s|d
+Ban Mahaxai|LA||7v|1ce|848|d
+Banderas (Guatacalca 2da. Sección)|MX||41|1ef|-762|d
+Bánhorváti|HU||8v|3pz|1l0|d|Bánhorvát
+Banámichi|MX||37|2bd|-8i5|c
+Ban-de-Laveline|FR||9k|3q0|jn|c
+Bannivka|UA||98|3ix|28c|c|Băneasa;Banyasa;Bannovka
+Banana|KI||az|5h|-c57|c
+Rânzești|RO||8u|3ke|261|c|Banzeştii;Rînzeşti;Ranzăşti
+Ban Dansavan|LA|Vientiane|7v|1f8|7ww|c
+Banská Belá|SK||8s|3qn|1gl|c
+Ban Huai Malai|TH||62|163|7l7|c
+Banks Springs|US||2f|2h4|-73t|c
+Banlé|CI||0|jx|-kz|c|Bandé
+Arthur’s Town|BS||47|1we|-5u7|c|Artur Shahri;Kota Arthur;Bandar Arthur;Pueblo Arthur;Ville d'Arthur;Kutha Arthur;Cidade de Arthur;Arthur Town
+Banana Village|KI||az|5i|-c55|c
+Bankolo|CI||0|np|-bp|c
+Banham|GB||9b|41p|2w|c
+Bănești|RO|Suceava|8u|3o7|21o|c
+Banivka|UA||98|3lv|2t2|b|Banovka
+Banyeleu|CI||0|j3|-mw|b
+Banner Elk|US||48|2sg|-6bf|b|Banners Elk
+Ban Nasang|LA||7v|1ay|831|b
+Bne Darom|IL||6n|2ge|2od|b|Bené Darom;Bani Darom
+Ban Napè|LA||7v|1ev|83v|b
+Banyuls-dels-Aspres|FR||9k|3a9|7z|b|Banyuls dels Aspres
+Bandar-e Mo‘allem|IR||7o|222|48x|b|Band-e Mo‘allem
+Banco Nacional|MX||44|1zv|-7z4|b
+Peklenica|HR||a6|3l6|19r|b|Bányavár;Peklenicza
+Bān Raḩmān|IR||7o|2k4|3ks|b
+Banankoro|CI||0|nf|-hb|b
+Bangandhó|MX||41|1kw|-7nf|a|Banganohó
+Ban Xèpôn|LA||7v|1ac|874|a
+Banholt|NL||8m|3x3|g5|a
+Banteay Srei|KH||78|11s|80s|a|Banteai Srai;Banteai Srey;Banteai Srei;Banteay Srey
+Banto Nding|GM||7|11f|-134|a
+Ban Hvang|KH||78|12u|88q|a|Ban Phang;Ban Fang
+Banjole|HR||a6|3gj|12j|a
+Bangboundiakro|CI||0|kw|-ay|a
+Alice Town|BS||47|1zh|-64a|9|Alisa Shahri;Kota Alice;Bandar Alice;Pueblo Alice;Ville d'Alice;Kutha Alice;Cidade de Alice
+Ban Vanghoua|LA||7v|1hq|7u9|9
+Banon|FR||9k|3ec|fn|9
+Vâlcele|RO|Cluj County|8u|3lp|1tp|9|Bányabükk;Vîlcele
+Banti|CI||0|nc|-97|9
+Ban Bouakhai|LA||7v|1b0|82z|9|Ban Bonakhai
+Bandurka|UA||98|3po|2e7|9|Bandourka
+Ban Donsavan|LA||7v|1kb|7q2|9
+Ban Ôpphagnôpxouakhao|LA||7v|156|88r|9
+Ban Wang Khun Knachen|TH||62|147|7n8|9
+Banksville|KY||2e|1iq|-65t|9
+La Bandera|MX||3x|1wm|-8bm|9|Bandera
+Bangsund|NO||9j|4yv|vo|9
+Bandera|US||2f|2al|-7n7|9
+Banassac|FR||9k|3fg|8w|9
+Bancheny|UA||98|3pw|20s|8|Bantchény;Bănceni
+Banaj|AL||9y|35e|1j4|8|Bananj
+Bania|CI||0|p2|-8t|8
+Cockburn Town|BS||47|1ut|-5r1|8|Kokburn Shahri;Kota Cockburn;Bandar Cockburn;Pueblo Cockburn;Ville de Cockburn;Kutha Cockburn;Cidade de Cockburn
+Bandar-e Ḩoseynīyeh|IR||7o|221|471|8
+Ban Pong|KH||78|12t|88s|8
+Ban Yangmôn|LA||7v|1lu|7v7|8
+Bande|BE||8t|3vd|f1|8
+Ban Yang Sak Krapho Lum|TH||62|16w|835|8|Ban Yang Sakkrapholum
+Bantang Killing|GM||7|11q|-17m|8
+Ban Sôp-Hao|LA||7v|1l4|825|8
+Bangournan|CI||0|m9|-an|8
+Bangor|FR||9k|3nf|-8v|8
+Bandiana|AU||8j|-2sf|bc5|8
+Bané|CI||0|py|-dp|8|Bana
+Bangholme|AU||8j|-2xo|b7b|8
+Ban Ao Makham|TH||62|i9|7or|8
+Ban Muanggnut|LA||7v|1ko|807|8
+Ban Inthi-Gnai|LA||7v|14y|88b|8
+Bantéadepleu|CI||0|jr|-mn|8
+Bantégouen|CI||0|kq|-l2|8|Bantegouin
+Bannockburn|AU|Queensland|8c|-254|btj|7
+Bannay|FR||9k|3nn|80|7
+Bantam|US||48|37w|-5ng|7
+Bandera de Juárez|MX||41|1hc|-7fu|7
+Bañuelos|MX||41|1qx|-7wr|7
+Banquete|US||2f|259|-7jo|7
+Banzhá|MX||41|1l6|-7om|7|Bazha
+Ban Inthi|LA||7v|14z|88d|7
+Bancroft|US|Iowa|2f|3c9|-79q|7
+Gbangaoukan|CI||0|lf|-es|7|Bangaoukan
+Bánk|HU||8v|3p5|1h9|7
+Ban Bang Bao|TH||62|x9|7w7|7
+Banovshalar|AZ||61|33h|3ms|7|Benevshalar;Benevshelyar
+Bandurivka|UA||98|3re|2jj|7
+Ban Pa Khaem|TH||62|1h2|7n6|7|Van Pa Khaem
+Bantega|NL||8m|42s|g4|7|Bantegea
+Bandhugaon|BD||6a|1zh|6tt|7
+Ban I Lam|TH||62|168|81e|7
+Bandelin|DE||8r|45w|115|7
+Bananes|MU||ag|-1kj|4fz|7
+Bannwil|CH||a7|3n8|li|7
+Bangor|US|California|3p|31f|-9d9|6
+Baños de Montemayor|ES||9d|340|-ga|6
+Ban Thakho|LA||7v|1aw|830|6
+Bánd|HU||8v|3mw|1de|6
+Ban Asin Mittraphap|TH||62|i1|7su|6
+Bannberscheid|DE||8r|3w7|ls|6
+Ban Phrao|TH||62|1gz|7sa|6
+Bandeiras|PT||81|2z2|-272|6
+Banonon|CI||0|q8|-d6|6
+Ban Pahang|LA||7v|1lk|829|6
+Bañe|MX||41|1k4|-7pd|6
+Banville|FR||9k|3sz|-1d|6
+Banari|IT||9o|34p|o6|6
+Banova Jaruga|HR||a6|3i8|1ax|6
+Banzandepleu|CI||0|jw|-mu|6
+Bondārān|IR||7o|21x|4el|6|Bāndrān;Bāndārān;Bonārdān
+Ban Adon|LA||7v|187|893|6
+Ban Khonxana|LA||7v|1gl|802|6|Ban Khone Xa Na
+Ban Vang-An|LA||7v|1gm|800|6
+Bancroft|US|West Virginia|48|2yz|-6bc|6
+Gbangaoupri|CI||0|li|-ep|6|Bangaoupri
+Banié|CI||0|qx|-9g|6
+Ban I Sing|TH||62|i8|7tx|6
+Bandar-e Chīrū’īyeh|IR||7o|227|459|6
+Ban Namuang|LA||7v|1en|845|6|Ban Na Muong
+Banjī Meskī|IR||7o|1zy|4f7|6|Būnjī Meskī
+Baneins|FR||9k|3k3|dm|6
+Bang|IN||6t|1jy|6m4|6
+Banyalbufar|ES||9d|329|6z|6
+Banatska Dubica|RS||8q|3hr|1lv|6
+Baadala|CI||0|mi|-k7|6|Banadala;Bahadala
+Banús|MX||41|1jx|-7mh|6
+Ban Yan Yao|TH||62|ne|7p8|6
+Bonnœuvre|FR||9k|3o1|-3f|5|Banvre
+Banpotoc|RO||8u|3ji|1rx|5
+Ban Ho Mae Salong|TH||62|1k1|7or|5
+Bakoundougou|CI||0|n9|-gf|5|Bankoudougou
+Ban Pông|LA||7v|1b2|82z|5
+Bancroft|US|Wisconsin|2f|3f3|-6wn|5
+Bānū Şaḩrā|IR||7o|2rv|3x6|5|Bālsahra
+Ban Simuang|LA||7v|1kk|7q1|5
+Băndoiu|RO||8u|3gn|25m|5
+Bannost-Villegagnon|FR||9k|3r8|8v|5
+Bancos de Calitique|MX||44|1qd|-81z|5
+Ban Vangtat-Kang|LA||7v|15s|8ab|5
+Bani|GM||7|11n|-14x|5|Banni
+Bancroft|US|Michigan|2q|3b4|-6hi|5
+Bănărești|RO||8u|3g9|1ws|5
+Bana|CI|Savanes District|0|p3|-ga|5
+B and E Colonia|US||2f|218|-7mb|5
+Bandau|DE||8r|42b|uv|5
+Ban Deer|LA||7v|1ke|82l|5
+Ban Ôkat-Noy|LA||7v|172|85t|5
+Bancroft|US|Kentucky|3k|2yc|-6lt|5

@@ -1,0 +1,528 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Yantai|CN|Shandong|7i|2w4|9dc|1ist|Chefoo;Jen-tchaj;Jantaj;Yên Đài;Iĕng-dài;Jantai;Ian-tâi-chhī;Yen-t’ai
+Jeddah|SA||7e|1np|30v|108q|Dschidda;Ĝido;Jiddah;Džida;Djedda;Dżudda;Jidá;Jedda;Cidde;Gidda;Jidda;Ciddä;Džedda;Yida;Yidda;Džidda;Chidda;Judah;Iedda;Dzsidda;Džeda;Jidde;Džidd;Djidda;Jaddah;Gedda;Juddah
+Yancheng|CN||7i|2ko|99s|cgt|Jen-čcheng;Janĉengo;Diêm Thành;Sièng-siàng;Yen-ch’eng
+Yekaterinburg|RU||7z|4dy|4oe|bjb|Ekaterinburg;Ekaterinburgo;Jekaterinburg;Ekaterinbourg;Catharinoburgum;Jekaterinburgas;Jekaterinburga;Jekaterinenburg;Jekaterynburg;Ekaterimburgo;Jekatyerinburg;Yekaterinburq
+Jepara|ID||6l|-ib|8jf|9pf|Japara
+Yerevan|AM||80|33m|3fn|8tz|Jerewan;Ereván;Jerevan;Erevano;Iereván;Êrîvan;Erywań;Jerevanas;Yiriwan;Jerjewan;Jerevani;Eireaván;Erevāna;Erevanum;Eriwan;Djerevan;Revan;Iravan;Erewan
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Jeonju|KR||7h|2ri|9t7|4xc|Chŏnju;Čondžu;Džondžu;Chunju;Chŏngju;Chenju;Jeon Ju
+Jeju City|KR||7h|2l3|9rg|3rs|Czedżu;Jeju;Cheju;Kota Jeju;Jeju Şehri;Jeju Shahri;Jeju Gida;Kutha Jeju;Magaalaa Jeju;Magaaladda Jeju;Jiji la Jeju
+Yazd|IR||7o|2gm|471|3or|Jazd;Jazdo;Jezdas;Yasd;Jasd;Yezd
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+West Jerusalem|IL||6n|2ga|2pu|334|Vest-Jerusalem;Vestjerusalem;Westjerusalem;Västra Jerusalem
+Jember|ID||6l|-mp|8ru|2ay
+Geelong|AU||8j|-2xz|b50|26k|Džilongas;Ĵelongo
+Jalālābād|AF||6o|2nn|5fp|23j|Dschalalabad;Dżalalabad;Celalabad;Jalolobod;Jelalabad;Dzhelalabad;Djelalabad
+Djelfa|DZ||3|2ob|92|21u|Dżilfa;Jelfa
+Jersey City|US||48|355|-5ps|21f|Thành phố Jersey;Dinas Jersey;Jersey Ceety;Džersi Sitis;Džērsisitija
+Yei|SS||p|bd|2d8|20f|Jej;Jėjus;Yēy
+Jessore|BD||6a|1sd|6vt|1vs|Jashore
+Kropyvnytskyi|UA||98|3qr|2hn|1p1|Kirowohrad;Kirovohrad;Kirowograd;Kirovograd;Kirovoqrad;Kirovohrado;Kirovohradas;Kirovogrado;Kirovohrada;Yelisavetgrad;Jelizawietgrad;Zinowjewsk;Kropywnycki;Jelisawetgrad;Kropywnyzkyj;Kirovo;Zinovievsk;Zinovyevsk;Elisavetgrad;Elizabethgrad;Kirivograd;Kropivnicki
+Jamaica|US|New York|48|351|-5p1|1o9|Jemaicae;Jamaick;Jaimaica;Jamaika;Jamanica;Jamaico;Jemaica
+Jerez de la Frontera|ES||9d|2tx|-h2|1n5|Jerez;Ĥerezo;Xérès;Cheres de la Frontera;Xeresium;Xerez de la Frontera;Jarez de la Frontera
+Jebel Ali|AE||6c|1xg|493|1mc
+Geneva|CH||a7|3kc|h3|1k1|Genf;Ginebra;Genève;Ženeva;Ĝenevo;Xenebra;Jenewa;Ginevra;Genava;Genewa;Genebra;Genevra;Cenevre;Jenwe;Janeva
+Rzeszów|PL||a5|3v0|1p4|1j3|Řešov;Resovia;Žešova;Rzeszůw;Žešuv;Jeşuv;Žešuvas;Rjeshov;Rzeshoo
+Edirne|TR||94|37s|21s|1e0|Adrianòpolis;Drinápoly;Adrianopoli;Hadrianopolis;Adrianopol;Andrianoplin;Jedrene;Edirnä;Drinopolje;Andrinòple;Odrín;Adrianopoja;Adrianoupolis;Adrianopel;Ederné;Adrinople;Adrianople
+Jeongeup|KR||7h|2qw|9sk|12v
+Khenifra|MA||d|2jh|-fq|zn|Jenifra;Chenifra;Chunajfira;Xnifra
+Jequié|BR||20|-12i|-33d|zf|Jiquié
+Ekibastuz|KZ||5s|3zo|5t8|xr|Ekibastus;Ekibastouz;Jekybastuz
+Jetpur|IN|Gujarat|6t|1of|5g6|wv
+Yelets|RU||9i|425|2yz|w5|Jelez;Jelec;Ielets;Elec;Jelets;Elecum;Jelecas;Eleț
+Khenchela|DZ||3|2qg|ju|vt|Jenchela;Xençela;Krenchela
+Jönköping|SE||9w|4gi|13c|vc|Iunecopia;Jonšiopingas;Jenšēpinga
+Santo Antônio de Jesus|BR||20|-101|-312|ui
+Yevpatoriya|UA||9t|3hk|2kp|tq|Jewpatorija;Jevpatorija;Evpatorya;Eupatoria;Eŭpatorio;Kezlev;Yevpatoria
+Jizan|SA||7e|1ax|3a7|t8|Jāzān;Qīzān;Gizan;Gazan;Cızan;Jizon;Jaizan;Djāzān;Jezan
+Jena|DE||8r|3xh|w7|t3|Iéna
+Zhezqazghan|KZ||5s|3or|583|t0|Schesqasghan;Dzhezkazgan;Jezkazgan;Jezqazg'on;Jezqazğan;Zhezkazgan;Jez-Kazgan;Jezgazgan
+Jahānābād|IN|Bihar|6t|1y1|6k3|so|Jehanabad
+Jaramānā|SY||69|2l1|2sz|rs|Džaramáná;Dscharamana;Ceramana;Jéramâna;Jurmānā
+Jérémie|HT||4j|1ft|-5pw|r3|Jeremi;Jeremias
+Yeysk|RU||9i|3lp|2yc|oe|Jeisk;Jejsko;Jejsk;Ieïsk;Ejsk;Eisk;Yeisk
+Yegor’yevsk|RU||9i|49u|30g|no|Jegorjevsk;Egorievsk;Jegorjewsk;Yegorevsk
+Jeypore|IN||6t|1ge|6dd|nk|Jeyepore
+Yessentuki|RU||9i|3ed|3b2|mi|Jessentuki;Yessentaki
+Jelenia Góra|PL||a5|3xe|17p|li|Hirschberg im Riesengebirge;Hirschberg in Schlesien;Hirschberg;Jeleņa Gura
+Yenakiyeve|UA||98|3q0|2y4|lb|Yenakiieve;Jenakijeve;Jenakijevo;Yenakijeve;Yenakiyevo
+Gävle|SE||9w|4oj|1bm|kt|Gäfle;Gefle;Gevalia;Jevlė
+Jega|NG||u|xy|c6|kf
+Yelabuga|RU||9i|4aw|40k|k6|Jelabuga;Jelaboega;Elabuga
+Jesus Maria|PE||3o|-xj|-5y0|ie
+Kherson|UA||98|3lk|2il|ic|Cherson;Ĥersono;Herson;H’erson;Chersonas;Jersón;Herszon;Hersona;Xerson;Chersone;Chersonia
+Jablah|SY||69|2q8|2rt|ib|Jableh;Dschabla;Jablé;Džabla;Ceblê;Jeble
+Yendi|GH||1|q8|-1|hz|Jendi
+Lodi|US|California|3p|2xx|-9cv|hy|Jeeshóótsoh Bitóńlį́
+Jelutong|MY||6v|ez|7qo|hn
+Zalaegerszeg|HU||8v|3m4|1as|h7|Zalaegersego;Jegersek;Zalaegersegas;Zalaederseg;Zalaegerseg;Egersee
+Jahangira|PK||6q|2mc|5km|fu|Jehangira;Dżehangira
+Djemmal|TN||1e|2qy|tw|fd|Djemmel;Djemal;Jemmal
+Jelgava|LV||9n|4dd|1tv|f8|Mitau;Mitawa;Mitava;Jelgawa;Elgava;Yelgava;Iyelgava
+Eger|HU||8v|3p2|1kl|ez|Erlau;Eğri;Egra;Jáger;Agria;Jegra
+Jette|BE||8t|3xb|c1|el
+Jendouba|TN||1e|2te|oe|ea|Jenduba;Jundūbah
+Jesús Menéndez|CU||36|1ms|-5wg|e6
+Jerada|MA||d|2nb|-60|d7|Jarada
+Jeffersonville|US|Indiana|3k|2yc|-6m6|d2
+Järvenpää|FI||92|4nz|1xp|d1|Träskända;Jervenpe
+Yefremov|RU||9i|43m|2xw|cn|Jefremov;Iefremov;Efremov;Jefriemow;Jefremow
+Jedeïda|TN||1e|2ub|rk|ci
+Jerez de García Salinas|MX||41|1qx|-7y3|bz
+Jesús María|MX|Aguascalientes|41|1p0|-7wa|by
+Jefferson City|US|Missouri|2f|2z6|-741|bu|Jeffersonurbo;Kota Jefferson;Džeferson Sitis;Džefersonsitija;Dinas Jefferson;Lungsod ng Jefferson;Jefferson Shehri
+Yelizovo|RU||6p|43r|c7y|bb|Jelizovo;Elizovo
+Djenné|ML||5|12n|-cn|b9|Jene
+Yesan|KR||7h|2tw|9sc|ay|Jesan;Yŏsan
+Jeremoabo|BR||20|-s0|-2yj|ag|Geremoabo
+Jekulo|ID||6l|-ix|8k5|af
+Jelilyüzi|CN||7t|3e5|6ai|ac|Jililyüzi;Jiliyuzi
+Jungpyong|KR||7h|2u6|9ue|ac|Jeungpyeong;Chŭngp’yŏng
+Jesi|IT||9o|3cw|10s|aa|Iesi;Aesis;Džezis
+Jesús María|AR||1n|-2e2|-4y1|a3|Jésus-María
+Janīn|PS||6g|2i6|2q2|9n|Jenin;Dschenin;Jénine;Djenin;Jinin
+Jerantut|MY||6v|ay|7wc|9c
+Jetafe|PH||71|s7|9kv|9b|Getafe;Jetape
+Esik|KZ||5s|3cg|5z5|96|Jessik;Iessik;Issyk;Jesyk;Isık;Issök
+Jeffreys Bay|ZA||o|-2ml|1x8|91|Jeffreysbaai;Jeffreys baai
+Gödöllő|HU||8v|3o8|1hs|90|Gedele;Getterle;Jedľovo;Gödölö
+General José de San Martín|AR||1n|-21q|-4ku|8u|Cheneral Chose de San Martinas;General Xose de San Martin;Jeneraal Jose de San Martin;Jenerali Jose de San Martin
+Diéma|ML||5|14e|-pj|8i|Jema;Diéna
+Jelebu|SG||7j|3u|808|8c
+Yemanzhelinsk|RU||7z|483|4qc|8a|Jemanschelinsk;Iemanjelinsk;Emanželinsk;Jemanželinsk;Jemanĵelinsk;Yemanjelinsk;Jemanzjelinsk;Yemanzhelinka
+Jewar|IN||6t|264|5zg|85
+Chŏngju-si|KP||7a|329|9nt|83|Chŏngju-ŭp;Chŏngju;Jeongjusi
+Geilenkirchen|DE||8r|3xl|h0|7v|Jellekerke
+Jarash|JO||5t|2ho|2rq|7i|Jerash;Gerasa;Jerasa;Djerash
+Jeffersontown|US||3k|2y3|-6lo|7h|Jefferson Town
+Jevargi|IN||6t|1b9|5x9|75
+Yehud Monosson|IL||6n|2gz|2ox|74|Yehud;Yahud;Yhud;Jehud;Jehudas
+Budaörs|HU||8v|3nu|1go|6z|Wudersch;Jerša;Erša;Vundeš;Vicus Teuto
+Jarābulus|SY||69|2ua|2xl|6y|Carablus;Jerablus;Jirāblus;Jarablos;Jarablus
+Jenjarum|MY||6v|7z|7tx|6x|Jenjarom
+New Yekepa|LR||15|l2|-nq|6v|Yekepa;Jekepa
+Jequitinhonha|BR||4w|-19n|-35w|6o
+Yershov|RU||9s|3yo|3q3|6l|Jersjov;Ierchov;Eršov;Yerşov;Ierxov;Jerŝov;Jeršow;Jerschow
+Nova Zagora|BG||9v|3a0|20a|6k|Yeni Zağra;Nowa Zagora;Eni Zagra;Ienizagra;Nowa Sagora;Jeni Zagra;Yeni Sagra
+Jesús del Monte|MX|México|41|1hu|-7nt|6g
+Yafran|LY||1d|2h2|yt|6b|Yefren;Jefren;Iefren;Yafrin
+Gembloux|BE||8t|3wg|d2|61|Gembloers;Djiblou;Žamblu;Geminiacum;Jembloux
+Jebba|NG||u|pc|de|5z
+Jēkabpils|LV||9n|4cy|1zu|5u|Jakobstadt;Jėkabpilis;Jėkabpėlės;Jākubmīsts;Jiekabpėlis
+Byblos|LB||64|2ms|2r1|5s|Biblos;Gebal;Gubla;Biblo;Jbeil;Büblosz;Dschubail;Bibl;Cübeyl;Jebeil;Byblus;Jebaïl;Jbaïl;Bīblūs
+Jenks|US||2f|2s2|-7el|5r
+Jenzan|KR||7h|2so|9we|5r|Seonsan;Sŏnsan
+Yellowknife|CA||2s|4th|-8tp|5n|Cultellus Flavus;Yellounayf;Jelounaifas;Jelounaifa;Jelonajfo
+Yessentukskaya|RU||9i|3eb|3b3|5k|Jessentukskaja
+Yeniseysk|RU||6u|4id|741|5j|Jenisejsk;Jenisseisk;Eniséjsk;Jeniseiskas;Eniseisk;Yeniseisk
+Jericho|PS||6g|2gj|2qh|5i|Arīḩā;Jericó;Jerihon;Jeriko;Gerico;Jerichas;Jerycho;Jērika;Chericó;Jeriĥo;Jeeriko;Ireachó;Xericó;Yerikho;Iericho;Ierihon;Yeriko;Eriha;Arihon;Arişa;Arihoon;Arihoo;Yerīhō
+Yelizavetinskaya|RU||9i|3h5|2zr|5d|Jelizavetinskaja;Jelisawetinskaja
+General Belgrano|AR||1l|-2rd|-4ih|5b|General Belqrano;Jeneraal Belgurano;Jenerali Belgrano
+Jessore Cantonment|BD||6a|1se|6vq|59|Jashore Cantonment
+Embi|KZ||5w|3rn|4hj|58|Emba;Jemby;Amba
+Yegorlykskaya|RU||9i|3ld|34y|50|Jegorlykskaja;Yegorlkskaya
+Jadcherla|IN||6t|1al|612|50|Jedcherla
+Kampung Jeli|MY||6v|fu|7uv|4x|Jeli
+Jenipapo dos Vieiras|BR||2w|-ex|-3is|4r
+Jędrzejów|PL||a5|3wo|1ke|4o
+Jenison|US||2q|3b7|-6mb|4l
+Yutz|FR||9k|3t4|h7|4d|Jeutz
+Jelcz Laskowice|PL||a5|3xq|1c4|49|Jelcz-Laskowice
+Jelcz|PL||a5|3xq|1c4|49|Jelez
+Yelan’|RU||a4|3xj|3di|48|Jelan
+Jebel|TM||5x|323|46o|47
+Jennings|US|Missouri|2f|2zk|-6yq|44
+Jetalsar|IN||6t|1ob|5g2|44
+Jejūri|IN||6t|1es|5q0|41
+Jefferson Valley-Yorktown|US||48|36s|-5p0|3x
+Jever|DE||8r|44t|ly|3v|Geverae
+Jiquiriça|BR||20|-10u|-31x|3s|Jequirica
+Jericho|US|New York|48|35b|-5oa|3s|Ceriko
+Jertih|MY||6v|fx|7wp|3r|Jerteh
+Jesenice|SI||9a|3kz|132|3p|Assling;Jesenitsa
+Yeghvard|AM||80|340|3fk|3o|Jeghward;Eghvard;Jegvard;Jegvardas;Jegward;Jeghvard;Yeğvard;Yexvard;Exvard;Yegvart
+Jequeri|BR||4w|-1ku|-3aj|3g|Jequery
+Jessheim|NO||9j|4n2|v2|3g|Jesseim
+Jem’at Oulad ’Abbou|MA||d|2jz|-m1|3f
+Jamaat Shaim|MA||d|2hv|-ok|3f|Jemaa-Shaïm
+Parksville|CA||5b|3t0|-9lc|3c|Jewel of Vancouver Island
+Yeroẖam|IL||6n|2e3|2p1|3c|Yeruham;Jerocham;Jeruĥam;Jerucham;Jeroham
+Jensen Beach|US||48|23p|-66v|39
+Jesús Gómez Portugal (Margaritas)|MX||41|1p4|-7w5|38
+Jerônimo Monteiro|BR||4w|-1lr|-36z|38
+Jefferson Hills|US||48|33x|-661|36
+Jemeppe-sur-Meuse|BE||8t|3wm|fa|35|Djimepe-so-Mouze
+Jefferson|US|Louisiana|2f|2b9|-6yf|34
+Jerome|US|Idaho|28|3ao|-8u4|34
+Jessen|DE||8r|3zv|100|33
+Jeumont|FR||9k|3vq|be|32
+Jemappes|BE||8t|3w5|at|30|Djumappes;Djumape;Gamapium
+Yemel’yanovo|RU||6u|4c1|75f|30|Jemeljanovo
+Jesenice|CZ|Central Bohemia|9m|3ut|14b|2y
+Gällivare|SE||9w|56h|1ld|2w|Jällivaara;Jiellevárri;Váhčir;Jiellevárre;Váhtjer;Jellivaara;Jelivarė;Jiellevári gielda
+Jeseník|CZ||9m|3vj|1bs|2v|Freiwaldau
+Jerez de los Caballeros|ES||9d|2yg|-it|2u
+Jefferson|US|Georgia|48|2ms|-6g5|2u
+Jennings|US|Louisiana|2f|2by|-75e|2u
+Yekaterinoslavka|RU||7x|3vx|9yn|2u|Jekaterinoslavka;Yekaterinoslovka
+Jõhvi|EE||9x|4kw|246|2t|Jehvis;Jehvi;Yıhvi;Jechvi;Iohvi;Jöhwi
+Yermolino|RU|Kaluga Oblast|9i|49b|2to|2t|Jermolino
+Yel’nya|RU||9i|47m|2k6|2t|Jelnja;Elnya
+Jerissa|TN||1e|2rl|nz|2q
+Jesup|US|Georgia|48|2ft|-6bh|2o|Jessup
+Jequiá da Praia|BR||3r|-rt|-2s3|2o
+Jabrayil|AZ||61|31g|3mn|2o|Mekhakavan;Jrakan;Jabrail;Jebrail;Cebrail;Djebrail;Jebrayil;Jäbrayyl;Jebraiele
+Jeyranbatan|AZ||61|34m|3ty|2o|Ceyranbatan
+Jeannette|US||48|341|-656|2l
+Jerrabomberra|AU||8l|-2qa|big|2k
+Yermakovskoye|RU||6u|440|74o|2h|Jermakovskoje;Yermakovskoe
+Jeffries Point|US||48|39p|-5hb|2g
+Yelanskiy|RU||7z|4dw|4tm|2f|Jelanskij
+Yel’sk|BY||9g|3zx|28z|2e|Karolin;Jelsk;Jelskas;Elsk
+Jesús Gómez Portugal|MX||41|1p4|-7w5|2e
+Jefferson City|US|Tennessee|48|2sc|-6fx|2d|Jefferson Ceety;Ieffersonia
+Jerseyville|US||2f|30o|-6yx|2d
+Jetpur|IN|Gujarat|6t|1q2|5p4|2c
+Jaba‘|PS|West Bank|6g|2hs|2pu|2c|Jeba
+Jesuítas|BR||4w|-1vq|-44b|2b
+Jesús María|MX|Jalisco|41|1l9|-7vy|2a
+Jena|IN||6t|1ts|6my|29
+Yenotayevka|RU||8o|3n8|3mn|28|Jenotajevka;Yenotayevsk
+Jefferson|US|Wisconsin|2f|3bh|-6up|27
+Jersey Village|US||2f|2b1|-7dg|27
+Iesolo|IT||9o|3ih|z4|27|Jesolo
+Jericó|CO|Antioquia|27|g3|-5uj|26
+Jerécuaro|MX||41|1jz|-7r7|25
+Jericó|BR||2w|-i7|-2x1|23
+Jean-Médecin|FR||9k|3de|k7|23
+Jelīn|IR||7o|2ud|47i|22
+Jennings Lodge|US||3p|3i3|-9gl|21
+Jegunovce|MK||9u|38v|1mo|21|Jegunovtse
+Yeghegnadzor|AM||80|32g|3hx|21|Yeğegnadzor;Jeghegnadsor;Eghegnazor;Jeghegnadzor;Jeghegnadzoras;Ehegnadzor;Jechegnadzor;Jehegnadzor;Yeğeqnadzor;Mikoyan;Keshishkend;Keshishkent;Yexegnadzor;Exegnadzor;Jehegnadzora;Eghegnadzor;Yekhegnadzor
+Jemna|TN||1e|2la|p1|20
+Djebeniana|TN||1e|2pb|ub|20|Djebaniana;Djebiniana;Djebeliana;Jebeniana;Jebiniana
+Jepelacio|PE||3o|-h0|-5xr|20|Jepelecio
+Jessup|US|Maryland|48|30r|-5xa|1z
+Jenbach|AT||a2|3nn|wp|1z
+Jesteburg|DE||8r|443|rn|1z|Gemeen Jesborg
+Jesús de Otoro|HN||56|149|-6se|1y
+Jenāḩ|IR||7o|232|46s|1x|Janāḩ;Jonāḩ
+Jettingen-Scheppach|DE||8r|3qf|t0|1x
+Jerónimos|ES||9d|349|-a9|1w
+Khemis Sahel|MA||d|2px|-gw|1w|Khemis du Sahel;Jemis del Sahel
+Jesús María Garza|MX||41|19k|-775|1v
+Jequitaí|BR||4w|-1bw|-3fh|1t|Jequitahy
+Yekaterinovka|RU|Saratov Oblast|9s|40l|3f7|1s|Jekaterinovka;Jekaterinowka;Jekatyerinovka
+Jõgeva|EE||9x|4j7|21b|1s|Jegeva;Yıgeva;Yogeva;Yygeva
+Yermolayevo|RU||7z|42e|4b2|1s|Jermolajevo;Yermolayevka
+Jeceaba|BR||4w|-1l1|-3e7|1q|Jaceaba
+Yetkul’|RU||7z|48a|4r2|1q|Jetkul
+Yemilchyne|UA||98|3xb|258|1q|Emilchin;Jemiltschyne;Yemilçıne;Iemiltchyne;Emilczyn;Emil’chino;Yemil’chyne;Yemil’chino
+Yërzovka|RU||a4|3ry|3g1|1q|Jerzovka;Yëzovka
+Jammā‘īn|PS||6g|2h9|2ps|1q|Djemmain;Jemmā‘īn
+Jemeppe-sur-Sambre|BE||8t|3w7|cz|1p|Djimepe-so-Sambe
+Jenipapo de Minas|BR||4w|-1bg|-39e|1p
+Ventnor|GB||9b|3wj|-3d|1o|Jentnor
+Jequitibá|BR||4w|-1hg|-3eb|1n
+Jetibá|BR||4w|-1jm|-350|1n
+Haukilahti|FI||92|4n4|1wt|1n|Gäddvik;Jeda
+Jedlicze|PL||a5|3u4|1o5|1k|Jedliče
+Yelovo|RU||7z|4eh|48k|1k|Jelovo
+Jeanerette|US||2f|2b3|-72m|1j
+Jean-Rabel|HT||4j|1j5|-5nb|1i|Jan Rabèl
+Yerofey Pavlovich|RU||7x|45w|9es|1i|Jerofej Pavlovitsj;Jerofei Pawlowitsch;Jerofej Pavlovitj;Erofej Pavlovič;Jerofej Pavlovič;Yerofey Pavloviç;Jerofiej Pawłowicz;Yerofei Pavlovich;Erofei Pavlovich
+Jebilat|KE||16|-1x|2pf|1i
+Jeżowe|PL||a5|3vx|1ph|1i
+Jebel|RO||8u|3ik|1mx|1h
+Jelah|BA||9r|3g1|1dw|1h
+Jestetten|DE||8r|3od|nt|1g
+Jesuânia|BR||4w|-1p4|-3ht|1f
+Jedlina-Zdrój|PL||a5|3ww|19f|1f|Bad Charlottenbrunn;Jedlina Zdrój;Jedlinazdroja;Charlottenbrunn;Bad Charlottenbrunn in Schlesien
+Jinnīyah|SY||69|2sw|303|1e|Jennîya
+Döwletli|TM||5x|2xl|525|1d|Jeýhun
+Jerago Con Orago|IT||9o|3iy|og|1d
+Jegălia|RO||8u|3f2|24r|1c
+Yermish’|RU||9i|485|39f|1a|Jermisj
+Jerumenha|BR||2w|-jp|-3cv|19|Jeromenha
+Jessup|US|Pennsylvania|48|377|-5tw|19
+Jenkintown|US||48|33e|-5sp|18|Jenkins-town
+Jerez|GT||32|135|-6xb|18
+Jefferson|US|Georgia|48|2kx|-6ff|18
+Jezerski|BA||9r|3gy|18p|18|Jezersko
+Jedelienne|TN||1e|2qv|p6|18
+Jimbaran|ID|Central Java|6l|-jw|8iv|17|Djembaran;Jembaran
+Jemnice|CZ||9m|3s6|179|17|Jamnitz
+Jevnaker|NO||9j|4nc|sv|17
+Jersey Shore|US||48|36g|-5ym|17
+Jefferson|US|Iowa|2f|38q|-7a6|16
+Jesús del Monte|MX|Michoacán|41|1il|-7sz|16
+Ieud|RO||8u|3og|1vb|15|Jód;Jeud
+Yemanzhelinka|RU||7z|488|4qa|15|Jemanzjelinsk
+Jebha|MA||d|2pt|-cz|15|Yebha;Jebba
+Jeleśnia|PL||a5|3tw|1hp|15
+Jermuk|AM||80|32o|3iv|15|Istisu;Cermuk;Dschermuk;Djermouk;Džermuk;Ĝermuk;Dzjermoek;Džermukas;Dzsermuk;Dzhermuk
+Jelling|DK||8y|4aw|q7|14|Gravhögarna
+Jegenstorf|CH||a7|3mp|kv|14
+Jesús Carranza|MX|Veracruz|41|1cg|-7bz|14
+Yelantsy|RU||6k|42o|87l|14|Jelantsy
+Jelka|SK||8s|3pr|1cn|14
+Yembayevo|RU||7z|4er|52p|13|Jembajevo
+Yerky|UA||98|3s3|2e4|13|Jerky;Yerki
+Jeriquara|BR||4w|-1kf|-3o7|13|Beriquara
+Jedburgh|GB||9b|4a4|-73|13|Deadard;Jethart;Jedburgo;Jedburg
+Yertsevo|RU||9i|4ow|33d|13|Jertsevo;Jerzewo;Jercewo;Ercevo;Jercevo;Ertsevo
+Jejkowice|PL||a5|3v7|1fb|12
+Jemgum|DE||8r|43z|kj|11|Jemmingen
+Yelat’ma|RU||9i|48p|37z|11|Jelatma
+Jedlnia-Letnisko|PL||a5|3yv|1na|11
+Jeßnitz|DE||8r|3zk|y6|11
+Josenópolis|BR||4w|-19z|-3a4|10|Jesenópolis
+Yefimovskiy|RU||9i|4la|2ob|10|Jefimovskij;Yefimovskaya
+Yekaterinovka|RU|Primorye|7w|3b8|a9l|10|Jekaterinovka;Yekateranovka
+Jemielnica|PL||a5|3wf|1f2|z
+Jersey Farm|GB||9b|3zt|-u|z
+Zégo|CI||0|h2|-ef|z|Jégo
+Ozerna|UA||98|3tv|1yd|z|Jezierna;Yezerna
+Jewett City|US||48|37l|-5jy|y
+Jena|US||2f|2g0|-73x|y
+Jeziorany|PL||a5|45y|1ln|y|Seeburg;Jezjorani
+Jevenstedt|DE||8r|46n|qu|x
+Dzhebel|BG||9v|37a|1ya|x|Cebel;Jebel;Djebel
+Yelizavetinskoye|RU||9i|3h1|3cf|x|Jelizavetinskoje
+Essoyla|RU||9i|4rv|2k3|x|Essojla;Jessoila;Dessoilu
+Hosszúhetény|HU||8v|3k8|1ez|x|Hetting;Hetinj;Etinj;Hetin;Jetin;Heting;Langheting;Langhetting
+Jefferson|US|Oregon|3p|3g8|-9hp|w
+Yershichi|RU||9i|453|2iz|w|Jersjitsji
+Jarmen|DE||8r|45s|112|w|Jeromino
+Jesewitz|DE||8r|3yu|yw|w
+Jelšava|SK||8s|3r3|1k8|w|Jolsva;Velsava
+Yelkhovka|RU||9p|45n|3vo|v|Jelkhovka
+Jesmond|AU||8l|-2je|bpd|v
+Jefferson|US|Ohio|48|37y|-68d|u
+Yelizavetino|RU||9i|4l9|2aq|u|Jelizavetino;Jelisavettina
+Renfengzhuang|CN||7i|317|92u|u|Jen-feng-chuang
+Jedovnice|CZ||9m|3t2|1ak|u
+Eşelniţa|RO||8u|3g6|1q4|u|Jeselnica
+Jesús María|MX|Querétaro|41|1la|-7qi|u
+Jetzendorf|DE||8r|3qj|vq|t
+Jerzu|IT||9o|32j|qg|t|Ierzu
+Jevíčko|CZ||9m|3tv|1af|s
+Jesús Nazareno|MX||41|1gg|-7j6|s
+Yezupil|UA||98|3s8|1wu|s|Yézoupil;Jezupol;Jesupil;Jezupil;Iezupil
+Jibao-an|PH||71|ty|9ga|r|Jebaoan
+Jesup|US|Iowa|2f|3a0|-73q|r
+Jesberg|DE||8r|3xo|pf|r
+Jesús María|MX|Nayarit|3x|1pt|-82c|q
+Jemison|US||2f|2jk|-6oz|q|Jamison
+Jesús|PY||1y|-236|-4au|p
+Jefferson|US|Maine|48|3et|-5cx|p
+Jericó|MX||3z|199|-769|p|Porvenir
+Gyhum|DE||8r|43u|pv|p|Jeem
+Jengen|DE||8r|3pc|tt|o
+Jöhstadt|DE||8r|3wb|10d|o|Jēštate
+Yelshanka|RU||9s|3zx|3kw|o|Jelsjanka
+Jericó|HN||56|18b|-6mt|o
+Jennersdorf|AT||a2|3me|18u|o|Gyanafalva
+Jenāqerd|IR||7o|2ye|3po|n|Chenāqerd;Ḩanāqerd;Jenagherd
+Jewells|AU||8l|-2jp|bpc|n
+Jesús María|MX|Sinaloa|3x|1xp|-8ah|n
+Yepifan’|RU||9i|45j|2z3|n|Jepifan;Yepinfan’
+Iecea Mare|RO||8u|3jd|1m1|n|Iecia-Mare;Jecia-Mare
+Jerichow|DE||8r|41u|xf|n
+Jellico|US||48|2tn|-6hp|n
+Jerzmanowice|PL||a5|3vh|1iv|m
+Jedwabne|PL||a5|441|1py|m|Jedvabnas;Jedvabne
+Jerzmanowo-Jarnołtów-Strachowice-Osiniec|PL||a5|3y0|1au|m
+General Conesa|AR|Buenos Aires|1l|-2tg|-4f8|m|General Konesa;Jeneraal Konesa;Jenerali Konesa
+Jesúpolis|BR||4w|-18b|-3t5|l
+Jelenec|SK||8s|3qe|1em|l
+Jefferson|US|Maryland|48|31c|-5zd|l
+Jeti|IN||6t|216|68n|l
+Jenkins|US||48|2v9|-6dj|l
+Jermyn|US||48|37d|-5tv|l
+Jemelle|BE||8t|3vc|en|l
+Jefferson|US|Texas|2f|2j0|-7a3|k
+Yerbogachen|RU||6k|4q8|8c2|k|Jerbogatsjen;Erbogachen
+Jesús María|MX|San Luis Potosí|41|1sb|-7vv|k
+Jesenice|HR||a6|3cq|1a4|k
+Jean Lafitte|US||2f|2am|-6yd|k
+Xeresa|ES||9d|30e|-m|k|Jeresa
+Jelenča|RS||8q|3g9|1iu|k
+Jevremovac|RS||8q|3g8|1im|j
+Jeseník nad Odrou|CZ||9m|3tt|1dr|j
+Jembke|DE||8r|41u|tw|j
+Ježdovec|HR||a6|3j5|181|i
+Jenštejn|CZ||9m|3vb|14l|i|Jenstein
+Jesús María|MX|México|41|1hy|-7ps|i
+Jersbek|DE||8r|45a|se|i
+Jednorożec|PL||a5|43m|1mh|i
+Jeżów Sudecki|PL||a5|3xi|17q|i
+Jemez Pueblo|US||2p|2qx|-88h|i
+Jelsa|HR||a6|3bw|1ad|i|Gelsa;Ielsa
+Jeżewo|PL||a5|44n|1fd|i
+Jeffersonville|US|Kentucky|48|2xh|-6gw|h
+Jedlińsk|PL||a5|3z3|1mo|h
+Jerome|US|Illinois|2f|32h|-6x4|h
+General Guido|AR||1l|-2ts|-4gj|g|Jeneraal Guido;Jenerali Guido
+Jesenice|CZ|Central Bohemia|9m|3v6|11f|g
+Jezzeh|IR||7o|28g|43u|g
+Budajenő|HU||8v|3o4|1g8|g|Jeine
+Yertarskiy|RU||7z|4dr|4ym|g|Jertarskij;Yertarskoye
+Jefferson|US|North Carolina|48|2t6|-6ab|g
+Yelizavetinka|RU||7z|3zt|4ly|g|Jelizavetinka;Jelisawetinka;Yelizavetinski
+Jereh|IR||7o|299|40e|g|Gereh;Jireh
+Jeuk|BE||8t|3wx|eh|f
+Jérica|ES||9d|32w|-1l|f|Xerica;Exerica
+Yekimovichi|RU||9i|46b|2ki|f|Jekimovitsji
+Jesenwang|DE||8r|3pt|ux|f
+Jermenovci|RS||8q|3hj|1mh|f
+Jensen|AU||8c|-1hh|bbd|e
+Yemtsa|RU||9i|4v7|341|e|Jemtsa;Jemza;Emca;Emtsa
+Jehay|BE||8t|3wh|es|e
+Jeżów|PL||a5|3zx|1jh|e
+Jesús Carranza (Rancho de Jesús)|MX||41|1gn|-7or|e
+Jeneč|CZ||9m|3v5|13h|e
+Jericho|US|Vermont|48|3fm|-5ms|d
+Jerte|ES||9d|33q|-fz|d
+Jelsi|IT||9o|37c|154|d
+Jerxheim|DE||8r|40o|ua|d
+Jenoi|GM||7|11g|-179|d
+San Genesio Atesino|IT||9o|3l9|vh|d|Jenesien
+Yelpin|AM||80|32l|3hb|c|Elpin;Yelp’in;Jelpina;Jelpin
+Jesús del Monte|MX|Guanajuato|41|1m3|-7um|c
+Jesús Huitznahuac|MX||41|1hq|-7kl|c
+Yelyzavethradka|UA||98|3rk|2i0|c|Jelysawethradka;Yelezavetgradka;Jelizavethradka;Yelızavetgradka;Jełyzawethradka;Ielîzavethradka
+Jenesano|CO||27|ez|-5ns|c|Jenezano
+Yëlkino|RU||7z|4j1|4m7|c|Jelkino
+Jebel Tiskaouine|MA||d|2e7|-e8|c
+Jecopaco|MX||37|23k|-8gx|c
+Jeffersonville|US|Ohio|48|325|-6g4|c
+Jewett|US|Texas|2f|2f4|-7f2|c
+Jewell|US||2f|39j|-784|c
+Jenlain|FR||9k|3vr|a3|c
+Jeanménil|FR||9k|3qa|il|c
+Yedrovo|RU||9i|4gv|2le|c|Jedrovo;Jedrowo
+Jevišovice|CZ||9m|3s3|18f|c
+Jerusalem|NZ||ak|-31v|dib|c
+Jerusalén|MX|Chiapas|41|1c9|-73q|c
+Jezero|BA|Srpska|9r|3gm|1cb|b
+Jetūţ|IR||7o|29k|3y3|b|Jatūţ
+Jenaz|CH||a7|3md|qz|b|Gianatsch
+Jedwabno|PL||a5|44p|1ll|b
+Iecea Mică|RO||8u|3ja|1m4|b|Iecia-Mică;Jecia-Mică
+Jehnice|CZ||9m|3sv|1a4|b
+Jenin|PL||a5|42e|15y|b|Gennin
+Yedogon|RU||6k|46p|7qg|b|Jedogon
+Jefferson Heights|US||48|39b|-5p8|b
+Jefferson|US|New Hampshire|48|3fe|-5ij|b
+Jebsheim|FR||9k|3po|ks|b
+Jérez del Marquesado|ES||9d|2va|-8s|b|Jeres del Marquesado
+Jegun|FR||9k|3dk|1a|b
+Jeffersonville|US|Georgia|48|2it|-6fj|b|Jeffersonvlle
+Jerrishoe|DE||8r|47u|q1|a
+Jesús Tepactepec|MX||41|1hf|-7l3|a
+Jieznas|LT||a3|47o|1v6|a|Jeznas
+Jelisavac|HR||a6|3ih|1eg|a|Jelisavec
+Jerilderie|AU||8l|-2q8|b8t|a
+Jerome|US|Pennsylvania|48|33p|-63e|a
+Jedlová|CZ||9m|3ty|19b|a
+Jelšovce|SK||8s|3qe|1e6|a
+Jerzens|AT||a2|3mz|tv|a
+Mets Sepasar|AM||80|361|3dr|9|Shishtapa;Bol’shaya Shishtapa;Mets Shishtapa;Mec Sepasar;Haykakan Shishtapa;Jermuk;Nerkin Shishtapa
+İstisu|AZ||61|32z|3jo|9|Jermajur
+Jezainville|FR||9k|3rr|gs|9
+Jīgheh|IR||7o|2yg|3lw|9|Jegheh
+Jech Chentic|MX||41|1ah|-75m|9
+Jedľové Kostoľany|SK||8s|3qn|1fe|9
+Jettenbach|DE|Rheinland-Pfalz|8r|3tl|l0|9|Jetterbach
+Jennings|US|Florida|48|2d0|-6eu|9
+Jefrūd-e Pā’īn|IR||7o|2w1|3u0|9
+Jekyll Island|US||48|2eb|-6a6|9|Jekil Island;Jykill Island;Jakyl Island;Jekyl Island
+Jericó|CO|Boyacá|27|h3|-5ll|9
+Jelmstorf|DE||8r|43i|t8|9
+Jeziorzany|PL|Lesser Poland|a5|3uv|1iy|9
+Jetmore|US||2f|2xs|-7ph|9
+Jenišovice|CZ||9m|3wn|162|9
+Jeníkov|CZ||9m|3wn|127|8
+Javāsh|IR||7o|2yo|3jc|8|Jevāsh
+Jeruco|MX||41|1jh|-7t1|8|Joruco
+Jesús María|CO||27|gc|-5oy|8
+Jesús Carranza|MX|Chiapas|41|1cd|-75d|8
+Jeneffe|BE||8t|3wp|ev|8
+Jezera|HR||a6|3dn|17g|8
+Jesús|MX||41|14o|-742|8
+Jezeřany-Maršovice|CZ||9m|3s7|19n|8
+Jerusalén|MX|Chiapas|41|18y|-71u|8|Jerusalém
+Jesús Carranza|MX|Tabasco|41|1eo|-76t|8
+Jestřebí|CZ|Liberec Region|9m|3wl|14i|8
+Yeleyevo|RU||9i|4dy|3ta|8|Jelejevo
+Jeziorzany|PL|Lublin|a5|3zc|1pw|8|Łysobyki;Przetoczno
+Jerovec|HR||a6|3kg|18r|8
+Jettenbach|DE|Bavaria|8r|3pt|ye|8
+Jeyd|IR||7o|2yw|3qo|8
+Yevhenivka|UA|Odesa|98|3kv|294|8|Yevgen’yevka;Jewheniwka;Jevheņivka;Evghenița;Yevgenita;Yevgenovka
+Jeffersonville|US|Vermont|48|3g0|-5mb|8
+Jezero|SI||9a|3jp|143|8
+Jesseren|BE||8t|3x5|ez|7
+Jefferson|US|South Carolina|48|2o9|-67b|7
+Jenins|CH||a7|3mk|qk|7|Gianin
+Yeletskiy|RU||9i|569|4yd|7|Jeletskij
+Jecuán|PE||3o|-vv|-5yn|7
+Jefferson|US|Pennsylvania|48|32m|-5xg|7
+Dětenice|CZ||9m|3vx|165|7|Jettenitz;Dětěnitz
+Jehonville|BE||8t|3un|eg|7
+Jeuxey|FR||9k|3pw|i1|7
+Jedlí|CZ||9m|3up|1an|7|Jedl
+Yevdokimova|RU||6k|46r|7rm|7|Jevdokimovo;Yevdokimovo
+Jerusalén|CO||27|co|-5ri|7
+Ježov|CZ||9m|3s7|1bt|7
+Jesús María Acatla|MX||41|1hb|-7ht|7
+Jeandelaincourt|FR||9k|3ro|hd|7|Jeandelincourt
+Jesús Nazareno (Rancho Nuevo)|MX||41|1gj|-7iq|7
+Jesionka|PL||a5|40i|1kj|7
+Jefferson|US|West Virginia|48|2ym|-6b6|7
+Jewett|US|Ohio|48|345|-691|7
+Jelna|RO||8u|3mv|1w8|7
+Jennerstown|US||48|33k|-63n|7|Jennertown
+Jesús de Nazareno (La Hacienda)|MX||41|1ii|-7qp|7
+Engozero|RU||9i|52r|2ma|7|Enkijärvi;Engosero;Eugozero;Jenkijärvi
+Jezernice|CZ||9m|3tn|1cy|7
+Jedenspeigen|AT||a2|3qq|1av|7
+Jeber-Bergfrieden|DE||8r|40e|yb|6
+Jesús María Corte|MX||3x|1oc|-83c|6
+Jędrzychowice|PL||a5|3y6|15q|6
+Jersleben|DE||8r|414|w6|6
+Iegheriște|RO||8u|3oe|1sm|6|Jegherişte
+Jamlitz|DE||8r|40f|13w|6|Jemjelnica
+Jerā|IR||7o|2nl|3q5|6
+Jesús Sansón Flores|MX||58|2i4|-8wh|6|Jesús Sanzón Flores
+Jesús González Ortega|MX||2b|1fd|-6ub|6
+Jeleniewo|PL||a5|46l|1rn|6|Jeleniavas
+Jécori|MX||37|2b6|-8gu|6
+Jertovec|HR||a6|3jw|18z|6
+Jennings|AG||1j|1bg|-4rv|6|Jenin
+Jeriko|GM||7|11q|-17j|6
+Jerzmanowa|PL||a5|3zc|18l|6|Hermsdorf
+Jestřebí|CZ|Olomouc Region|9m|3uh|1av|6
+Jezero|BA|Srpska|9r|3f7|1bp|6
+Jerusalén|MX|Puebla|41|1gi|-7lv|6
+Jeromesville|US||48|35c|-6cc|6|Jeromeville
+Jevišovka|CZ||9m|3rn|19r|6
+Jeziora Wielkie|PL||a5|41x|1er|6
+Jennewitz|DE||8r|469|wr|5
+Jervis Bay Village|AU||8l|-2pl|bmm|5|Jervis Bay Territory;Terytorium Jervis Bay;Territorio de Jervis Bay;Territoire de la baie de Jarvis;Jervis Bay Territorium;Território da Baía Jervis;Teritórium Jervis Bay;Jervis Bay
+Jechtoch|MX||41|1ah|-75k|5
+Jena|RO||8u|3io|1pc|5
+Jeeralang Junction|AU||8j|-2yj|bap|5
+Jesendorf|DE||8r|45g|w8|5
+Jesús Carranza|MX|México|41|1iq|-7q2|5
+Jettingen|FR||9k|3o8|kh|5
+Jersie|DK||8y|4a9|xs|5
+Jefferson|US|South Dakota|2f|3ac|-7g8|5
+Jesenný|CZ||9m|3wq|16m|5|Jeseney
+Jerup|DK||8y|4ft|sy|5
+Jesús Carranza (La Colorada)|MX||2h|2fh|-874|5
+Jerusalén|MX|Chiapas|41|1as|-74v|5
+Jesenice|CZ|Central Bohemia|9m|3tt|148|5|Jesenitz
+Jeuss|CH||a7|3ma|jw|5

@@ -1,0 +1,106 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rosario|AR||1n|-2jj|-4og|7bf|Rosarijas;Rozarîyo;Urbs Rosariensis
+Rosetta|EG||c|2f8|2ci|2bu|Rosette;Rasyid;Roseta;Raŝido;Rashīd;Rašid;Ar-Rašíd;Reşid;Rozeta;Er-Rashid
+Rostock|DE||8r|469|xq|1j3|Rostochium;Rostoka;Roztok;Rostokas;Rostok
+Las Rozas de Madrid|ES||9d|34h|-ar|qk|Las Rozas;Rozae Matritenses
+Roosendaal|NL||8m|3z5|cf|ll|Rosendael;Rozendael
+Rozzano|IT||9o|3i2|pg|b1
+Rosenberg|US||2f|2a4|-7e5|9v|Rozenberg
+Ružomberok|SK||8s|3sb|1hn|7f|Rosenberg;Rużomberk;Rózsahegy;Rujomberok;Roźahegy
+Rozdilna|UA||98|3m5|2bj|4z
+Rožnov pod Radhoštěm|CZ||9m|3te|1ee|4s|Rožnova pie Radhoštja
+Rožňava|SK||8s|3r6|1l2|4r|Rozsnyó;Rosenau
+Roseau|DM||2r|16i|-4qj|4m|Rozo;Roseo
+Różanka-Polanka|PL||a5|3y2|1ba|4d
+Razumnoye|RU||9i|3wd|2tw|4b|Razumnoje;Rozumne;Rozumnoye
+Râşnov|RO||8u|3im|1yp|49|Rosenau;Cumidava;Rosnovia;Barcarozsnyó;Rîşnov;Komidava;Comidava;Rosnou;Erdenburg;Rozsnyó
+Roza|RU||7z|48k|4qq|41|Rosa
+Rozhyshche|UA||98|3xg|1y7|3p|Rozyszcze;Rozhishche
+Rose Belle|MU||ag|-1ko|4g0|3i|Roze Bell
+Rozenburg|NL||8m|406|bt|3g
+Rozsoshentsi|UA||98|3tm|2nv|2l
+Roztoky|CZ|Central Bohemia|9m|3vc|140|2j
+Rožaje|ME||9l|3az|1k1|2j|Rozhaja;Rožaj;Rozhajë
+Roznov|RO||8u|3m3|21o|2f
+Rozelle|AU||8l|-2m2|bnx|2d
+Rozdolne|UA|Crimea|9t|3j5|2l1|21|Razdol’noye;Rozdol’ne
+Rozhdestvenskiy|RU||9i|46u|2wd|1q
+Rozkishne|UA||98|3qp|314|1q
+Rozavlea|RO||8u|3ol|1va|1p|Rozália
+Rozhniv|UA||98|3qd|1y3|1i|Rożnów;Rozjniv;Roschniw;Rojniv;Rozhnyuv;Rozhnev;Rozhnov;Roznov
+Rozhdestveno|RU|Samara Oblast|9p|43w|3v2|1e|Rozjdestveno
+Rozsypne|UA||98|3pr|2z6|1d
+Rezveh|IR||7o|2j8|3wh|17|Rozveh
+Rožmitál pod Třemšínem|CZ||9m|3ts|12i|16
+Syvaske|UA||98|3kv|2nz|16|Rozhdestvenskyy
+Rozhniativ|UA||98|3ry|1v4|13|Rożniatów;Rojniativ;Roschnjatiw;Rozhnyativ;Rožňativ;Rojnâtiv;Rojneativ;Rožnjativ
+Rozivka|UA|Zaporizhzhia|98|3no|2uz|v|Rosenberg
+Rozkishna|UA||98|3t5|2bv|v|Roskoshnyy;Roskoshnaya;Roskoshno
+Rozvadiv|UA||98|3ti|1uk|v|Rozwadów;Rozvaduv;Rozvadov
+Rozhdestveno|RU|Moscow Oblast|9i|4b5|2ux|v|Rozhdestvino
+Rozdil|UA||98|3te|1uu|t|Rozdół;Rosdil;Razdol;Rozdul;Rozdo
+Rozay-en-Brie|FR||9k|3r8|88|t
+Roztoky|UA|Zakarpattia|98|3pj|1vh|s
+Różan|PL||a5|42x|1nf|q
+Rosema|ST||1c|z|i9|q|Rozema
+Rózsaszentmárton|HU||8v|3oq|1iu|k
+Rozbórz|PL||a5|3v2|1qn|k
+Rozumivka|UA|Zaporizhzhia|98|3on|2pm|k|Razumovka
+Rozhdestveno|RU|Leningradskaya Oblast'|9i|4ks|2b7|k|Rozjdestveno;Possata
+Rozdrażew|PL||a5|3zu|1cm|i
+Ružindol|SK||8s|3qd|1cl|h|Rózsavölgy;Rosenthal;Rožindol
+Rozdory|UA||98|3q9|2r7|h|Razdory
+Rožďalovice|CZ||9m|3vq|165|g|Roždďalovice
+Rozprza|PL||a5|3yi|1il|g
+Raẕī|IR||7o|2zb|3pl|g|Rozī
+Roztoky|UA|Chernivtsi|98|3pt|1xt|f|Răstoace
+Rozendaal|NL||8m|40h|gk|f|Rosendaal;Roosendaal
+Rozogi|PL||a5|44l|1nc|e
+Rozérieulles|FR||9k|3sf|gw|e
+Rozivka|UA|Zakarpattia|98|3qy|1pw|d|Rozovka
+Rozdolne|UA|Kherson|98|3k8|2kb|d|Rozdol’ne
+Rozier-en-Donzy|FR||9k|3j8|bw|d
+Rozsishky|UA||98|3ri|2bg|d
+Roztoka|UA||98|3rt|1rk|d|Rostoka
+Rozsrétszőlő|HU||8v|3p2|1oa|c
+Roz-Landrieux|FR||9k|3qu|-52|c|Roz-Lanrieg
+Rožna Dolina|SI||9a|3jm|11z|b|Rosenthal;Valdirose
+Rozoy-sur-Serre|FR||9k|3u3|bh|b
+Rozwadza|PL||a5|3w3|1ea|b
+Rozdrojovice|CZ||9m|3st|19v|b
+Rozkvit|UA|Odesa|98|3mw|2d2|b
+Roztoky|CZ|Central Bohemia|9m|3uz|12j|a
+Roz-sur-Couesnon|FR||9k|3qz|-4f|a|Roz-an-Arvor
+Rozivka|UA|Odesa|98|3jw|2b2|a|Rozovka
+Rozdolne|UA|Crimea|9t|3i0|2ot|a|Razdol’noye;Rozdol’ne
+Roztoky u Jilemnice|CZ||9m|3wg|172|9
+Rozlyv|UA||98|3p9|2us|9
+Le Roc-Saint-André|FR||9k|3oy|-6t|9|Roz-Sant-Andrev;Roc-Saint-André
+Oleksandrivske|UA||98|3n5|2xv|9|Rozy Lyuksemburg;Rozy Lyuksemburh;Olexandriwske;Olexandriwsske;Rozi Liuksemburh;Oleksandriwske
+Rozselenets|UA||98|3l2|2ck|9
+Rozivka|UA|Zaporizhzhia|98|3me|2re|8|Rozovka
+Rozumivka|UA|Kirovohrad|98|3rn|2hb|8|Razumovka
+Rozvadov|CZ||9m|3tz|yv|8
+Rozdol|UA|Odesa|98|3n7|2dv|8
+Rosalie|DM||2r|16p|-4q7|8|Rozali
+Rozbyshivka|UA||98|3w5|2lp|8|Rozbishevka;Rozbyshevka;Rozbishovka
+Rozkochów|PL|Lesser Poland|a5|3v0|1i5|8
+Rozdol|UA|Zaporizhzhia|98|3nc|2qb|8|Razdol
+Rozsoshi|UA||98|3vu|2qg|8|Rassoshi;Rossochi;Rossoshi
+Rožná|CZ||9m|3tg|194|7
+Rozzampia|IT||9o|3iw|vy|7
+Rożwienica|PL||a5|3ur|1qr|7
+Rozsochy|CZ||9m|3tk|190|7|Rossoch
+Trialeti|GE||7n|37e|3ej|7|Alexandergilf;Rosenberg;Molotov;Molotovka;Rozenberg;Molotovo;Trialeta;T’rialet’i
+Rożniatów|PL||a5|3uu|1qk|7|Rożnjatów
+Hrechani Pody|UA||98|3or|2ky|6|Rozy Liuksemburh;Rozy Lyuksemburg
+Rozkochów|PL|Opole Voivodeship|a5|3vx|1du|6
+Rozkvit|UA|Luhansk|98|3rz|31y|6
+Rozivka|UA|Zaporizhzhia|98|3l7|2p4|6|Rozovka
+Rozpasiyivka|UA||98|3uf|2ym|6|Raspaseyevka;Rozpasiivka;Respaseyevka
+Rozstání|CZ||9m|3t8|1as|6
+Rozhirche|UA||98|3sg|1tt|6
+Rozdol|UA|Kirovohrad|98|3q2|2cj|5
+Rozená|GR||8p|2xw|1q8|5
+Rozsochatec|CZ||9m|3tz|17f|5
+Rozseč nad Kunštátem|CZ||9m|3tk|19q|5

@@ -1,0 +1,109 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Fuyang|CN|Anhui|7i|2je|8xq|dnd|Fu-jang;Phụ Dương;Pâiu-iòng;Hū-iông-chhī;Fuyan;Fou-yang
+Fuxin|CN||7i|38q|9dy|5bf|Fu-sin;Fusin;Fusinas;Phụ Tân;Pâiu-sĭng;Hū-sin-chhī;Fu-hsin
+Baise|CN||7i|1ud|887|5al|Baksaek;Pai-se
+Baicheng|CN|Jilin|7i|3iq|9h7|2g2|Paj-čcheng;Bạch Thành;Băh-siàng;Pai-ch’eng
+Port-de-Paix|HT||4j|1je|-5mb|2d2|Pòdepè;Pòdpè;Porto-da-Paz;Port Paix
+Baiyin|CN||7i|2tj|81d|29s|Băh-ngṳ̀ng;Paj-jin;Bạch Ngân;Pe̍h-gîn-chhī;Pai-yin
+Baisha|CN|Chongqing|7i|28q|86s|w6|Pai-sha
+Pailou|CN||7i|2dk|8d3|t0
+Baisha|CN|Guangxi|7i|1oc|8go|oy|Pai-sha
+Paysandú|UY||45|-2hs|-4hc|mo|Paisandu
+Paisley|GB||9b|4b3|-cb|lh|Pàislig;Peislis;Peysli
+Paine|CL||4u|-2lx|-5gi|k8
+Paignton|GB||9b|3w4|-9x|ir|Peintona
+Baishishan|CN||7i|3d2|9ud|fu|Pai-shih-shan
+Paita|PE||3o|-e5|-69b|fm|Payta
+Perth|GB||9b|4co|-9j|d6|Peairt;Pairth;Pertas;Pert
+Paidha|UG||q|6q|2e3|bv
+Paiçandu|BR||4w|-1t6|-40l|bm|Paissandu
+Baihua|CN||7i|28t|82l|bk|Pai-hua
+Paithan|IN||6t|1i4|5tf|bj
+Bailin|CN|Chongqing|7i|27u|87q|aq|Pai-lin
+Baima|CN||7i|29o|8aq|74|Pai-ma
+Painkulam|IN||6t|my|5yd|6k
+Paiporta|ES||9d|31j|-16|6j
+Paippad|IN||6t|q6|5wq|5x
+Paiján|PE||3o|-lh|-64a|5v
+Paikeqi|CN||7t|2z3|5yh|5i
+Painesville|US||48|37w|-69p|5i
+Paillaco|CL||4u|-33b|-5mg|5b
+Pailin|KH||78|zp|7x1|4z
+Paipu|CN||7i|1ik|8f8|4w
+Pailitas|CO||27|ow|-5oi|4o
+Paianía|GR||8p|2xg|1u9|42
+Paipa|CO||27|g2|-5n4|3s
+Païta|NC||b8|-1ph|cu4|3i
+Paimio|FI||92|4ny|1r1|34|Pemar
+Pailles|MU||ag|-1k3|4fp|2y
+Pailón|BO||3n|-1d2|-4u8|2l
+Paimpol|FR||9k|3ri|-8h|2e|Pempoull;Pimpolium
+Pains|BR||4w|-1kl|-3iu|29
+Pail|IN||6t|2dc|5va|27
+Paide|EE||9x|4jl|1yy|26|Weissenstein;Payde
+Paiyūr|IN||6t|z7|64a|24
+Baisha|CN|Chongqing|7i|29l|891|1s|Pai-sha
+Pai Pedro|BR||4w|-174|-3bn|1k
+Paiisa|PH||71|12p|9d3|17
+Paiguano|CL||4u|-2bf|-5fw|17|Paihuano
+Paintsville|US||48|2x1|-6e1|16
+Paineiras|BR||4w|-1gi|-3ih|16
+Päiväkumpu|FI||92|4nl|1xq|13|Lövkulla
+Paim Filho|BR||4w|-24z|-3zs|10
+Payopa|CI||0|h7|-g0|x|Païopa
+Paitan|PH||71|ii|9mv|x
+Paimboeuf|FR||9k|3nd|-5n|u|Pembo
+Baisha|CN|Hunan|7i|21o|8k5|t|Pai-sha
+Paitan Este|PH||71|18p|99f|s
+Paia|US||ax|1m2|-c2d|r|Pa‘ia
+Paialvo|PT||99|31w|-nj|q
+Paitan Norte|PH||71|17z|9be|q|Paitan
+Pals|ES||9d|38l|8r|o|Palls;Pais
+Pai|TH||62|1hs|7lg|n
+Painten|DE||8r|3s4|wu|n
+Painel|BR||4w|-25l|-3v6|m
+Baiyun|CN|Fujian|7i|20c|96b|m|Pai-yün
+Paikpara|IN||6t|1wt|6s8|k
+Painted Post|US||48|394|-5y5|k
+Paikuse|EE||9x|4i6|1wf|k
+Pā’īn Dezā|IR||7o|2th|43g|j
+Paial|BR||4w|-23p|-41u|j
+Marianopoli|IT||9o|2wg|12o|j|Paisi di li Manchi
+Paitone|IT||9o|3ij|sw|j
+Painswick|GB||9b|3zv|-64|i
+Paiol|CV||84|15h|-1tb|h
+Paintla|MX||41|1fe|-7ou|h
+Paicol|CO||27|6t|-5ui|h
+Paihia|NZ||ak|-2q0|dfl|h
+Pā’īn Deh|IR||7o|2tg|4kw|h
+El Paisnal|SV||2u|12t|-6vu|g|Paisnal
+Paimpont|FR||9k|3pe|-61|f|Pempont;Panis Pontis
+Pā’īn Maḩalleh-ye ‘Alīābād|IR||7o|2tw|428|f
+Paiva|BR||4w|-1n5|-3cm|f
+Paisanos|MX||41|1po|-7so|e
+Paispamba|CO||27|69|-5wt|e
+Korobitsyno|RU||9i|4o4|2ak|c|Päivilä;Korobizyno
+Peyrat-le-Château|FR||9k|3j9|4x|b|Pairac dAimostier;Pairac
+Paillet|FR||9k|3g5|-10|b|Palhet
+Patla|MX||41|1k9|-7jt|b|Putla;Paila
+Paisley|CA||59|3f3|-69r|a
+Painiitty|FI||92|4nb|1wz|a
+Paillencourt|FR||9k|3vl|93|a
+Paint|US||48|33s|-631|a
+Baimaoping|CN||7i|20y|8ik|9|Pai-mao-p’ing
+Paincourtville|US||2f|2bb|-70y|9
+Pairana|IT||9o|3hw|pt|8
+Pailou’ao|CN||7i|23y|8hc|8
+Paisley|US||48|28i|-6ai|8
+Paime|CO||27|ex|-5pz|8
+Păiseni|RO||8u|3nr|20j|7
+Painted Hills|US||38|31g|-6nv|7
+Pallaskenry|IE||8z|428|-on|7|Pailís Chaonraí
+Paillart|FR||9k|3tz|6g|6
+Payrac|FR||9k|3gg|43|6|Pairac
+Pā’īn Kūlā|IR||7o|2td|43l|6|Pā’īn Kolā
+Păiușeni|RO||8u|3kh|1pd|6|Păiuşani
+Paifve|BE||8t|3wx|fc|5
+Pailhès|FR||9k|3cn|8v|5
+Pailton|GB||9b|41n|-3n|5
+Păingeni|RO||8u|3lo|1w8|5

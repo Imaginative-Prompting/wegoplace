@@ -1,0 +1,785 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Berlin|DE||8r|41w|119|qfs|Berlyn;Berlëno;Berliin;Berliini;Berolinum;Berlien;Berlynas;Berlijn;Berlim;Birlinu;Beirlín;Belin
+Belo Horizonte|BR||4w|-1jc|-3e2|l00|Bel-Horizonto;Bhte;Belo Hte;B.H.;Urbs Pulchri Horizontis;Belu Orizonti;Belu-Orizonti;Bello Horizonte
+Belém|BR|Pará|23|-42|-3qq|bkk|Velẽ;Belena;Bethlehem;Belenas;Belen
+Belgrade|RS||8q|3gg|1kv|9tt|Belgrad;Belgrado;Belgráu;Beograd;Bělehrad;Beogrado;Belgradas;Belgrada;Beogradi;Belgradu;Belogradum;Běłohród;Nándorfehérvár;Belqrad
+Belford Roxo|BR||4w|-1r8|-3ck|400
+Belagavi|IN||6t|181|5qy|3s4|Belgaum;Belgaumas;Belagaavi;Belagoavi;Belgaavi
+Ballari|IN||6t|162|5xo|360|Belaris;Bellary;Bellāri
+Bello|CO||27|hm|-5tw|315|Beljas
+Belfast|GB||9b|47o|-gh|2oo|Belffast;Béal Feirste;Beul-Feirste;Beeal Feirshtey;Belpas
+Belgorod|RU||9i|3wk|2tm|2nx|Bilhorod-Dnistrovskyi;Biełgorod;Bielogroda;Belqorod;Bjelgorod;Bilhorod
+Białystok|PL||a5|43l|1sc|2a5|Bjalistoko;Belostoko;Balstogė;Bjalistoka;Bjołystok;Belostok;Bialastoq;Bjelostock;Byelostok
+Balıkesir|TR||94|325|25h|1u6|Balikesyras;Balikesr;Balikesri;Belikesir;Bali-Kessir
+Sidi Bel Abbes|DZ||3|2pr|-1r|1md|Sidi-Bel-Abbès;Sidi Bu-l-Abbas;Sidi Bilabbas;Sidi bel Abesas;Sidi Belabbas;Sidi Bel Abbas;Sidi-Bal-Abbès;Sid Bel Abbès
+Bila Tserkva|UA|Kyiv Oblast|98|3uc|2bo|1ll|Bila Zerkwa;Biała Cerkiew;Bila Cerkva;Bila Cerkwa;Bila Țerkva;Belaya serkov;Belaya Tserkov’
+Bilbeis|EG||c|2ci|2fo|1fg|Bilbays;Bilbejs;Bilbajs;Bilbeys;Belbeis;Bilbês
+Bielsko-Biala|PL||a5|3ue|1gx|1d1|Bielitz-Biala;Bílsko-Bělá;Belsko-Bjala;Belsko-Biala;Bjylsko-Bjoło
+Bella Vista|DO||4v|1fa|-5eb|1ct
+Blitar|ID||6l|-mi|8nl|18s|Belitar
+Bellevue|US|Washington|3p|3o9|-9fg|12u|Belvju
+Belgrano|AR||1l|-2o0|-4ie|12l|Belgranas
+Bălţi|MD||8x|3oo|25l|yq|Belcai;Bielce;Belci
+Billings|US|Montana|2p|3j6|-8de|wj|Belinum
+Balkh|AF||6o|2u4|55u|vx|Balch;Balj;Belx;Balchas;Balh;Belh;Balĥo;Balx
+Belawan|ID||6l|ai|7m4|sj
+Francisco Beltrão|BR||4w|-20g|-43d|sf
+Bela Bela|ZA||o|-1x4|26k|p2
+Bellingham|US|Washington|3p|3rg|-9g9|nn|Bellinqham
+Belo Jardim|BR||4p|-n6|-2t6|nc|Bello Jardim
+Bella Vista|AR|Buenos Aires|1l|-2o1|-4j1|m5
+Belmont Cragin|US||2f|38h|-6rt|m0
+Bellflower|US||3p|2m4|-944|ls
+Belovo|RU||74|476|6nq|l2|Belowo;Belovas;Biełowo;Belova
+Bela|IN|Uttar Pradesh|6t|200|6bs|kk
+Belek|TR||94|2ue|2eb|kd
+Beled Hawo|SO||14|ax|38c|ka
+Beloretsk|RU||7z|45w|4i8|jl|Biełorieck;Beloreck;Beloret;Beloreckas;Belorețk;Bjelorjeck;Belorezk
+Belogorsk|RU|Amur Oblast|7x|3xf|9wz|iv|Beloqorsk;Biełogorsk;Beletorsk
+Bellampalli|IN||6t|1gy|64t|ij|Bellampalle
+Belize City|BZ||24|1cm|-6t0|i4|Ciudad de Belice;Belizas;Belize-stad;Belize;Thành phố Belize;Dinas Belize;Altepetl Belice;Belizurbo;Syudad han Belize;Cidade de Belize;Kota Belize;Bandaraya Belize;Belize Ceety;Beliz;Belice
+Alba Iulia|RO||8u|3jz|1ti|hu|Karlsburg;Apulon;Vojvodov Bjalgrad;Ciudadela Blanca;Karlovský Bělehrad;Erdeljski Biograd;Weyssenburg;Dsulafehervaru;Gyulafehérvár;Belgrad-i Erdel;Belgrada;Alba-Julia;Weißenburg;Bălgrad;Alba Julija;Alba Júlia;Àobā Yóulìyà;Erdel Belgradı;Karlov Belehrad;Fehervaru
+Bełchatów|PL||a5|3yp|1hs|hh|Belhatova;Belchatuvas
+Belebey|RU||7z|46b|46c|he|Belebei;Bielebiej;Belebej
+Bela Vista|BR|São Paulo|4w|-1tg|-3ll|go
+Villach|AT||a2|3lh|12i|gd|Villaco;Beljak;Vilac;Fillaha;Filachas;Santicum
+Beliatta|LK||68|gt|689|gb
+Belen|PE|Loreto|3o|-ag|-5nh|g2
+Belem|BR|São Paulo|4w|-1te|-3lf|fi
+Bellevue|US|Nebraska|2f|36a|-7ed|ff
+Beledweyne|SO||14|d6|3hk|fe|Belet Wayne;Belet Weyne;Beled Weyn;Beledueyne
+Biel/Bienne|CH||a7|3my|k5|fb|Bienne;Biel-Bienne;Biel;Bienna;Bielo;Belna;Bylis
+Belfort|FR||9k|3oc|j1|f6|Beffert
+Belorechensk|RU|Krasnodar Krai|9i|3gd|32r|f5|Beloretschensk;Beloretchensk;Belorečensk;Belorétxensk;Belorečenskas;Beloretsjensk;Biełorieczieńsk
+Beauvais|FR||9k|3tb|5s|eu|Bellovacum;Bieuvais;Bovė
+Baljurashi|SA||7e|1j6|37g|ee|Biljurshī;Beljurashi;Baljurshī;Baljarshī
+Belleville|CA||59|3ep|-5yy|e3|Bilivailas
+Bilhorod-Dnistrovskyi|UA||98|3kb|2cb|d9|Aqkermen;Cetatea Albă;Białogród nad Dniestrem;Bílhorod-Dnistrovski;Bilhorod-Dnistrovskyj;Bilhorod-Dnistrovskij;Bilhorod-Dnistrovsky;Bilhorod-Dnyisztrovszkij;Bilhorod-Dnistrovs'kyj;Moncastro;Dniestro Bilhorodas;Bilhoroda-Dņistrovska;Belgorod-Dnestrovskiy;Bilhorod-Dnjistrovski;Bilhorod-Dnistrowskyj;Nyeszterfehérvár;Dnyeszterfehérvár;Nyisztrafehérvár
+Bel Air South|US||48|31r|-5w0|d9
+Belaya Kalitva|RU||9i|3pu|35a|d7|Belaïa Kalitva;Belaja Kalitva;Bjelaja Kalitwa;Biełaja Kalitwa;Byelaya Kalitva;Belaja Kalitwa
+Bellinzona|CH||a7|3kb|p2|c0|Bellinzone;Bilitio;Belinzona
+Bell Gardens|US||3p|2md|-947|bz
+Balad|IQ||5z|2mh|3en|bp|Belad
+Belleville|US|Illinois|2f|2z0|-6xy|bo
+Bilychi|UA||98|3w7|2cb|b6|Biliychi;Belichi
+Belpahar|IN||6t|1om|6gx|au
+Belalcázar|CO|Cauca Department|27|7d|-5v1|aa|Páez;Belalcázer
+Beloit|US|Wisconsin|2f|3a3|-6vb|a9
+Belleville|US|New Jersey|48|35b|-5pz|a9
+Bel-Air|FR||9k|3ro|6o|a3
+Bell|US|California|3p|2me|-94b|a2
+Bel Air|PH||71|14g|9c7|a0
+Bell Ville|AR||1n|-2in|-4u5|9r
+Bela Vista de Goiás|BR||4w|-1b5|-3rz|9k
+Gudermes|RU||9i|3cf|3k2|94|Goudermes;Goedermes;Belaya;Belka;Gums;Gümse;Gümsex;Qudermes
+Bela Cruz|BR||2w|-8h|-33l|93
+Bel Air North|US||48|31v|-5w5|8i
+Bela|PK||6q|20v|547|86|Beila
+Bellas Vistas|ES||9d|34d|-ab|86
+Bielawa|PL|Lower Silesia|a5|3wt|1a6|84|Belava;Beliava;Bjelawa
+Bethlehem|PS||6g|2g2|2ps|82|Belén;Belem;Belén de Judá;Betlehem;Betlem;Bet-Leĥem;Bethléem;Bètleyèm;Betlemme;Betlejem;Bethleem Efrata;Beitheal;Bait Lahm;Betlehim;Bayt Laḩm;Beit Lahm;Beit Lehem
+Beluru|MY||6w|b2|8sy|7z
+Bella Vista|US|Arkansas|2f|2tc|-79v|7s
+Beldānga|IN||6t|1uh|6t6|7n
+Belmont|US|California|3p|2w8|-9fo|7k
+Bela|IN|Bihar|6t|1z0|6ij|7f
+Bielsk Podlaski|PL||a5|42l|1sf|7d|Belska Podlaska;Bielskas;Bielsk
+Beltline|CA||2s|3xs|-8sv|77
+Belvidere|US|Illinois|2f|39e|-6us|6z
+Belluno|IT||9o|3k6|xy|6z|Bellune;Bellunum;Belun
+Belmont|US|Massachusetts|48|39s|-5hq|6v|Bellus Mons
+Belize|AO||x|-cx|zh|6s
+Bjelovar|HR||a6|3ji|1at|6s|Belovár;Bellovarium;Belowar;Bélavár;Bellovar
+Białogard|PL||a5|461|18f|6s|Belgard;Bjalogarda;Biôłogarda;Białogrod
+Bélabo|CM||j|dp|10y|6s
+Beaune|FR||9k|3mm|dg|6q|Bonas;Belna
+Blangpidie|ID||6l|ae|7h0|6p|Blang Pidie;Belangpidië;Blangpidi
+Belo Oriente|BR||4w|-1he|-3a0|6n
+Belo sur Tsiribihina|MG||a8|-1iq|3fr|6n|Belon'i Tsiribihina;Belo - Tsiribihina;Belo Tsiribihina
+Belleville|CI|Bas-Sassandra District|0|h6|-j7|6k
+Belleville|CI|Sassandra-Marahoue|0|j3|-j1|6k
+Belper|GB||9b|43a|-44|6i
+Bellview|US||2f|2cm|-6qj|6i|Belleview
+Belton|US|Missouri|2f|2zt|-7al|6g
+Vel’sk|RU||9i|4pn|38y|6f|Velsk;Bel’sk
+Belovodskoye|KG||65|3az|5pv|6e|Belovodskoe
+Beloha|MG||a8|-1xx|3h5|6e
+Belaga|MY||6w|7i|8s2|69
+Belūr|IN|Karnataka|6t|10l|5ur|69
+Bela Vista|BR|Mato Grosso do Sul|2a|-1pf|-4d1|60|Bella Vista
+Belén de Umbría|CO||27|eg|-5ur|5z
+Bilohorodka|UA|Kyiv Oblast|98|3vz|2bz|5y|Bilhorod-Kyyivskyi;Bilhorod-Kyivskyi;Belogorodka
+Belas|PT||99|2zq|-pq|5u
+Belsand|IN||6t|21g|6l8|5q
+Belton|US|Texas|2f|2ea|-7iq|5p
+Belmonte|BR|Bahia|20|-182|-300|5l
+Belen|TR|Hatay|94|2td|2sj|5l
+Beloyarskiy|RU|Khanty-Mansia|7z|4wz|557|5l
+Belfast|ZA||o|-1zd|2bg|5k
+Belonia|IN||6t|1sl|721|5k|Beloniya
+Bellshill|GB||9b|4b2|-b6|5h
+Bellwood|US|Illinois|2f|38c|-6s4|5d
+Balykshi|KZ||5y|3mr|403|5d|Balyqshy;Boliqchi;Belykshi
+Beloeil|CA||59|3il|-5nd|59
+Belém de São Francisco|BR||4p|-ob|-309|57|Belém do São Francisco
+Bellaire|US|Texas|2f|2aj|-7d6|55
+Beloozyorskiy|RU||9i|4a2|2ys|53|Beloozërskiy;Beloozyorsky;Beloozërskij;Biełooziorskij;Beloosjorski
+Belle Glade|US||48|224|-683|53
+Bel Air Rivière Sèche|MU||ag|-1ka|4gf|50|Bel Air
+Belaya Glina|RU||9i|3k0|35j|50|Belaja Glina
+Belterra|BR||4t|-7c|-48m|4y
+Belém|BR|Paraíba|2w|-il|-2qp|4x
+Bellaria-Igea Marina|IT||9o|3em|yn|4w
+Beli|NG||u|lu|uh|4v|Bali
+Belem|GW||8|wx|-17c|4t
+Bilthra|IN||6t|20l|6h1|4s|Belthara
+Belo Campo|BR||20|-15s|-36m|4r
+Beltsville|US||48|30f|-5xn|4o|Vansville;Old Vansville
+Belyy Yar|RU|Khanty-Mansia|7z|4q6|5ng|4o|Belyj Jar
+Belém|PT||99|2zi|-pj|4l|Betlehemsturninn
+Bilohirsk|UA||9t|3h6|2o4|4k|Qarasuvbazar;Biełogorsk;Bilohirs'k;Karasubazar;Bilogirsk;Qarasuv Bazar;Karassu Basar;Belogorsk;Karassubazar;Karasubozar
+Belpasso|IT||9o|2wf|15m|4j|Belpassu
+Bellmore|US||48|34z|-5o9|4i
+Belidzhi|RU||9i|38d|3qh|4h
+Belén Gualcho|HN||56|148|-6uo|4g
+Belle Vale|GB||9b|44b|-7y|4c
+Bela Vista do Paraíso|BR||4w|-1rw|-3y7|4a
+Bellevue|US|Wisconsin|2f|3fg|-6s8|49|Belleview
+Belëv|RU||9i|45h|2sd|49
+Bellavista|PE|San Martín Department|3o|-jm|-5wr|48
+Belén|AR||1m|-24t|-567|48|Belem
+Belvedere Park|US||48|2lr|-6i3|48
+Bella Vista|AR|Tucuman|1v|-233|-51e|47
+Weißwasser|DE||8r|3z2|14o|46|Běła Woda;Veisvasere;Biała Woda;Białawoda;Bětła Woda
+Bailleul|FR|Hauts-de-France|9k|3wy|7m|45|Belle
+Belokany|AZ||61|37x|3kw|44|Belokani;Belokanj;Belokan
+Beaucaire|FR||9k|3dp|cw|44|Bèucaire;Castrum Bellicadri;Bellcaire
+Belokurikha|RU||63|40g|6k4|43|Belokuricha;Belokúrija;Belokourikha;Belokuriĥa;Belokurih;Biełokuricha
+Belison|PH||71|u4|9es|40
+Belle-Baie|CA||43|3op|-52m|3z
+Belle de Mai|FR||9k|3cb|ez|3z
+Belm|DE||8r|41a|ml|3v
+Belmont|AU|Victoria|8j|-2y1|b4y|3u
+Beloeil|BE||8t|3wf|ad|3q
+Belmopan|BZ||24|1bx|-6uk|3q
+Bellair-Meadowbrook Terrace|US||48|2bu|-6b2|3p
+Bellefontaine|US|Ohio|48|344|-6go|3n|Belle Fontaine;Bellfontaine;Bellfontain
+Belair|LU||9c|3tt|gz|3m
+Belle Chasse|US||2f|2ax|-6xz|3j
+Belmore|AU||8l|-2m8|bnp|3i
+Beloyarskiy|RU|Sverdlovsk Oblast|7z|4do|4qm|3g|Beloyarsk;Beloyarskoye
+Bella Unión|UY||45|-2c2|-4g0|3e|Belja Unionas
+Belomorsk|RU||9i|4z9|2ok|3e|Biełomorsk;Sorokka;Šuomua;Byelomorsk;Bjelomorsk;Sorokhan;Soroka
+Bela Vista do Maranhão|BR||2w|-ae|-3hp|3a
+Bellegarde-sur-Valserine|FR||9k|3k3|g6|39
+Belaya Kholunitsa|RU||97|4jg|3x8|39|Belaja Choluniza;Belaïa Kholounitsa;Belaja Cholunica;Belaya Xolunitsa;Belaja Ĥolunica;Belaja Holunitsa;Bjelaja Cholunica;Belaja Holunyica;Belaja Kholunitsa;Biełaja Chołunica
+Belsize Park|GB||9b|3z7|-h|38
+Belgrave|GB||9b|429|-34|38
+Bellmawr|US||48|32r|-5sl|37
+Belceşti|RO||8u|3ne|238|35
+Belaguntha|IN||6t|1j8|6j4|35
+Belozërsk|RU||9i|4mr|2x1|32|Belosersk;Belozjorsk
+Belvedere|GB||9b|3z1|f|32
+Byelaazyorsk|BY||9g|41r|1xy|32|Beloozersk
+Bellizzi|IT||9o|34u|15j|30
+Bellefontaine Neighbors|US||2f|2zm|-6yn|30|Bellfontaine Neighbors
+Belém de Maria|BR||4p|-nz|-2rj|30
+Beloyarsk|RU||63|44h|6h2|2z
+Beiuş|RO||8u|3ln|1q3|2z|Bejušas;Belényes
+Bela Crkva|RS||8q|3gq|1ni|2z|Weißkirchen
+Bela Vista|AO||x|-lp|12c|2y
+Bellevue Hill|AU||8l|-2m4|bo5|2y
+Belmont|US|North Carolina|48|2pw|-694|2x
+Belsele|BE||8t|3y3|bd|2x|Belcele
+Belyye Berega|RU||9i|43t|2oa|2w
+Byala Slatina|BG||9v|3cr|1uh|2v|Bjela Slatina;Byela-Slatina;Bela Slatina;Biela Slatina
+Belmonte Mezzagno|IT||9o|2xp|117|2u|Belmunti Minzagnu
+Bel Air|US|Maryland|48|31u|-5w3|2u|Belair;Bellair;Bell-Air;Belly Air
+Bela Vista de Minas|BR||4w|-1j3|-3bp|2u
+Bellmead|US||2f|2fr|-7hr|2u
+Belmont|GB|England|9b|3ym|-k|2s
+Belousovka|KZ||5s|3v9|6d8|2r|Belūsovka
+Belalcázar|CO|Caldas Department|27|dv|-5ul|2p
+Belle River|CA||59|39h|-6dr|2p
+Belső-Ferencváros|HU||8v|3nx|1gy|2o
+Bellevue|US|District of Columbia|48|2zv|-5xx|2o|Bellview
+Belynichi|BY||9g|460|2aj|2o|Byalynichy;Byelinichi;Bialyničy
+Belp|CH||a7|3m9|ku|2l
+Belūr|IN|Tamil Nadu|6t|wj|61t|2l
+Bells Corners|CA||59|3hw|-5un|2l
+Belmont|US|Michigan|2q|3bo|-6lt|2k
+Belley|FR||9k|3j4|ft|2j|Bèlê;Bellicium
+Belsunce|FR||9k|3ca|ey|2j
+Belmont|GB|England|9b|3zc|-v|2i
+Bellinzago Novarese|IT||9o|3il|o0|2i
+Belyy Yar|RU|Khakasiya Republic|6u|44v|71u|2i
+Bellerive-sur-Allier|FR||9k|3k4|9g|2g|Vaissa
+Belinskiy|RU||9i|434|3cm|2g|Chembar;Belinsky;Belinski;Bielinski;Belinskij;Belinskis;Bjelinskij
+Belrose|AU||8l|-2lq|bo1|2f
+Belo|CM||j|h6|sr|2f|Bello
+Belo Vale|BR||4w|-1kp|-3ea|2e|Bello Valle
+Bilovods'k|UA||98|3sp|31z|2e|Belovodsk
+Belvata|IN||6t|yc|5wx|2e
+Belford Estates|KY||2e|1hk|-69p|2e
+Bélbéji|NE||18|14s|m6|2d|Belbédji
+Belsor|IN||6t|21a|71r|2d
+Bellheim|DE||8r|3so|n0|2d
+Belágua|BR||2w|-8r|-3cv|2d
+Belousovo|RU||9i|491|2tv|2c
+Belvaux|LU||9c|3tj|gg|2b|Bieles;Beles;Belvo
+Bell Block|NZ||ak|-30f|dfr|2b
+Bel Air|US|California|3p|2mo|-951|2b|Bel-Air;Belaire
+Bellevue|US|Pennsylvania|48|34h|-66d|2b
+Bella Vista|AU||8l|-2lq|bnb|29
+Belgrade|US|Montana|2p|3j6|-8ku|28
+Bellevue|US|Ohio|48|36n|-6e4|28|Belvue
+Beloslav|BG||9v|3bz|24y|28|Beloslaw
+Belyy Yar|RU|Tomsk Oblast|7r|4ic|6k9|26|Bely Yar
+Bilytske|UA||98|3qh|2va|26|Belitskoye;Bilyts’ke
+Beltangadi|IN|Karnataka|6t|102|5t3|25
+Beltangadi|IN|Karnataka|6t|12u|5t6|25|Beltangady
+Belthangady|IN||6t|103|5t4|24
+Bellūru|IN||6t|102|5x5|24|Bellur
+Belle Vue Harel|MU||ag|-1jr|4fz|24
+Belle Vue Maurel|MU||ag|-1jw|4g6|24
+Belorechenskiy|RU||6k|42p|7zk|24
+Belene|BG||9v|3d9|1xt|23|Byelene;Beleke;Bjelene
+Bellavista|MX|Jalisco|41|1kr|-7zw|20
+Belen|US||2p|2oa|-88m|20|Belem
+Belmont|AU|New South Wales|8l|-2jr|bpa|1z
+Bellbrook|US||48|324|-6hj|1z|Belbrook
+Beloomut|RU||9i|48m|31a|1y|Bjeloomut
+Bełżyce|PL||a5|3y5|1pw|1y|Belžice
+Belle Plaine|US|Minnesota|2f|3fy|-78h|1x
+Belvedere|IT|Veneto|9o|3ix|wp|1x
+Bélel|CM||j|jl|143|1w
+Bellusco|IT||9o|3iq|q6|1w
+Belmont|AU|Western Australia|8k|-2gq|8y1|1w
+Bile|UA||98|3qq|30h|1w|Beloye;Beloe
+Belle Harbor|US||48|34q|-5p5|1w
+Belle Isle|US||48|272|-6a0|1v
+Belfast|US|Maine|48|3ff|-5bp|1v
+Bellbird Park|AU||8c|-24s|bsp|1u
+Belconnen|AU||8l|-2pw|bi3|1u
+Bela Megh|IN||6t|1zf|6m9|1t
+Belle Haven|US|Virginia|48|2zr|-5y2|1t
+Belpre|US||48|313|-6al|1t|Bell Pre;Bellpre;Bellepre;Belle Pre
+Belma|IN||6t|zl|5s3|1t
+Bellwood|US|Virginia|48|2vy|-5z4|1s
+Beli Manastir|HR||a6|3j5|1fo|1r|Monostor;Pélmonostor;Manoster;Pel-Monostor
+Bellavista|PE|Cajamarca Department|3o|-fr|-62k|1r
+Belleville|FR|Auvergne-Rhône-Alpes|9k|3k3|d7|1r
+Belfield|AU||8l|-2m6|bno|1r
+Belém do Brejo do Cruz|BR||2w|-h7|-2wa|1r
+Belvedere|IT|Sicily|9o|2v1|169|1r|Belvedete
+Bella Vista|BZ||24|19v|-6tx|1r
+Bellefonte|US|Pennsylvania|48|35n|-602|1q
+Belgioioso|IT||9o|3hg|pv|1q
+Belvedere Marittimo|IT||9o|322|182|1q
+Belmont North|AU||8l|-2jq|bpb|1q
+Bella Vista|US|Pennsylvania|48|32y|-5ss|1q|Passyunk Square
+Bell Road (historical)|US||48|32v|-5sz|1p
+Beluša|SK||8s|3sa|1ex|1o
+Beliātor|IN||6t|1ss|6qa|1o
+Belmont|US|Virginia|48|30i|-5zb|1o
+Bela|IN|Maharashtra|6t|1ms|656|1n
+Belo Monte|BR||3r|-rb|-2vk|1n|Bello Monte
+Bellevue|US|Kentucky|48|30n|-6io|1n
+Belén|MX|Tabasco|3z|1df|-759|1n
+Bellinge|DK||8y|49q|so|1n
+Bela Vista do Toldo|BR||4w|-20z|-3w6|1n
+Balingcanaway|PH||71|170|9b9|1n|Belingcanway;Balingcanauay;Balinganauay
+Bellmere|AU||8c|-238|bsp|1m
+Bylbasivka|UA||98|3ro|2w6|1m|Belbasovka;Bylbasovka;Bylasovka
+Belvedere|US|South Carolina|48|2l5|-6bm|1m
+Belding|US||2q|3bq|-6kr|1m
+Belaya Berëzka|RU||9i|41i|2l0|1l
+Belmar|US||48|33m|-5pm|1l
+Belle Fourche|US||2p|3g3|-80h|1l
+Belogradchik|BG||9v|3d7|1r0|1l|Byelogradchik;Bělogradčik;Belogradtgchik;Bélogradtchik;Bjelogradčik
+Bella Vista|PY|Amambay Department|1y|-1pg|-4d0|1l
+Bellaire|US|New York|48|353|-5ov|1k
+Belfeld|NL||8m|3yj|h0|1k|Belvend
+Belyye Stolby|RU||9i|49p|2x5|1k
+Belagachhia|IN||6t|1kq|6mh|1j
+Belén|NI||3s|vy|-6ml|1i
+Belén|CO|Boyacá|27|gn|-5mj|1i
+Bellbowrie|AU||8c|-24k|bso|1i
+Belišće|HR||a6|3iw|1f5|1i|Belistye
+Bellegarde|FR|Occitanie|9k|3dj|cj|1h
+Beltrán|AR||1n|-25b|-4xy|1h
+Bellevue|US|Massachusetts|48|39h|-5hn|1h
+Bela Vista|PT||99|36c|-nv|1g
+Belmont|CA|Alberta|2s|44v|-8qz|1g
+Bellaa|MA||d|2bh|-qk|1g
+Belgern|DE||8r|3z0|10g|1f
+Belyayevka|RU||7z|3ys|4cp|1f|Beljaevka
+Bela Vista|CV|São Vicente|84|1aw|-1xd|1f
+Belecke|DE||8r|3z0|n5|1f|Badiliki;Bathalikki
+Belvedere|CA||2s|44v|-8r4|1e
+Bell Park|AU||8j|-2xv|b4y|1e
+Bellac|FR||9k|3k4|2x|1e|Belac
+Belfast|NZ||ak|-3cp|dbj|1d|Purarekanui
+Bellingham|US|Massachusetts|48|38x|-5ij|1d
+Belém|BR|Alagoas|3r|-ql|-2td|1c
+Bělá pod Bezdězem|CZ||9m|3wa|154|1c
+Bell Post Hill|AU||8j|-2xu|b4w|1c
+Belleview|US||48|28q|-6by|1c
+Belgrade|BE||8t|3w7|df|1c
+Bellona|IT||9o|36c|13j|1b
+Bellenberg|DE||8r|3q2|s1|1a
+Belmead|CA||2s|44p|-8ro|1a
+Belle Vue Pilot|MU||ag|-1jp|4fy|19
+Ilaskhan-Yurt|RU||9i|3c8|3k2|19|Beloreçenskoe;Elisxan-Yurt;Ilisxan-Yurt;Beloreč’e;Eliskhan-Yurt;Belorech’ye;Ilasxan-Yurt;Ilaskhan-Jurt
+Belozerskoye|RU||7z|4b2|527|18
+Belton|US|South Carolina|48|2nw|-6d5|17
+Belozërnyy|RU||9i|3h7|2zl|17
+Bellerive|AU||8g|-3b4|bdd|17
+Belair|AU||8b|-2p8|ap2|17
+Bellpuig|ES||9d|37n|2t|17|Belpuig
+Bellville|US|Texas|2f|2b7|-7fe|17
+Bellaire|US|Ohio|48|336|-68a|16|Bellair;Bell Air;Belaire
+Belyy|RU||9i|4b4|2ji|16|Bely
+Bel Ombre|SC||ae|-cu|49y|16|Belle Ombre
+Belovo|BG||9v|399|1uq|16|Beljovo
+Bellignat|FR||9k|3kg|fn|15|Belignat
+Bela Vista do Piauí|BR||2w|-m5|-38b|15
+Belleu|FR||9k|3t4|9a|15
+Bela Vista da Caroba|BR||4w|-1zw|-452|14
+Bela Vista|CV|Praia|84|15h|-1tc|14
+Belleair|US||48|25m|-6e1|14
+Belle Rive|CA||2s|44y|-8r8|14
+Bellambi|AU||8l|-2nh|bn8|13
+Belén de los Andaquíes|CO||27|3y|-5us|13
+Bellaire|US|Kansas|2f|2ww|-7i7|13|Bel Aire
+Belfair|US||3p|3nt|-9h7|13
+Bellreguard|ES||9d|307|-h|13|Bellreguart
+Belleville|US|Michigan|2q|398|-6fx|13
+Beldon|AU||8k|-2g9|8xk|13
+Belgrave|AU||8j|-2xb|b7r|13
+Beaulieu-sur-Mer|FR||9k|3df|kd|12|Bèuluec de Mar;Bellus Locus
+Bellingen|AU||8l|-2cl|bsq|12
+Bellegem|BE||8t|3x2|94|12|Belleghem
+Beloit|US|Kansas|2f|31m|-7kj|12
+Vela Luka|HR||a6|3bc|1ag|12|Bela Luka;Velja Luka;Velika Luka
+Bad Bellingen|DE||8r|3ol|l0|12|Belicken
+Belaya|UA||98|3s7|1zl|11
+Bellinzago Lombardo|IT||9o|3ii|q9|11
+Bilolutsk|UA||98|3u2|30e|11|Biloluts'k;Belolutsk
+Béliéguhé|CI||0|i4|-iu|11
+Bellevue|CH||a7|3ki|h3|11
+Belmont|AU|Queensland|8c|-24e|btd|10
+Belcrum|NL||8m|3zc|d9|10
+Belalcázar|ES||9d|2z6|-ed|10|Balalcazar
+Bellocchi|IT||9o|3do|105|10
+Belmont|US|Pennsylvania|48|331|-5sw|z
+Belz|FR||9k|3og|-8t|z
+Bélé|CI|Savanes District|0|sk|-ia|z
+Belgershain|DE||8r|3yb|yv|z
+Belogorsk|RU|Kuzbass|74|48u|6tt|z|Biełogorsk
+Belaya Rechka|RU|Kabardino-Balkariya Republic|9i|3co|3cy|y|Belaja Retsjka
+Belém do Piauí|BR||2w|-ki|-35t|y
+Belá nad Cirochou|SK||8s|3s1|1pf|y
+Bélapátfalva|HU||8v|3ph|1kl|y
+Bellante Stazione|IT||9o|3an|12g|y
+Belmont|GB|England|9b|40k|-7m|y
+Beldibi|TR||94|2u0|2cw|y
+Bełk|PL||a5|3v9|1g0|y
+Beliu|RO||8u|3l4|1p2|x
+Belgatoy|RU||9i|3bz|3jb|x|Belgatoj;Kurgannoe;Kurgannoye;Belgazoi;Belgatay
+Belmiro Braga|BR||4w|-1oz|-3cl|w
+Belmont|NZ|Auckland|ak|-2u9|dhj|w
+Beltiug|RO||8u|3o3|1rh|w|Belthiug
+Belén Atzitzimititlán|MX||41|1hr|-7kr|w
+Bellara|AU||8c|-236|btf|w
+Belleville-sur-Meuse|FR||9k|3sm|ex|w
+Belleville-sur-Vie|FR||9k|3ly|-3z|w
+Belitsa|BG||9v|38j|1tg|w|Belița;Belica;Byelitsa;Blitsa;Belitso;Bjelica;Belitza;Beliza
+Bilje|HR||a6|3ip|1g2|w|Belje
+Belogor’ye|RU|Amur Oblast|7x|3w9|9um|v|Belogorje;Belogor’e
+Beluran|MY||6w|ge|92k|v|Beloran
+Belén|CO|Nariño|27|4f|-5y1|v
+Bel Air|SC||ae|-cv|4a1|v
+Belgrade|US|Maine|48|3fh|-5dz|v
+Beloye|RU||9i|3h5|325|v|Beloje;Beloyy
+Bilousivka|UA|Chernivtsi|98|3qu|23y|v|Bilo'oussivka;Belousovka
+Bellano|IT||9o|3jw|pv|v
+Bellows Falls|US||48|3bt|-5l8|u|Bellows' Falls
+Bila Tserkva|UA|Zakarpattia|98|3p7|1ue|u|Belaya Tserkov’
+Belinţ|RO||8u|3j4|1og|u
+Byala Cherkva|BG||9v|3c0|1ya|u|Byela Cherkva;Bela Cherkva;Byala Cherkova;Byela-Cherkova
+Belmont-sur-Lausanne|CH||a7|3l8|ik|u
+Bela Vista|MZ||11|-216|2ir|u
+Belle Meade|US||2f|2sa|-6pa|u|Belle Mead
+Belin-Béliet|FR||9k|3fm|-26|u|Belin e Beliet
+Belmont|NZ|Wellington Region|ak|-36f|dhv|u
+Bélmez|ES||9d|2yb|-eg|u
+Beled|HU||8v|3nv|1bh|t
+Belchertown|US||48|39g|-5l4|t|Belcherstown;Belchers Town
+Belawai|MY||6w|67|8ky|s|Tanjung Manis;Kampung Masjid Lama;Masjid Lama
+Bellagio|IT||9o|3jr|pq|s|Bellasium;Bellas;Bellagiu
+Bilbor|RO||8u|3mp|1yw|s|Bèlbòr
+Belaya|RU||9i|3xu|2r7|s|Belaja
+Béligneux|FR||9k|3jf|e9|s
+Belčišta|MK||9u|36q|1lv|s|Belčište
+Belmont|US|Pennsylvania|48|33x|-635|s
+Bella Vista|US|California|3p|34w|-9fj|s|Bellavista
+Belyy Gorodok|RU||9i|4e9|2w7|r
+Bełżec|PL||a5|3vy|1t4|r
+Bel-Ridge|US||2f|2zj|-6yx|r
+Belén|CR||2i|sx|-6lr|r
+Białowieża|PL||a5|42e|1ub|r|Bialovieža;Bělověž
+Belmonte|BR|Santa Catarina|4w|-22k|-44u|r
+Belfort|NL||8m|3x9|fq|q
+Belin|RO||8u|3jl|1z1|q
+Belle-Anse|HT||4j|1eo|-5k7|q|Belans
+Belvidere|US|New Jersey|48|35f|-5sk|q|Belvedere
+Belaya Rechka|RU|Vladimir Oblast|9i|4cc|31h|q|Belaja Retsjka
+Belsőmajor|HU||8v|3no|1hb|q
+Bellevue Heights|AU||8b|-2pb|aoy|q
+Bella|IT||9o|358|176|p
+Bilokorovychi|UA||98|3xz|25u|p|Belokorovichi
+Belton|GB|England|9b|44r|-2a|p
+Bellavista de Victoria (San José Bellavista)|MX||41|1gg|-7iy|p
+Bélam|CI||0|hh|-h2|p
+Bela|IN|Bihar|6t|20d|6oo|p
+Belle Plaine|US|Iowa|2f|38e|-74c|p
+Bells|US|Tennessee|2f|2r7|-6vh|o
+Belegiš|RS||8q|3h2|1kh|o
+Belleville|US|Wisconsin|2f|3b2|-6wq|o
+Bel Ombre|MU||ag|-1ky|4fh|o|Belle Ombre
+Bellamack|AU||8e|-ys|a3u|o
+Belem|MX||41|1ij|-7mg|o|Belén
+Belén del Refugio|MX||41|1nt|-7wk|o|Belem del Refugio
+Beltinci|SI||9a|3lh|194|o|Beltintsi;Belatincz;Belatinc
+Belaya Gora|RU||6z|5ae|ba3|o|Belaja Gora
+Belmonte|ES|Castille-La Mancha|9d|31w|-7i|o
+Bella Vista|PY|Itapúa|1y|-235|-4ad|n
+Belciugatele|RO||8u|3fk|21f|n
+Belfiore|IT|Veneto|9o|3i2|v5|n
+Belmond|US||2f|3b1|-781|n
+Bělkovice-Lašťany|CZ||9m|3tz|1c4|n
+Bellevue|US|Idaho|28|3cq|-8te|n
+Bellavista|MX|Nayarit|3x|1nw|-83c|n
+Belgian Gardens|AU||8c|-1hh|bbr|n
+Bellingwolde|NL||8m|43k|jx|n
+Belfaux|CH||a7|3m2|jr|n|Bellofagus
+Bellecourt|BE||8t|3w8|bt|n
+Bellem|BE||8t|3xx|9p|n
+Bellvís|ES||9d|37r|2a|n
+Belgium|US||2f|3cu|-6s1|n
+Belance|PH||71|18y|9ct|m
+Belvedere Spinello|IT||9o|30x|1ax|m|Belvedere di Spinello
+Bellerose Terrace|US||48|354|-5ot|m
+Belz|UA||98|3vy|1up|m|Bels;Bele;Bełsk
+Bellevue|US|Iowa|2f|39e|-6z6|m
+Bellavista|MX|Sinaloa|3x|1wx|-8ai|m
+Belogor’ye|RU|Voronezh Oblast|9i|3w9|335|m|Belogorje;Byelogore
+Bella Coola|CA||5b|41h|-9s3|m
+Belgravia|CA||2s|44n|-8rd|l
+Belvedere|US|California|3p|2x7|-9g6|l
+Belorado|ES||9d|39u|-8v|l|Bilforato;Belfuratus
+Balazé|FR||9k|3pt|-3b|l|Belezeg
+Belleair Bluffs|US||48|25k|-6e2|l
+Beloostrov|RU||9i|4n3|2bc|l|Valkeasaari;Valkiešuari;Belostrovas
+Belcourt|US||2f|3ro|-7p2|l
+Bellport|US||48|358|-5mm|l
+Belbeuf|FR||9k|3t7|36|l
+Beltheim|DE||8r|3v7|kq|l
+Belvedere|US|California|3p|2mk|-949|l
+Belzoni|US||2f|2k6|-6zd|l|Belzona
+Belmont|US|Mississippi|2f|2nv|-6t1|k
+Belica|HR||a6|3kw|19w|k
+Belén|UY||45|-2dj|-4gi|k
+Belisario Domínguez|MX|Chiapas|41|16i|-74m|k
+Bellbird|AU||8l|-2ja|boc|k
+Belmonte|ES|Asturias|9d|3c8|-ha|k
+Bellfield|AU||8j|-2wv|b6w|k
+Beloglinka|UA||9t|3gz|2mk|k
+Beleţi|RO||8u|3gq|1xo|k
+Belush’ya Guba|RU||9i|5iq|41d|k|Belusja Guba
+Bella Vista del Río|MX||41|1lh|-7ol|k
+Bellevue|US|Illinois|2f|350|-6x4|k
+Belmont|US|Mississippi|2f|2fp|-6ts|j
+Belevi|TR||94|2xm|249|j
+Belville|US||48|2n3|-60n|j
+Belington|US||48|30f|-662|j
+Bellegra|IT||9o|38c|107|j
+Biletskivka|UA||98|3s3|2kn|j|Bilets’kivka;Beletskovka
+Belleville|US|Kansas|2f|32m|-7j7|j
+Belle Rose|US||2f|2bh|-70w|j|Bellerose
+Bellville|US|Ohio|48|34u|-6d7|j|Belleville;Bellerville
+Belgentier|FR||9k|3c5|go|j|Beujanciá
+Bélmez de la Moraleda|ES||9d|2ws|-9e|j
+Bellevaux-Ligneuville|BE||8t|3vz|gp|j
+Belle Plaine|US|Wisconsin|2f|3g8|-6ub|i|Belleplaine
+Bellwood|US|Pennsylvania|48|34s|-61l|i
+Belleville|US|Pennsylvania|48|34t|-5zx|i
+Bilohorodka|UA|Khmelnytskyi|98|3uw|220|i|Biełogródka;Białogródka;Białohorodka;Białogród;Belogorodka
+Bělá nad Radbuzou|CZ||9m|3tr|zc|i|Weissensulz
+Bellver de Cerdanya|ES||9d|39p|4y|i
+Bellême|FR||9k|3qd|1l|i|Belismum
+Belotić|RS|Central Serbia|8q|3gi|1ib|i
+Bélakro|CI||0|lb|-fa|i
+Belvis de la Jara|ES||9d|32g|-dr|i
+Belford|US||48|34b|-5pt|i
+Belo Blato|RS||8q|3hr|1km|h
+Bilska Volya|UA||98|3yy|1zp|h|Bil’s’ka Volya;Bel’skaya Volya;Bilska Volia;Bel’ska Volya
+Beladice|SK||8s|3qa|1et|h
+Belek|TM||5x|32y|45l|h
+Beltiglio-San Giovanni|IT||9o|362|14z|h
+Bellegarde|FR|Centre-Val de Loire|9k|3pa|6r|h|Soisy;Soisy-aux-Loges;Choisy-aux-Loges
+Bělá pod Pradědem|CZ||9m|3vc|1bs|h
+Belen|TR|Diyarbakır Province|94|2yq|343|h
+Belligné|FR||9k|3nv|-2v|h|Belenieg;Beliniacum
+Belfast|CA||35|3k0|-4uo|h
+Bella Vista|MX||41|17a|-749|h
+Bellaire|BE||8t|3wo|fr|h
+Bellevue|AU||8k|-2gm|8yb|h
+Bilousivka|UA|Cherkasy|98|3uq|2hy|h|Belousovka
+Bělotín|CZ||9m|3tr|1dh|g|Bölten
+Belloy-en-France|FR||9k|3sd|6l|g
+Belle Plaine|US|Kansas|2f|2vv|-7i8|g|Belle Plain
+Belén|PY||1y|-1t7|-4f2|g
+Bella Esperanza|MX||41|1hz|-7h3|g
+Belleair Beach|US||48|25k|-6e4|g
+Belgrave South|AU||8j|-2xd|b7p|g
+Belhaven|US||48|2qq|-5wu|g
+Belvedere-Piano Tavola|IT||9o|2w9|15n|g
+Belkıs|TR||94|2uk|2ej|g
+Bellavista|IT|Tuscany|9o|3co|v0|f
+Bell|DE|Rheinland-Pfalz|8r|3vy|k3|f
+Belcodène|FR||9k|3cn|fj|f
+Belogorskiy|KZ||5s|3tg|6ey|f|Belogorsk
+Belchite|ES||9d|36r|-23|f|Belchit;Belgit
+Belforte del Chienti|IT||9o|3bw|10s|f|Belforte sul Chienti
+Belle|US|Missouri|2f|2yd|-72s|f
+Belmont-de-la-Loire|FR||9k|3k9|c3|f
+Belisario Domínguez|MX|Chiapas|41|1ax|-75e|f
+Bell|DE|Rheinland-Pfalz|8r|3v2|km|f
+Biloiarivka|UA||98|3os|2z8|f|Biloyarivka;Beloyarovka
+Belvès|FR||9k|3ge|2t|f|Bellumvidere
+Baulon|FR||9k|3pb|-5d|f|Beloen
+Bellegarde-en-Forez|FR||9k|3is|by|f
+Belköl|KZ||7d|3gh|527|f|Belkul’
+Bel-Nor|US||2f|2zi|-6yw|f
+Belorechensk|RU|Kirov Oblast|97|4j9|419|f
+Bellengreville|FR||9k|3sg|-l|f
+Belleneuve|FR||9k|3nk|em|e
+Bells|US|Texas|2f|2ld|-7ft|e
+Bellavista|CO||27|i8|-5xk|e
+Bell Acres|US||48|34r|-66p|e
+Belisario Domínguez|MX|Chiapas|41|1cd|-73i|e
+Belmira|CO||27|id|-5u7|e
+Belver de Cinca|ES||9d|37t|i|e|Bellver de Cinca
+Beliş|RO||8u|3ll|1rz|e|Jósikafalva
+Belturbet|IE||8z|46a|-kp|e|Béal Tairbirt;Beul Tairbeirt
+Bellsbank|GB||9b|49n|-c8|e
+Bélatelep|HU||8v|3nu|1hc|d
+Bellaing|FR||9k|3vx|9j|d
+Belgrave Heights|AU||8j|-2xd|b7q|d
+Beaulieu-sur-Dordogne|FR||9k|3gy|54|d|Bèlluèc;Bel Luec;Bellus Locus ad Duranium
+Belledune|CA||43|3p1|-52t|d
+Bellmund|CH||a7|3mv|k5|d|Bellus Mons
+Belleville|FR|Grand Est|9k|3rm|gy|d
+Bel Ayr Park|CA||35|3g4|-4wf|d
+Belmont|US|New Hampshire|48|3cp|-5ik|d
+Beltrum|NL||8m|40n|i8|d
+Belvedere Ostrense|IT||9o|3d2|10l|d
+Bellevue|US|Michigan|2q|39w|-6k6|d
+Bilousivka|UA|Mykolaiv|98|3nq|2fl|d|Belousovka
+Bellevaux|FR||9k|3ki|i5|d
+Belbroughton|GB||9b|41j|-5w|d
+Belberaud|FR||9k|3cv|4d|d
+Belmont Estates|US||48|2yt|-638|d
+Bel Air|US|Maryland|48|31x|-631|d
+Belford|GB||9b|4ag|-53|d
+Belfast|US|Pennsylvania|48|35a|-5t4|d|Bellfast
+Belpech|FR||9k|3c0|4v|c|Bèlpuèg
+Bélesta|FR||9k|3b6|5d|c
+Peléndri|CY||73|2oy|2jl|c|Belendri
+Beaumont-du-Périgord|FR||9k|3gd|25|c|Bèlmont;Bèlmont de Perigòrd;Belli Mons;Beaumont
+Bellcaire d'Urgell|ES||9d|37z|2k|c
+Bīlverdī|IR||7o|2ya|3m7|c|Bilberdi;Belvīrdī;Bil’verdy;Bīlvīrdī;Bīleh Verdī
+Belle|US|West Virginia|48|2y7|-6ai|c
+Bellefontaine|BE||8t|3ty|fa|c
+Bellerose|US||48|354|-5os|c
+Belyashi|RU||63|3u3|6qu|c|Beljasji
+Belmonte de Tajo|ES||9d|33h|-9a|c
+Bella Bella|CA||5b|40w|-9vy|c|Waglisla
+Bellefonte|US|Delaware|48|32h|-5tq|c
+Belverde|IT||9o|3cf|vf|c
+Beaucé|FR||9k|3qa|-38|c|Belzeg
+Belle Glade Camp|US||48|222|-684|c
+Belcastro|IT||9o|30e|1an|c
+Bilohorivka|UA||98|3rx|2y9|b|Belogorovka;Bilohoriwka;Bilogorivka
+Belmont|CA|Ontario|59|3b4|-698|b
+Belle-Isle-en-Terre|FR||9k|3qu|-9g|b|Benac'h;Benach;Bella Insula
+Bilivtsi|UA||98|3qb|21k|b|Belăuți
+Belisario Domínguez|MX|Michoacán|41|1j7|-7sh|b
+Bella Vista|PA||4g|li|-66v|b
+Bellas Fuentes|MX||41|1j2|-7ug|b
+Bella Italia|AR||1n|-2ew|-4ql|b
+Belle-Plagne|FR||9k|3if|in|b|Belle Plagne
+Beloiannisz|HU||8v|3n2|1ga|b
+Belver|PT||99|36l|-k8|b
+Bełsznica|PL||a5|3uu|1f0|b
+Belleville-sur-Loire|FR||9k|3ny|7x|b
+Belmont South|AU||8l|-2jt|bpa|b
+Belle Vernon|US||48|33h|-65v|b|Bellevernon;Nelle Vernon
+Bellaghy|GB||9b|489|-i4|b
+Bellingham|GB||9b|496|-69|b
+Bellaire|US|Michigan|2q|3gy|-6kp|b
+Belforte|IT|Lombardy|9o|3h8|tc|b
+Belfield|US||2p|3m9|-7yo|b
+Bell's Turn|CA||50|3o7|-42h|a
+Bèlé|CI|Montagnes|0|k6|-l9|a
+Bélâbre|FR||9k|3lb|38|a
+Belmont-sur-Rance|FR||9k|3dq|7n|a|Bèlmont de Rance
+Bellenaves|FR||9k|3kc|8k|a|Balanava;Balanavia
+Belmullet|IE||8z|46n|-rr|a|Béal an Mhuirthead;Belmaletas;Belmuliet
+Belin-Vale|RO||8u|3jl|1z5|a|Belin Vale
+Bilovod|UA||98|3wr|2ky|a|Belovod
+Belleben|DE||8r|3zj|wb|a
+Bella Farnia|IT||9o|36x|102|a
+Bilukhivka|UA||98|3tr|2q1|a|Belukhovka
+Bilovartsi|UA||98|3pf|1tt|a|Belovartsy
+Bělčice|CZ||9m|3ti|12k|a
+Belmont|US|Wisconsin|2f|3aq|-6yx|a
+Bellante|IT||9o|3aq|12c|a
+Bellou-en-Houlme|FR||9k|3r9|-18|a
+Bellizzi Irpino|IT||9o|35l|154|a
+Belvedere|IT|Emilia-Romagna|9o|3e5|za|a
+Belmont|US|New York|48|39a|-60r|9
+Beloit|US|Ohio|48|35o|-68z|9
+Ballinagh|IE||8z|45t|-km|9|Béal Átha na nEach;Bellananagh
+Bellevue|CA||2s|44t|-8r4|9
+Belém|ST||1c|u|ij|9
+Belwood|US||48|2qk|-6ag|9
+Bilka|UA||98|3m9|2ci|9|Belka
+Belenoluk|TR||94|2xc|3au|9
+Béléouélé|CI||0|lr|-8n|9
+Bellegarde-Poussieu|FR||9k|3i2|dr|9
+Belmont|US|West Virginia|48|31e|-69q|9
+Belvedere|AU||8c|-1co|b9j|9
+Bellemeade|US||3k|2y9|-6lr|9
+Biliaky|UA||98|3tq|2kv|9|Belyaki;Bilyaki
+Belnem|BQ||3m|xo|-59p|9
+Bellefontaine|FR|Grand Est|9k|3pd|hw|9
+Belum|DE||8r|45i|p0|9|Gemeen Belen
+Bellefonte|US|Kentucky|48|2yx|-6dp|9
+Beletinec|HR||a6|3ke|19b|9
+Bella Vista de Santa María|MX||41|1kk|-7sw|9|Bellavista
+Bellentre|FR||9k|3il|in|9
+Bellosguardo|IT||9o|34a|16j|9
+Bellignies|FR||9k|3vt|ah|9
+Belleville-sur-Mer|FR||9k|3ur|38|8
+Benlloch|ES||9d|33p|3|8|Bell-lloc del Pla;Benltoch;Bennloch
+Bellbrae|AU||8j|-2yh|b4r|8
+Belfast|US|New York|48|39m|-60z|8
+Bell Hill|US||3p|3pi|-9hw|8
+Belisario Domínguez|MX|Chiapas|41|1a9|-72u|8
+Belgooly|IE||8z|3zq|-nk|8|Béal Guala
+Bilsk|UA||98|3v5|2o8|8|Bil’s’k;Hlynsk;Bilszk;Gelonus;Gelono;Bel’sk
+Marica Abajo|PA||4g|nq|-67d|8|Bella Vista
+Bellaco|MX||41|1df|-7ce|8
+Bellocq|FR||9k|3cw|-2k|8|Bètlòc;Bailòc
+Sırma|TR||94|2wh|273|8|Belli
+Bela Crkva|MK||9u|36o|1nb|8
+Belenobası|TR||94|2ua|2fr|8
+Belloy|FR||9k|3v5|4a|8
+Belmont|CA|Alberta|2s|3xb|-8su|8
+Belyaninovo|RU||9i|4be|2wm|8|Beljaninovo
+Belle Center|US||48|34j|-6gn|8|Belle Centre;Bellecente;Bellecenter
+Belle Terre|US||48|35s|-5mz|8
+Belotić|RS|Central Serbia|8q|3fu|1is|8
+Belhomert-Guéhouville|FR||9k|3qr|2y|8
+Belisario Domínguez|MX|Chiapas|41|19l|-738|8
+Bellaria-Pole-Petriccio|IT||9o|3d5|z3|8
+Bellot|FR||9k|3rq|98|8
+Beloljin|RS||8q|3c4|1ng|8|Bellolin;Belonjin;Belotin
+Billiers|FR||9k|3o1|-6x|8|Beler
+Bellbird Heights|AU||8l|-2j9|bod|8
+Beloveža|SK||8s|3sy|1nd|8
+Belgrade|US|Minnesota|2f|3i9|-7bw|8
+Belenli|TR||94|2sk|2ai|8
+Bellefond|FR||9k|3nm|e3|8
+Belvèze-du-Razès|FR||9k|3bs|5t|7
+Fruktove|UA|Sevastopol City|9t|3g4|2lc|7|Bel’bek;Belbek;Byelbyek;Bielbiek;Fruktovoye
+Belton|GB|England|9b|42m|-3q|7
+Belisario Domínguez|MX|Veracruz|41|1k5|-7ia|7|Belizario Domínguez
+Bella Villa|US||2f|2z2|-6ys|7
+Belciug|RO|Prahova|8u|3gi|20x|7
+Belleau|FR||9k|3rn|h6|7
+Bèlgida|ES||9d|2zx|-1b|7
+Bellingen|BE||8t|3wy|bj|7|Bellinghen
+Belogorskiy|RU||9i|4yb|39m|7|Belogorskij
+Belobreșca|RO||8u|3gf|1nr|7|Belobreška
+Byelagruda|BY||9g|45g|1xx|7|Byelahruda;Belogruda
+Bilotserkivka|UA||98|3tz|2lv|7|Belotserkovka
+Belén|MX|Guanajuato|41|1kl|-7r8|7|Belém
+Bellitaş|TR||94|2wp|33l|7|Xirbê Sitîl
+Bellas Fuentes (Nuevo Centro)|MX||41|1g2|-7vd|7
+Belcarra|CA||5b|3t0|-9hh|7
+Bellicourt|FR||9k|3us|90|7
+Bellolampo|IT||9o|2xy|10v|7
+Bellencombre|FR||9k|3u3|3f|7|Belencombre
+Belcinu|RO||8u|3el|1u3|7
+Bela|RO||8u|3ha|1yo|7
+Belvì|IT||9o|330|pi|7|Brevìe;Brebì
+Belforte|IT|The Marches|9o|3dg|ye|7
+Bel Bel|CV||84|163|-1ti|7
+Bellavista|PE|Junin|3o|-vb|-5re|7
+Bělá|CZ||9m|3ut|1ee|7
+Bellona-Gittings|US||48|31d|-5wu|7
+Beaulieu-sous-Parthenay|FR||9k|3le|-n|7|Bellus Locus
+Belli Park|AU||8c|-21n|bsi|6
+Bilyayivka|UA|Kharkiv|98|3sv|2sv|6|Biliaivka;Belyayevka
+Bellavista del Norte|MX||41|17j|-740|6
+Belisario Domínguez|MX|Chiapas|41|19l|-75o|6
+Bellavista|MX|Veracruz|41|1oa|-7lj|6
+Belaya Skala|UA||9t|3h9|2o6|6
+Belvedere Lidia|IT||9o|39a|y7|6
+Belencik|TR||94|33n|3ao|6|Şadivan;Şadvan
+Belfiore|IT|Veneto|9o|3j6|zd|6
+Belen|BO||3n|-1c9|-57n|6
+Belianes|ES||9d|37g|2u|6
+Bellefontaine|US|Alabama|2f|2cp|-6sq|6|Belle Fontaine;Bellefountaine
+Bello Horizonte|PE||3o|-i5|-5vy|6
+Belören|TR||94|2u9|2qs|6
+Belazaima do Chão|PT||99|34l|-n9|6
+Bellerive|CH||a7|3mc|ji|6
+Belleherbe|FR||9k|3na|ii|6
+Belleplain|US||48|313|-5rz|6|Belle Plain;Belle Plains
+Belt|US||2p|3nn|-8k5|6
+Beljevina|HR||a6|3ik|1e1|6
+Belvis de Monroy|ES||9d|32m|-fl|6
+Belisario Domínguez|MX|Veracruz|41|1h9|-7fm|6|La Burrera
+Belle-Église|FR||9k|3sn|66|6
+Bell Acres|CA||5b|3sc|-9ej|6
+Belciug|RO|Teleorman County|8u|3ez|1xs|6
+Belçınar|TR||94|2v8|2oa|6
+Bella Vista Papagayo|MX||41|1al|-7oo|6
+Bellingen|DE||8r|3wk|ly|6
+Belimbla Park|AU||8l|-2mo|bm6|6
+Belajske Poljice|HR||a6|3i8|177|6
+Bellavista|IT|Lazio|9o|37m|z6|6
+Belt-Schutsloot|NL||8m|42b|gu|6
+Belen|TR|Mersin|94|2uw|2of|5
+Belle-et-Houllefort|FR||9k|3wy|4w|5|Belle-pi-Houllefort
+Bellamy|US||2f|2i5|-6st|5
+Belfir|RO||8u|3lu|1oz|5
+Bellevue|GF||2d|f8|-43y|5
+Bell|US|Oklahoma|2f|2r8|-7aq|5
+Bellavista|MX|Chiapas|41|15w|-73z|5
+Belle Haven|US|Virginia|48|2wb|-5um|5|Bellehaven
+Belmont|US|Ohio|48|32d|-6hq|5|Bellmont
+Belvédère|FR||9k|3e9|kc|5|Balvèr;Bellumviderium Nicaeensium;Barver
+Bela Vista|ST||1c|10|il|5
+Bell Buckle|US||2f|2qv|-6nv|5|Bellbuckle
+Bilohorilka|UA||98|3wc|2kd|5|Belogorilka
+Bellefontaine|FR|Île-de-France|9k|3se|6v|5
+Bellevue-la-Montagne|FR||9k|3hm|am|5
+Belen|PE|Piura|3o|-dz|-66o|5
+Belén|PE|Ayacucho|3o|-12d|-5ow|5
+Belfort-du-Quercy|FR||9k|3ez|4a|5

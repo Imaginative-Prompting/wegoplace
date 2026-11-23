@@ -1,0 +1,149 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hrodna|BY||9g|454|1u7|2t1|Grodno;Gardinas;Goradnia;Grodņa
+Hradec Králové|CZ||9m|3vh|17z|p6|Königgrätz;Reginogradecium;Kraljičin Gradac
+Khrustalnyi|UA||98|3pq|304|m3|Krasnyi Luch;Krasni Luč;Krasnyy Luch;Hrusztalnij;Krasznij Lucs;Khrustal’nyy;Krasny Luch;Krasniluch
+Hruzkyi|UA||98|3pj|2xe|ej|Kirovskyi;Kirovskyi rayon
+Roskilde|DK||8y|4ak|xk|ef|Hróarskelda;Roschildia
+Hrazdan|AM||80|34k|3gc|dr|Hrasdan;Aşağı Axta;Razdan
+Myrnohrad|UA||98|3q7|2vj|ct|Dimitrovo;Dimitrova;Dimitrov;Dymytrov;Dymytrow;Mîrnohrad;Mırnograd;Mirnohrada;Novoekonomične;Hrodivka
+Khromtau|KZ||5w|3vl|4ic|6l|Khrom-Tai;Hromtau
+Chrudim|CZ||9m|3ur|17w|6k|Hrudima;Crudim
+Hrubieszów|PL||a5|3x5|1ud|56|Hrubešova
+Hranice|CZ|Olomouc Region|9m|3tn|1d9|4z
+Ripon|GB||9b|46e|-49|4k|Hrypum;Ripum
+Hrebinka|UA||98|3v8|2i3|2x
+Hresivskyi|UA||9t|3h1|2mj|2q|Hresivs’kyy;Ğresivskıy;Hres
+Hryhoriopol|MD||8x|3mz|29e|2n|Grigoriopolis;Grigoriopol;Grigoriopol’
+Hrushovo|UA||98|3pd|1u1|2d|Szentmihálykörtvélyes;Grushevo;Hrusheve
+Hrádek nad Nisou|CZ||9m|3x9|158|28|Gródek nad Nysą
+Hrajel|LB||64|2mi|2rf|28
+Ramsey|GB||9b|41p|-b|26|Hramesige on Huntadūnscīre
+Hriňová|SK||8s|3qy|1i9|1y|Herencsvölgy;Hrinjova
+Hronov|CZ||9m|3w8|18y|1t|Hronow
+Hrushky|UA||98|3w5|2cj|1t
+Hradyzk|UA||98|3ss|2k2|1q|Hradysk;Gradizhsk;Hradizk;Gradızk;Horodyshche;Gorodishche
+Hrastnik|SI||9a|3k7|15w|1k|Hrastnigg
+Hradec nad Moravicí|CZ||9m|3uj|1do|1i|Grätz
+Chropyně|CZ||9m|3t4|1c8|1g|Hropiņe;Chropin
+Hradenytsi|UA||98|3lg|2bc|1b
+Hryshkivtsi|UA||98|3up|27h|16|Hryschkiwzi;Grishkivtsi;Hrychkivtsi;Hryškivci;Grışkivtsi;Hryszkowce;Hrîșkivți;Grishkovtsy
+Hrushivka|UA|Dnipropetrovsk|98|3o6|2mi|14|Leninske;Leninskoye
+Hrušovany u Brna|CZ||9m|3s8|1a3|z
+Hrytsiv|UA||98|3ut|23m|z|Hryców
+Hrušovany nad Jevišovkou|CZ||9m|3rn|19k|x|Hrušovani pie Jevišovkas
+Hranovnica|SK||8s|3s3|1kf|w
+Jarovce|SK||8s|3pi|1bj|v|Horvathjarfalu;Horbátjárfalu;Kroatisch Jahrndorf;Hrvatski Jandrof;Horvátjárfalu
+Hruštín|SK||8s|3t0|1hr|v
+Hrtkovci|RS||8q|3go|1iw|t
+Hrádek|CZ|Plzeň Region|9m|3u3|11x|r
+Hrvatski Leskovac|HR||a6|3j2|185|r|Hrvatski Leskovec
+H. Rivera Colon|PR||4m|1ez|-543|o
+Hraniv|UA||98|3rr|2a4|n|Granów;Granov
+Kimle|HU||8v|3ou|1c9|n|Hrvatska Kemlja;Kimling
+Hrodivka|UA||98|3q2|2vu|n|Grodovka
+Hrushivka|UA|Crimea|9t|3h2|2p5|n|Grushevka
+Hrun|UA||98|3vk|2o5|m
+Hrnčiarovce nad Parnou|SK||8s|3qa|1ct|m|Gerencsér
+Hroznětín|CZ||9m|3vr|zr|m
+Hřebeč|CZ||9m|3va|13c|m
+Khrabrovo|RU||96|48i|1l6|l|Powunden;Povunden;Powanden;Hrabrovo;Powuneen
+Hreljin|HR||a6|3hs|14k|l
+Hryshyne|UA||98|3q9|2v0|l
+Hrozyntsi|UA||98|3qj|20n|l|Grozinți
+Hranice|CZ|Carlsbad Region|9m|3vq|xu|l
+Khriatska|UA||98|3pt|20r|k|Khiatska;Hreațca;Khryatska
+Hrob|CZ||9m|3wq|125|k
+Hromivka|UA||98|3kn|2mq|k|Gromovka
+Hrubna|UA||98|3qm|237|j|Grubna;Grubno
+Hrádek|CZ|Moravian-Silesian Region|9m|3tu|1g2|j
+Hrochův Týnec|CZ||9m|3us|187|j|Hrochowteinitz;Hrochow-Teinitz
+Hrudky|UA||98|3zk|1xa|j
+Hryhorivka|UA|Kherson|98|3kl|2lp|i|Köy Çoqraq;Koy Chokrak;Koi Chokrak
+Hrubá Borša|SK||8s|3pu|1ck|i|Nagyborsa;Nagy-Borsa
+Hrotovice|CZ||9m|3sf|18m|i
+Hrymailiv|UA||98|3t1|209|i|Grzymałów;Hrymajliw;Hrymayliv;Grimayliv;Hrimajliv;Hrymajliv;Hrîmailiv
+Hrušica|SI||9a|3l1|12y|h
+Khrestivka|UA|Kherson|98|3kw|2lo|h|Chrestiwka;Hrestivka;Krestovka
+Hrušky|CZ|South Moravian|9m|3rj|1b5|h
+Hradec nad Svitavou|CZ||9m|3u3|19s|g
+Hrdějovice|CZ||9m|3s6|148|g
+Hrvace|HR||a6|3dk|1a5|f|Hrvatice;Hrvatce
+Hrvatska Kostajnica|HR||a6|3hn|19y|e|Castanopolis
+Hrochoť|SK||8s|3r6|1hn|e|Horhát
+Hreyhove|UA||98|3mv|2hq|e|Hréïhové
+Hrunyky|UA||98|3pq|1tq|e
+Hremiach|UA||98|41e|2kg|e|Gremyach;Hrem’yach
+Hromnice|CZ||9m|3uh|11c|d
+Hrádek|CZ|Plzeň Region|9m|3su|11i|d
+Hruzko-Zorianske|UA||98|3p6|2xt|d|Hruz’ko-Zoryans’ke
+Hradištko|CZ||9m|3uj|141|d|Hradischko
+Hreblia|UA||98|3q4|1s1|d|Hreblya;Greblya
+Hrabove|UA|Odesa|98|3pe|28o|d
+Hrašćica|HR||a6|3ko|199|d
+Khreshchatytske|UA||98|3n7|2xd|c|Khreshchatskoye;Krasnoarmiyske;Chreschatyzke;Chreschtschatyzke;Chreščatyc'ke;Khrechtchatyts'ke;Khrechtchatytskè;Chresjtsjqtytske;H'reštšatske;Hreštšatõtske;Krasnoarmiiske
+Hrašće Turopoljsko|HR||a6|3j1|18h|c
+Hrvatini|SI||9a|3im|128|c|Crevatini;Hrvatin
+Hryhorivka|UA|Zaporizhzhia|98|3nh|2ss|c
+Hryhorivka|UA|Zaporizhzhia|98|3oh|2q8|c
+Hrushivka|UA|Chernivtsi|98|3pu|205|c|Hrouchivka;Grușăuți
+Hrabyně|CZ||9m|3uk|1e5|c
+Hromy|UA||98|3r6|2bv|c|Gromy
+Hroznová Lhota|CZ||9m|3rv|1ce|c
+Hrushivka|UA|Mykolaiv|98|3pe|2dx|c|Hrouchivka
+Hrubý Šúr|SK||8s|3pt|1ce|b
+Krani|MK||9u|35q|1mn|b|Hrani
+Hrastje|SI|Municipality of Šenčur|9a|3ke|140|b
+Hrebenyky|UA||98|3m9|2at|a
+Hrechane|UA||98|3re|2nv|a
+Hrabove|UA|Donetsk|98|3pr|2zd|a
+Hradčovice|CZ||9m|3s9|1cu|a
+Hrushuvatka|UA||98|3qc|2lu|a|Grushevatka
+Hryhorivka|UA|Kirovohrad|98|3s0|2jm|a
+Hryhorivka|UA|Kirovohrad|98|3qv|2jm|a
+Hrabětice|CZ||9m|3rk|19j|9
+Hrádek|CZ|South Moravian|9m|3rh|197|9
+Hrubčice|CZ||9m|3td|1br|9
+Hrastina Samoborska|HR||a6|3j9|17q|9
+Hrobčice|CZ||9m|3wc|12b|8
+Hrabišín|CZ||9m|3un|1bc|8
+Hrpelje|SI||9a|3ip|12q|8|Erpelle;Herpelje
+Hrženica|HR||a6|3km|1a1|8
+Hrvatska Dubica|HR||a6|3hj|1ao|8
+Gornji Hrašćan|HR||a6|3ku|19f|8|G. Hrašćan;Hrašćan
+Hradec|SK||8s|3rg|1fw|7
+Hrastelnica|HR||a6|3ie|19m|7
+Hrušky|CZ|South Moravian|9m|3sh|1ar|7
+Rontignon|FR||9k|3c6|-x|7|Hrontinhon
+Hrynky|UA||98|3te|2jr|7|Hryn’ky
+Hradište pod Vrátnom|SK||8s|3r3|1cl|7
+Hrastovsko|HR||a6|3kh|1a2|7
+Hriakove|UA||98|3tu|2qb|7|Gryakovo;Hryakove;Gryakova;Gryakovoye
+Hronsek|SK||8s|3r5|1h8|7
+Hrechani Pody|UA||98|3or|2ky|6|Rozy Liuksemburh;Rozy Lyuksemburg
+Hrabarivka|UA||98|3vy|2hv|6|Grabarovka
+Hryhoro-Bryhadyrivka|UA||98|3s1|2m5|6
+Hradiště|CZ||9m|3vl|10o|6
+Hruzko-Lomivka|UA||98|3p2|2xv|6|Hruz'ko-Lomivka
+Hrip|RO||8u|3ok|1rv|6|Hirip
+Hrabskě|SK||8s|3t2|1mj|6
+Hrubá Vrbka|CZ||9m|3rr|1ck|6
+Hrebeniv|UA||98|3s0|1t8|6|Grebenuv;Hrebenów;Grebenov
+Hřivice|CZ||9m|3vp|125|6
+Hradešín|CZ||9m|3v0|150|6
+Hraddia|UA||98|3y5|1z0|6|Hraddya
+Hrabske|UA||98|3p2|2y0|6|Hrabs’ke
+Hřivínův Újezd|CZ||9m|3sg|1d5|6
+Hrastje|SI|Urban Municipality of Maribor|9a|3l9|179|6
+Hředle|CZ||9m|3vf|127|6|Hředl
+Hrybivtsi|UA||98|3qu|1r1|5|Gombás;Hribovce
+Hradivka|UA||98|3nn|2ec|5|Gradovka
+Hruboňovo|SK||8s|3qk|1e3|5
+Hrdlořezy|CZ||9m|3w5|15c|5|Hrdlořez
+Hrubá Skála|CZ||9m|3wf|169|5
+Hrabová|CZ||9m|3uh|1b3|5
+Hrobce|CZ||9m|3w6|13j|5
+Hrastovec v Slovenskih Goricah|SI||9a|3lc|17v|5
+Hrabovec|SK||8s|3sv|1ne|5
+Hrabovec nad Laborcom|SK||8s|3se|1oy|5
+Hrebenne|PL||a5|3xb|1up|5
+Hrubý Jeseník|CZ||9m|3vl|15x|5

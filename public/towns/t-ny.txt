@@ -1,0 +1,218 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Manhattan|US|New York|48|35a|-5ph|bh7|nyc;Manhatano;Mannahattan;Manatans
+Nizhniy Novgorod|RU||9i|4ch|3e8|9pq|Nizjnij Novgorod;Nizhny Novgorod;Nischni Nowgorod;Nijni Novgorod;Gorkij;Nižni Novgorod;Nyizsnyij Novgorod;Nizhni Nóvgorod;Nizhni Novqorod;Nishni-Nowgorod;Gorkii;Nižnij Nowgorod;Gor'kiy;Nishnii Nowgorod;Gorki;Nizhnii Novgorod;Nishnij Nowgorod;Nijnii Novgorod
+Nyala|SD||r|xh|1x4|4d5|Njalo;Njala;Nijala;Niala;Niyālā
+Nuremberg|DE||8r|3td|us|3z7|Nürnberg;Norymberga;Norimberk;Nurenbergo;Norimberga;Niurnbergas;Nirnberga;Nürnbarg;Neurenberg;Norimberg;Nyrëmberg;Nyurnbérg;Niamberg;Nürnberq;Neurenberch;Nuremburg;Nurenberg;Nurenburg;Nuernberg
+Newcastle|AU||8l|-2jh|bpm|3x8|Novkastelo;Niukaslas;Niukasel;Nyukasl
+New Orleans|US||2f|2b7|-6y8|2sr|Nueva Orleans;Nova Orleans;Nov-Orleano;La Nouvelle-Orléans;Nov-Orleans;Nova Aurelia;Nowy Orlean;Nova Orleães;Naujasis Orleanas;Ņūorleāna;Yéngi Orléan;Nyu-Orlean;Nuoba Orleanes;Orleans Parish;Bagong Orleans;Yancuic Orleans;Nowy Uorlean;Uz Orlean;Nouvelle Orleans;Neu Orleans;Nieuw Orleans;Neuva Orleans
+New Delhi|IN||6t|27i|5yh|2ga|Neu-Delhi;Nueva Delhi;Nueba Deli;Nova Delhi;Nov-Delhio;Nova Deli;Nova-Delhi;Nýja Delí;Nuova Delhi;Dellium Novum;Dillí;Yeni Delhi;Nové Dillí;Niu Deli;New Dilli
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Nianbo|CN||7i|2tc|7wi|20a|Haidong;Nyan’bo
+Nyingchi|CN||7i|2ad|7a4|1jk|Linzhi;Nyingtri;Ňingthri;Nyingcsi;Njingči;Nying khri
+Nijmegen|NL||8m|400|g9|1da|Nimwegen;Nimega;Nimègue;Nymwegen;Nimwege;Ulpia Noviomagus Batavorum;Gemeen Nimwaege;Neimegenas;Neimegena;Nymegen;Nijmeyen
+Newport|GB|Wales|9b|3zb|-8c|18v|Casnewydd;Novus Burgus;Niuportas;Nyuport;Trefdraeth;Ņūporta
+Nyzhnodniprovsk|UA||98|3qo|2pk|18h
+New Haven|US|Connecticut|48|36r|-5ml|107|Novus Portus;Ņūheivena;Nyu-Heyven;Niu Heivenas
+Neftekamsk|RU||7z|4bt|46q|z8|Neftekama;Nyeftyekamszk;Nieftiekamsk;Njeftekamsk
+Nyíregyháza|HU||8v|3p8|1oc|wp|Nyredhaza;Níreďháza;Njiredhaz;Njiređhaza
+Nikopol|UA|Dnipropetrovsk|98|3o5|2nj|t8|Mykytyn Rih;Nicopoli;Mykytynska Sich;Mykopil;Nyikopol;Slov'yansk;Slov'iansk;Nykopil
+Nyagatare|RW||s|-3m|2c8|rs|Nyakatale;Nyakatare
+Nyaunglebin|MM||7y|1dv|7go|ow
+Newton|US|Massachusetts|48|39m|-5ht|oo|Neŭtono;Nyuton;New Towne
+Nitra|SK||8s|3q7|1e8|nz|Neutra;Nyitra;Njitra
+Nyeri|KE||16|-16|2un|m9|Njeris;Nyiri
+Nyvky|UA||98|3w6|2ch|jx
+Nyunzu|CD||y|-gk|25u|he
+Nyagan|RU||7z|4sm|51n|eh|Njagan
+Nyaung-U|MM||7y|1mw|7bn|dh|Nyaung U;Njaung-U;Njaunga-U;Nayung-U;Nyaungoo;Nyaungu
+Bilhorod-Dnistrovskyi|UA||98|3kb|2cb|d9|Aqkermen;Cetatea Albă;Białogród nad Dniestrem;Bílhorod-Dnistrovski;Bilhorod-Dnistrovskyj;Bilhorod-Dnistrovskij;Bilhorod-Dnistrovsky;Bilhorod-Dnyisztrovszkij;Bilhorod-Dnistrovs'kyj;Moncastro;Dniestro Bilhorodas;Bilhoroda-Dņistrovska;Belgorod-Dnestrovskiy;Bilhorod-Dnjistrovski;Bilhorod-Dnistrowskyj;Nyeszterfehérvár;Dnyeszterfehérvár;Nyisztrafehérvár
+Nysa|PL||a5|3w7|1c5|d5|Neisse;Nisa;Neisse-Neuland;Neisze
+Nyaung|MM||7y|1ar|7ex|c6
+Nyaungdon|MM||7y|1bc|7do|b5|Nyanngdon;Nyaung-dun
+Nõmme|EE||9x|4ky|1wl|ay|Nimme;Nymme
+Nyköping|SE||9w|4j7|1b9|as|Nišiopingas
+Nizhneudinsk|RU||6k|48j|7n3|ar|Nizjneudinsk;Nischneudinsk;Nijneoudinsk;Nižneudinsk;Nijneudinsk;Nyizsnyeugyinszk;Niżnieudinsk
+Nyahururu|KE||16|4|2t0|ah
+Nyanza|RW||s|-6j|2an|8w|Nyanga;N'Yanza
+Savonlinna|FI||92|4rv|288|8p|Nyslott
+Nyachera|UG||q|-2i|2ci|8h|Nyakyera
+Nyêmo|CN||7i|29s|6yf|8c
+Nyabitekeli|RW||s|-6j|28n|85
+Demiyivka|UA||98|3w0|2cs|84|Verkhnyolybidska Slobidka;Verkhiolybidska Slobidka;Verkhniolybidske Podviria;Verkhnyolybidske Podvirya;Nyzhnyolybidska Slobidka;Nyzhniolybidska Slobidka;Stalinka;Demiivka
+Njombé|CM||j|cq|qu|7j|Njombo;Nyombé
+Nerekhta|RU||9i|4fm|34p|72|Nerechta;Nereĥta;Nieriechta;Njerjechta;Nyerehta
+Nyūzen|JP||7q|2um|aly|6y
+Nyalikungu|TZ||h|-8u|2lu|6u|Nyarikungu
+Nyamira|KE||16|-1k|2p2|6t
+Niamtougou|TG||w|r5|33|6h|Niamtugu;Njamtūu;Nyamtouhou;Niamtuu
+Newberg|US||3p|3hu|-9hl|6c|Nyuberq
+Nyandoma|RU||9i|4rb|33p|66|Njandoma
+Nyamata|RW||s|-64|2bq|5z|Niamata
+Nytva|RU||7z|4gy|49q|5p|Nytwa;Nıtva;Nitv
+Nykøbing Falster|DK||8y|485|wz|5k|Niukiobingas
+Nyahuka|UG||q|1w|2bb|5g
+Nyimba|ZM||z|-14g|2dl|5d
+Nyakabindi|TZ||h|-7b|2me|54
+Nyborg|DK||8y|49n|tz|4v
+Nyzhnya Telychka|UA||98|3vz|2cx|4q|Nyzhnia Telychka
+Nyamunuka|UG||q|-2b|2bl|4o
+Nyon|CH||a7|3ku|hc|4o|Noviodunum
+Nyamuswa|TZ||h|-5a|2mi|4l
+Nyangao|TZ||h|-sp|314|4j
+Nesvizh|BY||9g|43u|224|4f|Nyasvizh;Nieśwież;Njaswisch;Njasviž;Nyaszvizs;Nesvyžius;Niasviž;Nes’vezh
+Nymburk|CZ||9m|3vf|15s|4e|Neuenberg;Nimburg
+Handlová|SK||8s|3rd|1g4|4d|Nyitrabánya;Mercatoria
+Nerchinsk|RU||67|40e|8zv|4a|Nertsjinsk;Nertschinsk;Nertchinsk;Nerčinsk;Nertxinsk;Nertšinsk;Nyercsinszk;Nertschia;Nerčinskas;Nerczyńsk;Nertjinsk
+Noyon|FR||9k|3tq|8c|47|Noviomum;Noéyon;Nyon
+Uusikaupunki|FI||92|4ow|1nh|44|Nystad;Neostadium;Ūsikaupunki;Nyustad
+Nyakahanga|TZ||h|-4g|2ei|42
+Nynäshamn|SE||9w|4jm|1dv|41|Nineshamnas;Nynäshamm
+Nyzhnya Krynka|UA||98|3pn|2y0|3z|Nyzhnia Krynka;Nyschnja Krynka;Nižņa Krinka;Nõžnja Krõnka;Nyžňa Krynka;Nıjnâ Krınka;Nyżnia Krynka;Nizjnja Krinka
+Nyírbátor|HU||8v|3ov|1ph|3q
+Nyambunwa|KE||16|-1w|2of|3q
+Nybro|SE||9w|4dm|187|3m|Nibru
+Nyazepetrovsk|RU||7z|4bo|4lk|3j|Njazepetrovsk
+Inyonga|TZ||h|-io|2h3|3a|Nyonga
+Nyanguge|TZ||h|-73|2k8|2z
+Nyāmti|IN||6t|13b|5ty|2v|Nyāmati
+Nyurba|RU||7x|4vs|94r|2s|Njurba
+Nyu-York|UA||98|3q9|2x4|2p|Novhorodske;Niu-York;Nju Jork;Novhorodcke;Nju-Jork;Nowhorodske;Nyu York;Niou-Iork;Niu York;Ņujorka;Njoe-Jork;New York;Novgorods’ke;N’yu-York;N’yu-Iork
+Nizhnyaya Poyma|RU||6u|4c0|7i1|2o|Nizjnjaja Pojma;Nischnjaja Poima;Nijnâya Poyma;Nyizsnyaja Pojma
+Nykøbing Mors|DK||8y|4dr|ol|2i
+Nyaung Waing|MM||7y|1ab|7fk|28|Nyaungwaing
+Nyíradony|HU||8v|3oi|1ow|26
+Nyergesújfalu|HU||8v|3oo|1fk|25|Sattelneudorf;Neudorf
+Nykarleby|FI||92|4wg|1ql|23|Uusikaarlepyy;Carolina Nova;Nyukarlebyu
+Nyons|FR||9k|3f8|ea|21|Niom
+Nykvarn|SE|Stockholm|9w|4ke|1cf|21
+Nyrob|RU||7z|4op|4dk|21|Nırob
+Nyyazow|TM||5x|388|4n1|21|Şabat;Shabat
+Nyzhnia Apsha|UA||98|3pc|1u7|20|Nyzhnya Apsha;Nizhna Apsha
+Nyírtelek|HU||8v|3pe|1o3|1z
+Nyack|US||48|365|-5pc|1y
+Nýřany|CZ||9m|3u3|10p|1y|Nürschan
+Hnúšťa|SK||8s|3qx|1jf|1u|Nyustya;Hnūštja
+Nikolayevka|RU|Ulyanovsk|9z|43l|3n5|1s|Nikolajevka;Nikolajewka;Nikolaïevka;Nyikolajevka
+Niemodlin|PL||a5|3wo|1cy|1r|Ņemodlina;Ńymodlin
+Nykvarn|SE|Stockholm|9w|4m4|1eu|1o
+Nyansiongo|KE||16|-24|2p9|1o
+Nizhneangarsk|RU||6k|4az|8ge|1j|Nizjneangarsk;Nischneangarsk;Nižneangarsk;Nižneangarskas;Nijneangarsk;Nyizsnyeangarszk;Niżnieangarsk
+Nýrsko|CZ||9m|3sx|10i|1e
+Nykøbing Sjælland|DK||8y|4bc|wf|1e
+Nyékládháza|HU||8v|3pa|1lv|1d
+Nyanga|ZW||n|-1em|2iz|1d
+Nyírmada|HU||8v|3pj|1po|1b
+Nekhayevskaya|RU||a4|3w1|37z|1b|Nekhayevskiy;Nekhajevskij;Nekhajevskaja;Nechaevskaja;Nyehajevszkaja;Nehayevskaya;Niechajewskaja
+Nyzhni Sirohozy|UA||98|3m5|2nh|1b|Nyjni Sirohozy;Nyschni Sirohosy;Nyžni Sirohozy;Nijni Sirogozi;Nižņi Sirohozi;Nizhni Sirogozi;Nîjni Sirohozî
+Nyuksenitsa|RU||9i|4nt|3ev|17|Njuksenitsa
+Nyíracsád|HU||8v|3o8|1p1|14
+Nyandiwa|KE||16|-20|2mm|14|Nyandhiwa
+Nyva Trudova|UA||98|3ol|2le|14
+Nyírábrány|HU||8v|3o3|1p6|13
+Nyúl|HU||8v|3o7|1d5|12
+Nyáregyháza|HU||8v|3na|1i6|12
+Nyangusu|KE||16|-2l|2os|10|Nyangoso
+Nyan|CI||0|gp|-ad|z
+Nyzhnya Syrovatka|UA||98|3x1|2or|z|Nyzhnia Syrovatka
+Nyírbogát|HU||8v|3os|1pb|x|Nyirbognt
+Nyoroningé|CI||0|rq|-ei|w|Nioroningué
+Nyssa|US||28|3dw|-90z|w
+Nyírpazony|HU||8v|3pa|1ok|w
+Niemcza|PL||a5|3ww|1as|v|Ņemča;Nimptsch;Ńymcza;Niemcz
+Nyzhnye Selyshche|UA||98|3pw|1t5|u
+Nyírbogdány|HU||8v|3pi|1os|u
+Nyírbéltek|HU||8v|3oi|1ph|u|Nyírbetek
+Nyzhni Petrivtsi|UA||98|3pf|1zh|u|Nyzjni Petrivtsi;Nyschni Petriwzi;Piotrowce Dolne;Pătrăuții de Jos;Nyjni Petrivtsi
+Nyírlugos|HU||8v|3oh|1p8|u|Nairlugos
+Veľký Kýr|SK||8s|3pu|1eg|u|Nagy-Kér;Nyitrakér;Nyitranagykér
+Nyampleu|CI||0|ju|-mm|s|Niempleu
+Nyzy|UA|Sumy|98|3x2|2om|s|Nysy;Nizi;Nizy
+Nyírmeggyes|HU||8v|3p4|1pv|s
+Nyzhnii Verbizh|UA||98|3qr|1xg|s|Nyzhniy Verbizh;Nizhniy Verbizh
+Niédiékaha|CI||0|ot|-ee|r|Nyédyékaha
+Nyaung Pin Thar|MM||7y|19t|7f0|r|Nyaungbintha
+Niokosso|CI||0|o5|-lb|q|Nyokoso
+Nyírkarász|HU||8v|3pl|1pe|o
+Nyárlőrinc|HU||8v|3m6|1j8|o
+Nyzhnia Duvanka|UA||98|3tr|2y1|o|Nyzhnya Duvanka;Nyschnja Duwanka;Nižņa Duvanka;Nyjnia Douvanka;Nizhnia Duvanka;Nıjnâ Duvanka;Nyżnia Duwanka;Nîjnea Duvanka
+Nyzhnye|UA||98|3ri|2za|n|Nyzhnie;Nizhneye
+Nyaung Gon|MM||7y|19y|7ee|n|Nyaung Kone;Nyaunggon
+Nyborg|NO||9j|4nz|eu|n
+Nyírcsaholy|HU||8v|3p2|1q2|n
+Nyzhni Vorota|UA||98|3rh|1s6|m
+Nyråd|DK||8y|48t|x8|m|Nyraad
+Nyngan|AU||8l|-2fo|bcv|m
+Nyírtass|HU||8v|3po|1p7|m
+Nyírgyulaj|HU||8v|3p1|1pe|l
+Nyírmártonfalva|HU||8v|3o6|1ou|l
+Nyazura|ZW||n|-1fz|2hd|l|Nyazure
+Nyamanari|GM||7|111|-12j|l
+Nyda|RU||7z|552|5mk|l
+Nyatibo|CI||0|mt|-fy|l|Niatibo
+Nyaung Pin|MM|Yangon|7y|1b0|7fl|k|Nyaungbin
+Nýdek|CZ||9m|3ty|1g4|k
+Nyalas|MY||6v|6r|7wn|k
+Nyírmihálydi|HU||8v|3om|1p0|k
+Nyzhni Stanivtsi|UA||98|3q8|1z1|k|Nyjni Stanivtsi;Stăneștii de Jos
+Nyírvasvári|HU||8v|3ou|1pn|k
+Nyangourala|CI||0|mm|-fx|j|Niangourala
+Nyakouoboué|CI||0|gf|-g2|i
+Nyzhankovychi|UA||98|3u0|1rd|h|Niżankowice;Nyzhankovychy;Nizhankovice;Nizhankovichi
+Nyambadao|YT||ah|-zt|3hk|h
+Nyora|AU||8j|-2yh|b8n|g
+Jois|AT||a2|3p8|1ao|g|Nyulas
+Nyoiseau|FR||9k|3ok|-2k|g
+Nyzhnie Bolotne|UA||98|3q3|1s5|f|Nyzhnye Bolotne
+Nyangbo|CI||0|oh|-ec|f|Niangbo
+Nõo|EE||9x|4hw|21q|f|Nüggen;Neo;Niggen’;Nyo
+Nyaung Chaung|MM||7y|1a7|7fa|f|Nyaunggyaung
+Nyzhnia Viznytsia|UA||98|3qs|1r8|f|Alsóviznice;Vižnice Nižní;Alsó Vizsnitza;Alsó Viznicze
+Nidhríon|GR||8p|2zj|1lj|e|Nydri;Nidrí;Nidhrí
+Nyaungshwe|MM||7y|1le|7h9|d|Yawnghwe;Nyaung Shwe
+New Winthorpes|AG||1j|1bn|-4rp|d|Nyuu Wintrup
+Nyaung Ngoke To|MM||7y|1ah|7f2|d|Nyaungngokto
+Nysted|DK||8y|47v|wl|c
+Nireș|RO||8u|3mv|1um|c|Szásznyíres;Nyíres
+Nimé|CI||0|is|-j5|c|Nyimé
+Nyakhachava|BY||9g|428|1y0|c|Nekhachëvo
+Nyzhnii Bystryi|UA||98|3qc|1td|c|Nyzhniy Bystryy;Nizhniy Bystryy
+Nyaung Pin|MM|Yangon|7y|1a7|7f3|b|Nyaungbin
+Nyzhnii Studenyi|UA||98|3ra|1sw|b|Alsóhidegpatak;Hidegpatak;Nyzhniy Studenyy
+Nyzhnii Dubovets|UA||98|3ps|1ue|b|Nyzhniy Dubovets’;Nizhniy Dubovets
+Neutal|AT||a2|3o3|19p|b|Sopronújlak;Nyujtál;Najtolj
+Nyhammar|SE||9w|4ng|15l|b
+Ruchyi|UA||9t|3j7|2li|a|Nemse Köp Qarı;Kopkary Nimetski;Nyemsye-K'op-Kary;Niemsie-K'op-Kary
+Nýmfes|GR||8p|32g|1iy|a|Nymphes
+Nyrkiv|UA||98|3rl|1z4|a|Nyrków;Nyrkuv;Nyrkov
+Nyaung Ngu|MM||7y|19r|7es|a|Nyaung-ngu
+Nyehorelaye|BY||9g|44x|237|a|Negoreloye
+Nyzhni Synivtsi|UA||98|3pd|20l|a|Sinăuții de Jos
+Nyzhnia Lanna|UA||98|3t6|2pt|a|Nyzhnya Lanna
+Nyland|SE|Västerbotten|9w|502|1lp|9
+Nyimbale|GH||1|s8|-79|9|Nyinbali
+Nyland|SE|Västernorrland|9w|4v1|1dc|9
+Nyzhni Remety|UA||98|3q2|1rf|9|Nizhni Remety
+Nyaung Ta Chan|MM||7y|1bj|7ff|9|Nyaungtachan
+Nyzhnie Solotvyno|UA||98|3qv|1qc|8|Nyzhnye Solotvyno
+Nyzhnii Bulatets|UA||98|3uy|2ji|8|Nyzhniy Bulatets’;Nizhniy Bulatets;Nizhiy Bulatets
+Nyamantougoula|CI||0|ps|-li|8|Niamantougoula
+Nyborg|SE||9w|52q|1sg|8
+Nyzhnii Koropets|UA||98|3qc|1qz|8|Nyzhniy Koropets’;Nizhni Koropets;Nizhniy Koropets
+Nykroppa|SE||9w|4lm|13q|8
+Nyangbagala|CI||0|mz|-g6|7
+Nyzhni Mlyny|UA||98|3tn|2o2|7
+Nyzhni Byriuky|UA||98|3oz|2xr|7|Nizhnyy Byryuky;Nizhnyi Byriuky
+Nyker|DK||8y|496|150|7
+Nyah West|AU||8j|-2pr|b27|7
+Nykirke|NO||9j|4l2|su|7
+Nykyforivka|UA||98|3rh|2xa|6
+Zelen|UA||98|3zl|20t|6|Nyvky;Zelin
+Nymfópetra|GR||8p|351|1st|6|Nimfópetra
+Nyzhnokrynske|UA||98|3oq|2zb|6|Nyzhn’okryns’ke
+Nyanzongo|CI||0|pq|-jo|6|Nianzongo;Nianzango
+Nyzy|UA|Poltava|98|3s9|2la|6|Tereshchenky;Nizi;Nyzhni Plavni;Nizsni Plavni;Nischni Plawni;Nysy;Tereshchenki;Nizy
+Nyondjyé|CI||0|ol|-i0|5|Niondjié
+Nyah|AU||8j|-2pq|b2a|5
+Poiana Aiudului|RO||8u|3ks|1tl|5|Nyírmező
+Nyzhnii Turiv|UA||98|3sd|1rq|5|Nyzhniy Turiv;Nizhniy Turov

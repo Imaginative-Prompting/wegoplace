@@ -1,0 +1,35 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rome|IT||9o|38d|yr|hw5|Roma;Rom;Erroma;Urbs;Romo;Rim;Rhufain;Rooma;An Róimh;Roum;Roeme;Romma;Rzym;Mji wa Roma;Lungsod ng Roma;Råmma
+Rzeszów|PL||a5|3v0|1p4|1j3|Řešov;Resovia;Žešova;Rzeszůw;Žešuv;Jeşuv;Žešuvas;Rjeshov;Rzeshoo
+Rzhev|RU||9i|4ca|2nd|ha|Rschew;Rżew;Rjev;Ržev;Rzjev;Räsevä;Rjov;Rescovia;Rshew
+Rēzekne|LV||9n|4cz|23y|7c|Rzeżyca;Riezeknė;Rēzne;Rositten
+Rzhyshchiv|UA||98|3ut|2e8|28|Rzhishchëv
+Rzepin|PL||a5|41f|157|1t|Reppen;Rypin Lubuski;Žepina
+Rzhaksa|RU||9i|40u|38r|1l|Rzjaksa;Rshaksa
+Rzhanitsa|RU||9i|44f|2m8|1h|Rzjanitsa
+Rzhavki|RU||9i|4bm|2vf|15|Rzjavki
+Rzgów|PL||a5|3zi|1i5|y|Žgova
+Rzyki|PL||a5|3ud|1hw|v
+Rzhavyntsi|UA||98|3qr|20g|v|Rjavinți;Rjavyntsi
+Rzeszotary|PL||a5|3ur|1jh|r
+Rzezawa|PL||a5|3uv|1l0|p|Rzczawa
+Irzniq|XK||8q|3a4|1kj|m|Rznić;Rrznić
+Rząska|PL||a5|3v6|1j5|l
+Rzekuń|PL||a5|43d|1o2|i
+Rzozów|PL||a5|3ur|1j0|g
+Rząśnik|PL||a5|42f|1nd|g
+Rzeczyca|PL|Łódź Voivodeship|a5|3zc|1kd|g
+Rzeczenica|PL||a5|45c|1bj|g
+Rzeczyca|PL|Lublin|a5|40c|1r7|f
+Rzepedź|PL||a5|3t5|1pf|e
+Rzepiennik Strzyżewski|PL||a5|3ud|1mg|d
+Richky|UA|Lviv|98|3vo|1tp|d|Rzyczki;Vydra;Shubary
+Rzeczyca Ziemiańska|PL||a5|3x8|1pm|a
+Rzepin Drugi|PL||a5|3xm|1mo|a
+’Ržaničino|MK||9u|38h|1o3|8|Ržaničano;Ržaničane;R’žaničani;R’žaničino
+Rząśnia|PL||a5|3ya|1gw|7
+Rzepiennik Marciszewski|PL||a5|3uf|1mc|7
+Rzeczniów|PL||a5|3y1|1nk|7
+Rzgów Pierwszy|PL||a5|40v|1e5|6
+Rzepin Pierwszy|PL||a5|3xm|1mk|6
+Rzeczków|PL||a5|3yf|1mi|6

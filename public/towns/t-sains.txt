@@ -1,0 +1,7 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zainsk|RU||9i|49o|40n|bo|Sainsk
+Saynshand|MN||7s|3go|8hw|5j|Sainshand;Sain-Shand;Sain Shanda;Sayn Shanda;Sayn-Shenda
+Sains-en-Gohelle|FR||9k|3w5|7g|1q|Sains-in-Gohelle
+Sains-du-Nord|FR||9k|3v5|b5|u
+Sains-en-Amiénois|FR||9k|3ue|6g|d|Sains-in-Anmiénoé
+Sains-Richaumont|FR||9k|3ue|ab|a

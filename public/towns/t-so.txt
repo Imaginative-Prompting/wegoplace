@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Suzhou|CN|Jiangsu|7i|2ey|9b0|1ftg|Tô Châu;Su-čou;Suĝoŭo;Sû-chû-sṳ;Sudžou;Sutsjou;Suchjou;So͘-chiu-chhī;Sŭ-ciŭ;Szucsou;Su-chou
+Surabaya|ID||6l|-k5|8p7|nac|Soerabaja;Surabaja;Surabaia;Surabajo;Soerabaya;Sourabaya
+Salvador|BR||20|-102|-2yx|kxa|Soteropolis
+Songjiang|CN||7i|2e7|9cq|f87|Sungkiang
+Soweto|ZA||o|-20z|25e|d2u|Sovetas;Soueto;Soveto
+Changde|CN||7i|28n|8ma|b8u|Changteh;Čchang-te;Sòng-tet-sṳ;Čangdė;Thường Đức;Siòng-dáik;Siông-tek-chhī;Ch’ang-te
+South Tangerang|ID||6l|-hh|88g|b13|Tangerang Selatan
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Sofia|BG||9v|3am|1ss|8w6|Ulpia Serdica;Sofio;Sofiya;Sofija;Sofie;Szófia;Serdica;Sofja;Sofya;Sofii;Sóifia;Suofėjė;Sofijo
+Shangrao|CN||7i|271|93m|8m5|Šang-žao;Thượng Nhiêu;Sjangrao;Siông-ngièu;Song-ngièu-sṳ;Siōng-jiâu-chhī;Shang-jao
+Sokoto|NG||u|10a|ek|80w|Sokotas;Socoto
+Sholapur|IN||6t|1d3|5uv|7p1|Solapur
+Donetsk|UA||98|3pe|2x0|6yg|Donezk;Donec'k;Doněck;Donecko;Donjeck;Doneckas;Doņecka;Donietsk;Donețk;Donieck;Donesk;Oleksandrivka;Juzivka;Misto milyona troyand;Misto miliona troiand;Donbas-siti;Shakhtarska stolytsya;Shakhtarska stolytsia;Yuziv;Kalok;Kalhorod;Solov'ianenkove;Solov'yanenkove;Solovyanenkove;Solovianenkove;Iuzivka;Dinetsk;Dinetske;Iuziv;Iuzove;Yuzove;Fornaces;Yuzovo;Donbas City;Yuzov;Aleksandrovka;Iuzovka;Iuzov
+Sulaymaniyah|IQ||5z|2qs|3i7|6rx|Sulaimaniyya;Solimania;Silêmanî;Suleimania;Sulaymaniyya;As-Sulajmanijja;Souleimaniye;Suleimaniya;Süleymaniye;Slemani;Sulejmanija;Sulejmánie;Sulaimaniya;Suleimaniyah
+Soshanguve|ZA||o|-1yr|262|6qb
+Sorocaba|BR||4w|-1ta|-3nu|5vq|Sorokaba
+Suining|CN||7i|2cr|859|52g|Sôi-nìng;Suej-ning;Súi-nèn-sṳ;Toại Ninh;Sūi-lêng-chhī
+Soacha|CO||27|cq|-5q6|51y
+New South Memphis|US||2f|2ph|-6y6|4y8
+Shuangyashan|CN||7i|3lo|a49|4mo|Sĕ̤ng-ák-săng;Šuang-ja-šan;Song Áp Sơn;Siang-ah-san-chhī
+South Boston|US|Massachusetts|48|39l|-5hd|4ep
+Sahiwal|PK|Punjab|6q|2gt|5kx|45j|Sōhiwāl
+Surakarta|ID||6l|-l0|8jv|42d|Soerakarta
+Rajpur Sonarpur|IN||6t|1qc|6tn|39w|Rajpur;Sonarpur;Sonarpur Rajpur
+Seremban|MY||6v|7l|7v6|2vl|Fû-yûng-sṳ;Sungai Ujong;Soghomban;Cirampāṉ
+Soledad|CO||27|uc|-5ro|2n6
+Soledad de Graciano Sánchez|MX||41|1pn|-7se|2k9
+Soyapango|SV||2u|123|-6vm|2jl|Sojapangas;Zoyapanco;Soyopango
+Sochi|RU||9i|3d4|32c|2j0|Sotschi;Soĉi;Sotši;Sotchi;Sotsji;Soczi;Sotji;Ssotschi
+Thessaloníki|GR||8p|34w|1rp|2ga|Salónica;Săruna;Selânik;Thessalonica;Ftohomána;I Protévoussa ton Prosfígon;Salonik;Tesalónica;Þessalóníka;Thessalonique;Saloniki;Solun;Tessalònica;Salonicco;Tesalonîkî;Salonikai;Salonic;Saluniccu;Thessaloníkē;Salonika
+Nghi Sơn|VN||62|1hp|85y|2by
+Solwezi|ZM||z|-xt|21b|2bq|Solvezis;Solwesi
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Surgut|RU|Khanty-Mansia|7z|4q6|5ny|2bg|Soergoet;Sourgout;Surqut;Szurgut
+Grozny|RU||9i|3cb|3ix|2aj|Grosny;Grozni;Grosnij;Grozno;Groznîi;Groznâi;Grosnî;Groznõi;Groznas;Džohar;Džohhar;Sölž-Ghala;Qroznı;Groznıy;Groznij
+Southend-on-Sea|GB||9b|3z6|1z|2a1
+Sonīpat|IN||6t|28j|5xy|28d|Sonepat
+Songea|TZ||h|-to|2r1|27j
+Southampton|GB||9b|3xe|-3w|22y|Hantonne;Hantonia;Sauthemptona;Sauthempton;Sautamptonas;Saŭtamptono

@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Tehran|IR||7o|2r5|3yu|1j71|Teherán;Teherano;Teheranas;Teerão;Tahran;Teerã;Teherāna
+Singapore|SG||7j|3l|80h|17ib|Tumasik;Singapur;Singapour;Singapura;Sîn-kâ-po;Temasek;Dānmǎxī
+New Territories|HK||6i|1qa|8sz|uqp|New Territory Hong Kong
+Taichung|TW||7l|1v3|9b8|lzr|Đài Trung;Teyjong shehiri;Taičungas;Tajĉungo;Thòi-chûng-sṳ;Tchaj-čung;Taizhong;Taychun;Tâi-tiong-chhī
+Daegu|KR||7h|2rn|9x8|i93|Teguo;Taegu;Đại Khâu;Tägu;Tegu
+Tainan|TW||7l|1rv|99x|ebq|Teynen shehiri;Thòi-nàm-sṳ;Tchaj-nan;Tajnan;Đài Nam;Tajnano;Taynam;Tâi-lâm-chhī;Dài-nàng;T’ai-nan
+Chengtangcun|CN||7i|2pg|91j|djv|Tengzhou
+Taizhou|CN|Jiangsu|7i|2i9|993|cef|Taitsjou;Tchaj-čou;Tajĝou;Teyju shehiri;Thái Châu;Thài-chiu-chhī;Tái-ciŭ;T’ai-chou
+Tabriz|IR||7o|2xs|3kl|azq|Tauris;Täbris;Tebriz;Tewrêz;Tebrizas;Tebrīza;Töwriz;Tabrezē;Tabrezion;Tawrēž
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Teni|IN||6t|rt|5z8|7zf|Theni
+Pingdingshan|CN||7i|2lp|8qs|7jz|Pingdingsjan;Pching-ting-šan;Pingdingŝano;Tekshi choqqiliq tagh shehiri;Bình Đỉnh Sơn;Bìng-dīng-săng;Pêng-téng-san-chhī;Pindinshan’;P’ing-ting-shan
+Qiqihar|CN||7i|3ni|9kc|6t4|Cicikar;Tề Tề Cáp Nhĩ;Ĉiĉiharo;Qiqihaer;Čičiharas;Cà̤-cà̤-hăk-ī;Chhè-chhè-hâ-ngì-sṳ;Qiqiha’er;Jijihaer
+Teresina|BR||2w|-e5|-3aw|6pz|Theresina;Therezina;Terezina
+Tegucigalpa|HN||56|134|-6q9|6kc|Tegucigalpo;Teguzigalpa;Tegusigalpa;Tequsiqalpa;Tegousigoualpa;Teuctzincalpan;Tegusigalp
+Deyang|CN||7i|2eh|81y|5o7|Dáik-iòng;Te-jang;Đức Dương;Tek-iông-chhī;Te-yang;Deyan
+Washington|US|District of Columbia|48|302|-5y0|5bj|Vasingtonia;Waszyngton;Vašingtonas;Territory of Columbia;District of Columbia;Vaŝingtono
+Dezhou|CN||7i|2w1|8z9|58r|Detsjou;Te-čou;Đức Châu;Dáik-ciŭ;Deĝoŭ;Tek-chiu-chhī;Te-chou
+Tabuk|SA||7e|26w|2tl|55a|Tebük;Tabuuk;Tabouk
+Puducherry|IN||6t|x5|65r|52k|Territoire de Pondichéry;Pondichéry;Pondicherry;Pondiĉero;Pondicherri;Pondichéri;Puducherri;Poudhucherry;Ponducherry
+Tucson|US||4i|2hi|-8k5|46q|Tuksonas;Tūsona;Takson;Tuson;Tugson;Tuison;Lucson;Teuson;Fucson;Tuczon
+Thembisa|ZA||o|-208|26f|3y5|Tembisa
+Tieling|CN||7i|39h|9k0|3js|T’ieh-ling;T’e-ling
+Tel Aviv|IL||6n|2h4|2om|3c9|Tel-Avivo;Tel Awiw;Tel-Aviv;Telavivum;Telaviva;Tel Eviv;Tel Avėvs
+Kuala Terengganu|MY||6v|et|7yi|3ah|Kvala Terenganu;Kuala Trengganu
+Tirana|AL||9y|36t|1j2|389|Tiranë;Tirano;Tiran;Tiorána;Theranda;Tiran-a;Tėrana
+Tétouan|MA||d|2qu|-ex|37i|Tetuán;Tetuano;Tetuanas;Tetuão
+Kampung Kangkar Teberau|MY||6v|49|807|36k
+Antakya|TR||94|2sl|2sg|32u|Antioquía;Antioch;Antiochia am Orontes;Antiohija;Antiochie;Antiokia;Antiochia;Antiochia di Siria;Antiochia vid Orontes;Antioche;Teopolis;Antakiya;Antiokheia;Antākiyyah;Anţākiyah
+Wellington|NZ||ak|-36p|dhi|2y3|Welintòn;Whanga-nui-a-Tara;Vellinqton;Weolingtūn;Velingtono;Velingtonas;Velingtona;Vellingtonia;Ueligitone;Te Whanga-nui-a-Tara;Wellinton;Hiê-lìng-dóng;Vellington
+Tete|MZ||11|-18w|2lb|2r6|Vila-de-Santiago-Maior
+Tarsus|TR||94|2uk|2ox|2pf|Tarso;Tars;Tarse;Tersus;Tarsas;Tarsos;Tarsous
+Temara|MA||d|2m9|-j7|2n3
+Tepic|MX|Nayarit|3x|1nr|-83d|2kh|Tepikas;Tepik
+Thessaloníki|GR||8p|34w|1rp|2ga|Salónica;Săruna;Selânik;Thessalonica;Ftohomána;I Protévoussa ton Prosfígon;Salonik;Tesalónica;Þessalóníka;Thessalonique;Saloniki;Solun;Tessalònica;Salonicco;Tesalonîkî;Salonikai;Salonic;Saluniccu;Thessaloníkē;Salonika
+Tegal|ID||6l|-j3|8f6|2ak
+Rufisque|SN||g|14w|-1bz|2a3|Rufisko;Riufiskas;Tëngéej;Riufiska
+Santa Teresa del Tuy|VE||2c|sf|-556|25h
+Los Teques|VE||2c|sr|-568|1y2|Los Tekesas;Los-Tekes

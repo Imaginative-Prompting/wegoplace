@@ -1,0 +1,399 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Hermosillo|MX|Sonora|37|28t|-8k9|69m|Pitic;Hermosiljas
+Herāt|AF||6o|2nf|4ss|4fj|Gerat
+Heroica Matamoros|MX||3w|1zw|-7iu|3xv|Matamoros
+Jerez de la Frontera|ES||9d|2tx|-h2|1n5|Jerez;Ĥerezo;Xérès;Cheres de la Frontera;Xeresium;Xerez de la Frontera;Jarez de la Frontera
+Khūy|IR||7o|2z3|3gv|1j8|Khoy;Her;Khoi;Khowy;Khvoy
+Ciudad de Las Heras|AR||1q|-2j9|-5b8|1gj
+Herne|DE||8r|3z6|k3|1bt
+'s-Hertogenbosch|NL||8m|3zm|eq|18o|Bois-le-Duc;Bolduque;Boscoducale;De Bosk;Oeteldonk;Hertogenbosch;Herzogenbusch;Den Bosch;Silva Ducis
+Ereğli|TR|Konya|94|2w7|2ml|17f|Heraclea;Heraclea Minoa;Heracleia Minoa;Herakleia
+Irákleion|GR||8p|2q5|1xu|124|Iraklio;Heraklion;Heraclión;Herákleion;Iraklion;Iráclio;Kandiye;Iraklija;Heraclião;Càndia;Candie;Iraclion;Irákleio;Ērakleion
+Sibiu|RO||8u|3j8|1v3|11b|Hermannstadt;Härmeschtat;Nagyszeben;Sybin;Szeben;Cibinium;Hermanştat;Hermestatt;Sibiň;Nagy-Szében
+Würzburg|DE||8r|3ub|rn|115|Wurtzbourg;Herbipolis;Wurtzburgo;Würzbörj;Wiazburg;Viurcburgas;Vircburga;Herbopolis;Virtibriga;Wirciburc
+Dos Hermanas|ES||9d|2vk|-gg|y5
+Heroica Guaymas|MX||37|25k|-8k2|wl|Guaymas
+Herzliya|IL||6n|2hd|2or|ut|Hertsliyah;Herseliya;Herzlia B;Herzlia;Hertseliyya;Herzliyya;Lungsod ng Herẕliyya;Herclijja;Hertsliyya;Hervlia;Hervlia B
+Harlow|GB||9b|3zu|b|px|Harlou;Harlov;Herlaua
+Ereğli|TR|Zonguldak Province|94|36o|2fa|oo|Heraclea;Erekli;Heraklea
+Hastings|NZ||ak|-324|dn9|oj|Heretaunga
+Heroica Ciudad de Juchitán de Zaragoza|MX||41|19n|-7by|oj|Juchitán de Zaragoza;Juchitán;Xochitlan Zaragoza
+Heróica Zitácuaro|MX||41|1i0|-7qs|nf
+Kherson|UA||98|3lk|2il|ic|Cherson;Ĥersono;Herson;H’erson;Chersonas;Jersón;Herszon;Hersona;Xerson;Chersone;Chersonia
+Herten|DE||8r|3zc|ju|i5|Hiätten;Hėritono
+Herford|DE||8r|40r|o3|i1|Hiarwede
+Hereford|GB||9b|40m|-7j|gs|Henffordd
+Heroica Caborca|MX||37|2dc|-8nk|gn|Caborca
+Hernals|AT||a2|3pz|19b|fz
+Hermanus|ZA||o|-2nm|1hf|fl
+Hervey Bay|AU||8c|-1y9|bsd|ei
+Herning|DK||8y|4by|oy|e2
+Herzogenrath|DE||8r|3xb|gx|d6|Roa
+Heerenveen|NL||8m|434|gg|bz|It Hearrenfean;Hereveen
+Geraldton|AU||8k|-27y|8ud|aq|Heraldton
+Hermitage|US|Tennessee|2f|2sk|-6om|ai
+Herstal|BE||8t|3wq|fm|a5|Hesta;Heristalium
+Herrenberg|DE|Baden-Wurttemberg|8r|3r0|on|9i|Herrenberq
+Hermosa|PH||71|157|9ar|9d
+Ḩarir|IQ||5z|2tj|3f7|8y|Herîr
+Herriman|US||2p|34j|-8n7|8k|Heriman
+Kokopo|PG||bd|-c2|bqz|7b|Herbertshöhe
+Herttoniemi|FI||92|4n7|1xk|78|Hertonäs;Hertsu;Herttuaniemi;Hertunes;Härtonäs
+Herentals|BE||8t|3y6|df|77|Herenthals
+Hertford|GB||9b|3zw|-8|76|Heortford
+Herdecke|DE||8r|3ys|ko|74
+Hercules|US||3p|2xm|-9fp|71|Herkulo
+Hervanta|FI||92|4qp|1u9|70
+Herblay-sur-Seine|FR||9k|3s3|61|70
+Härnösand|SE||9w|4tz|1du|6y|Hernusando;Hernosandia;Herniosandas
+Herne Bay|GB||9b|3yp|35|6x
+Herndon|US||48|309|-5yz|6u
+Hérouville-Saint-Clair|FR||9k|3sp|-v|6r|Hérouville Saint-Clair
+Herzogenaurach|DE||8r|3tp|u9|6q
+El Hermel|LB||64|2nj|2t2|67|Hermel
+Heredia|CR||2i|rs|-6ho|63|Heredija;Heridia
+Herval dOeste|BR||4w|-23j|-3z1|61|Herval d'Oeste
+Herborn|DE|Hesse|8r|3ws|n2|5p
+Hernani|ES||9d|3c7|-5i|5m
+Hermosa Beach|US||3p|2m2|-94w|5j
+Herceg Novi|ME||9l|39x|1fi|5f|Castelnuovo di Cattaro;Herceg-Novi;Ercegnovi
+Herent|BE||8t|3xf|cz|5c
+Harmanli|BG||9v|38h|1zy|59|Hermanli;Harmanly;Harmanlü
+Erémankono|CI|Goh-Djiboua|0|gh|-dy|54|Hermankono
+Heroica Ciudad de Tlaxiaco|MX||41|1bz|-7jc|4v
+Hermiston|US||3p|3jc|-97d|4s
+Hermsdorf|DE|State of Berlin|8r|425|10z|4n
+Herve|BE||8t|3wo|g3|4l|Herf
+Herzele|BE||8t|3xd|at|4l
+Pohjois-Hervanta|FI||92|4qp|1u9|4h|Hervanta pohjoinen
+Hermitage|US|Pennsylvania|48|36j|-67h|4g
+Herisau|CH||a7|3nn|ps|4d|Hērizava;Herisan
+Les Herbiers|FR||9k|3m7|-2u|4d|Herbiers
+Hernando|US|Mississippi|2f|2oq|-6xz|4b
+Hereford|US|Texas|2f|2oq|-7wg|46|Herefoid
+Hershey|US|Pennsylvania|48|33x|-5wx|3z|Herşi
+Herselt|BE||8t|3xt|dk|3r|Hersselt
+Herbrechtingen|DE||8r|3r2|sa|3n
+Herāt|IR||7o|2bh|471|3m
+Herrin|US||2f|2x0|-6vb|3l
+Herzberg am Harz|DE||8r|3zi|sq|3k|Hertzberga ad Harthicos montes;Esperanto-Urbo
+Hersbruck|DE||8r|3tj|vr|3g
+Heroica Villa de San Blas Atempa|MX||41|19d|-7cj|3c|San Blas Atempa
+Herk-de-Stad|BE||8t|3xi|ed|38|Herck-la-Ville;Herk
+Hervanta luode|FI||92|4qp|1u8|37
+Ermoúpolis|GR||8p|2w0|1xa|36|Ermoupoli;Syra;Hermupolis
+Hertzogville|ZA||o|-265|1yu|35
+Herzberg|DE|Brandenburg|8r|3zl|10q|32
+Héricourt|FR||9k|3o5|is|32
+Ciechocinek|PL||a5|42w|1g8|30|Cehocineka;Hermannsbad
+Herīs|IR||7o|2y9|3mw|2x|Harīs
+Hernando|AR||1n|-2i3|-4x1|2x
+Herxheim am Berg|DE||8r|3tj|mq|2w
+Herrsching am Ammersee|DE||8r|3pc|v2|2s
+Herzliya Pituah|IL||6n|2hd|2oo|2s|Herzliya Pituach
+Heroica Ciudad de Ejutla de Crespo|MX||41|1a1|-7gp|2p
+Hermantown|US||2f|3m1|-748|2p
+Herbolzheim|DE||8r|3py|lm|2o|Herbolshaym
+Herttoniemenranta|FI||92|4n7|1xk|2m|Hertonäs strand
+Etelä-Hervanta|FI||92|4qo|1ua|2k|Hervanta etelä
+Herculândia|BR||4w|-1p4|-3vz|2j|Herculânia
+Hernando|US|Florida|48|28a|-6ct|2j
+Herseaux|BE||8t|3ww|8y|2i
+Hermannsburg|DE||8r|42r|s1|2e
+Herrenhausen|DE||8r|41j|qy|2c
+Herrenberg|DE|Thuringia|8r|3xk|us|28
+Herveo|CO||27|e4|-5su|27|Herbeo
+Herencia|ES||9d|31d|-9c|27
+Hermsdorf|DE|Thuringia|8r|3xe|wy|26
+Herrieden|DE||8r|3ss|t6|26
+Herscheid|DE||8r|3y6|li|25
+Herkimer|US||48|3bj|-5sb|23
+Hermoso Campo|AR||1n|-24p|-4qe|22
+Heroldsberg|DE||8r|3tl|v0|22
+Harqalah|TN||1e|2s3|t7|22|Hergla;Herkla
+Hervanta lounas|FI||92|4qo|1u8|21
+Heritage Park|CA||59|3cq|-67g|21
+Herdorf|DE||8r|3x2|m3|20
+Heringen|DE|Hesse|8r|3xd|rt|1z
+Hriňová|SK||8s|3qy|1i9|1y|Herencsvölgy;Hrinjova
+Hersin-Coupigny|FR||9k|3w5|7d|1u
+Hermanni|FI||92|4n7|1xd|1t|Hermanstad
+Herne|BE||8t|3ww|b7|1t
+Herrera|ES||9d|2vs|-dh|1q|Herrer
+Herval|BR||4w|-2gy|-44c|1q|Erval
+Băile Herculane|RO||8u|3go|1q9|1o|Herkulesfürdő;Beile Herkulanė;Băile Erculane;Baile Herkulane
+Saint-Tropez|FR||9k|3c7|ig|1n|Sant Tropetz;Heraclea Cacabaris
+Hermeskeil|DE||8r|3ty|ja|1l
+Cavalaire-sur-Mer|FR||9k|3bx|i5|1l|Cavalaira;Heraclea Cacabaria;Cavalaira de Mar;Cavalaire
+Berbeşti|RO|Vâlcea County|8u|3gy|1uc|1k|Herbeşti
+Heron Bay|CA||43|3pe|-54g|1j|Baie-des-Hérons
+Herzogenbuchsee|CH||a7|3n3|lf|1j
+Hergiswil|CH||a7|3mi|n3|1i|Hergensvilis
+Herbstein|DE||8r|3wg|pz|1g
+Heroldsbach|DE||8r|3u1|uk|1f
+Herrliberg|CH||a7|3nd|nx|1e
+Heritage Park|AU||8c|-24w|bt6|1d
+Hermon|US||48|3gh|-5bf|1d
+Herbertingen|DE||8r|3pj|q7|1d
+Herrmannshöhe|DE||8r|415|t6|1d
+Heřmanův Městec|CZ||9m|3ur|17i|1c|Heřmanměstetz;Hermannstädtel;Hermannstadt
+Heritage|CA||4q|3w5|-82k|1c
+Hērūr|IN||6t|11a|5rm|1c
+Herbignac|FR||9k|3nt|-6g|1b|Erbigneg
+'s-Heerenberg|NL||8m|404|he|1b|Herenbergas
+Heritage Mountain|CA||5b|3sx|-9h7|1b
+Hervanta koillinen|FI||92|4qq|1ua|1a
+Herserange|FR||9k|3tk|g3|18
+Herrlisheim|FR||9k|3rd|lz|18
+Hœrdt|FR||9k|3ra|lm|17|Hördt;Herdt
+Hărman|RO||8u|3j0|1zc|17|Szászhermány;Herman
+Héron|BE||8t|3wf|e6|17
+Herricks|US||48|358|-5on|17
+Héric|FR||9k|3np|-4l|17|Hierig
+La Herradura|ES||9d|2u1|-ae|16|Herradura
+Eraclea|IT||9o|3im|z7|15|Heraclia
+Hérimoncourt|FR||9k|3ns|j4|15
+Herzlake|DE||8r|42d|l4|14
+Hérin|FR||9k|3vw|9l|14
+Herrljunga|SE||9w|4hc|107|14
+Heritage Hills|US|New York|48|36u|-5oq|14
+Herenthout|BE||8t|3y2|d8|13
+Herculaneum|US||2f|2yb|-6z2|13
+Herkenbosch|NL||8m|3y3|gu|13
+Hergnies|FR||9k|3w7|9t|13|Hergines
+Hermée|BE||8t|3wv|fm|13
+Hércules|MX||44|25w|-80b|13
+Ures municipality|MX||37|29r|-8in|13|Opština Ures;Heroica Ciudad de Ures
+Hervás|ES||9d|33v|-gb|12|Ervás
+Heritage Village|US||48|379|-5ng|11
+Hernád|HU||8v|3n0|1hz|11
+Hereclean|RO||8u|3n9|1ry|11
+Herrera del Duque|ES||9d|30t|-e1|10
+Herukka|FI||92|50u|1yk|10
+Hernádnémeti|HU||8v|3pj|1ma|z
+Herend|HU||8v|3mx|1db|y|Herrendorf
+Hermit Park|AU||8c|-1hl|bbs|y
+Herne Hill|AU|Victoria|8j|-2xx|b4w|y
+Fertőd|HU||8v|3oa|1av|y|Eszterháza;Herceško
+Herten|NL||8m|3y6|gk|x
+Herdwangen-Schönach|DE||8r|3ox|pk|w
+Herleshausen|DE||8r|3xp|s9|w
+Hermiswil|CH||a7|3m3|ks|w
+Herbsleben|DE||8r|3y0|u3|v
+Hersilia|AR||1n|-2bc|-4rs|u
+Herston|AU||8c|-248|bt2|u
+Herzogenburg|AT||a2|3q4|17l|u
+Heritage Lake|US|Indiana|38|32d|-6ov|t
+Héricy|FR||9k|3ql|7o|s
+Herrnhut|DE||8r|3xq|14y|s|Ochranow;Hernhūte
+Herring Cove|CA||35|3ft|-4wl|s
+Wąsosz|PL|Lower Silesia|a5|3z8|1ad|s|Herrnstadt;Vonsoša
+Hermanville-sur-Mer|FR||9k|3sw|-w|s
+Herrischried|DE||8r|3of|m8|s
+Hergenrath|BE||8t|3wv|gr|r
+Hernández|MX|San Luis Potosí|41|1rz|-7vg|r
+Herald Harbor|US||48|30h|-5wp|q
+Hermalle-sous-Argenteau|BE||8t|3wv|fs|q
+Herveiras|BR||4w|-29p|-429|q
+Herdersem|BE||8t|3xl|bb|p
+Heretaunga|NZ|Wellington Region|ak|-36b|di7|p
+Heretaunga|NZ|Wellington Region|ak|-36a|di6|p
+La Ermita|HN||56|147|-6pv|p|Hermita;Ermita
+Herchies|BE||8t|3wd|aq|p
+Herrera de Pisuerga|ES||9d|3ab|-c1|o
+Herby|PL||a5|3wz|1gh|o
+Herrestad|SE||9w|4i6|154|o
+Heringen|DE|Thuringia|8r|3yx|u8|o
+Hermes|FR||9k|3t4|68|o
+Herington|US||2f|2zf|-7ha|o|Herrington
+Hermann|US||2f|2zi|-720|o
+Herpen|NL||8m|3zt|fo|o
+Herradura|AR||1n|-21l|-4hz|n
+Hercegszántó|HU||8v|3jn|1gm|n|Santovo
+Hermenegildo J. Aldana|MX||41|1e1|-7at|n
+Herwijnen|NL||8m|3zz|e9|n
+Hernando Beach|US||48|273|-6dm|n
+Hermaringen|DE||8r|3r0|si|n
+La Herradura|MX|San Luis Potosí|41|1rz|-7un|m|Herradura
+Herrera|PH||71|10v|9ja|m
+Hermigua|ES||83|269|-1br|m|Hermigva
+Hérébo|CI||0|m3|-8i|m|Erébo
+Hernani|PH||71|vh|9oy|m
+Hermitage|GB||9b|3yy|-3j|m
+Hertford|US||48|2sj|-5wf|l|Hartford
+Hermansverk|NO||9j|4py|j1|l
+Heritage Pines|US||48|26z|-6di|l
+Herăști|RO||8u|3et|218|l
+Hertsa|UA||98|3pr|20y|l|Herța
+Heroyiv Mariupolya|UA||98|3sd|2ku|l|Heroiv Mariupolia;Heroiv Mariupolya;Brest;Mikrorayon Brest;Mikroraion Brest;Heroiv Bresta;Heroyiv Bresta
+Heritage Pointe|CA||2s|3x8|-8so|l
+Heriberto Valdez Romero (El Guayabo)|MX||3x|202|-8f6|l
+Herlies|FR||9k|3wi|7x|l
+Heréd|HU||8v|3oj|1ij|k
+Hertsberge|BE||8t|3xz|93|k|Hertsberghe
+Herbitzheim|FR||9k|3s6|jo|j|Herzum
+Harbke|DE||8r|40z|up|j|Hertbiki
+Hervanta kaakko|FI||92|4qp|1ub|j
+Hermenegildo Galeana 2da. Sección|MX||41|1eh|-76q|j
+Hervantajärvi|FI||92|4qo|1ub|i
+Héry|FR||9k|3p2|a3|i
+Hernández|AR||1n|-2hu|-4mr|i
+Heřmanova Huť|CZ||9m|3u3|10e|i|Hermannshütte
+Herbert|AU||8e|-yt|a4c|i
+Hergisdorf|DE||8r|3z5|vw|i
+Hérinnes|BE||8t|3wu|9c|i
+Santa Adelaida|MX||3w|1zt|-7ja|i|Hermenegildo de la Cruz
+Heroyske|UA|Crimea|9t|3he|2lr|h|Herois'ke;Heroys'ke
+Hermersberg|DE||8r|3t0|l7|h|Hermerschberch
+Hergensweiler|DE||8r|3oa|r6|h
+Herttoniemen yritysalue|FI||92|4n7|1xk|h|Herttoniemen teollisuusalue
+Héroes de Chapultepec (Rodeo de San Antonio)|MX||41|1kf|-7ty|h
+Herrán|CO||27|kv|-5lc|g
+Hermsdorf|DE|Saxony-Anhalt|8r|40z|vw|g
+Herrlisheim-près-Colmar|FR||9k|3pe|kd|g
+Herderen|BE||8t|3x5|fh|g
+Herbeumont|BE||8t|3ua|ek|g|Arbûmont
+Herrera|AR||1n|-2i3|-4iv|g
+Herscher|US||2f|361|-6sq|g
+Hérépian|FR||9k|3d3|8n|g
+Hermagor|AT||a2|3lj|115|f
+Heritage Lake|US|Illinois|2f|34n|-6w5|f
+Hernádkak|HU||8v|3pl|1m8|f
+Hermalle-sous-Huy|BE||8t|3wg|ew|f
+Ercé-près-Liffré|FR||9k|3q2|-48|f|Herzieg-Liverieg;Herceium prope Gahardum;Ercée-près Liffré
+Herne Hill|AU|Western Australia|8k|-2gf|8ya|f
+Héroumbili|KM||ac|-w2|3ci|f|Iroumbili
+Gargar|AM||80|35s|3fg|e|Hay Gerger;Herher;Gyargyar;Haykakan Gyargyar;Hayots Gyargyar;Karkar;Haygyargyar
+Terre Hill|US||48|33k|-5v9|e|Herrehill
+Herschweiler-Pettersheim|DE||8r|3tg|kf|e
+Hérouxville|CA||59|3ln|-5lr|d
+Hérémence|CH||a7|3ka|kk|d
+Herzeele|FR||9k|3xd|72|d
+Herla|RO||8u|3ns|209|d
+H̱erut|IL||6n|2hk|2oz|d
+Herre|NO||9j|4k6|qk|d
+Herálec|CZ|Vysocina|9m|3u1|18f|d|Heraletz
+Herolds Bay|ZA||o|-2ml|1q8|d
+Ercé-en-Lamée|FR||9k|3ov|-4c|d|Herzieg-Mez
+Hermonville|FR||9k|3t2|av|d
+Herbeys|FR||9k|3he|g3|c|Herbey
+Hermanos Cedillo|MX||41|1bx|-7at|c|Poblado Dos A
+Herink|CZ||9m|3ut|14h|c
+Herald|US||3p|2ye|-9cs|c
+Herbault|FR||9k|3o9|36|c
+Hérouvillette|FR||9k|3sq|-o|c
+Herlitzka|AR||1n|-24l|-4hu|c
+Hermies|FR||9k|3v7|8g|c
+Hermenegildo Galeana|MX|Chiapas|3z|177|-76d|c
+Héroes de Chapultepec|MX||41|18n|-74d|c|El Limón
+Herstmonceux|GB||9b|3xd|w|b|Hurstmonceaux;Hurstmonceux
+Herdsmans Cove|AU||8g|-3ar|bd2|b
+Herfelingen|BE||8t|3wz|be|b|Herffelinghen
+Hermanivka|UA||98|3uv|2cw|b|Germanovka;Krasne-2
+Heringsdorf|DE||8r|46u|ul|b
+Herrngiersdorf|DE||8r|3rj|xj|b
+Herálec|CZ|Vysocina|9m|3tl|16y|b|Heraletz
+Heritage Creek|US||3k|2xw|-6m4|b|Minor Lane Heights
+Hermenegildo Galeana|MX|Chiapas|41|1a2|-77c|b
+Herzhorn|DE||8r|45f|qc|b
+Herculian|RO||8u|3k5|1zf|a
+Heretsried|DE||8r|3qm|tu|a
+Hermenegildo Galeana|MX|Puebla|41|1eq|-7ki|a
+Hertník|SK||8s|3sp|1n0|a
+Hermsdorf|DE|Saxony|8r|3xg|125|a
+Herry|FR||9k|3n6|87|a
+Herschdorf|DE||8r|3wv|w2|a
+Herforst|DE||8r|3ur|im|a
+Herrstein|DE||8r|3ua|kd|a
+H̱erev Le’Et|IL||6n|2i0|2p0|a|Herev Laet
+Herpf|DE||8r|3wi|sp|a
+Hermance|CH||a7|3km|hc|a|Armentia
+Heršpice|CZ||9m|3sg|1az|a|Herspitz
+Herberton|AU||8c|-1c9|b7u|9
+Hernandez|US||2p|2s6|-86s|9
+Herrnbaumgarten|AT||a2|3ra|1ac|9
+Hermenegildo Galeana|MX|Tabasco|41|1d5|-76c|9|Tercera Sección
+Khersónisos|GR||8p|2q3|1yh|9|Hersonissos;Chersoniso
+Herschberg|DE||8r|3sz|kz|9
+Hermsdorf|DE|Brandenburg|8r|40w|12c|9
+Hereford|US|Pennsylvania|48|34d|-5tv|9
+Heritage Crossing|US||48|316|-5wv|9
+Herdern|CH||a7|3o8|or|9
+Hermeziu|RO||8u|3ns|24j|9
+Héricourt-en-Caux|FR||9k|3u2|1y|9
+Hercegovac|HR||a6|3iu|1b9|9
+Herm|FR||9k|3dp|-36|9
+Heriberto Jara|MX||3x|1mh|-82c|8|La Haciendita
+Iraío|GR||8p|2wm|22o|8|Ireon;Heraion
+Herskind|DK||8y|4c2|rp|8
+Héry-sur-Alby|FR||9k|3j8|gp|8
+Hériménil|FR||9k|3qx|i2|8
+Heroica San Martín de los Cansecos|MX||41|1aa|-7gp|8
+Herbsheim|FR||9k|3qb|l7|8
+Herrenhof|DE||8r|3x8|tp|8
+Hermitage|US|Arkansas|2f|2kx|-741|8
+Hermival-les-Vaux|FR||9k|3sl|s|8
+Hrpelje|SI||9a|3ip|12q|8|Erpelle;Herpelje
+Herminie|US||48|33u|-65g|8
+Herón Proal|MX||41|1gt|-7ey|8
+Herbert|CA||4q|3w3|-89u|8
+Hermenegildo Galeana|MX|Veracruz|41|1ku|-7hw|8|La Galeana
+Herxheim|DE||8r|3sj|mt|8
+Héroes de la Independencia|MX||58|2ft|-8xx|8
+Herwen|NL||8m|405|gy|8
+Henriville|FR||9k|3se|j2|7|Herrchweiler
+Herberts|AG||1j|1bh|-4rp|7|Herbat
+Herzberg|DE|Brandenburg|8r|42y|101|7
+Hérisson|FR||9k|3l7|7j|7
+Herpt|NL||8m|3zp|ec|7
+Heritage Hills|US|Colorado|2p|31u|-83c|7
+Hermenegildo Galeana|MX|Chiapas|41|1c3|-72z|7
+Hertain|BE||8t|3wl|95|7
+Hernen|NL||8m|3zz|fs|7
+Rtyně nad Bílinou|CZ||9m|3wk|12n|7|Hertine
+Hermanville|US||2f|2gs|-70c|7
+Herriko Plaza|ES||9d|3bt|-7q|7|Castillo-Elejabeitia;Plaza de Castillo-Elejabeitia
+Herešin|HR||a6|3ka|1av|7
+Heron Lake|US||2f|3dn|-7cs|7
+Héroes de la Revolución|MX||41|1k2|-7uj|7
+Heřmaničky|CZ||9m|3tt|14i|7
+Hershey|US|Nebraska|2f|36c|-7sk|7
+Hernández|MX|Puebla|41|1h1|-7jo|7
+Héroes del Cinco de Mayo|MX||41|1j2|-7j4|7
+Herbstadt|DE||8r|3vt|t6|7
+Herrera de los Navarros|ES||9d|36h|-30|6
+Herbay Bajo|PE||3o|-10h|-5w8|6
+Heron Springs|CA||43|3jt|-554|6
+Herchies|FR||9k|3th|5l|6
+Heroyske|UA|Kherson|98|3l7|2gl|6|Heroys’ke;Heroiske;Prohnoi;Prohnoivsk;Prohnoyivsk;Prohnoyi;Prochnoyi;Prognoy;Prognoi
+Hermannsburg|AU||8e|-1uj|a8u|6
+Jerzmanowa|PL||a5|3zc|18l|6|Hermsdorf
+Heriot Bay|CA||5b|3v6|-9nt|6
+Herher|AM||80|32i|3ii|6
+Hermosillo|MX|Chiapas|41|15n|-744|6
+Hermé|FR||9k|3qo|9b|6
+Herbetswil|CH||a7|3ne|l3|6
+Herrengosserstedt|DE||8r|3y2|vw|6
+Heroico Batallón de San Blas|MX||3x|1ov|-844|6
+Hermillon|FR||9k|3hu|ho|6
+Hermiltepec|MX||41|1gr|-7qt|6|Peña Blanca
+Hérouville|FR||9k|3se|5x|6
+Harveysburg|US||48|31q|-6hd|6|Herveysburg
+Herendești|RO||8u|3it|1oq|6|Herendjest;Herendiest
+Hermeton-sur-Meuse|BE||8t|3vg|de|6
+Héroes Mexicanos|MX||3x|1zl|-8e3|5
+Herculano de la Rocha|MX||3x|1z7|-8cv|5
+Herbyné|UA||98|3pu|2am|5
+Heriberto Jara (La Presa)|MX||41|1jb|-7rg|5
+El Herradón|ES||9d|34o|-co|5|Herradón
+Herborn|DE|Rheinland-Pfalz|8r|3u9|ka|5
+Herreruela de Oropesa|ES||9d|32t|-ek|5
+Herchweiler|DE||8r|3tj|k9|5|Herchwei
+Héroe de Nacozari|MX||44|1uq|-81y|5
+Hervartov|SK||8s|3st|1mx|5
+Héréouèdouo|CI||0|r2|-8u|5
+Herzogsdorf|AT||a2|3qj|137|5
+Hermenegildo Galeana (Chiveros)|MX||41|1do|-74v|5
+Hernán-Pérez|ES||9d|33p|-hy|5
+Hérissart|FR||9k|3uz|6q|5

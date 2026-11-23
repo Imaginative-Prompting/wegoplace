@@ -1,0 +1,176 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Sydney|AU||8l|-2m3|bo1|17ic|Sidnejo;Sidney;Sidnėjus;Sydneium;Sidneja;Sanctus Dionysius;Syd;Sidni;Sėdniejos;Sit-nì;Sék-nà̤;Sidnei
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Seeb|OM||72|1tr|4hn|3mt|Síb;Szíb;Sybas;As Sib;As-Sib;Al-Sīb
+Bacolod City|PH||71|tn|9hj|3id|Bacolod;Ciudad ti Bacolod;Lungsod ng Bacolod;Dakbayan sa Bacolod;Syudad han Bacolod;Bacoloo City;Baclod City
+Shyamnagar|IN||6t|1rf|6th|3es|Shamnagar;Syāmnagar
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Ciudad Bolívar|VE||2c|mk|-4wj|36m|Bolívar;Ziudá Bolívar;Bolívar llaqta;Siudad Bolivaras;Syudad Bolívar;Syudad-Bolivar
+Simferopol|UA||9t|3gw|2mr|2lh|Symferopol;Sinferopoli;Akmescit;Aqmescit;Szimferopol;Sympheropolis;Sinferòpol;Aq Mečit;Oqmasjid
+Ciudad del Este|PY||1y|-1yu|-47t|2bu|Siudad del Estė;Sjudad Del Este;Syudad del Este;Kota del Este;Bandar del Este
+Syktyvkar|RU||9i|4ra|3x6|1w3|Syktywkar;Sõktõvkar;Siktivkar;Siktifkar;Sziktivkar;Siktivkara
+Sylhet|BD||6a|1x6|737|1tu|Silôţ;Silhatas;Srihotto;Szilhet;Silhet;Sileţ;Silhatta
+Syzran|RU||9p|43o|3qn|1gl|Sysran;Sizranj
+Sidon|LB||64|2l8|2q9|19g|Sydon;Saida;Sayda;Cidono;Sidó;Sidun;Szidón
+Sykhiv|UA|Lviv|98|3ub|1uu|15z
+Syracuse|US|New York|48|3bl|-5vj|141|Sirakuso;Siracusa;Syracusae;Sirakuz
+Sibiu|RO||8u|3j8|1v3|11b|Hermannstadt;Härmeschtat;Nagyszeben;Sybin;Szeben;Cibinium;Hermanştat;Hermestatt;Sibiň;Nagy-Szében
+Nablus|PS||6g|2hi|2px|107|Naplusa;Siquem;Sychem;Shechem;Sichem;Naplouse;Flavia Neapolis;Sihhem;Napouse;Schechem;Sykhem;Shekhem;Nabulus
+Siracusa|IT||9o|2v0|16h|xs|Syracuse;Syrakuzy;Syrakus;Syrakusy;Sirakuzo;Syrakusa;Syracusae;Siracuza;Sarausa;Sirakuze;Siraküza;Sirakuz;Siracuxa;Sioracús;Sirakūzas;Sirakūzai;Sirakusa
+Cavite City|PH||71|148|9bu|w7|Cavite;Dakbayan sa Cavite;Bandar Cavite;Ciudad ti Cavite;Cavite Lakanbalen;Lungsod ng Kabite;Syudad han Cavite;Siyudad na Cavite;Kavite
+Sirte|LY||1d|2ep|1a3|tn|Syrte;Syrta;Surt;Surtän;Surtiän;Sirto;Surtas;Szurt;Sirta;Siirtee;Sirt;Sert
+Sydney|CA||2x|3k6|-4n6|tg|Shidni;Baile Shidni;Sidnėjus;Sidneja;Sidney
+Šiauliai|LT||a3|4bd|1ss|rn|Šauļi;Szawle;Ŝjaulaj;Şyaulyay;Shawllay;Šiaulē;Shyaulyay;Shaulyay;Šiaulių
+Siverskodonetsk|UA||98|3ry|2yx|rj|Syeverodonets'k;Syevyerodonets’k;Sievierodonetsk;Sjevjerodoneck;Severodonjeck;Sjewjerodonezk;Sziverszkodoneck;Szjevjerodoneck;Severodonetsk
+Shibata|JP||7q|2xf|ar1|qq|Syibata;Sibata-chhī;sibata
+Shimada|JP|Shizuoka|7q|2oq|anu|ql|Syimada;Simada-chhī
+Tagbilaran City|PH||71|qu|9k1|o0|Tagbilaran;Dakbayan sa Tagbilaran;Syudad han Tagbilaran;City of Tagbilaran
+Sylmar|US||3p|2nb|-951|m4
+Thanhlyin|MM||7y|1am|7fd|lv|Syriam
+Siemianowice Śląskie|PL||a5|3vt|1gv|kb|Semjanovice Slonske;Śymjanowicy;Silezijos Semianovicai
+Calbayog City|PH||71|xj|9m4|iv|Calbayog;Dakbayan sa Calbayog;Syudad san Calbayog
+Belize City|BZ||24|1cm|-6t0|i4|Ciudad de Belice;Belizas;Belize-stad;Belize;Thành phố Belize;Dinas Belize;Altepetl Belice;Belizurbo;Syudad han Belize;Cidade de Belize;Kota Belize;Bandaraya Belize;Belize Ceety;Beliz;Belice
+Syrets|UA||98|3w8|2ck|co
+Sykiés|GR||8p|34x|1rr|ci
+Shinshiro|JP||7q|2oy|aly|cc|Syinsyiro;Sinsiro-chhī
+Sestroretsk|RU||9i|4my|2b8|ac|Systerbäck;Siestarjoki;Sestroreck;Sestroreckas;Sestrorețk;Sestrorjeck;Sestrorecka;Systerpekki;Sestrorezk;Siestrorieck
+Sinop|TR||94|38r|2po|9o|Synopa;Sınob
+Shōbara|JP||7q|2ot|a9i|9c|Syôbara-chhī
+Synelnykove|UA||98|3q8|2qp|8i|Sineljnikove;Synelnykowe
+Sirdaryo|UZ||7m|35g|5aq|80|Syrdarya;Sirderya;Syrdar’ya;Ssyr-Darja
+Sønderborg|DK||8y|48j|r7|7q|Sonderburg;Synneborre;Sionderborgas;Soenderborg
+Syracuse|US|Utah|2p|365|-8na|7m|Syracusae
+Sydney Central Business District|AU||8l|-2m2|bo1|75|Sydney CBD;Inner West
+Syke|DE||8r|42z|oi|6r
+Sysert’|RU||7z|4cy|4oy|63|Sysert
+Shimoda|JP|Shizuoka|7q|2oc|apy|5y|Ŝimoda;Syimoda;Simoda-chhī
+Sidney|US|Ohio|48|33w|-6hs|5t|Sydney
+Sürmene|TR||94|35n|33h|5k|Syurmene
+Sylvania|US|Ohio|48|37w|-6gj|5a
+Syosset|US||48|35f|-5o6|58
+Sycamore|US|Illinois|2f|38n|-6ud|4x
+Sylvan Lake|CA||2s|41b|-8sw|4v
+Syas’stroy|RU||9i|4n2|2ih|3p|Siasstroj;Säsjoki;Säs'joki
+Sylacauga|US||2f|2k5|-6nl|3j|Syllacauga;Sylacogga
+Sydney Mines|CA||2x|3kg|-4na|3g|Mèinnean Baile Shidni
+Szydłowiec|PL||a5|3yb|1ly|3d|Šydlovecas;Šydloviéc;Šidloveca
+Syston|GB||9b|42c|-2z|37
+Ermoúpolis|GR||8p|2w0|1xa|36|Ermoupoli;Syra;Hermupolis
+Syeverne|UA||98|3pm|2zg|35|Sieverne
+Syców|PL||a5|3yj|1d8|30|Sicova;Sycůw
+Sydenham|AU|Victoria|8j|-2wq|b65|2y
+Sylvania|AU||8l|-2mh|bnq|2w
+Shyroke|UA|Dnipropetrovsk|98|3oh|2ke|2o|Chyroké;Schyroke;Sjyroke;Široke;Shiroke;Šyroke;Szyroke;Xiroke
+Zymohirya|UA||98|3qz|306|2o|Zîmohiria;Zimogiria;Zımogirya;Zymohirja;Symohirja;Zymohiria;Zimohorja;Zimohirja
+Sychëvka|RU|Smolensk Oblast|9i|4b3|2n8|2d|Sytsjevka
+Sylva|RU|Perm Krai|7z|4h7|4dp|25
+Sevsk|RU||9i|40v|2nt|24|Sewsk;Syevsk
+Senno|BY||9g|489|2ai|1y|Syanno;Sienno;Sianno;Syenno
+Synyoozernyi Masyv|UA||98|3wb|2ch|1r
+Sydenham|NZ||ak|-3cz|dbk|1q
+Silvianópolis|BR||4w|-1p7|-3jb|1q|Sylvianopolis
+Sylvester|US||48|2fl|-6gw|1o
+Syumsi|RU||9p|4en|3zd|1k|Siumsi
+Syenitsa|BY||9g|45j|24h|1e|Senitsa
+Synevyr|UA||98|3qp|1tm|1a|Alsószinevér
+Sykesville|US|Maryland|48|31d|-5xt|18|Sykes Mill
+Syvaske|UA||98|3kv|2nz|16|Rozhdestvenskyy
+Syrtych|RU||9i|387|3pz|16|Sirtitsj
+Syamzha|RU||9i|4mq|362|13|Siamzja
+Syava|RU||9i|4h5|3ko|12|Siava
+Saint Columb Major|GB||9b|3w3|-dq|11|Saint Columb;St. Columb;St Columb;Synt Colom Veur;Synt Colom Gwartha
+Zyryanka|RU||6z|52m|bn5|10|Syrjanka;Zyrjanka;Zyrianka;Zirjanka;Zırânka;Zõrjanka
+Sydenham|CA|Ontario|59|3ev|-5wh|10
+Syrskoye|RU||9i|421|31t|z|Syrskaya
+Sysmä|FI||92|4qu|1zc|y
+Sydenham|CA|Ontario|59|3ft|-68g|w
+Shypyntsi|UA||98|3qe|1zj|w|Șipeniț;Sjypyntsi;Schypynzi;Szypynci;Şypyntsi;Shipentsi
+Syrynia|PL||a5|3uy|1ez|v
+Sylvania Waters|AU||8l|-2mi|bnr|v
+Sychëvo|RU|Moscow Oblast|9i|48y|2zj|u
+Sychëvo|RU|Moscow Oblast|9i|4bg|2sn|t|Sytsjevo
+Syracuse|US|Indiana|38|373|-6m7|t
+Voznesen’ye|RU||9i|4ph|2qk|r|Voznesenje;Syvärinniska;Vozneseniye
+Sylva|US||48|2q9|-6f7|q
+Siedove|UA||98|3ms|2xz|q|Syedove;Sedowo;Sedove;Sedovo;Sedova
+Sylvania|US|Georgia|48|2iz|-6as|p
+Sými|GR||8p|2tq|25c|o|Sími;Syme
+Sykoúrio|GR||8p|32g|1qq|n|Sikoúrion
+Sydney Olympic Park|AU||8l|-2m1|bnn|n
+Sykiá|GR|Central Macedonia|8p|338|1ui|n|Sarto;Sikiá
+Isles of Scilly|GB||9b|3up|-hi|m|Syllan;Enesek Syllan
+Sytkivtsi|UA||98|3rv|294|m
+Sychëvka|RU|Altai Krai|63|40l|6ji|m|Sytsjevka;Sychovka
+Syrovice|CZ||9m|3sc|19z|l
+Syracuse|US|Nebraska|2f|34y|-7f7|k
+Siurte|UA||98|3qq|1pr|j|Szurte;Syurte
+Sylvania|US|Alabama|2f|2o0|-6md|j
+Syntul|RU||9i|48s|36q|i|Syntu
+Shyrokolanivka|UA||98|3n1|2fb|i|Sjyrokolanivka;Schyrokolaniwka;Širokolaņivka;Šyrokolanivka;Shirokolanivka;Szyrokołaniwka;Shirokolanovka
+Sylvan Lake|US||2q|3ad|-6fh|i
+Symoniv|UA||98|3wh|21z|i|Symonuv
+Syrau|DE||8r|3we|xk|i
+Sychavka|UA||98|3lk|2ee|h
+Shyāmnagar|BD||6a|1sk|6vr|h|Syāmnagar
+Syniukhyn Brid|UA||98|3pq|2dm|h|Synioukhyn Brid;Synyukhyn Brid
+Syracuse|US|Kansas|2p|2xi|-7un|h
+Syrotyne|UA|Luhansk|98|3rw|2yz|g
+Sizyy Bugor|RU||8o|3kd|3qq|g|Sizyj Bugor;Syzyy Bugor
+Syrove|UA||98|3p2|2cm|g|Syrovo
+Sylvan Springs|US||2f|2l4|-6pp|f
+Syomkava|BY||9g|461|248|f|Sëmkovo
+Synoikismós Chavaríou|GR||8p|2x6|1nf|f
+Senovo|BG||9v|3d9|219|f|Syenovo;Senowo;Senevo
+Syburg|DE||8r|3yv|kt|e
+Synevyrska Poliana|UA||98|3qy|1tt|e
+Sylva|RU|Sverdlovsk Oblast|7z|4f7|4j9|d
+Sypniewo|PL|Greater Poland|a5|44j|1a5|d
+Sypniewo|PL|Kujawsko-Pomorskie|a5|449|1c5|d
+Shosanbetsu|JP||7q|3fp|axt|c|Syosanbetu;Shosambetsu
+Syrostan|RU||7z|48y|4me|c
+Syfteland|NO||9j|4nc|f5|c
+Sykesville|US|Pennsylvania|48|361|-62y|b
+Sydenham|AU|New South Wales|8l|-2m8|bnx|b
+Sywell|GB||9b|41a|-28|b
+Sydney Forks|CA||2x|3jy|-4ni|b
+Sienré|CI||0|r9|-gu|b|Syenré
+Sylvan Beach|US|New York|48|39y|-5y7|b
+Symington|GB|Scotland|9b|4ab|-co|b
+Sypaldouo|CI||0|pg|-87|a
+Sionfan|CI||0|r7|-h9|a|Syonfan
+Synya|RU||9i|51l|4h8|a|Synja;Syna
+Svir'stroy|RU||9i|4ow|2lo|a|Svirstroj;Syvärin voimala;Syväri kraftverk
+Sývota|GR||8p|31h|1k9|a|Sívota
+Sylivainiótika|GR||8p|2y0|1q1|a|Silivainiótika
+Sykámino|GR||8p|2ye|1tx|9|Sikáminos;Sikáminon
+Svir|BY||9g|48d|21c|9|Svieriai;Syväri;Süvär;Świr
+Sylvan Beach|US|New York|48|3c0|-5ud|9|Sylvanbeach
+Sycamore|US|Ohio|48|35r|-6f1|8
+Syracuse|US|Ohio|48|30c|-6bp|8
+Sykiá|GR|Peloponnese|8p|2u4|1rq|8|Sykéa;Sikéa
+Symbister|GB||9b|4nm|-2u|8
+Siren|US||2f|3j7|-74m|8|Syren
+Sylta|SE|Västmanland|9w|4ld|18e|8
+Sylta|SE|Stockholm|9w|4l8|1d8|8
+Symington|GB|Scotland|9b|4ag|-a0|8
+Syalyets|BY||9g|423|1x3|8
+Synookivka|UA||98|3u5|2hi|7|Syn’ookivka
+Siabry|UA||98|3k3|2in|7|Novorosiys’ke;Novorosiiske;Syabry;Novorossiysk
+Syresham|GB||9b|40n|-30|7
+Syren|LU||9c|3to|ha|7|Siren
+Sykhiv|UA|Lviv|98|3sp|1ur|7|Sykhov
+Syzës|AL||9y|35e|1j2|7|Syzez
+Syapsya|RU||9i|4s0|2kr|7|Säpsä;Säpsy
+Sycamore|US|Georgia|48|2fz|-6gc|7
+Sycamore Hills|US||2f|2zi|-6yz|7
+Syunik|AM||80|30w|3l3|6|Syuniq;Sünik
+Symonston|AU||8l|-2q7|bic|6
+Symsonia|US||2f|2uk|-6tw|6
+Syvik|NO||9j|4tr|hi|6|Sövik
+Sianky|UA||98|3s7|1rm|6|Syanky;Sjanky;Sjanki;Sianki;Seankî;Syanki
+Syrotyne|UA|Luhansk|98|3v1|2yd|6
+Sykiáda|GR||8p|2yu|20k|6|Sikiádha
+Sylvan|US||2f|3cm|-6zr|5
+Sylling|NO||9j|4md|sl|5
+Sylda|DE||8r|3zk|vr|5

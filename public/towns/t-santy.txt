@@ -1,0 +1,17 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Santiago de Cuba|CU||36|1jm|-5um|4af|Santiago de Kubo;Santiago di Cuba;Kubos Santjagas;Santyago de Kuba;Santyaqo de Kuba
+Santyoku|KR||7h|2w0|9yt|bp|Samcheok;Sanchoku;Samch’ŏk
+Saint-Jean-de-Boiseau|FR||9k|3n3|-4s|1d|Sant-Yann-ar-Granneg
+Saint-Joachim|FR||9k|3nm|-64|15|Sant-Yoasin
+Saint-Jouan-des-Guérets|FR||9k|3r0|-5h|r|Sant-Yowan-an-Havreg
+Saint-Jean-Brévelay|FR||9k|3ox|-7k|q|Sant-Yann-Brevele;Saint-Jean-Brévalay
+Saint-Jacut-les-Pins|FR||9k|3oh|-65|h|Sant-Yagu-ar-Bineg;Sanctus Iacutus Pinis
+Saint-Jean-la-Poterie|FR||9k|3oc|-5x|f|Sant-Yann-ar-Wern
+Saint-Just|FR|Brittany|9k|3op|-5g|a|Sant-Yust
+Saint-Jean-sur-Couesnon|FR||9k|3q5|-3t|a|Sant-Yann-ar-C'houenon
+Saint-Jean-sur-Vilaine|FR||9k|3po|-3s|a|Sant-Yann-ar-Gwilen
+Saint-Jacut-de-la-Mer|FR||9k|3r0|-63|9|Sant-Yagu-an-Enez;Sanctus Iacutus de Insula
+Saint-Jean-Trolimon|FR||9k|3oz|-bw|9|Sant-Yann-Drolimon
+Saint-Jacut-du-Mené|FR||9k|3q4|-6w|7|Sant-Yagu-ar-Menez
+Saint-Jean-du-Doigt|FR||9k|3ra|-ah|7|Sant-Yann-ar-Biz
+Saint-Juvat|FR||9k|3qb|-5o|6|Sant-Yuvad

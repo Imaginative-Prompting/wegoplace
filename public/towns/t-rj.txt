@@ -1,0 +1,10 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Ryazan’|RU||9i|47r|32a|45q|Riazań;Rjasan;Ryazan;Rjazaň;Resania;Rjazanj
+Rzeszów|PL||a5|3v0|1p4|1j3|Řešov;Resovia;Žešova;Rzeszůw;Žešuv;Jeşuv;Žešuvas;Rjeshov;Rzeshoo
+Reutov|RU||9i|4aw|2x6|ls|Reutow;Reoutov;Rieutow;Rjeutow
+Rzhev|RU||9i|4ca|2nd|ha|Rschew;Rżew;Rjev;Ržev;Rzjev;Räsevä;Rjov;Rescovia;Rshew
+Ryazhsk|RU||9i|457|33c|64|Rjazjsk;Rjaschsk;Riazhsk;Riajsk;Rjažsk;Rjaĵsk
+Ryazanskaya|RU||9i|3gw|31z|1g|Rjazanskaja;Riazánskaya;Riazanskaia;Rayazanskaya;Ryazanskoye
+Rjukan|NO||9j|4mc|nv|10
+Ryabovo|RU||9i|4l0|2eh|x|Rjabovo;Rääpyä
+Rzhavyntsi|UA||98|3qr|20g|v|Rjavinți;Rjavyntsi

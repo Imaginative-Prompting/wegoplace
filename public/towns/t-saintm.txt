@@ -1,0 +1,267 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Saint-Marc|HT||4j|1h3|-5ly|222
+Saint-Michel de l'Atalaye|HT||4j|1ht|-5kx|qg|Sen Michèl Latalay;Saint Michel de L’Attaiaye
+Saint-Maur-des-Fossés|FR||9k|3rj|6x|ky|Saint-Maur-les-Fossés
+Saint-Michel|CA||59|3il|-5oi|fo
+Saint-Malo|FR||9k|3r5|-5l|e3|Sant-Maloù;Saint Mâlo;Maclovium;Sen Malo;St-Malo;Senmalo
+Saint-Martin-d'Hères|FR||9k|3hi|g0|9v
+Saint-Médard-en-Jalles|FR||9k|3gq|-20|89|Sent Medard de Jalas
+Saint-Mandé|FR||9k|3ro|6q|5x|Sanctus Mandetus;Sant Manden
+Saint-Michel-sur-Orge|FR||9k|3r3|6f|5s
+St. Marys|US||48|2dd|-6aj|50|Saint Marys;Saint Mary;Saint Mary's
+Saint Matthews|US|Kentucky|3k|2y9|-6ly|4v|St. Matthews
+Saint Michael|US||2f|3hl|-786|4k|St. Michael
+Saint-Maximin-la-Sainte-Baume|FR||9k|3cp|ga|48|Sant Maissemin de la Santa Bauma;Sant Maissimin
+Saint-Maurice|FR|Île-de-France|9k|3rm|6r|3z
+Sainte-Maxime|FR||9k|3cb|ig|3s|Santa Maxima;Saint-Maxine
+Saint Marys|US|Pennsylvania|48|373|-628|3n
+Saint-Martin-Boulogne|FR||9k|3wx|4i|3g|Sint-Martiny-lés-Boulonne
+Sint-Michiels|BE||8t|3y7|8x|3f|Saint-Michel-lez-Bruges
+Saint-Mauront|FR||9k|3cc|ey|3c
+Saint-Martin-de-Crau|FR||9k|3d8|dd|38|Sant Martin de Crau
+Saint-Max|FR||9k|3ra|h9|33
+Saint-Marcel|FR|Provence-Alpes-Côte d'Azur|9k|3c9|f7|2v
+Saint-Maurice|FR|Provence-Alpes-Côte d'Azur|9k|3dg|k6|2q
+Saint Marys|US|Ohio|48|34m|-6if|2b|St. Marys
+Saint-Mitre|FR||9k|3cf|f2|29
+Saint Martin|US||2f|2ck|-6uv|25
+Saint-Marcellin|FR||9k|3hf|es|24
+St. Marys|CA||59|3c5|-69d|22|Saint Marys
+Saint-Mandrier-sur-Mer|FR||9k|3bo|gh|1y|Sant Mandrier;Sant Mandrier de Mar;Saint-Mandrier
+Saint Martinville|US||2f|2bp|-733|1p|St. Martinville;Saint Martinsville
+Saint-Macaire-en-Mauges|FR||9k|3mw|-2r|1o
+Saint-Memmie|FR||9k|3rz|c6|1m
+Saint-Mitre-les-Remparts|FR||9k|3cq|dx|1m|Sant Mitre;Sant Mitre dei Barris;Saint-Mitre
+Saint-Martin-le-Vinoux|FR||9k|3hk|fw|1k
+Saint-Mihiel|FR||9k|3rt|ff|1h
+Saint-Marcel|FR|Normandy|9k|3se|41|1h
+Saint-Martin-des-Champs|FR|Brittany|9k|3qy|-ap|1e|Sant-Martin-war-ar-Maez
+St. Moritz|CH||a7|3l6|rc|1e|Sankt Moritz;Sankta Maŭrico;Saint-Moritz;São Moritz;Saint Moritz;San Murezzan;Sankt Murezzan
+Saint-Marcel|FR|Bourgogne-Franche-Comté|9k|3lx|dl|1c
+Saint-Martin-de-Valgalgues|FR||9k|3eo|bc|1b
+San Marino|SM||9q|3e2|yl|19|Saint-Marin;São Marino;San-Marino;San Marinas;Sità de San Marin;Ville de Saint-Marin;San Marins;Cathair San Mairíne;Sen Maren;Civitas Sancti Marini;Sanmarīno;Sant Marin;Sità ëd San Marin
+Saint-Mathieu-de-Tréviers|FR||9k|3dl|aq|19|Sant Matiu;Sant Matieu de Trevièrs
+Saint-Marcel-lès-Valence|FR||9k|3gx|dr|18
+Saint-Maurice-de-Beynost|FR||9k|3jb|du|18
+Saint-Martin-de-Seignanx|FR||9k|3cy|-3v|17|Sent Martin de Senhans;Saint-Martin-de-Seignaux
+Saint-Méen-le-Grand|FR||9k|3pv|-63|14|Sant-Meven;Sanctus Mevennus;Saint-Méen
+Saint-Mars-du-Désert|FR||9k|3nk|-3x|14|Sant-Marzh-an-Dezerzh
+Saint-Martin-au-Laërt|FR||9k|3wz|68|13
+Sankt Michaelisdonn|DE||8r|45y|pc|12|Saint Michaelisdonn;St. Michaelisdonn
+Saint-Mard|FR|Île-de-France|9k|3s8|7i|12
+Saint-Maurice|CH||a7|3ke|jg|11|San Mauricio;Sent-Môris;Agaunum
+Saint-Martin-en-Haut|FR||9k|3iu|co|11|Saint-Martin-d'en-Haut
+Saint-Michel|FR|Hauts-de-France|9k|3uo|bh|z
+Saint-Martin-la-Plaine|FR||9k|3ij|cs|z
+Saint-Marcellin-en-Forez|FR||9k|3ie|bl|y|Sant Marcelin dau Pònt
+Saint-Michel-Chef-Chef|FR||9k|3n2|-60|y|Sant-Mikael-Keveger;Chemicherium
+Saint-Mammès|FR||9k|3qe|7u|y
+Saint-Malo-de-Guersac|FR||9k|3nj|-62|y|Sant-Maloù-Gwersac'h;Sant-Maloù-Gwersach
+Saint-Maur|FR||9k|3m1|4k|y
+Saint-Méloir-des-Ondes|FR||9k|3r4|-5a|x|Sant-Meleg;Saint Meloir des Ondres
+Saint-Martin-de-Belleville|FR||9k|3i2|i3|w
+Saint-Michel-de-Maurienne|FR||9k|3hm|hz|w
+Saint-Michel|FR|New Aquitaine|9k|3is|b|v
+Saint-Mard|BE||8t|3tn|fd|t
+Saint-Molf|FR||9k|3nn|-6r|t|Sant-Molf;Sanctus Madulfus
+Saint Martins|NZ||ak|-3d0|dbl|t
+Saint-Martin-de-Ré|FR||9k|3kc|-3t|s
+Saint-Médard-d'Eyrans|FR||9k|3g8|-1g|r
+Saint-Maximin|FR|Hauts-de-France|9k|3sq|6t|r
+Saint Marys|US|Kansas|2f|30v|-7ev|q|St. Marys
+Saint-Martin-le-Beau|FR||9k|3nk|2j|q
+Sint-Michielsgestel|NL||8m|3zg|ev|q|Saint-Michel-Gestel
+Saint-Martin-du-Tertre|FR|Île-de-France|9k|3sf|6j|p
+Saint-Mars-la-Brière|FR||9k|3pf|11|o
+Saint Maries|US||3p|3nf|-8zs|o|St. Maries
+Saint-Marcel-d'Ardèche|FR||9k|3f5|cu|o|Saint-Marcel-dArdèche
+Saint-Mars-la-Jaille|FR||9k|3o1|-3a|o|Sant-Marzh-an-Olivenn
+Saint-Mars-de-Coutais|FR||9k|3mv|-4u|o|Sant-Marzh-ar-C'hoad;Sant-Marzh-ar-Choad
+Saint-Marc-des-Carrières|CA||59|3lo|-5k5|o
+Saint-Mathurin-sur-Loire|FR||9k|3np|-w|o|Saint-Mathurin
+Saint Marys|US|Kansas|2f|2wr|-7j8|n
+Saint-Martin-du-Var|FR||9k|3dq|jz|n
+Saint-Mars-d'Outillé|FR||9k|3oz|x|m
+Saint Maurice|IT||9o|3j0|k6|m
+Saint-Martin-des-Champs|FR|Normandy|9k|3r7|-3p|m
+Saint-Médard-de-Guizières|FR||9k|3h2|-6|m
+Saint-Martin-des-Noyers|FR||9k|3ls|-3a|l
+Saint-Maurice-de-Gourdans|FR||9k|3ja|ef|l|Saint-Maurice-de-Gourdan
+Saint-Martin-d'Auxigny|FR||9k|3n4|6q|l
+Saint-Martin-de-Londres|FR||9k|3dn|ad|l
+Saint Marys Bay|NZ||ak|-2uc|dhe|l
+Saint-Michel-Mont-Mercure|FR||9k|3m3|-2g|l
+Saint-Melaine-sur-Aubance|FR||9k|3nl|-1e|l
+Saint-Menet|FR||9k|3c9|fa|l
+Saint Matthews|US|South Carolina|48|2li|-68e|k|St. Matthews
+Saint-Michel-sur-Meurthe|FR||9k|3q8|j5|k
+Saint-Martin-de-Fontenay|FR||9k|3sg|-11|k
+Saint-Martin-Bellevue|FR||9k|3jo|h4|j
+Saint-Maurice-de-Lignon|FR||9k|3hm|bi|j
+Saint-Mesmin|FR|Pays de la Loire|9k|3lz|-21|j
+Saint-Mathieu|CA||59|3hw|-5o8|j
+Saint Marys|US|West Virginia|48|31f|-69l|j|St. Marys;Saint Mary's
+Saint-Martin-en-Bresse|FR||9k|3m2|e2|i
+Saint-Macaire|FR||9k|3ft|-m|i
+Saint-Marcel|FR|Centre-Val de Loire|9k|3lg|47|h
+St Mary's|GB||9b|3uo|-hi|h|Saint Mary's;Ennor;St. Mary's
+Saint-Manvieu|FR||9k|3sm|-1e|g
+Saint-Médard-de-Mussidan|FR||9k|3h4|z|g
+Saint-Martin-de-Boscherville|FR||9k|3tc|2o|f
+Saint-Martin-du-Vivier|FR||9k|3tf|39|f
+Saint-Maurice-sur-Moselle|FR||9k|3oy|iy|f|Sen Moris sur Mozelis
+Saint-Martin-du-Tertre|FR|Bourgogne-Franche-Comté|9k|3py|92|f
+Saint-Martin-Longueau|FR||9k|3t2|78|f
+Saint-Martin-du-Manoir|FR||9k|3tl|o|f
+Saint-Martin-du-Fouilloux|FR||9k|3nr|-1y|f
+Saint Michaels|US|Arizona|2p|2r0|-8f2|e
+Saint-Maurice-Montcouronne|FR||9k|3qy|5x|e
+Saint-Martin-du-Mont|FR||9k|3k2|et|e
+Saint-Maixant|FR||9k|3fu|-q|e
+Saint-Marc|BE||8t|3w9|dh|e
+Saint-Manvieu-Norrey|FR||9k|3sm|-1e|e
+Saint-Majorique-de-Grantham|CA||59|3jl|-5lm|e
+Saint-Martin-sur-Oust|FR||9k|3on|-69|e|Sant-Varzhin-an-Oud
+Saint-Martin-de-Valamas|FR||9k|3gu|c5|e
+Saint-Marcel-sur-Aude|FR||9k|3c5|85|e
+Saint-Mamet-la-Salvetat|FR||9k|3gm|6f|e
+Saint-Mathurin|FR||9k|3lc|-4r|e
+Saint-Martin-Vésubie|FR||9k|3ef|k6|d|San Martino Lantosca;Sant Martin de Lantosca;Sant Martin de Vesubiá;Fanum Sancti Martini Lantuscanorum;Saint-Martin-de-Vésubie
+Saint-Michel-le-Cloucq|FR||9k|3l4|-23|d
+Saint-Maurice-en-Gourgois|FR||9k|3i4|bm|d|Sant Maurise de Gorgós
+Saint-Malô-du-Bois|FR||9k|3md|-2i|d
+Saint-Mariens|FR||9k|3hc|-14|d
+Saint-Martin-de-Landelles|FR||9k|3qv|-39|d|Saint-Martin-de-Landelle;Saint-Martin-Landelles
+Saint-Médard-sur-Ille|FR||9k|3q3|-4m|c|Sant-Marzh-an-Il
+Saint-Marcel-lès-Annonay|FR||9k|3ht|cv|c|Sant Marcèu dAnonai;Sant Marcel lès Annonay
+Saint Monans|GB||9b|4c5|-7p|c
+Saint-Martin-sur-Ocre|FR||9k|3oe|7e|c
+Saint-Martin-Lacaussade|FR||9k|3hf|-1s|c
+Saint-Martin-de-Nigelles|FR||9k|3r1|4h|c
+Saint-Marc-le-Blanc|FR||9k|3qc|-3x|c|Sant-Mezar-Elvinieg
+Saint-Mamert-du-Gard|FR||9k|3dx|bn|c
+Saint-Marcel-lès-Sauzet|FR||9k|3fw|dd|c
+Saint-Mathieu|FR||9k|3iz|24|c
+Saint-Morillon|FR||9k|3g1|-1e|c
+Saint-Martin sous Mouzeuil|FR||9k|3l2|-2r|c|Saint-Martin-sous-Mouzeuil
+Saint-Martin-Belle-Roche|FR||9k|3ku|di|c
+Saint-Maxire|FR||9k|3kw|-1c|c
+Saint-Martin-du-Frêne|FR||9k|3k6|ff|b|Saint-Martin-du-Fresne
+Saint-Michel-l'Observatoire|FR||9k|3dz|fw|b|Sant Miquèu de l'Observatòri;Saint-Michel-lObservatoire
+Saint Martins|US||2f|2z7|-74i|b|St. Martins;Saint Martin
+Saint-Même-le-Tenu|FR||9k|3mm|-4z|b|Sant-Masen-ar-Porzh
+Saint-Martin-de-la-Place|FR||9k|3ng|-f|b
+Saint-Marc-Jaumegarde|FR||9k|3cz|fc|b|Sant Marc dAis;Sant Marc de Jaumegarda
+Saint-Michel-des-Saints|CA||59|3lo|-5pc|b
+Saint-Martin-de-Hinx|FR||9k|3d2|-3j|b|Sent Martin de Hins
+Saint-Martin-des-Besaces|FR||9k|3s5|-2c|b
+Saint-Maurice-sur-Fessard|FR||9k|3pb|7a|b
+Saint-Même-les-Carrières|FR||9k|3is|-e|b
+Saint-Maurice-la-Clouère|FR||9k|3ku|15|b
+Saint-Michel-du-Squatec|CA||59|3p0|-5aw|b
+Saint-Mexant|FR||9k|3ht|4m|b
+Saint-Martin-Osmonville|FR||9k|3tw|3m|b|Saint-Martin-Omonville
+Saint-Maurice-la-Souterraine|FR||9k|3kd|3z|b
+Saint-Menges|FR||9k|3u6|dp|a
+Saint Michaels|US|Maryland|48|2zr|-5vq|a|St. Michaels
+Saint-Martin-en-Campagne|FR||9k|3us|3e|a
+Saint-Martin-Lalande|FR||9k|3ca|5m|a
+Saint-Martin-de-Queyrières|FR||9k|3gi|ia|a|Sant Martin de Cairiera
+Saint-Martin-le-Nœud|FR||9k|3t8|5q|a
+Saint-Martory|FR||9k|3bu|2l|a
+Saint-Marcel|FR|Brittany|9k|3os|-6q|a|Sant-Marc'hell
+Saint-Maurice-des-Lions|FR||9k|3jo|1y|a|Sent Maurzís
+Saint-Martin-la-Sauveté|FR||9k|3jb|aw|9
+Saint-Martin-de-la-Lieue|FR||9k|3sf|m|9
+Saint Marcel|IT||9o|3j1|kp|9
+Saint-Mard|FR|New Aquitaine|9k|3k1|-1z|9
+Saint-Menoux|FR||9k|3le|8s|9
+Saint-Martin-Valmeroux|FR||9k|3hc|6r|9
+Saint-Martin-sur-le-Pré|FR||9k|3s2|c2|9
+Saint-Martin-de-Sanzay|FR||9k|3ms|-k|9
+Saint-Martin-d'Estréaux|FR||9k|3kc|ak|9
+Saint-Martin-de-Fraigneau|FR||9k|3kz|-23|9
+Saint-Magne|FR||9k|3fp|-1u|9
+Saint-Martin-des-Tilleuls|FR||9k|3mh|-2x|9
+Saint-Martin-de-Saint-Maixent|FR||9k|3kw|-j|9
+Saint-Médard-en-Forez|FR||9k|3io|c4|9
+Saint-Mesmin|FR|Grand Est|9k|3qk|aw|8
+Saint-Maurice-sur-Aveyron|FR||9k|3ox|85|8
+Saint-Martin-Lestra|FR||9k|3j0|c3|8
+Saint-Martin-en-Bière|FR||9k|3qk|75|8
+Saint-Martial-de-Valette|FR||9k|3ig|1t|8|Sent Marçau de Valeta
+Saint-Méard-de-Gurçon|FR||9k|3gr|i|8
+Saint-Mars-la-Réorthe|FR||9k|3m6|-2l|8
+Saint-Martin-la-Garenne|FR||9k|3s8|4p|8
+Saint-Mards-de-Blacarville|FR||9k|3t5|1g|8
+Saint Mary-of-the-Woods|US||38|31r|-6qz|8|St. Mary-of-the-Woods
+Saint-Maurice|FR|Auvergne-Rhône-Alpes|9k|3iv|90|8|Saint Maurice es Allier
+Saint-Martin-le-Vieux|FR||9k|3j2|34|8
+Saint-Michel-sur-Rhône|FR||9k|3i8|d6|8
+Saint-Michel-de-Chavaignes|FR||9k|3pe|1l|8
+Saint-Martin-le-Châtel|FR||9k|3kk|e8|8
+Saint-Martin|CH||a7|3k9|ko|8
+Saint-Maurice-Colombier|FR||9k|3nt|ih|8
+Saint-Martin-de-Bernegoue|FR||9k|3kg|-z|7
+Saint-Martin-lès-Melle|FR||9k|3ke|-h|7|Saint-Martin-de Melle
+Saint-Martin-du-Bois|FR||9k|3oj|-22|7
+Saint-Maixent-sur-Vie|FR||9k|3lu|-52|7
+Saint-Malo-de-Phily|FR||9k|3p0|-4z|7|Sant-Maloù-Fili
+Saint-Magloire|CA||59|3le|-5f9|7
+Saint-Maime|FR||9k|3dy|g3|7|Sant Maime
+Saint-Malo-de-Beignon|FR||9k|3p8|-5z|7|Sant-Maloù-Benion
+Saint-Marcel-de-Félines|FR||9k|3jf|bn|7
+Saint Meinrad|US||2f|2y1|-6p5|7|St. Meinrad
+Saint-Maurice-de-Rémens|FR||9k|3jo|en|7
+Saint-Martin-de-la-Brasque|FR||9k|3dl|fe|7|Sant Martin de la Brasca
+Saint-Maixent|FR||9k|3pl|1t|7
+Saint-Maurice-du-Désert|FR||9k|3r1|-13|7
+Saint-Martin-de-Mailloc|FR||9k|3sd|u|7
+Saint-Martin-de-la-Porte|FR||9k|3ho|hx|7
+Saint-Martin-de-Ribérac|FR||9k|3hn|10|7|Sent Martin de Rabairac
+Saint-Marcel-de-Careiret|FR||9k|3em|ch|7|Saint-Marcel-de-Carreiret
+Saint-Mathieu-de-Rioux|CA||59|3pu|-5bn|7|Saint-Mathieu;St-Mathieu
+Saint-Martin-du-Bec|FR||9k|3ts|l|7
+Saint Marys|AU||8g|-37i|bfn|7
+Saint-Martin-du-Vieux-Bellême|FR||9k|3qe|1i|7
+Saint-Mars-sur-la-Futaie|FR||9k|3qj|-2u|6
+Saint-Mars-sous-Ballon|FR||9k|3pt|p|6
+Saint-Martin-de-Castillon|FR||9k|3du|fb|6|Sant Martin de Castilhon
+Saint-Michel-de-Fronsac|FR||9k|3gt|-u|6|Saint-Michel-de Frorsac
+Saint-Maurice-des-Noues|FR||9k|3lg|-20|6
+Saint-Martin-aux-Buneaux|FR||9k|3ue|1k|6|Saint-Martin-aux Bunaux
+Saint-Martin-des-Bois|FR||9k|3ok|2b|6
+Saint-Maximin|FR|Occitanie|9k|3e7|cd|6
+Saint-Martin-des-Champs|FR|Île-de-France|9k|3ri|99|6
+Saint-Médard|BE||8t|3ue|et|6
+Saint-Médard-la-Rochette|FR||9k|3jx|5z|6|Saint-Médard
+Saint-Martin|BE||8t|3wa|cx|6
+Saint-Maurice-sur-Eygues|FR||9k|3f2|dx|6
+Saint-Maximin|FR|Auvergne-Rhône-Alpes|9k|3i6|gr|6
+Saint-Maurice-lès-Châteauneuf|FR||9k|3ke|bt|6
+Saint-Michel-sur-Loire|FR||9k|3nf|z|6
+Saint-Maurice-le-Girard|FR||9k|3lk|-29|6
+Saint-Maurice-les-Brousses|FR||9k|3iy|3g|6
+Saint-Maigrin|FR||9k|3i6|-s|6
+Saint-Maurice-sur-Adour|FR||9k|3dn|-1b|6
+Saint-Maurice-lès-Charencey|FR||9k|3r5|24|6|Saint-Maurice-les-Chérencei;Saint-Maurice-les-Chérencey
+Saint Margaret's Hope|GB||9b|4jf|-88|6|St. Margaret's Hope;Saunt Marget's;Saint Margarets Hope;St Margaret's Hope
+St. Mary's|US||49|4sd|-cla|6|Saint Mary;Saint Mary's
+Saint-Marcel-l'Éclairé|FR||9k|3jf|cb|5
+Saint-Mards-en-Othe|FR||9k|3pt|ak|5
+Saint-Martial-de-Nabirat|FR||9k|3ga|3i|5|Sent Marçal de Nabirac
+Saint-Moïse|CA||59|3qv|-58h|5
+Saint-Maurice|FR|New Aquitaine|9k|3mn|-1f|5
+Saint-Manvieu-Bocage|FR||9k|3rn|-2q|5
+Saint-Maurice-Saint-Germain|FR||9k|3qq|30|5
+Saint-Michel-de-Rieufret|FR||9k|3fy|-17|5|Sent Miquèu de Riufred
+Saint-Martinien|FR||9k|3kq|6v|5
+Saint-Masmes|FR||9k|3sz|bu|5
+Saint-Maclou-de-Folleville|FR||9k|3u0|33|5
+Saint-Malo-des-Trois-Fontaines|FR||9k|3pd|-6v|5|Sant-Maloù-an-Teir-Feunteun
+Saint-Martin-des-Entrées|FR||9k|3sv|-1v|5|Saint-Martin-les Entrées
+Saint-Maurice-de-Cazevieille|FR||9k|3eb|br|5
+Saint-Martin-de-Bonfossé|FR||9k|3s9|-39|5
+Saint-Martin-de-Sescas|FR||9k|3fu|-g|5
+Saint-Mayeux|FR||9k|3q2|-8d|5|Sant-Vaeg
+Saint-Mesmes|FR||9k|3s2|7h|5

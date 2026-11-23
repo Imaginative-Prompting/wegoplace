@@ -1,0 +1,23 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Makkah|SA||7e|1nj|32n|c6j|La Mecque;La Meca;Mekko;Mekao;Mekka;Mecca;A Meca;Meka;Meice;Mekkah;La Mecca;Meke;Meca;Mecka;Mekke;Mäkkä
+Mexicali|MX||58|2in|-8wp|7yv|Meksikalis;Mexihcali;Mexicalo;Meksikali
+Meknes|MA||d|2m5|-ff|4dv
+Mek'ele|ET||2|11i|31o|3j7|Macallè;Mekelle;Mekelie;Makalle;Maqalle;Mekele
+Mek’ī|ET||2|mn|2zu|kw|Maki
+Mekla|DZ||3|2tw|bu|88
+Mékhé|SN||g|15z|-1a6|7o|Mekké;Méké;Meckhé
+Mehdiabad|AZ||61|34i|3uh|5p|Mekhdiabad
+Mehtar Lām|AF||6o|2ob|5f1|4t|Mextar Lam;Metarlam;Mekhtarlam
+Jabrayil|AZ||61|31g|3mn|2o|Mekhakavan;Jrakan;Jabrail;Jebrail;Cebrail;Djebrail;Jebrayil;Jäbrayyl;Jebraiele
+Imeko|NG||u|kp|7w|2e|Meko
+Mékambo|GA||v|2t|12s|29|Mekampo
+Mikulov|CZ||9m|3rl|1a8|24|Nikolsburg;Mėkoluovs;Nickolsburg
+Mikomeseng|GQ||10|5y|th|1m|Micomeseng;Mikomesen;Mikamesen;Mekomeseng
+Mekenziyevi Hory|UA||98|3g1|2lb|1j|Mekenziievi Hory;Mekenziyevy Gory
+Mehinli|TM||5x|2w3|4l2|1f|Mekhenli;Mekhinli
+Mekan|TM||5x|2yb|4ze|q
+Mekkelholt|NL||8m|414|j5|q
+Mekinje|SI||9a|3kf|14m|g|Münkendorf;Minkendorf
+Mékro|CI||0|ju|-cz|a
+Meketii Hamlet|PW||ba|kf|adk|6

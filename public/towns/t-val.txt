@@ -1,0 +1,806 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mexico City|MX||41|1hz|-7nd|2mv2|Ciudad de México;México Distrito Federal;Mexiko-Stadt;Ciutat de Mèxic;Meksikurbo;México;Mexiko Hiria;Cidade de México;Mexiko;Mexíkóborg;Città del Messico;Mexicopolis;Meksikas;Mehiko;Mexico-stad;Mexico by;Meksyk;Cidade do México;Cità dû Messicu;Ciudad Mexico;Ciudad de Méjico;Meksiko;Lungsod ng México;Mexico D.F.;Valle de México;Nkoyo;Grad Mexico;Mexico DF
+Valencia|VE||2c|s8|-58w|chv|Valencio;Balenzia;Valentzia;Valentia;Valensija;Valincia;Valensiya;Valensii
+Valencia|ES||9d|31n|-12|6cz|Valenza;Valentia;Valence;Walencja;Balenzia;Valencija;Valencie;Valencio;Valentzia;Valensia;Valensija;Valensiya;Walénsiye;Valantsa;Valensyaa;Valensėjė;Pâ-lùn-sî-â;Valensii
+São José dos Campos|BR||4w|-1se|-3jh|5lz|Vale do Paraíba;SJCampos;Vale Paraiba;San Žozė dos Kamposas
+Valenzuela|PH||71|14u|9c1|5lg
+Valledupar|CO||27|t3|-5nh|3s5|Valjeduparas
+Marne La Vallée|FR||9k|3ro|7c|2gf
+Valladolid|ES||9d|37q|-d4|2bi|Valadolido;Vayadolid;Pucela;Vallis Tolitum;Pincia;Valladolit;Valdoletum;Valhadolid;Vaładołì;Valladolís;Valjadolidas;Valjadolida;Valyadolid
+Valparaíso|CL||4u|-2js|-5iz|26g|Valparais;Valparaisas;Valparayso;Vallis Paradisi;Valparaėsos;Wǎěr pà lái suǒ;Balparaiso
+Governador Valadares|BR||4w|-1gd|-38j|222|Valadares;Gov. Valadares
+Colonia del Valle|MX||41|1hv|-7ng|1xg|Col. del Valle;Col del valle;del Valle
+Valera|VE||2c|pw|-5g4|1vz
+Puente de Vallecas|ES||9d|347|-a6|1vu|Ponto de Valjeko
+Puerto Vallarta|MX||41|1la|-84b|1qa|Pto Vallarta;Puerto Valarta;Puertovalarta
+NIA Valencia|PH||71|lz|9nh|1q4|Valencia City;Kota Valencia;Valencia Lakanbalen;Dakbayan sa Valencia;Lungsod ng Valencia
+Valparaíso de Goiás|BR||4w|-18n|-3pa|1oo
+Moreno Valley|US||3p|2ma|-91n|1kq|Moreno Valli;Moreno slėnis;Morenovaleja;Tééh Hodiłhił
+Spring Valley|US|Nevada|3p|2sb|-8w4|1dk|Printempa Valo
+Deer Valley|US||4i|2lk|-8nh|1a1
+Valle de La Pascua|VE||2c|pm|-53d|16j|Valle de Pascua
+Valencia|US|California|3p|2no|-95h|159
+Valsād|IN||6t|1l9|5ml|12u|Walsād
+West Valley City|US||2p|351|-8n4|11u|West Valley;Wast Valley Ceety
+Valdivia|CL||4u|-32l|-5nh|112|Valdivija;Valdėvėjė
+Valinhos|BR||4w|-1rt|-3mk|10r|Vallinhos
+Wałbrzych|PL||a5|3x1|198|ze|Waldenburg in Schlesien;Valbžiha;Valbžychas
+Simi Valley|US||3p|2n7|-95y|z8
+Ciudad Valles|MX||41|1p4|-7n1|ym|Ciudad de Valles
+Vallejo|US||3p|2xu|-9fm|xt
+Vlorë|AL||9y|34f|1i4|w1|Avlonya;Avlona;Avlon;Valona;Vlora;Wlora;Vliorė;Vlyora;Vallona;Vlona;Vlonë;Au’lon;Vljora
+Valença|BR|Bahia|20|-115|-30j|r7
+Valparai|IN||6t|sp|5xr|p4
+Val Dor|MY||6v|el|7r5|om|Val d’Or
+Valvedditturai|LK||68|ra|66p|lq|Valvettithurai;Valvettiturai;Valveṭṭittuṟai
+Valença|BR|Rio de Janeiro|4w|-1pt|-3de|ld
+Valdemoro|ES||9d|33n|-a8|kr|Vallis Mauri
+Valdefuentes|ES|Madrid|9d|34h|-a4|j8
+Valle de Santiago|MX||41|1kn|-7t3|ix
+Villa de Vallecas|ES||9d|345|-a0|i4|Valjeko
+Valverde|ES|Madrid|9d|34i|-a8|i0
+Valence|FR|Auvergne-Rhône-Alpes|9k|3gt|dn|hr|Valença;Valencia
+Valjevo|RS||8q|3f0|1ja|gy|Valevas
+Valley Glen|US||3p|2mz|-94y|go
+Valdosta|US||48|2dn|-6fc|fh
+Vallecas|ES||9d|346|-a2|es
+Valladolid|MX|Yucatán|3z|1lh|-6t0|dm|Vaładołì;Valadolidas;Valadolida;Vayadolid
+Valle Hermoso|MX||44|1zb|-7jp|dl
+Valasaravakkam|IN||6t|108|66p|d6
+Valby|DK||8y|4an|yr|cu
+Vallenar|CL||4u|-27e|-5gk|ch
+Valenciennes|FR||9k|3vw|9t|cg|Valencianas;Valencenae;Valincyinne;Valansjenas;Valansjen
+Valentín Alsina|AR||1l|-2ob|-4i9|bg|Villa Alsina
+Vaukavysk|BY||9g|43o|1vx|be|Vawkavysk;Waukawysk;Volkovisk;Vaŭkavisk;Vavkaviszk;Valkaviskas;Vavkaviska;Volkovysk
+Val-des-Arbres|CA||59|3io|-5oo|be
+Valley Stream|US||48|34y|-5or|ak
+Valuyki|RU||9i|3vg|2xw|9z|Valujki;Waluiki
+Valrico|US||48|25m|-6cg|9v
+Valparaiso|US|Indiana|2f|377|-6pu|92
+Vallabh Vidyanagar|IN||6t|1ql|5mi|92|Vallabh Vidhyanagar
+Vallentuna|SE||9w|4ld|1e8|8v|Valentiuna
+Valdepeñas|ES||9d|2zo|-9e|8n|Yaldepenas
+Valkenswaard|NL||8m|3yn|f6|8n|Valkeswaerd
+Valdezarza|ES||9d|34f|-ac|8h
+Valente|BR||20|-vp|-31m|80
+Vallauris|FR||9k|3d2|jl|7l|Valàuria
+Valdeacederas|ES||9d|34f|-aa|7e
+Wałcz|PL||a5|440|19r|78|Deutsch Krone;Valčas;Valča;Wôłcz
+Valente Diaz|MX||41|1h8|-7fa|75
+Valle de Bravo|MX||41|1hb|-7q5|74|Temazcaltepec Bravo
+Val-d'Or|CA||59|3pm|-604|73
+Valls|ES||9d|36p|3h|6z
+Vale of Leven|GB||9b|4bh|-cq|6u
+Valparaíso|BR||4w|-1mz|-3xb|6q
+Valinda|US||3p|2ml|-93m|6c
+Valmiera|LV||9n|4fu|1yn|6c|Valmėira;Valmeena;Valmera;Valmeera
+Valley Station|US||3k|2xv|-6mj|6c
+Valašské Meziříčí|CZ||9m|3tf|1dx|6a|Wallachisch Meseritsch;Valašske Meziržyčiai;Valašske Meziržīči
+Valdagno|IT||9o|3is|ve|6a
+Valadares|PT|Porto|99|365|-nz|67
+Valongo|PT|Porto|99|36f|-nm|5x|Valonga
+Valença do Piauí|BR||2w|-ht|-37z|5t
+Valkeakoski|FI||92|4q6|1ur|5t
+Naantali|FI||92|4nz|1p6|5n|Nådendal;Vallis Gratiae;Nodendal';Nantali
+Vallehermoso|ES||9d|34c|-ab|5j
+Valencia|EC||33|-2n|-64g|58
+Valabhīpur|IN||6t|1ot|5jo|57|Vallabhipur
+Valday|RU||9i|4h2|2kd|55|Waldai;Valdai;Valdaj
+Valdebernardo|ES||9d|348|-a2|4v
+Valley East|CA||59|3lk|-690|4v
+Valenza|IT||9o|3h1|o0|4t|Valensa
+Valvachatottam|IN||6t|n0|5ym|4q
+Vallam|IN||6t|ts|63m|4o
+Valavanur|IN||6t|x4|652|4n
+Vallensbæk|DK||8y|4ai|yf|4l
+Valenzano|IT||9o|360|1aw|4h
+Vallcarca|ES||9d|371|5y|4c
+Valle de Guanape|VE||2c|rj|-52f|46
+Valle Vista|US|California|3p|2lr|-90p|42|Vallevista
+Valbom|PT||99|369|-ns|40
+Valayam|IN||6t|wl|5u5|3z
+Valenza|PT||99|38q|-nz|3y|Valença
+Valentim Gentil|BR||4w|-1kq|-3v5|3x
+Vallirana|ES||9d|36z|5d|3x
+Val-de-Reuil|FR||9k|3sv|3d|3u
+Valdés|ES||9d|2u4|-bs|3r
+O Barco de Valdeorras|ES||9d|39u|-jf|3r|Valdeorras;O Barco
+Valmontone|IT||9o|381|zw|3m
+Vallachira|IN||6t|t0|5vr|3m
+Valfin-lès-Saint-Claude|FR||9k|3l0|ga|3m
+Valparaíso|MX||41|1r9|-7zp|3l
+Valverde del Camino|ES||9d|2we|-ir|3k
+Valtierrilla|MX||41|1l1|-7sx|3j
+Valbonne|FR||9k|3d7|jg|3i|Vaubona
+Valentigney|FR||9k|3nu|iz|3i
+Vălenii de Munte|RO||8u|3hi|20b|3c|Văleni-de-Munte
+Valenton|FR||9k|3rf|6u|3c
+Valga|EE||9x|4gi|20d|3a|Walk;Valqa;Valk;Walga;Valka
+Valangaiman|IN||6t|u9|64j|3a
+Valmadrera-Caserta|IT||9o|3jd|q0|38|Valmadrera
+Valley Falls|US|Rhode Island|48|38f|-5ib|37
+Valdivia|CO||27|k9|-5tf|37
+Valdez|EC||33|3h|-63e|36|Limones;Valdés
+Vale do Anari|BR||4l|-re|-4sq|36
+Valdemorillo|ES||9d|34i|-bb|32
+Valavilcheleri|IN||6t|x7|5tg|30
+Vale da Amoreira|PT||99|30j|-le|30
+Valencia|CO||27|my|-5vj|2z
+Valky|UA||98|3ug|2qx|2w|Valki
+Valea Călugărească|RO||8u|3gx|20n|2w
+Vallila|FI||92|4n7|1xc|2w|Vallgård;Valkka
+Valea lui Mihai|RO||8u|3o0|1pj|2u|Érmihályfalva
+Valréas|FR||9k|3fa|dv|2u|Vauriàs
+Vallehermoso|PH||71|sp|9il|2u
+Valaiyāmpattu|IN||6t|z9|62f|2t|Valayambattu
+Valle del Guamuez|CO||27|19|-5xo|2s
+Valle Dorado Inn|MX||41|1l0|-7z4|2s
+Vale do Sol|BR||4w|-2a9|-42c|2r
+Volozhin|BY||9g|469|21p|2q|Wołożyn;Valozhyn;Volozhy’n;Valožyn
+Vale Parish|GG||91|3th|-70|2o
+Val-des-Monts|CA||59|3it|-5u7|2n
+Valley|US|Alabama|3k|2j6|-6km|2n|Valo
+Valencia West|US||4i|2h9|-8kn|2m
+Valley Center|US|California|3p|2ka|-913|2l|Valley Centre
+Valadares|PT|Porto|99|36b|-m6|2l
+Vālavandānkottai|IN||6t|tw|630|2k
+Valley Cottage|US||48|368|-5pg|2j
+Vallendar|DE||8r|3w0|l6|2i
+Vallée des Colons|NC||b8|-1pw|cue|2h|The Valley
+Waldenbuch|DE||8r|3r4|pd|2g|Valdenbux
+Valu lui Traian|RO||8u|3ep|273|2f|Valul-lui-Traian
+Vaucresson|FR||9k|3ro|60|2f|Vallis Crisonis
+Valeggio sul Mincio|IT||9o|3hz|tu|2e
+Valsequillo de Gran Canaria|ES||83|25r|-172|2e
+Valpoi|IN||6t|175|5py|2d|Valpoy
+Vallegrande|BO||3n|-1fd|-4y3|2c|Valjegrandė
+Vallālappatti|IN||6t|ry|61h|2b
+Valognes|FR||9k|3tj|-43|27
+Vylkove|UA||98|3i4|2a7|25|Vâlcov;Wylkowe;Vılkove;Wilkowo;Vilkovo
+Balmaseda|ES||9d|3c0|-8w|25|Valmaseda
+Valle de Banderas|MX||21|1lt|-84d|25
+Vale de Cambra|PT||99|35h|-nb|24
+Vālāntaravai|IN||6t|py|635|23
+Vallet|FR||9k|3n0|-3j|23|Gwaled
+Valguarnera Caropepe|IT||9o|2w6|13z|23|Carrapipi
+Valencina de la Concepción|ES||9d|2vy|-gv|21
+Valley Center|US|Kansas|2f|2x3|-7ih|20
+Valdemarín|ES||9d|34f|-ai|20
+Valbo|SE||9w|4oh|1bb|1z
+Val-des-Sources|CA||59|3j5|-5jt|1z|Asbestos
+Válega|PT||99|35g|-nu|1y
+Valdragone|SM||9q|3e2|ym|1y
+Valley Park|US||2f|2z3|-6zd|1y|Valleypark
+Vallo della Lucania|IT||9o|33r|16f|1x
+Valdoviño|ES||9d|3d4|-ml|1w
+Valderice|IT||9o|2xo|z2|1w
+Valletta|MT||9e|2rq|14b|1w|La Valeto;La Valette;Valetta;Valeta;La Valeta;Valleta;Vaileite;A Valeta;Waleta;La-Valeto;La Valëtta;Vallett;La Valèt
+Văleni|RO|Vaslui County|8u|3lf|25y|1v
+Valley City|US||2f|3mc|-7k8|1v
+Vellinge|SE||9w|4a3|106|1t|Vällinge
+Vale do Paraíso|BR||4l|-t1|-4sl|1t
+Valpovo|HR||a6|3iu|1f6|1r|Valpó
+Valdobbiadene|IT||9o|3ji|xa|1r
+Valley Falls|US|South Carolina|48|2pa|-6bp|1r
+Valea Stanciului|RO||8u|3e6|1ub|1r
+Valga|ES||9d|3am|-o0|1p
+Valencia de Alcántara|ES||9d|31h|-k4|1p|Valencia dAlcántara;Valencia del Alcantara
+Valparaíso|CO|Caquetá|27|3b|-5ub|1p
+Vale Real|BR||4w|-29o|-3yd|1p
+Valerik|RU||9i|3by|3i5|1o|Valarg;Valarg Xi;Valargthe;Valarg-Yurt;Valerak
+Vallecrosia|IT||9o|3dn|l8|1o|Valecreusa
+Valley View|AU||8b|-2os|ap6|1o
+Vālāshāhr|IR||7o|29d|40a|1o
+Valea Moldovei|RO||8u|3nv|20b|1m
+Valle de Lincoln|MX||44|1zn|-7r4|1m
+Valathoor|IN||6t|zt|631|1j|Valathur
+Valle Aurina - Ahrntal|IT||9o|3mk|xa|1j
+Valle Hermoso|AR||1n|-2ef|-4z4|1j
+Valentine|AU||8l|-2jq|bp8|1i
+Valley Ridge|CA||2s|3xy|-8te|1i
+Valentín Gómez Farías|MX||2g|29k|-8ba|1h
+Valoua|CI||0|gh|-gy|1h
+Vallejuelo|DO||4v|1ft|-5i5|1g
+Val-David|CA||59|3jv|-5q6|1g
+Valchedram|BG||9v|3dd|1t5|1g|Valtchedram;Vŭlchedrŭm
+Valongo|PT|Aveiro|99|34u|-nh|1f
+Corral|CL||4u|-32t|-5nz|1f|Valdivia
+Valdahon|FR||9k|3mz|hn|1f
+Valdoie|FR||9k|3of|j0|1f
+Valence|FR|Occitanie|9k|3ej|2h|1e
+Valencia|PH|Central Visayas|71|s6|9jd|1e
+Valparaiso|US|Florida|2f|2cr|-6oa|1e|Valpariso
+Valdetorres de Jarama|ES||9d|351|-9r|1e
+Valverde|ES|Canary Islands|83|259|-1ds|1e
+Walenstadt|CH||a7|3mw|pv|1e|Valenurbo;Wallendstadt;Wallenstadt
+Vale|GE||7n|37m|3b4|1e
+Valverde|IT||9o|2we|160|1d
+Vakhtan|RU||9i|4h1|3lp|1d|Valkhtan
+Valašské Klobouky|CZ||9m|3si|1e1|1d|Valašske Klobouki
+Valverde de la Virgen|ES||9d|3a9|-fs|1b
+Vallvidrera, el Tibidabo i les Planes|ES||9d|372|5t|1b
+Valle de Ángeles|HN|Francisco Morazán Department|56|13c|-6ps|1a
+Valka|LV||9n|4gi|209|1a|Walk;Valk;Valga
+Valaliky|SK||8s|3r4|1n6|1a
+Valpaços|PT||99|37l|-kb|1a|Valpassos
+Valley Waters|CA||43|3iv|-52w|19
+Valério|BR||1k|-wb|-3pz|19
+Valle de Guadalupe|MX|Jalisco|41|1md|-7x2|19
+Valdese|US||48|2ra|-6ak|19
+Valle Martella|IT||9o|38c|zf|18
+Valdepeñas de Jaén|ES||9d|2wf|-al|17
+Valderrama|PH||71|vp|9f4|17|Valderama
+Vallée-des-Rivières|CA||43|3n6|-58s|17
+Valle de Ignacio Allende|MX||2g|22u|-84r|16
+Valencia de Don Juan|ES||9d|39h|-fc|16
+Valleseco|ES||83|25w|-17a|15
+Valras-Plage|FR||9k|3c5|95|15
+Valle de Juárez|MX|Jalisco|41|1jd|-7xy|14
+Valea Nucarilor|RO||8u|3h3|28d|14
+Valea Mare|RO|Olt|8u|3fj|1vv|14
+Vallda|SE||9w|4fo|xc|13
+Valkenburg|NL|South Holland|8m|40y|cb|13
+Valea Ursului|RO|Neamț County|8u|3m2|238|13
+Valverde de Leganés|ES||9d|2zf|-je|13
+Valdez|US||1h|4pt|-baj|13|Valdes;Valdizas
+Valley Grande|US||2f|2ib|-6pn|12|Valegrande
+Valandovo|MK||9u|36s|1qo|12|Valandovas;Vallandova;Wałandowo;Valandova
+Vals-les-Bains|FR||9k|3g3|c5|12|Vals daus Banhs
+Valencia|PH|Eastern Visayas|71|uv|9m1|12
+Valcanneto|IT||9o|38j|xs|12
+Yalābād|IR||7o|2p3|3vr|12|Mīlābād;Valābād;Yelābād
+Vals-près-le-Puy|FR||9k|3h3|as|12
+Valladolid|HN||56|13b|-6uh|11
+Valledolmo|IT||9o|2wv|12f|11|Vaddilurmu
+Valledoria|IT||9o|35p|oi|11
+Valchidol|BG||9v|3ck|24j|11|Vŭlchidol;Valchi Dol;Vǎlči Dol
+Valīābād|IR|Tehran|7o|2qt|3ym|11
+Vâlcele|RO|Covasna County|8u|3jd|1zc|10
+Val Plaisance|NC||b8|-1py|cud|10
+Valparaíso|CO|Antioquia|27|fm|-5u2|10
+Valcheta|AR||1s|-350|-53s|10
+Valaská|SK||8s|3rl|1id|10
+Valtice|CZ||9m|3re|1aj|10|Valtėcē
+Valley Springs|US|California|3p|2y3|-9bn|10|Ndzisgaaító;Valley Spring
+Valīābād|IR|Māzandarān|7o|2u6|3xi|z
+Val della Torre|IT||9o|3hg|kp|z
+Vallelunga Pratameno|IT||9o|2wo|12f|z|Vaddilonga
+Valencia|PH|Central Visayas|71|r5|9ip|z
+Valley Green|US||48|33k|-5xb|y
+Valea Crişului|RO|Covasna County|8u|3jk|1zl|y
+Valkenburg|NL|Limburg|8m|3xb|g7|y
+Valthermond|NL||8m|42w|jc|y
+Vallada|ES||9d|302|-1x|x
+Valyanivske|UA||98|3pj|31v|x|Leninske;Valianivske;Leninskiy;Leninskoye
+Văleni|RO|Olt|8u|3ev|1wu|x
+Valmont|FR|Grand Est|9k|3sc|im|x
+Valley of Peace|BZ||24|1c5|-6ur|w
+Colonia Valdense|UY||45|-2ne|-4f2|w|Valdense
+Valcău de Jos|RO||8u|3mx|1r6|w|Vălcăul-de-Jos
+Valdisotto|IT||9o|3kz|ss|w
+Valea Dragului|RO||8u|3et|212|w
+Valea Mare|RO|Vâlcea County|8u|3g3|1uo|w
+Valhalla|US||48|363|-5oy|w
+Vale Verde|BR||4w|-2aq|-40y|w
+Valado de Frades|PT||99|31y|-p2|v|Valado dos Frades
+Valgreghentino|IT||9o|3j6|q5|v
+Valea Mare-Podgoria|RO||8u|3gp|1x7|v|Valea Mare Podgorie
+Vallorbe|CH||a7|3lr|hq|v
+Vallese|IT||9o|3hx|ut|v
+Valea Danului|RO||8u|3hi|1wh|v
+Valleggia|IT||9o|3f0|nf|v
+Välivainio|FI||92|50n|1ys|v
+Valea Voievozilor|RO||8u|3gu|1yt|u
+Văleni|RO|Vaslui County|8u|3lv|254|u
+Valdezorras|ES||9d|2vz|-gh|u
+Valley|DE||8r|3p1|wq|u
+Vale de Santarém|PT||99|30v|-o9|t
+Valle de Vaquerías|MX||44|1z7|-7q7|t
+Vale de São Domingos|BR||2k|-16i|-4k3|t
+Rabocheostrovsk|RU||9i|50j|2om|t|Papinsaari;Rabotšeostrovsk;Vallankumoussaari;Papinsuari;Popov;Kem Harbour
+Valençay|FR||9k|3n0|4d|t
+Valmojado|ES||9d|33o|-bd|t
+Vallgorguina|ES||9d|37p|6z|t
+Vålberg|SE||9w|4kz|10n|s
+Valentine|US||2f|3b3|-7rb|s
+Valea Seacă|RO|Bacău County|8u|3kg|235|s
+Vallehermosa|ES||83|26a|-1bz|s|Vallehermoso
+Valley View|US|Pennsylvania|48|32z|-5x2|s
+Valentano|IT||9o|3a8|wv|s
+Valencianita|MX||41|1ln|-7te|s
+Valea Iaşului|RO||8u|3hi|1wo|s
+Val-Morin|CA||59|3js|-5q2|s
+Valea Argovei|RO||8u|3f7|22e|s
+Valdelacalzada|ES||9d|301|-im|r
+Vallée du Génie|NC||b8|-1pv|cuc|r|Centre Ville
+Valdemarsvik|SE||9w|4ho|1a4|r
+Francisco Zarco|MX|Baja California|58|2h5|-8zt|r|Valle de Guadalupe
+Valverde del Fresno|ES||9d|33q|-j4|q
+Valperga|IT||9o|3i1|la|p
+Valea Mare|RO|Dâmbovița County|8u|3ge|1y3|p
+Vallerano|IT||9o|39q|y2|p
+Valea Caselor|RO|Arges|8u|3hz|1xx|p
+Valle de San José|CO||27|hx|-5n6|p
+Val Thorens|FR||9k|3hu|ia|p|Vale Thorens
+Valensole|FR||9k|3ds|gm|p|Valençòla;Valesole
+Val Verde|US||3p|2np|-95m|p
+Valmorea|IT||9o|3ja|ot|p|Vallis Morea
+Valkó|HU||8v|3o4|1i7|p
+Valea Roșie|RO||8u|3eq|21z|p
+Valbrona|IT||9o|3jg|pu|p
+Valcourt|CA||59|3ie|-5kw|p
+Valtierra|ES||9d|398|-4j|o
+Văleni-Dâmbovița|RO||8u|3hh|1xy|o
+Valencia|PH|Central Visayas|71|qp|9l1|o
+Valleiry|FR||9k|3k3|gl|o
+Val Verde Park|US||2f|29l|-7s3|o
+Vallà|IT||9o|3iz|x5|o
+Valley|GB||9b|440|-cp|o
+Valleroy|FR||9k|3sp|gi|o
+Valea Seacă|RO|Bacău County|8u|3l2|22o|o
+Vallecorsa|IT||9o|374|119|o
+Vál|HU||8v|3nk|1fw|n
+Valdilecha|ES||9d|33y|-96|n
+Vallon-Pont-d'Arc|FR||9k|3fd|c7|n|Vallons Pont d'Arc
+Valea Mărului|RO||8u|3jc|24x|n
+Sarentino|IT||9o|3lk|vj|n|Sarnthein;Sarntal;Vallis Serenae
+Valea Mare|RO|Vâlcea County|8u|3gu|1vc|n
+Valea Chioarului|RO||8u|3nr|1t8|n
+Valašská Bystřice|CZ||9m|3ta|1eb|m
+Valencia del Ventoso|ES||9d|2yb|-hz|m|Valencia del Mentoso;Valencia de Ventoso
+Valencin|FR||9k|3ip|dz|m
+Vale Park|AU||8b|-2ox|ap3|m
+Jagodje|SI||9a|3ih|11x|m|Valleggia
+Valle de Zaragoza|MX||2g|249|-85x|m|Pilar de Conchos
+Valea Vinului|RO||8u|3ok|1se|m
+Valle San Francisco|NI||3s|ys|-6np|m
+Valdeolmos|ES||9d|34w|-9l|m
+Valea Rece|RO||8u|3li|204|m
+Valtournenche|IT||9o|3jg|l6|m
+Valencia|US|New Mexico|2p|2oo|-88e|m
+Vallée du Tir|NC||b8|-1pu|cud|m|Doniambo;Montagne coupée
+Valle di Maddaloni|IT||9o|364|142|m
+Val-de-Meuse|FR||9k|3pc|fa|m
+Valerianovsk|RU||7z|4j8|4lg|m
+Valtimo|FI||92|4wv|280|l|Waltimo
+Valley|US|Nebraska|2f|36r|-7fn|l
+Valle Hermoso|PH||71|r7|9l4|l
+Valea Cireșului|RO||8u|3ep|1z0|l
+Valle di Casies - Gsies|IT||9o|3lx|xu|l|Gsieser Tal
+Beloostrov|RU||9i|4n3|2bc|l|Valkeasaari;Valkiešuari;Belostrovas
+Valle Mosso|IT||9o|3ir|mn|l
+Valea Lupului|RO|Iași County|8u|3n2|24e|l
+Valderrobres|ES||9d|35j|f|l|Baldecaxicos;Vall-de-roures;Vallderroures
+Valley Hill|US||48|2q2|-6d4|l
+Valle Lomellina|IT||9o|3hf|o3|l
+Valderas|ES||9d|38w|-f4|k
+The Valley|AI||1i|1em|-4v6|k|El Valle;La-Valo;Valis
+Vale|RO||8u|3mf|1yi|k
+Valley View|US|Ohio|48|36z|-6ao|k
+Valadeces|MX||44|20v|-7m4|k
+Vale de Figueira|PT||99|317|-nz|k
+Valendries|NL||8m|3zx|fx|k
+Vallecitos de Zaragoza|MX||41|1ds|-7tg|k
+Valea Ciorii|RO||8u|3g8|24l|k
+Valea Viilor|RO||8u|3k0|1vg|k|Nagybaromlak
+Valle Huejúcar (Fraccionamiento Popular) [Fraccionamiento]|MX||41|1on|-7xf|k
+Valdengo|IT||9o|3il|mm|k
+Vallecillo|HN||56|14c|-6qs|k
+Valea Râmnicului|RO||8u|3i0|234|k|Valea Rîmnicului
+Valergues|FR||9k|3db|ba|j
+Vallée-Jonction|CA||59|3kt|-5h0|j
+Valatie|US||48|39t|-5on|j
+Valdefresno|ES||9d|3ab|-f9|j
+Valldemossa|ES||9d|32b|7a|j|Valldemosa
+Valea Mare Pravăț|RO||8u|3ht|1xp|j|Valea Mare-Pravăţ
+Valenzatico|IT||9o|3dv|ug|j
+Valea Largă|RO|Mureș County|8u|3li|1uw|j
+Vâlcelele|RO|Buzău County|8u|3hy|23z|j|Vâlcele;Vîlcelele
+Vallfogona de Balaguer|ES||9d|37z|29|j
+Valūjā|IR||7o|2u6|43q|j
+Valdeganga|ES||9d|30q|-4o|j
+Valya Kuzmyna|UA||98|3pu|20a|j|Valia Kouzmyna;Valea Cosminului
+Valleyview|CA||2s|48z|-91t|j
+Valea Lungă Alba Romania|RO||8u|3k5|1ut|j
+Vallefiorita|IT||9o|2zq|19q|i
+Vale|US||28|3e6|-91o|i
+Vâlcele|RO|Buzău County|8u|3h9|21z|i|Vîlcele
+Valvasone|IT||9o|3jr|zr|i|Voleson
+Valea Seacă|RO|Iași County|8u|3nd|223|i
+Val-Meer|BE||8t|3x3|fk|i
+Valle Santa|IT||9o|38j|y8|i
+Vallata|IT||9o|360|16d|i
+Valleymount|IE||8z|43i|-i7|i
+Michurinskoye|RU||9i|4o8|2ay|i|Valkjärvi;Mitsjurinskoje
+Valea Vișeului|RO||8u|3p3|1v4|i|Valea Vişăului
+Vallon-en-Sully|FR||9k|3la|79|i
+Vale Palmarejo|CV||84|15g|-1tf|h
+Wallern im Burgenland|AT||a2|3ol|1b2|h|Wallern;Valla
+Valdestillas|ES||9d|378|-d9|h
+Valley View|US|Pennsylvania|48|34x|-5wm|h
+Valea Teilor|RO||8u|3hb|275|h
+Valbandon|HR||a6|3gs|12d|h
+Valdaora di Mezzo|IT||9o|3lw|xf|h|Olang;Valdaora;Aulacum;Valdapra
+Valburg|NL||8m|407|g3|h
+Valle Vista|US|Arizona|4i|2qd|-8sa|h
+Bol|HR||a6|3c6|1aa|h|Vallum Brattiae
+Valea Leurzii|RO||8u|3hg|1yt|g|Valea Leurzei
+Vallinoja|FI||92|4np|1xn|g|Fallbäcken
+Val-d'Isère|FR||9k|3i9|jd|g|Val d'Isère;Val d Isere
+Valle Verde|MX|Michoacán|41|1i3|-7qs|g
+Vallermosa|IT||9o|31c|og|g
+Valencia de Cerro Gordo|MX||41|1l8|-7ss|g
+Valla|SE|Jämtland|9w|4wj|12c|g
+Valdefuentes|ES|Extremadura|9d|313|-h0|g
+Valera Fratta|IT||9o|3hq|py|g
+Valframbert|FR||9k|3qm|b|g
+Valfabbrica|IT||9o|3bw|z0|f
+Valea Seacă|RO|Neamț County|8u|3my|212|f|Velea Seaca
+Răscruci|RO||8u|3mb|1u1|f|Válaszút
+Valyava|UA||98|3qj|1zs|f|Valiava;Valeva
+Văleni|RO|Maramureş|8u|3or|1uq|f
+Valea Măcrișului|RO||8u|3ga|22j|f
+Valle Luz|MX||41|1ed|-7qq|f
+Valfenera|IT||9o|3gq|m4|f
+Valea Grecului|RO||8u|3ls|262|f
+Valle de San Juan|CO||27|bo|-5so|f
+Valla|SE|Södermanland|9w|4jy|19i|f
+Valle de los Girasoles [Fraccionamiento]|MX||41|1kr|-7yo|f
+Valdice|CZ|Hradec Králové Region|9m|3w6|16q|f
+Valle de la Serena|ES||9d|2zj|-g4|f
+Valganna|IT||9o|3ji|oi|f
+Valdice|CZ|Liberec Region|9m|3wi|16t|f
+Valea Strâmbă|RO||8u|3lp|1z4|f|Valea-Strâmbă;Valea Strîmbă
+Valea lui Ion|RO||8u|3lq|21y|f
+Valdepolo|ES||9d|3aa|-ej|f
+Wallgau|DE||8r|3o0|vc|e|Valgava;Wollga
+Vall'Alta|IT||9o|3j4|rb|e
+Vâlcelele|RO|Călărași County|8u|3fb|23f|e|Vîlcelele
+Valle del Río|MX||41|1b6|-7pm|e
+Valea Lungă Ogrea|RO||8u|3h6|1z3|e|Valea Lungă-Ogrea
+Vallmoll|ES||9d|36k|3h|e
+Valladolid|MX|Aguascalientes|41|1p6|-7w7|e
+Valle di Vado|IT||9o|3ey|nd|e
+Valsinni|IT||9o|33l|19o|e
+Valle di Cadore|IT||9o|3ky|y9|e
+Valmadonna|IT||9o|3gx|nx|e
+Vallarsa|IT||9o|3j6|uw|e
+Valenzuela|ES||9d|2wy|-bq|e
+Vallières|FR||9k|3ji|gi|e
+Valverde de Júcar|ES||9d|32c|-66|e|Valverde del Júcar
+Vălişoara|RO|Hunedoara County|8u|3jx|1re|e
+Valady|FR||9k|3fi|6r|e
+Valff|FR||9k|3qi|kw|e|Walf;Falaba;Valf
+Vallbona|ES||9d|376|62|d
+Valloire|FR||9k|3hh|hv|d|Vârouère
+Valī‘aşr|IR||7o|29a|42b|d
+Vălenii de Mureș|RO||8u|3m9|1ww|d
+Valea Cânepii|RO||8u|3h8|258|d|Valea Cânepei;Valea-Cânepei;Valea Cînepei
+Valea Seacă|RO|Satu Mare County|8u|3pk|1sc|d|Valea Sacă
+Valla Beach|AU||8l|-2cz|bt1|d
+Valašská Polanka|CZ||9m|3su|1e0|d
+Valea Arini|RO||8u|3mx|211|d
+Valea Borcutului|RO||8u|3nl|1wh|d
+Vallabrègues|FR||9k|3dt|cv|d
+Valdetorres|ES||9d|304|-gv|d
+Vallonga|IT||9o|3hr|xk|d
+Valence-d'Albigeois|FR||9k|3ea|6o|d|Valence-d'Abigeois
+Valmondois|FR||9k|3se|63|d
+Valle San Bartolomeo|IT||9o|3gv|o0|d
+Vălcani|RO||8u|3js|1ko|d|Valkani
+Valea Arinilor|RO||8u|3l6|21n|d|Valea-Aninilor
+Valea Părului|RO|Buzău County|8u|3i0|22e|d
+Valros|FR||9k|3cm|9d|d
+Vâlcele|RO|Bacău County|8u|3km|21w|d|Vîlcele
+Valstrona|IT||9o|3jj|n6|d
+Valmeyer|US||2f|2yf|-6ys|d
+Valea Merilor|RO||8u|3fj|1wi|d
+Văleni|RO|Neamț County|8u|3ma|21b|d
+Valduggia|IT||9o|3j1|n5|d
+Valea Târsei|RO||8u|3hi|1z7|d|Valea Tars;Valea Tîrsei
+Valdecaballeros|ES||9d|310|-ef|d|Valdecaballero
+Valdottavo|IT||9o|3e2|t4|c
+Valea Dacilor|RO||8u|3er|26o|c|Valea Dracilor
+Valliquerville|FR||9k|3tt|1x|c
+Valley Heights|AU||8l|-2lm|bma|c
+Valle de Santa Ana|ES||9d|2yl|-iv|c
+Vāleshābād|IR||7o|2ue|47r|c
+Valence-sur-Baïse|FR||9k|3dw|12|c
+Valgatara|IT||9o|3ih|ub|c
+Valley Mills|US||2f|2fy|-7ir|c
+Valle de Riscó|PA||4g|pn|-6cz|c|Valle del Risco
+Valea Șoșii|RO||8u|3l2|21r|c|Valea Şoşei
+Valsad INA|IN||6t|1la|5mp|c
+Valley Falls|US|Kansas|2f|31a|-7d6|c|Valaj Faloj
+Valea Mare|RO|Covasna County|8u|3j4|209|c
+Vallio Terme|IT||9o|3ip|sw|b
+Val di Cava|IT||9o|3d8|tl|b
+Våler|NO||9j|4oj|wv|b|Vålbyen;Vaaler
+Valli|IT||9o|3hm|xv|b
+Valdemārpils|LV||9n|4fd|1qr|b|Saßmacken
+Valea Izvoarelor|RO||8u|3l0|1vq|b
+Valle de Vázquez|MX||41|1fh|-7n7|b
+Valea Popii|RO|Arges|8u|3h9|1xi|b|Valea Popi
+Valverde de Mérida|ES||9d|303|-ha|b
+Valea Dulce|RO||8u|3hb|20t|b
+Valle de Juárez|MX|Nuevo León|44|1z8|-7q8|b
+Rožna Dolina|SI||9a|3jm|11z|b|Rosenthal;Valdirose
+Valteró|GR||8p|36e|1ss|b
+Valle de Ángeles|HN|Comayagua Department|56|14a|-6rg|b
+Valderrueda|ES||9d|3ay|-dr|b
+Vallejo (Porvenir Vallejo)|MX||3x|1zw|-8ez|b
+Vâlcele|RO|Olt|8u|3f0|1w6|b|Vîlcele
+Valthe|NL||8m|42t|j5|b|Valte
+Valdeflores|MX||41|1al|-7gy|b
+Valleraugue|FR||9k|3eg|a4|b|Valerauga
+Valdevimbre|ES||9d|39u|-fm|b
+Valeryanivka|UA||98|3oc|2vu|b|Valerianivka;Valer’yanovka
+Vālia|IN||6t|1nx|5n8|b
+Villanueva de Valdegovía|ES||9d|3b1|-8m|b|Valdegovia;Valdegobia;Uribarri Gaubea
+Văleni-Podgoria|RO||8u|3gm|1xf|b|Văldeni-Podgoria
+Valje|SE||9w|4bq|14e|b
+Vâlcelele de Sus|RO||8u|3f0|1w8|b|Vîlcelele de Sus
+Valea Părului|RO|Teleorman County|8u|3e0|1yr|b
+Valemount|CA||5b|42r|-979|b
+Valea Cucului|RO||8u|3h7|20v|a
+Ballobar|ES||9d|37m|j|a|Vallobar
+Valea Bolvașnița|RO||8u|3gv|1q7|a|Valea Bolvašnica
+Valea Ierii|RO||8u|3ll|1sv|a
+Valea Mare|RO|Gorj County|8u|3hb|1s4|a
+Vălenii Șomcutei|RO||8u|3nv|1t5|a
+Vals Platz|CH||a7|3li|pi|a|Val;Vals
+Valea lui Pătru|RO||8u|3fj|1tc|a
+Valmont|FR|Normandy|9k|3u6|1f|a
+Valýra|GR||8p|2v9|1p2|a|Valíra
+Valea Cheii|RO||8u|3hg|1vd|a
+Valley Community|BZ||24|1b8|-6tp|a
+Val-Alain|CA||59|3ky|-5jb|a
+Valy|UA||98|3q4|1yp|a|Valea
+Valle Agricola|IT||9o|372|13m|a
+Valle Morelos|MX||3x|1oo|-84g|a|Valle de Morelos
+Valstagna|IT||9o|3jd|wf|a
+Valea Stânii|RO|Arges|8u|3gz|1xc|a|Valea Stânei;Valea Stînii
+Valea Glodului|RO||8u|3nz|21h|a
+Văleni|RO|Gorj County|8u|3ga|1sz|a
+Val Masino|IT||9o|3ke|qs|a
+Vale do Paraíso|PT||99|30o|-op|a
+Valle de Aguascalientes|MX||41|1p1|-7w2|a
+Văliug|RO||8u|3hn|1p7|a|Ferenczfalva
+Walhalla|US|North Dakota|2f|3rw|-7k0|a|Valhalla
+Valle Lerma|MX||3x|1ol|-83y|9
+Valders|US||2f|3ef|-6s4|9
+Val Vomano|IT||9o|3ad|128|9
+Vâlcele|RO|Cluj County|8u|3lp|1tp|9|Bányabükk;Vîlcele
+Valea Ursului|RO|Mehedinți County|8u|3fv|1s2|9
+Valli del Pasubio|IT||9o|3j2|va|9|Valli di Pasubio;Valli d'Pasubio
+Valmareno|IT||9o|3jp|xp|9
+Valdampierre|FR||9k|3sy|5p|9
+Valle Dorado Dos Mil|MX||41|1l1|-7r3|9
+Valīābād|IR|Qazvin Province|7o|2rh|3v0|9|Walīābāb
+Valea Bradului|RO||8u|3k7|1rf|9
+Valcău de Sus|RO||8u|3mv|1r5|9|Vălcăul-de-Sus
+Val-Brillant|CA||59|3qt|-57n|9
+El Valenciano|MX||41|1jz|-7wm|9|Valenciano
+Valea Popii|RO|Prahova|8u|3gw|20l|9
+Valea Mare|RO|Vaslui County|8u|3m1|24a|9
+Valerio Trujano|MX||41|1dd|-7he|9
+Valea|RO|Gorj County|8u|3g8|1sg|9
+Sofiyivka|UA|Donetsk|98|3pd|2jz|9|Valove;Sofiivka;Sofiyevka;Valovoye
+Valea Nandrii|RO||8u|3h2|1x4|9
+Valea Mănăstirii|RO||8u|3h3|1xh|9
+Valtotópi|GR||8p|35v|1tk|8
+El Valerio|MX||41|1il|-7q2|8|Valerio
+Valdemanco|ES||9d|35j|-a6|8
+Valentine|FR||9k|3bp|1y|8
+Valdeblore|FR||9k|3ef|jx|8|Vaudeblòra;Vallis Blorae;Val de Blora
+Valle|US||4i|2r1|-8ni|8
+Val|RU||7f|41e|b1e|8
+Vallelado|ES||9d|370|-cb|8
+Văleni|RO|Neamț County|8u|3mn|225|8
+Valgioie|IT||9o|3h6|kf|8
+Valea Popii|RO|Călărași County|8u|3eo|21r|8
+Vallères|FR||9k|3nf|1b|8
+Valencia del Mombuey|ES||9d|2y8|-js|8
+Val-de-la-Haye|FR||9k|3t6|2s|8
+Valle San Giovanni|IT||9o|3ae|11u|8
+Valle Dorado|MX||44|24t|-7tb|8
+Valderiès|FR||9k|3e9|67|8
+Valy|RU||9p|445|3t9|8|Voly
+Vallåkra|SE||9w|4bg|zq|8
+Vălișoara|RO|Caraș-Severin County|8u|3hw|1px|8
+Le Val-David|FR||9k|3s2|3h|8|Val-David
+Valdeavero|ES||9d|34v|-99|8
+Valea Nucului|RO||8u|3hq|229|8
+Valer’yanovo|BY||9g|45x|24v|8
+Valle de Guadalupe|MX|Querétaro|41|1nd|-7nk|8
+Valea Bourei|RO||8u|3nr|21n|8
+Valenzuela de Calatrava|ES||9d|2zx|-ah|8
+Valdaso|IT||9o|3bq|12f|8
+Valea Siliștii|RO||8u|3hj|1x7|8|Valea-Silişteii;Valea Siliştei
+Valencia de Fuentes|MX||41|1ks|-7sh|8
+Valea lui Alb|RO||8u|3g7|1vj|8
+Valea|RO|Dâmbovița County|8u|3hb|1y6|8
+Valley Brook|US||2f|2qc|-7is|8
+Valea Mare|RO|Vaslui County|8u|3m3|23x|8
+Valtinó|GR||8p|31v|1o6|8|Valtsinón
+Vallebona|IT||9o|3dp|lb|8|Valebòna
+Valdemaqueda|ES||9d|34j|-by|8
+Valdeobispo|ES||9d|33c|-hd|8
+Valtura|HR||a6|3gr|12s|8
+Valverde de Llerena|ES||9d|2y6|-g6|8
+El Valle de las Delicias|MX||41|1q0|-7vy|8|Valle de las Delicias
+Valva|IT||9o|356|16f|8
+Valley View|US|Texas|2f|2l1|-7hx|8|Valleyview
+Valley Springs|US|South Dakota|2f|3d2|-7fz|8
+Valea Corbului|RO||8u|3gr|1xj|8
+Valea Ursului|RO|Arges|8u|3gp|1wt|8
+Valea Lungă Gorgota|RO||8u|3h6|1z0|8|Valea Lungă-Gorgota
+Vallan|FR||9k|3om|9u|8
+Valle de San Felipe|MX||44|1zp|-7rk|8
+Valsonne|FR||9k|3jn|cb|8
+Valsanzibio|IT||9o|3ht|wk|8
+Valdaora di Sotto|IT||9o|3lx|xe|8
+Valea Stâlpului|RO||8u|3hl|20a|8|Valea Stîlpului
+Vallo Torinese|IT||9o|3hm|ku|7
+Valea Largă|RO|Prahova|8u|3gw|20s|7
+Valliant|US||2f|2mg|-7c5|7
+Valflaunès|FR||9k|3do|ar|7
+Volčja Draga|SI||9a|3jj|120|7|Valvolciana
+Válor|ES||9d|2us|-8k|7
+Valea Lupșii|RO||8u|3ku|1sj|7
+Valcourt|FR||9k|3r2|dn|7
+Văleni|RO|Vrancea|8u|3jz|23g|7
+Vallarga|IT||9o|3m4|wl|7
+Vallon-sur-Gée|FR||9k|3p8|-7|7
+Valdealgorfa|ES||9d|35v|-3|7
+Vălani de Pomezeu|RO||8u|3lz|1q1|7
+Vallenay|FR||9k|3ly|6l|7
+Valdeverdeja|ES||9d|32k|-el|7|Valle la Verja;Valdeverja;Valverdeja
+Valliera|IT||9o|3h6|xe|7
+Valea Bădenilor|RO||8u|3hq|1xz|7
+Valmacca|IT||9o|3ha|nu|7
+Valence-en-Brie|FR||9k|3qk|81|7
+Valproto|IT||9o|3ik|wd|7
+Valtopina|IT||9o|3bm|zf|7
+Valea Oilor|RO||8u|3n8|23a|7
+Valencia de las Torres|ES||9d|2yp|-go|7
+Valea Bujorului|RO||8u|3eg|1zr|7
+Valea lui Darie|RO||8u|3l1|25m|7
+Valea de Brazi|RO||8u|3hw|1s4|7
+Valverde de la Vera|ES||9d|33g|-fa|7
+Valea Mică|RO|Bacău County|8u|3kv|22u|7
+Văleni|RO|Arges|8u|3hq|1w6|7
+Valle Verde|MX|Hidalgo|41|1ko|-7ks|7
+Vallouise|FR||9k|3gl|i1|7
+Valskog|SE||9w|4l4|18a|7
+Valea Sălciilor|RO||8u|3hk|21x|7
+Valladolises|ES||9d|2wy|-34|7
+Valle Santo Domingo|MX||3x|1yt|-8mw|7
+Valea Seacă|RO|Covasna County|8u|3k0|20k|7
+Valea lui Enache|RO||8u|3h8|1wg|7
+Valīsdeh|IR||7o|2ta|417|7|Velīsdeh
+Valea Nicovani|RO||8u|3gw|20r|7|Valea Nicovanei
+Valines|FR||9k|3v4|4i|7
+Valea Anilor|RO||8u|3f8|1ro|7
+Valea Mare-Bratia|RO||8u|3h7|1xb|7
+Valsamáta|GR||8p|2y2|1l6|7
+Vales do Rio|PT||99|33o|-kz|7
+Vallangoujard|FR||9k|3si|5v|7
+Valoria la Buena|ES||9d|384|-cl|7|Valoria la Bueno;Viloria la Buena
+Valea Stânii|RO|Călărași County|8u|3ex|21y|7|Valea Stânei;Valea Stînii
+Valle de Eureka|MX||44|1zq|-7z8|7
+Valea Caselor|RO|Dâmbovița County|8u|3gg|1y5|7
+Văleni|RO|Olt|8u|3f2|1vj|7
+Valle Verde|MX|Nayarit|3x|1mo|-82m|7
+Valvori|IT||9o|37g|12l|7
+Valea Plopului|RO||8u|3hu|20p|7
+Valkla|EE||9x|4l7|1yc|7
+Valsequíllo|MX||41|1k2|-7i3|7
+Vâlcelele|RO|Prahova|8u|3gu|21a|7|Vîlcelele
+Valtrighe|IT||9o|3iy|qi|7
+Val de San Lorenzo|ES||9d|39u|-h0|7
+Valier|US|Illinois|2f|2xm|-6vc|7
+Valea|RO|Mureș County|8u|3lc|1ww|7
+Vallberga|SE||9w|4cv|106|7
+Valdurenque|FR||9k|3d1|6f|7
+Valea Brazilor|RO||8u|3h5|1wk|7
+Vall-Llobrega|ES||9d|38c|8p|7
+Vallesaccarda|IT||9o|362|16d|7
+Valea Pechii|RO||8u|3hj|1xh|6|Valea Pechi
+Vallargärdet|SE||9w|4l8|11r|6
+Văleni|RO|Bacău County|8u|3l3|238|6
+Valle de los Pinos|MX||41|1l0|-7r2|6
+Valea Borului|RO||8u|3hv|20c|6
+Valea Timișului|RO||8u|3hz|1pv|6
+Vallières-les-Grandes|FR||9k|3nq|37|6
+Valea Cetățuia|RO||8u|3hm|1y0|6
+Valdaracete|ES||9d|33p|-8v|6
+Valea Fântânilor|RO||8u|3fm|1t8|6|Valea Fîntînilor
+Valle de Guadalupe|MX|Michoacán|41|1jb|-7vq|6
+Vallecillo|MX||44|222|-7pr|6
+Valle Bernardo|IT||9o|36z|11c|6
+Valley View|US|Ohio|48|331|-6er|6|Valleyview
+Valeriano|IT||9o|3k9|zw|6
+Valea de Jos|RO||8u|3ld|1qh|6
+Valle Alto|MX||41|1h5|-7fa|6
+Puerto del Toro|MX||2g|25o|-84b|6|Valle del Toro
+Valea Ugra|RO||8u|3l9|206|6
+Valea Plopilor|RO||8u|3ew|1zq|6
+Vallalta|IT||9o|3gu|ul|6
+Valle Verde|MX|Querétaro|41|1nr|-7nh|6
+Vallans|FR||9k|3ke|-1j|6
+Valle Bonito|MX||58|2i3|-90o|6
+Valle Galeana (El Tamarindo)|MX||41|1ed|-7qg|6
+Valdesalor|ES||9d|31e|-hn|6
+Valea Cătinei|RO||8u|3ht|20w|6|Valea Catini
+Valchid|RO||8u|3k9|1wa|6
+Valea Stejarului|RO||8u|3oz|1un|6
+Valenzuela|PY||1y|-1z3|-4dz|6
+Valea Crișului|RO|Bihor County|8u|3mf|1qw|6
+Valverde del Majano|ES||9d|35s|-br|6
+Valencia|US|Pennsylvania|48|34z|-667|6
+Vallone|IT||9o|3dc|10n|6
+Văleni|RO|Sălaj County|8u|3n7|1t5|6
+Valea Cotești|RO||8u|3ir|238|6
+Valea Deșului|RO||8u|3gm|1th|6
+Valea Mare|RO|Dâmbovița County|8u|3h6|1z5|6
+Valdeaveruelo|ES||9d|34v|-97|6
+Valeapai|RO||8u|3id|1oc|6|Valepaj;Valeapáj
+Valvatna|NO||9j|4m1|f2|6
+Valea Lungului|RO||8u|3f7|1tr|6
+Valeč|CZ||9m|3si|18k|6
+Valderrey|ES||9d|39r|-gq|6
+Valfloriana|IT||9o|3kh|vi|6
+Vallescuropasso-Località Stefano|IT||9o|3h5|po|6
+Valyevachy|BY||9g|45b|268|6
+Valle Cerrina|IT||9o|3hb|mt|6
+Vallada Agordina|IT||9o|3ks|x5|6
+Vălenii Lăpușului|RO||8u|3np|1u3|6
+Valle|IT|Lombardy|9o|3jz|sz|6
+Valle|IT|Veneto|9o|3in|vp|6
+Valparaiso|US|Nebraska|2f|364|-7gz|6
+Valaurie|FR||9k|3fe|dd|6|Valàuria
+Valkeveen|NL||8m|41a|eg|6
+Valley Head|US||2f|2o1|-6lt|6|Valleyhead
+Valdelosa|ES||9d|36d|-g2|5
+Valea Mare de Criș|RO||8u|3mj|1qp|5
+Valzemola|IT||9o|3f8|mp|5
+Valea Vințului|RO||8u|3ju|1t6|5
+Valea Sării|RO||8u|3jg|22g|5|Valea-Sărei
+Vallehermoso|MX||2b|1hb|-6tw|5
+Valea Lupului|RO|Buzău County|8u|3hz|217|5
+Valpuiseaux|FR||9k|3qf|6e|5
+Valburga|SI||9a|3k9|143|5
+Valuéjols|FR||9k|3h5|85|5
+Vâlcele|RO|Bacău County|8u|3kn|23d|5|Vîlcele
+Vallegianno|IT||9o|30w|19b|5
+Valmeinier|FR||9k|3hj|i0|5
+Valea Pojarului|RO||8u|3gt|1tx|5
+Vals|AT||a2|3mp|w1|5
+Valle Escondido|MX||3x|1w4|-89y|5
+Valley Acres|US||3p|2pt|-97p|5
+Vahl-Ebersing|FR||9k|3s9|ir|5|Val Ebersing
+Valea Popii|RO|Arges|8u|3gn|1xp|5
+Valeille|FR||9k|3iz|by|5
+Valhuon|FR||9k|3w3|6m|5
+Valay|FR||9k|3ni|fo|5
+Valfleury|FR||9k|3ig|ch|5
+Valea Satului|RO||8u|3mf|24j|5
+Valea Viei|RO|Gorj County|8u|3ga|1st|5|Valea Vii
+Vallo|IT||9o|3hr|lw|5
+Valea Anei|RO||8u|3hv|20s|5
+Valea Mică|RO|Alba County|8u|3k0|1so|5
+Valle Florido|MX||44|1u8|-82a|5
+Vallemare|IT||9o|39n|136|5
+Valea Viei|RO|Buzău County|8u|3hv|217|5
+Valle de Morelos|MX||41|1g1|-7mx|5
+Valier|US|Montana|2p|3q7|-8nt|5
+Valrovina|IT||9o|3j7|wh|5
+Valle Nuevo|PE||3o|-ia|-660|5
+Val-des-Prés|FR||9k|3gv|ik|5
+Valjala|EE||9x|4i9|1rc|5|Val’yala
+Valea Cufundoasă|RO||8u|3p6|1ui|5|Mélypatak
+Valea Pietrei|RO||8u|3h1|20u|5|Valea Pietrii
+Valea Râului|RO||8u|3gu|1vk|5|Valea Rîului
+Valdelacasa de Tajo|ES||9d|32d|-eo|5
+Valdieri|IT||9o|3f0|kk|5

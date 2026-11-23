@@ -1,0 +1,1190 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Recife|BR||4p|-md|-2ow|crb|Recifo;Resife;Fernambucum;Resifi
+Yerevan|AM||80|33m|3fn|8tz|Jerewan;Ereván;Jerevan;Erevano;Iereván;Êrîvan;Erywań;Jerevanas;Yiriwan;Jerjewan;Jerevani;Eireaván;Erevāna;Erevanum;Eriwan;Djerevan;Revan;Iravan;Erewan
+Riga|LV||9n|4e7|1uz|5qa|Rigo;Riia;Riika;Ryga;Riqa;Reiga;Ríge;Riigaa;Rigg-a;Rija
+Rasht|IR||7o|2vk|3tr|4l6|Rascht;Rašt;Raszt;Rasjt;Raŝto;Reşt;Reštas;Raixt;Resht
+Reynosa|MX||3w|20g|-7l0|4jr|Reinosa
+Ryazan’|RU||9i|47r|32a|45q|Riazań;Rjasan;Ryazan;Rjazaň;Resania;Rjazanj
+Ar Raqqah|SY||69|2rv|30d|43s|Raqqa;Ar-Raqqah;Rakka;Raka;Reqa;Callinicum;Raqqah
+Tallinn|EE||9x|4l4|1wr|31g|Rääveli;Talino;Tallin;Taillinn;Talín;Castrum Danorum;Talinas;Tallina;Revel;Talini;Reval;Talins;Lindanäs;Tallidn;Revel';Kallinn
+Rustenburg|ZA||o|-1zb|23o|2vt|Rustemburgo;Restenberha;Rustemburg
+Ras Al Khaimah|AE||6c|1zn|4be|2pr|Ras al-Khaimah;Ra’s al-Chaima;Ras el Khaïmah;Ras el-Kheima;Ras al-Hajma;Ras al-Chajma;Ras al Hajma;Resü'l-Hayme;Ra’s al Khaymah
+Randburg|ZA||o|-20h|25s|2ln|Rendburg
+Reading|GB||9b|3yy|-2p|2gc|Redingo
+Rosetta|EG||c|2f8|2ci|2bu|Rosette;Rasyid;Roseta;Raŝido;Rashīd;Rašid;Ar-Rašíd;Reşid;Rozeta;Er-Rashid
+Resistencia|AR||1n|-24a|-4jv|28s|Resistensija;Resistentia;Resistancia;Resistensėjė
+Volta Redonda|BR||4w|-1qk|-3ei|25s|V Redonda
+Capao Redondo|BR||4w|-1tr|-3ly|238
+Reno|US|Nevada|3p|31t|-98t|21e|Rīno;Rynas
+Rewa|IN||6t|1w5|69t|1th
+Rennes|FR||9k|3pn|-4n|1ra|Roazhon;Reneso;Rènes;Renna;Renas;Rénn Shehiri;Ren;Condate Redonum
+Regina|CA||4q|3w5|-82m|1qw|Reĝino;Redžaina;Ridžaina;Rejina
+Ramadi|IQ||5z|2ku|3cb|1q3|Al-Rumadi;Remadî
+Rengasdengklok|ID||6l|-h4|8a2|1jz
+Rzeszów|PL||a5|3v0|1p4|1j3|Řešov;Resovia;Žešova;Rzeszůw;Žešuv;Jeşuv;Žešuvas;Rjeshov;Rzeshoo
+Reims|FR||9k|3sv|b7|1im|Remeš;Rems;Durocortorum;Rheims
+Reggio Calabria|IT||9o|2xv|17i|1ep|Reggio di Calabria;Reggio de Calabre;Rhegium;Regio;Regio de Calabria;Reggio de Calàbria;Riggiu Calabbria
+Angra dos Reis|BR||4w|-1rx|-3f4|1dr
+Reggio nell'Emilia|IT||9o|3g6|tj|1br|Reggio Emilia;Reggio;Reggio d'Émilie
+Reẖovot|IL||6n|2gl|2op|1ad|Rechowot;Rechovot;Rejovot;Rehobot;Rhovot
+Regensburg|DE||8r|3s6|xm|162|Ratisbona;Řezno;Ratisbonne;Ratyzbona;Rengschburg;Regensbörj;Ratisbon
+Rimini|IT||9o|3ee|yx|15b|Rèmin;Ariminum
+Renca|CL||4u|-2ks|-5gf|14w
+Rewāri|IN||6t|26c|5wu|13q
+Siem Reap|KH||78|114|80i|12r|Ciudad de Siem Riep;Khett Siem Reab;Xiêm Riệp;Siĕm Réab;Siĕmréab;Siemreabas;Sziemreap;Siemrãp
+Plaza de la Revolución|CU||36|1s8|-6cv|12n
+Paris 12 Reuilly|FR||9k|3ro|6n|12c
+Resende|BR||4w|-1qf|-3fh|129|Rezende
+Retiro|ES||9d|349|-a8|z1
+Relizane|DZ||3|2ra|1k|y9|Relizán
+Recklinghausen|DE||8r|3zd|k0|y0|Riäkelhusen;Recklinghusium;Reklinghauzenas
+Reykjavík|IS||87|4y6|-1ou|x1|Reikiavik;Rejkjavik;Rejkjaviko;Réicivíc;Reiquiavik;Reiciavicia;Reykiavica;Reikjavikas;Reikjavīka;Reiquiavique;Reikiavike;Reykyabik;Reykjawik;Rèkyavik;Reikjavik;Rēcwīc;Reykyavik;Rėikjavėks
+Remscheid|DE||8r|3y6|jz|wj|Remšeidas;Remşayd
+Recanto das Emas|BR||4w|-187|-3pi|w4
+Reutlingen|DE||8r|3qp|pk|va|Roitlingenas
+Ressano Garcia|MZ||11|-1yo|2gw|uk|Resano Garcia
+Rijeka|HR||a6|3hx|144|u0|Vitipolis;Sankt Veit am Pflaum;Sankt Veit am Flaum;Flumen;Rijeko;Fiume;Reka
+Ranebennur|IN||6t|14m|5u3|tk|Ranibennur;Renibennur;Raneebennur
+Reus|ES||9d|36c|33|sr
+Liberec|CZ||9m|3x1|15u|sm|Reichenberg;Liberets;Reichenberga
+Red Deer|CA||2s|417|-8s4|s0|Red Dyras;Reddīra
+Renton|US||3p|3nw|-9fi|ru
+Renala Khurd|PK||6q|2ds|5og|rt|Renala Kchurdas;Renala Hurda
+Renqiu|CN||7i|2zj|8yi|re
+Rochdale|GB||9b|44y|-60|r4|Recedham;Ročdeilis
+Modi‘in Makkabbim Re‘ut|IL||6n|2gl|2pa|px|Makkabim;Makkabbim;Ramot Modi‘in;Naẖal Modi‘im;Gane Modi‘in;Makkabbim Re‘ut;Re‘ut;Modi‘in;Modiin
+Redding|US||3p|34r|-9fz|pg|Reading
+Hradec Králové|CZ||9m|3vh|17z|p6|Königgrätz;Reginogradecium;Kraljičin Gradac
+Retalhuleu|GT||32|14e|-72o|p5|Retalhuleo;Retalhuley
+Reconquista|AR||1n|-28z|-4lp|p2
+Reading|US|Pennsylvania|48|342|-5ux|of|Reddin
+Redditch|GB||9b|41b|-5f|oe|Redičas;Rediĉo;Radditch
+Redenção|BR|Pará|23|-mb|-3uz|ns
+Los Reyes Acaquilpan|MX||41|1hs|-7my|nq|Los Reyes La Paz;Reyes la Paz
+Redwood City|US||3p|2w5|-9fk|np|Redwood Lakanbalen;Lungsod ng Redwood;Red Woods City
+Repentigny|CA||59|3j2|-5o1|nm
+Reinickendorf|DE||8r|420|112|nc
+Reef Al Fujairah City|AE||6c|1xu|4c9|mv
+Remedios de Escalada de San Martín|AR||1l|-2oh|-4i8|mn
+Reşiţa|RO||8u|3hu|1ot|mk|Resicabánya;Reschitz;Resiczabánya;Reciţa;Reschitza
+Reutov|RU||9i|4aw|2x6|ls|Reutow;Reoutov;Rieutow;Rjeutow
+Rheine|DE||8r|418|ko|l9|Rene
+Redlands|US|California|3p|2mm|-91i|jq|Redlends;Halchíítah
+Redondo Beach|US||3p|2m1|-94v|iy
+Wrexham|GB||9b|43d|-8b|i9|Wrecsam;Wreksam;Reksamas
+Reseda|US||3p|2n0|-95a|i2
+Rechytsa|BY||9g|41g|2cf|hz|Retschyza;Rechysta;Rechitsa;Ryechitsa
+Renzhao|CN||7i|2ts|99w|hy
+Renukūt|IN||6t|1va|6eo|hc|Renukoot
+Rzhev|RU||9i|4ca|2nd|ha|Rschew;Rżew;Rjev;Ržev;Rzjev;Räsevä;Rjov;Rescovia;Rshew
+Revda|RU|Sverdlovsk Oblast|7z|4ds|4mi|h6|Rewda
+Republica|BR||4w|-1te|-3lk|gv
+Redmond|US|Washington|3p|3of|-9f8|gu
+Royal Oak|US||2q|3a1|-6ey|ge|Reĝa Kverko;Royal-Ou
+Reston|US||48|309|-5yu|g8
+Reyhanlı|TR||94|2sr|2tl|fu
+Registro|BR||4w|-1w1|-3ow|fo
+Reghaïa|DZ||3|2u2|9a|fa
+Revere|US||48|39t|-5h9|eu
+Redhill|GB||9b|3yc|-h|ec
+Renfrew-Collingwood|CA||5b|3st|-9hs|eb
+Reservoir|AU||8j|-2ws|b6s|e7
+Repalle|IN||6t|18i|68j|e5
+Redford|US||2q|39q|-6fe|dv
+Rehnān|IR||7o|2is|3zc|dn|Rahnan;Rohnan;Renān
+Rheda-Wiedenbrück|DE||8r|401|n2|ct|Reda-Videnbruko
+Roermond|NL||8m|3y7|gn|ci|Ruremonde;Remunj;Reurmond;Rurmondas
+Rumia|PL||a5|47l|1f3|cg|Rëmiô;Rumja
+Reino de Bandim|GW||8|wx|-17c|cf
+Regla|CU||36|1s9|-6cp|cc|Regea
+Rejon placu Świętego Macieja|PL||a5|3y0|1bc|c9
+Rembangan|ID||6l|-im|8la|c8|Rembang
+Rego Park|US||48|355|-5p5|c7
+Recodo|PH|Zamboanga Peninsula|71|jb|9es|bw
+Redruth|GB||9b|3vj|-ei|bv|Ryd Ruth;Resrudh
+Rosny-sous-Bois|FR||9k|3rr|6y|bk|Rosny;Rodoniacum;Redomatum;Rôni
+Redcliff|ZW||n|-1gv|2aq|bj
+Remanso|BR||20|-qq|-38w|ba
+Reuleuet|ID||6l|ei|7fg|b8
+Rezé|FR||9k|3n3|-4d|aw|Reudied;Ratiatum
+Revelganj|IN||6t|1zn|6j4|au
+Renyi|CN||7i|29z|850|at
+Errenteria|ES||9d|3cb|-5a|as|Rentería;Orereta
+Retiro|AR||1l|-2o2|-4i6|aq|Retiras
+Rengo|CL||4u|-2nl|-5gu|al
+Rezh|RU||7z|4fd|4qk|ae|Rezj
+Reynoldsburg|US||48|32z|-6e1|ac|Roynoldsburg
+Redcar|GB||9b|47q|-2y|ab
+Realejo Alto|ES||83|26u|-1a3|a0
+Reghin-Sat|RO||8u|3ly|1wo|9v
+Rehoboth|NA||1f|-1ss|1bh|9i
+Dzierżoniów|PL||a5|3wx|1a9|9i|Reichenbach;Reichenbach in Schlesien;Rychbach;Reichenbach im Eulengebirge;Dzeržoņova;Dzeržoniuvas
+Remedios|CU||36|1qh|-64z|9h
+Réo|BF||1a|y8|-6v|9f
+Remuna|IN||6t|1nt|6pb|9a
+Redan|US||48|2lr|-6hp|96
+Reggane|DZ||3|228|h|96|Reggan
+Rethymno|GR||8p|2q9|1w0|91|Rethimno;Rethimnon;Resmo;Rétino;Retimno;Retimnas;Rhithymna;Retimo;Rethýmne
+Komárno|SK|Nitra Region|8s|3oo|1ec|8z|Komorn;Komárom;Észak-Komárom;Komarnas;Révkomárom;Comorn
+Neuruppin|DE||8r|431|zk|8v|Rupina;Reppin
+Remchi|DZ||3|2pe|-3z|8u
+Reino de Antula|GW||8|x2|-17a|8k
+Rehli|IN||6t|1to|63m|8f
+Rembau|MY||6v|77|7vl|88
+Reddipālaiyam|IN||6t|10f|66k|87
+Renwāl|IN||6t|23g|5tc|84
+Redondela|ES||9d|39g|-nx|84
+Redmond|US|Oregon|3p|3ez|-9cl|7z
+Riihimäki|FI||92|4oq|1wu|7y|Regimägi
+Rendsburg|DE||8r|46u|qv|7v|Rendsbourg;Rendsborg;Rendsborag
+Remuera|NZ||ak|-2ug|dhk|7q
+Rexburg|US||28|3dr|-8mj|7p
+Redenção|BR|Ceará|2w|-br|-2zl|7k|Redempção
+Rejon placu Grunwaldzkiego|PL||a5|3y0|1be|7i
+Ar Rudayyif|TN||1e|2ni|mo|7i|Redeyef;Redevef
+Dubrovnik|HR||a6|3ag|1eb|7h|Ragusa;Dubrownik;Dubrovnique;la perla del Adriático;Pearl of the Adriatic;Respublica Ragusina;Communitas Ragusina
+Reserva|BR||4w|-1wh|-3x9|7g
+Remseck am Neckar|DE||8r|3rr|pr|7d
+Rēzekne|LV||9n|4cz|23y|7c|Rzeżyca;Riezeknė;Rēzne;Rositten
+Reforma|MX|Chiapas|3z|1dm|-76r|7b
+Reengus|IN||6t|240|5tx|79|Rīngas;Ringus
+Renigunta|IN||6t|11x|64v|78
+Reisterstown|US||48|31n|-5xf|78
+Raisio|FI||92|4o1|1pl|76|Reso
+Retreat|ZA||o|-2mm|1fc|75
+Reedley|US||3p|2to|-97t|74
+Repelón|CO||27|t6|-5so|73
+Requena|PE||3o|-e2|-5p5|71
+Reinbek|DE||8r|44o|sh|71|Reinbeek
+Reguiba|DZ||3|2l8|im|70
+Renhe|CN||7i|21e|7sm|6x
+Reading|US|Massachusetts|48|3a5|-5hi|6v
+Ranong|TH||62|rp|7lz|6u|Ranonq;Renong;Ranaong;Ranohng
+Renfrew|GB||9b|4b7|-c7|6r|Rinn Friù
+Reitz|ZA||o|-258|26z|6q
+Reoti|IN||6t|1zt|6ie|6m
+Redhill|ZA||o|-20y|2dn|6g
+Ṟuwandiz|IQ||5z|2tp|3fo|6d|Ṟewanduz;Rewandus;Ruwāndūz;Rowandūz;Roandiz;Roanduz;Ruwan Duz;Rāwandūz;Rawandoz;Rawāndiz;Rawanduze
+Rees|DE||8r|3zs|hs|69|Ress
+Reichenbach/Vogtland|DE||8r|3wm|y6|69|Reichenbach;Reichenbach im Vogtland
+Řepy|CZ||9m|3v3|13q|69
+Retford|GB||9b|444|-2m|64
+Tivoli|IT||9o|38k|zk|64|Tibur;Tiboura;Remnun
+Los Reyes Acozac|MX||41|1ix|-7my|63|Reyes Acozac
+Rembertów|PL||a5|416|1ms|63
+Reigate|GB||9b|3yc|-l|62
+Renxian|CN||7i|2d6|8b4|5z
+Reethapuram|IN||6t|mq|5yl|5w
+Renens|CH||a7|3la|ib|5t
+Retiro|CO||27|gu|-5tq|5r
+Rejon ulicy Traugutta|PL||a5|3xy|1bd|5q
+Renfrew Heights|CA||5b|3st|-9hr|5q
+Reçani|MA||d|2ew|-bv|5p
+Requena|ES||9d|31p|-32|5m
+Regente Feijó|BR||4w|-1pq|-3yi|5l
+Rensha|CN||7i|2bh|8av|5l
+Ranot|TH||62|lm|7qo|5i|Renut;Rahnot;Ranod
+Reykjanesbær|IS||87|4xs|-1qo|5h|Reykjanesbæ;Reykjanesbæjar;Reykjanesbar
+Resubelpara|IN||6t|1zy|6zp|5g
+Reẕvānshahr|IR|Gilan Province|7o|2wb|3si|5f
+Reinach|CH|Basel-Landschaft|a7|3ny|l3|5c
+Rhede|DE|North Rhine-Westphalia|8r|400|im|5b|Rede
+Redbank Plains|AU||8c|-24t|bsm|5b
+Rémire-Montjoly|GF||2d|do|-417|5a
+Relau|MY||6v|et|7qk|58
+Reni|UA||98|3i9|26k|55
+Reriutaba|BR||2w|-bi|-34q|54
+Reda|PL||a5|47p|1ez|51
+Rhenen|NL||8m|40c|fh|51|Renen
+Regeneração|BR||2w|-hb|-3al|50
+Remígio|BR||2w|-jd|-2rg|4z
+Reinheim|DE||8r|3uf|ok|4y|Raynhaym
+Reftinskiy|RU||7z|4el|4rc|4x|Reftinskij
+Restrepo|CO|Meta Department|27|bu|-5oc|4w
+Renningen|DE||8r|3rh|ou|4u
+Rejas|ES||9d|34d|-9x|4u
+Redland|US|Maryland|48|30r|-5ya|4s
+Resplendor|BR||4w|-1hp|-36m|4s
+Realeza|BR||4w|-1zl|-44p|4q
+Bad Reichenhall|DE||8r|3ol|zs|4p|Reichahoi
+Resen|MK||9u|365|1md|4l
+Bogatynia|PL||a5|3xf|15k|4l|Reichenau;Bogatiņa
+Red Wing|US||2f|3fs|-751|4k
+Remagen|DE||8r|3wi|k3|4j|Rigomagus
+Rijen|NL||8m|3zb|do|4i|Reijen
+Republic|US|Missouri|2f|2v4|-77o|4g
+Recoletos|ES||9d|34a|-a9|4a
+Ribnitz-Damgarten|DE||8r|46o|ym|49|Rëbnica-Dãbògóra;Ribnica-Damgartene
+Rekhasim|IL||6n|2iz|2pi|47
+Regenstauf|DE||8r|3sg|xp|46
+Rebouças|BR||4w|-1z6|-3wt|46
+Restinga Sêca|BR||4w|-2at|-449|45|Restinga Secca
+Redland Bay|AU||8c|-24p|btu|42
+Retirolândia|BR||20|-vx|-31j|41
+Recanati|IT||9o|3ck|11n|3z
+Rescaldina|IT||9o|3iq|ov|3y
+Recreo|AR|Catamarca|1m|-29c|-50q|3y|Rekreo;Recreio
+Red Bluff|US||3p|33m|-9fk|3x|Redbluff
+Reidsville|US|North Carolina|48|2sz|-65a|3x
+Revesby|AU||8l|-2mb|bni|3x
+Real del Valle (El Paraíso) [Fraccionamiento]|MX||41|1l3|-7z5|3v
+Rønne|DK||8y|492|14v|3u|Rionė;Renne
+Rellingen|DE||8r|451|rb|3t
+Reclamation Areas|GI||90|2se|-ew|3t
+Řečkovice|CZ||9m|3st|1a2|3q
+Red Hill|US|South Carolina|48|2mg|-646|3o
+Red Hill|US|South Carolina|48|2ly|-63i|3o
+Rethabiseng|ZA||o|-1zg|27s|3n
+Redfern|AU||8l|-2m5|bo0|3n
+Trastevere|IT||9o|38c|yn|3m|Trastíber;Regio Transtiberina;Zatybrze
+Reeuwijk|NL||8m|40l|d4|3k
+Recreo|AR|Santa Fe|1n|-2fh|-4op|3k
+Reliance Complex|IN||6t|1q2|5e2|3k
+Rezzato|IT||9o|3if|so|3k
+Rendon|US||2f|2ii|-7i4|3i
+Rermā|IN||6t|1us|6hk|3h
+Regen|DE||8r|3s1|10h|3f
+Red Bank|US|New Jersey|48|343|-5pq|3e|Redbank
+Red Oak|US|Texas|2f|2ic|-7gw|3c|Redoak
+Rengit|MY||6v|4o|7yj|3c
+Ressaca do Muca|BR||23|1|-3xw|3c
+Le Relecq-Kerhuon|FR||9k|3qh|-c8|3b|Ar Releg-Kerhuon;Relecq-Kerhuon
+Recke|DE||8r|41h|lg|3a
+Red Bank|US|Tennessee|48|2pj|-6kx|3a
+Ressaca Pacoval|BR||23|5|-3xu|39
+Real|PT||99|37g|-ng|39
+Rychnov nad Kněžnou|CZ||9m|3vc|197|39|Reichenau an der Knieschna;Richnovas prie Knežnos
+Ravenna|US|Ohio|48|36c|-69o|38|Revenna;Ravena
+Rehti|IN||6t|1r6|5z3|38
+Regent's Park|GB||9b|3z5|-g|38
+Redkino|RU||9i|4dd|2su|37|Riedkino
+Rebordosa|PT||99|36i|-nd|37|Rebordoza
+Rehoboth|US||48|388|-5hx|37
+Rey Bouba|CM||j|o3|13e|37|Rei Buba;Reï-Bouba
+Requínoa|CL||4u|-2n9|-5gq|37
+Er Regueb|TN||1e|2ou|r7|36|Regueb;El Regueb
+Rejiche|TN||1e|2qj|uo|36|Redjiche
+Resende Costa|BR||4w|-1m4|-3ew|34|Rezende Costa
+Redwoodtown|NZ||ak|-37d|df7|34
+La Resolana|MX||41|1ig|-823|34|Resolana
+Revúca|SK||8s|3r8|1jw|32|Nagyrőce
+Recreio|BR||4w|-1ns|-39z|32
+Regents Park|AU|Queensland|8c|-24w|bt4|31
+Rehburg-Loccum|DE||8r|41r|pk|31
+Rengāli|IN|Odisha|6t|1o5|6hh|31
+Regent Park|CA|Ontario|59|3da|-64g|30
+Reiskirchen|DE||8r|3wk|oj|2z
+Rengte|IN||6t|1w0|75o|2y
+Reyḩānābād|IR|West Azerbaijan|7o|2we|3hc|2x
+Rexdale-Kipling|CA||59|3dg|-651|2x
+Redwood Shores|US||3p|2w9|-9fl|2x
+Revadanda|IN||6t|1fj|5ml|2w|Revdanda
+Riedlingen|DE||8r|3pr|qc|2w|Redlinga
+Ream|KH||78|tf|7zx|2v
+Reading|US|Ohio|48|30y|-6ik|2v
+Reinosa|ES||9d|3bg|-bi|2v
+Rehau|DE||8r|3vl|xf|2t
+Rebecq-Rognon|BE||8t|3wp|bf|2s
+Rehab|JO||5t|2hs|2s9|2s|Riḩāb;Rahāb
+Residencia Moacir PU5BHV|BR||4w|-22r|-3t5|2s
+Reque|PE||3o|-j3|-65q|2q
+Rezina|MD||8x|3on|28h|2q
+Revda|RU|Murmansk|9i|58q|2o0|2q
+Reserve|US||2f|2bh|-6zj|2q
+Redentora|BR||4w|-24u|-450|2p
+Raseiniai|LT||a3|49u|1s8|2p|Rosienie;Raseiņi;Rossingen;Raseinen;Reseiniai;Rossienie;Raseinių
+Recco|IT||9o|3f8|pe|2p
+Redlynch|AU||8c|-1b1|b8q|2p
+Red Bank|US|South Carolina|48|2m9|-69o|2o|Redbank
+Reedsburg|US||2f|3cx|-6y0|2n
+Restrepo|CO|Valle del Cauca Department|27|am|-5wk|2n
+Redon|FR||9k|3od|-5s|2n
+Rensselaer|US|New York|48|3ag|-5ou|2m
+Renkum|NL||8m|40e|fx|2m
+Remiremont|FR||9k|3pe|ib|2l|Romarici Mons
+Reshetylivka|UA||98|3to|2mo|2k|Réchétylivka
+Reinhausen|DE||8r|3s7|xn|2k
+Rembaza|UA||98|3w2|2da|2k
+Real|PH|Calabarzon|71|14q|9ds|2k
+Regio Parco|IT||9o|3ha|lf|2j
+La Resurrección|MX||41|1h2|-7kl|2j|Resurrección
+Redstone|CA||2s|3y5|-8sk|2j
+Reichelsheim|DE|Hesse|8r|3u3|ok|2i
+Reinsdorf|DE|Saxony|8r|3wu|yw|2h
+Rebrikha|RU||63|43g|6cq|2h
+Residence Bel-air|HK||6i|1pt|8t1|2g
+Revel|FR|Occitanie|9k|3cq|5k|2f
+Redlands|US|Colorado|2p|30k|-8ds|2f|Halchíítah
+Rees|IN||6t|1gi|5nc|2e
+Recaş|RO||8u|3j8|1nq|2d|Rékas
+Rethel|FR||9k|3tj|c5|2d
+Redwood|NZ||ak|-3cr|dbh|2d
+Redenção do Gurguéia|BR||2w|-qd|-3fu|2c
+Reinfeld|DE||8r|45j|t5|2b
+Remolino|CO||27|tq|-5rk|2b
+Rebola|GQ||10|ac|oj|2b
+Religāra|IN||6t|1tv|6l4|2a
+Renfrew|CA|Ontario|59|3ib|-5x0|2a
+Realicó|AR||1s|-2pc|-4yh|2a
+Novi Kneževac|RS||8q|3jx|1ju|2a|Kanizsa;Rév-Kanizsa;Kis-Kanizsa;Torontál-Józseffalva;Törökkanizsa;Novi Kneĵevac;Kanisa
+Reodhar|IN||6t|1we|5lh|29|Reodar
+Riāsi|IN||6t|2jw|5rv|29|Reasi
+Reis Magos|IN||6t|173|5p1|29
+Reichenbach an der Fils|DE||8r|3rb|qa|28|Reichenbach
+Retie|BE||8t|3yf|e4|28
+Rijnsburg|NL||8m|40z|cc|28|Rynsburch;Reinsburgum
+Revolución Mexicana|MX|Chiapas|3z|18x|-76k|28
+Revin|FR||9k|3uq|cw|28
+Reduto|BR||4w|-1k6|-38m|26
+Reinach|CH|Aargau|a7|3na|mq|26
+Reginópolis|BR||4w|-1ot|-3sr|25
+Rekurti|IN||6t|1fb|63r|24
+Reisbach|DE||8r|3qx|z3|24|Reischbo
+Recale|IT||9o|362|13q|24
+Revelstoke|CA||5b|3xo|-94c|23
+Nova Redenção|BR||20|-zm|-363|23|Redenção
+Red Bay Estate|KY||2e|1hl|-69y|23
+Regensdorf|CH||a7|3nr|nj|23
+Reyes|BO||3n|-13q|-572|22
+Remontnoye|RU||9i|3lc|3d9|22|Remontnoje
+Rehambal|IN||6t|2je|5sj|22
+Reichertshofen|DE||8r|3r6|vv|21|Reichertzhofen
+Restelo|PT||99|2zi|-pl|21
+Reocín|ES||9d|3ce|-bd|20
+Reguengos de Monsaraz|PT||99|2yr|-kx|20
+Repatriación|PY||1y|-1yy|-4bj|1z
+Racalmuto|IT||9o|2vw|125|1z|Recalmutu;Ragalmutu
+Reusel|NL||8m|3yo|ed|1z|Reuzel
+Rednitzhembach|DE||8r|3sy|us|1y
+Reilingen|DE||8r|3sx|nt|1y
+Renon|IT||9o|3la|vu|1y|Ritten
+Renchen|DE||8r|3qz|m9|1y
+Reet|BE||8t|3xy|c9|1x
+Renascença|BR||4w|-20o|-435|1w|Renascensa
+Rejon ulicy Mieleckiej|PL||a5|3xx|1b8|1w
+Reichelsheim|DE|Hesse|8r|3vw|on|1w
+Regalbuto|IT||9o|2wl|14o|1w|Recalbutu;Regalbulo
+Rrëshen|AL||9y|381|1j8|1w|Rešenis;Rrshen;Rëshen
+Reggiolo|IT||9o|3gs|u1|1w
+Reshetikha|RU||9i|4c6|3c9|1v|Resjetikha
+Reutte|AT||a2|3nw|ts|1v
+Reppenstedt|DE||8r|43x|sr|1v
+Ripky|UA||98|3zw|2ed|1u|Ripkı;Repki
+Le Rheu|FR||9k|3pm|-50|1u|Reuz;Rodus;Rheu
+Ressaca Beirol|BR||23|1|-3xv|1u
+Reedy Creek|AU||8c|-263|bu4|1u
+Renfrew|CA|Alberta|2s|3xu|-8ss|1u
+Renaico|CL||4u|-2wn|-5lm|1u
+Reserva do Iguaçu|BR||4w|-1zs|-40j|1u
+Rediu|RO|Iași County|8u|3n6|24e|1t
+Redován|ES||9d|2xw|-2j|1t|Redovà
+Rzepin|PL||a5|41f|157|1t|Reppen;Rypin Lubuski;Žepina
+Remedios|CO||27|jj|-5rh|1s
+Restinga|BR||4w|-1l8|-3nw|1s|Restingua
+Rengāli|IN|Odisha|6t|1n1|6k7|1r
+Red Lion|US|Pennsylvania|48|32u|-5wt|1r
+Remada|TN||1e|2hs|sw|1r
+Red Chute|US||2f|2ig|-781|1r
+Reina Mercedes|PH||71|1b7|9ef|1q
+Remetea|RO|Harghita County|8u|3ly|1yp|1q|Remete
+Rejon ulicy Klęczkowskiej|PL||a5|3y1|1bb|1q
+Rembia|MY||6v|6h|7vx|1q
+El Realejo|NI||3s|yu|-6q5|1q|Realejo
+Reuver|NL||8m|3yg|gw|1p
+Red Lion|US|Pennsylvania|48|34g|-5u2|1p
+Real del Sol|MX||44|202|-7qa|1o
+Rensselaer|US|Indiana|2f|35q|-6q3|1n
+Reservoir|US||48|39l|-5hn|1n
+Reignier-Ésery|FR||9k|3k5|hf|1n
+Reddersburg|ZA||o|-2ad|20p|1n
+Redondo|PT||99|2zd|-kz|1m
+Khojaly|AZ||61|32v|3lz|1m|Xocalı;Ivanyan;Khodjaly;Xocalı rayonu;Ĥoĝali;Xocalın piirikunta;Khojali;Daerah Khojali;Khojali Rayon;Rayon Khojali;Distrito ng Khojali;Hocalı Rayonu;Rejon Xocalı;Hojali;Joyalí;Khodzhaly;Khozhali
+Retiro|CL||4u|-2s5|-5jc|1l
+Redcliff|CA||2s|3v4|-8jq|1k
+Refahiye|TR||94|32t|2zp|1k
+Røros|NO||9j|4tt|vm|1k|Rerusas;Plassje
+Rechberghausen|DE||8r|3rd|qs|1k
+Reichshoffen|FR||9k|3rx|lb|1j|Reichshofen;Risshoffe
+Red Oak|US|Iowa|2f|35x|-7cj|1j
+Elek|HU||8v|3l9|1n1|1j|Aletea;Renndorf
+Red Hill|AU|Queensland|8c|-1kg|bgi|1i
+Răşinari|RO||8u|3iy|1uv|1i|Resinár
+Red Hill|AU|Queensland|8c|-249|bt0|1i
+Recea|RO|Maramureş|8u|3ob|1tc|1i
+Regidor|CO||27|o3|-5p2|1h
+Red Cliffs|AU||8j|-2nb|ayz|1h
+Renedo|ES||9d|3cf|-az|1h
+Reken|DE||8r|3zz|jl|1h
+Reservoir Hill|US||48|317|-5wv|1h
+Redwood Park|AU||8b|-2op|apb|1g
+Reszel|PL||a5|465|1mr|1g|Rešlius;Rešela
+Rechka-Vydrino|RU||6k|3z1|839|1g|Rechka Vydrino;Vydrino
+Rediu|RO|Neamț County|8u|3lw|21s|1g
+Reichenau|DE||8r|3oh|p6|1f
+Reichstett|FR||9k|3r5|lj|1f|Richstett
+Redbourn|GB||9b|3zw|-14|1f
+Kemajuan Tanah Rentam|MY||6v|93|7x2|1f|Rentam;FELDA Rentam
+Reẕvān|IR|Hormozgan|7o|24l|4bs|1f
+Redwood Falls|US||2f|3fq|-7c8|1f
+Remicourt|BE||8t|3ws|et|1f
+Readville|US||48|39c|-5hm|1e
+Refojos de Basto|PT||99|37b|-m8|1e
+Rennertshofen|DE||8r|3rg|up|1e
+Reichertshausen|DE||8r|3p2|w4|1e
+Rebaudengo|IT||9o|3hb|le|1e
+Rekkem|BE||8t|3x2|8s|1d|Reckem
+Robâa Ouled Yahia|TN||1e|2s9|ql|1d|Robâa Oulad Yahia;Rebaa Oulad Yahia
+Regents Park|AU|New South Wales|8l|-2m4|bni|1d
+La Reforma|GT||32|154|-732|1d|Reforma
+Redcliffe|AU||8k|-2gq|8y3|1d
+Duszniki-Zdrój|PL||a5|3w0|19j|1d|Reinerz;Duszniki;Bad Reinerz;Duszniki Zdrój;Duszńiki-Zdrůj;Dušņikizdroja
+Recarei|PT||99|36b|-nd|1d
+Reimarla|FI||92|4nb|1x1|1c|Reimars
+Lisiy Nos|RU||9i|4mq|2be|1c|Revonnenä;Lissijnos
+Rędziny|PL||a5|3xa|1he|1c
+Řeporyje|CZ||9m|3uz|13s|1b
+Reana del Rojale|IT||9o|3k6|10t|1b
+Repedea|RO||8u|3ov|1vs|1b
+Reynella|AU||8b|-2ph|aot|1b
+Renmark|AU||8b|-2my|auz|1b
+La Réole|FR||9k|3fu|-4|1b|La Rèula;Réole
+Rebrişoara|RO||8u|3nc|1vx|1a
+Regoledo|IT||9o|3k5|qj|1a
+Rehfelde|DE||8r|41x|12n|1a
+Reaksmei Sameakki|KH||78|w8|81e|1a|Phum Taông Maông;Phumĭ Taŏng Maông
+Retinne|BE||8t|3wn|fu|1a|Ritene
+Ressaquinha|BR||4w|-1mi|-3dk|19|Ressaguinha
+Redenção da Serra|BR||4w|-1so|-3ih|19
+Rekem|BE||8t|3xg|ft|19
+Reidland|US||2f|2uu|-6tx|19
+Retamar|ES||9d|2ub|-6g|19
+Rejowiec Fabryczny|PL||a5|3xz|1sl|19|Rejovecfabrični
+Reyḩānābād|IR|Tehran|7o|2qa|3zg|18
+Reichenbach|DE|Saxony|8r|3y2|154|18
+Rejon alei Kromera|PL||a5|3y1|1bf|18
+Rebe|PH||71|lz|9jy|18
+Rijsenhout|NL||8m|416|d3|18|Reisenhautas
+Red Lake|CA|Ontario|5d|3xq|-78n|18
+Resko|PL||a5|45d|16t|18|Réga
+Redwood|US|Texas|2f|2at|-7jz|17
+Reana del Roiale|IT||9o|3k6|10q|17
+Rezveh|IR||7o|2j8|3wh|17|Rozveh
+Renazzo|IT||9o|3gd|vd|17
+Remetea|RO|Mureș County|8u|3ld|1w3|16
+Rötha|DE||8r|3y8|yh|16|Rēta
+Remptendorf|DE||8r|3wd|wd|16
+Regis-Breitingen|DE||8r|3xx|yk|16|Rēgisa-Breitingene
+Reiffton|US||48|340|-5ur|16
+Renate|IT||9o|3j0|ps|16
+Rebstein|CH||a7|3no|qn|16
+Reedsport|US||3p|3de|-9kq|15
+Ressaix|BE||8t|3w2|bn|15
+Rettenberg|DE||8r|3o5|sl|14
+Reyrieux|FR||9k|3jm|dd|14
+Remich|LU||9c|3tn|hp|14|Réimech
+Real del Padre|AR||1q|-2os|-588|14|Real de Padre
+Reichenberg|DE||8r|3u5|rj|14
+Reminderville|US||48|36v|-6a4|14
+Reyes Mantecón|MX||41|1az|-7gp|14
+Reiden|CH||a7|3n9|m5|13
+Real Hacienda (Metrópolis)|MX||41|1iv|-7t4|13
+Rennerod|DE||8r|3wl|mf|13
+Rediu|RO|Galați County|8u|3j0|25b|13
+Roche Caïman|SC||ae|-cw|4a3|12|La Roche;Red Cayman;Caïman
+Ressaca Nova Esperança|BR||23|3|-3xw|12
+Reggello|IT||9o|3dc|w1|11
+Revivka|UA||98|3sd|2kr|11|Reyevka;Reyivka;Reivka
+Revigny-sur-Ornain|FR||9k|3rn|dv|11
+Vrdnik|RS||8q|3hc|1iz|11|Rednek;Rednök
+Red Oaks Mill|US||48|37q|-5p7|10
+Reẕvānshahr|IR|Yazd Province|7o|2gy|46k|10
+Reẕvānshahr|IR|Isfahan|7o|2iv|3xy|10
+Rebricea|RO||8u|3m7|24j|10
+Ribnica|SI||9a|3j2|14x|10|Reifnitz
+Renage|FR||9k|3hx|f9|10
+Red Bud|US||2f|2y5|-6xz|10
+Řevnice|CZ||9m|3un|13k|10
+Rötz|DE||8r|3t2|yt|z|Retz
+Retiers|FR||9k|3p3|-3u|z|Rester;Resteria
+Remetea Mare|RO||8u|3j6|1ne|z
+Recursolândia|BR||1k|-o9|-3n8|z
+Realmonte|IT||9o|2vn|11e|y|Rialmunti
+Rechitsy|RU||9i|4ag|2yv|y|Retsjitsy
+Red Springs|US||48|2oq|-63y|y
+Red Oak|US|North Carolina|48|2s4|-60f|y
+Renswoude|NL||8m|40n|fe|y
+Remanzacco|IT||9o|3k1|110|y|Ramanzas
+Redwitz an der Rodach|DE||8r|3vd|v5|y|Redwitz
+Redhead|AU||8l|-2jp|bpf|y
+Rebordões|PT||99|36w|-ne|y
+Richwiller|FR||9k|3oq|k8|y|Reichweiler
+Reamstown|US||48|33p|-5vg|y|Riemeschteddel
+Reviga|RO||8u|3g8|23a|x
+Réhon|FR||9k|3ti|fz|x
+Reno|US|Texas|2f|2li|-7d6|x
+Reinsberg|DE||8r|3xp|115|x
+Recoaro Terme|IT||9o|3iy|v6|x
+Resarö|SE||9w|4l3|1ex|w
+Rietavas|LT||a3|4at|1ow|w|Rietavo;Retavas
+Recea|RO|Arges|8u|3fp|1xi|w
+Revyakino|RU||9i|471|2wm|w|Revjakino;Rewjakino
+Redea|RO||8u|3ed|1vi|w
+Recea|RO|Brașov County|8u|3iz|1x9|w
+Revava|IL||6n|2h8|2pl|w
+Reshetnikovo|RU||9i|4ct|2tl|w|Resjetnikovo;Rešetnikovo
+Resende|PT||99|367|-m5|w|Rezende
+Gornja Radgona|SI||9a|3ln|18f|w|Regede
+Red Bay|US||2f|2no|-6su|v|Redbay
+Repnoye|RU||9s|3zb|3bz|v|Repnoje
+Réalmont|FR||9k|3dm|63|v
+Replonges|FR||9k|3km|dk|v
+Redessan|FR||9k|3dr|ci|v
+Reinhardtsgrimma|DE||8r|3xd|128|v
+Red Hill|AU|Australian Capital Territory|8l|-2q5|bi8|v
+Remetea|RO|Bihor County|8u|3lt|1q3|v
+Rietschen|DE||8r|3ys|152|v|Rěčicy
+Rechnitz|AT||a2|3ne|19o|v|Rohonc
+Resana|IT||9o|3is|x7|u
+Rebra|RO||8u|3ng|1w2|u
+Regola|IT||9o|38e|yn|u
+Rendlesham|GB||9b|40t|3y|u
+Relva|PT||81|2wv|-1zg|u
+Remedello|IT||9o|3hs|st|u
+Renfengzhuang|CN||7i|317|92u|u|Jen-feng-chuang
+Rétság|HU||8v|3p5|1h6|u
+Remeţi|RO||8u|3pa|1tn|u
+Recsk|HU||8v|3p5|1jw|u
+Recz|PL||a5|43y|177|u|Reča;Rezecz
+Rekola|FI||92|4nl|1xn|u|Räckhals
+Remetea Chioarului|RO||8u|3o1|1tf|u|Remeţea Chioarulu
+Remeniv|UA||98|3ur|1v9|u|Remenuv;Remenov
+Renazé|FR||9k|3or|-2y|t
+Reding|AT||a2|3m2|159|t
+Zákupy|CZ||9m|3ws|14p|t|Reichstadt
+Rehna|DE||8r|45e|up|t|Rēna
+Recas|ES||9d|339|-b3|t
+Reichenburg|CH||a7|3n1|oy|t
+Regent Park|CA|Saskatchewan|4q|3w7|-82p|t
+Refugio|US||2f|26n|-7i8|t
+Redan|AU||8j|-2we|b3k|t
+Renaison|FR||9k|3jx|aw|s
+Remetekertváros|HU||8v|3o3|1go|s|Remetekertearos
+Reteag|RO||8u|3n4|1uq|s
+Złoty Stok|PL||a5|3w4|1aw|s|Reichenstein;Zloti Stoka
+Rieux|FR|Brittany|9k|3o8|-5v|r|Reoz
+Résidence Cogneau-Larivot|GF||2d|dl|-41e|r
+Reno|US|Texas|2f|2ji|-7j2|r
+Rettikhovka|RU||7w|3ep|a8t|r|Rettikhoveka;Ritikhovka;Retikhovka;Rittikhovka;Rhettikhovka
+Reynoldsville|US||48|366|-635|r
+Rydzyna|PL||a5|3zv|1ab|r|Ridzina;Ridzin;Reißen
+Wiesen|AT|Burgenland|a2|3om|19e|r|Rétfalu;Bizmet
+Remington|US|Maryland|48|318|-5wu|r
+Reghiu|RO||8u|3j6|22j|r
+Redlynch|GB||9b|3xy|-6r|r
+Reforma de Pineda|MX||41|19k|-7ae|r
+Rengsdorf|DE||8r|3wa|ku|r
+Rejon ulicy Borowskiej-Południe|PL||a5|3xw|1bb|r
+Rebun|JP||7q|3a9|auk|r
+Regnitzlosau|DE||8r|3vq|xh|q
+Répcelak|HU||8v|3nq|1ba|q
+Remsenburg-Speonk|US||48|35f|-5ly|q
+Repton|GB||9b|42s|-4b|q
+Redwood|US|Oregon|3p|39u|-9ir|q
+Reitdiep|NL||8m|43w|i4|q
+Reidsville|US|Georgia|48|2h5|-6c4|q
+Receiving|NC||b8|-1px|cuc|q|Motor Pool
+Reed Creek|US||48|2np|-6ec|q
+Roiffieux|FR||9k|3hn|cx|q|Reifiòc
+Retournac|FR||9k|3hk|b7|q|Retornac
+Reit im Winkl|DE||8r|3og|yn|q|Reiter Winke
+Reischach|DE||8r|3q5|zd|q|Reischoch
+Research|AU||8j|-2wq|b7a|q
+Recquignies|FR||9k|3vo|b8|q
+Red Hill|NZ||ak|-2uy|di1|q
+Renwick|NZ||ak|-37a|dev|q
+Redding|GB||9b|4bj|-ad|p
+Reisjärvi|FI||92|4wq|1x6|p
+Rechenberg-Bienenmühle|DE||8r|3wy|11m|p
+Robonkon|PH||71|lj|9iu|p|Robokon;Rebokon
+Retz|AT||a2|3rg|18b|p|Rec;Rötz
+Renton|GB||9b|4bh|-cq|p
+Reiterndorf|AT||a2|3oi|11v|p
+Repino|RU||9i|4n5|2az|p|Kuokkala
+Rethem|DE||8r|42n|q2|p
+Rédené|FR||9k|3oy|-9m|p
+Readfield|US||48|3fb|-5ed|p
+Réding|FR||9k|3rf|jr|o
+Reserve Mines|CA||2x|3ka|-4mq|o
+Redang Panjang|MY||6v|e8|7ry|o
+Reed City|US||2q|3dw|-6lj|o
+Red Hill|US|Pennsylvania|48|345|-5to|o
+Rehling|DE||8r|3qo|ud|o
+Redfield|US|South Dakota|2f|3go|-7lo|o
+Renko|FI||92|4p6|1vh|o
+Rechlin|DE||8r|446|zd|o
+Reinsfeld|DE||8r|3u0|j4|n
+Remedello di Sopra|IT||9o|3hs|st|n
+Reddivaripalle|IN||6t|11s|63l|n
+Red Bank Village|BZ||24|1a6|-6u0|n
+Rendeux|BE||8t|3vj|fa|n|Rindeu
+Reepham|GB|England|9b|42k|33|n
+Reichenschwand|DE||8r|3tj|vl|n
+Reconvilier|CH||a7|3n7|k2|n
+Revigliasco|IT||9o|3h2|lh|n
+Regency Downs|AU||8c|-24h|brg|n
+Real|PH|Ilocos|71|17x|9ab|n|Keal
+Reforma|MX|Tabasco|41|1el|-77a|n
+Reinbach|AT||a2|3nj|10n|n
+Red Lodge|US||2p|3hj|-8fh|m|Bad Lodge
+Rena|NO||9j|4pt|vl|m
+Redington Shores|US||48|25b|-6e3|m
+Reci|RO||8u|3jd|201|m
+Revello|IT||9o|3g1|kj|m|Revel
+Reith im Alpbachtal|AT||a2|3nq|x0|m|Reith im Åipbåchtåi
+Reepham|GB|England|9b|43v|-17|m
+Renescure|FR||9k|3wx|6l|m|Ruisscheure;Ruuscheure
+Remoulins|FR||9k|3e2|cp|m|Remolins
+Recodo|PH|Bicol Region|71|x7|9jq|m
+Dunaszekcső|HU||8v|3k1|1g4|m|Sekçöy;Seetschke;Florentia;Lugio;Sečuv;Sečuj;Sečuh;Sektsche;Retschingen;Seetsche
+Redcliffs|NZ||ak|-3d0|dbu|m
+Reichersbeuern|DE||8r|3op|wb|l|Reichersbeuren
+Revere|IT||9o|3h5|ux|l
+Richky|UA|Sumy|98|3y0|2nt|l|Rechki
+Rechtsupweg|DE||8r|44p|kc|l
+Rensvik|NO||9j|4va|lq|l|Reinsvik
+Rejowiec|PL||a5|3xx|1so|l
+Redgranite|US||2f|3ec|-6vi|l
+Réquista|FR||9k|3eb|72|l
+Replot|FI||92|4vn|1ni|l|Raippaluoto
+Rebais|FR||9k|3rp|8z|l
+Rechka|UA||98|3q4|1x9|l|Richka;Rechki
+Rešetari|HR||a6|3hq|1ce|l
+Resolven|GB||9b|3zn|-aa|l
+Remlingen|DE|Lower Saxony|8r|40r|tn|l
+Reserva do Cabaçal|BR||2k|-160|-4i6|l
+Reynolds Heights|US||48|36v|-67b|l
+Real de Montroi|ES||9d|319|-1o|k|Real de Montroy
+Restauración|DO||4v|1ho|-5j5|k
+Roisel|FR||9k|3ur|8m|k|Rési
+Résidence Arc-en-Ciel|GF||2d|dl|-419|k|BP 134
+Remuș|RO||8u|3e2|206|k
+Red Hook|US||48|38o|-5p8|k|Redhook
+Relani|ZA||o|-1wt|2ea|k
+Remy|FR||9k|3tb|7k|k
+Rémilly|FR||9k|3s5|hr|k
+Reuilly|FR|Centre-Val de Loire|9k|3ms|5o|k
+Rety|FR||9k|3x4|4x|k
+Remse|DE||8r|3x9|yx|k
+Reyes Etla|MX||41|1bs|-7gy|k
+Redstone Arsenal|US||2f|2oc|-6op|j
+Reynella East|AU||8b|-2ph|aow|j
+Resuttano|IT||9o|2wo|12z|j|Resuttana
+Renče|SI||9a|3jh|11z|j|Ranziano
+Radzyń Chełmiński|PL||a5|44b|1gm|j|Rôdzëno;Radziņa Helmiņska;Rehden
+Reichartshausen|DE||8r|3t4|ov|j
+Řepiště|CZ||9m|3u5|1ew|j
+Real de Gandía|ES||9d|307|-j|j
+Peqan|XK||8q|39q|1lu|j|Pećane;Reçan
+Regulice|PL||a5|3v4|1i9|j
+Redemption|VC||54|10k|-4q3|j
+Retevoiești|RO||8u|3he|1x0|j
+Rettenbach|DE|Bavaria|8r|3sb|yl|i
+Rector|US||2f|2sq|-6yt|i
+El Refugio|MX|Hidalgo|41|1jk|-7nj|i|Salitrera;Refugio
+Redbank|AU||8c|-24o|bsn|i
+Recogne|BE||8t|3un|ev|i
+Reinholds|US||48|33v|-5vg|i
+Reńska Wieś|PL||a5|3vs|1ed|i
+Relvado|BR||4w|-28v|-40n|i
+Reut|DE||8r|3qz|10g|i
+Rehden|DE||8r|425|nk|i|Rehrn
+Riez|FR||9k|3dq|gx|i|Reius;Riés
+Rehetobel|CH||a7|3nr|qc|i
+Reeßum|DE||8r|43l|pl|i
+Rechtmehring|DE||8r|3po|xs|i
+Réguisheim|FR||9k|3p2|kf|i|Rexheim
+Rehberg|AT||a2|3qj|17b|i
+Reisterstown Station|US||48|31b|-5x2|i
+Red Carpet|CA||2s|3xs|-8si|h
+Rèves|BE||8t|3we|c9|h
+Reynoldstown|US||48|2lr|-6ib|h
+Red Lake|US||2f|3p0|-7by|h
+Reventin-Vaugris|FR||9k|3ib|dg|h
+Redwood Valley|US||3p|313|-9i8|h
+Reca|SK||8s|3pz|1ch|h
+Reiningue|FR||9k|3on|k3|h|Reiningen
+Réguiny|FR||9k|3pa|-7n|h|Regini
+Reisenberg|AT||a2|3pb|19w|h
+Recea Cristur|RO||8u|3mr|1td|h
+Renown Park|AU||8b|-2ox|aoy|h
+Réalville|FR||9k|3ej|44|h
+Reichertsheim|DE||8r|3pw|y4|h
+Reichling|DE||8r|3p4|ud|h
+Reith bei Kitzbühel|AT||a2|3nv|yb|h
+Revesby Heights|AU||8l|-2md|bni|h
+Régina|GF||2d|bz|-40t|h
+Régny|FR||9k|3jr|bq|g
+Reinbeck|US||2f|39k|-758|g
+Rentweinsdorf|DE||8r|3v2|u0|g
+Repuzhyntsi|UA||98|3r6|1zn|g|Repuzhintsy;Repuzhynets
+Red|IN||6t|1b8|5pz|g
+Reform|US||2f|2kq|-6si|g
+Remsen|US||2f|3ax|-7el|g
+Regina Beach|CA||4q|3x3|-83m|g
+Rashtābād|IR||7o|2vi|3ug|g|Reshtabad
+Retzstadt|DE||8r|3un|rg|g
+Recoveco|MX||3x|1xf|-8b9|g|Recobelo;Recobeco;Resobeco
+Rendessytelep|HU||8v|3nt|1h9|g
+Reshtaqūn|IR||7o|2sx|3vb|g|Reshtagān
+Rettenbach|DE|Bavaria|8r|3qm|sr|g
+Riscone|IT||9o|3ly|x7|g|Reischach
+Reano|IT||9o|3h5|kn|g|Rean
+Rexpoëde|FR||9k|3xi|72|g|Rekspoede;Respoeë
+Reuland|BE||8t|3vg|h2|g
+Reid|AU||8l|-2q1|bia|g
+Reddingmuirhead|GB||9b|4bi|-af|g
+Raikhenfeld|UA||98|3n1|2q3|g|Plodorodne;Reichenfeld;Raykhenfeld;Raykhenfel’d;Plodorodnoye
+Ressons-sur-Matz|FR||9k|3tm|7m|g|Roye-sur-Matz
+Relegem|BE||8t|3xe|bw|g|Releghem
+Remouillé|FR||9k|3mq|-3u|g|Ruvelieg;Romuliacum
+Restinclières|FR||9k|3dg|b8|g|Restinchères
+Repušnica|HR||a6|3id|1ah|g
+Remlingen|DE|Bavaria|8r|3uc|qx|f
+Redfield|US|Arkansas|2f|2np|-742|f
+Reyeh|IR||7o|2qk|3y4|f|Rīyeh
+Rémelfing|FR||9k|3sd|jp|f
+Réde|HU||8v|3nr|1dr|f
+Reigoldswil|CH||a7|3no|ld|f
+Rekowo Dolne|PL||a5|47r|1f0|f
+Red Head|CA||43|3hp|-53c|f
+Reek|NL||8m|3zr|fs|f
+Řevničov|CZ||9m|3ve|12d|f
+Reugny|FR||9k|3nw|2g|f
+Reichenbach-Steegen|DE||8r|3ti|kz|f
+Redington Beach|US||48|259|-6e1|f
+Revne|UA|Kyiv Oblast|98|3vp|2dn|f
+Răchitova|RO||8u|3io|1r7|f|Rechitova
+Rehoboth Beach|US||48|2zk|-5sk|f|Rehobeth Beach
+Řehlovice|CZ||9m|3wl|12r|f|Gross Tschochau
+Reningelst|BE||8t|3x6|7p|f|Reninghelst;Rinnegelst
+Rehobeth|US||2f|2eg|-6ld|e|Sanders
+Ramygala|LT||a3|4a7|1vi|e|Ramīgala;Remigoła;Ramygalos;Remygala
+Fort Recovery|US||48|349|-6ji|e|Ft Recovery;Recovery
+Renwez|FR||9k|3ug|cs|e
+Rettifilo-Vannullo|IT||9o|34d|15r|e
+Retorbido|IT||9o|3gv|p4|e
+Red Corral|US||3p|2yp|-9b1|e
+Rediu|RO|Iași County|8u|3n8|22m|e
+Reillanne|FR||9k|3dw|fq|e|Ralhana
+Reese|US||2q|3cp|-6gi|e
+Red Lake Falls|US||2f|3p0|-7ff|e
+Rende|IT||9o|319|18y|e
+Retonfey|FR||9k|3si|hj|e
+Rejon ulicy Saperów|PL||a5|3xx|1b8|e
+Real de Catorce|MX||41|1tt|-7s9|e
+Residencial las Olas|MX||41|1ec|-7ap|e
+Reith bei Seefeld|AT||a2|3ne|v4|e
+Reyðarfjörður|IS||87|50n|-13i|e|Reyðarfjörð;Reyðarfirði;Reyðarfjarðar;Fjarðabyggð
+Řečany nad Labem|CZ||9m|3v0|170|e
+Remetinec|HR||a6|3kb|19d|e
+Reignac|FR|New Aquitaine|9k|3hn|-1f|d
+Reimlingen|DE||8r|3rm|t8|d
+Redkey|US||38|343|-6kj|d|Red Key
+Reddendale|CA||59|3eu|-5wp|d
+Reinstorf|DE||8r|43v|td|d
+Redby|US||2f|3p0|-7bn|d
+Reka|HR||a6|3k5|1al|d
+Residencial Tajín|MX||41|1l8|-7im|d
+Recht|BE||8t|3vu|gt|d
+Reichardtswerben|DE||8r|3yd|x7|d
+Reno|US|Ohio|48|31d|-6a4|d
+Reftele|SE||9w|4et|11r|d
+Ressegem|BE||8t|3xd|av|d
+Regolelli|IT||9o|39h|yb|d
+Reuth|DE|Bavaria|8r|3uv|wh|d
+Reichenau an der Rax|AT||a2|3oi|181|d
+Reynès|FR||9k|3a0|7j|d|Reiners;Reyners
+Riquewihr|FR||9k|3pt|ka|d|Reichenweier
+Rémalard|FR||9k|3qj|25|d
+Rybí|CZ||9m|3ts|1e8|d|Reimlich;Reimrich
+Revel|FR|Auvergne-Rhône-Alpes|9k|3hj|gb|d
+Red Scar|GB||9b|45f|-7d|c
+Renmark West|AU||8b|-2mx|auv|c
+Rebréchien|FR||9k|3pb|5o|c
+Rém|HU||8v|3kh|1h6|c|Rim
+Renovo|US||48|36t|-5zz|c
+Régusse|FR||9k|3da|h1|c|Regussa
+El Remolino|MX|Veracruz|41|1kn|-7i1|c|Remolino
+Naujaat|CA||4o|54t|-6nk|c|Repulse Bay
+Redway|US||3p|33g|-9jy|c
+Renville|US||2f|3gf|-7ch|c
+Dnistrivka|UA||98|3qu|22t|c|Resteu-Atachi;Resteu Atakhi;Dnestrovka
+Reedham|GB||9b|420|4d|c
+Reinhardshausen|DE||8r|3xz|p8|c
+Réville|FR||9k|3tu|-3i|c
+Remolinos|ES||9d|388|-3a|c
+Riẖaniya|IL||6n|2jt|2ql|c|Reiḥanīye;Rihaniyé;Rihaniyyah
+Retgendorf|DE||8r|459|vy|c
+Reichenbach|DE|Bavaria|8r|3sm|yb|c|Reichaboch;Richenbach
+Red Lake|CA|Ontario|5d|3xv|-78d|c
+Reedsville|US|Wisconsin|2f|3en|-6sc|c
+Redange-sur-Attert|LU||9c|3u8|gd|c|Redange;Redingen;Réiden;Redanj-sur-Attert
+Revine|IT||9o|3js|y2|c
+Remington|US|Indiana|2f|358|-6q3|c
+Reforma y Planada|MX||41|1cb|-75z|c
+Reitberg|AT||a2|3ox|10k|c
+Rennerdale|US||48|348|-66m|c
+Reforma|MX|Chiapas|41|188|-75e|b
+Restigné|FR||9k|3nc|n|b
+Rezovac|HR||a6|3j9|1cd|b
+Repynne|UA||98|3qy|1t4|b
+Red Boiling Springs|US||2f|2th|-6mh|b|Redboiling Springs
+Rethen|DE||8r|41i|t4|b
+Remerton|US||48|2do|-6ff|b
+Révfülöp|HU||8v|3m3|1cy|b
+Reil|DE||8r|3uy|js|b
+Reignac-sur-Indre|FR||9k|3n7|2k|b
+Rendufe|PT||99|37n|-nd|b
+Reichenwalde|DE||8r|417|12w|b
+Reinberg|DE||8r|454|10j|b
+Regensdorf / Feldblumen-Riedthofstrasse|CH||a7|3ns|nj|b
+Raedersheim|FR||9k|3p1|k8|b|Retersheim
+Rediu|RO|Botoșani County|8u|3pz|22e|b
+Revò|IT||9o|3kv|uq|b
+Reichraming|AT||a2|3p0|145|b
+Residencial Arboledas|MX||41|1jq|-7nu|b
+Regba|IL||6n|2jm|2pi|b|Rigba
+Republic|US|Pennsylvania|48|330|-65w|b
+Renesse|NL||8m|3zp|ai|b|Renesė;Renisse
+Reitoca|HN||56|12f|-6qz|b|Reitoco
+Rebešovice|CZ||9m|3sf|1a8|b
+Reppel|BE||8t|3y3|fg|b
+Regensdorf / Obstgarten|CH||a7|3nr|nj|b
+Reshafim|IL||6n|2i8|2qk|b|Reschafim;Rechafim;Rešafim;Reszafim
+Bystrytsia|UA|Zakarpattia|98|3qn|1rf|b|Repede;Bystrytsya;Bystritsa
+Reduzum|NL||8m|43k|g3|b|Roordahuizum;Roardahuzum
+Reinsvoll|NO||9j|4ok|ti|b
+Reuth|DE|Saxony|8r|3wm|xy|b
+Republic|US|Washington|3p|3r5|-95u|b
+Redwater|US|Texas|2f|2ko|-79t|b
+Requeil|FR||9k|3oq|g|b
+Revne|UA|Chernivtsi|98|3qa|1zo|b|Râvna;Revna
+El Real de San Vicente|ES||9d|33i|-d1|b|Real de San Vicente
+Reninge|BE||8t|3xj|7r|b|Rinenga;Rênienge;Reninghe
+Regesbostel|DE||8r|44a|qt|b
+Rediu|RO|Vaslui County|8u|3lj|24x|b|Rădiu
+Relva|CV||84|15m|-1vi|b
+Reichenfels|AT||a2|3ml|14y|b
+Rechthalten|CH||a7|3lx|k4|b
+Reading|US|Michigan|2q|388|-6jf|b
+Retuerta de Bullaque|ES||9d|31m|-c9|a
+Reußen|DE||8r|3z2|xp|a
+Redland|US|Texas|2f|2f8|-7b4|a
+Rechtenbach|DE||8r|3uu|qf|a
+Reckange|LU||9c|3u7|gw|a|Recken;Reckingen
+Retschow|DE||8r|465|x0|a
+Regensdorf / Hofacher-Geeren|CH||a7|3ns|ni|a
+Recea|RO|Mehedinți County|8u|3f4|1ro|a
+Reynolds|US|Georgia|48|2ig|-6hm|a
+Řež|CZ||9m|3ve|13w|a
+Redavalle|IT||9o|3h4|pk|a
+Rehe|DE||8r|3wn|mk|a
+Retkovci|HR||a6|3hn|1ft|a
+Red Lick|US||2f|2ky|-79l|a|Redlick
+Reşadiye|TR||94|2yq|2bt|a
+Régiakadémiatelep|HU||8v|3nx|1hh|a
+Reguły|PL||a5|40y|1ly|a
+Remstädt|DE||8r|3xm|tp|a
+Reforma|MX|Quintana Roo|2b|1g9|-6u1|a
+Reichenbach|DE|Thuringia|8r|3ws|vs|a
+Relleu|ES||9d|2z7|-v|a
+Reipertswiller|FR||9k|3rx|kq|a|Reipertsviller;Reipertsweiler
+Rīneh|IR||7o|2ro|40x|a|Reneh
+Rebaix|BE||8t|3wq|ai|a
+Reilhac|FR||9k|3gx|6q|a
+El Ranchito y Refugio|MX||3w|1zs|-7ig|a|El Refugio;Refugio
+Reutigen|CH||a7|3lp|l6|a
+La Reforma|MX|Oaxaca|41|1dv|-7ev|a|Reforma
+Red Cloud|US||2f|33d|-7lo|a|Redcloud
+Reurieth|DE||8r|3w5|tl|a
+Retegno|IT||9o|3hf|qy|a
+Reinsdorf|DE|Thuringia|8r|3ws|wx|a
+Rewal|PL||a5|468|15p|a|Rewahl
+Reno Centese|IT||9o|3gj|vh|a
+Reyḩānābād|IR|Māzandarān|7o|2u0|456|a
+Renac|FR||9k|3ok|-5i|a|Ranneg
+Resulköy|TR||94|2ug|2o3|9|Resul
+Rębków|PL||a5|404|1nv|9
+Recy|FR||9k|3s3|bz|9
+Remungol|FR||9k|3p5|-82|9|Remengol
+Revolución|MX|Durango|44|20t|-83w|9
+Reefton|NZ||ak|-390|d9f|9
+Rétaud|FR||9k|3iw|-21|9
+Revel|FR|Auvergne-Rhône-Alpes|9k|3i2|dz|9
+Reichmannsdorf|DE||8r|3wf|va|9
+Reichenthal|AT||a2|3qu|13y|9
+Rein|AT||a2|3mx|16g|9
+Rimersburg|US||48|360|-64u|9|Reimersburg
+El Refugio|MX|Nayarit|3x|1ni|-832|9|Refugio
+Rërëz|AL||9y|35a|1iw|9|Rrërës-Kumaraku;Rrëzës-Kumaraku;Rërës;Reres-Kumaraku;Rërës-Kumarak
+Rewa|PL||a5|47r|1ff|9
+Ritzing|AT|Burgenland|a2|3o9|19u|9|Récény;Ricinja
+Reuil-en-Brie|FR||9k|3s0|8r|9
+Reinsdorf|DE|Saxony-Anhalt|8r|405|z0|9
+Reps|AL||9y|38b|1jn|9
+Rehainviller|FR||9k|3qw|hz|9
+Rebwies|CH||a7|3nj|nv|9
+Reddelich|DE||8r|469|wx|9
+Red Rock|CA||59|3rz|-6t6|9
+Ejido la Reforma|MX||41|1p6|-7li|9|Reforma el Alto
+Rejmyre|SE||9w|4jf|188|9|Rejmyra
+Řenče|CZ||9m|3tq|119|9
+Reddeber|DE||8r|403|u0|9
+Rembrantplein en omgeving|NL||8m|41h|dm|9
+Uzuncaburç|TR||94|2tm|2m9|9|Recepli
+Red Hill|AU|Victoria|8j|-2yj|b6u|9
+Rexton|CA||43|3ll|-508|9
+Redfield|US|Iowa|2f|37j|-79o|9
+Refrancore|IT||9o|3gu|n6|9
+Reda|IT||9o|3f2|x9|9
+Revivim|IL||6n|2e8|2og|9|Rivivim
+Rémering-lès-Puttelange|FR||9k|3s8|ja|9
+Redención del Campesino|MX||3z|1c5|-71k|9
+Rediu|RO|Neamț County|8u|3ml|231|9
+Reeds Spring|US||2f|2u3|-77e|9|Reed Spring
+Rekingen|CH||a7|3o5|n4|9
+Reforma|MX|San Luis Potosí|41|1r8|-7ud|9
+Remplin|DE||8r|45b|za|9
+Reșca|RO||8u|3ep|1vr|9
+Reidling|AT||a2|3q8|17y|8
+Réaumont|FR||9k|3i1|fc|8
+Piringsdorf|AT||a2|3nt|19m|8|Répcebónya;Piringštof
+Rédange|FR||9k|3th|gg|8|Redingen;Réideng
+Reifenberg|DE||8r|3sw|kv|8
+Recetto|IT||9o|3ia|ng|8
+Reichenau im Mühlkreis|AT||a2|3qm|13v|8
+Real del Oro|MX||41|1hy|-7ft|8
+Remojadas|MX||41|1h0|-7fr|8|Remojados;Remojada
+Redondesco|IT||9o|3hh|t7|8
+Reẕāābād-e Şūfīān|IR||7o|2rl|3wr|8
+Rendswühren|DE||8r|468|sa|8
+Reforma Agraria (El Pedregal)|MX||41|1gr|-7o8|8
+Remedios|PA||4g|mv|-6bb|8
+Repki|PL||a5|41j|1q7|8
+Rentína|GR|Thessaly|8p|30i|1p2|8|Rendína
+Readlyn|US||2f|3am|-747|8
+Reichenbach|DE|Bavaria|8r|3vk|vy|8
+Reyniès|FR||9k|3e0|3w|8
+Regnéville-sur-Mer|FR||9k|3s5|-4b|8
+Reẕvān|IR|Razavi Khorasan|7o|2tj|4lp|8
+Reifnitz|AT||a2|3lh|13e|8
+Richka|UA||98|3qz|1sy|8|Rechka
+Reher|DE||8r|467|ql|8
+Revadim|IL||6n|2g9|2oq|8
+Revakivtsi|UA||98|3qd|1zc|8|Revacăuți
+Reinholterode|DE||8r|3yu|sb|8|Rheinholterode;Rengerode
+Regentville|AU||8l|-2lu|bmj|8
+Reith|AT|Upper Austria|a2|3q3|13k|8
+El Real de Santa María|PA||4g|mj|-5zx|8|Real de Santa Maria
+Renque de Purga|CV||84|15w|-1td|8
+Réaumur|FR||9k|3ls|-28|8
+Rediu|RO|Cluj County|8u|3lo|1tt|8
+Reforma Escolín|MX||41|1kx|-7ij|8
+Remondò|IT||9o|3ho|og|8
+Rehborn|DE||8r|3u5|lc|8
+Remilly-Aillicourt|FR||9k|3tx|dv|8
+Reid Hope King|US||2f|200|-7il|8
+Reid Hope King Colonia|US||2f|200|-7il|8
+Réchésy|FR||9k|3nz|jr|8
+Rekawinkel|AT||a2|3pu|18i|8
+Rottmersleben|DE||8r|411|vo|8|Retmerslevo
+Reyssouze|FR||9k|3kz|do|8
+Resaca|US||48|2o2|-6jy|8|Resacca
+Renquishausen|DE||8r|3pk|oq|8
+Rettel|FR||9k|3tc|hl|8
+Réau|FR||9k|3r1|7a|8
+Resurgimiento Atotonilco|MX||41|1gn|-7kt|8
+Reeltown|US||2f|2ik|-6md|8|Realtown;Reel Town
+Remerschen|LU||9c|3th|hn|8
+Steinberg an der Rabnitz|AT||a2|3nv|19t|8|Répcekőhalom
+Residencial San Nicolás [Baños la Cantera]|MX||41|1op|-7wc|8
+Revolución|MX|Veracruz|41|1gh|-7hp|8
+Los Remedios|MX|Hidalgo|41|1l2|-7nk|8|Remedios
+Remilly-sur-Tille|FR||9k|3ng|eh|8
+Réchicourt-le-Château|FR||9k|3r7|j0|8
+Residencias el Prado (Jardines del Prado)|MX||41|1lg|-7yq|8
+Ressons-le-Long|FR||9k|3t7|8r|8
+El Resbalón|MX||3x|1q7|-84i|7|Resbalón
+Redipiano|IT||9o|31b|19c|7
+Regensdorf / Hubacher|CH||a7|3nr|ni|7
+Red Cross|US||48|2pz|-678|7
+Reudnitz|DE||8r|3ws|y4|7
+La Regina|MX||2g|26x|-84x|7|Regina
+Redmond|US|Utah|2p|30d|-8mq|7
+Redipuglia|IT||9o|3jd|11h|7
+Reforma|MX|Morelos|41|1g6|-7mt|7
+Reventadero|MX||41|1pg|-7ks|7
+Reddell|US||2f|2d7|-74r|7
+Reichersberg|AT||a2|3qa|114|7
+Rennau|DE||8r|41a|ub|7
+Reforma|MX|Chiapas|41|175|-73w|7
+Rehlingen|DE||8r|43j|se|7
+Reichersdorf|AT|Carinthia|a2|3lg|13x|7
+Renova|US||2f|2lu|-700|7
+Rébénacq|FR||9k|3bw|-14|7|Revenac
+Reeth|GB||9b|473|-5e|7
+Remedello di Sotto|IT||9o|3hq|su|7
+Renkenberge|DE||8r|42z|ki|7
+Rekord|RU||9s|3xk|3lm|7|Record
+Reliance|US||2p|37r|-8fc|7
+Revolución Mexicana|MX|Sinaloa|3x|213|-8em|7
+Reixida|PT||99|328|-oe|7
+Residência Fuck|BR||4w|-227|-3vp|7|Residência Fuk
+Roeser|LU||9c|3tm|h3|7|Gemeng Réiser;Réiser
+Rethondes|FR||9k|3ta|86|7
+Redekin|DE||8r|41r|xk|7
+Liberk|CZ||9m|3vg|19e|7|Rehberg
+Regau|AT||a2|3pb|121|7
+Recea|RO|Neamț County|8u|3m5|22v|7|Răcea
+Reyes|MX||41|17y|-7g1|7
+Ręczno|PL||a5|3y7|1j5|7
+Rettenstein|AT||a2|3nj|10q|7
+Reeseville|US||2f|3ca|-6us|7|Reesville
+Remeți pe Someș|RO||8u|3nw|1su|7|Gyökeres;Gyükeres
+Recea|RO|Sălaj County|8u|3n4|1rr|7
+Resia|IT||9o|3m3|t8|7|Reschen am See
+Rediu Galian|RO||8u|3m9|251|7
+Regona|IT||9o|3hl|ra|7
+Reichenbach|DE|Rheinland-Pfalz|8r|3tw|k9|7
+Reino|IT||9o|36p|156|7
+Řetová|CZ||9m|3ur|19i|7
+Xiteje de la Reforma|MX||41|1jy|-7od|7|Reforma
+Redișoara|RO||8u|3ec|1vn|7
+Rehmen|AT||a2|3ng|rs|7
+Remetea Oașului|RO||8u|3p0|1ss|7
+Recloses|FR||9k|3qb|7c|7
+Reuthe|AT||a2|3nl|rh|7
+Yediyol|TR||94|2ur|305|7|Resmel’khamar;Resmelhamur;Resmenhamar;Resmelhamar;Resmelhamer
+Regensdorf / Zentrum|CH||a7|3nr|nj|7
+Refrontolo|IT||9o|3jk|xx|6
+Repton|AU||8l|-2ck|bt4|6
+Rena|ES||9d|30h|-g5|6
+Reedsville|US|Pennsylvania|48|34y|-5zk|6
+Revkivtsi|UA||98|3q4|20t|6|Revcăuți
+Reforma|MX|Durango|44|1zg|-7z5|6
+Rheezerveen|NL||8m|421|i5|6|Reezerveen
+Redwater|US|Mississippi|2f|2j1|-6wq|6
+Reece City|US||2f|2mn|-6mz|6
+Rethwisch|DE||8r|45n|qn|6
+Reteče|SI||9a|3k8|13x|6
+Rozpasiyivka|UA||98|3uf|2ym|6|Raspaseyevka;Rozpasiivka;Respaseyevka
+Remington|US|Virginia|48|2z1|-605|6
+Renmark North|AU||8b|-2mt|auv|6
+Revbyntsi|UA||98|3tq|2hz|6|Revbintsy
+El Recodo|MX|Sinaloa|3x|1t1|-871|6|Recodo
+Renkovci|SI||9a|3lk|19a|6|Neulimbach;Lendvaerdő
+Reith|AT|Upper Austria|a2|3q5|13e|6
+Rehm-Flehde-Bargen|DE||8r|46s|p2|6
+Reidville|US||48|2ou|-6c3|6
+Real de la Joya|MX||41|1mr|-7uo|6
+Redridge|AU||8c|-1xx|br8|6
+Remoncourt|FR||9k|3pz|gt|6
+Resteigne|BE||8t|3v4|ee|6
+Retzwiller|FR||9k|3ob|jp|6
+Reichendorf|AT||a2|3n3|17s|6
+Reforma de Lázaro Cárdenas (El Aterrizaje)|MX||41|1et|-7ql|6
+Remeteszőlős|HU||8v|3o4|1gk|6
+Reifferscheid|DE||8r|3w1|j4|6
+La Reforma de Ocampo|MX||41|1c3|-72p|6|Reforma de Ocampo;La Reforma
+Reacomodo Río Colorado|MX||58|2ik|-8wx|6
+Redwood|US|New York|48|3f2|-5uk|6
+Reignac|FR|New Aquitaine|9k|3i6|-i|6
+Recibitas (El Remolino)|MX||41|1hf|-7p4|6
+Reedsville|US|West Virginia|48|31r|-65o|6
+Retzow|DE||8r|426|z9|6
+Yaykın|TR||94|336|23d|6|Reşadiye
+Revolución|MX|Campeche|3z|1gi|-701|6
+Reporoa|NZ||ak|-2ys|dlu|6
+Novomykolaivka|UA|Odesa|98|3ip|29y|6|Novomykolayivka;Regele-Ferdinand I;Friedrichsdorf
+Retiș|RO||8u|3jw|1x1|6
+Reguengo do Fetal|PT||99|324|-oc|6
+Red Hill South|AU||8j|-2ym|b6v|6
+Rediu|RO|Botoșani County|8u|3o2|23o|6
+Reyes de Vallarta|MX||41|1jv|-7ix|6
+Řepov|CZ||9m|3w0|15k|6
+Red Jacket|US||48|2wl|-6c6|6
+Repen|IT||9o|3j0|12b|6|Monrupino
+Rech|DE||8r|3wc|jj|6
+Reinstädt|DE||8r|3x5|vv|6
+Revislate|IT||9o|3ix|nr|6
+Rengínion|GR||8p|2zk|1r3|6|Regkini
+Rettenegg|AT||a2|3o1|17u|6
+Renningers|US||48|34x|-5vj|6
+Revest-du-Bion|FR||9k|3eg|ff|6|Revèst dAubion
+Řepín|CZ||9m|3vx|14n|6
+Redfield|US|New York|48|3cx|-5um|6
+Revărsarea|RO||8u|3hs|26v|6
+Remetské Hámre|SK||8s|3rp|1pm|6|Remetské Hámry
+Reckange-sur-Mess|LU||9c|3to|gp|6|Reckeng op der Mess
+Represa Aurelio Benansini (Carehey)|MX||58|2ih|-8vq|6
+Republic|US|Michigan|2q|3kx|-6se|6
+Revloc|US||48|34h|-62s|6
+Reitdorf|AT||a2|3nl|116|6
+Renwick|AU||8l|-2np|blz|6
+Mannersdorf an der Rabnitz|AT||a2|3nr|19x|6|Répcekethely;Malištrof
+Remilly-sur-Lozon|FR||9k|3sm|-3i|6
+Reichweiler|DE||8r|3tl|k8|6
+Remy|US||2f|2qi|-7al|6
+Reforma Agraria|MX||3x|1o6|-848|6|La Colorada
+El Refugio|MX|Aguascalientes|41|1pl|-7vz|6|Refugio
+Residencial Cecadys|MX||41|1gj|-7hc|6
+Reardan|US||3p|3of|-93g|6
+Redefin|DE||8r|447|v4|6
+Řeka|CZ||9m|3tw|1fl|6
+La Reforma|MX|Oaxaca|41|1eu|-7fl|6|Reforma;La Reformita
+Recologne|FR||9k|3nb|g7|6
+Reesville|AU||8c|-22c|bsf|6
+Rehungen|DE||8r|3yq|t8|6
+Revaẖa|IL||6n|2fx|2oh|6|Revacha;Rewaẖa
+Recea|RO|Bacău County|8u|3kv|235|6
+Reidville|CA||50|3sr|-4fe|6
+Revonnas|FR||9k|3k8|et|5
+Resina I|IT||9o|3c0|yj|5
+Republic|US|Ohio|48|368|-6em|5
+Retamim|IL||6n|2e9|2od|5
+Rezip|TR||94|2x7|2yc|5
+Rettenbach|AT||a2|3ol|11y|5
+Reesen|DE||8r|418|x6|5
+Reichenbach|DE|Baden-Wurttemberg|8r|3p5|mv|5
+Reichersdorf|AT|Lower Austria|a2|3qa|17m|5
+Reitwein|DE||8r|41u|14i|5
+Renneritz|DE||8r|3zc|xz|5
+Reimershagen|DE||8r|453|xu|5
+Reuilly|FR|Normandy|9k|3sc|3e|5
+Reyixtla|MX||41|1m0|-7kd|5
+Regimin|PL||a5|432|1l3|5
+Reynolds|US|Indiana|38|357|-6pb|5
+Reitbrook|DE||8r|44j|s7|5
+Red Rock|AU||8l|-2ba|btn|5
+Reijmerstok|NL||8m|3x4|g8|5|Reimerstok
+Reynolds|US|Illinois|2f|36t|-6zv|5
+Reddick|US||48|29l|-6cc|5
+Renlies|BE||8t|3vf|bv|5
+Recques-sur-Hem|FR||9k|3x7|5t|5
+Rečica ob Savinji|SI||9a|3ko|15g|5
+Réparsac|FR||9k|3j1|-o|5
+Revelles|FR||9k|3uh|5w|5
+Red Creek|US||48|3c5|-5x4|5|Redcreek
+Reiles Acres|US||2f|3mc|-7h3|5|Reile's Acres
+Rettenschöss|AT||a2|3oe|y3|5
+Réaux|FR||9k|3ic|-11|5
+Real de Oriente|MX||41|1jv|-7m8|5
+Reersø|DK||8y|4a8|uv|5
+Reffuveille|FR||9k|3r7|-33|5|Beffuveille
+Regensdorf / Watterstrasse|CH||a7|3nr|nj|5
+Renung|FR||9k|3dj|-10|5
+Red Oak|US|Oklahoma|2f|2p3|-7c4|5
+Rentína|GR|Central Macedonia|8p|34y|1tl|5|Rendína
+Red Head|AU||8l|-2h2|brq|5
+Re|IT||9o|3k5|nr|5
+Reitano|IT||9o|2xh|13u|5

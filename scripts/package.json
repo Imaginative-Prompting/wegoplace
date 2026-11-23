@@ -1,0 +1,4 @@
+{
+  "private": true,
+  "description": "No \"type\" here on purpose: the .js files in this folder are a mix of CommonJS and ES modules, and without one Node tells them apart by their syntax. The package.json at the repo's root says \"module\", which is right for src/, public/js/ and checks/."
+}

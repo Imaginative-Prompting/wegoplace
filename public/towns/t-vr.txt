@@ -1,0 +1,158 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Wrocław|PL||a5|3xy|1bb|56t|Breslau;Vratislavie;Breslavia;Vratislav;Vroclavo;Boroszló;Vrotslav;Vroclava;Vratislavia;Vroclavas;Breslava;Vruoclavs;Breslū;Vroclav;Wrocłow;Brassel;Vroklave;Wroklaw;Vroslav;Vrocuav;Brasloi;Breßlau;Wrosław;Breslavl’
+Volta Redonda|BR||4w|-1qk|-3ei|25s|V Redonda
+Vryheid|ZA||o|-255|2dj|15o
+Vriddhāchalam|IN||6t|w0|64c|h3
+Vrindāvan|IN||6t|24m|5zu|gq|Brindāban;Vrindāban
+Vranje|RS||8q|3a7|1ou|fm|Vranja;Vranya
+Vryburg|ZA||o|-22w|1wp|fj
+Vratsa|BG||9v|3c1|1tg|ds|İvraca;Vrața;Wraca;Vratza;Vrattsa;Vratca;Vraca;Wraza
+Agrínio|GR||8p|2za|1nh|d1|Agrinium;Vrachori
+Vredenburg|ZA||o|-2jf|1dz|cs
+Uryupinsk|RU||a4|3x5|38p|bk|Urjupinsk;Vrjupinsk
+Vršovice|CZ||9m|3v3|146|a8
+Vršac|RS||8q|3hc|1n6|a3|Versec;Vârșeț;Versecz
+Vrilissia|GR||8p|2xn|1u7|8j
+Vrbas|RS||8q|3il|1ik|77|Óverbász;Verbász;Újverbász
+Vreden|DE||8r|40k|iz|68|Frethenna;Vrene
+Vredendal|ZA||o|-2fz|1fe|62
+Vrede|ZA||o|-247|291|5w
+Vrakuňa|SK||8s|3pq|1bt|5r
+Vranov nad Topľou|SK||8s|3rt|1o8|5q|Varannó;Vranov nad Toplyou;Vranovas prie Toplios;Vranova pie Topļas;Vranov na Toploj
+Vrangel’|RU||7w|3ap|a9o|5k|Vrangel;Wrangel
+Vrouo|CI||0|le|-i7|4x
+Vredefort|ZA||o|-231|240|4v
+Ovruch|UA||98|3yl|280|49|Ovroutch;Ovruč;Ovrutš;Ovrutsj;Owrucz;Zbruchyi;Vruchay;Beruchiy;Vruchev;Uruchiy;Owrutsch;Ovruci;Ovroetsj;Oŭruč;Aŭruč;Owruč;Ovrutj;Ovruča;Ovručas;Ovrucs;Vruchy
+Vreewijk|NL||8m|404|ck|3t
+Vriezenveen|NL||8m|41l|ie|3f|Uriezenveen
+Vrchlabí|CZ||9m|3wn|17d|3c|Hohenelbe
+Wronki|PL||a5|42f|19i|37|Vronkos;Vronki
+Vrnjačka Banja|RS||8q|3d7|1m2|2u|Vrniačka Bania
+Vrčin|RS||8q|3g3|1l7|2j
+Vrapčište|MK||9u|387|1m1|2f|Vrapčišta;Vrapçicshtë
+Vroomshoop|NL||8m|41q|i9|2d
+Vráble|SK||8s|3q0|1ev|2c|Verebély
+Vrhnika|SI||9a|3jo|13p|2c
+Vradiyivka|UA||98|3oy|2cz|28|Vradiïvka;Wradijiwka;Vradijivka;Vrádivka;Bradiyevka;Vradievka
+Varshets|BG||9v|3bz|1sp|23|Vrshets;Vershets;Varshetz;Vŭrshets
+Vratimov|CZ||9m|3u9|1ev|23
+Vrútky|SK||8s|3sf|1gk|22|Ruttka;Vrūtkai;Vrūtki
+Vrnograč|BA||9r|3hg|18b|1x
+Vrutok|MK||9u|381|1lw|1o|Vrutog
+Vrbové|SK||8s|3r2|1d8|1k|Verbó;Vrbovje
+Vrontádos|GR||8p|2yp|20l|1h|Vrondádhos
+Vrachnaíika|GR|West Greece|8p|2xv|1no|1c|Vrakhnaíika
+Vrbno pod Pradědem|CZ||9m|3v8|1ca|1a|Vrbno pie Pradēda
+Vrbovec|HR||a6|3jg|19m|1a
+Vracov|CZ||9m|3s2|1bt|19
+Vredenburg|NL||8m|40b|ge|18
+Vrasene|BE||8t|3ya|bn|15|Vracene
+Vries|NL||8m|43f|ia|13
+Varbitsa|BG||9v|3bg|21z|12|Vrbitsa;Vŭrbitsa
+Vrdnik|RS||8q|3hc|1iz|11|Rednek;Rednök
+Verenchanka|UA||98|3qv|1zi|11|Vrânceni;Werenczanka;Verentsjanka;Werentschanka;Verençanka
+Vratnica|MK||9u|392|1mo|11|Vratnicë
+Vrigne-aux-Bois|FR||9k|3u6|di|10
+Vrakháti|GR||8p|2xg|1rd|10|Vrachati
+Vreeswijk|NL||8m|40h|e5|z
+Vrahovice|CZ||9m|3th|1bn|y
+Vreed-en-Hoop|GY||34|ix|-4hn|v|Vreed en Hoop
+Vranić|RS||8q|3fw|1kh|u
+Vrâncioaia|RO||8u|3jd|229|u
+Vrap|AL||9y|36b|1iz|u|Crap
+Vrdy|CZ||9m|3uo|16z|u|Wrdy
+Vrakúň|SK||8s|3p6|1cw|s
+Vrané nad Vltavou|CZ||9m|3uq|13y|r
+Vrå|DK||8y|4fb|rm|r
+Vremde|BE||8t|3y6|ck|q
+Vrtojba|SI||9a|3jj|11v|q
+Vrachnaíika|GR|West Greece|8p|2y0|1o7|q|Vrachneika;Vrakhnéïka;Vrakhnaíika
+Vranovice|CZ||9m|3s1|1a5|p
+Vřesina|CZ|Moravian-Silesian Region|9m|3ue|1ed|o
+Vreren|BE||8t|3wz|fa|l|Vreeren
+Vrgorac|HR||a6|3c1|1c9|l|Vergoraz
+Vrata|RO||8u|3er|1rh|j
+Vroutek|CZ||9m|3ve|116|j
+Vrontoú|GR||8p|33n|1qb|i|Vrondoú
+Vrbátky|CZ||9m|3tj|1bs|h
+Vreeland|NL||8m|413|dz|g
+Vrsi|HR||a6|3ey|16b|g
+Vroenhoven|BE||8t|3x7|fo|g
+Vrbanja|HR||a6|3gy|1gl|g|Verbanya;Vrbanje
+Vrees|DE||8r|42x|ll|g
+Vrsar|HR||a6|3hf|11t|f|Orsera;Ursaria
+Vrbov|SK||8s|3sd|1kr|f|Menhardsdorf
+Vrieheide|NL||8m|3xg|gl|f
+Vred|FR||9k|3vz|8z|f
+Vrbice|CZ|Moravian-Silesian Region|9m|3uk|1ew|f|Wierzbica
+Vrigstad|SE||9w|4fb|147|f
+Vrbovce|SK||8s|3rk|1cj|e
+Vrpolje|HR|Brod-Posavina|a6|3hl|1f5|e
+Vřesina|CZ|Moravian-Silesian Region|9m|3ur|1ej|d
+Vraneštica|MK||9u|374|1mf|d|Vranešnica
+Vrubivskyi|UA||98|3qk|30n|d|Vrubovskiy;Vrubivs’kyy
+Vrbovsko|HR||a6|3i1|15w|d
+Vrănești|RO||8u|3gl|1xh|c
+Vrani|RO||8u|3h4|1np|c
+Vratišinec|HR||a6|3l4|19q|c|Murasiklós
+La Vraie-Croix|FR||9k|3oh|-72|b|Langroez;Vraie-Croix
+Vrbovec|CZ||9m|3rk|18q|b
+Vraná|GR||8p|2xw|1uj|b
+Vrbice|CZ|South Moravian|9m|3rw|1ay|b
+Vranjic|HR||a6|3cx|19r|b
+Seget Vranjica|HR||a6|3cv|18z|a|Vranjča;Vranjica
+Vraňany|CZ||9m|3vs|13w|a
+Vrvari|HR||a6|3hm|11w|a|Varvari
+Vrubivka|UA||98|3rg|2ym|9|Vrubovka
+Vrh|HR||a6|3h5|14d|9
+Vranj|ME||9l|39l|1hm|9
+Vrbnik|HR||a6|3h8|14r|9
+Vrchotovy Janovice|CZ||9m|3tz|14i|9
+Vráž|CZ||9m|3uu|139|9|Wraž
+Vranov nad Dyjí|CZ||9m|3rt|17x|9
+Vrginmost|HR||a6|3hz|183|9|Gvozd
+Vrína|GR||8p|2wd|1o4|9
+Vritz|FR||9k|3o6|-2z|9|Gwerid
+Vrýses|GR|Crete|8p|2ps|1wg|9|Vrýsai;Vríses;Vrísai
+Vretstorp|SE||9w|4jz|15b|9
+Vrádište|SK||8s|3rm|1br|9
+Vražné|CZ||9m|3tv|1dn|8
+Vrhaveč|CZ||9m|3t3|10y|8
+Vransko|SI||9a|3kg|15j|8
+Vrana|HR||a6|3e4|178|8
+Vrouwenpolder|NL||8m|3za|a2|8
+Vraclav|CZ||9m|3ut|18p|8
+Vraný|CZ||9m|3vt|12y|7
+Vrýses|GR|Crete|8p|2qa|1v8|7|Vríses
+Vrhpolje pri Kamniku|SI||9a|3kf|14n|7
+Vron|FR||9k|3vs|4w|7
+Vrpolje|HR|Šibenik-Knin|a6|3dc|18h|7
+Vrlika|HR||a6|3dz|19k|7|Verchrecha
+Vrouwenparochie|NL||8m|440|fu|7|Lieve Vrouwe Parochie;Froubuorren
+Vrysáki|GR||8p|34u|1q8|7|Vrisáki
+Vrástama|GR||8p|345|1te|7|Vrastá
+Vrbova|HR||a6|3hm|1cu|7|Orbova
+Vrchoslav|CZ||9m|3ws|12h|7
+Vrbica|RS||8q|3jt|1kf|7|Verbicza
+Vrigny|FR||9k|3pk|69|6
+Vrena|SE||9w|4ji|1ae|6
+Uršna Sela|SI||9a|3j0|161|6|Vršna Sela
+Vrbje|SI||9a|3kh|163|6
+Vřesovice|CZ|South Moravian|9m|3sa|1bu|6
+Vranovice-Kelčice|CZ||9m|3t8|1bj|6
+Vrísa|GR||8p|30g|20s|6|Vrisia;Vrissá
+Vrbica|HR||a6|3hv|1fk|6
+Vranov|CZ||9m|3sz|1a5|6
+Vrchoslavice|CZ||9m|3t1|1bu|6
+Vřesovice|CZ|Olomouc Region|9m|3t8|1bm|6
+Vranovci|HR||a6|3hi|1e9|6
+Vágfüzes|SK||8s|3ox|1e5|6|Vrbová nad Váhom;Sziget;Keszegfalusi Sziget
+Vrbanovec|HR||a6|3kj|19w|6
+Vrachiá|GR||8p|34y|1qw|6|Vrakhiá
+Vrhpolje|SI||9a|3je|12s|5|Verpogliano;Oberfeld bei Wippach
+Vrboska|HR||a6|3by|1ab|5|Vrbovska
+Vrăniuț|RO||8u|3h0|1nv|5|Felsővarány;Vraniuc
+Vrbovac Podborski|HR||a6|3in|1bx|5|Vrbovac
+Vráto|CZ||9m|3s3|14d|5
+Vřesová|CZ||9m|3vm|za|5
+Vrzdenec|SI||9a|3ju|13n|5

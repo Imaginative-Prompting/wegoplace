@@ -1,0 +1,70 @@
+/* A sheet: it rises from the foot (320 ms, the standard curve) and follows the finger; let go early and it settles back
+ * (the spring), pulled past 140 px or flicked it leaves. The scrim tracks it. Its look and motion come from NeedWright's
+ * tokens and timings; the mechanics (focus, the keyboard, a dialog from 768) stay sheet.js's.
+ *
+ * States, set by the code that drives it:
+ *   .ds-sheet-root[data-open]   up
+ *   .ds-sheet[data-drag]        a finger has it: no transition, it sits at --ds-dy
+ *   .ds-sheet[data-settle]      let go early: back with the spring */
+
+.ds-sheet-root { position: fixed; inset: 0; z-index: 60; pointer-events: none; }
+.ds-sheet-root[data-open] { pointer-events: auto; }
+
+.ds-scrim {
+  position: absolute;
+  inset: 0;
+  background: var(--backdrop);
+  opacity: 0;
+  transition: opacity var(--dur-200) var(--ease-standard);
+}
+.ds-sheet-root[data-open] .ds-scrim { opacity: var(--ds-scrim, 1); }
+.ds-sheet[data-drag] ~ .ds-scrim, .ds-sheet-root:has(.ds-sheet[data-drag]) .ds-scrim { transition: none; }
+
+.ds-sheet {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  max-height: calc(100% - 48px);
+  display: flex;
+  flex-direction: column;
+  background: var(--chrome);
+  border-top: 1px solid var(--edge);
+  border-radius: var(--radius-24) var(--radius-24) 0 0;
+  padding: 10px 20px calc(28px + env(safe-area-inset-bottom, 0px));
+  transform: translateY(calc(100% + 2px));
+  transition: transform var(--dur-320) var(--ease-standard);
+  touch-action: none;
+}
+/* Its colour runs on past its foot, so a settle's overshoot never shows the page under it. */
+.ds-sheet::after { content: ""; position: absolute; left: 0; right: 0; top: 100%; height: 80px; background: var(--chrome); }
+.ds-sheet-root[data-open] .ds-sheet { transform: none; }
+.ds-sheet[data-drag] { transition: none; transform: translateY(var(--ds-dy, 0px)) !important; }
+.ds-sheet[data-settle] { transition: transform var(--dur-320) var(--ease-spring); }
+
+.ds-grab {
+  flex: 0 0 auto;
+  width: 36px;
+  height: 4px;
+  border-radius: var(--radius-full);
+  background: var(--gray-5);
+  margin: 0 auto 18px;
+}
+.ds-sheet-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 32px;
+  margin-bottom: 18px;
+}
+.ds-sheet-head h2 {
+  font: 500 var(--size-20)/1.25 var(--type-head);
+  letter-spacing: var(--track-head);
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.ds-sheet-body { overflow: auto; overscroll-behavior: contain; touch-action: pan-y; min-height: 0; }
+.ds-sheet-foot { margin-top: 16px; }

@@ -1,0 +1,437 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Chongqing|CN||7i|2a4|880|4pr4|Ĉongĉingo;Tsjoengking;Csungking;Čchung-čching;Čuncjina;Čongčingas;Trùng Khánh;Tshùng-khin;Çongçing;Chongking;Çunkinq;Ch’ung-ch’ing;Chungking
+Istanbul|TR||94|35x|28f|3d5k|Byzantium;Constantinople;Tsarigrad;Constantinopla;Estambul;Konstantinopolo;Byzance;Byzantion;Byzanz;Constantinoble;Mikligarður;Stambuł;Istambuł;Micklagård;Bizánc;Konstantinápoly;Isztambul;Costantinopoli;Stambula;Constantinopolen;Konstantinopel;Carigrad;Konstantinopol;Istanbu;Constantinopolis;Stamboul;Istamboul;Constantinopoli
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Qingdao|CN||7i|2s6|9ae|1jcd|Tsingtau;Čching-tao;Thanh Đảo;Čingdao;Cindao;Chheng-tó-chhī;Sindao;Chĭng-dō̤;Csingtao;Cjindao;Tsingtao;Ch’ing-tao
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Chicago|US||2f|389|-6rh|kk5|Ĉikago;Sicagum;Čikaga;Şikago;Chicagu;Chikago;Kikako;Tsikago;Çikaqo;Chi-kâ-kô;Čėkaga;Shikago
+Qingyuan|CN|Guangdong|7i|1tu|8pz|dew|Chĭng-uōng;Čching-jüan;Chhîn-yén-sṳ;Thanh Viễn;Chheng-oán-chhī;Tsingyüan;Ch’ing-yüan
+Astana|KZ||5s|3y6|5ih|bwx|Tselinograd;Astano;Asztana;Nur-Sultan;Akmolinsk;Nour-Soultan;Nur-Sultano;Noer-Soeltan
+Jinjiang|CN|Fujian|7i|1wy|95d|axe|Tấn Giang;Chìn-kang-chhī;Céng-gŏng;Tsìn-kông-sṳ
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Chelyabinsk|RU||7z|498|4qn|9a0|Tscheljabinsk;Cheliábinsk;Čeljabinsk;Ĉeljabinsko;Tšeljabinsk;Tcheliabinsk;Čeļabinska;Tsjeljabinsk;Czelabińsk;Tjeljabinsk;Çelyabinsk;Čeliabinskas;Celiabinsc;Celeabinsk;Cseljabinszk;Čeläbinsk;Tsyelyabinsk;Txeliabinsk;Celiabinsca
+Shymkent|KZ||5s|39j|5dc|99c|Schymkent;Chymkent;Sjymkent;Szymkent;Šõmkent;Şımkent;Tsjimkent;Šymkentas;Ximkent;Šymkent;Ŝimkento;Çimkent;Sjimkent;Šimkenta;Xymkent;Shımkent;Chimkent
+Volgograd|RU||a4|3rb|3fm|7tj|Stalingrado;Estalingrado;Wolgograd;Volqoqrad;Stalingrad;Tsaritsyn;Staljingrad;Caricin;Zarizyn
+Tshikapa|CD||y|-hu|1ls|4w9|Chikapa
+Zhoukou|CN||7i|2ld|8uh|3wc|Tsjoukou;Čou-kchou;Juko shehiri;Chu Khẩu;Ciŭ-kāu;Chiu-kháu-chhī;Chou-k’ou
+Cheboksary|RU||9i|4bx|3n9|3sr|Čeboksary;Ĉeboksari;Tšeboksarõ;Tšeboksary;Csebokszári;Tsjeboksary;Czeboksary;Tjeboksary;Txeboksary;Txeboksari;Şupaşkar;Čeboksarad;Shupashkar;Tsjeboksari;Čeboksarai;Choupachkar;Tscheboxari;Cheboksari;Cheboksar’
+Zaoyang|CN||7i|2h9|8p7|3pm|Tsao-yang
+Jincheng|CN||7i|2qm|8pf|3oh|Tấn Thành;Céng-siàng;Chin-ch’eng;Tsincheng
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Tseung Kwan O|HK||6i|1q1|8td|36p|Cheung Kwan O
+Chita|RU||67|40k|8r9|2oy|Tsjita;Tšita;Çita
+Chifeng|CN||7i|39f|96g|2ob|Tschiföng;Xích Phong;Chiáh-hŭng;Čch’-feng;Chhak-fûng-sṳ;Chhek-hong-chhī;Ch’ih-feng
+Tsuen Wan|HK||6i|1q5|8sz|2gl|Tsun Wan
+Cherepovets|RU||9i|4k9|2xa|2fp|Tscherepowez;Tšerepovets;Čerepovec;Czerepowiec;Ĉerepoveco;Tsjerepovets;Čerepoveca;Čerepovecas;Cerepoveț;Txerepovets;Cserepovec;Tjerepovets;Çerepovets;Čerjepowjec;Cherepovetz
+Chernihiv|UA||98|3z3|2ex|26j|Tschernihiw;Czernihów;Ĉernigivo;Ĉernihivo;Csernyihiv;Tsjernihiv;Tšernihiv;Czernihovia;Chernígov;Černihiv;Çernigiv;Tjernihiv;Černihiw;Černihov;Černigovas;Txerníhiv;Cernigău;Tšernigiv;Černigov;Çerniqov;Cernigovia;Tschernigow
+Tsu|JP||7q|2oh|aj8|249
+Cherkasy|UA||98|3tc|2h2|22y|Tscherkassy;Tcherkassy;Čerkasy;Czerkasy;Cserkaszi;Tsjerkasy;Tšerkassõ;Tšerkasy;Ĉerkaso;Çerkassi;Çerkası;Čerkasai;Circassium;Tjerkasy;Txerkasy;Tcherkássi;Tsjerkasi;Txerkassi;Čerkasad;Cherkassy
+Chernivtsi|UA|Chernivtsi|98|3q5|201|21f|Tschernowitz;Czernowitz;Cernăuți;Tsjernivtsi;Czerniowce;Tjernivtsi;Ĉernivco;Černovice;Çernivtsi;Tšernivtsi;Txernivtsí;Černivci;Csernyivci;Černovci;Czernovicum;Černivciai;Chernovsi;Cernovizza;Csarnóca;Chernovtsy
+Częstochowa|PL||a5|3x4|1h4|1wx|Tschenstochau;Čenstakava;Čenstohova;Čenstochová;Czenstochau;Czynstochowy;Khìm-sṳ̂-thok-khok-ngá;Çenstoxova;Chenstochov
+Tsukuba|JP||7q|2s8|at8|1v5|Cukuba;Tukuba-chhī
+Zhubei|TW||7l|1x0|9c5|1n3|Trúc Bắc;Tsuk-pet-sṳ;Ču-pej;Jhubei
+Bila Tserkva|UA|Kyiv Oblast|98|3uc|2bo|1ll|Bila Zerkwa;Biała Cerkiew;Bila Cerkva;Bila Cerkwa;Bila Țerkva;Belaya serkov;Belaya Tserkov’
+Tsing Yi Town|HK||6i|1q3|8sy|1el|Tsing Yi
+Tsentralnyi|UA|Donetsk|98|3mu|2wb|1dw|Zhovtnevyi rayon;Zhovtnevyi;Molotovskyi rayon;Molotovskyi
+Chirchiq|UZ||7m|377|5da|198|Tchirtchik;Čirčikas;Circik;Çirçig;Tjirtjik;Chirchik;Tschirtschik
+Tsuchiura|JP||7q|2s9|ath|144
+Cheras|MY||6v|8n|7ul|11q|Ziu Laai;Chiau-nāi;Tsiâu-lai
+Zhalantun|CN||7i|3pd|9gy|10q|Tsa-lan-t’un;Cha-lan-tun;Zalantun
+Tsuruoka|JP||7q|2zk|ase|yu|Turuoka-chhī;Turuoka
+Tsaritsyno|RU||9i|4aj|2wl|y6
+Cherkessk|RU||9i|3eu|38t|y0|Tšerkessk;Čerkessk;Czerkiesk;Tsjerkessk
+Berkeley|US|California|3p|2x7|-9fn|xm|Berkeleia;Bērkli;Berklis;Tsiiyog Hadahodííłdládí
+Tsentralno-Miskyi|UA|Donetsk|98|3q6|2xn|wv
+Tshilenge|CD||y|-uh|1rm|w9
+El Cajon|US||3p|2j3|-90w|st|Elkachona;Elkahona;Tsétah Tééh;Elcajon
+Tsuyama|JP||7q|2pd|ac8|sf|Tsujama;Tuyama-chhī;Tuyama
+Orem|US||2p|33y|-8m9|q9|Tsétis Deezlíní Biyáázh
+Tsentralno-Miskyi|UA|Donetsk|98|3pi|2xh|q8
+Pushkin|RU||9i|4lv|2cg|pt|Puschkin;Tsarskoye Selo;Pusjkin;Saari;Šuari
+Chaykovskiy|RU||7z|4do|46b|o3|Tsjajkovskij;Tšaikovski;Chaykovsky;Čajkovski;Tschaikowski
+Tsubame|JP||7q|2wm|apx|li
+Tsurusaki|JP||7q|2kd|a5t|le
+Chekhov|RU|Moscow Oblast|9i|497|2w2|l0|Tsjekhov;Tschechow;Chéjov;Čechov;Çexov;Ĉeĥov;Tšehhov;Tšehov;Čehova;Tsjekhov i Moskva oblast;Czechow;Tjechov
+Chiryū|JP||7q|2p8|akn|k2|Csirjú;Tsiryu;Tiryū-chhī
+Caidian|CN||7i|2cy|8sr|jz|Tsaitien;Ts’ai-tien
+Chernogorsk|RU||6u|45j|71n|jw|Ĉernogorsk;Tšernogorsk
+Chapayevsk|RU||9p|436|3u3|jh|Tsjapajevsk;Tchapaïevsk;Čapaevsk;Ĉapajevsk;Tšapajevsk;Ceapaievsk;Czapajewsk;Tjapajevsk;Čapajewsk;Tschapajewsk;Chapaevsk
+Tsurugashima|JP||7q|2rw|ar8|jh
+Tsuruga|JP||7q|2r1|ahy|j1|Turuga-chhī;Turuga
+Tsushima|JP|Aichi|7q|2pp|ajs|it
+Sheptytskyi|UA||98|3vz|1vc|hv|Krystynopol;Chervonohrad;Červonohrad;Tscherwonohrad;Czerwonogród;Kristinopol’;Chervonograd;Czerwonohrad;Krvstonopol;Sheptytskyy
+Tshela|CD||t|-dw|zz|hu
+Qingshuping|CN||7i|242|8n6|hg|Tsingshuping;Ch’ing-shu-p’ing
+Chistopol’|RU||9i|49t|3wo|ha|Tsjistopol;Tšistopol;Çistay
+Chichibu|JP||7q|2rz|aqc|h0|Čičibu;Tsitsibu;Titibu-chhī;Titibu
+Békéscsaba|HU||8v|3lo|1mm|gl|Bichișciaba;Békešská Čaba;Bekeskcabo;Bekeščaba;Bekeščab;Tschabe
+Chornomors’k|UA||98|3km|2d6|g4|Chornomorsk;Čornomorsk;Tschornomorsk;Illitschiwsk;Illichivsk;Csornomorszk;Illicsivszk;Il’ichëvsk;Illichivs’k
+Cheremkhovo|RU||6k|43n|7yc|fy|Tsjeremkhovo;Tšeremhovo
+Tsévié|TG||w|hv|3d|fi|Ceviye;Tsévyé;Tzevie
+Chystyakove|UA||98|3pg|2z8|ev|Chistyakovo;Tschistjakowo;Tores;Torezas;Thorez;Toreza;Sloboda Alekseevka;Tschistjakowa;Torez;Chystiakove
+Chusovoy|RU||7z|4hx|4gl|dy|Tsjusovoj;Tschussowoi;Chusovói;Tchoussovoï;Čusovoj;Çusovoy;Tšusovoi;Ciusovoi;Čusovoi;Czusowoj;Tchussovoi;Tjusovoj;Tsjoesovoj;Čusowoj;Csuszovoj;Chusovaya
+Tsukubamirai|JP||7q|2ry|asx|dv|Tukubamirai-chhī
+Chabahar|IR||7o|1y9|4og|d5|Tschahbahar;Çabahar;Čáhbahár;Chah Bahar;Czabahar
+Tsiroanomandidy|MG||a8|-1g5|3jx|d3
+Chebarkul’|RU||7z|48q|4np|cx|Tsjebarkul
+Centar Župa|MK||9u|378|1l4|cm|Merkez Jupa;Tsentar Joupa;Centar Zsupa;Qendra Zhupa
+Chernyakhovsk|RU||96|47r|1om|ck|Insterburg;Tschernjachowsk;Czerniachowsk;Ĉernjaĥovsk;Černjachovsk;Įsrutis;Černjakhovsk;Černiachovskas;Tšernjahovsk;Chernyakovsky
+Safed|IL||6n|2jk|2qm|ar|Sfat;Tsefat;Ẕefat;Safet;Tsfat;Cfat;Safad
+Celje|SI||9a|3kf|16e|al|Celeia;Celė;Sele;Tsel'e
+Tsubata|JP||7q|2tv|aju|ah
+Tsz Wan Shan|HK||6i|1q3|8t8|ac
+Chuhuyiv|UA||98|3ug|2tx|a5|Chuhuiv;Čuhujiv;Tschuhujiw;Tchouhouïv;Tschugujew;Chuguyev
+Chernushka|RU||7z|4cz|4bs|9z|Tsjernusjka;Tchernouchka
+Tchéboa|CM||j|p3|10m|9s|Cheboa;Tscheboa
+Tsuma|JP||7q|2h6|a50|9j|Tuma
+Ts’khinvali|GE||7n|39b|3e5|8y|Tskhinval
+Tsuru|JP||7q|2qr|apv|8m
+Tsugaru|JP||7q|35c|au0|8l|Cugaru;Tugaru-chhī
+Tsiombe|MG||a8|-1ya|3ic|8a|Tsihombe
+Tsushima|JP|Nagasaki|7q|2n1|9z5|7x
+Chortkiv|UA||98|3s6|1zo|7w|Czortków;Çortkiv;Csortkiv;Čortkiva;Tsjortkiv;Ciortkiv;Tschortkiw
+Tsaratanana|MG||a8|-1ao|3od|7c
+Brawley|US||3p|2jm|-8wx|77|Tsézhiintó Bibąąh
+Český Těšín|CZ||9m|3u7|1fr|76|Czeski Cieszyn;Tschechisch Teschen;Češki Tješin;Teschen;Česki Tešīna;Česky Tešynas
+Oleshky|UA||98|3lj|2iw|6u|Tsyurupynsk;Olechky;Zjurupynsk;Oleschky;Oleški
+Tsim Sha Tsui|HK||6i|1py|8t5|6u|Tsimshatsui;Cimŝacuj;Tiêm Sa Chủy
+Chinobod|UZ||7m|35k|5jx|6o|Chinabad;Tschinabad
+Tsumeb|NA||1f|-1hh|1d7|6c|Cumebo
+Tsirang|BT||7p|232|6yc|68
+Svetlyy|RU|Kaliningrad Oblast|96|47w|1jx|65|Zimmerbude;Tsimmerbude;Svetlyj;Cimerbūdė;Svetlas;Svjetli;Swetly
+Charentsavan|AM||80|348|3g0|65|Ch’arents’avan;Tscharenzawan;Tšarentsavan;Čarencavanas;Tjarentsavan;Ĉarencavan;Tšharentshavan;Čarencawan;Çarentsavan;Charentsawan;Charencavan;Ch’arants’avan;Choentsavan
+Tsurugi-asahimachi|JP||7q|2t9|ajj|64
+Chishmy|RU||7z|47n|49u|64|Tsjisjmy
+Tsz Ching Estate|HK||6i|1q3|8t8|62
+Tsukumiura|JP||7q|2jw|a6b|61
+Tsetserleg|MN||7s|3nw|7tt|60|Cecerleg;Cecerlegas;Tsetserlig;Tsetserlik
+Tsawwassen|CA||5b|3s6|-9hw|60
+Chernogolovka|RU||9i|4bk|2yk|5p|Tsjernogolovka;Tschernogolowka;Černogolovka;Çernoqolovka;Txernogolovka;Tšernogolovka;Černogolowka;Czernogołowka
+Tsuruda|JP||7q|2gr|a2g|5m|Tsuruta
+Cherepanovo|RU||75|46m|6fm|5l|Tsjerepanovo
+Tshitereke|ZA||o|-1rk|2cp|5b
+Trzebinia|PL|Lesser Poland|a5|3vc|1i3|58|Tšebiņa
+Csongrád|HU||8v|3lr|1jy|56|Ciongrad;Tschongrad
+Tsukawaki|JP||7q|2kg|a4c|54
+Chegem|RU||9i|3d1|3d3|50|Tsjegem Pervyj
+Tsuha|JP||7q|222|9vt|50|Tsuwa
+Tshiame|ZA||o|-26p|28j|4y
+Chudovo|RU||9i|4k8|2g0|4u|Tsjudovo;Tiutova;Tchoudovo;Čudovo;Tsjoedovo;Tšudovo;Czudowo;Tjudovo
+Tsuiki|JP||7q|2lj|a40|4s
+Trzcianka|PL||a5|43c|19q|4p|Tšcjanka;Trzcónka
+Chunskiy|RU||6k|4bt|7os|4i|Tsjunskij
+Tsotsin-Yurt|RU||9i|3c4|3js|4g|Çaçan-Yurt;Cocin-Evl;Cocin-Jurt;Çoçi-Yurt;Oktjabr’skoe;Tsatsan-Yurt;Oktyabr’skoye
+Tsimlyansk|RU||9i|3od|38x|49|Tsimljansk
+Chernyanka|RU||9i|3xi|2x2|49|Tsjernjanka;Černjanka;Tschernjanka
+Čakovec|HR||a6|3ku|19n|47|Csáktornya;Aquama;Tschakathurn;Çakovets
+Cēsis|LV||9n|4f7|1y7|46|Wenden;Kieś;Cėsys;Ciesis;Sesis;Venden;Tsesis
+Chegdomyn|RU||7w|3y1|a9g|45|Tsjegdomyn;Chagdamyn
+Chaltyr|RU||9i|3nc|31o|43|Tsjaltyr
+Chernigovka|RU||7w|3f6|a89|3w|Tsjernigovka
+Tsogni|GA||v|-7s|s8|3t|Isogni
+Chkalovsk|RU||9i|4do|3c5|3s|Tsjkalovsk
+Chaplygin|RU||9i|43v|330|3r|Tsjaplygin
+Chuguyevka|RU||7w|3eo|abv|3q|Tsjugujevka
+Tsivil’sk|RU||9i|4b7|3nw|3p|Tsivilsk;Tsibil’sk
+Tsuruta|JP||7q|357|au3|3l
+Chasŏng|KP||7a|376|9rs|3j|Tscha-söng
+Tsimbeo|KM||ac|-xx|3fi|3i|Tsembéhou
+Chernyshevsk|RU||67|41w|912|3h|Tsjernysjevsk
+Trzebnica|PL||a5|3yj|1be|3e|Tšebņica
+Cherlak|RU||76|46f|5rt|3d|Tsjerlak
+Chulym|RU||75|491|68x|3c|Tsjulym;Chulim
+Cherdakly|RU||9z|46z|3rp|3b|Tsjerdakly
+Tshabong|BW||m|-20d|1qd|39|Čabongas;Tsabong
+Tsrār Sharīf|IN||6t|2m2|5rp|37|Tasrār Sharīf
+Chekmagush|RU||7z|496|47s|34|Tsjekmagusj
+Tselina|RU||9i|3l9|35z|33
+Chertkovo|RU||9i|3t6|33j|32|Tsjertkovo
+Chegem Vtoroy|RU||9i|3d4|3d4|32|Tsjegem Vtoroj
+Trzebiatów|PL||a5|466|16e|2v|Treptow an de Rega;Tšebjatova;Tšebiatuvas;Treptow an der Rega
+Shamva|ZW||n|-1c3|2fq|2v|Tsamvi;Tsambvi
+Chul’man|RU||7x|4dx|9mz|2u|Tsjulman
+Tsui Chuk Garden|HK||6i|1q3|8t7|2t
+Tsunō|JP||7q|2hl|a5h|2s
+Čáslav|CZ||9m|3un|16r|2s|Tschaslau;Czaslau;Časlau
+Tsugawa|JP||7q|2wo|are|2s
+Chausy|BY||9g|45h|2e1|2p|Chavusi;Tschawussy;Tchavoussy;Tšavusy;Čavusai;Czausy;Tjavusy;Chausi;Chavusy
+Chaplynka|UA||98|3ks|2l6|2p|Tšaplynka;Čaplinka;Txaplinka;Tjaplynka;Chaplinka;Tšaplõnka;Čaplynka;Czapłynka;Ceaplînka
+Clinton|US|Oklahoma|2f|2qo|-7mx|2o|Tséx-hótôxáha
+Chamzinka|RU||9i|475|3j7|2n|Tsjamzinka
+Tsafe|NG||u|x8|j8|2m
+Chadan|RU||6u|3yh|72d|2k|Tsjadan
+Cherëmushki|RU|Khakasiya Republic|6u|42u|71y|2i|Tsjeremusjki
+Chornobaivka|UA||98|3lq|2if|2i|Tsjornobajivka;Tschornobajiwka;Chornobayivka;Čornobajivka;Czornobajiwka;Čornobaïvka;Tšornobajivka;Txornobaivka;Çernobayevka;Ciornobaiivka;Chernovayevka;Chernobayevka;Chernoayevka
+Chachersk|BY||9g|430|2dw|2h|Tchatchersk;Čačersk;Tšatšersk;Csacserszk;Čačerska;Czeczersk;Tjatjersk;Chechersk
+Chany|RU||75|49n|5x8|2h|Tsjany;Tšany;Čany;Csani;Çanı;Czany;Tsjani
+Tsakani|ZA||o|-1we|2e9|2h
+Woodmoor|US||2p|30m|-839|2f|Tsin Bił Hazteel
+Cortez|US|Colorado|2p|2vr|-8dn|2f|Tsé Yaatóhí
+Chermen|RU||9i|3bv|3g7|2e|Tsjermen
+Chernomorskiy|RU||9i|3gl|2yx|2d|Tsjernomorskij
+Tsengel|MN||7s|3tg|7s9|2b
+Tsukiji|JP||7q|2r2|as9|2b|Tokyo Metropolitan Central Wholesale Market
+Chontaul|RU||9i|3ca|3m6|2a|Tsjontaul
+Chyorny Yar|RU||8o|3pi|3k3|28|Tsjernyj Jar;Cherny Yar
+Chirkey|RU||9i|3bc|3mi|28|Tsjirkej
+Schipkau|DE||8r|3z4|12m|27|Šejkow;Tschipko;Shipkau
+Trzemeszno|PL||a5|420|1di|26|Tšemešno;Tremessen
+Tsingoni|YT||ah|-zj|3ha|24
+Tsarychanka|UA||98|3ry|2nt|21|Tsarytchanka
+Chagoda|RU||9i|4kc|2q5|21|Tsjagoda;Čagoda;Tšagoda;Čagod;Csagoda;Txagoda;Czagoda
+Churapcha|RU||7x|4s8|a7v|21|Tsjuraptsja
+Cherëmukhovo|RU||7z|4nn|4mn|21|Tsjeremukhovo
+Tsiolkovskiy|RU||7x|3zt|9vw|20|Uglegorsk;Tsiolkovsky;Svobodny-18;Ciolkovskij;Tsiolkovski;Ciolkovskii;Klolowsi;Ziolkowski;Ciolkowskij;Ciołkowski;Svobodnyy-18
+Tsqnet’i|GE||7n|37t|3g6|20|Tsqneti;Sxneti;Tskneti;Tskhneti
+Chikola|RU||9i|3c0|3e0|1z|Tsjikola;Tsikola;Pusulmonghæw
+Chechen-Aul|RU||9i|3c0|3j7|1z|Tsjetsjen-Aul;Çeçana;Kalinovka;Čečen-Aul
+Tsqaltubo|GE||7n|39l|3ac|1z|Ts’q’alt’ubo;Tskaltubo;Tskhaltubo
+Chelbasskaya|RU||9i|3jq|31d|1z|Tsjelbasskaja;Chelbaskaya
+Tsz Hong Estate|HK||6i|1q3|8t8|1z
+Chaadayevka|RU||9i|43m|3jj|1z|Tsjaadajevka
+Tsuwano|JP||7q|2nr|a61|1x
+Tsolo|ZA||o|-2ez|27w|1x
+Chynadiyovo|UA||98|3qp|1rf|1w|Tchynadiïovo;Szentmiklós;Tschynadijowo;Czynadijowo;Chynadiieve;Ĉinadijovo;Čynadijovo;Çınadiyovo;Ciînadiiovo
+Chern’|RU||9i|44h|2uj|1v|Tsjern
+Tseminyu|IN||6t|200|79q|1r
+Tsui Wan Estate|HK||6i|1pv|8tc|1r
+Tsyrkuny|UA||98|3v4|2t3|1r|Tsirkuny
+Tsarevo|BG||9v|395|25d|1p|Zarewo;Tzarevo
+Tsur Itshak|IL||6n|2hk|2p8|1o|Tzur Yitzhak
+Chelno-Vershiny|RU||9p|475|3xx|1o|Tsjelno-Versjiny
+Tsementnyy|RU||7z|4fn|4n3|1o|Tsementnyj
+Tsz Man Estate|HK||6i|1q3|8t8|1n
+Tsuruhashi|JP||7q|2ob|agh|1n
+Tshandama|ZA||o|-1r7|2cr|1m
+Tselinnoye|RU|Altai Krai|63|43g|6ly|1m|Tselinnoje
+Chernihivka|UA||98|3n3|2sm|1m|Tschernihiwka
+Chesma|RU||7z|45h|4oh|1m|Tsjesma
+Tsagan Aman|RU||9i|3o4|3ls|1m
+White Rock|US||2p|2rj|-870|1l|Tséłgaii
+Tselinnoye|RU|Kurgan Oblast|7z|47e|4ww|1l|Tselinnoje
+Chornukhyne|UA||98|3q8|2z0|1l|Chernukhino;Tschornuchyne;Čornuhine;Chornújine;Tšornuhhõne;Tsjornukhine;Czornuchyne;Cernuhîne;Tjornukhyne
+Tsentoroy|RU||9i|3bh|3ke|1l|Tsentoroj;Catanyh;Centaroy;Tsontoroy;Centoroj
+Cheremshan|RU||9i|47u|3z3|1k|Tsjeremsjan
+Cherdyn’|RU||7z|4ns|4cw|1k|Tsjerdyn;Tscherdyn
+Tsoundzou 1|YT||ah|-zl|3hk|1k
+Tséri|CY||73|2pf|2kk|1j|Seri
+Chambarak|AM||80|34s|3hz|1j|Čambarakas;Tjambarak;Ĝambarak;Tšambarak;Čambarak;Czambarak;Krasnoselsk;Mikhaylovka
+Chepelare|BG||9v|37x|1wk|1j|Tsjepelare;Tšepelare;Cepelare;Czepełare;Tjepelare;Chepelari
+Chernyshkovskiy|RU||a4|3qi|39b|1j|Tsjernysjkovskij;Tzhernyshkovskiy
+Chukhloma|RU||9i|4j7|3al|1i|Tsjukhloma
+Čoka|RS||8q|3jm|1jy|1i|Tschoka;Csóka
+Chernolesskoye|RU||9i|3g8|3df|1i|Tsjernolesskoje
+Manitou Springs|US||2p|2zy|-83g|1h|Tséyaakin;Manitou Spgs
+Chistoozërnoye|RU||75|47z|5wq|1h|Tsjistoozernoje
+Csákvár|HU||8v|3nn|1fb|1h|Čakvár;Čakvaras;Tschakwar
+Tsetsebjwe|BW||m|-1qa|26w|1g
+Gantiadi|GE||7n|3ci|33c|1g|Gant'iadi;Zandrypsch;Tsandripsh;Candrypš;Tsandryphsh
+Chernyshevskiy|RU||7x|4v2|8of|1f|Tsjernysjevskij
+Chiri-Yurt|RU||9i|3bp|3j2|1f|Tsjiri-Jurt;Cemzavod;Čiri-Jurt;Çüyrin-Evl;Nadreč’e;Nadrech’ye;Chir-Yurt
+Chik|RU||75|48r|6cz|1f|Tsjik
+Chemodanovka|RU||9i|43v|3hp|1e|Tsjemodanovka
+Tsymbaliv Yar|UA||98|3w0|2cs|1e
+Chechelnyk|UA||98|3py|29k|1e|Tchétchelnyk;Tsjetsjelnyk;Tschetschelnyk;Chechel'nyk;Tšetšelnyk;Csecselnik;Čečeľnyk;Çeçelnık;Txetxelnik;Tjetjelnyk;Chechelnik;Čečel'nyk;Txetxelnyk;Czeczelnik
+Chastyye|RU||7z|4f5|48p|1d|Tsjastye
+Tsararano|YT||ah|-zo|3hh|1c
+Tsnori|GE||7n|37m|3jq|1c|Ts’nori
+Tsur Hadassa|IL||6n|2g4|2pi|1b|Ẕur Hadassa
+Chinar|RU||9i|38z|3pq|1b|Tsjinar
+Ţarigrad|MD||8x|3ph|254|1b|Tsar’grad;Tsaregrad
+Chekhov|RU|Sakhalin Oblast|7f|3nt|ayf|1b|Tsjekhov
+Tsidjé|KM||ac|-wi|3c7|1a
+Tsunagi|JP||7q|2hk|a2g|1a|Tsunaki
+Tsovinar|AM||80|33k|3ib|1a|Covinar
+Tsibanobalka|RU||9i|3gy|2vq|19
+Cheremnoye|RU||63|43p|6f5|19|Tsjeremnoje;Cheremnovo
+Tsudikong|IN||6t|224|7aw|18
+Chuchkovo|RU||9i|46r|375|18|Tsjutsjkovo
+Tsovagyugh|AM||80|34v|3gw|18|Covagyux;Tsovagyukh;Tzovagyugh
+Cuihuangkou|CN||7i|31t|91i|17|Ts’ui-huang-k’ou
+Chistogorskiy|RU||74|45y|6qq|16|Tsjistogorskij
+Tsil’na|RU||9z|47o|3pq|15|Tsilna;Zilna
+Chermoz|RU||7z|4ja|4c0|15|Tsjermoz
+Tsintsabis|NA||1f|-1g5|1dw|14
+Tsar Kaloyan|BG||9v|3d6|20x|14|Tzar Kaloyan
+Cheremisinovo|RU||9i|405|2vi|14|Tsjeremisinovo
+Chupa|RU||9i|543|2jt|14|Tsjupa;Tšuuppa;Čuuppa;Tšuupa;Chup
+Tsalka|GE||7n|37k|3eh|13|Zalka;Calka;Țalka;Ts’alk’a
+Chernoyerkovskaya|RU||9i|3i7|2wx|13|Tsjernojerkovskaja
+Chamlykskaya|RU||9i|3g8|35k|11|Tsjamlykskaja;Chamlikskaya;Chamlyskaya
+Cherskiy|RU||6z|5az|cg5|11|Tsjerskij
+Tsukigata|JP||7q|3ce|axj|11
+Chernoistochinsk|RU||7z|4ge|4mb|10|Tsjernoistotsjinsk
+Tsyelyakhany|BY||9g|41w|1zs|10|Telekhany;Telechany;Telechan
+Fort Defiance|US||2p|2ra|-8f0|10|Tséhootsooí
+Chkalovskoye|RU||7w|3gk|a9k|10|Tsjkalovskoje
+Ntsoudjini|KM||ac|-we|3c7|10|Tsudjini;Mitsoudjini
+Tsybli|UA||98|3uv|2fo|z
+Tsybuliv|UA||98|3sb|2aw|z|Tsybouliv;Zybuliw;Tsibulev;Čybuliv;Tsıbuliv;Cybulów;Țîbuliv
+Chernukha|RU||9i|4ag|3dk|y|Tsjernukha
+Cherkizovo|RU||9i|4bi|2wz|y|Tsjerkizovo
+Cherkasskoye|RU||9s|41n|3n5|y|Tsjerkasskoje;Cherkaskoye
+Csolnok|HU||8v|3oh|1g0|y|Tscholnok
+Charyshskoye|RU||63|3ys|6g4|y|Tsjarysjskoje
+Chesnokovka|RU||7z|47p|4bf|x|Tsjesnokovka
+Chernyshëvka|RU||7w|3es|a9u|x|Tsjernysjevka
+Chashnikovo|RU||9i|4bn|2v9|x|Tsjasjnikovo
+Chemal|RU||63|3yu|6mv|x|Tsjemal
+Csepreg|HU||8v|3no|1af|w|Tschapring;Čepreg;Čaprieg;Čeprieg
+Chunoyar|RU||6u|4fl|7id|w|Tsjunojar
+Chervishevo|RU||7z|4e7|51r|v|Tsjervisjevo
+Watonga|US||2f|2rk|-7ld|u|Tséh-maêhoaëta
+Chaykovskaya|RU||7z|4hh|4aa|u|Tsjajkovskaja
+Chernichenskiye Dvory|RU||9i|3z3|2s5|u|Tsjernitsyno
+Tsentral’nyy|RU||9i|4ce|3av|u|Tsentralnyj
+Chulakivka|UA||98|3ks|2hv|t|Tsjulakivka;Tschulakiwka;Tjulakivka;Čulakivka;Tchoulakivka;Ciulakivka;Tsjoelakivka;Chulakovka;Chulokovka
+Tsalenjikha|GE||7n|3ad|38v|t|Ts’alenjikha
+Tsovasar|AM||80|33i|3hj|t|Covasar
+Tsakkar|AM||80|33l|3hm|t|Tsakk’ar;Tzakkar
+Cherusti|RU||9i|4ab|335|t|Tsjerusti;Čerusti;Tsjeroesti;Cherust’
+Tsimasham|BT||7p|23a|6wq|t
+Tsebrykove|UA||98|3mz|2bn|s|Hoffnungstal;Zebrykowed;Tsebrikovo
+Tsur Moshe|IL||6n|2hq|2oz|s|Ẕur Moshe
+Chervone|UA|Zhytomyr Oblast|98|3us|287|s|Tscherwone;Tjervone;Červone;Czerwone;Chervonoye
+Ntsaouéni|KM||ac|-vv|3c6|s|Mtsaoueni;Tsaueni;Mitsaoueni
+Window Rock|US||2p|2r4|-8ex|r|Tségháhoodzání
+Tsa Kholo|LS||12|-2af|23f|r
+Tsvetochnoye|UA||9t|3h9|2nj|r
+Ts’inandali|GE||7n|38d|3il|r|Tsinandali;Tsinondali
+Chernivtsi|UA|Vinnytsia|98|3qu|264|r|Tscherniwzi;Tjernivtsi;Černivci;Çernivtsi;Czerniejowce;Cernivți
+Chufarovo|RU||9z|46a|3ni|r|Tsjufarovo
+Császártöltés|HU||8v|3ky|1ha|q|Tschasartet;Kaiserdamm;Tetiš;Tuotiš
+Tsotíli|GR||8p|33u|1n9|q
+Tsoundzou 2|YT||ah|-zm|3hk|q|Tsoundzou Deux
+Tsurui|JP||7q|3c5|b4u|q
+Grăniceri|RO||8u|3l8|1n6|p|Ottlaka;Lichtenwald;Csávos;Tschawosch;Ciavoș
+Tsomo|ZA||o|-2h0|25a|p
+Chokurdakh|RU||6z|5g6|beu|p|Tsjokurdakh;Tschokurdach;Tšokurdah;Čokurdachas;Čokūrdāha;Csokurdah;Çokurdah;Txokurdakh;Čokurdach;Tšokurdahh;Czokurdach;Chakurdakh;Chekyrdakh
+Chornukhy|UA||98|3vn|2ji|p|Tchornoukhy;Tschornuchy;Čornuchy;Çornuhı;Czornuchy;Ciornuhî
+Szigetcsép|HU||8v|3na|1gp|p|Tschip
+Trzciel|PL||a5|41h|183|n|Tšcela;Trziel;Tirßcheigel
+Tsovak|AM||80|33m|3ir|n|Covak
+Tsenovo|BG||9v|3cy|1za|m|Tenovo
+Tsaghkahovit|AM||80|34w|3eu|m|Caxkahovit;Tsakhkaovit;Tzaghkahovit
+Tschagguns|AT||a2|3mr|ri|m
+Tsementnozavodskiy|RU||9i|57v|4y1|l|Tsementnozavodskij
+Cherepet’|RU||9i|46c|2t2|l|Tsjerepet
+Tshituni|ZA||o|-1rm|2bf|k
+Tsovazard|AM||80|34g|3h5|k|Covazard
+Tses|NA||1f|-1zw|1ec|k
+Springerville|US||4i|2mt|-8fl|k|Tsé Noodǫ́ǫ́z
+Tsumori|JP||7q|2o9|agc|j
+Chiprovtsi|BG||9v|3ci|1rk|j|Tschiprowzi;Ciprovți;Čiprovci;Cziprowci;Tjiprovtsi;Tschiporowzi;Chiporovtsŭ;Chiporovtsi
+Choya|RU||63|40h|6of|j|Tsjoja;Chaya
+Tsurib|RU||9i|39c|3m3|j
+Chermalyk|UA||98|3nf|2x1|j|Tsjermalyk;Chermalik;Čermalika;Tšermalõk;Çermalyk
+Cherga|RU||63|3z9|6lo|j|Tsjerga
+Thunzini|SZ||13|-204|2g5|j|Tshaneni;Tjaneni;Tahaneni
+Forsyth|US|Montana|2p|3kj|-88c|j|Tšêškemâhoévehoéno
+Cherkassy|RU||7z|3zx|4ci|j|Tsjerkassy;Cherkasy
+Tsybulivka|UA||98|3qf|28w|j|Tsybulevka
+Stara Tsarychanka|UA||98|3kl|2az|i|Tsarychanka Antigua;Tăriceanca-Veche;Stara Tsarytchanka
+Tsybuleve|UA||98|3rl|2i9|i|Zybulewe;Tsybuliv;Tsibulëvo;Tsybulevo
+Chopovychi|UA||98|3x7|28f|i|Chapovichi;Chopovichi;Chepovichi;Tschopowytschi;Chopovich;Tchopovytchi;Čopovyči;Çopovıçi;Czopowyczi;Ciopovîci
+Chernechchyna|UA|Sumy|98|3vq|2op|h|Chernetchina;Tsjernetsjtsjyna;Tschernetschtschyna;Chernetchino
+Tsukuryne|UA||98|3pk|2vn|h|Tsukurino
+Chebsara|RU||9i|4kg|2zw|h|Tsjebsara;Chabsara
+Tsumkwe|NA||1f|-1if|1ky|h|Tsumkwa
+Mustvee|EE||9x|4jh|22u|h|Tschorna;Mustve;Mustwee
+Tswafeng|ZA||o|-1wt|2e2|h
+Tschernitz|DE||8r|3za|14m|g|Tzschernitz
+Botiieve|UA||98|3lo|2rk|g|Ulkon-Sasyk-Tohun;Dermendere-1;Tsarevodarivka;Tsarevodarovka;Botiyevo;Botiyeve
+Chornobyl|UA||98|3yf|2by|g|Tschernobyl;Chernobil;Txernòbil;Chernobyl;Chornóbil;Černobyl;Tjernobyl;Ĉernobilo;Tchernobyl;Csernobil;Černobyl';Tsjernobyl;Czarnobyl;Cernobîl;Tšornobõl;Tšernobyl;Černobylis;Tsjornobyl;Chernobyl’
+Tsiflikópoulo|GR||8p|326|1lw|g
+Tsikalariá|GR||8p|2qk|1uu|f|Tsikalaryiá
+Chërnaya Kholunitsa|RU||97|4jh|3zo|f|Tsjernaja Kholunitsa
+Tsarítsani|GR||8p|32s|1pr|f
+Tsikhisdziri|GE||7n|381|380|f|Zichisdsiri;Tsihisdziri;Cichisdziri
+Tsukabaru|JP||7q|2ic|a4t|f|Tsukaharu
+Tsaghkunk|AM|Armavir|80|33m|3ez|f|Caxkunq;Tsakhkunk
+Cresevo|MK||9u|38t|1nr|f|Tsréchévo;Creshevo
+Csátalja|HU||8v|3jw|1gn|e|Tschatali
+Tsleil-Waututh|CA||5b|3sz|-9hm|e
+Tsau|BW||m|-1k0|1qe|e
+Tsimkoura|YT||ah|-zy|3he|e
+Tzummarum|NL||8m|43w|ff|e|Tjummarum;Tsjummearum
+Tsentralne|UA|Chernihiv Oblast|98|3z0|2d9|e|Tsentral’ne;Tsnetral’nas
+Tsiatsan|AM||80|33n|3ez|e|Ciacan
+Tsaghkalanj|AM||80|33o|3ev|e|Caxkalanj
+Churovichi|RU||9i|40x|2gv|d|Tsjurovitsji
+Black Rock|US|New Mexico|2p|2ph|-8e7|d|Tsézhįįh Deezlį́
+Čížkovice|CZ||9m|3w8|12z|d|Tschischkowitz
+Chumikan|RU||7w|480|afw|d|Tsjumikan;Chumukan
+Tsofit|IL||6n|2hf|2p0|d|Cofit;Tzofit;Zofit
+Tsrufa|IL||6n|2ip|2p3|d|Tserufa;Tzrufa
+Ts’inubani|GE||7n|37u|3h1|d
+Tsaghkaber|AM||80|35c|3ei|c|Avdibek;Caxkaber;Tzaghkaber;Tsakhkaber
+Tsabit|DZ||3|26r|-m|c|Zsabit
+Dzithankov|AM||80|34j|3dq|c|Tsityangov;Bazirkhana;Zetyhankov;Dzithanqov;Olukhlu
+Tsyr|UA||98|3zy|1y9|c|Tsir
+Tsaile|US||2p|2su|-8fe|c|Tsééhílį́
+Chikcha|RU||7z|4er|53a|c|Tsjiktsja
+Cheremshanka|RU||7z|4bw|4nf|c|Tsjeremsjanka
+Tsvitkove|UA|Cherkasy|98|3sj|2fl|c|Zwitkowe;Cvitkove;Cwitkowe;Țvitkove
+Tsvitne|UA||98|3s0|2ia|b
+Tsuri’el|IL||6n|2jp|2q3|b|Ẕuri’el;Tsuriel
+Tsaghkadzor|AM||80|34l|3g8|b|Zaghkadsor;Tsachkadzor;Cachkadzoras;Țahkadzor;Cachkadzor;Konstantinovskoye;Tsakhkadzor
+Cermes|IT||9o|3lj|uz|b|Tscherms;Cerones
+Tselafon|IL||6n|2gc|2p1|b|Kfar Uriyah Bet;Celafon;Tzelafon;Zelafon;Kefar Uriyah Bet
+Chekalin|RU||9i|46a|2so|b|Tsjekalin
+Tzum|NL||8m|43o|fg|b|Tjum;Tsjom
+Straupitz|DE||8r|407|138|b|Tšupc
+Cheremushskiy|RU||9i|4q7|3na|b|Tsjeremusjskij
+Ts’avk’isi|GE||7n|37r|3ga|b|Tsavkisi
+Chistoye|RU||9i|4d2|3bg|b|Tsjistoje
+Tsandi|NA||1f|-1da|15d|b|Tshandi
+Tsaghkunk|AM|Gegharkunik|80|34q|3go|a|Tsakhkunk;Tzaghkunk
+Tsáda|CY||73|2os|2i7|a|Isada;Tsadha
+Tsageri|GE||7n|3ah|3at|a|Ts'ageri
+Tsentralne|UA|Mykolaiv|98|3mb|2i7|a|Tsentral’ne
+Tsupivka|UA||98|3vn|2si|a|Tsupovka
+Tsippori|IL||6n|2iz|2q0|a|Tsipori;Ẕippori;Tzippori
+Chernitsk|RU||63|43t|6g3|a|Tsjernitsk;Çernitsk
+Tselinnyye Zemli|RU||6k|47y|7rj|a
+Tsimmermanovka|RU||7w|3ym|aqt|a
+Chornyy Ostriv|UA||98|3tj|22c|a|Tchornyï Ostriv;Chornyi Ostriv;Tschornyj Ostriw;Tjornyj Ostriv;Chorniy Ostriv;Černý Ostrov;Çornıy Ostriv;Czarny Ostrów
+Tsafriyya|IL||6n|2gw|2ou|a|Tzafria;Ẕafriyya
+Tshane|BW||m|-1ur|1ou|a|Tsane
+Tsákoi|GR||8p|35r|1p8|a|Tsaki
+Leupp|US||2p|2q2|-8kd|a|Tsiizizii
+Tsuren|UA||98|3q0|20i|9|Tsouren;Țureni;Zuren
+Tsminy|UA||98|3yi|1zt|9|Tsominy
+Csikéria|HU||8v|3k5|1i3|9|Tschikri
+Tselinnoye|UA||9t|3jj|2my|9
+Nova Tsarychanka|UA||98|3ki|2b0|8|Tariceanca Nouă;Tsarichanka Noua
+Chuprene|BG||9v|3cw|1qz|8|Tschuprenä;Chupreni;Čuprene;Čupren
+Chernyshevskoye|RU||96|47s|1r5|8|Tschernyschewskoje;Tchernychevskoïe;Tsjernysjevskoje;Eitkūnai;Czernyszewskoje;Tjernysjevskoje;Černyševskoe;Tšernõševskoje;Txernixévskoie
+Chervonyi Yar|UA||98|3im|295|8|Chitai;Chervonyy Yar;Tsjervonyj Jar;Tscherwonyj Jar;Tjervonyj Jar;Červonijjara;Chervony Yar;Çervonıy Yar;Chervonnyy Yar
+Tsentralnyi|UA|Luhansk|98|3qb|2z5|8|Tsentral’nyy
+Tsvitkove|UA|Mykolaiv|98|3ob|2em|8
+Tsentral'noe otdelenie sovkhoza imeni Lenina|RU||9i|40z|35h|8
+Cheremysh|RU||7z|4dy|4v5|7|Tsjeremysj;Ĉeremyŝ
+Ts’alk’ot’i|GE||7n|3ck|339|7|Lkoti
+Tsipky|UA||98|3w5|2mm|7|Tsepki
+Peña Blanca|US||2p|2qt|-87e|7|Tséłgaii;Penablanca
+Chikoy|RU||6k|3vn|890|7|Tsjikoj
+Verin Tsaghkavan|AM||80|35q|3hx|7|Tsaghkavan;Veligegh;Veli;Tsaxkavan;Saxkavan;Verin Caxkavan;Veli gyugh
+Tsvitokha|UA||98|3vl|22u|7|Tsvetokha
+Černíkovice|CZ||9m|3vf|191|7|Tschernikowitz
+Chibit|RU||63|3vs|6r4|7|Tsjibit
+Chugunash|RU||74|42v|6ru|7|Tsjugunasj
+Tsaredarivka|UA||98|3ok|2do|6|Tsaredarovka
+Tsaghveri|GE||7n|384|3cs|6|Ts’aghveri;Tsagveri;Caghweri
+Tsaghkashen|AM||80|34i|3f7|6|Tsakhkashen
+Tschirn|DE||8r|3w0|vt|6
+Tsoghamarg|AM||80|35r|3du|6|Chizikhlar;Coxamarg;Chzkhlar
+Tsilkar|AM||80|354|3et|6|Tsilk’ar;Cilqar;Tzilkar
+Peñasco|US||2p|2sh|-85l|6|Tsétsohí
+Tzova|IL||6n|2ga|2pk|6|Tsova;Ẕova
+Nestáni|GR||8p|2wh|1qf|6|Tsipiana;Nesztani
+Chagda|RU||7x|4j7|a2t|6|Tsjagda
+Tsoloda|RU||9i|3ag|3kt|5
+Tsagkaráda|GR||8p|31f|1sd|5
+Tsoukaládhes|GR||8p|2zu|1le|5|Tsoukalades
+Tschöran|AT||a2|3lo|12s|5
+Tsamakasar|AM||80|34f|3dk|5|Ts’amak’asar;Camaqasar
+Tschurndorf|AT||a2|3o9|19l|5|Czundra;Csóronfalva;Čulindrof

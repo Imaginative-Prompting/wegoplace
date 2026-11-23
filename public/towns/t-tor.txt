@@ -1,0 +1,397 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Toronto|CA||59|3d9|-64i|lk8|Torontum;Torontas;Torontu
+Turin|IT||9o|3h7|ld|6jd|Julia Augusta Taurinorum;Turyn;Torino;Torí;Augusta Taurinorum;Turijn;Turim;Turén;Türì;Torin;Torinu
+Torreón|MX||44|1yy|-7za|5o9|Toreonas
+Ţarţūs|SY||69|2ox|2rp|3jb|Tartous;Tortosa;Tartouss
+Toruń|PL||a5|439|1fo|1ip|Thorn;Thorunium;Torń
+Tordher|PK||6q|2mf|5kt|15o
+Torrance|US||3p|2m0|-94q|13w|Torensas;Torrensa
+Tours|FR||9k|3nn|1y|13c|Turones;Augusta-Turonum;Tūras;Tūra;Tors;Teurgn
+Torbat-e Ḩeydarīyeh|IR||7o|2pz|4ki|12w
+Torrejón de Ardoz|ES||9d|34e|-9n|wu|Torechon de Ardosas;Turricula Ardozensis
+Slovyansk|UA||98|3rp|2wg|t7|Slowjansk;Slovjansk;Slovjanskas;Slovjansko;Słowiańsk;Slavjansk;Slovjanska;Sloveansk;Sloviansk;Slaviansk;Tor;Slawjansk;Slavyansk
+Toride|JP||7q|2rq|at4|t1|Torite
+Torbat-e Jām|IR||7o|2pw|4oe|rw
+Torre del Greco|IT||9o|35b|13x|np|Torre d''o Grieco
+Torrevieja|ES||9d|2xi|-1w|my|Torrevella de la Mata;Torrevella;Malnovturo
+Torrent|ES||9d|31k|-1b|lt
+Tournai|BE||8t|3wl|9f|jc|Doornik;Turnacum;Turnė;Tornai;Doornyk;Tournay
+Torremolinos|ES||9d|2tq|-ci|i6
+Torquay|GB||9b|3w6|-9t|i6|Torcaium;Torki
+Torrelavega|ES||9d|3cf|-b9|fd
+Chystyakove|UA||98|3pg|2z8|ev|Chistyakovo;Tschistjakowo;Tores;Torezas;Thorez;Toreza;Sloboda Alekseevka;Tschistjakowa;Torez;Chystiakove
+Torbalı|TR||94|2y2|23y|dz|Tepeköy
+Torzhok|RU||9i|4eg|2p4|dh|Torzjok;Torschok;Torjok;Toržok;Torshok
+Tororo|UG||q|1x|2my|dh|Tororas
+Torre Annunziata|IT||9o|357|145|c3|Torre Nunziata
+Turda|RO|Cluj County|8u|3ld|1u2|c1|Thorenburg;Potaisa;Torda;Potaissa
+Torres|BR||4w|-29i|-3u5|bm
+Tortuguitas|AR||1l|-2ns|-4j7|bi
+Toritama|BR||4p|-m9|-2s6|bf
+Torre-Pacheco|ES||9d|2wu|-2n|9w|Torre Pacheco
+Tortosa|ES||9d|35d|1g|9r|Tortoza
+Torrington|US|Connecticut|48|384|-5n4|9p
+Toretsk|UA||98|3qf|2x5|8l|Dzerzhinsk;Dzerzhyns'k;Dzerzhynsk;Dzeržinsk;Toreck;Dserschynsk;Torezk
+To‘rqao‘rg‘on|UZ||7m|35w|5in|8f
+Tournefeuille|FR||9k|3d3|3o|83|Tornafuèlha
+Torres Vedras|PT||99|30l|-pq|6s|Turres Veteres;Tores Vedrasas;Lapangan Terbang Santa Cruz
+Torcy|FR|Île-de-France|9k|3rp|7d|6s
+Törökszentmiklós|HU||8v|3n2|1kq|6c|Törökszenimiklós
+Tortona|IT||9o|3gq|om|6b
+Torre del Mar|ES||9d|2u2|-bd|64
+Toguchin|RU||75|49g|6ig|63|Togutsjin;Goguchin;Toruchin
+Torrelodones|ES||9d|34q|-ax|62
+Ţorqabeh|IR||7o|2sv|4kx|5u|Ţoroqbeh;Torqebeh
+Tornio|FI||92|52x|1v3|5t|Torneå;Duortnus;Tornia;Tornijas;Tornijės
+Tor Lupara|IT||9o|38o|z2|5s
+Tortiya|CI||0|od|-ft|5r
+Marina di Ardea-Tor San Lorenzo|IT||9o|37f|yu|5m|Tor San Lorenzo
+Torit|SS||p|c9|2ih|5k
+Torūr|IN||6t|1cu|65a|5b
+Torhout|BE||8t|3xv|8m|59|Toeroet;Turholt
+Torgau|DE||8r|3z8|104|57|Torhow;Torgawa;Torgava
+Torquay|AU|Victoria|8j|-2yh|b4x|55
+Torvaianica|IT||9o|37m|ym|4s|Torvajanica
+Torremaggiore|IT||9o|37t|16h|4q
+Torrox|ES||9d|2u4|-az|4p
+Torodi|NE||18|10g|50|4g
+Tordera|ES||9d|37u|7k|49
+Torredembarra|ES||9d|36b|3w|49|Torredembara
+Torres Novas|PT||99|31o|-nq|46
+Tori-Bossito|BJ||1b|i2|5y|44
+Torre del Campo|ES||9d|2wx|-au|42|Torre del Compo
+Toropets|RU||9i|4cy|2fw|3y|Toropec;Toropetia;Toropiec;Toropjec;Toropez
+Torredonjimeno|ES||9d|2wx|-b0|3y|Torredongimeno
+Torelló|ES||9d|38t|6b|3y
+Toro|CO||27|ct|-5vc|3u
+Tórshavn|FO||85|4s9|-it|3o|Þórshöfn;Torshamn;Thorshavn;Torshaunas;Thori Portus;Touršhavna;Þunreshæfen;Torŝavno
+Torrijos|ES||9d|332|-bw|3n|Torrijas
+Tornesch|DE||8r|456|r0|3n
+Torrington Park|JM||3i|1dz|-5xb|3b
+Tori|EE||9x|4ig|1wy|3b
+Törökbálint|HU||8v|3nr|1gj|39|Großturwall;Török-bálint
+Torroella de Montgrí|ES||9d|38s|8p|38|Torroella
+Tor Tre Teste|IT||9o|38c|yz|36
+Torre del Lago Puccini|IT||9o|3dr|sl|34
+Torresdale|US||48|339|-5sc|30
+Torgelow|DE||8r|44z|12x|2z|Turzogłowë;Torgelova
+Tournon-sur-Rhône|FR||9k|3h7|df|2y|Tornon;Turnonium
+Tori-Fatehpur|IN||6t|1yq|63r|2u
+Torslanda|SE||9w|4gc|wp|2t
+Torre Santa Susanna|IT||9o|34f|1da|2q
+Toro|ES||9d|37c|-f0|2o
+Tyuratam|KZ||7c|3it|4vv|2n|Töretam
+Tortum|TR||94|33x|37e|2m
+Torrinha|BR||4w|-1qb|-3pt|2l
+Torbeyevo|RU||9i|468|3c5|2j|Torbejevo
+Torshälla|SE||9w|4l2|19r|2h
+Biatorbágy|HU||8v|3nv|1ga|2e|Wiehall-Kleinturwall;Bia;Torbágy
+Torpa|IN||6t|1rq|6kd|2e
+Torre de Moncorvo|PT||99|36d|-jl|2e
+Torri di Quartesolo|IT||9o|3ig|wa|2d
+Toritto|IT||9o|35w|1ac|2d
+Tordesillas|ES||9d|37a|-dw|2b|Tordesilhas
+Novi Kneževac|RS||8q|3jx|1ju|2a|Kanizsa;Rév-Kanizsa;Kis-Kanizsa;Torontál-Józseffalva;Törökkanizsa;Novi Kneĵevac;Kanisa
+Torre Boldone|IT||9o|3j0|qz|29
+Torbay|CA||50|3of|-42h|27
+Tortolì|IT||9o|32x|qu|26
+Torpoint|GB||9b|3vy|-bo|25|Penntorr
+Torres de la Alameda|ES||9d|348|-9c|25
+Tornquist|AR||1l|-2xu|-4su|23|Tornkvit
+Torkamān|IR||7o|2wf|3nn|22
+Torquay|AU|Queensland|8c|-1y8|bso|22
+Torregrotta|IT||9o|2y4|16n|21
+Torata|PE||3o|-1bg|-5gs|1z
+Tortosa|PH||71|ud|9hx|1y|Tortoso
+Torreperogil|ES||9d|2xo|-95|1w
+Tornaľa|SK||8s|3qi|1kh|1w|Tornalja
+Torrington|US|Wyoming|2p|38u|-81e|1v
+Tortoreto Lido|IT||9o|3aw|12q|1q
+Torbole Casaglia|IT||9o|3if|s4|1q
+Târnova|RO|Arad County|8u|3ko|1ok|1p|Tornova;Tîrnova
+Torrelles de Llobregat|ES||9d|36v|5i|1n|Torrellas de Llobregat
+Torkālakī|IR||7o|2hk|3rp|1l|Tar Kālakī;Torkāgakī;Torkākalī
+Toronto|AU||8l|-2jp|bp3|1l
+Torreblanca|ES||9d|33q|k|1k
+Torban|IN||6t|1wt|78z|1j
+Torrita di Siena|IT||9o|3bx|wq|1h|Turrita;Torrita
+Torrejón de la Calzada|ES||9d|33o|-ak|1h
+Toramangalam|IN||6t|wh|60e|1h|Doramangalam
+Turís|ES||9d|31e|-1y|1h|Torís
+Torghay|KZ||7c|3tv|4wd|1h|Torgay
+Torreglia|IT||9o|3hy|wm|1g
+Bran|RO||8u|3ig|1yf|1g|Törcsvár
+Torchiarolo|IT||9o|34g|1e5|1f
+Torre a Mare|IT||9o|364|1b8|1f
+Turriff|GB||9b|4fu|-6u|1f|Baile Thurra;Torraibh;Turra
+Torrebelvicino|IT||9o|3j0|vg|1e
+Tortora Marina|IT||9o|32w|17t|1d
+Toronto|US||48|34e|-67w|1d
+Torul|TR||94|34n|314|1c
+Tortkël’|KG||65|37z|5mf|1c
+Törtel|HU||8v|3mw|1je|1b
+Töreboda|SE||9w|4j3|139|1a
+Torchyn|UA||98|3x1|1xg|1a|Torczyn;Torchin
+Săvădisla|RO||8u|3lo|1t5|18|Tordaszentlászló;Sărădisla
+Torsby|SE||9w|4n2|105|18
+Torretta-Scalzapecora|IT||9o|35n|139|18
+Torelli-Torrette|IT||9o|35n|14z|18
+Torak|RS||8q|3if|1l9|17|Begejci
+Tourrette-Levens|FR||9k|3dn|k8|17|Sa Torreta;Turricula Leventiorum;Torreta de Levens
+Tortolita|US||4i|2i1|-8ke|17|Portolita
+Torixoreu|BR||2k|-190|-420|16
+Tourrettes-sur-Loup|FR||9k|3dg|jm|15|Torretas;Torretas de Lop;Tourrette-sur-Loup;Tourette-sur-Loup
+Torre Pellice|IT||9o|3gi|k2|14
+Torrelaguna|ES||9d|35f|-9u|14
+Torrensville|AU||8b|-2p0|aow|13
+Toribío|CO||27|87|-5vv|13
+Torrenova|IT||9o|2xt|14s|13
+Torkābād|IR||7o|2hu|45x|11|Tarkābād;Turkābād
+Tourves|FR||9k|3cl|gg|11|Torvas
+Turňa nad Bodvou|SK||8s|3r0|1m0|11|Torna
+Toreno|ES||9d|3am|-i3|11|Torenu
+Toreo Bajo (El Toreo Bajo)|MX||41|1i0|-7vc|10
+Torre Caracciolo|IT||9o|35k|13e|10
+Torricella|IT|Apulia|9o|344|1cm|y
+Torrejoncillo|ES||9d|32u|-hz|x|Torrojoncillu
+Tortorici|IT||9o|2xn|156|x|Turturici
+Toranomon|JP||7q|2r3|as6|x
+Torre del Mangano|IT||9o|3hp|pd|x
+Torrejón de Velasco|ES||9d|33n|-ai|w
+Toroguhé|CI||0|jb|-hz|w
+Torre de' Passeri|IT||9o|39c|12p|w|Torre dei Passeri
+Toro-Sanguéi|CI||0|n2|-8o|w|Toro-Sanguéhi;Torosanguéi;Torossanguéhi
+Torre di Mosto|IT||9o|3ix|za|v
+Sacoşu Turcesc|RO||8u|3it|1nj|v|Törökszákos;Sacoşul Turcesu;Sacoşul-Turcesc
+Torrenueva|ES|Castille-La Mancha|9d|2zc|-9c|v
+Torcy|FR|Bourgogne-Franche-Comté|9k|3lx|cd|v
+Tornimparte|IT||9o|39h|10y|u
+Tora|CI||0|rr|-ee|u|Torla
+Torrijos|PH||71|110|9f4|u
+Torralba de Calatrava|ES||9d|30e|-af|u
+Torino di Sangro|IT||9o|397|14e|t
+Torrejón del Rey|ES||9d|34w|-99|t
+Tiorotiérie|CI||0|s1|-h9|t|Tiorotiéri;Torotiéri
+Torchione-Moia|IT||9o|3k7|re|s
+Torgiano|IT||9o|3bj|yk|s|Turgianum;Torgianu
+Thursday Island|AU||8c|-te|az2|s|Île Thursday;Thursday;Wyspa Thursday;Ilha Thursday;Torsdagsön
+Torchiati|IT||9o|35e|154|s
+Torrazza Piemonte|IT||9o|3hm|m6|r
+Torpparinmäki|FI||92|4ne|1xb|r|Torparbacken
+Tornyospálca|HU||8v|3q3|1pm|r
+Torre Baró|ES||9d|375|61|r
+Torreblascopedro|ES||9d|2xk|-a4|r
+Tormac|RO||8u|3ig|1np|r|Tormák
+Torda|RS||8q|3im|1ku|r|Turda
+Torvaianica Alta|IT||9o|37n|yq|r
+Tõrva|EE||9x|4h4|202|r|Terva;Törwa;Tyrva
+Torre de la Horadada|ES||9d|2x7|-24|r|la Foradada;La Horadada
+Torigni-sur-Vire|FR||9k|3s8|-2q|q|Torigneium;Torigny-sur-Vire
+Torre del Bierzo|ES||9d|3ad|-hp|q
+Torkaha|CI||0|q3|-ft|q
+Torrens Park|AU||8b|-2p6|ap1|q
+Toropi|BR||4w|-29w|-46n|q|Toropy
+Tureni|RO||8u|3lj|1tu|p|Tordatúr
+Torrenueva|ES|Andalusia|9d|2ty|-9p|p
+Torzym|PL||a5|41b|15w|p|Tožima
+Torri del Benaco|IT||9o|3ip|tp|p
+Toro-Kinkéné|CI||0|om|-ca|o
+Torrance|GB||9b|4be|-bp|o
+Tørring|DK||8y|4b5|qc|o
+Torretta|IT|Calabria|9o|31l|1bc|o
+Torretta|IT|Sicily|9o|2xx|10s|n
+Thorn|NL||8m|3y4|g8|n|Toear;Torn
+Torrefarrera|ES||9d|37r|1p|n
+Torreilles|FR||9k|3as|8b|n
+Toora-Khem|RU||6u|41r|7f0|m|Doora-Khem;Tora-Khem;Dora-Khem
+Torremegía|ES||9d|2zr|-hq|m
+Torre Melissa|IT||9o|317|1bj|m
+Torre de' Roveri|IT||9o|3iy|r4|l
+Torrens|AU||8l|-2q9|bi5|l
+Toritori|PH||71|194|99c|l|Tori-Tori
+Torre de Pedra|BR||4w|-1sk|-3pv|k
+Torpè|IT||9o|34v|qw|k
+La Tortuga|MX|Querétaro|41|1l5|-7pk|k|Tortuga
+Torfou|FR||9k|3mo|-34|k
+Torsås|SE||9w|4cp|18g|k
+Torres de Segre|ES||9d|37d|1f|k|Torres del Segre
+Torbeck|HT||4j|1eg|-5p1|j|Tòbèk
+Torviscosa|IT||9o|3ja|10w|j|Tor di Zuin
+Torro|CI||0|nr|-cd|j
+Tårs|DK||8y|4fe|s4|i|Taars;Tors
+Tortoman|RO||8u|3f7|26e|i
+Torūd|IR||7o|2qf|48u|i|Turūd
+Torrion Quartara|IT||9o|3i6|nx|i
+Torfyanoy|RU||97|4ih|3so|i|Torfjanoj
+Thorsø|DK||8y|4ce|r7|i|Torsø
+Torres|ES||9d|2wz|-9r|h
+Tor Vergata|IT||9o|389|z2|h
+Torreorgaz|ES||9d|31e|-hd|h
+Torano Castello|IT||9o|31q|18w|h
+Torske|UA||98|3s6|2xg|h|Torskoye;Tors’ke;Torskaya
+Torony|HU||8v|3n8|19y|g|Dienling;Turnice
+Tortí|PA||4g|os|-61s|g
+Tornillo|US||2p|2fd|-86p|g
+Tūrchī|IR||7o|2uq|3kc|g|Torçu
+Torgokaha|CI||0|q3|-fn|f
+Torre San Patrizio|IT||9o|3by|11t|f
+Torre Colonna-Sperone|IT||9o|2xn|11p|f
+Nuevo Torno Largo|MX||41|1f7|-76s|f|Torno Largo
+Toro Canyon|US||3p|2nm|-985|f
+Torrevecchia Pia|IT||9o|3hs|pu|f
+Tornabé|HN||56|17r|-6r7|f
+Torres de Berrellén|ES||9d|380|-2z|e|Torres de Berellén
+Torphins|GB||9b|4en|-7a|e
+Torre Orsaia|IT||9o|33h|16z|e
+Torrecampo|ES||9d|2yv|-cz|e
+San Salvador Torrecillas|MX||41|1l4|-7sg|e|Torrecilla
+Torriglia|IT||9o|3fo|pg|e|Torriggia
+Torun|UA||98|3r7|1tk|d|Toronya
+Torrenieri|IT||9o|3bp|w3|d
+Torre de Juan Abad|ES||9d|2z6|-8i|d
+Tornareccio|IT||9o|38s|142|d
+Tork Kolā|IR||7o|2t7|41g|d
+Tureň|SK||8s|3pv|1cb|d|Torony;Zonctorony
+El Tortuguero|NI||3s|zm|-6hw|d|Tortuguero
+Tornavacas|ES||9d|33t|-ft|d
+Torre San Giovanni|IT||9o|32t|1eb|d
+Torup|SE||9w|4e8|10c|c
+Torà de Riubregós|ES||9d|386|3w|c|Torá de Rulbregos
+Toranou|CI||0|oj|-lo|c
+Torre de Miguel Sesmero|ES||9d|2za|-iw|c
+Torno|IT||9o|3je|pc|c
+Rimetea|RO||8u|3l1|1th|c|Torockó
+Torrecillas de la Tiesa|ES||9d|31x|-fy|c|Torrecilla de la Tiesa
+Torremocha|ES||9d|31b|-h5|b
+Torrecuso|IT||9o|36f|14s|b
+Torre-Cardela|ES||9d|2w6|-9c|b
+Torreselle|IT||9o|3ir|xe|b
+Tornado|US||48|2yi|-6bc|b|Andrews Heights;Big Bend;Upper Falls of Coal;Upper Falls;Upper Falls of Coal River
+Torekov|SE||9w|4cr|z3|b
+Toro|IT||9o|37h|150|b
+Torquemada|ES||9d|38r|-c0|b
+Torre Pallavicina|IT||9o|3i9|rg|b|Tur Palaisina;Turris Pallavicinorum
+Torkanivka|UA||98|3q8|290|b|Tarkanovka;Torkanovka
+Töre|SE||9w|533|1qx|b
+Torrazza dei Mandelli|IT||9o|3il|q4|a
+Torricella|IT|Abruzzo|9o|3ai|11y|a
+Tormestorp|SE||9w|4bv|127|a|Tormastorp
+Torre de' Picenardi|IT||9o|3he|sl|a
+Torcé|FR||9k|3pi|-3j|a|Tourc'heg
+Tordinia-Villa Ripa|IT||9o|3af|11y|a
+Torrazza Coste|IT||9o|3gy|p8|a
+Tórim|MX||37|24m|-8i7|a|Torín
+Torremayor|ES||9d|302|-i6|a
+Torrent de Cinca / Torrente de Cinca|ES||9d|377|y|a|Torrent de Cinca;Torrente de Cinca
+Torralba|IT||9o|34j|od|a
+Torren|AT||a2|3o8|10j|a
+Torricella Peligna|IT||9o|38q|13m|a
+Torrevecchia|IT||9o|39q|13h|9
+Tordandrea|IT||9o|3bk|yw|9
+Torreano|IT||9o|3k5|11b|9|Torean
+Torre Caietani|IT||9o|383|10v|9|Torre Cajetani
+Torres de Albanchez|ES||9d|2yq|-7g|9
+Turleque|ES||9d|320|-a1|9|Torleque
+Torriano|IT||9o|3hq|pc|9
+Torre d'Arese|IT||9o|3ho|pw|9
+Torre di Fine|IT||9o|3il|zf|9
+Torrice|IT||9o|37n|118|9
+Torreón de Cañas|MX||44|219|-84f|9|Torreón de Caña
+Torsa|IT||9o|3jf|10g|9
+Torrington|AU||8c|-24i|bpx|9
+Torre Alháquime|ES||9d|2uk|-ej|9
+Torosove|UA||98|3n7|2b9|9
+Torsåker|SE|Västernorrland|9w|4v7|1db|9
+Torrecillas (El Lindero)|MX||41|1ne|-7v8|9
+Torella dei Lombardi|IT||9o|35q|15z|9
+Torcé-en-Vallée|FR||9k|3pp|14|8|Torcé-la-Vallée
+Torsåker|SE|Gävleborg|9w|4o3|19r|8
+Torrico|ES||9d|32n|-ej|8
+Torrecaballeros|ES||9d|35v|-b6|8
+Tortoreto|IT||9o|3aw|12n|8
+Tornabous|ES||9d|37u|2x|8
+Torre|IT||9o|3cs|w4|8
+Torresandino|ES||9d|387|-av|8
+Tornaco|IT||9o|3i0|o8|8
+Torvilliers|FR||9k|3q3|b1|8
+Tornac|FR||9k|3ea|b4|8
+Torbanlea|AU||8c|-1yf|brv|8
+Torrile|IT||9o|3gt|so|8
+Torcé-Viviers-en-Charnie|FR||9k|3pm|-r|8
+Torano Nuovo|IT||9o|3ay|12a|8|Toranum;Toranu Novu
+Torsac|FR||9k|3ik|l|7
+Torteron|FR||9k|3mm|89|7
+Torpes|FR||9k|3n1|gd|7
+Tortellà|ES||9d|39b|7b|7
+Torano|IT|Lazio|9o|393|10u|7
+Torunsolaklı|TR||94|2vm|2pv|7
+La Torre de les Maçanes|ES||9d|2z9|-16|7|Torremanzanas
+Torcy-le-Grand|FR||9k|3uc|3a|7
+Torsång|SE||9w|4nz|179|7
+Torre Suda|IT||9o|330|1e3|7
+Tortequesne|FR||9k|3vp|8g|7|Tortequenne
+Torrecilla de los Ángeles|ES||9d|33t|-hu|7
+Tortugas (Las Conchas)|MX||41|1m5|-7ut|7
+Torraca|IT||9o|33f|17g|7
+Toraňňyly|TM||5x|2xy|4i8|7
+Torre di Ruggiero|IT||9o|2zd|19h|7|Torre di Ruggero
+Torano|IT|Tuscany|9o|3eh|s2|7
+Torre de Santa María|ES||9d|311|-h0|7
+Torcești|RO||8u|3iy|24d|7
+Torrebruna|IT||9o|38b|14e|7
+Torchiagina|IT||9o|3bs|yt|7
+Torphichen|GB||9b|4bd|-a5|7
+Tourtoirac|FR||9k|3hr|2y|7|Tortoirac
+Torp|IR||7o|2yj|3k8|6|Tūrp;Torb
+Toral de los Guzmanes|ES||9d|39c|-fh|6
+Torrejoncillo del Rey|ES||9d|335|-75|6
+Krensdorf|AT||a2|3or|19l|6|Tormafalu;Kreništof
+Torella del Sannio|IT||9o|37o|14c|6
+Torcieu|FR||9k|3jk|ez|6
+Tornitz|DE||8r|409|wx|6
+Torija|ES||9d|356|-8f|6
+El Torreón|MX||2g|26o|-84u|6|Torreón
+Torremenga|ES||9d|339|-g1|6
+Toreador de en Medio|MX||41|1n9|-7ra|6
+Toreby|DK||8y|483|wr|6|Thoreby
+Torrequemada|ES||9d|31d|-ha|6
+Torre Maina|IT||9o|3fm|u7|6
+Torre de Don Miguel|ES||9d|33q|-ia|6
+Tornau|DE|Saxony-Anhalt|8r|3zo|xu|6
+Torreratti-Persi|IT||9o|3g9|ox|6
+Torrecitas|MX||41|1ml|-7qc|6
+Torrecilla en Cameros|ES||9d|39e|-7b|6|Torreciella en Cameros;Torrecilla de Cameros
+Torricella del Pizzo|IT||9o|3h2|sl|6
+Tordinci|HR||a6|3i1|1g8|6|Tordincze;Tordince
+Torrelobatón|ES||9d|37p|-dz|6|Tarrelobatón
+Torrejón el Rubio|ES||9d|32h|-gp|6
+Torpāq Tappeh|IR||7o|2qv|3xm|6|Taryāq Tappeh;Tarpāq Tappeh
+Torres Dias|ST||1c|v|im|6
+Torre San Giorgio|IT||9o|3ga|kx|6
+Torbiato|IT||9o|3ip|rq|6
+Tornavento|IT||9o|3im|o7|6
+Torhamn|SE||9w|4bu|17z|6
+Torrita Tiberina|IT||9o|39c|z2|6
+Toraya|PE||3o|-131|-5nl|6|Toroya
+Tororumi|PE||3o|-zi|-5r7|6
+Torno Largo 2da. Sección|MX||41|1ds|-73m|5
+Torrijo del Campo|ES||9d|35f|-3q|5
+Torcenay|FR||9k|3ot|f7|5
+Tornau|DE|Saxony-Anhalt|8r|3zg|yz|5
+Torremocha de Jarama|ES||9d|35g|-9q|5
+Torremezzo di Falconara|IT||9o|313|18m|5
+Torma|EE||9x|4jd|22a|5
+Tórtoles del Esgueva|ES||9d|386|-b6|5|Tortoles de Esgueva
+Torricella in Sabina|IT||9o|39e|zr|5|Torricella Sabina
+Tormeno|IT||9o|3ie|w3|5
+Torre Mondovì|IT||9o|3f7|ly|5
+Torchiara|IT||9o|340|15t|5
+Tourtour|FR||9k|3d3|hi|5|Tortor
+Tordillos|ES||9d|35h|-ev|5
+Tornyosnémeti|HU||8v|3qs|1n1|5|Tornvosnémeti;Torryosnémeti;Toryosnémeti
+Toropălești|RO||8u|3id|22s|5
+Torre le Nocelle|IT||9o|35y|15f|5
+Törbel|CH||a7|3kg|lt|5
+Torre Canavese|IT||9o|3i3|lk|5
+Tortora|IT||9o|32y|17x|5
+Torres del Carrizal|ES||9d|37m|-fr|5

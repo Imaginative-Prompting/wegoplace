@@ -1,0 +1,41 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Lima|PE||3o|-xg|-5xz|1np6|Limo;Líoma;Lìmma;Lim
+Alexandria|EG||c|2eo|2b4|14m3|Alejandría;Aleksandrija;Alexandrie;Aleksandrio;Aleksandria;Iskandariyah;Alessandria d'Egitto;İskenderiye;Alessandria dEggittu;Aleksandryjo;Iskandariya;Alegsàndiri;Ałesandria dEgito;Alehandriya;Iskandariah;Cathair Alastair;Aleksandrje;Lisàndria dEgittu;Aleixandría;Aleksandriya;Taskendrit;Alessandria e Naggitto;Aleksandrii;Al Iskandarīyah;El Iskandarīya;Alessandria;Iskindirîya
+Cape Town|ZA||o|-2m9|1f6|10ts|Kapstadt;Ciudad del Cabo;Kaapstad;Ciutat del Cap;Kapstaden;Kaburbo;Kaplinn;Kapkaupunki;Le Cap;Cidade do Cabo;Fokváros;Città del Capo;Kapstad;Keiptaunas;Kapsztad;Kapské Mesto;El Cabo;Ciudá del Cabu;Tref y Penrhyn;Lurmutur Hiria;Lo Cap;Kapétown;Keiptauna;iKapa;Höfðaborg;Cape Toun;Ciudat do Cabo;Keyptaun;Sità dël Cap;Li Kap;Kab town;Kabe Urbe;Høvdastaður;Ar Chab;Cità del Cap;Sità del Cao;Altepetl In Cabo;Civitas Capitis;Kaapstêd;Çittæ do Cavo;Yvy akua Táva;Citati dû Capu;Kaepstad;Keiptauns;Keyptawn;Keiptaun;Kep Taun
+Linyi|CN||7i|2pe|94q|l66|Lâm Nghi;Lìng-gì;Lîm-kî-chhī;Lin-i
+Lianyungang|CN||7i|2o4|976|ffu
+Tashkent|UZ||7m|36m|5ca|f9g|Taschkent;Taskent;Tasjkent;Taŝkento;Toshkent;Tachkent;Taškentas;Taszkent;Toshkent shahri;Tochkent;Taixkent;Taxkent;Taškenta;Lithopolis;Daşkent;Tashkend
+Lu’an|CN||7i|2g6|8zo|cor|Liu-an
+Liuzhou|CN||7i|1vk|8fx|b32|Liuchow;Liễu Châu;Liou-čou;Linzhou;Liuchowfu;Liu-chou
+Lianjiang|CN||7i|1o5|8ic|air
+Liupanshui|CN||7i|21v|837|a6w|Lĕ̤k-buàng-cūi;Liou-pchan-šuej;Lục Bàn Thủy
+Liaocheng|CN||7i|2t9|8y8|9hm|Liao-čcheng;Liêu Thành;Lièu-siàng;Liaoĉeng
+Lilongwe|MW||9|-12t|2lv|8ly|Lilongvo;Lilongüe;Lilongvė;Lilonqve;Lilonhue
+Longyan|CN||7i|1xn|912|7wr|Lṳ̀ng-ngàng;Lung-jen;Liùng-ngâm-sṳ;Longyen shehiri;Long Nham;Lêng-nâ-chhī;Lung-yen
+Yongzhou|CN||7i|21e|8m1|7vj|Lingling;Langlin;Yung-chou
+Linfen|CN||7i|2s9|8ls|7eg|Lâm Phần;Lin-fen;Lìng-hŭng;Lîm-hun-chhī
+Libreville|GA||v|13|q9|6j1|Librevilis;Librevilo;Liuravila;Libarwil;Librefille;Librevila;Librevil;Libvil;Liberopolis
+Lviv|UA||98|3ug|1uq|5j9|Lemberg;Lwów;Leópolis;Lvov;Lavov;Leopoli;Lvovas;Ļvova;Liov;Lwiw;Lwif;Lemburg;İlbav;Ljviv;Leopul;Lembärsch;Liòpuli;Lwůw;Leopolo;Ilyvó;L'vov
+Liaoyang|CN||7i|36n|9i5|5b3|Liao-jang;Ljaojan;Liaojangas;Liêu Dương;Lièu-iòng;Liâu-iông-chhī
+Lingyuan|CN||7i|36k|97o|4zg
+Łódź|PL||a5|3zt|1i3|4xr|Litzmannstadt;Luc;Łůdź;Lò-tsṳ
+Likasi|CD||y|-ui|22a|4wm|Jadotsville;Jadotstad;Jadotville
+Leeds|GB||9b|45g|-4b|44z|Lidso;Lidsas;Līdsa;Ledesia;Lids;Loidis;Ritis
+Lyon|FR||9k|3j3|dh|40o|León do Roine;Lió;Liono;Lión;Lione;Lugdunum;Liona;Lionas;Lioni;Liyon;Liun
+Lisbon|PT||99|2zl|-pf|3zu|Lisboa;Olisipo;Felicitas Julia;Lissabon;Lisabon;Liospóin;Lisszabon;Lisabona;Lizbona;Felicitas Julia Olissipo;Olissipo;Lizboa;Lizbon;Lisimbã
+Lipetsk|RU||9i|423|31v|3xl|Lipeck;Lipieck;Lipețk;Lipeckas;Ļipecka;Lipezk;Lipjeck
+Leipzig|DE||8r|3ym|yd|3wa|Lipsko;Lipcse;Lipsia;Leipcigas;Leipciga;Lipsk;Lipsca;Lajpcigu;Leypsiq;Lajpcik;Léypzig;Läipcig;Lipekika
+Liverpool|GB||9b|44d|-8a|3u0|Lerpwl;Liverpulo;Liverpulis;Liverpūle;Learpholl;Liwérpol;Poll a' Ghrùthain;Liverpul;Lerphoyll;Liverpuil;Liverpolium
+Long Beach|US|California|3p|2lt|-94b|3np|Litus Longum;Long Byčas;Longbīča;Lonq Biç
+Longshan|CN|Jilin|7i|3b5|9nm|3l8|Lièu-nguòng;Liao-jüan;Liaojuanas;Läojuan;Liêu Nguyên;Liâu-goân-chhī;Liaoyuan
+Rạch Giá|VN||6h|rt|83w|3jr|Li̍t-ka-sṳ;Racža;Rach Zhia
+Virginia Beach|US||48|2ud|-5v2|3ic|Litus Virginiae;Vijini Beach;Virdžīnijabīča;Virdžinija Byčas;Virciniya Biç;Virĝinijabiĉo;Virginian Bch
+Lishui|CN|Zhejiang|7i|272|993|3he|Lisjui;Li-šuej;Lệ Thủy;Lâ̤-cūi;Lē-chúi-chhī
+Liaozhong|CN||7i|37b|9gw|31q|Liao-chung
+Tallinn|EE||9x|4l4|1wr|31g|Rääveli;Talino;Tallin;Taillinn;Talín;Castrum Danorum;Talinas;Tallina;Revel;Talini;Reval;Talins;Lindanäs;Tallidn;Revel';Kallinn
+Bắc Từ Liêm|VN||6h|1mj|85r|2mm
+Lublin|PL||a5|3yd|1qp|2lf|Liublinas;Lubblinu;Lioblėns;Lû-pu-lìm;Lyublin;Lubliin
+Lincang|CN||7i|1uc|7q1|2hx|Lin-ts’ang
+Lianshan|CN|Liaoning|7i|358|9bp|2f0|Lien-shan;Leinshan
+Linqu|CN||7i|2tg|95a|2b8
+Lincoln|US|Nebraska|2f|35c|-7gj|29w|Linkolnas;Linkoln;Linkolna;Linkolns

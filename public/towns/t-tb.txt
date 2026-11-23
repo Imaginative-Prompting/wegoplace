@@ -1,0 +1,7 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Tbilisi|GE||7n|37t|3gj|83j|Tiflis;Tbilissi;Tbiliso;Thbilisi;Tbilisy;Tibîlîsî;Tiblíssi;Triphelis;Tbiliszi;Tiblisi;Tbilsi;Tblisi;Tpilisi
+Batna|DZ||3|2qs|h5|28f|Batina;Tbatent
+Tbilisskaya|RU||9i|3i0|33o|6s|Tbilisskaja;Tiflisskaya
+Tbeng Meanchey|KH||78|12d|83m|6s|Thbeng Meanchey;Tbaeng Mean Chey
+Tbilisi Quarter|UA||98|3z4|2dg|a|Tbiliskyi kvartal
+Tbeti|GE||7n|39b|3dz|5

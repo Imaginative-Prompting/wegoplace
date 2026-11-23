@@ -1,0 +1,738 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Karachi|PK||6q|1x2|565|2hoy|pechs;Karatschi;Karaĉio;Karačis;Karāči;Karaczi;Carachi;Karatxi;Keraçî;Karacsi;Karatsji;Karaaji;Karačės;Karochi;Karanchi;Karasi;Kurrachi
+Caracas|VE||2c|t5|-55s|n5c|Karakaso;Caracae;Karakasas;Karakas;Karakasa;Caraques
+Khartoum|SD||r|177|2id|f8i|Jartum;Khartum;Chartúm;Ĥartumo;Hartum;Khartún;Kartúm;Chartumas;Khartoem;Cartum;Xartum;Al Kharţūm;Khartoun
+Karaj|IR||7o|2rj|3xn|b69|Karadsch;Karadž;Karaĝo;Kerec;Keredžas;Karadzs;Karadj;Karej
+Karbala|IQ||5z|2im|3ea|9ej|Kerbala;Kerbela;Karbalo;Qerbelaja;Karbila
+Kirkuk|IQ||5z|2qj|3fb|7ye|Kirkouk;Kerkûk;Kirkoek;Karkúk;Kerkouk
+Cartagena|CO||27|sw|-5tp|722|Carthagène des Indes;Kartageno;Cartaxena de Indias;Kartachena;Caratagena de Indias;Carthagène
+Kermanshah|IR||7o|2nb|3mr|4sj|Kermānschāh;Kermanŝaho;Provinco Kermanŝah;Kirmaşan;Kermaansjaah;Kirmanşah;Kermanšah;Ḳarmīsīn;Qirmisin
+Karol Bāgh|IN||6t|27l|5yf|3wc
+Karagandy|KZ||5s|3uc|5n2|3ua|Karaganda;Qarağandı;Qaraghandy;Qaraganda;Karagandi
+Karabağlar|TR||94|2ym|23d|3p5
+Kaliningrad|RU||96|47z|1kz|3nz|Królewiec;Königsberg;Kalinjingrad;Kalinyingrád;Karaliaučius;Königsbarg;Caliningrado;Calininopolis;Königsberg in Preußen;Kaliningráu;Kalininqrad;Karaliaučios;Kraljevac;Kënisberg;Körigsberg
+Kurnool|IN||6t|17z|60s|3ju|Karnūlis;Kurnul;Karnulu;Kurmul
+Cardiff|GB||9b|3z0|-8u|2vd|Caerdydd;Kerdiz;Kardydh;Kardifas;Kadif;Kārdifa;Kardip;Kardiff;Cayr Deeth;Cairdiff
+Karşıyaka|TR|İzmir Province|94|2yu|23b|2mc|Cordaleo;Cordelio
+Karawang|ID||6l|-hj|8a4|2dj|Krawang
+Karnāl|IN||6t|2ah|5xu|2bx
+Kariega|ZA||o|-2ls|1yk|28v|Uitenhage;Utienhage
+Karīmnagar|IN||6t|1f8|63t|28i
+Karlsruhe|DE||8r|3s5|nc|26u|Carolsruha;Karlsrūe;Karlsrūjė;Kallsruh;Carlsruhe
+Qarshi|UZ||7g|2zy|52r|25b|Karchi;Qarši;Karšis;Karși;Karszy;Karsji;Karŝio;Karshi
+Gravataí|BR||4w|-2b6|-3xn|21n|Karavatay;Gravatahy
+Karamay|CN||7t|3im|6jt|20m|Kelamayi;Karamajus;Karamai;K'o-la-ma-i
+Carabanchel|ES||9d|347|-ac|1yh|Karabanĉelo
+Karur|IN||6t|ug|60w|1t2
+Karāwalnagar|IN||6t|27t|5yn|1qb
+Cartagena|ES||9d|2wg|-2q|1nf|Carthago Nova;Carthagène;Kartagena;Cartachena;Kartaĥeno;Kartachena;Kartagjena;Cartaxena;Kartahena
+Karnaphuli|BD||6a|1r1|747|1kl
+Karuri|KE|Kiambu County|16|-3a|2u4|1hz
+Karuri|KE|Murang'A|16|-1y|2va|1hz
+Kāraikkudi|IN||6t|rz|62t|1ej|Karaikudi
+Karaman|TR||94|2va|2ka|1cq|Qereman
+Carolina|PR||4m|1f2|-538|1bc|Caroline;Karolina
+Carúpano|VE||2c|tn|-4vp|1ag|Karupanas
+Kariya|JP|Aichi|7q|2p6|aki|16q|Karija
+Carrollton|US|Texas|2f|2jj|-7h5|110|Karoltonas
+Exeter|GB||9b|3ww|-9t|10b|Eksetero;Karesk;Exonia;Caerwysg;Ekseteris;Exanceaster;Eksetera;Ekseter
+Karabük|TR|Karabük Province|94|36g|2in|yu|Qerebuk;Karabiukas;Qarabuk
+Karatsu|JP||7q|2kw|a11|wp|Karatu-chhī;Karatu Si;Karatu
+Robāţ Karīm|IR||7o|2qk|3xw|ta
+Kara|TG||w|qj|3b|sy|Qora
+Cárdenas|CU||36|1s0|-69l|rd|Kardenasas
+Kars|TR||94|34s|3bp|qx|Qers;Qars;Cars
+Kartasura|ID||6l|-kz|8jm|op
+Kāraikāl|IN||6t|uc|65r|o4|Kārikāl
+Karakol|KG||65|3a1|61r|ng|Karakul;Qoraqoʻl;Qarakol
+Karauli|IN||6t|21m|5xz|n2
+Carlisle|GB||9b|48i|-86|lt|Caerliwelydd;Cathair Luail;Carliolum;Karlailas;Luel
+Vanadzor|AM||80|35d|3fm|lp|Kirovakan;Mets Karakilisa;Kirowakan;Karaklis;Wanadzor;Wanadsor;Martunakan;Martunashen;Karakhs;Karakilis;Korovakan
+Karwar|IN||6t|155|5px|lf|Kárvár;Kawar
+Karangsembung|ID||6l|-j1|8ds|l3|Karangsemboeng
+Karonga|MW||9|-rl|2m9|jb
+Kāranja|IN||6t|1kw|5z9|iv
+Karlskrona|SE||9w|4c0|17b|ij|Caroli Corona;Karlskruna
+Qaraqash|CN||7t|2vj|65h|ih|K̩arak̩ax;Qarakash;Qara Qash;Kara kash
+Alba Iulia|RO||8u|3jz|1ti|hu|Karlsburg;Apulon;Vojvodov Bjalgrad;Ciudadela Blanca;Karlovský Bělehrad;Erdeljski Biograd;Weyssenburg;Dsulafehervaru;Gyulafehérvár;Belgrad-i Erdel;Belgrada;Alba-Julia;Weißenburg;Bălgrad;Alba Julija;Alba Júlia;Àobā Yóulìyà;Erdel Belgradı;Karlov Belehrad;Fehervaru
+Karlstad|SE||9w|4ky|11i|h3|Carolostadium
+Carson City|US|Nevada|3p|30s|-98p|ga|Carsonurbo;Kota Carson;Karson Sitis;Thành phố Carson;Lungsod ng Carson;Kārsonsitija;Altepetl Carson;Karson-Siti
+Karīmganj|IN||6t|1x3|74k|ft
+Karād|IN||6t|1c1|5q2|fh
+Kariya|JP|Hyōgo|7q|2oj|adb|eg
+Carcassonne|FR||9k|3c2|6j|ds|Carcassona;Carcasona;Karkasuno;Karkasona;Carcaso;Karkasonas;Carcasonne
+Karapınar|TR|Konya|94|2ws|2l7|dr
+Karviná|CZ||9m|3uh|1fi|di|Fryštát;Frysztat
+Kokkola|FI||92|4xc|1s9|dg|Gamlakarleby;Carolina Vetus;Karleby;Kokola;Kokkol;Gamla-Karlabyu
+Kara-Balta|KG||65|3ax|5p5|df|Kara-Balty;Karabaltö
+Karmi’el|IL||6n|2jf|2q2|db|Carmiel;Qiryat Karmiel;Karmiel
+Karanganom|ID||6l|-l9|8jb|d4
+Caranavi|BO||3n|-17z|-57p|cp|Karanavis;Qarañawi
+Karlovy Vary|CZ||9m|3vj|zr|cn|Karlsbad;Karlovi Varai;Karlowe Wary;Karlove Vary;Karlovı Varı;Thermae Carolinae;Karlowé Warë;Carlsbad
+Karacabey|TR||94|33p|26s|cb
+Kardzhali|BG||9v|37p|1yh|c9|Kardschali;Kardjali;Kardzjali;Kırcaali;Kardžali;Krdžali;Kerdžalai;Kyrdżali;Exrdzhali;Kardshali;Kirdžali;Kirdjalü;Kŭrdzhale;Kirdžalü;Kerjali;Kirjali;Kerdzhali;Kŭrdžali;Kŭrdzhalii;Krdjali;Kŭrdzhali
+Karlovac|HR||a6|3id|177|bn|Károlyváros;Karlstadt;Carolostadium;Karlovec;Carlovizza
+Karachi University Employees Co-operative Housing Society|PK||6q|1xc|56g|be
+Karasu Mahallesi|TR||94|363|2dj|az
+Kāro|IN||6t|1u3|6mu|ax
+Kārakkād|IN||6t|tf|5v8|av
+Karatau|KZ||5s|3by|5fq|aj|Qarataū
+Karoi|ZW||n|-1ap|2ah|ag|Karoyi
+Karangnongko|ID||6l|-lo|8j7|ae
+Karāla|IN||6t|27u|5y0|9x
+Karlova Ves|SK||8s|3pr|1be|9w
+Karavayevi Dachi|UA||98|3w3|2ck|9w|Karavaievi Dachi
+Karamsad|IN||6t|1qm|5mi|9t
+Kāramadai|IN||6t|v8|5xs|9s
+Karumattampatti|IN||6t|uv|5ye|9r
+Karjat|IN||6t|1gj|5no|9m
+Karabulak|RU||9i|3cb|3gq|9l|Karaboulak;Karaboelak;Eldarxan-Ġala
+Caracal|RO||8u|3ek|1vn|9e|Karakalis
+Kardítsa|GR||8p|31c|1ow|94|Kardiça;Kardhítsa
+Karengera|RW||s|-70|28n|91
+Karłowice-Różanka|PL||a5|3y2|1bc|8u
+Karangampel|ID||6l|-hy|8d9|8o
+Karoliniškės|LT||a3|47x|1y2|8o
+Karasu|TR|Sakarya|94|366|2da|8j
+Karamürsel|TR||94|351|2aa|8h|Karamusal
+Kemalpaşa|TR|İzmir Province|94|2yr|246|8g|Karabel
+Karjan|IN||6t|1p9|5n4|8g
+Karlovo|BG||9v|3af|1ww|8f|Karłowo;Karlıova;Karlovas
+Karpinsk|RU||7z|4m1|4mp|8d
+Kareli|IN||6t|1ro|63m|8b
+Karumālūr|IN||6t|s5|5vw|8a
+Karakoçan|TR||94|307|337|89
+Karambi|RW||s|-6g|298|89
+Karahrūd|IR||7o|2mm|3tw|89|Qara Rūd;Kararūt;Karehrūd
+Kidarakulam|IN||6t|nt|5xv|88|Karakulam
+Carrickfergus|GB||9b|480|-g5|84|Carraig Fhearghais;Karikfergusas
+Karera|IN||6t|1yq|612|7z
+Kāraippudūr|IN||6t|uq|5yr|7y
+Karasuk|RU||75|45a|60s|7y|Karassuk;Karassouk
+Kartaly|RU||7z|43e|4og|7x|Kartalí
+Karlshorst|DE||8r|41s|11l|7u
+Kariba|ZW||n|-19w|280|7o
+Caransebeş|RO||8u|3i6|1pq|7n|Karánsebes;Karansebesch;Carensebes
+Karlskoga|SE||9w|4kt|14c|7n|Karlskuga;Kariskoga
+Kara-Kul’|KG||65|37n|5lv|7h|Kara-Köl;Kara-Kël’
+Kartārpur|IN||6t|2fc|5tq|7f
+Karhal|IN||6t|230|63a|7f
+Kara Suu|KG||65|352|5mf|7e|Qora-Suu;Kara-Suu;Kara-Su
+Cartago|CR||2i|re|-6h4|7e|Kartagas;Kartago
+Kaarela|FI||92|4nd|1x4|7c|Kårböle
+Carmen de Patagones|AR||1l|-35c|-4uy|78|Karmen de Patagones
+Kārkala|IN||6t|10p|5sb|76|Kārkāl
+Karor|PK||6q|2eq|5h3|74|Haror
+Karuva|IN||6t|ov|5ws|72
+Karungappalli|IN||6t|pa|5wm|71|Karunāgapalli;Karunagappally
+Daliyat al Karmel|IL||6n|2it|2pd|6y|Daliyat at Karmil;Daliyat ad-Druz;Daliyat al-Karmil;Daliyah;Carmel City;Dāliyat el Karmil;Dalyat el Karmel;Daliat al karmel;Ir haKarmel;Cidade de Carmel;Ir ha-Karmel;Ciudad Carmel;Sivdad Karmel;Ir Karmel;Karmel;Kurmul City
+Karumāndi Chellipālaiyam|IN||6t|ve|5zj|6n
+Karatina|KE||16|-1c|2v5|6k|Caratina
+Karmāla|IN||6t|1f5|5sv|6g
+Karhula|FI||92|4o4|22t|6d
+Karanjiā|IN||6t|1og|6mt|6d
+Karakul’|UZ||7g|31t|4xb|69|Kara Kal
+Karcag|HU||8v|3ng|1m5|68
+Krnov|CZ||9m|3v5|1d6|67|Jägerndorf;Karńůw;Karniów
+Karuvanthuruthy|IN||6t|v1|5um|64
+Karak City|JO||5t|2ek|2rc|61|Karak;Kerak;Al-Karak
+Carbonia|IT||9o|30s|no|61|Karbonija
+Karben|DE||8r|3vj|od|60
+Karanpur|IN|Rajasthan|6t|2aw|5o2|60
+Karia Ba Mohamed|MA||d|2nh|-eh|5p|Karia Ba Mohammed
+Karaçoban|TR||94|31a|38y|5p|Qereçan
+Karachayevsk|RU||9i|3dl|38f|5n|Karatsjajevsk;Karatšajevsk
+Karlshamn|SE||9w|4c1|15a|5l
+Karuizawa|JP||7q|2sz|ap3|5k|Karuisawa
+Kiratu|TZ||h|-99|2r3|5k|Karatu
+Karachev|RU||9i|43k|2p6|5i|Karatsjev
+Karnobat|BG||9v|3ah|22y|5h|Karnabat
+Ijevan|AM||80|35k|3hf|5f|Istibulagh;İcevan;Karvansara;Idschewan;Idjevan;Karvansaray;Iĝevano;Idževan;Idževanas;Iczewan;Idzhevan;Karavansarai;K’aravansaray;K’arvansara
+Carlos Casares|AR||1l|-2qy|-4qh|5e|Karlos Kasares
+Carouge|CH||a7|3ka|h2|5d|Carroge;Quadruvium;Karužas
+Karlebo|DK||8y|4bc|yh|5c
+Karthikappally|IN||6t|pq|5wd|5a
+Karow|DE|State of Berlin|8r|425|11g|58
+Kari|NG||u|v9|tc|58
+Kardhān|IN||6t|2c8|5xj|57
+Karasuyama|JP||7q|2tt|atb|55
+Kherāmeh|IR||7o|29y|443|55|Karameh;Kharāmeh
+Carrigaline|IE||8z|3zx|-nc|52|Carraig Uí Leighin;Karigalinas
+Kariapatti|IN||6t|qw|60y|52|Kāriyāpatti
+Carmelo|UY||45|-2mg|-4hw|50|Karmelas;Karmelo
+Karlsfeld|DE||8r|3pz|vw|4z|Karlsfejd
+Karukh|AF||6o|2ns|4tv|4v|Karokh;Karrukh
+Karratha|AU||8k|-1lm|90l|4q|Karatha
+Karingal|IN||6t|mw|5yk|4n
+Medvezh’yegorsk|RU||9i|4ur|2nq|4m|Medvezjegorsk;Karhumäki;Karhumägi;Kondimägi;Medvezhogorsk;Medvezhegorsk
+Bilohirsk|UA||9t|3h6|2o4|4k|Qarasuvbazar;Biełogorsk;Bilohirs'k;Karasubazar;Bilogirsk;Qarasuv Bazar;Karassu Basar;Belogorsk;Karassubazar;Karasubozar
+Kargil|IN||6t|2o0|5vh|4j
+Karimabad|PK||6q|2sx|5re|4g
+Karusi|BI||b|-8m|2bs|4g|Karuzi
+Carmen de Areco|AR||1l|-2ni|-4m6|4f|Karmen de Areko
+Karnapāra|BD||6a|1u7|6yq|4f
+Carmarthen|GB||9b|402|-bz|4f|Caerfyrddin;Karmardenas;Karvyrdhin;Caermarthen
+Karabash|RU|Chelyabinsk|7z|4a5|4n9|4c|Karabasj;Karabasch;Karabach;Karabaš;Karabaix
+Kara-Kulja|KG||65|34v|5of|4c|Kara-Kul’dzha;Kara Kuldja
+Karabanovo|RU||9i|4cf|2zi|4c|Karabanowo
+Karankasso|BF||1a|v6|-cw|4b|Karangasso
+Karori|NZ||ak|-36o|dhe|4a
+Hizan|TR||94|2y6|39u|49|Karasu
+Karlstadt|DE||8r|3us|r5|49
+Kanel|SN||g|171|-10m|48|Karel
+Karamuck|IN||6t|t4|5ve|47
+Qarqīn|AF||6o|2vy|53g|46|Karkin;Qarkin
+Kartuzy|PL||a5|46x|1ek|46|Kartuzë;Kartuzi;Kartūzai
+Kharkhorin|MN||7s|3n3|7xl|44|Karakorum
+Karambakkudi|IN||6t|t2|63u|42
+Karang Poste|SN||g|11t|-19m|42|Karang
+Karlivka|UA|Poltava|98|3te|2pl|41|Karliwka
+Karmeta|IN||6t|1sh|65y|41
+Karārī|IN||6t|1yp|6a7|40
+Karaki|CN||7t|2uq|69n|3z|K̩ark̩i;Qarqi
+Koryukivka|UA||98|3zt|2hl|3y|Koriukivka;Karukivka;Karyukovka;Koryukovka;Karukovka
+Kerben|KG||65|379|5jc|3x|Karavan
+Karuppur|IN||6t|wk|60x|3w
+Qarazhal|KZ||5s|3pd|5go|3u|Kara-Dzhal;Karazhal
+Karak|PK||6q|2k0|5hh|3t|Kharak;Kark
+Karikād|IN||6t|tq|5vb|3t
+Kārimangalam|IN||6t|y7|618|3r
+Karuvellūr|IN||6t|xu|5sv|3r
+Caravaggio|IT||9o|3ie|qs|3p|Karavaĝo;Carraca;Careàs
+Karabudakhkent|RU||9i|3an|3o4|3o|Karabulakh-Kend;Karabudachkent
+Karivali|IN||6t|1hl|5mw|3l
+Karłowice|PL||a5|3y2|1bd|3j
+Karema|TZ||h|-iy|2ck|3i
+Karunguli|IN||6t|yt|65y|3h|Karanguli;Karunguzhi
+Qarah Bāgh|AF||6o|2p2|4rm|3g|Kara Bağ;Qara Bağ;Karabāgh;Kharabagh;Qarabāgh;Qaṟa Bāqh;Qareh Bāgh
+Karīho|IN||6t|20k|6op|3f
+Karlín|CZ||9m|3v5|145|3f
+Karukkalvādi|IN||6t|wf|60p|3d
+Karumbākkam|IN||6t|za|66h|3c|Karumbakham
+Karymskoye|RU||67|3zf|8tm|3b|Karymskoje;Karymskoïe;Karimszkoje;Karımskoye;Karimskoe;Karymskaya
+Sofiyivka|UA|Donetsk|98|3q2|2y0|37|Rudnik Imeni Karla Marksa;Karlo-Marksove;Sofiivka;Karlo-Marksovo
+Kal'mius'ke|UA||98|3oe|2xs|36|Karakubstroy;Komsomol’skoye;Komsomol's'ke;Kalmiouske;Karakoubstroï;Kalmiuske;Kalmiusske;Komsomolśke
+Karnāwad|IN||6t|1r6|5vs|35
+Carnisse|NL||8m|405|cg|34|Garnisse;Karnisse
+Karapınar|TR|Adıyaman Province|94|2ww|2ya|34
+Kharovsk|RU||9i|4mk|33n|33|Charowsk;Charovsk;Ĥarovsk;Karovsk
+Kargopol’|RU||9i|4qu|307|32|Kargopol
+Caraz|PE||3o|-p5|-605|31|Carás;Karasas;Qaras;Cavás
+Kargat|RU||75|49b|670|31
+Kargal|IN||6t|13f|5rt|30
+Karrāpur|IN||6t|1uj|633|2y
+Kirchlinteln|DE||8r|432|pw|2x|Karklinteln
+Karacaören|TR|Gaziantep|94|2w4|2wo|2w
+Kāri|IN||6t|1x0|633|2w
+Karczew|PL||a5|40o|1n1|2v|Karčeva
+Néon Karlovásion|GR||8p|2wz|226|2u|Karlovasi;Karlovassi;Néon Karlóvasi
+Kargahiā Purab|IN||6t|22f|6it|2s
+Qarabalyq|KZ||7c|45b|4se|2q|Komsomolets;Karabalyk
+Caernarfon|GB||9b|43m|-bv|2p|Kernarvonas;Karnarvon;Carnarvon
+Karīmpur|IN||6t|1um|6u6|2o
+Karak|MY||6v|9g|7vf|2m
+Karlsdorf-Neuthard|DE||8r|3sh|np|2l
+Karataş|TR|Adana|94|2tm|2q9|2k
+Qorovulbozor|UZ||7g|31q|4zz|2k|Karaulbazaras;Karaulbazar;Qarovulbazar;Karaulpazar;Qorowulbozor
+Karayılan|TR||94|2tz|2sk|2j
+Karrinyup|AU||8k|-2gj|8xm|2i
+Garadepe|TM||5x|2xn|463|2i|Karadepe
+Karaton|KZ||5y|3l0|44l|2h|Qaraton;Karatan
+Karis|FI||92|4mv|1tq|2h|Karjaa;Karja
+Kārzīn|IR||7o|26x|43j|2g
+Sremski Karlovci|RS||8q|3hk|1jd|2g|Karlofça;Carloviț;Carolovicia;Srijemski Karlovci;Karloca;Karlócza;Karlovci
+Karlıova|TR||94|315|35x|2g
+Yel’sk|BY||9g|3zx|28z|2e|Karolin;Jelsk;Jelskas;Elsk
+Karaundi|PK||6q|22q|5a1|2e|Karundi;Karoondi
+Kargasok|RU||7r|4k2|68m|2e|Kargasen
+Kardinya|AU||8k|-2h3|8xp|2d
+Karkaj|IR||7o|2xo|3kz|2d|Kargaj
+Karakeçili|TR||94|31z|2kq|2d
+Karnplay|LR||15|k7|-nm|2c|Kamplay
+Karumai|JP||7q|340|awy|2c
+Kalbajar|AZ||61|33f|3jw|2c|K’arvacharr;Kelbajar
+Karkkila|FI||92|4o5|1v9|2c|Högfors
+Karaağaç Mahallesi|TR||94|32v|3ec|2b
+Carhaix-Plouguer|FR||9k|3q4|-9x|2b|Karaez;Karaez-Plougêr;Carophesium
+Karpackie|PL||a5|3uc|1gv|2a
+Karabar|AU||8l|-2qa|bij|2a
+Kargapol’ye|RU||7z|4bf|4yz|2a|Kargapolje;Kargopol’ye
+Karsun|RU||9z|46k|3mi|29|Karsoun;Karszun
+Karatuzskoye|RU||6u|44w|75z|27|Karatuzskoje
+Garabogaz|TM||5x|37e|421|27|Karabogaz;Qaraboğaz
+Karmaskaly|RU||7z|471|4c1|27|Karmakaly
+Kardonikskaya|RU||9i|3dv|37v|26|Kardonikskaja
+Karpathos|GR||8p|2qn|23l|26
+Qarne Shomeron|PS||6n|2hd|2pg|25|Ginnot Shomeron;Karnei Shomron
+Coronel Vidal|AR||1l|-2w1|-4gd|24|Kolonel Vidal;Colonel Vidal;Polkovnik Vidal;Oberst Vidal;Karneli Vidal
+Karosta|LV||9n|4d3|1md|23|Kara Osta;Karaosta;Karya Osta
+Kara K’orē|ET||2|sy|32y|23|Caracore;Karakorie;Karakore
+Karié|CI||0|f4|-ke|22
+Karayazı|TR||94|32a|392|21
+Karadipatti|IN||6t|rk|60q|21
+Karungdong|PH||71|gc|9cu|21|Karungdung
+Karstädt|DE|Brandenburg|8r|43o|wm|20
+Karachiya|IN||6t|1q6|5n5|1z
+Chartres-de-Bretagne|FR||9k|3pg|-4r|1z|Karnod;Carceres
+Karkevand|IR||7o|2hu|3yx|1z|Garkevand
+Mount Carmel|US|Illinois|2f|2yp|-6rs|1y|Mont Carmel;Karmel;Karmelbjerget;Monto Karmel;Monte Carmelo;Karmelio kalnas;Karmelgebergte;Karmelberget
+Karibib|NA||1f|-1oy|182|1x
+Karpenísi|GR||8p|303|1ok|1x
+Kareli|GE||7n|38q|3dy|1v
+Karubaga|ID||6m|-aa|aom|1v
+Karaisalı|TR|Adana|94|2vi|2pe|1v
+Carlos Tejedor|AR||1l|-2qb|-4te|1v|Karlos Tejedor
+Karnaukhivka|UA||98|3qo|2oi|1u|Karnaoukhivka
+Karagay|RU||7z|4hv|48l|1u|Karagaj
+Kariong|AU||8l|-2kw|bo9|1t
+Kocaköy|TR|Diyarbakır Province|94|2yd|34i|1t|Karas
+Karmatanr|IN||6t|1u6|6oc|1s
+Kariyannūr|IN||6t|to|5vk|1s
+Karugampattur|IN||6t|zx|63r|1r
+Garayeri|AZ||61|35b|3kn|1r|Qarayeri;Cırdaxan;Karayeri
+Karacasu|TR||94|2wt|27h|1q
+Karasburg|NA||1f|-25u|1g3|1p
+Kartal|HU||8v|3of|1ia|1o
+Sultan Naga Dimaporo|PH||71|lo|9jn|1o|Caromatan;Karomatan
+Karakise|TR||94|2ud|2sm|1o|Karakese
+Kargıcak|TR||94|2tc|2h7|1o
+Kareedouw|ZA||o|-2mb|1vh|1o|Karreedouw
+Kariat Arkmane|MA||d|2pj|-7n|1n|Kariet Arkmane;Kariat akmane;Karia d’Arkemane
+Karagach|RU||9i|3dp|3dm|1n|Karagatsj
+Karma Tanr|IN||6t|1ug|6ow|1n
+Karlino|PL||a5|464|184|1m|Chòrzelëno;Karlin
+Karma|IN||6t|1vx|6ln|1m
+Karvad|IN||6t|1kk|5mn|1l
+Karūnī|IR||7o|2a2|41u|1l
+Kūrūnī|IR||7o|2a1|41u|1l|Korūnī;Karūnī
+Kario Ghanwar|PK||6q|1wx|5ak|1l
+Karakallio|FI||92|4nb|1ws|1l|Karabacka;Kartsi
+Karaivalimādappūr|IN||6t|ur|5yc|1k
+Korelichi|BY||9g|44s|20m|1j|Karelichy;Karelitschy;Kareličy;Karelitšy;Karelicsi;Kareličai;Karelitjy;Korelicze
+Karabekaul|TM||5x|2yw|4y7|1j
+Kargalinskaya|RU||9i|3di|3l4|1i|Kargalinskaja;Kargalinski;Karginskaya;Karpalinskaya
+Kargān|IR||7o|22s|4e7|1h
+Karamokola|CI||0|mi|-h6|1h|Karamola
+Karaaul|KZ||5s|3rz|646|1h|Qaraūyl;Qaraaūyl;Karaul
+Kartung|GM||7|10d|-1ak|1g
+Karaidel’|RU||7z|4b4|4e2|1g|Karaidel
+Karslı|TR||94|2uy|2q2|1g
+Karabash|RU|Tatarstan Republic|9i|47x|422|1f|Karabasj
+Kārsava|LV||9n|4dq|24x|1f
+Karanlukh|AM||80|33e|3ht|1f
+Kárystos|GR||8p|2xl|1vu|1f|Káristos;Karysto
+Carrigtwohill|IE||8z|407|-my|1f|Carrigtohill;Carraig Thuathail;Karigtohilis
+Karakulino|RU||9p|4bl|457|1f
+Carrickmacross|IE||8z|45x|-io|1e|Carraig Mhachaire Rois;Carraig Mhacaire Rois;Karikmakrosas
+Karlshuld|DE||8r|3r8|vd|1e
+Karīān|IR||7o|22w|4ey|1e|Kariūn;Karīyan
+Karpacz|PL||a5|3x2|17s|1e|Karpača
+Kardymovo|RU||9i|48h|2i3|1e|Kardymoro
+Karkamış|TR||94|2ub|2xk|1e|Karakamış;Karkamysh;Kargamış
+Karahallı|TR|Uşak|94|2yg|2a1|1d|Karaballı;Karahalla;Karahal
+Karama|AU||8e|-yg|a3o|1d
+Carnarvon|AU||8k|-1x4|8rq|1d|Karnarvon
+Karanpur|IN|Bihar|6t|20g|6og|1d
+Karmirgyugh|AM||80|341|3hf|1d|Karmirgyux;Karmir Gyukh
+Kärkölä|FI||92|4od|1ui|1d|Kärkälä
+Karbi|AM||80|341|3fa|1d|Karpi
+Karata|RU||9i|3ab|3kq|1c
+Karamanlı|TR||94|2vt|2au|1c
+Carnac|FR||9k|3o6|-8k|1c|Karnag
+Carrick-on-Shannon|IE||8z|45v|-mh|1b|Carrick on Shannon;Cora Droma Rúisc;Karikas prie Šanono
+Darátsos|GR||8p|2qm|1ul|1b|Karátsos;Dharátsos
+Karalar|TR||94|2vm|37s|1b
+Kuznechnoye|RU||9i|4ps|2b0|1b|Kaarlahti;Kuznetsjnoje;Kusnetschnoje;Kuznečnoe;Kuzneçnoye;Kuzniecznoje;Karlakhti;Kaarlakhti
+Karapürçek|TR||94|34w|2cu|1b
+Kariyangala|IN||6t|zy|5s8|1b
+Karlskron|DE||8r|3r8|vq|1b
+Karakert|AM||80|33s|3dq|1a|K’arakert;Qarakert
+Kariwa|JP||7q|2vz|ap2|1a|Kariha
+Karpogory|RU||9i|4xs|3fh|18|Karpogori
+Rusovce|SK||8s|3ph|1bm|18|Karlburg;Orosháza;Oroszvár;Rosvar
+Karle|IN||6t|1b6|5nn|18
+Koronadal|PH|Soccsksargen|71|hd|9n7|18|Karonadal
+Karagayla|RU||74|46h|6of|17|Karagaylinskiy
+Karalee|AU||8c|-24k|bsi|17
+Karwood Estates|CA||50|3o1|-42t|16
+Qaraçala|AZ||61|32m|3ry|16|Karachala
+Karan|IR||7o|2hj|3wj|14
+Karmah an Nuzul|SD||r|1ij|2ci|13|Karma An Nuzul
+Karamakhi|RU||9i|3ae|3na|13
+Karbinci|MK||9u|386|1pr|13|Karbintsi;Karabinci
+Carmel-by-the-Sea|US||3p|2tk|-9eo|13|Carmel by the Sea;Carmel;Karmelo-ĉe-la-Maro
+K’ardenakhi|GE||7n|37r|3jh|13|Kardanakhi;Kardenakhy
+Karjasilta|FI||92|50k|1yt|12
+Karana Downs|AU||8c|-24j|bsh|12
+Kārchān|IR||7o|2mq|3up|11|Kharshān;Kārchon
+Harta|HU||8v|3lq|1gv|11|Karta;Kartava
+Karadaglije|BA||9r|3ft|1e2|11
+Kargowa|PL||a5|40n|182|10|Unruhstadt;Karge;Kargova
+Karlsborg|SE||9w|4im|14a|10
+Karacha|KG||65|365|5m9|10
+Karstula|FI||92|4un|1wu|z
+Kareela|AU||8l|-2mh|bno|y
+Karttula|FI||92|4uq|22x|y
+Karnes City|US||2f|288|-7jy|y
+Kardía|GR||8p|34f|1rv|y|Karajohalí;Kardhiá
+Kara-Tyube|RU||9i|3fz|3i8|y|Kara-Tjube
+Karaburun|TR|İzmir Province|94|2zc|21n|x
+Karşıyaka|TR|Kocaeli|94|351|2b6|w|Döngel
+Karasu|KZ||7c|42a|51w|w|Qarasū
+Kardamítsia|GR||8p|328|1lu|w
+Kärdla|EE||9x|4jw|1r7|w|Kärrdal;Kyardla;Kärtla;Kerdla
+Kardzhin|RU||9i|3c7|3f1|w|Kardzjin
+Karácsond|HU||8v|3ol|1jn|v
+Karlshagen|DE||8r|46b|12f|v|Carlshagen
+Pemzashen|AM||80|34r|3e2|v|Magmudjuk;Karmirkend;Magmudzhuk
+Kavkazskiy|RU||9i|3ez|39b|v|Kavkazskij;Karkazskiy
+Kardailovo|RU||7z|3z6|45q|u
+Karakalpakiya|UZ||7g|3gb|4bs|u
+Karapyshi|UA||98|3tw|2dk|u|Karapishi
+Kārīzak-e Nāgahānī|IR||7o|2q3|4kz|t|Kārīzak-e Nāgahān;Kārīzak-e Nāghānī
+Carantec|FR||9k|3r7|-av|t|Karanteg
+Karakenja|TJ||6d|310|5io|t
+Karakuyu|TR|Iğdır|94|32r|3eb|t
+Edinburgh of the Seven Seas|SH||89|-2uz|-y7|t|Edimburgo de los Siete Mares;Edinburgh-of-the-Seven-Seas;Edinburgas;Edimburgo dos Sete Mares;Èideann na Seachd Muir;Karedin an Seyth Moryow;Edinburga Septiņās Jūrās;Yedi Deniz Edinburgh;Yetti Dengiz Edinburgi;Edinburgh dari Tujuh Laut;Edinburgh Tujuh Lautan;Édimbourg des Sept Mers;Edinburgh der Sieben Meere;Edinburgh na Bakin Ruwa Bakwai;Edinburgh Pitung Segara;Edinburgh Dalaloota Torba;Edinburgh ee Toddobaadka;Edinburgh ya Bahari Saba;Edinburgh
+Karancslapujtő|HU||8v|3pr|1it|s
+Karşıyaka|TR|Iğdır|94|32s|3fm|s
+Artsvaberd|AM||80|35g|3ib|s|Arcvaberd;Karakala;Gharaghala;Gharaghaya;Gharaghoylu;Ghrghi
+Carentoir|FR||9k|3ou|-5x|s|Karantoer;Plebs Carentorensis
+Karakaj|BA||9r|3fd|1h4|r|Karakaya
+Karacaköy|TR||94|370|26u|r
+Karhusuo|FI||92|4nb|1we|r|Björnkärr
+Karakurt|UA||98|3is|27r|r|Caracurt;Karakourt
+Kardeşköy|TR||94|2x4|255|r|Ahirköy
+Karabas|KZ||5s|3l9|5vo|r
+Karibetsu|JP||7q|3hp|ayt|q
+Karahisar|TR||94|2wh|28g|q
+Karligan|PH||71|15m|9f0|q|Carlagan
+Karsin|PL||a5|45r|1ds|p
+Karinaisten Kirkonkylä|FI||92|4oj|1r9|p|Karinais
+Karise|DK||8y|49n|xw|o
+Karakoyunlu|TR||94|331|3eq|o|Qaraqoyunlu;Kara Koyun
+Símantra|GR|Central Macedonia|8p|343|1sr|o|Karkára
+Qareh Chāl|IR||7o|2v4|3k5|o|Qaraçal;Karaçal
+Kärsämäki|FI|North Ostrobothnia|92|4xp|1zl|o
+Karolinka|CZ||9m|3t3|1eo|n
+Karajābād|IR||7o|2vt|3kx|n
+Karuga|KE||16|4|2st|n
+Karkijahan|AZ||61|32k|3lu|n|Javadlar
+Karolino-Buhaz|UA||98|3k6|2ct|m|Karolino-Bugaz;Karalino Bugaz
+Sevkar|AM||80|35y|3he|m|Karadash;Sevqar;Garatash;Karakaya;Gharadagh
+Qaramanlı|AZ||61|34g|3mj|m|Karamanli;Karamanly
+Karasungur|TR|Diyarbakır Province|94|2wh|333|m
+Kardašova Řečice|CZ||9m|3sm|159|m
+Karaçevre|TR||94|2wo|33a|m
+Karaçalı|TR|Düzce|94|359|2ey|m|Darkbush;Landbush
+Karup|DK||8y|4cf|ph|m|Midtjylland
+Karpuzlu|TR||94|2wc|25c|m
+Karvia|FI||92|4sl|1qp|m
+Koroška Bela|SI||9a|3l1|137|m|Kärntner Vellach;Koroška-Bela
+Karapchiv|UA|Chernivtsi|98|3q8|1yp|m|Karapchiu;Karapchov;Karapchëv
+Kardámaina|GR||8p|2u6|23e|l|Kardamena;Cardamena;Kardhámaina
+Carice|HT||4j|1hu|-5jj|l|Karis
+Karapchiv|UA|Chernivtsi|98|3pk|1zs|l|Karapchu;Karapchev;Karapchiu;Karapchov
+Karıncalı|TR||94|331|286|l
+Karchaghbyur|AM||80|33l|3im|l|Karchaxbyur;Karchakhpyur;Karchaghpyur
+Karawara|AU||8k|-2gx|8xw|l
+Karsdorf|DE||8r|3yf|we|l|Carsdorf
+Karhuvuori|FI||92|4pk|26g|k
+Karacalar|TR|Antalya|94|2u3|2fn|k
+Kärsämäki|FI|Southwest Finland|92|4o1|1px|k
+Karcsa|HU||8v|3q7|1ol|k
+Kardania|BD||6a|1ux|6zl|k|Kāndania
+Karyótissa|GR||8p|359|1pz|k|Kariótissa
+Karditsomagoúla|GR||8p|31f|1ow|k|Kardhitsomagoúla
+Karahan|TR|Adana|94|2uy|2pp|j
+Karancskeszi|HU||8v|3ps|1iq|j
+Kardámyla|GR||8p|2z1|20h|j|Kardhámila;Kardamila;Kardamyli
+Karaçalı|TR|Diyarbakır Province|94|2xf|340|j
+Karsbach|DE||8r|3v0|r7|i
+Kárášjohka|NO||9j|5cz|1yv|i|Karasjok
+Karítsa|GR||8p|33n|1qg|i
+Karlshus|NO||9j|4kv|u7|i|Råde;Carlshuus
+Siedlisko|PL|Lubusz|a5|3zt|17x|i|Carolat;Karolat;Carolath
+Katnajur|AM||80|35e|3em|i|Karal
+Carspach|FR||9k|3oa|k1|i|Karspach
+Karantaba|GM|Central River|7|11z|-15r|i
+Kartal|TR||94|2v3|2uq|i
+Kirchheim an der Weinstraße|DE||8r|3tm|mq|h|Kärschm
+Karád|HU||8v|3lp|1dk|h
+Karmé Yosef|IL||6n|2gh|2p0|h|Karmei Yosef
+Karasüleymanlı|TR||94|2sy|2t5|h
+Karjalohja|FI||92|4nc|1tw|h|Karislojo
+Karinskoye|RU||9i|4ar|2tx|g
+Karankono-Sobara|CI||0|mu|-bd|g
+Karabulak|TR||94|327|3ed|g
+Curahuara de Carangas|BO||3n|-1dk|-5a1|g|Karanka Kurawara;Curaguara de Carangas
+Karakollar|TR||94|2wi|25w|g
+Karacaören|TR|Aksaray|94|2xx|2mm|g
+Karakoro|CI||0|q6|-f9|g
+Kardar|IR||7o|238|4eg|g
+Karpélé|CI||0|n4|-d8|g
+Karaka Bays|NZ||ak|-36r|dhn|g
+Karellás|GR||8p|2xd|1ua|g
+Karacaahmet|TR||94|30f|2cb|g|Karacahmet
+Karasso|CI||0|qx|-k8|g|Karaso
+Karksi-Nuia|EE||9x|4he|1z0|g|Karksi-Nuya
+Caracol|HT||4j|1ip|-5k2|f|Karakòl
+Karnāla|IN||6t|1ge|5n1|f
+Karpushikha|RU||7z|4fq|4me|f|Karpusjikha
+Karahunj|AM||80|31n|3ks|f|K’arahunj;Qaraunc
+Karīmābād|IR|Hamadan Province|7o|2p4|3qc|f
+Karaağaç|TR||94|36b|2c7|f
+Cordău|RO||8u|3mf|1p2|e|Kardó
+Karkān|IR||7o|2n5|3sy|e|Karkhān
+Karaba|CI||0|nm|-ja|e
+Karako|CI||0|m2|-8d|e
+Gargar|AM||80|35s|3fg|e|Hay Gerger;Herher;Gyargyar;Haykakan Gyargyar;Hayots Gyargyar;Karkar;Haygyargyar
+Karbach|DE|Bavaria|8r|3uj|qs|e
+Rovnoye|UA||9t|3hz|2nf|e|Karasan
+Karuah|AU||8l|-2ip|bq4|e
+Karmėlava|LT||a3|48p|1uu|e|Karmelavo;Kormiałów;Karmielava;Karmėlavos;Kormyalov
+Kartoudouo|CI||0|of|-8c|e
+Karantaba|GM|Lower River|7|11b|-174|e
+Karmah|PS||6g|2fd|2pb|e
+Karlstetten|AT||a2|3q2|179|e
+Vištuk|SK||8s|3q9|1cc|e|Kárpáthalas
+Karnup|AU||8k|-2i2|8xn|e
+Karacaburç|TR||94|2vf|2vr|d
+Zharikovo|RU||7w|3fv|a5x|d|Zjarikovo;Karikovo
+Karakpo|CI||0|pn|-fs|d
+Kirchwalsede|DE||8r|43a|q4|d|Karkwals
+Kardashynka|UA||98|3lb|2im|d|Kardashinka
+Cărand|RO||8u|3l1|1pc|d|Káránd
+Karakesek|TR||94|2vp|2vg|d
+Koramanlar|TR||94|371|2hf|d|Kodamanlar;Karamanlar
+Karabağ Mahallesi|TR||94|32y|3ei|d
+Karumba|AU||8c|-1cl|av8|d
+Karahıdırlı|TR||94|2u1|2n7|d
+Karadağ|TR|Antalya|94|2t2|2az|c
+Karalat|RU||8o|3jk|3q7|c
+Karlı|TR||94|2w5|3ew|c
+Kargalık|TR||94|2ux|2bu|c
+Karalarbahşiş|TR||94|2sg|2ja|c
+Karateke|TR||94|2ww|296|c
+Karf-e ‘Olyā|IR||7o|2fk|3wv|c
+Karaçallı|TR||94|2uh|2dr|c
+Karlholmsbruk|SE||9w|4o4|1cz|c
+Karia|MA||d|2qj|-g4|c
+Karaağaçkuyusu|TR||94|2xm|2aq|c
+Caro|FR||9k|3oy|-6g|c|Karozh
+Kargı|TR||94|2ty|28s|c
+Karo-Gblobo|CI||0|lo|-ds|c
+Kargınküre|TR||94|2u4|285|c
+Karaisalı|TR|Mersin|94|2sd|2jn|c
+Karanyowka|BY||9g|41f|2ef|b|Korenëvka;Korinevka
+Karijoki|FI||92|4t3|1ob|b|Bötom
+Karayahşılar|TR||94|2y6|2al|b
+Kobarid|SI||9a|3kh|11q|b|Caporetto;Cjaurêt;Karfreit;Caporeto;Caporett
+Karoro|NZ||ak|-39z|d7j|b
+Karadağ|TR|Kars Province|94|34w|3bu|b
+Kārūn|IR||7o|24w|427|b
+Karavan|KG||65|33y|5kj|b|Kerben
+Karaöz|TR||94|2u6|2fk|b
+Karpochóri|GR||8p|31a|1p5|b|Karpokhóri
+Karşıyaka|TR|Ağrı|94|31t|3at|b
+Lernahovit|AM||80|36c|3f9|a|Lernhovit;Pokr Karakilisa;Karaklis;Pokr Gharakilisa;Rusats Gharakilisa;Gharaklis
+Karaberd|AM||80|34m|3dr|a|Dashkala;Qaraberd;Tash-kala
+Kārūyeh|IR||7o|2ia|3z0|a
+Karayün|TR||94|2x3|367|a
+Karme Ẕur|PS||6n|2ft|2pi|a|Karmei Zur;Karmei Tzur;Carmei Tzur
+Karagboko|CI||0|q8|-cy|a
+Karataş|TR|Antalya|94|2v6|2d3|a
+Carolinensiel|DE||8r|455|lo|a|Karolinensiel
+Karabinka|RU||63|42d|6nl|a
+Karintorf|RU||97|4in|3vf|a
+Kar’yernoye|UA||9t|3ht|2ld|a
+Karousádes|GR||8p|32i|1iu|a|Karousádhes
+Kärla|EE||9x|4i2|1pu|a|Kyarla
+Karala|CI||0|rq|-l1|a
+Karainler|TR||94|37q|2i4|a
+Karylske|UA||98|3z3|2jo|a|Karil'skoye;Karyl’s’ke;Koryl’skoye;Karyl’skoye
+Karniewo|PL||a5|42s|1mb|a
+Kārband|IR||7o|2wt|3rz|a
+Karlovice|CZ|Moravian-Silesian Region|9m|3v7|1ch|a
+Karin|AM||80|33t|3f5|a
+Karakuyu|TR|Mardin|94|2v8|34m|9|Karakaya
+Garakel|TM||5x|2yr|4ch|9|Kara-Kel’;Garkel
+Karwodrza|PL||a5|3up|1mj|9
+Karīm Kolā|IR||7o|2tw|42j|9|Karīm Kalā
+Karşıyaka|TR|Ağrı|94|32k|3aj|9
+Karayokuş|TR||94|2zq|2ef|9
+Karwia|PL||a5|48b|1el|9
+Hailuoto|FI||92|50l|1wn|9|Karlö;Hailuotas;Ailuoto
+Karamotiédougou|CI||0|o8|-la|9
+Karakuyu|TR|Adana|94|2uv|2pm|9
+Karaburun|TR|Adıyaman Province|94|2ww|2wf|9
+Karagöçer|TR||94|2tz|2pn|9
+Karatepe|TR|Antalya|94|2t4|2i1|9
+Karacaören|TR|Canakkale|94|33l|21h|9
+Kargalīn|IR||7o|2rm|3wt|9
+Karakeşli|TR||94|2tw|2mu|9
+Yeniköprü|TR||94|2zl|39u|9|Karmuç;Yenikköprü
+Karpivka|UA|Crimea|9t|3ig|2mo|9|Karpovka
+Karamık|TR||94|2yu|2dt|9
+Karby|SE|Stockholm|9w|4lg|1em|9
+Kareda|EE||9x|4js|1zp|8
+Karby|SE|Uppsala|9w|4n3|1cu|8
+Karniowice|PL||a5|3vb|1iy|8
+Karperí|GR||8p|369|1sq|8
+Miliá|GR||8p|35v|1pi|8|Milea;Kırlat;Karlát
+Karpivka|UA|Dnipropetrovsk|98|3of|2k0|8|Vol’naya Karpovka
+Karabedirler|TR||94|2yg|2ae|8
+Kardamás|GR||8p|2wx|1na|8|Kardhamás
+Gornji Karin|HR||a6|3em|17f|8|Karin;Donji Karin
+Karaul|RU||6u|5en|6f5|8|Karau;Karaui
+Qārnā|IR||7o|2ul|3hv|8|Karna
+Karnaliyivka|UA||98|3ke|2bf|8|Corneşti;Karnaliïvka
+Karterós|GR||8p|2q5|1y1|8
+Karenis|AM||80|347|3fx|8
+Karczmiska|PL||a5|3yb|1p2|8
+Karakuş|TR||94|33k|3bi|8
+Karwitz|DE||8r|43g|um|8
+Karatepe|TR|Şanlıurfa|94|2ui|300|8|Telesvet
+Karnut|AM||80|35a|3e4|8|Diraklar;Dirak;Tirekler
+Karkucak|TR||94|366|2qh|8
+Karakaya|TR||94|2xs|37x|8
+Karnice|PL||a5|463|15t|8
+Karaglukh|AM||80|32t|3hr|8|K’araglukh;Qaraglux;Qaraqulax
+Karahacılı|TR||94|2t6|2lz|8
+Karaoğlan|TR|Bursa Province|94|33e|279|8
+Kartitsch|AT||a2|3lt|yq|8
+Carnoët|FR||9k|3qd|-9s|8|Karnoed
+Karahamzalı|TR|Ankara|94|30y|2jr|8
+Carfizzi|IT||9o|317|1b5|7|Karfici
+Kargow|DE||8r|44n|zi|7
+Karaïskákis|GR||8p|2z6|1ml|7
+Karashamb|AM||80|349|3fu|7|K’arashamb;Qarashamb
+Karpaty|UA||98|3qr|2zy|7
+Karlstad|US||2f|3qy|-7g4|7
+Shyroka Balka|UA||98|3la|2cb|7|Karstal’;Șîroka Balka;Szyroka Bałka
+Karmiyya|IL||6n|2fs|2ny|7|Karmiya;Karmiyah
+Karavelove|UA||98|3ml|2h2|7
+Karaoğlan|TR|Ankara|94|32d|2j7|7
+Karancsberény|HU||8v|3pu|1iv|7
+Karlivka|UA|Kirovohrad|98|3qk|2h2|7|Krupske;Karlovka;Krupskoye
+Karātkatī|IR||7o|2td|40v|7|Karāt Kotī
+Kopuzlu|TR||94|2xf|35s|7|Karpuzlu
+Korakovoúni|GR||8p|2vr|1r7|7|Karakovoúnion;Karakovoúni
+Karpylivka|UA||98|3yr|1xj|7|Karpiluvka;Karpilovka
+Karlštejn|CZ||9m|3uq|13f|7|Karlstein
+Karrī|IR||7o|26y|3y2|7|Kari;Korrī
+Karasyn|UA|Volyn|98|3ys|1xh|7|Karasin
+Karsibór|PL||a5|45l|13s|7
+Karperó|GR||8p|32z|1o2|7
+Karlovice|CZ|Liberec Region|9m|3wg|169|7
+Karabudak|TR||94|2wh|33v|7
+Karaburcak|TR||94|2z4|36c|7
+Karamken|RU||6z|4n9|bnp|7
+Metamórfosi|GR|Epirus|8p|32j|1lm|7|Karyes Asfakas
+Kargılı|TR||94|2um|2pg|7
+Kargın|TR||94|31e|26b|7
+Karakašica|HR||a6|3dh|1a8|7
+Kardos|HU|Bekes County|8v|3m0|1lk|7
+Kardos|HU|Csongrád|8v|3kf|1la|7
+Karasu|TR|Ağrı|94|32b|3b8|7
+Karrösten|AT||a2|3n7|tx|7
+Karacaören|TR|Antalya|94|2ti|2bv|7
+Karabayır|TR|Denizli|94|2ul|290|7
+Karacalar|TR|Afyonkarahisar Province|94|30a|2es|7
+Karābād|IR||7o|2py|3ky|7|Garābād;Karrābād
+Kārīzak|IR||7o|2q0|4hr|7
+Gardíki|GR||8p|31c|1l4|7|Kardhiqi;Gardhíki
+Karasu|TR|Iğdır|94|32r|3fp|7
+Karotí|GR||8p|371|21f|7
+Karayusuflu|TR||94|2uf|2pw|7|Karayusuf
+Karaíika|GR||8p|2xv|1nq|7|Karéïka
+Karanac|HR||a6|3j4|1fw|7
+Mavrólofos|GR||8p|35n|1ub|7|Kara Toprak
+Karstädt|DE|Mecklenburg-Vorpommern|8r|441|vx|7
+Karafiné|CI||0|oz|-fv|7
+Karşıyaka|TR|Bitlis|94|2zt|3bc|7|Horans
+Karadirlik|TR||94|2ut|2oq|6
+Karapınar|TR|Afyonkarahisar Province|94|2zi|2fb|6
+Karratha Industrial Estate|AU||8k|-1lp|90n|6
+Karagüveç|TR||94|2wh|2ww|6
+Karamazak|TR||94|37g|2hi|6
+Karayar|RU||7z|4aq|4ee|6|Karajar
+Karavómilos|GR||8p|301|1r3|6|Karavomylos
+Karasyn|UA|Volyn|98|3yx|1yu|6|Karasin
+Karadede|TR||94|2v5|2v8|6
+Karakuyu|TR|Adana|94|2x6|2sk|6
+Karşıyaka|TR|Ağrı|94|32m|39i|6
+Karababa|TR||94|2wm|33s|6
+Karpovo-Nadezhdynka|UA||98|3ov|2z6|6|Karpovo-Nadezhdinka
+Karago|CI||0|dz|-hn|6
+Karaismailler|TR||94|2v6|28x|6
+Karyés|GR||8p|2yn|20i|6|Karies
+Karayakup|TR||94|2u6|2nh|6|Kışla
+Karabağ|TR|Kars Province|94|33r|3bw|6
+Karlstein|AT||a2|3rs|16s|6
+Karres|AT||a2|3n6|ty|6
+Karakoç|TR||94|379|2ha|6
+Kärna|SE||9w|4gp|wq|6
+Karátoula|GR||8p|2wu|1nu|6
+Garayazi|AZ||61|36r|3ho|6|Qarayazı;Karayazy
+Kārvān|IR||7o|22m|4bk|6|Kāravān;Kārevān
+Karczów|PL||a5|3wu|1de|6
+Karianí|GR||8p|357|1um|6
+Karaçubuk|TR||94|30w|34e|6
+Karacaali|TR||94|34g|28r|6
+Karyá|GR||8p|2zo|1ld|6|Kariá
+Karpuninskiy|RU||7z|4j4|4ro|6|Karpuninskij
+Myrne|UA|Donetsk|98|3pb|2tz|6|Markfel’d;Karla Marksa;Mîrne;Karlo-Marksa
+Karabayır|TR|Mardin|94|2wc|386|6
+Karnburg|AT||a2|3lp|13s|6
+Karabağ|TR|Kars Province|94|33s|3d5|6
+Kardiakáfti|GR||8p|2x8|1n0|6|Kardhiakávti
+Karabük|TR|Antalya|94|2v7|2el|6
+Kariótika Karyás|GR||8p|2xq|1qx|6
+Karloo|AU||8k|-27z|8ug|6
+Karatmanovo|MK||9u|380|1or|6
+Kardeşler|TR||94|304|34y|6
+Karmalyukivka|UA||98|3p7|29r|6|Karmalioukivka;Karmalyukovka
+Karangi|AU||8l|-2c3|bt5|6
+Karadere|TR||94|31k|239|6
+Karmrashen|AM||80|34b|3e3|6
+Karanlıkdere|TR||94|2xk|2nn|6
+Karakent|TR||94|31m|3e8|6|Karaköy;Qerekend;Karakend
+Karasu|TR|Bartın|94|37q|2hk|6
+Karahan|TR|Kars Province|94|35a|3d1|6
+Karadiken|TR||94|2tg|2l0|6
+Karacahayıt|TR||94|2wg|24c|6
+Karaköy|TR|Samsun|94|36a|2pj|6
+Karby|DE||8r|47q|rp|6
+Karadinek|TR||94|2vd|2vz|6
+Karapınar|TR|Aydın|94|2x7|275|6
+Karlık|TR||94|2vc|2qn|6
+Karnerviertel|AT||a2|3nv|185|6
+Kartī|IR||7o|1yq|4k5|6|Kerti
+Karahüseyinli|TR||94|37b|2hn|6
+Karīmābād|IR|Alborz Province|7o|2rl|3wl|6
+Kařez|CZ||9m|3ue|12a|6|Kařes
+Karbach|DE|Rheinland-Pfalz|8r|3vb|l6|5
+Karabucak|TR||94|2uw|2ey|5
+Karaköy|TR|Bilecik|94|332|2bc|5|Keraköy
+Karahamzalı|TR|Ankara|94|31k|2h8|5
+Karow|DE|Saxony-Anhalt|8r|41f|y2|5
+Karşıyaka|TR|Ağrı|94|32q|39w|5
+Kariótai|GR||8p|2zs|1lj|5|Kariotes
+Karaköprü|TR||94|34n|2re|5
+Karamani|MK||9u|362|1nf|5
+Karadayı|TR||94|343|2lv|5
+Karkom|IL||6n|2jh|2qx|5
+Karksi|EE||9x|4hg|1z3|5
+Karaçalı|TR|Düzce|94|35c|2el|5
+Karinj|AM||80|35t|3g5|5|Qarinj;Karnjuk
+Karakazan|TR||94|31h|3bb|5
+Karfūn|IR||7o|2u0|42p|5|Karfūl
+Karahallı|TR|Aydın|94|2xs|26u|5
+Karasungur|TR|Siirt|94|2x8|39m|5
+Karaköy|TR|Batman|94|2wo|371|5
+Karoonda|AU||8b|-2ph|asl|5
+Karavóstamo|GR||8p|2wj|20u|5
+Kavşıt|TR||94|2wm|264|5|Karşit
+Kårsta|SE||9w|4lq|1er|5
+Qarabaldır|AZ||61|35u|3ns|5|Karabaldyr

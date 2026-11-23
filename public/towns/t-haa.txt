@@ -1,0 +1,58 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+The Hague|NL||8m|40o|by|3nr|Den Haag;La Haye;La Haya;Hago;Haag;La Haia;De Haach;An Háig;A Haia;L'Aia;Haga;D'n Haog;Hag;Lahey;Hague
+Haarlem|NL||8m|41i|cw|195|Haarlim;Harlemum;Harlemas;Hārlema
+Haabersti|EE||9x|4l2|1wh|ea
+Haan|DE||8r|3y7|jh|86
+Haaga|FI||92|4na|1x6|7q|Haga;Haagis
+Haaksbergen|NL||8m|40w|iq|6p
+Haar|DE||8r|3pn|wl|4w
+Haaltert|BE||8t|3xf|b4|4r|Haeltert
+Hawick|GB||9b|49y|-7r|3r|Hamhaig;Haaick
+Haapsalu|EE||9x|4jq|1te|2o|Hapsal;Hāpsalu;Hapsalia;Haap;Haapsula;Gaapsalu;Khaapsalyu;Gapsal’;Khapsalu
+Haarlemmerbuurt|NL||8m|41i|dl|2j
+Haabneeme|EE||9x|4lb|1wy|21
+Haparanda|SE||9w|52w|1v2|1v|Haaparanta
+Haapajärvi|FI||92|4x3|1yd|1t|Aspsjö
+Haapavesi|FI||92|4y5|1yh|1r
+Haag in Oberbayern|DE||8r|3ps|xu|1q
+Haag|AT|Upper Austria|a2|3q3|13n|1h
+Maarheeze|NL||8m|3yj|fm|1b|Mâres;Haarheeze;Maarheze
+Haastrecht|NL||8m|40g|da|19
+Haasdonk|BE||8t|3y6|bs|17|Haesdonck
+Haapiti|PF||bg|-1cs|-bkb|14
+Haaren|NL||8m|3zc|ei|12
+Rothsville|US||48|33j|-5vt|u|Haasebarig
+Haasrode|BE||8t|3x7|d5|u|Haesrode
+Hårlev|DK|Zealand|8y|49r|xz|u|Haarlev
+Haag an der Amper|DE||8r|3qm|wv|t
+Haarlem|ZA||o|-2lp|1su|s
+Haag|AT|Lower Austria|a2|3pn|14h|s
+Ha'ateiho|TO||bi|-1mu|-dir|q
+Haarbach|DE||8r|3qq|10j|q|Hoaba
+Hattstedt|DE||8r|47h|p2|o|Hatsted;Haatst
+Haarby|DK||8y|49e|s4|o|Hårby
+Haarlemmerbuurt-West|NL||8m|41i|dl|o
+Haaften|NL||8m|3zy|eh|o
+Haarsteeg|NL||8m|3zn|eg|l
+Haanrade|NL||8m|3xc|gv|k
+Haamstede|NL||8m|3zm|ae|j|Aemstie
+Haalderen|NL||8m|405|gh|j
+Afrikanda|RU||9i|57c|2j2|i|Haapalahti;Africanda
+Haacht|BE||8t|3xm|cw|i|Haecht
+Leninskoye|RU|Leningradskaya Oblast'|9i|4na|2ax|g|Leninskoje;Haapala
+Haarlemmerbuurt-Oost|NL||8m|41i|dl|f
+Haarla|FI||92|4nr|1pq|d|Harlax
+Haali Kolie Nzikro|CI||0|jj|-c7|c
+Haag (Rheintal)|CH||a7|3n5|qd|c
+Haag am Hausruck|AT||a2|3pu|11w|b
+Haarle|NL||8m|41g|hq|a
+Haag|AT|Lower Austria|a2|3pv|186|a
+Haag|DE||8r|3vq|xk|a
+Ha'asini|TO||bi|-1n1|-dif|9
+Häädemeeste|EE||9x|4hc|1w2|9|Gudmannsbach;Haedemeeste;Gutmannsbach
+Ha'akame|TO||bi|-1mu|-diw|8
+Ha'alalo|TO||bi|-1mu|-diw|8
+Hassel|LU||9c|3tn|h9|7|Haassel
+Haapu|PF||bg|-1an|-bnh|6|Apu
+Halalo|WF||bk|-113|-dlh|6|Ha'alalo
+Haale|DE||8r|46h|qj|5

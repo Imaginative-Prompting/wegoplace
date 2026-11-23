@@ -1,0 +1,11 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Broken Hill|AU||8d|-2gt|awx|4v|Broken Hilas;Brokenhila;Cnoc Briste
+Knocklyon|IE||8z|440|-hl|42|Cnoc Lín
+Westhill|GB|Scotland|9b|4fn|-bj|1i|Cnoc Shuas
+Dollymount|IE||8z|448|-h6|1f|Cnocán Doirinne
+Cnra|CI||0|g1|-ej|10
+Watergrasshill|IE||8z|40h|-n6|d|Cnocán na Biolraí
+Knock|IE||8z|45f|-os|a|An Cnoc;Cnoc Mhuire
+Summerhill|IE||8z|44k|-iq|8|Cnoc an Línsigh
+Knocknalower|IE||8z|46o|-ra|6|Cnoc na Lobhar
+Knockaderry|IE||8z|41r|-ox|5|Cnoc an Doire

@@ -1,0 +1,4 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guadalajara|MX||41|1lg|-7z3|aow|Gvadalaharo;Gvadalachara;Ātemaxac;Guadalaxara;Gvadalahara;Qvadalaxara
+Kvareli|GE||7n|38j|3ja|2u|Qvareli;Q’vareli;Kvarely
+Qvutsat Yavne|IL||6n|2ge|2og|a|Qevuẕat Yavne;Qevutsat Yavne;Kevutsat Yavne;Kvutzat Yavne

@@ -1,0 +1,127 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Gboko|NG||u|kc|p0|2te
+Gbongan|NG||u|ks|c3|12r
+Gbawe|GH||1|fi|-v|o3
+Gbarnga|LR||15|jg|-qb|nw|Gbarnka;Gbanga
+Gbadolite|CD||t|bw|1mc|ki|Badolite
+Gbapleu|CI||0|i0|-jx|80|Bapleu
+Gbabam|CI||0|f7|-fj|4x
+Gbolouville|CI||0|g3|-cy|4j
+Gbliglo|CI||0|h2|-jj|3r
+Gbon|CI||0|rb|-hx|3h
+Gbétogo|CI||0|ml|-ja|3a|Gouétogo
+Gblétia|CI||0|fn|-if|33
+Gbabo|CI||0|js|-is|2w
+Gbeya|CI||0|sn|-ja|28
+Gbéhigbly|CI||0|k6|-jm|21
+Gbalébouo|CI||0|fy|-hn|20
+Badikaha|CI||0|pj|-ec|1s|Gbadi-Kaha;Bad-Kaha
+Gbimanan|CI||0|mv|-iw|1j
+Gbeugréhoa|CI||0|h9|-hm|1i
+Gbily|CI||0|hb|-jd|1g
+Gbonkaha|CI|Denguélé District|0|pc|-j6|1f|Gbongaa;Gbongaha
+Gbely|SK||8s|3rc|1bk|1d
+Gbangbossou|CI||0|ky|-de|17|Bangbossou
+Gbonné|CI||0|kx|-kl|17|Gboné
+Gboguhé|CI||0|is|-ia|17
+Gbablasso|CI||0|lk|-ld|16|Gbablaso;Gblablasso
+Gbewebu|SL||l|kz|-w9|15
+Gbombélo I|CI||0|l3|-l9|15|Gbombélo Un;Gbombélo
+Gbazoa|CI||0|hb|-if|15
+Gbrakro|CI||0|li|-b8|14
+Gbinzo|CI||0|se|-f8|12
+Gbominaso|CI||0|ot|-hq|12|Gominasso
+Gbaléville|CI||0|h2|-hx|x
+Gbatina|CI||0|gd|-j3|x
+Gberia Fotombu|SL||l|rg|-v1|u
+Gbanleu|CI||0|l5|-me|u|Banleu
+Gbéléban|CI||0|qm|-ml|u|Gueleba;Gbéléba;Géléban
+Gbédjénou|CI||0|fh|-dm|u
+Gbondougou|CI||0|nz|-g9|u|Gondougou
+Gbonou|CI||0|jv|-c8|s
+Gbougbo|CI||0|eq|-c6|s
+Gbisso|CI||0|hc|-i6|r
+Gbatosso|CI||0|ox|-hg|r|Gbatoso;Gbatasso
+Gbangbégouiné|CI|Montagnes|0|kd|-lb|q
+Gbaléyo|CI||0|g0|-i7|p
+Gblépleu|CI||0|jt|-m4|p
+Gbanhan Yaokro|CI||0|kw|-ct|o
+Gbéssé|CI||0|g8|-bx|o|Béssé
+Gbogbo|CI||0|ez|-hz|m
+Gbodonon|CI||0|qm|-fq|l|Bodonon
+Gbambalanyougokaha|CI||0|qp|-f5|l
+Gban Houyé|CI||0|kd|-n8|k|Ganhouyé
+Gbelce|SK||8s|3ox|1ff|k
+Gbélibli|CI||0|j5|-jj|k
+Gbanvyélou|CI||0|m9|-h4|k
+Gbédéguéla|CI||0|ni|-ih|k
+Gbalekro|CI||0|gj|-bw|j
+Gbalo|CI|Savanes District|0|rc|-hi|j
+Gblaleu|CI||0|jl|-mq|i|Blaleu;Gbaleu
+Gbigbikou|CI||0|hr|-gk|i
+Gbouagleu|CI||0|jh|-my|i|Gboaleu
+Gbémazo|CI||0|nn|-ja|i|Gbémanzo
+Gbadjié|CI||0|gt|-gf|h
+Gbambélédougou|CI||0|mg|-ce|h|Banbélédougou;Bembélédougou;Bambélédougou
+Gbelany|SK||8s|3sp|1gc|g
+Gbaléguhé|CI||0|hc|-i3|f|Baléguyé
+Gbatongouen|CI||0|kw|-l6|e
+Gbaleu|CI||0|jz|-my|e
+Gbokora|CI||0|j7|-hx|e
+Gbèlo|CI|Woroba|0|m0|-je|e
+Gbihana|CI||0|lq|-hz|e
+Gbapolkaha|CI||0|po|-fr|e|Bapolkaha
+Gbérékoro-Noumousso|CI||0|mz|-by|d
+Gbonniellé|CI||0|pc|-i4|d|Gbonnielé
+Gbézio|CI||0|kk|-kd|d
+Gboly|CI||0|mq|-d8|d
+Gbadrou|CI||0|kg|-kr|d
+Gbamga|CI||0|qj|-dq|d
+Gbétontigouiné|CI||0|k1|-l2|d
+Gbangbégouiné|CI|Montagnes|0|lb|-kr|c|Gbangouégouiné
+Gbango|CI||0|md|-9u|c
+Gbarou|CI||0|eu|-k9|c
+Gbon Houyé|CI||0|km|-n6|c
+Gbéta|CI||0|km|-na|c
+Gbétitapéa|CI||0|iv|-hx|c
+Gblonlé|CI||0|js|-l2|c
+Gbata|CI||0|ja|-mw|c
+Gbalagoua|CI||0|it|-hx|b|Balagoua
+Gbanhan Ngatakro|CI||0|kl|-d2|b
+Gboménéda|CI||0|hk|-fq|b
+Gbouiso|CI||0|p8|-l3|a|Gbouisso;Gbouissou
+Gbalo|CI|Woroba|0|ma|-hu|a|Gbwalo
+Gbobléko|CI||0|ek|-ew|a
+Babroukro|CI||0|m0|-f6|a|Gbakroukro
+Gbéné|CI||0|kw|-lg|a
+Gbampleu|CI||0|in|-nb|a
+Gbonou-Carrefour|CI||0|jw|-c8|a
+Gbéibly|CI||0|kb|-k2|a
+Gbatéagbeupleu|CI||0|jc|-mr|a
+Gbahiro|CI||0|de|-l0|a
+Gbagompleu|CI||0|li|-m3|a
+Gbamakro|CI||0|lw|-cq|a
+Gbéapieu|CI||0|jh|-mj|9|Gbéapleu
+Gbéléto|CI||0|ep|-kh|9
+Gbambiasso|CI||0|r5|-hp|9
+Gbonleu|CI||0|jr|-mb|9|Bonleu
+Gbétondié|CI||0|lp|-k9|9
+Gbantopleu|CI||0|kr|-nc|9
+Gblan Koffikro|CI||0|k2|-cd|8
+Gbaga|CI||0|r0|-kz|8
+Gbohirou|CI||0|kh|-ki|8
+Gbélo|CI|Woroba|0|mn|-lk|8
+Gbangaoukan|CI||0|lf|-es|7|Bangaoukan
+Gbontépleu|CI||0|jd|-mv|7|Gbontegleu;Gbantépleu
+Gbéléla|CI||0|qu|-lf|7
+Gboton|CI||0|q7|-cr|6
+Gbandé|CI||0|md|-8q|6
+Gbadougou|CI||0|n4|-c2|6
+Gbénimanso|CI||0|ms|-l5|6|Guénimanzo
+Gbangaoupri|CI||0|li|-ep|6|Bangaoupri
+Gbagrélilié|CI||0|gc|-g3|6
+Gbogbobo|CI||0|hq|-em|6
+Gbonkaha|CI|Savanes District|0|qi|-fo|6
+Gbini|CI||0|sd|-hf|5
+Gbadjoudouo|CI||0|pk|-7u|5
+Gbaloho|CI||0|qd|-fu|5

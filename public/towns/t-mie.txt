@@ -1,0 +1,99 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Mianyang|CN|Sichuan|7i|2ff|82s|byk|Mien-jang;Miên Dương;Mièng-iòng;Biân-iông-chhī;Myan’yan;Mien-yang
+Mezhdurechensk|RU|Kuzbass|74|455|6sm|s2|Mezjduretsjensk;Meschduretschensk;Mejdouretchensk;Meždurečensk;Mezjdoeretsjensk;Mejdurétxensk;Meĵdureĉensk;Mežduretšensk;Meždurečenskas;Meždurečenska;Mezjduretsjensk i Kemerovo oblast;Mieżdurieczensk;Mejdurechensk;Mezjduretjensk
+Silvan|TR||94|2xy|35x|ic|Sıliwan;Farqîn;Martyropolis;Miepherkeim
+Meleuz|RU||7z|434|4bd|i6|Meleus;Meleouz;Mieleuz
+Mielec|PL||a5|3vp|1ni|gj|Meleca;Melecas
+Megion|RU||7z|4pj|5vf|dj|Miegion;Meguion;Meqion;Mjegion
+Mieres|ES||9d|3c5|-g1|c9
+Miercurea-Ciuc|RO||8u|3kr|1zo|9l|Miercurea Ciuc;Csíkszereda;Mercurea Ciuc
+Mie|JP||7q|2jl|a5i|9d
+Minskyi Masyv|UA||98|3wc|2cm|96|Minskyy masyv;Mienski masyŭ;Minski masiŭ
+Mednogorsk|RU||7z|3yt|4fz|8j|Mednoqorsk;Mjednogorsk;Miednogorsk
+Mława|PL||a5|43j|1km|86|Mielau;Mlava
+Mī’ēso|ET||2|pn|358|7p|Miesso
+Międzyrzecz|PL||a5|41o|17a|57|Mendzižeča;Mendzyžečas
+Międzyrzec Podlaski|PL||a5|40f|1ra|4s|Mendzıjets-Podlyaski;Mesericum;Palenkės Mendzižecas;Meņdzižeca Podlaska;Polėnkės Miendzīžiečos
+Menzelinsk|RU||9i|4at|43i|4p|Menselinsk;Minzele;Mienzielinsk
+Melenki|RU||9i|49q|37n|4f|Mjelenki;Melenkad;Mielenki
+Miechów|PL|Lesser Poland|a5|3vw|1jn|39|Mehova
+Miesbach|DE||8r|3or|wv|36|Miaschboch
+Międzychód|PL||a5|424|186|32|Birnbaum;Mendzihoda
+Pamukkale|TR||94|2xc|28w|2s|Hierápolis;Hieràpolis de Frígia;Hieropolis;Pamukalė;Mièn-fâ-páu
+Mierlo|NL||8m|3yw|fm|2m
+Mierzyn|PL||a5|44f|147|2d
+Stříbro|CZ||9m|3u8|104|25|Mies
+Mitterteich|DE||8r|3ur|y0|21|Miederdeich
+Messancy|BE||8t|3tr|g6|1z|Miezeg;Messanceye
+Miercurea Nirajului|RO||8u|3l9|1ww|1l|Mercurea Nirajului;Miereurea Nirajului
+Müden|DE|Lower Saxony|8r|41x|ss|1k|Mie'en;Mutha
+Międzyzdroje|PL||a5|45t|145|1j|Misdroy;Meņdzizdroje;Mizëzdroje;Mysdroje
+Mier|MX||44|21f|-7nf|1c
+Mieroszów|PL||a5|3wr|18z|19|Merošova
+Meshchovsk|RU||9i|46w|2q0|18|Mesjtsjovsk;Meschtschowsk;Mechtchovsk;Meščovsk;Meštšovsk;Mješćowsk;Mieszczowsk;Meshovsk
+Mietingen|DE||8r|3pu|ri|14
+Miercurea Sibiului|RO||8u|3jg|1u4|14|Mercurea-Sibiului
+Mera|RO|Vrancea|8u|3j5|22v|13|Miera
+Miengo|ES||9d|3cn|-b4|13
+Melnytsya-Podilska|UA||98|3r1|20p|11|Mielnica Podolska;Melnîțea-Podilska;Melnytsia-Podilska
+Mieszkowice|PL||a5|42n|149|10|Meškovice;Berwôłd
+Mersch|LU||9c|3u7|gz|z|Miersch;Gemeng Miersch;Meršas;Mersh;Merş
+Mi‘ilyā|IL||6n|2jr|2py|x|Mi’elya
+Miejska Górka|PL||a5|3zi|1b4|w|Mejska Gurka
+Międzybrodzie Bialskie|PL||a5|3ub|1hc|w
+Międzylesie|PL|Lower Silesia|a5|3vb|1ab|s|Mittelwalde;Mendzilese;Mezilesí
+Mierzęcice|PL||a5|3w5|1h5|r
+Miedzno|PL||a5|3xl|1gq|p
+Mieścisko|PL||a5|42i|1c5|p
+Miękinia|PL|Lower Silesia|a5|3y7|1ai|p
+Międzybórz|PL||a5|3ys|1d3|o|Mendziboža
+Mieste|DE||8r|41s|v5|n
+Miedziana Góra|PL||a5|3xi|1l3|n
+Międzyrzecze Górne|PL||a5|3ug|1gm|n
+Velyki Mezhyrichi|UA||98|3wp|22n|m|Międzyrzecz;Międzyrzec Korecki;Velyki Mezjyritsji;Welyki Meschyritschi;Veliki Mejirichi;Mezhirichi;Velyki Mejyrytchy;Velyki Mežyriči;Velîki Mejîrici;Mezritch;Mejiriçi;Mezherichi;Menzhirichi
+Mielno|PL|West Pomerania|a5|46q|18m|m
+Miehlen|DE||8r|3vj|lr|l
+Miejsce Piastowe|PL||a5|3tv|1oj|k
+Miętne|PL||a5|408|1nx|k
+Międzylesie|PL|Lubusz|a5|40u|16q|k
+Miechów Charsznica|PL||a5|3w0|1jf|j|Miechów-Charsznica
+Mieussy|FR||9k|3k5|i4|j
+Mieders|AT||a2|3n1|vm|j
+Muttersholtz|FR||9k|3q3|ky|i|Müttersholz;Mieterschulz;Mutherholz
+Mietoinen|FI||92|4of|1ox|i
+Miehikkälä|FI||92|4oj|24y|h|Michikkala
+Miedźna|PL|Silesia|a5|3uu|1gx|g
+Homokmégy|HU||8v|3l5|1gz|f|Mieđa
+Mieszka I|PL||a5|3uf|1gv|e
+Mielkendorf|DE||8r|46s|rw|e
+Miedzna|PL|Mazovia|a5|41r|1pd|e
+Miélan|FR||9k|3cn|v|e|Polastron
+Medzhybizh|UA||98|3tc|245|d|Medjybij;Międzybóż
+Méaulte|FR||9k|3uu|7e|d|Mieute
+Miękinia|PL|Lesser Poland|a5|3vc|1ih|c|Miękina
+Mier y Noriega|MX||44|1t2|-7q4|c
+Mieleras|MX||44|1yk|-7yv|b|Mielera
+Międzyrzecze Dolne|PL||a5|3uh|1gn|b
+Mielen-boven-Aalst|BE||8t|3x0|eh|a
+Międzywodzie|PL||a5|460|14u|a|Międzywodzy
+Miedzyświec|PL||a5|3ua|1g4|a
+Mielnik|PL||a5|41d|1s0|a
+Miège|CH||a7|3kn|kz|9
+Mieleszyn|PL|Greater Poland|a5|42b|1cm|9
+Mierlău|RO||8u|3mc|1p6|9
+Myezhava|BY||9g|47r|2c7|9|Mezhëvo;Miežava
+Mieleszyn|PL|Łódź Voivodeship|a5|3yc|1ek|8
+Miedniewice|PL|Łódź Voivodeship|a5|40c|1k4|8
+Miesterhorst|DE||8r|41q|uy|8
+Międzyrzecze|PL||a5|3uy|1gz|8
+Miécret|BE||8t|3vx|el|7
+Mierleștii de Sus|RO||8u|3fd|1w8|7
+Miesenbach|AT||a2|3ow|18e|7
+Mierczyce|PL||a5|3xx|19b|7
+Miechów|PL|Greater Poland|a5|3ye|1de|7
+Mieuxcé|FR||9k|3qg|1|6
+Mietesheim|FR||9k|3rs|l8|6
+Mielno|PL|Warmia-Masuria|a5|44n|1k3|5
+Miechowice Wielkie|PL||a5|3vf|1lm|5
+Miechowice Małe|PL||a5|3vd|1lp|5
+Miedniewice|PL|Mazovia|a5|40o|1ke|5

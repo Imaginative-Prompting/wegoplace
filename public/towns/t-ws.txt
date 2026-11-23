@@ -1,0 +1,6 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+East Jerusalem|PS||6g|2ga|2pv|3az|Øst-Jerusalem;Aust-Jerusalem;Ostjerusalem;Östra Jerusalem;Jérusalem-Est;Jerusalén Este;Gerusalemme Est;Oost-Jeruzalem;Istočni Jerusalem;Jerusalem Est;Východní Jeruzalém;Urşelimê Rocvetışi;Orienta Jerusalemo;Ida-Jeruusalemm;Ekialdeko Jerusalem;Istočni Jeruzalem;Yerusalem Timur;Yerusalem Wétan;Yerushalayim Oryentala;Baitulmuqaddis Timur;Yerusalemu ya Mashariki;Doğu Kudüs;Đông Jerusalem;Wschodnia Jerozolima;Jerusalém Oriental;Vzhodni Jeruzalem;Jerusalem East
+Vsevolozhsk|RU||9i|4mq|2d7|de|Vsevolozjsk;Seuloskoi;Wsewoloschsk;Vsevolojsk;Vsevoložsk;Wsiewołożsk;Wsewoložsk;Vsevoložska
+Vsetín|CZ||9m|3t2|1e0|6y|Vsetynas;Wsetin
+Wschowa|PL||a5|3zx|19c|41|Fraustadt;Vshova;Fräwstadt;Zchowa
+Všemina|CZ||9m|3sw|1do|b|Wschemin;Wschemina

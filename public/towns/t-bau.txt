@@ -1,0 +1,84 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Baotou|CN||7i|34x|8h4|lb5|Bao Đầu;Pao-tchou;Baŭtoŭo;Bău-tàu;Pâu-thèu-sṳ;Paotou;Pau-thâu-chhī;Pao-t’ou;Pao-tow
+Bauchi|NG||u|sn|rc|5cp|Bauczi;Baučis
+Bhavnagar|IN||6t|1og|5kf|4ob|Baunagar;Bhaunagar;Bharnagar;Bhunagar
+Bauru|BR||4w|-1pz|-3sa|315|Yvauru
+Bochum|DE||8r|3z0|k2|2z5|Bohuma;Baukem;Bōkhêm
+Bawshar|OM||72|1ti|4i8|2yh|Baushar
+Baubau|ID||70|-f6|9gk|18t|Bau-Bau
+Bolzano|IT||9o|3l5|vi|tu|Bozen;Bozn;Boceno;Bolzan;Bauzanum;Bocenas;Bolcāno;Bulsaun;Bolzanu;Buzzanu
+Baudhuinville|CD||y|-jo|2am|mk|Moba;Virungu;Baudouinville
+Bauang|PH||71|19x|9a9|ll
+Bau|MY||6w|3y|8hz|em
+Bauta|CU||36|1ru|-6db|cq
+Bautzen|DE||8r|3y6|143|bo|Budziszyn;Budyšín;Budissa;Budišin;Budyšyn;Baucene
+Baulkham Hills|AU||8l|-2ls|bnf|a8
+Bauan|PH|Calabarzon|71|12b|9c5|9c
+Dois Irmãos|BR||4w|-2a6|-3xx|8j|Baumschneitz;Baumschneiss
+Baunatal|DE||8r|3yd|q5|7r
+Bacoli|IT||9o|35c|133|74|Bauli
+Bavly|RU||9i|474|43x|6e|Baulı
+Baud|IN||6t|1lw|6i9|5o
+Baumschulenweg|DE||8r|41r|11h|59
+La Baule-Escoublac|FR||9k|3nd|-6k|4y|Ar Baol-Skoubleg;Baule-Escoublac;La Baule;Sublacum
+Baukau|TL||6b|-nk|9ra|4g|Baucau;Bacau
+Bauska|LV||9n|4cp|1v7|2p|Bauskė
+Baua Kalan|IN||6t|1u5|6nw|2n
+Bauan|PH|Cagayan Valley|71|1d8|9e0|2a
+Boutersem|BE||8t|3x8|df|25|Bautersem
+Bau|PH||71|kl|9m9|1v|Bao
+Baudour|BE||8t|3w8|an|1p
+Baume-les-Dames|FR||9k|3nj|ho|1m
+Bauvin|FR||9k|3wc|81|1i
+Baud|FR||9k|3p0|-8e|1g|Baod
+Babushkin|RU|Buryatiya Republic|6k|3zn|862|1a|Mysovaya;Mysovsk;Babouchkine;Babuşkin;Bàbuixkin;Babuschkin;Bauskin;Babuškinas;Babuškina;Baboesjkin;Babusjkin;Babuszkin;Mösovsk
+Baumholder|DE||8r|3tu|kd|15
+Baunach|DE||8r|3uv|u5|14
+Baugé-en-Anjou|FR||9k|3o2|-b|y
+Bautino|KZ||5v|3fq|3vl|w
+Budišov nad Budišovkou|CZ||9m|3uc|1cz|w|Bautsch
+Bautista|PH|Ilocos|71|17u|9aq|v
+Baud|PH||71|v5|9jm|v|Balud;Baod
+Băuţar|RO||8u|3ig|1qp|r
+Bautista|PH|Calabarzon|71|12v|9cw|p
+Baugo|PH||71|so|9k8|n
+Baunu-Timbangan|PH||71|gp|9c3|m|Bounu Timbagan
+Beautiran|FR||9k|3g6|-19|m|Bautiran
+Beaumes-de-Venise|FR||9k|3ek|dz|m|Baumas;Baumas de Venisa
+Beauzac|FR||9k|3hq|be|m|Bauzac
+Bowmansville|US|Pennsylvania|48|33o|-5v6|l|Baumanschteddel
+Baunei|IT||9o|337|qu|k
+Baucina|IT||9o|2xd|11m|j
+Baldissero Torinese|IT||9o|3h7|lp|j|Baudsé
+Baunza Manlékro|CI||0|kj|-cv|j
+Baule|FR||9k|3ot|4n|i
+Baunda|CI|Vallée du Bandama District|0|l6|-d6|i|Bounda
+Baulon|FR||9k|3pb|-5d|f|Beloen
+Baulne|FR||9k|3qp|6k|f
+Bauné|FR||9k|3ny|-w|e
+Bausendorf|DE||8r|3uy|jg|d
+Baunda|CI|Lacs District|0|k6|-cx|d|Bounda
+Bauhiéleu|CI||0|jh|-mi|d
+Baumkirchen|AT||a2|3ne|w5|d
+Baudenbach|DE||8r|3tv|ta|c
+Bautista Chico|MX||41|1ao|-75j|c
+Baugy|FR||9k|3ms|7l|b
+Badalucco|IT||9o|3e0|lt|b|Bäuco
+Baudette|US||2f|3rb|-7as|b
+Bauma|CH||a7|3nl|oo|a
+Baulmes|CH||a7|3lz|i4|9
+Baumgarten am Tullnerfeld|AT||a2|3q4|18j|9
+Baumgarten im Burgenland|AT||a2|3om|19u|9|Sopronkertes;Pajngrt
+Baudrières|FR||9k|3ln|dx|8
+Baurech|FR||9k|3g9|-18|8|Beaurech
+Baura|IT||9o|3gl|wk|7
+Baudemont|FR||9k|3kl|bx|7
+Bautista Grande|MX||41|1ao|-75l|7
+Bauladu|IT||9o|336|o3|7
+Baudreix|FR||9k|3c0|-q|6|Baudreish;Beaudreix
+Bauple|AU||8c|-1zp|bry|6
+Baugnies|BE||8t|3wg|9v|6
+Baumgartenberg|AT||a2|3px|14y|6
+Baustert|DE||8r|3uu|hr|5
+Baudoncourt|FR||9k|3oq|hn|5
+Baudres|FR||9k|3mq|4e|5

@@ -1,0 +1,44 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Helsinki|FI||92|4n5|1xa|531|Khel'sinki;Helsingfors;Helsinko;Helsinky;Helsingi;Heilsincí;Helsinqui;Helsingia;Helsínquia;Helsset;Xélsinki;Èlzinki;Hel'sinki;Helsėnkis;Elsinki;Stadi
+El Zulia|CO||27|m1|-5lo|78
+Elze|DE|Lower Saxony|8r|40s|r2|2o
+Elz|DE||8r|3w2|mb|28
+Elzach|DE||8r|3pt|mf|1z|Elsax
+Ellezelles|BE||8t|3wy|a8|1k|Elzîle;Elzele
+El Zapote|MX|Jalisco|41|1mn|-7xl|18|Zapote
+Elze|DE|Lower Saxony|8r|422|r1|t
+El Zapotal del Norte|HN||56|174|-6sl|p|Zapotal del Norte
+El Zamorano|MX||41|1lt|-7q4|j|Zamorano
+El Zapote Bravo|MX||41|1le|-7k8|f
+El Zapotal|MX|Chiapas|41|1aj|-720|e|Zapotal
+El Zapotillo|MX|Chiapas|41|1as|-767|b|Zapotillo
+El Zapote|MX|Guanajuato|41|1od|-7sp|b
+El Zarzal|MX||41|1b9|-7c0|a|Zarzal
+El Zapote|MX|Tabasco|41|1ef|-768|a
+El Zapotalito|MX||41|18e|-7iz|a
+El Zapote|MX|Veracruz|41|1gs|-7en|a
+El Zapotillo|MX|Jalisco|41|1ij|-824|a|Zapotillo
+El Zapote|HN||56|15q|-6s1|a|Zapote
+El Zapote|MX|San Luis Potosí|41|1pp|-7sc|9
+El Zapote|MX|Veracruz|41|1g2|-7ek|9|El Zaponte
+El Zapote|MX|Guerrero|41|1b9|-7qb|8|Zapote
+El Zapote|MX|Veracruz|41|1go|-7hu|8
+El Zopilote|MX||3x|1zj|-8cz|8
+El Zarco|MX|Guerrero|41|1cy|-7tp|8
+Elsen|NL||8m|417|i6|8|Elzen
+El Zapote|MX|Guerrero|41|1as|-7n9|8
+El Zapotal|MX|Veracruz|41|1no|-7jn|8
+El Zapotito|MX||41|1i1|-7fw|7|Zapotito
+Elzange|FR||9k|3t4|hh|7
+El Zarco|MX|Morelos|41|1gk|-7n7|7
+Aguaje el Zapote|MX||41|17t|-7fe|7|El Zapote
+El Zapote|MX|Guanajuato|41|1md|-7qm|7
+El Zapote (Cerrito Blanco)|MX||41|1qe|-7sv|6
+El Zapotal|MX|Veracruz|41|1es|-7cz|6
+El Zompantle|MX||41|19o|-7gj|6
+El Zapote|MX|Guanajuato|41|1kr|-7sd|6
+El Zapote|MX|Veracruz|41|1g4|-7f1|6
+El Zapote|MX|Puebla|41|1iy|-7id|6
+El Zapote|MX|San Luis Potosí|41|1oc|-7pu|6
+El Zancudo|MX||41|1lq|-843|5
+El Zacatal|MX||41|1gn|-7fh|5|Zacatal

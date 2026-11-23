@@ -1,0 +1,139 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Rotterdam|NL||8m|408|cg|6p5|Roterdamo;Róterdan;Roterdão;Róterdam;Roterodamum;Roterdama;Roterdamas;Roterdami
+Rotherham|GB||9b|44f|-3s|wo|Roderamas;Rotherdam
+Rouen|FR||9k|3tc|32|wb|Ruan;Rueno;Erruan;Rothomagus;Ruão;Rúðuborg;Rovan;Roeaan;Roan;Rouan;Roðem;Ruanas;Ruāna;Ruano
+Rotorua|NZ||ak|-2xy|dll|ib
+Rottenburg|DE||8r|3qo|ou|bv
+Rota|ES||9d|2tq|-ho|80
+Rottweil|DE||8r|3pt|nz|73|Rottovilla
+Roth|DE|Bavaria|8r|3st|ut|6z
+Ronse|BE||8t|3wz|a0|6q|Rotnacum;Rinais
+Gorelovo|RU||9i|4m1|2bp|69|Rötsänsilta
+Rotenburg|DE||8r|43j|q4|65
+Rottingdean|GB||9b|3x5|-6|62
+Rotterdam|US||48|3av|-5ph|5r
+Rotherbaum|DE||8r|44t|rq|4r
+Sárvár|HU||8v|3n9|1b2|49|Kotenburg;Rotenturm an der Raab;Mala Sela;Savar
+Rotselaar|BE||8t|3xj|d4|46|Rotselaer
+Pilisvörösvár|HU||8v|3o9|1gj|3z|Werischwar;Rotenburg
+Rotherhithe|GB||9b|3z2|-5|3t|Nauticus Sinus
+Rotenburg an der Fulda|DE||8r|3xo|r1|3l|Rotemburgo do Fulda
+Röthenbach an der Pegnitz|DE||8r|3tg|v8|3e
+Rothesay|CA||43|3i2|-539|3c
+Rothenburg ob der Tauber|DE||8r|3t6|sb|33|Rothenburg nad Tauber;Rothenburg upon Tauber;Rotenburga pie Tauberes;Rothenburg
+Rotkreuz|CH||a7|3my|nf|2w
+Rothenburg|DE|Lower Saxony|8r|414|t4|2p
+Rothenburgsort|DE||8r|44q|rw|2i
+Rotonda West|US||48|22o|-6cl|2g|Rotonda
+Červený Kostelec|CZ||9m|3w8|18p|2c|Rothkosteletz
+Roetgen|DE||8r|3wp|h8|2a|Li Reutxhene;Ruutsje;Rötgen
+Rottenburg an der Laaber|DE||8r|3ra|xf|25
+Rothwell|GB||9b|41m|-28|25|Rowell
+Rothrist|CH||a7|3nf|lx|22
+Rothwell|AU||8c|-23l|bt5|1z
+Rot|DE|Baden-Wurttemberg|8r|3su|nz|1x
+Roteiro|BR||3r|-rb|-2ry|1u
+Rothenburg|DE|Saxony|8r|3yl|15l|1m
+Rothschild|US||2f|3gp|-6wy|1h
+Röttgen|DE||8r|3ws|jn|1h
+Romont|CH||a7|3lq|j8|1h|Rotundus Mons
+Rottendorf|DE||8r|3ub|rv|1g
+Rot am See|DE||8r|3st|ru|1g
+Rotthalmünster|DE||8r|3qc|10o|1f
+Rottach-Egern|DE||8r|3oh|wp|1f
+Rothe|LS||12|-2a5|24a|1d
+Röthlein|DE||8r|3uu|se|1d
+Rotifunk|SL||l|mv|-z8|1d
+Rotnes|NO||9j|4mu|u6|1b
+Röttenbach|DE|Bavaria|8r|3ty|ud|1a
+Rot|DE|Baden-Wurttemberg|8r|3p4|pa|18
+Rothesay|GB||9b|4b4|-e2|17|Baile Bhòid;Rothsey
+Rötha|DE||8r|3y8|yh|16|Rēta
+Rothenbergen|DE||8r|3vg|pb|14
+Rothley|GB||9b|42f|-36|13
+Rotem|BE||8t|3xt|fy|11
+Rott|DE||8r|3p4|xl|10
+Rötz|DE||8r|3t2|yt|z|Retz
+Rotunda|RO|Olt|8u|3e6|1vk|w|Rătunda
+Roteglia|IT||9o|3fk|tp|w
+Rothesay Bay|NZ||ak|-2u1|dhe|v
+Rothsville|US||48|33j|-5vt|u|Haasebarig
+Rotondi|IT||9o|35z|14k|u
+Rotheux-Rimière|BE||8t|3wd|f8|t
+Röttenbach|DE|Bavaria|8r|3sj|un|t
+Rotava|CZ||9m|3vq|yx|s
+Rotonda|PH||71|i1|9mx|r|Rotunda
+Rothenberg|DE||8r|3ti|os|p
+Retz|AT||a2|3rg|18b|p|Rec;Rötz
+Rottne|SE||9w|4ee|15e|o
+Rochegda|RU||9i|4u3|3cl|o|Rotsjegda
+Rothbury|GB||9b|49n|-5b|n
+Rötgesbüttel|DE||8r|41m|t9|m
+Rottenmann|AT||a2|3o1|13w|m
+Rottenacker|DE||8r|3pz|qx|m
+Rothenthurm|CH||a7|3mu|o4|l|Rotenturm
+Rotunda|RO|Suceava|8u|3nx|21o|l
+Rottenbach|DE|Thuringia|8r|3wt|v1|k
+Rothwesten|DE||8r|3yr|qg|k
+Rothenbuch|DE||8r|3ut|q3|k
+Röthis|AT||a2|3nd|qt|j
+Rottofreno|IT||9o|3h6|qj|j
+Röthenbach|DE|Bavaria|8r|3oa|rp|i
+Rotmanka|PL||a5|46r|1fo|i
+Rottenbuch|DE||8r|3ol|uh|i|Raitenbuch
+Rotonda|IT||9o|32z|18k|h
+Röttingen|DE||8r|3tj|rp|h
+Rothau|FR||9k|3qm|k1|h
+Rottleberode|DE||8r|3z4|uf|g
+Rothem|NL||8m|3xc|fy|g
+Roth|DE|Rheinland-Pfalz|8r|3x0|le|g
+Rotherfield Peppard|GB||9b|3z5|-2q|f
+Rotunda|RO|Neamț County|8u|3mm|22w|f
+Rotondella|IT||9o|33l|19w|f
+Rotan|US||2f|2j9|-7r3|e
+Rothenstein|DE||8r|3x9|w8|e
+Rots|FR||9k|3sp|-1b|e
+Rottevalle|NL||8m|43n|gy|e|Rottefalle;Rotevalė
+Rotta|IT||9o|3hg|pf|d
+Rótova|ES||9d|305|-q|d
+Rothes|GB||9b|4ft|-8x|c
+Rota Greca|IT||9o|31n|18r|b
+Rotglá y Corbera|ES||9d|30c|-1k|b|Rotglà i Corberà
+Rothenfels|DE||8r|3ul|qn|b
+Rotello|IT||9o|37z|15p|b
+Rothienorman|GB||9b|4fh|-6u|b
+Rottanova|IT||9o|3he|xe|a
+Dürrenroth|CH||a7|3mt|ln|a|Rota
+Rot-Front|KG||65|3ao|5sm|a|Bergtal;Bergthal
+Rotenturm an der Pinka|AT||a2|3n9|195|a|Vasvörösvár
+Rotbav|RO||8u|3jc|1z0|9|Rotoav
+Rothenburg|DE|Saxony-Anhalt|8r|3zh|wo|9
+Rothenbach|DE|Rheinland-Pfalz|8r|3wg|ly|9
+Rotta|DE||8r|3zs|z0|9
+Rotari|RO||8u|3h6|212|9
+Rothemark|DE||8r|404|z2|9
+Rota d'Imagna|IT||9o|3jb|qf|9
+Rotterode|DE||8r|3wv|tb|9
+Rottmersleben|DE||8r|411|vo|8|Retmerslevo
+Rötz|AT||a2|3mw|16k|8
+Rottum|NL||8m|432|gd|8
+Rottleben|DE||8r|3yo|up|8
+Rothselberg|DE||8r|3tn|l4|7
+Rotunda|RO|Arges|8u|3ht|1wi|7
+Rot|SE||9w|4q5|12z|7
+Rotabile|IT||9o|37q|11e|7
+Rothenschirmbach|DE||8r|3yy|w3|7|Rodenscerenbeke;Scrinbechiu
+Červený Kameň|SK||8s|3sd|1ei|6|Vörökö;Bibersburg;Rotenstein
+Rotuma Village|KI||bh|-1r|dgh|6
+Rotenhain|DE||8r|3wk|lw|6
+Rotsterhaule|NL||8m|430|g9|6
+Rottnest Island|AU||8k|-2gw|8wy|6|Rottnest;Île Rottnest;Rottnest-eiland
+Rotherwick|GB||9b|3yi|-2p|6
+Rothenfelde|DE||8r|41n|tz|5|Roenfelle
+Rapšach|CZ||9m|3rs|15h|5|Rottenschachen
+Rothbach|FR||9k|3rv|kx|5
+Rötsweiler-Nockenthal|DE||8r|3u4|k7|5
+Rotino|MK||9u|362|1mx|5
+Rote|US||48|364|-5z2|5
+Rotheau|AT||a2|3pj|17c|5
+Rotzo|IT||9o|3je|vo|5

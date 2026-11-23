@@ -1,0 +1,32 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Taipei|TW||7l|1xl|9dl|1oqn|Taipeh;Tajpeo;Taibėjus;Tajpej;Taipé;Tchaj-pej;Tayipèh;Taipėjus;Đài Bắc;Taypey;T’ai-pei
+Taiyuan|CN|Shanxi|7i|2x7|8oo|14xn|Tajuanas;Tchaj-jüan;Tajuano;Thái Nguyên;Thài-goân-chhī;Tái-nguòng;Tajjüan;Taiyuenum;Taijuaņa;Tayyuan;Daiyienz;Taijuan
+Taichung|TW||7l|1v3|9b8|lzr|Đài Trung;Teyjong shehiri;Taičungas;Tajĉungo;Thòi-chûng-sṳ;Tchaj-čung;Taizhong;Taychun;Tâi-tiong-chhī
+Tainan|TW||7l|1rv|99x|ebq|Teynen shehiri;Thòi-nàm-sṳ;Tchaj-nan;Tajnan;Đài Nam;Tajnano;Taynam;Tâi-lâm-chhī;Dài-nàng;T’ai-nan
+Taizhou|CN|Jiangsu|7i|2i9|993|cef|Taitsjou;Tchaj-čou;Tajĝou;Teyju shehiri;Thái Châu;Thài-chiu-chhī;Tái-ciŭ;T’ai-chou
+Tajimi|JP||7q|2q4|akx|ty|Tazimi-chhī;Tajima;Tajumi;Tazimi;Tadimi
+Tājūrā’|LY||1d|2jc|113|rs|Tājūrāh
+Tajrīsh|IR||7o|2rg|3yv|nw
+Taj Pul|IN||6t|275|5yr|j4
+Tayshet|RU||6k|4bd|7k7|ai|Taischet;Tajŝet;Tajsjet;Taishet
+Tayu|ID||6l|-i6|8kh|7c|Taju
+Tayga|RU||74|4br|6lu|6r|Tajga;Taiga
+Tadjoura|DJ||i|wr|3b4|5f|Tadżura;Tajura;Tadjura
+Tajerouine|TN||1e|2rp|nr|5e|Tadjrouïne;Tadjerouine
+Tājpur|IN||6t|290|620|4v
+Kampong Tajar|MY||6v|gy|7qy|2m|Tajar
+Tajiri|JP||7q|2nn|afp|2h
+Tajpura|IN||6t|zt|64c|29
+Tājpur|BD||6a|1uj|6yw|1o
+Tajao|PH||71|sn|9ja|1i|Tahao
+Tayturka|RU||6k|42v|7ze|1f|Tajturka;Taiturka
+Tayzhina|RU||74|453|6qw|1f|Tajzjina
+Taibach|GB||9b|3za|-ah|1a|Taj Bakas;Tai-bach
+Tajumulco|GT||32|15w|-73c|17
+Taiji|JP||7q|2la|ahn|s|Taitsi;Daiji;Taji
+Taytsy|RU||9i|4lq|2bn|q|Tajtsy;Taaitsa;Taizy;Tajcy;Taitsõ;Taytsı
+Tayginka|RU||7z|4ai|4o3|e|Tajginka
+Taio|IT||9o|3ko|ur|d|Tajo
+Tajov|SK||8s|3rf|1gz|7
+Tajaraq|IR||7o|2w8|3k2|6
+Tajnīk|IR||7o|2tf|419|5|Tajnak

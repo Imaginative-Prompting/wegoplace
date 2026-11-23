@@ -1,0 +1,37 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zduńska Wola|PL||a5|3zc|1gm|cd|Zdunska Volia;Zduņska Vola
+Zdolbuniv|UA||98|3wc|20x|6t|Zdołbunów;Sdolbuniw;Zdolbunovo;Zdolbunov;Zdolbunuv
+Žďár nad Sázavou|CZ||9m|3to|18a|5m|Ždiaras prie Sazavos;Zdziar nad Sazawą;Zdar;Sar;Ždjāra pie Sāzavas;Saar
+Zdzieszowice|PL||a5|3w2|1ec|3q|Zdzešovice;Źdźyszowicy;Zagieszowice
+Zdvinsk|RU||75|47y|62j|1j
+Zdovbytsia|UA||98|3wa|20x|1d|Zdovbytsya
+Zduny|PL|Greater Poland|a5|3zh|1ca|19|Zduni
+Zdiby|CZ||9m|3vd|145|15
+Zdice|CZ||9m|3un|12u|14
+Ždírec nad Doubravou|CZ||9m|3u2|17x|v|Ždírec nad Doubravkou
+Ždánice|CZ||9m|3sb|1bb|p
+Zdounky|CZ||9m|3sr|1c4|l
+Zdíkov|CZ||9m|3sc|122|g
+Ždiar|SK||8s|3sv|1ka|e|Zár;Ždjar;Zdziar
+Zdorivka|UA||98|3vg|2c1|d
+Ždralovi|HR||a6|3jg|1aw|d
+Zdrapți|RO||8u|3k8|1rj|d|Zurapti
+Žďár|CZ||9m|3we|15w|c
+Zdenci Brdovečki|HR||a6|3jf|17r|c
+Zhdeniyevo|UA||98|3rh|1rt|b|Żdenijewo;Jdéniïévo;Szarvasháza
+Zdziechowice Drugie|PL||a5|3x2|1pf|b
+Žďárná|CZ||9m|3tf|1ak|8|Zdiarna
+Zdziechowice|PL||a5|3xy|1f3|8|Zdzielchowice
+Zdziechowice Pierwsze|PL||a5|3x3|1pf|7
+Zdenci|HR||a6|3in|1dv|7
+Zdravnitsa|RU||9i|4bg|2wt|7
+Zduny|PL|Łódź Voivodeship|a5|40w|1j2|7
+Zdechovice|CZ|Pardubice Region|9m|3un|17l|7
+Zdechovice|CZ|Pardubice Region|9m|3ux|16z|7
+Žďár nad Metují|CZ||9m|3we|191|7|Brand an der Mettau
+Zduny|PL|Pomerania|a5|461|1fr|6
+Žďárky|CZ||9m|3w7|193|6
+Zděchov|CZ||9m|3su|1e8|5
+Zdów|PL||a5|3wk|1i9|5|Zdón
+Zdislavice|CZ||9m|3u1|15l|5
+Zdemyslice|CZ||9m|3tt|11k|5

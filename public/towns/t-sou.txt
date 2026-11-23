@@ -1,0 +1,573 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Seoul|KR||7h|2wd|9sq|27ut|Seúl;Soul;Seulo;Szöul;Seulum;Seulas;Seula;Seoel;Sol;Seol;Siul;Hanyang;Sye-ul
+Surabaya|ID||6l|-k5|8p7|nac|Soerabaja;Surabaja;Surabaia;Surabajo;Soerabaya;Sourabaya
+Soweto|ZA||o|-20z|25e|d2u|Sovetas;Soueto;Soveto
+South Tangerang|ID||6l|-hh|88g|b13|Tangerang Selatan
+Sulaymaniyah|IQ||5z|2qs|3i7|6rx|Sulaimaniyya;Solimania;Silêmanî;Suleimania;Sulaymaniyya;As-Sulajmanijja;Souleimaniye;Suleimaniya;Süleymaniye;Slemani;Sulejmanija;Sulejmánie;Sulaimaniya;Suleimaniyah
+New South Memphis|US||2f|2ph|-6y6|4y8
+South Boston|US|Massachusetts|48|39l|-5hd|4ep
+South Dublin|IE||8z|441|-hm|2bn|Dublin South;Condado de Dublín Sur;Comté de Dublin Sud;Južni Dublin;Pietų Dublinas;Jižní Dublin;Swydd De Dulyn;Contae Átha Cliath Theas;Condáu de Dublín Sur;Hego Dublineko konderria;Divlyn Yiass;Dublin Południowy;Dublín Sud
+Surgut|RU|Khanty-Mansia|7z|4q6|5ny|2bg|Soergoet;Sourgout;Surqut;Szurgut
+Southend-on-Sea|GB||9b|3z6|1z|2a1
+Southampton|GB||9b|3xe|-3w|22y|Hantonne;Hantonia;Sauthemptona;Sauthempton;Sautamptonas;Saŭtamptono
+Sohag|EG||c|21s|2g1|225|Sevhac;Sauhadż;Souhag;Suhag
+Sumy|UA||98|3xg|2oo|1z9|Soemy;Soumy;Szumi;Sumî;Sumõ;Sumai;Sumio;Soemi;Sumae;Sumad
+Sousse|TN||1e|2rj|tk|1pl|Hadrumetum;Susa;Szúsza;Sussa;Susas;Sus;Souse;Sūsah;Soussa;Sousa
+Souk Ahras|DZ||3|2st|m3|16n|Souq Ahras;Souk-Ahras;Szúk Ahrász;Suk Ahrasas;Suk Ahras;Suq Ahras;Tagaste;Suk Aharas;Suk Aras;Soukaras
+Tyre|LB||64|2kf|2pr|11k|Şūr;Tiro;Tyrus;Ṣurru;Ṣōr;Týros;Tyr;Tir;Tyras;Soûr
+Soubré|CI||0|g2|-ib|10g
+Ottawa South|CA||59|3i3|-5u9|yr
+South Fulton|US|Georgia|48|2lb|-6j7|tu
+South Bend|US|Indiana|38|37s|-6nl|s7|Flexuvium Australe;Saut Bendas
+South Gate|US|California|3p|2mb|-94d|qs
+Southport|GB||9b|451|-8d|ph
+South Shields|GB||9b|48s|-3z|n9|Shields Theas
+South Suffolk|US||48|2u0|-5wr|mf
+Southall|GB||9b|3z3|-11|lr
+Suva|FJ||ar|-1ee|drn|li|Suwa;Souva;Sufa;Suvo;Suv
+South Surrey|CA||5b|3s9|-9h3|lg
+South Ozone Park|US||48|34z|-5p2|l3
+Souk El Arbaa|MA||d|2oc|-go|l0
+South Lawndale|US||2f|388|-6rn|ki
+Southfield|US||2q|39z|-6f6|kc
+Sunzha|RU|Ingushetiya Republic|9i|3cc|3h5|jy|Sleptsovskaya;Ordzhonikidzevskaya;Ordzjonikidzevskaja;Sunža;Sunzja;Slepzowskaja;Sunscha;Sunschenskaja;Sunzhenskaya;Sounja;Sunja;Sipso-Ġala;Slyeptsovskaya;Ordzhonikidzevskoye
+Sur|OM||72|1qp|4ld|js|Sour
+Sougueur|DZ||3|2pr|46|jq
+South San Francisco|US||3p|2wl|-9g1|ip
+Sousa|BR||2w|-is|-2y7|ip|Souza
+South Jordan|US||2p|34o|-8mx|ii
+Souq Sebt Oulad Nemma|MA||d|2hq|-im|i8
+Sokhumi|GE||9i|3bh|35v|i6|Sochumi;Sukhumi;Sujumi;Suchumi;Suhhumi;Suhumi;Soukhoumi;Sukhum;Sohumi;Suĥumo;Sohum;Akva;Suchum
+As-Suwayda|SY||69|2iv|2tl|gf|Sweida;As Suwaydah;Suwayda;Soueïda;Suvajda;Suweida;as-Suwaida;Siweyda;Süveyda;Suvaida
+South Vineland|US||48|31l|-5sf|g5
+South Whittier|US||3p|2mb|-93w|fw
+South Croydon|GB||9b|3yo|-9|fc
+Southaven|US||2f|2p7|-6y1|em|Southhaven
+South Hill|US|Washington|3p|3my|-9fn|ek
+South Shore|US|Illinois|2f|380|-6ra|eb
+South Peabody|US||48|3a3|-5h3|dz
+South Bel Air|US||48|31t|-5w2|dk
+South Benfleet|GB||9b|3z7|1k|dk|Benfleet Theas
+Souq Larb’a al Gharb|MA||d|2od|-go|c9
+Sour el Ghozlane|DZ||3|2sf|a9|c8
+Southington|US||48|37k|-5mg|c3
+Southglenn|US||2p|31z|-83j|br
+Saundatti|IN||6t|17t|5so|bg|Soundatti
+South Valley|US||2p|2p9|-88c|be
+Souma|DZ||3|2tg|83|bb
+South Jordan Heights|US||2p|34o|-8mz|ab
+South Miami Heights|US||48|1z4|-67a|a8
+Southport|AU||8c|-25p|bu4|96
+Souk et Tnine Jorf el Mellah|MA||d|2nt|-fb|8p|Souk et Tnine Djorf el Mellah
+South Kingstown|US||48|375|-5io|8k
+Şūrān|SY||69|2q1|2u3|8j|Souran;Soran
+Southlake|US||2f|2ji|-7ht|8b|South Lake
+South Gate|US|Maryland|48|30p|-5wv|89
+South Horizons|HK||6i|1ps|8t3|86
+Southgate|US|Michigan|2q|399|-6f3|85
+South Horizons (Estate)|HK||6i|1ps|8t3|84
+South Chicago|US||2f|37y|-6r7|7t|Güney Chicago
+South Riverdale|CA||59|3d9|-64e|7r
+South Pasadena|US|California|3p|2ms|-947|7a
+South Laurel|US||48|30j|-5xh|79
+Soure|BR||23|-20|-3qs|74
+South Portland|US||48|3d8|-5f4|74
+South Yarra|AU||8j|-2x4|b6r|70
+Souza Gare|CM||j|br|qq|6y
+South Morang|AU||8j|-2wl|b72|6y
+Soignies|BE||8t|3wi|bb|6x|Sougniye
+South Granville|CA||5b|3su|-9i2|6w
+South Salt Lake|US||2p|354|-8mt|6w
+South Windsor|US||48|386|-5lq|6s
+South Plainfield|US||48|34q|-5qp|6r
+South Riding|US||48|304|-5za|6r
+South Portland Gardens|US||48|3d8|-5fc|6n
+South Old Bridge|US||48|349|-5qj|6g
+Southbank|AU||8j|-2x2|b6o|6a
+South Ockendon|GB||9b|3z3|s|68|South Ockedon
+South Elgin|US||2f|38n|-6t9|68
+South Bradenton|US||48|24a|-6de|66
+South Holland|US||2f|37k|-6rd|64
+South Parkdale|CA||59|3d8|-64o|62
+South Euclid|US||48|37c|-6ag|62|Nam Euclid
+South Lake Tahoe|US||3p|305|-99a|61|Nam Hồ Tahoe
+South Milwaukee|US||2f|3b7|-6s2|5w|Sud-Milvokio
+South El Monte|US||3p|2ml|-93x|5t|Timog El Monte
+Surovikino|RU||a4|3r1|3b2|5r|Surowikino;Sourovikino
+South San Jose Hills|US||3p|2mh|-93i|5q
+South Saint Paul|US||2f|3gp|-76f|5m
+Southbury|US||48|378|-5nd|5i
+Southbridge|US||48|38w|-5k3|5a
+So Uk|HK||6i|1q2|8t4|5a
+South Elmsall|GB||9b|44w|-3k|58|Elmsall Theas
+South Burlington|US||48|3fj|-5n9|58
+So Uk Estate|HK||6i|1q2|8t4|57
+Southsea|GB||9b|3x2|-31|55
+Souzas|BR||4w|-1rk|-3mg|52
+South Hadley|US||48|39e|-5ll|4x
+South Houston|US||2f|2ae|-7ck|4v
+South Orange|US||48|357|-5qa|4t
+Souto Soares|BR||20|-xl|-37o|4r
+South Ogden|US||2p|36f|-8n1|4q
+South Ruislip|GB||9b|3z8|-15|4o
+South Norwood|GB||9b|3ys|-7|4l|Norwood Theas
+South River|US||48|34d|-5qn|4k
+Sukhinichi|RU||9i|46a|2q6|4h|Sukhinitsji;Soukhinitchi;Suchiniči;Suĥiniĉi;Suhinitši;Suchiniczi
+Southchase|US||48|26v|-6a2|4f
+South Hayling|GB||9b|3x3|-2q|4b
+Suzun|RU||75|45e|6co|4a|Susun;Souzoun;Szuzun;Soezoen
+Soumagne|BE||8t|3wl|fz|48
+South Yuba City|US||3p|30o|-9dw|48
+Southwest Waterfront|US||48|300|-5xy|47
+South Farmingdale|US||48|354|-5o0|41
+Southgate|GB|England|9b|3ze|-a|41
+South Venice|US||48|235|-6cy|3v
+Southern Pines|US||48|2pp|-64j|3r
+South Park Township|US||48|33y|-667|3q
+Bonnevoie-Sud|LU||9c|3ts|h3|3q|South Bonnevoie;Bouneweg-Süd;Bonneweg Süd
+South Sioux City|US||2f|39z|-7ft|3p|Suda Siu-Urbo
+Sudogda|RU||9i|4bf|35j|3p|Soudogda;Sudogd
+Souk Lahad|TN||1e|2lu|om|3o
+South Kannanur|IN||6t|uc|62q|3n
+South Charleston|US|West Virginia|48|2yl|-6ay|3m
+Southern River|AU||8k|-2h7|8y4|3l
+South Slope|CA||5b|3sq|-9ho|3k
+South Perth|AU||8k|-2gu|8xv|3i|Perth South
+South Daytona|US||48|291|-690|3i
+South Upi|PH||71|iz|9kv|3h
+South Miami|US||48|1zf|-671|3e
+South Lyon|US||2q|39y|-6gd|39
+South Penrith|AU||8l|-2lt|bml|39
+South Melbourne|AU||8j|-2x3|b6p|37|Melbourne South
+Southwest Center City Philadelphia|US||48|32y|-5su|34|SW Center City;S. W. Ctr. Cty.
+Suzdal’|RU||9i|4cq|34d|34|Susdal;Súzdal;Souzdal;Soezdal
+South Yarmouth|US||48|37r|-5ey|33
+South Hedland|AU||8k|-1kp|95g|32
+South Clearbrook|CA||5b|3s8|-9ft|2t
+South Huron|CA||59|3cc|-6ag|2s
+Southborough|US||48|39j|-5io|2p
+Southwick|US||48|38t|-5m5|2m
+South Huntington|US||48|35e|-5nw|2m
+Sugahama|JP||7q|2r2|ahp|2k|Sougahama
+Souq Al Had Bradya|MA||d|2i5|-i6|2j|Souq al Had Bradia
+South Amboy|US||48|34g|-5qd|2g
+Southwater|GB||9b|3xq|-z|2f
+Southwest Schuylkill|US||48|32y|-5sw|2f
+South Brisbane|AU||8c|-24c|bt2|2f
+Southside|US|Alabama|2f|2m8|-6my|2e
+South Kensington|US||48|30d|-5y3|2d
+Soure|PT||99|33a|-nz|2c
+South Lockport|US||48|3bv|-62m|2b
+South Bunbury|AU||8k|-2kn|8x7|29
+South San Gabriel|US||3p|2ml|-941|29
+Soukka|FI||92|4n2|1wj|29|Sökö
+South Beach|US|New York|48|34q|-5ps|28
+South End|NI||3s|xt|-6eo|28
+South Boston|US|Virginia|48|2ty|-636|28
+South Cambie|CA||5b|3st|-9i0|28
+Suya|NG||u|qb|8u|27|Saya;Souya
+Souq Khmis Aït Yadine|MA||d|2md|-gq|27
+Southwest Ranches|US||48|20e|-676|27
+South Beloit|US||2f|3a1|-6vc|25
+Southwood Acres|US||48|38k|-5ll|25
+Sound Beach|US||48|35s|-5mp|24
+South Pointe|CA||5d|3ua|-7hy|23
+South Terwillegar|CA||2s|44g|-8ri|23
+South Arm|CA||5b|3si|-9i0|23
+South Berwick|US||48|3c3|-5gp|23
+Susuman|RU||6z|4ue|bfj|22|Sussuman;Soussouman;Soesoeman;Szuszuman;Susman
+Surskoye|RU||9z|47c|3ls|21|Surskoje;Sourskoïe;Szurszkoje
+Southport|US|New York|48|38t|-5xe|20
+Southeast Gate|CN||7i|1qr|8sc|20
+Southgate|US|Florida|48|23v|-6d7|20
+South Weber|US||2p|369|-8mx|1y
+Soultz-Haut-Rhin|FR||9k|3p1|k3|1y|Sulz;Sultz;Soultz
+Sudzha|RU||9i|3y7|2pz|1x|Sudzja;Sudža;Sudscha;Soudja;Sudsha
+South Cleveland|US||48|2pj|-6jt|1x
+Southwell|GB||9b|43g|-2o|1w
+Souderton|US||48|33z|-5t9|1v
+Soustons|FR||9k|3dj|-3p|1v|Soston
+Soúda|GR||8p|2ql|1uv|1v|Soúdha
+South Hill|US|New York|48|39t|-5wg|1v
+Southampton Parish|BM||82|2hl|-505|1u
+South Tamworth|AU||8l|-2ef|bn8|1u
+Souq at Tlata des Loulad|MA||d|2jn|-js|1u
+Southam|GB||9b|415|-3v|1u
+Aridaía|GR||8p|35t|1pa|1u|Aridea;Soumposkon;Aridaea;Ardea;Aridhaía;Ardhéa
+Southeast Arcadia|US||48|23j|-6bd|1u
+South Mackay|AU||8c|-1ms|bie|1t
+South Monroe|US||2q|38e|-6fq|1s
+Souffelweyersheim|FR||9k|3r4|li|1r|Suffelweyersheim;Süffelwirsche
+South Wentworthville|AU||8l|-2ly|bnc|1r
+South Williamsport|US||48|36j|-5xw|1r
+Souk El Arba Des Aït Baha|MA||d|2bj|-pf|1q
+South Grafton|AU||8l|-2aj|bst|1q
+Southwood|CA|Alberta|2s|3xk|-8sw|1p
+Sutysky|UA||98|3s8|26y|1o|Sutyskiy;Soutysky;Sutıskı;Sutyska
+Souppes-sur-Loing|FR||9k|3pu|7m|1o
+South Valley Stream|US||48|34y|-5os|1o
+South Patrick Shores|US||48|26c|-67x|1n
+South Windsor|AU||8l|-2le|bmw|1n
+South Lake|AU||8k|-2h7|8xs|1m
+Southold|US||48|362|-5l7|1l|Southoule
+Soukourougban|CI||0|lt|-gi|1l|Soukourougben
+South Oroville|US||3p|31o|-9dm|1l
+South Apopka|US||48|27m|-6af|1l
+South Tucson|US||4i|2hg|-8k9|1l
+Souanké|CG||a|5q|139|1l|Zouanké
+South Gate Ridge|US||48|23t|-6d6|1l
+Southside|AU||8c|-20t|bs1|1k
+South Toowoomba|AU||8c|-24l|bq3|1k
+Sources Chaudes|HT||4j|1fc|-5qd|1j
+South Granville|AU||8l|-2m2|bnh|1j
+Southampton|US|Massachusetts|48|39b|-5m1|1j
+South Coogee|AU||8l|-2m9|bo6|1i
+South Hooksett|US||48|3bj|-5ig|1i
+Souassi|TN||1e|2q6|tb|1i
+South District|GI||90|2sb|-ev|1i|Europa Point
+Southlands|CA||50|3nx|-42q|1h
+South Gastonia|US||48|2pu|-69l|1h
+South Haven|US|Indiana|2f|37e|-6q2|1h
+Southdale|CA|Ontario|59|3cn|-67l|1h
+South Hobart|AU||8g|-3b5|bd7|1g
+South Highpoint|US||48|25k|-6dr|1g
+South Molton|GB||9b|3xq|-an|1f|Molton Theas
+South Hurstville|AU||8l|-2me|bnr|1f
+South Bay|US||48|222|-688|1f
+South Pasadena|US|Florida|48|254|-6du|1f
+Soum|SN||g|134|-19s|1e
+South Amherst|US|Massachusetts|48|39m|-5lf|1e
+South Sarasota|US||48|23t|-6d9|1e
+Souto|PT||99|35u|-ny|1d
+Soubalo Mbouba|SN||g|190|-12x|1d|Soubal-Mbouda
+South Bound Brook|US||48|34n|-5r1|1d|South Boundbrook
+South West Rocks|AU||8l|-2dt|bt4|1c
+South Kalgoorlie|AU||8k|-2dh|9df|1c
+Southwood|CA|Ontario|59|3ce|-675|1c
+Soufflenheim|FR||9k|3rn|m4|1a|Sufflenheim;Süfflum
+Katlabuh|UA||98|3im|28i|1a|Suworowe;Șichirlichitai;Suvorove;Souvorové;Katlabug;Katlabouh
+South Barrington|US||2f|38x|-6ss|1a
+South Calgary|CA||2s|3xr|-8sy|19
+South Launceston|AU||8g|-376|bcr|19
+South Sanford|US||48|3cl|-5gi|19
+South Hill|US|Virginia|48|2u1|-611|19
+Sougné-Remouchamps|BE||8t|3w8|fv|18
+Souillac|MU||ag|-1l0|4fs|18|Suillak;Soullac
+South Haven|US|Michigan|2q|39s|-6nn|18
+South Lebanon|US|Ohio|48|31d|-6hx|17
+South Greeley|US||2p|366|-835|16
+Souvret|BE||8t|3w5|c3|16
+Souflí|GR||8p|36f|212|15|Sofulu
+South Chicago Heights|US||2f|378|-6rg|15
+Souto da Carpalhosa|PT||99|32p|-ok|15
+South Plympton|AU||8b|-2p6|aow|15
+Southminster|GB||9b|3zi|2b|14
+South Brooksville|US||48|27a|-6cu|14
+Soumahorodougou|CI||0|eh|-i7|14
+Souillac|FR||9k|3gq|43|13
+South Kinangop|KE||16|-21|2tt|13
+South Point|US|Ohio|48|2yq|-6df|13|Southpoint
+South Cave|GB||9b|45d|-1o|13|Cave Theas
+South Baltimore|US||48|313|-5wu|13|Baltimora sud
+Southgate|US|Kentucky|48|30j|-6in|13
+South Russell|US||48|373|-6a1|12
+Southern Shops|US||48|2p7|-6br|12
+Curtis Bay|US||48|30z|-5wr|12|Freetown;South Baltimore
+South Toms River|US||48|32y|-5q4|11
+Southwold|GB||9b|41d|4o|11
+Soullans|FR||9k|3m0|-5a|11
+South Dennis|US||48|37t|-5ew|10
+South Vacherie|US||2f|2b6|-6zx|10
+South Glens Falls|US||48|3ca|-5ok|10|South Glen's Falls
+South Eliot|US||48|3br|-5gm|10
+South Nyack|US||48|364|-5pc|z
+South Beach|US|Florida|48|24n|-676|z
+Soungasa|CI||0|ma|-h4|z|Soungaso
+Southport|US|North Carolina|48|2m8|-60q|z|Smithville
+Soucieu-en-Jarrest|FR||9k|3iw|d2|y
+Southport|CA||35|3kf|-4va|y
+South Alamo|US||2f|20o|-7kj|y
+South Duxbury|US||48|38q|-5gc|y
+South Tuxedo|CA||5d|3uh|-7i2|y
+Southampton|US|New York|48|35k|-5l3|x|Sud Hampton
+South Jacksonville|US||2f|32b|-6yn|x|Nam Jacksonville
+South Guildford|AU||8k|-2gn|8y5|w
+South Hempstead|US||48|350|-5oi|w
+South New Brighton|NZ||ak|-3cw|dbt|w
+South Gladstone|AU||8c|-1ua|bo7|w
+Soues|FR||9k|3c1|a|w
+South Blooming Grove|US||48|36x|-5q2|w
+Sourdeval|FR||9k|3rc|-2k|v
+South Pittsburg|US||2f|2p9|-6m2|v
+Soubise|FR||9k|3jk|-2t|v
+South Petherton|GB||9b|3xj|-7t|v|Petherton Theas
+South Fremantle|AU||8k|-2h3|8xj|u
+South Turramurra|AU||8l|-2lr|bnr|u
+Soulac-sur-Mer|FR||9k|3if|-35|u|Solac;Soulac
+Souq al Had|MA||d|2kh|-f9|u
+South Yunderup|AU||8k|-2ij|8xm|t
+South Wave Court|HK||6i|1ps|8t5|t
+Southdale|CA|Nova Scotia|35|3g2|-4wj|t
+Soufrière|LC||52|12i|-4pm|t
+South Townsville|AU||8c|-1hj|bbv|t
+South Padre Island|US||2f|20i|-7hw|t
+South Fallsburg|US||48|37v|-5rb|t
+Southern Shores|US||48|2se|-5ud|t
+Soukou-Obou|CI||0|fx|-cu|t
+South Rosemary|US||48|2t9|-5zu|s
+Southern Gateway|US||48|2yj|-5za|s
+South Hackensack|US||48|35i|-5pp|s
+Southfield|JM||3i|1dp|-5zr|r
+Southwood Park|CA||43|3jk|-553|r
+Soultz-sous-Forêts|FR||9k|3ry|lw|r|Sulz unterm Wald
+South Collingham|GB||9b|43l|-25|q
+South Cerney|GB||9b|3zj|-5d|q
+Souleman|CI||0|kt|-8o|q
+South Hetton|GB||9b|488|-3x|q
+South Brent|GB||9b|3w3|-an|q
+South Hutchinson|US||2f|2xn|-7k2|q|Nam Hutchinson
+Southern Victoria|CA||43|3lx|-584|q
+South Dunedin|NZ||ak|-3jh|d5l|p
+Soukoussoukou|CI||0|i0|-9a|p
+Soúrpi|GR||8p|30m|1rm|p
+South End|CA|British Columbia|5b|3sj|-9k9|p
+South Brighton|AU||8b|-2pb|aot|o
+South End|CA|New Brunswick|43|3hr|-53h|o
+South Sumter|US||48|2m4|-676|o
+South Congaree|US||48|2m7|-69e|o
+Songassou|CI||0|if|-cu|o|Sungassu;Soungassou
+Suhindol|BG||9v|3bz|1xy|o|Souhyndol;Suchindol;Sukhindol
+South Kempsey|AU||8l|-2eg|bsj|n
+Souampleu|CI||0|jh|-mc|n
+Soucelles|FR||9k|3o5|-16|n
+Sauensiek|DE||8r|44a|qo|n|Sounsiek
+South Paris|US||48|3eu|-5fv|n
+South Fulton|US|Tennessee|2f|2te|-6uw|n
+Southside|US|Arkansas|2f|2r6|-72i|m|South Side
+Souchez|FR||9k|3vz|7m|m
+Soulsbyville|US||3p|2xi|-9a2|m
+Soudan|FR||9k|3om|-3n|m|Saoudan
+Southworth|US||3p|3nz|-9ga|m
+Soultzmatt|FR||9k|3p8|k4|m|Sulzmatt;Suizmatt
+Southmont|US|Pennsylvania|48|33z|-63a|m
+South Taft|US||3p|2pl|-97u|m
+Soual|FR||9k|3d0|5w|l
+Southwest Greensburg|US||48|33x|-64z|l
+South Pottstown|US||48|33s|-5u5|l
+Sours|FR||9k|3qh|4g|l
+South Greensburg|US||48|33w|-64y|l
+Souébli|CI||0|ki|-kl|k
+Southgate|GB|Wales|9b|3z9|-bd|k
+Southowram|GB||9b|457|-53|k
+Southchurch Village|GB||9b|3z6|21|k
+South Roxana|US||2f|2zv|-6y6|k
+South Milford|GB||9b|45e|-3h|k
+South Zanesville|US||48|32u|-6bt|k
+Souvigny|FR||9k|3l9|8v|k
+South Bowenfels|AU||8l|-2l4|bl0|k
+South Connellsville|US||48|334|-653|j
+Southbroom|ZA||o|-2dv|2c9|j
+South Kingsville|AU||8j|-2x3|b6f|j
+South Nutfield|GB||9b|3xq|-d|j
+South Harefield|GB||9b|3zb|-1c|j
+South Lancaster|US||48|39w|-5j5|j
+Sukhoverkhiv|UA||98|3qm|1zj|j|Soukhoverkhiv;Suhoverca
+South Deerfield|US||48|3a0|-5lp|j
+Souapleu|CI||0|iq|-n8|j|Gouapleu
+Souris|CA|Manitoba|5d|3tu|-7qi|j
+Sourcieux-les-Mines|FR||9k|3j9|cu|j|Sourcieux-sur-l’Arbresle
+South Bloomfield|US||48|32c|-6ej|j|Nam Bloomfield
+South Nowra|AU||8l|-2oy|bmc|i
+Southside Place|US||2f|2aj|-7d4|i|South Side Place
+South Lismore|AU||8l|-282|btq|i
+Isle of South Uist|GB||9b|4f1|-kd|i|South Uist;Uibhist a Deas
+Kemajuan Tanah Sungai Pancing Selatan|MY||6v|aj|7yl|i|Sungai Pancing Selatan;FELDA Sungai Pancing Selatan;South Pancing River
+South Belmar|US||48|33l|-5pn|i
+South Floral Park|US||48|353|-5oq|i
+South Browning|US||2p|3qv|-8px|i
+Sour Lake|US||2f|2bq|-7a9|i|Sourlake
+Southwick|GB||9b|3yi|-67|i
+South Whitley|US||38|364|-6lv|h
+South Park|US||2p|3cm|-8jr|h
+Soungbonon-Bambarasso|CI||0|np|-cn|h
+Southport|US|Indiana|38|327|-6n9|h|South Port
+South Amherst|US|Ohio|48|36w|-6ch|h
+South Charleston|US|Ohio|48|32n|-6gb|h|South Charlestown
+Sucheveny|UA||98|3pi|1zs|h|Soutchévény;Suceveni
+South Rockwood|US||2q|38u|-6fa|g
+Southern View|US||2f|32g|-6x1|g
+Soula|CI||0|n8|-m8|g
+South Dos Palos|US||3p|2uo|-9b5|g
+South Bend|US|Washington|3p|3lm|-9jw|g|Southbend
+Southport|US|Connecticut|48|36a|-5nk|g
+South Willard|US||2p|36w|-8n8|g
+South Littleton|GB||9b|40r|-59|g
+Sourotí|GR||8p|34f|1s5|g
+Sokouraba|CI||0|s3|-jm|g|Sokourabo;Soukouraba
+South Wenatchee|US||3p|3nn|-9a5|g
+Southview|CA||2s|3xr|-8sm|g
+Souwaha|CI||0|rq|-gc|f
+South Bathurst|AU||8l|-2kw|bjh|f
+South Witham|GB||9b|42k|-1r|f
+Sourdun|FR||9k|3qu|9b|f
+South Coventry|US||48|381|-5kv|f
+South Thomaston|US||48|3ed|-5c1|f
+Southmont|US|North Carolina|48|2r3|-66z|f
+South Albury|AU||8l|-2s9|bc3|f
+Zougban|CI||0|le|-d7|f|Sougban
+Soussans|FR||9k|3h6|-1y|f
+South Coatesville|US||48|331|-5um|e
+South Palm Beach|US||48|21v|-66c|e
+South Temple|US||48|348|-5uw|e
+South Windham|US|Connecticut|48|37s|-5kh|e
+Soufrière|DM||2r|16b|-4qg|e|Sufriye
+Soucy|FR||9k|3q1|98|e
+Southboine|CA||5d|3ui|-7ia|e
+South Point|US|Texas|2f|1zv|-7ii|e
+South Windham|US|Maine|48|3di|-5fm|e
+South Lynnmour|CA||5b|3sz|-9hs|e
+Souakpé|CI||0|kg|-kb|e
+South Uniontown|US||48|32t|-65j|e
+South Maclean|AU||8c|-257|bt2|d
+South Carthage|US||2f|2so|-6mr|d
+Sussu Yakro|CI||0|ju|-ck|d|Sussuyakro;Soussayakro
+South Woodstock|US||48|38i|-5jw|d
+Sounoukana|CI||0|n3|-gg|d
+Soulaire|FR||9k|3o6|-1j|d
+Soulaines-sur-Aubance|FR||9k|3nk|-1g|c
+Soucht|FR||9k|3s0|kd|c
+South Barre|US||48|3eq|-5lf|c
+Sourkoudougou|CI||0|nd|-d2|c
+South Henderson|US||48|2sv|-61t|c
+Souzga|RU||63|405|6mh|c
+South Pender Harbour|CA||5b|3tu|-9ki|c
+South Gull Lake|US||2q|39r|-6l8|c
+Souraïde|FR||9k|3ce|-43|c|Zuraide
+Southery|GB||9b|41x|13|c
+Souprosse|FR||9k|3dn|-1z|c
+Souesmes|FR||9k|3nu|61|c
+Soultzeren|FR||9k|3pi|jq|b|Soultzern
+Souatiesso|CI||0|m3|-kx|b
+South Murwillumbah|AU||8l|-26q|bu4|b
+South Corning|US||48|390|-5y0|b
+South Pekin|US||2f|34h|-6x1|b
+South River|CA|Ontario|59|3jb|-64i|b
+South Shore|US|Kentucky|48|2zk|-6eg|b
+South Canal|US||48|36e|-68z|b
+Soumoulou|FR||9k|3c7|-j|b|Somolon
+South Wingfield|GB||9b|43i|-40|b
+South Harting|GB||9b|3xl|-2g|b
+Soukourala|CI||0|mf|-h4|b
+Souafé Kan|CI||0|lb|-fg|b
+Sourzac|FR||9k|3h5|14|b|Sorzac
+Souris|CA|Prince Edward Island|35|3kr|-4sx|b
+South Ashburnham|US||48|3ad|-5ju|b
+Souligné-sous-Ballon|FR||9k|3pq|o|b
+South Kolan|AU||8c|-1x9|bqp|b
+Southshore|NZ||ak|-3cz|dbv|a
+South Waverly|US||48|38o|-5wm|a
+South Chailey|GB||9b|3xi|-2|a
+Soulgé-sur-Ouette|FR||9k|3pi|-1l|a|Soulgé-le-Bruant
+Suamékro|CI||0|ji|-cy|a|Souamékro
+Southmayd|US||2f|2lf|-7gt|a
+Sheltozero|RU||9i|4qh|2q9|a|Sjeltozero;Soutjärvi
+Southbridge|NZ||ak|-3dq|dah|a
+South Carnarvon|AU||8k|-1x5|8rq|a
+South Lebanon|US|Oregon|3p|3fn|-9he|a
+Sukhyi Yelanets|UA||98|3nl|2gv|a|Soukhyï Yélanets;Sukhoy Yelanets
+South Mission Beach|AU||8c|-1dv|b9s|a
+Souafouè-Djahan|CI||0|l3|-ex|a
+South West City|US||2f|2tf|-7at|a|Southwest City
+South Geelong|AU||8j|-2y0|b50|a
+South Bay|CA||43|3hq|-53q|a
+Sousceyrac|FR||9k|3gn|5n|9|Soçairac
+South Bristol|US||48|3du|-5d8|9
+Southfleet|GB||9b|3yu|w|9
+South Zeal|GB||9b|3wx|-av|9
+South Hampton|US||48|3b4|-5h4|9
+Soublaké|CI||0|c5|-kp|9
+South Fork|US||48|345|-62v|9
+South Mimms|GB||9b|3zm|-n|9
+Soundougoutou|CI||0|mg|-fv|9
+South Wallins|US||48|2ua|-6fp|9
+Sougy|FR||9k|3ph|4z|9
+Southbrook|NZ||ak|-3cd|dbg|9
+Sougé-le-Ganelon|FR||9k|3q8|-3|8
+South Nanango|AU||8c|-22b|bq5|8
+Southey|CA||4q|3xh|-82a|8
+Somana|CI||0|mi|-i2|8|Soumana
+South Webster|US||48|2zt|-6dt|8
+South Van Buren|US||2f|2ur|-70t|8
+Soubrélilié|CI||0|go|-f3|8
+Souafoué-Djéhou|CI||0|l4|-ey|8
+Soultz-les-Bains|FR||9k|3qx|kt|8|Sulzbad;Sulz
+Souleymanekaha|CI||0|mx|-df|8
+South Gundagai|AU||8l|-2pg|bfe|8
+Soubès|FR||9k|3dl|9b|8
+South Golden Beach|AU||8l|-276|buj|8
+South Arm|AU||8g|-3bj|bdi|8|South-Arm-Halbinsel
+South Coffeyville|US||2f|2ur|-7dm|8
+South Vinemont|US||2f|2n4|-6pa|8
+Sukha Balka|UA||98|3nz|2e5|8|Soukha Balka
+South Range|US||2q|3mr|-6u8|7
+Soungassi|CI||0|if|-cp|7
+Souskanikha|RU||63|421|6ms|7|Sauskanikha
+Southwest Harbor|US||48|3f0|-59t|7|South West Harbor
+Souzay|FR||9k|3n8|-1|7
+Souloumana|CI||0|ma|-hr|7
+Southport|US|Maine|48|3ds|-5di|7
+Souhouo|CI||0|s3|-gy|7
+South Ripley|AU||8c|-250|bsi|7
+South Weldon|US||48|2t6|-5zk|7
+Southern Cross|AU|Western Australia|8k|-2er|97g|7
+Souligné-Flacé|FR||9k|3p9|1|7
+South Royalton|US||48|3dq|-5lg|7
+South Shaftsbury|US||48|3bb|-5nd|7
+South New Castle|US||48|35u|-677|7
+South River|CA|Newfoundland and Labrador|50|3o0|-440|7
+South Bar|CA||2x|3kc|-4n8|7
+Souafoué-Djacohou|CI||0|l3|-ew|7
+Sougbono|CI||0|nt|-d0|7
+Souafouè-Kouékro|CI||0|l3|-ez|7
+Suibonou|CI||0|l8|-du|7|Souibonou
+South Wilmington|US||2f|36d|-6t8|7
+South Ferriby|GB||9b|454|-1e|7
+South Bingera|AU||8c|-1xd|bqu|6
+Sougéal|FR||9k|3qr|-48|6|Sulial
+Souvignargues|FR||9k|3dp|bg|6
+Soultzbach-les-Bains|FR||9k|3pg|k0|6|Bad Sulzbach;Sulzbach;Sultzbach;Soultzbach
+Soutocico|PT||99|32a|-oa|6
+Souzy|FR||9k|3iz|cd|6
+Sutherland|US|Iowa|2f|3bd|-7da|6|Southerland
+South Kelsey|GB||9b|44j|-17|6
+South Williamson|US||48|2wn|-6ck|6
+South Dayton|US||48|39o|-63m|6
+Soulitré|FR||9k|3pd|1a|6
+Souvigné|FR||9k|3o0|14|6
+Soulignonne|FR||9k|3j6|-27|6
+Southbrook|AU||8c|-24w|bpg|6
+South Clifton Park|US||48|317|-5wr|6
+Soueich|FR||9k|3bl|26|6
+Soulosse-sous-Saint-Élophe|FR||9k|3qg|fx|6
+Souday|FR||9k|3pg|2f|6
+South Wharf|AU||8j|-2x3|b6n|6
+South Van Horn|US||1h|501|-bej|6
+Souvigné-sur-Sarthe|FR||9k|3ov|-13|6
+Soumans|FR||9k|3km|6f|5
+Soungoukaha|CI||0|qr|-f6|5
+South Maroota|AU||8l|-2l2|bnc|5
+Soudersburg|US||48|336|-5vj|5
+South Boardman|US||2q|3g0|-6kw|5
+South Cle Elum|US||3p|3n3|-9bz|5
+Southern Cross|AU|Queensland|8c|-1jn|ba2|5
+Soussoubo|CI||0|li|-eh|5
+Soursac|FR||9k|3hs|64|5|Saurçac;Sorçac
+Souancé-au-Perche|FR||9k|3q3|2e|5
+Sougy-sur-Loire|FR||9k|3m6|9f|5
+Soungra|CI||0|j7|-co|5
+South Toledo Bend|US||2f|2ej|-780|5
+South Hills|US||2p|3lc|-8n4|5
+South Creake|GB||9b|42w|25|5
+Souayeri|CI||0|nl|-cs|5
+South Spreyton|AU||8g|-36m|baj|5
+Soumont-Saint-Quentin|FR||9k|3s2|-n|5

@@ -1,0 +1,611 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Guangzhou|CN||7i|1s8|8ql|403y|Cantón;Kanton;Kantono;Cantão;Quảng Châu;Gvangjcouh;Guangdžou;Quancheum;Guandžou;Kóng-chû-sṳ;Kwangtsjou;Quançjou;Kńg-chiu-chhī;Guōng-ciŭ;Guangjow;Guangdžov;Guanchjou;Guančžou;Guangsu;Kōshū;Kwong Chau;Gwong Zau;Hiroshū;Kuang-chou
+Jinan|CN||7i|2tv|910|1sg6|Dzinanas;Tế Nam;Ĝinano;Ťi-nan;Csinan;Chè-lâm-chhī;Cá̤-nàng;Chi-nàm-sṳ;Cinanum;Szinan;Cijnanz;Džinan;Chi-nan;Tsinan
+Changchun|CN||7i|3dw|9o4|17wu|Čangčunas;Ĉangĉuno;Čangčun;Čchang-čchun;Trường Xuân;Čančuņa;Tiông-chhun-chhī;Tschangtung;Diòng-chŭng;Chhòng-chhûn-sṳ;Csangcsun;Cangzcenh;Çançun
+Saint Petersburg|RU||9i|4mi|2c7|15an|Leningrad;Petrogrado;Petrograd;Peterburg;Petersburg;Sankt Petersburg;San Petersburgo;Sankt-Petersburg;Sant Petersburgo;Sant Petersburg;Petrohrad;St Petersburg;Sankt Petersborg;Sankt-Peterburgo;Peterburi;Pietari;Saint-Pétersbourg;St. Petersburg;Santa Peterburg;San Pietroburgo;Petropolis;Sankt Peterburgas;Sanktpēterburga;Sint-Petersburg;São Petersburgo;San Pietruburgu;Sankt Peterburg;Sankt-Peterburg;Sint Petersbork;Peterburgo;Leningrado;Szentpétervár;Sant-Petersbourg;Sankt Péitersbuerg;Lungsod ng Sankt-Peterburg;sankt. peterburg;Saint Pétersbourg;Pétursborg;Sankti Pétursborg;St.-Petersburg;Petrapilis;Piiteri;Sankt-Peterburq;Cankt-Peterburg;Lenjingrad;Sint-Petersburch
+Kano|NG||u|xc|no|11vw|Kanas;Cano
+Changzhou|CN||7i|2g9|997|pe5|Changtsjou;Csangcsou;Thường Châu;Čangdžou;Čchang-čou;Ĉangĝoŭo;Siông-chiu-chhī;Siòng-ciŭ;Čangdžov;Changchow;Ch’ang-chou
+Changsha|CN|Hunan|7i|26c|8pt|nvg|Ĉangŝa;Trường Sa;Cangzsah;Čchang-ša;Chhòng-sâ-sṳ;Csangsa;Changsja;Tn̂g-soa-chhī;Diòng-să;Čanša;Chansha
+Cần Thơ|VN||6h|rw|85v|bmo|Kan Tho
+Changde|CN||7i|28n|8ma|b8u|Changteh;Čchang-te;Sòng-tet-sṳ;Čangdė;Thường Đức;Siòng-dáik;Siông-tek-chhī;Ch’ang-te
+Jining|CN|Shandong|7i|2qd|8zu|9kq|Ťi-ning;Csining;Tế Ninh;Cá̤-nìng;Chè-lêng-chhī;Džining;Tsining;Chi-ning
+Changzhi|CN|Shanxi|7i|2si|8q7|9dh|Čchang-č;Ĉanĝi;Čangdži;Trường Trị;Diòng-dê;Tiông-tī-chhī;Chang-chi;Ch’ang-chih
+Changwon|KR||7h|2pv|9xg|7wx|Ch'angwŏn;Čangvonas;Cshangvon;Ĉangvono;Sangwon
+Chandigarh|IN|Chandigarh|6t|2de|5xb|7hm|Čandígarh;Czandigarh;Čandigarchas
+Cancún|MX||2b|1mt|-6p9|6uw|Kankunas;Kankuna
+Çankaya|TR||94|32w|2ja|642
+Zhangjiakou|CN||7i|35a|8v3|5ce|Ĝanjakou;Trương Gia Khẩu;Čang-ťia-kchou;Diŏng-gă-kāu;Chang-kia-k’ou
+Zhangzhou|CN||7i|1w3|92u|4ju|Jyangju shehiri;Ĝanĝou;Čang-čou;Zhangtsjou;Ciŏng-ciŭ;Chương Châu;Chông-chû-sṳ;Chiang-chiu-chhī;Chang-chou
+Cangzhou|CN||7i|2yf|90l|42l|Thương Châu;Canĝou;Cchang-čou;Cangzou;Chŏng-ciŭ;Chhong-chiu-chhī
+Kandahār|AF||6o|2ft|52j|41d|Kandehar;Qandahor;Qanḏahāṟ;Candahar;Kandhar;Kandagar
+Zhangye|CN||7i|305|7r1|3wy|Trương Dịch;Diŏng-ĭk;Čang-jie;Changyen;Chang-yeh
+Kanazawa|JP||7q|2to|aji|3lg|Canasava;Kanazaŭa
+Zhangjiajie|CN||7i|28x|8iw|3eq|Čang-ťia-ťie;Chông-kâ-kie-sṳ;Trương Gia Giới;Diŏng-gă-gái
+Wah Cantt|PK||6q|2lt|5m3|33b
+Las Palmas de Gran Canaria|ES||83|262|-16u|2yj|Laspalmaso;Las Palmas;Kanaria Handiko Las Palmas;Les Palmes de Gran Canària;Laspalmasa;Palmas de Gran Canaria;Las Palmas de G.C.
+Canberra|AU||8l|-2q0|bi9|2u6|Kanbero;Camberra;Kanbera;Kanberra;Kamberra;Kānapera;Kambra;Kanberr;Khâm-phì-là
+Chānda|IN||6t|1jf|64a|2j8|Ćandrapur;Chandrapur;Čandrapuras;Čandrapura
+Canoas|BR||4w|-2b4|-3y6|2j7|Kanoasas
+Malir Cantonment|PK||6q|1xa|56p|2bc
+Chandler|US|Arizona|4i|2kj|-8mo|20g|Čandleris;Çandler;Čandlera
+Chandannagar|IN||6t|1ri|6th|1e6|Ĉandanagaro;Chandan Nagar;Chandernagor;Čandanagar;Čandarnagar;Chandernagore
+Senador Canedo|BR||4w|-1af|-3sd|1cm
+San Blas-Canillejas|ES||9d|34c|-a2|17q
+Villa Canales|GT||32|148|-6zh|176|Villa Anales
+Cần Giuộc|VN||6h|th|88b|16a|Can Gioc;Cần Duộc
+Cambridge|GB||9b|410|c|14h|Caergrawnt;Kembriĝo;Cantabrigia;Grantanbrycg;Kembridžas;Kiam-khiâu;Kambrij;Kembric;Kembridža
+Çanakkale|TR||94|33k|21d|13w|Çanaxqele;Čanakalė;Çanaqqala
+Cangaiba|BR||4w|-1ta|-3l8|138
+Candelaria|PH|Calabarzon|71|12p|9da|12b
+Irákleion|GR||8p|2q5|1xu|124|Iraklio;Heraklion;Heraclión;Herákleion;Iraklion;Iráclio;Kandiye;Iraklija;Heraclião;Càndia;Candie;Iraclion;Irákleio;Ērakleion
+Caen|FR||9k|3sn|-10|uq|Kāna;Kanas;Can;Caðum;Cadomum;Quaam;Kadunum;Cham;Chaem;Chaam;Catomum;Cathim;Caon;Canz;Cahem;Caem;Cadumum;Caam
+Cambridge|US|Massachusetts|48|39q|-5hj|uo|Kembriĝo;Cantabrigia;Keimbridža;Kembridžas;Kembric
+Delhi Cantonment|IN||6t|27g|5y9|uo
+Kanpur Cantonment|IN||6t|21i|67a|u5
+Punta Cana|DO||4v|1fm|-5a0|rs|Punta Kana
+Chanthaburi|TH||62|z1|7vm|rq|Čanthaburis;Chantaburi;Chandha Buri;Chandaburi
+Çankırı|TR||94|34s|2le|p6|Chankiri;Changri
+Canarsie|US||48|34w|-5pa|oa
+Canton|US|Michigan|2q|39j|-6fw|o4
+Cannock|GB||9b|42d|-5n|nx|Kanokas;Kanoko
+Luzern|CH||a7|3mp|n3|mp|Lucerne;Lucerna;Lucerno;Liucerna;Lucern;Canton Lucerne;Lucerni;Łuxerna;Lyutsen;Lyutsern
+Canindé|BR||2w|-c4|-317|lg|Caninae
+Cannes|FR||9k|3cz|jh|kp|Canes;Canas;Kannas;Canua;Kann;Kanai;Kannad
+Canary Wharf|GB||9b|3z3|-2|ke|Kanari-Uorf
+Candeias|BR|Bahia|20|-z7|-2z3|k4
+Channapatna|IN||6t|z5|5yh|jz|Ĉannapatna;Channapatan
+Canton|US|Ohio|48|35c|-6a2|jz
+Cantaura|VE||2c|pv|-4ys|j5|Cantura
+Kannur|IN||6t|wz|5tc|hg|Cananor;Cannanore;Kanuras;Kanura;Thatta
+Canoga Park|US||3p|2n0|-95g|gu
+Canyon Country|US||3p|2nm|-953|gj
+Canguçu|BR||4w|-2f7|-42c|fo|Cangussú
+Cần Giờ|VN||6h|sx|893|fb|Cần Thạnh
+Canterbury|GB||9b|3yg|30|fb|Cantorbery;Durovernum;Durovernum Canticorum;Cantwarebyrig;Cantwaraburg;Cantuária;Caergaint;Kantaraborg;Kenterberis;Kenterberija
+Canoinhas|BR||4w|-20q|-3vz|fa
+Chaniá|GR||8p|2qn|1ur|ez|Ĥanio;La Canée;Hanya;La Canea;Hania;Càndia;Khaniá
+Cangandala|AO||x|-r6|19n|ei|Kangandala;Cagandala
+Cần Đước|VN||6h|t7|884|e1
+Candaba|PH||71|15y|9bn|d5
+Cagnes-sur-Mer|FR||9k|3da|jv|d1|Canha de Mar
+Canela|BR||4w|-29k|-3x5|cn|Canella
+Candi Prambanan|ID||6l|-lj|8ix|ch
+Canlaon|PH||71|sv|9ia|ch
+Le Cannet|FR||9k|3d2|ji|c2|Cannet;Lo Canet
+Canning Town|GB||9b|3z3|2|bv
+Cantel|GT||32|155|-722|bp
+Canning|IN||6t|1pz|6ub|bp
+Cañuelas|AR||1l|-2pd|-4j8|bm|Kanuelas
+Dzhankoy|UA||9t|3iz|2nj|bl|Dschankoj;Džankoj;Dzhankoi;Canköy;Djankoï;Dzhanhoi;Dshankoi
+Cantù|IT||9o|3j2|pd|b3
+Canillas|ES||9d|34e|-a4|b2
+Canvey Island|GB||9b|3z4|1m|am|Canvey saar;Oileán Canvey
+Canaã dos Carajás|BR||23|-i4|-3uh|al
+Cansanção|BR||20|-tn|-31q|ae
+Cañada de Gómez|AR||1n|-2j6|-4qk|a0|Kanada de Gomez
+Canning Vale|AU||8k|-2h2|8y0|9l
+Canicattì|IT||9o|2vs|12h|95
+Canavieiras|BR||20|-17j|-307|93|Cannavieiras
+Cañete|CL|Biobio|4u|-2x0|-5nu|8u
+Cananea|MX||37|2e2|-8ie|8s|Kananėja
+Canosa di Puglia|IT||9o|36i|18n|8a|Canosa de Pulla
+Canguaretama|BR||2w|-hq|-2pl|89
+Cândido Mota|BR||4w|-1r7|-3vz|86|Candido Motta
+Canillejas|ES||9d|34d|-a1|83
+Candelária|BR||4w|-2af|-42n|81
+Canindé de São Francisco|BR||3r|-qu|-2wz|7g
+Cantonment|US||2f|2d1|-6qm|7d
+Canidelo|PT||99|368|-o1|7c|Canidello
+Canarana|BR|Bahia|20|-wg|-381|7b
+Çan|TR||94|337|235|7a
+Canarana|BR|Mato Grosso|2k|-11n|-417|76
+Cangas do Morrazo|ES||9d|39e|-oe|75
+Cangkat Jong|MY||6v|b3|7sw|74|Changkat Jong
+Canton|US|Georgia|48|2n4|-6ip|73
+Cândido Sales|BR||20|-172|-36k|70
+Canhotinho|BR||4p|-oo|-2sj|6z
+Candelaria|ES||83|26r|-19h|6r|Cancelaria
+Canelones|UY||45|-2nw|-4cc|6q|Kanelones
+Candelaria|CO|Valle del Cauca Department|27|9h|-5w3|6o
+Caniço|PT||86|2ip|-1as|6i
+Candler-McAfee|US||48|2lp|-6i3|6e
+Candeias do Jamari|BR||4l|-oh|-4wy|67
+Cantanhede|BR||2w|-a3|-3fa|65
+Canton|US|Massachusetts|48|394|-5hm|61
+Kilkenny|IE||8z|429|-k5|60|Cill Chainnigh;Kilkenis;Keeill Chennee;Canicopolis
+Canyon Lake|US|Texas|2f|2b0|-7ky|5x
+Canacassala|AO||x|-mo|138|5t
+Cañas|CR||2i|sz|-6ke|5n
+Cañete|CL|Biobio|4u|-2x0|-5nw|5m|Kanyete
+Ganvié|BJ||1b|hy|6n|5k|Canvie
+Cantagalo|BR|Rio de Janeiro|4w|-1p2|-39p|5k|Cantagallo
+Cândido Mendes|BR||2w|-41|-3j1|5j
+Canto do Buriti|BR||2w|-mj|-3ba|5e
+Qandala|SO||14|vv|3uj|5d|Candala;Ġandala;Kandala
+Changloon|MY||6v|hv|7qz|59|Changlun;Canglun
+Cantá|BR||26|79|-4oc|57
+Candelaria|PR||4m|1f4|-53x|4w
+Canby|US|Oregon|3p|3hq|-9gt|4t
+Cañon City|US||2p|2ys|-84c|4k|Canyon City
+Canudos|BR||20|-ri|-30f|4h
+Canovelles|ES||9d|37m|6c|4g|Canovellas
+Candiac|CA||59|3i2|-5o8|4f
+Canutama|BR||3t|-i5|-4yu|4e
+Canteleu|FR||9k|3tc|2u|4d
+Candelaria|CO|Atlántico|27|t2|-5s0|4c
+Canapi|BR||3r|-pc|-2wg|4c|Carapi
+Candói|BR||4w|-1z1|-40l|46
+Canyon|US||2f|2p6|-7v4|45
+Canalete|CO||27|o4|-5vo|44
+Cândido de Abreu|BR||4w|-1w9|-3yl|44
+Cangas del Narcea|ES||9d|3by|-i7|42
+Canford Heath|GB||9b|3wz|-5h|40
+Cahokia|US||2f|2z5|-6yj|40|Canokia;Kahokia;Caokia;Kahokias
+Candiba|BR||20|-141|-3b3|40
+Canning|AR||1l|-2ou|-4ii|3z
+Canelas|PT||99|364|-nw|3y
+Canton|US|Illinois|2f|34o|-6y4|3y
+Canet de Mar|ES||9d|37j|76|3x
+Candangolândia|BR||4w|-181|-3p7|3w
+Candeias|BR|Minas Gerais|4w|-1lp|-3hs|3w
+Contumil|PT||99|36d|-nu|3w|Cantomil
+Canmore|CA||2s|3xw|-8wf|3w
+Canals|ES||9d|308|-1m|3v
+Canton|US|Mississippi|2f|2il|-6y4|3t
+Canchungo|GW|Cacheu|8|yj|-18o|3t
+Cañasgordas|CO||27|ir|-5v7|3s
+Cantagalo|BR|Paraná|4w|-1yh|-40t|3p
+Canelinha|BR||4w|-23q|-3rh|3k
+Canton|US|Maryland|48|314|-5wp|3j
+Cangling|CN||7i|28k|8do|3j
+Candelaria|CU||36|1r6|-6eg|3j
+Canacona|IN||6t|15o|5pp|3g
+Canegrate|IT||9o|3il|ot|3f
+Cananéia|BR||4w|-1xh|-3p5|3f|Cananéa
+Canonbury|GB||9b|3z6|-9|3d
+Ganjām|IN||6t|1hv|6k9|39|Canjam
+Canatlán|MX||44|1w5|-831|37
+Candon|PH||71|1br|9al|34
+Canet-en-Roussillon|FR||9k|3am|8e|33|Canetum;Canet de Rosselhon;Canet de Rosselló
+Canyon Lake|US|California|3p|2ll|-91r|33
+Candelaria|AR|Misiones|1n|-24a|-4au|32
+Caneças|PT||99|2zt|-pn|32
+Canley Heights|AU||8l|-2m4|bn8|31
+Cantillana|ES||9d|2wh|-g6|2y
+Canápolis|BR|Minas Gerais|4w|-1g1|-3so|2y
+La Cañada|MX|Querétaro|41|1l9|-7qp|2x|Cañada
+Canandaigua|US||48|3b3|-5yp|2w
+Cantley|CA||59|3il|-5ui|2w
+Canápolis|BR|Bahia|20|-10b|-3es|2u
+Canley Vale|AU||8l|-2m5|bnb|2u
+Canyon Rim|US||2p|353|-8mm|2t
+Qâna|LB||64|2k9|2q2|2s|Cana;Kana;Kanao
+Cañar|EC||33|-74|-63a|2r
+Candelaria|MX|Campeche|3z|1ej|-70w|2q
+Candiota|BR||4w|-2fo|-453|2p
+Canubing No 2|PH||71|113|9ch|2o
+Cantilan|PH||71|px|9py|2m
+Cannons Creek|NZ||ak|-36a|dhr|2l
+Candolim|IN||6t|174|5ow|2k
+Canela|CL||4u|-2fq|-5gt|2k
+Corocotan|PH||71|kk|9pd|2i|Canocotan
+Chany|RU||75|49n|5x8|2h|Tsjany;Tšany;Čany;Csani;Çanı;Czany;Tsjani
+Canonsburg|US||48|33u|-66r|2h|Cannonburg;Cannonsburg
+Can Baró|ES||9d|372|60|2h
+Canelli|IT||9o|3g8|n1|2g|Canej
+Canggou|CN||7i|29t|8bx|2d
+Canovanas|PR||4m|1f2|-532|2c
+Canals|AR||1n|-2l8|-4up|2b
+Zangbawa|CN||7i|2ow|80i|29|Cangbawa
+Canterbury|AU|Victoria|8j|-2x2|b70|27
+Canto del Llano|PA||4g|mk|-68w|27
+Canal Winchester|US||48|32o|-6e0|26
+Candeal|BR||20|-wt|-30o|26
+Candelo|IT||9o|3ii|mj|26
+Chantepie|FR||9k|3pl|-4i|24|Kantpig;Cantus Picae
+Canyon Springs|CA||5b|3sx|-9h4|23
+Koonimedu|IN||6t|xl|65x|23|Conimere;Coonimode;Canhameira;Congi-medu;Congimer
+Canyon Meadows|CA||2s|3xi|-8sw|22
+Canfield|US||48|35z|-68c|22
+Cantanhede|PT||99|343|-nv|21
+Canalicchio|IT||9o|2wa|15y|21
+Can Picafort|ES||9d|32h|8r|21|C'an Picafort
+Canterbury|AU|New South Wales|8l|-2m7|bns|20
+Candás|ES||9d|3d3|-g1|20
+Canyelles|ES||9d|375|60|1y
+Can-asujan|PH||71|s5|9ji|1y|Kanasujan;Kanasulan
+Canicattini Bagni|IT||9o|2uv|15u|1x|Canicattini
+Cantagallo|CO||27|ki|-5pc|1x
+Canchungo|GW|Cacheu|8|xj|-18j|1x|Kanšungas
+Cangas de Onís|ES||9d|3cf|-e9|1u|Cangues d'Onís;Cangues dOnís
+Caniçado|MZ||11|-1vu|2ji|1u
+Canton|US|New York|48|3fw|-5st|1u
+Cantagrillo-Casalguidi|IT||9o|3dv|ub|1t
+Grachtengordel West|NL||8m|41i|dl|1t|Canal Belt-West
+Kangema|KE||16|-1x|2uo|1s|Cangema
+Canutillo|US||2p|2gn|-884|1r
+Candelaria de La Frontera|SV||2u|138|-6x1|1r
+Cândido Godói|BR||4w|-25n|-483|1r
+Canitar|BR||4w|-1rx|-3ua|1r
+Caneva|IT||9o|3jp|yl|1q|Cjanive
+Candoni|PH||71|ra|9gk|1q
+Cañitas de Felipe Pescador|MX||41|1tl|-7xd|1q
+Čaňa|SK||8s|3r1|1n9|1p
+Cannonvale|AU||8c|-1kc|bh2|1p
+Can-Avid|PH||71|xc|9oh|1n|Kanavid;Canavio
+Cannington|AU||8k|-2gy|8y2|1n
+Candelaria Arenas|PR||4m|1f6|-53y|1n
+Cancale|FR||9k|3r8|-55|1m|Kankaven
+Cankuzo|BI||b|-8y|2cv|1k
+Carcare|IT||9o|3f7|n1|1j|Cancre
+Canéjan|FR||9k|3gc|-1t|1j|Canéjean
+Canal Fulton|US||48|35l|-6ao|1j
+Cannon Hill|AU||8c|-24b|bt9|1j
+Çanta|TR||94|364|260|1j
+Candiolo|IT||9o|3gw|l4|1j|Candieul
+Canberra City|AU||8l|-2q0|bi9|1i
+Can Pastilla|ES||9d|31u|7k|1i|Ca'n Pastilla
+Candola|IN||6t|174|5pg|1i
+Cana Verde|BR||4w|-1me|-3hi|1h|Canna Verde
+Gantiadi|GE||7n|3ci|33c|1g|Gant'iadi;Zandrypsch;Tsandripsh;Candrypš;Tsandryphsh
+Canturay|PH||71|r7|9g5|1f
+Canzo|IT||9o|3jd|pr|1f|Canz;Cantius
+Candeleda|ES||9d|33k|-ek|1f|Candaleda
+Cancuc|MX||41|1b0|-74w|1e|Canuc
+Canas|BR||4w|-1r2|-3h6|1d
+Canon|FR||9k|3sb|-9|1d
+Canova-San Zeno|IT||9o|3j0|q4|1d
+Canino|IT||9o|39z|wn|1d|Caninium;Caninu
+Çandarlı|TR||94|306|22t|1d|Sandarli
+Çangarâfa|MR||19|1cv|-zo|1c
+Canohès|FR||9k|3ah|7v|1c|Canoes
+Canaã|BR||4w|-1lh|-3ae|1b
+Canastota|US||48|3bo|-5uf|1b
+Canayan|PH||71|ms|9nm|1a
+Canoas|CR||2i|np|-6e4|1a
+Canabrava do Norte|BR||2k|-up|-3zz|19
+Cannobio|IT||9o|3jy|o6|18
+Canale|IT||9o|3gg|m7|18|Canal
+Candia|US||48|3bo|-5i0|18
+Candating|PH||71|163|9bm|17
+Cansahcab|MX||3z|1ms|-6vi|17
+Cancello-Arnone|IT||9o|363|12z|17|Cancello ed Arnone;Cancello e Arnone
+Cenad|RO||8u|3k5|1l6|16|Čanád;Csanád
+Canton|US|North Carolina|48|2qp|-6e4|16
+Cantao-an|PH||71|sg|9jr|16|Kantauan
+Candijay|PH||71|ra|9lu|15
+Canonica d'Adda|IT||9o|3im|qi|15
+Cannon Falls|US||2f|3fn|-763|15
+Caniles|ES||9d|2w0|-7k|15
+La Canela|DO||4v|1i3|-5gq|14|Canela
+Canaoalan|PH||71|18j|9a6|14|Ganadalan;Canoalan
+Canneto sull'Oglio|IT||9o|3hf|su|14
+Le Cannet-des-Maures|FR||9k|3cj|hm|14|Lo Canet dau Luc;Lo Canet dei Mauras;Cannet-des-Maures
+Cantagalo|BR|Minas Gerais|4w|-1fh|-3af|14
+Candoso|PT||99|373|-n4|13
+Caniçal|PT||86|2iy|-1ai|13
+Caniapiscau|CA||59|48f|-5e8|13
+Cane|HN||56|13o|-6ri|13
+Cantemir|MD||8x|3kk|26c|12|Qantemir;Kantemir
+Cansilayan|PH||71|tc|9hq|12|Cancilayan
+Canhoba|BR||3r|-s6|-2uq|12
+Canhas|PT||86|2it|-1bj|12
+Canton|US|Texas|2f|2ig|-7ea|12
+Canauay|PH||71|p7|9ht|11|Canaway
+Cantello|IT||9o|3ja|oq|11
+Cantalejo|ES||9d|36m|-ax|11|Cantalojos
+Canet d'En Berenguer|ES||9d|328|-m|11|Canet de Berenguer
+Canala|NC||b8|-1ns|ct1|z|Kanala
+Canas de Senhorim|PT||99|34i|-ly|z|Cannas de Senhorin;Canas de Senhorin
+Cantoria|ES||9d|2vr|-63|z
+Canadian|AU||8j|-2we|b3o|z
+Cany-Barville|FR||9k|3ub|1s|z
+Canalejas|MX||41|1ji|-7op|y
+Candarave|PE||3o|-1bz|-5f5|y
+Canavieira|BR||2w|-ld|-3dg|y
+Cañada de Cisneros|MX||41|1iq|-7ny|y|Cañadas de Cisneros
+Carvalhópolis|BR||4w|-1oi|-3jc|x|Cana do Reino
+Canton|US|South Dakota|2f|3ca|-7gb|x
+Canora|CA|Alberta|2s|44q|-8ri|x
+Caningay|PH||71|rb|9go|x
+Canillo|AD||8n|3a9|4g|x
+Cañada de Bustos|MX||41|1m3|-7tf|x
+Cañazas|PA|Veraguas Province|4g|n4|-69l|w
+Canossa|CA||2s|44z|-8rc|w
+Cañete de las Torres|ES||9d|2x7|-c0|w
+Canhaway|PH||71|r3|9lr|w|Kanhaway
+Canterwood|US||3p|3nm|-9gj|v
+Cañada Rosal|ES||9d|2wg|-eh|v
+Canoa|PA||4g|ng|-6b6|v
+Canadian|US||2f|2rr|-7qu|u
+Canaman|PH||71|11x|9i5|u
+Canepina|IT||9o|39q|xz|t
+Cândido Rodrigues|BR||4w|-1n9|-3r3|t
+Cannara|IT||9o|3bg|yy|t
+Canyon Heights|CA||5b|3t3|-9hy|s
+Cannes-Écluse|FR||9k|3qc|8b|s
+Ganapi|PH||71|1bs|9ej|s|Canapi
+Çanakça|TR||94|36l|276|s
+Canan Norte|PH||71|187|9ao|s|Canan
+Canadian Lakes|US||2q|3d2|-6ky|s
+Candé|FR||9k|3o4|-2w|s
+Canomoy|PH||71|xs|9if|s
+Canjulao|PH||71|qu|9lf|r|Kanhulao
+Cantalupo|IT|Lombardy|9o|3im|oy|r
+Cantel|PH||71|z2|9dj|q|Cantil
+Cañadas de Obregón|MX||41|1mr|-7x9|q
+Canmaya Diot|PH||71|rm|9kp|q
+Cantoria|PH||71|1as|9ag|q
+Cansuje|PH||71|rk|9j2|o
+Candabong|PH||71|r1|9ly|o|Kandabong
+Cansolungon|PH||71|s7|9ho|o|Cansaloñgon
+Cangva|MM||7y|1pv|78o|o
+Canton|US|Missouri|2f|33h|-728|o
+Cànoves i Samalús|ES||9d|37s|6j|o|Cànoves
+Canoa|DO||4v|1ez|-5ho|o
+Kandabong|PH||71|qx|9hv|o|Candabong
+Candiis|PH||71|ox|9nq|n
+Can Peguera|ES||9d|373|61|n
+Candelaria|AR|San Luis|1u|-2h2|-52u|n
+Canowindra|AU||8l|-2l8|bgy|n
+Cantapoy|PH||71|qd|9og|n
+Cannon Air Force Base|US||2p|2nk|-7z0|m
+Canillas de Aceituno|ES||9d|2uf|-bc|m|Canillas de Aceituna
+Canisteo|US||48|39f|-5zl|m
+Candela|IT||9o|36a|174|m|Kandela
+Candelaria|PH|Western Visayas|71|vd|9gc|m
+Canroma|PH||71|ss|9hc|m
+Canadensis|US||48|36f|-5t1|m
+Canajoharie|US||48|3b7|-5r5|m
+Cañaveral|HN||56|15m|-6si|l
+Cañada de Caracheo|MX||41|1kl|-7sf|l
+Canterbury|US||48|3ce|-5it|l
+Canhandugan|PH||71|uy|9mm|l
+Cantalupa|IT||9o|3gv|kd|l|Chantaloba;Cantaluva
+Canaan|US|Maine|48|3gc|-5d8|l
+Canena|ES||9d|2xp|-9o|l
+Canale Monterano|IT||9o|392|xm|l
+Caney|US||2f|2ut|-7ei|l
+Candelaria Loxicha|MX||41|189|-7g1|l
+Cañete la Real|ES||9d|2un|-dy|l
+Canneto|IT|Sicily|9o|2yy|15k|l
+Canora|CA|Saskatchewan|4q|3zf|-7wj|l
+Canon Ridge|CA||2s|44u|-8qy|k
+Cantenay-Épinard|FR||9k|3o1|-1l|k
+Cañada de Madero|MX||41|1jh|-7o3|k
+Cantabria|MX||41|1j4|-7ul|k
+La Candelaria|MX|Chiapas|41|1ai|-750|k|Candelaria
+Canton|US|Pennsylvania|48|37q|-5xh|j
+Canyonville|US||3p|3b9|-9ig|j
+Canobbio|CH||a7|3jw|ox|j|Canöbi
+Canaries|LC||52|12m|-4pm|j
+Canonica|IT||9o|3iu|pt|j
+Carlos A. Madrazo|MX|Quintana Roo|2b|1fe|-6tx|i|Canos A. Madrazo
+Cancelo|CV||84|163|-1th|i
+Canet|FR||9k|3c3|7x|i
+Caniezza|IT||9o|3jd|x2|i
+Cana Chapetón|DO||4v|1ih|-5hy|i
+Jānān Lū|IR||7o|30o|3m8|h|Jānānlū;Cananlı
+Canach|LU||9c|3tt|hl|h|Kanech;Kanachas
+Canby|US|Minnesota|2f|3g7|-7fg|h
+Cannon Beach|US||3p|3jh|-9kc|h
+Canillá|GT||32|165|-70d|h
+Cantamayec|MX||3z|1kv|-6vg|h|Cautamayec
+Canudos do Vale|BR||4w|-29g|-414|h
+Cannole|IT||9o|33l|1f0|g|Kannula
+Cañada del Tabaco|MX||3x|1ob|-84n|g|Cañada del Tobaco
+Cañamero|ES||9d|31e|-ez|g|Cañamera
+Cantera de Villagrán|MX||41|1j4|-7nv|g
+Canton Valley|US||48|387|-5mh|g
+Canjáyar|ES||9d|2ut|-7m|g|Lanjavar
+Cannelton|US||3c|2xb|-6oy|f
+Candia Lomellina|IT||9o|3hi|nw|f
+Canaro|IT||9o|3gt|wg|f
+Candela|MX||44|22k|-7rn|f
+Cantin|FR||9k|3vr|8p|f
+Cantioc|MX||41|1by|-74p|e
+Cañada de Guadarrama|MX||41|1hn|-7p7|e
+La Cañada|MX|Hidalgo|41|1jk|-7no|e|Cañada
+Cañas|MX|Zacatecas|41|1ty|-7ys|e
+Cañada de Negros|MX||41|1m5|-7v4|e
+Cancon|FR||9k|3fq|1r|e|Cancor
+Candelero Arriba|PR||4m|1ea|-52w|d
+Canneto Pavese|IT||9o|3h5|ps|d
+Nueva Libertad|MX|Chiapas|41|17s|-744|d|Candelaria
+Cañada de Ramírez|MX||41|1ke|-7v8|d
+Cancellara|IT||9o|355|188|d
+Cantaron|FR||9k|3dk|kc|d
+Cantimpalos|ES||9d|363|-bk|d
+Cantiano|IT||9o|3cr|z3|d
+Cantalupo in Sabina|IT||9o|39j|z5|d
+Cannizzaro-Favara|IT||9o|2xq|10v|d
+Candillargues|FR||9k|3d6|bb|d
+Cantenac|FR||9k|3h3|-1t|d
+Cañaveral|ES||9d|32j|-hr|d
+Canove di Roana|IT||9o|3je|vv|d
+Candé-sur-Beuvron|FR||9k|3nx|3i|d
+Cana|US||48|2tn|-683|d
+Canungra|AU||8c|-25u|bth|d
+Maya Tecún I|MX||3z|1h7|-6zf|d|Mayatecun;Canasayab Uno
+Cantinella|IT||9o|326|19p|c
+Cantalapiedra|ES||9d|369|-ee|c
+Canada Bay|AU||8l|-2m2|bnr|c
+Canaan|US|Connecticut|48|38r|-5np|c
+Canyon Day|US||4i|2lu|-8hn|c
+Cañada|MX|Hidalgo|41|1k1|-7nj|c
+La Cantera|MX|Nayarit|3x|1nq|-836|c|Cantera;La Cantero
+Candia Canavese|IT||9o|3hx|lw|c|Candia
+Canton|US|Maine|48|3fg|-5fc|c
+Canton Beach|AU||8l|-2kf|boz|c
+Cantinela|MX||41|1ku|-7nl|b
+Cantón Rancho Nuevo|MX||3z|15u|-751|b|Rancho Nuevo
+Cando|US||2f|3qp|-7nl|b
+Cane Savannah|US||48|2m6|-67h|b
+Candiana|IT||9o|3hm|xb|b|Candianum
+Cantonement|LC||52|127|-4pe|b
+Căneşti|RO||8u|3i4|21w|b
+Kancabchén|MX||2b|1ir|-6uu|b|Cancabchén;Kankabchén;Kankab-Chén
+Canoe|CA||5b|3wz|-977|b
+Canavaccio|IT||9o|3dd|za|b
+Canewdon|GB||9b|3ze|22|b|Canewelon
+Candelù|IT||9o|3j1|yd|b
+Cantón las Delicias|MX||3z|15y|-74y|b
+Cano|PT||99|308|-lk|b
+Cantuna|MX||41|1tn|-7z2|b
+Cantalpino|ES||9d|361|-et|b
+Cañada de Luque|AR||1n|-2de|-4x0|b
+Cantón Villaflor|MX||41|15z|-74j|a
+Cangey|FR||9k|3nv|2y|a
+Candelario|ES||9d|345|-fy|a
+Candida|IT||9o|35q|15b|a
+Corralejo de Arriba|MX||41|1m2|-7rl|a|Canalejo
+Kannawurf|DE||8r|3yf|ux|a|Cannawurf
+Candioti|AR||1n|-2f8|-4or|a
+Candelaria Portezuelo|MX||41|1gw|-7je|a
+Canazei|IT||9o|3l4|wp|a|Cianacei
+Maya Tecún II|MX||3z|1h8|-6zf|a|Umarca;Canasayab Dos
+Cantalupo|IT|Piedmont|9o|3gn|nr|a
+Cancha Cancha|PE||3o|-11t|-5qf|a
+Cañada Rica|MX|Veracruz|41|1kg|-7hq|a
+Cannalonga|IT||9o|33s|16h|a
+Cannon Valley|AU||8c|-1kg|bgx|a
+Cano de San Isidro|MX||41|1mj|-7qe|a
+Candelaria|MX|Quintana Roo|2b|1iu|-6v4|a
+Canisy|FR||9k|3sc|-3a|a
+Cancelliera-Massimetta-Pantanelle|IT||9o|37u|z1|9
+Cañada Grande|MX|Hidalgo|41|1kf|-7n0|9
+Cañazas Abajo|PA||4g|mn|-688|9|Cañazas
+Cantera Sur|MX||41|1n5|-7tc|9
+Canton Industrial Area|US||48|313|-5wo|9
+Cañadón Seco|AR||1r|-3lc|-57t|9
+Confederación Nacional Campesina|MX||41|1pk|-7kn|9|Canoas
+Canale-San Cristoforo|IT||9o|3jw|v7|9
+Candelas|MX||41|1kf|-7r1|9
+Cannero Riviera|IT||9o|3ju|o4|9|Cannero
+Canet lo Roig|ES||9d|34n|o|9|Carnet lo Roig
+Candas|FR||9k|3v7|6a|9
+Canosa Sannita|IT||9o|39i|13r|9
+La Cañada|MX|Michoacán|41|1j4|-7u1|9|Canada
+Cañada de Yáñez|MX||41|1ol|-7rl|9
+Cantón de Guerrero|MX||41|1en|-7ra|9
+Lanurile|RO|Constanța County|8u|3ef|26u|9|Canurile
+Cantù Asnago|IT||9o|3j0|pa|9
+La Candelaria|MX|Hidalgo|41|1mk|-7lc|9|Candelaria
+Cannon Ball|US||2f|3kv|-7rf|9
+Canolo|IT||9o|3gg|tv|9
+Cañete|ES||9d|339|-4l|9
+Canchaque|PE||3o|-ey|-655|9|Canchaqui
+Candia|IT||9o|3d1|11h|9
+Cannelli|IT||9o|3al|122|9
+Cannonsburg|US||48|2yn|-6dq|9
+Cantón las Brisas|MX||41|163|-75b|9
+Canales|MX||41|1kp|-7x2|9
+La Candelaria|MX|Veracruz|41|1ex|-7c9|9|Candelaria
+Cañada Rica|MX|Veracruz|41|1lu|-7is|9
+Cañada|MX|San Luis Potosí|41|1pa|-7oj|8
+Candor|US|North Carolina|48|2q2|-65j|8
+Candide|IT||9o|3lf|yr|8|Comelico Superiore
+Cantón Santa Cruz la Unión|MX||41|166|-757|8
+Cañaveral|PA||4g|no|-67f|8
+Cañadas del Bosque|MX||41|1it|-7st|8
+Cantón Sinaí|MX||3z|168|-74g|8|Sinaí
+Candor|US|New York|48|39b|-5w2|8
+Cañajo|MX||41|1m1|-7ro|8
+Cañada de los Sauces|MX||41|1j3|-7t6|8
+Canon|US||48|2nf|-6ev|8
+Canal Flats|CA||2s|3vb|-8xq|8
+Canillas de Albaida|ES||9d|2ud|-b3|8
+Cannaiola|IT||9o|3b2|zb|8
+Canolal|MX||41|1ba|-750|8
+Cannigione|IT||9o|367|q8|8|Lu Canniscioni
+Canna|IT||9o|33d|19u|8
+Cancita|MX||41|1gm|-7w6|8
+Cañada Chica Antigua|MX||41|1kf|-7mv|8|Cañada Chica
+Canicab|MX||3z|1ly|-6wf|8
+Cantavieja|ES||9d|34l|-15|8
+Canchayllo|PE||3o|-ws|-5uc|7|Canchaillo;Chancayllo
+Cañada de Soto|MX||41|1mi|-7uu|7
+Çanakoluk|TR||94|2sh|2s6|7|Canakluk
+Cóndiro|MX||41|1kp|-7wv|7|Candiro
+Cantón Playa Grande|MX||41|160|-750|7|Playa Grande
+Canelas|MX||44|1xs|-87z|7
+Canton|US|Kansas|2f|2yn|-7in|7
+Canistro Inferiore|IT||9o|38i|119|7
+Canindo y Pedregal|MX||41|1jw|-7ql|7
+Canly|FR||9k|3t7|7j|7
+Canindo|MX||41|1je|-7w0|7
+Canale d'Agordo|IT||9o|3ks|x3|7
+Canning|CA||35|3hg|-4yz|7
+Cañada de San Ignacio|MX||41|1l3|-7wb|7
+Candelara|IT||9o|3du|zt|7
+Candelaria|MX|Hidalgo|41|1l4|-7nv|7|La Candelapa
+Cañada del Herrero|MX||41|1j2|-7t4|7
+Candelo|AU||8l|-2u5|bjt|7
+Cantarranas|MX||41|1hh|-7g6|7
+Cañada Chica|MX||41|1kp|-7ng|7
+Canyon City|US||3p|3fb|-96f|7
+Caniaba|AU||8l|-283|btk|7
+Cañada Verde|MX||41|1s4|-7su|7
+Canis|PE||3o|-sq|-5yd|7
+Canda|IT||9o|3h4|vy|7
+Las Cañitas|MX||41|1an|-763|7|Cañitas
+Canelos|PE||3o|-jm|-5sn|7
+Cannons Creek|AU||8j|-2y5|b7o|7
+Cañazas|PA|Panamá|4g|oq|-61a|7
+Cañada de Onofres|MX||41|1ic|-7nz|7
+Cándido Aguilar|MX||44|1ys|-7k6|7
+Canlia|RO||8u|3el|24h|7
+Canalello|IT||9o|2xm|18t|6
+Canadá|MX|Chiapas|41|16x|-747|6
+Canícuaro|MX||41|1hf|-7ts|6
+Canistota|US||2f|3d4|-7i9|6
+Canutillo|MX|Sinaloa|3x|219|-8dr|6
+Cañada del Agua|MX||41|1li|-7sc|6
+Cañada Grande|MX|San Luis Potosí|41|1p1|-7qt|6
+Cañamazal|MX||41|1fl|-7g1|6
+Cañita|PA||4g|pm|-636|6
+Cantón la Lima|MX||41|15r|-74r|6
+Cañamares|ES||9d|34d|-68|6
+Candresse|FR||9k|3df|-2q|6
+Caneyville|US||2f|2vy|-6o9|6
+Canveren|TR||94|2xw|32v|6
+Cañadas de Nanchititla|MX||41|1ge|-7r1|6
+Canton|US|Oklahoma|2f|2s5|-7lv|6
+Canutillo|MX|Durango|44|21a|-84p|6
+Canaples|FR||9k|3v2|66|6
+Canappeville|FR||9k|3sk|32|6
+Canove|IT||9o|3ge|mh|6
+Canoas|MX||41|1q6|-7uo|6
+Cañada Blanca|MX||41|1gn|-7h2|6
+Cañada de Guadalupe|MX||41|18w|-7hw|6
+Cañas|MX|Zacatecas|41|1t3|-7w3|6
+Cañizares|ES||9d|34k|-63|6
+Cañizal|ES||9d|36d|-ex|6
+Canfranc|ES||9d|3ao|-1h|6|Canfrán;Campfranc
+Çanakdüzü|TR||94|2yv|3ag|6|Kömüs
+Cannuzzo|IT||9o|3ew|y0|6
+Canals|FR||9k|3dt|3l|6
+Canneto|IT|Lazio|9o|397|ze|6
+Canezza|IT||9o|3k0|vc|6
+Canicosa de la Sierra|ES||9d|38i|-8g|6
+Canale Nuovo|IT||9o|3al|xp|6
+Cañada de la Yerbabuena|MX||41|1j7|-7t5|6
+Cancello|IT||9o|306|19n|6
+Cantón el Progreso|MX||41|162|-75d|6
+Canute|US||2f|2qe|-7ns|5
+Cañada Grande|MX|Chiapas|41|1aq|-750|5
+Canchabamba|PE||3o|-oo|-5y8|5
+Canacucho|MX||41|1i4|-7tx|5
+Canaan|US|New Hampshire|48|3d9|-5k1|5
+Canaseraga|US||48|39y|-602|5
+Canton Madonna|IT||9o|3i6|wp|5
+Cañada Hornillos|BO||3n|-1d5|-50y|5
+Cañada Larga|MX||41|1ia|-7he|5
+Canadohta Lake|US||48|385|-65r|5
+Cannectancourt|FR||9k|3to|82|5
+Cancabchén|MX||3z|1hn|-6wz|5
+Cancelli|IT||9o|3dd|vz|5
+Cantoira|IT||9o|3hy|ki|5
+Cañada Honda|MX||41|1p5|-7vw|5
+Caneva di Tolmezzo|IT||9o|3kx|104|5
+Cantley|GB||9b|422|47|5

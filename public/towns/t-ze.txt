@@ -1,0 +1,435 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zhengzhou|CN||7i|2ok|8rp|1fbd|Czengczou;Džengdžou;Trịnh Châu;Çengçou;Csengcsou;Ĝengĝoŭo;Çjençjou;Čeng-čou;Žengžou;Cencou;Džendžou;Zhengtsjou;Dâng-ciŭ;Chhiáng-chû-sṳ;Cwngcouh;Džengdžov;Cheng-chou
+Zarqa|JO||5t|2h3|2s9|647|Zarka;Zerka
+Genoa|IT||9o|3fc|ou|4h5|Genova;Genua;Janov;Ĝenovo;Gênes;Genuja;Cenova;Dženova;Zena;Xénova
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Zanjan|IR||7o|2tw|3qq|2rb|Zandžan;Zandschan;Zenjān
+Lhoka|CN||7i|298|72x|2q9|Nêdong;Zêtang
+Zeytinburnu|TR||94|35v|28a|261
+Zelenograd|RU||9i|4bi|2va|1nx|Selenograd
+Geneva|CH||a7|3kc|h3|1k1|Genf;Ginebra;Genève;Ženeva;Ĝenevo;Xenebra;Jenewa;Ginevra;Genava;Genewa;Genebra;Genevra;Cenevre;Jenwe;Janeva
+Rzeszów|PL||a5|3v0|1p4|1j3|Řešov;Resovia;Žešova;Rzeszůw;Žešuv;Jeşuv;Žešuvas;Rjeshov;Rzeshoo
+Zenica|BA||9r|3es|1dq|19o
+Zemun|RS||8q|3gl|1ko|178|Semlin;Zimony
+Zielona Góra|PL||a5|40a|173|ww|Grünberg;Zelona Gura;Prasia Elysiorum;Zelöna Gur;Zeliona Gura;Zelonô Góra;Zelona Qura;Gruenberg
+Zoetermeer|NL||8m|40m|ch|w6|Zeutermaer
+Zefta|EG||c|2db|2es|v1|Zifta
+Oued Zem|MA||d|2ja|-i9|sw
+Zelenodolsk|RU||9i|4b4|3qs|ro|Selenodolsk;Zelenodol'sk;Zelenodoljsk;Zielonodolsk;Yashiloʻzan;Zelendol’sk
+Zheleznogorsk|RU|Kursk Oblast|9i|41e|2q8|r7|Zjeleznogorsk;Železnogorsk;Željeznogorsk;Schelesnogorsk
+Zerakpur|IN||6t|2d6|5xe|qk|Zirakpur
+Zheleznogorsk|RU|Krasnoyarsk Krai|6u|4c9|77t|q2|Zjeleznogorsk;Železnogorsk;Željeznogorsk;Schelesnogorsk;Krasnojarsk-26;Krasnoyarsk-26;Krasnoyarsk-9
+Zarzis|TN||1e|2l2|uv|m1|Dzsardzsísz;Zerzis;Dżardżis;Zarzia
+Zelenogorsk|RU|Krasnoyarsk Krai|6u|4bv|7ar|ju|Selenogorsk;Zielenogorsk
+Zeist|NL||8m|40p|ej|gx|Seist
+Zehlendorf|DE||8r|41n|10t|f3
+Zabīd|YE||5r|13g|3cc|em|Zebid
+Zalău|RO||8u|3n4|1s1|ek|Zilah;Zaleu;Zelau
+Zepu|CN||7t|2y3|5yn|ed|Poskam;Posgam
+Zaranj|AF||6o|2e0|4ru|dv|Sarandsch;Zarandj;Zaranĝ;Zarandžas;Zerenc;Zarandż;Zaranas
+Zuénoula|CI||0|kn|-gt|c9|Zénoula;Zouénoula
+Zelenokumsk|RU||9i|3fd|3dw|bh|Selenokumsk;Zelenokoumsk;Zielenokumsk;Zelenokoemsk
+Zé Doca|BR||2w|-93|-3iu|bc
+Safed|IL||6n|2jk|2qm|ar|Sfat;Tsefat;Ẕefat;Safet;Tsfat;Cfat;Safad
+Zeghanghane|MA||d|2po|-8c|ac
+Zintan|LY||1d|2gp|y1|96|As-Sintan;Zentan
+Zentsujichó|JP||7q|2n3|abm|8s
+Zégoua|ML||5|t5|-fp|8s|Zeguwa;Zegua;Zékoua
+Zernograd|RU||9i|3m5|33z|85|Sernograd;Zernoqrad;Ziernograd
+Senftenberg|DE||8r|3z5|12w|82|Zły Komorow;Zenftenbergas
+Zeitz|DE||8r|3xt|xq|7v|Ceicas;Žitč
+Zeya|RU||7x|45a|9ti|7i|Zeja;Seja
+Zevenaar|NL||8m|409|gv|79
+Żagań|PL||a5|3ze|16j|75|Sagan;Zaháň;Saganum;Jaganʻ;Jaqan;Zegań
+Zelino|MK||9u|38m|1mi|72|Zhelinë;Željino
+Zee Kone|MM||7y|1b3|7ey|6x
+Zărnești|RO|Brașov County|8u|3ik|1yc|6x|Zernest
+Selouane|MA||d|2pf|-86|6k|Zelouan;Zelouane
+Zeribet el Oued|DZ||3|2oc|i3|6g|Zribet el Oued
+Lerma de Villada|MX||41|1hl|-7of|6b|Zerma de Villada
+Zekeriya|TR||94|36g|28n|6a
+Zedelgem|BE||8t|3y2|8q|64|Zillehem;Zillegem;Zedelghem
+Zemoura|DZ||3|2r8|24|62
+Zerbst|DE||8r|40d|xl|5v|Serbišćo;Servesta
+Zelenchukskaya|RU||9i|3dt|37j|5v|Zelentsjukskaja;Zelenchugskaya
+Zemst|BE||8t|3xm|ce|5v
+Sömmerda|DE||8r|3y4|uw|5t|Zemerda
+Senta|RS||8q|3jl|1js|5n|Zenta;Szénta;Szintarév
+Zele|BE||8t|3xv|b8|5m
+Zestaponi|GE||7n|38z|3bj|5m|Zestap'oni;Zetaponi;Zest’aponi;Zistafoni;Zestafoni;Sestafoni
+Adh Dhayd|AE||6c|1y9|4b8|5m|Dhaid;adh-Dhayd;Az-Zajd;Zeyd;Adh Dhaid;Dhayd;Al-Dhayd;Ihaid;Adh Dhēd
+Zinguédéssé|BF||1a|y1|-4e|5g|Zéguédessé
+Zeerust|ZA||o|-1yy|20g|5c
+Zeewolde|NL||8m|41d|fe|5a
+Saylac|SO||14|vj|3cr|56|Zeila;Saila;Zeilah;Zeyla;Séyla‘;Seylac;Zeylac;Zayla
+Zemio|CF||6|dz|1xu|4y
+Zeralda|DZ||3|2tz|7w|4w
+Zielonka|PL||a5|41a|1ms|4v|Zelonka
+Zé|BJ||1b|iu|6e|4p
+Zeramedine|TN||1e|2qu|tt|4o|Zéramdine;Zramedine
+Zéaglo|CI||0|i8|-lq|4f
+Zeulenroda-Triebes|DE||8r|3wp|xa|4d
+Zelenogradsk|RU||96|48o|1kw|4c|Cranz;Zielenogradsk;Zelenoqradsk;Krantas;Zelenogradszk;Kranz;Krants
+Zengfu|CN||7i|29z|897|4b
+Lubsko|PL||a5|3zu|15l|46|Žemŕ
+Zelenogorsk|RU|St. Petersburg|9i|4n8|2ai|46|Terijoki;Selenogorsk;Zielenogorsk;Teriyoki;Terioki
+Zehdenick|DE||8r|436|111|44
+Zephyrhills|US||48|26f|-6ca|42|Zephyr Hills
+Zemamra|MA||d|2im|-o6|41
+Zehak|IR||7o|2dt|4rc|3z|Zahak
+Ziro|IN||6t|24n|78o|3v|Zero
+Zegban|CI||0|ec|-fj|3u
+Zeulenroda|DE||8r|3wp|xa|3u
+Zábřeh|CZ||9m|3uk|1av|3o|Zābržeha;Zebreh
+Zelenodolsk|UA||98|3o3|2li|3j|Zelenodol’s’k;Zelënodol’sk
+Zetland|AU||8l|-2m7|bo1|3i
+Zeven|DE||8r|442|ps|3i
+Zérégbo|CI||0|jn|-lz|3f|Zérébo
+Senjān|IR||7o|2ml|3tu|3e|Fījān;Zenjān;Senījān;Fenjān
+Zella-Mehlis|DE||8r|3wq|tm|3e
+Zevio|IT||9o|3i1|ux|3c
+Zemetchino|RU||9i|44m|3ae|3b|Zemettsjino;Zametchino
+Zelzate|BE||8t|3y7|al|3b|Selzaete
+Zetel|DE||8r|44e|m5|39
+Żejtun|MT||9e|2rm|14d|37|Zeitūnas;Zeitun
+Sebba|BF||1a|11c|1h|35|Zebba
+Zellik|BE||8t|3xc|bv|31|Zellick
+Zindah Jān|AF||6o|2ne|4rj|2w|Zendeh Jān;Zindajān;Zenḏajān
+Zéga|CI||0|i2|-hu|2w
+Zeuthen|DE||8r|41f|11u|2t
+Zillah|LY||1d|27b|1cq|2s|Zella
+Zefyri|GR||8p|2xr|1tw|2r|Zefiri
+Ziębice|PL||a5|3wk|1bc|2l|Münsterberg;Zembice;Zembise;Ziembice
+Eisenstadt|AT||a2|3ox|19w|2k|Kismarton;Ferreum Castrum;Željezno;Eizenštate;Eizenštatas;Eisnstod;Železno;Ayzenştadt
+Sebnitz|DE||8r|3xm|13o|2j|Zebnica
+Zeydābād|IR||7o|2a8|4aa|2j|Zaidābād;Zeid Abad
+Az Zallāq|BH||60|20d|3w9|2j|Zallaq;Zallak;Al-Zallāk;Zellaq
+Zea|VE||2c|na|-5je|2f
+Žepče|BA||9r|3ff|1e4|2d
+Ẕīā’ābād|IR||7o|2rz|3td|2b|Ẕeyā’ābād;Zīya Abad;Ẕīāābād
+Zell|DE|Baden-Wurttemberg|8r|3r9|me|28
+Zelów|PL||a5|3yy|1he|28|Zelova
+Zékrézinssou|CI||0|jn|-bw|28|Zékézinssou
+Zell am See|AT||a2|3ng|zk|24|Zäi am See
+Zangilan|AZ||61|30k|3lm|23|Ikari;Kovsakan;Zengilan;Zangilak;Zangelan
+Zelenoborskiy|RU||9i|55p|2hw|20|Zelenoborskij;Ruhtinanlahti
+Zemer|IL||6n|2hw|2pc|1z
+Zuidhorn|NL||8m|43x|hs|1z|Zeidhornas;Súdhorn
+Zépréguhé|CI||0|j7|-hp|1y
+Zehkalūt|IR||7o|257|4ir|1w|Zeh Kalāt
+Zempoala|MX|Hidalgo|41|1jc|-7m3|1w
+Cintruénigo|ES||9d|38w|-50|1v|Zentroniko;Cintruénico
+Zermatt|CH||a7|3ju|lj|1u|Prât-Borgno;Pratobornum
+Želiezovce|SK||8s|3ph|1ft|1u|Zselíz;Željezovce
+Cents|LU||9c|3tu|h4|1t|Zens
+Zéribéri|CI||0|ey|-f4|1t
+Zéalé|CI||0|jf|-mo|1t
+Rzepin|PL||a5|41f|157|1t|Reppen;Rypin Lubuski;Žepina
+Železný Brod|CZ||9m|3wo|16d|1s|Eisenbrod
+Zellingen|DE||8r|3um|ra|1s
+Zell im Wiesental|DE||8r|3oj|lt|1q|Zell en el Valle del Wiese
+Zel’va|BY||9g|43n|1wx|1q|Zelwa;Zeĺva
+Delvinë|AL||9y|32z|1ju|1q|Delvina;Delvino;Zelvinou;Delvinon
+Zelo Buon Persico|IT||9o|3i5|q7|1p
+Zeil|DE||8r|3ux|tf|1o
+Zephyrhills West|US||48|26f|-6cd|1n
+Zeitlarn|DE||8r|3sc|xn|1m
+Zeithain|DE||8r|3yl|112|1m|Cytań
+Zero Branco|IT||9o|3io|xs|1m
+Željezno Polje|BA||9r|3fc|1du|1m
+Zelenivka|UA||98|3ls|2iq|1m
+Zelhem|NL||8m|40h|hn|1m
+Zetea|RO||8u|3ku|1yh|1l|Zetelaka
+Žebětín|CZ||9m|3sp|19t|1k|Schebetein
+Zeeland|US||2q|3ax|-6my|1k
+Zeelst|NL||8m|3yu|f2|1h
+Zephyrhills South|US||48|26d|-6cb|1h
+Zelarino|IT||9o|3ig|xx|1h
+Zelenogorskiy|RU||74|48v|6po|1g|Zelenogorskij
+Zi Byu Gon|MM||7y|1ai|7eg|1g|Zee Hpyu Kone;Zibyugon
+Zemeş|RO||8u|3le|21e|1g
+Cessange|LU||9c|3tr|gz|1f|Zessingen;Zéisseng;Cessingen
+Zebrzydowice|PL|Silesia|a5|3uk|1fp|1e
+Zebulon|US|North Carolina|48|2ri|-61j|1e
+Zee Hpyu Kone|MM||7y|207|7du|1e|Zeepyugone
+Zébra|CI||0|j8|-i5|1d
+Seifhennersdorf|DE||8r|3xh|14k|1d|Zaruž;Wodowe Hendrichecy;Zeifhennersdorfa
+Zeeland|NL||8m|3zm|fs|1c|Zélland;Zelant;Selant;Seelandt
+Zémongokaha|CI||0|qt|-fm|1b
+Zerarda|MA||d|2md|-c6|1a
+Zey|TR|Adıyaman Province|94|2wz|2y8|19|Zek
+Zey|TR|Adıyaman Province|94|2x1|2y9|19
+Zeltweg|AT||a2|3n2|14z|19
+Zehūkī|IR||7o|238|4ei|19
+Zell|DE|Rheinland-Pfalz|8r|3uz|jy|18
+Zevgolateió|GR||8p|2xd|1rc|18|Zevgolatio;Zevgolatíon
+Zerqan|AL||9y|37a|1kk|15
+Żelechów|PL||a5|3zx|1ou|15|Želehova;Żelechůw
+Zell am Main|DE||8r|3ud|rf|14
+Zégréboué|CI||0|ex|-gg|14
+Zelenikovo|MK|Zelenikovo|9u|38c|1nz|14|Zelenikovë
+Zafreh|IR||7o|2ia|3z2|14|Zefreh
+Żerniki|PL||a5|3y0|1b0|14
+Zélé|CI||0|kh|-l2|13|Zéré
+Zeebrugge|BE||8t|3yl|8u|13|Zeebruges;Seebrügge;Zeebrygge
+Zérédoukou|CI||0|gh|-e1|12
+Zelienople|US||48|35b|-66m|11
+Zébénou|CI||0|iy|-9x|10|Zobénou
+Zeyābar|IR||7o|2vz|3st|10|Ẕīā’ Bar;Ẕīābar;Zīyā’ Bar
+Zepperen|BE||8t|3x6|el|10
+Zesgehuchten|NL||8m|3yu|ff|z|Zes Gehuchten
+Zégo|CI||0|h2|-ef|z|Jégo
+Zérégouiné|CI||0|l0|-m5|y|Zérigouiné
+Żernica|PL||a5|3vl|1fq|y
+Zéhiri|CI||0|gq|-ej|y
+Žiežmariai|LT||a3|489|1vw|x|Žižmariai;Žeižmariai;Žiežmarių
+Shaami-Yurt|RU||9i|3c3|3i3|w|Sjaami-Jurt;Šaami-Jurt;Şaman-Yurt;Şawmin-Yurt;Zelënaja Rošča;Shama-Yurt;Zelenaya Rosha;Shaman-Yurt
+Zeleneč|CZ||9m|3v9|14q|w
+Zeytindağ|TR||94|309|237|w
+Zéo|CI||0|js|-kr|w
+Zebrzydowice|PL|Silesia|a5|3v6|1fe|w
+Zenzeli|RU||8o|3jk|3mp|v
+Demitz-Thumitz|DE||8r|3y2|13l|v|Zemicy-Tumicy
+Sarıgül|TR||94|31u|3ei|v|Sarıdana;Zengezor
+Zemlyansk|RU||9i|406|2zl|v|Zemljansk
+Zélésso|CI||0|t6|-i2|v|Zélisso
+Železniki|SI||9a|3ke|13d|v|Železnica
+Zelenets|RU||9i|4rw|3wz|u
+Zizers|CH||a7|3me|qk|u|Zezras;Zir;Zizuris
+Zetten|NL||8m|409|fv|u
+Zell unter Aichelberg|DE||8r|3r5|ql|u
+Zheleznodorozhnyy|RU|Kaliningrad Oblast|96|470|1n7|u|Gerdauen;Zjeleznodorozjnyj;Girdava;Železnodorožnas;Železnodorožnyj;Gerdauyen
+Zelem|BE||8t|3xm|e7|t
+Zembrzyce|PL||a5|3ua|1ig|t|Zambrzyce
+Zemmer|DE||8r|3um|im|t
+Zellwood|US||48|27t|-6ao|s
+Tsebrykove|UA||98|3mz|2bn|s|Hoffnungstal;Zebrykowed;Tsebrikovo
+Zergbeu|CI||0|ge|-ib|s
+Zeytinliova|TR||94|30b|24w|s
+Žehra|SK||8s|3s2|1lr|r|Schigra;Zsigra;Zsegra
+Zérifla|CI||0|lc|-gn|q
+Zelënyy Bor|RU||6u|44y|72i|q|Zelenyj Bor
+Zephyrhills North|US||48|26h|-6c9|q
+Zeleneč|SK||8s|3q9|1cw|q|Szelincs
+Zell|AT||a2|3o6|xr|q
+Seliatyn|UA||98|3oz|1y0|o|Seletin;Selyatyn;Zeletin;Selyatin
+Zegveld|NL||8m|40s|dg|n
+Zeguetiela|CI||0|r9|-k1|n|Dzeguéliéla
+Żelistrzewo|PL||a5|47w|1f6|n
+Zeltingen-Rachtig|DE||8r|3ur|ji|n
+Zeddam|NL||8m|406|he|n
+Zeilarn|DE||8r|3q6|zo|n
+Zevenhuizen|NL||8m|412|gm|n
+Zeiskam|DE||8r|3sr|mx|n
+Zemianska Olča|SK||8s|3ot|1dn|n|Nemesócsa
+Zeveneken|BE||8t|3xz|at|n|Zeveneeken
+Zelenoborsk|RU||7z|4qr|4xw|n
+Zeitlofs|DE||8r|3vm|qv|m
+Zevenhoven|NL||8m|40y|da|m
+Zelenogradskiy|RU||9i|4bu|2xc|m|Zelenogradskij
+Žebrák|CZ||9m|3uk|12m|l
+Zemné|SK||8s|3pa|1dz|l|Szimő
+Żerków|PL||a5|40n|1cs|l|Žerkova
+Zemen|BG||9v|3a0|1r7|l|Semen
+Zeda Sakara|GE||7n|392|3bn|l|Zeda-Sakara;Zeda Sak’ara
+Zérolé|CI||0|li|-kc|l
+Zelyony Gorod|RU||9i|4c2|3ef|k|Zielonyj Gorod;Zelönıy Gorod;Zeliony Gorod
+Khodosy|BY||9g|45t|2fg|k|Zelënaya Dubrava;Khodasy
+Zelena|UA||98|3qc|229|k
+Zéménéfla|CI|Sassandra-Marahoue|0|ig|-g7|k
+Stari Žednik|RS||8q|3jn|1ij|j|Stari Ĵednik;Žednik;Nagyfény
+Zell|CH||a7|3my|m0|j
+Zebrzydowice|PL|Lesser Poland|a5|3ul|1in|j
+Serby|PL||a5|3zl|18r|j|Zerbau
+Zelenyy Hay|UA|Chernivtsi|98|3pz|20t|j|Zélényï Haï;Leușenii Tăutului
+Zelenogorskoye|UA||9t|3h1|2nr|j|Zelenohirske
+Zeillern|AT||a2|3pp|155|j
+Želechovice nad Dřevnicí|CZ||9m|3sq|1da|j
+Zell im Fichtelgebirge|DE||8r|3va|wu|j|Zell
+Zebil|RO||8u|3gv|27x|j|Zbil
+Zerkegem|BE||8t|3y5|8j|i|Zerkeghem
+Zendeh Jān|IR||7o|2px|4i9|i
+Zeilberg|NL||8m|3yx|g6|i|Zijlberg
+Żebbuġ|MT||9e|2s7|13k|i|Zebudžas;Zebbuj
+Zevergem|BE||8t|3xm|a9|i|Seevergem;Zeevergem
+Zeigler|US||2f|2xa|-6vd|i
+Zell am Ziller|AT||a2|3n7|x0|i
+Zézra|CI||0|ld|-i3|i
+Zefreh|IR||7o|2je|419|i|Zifreh
+Zemianske Kostoľany|SK||8s|3r9|1fh|h
+Zee Pin Wea|MM||7y|1bg|7fa|h
+Zemlianky|UA||98|3pp|2xb|h|Zemlyanky;Zemlyanki
+Zepponami|IT||9o|3a5|xh|h
+Zernien|DE||8r|43f|u8|h
+Zerf|DE||8r|3ts|ik|h
+Zéménéfla|CI|Sassandra-Marahoue|0|i6|-g3|h|Zéménafla
+Železná Ruda|CZ||9m|3si|10s|g|Markt Eisenstein;Žolezná Ruda
+Zegge|NL||8m|3z8|ck|g
+Želetava|CZ||9m|3si|17j|g
+Zeccone|IT||9o|3hq|pk|g
+Quiamoloapan|MX||41|1e6|-7bw|g|Zelandia;Quiamolopan;Quiamolapan
+Zemunik Donji|HR||a6|3ej|16q|g
+Zédékan|CI||0|l7|-fh|g|Zodékan
+Zempoala|MX|Puebla|41|1jt|-7k8|g
+Zépo|CI||0|mk|-8x|f
+Zell-Arzberg|AT||a2|3p7|153|f
+Zębowice|PL||a5|3x0|1ey|f
+Żegocina|PL||a5|3ud|1kq|f
+Zelenohirske|UA||98|3p0|2bm|f
+Zenīvand|IR||7o|2u8|444|f|Zeynavand;Zīnevand
+Zébizékou|CI||0|hn|-gi|e|Zébèsékou
+Zerind|RO||8u|3li|1ns|e
+Zelo Surrigone|IT||9o|3i3|oz|e
+Żerniki Wrocławskie|PL||a5|3xr|1be|e
+Zegbao|CI||0|q7|-k7|e|Zégoao
+Zeytinbeli|TR||94|2u9|2ra|e
+Zekharya|IL||6n|2g3|2p2|e
+Zeyne|TR||94|2t8|2l5|e
+Zeri|IT||9o|3f7|r4|e|Silva Cerri
+Zeiselmauer|AT||a2|3q9|18y|e
+Zé|CI||0|kj|-kr|e
+Zengjia|CN||7i|2im|86q|e
+Zeppelinheim|DE||8r|3v0|nx|e
+Zeytinli|TR|Adana|94|2ur|2pl|d
+Zédéguhé|CI||0|i4|-iu|d
+Zégata|CI||0|je|-fj|d|Zegatta
+Zakīābād|IR||7o|2rj|3wr|d|Zekīābād;Zakkiābād
+Zézayo|CI||0|hp|-hc|d
+Želešice|CZ||9m|3sg|1a2|d
+Žemaičių Naumiestis|LT||a3|49s|1oa|d|Nowe Miasto
+Zébénin|CI||0|pw|-kc|d
+Żelazków|PL||a5|401|1eh|d
+Zermeghedo|IT||9o|3ic|vl|c
+Zevenbergschen Hoek|NL||8m|3zj|d0|c|Zevenbergschehoek
+Zegerscappel|FR||9k|3xc|6o|c
+Zell an der Pram|AT||a2|3q8|11v|c
+Dzithankov|AM||80|34j|3dq|c|Tsityangov;Bazirkhana;Zetyhankov;Dzithanqov;Olukhlu
+Zeynabī|IR||7o|22o|4bg|c|Zeynūbī
+Zebegény|HU||8v|3os|1gj|c
+Zequentic|MX||41|1ag|-75v|c
+Zetan|IL||6n|2gu|2ox|c|Zejtan;Zeitan;Setan
+Zenting|DE||8r|3rj|10u|c
+Zegata-Gouro|CI||0|iv|-gu|c
+Zeanuri|ES||9d|3bq|-7n|c|Ceánuri;Ceánuri Alto;Elexondo
+Zemo-Barghebi|GE||7n|3a9|37p|c|Zemo-Bargebi
+Zebulon|US|Georgia|48|2jy|-6ia|c
+Želiv|CZ||9m|3tl|16a|c
+Zétrozon|CI||0|jl|-jx|b
+Zellerndorf|AT||a2|3ra|18c|b
+Zelenyi Hai|UA|Mykolaiv|98|3me|2hk|b|Zelenyy Hay
+Zerfaliu|IT||9o|330|o7|b
+Zell-Markt|AT||a2|3p8|152|b
+Zétrud-Lumay|BE||8t|3x0|dl|b
+Tselafon|IL||6n|2gc|2p1|b|Kfar Uriyah Bet;Celafon;Tzelafon;Zelafon;Kefar Uriyah Bet
+Zéguéré|CI||0|rd|-gp|b
+Zéréguhé|CI||0|hv|-i6|b
+Zelocotitlán|MX||41|1ch|-7nb|b|Zolocotitlán
+Zemo Gulripshi|GE||7n|3bb|36a|b|Verkhniy Gul’ripsh;Zemo-Gul’ripshi
+Železnice|CZ||9m|3w7|16q|b
+Sesfontein|NA||1f|-1h4|11u|b|Zessfontein;Zesfontein
+Zenson di Piave|IT||9o|3iw|yp|b|Zenzon di Piave
+Zédé-N'Drébo|CI||0|kv|-fb|b
+Zernez|CH||a7|3lq|s1|b|Gumpus de Ernece;Zernes
+Zemo Eshera|GE||7n|3bn|35k|b
+Zetaquira|CO||27|eo|-5n9|a
+Zemplínska Široká|SK||8s|3r9|1p2|a
+Žeravice|CZ||9m|3s6|1bw|a
+Zeddiani|IT||9o|333|nw|a
+Zéitouo|CI||0|if|-n8|a
+Zena|US||48|38q|-5ps|a
+Zerzavatçı|TR||94|369|290|a
+Zeme|IT||9o|3hk|o3|a
+Zernovoye|UA|Crimea|9t|3hw|2ns|a
+Lautenbachzell|FR||9k|3p6|jv|a|Zell
+Zelenikovo|MK|Zelenikovo|9u|38b|1o0|a
+Zencani|RO||8u|3md|1yd|a|Zenconi;Zancani
+Zyalyony Bor|BY||9g|461|274|a|Zelënyy Bor
+Zeihen|CH||a7|3nw|mh|a
+Zenderen|NL||8m|41c|io|a
+Zéhouo|CI||0|ic|-g6|a
+Zegelsem|BE||8t|3x6|ac|a|Segelsem
+Zernovoye|UA|Crimea|9t|3ht|2m2|9
+Zelene|UA|Crimea|9t|3ib|2oh|9|Zelënoye
+Zemo P’shap’i|GE||7n|3b5|36b|9
+Zesso|CI||0|s8|-in|9
+Zelenyi Hai|UA|Donetsk|98|3pj|2tt|9|Zelenyy Hay;Zelenyy Gay
+Zéngouanou|CI||0|lm|-ez|9
+Zelenyy Yar|UA||98|3oh|2e4|9|Zélényï Yar
+Zettlitz|DE||8r|3xv|zo|9
+Zeveren|BE||8t|3xo|9q|9
+Zéré|CI||0|m9|-8e|9
+Zerbino|IT||9o|3id|s9|9
+Zetodigba|CI||0|j7|-i9|9
+Zemitz|DE||8r|45y|128|9
+Zèdè-Bossi|CI||0|kw|-f6|9
+Zerbolò|IT||9o|3hl|p1|9
+Ženklava|CZ||9m|3to|1eb|9|Senftleben
+Zeleniv|UA||98|3qc|1z8|8|Zeleneu
+Zelenyi Yar|UA||98|3ml|2g7|8|Zelenyy Yar
+Zerman|IT||9o|3im|y3|8
+Zelene|UA|Ivano-Frankivsk|98|3ph|1wr|8|Zelena;Zelënaya
+Zechin|DE||8r|425|145|8
+Želeč|CZ|South Bohemian Region|9m|3t0|14p|8|Zelč
+Zemianske Podhradie|SK||8s|3ro|1dj|8
+Zevgarákion|GR||8p|2z2|1nh|8|Zevgaraki
+Zellwiller|FR||9k|3qg|ku|8
+Žeranovice|CZ||9m|3sx|1cw|8
+Zeppernick|DE||8r|40t|xe|8
+Zeehan|AU||8g|-38c|b7q|8|Zeehhan
+Zempoala|MX|Guanajuato|41|1kg|-7ss|7
+Zeil-Pöllau|AT||a2|3ng|180|7
+Zehna|DE||8r|458|xq|7
+Zedlitz|DE||8r|3x6|xf|7
+Zeyen|NL||8m|43d|i7|7|Zeijen;Zeien
+Sub Cetate|RO||8u|3l0|1yj|7|Zetevàralja;Subcetate
+San Andrés Zabache|MX||41|1a4|-7h2|7|Zabache;Zegache
+Zemendorf|AT||a2|3oo|19p|7|Zemenye;Cemindrof
+Zeminiana|IT||9o|3ih|xe|7
+Zyembin|BY||9g|470|26e|7|Zembin;Ziembin
+Zeleni Koshary|UA||98|3p0|2do|7|Zéléni Kochary
+Davit Bek|AM||80|318|3l5|7|Zeyva;David-Bek
+Zegujani|RO||8u|3gh|1ro|7
+Zemo-Machara|GE||7n|3bh|36f|7
+Zevekote|BE||8t|3y2|84|7|Zevecote
+Zéli|GR||8p|2ze|1rj|7
+Zemlyanichnoye|UA||9t|3gx|2os|7
+Zeals|GB||9b|3xx|-6f|7|Zeal
+Zelenyi Hai|UA|Zaporizhzhia|98|3mm|2of|6|Zelenyy Hay;Zeleny Gay;Zelënyy Gay
+Zell am Moos|AT||a2|3p2|110|6
+Bereketli|TR||94|2xy|32m|6|Zengetîl
+Zernovoye|UA|Crimea|9t|3ir|2mu|6
+Zeil|AT||a2|3na|17x|6
+Zelen|UA||98|3zl|20t|6|Nyvky;Zelin
+Zemo Orozmani|GE||7n|36q|3eq|6|Zemo-Oruzmani;Zemo Orazmani;Zemo Orzmani
+Zellach|AT||a2|3m6|159|6
+Zelene|UA|Kirovohrad|98|3qm|2ku|6|Zelënoye
+Zeytinli|TR|Gaziantep|94|2un|2vy|6
+Santa Cruz Zenzontepec|MX||41|19x|-7iu|6|Zenzontepec
+Danalı|TR||94|2x8|36m|6|Zercil;Zerdzhil’
+Zelków|PL||a5|3vc|1j0|6
+Žehušice|CZ||9m|3ut|16t|6
+Zelyonaya Niva|UA||9t|3jm|2m5|6
+Želeč|CZ|Olomouc Region|9m|3t3|1bi|6
+Zederhaus|AT||a2|3n0|11j|6
+Zervești|RO||8u|3i5|1px|6
+Zelene Pole|UA||98|3ov|2tq|6|Zelënoye Pole
+Zelene|UA|Donetsk|98|3p7|2y1|6|Zelenoye
+Zăgujeni|RO||8u|3ic|1pk|6|Zegujani
+Zelenyy Hay|UA|Mykolaiv|98|3n8|2fp|6|Zelënyy Gay;Zeleny Gay
+Zephyr Cove|US||3p|30c|-998|6
+Željne|SI||9a|3iu|15d|6|Sela
+Želatovice|CZ||9m|3tc|1cn|6
+Semmering|AT||a2|3ob|17z|5|Zemeringas
+Zehetner|AT||a2|3p8|13o|5
+Zearing|US||2f|394|-776|5
+Zeglingen|CH||a7|3nq|lz|5
+Žerjavinec|HR||a6|3jf|18x|5
+Süleymanlı|TR|Kahramanmaraş|94|2x8|2ub|5|Yeni Şehir;Zeytün;Zeïtoun;Zeitun
+Želetice|CZ||9m|3s5|1b9|5
+Değirmenönü|TR||94|2z8|31u|5|Zerteriç
+Zelenotropynske|UA||98|3kj|2i5|5|Zelenotropyns’ke
+Zeytinoba|TR||94|2u0|2t8|5|Şarklı
+Zeldam|NL||8m|416|if|5
+Zerrenthin|DE||8r|44l|135|5
+Zephyr|CA||59|3es|-647|5
+Zepelin|DE||8r|45j|xh|5

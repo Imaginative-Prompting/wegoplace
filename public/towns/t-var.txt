@@ -1,0 +1,304 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Warsaw|PL||a5|413|1md|d4t|Warszawa;Varsovie;Warschau;Varsovia;Varsovio;Varšava;Varssavi;Varsova;Vársá;Varsó;Varsjá;Varsavia;Varšuva;Varsavja;Varshava;Barsobia;Warskou;Warszaw
+Varanasi|IN||6t|1yc|6el|8zg|Benarés;Waranasi;Kashi;Banares;Kāsi;Varanassi
+Warangal|IN||6t|1e0|652|5fq|Varangal;Varangalas
+Varna|BG||9v|3c2|25j|2gj|Warna;Odessos;Odessus
+Várzea Grande|BR|Mato Grosso|2k|-17h|-4bx|2bd
+Varāmīn|IR||7o|2q4|3zh|1qo|Verāmin
+Oradea|RO||8u|3mp|1ow|1ev|Velký Varadín;Nagyvárad;Varadinum;Oradä;Großwardein;Oradia;Oradja;Veliki Varadin;Wardein;Várad;Varadija;Varat;Gran Varadino;Groysvardeyn
+Warrington|GB||9b|44b|-76|1bv|Varingtono
+Ouargla|DZ||3|2gr|et|1b7|Warkala;Uargla;Varcla;Quargla
+Varginha|BR||4w|-1nv|-3i7|11x
+Huaraz|PE||3o|-qh|-5zd|x0|Varas;Waras;Huarasas;Huaras
+Várzea Paulista|BR||4w|-1sh|-3m3|w6
+Wardha|IN||6t|1lm|62c|vm|Vardhá
+Varese|IT||9o|3ja|oj|me|Baretium;Varèis
+Vargem Grande|BR||2w|-9u|-3e0|fw
+Vargem Grande Paulista|BR||4w|-1tk|-3mn|e0
+Varangaon|IN||6t|1me|5uv|c9
+Varkala|IN||6t|o9|5x4|c1
+Varash|UA||98|3ym|1zu|bo|Kuznetsovs’k;Varaš;Warasch;Kuznetsovsk
+Várzea Alegre|BR|Ceará|2w|-iv|-316|bd
+Vargem Grande do Sul|BR||4w|-1on|-3m9|b5
+Vršac|RS||8q|3hc|1n6|a3|Versec;Vârșeț;Versecz
+Varaždin|HR||a6|3km|19e|a2|Varasd;Varasdino;Warasdin;Varasdinum;Varasdin;Varazhdin;Waraschdin
+Waregem|BE||8t|3xd|9j|9z|Woaregem;Varegemas;Waereghem
+Varberg|SE||9w|4en|y1|9i|Varburgum;Varburg
+Várzea da Palma|BR||4w|-1cw|-3g9|9d
+Warrnambool|AU||8j|-2ym|azt|95|Varnambulas;Varnambula;Warnambool
+Vartiokylä|FI||92|4na|1xq|8e|Botby
+Varappuzha|IN||6t|s0|5vv|7g
+Varel|DE||8r|44c|mm|70|Foarel
+Orhei|MD||8x|3nn|283|6x|Orhėjus;Orgiejów;Várhely;Őrhely;Orxey
+Warburg|DE||8r|3z1|pf|6r|Varburgum Vestphalorum;Waberich
+Várzea Alegre|BR|Ceará|2w|-ev|-346|62
+Waren|DE||8r|44o|z8|5z|Vārene pie Mīrica
+Várpalota|HU||8v|3n4|1ee|5x
+Varennes|CA||59|3iw|-5nz|5u
+Vranov nad Topľou|SK||8s|3rt|1o8|5q|Varannó;Vranov nad Toplyou;Vranovas prie Toplios;Vranova pie Topļas;Vranov na Toploj
+Varadero|CU||36|1sc|-69o|5k|Varaderas;Veradero
+Varkaus|FI||92|4t4|25f|5g|Varghuz
+Vargem Alta|BR||4w|-1lf|-35x|5g
+Värnamo|SE||9w|4ev|130|5b|Vernamu
+Varzelândia|BR||4w|-17m|-3eb|58
+Varnāmkhvāst|IR||7o|2hw|3yq|57|Varnamkhast;Varnām Khavāst
+Varto|TR||94|30t|375|57
+Varjota|BR||2w|-bn|-34g|51
+Varam|IN||6t|x2|5th|4q
+Vári|GR|Attica|8p|2x3|1u4|4n
+Lidzbark Warmiński|PL||a5|46d|1l6|4l|Heilsberg;Lidzbarka Varmiņska;Varmės Lidzbarkas;Kheyl'sberg;Heilsburg
+Vāniyamkulam|IN||6t|ty|5w1|4h|Vāriyamkulam
+Varsity Lakes|AU||8c|-261|bu5|44
+Varnsdorf|CZ||9m|3xf|14m|42|Warnsdorf;Warnoćicy
+Varenikovskaya|RU||9i|3hc|2wk|40|Varenikovskaja;Warenikowskaja
+Varde|DK||8y|4ai|nk|3w
+Várzea da Roça|BR||20|-w9|-33i|3u
+Várzea Nova|BR||20|-va|-35r|3q
+Varedo|IT||9o|3io|pg|3k
+Varzaneh|IR||7o|2l6|3wa|3j|Varzineh
+Vardenis|AM|Gegharkunik|80|33m|3j1|3j|Basargech’ar;Wardenis;Vasakashen;Geghamabak
+Varsak|TR||94|2ur|2dc|3f
+Varsity|CA||2s|3xx|-8t4|3c
+Varazze|IT||9o|3f8|nw|37|Väze
+Vartej|IN||6t|1oe|5k7|36
+Varshava|UA||98|3ro|2wh|34|Varshavskyi;Warszawa
+Warka|PL||a5|3zu|1mv|32|Varka
+Varsoli|IN||6t|1fv|5mf|32
+Varre-Sai|BR||4w|-1m5|-38b|2y
+Vargem|BR|São Paulo|4w|-1rl|-3kx|2x
+Varennes-Vauzelles|FR||9k|3mm|8q|2x
+Vårby|SE||9w|4kn|1do|2t
+Varzedo|BR||20|-101|-31f|2r
+Varna|RU||7z|44a|4pd|2r
+Vargashi|RU||7z|49s|52x|2p|Vargasji
+Vareli|IN||6t|1mu|5mn|2i
+Virgínia|BR||4w|-1q1|-3h9|2h|Varginha
+Varissuo|FI||92|4nx|1q4|2g|Kråkkärret
+Pardanjān|IR||7o|2hl|3wk|2f|Vardanjān;Pardenjān;Pordanjān
+Varjão|BR|Federal District|4w|-17n|-3p0|2e
+Varadarājampettai|IN||6t|vk|64m|2b
+Vaiano|IT||9o|3e5|uw|2a|Varianum;Vaianu
+Várzea do Poço|BR||20|-w1|-340|29
+Varėna|LT||a3|46m|1wa|27|Variena
+Vardenik|AM||80|33i|3i7|25
+Varva|UA||98|3wa|2iw|25
+Varshets|BG||9v|3bz|1sp|23|Vrshets;Vershets;Varshetz;Vŭrshets
+Navasota|US||2f|2cf|-7ex|23|város az USA Texas államában
+Vareš|BA||9r|3eo|1ex|20
+Vărbilău|RO||8u|3hi|203|1z
+Varjão de Minas|BR||4w|-1f2|-3jv|1y
+Varamballi|IN||6t|114|5ro|1w
+Oğuz|AZ||61|363|3nv|1u|Vartashen;Oʻguz;Vartaşen;Bartashen;Vartashin
+Varoška Rijeka|BA||9r|3h9|18i|1u
+Vărăşti|RO|Giurgiu County|8u|3ew|20x|1s
+Vartholomió|GR||8p|2x6|1mx|1p|Vartholomi
+Varphalia|IN||6t|1on|5q6|1p
+Variaş|RO||8u|3ju|1m7|1p|Varjas
+Vartioharju|FI||92|4na|1xr|1o|Botbyåsen
+Vargem Alegre|BR||4w|-1ih|-39i|1m
+Voronovo|BY||9g|46f|1yb|1j|Voranava;Varanavas;Voronuv;Voronov
+Várzea|CV||84|15g|-1tb|1j
+Varsseveld|NL||8m|40a|hy|1j|Faassefeld;Varseveld
+Varca|IN||6t|16b|5pe|1i
+Varallo|IT||9o|3j9|my|1i
+Vårgårda|SE||9w|4h8|zl|1i
+Varazqān|IR||7o|2zg|3k3|1h|Verazqān;Varezqān;Verazgan;Varzaqān
+Várzea|BR|Rio Grande do Norte|2w|-hn|-2qa|1g
+Varsenare|BE||8t|3y7|8q|1f|Vassenoare;Varssenaere
+Várzea Branca|BR||2w|-po|-3bc|1f
+Vardane|RU||9i|3dh|31v|1e
+Vargön|SE||9w|4i4|yf|1e|Varagons;Varagön
+Vār|IR||7o|2z1|3gh|1c
+Vargem Grande do Rio Pardo|BR||4w|-16s|-39j|1a
+Varāvī|IR||7o|24b|43d|1a|Vorāvī;Waravi
+Vargem Bonita|BR|Santa Catarina|4w|-231|-3zq|1a
+Varallo Pombia|IT||9o|3iv|nz|19
+Várzea Grande|BR|Piauí|2w|-i6|-39d|19
+Vardanjān|IR||7o|2i7|3x1|19|Vardangūn;Vardaniān
+Varangéville|FR||9k|3r4|hk|17
+Varennes-sur-Allier|FR||9k|3kn|9g|17|Varenas;Varennae super Elaverim;Varennes
+Vara|SE||9w|4hu|zz|15|Wara
+Varniţa|MD||8x|3m7|29v|14|Varnitsa
+Varsity View|CA|Saskatchewan|4q|40s|-888|13
+Sânmartin|RO|Bihor County|8u|3ml|1p1|13|Váradszentmárton;Sântmartin;Sînmartin
+Varín|SK||8s|3so|1gf|13
+Vorukh|TJ||6d|32p|5g2|12|Wārōx;Varukh
+Varbitsa|BG||9v|3bg|21z|12|Vrbitsa;Vŭrbitsa
+Stráž pod Ralskem|CZ||9m|3wu|154|12|Wartenberg am Rollberg;Vartenberk;Vartemberk;Warttenberg am Rollberg
+Varjão|BR|Goiás|4w|-1bd|-3tv|11
+Jrashen|AM|Lori|80|35b|3er|11|Vortnav;Vordnav;Vardnav;Vartanli
+Várda|GR||8p|2xn|1nd|11|Várdha
+Vargeão|BR||4w|-22m|-40v|10
+Finiş|RO||8u|3lj|1q0|10|Várasfenes;Fenis
+Moldoveneşti|RO||8u|3l6|1tp|10|Várfalva;Varfalău
+Varennes-sur-Seine|FR||9k|3qd|85|z
+Warin|DE||8r|45g|wj|z|Vārīne
+Varades|FR||9k|3nn|-2v|z|Gwared
+Varhaug|NO||9j|4iu|fq|x
+Varnavino|RU||9i|4fg|3h9|x
+Varlamovo|RU||9p|43r|3qi|x
+Vârfurile|RO||8u|3ko|1qk|w|Vîrfurile
+Vârtoapele de Jos|RO||8u|3eq|1y0|w|Vârtoapele-de-Jos;Vîrtoapele de Jos
+Vyartsilya|RU||9i|4sq|2d9|v|Värtsilä;Vjartsilja
+Vartiovuori|FI||92|4nx|1pw|v|Vårdberget;II kaupunginosa;II stadsdel;II District
+Varpaisjärvi|FI||92|4w0|254|u
+Vark’etili|GE||7n|37u|3go|u|Varketili
+Vary|UA||98|3po|1r3|u|Mezővári;Wary;Vari
+Varjavī|IR||7o|2vp|3kg|u|Varjovī
+Warm Springs|US|Oregon|3p|3gc|-9cv|t|Varmaj Fontoj;Warmsprings;Warm Spring;Warmspring
+Varilhes|FR||9k|3bl|4j|t|Varilhas
+Vardadzor|AM||80|33n|3hj|s
+Vargas|PH||71|17b|9ap|s
+Varch’a|GE||7n|3b0|36a|r|Varcha;Varche
+Várzea|BR|Paraíba|2w|-it|-2ur|r
+Kliucharky|UA||98|3qi|1qw|q|Kljutsjarky;Kljuĉarki;Várkulcsa;Ključarky;Kluczarki;Kliucearkî;Kliuçarky;Klyucharky;Klyucharki
+Vargem|BR|Santa Catarina|4w|-24d|-3xl|q
+Varsity View|CA|Manitoba|5d|3ui|-7i6|p
+Vargas|MX||41|1hf|-7fk|p
+Vårsta|SE||9w|4kd|1dg|p
+Varano Borghi|IT||9o|3j5|o6|o
+Varago|IT||9o|3j2|y7|o
+Vârciorog|RO||8u|3mh|1py|n|Vércsorog;Vîrciorog
+Varzi|IT||9o|3gi|pk|n
+Varisto|FI||92|4nf|1wy|n
+Városföld|HU||8v|3m2|1iw|m
+Varapodio|IT||9o|2yg|18e|m
+Vârlezi|RO||8u|3ji|25d|m|Vîrlezi
+Vargem Bonita|BR|Minas Gerais|4w|-1kh|-3kt|m
+Varzob|TJ||6d|2zp|5b6|m
+Vârfu Câmpului|RO||8u|3ox|215|l|Vârful-Câmpului;Vîrfu Cîmpului
+Vârfuri|RO||8u|3ha|1yw|l|Vîrfuri
+Vărădia de Mureş|RO||8u|3ju|1pj|l
+Varnville|US||48|2j9|-698|l
+Varennes-le-Grand|FR||9k|3ls|dj|l
+Varois-et-Chaignot|FR||9k|3nj|e9|k
+Alapars|AM||80|34a|3fz|k|Vardanavan
+Varennes-Jarcy|FR||9k|3r8|74|k
+El Varadero|ES||9d|2u1|-9s|k|Varadero
+Varreddes|FR||9k|3s4|85|k
+Vărgata|RO||8u|3ld|1ww|k
+Varetz|FR||9k|3hj|41|k|Varets
+Varennes-sur-Loire|FR||9k|3n8|5|k
+Varybóbi|GR||8p|2xx|1u3|k|Varympompi
+Varvarivka|UA||98|3tm|2ps|j|Varvarovka
+Várzea|PT||99|37c|-nu|j
+Vârghiş|RO||8u|3k5|1yx|j|Vargyas;Vîrghiş
+Vardø|NO||9j|5fh|2ef|j|Vuoreija;Várggát;Vuorea
+Varna|IT||9o|3lu|wc|i|Vahrn;Vahrn bei Brixen
+Varzo|IT||9o|3kd|mx|i
+Vârteju|RO||8u|3f8|207|i|Vîrteju;Vârtej
+Vârtop|RO||8u|3et|1sv|i
+Varnell|US||48|2oy|-6k1|i
+Varnávas|GR||8p|2y6|1ug|i
+Varāyneh|IR||7o|2mo|3qh|h|Var Āyneh;Varāmīneh;Varāyeneh;Varā’īneh
+Varin|KH||78|12j|80f|h
+Vare Chiquichuca|MX||41|1hs|-7qc|h|Vara Chiquichuca
+Varaždin Breg|HR||a6|3kf|19i|h
+Vars|FR|New Aquitaine|9k|3j4|c|g
+Varakļāni|LV||9n|4d9|22b|g|Warkland;Warklany;Varaklyany
+Varaždinske Toplice|HR||a6|3kd|19m|g|Varasdfürdő
+Varna|RS||8q|3g4|1il|f
+Vârtoapele de Sus|RO||8u|3er|1y0|f|Vârtoapele-de-Sus;Vîrtoapele de Sus
+Varser|AM||80|34o|3gr|f
+Vărşag|RO||8u|3l8|1yf|f|Vîrşag
+Vărădia|RO||8u|3h8|1nv|f|Argedauon
+Varzy|FR||9k|3nk|9f|f
+Vartykivtsi|UA||98|3qj|22f|f|Varticăuți
+Varbo|CI||0|q8|-7v|f
+Văratec|RO|Suceava|8u|3oc|21c|e
+Varano De' Melegari|IT||9o|3g5|rt|e|Varano de'Melegari
+Vărbila|RO||8u|3h5|20s|e
+Varrel|DE||8r|426|o9|e
+Värttö|FI||92|50m|1yw|e
+Valloire|FR||9k|3hh|hv|d|Vârouère
+Varalé|CI||0|qu|-94|d|Viralé
+Vardaman|US||2f|2m4|-6vq|d
+Vărăști|RO|Călărași County|8u|3et|22x|d
+Vári|GR|South Aegean|8p|2vw|1xb|d
+Varengeville-sur-Mer|FR||9k|3um|2r|c
+Varrains|FR||9k|3n6|-6|c
+Varen|CH||a7|3ko|l5|c
+Vardanashen|AM||80|339|3er|b
+Vareiá|GR||8p|30k|21u|b|Varyiá;Variá
+Varmahang|IR||7o|2oo|3m9|b
+Vârciorova|RO||8u|3hx|1q3|b|Vîrciorova
+Varnița|RO|Prahova|8u|3gh|203|b
+Senoji Varėna|LT||a3|46p|1w7|b|Varėna I;Varėna;Varėna 1;Varėnas
+Vardablur|AM||80|35t|3fn|b|Vartablur;Vartaplur
+Varvásaina|GR||8p|2wn|1nq|a
+Varzeqān|IR||7o|2wn|3no|a|Varzaqān
+Varbó|HU||8v|3ps|1la|a
+Varennes-Saint-Sauveur|FR||9k|3l4|ek|a|Varenne-Saint-Sauveur
+Varshavskyi Masyv|UA||98|3wa|2ci|a
+Varqestān|IR||7o|2qc|3s5|a
+Varkā Deh|IR||7o|2th|415|a
+Varniai|LT||a3|4au|1q5|a|Varnē;Varņi;Varnių
+Varages|FR||9k|3d4|gk|a|Varatge
+Vrvari|HR||a6|3hm|11w|a|Varvari
+Varsberg|FR||9k|3sl|if|9
+Varnakesh|IR||7o|2wm|3nt|9
+Varekil|SE||9w|4hg|wj|9
+Variano|IT||9o|3jv|10f|9
+Varco Notar Ercole|IT||9o|343|17c|9
+Varik|NL||8m|3zy|ex|9
+Variazh|UA||98|3wb|1ux|9|Waręż;Varjazj;Warjasch;Varyazh;Vareaj;Variaj
+Vărșand|RO||8u|3li|1na|9
+Varatec|RO|Neamț County|8u|3my|210|9|Varatic
+Varaville|FR||9k|3st|-g|9
+Varanges|FR||9k|3n7|eg|8
+Vartāqmīsh|IR||7o|2qt|3r3|8|Owrtāq Mīsh
+Varlaam|RO|Buzău County|8u|3if|21g|8
+Vardenut|AM||80|34f|3f9|8
+Varillal|PE||3o|-as|-5nq|8
+Varen|FR||9k|3eo|59|8
+Varena|IT||9o|3kn|vu|8
+Vardīj|IR||7o|2rh|3y6|8
+Väröbacka|SE||9w|4f1|xu|8
+Varenna|IT||9o|3jt|ps|8
+Varennes-lès-Narcy|FR||9k|3n7|8i|8
+Varcheh|IR||7o|2lu|3up|8|Warcheh
+Varī-ye Kalak|IR||7o|2kq|3l3|7
+Varès|FR||9k|3ff|10|7
+Varzay|FR||9k|3iz|-21|7
+Warloy-Baillon|FR||9k|3ux|70|7|Varloé-Baillon
+Vargeh Sarān|IR||7o|2y2|3pb|7|Dargah Sarān;Dargeh Sarān;Varkeh Sarān
+Varisella|IT||9o|3hl|ks|7
+Varennes-en-Argonne|FR||9k|3sr|e0|7|Varennes
+Varmo|IT||9o|3jh|103|7|Vil di Var
+Varennes-sur-Fouzon|FR||9k|3n5|4h|7
+Varacieux|FR||9k|3hn|eu|7
+Varyushyne|UA||98|3nj|2fu|7|Variouchyné
+Varas|IR||7o|2su|3vo|7
+Vars|FR|Provence-Alpes-Côte d'Azur|9k|3fw|il|7
+Vârț|RO||8u|3gv|1s9|7|Vîrţ
+Varnhem|SE||9w|4i6|11x|7
+Varviz|RO||8u|3n6|1qc|7
+Vardakar|AM||80|34y|3e0|6|Tomartash;Tomardash
+Varennes-sous-Dun|FR||9k|3kl|c1|6
+Väring|SE||9w|4ii|12t|6
+Vârvor|RO||8u|3ev|1tm|6|Vîrvor
+Vara de Rey|ES||9d|31j|-6d|6
+Varlaam|RO|Giurgiu County|8u|3ew|20h|6|Varlam
+Vara Alta|MX||41|1mc|-7jb|6
+Värsås|SE||9w|4i3|131|6
+Varaize|FR||9k|3jk|-16|6
+Varvarovka|UA||9t|3hw|2oy|6
+Varımlı|TR||94|2vb|387|6|Verimli
+Varano|IT||9o|3d1|11n|6
+Varnița|RO|Vrancea|8u|3jp|22w|6
+Varigotti|IT||9o|3eq|nc|6
+Vărsătura|RO||8u|3j7|234|6
+Varnamtown|US||48|2ma|-61d|6|Varnum Town
+Var|RO||8u|3n8|1sq|6|Szamosőrmező
+Varlı|TR||94|341|3cl|5|Zibni;Zıpnı
+Variney Chez Roncoz|IT||9o|3j5|kb|5
+Varvára|GR||8p|34p|1tq|5
+Vărășeni|RO||8u|3lx|1pp|5
+Vartofta|SE||9w|4he|11v|5
+Vardenis|AM|Aragatsotn|80|34p|3fd|5
+Markt Neuhodis|AT||a2|3ne|19k|5|Városhodász;Novi Hodas
+Varese Ligure|IT||9o|3fa|qn|5|Vaise Ligure
+Varagavan|AM||80|35s|3hz|5|Varaqavan;Axum;Hakhum;Akhum;Azizlu;Vardapeti gyugh
+Varmatān|IR||7o|2td|421|5|Varmatūn
+Varikó|GR||8p|34m|1nq|5
+Vardarac|HR||a6|3ir|1g5|5

@@ -1,0 +1,14 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+New York City|US||48|353|-5pl|1vxm|New York;Nueva York;Big Apple;Nov-Jorko;Novjorko;Nova York;Efrog Newydd;York Berri;Cathair Nua-Eabhrac;Nua-Eabhrac;Eabhraig Nuadh;Nova Iorque;Kota New York;Nova-York;New York borg;Evrek Nowydh;Novum Eboracum;Niujorkas;Nowy Jork;Lungsod ng New York;New York kenti;Thành phố New York;New York Stad;New York-borg;Ņujorka;Bandar Raya New York;Nouvieau York;Nei Yarrick Schtadt;Nyu York Shehiri;Nýja Jórvík;The Big Apple;Nuova York;New Yorke;New Yorc;New Yorku
+Nuevo Laredo|MX||3w|24c|-7og|37l|Nuevo Laredas;Novum Laredum;Novo Laredo
+Newcastle upon Tyne|GB||9b|48p|-4h|2bd|Newcastle-on-Tyne;Newcastle;Newcastle-upon-Tyne;Novkastelo;Neuchâté;Newcastle trên sông Tyne;Nyukasl apon Tayn;Novum Castellum;An Caisteal Nuadh;Niukaslas prie Taino;Ņūkāsla pie Tainas
+Târgu Mureş|RO||8u|3la|1w8|1n4|Neumarkt am Mieresch;Tîrgu Mureș;Marosvásárhely;Novum Forum Siculorum;Neumarkt;Vásárhely;Nai Muark;Maros-Vásárhely;Târgul-Mureş;Turgul Mures;Tyrgu-Muresh
+Newport|GB|Wales|9b|3zb|-8c|18v|Casnewydd;Novus Burgus;Niuportas;Nyuport;Trefdraeth;Ņūporta
+New Haven|US|Connecticut|48|36r|-5ml|107|Novus Portus;Ņūheivena;Nyu-Heyven;Niu Heivenas
+Como|IT||9o|3j9|p8|nk|Côme;Novum Comum;Còm
+Neumünster|DE||8r|467|rq|ma|Niemünster;Novum Monasterium;Naimünster
+Louvain-la-Neuve|BE||8t|3wr|ct|87|Novum Lovanium;Li Noû Lovén;Nová Lovaň
+New Alresford|GB||9b|3xx|-39|1i|Novum Forum
+Neuweiler|DE||8r|3r7|nw|w|Novumvillare
+Navur|AM||80|35j|3hy|b|Naur;Navar;Navor;Nour;Novur;Novchali;Novchalu
+New Haven|US|Kentucky|48|2wm|-6lr|9|Novus Portus

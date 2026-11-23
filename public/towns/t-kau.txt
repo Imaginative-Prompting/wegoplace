@@ -1,0 +1,64 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Kowloon|HK||6i|1q0|8t6|h83|Koulun;Kaulunas
+Kawasaki|JP|Kanagawa|7q|2qo|as4|bvb|Kaŭasaki;Kavasakis;Kavaszaki;Kavasaki
+Copenhagen|DK||8y|4ao|yx|8wg|København;Köpenhamn;Kopenhago;Copenhague;Kopenhagen;Copenaguen;Copenhaguen;Kodaň;Kòpenhaga;Kopenhaagen;Kopenage;Kopenhage;Kööpenhamina;Keypmannahavn;Cóbanhávan;Koppenhága;Kaupmannahöfn;Copenaghen;Hafnia;Kopenhāgena;Copenhaga;Kobenhaven;Kopenhag;Copenaga;Kjøpenhamn;Københámman;Kjobenhavn
+Kaunas|LT||a3|48i|1uf|28e|Kowno;Kauen;Kauņa;Kaŭno;Kawnas;Couna;Kauns;Caunas;Kovno
+Yuen Long Kau Hui|HK||6i|1qd|8sr|1b4
+Kaura Namoda|NG||u|yz|ib|jd
+Kaufbeuren|DE||8r|3p0|ti|bt|Kaufbeiren
+Caucete|AR||1t|-2fx|-59o|91|Kausetė
+Căuşeni|MD||8x|3lk|29p|61|Keušenis;Kauseni;Kaushani
+Kaulsdorf|DE|State of Berlin|8r|41w|11r|5e
+Kaukauna|US||2f|3f0|-6t7|4f|Kaukana
+Kauhava|FI||92|4va|1s3|47|Kaukhava
+Kau Wa Keng|HK||6i|1q3|8t2|3z|Kau Pa Kang;Kau Wa Kang;Kau Wah Keng
+Kaukajärvi|FI||92|4qr|1uc|3k
+Kaufungen|DE||8r|3yg|qq|3j
+Kauhajoki|FI||92|4tf|1pm|3h|Kaukha-Yoki
+Kauniainen|FI||92|4n9|1wp|2u|Grankulla;Grani
+Kaufering|DE||8r|3pl|u8|2q
+Kaure Shah Zerin|PK||6q|2do|5n3|2d
+Kamenka|RU|Leningradskaya Oblast'|9i|4nx|28s|2a|Kaukjärvi
+Kaufman|US||2f|2ij|-7fj|20
+Kauswagan|PH|Northern Mindanao|71|mr|9ko|1x|Causwagan
+Kauklahti|FI||92|4n7|1wc|1p|Köklax
+Kauit|PH||71|v3|9kb|1m|Cauit;Kawit
+Kaurānwāli|IN||6t|2ce|5pq|1m
+Kauran|PH||71|iv|9lr|1f
+Kaukovainio|FI||92|50j|1yw|1c
+Kaulille|BE||8t|3y7|fc|1a|Caulille
+Kaustinen|FI||92|4wj|1tt|15|Kaustby
+Kaukab Abū el Hījā|IL||6n|2j7|2px|14|Kawkab Abū el Hījā;Kawkab Abu-al-Hij
+Kaumakani-Hanapepe|US||ax|1ow|-cb6|12
+Te Kauwhata|NZ||ak|-2vw|dij|11|Kauwhata;Te Kaiwhata
+Kūbar|PS||6g|2gv|2po|z|Kaubar
+Kaunakakai|US||ax|1ml|-c46|y
+Kaulsdorf|DE|Thuringia|8r|3wm|vr|u
+Kauswagan|PH|Caraga|71|no|9pb|t
+Kaundrobo|CI||0|ks|-cu|t
+Kaua|MX||3z|1la|-6tl|n
+Kauswagan|PH|Northern Mindanao|71|of|9mm|n
+Causwagan|PH||71|nh|9pk|m|Kauswagan
+Kauswagan|PH|Zamboanga Peninsula|71|lv|9is|m|Kagawasan
+Kautokeino|NO||9j|5bp|1s0|k|Guovdageaidnu;Guovdagæino;Koutokeino;Guovdageainnu suohkan;Guovdageaidnu vald;Guov'dagæi'dno;Kautokeini;Guovdagæidno
+Kouřim|CZ||9m|3uw|15m|i|Kauřim
+Kaupunginkallio|FI||92|4n8|1wh|h|Stadsberget
+Kaunghein|MM||7y|1zc|7d2|d|Kaung Hein
+Kauktaung-ashe|MM||7y|1zh|7d5|c
+Kauerndorf|DE||8r|3xo|yj|b
+Kout na Šumavě|CZ||9m|3t8|104|b|Kauth
+Kaukapakapa|NZ||ak|-2tq|dgq|b
+Kaub|DE||8r|3v5|lk|a
+Blowing Point Village|AI||1i|1ei|-4v9|9|Blowing Point Köyü;Puflash Nuqta Qishlog'i;Desa Blowing Point;Kampung Blowing Point;Pueblo Blowing Point;Village de Blowing Point;Blowing Point Dorf;Kauyeni Blowing;Gandaa Blowing Point;Vila Blowing Point;Tuulo Blowing Point;Kijiji cha Blowing Point
+Kaupanger|NO||9j|4py|k4|9
+Kaungoli Kouamekro|CI||0|kj|-d7|9
+Kausen|DE||8r|3wa|la|8
+Kaumakani|US||ax|1ow|-cbe|7
+East End Village|AI||1i|1en|-4v0|7|East End Köyü;Sharqiy Soʻng Qishlog'i;Desa East End;Kampung East End;Pueblo East End;Village de East End;East End Dorf;Kauyeni East End;Gandaa East End;Vila East End;Tuulo East End;Kijiji cha East End
+Kaumberg|AT||a2|3pe|186|6
+Kaunertal|AT||a2|3mn|tv|6
+Kautzen|AT||a2|3rx|16c|6
+Kauktaung-anauk|MM||7y|1zf|7d4|6
+Kautendorf|AT||a2|3r7|19s|6
+Kaufing|AT||a2|3pi|12c|6
+Kauns|AT||a2|3ms|tp|5

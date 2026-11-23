@@ -1,0 +1,19 @@
+-- 0010: your own initials, rather than the ones your name implies.
+--
+-- Initials are what NAME a person on a sticky note. The palette's own design note says so:
+-- four hues that survive deuteranopia are still only four, so colour is never the only signal
+-- and the initials carry the identity. Until now they were DERIVED — initialsOf(name) in
+-- functions/api/trip.js, recomputed on every snapshot — which is a fine default and a bad
+-- rule. Two people called Alex Rivera and Ana Ruiz both get "AR"; someone who goes by a
+-- middle name gets the wrong pair; a single-word name gets its first two letters whether or
+-- not that reads as anything.
+--
+-- NULL means "keep deriving from the name", so every existing row keeps exactly the initials
+-- it renders with today and nothing has to be backfilled. A value here overrides.
+--
+-- Validated server-side in functions/api/me.js, not here: SQLite CHECK constraints cannot be
+-- added to an existing table without rebuilding it, and the rule (1-3 letters or digits) wants
+-- to live next to the code that explains it.
+--
+-- Additive. No ALTER of existing columns, no re-CREATE. Safe to re-run.
+ALTER TABLE users ADD COLUMN initials TEXT;

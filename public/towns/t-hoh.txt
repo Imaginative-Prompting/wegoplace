@@ -1,0 +1,92 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Hohhot|CN||7i|35d|8m5|ql9|Kweisui;Kökxot shehiri;Huhhot;Chöch chot;Hoĥoto;Hohotas;Hoxhot;Huhehot;Kuei-sui
+Hezhou|CN||7i|1vs|8lx|7rb|Hô̤-ciŭ;Che-čou;Fo-chû-sṳ;Hạ Châu;Hohcouh;Hō-chiu-chhī
+Hohoe|GH||1|jv|1b|pl
+Hoheluft-Ost|DE||8r|44u|rq|6f|Hoheluft
+Hohen Neuendorf|DE||8r|42c|10w|63
+Hohenstein-Ernstthal|DE||8r|3x4|zb|4l|Hoenšteina-Ernstāle
+Hohenems|AT||a2|3nk|qx|4j
+Hoheluft-West|DE||8r|44u|rp|3q
+Höhenberg|DE||8r|3xi|jj|3d
+Vrchlabí|CZ||9m|3wn|17d|3c|Hohenelbe
+Hohenhameln|DE||8r|416|ry|2q
+Höhr-Grenzhausen|DE||8r|3w3|lb|2q
+Hohenmölsen|DE||8r|3y4|xm|2q
+Höhenkirchen-Siegertsbrunn|DE||8r|3pe|wk|2n
+Hohenbrunn|DE||8r|3ph|wi|2e
+Hohberg|DE||8r|3q8|ly|26
+Olsztynek|PL||a5|44u|1kc|24|Hohenstein;Olštineka;Olštynekas
+Hohenlockstedt|DE||8r|45x|qq|1q
+Hohenau|PY||1y|-237|-4ak|1h
+Hohenwestedt|DE||8r|469|qt|1f
+Hohentengen|DE|Baden-Wurttemberg|8r|3pf|q2|19
+Hoholiv|UA||98|3wc|2e6|18|Gogolev
+Ho-Ho-Kus|US||48|35w|-5pu|16|Hohokus
+Hohndorf|DE||8r|3wy|z8|14
+Hohenpeißenberg|DE||8r|3os|uk|13|Hoachapeißaberg
+Hohnstein|DE||8r|3xm|137|12
+Hohenthann|DE|Bavaria|8r|3r6|xl|11|Hohentan
+Hohenwald|US||2f|2qr|-6r7|11
+Hohentengen|DE|Baden-Wurttemberg|8r|3o5|nf|10
+Hohenau|DE||8r|3rp|11h|z
+Höhn|DE|Rheinland-Pfalz|8r|3wm|m6|w
+Hohburg|DE||8r|3yt|zl|v
+Hohenlinden|DE||8r|3ps|xb|s
+Hohenau an der March|AT||a2|3r0|1ay|r
+Vyšší Brod|CZ||9m|3r2|13r|q|Hohenfurth;Altum Vodum
+Hohenleipisch|DE||8r|3z2|11n|q
+Hoholeve|UA|Poltava|98|3uo|2ly|p
+Hohn|DE|Schleswig-Holstein|8r|46u|qe|n
+Hohenthurm|DE||8r|3z4|xm|n|Hohenturn
+Hohnhorst|DE||8r|41h|q1|n
+Hohenkammer|DE||8r|3qi|w1|n|Hohen Cammer;Hohenkamer
+Höhenrand|DE||8r|3rd|pc|m
+Hohenfels|DE||8r|3so|wx|m
+Hohenwarth|DE||8r|3so|zx|l
+Hohenrain|CH||a7|3n2|n4|l
+Hohenaspe|DE||8r|45z|qh|l|Hohenasbe
+Hohetor|DE||8r|416|t7|i
+Hohendodeleben|DE||8r|40q|vy|i|Tudolon australis;Ho’endo’lä;Dolä
+Hohenleuben|DE||8r|3wv|xh|i
+Höhnstedt|DE||8r|3z2|wm|g
+Hohenberg an der Eger|DE||8r|3v6|xy|g
+Hohenwarsleben|DE||8r|40y|vy|g
+Hohenburg|DE||8r|3sy|ws|f
+Hohenfurch|DE||8r|3ox|ua|f|Hohenfurth
+Hohenwarthe|DE||8r|413|wk|f
+Hohenpolding|DE||8r|3qe|xp|e
+Hohenweiler|AT||a2|3o6|r6|d
+Höheinöd|DE||8r|3sx|l5|d
+Hochfilzen|AT||a2|3nv|z2|c|Hohfilcene
+Hohenbocka|DE||8r|3yv|12x|c|Bukow
+Hohenfelde|DE|Schleswig-Holstein|8r|471|t6|b
+Hoheneich|AT||a2|3rh|15r|a
+Höheischweiler|DE||8r|3sr|kz|a
+Hohenschwangau|DE||8r|3o4|tu|a
+Höhfröschen|DE||8r|3st|l1|a
+Hohendorf|DE||8r|463|125|a
+Hohenfelde|DE|Schleswig-Holstein|8r|45k|qq|9
+Hohenruppersdorf|AT||a2|3qm|1a9|9
+Hohenthann|DE|Bavaria|8r|3pa|x8|9
+Hohwacht|DE||8r|46w|tn|9
+Hohenberg|AT||a2|3p3|17e|9
+Hohenweiden|DE||8r|3yu|x6|8
+Hohenkirchen|DE||8r|3x9|tq|8
+Hohensaaten|DE||8r|42v|13a|8
+Hohen Wangelin|DE||8r|44x|yi|7
+Hohenstadt|DE||8r|3qu|qu|7
+Hohenbucko|DE||8r|3zt|11f|7
+Hohenölsen|DE||8r|3wy|xl|7
+Hohen Viecheln|DE||8r|45e|vz|7
+Hohenberg-Krusemark|DE||8r|42g|x7|7
+Hohenaltheim|DE||8r|3ri|t9|6
+Hohenziatz|DE||8r|40y|xh|6
+Hohengandern|DE||8r|3yp|rn|6
+Hohen-Sülzen|DE||8r|3tu|mv|6
+Hohenzieritz|DE||8r|44g|10e|6
+Hohen Sprenz|DE||8r|45r|xv|5
+Hohenfinow|DE||8r|42p|12o|5
+Hoholeve|UA|Poltava|98|3ue|2my|5
+Hohenbrugg an der Raab|AT||a2|3mf|18n|5
+Hohen Pritz|DE||8r|44z|x1|5
+Hohengœft|FR||9k|3r6|kr|5

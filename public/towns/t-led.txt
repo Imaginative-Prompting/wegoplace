@@ -1,0 +1,50 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Leeds|GB||9b|45g|-4b|44z|Lidso;Lidsas;Līdsa;Ledesia;Lids;Loidis;Ritis
+Lons-le-Saunier|FR||9k|3lo|fg|5r|Ledo Salinarius
+Lede|BE||8t|3xl|b3|4o
+Lędziny|PL||a5|3va|1h5|4j|Leņdzini;Lyńdźiny
+Leduc|CA||2s|43z|-8rf|4c|Ledukas;Leduka
+Ledyard|US||48|374|-5k1|48|Led Yard
+Ledbury|GB||9b|40k|-6r|2h
+Ledeberg|BE|Flanders|8t|3xs|ae|2d
+Ledjean|CI||0|j9|-jr|23
+Ledeč nad Sázavou|CZ||9m|3u2|16g|1o|Ledeča pie Sāzavas
+Lezoux|FR||9k|3jb|9e|1g|Ledós;Lesós
+Lednické Rovne|SK||8s|3sb|1es|12
+Leda|AU||8k|-2hn|8xo|w
+Ledenice|CZ||9m|3rx|14m|p
+Ledmozero|RU||9i|4yh|2gz|p|Liedmajärvi;Lietmajärvi;Ledmosero
+Lednice|CZ||9m|3rk|1ao|m|Lednėcē
+Le Dorat|FR||9k|3kd|30|l|Lo Daurat;Le Daurat;Dorat
+Ledaña|ES||9d|31d|-4q|j
+Ledinci|RS||8q|3hj|1j1|j
+Ledesma|ES||9d|365|-go|j
+Ledbetter|US||2f|2ux|-6ts|h
+Le Drennec|FR||9k|3qt|-c5|g|An Dreneg;Drennec
+Ledegem|BE||8t|3xa|8o|g|Ledeghem
+Lidzava|GE||7n|3by|344|f|Ldzaa;Lidzawa;Lidzaa;Ledzava
+Ledeberg|BE|Flanders|8t|3x8|bd|f
+Lédi|CI||0|mx|-8o|d
+Le Doulieu|FR||9k|3ws|7k|d
+Lédenon|FR||9k|3e0|cj|c
+Le Donjon|FR||9k|3kr|aj|c|Donjon
+Ledeuix|FR||9k|3c2|-1q|c|Laduish
+Ledenitzen|AT||a2|3ld|12s|b
+Lédignan|FR||9k|3e7|bf|b|Ledinhan
+Lédat|FR||9k|3fh|1v|9
+Ledoy|PE||3o|-jt|-5wx|9
+Lednica|SK||8s|3sf|1em|9|Lednic
+Le Deschaux|FR||9k|3mf|fa|8
+Lédergues|FR||9k|3eh|6s|7
+Ledčice|CZ||9m|3vu|13p|7
+Le Douhet|FR||9k|3ja|-1l|7
+Ledce|CZ||9m|3ue|111|7
+Lédou|CI||0|gf|-f5|7
+Lederzeele|FR||9k|3x6|6e|6
+Ledrada|ES||9d|34f|-fw|6
+Le Dévoluy|FR||9k|3g5|gi|5|Saint-Étienne-en-Dévoluy
+Ledār|IR||7o|2sx|42a|5
+Ledringhem|FR||9k|3xa|6s|5|Ledringem
+Lędyczek|PL||a5|44q|1b4|5|Lendyczek
+Ledvice|CZ||9m|3wj|129|5
+Le Dézert|FR||9k|3so|-39|5|Le Désert

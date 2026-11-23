@@ -1,0 +1,324 @@
+# GeoNames (geonames.org), CC BY 4.0, snapshot of 2026-11-15. Made by scripts/make_towns.mjs: don't edit by hand.
+Zibo|CN||7i|2u7|93y|10ap|Truy Bác;C-po;Cṳ̆-báuk;Chu-phok-chhī
+Zigong|CN||7i|29i|832|9ql|Tự Cống;C-kung;Cê̤ṳ-góng;Chū-kòng-chhī
+Jerusalem|IL||6n|2g9|2pu|7hy|Hierosolyma;Gerusalemme;Colonia Aelia Capitolina;Salem;Jorsala;Urušalim;Moria;Iebus;Hierusalem;Hierousalēm;Sion;Zion;Ariel;Aelia Capitolina;Kudüs;Jerusalén;Cherusalem;Xerusalén;Jeruzalém;Jeriwsalem;Jeruusalemm;Iarúsailéim;Jeruzsálem;Yerusalem;Ierusalem;Yerushalayim;Jeruzalė;Jeruzaleme;Baitulmuqaddis;Jerozolima;Ierusalim;Girusalemmi;Ierusalema;Djeruzalem;Herusalem;Jórsalir;Jórsalaborg;Yâ-lu-sat-lâng;Gerüsalem;Iâ-lō͘-sat-léng;Yerusalemu;Yerusalémi;Orşelîm;Herusalẽ;Iýerusalim;Qudus;Orcalim;Jeruzalim;Jarusalen;Quddus;Jerozolëma;Baitul Maqdis;Qüds;Urşelim;Al-Qudıs;Jerusalim;Jerozalė;Al-Quds;Ià-lô-sák-lēng;Hiruharama;Gierusalemme;Al Quds;Yirushalāyim;Al-Kuds;Bayt al-Maqdis
+Ziyang|CN||7i|2bo|82p|6zl
+Zürich|CH||a7|3nl|nr|37e|Zuric;Curych;Zuriko;Zurigo;Turicum;Ciurichas;Cīrihe;Zurych;Zurique;Turitg;Zurìcu;Zürih;Zyrihu;Tsurique;Zuerich;Sürix;Zirich;Sŭ-là̤-sié;Zirik;Zeurich;Zürigh;Tsürix;Syurix;Cürih
+Ciudad Bolívar|VE||2c|mk|-4wj|36m|Bolívar;Ziudá Bolívar;Bolívar llaqta;Siudad Bolivaras;Syudad Bolívar;Syudad-Bolivar
+Panama City|PA||4g|oz|-64w|35e|Panama-Stadt;Ciudad de Panamá;Ziudá de Panamá;Panamá;Panamurbo;Panama-Urbo;Panama-stad;Panama by;Ciutat de Panamà;Panama Hiria
+Zinder|NE||18|12d|oz|2gl|Sinder
+Zhytomyr|UA||98|3vm|27o|20o|Schytomyr;Žitomir;Żytomierz;Žytomyr;Zsitomir;Zjytomyr;Jytomyr;Žõtomõr;Ĵitomir;Žytomyras;Zitomiria;Zhitomir;Shitomir
+Kropyvnytskyi|UA||98|3qr|2hn|1p1|Kirowohrad;Kirovohrad;Kirowograd;Kirovograd;Kirovoqrad;Kirovohrado;Kirovohradas;Kirovogrado;Kirovohrada;Yelisavetgrad;Jelizawietgrad;Zinowjewsk;Kropywnycki;Jelisawetgrad;Kropywnyzkyj;Kirovo;Zinovievsk;Zinovyevsk;Elisavetgrad;Elizabethgrad;Kirivograd;Kropivnicki
+Ziguinchor|SN||g|yx|-197|1np|Ziginšoras;Ziginĉor;Ziginšor;Zigiunchor;Zighinkor;Zinguinhor
+Zitong|CN||7i|2bu|85z|1n4
+Zliten|LY||1d|2i7|14h|1km|Zlitan;Zalitan;Ziliten
+Zemun|RS||8q|3gl|1ko|178|Semlin;Zimony
+Cheras|MY||6v|8n|7ul|11q|Ziu Laai;Chiau-nāi;Tsiâu-lai
+Zipaquirá|CO||27|dy|-5pk|108
+Zielona Góra|PL||a5|40a|173|ww|Grünberg;Zelona Gura;Prasia Elysiorum;Zelöna Gur;Zeliona Gura;Zelonô Góra;Zelona Qura;Gruenberg
+Zefta|EG||c|2db|2es|v1|Zifta
+Sakiet ez Zit|TN||1e|2oo|tw|rs
+Zelenodolsk|RU||9i|4b4|3qs|ro|Selenodolsk;Zelenodol'sk;Zelenodoljsk;Zielonodolsk;Yashiloʻzan;Zelendol’sk
+Cesena|IT||9o|3em|y0|qz|Césène;Zisèna;Caesena
+Zerakpur|IN||6t|2d6|5xe|qk|Zirakpur
+Ziway|ET||2|m1|2zk|p5|Zway
+Žilina|SK||8s|3sq|1g2|mk|Sillein;Zsolna;Żylina;Solna;Silina;Jilina
+Xigazê|CN||7i|299|6uw|m8|Shigatse;Samdruptse;Žikace;Šigatse;Sigace;Zhikatse;Sh’i-ka-tse;Shigatze
+Zelenogorsk|RU|Krasnoyarsk Krai|6u|4bv|7ar|ju|Selenogorsk;Zielenogorsk
+Ziauddin Pur|IN||6t|27r|5yo|j6
+Ixtapa-Zihuatanejo|MX||41|1d0|-7u3|iq|Zihuatanejo;Ixtapa Zihuatanejo;José Azueta
+Sindelfingen|DE||8r|3ra|p2|h1|Zindelfingen
+Žižkov|CZ||9m|3v4|145|g7
+Zibihu|CN||7i|20j|7pn|fm
+Zile|TR||94|33y|2rp|fh
+Zalău|RO||8u|3n4|1s1|ek|Zilah;Zaleu;Zelau
+Zizhuang|CN||7i|2ng|92d|eh
+Sittard|NL||8m|3xo|gb|dg|Zittert;Sitardas
+Ciechanów|PL||a5|42w|1la|cw|Cehanova;Cechanuvas;Zichenau
+Altay|KZ||5s|3u6|6i1|ch|Zyryanovsk;Ziryanovsk;Zyranovsk
+Zelenokumsk|RU||9i|3fd|3dw|bh|Selenokumsk;Zelenokoumsk;Zielenokumsk;Zelenokoemsk
+Żyrardów|PL||a5|40l|1kt|bg|Žirardova;Žyrarduvas
+Dilbeek|BE||8t|3x9|bu|az|Zibbeek
+Siegburg|DE||8r|3x4|k1|av|Sieburch;Ziqburq
+Zira|IN||6t|2e1|5sb|af
+Sinsheim|DE||8r|3st|oo|aa|Sinse;Zinsheimas
+Ziyang Chengguanzhen|CN||7i|2ic|8dh|9v
+Zima|RU||6k|45s|7vg|99|Sima
+Ziniaré|BF||1a|yy|-3m|99
+Zintan|LY||1d|2gp|y1|96|As-Sintan;Zentan
+Żywiec|PL||a5|3u1|1hb|8x|Živeca;Žyvecas
+Zernograd|RU||9i|3m5|33z|85|Sernograd;Zernoqrad;Ziernograd
+Zighout Youcef|DZ||3|2th|in|80|Zirout-Youcef;Zighoud Youcef
+Zeitz|DE||8r|3xt|xq|7v|Ceicas;Žitč
+Zionsville|US||38|32z|-6nm|7b
+Zirndorf|DE||8r|3tc|uf|75|Zimdorf
+Zittau|DE||8r|3xe|155|71|Žitava;Żytawa;Žitawa;Citau;Sitavia;Citava
+Zikhron Ya‘aqov|IL||6n|2ih|2p3|6q|Zichron Ja’akow;Zikhron Ya'akov
+Zion|US|Illinois|2f|39x|-6rz|6p|Ciono
+Gif-sur-Yvette|FR||9k|3r8|5x|6j|Žifa pie Ivetas
+Svetlyy|RU|Kaliningrad Oblast|96|47w|1jx|65|Zimmerbude;Tsimmerbude;Svetlyj;Cimerbūdė;Svetlas;Svjetli;Swetly
+Zedelgem|BE||8t|3y2|8q|64|Zillehem;Zillegem;Zedelghem
+Zishui|CN||7i|2f9|8cv|5o
+Zestaponi|GE||7n|38z|3bj|5m|Zestap'oni;Zetaponi;Zest’aponi;Zistafoni;Zestafoni;Sestafoni
+Zinjibār|YE||5r|10h|3i2|5j|Zincibar;Zinyibar;Zinjebar;Sinjibaar;Zanjibar;Zmjibar
+Zinguédéssé|BF||1a|y1|-4e|5g|Zéguédessé
+Židenice|CZ||9m|3so|1a9|59|Schimitz
+Zinvié|BJ||1b|ie|6k|52|Zivie
+Sinzig|DE||8r|3we|k5|4z|Sentiacum;Zincigas
+Zimovniki|RU||9i|3mz|39z|4x
+Zielonka|PL||a5|41a|1ms|4v|Zelonka
+Žiar nad Hronom|SK||8s|3qz|1gd|4q
+Zīr Āb|IR||7o|2si|435|4i|Zīrāb
+Zinapécuaro de Figueroa|MX||41|1j6|-7s3|4f
+Zelenogradsk|RU||96|48o|1kw|4c|Cranz;Zielenogradsk;Zelenoqradsk;Krantas;Zelenogradszk;Kranz;Krants
+Zinacatepec|MX||41|1ey|-7i5|4c
+Zigon|MM||7y|1ey|7dm|48|Zugon
+Zimnicea|RO||8u|3da|1yg|48|Zimniçe;Zimniča;Simnitza
+Zelenogorsk|RU|St. Petersburg|9i|4n8|2ai|46|Terijoki;Selenogorsk;Zielenogorsk;Teriyoki;Terioki
+Ziro|IN||6t|24n|78o|3v|Zero
+Živinice|BA|Federation of B&H|9r|3fh|1ft|3s
+Zizur Mayor|ES||9d|3av|-4p|3p|Zizur Nagusia;Zizur;Cizur Mayor
+Zimapán|MX||41|1lm|-7o2|3o
+Ziama Mansouria|DZ||3|2tv|f8|3i|Cova
+Zymna Voda|UA||98|3uf|1uc|36|Vodyane;Zimna Woda
+Szigetvár|HU||8v|3jx|1dh|35|Siget;Sigethum;Zigetvar
+Zimatlán de Álvarez|MX||41|1av|-7gu|32
+Jimbolia|RO||8u|3j7|1lk|31|Hatzfeld;Hacfeld;Haczfeld;Žimbolija
+Zirefuxiati|CN||7t|2y6|5xz|2x
+Zierikzee|NL||8m|3zh|aw|2x|Zieriksee
+Zindah Jān|AF||6o|2ne|4rj|2w|Zendeh Jān;Zindajān;Zenḏajān
+Zhydachiv|UA||98|3t6|1v2|2w|Żydaczów;Schydatschiw;Zhidáchiv;Jydatchiv;Jıdaçiv;Žydačiv;Židačiva;Zjydatsjiv;Žõdatšiv;Žydačiw;Žydačivas;Zhidachev;Zhidechuv;Zhydachuv;Zhidachov
+Zibashahr|IR||7o|2hy|3z9|2u
+Zyrya|AZ||61|345|3vp|2t|Zirya
+Sulęcin|PL||a5|41o|160|2t|Züllenzig;Zielenzig
+Zillah|LY||1d|27b|1cq|2s|Zella
+Suchanino|PL||a5|46z|1fo|2o|Zigankenberg;Cyganki
+Zymohirya|UA||98|3qz|306|2o|Zîmohiria;Zimogiria;Zımogirya;Zymohirja;Symohirja;Zymohiria;Zimohorja;Zimohirja
+Zinkiv|UA||98|3vh|2ng|2n
+Zierbena|ES||9d|3cf|-8k|2m|La Cuesta-Ciérvana;Ciérvana;La Cuesta
+Ziębice|PL||a5|3wk|1bc|2l|Münsterberg;Zembice;Zembise;Ziembice
+Żychlin|PL||a5|414|1ij|2i|Žihlina
+Zillmere|AU||8c|-240|bt4|2h
+Zizhao|CN||7i|2ct|8bu|2g
+Ziplignan|CI||0|hx|-g8|2g
+Zirara|MA||d|2n4|-fy|2f
+Ẕīā’ābād|IR||7o|2rz|3td|2b|Ẕeyā’ābād;Zīya Abad;Ẕīāābād
+Zirl|AT||a2|3nb|v8|2a
+Zimatepec|MX||41|1hy|-7ko|22|Santa Ursula
+Zirc|HU||8v|3na|1dn|21
+Tsiolkovskiy|RU||7x|3zt|9vw|20|Uglegorsk;Tsiolkovsky;Svobodny-18;Ciolkovskij;Tsiolkovski;Ciolkovskii;Klolowsi;Ziolkowski;Ciolkowskij;Ciołkowski;Svobodnyy-18
+Ziéagui|CI||0|fg|-j7|1z
+Jœuf|FR||9k|3sr|gq|1z|Žiofas
+Ciboure|FR||9k|3ci|-4n|1w|Ziburu;Ciboro
+Zikisso|CI||0|gu|-fu|1w|Zikiso
+Zierenberg|DE||8r|3yp|pu|1w
+Zingem|BE||8t|3xe|a5|1u
+Zichem|BE||8t|3xo|du|1t|Sichemium;Sichem
+Zitlaltépec|MX||41|1hc|-7jz|1r|Zitlaltepetl
+Zitlala|MX|Guerrero|41|1d5|-7nj|1p
+Zimmern ob Rottweil|DE||8r|3pt|nv|1p|Zimmern ĉe Rottweil
+Zaguinasso|CI||0|rx|-ho|1n|Zinguinasso
+Zilair|RU||7z|413|4fk|1n
+Sittensen|DE||8r|440|qe|1j|Zittens
+Zimmerman|US||2f|3i8|-77z|1i
+Zi Byu Gon|MM||7y|1ai|7eg|1g|Zee Hpyu Kone;Zibyugon
+Mysłakowice|PL||a5|3x8|17u|1f|Zillerthal-Erdmannsdorf
+Zimmi|SL||l|kb|-vf|1c|Zimi
+Ziduri|RO||8u|3hu|238|1b
+Ziki|CI||0|g0|-f4|1b
+Zyukayka|RU||7z|4ho|47z|1a|Ziukajka
+Zimandu Nou|RO||8u|3kk|1ng|18|Zimandul-Nou
+Zinzénou|CI||0|j4|-9m|17
+Zyogouiné|CI||0|jz|-l8|15|Ziogouiné;Ziogouin
+Tsil’na|RU||9z|47o|3pq|15|Tsilna;Zilna
+Zirgan|RU||7z|43u|4bc|15
+Singuilucan|MX||41|1jh|-7lo|15|Zinguilucan
+Zinacantán|MX||41|1ak|-75k|13|Zinacatán
+Zīārān|IR||7o|2sc|3wd|11|Zīyārān
+Mayrhofen|AT||a2|3n1|wz|11|Zillertal;Mairhofen
+Živinice|BA|Srpska|9r|3fr|1c9|11
+Zibido San Giacomo|IT||9o|3i0|pb|11
+Židlochovice|CZ||9m|3s8|1a6|11|Groß Seelowitz;Židlohovice;Ziolochovice
+Zyryanka|RU||6z|52m|bn5|10|Syrjanka;Zyrjanka;Zyrianka;Zirjanka;Zırânka;Zõrjanka
+Zeyābar|IR||7o|2vz|3st|10|Ẕīā’ Bar;Ẕīābar;Zīyā’ Bar
+Žiri|SI||9a|3jw|137|10
+Žiežmariai|LT||a3|489|1vw|x|Žižmariai;Žeižmariai;Žiežmarių
+Zirándaro de los Chávez|MX||41|1fc|-7si|x
+Zichen-Zussen-Bolder|BE||8t|3x3|fm|x
+Zicuirán|MX||41|1gg|-7v9|w
+Zingst|DE||8r|478|z9|w
+Zillah|US||3p|3kw|-9a2|v
+Žirovnice|CZ||9m|3st|167|v
+Žitište|RS||8q|3id|1l3|v|Ĵitiŝte;Begaszentgyörgy;Béga-Szent-György
+Ziemetshausen|DE||8r|3q5|ta|u
+Zizers|CH||a7|3me|qk|u|Zezras;Zir;Zizuris
+Zirahuén|MX||41|1i1|-7ul|t
+Zielonki|PL||a5|3v8|1jc|t
+Ziesar|DE||8r|417|y5|t
+Zistersdorf|AT||a2|3qu|1ak|s|Čistejov
+Ziasso|CI||0|rs|-i2|s
+Zīārat|IR|Bushehr|7o|29c|3xv|s|Zīyārat
+Zipári|GR||8p|2ug|23l|r
+Zīārat ‘Alī|IR||7o|252|4ez|r|Zīyarat Alī;Zīārat-e ‘Alī;Zīārat‘alī
+Zilzie|AU||8c|-1sp|bmw|r
+Ziriwa|CI||0|hk|-h6|q
+Zipiajo|MX||41|1iz|-7u3|q
+Zillisheim|FR||9k|3oi|ka|p
+Zitta|CI||0|ir|-j8|o
+Zīārat|IR|Golestan|7o|2tz|47c|n
+Zielitz|DE||8r|419|wg|m
+Žitoše|MK||9u|372|1n5|l|Žitošte
+Zirahuato de los Bernal|MX||41|1i8|-7qx|l
+Zillebeke|BE||8t|3x7|84|l
+Zelyony Gorod|RU||9i|4c2|3ef|k|Zielonyj Gorod;Zelönıy Gorod;Zeliony Gorod
+Zion|US|Pennsylvania|48|35n|-5zs|k
+Zizin|RO||8u|3is|1zm|k
+Zináparo|MX||41|1k1|-7vc|j
+Zilupe|LV||9n|4cn|264|j|Zilopė;Sīnuoja;Ziluppe
+Zâmbreasca|RO||8u|3f4|1xe|j|Zâbreasca;Zîmbreasca
+Ziwayo|CI||0|fu|-h3|i
+Znob Novhorodske|UA||98|416|2lc|i|Znob-Novhorods'ke;Znob’-Novgorodskoye;Znob’-Novgorodskaya;Ziob’-Novgorodskoye;Novogorodskoye
+Ziquítaro|MX||41|1jq|-7v1|i
+Ziziessou|CI||0|jq|-e4|i
+Zeilberg|NL||8m|3yx|g6|i|Zijlberg
+Sicuicho|MX||41|1im|-7w9|i|Zicuicho;Sicucho
+Zefreh|IR||7o|2je|419|i|Zifreh
+Žihárec|SK||8s|3pj|1dp|h
+Cerklje na Gorenjskem|SI||9a|3kh|149|h|Zirklach
+Ziondrou Zibo|CI||0|jx|-kk|h
+Zinna|DE||8r|3z9|zz|h
+Ziano di Fiemme|IT||9o|3kl|w4|h
+Ziersdorf|AT||a2|3qt|189|h
+Ziltendorf|DE||8r|411|14m|g
+Ziguédia|CI||0|is|-i4|g
+Zilwaukee|US||2q|3cs|-6h4|g|Zilwaukie
+Zygós|GR||8p|35x|1vq|g|Zigós
+Zigopa|CI||0|h7|-g1|g
+Ziombli|CI||0|i7|-na|f
+Zībā Kenār|IR||7o|2vz|3uj|f
+Tsikhisdziri|GE||7n|381|380|f|Zichisdsiri;Tsihisdziri;Cichisdziri
+Tziritzícuaro|MX|Michoacán|41|1jg|-7r2|f|Ziritzícuaro;Nativitas
+Zenīvand|IR||7o|2u8|444|f|Zeynavand;Zīnevand
+Zipacón|CO||27|d8|-5qm|f
+Žitenice|CZ||9m|3wg|13c|e
+Ziesendorf|DE||8r|45z|xg|e
+Žirany|SK||8s|3qe|1ei|d
+Žiželice|CZ||9m|3v9|16r|d|Žiželic
+Zirimícuaro|MX||41|1hx|-7v8|d
+Zyuzel’skiy|RU||7z|4cx|4n1|d|Ziuzelskij
+Ziévaso|CI||0|q6|-l3|d|Ziévasso
+Ziédougou|CI||0|pp|-i1|d
+Žihle|CZ||9m|3v0|116|d
+Živinice|BA|Srpska|9r|3gw|1du|d|Živince
+Zimbor|RO||8u|3mk|1sn|d
+Zimnicele|RO||8u|3da|1yl|d
+Zirekli|TR||94|30g|3bd|d
+Zillingdorf|AT||a2|3ox|19d|c
+Zizicazapa|MX||41|1co|-7nf|c
+Ziroudani|KM||ac|-y9|3dm|c
+Zihuateutla|MX||41|1k9|-7jx|b
+Zigrigbi|CI||0|fl|-f2|b
+Zimmersheim|FR||9k|3ok|kj|b
+Zilacayotitlán|MX||41|1c2|-7lr|b|Xilacayotitlán
+Tzitzio|MX||41|1if|-7sc|b|Zitzio
+Zijtaart|NL||8m|3zb|fe|b|Sijtaard;Sijtaart
+Zidurile|RO||8u|3fu|1yz|a|Ziduri
+Ziertheim|DE||8r|3r5|sw|a
+Tsippori|IL||6n|2iz|2q0|a|Tsipori;Ẕippori;Tzippori
+Zimino|UA||9t|3if|2l3|a
+Zinasco Vecchio|IT||9o|3hd|p3|a|Zinasco
+Zivandani|KM||ac|-wd|3c7|a
+Ziegelheim|DE||8r|3xh|yv|a
+Zienkolo|CI||0|qd|-g7|a
+Zabdah|PS||6g|2i5|2pl|9|Zibdah
+Zillingtal|AT||a2|3ot|19l|9|Celindof;Völgyfalva
+Zigoneni|RO||8u|3h9|1wk|9
+Ziduho-Bouénou|CI||0|ki|-h5|9
+Zibello|IT||9o|3h2|s5|9
+Zichyújfalu|HU||8v|3mx|1fw|9|Ziçiuyfalu;Villa Nova;Zičiujfalu
+Žinkovy|CZ||9m|3tg|11h|9
+Zimmerbach|FR||9k|3pj|k4|9
+Ziethen|DE||8r|455|u1|9
+Zigbohouri|CI||0|hv|-gg|9
+Ziegelroda|DE||8r|3yl|vv|9
+Simbario|IT||9o|2z9|19e|9|Simbarium;Zimbariu
+Zirimondiro|MX||41|1hr|-7wa|9
+Zituní|MX||41|1lj|-7pb|9|Zitune
+Zielonki-Wieś|PL||a5|415|1lt|9
+Zintsi|UA||98|3tm|2o6|9
+Ziqim|IL||6n|2ft|2nw|9
+Zipimeo|MX||41|1jd|-7up|9|Zimpimeo
+Zinzintitlán|MX||41|1cq|-7nf|8
+Ziglo|CI||0|i8|-lo|8
+Zīf|PS||6g|2ff|2pm|8
+Zinkivtsi|UA||98|3r8|21s|8|Zińkowce;Zinkivți;Zinkovtsy
+Živanice|CZ||9m|3v2|17h|8
+Zijderveld|NL||8m|40a|ea|8
+Zimella|IT||9o|3hx|vm|8
+Žitni Potok|RS||8q|3bp|1nx|8|Zhitnipotoku;Zjitni Potok
+Zimmerwald|CH||a7|3m8|ks|8
+Zilacayota|MX||41|1c2|-7mh|8
+Zimogor’ye|RU||9i|4h0|2kg|8|Zimogorje
+Zinswiller|FR||9k|3rw|l3|8|Zinsweiler
+Žichlínek|CZ||9m|3uk|1a8|8|Sichelsdorf
+Ziegendorf|DE||8r|442|wt|8
+Zigofla|CI||0|kz|-gl|8
+Zillingdorf-Bergwerk|AT||a2|3ow|19i|8
+Ziegenrück|DE||8r|3wl|wd|8
+Zíria|GR||8p|2ye|1p2|8
+Zirimbo|MX||41|1hm|-7w8|8
+Zikibouo|CI||0|i0|-hl|8
+Zilișteanca|RO||8u|3hp|22n|8|Ziliştenca
+Zimpizahua|MX||41|1hz|-7hb|8
+Žižice|CZ||9m|3vl|13b|8
+Zierow|DE||8r|45t|vm|7
+Ziyaret|TR|Mardin|94|2w2|365|7
+Zimapantongo|MX||41|1k8|-7oa|7
+Zia Pueblo|US||2p|2qn|-88g|7
+Ziarat|PK||6q|2ce|585|7
+Žilina|CZ||9m|3v6|12x|7
+Zimna Wódka|PL||a5|3w4|1ew|7
+Zyembin|BY||9g|470|26e|7|Zembin;Ziembin
+Jiliște|RO||8u|3io|23o|7|Ziliştea
+Zitlala|MX|Puebla|41|1jo|-7jb|7
+Žichovice|CZ||9m|3sv|11v|7
+Zilébli|CI||0|hl|-mm|7
+Zirchow|DE||8r|45p|13a|7
+Ziyaret|TR|Diyarbakır Province|94|2xx|348|7
+Žihobce|CZ||9m|3sq|11v|7
+Životice u Nového Jičína|CZ||9m|3to|1e5|7|Seitendorf bei Neutitschein
+Zielina|PL||a5|3w4|1df|7
+Zimming|FR||9k|3sg|ib|6
+Ziouébli|CI||0|ih|-ng|6
+Zibido al Lambro|IT||9o|3hs|pr|6
+Zichow|DE||8r|43r|130|6
+Zilling|AT||a2|3ox|10e|6
+Zimrat|IL||6n|2fd|2nz|6|Simrat
+Zicapa|MX||41|1ds|-7n4|6
+Zítsa|GR||8p|32f|1ld|6
+Zinampleu|CI||0|j5|-mu|6
+Sitlán|MX||41|1ms|-7lk|6|Zitlán
+Zimica|SI||9a|3l9|17r|6
+Ziracco|IT||9o|3k3|112|6
+Zinasco Nuovo|IT||9o|3hc|p0|6
+Žirovnica|SI||9a|3kw|13a|6
+Zickhusen|DE||8r|45c|vp|6
+Zileftí|GR||8p|31z|1om|6|Zilevtí
+Zibreira|PT||99|31o|-nx|6
+Žižki|SI||9a|3ld|19b|6
+Zimatlán|MX||41|1b2|-7jr|6
+Žimutice|CZ||9m|3so|14b|6
+Ziano Piacentino|IT||9o|3h0|q3|6
+Zinantla|MX||41|1cp|-7nj|6
+Žiče|SI||9a|3ko|170|6
+Yzengremer|FR||9k|3v2|48|6|Zinguérmeu
+Varlı|TR||94|341|3cl|5|Zibni;Zıpnı
+Zilacatipan|MX||41|1le|-7lf|5|Tenaxcalzingo;Zalacatipan
+José María Morelos|MX|Michoacán|41|1ie|-7ro|5|Ziripeo
+Yağlıca|TR||94|33v|3cg|5|Zıhcı
+Zīārat|IR|Hormozgan|7o|224|4ej|5
+Žikava|SK||8s|3qk|1f2|5
+Zirknitz|AT||a2|3mf|16e|5
+Zimikon / Rütiwies|CH||a7|3nm|o3|5
+Zyékaha|CI||0|qn|-f4|5|Ziékaha
+Murat|TR|Ağrı|94|328|3c5|5|Ziro
