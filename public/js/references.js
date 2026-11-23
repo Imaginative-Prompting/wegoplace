@@ -100,7 +100,8 @@ export function openReferences(store) {
       body.replaceChildren(h("p", { class: "rf-empty", text: "Notes the whole group needs at hand: emergency numbers, the embassy, money and ATMs, a door code." }));
       return;
     }
-    body.replaceChildren(
+    // replaceChildren() writes a null as the text "null" (only h() drops what's empty): the children are filtered here.
+    body.replaceChildren(...[
       h("ul", { class: "rf-list" }, ...items.map((r) => {
         // The whole title row opens the item (the pencil its sign); the text below, with its links, is only read.
         const open = h("button", { type: "button", class: "rf-open", "data-rf-change": r.id, "aria-label": `Change ${r.title}` },
@@ -110,7 +111,8 @@ export function openReferences(store) {
           h("h3", { class: "rf-title" }, open),
           r.body ? h("p", { class: "rf-text" }, ...linked(r.body)) : null);
       })),
-      full ? h("p", { class: "rf-full", text: `The list holds ${REFERENCES_MAX}: change or remove one to add another.` }) : null);
+      full ? h("p", { class: "rf-full", text: `The list holds ${REFERENCES_MAX}: change or remove one to add another.` }) : null,
+    ].filter(Boolean));
   }
 
   // One item's form, as its own sheet over the list (as the plan editor is over a plan's page): Save at its top, Remove

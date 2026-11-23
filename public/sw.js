@@ -415,7 +415,9 @@
 //       next hide (or launch) loads it instead (fresh-app.js, inline on every page).
 // v171: the privacy page says Cloudflare Web Analytics counts the site's visits (no cookies, nothing stored on the
 //       device, no fingerprinting) instead of "no analytics" (privacy.html).
-const VERSION = "v171";
+// v172: the quick reference no longer shows the word "null" under its list (references.js: replaceChildren() was handed
+//       an empty child unfiltered).
+const VERSION = "v172";
 
 // Push notifications of the trip's chat (/js/push-sw.js: the push and notificationclick handlers).
 // importScripts at the top level, as a classic worker must; the browser keeps it with the worker.

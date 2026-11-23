@@ -19,6 +19,8 @@
  *   2b. A LONG LIST OPENS AT ITS TOP (five items, two of a dozen lines, with motion as on a phone): the sheet's scroller
  *      at 0 once the slide-in settles and nothing in the list focused (no ring on a link); the same reopened after
  *      closing it scrolled to its end, and back on the list after an add made from its end.
+ *      In every state seen (opened, the forms, one item, after a change, an add and a remove, Remove asked, a long list,
+ *      a full list), no open sheet says "null" or "undefined".
  *   3. TWO PEOPLE: a member's phone with the sheet open sees the host's new item arrive, without a reload.
  *   4. OFFLINE: a phone whose worker is in control, with no signal, reloads the trip and opens the list from its own
  *      copy: the item is there.
@@ -30,6 +32,7 @@
  *   offline    store.js keeps no "references" store on the phone: 4 stops (the item never on the phone).
  *   scroll     references.js doesn't take the list back to its top: 2b red (back on the list after an add from its end).
  *   focus      references.js opens with the focus on the last item's row: 2b red (opened, and opened again).
+ *   null       references.js hands the list's empty child to replaceChildren() unfiltered: "null" under every list, red.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -47,11 +50,12 @@ const read = (p) => fs.readFileSync(new URL(`../${p}`, import.meta.url), "utf8")
 const SHOTS = process.env.REF_SHOTS || "";
 
 const PLANT = process.env.REF_PLANT || "";
-const PLANTS = { links: "js/references.js", under: "styles.css", offline: "js/store.js", scroll: "js/references.js", focus: "js/references.js" };
+const PLANTS = { links: "js/references.js", under: "styles.css", offline: "js/store.js", scroll: "js/references.js", focus: "js/references.js", null: "js/references.js" };
 if (PLANT && !PLANTS[PLANT]) throw new Error(`REF_PLANT is one of ${Object.keys(PLANTS).join(", ")}`);
 const PLANTED = PLANT ? (() => {
   const src = read(`public/${PLANTS[PLANT]}`);
   const t = PLANT === "links" ? src.replace("    if (!href) continue;", "    if (!href || true) continue;")
+    : PLANT === "null" ? src.replace("    ].filter(Boolean));\n", "    ]);\n")
     : PLANT === "focus" ? src.replace("  atTop();\n  return sheet;", "  atTop();\n  body.querySelector(\".rf-item:last-child .rf-open\")?.focus();\n  return sheet;")
     : PLANT === "scroll" ? src.replace("    if (port) port.scrollTop = 0;\n", "")
     : PLANT === "under" ? src.replace(/\nbody\[data-fab="1"\]:is\(\[data-back="1"\], \[data-netpill="1"\]\) \.rf-fab \{[^}]*\}/, "")
@@ -104,6 +108,13 @@ const saveForm = async () => {
   await waitFor(cdp, S, `!document.querySelector(".rf-form") ? 1 : 0`, { label: "the form closing back to the list", timeout: 8000 }).catch(() => {});
   await sleep(400);
 };
+// Every state the sheet is seen in: its whole text (every open sheet, the head too) never says "null" or "undefined"
+// (22 Nov: replaceChildren() wrote a null child as the word "null" under the list).
+const saidBad = [];
+const said = async (state) => {
+  const t = await ev(`[...document.querySelectorAll(".sh-root[data-open='1']")].map((r) => r.innerText).join("\\n")`);
+  saidBad.push({ state, bad: (String(t).match(/\b(?:null|undefined)\b/g) || []).length, words: String(t).length });
+};
 const flushed = async () => { await inStore(`await store.flush(); return 1;`); await sleep(1200); };
 let b2 = null, b3 = null;
 
@@ -149,6 +160,7 @@ try {
   section("2. The sheet, as a person uses it");
   const had = (await serverRows()).length;
   await openList();
+  await said(had ? "the list, opened" : "the list, opened empty");
   const head = await J(`JSON.stringify({ title: document.querySelector(".sh-root[data-open='1'] .sh-title").textContent, empty: document.querySelector(".rf-empty")?.textContent ?? null,
     add: document.querySelector(".rf-add")?.textContent.trim(), addName: document.querySelector(".rf-add")?.getAttribute("aria-label"),
     addInHead: !!document.querySelector(".sh-root[data-open='1'] .sh-head .rf-add"), name: document.querySelector(".rf-fab").getAttribute("aria-label") })`);
@@ -157,11 +169,13 @@ try {
   if (!had) check("empty: one line saying what the list is for", /emergency numbers, the embassy, money and ATMs/.test(head.empty ?? ""), head.empty);
   await ev(`(document.querySelector(".rf-add").click(), 1)`);
   await waitFor(cdp, S, `document.querySelector(".rf-form #rf-title") ? 1 : 0`, { label: "the form" });
+  await said("the add form");
   const TEXT = `Police, fire and ambulance: 112\nThe hotel: +31 20 765 4321\nIts site: https://example.org/hotel.\nBook by 2027-05-12 for 3 nights.`;
   await ev(`(() => { document.querySelector("#rf-title").value = ${JSON.stringify(`Emergency ${TAG}`)}; document.querySelector("#rf-text").value = ${JSON.stringify(TEXT)}; return 1; })()`);
   await saveForm();
   await waitFor(cdp, S, `document.querySelector(".rf-list .rf-item") ? 1 : 0`, { label: "the new card", timeout: 8000 }).catch(() => {});
   let shown = await J(cards);
+  await said("one item, just added");
   const mine = shown.find((c) => c.title === `Emergency ${TAG}`);
   if (mine) made.push(mine.id);
   check("added: its card, the text with its line breaks", mine && mine.text === TEXT, JSON.stringify(mine));
@@ -178,6 +192,7 @@ try {
   await saveForm();
   await sleep(500);
   shown = await J(cards);
+  await said("after a change");
   check("Change: the form holds the item as it is; saved, the card says the new title", pre.t === `Emergency ${TAG}` && pre.b === TEXT && shown.some((c) => c.id === mine?.id && c.title === `Numbers ${TAG}`), JSON.stringify({ pre, shown: shown.map((c) => c.title) }));
   // The item's own row opens it: at least 44 px tall, the text's links outside it and never opening the form.
   const row = await J(`JSON.stringify((() => { const b = document.querySelector('[data-rf-change="${mine?.id}"]'), r = b.getBoundingClientRect(), li = b.closest(".rf-item");
@@ -193,6 +208,7 @@ try {
   await ev(`(document.querySelector('[data-rf-change="${mine?.id}"]').click(), 1)`);
   await waitFor(cdp, S, `document.querySelector(".rf-form #rf-title") ? 1 : 0`, { label: "the form, from its row" });
   await sleep(500);
+  await said("an item's form");
   const out = await J(`JSON.stringify((() => { const roots = [...document.querySelectorAll(".sh-root[data-open='1']")], top = roots[roots.length - 1], x = top.querySelector(".sh-x");
     return { sheets: roots.length, title: top.querySelector(".sh-title").textContent, save: !!top.querySelector(".sh-head [data-rf-save]"), x: !!(x && x.getClientRects().length && getComputedStyle(x).display !== "none" && getComputedStyle(x).visibility !== "hidden"),
       back: [...top.querySelectorAll("button")].some((b) => /back/i.test(b.textContent)) }; })())`);
@@ -208,6 +224,7 @@ try {
   await sleep(300);
   const asked = await J(`JSON.stringify({ ask: document.querySelector(".rf-ask")?.textContent ?? null, focus: document.activeElement?.textContent?.trim() })`);
   check("Remove is asked in place, the focus on Keep it", /^Remove “Numbers .*” from the list\?$/.test(asked.ask ?? "") && asked.focus === "Keep it", JSON.stringify(asked));
+  await said("Remove asked in place");
   await ev(`(document.querySelector("[data-rf-keep]").click(), 1)`);
   await sleep(300);
   check("Keep it keeps it (the form still open, Remove back in its place)", (await J(cards)).some((c) => c.id === mine?.id) && !!(await ev(`!!document.querySelector('[data-rf-remove]') && !!document.querySelector(".rf-form")`)));
@@ -216,6 +233,7 @@ try {
   await ev(`(document.querySelector("[data-rf-yes]").click(), 1)`);
   await waitFor(cdp, S, `!document.querySelector(".rf-form") ? 1 : 0`, { label: "the form closing after Remove", timeout: 8000 }).catch(() => {});
   await sleep(500);
+  await said("after a remove");
   await flushed();
   check("Remove it: gone from the sheet and from the server", !(await J(cards)).some((c) => c.id === mine?.id) && !(await serverRows()).some((r) => r.id === mine?.id));
   await closeSheet();
@@ -242,8 +260,10 @@ try {
         focus: a ? a.tagName.toLowerCase() + (a.className ? "." + String(a.className).split(" ")[0] : "") : "", link: !!(a && a.closest("a")), ring: !!(a && a.matches(":focus-visible") && a.closest(".rf-list")) }; })())`;
     const settled = async () => { await waitFor(cdp, S, `document.getAnimations().every((x) => x.playState !== "running") ? 1 : 0`, { label: "the slide-in", timeout: 8000 }).catch(() => {}); await sleep(400); };
     await openList(); await settled();
+    await said("a long list (five items, two of a dozen lines)");
+    // room: the list overflows its sheet by more than 100 px (at 440x956, 163 px), so a scroll down would show.
     const first = await J(AT);
-    check("a long list (five items, two of a dozen lines) opens at its top, no link and nothing in the list focused", first.room > 200 && first.top === 0 && !first.link && !first.ring, JSON.stringify(first));
+    check("a long list (five items, two of a dozen lines) opens at its top, no link and nothing in the list focused", first.room > 100 && first.top === 0 && !first.link && !first.ring, JSON.stringify(first));
     await stills("long list, opened");
     await ev(`(() => { const p = document.querySelector(".sh-root[data-open='1'] .sh-body"); p.scrollTop = p.scrollHeight; return 1; })()`);
     await sleep(300);
@@ -262,10 +282,29 @@ try {
     const addedId = await ev(`[...document.querySelectorAll(".sh-root[data-open='1'] .rf-item")].find((li) => li.querySelector(".rf-title").textContent === ${JSON.stringify(added)})?.dataset.rf || ""`);
     if (addedId) made.push(addedId);
     const after = await J(AT);
+    await said("back on the list after an add");
     check("added from the list's end: back on the list at its top, the new item in it", !!addedId && after.top === 0 && !after.link, JSON.stringify({ addedId, ...after }));
     await closeSheet();
     await flushed();
     await cdp.send("Emulation.setEmulatedMedia", { features: [{ name: "prefers-reduced-motion", value: "reduce" }] }, S);
+    // A full list (the most it holds): its line under the list, and no "null" anywhere. The items made for it are
+    // removed by their ids at once.
+    const fill = JSON.parse(await inStore(`const { REFERENCES_MAX } = await import("/js/shared/limits.js"); const ids = [];
+      for (let i = store.references().length; i < REFERENCES_MAX; i++) { const id = ${JSON.stringify(`rf_${TAG}_full_`.replace(/[^A-Za-z0-9_-]/g, "_"))} + i; ids.push(id);
+        await store.addReference(id, { title: "Item " + i, body: "Text " + i }); }
+      await store.flush(); return JSON.stringify({ ids, max: REFERENCES_MAX, now: store.references().length });`));
+    made.push(...fill.ids);
+    await sleep(800);
+    await openList();
+    const fullLine = await ev(`document.querySelector(".sh-root[data-open='1'] .rf-full")?.textContent ?? ""`);
+    await said("a full list");
+    check(`a full list (${fill.max}): it says it holds ${fill.max}, and "+ Add" can't be pressed`, fill.now === fill.max && fullLine.includes(String(fill.max))
+      && !!(await ev(`document.querySelector(".rf-add").disabled`)), JSON.stringify({ now: fill.now, fullLine }));
+    await closeSheet();
+    await inStore(`for (const id of ${JSON.stringify(fill.ids)}) await store.deleteReference(id); await store.flush(); return 1;`);
+    await sleep(800);
+    check(`the sheet never says "null" or "undefined": ${saidBad.length} states (${saidBad.map((x) => x.state).join("; ")})`,
+      saidBad.length >= 10 && saidBad.every((x) => x.bad === 0 && x.words > 0), JSON.stringify(saidBad.filter((x) => x.bad || !x.words)));
   }
 
   section("3. Two people: a member's open sheet sees the host's new item arrive");

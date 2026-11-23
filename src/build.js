@@ -2,4 +2,4 @@
 // (scripts/sw_version_check.mjs holds the three equal, so a shell change that bumps VERSION bumps this too).
 // The MCP says it as its serverInfo.version (src/mcp/server.js), so a client's view of the connection names the build
 // it connected to.
-export const BUILD = "v171";
+export const BUILD = "v172";
