@@ -163,6 +163,8 @@ export const CLAIMS = [
     keeps: [["public/js/packing.js", /function starterOffer\(owner\)/]], screen: "packing checks (the starter offer)" },
 
   // The privacy page and the terms (public/privacy.html, public/terms.html): each sentence that says what the site does.
+  // Cloudflare Web Analytics, which counts the site's visits, is said beside it; its beacon is added by Cloudflare's edge,
+  // not by anything of ours, so what is held here is still every page, script and stylesheet of ours.
   { file: P, quote: "nothing on the site loads from another company.", keeps: [],
     // Our pages (the shell's and the ones the Worker writes in src/), every script of ours (the service worker's
     // importScripts, a dynamic import, a fetch) and every stylesheet (a font or picture by url(), an @import).

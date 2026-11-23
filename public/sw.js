@@ -413,7 +413,9 @@
 //       form a sheet over the list with Save at its top and Remove inside it (references.js, styles.css .rf-*).
 // v170: a takeover a hidden page asked for that lands after the person is back no longer reloads the page under them; the
 //       next hide (or launch) loads it instead (fresh-app.js, inline on every page).
-const VERSION = "v170";
+// v171: the privacy page says Cloudflare Web Analytics counts the site's visits (no cookies, nothing stored on the
+//       device, no fingerprinting) instead of "no analytics" (privacy.html).
+const VERSION = "v171";
 
 // Push notifications of the trip's chat (/js/push-sw.js: the push and notificationclick handlers).
 // importScripts at the top level, as a classic worker must; the browser keeps it with the worker.
