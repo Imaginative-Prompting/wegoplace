@@ -46,7 +46,8 @@
 // Owner prefix .me-*; styles in public/css/memories.css (linked from index.html).
 
 import { fmtDay, fmtTime, dayKey, esc, uid, toMs, setDisabled } from "./util.js";
-import { earliestTaken } from "./shared/taken.js";
+import { takenAt } from "./shared/taken.js";
+import { MEMORY_MEDIA_MAX } from "./shared/limits.js";
 import { flip, reducedMotion, ms } from "./motion.js";
 import { focusKeeper, openSheet } from "./sheet.js";
 import { toast } from "./toast.js";
@@ -955,6 +956,16 @@ function refusalSentence(status, body) {
   if (status !== 413 || !body || body.error !== "storage full") return "";
   return typeof body.reason === "string" ? body.reason.trim() : "";
 }
+// What a card says for any other refusal: the server's own sentence when it wrote one, else plain
+// words for what failed and what to do. Never a bare status number.
+function refusalWords(res) {
+  const said = res && res.body && typeof res.body.reason === "string" ? res.body.reason.trim() : "";
+  if (said) return said;
+  if (res && res.status === 413) return "The server couldn't take this post: it was too big. Discard it and add the photos again in smaller groups.";
+  if (res && res.status === 415) return "One of these files is of a kind the server doesn't keep. Discard this post and add the others again.";
+  if (res && res.status === 403) return "The server didn't let this phone post here. Check you're still on this trip, then Retry.";
+  return "The server didn't take this post. Retry, or Discard it.";
+}
 
 // The trip's host may delete anyone's memory on it: the bytes count against the host, whoever
 // uploaded them. The server decides; this only decides whether the button is offered.
@@ -1159,6 +1170,14 @@ const jobs = [];                        // active/failed upload jobs, oldest fir
 let jobSeq = 0;
 let pumping = false;
 
+/** What a job holds, in words: one file by its name; else "34 photos", "1 video", "32 photos and 2 videos". */
+function jobWhat(items) {
+  if (items.length === 1) return items[0].name;
+  const videos = items.filter((i) => i.kind === "video").length, photos = items.length - videos;
+  const say = (n, one) => `${n} ${one}${n === 1 ? "" : "s"}`;
+  return [photos ? say(photos, "photo") : "", videos ? say(videos, "video") : ""].filter(Boolean).join(" and ");
+}
+
 function jobTotals(job) {
   let sent = 0, total = 0;
   for (const it of job.items) { sent += Math.min(it.sent, it.bytes); total += it.bytes; }
@@ -1255,9 +1274,28 @@ function videoThumb(file) {
   });
 }
 
-function startUpload(files, caption, tags, when = {}) {
+/**
+ * A pick split into consecutive parts of at most `max`, as even as they can be, in the order
+ * picked: 94 is 32, 31, 31; 41 is 21, 20; 40 or fewer is one part.
+ */
+export function partsOf(list, max = MEMORY_MEDIA_MAX) {
+  const all = [...list];
+  const n = Math.max(1, Math.ceil(all.length / max));
+  const small = Math.floor(all.length / n), big = all.length % n;
+  const out = [];
+  for (let i = 0, at = 0; i < n; i++) {
+    const size = small + (i < big ? 1 : 0);
+    out.push(all.slice(at, at + size));
+    at += size;
+  }
+  return out;
+}
+
+function startUpload(files, caption, tags, when = {}, part = null) {
   const job = {
     id: `job-${++jobSeq}-${uid()}`,
+    // One of several posts a pick over MEMORY_MEDIA_MAX became: { n, of }, which the card says.
+    part: part && part.of > 1 ? part : null,
     memId: uid("mem"),                  // client id, so a retried POST upserts (API contract)
     caption: String(caption || "").trim(),
     tags: [...new Set(tags.map(normTag).filter(Boolean))],
@@ -1400,6 +1438,8 @@ async function runJob(job) {
       console.error("[memories] upload", e);
       job.state = "failed";
       job.error = "Upload failed";
+      job.full = false;
+      job.why = "Something went wrong on this phone while sending it. Retry, or Discard it.";
       emitLocal();
       return false;
     }
@@ -1410,10 +1450,13 @@ function hardFail(job, res) {
   // shaped is transient and waits for signal instead.
   if (res.status && res.status !== 0 && res.status !== 408 && res.status !== 429 && res.status < 500) {
     job.state = "failed";
-    // A full trip is the one refusal the person can do something about, so it is said in the
-    // server's words (`why`, under the card's name) rather than as a number.
-    job.why = refusalSentence(res.status, res.body);
-    job.error = job.why ? "No room" : `Rejected (${res.status})`;
+    // A full trip is said as "No room", with the server's words for whose room it is; any other
+    // refusal in the server's words when it wrote some, else in plain ones (refusalWords): the
+    // card never shows a bare number.
+    const full = refusalSentence(res.status, res.body);
+    job.full = !!full;
+    job.why = full || refusalWords(res);
+    job.error = full ? "No room" : "Not posted";
     emitLocal();
     return true;
   }
@@ -1439,14 +1482,58 @@ async function park(job) {
 function retryJob(id) {
   const job = jobs.find((j) => j.id === id);
   if (!job) return;
-  job.state = "queued"; job.error = ""; job.why = "";
+  job.state = "queued"; job.error = ""; job.why = ""; job.full = false;
   emitLocal();
   pump();
 }
+// Discard takes the job off the list AND its files off the server: every file of it that was begun
+// (stored, or an upload still holding its bytes) and its thumbnail, none of them in a memory (a
+// discarded job was never posted; the server refuses to remove an attached file all the same,
+// DELETE media/object). Without signal the addresses wait on this phone (localStorage) and go
+// when it is back, also after the app was closed: nothing is left holding the host's storage.
 function discardJob(id) {
   const i = jobs.findIndex((j) => j.id === id);
-  if (i >= 0) { jobs.splice(i, 1); emitLocal(); }
+  if (i < 0) return;
+  const [job] = jobs.splice(i, 1);
+  const urls = [];
+  for (const it of job.items) {
+    for (const k of [it.key, it.thumbKey]) if (k) urls.push(T(`/media/object?key=${encodeURIComponent(k)}`));
+  }
+  if (urls.length) { keepDrops([...new Set([...drops(), ...urls])]); dropUnposted(); }
+  emitLocal();
 }
+const DROP_KEY = "wgp.memdrop";
+function drops() {
+  try {
+    const v = JSON.parse(localStorage.getItem(DROP_KEY) || "[]");
+    return Array.isArray(v) ? v.filter((u) => typeof u === "string") : [];
+  } catch { return []; }
+}
+function keepDrops(list) {
+  try { if (list.length) localStorage.setItem(DROP_KEY, JSON.stringify(list)); else localStorage.removeItem(DROP_KEY); }
+  catch { /* private mode: this run's list is what there is */ }
+}
+let dropping = null;
+function dropUnposted() {
+  if (dropping) { dropping.again = true; return; }
+  dropping = { again: false };
+  (async () => {
+    try {
+      do {
+        dropping.again = false;
+        for (const url of drops()) {
+          const r = await api("DELETE", url);
+          // No answer, or one to send again later: it stays for the next time there is signal.
+          if (r.status === 0 || r.status === 408 || r.status === 429 || r.status >= 500) continue;
+          // Removed, already gone, or refused for good (somebody's memory holds it): done either way.
+          keepDrops(drops().filter((u) => u !== url));
+        }
+      } while (dropping.again);
+    } catch (e) { console.warn("[memories] discard", e); }
+    finally { dropping = null; }
+  })();
+}
+addEventListener("online", () => { if (drops().length) dropUnposted(); });
 
 let emitTimer = 0;
 function throttleEmit() {
@@ -2430,6 +2517,8 @@ function layoutBox(el) {
 
 export default async function mount(el, ctx) {
   await hydrate();
+  // Files a Discard couldn't remove (no signal then, or the app closed before it could) go now.
+  if (drops().length) dropUnposted();
 
   // Views with a segment in the control: the feed always, anything else once it is wired.
   const avail = VIEWS.filter((v) => v.id === "feed" || typeof v.mount === "function");
@@ -2662,26 +2751,31 @@ export default async function mount(el, ctx) {
   function jobHtml(j) {
     const { sent, total } = jobTotals(j);
     const pct = total ? Math.min(1, sent / total) : 0;
+    const n = j.items.length, done = j.items.filter((i) => i.done).length;
     const label = j.state === "waiting" ? "Waiting for signal"
       : j.state === "failed" ? (j.error || "Failed")
       : j.state === "posting" ? "Finishing"
+      : j.state === "queued" ? "Queued"
       : "Uploading";
+    // A pick over MEMORY_MEDIA_MAX is several posts, one card each: "Post 2 of 3" says which.
+    const name = esc(jobWhat(j.items));
     return `<div class="me-job card" data-job="${esc(j.id)}" data-state="${esc(j.state)}">` +
       `<div class="spread">` +
-        `<span class="me-jobname">${j.items.length === 1 ? esc(j.items[0].name) : `${j.items.length} items`}` +
-          ` <span class="meta num">· ${fmtBytes(total)}</span></span>` +
+        `<span class="me-jobname">${j.part ? `Post ${j.part.n} of ${j.part.of} · ` : ""}${name}</span>` +
         `<span class="me-jobstate meta">${esc(label)}</span>` +
       `</div>` +
       `<div class="me-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${Math.round(pct * 100)}">` +
         `<div class="me-barfill" style="transform:scaleX(${pct.toFixed(4)})"></div>` +
       `</div>` +
+      // How far, in files and bytes: honest at a hundred files, where a bar alone barely moves.
+      `<p class="me-jobhow meta num">${n > 1 ? `${done} of ${n} sent · ` : ""}${sent > 0 && sent < total ? `${fmtBytes(sent)} of ` : ""}${fmtBytes(total)}</p>` +
       (j.state === "failed" && j.why ? `<p class="me-jobwhy">${esc(j.why)}</p>` : "") +
       // "No room" is the host's to fix, and where they fix it is Your trips: the meter, and the
       // uploads still under way that are holding space. A member can do nothing there.
       (j.state === "failed"
         ? `<div class="row wrap"><button class="btn btn-sm me-retry" type="button">Retry</button>` +
           `<button class="btn btn-sm me-discard" type="button" data-destroys>Discard</button>` +
-          (j.why && isHost() ? `<a class="btn btn-sm me-storage" href="/trips">Your storage</a>` : "") +
+          (j.full && isHost() ? `<a class="btn btn-sm me-storage" href="/trips">Your storage</a>` : "") +
           `</div>`
         : "") +
     `</div>`;
@@ -2992,6 +3086,7 @@ export default async function mount(el, ctx) {
     let read = null;              // { taken, day }: the photos' earliest time, when they say one;
                                   // { bad }: a time that can't be (a camera's clock never set)
     let readSeq = 0;              // the latest reading; an older one finishing late is dropped
+    const times = new Map();      // each picked photo's own time (null: it says none), read once
     let byHand = false;           // a day chosen in the picker
 
     function paintWhen() {
@@ -3018,20 +3113,34 @@ export default async function mount(el, ctx) {
       const photos = picked.filter((f) => !(f.type || "").startsWith("video/"));
       read = undefined;
       paintWhen();
-      const t = photos.length ? await earliestTaken(photos, tripTz()) : null;
+      for (const f of photos) if (!times.has(f)) times.set(f, await takenAt(f, tripTz()));
       if (seq !== readSeq) return;
+      const t = earliestOf(photos);
       // The server keeps a time from 1990 to two days ahead (docs/API.md): a camera whose clock
       // was never set says 1985 or 2000, and that is said here, before posting, not after.
       const can = t != null && t >= TAKEN_FROM && t <= Date.now() / 1000 + TAKEN_AHEAD;
       read = t == null ? null : can ? { taken: t, day: dayKey(t, tripTz()) } : { bad: t };
       paintWhen();
     }
+    function earliestOf(files) {
+      let best = null;
+      for (const f of files) { const t = times.get(f); if (t != null && (best == null || t < best)) best = t; }
+      return best;
+    }
     daySel.addEventListener("change", () => { byHand = true; paintWhen(); });
-    /** What the post says about when it happened: the photos' day and time, a day chosen, or nothing. */
-    function whenOf() {
+    /**
+     * What a post of `files` says about when it happened: the photos' day and time, a day chosen,
+     * or nothing. A pick split into several posts is read post by post when the day is the photos'
+     * own: each is on the day and time of its own earliest photo (docs/CONTRACTS.md, a memory's day),
+     * and one whose photos say no time is on the pick's day, without a time.
+     */
+    function whenOf(files = picked) {
       const v = daySel.value;
       if (!v) return {};
-      return read && !read.bad && v === read.day ? { day: v, taken_at: read.taken } : { day: v };
+      if (!(read && !read.bad && v === read.day)) return { day: v };
+      const t = earliestOf(files.filter((f) => !(f.type || "").startsWith("video/")));
+      const can = t != null && t >= TAKEN_FROM && t <= Date.now() / 1000 + TAKEN_AHEAD;
+      return can ? { day: dayKey(t, tripTz()), taken_at: t } : { day: v };
     }
 
     const chosen = new Set();
@@ -3110,7 +3219,11 @@ export default async function mount(el, ctx) {
       // Tapped while the photos' time is still being read: the post waits for it (a moment).
       go.dataset.going = "1";
       await readingP.catch(() => {});
-      startUpload(picked, capIn.value, [...chosen], whenOf());
+      // More than one memory holds goes in as several posts, as even as they can be, in the order
+      // picked; each its own job (one refused never holds up or loses the others), uploaded and
+      // posted in turn.
+      const parts = partsOf(picked);
+      parts.forEach((files, i) => startUpload(files, capIn.value, [...chosen], whenOf(files), { n: i + 1, of: parts.length }));
       sheet.close();
       el.scrollTop = 0;
     });

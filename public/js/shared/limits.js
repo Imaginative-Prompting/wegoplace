@@ -93,6 +93,13 @@ export const REFERENCE_TITLE_MAX = 80;
 export const REFERENCE_TEXT_MAX = 2000;
 export const REFERENCES_MAX = 100;
 
+// ── memories ─────────────────────────────────────────────────────────────────────────────
+/**
+ * Photographs and videos one memory holds (src/api/memories.js refuses more with 413). A pick of
+ * more goes in as several memories of this many or fewer (public/js/memories.js partsOf).
+ */
+export const MEMORY_MEDIA_MAX = 40;
+
 // ── storage ──────────────────────────────────────────────────────────────────────────────
 /** What a free account holds across every trip it hosts (model §7). Read through limitFor(). */
 export const FREE_STORAGE_BYTES = 1024 ** 3;

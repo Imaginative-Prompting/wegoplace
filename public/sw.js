@@ -417,7 +417,9 @@
 //       device, no fingerprinting) instead of "no analytics" (privacy.html).
 // v172: the quick reference no longer shows the word "null" under its list (references.js: replaceChildren() was handed
 //       an empty child unfiltered).
-const VERSION = "v172";
+// v173: a pick of more than a memory holds (40) goes in as several posts, as even as they can be, instead of being
+//       refused whole; a refused post says why in words; Discard takes its files off the server (memories.js).
+const VERSION = "v173";
 
 // Push notifications of the trip's chat (/js/push-sw.js: the push and notificationclick handlers).
 // importScripts at the top level, as a classic worker must; the browser keeps it with the worker.

@@ -203,6 +203,9 @@ export const GATE = [
   // A memory's day: its own server, two browsers (and a third whose clock runs a month fast); its
   // photos made once with ffmpeg (test patterns) and given a made-up camera's time.
   ["memory_day_check.mjs", [], true],
+  // A big pick of photos (100 files) going in as several posts: its own server, one browser; its files made once with
+  // ffmpeg and sips (test patterns) and kept in the temp folder.
+  ["photo_batches_check.mjs", [], true],
   ["split_store_harness.mjs", [], true, "trip"],
   ["split_harness.mjs", [], true, "trip"],
   ["split_ui_harness.mjs", [], true, "trip"],

@@ -37,8 +37,10 @@ import { REV, write } from "../trips/rev.js";
 import { SPECS, told } from "./ignored.js";
 import { readClock } from "../../public/js/shared/clock.js";
 import { dayIn } from "../../public/js/shared/trip-rules.js";
+import { MEMORY_MEDIA_MAX } from "../../public/js/shared/limits.js";
 
-const MAX_MEDIA = 40;          // one card; the grid stops being a card long before this
+// One card (the grid stops being a card long before this); the app splits a bigger pick at the same number.
+const MAX_MEDIA = MEMORY_MEDIA_MAX;
 const MAX_TAGS = 8;
 const MAX_TAG_LEN = 32;
 const MAX_CAPTION = 2000;

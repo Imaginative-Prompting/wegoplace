@@ -643,6 +643,9 @@ body:has(.sh-root[data-open="1"]) .fab.me-fab,
 .me-job[data-state="failed"] .me-jobstate {
   color: var(--warning);
 }
+.me-jobhow {
+  margin: 0;
+}
 .me-jobwhy {
   margin: 0;
   font-size: var(--size-14);
