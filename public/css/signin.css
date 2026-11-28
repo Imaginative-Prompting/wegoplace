@@ -2,7 +2,8 @@
    src/mcp/oauth.js), on the design system (public/ds/; the look is docs/design/app-direction/
    first-screens-mock.html's "Sign in"). The page carries `.ds` on <html>, so everything here reads the system's
    tokens (tokens.css) and its parts (controls.css: .ds-button, .ds-input), and nothing of styles.css or
-   css/account.css (the join and account pages keep those until their own flow moves).
+   css/account.css (the account page keeps those until its own flow moves). The invite page (/join/<code>,
+   public/join.html) is drawn by this sheet too: someone signed out goes from there to here and back, one look.
    What is here is the page's own: its column, the moving wordmark's place, the line saying what the app is, the ways
    in, the forms and the messages. No colors of its own but Google's and GitHub's on their buttons, which are theirs
    to say. Every state has an icon or words as well as its tint. */
@@ -188,3 +189,16 @@ body[data-kb="1"] .lg-page { padding-bottom: 12px; }
 @media (max-width: 600px) { .cs-push { margin-top: auto; } }
 .cs-push { display: flex; flex-direction: column; gap: 0; padding-top: 12px; }
 .lg-fine.cs-fine { margin-top: 14px; text-align: center; }
+
+/* ── the invite page (/join/<code>, public/join.html) ─────────────────────────────────── */
+
+/* Its parts are this page's: the name is #join-name's field and label, Join is Create account, "Use a different
+   account" is Try again (scripts/join_design_check.mjs reads both pages and holds them equal). What is here is its own. */
+.lg-stack { display: flex; flex-direction: column; gap: 8px; }
+/* Its words and its buttons centred in the room under the wordmark, where the invite has always had them. */
+body[data-join-page] .lg-panel { justify-content: center; }
+/* A trip's name is whatever its people typed, up to 80 characters, with or without spaces. */
+.jn-name { overflow-wrap: anywhere; }
+/* Signing in instead: a line of words under Join, its link drawn as this page's links are (.lg-fine a), a thumb high. */
+.jn-have { text-align: center; }
+.jn-link { color: inherit; text-decoration: underline; text-underline-offset: 3px; display: inline-flex; align-items: center; min-height: 44px; min-width: 44px; justify-content: center; }

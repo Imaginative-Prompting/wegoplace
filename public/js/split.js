@@ -842,17 +842,21 @@ export default function mount(el, ctx) {
     slice = dataSlice(S, m.display);
 
     // The system's head: the name, then what belongs to this screen at its end (the currency the totals are shown
-    // in, and from 768 the named add; a phone keeps the floating +). Your picture is the shell's own, at the shell's
-    // place as on every tab (fixed at the top right, the head keeping its room: styles.css), so this end is Split's
-    // own (.sp-head-end), never .ds-head-end, which would move the picture into this head on a phone.
+    // in, and from 768 the named add; a phone keeps the floating +). On a phone your picture (the shell's .head-more)
+    // stands at this end too, as in every main screen's head (index.html moves it into a .ds-head-end), and goes with
+    // the head when the feed scrolls (27 Nov: fixed at the top right, it sat on the amount of a scrolled row). The head
+    // is drawn again on every change: the picture is taken out of the old one and put in the new, as agenda.js does,
+    // so it isn't gone for a frame. Beside the rail it isn't in here, and stays at the rail's foot.
+    const more = headEl.querySelector(".head-more");
     headEl.innerHTML =
       `<div class="sp-head ds-head">` +
         `<h1 class="sp-h1">Split</h1>` +
-        `<div class="sp-head-end">` +
+        `<div class="sp-head-end ds-head-end">` +
           displaySelectHtml(m) +
           `<button type="button" class="head-add ds-button ds-button--white" data-act="add"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>Add a purchase</button>` +
         `</div>` +
       `</div>`;
+    if (more) headEl.querySelector(".ds-head-end").append(more);
 
     if (!m.rows.length) {
       root.dataset.empty = "1";
@@ -2089,11 +2093,19 @@ export default function mount(el, ctx) {
       if (!D.paid_by || !to || to === D.paid_by) return;
       const money = { from: D.paid_by, to, amount_minor: total, currency: D.currency, amount_exp: D.exp };
       closePanel("sheet");
-      if (D.mode === "add") guard("record that", () => S.addPayment({ id: D.id, ...money, ...when }));
-      else guard("save that", async () => {
-        const r = await S.updatePayment(D.id, money);
-        if (when.spent_at) await S.updatePurchase(D.id, when);
-        return r;
+      if (D.mode === "add") { guard("record that", () => S.addPayment({ id: D.id, ...money, ...when })); return; }
+      // An edit sends what this sheet changed and nothing else: the rest may have been changed on another phone
+      // meanwhile, and a queued write that carried it would put the old values back when this phone has signal
+      // again (27 Nov: an offline rename undid someone's new amount). The amount and who got it go together.
+      const was = p.row || {};
+      const wasTo = (was.shares && was.shares[0] && was.shares[0].user_id) || "";
+      const moved = total !== was.amount_minor || D.currency !== was.currency || D.exp !== was.amount_exp || to !== wasTo;
+      guard("save that", async () => {
+        let r = null;
+        if (moved) r = await S.updatePayment(D.id, { to, amount_minor: total, currency: D.currency, amount_exp: D.exp, ...(D.paid_by !== was.paid_by ? { from: D.paid_by } : {}) });
+        else if (D.paid_by !== was.paid_by) r = await S.updatePurchase(D.id, { paid_by: D.paid_by });
+        if (when.spent_at) r = await S.updatePurchase(D.id, when);
+        return r ?? true;
       });
       return;
     }
@@ -2144,19 +2156,22 @@ export default function mount(el, ctx) {
       }) ?? true));
       return;
     }
-    guard("save that", async () => thenReceipt(await S.updatePurchase(D.id, {
-      description: desc,
-      amount_minor: total,
-      currency: D.currency,
-      amount_exp: D.exp,
-      split_mode: eco.split_mode,
-      shares: eco.shares,
-      paid_by: D.paid_by,
-      day: D.day || "",
-      event_id: D.event_id || null,
-      place_id: D.place_id || null,
-      ...when,
-    }) ?? true));
+    // An edit sends what this sheet changed and nothing else (see the payment's above): the amount, its currency
+    // and who's in go together, as the store asks; the name, the payer and what it goes with each on their own.
+    const was = p.row || {};
+    const sharesOf = (list) => JSON.stringify((list || []).map((x) => [x.user_id, Number(x.weight)]).sort((a, b) => (a[0] < b[0] ? -1 : 1)));
+    const patch = {};
+    if (total !== was.amount_minor || D.currency !== was.currency || D.exp !== was.amount_exp
+        || eco.split_mode !== was.split_mode || sharesOf(eco.shares) !== sharesOf(was.shares)) {
+      Object.assign(patch, { amount_minor: total, currency: D.currency, amount_exp: D.exp, split_mode: eco.split_mode, shares: eco.shares });
+    }
+    if (desc !== String(was.description || "").trim()) patch.description = desc;
+    if (D.paid_by !== was.paid_by) patch.paid_by = D.paid_by;
+    if ((D.day || "") !== (was.day || "")) patch.day = D.day || "";
+    if ((D.event_id || null) !== (was.event_id || null)) patch.event_id = D.event_id || null;
+    if ((D.place_id || null) !== (was.place_id || null)) patch.place_id = D.place_id || null;
+    Object.assign(patch, when);
+    guard("save that", async () => thenReceipt(Object.keys(patch).length ? (await S.updatePurchase(D.id, patch) ?? true) : true));
   }
 
   // ══════════════════════════════════════════════════════════════════════════════════════

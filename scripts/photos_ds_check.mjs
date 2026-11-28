@@ -113,10 +113,12 @@ for (const [label, rawCss, isMemoriesCss] of [
   check(`${label}: zero --ink-3/--ink-4 on readable text`, faintHits.length === 0, faintHits.join(" | "));
 }
 
-check("styles.css removes .me-top offset & 52px room entry while keeping :not(:has(.head-more[data-away]))",
+// The 52 px of room for a fixed picture went with the last screen that had it (Split, 27 Nov: its head holds the picture
+// now); while any screen keeps the rule, it keeps its :not(…).
+check("styles.css removes .me-top offset & 52px room entry, the room rule (while any screen has it) keeping :not(:has(.head-more[data-away]))",
   !/body:has\(#view \.me-top\)/.test(stSrc)
   && !/:is\([^)]*\.me-top/.test(stSrc)
-  && /body:not\(\[data-back="1"\]\):not\(:has\(\.head-more\[data-away\]\)\)/.test(stSrc));
+  && (!/#view :is\([^)]*\) \{ padding-right: 52px; \}/.test(stSrc) || /body:not\(\[data-back="1"\]\):not\(:has\(\.head-more\[data-away\]\)\)/.test(stSrc)));
 
 const sheetCount = (memJs.match(/openSheet\(\{/g) || []).length;
 check("memories.js moves Feed to DS root, .ds-head/.ds-head-end, byline under photos (no .me-over), and Board chrome",
@@ -336,8 +338,8 @@ try {
           upper: [...document.querySelectorAll('.me-comp .field > label, .me-comp .me-comp-label')]
             .filter((n) => getComputedStyle(n).textTransform !== "none").map((n) => n.textContent.trim()),
         })`));
-        check(`${theme} ${label} Add photos: one sheet titled Add photos, holding what was chosen ("Upload 1 item"), tags folded under More`,
-          compState.picker === 1 && compState.title.trim() === "Add photos" && compState.picked === 1 && !compState.pickButton && /^Upload 1 item$/.test(compState.go.trim()) && compState.moreClosed,
+        check(`${theme} ${label} Add photos: one sheet titled Add photos, holding what was chosen ("Upload 1 photo"), tags folded under More`,
+          compState.picker === 1 && compState.title.trim() === "Add photos" && compState.picked === 1 && !compState.pickButton && /^Upload 1 photo$/.test(compState.go.trim()) && compState.moreClosed,
           JSON.stringify(compState));
         check(`${theme} ${label} composer: DS sheet, sentence-case labels, FAB steps aside`,
           compState.fabAside && compState.upper.length === 0, JSON.stringify(compState));

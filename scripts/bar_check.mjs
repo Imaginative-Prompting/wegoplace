@@ -8,6 +8,9 @@
  *      carrying a layout stored with the old tab bar editor (Packing on the bar, Split off it) gets the
  *      five. More is your picture at the top right (.head-more, named "More", to #/settings); More lists
  *      Packing and Changes and has no editor. Photos' own page says Photos.
+ *   1e. SCROLLED, NOTHING UNDER YOU: on each main screen a list scrolled down by a finger's wheel, at 390 and 440: no
+ *      words of the page (outside the head that holds your picture) meet your picture's box (27 Nov: Split's was fixed
+ *      at the top right and sat on a scrolled row's amount). BAR_PLANT=spfixed.
  *   2. UNDER 768, A PILL: floating at the foot, narrower than the screen, round, the page running
  *      under it to the screen's foot. Every name shows, each on one line in its fifth, at 12 px, from 320.
  *   2b. NOTHING READS THROUGH IT: the pill shot without and with a line of the page's ink under it; no
@@ -96,7 +99,8 @@ const putBack = () => d1(`UPDATE users SET tab_layout = ${original === null ? "N
 // BAR_PLANT=sheetend serves js/sheet.js taking any bubbling transform end for its own (8c: 2 red, at the button's end on open and on close);
 // BAR_PLANT=railkeep serves js/tabs.js with paintBar dropping the rail's own parts (7: the bar redrawn by paintBar
 // loses its logo, trip, rows and you);
-// BAR_PLANT=moredy serves styles.css without the unmoved heads' offsets for your picture (1b: off its row);
+// BAR_PLANT=spfixed serves js/split.js with its head's end Split's own again (.sp-head-end alone), your picture fixed at
+// the top right as before 27 Nov (1b: off Split's head row; 1e: a scrolled row's amount under it, at 390 and 440);
 // BAR_PLANT=moredeep serves js/tabs.js with your picture kept one level deeper (1c: on a plan's and a place's page);
 // BAR_PLANT=tabshort serves ds/shell.css without a tab's 44 px (2: the pill's tabs under a tap's size);
 // BAR_PLANT=coarse36 serves styles.css without the wide rail's 44 px for a coarse pointer (7: a finger's rows at 36);
@@ -105,8 +109,8 @@ const putBack = () => d1(`UPDATE users SET tab_layout = ${original === null ? "N
 // BAR_PLANT=endaway serves js/tabs.js without the bar coming back at the end of a list (4b: the bar away at the end on
 // each of the four, the room it keeps a band of nothing under the last row).
 const PLANT = process.env.BAR_PLANT || "";
-if (PLANT && !["sheetturn", "duckturn", "sheetend", "railkeep", "moredy", "moredeep", "tabshort", "coarse36", "headroom", "endaway"].includes(PLANT)) throw new Error(`no such plant: ${PLANT}`);
-const PLANTED_FILE = PLANT === "sheetturn" || PLANT === "sheetend" ? "js/sheet.js" : PLANT === "moredy" || PLANT === "coarse36" || PLANT === "headroom" ? "styles.css" : PLANT === "tabshort" ? "ds/shell.css" : "js/tabs.js";
+if (PLANT && !["sheetturn", "duckturn", "sheetend", "railkeep", "spfixed", "moredeep", "tabshort", "coarse36", "headroom", "endaway"].includes(PLANT)) throw new Error(`no such plant: ${PLANT}`);
+const PLANTED_FILE = PLANT === "sheetturn" || PLANT === "sheetend" ? "js/sheet.js" : PLANT === "coarse36" || PLANT === "headroom" ? "styles.css" : PLANT === "tabshort" ? "ds/shell.css" : PLANT === "spfixed" ? "js/split.js" : "js/tabs.js";
 const PLANTED = PLANT ? (() => {
   const src = fs.readFileSync(new URL(`../public/${PLANTED_FILE}`, import.meta.url), "utf8");
   const t = PLANT === "sheetturn"
@@ -118,7 +122,7 @@ const PLANTED = PLANT ? (() => {
     : PLANT === "moredeep" ? src.replace('more.toggleAttribute("data-away", !MORE_ON.has(route.name));', 'more.toggleAttribute("data-away", false);')
     : PLANT === "headroom" ? src.replace("  #view .me-top { flex-wrap: wrap; row-gap: var(--sp-2); }\n", "")
     : PLANT === "endaway" ? src.replace("    if (max > 0 && y >= max - 2) { here(); return; }\n", "")
-    : PLANT === "moredy" ? src.replace(/^body:has\(#view [^)]+\) \{ --head-more-dy: [^}]+\}\n/gm, "")
+    : PLANT === "spfixed" ? src.replace('`<div class="sp-head-end ds-head-end">`', '`<div class="sp-head-end">`')
     : src.replace('  matchMedia(RAIL).addEventListener("change", here);\n', "");
   if (t === src) throw new Error(`the ${PLANT} plant didn't take`);
   return t; })() : null;
@@ -193,6 +197,49 @@ try {
         return { picture: [Math.round(p.left), Math.round(p.top), Math.round(p.width)], under };
       })())`);
       check(`${w}, ${hash}: nothing in the head runs under your picture`, !!hit.picture && hit.under.length === 0, JSON.stringify(hit));
+    }
+  }
+  await size(390, 844);
+
+  section("1e. Scrolled down a main screen, nothing of the page under your picture, at 390 and 440");
+  // 27 Nov: on Split your picture was fixed at the top right while its head scrolled away, and sat on a scrolled row's
+  // amount. On each main screen, a list scrolled down by a finger's wheel (or, where the wheel lands on something that
+  // takes it, Photos' board, by the page's own scroll): no words of the page (outside the head that holds the picture,
+  // which 1d reads) that are what's drawn there meet the picture's box. Words slid under a head's solid band, covered
+  // by it, are not under the picture.
+  for (const [w, h] of [[390, 844], [440, 956]]) {
+    await size(w, h);
+    // Chat's messages scroll in a pane of their own, under its head; More is a short page.
+    for (const [hash, row] of HEADS.filter(([x]) => x !== "#/settings" && x !== "#/chat")) {
+      await go(hash, `document.querySelector("#view .ds-head, #view ${row}")`);
+      for (let i = 0; i < 6; i++) { await cdp.send("Input.dispatchMouseEvent", { type: "mouseWheel", x: w / 2, y: h / 2, deltaX: 0, deltaY: 300 }, S); await sleep(120); }
+      await evalIn(cdp, S, `(() => { const v = document.getElementById("view"); if (v && !v.scrollTop && !document.scrollingElement.scrollTop) v.scrollTop = 1800; return 1; })()`);
+      await sleep(800);
+      const hit = await J(cdp, S, `JSON.stringify((() => {
+        const m = document.querySelector(".head-more"); if (!m || getComputedStyle(m).display === "none" || !m.getClientRects().length) return { picture: null, under: [], moved: 0 };
+        const p = m.getBoundingClientRect(), own = m.closest(".ds-head");
+        const under = [];
+        const walk = document.createTreeWalker(document.getElementById("view"), NodeFilter.SHOW_TEXT);
+        for (let n = walk.nextNode(); n; n = walk.nextNode()) {
+          const el = n.parentElement;
+          if (!n.textContent.trim() || !el || m.contains(el) || (own && own.contains(el)) || getComputedStyle(el).visibility === "hidden") continue;
+          const r = document.createRange(); r.selectNodeContents(n);
+          for (const b of r.getClientRects()) {
+            const x0 = Math.max(b.left, p.left), x1 = Math.min(b.right, p.right), y0 = Math.max(b.top, p.top), y1 = Math.min(b.bottom, p.bottom);
+            if (x1 - x0 <= 0.5 || y1 - y0 <= 0.5) continue;
+            // Drawn there, or covered: what is on top at the middle of where they meet, the picture set aside.
+            m.style.visibility = "hidden";
+            const top = document.elementFromPoint((x0 + x1) / 2, (y0 + y1) / 2);
+            m.style.visibility = "";
+            if (top && (top === el || el.contains(top) || top.contains(el))) { under.push(n.textContent.trim().slice(0, 24)); break; }
+          }
+        }
+        const v = document.getElementById("view"), moved = Math.round(Math.max(v ? v.scrollTop : 0, document.scrollingElement.scrollTop));
+        // A page no taller than the screen has nothing to scroll under the picture (Photos' board on the made-up trip).
+        const room = Math.round(Math.max(v ? v.scrollHeight - v.clientHeight : 0, document.scrollingElement.scrollHeight - innerHeight));
+        return { picture: [Math.round(p.left), Math.round(p.top), Math.round(p.width)], under: [...new Set(under)].slice(0, 4), moved, room };
+      })())`);
+      check(`${w}, ${hash} scrolled ${hit.moved} px: no words of the page under your picture`, (hit.moved > 0 || hit.room <= 8) && hit.under.length === 0, JSON.stringify(hit));
     }
   }
   await size(390, 844);

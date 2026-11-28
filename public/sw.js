@@ -419,7 +419,29 @@
 //       an empty child unfiltered).
 // v173: a pick of more than a memory holds (40) goes in as several posts, as even as they can be, instead of being
 //       refused whole; a refused post says why in words; Discard takes its files off the server (memories.js).
-const VERSION = "v173";
+// v174: the Itinerary on a busy day: one time column a day; a check-in during a plan right after it; opened while plans
+//       are on, the first above the tab bar; a plan's note line for line (agenda.js).
+// v175: Places: distances read in order in feet (a tie is two distances that read the same); a place's note line for
+//       line (places.js).
+// v176: a map name never under the map's own controls nor cut by its edges: a pin's label keeps clear of the buttons,
+//       the scale, the + and the tab bar and inside the room under the page's head, trying its pin's other side first;
+//       a pin outside that room has no name (map.js).
+// v177: photos: an upload the app was closed in the middle of no longer leaves its files on the server (the next
+//       Memories removes them); the viewer says when a post happened, as its card does; the composer and the delete
+//       prompt say photos and videos, not "items" (memories.js).
+// v178: photos: a slow server no longer stalls an upload for good (a stalled part with signal goes again at once,
+//       with twice the patience; net.js, memories.js); a photo with no thumbnail shows a glyph and, in the viewer, says
+//       it won't open (no crop on nothing; the cropper falls back to the thumbnail); an upload waits for signal the
+//       moment the phone says it is offline (net.js).
+// v179: split: paid what Settle up said, settled in every currency: converted balances are rounded once a person, and
+//       a converted balance under a cent of the coarsest currency counted is settled (money.js).
+// v180: offline: an edit made with no signal sends only what its sheet changed, so it keeps what another phone changed
+//       meanwhile (split.js); a change to something deleted on another phone is named, never by its id
+//       (packing-refusals.js, index.html); on a phone your picture stands in Split's head and goes with it (split.js,
+//       styles.css).
+// v181: the invite page (/join/<code>) on the design system, as the sign-in page it leads to: its field, label, Join,
+//       link and buttons are that page's, in its sheets (css/signin.css), with its keyboard script (join.html).
+const VERSION = "v181";
 
 // Push notifications of the trip's chat (/js/push-sw.js: the push and notificationclick handlers).
 // importScripts at the top level, as a classic worker must; the browser keeps it with the worker.

@@ -2,7 +2,7 @@
 <html lang="en" data-app="wegoplace-app">
 <head>
 <meta charset="utf-8">
-<meta name="wgp-build" content="v173">
+<meta name="wgp-build" content="v181">
 <!-- First, at a www. address: the same page without www., unless this phone keeps the app here (public/js/www.js). -->
 <script src="/js/www.js"></script>
 <!-- What breaks on this page reaches the site's owner, cleaned of anything personal (js/error-report.js). -->
@@ -861,10 +861,20 @@ function paintBack() {
 // Packing says what happened in its own words (a bag someone else still has things in, a list
 // removed on another phone); everything else gets the general line, which names the thing by
 // the words the person typed and gives the server's reason when it sent one.
+// What a refused write's thing is called on this phone (its row is still here until the refresh below), for a
+// change that didn't carry its name: refusalLine's `known`.
+const knownOf = (op) => {
+  const find = (list) => list.find((x) => x.id === op.id) || null;
+  if (!op) return {};
+  if (op.kind === "purchase") { const r = find(store.purchases()); return { name: r && r.description, noun: r && r.kind === "payment" ? "That payment" : "That purchase" }; }
+  if (op.kind === "event") { const r = find(store.events()); return { name: r && r.title, noun: "That plan" }; }
+  if (op.kind === "reference") { const r = find(store.references()); return { name: r && r.title, noun: "That item" }; }
+  return {};
+};
 store.on("reject", (refusal) => {
   const place = refusal && refusal.op && refusal.op.kind === "place"
     ? placeRefusalWords(refusal, { name: (store.place(refusal.op.id) || {}).name }) : null;
-  toast(refusalWords(refusal) || place || refusalLine(refusal));
+  toast(refusalWords(refusal) || place || refusalLine(refusal, knownOf(refusal && refusal.op)));
   store.refresh();
 });
 

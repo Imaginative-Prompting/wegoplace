@@ -133,6 +133,8 @@ export const GATE = [
   ["bug_report_check.mjs", [], true, "trip"],
   // No field zooms the page on iOS: every field the app shows, its computed font-size 16px or more (ds/controls.css).
   ["field_size_check.mjs", [], true, "trip"],
+  // The invite page on the design system: its field, label, buttons and link the sign-in page's own, light and dark (join.html).
+  ["join_design_check.mjs", [], true, "trip"],
   // The trip's reference list: its button mirroring the +, the sheet, offline, two people (js/references.js).
   ["references_check.mjs", [], true, "trip"],
   ["logo_player_check.mjs", [], true, "trip"],
@@ -209,6 +211,8 @@ export const GATE = [
   ["split_store_harness.mjs", [], true, "trip"],
   ["split_harness.mjs", [], true, "trip"],
   ["split_ui_harness.mjs", [], true, "trip"],
+  // Edits with no signal while another phone edits the same trip: two browsers, the gate's trip.
+  ["offline_edits_check.mjs", [], true, "trip"],
   ["split_fx_check.mjs", [], true, "trip"],
   ["split_wiring_check.mjs", [], true, "trip"],
   ["settle_check.mjs", [], true],
@@ -262,6 +266,9 @@ export const GATE = [
   ["../checks/trips/board-page.mjs", ["--port", FREE], true],
   ["../checks/trips/browser.mjs", ["--port", FREE], true],
   ["../checks/trips/receipts.mjs", ["--port", FREE], true],
+  ["../checks/trips/itinerary-day.mjs", ["--port", FREE], true],
+  ["../checks/trips/places-list.mjs", ["--port", FREE], true],
+  ["../checks/trips/places-map.mjs", ["--port", FREE], true],
   ["../checks/www/browser.mjs", ["--port", FREE], true],
   // The assistant's screens (wgp-assistant keeps it green) and a memory's photo and video through the composer: servers
   // of their own on ports they find themselves.

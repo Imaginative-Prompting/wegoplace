@@ -24,13 +24,45 @@
 //      something that fails when they do not.
 //
 //     node scripts/split_math_check.mjs
+//
+// PLANTED (MONEY_PLANT=<name>; a changed copy of money.js in the temp folder is imported in its place, the file
+// itself never written):
+//   per-row  converted nets summed a purchase at a time, each rounded on its own, as before 27 Nov: 2c red.
 
-import {
+import fs from "node:fs";
+import os from "node:os";
+import path from "node:path";
+import { MINOR_UNITS } from "../src/api/purchases.js";
+
+const MONEY = new URL("../public/js/money.js", import.meta.url);
+const PLANTS = { "per-row": ["  if (codes.some((c) => c !== to)) {", "  if (false) {"] };
+const PLANT = process.env.MONEY_PLANT || "";
+if (PLANT && !PLANTS[PLANT]) throw new Error(`MONEY_PLANT is one of ${Object.keys(PLANTS).join(", ")}`);
+let moneyAt = MONEY.href, plantDir = null;
+if (PLANT) {
+  const src = fs.readFileSync(MONEY, "utf8"), t = src.replace(...PLANTS[PLANT]);
+  if (t === src) throw new Error(`the ${PLANT} plant didn't take`);
+  plantDir = fs.mkdtempSync(path.join(os.tmpdir(), "wgp-money-plant-"));
+  fs.writeFileSync(path.join(plantDir, "money.js"), t);
+  moneyAt = new URL(`file://${path.join(plantDir, "money.js")}`).href;
+  console.log(`PLANTED: ${PLANT} (public/js/money.js)`);
+}
+const {
   fnv1a32, allocate, convert, netBalances, settle, isPayment,
   expOf, fmtMoney, parseAmount, toAmountText, restate, isEqualSplit, equalShares,
   CURRENCY_CODES, nameOf, symbolOf, currencyLabel,
-} from "../public/js/money.js";
-import { MINOR_UNITS } from "../src/api/purchases.js";
+} = await import(moneyAt);
+// v173's rule, for part 2d: the same file with the converted nets summed a purchase at a time, as before 27 Nov.
+const before = (() => {
+  const src = fs.readFileSync(MONEY, "utf8"), t = src.replace(...PLANTS["per-row"]);
+  if (t === src) throw new Error("v173's rule couldn't be made from money.js");
+  const dir = plantDir ?? fs.mkdtempSync(path.join(os.tmpdir(), "wgp-money-before-"));
+  fs.writeFileSync(path.join(dir, "money-before.js"), t);
+  return { dir, at: new URL(`file://${path.join(dir, "money-before.js")}`).href };
+})();
+const { netBalances: netBalancesBefore } = await import(before.at);
+fs.rmSync(before.dir, { recursive: true, force: true });
+if (plantDir) fs.rmSync(plantDir, { recursive: true, force: true });
 
 let pass = 0;
 const fails = [];
@@ -217,6 +249,94 @@ console.log("\n2b. payments — one person paying another back (model §18)");
 
   // A row from a phone that has no kind yet reads as a purchase, as before.
   ok(isPayment({ kind: "payment" }) && !isPayment({ kind: "purchase" }) && !isPayment({}) && !isPayment(null), "only kind 'payment' is a payment");
+}
+
+// ── 2c. settled in one currency, settled in all ─────────────────────────────────────────
+console.log("\n2c. settled in one currency is settled in every other (27 Nov: euros, dollars, soles)");
+
+{
+  // The plan paid as Mark paid records it, in the currency the totals were in; then the totals in each other
+  // currency. Rounding every purchase's conversion on its own left "owes ≈ €0.03" and "≈ S/ 0.02" after the plan
+  // was paid to the cent, and nobody could reach "settled".
+  const rates = { EUR: 0.92, PEN: 3.72, JPY: 151.4, GBP: 0.79, KWD: 0.307 };
+  const codes = ["USD", "EUR", "PEN", "JPY", "GBP", "KWD"];
+  const all = ["u_ada", "u_lin", "u_sol", "u_teo"];
+  const Pay = (id, amount, currency, from, to) => ({ id, kind: "payment", amount_minor: amount, currency, amount_exp: expOf(currency),
+    paid_by: from, split_mode: "exact", shares: [{ user_id: to, weight: 1, share_minor: amount }] });
+  const planPaid = (list, ids, D) => list.concat(settle(nets(list, ids, D, expOf(D), rates).net)
+    .map((x, i) => Pay(`pay_${D}_${i}`, x.amount_minor, D, x.from, x.to)));
+  const left = (list, ids, D2) => [...nets(list, ids, D2, expOf(D2), rates).net.values()].filter((v) => v !== 0);
+
+  // A small trip in euros, dollars and soles, by hand.
+  const trip = [
+    P("pu_taxi", 8450, "EUR", 2, "u_ada", even(all, 8450, "pu_taxi")),
+    P("pu_dinner", 3333, "USD", 2, "u_ada", even(["u_ada", "u_sol", "u_teo"], 3333, "pu_dinner")),
+    P("pu_bus", 36974, "PEN", 2, "u_lin", even(all, 36974, "pu_bus")),
+    P("pu_snack", 1999, "EUR", 2, "u_teo", even(["u_lin", "u_teo"], 1999, "pu_snack")),
+    P("pu_hut", 17771, "PEN", 2, "u_sol", even(all, 17771, "pu_hut")),
+  ];
+  for (const D of ["USD", "EUR", "PEN"]) {
+    const paid = planPaid(trip, all, D);
+    const rest = Object.fromEntries(["USD", "EUR", "PEN"].map((D2) => [D2, left(paid, all, D2)]));
+    ok(Object.values(rest).every((l) => !l.length), `the plan paid in ${D}: everyone is settled in dollars, euros and soles`, JSON.stringify(rest));
+  }
+
+  // And a thousand made-up trips of up to sixty purchases in six currencies.
+  let seed = 7, bad = 0, firstBad = "", worstWhy = 0;
+  const rnd = () => ((seed = (seed * 1103515245 + 12345) % 2147483648) / 2147483648);
+  for (let t = 0; t < 1000 && !bad; t++) {
+    const n = 2 + Math.floor(rnd() * 5), ids = Array.from({ length: n }, (_, i) => `u${i}`);
+    const list = [];
+    for (let k = 0, m = 1 + Math.floor(rnd() * 60); k < m; k++) {
+      const cur = codes[Math.floor(rnd() * codes.length)], amount = 1 + Math.floor(rnd() * 50000);
+      const who = ids.filter(() => rnd() < 0.7); if (!who.length) who.push(ids[0]);
+      const sh = allocate(amount, who.map(() => 1 + Math.floor(rnd() * 3)), `p${t}_${k}`);
+      list.push(P(`p${t}_${k}`, amount, cur, expOf(cur), ids[Math.floor(rnd() * n)], who.map((u, i) => ({ user_id: u, weight: 1, share_minor: sh[i] }))));
+    }
+    const D = codes[Math.floor(rnd() * codes.length)];
+    const led = nets(list, ids, D, expOf(D), rates);
+    if ([...led.net.values()].reduce((a, b) => a + b, 0) !== 0) { bad++; firstBad = `trip ${t}: the nets in ${D} don't sum to zero`; break; }
+    for (const u of ids) worstWhy = Math.max(worstWhy, Math.abs(led.paid.get(u) - led.owed.get(u) + led.back.get(u) - led.got.get(u) - led.net.get(u)));
+    const paid = planPaid(list, ids, D);
+    for (const D2 of codes) {
+      const l = left(paid, ids, D2);
+      if (l.length) { bad++; firstBad = `trip ${t}: the plan paid in ${D} leaves ${JSON.stringify(l)} in ${D2}`; break; }
+    }
+  }
+  ok(bad === 0, "1,000 trips in six currencies: the plan paid in any one leaves everyone settled in all six", firstBad);
+  ok(worstWhy <= 2, "a balance's paid, share, paid back and got back miss its net by two units at most, converted", `${worstWhy}`);
+}
+
+// ── 2d. one currency: the numbers v173 gave ─────────────────────────────────────────────
+console.log("\n2d. a trip in one currency, shown in it: exactly the numbers v173 gave");
+
+{
+  // v173's netBalances is this file with its converted path taken out (MONEY_PLANT=per-row's swap): every figure of
+  // every person, and the total, the same, on 2,000 made-up trips in one currency each, purchases and payments.
+  const fig = (l) => JSON.stringify(["net", "paid", "owed", "back", "got"].map((k) => [...l[k].entries()].sort()).concat([l.total, l.unconverted]));
+  let seed = 11, differ = 0, first = "", rows = 0;
+  const rnd = () => ((seed = (seed * 1103515245 + 12345) % 2147483648) / 2147483648);
+  for (let t = 0; t < 2000; t++) {
+    const cur = ["PEN", "USD", "EUR", "JPY", "KWD"][t % 5], exp = expOf(cur);
+    const n = 2 + Math.floor(rnd() * 5), ids = Array.from({ length: n }, (_, i) => `u${i}`);
+    const list = [];
+    for (let k = 0, m = 1 + Math.floor(rnd() * 40); k < m; k++) {
+      const amount = 1 + Math.floor(rnd() * 90000);
+      if (rnd() < 0.15) {
+        const [a, b] = [ids[Math.floor(rnd() * n)], ids[Math.floor(rnd() * n)]];
+        if (a !== b) list.push({ id: `pay${t}_${k}`, kind: "payment", amount_minor: amount, currency: cur, amount_exp: exp, paid_by: a, split_mode: "exact", shares: [{ user_id: b, weight: amount, share_minor: amount }] });
+        continue;
+      }
+      const who = ids.filter(() => rnd() < 0.7); if (!who.length) who.push(ids[0]);
+      const sh = allocate(amount, who.map(() => 1 + Math.floor(rnd() * 4)), `q${t}_${k}`);
+      list.push(P(`q${t}_${k}`, amount, cur, exp, ids[Math.floor(rnd() * n)], who.map((u, i) => ({ user_id: u, weight: 1, share_minor: sh[i] }))));
+    }
+    rows += list.length;
+    const a = netBalances(list, ids, { to: cur, toExp: exp, rates: { EUR: 0.92 } });
+    const b = netBalancesBefore(list, ids, { to: cur, toExp: exp, rates: { EUR: 0.92 } });
+    if (fig(a) !== fig(b)) { differ++; if (!first) first = `trip ${t} (${cur}): ${fig(a)} vs v173 ${fig(b)}`; }
+  }
+  ok(differ === 0, `2,000 one-currency trips (${rows.toLocaleString("en-US")} rows; PEN, USD, EUR, JPY, KWD): every net, paid, share, paid back, got back and total as v173 had it`, first);
 }
 
 // ── 3. the property suite ───────────────────────────────────────────────────────────────

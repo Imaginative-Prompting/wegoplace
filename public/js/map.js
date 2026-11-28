@@ -2285,7 +2285,13 @@ function createSession(ctx, opts = {}) {
     const isSel = p.id === S.selected;
     // A fanned pin is labelled at any zoom: the tap that opened the fan was a request for the
     // names, and a ring of unlabelled glyphs would have answered it with less than the count.
-    if (isSel || g.fan || S.cam.zoom >= LABEL_MIN_ZOOM) {
+    // THE MAP'S OWN EDGES (27 Nov): the surface runs on under the page's head (padTop) and under the place sheet
+    // (sheetH), so a name there is cut mid-word ("Viejo de los Pescado…" under the head). Those edges count as the
+    // controls do: a name that would cross one tries its other place, else goes; and a pin outside the room the map
+    // shows (under the head or the sheet, or past a side) has no name at all, as the area names already keep inside it.
+    const roomTop = (S.padTop || 0) + 2, roomBottom = S.h - (S.sheetH || 0) - 2;
+    const inside = g.cx >= 0 && g.cx <= S.w && g.cy > roomTop && g.cy - PIN_UP_PX < roomBottom;
+    if (inside && (isSel || g.fan || S.cam.zoom >= LABEL_MIN_ZOOM)) {
       const tw = textWidth(p.name);
       const w = Math.min(140, tw + 18);
       // Ordinarily a label is centred under its pin. A FANNED one HANGS OUTWARD along its own
@@ -2296,7 +2302,15 @@ function createSession(ctx, opts = {}) {
       // Hanging them outward makes the fan's own names structurally unable to collide, and it
       // reads as deliberate: the name is on the side the pin is on.
       const side = g.fan ? (g.ldx < -6 ? -1 : g.ldx > 6 ? 1 : 0) : 0;
-      let bx = side < 0 ? g.cx - 6 - w : side > 0 ? g.cx + 6 : g.cx - w / 2;
+      // NEVER UNDER THE MAP'S OWN CONTROLS (27 Nov): a fan's names play by a looser rule against pins and other names,
+      // and a selected pin's ignores them, but a name under the full-screen button, the scale or the tab bar can't be
+      // read at all: every label keeps clear of what floats over the map (readChrome). A fanned name the controls would
+      // cover on its own side tries the other side of its pin, then goes, like a name the screen edge would crop.
+      const underChrome = (b) => S.chrome.some((c) => overlaps({ x: c.l, y: c.t, w: c.r - c.l, h: c.b - c.t }, b))
+        || b.y < roomTop || b.y + b.h > roomBottom;
+      const sides = side ? [side, -side] : [0];
+      for (const sd of sides) {
+      let bx = sd < 0 ? g.cx - 6 - w : sd > 0 ? g.cx + 6 : g.cx - w / 2;
       // …and a name the SCREEN EDGE would crop slides back inside it rather than being
       // dropped: always for the two pins whose names are the point (the fan's, the selected
       // one's), and for any pin that is itself on screen, so the name stays under its pin. A
@@ -2314,15 +2328,16 @@ function createSession(ctx, opts = {}) {
       const boxAbove = { x: bx, y: g.cy - 64, w, h: 22 };
       const fitsScaleBelow = !hitsScale(boxBelowScale);
       const fitsScaleAbove = !hitsScale(boxAbove);
-      const belowOk = onScreen && fitsScaleBelow && (isSel || !against.some((b) => overlaps(b, boxBelow)));
-      const aboveOk = onScreen && boxAbove.y >= (S.padTop || 0) + 2 && fitsScaleAbove && (isSel || !against.some((b) => overlaps(b, boxAbove)));
+      const belowOk = onScreen && fitsScaleBelow && !underChrome(boxBelow) && (isSel || !against.some((b) => overlaps(b, boxBelow)));
+      const aboveOk = onScreen && boxAbove.y >= (S.padTop || 0) + 2 && fitsScaleAbove && !underChrome(boxAbove) && (isSel || !against.some((b) => overlaps(b, boxAbove)));
       let chosen = null;
+      labPos = "below";
       if (belowOk) {
         chosen = boxBelow;
       } else if (aboveOk) {
         chosen = boxAbove;
         labPos = "above";
-      } else if (isSel && onScreen && !fitsScaleBelow && boxAbove.y >= (S.padTop || 0) + 2) {
+      } else if (isSel && onScreen && !fitsScaleBelow && boxAbove.y >= (S.padTop || 0) + 2 && !underChrome(boxAbove)) {
         chosen = boxAbove;
         labPos = "above";
       }
@@ -2330,6 +2345,11 @@ function createSession(ctx, opts = {}) {
         boxes.push(chosen);
         placed.push(chosen);
         show = true;
+        break;
+      }
+      // The other side only when the controls are what stood in the way: a name dropped for crowding stays dropped, as
+      // before (hung inward it would run across the fan's hub and legs).
+      if (!(underChrome(boxBelow) || underChrome(boxAbove))) break;
       }
     }
     node.dataset.label = show ? "1" : "0";

@@ -80,6 +80,7 @@
     "check:chat-screen": "node checks/chat/screen.mjs",
     "check:journey": "node checks/journey/run.mjs",
     "check:harness": "node checks/harness/run.mjs",
+    "check:harness-folders": "node checks/harness/folders.mjs",
     "check:safe-area": "node scripts/safe_area_tokens_check.mjs"
   },
   "dependencies": {

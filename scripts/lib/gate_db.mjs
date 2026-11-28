@@ -21,14 +21,15 @@
 
 import fs from "node:fs";
 import path from "node:path";
-import { startServer, WRANGLER } from "../../checks/lib/server.mjs";
+import { freePort, startServer, WRANGLER } from "../../checks/lib/server.mjs";
 import { demoTripOn } from "../../checks/lib/demo.mjs";
-import { freeLoopbackPort } from "./browser.mjs";
 import { d1EachOn } from "./gate_sql.mjs";
 
 export async function makeGateDb({ name = "gate", port = null, say = () => {} } = {}) {
   const t0 = Date.now();
-  const server = await startServer({ name, port: port ?? await freeLoopbackPort() });
+  // A port whose stand-ins' ports and inspector (a thousand up) are free too (27 Nov: a port the system handed out had
+  // its inspector's taken, and the gate's server refused to start).
+  const server = await startServer({ name, port: port ?? await freePort() });
   try {
     await server.start();
     say(`The gate's server answers on ${server.origin} (its database: the migrations, nothing else), ${Math.round((Date.now() - t0) / 1000)} s`);

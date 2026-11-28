@@ -285,7 +285,7 @@ const CSS = `
   color:var(--ds-k, var(--ink-2))}
 .pl-kindpill .ico{width:14px;height:14px;flex:0 0 auto}
 .pl-why{margin:18px 0;padding-left:14px;border-left:1px solid var(--edge-strong);
-  font-size:var(--size-16);line-height:1.5;color:var(--ink-1)}
+  font-size:var(--size-16);line-height:1.5;color:var(--ink-1);white-space:pre-line}
 .pl-facts{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;margin-top:12px}
 .pl-facts .pill{display:inline-flex;align-items:center;gap:4px;max-width:100%;padding:0;
   border-radius:0;background:transparent;border:0;
@@ -1422,7 +1422,11 @@ function compare(origin) {
     if (origin) {
       const ad = Number.isFinite(a.dist), bd = Number.isFinite(b.dist);
       if (ad !== bd) return ad ? -1 : 1;             // unlocated places sink, never sort as 0,0
-      if (ad && Math.round(a.dist / 10) !== Math.round(b.dist / 10)) return a.dist - b.dist;
+      // Two places are as near as each other when their distances READ the same, in the units the list is drawn in:
+      // tied on metres rounded to 10 m, an imperial phone saw "70 ft" above "60 ft" (21 m and 18 m tie and go by name;
+      // 27 Nov). The figure shown never falls as the distance grows, so ordering by distance between figures that differ
+      // keeps the numbers rising down the list.
+      if (ad && fmtDistance(a.dist) !== fmtDistance(b.dist)) return a.dist - b.dist;
     } else {
       // No origin at all: walk_minutes would interleave two cities at random, so group by
       // area first. It is the only ordering that is true without knowing where anyone is.

@@ -15,9 +15,12 @@
 //   await server.stop()        stops the server this started (never any other) and removes its files; a server whose
 //                              processes outlive the halt is said (its pid, how long) and its files are kept
 //
-// TWO SERVERS IN ONE RUN NEED TWO NAMES. The folder is .wrangler/check/<name>-<pid> (pid: the check's own), so a
-// second server under the same name in the same run shares the first's database files, with the first's processes
-// still on them if its halt didn't finish.
+// EVERY SERVER HAS A FOLDER OF ITS OWN: .wrangler/check/<name>-<pid>-<six letters>, made by mkdtemp, so no two servers
+// ever share one, in one run or across runs. (27 Nov: named <name>-<pid> alone, a copy whose pid an earlier, stopped
+// copy had had (the pids wrap) opened that copy's database and failed its seed with 409.) A folder named for this
+// process's pid that this process didn't make is an earlier process's, left behind: it is removed before a server starts.
+// Stopped by SIGINT, SIGTERM or SIGHUP (to the check, or to its process group), a check stops its servers, waits for
+// their processes to be gone, and removes their folders before it exits.
 //
 // Everything that starts a server goes through the machine's queue (see README.md).
 
@@ -81,6 +84,56 @@ function startRates() {
   });
 }
 export const WRANGLER = path.join(ROOT, "node_modules/.bin/wrangler");
+
+// What checks/harness/folders.mjs plants (WGP_SERVER_PLANT, read only there): "no-wait" removes a stopped
+// server's folder without waiting for its processes (so it is kept), "same-name" names the folder <name>-<pid> again,
+// "keep-stale" leaves an earlier process's folder of this name and pid where it is, "first-only" stops one server of
+// several on a signal.
+const SERVER_PLANT = process.env.WGP_SERVER_PLANT || "";
+/** A synchronous pause, for a signal handler that must not return before its work is done. */
+const pause = (ms) => Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms);
+/** The folders this process made (its own servers', live or stopped). */
+const madeHere = new Set();
+/**
+ * The servers of this process still up, each as its stop on a signal. ONE handler a signal for all of them, put before
+ * any other (a handler after it may exit the process at once: the browser launcher's does), stops each in turn and
+ * then exits: with a handler a server, the first to run exited before the others had stopped theirs.
+ */
+const onSignalStops = new Set();
+let signalsHooked = false;
+function hookSignals() {
+  if (signalsHooked) return;
+  signalsHooked = true;
+  for (const [sig, code] of [["SIGINT", 130], ["SIGTERM", 143], ["SIGHUP", 129]]) {
+    process.prependListener(sig, () => {
+      // No server up: whatever else listens decides, and with nothing else, the signal does what it would have.
+      if (!onSignalStops.size) { if (process.listenerCount(sig) === 1) process.exit(code); return; }
+      for (const stop of [...onSignalStops]) {
+        try { stop(); } catch { /* the next one all the same */ }
+        if (SERVER_PLANT === "first-only") break;
+      }
+      process.exit(code);
+    });
+  }
+}
+/**
+ * Removes the folders under .wrangler/check of this name and this process's pid (<name>-<pid>, as they were named
+ * before 27 Nov, and <name>-<pid>-<six letters>) that this process didn't make: an earlier process's with the same pid
+ * (a pid is one process's at a time), left behind by a stop that couldn't clean up (a SIGKILL). One whose written-down
+ * server group still runs is left as it is.
+ */
+function removeStaleOwnPid(checkDir, name) {
+  const esc = name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const mine = new RegExp(`^${esc}-${process.pid}(-[A-Za-z0-9]{6})?$`);
+  for (const f of fs.readdirSync(checkDir)) {
+    const full = path.join(checkDir, f);
+    if (!mine.test(f) || madeHere.has(full)) continue;
+    let group = null;
+    try { group = JSON.parse(fs.readFileSync(path.join(full, "server.pid"), "utf8")).pgid; } catch { /* none written */ }
+    if (Number.isInteger(group) && alive(-group)) continue;
+    fs.rmSync(full, { recursive: true, force: true });
+  }
+}
 /**
  * What every local wrangler of ours runs with (the check servers, the gate's, the demo; `npm run dev` through
  * scripts/dev.mjs; the older harnesses): no metrics sent, and no local trace store. wrangler dev (4.152) keeps every
@@ -140,8 +193,8 @@ export async function freePort({ avoid = [] } = {}) {
 
 /**
  * @param {object} o
- * @param {string} o.name        names the server's folder under .wrangler/check/<name>-<pid>: two servers in one run
- *                               need two names (one name is one database, see the file's head)
+ * @param {string} o.name        names the server's folder, .wrangler/check/<name>-<pid>-<six letters> (one of its own,
+ *                               see the file's head), and its record
  * @param {number} o.port        the inspector takes port + 1000
  * @param {object} [o.vars]      settings on top of wrangler.jsonc's (PUBLIC_ORIGIN and RP_ID are set for the port)
  * @param {object} [o.secrets]   what a deployed site keeps as secrets
@@ -166,7 +219,11 @@ export async function startServer({ name, port, vars = {}, secrets = {}, email =
   const inspector = port + 1000;
   if (!(await portFree(inspector))) throw new CheckError(`port ${inspector} (the inspector) is in use`);
 
-  const work = path.join(ROOT, ".wrangler/check", `${name}-${process.pid}`);
+  const checkDir = path.join(ROOT, ".wrangler/check");
+  fs.mkdirSync(checkDir, { recursive: true });
+  if (SERVER_PLANT !== "keep-stale") removeStaleOwnPid(checkDir, name);
+  const work = SERVER_PLANT === "same-name" ? path.join(checkDir, `${name}-${process.pid}`) : fs.mkdtempSync(path.join(checkDir, `${name}-${process.pid}-`));
+  madeHere.add(work);
   const state = path.join(work, "state");
   fs.mkdirSync(state, { recursive: true });
   const origin = `http://localhost:${port}`;
@@ -230,12 +287,21 @@ export async function startServer({ name, port, vars = {}, secrets = {}, email =
 
   const logFile = path.join(work, "server.log");
   let child = null;
-  const record = path.join(PIDS, `${name}-${process.pid}.json`);
+  const record = path.join(PIDS, `${path.basename(work)}.json`);
   const forget = () => { fs.rmSync(record, { force: true }); fs.rmSync(path.join(work, "server.pid"), { force: true }); };
   // The process group this check last started (wrangler, workerd and their helpers), until it is gone: a halt waits for
   // all of it, not only the port, since a workerd still alive keeps the database files open.
   let group = null;
   const groupAlive = () => { if (!group) return false; try { process.kill(-group, 0); return true; } catch (e) { return e.code === "EPERM"; } };
+  // The same asked without the event loop, for the signal handler, which waits without returning: there Node never reaps
+  // the server's exited processes, which stay in the group as zombies until it does. A zombie holds no file open, so
+  // it is gone for the folder; read from ps, the group's processes that are not.
+  const groupLiving = () => {
+    if (!groupAlive()) return false;
+    const r = spawnSync("ps", ["-axo", "pgid=,stat="], { encoding: "utf8" });
+    if (r.status !== 0) return true;
+    return r.stdout.split("\n").some((l) => { const [g, st] = l.trim().split(/\s+/); return Number(g) === group && st && !st.startsWith("Z"); });
+  };
   const stopChild = (signal = "SIGTERM") => {
     if (group && groupAlive()) {
       try { process.kill(-group, signal); } catch { /* already gone */ }
@@ -245,16 +311,31 @@ export async function startServer({ name, port, vars = {}, secrets = {}, email =
     for (const s of [rates, far.server]) { try { s.close(() => {}); } catch { /* closed already */ } }
     if (keep) return;
     // Never from under a process of this server's that still lives: said, and the folder kept for the next look.
-    if (groupAlive()) { console.log(`  (server ${name}: its process group ${group} still runs; its folder is kept: ${path.relative(ROOT, work)})`); return; }
+    if (groupLiving()) { console.log(`  (server ${name}: its process group ${group} still runs; its folder is kept: ${path.relative(ROOT, work)})`); return; }
     fs.rmSync(work, { recursive: true, force: true });
   };
-  const onSignal = (code) => () => { stopChild(); forget(); remove(); process.exit(code); };
-  // Each server's own handlers, taken off when it stops: a run that starts many servers in turn (the bake-off's
-  // fresh trip a task) keeps none of the stopped ones' (Node warns past ten).
-  const onInt = onSignal(130), onTerm = onSignal(143);
-  process.on("SIGINT", onInt);
-  process.on("SIGTERM", onTerm);
-  const unhook = () => { process.off("SIGINT", onInt); process.off("SIGTERM", onTerm); };
+  // Stopped by a signal: the server's group is ended and WAITED FOR (SIGTERM, SIGKILL past 10 s, given up past 20 s),
+  // and only then is its folder removed, before the check exits. It waits here, in the handler, without returning: a
+  // handler after it may exit the process at once (the browser launcher's does), and so this one is put first.
+  // (27 Nov: the folder was removed only if the group was already gone the instant after its SIGTERM, which it never is;
+  // a `gate.mjs --serve` stopped by a TERM to its group left every folder behind.)
+  const onSignal = () => {
+    if (SERVER_PLANT !== "no-wait") {
+      stopChild("SIGTERM");
+      const began = Date.now();
+      let killed = false;
+      while (groupLiving() && Date.now() - began < 20000) {
+        if (!killed && Date.now() - began > 10000) { stopChild("SIGKILL"); killed = true; }
+        pause(100);
+      }
+    } else stopChild("SIGTERM");
+    forget(); remove();
+  };
+  // Taken off when it stops: a run that starts many servers in turn (the bake-off's fresh trip a task) keeps none of
+  // the stopped ones'.
+  hookSignals();
+  onSignalStops.add(onSignal);
+  const unhook = () => { onSignalStops.delete(onSignal); };
 
   const server = {
     origin, port, state, work, logFile, configured,

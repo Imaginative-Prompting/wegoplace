@@ -106,12 +106,18 @@ export function refusalWords({ op, status, body }) {
  * @param {{ op?: { payload?: object }, status?: number, body?: any }} refusal
  * @returns {string}
  */
-export function refusalLine({ op, status, body } = {}) {
+export function refusalLine({ op, status, body } = {}, known = {}) {
   if (status === 403) return "That change wasn't yours to make, so it was undone.";
   const p = (op && op.payload) || {};
-  const typed = [p.title, p.label, p.name, p.body, p.text].find((v) => typeof v === "string" && v.trim());
+  // What the person calls it: the words the write carries, or else (a change that didn't touch them) the words the
+  // thing has on this phone, which the shell passes as `known.name`.
+  const typed = [p.title, p.label, p.name, p.description, p.body, p.text, known.name].find((v) => typeof v === "string" && v.trim());
   let name = typed ? typed.replace(/\s+/g, " ").trim() : "";
   if (name.length > 40) name = `${name.slice(0, 39).trimEnd()}…`;
+  // Changed here with no signal, deleted on another phone meanwhile: said as that, by its name, never by the
+  // server's sentence, which names the row by its id for the apps that write to the trip (27 Nov: "There's no
+  // purchase or payment "pu-1a80…" on this trip.").
+  if (status === 404 && !(op && op.op === "delete")) return `${name ? `“${name}”` : (known.noun || "That")} was deleted on another phone, so the change wasn't kept.`;
   const what = name ? `“${name}”` : "A change";
   const reason = body && typeof body === "object" && typeof body.reason === "string" ? body.reason.trim() : "";
   if (reason) return `${what} couldn't be saved. ${reason}`;

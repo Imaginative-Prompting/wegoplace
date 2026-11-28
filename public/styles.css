@@ -1658,10 +1658,6 @@ body:has(.sh-root[data-open="1"]) .head-more {
   opacity: 0; visibility: hidden; pointer-events: none;
   transition: opacity var(--dur-200) var(--ease-standard), visibility 0s var(--dur-200);
 }
-/* On a screen whose head hasn't moved onto the design system yet, your picture sits on that head's row: one offset a
-   screen, measured at 390 with a phone's insets (the picture's centre line on the row's). Each line goes when its
-   screen's head moves; then the picture is in the head's own end (.ds-head-end). */
-body:has(#view .sp-head) { --head-more-dy: 12px; }
 body[data-back="1"] .head-more, body[data-kb="1"] .head-more { display: none; }
 /* In a moved screen's head (index.html places it there on a phone): beside the screen's own controls. */
 .ds-head-end > .head-more { position: relative; top: auto; right: auto; bottom: auto; left: auto; }
@@ -1691,8 +1687,6 @@ body[data-back="1"] .head-more, body[data-kb="1"] .head-more { display: none; }
   /* A tab's focus ring inside its own box, so the pill's round ends never cut it. */
   .tab:focus-visible { outline-offset: -2px; }
 
-  /* Room at the right of each main screen's head for you (.head-more), so its own controls stand clear of it. */
-  body:not([data-back="1"]):not(:has(.head-more[data-away])) #view :is(.sp-head) { padding-right: 52px; }
 
   /* The sync line: the screen's foot. */
   .netline { bottom: 0; }

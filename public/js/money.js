@@ -408,6 +408,18 @@ export function coveredBy(list, to, rates) {
  * PAYMENTS (`kind: "payment"`, one share: the person who received it) add `back` (what each
  * person paid back) and `got` (what each got back). `total`, `paid` and `owed` are purchases
  * only: a payment is not spending.
+ *
+ * THE NETS, CONVERTED, ARE ROUNDED ONCE A PERSON, and a converted net smaller than what one
+ * minor unit of the coarsest currency counted is worth is settled. (27 Nov: the plan paid in
+ * dollars, as Mark paid records it, left "Teo owes you ≈ €0.03" in euros and "≈ S/ 0.02" in
+ * soles, at the same rates, and up to S/ 0.22 on a trip of 42 purchases: every purchase's
+ * conversion rounded on its own and the roundings added up, and a payment made in cents of one
+ * currency can't be finer than a cent of it in another. Nobody could ever reach "settled".)
+ * Each person's net in each currency is exact (integers); it is converted with no rounding,
+ * summed, and the sums rounded by largest remainder so they still add to exactly zero. In one
+ * currency, nothing changes: every factor is 1. `paid`, `owed`, `back` and `got` (the "why"
+ * under a balance) are summed the same way and each rounded once, so with conversion they can
+ * miss the net by a unit or two, never more; `total` is still each purchase converted once.
  */
 export function netBalances(purchases, memberIds, { to, toExp, rates }) {
   const net = new Map(memberIds.map((id) => [id, 0]));
@@ -419,6 +431,15 @@ export function netBalances(purchases, memberIds, { to, toExp, rates }) {
   let total = 0;
 
   const bump = (m, k, v) => m.set(k, (m.get(k) || 0) + v);
+  // Each person's exact net in each currency counted, in that currency's minor units.
+  // And what each paid, owed, paid back and got back in it: the "why" under a balance, rounded once a person too.
+  const native = new Map();     // code -> { exp, nets, paid, owed, back, got: Map(id -> integer) }
+  const nativeBump = (p, id, v, part) => {
+    let c = native.get(p.currency);
+    if (!c) native.set(p.currency, c = { exp: p.amount_exp, nets: new Map(), paid: new Map(), owed: new Map(), back: new Map(), got: new Map() });
+    c.nets.set(id, (c.nets.get(id) || 0) + v);
+    c[part].set(id, (c[part].get(id) || 0) + Math.abs(v));
+  };
 
   for (const p of purchases) {
     const A = convert(p.amount_minor, p.amount_exp, p.currency, toExp, to, rates);
@@ -433,6 +454,7 @@ export function netBalances(purchases, memberIds, { to, toExp, rates }) {
       if (!to_) continue;
       bump(net, p.paid_by, A); bump(back, p.paid_by, A);
       bump(net, to_.user_id, -A); bump(got, to_.user_id, A);
+      nativeBump(p, p.paid_by, p.amount_minor, "back"); nativeBump(p, to_.user_id, -p.amount_minor, "got");
       continue;
     }
     total += A;
@@ -448,9 +470,52 @@ export function netBalances(purchases, memberIds, { to, toExp, rates }) {
     bump(net, p.paid_by, A);
     bump(paid, p.paid_by, A);
     shares.forEach((s, i) => { bump(net, s.user_id, -nat[i]); bump(owed, s.user_id, nat[i]); });
+    // The stored shares sum to the amount (allocate() made them), so they ARE its exact split.
+    nativeBump(p, p.paid_by, p.amount_minor, "paid");
+    for (const s of shares) nativeBump(p, s.user_id, -s.share_minor, "owed");
+  }
+
+  // Anything converted: the nets from the exact sums (see the head of this function).
+  const codes = [...native.keys()].sort();
+  if (codes.some((c) => c !== to)) {
+    const factor = (c) => (c === to ? Math.pow(10, toExp - native.get(c).exp) : Math.pow(10, toExp - native.get(c).exp) * ((to === "USD" ? 1 : rates[to]) / (c === "USD" ? 1 : rates[c])));
+    const exact = new Map();
+    for (const c of codes) {
+      const f = factor(c);
+      for (const [id, v] of native.get(c).nets) exact.set(id, (exact.get(id) || 0) + v * f);
+    }
+    const tol = Math.max(...codes.map(factor));
+    const rounded = roundToZero(exact, tol, memberIds);
+    for (const id of new Set([...net.keys(), ...rounded.keys()])) net.set(id, rounded.get(id) || 0);
+    for (const [part, m] of [["paid", paid], ["owed", owed], ["back", back], ["got", got]]) {
+      const sum = new Map();
+      for (const c of codes) for (const [id, v] of native.get(c)[part]) sum.set(id, (sum.get(id) || 0) + v * factor(c));
+      for (const [id, v] of sum) m.set(id, Math.round(v));
+    }
   }
 
   return { net, paid, owed, back, got, total, unconverted };
+}
+
+/**
+ * Exact (fractional) nets that sum to zero -> integers that sum to exactly zero. One whose size is under `tol` is 0
+ * (settled); the rest get their floor, and the units still needed go one at a time to the largest remainders (ties by
+ * id), round again if more are needed than there are people. The same answer on every phone: the input is summed per
+ * currency in code order, never in the order the rows came.
+ */
+function roundToZero(exact, tol, memberIds) {
+  const out = new Map(memberIds.map((id) => [id, 0]));
+  const rest = [...exact.entries()].filter(([, v]) => !(Math.abs(v) < tol))
+    .map(([id, v]) => ({ id, v, n: Math.floor(v + 1e-9) }))
+    .map((r) => ({ ...r, frac: r.v - r.n }));
+  if (!rest.length) return out;
+  let need = -rest.reduce((a, r) => a + r.n, 0);
+  const up = rest.slice().sort((a, b) => b.frac - a.frac || (a.id < b.id ? -1 : 1));
+  for (let i = 0; need > 0; i = (i + 1) % up.length, need--) up[i].n += 1;
+  const down = rest.slice().sort((a, b) => a.frac - b.frac || (a.id < b.id ? -1 : 1));
+  for (let i = 0; need < 0; i = (i + 1) % down.length, need++) down[i].n -= 1;
+  for (const r of rest) out.set(r.id, r.n);
+  return out;
 }
 
 /** A payment: one person paying another back. Every other row is a purchase. */

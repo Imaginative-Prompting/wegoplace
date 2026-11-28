@@ -1076,10 +1076,20 @@ function dayParts(d, model) {
   const staysBefore = (t) => { while (k < placed.length && (t == null || before(placed[k], t))) { rows.push([`s:${placed[k].e.id}`, stayHTML(placed[k], true)]); k++; } };
   if (d.cards.length) staysBefore(startMs(d.cards[0]));
   if (d.lead) rows.push([railKey(d.lead), railHTML(d.lead, model, isLiveRail(d.lead))]);
+  // One that falls while a plan is on (a check-in at 15:00 during a 15:00-16:00 boat) stands right after that plan,
+  // BEFORE its free time: placed before the next plan, it stood under "30m free" and read as happening then (27 Nov).
+  const staysWithin = (c, nextStart) => {
+    const end = endMs(c);
+    if (end == null) return;
+    while (k < placed.length && stayAt(placed[k]) < end && (nextStart == null || stayAt(placed[k]) < nextStart)) {
+      rows.push([`s:${placed[k].e.id}`, stayHTML(placed[k], true)]); k++;
+    }
+  };
   for (let i = 0; i < d.cards.length; i++) {
     const c = d.cards[i];
     if (i) staysBefore(startMs(c));
     rows.push([cardKey(c), cardHTML(c, model, liveById.get(c.id) || null, c.id === nextId, c.id === heroId, isPast)]);
+    staysWithin(c, i + 1 < d.cards.length ? startMs(d.cards[i + 1]) : null);
     const r = d.rails[i];
     if (r) rows.push([railKey(r), railHTML(r, model, isLiveRail(r))]);
   }
@@ -1513,6 +1523,7 @@ function mountAgenda(el, ctx) {
       }
       rec.stays = patchKeyed(sec.children[1], d.stays, rec.stays);
       rec.rows = patchKeyed(sec.lastElementChild, d.rows, rec.rows);
+      fitWhen(sec.lastElementChild);
       pDays.set(d.key, rec);
     }
     for (const k of [...pDays.keys()]) if (!alive.has(k)) pDays.delete(k);
@@ -1520,6 +1531,21 @@ function mountAgenda(el, ctx) {
     markSelected();
     syncFab();
   }
+
+  // ONE TIME COLUMN A DAY (27 Nov). Each card is its own grid, so a card whose time is wider (a zone chip, the
+  // weekday of an end past midnight) widened only its own first column and its title stood right of every other
+  // title of the day. The day's list takes its widest time (each end is kept whole: timeLine) as every card's
+  // column. Measured after each paint; a list not laid out (a hidden view) is measured on the next one.
+  function fitWhen(list) {
+    if (!list) return;
+    let w = 0;
+    for (const n of list.querySelectorAll(".ag-card .ag-end")) w = Math.max(w, n.getBoundingClientRect().width);
+    if (!w) return;
+    const v = `${Math.max(58, Math.ceil(w))}px`;
+    if (list.style.getPropertyValue("--ag-when-w") !== v) list.style.setProperty("--ag-when-w", v);
+  }
+  // The times are drawn in the mono face; until it has loaded they were measured in the fallback's widths.
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (!dead) for (const l of root.querySelectorAll(".ag-list")) fitWhen(l); });
 
   // Two panes: the place picked on the map beside the Itinerary; the first plan at it is marked,
   // and marked again after every redraw of the parts (a card whose words change is rebuilt).
@@ -2104,10 +2130,23 @@ function mountAgenda(el, ctx) {
   const onRootDown = (ev) => {
     if (stripWant != null && ev.target.closest(".ag-strip")) stripWant = null;
   };
-  // Is this wholly on screen, below the pinned bars and above the scroller's lower edge?
+  // Is this wholly on screen, below the pinned bars and above what floats over the list's foot? On a phone #view runs
+  // under the tab bar and the +: a card behind them counted as on screen, so the Itinerary opened with the live plan
+  // hidden under the tab bar (27 Nov). Beside a rail (a tablet) the tab bar is a column, not a foot: only what stands in
+  // the lower half of the list counts.
+  function chromeCeil() {
+    const v = el.getBoundingClientRect();
+    let ceil = v.bottom;
+    for (const n of document.querySelectorAll(".tabbar, .dock > *, .ag-fab")) {
+      const r = n.getBoundingClientRect();
+      if (!r.width || !r.height || r.top < v.top + v.height / 2 || r.right <= v.left || r.left >= v.right) continue;
+      ceil = Math.min(ceil, r.top);
+    }
+    return ceil;
+  }
   const wholeInView = (node, tall = 0) => {
     const r = node.getBoundingClientRect();
-    return r.top >= chromeFloor() - 0.5 && (tall ? r.top + tall : r.bottom) <= el.getBoundingClientRect().bottom - 8;
+    return r.top >= chromeFloor() - 0.5 && (tall ? r.top + tall : r.bottom) <= chromeCeil() - 8;
   };
   // A new plan starts on the day the reader is looking at (the strip's lit day), and when it
   // is saved the list goes to it: the card itself, or its day when it draws as a stay. A plan
@@ -3227,7 +3266,7 @@ const AG_CSS = `
 .ag-slot:last-child { border-bottom: 0; }
 .ag-card {
   position: relative; overflow: hidden;
-  display: grid; grid-template-columns: minmax(58px, auto) minmax(0, 1fr) auto; align-items: start;
+  display: grid; grid-template-columns: var(--ag-when-w, minmax(58px, auto)) minmax(0, 1fr) auto; align-items: start;
   column-gap: var(--sp-3);
   width: calc(100% + var(--sp-2) * 2); min-height: var(--tap);
   margin: 0 calc(var(--sp-2) * -1); padding: 10px var(--sp-2) 10px calc(var(--sp-2) + 4px);
@@ -3515,7 +3554,7 @@ a.ag-b-lead { min-height: var(--control-44); color: inherit; text-decoration: no
 }
 
 .ag-d-body { display: flex; flex-direction: column; gap: var(--sp-3); margin-top: var(--sp-4); }
-.ag-d-p { font-size: var(--size-16); line-height: 1.55; color: var(--ink-2); }
+.ag-d-p { font-size: var(--size-16); line-height: 1.55; color: var(--ink-2); white-space: pre-line; }
 .ag-d-link {
   display: inline-flex; align-items: center; gap: 6px; margin-top: var(--sp-3);
   font-size: var(--size-14); font-weight: 600; color: var(--ink-1);

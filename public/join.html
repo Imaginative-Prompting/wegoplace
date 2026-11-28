@@ -1,8 +1,8 @@
 <!doctype html>
-<html lang="en" data-app="wegoplace-app">
+<html lang="en" data-app="wegoplace-app" class="ds">
 <head>
 <meta charset="utf-8">
-  <meta name="wgp-build" content="v173">
+  <meta name="wgp-build" content="v181">
 <!-- First, at a www. address: the same page without www., unless this phone keeps the app here (public/js/www.js). -->
 <script src="/js/www.js"></script>
 <!-- What breaks on this page reaches the site's owner, cleaned of anything personal (js/error-report.js). -->
@@ -28,14 +28,16 @@
 <link rel="icon" href="/icons/favicon.1ad16064.ico" sizes="16x16 32x32 48x48">
 <link rel="apple-touch-icon" href="/icons/icon-180.b5a4a30b.png" sizes="180x180">
 
-<link rel="preload" href="/vendor/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/vendor/fonts/instrument-sans-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/vendor/fonts/bricolage-grotesque-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
-<!-- The design system's tokens and the shell's own pieces ("Updating the app…", js/fresh-app.js), before the page's. -->
+<!-- The sign-in page's sheets, the same four and its own (css/signin.css): the design system's tokens, its base, its
+     parts (.ds-button, .ds-input) and the shell's pieces ("Updating the app…", js/fresh-app.js); nothing of styles.css
+     or css/account.css. Someone signed out goes from here to the sign-in page and back: one look. -->
 <link rel="stylesheet" href="/ds/tokens.css">
 <link rel="stylesheet" href="/ds/base.css">
+<link rel="stylesheet" href="/ds/controls.css">
 <link rel="stylesheet" href="/ds/shell.css">
-<link rel="stylesheet" href="/styles.css">
-<link rel="stylesheet" href="/css/account.css">
+<link rel="stylesheet" href="/css/signin.css">
 
 <script>
 // The theme, before first paint. Classic and inline on purpose: a module script runs after the
@@ -72,15 +74,101 @@
   // With no theme chosen the system can change underneath an open page (dark at sunset).
   mq.addEventListener("change", paint);
 })();
+
+// The keyboard. The body is 100dvh (css/signin.css), and dvh doesn't shrink for a keyboard: the
+// focused field can sit under the keys. So while the keys are up, data-kb trims the page's foot,
+// and the page's own scroller (never the document) moves the field, and its form's button, into
+// the band above them. The body's height doesn't follow the keys: a column centred in a body that
+// changed a moment after the viewport jumped under the finger after every resize (19 Nov).
+// Inline for the same reason as the theme: a deferred import would apply a frame late.
+(function () {
+  var vv = window.visualViewport;
+  if (!vv) return;
+  var focused = false;
+
+  var vvBase = 0;
+  function kbHeight() {
+    // The keyboard's height is the drop in the visual viewport from its size with the keys
+    // down. (innerHeight shrinks with the keyboard on iOS, so a formula built on it reads 0.)
+    // The baseline is learned again whenever no field is focused, so a collapsing address bar
+    // or a rotation isn't taken for a keyboard.
+    if (!focused && vv.height > vvBase) vvBase = vv.height;
+    if (!vvBase) vvBase = vv.height;
+    return Math.max(0, Math.round(vvBase - vv.height));
+  }
+  function paintKeys() {
+    // 120px: taller than an iOS accessory bar, far shorter than a keyboard.
+    var open = focused || kbHeight() > 120;
+    // document.body doesn't exist yet on the first call (this runs in <head>).
+    if (document.body) document.body.dataset.kb = open ? "1" : "0";
+    if (open && (window.scrollY || window.scrollX)) window.scrollTo(0, 0);
+  }
+  function isField(el) {
+    if (!el) return false;
+    if (el.tagName === "INPUT") return !/^(checkbox|radio|button|submit|reset)$/i.test(el.type || "text");
+    return el.tagName === "TEXTAREA" || el.isContentEditable === true;
+  }
+  // Keeping the page still isn't enough: the button that finishes the form has to be reachable
+  // too. After the page has shrunk, its own scroller (never the document) moves the focused
+  // field and, where both fit, the form's button into the band above the keys.
+  function reveal() {
+    var el = document.activeElement;
+    if (!isField(el)) return;
+    var port = el.closest(".lg-page");
+    if (!port) return;
+    var form = el.closest("form");
+    var submit = form && form.querySelector('[type="submit"]');
+    var pr = port.getBoundingClientRect();
+    var er = el.getBoundingClientRect();
+    var pad = 12;
+    var wantBottom = submit ? submit.getBoundingClientRect().bottom : er.bottom;
+    var delta;
+    if (wantBottom - er.top <= pr.height - pad * 2) {
+      // Field and button both fit: pull the button just inside the bottom edge, then give way if
+      // that would push the field itself off the top — the field you are typing in always wins.
+      delta = Math.max(wantBottom - (pr.bottom - pad), 0);
+      if (er.top - delta < pr.top + pad) delta = er.top - (pr.top + pad);
+    } else {
+      // Too tall to show both. Sit the field high in the band so what follows it is readable.
+      delta = er.top - (pr.top + pr.height * 0.18);
+    }
+    if (Math.abs(delta) > 1) port.scrollTop += delta;
+  }
+
+  addEventListener("focusin", function (e) {
+    if (!isField(e.target)) return;
+    focused = true;
+    paintKeys();
+    // Twice: now, for when the keys are already up (moving between two fields), and again once
+    // the keyboard has finished coming in, because the band it leaves isn't known until then.
+    reveal();
+    setTimeout(reveal, 350);
+  });
+  addEventListener("focusout", function (e) {
+    if (!isField(e.target)) return;
+    // Deferred: moving between two fields fires focusout before focusin, and reacting to the
+    // gap makes the page jump between them.
+    setTimeout(function () { focused = isField(document.activeElement); paintKeys(); }, 0);
+  });
+  // Only when the keyboard's own height changes: iOS also fires this while someone scrolls by
+  // hand, and moving the page under their finger would be its own fault.
+  var lastKb = 0;
+  vv.addEventListener("resize", function () {
+    paintKeys();
+    var kb = kbHeight();
+    if (Math.abs(kb - lastKb) > 40) { lastKb = kb; if (kb > 120) reveal(); }
+  });
+  vv.addEventListener("scroll", paintKeys);
+  paintKeys();
+})();
 </script>
 
 </head>
 
 <body data-join-page>
 
-<div class="statusbar" aria-hidden="true"></div>
 <!-- data-wait, as on login.html: nothing is drawn until js/join.js knows what the link is for
-     and whether someone is signed in, so the page appears once, where it stays. css/account.css
+     and whether someone is signed in, so the page appears once, where it stays. css/signin.css
      ends the wait after four seconds whatever has happened. -->
 <main class="lg-page" id="page" data-wait>
 
@@ -100,16 +188,16 @@
     <section class="lg-panel" id="p-trip" aria-labelledby="trip-name" hidden>
       <div class="lg-explain">
         <p class="meta">You've been invited to join</p>
-        <h1 class="h1 jn-name" id="trip-name"></h1>
+        <h1 class="h2 jn-name" id="trip-name"></h1>
         <p class="lead" id="trip-when"></p>
         <p class="meta" id="trip-host"></p>
       </div>
 
       <!-- Signed in: one button. -->
       <div class="lg-stack" id="as-account" hidden>
-        <button class="btn btn-primary btn-block" id="btn-join" data-act type="button"><span>Join this trip</span></button>
+        <button class="ds-button ds-button--white ds-button--lg ds-button--block lg-go" id="btn-join" data-act type="button"><span>Join this trip</span></button>
         <p class="meta">You're signed in as <span class="strong" id="me-name"></span><span id="me-guest" hidden>, a guest on <span data-here>this phone</span></span>. That's the name the people on the trip will see.</p>
-        <button class="btn btn-ghost btn-block" id="btn-other" data-act type="button">Use a different account</button>
+        <button class="ds-button ds-button--fade ds-button--block" id="btn-other" data-act type="button">Use a different account</button>
       </div>
 
       <!-- Signed out: a name is all it takes. Joining makes a guest, someone on the trip whose
@@ -117,13 +205,13 @@
            comes first and is the largest thing here; signing in is the line under it. -->
       <div class="lg-stack" id="as-visitor" hidden>
         <form class="lg-form" id="form-guest" novalidate>
-          <div class="field">
-            <label for="guest-name">Your name</label>
-            <input class="input" id="guest-name" name="name" type="text"
+          <div class="ds-field">
+            <label class="ds-label" for="guest-name">Your name</label>
+            <input class="ds-input ds-input--lg" id="guest-name" name="name" type="text"
                    autocomplete="name" autocapitalize="words" autocorrect="off"
                    spellcheck="false" maxlength="40" enterkeyhint="go" placeholder="what the others on it will see">
           </div>
-          <button class="btn btn-primary btn-block jn-join" id="btn-guest" data-act type="submit">Join</button>
+          <button class="ds-button ds-button--white ds-button--lg ds-button--block lg-go" id="btn-guest" data-act type="submit">Join</button>
         </form>
         <p class="meta" id="guest-paused" hidden>Joining without an account is paused for now. If you have an account, sign in and join with it.</p>
         <p class="meta jn-have">Already have an account? <a class="jn-link" id="go-signin" href="/login">Sign in</a></p>
@@ -135,21 +223,21 @@
     <section class="lg-panel" id="p-gone" aria-labelledby="gone-title" hidden>
       <h1 class="h2" id="gone-title">This link doesn't work</h1>
       <p class="lead">It may have run out, been used by as many people as it allows, or been turned off. Ask someone on the trip for a new one.</p>
-      <a class="btn btn-block" href="/">Open WeGoPlace</a>
+      <a class="ds-button ds-button--gray ds-button--lg ds-button--block" href="/">Open WeGoPlace</a>
     </section>
 
     <!-- ── the link couldn't be asked about ────────────────────────────────────────────── -->
     <section class="lg-panel" id="p-failed" aria-labelledby="failed-title" hidden>
       <h1 class="h2" id="failed-title">Couldn't check this link</h1>
       <p class="lead" id="failed-text"></p>
-      <a class="btn btn-block" href="">Try again</a>
+      <a class="ds-button ds-button--gray ds-button--lg ds-button--block" href="">Try again</a>
     </section>
 
     <!-- Shown by the script tag at the bottom when js/join.js (or a file it needs) can't be
          fetched: nothing on this page can work without it. -->
     <div class="lg-failed" id="no-script" hidden>
       <p class="meta">This page didn't finish loading, so the link can't be checked yet. Check your connection, then try again.</p>
-      <a class="btn btn-block" href="">Try again</a>
+      <a class="ds-button ds-button--gray ds-button--lg ds-button--block" href="">Try again</a>
     </div>
 
     <noscript>

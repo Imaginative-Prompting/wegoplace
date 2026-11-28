@@ -350,7 +350,7 @@ try {
   await A.page(`(document.querySelector('.me-card[data-id="${resumed.id}"] .me-del').click(), 1)`);
   await A.wait(`document.querySelector(".sh-root .me-dokill") ? 1 : 0`, "the delete question");
   const asks = await A.page(`(document.querySelector(".sh-root .sh-body") || { textContent: "" }).textContent.replace(/\\s+/g, " ").trim()`);
-  check("the question names how many items and how big", /\d+\s+items?\s+·\s+[\d.]+\s*\w+/.test(asks), asks.slice(0, 160));
+  check("the question names what goes, in photos and videos, and how big", /\d+ (photos?|videos?)( and \d+ videos?)? · [\d.]+ \w+/.test(asks) && !/\bitems?\b/.test(asks), asks.slice(0, 160));
   await A.look("delete-question");
   await A.page(`(document.querySelector(".sh-root .me-dokill").click(), 1)`);
   await A.wait(`document.querySelectorAll(".me-card").length === ${nCards - 1} ? 1 : 0`, "the card leaves the feed", 30000);

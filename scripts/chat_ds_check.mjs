@@ -92,10 +92,12 @@ for (const [label, rawCss] of [["public/css/chat.css", chatCss], ["changes.js CH
   check(`${label}: zero --ink-3/--ink-4 on readable text`, faintHits.length === 0, faintHits.join(" | "));
 }
 
-check("styles.css removes .ch-head offset & 52px room entry while keeping :not(:has(.head-more[data-away]))",
+// The 52 px of room for a fixed picture went with the last screen that had it (Split, 27 Nov: its head holds the picture
+// now); while any screen keeps the rule, it keeps its :not(…).
+check("styles.css removes .ch-head offset & 52px room entry, the room rule (while any screen has it) keeping :not(:has(.head-more[data-away]))",
   !/body:has\(#view \.ch-head\)/.test(stSrc)
   && !/:is\([^)]*\.ch-head/.test(stSrc)
-  && /body:not\(\[data-back="1"\]\):not\(:has\(\.head-more\[data-away\]\)\)/.test(stSrc));
+  && (!/#view :is\([^)]*\) \{ padding-right: 52px; \}/.test(stSrc) || /body:not\(\[data-back="1"\]\):not\(:has\(\.head-more\[data-away\]\)\)/.test(stSrc)));
 
 check("chat.js uses DS root, .ds-head/.ds-head-end, .ch-newline, .ds-face, zero --nc, and keeps .ch-bell-t",
   /root\.className\s*=\s*"ch ds"/.test(chatSrc)

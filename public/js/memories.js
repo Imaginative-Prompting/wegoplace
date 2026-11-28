@@ -56,7 +56,7 @@ import { boardsWarning, boardsUnshared, boardState, boardMaker, mayStopBoard } f
 // The ground table only — a handful of strings, not the renderer. The board itself stays lazy.
 import { GROUNDS as COLLAGE_GROUNDS } from "./collage-layout.js";
 import { store } from "./store.js";
-import { within, sendBytes } from "./net.js";
+import { within, sendBytes, STALL_MS } from "./net.js";
 import { pictureNow, wakePictures } from "./pictures.js";
 import { dbName } from "./trip-here.js";
 import { adoptOldRows } from "./trip-adopt.js";
@@ -852,6 +852,17 @@ const happenedDay = (m) => m.day || dayKey(m.taken_at ?? m.created_at, tripTz())
 /** "Sat May 3" for a "YYYY-MM-DD" (a calendar day: read at its noon in UTC, so no zone moves it). */
 const dayLabel = (k) => fmtDay(Date.parse(`${k}T12:00:00Z`), "UTC");
 /**
+ * When a memory happened, as its card and the viewer say it: the time its photographs were taken (none for a day
+ * chosen by hand: no time is invented; when it was posted for a memory that says nothing else), and "posted <day>"
+ * when it was posted on another day. The feed says the day in its heading; the viewer has none, so it leads with it
+ * (`withDay`): "Mon May 4 · 10:00 · posted Fri Nov 27".
+ */
+function whenSaid(m, { withDay = false } = {}) {
+  const day = happenedDay(m), posted = dayKey(m.created_at, tripTz());
+  const time = m.taken_at != null ? fmtTime(m.taken_at, tripTz()) : (m.day ? "" : fmtTime(m.created_at, tripTz()));
+  return [withDay ? dayLabel(day) : "", time, day !== posted ? `posted ${dayLabel(posted)}` : ""].filter(Boolean).join(" · ");
+}
+/**
  * The days a memory can be put on: the trip's, and any other it already names (a day before or
  * after it), up to two days from now in the trip's zone, as the server keeps them (a trip still to
  * come offers none of its days: a memory can't have happened yet).
@@ -1170,12 +1181,16 @@ const jobs = [];                        // active/failed upload jobs, oldest fir
 let jobSeq = 0;
 let pumping = false;
 
-/** What a job holds, in words: one file by its name; else "34 photos", "1 video", "32 photos and 2 videos". */
-function jobWhat(items) {
-  if (items.length === 1) return items[0].name;
-  const videos = items.filter((i) => i.kind === "video").length, photos = items.length - videos;
+/** Photos and videos, counted in words: "34 photos", "1 video", "32 photos and 2 videos". */
+function mediaWords(photos, videos) {
   const say = (n, one) => `${n} ${one}${n === 1 ? "" : "s"}`;
   return [photos ? say(photos, "photo") : "", videos ? say(videos, "video") : ""].filter(Boolean).join(" and ");
+}
+/** What a list holds, in words (mediaWords), each told a video by `isVideo`. */
+const wordsFor = (list, isVideo) => { const v = list.filter(isVideo).length; return mediaWords(list.length - v, v); };
+/** What a job holds, in words: one file by its name; else wordsFor. */
+function jobWhat(items) {
+  return items.length === 1 ? items[0].name : wordsFor(items, (i) => i.kind === "video");
 }
 
 function jobTotals(job) {
@@ -1187,7 +1202,12 @@ function jobTotals(job) {
 // One part over XHR (net.js sendBytes) rather than fetch: fetch has no upload progress, and an
 // 8MB part on hostel wifi is exactly the stretch where a frozen bar reads as a hang. A part with
 // no bytes moving for 30 s is given up, and sent again like any part that got no answer.
-const sendPart = (url, blob, onProgress) => sendBytes(url, blob, { onProgress });
+const sendPart = (url, blob, onProgress, stallMs) => sendBytes(url, blob, { onProgress, stallMs });
+// A part given up for nothing moving while the phone has signal is a slow line or a slow server, not a lost signal
+// (27 Nov: a part whose answer took 40 s was given up at 30 s every time, the job "Waiting for signal" with signal,
+// for good). So the same part goes again at once, with twice the patience, up to PART_STALL_MAX_MS, and the job keeps
+// that patience for its later parts.
+const PART_STALL_MAX_MS = 8 * 60 * 1000;
 
 // The other uploads (a board's share and its prints and loop, a memory's thumb), on the same rule,
 // answered the way fetch() answers so their callers read it as before. No answer at all (the
@@ -1365,6 +1385,7 @@ async function runJob(job) {
           if (!b.ok) { if (hardFail(job, b)) return false; await park(job); break; }
           it.key = b.body.key;
           it.uploadId = b.body.uploadId;
+          keepOpen(job);
           if (Number(b.body.part_size) > 0) it.partSize = Number(b.body.part_size);
         }
         const total = Math.max(1, Math.ceil(it.bytes / it.partSize));
@@ -1376,9 +1397,16 @@ async function runJob(job) {
           const res = await sendPart(url, blob, (loaded) => {
             it.sent = from + Math.min(loaded, blob.size);
             throttleEmit();
-          });
+          }, job.stallMs || STALL_MS);
           if (!res.ok) {
             if (beginAgain(it, res)) break;
+            if (res.stalled && navigator.onLine !== false && jobs.includes(job)) {
+              job.stallMs = Math.min(PART_STALL_MAX_MS, (job.stallMs || STALL_MS) * 2);
+              it.sent = from;
+              emitLocal();
+              await new Promise((r) => setTimeout(r, 500));
+              continue;                                 // the same part, n unchanged
+            }
             if (hardFail(job, res)) return false; await park(job); break;
           }
           it.parts.push({ n, etag: res.body && res.body.etag });
@@ -1399,7 +1427,7 @@ async function runJob(job) {
           // Additive: a thumb that will not land costs a placeholder tile, not the memory.
           try {
             const res = await postBytes(T(`/media/thumb?for=${encodeURIComponent(it.key)}&mime=image/webp`), it.thumb, "image/webp");
-            if (res.ok) { const b = await res.json().catch(() => null); it.thumbKey = (b && b.key) || ""; }
+            if (res.ok) { const b = await res.json().catch(() => null); it.thumbKey = (b && b.key) || ""; keepOpen(job); }
           } catch { /* keep going */ }
         }
         it.done = true;
@@ -1424,6 +1452,7 @@ async function runJob(job) {
       if (!res.ok) { if (hardFail(job, res)) return false; await park(job); continue; }
       const row = res.body && (res.body.memory || res.body);
       jobs.splice(jobs.indexOf(job), 1);
+      closeOpen(job);
       if (row && row.id) commitRows([row]);
       // Posted, but the server couldn't keep when it happened (this phone's own clock far off, so
       // a time it took for the past is the server's future): it is on the day it was posted, and
@@ -1495,12 +1524,70 @@ function discardJob(id) {
   const i = jobs.findIndex((j) => j.id === id);
   if (i < 0) return;
   const [job] = jobs.splice(i, 1);
-  const urls = [];
-  for (const it of job.items) {
-    for (const k of [it.key, it.thumbKey]) if (k) urls.push(T(`/media/object?key=${encodeURIComponent(k)}`));
-  }
+  const urls = jobUrls(job);
   if (urls.length) { keepDrops([...new Set([...drops(), ...urls])]); dropUnposted(); }
+  closeOpen(job);
   emitLocal();
+}
+const jobUrls = (job) => job.items.flatMap((it) => [it.key, it.thumbKey]).filter(Boolean)
+  .map((k) => T(`/media/object?key=${encodeURIComponent(k)}`));
+
+// A JOB'S FILES, KEPT ON THE PHONE WHILE IT RUNS. The jobs live in this page alone (the header says why), and a phone
+// puts a Home Screen app away and starts it again later without a word: a job that had begun its files then leaves
+// them on the server, in no memory, holding the host's storage for good. So each job's begun files are written down
+// here as they begin (wgp.memopen: { job: { page, at, urls } }) and struck off when it posts or is discarded; a
+// Memories opened later hands the files of a job no running page holds to the same removal as Discard. Which pages
+// are running: each holds a Web Lock named for itself while it lives (adoptOrphans); a browser without Web Locks waits
+// until a job has been quiet for OPEN_QUIET_MS.
+const OPEN_KEY = "wgp.memopen";
+const OPEN_QUIET_MS = 30 * 60 * 1000;
+const PAGE_ID = uid("pg");
+const LOCK = (page) => `wgp-memories-${page}`;
+try { navigator.locks?.request(LOCK(PAGE_ID), () => new Promise(() => {})); } catch { /* no Web Locks: the quiet time decides */ }
+function opens() {
+  try {
+    const v = JSON.parse(localStorage.getItem(OPEN_KEY) || "{}");
+    return v && typeof v === "object" && !Array.isArray(v) ? v : {};
+  } catch { return {}; }
+}
+function keepOpens(v) {
+  try { if (Object.keys(v).length) localStorage.setItem(OPEN_KEY, JSON.stringify(v)); else localStorage.removeItem(OPEN_KEY); }
+  catch { /* private mode: nothing kept, as before */ }
+}
+function keepOpen(job) {
+  const v = opens();
+  v[job.id] = { page: PAGE_ID, at: Date.now(), urls: jobUrls(job) };
+  keepOpens(v);
+}
+function closeOpen(job) {
+  const v = opens();
+  if (v[job.id]) { delete v[job.id]; keepOpens(v); }
+}
+// Another page's jobs are taken over once that page is gone: its lock is asked for, and the browser grants it the
+// moment that page no longer holds it (at once when it was closed long ago; never while it runs, frozen or not).
+const waitingFor = new Set();
+function adoptOrphans() {
+  const pages = new Set(Object.values(opens()).map((o) => o && o.page).filter((pg) => typeof pg === "string" && pg !== PAGE_ID));
+  for (const pg of pages) {
+    if (waitingFor.has(pg)) continue;
+    if (navigator.locks) {
+      waitingFor.add(pg);
+      navigator.locks.request(LOCK(pg), async () => { adopt((o) => o.page === pg); }).catch(() => {}).finally(() => waitingFor.delete(pg));
+    } else {
+      adopt((o) => o.page === pg && Date.now() - (Number(o.at) || 0) > OPEN_QUIET_MS);
+    }
+  }
+}
+function adopt(mine) {
+  const v = opens();
+  const urls = [];
+  for (const [id, o] of Object.entries(v)) {
+    if (!o || !mine(o)) continue;
+    urls.push(...(Array.isArray(o.urls) ? o.urls.filter((u) => typeof u === "string") : []));
+    delete v[id];
+  }
+  keepOpens(v);
+  if (urls.length) { keepDrops([...new Set([...drops(), ...urls])]); dropUnposted(); }
 }
 const DROP_KEY = "wgp.memdrop";
 function drops() {
@@ -1785,6 +1872,8 @@ function openFramingSheet(mem, m, onSaved) {
   const bin = body.querySelector("#me-frb");
   const alab = body.querySelector(".me-fralab");
   const blab = body.querySelector(".me-frblab");
+  // An original this browser can't read (a HEIC outside Safari): the thumbnail, which it can.
+  if (!isVideo) el.addEventListener("error", () => { const t = thumbUrlOf(m); if (t && el.getAttribute("src") !== t) el.src = t; });
   el.src = src;
   zin.value = String(f.zoom);
 
@@ -1894,7 +1983,8 @@ function openViewer(mem, startIdx = 0, { onClose = null, originEl = null } = {})
   root.setAttribute("aria-label", "Media");
   root.dataset.chrome = "1";
   const skin = authorSkin(mem);
-  const when = `${fmtDay(mem.created_at, tripTz())} · ${fmtTime(mem.created_at, tripTz())}`;
+  // When it happened, as the card says it, with its day (the viewer has no day heading over it).
+  const when = whenSaid(mem, { withDay: true });
   root.innerHTML =
     `<div class="me-vscrim"></div>` +
     `<div class="me-vpane">` +
@@ -1963,6 +2053,8 @@ function openViewer(mem, startIdx = 0, { onClose = null, originEl = null } = {})
     return `<div class="me-vitem" data-i="${i}" data-kind="photo">` +
       `<img class="me-vimg" alt=""` + (thumb ? ` src="${esc(thumb)}"` : "") +
       ` data-full="${esc(m.url || mediaUrl(keyOf(m)))}">` +
+      // Said only when there is nothing to draw: no thumbnail, and an original this browser can't read (loadSlide).
+      `<p class="me-vnone" hidden>${ico("photo")}<span>This photo won't open full size: this browser can't read it.</span></p>` +
     `</div>`;
   }
 
@@ -2009,7 +2101,15 @@ function openViewer(mem, startIdx = 0, { onClose = null, originEl = null } = {})
       // was legal a moment ago cannot be left sitting outside the new bound.
       clampPan(i); applyZoom(i, false);
     };
-    full.onerror = () => { loaded.delete(i); if (!store.online()) item.dataset.miss = "1"; };
+    full.onerror = () => {
+      // No signal: it is fetched again when this slide comes round. With signal the browser can't read it (a HEIC
+      // outside Safari): it isn't fetched again, and with no thumbnail under it the slide says so. Save still hands
+      // over the original's bytes.
+      if (!store.online()) { loaded.delete(i); item.dataset.miss = "1"; return; }
+      item.dataset.unreadable = "1";
+      if (!img.getAttribute("src")) item.querySelector(".me-vnone").hidden = false;
+      if (i === idx) paintFrameBtn();
+    };
     full.src = img.dataset.full;
   }
 
@@ -2307,7 +2407,14 @@ function openViewer(mem, startIdx = 0, { onClose = null, originEl = null } = {})
   // ── paging ──────────────────────────────────────────────────────────────────────────────
   // Viewer save = THIS item. Prime small photos in RAM so it is genuinely one tap; video
   // stays the honest two (fetch with progress, then the sheet).
+  // The crop is chosen on the picture: a photo with nothing this browser can draw (no thumbnail, an original it can't
+  // read) has nothing to crop on, so its crop button goes; with a thumbnail the cropper draws that (openFramingSheet).
+  function paintFrameBtn() {
+    const it = itemAt(idx);
+    frameBtn.hidden = it.dataset.unreadable === "1" && !it.querySelector("img")?.getAttribute("src");
+  }
   function armSave() {
+    paintFrameBtn();
     const m = media[idx];
     const scope = `v:${mem.id}:${m.id || keyOf(m)}`;
     saveBtn.dataset.save = scope;
@@ -2517,7 +2624,9 @@ function layoutBox(el) {
 
 export default async function mount(el, ctx) {
   await hydrate();
-  // Files a Discard couldn't remove (no signal then, or the app closed before it could) go now.
+  // Files a Discard couldn't remove (no signal then, or the app closed before it could) go now, and so do those of an
+  // upload the app was closed in the middle of (adoptOrphans).
+  adoptOrphans();
   if (drops().length) dropUnposted();
 
   // Views with a segment in the control: the feed always, anything else once it is wired.
@@ -2692,9 +2801,7 @@ export default async function mount(el, ctx) {
     const extra = media.length - shown.length;
     // The time its photographs were taken; none for a day chosen by hand (no time is invented);
     // when it was posted for a memory that says nothing else. Posted on another day: said.
-    const posted = dayKey(m.created_at, tripTz());
-    const time = m.taken_at != null ? fmtTime(m.taken_at, tripTz()) : (m.day ? "" : fmtTime(m.created_at, tripTz()));
-    const when = [time, happenedDay(m) !== posted ? `posted ${dayLabel(posted)}` : ""].filter(Boolean).join(" · ");
+    const when = whenSaid(m);
     const one = media.length === 1 ? media[0] : null;
     const ar = one && one.width > 0 && one.height > 0
       ? Math.max(0.72, Math.min(1.9, one.width / one.height)) : 1.33;
@@ -2703,7 +2810,10 @@ export default async function mount(el, ctx) {
       const thumb = thumbUrlOf(mm);
       const dims = mm.width > 0 && mm.height > 0 ? ` width="${mm.width}" height="${mm.height}"` : "";
       return `<button class="me-cell" type="button" data-i="${i}" aria-label="${mm.kind === "video" ? "Video" : "Photo"} ${i + 1} of ${media.length}">` +
-        (thumb ? `<img alt="" loading="lazy" decoding="async" src="${esc(thumb)}"${dims}>` : "") +
+        (thumb ? `<img alt="" loading="lazy" decoding="async" src="${esc(thumb)}"${dims}>`
+          // No thumbnail (the phone that put it up couldn't draw it, a HEIC on most non-Apple phones): the tile says
+          // it holds a photo, not an empty square. A video has its play mark already.
+          : mm.kind === "video" ? "" : `<span class="me-cellnone" aria-hidden="true">${ico("photo")}</span>`) +
         `<span class="me-cellmark" aria-hidden="true">${ico("miss")}</span>` +
         (mm.kind === "video" ? `<span class="me-play" aria-hidden="true">${ico("play")}</span>` +
           `<span class="me-dur pill num">${esc(fmtDur(mm.duration_s))}</span>` : "") +
@@ -2979,7 +3089,7 @@ export default async function mount(el, ctx) {
     // WHAT WILL GO, THEN THE TWO BUTTONS, in that order down the sheet: with the buttons in
     // the head the sentence about a shared board sat under them, and a thumb reached Delete
     // before the eye reached the sentence.
-    const what = `<p class="lead">${media.length} ${media.length === 1 ? "item" : "items"}` +
+    const what = `<p class="lead">${esc(wordsFor(media, (m) => m.kind === "video"))}` +
       ` · ${esc(fmtBytes(media.reduce((s, m) => s + (m.bytes || 0), 0)))}</p>` +
       `<p class="me-delboards" role="status" hidden></p>`;
     const acts = `<div class="row me-delacts">` +
@@ -3182,7 +3292,12 @@ export default async function mount(el, ctx) {
       setDisabled(go, picked.length ? "" : "Choose photos or videos first");
       // Each row says its own size, so the button says only how many: with the total as well it took the head's
       // width at 390 and cut the sheet's title to "New me…".
-      go.textContent = picked.length ? `Upload ${picked.length} ${picked.length === 1 ? "item" : "items"}` : "Upload";
+      // Photos and videos together would be too long for the head beside the title ("Upload 98 photos and 2 videos" cut
+      // "Add photos" at 440): those say "Upload all 100", and the full words are the button's name.
+      const isVideo = (f) => (f.type || "").startsWith("video/"), videos = picked.filter(isVideo).length;
+      const words = wordsFor(picked, isVideo);
+      go.textContent = !picked.length ? "Upload" : videos && videos < picked.length ? `Upload all ${picked.length}` : `Upload ${words}`;
+      if (picked.length) go.setAttribute("aria-label", `Upload ${words}`); else go.removeAttribute("aria-label");
     }
     pickedBox.addEventListener("click", (e) => {
       if (e.target.closest(".me-pick-more")) { input.click(); return; }

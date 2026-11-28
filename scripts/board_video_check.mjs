@@ -18,8 +18,9 @@
  *   3. Reduced motion: after a reload nothing on the board plays by itself, and the play disc
  *      shows. The same when the phone says it saves data (navigator.connection.saveData).
  *
- *   1b. Its play disc fades out over about 200 ms once the clip's first frame shows, rather than vanishing in one frame,
- *       and on every frame of the fade it is on top of the clip at its centre (what a person sees, by hit-testing).
+ *   1b. Its play disc fades out over about 200 ms once the clip's first frame shows, rather than vanishing in one frame
+ *       (the opacity transition read from the browser's own animations, whatever the frame rate), and on every frame
+ *       caught part way it is on top of the clip at its centre (what a person sees, by hit-testing).
  *   1c. The board behind the Feed: none of its videos plays; back on the board, the print plays again.
  *   2b. With the memory still open, the app hidden and shown again: nothing on the board plays under it.
  *   3c. Data saver turned on while the board plays: it stops; turned off: it plays again.
@@ -134,7 +135,11 @@ try {
         document.head.append(hit);
         const f = () => { const cs = getComputedStyle(disc); const r = disc.getBoundingClientRect();
           const at = document.elementFromPoint(r.left + r.width / 2, r.top + r.height / 2);
-          seen.push({ t: Math.round(performance.now() - t0), o: Math.round(parseFloat(cs.opacity) * 100) / 100, v: cs.visibility, d: cs.display,
+          // The fade itself, as the browser runs it (Web Animations): its opacity transition's length and state. Counting
+          // the frames caught mid-fade instead failed now and then where frames come 60-140 ms apart (27 Nov: one frame in
+          // the 200 ms, the fade itself whole).
+          const anim = disc.getAnimations().filter((a) => a.transitionProperty === "opacity").map((a) => [Math.round(Number(a.effect.getComputedTiming().duration) || 0), a.playState]);
+          seen.push({ t: Math.round(performance.now() - t0), o: Math.round(parseFloat(cs.opacity) * 100) / 100, v: cs.visibility, d: cs.display, anim,
             top: at ? (disc.contains(at) ? "disc" : at.tagName === "VIDEO" ? "video" : at.className || at.tagName) : null });
           if (performance.now() - t0 < 500) requestAnimationFrame(f); else hit.remove(); };
         f();
@@ -199,9 +204,12 @@ try {
   const between = mid.length;
   const covered = mid.filter((f) => f.top !== "disc");
   const last = fade && fade[fade.length - 1];
-  check("1b. its play disc fades out as the clip starts (frames between shown and gone), on top of the clip on every one of them, and ends gone",
-    between >= 2 && covered.length === 0 && !!last && last.o === 0 && last.v === "hidden",
-    JSON.stringify({ frames: fade && fade.length, between, covered: covered.length, firstCovered: covered[0] || null, first: fade && fade.slice(0, 4), last }));
+  // The fade: an opacity transition of about 200 ms seen running (whatever the frame rate), and at least one frame caught
+  // part way, the disc on top of the clip on every such frame.
+  const fading = (fade || []).some((f) => (f.anim || []).some(([d, st]) => d >= 150 && d <= 300 && st === "running"));
+  check("1b. its play disc fades out as the clip starts (a 200 ms opacity transition, running; frames part way), on top of the clip on every one of them, and ends gone",
+    fading && between >= 1 && covered.length === 0 && !!last && last.o === 0 && last.v === "hidden",
+    JSON.stringify({ frames: fade && fade.length, fading, between, covered: covered.length, firstCovered: covered[0] || null, trace: (fade || []).map((f) => [f.t, f.o, f.top, ...(f.anim || [])]).slice(0, 10) }));
   check("the print has its own <video>, muted and playing, and the play disc is gone", first && at.has && at.muted === true && at.paused === false && !at.disc, JSON.stringify(at));
   const samples = [];
   for (let i = 0; i < 60; i++) { samples.push((await J(cdp, S, READ)).t); await sleep(100); }

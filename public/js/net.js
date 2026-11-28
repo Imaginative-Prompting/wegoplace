@@ -55,15 +55,24 @@ export function fetchWithin(input, init = {}) {
  * Sends bytes (a Blob, a File, an ArrayBuffer) over XHR, the only way a page sees an upload's
  * progress, and gives it up on a stall. Resolves, never rejects:
  *   { ok, status, body }      the server answered (body is its JSON, or null)
- *   { ok: false, status: 0 }  no answer: the line failed, or the upload stalled and was given up
+ *   { ok: false, status: 0 }  no answer: the line failed, or the phone said "offline"
+ *   { ok: false, status: 0, stalled: true }  nothing moved for `stallMs` (STALL_MS unless given), and it was given up:
+ *                             a caller that still has signal may send it again with a longer stall (a slow server)
  * `onProgress(loaded)` gets the bytes sent so far.
+ *
+ * The phone saying it has no signal (the window's "offline") gives a send up at once: a request in flight then neither
+ * moves nor fails until the stall's limit, so an upload sat "Uploading" for 30 s and only then waited, by which time
+ * the signal was back and its "online" gone by (up to ~45 s to go on, 27 Nov). Given up, the caller waits for signal
+ * and sends that part again; at most one part is sent twice.
  */
-export function sendBytes(url, body, { method = "POST", type = "application/octet-stream", headers = {}, onProgress } = {}) {
+export function sendBytes(url, body, { method = "POST", type = "application/octet-stream", headers = {}, onProgress, stallMs = STALL_MS } = {}) {
   return new Promise((resolve) => {
     const xhr = new XMLHttpRequest();
-    let stall = 0;
-    const done = (r) => { clearTimeout(stall); resolve(r); };
-    const wait = () => { clearTimeout(stall); stall = setTimeout(() => xhr.abort(), STALL_MS); };
+    let stall = 0, stalled = false;
+    const lost = () => xhr.abort();
+    const done = (r) => { clearTimeout(stall); removeEventListener("offline", lost); resolve(r); };
+    addEventListener("offline", lost);
+    const wait = () => { clearTimeout(stall); stall = setTimeout(() => { stalled = true; xhr.abort(); }, stallMs); };
     xhr.open(method, url);
     xhr.responseType = "json";
     xhr.withCredentials = true;
@@ -77,7 +86,7 @@ export function sendBytes(url, body, { method = "POST", type = "application/octe
     xhr.onprogress = wait;
     xhr.onload = () => done({ ok: xhr.status >= 200 && xhr.status < 300, status: xhr.status, body: xhr.response ?? null });
     xhr.onerror = () => done({ ok: false, status: 0, body: null });
-    xhr.onabort = () => done({ ok: false, status: 0, body: null });
+    xhr.onabort = () => done({ ok: false, status: 0, body: null, ...(stalled ? { stalled: true } : {}) });
     xhr.ontimeout = () => done({ ok: false, status: 0, body: null });
     wait();
     xhr.send(body);

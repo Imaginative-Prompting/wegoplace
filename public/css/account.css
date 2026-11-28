@@ -187,21 +187,6 @@ body[data-kb="1"] .lg-page { padding-bottom: var(--sp-3); }
   body[data-login-page] #p-signin > .lg-ways { margin-top: auto; }
 }
 
-/* ── the join page (/join/<code>) ───────────────────────────────────────────────────────── */
-
-/* A trip's name is whatever its people typed, up to 80 characters, with or without spaces. */
-.jn-name { overflow-wrap: anywhere; }
-/* Join, signed out: the largest control on the page, so a friend opening the link sees what to
-   press before anything else. */
-.btn.jn-join { min-height: 52px; font-size: 17px; }
-/* Signing in instead: a line of words under Join, its link a full thumb's height. */
-.jn-have { text-align: center; font-size: 14px; }
-.jn-link {
-  display: inline-flex; align-items: center; min-height: var(--tap);
-  padding: 0 var(--sp-1);
-  color: var(--accent); font-weight: 650; text-decoration: none;
-}
-
 /* ── the account page ───────────────────────────────────────────────────────────────────── */
 
 /* The shell's body is one fixed screen with its own scroller inside. This page is an ordinary

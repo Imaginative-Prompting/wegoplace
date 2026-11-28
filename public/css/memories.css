@@ -345,6 +345,23 @@ body:has(.sh-root[data-open="1"]) .fab.me-fab,
 .me-cell[data-miss="1"] .me-cellmark {
   display: grid;
 }
+/* A photo with no thumbnail: its glyph, so the tile reads as a photo (shape, not an empty square). Offline the
+   not-downloaded mark takes its place. */
+.me-cellnone {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: var(--ink-2);
+  background: var(--well);
+}
+.me-cellnone .ico {
+  width: 28px;
+  height: 28px;
+}
+.me-cell[data-miss="1"] .me-cellnone {
+  display: none;
+}
 .me-cell[data-miss="1"] img {
   opacity: 0;
 }
@@ -1100,6 +1117,31 @@ body:has(.sh-root[data-open="1"]) .fab.me-fab,
   -webkit-filter: none !important;
   backdrop-filter: none !important;
   mix-blend-mode: normal !important;
+}
+/* A photo with nothing this browser can draw: its glyph and the sentence, over the dark viewer. */
+.me-vnone {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  padding: 0 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  color: var(--on-shot);
+  font-size: var(--size-16);
+  line-height: 22px;
+  text-align: center;
+  pointer-events: none;
+}
+.me-vbtn[hidden],
+.me-vnone[hidden] {
+  display: none;
+}
+.me-vnone .ico {
+  width: 40px;
+  height: 40px;
 }
 .me-vmeta {
   flex: 0 0 auto;
